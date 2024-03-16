@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 21:02:51**
+As of **2024-03-16 21:17:42**
 
 ## Newspaper Stats
 
-*Scraped **13,302** Articles*
+*Scraped **13,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 699
 economynextcom | 709
 islandlk | 720
 adalk | 1,131
-adaderanalk | 1,607
+adaderanalk | 1,608
 tamilmirrorlk | 1,620
 virakesarilk | 1,852
 dailymirrorlk | 2,040
@@ -26,27 +26,55 @@ adaderanasinhalalk | 2,102
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,301 (100.0%) of 13,302 articles have been extended.
+13,302 (100.0%) of 13,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### මුදලට ක්‍රිකට් තරග පාවාදෙන්න බලපෑම් කළ දෙදෙනාට රටින් පිටවීම තහනම්
+### Indian-origin family dies in ‘suspicious fire’ in Canada, investigation underway
+
+*2024-03-16 21:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98002/indian-origin-family-dies-in-suspicious-fire-in-canada-investigation-underway) · `en`
+
+An Indian-origin couple along with their teenage daughter lost their lives in a “suspicious” fire that gutted their home in Canada’s Ontario province last week, said the police on Friday (Mar 15).
+
+According to the press release issued by the Peel Police, the family’s home, located at the Big Sky Way and Van Kirk Drive area of Brampton was engulfed by fire on March 7.
+
+After the fire was put under control, the investigators found the human remains inside the gutted house, however, they could not ascertain the number of people killed at the time.
+
+On Friday (Mar 15), the authorities identified the charred remains as those belonging to three family members: 51-year-old Rajiv Warikoo; his wife, 47-year-old Shilpa Kotha; and their 16-year-old daughter, Mahek Warikoo.
+
+The police officials informed that the family was living at the address before the fire broke out.
+
+On Friday (Mar 15), Peel police Constable Taryn Young said that the fire appeared ‘suspicious’, reported the CTV news channel.
+
+...
+
+[Data](articles/2c938109.json)
+
+---
+
+### Two people prohibited the departure of the country to betray cricket match
 
 *2024-03-16 20:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194582) · `si`
 
-මේ දිනවල පල්ලෙකැලේ ක්‍රිකට් ක්‍රිඩාංගණයේදී පැවැත්වෙන ලෙජන්ඩ්ස් ක්‍රිකට් තරගාවලිය අතරවාරයේදී ක්‍රීඩකයින්ට තරග පාවාදීමට බලපෑම් කළ බව කියන ඉන්දීය කළමනාකරුවෙකු වන යෝනි පටේල් සහ ඔහුගේ සහායක පැචලෝඩියා ආකාෂ්ට දිවයිනෙන් පිටත්වීමට තහනම් නියෝගයක් නිකුත් කර තිබේ.
+The Indian manager of the Legendz Cricket Tournament in Pallekele, banned by the Mistakes of Mistakes Special Police Investigation Unit, was involved in a betting scandal with former cricketers Upul Tharanga and Neil Brew. The International Cricket Council was informed of the fraud.
 
-ඒ ක්‍රීඩා වැරදිවලට සම්බන්ධ වැරදි වැළැක්වීමේ විශේෂ පොලිස් විමර්ශන ඒකකය මගින් කොළඹ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ පැමිණිල්ලකට අනුවය.
+🟩
 
-මෙම ඉන්දීය ජාතිකයින් මෙසේ මුදලට තරග පාවාදීමට ඇරයුම් කර ඇත්තේ ශ්‍රී ලංකා හිටපු ක්‍රිකට් ක්‍රීඩක සහ වත්මන් ශ්‍රී ලංකා තේරීම් කමිටු සභාපති උපුල් තරංගට සහ නවසීලන්ත හිටපු ක්‍රිකට් ක්‍රීඩක නීල් බෘෘම්ටය.
+The Indian manager of the Legendz Cricket Tournament in the Pallekele Cricket Tournament has been a banned ordered to leave.
 
-මෙම සිදුවීම සම්බන්ධයෙන් උපුල් තරංග සහ නීල් බෘෘම් ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ වංචා සහ දූෂණ විමර්ශන ඒකකයටද දැනුවත් කර තිබේ.
+According to a complaint lodged by the Special Police Investigation Unit, a special police investigation unit of the Mistakes of Mistakes.
+
+These Indian nationals have invited the money for the money, former Sri Lanka Cricketer and Upul Tharanga and former New Zealand Cricketer Neil Brew.
+
+Upul Tharanga and Neil Brwarn International Cricket Council is also informed of the fraud and corruption in the International Cricket Council.
 
 ◼️
 
 [Data](articles/116af267.json)
+
+[Extended Data](ext_articles/116af267.ext.json)
 
 ---
 
@@ -2313,25 +2341,5 @@ The Ministry of Education has stated that the time for submission of application
 [Data](articles/a115aa6d.json)
 
 [Extended Data](ext_articles/a115aa6d.ext.json)
-
----
-
-### 55 hectares of forests destroyed by wildfire
-
-*2024-03-16 02:51:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/55-ஹெக்டேர்-காடுகள்-காட்டுத்-தீயினால்-அழிவு/175-334736) · `ta`
-
-Wildfire destroys 55 hectares of forests. The Forest Department plans to implement measures from the 25th to prevent future wildfires.
-
-🟩
-
-55 hectares of forests have been destroyed due to wildfire recorded over the past few weeks, the Forest Department said.
-
-The Department has stated that the week is scheduled to be implemented from the 25th of this month to prevent wildfire in the current situation.. (A)
-
-◼️
-
-[Data](articles/841573d1.json)
-
-[Extended Data](ext_articles/841573d1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 01:17:52**
+As of **2024-03-17 01:33:29**
 
 ## Newspaper Stats
 
-*Scraped **13,314** Articles*
+*Scraped **13,315** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 720
 adalk | 1,136
 adaderanalk | 1,610
 tamilmirrorlk | 1,620
-virakesarilk | 1,852
+virakesarilk | 1,853
 dailymirrorlk | 2,041
 adaderanasinhalalk | 2,104
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,313 (100.0%) of 13,314 articles have been extended.
+13,314 (100.0%) of 13,315 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -593,6 +593,24 @@ Accordingly, it has been announced that the Government of India will be paid 250
 [Data](articles/293f7788.json)
 
 [Extended Data](ext_articles/293f7788.ext.json)
+
+---
+
+### கனடாவில் கொலை செய்யப்பட்ட அறுவரின் இறுதிச் சடங்கு நாளை : சந்தேக நபருக்கு 28வரையில் விளக்கமறியல்
+
+*2024-03-16 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178885) · `ta`
+
+கனடாவில் கொலை செய்யப்பட்ட இலங்கையர்கள் அறுவரினதும் இறுதிக் கிரியைகள் ஞாயிற்றுக்கிழமை (17)  நடைபெறவுள்ளதாக கனடாவுக்கான பௌத்த காங்கிரஸ் அறிவித்துள்ளது.
+
+கனடிய பௌத்த காங்கிரஸின் வதிவிட பிரதிநிதியான, பாந்தே சுனீதா தேரர் விடுத்துள்ள அறிவிப்பில், கனடாவின் பௌத்த காங்கிரஸ் மற்றும் தன்னார்வலர்களின் ஏற்பாட்டுக் குழுவுடன் சேர்ந்து, கடந்தவாரம் இடம்பெற்ற சோகமான சம்பவத்தில் உயிரிழந்த அறுவரினதும் இறுச்சடங்களை ஞாற்றுக்கிழமை மதியம் ஒரு மணிக்கு (கனடிய நேரப்படி) திட்டமிடப்பட்டுள்ளது.
+
+இந்த இறுதிச்சடங்கானதுரூபவ் ஒட்டாவாவில் உள்ள இலக்கம் 2901 கிப்ஃபோர்ட் உள்ள இன்ஃபினிட்டி கன்வென்ஷன் சென்டரில் முன்னெடுக்கப்படவுள்ளது.
+
+இதேநேரம்,  சம்பவத்தில் பாதிக்கப்பட்ட விக்கிரமரத்ன உடல்ரீதியாக குணமடைந்து வருவதோடு உளரீதியாக அவருக்கு கடந்த வார நிகழ்வுகளில் இருந்து மீள்வதற்கான உளவியல் ஆதரவு அவசியமாக உள்ளது. இறுதிச் சடங்கில் அவர் பங்கேற்கவுள்ளதோடு எந்தவொரு உரையாடல்களிலும் அவர் பங்கேற்கப்போவதில்லை என்றுள்ளது.
+
+...
+
+[Data](articles/44834044.json)
 
 ---
 
@@ -1716,17 +1734,23 @@ The suspect had come to Wattala Police and he was arrested.
 
 ---
 
-### වියළි කාලගුණය තවදුරටත්
+### Dry weather no more
 
 *2024-03-16 11:39:37* · [`adalk`](https://www.ada.lk/breaking_news/වියළි-කාලගුණය-තවදුරටත්/11-408635) · `si`
 
-දිවයිනේ ස්ථාන ස්වල්පයක ඇතැවිය හැකි හැරෙන්නට සෙසු ප්‍ර දේශවල ප්‍රධාන වශයෙන් වියළි කාලගුණ තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Dry weather ends; thundershowers expected in Western, Sabaragamuwa, Central provinces, and Galle, Matara districts at night.
 
-බස්නාහිර, සබරගමුව හා මධ්‍යම පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිමට ඉඩ ඇති බව එම දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+🟩
+
+The Department of Meteorology states that there is a major dry weather in other lands except able to be found in a few places in the island.
+
+Thundershowers will develop at several places in the Western, Sabaragamuwa and Central provinces and at night or night in the Galle and Matara districts.
 
 ◼️
 
 [Data](articles/8662b176.json)
+
+[Extended Data](ext_articles/8662b176.ext.json)
 
 ---
 
@@ -2359,31 +2383,5 @@ The petitioner claims that the nomination of Deshabandu Tennakoon, which was rec
 [Data](articles/6d796086.json)
 
 [Extended Data](ext_articles/6d796086.ext.json)
-
----
-
-### 17 police officers including SDIGs transferred; CID gets new director
-
-*2024-03-16 07:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97987/17-police-officers-including-sdigs-transferred-cid-gets-new-director) · `en`
-
-A total of 17 senior police officers including Senior Deputy Generals of Police (SDIGs) have been transferred with immediate effect.
-
-The transfers were made under the directives of Inspector General of Police (IGP) Deshabandu Tennakoon, pursuant to a decision made by the National Police Commission.
-
-Among the transferred officers are 8 Senior Deputy Generals of Police (SDIGs), one Deputy General of Police (DIG), 8 Senior Superintendent of Police (SSPs) and one Superintendent of Police (SP).
-
-Notably, SSP E.M.M.S. Dehideniya, who was serving as the Officer-in-Charge (OIC) of the Mount Lavinia Police Division has been moved to the Criminal Investigation Department (CID) as its director.
-
-Meanwhile, current DIG director SSP K.G.A.K. Piyasekara has been transferred to lead the Kalutara Police Division.
-
-1. SDIG W. L. A. S. Priyantha Weerasuriya – From Crimes and Traffic Division to the North Central Province
-
-2. SDIG S. C. Medawatta – From Southern Province to Training & Higher Training Division
-
-...
-
-[Data](articles/0df11c82.json)
-
-[Extended Data](ext_articles/0df11c82.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 10:03:09**
+As of **2024-03-16 10:17:55**
 
 ## Newspaper Stats
 
-*Scraped **13,217** Articles*
+*Scraped **13,222** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,117 @@ dailyftlk | 699
 economynextcom | 708
 islandlk | 719
 adalk | 1,130
-adaderanalk | 1,589
+adaderanalk | 1,590
 tamilmirrorlk | 1,605
-virakesarilk | 1,834
-dailymirrorlk | 2,027
+virakesarilk | 1,837
+dailymirrorlk | 2,028
 adaderanasinhalalk | 2,084
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,217 (100.0%) of 13,217 articles have been extended.
+13,217 (100.0%) of 13,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### விக்டோரியா, ரன்தெனிகல நீர்தேக்கங்களில் நீர் வற்றுகிறது
+
+*2024-03-16 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178839) · `ta`
+
+மத்திய மலைநாட்டில் நிலவும் கடும் வறட்சியான வானிலை காரணமாக விக்டோரியா மற்றும் ரன்தெனிகல நீர்த்தேக்கங்களில் இருந்து நாளொன்றுக்கு சுமார் எட்டு மில்லி மீற்றர் நீர் ஆவியாவதாக மத்திய மாகாண நீர்ப்பாசன பொறியியலாளர் திரு.தினேஷ் சுமனசேகர கூறுகிறார்.
+
+மினிப்பே திட்டத்தின் கீழ் விவசாயம் மேற்கொள்வதற்காக நீர் பெறும் பிரதான நீர்த்தேக்கங்களின் மொத்த நீர் கொள்ளளவில் 88 வீதம் தற்போதுள்ள போதிலும், நீர் வற்றும் நிலை கானப்படுவதால்  எதிர்காலத்தில் விவசாய நடவடிக்கைகளில் நீர் தட்டுப்பாடு ஏற்படக் கூடும் எனவும் அவர் சுட்டிக்காட்டினார்.
+
+எனவே, நீரை பயன்படுத்தும் போது  செய்யும் போது முறையான நீர் முகாமத்துவத்தை மேற்கொள்ள வேண்டும் எனவும் அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/6beebf71.json)
+
+---
+
+### சிரேஷ்ட பிரதி பொலிஸ் மா அதிபர்கள் உட்பட 18 பொலிஸ் அதிகாரிகள் இடமாற்றம்
+
+*2024-03-16 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/178836) · `ta`
+
+சிரேஷ்ட பிரதிப் பொலிஸ் மா அதிபர்கள் (SDIGs) உட்பட 18 சிரேஷ்ட பொலிஸ் அதிகாரிகள் உடனடியாக  அமுலுக்கு வரும் வகையில் இடமாற்றம் செய்யப்பட்டுள்ளனர்.
+
+இந்த இடமாற்றங்கள் தேசிய பொலிஸ் ஆணைக்குழுவின் தீர்மானத்திற்கு அமைய பொலிஸ் மா அதிபர் (IGP) தேசபந்து தென்னக்கோனின் பணிப்புரையின் கீழ் வழங்கப்பட்டுள்ளன.
+
+இடமாற்றம் செய்யப்பட்ட அதிகாரிகளில் 8 சிரேஷ்ட பிரதிப் பொலிஸ்மா அதிபர்கள் (SDIGக்கள்), ஒரு பிரதிப் பொலிஸ்மா அதிபர் (DIG),  8 மூத்த பொலிஸ் அத்தியட்சகர்கள் (SSPக்கள்) மற்றும் ஒரு பொலிஸ் அத்தியட்சகர் (SP) ஆகியோர் அடங்குவர்.
+
+கல்கிசை பொலிஸ் பிரிவின் பொறுப்பதிகாரியாக (OIC) கடமையாற்றிய எஸ்எஸ்பி இ.எம்.எம்.எஸ். தெகிதெனிய, குற்றப் புலனாய்வு திணைக்களத்தின் (CID) பணிப்பாளராக மாற்றப்பட்டுள்ளார்.
+
+இந்நிலையில், தற்போதைய குற்றப் புலனாய்வு திணைக்களத்தின் பணிப்பாளர் எஸ்எஸ்பி கே.ஜி.ஏ.கே. பியசேகர களுத்துறை பொலிஸ் பிரிவிற்கு தலைமை தாங்குவதற்கு இடமாற்றம் செய்யப்பட்டுள்ளார்.
+
+1. SDIG W. L. A. S. Priyantha Weerasuriya – From Crimes and Traffic Division to the North Central Province
+
+...
+
+[Data](articles/8205d187.json)
+
+---
+
+### Sri Lanka, India to co-host ICC Men’s T20 World Cup in 2026
+
+*2024-03-16 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97989/sri-lanka-india-to-co-host-icc-mens-t20-world-cup-in-2026) · `en`
+
+The Board of International Cricket Council (ICC) has green-lighted the qualification process for the Men’s T20 World Cup which will be co-hosted by Sri Lanka and India in 2026.
+
+Approval was given at the meeting of the Board convened in Dubai earlier this week.
+
+ICC said the future structure and context of international bilateral cricket was top of the agenda of this meeting.
+
+The 10th edition of the event will see 12 automatic qualifiers. These will include the joint hosts along with the top 8 teams from the ICC Men’s T20 World Cup 2024.
+
+Being the hosts, India and Sri Lanka will directly qualify for the tournament, while teams finishing in top 8 spots in the ICC T20 World Cup 2024 will qualify for the next edition as well.
+
+If India and Sri Lanka finish in the top 8, six other teams will qualify for the T20 World Cup 2026, if India and Sri Lanka finish at a position lesser than 8th in the 2024 edition, they will qualify along with teams finishing in top eight positions.
+
+...
+
+[Data](articles/8e2fd4d5.json)
+
+---
+
+### டிக்டொக் செயலிக்கு எதிராக அமெரிக்காவில் சட்டம்
+
+*2024-03-16 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178837) · `ta`
+
+டிக்டொக் செயலியை (Tik Tok) கட்டுப்படுத்துவது தொடர்பான சட்டமூலம் அமெரிக்க பாராளுமன்றத்தில் தாக்கல் செய்யப்பட்டது.
+
+சீன செயலியான டிக்டொக் தனிநபர் உரிமை மற்றும் தேசிய பாதுகாப்புக்கு அச்சுறுத்தலாக உள்ளது என கூறி இந்தியா உள்பட பல நாடுகள் அதனை தடை செய்துள்ளன.
+
+இந்நிலையில் தற்போது டிக்டொக் செயலியை கட்டுப்படுத்துவது தொடர்பான சட்டமூலம் அமெரிக்க பாராளுமன்றத்தில் தாக்கல் செய்யப்பட்டது. இதற்கு ஆதரவாக 352 பேரும், எதிராக 65 பேரும் வாக்களித்தனர். இதன் மூலம் இந்த சட்டமூலம் வெற்றிகரமாக நிறைவேறியது. ஜனாதிபதி ஜோ பைடன் கையெழுத்திட்ட பின்னர் இந்த சட்டமூலம் சட்டமாக மாறும் என்பது குறிப்பிடத்தக்கது.
+
+இந்த சட்டமூலம் டிக்டொக் செயலியை தடை செய்யாது எனவும், அதேசமயம் அதன் உரிமையாளரை கட்டுப்படுத்தி மக்களின் தனிநபர் உரிமையை பாதுகாக்க முடியும்' எனவும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/ae126b6d.json)
+
+---
+
+### India and Sri Lanka to co-host Men’s T20 World Cup 2026
+
+*2024-03-16 09:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-and-Sri-Lanka-to-co-host-Mens-T20-World-Cup-2026/108-278987) · `en`
+
+Dubai, March 16 (Daily Mirror) - International Cricket Council (ICC) has approved the qualification process for Men’s T20 World Cup 2026. The 20-team tournament will be co-hosted by India and Sri Lanka, and will have a total of 12 automatic qualifiers.
+
+The top eight teams in the 2024 edition will join India and Sri Lanka as automatic qualifiers, with the remaining spots (between two and four, depending on host finishing positions) taken up by the next best-ranked sides in the ICC Men’s T20I rankings table as of 30 June, 2024.
+
+The remaining eight positions will be filled through the Regional Qualifiers.
+
+The ICC Board met in Dubai this week and the future structure and context of international bilateral cricket was top of the agenda.
+
+◼️
+
+[Data](articles/9258bc17.json)
+
+---
 
 ### Eighteen Police officers including 8 Senior DIGs and CID Director transferred
 
@@ -2029,121 +2125,5 @@ Pottuvil Police Officer Kamal Seneviratne is conducting further inquiries on the
 [Data](articles/9d169bd9.json)
 
 [Extended Data](ext_articles/9d169bd9.ext.json)
-
----
-
-### Do not sell national resources and show our nakedness to the whole world - Asgiri Anunayaka
-
-*2024-03-15 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/178809) · `ta`
-
-Asgiri Anunayaka emphasizes the importance of not selling national resources and maintaining cultural integrity. He advocates for state administration without politicization, focusing on charity and cooperation for prosperity.
-
-🟩
-
-The rulers must make the best state administration into the country without politicizing all matters. Asgiri Anunayaka Vidhuve Upali Thera said that the country is prosperous when the state mechanisms work together with charity.
-
-He said this while participating in the Maha Sangam Federation held in Kelaniya on Thursday (14) against the sale of national resources overseas.
-
-The best state administration should be placed in the country without politicizing all matters of the country. State mechanisms must be done with charity for the timely rainfall and agriculture prosperous.It is not possible to sell the country's valuable resources.
-
-And don't try to sell the dress we are wearing. So it is important to us to protect our superior culture.
-
-It is a national crime to sell the country's resources overseas. Therefore, the rulers should advise the news that these matters should be carried out by the state administration.
-
-...
-
-[Data](articles/2c2f9914.json)
-
-[Extended Data](ext_articles/2c2f9914.ext.json)
-
----
-
-### Massive target of Sri Lanka
-
-*2024-03-15 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194548) · `si`
-
-In the 2nd ODI, Sri Lanka won the toss and chose to bat first. Bangladesh scored 286/7 in 50 overs, with Tawild Rido's 96 not out, including 5 fours and 4 sixes, in 102 balls.
-
-🟩
-
-The second ODI match between the Tourism Sri Lanka and the Bangladesh team is currently underway.
-
-The Sri Lankan team won the advantage of its coin, and they invited Bangladesh to bat first.
-
-Accordingly, Bangladesh scored 286 runs for the loss of 7 wickets in their allotted 50 overs.
-
-Tawild Rido, playing a great innings on Bangladesh team, scored 96 not out.
-
-He is a huge 6 bowlers of the innings.
-
-Ridoi faced 102 balls and his innings included 5 hits and 4 hits.
-
-◼️
-
-[Data](articles/a1f0405b.json)
-
-[Extended Data](ext_articles/a1f0405b.ext.json)
-
----
-
-### Over 3,000 families facing drinking water shortage, DMC urges to contact hotline for assistance
-
-*2024-03-15 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/97981/over-3000-families-facing-drinking-water-shortage-dmc-urges-to-contact-hotline-for-assistance-) · `en`
-
-Residents in areas facing drinking water issues have been urged to promptly contact the Disaster Management Center (DMC) on hotline 117 for assistance, in view of the ongoing arid weather conditions.
-
-Speaking in this regard, Deputy Director of the DMC, Pradeep Kodippili, also stated that area residents could also contact their nearest Grama Niladari Officer in a bid to resolve the matter.
-
-Reports have revealed that as of now, nearly 3,000 families in the Kegalle and Kurunegala districts are grappling with drinking water shortages.
-
-Accordingly, Kodippili assured that collaborative efforts are underway with the National Disaster Relief Service Center and water transportation units to ensure that affected communities receive timely support and solutions to alleviate their drinking water challenges.
-
-◼️
-
-[Data](articles/eb8e0989.json)
-
-[Extended Data](ext_articles/eb8e0989.ext.json)
-
----
-
-### Developing India-Sri Lanka trade relations crucial: President
-
-*2024-03-15 17:13:00* · [`economynextcom`](https://economynext.com/developing-india-sri-lanka-trade-relations-crucial-president-154812/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s immediate focus should be on enhancing relations with India, President Ranil Wickremesinghe has said.
-
-“We aim to foster comprehensive ties between our two nations, particularly in the realms of transportation and energy,” Wickremesinghe said at a ceremony organized by the Sri Lanka India Society in Colombo on Thursday attended by Indian High Commissioner to Sri Lanka Santosh Jha.
-
-“There is a profound religious and cultural bond between Sri Lanka and India, and we share a common heritage.
-
-“We are both democracies with a shared British legal system. However, we have unfortunately overlooked the trade and economic relationship between Sri Lanka and India.”
-
-Wickremesinghe said the country must strategically leverage Sri Lanka’s advantageous position to benefit South India. “Our objective is to secure advantages for Sri Lanka and provide additional renewable energy resources for South India.”
-
-...
-
-[Data](articles/74d60d0d.json)
-
-[Extended Data](ext_articles/74d60d0d.ext.json)
-
----
-
-### Sri Lanka rupee closes at 305.20/25 to the US dollar
-
-*2024-03-15 17:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-305-20-25-to-the-us-dollar-154814/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 305.20/25 to the US dollar in the spot forex market on Friday, slightly stronger from 305.50/55 on Thursday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 11.30/40 percent from 11.30/35 percent.
-
-A bond maturing on 15.09.2027 closed at 11.85/95 percent down from 11.90/12.05 percent.
-
-A bond maturing on 15.12.2028 closed stable at 12.10/15 percent. (Colombo/Mar15/2024)
-
-◼️
-
-[Data](articles/d5f2bb89.json)
-
-[Extended Data](ext_articles/d5f2bb89.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 18:20:12**
+As of **2024-03-16 18:33:12**
 
 ## Newspaper Stats
 
-*Scraped **13,288** Articles*
+*Scraped **13,290** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ dailyftlk | 699
 economynextcom | 709
 islandlk | 720
 adalk | 1,131
-adaderanalk | 1,602
+adaderanalk | 1,603
 tamilmirrorlk | 1,619
 virakesarilk | 1,850
 dailymirrorlk | 2,039
-adaderanasinhalalk | 2,097
+adaderanasinhalalk | 2,098
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,287 (100.0%) of 13,288 articles have been extended.
+13,288 (100.0%) of 13,290 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### U.N. agency in Gaza says one in three children under 2 is acutely malnourished
+
+*2024-03-16 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97997/un-agency-in-gaza-says-one-in-three-children-under-2-is-acutely-malnourished) · `en`
+
+One in three children under age 2 in northern Gaza is now acutely malnourished and famine is looming, the main U.N. agency operating in the Palestinian enclave said on Saturday.
+
+“Children’s malnutrition is spreading fast and reaching unprecedented levels in Gaza,” the U.N. Relief and Works Agency for Palestine Refugees (UNRWA) said in a social media post.
+
+More than five months into Israel’s air and ground campaign in Gaza, triggered by Hamas’ attack on Oct. 7, much of the enclave is in ruins with most of its 2.3 million population displaced and facing a major humanitarian crisis.
+
+Hospitals in Gaza have reported some children dying of malnutrition and dehydration.
+
+The international food insecurity watchdog, the IPC, is expected to report soon on the extent of the hunger crisis in Gaza after saying in December there was a risk of famine in the projection period through May.
+
+...
+
+[Data](articles/83cc6637.json)
+
+---
+
+### 2027 දී 2018 තත්ත්වය යළි උදා කරගන්න ඕනේ - ජනපති
+
+*2024-03-16 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194578) · `si`
+
+2027 වසරේදි 2018 වසරේ මෙරට තිබු ආර්ථික තත්ත්වය යළි උදා කරගැනීමට අපේක්ෂා කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ඊයේ කොළඹ පැවති වැඩසටහනකදී ජනාධිපතිවරයා වැඩිදුරටත් සඳහන් කළේ මේ වසරේදී 2%ක ආර්ථික වර්ධනයක් ද බලාපොරොත්තු වන බවය.
+
+රජය ක්‍රියාත්මක කර ඇති සංවර්ධන වැඩසටහන්වල ප්‍රගතිය පිළිබඳ දිස්ත්‍රික් ලේකම්වරු සහ ප්‍රාදේශීය ලේකම්වරුන් සමග ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඊයේ කොළඹදී සාකච්ඡාවක නිරත වුණි.
+
+"සවිමත් අනාගතයට පෙරවදනක් – 2024" යන තේමාව යටතේ සංවිධානය කර තිබූ මෙම හමුවේදී රජය විසින් ක්‍රියාවට නංවා ඇති සංවර්ධන වැඩසටහන් සහ ඒවා ක්‍රියාත්මක කිරීමේදී මතුව ඇති ගැටලු පිළිබඳව දීර්ඝ ලෙස සාකච්ඡාවට ලක් කෙරුණි.
+
+"අප මෙම 2024 වසරේදී 2%ක ආර්ථික වර්ධනයක් ලබා ගැනීමට අපේක්ෂා කරනවා. අප මෙම වසරේදී 2%ක ආර්ථික වර්ධනයක් ලබාගත්ත ද 2019 වසරේ පැවති තත්ත්වයට පැමිණීමට තව වසර දෙක තුනක් පමණ ගතවනු ඇති. කෙසේ වෙතත් 2027 වසරට හෝ ඊට පෙර එම ඉලක්කය වෙත ළඟා වීම මගේ අරමුණයි."
+
+◼️
+
+[Data](articles/17942c89.json)
+
+---
 
 ### New mobile application promoting beach cleanliness to be launched
 
@@ -51,6 +91,8 @@ He highlighted that the new mobile application will serve as a tool to facilitat
 ...
 
 [Data](articles/3aa9aca8.json)
+
+[Extended Data](ext_articles/3aa9aca8.ext.json)
 
 ---
 
@@ -2239,47 +2281,5 @@ The Liberation Tigers of Tamil Eelam(LTTE) organization fought the armed forces 
 [Data](articles/5e5b18b1.json)
 
 [Extended Data](ext_articles/5e5b18b1.ext.json)
-
----
-
-### Sri Lanka Federation of University Women celebrates International Women’s Day
-
-*2024-03-16 00:20:14* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Federation-of-University-Women-celebrates-International-Women-s-Day/56-759574) · `en`
-
-The Sri Lanka Federation of University Women (SLFUW) launched an ambitious program for ’International Women’s Day long before 8 March, with a series of projects in line with this year’s UN theme of ‘Invest in Women Accelerate Progress.’
-
-SLFUW President Colonel Dr. Udula Krishnaratne explained that in practical terms this means, ‘Inspire the inclusion of women in every field to forge a better world.’ This conveys the need to ‘provide women and girls with access to quality education and training.’
-
-Thus, the SLFUW has planned to award 16 Scholarships to underprivileged female undergraduates from State Universities, of which one was awarded in advance on 27 February, to a student in dire circumstances due to health problems in the family. The other 15 scholarships will be awarded to coincide with IWD celebrations.
-
-A Career Guidance Course for university students will also be carried out to develop their personality and social skills, thereby enhancing their prospects of employment.
-
-...
-
-[Data](articles/fd848b1d.json)
-
-[Extended Data](ext_articles/fd848b1d.ext.json)
-
----
-
-### Prison Hospital Welikada conducts health camp
-
-*2024-03-16 00:19:45* · [`dailyftlk`](https://www.ft.lk/news/Prison-Hospital-Welikada-conducts-health-camp/56-759573) · `en`
-
-In a proactive move towards ensuring the well-being of inmates of Prison Complex Welikada, the Prison Hospital Welikada conducted a successful health camp for cataract surgery for the third time on 23 February.
-
-This initiative aimed at providing and improving the health and quality of life of inmates.
-
-The surgeries were conducted by consultant eye surgeon, Dr. M.D.S. Gunathilaka and the medical team of the National Eye Hospital. This team also provides great service for conducting monthly eye clinics at the Prison Hospital.
-
-This was a great idea of the Medical Officer in Charge of Prison Hospital, Welikada Dr. Gayani Tiskumara, consultant eye surgeon and the medical staff of the hospital.
-
-Lenses and other medical items were donated by V. Sarveshwaran , who is a well-known volunteer.
-
-...
-
-[Data](articles/664606dc.json)
-
-[Extended Data](ext_articles/664606dc.ext.json)
 
 ---

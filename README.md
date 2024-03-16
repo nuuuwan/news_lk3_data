@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 15:17:59**
+As of **2024-03-16 15:33:24**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,093
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,265 (100.0%) of 13,266 articles have been extended.
+13,266 (100.0%) of 13,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### තියුණු ආයුධයකින් පහරදී පුද්ගලයෙකු ඝාතනය කරයි
+### A person is hit with a sharp object
 
 *2024-03-16 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194571) · `si`
 
-අද (16) උදෑසන කාලයේදී වැලිගම උයන්කන්ද ප්‍රදේශයේදී පුද්ගලයෙකුව ඝාතනය කර තිබේ.
+A person was murdered in Weligama's Uyankanda area this morning with a sharp instrument. The victim and suspect ran tourist hotels. The suspect was attacked by the victim's family.
 
-තියුණු ආයුධයකින් පහරදී මෙම ඝාතනය සිදුකර ඇති බව පොලීසිය පවසයි.
+🟩
 
-මියගිය පුද්ගලයා සහ සැකකරු සංචාරක හෝටල් දෙකක් පවත්වාගෙන යන අතර අද දින හෝටල් දෙකට යාබදව වෙරළ ආසන්නයේ පිහිටි ගසක් කැපීම හේතුවෙන් ඇතිවූ ආරවුලක් දුරදිග යෑමෙන් සැකකරුගේ බිරිඳ, දරුවන් සහ ඥාතීන් විසින් මරණකරුට පහරදී තිබේ.
+A person has been murdered in the Uyankanda area in Weligama this morning (16).
 
-එම අවස්ථාවේදී සැකකරු විසින් තියුණු ආයුධයකින් පහරදී මෙම ඝාතනය සිදුකර ඇති බව හෙළිවී ඇත.
+The murder had been carried out with a sharp instrument, police said.
+
+The deceased and the suspect are running two tourist hotels and the deceased has been attacked by the wife, children and relatives of the suspect.
+
+The suspect had been assaulted by the murder with a sharp instrument.
 
 ◼️
 
 [Data](articles/067bf79a.json)
+
+[Extended Data](ext_articles/067bf79a.ext.json)
 
 ---
 

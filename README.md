@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 10:33:15**
+As of **2024-03-16 10:51:21**
 
 ## Newspaper Stats
 
-*Scraped **13,222** Articles*
+*Scraped **13,226** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,25 +16,59 @@ dailyftlk | 699
 economynextcom | 708
 islandlk | 719
 adalk | 1,130
-adaderanalk | 1,590
+adaderanalk | 1,592
 tamilmirrorlk | 1,605
-virakesarilk | 1,837
+virakesarilk | 1,838
 dailymirrorlk | 2,028
-adaderanasinhalalk | 2,084
+adaderanasinhalalk | 2,085
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,222 (100.0%) of 13,222 articles have been extended.
+13,222 (100.0%) of 13,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
+### தெஹிவளை, இரத்மலானை, மொரட்டுவை, பாணந்துறை, வாதுவை, வஸ்கடுவ பிரதேசமக்களுக்கு விடுக்கப்பட்டுள்ள வேண்டுகோள் !
+
+*2024-03-16 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178841) · `ta`
+
+நிலவுகின்றன கடுமையான வறட்சியுடன் கூடிய வானிலை மற்றும் அதிகரித்த  நீர்ப்பாவனை போன்றவற்றினால் நீர் வழங்கலை மேற்கொள்வதில் கடும் சிரமங்களை எதிர்கொள்வதாக தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+
+குறிப்பாக தெஹிவளை, இரத்மலானை, மொரட்டுவை, பாணந்துறை, வாதுவை மற்றும் வஸ்கடுவ ஆகிய பிரதேசங்களுக்கான நீர் வழங்கலை மேற்கொள்வதில் கடும் சிரமங்களை எதிர்கொள்வதாக தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+
+இதனால் இப் பிரதேசங்களுக்கான தொடர்ச்சியான தடையற்ற நீர் வழங்கலை மேற்கொள்வதில் சிரமம் காணப்படுகின்றது.
+
+எனவே, குறித்த பிரதேசத்தில் உள்ள பாவனையாளர்கள் நீரினை சிக்கனமாகவும் சேமிப்புடனும் பயன்படுத்துமாறும் இதுதொடர்பில் நீர் பாவனையாளர்களின் ஆதரவும் புரிந்துணர்வும் தமக்கு தேவைப்படுவதாகவும் தேசிய நீர்வழங்கல் மற்றும் வடிகாலமைப்புச் சபை கேட்டுக்கொண்டுள்ளது.
+
+◼️
+
+[Data](articles/477547c9.json)
+
+---
+
+### Govt. to appoint over 2,000 Grama Niladhari officers before end of April
+
+*2024-03-16 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97990/govt-to-appoint-over-2000-grama-niladhari-officers-before-end-of-april) · `en`
+
+State Minister of Home Affairs, Ashoka Priyantha on Friday (March 15) said that interviews for the recruitment of Grama Niladhari officers for a total of 2,002 vacant Grama Niladhari Divisions are currently underway.
+
+The selected candidates will be appointed before the end of April, he added.
+
+During a press briefing at the Presidential Media Centre (PMC) on the theme ‘Collective Path to a Stable Country’, Priyantha emphasized the potential of President Ranil Wickremesinghe’s agenda, stating that continued progress along this path could lead to significant improvements in the country’s economy and overall well-being.
+
+...
+
+[Data](articles/1ce3bc6b.json)
+
+---
+
 ### Water dries in Victoria, Randenigala reservoirs
 
-*2024-03-16 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/178839) · `ta`
+*2024-03-16 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178839) · `ta`
 
 Victoria and Randenigala reservoirs in Victoria evaporate 8mm/day due to heavy weather, threatening future water shortages. Central Province Irrigation Engineer Mr. Dinesh Sumanasekara advises proper water management to mitigate this issue.
 
@@ -81,6 +115,22 @@ In this case, the Director of the current Criminal Investigation Department SSP 
 [Data](articles/8205d187.json)
 
 [Extended Data](ext_articles/8205d187.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවට ICCයෙන් සුබ ආරංචියක්
+
+*2024-03-16 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194561) · `si`
+
+2026 ලෝක කුසලාන විස්සයි විස්ස තරගාවලියේ සම සත්කාරකත්වය ශ්‍රී ලංකාවට සහ ඉන්දියාවට හිමිවී තිබේ.
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය නිවේදනය කළේ ඒ අනූවශ්‍රී ලංකාව සහ ඉන්දියාව 2026  වසරේ පැවැත්වීමට නියමිත 20 -20 ලෝක කුසලානයට සෘජුව සුදුසුකම් ලබන බවයි.
+
+2026 වසරේ 20 -20 ලෝක කුසලානයත් කණ්ඩායම් 20කගේ සහභාගීත්වයෙන් පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/30e5ee6f.json)
 
 ---
 
@@ -327,6 +377,30 @@ The petitioner claims that the nomination of Deshabandu Tennakoon, which was rec
 [Data](articles/6d796086.json)
 
 [Extended Data](ext_articles/6d796086.ext.json)
+
+---
+
+### 17 police officers including SDIGs transferred; CID gets new director
+
+*2024-03-16 07:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97987/17-police-officers-including-sdigs-transferred-cid-gets-new-director) · `en`
+
+A total of 17 senior police officers including Senior Deputy Generals of Police (SDIGs) have been transferred with immediate effect.
+
+The transfers were made under the directives of Inspector General of Police (IGP) Deshabandu Tennakoon, pursuant to a decision made by the National Police Commission.
+
+Among the transferred officers are 8 Senior Deputy Generals of Police (SDIGs), one Deputy General of Police (DIG), 8 Senior Superintendent of Police (SSPs) and one Superintendent of Police (SP).
+
+Notably, SSP E.M.M.S. Dehideniya, who was serving as the Officer-in-Charge (OIC) of the Mount Lavinia Police Division has been moved to the Criminal Investigation Department (CID) as its director.
+
+Meanwhile, current DIG director SSP K.G.A.K. Piyasekara has been transferred to lead the Kalutara Police Division.
+
+1. SDIG W. L. A. S. Priyantha Weerasuriya – From Crimes and Traffic Division to the North Central Province
+
+2. SDIG S. C. Medawatta – From Southern Province to Training & Higher Training Division
+
+...
+
+[Data](articles/0df11c82.json)
 
 ---
 
@@ -2049,105 +2123,5 @@ The arrested persons should be held at the Mallakam Magistrate's Court last Wedn
 [Data](articles/6775d155.json)
 
 [Extended Data](ext_articles/6775d155.ext.json)
-
----
-
-### Heat advisory issued for multiple provinces, districts
-
-*2024-03-15 18:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heat-advisory-issued-for-multiple-provinces-districts/108-278929) · `en`
-
-Colombo, March 15 (Daily Mirror) -  As temperatures soar in parts of Sri Lanka, authorities warn of an impending rise in the heat index, particularly in regions spanning the North-Eestern, North-Central and Eastern Provinces, as well as in the Colombo, Gampaha, Moneragala, Mannar, Mullaitivu, Vavuniya and Hambantota districts.
-
-The heat index, a measure of how hot it feels to the human body when relative humidity is factored in with the actual air temperature, is anticipated to escalate to levels classified as 'Caution.'
-
-This poses potential health risks, especially to vulnerable populations such as the elderly, children and individuals with pre-existing health conditions.
-
-As such, people are advised to prioritize hydration and take frequent breaks in shaded areas to prevent heat-related illnesses.
-
-People are also advised to wear lightweight, loose-fitting, and light-colored clothing to help stay cool in the sweltering conditions.
-
-...
-
-[Data](articles/e0f42c87.json)
-
-[Extended Data](ext_articles/e0f42c87.ext.json)
-
----
-
-### Supreme Court order against the recommendations of a Commission appointed by Gotabhaya
-
-*2024-03-15 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194549) · `si`
-
-The Supreme Court postponed its verdict on petitions filed by the Commission's recommendations, led by Presidential Secretary Traviis Padmini Ranawaka.
-
-🟩
-
-The Petitions filed by the Commission's recommendations and guaranteed political provisions have been completed to issue the recommendations of the Commission.
-
-According to our judiciary reporter, the Supreme Court postponed the decision to make its verdict.
-
-The petitions were presented by the Presidential Secretary, Former Navy Commander Traviis Padmini Ranawaka and several others.
-
-◼️
-
-[Data](articles/7ece0433.json)
-
-[Extended Data](ext_articles/7ece0433.ext.json)
-
----
-
-### The world's largest blueberry fruit on the Australian farm
-
-*2024-03-15 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178792) · `ta`
-
-The Costa Group's Etterna Blueberry, the world's largest, weighs 20.4 grams and is 10 times larger than normal blueberries. Seized in November, it broke the Guinness World Record after 12 weeks, yielding 20 or more fruits from a single tree.
-
-🟩
-
-In November last year, the blueberry fruit was seized and maintained in the freezer.
-
-It is about 4 meters wide and 20.4 grams and is 10 times larger than normal blueberries.
-
-This new type of Etterna Blueberry has been created by the Costa Group to address the question of large blueberry fruit found in the consumers.
-
-Ederna race continues to yield good yields. But recently, their farm in Corinth, in the North New South Wales, has given a huge yield.
-
-Our crew observed that some of the trees were soaked in the trees and were shocked when they were weighing.
-
-In it, the world's largest blueberry fruit was the largest fruit. That morning we snatched 20 or more fruits. They broke the previous world record.
-
-He said that the Guinness World record was certified as a highly weighting blueberry fruit in the Guinness World record this week after 12 weeks.
-
-◼️
-
-[Data](articles/2ce88e20.json)
-
-[Extended Data](ext_articles/2ce88e20.ext.json)
-
----
-
-### Elephant attack
-
-*2024-03-15 17:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178799) · `ta`
-
-An Italian tourist died in Pottuvil, Manalsenai, Komari area from an elephant attack. Two Italians were targeted on a motorcycle. The deceased is 50-year-old Ginjino Paulo. Pottuvil Police are investigating under Superintendent Wehitha Devapiya.
-
-🟩
-
-A foreign tourist in Pottuvil, Manalsenai, Komari area has died of a wild elephant.
-
-Two Italian tourists in the Komari area were targeted for an elephant attack when they went on a motorcycle.
-
-In this case, a tourist died when the injured were taken to Pottuvil Resource Hospital by an emergency patient, 1990.
-
-The deceased is the 50 -year -old Ginjino Paulo, an Italian tourist.
-
-Pottuvil Police Officer Kamal Seneviratne is conducting further inquiries on the directives of the Superintendent of Police Wehitha Devapiya.
-
-◼️
-
-[Data](articles/9d169bd9.json)
-
-[Extended Data](ext_articles/9d169bd9.ext.json)
 
 ---

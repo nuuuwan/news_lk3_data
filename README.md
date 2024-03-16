@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 22:18:03**
+As of **2024-03-16 22:33:18**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,304 (100.0%) of 13,305 articles have been extended.
+13,305 (100.0%) of 13,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### ඉන්දීය පාර්ලිමේන්තු මැතිවරණයට දින නියමවෙයි
+### Day will be set up to the Indian parliamentary election
 
 *2024-03-16 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194584) · `si`
 
-එම මැතිවරණයේ පළමු අදියර අප්‍රේල් 19 වනදා ආරම්භ වන අතර දෙවන අදියර ආරම්භ වන්නේ අප්‍රේල් 26 වනදාය.
+Indian parliamentary election phases: April 19-26, May 7, 13, 20, 6, and June 2. Voting results announced June 4.
 
-ඉන් අනතුරුව 03 වන අදියර මැයි 07 වනදාත්,  04 වන අදියර මැයි 13 වනදාත්, 05 වන අදියර මැයි 20 වනදාත්, 06 වන අදියර මැයි 25 වනදාත්, 07 වන අදියර ජුනි 01 වනදාත් පැවැත්වීමට සියලු කටයුතු සූදානම් කර ඇත.
+🟩
 
-පසුව ඡන්ද ගණන් කිරීමේ කටයුතු ජුනි මස 04 වනදා සිට සිදුකරන බව ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+The first phase of the election will commence on April 19 and the second stage begins on April 26.
+
+The 3rd phase will be held on May 07, May 13th, May 13th, May 20th May and the 6th May and the 7th stage will be held on 2 June.
+
+The number of votes will be made from June 4 on June 4.
 
 ◼️
 
 [Data](articles/db187c21.json)
+
+[Extended Data](ext_articles/db187c21.ext.json)
 
 ---
 

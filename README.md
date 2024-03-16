@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 08:33:16**
+As of **2024-03-16 08:51:14**
 
 ## Newspaper Stats
 
-*Scraped **13,209** Articles*
+*Scraped **13,212** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ dailyftlk | 699
 economynextcom | 708
 islandlk | 719
 adalk | 1,130
-adaderanalk | 1,586
+adaderanalk | 1,588
 tamilmirrorlk | 1,604
 virakesarilk | 1,834
-dailymirrorlk | 2,024
+dailymirrorlk | 2,025
 adaderanasinhalalk | 2,083
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,208 (100.0%) of 13,209 articles have been extended.
+13,209 (100.0%) of 13,212 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### ICU crisis at Colombo Hospital, have to accept janitorial support: Dr. Bellana
+
+*2024-03-16 08:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICU-crisis-at-Colombo-Hospital-have-to-accept-janitorial-support-Dr-Bellana/108-278985) · `en`
+
+Colombo, March 16 (Daily Mirror) - A critical situation has arisen in the intensive care units (ICUs) at the National Hospital Colombo (NHC), requiring the assistance of janitorial workers for cleaning and maintenance purposes, Deputy Director of the National Hospital of Sri Lanka, Dr. Rukshan Bellana said.
+
+He informed the Daily Mirror that a total of 11,000 staff, including minor staff, are involved in operating the 24-hour service at the NHC every day.
+
+However, the situation at the hospital has changed over the past years, with hospital workers refusing to carry out their duties. Consequently, nurses and doctors have had to turn to the janitorial service staff for assistance, who now also handle the cleaning of drains, toilets and gully areas in the hospital.
+
+...
+
+[Data](articles/0a452098.json)
+
+---
+
+### Dry weather expected to prevail in many areas today
+
+*2024-03-16 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97988/dry-weather-expected-to-prevail-in-many-areas-today) · `en`
+
+Showers or thundershowers may occur at a few places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts in the evening or at night, the Department of Meteorology says.
+
+Misty conditions can be expected at some places in Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts in the morning.
+
+◼️
+
+[Data](articles/0cfbf3c6.json)
+
+---
 
 ### Change in the big chairs of the police - SDIG is transferred from the South
 
@@ -107,6 +137,30 @@ The petitioner claims that the nomination of Deshabandu Tennakoon, which was rec
 [Data](articles/6d796086.json)
 
 [Extended Data](ext_articles/6d796086.ext.json)
+
+---
+
+### 18 police officers including SDIGs transferred; CID gets new director
+
+*2024-03-16 07:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97987/18-police-officers-including-sdigs-transferred-cid-gets-new-director) · `en`
+
+A total of 18 senior police officers including Senior Deputy Generals of Police (SDIGs) have been transferred with immediate effect.
+
+The transfers were made under the directives of Inspector General of Police (IGP) Deshabandu Tennakoon, pursuant to a decision made by the National Police Commission.
+
+Among the transferred officers are 8 Senior Deputy Generals of Police (SDIGs), one Deputy General of Police (DIG), 8 Senior Superintendent of Police (SSPs) and one Superintendent of Police (SP).
+
+Notably, SSP E.M.M.S. Dehideniya, who was serving as the Officer-in-Charge (OIC) of the Mount Lavinia Police Division has been moved to the Criminal Investigation Department (CID) as its director.
+
+Meanwhile, current DIG director SSP K.G.A.K. Piyasekara has been transferred to lead the Kalutara Police Division.
+
+1. SDIG W. L. A. S. Priyantha Weerasuriya – From Crimes and Traffic Division to the North Central Province
+
+2. SDIG S. C. Medawatta – From Southern Province to Training & Higher Training Division
+
+...
+
+[Data](articles/a516b9d9.json)
 
 ---
 
@@ -240,21 +294,27 @@ Subsequently, Ekanayake shared 36 runs each in the 3rd wicket with Januka Ratnay
 
 ---
 
-### ’இந்திய - இலங்கை உறவை பலப்படுத்த வேண்டும்’
+### Indo -Indo -Sri Lanka relationship to strengthen
 
 *2024-03-16 03:05:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-இலங்கை-உறவை-பலப்படுத்த-வேண்டும்/175-334738) · `ta`
 
-இலங்கைக்கும் இந்தியாவுக்கும் இடையிலான விரிவான வர்த்தக மற்றும் பொருளாதார உறவுகளை இரு நாடுகளுக்கும் நன்மையளிக்கும் வகையில் மிக விரைவில் பலப்படுத்தப்பட வேண்டும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க வலியுறுத்தினார்.
+President Ranil Wickremesinghe called for stronger trade and economic ties between Sri Lanka and India, emphasizing the countries' religious and cultural bonds. He highlighted the need to focus on trade and economic relations, which have been overlooked.
 
-இலங்கையின் 76 ஆவது சுதந்திர தினம் மற்றும் 75 ஆவது இந்திய குடியரசு தினத்தை முன்னிட்டு இலங்கை இந்தியச் சங்கம் நேற்று முன்தினம் கொழும்பில் ஏற்பாடு செய்திருந்த விசேட நிகழ்வில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-இலங்கைக்கும் இந்தியாவுக்கும் இடையில் மத மற்றும் கலாச்சார ரீதியான பாரிய பிணைப்பு உள்ளது. மேலும் நமது இரு நாடுகளுக்கும் பொதுவான பாரம்பரியமும் உள்ளது.
+President Ranil Wickremesinghe urged the two countries to strengthen the comprehensive trade and economic ties between Sri Lanka and India.
 
-நானும் இந்திய பிரதமர் நரேந்திர மோடியும் கூட்டாக கைச்சாத்திட்ட தொலைநோக்கு பிரகடனம் செயற்படுத்தப்படும் நிலையில் 75ஆவது ஆண்டு நிறைவு கொண்டாடப்படுவது விசேட அம்சமாகும். இந்தியாவுக்கும் இலங்கைக்குமிடையிலான உறவை பலப்படுத்தும்  தொலைநோக்கு அறிக்கையை தொடர்ச்சியாக முன்னெடுக்க உறுதிபூண்டுள்ளோம்.
+The President said this while addressing a special event organized by the Sri Lanka Indian Association in Colombo yesterday to mark the 76th Independence Day of Sri Lanka and the 75th Indian Republic of India.. He further stated that
+
+There is a religious and cultural binding between Sri Lanka and India. And our two countries have a common tradition.
+
+The 75th anniversary is celebrated with the vision of the Indian Prime Minister Narendra Modi and Indian Prime Minister Narendra Modi. We are committed to continuously carrying out a visionary report that strengthens the relationship between India and Sri Lanka.
 
 ...
 
 [Data](articles/6052283e.json)
+
+[Extended Data](ext_articles/6052283e.ext.json)
 
 ---
 
@@ -2075,65 +2135,5 @@ The capital goods sector contributed 349mn to the day’s turnover. Other sector
 [Data](articles/9920a88e.json)
 
 [Extended Data](ext_articles/9920a88e.ext.json)
-
----
-
-### ICC to make stop clock rule permanent in ODIs and T20Is
-
-*2024-03-15 16:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICC-to-make-stop-clock-rule-permanent-in-ODIs-and-T20Is/108-278927) · `en`
-
-Mar. 15 (ICC) - The International Cricket Council (ICC) is set to implement the stop clock rule permanently, following a successful trial period, making it a standard feature in international cricket, says a report.
-
-According to Cricbuzz, the rule which was initially introduced on an experimental basis in December 2023, has now been approved for implementation in all white-ball cricket, including Twenty20 Internationals (T20Is) and One-Day Internationals (ODIs), starting with the upcoming T20 World Cup in June.
-
-The stop clock rule aims to ensure the timely completion of matches by requiring the fielding team to commence the next over within 60 seconds of the previous one ending. An electronic clock will be displayed between overs, with umpires responsible for enforcing the rule. Fielding teams will receive two warnings before facing a five-run penalty for subsequent violations.
-
-...
-
-[Data](articles/50db05e8.json)
-
-[Extended Data](ext_articles/50db05e8.ext.json)
-
----
-
-### Suspended health trade union action to resume next week?
-
-*2024-03-15 16:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/97978/suspended-health-trade-union-action-to-resume-next-week) · `en`
-
-The suspended health trade union action will be resumed from March 19 (Tuesday), says the Convenor of the Health Service Trade Unions Ravi Kumudesh.
-
-Addressing a media briefing in Colombo, Kumudesh said the authorities failed to provide them with satisfactory solutions to the issues facing the health sector workers.
-
-He urged the finance ministry to intervene without delay to address these issues.
-
-The trade unions representing a wide range of health sector professionals – including radiology and laboratory technicians, pharmacists and drug compounders, midwives, dental surgeons, public health inspectors, and entomology officers – have been engaging in strikes time and time again over the past few months urging the government to provide them with an allowance similar to that of the DAT (Disturbance, Availability and Transport) allowance given to doctors.
-
-...
-
-[Data](articles/3447b066.json)
-
-[Extended Data](ext_articles/3447b066.ext.json)
-
----
-
-### 944 arrested
-
-*2024-03-15 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/178810) · `ta`
-
-944 arrested in drug raid; suspects' assets investigated, addicts sent to rehab. Drugs seized in Western and Southern Provinces.
-
-🟩
-
-944 people have been arrested in connection with drug offenses during a raid carried out by the police within the last 24 hours under the strategy.
-
-Investigations into the assets of the suspects will be investigated and the drug addicts will be sent to the rehabilitation center, police said.
-
-In addition, drugs have been seized and the suspects have been arrested in the surrounding surrounding of the Western and Southern Provinces, police said.
-
-◼️
-
-[Data](articles/89a92bee.json)
-
-[Extended Data](ext_articles/89a92bee.ext.json)
 
 ---

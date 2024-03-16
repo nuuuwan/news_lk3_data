@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 01:02:55**
+As of **2024-03-17 01:17:52**
 
 ## Newspaper Stats
 
@@ -26,77 +26,105 @@ adaderanasinhalalk | 2,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,308 (100.0%) of 13,314 articles have been extended.
+13,313 (100.0%) of 13,314 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### පොලිසියේ ලොකු පුටු මාරුවක්
+### Police chair transfer
 
 *2024-03-16 22:41:40* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-ලොකු-පුටු-මාරුවක්/11-408639) · `si`
 
-ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරු අට දෙනෙක් ඇතුව නිලධාරීහු පිරිසකට වහාම ක්‍රියාත්මකවන පරීදී ස්ථාන මාරු සිදු කර ඇතැයි පොලිස් මූලස්ථානය පවසයි.
+Eight Senior DIGs transferred to police headquarters under IGP Deshabandu's orders. Senior DIGs assigned to various provinces and roles.
 
-ජාතික පොලිස් කොම්ෂන් නිර්දේශ අනුව වහාම ක්‍රියාත්මක කිරීමට පොලිස්පති දේශබන්දු දෙන්නකෝන් මහතා මෙම නියෝග කර තිබේ.
+🟩
 
-ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති  ඩබ්ලිව්.එල්.ඒ.එස්. ප්‍රියන්ත වීරසූරිය උතුරු මැද පළාත භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙස,
+Eight Senior DIGs have been transferred to a group of officials, police headquarters.
 
-ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති සජීව මැදවත්ත මහතා පුහුණු හා උසස් පුහුණු ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙස,
+IGP Deshabandu has ordered the implementation of the National Police Commission.
 
-ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ආර්.එල් කොඩිතුවක්කු අපරාධ හා රථවාහන ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙස,
+Senior DIG WLAS. Priyantha Weerasuriya as Senior DIG in charge of the North Central Province
 
-ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති පොලිස්පති එම්.ඩී.ආර්.එස්. දමින්ද සහායක සේවා ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙස
+Senior DIG Siyawa Meda Medawatte as a Training and High Training Senior DIG,
 
-ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති කේ.පී.එම්. ගුණරත්න බස්නාහිර පළාත් භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙස
+Senior DIG RL Kodituwakku as Crime and Traffic Senior DIG,
 
-ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති කේ.වී.ඩී.ජේ කරවිට ප්‍රජා පොලිස් සංචාරක හා ආයෝජන ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙස,
+Senior DIG IGP MDRS. Damin and Auxiliary Services Senior DIG
 
-ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති  එස්.ඩබ්ලිව්.එම්. සේනාරත්න දකුණු පළාත් භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙසත,
+Senior DIG KPM. Gunaratne as Senior DIG in charge of the Western Province
+
+Senior DIG KVD Jayakanda Community Tourism and Investment Senior Deputy Inspector
+
+Senior DIG S.W.. Senaratne is as Senior DIG in charge of Southern Provincial Council,
+
+Senior DIG T.A DIG as Senior DIG in charge of the Northern Province,
+
+DIG NLC Sampath Kumara as DIG in charge of the Special Bureau of Special Bureau,
+
+SSP Anuruddha Bandaranayake, the officer in charge of Kandy
+
+Senior Superintendent of Police AGU Herath as the Officer in Kurunegala
 
 ...
 
 [Data](articles/e5a283ba.json)
 
+[Extended Data](ext_articles/e5a283ba.ext.json)
+
 ---
 
-### මේ මොහොතේ බදු ප්‍රතිපත්තියේ වෙනසක් කරන්න බෑ
+### Tax policy at the moment cannot change
 
 *2024-03-16 22:32:56* · [`adalk`](https://www.ada.lk/breaking_news/මේ-මොහොතේ-බදු-ප්‍රතිපත්තියේ-වෙනසක්-කරන්න-බෑ/11-408638) · `si`
 
-මැණික් හා ස්වර්ණාභරණ කර්මාන්තය ආශ්‍රිතව මතුව ඇති ගැටළුවලට විසඳුම් ලබා දෙමින් එම ක්ෂේත්‍රයේ නිරතවූවන්ට සහන ලබා දීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe announced relief measures for the gem and jewelry industry, emphasizing the need for a proposal to address tax policy issues within two weeks. He also highlighted the importance of exports and value collections, and plans to survey gem and mining businesses across Sri Lanka.
 
-මේ මොහොතේ බදු ප්‍රතිපත්තියේ වෙනසක් සිදු කළ නොහැකි නමුත් මැණික් හා ස්වර්ණාභරණ කර්මාන්තය ශක්තිමත් කිරීම වෙනුවෙන් සුදුසු ක්‍රමවේදයක් සකස් කරන බව සඳහන් කළ ජනාධිපතිවරයා රාජ්‍ය සහ පෞද්ගලික දෙඅංශයේම දායකත්වයෙන් මෙම ගැටළු විසඳා ගැනීමට අදාළ යෝජනාවලියක් සකස් කර සති දෙකක් ඇතුළත ලබා දෙන ලෙස ද නිලධාරීන්ට උපදෙස් දුන්නේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ මැණික් හා ස්වර්ණාභරණ ක්ෂේත්‍රයේ නිරතවූවන් සමඟ ඊයේ (15) පස්වරුවේ ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවේදී ය.
+President Ranil Wickremesinghe said that action will be taken to provide relief to the fields of the gem and jewelery industry.
 
-මැණික් හා ස්වර්ණාභරණ කර්මාන්තයට බලපා ඇති රජයේ නව බදු ප්‍රතිපත්ති පිළිබඳ ගැටළු ඇතුළු කර්මාන්තය ආශ්‍රිත මතුව ඇති වෙනත් ගැටළු පිළිබඳව මෙහිදී දීර්ඝ ලෙස සාකච්ඡා කෙරිණි.
+The President said that the tax policy could not change the gem and jewelery industry, the official instructed officials to provide a proposal to solve these issues within two weeks.
 
-මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේ මෙරට මැණික් කර්මාන්තය ආශ්‍රිත අපනයනය වැඩි කිරීමට මෙන්ම අගය එකතු කිරීම් කෙරෙහි ද අවධානය යොමු කළ යුතු බවයි.
+President Ranil Wickremesinghe made this statement at the Presidential Secretariat yesterday (15th) with those engaged in the gem and jewelery field.
+
+There was a lengthy discussion of other related issues, including issues of the government's new tax policies, including the government's new tax policies, which have affected the gem and jewelery industry.
+
+Speaking further, President Ranil Wickremesinghe said he should pay attention to exports and value collections.
+
+The President also said that the Sabaragamuwa Province and Nuwara Eliya districts are planned to commence the minery businesses in the area.
 
 ...
 
 [Data](articles/92a2d54c.json)
 
+[Extended Data](ext_articles/92a2d54c.ext.json)
+
 ---
 
-### ඇඟළුම් කර්මාන්තය පිළිබඳ විශාල බලාපොරොත්තුවක් තබන්න බැහැ
+### Can't leave a great hope of the apparel industry
 
 *2024-03-16 22:27:17* · [`adalk`](https://www.ada.lk/breaking_news/ඇඟළුම්-කර්මාන්තය-පිළිබඳ-විශාල-බලාපොරොත්තුවක්-තබන්න-බැහැ/11-408637) · `si`
 
-සංවර්ධන කටයුතු සඳහා රජය ලබා දෙන මුදල් නිසි ලෙස වැය කරමින් එහි ප්‍රතිලාභ ජනතාවටත්, රටටත් ලබා දෙන්න
+President Ranil Wickremesinghe emphasized the importance of government programs for economic development, aiming for 2% growth by 2024. He highlighted the benefits of relief programs, decentralized budgets, and the "heritage" inheritance initiative, focusing on agriculture and modernizing the economy.
 
-– දිස්ත්‍රික් ලේකම්වරු සහ ප්‍රදේශීය ලේකම්වරු සමඟ පැවති හමුවේ දී ජනපති අවධාරණය කරයි.
+🟩
 
-සංවර්ධන කටයුතු සඳහා රජය ලබා දෙන මුදල් නිසි ලෙස වැය කරමින් ජනතාවට එම ප්‍රතිලාභ ලබා දීමටත්, එමඟින් ජාතික ආර්ථිකය ශක්තිමත් කිරීමටත් කැපවන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සියලු ප්‍රාදේශීය රාජ්‍ය නිලධාරීන්ගෙන් ඉල්ලා සිටියේය.
+Provide the benefits of the government with the benefits of the government and provide benefits to the people and the country
 
-එසේම ජනතාව වෙනුවෙන් ක්‍රියාත්මක කර ඇති “අස්වැසුම” “උරුමය” සහ කෘෂි නවීකරණ වැඩසටහන මෙන්ම “කදුරට දශකය” වැඩසටහන සාර්ථක කර ගැනීම වෙනුවෙන් සක්‍රීයව දායකවන ලෙස ද ඉල්ලා සිටි ජනාධිපතිවරයා මෙම සියලු වැඩසටහන්වල ප්‍රතිලාභ නැවත ජාතික ආර්ථිකයට එක් වන බව ද පෙන්වා දුන්නේය.
+President emphasizes the presidential election with the District Secretaries and Divisional Secretaries.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ රජය ක්‍රියාත්මක කර ඇති සංවර්ධන වැඩසටහන්වල ප්‍රගතිය පිළිබඳ දිස්ත්‍රික් ලේකම්වරු සහ ප්‍රාදේශීය ලේකම්වරුන් සමග කොළඹ පදනම් ආයතනයේ දී පැවති සාකච්ඡාවේදීය.
+President Ranil Wickremesinghe requested all local government officials to promote the government's money on the development of the development.
+
+The President also said that the benefits of all these programs were also requested to actively contribute to the national economy as well as the "inheritance" inherited, "inheritance", which has been implemented for the people.
+
+President Ranil Wickremesinghe made this statement at a discussion with District Secretaries and Divisional Secretaries on the progress of the government's development programs implemented.
 
 ...
 
 [Data](articles/0a59629c.json)
+
+[Extended Data](ext_articles/0a59629c.ext.json)
 
 ---
 
@@ -122,19 +150,27 @@ Reportedly, one of the detainees, a 50-year-old Indonesian, had been working as 
 
 ---
 
-### අප්‍රේල් අවසන්වීමට ප්‍රථමව ග්‍රාමසේවා නිලධාරීන් 2002ක්
+### 2002 Grama Niladhari Officers in April
 
 *2024-03-16 22:20:01* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රේල්-අවසන්වීමට-ප්‍රථමව-ග්‍රාමසේවා-නිලධාරීන්-2002ක්/11-408636) · `si`
 
-පුරප්පාඩුව පවතින ග්‍රාමසේවා වසම් 2002ක් වෙනුවෙන් ග්‍රාම නිලධාරීන් බඳවා ගැනීම සඳහා වන සම්මුඛ පරීක්ෂණ මේ දිනවල පැවැත්වෙන බවත් එළඹෙන අප්‍රේල් මාසය අවසන් වීමට පෙර ඔවුන් සේවයේ පිහිටුවීමට කටයුතු කරන බවත් ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා පැවසීය.
+Minister of Home Affairs Ashoka Priyantha announced Grama Niladhari Divisions recruitment interviews in April, aiming to stabilize the economy and improve rural development.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ රට ගොඩනඟන වැඩ පිළිවෙල ඔස්සේ තවත් වසර දෙකක් හෝ ඉදිරියට ගමන් කිරීමට හැකි වුවහොත් බිඳවැටුණු ආර්ථිකය ගොඩනඟමින් සංවර්ධිත රටක් නිර්මාණය කළ හැකි බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+The Minister of Home Affairs Ashoka Priyantha said that interviews to recruit Grama Niladhari Divisions in the vacancy are being held these days and before the end of April.
+
+The State Minister said that if President Ranil Wickremesinghe was able to move to the program to be built, two more years, could create a developed country, building the collapse economy.
+
+The Ministry of Home Affairs Asoka Priyantha made this statement participating at a press conference held at the Presidential Media Center.
+
+Economic and social stability is being created by the end of the past crises. Our ministry has also contributed to this.. We were able to create food security and nutrition committees at district level. The mediation needed to provide the desire for 100,000 poverty families. The rural development is being taken up through the decentralized budget.
 
 ...
 
 [Data](articles/c3f97035.json)
+
+[Extended Data](ext_articles/c3f97035.ext.json)
 
 ---
 
@@ -841,6 +877,8 @@ OPA Select bests together with bests fell, whilst poorer sorts maintained and ga
 ...
 
 [Data](articles/eb5ab56a.json)
+
+[Extended Data](ext_articles/eb5ab56a.ext.json)
 
 ---
 

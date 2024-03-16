@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 10:51:21**
+As of **2024-03-16 11:02:49**
 
 ## Newspaper Stats
 
-*Scraped **13,226** Articles*
+*Scraped **13,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,56 @@ adalk | 1,130
 adaderanalk | 1,592
 tamilmirrorlk | 1,605
 virakesarilk | 1,838
-dailymirrorlk | 2,028
+dailymirrorlk | 2,029
 adaderanasinhalalk | 2,085
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,222 (100.0%) of 13,226 articles have been extended.
+13,226 (100.0%) of 13,227 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### தெஹிவளை, இரத்மலானை, மொரட்டுவை, பாணந்துறை, வாதுவை, வஸ்கடுவ பிரதேசமக்களுக்கு விடுக்கப்பட்டுள்ள வேண்டுகோள் !
+### Water usage increases by 15%; use sparingly: Water Board
+
+*2024-03-16 10:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Water-usage-increases-by-15-use-sparingly-Water-Board/108-278988) · `en`
+
+Colombo, March 16 (Daily Mirror) - Due to the current dry weather, the usage of water has increased by 15%, and the National Water Supply and Drainage Board (NWS&DB) requests that consumers use water sparingly, NWS&DB Deputy General Manager Anuja Kaluarachchi said.
+
+She told the media that water is currently being released from six water supply systems in Hatton, Gampalawatta, Urubokka, Pussellawa, Pussella and Kotagala for the requirements of the consumers.
+
+Meanwhile, the Disaster Management Centre (DMC) said that three thousand families in Kegalle and Kurunegala are facing drinking water problems.
+
+◼️
+
+[Data](articles/2a095c56.json)
+
+---
+
+### Dehiwala, Ratmalana, Moratuwa, Panadura, Waduvai, Waskaduwa Area
 
 *2024-03-16 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178841) · `ta`
 
-நிலவுகின்றன கடுமையான வறட்சியுடன் கூடிய வானிலை மற்றும் அதிகரித்த  நீர்ப்பாவனை போன்றவற்றினால் நீர் வழங்கலை மேற்கொள்வதில் கடும் சிரமங்களை எதிர்கொள்வதாக தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+The National Water Supply and Drainage Board faces challenges in providing water to Dehiwala, Ratmalana, Moratuwa, Panadura, Vadduwa, and Waskaduwa due to severe drought and increased irrigation. They've called for water users' support and understanding to conserve water.
 
-குறிப்பாக தெஹிவளை, இரத்மலானை, மொரட்டுவை, பாணந்துறை, வாதுவை மற்றும் வஸ்கடுவ ஆகிய பிரதேசங்களுக்கான நீர் வழங்கலை மேற்கொள்வதில் கடும் சிரமங்களை எதிர்கொள்வதாக தேசிய நீர் வழங்கல் மற்றும் வடிகாலமைப்புச் சபை தெரிவித்துள்ளது.
+🟩
 
-இதனால் இப் பிரதேசங்களுக்கான தொடர்ச்சியான தடையற்ற நீர் வழங்கலை மேற்கொள்வதில் சிரமம் காணப்படுகின்றது.
+The National Water Supply and Drainage Board said it would face severe difficulties in carrying out water supply due to severe drought and increased irrigation.
 
-எனவே, குறித்த பிரதேசத்தில் உள்ள பாவனையாளர்கள் நீரினை சிக்கனமாகவும் சேமிப்புடனும் பயன்படுத்துமாறும் இதுதொடர்பில் நீர் பாவனையாளர்களின் ஆதரவும் புரிந்துணர்வும் தமக்கு தேவைப்படுவதாகவும் தேசிய நீர்வழங்கல் மற்றும் வடிகாலமைப்புச் சபை கேட்டுக்கொண்டுள்ளது.
+The National Water Supply and Drainage Board said it would face severe difficulties in carrying out water supply for the areas of Dehiwala, Ratmalana, Moratuwa, Panadura, Vadduwa and Waskaduwa.
+
+This makes it difficult to carry out continuous water supply for these areas.
+
+Therefore, the National Water Supply and Drainage Board has called for the support and understanding of the water users in this regard to use the users in the area to use the water with water.
 
 ◼️
 
 [Data](articles/477547c9.json)
+
+[Extended Data](ext_articles/477547c9.ext.json)
 
 ---
 
@@ -63,6 +85,8 @@ During a press briefing at the Presidential Media Centre (PMC) on the theme ‘C
 ...
 
 [Data](articles/1ce3bc6b.json)
+
+[Extended Data](ext_articles/1ce3bc6b.ext.json)
 
 ---
 
@@ -118,19 +142,25 @@ In this case, the Director of the current Criminal Investigation Department SSP 
 
 ---
 
-### ශ්‍රී ලංකාවට ICCයෙන් සුබ ආරංචියක්
+### Sri Lanka has a good news from the ICC
 
 *2024-03-16 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194561) · `si`
 
-2026 ලෝක කුසලාන විස්සයි විස්ස තරගාවලියේ සම සත්කාරකත්වය ශ්‍රී ලංකාවට සහ ඉන්දියාවට හිමිවී තිබේ.
+Sri Lanka and India are directly eligible for the 2026 20-20 World Cup, hosted by both countries.
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය නිවේදනය කළේ ඒ අනූවශ්‍රී ලංකාව සහ ඉන්දියාව 2026  වසරේ පැවැත්වීමට නියමිත 20 -20 ලෝක කුසලානයට සෘජුව සුදුසුකම් ලබන බවයි.
+🟩
 
-2026 වසරේ 20 -20 ලෝක කුසලානයත් කණ්ඩායම් 20කගේ සහභාගීත්වයෙන් පැවැත්වීමට නියමිතය.
+Sri Lanka and India have hosted the equal hosting of the World Twenty20 Tournament.
+
+The International Cricket Council announced that Sri Lanka and India would be directly eligible to the 20 -20 World Cup in 2026.
+
+The 20 -20 World Cup and 20 teams will be held in 2026.
 
 ◼️
 
 [Data](articles/30e5ee6f.json)
+
+[Extended Data](ext_articles/30e5ee6f.ext.json)
 
 ---
 
@@ -401,6 +431,8 @@ Meanwhile, current DIG director SSP K.G.A.K. Piyasekara has been transferred to 
 ...
 
 [Data](articles/0df11c82.json)
+
+[Extended Data](ext_articles/0df11c82.ext.json)
 
 ---
 
@@ -2095,33 +2127,5 @@ Numerous credible firsthand accounts have emerged of Russian authorities transpo
 [Data](articles/e223f4da.json)
 
 [Extended Data](ext_articles/e223f4da.ext.json)
-
----
-
-### Yall. Vaddukoddai youth kidnapping
-
-*2024-03-15 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178819) · `ta`
-
-A violent gang abducted a youth in Vaddukoddai, Jaffna, and murdered him. The gang tortured and killed the youth, leading to the arrest of four suspects from Arali, who were hiding in Kilinochchi. The Mallakam Magistrate's Court ordered the detention of these suspects for further investigation.
-
-🟩
-
-The Mallakam Magistrate's Court has ordered four of the arrested persons for allegedly abducting and murdering a youth in Vaddukoddai, Jaffna.
-
-Last Monday, a violent gang was abducted by his wife in front of the Navy's camp in the Ponnalai area.
-
-Violent gang abducted her husband in a vehicle and his wife in a vehicle. Husbands abducted by her husband were severely tortured and threw in front of the Vaddukoddai hospital with serious injuries.
-
-Hospital staff rescued the injured. He died in the teaching.
-
-Police have arrested a youth in Vaddukoddai who investigated the incident. Meanwhile, four people from Arali, who were hiding in Kilinochchi, were arrested.
-
-The arrested persons should be held at the Mallakam Magistrate's Court last Wednesday and further investigations to four arrested in Kilinochchi. So they applied for the House to investigate them for 48 hours.
-
-...
-
-[Data](articles/6775d155.json)
-
-[Extended Data](ext_articles/6775d155.ext.json)
 
 ---

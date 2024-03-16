@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 19:33:13**
+As of **2024-03-16 19:50:17**
 
 ## Newspaper Stats
 
-*Scraped **13,292** Articles*
+*Scraped **13,296** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ dailyftlk | 699
 economynextcom | 709
 islandlk | 720
 adalk | 1,131
-adaderanalk | 1,604
-tamilmirrorlk | 1,619
-virakesarilk | 1,850
+adaderanalk | 1,605
+tamilmirrorlk | 1,620
+virakesarilk | 1,851
 dailymirrorlk | 2,039
-adaderanasinhalalk | 2,099
+adaderanasinhalalk | 2,100
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,292 (100.0%) of 13,292 articles have been extended.
+13,292 (100.0%) of 13,296 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### India to hold seven-phase general election starting April 19, results in June
+
+*2024-03-16 19:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97999/india-to-hold-seven-phase-general-election-starting-april-19-results-in-june) · `en`
+
+India will hold a seven-phase general election starting on April 19, with the results to be declared on June 4.
+
+The Election Commission of India announced the schedule of the six-week marathon vote during a news conference in New Delhi on Saturday.
+
+Nearly 970 million voters – more than the entire population of the United States, the European Union and Russia combined – are eligible to cast their ballot, according to the poll panel’s data, making the election the largest democratic exercise in the world.
+
+“We will take democracy to every corner of the country,” Chief Election Commissioner Rajiv Kumar said as he announced the voting dates. “It is our promise to deliver a national election in a manner that we … remain a beacon for democracy around the world.”
+
+...
+
+[Data](articles/3d96e256.json)
+
+---
+
+### නිරූපණ අවස්ථා පෙන්වා තරුණියන් ගෙන්වා ගත් සූපවේදියා අත්අඩංගුවට
+
+*2024-03-16 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194580) · `si`
+
+නිරූපණ ක්ෂේත්‍රයේ අවස්ථා ලබාදෙන බව පවසා තරුණියන්ට ලිංගික අතරවර කළ සූපවේදියෙකු සීගිරිය ප්‍රදේශයේදී හෝටලයක් තුළදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ විමර්ශන ඒකකය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු විසින් වයස අවුරුදු 20ත් 25ත් අතර තරුණියන් 30 දෙනෙකුට පමණ අතවර කර ඇති බවට සැක කරන බව විමර්ශන නිලධාරීන් පවසයි.
+
+චීනයේ මෝස්තර නිරූපණය හදාරන ලාංකික තරුණියක් පසුගිය දෙසැම්බර් මාසයේදී කෙටි නිවාඩුවක් සඳහා දිවයිනට පැමිණ තිබුණි.
+
+එහිදී ඇය සිය මවට පවසා ඇත්තේ, තමන් හදාරන පාඨමාලාවෙන් ඉහළට යෑම සඳහා මෙරටදී නිරූපණ ක්ෂේත්‍රයේ නිරතවිය යුතු බවය.
+
+අනතුරුව ඇයගේ මව විසින් ෆේස්බුක් හරහා සිදුකළ සොයාබැලීමේදී නදීෂා බණ්ඩාර නම් ගිණුමක් මගින් නිරූපන ක්ෂේත්‍රයේ අවස්ථා ඇති බවට දැන්වීම් පළ කර ඇති අයුරු දැක තිබුණි.
+
+පසුව එම ගිණුම සම්බන්ධ කරගෙන ඇති අතර එහිදී නදීෂා බණ්ඩාර නමින් පෙනී සිටි අය පවසා ඇත්තේ, අදාළ තරුණියගේ හැඳුනුම්පතෙහි ඡායා පිටපත් හා පිංතූර කිහිපයක් එවන ලෙසය.
+
+ඒ අතරතුර එම තරුණියගේ නිරුවත් ඡායාරූප විවිධ ඉරියව්වලින් සිට එවන ලෙස අදාළ ගිණුම හිමි පුද්ගලයා විසින් පණිවිඩයක් මගින් පවසා ඇත.
+
+...
+
+[Data](articles/765cdc49.json)
+
+---
+
+### வெடுக்குநாறி விவகாரம் :தமிழ் கட்சிகள் அதிரடி தீர்மானம்
+
+*2024-03-16 19:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வெடுக்குநாறி-விவகாரம்-தமிழ்-கட்சிகள்-அதிரடி-தீர்மானம்/71-334763) · `ta`
+
+வெடுக்குநாறிமலை ஆதி சிவன் ஆலயத்தில் கைது செய்யப்பட்டவர்களின் விடுதலை தொடர்பில் ஜனாதிபதியை சந்திப்பதற்கு தமிழ் கட்சிகளின் தலைவர்கள் தீர்மானித்துள்ளனர்.
+
+யாழ்ப்பாணத்தில் உள்ள பாராளுமன்ற உறுப்பினர் சி.வி.விக்னேஸ்வரன் இல்லத்தில் சனிக்கிழமை (16) இடம்பெற்ற கலந்துரையாடலில் குறித்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக பாராளுமன்ற உறுப்பினர் சி.வி.விக்னேஸ்வரன் தெரிவித்துள்ளார்.
+
+கைது செய்யப்பட்ட 8 நபர்களின் வழக்கு நீதிமன்றத்தில் எதிர்வரும் 19ஆம் திகதி செவ்வாய்க்கிழமை விசாரணைக்கு எடுத்துக்கொள்ளப்படவுள்ள நிலையில் அதற்கு முதல் நாள் எதிர்வரும் 18ஆம் திகதி திங்கட்கிழமை ஜானாதிபதி ரணில் விக்ரமசிங்கவை சந்திக்கவுள்ளதாக தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/9d4fa459.json)
+
+---
 
 ### Mustalings Trophy to St. Thomas' College, Mount Lavinia
 
@@ -121,6 +179,22 @@ The meeting was organized under the theme of "the strongest future - 2024" The m
 [Data](articles/17942c89.json)
 
 [Extended Data](ext_articles/17942c89.ext.json)
+
+---
+
+### இந்திய அரசாங்கத்தின் 250 மில்லியன் ரூபா நிதியுதவியில் கதுருவலையில் மும்மொழி  தேசிய பாடசாலை
+
+*2024-03-16 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178875) · `ta`
+
+முன்னாள் ஜனாதிபதி  மைத்திரிபால சிறிசேன ஜனாதிபதியாகப் பதவியேற்றதன் பின்னர் இந்தியாவுக்கு மேற்கொண்ட முதலாவது உத்தியோகபூர்வ விஜயத்தின் போது, இந்திய அரசாங்கத்தின் நன்கொடையாக 2017ஆம் ஆண்டு ஆரம்பிக்கப்பட்ட கதுருவலை மும்மொழி  தேசிய பாடசாலையின் நிர்மாணப் பணிகள் சில காரணிகளால் இடைநிறுத்தப்பட்டன.
+
+குறிப்பாக  இப்பாடசாலையின் பணிகளை முடிக்க நிதி ஒதுக்கீடு செய்யுமாறு ஏற்கனவே உள்ள அரசிடம் பலமுறை கோரிக்கை விடுத்தும் சாதகமான பதில் கிடைக்கவில்லை.  இதன்படி, முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன, இந்தியப் பிரதமர் நரேந்திர மோடியிடம் விடுத்த விசேட கோரிக்கைக்கு அமைய, மும்மொழி தேசிய பாடசாலையை நிறைவு செய்வதற்கு நிதி ஒதுக்குவதற்கு விருப்பம் தெரிவித்திருந்தார்.
+
+இதனையடுத்து, இப்பாடசாலையின் தற்போதைய நிலையினை அறிந்து கொள்வதற்காக  இலங்கையிலுள்ள இந்திய உயர்ஸ்தானிகராலயத்தின் வேலைத்திட்டங்களுக்கான ஆலோசகர்  எல்டோஸ் மெத்யூ புன்னூஸ் மற்றும் அரச அதிகாரிகள் வெள்ளிக்கிழமை (15) கண்காணிப்பு விஜயமொன்றை மேற்கொண்டனர்.
+
+...
+
+[Data](articles/293f7788.json)
 
 ---
 
@@ -2219,83 +2293,5 @@ The 14 REOIs were received from Epdesa Pte Ltd – Singapore, Bharat Petroleum C
 [Data](articles/5c0f1239.json)
 
 [Extended Data](ext_articles/5c0f1239.ext.json)
-
----
-
-### Gota’s book and conspiracy theories
-
-*2024-03-16 00:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Gotas-book-and-conspiracy-theories/172-278977) · `en`
-
-Former President Gotabaya Rajapaksa’s book ‘The Conspiracy to oust me from Presidency” which was launched recently did not evoke much interest or create any stir among the people as its name suggests to do.
-
-Nor did it reveal any hidden facts or details about any incident that would have contributed to his ouster. However, the book is said to have been sold like hot cake due to the curiosity about what it could have contained.
-
-Hence, unlike the commotion that was created in September last year by the Channel 4 documentary which suggested a purported link between the State Intelligence Service (SIS) and the National Thowheed Jama’ath (NTJ), the terrorist organization that was behind the Easter Sunday terrorist attacks in 2019, the book seems to have now almost been forgotten even by Rajapaksa’s friends.
-
-...
-
-[Data](articles/c279dd78.json)
-
-[Extended Data](ext_articles/c279dd78.ext.json)
-
----
-
-### Yall. Motorcycles parked in a house in Navakiri area
-
-*2024-03-16 00:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178832) · `ta`
-
-Motorcycles in Navakiri, Jaffna, set on fire by three men with sharp weapons, targeting a previously bombed motorcycle.
-
-🟩
-
-Motorcycles parked in a house in Navakiri area in Jaffna have been set on fire.
-
-At 1:30 am on Friday (16) at 1:30 am, the parents of the motorcycle bombed the motorcycle, which had been bombed and broken into the windows and doors in the house with sharp weapons.
-
-The owner of the house said that the three men who had come home had a sharp weapon while they were sleeping in the house and set fire to a motorcycle.
-
-◼️
-
-[Data](articles/0df8dc05.json)
-
-[Extended Data](ext_articles/0df8dc05.ext.json)
-
----
-
-### Easter Sunday, nightmares of past and fears for the future
-
-*2024-03-16 00:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Easter-Sunday-nightmares-of-past-and-fears-for-the-future/172-278976) · `en`
-
-On the 31th of this month Catholics and Christians of all denomination will celebrate Easter Sunday. The festival without a doubt brings to mind the Easter Sunday bombing of 2019.
-
-On Easter of 2019, terrorists exploded their deadly caches of explosives in three churches where Christians were celebrating what to the community was the most sacred of Christian festivals. Separately on the same day, in three five star hotels members of the same terrorist group carried out similar attacks on guests having their Easter breakfast.
-
-To-date no one knows why these misguided souls chose that date to perform their ‘mischief’. The intelligence services of the US, UK, India, China, Israel Pakistan et al arrived in the country within hours of the bombing.
-
-However, it was thanks to the immediate action taken by Malcolm Cardinal Ranjith, -the head of the Catholic Church in Sri Lanka- any further bloodshed was averted.
-
-...
-
-[Data](articles/c0f45474.json)
-
-[Extended Data](ext_articles/c0f45474.ext.json)
-
----
-
-### Sri Lanka celebrates IORA Day under its chairmanship at Galle Face Green
-
-*2024-03-16 00:22:21* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-celebrates-IORA-Day-under-its-chairmanship-at-Galle-Face-Green/56-759576) · `en`
-
-The Indian Ocean Rim Association (IORA) Day was commemorated under the aegis of Sri Lanka’s chairmanship at the Galle Face Green overlooking the Indian Ocean on 10 March.
-
-Sri Lanka is the current chair of IORA which consists of 23 Member States and 12 Dialogue Partners.  IORA celebrates its 27th anniversary this year.
-
-The IORA Day celebrated under the theme “Ensuring a Sustainable Indian Ocean for Future Generations” was jointly organised by the Ministry of Foreign Affairs, the Ministry of Education and the Sri Lanka Navy. The theme chosen underscores the importance Sri Lanka places on preserving the Oceans’ health for the benefit of the future generations.
-
-...
-
-[Data](articles/75b2588a.json)
-
-[Extended Data](ext_articles/75b2588a.ext.json)
 
 ---

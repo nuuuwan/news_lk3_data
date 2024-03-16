@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 16:47:58**
+As of **2024-03-16 17:03:04**
 
 ## Newspaper Stats
 
-*Scraped **13,283** Articles*
+*Scraped **13,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 709
 islandlk | 720
 adalk | 1,131
 adaderanalk | 1,600
-tamilmirrorlk | 1,618
+tamilmirrorlk | 1,619
 virakesarilk | 1,850
 dailymirrorlk | 2,038
 adaderanasinhalalk | 2,096
@@ -26,47 +26,75 @@ adaderanasinhalalk | 2,096
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,280 (100.0%) of 13,283 articles have been extended.
+13,283 (100.0%) of 13,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### කැනඩාවේ නිවසක් ගිනිගෙන තිදෙනෙක් මරුට
+### “என்னை நிம்மதியாக போக விடுங்கள் சகோதரர்களே”
+
+*2024-03-16 16:42:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/என்னை-நிம்மதியாக-போக-விடுங்கள்-சகோதரர்களே/73-334760) · `ta`
+
+வடமராட்சி கிழக்கு நாகர் கோவில் கடற்பகுதியில் அந்தியெட்டிக் கிரியை நிறைவேற்றப்பட்ட மிதவை ஒன்று இன்று காலை கரையொதுங்கியுள்ளது.
+
+“பரமேஸ்வரி - என்னை நிம்மதியாக போக விடுங்கள் சகோதரர்களே”  போன்ற வாசகங்கள் எழுதப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b7990228.json)
+
+---
+
+### Three killed in a house in Canada
 
 *2024-03-16 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194575) · `si`
 
-කැනඩාවේ ඔන්ටාරියෝ හි නිවසක හටගත් ගින්නකින් පුද්ගලයින් තිදෙනෙකු මියගොස් තිබේ.
+In Ontario, Canada, a fire killed three, including a mother, father, and daughter of Indian origin. Authorities couldn't verify their identities. The fire is not considered dangerous.
 
-මෙලෙස මරණයට පත්වී ඇත්තේ ඉන්දියානු සම්භවය සහිත එකම පවුලේ මව, පියා සහ දියණිය බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+🟩
 
-මෙම ගින්න නිවා දැමීමෙන් පසුව පුද්ගල මළසිරුරු තුනක් හමුවී තිබුණි.
+Three persons were killed in a fire that erupted in a house in Ontario, Canada.
 
-කෙසේ වුවද ඔවුන්ගේ අනන්‍යතාව තහවුරු කරගැනීමට බලධාරීන් සමත්වී තිබුණේ නැති බවද වාර්තා වෙයි.
+Foreign media reports that the mother, father and daughter, who has been deceased has been identified as the mother, father and daughter with Indian origin.
 
-මෙම ගින්න අනතුරක් නොවන බවත් සැක කටයුතු ගින්නක් බවත් කැනඩා පොලීසිය පවසා ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+After extinguishing the fire, three bodies were found.
+
+However, it is reported that the authorities had not been able to verify their identity.
+
+The Canada police say that the fire is not dangerous and suspected of suspicion.
 
 ◼️
 
 [Data](articles/51382e71.json)
 
+[Extended Data](ext_articles/51382e71.ext.json)
+
 ---
 
-### உணவு தவிர்ப்பு போராட்டம் நிறைவு
+### Completion of food avoidance struggle
 
 *2024-03-16 16:27:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/உணவு-தவிர்ப்பு-போராட்டம்-நிறைவு/71-334759) · `ta`
 
-வவுனியா விளக்கமறியல் சிறைச்சாலையில் உணவு தவிர்ப்பு போராட்டத்தில் ஈடுபட்டு வந்த வெடுக்குநாறி மலை ஆதிசிவன் ஆலயத்தில்  கைது செய்யப்பட்ட 5 பேரின் உணவு தவிர்ப்பு போராட்டம் நேற்று முடித்து வைக்கப்பட்டது.
+Five individuals, including a temple priest, ended a food-avoidance struggle at the Adisivan Temple in Vettukunni Mountain, following a demonstration for their release. They were arrested at the temple and at Vavuniya Prison, where they were joined by others including Velan Swamy and S. Gajendran.
 
-வெடுக்குநாறி மலை ஆதிசிவன் ஆலயத்தில் சிவராத்திரி வழிபாட்டில் ஈடுபட்டிருந்த போது கடந்த 8 ஆம் திகதி நெடுங்கேணி பொலிஸாரால் ஆலய பூசகர் உள்ளிட்ட 8 பேர் கைது செய்யப்பட்டிருந்தனர்.
+🟩
 
-அவர்களில் 5 பேர் கடந்த செவ்வாய்கிழமை முதல் உணவு தவிர்ப்பு போராட்டத்தில் ஈடுபட்டிருந்தனர்.
+The Food Avoidance Struggle of five persons arrested at the Adivasivan Temple in Vettukunni Mountain, who was involved in a food -related struggle at the Vavuniya Prison.
 
-இந்நிலையில், வெடுக்குநாறி மலையில் கைது செய்யப்பட்டவர்களை விடுவிக்கக் கோரியும், பொலிஸ் அராஜகத்தை கண்டித்தும் வவுனியாவில் ஆர்ப்பாட்ட பேரணி ஒன்று இடம்பெற்றிருந்தது.
+Eight people, including the temple priest, were arrested by the Nedungeni police on the 8th of this month while they were worshiping the Shivaratri temple at the Adisivan Temple at the Vettu Niri Hill.
+
+Five of them have been engaged in a food -avoidance struggle since last Tuesday.
+
+In this case, a demonstration rally was held in Vavuniya demanding the release of the arrested persons and the police anarchy.
+
+Following the conclusion of the Vavuniya Prison front, Velan Swamy, Blessed Ramesh, Attorney K. Sukas and Member of Parliament, S. Gajendran, went to the prison with their compliance with their compliance with their compliance with the temple priest MathimukarasaThey discussed with the 5 people and gave them water and completed the food avoidance struggle.
 
 ...
 
 [Data](articles/1c01e603.json)
+
+[Extended Data](ext_articles/1c01e603.ext.json)
 
 ---
 
@@ -109,6 +137,8 @@ The CPA, a prominent policy think-tank based in Colombo, emphasized that the spi
 ...
 
 [Data](articles/e3307b9a.json)
+
+[Extended Data](ext_articles/e3307b9a.ext.json)
 
 ---
 
@@ -2235,31 +2265,5 @@ In a televised interview upon his return to the country, Rajapaksa highlighted t
 [Data](articles/3e88253b.json)
 
 [Extended Data](ext_articles/3e88253b.ext.json)
-
----
-
-### Janaka Ratnayake proposes price stability plan for goods and services
-
-*2024-03-15 23:54:10* · [`dailyftlk`](https://www.ft.lk/news/Janaka-Ratnayake-proposes-price-stability-plan-for-goods-and-services/56-759558) · `en`
-
-Accuses current Govt. of failing Sri Lanka’s consumers by failing to manage prices of goods and services
-
-Says ongoing mismanagement is creating constant state of hardship for consumers
-
-Calls for urgent need for change in leadership to address these pressing issues
-
-Claims Govt. formed by his party will ensure price stability of 20 essential items for five years
-
-Presidential hopeful and former Chairman of the Public Utilities Commission of Sri Lanka (PUCSL) Janaka Ratnayake accused the current Government of failing the country’s consumers yesterday.
-
-Addressing a press conference to mark the World Consumer Rights Day, Ratnayake said the Government has failed to manage the prices of essential goods and services leaving the population struggling.
-
-“Price management of basic necessities has been non-existent leaving the population struggling,” he said.
-
-...
-
-[Data](articles/5158644f.json)
-
-[Extended Data](ext_articles/5158644f.ext.json)
 
 ---

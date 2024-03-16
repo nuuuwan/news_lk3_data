@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 13:52:01**
+As of **2024-03-16 14:02:54**
 
 ## Newspaper Stats
 
-*Scraped **13,253** Articles*
+*Scraped **13,256** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ dailyftlk | 699
 economynextcom | 709
 islandlk | 720
 adalk | 1,131
-adaderanalk | 1,595
+adaderanalk | 1,596
 tamilmirrorlk | 1,610
-virakesarilk | 1,844
-dailymirrorlk | 2,034
+virakesarilk | 1,845
+dailymirrorlk | 2,035
 adaderanasinhalalk | 2,089
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,251 (100.0%) of 13,253 articles have been extended.
+13,253 (100.0%) of 13,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### கோட்டாபய நிர்வாகத்திறன் அற்றவர் – மகிந்த முன்னிலையில் கடுமையாக விமர்சித்த பௌத்தமதகுரு
+
+*2024-03-16 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178864) · `ta`
+
+பௌத்தமதகுரு ஒருவர் முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்ச முன்னிலையில் மற்றுமொரு முன்னாள் ஜனாதிபதி கோட்டாபயவை கடுமையா சாடியுள்ளார்.
+
+மகி;ந்த ராஜபக்சமுன்னிலையில் உரையாற்றிய முருத்தெட்டுவே ஆனந்த நாயக்க தேரர் மிகப்பெரும்பான்மை  வாக்குகளால் தெரிவு செய்யப்பட்ட கோட்டாபய ராஜபக்ச நாட்டிற்கும் மக்களிற்கும் துரோகமிழைத்தார் என  குறிப்பிட்டுள்ளார்.
+
+கோட்டபயவிடம் நிர்வாகத்திறமையிருக்கவில்லை தனக்கு யாரால் நன்மை கிடைக்கும் என கருதினாரோ அவர்களையே கோட்டபய தன்னை சுற்றிவைத்திருந்தார் எனவும்  பௌத்மதகுரு தெரிவித்துள்ளார்.
+
+கோட்டாபய தவறான பாதையில்  செல்கின்றார் என நாங்கள் பல தடவை அவரிடம் தெரிவித்தோம் அதற்காரணமாகவே அவர் வீழ்ச்சியடைந்தார் நாங்கள் இன்று எதிர்கொள்ளும் நிலைமைக்கு அவரின் நிர்வாகத்திறன் இன்மையே காரணம் எனவும் பௌத்தமதகுரு தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/6bd95df0.json)
+
+---
+
+### Do not allow filling of paddy lands: Minister
+
+*2024-03-16 13:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Do-not-allow-filling-of-paddy-lands-Minister/108-278994) · `en`
+
+Agriculture and Plantation Industry Minister Mahinda Amaraweera advised officials not to allow land to be filled for any reasons, even though some individuals and groups try to fill paddy lands in the island and use it for various purposes.
+
+He said this while addressing the Agriculture Development Committee meeting held at the Padukka Divisional Secretariat, where measures to be taken to get the highest productivity from paddy lands, especially in urban areas, were discussed.
+
+There are about 10,000 acres of cultivable land in the Padukka area and the Minister instructed the agricultural instructors and agricultural research and production assistants to prepare a programme for the cultivation of vegetables needed by the city of Colombo and its suburbs.
+
+Also, the Minister said that it is no longer productive to cultivate fallow paddy lands and also mentioned that measures should be taken to use such fields for other crops.
+
+...
+
+[Data](articles/033b9807.json)
+
+---
 
 ### Emergency hotline launched in Vaviniya for Tamil-speaking people
 
@@ -43,6 +79,22 @@ The hotline, introduced under the instructions of the President, was launched by
 ◼️
 
 [Data](articles/918f327d.json)
+
+[Extended Data](ext_articles/918f327d.ext.json)
+
+---
+
+### Emergency hotline launched for Tamil-speaking people in North & East
+
+*2024-03-16 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97993/emergency-hotline-launched-for-tamil-speaking-people-in-north-east) · `en`
+
+An emergency hotline (107) has been introduced in Vavuniya for the Tamil-speaking community , the police media division said.
+
+The hotline, introduced under the instructions of the President, was launched by Public Security Minister Tiran Allas and Inspector General of Police (IGP) Deshabandu Tennakoon on Saturday morning.
+
+◼️
+
+[Data](articles/a76a56b2.json)
 
 ---
 
@@ -61,6 +113,8 @@ The HRCSL headed by Justice L.T.B. Dehideniya inquired into the initial complain
 ...
 
 [Data](articles/93ccbba4.json)
+
+[Extended Data](ext_articles/93ccbba4.ext.json)
 
 ---
 
@@ -2075,67 +2129,5 @@ Accordingly, the train reservations have been allocated to the railway station, 
 [Data](articles/b20537c9.json)
 
 [Extended Data](ext_articles/b20537c9.ext.json)
-
----
-
-### Sri Lanka wins second ODI
-
-*2024-03-15 22:01:54* · [`adalk`](https://www.ada.lk/sports/දෙවැනි-එක්දින-තරගය-ලංකාව-ජය-ගනියි/9-408634) · `si`
-
-Sri Lanka wins the 2nd ODI against Bangladesh by 3 wickets, with Bangladesh scoring 286/7 and Sri Lanka achieving the target in 47.1 overs.
-
-🟩
-
-The Sri Lankan team was able to win the second ODI between the two countries by defeating the Host Bangladesh by 3 wickets.
-
-Bangladesh scored 286 runs for the loss of 07 wickets while Sri Lanka won the target for seven wickets in 47.1 overs.
-
-◼️
-
-[Data](articles/7152d484.json)
-
-[Extended Data](ext_articles/7152d484.ext.json)
-
----
-
-### Over 400 Sri Lankan nurses currently serving in Singapore - High Commission reveals
-
-*2024-03-15 21:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/97985/over-400-sri-lankan-nurses-currently-serving-in-singapore-high-commission-reveals) · `en`
-
-The High Commission of Sri Lanka in Singapore has revealed that over 400 Sri Lankan nurses currently work in Singapore.
-
-A group of 100 nurses arrived at the Changi Airport in Singapore on Friday (15 March), under an ongoing collaboration with Singapore’s Ministry of Health Holdings, making this the largest group of nurses to be deployed to Singapore simultaneously.
-
-Under the ongoing collaboration, nurses from Sri Lanka get the opportunity to serve within the Singapore healthcare system for a period of two years.
-
-The Singaporean Government also provides air tickets for both ways and accommodation free of charge. Apart from the wages a one-time relocation allowance of SGD 1,000/- is given to each person.
-
-Issuing a statement on the matter, the High Commission said, “This comprehensive support package is expected to ensure the well-being and success of foreign healthcare professionals”, adding that so far, over 420 nurses have been sent to Singapore under this programme.
-
-...
-
-[Data](articles/a77a8ff3.json)
-
-[Extended Data](ext_articles/a77a8ff3.ext.json)
-
----
-
-### Superbid from Sri Lanka
-
-*2024-03-15 21:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194554) · `si`
-
-Superbid from Sri Lanka won against Sri Lanka and Bangladesh, achieving a target of 287 in 47.1 balls.
-
-🟩
-
-Tourist Sri Lanka beat Sri Lanka and Bangladesh.
-
-Chasing a target of 287, Sri Lankan players won the match in 47.1 balls.
-
-◼️
-
-[Data](articles/652d2a06.json)
-
-[Extended Data](ext_articles/652d2a06.ext.json)
 
 ---

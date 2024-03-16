@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 08:02:48**
+As of **2024-03-16 08:17:45**
 
 ## Newspaper Stats
 
-*Scraped **13,207** Articles*
+*Scraped **13,208** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 123
+colombotelegraphcom | 124
 bbccomsinhala | 149
 dbsjeyarajcom | 186
 newsfirstlk | 363
@@ -26,27 +26,35 @@ adaderanasinhalalk | 2,083
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,206 (100.0%) of 13,207 articles have been extended.
+13,207 (100.0%) of 13,208 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
 
-### පොලීසියේ ලොකු පුටුවල වෙනසක් - දකුණ භාර SDIGත් මාරු කෙරේ
+### Change in the big chairs of the police - SDIG is transferred from the South
 
 *2024-03-16 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194559) · `si`
 
-ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරු 08 දෙනෙකු අතුළු පොලිස් නිලධාරීන් පිරිසකට වහාම ක්‍රියාත්මක වන පරිදි ස්ථාන මාරුවීම් ලබා දී තිබේ.
+Eight senior DIGs transferred from the South, including Mr. Priyantha Weerasuriya to training roles. Mr. M. Gunaratne moves to the Western Province. Senior Superintendent of Police of the Criminal Investigation Department, Mr. K Piyasekera, also transferred.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පැවසුවේ ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරු 08 දෙනෙක්, නියෝජ්‍ය පොලිස්පතිවරයෙක්, ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරු 08 දෙනෙක් සහ පොලිස් අධිකාරීවරයෙක් මෙලෙස ස්ථාන මාරු කර ඇති බවය.
+🟩
 
-අපරාධ හා රථවාහන දිසාව භාරව කටයුතු කළ ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා උතුරුමැද පළාතටත්, දකුණු පළාත භාර ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙස කටයුතු කළ එස්. සී . මැදවත්ත මහතා පුහුණු හා උසස් පුහුණු ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙසත් මාරුක‍ර යවා තිබේ.
+Eight Senior DIGs have been transferred with immediate effect.
 
-උතුරු පළාත භාර ‍ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති ලෙස කටයුතු කළ කේ. පී. එම් .ගුණරත්න මහතා බස්නාහිර පළාතටත්, ප්‍රජා පොලිස් සංචාරක හා ආයෝජන තනතුරේ කටයුතු කළ එස්.ඩබ්ලිව්.එම් සේනාරත්ත මහතා දකුණු පළාත භාර ජ්‍යෙෂ්ඨ නියොජ්‍ය පොලිස්පති ලෙස මාරු කර යවා ඇත.
+The Police Media Spokesman's office said that eight senior DIGs, 8 senior Superintendents of Police and a Superintendent of Police have been transferred.
 
-...
+Mr. Senior DIG Priyantha Weerasuriya, who was in charge of the criminal and traffic district, was Senior DIG in charge of the North Central Province and Senior DIG in charge of the North Central Province. C. The Medawatte has been transferred to the training and higher training senior DIG.
+
+K. Business of the Northern Province. P. Mr. M. Gunaratne has been transferred to the Western Province and Community Police Tourism and Investment Investment.
+
+Senior Superintendent of Police of the Criminal Investigation Department. P.A. Mr. K Piyasekera has been in charge of the Mount Lavinia division, but in charge of the Mount Lavinia Division. M. M.S Devasena has been transferred to the Director of the Criminal Investigation Department.
+
+◼️
 
 [Data](articles/8b474553.json)
+
+[Extended Data](ext_articles/8b474553.ext.json)
 
 ---
 
@@ -295,6 +303,18 @@ The paintings were featured in a variety of colorful paintings, including daily 
 [Data](articles/2c657125.json)
 
 [Extended Data](ext_articles/2c657125.ext.json)
+
+---
+
+### A Leap Of Faith Awaits
+
+*2024-03-16 02:03:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-leap-of-faith-awaits/) · `en`
+
+“What did the others know of history? Passing ripples, little eddies, and breaking waves. They wondered at the changing forms of the surface and could not explain them. But we had descended into the depths, into the formless, anonymous masses, which at all times constituted the substance of history; and we were the first to discover her laws of motion. We had discovered the laws of her inertia, of the slow changing of the molecular structure, and, her sudden eruptions…” – Darkness at Noon- Arthur Koestler
+
+...
+
+[Data](articles/0afd46ae.json)
 
 ---
 
@@ -2115,29 +2135,5 @@ Applications submitted prior to 12 p.m today will not be accepted and will not b
 [Data](articles/cbe86c33.json)
 
 [Extended Data](ext_articles/cbe86c33.ext.json)
-
----
-
-### Applications called for enrollment to Colleges of Education
-
-*2024-03-15 16:10:49* · [`adalk`](https://www.ada.lk/breaking_news/විද්‍යාපීඨවලට-බඳවා-ගැනීමට-අයදුම්පත්-කැඳවයි/11-408631) · `si`
-
-The Ministry of Education Sri Lanka calls for student enrollment in national education institutes for the upcoming academic year. Applications must be submitted online after 12.03.2003.
-
-🟩
-
-The Ministry of Education has taken steps to call for the participation of students to admit the teaching of national education institutes on the year Academic year.
-
-Accordingly, the gazette notification has been published in the Gazette on Friday, No. 2373 of the Democratic Socialist Republic of Sri Lanka.. The application should be submitted along with online method (online) and selecting the eligibility for the applications.
-
-This can be applied through online methods after 12.03.2003.
-
-Applicants should apply for online system, as applications included before 12.03 pm.
-
-◼️
-
-[Data](articles/29d2c786.json)
-
-[Extended Data](ext_articles/29d2c786.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 21:17:42**
+As of **2024-03-16 21:33:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,102
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,302 (100.0%) of 13,303 articles have been extended.
+13,303 (100.0%) of 13,303 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ On Friday (Mar 15), Peel police Constable Taryn Young said that the fire appeare
 ...
 
 [Data](articles/2c938109.json)
+
+[Extended Data](ext_articles/2c938109.ext.json)
 
 ---
 

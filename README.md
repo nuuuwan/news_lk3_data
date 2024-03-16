@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 05:17:42**
+As of **2024-03-16 05:37:03**
 
 ## Newspaper Stats
 
-*Scraped **13,189** Articles*
+*Scraped **13,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 708
-islandlk | 711
+islandlk | 717
 adalk | 1,130
 adaderanalk | 1,585
 tamilmirrorlk | 1,601
@@ -26,11 +26,41 @@ adaderanasinhalalk | 2,079
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,189 (100.0%) of 13,189 articles have been extended.
+13,189 (100.0%) of 13,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### Trinity towards the Interesting decision - Antonian Samar
+
+*2024-03-16 05:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/178830) · `ta`
+
+Trinity's Antonian 105th (Mountaineer) sapphire at Asgiriya Ground, Kandy, is heading towards an uninteresting decision. St. Anthony's team, after a strong start, faces challenges. Despite a promising opening, they struggle to maintain their lead, losing the match with 13 runs.
+
+🟩
+
+The first day of the Trinity - Antonian 105th (Mountaineer) sapphire at the Asgiriya Ground in Kandy is moving towards the uninteresting decision.
+
+Perhaps, if St. Anthony loses the Trinity team twice, it is possible to make the match.
+
+St. Anthony's team, who played the entire day in the match, started the match on Friday (15) and scored 232 runs for the loss of 9 wickets in the first innings when the game was stopped due to inadequate lighting.
+
+Often the St. Anthony's team is expected to hold their first innings and give the Trinity team a chance to bat on the second day (16).
+
+St. Anthony's team faced a stumbling block as the opening player Dinura Kanegoda (0) was playing in the first over of Trinity team man Manula Gularatne.
+
+However, team captain Dissanayake Kaushika Kumarasinghe, both of them, shared 66 runs in the 2nd wicket.
+
+Subsequently, Ekanayake shared 36 runs each in the 3rd wicket with Januka Ratnayake and Janith Ratnasiri 4.
+
+...
+
+[Data](articles/0cc93c42.json)
+
+[Extended Data](ext_articles/0cc93c42.ext.json)
+
+---
 
 ### The President visited the painting exhibitions
 
@@ -127,36 +157,6 @@ In this struggle against injustice, all the Tamil people, religious organization
 [Data](articles/ff1cf292.json)
 
 [Extended Data](ext_articles/ff1cf292.ext.json)
-
----
-
-### Trinity towards the Interesting decision - Antonian Samar
-
-*2024-03-16 00:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/178830) · `ta`
-
-Trinity's Antonian 105th (Mountaineer) sapphire at Asgiriya Ground, Kandy, is heading towards an uninteresting decision. St. Anthony's team, after a strong start, faces challenges. Despite a promising opening, they struggle to maintain their lead, losing the match with 13 runs.
-
-🟩
-
-The first day of the Trinity - Antonian 105th (Mountaineer) sapphire at the Asgiriya Ground in Kandy is moving towards the uninteresting decision.
-
-Perhaps, if St. Anthony loses the Trinity team twice, it is possible to make the match.
-
-St. Anthony's team, who played the entire day in the match, started the match on Friday (15) and scored 232 runs for the loss of 9 wickets in the first innings when the game was stopped due to inadequate lighting.
-
-Often the St. Anthony's team is expected to hold their first innings and give the Trinity team a chance to bat on the second day (16).
-
-St. Anthony's team faced a stumbling block as the opening player Dinura Kanegoda (0) was playing in the first over of Trinity team man Manula Gularatne.
-
-However, team captain Dissanayake Kaushika Kumarasinghe, both of them, shared 66 runs in the 2nd wicket.
-
-Subsequently, Ekanayake shared 36 runs each in the 3rd wicket with Januka Ratnayake and Janith Ratnasiri 4.
-
-...
-
-[Data](articles/0cc93c42.json)
-
-[Extended Data](ext_articles/0cc93c42.ext.json)
 
 ---
 
@@ -488,6 +488,32 @@ For ancient history we are dependent on those who recorded them, in times when l
 
 ---
 
+### Kala Pola 2024 – A spectacular celebration of Sri Lankan visual art
+
+*2024-03-15 23:35:00* · [`islandlk`](http://island.lk/kala-pola-2024-a-spectacular-celebration-of-sri-lankan-visual-art/) · `en`
+
+Kala Pola 2024 – Sri Lanka’s Annual Open Air Art Fair – held on February 18th along Ananda Coomaraswamy Mawatha, Colombo 7 brought success for both artists and visitors alike, generating estimated sales of approximately Rs. 51 million, excluding commissioned artwork.
+
+Commemorating its 31st year, Kala Pola is Sri Lanka’s largest and longest-running platform for artists and sculptors to showcase their talent and connect with buyers, industry professionals, and the artist community. A long-term collaboration of the George Keyt Foundation and John Keells Group, the event drew a tremendous response, attracting 368 artists and an estimated 38,000 visitors (including both footfall and vehicular presence in the event area).
+
+...
+
+[Data](articles/75b6e6da.json)
+
+---
+
+### Unilever and IDB partner to uplift SMEs and livelihoods
+
+*2024-03-15 23:35:00* · [`islandlk`](http://island.lk/unilever-and-idb-partner-to-uplift-smes-and-livelihoods/) · `en`
+
+Unilever Sri Lanka and the Industrial Development Board (IDB) signed a three-year memorandum of understanding to uplift SMEs in Sri Lanka. This is a public private partnership between Unilever and the IDB to jointly support the growth and development of 20 Micro Small & Medium Scale entrepreneurs in Sri Lanka every year through the Industrial Development Fund (IDF). The IDF, under the supervision of the Industrial Development Board, and conforming to guidelines of the Central Bank of Sri Lanka provides financial capital in the form of low interest, repayable loans to Micro, Small and Medium Enterprises (MSMEs), enabling them to commence or expand local manufacturing in sectors prioritized by the Ministry of Industries to fuel an export-oriented economy. The first batch of loans were handed over to 10 female micro entrepreneurs at the occasion of the International Women’s Day on the 12th of March 2024.
+
+...
+
+[Data](articles/96886e84.json)
+
+---
+
 ### CA Sri Lanka forum debate challenges and explores solutions to SOE restructuring
 
 *2024-03-15 23:34:20* · [`dailyftlk`](https://www.ft.lk/business/CA-Sri-Lanka-forum-debate-challenges-and-explores-solutions-to-SOE-restructuring/34-759544) · `en`
@@ -608,6 +634,34 @@ The newly established laboratory offers a comprehensive range of analytical serv
 
 ---
 
+### Safety Recall announced on over 32,000 Suzuki WagonR vehicles
+
+*2024-03-15 23:28:00* · [`islandlk`](http://island.lk/safety-recall-announced-on-over-32000-suzuki-wagonr-vehicles/) · `en`
+
+Suzuki Motor Corporation Japan has announced a Safety recall related to the fuel system of the Japanese Suzuki WagonR model range. As the sole distributor of Suzuki vehicles in Sri Lanka, Associated Motorways (Private) Limited (AMW) is taking active steps to ensure the safety and satisfaction of Suzuki WagonR owners.
+
+The safety recall is a proactive measure to rectify fuel impurity blockages within the fuel system, specifically to address inaccurate fuel readings in the Instrument Cluster Panel. Unattended, this could lead to engine stalling due to a lack of proper warning indications for insufficient fuel. Affected models include the Suzuki WagonR Premium, Suzuki WagonR FX/FZ, Suzuki Spacia and the Suzuki Stingray.
+
+...
+
+[Data](articles/9447875d.json)
+
+---
+
+### Share market remains in positive territory as blue chips take centre stage
+
+*2024-03-15 23:27:00* · [`islandlk`](http://island.lk/share-market-remains-in-positive-territory-as-blue-chips-take-centre-stage/) · `en`
+
+The stock market was driven mainly yesterday by a few blue chip companies, including Lanka IOC, Hayley s Fabrics and Hema’s Holdings. Both indices were on an upward trend.
+
+The All Share Price Index went up by 18.79 points, while the S and P SL 20 rose by 19.01 points. Turnover stood at Rs 1.62 billion with two crossings. Those crossings were reported in Union Chemical, which crossed 54000 shares to the tune of Rs 29.36 million; its shares traded at Rs 540 and CIC (Non- Voting) 548,000 shares crossed for Rs 27.4 million; its shares traded at Rs 50.
+
+...
+
+[Data](articles/245e451c.json)
+
+---
+
 ### Responsibly managing govt-funded benefits can significantly contribute to economy - President
 
 *2024-03-15 23:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/97986/responsibly-managing-govt-funded-benefits-can-significantly-contribute-to-economy-president) · `en`
@@ -623,6 +677,24 @@ The President further requested active participation from all local government o
 [Data](articles/67a2ce4e.json)
 
 [Extended Data](ext_articles/67a2ce4e.ext.json)
+
+---
+
+### Heritance Ayurveda named ‘Best Ayurveda Resort Sri Lanka’ at the FIT Health & Wellness Awards
+
+*2024-03-15 23:27:00* · [`islandlk`](http://island.lk/heritance-ayurveda-named-best-ayurveda-resort-sri-lanka-at-the-fit-health-wellness-awards/) · `en`
+
+Heritance Ayurveda, a leading wellness destination renowned for its authentic Ayurvedic experiences, is thrilled to announce its recent accolade as the ‘Best Ayurveda Resort Sri Lanka’ at the prestigious 9th FIT Health & Wellness Awards held in Berlin. The award ceremony was organised by Fit Reisen and held in conjunction with ITB trade fair (the world’s largest tourism trade fair).
+
+Heritance Ayurveda is part of Heritance Hotels and Resorts brand, the flagship brand of the premier Sri Lankan hospitality chain Aitken Spence Hotels.
+
+The recognition comes as a testament to Heritance Ayurveda’s unwavering commitment to providing unparalleled wellness experiences to its guests. This esteemed award is based on the overwhelmingly positive feedback received from the valued customers of Fit Reisen, who have experienced the transformative benefits of our Ayurvedic treatments and therapies firsthand.
+
+Share market remains in positive territory as blue chips take centre stage
+
+...
+
+[Data](articles/8fd7a798.json)
 
 ---
 
@@ -2089,121 +2161,5 @@ People who staged a protest in front of the police station for about half an hou
 [Data](articles/63bc4fd9.json)
 
 [Extended Data](ext_articles/63bc4fd9.ext.json)
-
----
-
-### Hiru TV and Reeno blew 2000 million
-
-*2024-03-15 15:01:10* · [`adalk`](https://www.ada.lk/breaking_news/හිරු-TV-සහ-රෙනෝ-සිලවා--නිළි-මහේෂිගෙන්-කෝටි-2000ක්-ඉල්ලයි/11-408630) · `si`
-
-Hiru TV and Raynor Silva received 2000 million from their attorney company, enhancing their reputation.
-
-🟩
-
-His attorney company has acted on behalf of Hiru Tv and Raynor Silva to hand over to Hiru TV and its Chairman Raynor Silva.
-
-Accordingly, the reputation of Rs.
-
-◼️
-
-[Data](articles/ae6d11e6.json)
-
-[Extended Data](ext_articles/ae6d11e6.ext.json)
-
----
-
-### Israeli strikes killed at least 29, injured over 150 awaiting aid in Gaza: Palestinian officials
-
-*2024-03-15 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97977/israeli-strikes-killed-at-least-29-injured-over-150-awaiting-aid-in-gaza-palestinian-officials) · `en`
-
-At least 29 Palestinians were killed while awaiting aid in two separate Israeli attacks in the Gaza Strip on Thursday, Gaza’s health ministry said.
-
-In the first incident, Palestinian health officials in the Hamas-ruled strip said eight people were killed in an airstrike on an aid distribution centre in Al-Nuseirat camp in the central Gaza Strip.
-
-Later, at least 21 people were killed and more than 150 wounded by Israeli gunfire at a crowd awaiting aid trucks at a northern Gaza roundabout, Gaza’s health ministry said.
-
-In a statement, Israel’s military denied attacking aid centres, describing the reports as “false.”
-
-“As the IDF assesses the incident with the thoroughness that it deserves, we urge the media to do the same and only rely on credible information,” the statement said.
-
-The Gaza conflict has displaced most of the enclave’s 2.3 million population. Chaotic scenes and deadly incidents have taken place during aid distributions as desperately hungry people scrambled for food.
-
-...
-
-[Data](articles/de29e8f0.json)
-
-[Extended Data](ext_articles/de29e8f0.ext.json)
-
----
-
-### Israeli strikes killed at least 29, injured over 150 in Gaza awaiting aid: Palestinian officials
-
-*2024-03-15 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/97977/israeli-strikes-killed-at-least-29-injured-over-150-in-gaza-awaiting-aid-palestinian-officials) · `en`
-
-At least 29 Palestinians were killed while awaiting aid in two separate Israeli attacks in the Gaza Strip on Thursday, Gaza’s health ministry said.
-
-In the first incident, Palestinian health officials in the Hamas-ruled strip said eight people were killed in an airstrike on an aid distribution centre in Al-Nuseirat camp in the central Gaza Strip.
-
-Later, at least 21 people were killed and more than 150 wounded by Israeli gunfire at a crowd awaiting aid trucks at a northern Gaza roundabout, Gaza’s health ministry said.
-
-In a statement, Israel’s military denied attacking aid centres, describing the reports as “false.”
-
-“As the IDF assesses the incident with the thoroughness that it deserves, we urge the media to do the same and only rely on credible information,” the statement said.
-
-The Gaza conflict has displaced most of the enclave’s 2.3 million population. Chaotic scenes and deadly incidents have taken place during aid distributions as desperately hungry people scrambled for food.
-
-...
-
-[Data](articles/f36aabe9.json)
-
-[Extended Data](ext_articles/f36aabe9.ext.json)
-
----
-
-### 159 Engineers Exit
-
-*2024-03-15 14:49:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/159-பொறியியலாளர்கள்-வெளியேற்றம்/175-334716) · `ta`
-
-159 engineers left the Ceylon Electricity Board, with 105 resigning and 54 on official holidays. Experienced engineers' departure threatens a crisis. Many abroad for vacation are seeking permanent residency, with salaries ranging from $4,000 to $8,000 a month.
-
-🟩
-
-Dhanushka Parakramasinghe, president of the Ceylon Electricity Board (CEB) Engineers Association, said that 159 engineers who worked at the Ceylon Electricity Board had gone abroad within two years and 105 engineers had left their service and 54 more official holidays had been received.
-
-If the experienced engineers who work in the Administrative Council and the most complex duties are further renounced, the Ceylon Electricity Board will be in severe crisis.
-
-It has been revealed that a large number of engineers abroad on vacation have gone to various countries to obtain their permanent residency permit and do not believe that they will work again.
-
-He said that a new engineer abroad will receive a salary of about $ 4,000 a month and the experienced engineer can get a salary of $ 6,000 to $ 8,000 a month.
-
-◼️
-
-[Data](articles/40d992de.json)
-
-[Extended Data](ext_articles/40d992de.ext.json)
-
----
-
-### 159 Engineers Exit from the country
-
-*2024-03-15 14:49:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/159-பொறியியலாளர்கள்-நாட்டிலிருந்து-வெளியேற்றம்/175-334716) · `ta`
-
-159 engineers left Ceylon Electricity Board, 105 resigned, 54 on official holidays. Experienced engineers' departure threatens a crisis. Many abroad for residency, not planning to return. New engineers abroad earn $4,000/month, experienced $6,000-$8,000/month.
-
-🟩
-
-Dhanushka Parakramasinghe, president of the Ceylon Electricity Board (CEB) Engineers Association, said that 159 engineers who worked at the Ceylon Electricity Board had gone abroad within two years and 105 engineers had left their service and 54 more official holidays had been received.
-
-If the experienced engineers who work in the Administrative Council and the most complex duties are further renounced, the Ceylon Electricity Board will be in severe crisis.
-
-It has been revealed that a large number of engineers abroad on vacation have gone to various countries to obtain their permanent residency permit and do not believe that they will work again.
-
-He said that a new engineer abroad will receive a salary of about $ 4,000 a month and the experienced engineer can get a salary of $ 6,000 to $ 8,000 a month.
-
-◼️
-
-[Data](articles/88b1be35.json)
-
-[Extended Data](ext_articles/88b1be35.ext.json)
 
 ---

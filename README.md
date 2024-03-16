@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 17:33:33**
+As of **2024-03-16 17:53:35**
 
 ## Newspaper Stats
 
-*Scraped **13,285** Articles*
+*Scraped **13,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 699
 economynextcom | 709
 islandlk | 720
 adalk | 1,131
-adaderanalk | 1,600
+adaderanalk | 1,601
 tamilmirrorlk | 1,619
 virakesarilk | 1,850
 dailymirrorlk | 2,038
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,097
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,285 (100.0%) of 13,285 articles have been extended.
+13,285 (100.0%) of 13,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### Dermatologists raise concerns about skin diseases as sweltering heat prevails
+
+*2024-03-16 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97996/dermatologists-raise-concerns-about-skin-diseases-as-sweltering-heat-prevails) · `en`
+
+Dermatologists have raised concerns about risks of skin diseases stemming from the sweltering heat and urged the members of the public to take preventive measures.
+
+Commenting on the matter, skin care and cosmetic consultant dermatologist, Dr. Indira Kahawita advised people to avoid direct exposure to sunlight, to prevent sunburns, heat rash, sunspots, irritation, pus blisters and other conditions.
+
+She also encouraged seeking medical advice and refraining from taking over-the-counter medicines for fungal infections on the skin exacerbated by warm weather conditions.
+
+Further, Dr. Kahawita appealed to parents and teachers to refrain from exposing children to direct sunlight and letting them engage in strenuous outdoor activities during high atmospheric temperatures.
+
+...
+
+[Data](articles/4f63ec29.json)
+
+---
 
 ### Two police officers suspended
 
@@ -2249,27 +2267,5 @@ The 1978 Science Faculty alumni batch of the University of Peradeniya recently c
 [Data](articles/395f37c9.json)
 
 [Extended Data](ext_articles/395f37c9.ext.json)
-
----
-
-### Francophonie 2024 - Mark Ayman Marc Aymon and Milla Beson Milla Besson
-
-*2024-03-16 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/178831) · `ta`
-
-Switzerland and the Maldives, with the International Organization of La Francophonie, will host a concert in Colombo and Ahangama for Francophonie 2024, featuring Swiss musicians Mark Ayman Marc Aymon and Milla Beson Milla Besson. The event includes master classes and the release of "Glaneurs," showcasing Swiss cultural heritage.
-
-🟩
-
-The Switzerland Embassy for Sri Lanka and the Maldives will organize a concert in Colombo and Ahangama, along with the International Organization of La Francophonie.. The annual French language and Francophonie cultures are organized with Swiss musicians Mark Ayman Marc Aymon and Milla Beson Milla Besson for celebrating Francophonie 2024.
-
-The launch event was on March 16th.. The Alliance Française de Colombo will be held from 7am to Colombo. Subsequently, on March 17,. TRAX AGAGAMA will be held from 7.00 pm. The events can be seen free of charge.
-
-Master Classes will also be held on the 16th of March at the University of Kattupula and the University of March at the University of Urugunai on March 19.
-
-...
-
-[Data](articles/be7db8b7.json)
-
-[Extended Data](ext_articles/be7db8b7.ext.json)
 
 ---

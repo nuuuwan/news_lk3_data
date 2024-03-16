@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 13:33:32**
+As of **2024-03-16 13:52:01**
 
 ## Newspaper Stats
 
-*Scraped **13,251** Articles*
+*Scraped **13,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ dailyftlk | 699
 economynextcom | 709
 islandlk | 720
 adalk | 1,131
-adaderanalk | 1,594
+adaderanalk | 1,595
 tamilmirrorlk | 1,610
 virakesarilk | 1,844
-dailymirrorlk | 2,033
+dailymirrorlk | 2,034
 adaderanasinhalalk | 2,089
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,251 (100.0%) of 13,251 articles have been extended.
+13,251 (100.0%) of 13,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-16 (Saturday)
+
+### Emergency hotline launched in Vaviniya for Tamil-speaking people
+
+*2024-03-16 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97993/emergency-hotline-launched-in-vaviniya-for-tamil-speaking-people) · `en`
+
+An emergency hotline (107) has been introduced in Vavuniya for the Tamil-speaking community , the police media division said.
+
+The hotline, introduced under the instructions of the President, was launched by Public Security Minister Tiran Allas and Inspector General of Police (IGP) Deshabandu Tennakoon on Saturday morning.
+
+◼️
+
+[Data](articles/918f327d.json)
+
+---
+
+### HRCSL directs Royal College to rectify wrong prefects’ appointments
+
+*2024-03-16 13:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/HRCSL-directs-Royal-College-to-rectify-wrong-prefects-appointments/155-278996) · `en`
+
+Colombo, March 16 (Daily Mirror) - The Human Rights Commission of Sri Lanka (HRCSL) has directed Royal College, Colombo 7 to rectify the alleged wrong appointments made to the Prefects Council for 2024.
+
+The Human Rights Commission made this direction following seven complaints filed by students of Royal College who claimed their rights were violated by the appointments of prefects for the year 2024.
+
+They cited the Principal of Royal College and Director - National Schools and the Minister of Education and copies of the complaints had been sent to the Education Ministry Secretary, the Minister of the Education and the Presidential Investigation Commission.
+
+The HRCSL headed by Justice L.T.B. Dehideniya inquired into the initial complaints on Friday (March 15) and examined the appointment criteria of two randomly taken prefect appointments and two that were rejected.
+
+...
+
+[Data](articles/93ccbba4.json)
+
+---
 
 ### The fisherman who went to the marine industrySeverity
 
@@ -2105,57 +2137,5 @@ Chasing a target of 287, Sri Lankan players won the match in 47.1 balls.
 [Data](articles/652d2a06.json)
 
 [Extended Data](ext_articles/652d2a06.ext.json)
-
----
-
-### Funeral for Sri Lankan family slain in Ottawa to be held on Sunday
-
-*2024-03-15 21:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Funeral-for-Sri-Lankan-family-slain-in-Ottawa-to-be-held-on-Sunday/107-278952) · `en`
-
-OTTAWA — A public funeral for the six people killed last week in Barrhaven will be held on Sunday afternoon.
-
-In a news release Thursday, the Buddhist Congress of Canada (BCC) said the multi-faith service will be at 1 p.m. at the Infinity Convention Centre on Gibford Drive south of Ottawa's core.
-
-Four children and two adults were killed in a townhouse in the Ottawa suburb of Barrhaven March 6.
-
-Police identified five of the victims as a family of newcomers to Canada from Sri Lanka.
-
-35-year-old Darshani Dilanthika Ekanayake, was killed along with her four young children — daughters Kelly, who was two months old; Ranaya, 3; and Ashwini, 4 — and son Inuka, 7.
-
-The body of another man, 40-year-old Gamini Amarakoon, was also found at the scene.
-
-There was one survivor — Dhanushka Wickramasinghe, who was injured with an edged weapon and taken to hospital.
-
-...
-
-[Data](articles/8aa75c2d.json)
-
-[Extended Data](ext_articles/8aa75c2d.ext.json)
-
----
-
-### Funeral for Sri Lankan family slain in Ottawa to be held on Sunday
-
-*2024-03-15 21:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Funeral-for-Sri-Lankan-family-slain-in-Ottawa-to-be-held-on-Sunday/108-278952) · `en`
-
-OTTAWA — A public funeral for the six people killed last week in Barrhaven will be held on Sunday afternoon.
-
-In a news release Thursday, the Buddhist Congress of Canada (BCC) said the multi-faith service will be at 1 p.m. at the Infinity Convention Centre on Gibford Drive south of Ottawa's core.
-
-Four children and two adults were killed in a townhouse in the Ottawa suburb of Barrhaven March 6.
-
-Police identified five of the victims as a family of newcomers to Canada from Sri Lanka.
-
-35-year-old Darshani Dilanthika Ekanayake, was killed along with her four young children — daughters Kelly, who was two months old; Ranaya, 3; and Ashwini, 4 — and son Inuka, 7.
-
-The body of another man, 40-year-old Gamini Amarakoon, was also found at the scene.
-
-There was one survivor — Dhanushka Wickramasinghe, who was injured with an edged weapon and taken to hospital.
-
-...
-
-[Data](articles/c1543af7.json)
-
-[Extended Data](ext_articles/c1543af7.ext.json)
 
 ---

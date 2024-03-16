@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-16 08:17:45**
+As of **2024-03-16 08:33:16**
 
 ## Newspaper Stats
 
-*Scraped **13,208** Articles*
+*Scraped **13,209** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 708
 islandlk | 719
 adalk | 1,130
 adaderanalk | 1,586
-tamilmirrorlk | 1,603
+tamilmirrorlk | 1,604
 virakesarilk | 1,834
 dailymirrorlk | 2,024
 adaderanasinhalalk | 2,083
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,083
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,207 (100.0%) of 13,208 articles have been extended.
+13,208 (100.0%) of 13,209 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -240,6 +240,24 @@ Subsequently, Ekanayake shared 36 runs each in the 3rd wicket with Januka Ratnay
 
 ---
 
+### ’இந்திய - இலங்கை உறவை பலப்படுத்த வேண்டும்’
+
+*2024-03-16 03:05:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-இலங்கை-உறவை-பலப்படுத்த-வேண்டும்/175-334738) · `ta`
+
+இலங்கைக்கும் இந்தியாவுக்கும் இடையிலான விரிவான வர்த்தக மற்றும் பொருளாதார உறவுகளை இரு நாடுகளுக்கும் நன்மையளிக்கும் வகையில் மிக விரைவில் பலப்படுத்தப்பட வேண்டும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க வலியுறுத்தினார்.
+
+இலங்கையின் 76 ஆவது சுதந்திர தினம் மற்றும் 75 ஆவது இந்திய குடியரசு தினத்தை முன்னிட்டு இலங்கை இந்தியச் சங்கம் நேற்று முன்தினம் கொழும்பில் ஏற்பாடு செய்திருந்த விசேட நிகழ்வில் உரையாற்றும் போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+இலங்கைக்கும் இந்தியாவுக்கும் இடையில் மத மற்றும் கலாச்சார ரீதியான பாரிய பிணைப்பு உள்ளது. மேலும் நமது இரு நாடுகளுக்கும் பொதுவான பாரம்பரியமும் உள்ளது.
+
+நானும் இந்திய பிரதமர் நரேந்திர மோடியும் கூட்டாக கைச்சாத்திட்ட தொலைநோக்கு பிரகடனம் செயற்படுத்தப்படும் நிலையில் 75ஆவது ஆண்டு நிறைவு கொண்டாடப்படுவது விசேட அம்சமாகும். இந்தியாவுக்கும் இலங்கைக்குமிடையிலான உறவை பலப்படுத்தும்  தொலைநோக்கு அறிக்கையை தொடர்ச்சியாக முன்னெடுக்க உறுதிபூண்டுள்ளோம்.
+
+...
+
+[Data](articles/6052283e.json)
+
+---
+
 ### Applications for academic colleges
 
 *2024-03-16 02:56:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வியியற்கல்லூரிகளுக்கு-விண்ணப்பங்கள்-கோரல்/175-334737) · `ta`
@@ -315,6 +333,8 @@ The paintings were featured in a variety of colorful paintings, including daily 
 ...
 
 [Data](articles/0afd46ae.json)
+
+[Extended Data](ext_articles/0afd46ae.ext.json)
 
 ---
 
@@ -2115,25 +2135,5 @@ In addition, drugs have been seized and the suspects have been arrested in the s
 [Data](articles/89a92bee.json)
 
 [Extended Data](ext_articles/89a92bee.ext.json)
-
----
-
-### Applications open for National Colleges
-
-*2024-03-15 16:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Applications-open-for-National-Colleges/108-278926) · `en`
-
-The Education Ministry has taken steps to accept applications for the admission of students to the National Colleges of Education based on the results of the Advaned Level examination in the academic year 2021/2022
-
-Candidates should send in their applications via the online system and selections will be done through the online system.
-
-The closing date for online applications is April 5 and applicantions can be sent from 01 p.m today.
-
-Applications submitted prior to 12 p.m today will not be accepted and will not be considered, the Ministry said.
-
-◼️
-
-[Data](articles/cbe86c33.json)
-
-[Extended Data](ext_articles/cbe86c33.ext.json)
 
 ---

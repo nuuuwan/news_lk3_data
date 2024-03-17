@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 04:17:55**
+As of **2024-03-18 04:33:12**
 
 ## Newspaper Stats
 
-*Scraped **13,479** Articles*
+*Scraped **13,482** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 127
 bbccomsinhala | 149
 dbsjeyarajcom | 187
 newsfirstlk | 363
-dailyftlk | 709
+dailyftlk | 712
 economynextcom | 713
 islandlk | 735
 adalk | 1,157
@@ -26,11 +26,59 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,477 (100.0%) of 13,479 articles have been extended.
+13,479 (100.0%) of 13,482 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### SLT-MOBITEL and Railways unveil E-Ticket and E-Warrant solutions
+
+*2024-03-18 04:20:52* · [`dailyftlk`](https://www.ft.lk/news/SLT-MOBITEL-and-Railways-unveil-E-Ticket-and-E-Warrant-solutions/56-759623) · `en`
+
+SLT-MOBITEL, in collaboration with Sri Lanka Railways, last week marked a significant milestone by successfully digitizing the ticket reservation process for both customers and Government employees, ushering in a new era of convenience and efficiency.
+
+The new, fully-fledged digital system includes E-Ticket and E-Warrant solutions, symbolizing an important advancement in the modernization of railway services in Sri Lanka.
+
+...
+
+[Data](articles/b87fd3a6.json)
+
+---
+
+### Canada and JICA join UNDP to open mobile interactive space on women’s empowerment in Jaffna
+
+*2024-03-18 04:12:24* · [`dailyftlk`](https://www.ft.lk/news/Canada-and-JICA-join-UNDP-to-open-mobile-interactive-space-on-women-s-empowerment-in-Jaffna/56-759622) · `en`
+
+From left: UNDP Resident Representative in Sri Lanka Azusa Kubota,  High Commission of Canada Head of Development Cooperation Linda Ehrich, and the Japan International Cooperation Agency in Sri Lanka Chief Representative Tetsuya Yamada
+
+Japan International Cooperation Agency (JICA) Chief Representative in Sri Lanka Tetsuya Yamada, and United Nations Development Program (UNDP) Resident Representative in Sri Lanka Azusa Kubota along with High Commission of Canada Head of Development Cooperation Linda Ehrich recently visited the Jaffna leg of UNDPs mobile interactive exhibition space, ‘A Journey of Transformation and Women’s Empowerment’.
+
+Northern Province Chief Secretary S.M. Saman Bandulasena along with other Government representatives were also present at the inauguration of the exhibition held from 13 to 15 March at the Jaffna Cultural Centre.
+
+...
+
+[Data](articles/c83d8939.json)
+
+---
+
+### Ambassador Sumith Dassanayake presents credentials in Suriname
+
+*2024-03-18 04:08:43* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-Sumith-Dassanayake-presents-credentials-in-Suriname/56-759621) · `en`
+
+Joint Commission on Political and Economic Cooperation between the two countries in the offing
+
+The Ambassador of Sri Lanka to the Federative Republic of Brazil, Sumith Dassanayake who  is concurrently accredited as the Ambassador of Sri Lanka to the Republic of Suriname, presented his Letters of Credence as non- resident Ambassador, to the President of the  Republic of Suriname, Chandrikapersad Santokhi at the Presidential Palace in Paramaribo recently.
+
+The presentation of Credentials ceremony in Suriname included a guard of honour,  presentation of Credential papers to the President followed by a bilateral discussion with the  President accompanied by the Minister of Foreign Affairs of Suriname, signing the golden  book and interaction with the media.
+
+During his meeting with the President of Suriname, Ambassador Sumith Dassanayake  conveyed greetings of President Ranil Wickremesinghe and the Government of Sri Lanka,
+
+...
+
+[Data](articles/15bcb56f.json)
+
+---
 
 ### Sleep hanging in hospital
 
@@ -68,6 +116,8 @@ In understanding the macroeconomy, carefully hashing out details within the Bala
 
 [Data](articles/d2926fd4.json)
 
+[Extended Data](ext_articles/d2926fd4.ext.json)
+
 ---
 
 ### Innovating for better health, saving lives: Sri Lanka’s ambulance story
@@ -79,6 +129,8 @@ In the rural town of Morawaka located in southern Sri Lanka, home to lush tea es
 ...
 
 [Data](articles/c057bbc0.json)
+
+[Extended Data](ext_articles/c057bbc0.ext.json)
 
 ---
 
@@ -2245,85 +2297,5 @@ The Foreign Minister met his life partner in 2007. They have two girls.
 [Data](articles/8b03b33a.json)
 
 [Extended Data](ext_articles/8b03b33a.ext.json)
-
----
-
-### Several plantation companies' provision of Rs. 500 million poles
-
-*2024-03-17 12:56:27* · [`adalk`](https://www.ada.lk/breaking_news/වැවිලි-සමාගම්-කිහිපයක්-සේවකයන්ගේ-අර්ථසාධකයට-රු--කෝටි-500ක්-පොලු-තියලා/11-408647) · `si`
-
-State Minister Ranjith Siyambalapitiya reported on the provision of Rs. 500 million poles by plantation companies, with 2122 cases filed against them. The Minister of Plantation Corporation filed a case against Janatha Estate Development Board. Siyambalapitiya defended the Kurunegala Plantation Company, stating it had shown how to be a state agency. He mentioned action to provide allowances to employees and the need to improve efficiency.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya stated that 2122 cases have been filed against those institutions regarding the payment of nearly Rs.
-
-The Minister of Plantation Corporation has filed a case against the firms of Janatha Estate Development Board.
-
-However, the Minister said that the Minister said that the minister said that the Minister said that the minister had no charges to the Kurunegala Plantation Company has shown how to be a state agency as a state institution.
-
-The Minister said that action has been taken to provide the Treasury by the instructions of the President to provide the allowances lost to employees.Gem
-
-Ranjith Siyambalapitiya addressing the media after participating in the inspection tour of the Kurunegala Plantation Company.
-
-...
-
-[Data](articles/b7196497.json)
-
-[Extended Data](ext_articles/b7196497.ext.json)
-
----
-
-### Disk. Youth kidnapped murder: Investigation into Navy's action
-
-*2024-03-17 12:50:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வட்டு-இளைஞன்-கடத்தி-கொலை-கடற்படையின்-செயற்பாடு-குறித்து-விசாரணை/71-334793) · `ta`
-
-A youth from Vaddukoddai was kidnapped and murdered by a gang near a naval camp, leading to an investigation by the Jaffna Regional Coordinator of the Human Rights Commission. The incident was captured on CCTV, sparking media attention.
-
-🟩
-
-During the incident of the kidnapping and murder of a youth, the Human Rights Commission, Jaffna Regional Coordinator. Kanakaraj has carried out investigations.
-
-A young man from Vaddukoddai was abducted and murdered by a violent gang in front of a naval camp near the Ponnalai Bridge while returning home on a motorbike with his wife.
-
-When the couple tried to kidnap the couple, they fled into the naval camp, and the Marines attacked them and chased them back.. The violent gang abducted the couple in a vehicle near the naval camp.
-
-The incident was reported in the CCTV camera, which was mounted near the naval camp, and the videos on it were released in the media.
-
-According to the news published in the media, the Human Rights Commission of Jaffna. The regional affiliate has taken his own proposal and has begun investigations.
-
-◼️
-
-[Data](articles/403cd1ad.json)
-
-[Extended Data](ext_articles/403cd1ad.ext.json)
-
----
-
-### We have attacked Israeli American ships traveling through the Indian Ocean
-
-*2024-03-17 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178932) · `ta`
-
-Haithi insurgents reportedly attacked Israeli US ships in the Indian Ocean, targeting three ships with missiles and drone strikes. This follows attacks in the Red Sea, leading to increased shipping concerns and potential impacts on international trade.
-
-🟩
-
-Haithi insurgents have said they targeted Israeli US ships traveling through the Indian Ocean.
-
-Haithi insurgents have reported that Israeli US ships that are traveling through the Indian Ocean have launched missile attacks.
-
-In a video news report, its spokesman, which has revealed that the Hindu insurgents have intensified their offensive in the Indian Ocean beyond the attack on the Red Sea, have targeted three Israeli US ships and have launched missiles and drone strikes.
-
-US officials have not yet released any information on the Indian Ocean attack, and if this information is real, international trade may face serious impacts.
-
-Shippieces have increased following the attacks of Health insurgents in the Red Sea, and some shipping companies have changed their paths.
-
-There have been concerns that the world's most trumpet seas can be affected by the attacks of the Haithi.
-
-...
-
-[Data](articles/3b2be9f1.json)
-
-[Extended Data](ext_articles/3b2be9f1.ext.json)
 
 ---

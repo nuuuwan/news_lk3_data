@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 15:33:23**
+As of **2024-03-17 15:50:52**
 
 ## Newspaper Stats
 
-*Scraped **13,398** Articles*
+*Scraped **13,402** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 699
 economynextcom | 712
 islandlk | 735
 adalk | 1,147
-adaderanalk | 1,617
-tamilmirrorlk | 1,638
+adaderanalk | 1,618
+tamilmirrorlk | 1,641
 virakesarilk | 1,859
 dailymirrorlk | 2,048
 adaderanasinhalalk | 2,120
@@ -26,11 +26,87 @@ adaderanasinhalalk | 2,120
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,396 (100.0%) of 13,398 articles have been extended.
+13,398 (100.0%) of 13,402 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### ”அந்தக் குழு இலங்கையை எளிதில் விட்டு விடாது”
+
+*2024-03-17 15:33:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்தக்-குழு-இலங்கையை-எளிதில்-விட்டு-விடாது/175-334802) · `ta`
+
+அதிகார மாற்றம் இலகுவானதாக இருக்கப்போவதில்லை என்று கூறிய NPP பாராளுமன்ற உறுப்பினர் ஹரினி அமரசூரிய, மாற்றம் நிகழாமல் தடுக்க ஒரு சிறிய உயரடுக்கு குழு தங்களால் இயன்ற அனைத்தையும் செய்து வருவதாக தெரிவித்தார்.
+
+லண்டன் பெண்கள் மாநாட்டில் உரையாற்றிய அவர், கடந்த 76 ஆண்டுகளாக இலங்கையில் நடந்தவற்றை சிறிய உயரடுக்கு குழு கட்டுப்பாட்டில் வைத்துள்ளது என்றார்.
+
+இந்த சிறிய குழு எளிதில் இலங்கையைக் கைவிடாது என்று கூறிய அவர், இலங்கை மக்கள் அனைவரையும் விட தாங்கள் பலம் வாய்ந்தவர்கள் என்பதை இப்போது உணர்ந்து கொண்டுள்ளனர் என்றும் கூறினார்.
+
+“மாற்றம் எளிதாக இருக்காது. இந்த மாற்றம் நிகழாமல் தடுக்க தங்களால் முடிந்த அனைத்தையும் செய்யும் ஒரு சிறிய உயரடுக்கு குழு உள்ளது. இவ்வளவு காலமும் இலங்கையில் நடந்தவற்றை அவர்கள் கட்டுப்பாட்டில் வைத்திருந்தனர்.
+
+அவர்கள் எளிதில் விட்டுக்கொடுக்கப் போவதில்லை. ஆனால், இந்த நாட்டு மக்கள் அனைவரையும் விட வலிமையானவர்கள். நமது பலத்தை நாம் இதற்கு முன் உணரவில்லை. ஒரு ஒழுங்கமைக்கப்பட்ட குழுவாக ஒன்றிணைவதன் மூலம், அவர்கள் அனைவரையும் விட நாங்கள் மிகவும் பலமாக இருக்கிறோம்.
+
+...
+
+[Data](articles/bed47da1.json)
+
+---
+
+### Two boys drown in Polwatta River
+
+*2024-03-17 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98011/two-boys-drown-in-polwatta-river) · `en`
+
+Two boys have reportedly drowned while bathing in the Polwatta River at Yakkalamulla, Galle.
+
+The deceased boys are aged 11 and 14 years while they are said to be related.
+
+Police said that they had drowned while bathing in the river along with their parents and other family members.
+
+The boys were rushed to the Imaduwa Hospital following the incident, however they were pronounced dead on admission to the hospital.
+
+◼️
+
+[Data](articles/9727fbd8.json)
+
+---
+
+### ”பிரசாரங்களுக்காக தனியார் பேருந்துகள் ”
+
+*2024-03-17 15:27:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரசாரங்களுக்காக-தனியார்-பேருந்துகள்/175-334801) · `ta`
+
+எந்தவொரு அரசியல் கட்சிக்கும் தேர்தல் பிரச்சாரங்களுக்காக தனியார் பேருந்துகள் வழங்கப்படும், ஆனால் பஸ்ஸில் ஸ்டிக்கர்கள் அல்லது சுவரொட்டிகள் ஒட்ட அனுமதிக்கப்படாது என்று இலங்கை தனியார் பேருந்து உரிமையாளர்கள் சங்கத்தின் (LPBOA) தலைவர் கெமுனு விஜேரத்ன தெரிவித்துள்ளார்.
+
+பேருந்துகள் வாடகைக்கு வழங்கப்படும் என்றும், தேர்தல் பிரச்சாரத்திற்காக பேருந்துகளை வாடகைக்கு எடுக்கும் வேட்பாளர் அல்லது அரசியல் கட்சிகள் பேருந்து அல்லது பேருந்துகளின் பொறுப்பை ஏற்க வேண்டும் என்றும் அவர் ஊடகங்களுக்குத் தெரிவித்தார்.
+
+பஸ்ஸில் ஸ்டிக்கர்கள் மற்றும் போஸ்டர்கள் ஒட்டுவதால் அதன் பெயிண்ட் மற்றும் உலோகம் சேதமடையும், என்றார்.
+
+"முந்தைய தேர்தல்களின் போது கூட, எங்கள் பேருந்துகள் தேர்தல் பிரச்சாரங்களுக்கு வாடகைக்கு வழங்கப்பட்டன.
+
+“எவ்வாறாயினும், அரகலய காலத்தில் தனியார் பேருந்துகளுக்கு ஏற்படுத்தப்பட்ட சேதங்கள் இன்னும் சரி செய்யப்படவில்லை.
+
+"சில பேருந்துகள் அவற்றின் உரிமையாளர்களால் பழுதுபார்க்கப்பட்டன, ஆனால் இன்னும் பல பேருந்துகள் பழுதுபார்க்கும் இடங்களில் உள்ளன," என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/c08f7803.json)
+
+---
+
+### ”SJB அரசாங்கம் ஆங்கில மொழிக் கல்வியை கட்டாயமாக்கும்”
+
+*2024-03-17 15:21:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SJB-அரசாங்கம்-ஆங்கில-மொழிக்-கல்வியை-கட்டாயமாக்கும்/175-334800) · `ta`
+
+எதிர்கால SJB அரசாங்கம் ஆங்கில மொழிக் கல்வியை கட்டாயமாக்கும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+தரம் ஒன்று முதல் பதின்மூன்று வரையிலான மாணவர்களுக்கு ஆங்கில வழிக் கல்வியை கட்டாயமாக்குவோம் என குருநாகலில் நடைபெற்ற இளைஞர் பேரணியில் கலந்து கொண்டு உரையாற்றும் போதே அவர் தெரிவித்தார்.
+
+மேலும், "இளைஞர்களுக்கு சீனம், இந்தி, ஜப்பானியம், தகவல் தொழில்நுட்பம் மற்றும் கணினி அறிவியல் ஆகியவற்றை இலவசமாகக் கற்பிப்போம்" என்றும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/618521bd.json)
+
+---
 
 ### Police arrest main suspect in Modara shooting
 
@@ -53,6 +129,8 @@ The manager of a restaurant in the Modara Street area in Colombo 15 of the Modar
 ◼️
 
 [Data](articles/1363b9cc.json)
+
+[Extended Data](ext_articles/1363b9cc.ext.json)
 
 ---
 
@@ -118,19 +196,31 @@ Four-residents of the Venunuvilluwa, Puttalam, six-residents, and the Eluwankula
 
 ---
 
-### කාගේ කාගේත් පැටිකිරිය ගැන හොයා ඡන්දය දෙන්න
+### Vote for whose dealings
 
 *2024-03-17 14:46:00* · [`adalk`](https://www.ada.lk/breaking_news/කාගේ-කාගේත්-පැටිකිරිය-ගැන-හොයා-ඡන්දය-දෙන්න/11-408652) · `si`
 
-ඉදිරි මැතිවරණයකදී බුද්ධිමත්ව තම ඡන්දය භාවිතා කරන ලෙසත් මේ රට විනාශ කළ දැක්මක් නැති දේශපාලකයන්ට නොරැවටී දේශපාලකයන්ගේ අතීත පැටිකිරිය පිළිබඳව සොයා බලා මනාකල්පනාවකින් යුතුව තම ඡන්දය භාවිතා කරන ලෙස හිටපු යුද හමුදාපති පාර්ලිමේන්තු මන්ත්‍රී ෆිල්ඩ් මාෂල් සරත් ෆොන්සේකා පවසයි .
+Fild Marshal Sarath Fonseka, a former Army Commander, plans to run for office in the next election, promising to use his intelligence to win votes and outsmart politicians. He emphasizes the importance of representing the people and educating the public about the country's political culture. Fonseka argues for a parliament and democracy, criticizing politicians for focusing on personal gain rather than the country's future. He also warns against recruiting anyone solely for the sake of increasing party membership, stating that no one can win an election alone in the current political climate.
 
-හිටපු යුද හමුදාපතිවරයා ඒ බව අවධාරණය කර සිටියේ නිරායුධ නිර්පාක්ෂික අරගලයෙන් ජනතා විප්ලවයක් කරා යන තේමාව නිර්පාක්ෂික සංවිධානය විසින් මහනුවර ජෝර්ජ් ඊ ද සිල්වා උද්‍යානය ඉදිරිපිටදී සංවිධානය කොට තිබූ උද්ඝෝෂණ ව්‍යාපාරයකට සහභාගි වීමෙන් අනතුරුව මාධ්‍ය හමුවේ අදහස් දක්වමිනි .
+🟩
 
-මේ රටේ ඇති දූෂිත දේශපාලන සංස්කෘතිය සහ කිසිදු දැක්මක් නොමැති දේශපාලන ක්‍රියා පිළිවෙත පිළිබඳව ජනතාව දැනුවත් කිරීමට කටයුතු කරන බවත් අනාගතයේදී බුද්ධිමත්ව දේශපාලකයන්ට නොරැවටී රටේ අනාගතය බාර දිය හැකි ඉදිරි දැක්මක් ඇති පුද්ගලයන්ට තම ඡන්දය භාවිතා කරන ලෙසද ෆොන්සේකා මහතා එහිදී ජනතාවගෙන් ඉල්ලීමක් කළේය .
+Former Army Commander Fild Marshal Sarath Fonseka says that he will seek himself intelligently to seek his votes and deceive politicians in the next election.
+
+The former Army Commander emphasized the theme of the representation of the George E de Silva Park in front of the George E de Silva Park in Kandy after attending the mass revolution in the unarmed struggle.
+
+Fonseka also requested the public to educate people on the polluted political culture of this country and the vision of the country who would be deceived in the future.
+
+To build a country to the future generation, it has to be appointed to understand the heartbeal rulers who feel the way to understand the future of politicians.
+
+Fonseka emphasized that the country should have a parliament and democracy, but politicians should work from a policy and to collect the garbage that they want to be politics and the country will fall into a hard drive.
+
+Mr. Fonseka said that the people of the country had asked a struggle and so far.
 
 ...
 
 [Data](articles/8c7e6a2b.json)
+
+[Extended Data](ext_articles/8c7e6a2b.ext.json)
 
 ---
 
@@ -2255,91 +2345,5 @@ High Commissioner Aziz said there is potential for increasing Buddhist pilgrims 
 [Data](articles/421fa1f6.json)
 
 [Extended Data](ext_articles/421fa1f6.ext.json)
-
----
-
-### U.N. agency in Gaza says one in three children under 2 is acutely malnourished
-
-*2024-03-16 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/97997/un-agency-in-gaza-says-one-in-three-children-under-2-is-acutely-malnourished) · `en`
-
-One in three children under age 2 in northern Gaza is now acutely malnourished and famine is looming, the main U.N. agency operating in the Palestinian enclave said on Saturday.
-
-“Children’s malnutrition is spreading fast and reaching unprecedented levels in Gaza,” the U.N. Relief and Works Agency for Palestine Refugees (UNRWA) said in a social media post.
-
-More than five months into Israel’s air and ground campaign in Gaza, triggered by Hamas’ attack on Oct. 7, much of the enclave is in ruins with most of its 2.3 million population displaced and facing a major humanitarian crisis.
-
-Hospitals in Gaza have reported some children dying of malnutrition and dehydration.
-
-The international food insecurity watchdog, the IPC, is expected to report soon on the extent of the hunger crisis in Gaza after saying in December there was a risk of famine in the projection period through May.
-
-...
-
-[Data](articles/83cc6637.json)
-
-[Extended Data](ext_articles/83cc6637.ext.json)
-
----
-
-### How and Why Eastern Tiger Commander “Col” Karuna Revolted Against the LTTE Leaders Prabhakaran  20 Years ago.
-
-*2024-03-16 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83778) · `en`
-
-The Liberation  Tigers of Tamil Eelam(LTTE) organization fought the armed forces of Sri Lanka for 33 Years in pursuance of its political goal of establishing a separate state  called Tamil Eelam in the Northern and Eastern provinces of the Island. The LTTE known generally as the tigers  had the reputation of monolithic unity. This image was seriously dented in 1993 when the LTTE’s former deputy leader Gopaalswamy Mahendrarajah alias “Mahathaya” was arrested and executed  on the orders of tiger supremo Veluppillai Prabhakaran for alleged treason . There was also a related purge of cadres suspected of being Mahathaya loyalists.
-
-...
-
-[Data](articles/d25ded62.json)
-
-[Extended Data](ext_articles/d25ded62.ext.json)
-
----
-
-### The 2018 situation has to be replaced in 2027 - President
-
-*2024-03-16 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194578) · `si`
-
-President Ranil Wickremesinghe aims to overcome Sri Lanka's 2018 economic situation by 2027, targeting 2% economic growth annually. Discussions in Colombo focused on development programs and future challenges, aiming for 2% growth by 2024, with a goal to achieve this before 2019.
-
-🟩
-
-President Ranil Wickremesinghe says that in 2027, the year 2018 will be aiming to have to overcome the economic situation in Sri Lanka.
-
-The President added that this year also expects a 2% economic growth this year.
-
-President Ranil Wickremesinghe held a discussion in Colombo yesterday with the progress of the development programs implemented by the government.
-
-The meeting was organized under the theme of "the strongest future - 2024" The meeting was organized by the government, the development programs implemented by the government and the problems of the government were discussed at length.
-
-"We are looking to achieve 2% economic growth in this 2024. Although we have achieved 2% economic growth this year, it will take about two to three years to come to the year 2019. However, it is my goal to reach that goal of 2027 before. "
-
-◼️
-
-[Data](articles/17942c89.json)
-
-[Extended Data](ext_articles/17942c89.ext.json)
-
----
-
-### 250 million rupees of the Government of India
-
-*2024-03-16 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178875) · `ta`
-
-The Government of India will pay 250 million rupees to complete the Kadaruvalai National School in Sri Lanka, following a request from Indian Prime Minister Narendra Modi and a visit by officials to assess the project's status.
-
-🟩
-
-During the first official visit to India after the former President Maithripala Sirisena was sworn in as president, the construction of the Kadaruvalai National School, which began in 2017, was suspended for some factors.
-
-In particular, the existing government has repeatedly asked the existing government to allocate funds to complete the work of the school.Accordingly, former President Maithripala Sirisena expressed his desire to allocate funds for the completion of the trilingual national school in accordance with a special request made by Indian Prime Minister Narendra Modi.
-
-Subsequently, Eldos Mathew Bunnuz and State Officers made a surveillance visit to the Indian High Commission's programs in Sri Lanka to learn about the current status of the school.
-
-Accordingly, it has been announced that the Government of India will be paid 250 million rupees to complete the work of the school within the next six months.
-
-◼️
-
-[Data](articles/293f7788.json)
-
-[Extended Data](ext_articles/293f7788.ext.json)
 
 ---

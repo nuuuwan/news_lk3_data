@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 12:02:54**
+As of **2024-03-17 12:17:47**
 
 ## Newspaper Stats
 
-*Scraped **13,368** Articles*
+*Scraped **13,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 699
 economynextcom | 712
 islandlk | 735
 adalk | 1,140
-adaderanalk | 1,614
-tamilmirrorlk | 1,632
+adaderanalk | 1,615
+tamilmirrorlk | 1,633
 virakesarilk | 1,856
 dailymirrorlk | 2,043
 adaderanasinhalalk | 2,114
@@ -26,15 +26,33 @@ adaderanasinhalalk | 2,114
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,365 (100.0%) of 13,368 articles have been extended.
+13,368 (100.0%) of 13,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### தலதாவை  தரிசனம்  செய்த யுவராஜ் சிங்
+### Sri Lanka records 2.3% negative GDP growth in 2023
 
-*2024-03-17 11:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதாவை-தரிசனம்-செய்த-யுவராஜ்-சிங்/175-334788) · `ta`
+*2024-03-17 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98008/sri-lanka-records-23-negative-gdp-growth-in-2023) · `en`
+
+The GDP growth rate of Sri Lanka for the year 2023 was estimated as a 2.3 percent negative growth rate, the Department of Census and Statistics (DCS) said in a statement.
+
+Overall, agricultural activities expanded by 2.6 percent, while industrial and service activities contracted by 9.2 percent and 0.2 percent, respectively, in the year 2023, the DCS said.
+
+The three major economic activities of the economy agriculture, industry, and services, contributed their shares to the GDP, at current prices, by 8.3 percent, 25.6 percent and 59.9 percent respectively.
+
+The “taxes less subsidies on products” component accounted for a 6.2 percent share of the GDP in 2023.
+
+◼️
+
+[Data](articles/220308f5.json)
+
+---
+
+### தலதாவை  தரிசனம்  செய்தார் ,  யுவராஜ் சிங்
+
+*2024-03-17 11:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதாவை-தரிசனம்-செய்தார்-யுவராஜ்-சிங்/175-334788) · `ta`
 
 இந்திய கிரிக்கெட் அணியின் முன்னாள் கிரிக்கெட் வீரர்  யுவராஜ் சிங், கண்டியில் உள்ள வரலாற்று சிறப்புமிக்க ஸ்ரீ தலதா மாளிகைக்கு சென்று தரிசனம் செய்துள்ளார் .
 
@@ -42,29 +60,55 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/7b4233ae.json)
+[Data](articles/20b224ef.json)
 
 ---
 
-### පාසල් සිසුවෙකුට පහරදුන් පොහොට්ටු ප්‍රා.ස මන්ත්‍රී පළායයි
+### Yuvraj Singh, who visited Talata
+
+*2024-03-17 11:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதாவை-தரிசனம்-செய்த-யுவராஜ்-சிங்/175-334788) · `ta`
+
+Yuvraj Singh, a former Indian cricketer, visited Sri Dalada House in Kandy and participated in the World Legend Cricket Tournament at Pallekela International Cricket Ground.
+
+🟩
+
+Former Indian cricketer Yuvraj Singh has visited the historic Sri Dalada House in Kandy.
+
+Yuvraj Singh and many former cricketers have been staying in Kandy for almost a week and they have been in Kandy to participate in the World Legend Cricket Tournament at the Pallekela International Cricket Ground.
+
+◼️
+
+[Data](articles/7b4233ae.json)
+
+[Extended Data](ext_articles/7b4233ae.ext.json)
+
+---
+
+### School girl assaulted by MP
 
 *2024-03-17 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194594) · `si`
 
-පාසල් සිසුවෙකුට පහරදුන් දිවුලපිටිය ප්‍රාදේශීය සභාවේ පොහොට්ටුවේ හිටපු මන්ත්‍රීවරයෙකු අත්අඩංගුවට ගැනීම සඳහා පොලීසිය විමර්ශනයක් ආරම්භ කර තිබේ.
+A former MP is under investigation for assaulting a 16-year-old schoolgirl in Barandhuragoda, while also accused of assaulting a development officer at a fuel station. The victim was hospitalized for five days.
 
-අදාළ පාසල් සිසුවාගේ මව චෝදනා කරන්නේ පහරකෑමට ලක්වු තම පුත්‍රයා දින පහක් තිස්සේ රෝහල්ගතකර සිටිමුත් සැකකාර මන්ත්‍රීවරයා මෙතෙක් අත්අඩංගුවට ගෙන නොමැති බවටය.
+🟩
 
-පසුගිය 11 වනදා පාසල නිමවී සිය නිවස වෙත යමින් සිටියදී සැකකාර හිටපු මන්ත්‍රීවරයා බාඳුරාගොඩ නගරයේදී සිසුවාට පහරදී ඇත.
+Police have launched an investigation to arrest a former MP in the Pohot of the Divulapitiya Pradeshiya Sabha.
 
-මෙලෙස පහරකෑමට ලක්ව ඇත්තේ බාඳුරාගොඩ ප්‍රදේශයේ පදිංචි 16 හැවිරිදි වියේ පසුවන පාසල් සිසුවෙකි.
+The mother of the student student accused his son had been assaulted and had been hospitalized for five days.
 
-පොලීසිය පවසන්නේ පහරදීමෙන් අනතුරුව සැකකාර මන්ත්‍රීවරයා ප්‍රදේශයෙන් පළාගොස් ඇති බවය.
+The suspect was assaulted by the student in Barandhuragoda, while returning to his home on the 11th.
 
-මේ අතර මීට පෙර අවස්ථාවකදී සංවර්ධන නිලධාරිනියකට ඉන්ධන පිරවුම්හලක් තුළදී පහරදීම සම්බන්ධයෙන් ද අදාළ සැකකාර මන්ත්‍රීවරයාට චෝදනා එල්ලවී තිබුණි.
+The victim is a 16 year old schoolgirl, a resident of Barandururagoda, area.
+
+The suspect had fled the area after the attack.
+
+Meanwhile, the suspect was accused of assaulting a development officer in a fuel station at the same time.
 
 ◼️
 
 [Data](articles/80013a0b.json)
+
+[Extended Data](ext_articles/80013a0b.ext.json)
 
 ---
 
@@ -118,19 +162,25 @@ He also told the media that Cardinal had issued a full report after the governme
 
 ---
 
-### இலங்கை ரயிலில்  ’திறந்த மொட்டைமாடி’
+### Open terrace on Sri Lankan train
 
 *2024-03-17 11:23:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-ரயிலில்-திறந்த-மொட்டைமாடி/175-334787) · `ta`
 
-இலங்கை ரயில்வேயின் பிரதான இயந்திர பொறியியல் திணைக்களம் திறந்த பார்வைத் தளத்தை உள்ளடக்கிய ரயில் பெட்டியை உருவாக்கியுள்ளது.
+The Sri Lankan Railway has developed a train compartment with an open terrace, aiming to attract both local and foreign tourists. This innovation is part of a plan to enhance the upcountry train service, showcasing the beauty of the hill country. The transformation of an old Roman railway box into a new viewing site is highlighted.
 
-உள்ளூர் மற்றும் வெளிநாட்டு சுற்றுலாப் பயணிகள் மலையகத்தின் இயற்கைக்காட்சிகளை ரசிக்க ஏதுவாக, முற்றிலும் உள்நாட்டில் கட்டப்பட்ட குறித்த  ஏற்பாடு, மலையக ரயில் சேவையில் எதிர்காலத்தில் சேர்க்கப்படும்.
+🟩
 
-பாவனையில் இல்லாத பழைய ரோமானிய புகையிரத பெட்டியே இவ்வாறு புதிய பார்வைத் தளமாக மாற்றப்பட்டுள்ளது.
+The Sri Lankan Railway's main mechanical engineering department has created a train compartment covering an open vision.
+
+Local and foreign tourists will be added to the upcountry train service in the future, so that the domestic built -in arrangement will be entertained by the hill country.
+
+The old Roman railway box that is not in use has been transformed into a new vision site.
 
 ◼️
 
 [Data](articles/dcbb19fe.json)
+
+[Extended Data](ext_articles/dcbb19fe.ext.json)
 
 ---
 
@@ -2293,51 +2343,5 @@ Ven. Ananda Thera further said that the Maha Sangha, including him, worked hard 
 [Data](articles/2ad35918.json)
 
 [Extended Data](ext_articles/2ad35918.ext.json)
-
----
-
-### Sri Lanka’s economy expands for a second straight quarter
-
-*2024-03-16 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/97994/sri-lankas-economy-expands-for-a-second-straight-quarter) · `en`
-
-Sri Lanka’s economy expanded for a second straight quarter as industrial activity picked up pace, buoyed by an International Monetary Fund bailout and lower interest rates.
-
-Gross domestic product rose 4.5% in the three months to December from a year ago, the Statistics Department said Friday. That’s higher than the median forecast of 3.7% growth in a Bloomberg survey of economists, and compares with a print of 1.6% in the July-September period. For the year, the economy clocked a contraction of 2.3%.
-
-The expansion comes as the South Asian nation seeks to win an initial approval for the next tranche of a $3 billion IMF loan program. Authorities are aiming to complete restructuring the nation’s debt by June, a key condition to keep funds from the bailout flowing. Negotiations with dollar bondholders over the terms of recast are underway.
-
-Industrial production expanded 7.9% from a year ago, while services sector rose 2.8%, the data showed.
-
-...
-
-[Data](articles/19472419.json)
-
-[Extended Data](ext_articles/19472419.ext.json)
-
----
-
-### A revelation of the Dhanushka saved from the ethnic incident
-
-*2024-03-16 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194570) · `si`
-
-Dhanushka Wickremasinghe, hospitalized after the incident, is in serious condition. The funeral is tomorrow at OTZHA. Condolences to those affected. Dhanushka thanks Ottawa residents, Canadians, and Sri Lankans for their support.
-
-🟩
-
-Dhanushka Wickremasinghe, who was hospitalized after the six Sri Lankans killed in Canada, has been taken seriously injured in the incident.
-
-"I think he'll take more years to get rid of the shock he will suffer. I can say that it is not a mentally good condition. "
-
-The funeral will be held tomorrow (17) at the OTZHA.
-
-The condolences have been given to the people who join the funerals and the people who lived in the park near the garden near the recent past.
-
-"The support of the people of the Ottawa gave him the strength. He also thanked the support of Dhanush and support the support of Canadians and support Sri Lankans. "
-
-◼️
-
-[Data](articles/a16dd342.json)
-
-[Extended Data](ext_articles/a16dd342.ext.json)
 
 ---

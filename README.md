@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 21:52:05**
+As of **2024-03-17 22:03:18**
 
 ## Newspaper Stats
 
-*Scraped **13,444** Articles*
+*Scraped **13,447** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,52 +15,80 @@ newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 712
 islandlk | 735
-adalk | 1,156
+adalk | 1,157
 adaderanalk | 1,623
-tamilmirrorlk | 1,647
+tamilmirrorlk | 1,648
 virakesarilk | 1,862
-dailymirrorlk | 2,052
+dailymirrorlk | 2,053
 adaderanasinhalalk | 2,133
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,441 (100.0%) of 13,444 articles have been extended.
+13,444 (100.0%) of 13,447 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### සෝමාලියානු මුහුදු කොල්ලකරුවන්ගෙන් මුදාගත් නෞකාව
+### Sri Lanka and Bangladesh face off in crucial ODI decider
+
+*2024-03-17 21:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-and-Bangladesh-face-off-in-crucial-ODI-decider/108-279013) · `en`
+
+With both teams facing significant setbacks, Sri Lanka and Bangladesh are eagerly eyeing an ODI series win as they prepare to clash in the decider tomorrow (18) at the Zahur Ahmed Chowdhury Stadium in Chattogram.
+
+After Bangladesh secured a convincing victory in the first match, Sri Lanka bounced back strongly in the second ODI, levelling the series at 1-1. However, Sri Lanka's hopes were dealt a blow in the final ODI with Dilshan Madushanka's injury.
+
+The talented fast bowler, who showcased impressive pace and wicket-taking ability in the first two ODI games, will miss the series decider due to a hamstring injury. Madushanka is set to begin rehabilitation work to recover from the injury, with an expected sidelining of several weeks.
+
+...
+
+[Data](articles/32e5acc5.json)
+
+---
+
+### Suspended by Somali pirates
 
 *2024-03-17 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194613) · `si`
 
-සෝමාලියානු මුහුදු කොල්ලකරුවන් පැහැරගත් නෞකාවක් සහ එහි කාර්ය මණ්ඩල සාමාජිකයින් 17 දෙනාද සමඟ මුදාගැනීමට ඉන්දීය නාවික හමුදාව සමත්ව තිබේ.
+The Indian Navy rescued a ship and its 17 crew members from Somali pirates, arresting 35 pirates. This incident occurred after the ship was seized by Somali rebels in 2017 and raised by an international navy.
 
-මෙහිදී නෞකාවේ සිටි සෝමාලියානු කොල්ලකරුවන් 35 දෙනෙකු ද අත්අඩංගුවට ගෙන තිබේ.
+🟩
 
-ඒඩ්න් බොක්කේ යාත්‍රාකරමින් පැවතියදී සෝමාලියානු කැරලිකරුවන්ගේ අත්අඩංගුවට පත් වෙළෙඳ නෞකාවක් ජාත්‍යන්තර නාවුක හමුදාවක් මගින් මෙලෙස මුදාගෙන ඇත්තේ 2017 වසරෙන් පසු පළමුවරට වීමද විශේෂත්වයකි.
+The Indian Navy has passed the abducted ship and the 17 staff members with 17 staff members.
+
+35 Somali pirates in the ship were also arrested.
+
+The Somali rebels were sailed by the Somali rebels of the Somali rebels, was raised by an international navy after 2017.
 
 ◼️
 
 [Data](articles/57ae66d9.json)
 
+[Extended Data](ext_articles/57ae66d9.ext.json)
+
 ---
 
-### நாளை மேலும் அதிகரிக்கும் வெப்பநிலை!
+### Temperature will increase tomorrow!
 
 *2024-03-17 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/178961) · `ta`
 
-நாட்டின் பல பகுதிகளில் வெப்பநிலை திங்கட்கிழமை (18) கவனத்துக்குரிய மட்டத்துக்கு மேலும் அதிகரிக்கும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Temperature increases tomorrow, affecting parts of the country, especially in the Northwest, North Central, Eastern, and Western Provinces. Health advice includes adequate watering, relaxing in shade, and limiting outdoor activities.
 
-இதன்படி, வடமேற்கு, வடமத்திய, கிழக்கு, மேல் மாகாணங்களிலும் மொனராகலை, மன்னார், இரத்தினபுரி மற்றும் வவுனியா மாவட்டங்களின் சில இடங்களில் மனித உடலால் உணரப்படும் வெப்பம் கவனத்துக்குரிய அளவில் இருக்கும் என திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-இதன்படி, போதியளவு தண்ணீர் அருந்துதல், நிழலான பகுதிகளில் இயன்றவரை ஓய்வெடுத்தல், கடுமையான வெளிச் செயற்பாடுகளை கட்டுப்படுத்துதல் போன்ற சுகாதார ஆலோசனைகளை மக்கள் பின்பற்ற வேண்டும் என திணைக்களம் தெரிவித்துள்ளது.
+Temperature in many parts of the country will increase further to the attention of Monday (18), the Department of Meteorology said.
+
+According to the department, the heat of the human body will be noticeable in some parts of Moneragala, Mannar, Mannar, Ratnapura and Vavuniya districts in the Northwest, North Central, Eastern and Western Provinces.
+
+Accordingly, people should follow health advice such as inadequate watering, relaxing as much as possible in shadowy areas and controlling strict external activities.
 
 ◼️
 
 [Data](articles/18c121b1.json)
+
+[Extended Data](ext_articles/18c121b1.ext.json)
 
 ---
 
@@ -194,6 +222,22 @@ Further investigations are underway under the leadership of Deputy Inspector Gen
 
 ---
 
+### විදුලි බල මණ්ඩලයේ අය තවත් රුපියල් මිලියන 245ක් ප්‍රසාද මුදල් ගෙවා ගත් හැටි එළියට
+
+*2024-03-17 20:23:07* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බල-මණ්ඩලයේ-අය-තවත්-රුපියල්-මිලියන-245ක්-ප්‍රසාද-මුදල්-ගෙවා-ගත්-හැටි-එළියට/11-408661) · `si`
+
+විදුලි බල සැපයුමේ විශ්වාසනීයත්වය වැඩිදියුණු කිරීමේ සහායක ව්‍යාපෘතියේ අරමුදල් භාවිත කරමින් ව්‍යාපෘති කාර්යමණ්ඩලය සඳහා ප්‍රසාද දීමනා වශයෙන් රුපියල් මිලියන 245ක මුදලක් ගෙවා ඇති බව ජාතික විගණන කාර්යාලය මගින් 2024-03-16 දින නිකුත් කර ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+
+චක්‍ර ලේඛනවලට පටහැණිව 2022 ජූලි මස 01වනදා සිට 2023 දෙසැම්බර් 31 දක්වා මෙකී මුදල ගෙවා ඇති බවද විගණනය මගින් අනාවරණය කර ඇත. විදේශ අරමුදල් සහිත ව්‍යාපෘති සඳහා අදාළ චක්‍රලේඛ උපදෙස් දැඩි ලෙස පිළිපැදිය යුතු බවද විගණනය මගින්  අනාවරණය කර ඇත.
+
+විදේශ අරමුදල් සහිත ව්‍යාපෘති 48ක් සඳහා අදාළ චක්‍රලේඛ උපදෙස් දැඩි ලෙස පිළිපැදිය යුතු බවද අනාවරණය කර ඇත. මේ පිළිබඳව විදුලිබල සැපයුම් ව්‍යාපෘතියේ කළමනාකාරීත්වයේවිදුලිබල මණ්ඩලයේ ව්‍යාපෘති කළමනාකරුවිසින් විගණනයට සඳහන් කර ඇත්තේ, මෙය ලංකා විදුලිබල මණ්ඩලයේ ප්‍රතිපත්තියට සහ සියලුම ලංකා විදුලිබල මණ්ඩල සේවකයන්ට අදාළ වාර්තා මාර්ගෝපදේශකයන්ට අදාළව සිදු කොට ඇති බවයි.
+
+◼️
+
+[Data](articles/8ceec9fa.json)
+
+---
+
 ### Thunderna Vidyalaya wins one day struggle
 
 *2024-03-17 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194611) · `si`
@@ -213,6 +257,24 @@ In reply, Isipathana Vidyalara scored only 152 runs for the loss of all bowls.
 [Data](articles/8180e9d6.json)
 
 [Extended Data](ext_articles/8180e9d6.ext.json)
+
+---
+
+### வயதான எம்.பிக்களை நீக்கவும்
+
+*2024-03-17 20:09:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயதான-எம்-பிக்களை-நீக்கவும்/175-334816) · `ta`
+
+இவ்வாறே தொடர்ந்தால் இன்னும் சிறிது காலத்தில் முழு பாராளுமன்றமும் பழைய சேறும் சகதியுமாக மாறிவிடும் என்றும்  நாட்டை கட்டியெழுப்ப வேண்டுமானால் பாராளுமன்றத்தில் உள்ள முதியோர்களை வெளியேற்றி விட்டு, இளைஞர்களுக்கு வாய்ப்பு வழங்க வேண்டுமென கெட்டம்பே ஸ்ரீ ராஜோப வானராமாதிபதி ராமன்ய நிகாயா கப்பிட்டியாகொட சிறிவிமல தேரர் தெரிவித்துள்ளார்.
+
+முன்னாள் விளையாட்டுத்துறை அமைச்சரும், பாராளுமன்ற உறுப்பினருமான ரொஷான் ரன்சிங்க, அவரை சென்று வழிபட்டதன் பின்னர் கருத்துரைத்த போதே மேற்கண்டவாறு வலியுறுத்தியுள்ளனர்.
+
+அரசு ஊழியர்கள் 60 வயதை எட்டிய பின், கடினமாக உழைக்க முடியாது என்பதால் ஓய்வு பெறுகின்றனர். ஆனால் பாராளுமன்றத்தில் ஓய்வு பெறும் வயதை கடந்தவர்கள் ஏராளம். சிலர் அரசுப் பணியில் இருந்து ஓய்வு பெற்று பாராளுமன்றத்துக்கு வருகிறார்கள்.
+
+கொடுத்து விட்டு செல்வதில் அவர்களுக்கு விருப்பம் இல்லை. பாராளுமன்றத்திற்கு வர போராடுகின்றனர் என்றும் குறிப்பிட்டுள்ளார். அவர்களுக்கு நாட்டு மக்கள் மீது எந்த உணர்வும் இல்லை. அவர்கள் நாட்டின் வளங்களை விற்று தங்கள் தலைமுறையை மகிழ்ச்சியடையச்
+
+...
+
+[Data](articles/12f6b2a7.json)
 
 ---
 
@@ -1053,6 +1115,8 @@ The reason for this article is to correct a statement recently made by President
 ...
 
 [Data](articles/f48ea891.json)
+
+[Extended Data](ext_articles/f48ea891.ext.json)
 
 ---
 
@@ -2299,81 +2363,5 @@ One person was killed in a bus accident in Nellikala. 37 people were injured, po
 [Data](articles/c4c7cc70.json)
 
 [Extended Data](ext_articles/c4c7cc70.ext.json)
-
----
-
-### Two suspects arrested over Pitigala shooting that killed two
-
-*2024-03-17 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98005/two-suspects-arrested-over-pitigala-shooting-that-killed-two) · `en`
-
-Two suspects have been arrested in connection with the fatal shooting incident in front of a shop in Guruwala area in the Pitigala police division.
-
-The suspects were arrested yesterday (16) in the Talgaswala area.
-
-According to police, a suspect who had allegedly helped plan the crime and a suspect who aided and abetted it were arrested.
-
-Both suspects are 35-year-old individuals residing in the Talgaswala area.
-
-Three mobile phones and 02 motorcycles believed to have been used for the crime have been taken into police custody.
-
-On March 11, two unidentified persons on a motorcycle had opened fire with a T-56 firearm near a shop in the Guruwala Junction in Pitigala, killing two persons and critically injuring two others.
-
-◼️
-
-[Data](articles/f39cd021.json)
-
-[Extended Data](ext_articles/f39cd021.ext.json)
-
----
-
-### One dead, 37 injured in bus accident at Peradeniya
-
-*2024-03-17 08:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98004/one-dead-37-injured-in-bus-accident-at-peradeniya) · `en`
-
-One person was killed while another 37 persons were wounded following an accident involving a bus transporting a group of devotees returning from a visit to the Nelligala International Buddhist Center.
-
-The incident had occurred last evening (16) in the Yahalatenna in Peradeniya as the bus was traveling from Nelligala to Pundaluoya.
-
-The driver of the bus had reportedly lost control of the vehicle causing it to slide down a 15-meter slope and crash into a tree.
-
-Thirty-eight persons including the driver were rushed to the Peradeniya Hospital, however one of them had been pronounced dead on admission.
-
-The deceased has been identified as a 79-year-old resident of Halpola, Pundaluoya while two of the injured passengers who are in critical condition have been transferred to the Kandy General Hospital.
-
-◼️
-
-[Data](articles/c2275872.json)
-
-[Extended Data](ext_articles/c2275872.ext.json)
-
----
-
-### 158 persons including Sri Lankans in Malaysia arrested without visa
-
-*2024-03-17 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194588) · `si`
-
-158 Sri Lankans in Malaysia, without visas, arrested in a special investigation. 358 foreigners inspected, 158 without valid visas. Includes men, women, and children from various countries. Most had tourist visas, rented apartments, and worked. Some were illegally employed for over a year.
-
-🟩
-
-158 persons including Sri Lankans who were staying in Malaysia without valid visa have been arrested.
-
-The group has been arrested during a special investigation by the Department of Malaysian Immigration and Emigration and the Department of Malaysian Apartment Complex.
-
-There are 358 persons from foreign countries have been inspected and 158 persons have not had a valid visas for their stay in Malaysia.
-
-Among the arrested were 83 men, 8 females and three girls were three boys and three children.
-
-Between the arrested persons, Sri Lankans have people in Indonesia, Nepal, Myanmar, Bangladesh, China, Pakistan and Vietnam.
-
-Most of them have reached the tourist visa and have been rented apartments and employed various jobs.
-
-Investigations have revealed that the Department of Immigration and Emigration has revealed that some men have been illegally employed in Malaysia for more than a year.
-
-...
-
-[Data](articles/aeae9a7d.json)
-
-[Extended Data](ext_articles/aeae9a7d.ext.json)
 
 ---

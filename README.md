@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 13:51:35**
+As of **2024-03-17 14:03:06**
 
 ## Newspaper Stats
 
-*Scraped **13,383** Articles*
+*Scraped **13,386** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ dailyftlk | 699
 economynextcom | 712
 islandlk | 735
 adalk | 1,143
-adaderanalk | 1,615
+adaderanalk | 1,616
 tamilmirrorlk | 1,637
 virakesarilk | 1,859
 dailymirrorlk | 2,045
-adaderanasinhalalk | 2,115
+adaderanasinhalalk | 2,117
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,383 (100.0%) of 13,383 articles have been extended.
+13,383 (100.0%) of 13,386 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### නිවාසාන්තර ක්‍රීඩා කල්දමයි
+
+*2024-03-17 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194597) · `si`
+
+පාසල් නිවාසාන්තර ක්‍රීඩා උළෙල අලුත් අවුරුදු නිවාඩුවෙන් පසුව සංවිධානය කරන ලෙස විදුහල්පතිවරුන්ට චක්‍රලේඛයක් මගීන් දැනුම්දෙන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+
+අමාත්‍යවරයා පෙන්වාදෙන්නේ උෂ්ණාධික කාලගුණ තත්ත්වය නොසළකමින් පාසල් රැසක් නිවාසාන්තර ක්‍රීඩා උළෙල සංවිධානය කර ඇති බව නිරීක්ෂණය වී ඇති බවය.
+
+පළමු පාසල්වාරය අලුත් අවුරුදු නිවාඩුවෙන් පසුව ද ක්‍රියාත්මක වන බැවින් එම කාලයේ දී ක්‍රීඩා තරග පැවැත්වීමේ හැකියාව පවතින බව සුසිල් ප්‍රේමජයන්ත අමාත්‍යවරයා කියා සිටියේය.‍
+
+මේ අතර අද දිනයේ ද දිවයිනේ ප්‍රදේශ රැසක මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව වයඹ, උතුරුමැද, නැගෙනහිර, බස්නාහිර යන පළාත්වල මෙන්ම මොණරාගල, මන්නාරම, මුලතිව්, වව්නියාව සහ හම්බන්තොට දිස්ත්‍රික්කවල ඇතැම් ස්ථානයන් හි උෂ්ණත්වය සෙල්සියස් අංශක 39ත් 45ත් අතර පවතිනු ඇති බව එම දෙපාර්තමේන්තුව පෙන්වාදෙයි.
+
+◼️
+
+[Data](articles/b53fc2a6.json)
+
+---
+
+### මෝදරවීදිය වෙඩිතැබීමේ වෙඩික්කරු අත්අඩංගුවට
+
+*2024-03-17 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194596) · `si`
+
+පසුගිය 13 වනදා මෝදරවීදිය කොළඹ 15 ප්‍රදේශයේ දී වෙඩිතබා මනුෂ්‍ය ඝාතනයක් සිදුකිරීමට තැත් කිරීමේ සිද්ධියේ වෙඩික්කරු ලෙස කටයුතුකළ සැකකරුව අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (16) සවස් කාලයේදී පෑලියගොඩ, වික්ටෝරියා පාලම දේශයේදී එම සැකකරු අත්අඩංගුවට ගෙන ඇත.
+
+සැකකරු අත්අඩංගුවට ගන්නා අවස්ථාවේදී ඔහු සතුව තිබී හෙරොයින් ග්‍රෑම් 11යි මිලිග්‍රෑම් 600ක් ද සොයගෙන ඇති බව පොලීසිය පවසයි.
+
+අත්අඩංගුවට ගත් සැකකරු පරකන්දෙනිය, ඉඹුග්ගොඩ ප්‍රදේශයේ පදිංචි 35 හැවිරිදි පුද්ගලයෙකි.
+
+මෙම අපරාධයට අදාළව මේ වනවිට කොළඹ උතුර කොට්ඨාස අපරාධ විමර්ශන අංශය විසින් එක් සැකකරුවෙකුද මෝදර පොලිස් ස්ථානය මගින් සැකකරුන් තිදෙනෙකුද අත්අඩංගුවට ගෙන ඇත.
+
+සැකකරුවන් අපරාධය සිදුකිරීමට පැමිණි මෝටර් රථයක් හා අපරාධයෙන් පසු පළා යාමට භාවිතා කළ ත්‍රිරෝද රථයක්ද විමර්ශන නිලධාරීන් විසින් සොයාගෙන ඇත.
+
+පසුගිය 13 වනදා මෝදර පොලිස් වසමේ මෝදර විදිය කොළඹ 15 ප්‍රදේශයේ පිහිටි අවන්හලක ප්‍රධාන දොරටුව අසලදී එම අවන්හලේ කළමනාකරු ලෙස සේවය කළ පුද්ගලයෙකු වෙඩිතබා මනුෂ්‍ය ඝාතනයක් කිරීමට තැත් කර තිබුණි.
+
+◼️
+
+[Data](articles/a4c61f98.json)
+
+---
+
+### Israel to attend new ceasefire talks as UN says Gaza hunger crisis worsens
+
+*2024-03-17 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98009/israel-to-attend-new-ceasefire-talks-as-un-says-gaza-hunger-crisis-worsens) · `en`
+
+(Reuters) -The main U.N. aid agency operating in Gaza said on Saturday that acute malnutrition was accelerating in the north of the Palestinian enclave as Israel prepared to send a delegation to Qatar for new ceasefire talks on a hostage deal with Hamas.
+
+The United Nations Relief and Works Agency for Palestine Refugees (UNRWA) said one in three children under the age of two in northern Gaza is now acutely malnourished, putting more pressure on Israel over the looming famine.
+
+On Friday, Israel said it would send a delegation to Qatar for more talks with mediators after its enemy Hamas presented a new proposal for a ceasefire with an exchange of hostages and prisoners.
+
+...
+
+[Data](articles/3811ad74.json)
+
+---
 
 ### Man dies in clash at two tourist hotels
 
@@ -2271,81 +2331,5 @@ It is noteworthy that he was involved in a protest on the A-9 road near the peop
 [Data](articles/72ccd0e9.json)
 
 [Extended Data](ext_articles/72ccd0e9.ext.json)
-
----
-
-### Sri Lanka’s low grown Ceylon teas fall, high growns up
-
-*2024-03-16 16:06:00* · [`economynextcom`](https://economynext.com/sri-lankas-low-grown-ceylon-teas-fall-high-growns-up-154866/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tea price averages fell at an auction on March 12-13, with Low Growns continuing to weaken, while High and Medium Growns slightly gained, industry data showed.
-
-Sri Lankan tea prices have moved up in 2024 both in rupee and US dollar terms.
-
-The national weekly sale average fell by 5.66 rupees to 1338.73 rupees a kilogram this week, from 1344.39 rupees week industry data published by Ceylon Tea Brokers showed.
-
-The weekly average was 4.36 dollars a kilo, up from 4.47 dollars a week earlier.
-
-Prices have gained from an average of 3.66 US dollar a kilo seen at the last auction in December.
-
-The weekly average of Sri Lanka’s highest priced tea, the Low Grown, fell by 10.16 rupees to 1387.38 rupees.
-
-BOP1 Select bests maintained during the week, while bests, below bests and poorer sorts fell irregularly.
-
-OP1 Select bests fell, while bests and below bests maintained. Poorer sorts of OP1 fell.
-
-OPA Select bests together with bests fell, whilst poorer sorts maintained and gained.
-
-...
-
-[Data](articles/eb5ab56a.json)
-
-[Extended Data](ext_articles/eb5ab56a.ext.json)
-
----
-
-### President looks into issues facing gem and jewellery sector, promises concessions
-
-*2024-03-16 15:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/97995/president-looks-into-issues-facing-gem-and-jewellery-sector-promises-concessions) · `en`
-
-President Ranil Wickremesinghe has unveiled plans to provide concessions to those who engaged in the gems and jewellery sector.
-
-This initiative comes in response to the challenges faced by the industry, with the President emphasizing the importance of addressing these issues to support those involved in the field, the President’s Media Division (PMD) said.
-
-By offering solutions to the problems within the industry, relief will be extended to its stakeholders, ensuring their continued growth and prosperity.
-
-The President, clarifying that immediate changes to the tax policy are not feasible, noted that efforts, however, would be made to devise an effective system to enhance the gem and jewellery industry.
-
-Wickremesinghe directed officials to develop a viable system aimed at bolstering the gem and jewellery industry. He instructed them to collaborate with both the public and private sectors to draft a proposal addressing these issues within two weeks.
-
-...
-
-[Data](articles/c534d79e.json)
-
-[Extended Data](ext_articles/c534d79e.ext.json)
-
----
-
-### Change of bungalls before the third match
-
-*2024-03-16 15:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194574) · `si`
-
-Litton Das replaces Bangladesh's founding batsman for the 3rd ODI against Sri Lanka. Jacker to join the team. Bangladesh participates in Dhaka Premier League.
-
-🟩
-
-Litton Das has removed the founding batsman of the Bangladesh team from the third one day cricket match with Sri Lanka.
-
-It is reported that the cricket management has decided to participate in the Dhaka Premier League.
-
-It is said that Jacker is scheduled to be summoned to the Bangladesh team.
-
-Litton Das was bowled out for the first and second matches of the One Day Cricket Tournament with the Sri Lankan team.
-
-◼️
-
-[Data](articles/eeb365cd.json)
-
-[Extended Data](ext_articles/eeb365cd.ext.json)
 
 ---

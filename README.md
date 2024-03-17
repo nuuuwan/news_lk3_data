@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 22:03:18**
+As of **2024-03-17 22:17:41**
 
 ## Newspaper Stats
 
-*Scraped **13,447** Articles*
+*Scraped **13,450** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ dailyftlk | 699
 economynextcom | 712
 islandlk | 735
 adalk | 1,157
-adaderanalk | 1,623
+adaderanalk | 1,624
 tamilmirrorlk | 1,648
-virakesarilk | 1,862
+virakesarilk | 1,863
 dailymirrorlk | 2,053
-adaderanasinhalalk | 2,133
+adaderanasinhalalk | 2,134
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,444 (100.0%) of 13,447 articles have been extended.
+13,447 (100.0%) of 13,450 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### ලොව ප්‍රථම රථ වාහන ප්‍රවාහන LNG නෞකාව හම්බන්තොට ට
+
+*2024-03-17 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194614) · `si`
+
+ජීව වායු දෙමුහුන් බැටරි එනම් LNG භාවිතයෙන් බලගැන්වෙන ලොව ප්‍රථම රථ වාහන ප්‍රවාහන නෞකාව වන ද ජස්මින් ලීඩර් (The Jasmine Leader) නෞකාව හම්බන්තොට වරායට තිබේ.
+
+NYK නෞකා සේවයට අයත්, එය මෙරටට සේන්දුවූයේ මාර්තු පළමු සතියේදීය.
+
+ජීව වායු බැටරි සහිත නෞකා සැලකෙන්නේ, පරිසර හිතකාමී, මීළඟ පරම්පරාවේ නෞකා ලෙසටය.
+
+◼️
+
+[Data](articles/2e0f9c81.json)
+
+---
+
+### திருகோணமலையில் இடம்பெற்ற மோட்டார் சைக்கிள் விபத்தில் இளைஞரொருவர் உயிரிழப்பு
+
+*2024-03-17 22:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/178962) · `ta`
+
+திருகோணமலை-புகையிரத நிலையத்துக்கு அருகிலுள்ள கிறிஸ்தவ ஆலயத்திற்கு முன்னால் இடம்பெற்ற மோட்டார் சைக்கிள் விபத்தில் இளைஞரொருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இரு இளைஞர்கள் மோட்டார் சைக்கிளில் பயணித்துக் கொண்டிருந்தபோது பின்புறமாக வேகமாக வந்த மோட்டார் சைக்கிள் மோதியதாகவும் மூவர் மதுபோதையில் வேகமாக வந்தமையினால் இவ்விபத்து இடம்பெற்றதாகவும் ஆரம்ப கட்ட விசாரணையின் மூலம் தெரியவந்துள்ளது.
+
+இவ்விபத்தில் திருகோணமலை - கோனேஸபுரி ஆறாம் கட்டையைச்சேர்ந்த இரண்டு பிள்ளைகளின் தந்தையான  ஏ.தேவானந் (39வயது) என்பவரே உயிரிழந்ததாகவும் அவருடன் பயணித்து அதே பகுதியைச் சேர்ந்த 32 வயதுடைய  யூ.தனூஸன் காயம் அடைந்துள்ளதாகவும் தெரிய வருகின்றது.
+
+அத்துடன் வேகமாக சென்று கொண்டிருந்த மற்றைய  மோட்டார் சைக்கிள் பயணித்த மூவரும் படுகாயமடைந்துள்ளதாகவும் 21, 30, 39 வயது உடையவர்களை எனவும் உயிரிழந்தவருடன்  பயணித்த இளைஞர் உட்பட மற்றைய மோட்டார் சைக்கிள் பயணித்த மூவரும் மொத்தமாக நான்கு பேர் திருகோணமலை பொது வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/93b9b066.json)
+
+---
+
+### TN chief minister Stalin slams PM Modi over Katchatheevu issue
+
+*2024-03-17 21:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98016/tn-chief-minister-stalin-slams-pm-modi-over-katchatheevu-issue) · `en`
+
+Tamil Nadu Chief Minister M. K. Stalin on Sunday accused Indian Prime Minister Narendra Modi of ‘‘uttering a lie’’ on the Katchatheevu issue to target the DMK and blamed him for ‘‘staying silent’’ over projects for the state.
+
+In a post on social media platform X, Stalin alleged that the Indian Prime Minister had ‘‘blatantly lied’’ in his rally at Kanyakumari on March 15 that Tamil Nadu fishermen are facing trouble from Sri Lanka only due to the past ‘‘sin’’ of the DMK.
+
+‘‘The Tamil Nadu people know the true history pretty well; that the Katchatheevu island was ceded (1974, 1976 agreements) to Sri Lanka despite the stiff opposition of the DMK government. Is the Prime Minister naive to the extent of believing that a state government can give away a portion of the country to another country,’’ Stalin said in the post.
+
+...
+
+[Data](articles/18a6db53.json)
+
+---
 
 ### Sri Lanka and Bangladesh face off in crucial ODI decider
 
@@ -45,6 +95,8 @@ The talented fast bowler, who showcased impressive pace and wicket-taking abilit
 ...
 
 [Data](articles/32e5acc5.json)
+
+[Extended Data](ext_articles/32e5acc5.ext.json)
 
 ---
 
@@ -222,19 +274,25 @@ Further investigations are underway under the leadership of Deputy Inspector Gen
 
 ---
 
-### විදුලි බල මණ්ඩලයේ අය තවත් රුපියල් මිලියන 245ක් ප්‍රසාද මුදල් ගෙවා ගත් හැටි එළියට
+### The CEB holds another Rs. 245 million bonus
 
 *2024-03-17 20:23:07* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බල-මණ්ඩලයේ-අය-තවත්-රුපියල්-මිලියන-245ක්-ප්‍රසාද-මුදල්-ගෙවා-ගත්-හැටි-එළියට/11-408661) · `si`
 
-විදුලි බල සැපයුමේ විශ්වාසනීයත්වය වැඩිදියුණු කිරීමේ සහායක ව්‍යාපෘතියේ අරමුදල් භාවිත කරමින් ව්‍යාපෘති කාර්යමණ්ඩලය සඳහා ප්‍රසාද දීමනා වශයෙන් රුපියල් මිලියන 245ක මුදලක් ගෙවා ඇති බව ජාතික විගණන කාර්යාලය මගින් 2024-03-16 දින නිකුත් කර ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+The CEB paid Rs. 245 million in bonuses, with the National Audit report revealing this payment was made from July 1, 2023, to December 31, 2023. The audit found that the circular advice should adhere to foreign funded projects, specifically 48 projects. The Power Supply Project's Project Manager confirmed adherence to the Ceylon Electricity Board's document guides.
 
-චක්‍ර ලේඛනවලට පටහැණිව 2022 ජූලි මස 01වනදා සිට 2023 දෙසැම්බර් 31 දක්වා මෙකී මුදල ගෙවා ඇති බවද විගණනය මගින් අනාවරණය කර ඇත. විදේශ අරමුදල් සහිත ව්‍යාපෘති සඳහා අදාළ චක්‍රලේඛ උපදෙස් දැඩි ලෙස පිළිපැදිය යුතු බවද විගණනය මගින්  අනාවරණය කර ඇත.
+🟩
 
-විදේශ අරමුදල් සහිත ව්‍යාපෘති 48ක් සඳහා අදාළ චක්‍රලේඛ උපදෙස් දැඩි ලෙස පිළිපැදිය යුතු බවද අනාවරණය කර ඇත. මේ පිළිබඳව විදුලිබල සැපයුම් ව්‍යාපෘතියේ කළමනාකාරීත්වයේවිදුලිබල මණ්ඩලයේ ව්‍යාපෘති කළමනාකරුවිසින් විගණනයට සඳහන් කර ඇත්තේ, මෙය ලංකා විදුලිබල මණ්ඩලයේ ප්‍රතිපත්තියට සහ සියලුම ලංකා විදුලිබල මණ්ඩල සේවකයන්ට අදාළ වාර්තා මාර්ගෝපදේශකයන්ට අදාළව සිදු කොට ඇති බවයි.
+The National Audit report, a sum of Rs.
+
+The audit revealed that this amount has been paid to the circular on 1st of July 1, 2023 from 1st July 20, 2023 to December 31, 2023.. Audit has revealed that the circular advice should be adequately adhere to foreign funded projects.
+
+It has been revealed that the relevant circulars should be adequately adapt to 48 foreign funded projects.. The audit of the Power Supply Project The Project Manager of the Power Supply Project has stated that this has been carried out regarding the document guides of the Ceylon Electricity Board and all Ceylon Electricity Board (CEB) to the Ceylon Electricity Board.
 
 ◼️
 
 [Data](articles/8ceec9fa.json)
+
+[Extended Data](ext_articles/8ceec9fa.ext.json)
 
 ---
 
@@ -260,21 +318,27 @@ In reply, Isipathana Vidyalara scored only 152 runs for the loss of all bowls.
 
 ---
 
-### வயதான எம்.பிக்களை நீக்கவும்
+### Remove the elderly MPs
 
 *2024-03-17 20:09:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயதான-எம்-பிக்களை-நீக்கவும்/175-334816) · `ta`
 
-இவ்வாறே தொடர்ந்தால் இன்னும் சிறிது காலத்தில் முழு பாராளுமன்றமும் பழைய சேறும் சகதியுமாக மாறிவிடும் என்றும்  நாட்டை கட்டியெழுப்ப வேண்டுமானால் பாராளுமன்றத்தில் உள்ள முதியோர்களை வெளியேற்றி விட்டு, இளைஞர்களுக்கு வாய்ப்பு வழங்க வேண்டுமென கெட்டம்பே ஸ்ரீ ராஜோப வானராமாதிபதி ராமன்ய நிகாயா கப்பிட்டியாகொட சிறிவிமல தேரர் தெரிவித்துள்ளார்.
+Roshan Ranzinghe, former Sports Minister, calls for the removal of elderly MPs, arguing for youth representation in Parliament. He criticizes the retirement of public servants and MPs, highlighting a lack of accountability and corruption, especially against those in power.
 
-முன்னாள் விளையாட்டுத்துறை அமைச்சரும், பாராளுமன்ற உறுப்பினருமான ரொஷான் ரன்சிங்க, அவரை சென்று வழிபட்டதன் பின்னர் கருத்துரைத்த போதே மேற்கண்டவாறு வலியுறுத்தியுள்ளனர்.
+🟩
 
-அரசு ஊழியர்கள் 60 வயதை எட்டிய பின், கடினமாக உழைக்க முடியாது என்பதால் ஓய்வு பெறுகின்றனர். ஆனால் பாராளுமன்றத்தில் ஓய்வு பெறும் வயதை கடந்தவர்கள் ஏராளம். சிலர் அரசுப் பணியில் இருந்து ஓய்வு பெற்று பாராளுமன்றத்துக்கு வருகிறார்கள்.
+If this is the case, the entire parliament and the old slopes will become an old sloppy and that if the country is to be built, the elderly in Parliament should be expelled and the youth should be given the opportunity to give the youth a chance to give the youth the opportunity.
 
-கொடுத்து விட்டு செல்வதில் அவர்களுக்கு விருப்பம் இல்லை. பாராளுமன்றத்திற்கு வர போராடுகின்றனர் என்றும் குறிப்பிட்டுள்ளார். அவர்களுக்கு நாட்டு மக்கள் மீது எந்த உணர்வும் இல்லை. அவர்கள் நாட்டின் வளங்களை விற்று தங்கள் தலைமுறையை மகிழ்ச்சியடையச்
+Former Sports Minister and Member of Parliament, Roshan Ranzinghe, has stressed the above when he went to worship him.
+
+Public servants retire because they cannot work hard after reaching 60 years of age. But there are plenty of people who have been retiring in Parliament. Some retire from government service and come to parliament.
+
+They have no choice of giving. He also said that they were struggling to come to Parliament. They have no feeling on the people of the country. They sell the country's resources and rejoice their generation
 
 ...
 
 [Data](articles/12f6b2a7.json)
+
+[Extended Data](ext_articles/12f6b2a7.ext.json)
 
 ---
 
@@ -2303,65 +2367,5 @@ The accident had occurred last evening and a man was killed in a man of the inju
 [Data](articles/faa6d731.json)
 
 [Extended Data](ext_articles/faa6d731.ext.json)
-
----
-
-### 21 Indian fishermen arrested for poaching in Sri Lankan waters
-
-*2024-03-17 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98006/21-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
-
-The Sri Lanka Navy says it conducted a special operation to chase away Indian poaching trawlers from Sri Lankan waters in the late hours last night (16) and that the operation led to the seizure of 02 Indian trawlers and apprehension of 21 Indian fishermen poaching in Sri Lankan waters off the Delft Island.
-
-The Northern Naval Command deployed Fast Attack Craft to chase away a cluster of Indian poaching trawlers, having spotted they were engaging in illegal fishing in Sri Lankan waters off the Delft Island.
-
-The operation resulted in the seizure of 02 Indian poaching trawlers and apprehension of 21 Indian fishermen who continued to remain in Sri Lankan waters.
-
-The seized trawlers together with 21 Indian fishermen were brought to the Kankesanthurai Harbour and they will be handed over to the Mailadi Fisheries Inspector for onward legal proceedings, the navy said.
-
-...
-
-[Data](articles/56067215.json)
-
-[Extended Data](ext_articles/56067215.ext.json)
-
----
-
-### Man hit and killed by train
-
-*2024-03-17 08:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194589) · `si`
-
-A 62-year-old man was hit and killed by a train between Wilwatta and Ambepussa railway stations in Mirigama. The incident occurred when the victim collided with Rambukkana from Colombo yesterday morning. The victim's identity has not been confirmed.
-
-🟩
-
-A person was killed and killed by the train between Wilwatta and Ambepussa railway stations, Mirigama.
-
-The deceased has collided with Rambukkana from Colombo yesterday morning.
-
-The victim is about 62 years and his identity has not been proof.
-
-◼️
-
-[Data](articles/6198e8ae.json)
-
-[Extended Data](ext_articles/6198e8ae.ext.json)
-
----
-
-### 37 people injured in bus accident
-
-*2024-03-17 08:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-37-பேர்-படுகாயம்/175-334782) · `ta`
-
-In Nellikala, a bus accident resulted in 37 injuries and one death.
-
-🟩
-
-One person was killed in a bus accident in Nellikala. 37 people were injured, police said
-
-◼️
-
-[Data](articles/c4c7cc70.json)
-
-[Extended Data](ext_articles/c4c7cc70.ext.json)
 
 ---

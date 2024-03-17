@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 19:03:00**
+As of **2024-03-17 19:17:56**
 
 ## Newspaper Stats
 
-*Scraped **13,424** Articles*
+*Scraped **13,425** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 1,622
 tamilmirrorlk | 1,643
 virakesarilk | 1,860
 dailymirrorlk | 2,049
-adaderanasinhalalk | 2,129
+adaderanasinhalalk | 2,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,420 (100.0%) of 13,424 articles have been extended.
+13,424 (100.0%) of 13,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### එක්දින ගැටුමේ ජය ආනන්දයට
+
+*2024-03-17 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194610) · `si`
+
+47 වන ආනන්ද-නාලන්ද එක්දින ක්‍රිකට් තරගය කඩුලු 5කින් ජයගැනීමට ආනන්ද විද්‍යාලය සමත්විය.
+
+එහිදී ප්‍රථමයෙන් පන්දුවට පහරදුන් නාලන්ද විද්‍යාලය පන්දුවාර 50 අවසානයේ කඩුලු 8ක් දැවී ලකුණු 228ක් රැස්කරගත්තේය.
+
+පිළිතුරු ඉනිම ක්‍රීඩා කළ ආනන්ද විද්‍යාල කණ්ඩායම පන්දුවාර 43යි එක් පන්දුවකදී  කඩුලු 5ක් පමණක් දැවී ලකුණු 229ක් රැස්කරගනිමින් තරගයේ ජය හිමිකරගත්තේය.
+
+◼️
+
+[Data](articles/c860ef61.json)
+
+---
 
 ### Match-fixing allegations: Court issues travel ban on two Indian cricket managers
 
@@ -42,11 +58,11 @@ Colombo Additional Magistrate Pasan Amarasena made this order pursuant to a requ
 
 The court issued this order based on a complaint made by Sri Lankan former cricketer Upul Tharanga, who represents the Kandy Samp Army, and New Zealand legend Neil Broom, representing the Punjab Royals, alleging that they were pressured to engage in match fixing deals.
 
-This tournament is currently being held at the Pallekele International Cricket Stadium until March 19.
-
 ...
 
 [Data](articles/2dca707a.json)
+
+[Extended Data](ext_articles/2dca707a.ext.json)
 
 ---
 
@@ -60,27 +76,37 @@ A Deputy Controller of Immigration & Emigration and a former Deputy Controller h
 
 [Data](articles/9a250165.json)
 
+[Extended Data](ext_articles/9a250165.ext.json)
+
 ---
 
-### හොර පාස්පෝට් හැදූ ලොක්කෝ දෙන්නෙක් අත්අඩංගුවට
+### Two boss arrested for complaining passport
 
 *2024-03-17 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194609) · `si`
 
-සංවිධානාත්මක අපරාධකරුවන් දෙදෙනෙකුට රටින් පැන යාම සඳහා ගමන් බලපත්‍ර සකසා දීම සඳහා සහාය වූ ආගමන විගමන දෙපාර්තමේන්තුවේ නියෝජ්‍ය පාලකවරයෙකු සහ හිටපු නියෝජ්‍ය පාලකවරයෙකු අත්අඩංගුවට ගෙන තිබේ.
+Two organized criminals, including a former deputy council member, were arrested in the Department of Immigration and Emigration for setting false foreign passports. One suspect will face charges in the Vavuniya Magistrate's Court. The Department of Immigration and Emigration has been accused of entering pseudo-numbers and fake IDs. A former Immigration and Emigration Department official, now a Deputy Director of the Pensions Department, is also implicated.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇති සැකකරුවන් දෙදෙනාගෙන් එක් අයෙකු වවුනියාව මහේස්ත්‍රාත් අධිකරණයටත් අනෙක් සැකකරු කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයටත් ඉදිරිපත් කිරීමට නියමිතව ඇත.
+🟩
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාර නියෝජ්‍ය පොලිස්පති  රොහාන් ප්‍රේමරත්න මහතාගේ අධීක්ෂණය යටතේ සිදුකළ විමර්ශනයකට අනුව සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+Two organized criminals have been arrested in the Department of Immigration and Emigration and a former deputy council.
 
-එහිදී සැකකාර ආගමන විගමන දෙපාර්තමේන්තුවේ නියෝජ්‍ය පාලකවරයා විසින් නුරේෂ් සුපුන් දයාරත්න නොහොත් "හීනටියන මහේෂ්" නමැති
+One of the two suspects is to be produced before the Vavuniya Magistrate's Court and the other suspect.
 
-සංවිධානාත්මක අපරාධකරුට ව්‍යාජ විදෙස් ගමන් බලපත්‍රයක් සකසා දී ඇති බවට අනාවරණය වී ඇත.
+According to the supervision of DIG Rohana Premaratne in charge of the CID, the suspects have been arrested.
 
-මාණික්කුගේ දිනේෂ් සිල්වා යන ව්‍යාජ නාමය ඇතුළත් කර ව්‍යාජ ගමන් බලපත්‍ර අංකයක් සහ ව්‍යාජ හැඳුනුම්පත් අංකයක් ඇතුළත් කර "හීනටියන මහේෂ්" වෙත විදෙස් ගමන් බලපත්‍රය සකස්කර දී ඇති බවට සැකකාර ආගමන විගමන දෙපාර්තමේන්තුවේ නියෝජ්‍ය පාලකවරයාට චෝදනා එල්ලවී තිබේ.
+NaiS Suhah Dayaratne alias 'Hinatiyana Mahes' or 'Hinatiyana Mahes'
+
+It has been revealed that the organized criminal has set a false foreign passport.
+
+The disposal of the Department of Immigration and Emigration has been accused of entering the pseudo-number and a fake number of pseudo-identity number and a fake ID number.
+
+The Deputy Controller of the Department of Immigration and Emigration, the CID has been arrested by the CID while receiving treatment at the Sri Jayewardenepura Hospital.
 
 ...
 
 [Data](articles/99ca74de.json)
+
+[Extended Data](ext_articles/99ca74de.ext.json)
 
 ---
 
@@ -624,19 +650,31 @@ She said this small group will not give up easily, adding that people of Sri Lan
 
 ---
 
-### මේ වසරේදී විපක්ෂ මන්ත්‍රීන්ට මුදල් නෑ
+### Opposition MPs do not have money this year
 
 *2024-03-17 14:55:57* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-විපක්ෂ-මන්ත්‍රීන්ට-මුදල්-නෑ/11-408654) · `si`
 
-වෙන අවුරුදුවලදී ආණ්ඩුව විපක්ෂය කියලා බලන්නේ නැතුව පක්ෂ විපක්ෂයේ මන්ත්‍රීවරුන්ට මුදල් දෙනව නමුත් මේ වසරේ තමයි එකම අවුරුද්ද විපක්ෂයේ මන්ත්‍රීවරුන්ට මුදල් නොලැබුණු එකම වර්ෂය බව හිටපු ජනාධිපති පාර්ලිමේන්තු මන්ත්‍රී මෛත්‍රීපාල සිරිසේන මහතා පොළොන්නරුවේදී පැවසිය.
+Maithripala Sirisena said opposition MPs didn't receive their salaries this year, unlike when he was minister. He spoke at a ceremony organized by the Sri Lankan Ambassador to Sri Lanka's Ambassador.
 
-හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතාගේ ප්‍රධානත්වයෙන් සහ චීන ශ්‍රී ලංකා තානාපතිගේ ප්‍රධානත්වයෙන්පෙ පොළොන්නරුව ඕනෑගම සිංහරාජ ගම ප්‍රාථමික විද්‍යාලයේ අඩු ආදායම් ලාභී පවුල්වල පාසල් දරු දැරියන් දෙසිය පනස් දෙනෙකු සඳහා  පාවහන් ලබා ගැනීමට අවශ්‍ය වව්චර පත් බෙදා දීමේ අවස්ථාවට එක්වෙමින් හිටපු ජනාධිපතිවරයා ඒ බව පැවසීය.
+🟩
 
-මෛත්‍රිපාල සිරිසේන ලක්දරු දිරිය පදනම මගින් මෙය සංවිධානය කර තිබූ අතර මෙහිදී තවදුරටත් අදහස් දැක්වූ ජනාධිපතිවරයා මෙසේද කීය
+Former Presidential Minister Maithripala Sirisena said in Polonnaruwa that the opposition MPs were the only year that the opposition MPs had not received the same year.
 
-...
+The President was speaking at a ceremony of the Venerable Sri Lanka's Ambassador and the Sri Lankan Ambassador to Sri Lanka's Ambassador.
+
+This was organized by Maithripala Sirisena Sirisena Lakdiri Diriya Founda.
+
+"When I was minister, I had a lot of work to help me.The money of the year has come to Polonnaruwa.
+
+But they are now spending none of the opposition in Polonnaruwa and the opposition members of the Opposition in Polonnaruwa have no such money to the government.
+
+The only year that the Opposition MPs who had not received the year this year was not paid this year, but the government gave money without seeing government opposition. But in a government policy, I do not expect much to talk about it "
+
+◼️
 
 [Data](articles/846df17e.json)
+
+[Extended Data](ext_articles/846df17e.ext.json)
 
 ---
 
@@ -2317,19 +2355,5 @@ I met a former HLC teacher there — Mrs Navaratna, formerly Leela Ponniah — a
 [Data](articles/f0c6b561.json)
 
 [Extended Data](ext_articles/f0c6b561.ext.json)
-
----
-
-### Nissanka – God’s secret agent
-
-*2024-03-16 23:32:00* · [`islandlk`](http://island.lk/nissanka-gods-secret-agent/) · `en`
-
-It may have been in 1983 that Dilhan introduced me to Nissanka Wimalasuriya. My friend Herman Gunaratne has devoted an entire book — ‘God’s Secret Agent’ — to his association with Nissanka and the many extraordinary incidents involving him. What I was told was that Nissanka had a unique link with the Almighty, that he would pray to God seeking intervention in the lives of distressed people, and that such prayers were answered favourably. At first I did not believe this, but having prayed with him and personally experiencing the results of such prayer, I finally became convinced that Nissanka was indeed a man with a special gift or spiritual power.
-
-...
-
-[Data](articles/f1e178d6.json)
-
-[Extended Data](ext_articles/f1e178d6.ext.json)
 
 ---

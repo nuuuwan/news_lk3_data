@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 08:50:38**
+As of **2024-03-17 09:03:13**
 
 ## Newspaper Stats
 
-*Scraped **13,342** Articles*
+*Scraped **13,345** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 699
 economynextcom | 710
 islandlk | 735
 adalk | 1,138
-adaderanalk | 1,611
-tamilmirrorlk | 1,624
+adaderanalk | 1,612
+tamilmirrorlk | 1,626
 virakesarilk | 1,853
 dailymirrorlk | 2,041
 adaderanasinhalalk | 2,108
@@ -26,11 +26,45 @@ adaderanasinhalalk | 2,108
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,340 (100.0%) of 13,342 articles have been extended.
+13,342 (100.0%) of 13,345 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### பஸ் விபத்தில் 37 பேர் படுகாயம்
+
+*2024-03-17 08:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-37-பேர்-படுகாயம்/175-334782) · `ta`
+
+நெல்லிகலவில் இடம்பெற்ற பஸ் விபத்தில் ஒருவர் பலியாகியுள்ளார். 37 பேர் காயமடைந்துள்ளனர் என பொலிஸார் தெரிவித்தனர்
+
+◼️
+
+[Data](articles/c4c7cc70.json)
+
+---
+
+### Two suspects arrested over Pitigala shooting that killed two
+
+*2024-03-17 08:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98005/two-suspects-arrested-over-pitigala-shooting-that-killed-two) · `en`
+
+Two suspects have been arrested in connection with the fatal shooting incident in front of a shop in Guruwala area in the Pitigala police division.
+
+The suspects were arrested yesterday (16) in the Talgaswala area.
+
+According to police, a suspect who had allegedly helped plan the crime and a suspect who aided and abetted it were arrested.
+
+Both suspects are 35-year-old individuals residing in the Talgaswala area.
+
+Three mobile phones and 02 motorcycles believed to have been used for the crime have been taken into police custody.
+
+On March 11, two unidentified persons on a motorcycle had opened fire with a T-56 firearm near a shop in the Guruwala Junction in Pitigala, killing two persons and critically injuring two others.
+
+◼️
+
+[Data](articles/f39cd021.json)
+
+---
 
 ### One dead, 37 injured in bus accident at Peradeniya
 
@@ -49,6 +83,8 @@ The deceased has been identified as a 79-year-old resident of Halpola, Pundaluoy
 ◼️
 
 [Data](articles/c2275872.json)
+
+[Extended Data](ext_articles/c2275872.ext.json)
 
 ---
 
@@ -82,23 +118,31 @@ Investigations have revealed that the Department of Immigration and Emigration h
 
 ---
 
-### උතුරුමැද පළාත් මහ ඇළ ව්‍යාපෘතිය 2026දී නිම කිරීමට ඉලක්කයක්
+### North Central Province canal project to be completed in 2026
 
 *2024-03-17 07:53:06* · [`adalk`](https://www.ada.lk/breaking_news/උතුරුමැද-පළාත්-මහ-ඇළ-ව්‍යාපෘතිය-2026දී-නිම-කිරීමට-ඉලක්කයක්/11-408641) · `si`
 
-පවුල්  අට ලක්ෂ හැත්තෑ පන්දහසක ට සෘජු සහ වක්‍ර ප්‍රතිලාභ හිමිවන උතුරුමැද පළාත්  මහ ඇළ ව්‍යාපෘතිය 2026 වසරේ අවසන් කිරීමේ ඉලක්කය වෙත යාම සඳහා  එහි ඉදිකිරීම් කඩිනම් කිරීම ට පියවර ගෙන තිබේ.
+The North Central Province canal project, aimed at improving livelihoods and water supply, is set to be completed by 2026. Minister Pavithra Wanniarachchi is investigating the project's progress. The canal, spanning 95.8 km, includes a 27.7 km tunnel, with excavation using high-tech TBM machines. The project is expected to benefit 175,000 families and address the province's water needs.
 
-ඒ අනුව ව්‍යාපෘතියේ  ඉදිකිරීම් කටයුතු සොයා බැලීම   සඳහා  වාරිමාර්ග, වනජීවි සහ වන සංරක්ෂණ අමාත්‍ය නීතිඥ පවිත්‍රා වන්නිආරච්චි මහත්මිය  පසුගියදා  (15)   අනුරාධපුර  පළුගස්වැව ප්‍රාදේශීය ලේකම්  කොට්ඨාසයට අයත්, මහමීගස් වැව  ප්‍රදේශයේ   සංචාරයක  නිරත වුවාය.
+🟩
 
-ව්‍යාපෘතිය  ක්‍රියාත්මක වන මහ මීගස්වැව වැඩ  බිම වෙත  පැමිණි පවිත්‍රා වන්නිආරච්චි මහත්මිය, එහි ඉංජිනේරුවන් සමඟ  ඉදිකිරීම් වල ප්‍රගතිය  සොයා බැලුවාය.
+Steps have been taken to expedite the construction of the North Central Province of the North Central Province of the North Central Province to go to the end of the year 2026.
 
-උතුරුමැද පළාත් මහ  ඇළ ව්‍යාපෘතිය හරහා අනාගතයේ දී   ජනතාව ගේ ජීවනෝපාය සංවර්ධනය ට ඇතිකරන  යහපත් සාධනීය   බලපෑම  අතිශය  වැදගත් බව එහිදී   පෙන්වා දුන් අමාත්‍යවරිය,  ඒ අනුව  ව්‍යාපෘතිය කඩිනමින්  සාර්ථකව අවසන් කිරීම සියළු දෙනා ගේ  වගකීමක් බව ද කියා සිටියාය.
+Attorney-at-Law Pavithra Wanniarachchi, Minister of Irrigation, Wildlife and Forest Conservation to investigate the construction of the project is to visit the Mahamialugas tank in Anuradhapura.
 
-මොරගහකන්ද  ජලාශය ඉදිකිරීමත් සමඟ එහි ජලය මහකනදරාව ජලාශය දක්වා රැගෙන යාම සඳහා වූ උතුරු මැද පළාත් ඇළෙහි ඉදිකිරීම් කටයුතු 2021 වර්ෂයේ දී ආරම්භ කරන ලදී.
+Mrs. Pavithra Wanniarachchi, who arrived in the Meegaswewa workplace, has traveled with its engineers.
+
+The Minister said that the promotional impact of the growth of the people's livelihood of the North Central Province through the future project is the most significant end of the project.
+
+The construction of the North Central Province canal in the North Central Province was started in the North Central Province to carry the Moragahakanda reservoir with Mahagahakanda.
+
+The share of the miles of 95 miles [95.8 km] comprised of 27.7 km tunnel.
 
 ...
 
 [Data](articles/57b5b806.json)
+
+[Extended Data](ext_articles/57b5b806.ext.json)
 
 ---
 
@@ -271,6 +315,20 @@ The average person does not give sufficient, or worse still, any thought to the 
 [Data](articles/deb96e52.json)
 
 [Extended Data](ext_articles/deb96e52.ext.json)
+
+---
+
+### இந்திய மீனவர்கள் 19 பேர் கைது
+
+*2024-03-17 02:24:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்கள்-19-பேர்-கைது/175-334781) · `ta`
+
+யாழ்ப்பாணம் கடற்பரப்புக்குள் எல்லை தாண்டி மீன்பிடியில் ஈடுபட்ட 19 இந்திய மீனவர்கள் இன்று அதிகாலை கைது செய்யப்பட்டனர்.
+
+யாழ்ப்பாணம், நெடுந்தீவுக் கடற்பரப்புக்குள் இரு படகுகளில் எல்லை தாண்டி மீன்பிடியில் ஈடுபட்ட வேளையே  கடற்படையினரால் அவர்கள் கைது செய்யப்பட்டனர்.
+
+◼️
+
+[Data](articles/0538e007.json)
 
 ---
 
@@ -2229,75 +2287,5 @@ The suspect had come to Wattala Police and he was arrested.
 [Data](articles/00d04a6e.json)
 
 [Extended Data](ext_articles/00d04a6e.ext.json)
-
----
-
-### Dry weather no more
-
-*2024-03-16 11:39:37* · [`adalk`](https://www.ada.lk/breaking_news/වියළි-කාලගුණය-තවදුරටත්/11-408635) · `si`
-
-Dry weather ends; thundershowers expected in Western, Sabaragamuwa, Central provinces, and Galle, Matara districts at night.
-
-🟩
-
-The Department of Meteorology states that there is a major dry weather in other lands except able to be found in a few places in the island.
-
-Thundershowers will develop at several places in the Western, Sabaragamuwa and Central provinces and at night or night in the Galle and Matara districts.
-
-◼️
-
-[Data](articles/8662b176.json)
-
-[Extended Data](ext_articles/8662b176.ext.json)
-
----
-
-### Resolution
-
-*2024-03-16 11:27:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/செல்வா-வழியில்-செல்ல-தீர்மானம்/73-334747) · `ta`
-
-The Batticaloa District Executive Committee unanimously passed a resolution for unity in the district. The Sri Lanka Tamil National Alliance (TNA) held a meeting, chaired by R. Sanakiyan, to unite on various TNA activities. The TNA will support the Batticaloa district in future activities, including the Tamil National Party's formation.
-
-🟩
-
-The Batticaloa District Executive Committee has unanimously passed a resolution that the Batticaloa district will continue to work in unity in the unity of the Batticaloa district.
-
-A meeting of the District Executive Committee of the Sri Lanka Tamil National Alliance (TNA) was held on Friday evening at the Public Library Auditorium in Batticaloa.
-
-District Executive Committee members participated in the meeting chaired by the District Branch of the Sri Lanka Tamil National Alliance (TNA) and Member of Parliament R. Sanakiyan.
-
-At a press conference held after the meeting was concluded, it was announced that the party was decided to unite to unite the party with a variety of issues on the activities of the TNA.
-
-Parliamentarian R. Sanakiyan, former MPs C. Yogeswaran, Gnan Sirinasan, Pa.. These comments were made at a media briefing organized by Saravanapavan.
-
-...
-
-[Data](articles/cad6355e.json)
-
-[Extended Data](ext_articles/cad6355e.ext.json)
-
----
-
-### Problem with online seat reservation
-
-*2024-03-16 11:26:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/Online-ஆசன-முன்பதிவில்-சிக்கல்/175-334746) · `ta`
-
-Sri Lanka Railways' new e-ticket system faced issues, inconveniencing passengers at Fort Railway Station. Despite online bookings, some didn't get seat reservations.
-
-🟩
-
-Railway passengers have accused the newly introduced enemy system for a booking on remote trains.
-
-As a result, many passengers who arrived at the Fort Railway Station were inconvenienced yesterday.
-
-Sri Lanka Railways recently introduced the first e -mail ticket and ecommerce rail seat booking system as a digitalization of the ticket booking process for ordinary passengers and public servants.
-
-According to reports, the tickets are allocated to the passengers who have been booked in the internet, but after they arrive at the railway station to booking the seat, some passengers have not been reserved for the seat.. Remble
-
-◼️
-
-[Data](articles/e8566441.json)
-
-[Extended Data](ext_articles/e8566441.ext.json)
 
 ---

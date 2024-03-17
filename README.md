@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 11:52:14**
+As of **2024-03-17 12:02:54**
 
 ## Newspaper Stats
 
-*Scraped **13,365** Articles*
+*Scraped **13,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,42 +17,84 @@ economynextcom | 712
 islandlk | 735
 adalk | 1,140
 adaderanalk | 1,614
-tamilmirrorlk | 1,630
+tamilmirrorlk | 1,632
 virakesarilk | 1,856
 dailymirrorlk | 2,043
-adaderanasinhalalk | 2,113
+adaderanasinhalalk | 2,114
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,362 (100.0%) of 13,365 articles have been extended.
+13,365 (100.0%) of 13,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### நான் தோற்றால் இரத்தக்களறி - டிரம்ப்
+### தலதாவை  தரிசனம்  செய்த யுவராஜ் சிங்
+
+*2024-03-17 11:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதாவை-தரிசனம்-செய்த-யுவராஜ்-சிங்/175-334788) · `ta`
+
+இந்திய கிரிக்கெட் அணியின் முன்னாள் கிரிக்கெட் வீரர்  யுவராஜ் சிங், கண்டியில் உள்ள வரலாற்று சிறப்புமிக்க ஸ்ரீ தலதா மாளிகைக்கு சென்று தரிசனம் செய்துள்ளார் .
+
+யுவராஜ் சிங் மற்றும் முன்னாள் கிரிக்கெட் வீரர்கள் பலர் கண்டியில் கிட்டத்தட்ட ஒரு வாரமாக தங்கியுள்ளதுடன்   பல்லேகல சர்வதேச கிரிக்கெட் மைதானத்தில் நடைபெறும் உலக லெஜண்ட் கிரிக்கெட் போட்டியில் பங்கேற்பதற்காகவே  அவர்கள்  கண்டி வந்துள்ளமை  குறிப்பிடத்தக்கது .
+
+◼️
+
+[Data](articles/7b4233ae.json)
+
+---
+
+### පාසල් සිසුවෙකුට පහරදුන් පොහොට්ටු ප්‍රා.ස මන්ත්‍රී පළායයි
+
+*2024-03-17 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194594) · `si`
+
+පාසල් සිසුවෙකුට පහරදුන් දිවුලපිටිය ප්‍රාදේශීය සභාවේ පොහොට්ටුවේ හිටපු මන්ත්‍රීවරයෙකු අත්අඩංගුවට ගැනීම සඳහා පොලීසිය විමර්ශනයක් ආරම්භ කර තිබේ.
+
+අදාළ පාසල් සිසුවාගේ මව චෝදනා කරන්නේ පහරකෑමට ලක්වු තම පුත්‍රයා දින පහක් තිස්සේ රෝහල්ගතකර සිටිමුත් සැකකාර මන්ත්‍රීවරයා මෙතෙක් අත්අඩංගුවට ගෙන නොමැති බවටය.
+
+පසුගිය 11 වනදා පාසල නිමවී සිය නිවස වෙත යමින් සිටියදී සැකකාර හිටපු මන්ත්‍රීවරයා බාඳුරාගොඩ නගරයේදී සිසුවාට පහරදී ඇත.
+
+මෙලෙස පහරකෑමට ලක්ව ඇත්තේ බාඳුරාගොඩ ප්‍රදේශයේ පදිංචි 16 හැවිරිදි වියේ පසුවන පාසල් සිසුවෙකි.
+
+පොලීසිය පවසන්නේ පහරදීමෙන් අනතුරුව සැකකාර මන්ත්‍රීවරයා ප්‍රදේශයෙන් පළාගොස් ඇති බවය.
+
+මේ අතර මීට පෙර අවස්ථාවකදී සංවර්ධන නිලධාරිනියකට ඉන්ධන පිරවුම්හලක් තුළදී පහරදීම සම්බන්ධයෙන් ද අදාළ සැකකාර මන්ත්‍රීවරයාට චෝදනා එල්ලවී තිබුණි.
+
+◼️
+
+[Data](articles/80013a0b.json)
+
+---
+
+### Blood if I lose - Trump
 
 *2024-03-17 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178924) · `ta`
 
-2024 ஜனாதிபதி தேர்தலில் நான் தோற்றால் அது இரத்தக்களறியை ஏற்படுத்தும் என  முன்னாள் அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் சர்ச்சை கருத்தினை வெளியிட்டுள்ளார்.
+Donald Trump claims losing the 2024 election would cause "bleeding," suggesting he can't sell foreign cars if elected. James Singer, Biden's spokesperson, criticizes Trump's comments, accusing him of seeking another January and rejecting his radical traffic ideas.
 
-அமெரிக்காவிற்கு வெளியே தயாரிக்கப்பட்ட கார்களிற்கு 100 வீத வரியை விதிப்போம் என தெரிவித்துள்ள டிரம்ப் நான் தெரிவு செய்யப்பட்டால் அந்த வெளிநாட்டு கார்களை விற்கமுடியாத நிலையேற்படும் எனவும் அவர் தெரிவித்துள்ளார்.
+🟩
 
-இதேவேளை டிரம்பின் இந்த கருத்து அவர் மற்றுமொரு ஜனவரி ஆறாம் திகதியை விரும்புகின்றார் என்பதை வெளிப்படுத்தியுள்ளது என ஜனாதிபதி ஜோ பைடனின் பிரச்சார பிரிவின் பேச்சாளர் ஜேம்ஸ் சிங்கெர் தெரிவித்துள்ளார்.
+Former US President Donald Trump has expressed controversy that if I lost the 2024 presidential election, it would cause bleeding.
 
-அமெரி;க்க மக்கள் டிரம்பின் தீவிரபோக்கினை தொடர்ந்து நிராகரித்துவருவதால் நவம்பர் தேர்தலில் அவர்கள் அவரை நிராகரிக்கப்போகின்றனர் எனவும் குறிப்பிட்டுள்ள அவர் அமெரிக்க மக்கள் அவரின் வன்முறை மீதான விருப்பம் பழிவாங்கும் குணம் ஆகியவற்றை நிராகரிக்கின்றனர் எனவும் தெரிவித்துள்ளார்.
+He said that if I was elected, Trump would be impossible to sell those foreign cars to the cars that were manufactured outside the United States.
+
+Meanwhile, James Singer, spokesman for President Joe Baiton's propaganda division, said that Trump's comment has revealed that he wants another January.
+
+He said that they were going to reject him in the November election as the people of the United States continue to reject Trump's radical traffic and that the American people are rejecting his desire for violence.
 
 ◼️
 
 [Data](articles/8b21ebc6.json)
 
+[Extended Data](ext_articles/8b21ebc6.ext.json)
+
 ---
 
 ### The government has hidden 1500 -page documents - the current police chief has ordered not to check a mystery lorry - Cardinal Malcolm Ranjith's new allegation
 
-*2024-03-17 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/178922) · `ta`
+*2024-03-17 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/178922) · `ta`
 
 Cardinal Malcolm Ranjith alleges the government withheld 1500-page documents, including key witnesses' statements, and issued misleading reports on the President's Commission's findings. He criticizes the government for not fully investigating the attack and accuses it of trying to sacrifice 23 Muslims. Azad Moulana, involved in the investigation, confirms his involvement and the release of the Army Investigation Division head and Jahran Qasim Group leader.
 
@@ -73,6 +115,22 @@ He also told the media that Cardinal had issued a full report after the governme
 [Data](articles/ccb3c9e3.json)
 
 [Extended Data](ext_articles/ccb3c9e3.ext.json)
+
+---
+
+### இலங்கை ரயிலில்  ’திறந்த மொட்டைமாடி’
+
+*2024-03-17 11:23:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-ரயிலில்-திறந்த-மொட்டைமாடி/175-334787) · `ta`
+
+இலங்கை ரயில்வேயின் பிரதான இயந்திர பொறியியல் திணைக்களம் திறந்த பார்வைத் தளத்தை உள்ளடக்கிய ரயில் பெட்டியை உருவாக்கியுள்ளது.
+
+உள்ளூர் மற்றும் வெளிநாட்டு சுற்றுலாப் பயணிகள் மலையகத்தின் இயற்கைக்காட்சிகளை ரசிக்க ஏதுவாக, முற்றிலும் உள்நாட்டில் கட்டப்பட்ட குறித்த  ஏற்பாடு, மலையக ரயில் சேவையில் எதிர்காலத்தில் சேர்க்கப்படும்.
+
+பாவனையில் இல்லாத பழைய ரோமானிய புகையிரத பெட்டியே இவ்வாறு புதிய பார்வைத் தளமாக மாற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/dcbb19fe.json)
 
 ---
 
@@ -115,6 +173,8 @@ Sri Lanka’s economy has expanded 4.5 percent in the December quarter, after tu
 ...
 
 [Data](articles/3f337bf5.json)
+
+[Extended Data](ext_articles/3f337bf5.ext.json)
 
 ---
 
@@ -715,6 +775,8 @@ The CEB is expected to pay an annuity to the developer over a time. The cost and
 ...
 
 [Data](articles/3662ffb0.json)
+
+[Extended Data](ext_articles/3662ffb0.ext.json)
 
 ---
 
@@ -2277,71 +2339,5 @@ The condolences have been given to the people who join the funerals and the peop
 [Data](articles/a16dd342.json)
 
 [Extended Data](ext_articles/a16dd342.ext.json)
-
----
-
-### There is insufficient water in the massive pond near the house
-
-*2024-03-16 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/178858) · `ta`
-
-The Muthuiyankattu pond in Mullaitivu district is unusually full, but residents claim their crops and wells are dry. Despite demands, authorities haven't opened the water. Former officials Sivapragasam Sivamohan and Durairasa Ravikaran have been involved. People are impacted by water shortages, and there's a demand for water in areas not yet serviced by contractors. The government plans to address this by the 31st, but residents are frustrated with the delay and destruction of their crops.
-
-🟩
-
-The Muthuiyankattu pond, which is one of the massive irrigation ponds in the Mullaitivu district, is currently 23 feet of water level. This year, the pond is full of water than the previous times, the water is found in the pond. But people are claiming that all their air crops are destroyed due to their lack of water supply and that there is no drinking water in their wells, but there has been no solution to the authorities to open the water.
-
-People allege that the authorities are indiscriminately despite the lack of water for drinking water in a well in a well in the land, about 300 meters from the pond cot.. In this case, the results of this have not been reached in the wake of various demands for the people to get their water.
-
-In this backdrop, former parliamentarian Sivapragasam Sivamohan and former Northern Provincial Council member Durairasa Ravikaran have been informed of their positions.
-
-...
-
-[Data](articles/fdc9ae82.json)
-
-[Extended Data](ext_articles/fdc9ae82.ext.json)
-
----
-
-### Buddhist Criticism
-
-*2024-03-16 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178864) · `ta`
-
-Buddhist criticism of Gotabhaya Rajapaksa, a former President, for betraying the country and people, highlighted by Ananda Nayaka Thera. Gotabhaya accused of surrounding himself with beneficiaries.
-
-🟩
-
-In the presence of a Buddhist President Mahinda Rajapaksa, another former President Gotabhaya has been harshly.
-
-Speaking at the Mahi Rajapaksa, Ananda Nayaka Thera said that Gotabhaya Rajapaksa, who was elected by the majority of the votes, betrayed the country and the people.
-
-Gotabhaya said that Gotabhaya had surrounded himself who thought he would benefit from Gotabhaya.
-
-Buddhism said that we have reported to him many times that Gotabhaya is on the wrong path. He has fallen.
-
-◼️
-
-[Data](articles/6bd95df0.json)
-
-[Extended Data](ext_articles/6bd95df0.ext.json)
-
----
-
-### Do not allow filling of paddy lands: Minister
-
-*2024-03-16 13:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Do-not-allow-filling-of-paddy-lands-Minister/108-278994) · `en`
-
-Agriculture and Plantation Industry Minister Mahinda Amaraweera advised officials not to allow land to be filled for any reasons, even though some individuals and groups try to fill paddy lands in the island and use it for various purposes.
-
-He said this while addressing the Agriculture Development Committee meeting held at the Padukka Divisional Secretariat, where measures to be taken to get the highest productivity from paddy lands, especially in urban areas, were discussed.
-
-There are about 10,000 acres of cultivable land in the Padukka area and the Minister instructed the agricultural instructors and agricultural research and production assistants to prepare a programme for the cultivation of vegetables needed by the city of Colombo and its suburbs.
-
-Also, the Minister said that it is no longer productive to cultivate fallow paddy lands and also mentioned that measures should be taken to use such fields for other crops.
-
-...
-
-[Data](articles/033b9807.json)
-
-[Extended Data](ext_articles/033b9807.ext.json)
 
 ---

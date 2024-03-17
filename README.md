@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 13:17:37**
+As of **2024-03-17 13:33:23**
 
 ## Newspaper Stats
 
-*Scraped **13,381** Articles*
+*Scraped **13,383** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ islandlk | 735
 adalk | 1,143
 adaderanalk | 1,615
 tamilmirrorlk | 1,637
-virakesarilk | 1,858
+virakesarilk | 1,859
 dailymirrorlk | 2,045
-adaderanasinhalalk | 2,114
+adaderanasinhalalk | 2,115
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,379 (100.0%) of 13,381 articles have been extended.
+13,381 (100.0%) of 13,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### සංචාරක හෝටල් දෙකක ගැටුමකින් පුද්ගලයෙකු මරුට
+
+*2024-03-17 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194595) · `si`
+
+මාතර, මිරිස්ස ප්‍රදේශයේ සංචාරක හෝටල් දෙකක් පවත්වාගෙන යන දෙපිරිසක් අතර ඇතිවූ ආරවුලකදී සිදුකළ පහරදීමකින් පුද්ගලයෙකු මියගොස් තිබේ.
+
+ගසක් කැපීම හේතුවෙන් හටගත් ආරවුලක් දුරදිගයාමෙන් තියුණු ආයුදයකින් පහරදී මෙලෙස පුද්ගලයෙකු ඝාතනය කර තිබුණේ ඊයේ පෙරවරුවේදීය.
+
+එහිදී මියගොස් තිබුණේ "මාකඳුරේ මදූෂ්ගේ" ගෝලයකු බව පැවසෙන "සන්ශයින් සුද්දාගේ" සමීපතමයෙකු බවට තොරතුරු අනාවරණය වී ඇති බව පොලීසිය පැවසීය.
+
+ඒ අනුව පරීක්ෂණ ආරම්භ කළ වැලිගම පොලිස් ස්ථානයේ නිලධාරීන් අදාළ ඝාතන සිද්ධියට සම්බන්ධ සැකකරුවන් සිව්දෙනෙකු අත්අඩංගුවට ගැනීමට කටයුතු කර තිබුණි.
+
+අත්අඩංගුවට ගත් පිරිස අතර සැකකරුවෙක් සහ සැකකාරියන් තිදෙනෙකු සිටින බව පොලීසිය පවසයි.
+
+සැකකරු උල්හවත්ත දෙවිනුවර ප්‍රදේශයේ පදිංචි 18 හැවිරිදි වියේ පසුවන අයෙකු වන අතර සැකකාරියන් වයස අවුරුදු 18,40 සහ 55 යන වයස්වල පසුවන මිරිස්ස සහ අහංගම යන ප්‍රදේශවල පදිංචිකරුවන්ය.
+
+සිද්ධියට සම්බන්ධ සැකකරුවන් දෙදෙනෙකු ප්‍රදේශයෙන් පළාගොස් ඇති අතර ඔවුන් සොයා වැඩිදුර විමර්ශන සිදුකරන බව පොලීසිය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/14b61d1d.json)
+
+---
+
+### உலகின் கவனத்தை ஈர்த்துள்ள ஒருபாலின திருமணம் - தனது நீண்டகால தோழியை மணமுடித்தார் அவுஸ்திரேலிய வெளிவிவகார அமைச்சர்
+
+*2024-03-17 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178934) · `ta`
+
+அவுஸ்திரேலியாவின் வெளிவிவகார அமைச்ச பெனிவொங் தனது நீண்டகாலதோழி சோபி அல்லோச்சசுடன் திருமணபந்தத்தில் இணைந்துகொண்டுள்ளார்.
+
+அடிலெய்ட் ஹில்ஸ் பகுதியில் சனிக்கிழமை இடம்பெற்ற இந்த திருமண நிகழ்வில் பிரதமர் அன்டனி அல்பெனிஸ் உட்பட  தொழில்கட்சியின் பல முக்கிய பிரமுகர்கள் கலந்துகொண்டுள்ளனர்.
+
+சமூக ஊடகங்களில் இது குறித்த தகவல்களை பதிவிட்டு;ள்ள பெனிவொங் இந்த விசேடமான நாளை எங்களின் பல நண்பர்கள் குடும்பத்தவர்கள் எங்களுடன் பகிர்ந்துகொள்ள முடிந்தமை குறித்து மகிழ்ச்சியடைவதாக தெரிவித்துள்ளார்.
+
+வெளிவிவகார அமைச்சர் 2007 இல் தனது வாழ்க்கை துணையை சந்தித்தார்.இவர்களிற்கு இரு பெண்பிள்ளைகள் உள்ளனர்.எனினும் இருவரும் தங்கள் தனிப்பட்ட வாழ்க்கை குறித்த விடயங்களை மிகவும் இரகசியமாக பேணிவருகின்றனர்.
+
+◼️
+
+[Data](articles/8b03b33a.json)
+
+---
 
 ### Disk. Youth kidnapped murder: Investigation into Navy's action
 
@@ -58,21 +100,31 @@ According to the news published in the media, the Human Rights Commission of Jaf
 
 ---
 
-### இந்து சமுத்திரத்தின் ஊடாக பயணம் செய்யும் இஸ்ரேலிய அமெரிக்க கப்பல்களை தாக்கியுள்ளோம் - ஹெளத்தி கிளர்ச்சியாளர்கள் தகவல்
+### We have attacked Israeli American ships traveling through the Indian Ocean
 
 *2024-03-17 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/178932) · `ta`
 
-இந்து சமுத்திரத்தின் ஊடாக பயணம் செய்யும் இஸ்ரேலிய அமெரிக்க கப்பல்களை இலக்குவைத்துள்ளதாக ஹெளத்தி கிளர்ச்சியாளர்கள் தெரிவித்துள்ளனர்.
+Haithi insurgents reportedly attacked Israeli US ships in the Indian Ocean, targeting three ships with missiles and drone strikes. This follows attacks in the Red Sea, leading to increased shipping concerns and potential impacts on international trade.
 
-இந்து சமுத்திரத்தின் ஊடாக பயணம் செய்யும் இஸ்ரேலிய அமெரிக்க கப்பல்களை இலக்குவைத்து ஏவுகணை தாக்குதல்களை மேற்கொண்டுள்ளதாக ஹெளத்தி கிளர்ச்சியாளர்கள் தெரிவித்துள்ளனர்.
+🟩
 
-செங்கடலில் மேற்கொண்டுவரும் தாக்குதலிற்கு அப்பால் இந்து சமுத்திரத்திலும் ஹெளத்தி கிளர்ச்சியாளர்கள் தங்கள் தாக்குதலை தீவிரப்படுத்தியுள்ளனர் என வீடியோ செய்தியொன்றில்தெரிவித்துள்ள அதன் பேச்சாளர் மூன்று இஸ்ரேலிய அமெரிக்க கப்பல்களை இலக்குவைத்து ஏவுகணை மற்றும் ஆளில்லா விமானதாக்குதல்களை மேற்கொண்டுள்ளதாகவும்  குறிப்பிட்டுள்ளார்.
+Haithi insurgents have said they targeted Israeli US ships traveling through the Indian Ocean.
 
-இந்து சமுத்திர தாக்குதல் குறித்து அமெரிக்க அதிகாரிகள் இதுவரை எந்த தகவலையும் வெளியிடவில்லை இந்த தகவல் உண்மையானதாக காணப்படும் பட்சத்தில் சர்வதேச வர்த்தகம் இதன் காரணமாக மோசமான பாதிப்புகளை எதிர்கொள்ளக்கூடும்.
+Haithi insurgents have reported that Israeli US ships that are traveling through the Indian Ocean have launched missile attacks.
+
+In a video news report, its spokesman, which has revealed that the Hindu insurgents have intensified their offensive in the Indian Ocean beyond the attack on the Red Sea, have targeted three Israeli US ships and have launched missiles and drone strikes.
+
+US officials have not yet released any information on the Indian Ocean attack, and if this information is real, international trade may face serious impacts.
+
+Shippieces have increased following the attacks of Health insurgents in the Red Sea, and some shipping companies have changed their paths.
+
+There have been concerns that the world's most trumpet seas can be affected by the attacks of the Haithi.
 
 ...
 
 [Data](articles/3b2be9f1.json)
+
+[Extended Data](ext_articles/3b2be9f1.ext.json)
 
 ---
 
@@ -102,17 +154,23 @@ Apart from this, many newly constructed Cabinet Roads have not been set up. As a
 
 ---
 
-### පොහොට්ටුවේ හිටපු මන්ත්‍රීවරයෙකු පාසල් සිසුවෙකුට පහර දී පළා ගිහින්
+### Former former MP in Pohon has been assaulted by a schoolgirl
 
 *2024-03-17 12:16:16* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-හිටපු-මන්ත්‍රීවරයෙකු-පාසල්-සිසුවෙකුට-පහර-දී-පළා-ගිහින්/11-408646) · `si`
 
-බාඳුරාගොඩ ප්‍රදේශයේ පදිංචි 16 හැවිරිදි පාසල් සිසුවෙකුට පහරදුන් දිවුලපිටිය ප්‍රාදේශීය සභාවේ පොහොට්ටුවේ හිටපු මන්ත්‍රීවරයෙකු අත්අඩංගුවට ගැනීම සඳහා පොලීසිය විමර්ශනයක් ආරම්භ කර තිබේ. පහරකෑ පාසල් සිසුවාගේ මව පවසන්නේ කරන්නේ පහරකෑමට ලක්වු තම පුත්‍රයා දින පහක් තිස්සේ රෝහල්ගතකර සිටිමුත් සැකකාර මන්ත්‍රීවරයා මෙතෙක් අත්අඩංගුවට ගෙන නොමැති බවටය.
+A former MP in Pohon assaulted by a schoolgirl's mother, hospitalized for five days. Police investigate the incident, suspecting the MP assaulted the student in Barandhuragoda on the 11th and fled. He's also accused of assaulting a development officer at a fuel station.
 
-පසුගිය 11 වනදා පාසල නිමවී  නිවස වෙත යමින් සිටියදී  හිටපු මන්ත්‍රීවරයා බාඳුරාගොඩ නගරයේදී සිසුවාට පහරදී ඇත. පොලීසිය පවසන්නේ පහරදීමෙන් අනතුරුව සැකකාර මන්ත්‍රීවරයා ප්‍රදේශයෙන් පළාගොස් ඇති බවය. මේ අතර මීට පෙර අවස්ථාවකදී සංවර්ධන නිලධාරිනියකට ඉන්ධන පිරවුම්හලක් තුළදී පහරදීම සම්බන්ධයෙන් ද අදාළ සැකකාර මන්ත්‍රීවරයාට චෝදනා එල්ලවී තිබුණි.
+🟩
+
+Police have launched an investigation into the arrest of a former MP in Baturupitiya Pradeshiya Yatt. The mother of the schoolgirl, the mother of his son, was assaulted and had been hospitalized for five days.
+
+Former MP has assaulted the student in Barandhuragoda town on the 11th. Police say that the suspect had fled the area after the attack.. Meanwhile, the suspect was accused of assaulting a development officer in a fuel station at the same time.
 
 ◼️
 
 [Data](articles/5466a8cd.json)
+
+[Extended Data](ext_articles/5466a8cd.ext.json)
 
 ---
 
@@ -124,7 +182,7 @@ Kurunegala, March 17 (Daily Mirror) - A future SJB government will make English 
 
 "We will make English medium education compulsory for students from Grade one to thirteen," he said addressing a youth rally in Kurunegala.
 
-"We will also teach young people learn Chinese, Hindi, Japanese, Information Technology and computer science free of charge," he also said.
+"We will also teach young people Chinese, Hindi, Japanese, Information Technology and computer science free of charge," he also said.
 
 ◼️
 
@@ -2277,53 +2335,5 @@ Litton Das was bowled out for the first and second matches of the One Day Cricke
 [Data](articles/eeb365cd.json)
 
 [Extended Data](ext_articles/eeb365cd.ext.json)
-
----
-
-### Russian polls: Putin is the president again
-
-*2024-03-16 15:53:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷிய-தேர்தலில்-விறுவிறுப்பு-மீண்டும்-புட்டின்-ஜனாதிபதியாக-வாய்ப்பு/50-334756) · `ta`
-
-Russian elections for president are underway, with Putin expected to win his 5th term. Despite Ukraine's involvement, voting is proceeding smoothly. Putin's victory is anticipated due to weak opposition.
-
-🟩
-
-Elections to elect a new president in Russia started on Friday (15). This election is going on today and tomorrow. In the midst of Ukraine, the entire Russia voting is being held.
-
-1 lakh polling stations across the country have been set up by the presidential election. People have been eagerly voting since morning. People in Ukraine regions and Russia are voting for the first time in this election.
-
-There is a fourth rivalry in this election. The Communist Party, the National Freedom Democratic Party and the New People's Party are in the context of President Putin's independent contest. Putin is expected to win the 5th time due to lack of strong opposition candidate.
-
-Russian President Vladimir Putin will rule for the 5th time. About 86 percent of the poll conducted by the Moscow Levada Center support Putin. It is noteworthy that Putin, who is one of the world's most powerful leaders, has been in office for nearly 20 years as Russia's president.
-
-...
-
-[Data](articles/30ed3adc.json)
-
-[Extended Data](ext_articles/30ed3adc.ext.json)
-
----
-
-### Passengers handed over to the police who stole the wallet on a private bus
-
-*2024-03-16 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178873) · `ta`
-
-A bus conductor in Sri Lanka was arrested for stealing a wallet from a passenger. The suspect, addicted to drugs, has a history of robbery.
-
-🟩
-
-The bus conductor has been arrested for allegedly stealing a wallet on a 101 passenger bus between Moratuwa and Parakkottai.
-
-The suspect has been handed over to the police after the other passenger revealed that the bus operator had stolen the passenger's wallet.
-
-Police investigations have revealed that the suspect is addicted to drug use and has been involved in the robbery of passengers' money and valuable items.
-
-The wallet of a passenger from Gampaha, who was traveling towards Moratuwa, has been stolen.
-
-◼️
-
-[Data](articles/6247164b.json)
-
-[Extended Data](ext_articles/6247164b.ext.json)
 
 ---

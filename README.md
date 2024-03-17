@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 17:17:49**
+As of **2024-03-17 17:34:27**
 
 ## Newspaper Stats
 
-*Scraped **13,406** Articles*
+*Scraped **13,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 712
 islandlk | 735
-adalk | 1,148
-adaderanalk | 1,618
+adalk | 1,149
+adaderanalk | 1,619
 tamilmirrorlk | 1,642
 virakesarilk | 1,859
 dailymirrorlk | 2,048
-adaderanasinhalalk | 2,122
+adaderanasinhalalk | 2,124
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,406 (100.0%) of 13,406 articles have been extended.
+13,406 (100.0%) of 13,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### 21 dead, 38 injured in bus collision with tanker in Afghanistan
+
+*2024-03-17 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98012/21-dead-38-injured-in-bus-collision-with-tanker-in-afghanistan) · `en`
+
+Twenty-one people were killed and 38 injured on Sunday in southern Afghanistan’s Helmand province when a bus collided with an oil tanker and a motorbike, provincial officials said.
+
+Deadly traffic accidents are common in the country, due in part to poor roads, dangerous driving on highways and a lack of regulation.
+
+“On Sunday morning, 21 people were killed and 38 people were injured due to a collision between a tanker, a motorcycle and a passenger bus,” the provincial information department said in a post on X.
+
+The accident took place on the Herat-Kandahar highway in Grishk district of Helmand province, it added.
+
+The collision caused the vehicles to ignite, Helmand governor spokesman Mohammad Qasim Riyaz told AFP.
+
+Images shared by the information department on social media showed charred, twisted metal scattered across the highway and the crushed cabin of the tanker.
+
+Clean up crews were on site removing the debris, according to officials.
+
+...
+
+[Data](articles/3e681a9a.json)
+
+---
+
+### ඇෆ්ගනිස්තානයේ බිහිසුණු අනතුරකින් 21ක් මරුට
+
+*2024-03-17 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194604) · `si`
+
+ඇෆ්ගනිස්තානයේ හෙල්මාන්ඩ් පළාතේ සිදුවු රිය අනතුරකින් පුද්ගලයින් 21 දෙනෙකු ජිවිතක්ෂයට පත්ව තිබේ.
+
+මාර්ගයේ ධාවනය වෙමින් තිබු මගී බස් රථයක් යතුරුපැදියක සහ ඉන්ධන බවුසරයක ගැටී පෙරළීගොස් ගිනි ගැනීමට ලක්වීමෙන් අනතුර සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+අනතුරෙන් තවත් පුද්ගලයින් 38 දෙනෙකු තුවාල ලබා රෝහල් ගතකර තිබේ.
+
+මේ අතර පසුගිය මාස 10ක කාලය තුළ ඇෆ්ගනිස්තානයේ සිදුවූ රිය අනතුරුවලින් පුද්ගලයින් 1600 අධික පිරිසක් මියගොස් තවත් 4000කට අධික පිරිසක් තුවාල ලබා ඇති බවයි වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/99d69807.json)
+
+---
+
+### ඇෆ්ගනිස්තානයේ බිහිසුණු අනතුරකින් 21ක් මරුට
+
+*2024-03-17 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194603) · `si`
+
+ඇෆ්ගනිස්තානයේ හෙල්මාන්ඩ් පළාතේ සිදුවු රිය අනතුරකින් පුද්ගලයින් 21 දෙනෙකු ජිවිතක්ෂයට පත්ව තිබේ.
+
+මාර්ගයේ ධාවනය වෙමින් තිබු මගී බස් රථයක් යතුරුපැදියක සහ ඉන්ධන බවුසරයක ගැටී පෙරළීගොස් ගිනි ගැනීමට ලක්වීමෙන් අනතුර සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+අනතුරෙන් තවත් පුද්ගලයින් 38 දෙනෙකු තුවාල ලබා රෝහල් ගතකර තිබේ.
+
+මේ අතර පසුගිය මාස 10ක කාලය තුළ ඇෆ්ගනිස්තානයේ සිදුවූ රිය අනතුරුවලින් පුද්ගලයින් 1600 අධික පිරිසක් මියගොස් තවත් 4000කට අධික පිරිසක් තුවාල ලබා ඇති බවයි වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/aea864b6.json)
+
+---
 
 ### Box with a stock of hairs
 
@@ -467,6 +527,18 @@ Pasting stickers and posters on the body of the bus will damge its paint and the
 [Data](articles/9aadb142.json)
 
 [Extended Data](ext_articles/9aadb142.ext.json)
+
+---
+
+### හෙට වැස්සක් ඇත්තේම නෑ
+
+*2024-03-17 13:54:56* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-වැස්සක්-ඇත්තේම-නෑ/11-408651) · `si`
+
+දිවයින පුරා හෙට දිනයේදී ප්‍රධාන වශයෙන්ම වැසි රහිත කාලගුණ තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි. හෙට දිනය සඳහා වන කාලගුණ අනාවැකිය නිකුත් කරමින් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව මේ බව පවසයි.
+
+◼️
+
+[Data](articles/6f2d40b6.json)
 
 ---
 
@@ -2265,117 +2337,5 @@ Ratnayaka emphasized the importance of commitment from all institutions responsi
 [Data](articles/b6766ce1.json)
 
 [Extended Data](ext_articles/b6766ce1.ext.json)
-
----
-
-### Popular Star, Ravi Riester's song to Indian cinema
-
-*2024-03-16 19:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194581) · `si`
-
-Ravi Riester, a star from Adarana, elevated Indian cinema with his song, "Passa," featuring Ravi, Dimithri, and Vijay Anthony. The song, launched by Think Music India, gained over 90 million YouTube views and was featured in "ROMEO," Indika Vijay Anthony's latest film. Riester's participation in Derana Dream Star Season 8 and his contributions to television songs on Derana further cemented his popularity.
-
-🟩
-
-A popular star that was born in Adarana recently managed to move the country's name to the international stage.
-
-The Derana Dream Star Season 8 stages of the 8 stages of the 8 stages of the 8 stages of the psychological selection of Sinhalese psychological philanthropy.
-
-The "Passa" that the song "Passa" is Ravi, Ravi, and Dimithri, the most popular singers.
-
-The number of visitors in the YouTube space is inherited to over 90 million visitors.
-
-Accordingly, the song in Sri Lanka is now popular in India.
-
-It is with the selection of this song as one of the latest films in the "ROMEO", which is the latest film of Indika Vijay Anthony.
-
-The song was recently launched with the world's well-known music brand Think Music India.
-
-The specialty is Ravi Roncer to sing the lyrics of the song by Vijay Anthony.
-
-The "vetel" was released to YouTube space and crossed the 2 million-million visitors within 2 days.
-
-Ravi Royrster was popular with the participation in the Derana Dream Star Season 8.
-
-...
-
-[Data](articles/a2ba8773.json)
-
-[Extended Data](ext_articles/a2ba8773.ext.json)
-
----
-
-### India to hold seven-phase general election starting April 19, results in June
-
-*2024-03-16 19:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/97999/india-to-hold-seven-phase-general-election-starting-april-19-results-in-june) · `en`
-
-India will hold a seven-phase general election starting on April 19, with the results to be declared on June 4.
-
-The Election Commission of India announced the schedule of the six-week marathon vote during a news conference in New Delhi on Saturday.
-
-Nearly 970 million voters – more than the entire population of the United States, the European Union and Russia combined – are eligible to cast their ballot, according to the poll panel’s data, making the election the largest democratic exercise in the world.
-
-“We will take democracy to every corner of the country,” Chief Election Commissioner Rajiv Kumar said as he announced the voting dates. “It is our promise to deliver a national election in a manner that we … remain a beacon for democracy around the world.”
-
-...
-
-[Data](articles/3d96e256.json)
-
-[Extended Data](ext_articles/3d96e256.ext.json)
-
----
-
-### NPP government to include ministers representing North: Anura Kumara
-
-*2024-03-16 19:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-government-to-include-ministers-representing-North-Anura-Kumara/108-279001) · `en`
-
-Vavuniya, March 16 (Daily Mirror)- A future National People’s Power (NPP) government must include ministers representing the North, NPP Leader Anura Kumara Dissanayake said today.
-
-Speaking at the Vavuniya District convention, he said they were already having discussions with the moderate Tamil leaders who are not extremist or racist.
-
-"There must be ministers representing the north in a future NPP government. We are already having discussions with the moderate Tamil leaders who are not extremist or racist. They must be part of the NPP government," he said.
-
-He said the NPP will resolve issues of the Tamils such as language issue, land issue and said that they would introduce constitutional amendments so as to ensure political rights of the Tamils.
-
-"We will assure you that we will take steps to resolve the language issue. We will ensure the right to deal with the state in your language," he added.
-
-◼️
-
-[Data](articles/b76dd302.json)
-
-[Extended Data](ext_articles/b76dd302.ext.json)
-
----
-
-### Chef is arrested for importing demonstrators
-
-*2024-03-16 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194580) · `si`
-
-A chef in Sigiriya is arrested for allegedly abusing a 20-25 year old. The case involves a Sri Lankan student studying in China, who was lured to Sri Lanka for demonstrations. She was tricked into sending nude photos, which were then used to blackmail her. The suspect, a resident of Rajamalawatta, Kandy, claimed to be a doctor and threatened the girl.
-
-🟩
-
-A chef has been arrested by the Computer Criminal Investigation Department in Sigiriya in the Sigiriya area in the Sigiriya area.
-
-Investigations personnel say that the suspect has been abused between 20 and 25 years old.
-
-A Sri Lankan student who studies China's designing Chinese was to the island on a short vacation in December.
-
-She had told his mother that she should engage in the field of demonstration in Sri Lanka to promote his course.
-
-Later, when her mother was conducted through Facebook, Nadeesha Bandara had an advertisement in the field of demonstration.
-
-The account was later associated with Nadeesha Bandara said that Nadeesha Bandara has said that he sent photocopies and photographs of the girl.
-
-Meanwhile, a message has said that the account ownership of the girl's nude photos from different postures.
-
-The young girl sent photos have been informed later that he must refer to a doctor to test her senses.
-
-Later, a person who appeared as a girl told her to have no fear and see the doctor.
-
-...
-
-[Data](articles/765cdc49.json)
-
-[Extended Data](ext_articles/765cdc49.ext.json)
 
 ---

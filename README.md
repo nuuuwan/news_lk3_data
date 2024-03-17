@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 00:33:03**
+As of **2024-03-18 00:47:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,459 (100.0%) of 13,460 articles have been extended.
+13,460 (100.0%) of 13,460 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,6 +67,8 @@ The salary hike of the Central Bank of Sri Lanka (CBSL) has been questioned and 
 ...
 
 [Data](articles/7f001dde.json)
+
+[Extended Data](ext_articles/7f001dde.ext.json)
 
 ---
 

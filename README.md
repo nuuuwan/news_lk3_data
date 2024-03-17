@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 06:56:51**
+As of **2024-03-17 07:20:56**
 
 ## Newspaper Stats
 
-*Scraped **13,318** Articles*
+*Scraped **13,333** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 124
 bbccomsinhala | 149
-dbsjeyarajcom | 186
+dbsjeyarajcom | 187
 newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 710
-islandlk | 722
+islandlk | 735
 adalk | 1,136
 adaderanalk | 1,610
-tamilmirrorlk | 1,621
+tamilmirrorlk | 1,622
 virakesarilk | 1,853
 dailymirrorlk | 2,041
 adaderanasinhalalk | 2,104
@@ -26,11 +26,61 @@ adaderanasinhalalk | 2,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,316 (100.0%) of 13,318 articles have been extended.
+13,318 (99.9%) of 13,333 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### Recent Indian films outclass most Hollywood movies
+
+*2024-03-17 06:26:00* · [`islandlk`](http://island.lk/recent-indian-films-outclass-most-hollywood-movies/) · `en`
+
+The major film awards – the 96th Oscars or Academy Awards – were awarded at a glittering event last weekend. Christopher Nolan directed Oppenheimer won eight Oscars, being nominated for 13. In all it has won 30 trophies. Record for most Oscars is jointly held by Ben Hur, Titanic and Lord of the Rings, each winning 11 Oscars. This global interest in films gave me the reason to write about an impression that has grown in me after seeing Netflix films. The selection offered in different areas of the world appears to be different. We in this geographical area seem to be having more eastern films, Hindi and Tamil mostly. My son in the US advises me to watch this or that film – not available in my Netflix streaming.
+
+...
+
+[Data](articles/7138b2f8.json)
+
+---
+
+### Rasoda Dairies shines in Gold at two Award Ceremonies
+
+*2024-03-17 04:07:00* · [`islandlk`](http://island.lk/upcoming-dairy-industry-player-rasoda-recognised-at-two-award-ceremonies/) · `en`
+
+Rasoda Dairies (Pvt) Ltd. (www.rasoda.lk) secured two Gold Awards at two prestigious award ceremonies. The Company bagged a Gold Award at the National Industry Excellence Awards 2023 organised by the Industrial Development Board (IDB) and another Gold Award (Dairy Products Category) at the Wayamba Vijayabhimani Entrepreneur Excellence Awards 2023 organised by the Wayamba Provincial Industrial Services Federation (WPISF).
+
+...
+
+[Data](articles/45bd7c7b.json)
+
+---
+
+### Hilton Colombo reveals renovated rooms infused with Lankan heritage
+
+*2024-03-17 04:07:00* · [`islandlk`](http://island.lk/hilton-colombo-reveals-renovated-rooms-infused-with-lankan-heritage/) · `en`
+
+Hilton Colombo proudly unveils its newly refurbished rooms and suites, designed to embrace the rich tapestry of Sri Lanka’s heritage, and are a testament to the country’s vibrant culture and renowned craftsmanship.
+
+The 192 refreshed rooms, including 80 fully renovated Superior Rooms, 96 Deluxe Rooms and 16 Suites feature a refined aesthetic that exudes elevated comfort and a strong sense of place with modern touches, thoughtful design, and expansive views of famous landmarks such as the Colombo Harbor and the Galle Face Green.
+
+...
+
+[Data](articles/6fe86d83.json)
+
+---
+
+### IIHS continues to revolutionise the healthcare industry with their theme ‘Api Piliganeemen Ihalai’
+
+*2024-03-17 04:07:00* · [`islandlk`](http://island.lk/iihs-continues-to-revolutionise-the-healthcare-industry-with-their-theme-api-piliganeemen-ihalai/) · `en`
+
+The International Institute of Health Sciences (IIHS) has been able to rise to the top among health education institutes in the South Asian region by further expanding their high-quality educational programmes designed for students who wish to pursue careers in the health sector, including nursing. Since its inception, the IIHS has been producing globally recognised healthcare professionals whose impact reverberates not only within the corridors of the institute but across the international healthcare industry. They have recently launched the theme “Piliganeemen Ihalai” (bearing a high recognition) with their widespread recognition for excellence in nurturing healthcare talent. They consider producing globally recognised healthcare professionals to be more than a mere goal – a resounding reality.
+
+...
+
+[Data](articles/c6ed67eb.json)
+
+---
 
 ### PickMe grows gig economy with women drivers in the lead
 
@@ -45,6 +95,38 @@ Apart from the ride hailing sector, the company is also providing opportunities 
 ...
 
 [Data](articles/d48c20a3.json)
+
+[Extended Data](ext_articles/d48c20a3.ext.json)
+
+---
+
+### Rainwater harvesting is an essential step to stave off impending disaster
+
+*2024-03-17 03:21:00* · [`islandlk`](http://island.lk/rainwater-harvesting-is-an-essential-step-to-stave-off-impending-disaster/) · `en`
+
+Much is being spoken and written about the scarcity of drinking water and water for other purposes as well as it is a global problem caused by rapid population increases. It is made worse by the resulting needs of the people in the production of industrial and agricultural goods which in turn require water for production. This is the second most pressing problem the world is faced with the rising population being the first.
+
+The average person does not give sufficient, or worse still, any thought to the need for conservation of water in the home, in agriculture, in industry or in its other uses. Conservationists say that a dangerous situation is looming ahead of us, individuals, nations and the world itself as the demand is increasing at an alarming rate while water supplies remain near constant. Consider for instance the following recent findings of the United Nations Population Fund (UNPF).
+
+...
+
+[Data](articles/deb96e52.json)
+
+---
+
+### குடிநீர் பிரச்சினைகளுக்கு தொலைபேசி இலக்கம்
+
+*2024-03-17 01:56:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடிநீர்-பிரச்சினைகளுக்கு-தொலைபேசி-இலக்கம்/175-334778) · `ta`
+
+நாட்டில் வறட்சி தொடர்ந்து வரும் நிலையில், குடிநீர் பிரச்சினைகளை எதிர்நோக்கும் பொதுமக்களுக்கு இடர் முகாமைத்துவ நிலையம் அவசர அழைப்பு இலக்கமொன்றை அறிவித்துள்ளது.
+
+குடிநீ​ரை பெற்றுக்கொள்வதில் காணப்படும்  சிக்கல்களை 117 என்ற இலக்கத்திற்கு அழைப்பை ஏற்படுத்தி அறிவிக்க முடியுமென இடர் முகாமைத்துவ நிலையத்தின் பிரதி பணிப்பாளர் பிரதீப் கொடிப்பிலி தெரிவித்தார்.
+
+அத்துடன், கிராம உத்தியோகத்தர்கள் ஊடாகவும், இந்த வறட்சிக் காலத்தில் குடிநீர் பிரச்சினைகள் தொடர்பில் தீர்வுகளை பெற்றுக்கொள்ள முடியும் எனவும் அவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/d4e5075c.json)
 
 ---
 
@@ -72,7 +154,51 @@ In addition, eight senior police superintendents have been transferred and promo
 
 ---
 
+### Sri Lankan who founded Bangkok law Firm that has prevailed for 130 years
+
+*2024-03-17 00:14:00* · [`islandlk`](http://island.lk/sri-lankan-who-founded-bangkok-law-firm-that-has-prevailed-for-130-years/) · `en`
+
+No answer to why Sinhalese solicitor split his original name into two
+
+Little did William Alfred Goone Tilleke know when he stepped ashore Siam in 1890 that he would create a law firm that would endure for over 130 years.
+
+In 1890, William Alfred Goone Tilleke, a 31-year-old Singhalese solicitor, came to Siam (now Thailand) to build his legal career. Within four years, Tilleke made an international name for himself through his successful defense of the Siamese military commander Phra Yod Muang Khwang, whose prosecution for killing a French officer was demanded by the Franco-Siamese treaty.
+
+...
+
+[Data](articles/3f324e28.json)
+
+---
+
 ### 2024-03-16 (Saturday)
+
+### My time at Hindu Ladies College
+
+*2024-03-16 23:46:00* · [`islandlk`](http://island.lk/my-time-at-hindu-ladies-college/) · `en`
+
+(This chapter on Goolbai Gunasekera’s Jaffna experience is excerpted from her book on her mother, Clara Motwani, Chosen Ground. The first chapter published last week was a response to ACB Pethiyagoda’s memoir of his time at Jaffna College.)
+
+Mrs. Visaladhy Sivagurunathan, a philanthropic Hindu lady, had gifted the property of Hindu Ladies’ College to the school in 1943. Mother was the school’s fifth Principal. Under her, the first Past Pupils’ Association was formed, with Mrs. Jeevaratnam Rasiah as its first President. Miss Thambu (Mother’s long suffering Tamil tutor) was its Secretary. Just recently, I was invited to speak to the Colombo branch of the HLC alumni.
+
+I met a former HLC teacher there — Mrs Navaratna, formerly Leela Ponniah — along with many old friends. The reverence in which Mother was held was very heart- warming, and it was a moving experience to hear the stories they related of instances in which Mother had touched — and sometimes directed — their lives.
+
+...
+
+[Data](articles/f0c6b561.json)
+
+---
+
+### Nissanka – God’s secret agent
+
+*2024-03-16 23:32:00* · [`islandlk`](http://island.lk/nissanka-gods-secret-agent/) · `en`
+
+It may have been in 1983 that Dilhan introduced me to Nissanka Wimalasuriya. My friend Herman Gunaratne has devoted an entire book — ‘God’s Secret Agent’ — to his association with Nissanka and the many extraordinary incidents involving him. What I was told was that Nissanka had a unique link with the Almighty, that he would pray to God seeking intervention in the lives of distressed people, and that such prayers were answered favourably. At first I did not believe this, but having prayed with him and personally experiencing the results of such prayer, I finally became convinced that Nissanka was indeed a man with a special gift or spiritual power.
+
+...
+
+[Data](articles/f1e178d6.json)
+
+---
 
 ### Police chair transfer
 
@@ -113,6 +239,20 @@ Senior Superintendent of Police AGU Herath as the Officer in Kurunegala
 [Data](articles/e5a283ba.json)
 
 [Extended Data](ext_articles/e5a283ba.ext.json)
+
+---
+
+### Empowering Seniors: The Role of Geriatric Physiotherapy
+
+*2024-03-16 22:37:00* · [`islandlk`](http://island.lk/empowering-seniors-the-role-of-geriatric-physiotherapy/) · `en`
+
+As the global population continues to age, the demand for specialized healthcare services tailored to the needs of seniors is on the rise. Among these essential services, physiotherapy plays a pivotal role in promoting mobility, independence, and overall well-being among the elderly population. In this article, we explore the significance of geriatric physiotherapy and the tailored interventions it offers to enhance the quality of life for seniors.
+
+With advancements in healthcare and improvements in life expectancy, the world is witnessing a significant demographic shift characterized by an aging population. According to the World Health Organization (WHO), the number of people aged 60 years and older is expected to double by 2050, reaching over two billion individuals worldwide. As individuals age, they encounter a myriad of physical changes and health challenges that can impact their mobility, functional abilities, and overall quality of life.
+
+...
+
+[Data](articles/69df84fa.json)
 
 ---
 
@@ -213,6 +353,20 @@ Economic and social stability is being created by the end of the past crises. Ou
 [Data](articles/c3f97035.json)
 
 [Extended Data](ext_articles/c3f97035.ext.json)
+
+---
+
+### THE GREATEST COMEBACK STORY NEVER TOLD
+
+*2024-03-16 22:15:00* · [`islandlk`](http://island.lk/the-greatest-comeback-story-never-told/) · `en`
+
+President Biden gave the final State of the Union speech of the first term of his presidency on Thursday, March 7, 2024. It was probably the most important speech in his long and distinguished career in public service, which spans over half a century. Biden represented Delaware in the Senate from 1973 to 2009, served as Vice-President in the administrations of President Barack Obama from 2009 to 2017, and the incumbent 46th President since January, 2021.
+
+President Biden is certainly no stranger to one of the most hallowed annual rituals in America, the State of the Union Speech, a ceremonial occasion to illustrate U.S. democracy in action. He was completely at ease in an environment most familiar to him, and his fiery performance in this vital speech tended to lay to rest immediate misgivings about his advanced age and ability to run for a second term.
+
+...
+
+[Data](articles/437dfad4.json)
 
 ---
 
@@ -585,6 +739,18 @@ The international food insecurity watchdog, the IPC, is expected to report soon 
 [Data](articles/83cc6637.json)
 
 [Extended Data](ext_articles/83cc6637.ext.json)
+
+---
+
+### How and Why Eastern Tiger Commander “Col” Karuna Revolted Against the LTTE Leaders Prabhakaran  20 Years ago.
+
+*2024-03-16 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83778) · `en`
+
+The Liberation  Tigers of Tamil Eelam(LTTE) organization fought the armed forces of Sri Lanka for 33 Years in pursuance of its political goal of establishing a separate state  called Tamil Eelam in the Northern and Eastern provinces of the Island. The LTTE known generally as the tigers  had the reputation of monolithic unity. This image was seriously dented in 1993 when the LTTE’s former deputy leader Gopaalswamy Mahendrarajah alias “Mahathaya” was arrested and executed  on the orders of tiger supremo Veluppillai Prabhakaran for alleged treason . There was also a related purge of cadres suspected of being Mahathaya loyalists.
+
+...
+
+[Data](articles/d25ded62.json)
 
 ---
 
@@ -1552,6 +1718,44 @@ The HRCSL headed by Justice L.T.B. Dehideniya inquired into the initial complain
 
 ---
 
+### Fast food giant McDonald’s suffers global tech outage
+
+*2024-03-16 12:58:00* · [`islandlk`](http://island.lk/fast-food-giant-mcdonalds-suffers-global-tech-outage/) · `en`
+
+Fast food giant McDonald’s has experienced systems failures in several countries that led to some of its restaurants being shuttered for hours, but ruled out cybersecurity issues as a potential cause of the problem.
+
+The United States-based chain said the “technology outage” on Friday affected operations in outlets around the world, including Australia, Japan and the United Kingdom.
+
+McDonald’s in Japan wrote on X that “operations are temporarily out at many of our stores nationwide” and called the incident a “system failure”.
+
+Patrik Hjelte, owner of several McDonald’s restaurants in central Sweden, told local newspaper Nya Wermlands Tidningen that all of the chain’s “restaurants are connected to a global network and that is what’s messed up”.
+
+It was not immediately clear how many stores were affected globally.
+
+...
+
+[Data](articles/330a0e22.json)
+
+---
+
+### President updated on challenges faced by the gem and jewellery industry
+
+*2024-03-16 12:32:00* · [`islandlk`](http://island.lk/president-updated-on-challenges-faced-by-the-gem-and-jewellery-industry/) · `en`
+
+President Ranil Wickremesinghe during a discussion held on Friday (15) afternoon at the Presidential Secretariat’s with stakeholders from the gems and jewellery industry, said that concessions would be provided to those engaged in the gems and jewellery sector.
+
+Extensive discussions were held regarding the challenges arising from the government’s new tax policies, which have had repercussions on the gem and jewellery industry, along with other pertinent issues concerning the sector.
+
+The President said that immediate changes to the tax policy was not feasible and added that efforts will be made to devise an effective system to enhance the gem and jewellery industry. He directed officials to collaborate with both the public and private sectors and draft a proposal addressing these issues within two weeks.
+
+Related Topics:gem and jewellery industrygovernment’s new tax policiesPresident Ranil WickremesingheSri Lanka Gem and Jewelery Association
+
+...
+
+[Data](articles/5d2183c2.json)
+
+---
+
 ### The fisherman who went to the marine industrySeverity
 
 *2024-03-16 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/178852) · `ta`
@@ -2075,309 +2279,5 @@ Therefore, the National Water Supply and Drainage Board has called for the suppo
 [Data](articles/477547c9.json)
 
 [Extended Data](ext_articles/477547c9.ext.json)
-
----
-
-### Water usage increases by 15%; use sparingly: Water Board
-
-*2024-03-16 10:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Water-usage-increases-by-15-use-sparingly-Water-Board/108-278988) · `en`
-
-Colombo, March 16 (Daily Mirror) - Due to the current dry weather, the usage of water has increased by 15%, and the National Water Supply and Drainage Board (NWS&DB) requests that consumers use water sparingly, NWS&DB Deputy General Manager Anuja Kaluarachchi said.
-
-She told the media that water is currently being released from six water supply systems in Hatton, Gampalawatta, Urubokka, Pussellawa, Pussella and Kotagala for the requirements of the consumers.
-
-Meanwhile, the Disaster Management Centre (DMC) said that three thousand families in Kegalle and Kurunegala are facing drinking water problems.
-
-◼️
-
-[Data](articles/2a095c56.json)
-
-[Extended Data](ext_articles/2a095c56.ext.json)
-
----
-
-### Govt. to appoint over 2,000 Grama Niladhari officers before end of April
-
-*2024-03-16 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97990/govt-to-appoint-over-2000-grama-niladhari-officers-before-end-of-april) · `en`
-
-State Minister of Home Affairs, Ashoka Priyantha on Friday (March 15) said that interviews for the recruitment of Grama Niladhari officers for a total of 2,002 vacant Grama Niladhari Divisions are currently underway.
-
-The selected candidates will be appointed before the end of April, he added.
-
-During a press briefing at the Presidential Media Centre (PMC) on the theme ‘Collective Path to a Stable Country’, Priyantha emphasized the potential of President Ranil Wickremesinghe’s agenda, stating that continued progress along this path could lead to significant improvements in the country’s economy and overall well-being.
-
-...
-
-[Data](articles/1ce3bc6b.json)
-
-[Extended Data](ext_articles/1ce3bc6b.ext.json)
-
----
-
-### Water dries in Victoria, Randenigala reservoirs
-
-*2024-03-16 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178839) · `ta`
-
-Victoria and Randenigala reservoirs in Victoria evaporate 8mm/day due to heavy weather, threatening future water shortages. Central Province Irrigation Engineer Mr. Dinesh Sumanasekara advises proper water management to mitigate this issue.
-
-🟩
-
-Central Province Irrigation Engineer Mr. Dinesh Sumanasekara says that about eight millimeters of water per day is evaporated from Victoria and Randenigala reservoirs due to heavy weather in the central hill country.
-
-He pointed out that although 88 percent of the total capacity of the major reservoirs to cultivate under the Minippe Scheme, the water is likely to cause water shortage in the future due to the water drowsiness.
-
-Therefore, when using the water, a proper water camp should be carried out, he added.
-
-◼️
-
-[Data](articles/6beebf71.json)
-
-[Extended Data](ext_articles/6beebf71.ext.json)
-
----
-
-### Transfer 18 police officers, including senior deputy police chiefs
-
-*2024-03-16 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/178836) · `ta`
-
-18 senior police officers, including 8 SDIGs, a DIG, 8 SSPs, and an SP, have been transferred under the IGP of the National Police Commission. Key transfers include SSP EMMS to CID Thegideniya and SSP KGAK. Piyasekara to Kalutara.
-
-🟩
-
-18 senior police officers, including Senior Deputy Inspector General of Police (SDIGS), have been transferred to implementation.
-
-These transfers have been issued under the Directorate of the Police Inspector (IGP) of the National Police Commission.
-
-The transferred officers include 8 Senior Deputy Inspector Generals of Police (SDIGs), a Deputy Inspector General of Police (DIG), 8 senior police superintendents (SSPs) and a Police Superintendent (SP).
-
-SSP EMMS, who is in charge of the Malkisa Police Division (OIC). He has been transferred to the Director of the Criminal Investigation Department (CID), Thegideniya.
-
-In this case, the Director of the current Criminal Investigation Department SSP KGAK. Piyasekara has been transferred to the Kalutara Police Division.
-
-௧. Ctrico. Under. A.. Ssh. Priyantha Weerasuriya - Prem Creams and Traffic Division to the North Central Provins
-
-௨. Chtiks. C. Medavatta - Prem Chaudenna Provins to Training & Hijiher Training Division
-
-...
-
-[Data](articles/8205d187.json)
-
-[Extended Data](ext_articles/8205d187.ext.json)
-
----
-
-### Sri Lanka has a good news from the ICC
-
-*2024-03-16 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194561) · `si`
-
-Sri Lanka and India are directly eligible for the 2026 20-20 World Cup, hosted by both countries.
-
-🟩
-
-Sri Lanka and India have hosted the equal hosting of the World Twenty20 Tournament.
-
-The International Cricket Council announced that Sri Lanka and India would be directly eligible to the 20 -20 World Cup in 2026.
-
-The 20 -20 World Cup and 20 teams will be held in 2026.
-
-◼️
-
-[Data](articles/30e5ee6f.json)
-
-[Extended Data](ext_articles/30e5ee6f.ext.json)
-
----
-
-### Sri Lanka, India to co-host ICC Men’s T20 World Cup in 2026
-
-*2024-03-16 09:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/97989/sri-lanka-india-to-co-host-icc-mens-t20-world-cup-in-2026) · `en`
-
-The Board of International Cricket Council (ICC) has green-lighted the qualification process for the Men’s T20 World Cup which will be co-hosted by Sri Lanka and India in 2026.
-
-Approval was given at the meeting of the Board convened in Dubai earlier this week.
-
-ICC said the future structure and context of international bilateral cricket was top of the agenda of this meeting.
-
-The 10th edition of the event will see 12 automatic qualifiers. These will include the joint hosts along with the top 8 teams from the ICC Men’s T20 World Cup 2024.
-
-Being the hosts, India and Sri Lanka will directly qualify for the tournament, while teams finishing in top 8 spots in the ICC T20 World Cup 2024 will qualify for the next edition as well.
-
-If India and Sri Lanka finish in the top 8, six other teams will qualify for the T20 World Cup 2026, if India and Sri Lanka finish at a position lesser than 8th in the 2024 edition, they will qualify along with teams finishing in top eight positions.
-
-...
-
-[Data](articles/8e2fd4d5.json)
-
-[Extended Data](ext_articles/8e2fd4d5.ext.json)
-
----
-
-### Law in the United States against the Dictok processor
-
-*2024-03-16 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178837) · `ta`
-
-A bill to control the Chinese processor, Dictok, was passed in the US Congress with 352 in favor and 65 against. It aims to protect individual rights and national security, not banning Dictok but its owner. Awaits President Biden's signature to become law.
-
-🟩
-
-The bill on controlling the Tik tok was filed in the US Parliament.
-
-Several countries, including India, have banned the Chinese processor, Dictok, a threat to personal rights and national security.
-
-In this case, a bill to control the Dictock processor was filed in the US Parliament. 352 voted in favor of this and 65 voted against this. By this the bill was successfully passed. It is noteworthy that the bill will become a law after President Joe Bidan signed.
-
-He said that the bill would not be banned by the Dictok processor, while controlling its owner and protecting the individual rights of the people. ”
-
-◼️
-
-[Data](articles/ae126b6d.json)
-
-[Extended Data](ext_articles/ae126b6d.ext.json)
-
----
-
-### India and Sri Lanka to co-host Men’s T20 World Cup 2026
-
-*2024-03-16 09:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-and-Sri-Lanka-to-co-host-Mens-T20-World-Cup-2026/108-278987) · `en`
-
-Dubai, March 16 (Daily Mirror) - International Cricket Council (ICC) has approved the qualification process for Men’s T20 World Cup 2026. The 20-team tournament will be co-hosted by India and Sri Lanka, and will have a total of 12 automatic qualifiers.
-
-The top eight teams in the 2024 edition will join India and Sri Lanka as automatic qualifiers, with the remaining spots (between two and four, depending on host finishing positions) taken up by the next best-ranked sides in the ICC Men’s T20I rankings table as of 30 June, 2024.
-
-The remaining eight positions will be filled through the Regional Qualifiers.
-
-The ICC Board met in Dubai this week and the future structure and context of international bilateral cricket was top of the agenda.
-
-◼️
-
-[Data](articles/9258bc17.json)
-
-[Extended Data](ext_articles/9258bc17.ext.json)
-
----
-
-### Eighteen Police officers including 8 Senior DIGs and CID Director transferred
-
-*2024-03-16 08:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Eighteen-Police-officers-including-8-Senior-DIGs-and-CID-Director-transferred/108-278986) · `en`
-
-Colombo, March 16 (Daily Mirror) - Eighteen police officers including 8 senior DIGs and the Director of the Criminal Investigations Department (CID), have been transferred with immediate effect, the police said.
-
-Accordingly, 08 Senior DIGs, one DIG, 08 Senior Superintendents of Police (SSP), and one Superintendent of Police (SP) have been transferred.
-
-SSP K.G.A.K. Piyasekara, the Director of CID, has been transferred to the Kalutara Division, while Mount Lavinia Division SSP E.M.M.S. Dehideniya has been transferred as Director of CID.
-
-Senior DIG K. P. M. Gunaratne has been transferred from the position of Senior DIG in charge of the Northern Province to Senior DIG in charge of the Western Province.
-
-...
-
-[Data](articles/5ed115c4.json)
-
-[Extended Data](ext_articles/5ed115c4.ext.json)
-
----
-
-### The funeral tomorrow
-
-*2024-03-16 08:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194560) · `si`
-
-A funeral for Sri Lankan family members killed in Canada is scheduled for tomorrow at 1:00 PM, organized by Buddhist activities in Canada. It's open to the public and multi-religious, with the family's father, Dhanushka Wickremasinghe, expected to attend.
-
-🟩
-
-The funeral of the Sri Lankan family members who were killed in their home in the house of Canada to be held tomorrow (17).
-
-The activities have been organized by Buddhist activities in Canada and 01.00 pm in the country.
-
-It is organized as an open purpose for multi-religious and public.
-
-The father of the family, Dhanushka Wickremasinghe, is also expected to attend a funeral.
-
-◼️
-
-[Data](articles/a0d92dec.json)
-
-[Extended Data](ext_articles/a0d92dec.ext.json)
-
----
-
-### ICU crisis at Colombo Hospital, have to accept janitorial support: Dr. Bellana
-
-*2024-03-16 08:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICU-crisis-at-Colombo-Hospital-have-to-accept-janitorial-support-Dr-Bellana/108-278985) · `en`
-
-Colombo, March 16 (Daily Mirror) - A critical situation has arisen in the intensive care units (ICUs) at the National Hospital Colombo (NHC), requiring the assistance of janitorial workers for cleaning and maintenance purposes, Deputy Director of the National Hospital of Sri Lanka, Dr. Rukshan Bellana said.
-
-He informed the Daily Mirror that a total of 11,000 staff, including minor staff, are involved in operating the 24-hour service at the NHC every day.
-
-However, the situation at the hospital has changed over the past years, with hospital workers refusing to carry out their duties. Consequently, nurses and doctors have had to turn to the janitorial service staff for assistance, who now also handle the cleaning of drains, toilets and gully areas in the hospital.
-
-...
-
-[Data](articles/0a452098.json)
-
-[Extended Data](ext_articles/0a452098.ext.json)
-
----
-
-### Dry weather expected to prevail in many areas today
-
-*2024-03-16 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97988/dry-weather-expected-to-prevail-in-many-areas-today) · `en`
-
-Showers or thundershowers may occur at a few places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts in the evening or at night, the Department of Meteorology says.
-
-Misty conditions can be expected at some places in Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts in the morning.
-
-◼️
-
-[Data](articles/0cfbf3c6.json)
-
-[Extended Data](ext_articles/0cfbf3c6.ext.json)
-
----
-
-### Hot, dry weather expected in many parts of the island today
-
-*2024-03-16 08:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/97988/hot-dry-weather-expected-in-many-parts-of-the-island-today) · `en`
-
-Showers or thundershowers may occur at a few places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts in the evening or at night, the Department of Meteorology says.
-
-Misty conditions can be expected at some places in Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts in the morning.
-
-Meanwhile, in an advisory issued last evening, the Meteorology Department cautioned that high atmospheric temperatures would prevail in North Central, North Western and Eastern provinces as well as in Colombo, Gampaha, Monaragala, Mannar, Mullaitivu, Vavuniya and Hambantota districts today.
-
-Accordingly, the heat index, the temperature felt on human body, is likely to go up to ‘Caution Level’ in aforementioned areas.
-
-Under this level of temperature, fatigue is possible with prolonged exposure and activity, and continuing activity could result in heat cramps.
-
-...
-
-[Data](articles/379e2673.json)
-
-[Extended Data](ext_articles/379e2673.ext.json)
-
----
-
-### Change in the big chairs of the police - SDIG is transferred from the South
-
-*2024-03-16 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194559) · `si`
-
-Eight senior DIGs transferred from the South, including Mr. Priyantha Weerasuriya to training roles. Mr. M. Gunaratne moves to the Western Province. Senior Superintendent of Police of the Criminal Investigation Department, Mr. K Piyasekera, also transferred.
-
-🟩
-
-Eight Senior DIGs have been transferred with immediate effect.
-
-The Police Media Spokesman's office said that eight senior DIGs, 8 senior Superintendents of Police and a Superintendent of Police have been transferred.
-
-Mr. Senior DIG Priyantha Weerasuriya, who was in charge of the criminal and traffic district, was Senior DIG in charge of the North Central Province and Senior DIG in charge of the North Central Province. C. The Medawatte has been transferred to the training and higher training senior DIG.
-
-K. Business of the Northern Province. P. Mr. M. Gunaratne has been transferred to the Western Province and Community Police Tourism and Investment Investment.
-
-Senior Superintendent of Police of the Criminal Investigation Department. P.A. Mr. K Piyasekera has been in charge of the Mount Lavinia division, but in charge of the Mount Lavinia Division. M. M.S Devasena has been transferred to the Director of the Criminal Investigation Department.
-
-◼️
-
-[Data](articles/8b474553.json)
-
-[Extended Data](ext_articles/8b474553.ext.json)
 
 ---

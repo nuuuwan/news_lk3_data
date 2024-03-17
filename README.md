@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 19:17:56**
+As of **2024-03-17 19:33:10**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,424 (100.0%) of 13,425 articles have been extended.
+13,425 (100.0%) of 13,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### එක්දින ගැටුමේ ජය ආනන්දයට
+### To Ananda win the one day clash
 
 *2024-03-17 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194610) · `si`
 
-47 වන ආනන්ද-නාලන්ද එක්දින ක්‍රිකට් තරගය කඩුලු 5කින් ජයගැනීමට ආනන්ද විද්‍යාලය සමත්විය.
+Ananda College won the 47th match by 5 wickets, scoring 229 runs in reply to Nalanda's 228, losing 22 wickets in one ball.
 
-එහිදී ප්‍රථමයෙන් පන්දුවට පහරදුන් නාලන්ද විද්‍යාලය පන්දුවාර 50 අවසානයේ කඩුලු 8ක් දැවී ලකුණු 228ක් රැස්කරගත්තේය.
+🟩
 
-පිළිතුරු ඉනිම ක්‍රීඩා කළ ආනන්ද විද්‍යාල කණ්ඩායම පන්දුවාර 43යි එක් පන්දුවකදී  කඩුලු 5ක් පමණක් දැවී ලකුණු 229ක් රැස්කරගනිමින් තරගයේ ජය හිමිකරගත්තේය.
+Ananda College won the 47th Ananda College by 5 wickets.
+
+At first, Nalanda College scored 228 runs for the loss of 8 wickets at the end of 50 overs.
+
+In reply, Ananda College won 229 runs for the loss of 22 wickets in one ball.
 
 ◼️
 
 [Data](articles/c860ef61.json)
+
+[Extended Data](ext_articles/c860ef61.ext.json)
 
 ---
 

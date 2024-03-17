@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 07:52:45**
+As of **2024-03-17 07:39:38**
 
 ## Newspaper Stats
 
-*Scraped **13,337** Articles*
+*Scraped **13,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,57 +20,17 @@ adaderanalk | 1,610
 tamilmirrorlk | 1,623
 virakesarilk | 1,853
 dailymirrorlk | 2,041
-adaderanasinhalalk | 2,107
+adaderanasinhalalk | 2,104
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,323 (99.9%) of 13,337 articles have been extended.
+13,323 (99.9%) of 13,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
-
-### පිටිගල බිහිසුණු වෙඩිතැබීමේ අලුත්ම කතාව
-
-*2024-03-17 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194587) · `si`
-
-පිටිගල පොලිස් වසමේ ගුරුවල ප්‍රදේශයේ වෙළෙඳසැලක් ඉදිරිපිට සිදුකළ වෙඩිතැබීමේ සිද්ධියට සම්බන්ධ සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
-
-එසේ අත්අඩංගුවට ගෙන ඇත්තේ, එම අපරාධය සැලසුම් කරන ලද සැකකරුවෙකු හා ඊට ආධාර අනුබල දුන් සැකකරුවෙකු බව පොලීසිය පවසයි.
-
-එම අපරාධය සඳහා යොදාගත් බවට සැලකෙන ජංගම දුරකථන 03ක් හා යතුරුපැදි 02ක් පොලිස් භාරයට ගෙන ඇත.
-
-පසුගිය 11 වනදා පිටිගල පොලිස් වසමේ ගුරුවල හන්දිය ප්‍රදේශයේ වෙළෙඳසැලක් අසලදී යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් ටී 56 ගිනි අවියකින් වෙඩිතබා ද්විත්ව මනුෂ්‍ය ඝාතනයක් සිදුකර තවත් පුද්ගලයින් දෙදෙනෙකුට බරපතළ තුවාල සිදුකර තිබුණි.
-
-◼️
-
-[Data](articles/1da0f8d5.json)
-
----
-
-### බස් අනතුරකින් අයෙක් මරුට - 37ක් රෝහලට
-
-*2024-03-17 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194586) · `si`
-
-නෙල්ලිගල ජාත්‍යන්තර බෞද්ධ මධ්‍යස්ථානය වැඳ පුදා ගැනීමට පැමිණි බැතිමතුන් 38 දෙනෙකු රැගත් බස් රථයක් අනතුරට ලක්ව තිබේ.
-
-එම අනතුරින් රියදුරු ඇතුළු 37 දෙනෙකු තුවාල ලබා ඇති අතර තවත් අයෙක් මියගොස් ඇත.
-
-ඊයේ (16) සවස් කාලයේදී එම අනතුර සිදුව තිබුණේ, පේරාදෙණිය, කොබ්බෑකඩුව හන්දිය, යහලතැන්න ප්‍රදේශයේදීය.
-
-බැතිමතුන් රැගත් බස් රථය නෙල්ලිගල සිට පූඩළුඔය දෙසට ගමන් කරමින් තිබියදී බස් රථයේ රියදුරුට රථය පාලනය කර ගැනීමට නොහැකිව මීටර් 15ක් පමණ බෑවුමකට ලිස්සා ගොස් බස් රථය ගසක ගැටී එම අනතුර සිදුව තිබුණි.
-
-අනතුරින් රියදුරු ඇතුළු 38 දෙනෙකු තුවාල ලබා පේරාදෙණිය රෝහලට ඇතුළත් කිරීමේදී එක් පුද්ගලයෙකු මියගොස් තිබුණි.
-
-තුවාලකරුවන් අතරින් බරපතළ තත්ත්වයේ සිටින දෙදෙනෙකු මහනුවර රෝහල වෙත මාරුකරු යවා ඇති අතර සිද්ධිය සම්බන්ධයෙන් පේරාදෙණිය පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
-
-◼️
-
-[Data](articles/85f2a4ae.json)
-
----
 
 ### Recent Indian films outclass most Hollywood movies
 
@@ -83,28 +43,6 @@ The major film awards – the 96th Oscars or Academy Awards – were awarded at 
 [Data](articles/7138b2f8.json)
 
 [Extended Data](ext_articles/7138b2f8.ext.json)
-
----
-
-### අද කාලගුණය
-
-*2024-03-17 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194585) · `si`
-
-අද (17) දිවයින පුරා ප්‍රධාන වශයෙන් වියළි කාලගුණික තත්ත්වයක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේනදය කරයි.
-
-එම දෙපර්තමේන්තුව සඳහන් කරන්නේ, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ කළුතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බවය.
-
-මේ අතර දිවයින වටා වන මුහුදු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණික තත්ත්වයක් පවතී.
-
-කන්කසන්තුරය සිට ත්‍රිකුණාමලය හරහා මඩකළපුව  දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළං ගිනිකොණ දෙසින්ද  මඩකළපුව  සිට පොතුවිල් සහ හම්බන්තොට හරහා මාතර දක්වා  වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළං ඊසාන දෙසින්ද  හමා එන අතර  දිවයින වටා වන සෙසු මුහුදු ප්‍රදේශවල සුළං නිශ්චිත දිශාවකින් තොරව හමයි.
-
-සුළං වේගය පැ.කි.මී. (15-30) පමණ වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේනදය කරයි.
-
-දිවයින වටා වන මුහුදු ප්‍රදේශ සාමාන්‍ය ස්භාවයේ සිට මද වශයෙන් රළු වේ.
-
-◼️
-
-[Data](articles/2000385f.json)
 
 ---
 
@@ -2267,5 +2205,79 @@ Earlier this month, His Eminence Malcolm Cardinal Ranjith, the Young Journalists
 [Data](articles/4fec7874.json)
 
 [Extended Data](ext_articles/4fec7874.ext.json)
+
+---
+
+### FR challenging IGP Tennakoon’s appointment fixed for consideration
+
+*2024-03-16 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/97991/fr-challenging-igp-tennakoons-appointment-fixed-for-consideration) · `en`
+
+The Supreme Court on Friday (March 15) fixed a fundamental rights (FR) petition filed against the appointment of IGP Deshabandu Tennakoon to be taken up for consideration on April 02. The petition had been filed by Prof. Savitri Gunasekara earlier this month.
+
+When the petition was called before a 3-member Supreme Court judge bench led by Justice Preethi Padman Surasena, the petitioning party was ordered to send notices to the respondents.
+
+Subsequently, the petition was fixed for consideration on April 02.
+
+The petitioner has sought a Supreme Court ruling invalidating the appointment of the police chief.
+
+The Speaker of Parliament, the members of the Constitutional Council (CC), IGP Tennakoon and several others have been named as the respondents of the petition.
+
+...
+
+[Data](articles/8114f879.json)
+
+[Extended Data](ext_articles/8114f879.ext.json)
+
+---
+
+### 6-year-old girl who went to bring water to the house was killed
+
+*2024-03-16 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194562) · `si`
+
+A 6-year-old girl from Madurankuliya died after falling into a well and was killed during treatment at Puttalam Hospital.
+
+🟩
+
+A girl has died after falling into a well in Viranthadipa area in Madurankuliya.
+
+The girl was killed while receiving treatment at the Puttalam Hospital.
+
+The deceased has been identified as a six year old girl, a six-year-old Wareheragoda Madurankuli.
+
+Investigations have revealed that the girl had fallen into the well when the girl had fallen into the well with the help of his home from the well of her house.
+
+Madurankuliya Police are conducting further investigations.
+
+◼️
+
+[Data](articles/dbc30835.json)
+
+[Extended Data](ext_articles/dbc30835.ext.json)
+
+---
+
+### Did Adani bribe for a re -enactment project?- Investigate America
+
+*2024-03-16 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/178842) · `ta`
+
+The US is investigating if Gautam Adani's company bribed for an energy plan in India, focusing on Azure Power.
+
+🟩
+
+The US has launched an investigation into whether Gautam Adani has bribed India's Adani Group.
+
+Gautama Adani's company bribe;The US has begun investigations into the actions of the company's founder Gautam Adani.
+
+Investigations are underway to whether Gautam Adani's company or its associates have bribed the Indian authorities for an energy plan.
+
+Investigations are underway into India's recovery company Azure Power.
+
+Our business team is working on the basis of high standards, he said.
+
+◼️
+
+[Data](articles/7a27340a.json)
+
+[Extended Data](ext_articles/7a27340a.ext.json)
 
 ---

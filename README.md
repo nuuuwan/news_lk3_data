@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 22:33:16**
+As of **2024-03-17 22:49:55**
 
 ## Newspaper Stats
 
-*Scraped **13,452** Articles*
+*Scraped **13,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 699
 economynextcom | 712
 islandlk | 735
 adalk | 1,157
-adaderanalk | 1,625
+adaderanalk | 1,626
 tamilmirrorlk | 1,648
 virakesarilk | 1,864
 dailymirrorlk | 2,053
@@ -26,25 +26,53 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,450 (100.0%) of 13,452 articles have been extended.
+13,452 (100.0%) of 13,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### ஜனாதிபதி கல்விப் புலமைப் பரிசில் திட்டத்திற்கான விண்ணப்பங்களை ஏற்றுக்கொள்ளும் காலம் நீடிப்பு
+### India navy recaptures ship from Somali pirates and rescues crew
+
+*2024-03-17 22:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98018/india-navy-recaptures-ship-from-somali-pirates-and-rescues-crew) · `en`
+
+India’s navy recaptured a ship from Somali pirates off the Indian coast on Saturday, the South Asian country’s military said, rescuing the crew and ending a three-month takeover of the Maltese-flagged bulk carrier MV Ruen.
+
+The December hijacking of the ship was the first time since 2017 that any cargo vessel had been successfully boarded by Somali pirates.
+
+“#IndianNavy thwarts designs of Somali pirates to hijack ships plying through the region by intercepting ex-MV Ruen,” the navy posted on X, formerly Twitter, on Saturday night.
+
+The Indian warship Kolkata, “in the last 40 hours, through concerted actions, successfully cornered and coerced all 35 Pirates to surrender & ensured [the] safe evacuation of 17 crew members,” it added.
+
+Indian forces first intercepted the MV Ruen on Friday, the navy said.
+
+...
+
+[Data](articles/ad7ce7ba.json)
+
+---
+
+### Extension of Applications for the Presidential Education Scholarship Program
 
 *2024-03-17 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178963) · `ta`
 
-பல்வேறு பொருளாதார சிரமங்களுக்கு மத்தியில் கல்விகற்கும் பாடசாலை மாணவர்களை  ஊக்கமளிக்கும்  வகையில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் ஆலோசனையின் பேரில் ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவின் வழிகாட்டலில் ஜனாதிபதி நிதியத்தினால் நடைமுறைப்படுத்தப்படும் ஜனாதிபதி புலமைப்பரிசில் 2024/2025 திட்டத்திற்கான விண்ணப்பங்களை ஏற்றுக்கொள்வது ஏப்ரல் 01 ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளது.
+The Presidential Education Scholarship Program, advised by President Ranil Wickremesinghe, has been extended to April 1, 2024, to support students amid economic challenges. The Presidential Fund will distribute scholarships based on school size, with schools appointing selection committees. Eligible students will receive scholarships for 12 months from April 2024, with details on the program available on the Presidential Fund's official Facebook page.
 
-ஜனாதிபதி கல்விப் புலமைப்பரிசில் 2024/2025 திட்டத்திற்கான விண்ணப்பங்களை ஏற்றுக்கொள்வது தொடர்பாக பலரின் வேண்டுகோளுக்கு இணங்க இந்தக் கால நீடிப்பு செய்யப்பட்டுள்ளது.
+🟩
 
-ஜனாதிபதி கல்விப் புலமைப்பரிசில் திட்டம் தொடர்பில் அனைத்து வலயக் கல்விப் பணிப்பாளர்கள் ஊடாகவும் சகல அதிபர்கள், பிரதேச செயலாளர்கள், கிராம உத்தியோகத்தர்களுக்கு அறிவிக்கப்பட்டுள்ளதோடு, இந்த புலமைப்பரிசில் திட்டத்திற்கு விண்ணப்பிப்பதற்கு தகைமைகளைப் பூர்த்தி செய்துள்ள பெற்றோர்கள் உரிய விசாரணைகளை மேற்கொண்டு விண்ணப்பப் படிவத்தை பாடசாலை அதிபரிடம் கையளிக்குமாறு ஜனாதிபதி நிதியம் கோரியுள்ளது.
+At the advice of President Ranil Wickremesinghe, on the advice of President Ranil Wickremesinghe, the President's Scholarship Scholarship, which is being implemented by the President's Fund, has been extended till April 01, to encourage school students amidst various economic difficulties.
+
+This period has been extended at the request of many people to accept applications for the Presidential Education Scholarship 2024/2025 project.
+
+The Presidential Fund has been asked to investigate the President's Education Scholarship Program through all Zonal Education Directors, all Principals, Divisional Secretaries and Grama Niladhari Officers.
+
+Further, as per the instructions already issued by the Secretary of the Ministry of Education, the Regional Director of Education will be decided to provide the school to the school and how many scholarships should be given to the school in accordance with the number of students in each school.
 
 ...
 
 [Data](articles/27fc1e52.json)
+
+[Extended Data](ext_articles/27fc1e52.ext.json)
 
 ---
 
@@ -63,6 +91,8 @@ Zonal education directors have informed about the program to principals, divisio
 ...
 
 [Data](articles/9cf14f3d.json)
+
+[Extended Data](ext_articles/9cf14f3d.ext.json)
 
 ---
 
@@ -2335,29 +2365,5 @@ It is reported that the deceased girl is the youngest in the family and has a ba
 [Data](articles/ea9d0d40.json)
 
 [Extended Data](ext_articles/ea9d0d40.ext.json)
-
----
-
-### One billionth of the government to buy the barrier
-
-*2024-03-17 09:36:22* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-වී-මිලදි-ගන්න-රජයෙන්-බිලියනයක්/11-408644) · `si`
-
-The government, through the Ministry of Agriculture, has allocated funds for a barrier, with the Paddy Marketing Board's Anuradhapura Regional Manager involved. There are 33 paddy purchasing centers in Anuradhapura, including the newly opened Nochchiyagama Center. The private sector's reluctance to sell paddy at lower prices to the government has been noted.
-
-🟩
-
-The Paddy Marketing Board Anuradhapura Regional Manager, Anuradhapura Regional Manager, Anuradhapura District has allocated Rs.
-
-The Ministry of Agriculture has provided a sum of Rs.
-
-There are 33 paddy purchasing centers in the Anuradhapura district and the Nochchiyagama Center has already opened and opens the purchasing centers in the future.
-
-He added that the private sector is not interested in selling paddy to the government paddy storage due to the prices of the private sector at a higher price.
-
-◼️
-
-[Data](articles/a9e2709a.json)
-
-[Extended Data](ext_articles/a9e2709a.ext.json)
 
 ---

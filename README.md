@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 22:17:41**
+As of **2024-03-17 22:33:16**
 
 ## Newspaper Stats
 
-*Scraped **13,450** Articles*
+*Scraped **13,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 699
 economynextcom | 712
 islandlk | 735
 adalk | 1,157
-adaderanalk | 1,624
+adaderanalk | 1,625
 tamilmirrorlk | 1,648
-virakesarilk | 1,863
+virakesarilk | 1,864
 dailymirrorlk | 2,053
 adaderanasinhalalk | 2,134
 
@@ -26,43 +26,89 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,447 (100.0%) of 13,450 articles have been extended.
+13,450 (100.0%) of 13,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### ලොව ප්‍රථම රථ වාහන ප්‍රවාහන LNG නෞකාව හම්බන්තොට ට
+### ஜனாதிபதி கல்விப் புலமைப் பரிசில் திட்டத்திற்கான விண்ணப்பங்களை ஏற்றுக்கொள்ளும் காலம் நீடிப்பு
+
+*2024-03-17 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178963) · `ta`
+
+பல்வேறு பொருளாதார சிரமங்களுக்கு மத்தியில் கல்விகற்கும் பாடசாலை மாணவர்களை  ஊக்கமளிக்கும்  வகையில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் ஆலோசனையின் பேரில் ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவின் வழிகாட்டலில் ஜனாதிபதி நிதியத்தினால் நடைமுறைப்படுத்தப்படும் ஜனாதிபதி புலமைப்பரிசில் 2024/2025 திட்டத்திற்கான விண்ணப்பங்களை ஏற்றுக்கொள்வது ஏப்ரல் 01 ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளது.
+
+ஜனாதிபதி கல்விப் புலமைப்பரிசில் 2024/2025 திட்டத்திற்கான விண்ணப்பங்களை ஏற்றுக்கொள்வது தொடர்பாக பலரின் வேண்டுகோளுக்கு இணங்க இந்தக் கால நீடிப்பு செய்யப்பட்டுள்ளது.
+
+ஜனாதிபதி கல்விப் புலமைப்பரிசில் திட்டம் தொடர்பில் அனைத்து வலயக் கல்விப் பணிப்பாளர்கள் ஊடாகவும் சகல அதிபர்கள், பிரதேச செயலாளர்கள், கிராம உத்தியோகத்தர்களுக்கு அறிவிக்கப்பட்டுள்ளதோடு, இந்த புலமைப்பரிசில் திட்டத்திற்கு விண்ணப்பிப்பதற்கு தகைமைகளைப் பூர்த்தி செய்துள்ள பெற்றோர்கள் உரிய விசாரணைகளை மேற்கொண்டு விண்ணப்பப் படிவத்தை பாடசாலை அதிபரிடம் கையளிக்குமாறு ஜனாதிபதி நிதியம் கோரியுள்ளது.
+
+...
+
+[Data](articles/27fc1e52.json)
+
+---
+
+### Application deadline extended for Presidential Scholarship Program 2024/25
+
+*2024-03-17 22:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98017/application-deadline-extended-for-presidential-scholarship-program-202425) · `en`
+
+The acceptance of applications for the “Presidential Scholarship Program 2024/25” has been extended and a new deadline set for April 01, the President’s Media Division said.
+
+This program, initiated by the President’s Fund under the advice of President Ranil Wickremesinghe and guided by President’s Secretary Mr. Saman Ekanayake, aims to benefit students who are studying despite facing various economic difficulties, the statement said.
+
+The extension of the acceptance period for applications for the Presidential Scholarship Program 2024/25 has been implemented in response to numerous requests, it said.
+
+Zonal education directors have informed about the program to principals, divisional secretaries, and Grama Niladhari Officers. The President’s Fund has encouraged parents to inquire about the program and submit the application form to the school principal accordingly.
+
+...
+
+[Data](articles/9cf14f3d.json)
+
+---
+
+### World's first traffic service LNG ship
 
 *2024-03-17 22:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194614) · `si`
 
-ජීව වායු දෙමුහුන් බැටරි එනම් LNG භාවිතයෙන් බලගැන්වෙන ලොව ප්‍රථම රථ වාහන ප්‍රවාහන නෞකාව වන ද ජස්මින් ලීඩර් (The Jasmine Leader) නෞකාව හම්බන්තොට වරායට තිබේ.
+The Jasmine Leader, the world's first traffic service LNG ship, uses bio-hybrid batteries, marking a significant step in eco-friendly shipping. NYK introduced it in March.
 
-NYK නෞකා සේවයට අයත්, එය මෙරටට සේන්දුවූයේ මාර්තු පළමු සතියේදීය.
+🟩
 
-ජීව වායු බැටරි සහිත නෞකා සැලකෙන්නේ, පරිසර හිතකාමී, මීළඟ පරම්පරාවේ නෞකා ලෙසටය.
+The Jasmine Leader ship, the Jasmine Leader, is the world's first traffic ship that is empowered using bio-hybrid batteries, lng.
+
+The NYK came to the shipping, it came to the country in the first week of March.
+
+Bio-battery vessels are considered, as an eco-friendly and next generation vessel.
 
 ◼️
 
 [Data](articles/2e0f9c81.json)
 
+[Extended Data](ext_articles/2e0f9c81.ext.json)
+
 ---
 
-### திருகோணமலையில் இடம்பெற்ற மோட்டார் சைக்கிள் விபத்தில் இளைஞரொருவர் உயிரிழப்பு
+### Youth killed in motorcycle accident in Trincomalee
 
 *2024-03-17 22:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/178962) · `ta`
 
-திருகோணமலை-புகையிரத நிலையத்துக்கு அருகிலுள்ள கிறிஸ்தவ ஆலயத்திற்கு முன்னால் இடம்பெற்ற மோட்டார் சைக்கிள் விபத்தில் இளைஞரொருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A youth died in a Trincomalee motorcycle accident near a Christian temple, with two others injured. Thevanan, 39, and UDUsan, 32, from Gonzapuri, were involved.
 
-இரு இளைஞர்கள் மோட்டார் சைக்கிளில் பயணித்துக் கொண்டிருந்தபோது பின்புறமாக வேகமாக வந்த மோட்டார் சைக்கிள் மோதியதாகவும் மூவர் மதுபோதையில் வேகமாக வந்தமையினால் இவ்விபத்து இடம்பெற்றதாகவும் ஆரம்ப கட்ட விசாரணையின் மூலம் தெரியவந்துள்ளது.
+🟩
 
-இவ்விபத்தில் திருகோணமலை - கோனேஸபுரி ஆறாம் கட்டையைச்சேர்ந்த இரண்டு பிள்ளைகளின் தந்தையான  ஏ.தேவானந் (39வயது) என்பவரே உயிரிழந்ததாகவும் அவருடன் பயணித்து அதே பகுதியைச் சேர்ந்த 32 வயதுடைய  யூ.தனூஸன் காயம் அடைந்துள்ளதாகவும் தெரிய வருகின்றது.
+A youth has died in a motorcycle accident in front of a Christian temple near the Trincomalee-Pukkayira station, police said.
 
-அத்துடன் வேகமாக சென்று கொண்டிருந்த மற்றைய  மோட்டார் சைக்கிள் பயணித்த மூவரும் படுகாயமடைந்துள்ளதாகவும் 21, 30, 39 வயது உடையவர்களை எனவும் உயிரிழந்தவருடன்  பயணித்த இளைஞர் உட்பட மற்றைய மோட்டார் சைக்கிள் பயணித்த மூவரும் மொத்தமாக நான்கு பேர் திருகோணமலை பொது வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
+Preliminary inquiries revealed that the two youths were traveling on a motorbike and that the motorcycle was hit by a fast -paced motorcycle and that the trio had been hit by a fast.
+
+It is reported that A. Thevanan (39 years old), the father of two children from the Trincomalee - Gonzapuri sixth phase, died and the 32 -year -old UDUsan from the same area was injured.
+
+The other motorcycle passengers were injured and the three -year -olds, including 21, 30 and 39 years of age, and other motorcycles, who were traveling with the deceased, were receiving treatment at the Trincomalee General Hospital.
 
 ◼️
 
 [Data](articles/93b9b066.json)
+
+[Extended Data](ext_articles/93b9b066.ext.json)
 
 ---
 
@@ -79,6 +125,8 @@ In a post on social media platform X, Stalin alleged that the Indian Prime Minis
 ...
 
 [Data](articles/18a6db53.json)
+
+[Extended Data](ext_articles/18a6db53.ext.json)
 
 ---
 
@@ -2311,61 +2359,5 @@ He added that the private sector is not interested in selling paddy to the gover
 [Data](articles/a9e2709a.json)
 
 [Extended Data](ext_articles/a9e2709a.ext.json)
-
----
-
-### 28 years to win cricket World Cup
-
-*2024-03-17 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194590) · `si`
-
-Sri Lanka won the 1996 Cricket World Cup, defeating Australia in the final at Gaddafi Stadium, Lahore. Captain Arjuna Ranatunga's decision to bowl first led to Australia's 241-run total. Sri Lanka's 242-run victory, with Aravinda de Silva's 107 not out, marked their fifth consecutive win in the tournament.
-
-🟩
-
-Sri Lanka won the 1996 Cricket World Cup which won the 1996 cricket World Cup today (17).
-
-On March 17, 1996, a victorious day was a victorious day.
-
-Sri Lanka and Australia qualified for the final at Gaddafi Stadium, Lahore, Pakistan.
-
-Sri Lanka captain Arjuna Ranatunga, who won the toss and elected to bowl to bowl itself.
-
-The Australian team scored 241 runs for the loss of 7 wickets at the end of 50 overs.
-
-Mark Taylor scored 74 runs and Ricky Ponting scored 45 runs on behalf of Australia.
-
-Sanath Jayasuriya, Kumara Dharmasena, Muttiah Muralitharan and Chaminda Vaas took one wicket.
-
-Sri Lanka scored 242 runs for chance and scored 46 overs and scored 4 wickets in 46 overs.
-
-Aravinda de Silva scored 107 not out.
-
-Accordingly, the batting team won the batland in five consecutive cups.
-
-◼️
-
-[Data](articles/556f960c.json)
-
-[Extended Data](ext_articles/556f960c.ext.json)
-
----
-
-### Suspect injured in accident bus precipice
-
-*2024-03-17 09:24:15* · [`adalk`](https://www.ada.lk/breaking_news/නෙල්ලිගල-වදින්න-ආපු-බස්-රිය-ප්‍රපාතයකට-අයෙක්-මරුට-37කට-තුවාල/11-408643) · `si`
-
-A bus from Nalliyawala International Buddhist Center to Podeland crashed down a 15-meter slope, killing a 79-year-old passenger. The Peradeniya hospital admitted the injured, including drivers. Police are investigating.
-
-🟩
-
-A bus from the Nalliyawala International Buddhist Center to be held back to Podeland has been admitted to the Peradeniya hospital with a 15-meter slope.
-
-The accident had occurred last evening and a man was killed in a man of the injured. The victim was a 79 year old adult. The Peradeniya Police are conducting further investigations and the drivers are among the injured.
-
-◼️
-
-[Data](articles/faa6d731.json)
-
-[Extended Data](ext_articles/faa6d731.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 00:17:53**
+As of **2024-03-18 00:33:03**
 
 ## Newspaper Stats
 
-*Scraped **13,459** Articles*
+*Scraped **13,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 126
 bbccomsinhala | 149
 dbsjeyarajcom | 187
 newsfirstlk | 363
-dailyftlk | 699
+dailyftlk | 700
 economynextcom | 713
 islandlk | 735
 adalk | 1,157
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,457 (100.0%) of 13,459 articles have been extended.
+13,459 (100.0%) of 13,460 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,9 +48,27 @@ Two years after his ouster from office by a people’s movement, former Presiden
 
 [Data](articles/6daff272.json)
 
+[Extended Data](ext_articles/6daff272.ext.json)
+
 ---
 
 ### 2024-03-17 (Sunday)
+
+### Salary hike of CBSL: Can it be justified on grounds of financial performance and position?
+
+*2024-03-17 23:53:49* · [`dailyftlk`](https://www.ft.lk/columns/Salary-hike-of-CBSL-Can-it-be-justified-on-grounds-of-financial-performance-and-position/4-759585) · `en`
+
+The real bottom-line (i.e., profit or loss) of a Central Bank should be the ‘public good’ it has created
+
+Accounting profit or loss cannot be used to evaluate the performance of CBSL. Even if CBSL has been making accounting profits, such profits cannot be used as an indicator of the contribution, efficiency, and overall performance of it. Therefore, such profits, even if they exist, cannot be used to justify a salary hike based on performance
+
+The salary hike of the Central Bank of Sri Lanka (CBSL) has been questioned and challenged on several grounds including constitutional, legal, economic, financial, and ethics.
+
+...
+
+[Data](articles/7f001dde.json)
+
+---
 
 ### 21 Indian fishermen in the case of crossing the border
 
@@ -282,19 +300,29 @@ Accordingly, people should follow health advice such as inadequate watering, rel
 
 ---
 
-### தவறுகளை ஆராய்ந்து வாக்குகளை புத்திசாலித்தனமாக பயன்படுத்துங்கள்
+### Explore mistakes and use votes wisely
 
 *2024-03-17 20:54:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவறுகளை-ஆராய்ந்து-வாக்குகளை-புத்திசாலித்தனமாக-பயன்படுத்துங்கள்/175-334820) · `ta`
 
-எதிர்வரும் தேர்தலில் உங்கள் வாக்குகளை புத்திசாலித்தனமாக பயன்படுத்துங்கள், இந்த நாட்டை அழித்த பார்ப்பாரற்ற அரசியல்வாதிகளுக்கு ஏமாறாமல், அரசியல்வாதிகளின் கடந்த கால தவறுகளை ஆராய்ந்து உங்கள் வாக்குகளை புத்திசாலித்தனமாக பயன்படுத்துங்கள் என முன்னாள் இராணுவ தளபதியான பாராளுமன்ற உறுப்பினர் பீல்ட் மார்ஷல் சரத் பொன்சேகா கேட்டுக்கொண்டார்.
+Field Marshall Sarath Fonseka urges wise voting in upcoming elections, criticizing politicians who destroyed the country. He appeals for votes for those not fooled by politicians, emphasizing the need for leaders who understand the people's needs and future crises. Fonseka warns of the dangers of fraudulent politicians and the importance of principled politics.
 
-கட்சி சார்பற்ற அமைப்பினால் கண்டி ஜோர்ஜ் ஈ டி சில்வா பூங்கா முன்பாக, ‘மக்கள் புரட்சியை நோக்கி நிராயுதபாணிகளின் போராட்டம்’ என்ற தொனிப்பொருளில் ஏற்பாடு செய்யப்பட்ட பிரசாரத்தில் கலந்து கொண்டு ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே முன்னாள்
+🟩
 
-இந்த நாட்டில் நிலவும் சீர்கெட்ட அரசியல் கலாசாரம் மற்றும் தொலைநோக்கு பார்வையின்மை குறித்து மக்களுக்கு தெளிவுபடுத்துமாறும், அரசியல்வாதிகளிடம் ஏமாறாமல் நாட்டின் எதிர்காலத்தை முன்னெடுத்துச் செல்வோருக்கு தமது வாக்குகளைப் பயன்படுத்துமாறும் பொன்சேகா வேண்டுகோள் விடுத்தார்.
+Former military commander Field Marshall Sarath Fonseka has called for a wise politician to use your votes wisely in the upcoming election, not to be fooled by the politicians who destroyed this country, but to analyze your votes and wisely use your votes.
+
+In front of the George ED Silva Park in Kandy by a non -party organization
+
+Fonseka appealed to the people to make it clear to the people about the prevailing political culture and the vision of the country and to use his votes for those who are not fooled by politicians.
+
+To build the country for future generations, he said he should appoint the rulers who understand the heartbeat of a conscious people on the country and the future crises.. Although there must be parliament and democracy in the country
+
+Fonseka has urged politicians to act in principle and that the country will be in trouble again if they go to politics.
 
 ...
 
 [Data](articles/abd5c190.json)
+
+[Extended Data](ext_articles/abd5c190.ext.json)
 
 ---
 
@@ -2335,31 +2363,5 @@ The Sri Lankan government is carrying out these plans to get 70 percent of the e
 [Data](articles/88e4adc0.json)
 
 [Extended Data](ext_articles/88e4adc0.ext.json)
-
----
-
-### People in Israel take to the streets
-
-*2024-03-17 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194592) · `si`
-
-Protests in Tel Aviv demand Hamas fighters' release. Israel and Hamas conflict escalates, with over 100 Israeli nationals held by Hamas. Israeli Prime Minister Benjaminiu opposes government's stance.
-
-🟩
-
-The city of Tel Aviv in Israel was intensified, demanding the release of Hamas fighters in the custody.
-
-Israeli and Hamas took the conflict and five months have passed.
-
-However, more than one hundred of the Israeli nationals who were in the Hamas had been in the custody of Hamas.
-
-They say that the authorities should take talks between both parties and release hostages.
-
-The Government of Israel's Israeli Prime Minister Benjaminiu has also been against the government.
-
-◼️
-
-[Data](articles/b37db98f.json)
-
-[Extended Data](ext_articles/b37db98f.ext.json)
 
 ---

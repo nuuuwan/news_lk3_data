@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 19:49:47**
+As of **2024-03-17 20:02:57**
 
 ## Newspaper Stats
 
-*Scraped **13,427** Articles*
+*Scraped **13,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 712
 islandlk | 735
 adalk | 1,153
 adaderanalk | 1,622
-tamilmirrorlk | 1,643
+tamilmirrorlk | 1,644
 virakesarilk | 1,860
-dailymirrorlk | 2,049
+dailymirrorlk | 2,051
 adaderanasinhalalk | 2,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,425 (100.0%) of 13,427 articles have been extended.
+13,427 (100.0%) of 13,430 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### பொதுத் தேர்தலுக்கு முன்னர் ஜனாதிபதித் தேர்தல்?
+
+*2024-03-17 19:41:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தலுக்கு-முன்னர்-ஜனாதிபதித்-தேர்தல்/175-334813) · `ta`
+
+பொதுத் தேர்தலுக்கு முன்னர் ஜனாதிபதித் தேர்தலை முதலில் நடத்துவது தொடர்பில் அரசாங்கத் தலைவர்கள் அதிக கவனம் செலுத்தி வருவதாக தெரிவிக்கப்பட்டுள்ளது.
+
+இந்தக் கலந்துரையாடலில் ஜனாதிபதித் தேர்தலை நடத்துவதற்கு அதிக முன்னுரிமை வழங்கப்பட்டுள்ளதாக அரசாங்கத் தகவல்கள் தெரிவிக்கின்றன.
+
+மக்கள் சக்தி உட்பட பல எதிர்க்கட்சி அரசியல் கட்சிகளின் சில பாராளுமன்ற உறுப்பினர்களை இணைத்துக்கொண்டு இந்த தருணத்தில் ஜனாதிபதி தேர்தலை எதிர்கொள்வதே சிறந்தது என பெரும்பாலானவர்கள் இந்த கலந்துரையாடலின் போது கருத்து வெளியிட்டதாக அமைச்சர் ஒருவர் தெரிவித்தார்.
+
+ஐக்கிய தேசியக் கட்சியின் முதலாவது பேரணி குளியாப்பிட்டியவில் அதற்காக ஏற்பாடு செய்யப்பட்டிருந்தமை தெரிந்ததே.
+
+இது தொடர்பாக, எதிர்வரும் நாட்களில் மேலும் பல சுற்றுப் பேச்சுவார்த்தைகள் நடத்தப்பட உள்ளதாகவும், அந்த பேச்சுவார்த்தையின் பின்னர் தேர்தல் என்ன என்பதை துல்லியமாக அறிவிக்க அரசாங்கம் எதிர்பார்த்துள்ளதாகவும் அறியமுடிகின்றது. R
+
+◼️
+
+[Data](articles/e16958e7.json)
+
+---
+
+### CID arrests Immigration Deputy Controllers for issuing fake passports to criminals
+
+*2024-03-17 19:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-arrests-Immigration-Deputy-Controllers-for-issuing-fake-passports-to-criminals/108-279014) · `en`
+
+Colombo, March 17 (Daily Mirror) - A Deputy Controller and a former Deputy Controller of the Department of Immigration and Emigration were arrested by the Criminal Investigation Department for issuing passports to underworld criminals Nuresh Supun Dayaratne alias 'Heenatiyana Mahesh' and Shan Arosh Liyanage alias 'Mathugama Shan' based on false information.
+
+Police said one of the two arrested suspects is to be produced before the Vavuniya Magistrate's Court and the other suspect before the Kaduwela Magistrate's Court.
+
+The suspects have been arrested according to an investigation conducted under the supervision DIG of the CID Rohan Premaratne.
+
+...
+
+[Data](articles/02555ac0.json)
+
+---
 
 ### To Ananda win the one day clash
 
@@ -86,21 +122,29 @@ A Deputy Controller of Immigration & Emigration and a former Deputy Controller h
 
 ---
 
-### පාතාලයට යතුරු පැදි දුන් දෙදෙනෙක් අල්ලයි
+### Two arrested for underworld
 
 *2024-03-17 18:42:36* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලයට-යතුරු-පැදි-දුන්-දෙදෙනෙක්-අල්ලයි/11-408656) · `si`
 
-විදේශගතව සැඟව සිට මෙරට  අපරාධ මෙහෙයවන සංවිධානාත්මක අපරාධ කල්ලි නායකයකු  වන ඩුබායි සුද්දා ගේ අපරාධ සඳහා  යතුරුපැදි සොරාගෙන මුදලට සැපයූ පුද්ගලයන් දෙදෙනෙකු හෝමාගම පිටිපන ප්‍රදේශයේදී හොරයින් මත්කුඩු තොගයක් සමග අත්අඩංගුවට ගත් බවහෝමාගම  මූලස්ථාන පොලිසිය කියයි.
+Two individuals arrested in Pitipana, Homagama, for drug possession and motorbike theft. Police found 600 mph, 20 m motorcycle numbers and drugs. Suspects linked to underworld leaders. Investigations revealed theft of motorbikes and involvement in crimes.
 
-සැකකරුවන් දෙදෙනා සන්තකයේ තිබී මත්කුඩු ග්‍රෑම් 20 මිලිගෑම් 600 ක ප්‍රමාණයක් හා යතුරුපැදි  අංක තහඩු දෙකක් පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-මීට මාස කීපයකට ඉහතදී හෝමාගම, පිටිපන, ඉස්කෝලේ හන්දිය ආසන්නයේ නවතා තිබූ යතුරුපැදියක් අස්ථානගත වී ඇති බවට ලද පැමිණිල්ලකට අනුව ඒ සම්බන්ධයෙන් සී.සී.ටිවි කැමරා දර්ශන ඔස්සේ විමර්ශන කටයුතු සිදුකරමින් සිටි හෝමාගම පොලිස් ස්ථානයේ අපරාධ අංශයේ නිලධාරීන්ට මෙම සැකකරුවන් සම්බන්ධයෙන් ලද හෝඩුවාවක් මත හෝමාගම නගරයේදී  අත්අඩංගුවට ගැනීමට හැකි වූ බව පොලිසිය කියයි.
+Two persons who were arrested in the Pitipana, Homagama was arrested in Pitipana, Homagama, Homagama, a large number of drugs in the Pitipana.
 
-ඔවුන් දෙදෙනා පොලිස් ස්ථානය රැගෙන විත් සිදුකළ විමර්ශන වලදී පාතාල කල්ලි නායකයින් කිහිප දෙනෙකු සමග ඇති සබඳතා පිළිබඳව අනාවරණය කර ගැනීමට හැකිවූ බවද පොලිසිය පවසයි.
+Police have seized 600 mph, 20 m motorcycle numbers and two motorcycle numbers were in possession of the suspects.
+
+A complaint that a motorbike has been misplaced into the Pitipana, Homagama, Pitipana, a motorbike was missing near the CD-camera footage of the Pitipana, a motorbike was missing in Homagama.Police said.
+
+Investigations have revealed about relations with several underworld leaders in investigations carried out by them.
+
+Further investigations were carried out on the detention orders obtained from the Homagama Court regarding the detention orders of the Homagama Court on January 23 when one of these suspects visited the prison.By him. Police said that the suspects were involved in theft of motorbikes with the underworld leader, who had been identified by a VertSap phone call received by a telephone number received by a telephone number.
 
 ...
 
 [Data](articles/de9aeb4c.json)
+
+[Extended Data](ext_articles/de9aeb4c.ext.json)
 
 ---
 
@@ -658,6 +702,22 @@ Police said that the children who had taken away after the drowning were admitte
 
 ### Small elite group trying to stop the ’change’: Harini Amarasuriya
 
+*2024-03-17 15:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Small-elite-group-trying-to-stop-the-change-Harini-Amarasuriya/155-279011) · `en`
+
+Colombo, March 17 (Daily Mirror)- Claiming that the change of power is not going to be easy, NPP MP Harini Amarasuriya said a small elite group is doing everything in their power to stop the change from happening.
+
+Speaking at the London women's convention, she said the small elite group has been in control of what has happened in Sri Lanka for the last 76 years.
+
+She said this small group will not give up easily, adding that people of Sri Lanka have now realized that they are stronger than all of them.
+
+...
+
+[Data](articles/45b0bf77.json)
+
+---
+
+### Small elite group trying to stop the ’change’: Harini Amarasuriya
+
 *2024-03-17 15:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Small-elite-group-trying-to-stop-the-change-Harini-Amarasuriya/108-279011) · `en`
 
 Colombo, March 17 (Daily Mirror)- Claiming that the change of power is not going to be easy, NPP MP Harini Amarasuriya said a small elite group is doing everything in their power to stop the change from happening.
@@ -859,6 +919,8 @@ The model south-east Asian country, Singapore is reported to have chosen the 4th
 ...
 
 [Data](articles/6b1d2a28.json)
+
+[Extended Data](ext_articles/6b1d2a28.ext.json)
 
 ---
 
@@ -2287,71 +2349,5 @@ The government's new tax policies, the issues affected by the gem and the jewele
 [Data](articles/cbe9e9f5.json)
 
 [Extended Data](ext_articles/cbe9e9f5.ext.json)
-
----
-
-### 7 people killed in 2 months of dengue fever
-
-*2024-03-17 02:04:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-காய்ச்சலால்-2-மாதங்களில்-7-பேர்-பலி/175-334779) · `ta`
-
-7 people died from dengue fever in 2 months, with 18,556 cases reported. Last 15 days saw 2,132 new cases.
-
-🟩
-
-In addition, 18 thousand 556 dengue cases have been reported during the period, the National Dengue Eradication Unit said.
-
-Two thousand 132 dengue patients have been reported in the last 15 days this month.
-
-◼️
-
-[Data](articles/5c26666f.json)
-
-[Extended Data](ext_articles/5c26666f.ext.json)
-
----
-
-### Telephone number for drinking water problems
-
-*2024-03-17 01:56:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடிநீர்-பிரச்சினைகளுக்கு-தொலைபேசி-இலக்கம்/175-334778) · `ta`
-
-Due to ongoing drought, the Risk Management Center has established an emergency hotline, 117, for addressing drinking water issues. Deputy Director Pradeep Kodippili emphasized the importance of reporting these problems to ensure water safety.
-
-🟩
-
-As the drought continues in the country, the Risk Management Center has announced an emergency call for the public facing drinking water problems.
-
-Deputy Director of the Risk Management Center Pradeep Kodippili said that the problems found in drinking water can be made to call 117.
-
-He also said that through the Grama Niladhari, drinking water problems can be addressed during this drought during this drought.. (A)
-
-◼️
-
-[Data](articles/d4e5075c.json)
-
-[Extended Data](ext_articles/d4e5075c.ext.json)
-
----
-
-### Transfer to 18 police officers
-
-*2024-03-17 01:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/18-பொலிஸ்-அதிகாரிகளுக்கு-இடமாற்றம்/175-334777) · `ta`
-
-18 police officers transferred: 8 senior chiefs, 8 senior deputies, 1 deputy, and 8 superintendents promoted. Directive from Inspector General of Police.
-
-🟩
-
-Eight police officers, including eight senior police chiefs, have been transferred.
-
-According to the Police Media Division, the Inspector General of Police has issued a directive for relocation and new appointments in accordance with the resolution of the National Police Commission.
-
-Accordingly, eight Senior Deputy Inspector General of Police and a Deputy Inspector General of Police have been transferred.
-
-In addition, eight senior police superintendents have been transferred and promoted, the Police Media Division said. (A)
-
-◼️
-
-[Data](articles/a6cc6cca.json)
-
-[Extended Data](ext_articles/a6cc6cca.ext.json)
 
 ---

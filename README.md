@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 10:51:12**
+As of **2024-03-17 11:02:52**
 
 ## Newspaper Stats
 
@@ -26,49 +26,65 @@ adaderanasinhalalk | 2,112
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,352 (100.0%) of 13,358 articles have been extended.
+13,358 (100.0%) of 13,358 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### ඊශ්‍රායලයේ ජනතාව පාරට බසිති
+### People in Israel take to the streets
 
 *2024-03-17 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194592) · `si`
 
-හමාස් සටන්කරුවන් භාරයේ සිටින ඊශ්‍රායල ප්‍රාණඇපකරුවන් නිදහස් කරන ලෙසට බලකරමින් ඊශ්‍රායලයේ ටෙල් අවීව් නගරයේ දැවැන්ත විරෝධතාවක් පැවැත්වුණි.
+Protests in Tel Aviv demand Hamas fighters' release. Israel and Hamas conflict escalates, with over 100 Israeli nationals held by Hamas. Israeli Prime Minister Benjaminiu opposes government's stance.
 
-ඊශ්‍රායල සහ හමාස් යුද ගැටුම් ආරම්භවී මේ වනවිට මාස පහක කාලයක් ගත වි තිබේ.
+🟩
 
-කෙසේ වුව ද ඔක්තෝබර් 7 ප්‍රහාරයෙන් පසුව හමාස් සංවිධානය ප්‍රාණඇපයට ගත් ඊශ්‍රායල ජාතිකයින්ගෙන් සියයකට අධික පිරිසක් තවමත් සිටින්නේ හමාස් සංවිධානය භාරයේය.
+The city of Tel Aviv in Israel was intensified, demanding the release of Hamas fighters in the custody.
 
-ඔවුන් පවසන්නේ දෙපාර්ශ්වය අතර සාකච්ඡා පවත්වා ප්‍රාණඇපකරුවන් මුදා ගැනීමට බලධාරීන් කටයුතු කළ යුතු බවයි.
+Israeli and Hamas took the conflict and five months have passed.
 
-විරෝධතාකරුවන්ගේ ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතෙන්යාහු ප්‍රමුඛ රජයට ද එල්ල වී ඇත්තේ දැඩි විරෝධයකි.
+However, more than one hundred of the Israeli nationals who were in the Hamas had been in the custody of Hamas.
+
+They say that the authorities should take talks between both parties and release hostages.
+
+The Government of Israel's Israeli Prime Minister Benjaminiu has also been against the government.
 
 ◼️
 
 [Data](articles/b37db98f.json)
 
+[Extended Data](ext_articles/b37db98f.ext.json)
+
 ---
 
-### அதானி குழுமத்தின் காற்றாலை மின் திட்டம் குறித்து மன்னாரில் கவலைகள் கரிசனைகள் - இந்து
+### Concerns in Mannar on the wind power project of Adani Group - Hindu
 
 *2024-03-17 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178918) · `ta`
 
-மன்னாரில் அதானிகுழுமம் முன்னெடுக்கவுள்ள காற்றாலை மின் திட்டம் குறித்து கரிசனைகள் காணப்படுகின்றன என தெரிவித்துள்ள இந்து நாளிதழ்  இது பறவைகளிற்காக மரணபொறி என்ற கருத்து நிலவுவதாகவும் செய்தி வெளியிட்டுள்ளது
+The Hindu reports concerns over Adani Group's wind power project in Mannar, Sri Lanka, citing it as a threat to bird migration. Environmentalists and locals express worries about the project's impact on coastal areas. The Sri Lanka Investment Board granted permission for two wind power plants, aiming to produce 250 MW in Mannar and 34 MW in Poonakari. The project is part of Sri Lanka's goal to achieve 70% renewable energy by 2030. India has agreed to cooperate and has invested $11 million for energy projects. However, environmentalists fear the project will harm local biodiversity and livelihoods.
 
-இந்தியாவின் அதானி கிறீன்ஸ் நிறுவனத்தினால்  இலங்கையின் வடபகுதியில் முன்னெடுக்கப்படும் காற்றாலை மின் உற்பத்தி திட்டம் சர்ச்சைகளை எதிர்கொண்டுள்ளது.
+🟩
 
-கரையோர பகுதிகளிலும் வாழ்வாதாரத்திற்கும் இந்த திட்டத்தினால் ஏற்படக்கூடிய பாதிப்புகள் குறித்து சூழலியாளர்களும் உள்ளுர்மக்களும் கரிசனையும் கவலையும் வெளியிட்டுள்ளனர்.
+The Hindu newspaper has said that there is concern about the wind power project to be carried out in Mannar and that it is a death route for birds.
 
-இலங்கையின் வடபகுதியில் காற்றுவளம் அதிகமாக உள்ள இரண்டு பகுதிகளில் 42 மில்லியன் டொலரில் இரண்டு காற்றாலை மின்உற்பத்தி  திட்டததை முன்னெடுப்பதற்கு  கடந்த வருடம் இலங்கையின் முதலீட்டு சபை அனுமதி வழங்கியிருந்தது.
+The wind power generation project in the north of Sri Lanka has been facing controversy by India's Adani Greens.
 
-இந்த இரு திட்டங்கள் மூலம் மன்னாரில் 250வோட் மின்சாரத்தையும் பூநகரியில் 34 மெகாவோட் மின்சாரத்தையும் உற்பத்தி செய்ய முடியும்.இலங்கையின் மின்சாரதுறை அமைச்சர் காஞ்சன விஜயசேகர தனது எக்ஸ் தளத்தில் மார்ச் 4ம் திதி இதனை தெரிவித்திருந்தார்.
+Environmentalists and local people have expressed concern and concern over the impact of the project and the impacts of this project in the coastal areas.
+
+Last year, the Sri Lanka Investment Board had granted permission to carry out two wind power plants in two areas where the northern part of Sri Lanka is high.
+
+The two projects can produce 250 vot electricity in Mannar and 34 MW of electricity in Poonakari.
+
+He made this statement after signed with Adanigens's Executive Director Sagar Adani on the unprecedented power agreement.
+
+The Sri Lankan government is carrying out these plans to get 70 percent of the energy service by 2030 to address the increasing energy needs of Sri Lanka.
 
 ...
 
 [Data](articles/88e4adc0.json)
+
+[Extended Data](ext_articles/88e4adc0.ext.json)
 
 ---
 
@@ -87,6 +103,8 @@ Sri Lanka bounced back in the second ODI against Bangladesh to level the series 
 ◼️
 
 [Data](articles/998d217c.json)
+
+[Extended Data](ext_articles/998d217c.ext.json)
 
 ---
 
@@ -108,23 +126,31 @@ The deceased has been identified as a resident of Halpola, Pundaluoya while two 
 
 [Data](articles/ae643302.json)
 
+[Extended Data](ext_articles/ae643302.ext.json)
+
 ---
 
-### වේගපන්දු බළඇණියේ ප්‍රබලයා අහිමිවෙයි
+### Fasthabrand Bright Strong
 
 *2024-03-17 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194591) · `si`
 
-ආබාධයකට ලක්වීම හේතුවෙන් ශ්‍රී ලංකා වේගපන්දු යවන ක්‍රීඩක ඩිල්ෂාන් මධුෂංක ට බංග්ලාදේශ කණ්ඩායම සමඟ පැවැත්වෙන ඉදිරි තරග අහිමි වී තිබේ.
+Dilshan Madushanka injured in 2nd ODI, won't play in 3rd match, final ODI tomorrow.
 
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පැවසුවේ දෙවන එක්දින තරගය අතරතුර ඔහු පාදයේ ආබාධයකට ලක්වු බවය.
+🟩
 
-ආබාධ තත්ත්වය සුව අතට පත්නොවීම හේතුවෙන් ඩිල්ෂාන් මධුෂංක තෙවන තරගයට සහභාගී නොවන බව ක්‍රිකට් ආයතනය පැවසීය.
+Dilshan Madushanhanku Madushanka has lost the next team with the Bangladesh team.
 
-දෙරට අතර තීරණාත්මක අවසන් එක්දින තරගය හෙට (18) පැවැත්වීමට නියමිතය.
+Sri Lanka Cricket said that during the second ODI match, he was injured.
+
+Cricket said that Dilshan Madushanka will not participate in the third match due to the non-segment.
+
+The decisive final ODI will be held tomorrow (18).
 
 ◼️
 
 [Data](articles/f5bb7fe7.json)
+
+[Extended Data](ext_articles/f5bb7fe7.ext.json)
 
 ---
 
@@ -226,17 +252,23 @@ Accordingly, the batting team won the batland in five consecutive cups.
 
 ---
 
-### නෙල්ලිගල වදින්න ආපු බස් රිය ප්‍රපාතයකට අයෙක් මරුට 37කට තුවාල
+### Suspect injured in accident bus precipice
 
 *2024-03-17 09:24:15* · [`adalk`](https://www.ada.lk/breaking_news/නෙල්ලිගල-වදින්න-ආපු-බස්-රිය-ප්‍රපාතයකට-අයෙක්-මරුට-37කට-තුවාල/11-408643) · `si`
 
-නෙල්ලිගල ජාත්‍යන්තර ‌‌බෞද්ධ මධ්‍යස්ථානය වැඳපුදා ගැනීමට පැමිණ ආපසු පූඩළුඔය දක්වා ගමන් කරමින් තිබූ බස් රථයක් කොබ්බෑකඩුව යහලතැන්න ප්‍ර දේශයේදී මීටර් 15ක් පමණ වූ බෑවුමකට ගමන් කර ගසක ගැටීමෙන් සිදුවූ අනතුරකින් පුද්ගලයන් 38ක් තුවාල ලබා පේරාදෙණිය රෝහලට ‌ඇතුළත් කර තිබේ.
+A bus from Nalliyawala International Buddhist Center to Podeland crashed down a 15-meter slope, killing a 79-year-old passenger. The Peradeniya hospital admitted the injured, including drivers. Police are investigating.
 
-මෙම අනතුර ඊයේ සවස සිදුව තිබූ අතර තුවාල ලැබූවන් අතරින් ඒක් පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබුණි. මෙසේ ජීවිතක්ෂයට පත්ව තිබුණේ අවුරුදු 79ක් වන වැඩිහිටියෙකි. පේරාදෙණිය පොලීසිය වැඩිදුර පරික්ෂණ පවත්වන අතර තුවාල ලැබූවන් අතර රියදුරුද වෙයි.
+🟩
+
+A bus from the Nalliyawala International Buddhist Center to be held back to Podeland has been admitted to the Peradeniya hospital with a 15-meter slope.
+
+The accident had occurred last evening and a man was killed in a man of the injured. The victim was a 79 year old adult. The Peradeniya Police are conducting further investigations and the drivers are among the injured.
 
 ◼️
 
 [Data](articles/faa6d731.json)
+
+[Extended Data](ext_articles/faa6d731.ext.json)
 
 ---
 

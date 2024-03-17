@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 09:03:13**
+As of **2024-03-17 09:18:05**
 
 ## Newspaper Stats
 
-*Scraped **13,345** Articles*
+*Scraped **13,346** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,27 +20,49 @@ adaderanalk | 1,612
 tamilmirrorlk | 1,626
 virakesarilk | 1,853
 dailymirrorlk | 2,041
-adaderanasinhalalk | 2,108
+adaderanasinhalalk | 2,109
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,342 (100.0%) of 13,345 articles have been extended.
+13,345 (100.0%) of 13,346 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### பஸ் விபத்தில் 37 பேர் படுகாயம்
+### දුම්රියේ ගැටී පුද්ගලයෙක් මරුට
+
+*2024-03-17 08:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194589) · `si`
+
+මීරිගම පොලිස් වසමේ විල්වත්ත හා අඹේපුස්ස දුම්රිය ස්ථාන අතරදී දුම්රියේ ගැටී පුද්ගලයෙකු මියගොස් තිබේ.
+
+මරණකරු ඊයේ (16) උදෑසන කොළඹ සිට රඹුක්න බලා ධාවනය වූ දුම්රියේ ගැටී ඇත.
+
+එලෙස මියගොස් ඇති පුද්ගලයා වයස අවුරුදු 62ක් පමණ වන අතර ඔහුගේ අනන්‍යතාවය මෙතෙක් තහවුරුවී නොමැති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/6198e8ae.json)
+
+---
+
+### 37 people injured in bus accident
 
 *2024-03-17 08:47:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-37-பேர்-படுகாயம்/175-334782) · `ta`
 
-நெல்லிகலவில் இடம்பெற்ற பஸ் விபத்தில் ஒருவர் பலியாகியுள்ளார். 37 பேர் காயமடைந்துள்ளனர் என பொலிஸார் தெரிவித்தனர்
+In Nellikala, a bus accident resulted in 37 injuries and one death.
+
+🟩
+
+One person was killed in a bus accident in Nellikala. 37 people were injured, police said
 
 ◼️
 
 [Data](articles/c4c7cc70.json)
+
+[Extended Data](ext_articles/c4c7cc70.ext.json)
 
 ---
 
@@ -63,6 +85,8 @@ On March 11, two unidentified persons on a motorcycle had opened fire with a T-5
 ◼️
 
 [Data](articles/f39cd021.json)
+
+[Extended Data](ext_articles/f39cd021.ext.json)
 
 ---
 
@@ -318,17 +342,23 @@ The average person does not give sufficient, or worse still, any thought to the 
 
 ---
 
-### இந்திய மீனவர்கள் 19 பேர் கைது
+### 19 Indian fishermen arrested
 
 *2024-03-17 02:24:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்கள்-19-பேர்-கைது/175-334781) · `ta`
 
-யாழ்ப்பாணம் கடற்பரப்புக்குள் எல்லை தாண்டி மீன்பிடியில் ஈடுபட்ட 19 இந்திய மீனவர்கள் இன்று அதிகாலை கைது செய்யப்பட்டனர்.
+19 Indian fishermen arrested for fishing in Jaffna and Nedundewa seas by the navy.
 
-யாழ்ப்பாணம், நெடுந்தீவுக் கடற்பரப்புக்குள் இரு படகுகளில் எல்லை தாண்டி மீன்பிடியில் ஈடுபட்ட வேளையே  கடற்படையினரால் அவர்கள் கைது செய்யப்பட்டனர்.
+🟩
+
+19 Indian fishermen were arrested this morning for allegedly fishing across the Jaffna Sea.
+
+They were arrested by the navy while fishing in two boats inside the Jaffna and Nedundewa seas.
 
 ◼️
 
 [Data](articles/0538e007.json)
+
+[Extended Data](ext_articles/0538e007.ext.json)
 
 ---
 
@@ -2259,33 +2289,5 @@ The total electricity generation for yesterday was 49.46 GWh, and 25.6% of the e
 [Data](articles/0b260444.json)
 
 [Extended Data](ext_articles/0b260444.ext.json)
-
----
-
-### The husband who attacked the wife's nephew
-
-*2024-03-16 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194564) · `si`
-
-A 24-year-old woman from Maskeliya was severely injured at her job in Wattala. Her husband attacked her, assaulting her neck. He was arrested by Wattala Police.
-
-🟩
-
-A woman who was working in a Medical Testing Company in Wattala was severely injured and injured.
-
-The woman who was seriously injured in the attack is being treated.
-
-The victim was a resident of the 24-year-old Maskeliya area.
-
-Her husband had come to the Medical Testing Company of the woman yesterday morning (15).
-
-Police investigations have revealed that at the scene of the scene after the distance, he had assaulted her neck area.
-
-The suspect had come to Wattala Police and he was arrested.
-
-◼️
-
-[Data](articles/00d04a6e.json)
-
-[Extended Data](ext_articles/00d04a6e.ext.json)
 
 ---

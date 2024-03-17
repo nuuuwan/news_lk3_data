@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 18:33:56**
+As of **2024-03-17 18:51:41**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,128
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,419 (100.0%) of 13,420 articles have been extended.
+13,420 (100.0%) of 13,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### மக்கள் ரணில் விக்ரமசிங்கவை ஆதரிக்காவிட்டால் எரிபொருட்களுக்கு வரிசையில் இருக்க வேண்டிய நிலை ஏற்பட்டே ஆகும் - வஜிர அபேவர்த்தன
+### If people do not support Ranil Wickremesinghe -Vajira Abeywardena has to be in line for fuels -Vajira Abeywardena
 
-*2024-03-17 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178959) · `ta`
+*2024-03-17 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178959) · `ta`
 
-அரசியலமைப்பின் பிரகாரம் ஜனாதிபதி தேர்தலே இடம்பெறும். வெளிநாடுகளின் தேவைகளுக்காகவே சில குழுக்கள் பாராளுமன்ற தேர்தல் இடம்பெறவேண்டும் என்ற கருத்தைத் தெரிவித்து வருகின்றனர். ஜனாதிபதி தேர்தலில் தேசிய தலைவராகவே ரணில் விக்ரமசிங்க போட்டியிடுவார். மக்கள் அவருக்கு ஆதரவளிக்காவிட்டால் எரிபொருட்களுக்கு மீண்டும் வரிசையில் இருக்க வேண்டிய நிலை ஏற்பட்டே ஆகும் என ஐக்கிய தேசிய கட்சி பாராளுமன்ற உறுப்பினர் வஜிர அபேவர்த்தன தெரிவித்தார்.
+Ranil Wickremesinghe, UNP MP Vajira Abeywardena, and others are preparing for the presidential election. Abeywardena warns that if Wickremesinghe is not supported, fuel prices will rise. The election will follow the constitution, with campaigning focusing on overseas needs. The UNP has formed an alliance for the election, emphasizing national unity and responsibility. The national policy draft aims to stabilize the country until 2048, highlighting the importance of support for economic stability.
 
-கொழும்பில் சனிக்கிழமை (16) இடம்பெற்ற நிகழ்வொன்றின் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-அரசியலமைப்பின் பிரகாரம் ஆரம்பமாக ஜனாதிபதி தேர்தல் இடம்பெற வேண்டும். அதன் பிரகாரம் இந்த வருடம் ஒக்டோபர்,  செப்டம்பர் மாதத்துக்குள் தேர்தல் இடம்பெறும்.என்றாலும் ஜனாதிபதி தேர்தலுக்கு முன்னர் பாராளுமன்ற தேர்தல் இடம்பெற வேண்டும் என சில குழுக்கள் தெரிவித்து வருகின்றன. அவர்கள் வெளிநாடுகளின் தேவைக்காகவே இவ்வாறு  பிரசாரம் செய்து வருகின்றனர். இவர்கள் தொடர்பாக மக்கள் எச்சரிக்கையாக இருக்க வேண்டும்.
+The presidential election will be held according to the constitution. Some groups have been suggested that parliamentary elections should be held for the needs of overseas. Ranil Wickremesinghe will contest the presidential election as national leader. United National Party (UNP) MP Vajira Abeywardena said that if the people do not support him, the fuels have to be in line again.
+
+He made this comment to the media after an event in Colombo on Saturday (16).
+
+The presidential election should be held at the beginning of the Constitution. Accordingly, the election will be held by October and September this year.. They have been campaigning for the sake of overseas. People should be cautious about them.
 
 ...
 
 [Data](articles/b87fb6c0.json)
+
+[Extended Data](ext_articles/b87fb6c0.ext.json)
 
 ---
 

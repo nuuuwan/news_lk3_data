@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 08:03:06**
+As of **2024-03-17 08:17:44**
 
 ## Newspaper Stats
 
@@ -26,49 +26,61 @@ adaderanasinhalalk | 2,107
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,327 (99.9%) of 13,338 articles have been extended.
+13,335 (100.0%) of 13,338 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### පිටිගල බිහිසුණු වෙඩිතැබීමේ අලුත්ම කතාව
+### The late story of the stirring shot of the pitigala
 
 *2024-03-17 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194587) · `si`
 
-පිටිගල පොලිස් වසමේ ගුරුවල ප්‍රදේශයේ වෙළෙඳසැලක් ඉදිරිපිට සිදුකළ වෙඩිතැබීමේ සිද්ධියට සම්බන්ධ සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+Two suspects arrested in Pitigala for a shooting incident. Three phones and two bikes seized. Two unidentified victims seriously injured by unidentified assailants from Pitigala Police Division.
 
-එසේ අත්අඩංගුවට ගෙන ඇත්තේ, එම අපරාධය සැලසුම් කරන ලද සැකකරුවෙකු හා ඊට ආධාර අනුබල දුන් සැකකරුවෙකු බව පොලීසිය පවසයි.
+🟩
 
-එම අපරාධය සඳහා යොදාගත් බවට සැලකෙන ජංගම දුරකථන 03ක් හා යතුරුපැදි 02ක් පොලිස් භාරයට ගෙන ඇත.
+Two suspects have been arrested in front of a shooting incident in the Pitigala Police Division.
 
-පසුගිය 11 වනදා පිටිගල පොලිස් වසමේ ගුරුවල හන්දිය ප්‍රදේශයේ වෙළෙඳසැලක් අසලදී යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් ටී 56 ගිනි අවියකින් වෙඩිතබා ද්විත්ව මනුෂ්‍ය ඝාතනයක් සිදුකර තවත් පුද්ගලයින් දෙදෙනෙකුට බරපතළ තුවාල සිදුකර තිබුණි.
+The arrested suspect and a suspect, police said.
+
+Three mobile phones and two motorbikes have been taken into custody.
+
+Two unidentified persons who came in a motorcycle near the T-56 riffle were seriously injured by two unidentified persons who came from the Pitigala Police Division in Pitigala Police Division.
 
 ◼️
 
 [Data](articles/1da0f8d5.json)
 
+[Extended Data](ext_articles/1da0f8d5.ext.json)
+
 ---
 
-### බස් අනතුරකින් අයෙක් මරුට - 37ක් රෝහලට
+### One killed in bus accident - 37 hospitalized
 
 *2024-03-17 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194586) · `si`
 
-නෙල්ලිගල ජාත්‍යන්තර බෞද්ධ මධ්‍යස්ථානය වැඳ පුදා ගැනීමට පැමිණි බැතිමතුන් 38 දෙනෙකු රැගත් බස් රථයක් අනතුරට ලක්ව තිබේ.
+A bus accident in Peradeniya, Kobbekaduwa Junction, Yahalagetena, killed one and hospitalized 37, including the driver. The bus, carrying 38 devotees to Nalliyawala International Buddhist Center, slipped and hit a tree. Two injured were sent to Kandy Hospital.
 
-එම අනතුරින් රියදුරු ඇතුළු 37 දෙනෙකු තුවාල ලබා ඇති අතර තවත් අයෙක් මියගොස් ඇත.
+🟩
 
-ඊයේ (16) සවස් කාලයේදී එම අනතුර සිදුව තිබුණේ, පේරාදෙණිය, කොබ්බෑකඩුව හන්දිය, යහලතැන්න ප්‍රදේශයේදීය.
+Bus operated 38 devotees who had come to pay homage to the Nalliyawala International Buddhist Center.
 
-බැතිමතුන් රැගත් බස් රථය නෙල්ලිගල සිට පූඩළුඔය දෙසට ගමන් කරමින් තිබියදී බස් රථයේ රියදුරුට රථය පාලනය කර ගැනීමට නොහැකිව මීටර් 15ක් පමණ බෑවුමකට ලිස්සා ගොස් බස් රථය ගසක ගැටී එම අනතුර සිදුව තිබුණි.
+37 persons including the driver were injured and another died.
 
-අනතුරින් රියදුරු ඇතුළු 38 දෙනෙකු තුවාල ලබා පේරාදෙණිය රෝහලට ඇතුළත් කිරීමේදී එක් පුද්ගලයෙකු මියගොස් තිබුණි.
+The accident occurred in the evening yesterday (16), the accident occurred in the evening, Peradeniya, Kobbekaduwa Junction, Yahalagetena.
 
-තුවාලකරුවන් අතරින් බරපතළ තත්ත්වයේ සිටින දෙදෙනෙකු මහනුවර රෝහල වෙත මාරුකරු යවා ඇති අතර සිද්ධිය සම්බන්ධයෙන් පේරාදෙණිය පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The bus driver slipped the bus to 15 meters and slipped with a tree and hit the bus while bus carrying devotees were traveling towards the rid of the bus.
+
+38 persons including the driver of the accident were injured in the deaths of the Peradeniya Hospital.
+
+Two of the injured have been sent to the Kandy Hospital and the Peradeniya Police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/85f2a4ae.json)
+
+[Extended Data](ext_articles/85f2a4ae.ext.json)
 
 ---
 
@@ -86,25 +98,31 @@ The major film awards – the 96th Oscars or Academy Awards – were awarded at 
 
 ---
 
-### අද කාලගුණය
+### Weather today
 
 *2024-03-17 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194585) · `si`
 
-අද (17) දිවයින පුරා ප්‍රධාන වශයෙන් වියළි කාලගුණික තත්ත්වයක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේනදය කරයි.
+The Department of Meteorology predicts widespread rain across the country today, with heavy showers in Sabaragamuwa, Central provinces, Galle, and Kalutara districts. Wind speeds are expected to be 15-30 km/h, affecting sea areas from Kankesanthurai to Batticaloa.
 
-එම දෙපර්තමේන්තුව සඳහන් කරන්නේ, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ කළුතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බවය.
+🟩
 
-මේ අතර දිවයින වටා වන මුහුදු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණික තත්ත්වයක් පවතී.
+The Department of Meteorology will be mainly mainly across the country today (17).
 
-කන්කසන්තුරය සිට ත්‍රිකුණාමලය හරහා මඩකළපුව  දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළං ගිනිකොණ දෙසින්ද  මඩකළපුව  සිට පොතුවිල් සහ හම්බන්තොට හරහා මාතර දක්වා  වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළං ඊසාන දෙසින්ද  හමා එන අතර  දිවයින වටා වන සෙසු මුහුදු ප්‍රදේශවල සුළං නිශ්චිත දිශාවකින් තොරව හමයි.
+The Department states that in some places in the Sabaragamuwa and Central provinces and in some places are expected to be met with a murder in the Galle and Kalutara districts.
 
-සුළං වේගය පැ.කි.මී. (15-30) පමණ වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේනදය කරයි.
+Meanwhile, there is mainly in areas around the island.
 
-දිවයින වටා වන මුහුදු ප්‍රදේශ සාමාන්‍ය ස්භාවයේ සිට මද වශයෙන් රළු වේ.
+Winds of the sea areas off the coast extending from Kankesanthurai to Batticaloa and Winds from Batticaloa to Batticaloa via Batticaloa via Batticaloa.
+
+Winds will be the speed.. The Department of Meteorology is about 15-30.
+
+The sea areas around the island are slightly rough to normal.
 
 ◼️
 
 [Data](articles/2000385f.json)
+
+[Extended Data](ext_articles/2000385f.ext.json)
 
 ---
 
@@ -300,17 +318,25 @@ It may have been in 1983 that Dilhan introduced me to Nissanka Wimalasuriya. My 
 
 [Data](articles/f1e178d6.json)
 
+[Extended Data](ext_articles/f1e178d6.ext.json)
+
 ---
 
-### යුවරාජ් දළඳා වදින්න ඇවිත්
+### Yuarraj has come to her
 
 *2024-03-16 22:49:10* · [`adalk`](https://www.ada.lk/sports/යුවරාජ්-දළඳා-වදින්න-ඇවිත්/9-408640) · `si`
 
-ඉන්දීය හිටපු තුන් ඉරියව් ක්‍රිකට් ක්‍රීඩක යුවරාජ් සිං මේ දිනවල ශ්‍රී ලංකාවේ සංචාරයක නිරතවෙමින් සිටියි. ඒ අනුව ඊයේ දිනයේදී ඔහු මහනුවර දළඳා මාළිගාව වෙත් දළඳා වහන්සේගේ ආශීර්වාද ලබා ගැනිමට කටයුතු කර තිබුණි.
+Yuvraj Singh, former Indian cricketer, is in Sri Lanka, visiting Dalada Maligawa in Kandy and seeking blessings from the Dawale.
+
+🟩
+
+Former Indian three-third cricketer cricketer, Yuvraj Singh is on tour of Sri Lanka these days. Accordingly, he had taken measures to the Dalada Maligawa, Kandy and the blessings of the Dawale.
 
 ◼️
 
 [Data](articles/c8beeec0.json)
+
+[Extended Data](ext_articles/c8beeec0.ext.json)
 
 ---
 
@@ -367,6 +393,8 @@ With advancements in healthcare and improvements in life expectancy, the world i
 ...
 
 [Data](articles/69df84fa.json)
+
+[Extended Data](ext_articles/69df84fa.ext.json)
 
 ---
 
@@ -481,6 +509,8 @@ President Biden is certainly no stranger to one of the most hallowed annual ritu
 ...
 
 [Data](articles/437dfad4.json)
+
+[Extended Data](ext_articles/437dfad4.ext.json)
 
 ---
 
@@ -865,6 +895,8 @@ The Liberation  Tigers of Tamil Eelam(LTTE) organization fought the armed forces
 ...
 
 [Data](articles/d25ded62.json)
+
+[Extended Data](ext_articles/d25ded62.ext.json)
 
 ---
 

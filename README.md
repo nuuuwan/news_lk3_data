@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 22:49:55**
+As of **2024-03-17 23:02:53**
 
 ## Newspaper Stats
 
-*Scraped **13,453** Articles*
+*Scraped **13,455** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ economynextcom | 712
 islandlk | 735
 adalk | 1,157
 adaderanalk | 1,626
-tamilmirrorlk | 1,648
+tamilmirrorlk | 1,649
 virakesarilk | 1,864
-dailymirrorlk | 2,053
+dailymirrorlk | 2,054
 adaderanasinhalalk | 2,134
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,452 (100.0%) of 13,453 articles have been extended.
+13,453 (100.0%) of 13,455 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Indian forces first intercepted the MV Ruen on Friday, the navy said.
 ...
 
 [Data](articles/ad7ce7ba.json)
+
+[Extended Data](ext_articles/ad7ce7ba.ext.json)
 
 ---
 
@@ -160,6 +162,18 @@ In a post on social media platform X, Stalin alleged that the Indian Prime Minis
 
 ---
 
+### 'Satharawa Deepani' at BMICH
+
+*2024-03-17 21:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Satharawa-Deepani-at-BMICH/110-279002) · `en`
+
+"Satharawa Deepani" an event hosted by Minister of Transport and Media, Bandula Gunawardene, aimed to award scholarships to school children and honour actors of movies he has produced, was held at the BMICH on March 16, 2024, with the participation of notable artistes, namely Ravindra Randeniya, Swarna Mallawarachchi, Malini Fonseka and Anoja Weerasinghe. Prime Minister Dinesh Gunawardena graced the occasion as the chief guest. Pix by Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/47fb5f21.json)
+
+---
+
 ### Sri Lanka and Bangladesh face off in crucial ODI decider
 
 *2024-03-17 21:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-and-Bangladesh-face-off-in-crucial-ODI-decider/108-279013) · `en`
@@ -241,6 +255,24 @@ An investigation into the accident was under way, said Qadratullah, a traffic of
 [Data](articles/8ec3516c.json)
 
 [Extended Data](ext_articles/8ec3516c.ext.json)
+
+---
+
+### வாக்கெடுப்பு நேரத்தில் தாவலுக்கு வாய்ப்பு?
+
+*2024-03-17 20:40:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்கெடுப்பு-நேரத்தில்-தாவலுக்கு-வாய்ப்பு/175-334819) · `ta`
+
+சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவுக்கு எதிராக எதிர்க்கட்சிகள் முன்வைத்துள்ள நம்பிக்கையில்லாப் பிரேரணையை வெற்றி கொள்வதற்காக பாராளுமன்ற உறுப்பினர்களின் ஆதரவைப் பெறுவதற்கு எதிர்க்கட்சிகளும்  ஆளும் தரப்பும் இந்த நாட்களில் இரகசிய பேச்சுவார்த்தைகளை ஆரம்பித்துள்ளதாக அரசியல் வட்டாரங்களில் இருந்து அறியமுடிகிறது.
+
+அரசாங்க மற்றும் எதிர்க்கட்சியின் நான்கு முக்கிய அரசியல்வாதிகளின் வீடுகளில் இந்த கலந்துரையாடல் இடம்பெற்றுள்ளது வாக்கெடுப்பின்போது எம்.பி.க்களை தங்கள் பக்கம் அழைப்பதுதான் ஆளுங்கட்சியின் எதிர்க்கட்சிகளின் முக்கிய குறிக்கோளாகும்.
+
+இதற்கிடையில்? பல எம்.பி.க்கள் வாக்களிப்பதில் இருந்து விலகி இருக்க முடிவு செய்துள்ளதாகவும் அதே வட்டாரங்கள் குறிப்பிட்டுள்ளன.
+
+நம்பிக்கையில்லாப் பிரேரணையின் முடிவு தமக்கு சாதகமாக அமையும் பட்சத்தில், எதிர்வரும் தேர்தலில் அதனை பிரசாரக் கருவியாகப் பயன்படுத்திக்கொள்ளலாம் என அரசாங்க மற்றும் எதிர்க்கட்சித் தலைவர்கள் பலரும் தமது பாராளுமன்ற உறுப்பினர்களை ஊக்குவித்துள்ளதாக
+
+...
+
+[Data](articles/5cdfcd84.json)
 
 ---
 
@@ -2323,47 +2355,5 @@ As a result, he will return to begin rehabilitation work to recover from the inj
 [Data](articles/ff0a7fcc.json)
 
 [Extended Data](ext_articles/ff0a7fcc.ext.json)
-
----
-
-### 6 -year -old girl falls into the well and death
-
-*2024-03-17 09:53:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/6-வயது-சிறுமி-கிணற்றில்-விழுந்து-மரணம்/94-334783) · `ta`
-
-A 6-year-old girl in Maduranguliya fell into a well and died. Halam Fatima Sana, a resident of Virtha, was the youngest in her family with an 11-year-old sister.
-
-🟩
-
-Maduranguliya police said that a six -year -old girl in the Mathuranguliya Virtuu area fell into a well in a well.
-
-Halam Fatima Sana (06), a resident of Maduranguliya, Virtha, was admitted to the Muslim College this year.. It is reported that the deceased girl is younger in the family and has a sister at the age of 11.
-
-◼️
-
-[Data](articles/29ed68d3.json)
-
-[Extended Data](ext_articles/29ed68d3.ext.json)
-
----
-
-### 6 years of age falling into a well and death
-
-*2024-03-17 09:53:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/6வயது-சிறு-மி-கிணற்றில்-விழுந்து-மரணம்/94-334783) · `ta`
-
-A 6-year-old girl in Maduranguliya fell into a well and died. She was the youngest in her family, with a 11-year-old sister.
-
-🟩
-
-Maduranguliya police said that a six -year -old girl in the Mathuranguliya Virtuu area fell into a well in a well.
-
-Halam Fatima Sana (06), a resident of Maduranguliya, Virtha, was admitted to the Muslim College this year.
-
-It is reported that the deceased girl is the youngest in the family and has a baby girl at the age of 11.
-
-◼️
-
-[Data](articles/ea9d0d40.json)
-
-[Extended Data](ext_articles/ea9d0d40.ext.json)
 
 ---

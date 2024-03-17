@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 17:53:28**
+As of **2024-03-17 18:08:00**
 
 ## Newspaper Stats
 
-*Scraped **13,411** Articles*
+*Scraped **13,414** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 712
 islandlk | 735
-adalk | 1,149
-adaderanalk | 1,619
-tamilmirrorlk | 1,642
+adalk | 1,150
+adaderanalk | 1,620
+tamilmirrorlk | 1,643
 virakesarilk | 1,859
 dailymirrorlk | 2,048
 adaderanasinhalalk | 2,125
@@ -26,31 +26,57 @@ adaderanasinhalalk | 2,125
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,410 (100.0%) of 13,411 articles have been extended.
+13,411 (100.0%) of 13,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### දකුණ කැලඹුණු වෙඩිල්ලට පාර කියූ පුද්ගලයෙකුට වැඩ වරදියි
+### Heat advisory issued for most parts of the island
+
+*2024-03-17 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98013/heat-advisory-issued-for-most-parts-of-the-island) · `en`
+
+The Department of Meteorology has issued a heat index advisory for North-western, North-central, Eastern, Western provinces and Monaragala, Mannar, Rathnapura and Vavuniya districts.
+
+Issued at 4.00 p.m. today (17 March), the advisory is valid for tomorrow (18 March).
+
+It states that the heat index, the temperature felt on human body is expected to increase up to ‘Caution level’ at some places in North-western, North-central, Eastern, Western provinces and Monaragala, Mannar, Rathnapura and Vavuniya districts.
+
+As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity, while continuing activity could result in heat cramps.
+
+For this reason, members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to wear lightweight, white or light-coloured clothing, to check up on the elderly and the sick and never leave children unattended.
+
+...
+
+[Data](articles/261979fe.json)
+
+---
+
+### A person who told a struggle to the right turbulent
 
 *2024-03-17 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194605) · `si`
 
-අම්බලන්ගොඩ ගලගොඩ වෙළපාර ප්‍රදේශයේදී පසුගිය 11 වනදා රාත්‍රියේ සිදුකළ වෙඩිතැබීමේ සිද්ධියට අදාළව සැකපිට පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+A man was arrested for a shooting at Galagoda market, with heroin and 3 SIMCUD phones found. He's linked to Saman Boy. The incident led to 4 deaths and 3 injuries at a nearby shopping area.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇති පුද්ගලයා සන්තකයේ තිබී හෙරොයින් ග්‍රෑම් 2යි මිලිග්‍රෑම් 100ක් ද පොලීසිය සොයාගෙන ඇත.
+🟩
 
-එසේම දුරකථන සිම්කාඩ් පත් 3ක් ජංගම දුරකතනයක් ද සැකකරු සන්තකයේ තිබී පොලිස් භාරයට ගෙන තිබේ.
+A man was arrested on suspicion of the shooting incident in the Galagoda market last night.
 
-පොලීසිය පවසන්නේ වැඩිදුර විමර්ශනවලදී සැකකරු සමන් කොල්ලා නමැති අපරාධකරු සමග දුරකථන මාර්ගයෙන් සම්බන්ධ වී මෙම අපරාධය කිරීම සඳහා ආධාර අනුබල දී ඇති බවය.
+Police have recovered 2 grams and 100 milligrams of heroin in possession of the arrested person.
 
-සැකකරු බලපිටිය මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව දින 7ක රැඳවුම් නියෝග ලබාගෙන ඉදිරි විමර්ශන සිදුකිරීමට නියමිතය,
+Police also seized 3 SIMCUD citled mobile phones with a mobile phone.
 
-පසුගිය 11 වනදා රාත්‍රියේ ගලගොඩ වෙළපාර ප්‍රදේශයේදී වෙළෙඳසැලක් ඉදිරිපිටදී සිදුකළ වෙඩිතැබීමකින් එහි හිමිකරු සහ තවත් පුද්ගලයෙකු මියගොස් තිදෙනෙකු තුවාල ලැබීය.
+Police say that the suspect had joined the telephone with the criminal with the criminal named Saman Boy and supported the crime.
+
+The suspect is produced before the Balapitiya Magistrate's Court and will be conducting further investigations, obtaining the 7-day detention orders,
+
+The owner and another person was killed and three others were killed and three others were injured in front of a shopping in the area on the 11 night.
 
 ◼️
 
 [Data](articles/1f31f396.json)
+
+[Extended Data](ext_articles/1f31f396.ext.json)
 
 ---
 
@@ -125,6 +151,22 @@ Meanwhile, more than 1600 people were killed and more than 4,000 were injured an
 [Data](articles/aea864b6.json)
 
 [Extended Data](ext_articles/aea864b6.ext.json)
+
+---
+
+### யானை தாக்கி இருவர் மரணம்
+
+*2024-03-17 16:32:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானை-தாக்கி-இருவர்-மரணம்/175-334808) · `ta`
+
+ஏறாவூர் பற்று பிரதேச செயலகப் பிரிவு ஈரளக்குளத்தில் சனிக்கிழமை(16) இரவும், கிரான் பிரதேச செயலக பிரிவு திகிலி வெட்டையில் ஞாயிற்றுக்கிழமை (17) அதிகாலை   யானை தாக்கி இருவர் மரணமடைந்துள்ளனர்.
+
+இரு வெவ்வேறு பிரதேச செயலகப் பிரிவுகளிலும் நடைபெற்ற மரணத்திற்கான மரண  விசாரணைகளை, திடீர் மரண விசாரணை அதிகாரிகளான எம்.எஸ்.எம்.நஸீர், கே. பவளகேசன் ஆகியோர் கரடியனாறு மற்றும் சந்திவெளி பொலிஸாருடன் சம்பவ இடத்திற்கு நேரடியாக சென்று மேற்கொண்டுள்ளனர் .
+
+ஆவெட்டியாவெளியில் மாடு வளர்ப்பில் ஈடுபட்ட, சித்தாண்டியை சேர்ந்த இரு பிள்ளைகளின் தந்தையான பத்மநாதன் மோகனதாஸ் (வயது  45) என்பவர்சனிக்கிழமை  (16),  மாலை உறவினர் ஒருவரின் வீட்டுக்கு சென்று, பண்ணையை நோக்கி இரவு 09 மணியளவில் நடந்து செல்லும்போது ஈரளக்குளத்தில் வீதியோரமாக நின்ற யானையொன்றின் தாக்குதலுக்குள்ளாகி  சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
+
+...
+
+[Data](articles/7f07de4a.json)
 
 ---
 
@@ -607,6 +649,22 @@ Accordingly, the temperature in the North Western, North Central, East, Western,
 [Data](articles/b53fc2a6.json)
 
 [Extended Data](ext_articles/b53fc2a6.ext.json)
+
+---
+
+### ඩිල්ෂාන්ට බංග්ලාදේශ තරගාවලියත් අයි.පී.එල්. මුල් තරග කිහිපයත් අහිමිවෙයි
+
+*2024-03-17 13:49:39* · [`adalk`](https://www.ada.lk/sports/ඩිල්ෂාන්ට-බංග්ලාදේශ-තරගාවලියත්-අයි-පී-එල්--මුල්-තරග-කිහිපයත්-අහිමිවෙයි/9-408650) · `si`
+
+බංග්ලාදේශයට එරෙහිව පැවැති දෙවැනි එක්දින තරගයේදී ආබාධයකට ලක්වු ශ්‍රී ලංකා වේග පන්දු යවන ක්‍රීඩක ඩිල්ෂාන් මධුශංකට තරගාවලියේදී ඉතිරි තරග මෙන්ම ඉන්දීය ප්‍රිමියර් ලීග තරගාවලියේ මුල් තරග කිහිපයද අහිමි වී තිබේ.
+
+ඒ ඔහු මස්පිඩු ආබාධයකට ලක්ව ඇති හෙයිනි. ඒ අනුව ඔහු සිය ආබාධය සුවකර ගැනිමට අදාළ කටයුතු සිදුකිරීම වෙනුවෙන් මේ වන විට ශ්‍රී ලංකාවට පැමිණ තිබේ. ශ්‍රී ලංකාව හා බංග්ලාදේශය අතර තීරණාත්මක තෙවැනි එක්දින තරගය හෙට පැවැත්වීමට නියමිතව තිබේ. මෙම තරගය ජය ගන්නා කණ්ඩායම එක්දින තරගාවලියේ ශූරතාවයද හිමිකර ගනු ඇත.
+
+පසුගිය වසරේ දෙසැම්බර් මාසයේ පැවති  IPL වෙන්දේසියේදී මුම්බායි ඉන්දියන්ස් කණ්ඩායම ඇමෙරිකානු ඩොලර් 554,000ක පමණ අගයකට ඩිල්ෂාන් මධුශංක සිය කණ්ඩායමට එක්කර ගත්තේය.
+
+◼️
+
+[Data](articles/841212b2.json)
 
 ---
 
@@ -2279,87 +2337,5 @@ The number of votes will be made from June 4 on June 4.
 [Data](articles/db187c21.json)
 
 [Extended Data](ext_articles/db187c21.ext.json)
-
----
-
-### Suspect injured in the murder of two in boarding room
-
-*2024-03-16 21:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194583) · `si`
-
-A 22-year-old man, suspected in the murder of a 27-year-old mother of two in Seeduwa, confessed to the crime. He was hospitalized due to a painted condition.
-
-🟩
-
-The suspect, two-year-old boys in Seeduwa area was hospitalized today (16) due to a painted condition of the murder.
-
-The 27-year-old mother of two was murdered in a bowow room on the backdi road in Raddol.
-
-Dilini is a woman woman named Dilini, a mother of two, a resident of Pamugollewa area in Anuradhapura.
-
-The police suspect that the murder was committed by a 22 year old youth who had been involved in a casual since her earlier.
-
-Preliminary investigations have revealed that the young man had come to the bodening room where the woman died in the seedy.
-
-After the murder, the police visited the boogon room was inspected in the room.
-
-The suspect was also planning to commit suicide after the assassination.
-
-The suspect had seen the suspect in the morning that the murder had left the next morning.
-
-The suspect has confessed to his friend to his friend to his friend.
-
-◼️
-
-[Data](articles/612aed37.json)
-
-[Extended Data](ext_articles/612aed37.ext.json)
-
----
-
-### Indian-origin family dies in ‘suspicious fire’ in Canada, investigation underway
-
-*2024-03-16 21:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98002/indian-origin-family-dies-in-suspicious-fire-in-canada-investigation-underway) · `en`
-
-An Indian-origin couple along with their teenage daughter lost their lives in a “suspicious” fire that gutted their home in Canada’s Ontario province last week, said the police on Friday (Mar 15).
-
-According to the press release issued by the Peel Police, the family’s home, located at the Big Sky Way and Van Kirk Drive area of Brampton was engulfed by fire on March 7.
-
-After the fire was put under control, the investigators found the human remains inside the gutted house, however, they could not ascertain the number of people killed at the time.
-
-On Friday (Mar 15), the authorities identified the charred remains as those belonging to three family members: 51-year-old Rajiv Warikoo; his wife, 47-year-old Shilpa Kotha; and their 16-year-old daughter, Mahek Warikoo.
-
-The police officials informed that the family was living at the address before the fire broke out.
-
-On Friday (Mar 15), Peel police Constable Taryn Young said that the fire appeared ‘suspicious’, reported the CTV news channel.
-
-...
-
-[Data](articles/2c938109.json)
-
-[Extended Data](ext_articles/2c938109.ext.json)
-
----
-
-### Two people prohibited the departure of the country to betray cricket match
-
-*2024-03-16 20:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194582) · `si`
-
-The Indian manager of the Legendz Cricket Tournament in Pallekele, banned by the Mistakes of Mistakes Special Police Investigation Unit, was involved in a betting scandal with former cricketers Upul Tharanga and Neil Brew. The International Cricket Council was informed of the fraud.
-
-🟩
-
-The Indian manager of the Legendz Cricket Tournament in the Pallekele Cricket Tournament has been a banned ordered to leave.
-
-According to a complaint lodged by the Special Police Investigation Unit, a special police investigation unit of the Mistakes of Mistakes.
-
-These Indian nationals have invited the money for the money, former Sri Lanka Cricketer and Upul Tharanga and former New Zealand Cricketer Neil Brew.
-
-Upul Tharanga and Neil Brwarn International Cricket Council is also informed of the fraud and corruption in the International Cricket Council.
-
-◼️
-
-[Data](articles/116af267.json)
-
-[Extended Data](ext_articles/116af267.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 03:33:40**
+As of **2024-03-18 03:50:20**
 
 ## Newspaper Stats
 
-*Scraped **13,474** Articles*
+*Scraped **13,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 735
 adalk | 1,157
 adaderanalk | 1,626
 tamilmirrorlk | 1,650
-virakesarilk | 1,871
+virakesarilk | 1,874
 dailymirrorlk | 2,055
 adaderanasinhalalk | 2,134
 
@@ -26,11 +26,91 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,474 (100.0%) of 13,474 articles have been extended.
+13,474 (100.0%) of 13,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### தூக்கில் தொங்கியவர் வைத்தியசாலையில் உயிரிழப்பு - இருபாலையில் சம்பவம்!
+
+*2024-03-18 03:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/178973) · `ta`
+
+தவறான முடிவெடுத்து தூக்கில் தொங்கியவர், வைத்தியசாலையில் அனுமதித்தவேளை ஞாயிற்றுக்கிழமை (18) உயிரிழந்துள்ளார். இதன்போது இருபாலை கிழக்கு பகுதியைச் சேர்ந்த சிற்றம்பலம் பாஸ்கரன் (வயது 61) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த நபர் வீட்டுக்கு முன்னால் உள்ள வேப்பமரத்தில் ஞாயிற்றுக்கிழமை (18)  தூக்கில் தொங்கியுள்ளார். இதன்போது அவரை மீட்ட உறவினர்கள் கோப்பாய் வைத்தியசாலையில் அனுமதித்தனர்.
+
+அங்கு அனுமதிக்கப்பட்ட குறித்த நபர் சில மணி நேரங்களில் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார். அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார்.
+
+◼️
+
+[Data](articles/3eb194e5.json)
+
+---
+
+### மகளிர் பிறீமியர் லீக் கிரிக்கெட்-2024: றோயல் செலஞ்சர்ஸ் பெங்களூர் புதிய சம்பியன்
+
+*2024-03-18 03:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178971) · `ta`
+
+பெங்களூரிலும் பின்னர் டெல்ஹியிலும் நடைபெற்றுவந்து இரண்டாவது மகளிர் பிறீமியர் லீக் ரி20 கிரிக்கெட் அத்தியாயத்தில் றோயல் செலஞ்சர்ஸ் பெங்களூர் சம்பியனானது.
+
+நடப்பு சம்பியன் மும்பை இண்டியன்ஸை நீக்கல் போட்டியில் வீழ்த்தி இறுதிப் போட்டியில் விளையாட தகுதிபெற்ற றோயல் செலஞ்சர்ஸ் பெங்களூர், ஞாயிற்றுக்கிழமை (17) இரவு மின்னொளியில் நடைபெற்ற மிகவும் பரபரப்பான இறுதிப் போட்டியில் டெல்ஹி கெப்பிட்டல்ஸை 8 விக்கெட்களால் வெற்றிகொண்டு சம்பியனானது.
+
+சொஃபி மொலினொக்ஸ்,  ஸ்ரீயன்கா பட்டில்,  ஆஷா சோபான ஆகியோரின் மிகத் துல்லியமான பந்துவீச்சுக்கள், முன்வரிசை வீராங்கனைகளின் சாதுரியமான துடுப்பாட்டங்கள் றோயல் செலஞ்சர்ஸ் பெங்களூர் அணியை புதிய சம்பியனாக உயர்த்தின.
+
+16 இண்டியன் பிறீமியர் லீக் (ஆடவர்) அத்தியாயங்களிலும் 3 விமென்ஸ் ரி20 செலஞ் அத்தியாயங்களிலும்  றோயல் செலஞ்சர்ஸ் பெங்களூர் அணியினால் சாதிக்க முடியாததை இரண்டாவது மகளிர் பிறீமியர் லீக் அத்தியாயத்தில் சம்பியனானதன் மூலம்  றோயல் செலஞ்சர்ஸ் பெங்களூர்   மகளிர் அணி சாதித்துள்ளது.
+
+...
+
+[Data](articles/7a6e07bd.json)
+
+---
+
+### ஒருநாள் தொடரைக் கைப்பற்றும் குறிக்கோளுடன் களம் இறங்கும் இலங்கை, பங்களாதேஷ் அணிகள்
+
+*2024-03-18 03:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/178972) · `ta`
+
+சட்டோக்ராம், ஸஹுர் அஹ்மத் சௌதரி விளையாட்டரங்கில் திங்கட்கிழமை (18) நடைபெறவுள்ள தீர்மானம் மிக்க 3ஆவதும் கடைசியமான சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் வெற்றிபெற்று தொடரைக் கைப்பற்றும் குறிக்கோளுடன் இலங்கையும் பங்களாதேஷும் களம் இறங்கவுள்ளன.
+
+முதலாவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் வரவேற்பு நாடான பங்களாதேஷ் 6 விக்கெட்களால் வெற்றியீட்டி தொடரில் 1 - 0 என முன்னிலை பெற்றது.
+
+ஆனால், 2ஆவது போட்டியில் பதிலடி கொடுத்த இலங்கை 3 விக்கெட்களால் வெற்றியீட்டி தொடரை 1 - 1 என சமப்படுத்தியது.
+
+முதல் இரண்டு போட்டிகள் பகல் - இரவு போட்டிகளாக நடைபெற்றதுடன் அந்த இரண்டு போட்டிகளிலும் இரண்டாவதாகத் துடுப்பெடுத்தாடிய அணிகளே வெற்றிபெற்றன.
+
+எனினும் இந்தப் போட்டி சூரிய வெளிச்சத்தில் நடைபெறுவதுடன் காலையில் ஆடுகளத்தில் ஈரலிப்புத்தன்மை இருப்பதால் முதல் சில ஓவர்கள் வேகப்பந்துவீச்சாளர்களுக்கு சாதமாக அமையும் என கருதப்படுகிறது. எனினும் நேரஞ்செல்லசெல்ல துடுப்பாட்ட வீரர்கள் திறமையை வெளிப்படுத்துவர் என எதிர்பார்க்கப்படுகிறது.
+
+...
+
+[Data](articles/1d501d3c.json)
+
+---
+
+### Woman who drank water in a neighboring house falls down and death
+
+*2024-03-18 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/178970) · `ta`
+
+Rashendram Selvanidhi, 49, from Vaddukoddai, fell and died after drinking water from a neighbor's house. Cause of death is under investigation.
+
+🟩
+
+On Monday (17), a family woman who came out of the house was drunk and drunk at home.. He was killed in the doorway of the house when he went to his house.
+
+The deceased is Rashendram Selvanidhi (age 49) from Vaddukoddai - Tholpuram East, Chiripuram and Sivapoomiyadi area.
+
+The woman does not talk to her neighbor. In this case, he came out to go to his house today and asked him to go to the neighboring neighbor, about 30 meters away from his home.
+
+In this case he faints on the road. Immediately, the woman died when the people lifted him and took him to her house. The husband of the deceased has lodged a complaint at the Vaddukoddai police station.
+
+Neighbors report that the woman and her husband often have a dispute and that her husband is attacked. However, her daughter reports that the mother has usually swallowed the pills and went to the neighborhood.
+
+...
+
+[Data](articles/78c6d856.json)
+
+[Extended Data](ext_articles/78c6d856.ext.json)
+
+---
 
 ### United Petroleum of Australia to enter retail market from mid-year
 
@@ -55,32 +135,6 @@ Australia’s United Petroleum is the third international company to enter into 
 [Data](articles/3b9ac81a.json)
 
 [Extended Data](ext_articles/3b9ac81a.ext.json)
-
----
-
-### Woman who drank water in a neighboring house falls down and death
-
-*2024-03-18 02:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178970) · `ta`
-
-Rashendram Selvanidhi, 49, from Vaddukoddai, fell and died after drinking water from a neighbor's house. Cause of death is under investigation.
-
-🟩
-
-On Monday (17), a family woman who came out of the house was drunk and drunk at home.. He was killed in the doorway of the house when he went to his house.
-
-The deceased is Rashendram Selvanidhi (age 49) from Vaddukoddai - Tholpuram East, Chiripuram and Sivapoomiyadi area.
-
-The woman does not talk to her neighbor. In this case, he came out to go to his house today and asked him to go to the neighboring neighbor, about 30 meters away from his home.
-
-In this case he faints on the road. Immediately, the woman died when the people lifted him and took him to her house. The husband of the deceased has lodged a complaint at the Vaddukoddai police station.
-
-Neighbors report that the woman and her husband often have a dispute and that her husband is attacked. However, her daughter reports that the mother has usually swallowed the pills and went to the neighborhood.
-
-...
-
-[Data](articles/78c6d856.json)
-
-[Extended Data](ext_articles/78c6d856.ext.json)
 
 ---
 
@@ -2265,69 +2319,5 @@ Former MP has assaulted the student in Barandhuragoda town on the 11th. Police s
 [Data](articles/5466a8cd.json)
 
 [Extended Data](ext_articles/5466a8cd.ext.json)
-
----
-
-### Future SJB government will make English medium education compulsory: Sajith
-
-*2024-03-17 12:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Future-SJB-government-will-make-English-medium-education-compulsory-Sajith/108-279008) · `en`
-
-Kurunegala, March 17 (Daily Mirror) - A future SJB government will make English medium education compulsory, Opposition Leader Sajith Premadasa said over the weekend.
-
-"We will make English medium education compulsory for students from Grade one to thirteen," he said addressing a youth rally in Kurunegala.
-
-"We will also teach young people Chinese, Hindi, Japanese, Information Technology and computer science free of charge," he also said.
-
-◼️
-
-[Data](articles/59bc540c.json)
-
-[Extended Data](ext_articles/59bc540c.ext.json)
-
----
-
-### Ministers of the North in the Cabinet of National People's Power - Anuragumara
-
-*2024-03-17 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/178928) · `ta`
-
-Anuragumaratisanayake, JVP leader, stated that the North's Cabinet will be part of the future government of National People's Power. He's negotiating with moderate, non-racist leaders and supports amendments to protect Tamil political rights. The JVP aims to address linguistic issues and ensure Tamils' right to serve in their language.
-
-🟩
-
-JVP leader Anuragumaratisanayake said in Vavuniya, the Cabinet of the North will be included in the Cabinet of the future government of the National People's Power.
-
-"We are already negotiating with non -terrorist racist moderate leaders," he said.
-
-He said that we are ready to negotiate with the non -terrorist non -racist moderate leaders in the cabinet of the future national people's power government.
-
-He also said that the constitution should make amendments to ensure the political rights of the Tamil people who see the national power solution to the land issues.
-
-We pledge that we will take steps to solve the linguistic problem and ensure the right to serve in your language, ”he said.
-
-◼️
-
-[Data](articles/5f816a86.json)
-
-[Extended Data](ext_articles/5f816a86.ext.json)
-
----
-
-### Sri Lanka records 2.3% negative GDP growth in 2023
-
-*2024-03-17 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98008/sri-lanka-records-23-negative-gdp-growth-in-2023) · `en`
-
-The GDP growth rate of Sri Lanka for the year 2023 was estimated as a 2.3 percent negative growth rate, the Department of Census and Statistics (DCS) said in a statement.
-
-Overall, agricultural activities expanded by 2.6 percent, while industrial and service activities contracted by 9.2 percent and 0.2 percent, respectively, in the year 2023, the DCS said.
-
-The three major economic activities of the economy agriculture, industry, and services, contributed their shares to the GDP, at current prices, by 8.3 percent, 25.6 percent and 59.9 percent respectively.
-
-The “taxes less subsidies on products” component accounted for a 6.2 percent share of the GDP in 2023.
-
-◼️
-
-[Data](articles/220308f5.json)
-
-[Extended Data](ext_articles/220308f5.ext.json)
 
 ---

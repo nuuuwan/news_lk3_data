@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 02:49:38**
+As of **2024-03-18 03:03:06**
 
 ## Newspaper Stats
 
-*Scraped **13,472** Articles*
+*Scraped **13,474** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 127
 bbccomsinhala | 149
 dbsjeyarajcom | 187
 newsfirstlk | 363
-dailyftlk | 706
+dailyftlk | 707
 economynextcom | 713
 islandlk | 735
 adalk | 1,157
 adaderanalk | 1,626
 tamilmirrorlk | 1,650
-virakesarilk | 1,870
+virakesarilk | 1,871
 dailymirrorlk | 2,055
 adaderanasinhalalk | 2,134
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,466 (100.0%) of 13,472 articles have been extended.
+13,472 (100.0%) of 13,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### United Petroleum of Australia to enter retail market from mid-year
+
+*2024-03-18 02:45:40* · [`dailyftlk`](https://www.ft.lk/business/United-Petroleum-of-Australia-to-enter-retail-market-from-mid-year/34-759609) · `en`
+
+Finalises agreement with Power and Energy Ministry further liberalising fuel market
+
+Power and Energy Minister Kanchana Wijesekera revealed yesterday that United Petroleum of Australia has finalised an agreement with the Power and Energy Ministry to  venture into petroleum retail operations in Sri Lanka.
+
+The announcement comes following last month’s signing of the agreement between the two parties.
+
+“They plan to sign the agreement with the BOI and obtain the license to operate by mid this year,” he said via ‘X’.
+
+Wijesekera said United Petroleum Group CFO Nigel Simonsz visited the Ministry to provide an update on the company’s plans and outlined the schedule for commencing retail operations.
+
+United Petroleum is slated to operate through 150 fuel stations allocated to them across the country.
+
+Australia’s United Petroleum is the third international company to enter into the market.
+
+◼️
+
+[Data](articles/3b9ac81a.json)
+
+---
+
+### அயல் வீட்டில் தண்ணீர் குடித்துவிட்டு சென்ற பெண் கீழே விழுந்து மரணம் - வட்டுக்கோட்டை தொல்புரத்தில் சம்பவம்!
+
+*2024-03-18 02:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178970) · `ta`
+
+திங்கட்கிழமை (17) மாலை, அயல் வீட்டில் தண்ணீர் வாங்கி குடித்துவிட்டு படலைக்கு வெளியே வந்த குடும்பப் பெண்ணொருவர் கீழே மயங்கி விழுந்துள்ளார். இந்நிலையில் அவரை தூக்கிக்கொண்டு அவரது வீட்டுக்கு சென்றவேளை வீட்டின் வாசலில் அவர் உயிரிழந்துள்ளார்.
+
+வட்டுக்கோட்டை - தொல்புரம் கிழக்கு, சுழிபுரம், சிவபூமியடி பகுதியைச் சேர்ந்த இராசேந்திரம் செல்வநிதி (வயது 49) என்ற குடும்பப் பெண்ணே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த பெண் அவரது அயல்வீட்டுக்காரருடன் பேசுவதில்லை. இந்நிலையில் இன்றையதினம் அவரது வீட்டிலிருந்து சுமார் 30 மீட்டர்கள் தூரத்தில் உள்ள அயல்வீட்டுக்கு சென்று தண்ணீர் தருமாறு கேட்டு வாங்கி குடித்துவிட்டு தனது வீட்டுக்கு செல்வதற்கு வெளியே வந்துள்ளார்.
+
+இந்நிலையில் அவர் வீதியில் மயங்கி விழுந்துள்ளார். உடனே அங்கிருந்தவர்கள் அவரை தூக்கி அவரது வீட்டுக்கு கொண்டு செல்லும்போது குறித்த பெண் உயிரிழந்துள்ளார். இது குறித்து உயிரிழந்த பெண்ணின் கணவன் வட்டுக்கோட்டை பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்துள்ளார்.
+
+...
+
+[Data](articles/78c6d856.json)
+
+---
 
 ### Trinity Holdings celebrates 7 years of sustainable garment manufacturing
 
@@ -45,6 +87,8 @@ Trinity co-founder and CEO Davina de Silva was responsible for setting up the Vi
 ...
 
 [Data](articles/0b863f4d.json)
+
+[Extended Data](ext_articles/0b863f4d.ext.json)
 
 ---
 
@@ -62,6 +106,8 @@ Groovy Graphics and Signs – a local signage printing, promotional products and
 
 [Data](articles/c9a8b58e.json)
 
+[Extended Data](ext_articles/c9a8b58e.ext.json)
+
 ---
 
 ### Tikiri Toys’ wins two awards at SLIM Brand of the Year 2023
@@ -77,6 +123,8 @@ Tikiri Toys has become a notable brand in the US, Germany, and the UK and has a 
 ...
 
 [Data](articles/ef5bfa54.json)
+
+[Extended Data](ext_articles/ef5bfa54.ext.json)
 
 ---
 
@@ -100,6 +148,8 @@ The National People’s Party (NPP) Leader Anura Kumara Dissanayake over the wee
 
 [Data](articles/b97ae7a4.json)
 
+[Extended Data](ext_articles/b97ae7a4.ext.json)
+
 ---
 
 ### CEBEU assures uninterrupted power supply despite arid weather
@@ -117,6 +167,8 @@ The CEBEU officials underscored the feasibility of maintaining 24-hour electrici
 ...
 
 [Data](articles/8bb8046c.json)
+
+[Extended Data](ext_articles/8bb8046c.ext.json)
 
 ---
 
@@ -531,6 +583,8 @@ With the increased cost of printing, many writers have turned to publishing e-bo
 ...
 
 [Data](articles/857fafa7.json)
+
+[Extended Data](ext_articles/857fafa7.ext.json)
 
 ---
 
@@ -2265,47 +2319,5 @@ The “taxes less subsidies on products” component accounted for a 6.2 percent
 [Data](articles/220308f5.json)
 
 [Extended Data](ext_articles/220308f5.ext.json)
-
----
-
-### Navy arrest nearly 150 Indian fishermen in 18 trawlers within SL waters this year
-
-*2024-03-17 11:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Navy-arrest-nearly-150-Indian-fishermen-in-18-trawlers-within-SL-waters-this-year/108-279006) · `en`
-
-Jaffna, March 17 (Daily Mirror) - The Sri Lanka Navy has seized a total of 18 Indian poaching trawlers and 146 Indian fishermen within Sri Lankan waters in 2024.
-
-In a latest incident, the Navy seized two Indian trawlers and arrested 21 Indian fishermen poaching in Sri Lankan waters off the Delft Island.
-
-The Navy said they conducted a special operation to chase away Indian poaching trawlers from Sri Lankan waters during the dark hours of yesterday and the arrest was made during this operation.
-
-The Sri Lanka Navy continues to conduct regular patrols and operations in Sri Lankan waters to curb illegal fishing practices of foreign trawlers, taking into account the impact of those practices on the livelihood of local fishermen.
-
-The seized trawlers together with 21 Indian fishermen were brought to the Kankesanthurai Harbour and handed over to the Mailadi Fisheries Inspector for onward legal proceedings.
-
-◼️
-
-[Data](articles/5d59dde7.json)
-
-[Extended Data](ext_articles/5d59dde7.ext.json)
-
----
-
-### Yuvraj Singh darshan
-
-*2024-03-17 11:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதாவை-தரிசனம்-செய்தார்-யுவராஜ்-சிங்/175-334788) · `ta`
-
-Yuvraj Singh, a former Indian cricketer, visited Sri Dalada House in Kandy and participated in the World Legend Cricket Tournament at Pallekela International Cricket Ground.
-
-🟩
-
-Former Indian cricketer Yuvraj Singh has visited the historic Sri Dalada House in Kandy.
-
-Yuvraj Singh and many former cricketers have been staying in Kandy for almost a week and they have been in Kandy to participate in the World Legend Cricket Tournament at the Pallekela International Cricket Ground.
-
-◼️
-
-[Data](articles/20b224ef.json)
-
-[Extended Data](ext_articles/20b224ef.ext.json)
 
 ---

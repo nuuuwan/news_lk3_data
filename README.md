@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 11:02:52**
+As of **2024-03-17 11:18:00**
 
 ## Newspaper Stats
 
-*Scraped **13,358** Articles*
+*Scraped **13,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 710
 islandlk | 735
 adalk | 1,140
 adaderanalk | 1,614
-tamilmirrorlk | 1,628
+tamilmirrorlk | 1,629
 virakesarilk | 1,854
 dailymirrorlk | 2,043
 adaderanasinhalalk | 2,112
@@ -26,41 +26,35 @@ adaderanasinhalalk | 2,112
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,358 (100.0%) of 13,358 articles have been extended.
+13,358 (100.0%) of 13,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### People in Israel take to the streets
+### ”தீவிரவாதமற்ற தமிழ்த் தலைவர்களுடன் கலந்துரையாடி வருகிறோம்”
 
-*2024-03-17 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194592) · `si`
+*2024-03-17 11:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீவிரவாதமற்ற-தமிழ்த்-தலைவர்களுடன்-கலந்துரையாடி-வருகிறோம்/175-334784) · `ta`
 
-Protests in Tel Aviv demand Hamas fighters' release. Israel and Hamas conflict escalates, with over 100 Israeli nationals held by Hamas. Israeli Prime Minister Benjaminiu opposes government's stance.
+எதிர்கால தேசிய மக்கள் சக்தி (NPP) அரசாங்கத்தில் வடக்கைப் பிரதிநிதித்துவப்படுத்தும் அமைச்சர்கள் இருக்க வேண்டும் என NPP தலைவர் அனுரகுமார திஸாநாயக்க நேற்று (16) தெரிவித்தார்.
 
-🟩
+வவுனியா மாவட்ட மாநாட்டில் உரையாற்றிய அவர், தீவிரவாதிகளோ இனவாதமோ இல்லாத மிதவாத தமிழ்த் தலைவர்களுடன் ஏற்கனவே கலந்துரையாடி வருவதாகத் தெரிவித்தார்.
 
-The city of Tel Aviv in Israel was intensified, demanding the release of Hamas fighters in the custody.
+"எதிர்கால NPP அரசாங்கத்தில் வடக்கைப் பிரதிநிதித்துவப்படுத்தும் அமைச்சர்கள் இருக்க வேண்டும். நாங்கள் ஏற்கனவே தீவிரவாத அல்லது இனவாதமற்ற மிதவாத தமிழ்த் தலைவர்களுடன் கலந்துரையாடி வருகிறோம். அவர்கள் NPP அரசாங்கத்தில் அங்கம் வகிக்க வேண்டும்," என்று அவர் கூறினார்.
 
-Israeli and Hamas took the conflict and five months have passed.
+தமிழ் மக்களின் மொழிப்பிரச்சினை, காணிப்பிரச்சினை போன்ற பிரச்சினைகளுக்கு NPP தீர்வு காணும் என்றும், தமிழர்களின் அரசியல் உரிமைகளை உறுதிசெய்யும் வகையில் அரசியலமைப்புத் திருத்தங்களை கொண்டுவரவுள்ளதாகவும் அவர் கூறினார்.
 
-However, more than one hundred of the Israeli nationals who were in the Hamas had been in the custody of Hamas.
-
-They say that the authorities should take talks between both parties and release hostages.
-
-The Government of Israel's Israeli Prime Minister Benjaminiu has also been against the government.
+மொழிப்பிரச்சினைக்கு தீர்வுகாண நடவடிக்கை எடுப்பதாக உறுதியளிக்கிறோம்.உங்கள் மொழியில் தேசத்தை கையாள்வதற்கான உரிமையை உறுதி செய்வோம் என அவர் மேலும் தெரிவித்தார்.
 
 ◼️
 
-[Data](articles/b37db98f.json)
-
-[Extended Data](ext_articles/b37db98f.ext.json)
+[Data](articles/b88c3a8d.json)
 
 ---
 
 ### Concerns in Mannar on the wind power project of Adani Group - Hindu
 
-*2024-03-17 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178918) · `ta`
+*2024-03-17 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/178918) · `ta`
 
 The Hindu reports concerns over Adani Group's wind power project in Mannar, Sri Lanka, citing it as a threat to bird migration. Environmentalists and locals express worries about the project's impact on coastal areas. The Sri Lanka Investment Board granted permission for two wind power plants, aiming to produce 250 MW in Mannar and 34 MW in Poonakari. The project is part of Sri Lanka's goal to achieve 70% renewable energy by 2030. India has agreed to cooperate and has invested $11 million for energy projects. However, environmentalists fear the project will harm local biodiversity and livelihoods.
 
@@ -85,6 +79,32 @@ The Sri Lankan government is carrying out these plans to get 70 percent of the e
 [Data](articles/88e4adc0.json)
 
 [Extended Data](ext_articles/88e4adc0.ext.json)
+
+---
+
+### People in Israel take to the streets
+
+*2024-03-17 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194592) · `si`
+
+Protests in Tel Aviv demand Hamas fighters' release. Israel and Hamas conflict escalates, with over 100 Israeli nationals held by Hamas. Israeli Prime Minister Benjaminiu opposes government's stance.
+
+🟩
+
+The city of Tel Aviv in Israel was intensified, demanding the release of Hamas fighters in the custody.
+
+Israeli and Hamas took the conflict and five months have passed.
+
+However, more than one hundred of the Israeli nationals who were in the Hamas had been in the custody of Hamas.
+
+They say that the authorities should take talks between both parties and release hostages.
+
+The Government of Israel's Israeli Prime Minister Benjaminiu has also been against the government.
+
+◼️
+
+[Data](articles/b37db98f.json)
+
+[Extended Data](ext_articles/b37db98f.ext.json)
 
 ---
 
@@ -2295,25 +2315,5 @@ The hotline, introduced under the instructions of the President, was launched in
 [Data](articles/c55c9ffe.json)
 
 [Extended Data](ext_articles/c55c9ffe.ext.json)
-
----
-
-### Call 107 to obtain police support in Tamil
-
-*2024-03-16 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194567) · `si`
-
-The 107 emergency number allows Tamil-speaking individuals in the North and East to report complaints to the police.
-
-🟩
-
-The 107 police emergency number has been introduced to submit the complaints in Tamil.
-
-The Police Media Division said that the people of the North and East can obtain police assistance in Tamil and language.
-
-◼️
-
-[Data](articles/bee11ffa.json)
-
-[Extended Data](ext_articles/bee11ffa.ext.json)
 
 ---

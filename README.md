@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 16:03:18**
+As of **2024-03-17 16:17:44**
 
 ## Newspaper Stats
 
-*Scraped **13,402** Articles*
+*Scraped **13,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 712
 islandlk | 735
-adalk | 1,147
+adalk | 1,148
 adaderanalk | 1,618
 tamilmirrorlk | 1,641
 virakesarilk | 1,859
 dailymirrorlk | 2,048
-adaderanasinhalalk | 2,120
+adaderanasinhalalk | 2,121
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,402 (100.0%) of 13,402 articles have been extended.
+13,402 (100.0%) of 13,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### ජීවිතය දිනන්න රට ගිය සෙව්වන්දිට අත්වූ ඛේදනීය ඉරණම
+
+*2024-03-17 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194601) · `si`
+
+ජීවිතය පිළිබඳ දහසක් බලාපොරොත්තු පොදි බැඳ මැදපෙරදිග ගෘහ සේවයට යන ඇතැම් ශ්‍රී ලාංකීය කාන්තාවන් අමානුෂික වද හිංසාවන්ට ලක්වීමේ පුවත් නිරන්තරයෙන් අසන්නට ලැබීම ඛේදවාචකයකි.
+
+එලෙස වද හිංසාවන්ට ලක්ව කුවේට් රාජ්‍යයේ තනිවූ ශ්‍රී ලාංකික මවක් පිළිබඳ පුවතක් පිළිබඳව තොරතුරු වාර්තාවන්නේ මනම්පිටිය මහවැව ප්‍රදේශයෙනි.
+
+ආර්ථික අර්බුදවලින් මිරිකී සිටින සිය පවුල ඉන් මුදාගැනීම සඳහාත්, ස්ථිර නිවසක් ඉදිකරගැනීම සහ දරු තිදෙනාට විධිමත් අධ්‍යාපනයක් ලබාදීමත් අරමුණු කරගනිමින් සෙව්වන්දි කුවේට්හි ගෘහ සේවයට ගොස් ඇත්තේ මීට මාස තුනකට පෙරයි.
+
+එතැන් සිට සෙව්වන්දිගේ දරුවන් රැකබලා ගැනීම ඇගේ මවට භාර වී ඇති අතර සිය බිරිඳ යළි පැමිණෙන තුරු නිවසේ ආර්ථිකය ශක්තිමත් කිරීමට ඉෂාර රැකියාවක් ලෙස සිදුකරන්නේ යකඩ බාල්දි නිෂ්පාදනයයි.
+
+කෙසේවෙතත් සිය පුංචි කැදැල්ලේ අනාගතය පිළිබඳ සෙව්වන්දි තැබු බලාපොරොත්තු සියල්ලට මේවන විට නැවතීමේ තිත වැටී ඇත්තේ ඇයට සේවය කිරීමට සිදුවූ නිවසේ හාම්පුතුන්ගේ විවිධ වද හිංසාවන්ට ලක්වන්නට සිදුවීම හේතුවෙනි.
+
+උද්ගතවී ඇති තත්ත්වය හමුමේ සිය බිරිඳ යළි මෙරටට ගෙන්වා ගැනීම ඉෂාරගේ අරමුණ වී ඇතත් ඊටද මූල්‍යමය බාධා එල්ල වී තිබේ.
+
+...
+
+[Data](articles/dc24b2f6.json)
+
+---
 
 ### “The group will not leave Sri Lanka easily”
 
@@ -129,6 +151,18 @@ He also said, "We will teach young people free of Chinese, Hindi, Japanese, info
 [Data](articles/618521bd.json)
 
 [Extended Data](ext_articles/618521bd.ext.json)
+
+---
+
+### මව්පියන් සමග ගඟේ දියනෑමට ගිය දරුවන් දෙදෙනෙකු දියේ ගිලී මරුට
+
+*2024-03-17 15:18:26* · [`adalk`](https://www.ada.lk/breaking_news/මව්පියන්-සමග-ගඟේ-දියනෑමට-ගිය-දරුවන්-දෙදෙනෙකු-දියේ-ගිලී-මරුට/11-408655) · `si`
+
+ගාල්ල යක්කලමුල්ල ප්‍රදේශයේදී පොල්වත්ත ගඟේ දියේ ගිලීමෙන්  වයස අවුරුදු 11 සහ 14 යන වයස්වල පිරිමි දරුවන් දෙදෙනෙකු මියගොස් ඇති බව යක්කලමුල්ල පොලීසිය පවසයි. එම දරුවන් දෙදෙනා ඥාතීන් වන අතර ඔවුන් සිය මව්පියන් සමග ගඟේ දියනෑමට පැමිණි අවස්ථාවේ මෙම අනතුරට ලක්ව ඇත. දියේ ගිලී සිටි ගොඩට ගත් දරුවන් ඉමදූව රෝහල වෙත ඇතුළත් කරනවිටත් ඔවුන් මියගොස් ඇති බව පොලීසිය පවසයි. යක්කලමුල්ල පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/8edc3185.json)
 
 ---
 
@@ -2325,49 +2359,5 @@ In reply, Royal College, Colombo, was bowled out for 226 runs in the event.
 [Data](articles/802e0404.json)
 
 [Extended Data](ext_articles/802e0404.ext.json)
-
----
-
-### Sri Lanka explores potential for increasing Buddhist pilgrims to Pakistan
-
-*2024-03-16 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97998/sri-lanka-explores-potential-for-increasing-buddhist-pilgrims-to-pakistan) · `en`
-
-New Pakistani High Commissioner Major General (Retd.) Faheem Ul Aziz has called on Prime Minister Dinesh Gunawardena at the Temple Trees on Friday (March 15).
-
-The new envoy thanked the Sri Lankan Prime Minister for his felicitations and best wishes sent to newly-elected Pakistan President Asif Ali Zardari and Prime Minister Shehbaz Sharif.
-
-PM Gunawardena extended gratitude to Pakistan for supporting Sri Lanka at international forums and for extending training facilities to the members of the Sri Lankan armed forces.
-
-He discussed the possibility of expanding bilateral ties in economic spheres, investments, tourism and industries.
-
-High Commissioner Aziz said there is potential for increasing Buddhist pilgrims to Pakistan as sufficient infrastructure facilities have been established in places of pilgrimage such as Thakshila and Gandhara region.
-
-...
-
-[Data](articles/243d4a97.json)
-
-[Extended Data](ext_articles/243d4a97.ext.json)
-
----
-
-### Sri Lanka explores potential to increase Buddhist pilgrims to Pakistan
-
-*2024-03-16 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/97998/sri-lanka-explores-potential-to-increase-buddhist-pilgrims-to-pakistan) · `en`
-
-New Pakistani High Commissioner Major General (Retd.) Faheem Ul Aziz has called on Prime Minister Dinesh Gunawardena at the Temple Trees on Friday (March 15).
-
-The new envoy thanked the Sri Lankan Prime Minister for his felicitations and best wishes sent to newly-elected Pakistan President Asif Ali Zardari and Prime Minister Shehbaz Sharif.
-
-PM Gunawardena extended gratitude to Pakistan for supporting Sri Lanka at international forums and for extending training facilities to the members of the Sri Lankan armed forces.
-
-He discussed the possibility of expanding bilateral ties in economic spheres, investments, tourism and industries.
-
-High Commissioner Aziz said there is potential for increasing Buddhist pilgrims to Pakistan as sufficient infrastructure facilities have been established in places of pilgrimage such as Thakshila and Gandhara region.
-
-...
-
-[Data](articles/421fa1f6.json)
-
-[Extended Data](ext_articles/421fa1f6.ext.json)
 
 ---

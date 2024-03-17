@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 21:02:56**
+As of **2024-03-17 21:17:49**
 
 ## Newspaper Stats
 
-*Scraped **13,438** Articles*
+*Scraped **13,441** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,86 @@ newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 712
 islandlk | 735
-adalk | 1,154
+adalk | 1,156
 adaderanalk | 1,623
 tamilmirrorlk | 1,647
 virakesarilk | 1,861
-dailymirrorlk | 2,051
+dailymirrorlk | 2,052
 adaderanasinhalalk | 2,132
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,435 (100.0%) of 13,438 articles have been extended.
+13,438 (100.0%) of 13,441 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### கோர விபத்தில் இளைஞன் சம்பவ இடத்திலேயே மரணம்
+### At least 21 dead after bus collides with tanker in Afghanistan
 
-*2024-03-17 20:35:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/கோர-விபத்தில்-இளைஞன்-சம்பவ-இடத்திலேயே-மரணம்/75-334818) · `ta`
+*2024-03-17 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/At-least-21-dead-after-bus-collides-with-tanker-in-Afghanistan/108-279016) · `en`
 
-திருகோணமலை - புகையிரத நிலையத்துக்கு அருகிலுள்ள கிறிஸ்தவ ஆலயத்திற்கு முன்னால் இடம்பெற்ற மோட்டார் சைக்கிள் விபத்தில் இளைஞரொருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+March 16, (Al Jazeera) - At least 21 people have been killed and 38 others injured after a bus collided with an oil tanker in the Gerashk district of Afghanistan’s Helmand province, officials said.
 
-இரு இளைஞர்கள் மோட்டார் சைக்கிளில் பயணித்துக் கொண்டிருந்தபோது பின்புறமாக வேகமாக வந்த மோட்டார் சைக்கிள் மோதியதாகவும் மூவர் மதுபோதையில் வேகமாக வந்தமையினால் இவ்விபத்து இடம்பெற்றதாகவும் ஆரம்ப கட்ட விசாரணையின் மூலம் தெரியவந்துள்ளது.
+The crash on the Kandahar-Herat highway involved a motorcycle, a fuel truck and a bus travelling from Herat city to the capital Kabul, said Sher Mohammad Wahdat, head of the information department for Helmand’s provincial government.
 
-இவ்விபத்தில் திருகோணமலை- கோனேஸபுரி ஆறாம் கட்டையைச்சேர்ந்த இரண்டு பிள்ளைகளின் தந்தையான  ஏ.தேவானந் (39வயது) என்பவரே உயிரிழந்ததாகவும் அவருடன் பயணித்து அதே பகுதியைச் சேர்ந்த 32 வயதுடைய  யூ.தனூஸன் காயம் அடந்துள்ளதாகவும் தெரிய வருகின்றது.
+The bus driver lost control after colliding with the motorcycle and crashed with an oil tanker travelling in the opposite direction from the southern city of Kandahar to Herat, sparking a fire.
 
-அத்துடன் வேகமாக சென்று கொண்டிருந்த மற்றைய  மோட்டார் சைக்கிள் பயணித்த மூவரும் படுகாயமடைந்துள்ளதாகவும் 21, 30, 39 வயது உடையவர்களை எனவும் உயிரிழந்தவருடன்  பயணித்த இளைஞர் உட்பட மற்றைய மோட்டார் சைக்கிள் பயணித்த மூவரும் மொத்தமாக நான்கு பேர் திருகோணமலை பொது வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாகவும் பொலிஸார் தெரிவித்தனர்.
+“On Sunday morning, 21 people were killed and 38 people were injured due to a collision between a tanker, a motorcycle and a passenger bus,” the provincial information department said in a post on X.
+
+An investigation into the accident was under way, said Qadratullah, a traffic official in Helmand.
 
 ...
 
+[Data](articles/8ec3516c.json)
+
+---
+
+### Young man dies on the spot
+
+*2024-03-17 20:35:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/கோர-விபத்தில்-இளைஞன்-சம்பவ-இடத்திலேயே-மரணம்/75-334818) · `ta`
+
+A 39-year-old man died in a motorcycle accident near a Christian temple near Trincomalee railway station. Another man, 32, was injured. The accident involved two motorcycles.
+
+🟩
+
+A youth was killed in a motorcycle accident in front of a Christian temple near the Trincomalee railway station, police said.
+
+Preliminary inquiries revealed that the two youths were traveling on a motorbike and that the motorcycle was hit by a fast -paced motorcycle and the trio had been hit by a fast.
+
+It is reported that A. Thevanan (39 years old), the father of two children from the Trincomalee-Gonzapuri sixth phase, died and the 32-year-old UDUsan from the same area was injured.
+
+The other motorcycle passengers were injured and the three -year -olds, including 21, 30 and 39 years of age, and other motorcycle passengers, and a total of four were receiving treatment at the Trincomalee General Hospital.
+
+The Trincomalee Headquarters Police are investigating the accident.R
+
+◼️
+
 [Data](articles/6ed8fffe.json)
+
+[Extended Data](ext_articles/6ed8fffe.ext.json)
+
+---
+
+### රු.කෝටි පහක ගංජා පැල 250000ක හේනක් වටලයි
+
+*2024-03-17 20:31:23* · [`adalk`](https://www.ada.lk/breaking_news/රු-කෝටි-පහක-ගංජා-පැල-250000ක-හේනක්-වටලයි/11-408662) · `si`
+
+උඩලව රක්‍ෂිතයට අයත් හම්බෙගමුව ප්‍රදේශයේ අක්කර හතර හමාරක භුමි කොටසක වගා කර තිබූ රුපියල් කෝටි 5ක විටිනාකමකින් යුත් ගංජා පැළ 250,000කට අධික ප්‍රමාණයක් සහිත ගංජා හේනක් පොලීසිය සහ යුද හමුදාව එක්ව අද (17දා) වටලා තිබේ.
+
+මෙම ගංජා වගාව හම්බේගමුව නගරයේ සිට 8km පමණ දුරකින් පොලීසිය හෝ ආරක්‍ෂක අංශවලට ළඟාවිය නොහැකි දුෂ්කර ප්‍රදේශයක ඉතා ආරක්‍ෂිතව වගාකර දිගු කාලයක් තිස්සේ පවත්වාගෙන ගොස් ඇත.
+
+දැනට පොලීසිය සමඟ යුද හමුදාව ඒකාබද්ධව සිදු කරන යුක්තියේ මෙහෙයුම සමඟ දකුණු ප්‍රදේශයේ පවතින නීති විරෝධී මත් ද්‍රව්‍ය ජාවාරම් ව්‍යර්ත කිරීම උදෙසා යුද හමුදා බුද්ධි අංශ විසින් මෙම තොරතුරු මාතර පොලිස් විමර්ශන කොට්ඨාසය වෙත ලබා දී ඇත.
+
+අනතුරුව ඊයේ දිනයේදී පොලීසිය සහ යුද හමුදාව එක්ව මෙම මෙහෙයුම සිදු කර ඇත. එම ස්ථානය වෙත ළඟා වන විට එහි පුද්ගලයන් දෙදෙනෙකු සිට ඇති අතර වැටලීම සිදු කරන අවස්ථාවේදී ඔවුන් දෙදෙනා එම ස්ථානයෙන් පැන ගොස් තිබේ.
+
+මෙහි ඉදිරි පරීක්‍ෂණ කටයුතු මාතර පොලිස් විමර්ශන කොට්ඨාසය විසින් සිදු කරනු ලබයි.
+
+◼️
+
+[Data](articles/9b5f72da.json)
 
 ---
 
@@ -84,19 +132,25 @@ Investigators point out reports say they have been reported to have gone to Azer
 
 ---
 
-### பாதாள உலக குழுவினருக்குப் போலி கடவுச்சீட்டு:  குடிவரவு- குடியகல்வு திணைக்கள பிரதிக் கட்டுப்பாட்டாளரும் முன்னாள் கட்டுப்பாட்டாளரும் கைது!
+### Fake Passport for Underworld Group: Immigration and Emigration Department
 
 *2024-03-17 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/178960) · `ta`
 
-பாதாள உலக குழுவைச் சேர்ந்தவர்களுக்கு போலியான கடவுச்சீட்டு தயாரித்தார்கள் என்ற சந்தேகத்தில் குடிவரவு- குடியகல்வு திணைக்கள பிரதிக் கட்டுப்பாட்டாளரும் முன்னாள் கட்டுப்பாட்டாளரும் ஞாயிற்றுக்கிழமை (17) மாலை குற்றப் புலனாய்வு பிரிவினரால் கைது செய்யப்பட்டுள்ளனர்.
+The Deputy Controller and former Controller of the Department of Immigration and Emigration were arrested for allegedly making fake passports for a drug and organized criminal gang. Investigations are led by Deputy Inspector General Rohana Premaratne.
 
-போதைப்பொருள் மற்றும் ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பலைச் சேர்ந்த இருவருக்கு போலிக் கடவுச்சீட்டு தயாரித்ததாக கூறப்படும் சம்பவம் தொடர்பில் இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-இது தொடர்பில் குற்றப் புலனாய்வுத் திணைக்கள பிரதிப் பொலிஸ் மா அதிபர் ரோஹன பிரேமரத்ன தலைமையில் மேலதிக விசாரணைகள் இடம்பெற்று வருகின்றன.
+The Deputy Controller and former Controller of the Department of Immigration and Emigration has been arrested by the Criminal Investigation Department on Sunday evening on suspicion of making fake passports for the underworld group.
+
+They have been arrested in connection with the alleged manner of making a fake passport for two people belonging to drug and organized criminal gang.
+
+Further investigations are underway under the leadership of Deputy Inspector General of Police Rohana Premaratne of the Criminal Investigation Department.
 
 ◼️
 
 [Data](articles/ddab64af.json)
+
+[Extended Data](ext_articles/ddab64af.ext.json)
 
 ---
 
@@ -142,19 +196,27 @@ Two drugs and organized criminal gangs have been found to have been prepared for
 
 ---
 
-### இந்திய வீடமைப்பு திட்டத்தில் வெளிப்படை தன்மை இருக்க வேண்டும்
+### There must be transparency in the Indian Housing Scheme
 
 *2024-03-17 19:47:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-வீடமைப்பு-திட்டத்தில்-வெளிப்படை-தன்மை-இருக்க-வேண்டும்/175-334814) · `ta`
 
-ஒரு வீடு, ரூபா இருபத்து-எட்டு இலட்சம் என்ற மதிப்பீட்டுடன், 1,300 வீடுகளை கட்டும் நான்காம் கட்ட பெருந்தோட்ட மக்களுக்கான இந்திய வீடமைப்பு வேலை திட்ட பணிகள் தற்போது ஆரம்பித்து வைக்கப்பட்டுள்ளன.
+The Indian Housing Scheme's fourth phase, involving 1,300 houses, is criticized for lacking transparency. The Tamil Progressive Alliance, a partner in the project, calls for full transparency in the project's implementation and surveillance, which were previously handled by NGOs. The removal of NGOs has raised questions about the project's transparency.
 
-இந்திய அரசின் நன்கொடை உதவியுடனான இந்த திட்டம் தொடர்பில் இந்திய அரசுக்கு நன்றி கூறி, வீடு கட்டும் பணிகளை நாம் வரவேற்கிறோம். அதேவேளை இந்த திட்ட நடைமுறையில் முழுமையான வெளிப்படை தன்மை இருக்க வேண்டும் என்பதே தமிழ் முற்போக்கு கூட்டணியின் நிலைபாடாகும்.
+🟩
 
-பெருந்தோட்டங்களில் இந்திய உதவியுடான தனி வீடுகள் கட்டும் திட்டத்தை, 2015-2019 ஆண்டுகால நல்லாட்சியின் பங்காளிகளாக இருந்த போது நாம் ஆரம்பித்து வைத்தோம். எமது கால பகுதியில் நடைபெற்ற இந்த வீடு கட்டும் பணிகளில், யூஎன்-ஹெபிடாட் என்ற ஐக்கிய நாடுகள் சபையின் மனித வாழ்விட திட்டம் (United Nations Human Settlements Programme - UN-Habitat), இலங்கை செஞ்சிலுவை சங்கம் (Sri Lanka Red Cross Society - SLRCS), சர்வதேச செஞ்சிலுவை மற்றும் செம்பிறை
+The Indian Housing Scheme for the fourth phase of the plantation people who build 1,300 houses with an estimate of one house and Rs.
+
+Thanks to the Government of India on this scheme with the donation of the Government of India, we welcome the building work.. At the same time, the position of the Tamil Progressive Alliance is that this project practice should be fully transparent.
+
+When we were partners of goodwill in 2015-2019, we started the Indian-assisted housing project in plantations. In the construction of this house in our time, the United Nations Human Settlements Program - UN -Habitat, Sri Lanka Red Cross Society Society Society Society and International Central
+
+The International Federation of Red Cross and Red Crescent Society Societies (IFRC) has done well as well as the implementation and surveillance of non-governmental organizations.
 
 ...
 
 [Data](articles/d9362e97.json)
+
+[Extended Data](ext_articles/d9362e97.ext.json)
 
 ---
 
@@ -199,6 +261,22 @@ The suspects have been arrested according to an investigation conducted under th
 [Data](articles/02555ac0.json)
 
 [Extended Data](ext_articles/02555ac0.ext.json)
+
+---
+
+### මුලින්ම මහ මැතිවරණය තිබ්බොත් ජනතා මැතිවරණය බලන්න පුළුවන්
+
+*2024-03-17 19:25:21* · [`adalk`](https://www.ada.lk/breaking_news/මුලින්ම-මහ-මැතිවරණය-තිබ්බොත්-ජනතා-මැතිවරණය-බලන්න-පුළුවන්/11-408659) · `si`
+
+ඡන්දයක් පවත්වන්න කැමති අයත් ඉන්නවා නැති අයත් ඕනෑම පක්ෂයක ඉන්නවා ඒත් අවසන් තීරණය ගන්නෙ පක්ෂය විසින් බව පාර්ලිමේන්තු මන්ත්‍රී නාමල් රාජපක්ෂ පැවසීය.ඔහු මේ බව ප්‍රකාශ කලේ මාධ්‍ය විසින් නැගූ ප්‍රශ්නයකට පිලිතුරු දෙමිනි.මෙහිදී වැඩිදුරටත් අදහස් දැක්වූ නාමල් රාජපක්ෂ ,
+
+"ඡන්ද පැවැත්වීමට අකමැති වීම අද ඊයේ සිද්ධ උන දෙයක් නෙවෙයි හැත්තෑ පහේ තියන්න ඕනෙ ඡන්දය හැත්තෑහත දක්වා කල් දැමුවා,ඒ වගේම අවුරුදු දාහතක් තිස්සේ එක්සත් ජාතික පක්ෂය අතීතයේ ඡන්ද කල් දැමුවා යහපාලන ආණ්ඩුව පලාත්සභා විසුරුවා හැරියා අද වෙනතුරු ඡන්ද නෑ දැන් පලාත්පාලන ඡන්දෙ නෑ ඉතින් එහෙමයි කියලා ඡන්ද පැවැත්වීම නොකර ඉන්න බෑ.මහින්ද ජනාධිපතිතුමාගෙ කාලෙ වෙලාවට ඡන්දය තිබ්බා.
+
+මම කියන්නෙ මහ මැතිවරණයක් තිබ්බොත් සැබෑ ජනමතය බලා ගන්න පුළුවන් කියලා.පක්ෂය ඇතුලෙ පෞද්ගලික මත තියෙන්න පුළුවන් මැතිවරණ එපා කියන්න පුළුවන් හැබැයි ඒවා පෞද්ගලික මත විතරයි.පක්ෂය තීරණය කළොත් මොකක්ද තියන්න ඕනෙ මැතිවරණය කියලා, ඊට හැම දෙනාම සහයෝගය දිය යුතුයි" නාමල් රාජපක්ෂ වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/0292704a.json)
 
 ---
 
@@ -2315,75 +2393,5 @@ Two unidentified persons who came in a motorcycle near the T-56 riffle were seri
 [Data](articles/1da0f8d5.json)
 
 [Extended Data](ext_articles/1da0f8d5.ext.json)
-
----
-
-### One killed in bus accident - 37 hospitalized
-
-*2024-03-17 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194586) · `si`
-
-A bus accident in Peradeniya, Kobbekaduwa Junction, Yahalagetena, killed one and hospitalized 37, including the driver. The bus, carrying 38 devotees to Nalliyawala International Buddhist Center, slipped and hit a tree. Two injured were sent to Kandy Hospital.
-
-🟩
-
-Bus operated 38 devotees who had come to pay homage to the Nalliyawala International Buddhist Center.
-
-37 persons including the driver were injured and another died.
-
-The accident occurred in the evening yesterday (16), the accident occurred in the evening, Peradeniya, Kobbekaduwa Junction, Yahalagetena.
-
-The bus driver slipped the bus to 15 meters and slipped with a tree and hit the bus while bus carrying devotees were traveling towards the rid of the bus.
-
-38 persons including the driver of the accident were injured in the deaths of the Peradeniya Hospital.
-
-Two of the injured have been sent to the Kandy Hospital and the Peradeniya Police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/85f2a4ae.json)
-
-[Extended Data](ext_articles/85f2a4ae.ext.json)
-
----
-
-### Recent Indian films outclass most Hollywood movies
-
-*2024-03-17 06:26:00* · [`islandlk`](http://island.lk/recent-indian-films-outclass-most-hollywood-movies/) · `en`
-
-The major film awards – the 96th Oscars or Academy Awards – were awarded at a glittering event last weekend. Christopher Nolan directed Oppenheimer won eight Oscars, being nominated for 13. In all it has won 30 trophies. Record for most Oscars is jointly held by Ben Hur, Titanic and Lord of the Rings, each winning 11 Oscars. This global interest in films gave me the reason to write about an impression that has grown in me after seeing Netflix films. The selection offered in different areas of the world appears to be different. We in this geographical area seem to be having more eastern films, Hindi and Tamil mostly. My son in the US advises me to watch this or that film – not available in my Netflix streaming.
-
-...
-
-[Data](articles/7138b2f8.json)
-
-[Extended Data](ext_articles/7138b2f8.ext.json)
-
----
-
-### Weather today
-
-*2024-03-17 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194585) · `si`
-
-The Department of Meteorology predicts widespread rain across the country today, with heavy showers in Sabaragamuwa, Central provinces, Galle, and Kalutara districts. Wind speeds are expected to be 15-30 km/h, affecting sea areas from Kankesanthurai to Batticaloa.
-
-🟩
-
-The Department of Meteorology will be mainly mainly across the country today (17).
-
-The Department states that in some places in the Sabaragamuwa and Central provinces and in some places are expected to be met with a murder in the Galle and Kalutara districts.
-
-Meanwhile, there is mainly in areas around the island.
-
-Winds of the sea areas off the coast extending from Kankesanthurai to Batticaloa and Winds from Batticaloa to Batticaloa via Batticaloa via Batticaloa.
-
-Winds will be the speed.. The Department of Meteorology is about 15-30.
-
-The sea areas around the island are slightly rough to normal.
-
-◼️
-
-[Data](articles/2000385f.json)
-
-[Extended Data](ext_articles/2000385f.ext.json)
 
 ---

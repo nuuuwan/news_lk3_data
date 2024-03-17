@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 12:17:47**
+As of **2024-03-17 12:33:25**
 
 ## Newspaper Stats
 
-*Scraped **13,370** Articles*
+*Scraped **13,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 712
 islandlk | 735
-adalk | 1,140
+adalk | 1,142
 adaderanalk | 1,615
 tamilmirrorlk | 1,633
-virakesarilk | 1,856
-dailymirrorlk | 2,043
+virakesarilk | 1,857
+dailymirrorlk | 2,045
 adaderanasinhalalk | 2,114
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,368 (100.0%) of 13,370 articles have been extended.
+13,370 (100.0%) of 13,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### Future SJB government will make English medium education compulsory: Sajith
+
+*2024-03-17 12:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Future-SJB-government-will-make-English-medium-education-compulsory-Sajith/108-279008) · `en`
+
+Kurunegala, March 17 (Daily Mirror) - A future SJB government will make English medium education compulsory, Opposition Leader Sajith Premadasa said over the weekend.
+
+"We will make English medium education compulsory for students from Grade one to thirteen," he said addressing a youth rally in Kurunegala.
+
+"We will also teach young people learn Chinese, Hindi, Japanese, Information Technology and computer science free of charge," he also said.
+
+◼️
+
+[Data](articles/59bc540c.json)
+
+---
+
+### தேசிய மக்கள் சக்தியின் அமைச்சரவையில் வடபகுதியை சேர்ந்த அமைச்சர்கள் - வவுனியாவில் அனுரகுமார
+
+*2024-03-17 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/178928) · `ta`
+
+தேசிய மக்கள் சக்தியின் எதிர்கால அரசாங்கத்தின் அமைச்சரவையில் வடபகுதியை  சேர்ந்தவர்களும் இடம்பெற்றிருப்பார்கள் என ஜேவிபியின் தலைவர் அனுரகுமாரதிசநாயக்க வவுனியாவில் தெரிவித்துள்ளார்.
+
+தீவிரவாதபோக்கற்ற இனவாதமற்ற மிதவாத தலைவர்களுடன் நாங்கள் ஏற்கனவே பேச்சுவார்த்தைகளில் ஈடுபட்டுள்ளோம் எனவும் அவர் தெரிவித்துள்ளார்.
+
+எதிர்கால தேசிய மக்கள் சக்தி அரசாங்கத்தின் அமைச்சரவையில் வடக்கை சேர்ந்தவர்களும் இடம்பெறவேண்டும் தீவிரவாதபோக்கற்ற இனவாதமற்ற மிதவாத தலைவர்களுடன் பேச்சுவார்த்தைகளில் ஈடுபடுவதற்கு நாங்கள் தயார் அவர்கள் தேசிய மக்கள் சக்தி அரசாங்கத்தின் ஒருபகுதியாகவேண்டும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+மொழி பற்றும் காணி பிரச்சினைகளிற்கு தேசிய மக்கள் சக்தி தீர்வை காணும் தமிழ் மக்களின் அரசியல் உரிமைகளை உறுதி செய்ய அரசமைப்பில் திருத்தங்களை மேற்கொள்ளவேண்டும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+மொழிப்பிரச்சினைக்கு தீர்வை காண்பதற்கான நடவடிக்கைகளை நாங்கள் எடுப்போம் என உறுதிமொழி வழங்குகின்றோம்,உங்கள் மொழியில் கருமங்களை ஆற்றுவதற்கான உரிமையை உறுதி செய்வோம் எனவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/5f816a86.json)
+
+---
 
 ### Sri Lanka records 2.3% negative GDP growth in 2023
 
@@ -48,19 +84,47 @@ The “taxes less subsidies on products” component accounted for a 6.2 percent
 
 [Data](articles/220308f5.json)
 
+[Extended Data](ext_articles/220308f5.ext.json)
+
 ---
 
-### தலதாவை  தரிசனம்  செய்தார் ,  யுவராஜ் சிங்
+### Navy arrest nearly 150 Indian fishermen in 18 trawlers within SL waters this year
+
+*2024-03-17 11:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Navy-arrest-nearly-150-Indian-fishermen-in-18-trawlers-within-SL-waters-this-year/108-279006) · `en`
+
+Jaffna, March 17 (Daily Mirror) - The Sri Lanka Navy has seized a total of 18 Indian poaching trawlers and 146 Indian fishermen within Sri Lankan waters in 2024.
+
+In a latest incident, the Navy seized two Indian trawlers and arrested 21 Indian fishermen poaching in Sri Lankan waters off the Delft Island.
+
+The Navy said they conducted a special operation to chase away Indian poaching trawlers from Sri Lankan waters during the dark hours of yesterday and the arrest was made during this operation.
+
+The Sri Lanka Navy continues to conduct regular patrols and operations in Sri Lankan waters to curb illegal fishing practices of foreign trawlers, taking into account the impact of those practices on the livelihood of local fishermen.
+
+The seized trawlers together with 21 Indian fishermen were brought to the Kankesanthurai Harbour and handed over to the Mailadi Fisheries Inspector for onward legal proceedings.
+
+◼️
+
+[Data](articles/5d59dde7.json)
+
+---
+
+### Yuvraj Singh darshan
 
 *2024-03-17 11:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதாவை-தரிசனம்-செய்தார்-யுவராஜ்-சிங்/175-334788) · `ta`
 
-இந்திய கிரிக்கெட் அணியின் முன்னாள் கிரிக்கெட் வீரர்  யுவராஜ் சிங், கண்டியில் உள்ள வரலாற்று சிறப்புமிக்க ஸ்ரீ தலதா மாளிகைக்கு சென்று தரிசனம் செய்துள்ளார் .
+Yuvraj Singh, a former Indian cricketer, visited Sri Dalada House in Kandy and participated in the World Legend Cricket Tournament at Pallekela International Cricket Ground.
 
-யுவராஜ் சிங் மற்றும் முன்னாள் கிரிக்கெட் வீரர்கள் பலர் கண்டியில் கிட்டத்தட்ட ஒரு வாரமாக தங்கியுள்ளதுடன்   பல்லேகல சர்வதேச கிரிக்கெட் மைதானத்தில் நடைபெறும் உலக லெஜண்ட் கிரிக்கெட் போட்டியில் பங்கேற்பதற்காகவே  அவர்கள்  கண்டி வந்துள்ளமை  குறிப்பிடத்தக்கது .
+🟩
+
+Former Indian cricketer Yuvraj Singh has visited the historic Sri Dalada House in Kandy.
+
+Yuvraj Singh and many former cricketers have been staying in Kandy for almost a week and they have been in Kandy to participate in the World Legend Cricket Tournament at the Pallekela International Cricket Ground.
 
 ◼️
 
 [Data](articles/20b224ef.json)
+
+[Extended Data](ext_articles/20b224ef.ext.json)
 
 ---
 
@@ -109,6 +173,18 @@ Meanwhile, the suspect was accused of assaulting a development officer in a fuel
 [Data](articles/80013a0b.json)
 
 [Extended Data](ext_articles/80013a0b.ext.json)
+
+---
+
+### පිටිගල ද්විත්ව ඝාතනයට දෙකක් දැලේ
+
+*2024-03-17 11:41:58* · [`adalk`](https://www.ada.lk/breaking_news/පිටිගල-ද්විත්ව-ඝාතනයට-දෙකක්-දැලේ/11-408645) · `si`
+
+පිටිගල හොරන්ගලදී සිදු කරන වෙඩි තැබීමකින් පුද්ගලයන් දෙදෙනෙකු මියහොස් තවත් තිදෙනෙකු තුවාල ලැබීම සිද්ධියට සම්බන්ධ යයි සැකකෙරෙන දෙදෙනෙකු ඊයේ 16දා රෑ පිටිගල තල්ගස්වලදී සැකපිට ප්‍රශ්න කිරීම සදහා අත් අඩංගුවට ගත් බව පිටිගල පොලීසිය කියයි. මේ සැකකරුවන් දෙදෙනාම නියාගම තල්ගවල පදිංචිකරුවන් බවත් ඔවුන් දෙදෙනාම තිස්හය හැවිරිදි අයවලුන් බවත් පොලීසිය කියයි. පිටිගල හොරන්ගල්ල ගුරුවල හන්දියේදි වෙළද සලක් ඉදිරිපිට මේ වෙඩි තැබීම සිදුවූයේ මාර්තු මස11 වැනිදා රෑ 7.30ට පමණ බවත් යතුරු පැදියකින් පැමිණි නාදුනන පුද්ගලයන් දෙදෙනෙකු විසින් T56 වර්ගයේ ගිනි අවියකින් වෙඩි තැබිම සිදුකර පලා ගොස් තිබූ බවත් පොලීසිය කියයි. මේ වෙඩි තැබීමෙන් නාදුනන තුවක්කුකරුවන්ගේ ඉලක්කයවූ වෙළදසල් හිමියා එම අවස්ථාවේදී පලා යාම නිසා වෙළද සලට බඩු රැගෙන යාමට පැමිණි පුද්ගලයින් දෙදෙනෙකු මියගොස් තවත් තිදෙනෙකු බරපතල තුවාල සිදුවූ බවත් පොලීසිය කියයි.
+
+...
+
+[Data](articles/83da2175.json)
 
 ---
 
@@ -463,6 +539,24 @@ It is reported that the deceased girl is the youngest in the family and has a ba
 [Data](articles/ea9d0d40.json)
 
 [Extended Data](ext_articles/ea9d0d40.ext.json)
+
+---
+
+### අපුර වී මිලදි ගන්න රජයෙන් බිලියනයක්
+
+*2024-03-17 09:36:22* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-වී-මිලදි-ගන්න-රජයෙන්-බිලියනයක්/11-408644) · `si`
+
+මෙවර මහ කන්නයේ වී අස්වනු මිලදී ගැනීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදෙස් මත අනුරාධපුර දිස්ත්‍රික්කය වෙනුවෙන් රුපියල් මිලියන 1000ක මුදලක් වෙන්කර ඇති බව වී අලෙවි මණ්ඩලයේ අනුරාධපුර  ප්‍රාදේශීය කළමනාකරු නිමල් තෙන්නකෝන් මහතා පවසයි.
+
+වීමලදී ගැනීමේ ආරම්භක වැඩ සටහන වෙනුවෙන් ජනාධිපතිවරයාගේ මැදිහත්වීමෙන් කෘෂිකර්ම අමාත්‍යාංශය මගින් රුපියල් මිලියන පන්සීයක මුදලක් ලබා දී තිබූ අතර පෙරේදා (15දා) දිනයේදී ද නැවත රුපියල් මිලියන 500ක මුදලක මුදලක් ජනාධිපතිවරයා විසින් අනුරාධපුර දිස්ත්‍රික්කය වෙනුවෙන් වී මිලදී ගැනීම සඳහා මුදල් ලබා දී ඇති බව ද ඒ මහතා පවසයි.
+
+අනුරාධපුර දිස්ත්‍රික්කය තුල වී මිලදී ගැනීමේ මධ්‍යස්ථාන 33ක් පවතින අතර මේ වන විට නොච්චියාගම මධ්‍යස්ථානය පමණක් විවෘත  කටයුතු කර ඇති බවත්  ඉදිරියේදී අනුරාධපුර ඇතුළු  වී මිලදී ගැනීමේ මධ්‍යස්ථාන  අවශ්‍යතාවය මත විවෘත කරන බව ඒ මහතා කීය.
+
+රජයේ සහතික මිලට වඩා වැඩි මිලකට පෞද්ගලික අංශය විසින් වී මිලදී ගැනීම සඳහා යොමු වීම හේතුවෙන් රජයේ වී ගබඩා වෙත වී අලෙවි කිරීම සඳහා ගොවීන් තුල උනන්දුවක් නොමැති බව ඒ මහතා  වැඩි දුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/a9e2709a.json)
 
 ---
 
@@ -2225,123 +2319,5 @@ He said that when the political mark was raised, I was disgusted with politics.
 [Data](articles/f551b364.json)
 
 [Extended Data](ext_articles/f551b364.ext.json)
-
----
-
-### Bangladesh drop Litton from squad for third Sri Lanka ODI
-
-*2024-03-16 15:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladesh-drop-Litton-from-squad-for-third-Sri-Lanka-ODI/108-278997) · `en`
-
-March 16, (ESPNcricinfo) - Bangladesh have dropped Litton Das for the third ODI against Sri Lanka. He has been released from the squad on advice from the team management to play in the ongoing Dhaka Premier League.
-
-Bangladesh have replaced him with wicketkeeper-batter Jaker Ali who scored an impressive 68 in the first T20I against Sri Lanka. He has 84 List A appearances and has racked up 1918 runs at an average of 34.87.
-
-It is the first time that Litton has lost his place since 2021 when he was dropped for a T20I series against Pakistan.
-
-Litton was out without scoring in the first two ODIs against Sri Lanka, and also failed to impress in the T20I series against them, registering scores of 0, 36 and 7 in the three matches.
-
-From the start of the 2023 ODI World Cup, Litton has scored just 313 runs in 14 ODIs at an average of 24.07. He has crossed the 50-run mark just twice in that time.
-
-...
-
-[Data](articles/c1a7d34c.json)
-
-[Extended Data](ext_articles/c1a7d34c.ext.json)
-
----
-
-### Sign up for a new alliance
-
-*2024-03-16 15:02:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/புதிய-கூட்டணிக்கு-கைச்சாத்து/76-334751) · `ta`
-
-The Democratic People's Congress and the United Freedom Party signed an alliance agreement in Colombo, with key figures from both parties present. This follows the UPFA's previous alliance in Nuwara Eliya.
-
-🟩
-
-The Democratic People's Congress and the United Freedom Party have signed an agreement in Colombo to form a new alliance.
-
-United Freedom Party General Secretary Savior Jesudas said the event was held in the Democratic People's Congress editorial (15.03.2024) at Luris Road, Bambalapitiya, Colombo.
-
-Democratic People's Congress leader Prabha Ganesan and party general secretary Gangadharan Suresh were also present at the event.
-
-Similarly, Savior Jesudas added that the National Council members including United Freedom Party leader Som Koch and party general secretary Saveriyar Jesudas have signed an agreement for the new coalition.
-
-It is noteworthy that the United Freedom Party (UPFA), which is heading the Hatton region of Nuwara Eliya district, has formed an alliance with the national people in the Nuwara Eliya district during the last parliamentary election.
-
-◼️
-
-[Data](articles/3043d9a9.json)
-
-[Extended Data](ext_articles/3043d9a9.ext.json)
-
----
-
-### A person is hit with a sharp object
-
-*2024-03-16 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194571) · `si`
-
-A person was murdered in Weligama's Uyankanda area this morning with a sharp instrument. The victim and suspect ran tourist hotels. The suspect was attacked by the victim's family.
-
-🟩
-
-A person has been murdered in the Uyankanda area in Weligama this morning (16).
-
-The murder had been carried out with a sharp instrument, police said.
-
-The deceased and the suspect are running two tourist hotels and the deceased has been attacked by the wife, children and relatives of the suspect.
-
-The suspect had been assaulted by the murder with a sharp instrument.
-
-◼️
-
-[Data](articles/067bf79a.json)
-
-[Extended Data](ext_articles/067bf79a.ext.json)
-
----
-
-### Demonstration in Vavuniya seeking justice
-
-*2024-03-16 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/178868) · `ta`
-
-A rally in Vavuniya demanded justice for arrests on Vedukkuni hill, starting at the old bus station, passing through Vavuniya Manukkuttu Tower to Iluppaiyadi, and ending at the Vavuniya Prison. Protesters carried slogans against police anarchy, property rights, and religious freedom.
-
-🟩
-
-A demonstration rally was held on Saturday (16) demanding justice for those arrested on the Vedukkuni hill.
-
-The protest was held in front of the old bus station in Vavuniya and the rally had reached the Vavuniya city through the Vavuniya Manukkuttu Tower and reached Iluppaiyadi.
-
-The demonstration was held in front of the Archaeological Department and the rally was completed in front of the Vavuniya Prison.
-
-The protesters carried the slogans, such as' the police anarchy, our property, our property, our arrests, do not prevent worship, do not prevent the worship of Shiva, the North -East Tamil homeland, do not lie, stop Buddhism. "
-
-◼️
-
-[Data](articles/c6848635.json)
-
-[Extended Data](ext_articles/c6848635.ext.json)
-
----
-
-### Gotabaya lacked basic management skills: Ven. Muruththettuwe Ananda Thera
-
-*2024-03-16 14:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gotabaya-lacked-basic-management-skills-Ven-Muruththettuwe-Ananda-Thera/108-278995) · `en`
-
-Former President Gotabaya Rajapaksa did not have the management skills of even a small child, Chief Sanganayaka of the Western Province and chief incumbent of the Abhayarama, Most Ven. Muruththettuwe Ananda Thera said.
-
-He said this while attending the launch of the book titled Echo of People's Struggle (Aragalaye Donkaraya) yesterday.
-
-Former President Mahinda Rajapaksa and Speaker Mahinda Yapa Abeywardena were present on this occasion.
-
-"Mahinda Rajapaksa did not receive such a response from the people and he still has the respect of the people," he said.
-
-Ven. Ananda Thera further said that the Maha Sangha, including him, worked hard with huge dedication to make Gotabaya Rajapaksa the President. However, the Rajapaksas' respect was destroyed due to Gotabaya's administrative incompetence.
-
-◼️
-
-[Data](articles/2ad35918.json)
-
-[Extended Data](ext_articles/2ad35918.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 20:33:20**
+As of **2024-03-17 20:50:37**
 
 ## Newspaper Stats
 
-*Scraped **13,434** Articles*
+*Scraped **13,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,61 @@ adaderanalk | 1,623
 tamilmirrorlk | 1,645
 virakesarilk | 1,860
 dailymirrorlk | 2,051
-adaderanasinhalalk | 2,131
+adaderanasinhalalk | 2,132
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,431 (100.0%) of 13,434 articles have been extended.
+13,434 (100.0%) of 13,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### සහෝදරයින්ගේ එක්දින සටනේ ජය තර්ස්ටන් විද්‍යාලයට
+### රට රැකියා ජාවාරමක නිරත වූ අඹුසැමි යුවළක් අත්අඩංගුවට
+
+*2024-03-17 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194612) · `si`
+
+යුක්‍රේන හමුදාවේ රැකියා දෙන බව පවසමින් මිනිස් ජාවාරමේ යෙදුණු මෙරට අඹුසැමි යුවළක් එළඹෙන 21 වැනිදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට කොටුව මහෙස්ත්‍රාත් අධිකරණය අද නියෝග කළේය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ තැනැත්තන් වෙළෙඳාම, ජාවාරම් විමර්ශන හා සමුද්‍රීය අපරාධ විමර්ශන කොට්ඨාසයට අද පැමිණ භාරවීමෙන් අනතුරුව ඔවුන් අත්අඩංගුවට ගෙන තිබුණි.
+
+සැකකාර අඹුසැමි යුවළ කඩවත ප්‍රදේශයේ පදිංචිව සිටින අතර එම පුරුෂයා වෘත්තීයෙන් ආර්ථික විද්‍යා ගුරුවරයෙකි.
+
+යුක්‍රේන හමුදාවේ රැකියා ලබාදෙන බව පවසා ඔවුන් මෙරටින් පිටත් කර ඇති පුද්ගලයින් සංඛ්‍යාව 55කි.
+
+යුද හමුදාවේ සේවය කළ පිරිසක්ද ඒ අතර වන අතර යුක්‍රේන හමුදාවේ කපිතාන්වරයෙක් වශයෙන් සේවය කර දැනට මියගොස් සිටින රනීෂ් හේවගේ නැමැත්තාගේ සම්බන්ධීකරණයෙන් අදාළ පිරිස එවකට යුක්‍රේනයට යැවීමට සැකකරුවන් පියවර ගෙන තිබූ බව විමර්ශනවලදී අනාවරණ වී තිබේ.
+
+එහිදී හෙළිවී ඇත්තේ ශ්‍රී ලංකාවෙන් පිටත්වන පිරිස් ඉන්දියාව හරහා පෝලන්තයට යොමුකර ඉන් පසු යුක්‍රේනයට ඇතුළු කර ඇති බවය.
+
+එලෙස පිටත් කරවන එක් අයෙකුගෙන් ජාවාරම්කරුවන් රු. ලක්ෂ 2ත් 5ත් අතර මුදලක් අය කරගෙන ඇති බවද අනාවරණ කරගෙන තිබේ.
+
+...
+
+[Data](articles/ea185eea.json)
+
+---
+
+### Thunderna Vidyalaya wins one day struggle
 
 *2024-03-17 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194611) · `si`
 
-කොළඹ ඉසිපතන විද්‍යාලය සමඟ පැවති 44වැනි සහෝදරයින්ගේ සටන එක්දින ක්‍රිකට් තරගය ලකුණු 99කින් ජය ගැනීමට කොළඹ තර්ස්ටන් විද්‍යාලය අද (17) සමත්විය.
+Thurstan College, Colombo, won the 49-run match against Thunderna Vidyalaya, scoring 251/9 in 50 overs, while Isipathana Vidyalara lost all 10 wickets for 152 runs.
 
-කොළඹ පී. සරා ඕවල් ක්‍රිඩාංගණයේ පැවති තරගයේ පළමුව පන්දුවට පහරදුන් තර්ස්ටන් විද්‍යාලය පන්දුවාර 50 අවසානයේ කඩුලු 9ක් දැවී ලකුණු 251ක් රැස්කළේය.
+🟩
 
-පිළිතුරු ඉනිම ක්‍රිඩාකළ ඉසිපතන විද්‍යාලයට පන්දුවාර 39යි පන්දු 4ක් අවසානයේ සියල්ලන් දැවී ලබාගැනීමට හැකිවූයේ ලකුණු 152ක් පමණි.
+Thurstan College, Colombo won the Battle of the 44th Brother 49 runs today (17).
+
+Colombo P. Thurstan College scored 251 runs for the loss of 9 wickets at the end of 50 overs.
+
+In reply, Isipathana Vidyalara scored only 152 runs for the loss of all bowls.
 
 ◼️
 
 [Data](articles/8180e9d6.json)
+
+[Extended Data](ext_articles/8180e9d6.ext.json)
 
 ---
 
@@ -152,19 +182,27 @@ The court issued this order based on a complaint made by Sri Lankan former crick
 
 ---
 
-### ජනපතිවරණය කල් දාන්නේ නෑ
+### Presidential election will not be postponed
 
 *2024-03-17 18:48:41* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-කල්-දාන්නේ-නෑ/11-408657) · `si`
 
-මෙවර ජනාධිපතිවරණය කිසිසේත් කල් නොදමන බවත් මෙවර ජනාධිපතිවරණයේදී අපේක්ෂකයා ලෙස අනිවාර්යෙන් රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් වෙනවා යැයි විදේශ කටයුතු හා කම්කරු අමාත්‍ය මනූෂ නානායක්කාර මහතා පැවසීය .
+The presidential election will not be postponed. Ranil Wickremesinghe will run as the candidate. He believes he can develop the country by 2048.
 
-අමාත්‍යවරයා මේ අදහස් පවසා  සිටියේ ජයගමු ශ්‍රී ලංකා ජනතා ජංගම සේවාව පොලොන්නරුව ගල්ලෑල්ලේ පිහිටි පොලොන්නරුව ජාතික ක්‍රීඩාංගණයේදී කම්කරු හා විදේශ කටයුතු පිලිබද අමාත්‍ය මනූෂ නානායක්කාර මහතාගේ ප්‍රධානත්වයෙන් දෙවෙනි දිනටත් අද  උදෑසන විශේෂ ජංගම සේවාවට  එක්විමිනි.
+🟩
 
-මෙවර ජනාධිපතිවරණයේදි මොන පක්ෂයෙන් පොදු සන්ධානයකින් ස්වාධීන පක්ෂයකින් තරග කලත් ඒ ඕනෑම පක්ෂයක හෝ සන්ධානයක ජනාධිපති අපේක්ෂකයා වෙන කවුරුවත් නොව රනිල් වික්‍රමසිංහ මහතා බවයි.තවද අපිට මැතිවරණ කල් දාන්නවත් මැතිවරණ පවත්වන එකට කකුල් මාට්ටුවක් දාන්නත් කිසි සේත් අවශ්‍ය නොවන බවත් නියම වේලාවට ජනාධිපතිවරණය පවත්වන බවද ඒ සදහා සියලු කටයුතු  සූදානම් කරමින් පවතින බවද මෙහිදී පවසා සිටියේය.
+The presidential election will not be postponed to the presidential election and said that Ranil Wickremesinghe will be submitted as the candidate in this year's presidential election.
+
+The Minister said these comments participating at the special mobile service this morning under the patronage of Labor and Foreign Affairs Manusha Nanayakkara at the Polonnaruwa National Stadium in Polonnaruwa.
+
+All matters that the presidential candidate of any of the party's independent party in this year's presidential electionHe said that it is preparing.
+
+The people who think that the country is respected and trusted in all parties will continue to go to the country's rallies, who can take a goss, who will try to get the wrinkles again and will try to get the wrinkles again, when the wrinkles of the country will go into the country again.Shall be found in the future. . The President could, bring up this country.
 
 ...
 
 [Data](articles/6b9dcd34.json)
+
+[Extended Data](ext_articles/6b9dcd34.ext.json)
 
 ---
 
@@ -203,6 +241,8 @@ Investigations have uncovered that the suspect, a Deputy Controller of the Immig
 ...
 
 [Data](articles/fd8e7981.json)
+
+[Extended Data](ext_articles/fd8e7981.ext.json)
 
 ---
 
@@ -2341,19 +2381,5 @@ The 192 refreshed rooms, including 80 fully renovated Superior Rooms, 96 Deluxe 
 [Data](articles/6fe86d83.json)
 
 [Extended Data](ext_articles/6fe86d83.ext.json)
-
----
-
-### IIHS continues to revolutionise the healthcare industry with their theme ‘Api Piliganeemen Ihalai’
-
-*2024-03-17 04:07:00* · [`islandlk`](http://island.lk/iihs-continues-to-revolutionise-the-healthcare-industry-with-their-theme-api-piliganeemen-ihalai/) · `en`
-
-The International Institute of Health Sciences (IIHS) has been able to rise to the top among health education institutes in the South Asian region by further expanding their high-quality educational programmes designed for students who wish to pursue careers in the health sector, including nursing. Since its inception, the IIHS has been producing globally recognised healthcare professionals whose impact reverberates not only within the corridors of the institute but across the international healthcare industry. They have recently launched the theme “Piliganeemen Ihalai” (bearing a high recognition) with their widespread recognition for excellence in nurturing healthcare talent. They consider producing globally recognised healthcare professionals to be more than a mere goal – a resounding reality.
-
-...
-
-[Data](articles/c6ed67eb.json)
-
-[Extended Data](ext_articles/c6ed67eb.ext.json)
 
 ---

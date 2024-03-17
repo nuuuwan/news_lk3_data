@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 19:33:10**
+As of **2024-03-17 19:49:47**
 
 ## Newspaper Stats
 
-*Scraped **13,425** Articles*
+*Scraped **13,427** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 124
+colombotelegraphcom | 125
 bbccomsinhala | 149
 dbsjeyarajcom | 187
 newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 712
 islandlk | 735
-adalk | 1,152
+adalk | 1,153
 adaderanalk | 1,622
 tamilmirrorlk | 1,643
 virakesarilk | 1,860
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,425 (100.0%) of 13,425 articles have been extended.
+13,425 (100.0%) of 13,427 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -83,6 +83,24 @@ A Deputy Controller of Immigration & Emigration and a former Deputy Controller h
 [Data](articles/9a250165.json)
 
 [Extended Data](ext_articles/9a250165.ext.json)
+
+---
+
+### පාතාලයට යතුරු පැදි දුන් දෙදෙනෙක් අල්ලයි
+
+*2024-03-17 18:42:36* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලයට-යතුරු-පැදි-දුන්-දෙදෙනෙක්-අල්ලයි/11-408656) · `si`
+
+විදේශගතව සැඟව සිට මෙරට  අපරාධ මෙහෙයවන සංවිධානාත්මක අපරාධ කල්ලි නායකයකු  වන ඩුබායි සුද්දා ගේ අපරාධ සඳහා  යතුරුපැදි සොරාගෙන මුදලට සැපයූ පුද්ගලයන් දෙදෙනෙකු හෝමාගම පිටිපන ප්‍රදේශයේදී හොරයින් මත්කුඩු තොගයක් සමග අත්අඩංගුවට ගත් බවහෝමාගම  මූලස්ථාන පොලිසිය කියයි.
+
+සැකකරුවන් දෙදෙනා සන්තකයේ තිබී මත්කුඩු ග්‍රෑම් 20 මිලිගෑම් 600 ක ප්‍රමාණයක් හා යතුරුපැදි  අංක තහඩු දෙකක් පොලිස් භාරයට ගෙන ඇත.
+
+මීට මාස කීපයකට ඉහතදී හෝමාගම, පිටිපන, ඉස්කෝලේ හන්දිය ආසන්නයේ නවතා තිබූ යතුරුපැදියක් අස්ථානගත වී ඇති බවට ලද පැමිණිල්ලකට අනුව ඒ සම්බන්ධයෙන් සී.සී.ටිවි කැමරා දර්ශන ඔස්සේ විමර්ශන කටයුතු සිදුකරමින් සිටි හෝමාගම පොලිස් ස්ථානයේ අපරාධ අංශයේ නිලධාරීන්ට මෙම සැකකරුවන් සම්බන්ධයෙන් ලද හෝඩුවාවක් මත හෝමාගම නගරයේදී  අත්අඩංගුවට ගැනීමට හැකි වූ බව පොලිසිය කියයි.
+
+ඔවුන් දෙදෙනා පොලිස් ස්ථානය රැගෙන විත් සිදුකළ විමර්ශන වලදී පාතාල කල්ලි නායකයින් කිහිප දෙනෙකු සමග ඇති සබඳතා පිළිබඳව අනාවරණය කර ගැනීමට හැකිවූ බවද පොලිසිය පවසයි.
+
+...
+
+[Data](articles/de9aeb4c.json)
 
 ---
 
@@ -829,6 +847,18 @@ The President emphasized that he should focus on exports and value the gem indus
 [Data](articles/d68c2641.json)
 
 [Extended Data](ext_articles/d68c2641.ext.json)
+
+---
+
+### Singapore Has Chosen The 4th Prime Minister
+
+*2024-03-17 13:59:18* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/singapore-has-chosen-the-4th-prime-minister/) · `en`
+
+The model south-east Asian country, Singapore is reported to have chosen the 4th Prime Minister after the declaration of Independence on 9th August 1965 by its first Prime Minister Lee Kuan Yew. In its long history of existence Singapore had come under the rulership of several different empires successively until it became another Entrepôt trading post of the British Empire in 1819. In 1867 it came under the Direct control of Britain as another conquered member country by them among the Straits Settlements in the South East region as a crown colony.
+
+...
+
+[Data](articles/6b1d2a28.json)
 
 ---
 
@@ -2323,43 +2353,5 @@ In addition, eight senior police superintendents have been transferred and promo
 [Data](articles/a6cc6cca.json)
 
 [Extended Data](ext_articles/a6cc6cca.ext.json)
-
----
-
-### Sri Lankan who founded Bangkok law Firm that has prevailed for 130 years
-
-*2024-03-17 00:14:00* · [`islandlk`](http://island.lk/sri-lankan-who-founded-bangkok-law-firm-that-has-prevailed-for-130-years/) · `en`
-
-No answer to why Sinhalese solicitor split his original name into two
-
-Little did William Alfred Goone Tilleke know when he stepped ashore Siam in 1890 that he would create a law firm that would endure for over 130 years.
-
-In 1890, William Alfred Goone Tilleke, a 31-year-old Singhalese solicitor, came to Siam (now Thailand) to build his legal career. Within four years, Tilleke made an international name for himself through his successful defense of the Siamese military commander Phra Yod Muang Khwang, whose prosecution for killing a French officer was demanded by the Franco-Siamese treaty.
-
-...
-
-[Data](articles/3f324e28.json)
-
-[Extended Data](ext_articles/3f324e28.ext.json)
-
----
-
-### 2024-03-16 (Saturday)
-
-### My time at Hindu Ladies College
-
-*2024-03-16 23:46:00* · [`islandlk`](http://island.lk/my-time-at-hindu-ladies-college/) · `en`
-
-(This chapter on Goolbai Gunasekera’s Jaffna experience is excerpted from her book on her mother, Clara Motwani, Chosen Ground. The first chapter published last week was a response to ACB Pethiyagoda’s memoir of his time at Jaffna College.)
-
-Mrs. Visaladhy Sivagurunathan, a philanthropic Hindu lady, had gifted the property of Hindu Ladies’ College to the school in 1943. Mother was the school’s fifth Principal. Under her, the first Past Pupils’ Association was formed, with Mrs. Jeevaratnam Rasiah as its first President. Miss Thambu (Mother’s long suffering Tamil tutor) was its Secretary. Just recently, I was invited to speak to the Colombo branch of the HLC alumni.
-
-I met a former HLC teacher there — Mrs Navaratna, formerly Leela Ponniah — along with many old friends. The reverence in which Mother was held was very heart- warming, and it was a moving experience to hear the stories they related of instances in which Mother had touched — and sometimes directed — their lives.
-
-...
-
-[Data](articles/f0c6b561.json)
-
-[Extended Data](ext_articles/f0c6b561.ext.json)
 
 ---

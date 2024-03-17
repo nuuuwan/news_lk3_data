@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 10:17:47**
+As of **2024-03-17 10:33:18**
 
 ## Newspaper Stats
 
-*Scraped **13,350** Articles*
+*Scraped **13,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 710
 islandlk | 735
 adalk | 1,139
 adaderanalk | 1,613
-tamilmirrorlk | 1,627
+tamilmirrorlk | 1,628
 virakesarilk | 1,853
-dailymirrorlk | 2,041
+dailymirrorlk | 2,042
 adaderanasinhalalk | 2,110
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,350 (100.0%) of 13,350 articles have been extended.
+13,350 (100.0%) of 13,352 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### Dilshan Madushanka to miss rest of Bangladesh tour due to injury
+
+*2024-03-17 10:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dilshan-Madushanka-to-miss-rest-of-Bangladesh-tour-due-to-injury/108-279004) · `en`
+
+Colombo, March 17 (Daily Mirror) - Sri Lankan fast bowler Dilshan Madushanka will no longer participate in the ongoing Bangladesh tour due to a left hamstring injury he sustained during the 2nd One Day International (ODI) on Friday (15).
+
+Madushanka had to leave the field while bowling in the second ODI, prompting concerns about his condition.
+
+Following the incident, an MRI scan was conducted on Madushanka, confirming the left hamstring injury, Sri Lanka Cricket said.
+
+As a result, he will return to begin rehabilitation work to recover from the injury.
+
+◼️
+
+[Data](articles/ff0a7fcc.json)
+
+---
+
+### 6 வயது சிறுமி கிணற்றில் விழுந்து மரணம்
+
+*2024-03-17 09:53:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/6-வயது-சிறுமி-கிணற்றில்-விழுந்து-மரணம்/94-334783) · `ta`
+
+மதுரங்குளிய விருத்தோடு பகுதியில் ஆறு வயது சிறுமி ஒருவர் வீட்டில் அரைவாசியாக கட்டப்பட்டிருந்த கிணற்றில் தவறி விழுந்து உயிரிழந்துள்ளதாக மதுரங்குளிய பொலிஸார் தெரிவித்தனர்.
+
+மதுரங்குளிய விருத்தோட்டை வசிப்பிடமாகக் கொண்ட ஹலாம் பாத்திமா சனா (06) விருத்தோடு முஸ்லிம் கல்லூரியில் இந்த வருடம் முதலாம் தரத்தில் அனுமதிக்கப்பட்ட சிறுமி. இவ்வாறு உயிரிழந்த சிறுமி குடும்பத்தில் இளையவர் எனவும் அவருக்கு 11 வயதில் ஒரு சகோதரியொருவர் இருப்பதாகவும் தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/29ed68d3.json)
+
+---
 
 ### 6 years of age falling into a well and death
 
@@ -2267,49 +2299,5 @@ During his tenure as coach, the UAE National Team has obtained ODI and T20I stat
 [Data](articles/0a95e5f1.json)
 
 [Extended Data](ext_articles/0a95e5f1.ext.json)
-
----
-
-### Governemnt’s poor management creates issues for consumers
-
-*2024-03-16 12:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Governemnts-poor-management-creates-issues-for-consumers/108-278990) · `en`
-
-Colombo, March 16 (Daily Mirror) - 'World Consumer Rights Day' is relevant to countries like Sri Lanka, where there are no policies or rights for consumers, presidential candidate Janaka Ratnayake said.
-
-Addressing the media, he said Consumer Rights Day was declared to protect the rights of consumers around the world.
-
-"But in Sri Lanka, there is no such rights for consumers. The country cannot manage the prices of fuel, electricity, water and other essential commodities and goods," he said.
-
-"We are living in a country with poor management. The current government cannot manage even the price of an egg in the local market. Every week, there will be a topic to be discussed regarding essential commodities. During the past few weeks, discussions have been held on egg prices; during the last week, it was about big onions. I cannot imagine what will be the topic next week," Ratnayake said.
-
-...
-
-[Data](articles/5d75294a.json)
-
-[Extended Data](ext_articles/5d75294a.ext.json)
-
----
-
-### Gaza reached Gaza with humanitarian goods
-
-*2024-03-16 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/178850) · `ta`
-
-A ship from Cyprus delivered 200 tonnes of humanitarian goods to Gaza, aiding in hunger relief. The goods were unloaded using a temporary jetty, highlighting the challenges in supplying Gaza. The World Central Kitchen assisted with food.
-
-🟩
-
-The ship departed from Cyprus on Tuesday with 200 tonnes of humanitarian materials as I warned that Gaza was in the grip of hunger.
-
-Pictures have been revealed that the goods are unloaded from the cranes using temporary created jetty.
-
-It is noteworthy that the supply of humanitarian goods into the ground and the air within Gaza is difficult.
-
-The work has been carried out with the help of the World Central Kitchen who provided food.
-
-◼️
-
-[Data](articles/fdd0d412.json)
-
-[Extended Data](ext_articles/fdd0d412.ext.json)
 
 ---

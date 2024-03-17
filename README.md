@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 14:18:04**
+As of **2024-03-17 14:33:25**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 2,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,386 (100.0%) of 13,388 articles have been extended.
+13,388 (100.0%) of 13,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### රටපුරා මැණික් හොයන්න ජනපතිගෙන් සැලසුමක්
+### President to find gems across the country
 
 *2024-03-17 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194598) · `si`
 
-මැණික් හා ස්වර්ණාභරණ කර්මාන්තය ආශ්‍රිතව මතුව ඇති ගැටලු සඳහා විසඳුම් ලබාදෙමින් එම ක්ෂේත්‍රයේ නිරතවූවන්ට සහන ලබාදීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe addressed the gem and jewelry industry, promising relief and discussing tax policies. He urged officials to propose solutions within two weeks, focusing on exports and valuing the gem industry. Plans to survey other areas, including Sabaragamuwa Province and Nuwara Eliya districts, were also mentioned.
 
-ජනාධිපතිවරයා මේ බව සඳහන් කළේ, එම ක්ෂේත්‍රයේ නිරතවූවන් සමඟ ජනාධිපති කාර්යාලයේ පැවති සාකච්ඡාවකදීය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ මැණික් හා ස්වර්ණාභරණ ක්ෂේත්‍රයේ නිරතවූවන් අතර සාකච්ඡාවක් ජනාධිපති කාර්යාලයේදී පසුගියදා පැවැත්වුණි.
+President Ranil Wickremesinghe says he will provide relief to those who engage in the matters and jewelery industry.
 
-ඔවුන්ගේ කර්මාන්තයට බලපා ඇති රජයේ නව බදු ප්‍රතිපත්ති පිළිබඳ ගැටලු මෙන්ම කර්මාන්තයේ සෙසු ගැටලු සම්බන්ධයෙන් මෙහිදී දීර්ඝ ලෙස සාකච්ඡා කර තිබේ.
+The President was speaking at a meeting held at the Presidential Secretariat with those engaged in the field.
 
-ජනාධිපතිවරයා එහිදී පැවසුවේ, මේ මොහොතේ බදු ප්‍රතිපත්තියේ වෙනසක් සිදු කළ නොහැකි නමුත් මැණික් හා ස්වර්ණාභරණ කර්මාන්තය ශක්තිමත් කිරීමට සුදුසු ක්‍රමවේදයක් සකස් කරන බවය.
+President Ranil Wickremesinghe and the gem and jewelery fields were held at the Presidential Secretariat.
 
-එමෙන්ම රාජ්‍ය සහ පෞද්ගලික දෙඅංශයේම දායකත්වයෙන් මෙම ගැටලු විසඳා ගැනීමට අදාළ යෝජනාවලියක් සකස් කර සති දෙකක් ඇතුළත ලබා දෙන්නැයි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී නිලධාරීන්ට උපදෙස් ලබාදුනි.
+The issues of new tax policies and other issues of the industry have been discussed in the public.
+
+The President said that the tax policy could not be changed at the moment but prepare a suitable methodology to strengthen the gem and jewelery industry.
+
+President Ranil Wickremesinghe instructed the officials to provide a proposal to solve these issues within two weeks to formulate a proposal to solve these issues with contribution to the subscription of public and private.
+
+The President emphasized that he should focus on exports and value the gem industry.
 
 ...
 
 [Data](articles/d68c2641.json)
+
+[Extended Data](ext_articles/d68c2641.ext.json)
 
 ---
 
@@ -182,23 +190,29 @@ The Foreign Minister met his life partner in 2007. They have two girls.
 
 ---
 
-### වැවිලි සමාගම් කිහිපයක් සේවකයන්ගේ අර්ථසාධකයට රු. කෝටි 500ක් පොලු තියලා
+### Several plantation companies' provision of Rs. 500 million poles
 
 *2024-03-17 12:56:27* · [`adalk`](https://www.ada.lk/breaking_news/වැවිලි-සමාගම්-කිහිපයක්-සේවකයන්ගේ-අර්ථසාධකයට-රු--කෝටි-500ක්-පොලු-තියලා/11-408647) · `si`
 
-වැවිලි ක්ෂේත්‍රයට සම්බන්ධ ආයතන කීපයක්ම සේවක අර්ථසාධක අරමුදලට ගෙවිය යුතු රුපියල් කෝටි 500 කට ආසන්න මුදලක් නොගෙවීම සම්බන්ධයෙන් එම ආයතන වලට එරෙහිව පවරන ලද නඩු 2122 ක්ම මේවනවිට අධිකරණයෙහි විභාග වෙමින් පවතින බව රාජ්‍ය වැවිලි ව්‍යවසාය හා ප්‍රතිසංස්කරණ සහ මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා කුරුණෑගලදී ප්‍රකාශ කළේය.
+State Minister Ranjith Siyambalapitiya reported on the provision of Rs. 500 million poles by plantation companies, with 2122 cases filed against them. The Minister of Plantation Corporation filed a case against Janatha Estate Development Board. Siyambalapitiya defended the Kurunegala Plantation Company, stating it had shown how to be a state agency. He mentioned action to provide allowances to employees and the need to improve efficiency.
 
-රාජ්‍ය වැවිලි සංස්ථාව, ජනතා වතු සංවර්ධන මණ්ඩලය යන සමාගම්වලට එරෙහිව මෙසේ නඩු පවරා ඇති බවද අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-නමුත් කුරුණෑගල වැවිලි සමාගමට එවැනි චෝදනා කිසිවක් එල්ලවී නැති බව සඳහන් කළ අමාත්‍යවරයා රාජ්‍ය ආයතනයක් වශයෙන් ලා​භ ලැබිය හැක්කේ කෙසේදැයි යන්න ඉතා ආදර්ශමත්ව කුරුණෑගල වැවිලි සමාගම පෙන්වාදී ඇතැයිද පැවසීය.
+State Minister Ranjith Siyambalapitiya stated that 2122 cases have been filed against those institutions regarding the payment of nearly Rs.
 
-මේ ආකාරයට සේවකයින් හට අහිමිවී ඇති එම දීමනා ලබා දීම සඳහා ජනාධිපතිවරයාගේ උපදෙස් අනුව මහා භාණ්ඩාගාරයෙන් බිලියන 5 ක මුදලක් ලබා දීමට පියවර ගෙන ඇති බවද අමාත්‍යවරයා පැවසීය.  ‍ෙ
+The Minister of Plantation Corporation has filed a case against the firms of Janatha Estate Development Board.
 
-කුරුණෑගල වැවිලි සමාගමේ ප්‍රගතිය සහ කටයුතු සොයා බැලීම සඳහා නිරීක්ෂණ චාරිකාවට සහභාගි වීමෙන් අනතුරුව මාධ්‍ය අමතා රංජිත් සියඹලාපිටිය මහතා මේ අදහස් ප්‍රකාශ කළේය.
+However, the Minister said that the Minister said that the minister said that the Minister said that the minister had no charges to the Kurunegala Plantation Company has shown how to be a state agency as a state institution.
+
+The Minister said that action has been taken to provide the Treasury by the instructions of the President to provide the allowances lost to employees.Gem
+
+Ranjith Siyambalapitiya addressing the media after participating in the inspection tour of the Kurunegala Plantation Company.
 
 ...
 
 [Data](articles/b7196497.json)
+
+[Extended Data](ext_articles/b7196497.ext.json)
 
 ---
 

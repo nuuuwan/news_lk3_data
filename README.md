@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 09:51:57**
+As of **2024-03-17 10:03:00**
 
 ## Newspaper Stats
 
-*Scraped **13,347** Articles*
+*Scraped **13,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 710
 islandlk | 735
-adalk | 1,138
-adaderanalk | 1,612
-tamilmirrorlk | 1,626
+adalk | 1,139
+adaderanalk | 1,613
+tamilmirrorlk | 1,627
 virakesarilk | 1,853
 dailymirrorlk | 2,041
 adaderanasinhalalk | 2,110
@@ -26,35 +26,79 @@ adaderanasinhalalk | 2,110
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,346 (100.0%) of 13,347 articles have been extended.
+13,347 (100.0%) of 13,350 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### ක්‍රිකට් ලෝක කුසලානය දිනාගෙන වසර 28යි
+### 6வயது சிறு மி கிணற்றில் விழுந்து மரணம்
+
+*2024-03-17 09:53:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/6வயது-சிறு-மி-கிணற்றில்-விழுந்து-மரணம்/94-334783) · `ta`
+
+மதுரங்குளிய விருத்தோடு பகுதியில் ஆறு வயது சிறுமி ஒருவர் வீட்டில் அரைவாசியாக கட்டப்பட்டிருந்த கிணற்றில் தவறி விழுந்து உயிரிழந்துள்ளதாக மதுரங்குளிய பொலிஸார் தெரிவித்தனர்.
+
+மதுரங்குளிய விருத்தோட்டை வசிப்பிடமாகக் கொண்ட ஹலாம் பாத்திமா சனா (06) விருத்தோடு முஸ்லிம் கல்லூரியில் இந்த வருடம் முதலாம் தரத்தில் அனுமதிக்கப்பட்ட சிறுமி.
+
+இவ்வாறு உயிரிழந்த சிறுமி குடும்பத்தில் இளையவர் எனவும் அவருக்கு 11 வயதில் ஒரு பெண் குழந்தை இருப்பதாகவும் தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/ea9d0d40.json)
+
+---
+
+### 28 years to win cricket World Cup
 
 *2024-03-17 09:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194590) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායම ලබාගත් ඉහළම ජයග්‍රහණය වන 1996 ක්‍රිකට්  ලෝක කුසලානය දිනාගෙන අදට (17) වසර 28කි.
+Sri Lanka won the 1996 Cricket World Cup, defeating Australia in the final at Gaddafi Stadium, Lahore. Captain Arjuna Ranatunga's decision to bowl first led to Australia's 241-run total. Sri Lanka's 242-run victory, with Aravinda de Silva's 107 not out, marked their fifth consecutive win in the tournament.
 
-1996 වසරේ මාර්තු මස 17 වනදා ශ්‍රී ලාංකේය ක්‍රිකට් වංශ කතාවේ හැරවුම් ලක්ෂයක් සනිටුහන් කළ විජයග්‍රාහී දිනයක් විය.
+🟩
 
-පාකිස්තානයේ ලාහෝර් නුවර ගඩාෆි ක්‍රීඩාංගණයේදී පැවැති එම අවසන් මහා තරගයට ශ්‍රී ලංකාව සහ ඔස්ට්‍රේලියාව සුදුසුකම් ලැබීය.
+Sri Lanka won the 1996 Cricket World Cup which won the 1996 cricket World Cup today (17).
 
-තරගයේ කාසියේ වාසිය දිනූ ශ්‍රී ලංකා නායක අර්ජුන රණතුංග පළමුව පන්දු යැවීමට තීරණය කළේ සිය ජයග්‍රහණය පිළිබඳ ඉහළ විශ්වාසයක් තබාගනිමිනි.
+On March 17, 1996, a victorious day was a victorious day.
 
-ශ්‍රී ලංකා ආරාධනයෙන් පළමුව පන්දුවට පහරදුන් ඔස්ට්‍රේලියානු කණ්ඩායම නියමිත පන්දුවාර 50 අවසානයේදී කඩුලු 7ක් දැවී රැස් කළ ලකුණු සංඛ්‍යාව 241කි.
+Sri Lanka and Australia qualified for the final at Gaddafi Stadium, Lahore, Pakistan.
 
-ඔස්ට්‍රේලියාව වෙනුවෙන් මාර්ක් ටේලර් ලකුණු 74ක් සහ රිකී පොන්ටින් ලකුණු 45ක් රැස් කළහ.
+Sri Lanka captain Arjuna Ranatunga, who won the toss and elected to bowl to bowl itself.
 
-පන්දු යැවීමේදී සනත් ජයසූරිය, කුමාර ධර්මසේන, මුත්තයියා මුරලිදරන් සහ චමින්ද වාස් එක් කඩුල්ල බැගින් දවා ගත්හ.
+The Australian team scored 241 runs for the loss of 7 wickets at the end of 50 overs.
 
-ලකුණු 242ක ජයග්‍රහී ඉලක්කය හඹායාම සඳහා පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 46යි පන්දු 2කදී කඩුලු 3ක් පමණක් දැවී එම ඉලක්කය පසුකර ගියේ පළමු වරට ලෝක කුසලාන කිරුළ ශ්‍රී ලංකාවට උරුමකර දෙමිනි.
+Mark Taylor scored 74 runs and Ricky Ponting scored 45 runs on behalf of Australia.
+
+Sanath Jayasuriya, Kumara Dharmasena, Muttiah Muralitharan and Chaminda Vaas took one wicket.
+
+Sri Lanka scored 242 runs for chance and scored 46 overs and scored 4 wickets in 46 overs.
+
+Aravinda de Silva scored 107 not out.
+
+Accordingly, the batting team won the batland in five consecutive cups.
+
+◼️
+
+[Data](articles/556f960c.json)
+
+[Extended Data](ext_articles/556f960c.ext.json)
+
+---
+
+### 21 Indian fishermen arrested for poaching in Sri Lankan waters
+
+*2024-03-17 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98006/21-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
+
+The Sri Lanka Navy says it conducted a special operation to chase away Indian poaching trawlers from Sri Lankan waters in the late hours last night (16) and that the operation led to the seizure of 02 Indian trawlers and apprehension of 21 Indian fishermen poaching in Sri Lankan waters off the Delft Island.
+
+The Northern Naval Command deployed Fast Attack Craft to chase away a cluster of Indian poaching trawlers, having spotted they were engaging in illegal fishing in Sri Lankan waters off the Delft Island.
+
+The operation resulted in the seizure of 02 Indian poaching trawlers and apprehension of 21 Indian fishermen who continued to remain in Sri Lankan waters.
+
+The seized trawlers together with 21 Indian fishermen were brought to the Kankesanthurai Harbour and they will be handed over to the Mailadi Fisheries Inspector for onward legal proceedings, the navy said.
 
 ...
 
-[Data](articles/556f960c.json)
+[Data](articles/56067215.json)
 
 ---
 
@@ -171,6 +215,24 @@ Investigations have revealed that the Department of Immigration and Emigration h
 [Data](articles/aeae9a7d.json)
 
 [Extended Data](ext_articles/aeae9a7d.ext.json)
+
+---
+
+### ජීවන සහතිකය නොදුන්නොත් සාම විනිසුරු පදවිය අහෝසියි
+
+*2024-03-17 08:04:28* · [`adalk`](https://www.ada.lk/breaking_news/ජීවන-සහතිකය-නොදුන්නොත්-සාම-විනිසුරු-පදවිය-අහෝසියි/11-408642) · `si`
+
+සාම විනිසුරුවරුන් සඳහා අධිකරණ  අමාත්‍යාංශය මගින් හඳුන්වා දී ඇති  "ජීවන සහතිකය'' නියමිත දිනට ඉදිරිපත් නොකරන සාම විනිසුරුවරුන්ගේ සාම විනිසුරු පදවිය එදිනෙන් අහෝසි වන බව අධිකරණ අමාත්‍යාංශය පවසයි.
+
+අධිකරණ අමාත්‍යාංශය මගින්  දිවයින පුරා සිටින සාම විනිසුරුවරුන් පිළිබඳ තොරතුරු නිවැරදිව යාවත්කාලීන කිරීම සඳහා ඔවුන් ජීවත්ව සිටීදැයි තහවුරු කරගැනීමට මෙම ජීවන සහතිකය හඳුන්වා දී තිබේ.
+
+සාම විනිසුරුවරුන් පත්කිරීම සම්බන්ධයෙන් අධිකරණ අමාත්‍ය විජේදාස රාජපක්ෂ මහතා විසින්  අති විශේෂ ගැසට් පත්‍රයක් මගින්  නියම කර ඇති පරිදි දැනට සිටින සියලු සාම විනිසුරු පදවි ලාභීන් මෙම නියමය බල පැවැත්වෙන 2023.11.27 සිට වසරක් ඇතුළතදී හා ඉන් පසු සෑම වර්ෂ දෙකකට වරක් මාර්තු 31 දාට පෙර මෙම  ජීවන සහතිකය නිසි පරිදි පුරවා තම වසමේ ග්‍රාම නිලධාරී සහ ප්‍රාදේශීය ලේකම්ගේ අත්සන් සහිතව අධිකරණ අමාත්‍යාංශයේ ලේකම් වෙත ඉදිරිපත් කල යුතුවේ.
+
+එසේ නොවේනම් එම සහතිකය ඉදිරිපත් කිරීමට නියමිත අවසන්  දිනයේ සිට අදාල සාම විනිසුරුවරයා සිය පදවියෙන් ඉල්ලා අස්වූවෙකුසේ සළකා එම පදවිය අහෝසි වෙන  බව  අධිකරණ අමාත්‍යාංශය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/a27bf933.json)
 
 ---
 
@@ -2235,71 +2297,5 @@ The work has been carried out with the help of the World Central Kitchen who pro
 [Data](articles/fdd0d412.json)
 
 [Extended Data](ext_articles/fdd0d412.ext.json)
-
----
-
-### The float of the coast of Jaffna
-
-*2024-03-16 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178849) · `ta`
-
-A float in Jaffna's Vadamarachchi East Nagar Temple was hit by a sea float on Saturday. It bears the words, "Parameswari ... let me go in peace, brothers!"
-
-🟩
-
-A float in the Vadamarachchi East Nagar Temple, Jaffna, has been hit by a float in the sea on Saturday morning.
-
-"Parameswari ... let me go in peace, brothers!, Let me go in peace brothers."Such words are written.
-
-◼️
-
-[Data](articles/66c3a3b2.json)
-
-[Extended Data](ext_articles/66c3a3b2.ext.json)
-
----
-
-### State Vesak Festival
-
-*2024-03-16 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/178845) · `ta`
-
-The government will host the royal Vesak festival in Matale from May 21 to 27, with security for Buddhist places of worship provided by the Defense Ministry.
-
-🟩
-
-The government has decided to hold the royal Vesak festival of 2024 at the Matale.
-
-The meeting was held at the District Secretariat chaired by Buddha Sasana and Cultural Affairs Minister Vidura Wickramanayake.
-
-Minister of Buddha Sasana, Religious and Cultural Affairs, Vidura Wickramanayake said the celebrations were held in the city of Matale from May 21 to 27 and the eleven sections of the district.
-
-The Defense Ministry will take steps to provide details of the police and the security forces to provide security to all Buddhist places of worship in the district during the Vesak festival.
-
-Defense Minister Premit Bandara Tennakoon said that at least ten security personnel and police are responsible for every worship.
-
-◼️
-
-[Data](articles/3a0af882.json)
-
-[Extended Data](ext_articles/3a0af882.ext.json)
-
----
-
-### New fast bowl trainee for Sri Lankan team
-
-*2024-03-16 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194565) · `si`
-
-Arch Jawward, former fast bowler, is now the Sri Lankan cricket team's fast bowler coach, with the ICC's T20 team assisting until the World Cup ends.
-
-🟩
-
-Former fast bowler, Arch Jawward was appointed as the fast bowler coach of the Sri Lankan cricket team.
-
-It is reported that the ICC's T20 will work with the Sri Lankan team until the end of the World Cup.
-
-◼️
-
-[Data](articles/dfcb4ce5.json)
-
-[Extended Data](ext_articles/dfcb4ce5.ext.json)
 
 ---

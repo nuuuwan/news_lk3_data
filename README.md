@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 21:33:26**
+As of **2024-03-17 21:52:05**
 
 ## Newspaper Stats
 
-*Scraped **13,441** Articles*
+*Scraped **13,444** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 125
+colombotelegraphcom | 126
 bbccomsinhala | 149
 dbsjeyarajcom | 187
 newsfirstlk | 363
@@ -18,19 +18,51 @@ islandlk | 735
 adalk | 1,156
 adaderanalk | 1,623
 tamilmirrorlk | 1,647
-virakesarilk | 1,861
+virakesarilk | 1,862
 dailymirrorlk | 2,052
-adaderanasinhalalk | 2,132
+adaderanasinhalalk | 2,133
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,441 (100.0%) of 13,441 articles have been extended.
+13,441 (100.0%) of 13,444 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### සෝමාලියානු මුහුදු කොල්ලකරුවන්ගෙන් මුදාගත් නෞකාව
+
+*2024-03-17 21:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194613) · `si`
+
+සෝමාලියානු මුහුදු කොල්ලකරුවන් පැහැරගත් නෞකාවක් සහ එහි කාර්ය මණ්ඩල සාමාජිකයින් 17 දෙනාද සමඟ මුදාගැනීමට ඉන්දීය නාවික හමුදාව සමත්ව තිබේ.
+
+මෙහිදී නෞකාවේ සිටි සෝමාලියානු කොල්ලකරුවන් 35 දෙනෙකු ද අත්අඩංගුවට ගෙන තිබේ.
+
+ඒඩ්න් බොක්කේ යාත්‍රාකරමින් පැවතියදී සෝමාලියානු කැරලිකරුවන්ගේ අත්අඩංගුවට පත් වෙළෙඳ නෞකාවක් ජාත්‍යන්තර නාවුක හමුදාවක් මගින් මෙලෙස මුදාගෙන ඇත්තේ 2017 වසරෙන් පසු පළමුවරට වීමද විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/57ae66d9.json)
+
+---
+
+### நாளை மேலும் அதிகரிக்கும் வெப்பநிலை!
+
+*2024-03-17 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/178961) · `ta`
+
+நாட்டின் பல பகுதிகளில் வெப்பநிலை திங்கட்கிழமை (18) கவனத்துக்குரிய மட்டத்துக்கு மேலும் அதிகரிக்கும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+இதன்படி, வடமேற்கு, வடமத்திய, கிழக்கு, மேல் மாகாணங்களிலும் மொனராகலை, மன்னார், இரத்தினபுரி மற்றும் வவுனியா மாவட்டங்களின் சில இடங்களில் மனித உடலால் உணரப்படும் வெப்பம் கவனத்துக்குரிய அளவில் இருக்கும் என திணைக்களம் தெரிவித்துள்ளது.
+
+இதன்படி, போதியளவு தண்ணீர் அருந்துதல், நிழலான பகுதிகளில் இயன்றவரை ஓய்வெடுத்தல், கடுமையான வெளிச் செயற்பாடுகளை கட்டுப்படுத்துதல் போன்ற சுகாதார ஆலோசனைகளை மக்கள் பின்பற்ற வேண்டும் என திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/18c121b1.json)
+
+---
 
 ### At least 21 dead after bus collides with tanker in Afghanistan
 
@@ -1009,6 +1041,18 @@ She said this small group will not give up easily, adding that people of Sri Lan
 [Data](articles/f27c8aa2.json)
 
 [Extended Data](ext_articles/f27c8aa2.ext.json)
+
+---
+
+### Ranil’s Distortion Of Facts About The Sri Lankan Political Scenario In 1977
+
+*2024-03-17 15:00:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranils-distortion-of-facts-about-the-sri-lankan-political-scenario-in-1977/) · `en`
+
+The reason for this article is to correct a statement recently made by President Ranil Wickremesinghe while addressing a political campaign meeting of the United National Party held in Kuliyapitiya. (See: 77 රොනී–විජේවීර ඩීල් එක ජනපති හෙළි කරයි – President reveals the 1977 Ronnie-Wijeweera Deal, and a Tik Tok post published on social media under @abeetha0325 with the heading: “ශ්‍රී ලංකා නිදහස් පක්ෂයේ මලගම” කිය කියා රැස්වීම් තියාගෙන, ජේ ආර් ව දිනවන්න, ජනතා විමුක්ති පෙරමුණේ නිර්මාතෘ රෝහණ විජේවීර ගහපු ගේම් එක – The game Rohana Wijeweera, the founder of the Janata Vimukthi Peramuna, played to make JR win, while holding meetings called “The Death of the Sri Lanka Freedom Party). This is what President had said at the meeting:
+
+...
+
+[Data](articles/f48ea891.json)
 
 ---
 
@@ -2331,81 +2375,5 @@ Investigations have revealed that the Department of Immigration and Emigration h
 [Data](articles/aeae9a7d.json)
 
 [Extended Data](ext_articles/aeae9a7d.ext.json)
-
----
-
-### If you do not give the living certificate, the peace judge is abolished
-
-*2024-03-17 08:04:28* · [`adalk`](https://www.ada.lk/breaking_news/ජීවන-සහතිකය-නොදුන්නොත්-සාම-විනිසුරු-පදවිය-අහෝසියි/11-408642) · `si`
-
-The Ministry of Justice ensures the "living certificate" for peace judges isn't abolished, updating information island-wide. Minister Wijedasa Rajapakse assesses peace judges, requiring submission by March 31, 2023, or risking their post's abolition.
-
-🟩
-
-The Ministry of Justice says that the "living certificate of the Similarifies' Peace Judge will not be abolished by the Ministry of Justice for peace judges.
-
-The Ministry of Living has introduced this living certificate to ensure that the Ministry of Justice is alive to update information on peace judges island wide.
-
-Minister of Justice Wijedasa Rajapakse is a special assessment of all the peace judges of Wijedasa Rajapakse, as a special gazette, and after March 31, after and after March 31, a year ago, from 2023.11 years since the last year, and after March 31.Submitted to the Secretary to the Secretary to the Ministry of Grama Niladhari and Divisional Secretary, with the signing of the Grama Niladhari and Divisional Secretary.
-
-Otherwise, the Similarr's judge from the last day to be submitted from the end of the certificate, the judiciary said that the post would be abolished.
-
-◼️
-
-[Data](articles/a27bf933.json)
-
-[Extended Data](ext_articles/a27bf933.ext.json)
-
----
-
-### North Central Province canal project to be completed in 2026
-
-*2024-03-17 07:53:06* · [`adalk`](https://www.ada.lk/breaking_news/උතුරුමැද-පළාත්-මහ-ඇළ-ව්‍යාපෘතිය-2026දී-නිම-කිරීමට-ඉලක්කයක්/11-408641) · `si`
-
-The North Central Province canal project, aimed at improving livelihoods and water supply, is set to be completed by 2026. Minister Pavithra Wanniarachchi is investigating the project's progress. The canal, spanning 95.8 km, includes a 27.7 km tunnel, with excavation using high-tech TBM machines. The project is expected to benefit 175,000 families and address the province's water needs.
-
-🟩
-
-Steps have been taken to expedite the construction of the North Central Province of the North Central Province of the North Central Province to go to the end of the year 2026.
-
-Attorney-at-Law Pavithra Wanniarachchi, Minister of Irrigation, Wildlife and Forest Conservation to investigate the construction of the project is to visit the Mahamialugas tank in Anuradhapura.
-
-Mrs. Pavithra Wanniarachchi, who arrived in the Meegaswewa workplace, has traveled with its engineers.
-
-The Minister said that the promotional impact of the growth of the people's livelihood of the North Central Province through the future project is the most significant end of the project.
-
-The construction of the North Central Province canal in the North Central Province was started in the North Central Province to carry the Moragahakanda reservoir with Mahagahakanda.
-
-The share of the miles of 95 miles [95.8 km] comprised of 27.7 km tunnel.
-
-...
-
-[Data](articles/57b5b806.json)
-
-[Extended Data](ext_articles/57b5b806.ext.json)
-
----
-
-### The late story of the stirring shot of the pitigala
-
-*2024-03-17 07:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194587) · `si`
-
-Two suspects arrested in Pitigala for a shooting incident. Three phones and two bikes seized. Two unidentified victims seriously injured by unidentified assailants from Pitigala Police Division.
-
-🟩
-
-Two suspects have been arrested in front of a shooting incident in the Pitigala Police Division.
-
-The arrested suspect and a suspect, police said.
-
-Three mobile phones and two motorbikes have been taken into custody.
-
-Two unidentified persons who came in a motorcycle near the T-56 riffle were seriously injured by two unidentified persons who came from the Pitigala Police Division in Pitigala Police Division.
-
-◼️
-
-[Data](articles/1da0f8d5.json)
-
-[Extended Data](ext_articles/1da0f8d5.ext.json)
 
 ---

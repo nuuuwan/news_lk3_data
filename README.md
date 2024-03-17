@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 03:50:20**
+As of **2024-03-18 04:02:53**
 
 ## Newspaper Stats
 
@@ -26,63 +26,87 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,474 (100.0%) of 13,477 articles have been extended.
+13,477 (100.0%) of 13,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### தூக்கில் தொங்கியவர் வைத்தியசாலையில் உயிரிழப்பு - இருபாலையில் சம்பவம்!
+### Sleep hanging in hospital
 
 *2024-03-18 03:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/178973) · `ta`
 
-தவறான முடிவெடுத்து தூக்கில் தொங்கியவர், வைத்தியசாலையில் அனுமதித்தவேளை ஞாயிற்றுக்கிழமை (18) உயிரிழந்துள்ளார். இதன்போது இருபாலை கிழக்கு பகுதியைச் சேர்ந்த சிற்றம்பலம் பாஸ்கரன் (வயது 61) என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+A man named Chittambalam Baskaran, 61, from Irukkalai, died in a hospital on Sunday (18) after being found hanging in a neem tree. He was rescued by relatives at Kopay Hospital but died within hours without treatment. A sudden death investigation officer, A. Jayabalasingham, conducted the investigation.
 
-குறித்த நபர் வீட்டுக்கு முன்னால் உள்ள வேப்பமரத்தில் ஞாயிற்றுக்கிழமை (18)  தூக்கில் தொங்கியுள்ளார். இதன்போது அவரை மீட்ட உறவினர்கள் கோப்பாய் வைத்தியசாலையில் அனுமதித்தனர்.
+🟩
 
-அங்கு அனுமதிக்கப்பட்ட குறித்த நபர் சில மணி நேரங்களில் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார். அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் மேற்கொண்டார்.
+He died on Sunday (18) when he was admitted to the hospital. The deceased was the man who died at the time of Chittambalam Baskaran (age 61) from the East of Irukkalai.
+
+The person hangs in the neem tree in front of the house on Sunday (18). Relatives rescued him at the Kopay Hospital.
+
+The person who was allowed there died in a few hours without treatment. A sudden death investigation officer A. Jayabalasingham carried out the deaths of his body.
 
 ◼️
 
 [Data](articles/3eb194e5.json)
 
+[Extended Data](ext_articles/3eb194e5.ext.json)
+
 ---
 
-### மகளிர் பிறீமியர் லீக் கிரிக்கெட்-2024: றோயல் செலஞ்சர்ஸ் பெங்களூர் புதிய சம்பியன்
+### Women's Premier League Cricket-20124: Royal Challengers Bangalore New Champion
 
 *2024-03-18 03:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178971) · `ta`
 
-பெங்களூரிலும் பின்னர் டெல்ஹியிலும் நடைபெற்றுவந்து இரண்டாவது மகளிர் பிறீமியர் லீக் ரி20 கிரிக்கெட் அத்தியாயத்தில் றோயல் செலஞ்சர்ஸ் பெங்களூர் சம்பியனானது.
+Royal Challengers Bangalore won the 20124 Women's Premier League Cricket, defeating Delhi Capitals by 8 wickets. Key players included Sofi Molinox, Sriyanka Batti, and Asha Sobhana. The team's victory was not easy, securing the title by winning the last over.
 
-நடப்பு சம்பியன் மும்பை இண்டியன்ஸை நீக்கல் போட்டியில் வீழ்த்தி இறுதிப் போட்டியில் விளையாட தகுதிபெற்ற றோயல் செலஞ்சர்ஸ் பெங்களூர், ஞாயிற்றுக்கிழமை (17) இரவு மின்னொளியில் நடைபெற்ற மிகவும் பரபரப்பான இறுதிப் போட்டியில் டெல்ஹி கெப்பிட்டல்ஸை 8 விக்கெட்களால் வெற்றிகொண்டு சம்பியனானது.
+🟩
 
-சொஃபி மொலினொக்ஸ்,  ஸ்ரீயன்கா பட்டில்,  ஆஷா சோபான ஆகியோரின் மிகத் துல்லியமான பந்துவீச்சுக்கள், முன்வரிசை வீராங்கனைகளின் சாதுரியமான துடுப்பாட்டங்கள் றோயல் செலஞ்சர்ஸ் பெங்களூர் அணியை புதிய சம்பியனாக உயர்த்தின.
+Royal Challengers Bangalore was the second women's Premier League R20 cricket chapter in Bangalore and later in Delhi.
 
-16 இண்டியன் பிறீமியர் லீக் (ஆடவர்) அத்தியாயங்களிலும் 3 விமென்ஸ் ரி20 செலஞ் அத்தியாயங்களிலும்  றோயல் செலஞ்சர்ஸ் பெங்களூர் அணியினால் சாதிக்க முடியாததை இரண்டாவது மகளிர் பிறீமியர் லீக் அத்தியாயத்தில் சம்பியனானதன் மூலம்  றோயல் செலஞ்சர்ஸ் பெங்களூர்   மகளிர் அணி சாதித்துள்ளது.
+Royal Challengers Bangalore, who qualified to play in the current champion Mumbai Indians, beat Delhi Capitles by 8 wickets in the most exciting final in the last night's lighting event.
+
+The most accurate bowling of Sofi Molinox, Sriyanka Batti and Asha Sobhana and the rituals of the leading players have raised the Royal Valanters Bangalore team as a new champion.
+
+The Royal Challengers Bangalore women's team has achieved the second women's Premier League chapter that the Royal Challengers Bangalore team cannot achieve in the 16 Indian Premier League (Men) chapters and 3 Vimens T20 Celebrity Chapters.
+
+However that success is not easy. Royal Challengers Bangalore won the last over.
+
+Royal Challengers Bangalore lost 2 wickets in 19.3 overs and won the champion title by winning 114 runs.
 
 ...
 
 [Data](articles/7a6e07bd.json)
 
+[Extended Data](ext_articles/7a6e07bd.ext.json)
+
 ---
 
-### ஒருநாள் தொடரைக் கைப்பற்றும் குறிக்கோளுடன் களம் இறங்கும் இலங்கை, பங்களாதேஷ் அணிகள்
+### Sri Lanka and Bangladesh teams are the goal of capturing the ODI series
 
 *2024-03-18 03:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/178972) · `ta`
 
-சட்டோக்ராம், ஸஹுர் அஹ்மத் சௌதரி விளையாட்டரங்கில் திங்கட்கிழமை (18) நடைபெறவுள்ள தீர்மானம் மிக்க 3ஆவதும் கடைசியமான சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் வெற்றிபெற்று தொடரைக் கைப்பற்றும் குறிக்கோளுடன் இலங்கையும் பங்களாதேஷும் களம் இறங்கவுள்ளன.
+Sri Lanka and Bangladesh aim to win the ODI series, with Bangladesh leading 1-0. Sri Lanka won the series 3-1, but Bangladesh won the first match. The matches are in day and night, with the third match in sunlight. Dilshan Madushankan won't play for Sri Lanka, and Samika Karunaratne or Kamindu Mendis might replace him. Sri Lanka's lineup includes Bethum Nissanka, Avishka Fernando, Kusal Mendis, Sadheera Samarawickrama, Sarit Asalanka, Janith Liyanage, Wanindu Hasaranga, Tunith Wellalale, Samika Karunaratne, Pramod Madushan, Lahiru Kumara. Bangladesh's lineup includes Choumya Sarkar, Anamul Haq, Dhavasid Hasan, Najmul Hosain Santo, Dauhid Ritoi, Mahmudullah, Mushbikur Rahim, Mehidi Hasan Miraz, Rishad Hosain, Tajul Islam, Mustabisur Rahman.
 
-முதலாவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் வரவேற்பு நாடான பங்களாதேஷ் 6 விக்கெட்களால் வெற்றியீட்டி தொடரில் 1 - 0 என முன்னிலை பெற்றது.
+🟩
 
-ஆனால், 2ஆவது போட்டியில் பதிலடி கொடுத்த இலங்கை 3 விக்கெட்களால் வெற்றியீட்டி தொடரை 1 - 1 என சமப்படுத்தியது.
+Sri Lanka and Bangladesh will take place with the aim of winning the series and winning the series in the 3rd and last international ODI match to be held on Monday (18) at the Zahur Ahmad Chaudhary Stadium.
 
-முதல் இரண்டு போட்டிகள் பகல் - இரவு போட்டிகளாக நடைபெற்றதுடன் அந்த இரண்டு போட்டிகளிலும் இரண்டாவதாகத் துடுப்பெடுத்தாடிய அணிகளே வெற்றிபெற்றன.
+Bangladesh won the first international ODI match by 6 wickets in the series.
 
-எனினும் இந்தப் போட்டி சூரிய வெளிச்சத்தில் நடைபெறுவதுடன் காலையில் ஆடுகளத்தில் ஈரலிப்புத்தன்மை இருப்பதால் முதல் சில ஓவர்கள் வேகப்பந்துவீச்சாளர்களுக்கு சாதமாக அமையும் என கருதப்படுகிறது. எனினும் நேரஞ்செல்லசெல்ல துடுப்பாட்ட வீரர்கள் திறமையை வெளிப்படுத்துவர் என எதிர்பார்க்கப்படுகிறது.
+However, Sri Lanka won the series by 3 wickets and equated the series 1 - 1.
+
+The first two matches were held as day and night matches and the second team won the second in both matches.
+
+However, the competition is held in the sunlight and is considered to be a beneficial for the first few overs of the fast bowlers as it is in the morning.. However, the players are expected to showcase the talent.
+
+During the second match, fast bowler Dilshan Madushankan has announced that he will not play in today's match and some of the IPL's early matches.
 
 ...
 
 [Data](articles/1d501d3c.json)
+
+[Extended Data](ext_articles/1d501d3c.ext.json)
 
 ---
 

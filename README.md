@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 20:17:54**
+As of **2024-03-17 20:33:20**
 
 ## Newspaper Stats
 
-*Scraped **13,431** Articles*
+*Scraped **13,434** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,56 @@ newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 712
 islandlk | 735
-adalk | 1,153
-adaderanalk | 1,622
+adalk | 1,154
+adaderanalk | 1,623
 tamilmirrorlk | 1,645
 virakesarilk | 1,860
 dailymirrorlk | 2,051
-adaderanasinhalalk | 2,130
+adaderanasinhalalk | 2,131
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,430 (100.0%) of 13,431 articles have been extended.
+13,431 (100.0%) of 13,434 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### பாதாள தலைவர்களுக்கு பாஸ்போட் தயாரித்த இருவர் கைது
+### සහෝදරයින්ගේ එක්දින සටනේ ජය තර්ස්ටන් විද්‍යාලයට
+
+*2024-03-17 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194611) · `si`
+
+කොළඹ ඉසිපතන විද්‍යාලය සමඟ පැවති 44වැනි සහෝදරයින්ගේ සටන එක්දින ක්‍රිකට් තරගය ලකුණු 99කින් ජය ගැනීමට කොළඹ තර්ස්ටන් විද්‍යාලය අද (17) සමත්විය.
+
+කොළඹ පී. සරා ඕවල් ක්‍රිඩාංගණයේ පැවති තරගයේ පළමුව පන්දුවට පහරදුන් තර්ස්ටන් විද්‍යාලය පන්දුවාර 50 අවසානයේ කඩුලු 9ක් දැවී ලකුණු 251ක් රැස්කළේය.
+
+පිළිතුරු ඉනිම ක්‍රිඩාකළ ඉසිපතන විද්‍යාලයට පන්දුවාර 39යි පන්දු 4ක් අවසානයේ සියල්ලන් දැවී ලබාගැනීමට හැකිවූයේ ලකුණු 152ක් පමණි.
+
+◼️
+
+[Data](articles/8180e9d6.json)
+
+---
+
+### Two persons arrested for producing phosphot for underworld leaders
 
 *2024-03-17 19:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதாள-தலைவர்களுக்கு-பாஸ்போட்-தயாரித்த-இருவர்-கைது/175-334815) · `ta`
 
-பாதாள உலக  கோஷ்டி தலைவர்களுக்கு போலி கடவுச்சீட்டு தயாரித்ததாக சந்தேகத்தின் பேரில் பிரதி கட்டுப்பாட்டாளர் மற்றும் குடிவரவு குடியகழ்வு திணைக்களத்தின் முன்னாள் கட்டுப்பாட்டாளர் ஆகியோர் இன்று மாலை குற்றப்புலனாய்வு பிரிவினரால் கைது செய்யப்பட்டுள்ளனர்.
+Two individuals, including a Deputy Controller and a former Controller, were arrested for allegedly preparing fake passports for underworld leaders, involving drugs and organized crime.
 
-போலி கடவுச்சீட்டு தயாரித்ததாக கூறப்படும் சம்பவம் தொடர்பில் போதைப்பொருள் மற்றும் ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பலைச் சேர்ந்த இருவருக்கே இவ்வாறு போலி கடவுச்சீட்டு தயாரிக்கப்பட்டுள்ளமை கண்டறியப்பட்டுள்ளது
+🟩
+
+The Deputy Controller and the former Controller of the Immigration and Emigration Department have been arrested by the Criminal Investigation Division this evening for allegedly preparing a fake passport for underworld leaders.
+
+Two drugs and organized criminal gangs have been found to have been prepared for a fake passport.
 
 ◼️
 
 [Data](articles/7e34d670.json)
+
+[Extended Data](ext_articles/7e34d670.ext.json)
 
 ---
 
@@ -130,6 +152,22 @@ The court issued this order based on a complaint made by Sri Lankan former crick
 
 ---
 
+### ජනපතිවරණය කල් දාන්නේ නෑ
+
+*2024-03-17 18:48:41* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-කල්-දාන්නේ-නෑ/11-408657) · `si`
+
+මෙවර ජනාධිපතිවරණය කිසිසේත් කල් නොදමන බවත් මෙවර ජනාධිපතිවරණයේදී අපේක්ෂකයා ලෙස අනිවාර්යෙන් රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් වෙනවා යැයි විදේශ කටයුතු හා කම්කරු අමාත්‍ය මනූෂ නානායක්කාර මහතා පැවසීය .
+
+අමාත්‍යවරයා මේ අදහස් පවසා  සිටියේ ජයගමු ශ්‍රී ලංකා ජනතා ජංගම සේවාව පොලොන්නරුව ගල්ලෑල්ලේ පිහිටි පොලොන්නරුව ජාතික ක්‍රීඩාංගණයේදී කම්කරු හා විදේශ කටයුතු පිලිබද අමාත්‍ය මනූෂ නානායක්කාර මහතාගේ ප්‍රධානත්වයෙන් දෙවෙනි දිනටත් අද  උදෑසන විශේෂ ජංගම සේවාවට  එක්විමිනි.
+
+මෙවර ජනාධිපතිවරණයේදි මොන පක්ෂයෙන් පොදු සන්ධානයකින් ස්වාධීන පක්ෂයකින් තරග කලත් ඒ ඕනෑම පක්ෂයක හෝ සන්ධානයක ජනාධිපති අපේක්ෂකයා වෙන කවුරුවත් නොව රනිල් වික්‍රමසිංහ මහතා බවයි.තවද අපිට මැතිවරණ කල් දාන්නවත් මැතිවරණ පවත්වන එකට කකුල් මාට්ටුවක් දාන්නත් කිසි සේත් අවශ්‍ය නොවන බවත් නියම වේලාවට ජනාධිපතිවරණය පවත්වන බවද ඒ සදහා සියලු කටයුතු  සූදානම් කරමින් පවතින බවද මෙහිදී පවසා සිටියේය.
+
+...
+
+[Data](articles/6b9dcd34.json)
+
+---
+
 ### Deputy Controller of Immigration and ex-Dy Controller arrested for providing passports to underworld figures
 
 *2024-03-17 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98015/deputy-controller-of-immigration-and-ex-dy-controller-arrested-for-providing-passports-to-underworld-figures) · `en`
@@ -147,6 +185,24 @@ Investigations have uncovered that the suspect, a Deputy Controller of the Immig
 [Data](articles/9a250165.json)
 
 [Extended Data](ext_articles/9a250165.ext.json)
+
+---
+
+### Dy. Immigration Controller and ex-Dy. Controller arrested for providing fake passports to underworld figures
+
+*2024-03-17 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98015/dy-immigration-controller-and-ex-dy-controller-arrested-for-providing-fake-passports-to-underworld-figures) · `en`
+
+A Deputy Controller of Immigration & Emigration and a former Deputy Controller have been arrested by the CID for providing passports based on false information to underworld figures Nuresh Supun Dayaratne alias “Heenatiyana Mahesh” and Shan Arosh Liyanage alias “Mathugama Shan”, police said today.
+
+One of the two arrested suspects is to be produced before the Vavuniya Magistrate’s Court and the other suspect before the Kaduwela Magistrate’s Court.
+
+The suspects have been arrested based on an investigation conducted under the supervision of the DIG in charge of the Criminal Investigation Department (CID), Rohan Premaratne.
+
+Investigations have uncovered that the suspect, a Deputy Controller of the Immigration and Emigration Department, had provided Nuresh Supun Dayaratne alias “Heenatiyana Mahesh” with a fake passport prepared under a false name.
+
+...
+
+[Data](articles/fd8e7981.json)
 
 ---
 
@@ -2299,59 +2355,5 @@ The International Institute of Health Sciences (IIHS) has been able to rise to t
 [Data](articles/c6ed67eb.json)
 
 [Extended Data](ext_articles/c6ed67eb.ext.json)
-
----
-
-### PickMe grows gig economy with women drivers in the lead
-
-*2024-03-17 04:07:00* · [`islandlk`](http://island.lk/pickme-grows-gig-economy-with-women-drivers-in-the-lead/) · `en`
-
-With over a 1,000 women drivers and riders on the PickMe network, the App based mobility solutions provider says, there is a steady growth in the sector.  According to the company, women engaging on their platform doubled in 2023 as opposed to the previous year and is continuing to rise, a company news release said.
-
-Apart from the ride hailing sector, the company is also providing opportunities for women entrepreneurs on their  PickMe Food and Market platform and already there are more than 100 women merchants operating on it.  PickMe says flexi hours the gig solution offers  is a key factor for women joining their network.
-
-“We are welcoming this growth as diversity is important not merely for equal opportunity between genders, but also because women driver and rider partners bring value addition to our services,” says Tasnim Salie, Head of Corporate Finance at PickMe.  She says the company is looking at attracting more women drivers onto its ride hailing platform.
-
-...
-
-[Data](articles/d48c20a3.json)
-
-[Extended Data](ext_articles/d48c20a3.ext.json)
-
----
-
-### Rainwater harvesting is an essential step to stave off impending disaster
-
-*2024-03-17 03:21:00* · [`islandlk`](http://island.lk/rainwater-harvesting-is-an-essential-step-to-stave-off-impending-disaster/) · `en`
-
-Much is being spoken and written about the scarcity of drinking water and water for other purposes as well as it is a global problem caused by rapid population increases. It is made worse by the resulting needs of the people in the production of industrial and agricultural goods which in turn require water for production. This is the second most pressing problem the world is faced with the rising population being the first.
-
-The average person does not give sufficient, or worse still, any thought to the need for conservation of water in the home, in agriculture, in industry or in its other uses. Conservationists say that a dangerous situation is looming ahead of us, individuals, nations and the world itself as the demand is increasing at an alarming rate while water supplies remain near constant. Consider for instance the following recent findings of the United Nations Population Fund (UNPF).
-
-...
-
-[Data](articles/deb96e52.json)
-
-[Extended Data](ext_articles/deb96e52.ext.json)
-
----
-
-### 19 Indian fishermen arrested
-
-*2024-03-17 02:24:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்கள்-19-பேர்-கைது/175-334781) · `ta`
-
-19 Indian fishermen arrested for fishing in Jaffna and Nedundewa seas by the navy.
-
-🟩
-
-19 Indian fishermen were arrested this morning for allegedly fishing across the Jaffna Sea.
-
-They were arrested by the navy while fishing in two boats inside the Jaffna and Nedundewa seas.
-
-◼️
-
-[Data](articles/0538e007.json)
-
-[Extended Data](ext_articles/0538e007.ext.json)
 
 ---

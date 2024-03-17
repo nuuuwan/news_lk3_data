@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 01:03:09**
+As of **2024-03-18 01:17:54**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,460 (100.0%) of 13,462 articles have been extended.
+13,462 (100.0%) of 13,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### திருமலையில் வெடுக்குநாறி மலை சிவன் ஆலயத்தில் வழிபாட்டின் போது கைது செய்யப்பட்டவர்களை விடுதலை செய்யக்கோரி கவனயீர்ப்பு போராட்டம்
+### The protests against the release of those arrested during the worship of the Shiva Temple at the Vedukkunni Hill in Tirumala
 
 *2024-03-18 00:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178965) · `ta`
 
-கடந்த எட்டாம் திகதி சிவராத்திரி தினத்தன்று வெடுக்குநாறி மலை சிவன் ஆலயத்தில் வழிபாட்டின் போது கைது செய்யப்பட்ட எண்மரை விடுதலை செய்யக்கோரியும் அச் சம்பவத்தைக் கண்டித்தும் திருகோணமலை சிவன்கோயிலடிக்கு முன்னால் கவனயீர்ப்பு போராட்டம் ஒன்று ஞாயிற்றுக்கிழமை (17) மாலை இடம் பெற்றது .
+Protests in Trincomalee demand release of those arrested during Shiva Temple worship at Vedukkunni Hill. Activists criticize the release, asserting it's a violation of the right to worship. Agathiyar Adinam condemns police repression on Shivaratri day, calling for the release of temple administrators and respect for Tamil identity.
 
-வெடுக்குநாறி மலையில் இடம் பெற்ற சம்பவத்தின் போது கைது செய்யப்பட்டவர்களை விடுதலை செய்யக்கோரியும் அதனைக் கண்டித்தும் கவனயீர்ப்பு இடம் பெற்றதுடன் இதனை சமூக செயற்பாட்டாளர்கள் ஏற்பாடு செய்திருந்தனர்.
+🟩
 
-வழிபாடு எமது அடிப்படை உரிமை ஆதி சிவன் ஆலயம் எமது பூர்வீகம்,ஈழத்தின் சமயத் தலைவர்களை அபகரிக்காதே தொல்பொருள் எனும் போர்வையில் பௌத்தத்தை விதைக்காதே, வழிபாட்டைத் தடுக்கும் உரிமையைக் காவல் துறையினருக்கு கொடுத்தது யார்,ஆலய நிர்வாகிகளை உடனடியாக விடுதலை செய்,ஆலயங்கள் சைவத் தமிழர்களின் பூர்வீக அடையாளம் போன்ற வாசகங்கள் அடங்கிய பதாகைகளை ஏந்தியவாறு கவனயீர்ப்பில் ஈடுபட்டனர்.
+On the eighth day of the day, a protest march was held in front of the Sivankoili in Trincomalee on Sunday evening, demanding the release of the arrest and the arrest of the arrest during the worship of the Shivaratri Mountain Shiva Temple.
+
+Social activists have organized a controversy and condemning the release of those who were arrested during the incident at the Vedukkuni Mountain.
+
+Worship is our fundamental right of the Adi Shiva Temple, our ancestry, do not take Buddhism under the guise of archaeological archaeologies, who gave the police the right to prevent worship, immediately release the temple administrators, and the native identity of the Tamils.
+
+Agathiyar Adinam said that the repression of the incident on the sacred Shivaratri day on the Vedukkunni hill is reprehensible by the police.
 
 ...
 
 [Data](articles/6a11dc9f.json)
+
+[Extended Data](ext_articles/6a11dc9f.ext.json)
 
 ---
 
@@ -97,6 +105,8 @@ A demand deposit which the Central Bank maintains for a commercial bank in its b
 ...
 
 [Data](articles/d4da838e.json)
+
+[Extended Data](ext_articles/d4da838e.ext.json)
 
 ---
 

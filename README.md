@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 07:20:56**
+As of **2024-03-17 07:39:38**
 
 ## Newspaper Stats
 
-*Scraped **13,333** Articles*
+*Scraped **13,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 710
 islandlk | 735
 adalk | 1,136
 adaderanalk | 1,610
-tamilmirrorlk | 1,622
+tamilmirrorlk | 1,623
 virakesarilk | 1,853
 dailymirrorlk | 2,041
 adaderanasinhalalk | 2,104
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,318 (99.9%) of 13,333 articles have been extended.
+13,323 (99.9%) of 13,334 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,6 +42,8 @@ The major film awards – the 96th Oscars or Academy Awards – were awarded at 
 
 [Data](articles/7138b2f8.json)
 
+[Extended Data](ext_articles/7138b2f8.ext.json)
+
 ---
 
 ### Rasoda Dairies shines in Gold at two Award Ceremonies
@@ -53,6 +55,8 @@ Rasoda Dairies (Pvt) Ltd. (www.rasoda.lk) secured two Gold Awards at two prestig
 ...
 
 [Data](articles/45bd7c7b.json)
+
+[Extended Data](ext_articles/45bd7c7b.ext.json)
 
 ---
 
@@ -68,6 +72,8 @@ The 192 refreshed rooms, including 80 fully renovated Superior Rooms, 96 Deluxe 
 
 [Data](articles/6fe86d83.json)
 
+[Extended Data](ext_articles/6fe86d83.ext.json)
+
 ---
 
 ### IIHS continues to revolutionise the healthcare industry with their theme ‘Api Piliganeemen Ihalai’
@@ -79,6 +85,8 @@ The International Institute of Health Sciences (IIHS) has been able to rise to t
 ...
 
 [Data](articles/c6ed67eb.json)
+
+[Extended Data](ext_articles/c6ed67eb.ext.json)
 
 ---
 
@@ -111,6 +119,22 @@ The average person does not give sufficient, or worse still, any thought to the 
 ...
 
 [Data](articles/deb96e52.json)
+
+[Extended Data](ext_articles/deb96e52.ext.json)
+
+---
+
+### டெங்கு காய்ச்சலால் 2 மாதங்களில் 7 பேர் பலி
+
+*2024-03-17 02:04:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-காய்ச்சலால்-2-மாதங்களில்-7-பேர்-பலி/175-334779) · `ta`
+
+அத்துடன், குறித்த காலப்பகுதியில் 18 ஆயிரத்து 556 டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர் என தேசிய டெங்கு ஒழிப்பு பிரிவு தெரிவித்துள்ளது.
+
+இந்த மாதத்தில் கடந்த 15 நாள்களில் மாத்திரம் 2 ஆயிரத்து 132 டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர்.
+
+◼️
+
+[Data](articles/5c26666f.json)
 
 ---
 
@@ -2255,29 +2279,5 @@ Our business team is working on the basis of high standards, he said.
 [Data](articles/7a27340a.json)
 
 [Extended Data](ext_articles/7a27340a.ext.json)
-
----
-
-### Dehiwala, Ratmalana, Moratuwa, Panadura, Waduvai, Waskaduwa Area
-
-*2024-03-16 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178841) · `ta`
-
-The National Water Supply and Drainage Board faces challenges in providing water to Dehiwala, Ratmalana, Moratuwa, Panadura, Vadduwa, and Waskaduwa due to severe drought and increased irrigation. They've called for water users' support and understanding to conserve water.
-
-🟩
-
-The National Water Supply and Drainage Board said it would face severe difficulties in carrying out water supply due to severe drought and increased irrigation.
-
-The National Water Supply and Drainage Board said it would face severe difficulties in carrying out water supply for the areas of Dehiwala, Ratmalana, Moratuwa, Panadura, Vadduwa and Waskaduwa.
-
-This makes it difficult to carry out continuous water supply for these areas.
-
-Therefore, the National Water Supply and Drainage Board has called for the support and understanding of the water users in this regard to use the users in the area to use the water with water.
-
-◼️
-
-[Data](articles/477547c9.json)
-
-[Extended Data](ext_articles/477547c9.ext.json)
 
 ---

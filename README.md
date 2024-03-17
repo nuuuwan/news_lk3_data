@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 15:18:04**
+As of **2024-03-17 15:33:23**
 
 ## Newspaper Stats
 
-*Scraped **13,396** Articles*
+*Scraped **13,398** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 712
 islandlk | 735
-adalk | 1,146
-adaderanalk | 1,616
+adalk | 1,147
+adaderanalk | 1,617
 tamilmirrorlk | 1,638
 virakesarilk | 1,859
 dailymirrorlk | 2,048
@@ -26,27 +26,57 @@ adaderanasinhalalk | 2,120
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,392 (100.0%) of 13,396 articles have been extended.
+13,396 (100.0%) of 13,398 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### පොල්වත්ත ගඟේ ගිලී දරුවන් දෙදෙනෙකු මරුට
+### Police arrest main suspect in Modara shooting
+
+*2024-03-17 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98010/police-arrest-main-suspect-in-modara-shooting) · `en`
+
+Police have arrested the suspect who is believed to be the shooter in the attempted murder incident at Modara Street in Colombo 15 on February 13.
+
+The suspect was arrested last evening (16) in the Victoria Bridge area in Peliyagoda.
+
+Police said that 11 grams and 600 milligrams of heroin were found in the suspect’s possession at the time of his arrest.
+
+The arrested suspect is a 35-year-old resident of Imbuggoda area in Parakandeniya.
+
+Previously, one suspect had been arrested by the Colombo North Division’s Crimes Unit and three suspects were arrested by Modara Police in relation to this incident.
+
+The investigating officers have also found a car used by the suspects to commit the crime and a three-wheeler they had used to flee after carrying out the shooting.
+
+The manager of a restaurant in the Modara Street area in Colombo 15 of the Modara police area was shot and injured by a gunman near the main entrance of the restaurant on February 13.
+
+◼️
+
+[Data](articles/1363b9cc.json)
+
+---
+
+### Two children killed in kills of Polwatta River
 
 *2024-03-17 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194600) · `si`
 
-ගාල්ල යක්කලමුල්ල ප්‍රදේශයේදී පොල්වත්ත ගඟේ දියේ ගිලීමෙන් දරුවන් දෙදෙනෙකු මියගොස් තිබේ.
+In Galle's Yakkalamulla, two 11 and 14-year-old boys drowned in the Polwatta River. Relatives, they were taken to the hospital after the incident.
 
-මෙලෙස මියගොස් ඇත්තේ වයස අවුරුදු 11 සහ 14 යන වයස්වල පසුවූ පිරිමි දරුවන් දෙදෙනෙකි.
+🟩
 
-එම දරුවන් දෙදෙනා ඥාතීන් වන අතර ඔවුන් සිය මව්පියන් සමග ගඟේ දියනෑමට පැමිණි අවස්ථාවේ මෙම අනතුරට ලක්ව ඇත.
+Two children were killed in drowning in the Polwatta River in the Yakkalamulla area in Galle.
 
-දියේ ගිලීමෙන් අනතුරුව ගොඩට ගත් දරුවන් ඉමදූව රෝහල වෙත ඇතුළත් කිරීමේදී ඔවුන් මියගොස් ඇති බව පොලීසිය පවසයි.
+The victim was two men who were ages 11 and 14.
+
+The two children are relatives and they were inaugurated when they came to the river with their parents.
+
+Police said that the children who had taken away after the drowning were admitted to the hospital.
 
 ◼️
 
 [Data](articles/346664be.json)
+
+[Extended Data](ext_articles/346664be.ext.json)
 
 ---
 
@@ -64,19 +94,43 @@ She said this small group will not give up easily, adding that people of Sri Lan
 
 [Data](articles/f27c8aa2.json)
 
+[Extended Data](ext_articles/f27c8aa2.ext.json)
+
 ---
 
-### විල්පත්තුවේ තම පිරිස සමගම දඩයමේ ගිය අයෙකුට වෙඩි තබයි
+### Wilpattu with his people shooting a hunting
 
 *2024-03-17 14:49:18* · [`adalk`](https://www.ada.lk/breaking_news/විල්පත්තුවේ-තම-පිරිස-සමගම-දඩයමේ-ගිය-අයෙකුට-වෙඩි-තබයි/11-408653) · `si`
 
-විල්පත්තුව ජාතික වන උද්‍යානයෙ මුරුන්දන්වේලි මන්ජකොඩි ඇල පිහිටි සිමාව තුළ නීති විරෝධීව වන සතුන් දඩයමේ ගිය දඩයක්කරුවකු වැරදිමකින් කළ වෙඩි තැබිමකින්  වනාතවිල්ලුව එළුවන්කුලම ප්‍රදේශයේ පදිංචිව සිටි 24 හැවිරිදි තරුණයකු මරණයට පත්වි ඇති බව වනාතවිල්ලුව පොලිසිය පැවසිය.
+A 24-year-old from Eluwankuluwa was killed by a hunting accident in Wilpattu National Park. Four residents of Venunuvilluwa, Puttalam, and Eluwankulam were involved in the incident.
 
-පුත්තලම,වනාතවිල්ලුව, හයෙ කණුව, හා එළුවන්කුලම ප්‍රදේශයෙ පදිංචි  සිව් දෙනෙකු මෙසේ නීති විරෝධී ලෙස වන සතුන් දඩයම් කිරීම සදහා විල්පත්තුව ජාතික වන උද්‍යානයට ගොස් සිටියදී තම පිරිස සමගම සිටි තරුණයකුට එම කණ්ඩායමේ අයකු රාත්‍රියෙ  වැරදිමකින් මෙම වෙඩි තැබිම සිදුකර ඇති බව කියති.
+🟩
+
+Wanniwilluwa police said that a 24-year-old youth residing in the Eluwankuluwa area in Wanunuwuwilluwa has been killed by a hunting hunting in the Wilpattu National Park.
+
+Four-residents of the Venunuvilluwa, Puttalam, six-residents, and the Eluwankulam area were said to be a man who had been shooting at the night.
 
 ◼️
 
 [Data](articles/2759b61d.json)
+
+[Extended Data](ext_articles/2759b61d.ext.json)
+
+---
+
+### කාගේ කාගේත් පැටිකිරිය ගැන හොයා ඡන්දය දෙන්න
+
+*2024-03-17 14:46:00* · [`adalk`](https://www.ada.lk/breaking_news/කාගේ-කාගේත්-පැටිකිරිය-ගැන-හොයා-ඡන්දය-දෙන්න/11-408652) · `si`
+
+ඉදිරි මැතිවරණයකදී බුද්ධිමත්ව තම ඡන්දය භාවිතා කරන ලෙසත් මේ රට විනාශ කළ දැක්මක් නැති දේශපාලකයන්ට නොරැවටී දේශපාලකයන්ගේ අතීත පැටිකිරිය පිළිබඳව සොයා බලා මනාකල්පනාවකින් යුතුව තම ඡන්දය භාවිතා කරන ලෙස හිටපු යුද හමුදාපති පාර්ලිමේන්තු මන්ත්‍රී ෆිල්ඩ් මාෂල් සරත් ෆොන්සේකා පවසයි .
+
+හිටපු යුද හමුදාපතිවරයා ඒ බව අවධාරණය කර සිටියේ නිරායුධ නිර්පාක්ෂික අරගලයෙන් ජනතා විප්ලවයක් කරා යන තේමාව නිර්පාක්ෂික සංවිධානය විසින් මහනුවර ජෝර්ජ් ඊ ද සිල්වා උද්‍යානය ඉදිරිපිටදී සංවිධානය කොට තිබූ උද්ඝෝෂණ ව්‍යාපාරයකට සහභාගි වීමෙන් අනතුරුව මාධ්‍ය හමුවේ අදහස් දක්වමිනි .
+
+මේ රටේ ඇති දූෂිත දේශපාලන සංස්කෘතිය සහ කිසිදු දැක්මක් නොමැති දේශපාලන ක්‍රියා පිළිවෙත පිළිබඳව ජනතාව දැනුවත් කිරීමට කටයුතු කරන බවත් අනාගතයේදී බුද්ධිමත්ව දේශපාලකයන්ට නොරැවටී රටේ අනාගතය බාර දිය හැකි ඉදිරි දැක්මක් ඇති පුද්ගලයන්ට තම ඡන්දය භාවිතා කරන ලෙසද ෆොන්සේකා මහතා එහිදී ජනතාවගෙන් ඉල්ලීමක් කළේය .
+
+...
+
+[Data](articles/8c7e6a2b.json)
 
 ---
 
@@ -278,21 +332,27 @@ On Friday, Israel said it would send a delegation to Qatar for more talks with m
 
 ---
 
-### අම්බලන්ගොඩ පොලීසියේ කොස්තාපල් දෙදෙනෙකුගේ වැඩ තහනම්
+### Two constables in Ambalangoda police banned
 
 *2024-03-17 13:28:59* · [`adalk`](https://www.ada.lk/breaking_news/අම්බලන්ගොඩ-පොලීසියේ-කොස්තාපල්-දෙදෙනෙකුගේ-වැඩ-තහනම්/11-408648) · `si`
 
-වහාම ක්‍රියාත්මක වන පරිදි අම්බලන්ගොඩ පොලිසියේ පොලිස් කොස්තාපල්වරුන් දෙදෙනකුගේ වැඩ තහනම් කර ඇත.
+Two Ambalangoda police constables suspended for alleged misconduct, including discussing duties and a shooting incident. The incident involved Agampium Saman Prantha, a criminal leader. Further investigations are ongoing.
 
-ඇල්පිටිය කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි අයි යූ කේ ලොකුහෙට්ටි මහතාගේ අත්සනින් යුත් 2024.03.16 දිනැති ලිපියක් මගින් මෙම වැඩ තහනම් කිරීම සිදුකර තිබේ. අපකීර්තිදායක හැසිරීම, අණට අකිකරුවිම, රාජකාරි පැහැර හැරිම යන චෝදනා යටතේ මෙම වැඩ තහනම් කිරීම සිදුකරන ලද බවද එම ලිපියේ වැඩි දුරටත් සදහන් වේ.
+🟩
 
-මෙසේ වැඩ තහනම්කර ඇත්තේ පසුගිය 13 වන දින අම්බලන්ගොඩ පොලීසියේ වි පී එන් තොරතුරු ජාලය ක්‍රියාත්මක කිරීම භාරව කටයුතු කරන ලද කොස්තාපල්වරයාගේ සහ දුරකතන ක්‍රියාකරු ලෙස සේවය කරන ලද කොස්තාපල්වරයාගේය.
+Two police constables of the Ambalangoda police have been suspended for immediate effect.
 
-සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු මෙන්ම මත්දව්‍ය ජාවාරම්කරුවෙකු වන අම්බලන්ගොඩ, ඉඩන්තොට පදිංචි අගම්පොඩි සජිත් සමන් ප්‍රියන්ත (26) නොහොත් ‘සමන් කොල්ලා’ නමැති අයගේ නිවසට එල්ල කරන ලද වෙඩි ප්‍රහාරය සම්බන්ධයෙන් අම්බලන්ගොඩ මූලස්ථාන පොලිස් පරීක්ෂක ප්‍රසන්න ඇල්ගිරියගේ මහතා දැනුවත් නොකිරීම හේතුවෙන් මෙම වැඩ තහනම් කිරීම සිදුකරන ලද බව එම ලිපියේ වැඩි දුරටත් සදහන් වේ.
+This work was banned by a letter from the SSP I UK Lokhetti, Senior Superintendent of Police, Senior Superintendent of Police.. The letter further further further stated that the work was suspended under the allegations of discuting, commander, duties.
+
+The work was banned by the constable served as the constable and telephone operator in charge of the implementation of the Ambalangoda police station on the 13th.
+
+Ambalangoda Police Office Inspector Prasanna Algiriya was banned due to the shooting of Agampium Saman Prantha (26), or 'Saman Boy' residents of an organized criminal criminal leader.The letter further states.
 
 ...
 
 [Data](articles/f65cc55b.json)
+
+[Extended Data](ext_articles/f65cc55b.ext.json)
 
 ---
 
@@ -2281,53 +2341,5 @@ Accordingly, it has been announced that the Government of India will be paid 250
 [Data](articles/293f7788.json)
 
 [Extended Data](ext_articles/293f7788.ext.json)
-
----
-
-### The funeral of the murdered in Canada tomorrow: 28 to the suspect
-
-*2024-03-16 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/178885) · `ta`
-
-The Canadian Buddhist Congress will hold a funeral for Sri Lankans murdered in Canada on Sunday, 17th, at the Infinity Convention Center in Ottawa. The suspect, Peprio de Sosya, is charged with murder and will attend the funeral but won't participate in conversations.
-
-🟩
-
-The Buddhist Congress for Canada has announced that the Sri Lankans who were murdered in Canada will be held on Sunday (17).
-
-In a statement issued by Panthe Sunita Thera, the resident representative of the Canadian Buddhist Congress, Panthee Sunita Thera, along with the Buddhist Congress and volunteers organizing committee of Canada, is scheduled to be held at the Canadian Time (according to Canadian).
-
-The funeral will be carried out at the Infinity Convention Center at No. 2901 Kibford in Ottawa.
-
-At the same time, Wickremaratne is physically recovering in the incident and psychologically he needs psychological support to recover from last week's events.. He will attend the funeral and that he will not participate in any conversation.
-
-...
-
-[Data](articles/44834044.json)
-
-[Extended Data](ext_articles/44834044.ext.json)
-
----
-
-### New mobile application promoting beach cleanliness to be launched
-
-*2024-03-16 17:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-mobile-application-promoting-beach-cleanliness-to-be-launched/108-279000) · `en`
-
-Colombo, March 16 (Daily Mirror)- Steps have been taken to launch a new mobile application "Beach Clean-up Coordination APP" aimed at enhancing the cleanliness and waste management on beaches, Senior Advisor to the President on National Security and Chief of Presidential Staff Sagala Ratnayaka said.
-
-This was revealed during a discussion at the Presidential Secretariat.
-
-The introduction of this mobile application is facilitated through the intervention of the Coastal Conservation Protection Authority, the President's Media Division (PMD) said.
-
-It aims to formalize coordination among institutions and organizations engaged in the sustainable development of coastal and marine environments.
-
-Sagala Ratnayaka emphasized the importance of commitment from all institutions responsible for ensuring the sustainability of ocean and coastal areas in maintaining cleanliness.
-
-He highlighted that the new mobile application will serve as a tool to facilitate these activities effectively, the PMD said.
-
-...
-
-[Data](articles/3aa9aca8.json)
-
-[Extended Data](ext_articles/3aa9aca8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 04:02:53**
+As of **2024-03-18 04:17:55**
 
 ## Newspaper Stats
 
-*Scraped **13,477** Articles*
+*Scraped **13,479** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 127
 bbccomsinhala | 149
 dbsjeyarajcom | 187
 newsfirstlk | 363
-dailyftlk | 707
+dailyftlk | 709
 economynextcom | 713
 islandlk | 735
 adalk | 1,157
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,477 (100.0%) of 13,477 articles have been extended.
+13,477 (100.0%) of 13,479 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -34,7 +34,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ### Sleep hanging in hospital
 
-*2024-03-18 03:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/178973) · `ta`
+*2024-03-18 03:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/178973) · `ta`
 
 A man named Chittambalam Baskaran, 61, from Irukkalai, died in a hospital on Sunday (18) after being found hanging in a neem tree. He was rescued by relatives at Kopay Hospital but died within hours without treatment. A sudden death investigation officer, A. Jayabalasingham, conducted the investigation.
 
@@ -51,6 +51,34 @@ The person who was allowed there died in a few hours without treatment. A sudden
 [Data](articles/3eb194e5.json)
 
 [Extended Data](ext_articles/3eb194e5.ext.json)
+
+---
+
+### Understanding tourism earnings for better macro-economic forecasting
+
+*2024-03-18 03:26:29* · [`dailyftlk`](https://www.ft.lk/columns/Understanding-tourism-earnings-for-better-macro-economic-forecasting/4-759617) · `en`
+
+2024 would be a telling year in not only further understanding tourism’s role within the economy, but also its role in forecasting for the future
+
+How close is the reported tourism earnings estimate to reality?
+
+In understanding the macroeconomy, carefully hashing out details within the Balance of Payments (BOP) current account is an important initial step. Official tourism earnings contribute significantly to Sri Lanka’s balance of payments (BOP) figures. This makes accurately tracking the foreign exchange earnings from the tourism industry crucial for understanding external sector performance and as macro advisors this tie in closely into our work of formulating potential scenarios for macro variable forecasting.
+
+...
+
+[Data](articles/d2926fd4.json)
+
+---
+
+### Innovating for better health, saving lives: Sri Lanka’s ambulance story
+
+*2024-03-18 03:19:47* · [`dailyftlk`](https://www.ft.lk/columns/Innovating-for-better-health-saving-lives-Sri-Lanka-s-ambulance-story/4-759616) · `en`
+
+In the rural town of Morawaka located in southern Sri Lanka, home to lush tea estates and paddy fields, Ramya is finally mother to a beautiful baby girl. She was born after a harrowing experience of an umbilical cord prolapse, a condition where the umbilical cord gets out of the body before the baby and risks cutting off the baby’s blood and oxygen supply. Ramya’s daughter was thankfully born safe—although in a surprising twist- aboard an ambulance, one of the world’s most digitally advanced and free ambulance services in Sri Lanka called ‘1990 Suwa Seriya’.
+
+...
+
+[Data](articles/c057bbc0.json)
 
 ---
 
@@ -2297,51 +2325,5 @@ There have been concerns that the world's most trumpet seas can be affected by t
 [Data](articles/3b2be9f1.json)
 
 [Extended Data](ext_articles/3b2be9f1.ext.json)
-
----
-
-### Missing Kinniya
-
-*2024-03-17 12:33:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/கிண்ணியா-வை-காணவில்லை/74-334792) · `ta`
-
-South Indian comedian Vaigai Vadivel joked about a missing well, sparking a viral incident. In the East, a similar situation occurred with the Kinniya Model nameplate missing, causing confusion for pedestrians. The Road Development Authority is now planting name boards for streets and Cabinet Roads to improve navigation.
-
-🟩
-
-South Indian comedian Vaigai Vadivel complained to the police that the well was missing in a force. That jokes went viral. A similar incident has taken place in the East.
-
-Kinniya-Thambalakamam main road, next to Thambalakamam, the name of the Kinniya Model, which was placed by the Road Development Authority, was missing for several months.
-
-Due to the lack of a nameplate that was planted under the Shivathappa, the pedestrians from outside are facing various difficulties in identifying the Kinniya Divisional Secretariat.
-
-The name board, which was planted by the Road Development Authority, disappeared for a long time.
-
-Apart from this, many newly constructed Cabinet Roads have not been set up. As a result, pedestrians from outside districts are searching the streets and wandering around here. Therefore, the appropriate council has taken action in this regard and requested to plant the name boards for the streets.
-
-◼️
-
-[Data](articles/913783ed.json)
-
-[Extended Data](ext_articles/913783ed.ext.json)
-
----
-
-### Former former MP in Pohon has been assaulted by a schoolgirl
-
-*2024-03-17 12:16:16* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-හිටපු-මන්ත්‍රීවරයෙකු-පාසල්-සිසුවෙකුට-පහර-දී-පළා-ගිහින්/11-408646) · `si`
-
-A former MP in Pohon assaulted by a schoolgirl's mother, hospitalized for five days. Police investigate the incident, suspecting the MP assaulted the student in Barandhuragoda on the 11th and fled. He's also accused of assaulting a development officer at a fuel station.
-
-🟩
-
-Police have launched an investigation into the arrest of a former MP in Baturupitiya Pradeshiya Yatt. The mother of the schoolgirl, the mother of his son, was assaulted and had been hospitalized for five days.
-
-Former MP has assaulted the student in Barandhuragoda town on the 11th. Police say that the suspect had fled the area after the attack.. Meanwhile, the suspect was accused of assaulting a development officer in a fuel station at the same time.
-
-◼️
-
-[Data](articles/5466a8cd.json)
-
-[Extended Data](ext_articles/5466a8cd.ext.json)
 
 ---

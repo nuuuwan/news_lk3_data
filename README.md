@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 01:50:23**
+As of **2024-03-18 02:02:57**
 
 ## Newspaper Stats
 
-*Scraped **13,465** Articles*
+*Scraped **13,466** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 735
 adalk | 1,157
 adaderanalk | 1,626
 tamilmirrorlk | 1,650
-virakesarilk | 1,869
+virakesarilk | 1,870
 dailymirrorlk | 2,055
 adaderanasinhalalk | 2,134
 
@@ -26,61 +26,97 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,462 (100.0%) of 13,465 articles have been extended.
+13,465 (100.0%) of 13,466 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### வடமராட்சியில் கடல் தொழிலுக்கு சென்று காணாமல் போன மீனவர் சடலமாக மீட்பு!
+### புகையிரதத்துடன் மோதி ஒருவர் உயிரிழப்பு!
+
+*2024-03-18 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178969) · `ta`
+
+வவுனியா தேக்கவத்தை பகுதியில் புகையிரதத்துடன் மோதி் முதியவர் ஒருவர் உயிரிழந்துள்ளார். குறித்த விபத்து ஞாயிற்றுக்கிழமை (17) மாலை இடம்பெற்றது.
+
+யாழிலிருந்து அனுராதபுரம் நோக்கிசென்ற புகையிரதம்  தேக்கவத்தை பகுதியில் சென்றுகொண்டிருந்த போது முதியவர் ஒருவர் மோதியதில் குறித்த விபத்து இடம்பெற்றது.
+
+◼️
+
+[Data](articles/bb0d1aa2.json)
+
+---
+
+### Recovery of missing fisherman in Vadamarachchi
 
 *2024-03-18 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178968) · `ta`
 
-வடமராட்சி கிழக்கு மருதங்கேணியில் சனிக்கிழமை (16) அன்று கடல் தொழிலுக்கு சென்று காணாமல் போன மீனவர், ஞாயிற்றுக்கிழமை (17) இன்று சடலமாக மீட்கப்பட்டார்.
+A 60-year-old fisherman from Vadamarachchi East Marudankeni was found dead after disappearing on Sunday. The navy and fishermen searched the sea for two days before recovering his body on Saturday.
 
-மீன் பிடிப்பதற்காக தெப்பம் மூலம் கடலுக்கு சென்றவர் காணாமல் போன நிலையில் இரண்டு நாட்களாக கடற்படையினர், மீனவர்களின் உதவியுடன் அவரை தேடி வந்தனர். அவர் பயணித்த தெப்பம் கரையொதுங்கியது.
+🟩
 
-இந்நிலையில் அவர் இன்று சடலமாக மீட்கப்பட்டுள்ளார். மருதங்கேணி வடக்கைச் சேர்ந்த 60 வயதுடைய  முத்துச்சாமி தவராசா  என்னும் குடும்பஸ்தரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
+Vadamarachchi East Marudankeni was found dead on Saturday (16), a fisherman who disappeared on Sunday (17).
+
+For two days, the navy, with the help of the fishermen, came to the sea when the man went to sea for fishing. The crocodile he traveled was shore.
+
+He has been recovered today. The body of Muttuchami Tavarasa, a 60 -year -old man from Maruthankani North, has been recovered.
 
 ◼️
 
 [Data](articles/fb633acb.json)
 
+[Extended Data](ext_articles/fb633acb.ext.json)
+
 ---
 
-### பொதுமக்கள் பாதுகாப்பு அமைச்சர் மற்றும் இலங்கை பொலிஸ் மா அதிபர் யாழ்ப்பாணத்தில் கலந்துகொண்ட நிகழ்வு!
+### Public Security Minister and Sri Lanka Inspector General of Police attended Jaffna
 
 *2024-03-18 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178967) · `ta`
 
-பொதுமக்கள் பாதுகாப்பு அமைச்சர் மற்றும் பொலிஸ் மா அதிபர் உள்ளிட்டவர்கள் கலந்துகொண்ட நிகழ்வு ஒன்று ஞாயிற்றுக்கிழமை (18) யாழ்ப்பாணத்தில் இடம்பெற்றது.
+The Public Security Minister and Inspector General of Police attended a Jaffna event organized by the Jaffna Police Division. They addressed the gathering, and the police were presented with a sample to the Minister and the Inspector General.
 
-யாழ்ப்பாணத்தில் உள்ள தனியார் விருந்தினர் விடுதி ஒன்றில் யாழ்ப்பாண பொலிஸ் பிரிவின் ஏற்பாட்டில் இந்த நிகழ்வு இடம்பெற்றது.
+🟩
 
-இதன்போது பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ், பொலிஸ் மா அதிபர் தேஷபந்து தென்னகோன் உள்ளிட்டவர்கள் உரையாற்றியிருந்தனர்.
+The event was attended by the Minister of Public Security and the Inspector General of Police on Sunday (18).
 
-அத்தோடு பொலிஸாரால் பொதுமக்கள் பாதுகாப்பு அமைச்சர், பொதுமக்கள் பாதுகாப்பு அமைச்சின் செயலாளர் மற்றும் பொலிஸ் மா அதிபர் ஆகியோருக்கு நினைவுச் சின்னமாக வாள் வழங்கி வைக்கப்பட்டது.
+The event was organized by the Jaffna Police Division at a private guest hostel in Jaffna.
 
-குறித்த நிகழ்வில் பொதுமக்கள் பாதுகாப்பு அமைச்சின் செயலாளர் வியானி குணதிலக்க, பொலிஸ் அதிகாரிகள், யாழ்ப்பாணம் மாவட்ட பதில் அரசாங்க அதிபர் ம.பிரதீபன், பிரதேச செயலாளர்கள், கிராம உத்தியோகத்தர்கள், மத குருமார்கள், யாழ்ப்பாணம் மாவட்டத்தில் உள்ள சமுக பொலிஸ் குழுக்களின் உறுப்பினர்கள் என பலர் கலந்துகொண்டிருந்தமை குறிப்பிடத்தக்கது.
+Public Security Minister Tran Ales and Inspector General of Police, Deshabandu Tennakoon were addressing the gathering.
+
+In addition, the police were presented with a sample to the Minister of Public Security, Secretary to the Ministry of Public Security and the Inspector General of Police.
+
+Secretary to the Ministry of Public Safety Viani Gunathilaka, Police Officers, Jaffna District Response Government Agent M. Pradeepan, Divisional Secretaries, Grama Niladhari, Religious Crusaders
 
 ◼️
 
 [Data](articles/4ef42958.json)
 
+[Extended Data](ext_articles/4ef42958.ext.json)
+
 ---
 
-### 1700 ரூபா சம்பள உயர்வுக்கு நாங்களும் ஆதரவளிக்கத் தயார் - இராதா எம்.பி அறிவிப்பு
+### We are ready to support the salary increase of 1700 rupees - Radha MP announces
 
 *2024-03-18 01:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/178966) · `ta`
 
-எதிர்வரும் காலத்தில் சமாதான நீதவான்களாக பெண்களை நியமனம் செய்வதற்கு மலையக மக்கள் முன்னணி நடவடிக்கை எடுத்து வருகின்றது. ஏனெனில் அவர்களுக்கு கொடுக்கின்ற ஒரு கௌரவமாக நாம் கருதுகின்றோம். இது தொடர்பாக நாம் நீதி அமைச்சர் விஜயதாச ராஜபக்சவிடம் கலந்துரையாடியுள்ளோம். அமைச்சரும் அதனை ஏற்றுக் கொண்டுள்ளார்.
+Radha MP supports a 1700 rupee salary increase. The Upcountry People's Front plans to appoint women as peace judges, with the Minister of Justice Vijayadasa Rajapaksa's approval. Women's contributions to Sri Lanka's economy are highlighted. The Women's Day event was held in Irakalai, chaired by Velusamy Radhakrishnan, with special speakers including Mrs. Pheakam Rahman and Mrs. Begum emphasizing women's education. The Ceylon Workers Congress accepts a 1700 rupee salary increase, aiming for 2000. The Upcountry People's Front is taking steps to appoint women as magistrates.
 
-இலங்கையின் பொருளாதார வளர்ச்சிக்கு எங்களுடைய பெண்கள் கடந்த 200 வருடங்களாக பங்களிப்பு செய்து வந்தாலும் அவர்களுடைய வாழ்க்கையில் முன்னேற்றம் ஏற்பட வில்லை என்பது கவலைக்குரிய ஒரு விடயமாகும்.எதிர்காலத்தில் இந்நிலைமை மாற்றமடைய வேண்டும் என நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினரும் மலையக மக்கள் முன்னணியின் தலைவருமான வேலுசாமி இராதாகிருஸ்ணன் தெரிவித்துள்ளார்.
+🟩
 
-மலையக மக்கள் முன்னணியின் மகளிர் தின நிகழ்வு ஞாயிற்றுக்கிழமை (17)  இராகலை நகரில் ஜெமினி மண்டபத்தில் நடைபெற்றது. மலையக மக்கள் முன்னணியின் தலைவரும் நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினருமான வேலுசாமி இராதாகிருஸ்ணன் தலைமையில் நடைபெற்ற இந்நிகழ்வில் கட்சியின் செயலாளர் நாயகமும் பேராசிரியருமான சங்கரன் விஜயசந்திரன் உட்பட கட்சியின் முக்கியஸ்தர்களும் கலந்து கொண்டனர்.
+The Upcountry People's Front is taking steps to appoint women as peace judges in the future. Because we consider it a honor that gives them. We have discussed this with the Minister of Justice Vijayadasa Rajapaksa. The Minister has also accepted it.
+
+It is a matter of concern that our women have been contributing to the economic growth of Sri Lanka for the past 200 years.
+
+The Women's Day event of the Upcountry People's Front was held on Sunday (17) at Gemini Hall in Irakalai. The event was chaired by Velusamy Radhakrishnan, leader of the Upcountry People's Front and Nuwara Eliya District Parliamentarian, and the party's leaders including Sankaran Vijayasandran, the party's secretary and professor Sankaran Vijayasandran.
+
+The event was organized by the Women's Organization of the Upcountry People's Front under the meaning of the hill country to change the International Women's Day.
+
+Senior Lecturer of the Southeastern University Mrs. Pheakam Rahman was the special speaker on Women's Day.
 
 ...
 
 [Data](articles/4ad43031.json)
+
+[Extended Data](ext_articles/4ad43031.ext.json)
 
 ---
 
@@ -2305,27 +2341,5 @@ He also told the media that Cardinal had issued a full report after the governme
 [Data](articles/ccb3c9e3.json)
 
 [Extended Data](ext_articles/ccb3c9e3.ext.json)
-
----
-
-### Open terrace on Sri Lankan train
-
-*2024-03-17 11:23:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-ரயிலில்-திறந்த-மொட்டைமாடி/175-334787) · `ta`
-
-The Sri Lankan Railway has developed a train compartment with an open terrace, aiming to attract both local and foreign tourists. This innovation is part of a plan to enhance the upcountry train service, showcasing the beauty of the hill country. The transformation of an old Roman railway box into a new viewing site is highlighted.
-
-🟩
-
-The Sri Lankan Railway's main mechanical engineering department has created a train compartment covering an open vision.
-
-Local and foreign tourists will be added to the upcountry train service in the future, so that the domestic built -in arrangement will be entertained by the hill country.
-
-The old Roman railway box that is not in use has been transformed into a new vision site.
-
-◼️
-
-[Data](articles/dcbb19fe.json)
-
-[Extended Data](ext_articles/dcbb19fe.ext.json)
 
 ---

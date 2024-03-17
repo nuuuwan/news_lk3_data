@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 01:33:15**
+As of **2024-03-18 01:50:23**
 
 ## Newspaper Stats
 
-*Scraped **13,462** Articles*
+*Scraped **13,465** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 735
 adalk | 1,157
 adaderanalk | 1,626
 tamilmirrorlk | 1,650
-virakesarilk | 1,866
+virakesarilk | 1,869
 dailymirrorlk | 2,055
 adaderanasinhalalk | 2,134
 
@@ -26,11 +26,63 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,462 (100.0%) of 13,462 articles have been extended.
+13,462 (100.0%) of 13,465 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### வடமராட்சியில் கடல் தொழிலுக்கு சென்று காணாமல் போன மீனவர் சடலமாக மீட்பு!
+
+*2024-03-18 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178968) · `ta`
+
+வடமராட்சி கிழக்கு மருதங்கேணியில் சனிக்கிழமை (16) அன்று கடல் தொழிலுக்கு சென்று காணாமல் போன மீனவர், ஞாயிற்றுக்கிழமை (17) இன்று சடலமாக மீட்கப்பட்டார்.
+
+மீன் பிடிப்பதற்காக தெப்பம் மூலம் கடலுக்கு சென்றவர் காணாமல் போன நிலையில் இரண்டு நாட்களாக கடற்படையினர், மீனவர்களின் உதவியுடன் அவரை தேடி வந்தனர். அவர் பயணித்த தெப்பம் கரையொதுங்கியது.
+
+இந்நிலையில் அவர் இன்று சடலமாக மீட்கப்பட்டுள்ளார். மருதங்கேணி வடக்கைச் சேர்ந்த 60 வயதுடைய  முத்துச்சாமி தவராசா  என்னும் குடும்பஸ்தரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/fb633acb.json)
+
+---
+
+### பொதுமக்கள் பாதுகாப்பு அமைச்சர் மற்றும் இலங்கை பொலிஸ் மா அதிபர் யாழ்ப்பாணத்தில் கலந்துகொண்ட நிகழ்வு!
+
+*2024-03-18 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178967) · `ta`
+
+பொதுமக்கள் பாதுகாப்பு அமைச்சர் மற்றும் பொலிஸ் மா அதிபர் உள்ளிட்டவர்கள் கலந்துகொண்ட நிகழ்வு ஒன்று ஞாயிற்றுக்கிழமை (18) யாழ்ப்பாணத்தில் இடம்பெற்றது.
+
+யாழ்ப்பாணத்தில் உள்ள தனியார் விருந்தினர் விடுதி ஒன்றில் யாழ்ப்பாண பொலிஸ் பிரிவின் ஏற்பாட்டில் இந்த நிகழ்வு இடம்பெற்றது.
+
+இதன்போது பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ், பொலிஸ் மா அதிபர் தேஷபந்து தென்னகோன் உள்ளிட்டவர்கள் உரையாற்றியிருந்தனர்.
+
+அத்தோடு பொலிஸாரால் பொதுமக்கள் பாதுகாப்பு அமைச்சர், பொதுமக்கள் பாதுகாப்பு அமைச்சின் செயலாளர் மற்றும் பொலிஸ் மா அதிபர் ஆகியோருக்கு நினைவுச் சின்னமாக வாள் வழங்கி வைக்கப்பட்டது.
+
+குறித்த நிகழ்வில் பொதுமக்கள் பாதுகாப்பு அமைச்சின் செயலாளர் வியானி குணதிலக்க, பொலிஸ் அதிகாரிகள், யாழ்ப்பாணம் மாவட்ட பதில் அரசாங்க அதிபர் ம.பிரதீபன், பிரதேச செயலாளர்கள், கிராம உத்தியோகத்தர்கள், மத குருமார்கள், யாழ்ப்பாணம் மாவட்டத்தில் உள்ள சமுக பொலிஸ் குழுக்களின் உறுப்பினர்கள் என பலர் கலந்துகொண்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/4ef42958.json)
+
+---
+
+### 1700 ரூபா சம்பள உயர்வுக்கு நாங்களும் ஆதரவளிக்கத் தயார் - இராதா எம்.பி அறிவிப்பு
+
+*2024-03-18 01:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/178966) · `ta`
+
+எதிர்வரும் காலத்தில் சமாதான நீதவான்களாக பெண்களை நியமனம் செய்வதற்கு மலையக மக்கள் முன்னணி நடவடிக்கை எடுத்து வருகின்றது. ஏனெனில் அவர்களுக்கு கொடுக்கின்ற ஒரு கௌரவமாக நாம் கருதுகின்றோம். இது தொடர்பாக நாம் நீதி அமைச்சர் விஜயதாச ராஜபக்சவிடம் கலந்துரையாடியுள்ளோம். அமைச்சரும் அதனை ஏற்றுக் கொண்டுள்ளார்.
+
+இலங்கையின் பொருளாதார வளர்ச்சிக்கு எங்களுடைய பெண்கள் கடந்த 200 வருடங்களாக பங்களிப்பு செய்து வந்தாலும் அவர்களுடைய வாழ்க்கையில் முன்னேற்றம் ஏற்பட வில்லை என்பது கவலைக்குரிய ஒரு விடயமாகும்.எதிர்காலத்தில் இந்நிலைமை மாற்றமடைய வேண்டும் என நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினரும் மலையக மக்கள் முன்னணியின் தலைவருமான வேலுசாமி இராதாகிருஸ்ணன் தெரிவித்துள்ளார்.
+
+மலையக மக்கள் முன்னணியின் மகளிர் தின நிகழ்வு ஞாயிற்றுக்கிழமை (17)  இராகலை நகரில் ஜெமினி மண்டபத்தில் நடைபெற்றது. மலையக மக்கள் முன்னணியின் தலைவரும் நுவரெலியா மாவட்ட பாராளுமன்ற உறுப்பினருமான வேலுசாமி இராதாகிருஸ்ணன் தலைமையில் நடைபெற்ற இந்நிகழ்வில் கட்சியின் செயலாளர் நாயகமும் பேராசிரியருமான சங்கரன் விஜயசந்திரன் உட்பட கட்சியின் முக்கியஸ்தர்களும் கலந்து கொண்டனர்.
+
+...
+
+[Data](articles/4ad43031.json)
+
+---
 
 ### The protests against the release of those arrested during the worship of the Shiva Temple at the Vedukkunni Hill in Tirumala
 
@@ -2275,77 +2327,5 @@ The old Roman railway box that is not in use has been transformed into a new vis
 [Data](articles/dcbb19fe.json)
 
 [Extended Data](ext_articles/dcbb19fe.ext.json)
-
----
-
-### New processor to keep the beach clean
-
-*2024-03-17 11:11:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்கரையை-சுத்தமாக-வைத்திருக்க-புதிய-செயலி/175-334786) · `ta`
-
-The introduction of the Beach Cleanup Coordination APP was discussed at the President's Office, led by Sagala Ratnayake. The app, supported by the Maritime Environmental Protection Authority, aims to integrate companies and organizations for coastal and maritime environmental sustainability. Ratnayake emphasized the importance of maintaining sea and coastal purity and expanding educational programs on coastal cleanliness. The Maritime Environmental Protection Authority highlighted the challenges of waste management and the involvement of various institutions in cleanup efforts.
-
-🟩
-
-Discussion on the introduction of the Beach Cleanup Coordination APP on the beaches was held at the President's Office headed by Sagala Ratnayake, the President's Senior Advisor and President of the President, on the National Security.
-
-The handset processor is to be introduced with the intervention of the Maritime Environmental Protection Authority, formally integrating companies and organizations involved in the stable development of the coastal and maritime environment.
-
-Sagala Ratnayake pointed out that all companies entrusted with the responsibility of ensuring the sustainable sea and coastal zone should be committed to maintaining the purity of the sea and the coastal side, adding that the new processor will help to ease the activities.
-
-...
-
-[Data](articles/165ac2f9.json)
-
-[Extended Data](ext_articles/165ac2f9.ext.json)
-
----
-
-### Pho Vietnam restaurant launches Banh Mi as Sri Lanka economy recovers
-
-*2024-03-17 11:10:00* · [`economynextcom`](https://economynext.com/pho-vietnam-restaurant-launches-banh-mi-as-sri-lanka-economy-recovers-154885/) · `en`
-
-ECONOMYNEXT – Pho Vietnam, Sri Lanka’s pioneer Vietnamese restaurant has launched Banh Mi, a fusion sandwich, which has gained worldwide acclaim, as the South Asian nation recovers from a currency crisis with a specialist chef flown down to train local staff.
-
-The restaurant has gone through tough times over the past five years with the Coronavirus pandemic which was immediately followed by an economic crisis.
-
-“There is a recovery in customers,” says Norah Phung, Founder Director of Pho Vietnam, which was founded in Colombo as the first Vietnamese restaurant in Sri Lanka in 2014.
-
-“There are more tourists and also expats. That is why I decided to launch this now.”
-
-Sri Lanka’s economy has expanded 4.5 percent in the December quarter, after turning positive in the third quarter, ending the slide as the currency stabilized and appreciated amid deflationary monetary policy, giving a stable foundation for businesses to operate and people to live.
-
-...
-
-[Data](articles/3f337bf5.json)
-
-[Extended Data](ext_articles/3f337bf5.ext.json)
-
----
-
-### South Iceland is urgent
-
-*2024-03-17 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194593) · `si`
-
-South Iceland declared urgency due to Reykjales volcano's activity. Lava spreads, authorities directing to safety zones. Lava reported in western and southern parts, flowing from Eastern security wall. Volcano not inactive, affecting sea.
-
-🟩
-
-The Reykjales in Iceland has again wrote a volcano.
-
-As a result, the government had acted to declare urgency to South Iceland.
-
-The volcano was the most active since December, as it is spreading the lava, the authorities have taken steps to direct the risky zones to protective places.
-
-The Icelandime media reported that Lava was widespread in two west and southern parts of the fire.
-
-It is reported that the lava Gritavikavik flows from the Eastern security wall.
-
-The fire has been reported that the volcano is not inactive to the sea, foreign media reports.
-
-◼️
-
-[Data](articles/853d8564.json)
-
-[Extended Data](ext_articles/853d8564.ext.json)
 
 ---

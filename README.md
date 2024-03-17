@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 23:33:19**
+As of **2024-03-17 23:51:54**
 
 ## Newspaper Stats
 
-*Scraped **13,455** Articles*
+*Scraped **13,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 149
 dbsjeyarajcom | 187
 newsfirstlk | 363
 dailyftlk | 699
-economynextcom | 712
+economynextcom | 713
 islandlk | 735
 adalk | 1,157
 adaderanalk | 1,626
 tamilmirrorlk | 1,649
-virakesarilk | 1,864
+virakesarilk | 1,865
 dailymirrorlk | 2,054
 adaderanasinhalalk | 2,134
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,455 (100.0%) of 13,455 articles have been extended.
+13,455 (100.0%) of 13,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### எல்லை தாண்டி வந்து மீன்பிடித்த குற்றச்சாட்டின் கீழ் 21 இந்திய மீனவர்களும் விளக்கமறியலில்!
+
+*2024-03-17 23:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/178964) · `ta`
+
+எல்லை தாண்டி வந்து மீன்பிடியில் ஈடுபட்ட குற்றச்சாட்டில் கைது செய்யப்பட்ட 21 இந்திய மீனவர்களையும் எதிர்வரும் 27ஆம் திகதிவரை விளக்கமறியலில் வைக்குமாறு ஊர்காவற்துறை நீதிமன்ற நீதிவான் உத்தரவிட்டார்.
+
+எல்லை தாண்டி வந்து இலங்கை கடற்பரப்பினுள் மீன்பிடி நடவடிக்கைகளில் ஈடுபட்ட இராமேஸ்வரம் பகுதியைச் சேர்ந்த 21 மீனவர்கள் 2 படகுகளுடன் கைது செய்யப்பட்டனர்.
+
+நெடுந்தீவு கடற்பரப்பில் வைத்து இலங்கை கடற்படையினரால் இந்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டது. கைது செய்யப்பட்ட மீனவர்கள் நீரியல்வள திணைக்களத்திடம் ஒப்படைக்கப்பட்டனர்.
+
+பின்னர் நீரியல்வள திணைக்களத்தினர் அவர்களுக்கு எதிராக ஊர்காவற்துறை நீதிமன்றத்தில் வழக்கு தாக்கல் செய்தனர். இந்நிலையில் அவர்கள் அனைவரையும் எதிர்வரும் 27ஆம் திகதிவரை விளக்கமறியலில் வைக்குமாறு நீதிவான் உத்தரவிட்டார்.
+
+◼️
+
+[Data](articles/df764f2e.json)
+
+---
 
 ### India navy recaptures ship from Somali pirates and rescues crew
 
@@ -977,6 +995,26 @@ Meanwhile, more than 1600 people were killed and more than 4,000 were injured an
 [Data](articles/aea864b6.json)
 
 [Extended Data](ext_articles/aea864b6.ext.json)
+
+---
+
+### Sri Lanka negotiating PPA for J/V solar power plant with India’s NTPS
+
+*2024-03-17 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-negotiating-ppa-for-j-v-solar-power-plant-with-indias-ntps-154920/) · `en`
+
+ECONOMYNEXT – Sri Lanka is negotiating a power purchase agreement with a joint venture solar power company with India’s National Thermal Power Corporation in Sampur, Energy Minister Kanchana Wijesekera said.
+
+“The Sampur project power purchase agreement we are hoping to sign this year,” Minister Wijesekera told reporters last week.
+
+“The negotiations are ongoing in the modalities. It is not an India project per se, 51 percent of the company is with the CEB. We are looking forward to signing the power purchase agreement and starting construction immediately after that.”
+
+However some infrastructure developments, including a transmission line has to be done in parallel, he said.
+
+“So we are looking into different financial institutions. We have had discussions with AIIB, to finance part of it,” Minister Wijesekera said.
+
+...
+
+[Data](articles/f313f830.json)
 
 ---
 
@@ -2321,49 +2359,5 @@ The deceased has been identified as a resident of Halpola, Pundaluoya while two 
 [Data](articles/ae643302.json)
 
 [Extended Data](ext_articles/ae643302.ext.json)
-
----
-
-### Fasthabrand Bright Strong
-
-*2024-03-17 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194591) · `si`
-
-Dilshan Madushanka injured in 2nd ODI, won't play in 3rd match, final ODI tomorrow.
-
-🟩
-
-Dilshan Madushanhanku Madushanka has lost the next team with the Bangladesh team.
-
-Sri Lanka Cricket said that during the second ODI match, he was injured.
-
-Cricket said that Dilshan Madushanka will not participate in the third match due to the non-segment.
-
-The decisive final ODI will be held tomorrow (18).
-
-◼️
-
-[Data](articles/f5bb7fe7.json)
-
-[Extended Data](ext_articles/f5bb7fe7.ext.json)
-
----
-
-### Dilshan Madushanka to miss rest of Bangladesh tour due to injury
-
-*2024-03-17 10:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dilshan-Madushanka-to-miss-rest-of-Bangladesh-tour-due-to-injury/108-279004) · `en`
-
-Colombo, March 17 (Daily Mirror) - Sri Lankan fast bowler Dilshan Madushanka will no longer participate in the ongoing Bangladesh tour due to a left hamstring injury he sustained during the 2nd One Day International (ODI) on Friday (15).
-
-Madushanka had to leave the field while bowling in the second ODI, prompting concerns about his condition.
-
-Following the incident, an MRI scan was conducted on Madushanka, confirming the left hamstring injury, Sri Lanka Cricket said.
-
-As a result, he will return to begin rehabilitation work to recover from the injury.
-
-◼️
-
-[Data](articles/ff0a7fcc.json)
-
-[Extended Data](ext_articles/ff0a7fcc.ext.json)
 
 ---

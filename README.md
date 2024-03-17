@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 04:51:13**
+As of **2024-03-18 05:02:50**
 
 ## Newspaper Stats
 
-*Scraped **13,482** Articles*
+*Scraped **13,483** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 127
 bbccomsinhala | 149
 dbsjeyarajcom | 187
 newsfirstlk | 363
-dailyftlk | 712
+dailyftlk | 713
 economynextcom | 713
 islandlk | 735
 adalk | 1,157
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,482 (100.0%) of 13,482 articles have been extended.
+13,482 (100.0%) of 13,483 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### Framework for National Archives and Records Management legislation open for public input
+
+*2024-03-18 04:34:58* · [`dailyftlk`](https://www.ft.lk/news/Framework-for-National-Archives-and-Records-Management-legislation-open-for-public-input/56-759624) · `en`
+
+Committee to Revise National Archives Law Chairman Nigel Nugawela (Archivist) explaining aspects of the proposed law to the Minister
+
+The Sri Lanka National Archives (SLNA) has announced that the Framework for National Archives and Records Management Legislation is now available for public comments.
+
+Through this process, SLNA is seeking input on the framework to further improve its various provisions and to develop archives and records management legislation that meets the needs of the public. The framework may be downloaded from https//bit.ly/slna.
+
+All submissions may be sent to [email protected] or posted to or handed over at the Department of National Archives at No. 7 Philip Gunawardene Mawatha, Colombo 07 or to the SLNA’s branch office at No. 4/6, Hemamali Mawatha, Kandy.
+
+...
+
+[Data](articles/b4408113.json)
+
+---
 
 ### SLT-MOBITEL and Railways unveil E-Ticket and E-Warrant solutions
 
@@ -2279,29 +2297,5 @@ Two suspects involved in the incident have fled the area and further investigati
 [Data](articles/14b61d1d.json)
 
 [Extended Data](ext_articles/14b61d1d.ext.json)
-
----
-
-### A Balina Marriage that attracts the attention of the world - married his longtime girlfriend
-
-*2024-03-17 13:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178934) · `ta`
-
-Australia's Foreign Minister Benivong married his longtime girlfriend in Adelaide Hills, sharing the joy with friends on social media. They met in 2007 and have two daughters.
-
-🟩
-
-Australia's External Affairs Ministry Benivong has joined his long -term sophistication with her long -term marriage.
-
-The wedding was held on Saturday in the Adelaide Hills area.
-
-Posting information on social media, Benivong said that this special day is happy to be able to share with us many of our friends.
-
-The Foreign Minister met his life partner in 2007. They have two girls.
-
-◼️
-
-[Data](articles/8b03b33a.json)
-
-[Extended Data](ext_articles/8b03b33a.ext.json)
 
 ---

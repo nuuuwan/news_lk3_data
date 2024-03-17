@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 14:33:25**
+As of **2024-03-17 14:49:45**
 
 ## Newspaper Stats
 
-*Scraped **13,388** Articles*
+*Scraped **13,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ economynextcom | 712
 islandlk | 735
 adalk | 1,144
 adaderanalk | 1,616
-tamilmirrorlk | 1,637
+tamilmirrorlk | 1,638
 virakesarilk | 1,859
-dailymirrorlk | 2,045
+dailymirrorlk | 2,047
 adaderanasinhalalk | 2,118
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,388 (100.0%) of 13,388 articles have been extended.
+13,388 (100.0%) of 13,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### ஜனாதிபதி புலமைப்பரிசில் திட்டம்: அதிரடி அறிவிப்பு
+
+*2024-03-17 14:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-புலமைப்பரிசில்-திட்டம்-அதிரடி-அறிவிப்பு/175-334796) · `ta`
+
+சிரமங்களுடன் கல்வி கற்கும் தரம் 1 முதல் தரம் 11 வரையான பாடசாலை மாணவர்களுக்கு ஊக்கமளிக்கும் நோக்கில்  ஜனாதிபதி ரணில் விக்ரமசிங்கவின் கருத்திட்டத்தின் அடிப்படையில் நடைமுறைப்படுத்தப்படும் "ஜனாதிபதி புலமைப்பரிசில் திட்டம் 2024/25"க்கான விண்ணப்பங்களை ஏற்றுக்கொள்ளும் கால அவகாசம் ஏப்ரல் 1ஆம் திகதி வரை நீடிக்கப்பட்டுள்ளது.
+
+மேலதிக  தகவல்களைப் பெற  www.facebook.com/president.fund ஊடாக ஜனாதிபதி நிதியத்தின் உத்தியோகபூர்பூர்வ முகநூல் பக்கத்தைப் பார்வையிடலாம்
+
+◼️
+
+[Data](articles/15780f5b.json)
+
+---
+
+### Daily Mirror columnist Anshu Bahanda wins prestigious Top 50 UK award
+
+*2024-03-17 14:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Daily-Mirror-columnist-Anshu-Bahanda-wins-prestigious-Top-50-UK-award/108-279010) · `en`
+
+Anshu Bahanda, Founder, Wellness Curated (UK) and Columnist, Daily Mirror, Sri Lanka, was the recipient of the prestigious Top50 Professional and Career Women’s Award (UK) 2024: Media.
+
+The event was held on Saturday the 16th of March 2024 at the House of Lords, UK, in the presence of H.E. Prince Michael of Kent and Lord Loomba (Member of the House of Lords, UK).
+
+The Top50 Professional and Career Women’s Awards (UK) was hosted by Women in Management (UK) in collaboration with IFC (a subsidiary of the World Bank) and Australia Aid (Government of Australia).
+
+◼️
+
+[Data](articles/fdd3ab88.json)
+
+---
 
 ### President to find gems across the country
 
@@ -59,6 +89,28 @@ The President emphasized that he should focus on exports and value the gem indus
 [Data](articles/d68c2641.json)
 
 [Extended Data](ext_articles/d68c2641.ext.json)
+
+---
+
+### Private buses available for election campaigns, no stickers or posters allowed: Gemunu
+
+*2024-03-17 13:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Private-buses-available-for-election-campaigns-no-stickers-or-posters-allowed-Gemunu/108-279009) · `en`
+
+Colombo, March 17 (Daily Mirror) - Private buses will be provided for election campaigns to any political party but pasting any stickers or posters on the bus will not be allowed, chairman of the Lanka Private Bus Owners' Association (LPBOA) Gemunu Wijerathne said.
+
+He told the media that buses will be provided on hire and the candidate or political party that hires the bus for their election campaigns must hold the responsibility of the bus or buses.
+
+Pasting stickers and posters on the body of the bus will damge its paint and the metal, he said.
+
+"Even during previous elections, our buses had been given on hire for election campaigns.
+
+"However, the damages caused to private buses during the aragalaya period have still not been recovered. Many buses were damaged during the aragalaya days.
+
+"Some buses were repaired by their owners, but there are a number of buses still in garages," he said.
+
+...
+
+[Data](articles/9aadb142.json)
 
 ---
 
@@ -2279,79 +2331,5 @@ The words "Parameswari - let me go in peace, brothers".
 [Data](articles/b7990228.json)
 
 [Extended Data](ext_articles/b7990228.ext.json)
-
----
-
-### Three killed in a house in Canada
-
-*2024-03-16 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194575) · `si`
-
-In Ontario, Canada, a fire killed three, including a mother, father, and daughter of Indian origin. Authorities couldn't verify their identities. The fire is not considered dangerous.
-
-🟩
-
-Three persons were killed in a fire that erupted in a house in Ontario, Canada.
-
-Foreign media reports that the mother, father and daughter, who has been deceased has been identified as the mother, father and daughter with Indian origin.
-
-After extinguishing the fire, three bodies were found.
-
-However, it is reported that the authorities had not been able to verify their identity.
-
-The Canada police say that the fire is not dangerous and suspected of suspicion.
-
-◼️
-
-[Data](articles/51382e71.json)
-
-[Extended Data](ext_articles/51382e71.ext.json)
-
----
-
-### Completion of food avoidance struggle
-
-*2024-03-16 16:27:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/உணவு-தவிர்ப்பு-போராட்டம்-நிறைவு/71-334759) · `ta`
-
-Five individuals, including a temple priest, ended a food-avoidance struggle at the Adisivan Temple in Vettukunni Mountain, following a demonstration for their release. They were arrested at the temple and at Vavuniya Prison, where they were joined by others including Velan Swamy and S. Gajendran.
-
-🟩
-
-The Food Avoidance Struggle of five persons arrested at the Adivasivan Temple in Vettukunni Mountain, who was involved in a food -related struggle at the Vavuniya Prison.
-
-Eight people, including the temple priest, were arrested by the Nedungeni police on the 8th of this month while they were worshiping the Shivaratri temple at the Adisivan Temple at the Vettu Niri Hill.
-
-Five of them have been engaged in a food -avoidance struggle since last Tuesday.
-
-In this case, a demonstration rally was held in Vavuniya demanding the release of the arrested persons and the police anarchy.
-
-Following the conclusion of the Vavuniya Prison front, Velan Swamy, Blessed Ramesh, Attorney K. Sukas and Member of Parliament, S. Gajendran, went to the prison with their compliance with their compliance with their compliance with the temple priest MathimukarasaThey discussed with the 5 people and gave them water and completed the food avoidance struggle.
-
-...
-
-[Data](articles/1c01e603.json)
-
-[Extended Data](ext_articles/1c01e603.ext.json)
-
----
-
-### Introduction to Appeals in Tamil
-
-*2024-03-16 16:15:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழில்-முறையிட-இலக்கம்-அறிமுகம்/175-334758) · `ta`
-
-Public Security Minister Tran Ales and Inspector General of Police Deshpandu Thennakoon were detained on Saturday. The police have enabled Tamil-speaking people in the North and East to lodge complaints via a 107 number.
-
-🟩
-
-Public Security Minister Tran Ales and Inspector General of Police Deshpandu Thennakoon were held on Saturday (16).
-
-According to the police media spokesman Nihal Dalduwa, the police spokesman said that the opportunity to submit complaints in Tamil in Tamil through a short number of 107.
-
-Nihal Talduwa said that the Tamil people living in the Northern and Eastern Provinces have been facilitated directly to the police.
-
-◼️
-
-[Data](articles/4f59d2f5.json)
-
-[Extended Data](ext_articles/4f59d2f5.ext.json)
 
 ---

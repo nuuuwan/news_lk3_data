@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 18:08:00**
+As of **2024-03-17 18:20:08**
 
 ## Newspaper Stats
 
-*Scraped **13,414** Articles*
+*Scraped **13,419** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,104 @@ newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 712
 islandlk | 735
-adalk | 1,150
-adaderanalk | 1,620
+adalk | 1,151
+adaderanalk | 1,621
 tamilmirrorlk | 1,643
 virakesarilk | 1,859
 dailymirrorlk | 2,048
-adaderanasinhalalk | 2,125
+adaderanasinhalalk | 2,128
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,411 (100.0%) of 13,414 articles have been extended.
+13,414 (100.0%) of 13,419 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### තීරණාත්මක තරගය තවත් ප්‍රබලයෙකුට අහිමි වෙයි
+
+*2024-03-17 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194608) · `si`
+
+ශ්‍රී ලංකා-බංග්ලාදේශ තුන්වන සහ අවසන් එක්දින ක්‍රිකට් තරගය තවත් ප්‍රබල ක්‍රීඩකයෙකුට අහිමිව ගොස් ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+මෙලෙස ආබාධ තත්ත්වයක් හේතුවෙන් අවසන් තරගය අහිමිව ගොස් ඇත්තේ බංග්ලාදේශ වේග පන්දු යවන ක්‍රීඩක ටන්සිම් හසන්ටය.
+
+අද පැවති පුහුණු සැසියකදී ඔහු පාදයේ ආබාධයකට ලක්වී ඇති බව එරට ක්‍රිකට් ආරංචි මාර්ග උපුටා දක්වමින් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+ඒ අනුව හෙට පැවැත්වෙන තරඟය ක්‍රීඩා කිරිම සදහා ඔහු සුදුසු ශාරීරික යෝග්‍යතා මට්ටමක නොමැති බවට වෛද්‍යවරුන් සදහන් කර තිබේ.
+
+ආබාධයකට ලක්වීම හේතුවෙන් ශ්‍රි ලංකා වේගපන්දු යවන ක්‍රීඩක ඩිල්ෂාන් මදුශංක හට ද හෙට පැවැත්වෙන තුන්වන එක්දින තරගය අහිමි වන බව ශ්‍රි ලංකා ක්‍රිකට් ආයතනය අද පෙරවරුවේ නිවේදනය කළේය.
+
+තරග තුනකින් සමන්විත ශ්‍රි ලංකා - බංග්ලාදේශ එක්දින තරගාවලිය මේ වනවිට තරග 1-1ක් ලෙස කණ්ඩායම් දෙකම සම තත්ත්වයේ පවතින අතර තීරණාත්මක අවසන් තරගය හෙට පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/01171db2.json)
+
+---
+
+### හෙට ගැන විශේෂ දැනුම්දීමක්
+
+*2024-03-17 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194607) · `si`
+
+දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය හෙට (18) දිනයේදී අවධානය යොමුකළ යුතු මට්ටමක් දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව වයඹ, උතුරු මැද, නැගෙනහිර, බස්නාහිර පළාත් සහ මොණරාගල, මන්නාරම, රත්නපුර සහ වවුනියා දිස්ත්‍රික්කවල ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+ඒ අනුව ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළ යුතු බව එම දෙපාර්තමේන්තුව දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/17a51eb7.json)
+
+---
+
+### Schools asked to postpone sports meets due to hot weather
+
+*2024-03-17 18:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98014/schools-asked-to-postpone-sports-meets-due-to-hot-weather) · `en`
+
+Minister of Education Susil Premajayantha says that school principals will be informed through a circular to organise the inter-house sports meets and sports events of their respective schools after the Sinhala and Tamil New Year holidays.
+
+The minister pointed out that it has been observed that many schools have organised inter-house sports meets regardless of the prevailing hot weather conditions across the island.
+
+Minister Susil Premajayantha said that since the first school term will continue even after the New Year holidays, it is possible to hold sports meets and other outdoor sporting events during that period.
+
+Meanwhile, the Department of Meteorology says the heat index, the temperature felt on the human body, is expected to increase up to ‘Caution level’ at some places in North-western, North-central, Eastern, Western provinces and Monaragala, Mannar, Rathnapura and Vavuniya districts tomorrow (18).
+
+◼️
+
+[Data](articles/42d0fe55.json)
+
+---
+
+### ජාඇළ බිහිසුණු කන්ටේනර් රථ අනතුර
+
+*2024-03-17 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194606) · `si`
+
+ජාඇළ ප්‍රදේශයේ සිදුවූ බිහිසුණු අනතුරකින් පාපැදියක ගමන්කරමින් සිටි පුද්ගලයෙකු අවාසනාවන්ත ලෙස මියගොස් තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ 36 හැවිරිදි වියේ පසුවූ ජාඇළ වැලිගම්පිටිය ප්‍රදේශයේ පදිංචි අවිවාහක පුද්ගලයෙකි.
+
+ජාඇළ කනුවන දුම්රිය හරස් මාර්ගය ආසන්නයේදී මෙම පුද්ගලයා කන්ටේනර් රථයේ ගැටී ඇති අතර එහි පැටලී මීටර් 300කට ආසන්න දුරක් ඇදී ගොස් ඇති බවද අනාවරණය වී තිබුණි.
+
+එහිදී මියගොස් ඇති පුද්ගලයාගේ සිරුරේ කොටස් මාර්ගයේ තැන තැන විසිරී ගොස් තිබී ඇති අතර පොලීසිය ඔහුගේ අනන්‍යතාව තහවුරු කරගෙන ඇත්තේ ඔහුගේ දුරකථනයේ සිම් කාඩ්පත උපයෝගී කරගනිමිනි.
+
+පසුව පොලීසිය විසින් CCTV පරීක්ෂා කිරීමෙන් අනතුරුව කන්ටේනර් රථය හඳුනාගෙන තිබුණි.
+
+වැඩිදුර විමර්ශනවලදී හෙළිවී ඇත්තේ තඹුත්තේගම සිට කොහුබත් පටවාගෙන පැමිණි එම කන්ටේනර් රථය එම තොගය වරාය ගුදම් අංගනයට දමා වත්තල කන්ටේනර් අංගනයක නවතා ගොස් ඇති බවය.
+
+අනතුරුව වරාය නිලධාරීන්ගේ සහාය ද ඇතිව පොලීසිය විසින් කන්ටේනර් රථය සහ රියදුරු අත්අඩංගුවට ගෙන තිබුණි.
+
+අත්අඩංගුවට ගත් රියදුරු අද වත්තල මහෙස්ත්‍රාත්වරයා හමුවට ඉදිරිපත් කිරීමට නියමිත අතර ජාඇළ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/b9d942d8.json)
+
+---
 
 ### Heat advisory issued for most parts of the island
 
@@ -49,6 +131,8 @@ For this reason, members of the public are advised to stay hydrated, take breaks
 ...
 
 [Data](articles/261979fe.json)
+
+[Extended Data](ext_articles/261979fe.ext.json)
 
 ---
 
@@ -154,19 +238,29 @@ Meanwhile, more than 1600 people were killed and more than 4,000 were injured an
 
 ---
 
-### யானை தாக்கி இருவர் மரணம்
+### Elephant attack two
 
 *2024-03-17 16:32:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானை-தாக்கி-இருவர்-மரணம்/175-334808) · `ta`
 
-ஏறாவூர் பற்று பிரதேச செயலகப் பிரிவு ஈரளக்குளத்தில் சனிக்கிழமை(16) இரவும், கிரான் பிரதேச செயலக பிரிவு திகிலி வெட்டையில் ஞாயிற்றுக்கிழமை (17) அதிகாலை   யானை தாக்கி இருவர் மரணமடைந்துள்ளனர்.
+Two deaths occurred: an elephant attack in the Divisional Secretariat Division and a cow farm incident in Adittiaveli, involving Pathmanathan Mohanadas, 45, and Nagarasa Muralitharan, 31, from Kulathupettai. The bodies are being examined at Batticaloa Teaching Hospital and Banana Senal Hospital.
 
-இரு வெவ்வேறு பிரதேச செயலகப் பிரிவுகளிலும் நடைபெற்ற மரணத்திற்கான மரண  விசாரணைகளை, திடீர் மரண விசாரணை அதிகாரிகளான எம்.எஸ்.எம்.நஸீர், கே. பவளகேசன் ஆகியோர் கரடியனாறு மற்றும் சந்திவெளி பொலிஸாருடன் சம்பவ இடத்திற்கு நேரடியாக சென்று மேற்கொண்டுள்ளனர் .
+🟩
 
-ஆவெட்டியாவெளியில் மாடு வளர்ப்பில் ஈடுபட்ட, சித்தாண்டியை சேர்ந்த இரு பிள்ளைகளின் தந்தையான பத்மநாதன் மோகனதாஸ் (வயது  45) என்பவர்சனிக்கிழமை  (16),  மாலை உறவினர் ஒருவரின் வீட்டுக்கு சென்று, பண்ணையை நோக்கி இரவு 09 மணியளவில் நடந்து செல்லும்போது ஈரளக்குளத்தில் வீதியோரமாக நின்ற யானையொன்றின் தாக்குதலுக்குள்ளாகி  சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
+Elephant Divisional Secretariat Division Divisional Divisional Secretariat Division has died on Saturday (16) and Gran Divisional Secretariat Division in the early hours of Sunday morning.
 
-...
+MSM Nazir, K.. Pavalakesan has gone directly to the scene with Karadiyanaru and Sandiweli police.
+
+Pathmanathan Mohanadas (45), the father of two children from Siddhanti, who was involved in a cow farm in Adittiaveli, was on the spot when a relative of a relative was walking towards the farm and walking towards the farm at around 9 pm.
+
+In addition, a father of a child named Nagarasa Muralitharan (age 31) from Kulathupettai, Kulathupettai, was killed by a friend at midnight and died on the spot when he was lying under a tree in the early hours of the pond.
+
+It is noteworthy that the two bodies will be sent to the Batticaloa Teaching Hospital and the Banana Senal Hospital for anatomical examination and the bodies will be handed over to relatives after the autopsy.
+
+◼️
 
 [Data](articles/7f07de4a.json)
+
+[Extended Data](ext_articles/7f07de4a.ext.json)
 
 ---
 
@@ -652,19 +746,25 @@ Accordingly, the temperature in the North Western, North Central, East, Western,
 
 ---
 
-### ඩිල්ෂාන්ට බංග්ලාදේශ තරගාවලියත් අයි.පී.එල්. මුල් තරග කිහිපයත් අහිමිවෙයි
+### Dilshan Tournament the Bangladesh Competition IPL. The first few matches will be lost
 
 *2024-03-17 13:49:39* · [`adalk`](https://www.ada.lk/sports/ඩිල්ෂාන්ට-බංග්ලාදේශ-තරගාවලියත්-අයි-පී-එල්--මුල්-තරග-කිහිපයත්-අහිමිවෙයි/9-408650) · `si`
 
-බංග්ලාදේශයට එරෙහිව පැවැති දෙවැනි එක්දින තරගයේදී ආබාධයකට ලක්වු ශ්‍රී ලංකා වේග පන්දු යවන ක්‍රීඩක ඩිල්ෂාන් මධුශංකට තරගාවලියේදී ඉතිරි තරග මෙන්ම ඉන්දීය ප්‍රිමියර් ලීග තරගාවලියේ මුල් තරග කිහිපයද අහිමි වී තිබේ.
+Dilshan Madushanu, Sri Lanka's fast bowler, missed the first matches of the IPL and the Bangladesh ODI series due to a muscle injury. He was acquired by the IPL team in December. The decisive third ODI between Sri Lanka and Bangladesh will determine the series winner.
 
-ඒ ඔහු මස්පිඩු ආබාධයකට ලක්ව ඇති හෙයිනි. ඒ අනුව ඔහු සිය ආබාධය සුවකර ගැනිමට අදාළ කටයුතු සිදුකිරීම වෙනුවෙන් මේ වන විට ශ්‍රී ලංකාවට පැමිණ තිබේ. ශ්‍රී ලංකාව හා බංග්ලාදේශය අතර තීරණාත්මක තෙවැනි එක්දින තරගය හෙට පැවැත්වීමට නියමිතව තිබේ. මෙම තරගය ජය ගන්නා කණ්ඩායම එක්දින තරගාවලියේ ශූරතාවයද හිමිකර ගනු ඇත.
+🟩
 
-පසුගිය වසරේ දෙසැම්බර් මාසයේ පැවති  IPL වෙන්දේසියේදී මුම්බායි ඉන්දියන්ස් කණ්ඩායම ඇමෙරිකානු ඩොලර් 554,000ක පමණ අගයකට ඩිල්ෂාන් මධුශංක සිය කණ්ඩායමට එක්කර ගත්තේය.
+Sri Lanka's fast bowler Dilshan Madushanu, who was disabled in the second ODI against Bangladesh, has lost the first matches and the first matches of the Indian Premier League.
+
+That's because he was under the muscle. Accordingly, Sri Lanka has arrived in Sri Lanka to carry out his disorder. The decisive third will be held tomorrow between Sri Lanka and Bangladesh tomorrow. The winner will win the winner champions at the ODI series.
+
+Dilshan Indians were brought to his team at the IPL Auction in December last year.
 
 ◼️
 
 [Data](articles/841212b2.json)
+
+[Extended Data](ext_articles/841212b2.ext.json)
 
 ---
 
@@ -695,6 +795,24 @@ A man who served as a manager at the main entrance in the Modara area in Colombo
 [Data](articles/a4c61f98.json)
 
 [Extended Data](ext_articles/a4c61f98.ext.json)
+
+---
+
+### සංවර්ධන ව්‍යාපෘතියක් අවසානයේදී ජනතාව පීඩාවට පත් නොවිය යුතුයි
+
+*2024-03-17 13:43:42* · [`adalk`](https://www.ada.lk/breaking_news/සංවර්ධන-ව්‍යාපෘතියක්-අවසානයේදී-ජනතාව-පීඩාවට-පත්-නොවිය-යුතුයි/11-408649) · `si`
+
+යම් සංවර්ධන කටයුත්තක් සිදු කරන විට රාංජ්‍ය ආයතන අතර නිසි සම්බන්ධීකරණයක් තිබිය යුත් බවත් එම සංවර්ධන වැඩ සටහන් අවසන් වන විට එය ජනතාව පීඩාවට පත්වන අයුරින් අවසන් නොවිය යුතු බව ද මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවැසීය.
+
+උතුරු දුම්රිය මාර්ගයේ මහව හන්දිය සිට අනුරාධපුර දක්වා නවීකරණ කටයුතු හේතුවෙන් මතුව ඇති ගැටලු සාකච්ඡා කර විසඳුම් ලබා දීම සඳහා අනුරාධපුර දිස්ත්‍රික් ලේකම් කාර්යාලයේ පැවැති සාකච්ඡාවක දී අමාත්‍යවරයා එසේ ප්‍රකාශ කළේය.
+
+එහි දී දුම්රිය මාර්ගය පැවැති මට්ටමට වඩා අඩි දෙකක් පමණ නවීකරණයේ දී ඉහළ එසවීම හේතුවෙන් ජලය බැසයාම, හරස් මාර්ග රථවාහන ගමනා ගමනයට අපහසු වන පරිදි අනවශ්‍ය ප්‍රමාණයට ඉහළට එසවී තිබීම යන කරුණු කෙරෙහි දැඩි අවධානයක් යොමු විය. එහි දී අනාවරණ වූයේ රාජ්‍ය ආයතන අතර නිසි සම්බන්ධීකරණයක් නොමැති වීම හේතුවෙන් මෙම ගැටලු මතුව ඇති බවයි.
+
+දුම්රිය මාර්ගය නවීකරණයට පෙර ඒ සම්බන්ධයෙන් වන අවශ්‍යතා විමසා දුම්රිය දෙපාර්තමේන්තුව අදාළ ආයතන වෙත ලිඛිත දැනුම් දීම් කර තිබුණ ද ඊට කිසිදු ප්‍රතිචාරයක් නොමැති වීම හේතුවෙන් සිය නවීකරණ කටයුතු ආරම්භ කර තිබේ.
+
+...
+
+[Data](articles/3d58b298.json)
 
 ---
 
@@ -2227,115 +2345,5 @@ President Ranil Wickremesinghe made this statement at a discussion with District
 [Data](articles/0a59629c.json)
 
 [Extended Data](ext_articles/0a59629c.ext.json)
-
----
-
-### Over 150 illegal immigrants including Sri Lankans apprehended in Malaysia
-
-*2024-03-16 22:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98003/over-150-illegal-immigrants-including-sri-lankans-apprehended-in-malaysia) · `en`
-
-As many as 158 illegal immigrants including Sri Lankans were detained in Malaysia for residing there without valid visas or permits and overstaying their allowed duration, foreign media reported.
-
-Citing Perak Immigration Director Meor Hezbullah Meor Abdul Malik, the Malaysian National News Agency ‘Bernama’ said the illegal immigrants were apprehended during a raid conducted at the Bercham Flats in Perak.
-
-Among the detainees were 83 men, 54 women, 8 boys and 3 girls – all aged between 9 and 60 years hailing from Indonesia, Nepal, Myanmar, China, Pakistan, Sri Lanka and Vietnam.
-
-“Most of these individuals were renting apartments from local landlords. Approximately 560 units in 15 blocks were inspected during the operation,” he was quoted as saying on Saturday (March 15).
-
-Reportedly, one of the detainees, a 50-year-old Indonesian, had been working as a house cleaner without a permit for a year.
-
-...
-
-[Data](articles/879181f4.json)
-
-[Extended Data](ext_articles/879181f4.ext.json)
-
----
-
-### 2002 Grama Niladhari Officers in April
-
-*2024-03-16 22:20:01* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රේල්-අවසන්වීමට-ප්‍රථමව-ග්‍රාමසේවා-නිලධාරීන්-2002ක්/11-408636) · `si`
-
-Minister of Home Affairs Ashoka Priyantha announced Grama Niladhari Divisions recruitment interviews in April, aiming to stabilize the economy and improve rural development.
-
-🟩
-
-The Minister of Home Affairs Ashoka Priyantha said that interviews to recruit Grama Niladhari Divisions in the vacancy are being held these days and before the end of April.
-
-The State Minister said that if President Ranil Wickremesinghe was able to move to the program to be built, two more years, could create a developed country, building the collapse economy.
-
-The Ministry of Home Affairs Asoka Priyantha made this statement participating at a press conference held at the Presidential Media Center.
-
-Economic and social stability is being created by the end of the past crises. Our ministry has also contributed to this.. We were able to create food security and nutrition committees at district level. The mediation needed to provide the desire for 100,000 poverty families. The rural development is being taken up through the decentralized budget.
-
-...
-
-[Data](articles/c3f97035.json)
-
-[Extended Data](ext_articles/c3f97035.ext.json)
-
----
-
-### THE GREATEST COMEBACK STORY NEVER TOLD
-
-*2024-03-16 22:15:00* · [`islandlk`](http://island.lk/the-greatest-comeback-story-never-told/) · `en`
-
-President Biden gave the final State of the Union speech of the first term of his presidency on Thursday, March 7, 2024. It was probably the most important speech in his long and distinguished career in public service, which spans over half a century. Biden represented Delaware in the Senate from 1973 to 2009, served as Vice-President in the administrations of President Barack Obama from 2009 to 2017, and the incumbent 46th President since January, 2021.
-
-President Biden is certainly no stranger to one of the most hallowed annual rituals in America, the State of the Union Speech, a ceremonial occasion to illustrate U.S. democracy in action. He was completely at ease in an environment most familiar to him, and his fiery performance in this vital speech tended to lay to rest immediate misgivings about his advanced age and ability to run for a second term.
-
-...
-
-[Data](articles/437dfad4.json)
-
-[Extended Data](ext_articles/437dfad4.ext.json)
-
----
-
-### India to hold world’s biggest election in seven stages from April
-
-*2024-03-16 22:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/India-to-hold-worlds-biggest-election-in-seven-stages-from-April/107-279003) · `en`
-
-India, March 16 (BBC) - India's general election will take place in seven phases over April and May, the Election Commission says.
-
-The results will be announced on 4 June, Chief Election Commissioner Rajiv Kumar told a news conference.
-
-With some 968 million eligible voters, India's election will be the largest the world has seen.
-
-Opinion polls predict a win for Narendra Modi's Bharatiya Janata Party (BJP) and its allies, which is eyeing a record third term in power.
-
-More than two dozen opposition parties, including the Congress, have formed a coalition bloc - called the Indian National Developmental Inclusive Alliance or INDIA - to take on the BJP at this election.
-
-India's lower house has 543 elected seats and any party or a coalition needs a minimum of 272 MPs to form a government.
-
-The BJP, led by Mr Modi, had won a staggering 303 of the 543 seats in the 2019 election. This year, the party says its target is to win at least 370 seats.
-
-...
-
-[Data](articles/665d4de1.json)
-
-[Extended Data](ext_articles/665d4de1.ext.json)
-
----
-
-### Day will be set up to the Indian parliamentary election
-
-*2024-03-16 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194584) · `si`
-
-Indian parliamentary election phases: April 19-26, May 7, 13, 20, 6, and June 2. Voting results announced June 4.
-
-🟩
-
-The first phase of the election will commence on April 19 and the second stage begins on April 26.
-
-The 3rd phase will be held on May 07, May 13th, May 13th, May 20th May and the 6th May and the 7th stage will be held on 2 June.
-
-The number of votes will be made from June 4 on June 4.
-
-◼️
-
-[Data](articles/db187c21.json)
-
-[Extended Data](ext_articles/db187c21.ext.json)
 
 ---

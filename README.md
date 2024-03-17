@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 10:33:18**
+As of **2024-03-17 10:51:12**
 
 ## Newspaper Stats
 
-*Scraped **13,352** Articles*
+*Scraped **13,358** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,118 @@ newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 710
 islandlk | 735
-adalk | 1,139
-adaderanalk | 1,613
+adalk | 1,140
+adaderanalk | 1,614
 tamilmirrorlk | 1,628
-virakesarilk | 1,853
-dailymirrorlk | 2,042
-adaderanasinhalalk | 2,110
+virakesarilk | 1,854
+dailymirrorlk | 2,043
+adaderanasinhalalk | 2,112
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,350 (100.0%) of 13,352 articles have been extended.
+13,352 (100.0%) of 13,358 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### ඊශ්‍රායලයේ ජනතාව පාරට බසිති
+
+*2024-03-17 10:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194592) · `si`
+
+හමාස් සටන්කරුවන් භාරයේ සිටින ඊශ්‍රායල ප්‍රාණඇපකරුවන් නිදහස් කරන ලෙසට බලකරමින් ඊශ්‍රායලයේ ටෙල් අවීව් නගරයේ දැවැන්ත විරෝධතාවක් පැවැත්වුණි.
+
+ඊශ්‍රායල සහ හමාස් යුද ගැටුම් ආරම්භවී මේ වනවිට මාස පහක කාලයක් ගත වි තිබේ.
+
+කෙසේ වුව ද ඔක්තෝබර් 7 ප්‍රහාරයෙන් පසුව හමාස් සංවිධානය ප්‍රාණඇපයට ගත් ඊශ්‍රායල ජාතිකයින්ගෙන් සියයකට අධික පිරිසක් තවමත් සිටින්නේ හමාස් සංවිධානය භාරයේය.
+
+ඔවුන් පවසන්නේ දෙපාර්ශ්වය අතර සාකච්ඡා පවත්වා ප්‍රාණඇපකරුවන් මුදා ගැනීමට බලධාරීන් කටයුතු කළ යුතු බවයි.
+
+විරෝධතාකරුවන්ගේ ඊශ්‍රායල අගමැති බෙන්ජමින් නෙතෙන්යාහු ප්‍රමුඛ රජයට ද එල්ල වී ඇත්තේ දැඩි විරෝධයකි.
+
+◼️
+
+[Data](articles/b37db98f.json)
+
+---
+
+### அதானி குழுமத்தின் காற்றாலை மின் திட்டம் குறித்து மன்னாரில் கவலைகள் கரிசனைகள் - இந்து
+
+*2024-03-17 10:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178918) · `ta`
+
+மன்னாரில் அதானிகுழுமம் முன்னெடுக்கவுள்ள காற்றாலை மின் திட்டம் குறித்து கரிசனைகள் காணப்படுகின்றன என தெரிவித்துள்ள இந்து நாளிதழ்  இது பறவைகளிற்காக மரணபொறி என்ற கருத்து நிலவுவதாகவும் செய்தி வெளியிட்டுள்ளது
+
+இந்தியாவின் அதானி கிறீன்ஸ் நிறுவனத்தினால்  இலங்கையின் வடபகுதியில் முன்னெடுக்கப்படும் காற்றாலை மின் உற்பத்தி திட்டம் சர்ச்சைகளை எதிர்கொண்டுள்ளது.
+
+கரையோர பகுதிகளிலும் வாழ்வாதாரத்திற்கும் இந்த திட்டத்தினால் ஏற்படக்கூடிய பாதிப்புகள் குறித்து சூழலியாளர்களும் உள்ளுர்மக்களும் கரிசனையும் கவலையும் வெளியிட்டுள்ளனர்.
+
+இலங்கையின் வடபகுதியில் காற்றுவளம் அதிகமாக உள்ள இரண்டு பகுதிகளில் 42 மில்லியன் டொலரில் இரண்டு காற்றாலை மின்உற்பத்தி  திட்டததை முன்னெடுப்பதற்கு  கடந்த வருடம் இலங்கையின் முதலீட்டு சபை அனுமதி வழங்கியிருந்தது.
+
+இந்த இரு திட்டங்கள் மூலம் மன்னாரில் 250வோட் மின்சாரத்தையும் பூநகரியில் 34 மெகாவோட் மின்சாரத்தையும் உற்பத்தி செய்ய முடியும்.இலங்கையின் மின்சாரதுறை அமைச்சர் காஞ்சன விஜயசேகர தனது எக்ஸ் தளத்தில் மார்ச் 4ம் திதி இதனை தெரிவித்திருந்தார்.
+
+...
+
+[Data](articles/88e4adc0.json)
+
+---
+
+### Madushanka to miss rest of Bangladesh tour due to injury
+
+*2024-03-17 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98007/madushanka-to-miss-rest-of-bangladesh-tour-due-to-injury) · `en`
+
+Sri Lanka Cricket (SLC) announced that fast bowler Dilshan Madushanka will not take part further in the ongoing Bangladesh tour.
+
+Issuing a statement on Sunday (17), SLC said the player will return to Sri Lanka in order to start rehabilitation after suffering an injury during the 2nd ODI against Bangladesh.
+
+Madushanka, who left the field during the second ODI while bowling, has suffered a left hamstring injury, as confirmed by an MRI scan performed on the player, it said.
+
+Sri Lanka bounced back in the second ODI against Bangladesh to level the series 1-1 with the third and final match set to take place on Monday.
+
+◼️
+
+[Data](articles/998d217c.json)
+
+---
+
+### One killed, 37 injured in Peradeniya bus accident
+
+*2024-03-17 10:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-killed-37-injured-in-Peradeniya-bus-accident/108-279005) · `en`
+
+Kandy, March 17 (Daily Mirror) - At least one persons was killed and another 37 persons injured in an accident involving a bus travelling from Nelligala to Pundaluoya at  Yahalatenna in Peradeniya.
+
+Police said the bus was transporting a group of devotees returning from a visit to the Nelligala International Buddhist Center.
+
+The driver of the bus had reportedly lost control of the vehicle causing it to slide down a 15-metre slope and crash onto a tree.
+
+The injured persons including the driver of the bus were admitted to the Peradeniya Hospital where a 79-year-old passenger died.
+
+The deceased has been identified as a resident of Halpola, Pundaluoya while two of the injured passengers who are in critical condition have been transferred to the Kandy General Hospital.
+
+◼️
+
+[Data](articles/ae643302.json)
+
+---
+
+### වේගපන්දු බළඇණියේ ප්‍රබලයා අහිමිවෙයි
+
+*2024-03-17 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194591) · `si`
+
+ආබාධයකට ලක්වීම හේතුවෙන් ශ්‍රී ලංකා වේගපන්දු යවන ක්‍රීඩක ඩිල්ෂාන් මධුෂංක ට බංග්ලාදේශ කණ්ඩායම සමඟ පැවැත්වෙන ඉදිරි තරග අහිමි වී තිබේ.
+
+ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පැවසුවේ දෙවන එක්දින තරගය අතරතුර ඔහු පාදයේ ආබාධයකට ලක්වු බවය.
+
+ආබාධ තත්ත්වය සුව අතට පත්නොවීම හේතුවෙන් ඩිල්ෂාන් මධුෂංක තෙවන තරගයට සහභාගී නොවන බව ක්‍රිකට් ආයතනය පැවසීය.
+
+දෙරට අතර තීරණාත්මක අවසන් එක්දින තරගය හෙට (18) පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/f5bb7fe7.json)
+
+---
 
 ### Dilshan Madushanka to miss rest of Bangladesh tour due to injury
 
@@ -48,19 +144,27 @@ As a result, he will return to begin rehabilitation work to recover from the inj
 
 [Data](articles/ff0a7fcc.json)
 
+[Extended Data](ext_articles/ff0a7fcc.ext.json)
+
 ---
 
-### 6 வயது சிறுமி கிணற்றில் விழுந்து மரணம்
+### 6 -year -old girl falls into the well and death
 
 *2024-03-17 09:53:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/6-வயது-சிறுமி-கிணற்றில்-விழுந்து-மரணம்/94-334783) · `ta`
 
-மதுரங்குளிய விருத்தோடு பகுதியில் ஆறு வயது சிறுமி ஒருவர் வீட்டில் அரைவாசியாக கட்டப்பட்டிருந்த கிணற்றில் தவறி விழுந்து உயிரிழந்துள்ளதாக மதுரங்குளிய பொலிஸார் தெரிவித்தனர்.
+A 6-year-old girl in Maduranguliya fell into a well and died. Halam Fatima Sana, a resident of Virtha, was the youngest in her family with an 11-year-old sister.
 
-மதுரங்குளிய விருத்தோட்டை வசிப்பிடமாகக் கொண்ட ஹலாம் பாத்திமா சனா (06) விருத்தோடு முஸ்லிம் கல்லூரியில் இந்த வருடம் முதலாம் தரத்தில் அனுமதிக்கப்பட்ட சிறுமி. இவ்வாறு உயிரிழந்த சிறுமி குடும்பத்தில் இளையவர் எனவும் அவருக்கு 11 வயதில் ஒரு சகோதரியொருவர் இருப்பதாகவும் தெரிவிக்கப்படுகின்றது.
+🟩
+
+Maduranguliya police said that a six -year -old girl in the Mathuranguliya Virtuu area fell into a well in a well.
+
+Halam Fatima Sana (06), a resident of Maduranguliya, Virtha, was admitted to the Muslim College this year.. It is reported that the deceased girl is younger in the family and has a sister at the age of 11.
 
 ◼️
 
 [Data](articles/29ed68d3.json)
+
+[Extended Data](ext_articles/29ed68d3.ext.json)
 
 ---
 
@@ -119,6 +223,20 @@ Accordingly, the batting team won the batland in five consecutive cups.
 [Data](articles/556f960c.json)
 
 [Extended Data](ext_articles/556f960c.ext.json)
+
+---
+
+### නෙල්ලිගල වදින්න ආපු බස් රිය ප්‍රපාතයකට අයෙක් මරුට 37කට තුවාල
+
+*2024-03-17 09:24:15* · [`adalk`](https://www.ada.lk/breaking_news/නෙල්ලිගල-වදින්න-ආපු-බස්-රිය-ප්‍රපාතයකට-අයෙක්-මරුට-37කට-තුවාල/11-408643) · `si`
+
+නෙල්ලිගල ජාත්‍යන්තර ‌‌බෞද්ධ මධ්‍යස්ථානය වැඳපුදා ගැනීමට පැමිණ ආපසු පූඩළුඔය දක්වා ගමන් කරමින් තිබූ බස් රථයක් කොබ්බෑකඩුව යහලතැන්න ප්‍ර දේශයේදී මීටර් 15ක් පමණ වූ බෑවුමකට ගමන් කර ගසක ගැටීමෙන් සිදුවූ අනතුරකින් පුද්ගලයන් 38ක් තුවාල ලබා පේරාදෙණිය රෝහලට ‌ඇතුළත් කර තිබේ.
+
+මෙම අනතුර ඊයේ සවස සිදුව තිබූ අතර තුවාල ලැබූවන් අතරින් ඒක් පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබුණි. මෙසේ ජීවිතක්ෂයට පත්ව තිබුණේ අවුරුදු 79ක් වන වැඩිහිටියෙකි. පේරාදෙණිය පොලීසිය වැඩිදුර පරික්ෂණ පවත්වන අතර තුවාල ලැබූවන් අතර රියදුරුද වෙයි.
+
+◼️
+
+[Data](articles/faa6d731.json)
 
 ---
 
@@ -2165,139 +2283,5 @@ The Police Media Division said that the people of the North and East can obtain 
 [Data](articles/bee11ffa.json)
 
 [Extended Data](ext_articles/bee11ffa.ext.json)
-
----
-
-### HRCSL directs Royal College to rectify wrong prefects’ appointments
-
-*2024-03-16 13:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/HRCSL-directs-Royal-College-to-rectify-wrong-prefects-appointments/155-278996) · `en`
-
-Colombo, March 16 (Daily Mirror) - The Human Rights Commission of Sri Lanka (HRCSL) has directed Royal College, Colombo 7 to rectify the alleged wrong appointments made to the Prefects Council for 2024.
-
-The Human Rights Commission made this direction following seven complaints filed by students of Royal College who claimed their rights were violated by the appointments of prefects for the year 2024.
-
-They cited the Principal of Royal College and Director - National Schools and the Minister of Education and copies of the complaints had been sent to the Education Ministry Secretary, the Minister of the Education and the Presidential Investigation Commission.
-
-The HRCSL headed by Justice L.T.B. Dehideniya inquired into the initial complaints on Friday (March 15) and examined the appointment criteria of two randomly taken prefect appointments and two that were rejected.
-
-...
-
-[Data](articles/93ccbba4.json)
-
-[Extended Data](ext_articles/93ccbba4.ext.json)
-
----
-
-### Fast food giant McDonald’s suffers global tech outage
-
-*2024-03-16 12:58:00* · [`islandlk`](http://island.lk/fast-food-giant-mcdonalds-suffers-global-tech-outage/) · `en`
-
-Fast food giant McDonald’s has experienced systems failures in several countries that led to some of its restaurants being shuttered for hours, but ruled out cybersecurity issues as a potential cause of the problem.
-
-The United States-based chain said the “technology outage” on Friday affected operations in outlets around the world, including Australia, Japan and the United Kingdom.
-
-McDonald’s in Japan wrote on X that “operations are temporarily out at many of our stores nationwide” and called the incident a “system failure”.
-
-Patrik Hjelte, owner of several McDonald’s restaurants in central Sweden, told local newspaper Nya Wermlands Tidningen that all of the chain’s “restaurants are connected to a global network and that is what’s messed up”.
-
-It was not immediately clear how many stores were affected globally.
-
-...
-
-[Data](articles/330a0e22.json)
-
-[Extended Data](ext_articles/330a0e22.ext.json)
-
----
-
-### President updated on challenges faced by the gem and jewellery industry
-
-*2024-03-16 12:32:00* · [`islandlk`](http://island.lk/president-updated-on-challenges-faced-by-the-gem-and-jewellery-industry/) · `en`
-
-President Ranil Wickremesinghe during a discussion held on Friday (15) afternoon at the Presidential Secretariat’s with stakeholders from the gems and jewellery industry, said that concessions would be provided to those engaged in the gems and jewellery sector.
-
-Extensive discussions were held regarding the challenges arising from the government’s new tax policies, which have had repercussions on the gem and jewellery industry, along with other pertinent issues concerning the sector.
-
-The President said that immediate changes to the tax policy was not feasible and added that efforts will be made to devise an effective system to enhance the gem and jewellery industry. He directed officials to collaborate with both the public and private sectors and draft a proposal addressing these issues within two weeks.
-
-Related Topics:gem and jewellery industrygovernment’s new tax policiesPresident Ranil WickremesingheSri Lanka Gem and Jewelery Association
-
-...
-
-[Data](articles/5d2183c2.json)
-
-[Extended Data](ext_articles/5d2183c2.ext.json)
-
----
-
-### The fisherman who went to the marine industrySeverity
-
-*2024-03-16 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/178852) · `ta`
-
-A 60-year-old fisherman from Vadamarachchi East Marudankeni, Jaffna, is missing after going to sea on Saturday morning. Fishermen and the navy are searching for him.
-
-🟩
-
-A fisherman from Vadamarachchi East Marudankeni, Jaffna, has gone missing as he went to the sea on Saturday morning (16).
-
-60 -year -old Muthushami Tavarasa from Maruthankani North is missing. Fishermen and navy are engaged in search of the missing.
-
-◼️
-
-[Data](articles/7a4e6dc4.json)
-
-[Extended Data](ext_articles/7a4e6dc4.ext.json)
-
----
-
-### Bird fever in many zones in Antarctica
-
-*2024-03-16 12:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194566) · `si`
-
-Bird fever in Antarctica zones expands, affecting penguin colonies. A wide range of birds, including seabirds and penguins, have been recorded. Scientists warn of a fatal situation, with new bird species discovered on the mainland.
-
-🟩
-
-According to foreign media, birds in many zones in Antarctica have been expanding.
-
-As a result, the penguin colonies have been effective.
-
-Bird fever throughout the Antarctica was recorded in the past month.
-
-Since then, it has been a wide range of birds such as seawisemen as well as the penguin animals.
-
-Scientists have prophesied that there is a fatal situation.
-
-According to researchers, bird birds who pretend to be first bird birds have been disclosed in the Antarctica mainland.
-
-◼️
-
-[Data](articles/a02569e6.json)
-
-[Extended Data](ext_articles/a02569e6.ext.json)
-
----
-
-### Aaqib Javed appointed as fast bowling coach of national team
-
-*2024-03-16 12:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Aaqib-Javed-appointed-as-fast-bowling-coach-of-national-team/108-278992) · `en`
-
-Colombo, March 16 (Daily Mirror) - Sri Lanka Cricket appointed former Pakistan pace bowler Aaqib Javed as the national team’s ‘fast bowling coach.’
-
-He will work with the national team until the completion of the ICC Men’s T20 World Cup, which is scheduled to be held in the West Indies and USA during June 2024.
-
-Javed, apart from a successful international career where he played 163 ODIs and 22 test matches for Pakistan, captured a tally of 236 international wickets. A member of Pakistan’s
-
-1992 World Cup-winning team, Javed has worked for several national teams in different coaching capacities.
-
-Among those stints are working as the bowling coach of the Pakistan national team, serving as the coach of the UAE national team, and also working with the Afghanistan national team
-
-During his tenure as coach, the UAE National Team has obtained ODI and T20I status, made the ICC Men’s 50 Over World Cup in 2015, and also featured in the qualifiers for the ICC
-
-...
-
-[Data](articles/0a95e5f1.json)
-
-[Extended Data](ext_articles/0a95e5f1.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 02:02:57**
+As of **2024-03-18 02:17:53**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,465 (100.0%) of 13,466 articles have been extended.
+13,466 (100.0%) of 13,466 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### புகையிரதத்துடன் மோதி ஒருவர் உயிரிழப்பு!
+### One person dies
 
 *2024-03-18 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178969) · `ta`
 
-வவுனியா தேக்கவத்தை பகுதியில் புகையிரதத்துடன் மோதி் முதியவர் ஒருவர் உயிரிழந்துள்ளார். குறித்த விபத்து ஞாயிற்றுக்கிழமை (17) மாலை இடம்பெற்றது.
+An elderly man died in a train accident from Jaffna to Anuradhapura on Sunday evening.
 
-யாழிலிருந்து அனுராதபுரம் நோக்கிசென்ற புகையிரதம்  தேக்கவத்தை பகுதியில் சென்றுகொண்டிருந்த போது முதியவர் ஒருவர் மோதியதில் குறித்த விபத்து இடம்பெற்றது.
+🟩
+
+An elderly man dies with train. The accident took place on Sunday (17) evening.
+
+The accident occurred when an elderly man was hit by a train from Jaffna to Anuradhapura.
 
 ◼️
 
 [Data](articles/bb0d1aa2.json)
+
+[Extended Data](ext_articles/bb0d1aa2.ext.json)
 
 ---
 

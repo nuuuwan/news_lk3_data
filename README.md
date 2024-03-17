@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 16:33:09**
+As of **2024-03-17 16:48:47**
 
 ## Newspaper Stats
 
-*Scraped **13,405** Articles*
+*Scraped **13,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 712
 islandlk | 735
 adalk | 1,148
 adaderanalk | 1,618
-tamilmirrorlk | 1,641
+tamilmirrorlk | 1,642
 virakesarilk | 1,859
 dailymirrorlk | 2,048
 adaderanasinhalalk | 2,122
@@ -26,31 +26,37 @@ adaderanasinhalalk | 2,122
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,404 (100.0%) of 13,405 articles have been extended.
+13,405 (100.0%) of 13,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### කොණ්ඩ සුදූ අයිස් තොගයක් සමග කොටුවෙයි
+### Box with a stock of hairs
 
 *2024-03-17 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194602) · `si`
 
-කොණ්ඩ සුදූ නමැති මත්ද්‍රව්‍ය ජාවාරම්කරු අයිස් මත්ද්‍රව්‍ය තොගයක් සමග පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Police arrested drug dealer Busky with 805 milligrams of ice, a racketeer, and two swords. The Western Province Corruption Unit conducted the raid. Busky, a 37-year-old from Borella, is in court, and further investigations are ongoing.
 
-එහිදී ඔහු සන්තකයේ තිබී අයිස් ග්‍රෑම් 12 මිලිග්‍රෑම් 805 ක ප්‍රමාණයක් සොයාගෙන ඇත.
+🟩
 
-මෙහිදී සැකකාර කොණ්ඩ සුදූ නමැති මත්ද්‍රව්‍ය ජාවාරම්කරු සන්තකයේ තිබී විද්‍යුත් තරාදියක් සහ කඩු දෙකක් ද පොලිස් භාරයට ගෙන තිබේ.
+Police have arrested a drug dealer named Busky.
 
-යුක්තිය මෙහෙයුමට සමගාමීව බස්නාහිර පළාත් දූෂණ මර්දන අංශය ලද තොරතුරකට අනුව සිදුකළ වැටලීමකදී සැකකරුව අත්අඩංගුවට ගෙන තිබේ.
+There were 805 milligrams of ice in his possession.
 
-වැඩිදුරටත් තොරතුරු අනාවරණය වී ඇත්තේ සැකකාර කොණ්ඩ සුදූ නමැති මත්ද්‍රව්‍ය ජාවාරම්කරු කුලී වැඩවල නිරතවෙමින් මෙලෙස මත්ද්‍රවය ජාවාරම සිදුකර ඇති බවටය.
+Police have also seized a racketeer and two swords in the possession of the drug dealer called the suspect.
 
-37 හැවිරිදි වියේ පසුවන බොරැල්ල ටී 20 ප්‍රදේශයේ පදිංචි සැකකරු අධිකරණයට ඉදිරිපත් කිරීමට නියමිත අතර බස්නාහිර පළාත් දූෂණ මර්දන අංශය වැඩිදුර විමර්ශන සිදුකරයි.
+The suspect was arrested following a raid conducted by the Western Province Corruption Unit in line with justice.
+
+Speaking further, the drug dealer called the suspect is a drug dealer in the racket.
+
+The suspect is due to be produced in court, a 37-year-old area of Borella. The Western Province Corruption Division is conducting further investigations.
 
 ◼️
 
 [Data](articles/16b5a5a6.json)
+
+[Extended Data](ext_articles/16b5a5a6.ext.json)
 
 ---
 
@@ -159,6 +165,22 @@ Wijeratne has therefore requested the Central Bank Governor to take appropriate 
 [Data](articles/c08f7803.json)
 
 [Extended Data](ext_articles/c08f7803.ext.json)
+
+---
+
+### ”ஆங்கில மொழிக் கல்வியை SJB அரசாங்கம் கட்டாயமாக்கும்”
+
+*2024-03-17 15:21:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆங்கில-மொழிக்-கல்வியை-SJB-அரசாங்கம்-கட்டாயமாக்கும்/175-334800) · `ta`
+
+எதிர்கால ஐக்கிய மக்கள் சக்தி (SJB) அரசாங்கம் ஆங்கில மொழிக் கல்வியை கட்டாயமாக்கும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+தரம் ஒன்று முதல் பதின்மூன்று வரையிலான மாணவர்களுக்கு ஆங்கில வழிக் கல்வியை கட்டாயமாக்குவோம் என குருநாகலில் நடைபெற்ற இளைஞர் பேரணியில் கலந்து கொண்டு உரையாற்றும் போதே அவர் தெரிவித்தார்.
+
+மேலும், "இளைஞர்களுக்கு சீனம், இந்தி, ஜப்பானியம், தகவல் தொழில்நுட்பம் மற்றும் கணினி அறிவியல் ஆகியவற்றை இலவசமாகக் கற்பிப்போம்" என்றும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/3cd3ccba.json)
 
 ---
 
@@ -2349,29 +2371,5 @@ Later, a person who appeared as a girl told her to have no fear and see the doct
 [Data](articles/765cdc49.json)
 
 [Extended Data](ext_articles/765cdc49.ext.json)
-
----
-
-### Tamil parties Action Resolution
-
-*2024-03-16 19:12:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வெடுக்குநாறி-விவகாரம்-தமிழ்-கட்சிகள்-அதிரடி-தீர்மானம்/71-334763) · `ta`
-
-Tamil leaders, including LTTE's Siddharthan and Wigneswaran, met President to discuss the release of those arrested at Vettu Nirimalai. The case is due for hearing on Tuesday, with Wickremesinghe expected to attend.
-
-🟩
-
-Leaders of Tamil parties have decided to meet the President on the release of those arrested at the Adi Shiva Temple at Vettu Nirimalai.
-
-Parliamentarian CV Wigneswaran said that a decision has been taken at a discussion held at the residence of Parliamentarian CV Wigneswaran in Jaffna on Saturday (16).
-
-The case of eight persons arrested is due to be taken up for hearing on Tuesday, 19th, and the first day of the day is to be met with Janathatri Ranil Wickremesinghe.
-
-At the meeting, Dharmalingam Siddharthan, President of the Liberation Tigers of Tamil Eelam (LTTE), Tamil People's Alliance leader CV Wigneswaran, Liberation Tigers of Tamil Eelam (LTTE) leader Selvam Adakkalanathan, Eelam People's Revolutionary Liberation Front leader Suresh PremachandranIt is noteworthy that Venthan and others were present.
-
-◼️
-
-[Data](articles/9d4fa459.json)
-
-[Extended Data](ext_articles/9d4fa459.ext.json)
 
 ---

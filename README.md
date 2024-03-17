@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 08:33:19**
+As of **2024-03-17 08:50:38**
 
 ## Newspaper Stats
 
-*Scraped **13,340** Articles*
+*Scraped **13,342** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 710
 islandlk | 735
-adalk | 1,137
-adaderanalk | 1,610
+adalk | 1,138
+adaderanalk | 1,611
 tamilmirrorlk | 1,624
 virakesarilk | 1,853
 dailymirrorlk | 2,041
@@ -26,31 +26,79 @@ adaderanasinhalalk | 2,108
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,338 (100.0%) of 13,340 articles have been extended.
+13,340 (100.0%) of 13,342 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### වීසා නැතුව මැලේසියාවේ සිටි ශ්‍රී ලාංකිකයන් ඇතුළු 158ක් අත්අඩංගුවට
+### One dead, 37 injured in bus accident at Peradeniya
+
+*2024-03-17 08:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98004/one-dead-37-injured-in-bus-accident-at-peradeniya) · `en`
+
+One person was killed while another 37 persons were wounded following an accident involving a bus transporting a group of devotees returning from a visit to the Nelligala International Buddhist Center.
+
+The incident had occurred last evening (16) in the Yahalatenna in Peradeniya as the bus was traveling from Nelligala to Pundaluoya.
+
+The driver of the bus had reportedly lost control of the vehicle causing it to slide down a 15-meter slope and crash into a tree.
+
+Thirty-eight persons including the driver were rushed to the Peradeniya Hospital, however one of them had been pronounced dead on admission.
+
+The deceased has been identified as a 79-year-old resident of Halpola, Pundaluoya while two of the injured passengers who are in critical condition have been transferred to the Kandy General Hospital.
+
+◼️
+
+[Data](articles/c2275872.json)
+
+---
+
+### 158 persons including Sri Lankans in Malaysia arrested without visa
 
 *2024-03-17 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194588) · `si`
 
-වලංගු වීසා බලපත්‍ර නොමැතිව මැලේසියාවේ රැඳී සිටි ශ්‍රී ලාංකිකයින් ඇතුළු පුද්ගලයින් 158 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+158 Sri Lankans in Malaysia, without visas, arrested in a special investigation. 358 foreigners inspected, 158 without valid visas. Includes men, women, and children from various countries. Most had tourist visas, rented apartments, and worked. Some were illegally employed for over a year.
 
-මැලේසියානු ආගමන විගමන දෙපාර්තමේන්තුව විසින් එරට මහල් නිවාස සංකීර්ණයක සිදුකළ විශේෂ පරීක්ෂාවකදී එම පිරිස අත්අඩංගුවට ගෙන ඇති බව වාර්තා වෙයි.
+🟩
 
-එහිදී විදෙස් රටවල සිට පැමිණි පුද්ගලයින් 358 දෙනෙකු පරීක්ෂාවට ලක්කර ඇති අතර ඉන් පුද්ගලයින් 158 දෙනෙකුටම මැලේසියාවේ රැඳී සිටීම ස﻿ඳහා වලංගු වීසා බලපත්‍ර තිබී නොමැති බව සඳහන්ය.
+158 persons including Sri Lankans who were staying in Malaysia without valid visa have been arrested.
 
-අත්අඩංගුවට ගත් පිරිස අතර පිරිමි පුද්ගලයින් 83 දෙනෙකු, කාන්තාවන් 54 දෙනෙකු, පිරිමි ළමුන් 08 දෙනෙකු සහ ගැහුණු ළමුන් තිදෙනෙකු සිටි බව මැලේසියානු ආගමන විගමන දෙපාර්තමේන්තුව සඳහන් කළේ‍ය.
+The group has been arrested during a special investigation by the Department of Malaysian Immigration and Emigration and the Department of Malaysian Apartment Complex.
 
-අත්අඩංගුවට ගත් පිරිස අතර ශ්‍රී ලාංකිකයින්ට අමතරව ඉන්දුනීසියාව, නේපාලය, මියන්මාරය, බංග්ලාදේශය, චීනය, පාකිස්තානය සහ වියට්නාමය යන රටවල පුද්ගලයින් සිටින බව සඳහන්ය.
+There are 358 persons from foreign countries have been inspected and 158 persons have not had a valid visas for their stay in Malaysia.
 
-ඔවුන්ගෙන් වැඩි දෙනෙකු සංචාරක වීසා මත එරටට පැමිණ මහල් නිවාස කුලියට ගෙන විවිධ රැකියාවල නිරත වෙමින් සිට ඇති බව වාර්තා වෙයි.
+Among the arrested were 83 men, 8 females and three girls were three boys and three children.
+
+Between the arrested persons, Sri Lankans have people in Indonesia, Nepal, Myanmar, Bangladesh, China, Pakistan and Vietnam.
+
+Most of them have reached the tourist visa and have been rented apartments and employed various jobs.
+
+Investigations have revealed that the Department of Immigration and Emigration has revealed that some men have been illegally employed in Malaysia for more than a year.
 
 ...
 
 [Data](articles/aeae9a7d.json)
+
+[Extended Data](ext_articles/aeae9a7d.ext.json)
+
+---
+
+### උතුරුමැද පළාත් මහ ඇළ ව්‍යාපෘතිය 2026දී නිම කිරීමට ඉලක්කයක්
+
+*2024-03-17 07:53:06* · [`adalk`](https://www.ada.lk/breaking_news/උතුරුමැද-පළාත්-මහ-ඇළ-ව්‍යාපෘතිය-2026දී-නිම-කිරීමට-ඉලක්කයක්/11-408641) · `si`
+
+පවුල්  අට ලක්ෂ හැත්තෑ පන්දහසක ට සෘජු සහ වක්‍ර ප්‍රතිලාභ හිමිවන උතුරුමැද පළාත්  මහ ඇළ ව්‍යාපෘතිය 2026 වසරේ අවසන් කිරීමේ ඉලක්කය වෙත යාම සඳහා  එහි ඉදිකිරීම් කඩිනම් කිරීම ට පියවර ගෙන තිබේ.
+
+ඒ අනුව ව්‍යාපෘතියේ  ඉදිකිරීම් කටයුතු සොයා බැලීම   සඳහා  වාරිමාර්ග, වනජීවි සහ වන සංරක්ෂණ අමාත්‍ය නීතිඥ පවිත්‍රා වන්නිආරච්චි මහත්මිය  පසුගියදා  (15)   අනුරාධපුර  පළුගස්වැව ප්‍රාදේශීය ලේකම්  කොට්ඨාසයට අයත්, මහමීගස් වැව  ප්‍රදේශයේ   සංචාරයක  නිරත වුවාය.
+
+ව්‍යාපෘතිය  ක්‍රියාත්මක වන මහ මීගස්වැව වැඩ  බිම වෙත  පැමිණි පවිත්‍රා වන්නිආරච්චි මහත්මිය, එහි ඉංජිනේරුවන් සමඟ  ඉදිකිරීම් වල ප්‍රගතිය  සොයා බැලුවාය.
+
+උතුරුමැද පළාත් මහ  ඇළ ව්‍යාපෘතිය හරහා අනාගතයේ දී   ජනතාව ගේ ජීවනෝපාය සංවර්ධනය ට ඇතිකරන  යහපත් සාධනීය   බලපෑම  අතිශය  වැදගත් බව එහිදී   පෙන්වා දුන් අමාත්‍යවරිය,  ඒ අනුව  ව්‍යාපෘතිය කඩිනමින්  සාර්ථකව අවසන් කිරීම සියළු දෙනා ගේ  වගකීමක් බව ද කියා සිටියාය.
+
+මොරගහකන්ද  ජලාශය ඉදිකිරීමත් සමඟ එහි ජලය මහකනදරාව ජලාශය දක්වා රැගෙන යාම සඳහා වූ උතුරු මැද පළාත් ඇළෙහි ඉදිකිරීම් කටයුතු 2021 වර්ෂයේ දී ආරම්භ කරන ලදී.
+
+...
+
+[Data](articles/57b5b806.json)
 
 ---
 
@@ -226,23 +274,29 @@ The average person does not give sufficient, or worse still, any thought to the 
 
 ---
 
-### ’இரத்தினக்கல் தொழிற்துறை பிரச்சினைக்கு தீர்வு’
+### The solution to the Gemstone Industrial Problem
 
 *2024-03-17 02:19:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினக்கல்-தொழிற்துறை-பிரச்சினைக்கு-தீர்வு/175-334780) · `ta`
 
-இரத்தினக்கல் மற்றும் ஆபரண தொழில் தொடர்பில் எழுந்துள்ள பிரச்சினைகளுக்குத் தீர்வுகளை வழங்குவதன் மூலம் அத்துறையில் ஈடுபட்டுள்ளவர்களுக்கு நிவாரணம் வழங்கப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe announced relief for the gemstone and jewelry sector, promising a new tax policy and a system to strengthen the industry. He directed authorities to prepare proposals within two weeks, involving both state and private sectors.
 
-வரிக் கொள்கையில் தற்போதைக்கு மாற்றத்தை ஏற்படுத்த முடியாது எனவும், ஆனால் இரத்தினக்கல் மற்றும் ஆபரணத் தொழிலை வலுப்படுத்துவதற்கு பொருத்தமான முறைமையொன்று தயாரிக்கப்படும் எனவும்  ஜனாதிபதி தெரிவித்துள்ளார்.
+🟩
 
-அரச மற்றும் தனியார் துறையினரின் பங்களிப்புடன் இந்தப் பிரச்சினைகளுக்குத் தீர்வு காண்பதற்கான முன்மொழிவுகளைத் தயாரித்து இரண்டு வாரங்களுக்குள் வழங்குமாறு அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+President Ranil Wickremesinghe says relief will be provided to those involved in the sector by providing solutions to the problems that have arisen on gem and jewelery.
 
-இரத்தினக்கல் மற்றும் ஆபரணத் தொழிலில் ஈடுபட்டுள்ளவர்களுடன் நேற்று முன்தினம் பிற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற கலந்துரையாடலின் போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க இவ்வாறு குறிப்பிட்டுள்ளார்.
+The President said that tax policy cannot change the present, but a suitable system will be prepared to strengthen the gem and jewelery industry.
 
-அரசாங்கத்தின் புதிய வரிக் கொள்கைகள், இரத்தினக்கல் மற்றும் ஆபரணத் தொழிலைப் பாதித்துள்ள பிரச்சினைகள் மற்றும் தொழில் தொடர்பான ஏனைய விடயங்கள் தொடர்பில் இதன்போது விரிவாக ஆராயப்பட்டது. (a)
+He has directed the authorities to prepare proposals to address these issues with the participation of the state and private sector within two weeks.
+
+President Ranil Wickremesinghe made this statement during a discussion held at the Presidential Office yesterday afternoon with those involved in the Gemstone and Jewelery industry.
+
+The government's new tax policies, the issues affected by the gem and the jewelery industry, and other issues related to the industry have been examined in detail.. (A)
 
 ◼️
 
 [Data](articles/cbe9e9f5.json)
+
+[Extended Data](ext_articles/cbe9e9f5.ext.json)
 
 ---
 
@@ -2245,55 +2299,5 @@ According to reports, the tickets are allocated to the passengers who have been 
 [Data](articles/e8566441.json)
 
 [Extended Data](ext_articles/e8566441.ext.json)
-
----
-
-### Presidential candidate from the bud party
-
-*2024-03-16 11:15:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-கட்சியில்-இருந்து-ஜனாதிபதி-வேட்பாளர்/175-334745) · `ta`
-
-Mahinda Rajapaksa plans to run a candidate for the Sri Lanka PA, predicting a win in future elections, but the candidate's name is yet to be announced.
-
-🟩
-
-Former President Mahinda Rajapakse has said that he is planning to field a candidate of the Sri Lanka PA.
-
-Responding to questions raised by journalists yesterday (15), Mahinda Rajapaksa said this.
-
-He said that the Sri Lanka PA would definitely win the future elections.
-
-However, former President Mahinda Rajapakse added that the candidate has not yet been named. Remble
-
-◼️
-
-[Data](articles/2054c6cf.json)
-
-[Extended Data](ext_articles/2054c6cf.ext.json)
-
----
-
-### New party headed by Dayasiri
-
-*2024-03-16 11:11:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தயாசிறி-தலைமையில்-புதிய-கட்சி/175-334744) · `ta`
-
-A new political organization, Manushya Janata Sandanaya, led by MP Dayasiri Jayasekara, is launching in Colombo on the 20th. It's backed by 18 political parties and 30 civil organizations. The alliance aims to support a presidential candidate, possibly Dayasiri, if other parties don't support their policies.
-
-🟩
-
-A new political organization headed by MP Dayasiri Jayasekara is to be launched in Colombo on the 20th.
-
-The new organization, which is created with the participation of 18 political parties and thirty civil organizations and trade unions, is named as the Manushya Janata Sandanaya (Humanitarian People's Alliance).
-
-Many human rights civil activists and religious organizations say that its leaders say they support the Humanitarian People's Alliance.
-
-They say that a new coalition is being formed to face the upcoming presidential election and is expecting to support the political party in the presidential election.
-
-If any political party does not come forward to support those policies, they will nominate Dayasiri Jayasekara as the presidential candidate and contest the presidential election.
-
-◼️
-
-[Data](articles/b8590bcb.json)
-
-[Extended Data](ext_articles/b8590bcb.ext.json)
 
 ---

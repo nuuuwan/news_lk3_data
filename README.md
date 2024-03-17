@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 15:03:10**
+As of **2024-03-17 15:18:04**
 
 ## Newspaper Stats
 
-*Scraped **13,392** Articles*
+*Scraped **13,396** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,44 +15,100 @@ newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 712
 islandlk | 735
-adalk | 1,144
+adalk | 1,146
 adaderanalk | 1,616
 tamilmirrorlk | 1,638
 virakesarilk | 1,859
-dailymirrorlk | 2,047
-adaderanasinhalalk | 2,119
+dailymirrorlk | 2,048
+adaderanasinhalalk | 2,120
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,391 (100.0%) of 13,392 articles have been extended.
+13,392 (100.0%) of 13,396 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### අනුරපුරේ පාසල් දරුවන් ගැන බරපතළ අනාවරණයක්
+### පොල්වත්ත ගඟේ ගිලී දරුවන් දෙදෙනෙකු මරුට
 
-*2024-03-17 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194599) · `si`
+*2024-03-17 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194600) · `si`
 
-අනුරාධපුර දිස්ත්‍රික්කයේ පාසල් යන දරුවන්ගෙන් 28%ක් මන්දපෝෂණයෙන් පෙළෙන බවට තොරතුරු වාර්තා වී ඇති බව ලංකා ගුරු සංගමය පවසයි.
+ගාල්ල යක්කලමුල්ල ප්‍රදේශයේදී පොල්වත්ත ගඟේ දියේ ගිලීමෙන් දරුවන් දෙදෙනෙකු මියගොස් තිබේ.
 
-එහි සභාපති ප්‍රියන්ත ප්‍රනාන්දු මහතා පවසන්නේ මේ හේතුවෙන් එම ප්‍රදේශයේ දරුවන්ගේ පාසල් පැමිණීමද සැළකිය යුතු අන්දමින් අඩු වී ඇති බවය.
+මෙලෙස මියගොස් ඇත්තේ වයස අවුරුදු 11 සහ 14 යන වයස්වල පසුවූ පිරිමි දරුවන් දෙදෙනෙකි.
 
-මෙරට පාසල් යන දරුවන්ගෙන් 16%ක් මන්ද පෝෂණ තත්ත්වයෙන් පෙළෙන බව බ්‍රිතාන්‍යයේ වෛද්‍ය සඟරාවකින් හෙළිකර ඇති බව ලංකා ගුරු සංගමය පවසයි.
+එම දරුවන් දෙදෙනා ඥාතීන් වන අතර ඔවුන් සිය මව්පියන් සමග ගඟේ දියනෑමට පැමිණි අවස්ථාවේ මෙම අනතුරට ලක්ව ඇත.
 
-එම සංගමය පෙන්වා දෙන්නේ ඉන් අනුරාධපුර මහවිලච්චිය ප්‍රදේශයේ දරුවන් බහුතරයක් මන්දපෝෂණ තත්ත්වයෙන් පෙළෙන බවය.
+දියේ ගිලීමෙන් අනතුරුව ගොඩට ගත් දරුවන් ඉමදූව රෝහල වෙත ඇතුළත් කිරීමේදී ඔවුන් මියගොස් ඇති බව පොලීසිය පවසයි.
 
-ඊට ප්‍රධානම හේතුව වී ඇත්තේ මේ වනවිට ආර්ථික ගැටලු හමුවේ පවුල්වල ආදායම් මාර්ගත් බිඳ වැටීමය.
+◼️
 
-මේ ප්‍රදේශවල ප්‍රධානතම ජීවනෝපාය වන්නේ ගොවිතැන් කටයුතු වන නමුත් එයද අසාර්ථක වීම නිසා ඔවුන් දැඩි අපහසුතාවයකට පත්ව සිටියි.
+[Data](articles/346664be.json)
 
-මේ සම්බන්ධයෙනක් අද දෙරණ කළ සොයා බැලිමකදී ප්‍රදේශයේ මව්පියන් පවසන්නේ මන්දපෝෂණය වැළඳුණු දරුවන් වෛද්‍ය උපදෙස් මත සායන සඳහා යොමුකර ඇති අතර එම සායනවල වෛද්‍ය නිර්දේශය අනුව එම දරුවන්ට නිසි පෝෂණ ආහාර වේලක් ලබාදීමට උපදෙස් ලබා දී ඇති බවය.
+---
+
+### Small elite group trying to stop the ’change’: Harini Amarasuriya
+
+*2024-03-17 15:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Small-elite-group-trying-to-stop-the-change-Harini-Amarasuriya/108-279011) · `en`
+
+Colombo, March 17 (Daily Mirror)- Claiming that the change of power is not going to be easy, NPP MP Harini Amarasuriya said a small elite group is doing everything in their power to stop the change from happening.
+
+Speaking at the London women's convention, she said the small elite group has been in control of what has happened in Sri Lanka for the last 76 years.
+
+She said this small group will not give up easily, adding that people of Sri Lanka have now realized that they are stronger than all of them.
 
 ...
 
+[Data](articles/f27c8aa2.json)
+
+---
+
+### විල්පත්තුවේ තම පිරිස සමගම දඩයමේ ගිය අයෙකුට වෙඩි තබයි
+
+*2024-03-17 14:49:18* · [`adalk`](https://www.ada.lk/breaking_news/විල්පත්තුවේ-තම-පිරිස-සමගම-දඩයමේ-ගිය-අයෙකුට-වෙඩි-තබයි/11-408653) · `si`
+
+විල්පත්තුව ජාතික වන උද්‍යානයෙ මුරුන්දන්වේලි මන්ජකොඩි ඇල පිහිටි සිමාව තුළ නීති විරෝධීව වන සතුන් දඩයමේ ගිය දඩයක්කරුවකු වැරදිමකින් කළ වෙඩි තැබිමකින්  වනාතවිල්ලුව එළුවන්කුලම ප්‍රදේශයේ පදිංචිව සිටි 24 හැවිරිදි තරුණයකු මරණයට පත්වි ඇති බව වනාතවිල්ලුව පොලිසිය පැවසිය.
+
+පුත්තලම,වනාතවිල්ලුව, හයෙ කණුව, හා එළුවන්කුලම ප්‍රදේශයෙ පදිංචි  සිව් දෙනෙකු මෙසේ නීති විරෝධී ලෙස වන සතුන් දඩයම් කිරීම සදහා විල්පත්තුව ජාතික වන උද්‍යානයට ගොස් සිටියදී තම පිරිස සමගම සිටි තරුණයකුට එම කණ්ඩායමේ අයකු රාත්‍රියෙ  වැරදිමකින් මෙම වෙඩි තැබිම සිදුකර ඇති බව කියති.
+
+◼️
+
+[Data](articles/2759b61d.json)
+
+---
+
+### Serious discovery of school children in Anuradhapura
+
+*2024-03-17 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194599) · `si`
+
+In Anuradhapura, 28% of school children suffer from malnutrition, impacting attendance. Economic challenges, especially in farming, exacerbate the issue. Parents are advised to follow medical dietary recommendations.
+
+🟩
+
+The Ceylon Teachers Union states that 28% of school children in the Anuradhapura district are suffering from malnutrition.
+
+The Chairman of the President Priyantha Fernando says that the attendance of children of the children of the area have been significantly reduced.
+
+The Ceylon Teachers Union states that 16% of Sri Lankan school children have been revealed in nutritional status.
+
+The Association points out that the majority of children in the Mahawilachchiya area are suffering from malnutrition.
+
+The main reason is that the income of families are now in the face of economic problems.
+
+The main livelihood of these areas is farming, but they are very embarrassed by failing.
+
+Investigation of this connection today, parents in the area say the parents of the area have directed the children to provide a proper nutritional diet based on medical recommendation.
+
+Teachers' unions point out that the active quality of children in these areas is also reduced due to nutrition.
+
+◼️
+
 [Data](articles/328f5cb8.json)
+
+[Extended Data](ext_articles/328f5cb8.ext.json)
 
 ---
 
@@ -219,6 +275,24 @@ On Friday, Israel said it would send a delegation to Qatar for more talks with m
 [Data](articles/3811ad74.json)
 
 [Extended Data](ext_articles/3811ad74.ext.json)
+
+---
+
+### අම්බලන්ගොඩ පොලීසියේ කොස්තාපල් දෙදෙනෙකුගේ වැඩ තහනම්
+
+*2024-03-17 13:28:59* · [`adalk`](https://www.ada.lk/breaking_news/අම්බලන්ගොඩ-පොලීසියේ-කොස්තාපල්-දෙදෙනෙකුගේ-වැඩ-තහනම්/11-408648) · `si`
+
+වහාම ක්‍රියාත්මක වන පරිදි අම්බලන්ගොඩ පොලිසියේ පොලිස් කොස්තාපල්වරුන් දෙදෙනකුගේ වැඩ තහනම් කර ඇත.
+
+ඇල්පිටිය කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි අයි යූ කේ ලොකුහෙට්ටි මහතාගේ අත්සනින් යුත් 2024.03.16 දිනැති ලිපියක් මගින් මෙම වැඩ තහනම් කිරීම සිදුකර තිබේ. අපකීර්තිදායක හැසිරීම, අණට අකිකරුවිම, රාජකාරි පැහැර හැරිම යන චෝදනා යටතේ මෙම වැඩ තහනම් කිරීම සිදුකරන ලද බවද එම ලිපියේ වැඩි දුරටත් සදහන් වේ.
+
+මෙසේ වැඩ තහනම්කර ඇත්තේ පසුගිය 13 වන දින අම්බලන්ගොඩ පොලීසියේ වි පී එන් තොරතුරු ජාලය ක්‍රියාත්මක කිරීම භාරව කටයුතු කරන ලද කොස්තාපල්වරයාගේ සහ දුරකතන ක්‍රියාකරු ලෙස සේවය කරන ලද කොස්තාපල්වරයාගේය.
+
+සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු මෙන්ම මත්දව්‍ය ජාවාරම්කරුවෙකු වන අම්බලන්ගොඩ, ඉඩන්තොට පදිංචි අගම්පොඩි සජිත් සමන් ප්‍රියන්ත (26) නොහොත් ‘සමන් කොල්ලා’ නමැති අයගේ නිවසට එල්ල කරන ලද වෙඩි ප්‍රහාරය සම්බන්ධයෙන් අම්බලන්ගොඩ මූලස්ථාන පොලිස් පරීක්ෂක ප්‍රසන්න ඇල්ගිරියගේ මහතා දැනුවත් නොකිරීම හේතුවෙන් මෙම වැඩ තහනම් කිරීම සිදුකරන ලද බව එම ලිපියේ වැඩි දුරටත් සදහන් වේ.
+
+...
+
+[Data](articles/f65cc55b.json)
 
 ---
 
@@ -2255,95 +2329,5 @@ He highlighted that the new mobile application will serve as a tool to facilitat
 [Data](articles/3aa9aca8.json)
 
 [Extended Data](ext_articles/3aa9aca8.ext.json)
-
----
-
-### Dermatologists raise concerns about skin diseases as extreme heat prevails
-
-*2024-03-16 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97996/dermatologists-raise-concerns-about-skin-diseases-as-extreme-heat-prevails) · `en`
-
-Dermatologists have raised concerns about risks of skin diseases stemming from the sweltering heat and urged the members of the public to take preventive measures.
-
-Commenting on the matter, skin care and cosmetic consultant dermatologist, Dr. Indira Kahawita advised people to avoid direct exposure to sunlight, to prevent sunburns, heat rash, sunspots, irritation, pus blisters and other conditions.
-
-She also encouraged seeking medical advice and refraining from taking over-the-counter medicines for fungal infections on the skin exacerbated by warm weather conditions.
-
-Further, Dr. Kahawita appealed to parents and teachers to refrain from exposing children to direct sunlight and letting them engage in strenuous outdoor activities during high atmospheric temperatures.
-
-...
-
-[Data](articles/4620955c.json)
-
-[Extended Data](ext_articles/4620955c.ext.json)
-
----
-
-### Dermatologists raise concerns about skin diseases as sweltering heat prevails
-
-*2024-03-16 17:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/97996/dermatologists-raise-concerns-about-skin-diseases-as-sweltering-heat-prevails) · `en`
-
-Dermatologists have raised concerns about risks of skin diseases stemming from the sweltering heat and urged the members of the public to take preventive measures.
-
-Commenting on the matter, skin care and cosmetic consultant dermatologist, Dr. Indira Kahawita advised people to avoid direct exposure to sunlight, to prevent sunburns, heat rash, sunspots, irritation, pus blisters and other conditions.
-
-She also encouraged seeking medical advice and refraining from taking over-the-counter medicines for fungal infections on the skin exacerbated by warm weather conditions.
-
-Further, Dr. Kahawita appealed to parents and teachers to refrain from exposing children to direct sunlight and letting them engage in strenuous outdoor activities during high atmospheric temperatures.
-
-...
-
-[Data](articles/4f63ec29.json)
-
-[Extended Data](ext_articles/4f63ec29.ext.json)
-
----
-
-### Douglas issued a written request to President Ranil
-
-*2024-03-16 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178888) · `ta`
-
-Minister Douglas Devananda has requested President Ranil Wickremesinghe to form an inquiry committee on the Vidunarimalai incident, criticizing police actions during Sivaratri at the Adivasivan Temple and the eviction of worshipers from Vedukkuni Mountain. He highlighted the need for reconciliation and urged the President to act swiftly.
-
-🟩
-
-Minister Douglas Devananda has handed over the written document to President Ranil Wickremesinghe as the Cabinet meeting has already been asked to set up an inquiry committee on the Vidunarimalai incident.
-
-Commenting on the matter, he said that the police attack on those who went to worship on the day of Sivaratri at the Adivasivan Temple at the Adivasivan Temple.
-
-The police cannot put up obstacles that the permission to worship on the Vedukkuni Mountain cannot be worshiped at night.
-
-Shivaratri is to carry out the worship of Lord Shiva at night. It is therefore contradictory to change those traditions.
-
-It is not acceptable that the police carried out attacks on those who went to the worshipers of the worshipers, and the system that evicted them and the pooja was not accepted.. This is the process that affects the Reconciliation. I had already revealed this issue at a Cabinet meeting held last week.
-
-...
-
-[Data](articles/980865a1.json)
-
-[Extended Data](ext_articles/980865a1.ext.json)
-
----
-
-### Two police officers suspended
-
-*2024-03-16 16:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194576) · `si`
-
-Two police officers at Ambalangoda station suspended for alleged abduction of duty, following the recent killing of 'Saman Boy', a known criminal and drug dealer.
-
-🟩
-
-Two police constable attached to the Ambalangoda police station suspended.
-
-Police Media Spokesperson DIG's spokesman Nihal Thaluda said that the two had been suspended under the accusation of abduction of duty.
-
-The program has been shot dead recently to the resident of 'Saman Boy', an organized criminal and the drug dealer.
-
-The suspension was banned at the Ambalangoda police operator and computer operator at the time.
-
-◼️
-
-[Data](articles/7cc27902.json)
-
-[Extended Data](ext_articles/7cc27902.ext.json)
 
 ---

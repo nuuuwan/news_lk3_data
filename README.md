@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 17:34:27**
+As of **2024-03-17 17:53:28**
 
 ## Newspaper Stats
 
-*Scraped **13,410** Articles*
+*Scraped **13,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 1,619
 tamilmirrorlk | 1,642
 virakesarilk | 1,859
 dailymirrorlk | 2,048
-adaderanasinhalalk | 2,124
+adaderanasinhalalk | 2,125
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,406 (100.0%) of 13,410 articles have been extended.
+13,410 (100.0%) of 13,411 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### දකුණ කැලඹුණු වෙඩිල්ලට පාර කියූ පුද්ගලයෙකුට වැඩ වරදියි
+
+*2024-03-17 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194605) · `si`
+
+අම්බලන්ගොඩ ගලගොඩ වෙළපාර ප්‍රදේශයේදී පසුගිය 11 වනදා රාත්‍රියේ සිදුකළ වෙඩිතැබීමේ සිද්ධියට අදාළව සැකපිට පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇති පුද්ගලයා සන්තකයේ තිබී හෙරොයින් ග්‍රෑම් 2යි මිලිග්‍රෑම් 100ක් ද පොලීසිය සොයාගෙන ඇත.
+
+එසේම දුරකථන සිම්කාඩ් පත් 3ක් ජංගම දුරකතනයක් ද සැකකරු සන්තකයේ තිබී පොලිස් භාරයට ගෙන තිබේ.
+
+පොලීසිය පවසන්නේ වැඩිදුර විමර්ශනවලදී සැකකරු සමන් කොල්ලා නමැති අපරාධකරු සමග දුරකථන මාර්ගයෙන් සම්බන්ධ වී මෙම අපරාධය කිරීම සඳහා ආධාර අනුබල දී ඇති බවය.
+
+සැකකරු බලපිටිය මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව දින 7ක රැඳවුම් නියෝග ලබාගෙන ඉදිරි විමර්ශන සිදුකිරීමට නියමිතය,
+
+පසුගිය 11 වනදා රාත්‍රියේ ගලගොඩ වෙළපාර ප්‍රදේශයේදී වෙළෙඳසැලක් ඉදිරිපිටදී සිදුකළ වෙඩිතැබීමකින් එහි හිමිකරු සහ තවත් පුද්ගලයෙකු මියගොස් තිදෙනෙකු තුවාල ලැබීය.
+
+◼️
+
+[Data](articles/1f31f396.json)
+
+---
 
 ### 21 dead, 38 injured in bus collision with tanker in Afghanistan
 
@@ -54,41 +76,55 @@ Clean up crews were on site removing the debris, according to officials.
 
 [Data](articles/3e681a9a.json)
 
+[Extended Data](ext_articles/3e681a9a.ext.json)
+
 ---
 
-### ඇෆ්ගනිස්තානයේ බිහිසුණු අනතුරකින් 21ක් මරුට
+### 21 killed in Afghanistan
 
 *2024-03-17 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194604) · `si`
 
-ඇෆ්ගනිස්තානයේ හෙල්මාන්ඩ් පළාතේ සිදුවු රිය අනතුරකින් පුද්ගලයින් 21 දෙනෙකු ජිවිතක්ෂයට පත්ව තිබේ.
+21 killed in Afghanistan accident. 38 injured. Over 1600 killed, 4000+ injured in accidents over past 10 months.
 
-මාර්ගයේ ධාවනය වෙමින් තිබු මගී බස් රථයක් යතුරුපැදියක සහ ඉන්ධන බවුසරයක ගැටී පෙරළීගොස් ගිනි ගැනීමට ලක්වීමෙන් අනතුර සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+🟩
 
-අනතුරෙන් තවත් පුද්ගලයින් 38 දෙනෙකු තුවාල ලබා රෝහල් ගතකර තිබේ.
+21 persons have been killed in an accident in the Hellmand province of Afghanistan.
 
-මේ අතර පසුගිය මාස 10ක කාලය තුළ ඇෆ්ගනිස්තානයේ සිදුවූ රිය අනතුරුවලින් පුද්ගලයින් 1600 අධික පිරිසක් මියගොස් තවත් 4000කට අධික පිරිසක් තුවාල ලබා ඇති බවයි වාර්තා වෙයි.
+Foreign media has reportedly clashed with a motorcycle and fuel bus collided with a motorcycle and fuel bowl.
+
+38 others were injured in the accident and hospitalized.
+
+Meanwhile, more than 1600 people were killed and more than 4,000 were injured and another 4,000 were injured in accidents in Afghanistan over the past 10 months.
 
 ◼️
 
 [Data](articles/99d69807.json)
 
+[Extended Data](ext_articles/99d69807.ext.json)
+
 ---
 
-### ඇෆ්ගනිස්තානයේ බිහිසුණු අනතුරකින් 21ක් මරුට
+### 21 killed in Afghanistan
 
 *2024-03-17 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194603) · `si`
 
-ඇෆ්ගනිස්තානයේ හෙල්මාන්ඩ් පළාතේ සිදුවු රිය අනතුරකින් පුද්ගලයින් 21 දෙනෙකු ජිවිතක්ෂයට පත්ව තිබේ.
+21 killed in Afghanistan accident. 38 injured. Over 1600 killed, 4000+ injured in accidents over past 10 months.
 
-මාර්ගයේ ධාවනය වෙමින් තිබු මගී බස් රථයක් යතුරුපැදියක සහ ඉන්ධන බවුසරයක ගැටී පෙරළීගොස් ගිනි ගැනීමට ලක්වීමෙන් අනතුර සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+🟩
 
-අනතුරෙන් තවත් පුද්ගලයින් 38 දෙනෙකු තුවාල ලබා රෝහල් ගතකර තිබේ.
+21 persons have been killed in an accident in the Hellmand province of Afghanistan.
 
-මේ අතර පසුගිය මාස 10ක කාලය තුළ ඇෆ්ගනිස්තානයේ සිදුවූ රිය අනතුරුවලින් පුද්ගලයින් 1600 අධික පිරිසක් මියගොස් තවත් 4000කට අධික පිරිසක් තුවාල ලබා ඇති බවයි වාර්තා වෙයි.
+Foreign media has reportedly clashed with a motorcycle and fuel bus collided with a motorcycle and fuel bowl.
+
+38 others were injured in the accident and hospitalized.
+
+Meanwhile, more than 1600 people were killed and more than 4,000 were injured and another 4,000 were injured in accidents in Afghanistan over the past 10 months.
 
 ◼️
 
 [Data](articles/aea864b6.json)
+
+[Extended Data](ext_articles/aea864b6.ext.json)
 
 ---
 
@@ -530,15 +566,21 @@ Pasting stickers and posters on the body of the bus will damge its paint and the
 
 ---
 
-### හෙට වැස්සක් ඇත්තේම නෑ
+### There is no rain tomorrow
 
 *2024-03-17 13:54:56* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-වැස්සක්-ඇත්තේම-නෑ/11-408651) · `si`
 
-දිවයින පුරා හෙට දිනයේදී ප්‍රධාන වශයෙන්ම වැසි රහිත කාලගුණ තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි. හෙට දිනය සඳහා වන කාලගුණ අනාවැකිය නිකුත් කරමින් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව මේ බව පවසයි.
+The Department of Meteorology forecasts no rain tomorrow island-wide.
+
+🟩
+
+Department of Meteorology says that tomorrow island wide, the Met Department forecasts. The Meteorology Department says that the weather forecast for tomorrow's tomorrow.
 
 ◼️
 
 [Data](articles/6f2d40b6.json)
+
+[Extended Data](ext_articles/6f2d40b6.ext.json)
 
 ---
 
@@ -2319,23 +2361,5 @@ Upul Tharanga and Neil Brwarn International Cricket Council is also informed of 
 [Data](articles/116af267.json)
 
 [Extended Data](ext_articles/116af267.ext.json)
-
----
-
-### New mobile application designed to promote beach cleanliness
-
-*2024-03-16 20:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98000/new-mobile-application-designed-to-promote-beach-cleanliness) · `en`
-
-A meeting was convened at the Presidential Secretariat, on Friday (15) chaired by Senior Advisor to the President on National Security and Chief of Presidential Staff Sagala Ratnayaka, to discuss the launch of a new mobile application “Beach Clean-up Coordination App” aimed at enhancing the cleanliness and waste management on beaches.
-
-The introduction of this mobile application is facilitated through the intervention of the Coastal Conservation Protection Authority. It aims to formalize coordination among institutions and organizations engaged in the sustainable development of coastal and marine environments.
-
-Ratnayaka emphasized the importance of commitment from all institutions responsible for ensuring the sustainability of ocean and coastal areas in maintaining cleanliness. He highlighted that the new mobile application will serve as a tool to facilitate these activities effectively.
-
-...
-
-[Data](articles/b6766ce1.json)
-
-[Extended Data](ext_articles/b6766ce1.ext.json)
 
 ---

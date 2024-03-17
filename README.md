@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 02:33:11**
+As of **2024-03-18 02:49:38**
 
 ## Newspaper Stats
 
-*Scraped **13,466** Articles*
+*Scraped **13,472** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 126
+colombotelegraphcom | 127
 bbccomsinhala | 149
 dbsjeyarajcom | 187
 newsfirstlk | 363
-dailyftlk | 701
+dailyftlk | 706
 economynextcom | 713
 islandlk | 735
 adalk | 1,157
@@ -26,11 +26,99 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,466 (100.0%) of 13,466 articles have been extended.
+13,466 (100.0%) of 13,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### Trinity Holdings celebrates 7 years of sustainable garment manufacturing
+
+*2024-03-18 02:40:29* · [`dailyftlk`](https://www.ft.lk/business/Trinity-Holdings-celebrates-7-years-of-sustainable-garment-manufacturing/34-759608) · `en`
+
+Trinity Holdings, has celebrating seven years as an innovative and competitive company that manufactures and exports sustainable and basic garments such as women’s wear, men’s wear and children’s wear out of Sri Lanka.
+
+Trinity Holdings is a private sector company, headed by a woman entrepreneur, that supports sustainable business development. Trinity Holdings promotes SME growth, development and production.
+
+Trinity co-founder and CEO Davina de Silva was responsible for setting up the Victoria Secret underwear lingerie manufacturing business in Sri Lanka in 1996 with LM Buying which was part of Mast Industries. Davina has over 40 years’ experience in the garment manufacturing and exporting business. When Davina retired from the corporate sector in 2015, she and her son Sarinda de Silva founded Trinity Holdings in 2016.
+
+...
+
+[Data](articles/0b863f4d.json)
+
+---
+
+### Sri Lankan-owned Groovy Graphics and Signs finalist in Australian Small Business Champion Awards 2024
+
+*2024-03-18 02:36:05* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-owned-Groovy-Graphics-and-Signs-finalist-in-Australian-Small-Business-Champion-Awards-2024/34-759607) · `en`
+
+Groovy Graphics and Signs, a company owned by Sri Lankan entrepreneur Lalantha De Silva, has been selected as a finalist for the prestigious Australian Small Business Champion Awards 2024 in the Retail Sole Operator category.
+
+The Australian Small Business Champion Awards is a prestigious and comprehensive program that supports and recognises small businesses across Australia. 2024 has seen over 5,500 quality entries into the awards.
+
+Groovy Graphics and Signs – a local signage printing, promotional products and design solutions business based in Melbourne since 2000, specialises in developing innovative signage, banners, portable displays, retail signage, graphic design, and all-sized printing. With over 22 years of competitive experience and service development, Groovy Graphics blends modern-day graphic design with high-quality finished signage, all while maintaining the most affordable prices available.
+
+...
+
+[Data](articles/c9a8b58e.json)
+
+---
+
+### Tikiri Toys’ wins two awards at SLIM Brand of the Year 2023
+
+*2024-03-18 02:24:31* · [`dailyftlk`](https://www.ft.lk/business/Tikiri-Toys-wins-two-awards-at-SLIM-Brand-of-the-Year-2023/34-759606) · `en`
+
+Tikiri Toys has gained the pinnacle of its export performance by becoming the best export brand of the year and the Silver for eco-friendly brand of the year at SLIM Exports Excellence 2023.
+
+The Company said the awards are an endorsement to its effort and dedication to bring happiness with the highest quality toys to the children. This includes a collection of play equipment produced to help young children discover the world around them.
+
+Tikiri Toys has become a notable brand in the US, Germany, and the UK and has a presence in nearly 56 countries. The global demand for toys accounts for $ 20 billion and has given positive signals to the Sri Lankan toys export market and against all odds, Tikiri Toys achieve $ 12 million annually. Further strengthening Tikiri Toys’ international marketing effort,
+
+...
+
+[Data](articles/ef5bfa54.json)
+
+---
+
+### AKD promises a multi-community Government
+
+*2024-03-18 01:45:51* · [`dailyftlk`](https://www.ft.lk/news/AKD-promises-a-multi-community-Government/56-759601) · `en`
+
+Highlights importance of including Tamil leaders who promote unity in governance of SL
+
+Says important to isolate racist elements and liberate Tamil community from such harmful ideologies
+
+Emphasises necessity of a Govt. that rejects racism and incorporates leaders from all communities
+
+Assures an NPP Govt. will first ensure food, health and education needs of people
+
+The National People’s Party (NPP) Leader Anura Kumara Dissanayake over the weekend emphasised the importance of bringing together Tamil leaders who promote unity into the governance of the country.
+
+“There are Tamil leaders advocating for unity who are inclusive and free from extremism and racism. It's crucial to gather these voices. If there are instances of Tamil racism in the north, it's important to isolate those responsible and liberate the Tamil community from such harmful ideologies. Similar actions have been taken in the south,” he said addressing an NPP party Vavuniya district summit.
+
+...
+
+[Data](articles/b97ae7a4.json)
+
+---
+
+### CEBEU assures uninterrupted power supply despite arid weather
+
+*2024-03-18 01:42:46* · [`dailyftlk`](https://www.ft.lk/news/CEBEU-assures-uninterrupted-power-supply-despite-arid-weather/56-759600) · `en`
+
+Amidst the persisting arid weather conditions, the Ceylon Electricity Board Engineers’ Union (CEBEU) has assured the public that reservoir water levels remain sufficient to sustain uninterrupted power supply across the country.
+
+Addressing concerns over dwindling water levels in reservoirs, CEBEU officials stated that despite a decrease to 70% capacity in Castlereigh and Maussakalle reservoirs from their peak levels, hydropower generation can continue unabated till reaching a threshold of 20% capacity.
+
+The CEB revealed the water levels in key reservoirs, which include;  Maussakalle - 1,158.46 meters above sea level (masl), Castlereigh - 1,086.85 masl, Kotmale - 694.02 masl, Samalawewa - 453.41 masl, Victoria - 432.77 masl, and Randenigala - 229.94 masl, as of 6 p.m. yesterday.
+
+The CEBEU officials underscored the feasibility of maintaining 24-hour electricity supply, citing a significant drop in coal prices in the international market as a contributing factor.
+
+...
+
+[Data](articles/8bb8046c.json)
+
+---
 
 ### One person dies
 
@@ -431,6 +519,18 @@ Accordingly, people should follow health advice such as inadequate watering, rel
 [Data](articles/18c121b1.json)
 
 [Extended Data](ext_articles/18c121b1.ext.json)
+
+---
+
+### Demystification Of The Black Box Involving Money Creation By C.A. Abeysinghe
+
+*2024-03-17 21:03:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/demystification-of-the-black-box-involving-money-creation-by-c-a-abeysinghe/) · `en`
+
+With the increased cost of printing, many writers have turned to publishing e-books. They have a better storage facility in the clouds and offer a wider outreach anytime in any part of the globe. Cost-wise also they are economical for both the writer and the reader. The latest to join this bandwagon has been the ex-central banker, C.A. Abeysinghe, who has released his e-book on ‘Unveiling the Secrets: How money is created?’ recently. Anyone interested in downloading the book for reading can have it from the Ruhuna University Library Catalogue click here. The book, based on Abeysinghe’s long experience at the Central Bank, first as an economist and later as the man in charge of the implementation of the monetary policy, is timely. That is because though many speak of the Central Bank’s money printing power, their understanding of the subject at a deep level seems to be limited. Hence, Abeysinghe’s book can be used by those interested in monetary economics as a primer.
+
+...
+
+[Data](articles/857fafa7.json)
 
 ---
 
@@ -2207,145 +2307,5 @@ Yuvraj Singh and many former cricketers have been staying in Kandy for almost a 
 [Data](articles/20b224ef.json)
 
 [Extended Data](ext_articles/20b224ef.ext.json)
-
----
-
-### Yuvraj Singh visited Talata
-
-*2024-03-17 11:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/தலதாவை-தரிசனம்-செய்தார்-யுவராஜ்-சிங்/44-334788) · `ta`
-
-Yuvraj Singh, a former Indian cricketer, visited Sri Dalada House in Kandy and participated in the World Legend Cricket Tournament at Pallekela International Cricket Ground.
-
-🟩
-
-Former Indian cricketer Yuvraj Singh has visited the historic Sri Dalada House in Kandy.
-
-Yuvraj Singh and many former cricketers have been staying in Kandy for almost a week and they have been in Kandy to participate in the World Legend Cricket Tournament at the Pallekela International Cricket Ground.
-
-◼️
-
-[Data](articles/24c389b0.json)
-
-[Extended Data](ext_articles/24c389b0.ext.json)
-
----
-
-### Yuvraj Singh, who visited Talata
-
-*2024-03-17 11:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலதாவை-தரிசனம்-செய்த-யுவராஜ்-சிங்/175-334788) · `ta`
-
-Yuvraj Singh, a former Indian cricketer, visited Sri Dalada House in Kandy and participated in the World Legend Cricket Tournament at Pallekela International Cricket Ground.
-
-🟩
-
-Former Indian cricketer Yuvraj Singh has visited the historic Sri Dalada House in Kandy.
-
-Yuvraj Singh and many former cricketers have been staying in Kandy for almost a week and they have been in Kandy to participate in the World Legend Cricket Tournament at the Pallekela International Cricket Ground.
-
-◼️
-
-[Data](articles/7b4233ae.json)
-
-[Extended Data](ext_articles/7b4233ae.ext.json)
-
----
-
-### School girl assaulted by MP
-
-*2024-03-17 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194594) · `si`
-
-A former MP is under investigation for assaulting a 16-year-old schoolgirl in Barandhuragoda, while also accused of assaulting a development officer at a fuel station. The victim was hospitalized for five days.
-
-🟩
-
-Police have launched an investigation to arrest a former MP in the Pohot of the Divulapitiya Pradeshiya Sabha.
-
-The mother of the student student accused his son had been assaulted and had been hospitalized for five days.
-
-The suspect was assaulted by the student in Barandhuragoda, while returning to his home on the 11th.
-
-The victim is a 16 year old schoolgirl, a resident of Barandururagoda, area.
-
-The suspect had fled the area after the attack.
-
-Meanwhile, the suspect was accused of assaulting a development officer in a fuel station at the same time.
-
-◼️
-
-[Data](articles/80013a0b.json)
-
-[Extended Data](ext_articles/80013a0b.ext.json)
-
----
-
-### Two arrested in Pitigala double murder
-
-*2024-03-17 11:41:58* · [`adalk`](https://www.ada.lk/breaking_news/පිටිගල-ද්විත්ව-ඝාතනයට-දෙකක්-දැලේ/11-408645) · `si`
-
-Two suspects from Niyagama Thaldagala, arrested in Pitigala for a double murder at Pitigala Hospital, were injured in the incident. Two killed, three seriously injured. Motorbikes and phones seized.
-
-🟩
-
-Pitigala Police say that two suspects were injured in the shooting incident in Pitigala Hornugala yesterday.. Both of these suspects are residents of Niyagama Thaldagala and the police said that both of them were thirty-term. The police say that the shooting took place at Pitigala Hospital at Horangalla Teaching Handle Junction at Pitigala.. The shooting by the shooting by the shooting by the shooting, the police said that two persons were killed and three others were seriously injured due to their flight.
-
-Two motorbikes found in the public and three mobile phones were taken to be produced before the Elpitiya Magistrate's Court.Pitigala interest rates further regarding the incident.
-
-Janaka de Silva / Pitigala DJ. Wijesinghe
-
-◼️
-
-[Data](articles/83da2175.json)
-
-[Extended Data](ext_articles/83da2175.ext.json)
-
----
-
-### Blood if I lose - Trump
-
-*2024-03-17 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178924) · `ta`
-
-Donald Trump claims losing the 2024 election would cause "bleeding," suggesting he can't sell foreign cars if elected. James Singer, Biden's spokesperson, criticizes Trump's comments, accusing him of seeking another January and rejecting his radical traffic ideas.
-
-🟩
-
-Former US President Donald Trump has expressed controversy that if I lost the 2024 presidential election, it would cause bleeding.
-
-He said that if I was elected, Trump would be impossible to sell those foreign cars to the cars that were manufactured outside the United States.
-
-Meanwhile, James Singer, spokesman for President Joe Baiton's propaganda division, said that Trump's comment has revealed that he wants another January.
-
-He said that they were going to reject him in the November election as the people of the United States continue to reject Trump's radical traffic and that the American people are rejecting his desire for violence.
-
-◼️
-
-[Data](articles/8b21ebc6.json)
-
-[Extended Data](ext_articles/8b21ebc6.ext.json)
-
----
-
-### The government has hidden 1500 -page documents - the current police chief has ordered not to check a mystery lorry - Cardinal Malcolm Ranjith's new allegation
-
-*2024-03-17 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/178922) · `ta`
-
-Cardinal Malcolm Ranjith alleges the government withheld 1500-page documents, including key witnesses' statements, and issued misleading reports on the President's Commission's findings. He criticizes the government for not fully investigating the attack and accuses it of trying to sacrifice 23 Muslims. Azad Moulana, involved in the investigation, confirms his involvement and the release of the Army Investigation Division head and Jahran Qasim Group leader.
-
-🟩
-
-Cardinal Malcolm Ranjith said that the President's Commission's report on the Sunday Sunday's report to the Church has not been found in 1500 pages.
-
-The government presented the report of the Presidential Commission on six CDs. We and the lawyers examined it.
-
-He added that the government has not given us the documents of the promises made by key witnesses such as Zahran Hazim's wife and Sarah Jessmine.
-
-Cardinal Malcolm Ranjith has said that the government did not give us reports on the affidavit made by Zara Jasmin, who is alleged to be closely associated with a suicide attack.
-
-He also told the media that Cardinal had issued a full report after the government had issued a six -dimension after we wrote several letters that the Presidential Commission's report on the resurrection should be fully issued.
-
-...
-
-[Data](articles/ccb3c9e3.json)
-
-[Extended Data](ext_articles/ccb3c9e3.ext.json)
 
 ---

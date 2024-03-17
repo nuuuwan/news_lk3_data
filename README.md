@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 00:47:59**
+As of **2024-03-18 01:03:09**
 
 ## Newspaper Stats
 
-*Scraped **13,460** Articles*
+*Scraped **13,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 126
 bbccomsinhala | 149
 dbsjeyarajcom | 187
 newsfirstlk | 363
-dailyftlk | 700
+dailyftlk | 701
 economynextcom | 713
 islandlk | 735
 adalk | 1,157
 adaderanalk | 1,626
 tamilmirrorlk | 1,650
-virakesarilk | 1,865
+virakesarilk | 1,866
 dailymirrorlk | 2,055
 adaderanasinhalalk | 2,134
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,460 (100.0%) of 13,460 articles have been extended.
+13,460 (100.0%) of 13,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### திருமலையில் வெடுக்குநாறி மலை சிவன் ஆலயத்தில் வழிபாட்டின் போது கைது செய்யப்பட்டவர்களை விடுதலை செய்யக்கோரி கவனயீர்ப்பு போராட்டம்
+
+*2024-03-18 00:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178965) · `ta`
+
+கடந்த எட்டாம் திகதி சிவராத்திரி தினத்தன்று வெடுக்குநாறி மலை சிவன் ஆலயத்தில் வழிபாட்டின் போது கைது செய்யப்பட்ட எண்மரை விடுதலை செய்யக்கோரியும் அச் சம்பவத்தைக் கண்டித்தும் திருகோணமலை சிவன்கோயிலடிக்கு முன்னால் கவனயீர்ப்பு போராட்டம் ஒன்று ஞாயிற்றுக்கிழமை (17) மாலை இடம் பெற்றது .
+
+வெடுக்குநாறி மலையில் இடம் பெற்ற சம்பவத்தின் போது கைது செய்யப்பட்டவர்களை விடுதலை செய்யக்கோரியும் அதனைக் கண்டித்தும் கவனயீர்ப்பு இடம் பெற்றதுடன் இதனை சமூக செயற்பாட்டாளர்கள் ஏற்பாடு செய்திருந்தனர்.
+
+வழிபாடு எமது அடிப்படை உரிமை ஆதி சிவன் ஆலயம் எமது பூர்வீகம்,ஈழத்தின் சமயத் தலைவர்களை அபகரிக்காதே தொல்பொருள் எனும் போர்வையில் பௌத்தத்தை விதைக்காதே, வழிபாட்டைத் தடுக்கும் உரிமையைக் காவல் துறையினருக்கு கொடுத்தது யார்,ஆலய நிர்வாகிகளை உடனடியாக விடுதலை செய்,ஆலயங்கள் சைவத் தமிழர்களின் பூர்வீக அடையாளம் போன்ற வாசகங்கள் அடங்கிய பதாகைகளை ஏந்தியவாறு கவனயீர்ப்பில் ஈடுபட்டனர்.
+
+...
+
+[Data](articles/6a11dc9f.json)
+
+---
 
 ### Gota’s book:  “Conspiracy Theory”  or Unintended Confession?
 
@@ -69,6 +85,18 @@ The salary hike of the Central Bank of Sri Lanka (CBSL) has been questioned and 
 [Data](articles/7f001dde.json)
 
 [Extended Data](ext_articles/7f001dde.ext.json)
+
+---
+
+### Demystification of the black box involving money creation by C.A. Abeysinghe
+
+*2024-03-17 23:36:21* · [`dailyftlk`](https://www.ft.lk/columns/Demystification-of-the-black-box-involving-money-creation-by-C-A-Abeysinghe/4-759583) · `en`
+
+A demand deposit which the Central Bank maintains for a commercial bank in its books – another monetary liability – is paid back on demand when the bank concerned makes a written request to the Central Bank. The Central Bank may pay it by issuing a currency note – in which case the currency liability of the bank will increase – or by debiting that bank’s account and crediting another bank’s account. The Central Bank creates this reserve money just by making book entries and supplies to commercial banks as ‘seed money’ to facilitate them to create further money in multiple terms. Abeysinghe has described this process in lucid terms in the book
+
+...
+
+[Data](articles/d4da838e.json)
 
 ---
 
@@ -2309,61 +2337,5 @@ The fire has been reported that the volcano is not inactive to the sea, foreign 
 [Data](articles/853d8564.json)
 
 [Extended Data](ext_articles/853d8564.ext.json)
-
----
-
-### "We are discussing with non -extremist Tamil leaders"
-
-*2024-03-17 11:00:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீவிரவாதமற்ற-தமிழ்த்-தலைவர்களுடன்-கலந்துரையாடி-வருகிறோம்/175-334784) · `ta`
-
-NPP leader Anura Kumara Dissanayake discusses including North-representing ministers in future government, consulting with moderate Tamil leaders, and addressing Tamil issues like land and language rights.
-
-🟩
-
-NPP leader Anura Kumara Dissanayake said yesterday that there should be ministers representing the North in the North.
-
-Speaking at the Vavuniya District Conference, he said that he is already in consultation with moderate Tamil leaders who are not extremists or communalism.
-
-“There must be ministers representing the North in the future NPP government. We are already discussing with extremist or racist moderate Tamil leaders. They should be part of the NPP government, "he said.
-
-He said that the NPP would solve the problems of the Tamil people and the issue of land issues and that the constitution would be brought to ensure the political rights of the Tamils.
-
-We promise to take action to address the language problem. We will ensure the right to deal with the nation in your language.
-
-◼️
-
-[Data](articles/b88c3a8d.json)
-
-[Extended Data](ext_articles/b88c3a8d.ext.json)
-
----
-
-### Concerns in Mannar on the wind power project of Adani Group - Hindu
-
-*2024-03-17 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/178918) · `ta`
-
-The Hindu reports concerns over Adani Group's wind power project in Mannar, Sri Lanka, citing it as a threat to bird migration. Environmentalists and locals express worries about the project's impact on coastal areas. The Sri Lanka Investment Board granted permission for two wind power plants, aiming to produce 250 MW in Mannar and 34 MW in Poonakari. The project is part of Sri Lanka's goal to achieve 70% renewable energy by 2030. India has agreed to cooperate and has invested $11 million for energy projects. However, environmentalists fear the project will harm local biodiversity and livelihoods.
-
-🟩
-
-The Hindu newspaper has said that there is concern about the wind power project to be carried out in Mannar and that it is a death route for birds.
-
-The wind power generation project in the north of Sri Lanka has been facing controversy by India's Adani Greens.
-
-Environmentalists and local people have expressed concern and concern over the impact of the project and the impacts of this project in the coastal areas.
-
-Last year, the Sri Lanka Investment Board had granted permission to carry out two wind power plants in two areas where the northern part of Sri Lanka is high.
-
-The two projects can produce 250 vot electricity in Mannar and 34 MW of electricity in Poonakari.
-
-He made this statement after signed with Adanigens's Executive Director Sagar Adani on the unprecedented power agreement.
-
-The Sri Lankan government is carrying out these plans to get 70 percent of the energy service by 2030 to address the increasing energy needs of Sri Lanka.
-
-...
-
-[Data](articles/88e4adc0.json)
-
-[Extended Data](ext_articles/88e4adc0.ext.json)
 
 ---

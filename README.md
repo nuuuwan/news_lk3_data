@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 16:48:47**
+As of **2024-03-17 17:03:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,122
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,405 (100.0%) of 13,406 articles have been extended.
+13,406 (100.0%) of 13,406 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -168,19 +168,25 @@ Wijeratne has therefore requested the Central Bank Governor to take appropriate 
 
 ---
 
-### ”ஆங்கில மொழிக் கல்வியை SJB அரசாங்கம் கட்டாயமாக்கும்”
+### “The SJB government will make English language education”
 
 *2024-03-17 15:21:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆங்கில-மொழிக்-கல்வியை-SJB-அரசாங்கம்-கட்டாயமாக்கும்/175-334800) · `ta`
 
-எதிர்கால ஐக்கிய மக்கள் சக்தி (SJB) அரசாங்கம் ஆங்கில மொழிக் கல்வியை கட்டாயமாக்கும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Sajith Premadasa announced that the SJB government will make English language education compulsory from grade one to thirteen, free from Chinese, Hindi, Japanese, IT, and computer science.
 
-தரம் ஒன்று முதல் பதின்மூன்று வரையிலான மாணவர்களுக்கு ஆங்கில வழிக் கல்வியை கட்டாயமாக்குவோம் என குருநாகலில் நடைபெற்ற இளைஞர் பேரணியில் கலந்து கொண்டு உரையாற்றும் போதே அவர் தெரிவித்தார்.
+🟩
 
-மேலும், "இளைஞர்களுக்கு சீனம், இந்தி, ஜப்பானியம், தகவல் தொழில்நுட்பம் மற்றும் கணினி அறிவியல் ஆகியவற்றை இலவசமாகக் கற்பிப்போம்" என்றும் அவர் கூறினார்.
+Opposition Leader Sajith Premadasa said the future United People's Power (SJB) government would make English language education compulsory.
+
+Speaking at a youth rally in Kurunegala, he said that he would make English education compulsory for students from grade one to thirteen.
+
+He also said, "We will teach young people free of Chinese, Hindi, Japanese, information technology and computer science."
 
 ◼️
 
 [Data](articles/3cd3ccba.json)
+
+[Extended Data](ext_articles/3cd3ccba.ext.json)
 
 ---
 

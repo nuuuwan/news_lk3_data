@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 00:02:57**
+As of **2024-03-18 00:17:53**
 
 ## Newspaper Stats
 
-*Scraped **13,457** Articles*
+*Scraped **13,459** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,18 +17,38 @@ economynextcom | 713
 islandlk | 735
 adalk | 1,157
 adaderanalk | 1,626
-tamilmirrorlk | 1,649
+tamilmirrorlk | 1,650
 virakesarilk | 1,865
-dailymirrorlk | 2,054
+dailymirrorlk | 2,055
 adaderanasinhalalk | 2,134
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,457 (100.0%) of 13,457 articles have been extended.
+13,457 (100.0%) of 13,459 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-18 (Monday)
+
+### Gota’s book:  “Conspiracy Theory”  or Unintended Confession?
+
+*2024-03-18 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Gotas-book-Conspiracy-Theory-or-Unintended-Confession/172-279015) · `en`
+
+This narrative underscores the importance of addressing deep-rooted  grievances and fostering inclusive governance to build trust and unity  across ethnic and religious lines.
+
+The expulsion of Gotabaya by Aragalysts was a grassroots uprising against perceived authoritarianism and oppression, challenging his leadership rather than being a racially motivated act by non-Sinhala-Buddhists, as he pathetically attempts to portray in his conspiracy theory.
+
+He began his term by taking positive steps, such as forbidding the display of his photograph in state institutions, reducing his security detail, and downsizing his motorcade from seven to three vehicles
+
+Two years after his ouster from office by a people’s movement, former President Gotabaya has attempted to defend himself by attributing his political downfall to a “conspiracy” involving foreign parties.
+
+...
+
+[Data](articles/6daff272.json)
+
+---
 
 ### 2024-03-17 (Sunday)
 
@@ -259,6 +279,22 @@ Accordingly, people should follow health advice such as inadequate watering, rel
 [Data](articles/18c121b1.json)
 
 [Extended Data](ext_articles/18c121b1.ext.json)
+
+---
+
+### தவறுகளை ஆராய்ந்து வாக்குகளை புத்திசாலித்தனமாக பயன்படுத்துங்கள்
+
+*2024-03-17 20:54:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவறுகளை-ஆராய்ந்து-வாக்குகளை-புத்திசாலித்தனமாக-பயன்படுத்துங்கள்/175-334820) · `ta`
+
+எதிர்வரும் தேர்தலில் உங்கள் வாக்குகளை புத்திசாலித்தனமாக பயன்படுத்துங்கள், இந்த நாட்டை அழித்த பார்ப்பாரற்ற அரசியல்வாதிகளுக்கு ஏமாறாமல், அரசியல்வாதிகளின் கடந்த கால தவறுகளை ஆராய்ந்து உங்கள் வாக்குகளை புத்திசாலித்தனமாக பயன்படுத்துங்கள் என முன்னாள் இராணுவ தளபதியான பாராளுமன்ற உறுப்பினர் பீல்ட் மார்ஷல் சரத் பொன்சேகா கேட்டுக்கொண்டார்.
+
+கட்சி சார்பற்ற அமைப்பினால் கண்டி ஜோர்ஜ் ஈ டி சில்வா பூங்கா முன்பாக, ‘மக்கள் புரட்சியை நோக்கி நிராயுதபாணிகளின் போராட்டம்’ என்ற தொனிப்பொருளில் ஏற்பாடு செய்யப்பட்ட பிரசாரத்தில் கலந்து கொண்டு ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே முன்னாள்
+
+இந்த நாட்டில் நிலவும் சீர்கெட்ட அரசியல் கலாசாரம் மற்றும் தொலைநோக்கு பார்வையின்மை குறித்து மக்களுக்கு தெளிவுபடுத்துமாறும், அரசியல்வாதிகளிடம் ஏமாறாமல் நாட்டின் எதிர்காலத்தை முன்னெடுத்துச் செல்வோருக்கு தமது வாக்குகளைப் பயன்படுத்துமாறும் பொன்சேகா வேண்டுகோள் விடுத்தார்.
+
+...
+
+[Data](articles/abd5c190.json)
 
 ---
 
@@ -2325,47 +2361,5 @@ The Government of Israel's Israeli Prime Minister Benjaminiu has also been again
 [Data](articles/b37db98f.json)
 
 [Extended Data](ext_articles/b37db98f.ext.json)
-
----
-
-### Madushanka to miss rest of Bangladesh tour due to injury
-
-*2024-03-17 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98007/madushanka-to-miss-rest-of-bangladesh-tour-due-to-injury) · `en`
-
-Sri Lanka Cricket (SLC) announced that fast bowler Dilshan Madushanka will not take part further in the ongoing Bangladesh tour.
-
-Issuing a statement on Sunday (17), SLC said the player will return to Sri Lanka in order to start rehabilitation after suffering an injury during the 2nd ODI against Bangladesh.
-
-Madushanka, who left the field during the second ODI while bowling, has suffered a left hamstring injury, as confirmed by an MRI scan performed on the player, it said.
-
-Sri Lanka bounced back in the second ODI against Bangladesh to level the series 1-1 with the third and final match set to take place on Monday.
-
-◼️
-
-[Data](articles/998d217c.json)
-
-[Extended Data](ext_articles/998d217c.ext.json)
-
----
-
-### One killed, 37 injured in Peradeniya bus accident
-
-*2024-03-17 10:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/One-killed-37-injured-in-Peradeniya-bus-accident/108-279005) · `en`
-
-Kandy, March 17 (Daily Mirror) - At least one persons was killed and another 37 persons injured in an accident involving a bus travelling from Nelligala to Pundaluoya at  Yahalatenna in Peradeniya.
-
-Police said the bus was transporting a group of devotees returning from a visit to the Nelligala International Buddhist Center.
-
-The driver of the bus had reportedly lost control of the vehicle causing it to slide down a 15-metre slope and crash onto a tree.
-
-The injured persons including the driver of the bus were admitted to the Peradeniya Hospital where a 79-year-old passenger died.
-
-The deceased has been identified as a resident of Halpola, Pundaluoya while two of the injured passengers who are in critical condition have been transferred to the Kandy General Hospital.
-
-◼️
-
-[Data](articles/ae643302.json)
-
-[Extended Data](ext_articles/ae643302.ext.json)
 
 ---

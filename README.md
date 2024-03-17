@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 04:33:12**
+As of **2024-03-18 04:51:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,479 (100.0%) of 13,482 articles have been extended.
+13,482 (100.0%) of 13,482 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The new, fully-fledged digital system includes E-Ticket and E-Warrant solutions,
 
 [Data](articles/b87fd3a6.json)
 
+[Extended Data](ext_articles/b87fd3a6.ext.json)
+
 ---
 
 ### Canada and JICA join UNDP to open mobile interactive space on women’s empowerment in Jaffna
@@ -59,6 +61,8 @@ Northern Province Chief Secretary S.M. Saman Bandulasena along with other Govern
 ...
 
 [Data](articles/c83d8939.json)
+
+[Extended Data](ext_articles/c83d8939.ext.json)
 
 ---
 
@@ -77,6 +81,8 @@ During his meeting with the President of Suriname, Ambassador Sumith Dassanayake
 ...
 
 [Data](articles/15bcb56f.json)
+
+[Extended Data](ext_articles/15bcb56f.ext.json)
 
 ---
 

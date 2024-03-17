@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 18:51:41**
+As of **2024-03-17 19:03:00**
 
 ## Newspaper Stats
 
-*Scraped **13,420** Articles*
+*Scraped **13,424** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,74 @@ newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 712
 islandlk | 735
-adalk | 1,151
-adaderanalk | 1,621
+adalk | 1,152
+adaderanalk | 1,622
 tamilmirrorlk | 1,643
 virakesarilk | 1,860
-dailymirrorlk | 2,048
-adaderanasinhalalk | 2,128
+dailymirrorlk | 2,049
+adaderanasinhalalk | 2,129
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,420 (100.0%) of 13,420 articles have been extended.
+13,420 (100.0%) of 13,424 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### Match-fixing allegations: Court issues travel ban on two Indian cricket managers
+
+*2024-03-17 18:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Match-fixing-allegations-Court-issues-travel-ban-on-two-Indian-cricket-managers/108-279012) · `en`
+
+The Colombo Chief Magistrate's Court has issued an order preventing two team managers of the Legend Cricket League from leaving the country over match-fixing allegations. The Legend Cricket League tournament, featuring seven teams of retired international cricketers, is currently underway at the Pallekele International Cricket Stadium.
+
+Colombo Additional Magistrate Pasan Amarasena made this order pursuant to a request made by the Special Investigation Unit (SIU) for Preventing Sports Offences, and this order will be effective for a one-month period starting on March 15.
+
+The court issued this order based on a complaint made by Sri Lankan former cricketer Upul Tharanga, who represents the Kandy Samp Army, and New Zealand legend Neil Broom, representing the Punjab Royals, alleging that they were pressured to engage in match fixing deals.
+
+This tournament is currently being held at the Pallekele International Cricket Stadium until March 19.
+
+...
+
+[Data](articles/2dca707a.json)
+
+---
+
+### Deputy Controller of Immigration and ex-Dy Controller arrested for providing passports to underworld figures
+
+*2024-03-17 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98015/deputy-controller-of-immigration-and-ex-dy-controller-arrested-for-providing-passports-to-underworld-figures) · `en`
+
+A Deputy Controller of Immigration & Emigration and a former Deputy Controller have been arrested by the CID for providing passports based on false information to underworld figures Nuresh Supun Dayaratne alias Hinatiyana Mahesh and Shan Arosh Liyanage alias Mathugama Shan, police said.
+
+◼️
+
+[Data](articles/9a250165.json)
+
+---
+
+### හොර පාස්පෝට් හැදූ ලොක්කෝ දෙන්නෙක් අත්අඩංගුවට
+
+*2024-03-17 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194609) · `si`
+
+සංවිධානාත්මක අපරාධකරුවන් දෙදෙනෙකුට රටින් පැන යාම සඳහා ගමන් බලපත්‍ර සකසා දීම සඳහා සහාය වූ ආගමන විගමන දෙපාර්තමේන්තුවේ නියෝජ්‍ය පාලකවරයෙකු සහ හිටපු නියෝජ්‍ය පාලකවරයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇති සැකකරුවන් දෙදෙනාගෙන් එක් අයෙකු වවුනියාව මහේස්ත්‍රාත් අධිකරණයටත් අනෙක් සැකකරු කඩුවෙල මහෙස්ත්‍රාත් අධිකරණයටත් ඉදිරිපත් කිරීමට නියමිතව ඇත.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාර නියෝජ්‍ය පොලිස්පති  රොහාන් ප්‍රේමරත්න මහතාගේ අධීක්ෂණය යටතේ සිදුකළ විමර්ශනයකට අනුව සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+
+එහිදී සැකකාර ආගමන විගමන දෙපාර්තමේන්තුවේ නියෝජ්‍ය පාලකවරයා විසින් නුරේෂ් සුපුන් දයාරත්න නොහොත් "හීනටියන මහේෂ්" නමැති
+
+සංවිධානාත්මක අපරාධකරුට ව්‍යාජ විදෙස් ගමන් බලපත්‍රයක් සකසා දී ඇති බවට අනාවරණය වී ඇත.
+
+මාණික්කුගේ දිනේෂ් සිල්වා යන ව්‍යාජ නාමය ඇතුළත් කර ව්‍යාජ ගමන් බලපත්‍ර අංකයක් සහ ව්‍යාජ හැඳුනුම්පත් අංකයක් ඇතුළත් කර "හීනටියන මහේෂ්" වෙත විදෙස් ගමන් බලපත්‍රය සකස්කර දී ඇති බවට සැකකාර ආගමන විගමන දෙපාර්තමේන්තුවේ නියෝජ්‍ය පාලකවරයාට චෝදනා එල්ලවී තිබේ.
+
+...
+
+[Data](articles/99ca74de.json)
+
+---
 
 ### If people do not support Ranil Wickremesinghe -Vajira Abeywardena has to be in line for fuels -Vajira Abeywardena
 
@@ -569,6 +621,22 @@ She said this small group will not give up easily, adding that people of Sri Lan
 [Data](articles/f27c8aa2.json)
 
 [Extended Data](ext_articles/f27c8aa2.ext.json)
+
+---
+
+### මේ වසරේදී විපක්ෂ මන්ත්‍රීන්ට මුදල් නෑ
+
+*2024-03-17 14:55:57* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-විපක්ෂ-මන්ත්‍රීන්ට-මුදල්-නෑ/11-408654) · `si`
+
+වෙන අවුරුදුවලදී ආණ්ඩුව විපක්ෂය කියලා බලන්නේ නැතුව පක්ෂ විපක්ෂයේ මන්ත්‍රීවරුන්ට මුදල් දෙනව නමුත් මේ වසරේ තමයි එකම අවුරුද්ද විපක්ෂයේ මන්ත්‍රීවරුන්ට මුදල් නොලැබුණු එකම වර්ෂය බව හිටපු ජනාධිපති පාර්ලිමේන්තු මන්ත්‍රී මෛත්‍රීපාල සිරිසේන මහතා පොළොන්නරුවේදී පැවසිය.
+
+හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතාගේ ප්‍රධානත්වයෙන් සහ චීන ශ්‍රී ලංකා තානාපතිගේ ප්‍රධානත්වයෙන්පෙ පොළොන්නරුව ඕනෑගම සිංහරාජ ගම ප්‍රාථමික විද්‍යාලයේ අඩු ආදායම් ලාභී පවුල්වල පාසල් දරු දැරියන් දෙසිය පනස් දෙනෙකු සඳහා  පාවහන් ලබා ගැනීමට අවශ්‍ය වව්චර පත් බෙදා දීමේ අවස්ථාවට එක්වෙමින් හිටපු ජනාධිපතිවරයා ඒ බව පැවසීය.
+
+මෛත්‍රිපාල සිරිසේන ලක්දරු දිරිය පදනම මගින් මෙය සංවිධානය කර තිබූ අතර මෙහිදී තවදුරටත් අදහස් දැක්වූ ජනාධිපතිවරයා මෙසේද කීය
+
+...
+
+[Data](articles/846df17e.json)
 
 ---
 
@@ -2263,109 +2331,5 @@ It may have been in 1983 that Dilhan introduced me to Nissanka Wimalasuriya. My 
 [Data](articles/f1e178d6.json)
 
 [Extended Data](ext_articles/f1e178d6.ext.json)
-
----
-
-### Yuarraj has come to her
-
-*2024-03-16 22:49:10* · [`adalk`](https://www.ada.lk/sports/යුවරාජ්-දළඳා-වදින්න-ඇවිත්/9-408640) · `si`
-
-Yuvraj Singh, former Indian cricketer, is in Sri Lanka, visiting Dalada Maligawa in Kandy and seeking blessings from the Dawale.
-
-🟩
-
-Former Indian three-third cricketer cricketer, Yuvraj Singh is on tour of Sri Lanka these days. Accordingly, he had taken measures to the Dalada Maligawa, Kandy and the blessings of the Dawale.
-
-◼️
-
-[Data](articles/c8beeec0.json)
-
-[Extended Data](ext_articles/c8beeec0.ext.json)
-
----
-
-### Police chair transfer
-
-*2024-03-16 22:41:40* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-ලොකු-පුටු-මාරුවක්/11-408639) · `si`
-
-Eight Senior DIGs transferred to police headquarters under IGP Deshabandu's orders. Senior DIGs assigned to various provinces and roles.
-
-🟩
-
-Eight Senior DIGs have been transferred to a group of officials, police headquarters.
-
-IGP Deshabandu has ordered the implementation of the National Police Commission.
-
-Senior DIG WLAS. Priyantha Weerasuriya as Senior DIG in charge of the North Central Province
-
-Senior DIG Siyawa Meda Medawatte as a Training and High Training Senior DIG,
-
-Senior DIG RL Kodituwakku as Crime and Traffic Senior DIG,
-
-Senior DIG IGP MDRS. Damin and Auxiliary Services Senior DIG
-
-Senior DIG KPM. Gunaratne as Senior DIG in charge of the Western Province
-
-Senior DIG KVD Jayakanda Community Tourism and Investment Senior Deputy Inspector
-
-Senior DIG S.W.. Senaratne is as Senior DIG in charge of Southern Provincial Council,
-
-Senior DIG T.A DIG as Senior DIG in charge of the Northern Province,
-
-DIG NLC Sampath Kumara as DIG in charge of the Special Bureau of Special Bureau,
-
-SSP Anuruddha Bandaranayake, the officer in charge of Kandy
-
-Senior Superintendent of Police AGU Herath as the Officer in Kurunegala
-
-...
-
-[Data](articles/e5a283ba.json)
-
-[Extended Data](ext_articles/e5a283ba.ext.json)
-
----
-
-### Empowering Seniors: The Role of Geriatric Physiotherapy
-
-*2024-03-16 22:37:00* · [`islandlk`](http://island.lk/empowering-seniors-the-role-of-geriatric-physiotherapy/) · `en`
-
-As the global population continues to age, the demand for specialized healthcare services tailored to the needs of seniors is on the rise. Among these essential services, physiotherapy plays a pivotal role in promoting mobility, independence, and overall well-being among the elderly population. In this article, we explore the significance of geriatric physiotherapy and the tailored interventions it offers to enhance the quality of life for seniors.
-
-With advancements in healthcare and improvements in life expectancy, the world is witnessing a significant demographic shift characterized by an aging population. According to the World Health Organization (WHO), the number of people aged 60 years and older is expected to double by 2050, reaching over two billion individuals worldwide. As individuals age, they encounter a myriad of physical changes and health challenges that can impact their mobility, functional abilities, and overall quality of life.
-
-...
-
-[Data](articles/69df84fa.json)
-
-[Extended Data](ext_articles/69df84fa.ext.json)
-
----
-
-### Tax policy at the moment cannot change
-
-*2024-03-16 22:32:56* · [`adalk`](https://www.ada.lk/breaking_news/මේ-මොහොතේ-බදු-ප්‍රතිපත්තියේ-වෙනසක්-කරන්න-බෑ/11-408638) · `si`
-
-President Ranil Wickremesinghe announced relief measures for the gem and jewelry industry, emphasizing the need for a proposal to address tax policy issues within two weeks. He also highlighted the importance of exports and value collections, and plans to survey gem and mining businesses across Sri Lanka.
-
-🟩
-
-President Ranil Wickremesinghe said that action will be taken to provide relief to the fields of the gem and jewelery industry.
-
-The President said that the tax policy could not change the gem and jewelery industry, the official instructed officials to provide a proposal to solve these issues within two weeks.
-
-President Ranil Wickremesinghe made this statement at the Presidential Secretariat yesterday (15th) with those engaged in the gem and jewelery field.
-
-There was a lengthy discussion of other related issues, including issues of the government's new tax policies, including the government's new tax policies, which have affected the gem and jewelery industry.
-
-Speaking further, President Ranil Wickremesinghe said he should pay attention to exports and value collections.
-
-The President also said that the Sabaragamuwa Province and Nuwara Eliya districts are planned to commence the minery businesses in the area.
-
-...
-
-[Data](articles/92a2d54c.json)
-
-[Extended Data](ext_articles/92a2d54c.ext.json)
 
 ---

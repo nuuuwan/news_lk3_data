@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 23:51:54**
+As of **2024-03-18 00:02:57**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,455 (100.0%) of 13,457 articles have been extended.
+13,457 (100.0%) of 13,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### எல்லை தாண்டி வந்து மீன்பிடித்த குற்றச்சாட்டின் கீழ் 21 இந்திய மீனவர்களும் விளக்கமறியலில்!
+### 21 Indian fishermen in the case of crossing the border
 
 *2024-03-17 23:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/178964) · `ta`
 
-எல்லை தாண்டி வந்து மீன்பிடியில் ஈடுபட்ட குற்றச்சாட்டில் கைது செய்யப்பட்ட 21 இந்திய மீனவர்களையும் எதிர்வரும் 27ஆம் திகதிவரை விளக்கமறியலில் வைக்குமாறு ஊர்காவற்துறை நீதிமன்ற நீதிவான் உத்தரவிட்டார்.
+21 Indian fishermen arrested for crossing the border by the Sri Lankan navy in the Neduntivu Sea were detained by the Kayts Court Magistrate until the 27th.
 
-எல்லை தாண்டி வந்து இலங்கை கடற்பரப்பினுள் மீன்பிடி நடவடிக்கைகளில் ஈடுபட்ட இராமேஸ்வரம் பகுதியைச் சேர்ந்த 21 மீனவர்கள் 2 படகுகளுடன் கைது செய்யப்பட்டனர்.
+🟩
 
-நெடுந்தீவு கடற்பரப்பில் வைத்து இலங்கை கடற்படையினரால் இந்த கைது நடவடிக்கை முன்னெடுக்கப்பட்டது. கைது செய்யப்பட்ட மீனவர்கள் நீரியல்வள திணைக்களத்திடம் ஒப்படைக்கப்பட்டனர்.
+The Kayts Court Magistrate has ordered the detention of 21 Indian fishermen who were arrested on charges of crossing the border.
 
-பின்னர் நீரியல்வள திணைக்களத்தினர் அவர்களுக்கு எதிராக ஊர்காவற்துறை நீதிமன்றத்தில் வழக்கு தாக்கல் செய்தனர். இந்நிலையில் அவர்கள் அனைவரையும் எதிர்வரும் 27ஆம் திகதிவரை விளக்கமறியலில் வைக்குமாறு நீதிவான் உத்தரவிட்டார்.
+21 fishermen from Rameswaram area were arrested with 2 boats to cross the border and engage in fishing activities within the Sri Lankan waters.
+
+The arrest was carried out by the Sri Lankan navy in the Neduntivu Sea. The arrested fishermen were handed over to the Department of Aquatic Resources.
+
+The Department of Aquatic Resources then filed a case against the Kayts Court against them. In this case, the magistrate ordered all of them to be remanded until the 27th.
 
 ◼️
 
 [Data](articles/df764f2e.json)
+
+[Extended Data](ext_articles/df764f2e.ext.json)
 
 ---
 
@@ -1015,6 +1021,8 @@ However some infrastructure developments, including a transmission line has to b
 ...
 
 [Data](articles/f313f830.json)
+
+[Extended Data](ext_articles/f313f830.ext.json)
 
 ---
 

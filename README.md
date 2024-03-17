@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 06:18:56**
+As of **2024-03-17 06:56:51**
 
 ## Newspaper Stats
 
-*Scraped **13,316** Articles*
+*Scraped **13,318** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 186
 newsfirstlk | 363
 dailyftlk | 699
 economynextcom | 710
-islandlk | 720
+islandlk | 722
 adalk | 1,136
 adaderanalk | 1,610
 tamilmirrorlk | 1,621
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,104
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,316 (100.0%) of 13,316 articles have been extended.
+13,316 (100.0%) of 13,318 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### PickMe grows gig economy with women drivers in the lead
+
+*2024-03-17 04:07:00* · [`islandlk`](http://island.lk/pickme-grows-gig-economy-with-women-drivers-in-the-lead/) · `en`
+
+With over a 1,000 women drivers and riders on the PickMe network, the App based mobility solutions provider says, there is a steady growth in the sector.  According to the company, women engaging on their platform doubled in 2023 as opposed to the previous year and is continuing to rise, a company news release said.
+
+Apart from the ride hailing sector, the company is also providing opportunities for women entrepreneurs on their  PickMe Food and Market platform and already there are more than 100 women merchants operating on it.  PickMe says flexi hours the gig solution offers  is a key factor for women joining their network.
+
+“We are welcoming this growth as diversity is important not merely for equal opportunity between genders, but also because women driver and rider partners bring value addition to our services,” says Tasnim Salie, Head of Corporate Finance at PickMe.  She says the company is looking at attracting more women drivers onto its ride hailing platform.
+
+...
+
+[Data](articles/d48c20a3.json)
+
+---
 
 ### Transfer to 18 police officers
 
@@ -2363,29 +2379,5 @@ Senior Superintendent of Police of the Criminal Investigation Department. P.A. M
 [Data](articles/8b474553.json)
 
 [Extended Data](ext_articles/8b474553.ext.json)
-
----
-
-### A candidate for the presidential election?
-
-*2024-03-16 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194558) · `si`
-
-Mahinda Rajapaksa predicts Sri Lanka Crown Front's defeat in future presidential election, without naming the candidate.
-
-🟩
-
-Former President Mahinda Rajapaksa says that the Sri Lankan General Front is scheduled to be tabled in the Sri Lanka Campaign Candidation for the presidential election.
-
-He was responding to a few questions posed by journalists after a function held yesterday (15).
-
-He said that the Sri Lanka Crown Front will be overcome in the future.
-
-However, former President Mahinda Rajapaksa further stated that the candidate has not been named.
-
-◼️
-
-[Data](articles/086250da.json)
-
-[Extended Data](ext_articles/086250da.ext.json)
 
 ---

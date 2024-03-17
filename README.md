@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 09:18:05**
+As of **2024-03-17 09:33:25**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,109
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,345 (100.0%) of 13,346 articles have been extended.
+13,346 (100.0%) of 13,346 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### දුම්රියේ ගැටී පුද්ගලයෙක් මරුට
+### Man hit and killed by train
 
 *2024-03-17 08:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194589) · `si`
 
-මීරිගම පොලිස් වසමේ විල්වත්ත හා අඹේපුස්ස දුම්රිය ස්ථාන අතරදී දුම්රියේ ගැටී පුද්ගලයෙකු මියගොස් තිබේ.
+A 62-year-old man was hit and killed by a train between Wilwatta and Ambepussa railway stations in Mirigama. The incident occurred when the victim collided with Rambukkana from Colombo yesterday morning. The victim's identity has not been confirmed.
 
-මරණකරු ඊයේ (16) උදෑසන කොළඹ සිට රඹුක්න බලා ධාවනය වූ දුම්රියේ ගැටී ඇත.
+🟩
 
-එලෙස මියගොස් ඇති පුද්ගලයා වයස අවුරුදු 62ක් පමණ වන අතර ඔහුගේ අනන්‍යතාවය මෙතෙක් තහවුරුවී නොමැති බව පොලීසිය පවසයි.
+A person was killed and killed by the train between Wilwatta and Ambepussa railway stations, Mirigama.
+
+The deceased has collided with Rambukkana from Colombo yesterday morning.
+
+The victim is about 62 years and his identity has not been proof.
 
 ◼️
 
 [Data](articles/6198e8ae.json)
+
+[Extended Data](ext_articles/6198e8ae.ext.json)
 
 ---
 

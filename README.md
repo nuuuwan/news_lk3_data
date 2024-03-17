@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 11:33:22**
+As of **2024-03-17 11:52:14**
 
 ## Newspaper Stats
 
-*Scraped **13,362** Articles*
+*Scraped **13,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 149
 dbsjeyarajcom | 187
 newsfirstlk | 363
 dailyftlk | 699
-economynextcom | 710
+economynextcom | 712
 islandlk | 735
 adalk | 1,140
 adaderanalk | 1,614
 tamilmirrorlk | 1,630
-virakesarilk | 1,855
+virakesarilk | 1,856
 dailymirrorlk | 2,043
 adaderanasinhalalk | 2,113
 
@@ -26,65 +26,123 @@ adaderanasinhalalk | 2,113
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,359 (100.0%) of 13,362 articles have been extended.
+13,362 (100.0%) of 13,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### அரசாங்கம் 1500 பக்க ஆவணங்களை மறைத்து விட்டது -  மர்ம லொறியொன்றை சோதனையிட வேண்டாம் என  தற்போதைய பொலிஸ்மா அதிபர் உத்தரவிட்டார் - கர்தினால் மல்கம் ரஞ்சித் புதிய குற்றச்சாட்டு
+### நான் தோற்றால் இரத்தக்களறி - டிரம்ப்
+
+*2024-03-17 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/178924) · `ta`
+
+2024 ஜனாதிபதி தேர்தலில் நான் தோற்றால் அது இரத்தக்களறியை ஏற்படுத்தும் என  முன்னாள் அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் சர்ச்சை கருத்தினை வெளியிட்டுள்ளார்.
+
+அமெரிக்காவிற்கு வெளியே தயாரிக்கப்பட்ட கார்களிற்கு 100 வீத வரியை விதிப்போம் என தெரிவித்துள்ள டிரம்ப் நான் தெரிவு செய்யப்பட்டால் அந்த வெளிநாட்டு கார்களை விற்கமுடியாத நிலையேற்படும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+இதேவேளை டிரம்பின் இந்த கருத்து அவர் மற்றுமொரு ஜனவரி ஆறாம் திகதியை விரும்புகின்றார் என்பதை வெளிப்படுத்தியுள்ளது என ஜனாதிபதி ஜோ பைடனின் பிரச்சார பிரிவின் பேச்சாளர் ஜேம்ஸ் சிங்கெர் தெரிவித்துள்ளார்.
+
+அமெரி;க்க மக்கள் டிரம்பின் தீவிரபோக்கினை தொடர்ந்து நிராகரித்துவருவதால் நவம்பர் தேர்தலில் அவர்கள் அவரை நிராகரிக்கப்போகின்றனர் எனவும் குறிப்பிட்டுள்ள அவர் அமெரிக்க மக்கள் அவரின் வன்முறை மீதான விருப்பம் பழிவாங்கும் குணம் ஆகியவற்றை நிராகரிக்கின்றனர் எனவும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/8b21ebc6.json)
+
+---
+
+### The government has hidden 1500 -page documents - the current police chief has ordered not to check a mystery lorry - Cardinal Malcolm Ranjith's new allegation
 
 *2024-03-17 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/178922) · `ta`
 
-அரசாங்கம்  திருச்சபைக்கு வழங்கிய உயிர்த்த ஞாயிறுதாக்குதல் குறித்த ஜனாதிபதி ஆணைக்குழுவின் அறிக்கையில் முக்கியமான 1500 பக்கங்கள் காணப்படவில்லை என கர்தினால் மல்கம் ரஞ்சித் தெரிவித்துள்ளார்.
+Cardinal Malcolm Ranjith alleges the government withheld 1500-page documents, including key witnesses' statements, and issued misleading reports on the President's Commission's findings. He criticizes the government for not fully investigating the attack and accuses it of trying to sacrifice 23 Muslims. Azad Moulana, involved in the investigation, confirms his involvement and the release of the Army Investigation Division head and Jahran Qasim Group leader.
 
-அரசாங்கம் ஆறு சிடிக்களில் ஜனாதிபதி ஆணைக்குழுவின் அறிக்கையை வழங்கியது நாங்களும் சட்டத்தரணிகளும் அதனை ஆராய்ந்தோம் 70,000 பக்கங்கள் உள்ளன எனினும் அரசாங்கம் 1500 பக்கங்களை எங்களுக்கு வழங்கவில்லை என கர்தினால் மல்கம் ரஞ்சித் தெரிவித்துள்ளார்.
+🟩
 
-ஜஹ்ரான் ஹாசிமின் மனைவி மற்றும் சாரா ஜெஸ்மின் போன்ற முக்கிய சாட்சியங்களினால் வழங்கப்பட்ட வாக்குறுதிகள் அடங்கிய ஆவணங்களையே அரசாங்கம் எங்களிடம் வழங்காமல் தான் வைத்துள்ளது எனவும் அவர் தெரிவித்துள்ளார்.
+Cardinal Malcolm Ranjith said that the President's Commission's report on the Sunday Sunday's report to the Church has not been found in 1500 pages.
 
-தற்கொலை தாக்குதலில் ஈடுபட்ட குழுவினருடன் நெருங்கிய தொடர்பிலிருந்தவர் என கூறப்படும் ஜாரா ஜஸ்மின் வழங்கிய வாக்குமூலம் குறித்த அறிக்கைகளை அரசாங்கம் எங்களிற்கு வழங்கவில்லை என கர்தினால் மல்கம் ரஞ்சித் தெரிவித்துள்ளார்.
+The government presented the report of the Presidential Commission on six CDs. We and the lawyers examined it.
+
+He added that the government has not given us the documents of the promises made by key witnesses such as Zahran Hazim's wife and Sarah Jessmine.
+
+Cardinal Malcolm Ranjith has said that the government did not give us reports on the affidavit made by Zara Jasmin, who is alleged to be closely associated with a suicide attack.
+
+He also told the media that Cardinal had issued a full report after the government had issued a six -dimension after we wrote several letters that the Presidential Commission's report on the resurrection should be fully issued.
 
 ...
 
 [Data](articles/ccb3c9e3.json)
 
+[Extended Data](ext_articles/ccb3c9e3.ext.json)
+
 ---
 
-### கடற்கரையை சுத்தமாக வைத்திருக்க புதிய செயலி
+### New processor to keep the beach clean
 
 *2024-03-17 11:11:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்கரையை-சுத்தமாக-வைத்திருக்க-புதிய-செயலி/175-334786) · `ta`
 
-கடற்கரைகளில் கழிவு முகாமைத்துவத்திற்கு பயன்படுத்தக்கூடிய கைபேசி செயலி (Beach Cleanup Coordination APP) அறிமுகம் தொடர்பான கலந்துரையாடல் தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க தலைமையில் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+The introduction of the Beach Cleanup Coordination APP was discussed at the President's Office, led by Sagala Ratnayake. The app, supported by the Maritime Environmental Protection Authority, aims to integrate companies and organizations for coastal and maritime environmental sustainability. Ratnayake emphasized the importance of maintaining sea and coastal purity and expanding educational programs on coastal cleanliness. The Maritime Environmental Protection Authority highlighted the challenges of waste management and the involvement of various institutions in cleanup efforts.
 
-கடலோர மற்றும் கடல்சார் சூழலின் நிலையான வளர்ச்சியில் ஈடுபட்டுள்ள நிறுவனங்கள் மற்றும் அமைப்புகளை முறையாக ஒருங்கிணைத்து, கடல்சார் சூழல் பாதுகாப்பு அதிகார சபையின் தலையீட்டுடன் இந்த கைபேசி செயலி அறிமுகப்படுத்தப்பட உள்ளது.
+🟩
 
-நிலைபேறான கடல் மற்றும் கரையோர வலயத்தை உறுதி செய்யும் பொறுப்பில் ஒப்படைக்கப்பட்டுள்ள அனைத்து நிறுவனங்களும் சமுத்திரம் மற்றும் கரையோரத்தின் தூய்மையைப் பேணுவதற்கு அர்ப்பணிப்புடன் செயற்பட வேண்டும் என சுட்டிக்காட்டிய சாகல ரத்நாயக்க, அந்த செயற்பாடுகளை இலகுபடுத்துவதற்கு இந்த புதிய செயலி உதவும் எனவும் குறிப்பிட்டார்.
+Discussion on the introduction of the Beach Cleanup Coordination APP on the beaches was held at the President's Office headed by Sagala Ratnayake, the President's Senior Advisor and President of the President, on the National Security.
+
+The handset processor is to be introduced with the intervention of the Maritime Environmental Protection Authority, formally integrating companies and organizations involved in the stable development of the coastal and maritime environment.
+
+Sagala Ratnayake pointed out that all companies entrusted with the responsibility of ensuring the sustainable sea and coastal zone should be committed to maintaining the purity of the sea and the coastal side, adding that the new processor will help to ease the activities.
 
 ...
 
 [Data](articles/165ac2f9.json)
 
+[Extended Data](ext_articles/165ac2f9.ext.json)
+
 ---
 
-### දකුණු අයිස්ලන්තයට හදිසි තත්ත්වයක්
+### Pho Vietnam restaurant launches Banh Mi as Sri Lanka economy recovers
+
+*2024-03-17 11:10:00* · [`economynextcom`](https://economynext.com/pho-vietnam-restaurant-launches-banh-mi-as-sri-lanka-economy-recovers-154885/) · `en`
+
+ECONOMYNEXT – Pho Vietnam, Sri Lanka’s pioneer Vietnamese restaurant has launched Banh Mi, a fusion sandwich, which has gained worldwide acclaim, as the South Asian nation recovers from a currency crisis with a specialist chef flown down to train local staff.
+
+The restaurant has gone through tough times over the past five years with the Coronavirus pandemic which was immediately followed by an economic crisis.
+
+“There is a recovery in customers,” says Norah Phung, Founder Director of Pho Vietnam, which was founded in Colombo as the first Vietnamese restaurant in Sri Lanka in 2014.
+
+“There are more tourists and also expats. That is why I decided to launch this now.”
+
+Sri Lanka’s economy has expanded 4.5 percent in the December quarter, after turning positive in the third quarter, ending the slide as the currency stabilized and appreciated amid deflationary monetary policy, giving a stable foundation for businesses to operate and people to live.
+
+...
+
+[Data](articles/3f337bf5.json)
+
+---
+
+### South Iceland is urgent
 
 *2024-03-17 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194593) · `si`
 
-අයිස්ලන්තයේ Reykjanes අර්ධද්වීපයේ පිහිටි ගිනි කන්දක් නැවතත් විදාරණය වී තිබේ.
+South Iceland declared urgency due to Reykjales volcano's activity. Lava spreads, authorities directing to safety zones. Lava reported in western and southern parts, flowing from Eastern security wall. Volcano not inactive, affecting sea.
 
-මේ හේතුවෙන් දකුණු අයිස්ලන්තයට හදිසි තත්ත්වයක් ප්‍රකාශයට පත්කිරීමට රජය කටයුතු කර තිබුණි.
+🟩
 
-මෙම ගිනි කන්ද ගෙවුණු දෙසැම්බර් මාසයේ සිට වඩාත් සක්‍රීයව පැවති අතර එය ලාවා විහිදුවමින් සිටින බැවින් අවදානම් කලාපවල වාසය කරන පිරිස් ආරක්ෂිත ස්ථාන වෙත යොමුකිරීමට බලධාරීන් පියවර ගෙන තිබුණි.
+The Reykjales in Iceland has again wrote a volcano.
 
-ගිනි කන්දේ බටහිර සහ දකුණු ස්ථාන දෙකකින් ලාවා විදාරණය වෙමින් පවතින බව අයිස්ලන්ත මාධ්‍ය වාර්තා කර තිබුණි.
+As a result, the government had acted to declare urgency to South Iceland.
 
-එම ලාවා Grindavik නගරයේ නැගෙනහිර ආරක්ෂක තාප්පය දක්වාම ගලා විත් තිබෙනව බව වාර්තා වෙයි.
+The volcano was the most active since December, as it is spreading the lava, the authorities have taken steps to direct the risky zones to protective places.
 
-ගිනි කන්ද කඩිනමින් අක්‍රීය නොවුනහොත්, මුහුදු සීමාව දක්වාම ලාවා ගලායාමේ අවදානමක් ඇති බවද විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+The Icelandime media reported that Lava was widespread in two west and southern parts of the fire.
+
+It is reported that the lava Gritavikavik flows from the Eastern security wall.
+
+The fire has been reported that the volcano is not inactive to the sea, foreign media reports.
 
 ◼️
 
 [Data](articles/853d8564.json)
+
+[Extended Data](ext_articles/853d8564.ext.json)
 
 ---
 
@@ -633,6 +691,30 @@ The sea areas around the island are slightly rough to normal.
 [Data](articles/2000385f.json)
 
 [Extended Data](ext_articles/2000385f.ext.json)
+
+---
+
+### India’s Adani to build Sri Lanka transmission line with wind plants
+
+*2024-03-17 05:22:00* · [`economynextcom`](https://economynext.com/indias-adani-to-build-sri-lanka-transmission-line-with-wind-plants-154875/) · `en`
+
+ECONOMYNEXT – India’s Adani group will build a transmission line along with its two wind plants in Sri Lanka’s north, as state-run Ceylon Electricity Board remains cash strapped, Energy Minister Kanchana Wijesekera said.
+
+“The developer will have to do it,” Minister Wijesekera told reporters in Colombo last week. “They have the chance. When they build the plants, it (the power line) has to happen at the same time.
+
+“There is a question whether we can do it at the same time. Do we, the CEB have the money to invest for it?”
+
+The CEB was trying to cut down capital investments, to keep down the electricity bill, he explained.
+
+In the past there had also been very long delays in CEB transmission projects, he said.
+
+A 410kV line from Kilinocchi to New Habarana has to be built to evacuated power from the Adani plants. The cost and
+
+The CEB is expected to pay an annuity to the developer over a time. The cost and the payments which are being negotiated have not been made public as yet.
+
+...
+
+[Data](articles/3662ffb0.json)
 
 ---
 
@@ -2261,71 +2343,5 @@ Also, the Minister said that it is no longer productive to cultivate fallow padd
 [Data](articles/033b9807.json)
 
 [Extended Data](ext_articles/033b9807.ext.json)
-
----
-
-### Dermatologist because of severe warm weather
-
-*2024-03-16 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194568) · `si`
-
-Sri Lanka's severe weather conditions pose a risk of dermatitis. Experts warn of skin changes due to sun exposure and burns. Infections from food, sweat, and skin products can exacerbate conditions. Allergies may increase with warm weather, especially in children. Medical advice is advised against seeking pharmacy treatments for fungal infections, as they can worsen. It's unwise for children to learn to avoid sun exposure, as adults struggle with these conditions.
-
-🟩
-
-Heavy hostile weather conditions have been affected by Sri Lanka.
-
-This situation has been affected by all the country's districts and has been inaugurated in the Kurunegala, Ratnapura and Anuradhapura districts yesterday (15).
-
-Specialist doctors point out that there is a risk of dermark with such heavy weather conditions.
-
-The skin can cause some changes to the skin due to the skin of the sun and a nature of being burned.
-
-These infected conditions have been identified as a healthy quality of placing foods, which occur in the skin, and sweat due to sweetness due to whatever skin razzling, skin razor and sweat.
-
-Experts say that there is an increase in the existing allergic objectives of the present, and with warm weather.
-
-In particular, young children have a risk of this situation, and the medical advice is inevitable to seek medical advice.
-
-...
-
-[Data](articles/e36fa120.json)
-
-[Extended Data](ext_articles/e36fa120.ext.json)
-
----
-
-### Emergency call centre dedicated to Tamil-speaking people launched
-
-*2024-03-16 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97993/emergency-call-centre-dedicated-to-tamil-speaking-people-launched) · `en`
-
-An Emergency call centre dedicated to the Tamil-speaking community, especially in the North and the East, was launched in Vavuniya on Saturday (March 16).
-
-The police media division said the Tamil-speaking community can contact the call centre via hotline 107 to seek assistance of any sort.
-
-The hotline, introduced under the instructions of the President, was launched in Vavuniya by Public Security Minister Tiran Alles and Inspector General of Police (IGP) Deshabandu Tennakoon at the office of the Vavuniya Senior Superintendent of Police (SSP).
-
-◼️
-
-[Data](articles/2e784279.json)
-
-[Extended Data](ext_articles/2e784279.ext.json)
-
----
-
-### Police launch emergency call centre dedicated to Tamil-speaking people
-
-*2024-03-16 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/97993/police-launch-emergency-call-centre-dedicated-to-tamil-speaking-people) · `en`
-
-An Emergency call centre dedicated to the Tamil-speaking community, especially in the North and the East, was launched in Vavuniya on Saturday (March 16).
-
-The police media division said the Tamil-speaking community can contact the call centre via hotline 107 to seek assistance of any sort.
-
-The hotline, introduced under the instructions of the President, was launched in Vavuniya by Public Security Minister Tiran Alles and Inspector General of Police (IGP) Deshabandu Tennakoon at the office of the Vavuniya Senior Superintendent of Police (SSP).
-
-◼️
-
-[Data](articles/84b2e7fc.json)
-
-[Extended Data](ext_articles/84b2e7fc.ext.json)
 
 ---

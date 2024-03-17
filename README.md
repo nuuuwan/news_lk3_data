@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 08:17:44**
+As of **2024-03-17 08:33:19**
 
 ## Newspaper Stats
 
-*Scraped **13,338** Articles*
+*Scraped **13,340** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ economynextcom | 710
 islandlk | 735
 adalk | 1,137
 adaderanalk | 1,610
-tamilmirrorlk | 1,623
+tamilmirrorlk | 1,624
 virakesarilk | 1,853
 dailymirrorlk | 2,041
-adaderanasinhalalk | 2,107
+adaderanasinhalalk | 2,108
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,335 (100.0%) of 13,338 articles have been extended.
+13,338 (100.0%) of 13,340 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
+
+### වීසා නැතුව මැලේසියාවේ සිටි ශ්‍රී ලාංකිකයන් ඇතුළු 158ක් අත්අඩංගුවට
+
+*2024-03-17 08:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194588) · `si`
+
+වලංගු වීසා බලපත්‍ර නොමැතිව මැලේසියාවේ රැඳී සිටි ශ්‍රී ලාංකිකයින් ඇතුළු පුද්ගලයින් 158 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මැලේසියානු ආගමන විගමන දෙපාර්තමේන්තුව විසින් එරට මහල් නිවාස සංකීර්ණයක සිදුකළ විශේෂ පරීක්ෂාවකදී එම පිරිස අත්අඩංගුවට ගෙන ඇති බව වාර්තා වෙයි.
+
+එහිදී විදෙස් රටවල සිට පැමිණි පුද්ගලයින් 358 දෙනෙකු පරීක්ෂාවට ලක්කර ඇති අතර ඉන් පුද්ගලයින් 158 දෙනෙකුටම මැලේසියාවේ රැඳී සිටීම ස﻿ඳහා වලංගු වීසා බලපත්‍ර තිබී නොමැති බව සඳහන්ය.
+
+අත්අඩංගුවට ගත් පිරිස අතර පිරිමි පුද්ගලයින් 83 දෙනෙකු, කාන්තාවන් 54 දෙනෙකු, පිරිමි ළමුන් 08 දෙනෙකු සහ ගැහුණු ළමුන් තිදෙනෙකු සිටි බව මැලේසියානු ආගමන විගමන දෙපාර්තමේන්තුව සඳහන් කළේ‍ය.
+
+අත්අඩංගුවට ගත් පිරිස අතර ශ්‍රී ලාංකිකයින්ට අමතරව ඉන්දුනීසියාව, නේපාලය, මියන්මාරය, බංග්ලාදේශය, චීනය, පාකිස්තානය සහ වියට්නාමය යන රටවල පුද්ගලයින් සිටින බව සඳහන්ය.
+
+ඔවුන්ගෙන් වැඩි දෙනෙකු සංචාරක වීසා මත එරටට පැමිණ මහල් නිවාස කුලියට ගෙන විවිධ රැකියාවල නිරත වෙමින් සිට ඇති බව වාර්තා වෙයි.
+
+...
+
+[Data](articles/aeae9a7d.json)
+
+---
 
 ### The late story of the stirring shot of the pitigala
 
@@ -201,6 +223,26 @@ The average person does not give sufficient, or worse still, any thought to the 
 [Data](articles/deb96e52.json)
 
 [Extended Data](ext_articles/deb96e52.ext.json)
+
+---
+
+### ’இரத்தினக்கல் தொழிற்துறை பிரச்சினைக்கு தீர்வு’
+
+*2024-03-17 02:19:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினக்கல்-தொழிற்துறை-பிரச்சினைக்கு-தீர்வு/175-334780) · `ta`
+
+இரத்தினக்கல் மற்றும் ஆபரண தொழில் தொடர்பில் எழுந்துள்ள பிரச்சினைகளுக்குத் தீர்வுகளை வழங்குவதன் மூலம் அத்துறையில் ஈடுபட்டுள்ளவர்களுக்கு நிவாரணம் வழங்கப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+வரிக் கொள்கையில் தற்போதைக்கு மாற்றத்தை ஏற்படுத்த முடியாது எனவும், ஆனால் இரத்தினக்கல் மற்றும் ஆபரணத் தொழிலை வலுப்படுத்துவதற்கு பொருத்தமான முறைமையொன்று தயாரிக்கப்படும் எனவும்  ஜனாதிபதி தெரிவித்துள்ளார்.
+
+அரச மற்றும் தனியார் துறையினரின் பங்களிப்புடன் இந்தப் பிரச்சினைகளுக்குத் தீர்வு காண்பதற்கான முன்மொழிவுகளைத் தயாரித்து இரண்டு வாரங்களுக்குள் வழங்குமாறு அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளார்.
+
+இரத்தினக்கல் மற்றும் ஆபரணத் தொழிலில் ஈடுபட்டுள்ளவர்களுடன் நேற்று முன்தினம் பிற்பகல் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற கலந்துரையாடலின் போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க இவ்வாறு குறிப்பிட்டுள்ளார்.
+
+அரசாங்கத்தின் புதிய வரிக் கொள்கைகள், இரத்தினக்கல் மற்றும் ஆபரணத் தொழிலைப் பாதித்துள்ள பிரச்சினைகள் மற்றும் தொழில் தொடர்பான ஏனைய விடயங்கள் தொடர்பில் இதன்போது விரிவாக ஆராயப்பட்டது. (a)
+
+◼️
+
+[Data](articles/cbe9e9f5.json)
 
 ---
 
@@ -1882,6 +1924,8 @@ It was not immediately clear how many stores were affected globally.
 
 [Data](articles/330a0e22.json)
 
+[Extended Data](ext_articles/330a0e22.ext.json)
+
 ---
 
 ### President updated on challenges faced by the gem and jewellery industry
@@ -1899,6 +1943,8 @@ Related Topics:gem and jewellery industrygovernment’s new tax policiesPresiden
 ...
 
 [Data](articles/5d2183c2.json)
+
+[Extended Data](ext_articles/5d2183c2.ext.json)
 
 ---
 
@@ -2249,57 +2295,5 @@ If any political party does not come forward to support those policies, they wil
 [Data](articles/b8590bcb.json)
 
 [Extended Data](ext_articles/b8590bcb.ext.json)
-
----
-
-### Yall. Vaddukoddai youth murder;Human Rights Commission started investigations into the activities of the Navy
-
-*2024-03-16 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/178844) · `ta`
-
-The Human Rights Commission of Sri Lanka's Jaffna Regional Office has begun an investigation into the Navy's involvement in the murder of Tawachelvam Pavitran, a 23-year-old from Vaddukoddai. Pavitran was abducted and killed by a family group. The investigation follows reports of the Navy's involvement in the incident, including the use of weapons and the abduction of Pavitran and his wife.
-
-🟩
-
-The Jaffna Regional Office of the Human Rights Commission of Sri Lanka has launched its inquiry on Friday (15) in connection with the activities of the Navy in connection with the murder of a young family member of Vaddukoddai in Jaffna.
-
-Tawachelvam Pavitran (age 23) from Vaddukoddai - Mavadi area was abducted and murdered by a family group.
-
-The Jaffna Regional Office of the Human Rights Commission of Sri Lanka has launched its own proposal on the news and videos of the Sri Lanka Human Rights Commission in connection with the incident.
-
-While the murdered family and his wife were traveling from Karainagar to Vaddukoddai - Mavadi, some of the weapons in two cars near the Ponnalai Naval Base.
-
-Both escaped and logged in into the naval camp. In this case, the Marines chased them out. When they came out, the team went from there to load his wife in a car and the person in the next car.
-
-...
-
-[Data](articles/fdf841e2.json)
-
-[Extended Data](ext_articles/fdf841e2.ext.json)
-
----
-
-### Death on the mountain of Sivanolipada person in Wellawatte
-
-*2024-03-16 11:01:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வெள்ளவத்தை-நபர்-சிவனொளிபாத-மலையில்-மரணம்/76-334743) · `ta`
-
-Narayanan Sabu, 73, from Wellawatte, died on Sivanolipada hill. Relatives were at Maskeliya District Hospital. Body will be tested at Tikoya-Klangan Base Hospital.
-
-🟩
-
-Hatton- Nallathani was on his way to the Sivanolipada hill to visit the hill.
-
-Narayanan Sabu, a 73 -year -old Narayanan Sabu, who lives on Perakumba Road, Wellawatte, Colombo 06, has died.
-
-His relatives were admitted to the Maskeliya District Hospital, but he died at 12.35 pm on 15.03.2024, Maskeliya Hospital said.
-
-The body is to be carried out at the Silk Hospital to take her body to the Tikoya-Klangan Base Hospital for a body test.
-
-It is noteworthy that the Sivanoli Padamalai has died since the beginning of the Sivanolipadamalai season.
-
-◼️
-
-[Data](articles/85495b83.json)
-
-[Extended Data](ext_articles/85495b83.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 23:02:53**
+As of **2024-03-17 23:17:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,453 (100.0%) of 13,455 articles have been extended.
+13,455 (100.0%) of 13,455 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -172,6 +172,8 @@ In a post on social media platform X, Stalin alleged that the Indian Prime Minis
 
 [Data](articles/47fb5f21.json)
 
+[Extended Data](ext_articles/47fb5f21.ext.json)
+
 ---
 
 ### Sri Lanka and Bangladesh face off in crucial ODI decider
@@ -258,21 +260,29 @@ An investigation into the accident was under way, said Qadratullah, a traffic of
 
 ---
 
-### வாக்கெடுப்பு நேரத்தில் தாவலுக்கு வாய்ப்பு?
+### Opportunity for tab in the referendum?
 
 *2024-03-17 20:40:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்கெடுப்பு-நேரத்தில்-தாவலுக்கு-வாய்ப்பு/175-334819) · `ta`
 
-சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவுக்கு எதிராக எதிர்க்கட்சிகள் முன்வைத்துள்ள நம்பிக்கையில்லாப் பிரேரணையை வெற்றி கொள்வதற்காக பாராளுமன்ற உறுப்பினர்களின் ஆதரவைப் பெறுவதற்கு எதிர்க்கட்சிகளும்  ஆளும் தரப்பும் இந்த நாட்களில் இரகசிய பேச்சுவார்த்தைகளை ஆரம்பித்துள்ளதாக அரசியல் வட்டாரங்களில் இருந்து அறியமுடிகிறது.
+Opposition and ruling parties are secretly negotiating to gain MPs' support for a no-confidence motion against Speaker Mahinda Yapa Abeywardena. The goal is to sway MPs during the referendum. Many MPs are abstaining from voting. If the motion succeeds, leaders plan to use it for election propaganda. A debate on the motion is scheduled for the 19th and 20th, with the referendum at 4.30 pm on the 20th.
 
-அரசாங்க மற்றும் எதிர்க்கட்சியின் நான்கு முக்கிய அரசியல்வாதிகளின் வீடுகளில் இந்த கலந்துரையாடல் இடம்பெற்றுள்ளது வாக்கெடுப்பின்போது எம்.பி.க்களை தங்கள் பக்கம் அழைப்பதுதான் ஆளுங்கட்சியின் எதிர்க்கட்சிகளின் முக்கிய குறிக்கோளாகும்.
+🟩
 
-இதற்கிடையில்? பல எம்.பி.க்கள் வாக்களிப்பதில் இருந்து விலகி இருக்க முடிவு செய்துள்ளதாகவும் அதே வட்டாரங்கள் குறிப்பிட்டுள்ளன.
+Political circles are known that the opposition parties and the ruling party have begun secret talks in this day to win the support of MPs to win the no -confidence motion by the opposition parties against Speaker Mahinda Yapa Abeywardena.
 
-நம்பிக்கையில்லாப் பிரேரணையின் முடிவு தமக்கு சாதகமாக அமையும் பட்சத்தில், எதிர்வரும் தேர்தலில் அதனை பிரசாரக் கருவியாகப் பயன்படுத்திக்கொள்ளலாம் என அரசாங்க மற்றும் எதிர்க்கட்சித் தலைவர்கள் பலரும் தமது பாராளுமன்ற உறுப்பினர்களை ஊக்குவித்துள்ளதாக
+The main objective of the opposition parties of the ruling party is to invite MPs to their side during the referendum.
 
-...
+In the meantime?Many MPs have decided to stay away from voting, according to the same sources.
+
+If the decision of the no -confidence motion is favorable, many government and opposition leaders have encouraged their MPs to use it as a propaganda tool in the upcoming election.
+
+The Parliamentary Affairs Committee has decided to hold a debate on the 19th and 20th of this month on the no -confidence motion against the Speaker. The referendum on the no -confidence motion will be held at 4.30 pm on the 20th. Remble
+
+◼️
 
 [Data](articles/5cdfcd84.json)
+
+[Extended Data](ext_articles/5cdfcd84.ext.json)
 
 ---
 

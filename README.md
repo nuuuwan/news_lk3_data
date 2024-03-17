@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-17 20:02:57**
+As of **2024-03-17 20:17:54**
 
 ## Newspaper Stats
 
-*Scraped **13,430** Articles*
+*Scraped **13,431** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 712
 islandlk | 735
 adalk | 1,153
 adaderanalk | 1,622
-tamilmirrorlk | 1,644
+tamilmirrorlk | 1,645
 virakesarilk | 1,860
 dailymirrorlk | 2,051
 adaderanasinhalalk | 2,130
@@ -26,29 +26,49 @@ adaderanasinhalalk | 2,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,427 (100.0%) of 13,430 articles have been extended.
+13,430 (100.0%) of 13,431 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-17 (Sunday)
 
-### பொதுத் தேர்தலுக்கு முன்னர் ஜனாதிபதித் தேர்தல்?
+### பாதாள தலைவர்களுக்கு பாஸ்போட் தயாரித்த இருவர் கைது
+
+*2024-03-17 19:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதாள-தலைவர்களுக்கு-பாஸ்போட்-தயாரித்த-இருவர்-கைது/175-334815) · `ta`
+
+பாதாள உலக  கோஷ்டி தலைவர்களுக்கு போலி கடவுச்சீட்டு தயாரித்ததாக சந்தேகத்தின் பேரில் பிரதி கட்டுப்பாட்டாளர் மற்றும் குடிவரவு குடியகழ்வு திணைக்களத்தின் முன்னாள் கட்டுப்பாட்டாளர் ஆகியோர் இன்று மாலை குற்றப்புலனாய்வு பிரிவினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+போலி கடவுச்சீட்டு தயாரித்ததாக கூறப்படும் சம்பவம் தொடர்பில் போதைப்பொருள் மற்றும் ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பலைச் சேர்ந்த இருவருக்கே இவ்வாறு போலி கடவுச்சீட்டு தயாரிக்கப்பட்டுள்ளமை கண்டறியப்பட்டுள்ளது
+
+◼️
+
+[Data](articles/7e34d670.json)
+
+---
+
+### The presidential election before the general election?
 
 *2024-03-17 19:41:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தலுக்கு-முன்னர்-ஜனாதிபதித்-தேர்தல்/175-334813) · `ta`
 
-பொதுத் தேர்தலுக்கு முன்னர் ஜனாதிபதித் தேர்தலை முதலில் நடத்துவது தொடர்பில் அரசாங்கத் தலைவர்கள் அதிக கவனம் செலுத்தி வருவதாக தெரிவிக்கப்பட்டுள்ளது.
+The government is prioritizing the presidential election over the general election, with ministers and opposition MPs joining forces. The first rally by the United National Party was in Kiliyapitiya, indicating a focus on announcing the election post-negotiations.
 
-இந்தக் கலந்துரையாடலில் ஜனாதிபதித் தேர்தலை நடத்துவதற்கு அதிக முன்னுரிமை வழங்கப்பட்டுள்ளதாக அரசாங்கத் தகவல்கள் தெரிவிக்கின்றன.
+🟩
 
-மக்கள் சக்தி உட்பட பல எதிர்க்கட்சி அரசியல் கட்சிகளின் சில பாராளுமன்ற உறுப்பினர்களை இணைத்துக்கொண்டு இந்த தருணத்தில் ஜனாதிபதி தேர்தலை எதிர்கொள்வதே சிறந்தது என பெரும்பாலானவர்கள் இந்த கலந்துரையாடலின் போது கருத்து வெளியிட்டதாக அமைச்சர் ஒருவர் தெரிவித்தார்.
+It is reported that government leaders are focusing on holding the presidential election before the general election.
 
-ஐக்கிய தேசியக் கட்சியின் முதலாவது பேரணி குளியாப்பிட்டியவில் அதற்காக ஏற்பாடு செய்யப்பட்டிருந்தமை தெரிந்ததே.
+Government sources say that the presidential election has been given more priority in the discussion.
 
-இது தொடர்பாக, எதிர்வரும் நாட்களில் மேலும் பல சுற்றுப் பேச்சுவார்த்தைகள் நடத்தப்பட உள்ளதாகவும், அந்த பேச்சுவார்த்தையின் பின்னர் தேர்தல் என்ன என்பதை துல்லியமாக அறிவிக்க அரசாங்கம் எதிர்பார்த்துள்ளதாகவும் அறியமுடிகின்றது. R
+During the discussion, a minister said that most of the people, including the power of the people, have joined some of the MPs of many opposition political parties, including the power of the people.
+
+It is known that the first rally of the United National Party was organized in Kiliyapitiya.
+
+In this regard, it is expected that the government is looking to accurately announce the election after the negotiations.. Remble
 
 ◼️
 
 [Data](articles/e16958e7.json)
+
+[Extended Data](ext_articles/e16958e7.ext.json)
 
 ---
 
@@ -65,6 +85,8 @@ The suspects have been arrested according to an investigation conducted under th
 ...
 
 [Data](articles/02555ac0.json)
+
+[Extended Data](ext_articles/02555ac0.ext.json)
 
 ---
 
@@ -112,9 +134,15 @@ The court issued this order based on a complaint made by Sri Lankan former crick
 
 *2024-03-17 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98015/deputy-controller-of-immigration-and-ex-dy-controller-arrested-for-providing-passports-to-underworld-figures) · `en`
 
-A Deputy Controller of Immigration & Emigration and a former Deputy Controller have been arrested by the CID for providing passports based on false information to underworld figures Nuresh Supun Dayaratne alias Hinatiyana Mahesh and Shan Arosh Liyanage alias Mathugama Shan, police said.
+A Deputy Controller of Immigration & Emigration and a former Deputy Controller have been arrested by the CID for providing passports based on false information to underworld figures Nuresh Supun Dayaratne alias “Heenatiyana Mahesh” and Shan Arosh Liyanage alias “Mathugama Shan”, police said today.
 
-◼️
+One of the two arrested suspects is to be produced before the Vavuniya Magistrate’s Court and the other suspect before the Kaduwela Magistrate’s Court.
+
+The suspects have been arrested based on an investigation conducted under the supervision of the DIG in charge of the Criminal Investigation Department (CID), Rohan Premaratne.
+
+Investigations have uncovered that the suspect, a Deputy Controller of the Immigration and Emigration Department, had provided Nuresh Supun Dayaratne alias “Heenatiyana Mahesh” with a fake passport prepared under a false name.
+
+...
 
 [Data](articles/9a250165.json)
 
@@ -713,6 +741,8 @@ She said this small group will not give up easily, adding that people of Sri Lan
 ...
 
 [Data](articles/45b0bf77.json)
+
+[Extended Data](ext_articles/45b0bf77.ext.json)
 
 ---
 
@@ -2323,31 +2353,5 @@ They were arrested by the navy while fishing in two boats inside the Jaffna and 
 [Data](articles/0538e007.json)
 
 [Extended Data](ext_articles/0538e007.ext.json)
-
----
-
-### The solution to the Gemstone Industrial Problem
-
-*2024-03-17 02:19:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினக்கல்-தொழிற்துறை-பிரச்சினைக்கு-தீர்வு/175-334780) · `ta`
-
-President Ranil Wickremesinghe announced relief for the gemstone and jewelry sector, promising a new tax policy and a system to strengthen the industry. He directed authorities to prepare proposals within two weeks, involving both state and private sectors.
-
-🟩
-
-President Ranil Wickremesinghe says relief will be provided to those involved in the sector by providing solutions to the problems that have arisen on gem and jewelery.
-
-The President said that tax policy cannot change the present, but a suitable system will be prepared to strengthen the gem and jewelery industry.
-
-He has directed the authorities to prepare proposals to address these issues with the participation of the state and private sector within two weeks.
-
-President Ranil Wickremesinghe made this statement during a discussion held at the Presidential Office yesterday afternoon with those involved in the Gemstone and Jewelery industry.
-
-The government's new tax policies, the issues affected by the gem and the jewelery industry, and other issues related to the industry have been examined in detail.. (A)
-
-◼️
-
-[Data](articles/cbe9e9f5.json)
-
-[Extended Data](ext_articles/cbe9e9f5.ext.json)
 
 ---

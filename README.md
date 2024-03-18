@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 09:52:02**
+As of **2024-03-18 10:02:51**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,144
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,513 (100.0%) of 13,515 articles have been extended.
+13,515 (100.0%) of 13,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### ரஷ்ய தேர்தல்; 5ஆவது முறையாகவும் அதிபரானார் விளாடிமிர் புதின்
+### Russian election;Vladimir Muthan became the 5th time
 
 *2024-03-18 09:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்ய-தேர்தல்-5ஆவது-முறையாகவும்-அதிபரானார்-விளாடிமிர்-புதின்/50-334824) · `ta`
 
-ரஷ்யாவில் நடந்த அதிபர் தேர்தலில் விளாடிமிர் புதின் 88% வாக்குகளைப் பெற்று மிகப் பெரிய வெற்றியைப் பெற்றுள்ளார். இதன் மூலம் அவர் மீண்டும் அதிபர் பதவியில் தொடர்வது உறுதியாகியுள்ளது.
+Vladimir Putin won 88% of the vote in Russia's presidential election, becoming the most powerful leader since Joseph Stalin.
 
-உலகிலேயே மிகப் பெரிய நாடாக இருப்பது ரஷ்யா.. இந்தியாவை விட பல மடங்கு பெரியதாக ரஷ்யா இருந்தாலும் அந்நாட்டின் மொத்த மக்கள் தொகை வெறும் 15 கோடி தான்.
+🟩
 
-1999இல் அதிகாரத்திற்கு வந்த புதின், ரஷ்யாவில் மிகவும் சக்திவாய்ந்த நபராக உருவெடுத்துள்ளார். ரஷ்யா மற்றும் சோவியத் ஒன்றியத்தில் கடந்த 200 ஆண்டுகளில் அதிக காலம் தலைவராக இருந்தவர்கள் பட்டியலில் ஜோசப் ஸ்டாலினை புதின் ஓவர்கேட் செய்துள்ளார்.
+Vladimir Putin has won 88% of the vote in the presidential election in Russia. This is determined to resume as chancellor.
 
-உக்ரைன் போருக்குப் பிறகு அங்கே நடக்கும் முதல் தேர்தலாக இது இருக்கும் நிலையில், புதின் மிகப் பெரிய வாக்கு வித்தியாசத்தில் வென்றுள்ளார். R
+Russia is the largest country in the world.. Although Russia is many times larger than India, the total population of the country is just 15 crores.
+
+Mint, who came to power in 1999, became the most powerful person in Russia. Joseph Stalin has overcatted the list of those who have been the leader of the long -term leader in Russia and the Soviet Union in the last 200 years.
+
+While this is the first election after Ukraine's war. Remble
 
 ◼️
 
 [Data](articles/a7734c95.json)
+
+[Extended Data](ext_articles/a7734c95.ext.json)
 
 ---
 
@@ -798,27 +804,35 @@ Tikiri Toys has become a notable brand in the US, Germany, and the UK and has a 
 
 ---
 
-### ඉහළ යන රිය අනතුරු නිසා රටේ ආර්ථිකයට ඇතිවන බලපෑම ගැන ඔබ දන්නවා ද?
+### Do you know the impact of the country's economy due to rising accidents?
 
 *2024-03-18 02:10:56* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz9zy0grg35o) · `si`
 
-ඉහළ යන රිය අනතුරු නිසා රටේ ආර්ථිකයට ඇතිවන බලපෑම ගැන ඔබ දන්නවා ද?
+Road accidents in Sri Lanka significantly impact the economy, with high death and injury rates. Prof. Dharmaratne, Chairman of the Sri Lanka Medical Association, states that accidents cost the country a significant portion of its GDP, affecting national development. The World Bank estimates that road accidents could cost Sri Lanka 3-5% of its GDP annually. The report also highlights the need for improved road safety measures to reduce accidents by 50%.
 
-"වේගය මරුවා කැඳවයි" යන කියමන මෙරට ජනතාව අතර නිරතුරුවම මුවඟ රැදෙන කියමනකි.
+🟩
 
-එහෙත් දිනෙන් දින මෙරට තුළ සිදුවන රිය අනතුරු නිසා සිදුවන පුද්ගල මරණ සහ තුවාලකරුවන් ගණන සංඛ්‍යාත්මකව ඉහළ යමින් තිබේ. ඒ අතුරින් සදාකාලික ආබාධිත තත්ත්වයට පත්වන පිරිසද ඉහළ අගයක් ගනී.
+Do you know the impact of the country's economy due to rising accidents?
 
-වාර්ෂිකව මෙරට තුළ සිදුවන රිය අනතුරු හේතුවෙන් පුද්ගලයින් අවම වශයෙන් 2,000 - 2,500ත් අතර පිරිසක් ජීවිතක්ෂයට පත්වේ.
+The claim that "speed is called" is a regular pretext among the people of this country.
 
-2019 වසරේ සිට 2023 වසර දක්වා සිදුවූ රිය අනතුරු වලින් මියගිය පුද්ගලයින් සංඛ්‍යාව 13,264ක් බව ප්‍රවාහන හා මහා මාර්ග අමාත්‍යාංශය සහ අධිකරණ අමාත්‍යාංශය විසින් නිකුත් කළ දත්ත ඔස්සේ අනාවරණය වේ.
+However, the number of deaths and injuries caused by road accidents in the country are increasingly higher. The eternal disability are high.
 
-එමෙන්ම එම කාල සීමාව තුළදී සිදුව තිබෙන බරපතල අනතුරු සංඛ්‍යාව 33,470ක් බව එම වාර්තා පෙන්වා දෙයි.
+Among the accidents due to accidents in Sri Lanka, a group of people killed in at least 2,000 and 2,500 people.
 
-ශ්‍රී ලංකා වෛද්‍ය සංගමයේ රිය අනතුරු වැළැක්වීම පිළිබඳව විද්වත් කමිටු සභාපති සහ පේරාදෙණිය විශ්ව විද්‍යාලයේ මහාචාර්ය සමත් ධර්මරත්න බීබීසී සිංහල වෙත අදහස් දක්වමින් පැවසුවේ මෙලෙස වාර්ෂිකව සිදුවන රිය අනතුරු නිසා රටේ ආර්ථිකයට විශාල බලපෑමක් එල්ල වන බව ය.
+The number of people killed from the road accident to the year 2019 to 2023, the Ministry of Transport and Highways revealed through the Ministry of Transport and Highways and the Ministry of Justice.
+
+The number of serious accidents occurred during that period, 33,470 serious accidents.
+
+Dharmaratne, Chairman of the Sri Lanka Medical Association and Professor of Experts, Professor of Experts from the University of Peradeniya, Professor of the Peradeniya was a major impact on the country's economy.
+
+He further stated that a large number of the annual GDP is lost due to accidents.
 
 ...
 
 [Data](articles/461def70.json)
+
+[Extended Data](ext_articles/461def70.ext.json)
 
 ---
 

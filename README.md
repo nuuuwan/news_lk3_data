@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 00:17:59**
+As of **2024-03-19 00:33:56**
 
 ## Newspaper Stats
 
-*Scraped **13,667** Articles*
+*Scraped **13,671** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 127
 bbccomsinhala | 151
 dbsjeyarajcom | 187
 newsfirstlk | 363
-dailyftlk | 713
+dailyftlk | 717
 economynextcom | 724
 islandlk | 746
 adalk | 1,179
@@ -26,29 +26,49 @@ adaderanasinhalalk | 2,173
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,666 (100.0%) of 13,667 articles have been extended.
+13,667 (100.0%) of 13,671 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### அரசாங்கம் வழங்கிய வாக்குறுதிகளில் பெரும்பாலானவை நிறைவேற்றப்பட்டுள்ளன - இராஜாங்க அமைச்சர் ஜானக வக்கும்புர
+### Most of the promises made by the government have been fulfilled - State Minister Janaka Wakumbura
 
 *2024-03-18 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/179075) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க உள்ளிட்ட அரசாங்கம் வழங்கிய வாக்குறுதிகளில் பெரும்பாலானவை தற்போது நிறைவேற்றப்பட்டுள்ளதாக மாகாண சபைகள், உள்ளூராட்சி மற்றும் சுற்றாடல் இராஜாங்க அமைச்சர் ஜானக வக்கும்புர தெரிவித்தார்.
+Janaka Wakumbura, State Minister for Local Government and Environment, announced that most government promises, including the construction of 162 bridges, have been fulfilled. These bridges will be completed before August and handed over to the public. Additionally, a project for local councils to develop tourism places will be completed by August's end, and most of the 29,000 multi-purpose development officers will receive permanent appointments. The country is recovering from a crisis, and efforts are being made to complete development work across all ministries.
 
-நிர்மாணிக்கப்பட்டு வரும் 162 பாலங்களின் பணிகள் எதிர்வரும் ஓகஸ்ட் மாதத்திற்கு முன்னர் பூர்த்தி செய்யப்பட்டு மக்களிடம் கையளிக்கப்படும் எனவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (18) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் ஜானக வக்கும்புர இதனைத் தெரிவித்தார்.
+Minister of State for Local Government and Environment, Janaka Wakumbura said that most of the promises made by the government, including President Ranil Wickremesinghe, have now been fulfilled.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க உள்ளிட்ட அரசாங்கம் வழங்கிய வாக்குறுதிகளில் பெரும்பாலானவற்றை நாங்கள் ஏற்கனவே நிறைவேற்றியுள்ளோம். 16,000 மில்லியன் செலவில் 162 பாலங்கள் நிர்மாணிக்கப்படும் என்று கூறினோம்.
+The Minister of State said that the work of the 162 bridges that are being constructed will be completed before the next August and handed over to the people.
 
-அந்தப் பாலங்களில் ஒரு பகுதியை ஏப்ரல் 10 ஆம் திகதிக்கு முன்னதாக பொதுமக்களிடம் ஒப்படைக்க தயாராக உள்ளோம். இதன்படி 162 பாலங்களும் எதிர்வரும் ஓகஸ்ட் மாதத்திற்கு முன்னர் மக்களிடம் கையளிக்கப்படும்.
+State Minister Janaka Wakumbura said this at a media briefing held at the Presidential Media Center on Monday (18).
+
+We have already fulfilled most of the government's promises made by President Ranil Wickremesinghe. We said 162 bridges will be constructed at a cost of 16,000 million.
+
+We are ready to hand over a part of those bridges to the public before April 10. Accordingly, 162 bridges will be handed over to the people before the upcoming August.
+
+In addition, the 1000 million rupee project provided to local councils to develop tourism places will be completed before the end of August.
 
 ...
 
 [Data](articles/314ec152.json)
+
+[Extended Data](ext_articles/314ec152.ext.json)
+
+---
+
+### MP Sarath Weerasekara dials wrong number over SLT privatisation
+
+*2024-03-18 23:27:07* · [`dailyftlk`](https://www.ft.lk/opinion/MP-Sarath-Weerasekara-dials-wrong-number-over-SLT-privatisation/14-759642) · `en`
+
+It was interesting to read the reply by MP Sarath Weerasekara (https://www.ft.lk/opinion/Right-of-Reply-Desperate-attempts-to-prevent-privatisation-of-SLT/14-759360 ) to the editorial which was published on 1 March under the heading  “Desperate attempts to prevent privatisation of SLT” ((https://www.ft.lk/ft_view__editorial/Desperate-attempts-to-prevent-privatisation-of-SLT/58-759011). Unfortunately Weerasekara’s Right of Reply contained numerous inaccuracies.
+
+...
+
+[Data](articles/10bf7509.json)
 
 ---
 
@@ -69,6 +89,52 @@ Sri Lanka has added fast bowler Lahiru Kumara to the squad, replacing the injure
 [Data](articles/3f850cb1.json)
 
 [Extended Data](ext_articles/3f850cb1.ext.json)
+
+---
+
+### Political parties good for democracy; but not cults, fiefdoms and extremists
+
+*2024-03-18 23:15:47* · [`dailyftlk`](https://www.ft.lk/columns/Political-parties-good-for-democracy-but-not-cults-fiefdoms-and-extremists/4-759636) · `en`
+
+Although there is growing public disillusionment with party politics in a democracy and a renewed cry for a different system of governance, the majority support for party politics remains
+
+Whilst there has been no grave damage to Sri Lanka’s democracy, to date, because of the activities of political parties, there are tell-tale signs of the emergence of cunning, ambitious and unprincipled men who are using party power in testing the limits of the Constitution. The voting citizens must be wary of such moves. Dissociation from cults of personality and fiefdoms is a must. Political parties are essential institutions of democracy
+
+The heading in the Daily Mirror of 18 March 2024, “Public Trust in Parliament and Political Parties Reaches All Time Low”, begs the question of the appropriateness, and efficacy, of political parties in democratic Sri Lanka. Further, the lack of consensus among political parties in most matters heightens these concerns.
+
+...
+
+[Data](articles/37e0516a.json)
+
+---
+
+### Three ways boards can drive data centricity
+
+*2024-03-18 23:00:28* · [`dailyftlk`](https://www.ft.lk/columns/Three-ways-boards-can-drive-data-centricity/4-759633) · `en`
+
+How do data-centric enterprises set themselves apart from their peers?
+
+Boards can help companies accelerate the shift toward the next generation of data and analytics for a competitive advantage
+
+Organisations are entering a new frontier of data and analytics, which will drive pivotal decisions, processes and interactions. Unsurprisingly, more than half (57%) of Asia-Pacific senior executives in the 2022 biannual EY study, Tech Horizon, identified data and analytics as their top investment priority in the next two years, up from 31% in 2020. What’s more, tech-enabled transformations in the region that exceed expectations are predicted to yield an average annual revenue growth of 6.2%, compared with 5.4% for transformations that fall short of expectations.
+
+...
+
+[Data](articles/0720727a.json)
+
+---
+
+### Mitigating climate-related sovereign risk to accelerate action on the climate emergency
+
+*2024-03-18 22:56:27* · [`dailyftlk`](https://www.ft.lk/opinion/Mitigating-climate-related-sovereign-risk-to-accelerate-action-on-the-climate-emergency/14-759632) · `en`
+
+https://www.asiapathways-adbi.org: Climate change poses a serious threat to the development of countries and can have material impacts on sovereign risk. Sovereign risk refers to the probability that a country may not be able to pay its debts. However, since the global financial crisis, interactions between fiscal balances, public and private debt, and the financial sector have proven to be very complex. Sovereign risk reflects this complexity.
+
+For example, the devastating floods in Pakistan in 2022 were caused by heavier-than-usual monsoon rains and faster melting of glaciers. They killed more than 1,700 people, left half a million homeless, and cost around $30 billion. The events led to Moody’s revising downward Pakistan’s sovereign credit rating by one notch, citing amplified liquidity and debt sustainability risks alongside falling foreign exchange reserves.
+
+...
+
+[Data](articles/ddece55d.json)
 
 ---
 
@@ -2253,95 +2319,5 @@ Colombo, March 18 (Daily Mirror)- Samagi Jana Balawegaya (SJB) MP Eran Wickramar
 [Data](articles/9bf50930.json)
 
 [Extended Data](ext_articles/9bf50930.ext.json)
-
----
-
-### Muttur protest demonstration demanding the release of the arrested
-
-*2024-03-18 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/179012) · `ta`
-
-A protest in Muttur demanded the release of arrested individuals and religious rights. A Mahajar was handed over to the Divisional Secretariat Officer.
-
-🟩
-
-A protest demonstration was held in Muttur today (18) demanding the release of the arrested persons and the right of religious worship.
-
-Muttur Divisional Secretariat was held in front of the Muttur Manukkuttu Tower. At the end of the struggle, a Mahajar was handed over to the Muttur Divisional Secretariat Officer.
-
-◼️
-
-[Data](articles/e38ba318.json)
-
-[Extended Data](ext_articles/e38ba318.ext.json)
-
----
-
-### Eran Wickramaratne steps down from COPE
-
-*2024-03-18 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98025/eran-wickramaratne-steps-down-from-cope) · `en`
-
-Samagi Jana Balawegaya (SJB) Parliamentarian Eran Wickramaratne has resigned from his position as a member of the Committee on Public Enterprises (COPE).
-
-Speaking at a press conference this morning (18), Wickramaratne stated that he has handed over the resignation letter to the Speaker of the Parliament.
-
-In his resignation letter, the SJB MP mentions that the duty of the Committee is to report to Parliament on accounts examined, budgets and estimates, financial procedures, performance and management of Corporations and other Government Business Undertakings.
-
-...
-
-[Data](articles/b2d568ee.json)
-
-[Extended Data](ext_articles/b2d568ee.ext.json)
-
----
-
-### Drug divided dealer arrested for Katunayake
-
-*2024-03-18 12:29:06* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකටම-මත්ද්‍රව්‍ය-බෙදූ-ජාවාරම්කරු-අල්ලයි/11-408674) · `si`
-
-A drug dealer was arrested in Katunayake, carrying 2kg Kerala Cannabis and 50 micro-electronic scales. He was a businessman running a restaurant in National Ela and Sunara, living a luxurious life in Ja-Canal. The operation was part of a "Justice" initiative in Sri Lanka. He's a leader in an organized crime network.
-
-🟩
-
-He has been arrested in a missionary personnel worth Rs.
-
-He was a businessman who was carrying out a restaurant in the National Ela and the Sunara area.
-
-He was speaking to him that he was a luxurious life of a flat in the Ja-Canal.
-
-Prior to the preliminary investigations have revealed that the new business has been launched by the bankruptcy in the area before the corona epidemic.
-
-The operation was implemented in a similar program with "Justice" operation in Sri Lanka.
-
-When he was arrested, he had two kilograms of Kerala Cannabis, 50 micro-electronic scales used to be meticted, the drug was sold in the sale of Rs.The police had been arrested by the police.
-
-He is currently the leader of the organized crime leader of the organized crime, criminal and drug delivery network in Sri Lanka.
-
-A few weeks ago, two drug addicts have been arrested and arrested for drug addicts, detained, detained.
-
-◼️
-
-[Data](articles/eb22d76a.json)
-
-[Extended Data](ext_articles/eb22d76a.ext.json)
-
----
-
-### Receipt due to "tip"
-
-*2024-03-18 12:25:36* · [`adalk`](https://www.ada.lk/breaking_news/“පස්ස“-නිසා-ගොඩගිය-රොයිස්ටර්/11-408673) · `si`
-
-"Vish Vedu, Ravi's song in 'Romeo' has 2.5M views on YouTube, making it popular among Indian fans."
-
-🟩
-
-Vish Vedu, Ravi Review Ravi Revi Roceter, Popularly reached the "Meek". Ravi Royrster has the opportunity for a song in the film 'Romeo' (Romeo), a latest film of King Vijay Anthony, India.
-
-This song is released via YouTube space called "Vethala '. It is still nearly 2.5 million sights today (18). The song is also getting around 10 million times in the Youtube space. It is also a popular song between Indian fans.
-
-◼️
-
-[Data](articles/b7047390.json)
-
-[Extended Data](ext_articles/b7047390.ext.json)
 
 ---

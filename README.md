@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 11:02:51**
+As of **2024-03-18 11:17:42**
 
 ## Newspaper Stats
 
-*Scraped **13,531** Articles*
+*Scraped **13,536** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,176 @@ newsfirstlk | 363
 dailyftlk | 713
 economynextcom | 713
 islandlk | 745
-adalk | 1,160
-adaderanalk | 1,631
+adalk | 1,161
+adaderanalk | 1,632
 tamilmirrorlk | 1,655
-virakesarilk | 1,879
-dailymirrorlk | 2,063
-adaderanasinhalalk | 2,145
+virakesarilk | 1,880
+dailymirrorlk | 2,064
+adaderanasinhalalk | 2,146
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,529 (100.0%) of 13,531 articles have been extended.
+13,531 (100.0%) of 13,536 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### ‘அக்கல’உண்ட மூவருக்கு ஆபத்து
+### Ballot boxes for Malvides’ elections to be placed in India, Sri Lanka
+
+*2024-03-18 11:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ballot-boxes-for-Malvides-elections-to-be-placed-in-India-Sri-Lanka/108-279058) · `en`
+
+The ballot boxes for Maldives’ upcoming parliamentary elections will be placed in India, Sri Lanka and Malaysia, after around 11,000 Maldivians submitted re-registration requests to relocate their polling stations, the country’s election commission announced on Sunday.
+
+The six-day window for people to relocate their voting stations for the April 21 parliamentary elections expired on Saturday, media reports said, citing an Elections Commission notification.
+
+The top electoral body said that ballot boxes for the island nation’s elections will also be placed in Trivandrum (Thiruvananthapuram), the capital of Kerala, Sri Lanka’s Colombo and Malaysia’s Kuala Lumpur after at least 150 people re-register to vote in each of the three countries.
+
+“As previously, enough people registered in Sri Lanka and Malaysia. And since 150 people had registered in Trivandrum, India, we have decided to set up a ballot box there,” web portal adadhu.com quoted EC’s secretary-general Hassan Zakariyya as saying.
+
+...
+
+[Data](articles/98415e99.json)
+
+---
+
+### ADB approves USD 100 million loan to support SMEs in Sri Lanka
+
+*2024-03-18 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98024/adb-approves-usd-100-million-loan-to-support-smes-in-sri-lanka) · `en`
+
+The Asian Development Bank (ADB) has approved a $100 million loan to provide small and medium-sized enterprises (SMEs) in Sri Lanka more access to finance and build their resilience to external shocks, such as the economic crisis and climate change.
+
+“SMEs play a critical role in Sri Lanka’s economy, contributing 52% to the country’s gross domestic product and employ 45% of the population,” said ADB Senior Financial Sector Specialist Manohari Gunawardhena. “It is therefore important to provide SMEs, particularly women-led enterprises, with the necessary support to sustain and grow the sector’s contribution to the economy. This project will provide working capital and improve SMEs’ access to finance, helping them expand operations and prepare for the changing environment.”
+
+...
+
+[Data](articles/e9776eed.json)
+
+---
+
+### දියේ ගිලී ජීවිත තුනක් අහිමි වෙයි
+
+*2024-03-18 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194628) · `si`
+
+ප්‍රදේශ තුනක දී පුද්ගලයින් තිදෙනෙකු දියේ ගිලී මියගොස් ඇති බව පොලීසිය පවසයි.
+
+ඊයේ (17) පස්වරුවේ ගිරිඋල්ල නගර මධ්‍යයේ ගලා බසින මාඔයේ ගිලී තරුණයෙකු අතුරුදන් ව තිබේ.
+
+පසුව තරුණයාගේ සිරුර මීගමුව පොලිස් ජීවිතාරක්ෂක ඒකකයේ නිලධාරීන් සහ ප්‍රදේශවාසීන් එක්ව සොයාගෙන ඇත.
+
+මෙම තරුණයා ඔහුගේ මිතුරන් කිහිපදදෙනෙකු සමග මාඔයේ දියනාමින් සිටින අතරවාරයේ මෙලෙස දියේ ගිලි ඇති බව පොලීසිය පවසයි.
+
+මේ අතර, ඊයේ උදෑසන පොතුවිල්, කඳහිදගම වැවේ මසුන් ඇල්ලීමට ගිය පුද්ගලයෙකු දියේ ගිලී මියගොස් තිබේ.
+
+එමෙන්ම යාපනය, නාවලර් පාර ප්‍ර දේශයේ ළිඳකට වැටීමෙන් කාන්තාවක් මියගොස් තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ 65 හැවිරිදි එම ප්‍රදේශයේම පදිංචිව සිටි කාන්තාවකි.
+
+මෙම කාන්තාව නිවසේ තනිවම ජීවත්ව ඇති අතර අසල්වාසීන් විසින් මෙම කාන්තාව පිළිබඳ සිදුකළ සොයා බැලීමක දී ඇයගේ නිවස අසල පිහිටි ළිඳේ තිබී ඇයගේ සිරුර සොයාගෙන ඇත.
+
+◼️
+
+[Data](articles/b371bd69.json)
+
+---
+
+### Sleep hanging in hospital
+
+*2024-03-18 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/178973) · `ta`
+
+A man named Chittambalam Baskaran, 61, from Irukkalai, died in a hospital on Sunday (18) after being found hanging in a neem tree. He was rescued by relatives at Kopay Hospital but died within hours without treatment. A sudden death investigation officer, A. Jayabalasingham, conducted the investigation.
+
+🟩
+
+He died on Sunday (18) when he was admitted to the hospital. The deceased was the man who died at the time of Chittambalam Baskaran (age 61) from the East of Irukkalai.
+
+The person hangs in the neem tree in front of the house on Sunday (18). Relatives rescued him at the Kopay Hospital.
+
+The person who was allowed there died in a few hours without treatment. A sudden death investigation officer A. Jayabalasingham carried out the deaths of his body.
+
+◼️
+
+[Data](articles/3eb194e5.json)
+
+[Extended Data](ext_articles/3eb194e5.ext.json)
+
+---
+
+### ஹெரோயின் போதைப்பொருளுடன்  ஒருவர்  கைது!
+
+*2024-03-18 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178989) · `ta`
+
+ஹோமாகம பொலிஸ் பிரிவுக்கு உட்பட்ட பெபிலிவெல வீதி பிரதேசத்தில் நேற்று (17) பொலிஸார் மேற்கொண்ட  சுற்றிவளைப்பின்   போது ஹெரோயின் போதைப் பொருளுடன் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+இவ்வாறு கைது செய்யப்பட்ட  சந்தேக நபர் பன்னிப்பிடிய பிரதேசத்தைச் சேர்ந்த 25 வயதுடையவராவார்.
+
+சந்தேக நபரிடமிருந்து  8 கிராம் 360 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் கைப்பற்றப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/83e31e7f.json)
+
+---
+
+### Three people are in danger
 
 *2024-03-18 10:46:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அக்கல-உண்ட-மூவருக்கு-ஆபத்து/175-334825) · `ta`
 
-உலர் அரிசியில் தயாரிக்கப்பட்ட அக்கல சாப்பிட்ட மூவர் கடுமையாக பாதிக்கப்பட்ட நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Three people from Meegahaguula Kanukola village, aged 14, 34, and 28, were hospitalized after consuming dried rice, coconut, and sugar tea, suffering from severe vomiting.
 
-மீகஹகிவுல கனுகொல்ல கிராமத்தைச் சேர்ந்த ஒரே குடும்பத்தைச் சேர்ந்த மூவரே இவ்வாறு பாதிக்கப்பட்டுள்ளனர்.  கோமரிக்க கனுகொல்ல கிராமத்தில் வசிக்கும் 14, 34 மற்றும் 28 வயதுடைய மூவரே இவ்வாறு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+🟩
 
-உலர்ந்த அரிசி, தேங்காய், சீனி போன்றவற்றைக் கொண்டு தயாரிக்கப்பட்ட அக்கலவை, ஞாயிற்றுக்கிழமை (17) மாலையில்   உட்கொண்டு தேநீர் அருந்தியுள்ளனர். அதன்பின்னர் அதிக வாந்தி எடுத்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Three people who have eaten in dry rice have been admitted to the hospital with severely affected.
+
+Three persons from the same family from Meegahaguula Kanukola village have been affected.Three, 34 and 28, aged 14, 34 and 28, who live in the village of Komrika Kanukkal, have been admitted to the hospital.
+
+Made with dried rice, coconut and sugar, they consumed tea on Sunday (17) evening.. They have since been admitted to the hospital with high vomiting.
 
 ◼️
 
 [Data](articles/7398d233.json)
+
+[Extended Data](ext_articles/7398d233.ext.json)
+
+---
+
+### සවලකින් සහ පොලු වලින් පොලිස් නිලධාරීන් හතරදෙනෙකුට පහරදීලා
+
+*2024-03-18 10:45:56* · [`adalk`](https://www.ada.lk/breaking_news/සවලකින්-සහ-පොලු-වලින්-පොලිස්-නිලධාරීන්-හතරදෙනෙකුට-පහරදීලා/11-408665) · `si`
+
+තණමල්විල-උඩවලව මාර්ගයේ දිවා රථවාහන කොමළිගම ප්‍රදේශයේ පොලිස් නිලධාරීන් දෙදෙනකු රථවාහන රාජකාරියේ යෙදී සිටියදී උඩවලව දෙසින් පැමිණි යතුරුපැදියකට නතර කරන ලෙස සංඥාකර ඇතත් පොලිස් අණනොතකා ඉදිරියටම ධාවනයකර තිබේ. පසුව පොලිස් නිලධාරීන් සිය යතුරුපැදියෙන් ඔවුන් ලුහුබැඳ ගොස් ඇති අතර ටික දුරක් යන විට අණනොතකා ධාවනයකළ යතුරුපැදිය පුද්ගලික ඉඩමකට ඇතුළුකොට නතරකර ඇත. පොලිස් නිලධාරීන් යතුරුපැදිය නතර නොකළේ ඇයිදැයි විමසූ විට ඔවු පවසා ඇත්තේ බීමත්ව සිටි නිසා නතරනොකළ බවයි.
+
+යතුරුපැදිය අත්අඩංගුවටගෙන රැගෙනයාමට තණමල්විල පොලීසියේ අමතර නිලධාරීන් දෙදෙනෙක් ද පැමිණ තිබේ. ඒ අවස්ථාවේදී  බීමත්ව පැමිණි තවත් දෙදෙනෙකු පොලිස් නිලධාරීන් සමඟ බහින්බස්වී ඇති අතර තරුණයින් තිදෙනා විසින් ඒ අසල තිබූ සවලක් සහ පොලුකැබලි කිහිපයක් ගෙන පොලිස් නිලධාරීන් සිව්දෙනාට පහරදී ඇත.
+
+සිද්ධිය පිළිබඳව තණමල්විල පොලීසියට දැනුම්දීමෙන් අනතුරුව තණමල්විල මූලස්ථාන පොලිස් පරීක්ෂක ඩී.එම්.පී බණ්ඩාර මහතා ඇතුළු නිලධාරීන් කණ්ඩායමක් පැමිණ සැකකරුවන් අත්අඩංගුවටගෙන පහරකෑමට ලක්වූ පොලිස් නිලධාරීන් තණමල්විල රෝහලට ඇතුලත්කර තිබේ.
+
+◼️
+
+[Data](articles/bc42acea.json)
+
+---
+
+### British Tamil Congress on the occasion of the traditional land of the Tamil people
+
+*2024-03-18 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178984) · `ta`
+
+The British Tamil Congress criticizes police obstacles at a Shivaratri ceremony, condemns land grabbing and threats by Sri Lankan authorities, and demands the release of arrested temple priest and pilgrims. It highlights the state's threats to Tamils and the transformation of Tamil land and identity. The government's actions are seen as promoting ethnic conflicts and weakening the Tamil nation.
+
+🟩
+
+British Tamil Congress has condemned the obstacles imposed by the police at the Shivaratri worship ceremony of the temple
+
+The Sri Lankan government and its military and police administrations have repeatedly condemned the British Tamil Congress on the issue of land grabbing and threats in the daily activities of the public.
+
+The arrest of the temple priest and the pilgrims who attended the Shivaratri worship ceremony of the last Vedukkunnarimalai temple was condemned and all of them should be released immediately.. Moreover, according to the court's decision, the state administration, which has to take appropriate legal proceedings, has been threatening the Tamil people who have been worshiping for decades for decades.. Today, it has been relegated to the fact that the Sinhalese nation ignored the reality that the oppression was forced to fight our people.
+
+...
+
+[Data](articles/831b251a.json)
+
+[Extended Data](ext_articles/831b251a.ext.json)
 
 ---
 
@@ -71,28 +211,6 @@ The President of the Radiopian Technology Association said that the Secretary of
 [Data](articles/3320144c.json)
 
 [Extended Data](ext_articles/3320144c.ext.json)
-
----
-
-### British Tamil Congress on the occasion of the traditional land of the Tamil people
-
-*2024-03-18 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178984) · `ta`
-
-The British Tamil Congress criticizes police obstacles at a Shivaratri ceremony, condemns land grabbing and threats by Sri Lankan authorities, and demands the release of arrested temple priest and pilgrims. It highlights the state's threats to Tamils and the transformation of Tamil land and identity. The government's actions are seen as promoting ethnic conflicts and weakening the Tamil nation.
-
-🟩
-
-British Tamil Congress has condemned the obstacles imposed by the police at the Shivaratri worship ceremony of the temple
-
-The Sri Lankan government and its military and police administrations have repeatedly condemned the British Tamil Congress on the issue of land grabbing and threats in the daily activities of the public.
-
-The arrest of the temple priest and the pilgrims who attended the Shivaratri worship ceremony of the last Vedukkunnarimalai temple was condemned and all of them should be released immediately.. Moreover, according to the court's decision, the state administration, which has to take appropriate legal proceedings, has been threatening the Tamil people who have been worshiping for decades for decades.. Today, it has been relegated to the fact that the Sinhalese nation ignored the reality that the oppression was forced to fight our people.
-
-...
-
-[Data](articles/831b251a.json)
-
-[Extended Data](ext_articles/831b251a.ext.json)
 
 ---
 
@@ -264,17 +382,23 @@ The top electoral body said that ballot boxes for the island nation’s election
 
 ---
 
-### පාතාලයට හොර පාස්පෝට් හැදූ ලොක්කෝ දෙදෙනෙක් අල්ලයි
+### Two bosses arrested for underworld
 
 *2024-03-18 10:00:38* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලයට-හොර-පාස්පෝට්-හැදූ-ලොක්කෝ-දෙදෙනෙක්-අල්ලයි/11-408663) · `si`
 
-සංවිධානාත්මක අපරාධකරුවන්ට රටින් පිටවීම වෙනුවෙන් ව්‍යාජ ගමන් බලපත්‍ර සකසා දුන් බව කියන ආගමන විගමන දෙපාර්තමේන්තුවේ නියෝජ්‍ය පාලකවරයෙක් සහ හිටපු පාලකවරයෙක්  අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව විසින් ඊයේ සවස සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+Two bosses arrested for underworld activities. A Deputy Control and former Controller of the Department of Immigration and Emigration was arrested by the CID. The suspect is linked to drug trafficking and organized crime.
 
-මත්දව්‍ය හා සංවිධානාත්මක අපරාධකල්ලි සාමාජිකයන් දෙදෙනකුට  ව්‍යාජ ගුවන් ගමන් බලපත්‍ර සකසාදුන් බව කියන සිද්ධියක් සම්බන්ධයෙන් මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+🟩
+
+A Deputy Control and former Controller of the Department of Immigration and Emigration has been arrested by the CID last evening.
+
+The suspect has been arrested in connection with the claim that two drugs and organized criminals were conducted.
 
 ◼️
 
 [Data](articles/7b5b72ca.json)
+
+[Extended Data](ext_articles/7b5b72ca.ext.json)
 
 ---
 
@@ -891,28 +1015,6 @@ During his meeting with the President of Suriname, Ambassador Sumith Dassanayake
 [Data](articles/15bcb56f.json)
 
 [Extended Data](ext_articles/15bcb56f.ext.json)
-
----
-
-### Sleep hanging in hospital
-
-*2024-03-18 03:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/178973) · `ta`
-
-A man named Chittambalam Baskaran, 61, from Irukkalai, died in a hospital on Sunday (18) after being found hanging in a neem tree. He was rescued by relatives at Kopay Hospital but died within hours without treatment. A sudden death investigation officer, A. Jayabalasingham, conducted the investigation.
-
-🟩
-
-He died on Sunday (18) when he was admitted to the hospital. The deceased was the man who died at the time of Chittambalam Baskaran (age 61) from the East of Irukkalai.
-
-The person hangs in the neem tree in front of the house on Sunday (18). Relatives rescued him at the Kopay Hospital.
-
-The person who was allowed there died in a few hours without treatment. A sudden death investigation officer A. Jayabalasingham carried out the deaths of his body.
-
-◼️
-
-[Data](articles/3eb194e5.json)
-
-[Extended Data](ext_articles/3eb194e5.ext.json)
 
 ---
 
@@ -2107,111 +2209,5 @@ The suspects have been arrested according to an investigation conducted under th
 [Data](articles/0c5ed7d0.json)
 
 [Extended Data](ext_articles/0c5ed7d0.ext.json)
-
----
-
-### If we have the general election, the public elections could be seen
-
-*2024-03-17 19:25:21* · [`adalk`](https://www.ada.lk/breaking_news/මුලින්ම-මහ-මැතිවරණය-තිබ්බොත්-ජනතා-මැතිවරණය-බලන්න-පුළුවන්/11-408659) · `si`
-
-MP Namal Rajapaksa stated that the party's decision on the general election was final, and he believes that if a general election were held, it would not be influenced by personal views or opinions.
-
-🟩
-
-MP Namal Rajapaksa said that the final decision was made by the party, the party said.
-
-"The election of votes was unwilling to seventy seven years, but for seventeen years, the UNP has been postponed to the provincial election.There was nothing to be held. Mr. President also voted during time.
-
-If I have a general election, I can say no such personal views, no such personal views can be said to have no personal opinions, don't have to support the election and everyone should be supported, "Namal Rajapaksa added.
-
-◼️
-
-[Data](articles/0292704a.json)
-
-[Extended Data](ext_articles/0292704a.ext.json)
-
----
-
-### To Ananda win the one day clash
-
-*2024-03-17 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194610) · `si`
-
-Ananda College won the 47th match by 5 wickets, scoring 229 runs in reply to Nalanda's 228, losing 22 wickets in one ball.
-
-🟩
-
-Ananda College won the 47th Ananda College by 5 wickets.
-
-At first, Nalanda College scored 228 runs for the loss of 8 wickets at the end of 50 overs.
-
-In reply, Ananda College won 229 runs for the loss of 22 wickets in one ball.
-
-◼️
-
-[Data](articles/c860ef61.json)
-
-[Extended Data](ext_articles/c860ef61.ext.json)
-
----
-
-### Match-fixing allegations: Court issues travel ban on two Indian cricket managers
-
-*2024-03-17 18:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Match-fixing-allegations-Court-issues-travel-ban-on-two-Indian-cricket-managers/108-279012) · `en`
-
-The Colombo Chief Magistrate's Court has issued an order preventing two team managers of the Legend Cricket League from leaving the country over match-fixing allegations. The Legend Cricket League tournament, featuring seven teams of retired international cricketers, is currently underway at the Pallekele International Cricket Stadium.
-
-Colombo Additional Magistrate Pasan Amarasena made this order pursuant to a request made by the Special Investigation Unit (SIU) for Preventing Sports Offences, and this order will be effective for a one-month period starting on March 15.
-
-The court issued this order based on a complaint made by Sri Lankan former cricketer Upul Tharanga, who represents the Kandy Samp Army, and New Zealand legend Neil Broom, representing the Punjab Royals, alleging that they were pressured to engage in match fixing deals.
-
-...
-
-[Data](articles/2dca707a.json)
-
-[Extended Data](ext_articles/2dca707a.ext.json)
-
----
-
-### Presidential election will not be postponed
-
-*2024-03-17 18:48:41* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-කල්-දාන්නේ-නෑ/11-408657) · `si`
-
-The presidential election will not be postponed. Ranil Wickremesinghe will run as the candidate. He believes he can develop the country by 2048.
-
-🟩
-
-The presidential election will not be postponed to the presidential election and said that Ranil Wickremesinghe will be submitted as the candidate in this year's presidential election.
-
-The Minister said these comments participating at the special mobile service this morning under the patronage of Labor and Foreign Affairs Manusha Nanayakkara at the Polonnaruwa National Stadium in Polonnaruwa.
-
-All matters that the presidential candidate of any of the party's independent party in this year's presidential electionHe said that it is preparing.
-
-The people who think that the country is respected and trusted in all parties will continue to go to the country's rallies, who can take a goss, who will try to get the wrinkles again and will try to get the wrinkles again, when the wrinkles of the country will go into the country again.Shall be found in the future. . The President could, bring up this country.
-
-...
-
-[Data](articles/6b9dcd34.json)
-
-[Extended Data](ext_articles/6b9dcd34.ext.json)
-
----
-
-### Deputy Controller of Immigration and ex-Dy Controller arrested for providing passports to underworld figures
-
-*2024-03-17 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98015/deputy-controller-of-immigration-and-ex-dy-controller-arrested-for-providing-passports-to-underworld-figures) · `en`
-
-A Deputy Controller of Immigration & Emigration and a former Deputy Controller have been arrested by the CID for providing passports based on false information to underworld figures Nuresh Supun Dayaratne alias “Heenatiyana Mahesh” and Shan Arosh Liyanage alias “Mathugama Shan”, police said today.
-
-One of the two arrested suspects is to be produced before the Vavuniya Magistrate’s Court and the other suspect before the Kaduwela Magistrate’s Court.
-
-The suspects have been arrested based on an investigation conducted under the supervision of the DIG in charge of the Criminal Investigation Department (CID), Rohan Premaratne.
-
-Investigations have uncovered that the suspect, a Deputy Controller of the Immigration and Emigration Department, had provided Nuresh Supun Dayaratne alias “Heenatiyana Mahesh” with a fake passport prepared under a false name.
-
-...
-
-[Data](articles/9a250165.json)
-
-[Extended Data](ext_articles/9a250165.ext.json)
 
 ---

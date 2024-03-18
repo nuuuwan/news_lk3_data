@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 21:17:49**
+As of **2024-03-18 21:33:42**
 
 ## Newspaper Stats
 
-*Scraped **13,649** Articles*
+*Scraped **13,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ dailyftlk | 713
 economynextcom | 721
 islandlk | 746
 adalk | 1,178
-adaderanalk | 1,642
+adaderanalk | 1,643
 tamilmirrorlk | 1,661
 virakesarilk | 1,904
-dailymirrorlk | 2,085
+dailymirrorlk | 2,086
 adaderanasinhalalk | 2,171
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,648 (100.0%) of 13,649 articles have been extended.
+13,649 (100.0%) of 13,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### Hirunika files action against Deshabandu
+
+*2024-03-18 21:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hirunika-files-action-against-Deshabandu/108-279087) · `en`
+
+Colombo, March 18 (Daily Mirror) - Former Parliamentarian Hirunika Premachandra today filed a Fundamental Rights petition in the Supreme Court seeking an order restraining Deshabandu Tennakoon from discharging the duties and functioning in the office of Inspector General of Police (IGP).
+
+In her petition, Hirunika named Secretary to the President Saman Ekanayake, Chairman of the Constitutional Council Speaker Mahinda Yapa Abeywardana, members of the Constitutional Council and the Attorney General as respondents.
+
+The petitioner stated that the Attorney General had made a communication to name Tennakoon as a suspect in a matter before the Magistrate’s Court of Fort pertaining to the attack on peaceful protesters at Galle Face on May 09, 2022.
+
+...
+
+[Data](articles/7c1c4458.json)
+
+---
+
+### CBSL to reach decision over salary hike controversy
+
+*2024-03-18 21:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98036/cbsl-to-reach-decision-over-salary-hike-controversy) · `en`
+
+The administration of the Central Bank of Sri Lanka has commenced discussions with the employees regarding the possible reduction of their increased salaries by a certain percentage, according to sources.
+
+However, joining a press conference held today (18), MP Nalaka Godahewa claimed that the CBSL trade unions have protested the relevant decision.
+
+Recent media reports revealed that the CBSL had increased the salaries of its employees by 70% and the move was heavily criticized by parliamentarians of both the ruling party and the opposition, following which the CBSL officials were summoned before the Cabinet, party leaders’ meeting and the Committee on Public Finance (COPF) to question the move.
+
+...
+
+[Data](articles/ef52da87.json)
+
+---
 
 ### Sri Lanka names Test squad for Bangladesh Test series
 
@@ -358,19 +390,25 @@ The Police Narcotics Bureau (PNB) had arrested the suspect along with the drugs 
 
 ---
 
-### වික්ටෝරියාවේ ජලය ලීටර් මිලියන 4.5ක් දෛනිකව වාෂ්ප වෙයි
+### 4.5 million liters of water in Victoria evaporates daily
 
 *2024-03-18 19:03:20* · [`adalk`](https://www.ada.lk/breaking_news/වික්ටෝරියාවේ-ජලය-ලීටර්-මිලියන-4-5ක්-දෛනිකව-වාෂ්ප-වෙයි/11-408683) · `si`
 
-මේ දිනවල පවතින අධික උෂ්ණත්වය හේතුවෙන් වික්ටෝරියා ජලාශයේ ජලය ලීටර් මිලියන 4.5 ක ප්‍රමාණයක් දෛනිකව වාෂ්ප වී යන බව එහි කාර්යභාර ඉංජිනේරු වසන්ත ඇහැළපිටිය මහතා කියයි.
+Victoria Reservoir loses 4.5 million liters of water daily due to evaporation. The water surface area is 4 mm over 24 sq km. The water is used for hydroelectricity, generating 1.69 grams of energy daily.
 
-වර්ග කිලෝමීටර් 24 ක් පුරා විසිරී පවතින වික්ටෝරියා ජලාශයේ ඇති ජලය අධික අවුරශ්මිය හේතුවෙන්ම තුපිට පෘෂ්ඨයේ මිලිමීටර 4. 4 ½ක ප්‍රමාණයක් වාෂ්ප වී යන බවද ඇහැළපිටිය මහතා පැවසීය .
+🟩
 
-ජල විදුලි නිෂ්පාදනය සඳහා වික්ටෝරියා ජලාශයේ ජලය දෛනිකව භාවිතා කොට එයින් ගිගාවොට් 1.69 ක ජල විදුලියක් නිෂ්පාදනය කරන බවද කාර්යභාර ඉංජිනේරුවරයා වැඩිදුරටත් පැවසීය .
+According to the high temperatures of the water, he said that the water ethnic was evaporated by 4.5 million liters of water.
+
+4 millimeters of surface of the water over the water of the Victoria Reservoir, which is scattered for 24 square kilometers. Mr. Ehemalapitiya said that 4 anxicated.
+
+The Engineer said that the water of the Victoria Reservoir for Hydroelectricity is used daily and generates 1.69 grenades.
 
 ◼️
 
 [Data](articles/dd34b750.json)
+
+[Extended Data](ext_articles/dd34b750.ext.json)
 
 ---
 
@@ -2281,43 +2319,5 @@ The total distance of the third phase of the Central Expressway is 32.45 kms and
 [Data](articles/6391c3b3.json)
 
 [Extended Data](ext_articles/6391c3b3.ext.json)
-
----
-
-### ADB approves $100 million loan to support SMEs in Sri Lanka
-
-*2024-03-18 11:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ADB-approves-100-million-loan-to-support-SMEs-in-Sri-Lanka/108-279061) · `en`
-
-(18 March) — The Asian Development Bank (ADB) has approved a $100 million loan to provide small and medium-sized enterprises (SMEs) in Sri Lanka more access to finance and build their resilience to external shocks, such as the economic crisis and climate change.
-
-“SMEs play a critical role in Sri Lanka’s economy, contributing 52% to the country’s gross domestic product and employ 45% of the population,” said ADB Senior Financial Sector Specialist Manohari Gunawardhena. “It is therefore important to provide SMEs, particularly women-led enterprises, with the necessary support to sustain and grow the sector’s contribution to the economy. This project will provide working capital and improve SMEs’ access to finance, helping them expand operations and prepare for the changing environment.”
-
-...
-
-[Data](articles/a91c3f40.json)
-
-[Extended Data](ext_articles/a91c3f40.ext.json)
-
----
-
-### Two suspects arrested for heat
-
-*2024-03-18 11:12:51* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලයට-යතුරු-පැදි-සැපයූ-පුද්ගලයන්-දෙදෙනෙක්-අත්අඩංගුවට/11-408669) · `si`
-
-Two suspects arrested for stealing a motorcycle and drug trafficking in Homagama. Police found 600 million mix of drugs and two motorcycles. Investigations linked them to underworld leaders.
-
-🟩
-
-Two persons arrested for stolen motorcycle motorcycle for criminal crimes leader inland and organized criminal criminal leader, "Homagama headquarters suspects arrested in Pitipana, Homagama. Police seized 600 million mix of drugs and two motorcycle number of drugs in possession of the suspects
-
-A complaint that a motorbike has been misplaced that a motorbike that has been lost near the CC-camena, the Crime Division of the Homagama Police have conducted investigations on the CM-City Division of the Homagama Police following a complaint that a motorbike has been misplaced around a few months ago.Police said.
-
-Investigations have revealed about relations with several underworld leaders in investigations carried out by them.
-
-...
-
-[Data](articles/75d4d97c.json)
-
-[Extended Data](ext_articles/75d4d97c.ext.json)
 
 ---

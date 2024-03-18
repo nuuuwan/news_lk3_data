@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 20:18:01**
+As of **2024-03-18 20:33:33**
 
 ## Newspaper Stats
 
-*Scraped **13,642** Articles*
+*Scraped **13,644** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ islandlk | 746
 adalk | 1,177
 adaderanalk | 1,642
 tamilmirrorlk | 1,661
-virakesarilk | 1,903
+virakesarilk | 1,904
 dailymirrorlk | 2,082
-adaderanasinhalalk | 2,169
+adaderanasinhalalk | 2,170
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,640 (100.0%) of 13,642 articles have been extended.
+13,642 (100.0%) of 13,644 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### මෙරට ධීවරයින්ට හදිසි අනතුරු ඇඟවීමක්
+
+*2024-03-18 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194652) · `si`
+
+අරාබි මුහුදේ ධීවර කටයුතුවල නිරත නොවන ලෙස ධීවර සහ ජලජ සම්පත් දෙපාර්තමේන්තුව ධීවරයින්ට දැනුම් දී තිබේ.
+
+ඒ පසුගිය සෙනසුරාදා අරාබි මුහුදේදී සෝමාලියානු ආයුධ සන්නද්ධ කණ්ඩායමක් විසින් ඉරාන ධීවර යාත්‍රාවක් පැහැරගැනීමේ සිද්ධියත් සමගය.
+
+ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුවේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් එහි ධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත මහතා ප්‍රකාශ කළේ  මේ වනවිට කොල්ලකරුවන් පිරිසක් ඉරාන යාත්‍රාවක් රැගෙන අදාළ මුහුදු ප්‍රදේශයට පැමිණ ඇති බවට තොරතුරු ලැබී ඇති බවය.
+
+◼️
+
+[Data](articles/b303fff0.json)
+
+---
+
+### மீண்டும் டைம் அவுட் ஆட்டமிழப்பை கேளி செய்து வம்பிழுத்த ரஹீம்!
+
+*2024-03-18 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/179072) · `ta`
+
+இலங்கை மற்றும் பங்களாதேஷ் அணிகளுக்கு இடையில் திங்கட்கிழமை (18) இடம்பெற்ற ஒருநாள் போட்டியில் வெற்றிப் பெற்றதையடுத்து பங்காதேஷ் அணி இலங்கை அணிக்கு எதிரான ஒருநாள் போட்டித் தொடரை கைப்பற்றியிருந்தது.
+
+குறித்த போட்டி முடிவடைந்த பின், பங்களாதேஷ் அணியின் வெற்றிக் கொண்டாட்டத்தின் போது, சமீபத்தில் சர்ச்சைக்குள்ளான ஏஞ்சலோ மெத்திவ்ஸின் டைம் அவுட் ஆட்டமிழப்பை கேளி செய்யும் விதத்தில் பங்களாதேஷ் வீரர் முஷ்பிகுர் ரஹீம் நடித்து காட்டியிருந்தார்.
+
+◼️
+
+[Data](articles/400cd6d5.json)
+
+---
 
 ### Litton and uncapped Rana in squad for first Test vs Sri Lanka
 
@@ -51,6 +81,8 @@ Nurul Hasan, who kept wickets in place of Litton in the home Test series against
 ...
 
 [Data](articles/06d46ad3.json)
+
+[Extended Data](ext_articles/06d46ad3.ext.json)
 
 ---
 
@@ -260,19 +292,27 @@ Below, the Bangladesh team celebrates the victory and recalls the time out of ti
 
 ---
 
-### පොලිස්පතිගේ පත්කිරීමට එරෙහිව හිරුණිකාගෙන් පෙත්සමක්
+### Hirunika petition against IGP
 
 *2024-03-18 18:46:40* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පතිගේ-පත්කිරීමට-එරෙහිව-හිරුණිකාගෙන්-පෙත්සමක්/11-408682) · `si`
 
-වැඩ බලන පොලිස්පති දේශබන්ධු තෙන්නකෝන් මහතා පොලිස්පතිවරයා වශයෙන් පත්කිරීම නීතියට පටහැනි බවට ප්‍රකාශ කරන්නැයි ඉල්ලමින් හිටපු පාර්ලිමේන්තු මන්ත්‍රණී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියද තවත් පෙත්සමක්  ශ්‍රේෂ්ඨාධිකරණයට ඊයේ (18) ඉදිරිපත් කළාය.
+Hirunika Premachandra and others filed a petition against the appointment of the Inspector General of Parliament, claiming it was illegal. The petitioners, including former MP Hirunika Premachandra, argue that the decision was incomplete and ask for compensation for disciplinary action.
 
-හිටපු පාර්ලිමේන්තු මන්ත්‍රණී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය ගොනු කළ මෙම පෙත්සම්වල වගඋත්තරකරුවන් වශයෙන් ව්‍යවස්ථාදායක සභාවේ සාමාජිකයන් වන පාර්ලිමේන්තු මන්ත්‍රීවරුන් කර ඇත.
+🟩
 
-වැඩ බලන පොලිස්පති දේශබන්ධු තෙන්නකෝන් මහතා පොලිස්පතිවරයා වශයෙන් පත්කිරීම නීතියට පටහැනි බවට ප්‍රකාශ කරන්නැයි ඉල්ලමින් නීතිය පිළිබඳ මහාචාර්ය සාවිත්‍රී ගුණසේකර මහත්මිය සහ සමගි ජන බලවේගය හිටපු පළාත් සභා මන්ත්‍රී නිරෝෂන් පාදුක්ක මහතා මුලින්ම මූලික අයිතිවාසිකම් පෙත්සම් දෙකක් ගොනු කරනු ලැබු අතර පසුව මැල්කම් කාදිනල් රංජිත් අගරදගුරු හිමිපාණන් සහ විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය තවත් පෙත්සම් දෙකක් ගොනු කරනු ලැබීය.
+The Working Inspector General of Parliament Dissanayake was demanding that the appointment was contrary to the law, former MP Hirunika Premachandra and another petition filed a petition yesterday (18).
+
+The members of the legislation as respondents, who filed the former MP Hirunika Premachandra, who filed Ms. Hirunika Premachandra, has been respondents.
+
+Acting Inspector General of Professor Savithri Gunasekera and the First Provincial Council Member of Zearolets have first filed two fundamental rights petitions on the first of the law and then the Malcolm Cardinal Ranjith and Optional PolicyThe center was filed two more petitions.
+
+The petitioner asks the Supreme Court asking him to give him a compensation of a prosecution to a person's decision to take disciplinary action against a person who is acting to take disciplinary action against a person.
 
 ...
 
 [Data](articles/f8583a67.json)
+
+[Extended Data](ext_articles/f8583a67.ext.json)
 
 ---
 
@@ -2289,43 +2329,5 @@ The top electoral body said that ballot boxes for the island nation’s election
 [Data](articles/98415e99.json)
 
 [Extended Data](ext_articles/98415e99.ext.json)
-
----
-
-### ADB approves USD 100 million loan to support SMEs in Sri Lanka
-
-*2024-03-18 11:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98024/adb-approves-usd-100-million-loan-to-support-smes-in-sri-lanka) · `en`
-
-The Asian Development Bank (ADB) has approved a $100 million loan to provide small and medium-sized enterprises (SMEs) in Sri Lanka more access to finance and build their resilience to external shocks, such as the economic crisis and climate change.
-
-“SMEs play a critical role in Sri Lanka’s economy, contributing 52% to the country’s gross domestic product and employ 45% of the population,” said ADB Senior Financial Sector Specialist Manohari Gunawardhena. “It is therefore important to provide SMEs, particularly women-led enterprises, with the necessary support to sustain and grow the sector’s contribution to the economy. This project will provide working capital and improve SMEs’ access to finance, helping them expand operations and prepare for the changing environment.”
-
-...
-
-[Data](articles/e9776eed.json)
-
-[Extended Data](ext_articles/e9776eed.ext.json)
-
----
-
-### 3 lakhs come to visit the Sri Pada on the weekend
-
-*2024-03-18 10:58:35* · [`adalk`](https://www.ada.lk/breaking_news/සති-අන්තයේ-ශ්‍රී-පාදය-වදින්න-ලක්ෂ-3ක්-ඇවිත්/11-408667) · `si`
-
-Nearly 3 lakh overseas pilgrims visited Sripada-Sripea over the weekend, causing severe congestion in Nallathaniya, Sri Lanka. The police had to divert them back to their village due to the high number of visitors every weekend.
-
-🟩
-
-Nallathaniyan Police Chief Inspector Shantha Weerasekera said that nearly three lakh overseas pilgrims came to Sripada-Sripea through the weekend.
-
-The large number of pilgrims have been severely congested to the Shillowing area of the Nallathaniya - Sri Lanka. The pilgrimage was embarrassed by the Nallathan, that they had to go back to the village, that they had to stay back to the village, that they had to go back to the village from the same location.
-
-Nallathaniya police say that due to the high pilgrims every weekend.
-
-◼️
-
-[Data](articles/fb650791.json)
-
-[Extended Data](ext_articles/fb650791.ext.json)
 
 ---

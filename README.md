@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 13:02:58**
+As of **2024-03-18 13:17:57**
 
 ## Newspaper Stats
 
-*Scraped **13,567** Articles*
+*Scraped **13,572** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 713
 economynextcom | 717
 islandlk | 746
-adalk | 1,166
+adalk | 1,167
 adaderanalk | 1,633
-tamilmirrorlk | 1,657
-virakesarilk | 1,889
+tamilmirrorlk | 1,658
+virakesarilk | 1,892
 dailymirrorlk | 2,070
 adaderanasinhalalk | 2,149
 
@@ -26,31 +26,97 @@ adaderanasinhalalk | 2,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,561 (100.0%) of 13,567 articles have been extended.
+13,567 (100.0%) of 13,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### யாழில் பல்பொருள் அங்காடி உரிமையாளருக்கு அபராதம்
+### இராஜினாமா செய்தார் இரான்
+
+*2024-03-18 13:02:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜினாமா-செய்தார்-இரான்/175-334832) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்   இரான் விக்கிரமரத்ன, பொது நிறுவனங்கள் தொடர்பான பாராளுமன்ற  (கோப்) குழுவின் உறுப்புரிமையிலிருந்து இராஜினாமா செய்துள்ளார்.
+
+தனது இராஜினாமா கடிதத்தை சபாநாயகரிடம், ஞாயிற்றுக்கிழமை (17) கையளித்ததாக இரான் விக்ரமரத்ன தெரிவித்தார்
+
+◼️
+
+[Data](articles/a050bfbb.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-03-18 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179020) · `ta`
+
+இன்று திங்கட்கிழமை (மார்ச் 18) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 300.5662 ஆகவும் விற்பனை விலை ரூபா 309.6749 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/19069b28.json)
+
+---
+
+### சம்பிரதாய போக்குகளால் உலகை வெற்றி கொள்ள முடியாது ; பரந்த மனப்பான்மையில் சிந்தித்து செயற்பட வேண்டும் - எதிர்க்கட்சித் தலைவர்
+
+*2024-03-18 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179018) · `ta`
+
+எல்லையற்ற அதிகார பேராசை கொண்ட பல்வேறு தரப்பினர் பெரும் செல்வத்தை செலவழித்து அதிகாரத்தை பெற முயற்சிக்கும் நேரத்தில் இலங்கையின் 76 வருட ஜனநாயக வரலாற்றில் அதிகாரம் இன்றி நாட்டிற்கு சேவையாற்றிய ஒரேயொரு எதிர்க்கட்சி ஐக்கிய மக்கள் சக்தி என வரலாறு படைத்துள்ளதாக எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+ஐக்கிய மக்கள் சக்தி ஆட்சிக்கு வந்தால் இன்னும் பல பணிகளைச் செய்ய முடியும் என்று நம்புகிறது, ஆனால் அதிகாரத்திற்கு வருவதற்கு முழு நிதி பலத்தைப் பயன்படுத்தாமல், ஸ்மார்ட் குடிமக்கள், ஸ்மார்ட் நாட்டைக் கட்டியெழுப்ப வேண்டும் என்ற தூய நோக்கத்துடன் எமது கட்சி செயல்பட்டு வருவதாக எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+இவ்வாறு யோசித்து பார்க்காது வெறும் வாய்ச் சொல் வீரர்களுக்கு நாட்டை ஒப்படைத்ததாலயே நாடு இன்று வங்குரோத்து நிலைக்கு தள்ளப்பட்டுள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இங்கு தெரிவித்தார்.
+
+...
+
+[Data](articles/18587ab5.json)
+
+---
+
+### பாகிஸ்தானின் விமானத் தாக்குதல்களால் ஆப்கானில் 8 பேர் பலி
+
+*2024-03-18 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179016) · `ta`
+
+ஆப்கானிஸ்தானில் பாகிஸ்தான்  இன்று நடத்திய வான்வழித் தாக்குதல்கிளல் 8 பேர் உயிரிழந்துள்ளனர் என  தலிபான் அரசாங்கப் பேச்சாளர் ஒருவர் தெரிவித்துள்ளார்.
+
+கோஸ்ட் மற்றும் பக்திக்கா மாகாணங்களில் இன்று திங்கட்கிழமை அதிகாலை 3.00 மணியளவில் இத்தாக்குதல்கள் நடத்தப்பட்டதாகவும்,  உயிரிழந்தவர்கள் அனைவரும் பெண்கள் மற்றும் சிறார்கள் எனவும் ஸபிஹுல்லா முஜாஹித் கூறியுள்ளார்.
+
+பாகிஸ்தானின் வடக்கு வஸிரிஸ்தான் மாகாணத்தில் பொலிஸ் நிலையமொன்றின் மீது நேற்றுமுன்தினம் நடத்தப்பட்ட தாக்குதலில் 7 படையினர் உயிரிழந்திருந்தனர்.
+
+இத்தாக்குதல்களுக்கு பதிலடி கொடுக்கப்படும் என பாகிஸ்தான் ஜனாதிபதி ஆஸிப் அலி ஸர்தாரி சூளுரைத்திருந்தார்.
+
+◼️
+
+[Data](articles/a74beacc.json)
+
+---
+
+### Fines for supermarket owner in Jaffna
 
 *2024-03-18 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179015) · `ta`
 
-யாழ்ப்பாணம் திருநெல்வேலி பகுதியில் உள்ள பல்பொருள் அங்காடி ஒன்றின் உரிமையாளருக்கு யாழ்.மேலதிக நீதவான் நீதிமன்றால் ஒரு இலட்சத்து 80 ஆயிரம் ரூபாய் தண்டம் அறவிடப்பட்டுள்ளது.
+A supermarket owner in Tirunelveli, Jaffna, was fined Rs 80,000 for selling outdated goods, including insects, after a public health inspection.
 
-திருநெல்வேலி பகுதியில் உள்ள இரண்டு பல்பொருள் அங்காடிகளில் பொது சுகாதார பரிசோதகர்களினால் திடீர் பரிசோதனைகள் முன்னெடுக்கப்பட்டன.
+🟩
 
-அதன் போது, காலாவதியான பொருட்களை விற்பனைக்காக காட்சிப்படுத்தியமை , வண்டுகள் மொய்த்த பழுதடைந்த பொருட்களை விற்பனைக்காக வைத்திருந்தமை உள்ளிட்ட பொருட்கள் மீட்கப்பட்டன.
+The owner of a supermarket in Tirunelveli, Jaffna has been sentenced to Rs 80,000 by the Jaffna Magistrate's Court.
 
-மீட்கப்பட்ட பொருட்களை சான்று பொருட்களாக மன்றில் முற்படுத்திய சுகாதார பரிசோதகர் அங்காடி உரிமையாளர்களுக்கு எதிராக வழக்கு தொடர்ந்தார்.
+Two supermarkets in Tirunelveli area were carried out by public health inspectors.
 
-குறித்த வழக்கு இன்று திங்கட்கிழமை மன்றில் அழைக்கப்பட்ட போது ஒருவர் மன்றில் முன்னிலையாகத நிலையில் , மன்றில் முன்னிலையான ஒரு அங்காடி உரிமையாளருக்கு எதிராக 18 குற்றச்சாட்டுக்கள் முன் வைக்கப்பட்டன.
+At the same time, the items were recovered for the sale of outdated goods, including the beetle's sale for sale.
 
-தன் மீதான குற்றச்சாட்டுக்களை உரிமையாளர் ஏற்றுக்கொண்டதை அடுத்து, அவரை கடுமையாக எச்சரித்த மன்று , அவருக்கு ஒரு இலட்சத்து 80 ஆயிரம் ரூபாய் தண்டம் விதித்துள்ளது.
+The health inspector, who tried the recovered items as evidence, sued the owners of the store.
+
+When the case was summoned to the House on Monday, a man was not present in the forum, and 18 allegations were made against a shop owner in the forum.
+
+After the owner accepted the allegations against him, he was fiercely warned of him, and he was sentenced to Rs 80,000.
 
 ◼️
 
 [Data](articles/2b4d6913.json)
+
+[Extended Data](ext_articles/2b4d6913.ext.json)
 
 ---
 
@@ -65,6 +131,8 @@ Colombo, March 18 (Daily Mirror)- Samagi Jana Balawegaya (SJB) MP Eran Wickramar
 ◼️
 
 [Data](articles/9bf50930.json)
+
+[Extended Data](ext_articles/9bf50930.ext.json)
 
 ---
 
@@ -101,6 +169,22 @@ In his resignation letter, the SJB MP mentions that the duty of the Committee is
 ...
 
 [Data](articles/b2d568ee.json)
+
+[Extended Data](ext_articles/b2d568ee.ext.json)
+
+---
+
+### “පස්ස“ නිසා ගොඩගිය රොයිස්ටර්
+
+*2024-03-18 12:25:36* · [`adalk`](https://www.ada.lk/breaking_news/“පස්ස“-නිසා-ගොඩගිය-රොයිස්ටර්/11-408673) · `si`
+
+දෙරණ ඩ්‍රීම්ස්ටාටාර් වේදිකාව හරහා වාඩාත් ජනප්‍රියත්වයට පත් රවි රොයිස්ටර් “පස්ස“ ගීතය තුලීන් යූ ටියුබ් හරහා ජත්‍යන්තරයට පැමිණියේය. ඉන්දියාවේ ජනප්‍රිය නළු විජේ ඇන්තනීගේ නවතම සිනමා නිර්මාණයක් වන “රෝමියෝ “ (Romeo) චිත්‍රපටයේ ගීතයක් සඳහා රවි රොයිස්ටර්ට අවස්ථාව හිමිව ඇත.
+
+“Vethala” නමින් යූ ටියුබ් අවකාශය හරහා මුදාහැර ඇති මෙම ගීතයද අද වනවිට (18) දින 4ක් ගතවත්ම නැරඹුම් වාර මිලියන 2.5කට ආසන්නව ඇත. ඔහුගේ “පස්ස “ ගීතයද යූ ටියුබ් අවකාශය තුළ නැරඹුම් වාර මිලියන 10කට ආසන්න වෙමින් පවතියි. එය ඉන්දියානු රසිකයන් අතරද ඉමහත් ජනප්‍රිය ගීතයකි.
+
+◼️
+
+[Data](articles/b7047390.json)
 
 ---
 
@@ -144,6 +228,8 @@ The dispute stems from the decision to shift control of the account from the Dir
 
 [Data](articles/c841be78.json)
 
+[Extended Data](ext_articles/c841be78.ext.json)
+
 ---
 
 ### Putin is elected to the fifth Positor
@@ -183,6 +269,8 @@ Specifically, the NUA recalled the appointment of Rajapaksa's brother-in-law to 
 ...
 
 [Data](articles/f9e08665.json)
+
+[Extended Data](ext_articles/f9e08665.ext.json)
 
 ---
 
@@ -275,6 +363,8 @@ Under this situation, 10 percent of the bakeries have closed, said Vithanage and
 ◼️
 
 [Data](articles/30cedff3.json)
+
+[Extended Data](ext_articles/30cedff3.ext.json)
 
 ---
 
@@ -2137,99 +2227,5 @@ A demand deposit which the Central Bank maintains for a commercial bank in its b
 [Data](articles/d4da838e.json)
 
 [Extended Data](ext_articles/d4da838e.ext.json)
-
----
-
-### Madushanka returns home with hamstring injury
-
-*2024-03-17 23:07:00* · [`islandlk`](http://island.lk/madushanka-returns-home-with-hamstring-injury/) · `en`
-
-Left-arm seamer Dilshan Madushanka is returning home from Bangladesh after picking up a hamstring injury during the second ODI between the teams on Friday.
-
-Madushanka walked off to the dressing room middle of his seventh over and did not return to the field. The injury ruled him out of the tour and he will return home. Sri Lanka have not asked for a replacement and are expected to play Chamika Karunaratne for the deciding final ODI.
-
-The series is levelled at 1-1. Today’s third ODI is a day game and provides both sides a good chance to win the series as the dew will be out of the equation.
-
-Madushanka will be out of the initial stages of the Indian Premier League due to the injury. The fast-bowling sensation from deep down south fetched more than half a million dollars from Mumbai Indians’ during the IPL auction.
-
-Sri Lanka are plagued by injuries with Dushmantha Chameera and Asitha Fernando both out of the bilateral series against Bangladesh with injuries.
-
-...
-
-[Data](articles/a1c6f434.json)
-
-[Extended Data](ext_articles/a1c6f434.ext.json)
-
----
-
-### 21 Indian fishermen in the case of crossing the border
-
-*2024-03-17 23:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/178964) · `ta`
-
-21 Indian fishermen arrested for crossing the border by the Sri Lankan navy in the Neduntivu Sea were detained by the Kayts Court Magistrate until the 27th.
-
-🟩
-
-The Kayts Court Magistrate has ordered the detention of 21 Indian fishermen who were arrested on charges of crossing the border.
-
-21 fishermen from Rameswaram area were arrested with 2 boats to cross the border and engage in fishing activities within the Sri Lankan waters.
-
-The arrest was carried out by the Sri Lankan navy in the Neduntivu Sea. The arrested fishermen were handed over to the Department of Aquatic Resources.
-
-The Department of Aquatic Resources then filed a case against the Kayts Court against them. In this case, the magistrate ordered all of them to be remanded until the 27th.
-
-◼️
-
-[Data](articles/df764f2e.json)
-
-[Extended Data](ext_articles/df764f2e.ext.json)
-
----
-
-### AICPA & CIMA recognise 20 Top Employers in Sri Lanka
-
-*2024-03-17 22:53:00* · [`islandlk`](http://island.lk/aicpa-cima-recognise-20-top-employers-in-sri-lanka/) · `en`
-
-AICPA & CIMA, together as the Association of International Certified Professional Accountants, revealed the names of the most attractive companies for accounting and finance professionals in Sri Lanka in their 2024 Top Employers list. AICPA & CIMA’s Top Employers list was created to recognise companies, which proactively support the development of the accounting and finance profession in Sri Lanka and help them build thriving careers. They were recognized at the CIMA President’s Reception held on 8th March 2024 at the Main Ballroom, Shangri La, Colombo.
-
-...
-
-[Data](articles/1ea54a98.json)
-
-[Extended Data](ext_articles/1ea54a98.ext.json)
-
----
-
-### Surge Global secures multi-million dollar government contract in Qatar
-
-*2024-03-17 22:52:00* · [`islandlk`](http://island.lk/surge-global-secures-multi-million-dollar-government-contract-in-qatar-2/) · `en`
-
-Surge Global, a leading design, technology, and marketing firm of Sri Lankan origin is thrilled to announce its successful partnership with Gulf Business Machines (GBM) Qatar, one of Qatar’s largest technology companies. The partnership kicked off with a successful bid in securing a multi-million dollar project for a prominent public sector entity in Qatar. This achievement marks a significant milestone for both companies and reaffirms their commitment to delivering bleeding-edge digital transformation on a national scale.
-
-The collaborative effort between Surge Global and GBM Qatar was the result of their shared expertise, dedication, and a compelling vision to provide best-in-class solutions to meet the evolving needs of the Qatari market. As a dynamic partnership, these organizations have demonstrated their ability to combine design excellence, advanced technology, and marketing prowess to address complex challenges effectively.
-
-...
-
-[Data](articles/04a41017.json)
-
-[Extended Data](ext_articles/04a41017.ext.json)
-
----
-
-### David Pieris Automobiles partners with renowned automotive giant BAIC
-
-*2024-03-17 22:49:00* · [`islandlk`](http://island.lk/david-pieris-automobiles-partners-with-renowned-automotive-giant-baic/) · `en`
-
-David Pieris Automobiles (Private) Limited (DPA) has announced its partnership in Sri Lanka with Beijing Automotive Industry Holding Co., Ltd. (BAIC).
-
-This strategic partnership brings together two pillars of automotive excellence, promising a new era of innovative, quality products and unparalleled customer service for Sri Lankan motorists.
-
-BAIC is the 6th largest automobile company in China. Founded in 1958 as the Beijing Automotive Manufacturing Factory (BAMF), it has emerged as one of China’s leading and globally recognised automotive conglomerates with a rich history marked by milestones such as the development of iconic vehicles like the Jinggangshan sedan, BJ212, and BJ130. As a key player in the Fortune 500, its parent company, Beijing Automotive Group Co., Ltd., holds the 162nd position, underlining its financial strength and market presence.
-
-...
-
-[Data](articles/7d536b69.json)
-
-[Extended Data](ext_articles/7d536b69.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 23:33:44**
+As of **2024-03-18 23:52:13**
 
 ## Newspaper Stats
 
-*Scraped **13,662** Articles*
+*Scraped **13,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,42 @@ bbccomsinhala | 151
 dbsjeyarajcom | 187
 newsfirstlk | 363
 dailyftlk | 713
-economynextcom | 721
+economynextcom | 724
 islandlk | 746
 adalk | 1,179
 adaderanalk | 1,645
 tamilmirrorlk | 1,663
 virakesarilk | 1,907
-dailymirrorlk | 2,087
+dailymirrorlk | 2,088
 adaderanasinhalalk | 2,173
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,662 (100.0%) of 13,662 articles have been extended.
+13,662 (100.0%) of 13,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### Wanindu Hasaranga comes out of retirement for Bangladesh Tests
+
+*2024-03-18 23:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wanindu-Hasaranga-comes-out-of-retirement-for-Bangladesh-Tests/108-279100) · `en`
+
+Colombo, Mar. 18 (Daily Mirror) - Sri Lanka Cricket has named a 17-member squad and Wanindu Hasaranga, who announced his retirement from Test cricket last year, has made a comeback for the ICC World Test Championship series against Bangladesh, commencing on March 22.
+
+Also, uncapped off-spinner Nishan Peiris has been called up to the Sri Lanka squad. The 26-year-old replaces fast bowler Milan Ratnayake from the recent Test match against Afghanistan.
+
+Hasaranga, the leg-spinning all-rounder joins a formidable spin bowling lineup alongside Prabath Jayasuriya, Ramesh Mendis, and all-rounders Nishan Peiris and Kamindu Mendis.
+
+Sri Lanka has added fast bowler Lahiru Kumara to the squad, replacing the injured Asitha Fernando. Kumara, boasting 74 wickets in 26 matches, last represented Sri Lanka in March 2023 against England. His return strengthens Sri Lanka’s seam attack, joining Vishwa Fernando, Kasun Rajitha and Chamika Gunasekera.
+
+...
+
+[Data](articles/3f850cb1.json)
+
+---
 
 ### Two successful farmers who cultivated new technology under the Modernization Program of the Agriculture Department met the president
 
@@ -964,6 +982,28 @@ Meanwhile, the Water Supply and Drainage Board says that steps have been taken t
 
 ---
 
+### Sri Lanka owned UAE firm claims first Hummer EV conversion to right hard drive
+
+*2024-03-18 17:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-owned-uae-firm-claims-first-hummer-ev-conversion-to-right-hard-drive-155072/) · `en`
+
+ECONOMYNEXT – Global Conversions, a Sri Lanka owned company now based in the UAE says they carried out the first conversion of a Hummer EV SUV to right hand drive.
+
+Global Conversions, in an automobile re-engineering firm specializing in converting  left-hand drive US brands like GMC, Ford, Lincoln, Dodge, Chevrolet, Cadillac and US made Toyota and Nissan vehicles to right hand drive.
+
+The firm says it is the first time a Hummer EV SUV, was converted to right hand drive.
+
+Suresh Edirisinghe, Founder and Chairman of Global Conversions said it was the first time Hummer EV SUV was convereted to right hand drive.
+
+“This accomplishment showcases our dedication to pushing boundaries and delivering exceptional solutions to our customers,” he said in a statement.
+
+Global Conversions said the converted vehicle was tested and its functionality validated, “ensuring the highest safety and performance standards.”
+
+...
+
+[Data](articles/e1a78638.json)
+
+---
+
 ### Bangladesh wins the 3rd ODI against Sri Lanka;Captured the one -day series
 
 *2024-03-18 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179059) · `ta`
@@ -1100,6 +1140,32 @@ The former Deputy Controller of the Immigration Department is accused of providi
 
 ---
 
+### Sri Lanka rupee closes at 304.35/50 to the US dollar
+
+*2024-03-18 16:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-304-35-50-to-the-us-dollar-155078/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 304.35/50 to the US dollar in the spot forex market on Monday, slightly stronger from 305.20/25 on Friday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed stable at 11.30/40 percent.
+
+A bond maturing on 15.09.2027 closed at 11.85/12.00 percent from 11.85/95 percent on Friday.
+
+A bond maturing on 15.12.2028 closed down at 12.07/12.15 percent from 12.10/15 percent.
+
+A bond maturing on 15.07.2029 closed at 12.15/30 percent down from 12.20/40 percent on Thursday.
+
+A bond maturing on 15.05.2030 closed at 12.15/30 percent down from 12.25/45 percent last week.
+
+A bond maturing on 15.03.2031 closed at 12.10/30 percent down from 12.30/50 percent.
+
+A bond maturing on 01.07.2032 closed at 12.40/75 percent from 12.55/75 percent. (Colombo/Mar18/2024)
+
+◼️
+
+[Data](articles/c9a4cda1.json)
+
+---
+
 ### Two Pitigala murder suspects remanded
 
 *2024-03-18 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194641) · `si`
@@ -1209,6 +1275,28 @@ Accordingly, a new customer will pay 25 percent of the cost of electricity to ob
 [Data](articles/0f706ef2.json)
 
 [Extended Data](ext_articles/0f706ef2.ext.json)
+
+---
+
+### Sri Lanka stocks close down after two-week run, amidst profit taking
+
+*2024-03-18 16:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-after-two-week-run-amidst-profit-taking-155066/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
+
+The broader All Share Index closed down 0.14 percent, or 15.86 points, at 11,320; while the S&P SL20 Index closed down 0.25 percent, or 8.12 points, at 3,237.
+
+Turnover was at 1.3 billion. Crossings on Hayleys Fabric Plc (down at 43.90), Hatton National Bank Plc (up at 167.75) and Lankem Developments Plc (down at 18.40) contributed to the day’s turnover.
+
+There was a high level of retail interest was seen in construction, banking and finance sectors, market participants said. “There was a bit of profit-taking, and bargain hunting that came in today. Though there was a decline there was buying interest.
+
+“Primary dealing counters also did well because of dividends. Basically dividend-paying counters were active in the market.”
+
+Companies that saw high volumes traded were Browns Investments Plc (86mn), which closed down at 5.20; and First Capital Holdings Plc (78mn) which closed up at 33.00.
+
+...
+
+[Data](articles/85b54e8b.json)
 
 ---
 
@@ -2245,89 +2333,5 @@ The dispute stems from the decision to shift control of the account from the Dir
 [Data](articles/c841be78.json)
 
 [Extended Data](ext_articles/c841be78.ext.json)
-
----
-
-### Putin is elected to the fifth Positor
-
-*2024-03-18 12:23:51* · [`adalk`](https://www.ada.lk/breaking_news/පුටින්-පස්වැනි-ධුරකාලයටත්-පත්වෙයි/11-408672) · `si`
-
-Putin wins fifth term in Russia, with nearly 87% of votes, despite Western claims of unfairness.
-
-🟩
-
-Vladmir Putin has also been elected for his fifth term. The presidential election in Russia was surreptive.
-
-The Russian presidential election has been resumed as President of India, nearly 87 percent votes. Putin to the Russian presidential election had to compete with three rivals.
-
-However, the Western media reports that the Creation of the Armedard would not allow the presidential election. The election is a free elections and is not fair.
-
-◼️
-
-[Data](articles/ef040300.json)
-
-[Extended Data](ext_articles/ef040300.ext.json)
-
----
-
-### A fever of 16 districts in a risk
-
-*2024-03-18 12:20:32* · [`adalk`](https://www.ada.lk/breaking_news/දිස්ත්‍රික්ක-16ක-උණසුම-අවදානම්-තත්ත්වයක/11-408671) · `si`
-
-The Meteorological Department warns of high temperatures in 16 districts today, affecting the elderly and sick. It advises residents to drink water, wear light clothing, and avoid direct sunlight. The hot index, not atmospheric temperature, indicates dehydration risks.
-
-🟩
-
-The Meteorological Department (Natrogege Department) states that the warm quality of 16 districts will be atherent to the human body today (18th) the Meteorological Disasters.. This situation may exist in Vavuniya, Trincomalee, Polonnaruwa, Ampara, Puttalam, Gampaha, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle and Ratnapura. As a result, the districts in the respective districts will be aware that they should be concerned about the elderly and sick people, but they are also demanding not to be held alone in vehicles.
-
-The center also requests the people to drink sufficient water in the plantations, to restrict the shade of the shade, and to use white or light-colored lightwear to restrict the stations.
-
-According to the Meteorological Department, the hot index, the hot index, the hot index, the heated number of hot orpatrication and maximum temperature value received by the meteorological intercourse have been prepared.
-
-...
-
-[Data](articles/81c5eadb.json)
-
-[Extended Data](ext_articles/81c5eadb.ext.json)
-
----
-
-### National Unity Alliance urges Presidential Commission to probe SriLankan debacle
-
-*2024-03-18 12:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/National-Unity-Alliance-urges-Presidential-Commission-to-probe-SriLankan-debacle/108-279070) · `en`
-
-Colombo, March 18 (Daily Mirror) - The National Unity Alliance (NUA) has called for the initiation of a Presidential Commission to thoroughly investigate into the tumultuous saga of SriLankan Airlines.
-
-The NUA expressed serious concerns regarding the government's recent endeavours to sell the beleaguered national carrier, shedding light on the staggering debt exceeding USD 1 billion that plagues the airline.
-
-Attributing these financial woes to years of mismanagement exacerbated by political interference, the NUA underscored the pivotal role played by the tenure of former President Mahinda Rajapaksa.
-
-Specifically, the NUA recalled the appointment of Rajapaksa's brother-in-law to the chairmanship of SriLankan Airlines, despite lacking any pertinent experience or expertise in aviation management. The result, according to the NUA, was nothing short of a disastrous mishandling of the national airline's affairs.
-
-...
-
-[Data](articles/f9e08665.json)
-
-[Extended Data](ext_articles/f9e08665.ext.json)
-
----
-
-### Iran COPE committee resigns
-
-*2024-03-18 12:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194631) · `si`
-
-Iran COPE committee member Wickramaratne resigns, letter handed to Speaker.
-
-🟩
-
-UNP MP Iran Wickramaratne says he resigns with the membership of the Committee or COP Committee.
-
-Speaking at a press conference held today (18), he stated that the letter was handed over to the Speaker.
-
-◼️
-
-[Data](articles/d2445889.json)
-
-[Extended Data](ext_articles/d2445889.ext.json)
 
 ---

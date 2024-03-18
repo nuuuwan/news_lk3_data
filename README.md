@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 02:17:43**
+As of **2024-03-19 02:33:25**
 
 ## Newspaper Stats
 
-*Scraped **13,686** Articles*
+*Scraped **13,690** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 127
 bbccomsinhala | 151
 dbsjeyarajcom | 187
 newsfirstlk | 363
-dailyftlk | 723
 economynextcom | 724
+dailyftlk | 727
 islandlk | 746
 adalk | 1,179
 adaderanalk | 1,645
@@ -26,117 +26,245 @@ adaderanasinhalalk | 2,173
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,680 (100.0%) of 13,686 articles have been extended.
+13,686 (100.0%) of 13,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### விசேட சுற்றிவளைப்பு நடவடிக்கை
+### G.L. accuses Govt. of disregarding SC orders
+
+*2024-03-19 02:04:26* · [`dailyftlk`](https://www.ft.lk/news/G-L-accuses-Govt-of-disregarding-SC-orders/56-759675) · `en`
+
+Slams Govt. for opening doors to allow destruction of Sri Lanka’s rule of law
+
+Accuses current Speaker of being biased and weakest among line of 25 Speakers
+
+Says NCM against Speaker was brought forward to protect human rights
+
+Stresses if Govt. fails to meet public needs Constitution grants them right to oppose it
+
+Freedom People’s Congress (FPC) member MP Prof. G.L. Peiris yesterday accused the Government of disregarding orders issued by the Supreme Court and opening the doors to allow the destruction of the rule of law in the country.
+
+The MP addressing a press conference yesterday highlighted that the Supreme Court plays a pivotal role in intervening when a Parliamentary act clashes with the fundamental rights of the country’s citizens.
+
+Peiris stated that despite the expectation for the Speaker to be impartial, the current Speaker is seen to be implementing a biased agenda.
+
+...
+
+[Data](articles/61e69bf9.json)
+
+---
+
+### Japan extends Rs. 3.3 b grant aid to support humanitarian relief amid economic woes
+
+*2024-03-19 02:03:24* · [`dailyftlk`](https://www.ft.lk/news/Japan-extends-Rs-3-3-b-grant-aid-to-support-humanitarian-relief-amid-economic-woes/56-759674) · `en`
+
+The Government of Japan has agreed to provide grant assistance worth Rs. 3.3 billion (¥ 1,600 million) to provide immediate humanitarian assistance for the communities impacted by the ongoing economic crisis and to empower the State sector for upgrading the economic situation of the country.
+
+...
+
+[Data](articles/6847400a.json)
+
+---
+
+### New alliance led by Dayasiri to debut on Wednesday
+
+*2024-03-19 02:02:54* · [`dailyftlk`](https://www.ft.lk/news/New-alliance-led-by-Dayasiri-to-debut-on-Wednesday/56-759673) · `en`
+
+A new alliance titled Humane Peoples’ Alliance under the leadership of former Sri Lanka Freedom Party (SLFP) General Secretary MP Dayasiri Jayasekara will debut on Wednesday.
+
+“We hope to give new life to politics,” Jayasekara said addressing the media yesterday. According to him, it is evident that a program based on humanity is the need of the hour to revive the country.
+
+The SLFP MP affirmed that the new alliance would align with the SLFP and said that he would readily accept the position of General Secretary of the SLFP once more if requested by SLFP Chairman Maithripala Sirisena.
+
+Jayasekara clarified that his leadership in forming the alliance is not driven by aspirations of becoming the President of Sri Lanka, but rather by the intention to support the candidate best positioned to succeed in the elections.
+
+However, he also expressed that if invited by all parties supporting the alliance to contest as a presidential candidate, he would accept the challenge.
+
+...
+
+[Data](articles/56858509.json)
+
+---
+
+### Tamil actors Radhika and Sarath Kumar merge party with Modi
+
+*2024-03-19 02:02:06* · [`dailyftlk`](https://www.ft.lk/news/Tamil-actors-Radhika-and-Sarath-Kumar-merge-party-with-Modi/56-759672) · `en`
+
+Ahead of the Lok Sabha polls, veteran Tamil actor R. Sarath Kumar and his wife Radhika on Tuesday merged their Akila Indiya Samathuva Makkal Katchi (AISMK) with the BJP.
+
+In the presence of AISMK office-bearers and BJP Tamil Nadu Unit President K. Annamalai, Kumar merged his party with the saffron party.
+
+Betting on the leadership of Prime Minister Narendra Modi, Kumar, addressing his party workers here, said Modiji would helm the nation further, towards fostering unity and nurture economic growth.
+
+Ending the scourge of drugs and ensuring the welfare of the youths is bright under Modi’s leadership, he said.
+
+Radhika Sarathkumar is the daughter of actor M.R. Radha and Geetha. Her father is from Chennai and her mother is a Sri Lankan Tamil.
+
+She joined before the 2006 Assembly elections to join the AIADMK along with her husband R. Sarathkumar. She was dismissed from AIADMK for anti-party activities. She became the Vice President of All India Samathuva Makkal Katchi.
+
+...
+
+[Data](articles/e1273671.json)
+
+---
+
+### Special raid
 
 *2024-03-19 02:00:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-சுற்றிவளைப்பு-நடவடிக்கை/175-334844) · `ta`
 
-அதிகபட்ச செயற்றிறனுடன் இந்த சுற்றிவளைப்பு  மேற்கொள்ளப்படுவதாக பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்துள்ளார்.
+Tran Ales, Public Security Minister, announced a special raid carried out efficiently to curb planned crime in the Southern Province.
 
-தென் மாகாணத்தில் பதிவாகும் திட்டமிட்ட குற்றச்செயல்களைக் கட்டுப்படுத்தும் நோக்கில் இந்த நடவடிக்கை மேற்கொள்ளப்பட்டுள்ளது. (a)
+🟩
+
+Public Security Minister Tran Ales said the roundup was carried out with maximum efficiency.
+
+The move is aimed at curbing planned crime in the Southern Province. (A)
 
 ◼️
 
 [Data](articles/316b9c8a.json)
 
+[Extended Data](ext_articles/316b9c8a.ext.json)
+
 ---
 
-### இலங்கை டெஸ்ட் குழாத்தில் மூத்த அனுபவசாலிகள் மூவர்; அறிமுக வீரராக நிஷான் பீரிஸ்
+### Three senior experienced in the Sri Lankan Test group;Nishan Peiris as a debutant
 
 *2024-03-19 01:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179083) · `ta`
 
-பங்களாதேஷுக்கு எதிராக நடைபெறவுள்ள இரண்டு போட்டிகள் கொண்ட டெஸ்ட் தொடருக்கான இலங்கை குழாத்தில் முன்னாள் அணித் தலைவர்களான ஏஞ்சலோ மெத்யூஸ், தினேஷ் சந்திமால், திமுத் கருணாரட்ன ஆகியோர் பெயரிடப்பட்டுள்ளனர்.
+The Sri Lankan Test team for the 2-match series against Bangladesh includes experienced leaders Angelo Mathews, Dinesh Chandimal, and Timuth Karunaratne, debutant Nishan Peiris, and Wanindu Hasaranga. Hazaranga, with 4 Tests, is part of the squad led by Tanjaya de Silva. Nishan Madushka, with 6 matches and 444 runs, continues with Dimuth Karunaratne.
 
-தனஞ்சய டி சில்வாவை தலைவராகக் கொண்ட இலங்கை குழாத்தில் சுழல்பந்து வீச்சாளர் வனிந்து ஹசரங்கவுக்கு மீண்டும் வாய்ப்பு வழங்கப்பட்டுள்ளது.
+🟩
 
-நான்கு டெஸ்ட் போட்டிகளில் மாத்திரம் விளையாடிய வனிந்து ஹசரங்க, கடைசியாக பங்களாதேஷுக்கு எதிரான டெஸ்ட் போட்டியில் 2021இல் விளையாடியிருந்தார்.
+Former team leaders Angelo Mathews, Dinesh Chandimal and Timuth Karunaratne have been named in the Sri Lankan team for the two -match Test series against Bangladesh.
 
-அத்துடன் அறிமுக வீரராக வலதுகை சுழல்பந்துவீச்சாளர் நிஷான் பீரிஸ் குழாத்தில் பெயரிடப்பட்டுள்ளார். நீர்கொழும்பு புனித பேதுருவானர் கல்லூரியின் முன்னாள் வீரரான நிஷான் பீரிஸ் முதல்தர உள்ளூர் கிரிக்கெட்டில் 37 போட்டிகளில் 153 விக்கெட்களைக் கைப்பற்றியுள்ளார்.
+Hazaranga has been given the opportunity to bowl in the Sri Lankan group, which is head of Tanjaya de Silva.
 
-ஆனால், அவருக்கு இறுதி அணியில் வாய்ப்பு கிடைக்குமா என்பதைப் பொறுத்திருந்துதான் பார்க்க வேண்டும்.
+Wanindu Hasaranga, who played only four Tests, played in the last Test against Bangladesh in 2021.
 
-திமுத் கருணாரட்னவின் ஆரம்ப ஜோடியாக நிஷான் மதுஷ்க தொடர்ந்து விளையாடவுள்ளார். 6 போட்டிகளில் விளையாடியுள்ள  நிஷான் மதுஷ்க   ஒரு சதம், ஒரு அரைச் சதம் உட்பட 444 ஓட்டங்களைப் பெற்றுள்ளார்.
+As well as the debutant, the right -hand spinner Nishan Peiris has been named in the group. Nishan Peiris, a former player of St. Peter's College, Negombo, has taken 153 wickets in 37 matches in first -class local cricket.
+
+But it remains to be seen whether he will have a chance in the final team.
+
+Nishan Madushka will continue to play with Dimuth Karunaratne's initial pair. Nishan Madushka, who has played in 6 matches, has scored 444 runs, including a century and a half century.
 
 ...
 
 [Data](articles/258cea90.json)
 
+[Extended Data](ext_articles/258cea90.ext.json)
+
 ---
 
-### இந்திய பொதுத்தேர்தலுக்கு பின்னரே எட்கா ஒப்பந்தம் கைச்சாத்திடப்படும் - உதய கம்மன்பில
+### The Edka Agreement will be signed only after the Indian general election - Udaya Kammanpila
 
 *2024-03-19 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/179082) · `ta`
 
-இந்திய பொதுத் தேர்தல் நிறைவு பெற்றதன் பின்னர் இந்தியாவுடனான எட்கா ஒப்பந்தத்தை கைச்சாத்திட அரசாங்கம் உத்தேசித்துள்ளது. எட்கா ஒப்பந்தம் இலங்கைக்கு சாதகமாக அமையுமா என்பது சந்தேகத்துக்குரியது. ஒப்பந்தத்தின் உள்ளடக்கத்தை நாட்டு மக்களுக்குப் பகிரங்கப்படுத்த வேண்டும் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+The Edka Agreement with India will be signed post-election, raising concerns about its impact on Sri Lanka. Udaya Kammanpila, PTA leader, advocates for public disclosure of the agreement's terms. Critics argue that Sri Lanka's foreign trade policies need reform, citing the lack of transparency and potential negative impacts from previous agreements.
 
-கொழும்பில் உள்ள பிவிதுரு ஹெல உறுமய கட்சியின் காரியாலயத்தில் திங்கட்கிழமை (18) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-இலங்கைக்கும் இந்தியாவுக்கும் இடையிலான எட்கா ஒப்பந்தம் இந்த மாதம் கைச்சாத்திடப்படுவதாக குறிப்பிடப்பட்டுள்ள நிலையில் அது பிற்போடப்பட்டுள்ளது. இந்திய பொதுத்தேர்தல் நிறைவு பெற்றதன் பின்னர் எட்கா ஒப்பந்தத்தை கைச்சாத்திட அரசாங்கம் உத்தேசித்துள்ளது.
+The government intends to sign the Edka Agreement with India after the Indian general election. It is doubtful whether the Edka Agreement will take advantage of Sri Lanka. Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya Party (PTA), said that the content of the contract should be publicly made to the people.
 
-வெளிநாடுகளுடனான ஒப்பந்தங்கள் கைச்சாத்திடப்படும் போது எவ்விதமான முறையான வழிமுறைகளும் தற்போது பின்பற்றப்படுவதில்லை.ஆகவே எட்கா ஒப்பந்தம் கைச்சாத்திடப்படுவதற்கு முன்னர் நான்கு பிரதான நிபந்தனைகளை அரசாங்கம் நிறைவேற்ற வேண்டும்.
+He made this statement during a media briefing held at the office of the Pivithuru Hela Urumaya (JHU) office in Colombo on Monday (18).
+
+The Edka Agreement between Sri Lanka and India has been reported to be signed this month. The government intends to sign the Edka Agreement after the Indian general election.
+
+No formal methods are currently being followed when the contracts with overseas are signed.
+
+The first Sri Lanka should be forming foreign trade contract policies. When the Independent Trade Agreement with Singapore in 2016, the government did not note it. The government did not note it.If you go, there will be negative impacts.
 
 ...
 
 [Data](articles/7cbaead5.json)
 
+[Extended Data](ext_articles/7cbaead5.ext.json)
+
 ---
 
-### மட்டு போதனா வைத்தியசாலை புற்று நோய் பிரிவு கதிர்வீச்சு இயந்திரம் பழுது நோயாளர்கள் வைத்தியசாலை நிருவாகத்துக்கு எதிராகப் போராட்டம்
+### Module Teaching Hospital Cancer Division Radiation Machine Repair Patients Struggle Against Hospital Administration
 
 *2024-03-19 01:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179081) · `ta`
 
-மட்டக்களப்பு போதனா வைத்தியசாலை புற்று நோய் பிரிவில் சிகிச்சைக்காக வைத்தியசாலைக்குச் சென்ற நோயாளர்கள் கதிர்வீச்சு இயந்திரம் பழுதடைந்ததனால் சிகிச்சை பெறமுடியாததையடுத்து வைத்தியசாலையின் அசமந்த போக்கே காரணம் என குற்றச்சாட்டு தெரிவித்து இன்று திங்கட்கிழமை (18) காலை வைத்தியசாலைக்கு முன்னால் ஒன்று திரண்டு போராட்டத்தில் ஈடுபட்டனர்.
+Patients at Batticaloa Teaching Hospital's Cancer Division accuse hospital of negligence due to frequent radiation machine breakdowns, forcing patients from Trincomalee, Ampara, and other areas to wait days for treatment. Hospital administration, led by Dr. Ganesalingam, has addressed this by hiring a technical officer for Jaffna and Batticaloa to ensure machine availability.
 
-குறித்த வைத்தியசாலையின் கதிர்வீச்சு சிகிச்சைக்காகத் திருகோணமலை, அம்பாறை மற்றும் நாட்டின் ஏனைய பகுதிகளிலிருந்து நோய்க்கான சிகிச்சையைப் பெறுவதற்காக அதிகமான நோயாளர்கள் வருவது வழமை.
+🟩
 
-இந்த நிலையில் குறித்த கதிர்வீச்சு இயந்திரம் அடிக்கடி பழுதடைவதாகவும் இதனைத் திருத்தும் நபர் இங்கு இல்லாத காரணத்தால் யாழ்ப்பாணம் அல்லது கொழும்பிலிருந்து வரவேண்டியுள்ளதால் குறித்த தினத்தில் சிகிச்சையைப் பெறமுடியாமல் போகின்றது
+Patients who went to the hospital for treatment at the Batticaloa Teaching Hospital Cancer Division gathered in front of the hospital on Monday morning (18), accusing the hospital of the hospital.
 
-இதனால்  பல்வேறு கஷ்டங்கள் மத்தியில் பிரயாணித்து வைத்தியசாலையைக் காலையில் சென்று அங்கு இரவு வரை காத்திருந்து சிகிச்சை பெறமுடியாமல் ஏமாறிச் செல்ல வேண்டியதுடன் உரிய காலத்தில் புற்று நோய்க்கான சிகிச்சையை பெறமுடியாததால் நோய் அதிகரித்து  உயிரிழக்க வேண்டிய நிலை ஏற்பட்டுள்ளது.
+It is customary for more patients to treat the disease from Trincomalee, Ampara and other parts of the country for the treatment of the hospital.
+
+In this case, the radiation engine is often damaged and the person who is not here is unable to get treatment on the day since it is not here from Jaffna or Colombo.
+
+As a result, the hospital has to go to the hospital in the morning and wait till night and get treated for the night.
+
+Therefore, the machine should have been appointed here as the machine is often damaged and the patients have to wait until the engineer is dark or three days later.
+
+Therefore, the hospital administration focused on this and obtained a solution to this.
 
 ...
 
 [Data](articles/0fb37ce4.json)
 
+[Extended Data](ext_articles/0fb37ce4.ext.json)
+
 ---
 
-### இலங்கைக்கு எதிரான முதலாவது டெஸ்ட்: பங்களாதேஷ் குழாத்தில் மீண்டும் லிட்டன் தாஸ்; இரண்டு புதிய வேகப்பந்துவீச்சாளர்கள்
+### First Test against Sri Lanka: Liton Das again in BangladeshTwo new fast bowlers
 
 *2024-03-19 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179080) · `ta`
 
-இலங்கைக்கு எதிராக நடைபெறவுள்ள 2 போட்டிகள் கொண்ட டெஸ்ட் தொடரின் முதலாவது போட்டியை முன்னிட்டு பலம்வாய்ந்த வீரர்களைக் கொண்ட குழாத்தை பங்களாதேஷ் பெயரிட்டுள்ளது.
+Bangladesh's first Test against Sri Lanka features Liton Das, two new fast bowlers, and a team led by Najmul Hossain Santo. Liton Das, with 2394 runs in 39 Tests, returns after leading against New Zealand. Ebadoth Hossain and newcomers Nahib Rana and Mushfiq Hasan are part of the squad. The 2nd Test starts on March 30 in Chatogram.
 
-சில்ஹெட்டில் எதிர்வரும் வெள்ளிக்கிழமை (22) ஆரம்பமாகவுள்ள முதலாவது டெஸ்ட் போட்டிக்கான பங்களாதேஷ் குழாத்தில் முன்னாள் தலைவர் லிட்டன் தாஸ் மீண்டும் இணைத்துக்கொள்ளப்பட்டுள்ளார்.
+🟩
 
-நியூஸிலாந்துக்கு எதிரான தொடரின்போது அவர் தந்தை பேற்றை அடைய இருந்ததால் அவருக்கு விடுகை வழங்கப்பட்டிருந்தது. அப்போது அவர் அணித் தலைவராக இருந்தார்.
+Bangladesh has named a group of mighty players to mark the first match of the two -match Test series against Sri Lanka.
 
-அதன் பின்னர் மூவகை கிரிக்கெட் அணிகளுக்கும் நஜ்மல் ஹொசெய்ன் ஷன்டோ தலைவராக நியமிக்கப்பட்டார்.
+Former Chairman Litton Das has been reunited with the Bangladesh team for the first Test match in Silhead on Friday (22).
 
-டெஸ்ட் அணியின் முழு நேர தலைவராக நஜ்முல் நியமிக்கப்பட்ட பின்னர் இலங்கைக்கு எதிரான ஐசிசி டெஸ்ட் சம்பியன்ஷிப் தொடரே அவருக்கு முதலாவது பலப்பரீட்சையாக அமையவுள்ளது.
+During the series against New Zealand. He was then the team leader.
 
-அணிக்கு மீளழைக்கப்பட்டுள்ள லிட்டன் தாஸ் 39 டெஸ்ட் போட்டிகளில் 2394 ஓட்டங்களைப் பெற்றுள்ளார். 28 போட்டிகளில் அவர் விக்கெட் காப்பாளராக விளையாடியுள்ளார்.
+Najmal Hosain Santo was then appointed as the captain of the three cricket teams.
+
+After Najmul was appointed as the full -time captain of the Test team, the ICC Test Championship against Sri Lanka will be his first examination.
+
+Litton Das has scored 2394 runs in 39 Tests. He has played a wicket guard in 28 matches.
+
+Senior fast bowler Ebadoth Hossain, who has a full -fledged body, has been called back to the team.
+
+He did not play in the World Cup in India due to a ridicule.
+
+The new fast bowlers, Nahib Rana and Mushfiq Hasan, have been recruited with him.. Nahib Rana is considered the current high -speed bowler in Bangladesh bowlers.
 
 ...
 
 [Data](articles/2e08eaa8.json)
 
+[Extended Data](ext_articles/2e08eaa8.ext.json)
+
 ---
 
-### இலங்கை அரசின் தமிழர்களுக்கு எதிரான ஒடுக்குமுறைகளை வன்மையாகக் கண்டிக்கிறோம் - பிரித்தானிய தமிழர் பேரவை
+### We vehemently condemn the oppression of the Tamils of the Sri Lankan state - the British Tamil Congress
 
 *2024-03-19 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179079) · `ta`
 
-இலங்கை அரசும், அதன் இராணுவ மற்றும் பொலிஸ் நிர்வாகங்களும் தமிழர்களுக்கு எதிராகத் தொடர்ச்சியாக மேற்கொண்டுவரும் கைதுகள், நில அபகரிப்புக்கள் மற்றும் பொதுமக்களின் அன்றாட செயற்பாடுகளில் ஏற்படுத்தப்படும் அச்சுறுத்தல்கள், இடையூறுகளை வன்மையாகக் கண்டிப்பதாக பிரித்தானிய தமிழர் பேரவை தெரிவித்துள்ளது.
+The British Tamil Congress condemns the oppression of Tamils in Sri Lanka, including the arrest of temple priest and devotees at the Adivasivan Temple. It criticizes the Sri Lankan government's actions as threats to public activities and land grabbing, and accuses it of promoting communal conflicts.
 
-அண்மையில் வெடுக்குநாறிமலை ஆதிசிவன் ஆலயத்தில் இடம்பெற்ற சம்பவத்தைக் கண்டித்து பிரித்தானிய தமிழர் பேரவை வெளியிட்டுள்ள அறிக்கையில் மேலும் கூறப்பட்டிருப்பதாவது:
+🟩
+
+The British Tamil Congress has said that the Sri Lankan government and its military and police administrations have condemned the threats and disruption of the daily activities of the public, land grabbing and the public.
+
+A statement issued by the British Tamil Congress recently condemned the incident at the Adivasivan Temple at the Vedukunnarimalai Adisivan Temple:
+
+The arrest of the temple priest and the devotees who attended the Shivaratri worship ceremony of the Adivasivan Temple at the Adivasivan Temple, and all of them should be released immediately.. Moreover, according to the court's decision, the state administration, which has to take appropriate legal action and take appropriate legal action, is trying to threaten state forces on Tamils who have been worshiping for decades for decades.. Today, it has been relegated to the fact that the Sinhalese nation ignored the reality that oppression was forced to fight our people.
 
 ...
 
 [Data](articles/23571cf4.json)
+
+[Extended Data](ext_articles/23571cf4.ext.json)
 
 ---
 
@@ -2187,101 +2315,5 @@ The temperature in a normal human body is 37 degrees, and the body is hot this m
 [Data](articles/af1dc4c0.json)
 
 [Extended Data](ext_articles/af1dc4c0.ext.json)
-
----
-
-### Illegal killings by prisons and police: Report to Geneva
-
-*2024-03-18 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/179031) · `ta`
-
-A Sri Lankan organization reports alleged illegal killings and torture by police and prisons to the UN. Chairman of the Prisoners' Rights Committee, Sudesh Nandimal Silva, highlights the issue, supported by two other organizations. A court ordered compensation for a victim of sexual abuse and torture.
-
-🟩
-
-A Sri Lankan leading organization that argues for the rights of prisoners has issued a special report to the United Nations on the alleged illegal killings and torture carried out by the Sri Lankan police and prisons.
-
-Sudesh Nandimal Silva, Chairman of the Prisoners' Rights (CPRP) Committee (CPRP), has informed the media via Video
-
-"We presented the facts about the inhumane killings in Sri Lanka, the illegal killings in the police and the prison."
-
-Sudesh Nandimal Silva further stressed that two more organizations have submitted a report on the appointment of a police chief as a police chief in connection with torture.
-
-"We have created a document with the Committee to Protect the Rights of Prisoners, Society and Religious Center (CSR) and Bex Romena and handed over to the UN Special Relief on Human Rights."
-
-...
-
-[Data](articles/f708e098.json)
-
-[Extended Data](ext_articles/f708e098.ext.json)
-
----
-
-### Sri Lanka limited to 235 runs
-
-*2024-03-18 14:06:01* · [`adalk`](https://www.ada.lk/sports/ලංකාව-ලකුණු-235කට-සීමා-වෙයි/9-408675) · `si`
-
-Sri Lanka scored 235 runs. Bangladesh's bowlers won the toss. Janith Liyanage scored 101 runs. Nissanka was out for 1 run. Kusal Mendis scored 29 runs. Taskin Ahmed took 3 wickets.
-
-🟩
-
-Bangladesh bowlers to score the toss of the crucial attendance of the crucial attendance with Bangladesh team.
-
-Janith Liyanage scored an unbeaten 101 runs while defending his extreme. His wedding century was one-day century and he was able to indicate that skill in his 9th ODI.
-
-The failure of failure is also used as opener as the opening batsman. Wishing Nissanka was limited to one sign. Leader Kusal Mendis scored 29 runs.
-
-Taskin Ahmed took three wickets in bowling for Bangladesh.
-
-◼️
-
-[Data](articles/b25b8654.json)
-
-[Extended Data](ext_articles/b25b8654.ext.json)
-
----
-
-### Health strike temporarily suspends
-
-*2024-03-18 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194634) · `si`
-
-The Health Trade Union UPFA suspends its strike from tomorrow, responding to a request from the Ministry of Health.
-
-🟩
-
-The Health Trade Union UPFA has decided to temporarily suspend the strike to commence from tomorrow (19).
-
-The convener Ravi Kudmith was speaking at a media briefing in Colombo today.
-
-He further stated that the decision was taken in response to a written request made by the Ministry of Health.
-
-◼️
-
-[Data](articles/a5a9b513.json)
-
-[Extended Data](ext_articles/a5a9b513.ext.json)
-
----
-
-### 8 people killed in Afghanistan by air strikes
-
-*2024-03-18 14:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/179016) · `ta`
-
-Eight people, including women and children, killed in Pakistan's air strikes in Afghanistan's Ghost and Bhaktika provinces. Seven soldiers died in a police station attack in North Wasiristan, Pakistan. President Asif Ali Sardari vows retaliation.
-
-🟩
-
-A Taliban government spokesman has said that eight people have been killed in Pakistan's air strike in Afghanistan today.
-
-Safullah Mujahid has said that the attacks were carried out in the Ghost and Bhaktika provinces at around 3.00 am today and all the victims were women and children.
-
-Seven soldiers were killed in yesterday's attack on a police station in North Wasiristan, Pakistan.
-
-Pakistani President Asif Ali Sardari has said that the attacks will be retaliated.
-
-◼️
-
-[Data](articles/a74beacc.json)
-
-[Extended Data](ext_articles/a74beacc.ext.json)
 
 ---

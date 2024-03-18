@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 17:17:58**
+As of **2024-03-18 17:34:25**
 
 ## Newspaper Stats
 
-*Scraped **13,616** Articles*
+*Scraped **13,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,68 +19,102 @@ adalk | 1,173
 adaderanalk | 1,639
 tamilmirrorlk | 1,658
 virakesarilk | 1,901
-dailymirrorlk | 2,076
+dailymirrorlk | 2,077
 adaderanasinhalalk | 2,161
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,613 (100.0%) of 13,616 articles have been extended.
+13,616 (100.0%) of 13,617 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### බංග්ලාදේශයට සුපිරි ජයක්
+### Extending cracks on Jethawanaramaya Stupa stopped
+
+*2024-03-18 17:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Extending-cracks-on-Jethawanaramaya-Stupa-stopped/108-279078) · `en`
+
+Colombo, March 18 (Daily Mirror) - Sri Jayewardenepura University lecturer and Acting Director General of Archaeology, Prof. Gamini Ranasingha, told the Daily Mirror that the treatments administered to the cracks in the square chamber of the Jethawanaramaya have successfully halted their extension.
+
+He said the duration since the stupa was built and the changing environmental and weather patterns may have caused the four cracks.
+
+Being the largest brick structure in the world and with the weight of the stupa, treatments to prevent the spread of the four cracks had been initiated one and a half years ago.
+
+Equipment has been installed to monitor the crack, and a weekly inspection is being done to monitor the progress of the crack.
+
+However, following treatements, the extending of the crack has stopped.
+
+...
+
+[Data](articles/0e80be04.json)
+
+---
+
+### Superior victory for Bangladesh
 
 *2024-03-18 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194643) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර පැවැති අවසන් එක්දින තරගය කඩුලු 4කින් ජය ගැනීමට බංග්ලාදේශ කණ්ඩායම සමත් විය.
+Bangladesh triumphed in a 2-1 series against Sri Lanka, winning the final match by 4 wickets. Sri Lanka scored 235 in 50 overs, with Janith's 101 being the highest. Bangladesh's Taskin Ahmed took 3 wickets, and they chased 236 runs to win. Tunisid Hasan scored 84 for Bangladesh, with Mushaficur Rah not out on 37. Lahiru Kumara took 4 wickets for Sri Lanka.
 
-ඒ අනුව තරග 03 කින් සමන්විත එක්දින තරගාවලිය 2ට 1ක් ලෙස ජයගැනීමට බංග්ලාදේශය සමත්විය.
+🟩
 
-අද (18) තරගයේ කාසියේ වාසිය දිනා පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායමට සිය පන්දු ඕවර 50දී රැස්කළ හැකි වූයේ සියලුදෙනා දැවී ලකුණු 235ක් පමණි.
+Bangladesh won the final match between the Sri Lanka Tourism and Bangladesh by 4 wickets.
 
-එහිදී ශ්‍රී ලංකා ඉනිමේ වැඩිම ලකුණු ලාභියා වූයේ ජනිත් ලියනගේ  වන අතර ඔහු නොදැවී 101ක් රැස් කළේය.
+Accordingly, Bangladesh won the three-match series 2 to 1.
 
-නායක කුසල් මෙන්ඩිස් ලකුණු 29ක් රැස් කළ අතර චරිත් අසලංක ලකුණු 37ක් රැස් කළේය.
+The Sri Lankan team won the toss and elected to bat first in 50 overs, the Sri Lankan squad was only 235 runs.
 
-පන්දු යැවීමේ බංග්ලාදේශ කණ්ඩායම වෙනුවෙන්  තස්කින් අහමඩ් කඩුලු 03ක් දවා ගත්තේය.
+Janith was the highest scorer of Sri Lanka in Sri Lanka and he was unbeaten on 101.
 
-තරග ජය ගැනීම සඳහා ලකුණු 236ක ඉලක්කයක් හඹාගිය බංග්ලාදේශ ක්‍රීඩකයෝ පන්දු ඕවර 40.2 කදී තරගය ජයග්‍රහණය කිරීමට සමත්වූහ.
+Leader Kusal Mendis scored 29 runs and Charith scored 37 runs.
 
-එහිදී තන්සිඩ් හසන් ලකුණු 84ක් රැස්කළ අතර මුස්ෆිකූර් රහීම් නොදැවී ලකුණු 37ක් රැස්කළේය.
+Taskin Ahmed took three wickets for Bangladesh Bangladesh.
 
-පන්දු යැවීමේදී ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් ළහිරු කුමාර කඩුලු 04ක් දවාගත්තේය.
+Chasing a target of 236 runs to win the matches
+
+Tunisid Hasan scored 84 runs and Mushaficur rah scored 37 not out.
+
+Lahiru Kumara took 4 wickets for Sri Lanka.
 
 ◼️
 
 [Data](articles/c23e350c.json)
 
+[Extended Data](ext_articles/c23e350c.ext.json)
+
 ---
 
-### පාසල් දැරියක් අපයෝජනය කළ 13ක්
+### 13 of a school girl
 
 *2024-03-18 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194642) · `si`
 
-අනුරාධපුර නගරයේ බාබර් සාප්පුවක් තුළදී 14 හැවිරිදි වියේ පසුවන පාසල් දැරියක් වරින් වර දූෂණය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් පොලිස් ළමා හා කාන්තා කාර්යාංශය විශේෂ විමර්ශනයක් ආරම්භ කර ඇත.
+A 14-year-old schoolgirl in Anuradhapura was involved in an incident at a barber shop, leading to the arrest of two suspects. The police are investigating further, including 11 other suspects' children. The victim is a talented athlete.
 
-මෙම සිදුවීම සම්බන්ධයෙන් අදාළ බාබර් සාප්පුවේ කරණවෑමියා සහ තවත් පුද්ගලයෙක් පොලීසිය විසින් සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+🟩
 
-එම සැකකරුවන් දෙදෙනා අද (18)  අනුරාධපුර ප්‍රධාන මහෙස්ත්‍රාත් සහ අතිරේක දිසා විනිසුරු නාලක සංජීව ජයසූරිය මහතා හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව එළඹෙන 28 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාර ගතකර තිබේ.
+The Police Children's and Women's Bureau has launched a special investigation into an incident that a 14-year-old school girl during a barber shop in Anuradhapura.
 
-පොලීසියට ලද තොරතුරකට අනුව සිදුකළ මෙහෙයුමකදී වින්දිත දැරිය පොලිස් භාරයට ගෙන සිදුකළ ප්‍රශ්නකිරීම්වලදී මෙම තොරතුරු අනාවරණය වී තිබේ.
+The barber shop in the barber shop has been arrested on suspicion of the incident.
 
-අදාළ බාබර් සාප්පුව පසුපස ඇති කාමරයක් තුළදී මෙම අපරාධය සිදුව ඇති අතර සැකකරුවන් දෙදෙනාට අමතරව තවත් සැකකරුවන් 11 දෙනෙකුගේ නම්  දැරිය විසින් පොලීසියට අනාවරණය කර ඇත.
+The two suspects were presented to Anuradhapura Chief Magistrate and Additional District Judge Nalaka Sanjeewa until the 28th.
 
-එම සැකකරුවන් අතර උසස් පොලිස් නිලධාරිනියකගේ 70 හැවිරිදි වියේ පසුවන පියෙකු ද සිටින බවට තොරතුරු වාර්තාවෙයි.
+This information has been revealed at intervals carried out by the victim in connection with the police according to information received by the police.
 
-අදාළ සැකකරුවන් 11 දෙනා අත්අඩංගුවට ගැනීම සඳහා මේ වනවිට පොලීසිය විසින් විමර්ශනයක් ආරම්භ කර ඇති බවද පොලීසිය පවසයි.
+The crime was taken place in a room behind the barber shop and the children of 11 other suspects in addition to the two suspects have revealed the police.
 
-...
+It is reported that the suspects are a 70-year-old father, reports say.
+
+The police have launched an investigation to arrest the 11 suspects.
+
+It has been revealed that the victim girl participated in grade 09 and is a talented girl who has won the national level of winning sports competitions and winning them.
+
+◼️
 
 [Data](articles/ba4d7613.json)
+
+[Extended Data](ext_articles/ba4d7613.ext.json)
 
 ---
 
@@ -99,6 +133,8 @@ The former Deputy Controller of the Immigration Department is accused of providi
 ...
 
 [Data](articles/907f9135.json)
+
+[Extended Data](ext_articles/907f9135.ext.json)
 
 ---
 
@@ -2277,31 +2313,5 @@ Earlier, the tenure of the President had been extended for 7 years when Putin be
 [Data](articles/2c1092eb.json)
 
 [Extended Data](ext_articles/2c1092eb.ext.json)
-
----
-
-### Sri Lanka - Bangladesh final ODI today
-
-*2024-03-18 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194623) · `si`
-
-Sri Lanka vs Bangladesh ODI final today. Dilshan Madushanu, Bangladesh's Tunzim Hassan, and Litton Das unavailable.
-
-🟩
-
-Sri Lanka - Bangladesh third and last ODI cricket match will be held today (18).
-
-Meanwhile, Sri Lanka's fast bowler Dilshan Madushanu has lost the match today.
-
-During that second ODI, he was a leg disorder.
-
-Meanwhile, Bangladeshi fast bowler Tunzim Hassan has also lost the opportunity to play for the match today.
-
-The founding batsman Litton Das has also been removed from the squad today.
-
-◼️
-
-[Data](articles/f791e4bd.json)
-
-[Extended Data](ext_articles/f791e4bd.ext.json)
 
 ---

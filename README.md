@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 09:02:55**
+As of **2024-03-18 09:17:49**
 
 ## Newspaper Stats
 
-*Scraped **13,510** Articles*
+*Scraped **13,511** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 745
 adalk | 1,157
 adaderanalk | 1,630
 tamilmirrorlk | 1,653
-virakesarilk | 1,874
+virakesarilk | 1,875
 dailymirrorlk | 2,057
 adaderanasinhalalk | 2,142
 
@@ -26,29 +26,51 @@ adaderanasinhalalk | 2,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,507 (100.0%) of 13,510 articles have been extended.
+13,510 (100.0%) of 13,511 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### ශ්‍රී ලංකා - බංග්ලාදේශ අවසන් එක්දින තරගය අද
+### ரஷ்ய ஜனாதிபதி தேர்தலில் புடின் 88 சதவீத வாக்குகளுடன் வெற்றி
+
+*2024-03-18 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/178975) · `ta`
+
+ரஷ்ய ஜனாதிபதி தேர்தலில் விளாடிமிர் புடின் 88 சதவீத வாக்குகளுடன் வெற்றி பெற்றதாக முதல் அதிகாரப்பூர்வ முடிவுகள் தெரிவிக்கின்றன.
+
+வருகிற மே மாதம் 7 ஆம் திகதி புதிய ஜனாதிபதிக்கு பதவி பிரமாணம் செய்து வைக்கப்படும் என்று தெரிவிக்கப்பட்டுள்ளது.
+
+முன்னதாக ஜனாபதியின் பதவிக் காலமும் அப்போது 4 ஆண்டுகளாக இருந்த நிலையில், அது புடின் பிரதமராக இருந்த போது 7 ஆண்டுகளாக நீட்டிக்கப்பட்டது. புடின் சாகும் வரை ரஷ்யாவைத் தனது கட்டுப்பாட்டில் வைத்துக் கொள்ளவே இந்த சட்டத்தைக் கொண்டு வந்ததாக அப்போதே, பலரும் விமர்சனம் செய்திருந்தது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2c1092eb.json)
+
+---
+
+### Sri Lanka - Bangladesh final ODI today
 
 *2024-03-18 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194623) · `si`
 
-ශ්‍රී ලංකා - බංග්ලාදේශ තුන්වන සහ අවසන් එක්දින ක්‍රිකට් තරගය අද (18) පැවැත් වේ.
+Sri Lanka vs Bangladesh ODI final today. Dilshan Madushanu, Bangladesh's Tunzim Hassan, and Litton Das unavailable.
 
-මේ අතර ශ්‍රී ලංකා කණ්ඩායමේ වේග පන්දු යවන ක්‍රීඩක ඩිල්ෂාන් මධුශංකට අද තරගය අහිමි වී ඇති බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පැවසුවේය.
+🟩
 
-ඒ දෙවන එක්දින තරගය අතරතුර දී ඔහු පාදයේ ඇති වු ආබාධයක් හේතුවෙනි.
+Sri Lanka - Bangladesh third and last ODI cricket match will be held today (18).
 
-මේ අතර බංග්ලාදේශ වේග පන්දු යවන ක්‍රීඩක ටන්සිම් හසාන්ට ද අද තරගය සඳහා ක්‍රීඩා කිරීමේ අවස්ථාව අහිමි වී ඇති බව වාර්තා වේ.
+Meanwhile, Sri Lanka's fast bowler Dilshan Madushanu has lost the match today.
 
-බංගලාදේශ කණ්ඩායමේ ආරම්භක පිතිකරු ලිටන් දාස් ද අද සංචිතයෙන් ඉවත් කර ඇති අතර ඒ වෙනුවට ජාකර් අලී කැඳවා තිබේ.
+During that second ODI, he was a leg disorder.
+
+Meanwhile, Bangladeshi fast bowler Tunzim Hassan has also lost the opportunity to play for the match today.
+
+The founding batsman Litton Das has also been removed from the squad today.
 
 ◼️
 
 [Data](articles/f791e4bd.json)
+
+[Extended Data](ext_articles/f791e4bd.ext.json)
 
 ---
 
@@ -68,6 +90,8 @@ In a speech at his campaign headquarters on Sunday evening, Putin brushed off we
 
 [Data](articles/ef8b3021.json)
 
+[Extended Data](ext_articles/ef8b3021.ext.json)
+
 ---
 
 ### Public trust in parliament and political parties reaches all time low: Survey
@@ -83,6 +107,8 @@ According to the findings, Army and Courts enjoy the status of the most trusted 
 ...
 
 [Data](articles/be32ceb1.json)
+
+[Extended Data](ext_articles/be32ceb1.ext.json)
 
 ---
 
@@ -2239,27 +2265,5 @@ Wijeratne has therefore requested the Central Bank Governor to take appropriate 
 [Data](articles/c08f7803.json)
 
 [Extended Data](ext_articles/c08f7803.ext.json)
-
----
-
-### “The SJB government will make English language education”
-
-*2024-03-17 15:21:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆங்கில-மொழிக்-கல்வியை-SJB-அரசாங்கம்-கட்டாயமாக்கும்/175-334800) · `ta`
-
-Sajith Premadasa announced that the SJB government will make English language education compulsory from grade one to thirteen, free from Chinese, Hindi, Japanese, IT, and computer science.
-
-🟩
-
-Opposition Leader Sajith Premadasa said the future United People's Power (SJB) government would make English language education compulsory.
-
-Speaking at a youth rally in Kurunegala, he said that he would make English education compulsory for students from grade one to thirteen.
-
-He also said, "We will teach young people free of Chinese, Hindi, Japanese, information technology and computer science."
-
-◼️
-
-[Data](articles/3cd3ccba.json)
-
-[Extended Data](ext_articles/3cd3ccba.ext.json)
 
 ---

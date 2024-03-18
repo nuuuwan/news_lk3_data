@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 16:03:12**
+As of **2024-03-18 16:17:49**
 
 ## Newspaper Stats
 
-*Scraped **13,603** Articles*
+*Scraped **13,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,64 +15,96 @@ newsfirstlk | 363
 dailyftlk | 713
 economynextcom | 721
 islandlk | 746
-adalk | 1,169
+adalk | 1,171
 adaderanalk | 1,636
 tamilmirrorlk | 1,658
 virakesarilk | 1,901
 dailymirrorlk | 2,076
-adaderanasinhalalk | 2,155
+adaderanasinhalalk | 2,156
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,596 (99.9%) of 13,603 articles have been extended.
+13,603 (100.0%) of 13,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### අමෙරිකානු නීතිපති දෙපාර්තමේන්තුව අදානි ගැන විමසිල්ලෙන්
+### හොර පාස්පෝට් හැදූ බවට සැක ලොක්කාට ලැබුණු නියෝගය
 
-*2024-03-18 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194637) · `si`
+*2024-03-18 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194638) · `si`
 
-අමෙරිකානු කොටස් වෙළෙඳපොළ තැරැව්කාර සමාගමක් වන හින්ඩන්බර්ග් ඉදිරිපත් කළ චෝදනා රැසක් ඇතුළත් වාර්තාවක් නිසා පසුගිය වසරේ දරුණු අර්බුදයකට ලක්වූ ඉන්දියාවේ අදානි සමූහය නැවතත් අමෙරිකානු වාර්තාවක් නිසා අර්බුදයකට ලක්වී තිබේ.
+සංවිධානාත්මක අපරාධකරුවෙකුට රටින් පළායාම සඳහා විදෙස් ගමන් බලපත්‍ර සකසාදීම සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් ආගමන විගමන දෙපාර්තමේන්තුවේ හිටපු නියෝජ්‍ය පාලකවරයා ඇප මත මුදාහැර තිබේ.
 
-දැන් නිකුත් වී ඇති වාර්තාවේ සඳහන් වන්නේ අදානි සමූහය සිය ගනුදෙනුවලදී අල්ලස් යොදා ගන්නේදැයි අමෙරිකානු නීතිපති දෙපාර්තමේන්තුව පුළුල් ලෙස සොයාබලමින් සිටින බවයි.
+සැකකරු අද (18) කඩුවෙල මහෙස්ත්‍රාත් චාණිමා විජේබණ්ඩාර මහත්මිය හමුවට ඉදිරිපත් කිරීමෙන අනතුරුව රුපියල් ලක්ෂ 5 බැගින් වූ ශරීර ඇප දෙකක් මත මුදාහැර ඇත.
 
-එම වාර්තාවත් සමඟ අදානි සමූහයේ ඉන්දියාව තුළ කොටස් මිල ගණන් 5%කින් පමණ අද (18) පහත වැටුණි.
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ විසින් මෙලෙස අත්අඩංගුවට ගෙන අධිකරණය වෙත ඉදිරිපත් කළේ වර්තමානයේ විශ්‍රාම වැටුප් දෙපාර්තමේන්තුවේ සේවයේ නිරත උසස් නිලධාරියෙකි.
 
-එහිදී අදානි සමූහයේ කොටස් මිල මාස දෙකක් තුළ අඩුම අගයක් සටහන් කර තිබුණි.
+◼️
 
-අදානි සමූහයට අයත් සමාගම් දහයේම කොටස් මිල මෙලෙස පහත වැටී ඇති බව වාර්තා වෙයි.
-
-අදානි සමූහයේ බැඳුම්කර වටිනාකම්ද මේ සමඟ පහත වැටී ඇති බවත් විශේෂයෙන් ඩොලර් බැඳුම්කර වටිනාකම් මෙහිදී පහත වැටී ඇති බවත් අනාවරණ වෙයි.
-
-අදානි සමූහයේ සමාගම් ඉන්දියාවේ බලශක්ති ව්‍යාපෘති ලබාගැනීම සඳහා අල්ලස් යොදාගන්නේද යන්න අමෙරිකානු බලධාරීන් විමර්ශනය කරන බව සඳහන් ය.
-
-...
-
-[Data](articles/f9be1399.json)
+[Data](articles/98627b33.json)
 
 ---
 
-### காஸா போர் நிறுத்தம்: கட்டார் பிரதமர், மொசாட் தலைவர் பேச்சுவார்த்தை
+### The American Attorney General's Department is watching Rajapakse about
+
+*2024-03-18 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194637) · `si`
+
+The US Attorney General's Department is investigating allegations of bribery by the Rajapakse Group, leading to a 5% drop in India's share prices and significant losses for the Avani Group, including a $1.4 billion decrease in assets.
+
+🟩
+
+The Rajapakse Group of India, who had received many charges from the American stock market broker, has been reported from a serious crisis in India due to a crisis in recent years.
+
+The report released now that the US Attorney General's Department is widely detected if the Rajapaksas use bribes in their transactions.
+
+With the report, India's share prices fell by 5% today (18).
+
+The share prices of the Vani Group recorded the lowest in two months.
+
+The number of companies belonging to the Avani Group has fallen this way.
+
+The binding value of the Avali Group has fallen along with this, especially the dollar bond values have fallen here.
+
+The US authorities are investigating whether companies in the Avilian Group uses bribes to obtain India's energy projects.
+
+The 17th in the Forbe Retirement list The asset was fell $ 1.4 billion in today's day.
+
+◼️
+
+[Data](articles/f9be1399.json)
+
+[Extended Data](ext_articles/f9be1399.ext.json)
+
+---
+
+### Gaza ceasefire: Qatar Prime Minister, Mossad leader talks
 
 *2024-03-18 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/179048) · `ta`
 
-காஸா போர் நிறுத்தம் தொடர்பில், கட்டார் பிரதமர், இஸ்ரேலின் புலனாய்வு அமைப்பான மொஸாட்டின் தலைவர் மற்றும் எகிப்திய அதிகாரிகளுக்கு இடையிலான பேச்சுவார்த்தை இன்று நடைபெறும் என எதிர்பார்க்கப்படுகிறது.
+Qatar's PM, Mossad leader, and Egyptian officials discuss Gaza ceasefire. Hamas proposed a 6-week ceasefire, rejected by Israel. Plan includes releasing 42 hostages and Israel releasing 20-50 Palestinian prisoners per hostage. Hamas demands Israeli withdrawal from Gaza and daily delivery of 500 humanitarian aid items. Israel refuses withdrawal. Netanyahu says Hamas's ideas are realistic, but Israel will send representatives for further talks.
 
-கத்தார் பிரதமர் மொஹம்மத் பின் அப்துல்ரஹ்மான் அல் தானி, மொசாட் தலைவர் டேவிட் பார்னியா, மற்றும் எகிப்தி அதிகாரிகள் ஆகியார் இன்று கட்டார் தலைநகர் தோஹாவில் எதிர்பார்க்கப்படுவதாக தன்னை அடையாளப்படுத்த விரும்பாத வட்டாரமொன்று ஏ.எவ்.பியிடம் தெரிவித்துள்ளது.
+🟩
 
-காஸாவில் 6 வார கால போர் நிறுத்தத்தை ஏற்படுத்துவதற்கான  திட்டத்தை  பேச்சுவார்த்தை மத்தியஸ்தர்களான எகிப்து மற்றும் கட்டாரிடம் ஹமாஸ் கடந்த வெள்ளிக்கிழமை முன்வைத்திருந்தது. எனினும் அதை இஸ்ரேல் நிராகரித்தது.
+The Qatar Prime Minister, the head of the Israeli intelligence agency, Mossaat, and the Egyptian officials are expected to take place today over the Gaza ceasefire.
 
-இத்திட்டத்தின்படி, 42 நாட்களுக்கு போர் நிறுத்தம் கடைபிடிக்கப்படும். அக்காலப்பதியில் 42 பணயக் கைதிகளை ஹமாஸ் விடுவிக்கும்.
+Qatar Prime Minister Mohammad bin Abdulrahman al -Thani, Mossad leader David Barnia and Egyptian officials today told AVP that he was expected to be expected in Qatar's capital, Doha.
 
-ஒவ்வொரு பணயக் கைதிக்கும் 20 முதல் 50 வரையான எண்ணிக்கையிலான பலஸ்தீன சிறைக்கைதிகளை இஸ்ரேல் விடுவிக்க வேண்டும் எனத் தெரிவிக்கப்பட்டுள்ளது.
+Hamas presented the mediators Egypt and Qatar last Friday to the plan to establish a 6 -week ceasefire in Gaza. However, Israel rejected it.
+
+According to the scheme, the ceasefire will be held for 42 days. Hamas will release 42 hostages at that time.
+
+Israel has been asked to release 20 to 50 Palestinian prisoners for each hostage.
+
+On September 7, the Hamas movement was carried out in Gaza as a hostage of about 250 people from Israel's southern part.. Israel believes that about 130 of them have not been released from Gaza. Of these, 32 people who are supposed to have died.
 
 ...
 
 [Data](articles/acb6b2c4.json)
+
+[Extended Data](ext_articles/acb6b2c4.ext.json)
 
 ---
 
@@ -124,6 +156,8 @@ The grant also covers portable ultrasonic scanners, gynecological examination ta
 
 [Data](articles/9a47207f.json)
 
+[Extended Data](ext_articles/9a47207f.ext.json)
+
 ---
 
 ### Operation ‘Yukthiya’ further in progress to minimize crimes in North – Tiran Alles
@@ -166,23 +200,43 @@ Heat exists during the day as well as during the night. Therefore, the departmen
 
 ---
 
-### Francophonie 2024 – மார்க் அய்மன் Marc Aymon மற்றும் மில்லா பெஸ்ஸன் Milla Besson ஆகியோரின் இசை நிகழ்ச்சி
+### Francophonie 2024 - Mark Ayman Marc Aymon and Milla Beson Milla Besson
 
 *2024-03-18 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179039) · `ta`
 
-இலங்கை மற்றும் மாலைதீவுகளுக்கான சுவிட்சர்லாந்து தூதரகம், International Organization of la Francophonie உடன் இணைந்து, கொழும்பு மற்றும் அஹங்கம பகுதிகளில் இசை நிகழ்ச்சியொன்றை ஏற்பாடு செய்யப்பட்டது.
+Switzerland and La Francophonie celebrated Francophonie 2024 in Sri Lanka and Maldives, featuring Swiss musicians Mark Ayman Marc Aymon and Milla Besson Milla Besson. Events included masterclasses and performances, showcasing Swiss culture and music.
 
-வருடாந்த பிரெஞ்சு மொழி மற்றும் Francophonie கலாசாரங்கள் போன்றவற்றுடன் சுவிஸ் இசைக் கலைஞர்களான மார்க் அய்மன் Marc Aymon மற்றும் மில்லா பெஸ்ஸன் Milla Besson ஆகியோருடன் Francophonie 2024 ஐ கொண்டாடும் நோக்கில், ஏற்பாடு செய்யப்பட்டது.
+🟩
 
-அறிமுக நிகழ்வு மார்ச் மாதம் 16ஆம் திகதி பி.ப. 7 மணி முதல் கொழும்பு ‘Alliance Française de Colombo இல் நடைபெற்றது. அதனைத் தொடர்ந்து, மார்ச் 17 ஆம் திகதி பி.ப. 7.00 மணி முதல் TRAX அஹங்கமவிலும் நடைபெற்றது.
+The Switzerland Embassy for Sri Lanka and the Maldives, in collaboration with the International Organization of La Francophonie, was organized in Colombo and Ahangama.
 
-Master classes மார்ச் மாதம் 16 ஆம் திகதி கட்புல, அரங்கேற்றக் கலைகள் பல்கலைக்கழகத்தில் நடைபெற்றது.
+Arrangements were made to celebrate Francophonie 2024 with Swiss musicians Mark Ayman Marc Aymon and Milla Besson Milla Besson with annual French language and Francophonie cultures.
 
-Valais ஐச் சேர்ந்த பிரதான கலைஞரான மார்க் அய்மன் Marc Aymon, ஒரு கவிஞர் மற்றும் பாடகருமாவார். பிரெஞ்சு மொழி பேசப்படும் நாடுகளில் பெருமளவில் இசைக்கப்படும் 8 அல்பம்கள் மற்றும் 4 தனிப் பாடல்கள் போன்றவற்றி்ன் உரிமையாளராக அய்மன் திகழ்கின்றார்.
+The launch event was on March 16th.. The Alliance Française de Colombo was held from 7am to Colombo. Subsequently, on March 17,. TRAX AHangama was held from 7.00 pm.
+
+Master Classes was held on the 16th of March at the University of Kattupula and Arts.
+
+Mark Ayman Marc Aymon, the main artist from Valais, is a poet and singer. Ayman is the owner of 8 albums and 4 separate songs in the French -speaking countries.
+
+He has played his songs at Francophonie celebrations in Paraguay, France, Pianos Aires, Kenya, Rwanda and Egypt. Valais Dulcimer, Drums, Kotamo, Handpan, Backhornxylo and Glasudu are talented in music.
 
 ...
 
 [Data](articles/f2ae8be3.json)
+
+[Extended Data](ext_articles/f2ae8be3.ext.json)
+
+---
+
+### පාසල් ක්‍රීඩා උත්සව අලුත් අවුරුද්දෙන් පසුව පවත්වන්න
+
+*2024-03-18 15:19:26* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ක්‍රීඩා-උත්සව-අලුත්-අවුරුද්දෙන්-පසුව-පවත්වන්න/11-408679) · `si`
+
+වර්තමානයේ පවතින අධික උණුසුම් සහිත කාලගුණික තත්ත්වයත් සමඟ පාසල් නිවාසාන්තර ක්‍රීඩා උත්සව අප්‍රේල් අලුත් අවුරුදු නිවාඩුවෙන් පසුව පවත්වන ලෙස ඊට අදාළ චක්‍රෙල්ඛය අද 18දා නිකුත්කරන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේම්ජයන්ත් මහතා ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/14e32518.json)
 
 ---
 
@@ -225,6 +279,8 @@ The government was blocking action being taken on COPE findings through standing
 ...
 
 [Data](articles/da7a338b.json)
+
+[Extended Data](ext_articles/da7a338b.ext.json)
 
 ---
 
@@ -400,6 +456,24 @@ Sudesh Nandimal Silva further stressed that two more organizations have submitte
 
 ---
 
+### ලංකාව ලකුණු 235කට සීමා වෙයි
+
+*2024-03-18 14:06:01* · [`adalk`](https://www.ada.lk/sports/ලංකාව-ලකුණු-235කට-සීමා-වෙයි/9-408675) · `si`
+
+සත්කරක බංග්ලාදේශ කණ්ඩායම සමගින් පැවැත්වෙන තීරණාත්මක ‌තෙවැනි ඒක්දින තරගයේ කාසියේ වාසිය දිනා පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම ලකුණු 235ට සීමා කිරීමට බංග්ලාදේශ පන්දු යවන්නෝ සමත්වූහ.
+
+ශ්‍රී ලංකා කණ්ඩායමේ පිතිකරුවන් ඒකිනෙකා පිට දැවී යද්දී තම අන්තය ආරක්ෂා කර ගනිමින් විශිෂ්ඨ ඉනිමක් ක්‍රීඩා කළ ජනිත් ලියනගේ නොදැවී ලකුණු 101 ක් රැස් කිරීමට සමත්විය. ඒය ඔහුගේ මංගල එක්දින ශතකය වූ අතර සිය 9 වැනි එක්දින තරගයේදී ඔහු එම දක්ෂතාව දැක්වීමට සමත්ව තිබුණි.
+
+දිගින් දිගටම අසාර්ථකවෙමින් සිටින අවිශ්ක ප්‍රනාන්දු මෙම තරගයේදීත් ආරම්භක පිතිකරු ලෙස යොදා ගෙන තිබුණ අතර ඔහු ලකුණු 4ට දැවී ගියේය. පැතුම් නිශ්ශංක එක ලකුණකට සීමා විය. නායක කුසල් මෙන්ඩිස් ලකුණු 29ක් රැස් කළේය.
+
+බංග්ලාදේශය වෙනුවෙන් පන්දු යැවිමෙන් ටස්කින් අහමඩ් කඩුලු 3ක් දවා ගත් අතර මුෂ්ටෆිෂුර් රෙහෙමාන් කඩුලු 2ක් හා මෙහෙදි හසන් මිරාස් කඩුලු 2ක් දවා ගත්තේය.
+
+◼️
+
+[Data](articles/b25b8654.json)
+
+---
+
 ### Health strike temporarily suspends
 
 *2024-03-18 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194634) · `si`
@@ -461,6 +535,8 @@ The Department of Archaeology has been accused of encroaching on land belonging 
 ...
 
 [Data](articles/10c52cdb.json)
+
+[Extended Data](ext_articles/10c52cdb.ext.json)
 
 ---
 
@@ -1025,6 +1101,8 @@ In July last year, Fitch Ratings said it was maintaining an ‘A-(lka)’ rating
 ...
 
 [Data](articles/e4c4c423.json)
+
+[Extended Data](ext_articles/e4c4c423.ext.json)
 
 ---
 
@@ -2191,69 +2269,5 @@ Police have arrested a man suspected of distributing drugs and several bus worke
 [Data](articles/e4824363.json)
 
 [Extended Data](ext_articles/e4824363.ext.json)
-
----
-
-### "Do not sow Buddhism under the guise of archeology"
-
-*2024-03-18 07:38:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொல்பொருள்-எனும்-போர்வையில்-பௌத்தத்தை-விதைக்காதே/175-334822) · `ta`
-
-"Protest against police interference in worship at Sivankoili, Trincomalee. Demand release of temple administrators and respect for Tamil identity. Criticize police action on Shivaratri, Vedukkuni Mountain, as unsuitable for society."
-
-🟩
-
-On the day of the eighth day, a protest march was held in the presence of the Sivankoili in Trincomalee yesterday evening (17).
-
-Worship is our fundamental right of the Adi Shiva Temple, our ancestry, do not extort the religious leaders of Eelam, do not sow Buddhism in the guise of archaeological, who gave the police the right to prevent worship, immediately release the temple administrators, and the native identity of the Tamils.
-
-The incident that took place on the sacred Shivaratri day of the Vedukkuni Mountain. At a media briefing held in Trincomalee on Sunday evening (17), the police said that the police were acting.
-
-It is not good to do such things when we continue to worship as he continues to speak. He said that this country is not suitable for a society, but when worshiping the Lord, the oppressive event cannot be accepted not only for vegetarianism but for the entire community.
-
-◼️
-
-[Data](articles/5143423c.json)
-
-[Extended Data](ext_articles/5143423c.ext.json)
-
----
-
-### Suspect arrested with over 1kg of heroin in Hanwella
-
-*2024-03-18 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98021/suspect-arrested-with-over-1kg-of-heroin-in-hanwella) · `en`
-
-A suspect has been arrested while in possession of more than 01 kilogram of heroin in the Balagewatte area in Hanwella by officers of the Walana Anti-Vice Squad, police said.
-
-The 42-year-old, a resident of Brandigampola, was arrested during a raid carried out yesterday morning (17) based on information received by officers of the Walana Anti-Vice Squad.
-
-Police said that 01 kg and 03 mg of heroin, 03 mobile phones suspected to have been used for drug trafficking, 05 bank passbooks for accounts in several banks and 04 debit cards were found in the possession of the suspect.
-
-Investigations have uncovered that the arrested suspect is a close associate of an imprisoned drug trafficker.
-
-The arrestee has been handed over to Hanwella Police who are conducting further investigations into the suspect.
-
-◼️
-
-[Data](articles/12327feb.json)
-
-[Extended Data](ext_articles/12327feb.ext.json)
-
----
-
-### Evening showers expected in parts of the island
-
-*2024-03-18 07:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98020/evening-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Galle and Matara districts in the evening or night.
-
-Mainly dry weather will prevail elsewhere in the island, it said.
-
-Misty conditions can be expected at some places in Sabaragamuwa and Central provinces and in Galle and Kalutara districts during the morning.
-
-◼️
-
-[Data](articles/d010bd35.json)
-
-[Extended Data](ext_articles/d010bd35.ext.json)
 
 ---

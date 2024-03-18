@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 13:52:11**
+As of **2024-03-18 14:02:52**
 
 ## Newspaper Stats
 
-*Scraped **13,577** Articles*
+*Scraped **13,580** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 746
 adalk | 1,167
 adaderanalk | 1,633
 tamilmirrorlk | 1,658
-virakesarilk | 1,892
+virakesarilk | 1,895
 dailymirrorlk | 2,072
 adaderanasinhalalk | 2,151
 
@@ -26,51 +26,117 @@ adaderanasinhalalk | 2,151
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,572 (100.0%) of 13,577 articles have been extended.
+13,577 (100.0%) of 13,580 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### පියාගේ වියෝවයෙන් සංවේදී වූ පුංචි දියණිය
+### ஜனித் லியனகேயின் கன்னிச் சதம் இலங்கைக்கு கைகொடுத்தது
+
+*2024-03-18 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179029) · `ta`
+
+சட்டோக்ராம், ஸஹுர் அஹ்மத் சௌதரி விளையாட்டரங்கில் இன்று திங்கட்கிழமை (18) நடைபெற்றுவரும் இலங்கைக்கும் பங்ளாதேஷுக்கும் இடையிலான தீர்மானம் மிக்க கடைசி சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் ஜனித் லியனகே குவித்த கன்னிச் சதத்தின் பலனாக இலங்கை கௌரவமான மொத்த எண்ணிக்கையைப் பெற்றது.
+
+தொடரைக் கைப்பற்றும் முனைப்பில் இரண்டு அணிகளும் மோதும் இப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த இலங்கை 50 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 235 ஓட்டங்களைப் பெற்றது.
+
+உதவி அணித் தலைவர் சரித் அசலன்க, ஜனித் லியனவே ஆகிய இருவரே துடுப்பாட்டத்தில் திறமையை வெளிப்படுத்தினர்.
+
+18ஆவது ஓவரில் மொத்த எண்ணிக்கை 74 ஓட்டங்களாக இருந்தபோது இலங்கை 4ஆவது விக்கெட்டாக குசல் மெண்டிஸை இழந்தது.
+
+அப்போது களம் நுழைந்த ஜனித் லியனகே மிகத் திறமையாகத் துடுப்பெடுத்தாடி 102 பந்துகளில் 11 பவுண்டறிகள், 2 சிக்ஸ்கள் உட்பட 101 ஓட்டங்களுடன் ஆட்டம் இழக்காதிருந்தார்.
+
+இந்தப் போட்டிக்கு மீளழைக்கப்பட்ட மஹீஷ் தீக்ஷன 8ஆவது விக்கெட்டில் ஜனித் லியனகேவுக்கு பக்கபலமாகத் துடுப்பெடுத்தாடி 60 ஓட்டங்களைப் பகிர்ந்தார்.
+
+...
+
+[Data](articles/5560b553.json)
+
+---
+
+### ஐஸ் போதைப் பொருளுடன் ஒருவர் கைது
+
+*2024-03-18 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/179028) · `ta`
+
+கல்கிஸ்ஸ பொலிஸ் பிரிவிற்குட்பட்ட குலவர்தன மாவத்தை பிரதேசத்தில்  பொலிஸாருக்கு கிடைத்த தகவலின் மூலம்  ஞாயிற்றுக்கிழமை (17) மேற்கொண்ட சுற்றி வளைப்பின் போது ஐஸ் போதைப் பொருளுடன் சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+இவ்வாறு கைது செய்த சந்தேக நபர் கல்கிஸ்ஸ பிரதேசத்தைச் சேர்ந்த 41 வயதுடையவராவார்.
+
+மேலும், கைது செய்த சந்தேக நபரிடம் இருந்து 12 கிராம் ஐஸ் போதைப் பொருள் கைப்பற்றப்பட்டதாகவும் இச் சம்பவம் தொடர்பான மேலதிக விசாரணைகளை மேற்கொண்டுள்ளதாகவும் கல்கிஸ்ஸ பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/aaa237a2.json)
+
+---
+
+### Little daughter sensitive to the father's death
 
 *2024-03-18 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194633) · `si`
 
-කැනඩාවේ ඔටාවාහි නිවසක් තුළ ඝාතනයට ලක් වූ කුඩා දරුවන් සිව්දෙනා ඇතුළු ශ්‍රී ලාංකිකයින් 06 දෙනාගේ අවසන් කටයුතු ඊයේ (17) එරට වේලාවෙන් පස්වරු එකට සිදු කෙරුණි.
+A tragic incident in Baruven, Canada, resulted in the death of six Sri Lankans, including five in Sri Lanka. The funeral began at 10.30 pm last night, attended by many locals and family members. Dhanushka Wickremasinghe, a survivor, led the ritual. The victims' daughter expressed deep sorrow, wishing her father a peaceful afterlife.
 
-කැනඩාවේ ඔටාවා නුවරට තදාසන්න බාර්හේවන් ප්‍රදේශයේ නිවසකදී ශ්‍රී ලාංකික එකම පවුලේ 5 දෙනෙකු ඇතුළු ශ්‍රී ලාංකිකයින් 06 දෙනෙක් අමානුෂික ලෙස ඝාතනය කෙරුණේ පසුගිය මාර්තු 6 වනදාය.
+🟩
 
-ඝාතනය සම්බන්ධයෙන් චෝදනා එල්ල වුණේ 19 හැවිරිදි ශ්‍රී ලාංකික ෆෙබ්‍රියෝ ද සොයිසා තරුණයාටය.
+The funeral of the six Sri Lankans took the funeral of the four persons including the four children who were killed in an Ottawa house in Canada.
 
-මෙම සිද්ධියෙන් මියගිය ශ්‍රී ලාංකිකයින් 6 දෙනාගේ අවමංගල්‍ය උත්සවය මෙරට වේලාවෙන් ඊයේ රාත්‍රී 10.30ට පමණ ආරම්භ විය.
+Six Sri Lankans, including five Sri Lankan in Sri Lanka, was brutally murdered at a house in the Baruven area in Baruven, Canada.
 
-එහිදි ජීවිතක්ෂයට පත් ලාංකිකයින්ගේ දේහ සම්මේලන මධ්‍යස්ථාන වෙත රැගෙන එනු ලැබීය.
+The youth is the 19-year-old Sri Lankan Felgrio de Zoysa.
 
-මේ සඳහා බාර්හේවන් ප්‍රදේශයේ දිවිගෙවන බොහෝ දෙනකු සහභාගී වී සිටියේය.
+The funeral of the six Sri Lankans who died in the incident began at around 10.30 pm last night.
 
-එමෙන්ම ප්‍රහාරයෙන් දිවි බේරාගත් ශ්‍රී ලාංකික පවුලේ පියා වන ධනුෂ්ක වික්‍රමසිංහ ද අවමංගල්‍යය උත්සවයට සහභාගී වුණේ තියුණු ආයුධ ප්‍රහාරයෙන් මුහුණේ ඇතිවූ කැලැල් සහ දකුණු අතේ වෙන් වූ ඇඟිල්ල වෙළුම් පටිවලින් ආවරණය කරගනිමිනි.
+The victims were brought to the Body of Sri Lankans' Body of Sri Lanka.
 
-එමෙන්ම ධනුෂ්කගේ පියා සහ සහෝදරයෙකු ද මෙම අවස්ථාවට සහභාගි ව සියේය.
+Many people who live in Baruven have participated in this.
+
+Dhanushka Wickremasinghe, the father of the Sri Lankan family who survived the survivors, attended the funeral covering the funeral and coverage of the south of the right hand.
+
+Dhanushka's father and brother were also present.
+
+Dhanushka joined the ritual of the memory and pan.
+
+The wife of the Wickremesinghe family, who was killed by the attack, had been recording a recording message for the funeral from the country.
 
 ...
 
 [Data](articles/b1ca91bd.json)
 
+[Extended Data](ext_articles/b1ca91bd.ext.json)
+
 ---
 
-### තෙවැනි තරගයේ වැඩි වාසි බංග්ලාදේශයට
+### கோப் குழுவிலிருந்து இராஜினாமாச் செய்தார் இரான் விக்கிரமரத்ன
+
+*2024-03-18 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179027) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் இரான் விக்கிரமரத்ன, பொது நிறுவனங்கள் தொடர்பான நாடாளுமன்றக் குழு  (கோப்)   உறுப்புரிமையிலிருந்து இராஜினாமா செய்துள்ளார்.
+
+◼️
+
+[Data](articles/eeef32ec.json)
+
+---
+
+### Bangladesh for the third match
 
 *2024-03-18 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194632) · `si`
 
-ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවැත්වෙන තෙවැනි සහ අවසාන එක්දින ජාත්‍යන්තර තරගය මේ වනවිට බංග්ලාදේශයේ චිතගොං හි පැවැත්වෙයි.
+In the final ODI in Bangladesh, Sri Lanka won the toss and chose to bat, scoring 235 runs. Janith Liyanage was unbeaten on 235.
 
-එහිදී කාසියේ වාසිය දිනා පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායමට සිය පන්දු ඕවර 50දී රැස්කළ හැකි වූයේ සියලුදෙනා දැවී ලකුණු 235ක් පමණි.
+🟩
 
-ශ්‍රී ලංකා ඉනිමේ වැඩිම ලකුණු ලාභියා වූයේ ජනිත් ලියනගේ ය. ඔහු රැස්කළ ලකුණු  ගණන නොදැවී 101කි.
+The third and last ODI is the third and final ODI in Bangladesh.
+
+The Sri Lankan team won the toss and elected to bat first, only 235 runs for the loss of all fired.
+
+Janith Liyanage was the highest scorer of Sri Lankan innings. He was unbeaten on the number of points he had collected.
 
 ◼️
 
 [Data](articles/e159238a.json)
+
+[Extended Data](ext_articles/e159238a.ext.json)
 
 ---
 
@@ -89,6 +155,8 @@ The health authorities were also informed about the health issues that can occur
 ◼️
 
 [Data](articles/f85f88bb.json)
+
+[Extended Data](ext_articles/f85f88bb.ext.json)
 
 ---
 
@@ -1470,6 +1538,8 @@ According to the findings, Army and Courts enjoy the status of the most trusted 
 
 [Data](articles/ff3bccb7.json)
 
+[Extended Data](ext_articles/ff3bccb7.ext.json)
+
 ---
 
 ### Freedom Party (SLFP) is a crisis in the leadership of the New UPFA
@@ -1780,29 +1850,39 @@ Sri Lanka's High Commissioner to Sri Lanka Harsha Navaratne, Minister of Sri Lan
 
 ---
 
-### රවී රොයිස්ටර්: දකුණු ඉන්දීය සිනමාවේ දැවැන්ත සලකුණක් තැබූ ශ්‍රී ලාංකික තරුණ සංගීතවේදියා
+### Ravi Royntter: Sri Lankan young musician launched a massive mark in South Indian cinema
 
 *2024-03-18 06:34:56* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clwe1jp407jo) · `si`
 
-රවී රොයිස්ටර්: දකුණු ඉන්දීය සිනමාවේ දැවැන්ත සලකුණක් තැබූ ශ්‍රී ලාංකික තරුණ සංගීතවේදියා
+Sri Lankan musician Ravi Royntter made a significant impact in South Indian cinema with his song for the film 'Romeo', directed by Violence. Despite not knowing Tamil and Telugu, he successfully sang the main song, which became a massive hit, reaching 4 million views in 4 days.
 
-ශ්‍රී ලංකා සිනමා ගීත ඉතිහාසය පිරික්සීමේදී අපට පෙනී යන විශේෂ කරුණක් නම් භාරතීය තනු අනුසාරයෙන් සිංහල ගීත නිර්මාණය කිරීම ය.
+🟩
 
-මුල් යුගයේදී සිංහල සිනමා ගීත බොහොමයක් නිර්මාණය කෙරුණේ, භාරතීය තනු අනුසාරයෙනි. ස්වතන්ත්‍ර ගීත නිර්මාණය වූයේ, ඉතා අල්ප වශයෙනි.
+Ravi Royntter: Sri Lankan young musician launched a massive mark in South Indian cinema
 
-එවන් තත්ත්වයක පැවති සිංහල සංගීතය මේ වන විට ජාත්‍යන්තර මට්ටමට ඉහළට එසවුණු අවස්ථා රැසක් තිබේ.
+The fact that when we see the history of Sri Lanka's cinema songs, we show Sinhala songs from Bharatiya Dansa.
 
-ඒ අනුව, ශ්‍රී ලංකාවේ නිර්මාණය වන ගී තනු ඉන්දීය චිත්‍රපට ගීත සඳහා භාවිත කරන තත්ත්වයක් උදා වී ඇත.
+In the early age, many Sinhalese films were created by Bharatiya Bharatne. The autonomous songs was created, very little.
 
-මෙහි නවතම ජයග්‍රහණය ලෙස වාර්තා වූයේ, ශ්‍රී ලාංකික යොවුන් ගායන ශිල්පී සහ සංගීත නිර්මාණ ශිල්පී රවී රොයිස්ටර්ගේ ගී තනුවක් දකුණු ඉන්දීය දැවැන්ත සිනමා පටයක් සඳහා යොදා ගැනීම ය.
+Sinhala music in such a situation has many instances of international standards.
 
-විනායක් වෛතියනාදන් විසින් අධ්‍යක්ෂණය කරන ලද 'රෝමියෝ' ලෙස නම් කර ඇති එම සිනමා පටය දෙමළ සහ තෙළිඟු යන භාෂා දෙකෙන් ම රචනා කර තිබේ.
+Accordingly, the use of songs of songs created in Sri Lanka has been used for films.
 
-මෙහි ප්‍රධාන චරිතවලට පණ පොවන්නේ ජනප්‍රිය නළු විජේ ඇන්තනි සහ මිල්නාලිනී රවී දෙපළ ය.
+The latest victory was reported as a Sri Lankan youth singer and musician Ravi Roncer for a massive film.
+
+The film, designated as 'Romeo' by Violence, is written by both Tamils and Teluna.
+
+The main characters are being revived to the prime number of Popular actor Vijay Anthony and Milnalini Ravi.
+
+The song named the main song of that film was launched on March 13, and 4 million passed before 4 days.
+
+It was on 11th at Trending For Music in Youtube in India.
 
 ...
 
 [Data](articles/2f089ec4.json)
+
+[Extended Data](ext_articles/2f089ec4.ext.json)
 
 ---
 
@@ -2191,73 +2271,5 @@ The CEBEU officials underscored the feasibility of maintaining 24-hour electrici
 [Data](articles/8bb8046c.json)
 
 [Extended Data](ext_articles/8bb8046c.ext.json)
-
----
-
-### One person dies
-
-*2024-03-18 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/178969) · `ta`
-
-An elderly man died in a train accident from Jaffna to Anuradhapura on Sunday evening.
-
-🟩
-
-An elderly man dies with train. The accident took place on Sunday (17) evening.
-
-The accident occurred when an elderly man was hit by a train from Jaffna to Anuradhapura.
-
-◼️
-
-[Data](articles/bb0d1aa2.json)
-
-[Extended Data](ext_articles/bb0d1aa2.ext.json)
-
----
-
-### Recovery of missing fisherman in Vadamarachchi
-
-*2024-03-18 01:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/178968) · `ta`
-
-A 60-year-old fisherman from Vadamarachchi East Marudankeni was found dead after disappearing on Sunday. The navy and fishermen searched the sea for two days before recovering his body on Saturday.
-
-🟩
-
-Vadamarachchi East Marudankeni was found dead on Saturday (16), a fisherman who disappeared on Sunday (17).
-
-For two days, the navy, with the help of the fishermen, came to the sea when the man went to sea for fishing. The crocodile he traveled was shore.
-
-He has been recovered today. The body of Muttuchami Tavarasa, a 60 -year -old man from Maruthankani North, has been recovered.
-
-◼️
-
-[Data](articles/fb633acb.json)
-
-[Extended Data](ext_articles/fb633acb.ext.json)
-
----
-
-### Public Security Minister and Sri Lanka Inspector General of Police attended Jaffna
-
-*2024-03-18 01:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/178967) · `ta`
-
-The Public Security Minister and Inspector General of Police attended a Jaffna event organized by the Jaffna Police Division. They addressed the gathering, and the police were presented with a sample to the Minister and the Inspector General.
-
-🟩
-
-The event was attended by the Minister of Public Security and the Inspector General of Police on Sunday (18).
-
-The event was organized by the Jaffna Police Division at a private guest hostel in Jaffna.
-
-Public Security Minister Tran Ales and Inspector General of Police, Deshabandu Tennakoon were addressing the gathering.
-
-In addition, the police were presented with a sample to the Minister of Public Security, Secretary to the Ministry of Public Security and the Inspector General of Police.
-
-Secretary to the Ministry of Public Safety Viani Gunathilaka, Police Officers, Jaffna District Response Government Agent M. Pradeepan, Divisional Secretaries, Grama Niladhari, Religious Crusaders
-
-◼️
-
-[Data](articles/4ef42958.json)
-
-[Extended Data](ext_articles/4ef42958.ext.json)
 
 ---

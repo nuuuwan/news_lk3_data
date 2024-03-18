@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 15:17:47**
+As of **2024-03-18 15:33:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,153
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,589 (100.0%) of 13,593 articles have been extended.
+13,593 (100.0%) of 13,593 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,35 +52,49 @@ The protest will be carried out by the Student Union at the University of Jaffna
 
 ---
 
-### ඉරාන් කෝප් කමිටු සාමාජිකත්වයෙන් ඉල්ලා අස්වෙයි
+### Is the support of Sri Lankan people in the midst of the power?The results of anxiety in the station's study for alternative policy
+
+*2024-03-18 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179041) · `ta`
+
+A study on Sri Lankan democracy shows mixed support. While democracy is preferred, some find autocracy more suitable in certain situations. The 2018 constitutional crisis highlighted a shift in support. Confidence in parliament and political parties has declined, with only 22% expressing confidence in parliament and 19% in political parties. The study suggests that democratic structures' confidence is crucial for legislation, but military and legal confidence is higher.
+
+🟩
+
+One of the tenth of the people who participated in the poll on democracy and reconciliation carried out the station for alternative policy.
+
+Although more people prefer the democratic system than other types of regime, a recent study revealed that a Sri Lankan in some situations is more appropriate than a democratic system.
+
+In 2018;The Constitutional Crisis was created during the time of the Maithripalasan Ranilwickramasinghe government, according to the Center for Change Policy.
+
+Despite the strong support for democracy, the study has revealed the possibility of supporting the support of autocratic regime as the despair of democratic regime increases.
+
+At the same time, the poll also reveals that the confidence in parliament and political parties is less than ever before.
+
+22 percent of those who participated in the poll expressed confidence in the parliament-19 percent of the political parties.
+
+...
+
+[Data](articles/60531d95.json)
+
+[Extended Data](ext_articles/60531d95.ext.json)
+
+---
+
+### Iran resigns from the Member of COPE
 
 *2024-03-18 14:53:26* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන්-කෝප්-කමිටු-සාමාජිකත්වයෙන්-ඉල්ලා-අස්වෙයි/11-408678) · `si`
 
-පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ (කෝප්) සාමාජිකත්වයෙන් ඉල්ලා අස්වීමේ ලිපිය කථානායකවරයාට අද (18දා) යොමු කළ බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ඉරාන් වික්‍රමරත්න මහතා පැවසීය. කෝප් කමිටුවෙන් කළ සොයාගැනීම් නිවැරදි නොකිරීම, චෝදනා එල්ල වූ පුද්ගලයන් පිළිබඳ ක්‍රියාමාර්ගයක් නොගෙන යළි කෝප් කමිටුවට පත් කිරීම වැනි චෝදනා නිසා මෙලෙස තමා සාමාජිකත්වයෙන් ඉල්ලා අස්වූ බව අද කොළඹ විපක්ෂනායක කාර්යාලයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම සඳහන් කළේය.
+Iran resigns from COPE. MP Iran Wickramaratne announced the resignation, stating the House of Resignation was sent to the Speaker today. He did not correct the discovery of investigations from COPE.
+
+🟩
+
+MP Iran Wickramaratne, MP, said that the House of Resignation had been sent to the Speaker today (18).. He was speaking at a media briefing at the Opposition Leader in Colombo today that he had not corrected the discovery of the investigations from the COPE.
 
 ◼️
 
 [Data](articles/fbffc4d3.json)
 
----
-
-### இலங்கை மக்கள் மத்தியி;ல் ஏதேச்சதிகாரத்திற்கான ஆதரவு  அதிகரிக்கின்றதா?  மாற்றுக்கொள்கைகளிற்கான நிலையத்தின் ஆய்வில் கவலை தரும் முடிவுகள்
-
-*2024-03-18 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179041) · `ta`
-
-மாற்றுக்கொள்கைகளிற்கான நிலையம் மேற்கொண்ட ஜனநாயகம் மற்றும் நல்லிணக்கம் குறித்த கருத்துக்கணிப்பில் கலந்துகொண்டவர்களில் பத்தில் ஒருவர் ஏதேச்சதிகாரம்குறித்து விருப்பம் வெளியிட்டுள்ளனர்.
-
-ஏனைய வகை ஆட்சி முறைகளை விட ஜனநாயக ஆட்சி முறையை அதிகளவானவர்கள் விரும்புகின்ற போதிலும் சமீபத்தைய ஆய்வின் மூலம்  பத்தில் ஒரு இலங்கையர் சில சூழ்நிலைகளில் ஜனநாயக முறையை விட சர்வாதிகார ஆட்சிமுறை பொருத்தமானது என கருதுகின்றமை  தெரியவந்துள்ளது.
-
-2018 இல்; மைத்திரிபாலசிறிசேன ரணில்விக்கிரமசிங்க அரசாங்கத்தின் காலத்தில் அரசமைப்பு நெருக்கடி உருவானவேளை இதுபோன்றதொரு மனோநிலை காணப்பட்டது என மாற்றுக்கொள்கைகளிற்கான நிலையம் தெரிவித்துள்ளது.
-
-ஜனநாயகத்திற்கான வலுவான ஆதரவு உள்ளபோதிலும் ஜனநாயக ஆட்சி மீதான  விரக்தி அதிகரிக்கும்போது எதேச்சதிகார ஆட்சிக்கான ஆதரவு புத்துயிர் பெறுவதற்கான  சாத்தியக்கூறுகள் இருப்பது ஆய்வின் மூலம் தெரியவந்துள்ளது.
-
-இதேவேளை நாடாளுமன்றம் மற்றும் அரசியல் கட்சிகள் மீதான நம்பிக்கை முன்னர் எப்போதையும் விட குறைவாக காணப்படுகின்றமையும் இந்த கருத்துக்கணிப்பின் மூலம் தெரியவந்துள்ளது.
-
-...
-
-[Data](articles/60531d95.json)
+[Extended Data](ext_articles/fbffc4d3.ext.json)
 
 ---
 
@@ -341,6 +355,8 @@ Despite not getting much support from the other end, Liyanage operated brilliant
 ◼️
 
 [Data](articles/129b3a74.json)
+
+[Extended Data](ext_articles/129b3a74.ext.json)
 
 ---
 
@@ -1087,6 +1103,8 @@ The top electoral body said that ballot boxes for the island nation’s election
 ...
 
 [Data](articles/6208694d.json)
+
+[Extended Data](ext_articles/6208694d.ext.json)
 
 ---
 

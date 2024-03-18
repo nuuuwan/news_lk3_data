@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 14:02:52**
+As of **2024-03-18 14:17:45**
 
 ## Newspaper Stats
 
-*Scraped **13,580** Articles*
+*Scraped **13,583** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,57 +16,121 @@ dailyftlk | 713
 economynextcom | 717
 islandlk | 746
 adalk | 1,167
-adaderanalk | 1,633
+adaderanalk | 1,634
 tamilmirrorlk | 1,658
 virakesarilk | 1,895
-dailymirrorlk | 2,072
-adaderanasinhalalk | 2,151
+dailymirrorlk | 2,073
+adaderanasinhalalk | 2,152
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,577 (100.0%) of 13,580 articles have been extended.
+13,580 (100.0%) of 13,583 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### ஜனித் லியனகேயின் கன்னிச் சதம் இலங்கைக்கு கைகொடுத்தது
+### සෞඛ්‍ය වර්ජනය තාවකාලිකව අත්හිටුවයි
 
-*2024-03-18 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179029) · `ta`
+*2024-03-18 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194634) · `si`
 
-சட்டோக்ராம், ஸஹுர் அஹ்மத் சௌதரி விளையாட்டரங்கில் இன்று திங்கட்கிழமை (18) நடைபெற்றுவரும் இலங்கைக்கும் பங்ளாதேஷுக்கும் இடையிலான தீர்மானம் மிக்க கடைசி சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் ஜனித் லியனகே குவித்த கன்னிச் சதத்தின் பலனாக இலங்கை கௌரவமான மொத்த எண்ணிக்கையைப் பெற்றது.
+හෙට (19) උදෑසන සිට ආරම්භ කිරීමට නියමිතව තිබූ වැඩ වර්ජනය තාවකාලිකව අත්හිටුවීමට තීරණය කළ බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය පවසයි.
 
-தொடரைக் கைப்பற்றும் முனைப்பில் இரண்டு அணிகளும் மோதும் இப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த இலங்கை 50 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 235 ஓட்டங்களைப் பெற்றது.
+එහි කැඳවුම්කරු රවී කුමුදේශ් මහතා අද කොළඹදී පැවති මාධ්‍ය හමුවකට එක්වෙමින් මේ බව පැවසීය.
 
-உதவி அணித் தலைவர் சரித் அசலன்க, ஜனித் லியனவே ஆகிய இருவரே துடுப்பாட்டத்தில் திறமையை வெளிப்படுத்தினர்.
+සෞඛ්‍ය අමාත්‍යාංශය විසින් සිදුකළ ලිඛිත ඉල්ලීමකට ප්‍රතිචාර දක්වමින් මෙම තීරණය ගත් බව ඒ මහතා වැඩිදුරටත් සඳහන් කළේය.
 
-18ஆவது ஓவரில் மொத்த எண்ணிக்கை 74 ஓட்டங்களாக இருந்தபோது இலங்கை 4ஆவது விக்கெட்டாக குசல் மெண்டிஸை இழந்தது.
+◼️
 
-அப்போது களம் நுழைந்த ஜனித் லியனகே மிகத் திறமையாகத் துடுப்பெடுத்தாடி 102 பந்துகளில் 11 பவுண்டறிகள், 2 சிக்ஸ்கள் உட்பட 101 ஓட்டங்களுடன் ஆட்டம் இழக்காதிருந்தார்.
-
-இந்தப் போட்டிக்கு மீளழைக்கப்பட்ட மஹீஷ் தீக்ஷன 8ஆவது விக்கெட்டில் ஜனித் லியனகேவுக்கு பக்கபலமாகத் துடுப்பெடுத்தாடி 60 ஓட்டங்களைப் பகிர்ந்தார்.
-
-...
-
-[Data](articles/5560b553.json)
+[Data](articles/a5a9b513.json)
 
 ---
 
-### ஐஸ் போதைப் பொருளுடன் ஒருவர் கைது
+### Janit Liyanage's virginity has joined Sri Lanka
+
+*2024-03-18 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179029) · `ta`
+
+Sri Lanka lost to Bangladesh in an ODI, scoring 235 in 50 overs. Janith Liyanage scored 101 runs, including 11 fours and 2 sixes, in 102 balls.
+
+🟩
+
+Sri Lanka won the dignity number of the virgin century in the last international ODI match between Sri Lanka and Bangladesh at the Zahur Ahmad Chaudhary Stadium on Monday (18).
+
+Sri Lanka lost all the wickets in 50 overs and scored 235 runs for the loss of all wickets in the match.
+
+Assistant team captain Sarith Asalank and Janith Liyanave showed the skills in the batting.
+
+Sri Lanka lost Gusal Mendis for the 4th wicket when the total number was 74 runs in the 18th over.
+
+Janith Liyanage, who entered the field, did not play with 102 balls, including 11 pounds and 2 sixes, and 101 runs.
+
+Mahish Deekshana, who was recovered for the match, shared 60 runs in the 8th wicket.
+
+Sarid Asalann scored 37 runs, 29 runs and Maid Dixhanna 15 runs than Janith Liyanage.
+
+◼️
+
+[Data](articles/5560b553.json)
+
+[Extended Data](ext_articles/5560b553.ext.json)
+
+---
+
+### Over 13,000 children killed in Gaza in Israel’s offensive, says UN agency
+
+*2024-03-18 13:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98026/over-13000-children-killed-in-gaza-in-israels-offensive-says-un-agency) · `en`
+
+The UN children’s agency said on Sunday over 13,000 children have been killed in Gaza in Israel’s offensive, adding many kids were suffering from severe malnutrition and did not “even have the energy to cry.”
+
+“Thousands more have been injured or we can’t even determine where they are. They may be stuck under rubble ... We haven’t seen that rate of death among children in almost any other conflict in the world,” UNICEF Executive Director Catherine Russell told CBS News’ “Face the Nation” program on Sunday.
+
+“I’ve been in wards of children who are suffering from severe anemia malnutrition, the whole ward is absolutely quiet. Because the children, the babies ... don’t even have the energy to cry.”
+
+Russell said there were “very great bureaucratic challenges” moving trucks into Gaza for aid and assistance.
+
+International criticism has mounted on Israel due to the death count of the war, the starvation crisis in Gaza, and allegations of blocking aid deliveries into the enclave.
+
+...
+
+[Data](articles/61aa6522.json)
+
+---
+
+### Arrest of someone with ice drug
 
 *2024-03-18 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/179028) · `ta`
 
-கல்கிஸ்ஸ பொலிஸ் பிரிவிற்குட்பட்ட குலவர்தன மாவத்தை பிரதேசத்தில்  பொலிஸாருக்கு கிடைத்த தகவலின் மூலம்  ஞாயிற்றுக்கிழமை (17) மேற்கொண்ட சுற்றி வளைப்பின் போது ஐஸ் போதைப் பொருளுடன் சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A 41-year-old from Kalkissa was arrested with 12 grams of ice drugs in a police roundup in the Kulawardena Mawatha area.
 
-இவ்வாறு கைது செய்த சந்தேக நபர் கல்கிஸ்ஸ பிரதேசத்தைச் சேர்ந்த 41 வயதுடையவராவார்.
+🟩
 
-மேலும், கைது செய்த சந்தேக நபரிடம் இருந்து 12 கிராம் ஐஸ் போதைப் பொருள் கைப்பற்றப்பட்டதாகவும் இச் சம்பவம் தொடர்பான மேலதிக விசாரணைகளை மேற்கொண்டுள்ளதாகவும் கல்கிஸ்ஸ பொலிஸார் தெரிவித்தனர்.
+A suspect has been arrested with ice drugs during a roundup on Sunday (17) by information received by the police in the Kulawardena Mawatha area belonging to the Kalkissa Police Division.
+
+The suspect was the 41 -year -old from Kalkissa.
+
+In addition, Kalkissa police said that 12 grams of Ice had been seized from the suspect and further investigations into the incident.
 
 ◼️
 
 [Data](articles/aaa237a2.json)
+
+[Extended Data](ext_articles/aaa237a2.ext.json)
+
+---
+
+### Liyanage’s maiden ODI century lifts SL to 235
+
+*2024-03-18 13:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Liyanages-maiden-ODI-century-lifts-SL-to-235/108-279075) · `en`
+
+Chattogram, March 18 - Sri Lanka's rising batting sensation Janith Liyanage hammered his maiden ODI hundred in the third and deciding ODI versus Bangladesh in Chattogram.
+
+Despite not getting much support from the other end, Liyanage operated brilliantly and ended up scoring an unbeaten 101 off 102 balls (11 fours, 2 sixes).
+
+◼️
+
+[Data](articles/99323108.json)
 
 ---
 
@@ -106,15 +170,21 @@ The wife of the Wickremesinghe family, who was killed by the attack, had been re
 
 ---
 
-### கோப் குழுவிலிருந்து இராஜினாமாச் செய்தார் இரான் விக்கிரமரத்ன
+### Iran Wickremaratne resigns from Cobb group
 
 *2024-03-18 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179027) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் இரான் விக்கிரமரத்ன, பொது நிறுவனங்கள் தொடர்பான நாடாளுமன்றக் குழு  (கோப்)   உறுப்புரிமையிலிருந்து இராஜினாமா செய்துள்ளார்.
+Iran Wickremaratne, a United People's Power MP, resigned from the COP committee.
+
+🟩
+
+United People's Power Member of Parliament Iran Wickremaratne has resigned from the parliamentary committee (COP) membership.
 
 ◼️
 
 [Data](articles/eeef32ec.json)
+
+[Extended Data](ext_articles/eeef32ec.ext.json)
 
 ---
 
@@ -2195,81 +2265,5 @@ Tikiri Toys has become a notable brand in the US, Germany, and the UK and has a 
 [Data](articles/ef5bfa54.json)
 
 [Extended Data](ext_articles/ef5bfa54.ext.json)
-
----
-
-### Do you know the impact of the country's economy due to rising accidents?
-
-*2024-03-18 02:10:56* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz9zy0grg35o) · `si`
-
-Road accidents in Sri Lanka significantly impact the economy, with high death and injury rates. Prof. Dharmaratne, Chairman of the Sri Lanka Medical Association, states that accidents cost the country a significant portion of its GDP, affecting national development. The World Bank estimates that road accidents could cost Sri Lanka 3-5% of its GDP annually. The report also highlights the need for improved road safety measures to reduce accidents by 50%.
-
-🟩
-
-Do you know the impact of the country's economy due to rising accidents?
-
-The claim that "speed is called" is a regular pretext among the people of this country.
-
-However, the number of deaths and injuries caused by road accidents in the country are increasingly higher. The eternal disability are high.
-
-Among the accidents due to accidents in Sri Lanka, a group of people killed in at least 2,000 and 2,500 people.
-
-The number of people killed from the road accident to the year 2019 to 2023, the Ministry of Transport and Highways revealed through the Ministry of Transport and Highways and the Ministry of Justice.
-
-The number of serious accidents occurred during that period, 33,470 serious accidents.
-
-Dharmaratne, Chairman of the Sri Lanka Medical Association and Professor of Experts, Professor of Experts from the University of Peradeniya, Professor of the Peradeniya was a major impact on the country's economy.
-
-He further stated that a large number of the annual GDP is lost due to accidents.
-
-...
-
-[Data](articles/461def70.json)
-
-[Extended Data](ext_articles/461def70.ext.json)
-
----
-
-### AKD promises a multi-community Government
-
-*2024-03-18 01:45:51* · [`dailyftlk`](https://www.ft.lk/news/AKD-promises-a-multi-community-Government/56-759601) · `en`
-
-Highlights importance of including Tamil leaders who promote unity in governance of SL
-
-Says important to isolate racist elements and liberate Tamil community from such harmful ideologies
-
-Emphasises necessity of a Govt. that rejects racism and incorporates leaders from all communities
-
-Assures an NPP Govt. will first ensure food, health and education needs of people
-
-The National People’s Party (NPP) Leader Anura Kumara Dissanayake over the weekend emphasised the importance of bringing together Tamil leaders who promote unity into the governance of the country.
-
-“There are Tamil leaders advocating for unity who are inclusive and free from extremism and racism. It's crucial to gather these voices. If there are instances of Tamil racism in the north, it's important to isolate those responsible and liberate the Tamil community from such harmful ideologies. Similar actions have been taken in the south,” he said addressing an NPP party Vavuniya district summit.
-
-...
-
-[Data](articles/b97ae7a4.json)
-
-[Extended Data](ext_articles/b97ae7a4.ext.json)
-
----
-
-### CEBEU assures uninterrupted power supply despite arid weather
-
-*2024-03-18 01:42:46* · [`dailyftlk`](https://www.ft.lk/news/CEBEU-assures-uninterrupted-power-supply-despite-arid-weather/56-759600) · `en`
-
-Amidst the persisting arid weather conditions, the Ceylon Electricity Board Engineers’ Union (CEBEU) has assured the public that reservoir water levels remain sufficient to sustain uninterrupted power supply across the country.
-
-Addressing concerns over dwindling water levels in reservoirs, CEBEU officials stated that despite a decrease to 70% capacity in Castlereigh and Maussakalle reservoirs from their peak levels, hydropower generation can continue unabated till reaching a threshold of 20% capacity.
-
-The CEB revealed the water levels in key reservoirs, which include;  Maussakalle - 1,158.46 meters above sea level (masl), Castlereigh - 1,086.85 masl, Kotmale - 694.02 masl, Samalawewa - 453.41 masl, Victoria - 432.77 masl, and Randenigala - 229.94 masl, as of 6 p.m. yesterday.
-
-The CEBEU officials underscored the feasibility of maintaining 24-hour electricity supply, citing a significant drop in coal prices in the international market as a contributing factor.
-
-...
-
-[Data](articles/8bb8046c.json)
-
-[Extended Data](ext_articles/8bb8046c.ext.json)
 
 ---

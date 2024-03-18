@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 21:33:42**
+As of **2024-03-18 21:52:26**
 
 ## Newspaper Stats
 
-*Scraped **13,651** Articles*
+*Scraped **13,653** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 713
 economynextcom | 721
 islandlk | 746
-adalk | 1,178
+adalk | 1,179
 adaderanalk | 1,643
-tamilmirrorlk | 1,661
+tamilmirrorlk | 1,662
 virakesarilk | 1,904
 dailymirrorlk | 2,086
 adaderanasinhalalk | 2,171
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,171
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,649 (100.0%) of 13,651 articles have been extended.
+13,651 (100.0%) of 13,653 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### தண்டனையை உறுதி செய்தது உயர் நீதிமன்றம்
+
+*2024-03-18 21:34:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டனையை-உறுதி-செய்தது-உயர்-நீதிமன்றம்/175-334842) · `ta`
+
+போதைப்பொருள் கடத்தல் மற்றும் 2.42 கிராம் ஹெரோயின் வைத்திருந்த குற்றச்சாட்டில் குற்றம் சாட்டப்பட்ட ஒருவருக்கு ஆயுள் தண்டனை விதித்து கொழும்பு மேல் நீதிமன்றம் வழங்கிய தீர்ப்பை உயர் நீதிமன்றம் உறுதி செய்துள்ளது.
+
+இது தொடர்பாக குற்றம்சாட்டப்பட்டவர்கள் தாக்கல் செய்த மேல்முறையீட்டு மனுவை தள்ளுபடி செய்து 3 பேர் கொண்ட உயர் நீதிமன்ற நீதிபதிகள் குழு இந்த உத்தரவை பிறப்பித்துள்ளனர்.
+
+பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவினர் (PNB) மேற்கொண்ட விசேட சுற்றிவளைப்பின் போது, குறித்த சந்தேகநபர் 2.42 கிராம் ஹெரோயின் போதைப்பொருளுடன் கைது செய்யப்பட்டமை குறிப்பிடத்தக்கது.  R
+
+◼️
+
+[Data](articles/20046289.json)
+
+---
 
 ### Hirunika files action against Deshabandu
 
@@ -45,6 +61,8 @@ The petitioner stated that the Attorney General had made a communication to name
 ...
 
 [Data](articles/7c1c4458.json)
+
+[Extended Data](ext_articles/7c1c4458.ext.json)
 
 ---
 
@@ -61,6 +79,8 @@ Recent media reports revealed that the CBSL had increased the salaries of its em
 ...
 
 [Data](articles/ef52da87.json)
+
+[Extended Data](ext_articles/ef52da87.ext.json)
 
 ---
 
@@ -217,6 +237,22 @@ Anuradhapura police are conducting further investigations into the incident. Rem
 [Data](articles/28a6f34f.json)
 
 [Extended Data](ext_articles/28a6f34f.ext.json)
+
+---
+
+### කෝප් කමිටුවට විදුලි බල මණ්ඩලය කැඳවයි
+
+*2024-03-18 19:48:24* · [`adalk`](https://www.ada.lk/breaking_news/කෝප්-කමිටුවට-විදුලි-බල-මණ්ඩලය-කැඳවයි/11-408684) · `si`
+
+මෙම සතියේ ලංකා විදුලබල මණ්ඩලය සහ රාජ්‍ය වැවිලි සංස්ථාව පොදු ව්‍යාපාර කාරක සභාව(කෝප්) හමුවට කැඳවා තිබේ.
+
+නව සභාපති ලෙස පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා පත්වීමෙන් පසු පළමු රැස්වීම හෙට (19දා) පැවැත්වෙන අතර, එහිදී රාජ්‍ය වැවිලි සංස්ථාව කෝප් කමිටුව හමුවට කැඳවා ඇත.
+
+එමෙන්ම අනිද්දා (21දා) දිනයේදීද කෝප් කමිටුව රැස්වන අතර, එදින කෝප් කමිටුව හමුවට ලංකා විදුලිබල මණ්ඩලය කැඳවා ඇත.
+
+◼️
+
+[Data](articles/55fe002f.json)
 
 ---
 
@@ -2277,47 +2313,5 @@ The Israeli military blockade at the Al -Shiba hospital last November has caused
 [Data](articles/5bc2d80d.json)
 
 [Extended Data](ext_articles/5bc2d80d.ext.json)
-
----
-
-### Arrested for trying to sell Valamburi
-
-*2024-03-18 11:26:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலம்புரியை-விற்க-முயன்றவர்-கைது/175-334829) · `ta`
-
-A man was arrested in Beruwala for attempting to sell a rare Valamburi worth 50 lakhs. The suspect, a 26-year-old from Telthuwa, was apprehended by a police team led by the Beruwala Police Corruption Unit's Commander and Deputy Inspector Kasun Pathirana.
-
-🟩
-
-Beruwala police said that a man was arrested when he was taken to sell a rare Valamburi worth about fifty lakhs of rupees.
-
-A 26 -year -old from the Telthuwa area of Moranduduwa has been arrested, police said.
-
-Based on information received by the Air Force Intelligence Officers, a police team including the Commander of the Beruwala Police Corruption Unit, Deputy Inspector Kasun Pathirana, inspected the suspect near the popular church in Beruwala area and arrested the suspect.
-
-◼️
-
-[Data](articles/810217b3.json)
-
-[Extended Data](ext_articles/810217b3.ext.json)
-
----
-
-### Government plans to complete Central Expressway phase 3 by 2025
-
-*2024-03-18 11:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-plans-to-complete-Central-Expressway-phase-3-by-2025/108-279048) · `en`
-
-Colombo, March 18 (Daily Mirror) - The government plans to complete the construction of the third phase of the Central Expressway from Pothuhera to Galagedara by 2025 and to complete the project by July 2026, Transport and Highways Minister Bandula Gunawardana said.
-
-He said this during a special inspection tour of the ongoing construction of the Central Expressway from Pothuhera to Galagedara.
-
-The Minister visited the project office located in the Lihinigiriya area of Pothuhera and attended a special presentation on the current progress of the project, which was attended by officials in charge of the project and construction company representatives.
-
-The total distance of the third phase of the Central Expressway is 32.45 kms and it consists of four interchanges such as Pothuhera, Polgahawela, Rambukkana and Galagedara. The related interchange construction is currently underway.
-
-...
-
-[Data](articles/6391c3b3.json)
-
-[Extended Data](ext_articles/6391c3b3.ext.json)
 
 ---

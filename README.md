@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 17:53:40**
+As of **2024-03-18 18:09:23**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 2,162
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,617 (100.0%) of 13,619 articles have been extended.
+13,619 (100.0%) of 13,619 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### ජල මූලාශ්‍ර 18ක් අවදානම් තත්ත්වයේ
+### 18 water sources in risk
 
 *2024-03-18 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194644) · `si`
 
-පවතින අධික වියලි කාලගුණික තත්ත්වයත් සමග මේ වනවිට ජල මූලාශ්‍ර 18ක් අවදානම් තත්ත්වයේ පවතින බව ජල සම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+18 water sources at risk due to dry weather. Water Supply and Drainage Board urges conservation. Labugama and Kalatuwa reservoirs can last two months. 16 water supply schemes will be provided water. Steps taken to supply water from Wadduwa, Eheliyagoda, and Radampampaya.
 
-අද පැවති මාධ්‍ය හමුකට එක්වෙමින් ජල සම්පාදන හා ජලාපවහන මණ්ඩලයේ නියෝජ්‍ය සාමාන්‍යාධිකාරිනී අනෝජා කළුආරච්චි මහත්මිය මෙම අදහස් පළකළේය.
+🟩
 
-මේ හේතුවෙන් ඉදිරියේදී අත්‍යාවශ්‍ය නොවන කටයුතු සඳහා ජල පරිභෝජනය සිදු නොකරන ලෙස ද ජල සම්පාදන හා ජලාපවහන මණ්ඩලය වැඩිදුරටත් ජනතාවගෙන් ඉල්ලා සිටී.
+The Water Supply and Drainage Board says that 18 water sources are in danger with the excessive dry weather conditions.
 
-ලබුගම සහ කලටුවාව ජලාශවල ජල මට්ටම තවත් මාස දෙකක් සඳහා ප්‍රමාණවත් බවද ජල සම්පාදන හා ජලාපවහන මණ්ඩලයේ නියෝජ්‍ය සාමාන්‍යාධිකාරිනී අනෝජා කළුආරච්චි මහත්මිය වැඩිදුරටත් සඳහන් කළේය.
+The Water Supply and Drainage Board Deputy General Manager Thavana Kaluarachchi expressed these views in a media briefing held today.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ ඒ මහත්මිය පැවසුවේ මුර ක්‍රමය යටතේ ජල සම්පාදන ක්‍රම 16ක ජලය සැපයීම සිදුකරන බවය.
+As a result, the Water Supply and Drainage Board further urges the people to not consume water for non-essential activities in the future.
 
-බේරුවල, අලුත්ගම, නිවිතිගල, නාරම්මල, ගම්පොළවත්ත, පුස්සැල්ලාව, අංකුඹුර, මීවතුර, පුස්සැල්ල, රත්තොට, හැටන්, කොටගල, ඌරුබොක්ක, බුත්තල, සූරියආර යන ප්‍රදේශ සඳහා මේ අයුරින් මුර ක්‍රමයට ජලය සපයනු ලබයි.
+The water level of Labugama and Kalatuwa reservoirs is sufficient for two months, and Deputy General Manager General Manager Tangea Kaluarachchi.
 
-...
+"The passage of 16 water supply schemes will be provided with water.
+
+Water is provided with water for Beruwala, Aluthgama, Gamaumbala, Pussellawa, Urubokkala, Pussella, Urubokka, Buttala, Sooriyara.
+
+Meanwhile, the Water Supply and Drainage Board says that steps have been taken to supply water from the Wadduwa, Eheliyagoda and Radampampaya.
+
+◼️
 
 [Data](articles/86ca05e2.json)
+
+[Extended Data](ext_articles/86ca05e2.ext.json)
 
 ---
 
@@ -654,19 +662,27 @@ At the event, he donated Rs.
 
 ---
 
-### ක්‍රිඩා උත්සව කල් දමන්නැයි අධ්‍යාපන අමාත්‍යාංශය කියයි
+### Ministry of Education says sports events
 
 *2024-03-18 14:25:09* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රිඩා-උත්සව-කල්-දමන්නැයි-අධ්‍යාපන-අමාත්‍යාංශය-කියයි/11-408677) · `si`
 
-පවතින අධික උෂ්ණත්වයෙන් පාසල් දරුවන් ආරක්ෂාකර ගැනීම උදෙසා පාසල්වල  ක්‍රීඩා උත්සව අප්‍රේල් 24 න් පසු පැවැත්වීමට හැකිවන පරිදි කල් දමන ලෙස අධ්‍යාපන අමාත්‍යාංශය මගින් අද (18) දින නිකුත් කළ  ලිපියකින්  විදුහල්පතිවරුන්ට උපදෙස් දී තිබේ.
+The Ministry of Education has directed principals to promote school safety, with a focus on health and life safety. The first term of the first semester will be held in the second and third semesters. Major General H.M. H.M.Mr. U. Herath, Director General of the Disaster Management Center, informed the Ministry of Education.
 
-ඒ අනුව ඉදිරි මැයි 31 දක්වා පාසල්වල පළමු වාරය ක්‍රියාත්මක බැවින් පළමු වාරයේ දෙවැනි හා තෙවැනි අදියරවලදී පැවැත්වීමට හැකි වන පරිදි මේ වන විට පාසල්වල සැලසුම් කර ඇති වාර්ෂික ක්‍රීඩා උත්සව හා විවිධ එළිමහන් ක්‍රියාකාරකම් අප්‍රේල් 24 දක්වා කල් තබන ලෙස විදුහල්පතිවරුන්ට මෙම ලිපිය මගින්  උපදෙස් දී තිබේ.
+🟩
 
-සිසුන්ගේ සෞඛ්‍ය හා ජීවිත ආරක්ෂාව උදෙසා විශේෂ අවධානයක් යොමුකරමින් කටයුතු කරන ලෙසද අධ්‍යාපන අමාත්‍යාංශයේ ලේකම් වසන්තා පෙරේරා මහත්මිය විසින් අත්සන් කර ඇති මෙම ලිපියෙහි  වැඩි දුරටත් සඳහන්වේ.
+The Ministry of Education has instructed the principals today (18) to promote schools in schools to protect school in schools to protect school.
 
-...
+Accordingly, the first term of the first semester in schools will be held in the second and third, according to this article.
+
+The letter of the Ministry of Education has also signed a special focus on health and life safety.
+
+Director General of the Disaster Management Center Retaliation Major General H.M. H.M.Mr. U. Herath has informed the Secretary to the Ministry of Education.
+
+◼️
 
 [Data](articles/a7d54ecd.json)
+
+[Extended Data](ext_articles/a7d54ecd.ext.json)
 
 ---
 

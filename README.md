@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 14:17:45**
+As of **2024-03-18 14:33:44**
 
 ## Newspaper Stats
 
-*Scraped **13,583** Articles*
+*Scraped **13,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,81 @@ dailyftlk | 713
 economynextcom | 717
 islandlk | 746
 adalk | 1,167
-adaderanalk | 1,634
+adaderanalk | 1,635
 tamilmirrorlk | 1,658
 virakesarilk | 1,895
 dailymirrorlk | 2,073
-adaderanasinhalalk | 2,152
+adaderanasinhalalk | 2,153
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,580 (100.0%) of 13,583 articles have been extended.
+13,583 (100.0%) of 13,585 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### සෞඛ්‍ය වර්ජනය තාවකාලිකව අත්හිටුවයි
+### School principals informed to postpone sports meets due to hot weather
+
+*2024-03-18 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98027/school-principals-informed-to-postpone-sports-meets-due-to-hot-weather) · `en`
+
+School Principals have been informed in writing to postpone sports meets and other outdoor activities in view of the prevailing high temperatures, the Ministry of Education announced.
+
+Accordingly, the Ministry of Education has advised school principals to postpone the relevant activities until April 24, 2024.
+
+On Sunday (17), Minister of Education Susil Premajayantha said school principals will be informed through a circular to organise the inter-house sports meets and sports events of their respective schools after the Sinhala and Tamil New Year holidays.
+
+The minister pointed out that it had been observed that many schools have organised inter-house sports meets regardless of the prevailing hot weather conditions across the island.
+
+Minister Susil Premajayantha said that since the first school term will continue even after the New Year holidays, it is possible to hold sports meets and other outdoor sporting events during that period.
+
+...
+
+[Data](articles/edfbf8aa.json)
+
+---
+
+### පාසල් ක්‍රීඩා උත්සව සිංහල අලුත් අවුරුද්දෙන් පස්සේ
+
+*2024-03-18 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194635) · `si`
+
+පවතින අධික උණුසුම් සහිත කාලගුණික තත්ත්වයත් සමඟ පාසල් නිවාසාන්තර ක්‍රීඩා උත්සව අප්‍රේල් අලුත් අවුරුදු නිවාඩුවෙන් පසුව පවත්වන ලෙස අධ්‍යාපන අමාත්‍යංශය විදුහල්පතිවරුන්ට දැනුම්දී තිබේ.
+
+ඊට අදාළ චක්‍රෙල්ඛය අද (18) නිකුත්කරන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේම්ජයන්ත් මහතා ප්‍රකාශ කළේය.
+
+"මීට කළින් නිවේදනයක් නිකුත් කළා. නමුත් අද නිවේදනයක් නිකුත් කරනවා පළාත් බලධාරීන් හරහා පාසලවලට. ක්‍රීඩා උත්සව අවුරුද්දෙන් පස්සට කල් දාන්න කියලා. මොකද ඒ වෙනකොට තත්ත්වය මීට වඩා වෙනස් වෙන්න පුළුවන්. ප්‍රථම වාරය ඉවර වෙන්න අවුරුද්දෙන් පස්සෙත් තව සති දෙකක් විතර තියෙනවා. අපි මේ අවස්ථාවේ වැඩි අවධානයක් යොමු කරන්න ඕනේ දරුවන්ගේ ආරක්ෂාව දෙසට"
+
+මේ අතර, අද පෙරවරු 5.30ට අවසන් වූ ගතවූ පැය 24 තුළදීත් වැඩිම උෂ්ණත්වය සෙල්සියල් අංශක 38.3ක් ලෙස කුරුණෑගල දිස්ත්‍රික්කයෙන් වාර්තා විය.
+
+වයඹ, උතුරු මැද, නැගෙනහිර, බස්නාහිර පළාත්වලත් මොනරාගල, මන්නාරම, රත්නපුර, වව්නියාව දිස්ත්‍රික්කවලත් ඉදිරි දින කිහිපයේදීත් අවධානය යොමුකළයුතු මට්ටමේ උණුසුම් කාලගුණයක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පැවසුවේය.
+
+...
+
+[Data](articles/af1dc4c0.json)
+
+---
+
+### Health strike temporarily suspends
 
 *2024-03-18 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194634) · `si`
 
-හෙට (19) උදෑසන සිට ආරම්භ කිරීමට නියමිතව තිබූ වැඩ වර්ජනය තාවකාලිකව අත්හිටුවීමට තීරණය කළ බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය පවසයි.
+The Health Trade Union UPFA suspends its strike from tomorrow, responding to a request from the Ministry of Health.
 
-එහි කැඳවුම්කරු රවී කුමුදේශ් මහතා අද කොළඹදී පැවති මාධ්‍ය හමුවකට එක්වෙමින් මේ බව පැවසීය.
+🟩
 
-සෞඛ්‍ය අමාත්‍යාංශය විසින් සිදුකළ ලිඛිත ඉල්ලීමකට ප්‍රතිචාර දක්වමින් මෙම තීරණය ගත් බව ඒ මහතා වැඩිදුරටත් සඳහන් කළේය.
+The Health Trade Union UPFA has decided to temporarily suspend the strike to commence from tomorrow (19).
+
+The convener Ravi Kudmith was speaking at a media briefing in Colombo today.
+
+He further stated that the decision was taken in response to a written request made by the Ministry of Health.
 
 ◼️
 
 [Data](articles/a5a9b513.json)
+
+[Extended Data](ext_articles/a5a9b513.ext.json)
 
 ---
 
@@ -96,6 +142,8 @@ International criticism has mounted on Israel due to the death count of the war,
 
 [Data](articles/61aa6522.json)
 
+[Extended Data](ext_articles/61aa6522.ext.json)
+
 ---
 
 ### Arrest of someone with ice drug
@@ -131,6 +179,8 @@ Despite not getting much support from the other end, Liyanage operated brilliant
 ◼️
 
 [Data](articles/99323108.json)
+
+[Extended Data](ext_articles/99323108.ext.json)
 
 ---
 
@@ -2229,41 +2279,5 @@ Trinity co-founder and CEO Davina de Silva was responsible for setting up the Vi
 [Data](articles/0b863f4d.json)
 
 [Extended Data](ext_articles/0b863f4d.ext.json)
-
----
-
-### Sri Lankan-owned Groovy Graphics and Signs finalist in Australian Small Business Champion Awards 2024
-
-*2024-03-18 02:36:05* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-owned-Groovy-Graphics-and-Signs-finalist-in-Australian-Small-Business-Champion-Awards-2024/34-759607) · `en`
-
-Groovy Graphics and Signs, a company owned by Sri Lankan entrepreneur Lalantha De Silva, has been selected as a finalist for the prestigious Australian Small Business Champion Awards 2024 in the Retail Sole Operator category.
-
-The Australian Small Business Champion Awards is a prestigious and comprehensive program that supports and recognises small businesses across Australia. 2024 has seen over 5,500 quality entries into the awards.
-
-Groovy Graphics and Signs – a local signage printing, promotional products and design solutions business based in Melbourne since 2000, specialises in developing innovative signage, banners, portable displays, retail signage, graphic design, and all-sized printing. With over 22 years of competitive experience and service development, Groovy Graphics blends modern-day graphic design with high-quality finished signage, all while maintaining the most affordable prices available.
-
-...
-
-[Data](articles/c9a8b58e.json)
-
-[Extended Data](ext_articles/c9a8b58e.ext.json)
-
----
-
-### Tikiri Toys’ wins two awards at SLIM Brand of the Year 2023
-
-*2024-03-18 02:24:31* · [`dailyftlk`](https://www.ft.lk/business/Tikiri-Toys-wins-two-awards-at-SLIM-Brand-of-the-Year-2023/34-759606) · `en`
-
-Tikiri Toys has gained the pinnacle of its export performance by becoming the best export brand of the year and the Silver for eco-friendly brand of the year at SLIM Exports Excellence 2023.
-
-The Company said the awards are an endorsement to its effort and dedication to bring happiness with the highest quality toys to the children. This includes a collection of play equipment produced to help young children discover the world around them.
-
-Tikiri Toys has become a notable brand in the US, Germany, and the UK and has a presence in nearly 56 countries. The global demand for toys accounts for $ 20 billion and has given positive signals to the Sri Lankan toys export market and against all odds, Tikiri Toys achieve $ 12 million annually. Further strengthening Tikiri Toys’ international marketing effort,
-
-...
-
-[Data](articles/ef5bfa54.json)
-
-[Extended Data](ext_articles/ef5bfa54.ext.json)
 
 ---

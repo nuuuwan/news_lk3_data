@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 09:33:22**
+As of **2024-03-18 09:52:02**
 
 ## Newspaper Stats
 
-*Scraped **13,513** Articles*
+*Scraped **13,515** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 127
-bbccomsinhala | 149
+bbccomsinhala | 150
 dbsjeyarajcom | 187
 newsfirstlk | 363
 dailyftlk | 713
@@ -17,7 +17,7 @@ economynextcom | 713
 islandlk | 745
 adalk | 1,157
 adaderanalk | 1,630
-tamilmirrorlk | 1,653
+tamilmirrorlk | 1,654
 virakesarilk | 1,875
 dailymirrorlk | 2,057
 adaderanasinhalalk | 2,144
@@ -26,39 +26,69 @@ adaderanasinhalalk | 2,144
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,511 (100.0%) of 13,513 articles have been extended.
+13,513 (100.0%) of 13,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### කාසියේ වාසිය ශ්‍රී ලංකාවට
+### ரஷ்ய தேர்தல்; 5ஆவது முறையாகவும் அதிபரானார் விளாடிமிர் புதின்
+
+*2024-03-18 09:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்ய-தேர்தல்-5ஆவது-முறையாகவும்-அதிபரானார்-விளாடிமிர்-புதின்/50-334824) · `ta`
+
+ரஷ்யாவில் நடந்த அதிபர் தேர்தலில் விளாடிமிர் புதின் 88% வாக்குகளைப் பெற்று மிகப் பெரிய வெற்றியைப் பெற்றுள்ளார். இதன் மூலம் அவர் மீண்டும் அதிபர் பதவியில் தொடர்வது உறுதியாகியுள்ளது.
+
+உலகிலேயே மிகப் பெரிய நாடாக இருப்பது ரஷ்யா.. இந்தியாவை விட பல மடங்கு பெரியதாக ரஷ்யா இருந்தாலும் அந்நாட்டின் மொத்த மக்கள் தொகை வெறும் 15 கோடி தான்.
+
+1999இல் அதிகாரத்திற்கு வந்த புதின், ரஷ்யாவில் மிகவும் சக்திவாய்ந்த நபராக உருவெடுத்துள்ளார். ரஷ்யா மற்றும் சோவியத் ஒன்றியத்தில் கடந்த 200 ஆண்டுகளில் அதிக காலம் தலைவராக இருந்தவர்கள் பட்டியலில் ஜோசப் ஸ்டாலினை புதின் ஓவர்கேட் செய்துள்ளார்.
+
+உக்ரைன் போருக்குப் பிறகு அங்கே நடக்கும் முதல் தேர்தலாக இது இருக்கும் நிலையில், புதின் மிகப் பெரிய வாக்கு வித்தியாசத்தில் வென்றுள்ளார். R
+
+◼️
+
+[Data](articles/a7734c95.json)
+
+---
+
+### Sri Lanka to benefit the coin
 
 *2024-03-18 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194626) · `si`
 
-ශ්‍රී ලංකා - බංග්ලාදේශ තුන්වන සහ අවසන් එක්දින ක්‍රිකට් තරගයේ කාසියේ වාසිය දිනාගැනීමට ශ්‍රී ලංකා පිල සමත්ව තිබේ.
+Sri Lanka wins the coin toss in the 3rd and final ODI against Bangladesh.
+
+🟩
+
+Sri Lanka has won the toss and win the coin of Bangladesh third and final ODI squad.
 
 ◼️
 
 [Data](articles/d4da279e.json)
 
+[Extended Data](ext_articles/d4da279e.ext.json)
+
 ---
 
-### ගාසා ඛේදවාචකය
+### Gaza tragedy
 
 *2024-03-18 09:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194624) · `si`
 
-ගාසා තීරයේ පවතින යුද ගැටුම් හේතුවෙන් 13,000කට අධික ළමුන් පිරිසක් මියගොස් ඇති බව එක්සත් ජාතීන්ගේ සංවිධානය ප්‍රකාශ කර තිබේ.
+The Gaza tragedy has resulted in over 13,000 child deaths and thousands of injuries, with malnutrition being a significant issue. Israel has been impacted by the war, affecting more than 2.3 million people in Gaza.
 
-තවත් ළමුන් දහස් ගණනක් ප්‍රහාර හේතුවෙන් තුවාල ලබා ඇති බව එම සංවිධානය පෙන්වා දී ඇත.
+🟩
 
-එම සංවිධානය පවසන්නේ ළමුන් වැඩි පිරිසක් දැඩි මන්දපෝෂණ තත්ත්වයකට මුහුණ දී ඇති බවය.
+According to the United Nations, over 13,000 children have died due to the war in the Gaza.
 
-ඊශ්‍රායලය හමාස් සංවිධානය අතර පවතින යුද ගැටුම් හේතුවෙන් ගාසා තීරයේ මිලියන 2.3කට අධික ජනතාවක් පීඩාවට පත්ව ඇති බව සඳහන් වේ.
+More than thousands of children have been injured in the attack.
+
+The organization says that most children have faced hard malnutrition.
+
+It is reported that Israel has been affected by more than 2.3 million people in Gaza due to the war between the Hamas.
 
 ◼️
 
 [Data](articles/ec7b1367.json)
+
+[Extended Data](ext_articles/ec7b1367.ext.json)
 
 ---
 
@@ -765,6 +795,30 @@ Tikiri Toys has become a notable brand in the US, Germany, and the UK and has a 
 [Data](articles/ef5bfa54.json)
 
 [Extended Data](ext_articles/ef5bfa54.ext.json)
+
+---
+
+### ඉහළ යන රිය අනතුරු නිසා රටේ ආර්ථිකයට ඇතිවන බලපෑම ගැන ඔබ දන්නවා ද?
+
+*2024-03-18 02:10:56* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz9zy0grg35o) · `si`
+
+ඉහළ යන රිය අනතුරු නිසා රටේ ආර්ථිකයට ඇතිවන බලපෑම ගැන ඔබ දන්නවා ද?
+
+"වේගය මරුවා කැඳවයි" යන කියමන මෙරට ජනතාව අතර නිරතුරුවම මුවඟ රැදෙන කියමනකි.
+
+එහෙත් දිනෙන් දින මෙරට තුළ සිදුවන රිය අනතුරු නිසා සිදුවන පුද්ගල මරණ සහ තුවාලකරුවන් ගණන සංඛ්‍යාත්මකව ඉහළ යමින් තිබේ. ඒ අතුරින් සදාකාලික ආබාධිත තත්ත්වයට පත්වන පිරිසද ඉහළ අගයක් ගනී.
+
+වාර්ෂිකව මෙරට තුළ සිදුවන රිය අනතුරු හේතුවෙන් පුද්ගලයින් අවම වශයෙන් 2,000 - 2,500ත් අතර පිරිසක් ජීවිතක්ෂයට පත්වේ.
+
+2019 වසරේ සිට 2023 වසර දක්වා සිදුවූ රිය අනතුරු වලින් මියගිය පුද්ගලයින් සංඛ්‍යාව 13,264ක් බව ප්‍රවාහන හා මහා මාර්ග අමාත්‍යාංශය සහ අධිකරණ අමාත්‍යාංශය විසින් නිකුත් කළ දත්ත ඔස්සේ අනාවරණය වේ.
+
+එමෙන්ම එම කාල සීමාව තුළදී සිදුව තිබෙන බරපතල අනතුරු සංඛ්‍යාව 33,470ක් බව එම වාර්තා පෙන්වා දෙයි.
+
+ශ්‍රී ලංකා වෛද්‍ය සංගමයේ රිය අනතුරු වැළැක්වීම පිළිබඳව විද්වත් කමිටු සභාපති සහ පේරාදෙණිය විශ්ව විද්‍යාලයේ මහාචාර්ය සමත් ධර්මරත්න බීබීසී සිංහල වෙත අදහස් දක්වමින් පැවසුවේ මෙලෙස වාර්ෂිකව සිදුවන රිය අනතුරු නිසා රටේ ආර්ථිකයට විශාල බලපෑමක් එල්ල වන බව ය.
+
+...
+
+[Data](articles/461def70.json)
 
 ---
 
@@ -2193,63 +2247,5 @@ The suspect is due to be produced in court, a 37-year-old area of Borella. The W
 [Data](articles/16b5a5a6.json)
 
 [Extended Data](ext_articles/16b5a5a6.ext.json)
-
----
-
-### LIFE VIESTIA LOVING THE LIFE
-
-*2024-03-17 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194601) · `si`
-
-A Sri Lankan mother in Kuwait, Seewadi, is struggling to support her family amidst economic hardship, working to save for her children's education. Despite her efforts, she faces exploitation and torture. Ishara Sarachchandra, her husband, appeals for help to bring her back to Sri Lanka.
-
-🟩
-
-It is a tragedy to hear in brutal warfare news that brings inhuman torture news that brings in the Middle East tribute to the Middle East.
-
-In the Manampitiya Mahawewa, Manampitiya, has recorded information on a private Sri Lankan mother in Kuwait.
-
-Seewadi has gone to the house of Kuwait three months, aims to save his family from economic crisis and to build a permanent education and a formal education for the three children.
-
-Since then, the care of the children of Sewwhand has surrendered to her mother, and the manufacture of iron bucket is a job to strengthen the economy of the house until his wife returns.
-
-However, it was because of all the hopes for the future of their little nest have fallen to all that she had tortured by the employers of the house she had to serve.
-
-Ishara's aim is to bring his wife back to Sri Lanka to bring back his wife in the face of the situation.
-
-Ishara Sarachchandra requests responsible authorities to resort to the tragic fate of their wife.
-
-◼️
-
-[Data](articles/dc24b2f6.json)
-
-[Extended Data](ext_articles/dc24b2f6.ext.json)
-
----
-
-### “The group will not leave Sri Lanka easily”
-
-*2024-03-17 15:33:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்தக்-குழு-இலங்கையை-எளிதில்-விட்டு-விடாது/175-334802) · `ta`
-
-"NPP MP Harini Amarasuriya warns that a power change in Sri Lanka won't be easy, citing a small elite group's control over the country for 76 years. She appeals to the Sri Lankan community in London to join in ending this era."
-
-🟩
-
-NPP MP Harini Amarasuriya said that power change would not be easy.
-
-Speaking at the London Women's Conference, she said the small elite committee has controlled what happened in Sri Lanka for the past 76 years.
-
-He said that this small group would not easily abandon Sri Lanka, and that they are now realizing that they are stronger than all the people of Sri Lanka.
-
-“The change is not easy.There is a small elite group that they can do everything they can to prevent this change.They have controlled what happened in Sri Lanka for so long.
-
-They are not going to give up easily.But the people of this country are stronger than all.We have not felt our strength before.By merging into an organized group, we are much stronger than all of them.
-
-For the past 76 years, they have degraded our country.That era must end.It is our responsibility to end that era.You can make that change.You should also be a part of that change, ”he appealed to the Sri Lankan community living in London.
-
-◼️
-
-[Data](articles/bed47da1.json)
-
-[Extended Data](ext_articles/bed47da1.ext.json)
 
 ---

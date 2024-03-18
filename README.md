@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 00:03:20**
+As of **2024-03-19 00:17:59**
 
 ## Newspaper Stats
 
-*Scraped **13,666** Articles*
+*Scraped **13,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 746
 adalk | 1,179
 adaderanalk | 1,645
 tamilmirrorlk | 1,663
-virakesarilk | 1,907
+virakesarilk | 1,908
 dailymirrorlk | 2,088
 adaderanasinhalalk | 2,173
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,173
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,666 (100.0%) of 13,666 articles have been extended.
+13,666 (100.0%) of 13,667 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### அரசாங்கம் வழங்கிய வாக்குறுதிகளில் பெரும்பாலானவை நிறைவேற்றப்பட்டுள்ளன - இராஜாங்க அமைச்சர் ஜானக வக்கும்புர
+
+*2024-03-18 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/179075) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க உள்ளிட்ட அரசாங்கம் வழங்கிய வாக்குறுதிகளில் பெரும்பாலானவை தற்போது நிறைவேற்றப்பட்டுள்ளதாக மாகாண சபைகள், உள்ளூராட்சி மற்றும் சுற்றாடல் இராஜாங்க அமைச்சர் ஜானக வக்கும்புர தெரிவித்தார்.
+
+நிர்மாணிக்கப்பட்டு வரும் 162 பாலங்களின் பணிகள் எதிர்வரும் ஓகஸ்ட் மாதத்திற்கு முன்னர் பூர்த்தி செய்யப்பட்டு மக்களிடம் கையளிக்கப்படும் எனவும் இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (18) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் ஜானக வக்கும்புர இதனைத் தெரிவித்தார்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க உள்ளிட்ட அரசாங்கம் வழங்கிய வாக்குறுதிகளில் பெரும்பாலானவற்றை நாங்கள் ஏற்கனவே நிறைவேற்றியுள்ளோம். 16,000 மில்லியன் செலவில் 162 பாலங்கள் நிர்மாணிக்கப்படும் என்று கூறினோம்.
+
+அந்தப் பாலங்களில் ஒரு பகுதியை ஏப்ரல் 10 ஆம் திகதிக்கு முன்னதாக பொதுமக்களிடம் ஒப்படைக்க தயாராக உள்ளோம். இதன்படி 162 பாலங்களும் எதிர்வரும் ஓகஸ்ட் மாதத்திற்கு முன்னர் மக்களிடம் கையளிக்கப்படும்.
+
+...
+
+[Data](articles/314ec152.json)
+
+---
 
 ### Wanindu Hasaranga comes out of retirement for Bangladesh Tests
 
@@ -2323,23 +2343,5 @@ This song is released via YouTube space called "Vethala '. It is still nearly 2.
 [Data](articles/b7047390.json)
 
 [Extended Data](ext_articles/b7047390.ext.json)
-
----
-
-### Customs Officers resort to work-to-rule action
-
-*2024-03-18 12:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Customs-Officers-resort-to-work-to-rule-action/108-279071) · `en`
-
-Colombo, March 18 (Daily Mirror) -  The Customs Officers have decided to resort to a 'work to rule,' action commencing this morning.
-
-This action comes as a direct response to grievances surrounding the transfer of the account responsible for disbursing overtime pay, incentives, and rewards.
-
-The dispute stems from the decision to shift control of the account from the Director General of Customs to the Ministry of Finance. Under the previous arrangement, payments were managed through the People's Bank, a process now subject to disruptions and delays following the transfer.
-
-◼️
-
-[Data](articles/c841be78.json)
-
-[Extended Data](ext_articles/c841be78.ext.json)
 
 ---

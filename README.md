@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 07:54:41**
+As of **2024-03-18 08:02:59**
 
 ## Newspaper Stats
 
-*Scraped **13,500** Articles*
+*Scraped **13,503** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,119 +16,207 @@ dailyftlk | 713
 economynextcom | 713
 islandlk | 745
 adalk | 1,157
-adaderanalk | 1,627
+adaderanalk | 1,629
 tamilmirrorlk | 1,653
 virakesarilk | 1,874
 dailymirrorlk | 2,055
-adaderanasinhalalk | 2,137
+adaderanasinhalalk | 2,138
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,495 (100.0%) of 13,500 articles have been extended.
+13,500 (100.0%) of 13,503 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### போதைப்பொருள் விநியோகித்தவரும் வாங்கியவர்களும் கைது
+### හංවැල්ලේ දී කොටුවූ හෙරොයින් ජාවාරම්කරු
+
+*2024-03-18 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194619) · `si`
+
+හෙරොයින් කිලෝග්‍රෑමයට අධික ප්‍රමාණයක් සමග සැකකරුවෙකු අත්අඩංගුවට ගැනීමට වලාන දුෂණ මර්දන ප්‍රහාරක ඒකකය කටයුතු කර තිබේ.
+
+ඊයේ (17) උදෑසන කාලයේ දී හංවැල්ල පොලිස් වසමේ බාලගේවත්ත ප්‍රදේශයේ දී වලාන දුෂණ මර්දන ප්‍රහාරක ඒකකයේ නිලධරීන්ට ලද තොරතුරකට අනුව වැටලීමක් කර හෙරොයින් කිලෝග්‍රෑම් 1ක් සහ මිලිග්‍රෑම් 3ක් සමග මත්ද්‍රව්‍ය ජාවාරම් කිරීම සඳහා යොදාගත් බවට සැක කරන ජංගම දුරකථන 3ක් සන්තකයේ තබාගෙන සිටි සැකකරුවෙකු අත්අඩංගුවට ගෙන හංවැල්ල පොලීසියට ඉදිරිපත් කර ඇත.
+
+මෙම සැකකරු සන්තකයේ තිබී විවිධ බැංකුවලට අයත් බැංකු ගිණුම් පාස්පොත් 5ක් හා ඩෙබිඩ් කාඩ්පත් 4ක් ද පොලීසිය භාරයට ගෙන ඇත.
+
+සැකකරු බන්ධනාගාර ගතව සිටින මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු විසින් මෙහෙයවනු ලබන ජාවාරම්කරුවෙකුගේ සමීපතමයෙකු බවට විමර්ශනයේදී තොරතුරු අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/2b432aab.json)
+
+---
+
+### Arrested for drug distributor and buyers
 
 *2024-03-18 07:44:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைப்பொருள்-விநியோகித்தவரும்-வாங்கியவர்களும்-கைது/175-334823) · `ta`
 
-கொழும்பு கோட்டை பகுதியில் பஸ் சாரதிகள் மற்றும் நடத்துனர்களுக்கு போதைப்பொருள் விநியோகம் செய்யும் மோசடி கும்பலை கொழும்பு டாம் வீதி பொலிஸ் நிலைய பொலிஸார் கைது செய்துள்ளனர்.
+Police in Colombo arrested a drug distribution gang, including a man distributing to bus drivers and conductors in the Fort area.
 
-கோட்டை பகுதியில் இருந்து சேவையில் ஈடுபடும் பஸ்களின் சாரதிகள் மற்றும் நடத்துனர்கள் கடமையின் போது தினமும் போதைப்பொருளை உட்கொள்வதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-போதைப்பொருளை விநியோகித்ததாக சந்தேகிக்கப்படும் நபரையும், அவரிடமிருந்து போதைப்பொருட்களை வாங்கிய பல பஸ் ஊழியர்களையும் பொலிஸார் கைது செய்துள்ளனர்.
+Colombo Tom Road Police Station Police have arrested a gang of drug distribution to bus drivers and conductors in the Fort area of Colombo.
+
+Police said drivers and conductors of buses from the Fort area are taking drugs daily during the duty.
+
+Police have arrested a man suspected of distributing drugs and several bus workers who bought drugs from him.
 
 ◼️
 
 [Data](articles/e4824363.json)
 
+[Extended Data](ext_articles/e4824363.ext.json)
+
 ---
 
-### ”தொல்பொருள் எனும் போர்வையில் பௌத்தத்தை விதைக்காதே”
+### "Do not sow Buddhism under the guise of archeology"
 
 *2024-03-18 07:38:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொல்பொருள்-எனும்-போர்வையில்-பௌத்தத்தை-விதைக்காதே/175-334822) · `ta`
 
-கடந்த எட்டாம் திகதி சிவராத்திரி தினத்தன்று வெடுக்குநாறி மலை சிவன் ஆலய வழிபாட்டின் போது கைது செய்யப்பட்ட எண்மரை விடுதலை செய்யக்கோரியும் அச்சம்பவத்தைக் கண்டித்தும் திருகோணமலை சிவன்கோயிலடிக்கு முன்னிலையில் கவனயீர்ப்பு போராட்டம் ஒன்று நேற்று ஞாயிற்றுக்கிழமை (17) மாலை இடம் பெற்றது .
+"Protest against police interference in worship at Sivankoili, Trincomalee. Demand release of temple administrators and respect for Tamil identity. Criticize police action on Shivaratri, Vedukkuni Mountain, as unsuitable for society."
 
-வழிபாடு எமது அடிப்படை உரிமை ஆதி சிவன் ஆலயம் எமது பூர்வீகம்,ஈழத்தின் சமயத் தலைவர்களை அபகரிக்காதே, தொல்பொருள் எனும் போர்வையில் பௌத்தத்தை விதைக்காதே, வழிபாட்டைத் தடுக்கும் உரிமையைக் பொலிஸாருக்கு கொடுத்தது யார்,ஆலய நிர்வாகிகளை உடனடியாக விடுதலை செய்,ஆலயங்கள் சைவத் தமிழர்களின் பூர்வீக அடையாளம் போன்ற வாசகங்கள் அடங்கிய பதாகைகளை ஏந்தியவாறு கவனயீர்ப்பில் ஈடுபட்டனர்.
+🟩
 
-வெடுக்குநாறி மலையில் இடம் பெற்ற புனிதமான சிவராத்திரி நாளில் இடம் பெற்ற சம்பவம் அடக்குமுறையாகும். பொலிஸார் இவ்வாறு செயற்பட்டமை கண்டிக்கத்தக்கது என திருகோணமலையில் ஞாயிற்றுக்கிழமை (17) மாலை இடம் பெற்ற ஊடக சந்திப்பின் போது அகத்தியார் அடிகளார் தென்காயிலை ஆதினம் தெரிவித்தார்.
+On the day of the eighth day, a protest march was held in the presence of the Sivankoili in Trincomalee yesterday evening (17).
 
-...
+Worship is our fundamental right of the Adi Shiva Temple, our ancestry, do not extort the religious leaders of Eelam, do not sow Buddhism in the guise of archaeological, who gave the police the right to prevent worship, immediately release the temple administrators, and the native identity of the Tamils.
+
+The incident that took place on the sacred Shivaratri day of the Vedukkuni Mountain. At a media briefing held in Trincomalee on Sunday evening (17), the police said that the police were acting.
+
+It is not good to do such things when we continue to worship as he continues to speak. He said that this country is not suitable for a society, but when worshiping the Lord, the oppressive event cannot be accepted not only for vegetarianism but for the entire community.
+
+◼️
 
 [Data](articles/5143423c.json)
 
+[Extended Data](ext_articles/5143423c.ext.json)
+
 ---
 
-### බස්නාහිර සහ දකුණේ අපරාධ කල්ලි මර්දනයට විශේෂ මෙහෙයුමක්
+### Suspect arrested with over 1kg of heroin in Hanwella
+
+*2024-03-18 07:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98021/suspect-arrested-with-over-1kg-of-heroin-in-hanwella) · `en`
+
+A suspect has been arrested while in possession of more than 01 kilogram of heroin in the Balagewatte area in Hanwella by officers of the Walana Anti-Vice Squad, police said.
+
+The 42-year-old, a resident of Brandigampola, was arrested during a raid carried out yesterday morning (17) based on information received by officers of the Walana Anti-Vice Squad.
+
+Police said that 01 kg and 03 mg of heroin, 03 mobile phones suspected to have been used for drug trafficking, 05 bank passbooks for accounts in several banks and 04 debit cards were found in the possession of the suspect.
+
+Investigations have uncovered that the arrested suspect is a close associate of an imprisoned drug trafficker.
+
+The arrestee has been handed over to Hanwella Police who are conducting further investigations into the suspect.
+
+◼️
+
+[Data](articles/12327feb.json)
+
+---
+
+### Evening showers expected in parts of the island
+
+*2024-03-18 07:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98020/evening-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Galle and Matara districts in the evening or night.
+
+Mainly dry weather will prevail elsewhere in the island, it said.
+
+Misty conditions can be expected at some places in Sabaragamuwa and Central provinces and in Galle and Kalutara districts during the morning.
+
+◼️
+
+[Data](articles/d010bd35.json)
+
+---
+
+### Special operation to repress criminal gangs in the Western and South
 
 *2024-03-18 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194618) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි මර්දනය කිරීම ස﻿ඳහා පොලීසිය විසින් නව මෙහෙයුමක් ආරම්භ කිරීමට පියවර ගෙන තිබේ.
+The police are launching a new operation to suppress criminal gangs in the Western and South, under the IGP and the Police Special Task Force. 20 armed groups will be targeted, following orders from the IGP and the Police Special Task Force. The IGP emphasizes strengthening national security through community units and rural security committees.
 
-පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ සහ පොලිස් විශේෂ කාර්ය බළකාය භාර අණදෙන නිලධාරීවරයාගේ සෘජු අධීක්ෂණය යටතේ මෙම මෙහෙයුම සිදුකරනු ඇත.
+🟩
 
-දැනට මනුෂ්‍ය ඝාතන වැඩිම සංඛ්‍යාවක් සිදුවන බස්නාහිර හා දකුණ යන ප්‍රදේශවල මෙම මෙහෙයුම සිදුකරයි.
+The police have taken steps to launch a new operation for the suppression of organized crime gangs.
 
-ඒ අනුව සන්නද්ධ ප්‍රහාරක පොලිස් බලඇණි 20ක් මෙම ප්‍රදේශවල ආරක්ෂක කටයුතු සිදුකිරීමට නියමිතය.
+The operation will be carried out under the direct supervision of Inspector General of Police and the Police Special Task Force in charge of the Police Chief.
 
-පොලිස්පතිවරයාගේ සහ පොලිස් විශේෂ කාර්ය බළකායේ අණදෙන නිලධාරීවරයාගේ නියෝගවලට පමණක් මෙම කණ්ඩායම් ක්‍රියාත්මකවනු ඇත.
+The operation is being carried out in the Western and Southern areas in the Western and South.
 
-පසුගිය දිනවල බස්නාහිර පළාත තුළ මෙන්ම දකුණු පළාත තුළ ද අපරාධ කල්ලි සාමාජිකයින් විසින් සිදුකරන මනුෂ්‍ය ඝාතන ඉහළ ගොස් තිබිණි.
+Accordingly, 20 armed fighter sects are to be taken in these areas.
 
-මේ අතර සියලුම ග්‍රාම සේවා ඒකකවල පිහිටුවා ඇති ප්‍රජා පොලිස් ඒකකය තවදුරටත් ශක්තිමත් කර ඒ හරහා ජාතික ආරක්ෂාව තහවුරු කළ යුතු බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+These groups will only be implemented only to the orders of the IGP and the Police Special Task Force.
 
-ග්‍රාමීය මට්ටමින් ඇති කර ඇති ආරක්ෂක කමිටු සඳහා මෙරට ජාතික ආරක්ෂාව තහවුරු කිරීම සඳහා විශාල වගකීමක් පැවරෙන බව පොලිසිපතිවරයා සඳහන් කළේය.
+Recently, the murders made by the crime gangs in the Western Province and in the Southern Province have increased.
+
+Meanwhile, IGP Deshabandu Tennakoon says that the Community Center for the community unit established in all Grama Seva Units should further strengthen national security.
+
+The police said that rural security committees will be entitled to ensure national security in the country.
 
 ...
 
 [Data](articles/7a501d54.json)
 
+[Extended Data](ext_articles/7a501d54.ext.json)
+
 ---
 
-### இன்று அதிகரித்த வெப்பநிலை காணப்படும்
+### Increased temperature today
 
 *2024-03-18 07:25:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அதிகரித்த-வெப்பநிலை-காணப்படும்/175-334821) · `ta`
 
-கிழக்கு, வடமத்திய,மேல் மற்றும் வடமேல்  மாகாணங்களிலும் அத்துடன்  மொனராகலை, மன்னார், இரத்தினபுரி மற்றும்  வவுனியா மாவட்டங்களிலும்  இன்று அதிகரித்த வெப்பநிலை காணப்படுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Temperature increases today in Eastern, North Central, Western, and North Western provinces, with potential rain or thunderstorms in Sabaragamuwa and Western Provinces, and Galle and Matara districts in the evening. Wind speeds from 15-30 km/h in the north-east, potentially reaching 40 km/h in certain sea regions, causing turbulence.
 
-சப்ரகமுவ மற்றும் மேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+🟩
 
-மத்திய மற்றும் சப்ரகமுவ மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் களுத்துறை  மாவட்டங்களின் சில இடங்களிலும்  காலை வேளையில் பனிமூட்டம் காணப்படும்.
+The Department of Meteorology said that the temperature will be seen today in the Eastern, North Central, Western and North Western provinces as well as in Moneragala, Mannar, Ratnapura and Vavuniya districts.
 
-கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 15 - 30 கிலோமீற்றர் வேகத்தில் வட கிழக்குத் திசையில் இருந்து அல்லது மாறுபட்ட திசைகளில் இருந்து காற்று வீசும்.
+There is a chance of rain or thunderstorm in some parts of the Sabaragamuwa and Western Provinces, as well as some places in the Galle and Matara districts in the evening or night.
 
-...
+In the morning, the Central and Sabaragamuwa Provinces, as well as some places in the Galle and Kalutara districts, are in the morning.
+
+In the sea regions, the wind blows from the north -east direction at 15 - 30 kilometers per hour.
+
+From Puttalam to Mannar to Mannar, as well as in the sea regions from Hambantota to Pottuvil, the winds may increase at 40 kilometers per hour.. In such cases, the sea regions are somewhat turbulent.
+
+◼️
 
 [Data](articles/d6715af1.json)
 
+[Extended Data](ext_articles/d6715af1.ext.json)
+
 ---
 
-### කැනඩාවේ ඝාතනය වු ශ්‍රී ලාංකිකයින්ගේ අවසන් කටයුතු සිදුකෙරේ
+### The funeral of Canada, who was murdered in Canada, is being carried out
 
 *2024-03-18 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194617) · `si`
 
-කැනඩාවේ දී ඝාතනය ලක් වු ශ්‍රී ලාංකිකයින් 06 දෙනොගේ අවමංගල්‍ය කටයුතු ඊයේ (17) පස්වරුවේ ඔටාවා හී දී සිදුකෙරුණි.
+A tragic incident in Canada led to the funeral of 6 Sri Lankans, including family members and a friend, with the Sri Lankan High Commission in Canada organizing the ceremony. Dhanushka Wickremasinghe, the father of the family, was present. The incident involved a 19-year-old Sri Lankan student killed by another, with five of the victims being family members and one a friend. Sri Lanka's High Commissioner Harsha Navaratne expressed condolences, highlighting the tragedy and the community's support.
 
-කැනඩාවේ ඔටාවා හී බාර්හේවන් හී දී ඝාතනයට ලක්වු ශ්‍රී ලාංකික පවුලේ සාමාජිකයින් 05 දෙනාගේ සහ ඔවුන්ගේ මිතුරාගේ අවසන් කටයුතු මෙලෙස සිදුකළ බව කැනඩාවේ ශ්‍රී ලංකා මහකොමසාරිස් කාර්යාලය සචහන් කළේය.
+🟩
 
-අවමංගල්‍ය උත්සව අවස්ථාවට එක්වන ජනතාව වෙනුවෙන් ශෝක ප්‍රකාශයන් සටහන් තැබීමට ද මෙහිදී අවස්ථාව උදාකර තිබිණි.
+The funeral of 6 Sri Lankans killed in Canada was held yesterday (17).
 
-මෙම අවස්ථාව සඳහා ප්‍රහාරයෙන් දිවි බේරාගත් ශ්‍රී ලාංකික පවුලේ පියා වන ධනුෂ්ක වික්‍රමසිංහ ද එක්ව සිටීම විශේෂත්වයකි.
+The Sri Lankan High Commission in Canada has made the funeral of the five Sri Lankan family members and their friend in Canada.
 
-පසුගිය බදාදා දිනයේ 19 හැවිරිදි ශ්‍රී ලාංකික සිසුවෙකු විසින් ඔටාවා හී සිටි ශ්‍රී ලාංකිකයින් පිරිසක් ඝාතනය කර තිබිණි.
+Condolences were also given to note:
 
-මෙම ඝාතනයට ලක්වුවන්ගෙන් 05 දෙනෙකු එකම පවුලේ සාමාජිකයින් වන අතර අනෙක් පුද්ගලයා එම පවුලේ මිතුරෙකු වේ.
+Dhanushka Wickremasinghe, the father of Sri Lankan family, was also present.
 
-ඊයේ පැවති අවමංගල්‍ය උත්සව සභාව ඇමතු කැනඩාවේ ශ්‍රී ලංකා මහ කොමසාරිස් හර්ෂ නවරත්න මහතා,
+A 19-year-old Sri Lankan student who had been killed by a 19-year-old Sri Lankan student in Wednesday.
+
+Five of these killings are the same family members and the other is a friend friend.
+
+Sri Lanka's High Commissioner to Sri Lanka Harsha Navaratne, Minister of Sri Lanka Harsha Navaratne, Minister of Sri Lanka
 
 ...
 
 [Data](articles/7cff7185.json)
+
+[Extended Data](ext_articles/7cff7185.ext.json)
 
 ---
 
@@ -2161,81 +2249,5 @@ The reason for this article is to correct a statement recently made by President
 [Data](articles/f48ea891.json)
 
 [Extended Data](ext_articles/f48ea891.ext.json)
-
----
-
-### Opposition MPs do not have money this year
-
-*2024-03-17 14:55:57* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-විපක්ෂ-මන්ත්‍රීන්ට-මුදල්-නෑ/11-408654) · `si`
-
-Maithripala Sirisena said opposition MPs didn't receive their salaries this year, unlike when he was minister. He spoke at a ceremony organized by the Sri Lankan Ambassador to Sri Lanka's Ambassador.
-
-🟩
-
-Former Presidential Minister Maithripala Sirisena said in Polonnaruwa that the opposition MPs were the only year that the opposition MPs had not received the same year.
-
-The President was speaking at a ceremony of the Venerable Sri Lanka's Ambassador and the Sri Lankan Ambassador to Sri Lanka's Ambassador.
-
-This was organized by Maithripala Sirisena Sirisena Lakdiri Diriya Founda.
-
-"When I was minister, I had a lot of work to help me.The money of the year has come to Polonnaruwa.
-
-But they are now spending none of the opposition in Polonnaruwa and the opposition members of the Opposition in Polonnaruwa have no such money to the government.
-
-The only year that the Opposition MPs who had not received the year this year was not paid this year, but the government gave money without seeing government opposition. But in a government policy, I do not expect much to talk about it "
-
-◼️
-
-[Data](articles/846df17e.json)
-
-[Extended Data](ext_articles/846df17e.ext.json)
-
----
-
-### Wilpattu with his people shooting a hunting
-
-*2024-03-17 14:49:18* · [`adalk`](https://www.ada.lk/breaking_news/විල්පත්තුවේ-තම-පිරිස-සමගම-දඩයමේ-ගිය-අයෙකුට-වෙඩි-තබයි/11-408653) · `si`
-
-A 24-year-old from Eluwankuluwa was killed by a hunting accident in Wilpattu National Park. Four residents of Venunuvilluwa, Puttalam, and Eluwankulam were involved in the incident.
-
-🟩
-
-Wanniwilluwa police said that a 24-year-old youth residing in the Eluwankuluwa area in Wanunuwuwilluwa has been killed by a hunting hunting in the Wilpattu National Park.
-
-Four-residents of the Venunuvilluwa, Puttalam, six-residents, and the Eluwankulam area were said to be a man who had been shooting at the night.
-
-◼️
-
-[Data](articles/2759b61d.json)
-
-[Extended Data](ext_articles/2759b61d.ext.json)
-
----
-
-### Vote for whose dealings
-
-*2024-03-17 14:46:00* · [`adalk`](https://www.ada.lk/breaking_news/කාගේ-කාගේත්-පැටිකිරිය-ගැන-හොයා-ඡන්දය-දෙන්න/11-408652) · `si`
-
-Fild Marshal Sarath Fonseka, a former Army Commander, plans to run for office in the next election, promising to use his intelligence to win votes and outsmart politicians. He emphasizes the importance of representing the people and educating the public about the country's political culture. Fonseka argues for a parliament and democracy, criticizing politicians for focusing on personal gain rather than the country's future. He also warns against recruiting anyone solely for the sake of increasing party membership, stating that no one can win an election alone in the current political climate.
-
-🟩
-
-Former Army Commander Fild Marshal Sarath Fonseka says that he will seek himself intelligently to seek his votes and deceive politicians in the next election.
-
-The former Army Commander emphasized the theme of the representation of the George E de Silva Park in front of the George E de Silva Park in Kandy after attending the mass revolution in the unarmed struggle.
-
-Fonseka also requested the public to educate people on the polluted political culture of this country and the vision of the country who would be deceived in the future.
-
-To build a country to the future generation, it has to be appointed to understand the heartbeal rulers who feel the way to understand the future of politicians.
-
-Fonseka emphasized that the country should have a parliament and democracy, but politicians should work from a policy and to collect the garbage that they want to be politics and the country will fall into a hard drive.
-
-Mr. Fonseka said that the people of the country had asked a struggle and so far.
-
-...
-
-[Data](articles/8c7e6a2b.json)
-
-[Extended Data](ext_articles/8c7e6a2b.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 13:17:57**
+As of **2024-03-18 13:33:40**
 
 ## Newspaper Stats
 
@@ -26,69 +26,97 @@ adaderanasinhalalk | 2,149
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,567 (100.0%) of 13,572 articles have been extended.
+13,572 (100.0%) of 13,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### இராஜினாமா செய்தார் இரான்
+### Iran resigned
 
 *2024-03-18 13:02:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜினாமா-செய்தார்-இரான்/175-334832) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்   இரான் விக்கிரமரத்ன, பொது நிறுவனங்கள் தொடர்பான பாராளுமன்ற  (கோப்) குழுவின் உறுப்புரிமையிலிருந்து இராஜினாமா செய்துள்ளார்.
+Iran Wickramaratne, a member of the United People's Power, resigned from the Parliamentary Committee on Public Organizations, submitting his resignation letter to the Speaker on Sunday.
 
-தனது இராஜினாமா கடிதத்தை சபாநாயகரிடம், ஞாயிற்றுக்கிழமை (17) கையளித்ததாக இரான் விக்ரமரத்ன தெரிவித்தார்
+🟩
+
+United People's Power Member of Parliament Iran Wickremaratne has resigned from the membership of the Parliamentary (COP) Committee on Public Organizations.
+
+Iran Wickramaratne said that he had handed over his resignation letter to the Speaker on Sunday (17).
 
 ◼️
 
 [Data](articles/a050bfbb.json)
 
+[Extended Data](ext_articles/a050bfbb.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-03-18 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179020) · `ta`
 
-இன்று திங்கட்கிழமை (மார்ச் 18) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 300.5662 ஆகவும் விற்பனை விலை ரூபா 309.6749 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar's exchange rate was 300.5662, with a sales price of Rs 309.6749, as per the Central Bank's release on March 18.
+
+🟩
+
+The US dollar purchasing price was 300.5662, based on the currency exchange rate released by the Central Bank on Monday (March 18) and the sales price were Rs 309.6749.
 
 ◼️
 
 [Data](articles/19069b28.json)
 
+[Extended Data](ext_articles/19069b28.ext.json)
+
 ---
 
-### சம்பிரதாய போக்குகளால் உலகை வெற்றி கொள்ள முடியாது ; பரந்த மனப்பான்மையில் சிந்தித்து செயற்பட வேண்டும் - எதிர்க்கட்சித் தலைவர்
+### 8 people killed in Afghanistan by air strikes
+
+*2024-03-18 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179016) · `ta`
+
+Eight people, including women and children, killed in Pakistan's air strikes in Afghanistan's Ghost and Bhaktika provinces. Seven soldiers died in a police station attack in North Wasiristan, Pakistan. President Asif Ali Sardari vows retaliation.
+
+🟩
+
+A Taliban government spokesman has said that eight people have been killed in Pakistan's air strike in Afghanistan today.
+
+Safullah Mujahid has said that the attacks were carried out in the Ghost and Bhaktika provinces at around 3.00 am today and all the victims were women and children.
+
+Seven soldiers were killed in yesterday's attack on a police station in North Wasiristan, Pakistan.
+
+Pakistani President Asif Ali Sardari has said that the attacks will be retaliated.
+
+◼️
+
+[Data](articles/a74beacc.json)
+
+[Extended Data](ext_articles/a74beacc.ext.json)
+
+---
+
+### The traditional tendencies cannot win the world;To think and act in a wider attitude - the leader of the opposition
 
 *2024-03-18 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179018) · `ta`
 
-எல்லையற்ற அதிகார பேராசை கொண்ட பல்வேறு தரப்பினர் பெரும் செல்வத்தை செலவழித்து அதிகாரத்தை பெற முயற்சிக்கும் நேரத்தில் இலங்கையின் 76 வருட ஜனநாயக வரலாற்றில் அதிகாரம் இன்றி நாட்டிற்கு சேவையாற்றிய ஒரேயொரு எதிர்க்கட்சி ஐக்கிய மக்கள் சக்தி என வரலாறு படைத்துள்ளதாக எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+The Opposition Leader, Sajith Premadasa, criticizes traditional parties for not serving the country and emphasizes the importance of smart citizenship. He highlights the need for clean drinking water in schools, especially in rural areas, and criticizes the lack of progress in Sri Lanka due to ethnic divisions. Premadasa also mentions the Universal Information Technology Program and the need for unity across all sectors to rebuild the country.
 
-ஐக்கிய மக்கள் சக்தி ஆட்சிக்கு வந்தால் இன்னும் பல பணிகளைச் செய்ய முடியும் என்று நம்புகிறது, ஆனால் அதிகாரத்திற்கு வருவதற்கு முழு நிதி பலத்தைப் பயன்படுத்தாமல், ஸ்மார்ட் குடிமக்கள், ஸ்மார்ட் நாட்டைக் கட்டியெழுப்ப வேண்டும் என்ற தூய நோக்கத்துடன் எமது கட்சி செயல்பட்டு வருவதாக எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+🟩
 
-இவ்வாறு யோசித்து பார்க்காது வெறும் வாய்ச் சொல் வீரர்களுக்கு நாட்டை ஒப்படைத்ததாலயே நாடு இன்று வங்குரோத்து நிலைக்கு தள்ளப்பட்டுள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இங்கு தெரிவித்தார்.
+The Opposition Leader said that the only opposition party that served the country without the authority of the 76 -year democratic history of Sri Lanka's 76 -year democratic history, when various parties with infinite power were trying to get power.
+
+The Opposition Leader said that if the United People's Power comes to power, many more tasks can be done, but our party is working with the pure intention of building a smart citizens without using the full financial strength to come to power.
+
+Opposition leader Sajith Premadasa said that the country has been put in place today because the country has handed over the country to the players.
+
+Under the Universal Information Technology Program, smart classroom equipment worth Rs 10 lakhs to Matara, Akuressa, Malimbada, Horagoda Maha Vidyalaya was held on March 17.
+
+At the event, he donated Rs.
 
 ...
 
 [Data](articles/18587ab5.json)
 
----
-
-### பாகிஸ்தானின் விமானத் தாக்குதல்களால் ஆப்கானில் 8 பேர் பலி
-
-*2024-03-18 12:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179016) · `ta`
-
-ஆப்கானிஸ்தானில் பாகிஸ்தான்  இன்று நடத்திய வான்வழித் தாக்குதல்கிளல் 8 பேர் உயிரிழந்துள்ளனர் என  தலிபான் அரசாங்கப் பேச்சாளர் ஒருவர் தெரிவித்துள்ளார்.
-
-கோஸ்ட் மற்றும் பக்திக்கா மாகாணங்களில் இன்று திங்கட்கிழமை அதிகாலை 3.00 மணியளவில் இத்தாக்குதல்கள் நடத்தப்பட்டதாகவும்,  உயிரிழந்தவர்கள் அனைவரும் பெண்கள் மற்றும் சிறார்கள் எனவும் ஸபிஹுல்லா முஜாஹித் கூறியுள்ளார்.
-
-பாகிஸ்தானின் வடக்கு வஸிரிஸ்தான் மாகாணத்தில் பொலிஸ் நிலையமொன்றின் மீது நேற்றுமுன்தினம் நடத்தப்பட்ட தாக்குதலில் 7 படையினர் உயிரிழந்திருந்தனர்.
-
-இத்தாக்குதல்களுக்கு பதிலடி கொடுக்கப்படும் என பாகிஸ்தான் ஜனாதிபதி ஆஸிப் அலி ஸர்தாரி சூளுரைத்திருந்தார்.
-
-◼️
-
-[Data](articles/a74beacc.json)
+[Extended Data](ext_articles/18587ab5.ext.json)
 
 ---
 
@@ -174,17 +202,23 @@ In his resignation letter, the SJB MP mentions that the duty of the Committee is
 
 ---
 
-### “පස්ස“ නිසා ගොඩගිය රොයිස්ටර්
+### Receipt due to "tip"
 
 *2024-03-18 12:25:36* · [`adalk`](https://www.ada.lk/breaking_news/“පස්ස“-නිසා-ගොඩගිය-රොයිස්ටර්/11-408673) · `si`
 
-දෙරණ ඩ්‍රීම්ස්ටාටාර් වේදිකාව හරහා වාඩාත් ජනප්‍රියත්වයට පත් රවි රොයිස්ටර් “පස්ස“ ගීතය තුලීන් යූ ටියුබ් හරහා ජත්‍යන්තරයට පැමිණියේය. ඉන්දියාවේ ජනප්‍රිය නළු විජේ ඇන්තනීගේ නවතම සිනමා නිර්මාණයක් වන “රෝමියෝ “ (Romeo) චිත්‍රපටයේ ගීතයක් සඳහා රවි රොයිස්ටර්ට අවස්ථාව හිමිව ඇත.
+"Vish Vedu, Ravi's song in 'Romeo' has 2.5M views on YouTube, making it popular among Indian fans."
 
-“Vethala” නමින් යූ ටියුබ් අවකාශය හරහා මුදාහැර ඇති මෙම ගීතයද අද වනවිට (18) දින 4ක් ගතවත්ම නැරඹුම් වාර මිලියන 2.5කට ආසන්නව ඇත. ඔහුගේ “පස්ස “ ගීතයද යූ ටියුබ් අවකාශය තුළ නැරඹුම් වාර මිලියන 10කට ආසන්න වෙමින් පවතියි. එය ඉන්දියානු රසිකයන් අතරද ඉමහත් ජනප්‍රිය ගීතයකි.
+🟩
+
+Vish Vedu, Ravi Review Ravi Revi Roceter, Popularly reached the "Meek". Ravi Royrster has the opportunity for a song in the film 'Romeo' (Romeo), a latest film of King Vijay Anthony, India.
+
+This song is released via YouTube space called "Vethala '. It is still nearly 2.5 million sights today (18). The song is also getting around 10 million times in the Youtube space. It is also a popular song between Indian fans.
 
 ◼️
 
 [Data](articles/b7047390.json)
+
+[Extended Data](ext_articles/b7047390.ext.json)
 
 ---
 

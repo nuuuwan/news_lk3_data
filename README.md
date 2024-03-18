@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 08:51:40**
+As of **2024-03-18 09:02:55**
 
 ## Newspaper Stats
 
-*Scraped **13,507** Articles*
+*Scraped **13,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,100 @@ adalk | 1,157
 adaderanalk | 1,630
 tamilmirrorlk | 1,653
 virakesarilk | 1,874
-dailymirrorlk | 2,055
-adaderanasinhalalk | 2,141
+dailymirrorlk | 2,057
+adaderanasinhalalk | 2,142
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,505 (100.0%) of 13,507 articles have been extended.
+13,507 (100.0%) of 13,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### නිදහස් පක්ෂය ප්‍රමුඛ නව සන්ධානයේ නායකත්වය ගැන අර්බුදයක්
+### ශ්‍රී ලංකා - බංග්ලාදේශ අවසන් එක්දින තරගය අද
 
-*2024-03-18 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194622) · `si`
+*2024-03-18 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194623) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂය මුලික කරගනිමින් ගොඩනැගීමට නියමිත නව සන්ධානයේ නායකත්වය සම්බන්ධයෙන් අර්බුදයක් මතුව තිබේ.
+ශ්‍රී ලංකා - බංග්ලාදේශ තුන්වන සහ අවසන් එක්දින ක්‍රිකට් තරගය අද (18) පැවැත් වේ.
 
-ඒ නව සන්ධානයේ නායකත්වය ලබාගැනීමට කැමැත්ත පළ කර සිටි හිටපු ජනාධිපතිනී චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය සිය ස්ථාවරය වෙනස් කිරීමත් සමගය.
+මේ අතර ශ්‍රී ලංකා කණ්ඩායමේ වේග පන්දු යවන ක්‍රීඩක ඩිල්ෂාන් මධුශංකට අද තරගය අහිමි වී ඇති බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පැවසුවේය.
 
-නව සන්ධානය පිළිබඳව සාකච්ඡා කිහිපයක් පසුගිය දින කිහිපය තුළ නිදහස් පක්ෂ සභාපති හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගේ ප්‍රධානත්වයෙන් පවත්වා තිබේ.
+ඒ දෙවන එක්දින තරගය අතරතුර දී ඔහු පාදයේ ඇති වු ආබාධයක් හේතුවෙනි.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ පාර්ලිමේන්තු කණ්ඩායම් රැස්වීම ද පසුගිය දා පක්ෂ මුලස්ථානයේ දී පවත්වා ඇති අතර එහිදී ද මෙම අර්බුදය සම්බන්ධයෙන් ද සාකච්ඡා වී ඇති බව සඳහන්ය.
+මේ අතර බංග්ලාදේශ වේග පන්දු යවන ක්‍රීඩක ටන්සිම් හසාන්ට ද අද තරගය සඳහා ක්‍රීඩා කිරීමේ අවස්ථාව අහිමි වී ඇති බව වාර්තා වේ.
 
-කෙසේවෙතත් නව සන්ධානයේ ඉදිරි ක්‍රියාමාර්ග සහ වර්තමාන ප්‍රගතිය පිළිබඳව මෙම සාකච්ඡාවේ දී දීර්ඝ ලෙස කරුණු හුවමාරු වී ඇති බව දේශපාලන ආරංචි මාර්ග සඳහන් කළේය.
+බංගලාදේශ කණ්ඩායමේ ආරම්භක පිතිකරු ලිටන් දාස් ද අද සංචිතයෙන් ඉවත් කර ඇති අතර ඒ වෙනුවට ජාකර් අලී කැඳවා තිබේ.
 
-ඒ අනුව හිටපු ජනාධිපතිනිය සමග මේ සම්බන්ධයෙන් යළිත් වරක් සාකච්ඡා කිරීමට ද එම සාකච්ඡාවේ දී තීරණය වී තිබේ.
+◼️
+
+[Data](articles/f791e4bd.json)
+
+---
+
+### Vladimir Putin claims landslide Russian election victory
+
+*2024-03-18 08:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vladimir-Putin-claims-landslide-Russian-election-victory/108-279043) · `en`
+
+Russia, March 18 (The Guardian) - Vladimir Putin has claimed a landslide victory in Russia’s presidential vote, as thousands in the country and around the world protested against his deepening dictatorship, the war in Ukraine and a stage-managed election that could have only one winner.
+
+In a vote denounced by the United States as “obviously not free nor fair”, Putin won 87% of the vote, according to exit polling published by the state-run Russian Public Opinion Research Center and the Public Opinion Foundation.
+
+In a speech at his campaign headquarters on Sunday evening, Putin brushed off western criticism of the elections, telling his supporters it was “expected”.
+
+“What did you want, for them to applaud us? They’re fighting with us in an armed conflict … their goal is to contain our development. Of course they’re ready to say anything,” he said.
 
 ...
 
+[Data](articles/ef8b3021.json)
+
+---
+
+### Public trust in parliament and political parties reaches all time low: Survey
+
+*2024-03-18 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-trust-in-parliament-and-political-parties-reaches-all-time-low-Survey/108-279042) · `en`
+
+Colombo, March 18 (Daily Mirror) - A recent survey conducted by the Centre for Policy Alternatives (CPA) has unearthed that public trust in parliament and political parties has reached an all time low, with parliament showing 22 percent public trust and political parties showing 19 percent trust.
+
+The survey, titled ‘Survey on Democracy and Reconciliation in Sri Lanka,’ involved 1,350 participants across 25 districts in January, shedding light on declining trust in democratic institutions and shifting attitudes toward authoritarianism.
+
+According to the findings, Army and Courts enjoy the status of the most trusted institution in the country while the police enjoy relatively less public trust compared to the Army and Courts.
+
+...
+
+[Data](articles/be32ceb1.json)
+
+---
+
+### Freedom Party (SLFP) is a crisis in the leadership of the New UPFA
+
+*2024-03-18 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194622) · `si`
+
+The SLFP faces a leadership crisis within the UPFA, with former President Chandrika Bandaranaike Kumaratunga's changing stance causing concern. Recent discussions, including a parliamentary group meeting, have focused on the future of the UPFA, with plans to reassess with the former president. The talks also covered potential collaboration between the government, opposition, and independent entities.
+
+🟩
+
+The Sri Lanka Freedom Party (SLFP) is a crisis on the leadership of the UPFA.
+
+Former President Chandrika Bandaranaike Kumaratunga was changing his position.
+
+A few discussions on the New UPFA have been held under the patronage of former President Chairman of the Independence Party Chairman.
+
+The SLFP parliamentary group meeting was also held at the party headquarters recently.
+
+However, political sources said that the next UPFA's future measures and current progress have been exchanged at the discussion.
+
+The discussion has been decided to discuss this again with the former president.
+
+In addition, it is said that the government and opposition and the opposition and more independent and more independently and independently work have been discussed at length.
+
+◼️
+
 [Data](articles/618b9680.json)
+
+[Extended Data](ext_articles/618b9680.ext.json)
 
 ---
 
@@ -89,6 +151,8 @@ Ajahn Viradhammo, a monk who spoke at the funeral, asked those grieving around t
 ...
 
 [Data](articles/abec6c09.json)
+
+[Extended Data](ext_articles/abec6c09.ext.json)
 
 ---
 
@@ -2197,71 +2261,5 @@ He also said, "We will teach young people free of Chinese, Hindi, Japanese, info
 [Data](articles/3cd3ccba.json)
 
 [Extended Data](ext_articles/3cd3ccba.ext.json)
-
----
-
-### “The SJB government will make English language education mandatory”
-
-*2024-03-17 15:21:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SJB-அரசாங்கம்-ஆங்கில-மொழிக்-கல்வியை-கட்டாயமாக்கும்/175-334800) · `ta`
-
-Sajith Premadasa announced that the SJB government will mandate English language education from grade one to thirteen, excluding subjects like Chinese, Hindi, Japanese, IT, and computer science.
-
-🟩
-
-Opposition leader Sajith Premadasa said the future SJB government would make English language education.
-
-Speaking at a youth rally in Kurunegala, he said that he would make English education compulsory for students from grade one to thirteen.
-
-He also said, "We will teach young people free of Chinese, Hindi, Japanese, information technology and computer science."
-
-◼️
-
-[Data](articles/618521bd.json)
-
-[Extended Data](ext_articles/618521bd.ext.json)
-
----
-
-### Two children drowned in River with parents
-
-*2024-03-17 15:18:26* · [`adalk`](https://www.ada.lk/breaking_news/මව්පියන්-සමග-ගඟේ-දියනෑමට-ගිය-දරුවන්-දෙදෙනෙකු-දියේ-ගිලී-මරුට/11-408655) · `si`
-
-Two boys drowned in Kalawatta River, Yakkalamulla, Galle. Relatives, they were admitted to Emaduwa Hospital. Yakkalamulla Police are investigating.
-
-🟩
-
-Two boys were killed in the Kalawatta River in the Yakkalamulla area in Galle.. The two children are relatives and they have been inaugurated when they arrived in the river with their parents.. Police say that when they were admitted to Emaduwa Hospital. Yakkalamulla Police are conducting further investigations.
-
-◼️
-
-[Data](articles/8edc3185.json)
-
-[Extended Data](ext_articles/8edc3185.ext.json)
-
----
-
-### Police arrest main suspect in Modara shooting
-
-*2024-03-17 15:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98010/police-arrest-main-suspect-in-modara-shooting) · `en`
-
-Police have arrested the suspect who is believed to be the shooter in the attempted murder incident at Modara Street in Colombo 15 on February 13.
-
-The suspect was arrested last evening (16) in the Victoria Bridge area in Peliyagoda.
-
-Police said that 11 grams and 600 milligrams of heroin were found in the suspect’s possession at the time of his arrest.
-
-The arrested suspect is a 35-year-old resident of Imbuggoda area in Parakandeniya.
-
-Previously, one suspect had been arrested by the Colombo North Division’s Crimes Unit and three suspects were arrested by Modara Police in relation to this incident.
-
-The investigating officers have also found a car used by the suspects to commit the crime and a three-wheeler they had used to flee after carrying out the shooting.
-
-The manager of a restaurant in the Modara Street area in Colombo 15 of the Modara police area was shot and injured by a gunman near the main entrance of the restaurant on February 13.
-
-◼️
-
-[Data](articles/1363b9cc.json)
-
-[Extended Data](ext_articles/1363b9cc.ext.json)
 
 ---

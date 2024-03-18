@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 12:03:32**
+As of **2024-03-18 12:17:39**
 
 ## Newspaper Stats
 
-*Scraped **13,550** Articles*
+*Scraped **13,553** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 187
 newsfirstlk | 363
 dailyftlk | 713
 economynextcom | 717
-islandlk | 745
+islandlk | 746
 adalk | 1,163
 adaderanalk | 1,632
 tamilmirrorlk | 1,657
-virakesarilk | 1,882
+virakesarilk | 1,884
 dailymirrorlk | 2,066
 adaderanasinhalalk | 2,148
 
@@ -26,41 +26,119 @@ adaderanasinhalalk | 2,148
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,547 (100.0%) of 13,550 articles have been extended.
+13,550 (100.0%) of 13,553 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### උතුරු කොරියාවෙන් බැලැස්ටික් මිසයිල ප්‍රහාරයක්
+### சந்திரிகா தனது நிலைப்பாட்டை மாற்றியதால் புதிய கூட்டணியின் தலைமைத்துவம் தொடர்பில் நெருக்கடி!
+
+*2024-03-18 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179000) · `ta`
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியை அடிப்படையாகக் கொண்டு  ஸ்தாபிக்கப்படவுள்ள புதிய கூட்டணியின் தலைமைத்துவம் தொடர்பில் நெருக்கடி நிலைமை தோன்றியுள்ளதாக  தகவல்கள் வெளிவந்துள்ளன.
+
+புதிய கூட்டணியின் தலைமைத்துவத்தை பெற விருப்பம் தெரிவித்த முன்னாள் ஜனாதிபதி  சந்திரிகா பண்டாரநாயக்க குமாரதுங்க தனது நிலைப்பாட்டை மாற்றிக்கொண்டுள்ளார்.
+
+கடந்த சில நாட்களாக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தலைமையில் புதிய கூட்டணி தொடர்பில் பல கலந்துரையாடல்கள் இடம்பெற்றன.
+
+ஸ்ரீலங்கா சுதந்திரக் கட்சியின் நாடாளுமன்றக் குழுக் கூட்டமும் அண்மையில் கட்சித் தலைமையகத்தில் இடம்பெற்றதுடன்  இந்த நெருக்கடி நிலை குறித்தும் கலந்துரையாடப்பட்டதாகக் குறிப்பிடப்படுகிறது.
+
+எவ்வாறாயினும், புதிய கூட்டணியின் எதிர்கால நடவடிக்கைகள் மற்றும் தற்போதைய முன்னேற்றம் தொடர்பில் இதன்போது விரிவாக கலந்துரையாடப்பட்டதாக அரசியல் வட்டாரங்கள் தெரிவிக்கின்றன.
+
+இதன்படி, அந்தக் கலந்துரையாடலில் மீண்டும் ஒருமுறை முன்னாள் ஜனாதிபதியுடன் இவ்விடயம் தொடர்பில் கலந்துரையாட தீர்மானிக்கப்பட்டுள்ளதாக கூறப்படுகிறது.
+
+◼️
+
+[Data](articles/0d552410.json)
+
+---
+
+### 735 arrested with religious conflicts;The vehicle and the police rescue
+
+*2024-03-18 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178992) · `ta`
+
+A 35-year-old man was arrested with 735 religious conflicts in Kattankudy. The police found drug pills in his vehicle. Further investigations are ongoing.
+
+🟩
+
+Kattankudy Police Station Officer G. Gajanayake said that a 35 -year -old man was arrested with 735 religious conflicts during a sudden roundup by the Kattankudy police under the directive of the Inspector General of Police Deshabandu Thennakoon.
+
+The officer in charge added that the drug pills were taken in the vehicle.
+
+The man was arrested on the basis of information received by the Intelligence Unit on Sunday (17) morning on Teleicom Road, Kattankudi.
+
+Further investigations are being carried out by the police that the person is to be produced at the Batticaloa Magistrate's Court.
+
+Meanwhile, 10 people have been arrested with ice and heroin and Kerala cannabis during the search operation in the last two days, police said.
+
+◼️
+
+[Data](articles/2508aaeb.json)
+
+[Extended Data](ext_articles/2508aaeb.ext.json)
+
+---
+
+### North Korea attack on a balist missile
 
 *2024-03-18 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194630) · `si`
 
-උතුරු කොරියාව විසින් පියොන්ග් යැංග් සිට නැගෙනහිර මුහුද දෙසට කෙටි දුර බැලැස්ටික් මිසයිල කිහිපයක් දියත් කර තිබේ.
+North Korea launched short-range ballistic missiles towards the East Sea, targeting Pyongyang. US Secretary of State Anthony Blinken visited Seoul, South Korea, amidst the attacks. South Korean security forces monitor North Korea closely.
 
-දකුණු කොරියාවේ සෝල් නුවර වෙත අමෙරිකානු රාජ්‍ය ලේකම් ඇන්තනී බ්ලින්කන් පැමිණීමත් සමග එම මිසයිල ප්‍රහාර දියත් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-අමෙරිකානු රාජ්‍ය ලේකම්වරයා සෝල් නුවර පැවැත්වෙන සමුළුවක් සඳහා සහභාගී වීමට නියමිතය.
+Pyong has launched several short distance bulicic missiles towards Pyong Yang to East Sea.
 
-කෙසේවෙතත් උතුරු කොරියාව දියත් කරනු ලබන මිසයිල සම්බන්ධයෙන් දැඩි විමසිල්ලෙන් පසුවන බව දකුණු කොරියානු ආරක්ෂක අංශ පවසා ඇත.
+According to foreign media reports, US Secretary of State Anthony Bleinc to Seoul in South Korea had launched the missile attacks.
+
+The US Secretary of State is due to attend a conference in Seoul.
+
+However, South Korean security forces have said that North Korea is in close eye.
 
 ◼️
 
 [Data](articles/d611ff6f.json)
 
+[Extended Data](ext_articles/d611ff6f.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවට ඩොලර් මිලියන 100ක ණයක්
+### US $ 100 million loan to Sri Lanka
 
 *2024-03-18 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194629) · `si`
 
-ආසියානු සංවර්ධන බැංකුව, ශ්‍රී ලංකාවට ඩොලර් මිලියන 100ක ණයක් අනුමත කර තිබේ.
+ADB approves $100M loan for Sri Lanka's small and medium-scale enterprises.
 
-එය මෙරට කුඩා සහ මධ්‍ය පරිමාණ ව්‍යාවසායකයින් ගේ ප්‍රයෝජනය ට යොදාගැනීමට නියමිතය.
+🟩
+
+ADB has approved a US $ 100 million loan to Sri Lanka.
+
+It is used to use small and medium-scale entries in the country.
 
 ◼️
 
 [Data](articles/0763bb84.json)
+
+[Extended Data](ext_articles/0763bb84.ext.json)
+
+---
+
+### காஸாவின் மிகப் பெரிய வைத்தியசாலையில் இஸ்ரேலின் இராணுவ நடவடிக்கை ஆரம்பம்
+
+*2024-03-18 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/178999) · `ta`
+
+காஸா பிராந்தியத்தின் மிகப் பெரிய வைத்தியசாலையான அல் ஷிபா  வைத்தியசாலை பகுதியில் இஸ்ரேல் இன்று இராணுவ நடவடிக்கையை  ஆரம்பித்துள்ளது.
+
+காஸா நகரிலுள்ள அல் ஷிபா வைத்தியசாலையானது காஸா பிராந்தியத்தின மிகப் பெரிய வைத்தியசாலையாகும்.
+
+ஷிபா வைத்தியசாலை பகுதியில் தற்போது இராணுவ நடவடிக்கை மேற்கொள்ளப்படுவதாகவும், ஹமாஸின் சிரேஷ்ட அங்கத்தவர்கள் இவ்வைத்தியசாலையை பயன்படுத்துவதாக கிடைத்த புலனாய்வுத் தகவல்களின் அடிப்படையில் இந்நடவடிக்கை மேற்கொள்ளப்படுவதாகவும் இஸ்ரேலிய இராணுவம் தெரிவித்துள்ளது.
+
+கடந்த நவம்பர் அல் ஷிபா அவ்வைத்தியசாலைக் கட்டடத்தில்  இஸ்ரேலிய இராணுவம் முற்றுகையிட்டமை சர்வதேச ரீதியான கண்டங்களை ஏற்படுத்தியிருந்தது.
+
+◼️
+
+[Data](articles/5bc2d80d.json)
 
 ---
 
@@ -103,32 +181,6 @@ The total distance of the third phase of the Central Expressway is 32.45 kms and
 [Data](articles/6391c3b3.json)
 
 [Extended Data](ext_articles/6391c3b3.ext.json)
-
----
-
-### 735 arrested with religious conflicts;The vehicle and the police rescue
-
-*2024-03-18 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178992) · `ta`
-
-A 35-year-old man was arrested with 735 religious conflicts in Kattankudy. The police found drug pills in his vehicle. Further investigations are ongoing.
-
-🟩
-
-Kattankudy Police Station Officer G. Gajanayake said that a 35 -year -old man was arrested with 735 religious conflicts during a sudden roundup by the Kattankudy police under the directive of the Inspector General of Police Deshabandu Thennakoon.
-
-The officer in charge added that the drug pills were taken in the vehicle.
-
-The man was arrested on the basis of information received by the Intelligence Unit on Sunday (17) morning on Teleicom Road, Kattankudi.
-
-Further investigations are being carried out by the police that the person is to be produced at the Batticaloa Magistrate's Court.
-
-Meanwhile, 10 people have been arrested with ice and heroin and Kerala cannabis during the search operation in the last two days, police said.
-
-◼️
-
-[Data](articles/2508aaeb.json)
-
-[Extended Data](ext_articles/2508aaeb.ext.json)
 
 ---
 
@@ -232,19 +284,25 @@ The Asian Development Bank (ADB) has approved a $100 million loan to provide sma
 
 ---
 
-### සති අන්තයේ ශ්‍රී පාදය වදින්න ලක්ෂ 3ක් ඇවිත්
+### 3 lakhs come to visit the Sri Pada on the weekend
 
 *2024-03-18 10:58:35* · [`adalk`](https://www.ada.lk/breaking_news/සති-අන්තයේ-ශ්‍රී-පාදය-වදින්න-ලක්ෂ-3ක්-ඇවිත්/11-408667) · `si`
 
-ගෙවුණු සති අන්තයේ නල්ලතන්නිය-ශ්‍රීපාද මාර්ගයෙන් ශ්‍රීපාද වන්දනාව සඳහා  දෙස් විදෙස් වන්දනාකරුවන් ලක්ෂ 03 කට ආසන්න  පිරිසක් පැමිණි බව නල්ලතන්නිය පොලිස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ශාන්ත වීරසේකර මහතා පැවසිය.
+Nearly 3 lakh overseas pilgrims visited Sripada-Sripea over the weekend, causing severe congestion in Nallathaniya, Sri Lanka. The police had to divert them back to their village due to the high number of visitors every weekend.
 
-වන්දනාකරුවන් අධික වීමෙන් නල්ලතන්නිය -ශ්‍රීපාද මාර්ගයේ  මහගිරිදඹ  සිට සීතගඟුල ප්‍රදේශය දක්වා දැඩි තදබදයක් පැවතුණි. පැය ගණනක් එකම ස්ථානයක රැඳි සිටිිමට සිදු වීමෙන් තමන් දැඩි අපහසුතාවයට පත් වූ බවත්,  දුර බැහැර සිට පැමිණි බොහෝ වන්දනාකරුවන්ට ශ්‍රීපාදය වැඳපුදා ගැනිමට නොහැකිව ආපසු ගම්බිම් බලා යාමට සිදු වූ බවත් එම වන්දනාකරුවෝ අප සමග නල්ලතන්නිය නඟරයේදී පැවසුහ.
+🟩
 
-සැම සති අන්තයකම වන්දනාකරුවන් අධික විම හේතුවෙන් මෙසේ තදබදයකට ලක් වන බව නල්ලතන්නිය පොලිසිය පවසයි.
+Nallathaniyan Police Chief Inspector Shantha Weerasekera said that nearly three lakh overseas pilgrims came to Sripada-Sripea through the weekend.
+
+The large number of pilgrims have been severely congested to the Shillowing area of the Nallathaniya - Sri Lanka. The pilgrimage was embarrassed by the Nallathan, that they had to go back to the village, that they had to stay back to the village, that they had to go back to the village from the same location.
+
+Nallathaniya police say that due to the high pilgrims every weekend.
 
 ◼️
 
 [Data](articles/fb650791.json)
+
+[Extended Data](ext_articles/fb650791.ext.json)
 
 ---
 
@@ -2143,53 +2201,5 @@ With the increased cost of printing, many writers have turned to publishing e-bo
 [Data](articles/857fafa7.json)
 
 [Extended Data](ext_articles/857fafa7.ext.json)
-
----
-
-### Explore mistakes and use votes wisely
-
-*2024-03-17 20:54:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தவறுகளை-ஆராய்ந்து-வாக்குகளை-புத்திசாலித்தனமாக-பயன்படுத்துங்கள்/175-334820) · `ta`
-
-Field Marshall Sarath Fonseka urges wise voting in upcoming elections, criticizing politicians who destroyed the country. He appeals for votes for those not fooled by politicians, emphasizing the need for leaders who understand the people's needs and future crises. Fonseka warns of the dangers of fraudulent politicians and the importance of principled politics.
-
-🟩
-
-Former military commander Field Marshall Sarath Fonseka has called for a wise politician to use your votes wisely in the upcoming election, not to be fooled by the politicians who destroyed this country, but to analyze your votes and wisely use your votes.
-
-In front of the George ED Silva Park in Kandy by a non -party organization
-
-Fonseka appealed to the people to make it clear to the people about the prevailing political culture and the vision of the country and to use his votes for those who are not fooled by politicians.
-
-To build the country for future generations, he said he should appoint the rulers who understand the heartbeat of a conscious people on the country and the future crises.. Although there must be parliament and democracy in the country
-
-Fonseka has urged politicians to act in principle and that the country will be in trouble again if they go to politics.
-
-...
-
-[Data](articles/abd5c190.json)
-
-[Extended Data](ext_articles/abd5c190.ext.json)
-
----
-
-### At least 21 dead after bus collides with tanker in Afghanistan
-
-*2024-03-17 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/At-least-21-dead-after-bus-collides-with-tanker-in-Afghanistan/108-279016) · `en`
-
-March 16, (Al Jazeera) - At least 21 people have been killed and 38 others injured after a bus collided with an oil tanker in the Gerashk district of Afghanistan’s Helmand province, officials said.
-
-The crash on the Kandahar-Herat highway involved a motorcycle, a fuel truck and a bus travelling from Herat city to the capital Kabul, said Sher Mohammad Wahdat, head of the information department for Helmand’s provincial government.
-
-The bus driver lost control after colliding with the motorcycle and crashed with an oil tanker travelling in the opposite direction from the southern city of Kandahar to Herat, sparking a fire.
-
-“On Sunday morning, 21 people were killed and 38 people were injured due to a collision between a tanker, a motorcycle and a passenger bus,” the provincial information department said in a post on X.
-
-An investigation into the accident was under way, said Qadratullah, a traffic official in Helmand.
-
-...
-
-[Data](articles/8ec3516c.json)
-
-[Extended Data](ext_articles/8ec3516c.ext.json)
 
 ---

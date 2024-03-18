@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 15:33:18**
+As of **2024-03-18 15:51:42**
 
 ## Newspaper Stats
 
-*Scraped **13,593** Articles*
+*Scraped **13,596** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ dailyftlk | 713
 economynextcom | 717
 islandlk | 746
 adalk | 1,169
-adaderanalk | 1,635
+adaderanalk | 1,636
 tamilmirrorlk | 1,658
 virakesarilk | 1,899
-dailymirrorlk | 2,075
-adaderanasinhalalk | 2,153
+dailymirrorlk | 2,076
+adaderanasinhalalk | 2,154
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,593 (100.0%) of 13,593 articles have been extended.
+13,593 (100.0%) of 13,596 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### තෙවැනි ලෝක යුද්ධය අත ළඟ
+
+*2024-03-18 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194636) · `si`
+
+රුසියාව සහ නේටෝ සංවිධානය අතර ඍජු සටනක් ඇති වුවහොත් එය පෘථිවිය තුන්වැනි ලෝක යුද්ධයට එක් පියවරක් දක්වා ආසන්න කරන බව රුසියානු ජනාධිපති ව්ලැදිමීර් පුටින් ජනාධිපතිවරණය ජයග්‍රහණයෙන් අනතුරුව වාර්තාකරුවන් අමතමින් ප්‍රකාශ කළේය.
+
+යුක්‍රේන යුද්ධය, 1962 කියුබානු මිසයිල අර්බුදයෙන් පසු රුසියාව සහ බටහිර ලෝකය අතර දරුණුතම අර්බුදය නිර්මාණය කර තිබේ.
+
+එවැනි වාතාවරණයක් හමුවේ න්‍යෂ්ටික යුද්ධයක අවදානම පිළිබඳව ජනපති පුටින් කිහිප වතාවක්ම අනතුරු අඟවා ඇතත් යුක්‍රේනයට එරෙහිව න්‍යෂ්ටික අවි භාවිත කිරීමේ අවශ්‍යතාවක් මෙතෙක් මතුවී නොමැති බව ඔහු සඳහන් කර ඇත්තේය.
+
+ඉදිරියේදී යුක්‍රේනය තුළ නේටෝ හමුදා යෙදවීම බැහැර කළ නොහැකියැයි ප්‍රංශ ජනාධිපති එම්මානුවල් මැක්‍රෝන් පසුගිය මාසයේ සිදුකළ ප්‍රකාශයේදී බටහිර රටවල් බොහොමයක් ඔහු හා එකඟවූයේ නැත.
+
+ප්‍රංශ ජනාධිපතිවරයාගේ ප්‍රකාශය සහ රුසියාව හා නේටෝ සංවිධානය අතර යුද්ධයක් හටගැනීමේ හැකියාව පිළිබඳව වාර්තාකරුවන් ජනපති පුටින්ගෙන් විමසා තිබුණි.
+
+එහිදී ඔහු පවසා ඇත්තේ නූතන ලෝකයේ ඕනෑම සිදුවීමකට අවස්ථාව පවතින බවයි.
+
+...
+
+[Data](articles/7e935141.json)
+
+---
+
+### Operation ‘Yukthiya’ further in progress to minimize crimes in North – Tiran Alles
+
+*2024-03-18 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98028/operation-yukthiya-further-in-progress-to-minimize-crimes-in-north-tiran-alles) · `en`
+
+A programme has been held in Jaffna to raise awareness among the members of Community Policing Committees in Jaffna and Kankesanthurai Police Divisions.
+
+Around 2,000 community policing members from 431 Grama Niladhari Divisions of Jaffna and Kankesanthurai Police Divisions have participated in this occasion on Sunday (March 17), which was led by Minister of Public Security, Tiran Alles.
+
+The Secretary to the Ministry of Public Security Viyani Gunathilaka and the Inspector General of Police (IGP) Deshabandu Tennakoon also took part at the occasion.
+
+...
+
+[Data](articles/06f34b1e.json)
+
+---
+
+### El Nino phenomenon causing high temperatures, will continue till April
+
+*2024-03-18 15:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/El-Nino-phenomenon-causing-high-temperatures-will-continue-till-April/108-279077) · `en`
+
+Colombo, March 18 (Daily Mirror) - The El Nino phenomenon has caused an increase in the continuous dry weather situation in the country and it could continue till April, Meteorology Department Director Genral Athula Karunanayaka said.
+
+He told the media that rain can be expected from next Thursday (21), Friday (22) and Saturday (23), but there will also be an increase in the heat.
+
+Rains can be expected in the Western, Southern and Uva Provinces.
+
+However, the rains will not be enough to reduce the hot conditions. The body temperature is 37 percent, the ambient temperature is the same, and it will feel oppressive.
+
+Heat exists during the day as well as during the night. Therefore, the department requests people to wear white clothes that reflect heat, to drink more water and avoid strenuous work.
+
+◼️
+
+[Data](articles/d2009091.json)
+
+---
 
 ### Struggle in Jaffna tomorrow demanding the release of the detainees
 
@@ -2231,59 +2289,5 @@ The outcome means Putin, 71, is set to embark on a new six-year term that will s
 [Data](articles/2141f467.json)
 
 [Extended Data](ext_articles/2141f467.ext.json)
-
----
-
-### Framework for National Archives and Records Management legislation open for public input
-
-*2024-03-18 04:34:58* · [`dailyftlk`](https://www.ft.lk/news/Framework-for-National-Archives-and-Records-Management-legislation-open-for-public-input/56-759624) · `en`
-
-Committee to Revise National Archives Law Chairman Nigel Nugawela (Archivist) explaining aspects of the proposed law to the Minister
-
-The Sri Lanka National Archives (SLNA) has announced that the Framework for National Archives and Records Management Legislation is now available for public comments.
-
-Through this process, SLNA is seeking input on the framework to further improve its various provisions and to develop archives and records management legislation that meets the needs of the public. The framework may be downloaded from https//bit.ly/slna.
-
-All submissions may be sent to [email protected] or posted to or handed over at the Department of National Archives at No. 7 Philip Gunawardene Mawatha, Colombo 07 or to the SLNA’s branch office at No. 4/6, Hemamali Mawatha, Kandy.
-
-...
-
-[Data](articles/b4408113.json)
-
-[Extended Data](ext_articles/b4408113.ext.json)
-
----
-
-### SLT-MOBITEL and Railways unveil E-Ticket and E-Warrant solutions
-
-*2024-03-18 04:20:52* · [`dailyftlk`](https://www.ft.lk/news/SLT-MOBITEL-and-Railways-unveil-E-Ticket-and-E-Warrant-solutions/56-759623) · `en`
-
-SLT-MOBITEL, in collaboration with Sri Lanka Railways, last week marked a significant milestone by successfully digitizing the ticket reservation process for both customers and Government employees, ushering in a new era of convenience and efficiency.
-
-The new, fully-fledged digital system includes E-Ticket and E-Warrant solutions, symbolizing an important advancement in the modernization of railway services in Sri Lanka.
-
-...
-
-[Data](articles/b87fd3a6.json)
-
-[Extended Data](ext_articles/b87fd3a6.ext.json)
-
----
-
-### Canada and JICA join UNDP to open mobile interactive space on women’s empowerment in Jaffna
-
-*2024-03-18 04:12:24* · [`dailyftlk`](https://www.ft.lk/news/Canada-and-JICA-join-UNDP-to-open-mobile-interactive-space-on-women-s-empowerment-in-Jaffna/56-759622) · `en`
-
-From left: UNDP Resident Representative in Sri Lanka Azusa Kubota,  High Commission of Canada Head of Development Cooperation Linda Ehrich, and the Japan International Cooperation Agency in Sri Lanka Chief Representative Tetsuya Yamada
-
-Japan International Cooperation Agency (JICA) Chief Representative in Sri Lanka Tetsuya Yamada, and United Nations Development Program (UNDP) Resident Representative in Sri Lanka Azusa Kubota along with High Commission of Canada Head of Development Cooperation Linda Ehrich recently visited the Jaffna leg of UNDPs mobile interactive exhibition space, ‘A Journey of Transformation and Women’s Empowerment’.
-
-Northern Province Chief Secretary S.M. Saman Bandulasena along with other Government representatives were also present at the inauguration of the exhibition held from 13 to 15 March at the Jaffna Cultural Centre.
-
-...
-
-[Data](articles/c83d8939.json)
-
-[Extended Data](ext_articles/c83d8939.ext.json)
 
 ---

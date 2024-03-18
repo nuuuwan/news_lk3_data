@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 09:17:49**
+As of **2024-03-18 09:33:22**
 
 ## Newspaper Stats
 
-*Scraped **13,511** Articles*
+*Scraped **13,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,67 @@ adaderanalk | 1,630
 tamilmirrorlk | 1,653
 virakesarilk | 1,875
 dailymirrorlk | 2,057
-adaderanasinhalalk | 2,142
+adaderanasinhalalk | 2,144
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,510 (100.0%) of 13,511 articles have been extended.
+13,511 (100.0%) of 13,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### ரஷ்ய ஜனாதிபதி தேர்தலில் புடின் 88 சதவீத வாக்குகளுடன் வெற்றி
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2024-03-18 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194626) · `si`
+
+ශ්‍රී ලංකා - බංග්ලාදේශ තුන්වන සහ අවසන් එක්දින ක්‍රිකට් තරගයේ කාසියේ වාසිය දිනාගැනීමට ශ්‍රී ලංකා පිල සමත්ව තිබේ.
+
+◼️
+
+[Data](articles/d4da279e.json)
+
+---
+
+### ගාසා ඛේදවාචකය
+
+*2024-03-18 09:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194624) · `si`
+
+ගාසා තීරයේ පවතින යුද ගැටුම් හේතුවෙන් 13,000කට අධික ළමුන් පිරිසක් මියගොස් ඇති බව එක්සත් ජාතීන්ගේ සංවිධානය ප්‍රකාශ කර තිබේ.
+
+තවත් ළමුන් දහස් ගණනක් ප්‍රහාර හේතුවෙන් තුවාල ලබා ඇති බව එම සංවිධානය පෙන්වා දී ඇත.
+
+එම සංවිධානය පවසන්නේ ළමුන් වැඩි පිරිසක් දැඩි මන්දපෝෂණ තත්ත්වයකට මුහුණ දී ඇති බවය.
+
+ඊශ්‍රායලය හමාස් සංවිධානය අතර පවතින යුද ගැටුම් හේතුවෙන් ගාසා තීරයේ මිලියන 2.3කට අධික ජනතාවක් පීඩාවට පත්ව ඇති බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/ec7b1367.json)
+
+---
+
+### Putin wins 88 percent of the Russian presidential election
 
 *2024-03-18 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/178975) · `ta`
 
-ரஷ்ய ஜனாதிபதி தேர்தலில் விளாடிமிர் புடின் 88 சதவீத வாக்குகளுடன் வெற்றி பெற்றதாக முதல் அதிகாரப்பூர்வ முடிவுகள் தெரிவிக்கின்றன.
+Putin wins 88% in Russian presidential election, to be sworn in on May 7. Criticism mounts over law extending his tenure.
 
-வருகிற மே மாதம் 7 ஆம் திகதி புதிய ஜனாதிபதிக்கு பதவி பிரமாணம் செய்து வைக்கப்படும் என்று தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-முன்னதாக ஜனாபதியின் பதவிக் காலமும் அப்போது 4 ஆண்டுகளாக இருந்த நிலையில், அது புடின் பிரதமராக இருந்த போது 7 ஆண்டுகளாக நீட்டிக்கப்பட்டது. புடின் சாகும் வரை ரஷ்யாவைத் தனது கட்டுப்பாட்டில் வைத்துக் கொள்ளவே இந்த சட்டத்தைக் கொண்டு வந்ததாக அப்போதே, பலரும் விமர்சனம் செய்திருந்தது குறிப்பிடத்தக்கது.
+The first official decisions suggest that Vladimir Putin won the Russian presidential election with 88 percent of the vote.
+
+It is reported that the new President will be sworn in on May 7.
+
+Earlier, the tenure of the President had been extended for 7 years when Putin became Prime Minister. It is noteworthy that many people have already criticized the law to keep Russia under his death until Putin's death.
 
 ◼️
 
 [Data](articles/2c1092eb.json)
+
+[Extended Data](ext_articles/2c1092eb.ext.json)
 
 ---
 
@@ -2215,55 +2251,5 @@ For the past 76 years, they have degraded our country.That era must end.It is ou
 [Data](articles/bed47da1.json)
 
 [Extended Data](ext_articles/bed47da1.ext.json)
-
----
-
-### Two boys drown in Polwatta River
-
-*2024-03-17 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98011/two-boys-drown-in-polwatta-river) · `en`
-
-Two boys have reportedly drowned while bathing in the Polwatta River at Yakkalamulla, Galle.
-
-The deceased boys are aged 11 and 14 years while they are said to be related.
-
-Police said that they had drowned while bathing in the river along with their parents and other family members.
-
-The boys were rushed to the Imaduwa Hospital following the incident, however they were pronounced dead on admission to the hospital.
-
-◼️
-
-[Data](articles/9727fbd8.json)
-
-[Extended Data](ext_articles/9727fbd8.ext.json)
-
----
-
-### "Private buses for campaigns"
-
-*2024-03-17 15:27:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரசாரங்களுக்காக-தனியார்-பேருந்துகள்/175-334801) · `ta`
-
-"Private buses for election campaigns in Sri Lanka will be provided without bus stickers or posters, to prevent damage. The LPBOA requests the Central Bank Governor to repair buses damaged during the Arakalai period."
-
-🟩
-
-Private buses will be provided for election campaigns for any political party, but the bus stickers or posters will not be allowed on the bus, said Gemunu Wijeratne, president of the Sri Lanka Private Bus Owners Association (LPBOA).
-
-He told the media that the buses would be rented and that the candidate or political parties who were renting buses for the election campaign should take responsibility for bus or buses.
-
-Stickers and posters on the bus will be damaged by its paint and metal.
-
-“Even during the previous elections, our buses were rented for election campaigns.
-
-“However, the damage to private buses during the Arakalai period has not yet been repaired.
-
-"Some buses were repaired by their owners, but many more buses are in repairs," he said.
-
-Wijeratne has therefore requested the Central Bank Governor to take appropriate action and rectify the buses.
-
-◼️
-
-[Data](articles/c08f7803.json)
-
-[Extended Data](ext_articles/c08f7803.ext.json)
 
 ---

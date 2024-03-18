@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 16:33:25**
+As of **2024-03-18 16:48:47**
 
 ## Newspaper Stats
 
-*Scraped **13,611** Articles*
+*Scraped **13,613** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 dailyftlk | 713
 economynextcom | 721
 islandlk | 746
-adalk | 1,172
+adalk | 1,173
 adaderanalk | 1,638
 tamilmirrorlk | 1,658
 virakesarilk | 1,901
 dailymirrorlk | 2,076
-adaderanasinhalalk | 2,158
+adaderanasinhalalk | 2,159
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,606 (100.0%) of 13,611 articles have been extended.
+13,611 (100.0%) of 13,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### පිටිගල ඝාතන සැකකරුවන් දෙදෙනා රිමාන්ඩ්
+
+*2024-03-18 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194641) · `si`
+
+පිටිගල පොලිස් වසමේ නියාගම, හොරංගල්ල, ගුරුවිලදී  පසුගියදා සිදුකළ වෙඩිතැබීම සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවන් දෙදෙනාව මාර්තු 25 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට ඇල්පිටිය මාහෙස්ත්‍රාත් මධුෂිකා වාසලමුදලි මහත්මිය අද (18) නියෝග කළාය.
+
+එහිදී හතර දෙනෙකුට වෙඩි වැදුණි. ඉන් දෙදෙනෙකු ජීවිතක්ෂයට පත්වූ අතර අනෙක් දෙදෙනාට බරපතළ සිදුවිය.
+
+සිද්ධිය සම්බන්ධයෙන් තව දුරටත් විමර්ශණය කර ප්‍රගතිය වාර්තා කරන ලෙසත් සිද්ධියට සම්බන්ධ අනෙක් සැකකරුවන්ද අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙසත් මහෙස්ත්‍රාත්වරිය පිටිගල පොලීසියට දැනුම් දුන්නේය.
+
+මෙසේ රක්ෂිත බන්ධනාගාරගත කරන ලද්දේ 69 කොටස, නියාගම, තල්ගස්වල ලිපිනයේ පදිංචි නාගොඩවිතාන කසුන් රන්දික නාගොඩවිතාන (36) සහ අලවත්තහේන, ගෝනගල්ගොඩ, තල්ගස්වල ලිපිනයේ පදිංචි කාරියවසම් ලොකුගමගේ ගයාන් ප්‍රසන්න (36) නමැති දෙදෙනාය.
+
+පසුගිය මාර්තු 11 වනදා රාත්‍රී 7.50ට පමණ යතුරුපැදියකින් පැමිණි දෙදෙනෙකු විසින් වෙළෙඳසැල් හිමිකරුවකු ඉලක්ක කර සිදුකරන ලද වෙඩිතැබීමකදී මෙම ඝාතන හා තුවාල සිදු කිරීම් සිදුවිය.
+
+...
+
+[Data](articles/ef3c1bae.json)
+
+---
 
 ### CEB introduces new installment scheme to obtain electricity connections
 
@@ -41,6 +61,8 @@ The Ceylon Electricity Board (CEB) has introduced a special electricity connecti
 ◼️
 
 [Data](articles/485ac1bc.json)
+
+[Extended Data](ext_articles/485ac1bc.ext.json)
 
 ---
 
@@ -58,53 +80,75 @@ Police have registered a case under IPC provisions relating to unlawful assembly
 
 [Data](articles/2d85dcf5.json)
 
+[Extended Data](ext_articles/2d85dcf5.ext.json)
+
 ---
 
-### කදුරුවෙල ත්‍රෛභාෂා ජාතික පාසලට ඉන්දියාවෙන් තවත් මිලියන 250ක්
+### 250 million from India to Kaduru Trilingual National School
 
 *2024-03-18 16:12:01* · [`adalk`](https://www.ada.lk/breaking_news/කදුරුවෙල-ත්‍රෛභාෂා-ජාතික-පාසලට-ඉන්දියාවෙන්-තවත්-මිලියන-250ක්/11-408681) · `si`
 
-මෛත්‍රිපාල සිරිසේන මහතා ජනාධිපතිධුරයට පත් වූ පසු ඉන්දියාවේ සිදු කරන ලද පළමු නිළ සංචාරය අතරතුර ඉන්දියානු අග්‍රාමාත්‍ය ගරු නරේන්ද්‍ර මෝදි මැතිතුමාගෙන් සිදු කරන ලද ඉල්ලීමක් මත ඉන්දියානු රජයේ පරිත්‍යාගක් ලෙස 2017 වර්ෂයේ වැඩ ආරම්භ කෙ⁣රුණු කදුරුවෙල ත්‍රෛභාෂා ජාතික පාසලේ ඉදිකිරීම් කටයුතු පසුගිය සමයේ අතරමග නැවතී තිබුනි. විශේෂයෙන්ම පසුගිය සමයේ කිහිප විටක්ම පවතින රජයෙන් මෙම පාසලේ වැඩ අවසන් කිරීම සඳහා ප්‍රතිපාදන වෙන් කරන ලෙස ඉල්ලීම් කළත් ඒ සඳහා සුබදායී පිළිතුරක් නොලැබිණි.
+India donates 250 million to Kaduru Trilingual National School. After PM Sirisena's visit, India agreed to fund the school's completion. Sri Lanka's High Commissioner and India's High Commissioner visited to observe progress.
 
-ඒ අනුව හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මැතිතුමා විසින් ඉන්දියානු අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝධි මැතිතුමාගෙන් සිදු කරන ලද විශේෂ ඉල්ලීමක් මත එම ත්‍රෛභාෂා ජාතික පාසලේ වැඩ අවසන් කිරීම සඳහා ප්‍රතිපාදන වෙන් කිරීමට කැමැත්ත ප්‍රකාශ කරන ලදි.
+🟩
 
-එහි ප්‍රතිඵලයක් ලෙස මෙම පාසලේ වත්මන් තත්ත්වය සොයා බැලීම සඳහා ශ්‍රී ලංකාවේ ඉන්දියානු නියොජ්‍ය මහ කොමසාරිස් එල්දොස් මැතිව් පුන්නූස් මැතිතුමා සහ රජයේ නිලධාරීන් පසුගියදා නිරීක්ෂණය චාරිකාවක් සඳහා එක්විය.
+After the first official visit to Maithripala Sirisena was appointed as the Appointment of India, the Government of India had been resurrected in the last days of the first official visit to the Indian Prime Minister.. In the recent past, the current government has requested the allocation of funds for the completion of the school.
 
-...
+Accordingly, former President Maithripala Sirisena expressed the consent to complete the work of the Trilogy National School on a special request made by Indian Prime Minister Narendra Modhi.
+
+As a result, Sri Lanka's High Commissioner of India and the High Commissioner of India to visit the current situation in the school and joined the recent observation of government officials.
+
+Accordingly, within the next six months will be announced that the end of Rs.
+
+◼️
 
 [Data](articles/5028b9e0.json)
 
+[Extended Data](ext_articles/5028b9e0.ext.json)
+
 ---
 
-### විදුලිබල මණ්ඩලයෙන් නව ගෙවීමේ ක්‍රමයක්
+### New Payment From the Electricity Board
 
 *2024-03-18 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194640) · `si`
 
-නිවාස, කුඩා සහ මධ්‍යම පරිමාණ ව්‍යාපාර සඳහා විදුලිය ලබාදීමට නව ක්‍රමවේදයක් ලංකා විදුලිබල මණ්ඩලය විසින් ක්‍රියාත්මක කර තිබේ.
+The Ceylon Electricity Board (CEB) introduces a new system for housing and small/medium businesses, requiring new customers to pay 25% of their electricity cost for supply.
 
-ඒ අනුව නව පාරිභෝගිකයෙකු විදුලි සැපයුම ලබාගැනීමට යන වියදමෙන් සියයට 25ක් ගෙවීමෙන් අනතුරුව ඉතිරි මුදල කොටස් වශයෙන් ගෙවීමේ හැකියාව පවතී.
+🟩
+
+The Ceylon Electricity Board (CEB) has implemented a new system for housing, small and medium scale businesses.
+
+Accordingly, a new customer will pay 25 percent of the cost of electricity to obtain electricity supply.
 
 ◼️
 
 [Data](articles/0f706ef2.json)
 
+[Extended Data](ext_articles/0f706ef2.ext.json)
+
 ---
 
-### මොරටුවේදී කාන්තාවක් මරුට
+### Woman dies after falling in Moratuwa
 
 *2024-03-18 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194639) · `si`
 
-මොරටුව ඉඳිබැද්ද බැක්වත්ත ප්‍රදේශයේදී කාන්තාවක් ගෙළ කපා ඝාතනය කර තිබේ.
+A woman in Moratuwa died after falling in Launbalay. Her husband had recently died mysteriously in prison, leading police to suspect a relative's involvement.
 
-වැඩිදුරටත් තොරතුරු වාර්තා වන්නේ ඝාතනය සිදුකළ පුද්ගලයා මොරටුමුල්ල පොලිස් ස්ථානය වෙත පැමිණ භාරවී ඇති බවටය.
+🟩
 
-මීට මාස කිහිපයකට පෙර මෙලෙස ඝාතනයට ලක්ව ඇති කාන්තාවගේ සැමියා බන්ධනාගාරගතව සිටියදී අභිරහස් ලෙස මියගියේය.
+A woman has been cut off in the area of Launbalay in Kathibedda, Moratuwa.
 
-මියගිය සැමියාගේ ඥාතියෙකු විසින් මෙම ඝාතනය සිදුකරන්නට ඇති බවට පොලීසිය සැකපළ කරයි.
+Speaking further the victim has come to the Moratumulla Police Station.
+
+A few months ago, the woman's husband died mysteriously, while he was imprisoned.
+
+Police suspect that the murder had been carried out by a relative of the deceased husband.
 
 ◼️
 
 [Data](articles/705cddb7.json)
+
+[Extended Data](ext_articles/705cddb7.ext.json)
 
 ---
 
@@ -127,6 +171,20 @@ The Criminal Investigations Department was arrested and produced before the cour
 [Data](articles/98627b33.json)
 
 [Extended Data](ext_articles/98627b33.ext.json)
+
+---
+
+### “ඇල්ල” ට වතුර නැතිලු   පැය දෙකකටවත් වතුර මදිලු
+
+*2024-03-18 15:57:25* · [`adalk`](https://www.ada.lk/breaking_news/“ඇල්ල”-ට-වතුර-නැතිලු---පැය-දෙකකටවත්-වතුර-මදිලු/11-408680) · `si`
+
+උඩරට දුම්රිය මාර්ගයේ සොඳුරු ගමනාන්තයක් වන ඇල්ල දුම්රිය ස්ථානයේ ජල සැපයුම දින හතරක පමණ කාලයක සිට ඇන හිටීම නිසා දෙසේ විදෙස් සංචාකරයෝ මෙන්ම දුම්රිය ස්ථානයේ කාර්යමණ්ඩලයද අපහසුතාවයට පත්ව සිටිති.
+
+දැනට විකල්පයක් ලෙස ඇල්ල ප්‍රාදේශීය සභාවට ජල බවුසරයකට රුපියල් හාරදහසක් බැගින් ගෙවා තාවකාලිකව ජලය ලබාගන්නා නමුත් එය පැය දෙකකටවත් ප්‍රමාණවත් නොවන බව ඇල්ල දුම්රිය ස්ථානයේ ප්‍රධාන දුම්රිය ස්ථානයේ ස්ථානාධිපති අසෙන්ද්‍ර දිසානායක මහතා පැවසීය.
+
+◼️
+
+[Data](articles/78e14c02.json)
 
 ---
 
@@ -2211,53 +2269,5 @@ According to the findings, Army and Courts enjoy the status of the most trusted 
 [Data](articles/be32ceb1.json)
 
 [Extended Data](ext_articles/be32ceb1.ext.json)
-
----
-
-### Public trust in parliament and political parties reaches all time low: Survey
-
-*2024-03-18 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Public-trust-in-parliament-and-political-parties-reaches-all-time-low-Survey/155-279042) · `en`
-
-Colombo, March 18 (Daily Mirror) - A recent survey conducted by the Centre for Policy Alternatives (CPA) has unearthed that public trust in parliament and political parties has reached an all time low, with parliament showing 22 percent public trust and political parties showing 19 percent trust.
-
-The survey, titled ‘Survey on Democracy and Reconciliation in Sri Lanka,’ involved 1,350 participants across 25 districts in January, shedding light on declining trust in democratic institutions and shifting attitudes toward authoritarianism.
-
-According to the findings, Army and Courts enjoy the status of the most trusted institution in the country while the police enjoy relatively less public trust compared to the Army and Courts.
-
-...
-
-[Data](articles/ff3bccb7.json)
-
-[Extended Data](ext_articles/ff3bccb7.ext.json)
-
----
-
-### Freedom Party (SLFP) is a crisis in the leadership of the New UPFA
-
-*2024-03-18 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194622) · `si`
-
-The SLFP faces a leadership crisis within the UPFA, with former President Chandrika Bandaranaike Kumaratunga's changing stance causing concern. Recent discussions, including a parliamentary group meeting, have focused on the future of the UPFA, with plans to reassess with the former president. The talks also covered potential collaboration between the government, opposition, and independent entities.
-
-🟩
-
-The Sri Lanka Freedom Party (SLFP) is a crisis on the leadership of the UPFA.
-
-Former President Chandrika Bandaranaike Kumaratunga was changing his position.
-
-A few discussions on the New UPFA have been held under the patronage of former President Chairman of the Independence Party Chairman.
-
-The SLFP parliamentary group meeting was also held at the party headquarters recently.
-
-However, political sources said that the next UPFA's future measures and current progress have been exchanged at the discussion.
-
-The discussion has been decided to discuss this again with the former president.
-
-In addition, it is said that the government and opposition and the opposition and more independent and more independently and independently work have been discussed at length.
-
-◼️
-
-[Data](articles/618b9680.json)
-
-[Extended Data](ext_articles/618b9680.ext.json)
 
 ---

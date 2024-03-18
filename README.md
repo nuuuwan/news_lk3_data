@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 14:33:44**
+As of **2024-03-18 14:50:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,153
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,583 (100.0%) of 13,585 articles have been extended.
+13,585 (100.0%) of 13,585 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -40,35 +40,43 @@ School Principals have been informed in writing to postpone sports meets and oth
 
 Accordingly, the Ministry of Education has advised school principals to postpone the relevant activities until April 24, 2024.
 
+Furthermore, it is informed to postpone all outdoor activities including sports meets and other competitions until the third phase of the first school term which will commence on April 24 and to draw special attention to the health of the students, owing to the prevailing hot weather conditions.
+
 On Sunday (17), Minister of Education Susil Premajayantha said school principals will be informed through a circular to organise the inter-house sports meets and sports events of their respective schools after the Sinhala and Tamil New Year holidays.
-
-The minister pointed out that it had been observed that many schools have organised inter-house sports meets regardless of the prevailing hot weather conditions across the island.
-
-Minister Susil Premajayantha said that since the first school term will continue even after the New Year holidays, it is possible to hold sports meets and other outdoor sporting events during that period.
 
 ...
 
 [Data](articles/edfbf8aa.json)
 
+[Extended Data](ext_articles/edfbf8aa.ext.json)
+
 ---
 
-### පාසල් ක්‍රීඩා උත්සව සිංහල අලුත් අවුරුද්දෙන් පස්සේ
+### After school sports events Sinhala
 
 *2024-03-18 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194635) · `si`
 
-පවතින අධික උණුසුම් සහිත කාලගුණික තත්ත්වයත් සමඟ පාසල් නිවාසාන්තර ක්‍රීඩා උත්සව අප්‍රේල් අලුත් අවුරුදු නිවාඩුවෙන් පසුව පවත්වන ලෙස අධ්‍යාපන අමාත්‍යංශය විදුහල්පතිවරුන්ට දැනුම්දී තිබේ.
+The Ministry of Education has advised schools to hold online holidays during the April New Year's holidays due to warm weather. Education Minister Susil Premjages announced a circular today, emphasizing the need for safety, especially after a two-week delay. The Department of Meteorology predicts warm weather in several provinces, with temperatures reaching 38.3 degrees, affecting both children and adults.
 
-ඊට අදාළ චක්‍රෙල්ඛය අද (18) නිකුත්කරන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේම්ජයන්ත් මහතා ප්‍රකාශ කළේය.
+🟩
 
-"මීට කළින් නිවේදනයක් නිකුත් කළා. නමුත් අද නිවේදනයක් නිකුත් කරනවා පළාත් බලධාරීන් හරහා පාසලවලට. ක්‍රීඩා උත්සව අවුරුද්දෙන් පස්සට කල් දාන්න කියලා. මොකද ඒ වෙනකොට තත්ත්වය මීට වඩා වෙනස් වෙන්න පුළුවන්. ප්‍රථම වාරය ඉවර වෙන්න අවුරුද්දෙන් පස්සෙත් තව සති දෙකක් විතර තියෙනවා. අපි මේ අවස්ථාවේ වැඩි අවධානයක් යොමු කරන්න ඕනේ දරුවන්ගේ ආරක්ෂාව දෙසට"
+The Ministry of Education has informed principals to conduct school online holiday in April New Year's holidays, with the highly warmly warm weather.
 
-මේ අතර, අද පෙරවරු 5.30ට අවසන් වූ ගතවූ පැය 24 තුළදීත් වැඩිම උෂ්ණත්වය සෙල්සියල් අංශක 38.3ක් ලෙස කුරුණෑගල දිස්ත්‍රික්කයෙන් වාර්තා විය.
+Minister of Education Susil Premjages said that the relevant circular will be released today (18).
 
-වයඹ, උතුරු මැද, නැගෙනහිර, බස්නාහිර පළාත්වලත් මොනරාගල, මන්නාරම, රත්නපුර, වව්නියාව දිස්ත්‍රික්කවලත් ඉදිරි දින කිහිපයේදීත් අවධානය යොමුකළයුතු මට්ටමේ උණුසුම් කාලගුණයක් පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පැවසුවේය.
+"I was released by a statement. However, today is released to school through provincial authorities. To postpone the same way from the year. Because the situation can be different from that. It's been about two weeks later after the year ended. We need to pay more attention to the safety of the children "
+
+Meanwhile, the highest temperature has been 38.3 degrees as 38.3 degrees in the 24 hours of the last 24 hours.
+
+The Department of Meteorology said that there is a warm weather in the next few days in the next few days, the North Western, North Central, East, Western provinces.
+
+The temperature in a normal human body is 37 degrees, and the body is hot this morning due to overriding body temperature body temperature.
 
 ...
 
 [Data](articles/af1dc4c0.json)
+
+[Extended Data](ext_articles/af1dc4c0.ext.json)
 
 ---
 

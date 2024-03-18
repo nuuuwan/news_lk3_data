@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 22:33:26**
+As of **2024-03-18 22:51:07**
 
 ## Newspaper Stats
 
-*Scraped **13,659** Articles*
+*Scraped **13,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 746
 adalk | 1,179
 adaderanalk | 1,645
 tamilmirrorlk | 1,663
-virakesarilk | 1,905
+virakesarilk | 1,906
 dailymirrorlk | 2,086
 adaderanasinhalalk | 2,173
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,173
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,657 (100.0%) of 13,659 articles have been extended.
+13,659 (100.0%) of 13,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### நீர்த்தேக்கத்தில் மூழ்கி இளம் பிக்கு உயிரிழப்பு
+
+*2024-03-18 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/179073) · `ta`
+
+வனாத்தவில்லுவ ஸ்ரீ தர்மராஜா விகாரைக்கு விஜயம் செய்திருந்த போது, விகாரையில் இருந்த பிக்குகள் குழுவுடன் நீராடச் சென்ற போதே இந்த அனர்த்தம் நிகழ்ந்துள்ளதாக  தெரிவிக்கப்படுகின்றது.
+
+மேலும் உயிரிழந்தவர் ரஜரட்ட பிக்கு பல்கலைக்கழகத்தில் கல்வி கற்று வந்த ஹீல்ஒய சங்கானந்த தேரர் என தெரியவந்துள்ளது.
+
+பிக்குவின் சடலம் தொடர்பான பிரேதப் பரிசோதனை செவ்வாய்க்கிழமை (19) நடைபெறவுள்ளதுடன், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை கருவலகஸ்வெவ பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/75bde8ce.json)
+
+---
 
 ### Gunmen kidnap at least 87 in Nigeria’s Kaduna state
 
@@ -50,21 +66,29 @@ Tanko Wada Sarkin, a village head, said 87 people were taken.
 
 [Data](articles/9828e39d.json)
 
+[Extended Data](ext_articles/9828e39d.ext.json)
+
 ---
 
-### இலங்கை மீனவர்களுக்கு அவசர அறிவிப்பு
+### Emergency notice to Sri Lankan fishermen
 
 *2024-03-18 21:57:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மீனவர்களுக்கு-அவசர-அறிவிப்பு/175-334843) · `ta`
 
-கடந்த சனிக்கிழமை அரபிக்கடலில் சோமாலிய ஆயுதக் குழுவொன்றினால் ஈரானிய மீன்பிடி படகு ஒன்று கடத்தப்பட்டதை தொடர்ந்து, அரபிக்கடலில் மீன்பிடி நடவடிக்கைகளில் ஈடுபட வேண்டாம் என கடற்றொழில் மற்றும் நீரியல்வள திணைக்களம் இலங்கை மீனவர்களுக்கு அறிவித்துள்ளது.
+Sri Lankan fishermen advised not to fish in Arabian Sea due to Iranian boat abduction by Somalian group.
 
-கடற்றொழில் மற்றும் நீரியல் வளங்கள் திணைக்களத்தில் இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்ட அதன் பணிப்பாளர் நாயகம்  சுசந்த கஹவத்த இதனை தெரிவித்தார்.
+🟩
 
-ஈரானிய கப்பலுடன் குறித்த கடற்பரப்பிற்கு கடற்கொள்ளையர் குழுவொன்று வந்துள்ளதாக தகவல் கிடைத்துள்ளதாக அவர் மேலும் தெரிவித்தார். R
+The Fisheries and Aquatic Resources Department has informed Sri Lankan fishermen not to engage in fishing activities in the Arabian Sea following the abduction of an Iranian fishing boat by a Somalian armed group in the Arabian Sea last Saturday.
+
+The Director General of the Fisheries and Aquatic Resources Department, Susantha Kahawatta, was present at a press conference.
+
+He added that a group of pirates have received information about the Iranian ship.. Remble
 
 ◼️
 
 [Data](articles/96b56538.json)
+
+[Extended Data](ext_articles/96b56538.ext.json)
 
 ---
 
@@ -2301,25 +2325,5 @@ Following the hearing of the case, the 21 persons were ordered to be remanded un
 [Data](articles/78255456.json)
 
 [Extended Data](ext_articles/78255456.ext.json)
-
----
-
-### Bakery products sales decline due to ingredient taxation
-
-*2024-03-18 12:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bakery-products-sales-decline-due-to-ingredient-taxation/108-279069) · `en`
-
-Colombo, March 18 (Daily Mirro) - Due to the imposition of taxes on ingredients used for bakery products, the sale of bakery items such as bread has decreased, chairman of the National Movement for Consumer Rights Protection, Ranjith Vithanage said.
-
-He told the Daily Mirror that a tax of Rs. 50 has been imposed on imported wheat flour, egg prices have increased and a Rs. 6,000 tax has been imposed on a kilo of margarine.
-
-Therefore, since  the prices of bakery items have increased, the sale of bread has decreased by 40 percent, and the sale of other bakery products has come down by 25 percent. Also, an 18 percent tax has been imposed on bakery items except bread.
-
-Under this situation, 10 percent of the bakeries have closed, said Vithanage and added that bakery owners did not reduce the prices of bakery items, even though the electricity charges were reduced by 21.9 percent.
-
-◼️
-
-[Data](articles/30cedff3.json)
-
-[Extended Data](ext_articles/30cedff3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 01:18:17**
+As of **2024-03-19 01:33:41**
 
 ## Newspaper Stats
 
-*Scraped **13,673** Articles*
+*Scraped **13,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 127
 bbccomsinhala | 151
 dbsjeyarajcom | 187
 newsfirstlk | 363
-dailyftlk | 718
+dailyftlk | 721
 economynextcom | 724
 islandlk | 746
 adalk | 1,179
 adaderanalk | 1,645
 tamilmirrorlk | 1,663
-virakesarilk | 1,909
+virakesarilk | 1,911
 dailymirrorlk | 2,088
 adaderanasinhalalk | 2,173
 
@@ -26,23 +26,109 @@ adaderanasinhalalk | 2,173
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,672 (100.0%) of 13,673 articles have been extended.
+13,673 (100.0%) of 13,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### கேரளாவில் நடிகர் விஜய்க்கு ரசிகர்கள் உற்சாக வரவேற்பு..!
+### தமிழ்த்தேசியப் பசுமை இயக்கத்தின் பசுமை அமைதி விருதுகள் விழா
+
+*2024-03-19 01:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179078) · `ta`
+
+தமிழ்த்தேசியப் பசுமை இயக்கத்தின் பசுமை அமைதி விருதுகள் விழா ஞாயிற்றுக்கிழமை (17) கோலாகலமாக நிகழ்ந்தேறியுள்ளது. மாணவர்களிடையேயும் பொதுமக்களிடையேயும் சூழல் விழிப்புணர்வை ஏற்படுத்தி அவர்களைச் சூழல்பாதுகாப்புச் செயற்பாடுகளில் பங்கேற்பாளர்களாக்கும் நோக்குடன் தமிழ்த்தேசியப் பசுமை இயக்கம் ஆண்டு தோறும் பசுமை அமைதி விருதுகளை வழங்கி வருகிறது. 2023ஆம் ஆண்டுக்கான விருதுகளை வழங்கும் விழா யாழ்ப்பாணம் வீரசிங்கம் மண்டபத்தில் இடம்பெற்றுள்ளது.
+
+தமிழ்த்தேசியப் பசுமை இயக்கத்தின் தலைவர் பொ.ஐங்கரநேசன் தலைமையில் நடைபெற்ற இவ்விழாவில் பிரதம விருந்தினராக யாழ்ப்பாணப் பல்கலைக்கழகத்தின் துணைவேந்தர் பேராசிரியர் சி. சிறிசற்குணராஜா அவர்கள் கலந்துகொண்டிருந்தார். சிறப்பு விருந்தினர்களாக வடமாகாணக் கல்வித் திணைக்களத்தின் பணிப்பாளர் தி. ஜோன் குயின்ரஸ், கிழக்கு மாகாண விவசாயத் திணைக்களத்தின் பணிப்பாளர் திரு. எம். எஸ். ஏ. கலீஸ் ஆகியோர் கலந்து கொண்டிருந்தார்கள்.
+
+...
+
+[Data](articles/1d9ab9e5.json)
+
+---
+
+### தீர்மானங்களை எடுக்கும் சகல மட்டங்களிலும் பெண்களை இணைப்பதற்கு அழைப்பு
+
+*2024-03-19 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/179077) · `ta`
+
+அபிலாசைகளுக்கும் யதார்த்தத்துக்கும், சொல்லுக்கும் செயலுக்கும், சட்டங்களுக்கும் அவற்றின் நடைமுறைப்படுத்தலுக்கும் இடையில் உள்ள வெளி இலங்கையில் ஒரு முக்கிய பிரச்சினை. பாலின உறவுகளும் இதற்கு விதிவிலக்கு இல்லை.
+
+தேசிய சமாதானப் பேரவையினால் ஏற்பாடு செய்யப்பட்டிருந்த ' சமூக ஈடுபாடு, கற்றல் மற்றும் ஆதரித்தல் ஊடாக பெண்களை உள்வாங்குவதற்கான முயற்சிகள் ' ( The Women Organised for Inclusion through Community Engagement, Learning and Advocacy Symposium -- WOICE ) தொடர்பிலான கருத்தரங்கு நாட்டின் ஏழு மாவடடங்களில் இரு்து 120 க்கும் அதிகமான பெண் தலைவர்களையும் செயற்பாட்டாளர்களையும் ஒரு அரங்கில் ஒன்றிணைத்தது. குடிமக்களுக்கு சட்டங்களைப் பற்றியும் அவற்றை அரசாங்கம் நடைமுறைப்படுத்துவது குறித்தும் அறிவு இல்லை என்ற அவதானிப்பு இந்த கருத்தரங்கில்  முக்கியமாக முன்வைக்கப்பட்டது.
+
+...
+
+[Data](articles/1de5d734.json)
+
+---
+
+### Prof. Wickremesinghe outlines key role of women empowerment for economic inclusivity
+
+*2024-03-19 01:12:11* · [`dailyftlk`](https://www.ft.lk/opinion/Prof-Wickremesinghe-outlines-key-role-of-women-empowerment-for-economic-inclusivity/14-759652) · `en`
+
+In keynote at Women’s Chamber of Industry and Commerce International Women’s Day event calls for concerted efforts to realise full potential of inclusivity which goes beyond slogans and policies
+
+Opines actions to integrate women into all spheres of society, industry and economy still remains limited
+
+Says addressing inclusivity issues crucial amidst crises, with focus on equality in opportunities, resources, wealth distribution
+
+Advocates to view inclusivity as a development imperative and strategic business strategy
+
+Insists on tangible organisational measures to eliminate gender bias, stereotypes
+
+Urges WCIC to establish a women-led bank to promote gender equality, economic empowerment
+
+Chair and Senior Professor of English, and Founder Director Prof. Maithree Wickremesinghe last week made a compelling case for the critical role of economic inclusivity, particularly in advancing the status of women and driving overall prosperity.
+
+...
+
+[Data](articles/3cb82fa7.json)
+
+---
+
+### Women’s Symposium calls for inclusion of women at all levels of decision making
+
+*2024-03-19 01:10:11* · [`dailyftlk`](https://www.ft.lk/opinion/Women-s-Symposium-calls-for-inclusion-of-women-at-all-levels-of-decision-making/14-759651) · `en`
+
+A major problem in Sri Lanka is the gap between aspirations and reality, words and deeds, laws and their implementation. Gender relations is no exception. The Women Organised for Inclusion through Community Engagement (WOICE) Learning and Advocacy Symposium organised by the National Peace Council (NPC) brought together over 120 women leaders and activists from seven districts across the country. One of the key observations related to the lack of knowledge of the laws on the part of citizens and implementation of them by the state.
+
+...
+
+[Data](articles/20eddec3.json)
+
+---
+
+### LOLC champions female diversity and leadership on Women’s Day celebrations
+
+*2024-03-19 01:09:31* · [`dailyftlk`](https://www.ft.lk/opinion/LOLC-champions-female-diversity-and-leadership-on-Women-s-Day-celebrations/14-759650) · `en`
+
+LOLC Panel Discussion led by LOLC Holdings PLC Director Kalsha Amarasinghe
+
+LOLC Holdings PLC, the premier multinational conglomerate spanning over 25 countries across Asia, Africa, and Australia, celebrated International Women’s Day under the theme, “Count Her In.”
+
+This year’s commemoration of women within the LOLC Group highlighted the organisation’s commitment to female diversity and leadership, uniting the extraordinary achievements, resilience, and leadership spirit of its female staff. The focal point of this year’s International Women’s Day was the symposium held at LOLC’s head office, featuring two impactful sessions: “LOLC Spotlights” and the “LOLC Panel Discussion.”
+
+...
+
+[Data](articles/b454579f.json)
+
+---
+
+### Actor Vijay in Kerala
 
 *2024-03-19 01:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179076) · `ta`
 
-நடிகரும், தமிழக வெற்றிக் கழகம் கட்சியின் தலைவருமான விஜய் ‘தி கோட்’ படத்தின் படப்பிடிப்பிற்காக இந்தியாவின் கேரள மாநிலம் சென்றுள்ளார்.
+Actor Vijay, leader of the Tamil Nadu Victory Corporation, is in Kerala for a film shoot. He arrived at Thiruvananthapuram airport and was greeted by fans.
 
-திருவனந்தபுரம் விமான நிலையத்தில் இருந்து வெளியே வந்த அவரை கேரள ரசிகர்கள் சூழ்ந்துகொண்டு உற்சாகமாக வரவேற்றனர்.
+🟩
+
+Actor and leader of the Tamil Nadu Victory Corporation, Vijay has gone to Kerala in India for the shooting of the film.
+
+He came out of the Thiruvananthapuram airport and greeted Kerala fans.
 
 ◼️
 
 [Data](articles/3d0a640b.json)
+
+[Extended Data](ext_articles/3d0a640b.ext.json)
 
 ---
 
@@ -2215,111 +2301,5 @@ United People's Power Member of Parliament Iran Wickremaratne has resigned from 
 [Data](articles/eeef32ec.json)
 
 [Extended Data](ext_articles/eeef32ec.ext.json)
-
----
-
-### Bangladesh for the third match
-
-*2024-03-18 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194632) · `si`
-
-In the final ODI in Bangladesh, Sri Lanka won the toss and chose to bat, scoring 235 runs. Janith Liyanage was unbeaten on 235.
-
-🟩
-
-The third and last ODI is the third and final ODI in Bangladesh.
-
-The Sri Lankan team won the toss and elected to bat first, only 235 runs for the loss of all fired.
-
-Janith Liyanage was the highest scorer of Sri Lankan innings. He was unbeaten on the number of points he had collected.
-
-◼️
-
-[Data](articles/e159238a.json)
-
-[Extended Data](ext_articles/e159238a.ext.json)
-
----
-
-### Postpone all sports meets: Education Ministry
-
-*2024-03-18 13:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Postpone-all-sports-meets-Education-Ministry/108-279073) · `en`
-
-Colombo, March 18 (Daily Mirror) - While issuing a circular, the Education Ministry has directed schools to postpone their sports meets due to the prevalence of higher temperatures.
-
-The circular was issued following the instruction of Education Ministry Secretary Ms. Wasantha Perera today, who said copies of the circular have been sent to all principals of schools.
-
-The Metrology Department has reportedly claimed that the prevalent high temperatures will persist till April.
-
-The health authorities were also informed about the health issues that can occur when assigning students for outdoor activities such as sports meets.
-
-◼️
-
-[Data](articles/f85f88bb.json)
-
-[Extended Data](ext_articles/f85f88bb.ext.json)
-
----
-
-### Iran resigned
-
-*2024-03-18 13:02:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜினாமா-செய்தார்-இரான்/175-334832) · `ta`
-
-Iran Wickramaratne, a member of the United People's Power, resigned from the Parliamentary Committee on Public Organizations, submitting his resignation letter to the Speaker on Sunday.
-
-🟩
-
-United People's Power Member of Parliament Iran Wickremaratne has resigned from the membership of the Parliamentary (COP) Committee on Public Organizations.
-
-Iran Wickramaratne said that he had handed over his resignation letter to the Speaker on Sunday (17).
-
-◼️
-
-[Data](articles/a050bfbb.json)
-
-[Extended Data](ext_articles/a050bfbb.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-03-18 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179020) · `ta`
-
-The US dollar's exchange rate was 300.5662, with a sales price of Rs 309.6749, as per the Central Bank's release on March 18.
-
-🟩
-
-The US dollar purchasing price was 300.5662, based on the currency exchange rate released by the Central Bank on Monday (March 18) and the sales price were Rs 309.6749.
-
-◼️
-
-[Data](articles/19069b28.json)
-
-[Extended Data](ext_articles/19069b28.ext.json)
-
----
-
-### The traditional tendencies cannot win the world;To think and act in a wider attitude - the leader of the opposition
-
-*2024-03-18 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179018) · `ta`
-
-The Opposition Leader, Sajith Premadasa, criticizes traditional parties for not serving the country and emphasizes the importance of smart citizenship. He highlights the need for clean drinking water in schools, especially in rural areas, and criticizes the lack of progress in Sri Lanka due to ethnic divisions. Premadasa also mentions the Universal Information Technology Program and the need for unity across all sectors to rebuild the country.
-
-🟩
-
-The Opposition Leader said that the only opposition party that served the country without the authority of the 76 -year democratic history of Sri Lanka's 76 -year democratic history, when various parties with infinite power were trying to get power.
-
-The Opposition Leader said that if the United People's Power comes to power, many more tasks can be done, but our party is working with the pure intention of building a smart citizens without using the full financial strength to come to power.
-
-Opposition leader Sajith Premadasa said that the country has been put in place today because the country has handed over the country to the players.
-
-Under the Universal Information Technology Program, smart classroom equipment worth Rs 10 lakhs to Matara, Akuressa, Malimbada, Horagoda Maha Vidyalaya was held on March 17.
-
-At the event, he donated Rs.
-
-...
-
-[Data](articles/18587ab5.json)
-
-[Extended Data](ext_articles/18587ab5.ext.json)
 
 ---

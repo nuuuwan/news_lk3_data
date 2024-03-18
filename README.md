@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 10:33:25**
+As of **2024-03-18 10:51:21**
 
 ## Newspaper Stats
 
-*Scraped **13,519** Articles*
+*Scraped **13,529** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,190 @@ newsfirstlk | 363
 dailyftlk | 713
 economynextcom | 713
 islandlk | 745
-adalk | 1,158
-adaderanalk | 1,630
+adalk | 1,159
+adaderanalk | 1,631
 tamilmirrorlk | 1,654
-virakesarilk | 1,875
-dailymirrorlk | 2,060
-adaderanasinhalalk | 2,144
+virakesarilk | 1,879
+dailymirrorlk | 2,063
+adaderanasinhalalk | 2,145
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,519 (100.0%) of 13,519 articles have been extended.
+13,519 (99.9%) of 13,529 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### மட்டு. போதனா வைத்தியசாலையில் புற்றுநோய் சிகிச்சை பிரிவில் மேலதிக சேவைகள் இடைநிறுத்தம் !
+
+*2024-03-18 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178985) · `ta`
+
+மட்டக்களப்பு போதனா வைத்தியசாலையில் புற்றுநோய் சிகிச்சை பிரிவில் நோயாளர்களுக்கு வழங்கப்படும் மேலதிக சேவைகள் இன்று திங்கட்கிழமை (18) முதல் இடைநிறுத்தப்பட்டுள்ளதாக அரச கதிரியல் தொழிநுட்பவியலாளர் சங்கம் தெரிவித்துள்ளது.
+
+மட்டக்களப்பு போதனா வைத்தியசாலையில் புற்றுநோய் சிகிச்சை பிரிவில் கடமை புரியும் கதிர் வீச்சு சிகிச்சையாளர்களுக்கு  வழங்க வேண்டிய மேலதிக சேவைக்கால கொடுப்பனவை வைத்தியசாலை நிருவாகம் தமக்கு வழங்குவதில்லை எனத் தெரிவித்து மேலதிக சேவைகளை இடைநிறுத்தியுள்ளனர்.
+
+இதே பதவி நிலையில் உள்ள உத்தியோகத்தர்களுக்கு  ஏனைய வைத்தியசாலையில் இக்கொடுப்பனவு வழங்கப்பட்டு வரும் நிலையில் தமக்கு மாத்திரம் வழங்கப்படுவதில்லை என கதிர் வீச்சு சிகிச்சையாளர்கள் தெரிவித்தனர்.
+
+இதனால் மட்டக்களப்பு, திருகோணமலை, அம்பாறை மற்றும் ஏனைய சில மாவட்டங்களிலிருந்து சிகிச்சை பெற வரும் நோயாளர்கள் பாதிக்கப்படலாம் எனவும் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/3320144c.json)
+
+---
+
+### தமிழ் மக்களின் பாரம்பரிய நிலத்தினை சிதைத்து அவற்றை சிங்கள பௌத்த அடையாளங்களால் உருமாற்றம்  செய்து தமிழர் தாயகம் உரிமை கோரிக்கையை சிதைக்க முயற்சி -வெடுக்குநாறி சம்பவங்கள் குறித்து பிரித்தானிய தமிழர் பேரவை
+
+*2024-03-18 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178984) · `ta`
+
+வெடுக்குநாறிமலை ஆலய சிவராத்திரி வழிபாட்டு நிகழ்வில் பொலிஸாரால் ஏற்படுத்தப்பட்ட தடங்கல்கள் தொடர்பில் பிரித்தானிய தமிழர் பேரவை கண்டனம்வெளியிட்டுள்ளது
+
+சிறிலங்கா அரசும் அதன்  இராணுவஇ போலீஸ் நிர்வாகங்களும் தொடர்ச்சியாக தமிழர்களுக்கு எதிராக மேற்கொண்டு வரும் கைதுகள் நில அபகரிப்பு மற்றும் பொது மக்களின் அன்றாட செயற்பாடுகளில் ஏற்படுத்தப்படும் அச்சுறுத்தல்கள் இடையூறுகள் தொடர்பில் பிரித்தானிய தமிழர் பேரவை கண்டனத்தை தெரிவித்து கொள்கிறது.
+
+...
+
+[Data](articles/831b251a.json)
+
+---
+
+### Basil’s call for early parliamentary election triggers rebuttal from UNP
+
+*2024-03-18 10:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Basils-call-for-early-parliamentary-election-triggers-rebuttal-from-UNP/108-279052) · `en`
+
+Colombo, March 18 (Daily Mirror)- Despite Sri Lanka Podujana Peramuna (SLPP) insisting on an early parliamentary election , the United National Party (UNP) asserted yesterday that the presidential election should be conducted first in accordance with the Constitution.
+
+UNP General Secretary Palitha Range Bandara, in response to a query about the call for a general election,told Daily Mirror that his party believes that the Constitution should be honored first.
+
+Bandara said the presidential poll should be conducted on a day between September 16 and October 16, this year as stipulated in the Constitution.
+
+...
+
+[Data](articles/38f32363.json)
+
+---
+
+### நாட்டை தங்கள் கட்டுப்பாட்டின் கீழ் வைத்துள்ள சிறிய குழுவினர் மாற்றங்களை தடுக்கின்றனர் - தேசிய மக்கள் சக்தி நாடாளுமன்ற உறுப்பினர் ஹரிணி
+
+*2024-03-18 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178983) · `ta`
+
+அதிகாரமாற்றம் இலகுவானதாகயிருக்கப்போவதில்லை என தெரிவித்துள்ள தேசிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் ஹரிணி அமரசூரிய மாற்றங்கள் நிகழ்வதை உயர்குழாமை சேர்ந்த சிறிய குழுவினர் தடுத்துவருகின்றனர் எனவும் தெரிவித்துள்ளார்.
+
+லண்டன் பெண்கள் மாநாட்டில் உரையாற்றுகையில் இதனை தெரிவித்துள்ள அவர் இலங்கையி;ல் கடந்த 76 வருடங்களாக இடம்பெற்ற விடயங்களிற்கு உயர்குழாமை சேர்ந்த சிறிய குழுவினரே காரணம் என தெரிவித்துள்ளார்.
+
+இந்தசிறிய குழுவினர் இலகுவில் அதிகாரங்களை கைவிடமாட்டார்கள் தங்களை விட அந்த குழுவினரை விட தாங்கள்   பலம்வாய்ந்தவர்களாக காணப்படுகின்றனர் என்பதை மக்கள் தற்போது உணர்ந்துள்ளனர் எனவும் ஹரிணி அமரசூரிய தெரிவித்துள்ளார்.
+
+மாற்றங்கள் இலகுவாக நிகழப்போவதில்லை அதிகாரத்தில் உள்ள சிறிய குழுவினர் மாற்றங்கள் நிகழ்வதை தடுப்பதற்காக அனைத்தையும் செய்வார்கள் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+ஆனால் நாட்டு மக்கள் அவர்களை விட வலுவானவர்கள் இதற்கு முன்னர் நாங்கள் எங்கள் பலத்தை உணரவில்லை,ஒரு ஒழுங்கமைக்கப்பட்ட குழுவாக மாறுவதன் கூ மூலம் நாங்கள் அவர்களை விட வலுவானவர்களாக திகழுவோம் எனவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/942c424e.json)
+
+---
+
+### ජේතවන දාගැබේ හතර දිසාවට පැලුම් විවරයන් හතරක්
+
+*2024-03-18 10:14:24* · [`adalk`](https://www.ada.lk/religion/ජේතවන-දාගැබේ-හතර-දිසාවට-පැලුම්-විවරයන්-හතරක්/4-408664) · `si`
+
+බුදුරජාණන් වහන්සේගේ "පටිය ධාතුව" තැන්පත් කර ඇති ලොව විශාලතම ගඩොලින් තනන ලද ස්තූපය ලෙස සැලකෙන අනුරාධපුර ජේතවනාරාම ස්ථූපයේ  හතරැස් කොටුවේ සිට පහලට  සතර දෙසින් ස්ථූප ගර්භය මැද්දට විහිදී යන පරිදි සිදුව ඇති පිපිරීම් හෙවත් පැලුම් විවරයන් ඇතැයි වාර්තා වේ.
+
+මෙම පුපුරා යාම හතරැස් කුටුවේ සිට පහළට සිදුව ඇති අතර, හිඩැස්  තුළින් වර්ෂා  කාලයට ජලය ඇතුල්වීම සහ වියලි කාලයට ප්‍රසාරණය වීමත් හේතුවෙන් මේ ස්ථූපයටද මිරිස වැටිය ස්ථූපයට මෙන් අනතුරක් විය හැකි යැයි බැතිමතුන් පිරිසක් පැවසූහ.
+
+වර්තමානයේ ජේතවනාරාම ස්තූපය ඉදිකර ඇත්තේ පැරැණි ව්‍යුහය මත නැවත ගඩොල් තැන්පත් කිරීමෙනි.සංරක්ෂණ කටයුතු සඳහා ඉහළට යා හැකි පරිදි ඉදිකර ඇති යකඩ බට සහිත ස්ථානවලට ගොස් යම් යම් පිරිස් සෙල්පි ඡායාරූප ගන්නා බවටද  චෝදනාවක් නැගේ.
+
+පුරාවිද්‍යා හා විද්වත් සෘජු මැදිහත්වීමක් ලබාදී තාවකාලික පැලැස්තර විසඳුම් ලබා නොදී ස්ථිරසාර විසඳුමක් මේ සඳහා ලබා දීමට ජනාධිපතිවරයා හෝ මැදිහත් වන ලෙසට ජනතාව ඉල්ලීමක් කරති.
+
+...
+
+[Data](articles/deb71034.json)
+
+---
+
+### බෝඩිං කාමරයේදී දෙදරු මව ඝාතනයේ සැකකරු අත්අඩංගුවට
+
+*2024-03-18 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194627) · `si`
+
+සීදූව ප්‍රදේශයේ බෝඩිං කාමරයක් තුළදී දෙදරු මවක් ඝාතනය කළ සැකකරු වේදනානාශකයක් අධි මාත්‍රාවන් ලබා ගැනීමෙන් ඇති වූ රෝගී තත්ත්වයක් හේතුවෙන් රෝහල්ගත කර සිටිය දී අත්අඩංගුවට ගෙන තිබේ.
+
+එලෙස අත්අඩංගුවට ගෙන ඇත්තේ අවුරුදු 22ක් වූ මඩංවල, බලංගොඩ ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+සැකකරු බලංගොඩ අධිකරණයට ඉදිරිපත් කර ඇති අතර, බන්ධනාගාර නිලධාරීන් යටතේ බලංගොඩ මුලික රෝහලේ තවදුරටත් ප්‍රතිකාර ලබයි.
+
+රද්දොළුව, මුතුවාඩිය පාරේ පිහිටි එම බෝඩිං කාමරයකදී 27 හැවිරිදි දෙදරු මව ව ඝාතනය කර තිබුණේ, පසුගිය 14 වනදාය.
+
+ඇය අනුරාධපුර, පමුගොල්ලෑව ප්‍රදේශයේ පදිංචිව සිටි දෙදරු මවක් වන දිලිනි සසිකලා ප්‍රියභාෂිනී නම් කාන්තාවකි.
+
+පොලීසිය සැක කළේ, මෙම ඝාතනය සිදුකර ඇත්තේ, ඇය කලක සිට අනියම් ඇසුරක් පැවැත්වූ බවට සැකකෙරෙන 22 හැවිරිදි මෙම තරුණයා විසින් බවය.
+
+එම තරුණයා සීදුවේ පිහිටි මියගිය කාන්තාව ජීවත් වූ බෝඩිං කාමරයට අවස්ථා කිහිපයකදීම පැමිණ ඇති බවට මූලික පරීක්ෂණවලදී අනාවරණය වී තිබුණි.
+
+ඝාතන සිද්ධියෙන් පසු බෝඩිං කාමරයට ගිය පොලිසියට නිරීක්ෂණය වී තිබුණේ, තොණ්ඩුවක් ද එම කාමරය තුළ සකසා තිබූ ආකාරයකි.
+
+...
+
+[Data](articles/cc86f085.json)
+
+---
+
+### ’A whole family ripped apart’: Mourners gather to remember victims of Ottawa mass killing
+
+*2024-03-18 10:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/A-whole-family-ripped-apart-Mourners-gather-to-remember-victims-of-Ottawa-mass-killing/108-279046) · `en`
+
+Some 200 people showed up at a public multi-faith funeral service in Ottawa Sunday to mourn the six people killed more than a week ago in the city's Barrhaven suburb.
+
+Organized by the Buddhist Congress of Canada (BCC), the service at the Infinity Convention Centre paid tribute to the victims: a family of newcomers to Canada from Sri Lanka and their friend.
+
+According to police, four children and two adults were killed inside a suburban townhouse in south Ottawa on March 6.
+
+Darshani Dilanthika Ekanayake, 35, was killed along with her three daughters — three-year-old Ranaya, four-year-old Ashwini, and two-month-old Kelly — and her seven-year-old son Inuka.
+
+The body of a family friend, 40-year-old Gamini Amarakoon, who'd recently arrived in Canada from Sri Lanka, was also found at the scene.
+
+Dhanushka Wickramasinghe, the family's father, survived the attack. He was injured with an edged weapon and taken to hospital.
+
+...
+
+[Data](articles/86aea1ca.json)
+
+---
+
+### Speaker to reveal inside details of Aragalaya on Wednesday
+
+*2024-03-18 10:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Speaker-to-reveal-inside-details-of-Aragalaya-on-Wednesday/108-279047) · `en`
+
+Colombo, March 18 (Daily Mirror)- Speaker Mahinda Yapa Abeywardena who is going to face a no confidence motion on Wednesday is to reveal inside details on Aragalaya including how he was pressed by some politicians to take over the presidency in violation of the constitution.
+
+Speaker's Media Secretary Indunil Yapa Abeywardena told Daily Mirror that he will reveal these facts and some other recent happenings in a special statement in Parliament after the vote is taken up on the no faith motion against him.
+
+The Spokesman from the Speakers office told Daily Mirror that he has decided to make a special statement as he cannot participate in the debate as per the standing orders.
+
+◼️
+
+[Data](articles/c85ad3de.json)
+
+---
+
+### Ballot boxes for Malvides’ elections to be placed in India, Sri Lanka & Malaysia
+
+*2024-03-18 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98023/ballot-boxes-for-malvides-elections-to-be-placed-in-india-sri-lanka-malaysia) · `en`
+
+The ballot boxes for Maldives’ upcoming parliamentary elections will be placed in India, Sri Lanka and Malaysia, after around 11,000 Maldivians submitted re-registration requests to relocate their polling stations, the country’s election commission announced on Sunday.
+
+The six-day window for people to relocate their voting stations for the April 21 parliamentary elections expired on Saturday, media reports said, citing an Elections Commission notification.
+
+The top electoral body said that ballot boxes for the island nation’s elections will also be placed in Trivandrum (Thiruvananthapuram), the capital of Kerala, Sri Lanka’s Colombo and Malaysia’s Kuala Lumpur after at least 150 people re-register to vote in each of the three countries.
+
+“As previously, enough people registered in Sri Lanka and Malaysia. And since 150 people had registered in Trivandrum, India, we have decided to set up a ballot box there,” web portal adadhu.com quoted EC’s secretary-general Hassan Zakariyya as saying.
+
+...
+
+[Data](articles/b5ba2f54.json)
+
+---
 
 ### Stalin criticizes Modi for lack of pressure on Sri Lanka regarding fishermen’s issues
 
@@ -45,6 +213,24 @@ The Chief Minister's remarks come in response to Prime Minister Modi's recent st
 [Data](articles/5968915c.json)
 
 [Extended Data](ext_articles/5968915c.ext.json)
+
+---
+
+### ஹங்வெல்லயில் ஹெரோயின் போதைப் பொருளுடன் ஒருவர் கைது
+
+*2024-03-18 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/178977) · `ta`
+
+ஹங்வெல்ல, பாலகேவத்தை பகுதியில் 01 கிலோகிராமிற்கும் அதிகமான ஹெரோயின் போதைப்பொருளை வைத்திருந்த சந்தேக நபர் ஒருவர் வலான ஊழல் தடுப்பு பிரிவின் அதிகாரிகளால் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+பிரந்திகம்பொல பிரதேசத்தில் வசிக்கும் 42 வயதான சந்தேக நபர்  நேற்று ஞாயிற்றுக்கிழமை (17) காலை வலான ஊழல் தடுப்பு பிரிவின் அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேகநபரிடம் இருந்து 01 கிலோ 03 மில்லிகிராம் ஹெரோயின், போதைப்பொருள் கடத்தலுக்கு பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் 03 கையடக்க தொலைபேசிகள்,  05 வங்கி கணக்கு புத்தகங்கள் மற்றும் 04 வங்கி அட்டை கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட சந்தேகநபர் சிறையில் அடைக்கப்பட்டுள்ள போதைப்பொருள் கடத்தல்காரருடன் நெருங்கிய தொடர்புடையவர் என விசாரணைகளின் மூலம் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/e584dd50.json)
 
 ---
 
@@ -1989,259 +2175,5 @@ Further investigations were carried out on the detention orders obtained from th
 [Data](articles/de9aeb4c.json)
 
 [Extended Data](ext_articles/de9aeb4c.ext.json)
-
----
-
-### Two boss arrested for complaining passport
-
-*2024-03-17 18:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194609) · `si`
-
-Two organized criminals, including a former deputy council member, were arrested in the Department of Immigration and Emigration for setting false foreign passports. One suspect will face charges in the Vavuniya Magistrate's Court. The Department of Immigration and Emigration has been accused of entering pseudo-numbers and fake IDs. A former Immigration and Emigration Department official, now a Deputy Director of the Pensions Department, is also implicated.
-
-🟩
-
-Two organized criminals have been arrested in the Department of Immigration and Emigration and a former deputy council.
-
-One of the two suspects is to be produced before the Vavuniya Magistrate's Court and the other suspect.
-
-According to the supervision of DIG Rohana Premaratne in charge of the CID, the suspects have been arrested.
-
-NaiS Suhah Dayaratne alias 'Hinatiyana Mahes' or 'Hinatiyana Mahes'
-
-It has been revealed that the organized criminal has set a false foreign passport.
-
-The disposal of the Department of Immigration and Emigration has been accused of entering the pseudo-number and a fake number of pseudo-identity number and a fake ID number.
-
-The Deputy Controller of the Department of Immigration and Emigration, the CID has been arrested by the CID while receiving treatment at the Sri Jayewardenepura Hospital.
-
-...
-
-[Data](articles/99ca74de.json)
-
-[Extended Data](ext_articles/99ca74de.ext.json)
-
----
-
-### If people do not support Ranil Wickremesinghe -Vajira Abeywardena has to be in line for fuels -Vajira Abeywardena
-
-*2024-03-17 18:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178959) · `ta`
-
-Ranil Wickremesinghe, UNP MP Vajira Abeywardena, and others are preparing for the presidential election. Abeywardena warns that if Wickremesinghe is not supported, fuel prices will rise. The election will follow the constitution, with campaigning focusing on overseas needs. The UNP has formed an alliance for the election, emphasizing national unity and responsibility. The national policy draft aims to stabilize the country until 2048, highlighting the importance of support for economic stability.
-
-🟩
-
-The presidential election will be held according to the constitution. Some groups have been suggested that parliamentary elections should be held for the needs of overseas. Ranil Wickremesinghe will contest the presidential election as national leader. United National Party (UNP) MP Vajira Abeywardena said that if the people do not support him, the fuels have to be in line again.
-
-He made this comment to the media after an event in Colombo on Saturday (16).
-
-The presidential election should be held at the beginning of the Constitution. Accordingly, the election will be held by October and September this year.. They have been campaigning for the sake of overseas. People should be cautious about them.
-
-...
-
-[Data](articles/b87fb6c0.json)
-
-[Extended Data](ext_articles/b87fb6c0.ext.json)
-
----
-
-### Another prosecutor loses decisive competition
-
-*2024-03-17 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194608) · `si`
-
-Bangladesh's Tunzim loses final ODI due to leg injury, affecting Sri Lanka-Bangladesh match. Dilshan Mahangankhani announces third ODI.
-
-🟩
-
-Foreign media reports that another powerful player has lost the third and final ODI cricket match Sri Lanka-Bangladesh.
-
-Bangladesh fast bowler Tunzim has lost the final due to a disorder.
-
-According to foreign media reports, he has been subjected to a leg injury in a training session today.
-
-Doctors have stated that he is not suitable for the competition held tomorrow.
-
-Sri Lanka Fernideborn Dilshan Mahangankhani has announced the third ODI of tomorrow due to the injury.
-
-The three-match One-day tournament consists of 1-1 matches with both matches with two matches.
-
-◼️
-
-[Data](articles/01171db2.json)
-
-[Extended Data](ext_articles/01171db2.ext.json)
-
----
-
-### Special notice of tomorrow
-
-*2024-03-17 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194607) · `si`
-
-The Meteorological Department warns of high temperatures (18°C) in several areas tomorrow, focusing on the North Western, North Central, Western, Moneragala, Mannar, Ratnapura, and Vavuniya districts. It advises drinking water, staying in the shade, and avoiding outdoor stress.
-
-🟩
-
-The Meteorological Department says that the temperature of several areas in the island will continue to be focused on a level tomorrow (18).
-
-Accordingly, the heat of the human body will be focused on the North Western, North Central, Western, Western, Western and Moneragala, Mannar, Ratnapura and Vavuniya districts.
-
-Accordingly, drinking water, the rest of the shadow, should be followed by the health advice, including restricting the stressing outdoors.
-
-◼️
-
-[Data](articles/17a51eb7.json)
-
-[Extended Data](ext_articles/17a51eb7.ext.json)
-
----
-
-### Schools asked to postpone sports meets due to hot weather
-
-*2024-03-17 18:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98014/schools-asked-to-postpone-sports-meets-due-to-hot-weather) · `en`
-
-Minister of Education Susil Premajayantha says that school principals will be informed through a circular to organise the inter-house sports meets and sports events of their respective schools after the Sinhala and Tamil New Year holidays.
-
-The minister pointed out that it has been observed that many schools have organised inter-house sports meets regardless of the prevailing hot weather conditions across the island.
-
-Minister Susil Premajayantha said that since the first school term will continue even after the New Year holidays, it is possible to hold sports meets and other outdoor sporting events during that period.
-
-Meanwhile, the Department of Meteorology says the heat index, the temperature felt on the human body, is expected to increase up to ‘Caution level’ at some places in North-western, North-central, Eastern, Western provinces and Monaragala, Mannar, Rathnapura and Vavuniya districts tomorrow (18).
-
-◼️
-
-[Data](articles/42d0fe55.json)
-
-[Extended Data](ext_articles/42d0fe55.ext.json)
-
----
-
-### Jail Drifious containers accident
-
-*2024-03-17 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194606) · `si`
-
-A 36-year-old from Weligampayitiya died in a tragic accident near the Ja Elayani railway crossing in Ja Ela. The victim was identified by his SIM card, and the container from Tambuttegama, stopped at Hath Wattala Port, was implicated. The driver and container were arrested, with the arrests to be presented to the Wattala Magistrate.
-
-🟩
-
-A person who was traveling in a terrible accident in Ja Ela has died unfortunately.
-
-The victim was a 36-year-old resident of Weligampayitiya.
-
-It was also revealed that the man was nearing the container near the Ja Elayani railway crossing.
-
-The body of the deceased has been scattered and the police have confirmed his identity by using the SIM card on his phone.
-
-Later, the container had been identified after inspection of CCTV.
-
-The container that had been revealed from Tambuttegama has been stopped at the Port of Hath Wattala.
-
-The container and the driver had been arrested by the police with the assistance of the Ports Officers.
-
-The arrests are to be produced before the Wattala Magistrate today.
-
-◼️
-
-[Data](articles/b9d942d8.json)
-
-[Extended Data](ext_articles/b9d942d8.ext.json)
-
----
-
-### Heat advisory issued for most parts of the island
-
-*2024-03-17 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98013/heat-advisory-issued-for-most-parts-of-the-island) · `en`
-
-The Department of Meteorology has issued a heat index advisory for North-western, North-central, Eastern, Western provinces and Monaragala, Mannar, Rathnapura and Vavuniya districts.
-
-Issued at 4.00 p.m. today (17 March), the advisory is valid for tomorrow (18 March).
-
-It states that the heat index, the temperature felt on human body is expected to increase up to ‘Caution level’ at some places in North-western, North-central, Eastern, Western provinces and Monaragala, Mannar, Rathnapura and Vavuniya districts.
-
-As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity, while continuing activity could result in heat cramps.
-
-For this reason, members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to wear lightweight, white or light-coloured clothing, to check up on the elderly and the sick and never leave children unattended.
-
-...
-
-[Data](articles/261979fe.json)
-
-[Extended Data](ext_articles/261979fe.ext.json)
-
----
-
-### A person who told a struggle to the right turbulent
-
-*2024-03-17 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194605) · `si`
-
-A man was arrested for a shooting at Galagoda market, with heroin and 3 SIMCUD phones found. He's linked to Saman Boy. The incident led to 4 deaths and 3 injuries at a nearby shopping area.
-
-🟩
-
-A man was arrested on suspicion of the shooting incident in the Galagoda market last night.
-
-Police have recovered 2 grams and 100 milligrams of heroin in possession of the arrested person.
-
-Police also seized 3 SIMCUD citled mobile phones with a mobile phone.
-
-Police say that the suspect had joined the telephone with the criminal with the criminal named Saman Boy and supported the crime.
-
-The suspect is produced before the Balapitiya Magistrate's Court and will be conducting further investigations, obtaining the 7-day detention orders,
-
-The owner and another person was killed and three others were killed and three others were injured in front of a shopping in the area on the 11 night.
-
-◼️
-
-[Data](articles/1f31f396.json)
-
-[Extended Data](ext_articles/1f31f396.ext.json)
-
----
-
-### 21 dead, 38 injured in bus collision with tanker in Afghanistan
-
-*2024-03-17 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98012/21-dead-38-injured-in-bus-collision-with-tanker-in-afghanistan) · `en`
-
-Twenty-one people were killed and 38 injured on Sunday in southern Afghanistan’s Helmand province when a bus collided with an oil tanker and a motorbike, provincial officials said.
-
-Deadly traffic accidents are common in the country, due in part to poor roads, dangerous driving on highways and a lack of regulation.
-
-“On Sunday morning, 21 people were killed and 38 people were injured due to a collision between a tanker, a motorcycle and a passenger bus,” the provincial information department said in a post on X.
-
-The accident took place on the Herat-Kandahar highway in Grishk district of Helmand province, it added.
-
-The collision caused the vehicles to ignite, Helmand governor spokesman Mohammad Qasim Riyaz told AFP.
-
-Images shared by the information department on social media showed charred, twisted metal scattered across the highway and the crushed cabin of the tanker.
-
-Clean up crews were on site removing the debris, according to officials.
-
-...
-
-[Data](articles/3e681a9a.json)
-
-[Extended Data](ext_articles/3e681a9a.ext.json)
-
----
-
-### 21 killed in Afghanistan
-
-*2024-03-17 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194604) · `si`
-
-21 killed in Afghanistan accident. 38 injured. Over 1600 killed, 4000+ injured in accidents over past 10 months.
-
-🟩
-
-21 persons have been killed in an accident in the Hellmand province of Afghanistan.
-
-Foreign media has reportedly clashed with a motorcycle and fuel bus collided with a motorcycle and fuel bowl.
-
-38 others were injured in the accident and hospitalized.
-
-Meanwhile, more than 1600 people were killed and more than 4,000 were injured and another 4,000 were injured in accidents in Afghanistan over the past 10 months.
-
-◼️
-
-[Data](articles/99d69807.json)
-
-[Extended Data](ext_articles/99d69807.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 16:48:47**
+As of **2024-03-18 17:02:59**
 
 ## Newspaper Stats
 
@@ -26,29 +26,41 @@ adaderanasinhalalk | 2,159
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,611 (100.0%) of 13,613 articles have been extended.
+13,613 (100.0%) of 13,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### පිටිගල ඝාතන සැකකරුවන් දෙදෙනා රිමාන්ඩ්
+### Two Pitigala murder suspects remanded
 
 *2024-03-18 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194641) · `si`
 
-පිටිගල පොලිස් වසමේ නියාගම, හොරංගල්ල, ගුරුවිලදී  පසුගියදා සිදුකළ වෙඩිතැබීම සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවන් දෙදෙනාව මාර්තු 25 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට ඇල්පිටිය මාහෙස්ත්‍රාත් මධුෂිකා වාසලමුදලි මහත්මිය අද (18) නියෝග කළාය.
+Two suspects in the Pitigala murder case were remanded until March 25. Two were killed, two seriously injured, and one died in hospital. The victims were identified as Sehu Madushanka and Katukurundara Arachchige Kaviyaka Karrachi. The incident involved a motorcycle attack around 7.50 pm.
 
-එහිදී හතර දෙනෙකුට වෙඩි වැදුණි. ඉන් දෙදෙනෙකු ජීවිතක්ෂයට පත්වූ අතර අනෙක් දෙදෙනාට බරපතළ සිදුවිය.
+🟩
 
-සිද්ධිය සම්බන්ධයෙන් තව දුරටත් විමර්ශණය කර ප්‍රගතිය වාර්තා කරන ලෙසත් සිද්ධියට සම්බන්ධ අනෙක් සැකකරුවන්ද අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙසත් මහෙස්ත්‍රාත්වරිය පිටිගල පොලීසියට දැනුම් දුන්නේය.
+Alpitiya Madushika Residential today (18) was remanded until March 25, the two suspects were remanded until March 25.
 
-මෙසේ රක්ෂිත බන්ධනාගාරගත කරන ලද්දේ 69 කොටස, නියාගම, තල්ගස්වල ලිපිනයේ පදිංචි නාගොඩවිතාන කසුන් රන්දික නාගොඩවිතාන (36) සහ අලවත්තහේන, ගෝනගල්ගොඩ, තල්ගස්වල ලිපිනයේ පදිංචි කාරියවසම් ලොකුගමගේ ගයාන් ප්‍රසන්න (36) නමැති දෙදෙනාය.
+There were shot dead. Two of them were killed and the other two were serious.
 
-පසුගිය මාර්තු 11 වනදා රාත්‍රී 7.50ට පමණ යතුරුපැදියකින් පැමිණි දෙදෙනෙකු විසින් වෙළෙඳසැල් හිමිකරුවකු ඉලක්ක කර සිදුකරන ලද වෙඩිතැබීමකදී මෙම ඝාතන හා තුවාල සිදු කිරීම් සිදුවිය.
+The Magistrate also informed the police to the army of further investigating the incident and submit the progress and produced before the court.
+
+Kariyawasam Langamage Prasanna (36), Niyagama, Kasan Language (36), a resident of the Niyagama, Talduwa, Gayagalagoda, Gayagalagoda, Grenagoda, Talgaswala.
+
+The murders and injuries were caused by two on the 110-night motorcycle targeting a motorcycle around 7.50 pm.
+
+One person was killed in the incident and the other was killed after being admitted to the Karapitiya Hospital, Galle.
+
+The deceased has been identified as Sehu Madushanka (32), a resident of Galagoda, Karandeniya (32).
+
+Katukurundara Arachchige Kaviyaka Karrachi, Horangalla, Teacher, died while receiving treatment at the Karapitiya Hospital, Galle.
 
 ...
 
 [Data](articles/ef3c1bae.json)
+
+[Extended Data](ext_articles/ef3c1bae.ext.json)
 
 ---
 
@@ -57,6 +69,10 @@ Extensions include translations and NER (Named Entity Recognition).
 *2024-03-18 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98030/ceb-introduces-new-installment-scheme-to-obtain-electricity-connections) · `en`
 
 The Ceylon Electricity Board (CEB) has introduced a special electricity connection scheme for small and medium-scale enterprises and residences, where they will pay 25% as down payment and the balance in installments.
+
+Earlier this month, Minister of Power and Energy Kanchana Wijesekera had said that electricity consumers would be allowed to make the payments for their new connections on an installment basis, where they will be able to pay 25% of the connection fee upfront and the remaining amount within 10 or 12 installments.
+
+Speaking in Parliament, he had said that the CEB’s Board of Directors has also green-lighted this endeavor.
 
 ◼️
 
@@ -174,17 +190,23 @@ The Criminal Investigations Department was arrested and produced before the cour
 
 ---
 
-### “ඇල්ල” ට වතුර නැතිලු   පැය දෙකකටවත් වතුර මදිලු
+### Water cut in 'Ella' for two hours
 
 *2024-03-18 15:57:25* · [`adalk`](https://www.ada.lk/breaking_news/“ඇල්ල”-ට-වතුර-නැතිලු---පැය-දෙකකටවත්-වතුර-මදිලු/11-408680) · `si`
 
-උඩරට දුම්රිය මාර්ගයේ සොඳුරු ගමනාන්තයක් වන ඇල්ල දුම්රිය ස්ථානයේ ජල සැපයුම දින හතරක පමණ කාලයක සිට ඇන හිටීම නිසා දෙසේ විදෙස් සංචාකරයෝ මෙන්ම දුම්රිය ස්ථානයේ කාර්යමණ්ඩලයද අපහසුතාවයට පත්ව සිටිති.
+"Ella water cut for 2 hours due to foreign tourists. Ella Pradeshiya Sabha charges 4,000 rupees for water supply."
 
-දැනට විකල්පයක් ලෙස ඇල්ල ප්‍රාදේශීය සභාවට ජල බවුසරයකට රුපියල් හාරදහසක් බැගින් ගෙවා තාවකාලිකව ජලය ලබාගන්නා නමුත් එය පැය දෙකකටවත් ප්‍රමාණවත් නොවන බව ඇල්ල දුම්රිය ස්ථානයේ ප්‍රධාන දුම්රිය ස්ථානයේ ස්ථානාධිපති අසෙන්ද්‍ර දිසානායක මහතා පැවසීය.
+🟩
+
+The water supply station is embarrassed by the foreign tour and the staff of the train station as well as a four-day water supply.
+
+According to the Ella Pradeshiya Sabha, the Ella Pradeshiya Sabha is temporarily obtained from the Ella railway station that it is a four thousand rupees to the Ella railway station.
 
 ◼️
 
 [Data](articles/78e14c02.json)
+
+[Extended Data](ext_articles/78e14c02.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 06:54:21**
+As of **2024-03-18 07:16:24**
 
 ## Newspaper Stats
 
-*Scraped **13,485** Articles*
+*Scraped **13,495** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 187
 newsfirstlk | 363
 dailyftlk | 713
 economynextcom | 713
-islandlk | 735
+islandlk | 745
 adalk | 1,157
 adaderanalk | 1,627
 tamilmirrorlk | 1,650
@@ -26,29 +26,35 @@ adaderanasinhalalk | 2,135
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,484 (100.0%) of 13,485 articles have been extended.
+13,485 (99.9%) of 13,495 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### දිවයින පුරා වියලි කාලගුණික තත්ත්වයක්
+### Dry weather conditions island wide
 
 *2024-03-18 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194615) · `si`
 
-දිවයින පුරා ප්‍රධාන වශයෙන් වියලි කාලගුණික තත්ත්වයක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Met Department predicts dry weather across the country, with moderate humidity in Sabaragamuwa, Central, Galle, and Kalutara districts. Temperatures will remain high in North Western, North Central, Western, Moneragala, Mannar, Ratnapura, and Vavuniya districts, advising to stay indoors and drink plenty of water.
 
-සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ කළුතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+🟩
 
-මේ අතර, දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අද (18) දිනයේදී අවධානය යොමුකළ යුතු මට්ටමක් දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Met Department forecasts that there is mainly dry weather throughout the country.
 
-ඒ අනුව වයඹ, උතුරු මැද, නැගෙනහිර, බස්නාහිර පළාත් සහ මොණරාගල, මන්නාරම, රත්නපුර සහ වවුනියා දිස්ත්‍රික්කවල ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+Some locations in the Sabaragamuwa and Central provinces and in some places are expected to be metaded in the Galle and Kalutara districts.
 
-ඒ අනුව ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළ යුතු බව එම දෙපාර්තමේන්තුව දැනුම් දී තිබේ.
+Meanwhile, the Department of Meteorology states that the temperature of several parts of the island will continue to focus on today (18).
+
+Accordingly, the heat of the human body will be focused on the North Western, North Central, Western, Western, Western and Moneragala, Mannar, Ratnapura and Vavuniya districts.
+
+Accordingly, drinking water, the rest of the shadow, should be followed by the health advice, including restricting the stressing outdoors.
 
 ◼️
 
 [Data](articles/e985b7b1.json)
+
+[Extended Data](ext_articles/e985b7b1.ext.json)
 
 ---
 
@@ -576,6 +582,26 @@ A demand deposit which the Central Bank maintains for a commercial bank in its b
 
 ---
 
+### Madushanka returns home with hamstring injury
+
+*2024-03-17 23:07:00* · [`islandlk`](http://island.lk/madushanka-returns-home-with-hamstring-injury/) · `en`
+
+Left-arm seamer Dilshan Madushanka is returning home from Bangladesh after picking up a hamstring injury during the second ODI between the teams on Friday.
+
+Madushanka walked off to the dressing room middle of his seventh over and did not return to the field. The injury ruled him out of the tour and he will return home. Sri Lanka have not asked for a replacement and are expected to play Chamika Karunaratne for the deciding final ODI.
+
+The series is levelled at 1-1. Today’s third ODI is a day game and provides both sides a good chance to win the series as the dew will be out of the equation.
+
+Madushanka will be out of the initial stages of the Indian Premier League due to the injury. The fast-bowling sensation from deep down south fetched more than half a million dollars from Mumbai Indians’ during the IPL auction.
+
+Sri Lanka are plagued by injuries with Dushmantha Chameera and Asitha Fernando both out of the bilateral series against Bangladesh with injuries.
+
+...
+
+[Data](articles/a1c6f434.json)
+
+---
+
 ### 21 Indian fishermen in the case of crossing the border
 
 *2024-03-17 23:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/178964) · `ta`
@@ -597,6 +623,96 @@ The Department of Aquatic Resources then filed a case against the Kayts Court ag
 [Data](articles/df764f2e.json)
 
 [Extended Data](ext_articles/df764f2e.ext.json)
+
+---
+
+### AICPA & CIMA recognise 20 Top Employers in Sri Lanka
+
+*2024-03-17 22:53:00* · [`islandlk`](http://island.lk/aicpa-cima-recognise-20-top-employers-in-sri-lanka/) · `en`
+
+AICPA & CIMA, together as the Association of International Certified Professional Accountants, revealed the names of the most attractive companies for accounting and finance professionals in Sri Lanka in their 2024 Top Employers list. AICPA & CIMA’s Top Employers list was created to recognise companies, which proactively support the development of the accounting and finance profession in Sri Lanka and help them build thriving careers. They were recognized at the CIMA President’s Reception held on 8th March 2024 at the Main Ballroom, Shangri La, Colombo.
+
+...
+
+[Data](articles/1ea54a98.json)
+
+---
+
+### Surge Global secures multi-million dollar government contract in Qatar
+
+*2024-03-17 22:52:00* · [`islandlk`](http://island.lk/surge-global-secures-multi-million-dollar-government-contract-in-qatar-2/) · `en`
+
+Surge Global, a leading design, technology, and marketing firm of Sri Lankan origin is thrilled to announce its successful partnership with Gulf Business Machines (GBM) Qatar, one of Qatar’s largest technology companies. The partnership kicked off with a successful bid in securing a multi-million dollar project for a prominent public sector entity in Qatar. This achievement marks a significant milestone for both companies and reaffirms their commitment to delivering bleeding-edge digital transformation on a national scale.
+
+The collaborative effort between Surge Global and GBM Qatar was the result of their shared expertise, dedication, and a compelling vision to provide best-in-class solutions to meet the evolving needs of the Qatari market. As a dynamic partnership, these organizations have demonstrated their ability to combine design excellence, advanced technology, and marketing prowess to address complex challenges effectively.
+
+...
+
+[Data](articles/04a41017.json)
+
+---
+
+### David Pieris Automobiles partners with renowned automotive giant BAIC
+
+*2024-03-17 22:49:00* · [`islandlk`](http://island.lk/david-pieris-automobiles-partners-with-renowned-automotive-giant-baic/) · `en`
+
+David Pieris Automobiles (Private) Limited (DPA) has announced its partnership in Sri Lanka with Beijing Automotive Industry Holding Co., Ltd. (BAIC).
+
+This strategic partnership brings together two pillars of automotive excellence, promising a new era of innovative, quality products and unparalleled customer service for Sri Lankan motorists.
+
+BAIC is the 6th largest automobile company in China. Founded in 1958 as the Beijing Automotive Manufacturing Factory (BAMF), it has emerged as one of China’s leading and globally recognised automotive conglomerates with a rich history marked by milestones such as the development of iconic vehicles like the Jinggangshan sedan, BJ212, and BJ130. As a key player in the Fortune 500, its parent company, Beijing Automotive Group Co., Ltd., holds the 162nd position, underlining its financial strength and market presence.
+
+...
+
+[Data](articles/7d536b69.json)
+
+---
+
+### People’s Bank Kotahena branch marks International Women’s Day
+
+*2024-03-17 22:46:00* · [`islandlk`](http://island.lk/peoples-bank-kotahena-branch-marks-international-womens-day/) · `en`
+
+Vanitha Wasana Savings promotion programme was held at People’s Bank, Kotahena branch recently in concurrence with the International Women’s Day. The guest lecture at the event was delivered by well-known chef Dushanthi Madanayake. Opening of new Vanitha Wasana savings accounts and distribution of gifts to existing account holders also took place during the event. Here, The Bank’s senior personnel pose for a group photograph with Amitha Sanjeewani- Regional Manager, People’s Bank Colombo North, Pathum Mihiraj-Assistant Regional Manager, People’s Bank Colombo North, Chamika Rajapakse- Branch Manager People’s Bank Kotahena.
+
+People’s Bank Vaasi Kotiyai 2023 Grand Draw Picks Millionaire Super Winners
+
+People’s Bank and Hayleys Agriculture form strategic alliance for agricultural advancement
+
+People’s Bank celebrates 76 years of Independence by offering gifts to newborns
+
+People’s Bank and George Steuart Solutions join forces to promote solar energy in Sri Lanka
+
+...
+
+[Data](articles/8363b48d.json)
+
+---
+
+### Cinnamon Life gearing for future-focused businesses
+
+*2024-03-17 22:45:00* · [`islandlk`](http://island.lk/cinnamon-life-gearing-for-future-focused-businesses/) · `en`
+
+Cinnamon Life, Sri Lanka’s largest mixed development project, a mega 4.5 million sqft. complex with its architecturally stunning 30-storey tower, is offering prime office spaces and a prestigious new address, elevating businesses to new heights.
+
+Strategically located in the heart of Colombo’s financial hub, between Colombo Port City and key roads, Cinnamon Life provides corporates an impressive base merging modern workspaces with upscale lifestyle, dining and entertainment – seamlessly connected to the Cinnamon Life hotel, mall and residencies, creating experiences where business and leisure blend.
+
+The tower boasts 24 floors dedicated to offices and five floors for parking. Each level offers 10,564 sqft. of net lettable space, and can cater to the needs of diverse businesses, providing a conducive environment for operations and growth. The tower is billed as a next-gen ready office space on each level and a move-in-ready hub promising to house the next generation of enterprises.
+
+...
+
+[Data](articles/55b412e7.json)
+
+---
+
+### Brandix rising for ‘HER’
+
+*2024-03-17 22:44:00* · [`islandlk`](http://island.lk/brandix-rising-for-her/) · `en`
+
+Brandix, continues to lead efforts to inspire and empower women across all walks and leads the way by converting policy into practice. At Brandix 80% of the Group’s workforce constitutes of women, and its facility in India is recognized as the single largest employer of women in the country. Brandix, the first private sector entity from Sri Lanka to commit to the United Nations programme on Gender-based Violence and Women in Leadership, was also recognized as a leading Achiever by the United Nations Women’s Empowerment Principles (WEP) Gender Gap Analysis survey.
+
+...
+
+[Data](articles/305c7071.json)
 
 ---
 
@@ -2121,167 +2237,5 @@ The model south-east Asian country, Singapore is reported to have chosen the 4th
 [Data](articles/6b1d2a28.json)
 
 [Extended Data](ext_articles/6b1d2a28.ext.json)
-
----
-
-### Private buses available for election campaigns, no stickers or posters allowed: Gemunu
-
-*2024-03-17 13:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Private-buses-available-for-election-campaigns-no-stickers-or-posters-allowed-Gemunu/108-279009) · `en`
-
-Colombo, March 17 (Daily Mirror) - Private buses will be provided for election campaigns to any political party but pasting any stickers or posters on the bus will not be allowed, chairman of the Lanka Private Bus Owners' Association (LPBOA) Gemunu Wijerathne said.
-
-He told the media that buses will be provided on hire and the candidate or political party that hires the bus for their election campaigns must hold the responsibility of the bus or buses.
-
-Pasting stickers and posters on the body of the bus will damge its paint and the metal, he said.
-
-"Even during previous elections, our buses had been given on hire for election campaigns.
-
-"However, the damages caused to private buses during the aragalaya period have still not been recovered. Many buses were damaged during the aragalaya days.
-
-"Some buses were repaired by their owners, but there are a number of buses still in garages," he said.
-
-...
-
-[Data](articles/9aadb142.json)
-
-[Extended Data](ext_articles/9aadb142.ext.json)
-
----
-
-### There is no rain tomorrow
-
-*2024-03-17 13:54:56* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-වැස්සක්-ඇත්තේම-නෑ/11-408651) · `si`
-
-The Department of Meteorology forecasts no rain tomorrow island-wide.
-
-🟩
-
-Department of Meteorology says that tomorrow island wide, the Met Department forecasts. The Meteorology Department says that the weather forecast for tomorrow's tomorrow.
-
-◼️
-
-[Data](articles/6f2d40b6.json)
-
-[Extended Data](ext_articles/6f2d40b6.ext.json)
-
----
-
-### Adverse Games
-
-*2024-03-17 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194597) · `si`
-
-Dr. Susil Premajayantha, Minister of Education, announced the organization of the school intermediate sports festival. Many schools have already held the Internet Sports Festival. The first school also hosted sports matches on New Year's holiday. The Meteorology Department reported high temperatures in various districts, reaching up to 40°C.
-
-🟩
-
-Minister of Education Dr. Susil Premajayantha says that passengers will be announced to the Principals to organize the school intermediate sports festival.
-
-The Minister poetroposts that many schools have been observed that the Internet Sports Festival has organized the Intermediate Sports Festival.
-
-Minister Susil Premajayantha said that the first-school is also functioning on the New Year holiday, Minister Susil Premajayantha said he was able to conduct sports matches.
-
-Meanwhile, the Meteorology Department says that the heat of the human body in many parts of the island has also been focused on several areas.
-
-Accordingly, the temperature in the North Western, North Central, East, Western, Mullaitivu, Mullaitivu, Vavuniya, Vavuniya and Hambantota districts show that the Department of Celsius is 39 to 4.
-
-◼️
-
-[Data](articles/b53fc2a6.json)
-
-[Extended Data](ext_articles/b53fc2a6.ext.json)
-
----
-
-### Dilshan Tournament the Bangladesh Competition IPL. The first few matches will be lost
-
-*2024-03-17 13:49:39* · [`adalk`](https://www.ada.lk/sports/ඩිල්ෂාන්ට-බංග්ලාදේශ-තරගාවලියත්-අයි-පී-එල්--මුල්-තරග-කිහිපයත්-අහිමිවෙයි/9-408650) · `si`
-
-Dilshan Madushanu, Sri Lanka's fast bowler, missed the first matches of the IPL and the Bangladesh ODI series due to a muscle injury. He was acquired by the IPL team in December. The decisive third ODI between Sri Lanka and Bangladesh will determine the series winner.
-
-🟩
-
-Sri Lanka's fast bowler Dilshan Madushanu, who was disabled in the second ODI against Bangladesh, has lost the first matches and the first matches of the Indian Premier League.
-
-That's because he was under the muscle. Accordingly, Sri Lanka has arrived in Sri Lanka to carry out his disorder. The decisive third will be held tomorrow between Sri Lanka and Bangladesh tomorrow. The winner will win the winner champions at the ODI series.
-
-Dilshan Indians were brought to his team at the IPL Auction in December last year.
-
-◼️
-
-[Data](articles/841212b2.json)
-
-[Extended Data](ext_articles/841212b2.ext.json)
-
----
-
-### Modara Street shooting was arrested
-
-*2024-03-17 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194596) · `si`
-
-A 35-year-old from Ukungagoda was arrested in Peliyagoda for a shooting in Modaraweera, Colombo 15, and found with 600mg of heroin. The Colombo North North North Division also arrested three others at Modara police station, and a three-wheeler was recovered. A manager at a Modara restaurant was shot dead.
-
-🟩
-
-The suspect, who was the shooter, was arrested by the attempt to take a shot in Colombo 15, Modaraweera.
-
-The suspect was arrested in the area in Peliyagoda, the Peliyagoda Bridge in the evening.
-
-Police said that the suspect was arrested at the time of his arrest and 600 milligrams of heroin.
-
-The suspect is a 35 year old resident of the inquigoda, Ukungagoda.
-
-The Colombo North North North Division Criminal Investigation Division has also arrested three suspects at Modara police station.
-
-Investigations have also recovered a three-wheeler used to flee the suspects and the crime.
-
-A man who served as a manager at the main entrance in the Modara area in Colombo 15 was shot dead at the main entrance of the restaurant in Colombo 15.
-
-◼️
-
-[Data](articles/a4c61f98.json)
-
-[Extended Data](ext_articles/a4c61f98.ext.json)
-
----
-
-### People should not be affected at the end of a development project
-
-*2024-03-17 13:43:42* · [`adalk`](https://www.ada.lk/breaking_news/සංවර්ධන-ව්‍යාපෘතියක්-අවසානයේදී-ජනතාව-පීඩාවට-පත්-නොවිය-යුතුයි/11-408649) · `si`
-
-Minister Shehan Semasinghe emphasized that development projects should not harm people, highlighting issues with the Northern Railway modernization in Anuradhapura due to coordination failures. The Railway Department's attempts to address these issues were met with silence from other institutions. The Minister called for practical solutions without blaming delays, and the Road Development Authority and Irrigation Department agreed to assist.
-
-🟩
-
-Minister of Public Minister Shehan Semasinghe said that when a development activity is done, he should not have a proper coordination that the development programs should not end the people to suffer.
-
-The Minister stated so at the Anuradhapura District Secretariat to discuss and address issues due to modernization of the Northern Railway to Anuradhapura.
-
-There is a close attention to the fact that the railway line about two feet more than two feet in modernization of the railway line, which is unnecessarily increased to downtime, so that it is difficult to go to the cross-traffic.. There was revealed that these problems have arisen due to lack of proper coordination among government institutions.
-
-The Railway Department has written to the relevant institutions before the refurbishment of the railway line, but no response has been started as there is no response.
-
-...
-
-[Data](articles/3d58b298.json)
-
-[Extended Data](ext_articles/3d58b298.ext.json)
-
----
-
-### Israel to attend new ceasefire talks as UN says Gaza hunger crisis worsens
-
-*2024-03-17 13:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98009/israel-to-attend-new-ceasefire-talks-as-un-says-gaza-hunger-crisis-worsens) · `en`
-
-(Reuters) -The main U.N. aid agency operating in Gaza said on Saturday that acute malnutrition was accelerating in the north of the Palestinian enclave as Israel prepared to send a delegation to Qatar for new ceasefire talks on a hostage deal with Hamas.
-
-The United Nations Relief and Works Agency for Palestine Refugees (UNRWA) said one in three children under the age of two in northern Gaza is now acutely malnourished, putting more pressure on Israel over the looming famine.
-
-On Friday, Israel said it would send a delegation to Qatar for more talks with mediators after its enemy Hamas presented a new proposal for a ceasefire with an exchange of hostages and prisoners.
-
-...
-
-[Data](articles/3811ad74.json)
-
-[Extended Data](ext_articles/3811ad74.ext.json)
 
 ---

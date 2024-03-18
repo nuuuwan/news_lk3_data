@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 15:51:42**
+As of **2024-03-18 16:03:12**
 
 ## Newspaper Stats
 
-*Scraped **13,596** Articles*
+*Scraped **13,603** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,44 +13,116 @@ bbccomsinhala | 151
 dbsjeyarajcom | 187
 newsfirstlk | 363
 dailyftlk | 713
-economynextcom | 717
+economynextcom | 721
 islandlk | 746
 adalk | 1,169
 adaderanalk | 1,636
 tamilmirrorlk | 1,658
-virakesarilk | 1,899
+virakesarilk | 1,901
 dailymirrorlk | 2,076
-adaderanasinhalalk | 2,154
+adaderanasinhalalk | 2,155
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,593 (100.0%) of 13,596 articles have been extended.
+13,596 (99.9%) of 13,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### තෙවැනි ලෝක යුද්ධය අත ළඟ
+### අමෙරිකානු නීතිපති දෙපාර්තමේන්තුව අදානි ගැන විමසිල්ලෙන්
+
+*2024-03-18 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194637) · `si`
+
+අමෙරිකානු කොටස් වෙළෙඳපොළ තැරැව්කාර සමාගමක් වන හින්ඩන්බර්ග් ඉදිරිපත් කළ චෝදනා රැසක් ඇතුළත් වාර්තාවක් නිසා පසුගිය වසරේ දරුණු අර්බුදයකට ලක්වූ ඉන්දියාවේ අදානි සමූහය නැවතත් අමෙරිකානු වාර්තාවක් නිසා අර්බුදයකට ලක්වී තිබේ.
+
+දැන් නිකුත් වී ඇති වාර්තාවේ සඳහන් වන්නේ අදානි සමූහය සිය ගනුදෙනුවලදී අල්ලස් යොදා ගන්නේදැයි අමෙරිකානු නීතිපති දෙපාර්තමේන්තුව පුළුල් ලෙස සොයාබලමින් සිටින බවයි.
+
+එම වාර්තාවත් සමඟ අදානි සමූහයේ ඉන්දියාව තුළ කොටස් මිල ගණන් 5%කින් පමණ අද (18) පහත වැටුණි.
+
+එහිදී අදානි සමූහයේ කොටස් මිල මාස දෙකක් තුළ අඩුම අගයක් සටහන් කර තිබුණි.
+
+අදානි සමූහයට අයත් සමාගම් දහයේම කොටස් මිල මෙලෙස පහත වැටී ඇති බව වාර්තා වෙයි.
+
+අදානි සමූහයේ බැඳුම්කර වටිනාකම්ද මේ සමඟ පහත වැටී ඇති බවත් විශේෂයෙන් ඩොලර් බැඳුම්කර වටිනාකම් මෙහිදී පහත වැටී ඇති බවත් අනාවරණ වෙයි.
+
+අදානි සමූහයේ සමාගම් ඉන්දියාවේ බලශක්ති ව්‍යාපෘති ලබාගැනීම සඳහා අල්ලස් යොදාගන්නේද යන්න අමෙරිකානු බලධාරීන් විමර්ශනය කරන බව සඳහන් ය.
+
+...
+
+[Data](articles/f9be1399.json)
+
+---
+
+### காஸா போர் நிறுத்தம்: கட்டார் பிரதமர், மொசாட் தலைவர் பேச்சுவார்த்தை
+
+*2024-03-18 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/179048) · `ta`
+
+காஸா போர் நிறுத்தம் தொடர்பில், கட்டார் பிரதமர், இஸ்ரேலின் புலனாய்வு அமைப்பான மொஸாட்டின் தலைவர் மற்றும் எகிப்திய அதிகாரிகளுக்கு இடையிலான பேச்சுவார்த்தை இன்று நடைபெறும் என எதிர்பார்க்கப்படுகிறது.
+
+கத்தார் பிரதமர் மொஹம்மத் பின் அப்துல்ரஹ்மான் அல் தானி, மொசாட் தலைவர் டேவிட் பார்னியா, மற்றும் எகிப்தி அதிகாரிகள் ஆகியார் இன்று கட்டார் தலைநகர் தோஹாவில் எதிர்பார்க்கப்படுவதாக தன்னை அடையாளப்படுத்த விரும்பாத வட்டாரமொன்று ஏ.எவ்.பியிடம் தெரிவித்துள்ளது.
+
+காஸாவில் 6 வார கால போர் நிறுத்தத்தை ஏற்படுத்துவதற்கான  திட்டத்தை  பேச்சுவார்த்தை மத்தியஸ்தர்களான எகிப்து மற்றும் கட்டாரிடம் ஹமாஸ் கடந்த வெள்ளிக்கிழமை முன்வைத்திருந்தது. எனினும் அதை இஸ்ரேல் நிராகரித்தது.
+
+இத்திட்டத்தின்படி, 42 நாட்களுக்கு போர் நிறுத்தம் கடைபிடிக்கப்படும். அக்காலப்பதியில் 42 பணயக் கைதிகளை ஹமாஸ் விடுவிக்கும்.
+
+ஒவ்வொரு பணயக் கைதிக்கும் 20 முதல் 50 வரையான எண்ணிக்கையிலான பலஸ்தீன சிறைக்கைதிகளை இஸ்ரேல் விடுவிக்க வேண்டும் எனத் தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/acb6b2c4.json)
+
+---
+
+### The third world war is near
 
 *2024-03-18 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194636) · `si`
 
-රුසියාව සහ නේටෝ සංවිධානය අතර ඍජු සටනක් ඇති වුවහොත් එය පෘථිවිය තුන්වැනි ලෝක යුද්ධයට එක් පියවරක් දක්වා ආසන්න කරන බව රුසියානු ජනාධිපති ව්ලැදිමීර් පුටින් ජනාධිපතිවරණය ජයග්‍රහණයෙන් අනතුරුව වාර්තාකරුවන් අමතමින් ප්‍රකාශ කළේය.
+The third world war is near, following a direct fight between Russia and NATO, with President Mahinda Rajapakse warning about nuclear war risks. French President Emmanuel McCron disagreed with the possibility of war. President Mahinda Rajapakse revealed NATO troops in Ukraine and criticized the US for denying Russian elections' fairness, accusing former President Trump of using state power against him.
 
-යුක්‍රේන යුද්ධය, 1962 කියුබානු මිසයිල අර්බුදයෙන් පසු රුසියාව සහ බටහිර ලෝකය අතර දරුණුතම අර්බුදය නිර්මාණය කර තිබේ.
+🟩
 
-එවැනි වාතාවරණයක් හමුවේ න්‍යෂ්ටික යුද්ධයක අවදානම පිළිබඳව ජනපති පුටින් කිහිප වතාවක්ම අනතුරු අඟවා ඇතත් යුක්‍රේනයට එරෙහිව න්‍යෂ්ටික අවි භාවිත කිරීමේ අවශ්‍යතාවක් මෙතෙක් මතුවී නොමැති බව ඔහු සඳහන් කර ඇත්තේය.
+The Presidential election addressed the Presidential Electorate after a direct fight between Russia and the NATO organization.
 
-ඉදිරියේදී යුක්‍රේනය තුළ නේටෝ හමුදා යෙදවීම බැහැර කළ නොහැකියැයි ප්‍රංශ ජනාධිපති එම්මානුවල් මැක්‍රෝන් පසුගිය මාසයේ සිදුකළ ප්‍රකාශයේදී බටහිර රටවල් බොහොමයක් ඔහු හා එකඟවූයේ නැත.
+The war between the Ukrainian war, 1962, the worst crisis between Russia and the Western world have been created after the 1962 Cuban Missile Crisis.
 
-ප්‍රංශ ජනාධිපතිවරයාගේ ප්‍රකාශය සහ රුසියාව හා නේටෝ සංවිධානය අතර යුද්ධයක් හටගැනීමේ හැකියාව පිළිබඳව වාර්තාකරුවන් ජනපති පුටින්ගෙන් විමසා තිබුණි.
+Despite such a nuclear war, President Mahinda Rajapakse has warned about the risk of a nuclear war, but no need to use nuclear weapons against Ukraine has no need.
 
-එහිදී ඔහු පවසා ඇත්තේ නූතන ලෝකයේ ඕනෑම සිදුවීමකට අවස්ථාව පවතින බවයි.
+French President Emmanuel McCron, the statement made by French President Emmanuel McCron, did not agree with the previous year in the future.
+
+Reporters were asked to a war between the President's statement and the possibility of war between the Russia and NATO organization.
+
+He has said that there is any event in the modern world.
+
+The President had asked Putin when he addressed reporters for the first time after his president's victory.
+
+Putin's answer was that it was a matter of large-scale world war.
 
 ...
 
 [Data](articles/7e935141.json)
+
+[Extended Data](ext_articles/7e935141.ext.json)
+
+---
+
+### Sri Lanka gets Japan support to fight oil spill disasters
+
+*2024-03-18 15:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-gets-japan-support-to-fight-oil-spill-disasters-155038/) · `en`
+
+ECONOMYNEXT – Japan has given Sri Lanka a 600 million yen (3.3 billion rupee) grant for oil spill management, health care and vocational training, the Finance Ministry said.
+
+Japan will give four vessels for oil boom with the necessary accessories, a generator, and a cargo truck with a crane for improving oil spill response and management by the Sri Lanka coast guard.
+
+The grant agreement was signed by Secretary to the Ministry of Finance Mahinda Siriwardana and Ambassador of Japan in Sri Lanka Mizukoshi Hideaki.
+
+The grant also covers portable ultrasonic scanners, gynecological examination tables, a laparoscopic system, mammography, fetal heart raters, and infant warmers to hospitals in the Northern Province; a petrol boat, a rigid-hull inflatable boat, lighted buoys, and HG radio transceivers for fisheries; and industrial sewing machines, zigzag machines, overlock machines, and button holder machines for dressmaker courses at vocational training centers in the North. (Colombo/Mar18/2024)
+
+◼️
+
+[Data](articles/9a47207f.json)
 
 ---
 
@@ -67,6 +139,8 @@ The Secretary to the Ministry of Public Security Viyani Gunathilaka and the Insp
 ...
 
 [Data](articles/06f34b1e.json)
+
+[Extended Data](ext_articles/06f34b1e.ext.json)
 
 ---
 
@@ -88,6 +162,28 @@ Heat exists during the day as well as during the night. Therefore, the departmen
 
 [Data](articles/d2009091.json)
 
+[Extended Data](ext_articles/d2009091.ext.json)
+
+---
+
+### Francophonie 2024 – மார்க் அய்மன் Marc Aymon மற்றும் மில்லா பெஸ்ஸன் Milla Besson ஆகியோரின் இசை நிகழ்ச்சி
+
+*2024-03-18 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179039) · `ta`
+
+இலங்கை மற்றும் மாலைதீவுகளுக்கான சுவிட்சர்லாந்து தூதரகம், International Organization of la Francophonie உடன் இணைந்து, கொழும்பு மற்றும் அஹங்கம பகுதிகளில் இசை நிகழ்ச்சியொன்றை ஏற்பாடு செய்யப்பட்டது.
+
+வருடாந்த பிரெஞ்சு மொழி மற்றும் Francophonie கலாசாரங்கள் போன்றவற்றுடன் சுவிஸ் இசைக் கலைஞர்களான மார்க் அய்மன் Marc Aymon மற்றும் மில்லா பெஸ்ஸன் Milla Besson ஆகியோருடன் Francophonie 2024 ஐ கொண்டாடும் நோக்கில், ஏற்பாடு செய்யப்பட்டது.
+
+அறிமுக நிகழ்வு மார்ச் மாதம் 16ஆம் திகதி பி.ப. 7 மணி முதல் கொழும்பு ‘Alliance Française de Colombo இல் நடைபெற்றது. அதனைத் தொடர்ந்து, மார்ச் 17 ஆம் திகதி பி.ப. 7.00 மணி முதல் TRAX அஹங்கமவிலும் நடைபெற்றது.
+
+Master classes மார்ச் மாதம் 16 ஆம் திகதி கட்புல, அரங்கேற்றக் கலைகள் பல்கலைக்கழகத்தில் நடைபெற்றது.
+
+Valais ஐச் சேர்ந்த பிரதான கலைஞரான மார்க் அய்மன் Marc Aymon, ஒரு கவிஞர் மற்றும் பாடகருமாவார். பிரெஞ்சு மொழி பேசப்படும் நாடுகளில் பெருமளவில் இசைக்கப்படும் 8 அல்பம்கள் மற்றும் 4 தனிப் பாடல்கள் போன்றவற்றி்ன் உரிமையாளராக அய்மன் திகழ்கின்றார்.
+
+...
+
+[Data](articles/f2ae8be3.json)
+
 ---
 
 ### Struggle in Jaffna tomorrow demanding the release of the detainees
@@ -107,6 +203,28 @@ The protest will be carried out by the Student Union at the University of Jaffna
 [Data](articles/473cc6a9.json)
 
 [Extended Data](ext_articles/473cc6a9.ext.json)
+
+---
+
+### Eran resigns from COPE, slamming questionable appointees, standing orders
+
+*2024-03-18 14:55:00* · [`economynextcom`](https://economynext.com/eran-resigns-from-cope-slamming-questionable-appointees-standing-orders-155042/) · `en`
+
+ECONOMYNEXT – Sri Lanka opposition legislator Eran Wickramaratne has resigned from the Parliament’s Committee on Public enterprises calling for appointees to conform to minimum levels of probity and for removing roadblock to action being taken on corruption.
+
+“Appointees to COPE as part of its 31-member team or Chairperson, must not be associated with allegations and/or convictions,” Wickramaratne, a former Citibank and NDB Bank excutive, said in a statement.
+
+“A committee that has an overview of checks and balances must have clearly outlined qualifications and disqualifications for its members.”
+
+The government was blocking action being taken on COPE findings through standing orders, he charged.
+
+“Standing Order should be widened, where irregularities and fraud when in light, should reach the Attorney General direct and CIABOC proceeding to act,” he said.
+
+“The government blocks the process by limiting Standing Orders, there by the effectiveness of COPE is now in question. ”
+
+...
+
+[Data](articles/da7a338b.json)
 
 ---
 
@@ -325,6 +443,24 @@ Pakistani President Asif Ali Sardari has said that the attacks will be retaliate
 [Data](articles/a74beacc.json)
 
 [Extended Data](ext_articles/a74beacc.ext.json)
+
+---
+
+### Sri Lanka Archaeology Dept to continue excavations in the East: Minister
+
+*2024-03-18 13:51:00* · [`economynextcom`](https://economynext.com/sri-lanka-archaeology-dept-to-continue-excavations-in-the-east-minister-154506/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Department of Archaeology is to continue laying claim to land in the east of the island for the purpose of furthering archeological understanding, Minister of Buddhashasana, Religious and Cultural Affairs Vidura Wickremenayake has said recently to reporters in Colombo.
+
+“Is it something that we shouldn’t do? We have been very myopic on these things. If you look at the point of view of a racist, then we may not be able to get along or go ahead with these types of preservations,” he said in response to a question on the ongoing tensions in the Province over land claims by the Department.
+
+Wickremanayaka was speaking at a press briefing to announce a new bill aimed at formally managing the discovery and preservation of the nation’s antiquities and archaeological heritage.
+
+The Department of Archaeology has been accused of encroaching on land belonging to non-Buddhists in the North and East over claims of Buddhist historicity.
+
+...
+
+[Data](articles/10c52cdb.json)
 
 ---
 
@@ -869,6 +1005,26 @@ Under this situation, 10 percent of the bakeries have closed, said Vithanage and
 [Data](articles/30cedff3.json)
 
 [Extended Data](ext_articles/30cedff3.ext.json)
+
+---
+
+### Sri Lanka’s NDB plans Rs10bn from debt sale
+
+*2024-03-18 12:03:00* · [`economynextcom`](https://economynext.com/sri-lankas-ndb-plans-rs10bn-from-debt-sale-154997/) · `en`
+
+ECONOMYNEXT – National Development Bank Plc said it was planning to raise upto 10 billion through a Basel III compliant debenture sale.
+
+Subject to the approval of the shareholders, the bank will issue 100,000,000 tier 2, listed, rated, unsecured, subordinated, redeemable debentures with a non-viability conversion of 100 rupees each.
+
+“The 100,000,000 debentures will be issued in one or multiple issuances, the timing of which is within one year time frame from the date of obtaining shareholder approval,” the bank said in a stock exchange filing.
+
+The size, tenure/maturity period (minimum five years), coupon rate/s, frequency of coupon/s, etc, will be notified prior to the opening of such multiple issuances.
+
+In July last year, Fitch Ratings said it was maintaining an ‘A-(lka)’ rating on NDB with a negative rating watch, though domestic debt restructuring has excluded banks.
+
+...
+
+[Data](articles/e4c4c423.json)
 
 ---
 
@@ -2099,195 +2255,5 @@ Misty conditions can be expected at some places in Sabaragamuwa and Central prov
 [Data](articles/d010bd35.json)
 
 [Extended Data](ext_articles/d010bd35.ext.json)
-
----
-
-### Sri Lanka private credit down in Jan 2024
-
-*2024-03-18 07:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-down-in-jan-2024-154922/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s private credit fell 52.2 billion rupees in January 2024, after climbing 97.5 billion rupees in December and 62.9 billion in November, while central bank credit was overall deflationary, supporting monetary stability and reserves, official data shows.
-
-Sri Lanka’s private credit spiked in December amid anecdotal evidence that import containers also surged ahead of a value added tax hike.
-
-If the credit surge was linked to consumption imports, the loans will be liquidated as goods are sold.
-
-Before the ‘age of inflation’ and chronic balance of payments deficits (aggressive outright purchases through open market operations to maintain a bureaucratically decided policy rate), some classical economists (including Adam Smith, in line with the the so-called ‘real bills doctrine’) supported limited note issue banking on a similar principle, analysts say.
-
-Before the 1860s, Bank of England customers were bill brokers and discount houses, not banks which gave investment credit.
-
-...
-
-[Data](articles/5018715f.json)
-
-[Extended Data](ext_articles/5018715f.ext.json)
-
----
-
-### Special operation to repress criminal gangs in the Western and South
-
-*2024-03-18 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194618) · `si`
-
-The police are launching a new operation to suppress criminal gangs in the Western and South, under the IGP and the Police Special Task Force. 20 armed groups will be targeted, following orders from the IGP and the Police Special Task Force. The IGP emphasizes strengthening national security through community units and rural security committees.
-
-🟩
-
-The police have taken steps to launch a new operation for the suppression of organized crime gangs.
-
-The operation will be carried out under the direct supervision of Inspector General of Police and the Police Special Task Force in charge of the Police Chief.
-
-The operation is being carried out in the Western and Southern areas in the Western and South.
-
-Accordingly, 20 armed fighter sects are to be taken in these areas.
-
-These groups will only be implemented only to the orders of the IGP and the Police Special Task Force.
-
-Recently, the murders made by the crime gangs in the Western Province and in the Southern Province have increased.
-
-Meanwhile, IGP Deshabandu Tennakoon says that the Community Center for the community unit established in all Grama Seva Units should further strengthen national security.
-
-The police said that rural security committees will be entitled to ensure national security in the country.
-
-...
-
-[Data](articles/7a501d54.json)
-
-[Extended Data](ext_articles/7a501d54.ext.json)
-
----
-
-### Increased temperature today
-
-*2024-03-18 07:25:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அதிகரித்த-வெப்பநிலை-காணப்படும்/175-334821) · `ta`
-
-Temperature increases today in Eastern, North Central, Western, and North Western provinces, with potential rain or thunderstorms in Sabaragamuwa and Western Provinces, and Galle and Matara districts in the evening. Wind speeds from 15-30 km/h in the north-east, potentially reaching 40 km/h in certain sea regions, causing turbulence.
-
-🟩
-
-The Department of Meteorology said that the temperature will be seen today in the Eastern, North Central, Western and North Western provinces as well as in Moneragala, Mannar, Ratnapura and Vavuniya districts.
-
-There is a chance of rain or thunderstorm in some parts of the Sabaragamuwa and Western Provinces, as well as some places in the Galle and Matara districts in the evening or night.
-
-In the morning, the Central and Sabaragamuwa Provinces, as well as some places in the Galle and Kalutara districts, are in the morning.
-
-In the sea regions, the wind blows from the north -east direction at 15 - 30 kilometers per hour.
-
-From Puttalam to Mannar to Mannar, as well as in the sea regions from Hambantota to Pottuvil, the winds may increase at 40 kilometers per hour.. In such cases, the sea regions are somewhat turbulent.
-
-◼️
-
-[Data](articles/d6715af1.json)
-
-[Extended Data](ext_articles/d6715af1.ext.json)
-
----
-
-### The funeral of Canada, who was murdered in Canada, is being carried out
-
-*2024-03-18 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194617) · `si`
-
-A tragic incident in Canada led to the funeral of 6 Sri Lankans, including family members and a friend, with the Sri Lankan High Commission in Canada organizing the ceremony. Dhanushka Wickremasinghe, the father of the family, was present. The incident involved a 19-year-old Sri Lankan student killed by another, with five of the victims being family members and one a friend. Sri Lanka's High Commissioner Harsha Navaratne expressed condolences, highlighting the tragedy and the community's support.
-
-🟩
-
-The funeral of 6 Sri Lankans killed in Canada was held yesterday (17).
-
-The Sri Lankan High Commission in Canada has made the funeral of the five Sri Lankan family members and their friend in Canada.
-
-Condolences were also given to note:
-
-Dhanushka Wickremasinghe, the father of Sri Lankan family, was also present.
-
-A 19-year-old Sri Lankan student who had been killed by a 19-year-old Sri Lankan student in Wednesday.
-
-Five of these killings are the same family members and the other is a friend friend.
-
-Sri Lanka's High Commissioner to Sri Lanka Harsha Navaratne, Minister of Sri Lanka Harsha Navaratne, Minister of Sri Lanka
-
-...
-
-[Data](articles/7cff7185.json)
-
-[Extended Data](ext_articles/7cff7185.ext.json)
-
----
-
-### Ravi Royntter: Sri Lankan young musician launched a massive mark in South Indian cinema
-
-*2024-03-18 06:34:56* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clwe1jp407jo) · `si`
-
-Sri Lankan musician Ravi Royntter made a significant impact in South Indian cinema with his song for the film 'Romeo', directed by Violence. Despite not knowing Tamil and Telugu, he successfully sang the main song, which became a massive hit, reaching 4 million views in 4 days.
-
-🟩
-
-Ravi Royntter: Sri Lankan young musician launched a massive mark in South Indian cinema
-
-The fact that when we see the history of Sri Lanka's cinema songs, we show Sinhala songs from Bharatiya Dansa.
-
-In the early age, many Sinhalese films were created by Bharatiya Bharatne. The autonomous songs was created, very little.
-
-Sinhala music in such a situation has many instances of international standards.
-
-Accordingly, the use of songs of songs created in Sri Lanka has been used for films.
-
-The latest victory was reported as a Sri Lankan youth singer and musician Ravi Roncer for a massive film.
-
-The film, designated as 'Romeo' by Violence, is written by both Tamils and Teluna.
-
-The main characters are being revived to the prime number of Popular actor Vijay Anthony and Milnalini Ravi.
-
-The song named the main song of that film was launched on March 13, and 4 million passed before 4 days.
-
-It was on 11th at Trending For Music in Youtube in India.
-
-...
-
-[Data](articles/2f089ec4.json)
-
-[Extended Data](ext_articles/2f089ec4.ext.json)
-
----
-
-### Dry weather conditions island wide
-
-*2024-03-18 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194615) · `si`
-
-The Met Department predicts dry weather across the country, with moderate humidity in Sabaragamuwa, Central, Galle, and Kalutara districts. Temperatures will remain high in North Western, North Central, Western, Moneragala, Mannar, Ratnapura, and Vavuniya districts, advising to stay indoors and drink plenty of water.
-
-🟩
-
-The Met Department forecasts that there is mainly dry weather throughout the country.
-
-Some locations in the Sabaragamuwa and Central provinces and in some places are expected to be metaded in the Galle and Kalutara districts.
-
-Meanwhile, the Department of Meteorology states that the temperature of several parts of the island will continue to focus on today (18).
-
-Accordingly, the heat of the human body will be focused on the North Western, North Central, Western, Western, Western and Moneragala, Mannar, Ratnapura and Vavuniya districts.
-
-Accordingly, drinking water, the rest of the shadow, should be followed by the health advice, including restricting the stressing outdoors.
-
-◼️
-
-[Data](articles/e985b7b1.json)
-
-[Extended Data](ext_articles/e985b7b1.ext.json)
-
----
-
-### Putin wins Russia election in landslide with no serious competition
-
-*2024-03-18 05:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98019/putin-wins-russia-election-in-landslide-with-no-serious-competition) · `en`
-
-(Reuters) - President Vladimir Putin won a record post-Soviet landslide in Russia’s election on Sunday, cementing his already tight grip on power in a victory he said showed Moscow had been right to stand up to the West and send its troops into Ukraine.
-
-Putin, a former KGB lieutenant colonel who first rose to power in 1999, made it clear that the result should send a message to the West that its leaders will have to reckon with an emboldened Russia, whether in war or in peace, for many more years to come.
-
-The outcome means Putin, 71, is set to embark on a new six-year term that will see him overtake Josef Stalin and become Russia’s longest-serving leader for more than 200 years if he completes it.
-
-...
-
-[Data](articles/2141f467.json)
-
-[Extended Data](ext_articles/2141f467.ext.json)
 
 ---

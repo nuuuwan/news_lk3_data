@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 02:33:25**
+As of **2024-03-19 02:50:06**
 
 ## Newspaper Stats
 
-*Scraped **13,690** Articles*
+*Scraped **13,691** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 127
+colombotelegraphcom | 128
 bbccomsinhala | 151
 dbsjeyarajcom | 187
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,173
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,686 (100.0%) of 13,690 articles have been extended.
+13,690 (100.0%) of 13,691 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,8 @@ Peiris stated that despite the expectation for the Speaker to be impartial, the 
 
 [Data](articles/61e69bf9.json)
 
+[Extended Data](ext_articles/61e69bf9.ext.json)
+
 ---
 
 ### Japan extends Rs. 3.3 b grant aid to support humanitarian relief amid economic woes
@@ -65,6 +67,8 @@ The Government of Japan has agreed to provide grant assistance worth Rs. 3.3 bil
 ...
 
 [Data](articles/6847400a.json)
+
+[Extended Data](ext_articles/6847400a.ext.json)
 
 ---
 
@@ -85,6 +89,8 @@ However, he also expressed that if invited by all parties supporting the allianc
 ...
 
 [Data](articles/56858509.json)
+
+[Extended Data](ext_articles/56858509.ext.json)
 
 ---
 
@@ -107,6 +113,8 @@ She joined before the 2006 Assembly elections to join the AIADMK along with her 
 ...
 
 [Data](articles/e1273671.json)
+
+[Extended Data](ext_articles/e1273671.ext.json)
 
 ---
 

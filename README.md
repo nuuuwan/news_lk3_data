@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 10:17:57**
+As of **2024-03-18 10:33:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,144
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,515 (100.0%) of 13,519 articles have been extended.
+13,519 (100.0%) of 13,519 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The Chief Minister's remarks come in response to Prime Minister Modi's recent st
 ...
 
 [Data](articles/5968915c.json)
+
+[Extended Data](ext_articles/5968915c.ext.json)
 
 ---
 
@@ -175,6 +177,8 @@ In a speech at his campaign headquarters on Sunday evening, Putin brushed off we
 ...
 
 [Data](articles/c97e63a4.json)
+
+[Extended Data](ext_articles/c97e63a4.ext.json)
 
 ---
 
@@ -1702,23 +1706,31 @@ They have no choice of giving. He also said that they were struggling to come to
 
 ---
 
-### රෝහිතගෙන් විජිතට නඩුවක්
+### Case on Vijitha Vijitha
 
 *2024-03-17 20:01:12* · [`adalk`](https://www.ada.lk/breaking_news/රෝහිතගෙන්-විජිතට-නඩුවක්/11-408660) · `si`
 
-කෝප් කමිටුවේ සභාපති ධුරය පිළිබඳව ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයන්ට සිදු කළ ප්‍රකාශය සම්බන්ධයෙන් පාර්ලිමේන්තු මන්ත්‍රී විජිත හේරත් මහතාට එරෙහිව අධිකරණ ක්‍රියා මාර්ග ගන්නා බව කෝප් කමිටුවේ නව සභාපති රෝහිත අබේගුණවර්ධන මහතා ප්‍රකාශ කළේය .
+The new COPE Committee Chairman, Vijitha Herath, denied allegations of corruption against him, claiming they were politically motivated. He also criticized the JVP for spreading false accusations out of jealousy and argued against government MPs holding the Chairman position.
 
-ඒ මහතා එසේ ප්‍රකාශ කළේ ඒ සම්බන්ධයෙන් කළුතරදී පැවැති මාධ්‍ය හමුවකදීය.
+🟩
 
-"ඉකුත් 14 වැනිදා පාර්ලිමේන්තු මන්ත්‍රී විජිත හේරත් මහතා මාධ්‍ය හමුවක් පවත්වමින් ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයන් සමග ඔවුන් සාකච්ඡා කළ බවත් ,එහිදී කෝප් කමිටුවේ වර්තමාන සභාපතිවරයා වන තමා දූෂණ චෝදනාවලට මෙන්ම විවිධ චෝදනාවලට ලක්වූ අයෙකු බවත් කියා සිටියා .
+The new Chairman of the COPE Committee said that Judicial action was taken against the UN Representatives of the International Monetary Fund as a Chairman of the International Monetary Fund.
 
-මේ වනවිට මට කිසිදු අධිකරණයක නඩුවක් හෝ චෝදනාවක් නැහැ .විජිත හේරත් මහතා සිදු කළ මෙම ප්‍රකාශය පිළිබඳව එන්තරවාසියක් යැවීමට කටයුතු කරනවා .ඉන්පසු අධිකරණ ක්‍රියා මාර්ග ගන්නවා .
+He was speaking at a media briefing in Kalutara.
 
-ජනතා විමුක්ති පෙරමුණ දිගින් දිගටම මෙම ප්‍රකාශ කරනුයේ ඊර්ෂ්‍යාව නිසයි .කෙනෙකුට චෝදනාවක් කරන විට ඒ පිළිබඳව යම් අවබෝධයකින් කටයුතු කළ යුතුයි .
+"Vijitha Herath held a media briefing on the 14th and said that the current chairman of the COPE Committee was accused of corruption and accused.
 
-...
+I have no case or allegation of any judiciary.
+
+The JVP continues to express this because it is jealousy.
+
+It is wrong that the government MPs have held the post of Chairman of the COPE. "
+
+◼️
 
 [Data](articles/96686dda.json)
+
+[Extended Data](ext_articles/96686dda.ext.json)
 
 ---
 
@@ -1823,6 +1835,8 @@ The suspects have been arrested according to an investigation conducted under th
 ...
 
 [Data](articles/0c5ed7d0.json)
+
+[Extended Data](ext_articles/0c5ed7d0.ext.json)
 
 ---
 

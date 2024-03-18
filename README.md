@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 22:18:01**
+As of **2024-03-18 22:33:26**
 
 ## Newspaper Stats
 
-*Scraped **13,657** Articles*
+*Scraped **13,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 713
 economynextcom | 721
 islandlk | 746
 adalk | 1,179
-adaderanalk | 1,644
-tamilmirrorlk | 1,662
+adaderanalk | 1,645
+tamilmirrorlk | 1,663
 virakesarilk | 1,905
 dailymirrorlk | 2,086
 adaderanasinhalalk | 2,173
@@ -26,11 +26,47 @@ adaderanasinhalalk | 2,173
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,655 (100.0%) of 13,657 articles have been extended.
+13,657 (100.0%) of 13,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### Gunmen kidnap at least 87 in Nigeria’s Kaduna state
+
+*2024-03-18 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98038/gunmen-kidnap-at-least-87-in-nigerias-kaduna-state) · `en`
+
+Gunmen in Nigeria have kidnapped at least 87 people, including women and children in Kaduna state, residents and police said on Monday, in a fresh attack after an armed gang seized 286 students and staff from a school in early March.
+
+Kidnappings by criminal gangs demanding ransom payments have become an almost daily occurrence in Nigeria, especially in the north, with authorities seemingly powerless to stop them.
+
+Kaduna police spokesperson Mansur Hassan confirmed the incident in Kajuru Station village on Sunday night but could not give a figure of those missing. He said security agents had been deployed to try to rescue the villagers.
+
+Tanko Wada Sarkin, a village head, said 87 people were taken.
+
+“We have so far recorded the return of five people back home who fled through the bush. This attack makes it five times that these bandits are attacking this community,” he told Reuters by phone.
+
+...
+
+[Data](articles/9828e39d.json)
+
+---
+
+### இலங்கை மீனவர்களுக்கு அவசர அறிவிப்பு
+
+*2024-03-18 21:57:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மீனவர்களுக்கு-அவசர-அறிவிப்பு/175-334843) · `ta`
+
+கடந்த சனிக்கிழமை அரபிக்கடலில் சோமாலிய ஆயுதக் குழுவொன்றினால் ஈரானிய மீன்பிடி படகு ஒன்று கடத்தப்பட்டதை தொடர்ந்து, அரபிக்கடலில் மீன்பிடி நடவடிக்கைகளில் ஈடுபட வேண்டாம் என கடற்றொழில் மற்றும் நீரியல்வள திணைக்களம் இலங்கை மீனவர்களுக்கு அறிவித்துள்ளது.
+
+கடற்றொழில் மற்றும் நீரியல் வளங்கள் திணைக்களத்தில் இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்ட அதன் பணிப்பாளர் நாயகம்  சுசந்த கஹவத்த இதனை தெரிவித்தார்.
+
+ஈரானிய கப்பலுடன் குறித்த கடற்பரப்பிற்கு கடற்கொள்ளையர் குழுவொன்று வந்துள்ளதாக தகவல் கிடைத்துள்ளதாக அவர் மேலும் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/96b56538.json)
+
+---
 
 ### Somali pirate threat: Sri Lanka’s fishermen warned not to venture into Arabian Sea
 
@@ -46,23 +82,35 @@ Joining a press conference held at the Department of Fisheries and Aquatic Resou
 
 [Data](articles/1db4384a.json)
 
+[Extended Data](ext_articles/1db4384a.ext.json)
+
 ---
 
-### ஜனித் லியனகேயின் கன்னிச் சதம் வீண்போனது ; இலங்கையை 4 விக்கெட்களால் வீழ்த்தி தொடரைக் கைப்பற்றியது பங்களாதேஷ்
+### Janit Liyanage's virginity was fallen;Bangladesh beat Sri Lanka by 4 wickets
 
 *2024-03-18 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179071) · `ta`
 
-இலங்கைக்கு எதிரான தீர்மானம் மிக்க 3ஆவதும் கடைசியுமான சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் அதிர்ச்சிக்கான மாற்று வீரராகத் துடுப்பெடுத்தாடி அரைச் சதம் குவித்த தன்ஸித் ஹசனும் மத்திய வரிசையில் அதிரடி ஆட்டத்தை வெளிப்படுத்திய ரிஷாத் ஹொசெய்னும பங்களாதேஷுக்கு 4 விக்கெட் வெற்றியை ஈட்டிக்கொடுத்தனர்.
+Bangladesh won the 3-match ODI series 2-1 against Sri Lanka, with Rishad Hossain's half-century and 4 wickets crucial. Sri Lanka's Janit Liyanage scored a century, but Bangladesh's Dhavasid Hasan hit a personal best 94 runs.
 
-சட்டோக்ராம், ஸஹுர் அஹ்மத் சௌதரி விளையாட்டரங்கில் இன்று திங்கட்கிழமை (18) ஈட்டப்பட்ட இந்த வெற்றியுடன் 3 போட்டிகள் கொண்ட தொடரை 2 - 1 என்ற ஆட்டங்கள் வித்தியாசத்தில் பங்களாதேஷ் கைப்பற்றியது.
+🟩
 
-சர்வதேச ஒருநாள் கிரிக்கெட் வரலாற்றில் இலங்கைக்கு எதிராக பங்களாதேஷ் ஈட்டிய இரண்டாவது தொடர் வெற்றி இதுவாகும். இதற்கு முன்னர் மிர்பூரில் 2021இல் நடைபெற்ற தொடரில் இலங்கையை 2 - 1 ஆட்டங்கள் அடிப்படையில் பங்களாதேஷ் வெற்றிகொண்டிருந்தது.
+Rishad Hossain, who scored a half -century in the 3rd and last international ODI match against Sri Lanka, scored a half -century in the international cricket cricket match and Rishad Hossain, who played a role in the central queue, took 4 wickets for Bangladesh.
 
-இப் போட்டியில் இலங்கை சார்பாக திறமையாகத் துடுப்பெடுத்தாடிய ஜனித் லியனகே கன்னிச் சதம் குவித்தபோதிலும் அதனை தன்ஸித் ஹசன், ரிஷாத் ஹொசெய்ன் ஆகியோரின் துடுப்பாட்டங்கள் வீணடித்துவிட்டன.
+Bangladesh won the 3 -match series by 2 - 1 in the Sahur Ahmad Chaudhary Stadium on Monday (18).
+
+This is the second series victory in Bangladesh against Sri Lanka in international ODI history. In the 2021 series in Mirpur, Bangladesh won the 2 - 1 game on the basis of 2 - 1.
+
+Although Janith Liyanage, who played on behalf of Sri Lanka, scored a virgin, it was wasted by Tansid Hasan and Rishad Hossain.
+
+Soumya Sarkar was shocked and shocked when he retired and he was replaced by Dhansit Ahmad.
+
+Five players, including Chaumya Sarkar in Bangladesh team, have been hit in today's match. Three of them were subjected to the last 3 overs.
 
 ...
 
 [Data](articles/501eb7a2.json)
+
+[Extended Data](ext_articles/501eb7a2.ext.json)
 
 ---
 
@@ -2273,55 +2321,5 @@ Under this situation, 10 percent of the bakeries have closed, said Vithanage and
 [Data](articles/30cedff3.json)
 
 [Extended Data](ext_articles/30cedff3.ext.json)
-
----
-
-### Sri Lanka’s NDB plans Rs10bn from debt sale
-
-*2024-03-18 12:03:00* · [`economynextcom`](https://economynext.com/sri-lankas-ndb-plans-rs10bn-from-debt-sale-154997/) · `en`
-
-ECONOMYNEXT – National Development Bank Plc said it was planning to raise upto 10 billion through a Basel III compliant debenture sale.
-
-Subject to the approval of the shareholders, the bank will issue 100,000,000 tier 2, listed, rated, unsecured, subordinated, redeemable debentures with a non-viability conversion of 100 rupees each.
-
-“The 100,000,000 debentures will be issued in one or multiple issuances, the timing of which is within one year time frame from the date of obtaining shareholder approval,” the bank said in a stock exchange filing.
-
-The size, tenure/maturity period (minimum five years), coupon rate/s, frequency of coupon/s, etc, will be notified prior to the opening of such multiple issuances.
-
-In July last year, Fitch Ratings said it was maintaining an ‘A-(lka)’ rating on NDB with a negative rating watch, though domestic debt restructuring has excluded banks.
-
-...
-
-[Data](articles/e4c4c423.json)
-
-[Extended Data](ext_articles/e4c4c423.ext.json)
-
----
-
-### Chandrika has changed her position and crisis on the leadership of the new coalition!
-
-*2024-03-18 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179000) · `ta`
-
-Chandrika Bandaranaike Kumaratunga seeks leadership role in new Sri Lanka Freedom Party coalition, following discussions on the coalition's future.
-
-🟩
-
-There have been reports that the crisis is about the leadership of the new coalition to be formed based on the Sri Lanka Freedom Party.
-
-Former President Chandrika Bandaranaike Kumaratunga has changed her position to get the leadership of the new coalition.
-
-Over the past few days, there have been many discussions on the new coalition led by former President Maithripala Sirisena.
-
-The Sri Lanka Freedom Party (SLFP) parliamentary committee meeting was also held at the party headquarters and the situation was discussed.
-
-However, political sources say that the future actions and current progress of the new coalition have been discussed in detail.
-
-Accordingly, it is said that it has been decided to discuss the matter with the former President once again in the discussion.
-
-◼️
-
-[Data](articles/0d552410.json)
-
-[Extended Data](ext_articles/0d552410.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 05:03:15**
+As of **2024-03-19 05:18:03**
 
 ## Newspaper Stats
 
-*Scraped **13,691** Articles*
+*Scraped **13,693** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 1,179
 adaderanalk | 1,645
 tamilmirrorlk | 1,664
 virakesarilk | 1,916
-dailymirrorlk | 2,088
+dailymirrorlk | 2,090
 adaderanasinhalalk | 2,173
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,691 (100.0%) of 13,691 articles have been extended.
+13,691 (100.0%) of 13,693 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### Don’t cry for me Sri Lanka, if wrong people are elected - EDITORIAL
+
+*2024-03-19 04:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Dont-cry-for-me-Sri-Lanka-if-wrong-people-are-elected-EDITORIAL/172-279106) · `en`
+
+Elections have been the main focus among frontline political parties these days with the Presidential election scheduled for this year.
+
+According to the Sri Lankan Constitution “the poll for the election of the President shall be taken not less than one month and not more than two months before the expiration of the term of office of the President in office.”
+
+Since the incumbent President Ranil Wickremesinghe is holding office “only for the unexpired period of the term of office” of former President Gotabaya Rajapaksa, the term in this case is considered to be the term of President Rajapaksa who was sworn in on November 18, 2019. Hence the next Presidential election should be held between September 18 and October 18 this year.
+
+...
+
+[Data](articles/e4091978.json)
+
+---
+
+### African debt crisis and lessons for Lanka
+
+*2024-03-19 04:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/African-debt-crisis-and-lessons-for-Lanka/172-279105) · `en`
+
+In the last two decades since Arrighi wrote his seminal article, Sri Lanka and many African countries have been on the same path of commercial borrowing. The process has resulted in the extraction of more wealth and further exacerbated balance of payment problems, even as the elite in these countries sprawl in luxurious consumption.
+
+Crisis and despair push us to learn rapidly and that is true of debt crisis as well. But whom do we learn from and whom do we work with to find solutions to the crisis?
+
+The IMF team in all their pomp are again visiting Sri Lanka. Their tutelage continues to be the same for us as many other countries in debt distress—austerity, repaying creditors and promoting free markets.
+
+...
+
+[Data](articles/2509bce6.json)
+
+---
 
 ### G.L. accuses Govt. of disregarding SC orders
 
@@ -2269,59 +2301,5 @@ The Central Bank owns the right to arbitrarily increase salary increase. Petrole
 [Data](articles/8ce6ee30.json)
 
 [Extended Data](ext_articles/8ce6ee30.ext.json)
-
----
-
-### In the jaffna. Catamaran ;Boat accident;Kidnapper
-
-*2024-03-18 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/179009) · `ta`
-
-A fisherman died in a boat crash in Jaffna's Vadamarachchi seas. The boat hit a fishing boat, causing damage. The police and forensic teams are investigating.
-
-🟩
-
-The fisherman has died after a boat crashed into a fisherman who was fishing in the Vadamarachchi seas in Vadamarachchi in Jaffna.
-
-When he went to the sea to fish in the early hours of last Saturday morning, a boat of the unidentified persons crashed into a boat.
-
-So that the tree was shore with damage. The search for him was carried out as the worker who went to work in the tree was missing.
-
-Due to injuries in the body of the body, the Kilinochchi Magistrate's Court and the Magistrate's Court went to the scene of the incident and asked the police to take the forensic police and make arrangements to obtain traces.
-
-He also ordered the recovery of the body and handed over to the Kilinochchi District Hospital for anatomical examination.
-
-◼️
-
-[Data](articles/9ef66791.json)
-
-[Extended Data](ext_articles/9ef66791.ext.json)
-
----
-
-### After school sports events Sinhala
-
-*2024-03-18 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194635) · `si`
-
-The Ministry of Education has advised schools to hold online holidays during the April New Year's holidays due to warm weather. Education Minister Susil Premjages announced a circular today, emphasizing the need for safety, especially after a two-week delay. The Department of Meteorology predicts warm weather in several provinces, with temperatures reaching 38.3 degrees, affecting both children and adults.
-
-🟩
-
-The Ministry of Education has informed principals to conduct school online holiday in April New Year's holidays, with the highly warmly warm weather.
-
-Minister of Education Susil Premjages said that the relevant circular will be released today (18).
-
-"I was released by a statement. However, today is released to school through provincial authorities. To postpone the same way from the year. Because the situation can be different from that. It's been about two weeks later after the year ended. We need to pay more attention to the safety of the children "
-
-Meanwhile, the highest temperature has been 38.3 degrees as 38.3 degrees in the 24 hours of the last 24 hours.
-
-The Department of Meteorology said that there is a warm weather in the next few days in the next few days, the North Western, North Central, East, Western provinces.
-
-The temperature in a normal human body is 37 degrees, and the body is hot this morning due to overriding body temperature body temperature.
-
-...
-
-[Data](articles/af1dc4c0.json)
-
-[Extended Data](ext_articles/af1dc4c0.ext.json)
 
 ---

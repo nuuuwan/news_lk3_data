@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 10:02:51**
+As of **2024-03-18 10:17:57**
 
 ## Newspaper Stats
 
-*Scraped **13,515** Articles*
+*Scraped **13,519** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 dailyftlk | 713
 economynextcom | 713
 islandlk | 745
-adalk | 1,157
+adalk | 1,158
 adaderanalk | 1,630
 tamilmirrorlk | 1,654
 virakesarilk | 1,875
-dailymirrorlk | 2,057
+dailymirrorlk | 2,060
 adaderanasinhalalk | 2,144
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,515 (100.0%) of 13,515 articles have been extended.
+13,515 (100.0%) of 13,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### Stalin criticizes Modi for lack of pressure on Sri Lanka regarding fishermen’s issues
+
+*2024-03-18 09:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Stalin-criticizes-Modi-for-lack-of-pressure-on-Sri-Lanka-regarding-fishermens-issues/108-279044) · `en`
+
+Tamil Nadu, March 18 (Deccan Herald) - Chief Minister M.K.Stalin of Tamil Nadu criticized Prime Minister Narendra Modi on Saturday and questioned why the Union Government did not exerted pressure on the Sri Lankan government for the restoration of traditional rights for Indian fishermen in the Palk Straits with the same vigor it displayed with Sri Lanka in protecting the business interests of Gautam Adani.
+
+The Chief Minister's remarks come in response to Prime Minister Modi's recent statements that the 'sins' committed by the DMK was the reason for the sufferings of fishermen from Tamil Nadu, seeking to know the steps taken by the Union Government in the last 10 years to restore the traditional rights of the fishermen in the Palk Straits, the Deccan Herald reported.
+
+...
+
+[Data](articles/5968915c.json)
+
+---
 
 ### Russian election;Vladimir Muthan became the 5th time
 
@@ -143,6 +157,24 @@ The founding batsman Litton Das has also been removed from the squad today.
 [Data](articles/f791e4bd.json)
 
 [Extended Data](ext_articles/f791e4bd.ext.json)
+
+---
+
+### Vladimir Putin claims landslide Russian election victory
+
+*2024-03-18 08:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Vladimir-Putin-claims-landslide-Russian-election-victory/107-279043) · `en`
+
+Russia, March 18 (The Guardian) - Vladimir Putin has claimed a landslide victory in Russia’s presidential vote, as thousands in the country and around the world protested against his deepening dictatorship, the war in Ukraine and a stage-managed election that could have only one winner.
+
+In a vote denounced by the United States as “obviously not free nor fair”, Putin won 87% of the vote, according to exit polling published by the state-run Russian Public Opinion Research Center and the Public Opinion Foundation.
+
+In a speech at his campaign headquarters on Sunday evening, Putin brushed off western criticism of the elections, telling his supporters it was “expected”.
+
+“What did you want, for them to applaud us? They’re fighting with us in an armed conflict … their goal is to contain our development. Of course they’re ready to say anything,” he said.
+
+...
+
+[Data](articles/c97e63a4.json)
 
 ---
 
@@ -1670,6 +1702,26 @@ They have no choice of giving. He also said that they were struggling to come to
 
 ---
 
+### රෝහිතගෙන් විජිතට නඩුවක්
+
+*2024-03-17 20:01:12* · [`adalk`](https://www.ada.lk/breaking_news/රෝහිතගෙන්-විජිතට-නඩුවක්/11-408660) · `si`
+
+කෝප් කමිටුවේ සභාපති ධුරය පිළිබඳව ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයන්ට සිදු කළ ප්‍රකාශය සම්බන්ධයෙන් පාර්ලිමේන්තු මන්ත්‍රී විජිත හේරත් මහතාට එරෙහිව අධිකරණ ක්‍රියා මාර්ග ගන්නා බව කෝප් කමිටුවේ නව සභාපති රෝහිත අබේගුණවර්ධන මහතා ප්‍රකාශ කළේය .
+
+ඒ මහතා එසේ ප්‍රකාශ කළේ ඒ සම්බන්ධයෙන් කළුතරදී පැවැති මාධ්‍ය හමුවකදීය.
+
+"ඉකුත් 14 වැනිදා පාර්ලිමේන්තු මන්ත්‍රී විජිත හේරත් මහතා මාධ්‍ය හමුවක් පවත්වමින් ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයන් සමග ඔවුන් සාකච්ඡා කළ බවත් ,එහිදී කෝප් කමිටුවේ වර්තමාන සභාපතිවරයා වන තමා දූෂණ චෝදනාවලට මෙන්ම විවිධ චෝදනාවලට ලක්වූ අයෙකු බවත් කියා සිටියා .
+
+මේ වනවිට මට කිසිදු අධිකරණයක නඩුවක් හෝ චෝදනාවක් නැහැ .විජිත හේරත් මහතා සිදු කළ මෙම ප්‍රකාශය පිළිබඳව එන්තරවාසියක් යැවීමට කටයුතු කරනවා .ඉන්පසු අධිකරණ ක්‍රියා මාර්ග ගන්නවා .
+
+ජනතා විමුක්ති පෙරමුණ දිගින් දිගටම මෙම ප්‍රකාශ කරනුයේ ඊර්ෂ්‍යාව නිසයි .කෙනෙකුට චෝදනාවක් කරන විට ඒ පිළිබඳව යම් අවබෝධයකින් කටයුතු කළ යුතුයි .
+
+...
+
+[Data](articles/96686dda.json)
+
+---
+
 ### Two persons arrested for producing phosphot for underworld leaders
 
 *2024-03-17 19:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதாள-தலைவர்களுக்கு-பாஸ்போட்-தயாரித்த-இருவர்-கைது/175-334815) · `ta`
@@ -1755,6 +1807,22 @@ The suspects have been arrested according to an investigation conducted under th
 [Data](articles/02555ac0.json)
 
 [Extended Data](ext_articles/02555ac0.ext.json)
+
+---
+
+### CID arrests Immigration Deputy Controllers for issuing fake passports to criminals
+
+*2024-03-17 19:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/CID-arrests-Immigration-Deputy-Controllers-for-issuing-fake-passports-to-criminals/155-279014) · `en`
+
+Colombo, March 17 (Daily Mirror) - A Deputy Controller and a former Deputy Controller of the Department of Immigration and Emigration were arrested by the Criminal Investigation Department for issuing passports to underworld criminals Nuresh Supun Dayaratne alias 'Heenatiyana Mahesh' and Shan Arosh Liyanage alias 'Mathugama Shan' based on false information.
+
+Police said one of the two arrested suspects is to be produced before the Vavuniya Magistrate's Court and the other suspect before the Kaduwela Magistrate's Court.
+
+The suspects have been arrested according to an investigation conducted under the supervision DIG of the CID Rohan Premaratne.
+
+...
+
+[Data](articles/0c5ed7d0.json)
 
 ---
 
@@ -2161,105 +2229,5 @@ Meanwhile, more than 1600 people were killed and more than 4,000 were injured an
 [Data](articles/99d69807.json)
 
 [Extended Data](ext_articles/99d69807.ext.json)
-
----
-
-### 21 killed in Afghanistan
-
-*2024-03-17 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194603) · `si`
-
-21 killed in Afghanistan accident. 38 injured. Over 1600 killed, 4000+ injured in accidents over past 10 months.
-
-🟩
-
-21 persons have been killed in an accident in the Hellmand province of Afghanistan.
-
-Foreign media has reportedly clashed with a motorcycle and fuel bus collided with a motorcycle and fuel bowl.
-
-38 others were injured in the accident and hospitalized.
-
-Meanwhile, more than 1600 people were killed and more than 4,000 were injured and another 4,000 were injured in accidents in Afghanistan over the past 10 months.
-
-◼️
-
-[Data](articles/aea864b6.json)
-
-[Extended Data](ext_articles/aea864b6.ext.json)
-
----
-
-### Sri Lanka negotiating PPA for J/V solar power plant with India’s NTPS
-
-*2024-03-17 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-negotiating-ppa-for-j-v-solar-power-plant-with-indias-ntps-154920/) · `en`
-
-ECONOMYNEXT – Sri Lanka is negotiating a power purchase agreement with a joint venture solar power company with India’s National Thermal Power Corporation in Sampur, Energy Minister Kanchana Wijesekera said.
-
-“The Sampur project power purchase agreement we are hoping to sign this year,” Minister Wijesekera told reporters last week.
-
-“The negotiations are ongoing in the modalities. It is not an India project per se, 51 percent of the company is with the CEB. We are looking forward to signing the power purchase agreement and starting construction immediately after that.”
-
-However some infrastructure developments, including a transmission line has to be done in parallel, he said.
-
-“So we are looking into different financial institutions. We have had discussions with AIIB, to finance part of it,” Minister Wijesekera said.
-
-...
-
-[Data](articles/f313f830.json)
-
-[Extended Data](ext_articles/f313f830.ext.json)
-
----
-
-### Elephant attack two
-
-*2024-03-17 16:32:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானை-தாக்கி-இருவர்-மரணம்/175-334808) · `ta`
-
-Two deaths occurred: an elephant attack in the Divisional Secretariat Division and a cow farm incident in Adittiaveli, involving Pathmanathan Mohanadas, 45, and Nagarasa Muralitharan, 31, from Kulathupettai. The bodies are being examined at Batticaloa Teaching Hospital and Banana Senal Hospital.
-
-🟩
-
-Elephant Divisional Secretariat Division Divisional Divisional Secretariat Division has died on Saturday (16) and Gran Divisional Secretariat Division in the early hours of Sunday morning.
-
-MSM Nazir, K.. Pavalakesan has gone directly to the scene with Karadiyanaru and Sandiweli police.
-
-Pathmanathan Mohanadas (45), the father of two children from Siddhanti, who was involved in a cow farm in Adittiaveli, was on the spot when a relative of a relative was walking towards the farm and walking towards the farm at around 9 pm.
-
-In addition, a father of a child named Nagarasa Muralitharan (age 31) from Kulathupettai, Kulathupettai, was killed by a friend at midnight and died on the spot when he was lying under a tree in the early hours of the pond.
-
-It is noteworthy that the two bodies will be sent to the Batticaloa Teaching Hospital and the Banana Senal Hospital for anatomical examination and the bodies will be handed over to relatives after the autopsy.
-
-◼️
-
-[Data](articles/7f07de4a.json)
-
-[Extended Data](ext_articles/7f07de4a.ext.json)
-
----
-
-### Box with a stock of hairs
-
-*2024-03-17 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194602) · `si`
-
-Police arrested drug dealer Busky with 805 milligrams of ice, a racketeer, and two swords. The Western Province Corruption Unit conducted the raid. Busky, a 37-year-old from Borella, is in court, and further investigations are ongoing.
-
-🟩
-
-Police have arrested a drug dealer named Busky.
-
-There were 805 milligrams of ice in his possession.
-
-Police have also seized a racketeer and two swords in the possession of the drug dealer called the suspect.
-
-The suspect was arrested following a raid conducted by the Western Province Corruption Unit in line with justice.
-
-Speaking further, the drug dealer called the suspect is a drug dealer in the racket.
-
-The suspect is due to be produced in court, a 37-year-old area of Borella. The Western Province Corruption Division is conducting further investigations.
-
-◼️
-
-[Data](articles/16b5a5a6.json)
-
-[Extended Data](ext_articles/16b5a5a6.ext.json)
 
 ---

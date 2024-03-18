@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 19:03:00**
+As of **2024-03-18 19:17:59**
 
 ## Newspaper Stats
 
-*Scraped **13,627** Articles*
+*Scraped **13,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,52 @@ newsfirstlk | 363
 dailyftlk | 713
 economynextcom | 721
 islandlk | 746
-adalk | 1,175
+adalk | 1,176
 adaderanalk | 1,640
 tamilmirrorlk | 1,658
 virakesarilk | 1,903
 dailymirrorlk | 2,079
-adaderanasinhalalk | 2,164
+adaderanasinhalalk | 2,166
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,627 (100.0%) of 13,627 articles have been extended.
+13,627 (100.0%) of 13,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### මුෂ්ෆිකර් යළි ගේම ඉල්ලයි
+
+*2024-03-18 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194648) · `si`
+
+තීරණාත්මක තරගය කඩුලු 4කින් ජය ගත් බංග්ලාදේශය ශ්‍රී ලංකාවට එරෙහිව පැවති තරග 3කින් සමන්විත  තරගාවලිය 2ට එකක් ලෙස ජය හිමිකර ගත්තේය.
+
+බංග්ලාදේශ කණ්ඩායම ජයග්‍රහණය සමරන අවස්ථාවේදී මුෂ්ෆිකර් රහීම් හෙල්මටයක් රැගෙන පැමිණ, මින් පෙර මතභේදයට තුඩුදුන් ටයිම් අවුට් සිද්ධිය යළි සිහිපත් කළ අයුරු පහතින්.
+
+◼️
+
+[Data](articles/38067902.json)
+
+---
+
+### හෙරොයින් ජාවාරම්කරුට දුන් දඬුවම ශ්‍රේෂ්ඨාධිකරණය තහවුරු කරයි
+
+*2024-03-18 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194647) · `si`
+
+හෙරොයින් ග්‍රෑම් 2.42ක් තම සන්තකයේ තබා ගනිමින් ජාවාරම් කිරීමේ චෝදනාවට වරදකරු කෙරුණු විත්තිකරුවෙකුට කොළඹ මහාධිකරණය විසින් පනවනු ලැබූ ජීවිතාන්තය දක්වා වූ සිර දඬුවම ශ්‍රේෂ්ඨාධිකරණය විසින්  තහවුරු කර තිබේ.
+
+අදාළ විත්තිකරු විසින් ඉදිරිපත් කළ අභියාචනා පෙත්සමක් නිෂ්ප්‍රභ කරමින් ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් එම තීන්දුව ලබා දුන්නේය.
+
+පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශය විසින් සිදුකළ වැටලීමකදී මෙම විත්තිකරු අත්අඩංගුවට ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/74a5c91c.json)
+
+---
 
 ### Paediatrician warns of risks from matching environment-body temperatures
 
@@ -867,6 +897,20 @@ On Sunday (17), Minister of Education Susil Premajayantha said school principals
 [Data](articles/edfbf8aa.json)
 
 [Extended Data](ext_articles/edfbf8aa.ext.json)
+
+---
+
+### මහ බැංකු අධිපතිගේ කැරට් අලය අමු වැඩියි
+
+*2024-03-18 14:15:33* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකු-අධිපතිගේ-කැරට්-අලය-අමු-වැඩියි/11-408676) · `si`
+
+මහ බැංකුව වැඩිකරගත් සියයට 70ක වැටුප් වැඩිවීමෙන් සියයට 25ක් අඩු කර ගැනීමට තිරණය කළත් එය සිදුකරන්නේ මහ බැංකුවේ අත්තනෝමතික වැටුප් වැඩි කර ගැනිමට එරෙහි පනත සම්මත වීම වැළැක්වීමට යැයි පාර්ලිමේන්තු මන්ත්‍රි උදය ගම්මන්පිල මහතා පවසයි. කොළඹදී පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඔහු මේ බව පැවැසීය.
+
+"මහ බැංකුව සිය නිලධාරින්ට වැඩි කළ අසාමාන්‍ය වැටුප් වැඩිවීම අහෝසි කරන්නත් ඉදිරියට අත්තනෝමතිකව වැටුප් වැඩි කර ගැනීමට නොහැකි වීමටත් අපි ඉදිරිපත් කළ පනතට බය වෙලා අපිව නතර කරන්න 25%කින් වැටුප් අඩු කර ගන්න තීරණය කරලා.  මහ බැංකු අධිපතිතුමනි, ඒ කැරට් අලය නම් අමු වැඩියි.  දිරවා ගන්න අමාරුයි.  25%කින් වැටුප් අඩු කරගෙන අපිව රවට්ටලා මේ උත්සාහ කරන්නේ අපේ පනත සම්මත වෙන එක වලක්වන්නයි.
+
+...
+
+[Data](articles/8ce6ee30.json)
 
 ---
 
@@ -2287,67 +2331,5 @@ The suspect had suspended the suspect to commit suicide after the assassination.
 [Data](articles/cc86f085.json)
 
 [Extended Data](ext_articles/cc86f085.ext.json)
-
----
-
-### ’A whole family ripped apart’: Mourners gather to remember victims of Ottawa mass killing
-
-*2024-03-18 10:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/A-whole-family-ripped-apart-Mourners-gather-to-remember-victims-of-Ottawa-mass-killing/108-279046) · `en`
-
-Some 200 people showed up at a public multi-faith funeral service in Ottawa Sunday to mourn the six people killed more than a week ago in the city's Barrhaven suburb.
-
-Organized by the Buddhist Congress of Canada (BCC), the service at the Infinity Convention Centre paid tribute to the victims: a family of newcomers to Canada from Sri Lanka and their friend.
-
-According to police, four children and two adults were killed inside a suburban townhouse in south Ottawa on March 6.
-
-Darshani Dilanthika Ekanayake, 35, was killed along with her three daughters — three-year-old Ranaya, four-year-old Ashwini, and two-month-old Kelly — and her seven-year-old son Inuka.
-
-The body of a family friend, 40-year-old Gamini Amarakoon, who'd recently arrived in Canada from Sri Lanka, was also found at the scene.
-
-Dhanushka Wickramasinghe, the family's father, survived the attack. He was injured with an edged weapon and taken to hospital.
-
-...
-
-[Data](articles/86aea1ca.json)
-
-[Extended Data](ext_articles/86aea1ca.ext.json)
-
----
-
-### Speaker to reveal inside details of Aragalaya on Wednesday
-
-*2024-03-18 10:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Speaker-to-reveal-inside-details-of-Aragalaya-on-Wednesday/108-279047) · `en`
-
-Colombo, March 18 (Daily Mirror)- Speaker Mahinda Yapa Abeywardena who is going to face a no confidence motion on Wednesday is to reveal inside details on Aragalaya including how he was pressed by some politicians to take over the presidency in violation of the constitution.
-
-Speaker's Media Secretary Indunil Yapa Abeywardena told Daily Mirror that he will reveal these facts and some other recent happenings in a special statement in Parliament after the vote is taken up on the no faith motion against him.
-
-The Spokesman from the Speakers office told Daily Mirror that he has decided to make a special statement as he cannot participate in the debate as per the standing orders.
-
-◼️
-
-[Data](articles/c85ad3de.json)
-
-[Extended Data](ext_articles/c85ad3de.ext.json)
-
----
-
-### Ballot boxes for Malvides’ elections to be placed in India, Sri Lanka & Malaysia
-
-*2024-03-18 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98023/ballot-boxes-for-malvides-elections-to-be-placed-in-india-sri-lanka-malaysia) · `en`
-
-The ballot boxes for Maldives’ upcoming parliamentary elections will be placed in India, Sri Lanka and Malaysia, after around 11,000 Maldivians submitted re-registration requests to relocate their polling stations, the country’s election commission announced on Sunday.
-
-The six-day window for people to relocate their voting stations for the April 21 parliamentary elections expired on Saturday, media reports said, citing an Elections Commission notification.
-
-The top electoral body said that ballot boxes for the island nation’s elections will also be placed in Trivandrum (Thiruvananthapuram), the capital of Kerala, Sri Lanka’s Colombo and Malaysia’s Kuala Lumpur after at least 150 people re-register to vote in each of the three countries.
-
-“As previously, enough people registered in Sri Lanka and Malaysia. And since 150 people had registered in Trivandrum, India, we have decided to set up a ballot box there,” web portal adadhu.com quoted EC’s secretary-general Hassan Zakariyya as saying.
-
-...
-
-[Data](articles/b5ba2f54.json)
-
-[Extended Data](ext_articles/b5ba2f54.ext.json)
 
 ---

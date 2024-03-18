@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 10:51:21**
+As of **2024-03-18 11:02:51**
 
 ## Newspaper Stats
 
-*Scraped **13,529** Articles*
+*Scraped **13,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 713
 economynextcom | 713
 islandlk | 745
-adalk | 1,159
+adalk | 1,160
 adaderanalk | 1,631
-tamilmirrorlk | 1,654
+tamilmirrorlk | 1,655
 virakesarilk | 1,879
 dailymirrorlk | 2,063
 adaderanasinhalalk | 2,145
@@ -26,41 +26,73 @@ adaderanasinhalalk | 2,145
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,519 (99.9%) of 13,529 articles have been extended.
+13,529 (100.0%) of 13,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### மட்டு. போதனா வைத்தியசாலையில் புற்றுநோய் சிகிச்சை பிரிவில் மேலதிக சேவைகள் இடைநிறுத்தம் !
+### ‘அக்கல’உண்ட மூவருக்கு ஆபத்து
 
-*2024-03-18 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178985) · `ta`
+*2024-03-18 10:46:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அக்கல-உண்ட-மூவருக்கு-ஆபத்து/175-334825) · `ta`
 
-மட்டக்களப்பு போதனா வைத்தியசாலையில் புற்றுநோய் சிகிச்சை பிரிவில் நோயாளர்களுக்கு வழங்கப்படும் மேலதிக சேவைகள் இன்று திங்கட்கிழமை (18) முதல் இடைநிறுத்தப்பட்டுள்ளதாக அரச கதிரியல் தொழிநுட்பவியலாளர் சங்கம் தெரிவித்துள்ளது.
+உலர் அரிசியில் தயாரிக்கப்பட்ட அக்கல சாப்பிட்ட மூவர் கடுமையாக பாதிக்கப்பட்ட நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
 
-மட்டக்களப்பு போதனா வைத்தியசாலையில் புற்றுநோய் சிகிச்சை பிரிவில் கடமை புரியும் கதிர் வீச்சு சிகிச்சையாளர்களுக்கு  வழங்க வேண்டிய மேலதிக சேவைக்கால கொடுப்பனவை வைத்தியசாலை நிருவாகம் தமக்கு வழங்குவதில்லை எனத் தெரிவித்து மேலதிக சேவைகளை இடைநிறுத்தியுள்ளனர்.
+மீகஹகிவுல கனுகொல்ல கிராமத்தைச் சேர்ந்த ஒரே குடும்பத்தைச் சேர்ந்த மூவரே இவ்வாறு பாதிக்கப்பட்டுள்ளனர்.  கோமரிக்க கனுகொல்ல கிராமத்தில் வசிக்கும் 14, 34 மற்றும் 28 வயதுடைய மூவரே இவ்வாறு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
 
-இதே பதவி நிலையில் உள்ள உத்தியோகத்தர்களுக்கு  ஏனைய வைத்தியசாலையில் இக்கொடுப்பனவு வழங்கப்பட்டு வரும் நிலையில் தமக்கு மாத்திரம் வழங்கப்படுவதில்லை என கதிர் வீச்சு சிகிச்சையாளர்கள் தெரிவித்தனர்.
+உலர்ந்த அரிசி, தேங்காய், சீனி போன்றவற்றைக் கொண்டு தயாரிக்கப்பட்ட அக்கலவை, ஞாயிற்றுக்கிழமை (17) மாலையில்   உட்கொண்டு தேநீர் அருந்தியுள்ளனர். அதன்பின்னர் அதிக வாந்தி எடுத்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
 
-இதனால் மட்டக்களப்பு, திருகோணமலை, அம்பாறை மற்றும் ஏனைய சில மாவட்டங்களிலிருந்து சிகிச்சை பெற வரும் நோயாளர்கள் பாதிக்கப்படலாம் எனவும் தெரிவித்துள்ளனர்.
+◼️
 
-...
-
-[Data](articles/3320144c.json)
+[Data](articles/7398d233.json)
 
 ---
 
-### தமிழ் மக்களின் பாரம்பரிய நிலத்தினை சிதைத்து அவற்றை சிங்கள பௌத்த அடையாளங்களால் உருமாற்றம்  செய்து தமிழர் தாயகம் உரிமை கோரிக்கையை சிதைக்க முயற்சி -வெடுக்குநாறி சம்பவங்கள் குறித்து பிரித்தானிய தமிழர் பேரவை
+### Bore. Additional services suspended in the Cancer Treatment Unit at Teaching Hospital!
+
+*2024-03-18 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178985) · `ta`
+
+Additional services at Batticaloa Teaching Hospital, including Radiotherapy, suspended from Monday. This affects patients in Batticaloa, Trincomalee, Ampara, and more. The Radiation Technology Association has requested the Ministry of Health to reinstate the allowance.
+
+🟩
+
+Additional services provided to patients at the Teaching Hospital in Batticaloa have been suspended from Monday (18), the State Radiation Technology Association said.
+
+The Additional Service Payment of Radios Therapists at the Batticaloa Teaching Hospital in Batticaloa has been suspended.
+
+Radiator therapists said that they would not be given only as they were being provided with the other hospital in the same position.
+
+As a result, patients from Batticaloa, Trincomalee, Ampara and other districts may be affected.
+
+The President of the Radiopian Technology Association said that the Secretary of the Ministry of Health and the Director General of the Ministry of Health has been instructed to issue this allowance for the last two months.
+
+◼️
+
+[Data](articles/3320144c.json)
+
+[Extended Data](ext_articles/3320144c.ext.json)
+
+---
+
+### British Tamil Congress on the occasion of the traditional land of the Tamil people
 
 *2024-03-18 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/178984) · `ta`
 
-வெடுக்குநாறிமலை ஆலய சிவராத்திரி வழிபாட்டு நிகழ்வில் பொலிஸாரால் ஏற்படுத்தப்பட்ட தடங்கல்கள் தொடர்பில் பிரித்தானிய தமிழர் பேரவை கண்டனம்வெளியிட்டுள்ளது
+The British Tamil Congress criticizes police obstacles at a Shivaratri ceremony, condemns land grabbing and threats by Sri Lankan authorities, and demands the release of arrested temple priest and pilgrims. It highlights the state's threats to Tamils and the transformation of Tamil land and identity. The government's actions are seen as promoting ethnic conflicts and weakening the Tamil nation.
 
-சிறிலங்கா அரசும் அதன்  இராணுவஇ போலீஸ் நிர்வாகங்களும் தொடர்ச்சியாக தமிழர்களுக்கு எதிராக மேற்கொண்டு வரும் கைதுகள் நில அபகரிப்பு மற்றும் பொது மக்களின் அன்றாட செயற்பாடுகளில் ஏற்படுத்தப்படும் அச்சுறுத்தல்கள் இடையூறுகள் தொடர்பில் பிரித்தானிய தமிழர் பேரவை கண்டனத்தை தெரிவித்து கொள்கிறது.
+🟩
+
+British Tamil Congress has condemned the obstacles imposed by the police at the Shivaratri worship ceremony of the temple
+
+The Sri Lankan government and its military and police administrations have repeatedly condemned the British Tamil Congress on the issue of land grabbing and threats in the daily activities of the public.
+
+The arrest of the temple priest and the pilgrims who attended the Shivaratri worship ceremony of the last Vedukkunnarimalai temple was condemned and all of them should be released immediately.. Moreover, according to the court's decision, the state administration, which has to take appropriate legal proceedings, has been threatening the Tamil people who have been worshiping for decades for decades.. Today, it has been relegated to the fact that the Sinhalese nation ignored the reality that the oppression was forced to fight our people.
 
 ...
 
 [Data](articles/831b251a.json)
+
+[Extended Data](ext_articles/831b251a.ext.json)
 
 ---
 
@@ -78,69 +110,95 @@ Bandara said the presidential poll should be conducted on a day between Septembe
 
 [Data](articles/38f32363.json)
 
+[Extended Data](ext_articles/38f32363.ext.json)
+
 ---
 
-### நாட்டை தங்கள் கட்டுப்பாட்டின் கீழ் வைத்துள்ள சிறிய குழுவினர் மாற்றங்களை தடுக்கின்றனர் - தேசிய மக்கள் சக்தி நாடாளுமன்ற உறுப்பினர் ஹரிணி
+### The small group of small group of people under their control prevents changes - National People's Power Member Harini
 
 *2024-03-18 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178983) · `ta`
 
-அதிகாரமாற்றம் இலகுவானதாகயிருக்கப்போவதில்லை என தெரிவித்துள்ள தேசிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் ஹரிணி அமரசூரிய மாற்றங்கள் நிகழ்வதை உயர்குழாமை சேர்ந்த சிறிய குழுவினர் தடுத்துவருகின்றனர் எனவும் தெரிவித்துள்ளார்.
+National People's Power MP Harini Amarasuriya warns that transformation in Sri Lanka won't be easy, due to a small group controlling changes. He highlights the country's strength and the need for organization to overcome this control.
 
-லண்டன் பெண்கள் மாநாட்டில் உரையாற்றுகையில் இதனை தெரிவித்துள்ள அவர் இலங்கையி;ல் கடந்த 76 வருடங்களாக இடம்பெற்ற விடயங்களிற்கு உயர்குழாமை சேர்ந்த சிறிய குழுவினரே காரணம் என தெரிவித்துள்ளார்.
+🟩
 
-இந்தசிறிய குழுவினர் இலகுவில் அதிகாரங்களை கைவிடமாட்டார்கள் தங்களை விட அந்த குழுவினரை விட தாங்கள்   பலம்வாய்ந்தவர்களாக காணப்படுகின்றனர் என்பதை மக்கள் தற்போது உணர்ந்துள்ளனர் எனவும் ஹரிணி அமரசூரிய தெரிவித்துள்ளார்.
+National People's Power MP Harini Amarasuriya has said that the transformation is not going to be easy.
 
-மாற்றங்கள் இலகுவாக நிகழப்போவதில்லை அதிகாரத்தில் உள்ள சிறிய குழுவினர் மாற்றங்கள் நிகழ்வதை தடுப்பதற்காக அனைத்தையும் செய்வார்கள் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+Speaking at the London Women's Conference, he said this was the reason for the last 76 years in Sri Lanka.
 
-ஆனால் நாட்டு மக்கள் அவர்களை விட வலுவானவர்கள் இதற்கு முன்னர் நாங்கள் எங்கள் பலத்தை உணரவில்லை,ஒரு ஒழுங்கமைக்கப்பட்ட குழுவாக மாறுவதன் கூ மூலம் நாங்கள் அவர்களை விட வலுவானவர்களாக திகழுவோம் எனவும் அவர் தெரிவித்துள்ளார்.
+Harini Amarasuriya said that people are now realizing that they are stronger than the group.
 
-...
+The changes will not happen easily.
+
+But the people of the country are stronger than them, we have not realized our strength before, and we will be stronger than them by becoming an organized group.
+
+They have destroyed this country for the past 76 years. It is our duty to end this era.
+
+◼️
 
 [Data](articles/942c424e.json)
 
+[Extended Data](ext_articles/942c424e.ext.json)
+
 ---
 
-### ජේතවන දාගැබේ හතර දිසාවට පැලුම් විවරයන් හතරක්
+### Four Power Opens in the four direction of Jethawana Dagoba
 
 *2024-03-18 10:14:24* · [`adalk`](https://www.ada.lk/religion/ජේතවන-දාගැබේ-හතර-දිසාවට-පැලුම්-විවරයන්-හතරක්/4-408664) · `si`
 
-බුදුරජාණන් වහන්සේගේ "පටිය ධාතුව" තැන්පත් කර ඇති ලොව විශාලතම ගඩොලින් තනන ලද ස්තූපය ලෙස සැලකෙන අනුරාධපුර ජේතවනාරාම ස්ථූපයේ  හතරැස් කොටුවේ සිට පහලට  සතර දෙසින් ස්ථූප ගර්භය මැද්දට විහිදී යන පරිදි සිදුව ඇති පිපිරීම් හෙවත් පැලුම් විවරයන් ඇතැයි වාර්තා වේ.
+Jethavanarama stupa, a World Heritage site, experienced a significant explosion, believed to be the largest brickly explosion of Buddha's remains. Demonstrators suggest the stupa could mirror the Buddha. The site's history dates back to the 4th century CE, and it's under the Cultural Fund since 1982. The explosion's cause is under investigation, with experts suggesting it's not uncommon for stupas to face such issues. The Director General of the Central Cultural Fund emphasizes ongoing efforts to address the situation, including consultations with local universities.
 
-මෙම පුපුරා යාම හතරැස් කුටුවේ සිට පහළට සිදුව ඇති අතර, හිඩැස්  තුළින් වර්ෂා  කාලයට ජලය ඇතුල්වීම සහ වියලි කාලයට ප්‍රසාරණය වීමත් හේතුවෙන් මේ ස්ථූපයටද මිරිස වැටිය ස්ථූපයට මෙන් අනතුරක් විය හැකි යැයි බැතිමතුන් පිරිසක් පැවසූහ.
+🟩
 
-වර්තමානයේ ජේතවනාරාම ස්තූපය ඉදිකර ඇත්තේ පැරැණි ව්‍යුහය මත නැවත ගඩොල් තැන්පත් කිරීමෙනි.සංරක්ෂණ කටයුතු සඳහා ඉහළට යා හැකි පරිදි ඉදිකර ඇති යකඩ බට සහිත ස්ථානවලට ගොස් යම් යම් පිරිස් සෙල්පි ඡායාරූප ගන්නා බවටද  චෝදනාවක් නැගේ.
+It is reported that the brick-opened explosives that are considered as the largest brickly box of the Buddha, the largest brickly fortnight of the Buddha.
 
-පුරාවිද්‍යා හා විද්වත් සෘජු මැදිහත්වීමක් ලබාදී තාවකාලික පැලැස්තර විසඳුම් ලබා නොදී ස්ථිරසාර විසඳුමක් මේ සඳහා ලබා දීමට ජනාධිපතිවරයා හෝ මැදිහත් වන ලෙසට ජනතාව ඉල්ලීමක් කරති.
+The explosion has taken place from the square chamber, and demonstrators said that the stupa could be a mirror as the stupa.
+
+At present, the Jethavanarama stupa has been built on the old structure, and it is alleged that they will take some personnel to go to the iron pipe.
+
+The people have requested the President to intervene to provide a permanent solution to this issue without providing temporary interference with archaeological and experts.
+
+King Mahasen's Day was built in the fourth century CE, Jethavanaramaya was built in height. Cultural Fund was started in 1982 and in the jatha. This stupa occupies a special place among the World Heritage Strategy.
 
 ...
 
 [Data](articles/deb71034.json)
 
+[Extended Data](ext_articles/deb71034.ext.json)
+
 ---
 
-### බෝඩිං කාමරයේදී දෙදරු මව ඝාතනයේ සැකකරු අත්අඩංගුවට
+### Suspect arrested in Boody Room
 
 *2024-03-18 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194627) · `si`
 
-සීදූව ප්‍රදේශයේ බෝඩිං කාමරයක් තුළදී දෙදරු මවක් ඝාතනය කළ සැකකරු වේදනානාශකයක් අධි මාත්‍රාවන් ලබා ගැනීමෙන් ඇති වූ රෝගී තත්ත්වයක් හේතුවෙන් රෝහල්ගත කර සිටිය දී අත්අඩංගුවට ගෙන තිබේ.
+A 27-year-old mother of two from Pamugollewa, Anuradhapura, was murdered in a boarding room on Radtuwa, Mutadadiya Road. The suspect, a resident of Balangoda, was arrested in a condition where a painting was taken to the hospital due to a painted condition in the Boeding Room in Seeduwa area. The suspect was produced before the Balangoda court and the Balangoda Base Hospital under prison officials. Preliminary investigations revealed the suspect had a casual relationship with the victim. After the murder, the suspect confessed to his friend.
 
-එලෙස අත්අඩංගුවට ගෙන ඇත්තේ අවුරුදු 22ක් වූ මඩංවල, බලංගොඩ ප්‍රදේශයේ පදිංචිකරුවෙකි.
+🟩
 
-සැකකරු බලංගොඩ අධිකරණයට ඉදිරිපත් කර ඇති අතර, බන්ධනාගාර නිලධාරීන් යටතේ බලංගොඩ මුලික රෝහලේ තවදුරටත් ප්‍රතිකාර ලබයි.
+The suspect was arrested in a condition where a painting was taken into hospital due to a painted condition of a painted condition in the Boeding Room in Seeduwa area.
 
-රද්දොළුව, මුතුවාඩිය පාරේ පිහිටි එම බෝඩිං කාමරයකදී 27 හැවිරිදි දෙදරු මව ව ඝාතනය කර තිබුණේ, පසුගිය 14 වනදාය.
+Such was a resident of Balangoda and Balangoda, Maduganga.
 
-ඇය අනුරාධපුර, පමුගොල්ලෑව ප්‍රදේශයේ පදිංචිව සිටි දෙදරු මවක් වන දිලිනි සසිකලා ප්‍රියභාෂිනී නම් කාන්තාවකි.
+The suspect was produced before the Balangoda court and the Balangoda Base Hospital under prison officials.
 
-පොලීසිය සැක කළේ, මෙම ඝාතනය සිදුකර ඇත්තේ, ඇය කලක සිට අනියම් ඇසුරක් පැවැත්වූ බවට සැකකෙරෙන 22 හැවිරිදි මෙම තරුණයා විසින් බවය.
+The 27-year-old mother of two was murdered in a boarding room on the Radtuwa, Mutadadiya Road.
 
-එම තරුණයා සීදුවේ පිහිටි මියගිය කාන්තාව ජීවත් වූ බෝඩිං කාමරයට අවස්ථා කිහිපයකදීම පැමිණ ඇති බවට මූලික පරීක්ෂණවලදී අනාවරණය වී තිබුණි.
+Dilini is a woman woman named Dilini, a mother of two, a resident of Pamugollewa area in Anuradhapura.
 
-ඝාතන සිද්ධියෙන් පසු බෝඩිං කාමරයට ගිය පොලිසියට නිරීක්ෂණය වී තිබුණේ, තොණ්ඩුවක් ද එම කාමරය තුළ සකසා තිබූ ආකාරයකි.
+The police suspect that this murder was committed by this young man who was involved in a casual to a while.
+
+Preliminary investigations have revealed that the young man had come to the bodening room where the woman died in the seedy.
+
+After the murder, the police visited the boogon room was inspected in the room.
+
+The suspect had suspended the suspect to commit suicide after the assassination.
 
 ...
 
 [Data](articles/cc86f085.json)
+
+[Extended Data](ext_articles/cc86f085.ext.json)
 
 ---
 
@@ -164,6 +222,8 @@ Dhanushka Wickramasinghe, the family's father, survived the attack. He was injur
 
 [Data](articles/86aea1ca.json)
 
+[Extended Data](ext_articles/86aea1ca.ext.json)
+
 ---
 
 ### Speaker to reveal inside details of Aragalaya on Wednesday
@@ -179,6 +239,8 @@ The Spokesman from the Speakers office told Daily Mirror that he has decided to 
 ◼️
 
 [Data](articles/c85ad3de.json)
+
+[Extended Data](ext_articles/c85ad3de.ext.json)
 
 ---
 
@@ -198,6 +260,22 @@ The top electoral body said that ballot boxes for the island nation’s election
 
 [Data](articles/b5ba2f54.json)
 
+[Extended Data](ext_articles/b5ba2f54.ext.json)
+
+---
+
+### පාතාලයට හොර පාස්පෝට් හැදූ ලොක්කෝ දෙදෙනෙක් අල්ලයි
+
+*2024-03-18 10:00:38* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලයට-හොර-පාස්පෝට්-හැදූ-ලොක්කෝ-දෙදෙනෙක්-අල්ලයි/11-408663) · `si`
+
+සංවිධානාත්මක අපරාධකරුවන්ට රටින් පිටවීම වෙනුවෙන් ව්‍යාජ ගමන් බලපත්‍ර සකසා දුන් බව කියන ආගමන විගමන දෙපාර්තමේන්තුවේ නියෝජ්‍ය පාලකවරයෙක් සහ හිටපු පාලකවරයෙක්  අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව විසින් ඊයේ සවස සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+
+මත්දව්‍ය හා සංවිධානාත්මක අපරාධකල්ලි සාමාජිකයන් දෙදෙනකුට  ව්‍යාජ ගුවන් ගමන් බලපත්‍ර සකසාදුන් බව කියන සිද්ධියක් සම්බන්ධයෙන් මෙලෙස අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/7b5b72ca.json)
+
 ---
 
 ### Stalin criticizes Modi for lack of pressure on Sri Lanka regarding fishermen’s issues
@@ -216,21 +294,27 @@ The Chief Minister's remarks come in response to Prime Minister Modi's recent st
 
 ---
 
-### ஹங்வெல்லயில் ஹெரோயின் போதைப் பொருளுடன் ஒருவர் கைது
+### One arrested with heroin in Hangwella
 
 *2024-03-18 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/178977) · `ta`
 
-ஹங்வெல்ல, பாலகேவத்தை பகுதியில் 01 கிலோகிராமிற்கும் அதிகமான ஹெரோயின் போதைப்பொருளை வைத்திருந்த சந்தேக நபர் ஒருவர் வலான ஊழல் தடுப்பு பிரிவின் அதிகாரிகளால் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police arrested a 42-year-old in Hangwella with over 1 kg of heroin, 03 mobile phones, 05 bank accounts, and 04 bank cards. The suspect, from Pantikambola, was linked to a drug trafficker in prison.
 
-பிரந்திகம்பொல பிரதேசத்தில் வசிக்கும் 42 வயதான சந்தேக நபர்  நேற்று ஞாயிற்றுக்கிழமை (17) காலை வலான ஊழல் தடுப்பு பிரிவின் அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-சந்தேகநபரிடம் இருந்து 01 கிலோ 03 மில்லிகிராம் ஹெரோயின், போதைப்பொருள் கடத்தலுக்கு பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் 03 கையடக்க தொலைபேசிகள்,  05 வங்கி கணக்கு புத்தகங்கள் மற்றும் 04 வங்கி அட்டை கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police have arrested a suspect who had more than 1 kilogram of heroin drugs in the Hangwella, Balakewatte area, police said.
 
-கைது செய்யப்பட்ட சந்தேகநபர் சிறையில் அடைக்கப்பட்டுள்ள போதைப்பொருள் கடத்தல்காரருடன் நெருங்கிய தொடர்புடையவர் என விசாரணைகளின் மூலம் தெரியவந்துள்ளது.
+A 42 -year -old suspect, who lives in Pantikambola area, was arrested on Sunday morning (17) on the basis of information received by officials of the Valana Corruption Unit.
+
+Police said 03 mobile phones, 05 bank account books and 04 bank cards suspected to have been used for drug trafficking 01 kg of heroin, 01 kg of 03 milligrams from the suspect.
+
+Investigations have revealed that the arrested suspect was closely related to the drug trafficker who was imprisoned.
 
 ◼️
 
 [Data](articles/e584dd50.json)
+
+[Extended Data](ext_articles/e584dd50.ext.json)
 
 ---
 
@@ -2129,51 +2213,5 @@ Investigations have uncovered that the suspect, a Deputy Controller of the Immig
 [Data](articles/9a250165.json)
 
 [Extended Data](ext_articles/9a250165.ext.json)
-
----
-
-### Dy. Immigration Controller and ex-Dy. Controller arrested for providing fake passports to underworld figures
-
-*2024-03-17 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98015/dy-immigration-controller-and-ex-dy-controller-arrested-for-providing-fake-passports-to-underworld-figures) · `en`
-
-A Deputy Controller of Immigration & Emigration and a former Deputy Controller have been arrested by the CID for providing passports based on false information to underworld figures Nuresh Supun Dayaratne alias “Heenatiyana Mahesh” and Shan Arosh Liyanage alias “Mathugama Shan”, police said today.
-
-One of the two arrested suspects is to be produced before the Vavuniya Magistrate’s Court and the other suspect before the Kaduwela Magistrate’s Court.
-
-The suspects have been arrested based on an investigation conducted under the supervision of the DIG in charge of the Criminal Investigation Department (CID), Rohan Premaratne.
-
-Investigations have uncovered that the suspect, a Deputy Controller of the Immigration and Emigration Department, had provided Nuresh Supun Dayaratne alias “Heenatiyana Mahesh” with a fake passport prepared under a false name.
-
-...
-
-[Data](articles/fd8e7981.json)
-
-[Extended Data](ext_articles/fd8e7981.ext.json)
-
----
-
-### Two arrested for underworld
-
-*2024-03-17 18:42:36* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලයට-යතුරු-පැදි-දුන්-දෙදෙනෙක්-අල්ලයි/11-408656) · `si`
-
-Two individuals arrested in Pitipana, Homagama, for drug possession and motorbike theft. Police found 600 mph, 20 m motorcycle numbers and drugs. Suspects linked to underworld leaders. Investigations revealed theft of motorbikes and involvement in crimes.
-
-🟩
-
-Two persons who were arrested in the Pitipana, Homagama was arrested in Pitipana, Homagama, Homagama, a large number of drugs in the Pitipana.
-
-Police have seized 600 mph, 20 m motorcycle numbers and two motorcycle numbers were in possession of the suspects.
-
-A complaint that a motorbike has been misplaced into the Pitipana, Homagama, Pitipana, a motorbike was missing near the CD-camera footage of the Pitipana, a motorbike was missing in Homagama.Police said.
-
-Investigations have revealed about relations with several underworld leaders in investigations carried out by them.
-
-Further investigations were carried out on the detention orders obtained from the Homagama Court regarding the detention orders of the Homagama Court on January 23 when one of these suspects visited the prison.By him. Police said that the suspects were involved in theft of motorbikes with the underworld leader, who had been identified by a VertSap phone call received by a telephone number received by a telephone number.
-
-...
-
-[Data](articles/de9aeb4c.json)
-
-[Extended Data](ext_articles/de9aeb4c.ext.json)
 
 ---

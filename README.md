@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 19:33:24**
+As of **2024-03-18 19:51:12**
 
 ## Newspaper Stats
 
-*Scraped **13,631** Articles*
+*Scraped **13,639** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,127 @@ dailyftlk | 713
 economynextcom | 721
 islandlk | 746
 adalk | 1,176
-adaderanalk | 1,641
-tamilmirrorlk | 1,658
+adaderanalk | 1,642
+tamilmirrorlk | 1,660
 virakesarilk | 1,903
-dailymirrorlk | 2,079
-adaderanasinhalalk | 2,166
+dailymirrorlk | 2,081
+adaderanasinhalalk | 2,169
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,630 (100.0%) of 13,631 articles have been extended.
+13,631 (99.9%) of 13,639 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### වැඩිකරගත් වැටුප ගැන මහ බැංකු සේවකයින් ගැනීමට යන තීරණය
+
+*2024-03-18 19:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194651) · `si`
+
+තමන් වැඩිකරගත් වැටුප් යම් ප්‍රතිශතයකින් යළි අඩු කිරීම පිළිබඳව මහ බැංකු පාලනාධිකාරිය සේවකයන් සමඟ සාකච්ඡා ආරම්භ කර ඇතැයි මහ බැංකු අභ්‍යන්තර ආරංචි මාර්ග පවසයි.
+
+කෙසේ වෙතත් අද (18) පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය නාලක ගොඩහේවා මහතා පැවසුවේ මහ බැංකු වෘත්තිය සමිති ඊට විරෝධය පළකර ඇති බවයි.
+
+ශ්‍රී ලංකා මහ බැංකු සේවකයන්ගේ වැටුප් 70%කින් පමණ වැඩිකර ගැනීම හා ඒ වෙනුවෙන් මාසිකව අමතර රුපියල් මිලියන 232ක් වැය කිරීමට සිදුවීම සම්බන්ධයෙන් කැබිනට් මණ්ඩලය, දේශපාලන පක්ෂ ඇතුළු පාර්ශ්ව රැසකින් දැඩි විරෝධයක් එල්ල වුණි.
+
+එවන් පසුබිමක ඒ පිළිබඳ ප්‍රශ්න කිරීමට මහ බැංකු ප්‍රධානින් කැබිනට් මණ්ඩලයට, පාර්ලිමේන්තුවේ පක්ෂ නායක රැස්වීමට සහ රජයේ මුදල් පිළිබඳ පාර්ලිමේන්තු කාරක සභාව හමුවටද පසුගියදා කැඳවනු ලැබීය.
+
+◼️
+
+[Data](articles/6b765558.json)
+
+---
+
+### State Astrologers’ Committee refutes allegations of faulty auspicious times for New Year
+
+*2024-03-18 19:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/State-Astrologers-Committee-refutes-allegations-of-faulty-auspicious-times-for-New-Year/108-279085) · `en`
+
+Colombo, March 18 (Daily Mirror)- Refuting allegations of faulty auspicious times during the Sinhala and Tamil New Year, the State Astrologers’ Committee justified the designation of auspicious times for performing Sinhala New Year rituals at night, claiming that they wanted the most suitable time for the rituals despite practical difficulties.
+
+Committee member astrologer G.M. Gunapala told a news conference at the Government Information Department that the sun's transit occurs at 9.05 pm on April 13 and that the New Year rituals must be designated during the auspicious time within six hours and twenty-four minutes from 9.05 pm when the sun's transit occurs.
+
+He said the auspicious times were designated at night during the six hours and twenty-four minutes avoiding the Raahu Kalaya.
+
+...
+
+[Data](articles/8d7a82b1.json)
+
+---
+
+### රේගු වෘත්තීය සමිති ක්‍රියාමාර්ගයෙන් වරාය සිරවෙයි
+
+*2024-03-18 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194650) · `si`
+
+රේගු නිලධාරීන් ආරම්භකර ඇති වෘත්තිය ක්‍රියාමාර්ගය හේතුවෙන් ආනයනික භාණ්ඩ ඇතුළත් බහාලුම් තුන්දහස් පන්සියයක් පමණ මේ වනවිට දින හතරක සිට කොළඹ වරායේ සිරවී ඇති බව වාර්තා වෙයි.
+
+රේගු නිලධාරීන් මෙලෙස වෘත්තිය ක්‍රියාමාර්ගයක නිරත වන්නේ, රේගු ත්‍යාග අරමුදල මහා භාණ්ඩාගාරයට පවරා ගැනීමේ සිද්ධියක් මුල් කරගනිමිනි.
+
+රේගු ත්‍යාග අරමුදල යොදාගනිමින් රේගු සේවකයන්ට අතිකාල සහ දිරිදීමනා ගෙවීම් සිදු කරයි.
+
+එම අරමුදල මුදල් අමාත්‍යංශය භාරයට ගෙන ඇති බවත්, එය අසාධාරණ බවත් පවසමින් රේගු නිලධාරීන්, රේගු අධිකාරීවරුන් සහ රේගු මාණ්ඩලික නිලධාරීන් අතිකාල සේවයෙන් ඉවත්වීමේ වෘත්තිය ක්‍රියාමාර්ගයකට මාර්තු 15 වනදා පස්වරුවේ සිට එළැඹුණි.
+
+මේ අතර, මෙවැනි තීරණාත්මක සමයක් තුළ ක්‍රියාත්මක කර ඇති රේගු වර්ජනය හේතුවෙන් සැලකිය යුතු ව්‍යාපාරික අභියෝගවලට මුහුණ දීමට සිදුව ඇතැයි ආනයන හා අපනයන ක්ෂේත්‍රයේ පිරිස් ජනාධිපතිවරයාට ලිපියක් යොමුකරමින් දැනුම්වත් කර තිබේ.
+
+එම ලිපියෙන් ඔවුන් පෙන්වා දී ඇත්තේ, වර්ජනය හේතුවෙන් අත්‍යවශ්‍ය අමුද්‍රව්‍ය නැව්ගත කිරීම් සඳහා ප්‍රවේශයක් නොමැතිව තමන් දැඩි පීඩාවකට පත්ව ඇති බවයි.
+
+...
+
+[Data](articles/90dea98d.json)
+
+---
+
+### Japan provides Rs. 3.3 billion grant assistance to Sri Lanka for several projects
+
+*2024-03-18 19:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98034/japan-provides-rs-33-billion-grant-assistance-to-sri-lanka-for-several-projects-) · `en`
+
+Sri Lanka and Japan today signed the Exchange of Notes pertaining to the grant assistance amounting to Japanese Yen 1,600 million (approximately LKR 3.3 billion) to be provided under the Japanese Economic and Social Development Programme.
+
+The Government of Japan, as one of Sri Lanka’s main development partners, provides concessional loans and various grant aid schemes such as the Economic and Social Development Programs, Technical Cooperation, Research Partnerships, Development Studies, and non-project grant aid with a view to improving the socio-economic status by strengthening bilateral relations between the two countries.
+
+During the present economic crisis in Sri Lanka, the government of Japan has extended its cooperation by providing required immediate humanitarian assistance for the affected community as well as by equipping the public sector, aiming to improve the socioeconomic situation in the country.
+
+...
+
+[Data](articles/ffb31943.json)
+
+---
+
+### CEB summoned before COPE
+
+*2024-03-18 19:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-summoned-before-COPE/108-279084) · `en`
+
+Colombo, March 18 (Daily Mirror)- The Ceylon Electricity Board (CEB) has been called to appear before the Committee on Public Enterprises (COPE) on March 21, 2024, the Communications Department of Parliament said.
+
+The CEB is the first institution to be called before the COPE after Rohitha Abeygunawardane took office as COPE Chairman.
+
+◼️
+
+[Data](articles/e282f8de.json)
+
+---
+
+### අනියම් පෙම කෙළවර වූ හැටි - දෙදෙනාටම බරපතළයි
+
+*2024-03-18 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194649) · `si`
+
+ඉංගිරිය බෝධිනාගල තානායමක් තුළදී කාන්තාවකට තියුණු ආයුධයකින් පහරදී බරපතළ තුවාල සිදුකිරීමෙන් අනතුරුව සිය දිවි හානිකර ගැනීමට උත්සාහ දැරූ පුද්ගලයෙකු ප්‍රදේශවාසීන්ගේ සහායෙන් රෝහල්ගත කළ බව ඉංගිරිය පොලීසිය පවසයි.
+
+මෙලෙස රෝහල්ගත කර ඇත්තේ ඉංගිරිය, පෝරුව දණ්ඩ, පැල්පිටිගොඩ පදිංචි කාන්තාවක් සහ හා ඇයගේ අනියම් සැමියා බව කියන පිළියන්දල ප්‍රදේශයේ අයෙකි.
+
+ඊයේ(17) පෙරවරු 10ට පමණ පිරිමි පුද්ගලයා තානායමට තනිවම පැමිණ කාමරයක් වෙන්කරවාගෙන ඇති අතර ඊට විනාඩි 20 කට පමණ පසු කාන්තාව ස්කූටි වර්ගයේ යතුරුපැදියකින් තානායම කරා පැමිණ තිබූ බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+පැයකට පමණ පසු කාන්තාව පැමිණි ස්කූටි වර්ගයේ යතුරුපැදියෙන් පිරිමි පුද්ගලයා තානායම් භූමියෙන් වේගයෙන් පිටව යන අයුරු කළමනාකරුගේ නෙත ගැටී  මඳ වේලාවකදී දරුණු කැපුම් තුවාල සහිතව එම කාන්තාව තානායමේ පිළිගැනීමේ කවුන්ටරය අසලට පැමිණ පුටුවක වාඩි වී ඇතැයි පොලීසිය කියයි.
+
+අනතුරුව කළමනාකරු ඒ සම්බන්ධයෙන් පොලීසියට කරන ලද දැනුම්දීමක් අනුව 1990 සුව සැරිය ගිලන් රථයෙන් කාන්තාව හොරණ  මූලික රෝහල වෙත ඇතුළත් කිරීමට පියවර ගෙන ඇත.
+
+...
+
+[Data](articles/12ccf89a.json)
+
+---
 
 ### Accused sentenced to life in prison over drug possession
 
@@ -46,11 +152,17 @@ The Police Narcotics Bureau (PNB) had arrested the suspect along with the drugs 
 
 [Data](articles/93d07087.json)
 
+[Extended Data](ext_articles/93d07087.ext.json)
+
 ---
 
 ### Mushficer asks for rebound
 
 *2024-03-18 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194648) · `si`
+
+Mushficer seeks a rebound. Bangladesh triumphs in a three-wicket match against Sri Lanka, one of two such encounters. The team celebrates, reminiscing about a past victory.
+
+🟩
 
 Bangladesh won the three-wicket match against Sri Lanka as one of two matches with three matches against Sri Lanka.
 
@@ -61,6 +173,42 @@ Below, the Bangladesh team celebrates the victory and recalls the time out of ti
 [Data](articles/38067902.json)
 
 [Extended Data](ext_articles/38067902.ext.json)
+
+---
+
+### ”இரு வெப்பநிலைகளும் சமனடைந்தால் பாதிப்பு அதிகரிக்கும்”
+
+*2024-03-18 18:38:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-வெப்பநிலைகளும்-சமனடைந்தால்-பாதிப்பு-அதிகரிக்கும்/175-334840) · `ta`
+
+சுற்றுச்சூழலின் வெப்பநிலை உடல் வெப்பநிலையை எட்டினால், அது படபடப்பை அதிகரித்து, மூளைக்கு ஒக்ஸிஜன் வழங்குவதைக் குறைக்கும், இதனால் வெப்ப அதிர்ச்சிகள், மயக்கம் மற்றும் மரணம் ஏற்படலாம் என சீமாட்டி ரிஜ்வே மருத்துவமனை (LRH) ஆலோசகர் குழந்தைகள் நல மருத்துவர் வைத்தியர் தீபால் பெரேரா தெரிவித்தார்.
+
+ஒரு நபரின் சாதாரண உடல் வெப்பநிலை 37.5°C (98.6°F) ஆகுமென அவர் கூறினார். சுற்றுச்சூழலின் வெப்பநிலை 37 ° C ஐ அடையும் போது, ​​மனித உடல் வெப்பநிலைக்கு சமமான, அதிகரித்த வியர்வை ஏற்படுகிறது, இதன் விளைவாக வியர்வை மூலம் உடலில் இருந்து அதிக நீர் மற்றும் தாதுக்கள் இழக்கப்படுகின்றன, எனவே சில சிக்கல்கள் ஏற்படலாம்.
+
+எனவே, உடல் வெப்பநிலையை சமநிலையில் வைத்திருக்க அதிக தண்ணீர் குடிக்கவும், இயற்கை பானங்களை அதிகமாக குடிக்கவும், அதிக வெப்பநிலையுடன் கூடிய பகல் வேளைகளில் குழந்தைகளை விளையாட அனுமதிக்கக்கூடாது.
+
+மேலும், இயற்கையான பானங்களை அருந்துமாறும், உடலில் உள்ள சோடியத்தின் அளவைப் பராமரிக்க சிறிது உப்பு சேர்த்துக் கொள்ளுமாறும் அவர் கேட்டுக் கொண்டார்.
+
+...
+
+[Data](articles/7a89b5a1.json)
+
+---
+
+### வரி அதிகரிப்பால் பேக்கரி பொருட்களின் விற்பனை சரிவு
+
+*2024-03-18 18:32:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-அதிகரிப்பால்-பேக்கரி-பொருட்களின்-விற்பனை-சரிவு/175-334839) · `ta`
+
+பேக்கரி பொருட்களுக்கு பயன்படுத்தப்படும் சேர்மானங்களுக்கு வரி விதிக்கப்பட்டுள்ளதால், பாண் போன்ற பேக்கரி பொருட்களின் விற்பனை குறைந்துள்ளதாக நுகர்வோர் உரிமைகள் பாதுகாப்பு தேசிய இயக்கத்தின் தலைவர் ரஞ்சித் விதானகே தெரிவித்துள்ளார்.
+
+டெய்லி மிரர் பத்திரிகைக்கு அவர் கருத்து  தெரிவிக்கையில், இறக்குமதி செய்யப்படும் கோதுமை மாவுக்கு ரூ. 50 ரூபா வரி விதிக்கப்பட்டுள்ளது, முட்டையின் விலை அதிகரித்துள்ளதுடன் ஒரு கிலோ வெண்ணெக்கு ரூ.6,000 வரி விதிக்கப்பட்டுள்ளது.
+
+எனவே, பேக்கரி பொருட்களின் விலை அதிகரித்துள்ளதால், பாண் விற்பனை 40 சதவீதத்தால் குறைந்துள்ளது, மற்ற பேக்கரி பொருட்களின் விற்பனை 25 சதவீதத்தால் குறைந்துள்ளது. மேலும், பாண் தவிர பேக்கரி பொருட்களுக்கு 18 சதவீத வரி விதிக்கப்பட்டுள்ளது.
+
+இந்நிலையில், 10 வீதமான பேக்கரிகள் மூடப்பட்டுள்ளதாகவும், மின் கட்டணம் 21.9 வீதத்தால் குறைக்கப்பட்ட போதிலும், பேக்கரி உரிமையாளர்கள் பேக்கரி பொருட்களின் விலையை குறைக்கவில்லை எனவும் விதானகே தெரிவித்தார்.
+
+◼️
+
+[Data](articles/921a2258.json)
 
 ---
 
@@ -2145,191 +2293,5 @@ It is reported that several OICs of the Southern Province have also been transfe
 [Data](articles/ea55ca62.json)
 
 [Extended Data](ext_articles/ea55ca62.ext.json)
-
----
-
-### One arrested with heroin drug
-
-*2024-03-18 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178989) · `ta`
-
-A 25-year-old man from Pannipitiya was arrested with 8 grams of heroin during a police raid on Pepiliwala Road, Homagama.
-
-🟩
-
-A man was arrested with heroin in a raid conducted by the police yesterday (17) at Pepiliwala Road, which belongs to the Homagama Police Division.
-
-The suspect was the 25 -year -old from Pannipitiya.
-
-Police said 8 grams of 360 ml of heroin had been seized from the suspect.
-
-◼️
-
-[Data](articles/83e31e7f.json)
-
-[Extended Data](ext_articles/83e31e7f.ext.json)
-
----
-
-### Three people are in danger
-
-*2024-03-18 10:46:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அக்கல-உண்ட-மூவருக்கு-ஆபத்து/175-334825) · `ta`
-
-Three people from Meegahaguula Kanukola village, aged 14, 34, and 28, were hospitalized after consuming dried rice, coconut, and sugar tea, suffering from severe vomiting.
-
-🟩
-
-Three people who have eaten in dry rice have been admitted to the hospital with severely affected.
-
-Three persons from the same family from Meegahaguula Kanukola village have been affected.Three, 34 and 28, aged 14, 34 and 28, who live in the village of Komrika Kanukkal, have been admitted to the hospital.
-
-Made with dried rice, coconut and sugar, they consumed tea on Sunday (17) evening.. They have since been admitted to the hospital with high vomiting.
-
-◼️
-
-[Data](articles/7398d233.json)
-
-[Extended Data](ext_articles/7398d233.ext.json)
-
----
-
-### Four police officers were assaulted by shovel and poles
-
-*2024-03-18 10:45:56* · [`adalk`](https://www.ada.lk/breaking_news/සවලකින්-සහ-පොලු-වලින්-පොලිස්-නිලධාරීන්-හතරදෙනෙකුට-පහරදීලා/11-408665) · `si`
-
-Four police officers assaulted by motorcycle riders on Tanamalwila-Udawalawa road. Two officers pursued the motorcycle, which stopped due to drunkenness. Two more officers joined the chase. The suspects were assaulted by the police. Inspector DMP Bandara, involved in the assault, was hospitalized.
-
-🟩
-
-Although two police officers in the Tanamalwila-Udawalawa road, two police officers have been signed to stop the motorcycle on the Udawalawa road.Subsequently, the police officers have been pursuing their motorcycle and the motorcycle that has not been mobilized as a shorter distance and have stopped. When the police officers did not stop the motorcycle, they were told that they were not stopped due to drunkenness.
-
-Two additional officers of Tanamalwila Police have also returned to the arrest of the motorcycle. Two dried and two drunken police officers had the hearing with the police and the three youths were assaulted by the four policemen.
-
-Tanamalwila Headquarters Inspector DMP Bandara and assaulted the suspects have been admitted to the Thanamalwila hospital after he was notified.
-
-◼️
-
-[Data](articles/bc42acea.json)
-
-[Extended Data](ext_articles/bc42acea.ext.json)
-
----
-
-### British Tamil Congress on the occasion of the traditional land of the Tamil people
-
-*2024-03-18 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178984) · `ta`
-
-The British Tamil Congress criticizes police obstacles at a Shivaratri ceremony, condemns land grabbing and threats by Sri Lankan authorities, and demands the release of arrested temple priest and pilgrims. It highlights the state's threats to Tamils and the transformation of Tamil land and identity. The government's actions are seen as promoting ethnic conflicts and weakening the Tamil nation.
-
-🟩
-
-British Tamil Congress has condemned the obstacles imposed by the police at the Shivaratri worship ceremony of the temple
-
-The Sri Lankan government and its military and police administrations have repeatedly condemned the British Tamil Congress on the issue of land grabbing and threats in the daily activities of the public.
-
-The arrest of the temple priest and the pilgrims who attended the Shivaratri worship ceremony of the last Vedukkunnarimalai temple was condemned and all of them should be released immediately.. Moreover, according to the court's decision, the state administration, which has to take appropriate legal proceedings, has been threatening the Tamil people who have been worshiping for decades for decades.. Today, it has been relegated to the fact that the Sinhalese nation ignored the reality that the oppression was forced to fight our people.
-
-...
-
-[Data](articles/831b251a.json)
-
-[Extended Data](ext_articles/831b251a.ext.json)
-
----
-
-### Bore. Additional services suspended in the Cancer Treatment Unit at Teaching Hospital!
-
-*2024-03-18 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/178985) · `ta`
-
-Additional services at Batticaloa Teaching Hospital, including Radiotherapy, suspended from Monday. This affects patients in Batticaloa, Trincomalee, Ampara, and more. The Radiation Technology Association has requested the Ministry of Health to reinstate the allowance.
-
-🟩
-
-Additional services provided to patients at the Teaching Hospital in Batticaloa have been suspended from Monday (18), the State Radiation Technology Association said.
-
-The Additional Service Payment of Radios Therapists at the Batticaloa Teaching Hospital in Batticaloa has been suspended.
-
-Radiator therapists said that they would not be given only as they were being provided with the other hospital in the same position.
-
-As a result, patients from Batticaloa, Trincomalee, Ampara and other districts may be affected.
-
-The President of the Radiopian Technology Association said that the Secretary of the Ministry of Health and the Director General of the Ministry of Health has been instructed to issue this allowance for the last two months.
-
-◼️
-
-[Data](articles/3320144c.json)
-
-[Extended Data](ext_articles/3320144c.ext.json)
-
----
-
-### Basil’s call for early parliamentary election triggers rebuttal from UNP
-
-*2024-03-18 10:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Basils-call-for-early-parliamentary-election-triggers-rebuttal-from-UNP/108-279052) · `en`
-
-Colombo, March 18 (Daily Mirror)- Despite Sri Lanka Podujana Peramuna (SLPP) insisting on an early parliamentary election , the United National Party (UNP) asserted yesterday that the presidential election should be conducted first in accordance with the Constitution.
-
-UNP General Secretary Palitha Range Bandara, in response to a query about the call for a general election,told Daily Mirror that his party believes that the Constitution should be honored first.
-
-Bandara said the presidential poll should be conducted on a day between September 16 and October 16, this year as stipulated in the Constitution.
-
-...
-
-[Data](articles/38f32363.json)
-
-[Extended Data](ext_articles/38f32363.ext.json)
-
----
-
-### The small group of small group of people under their control prevents changes - National People's Power Member Harini
-
-*2024-03-18 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/178983) · `ta`
-
-National People's Power MP Harini Amarasuriya warns that transformation in Sri Lanka won't be easy, due to a small group controlling changes. He highlights the country's strength and the need for organization to overcome this control.
-
-🟩
-
-National People's Power MP Harini Amarasuriya has said that the transformation is not going to be easy.
-
-Speaking at the London Women's Conference, he said this was the reason for the last 76 years in Sri Lanka.
-
-Harini Amarasuriya said that people are now realizing that they are stronger than the group.
-
-The changes will not happen easily.
-
-But the people of the country are stronger than them, we have not realized our strength before, and we will be stronger than them by becoming an organized group.
-
-They have destroyed this country for the past 76 years. It is our duty to end this era.
-
-◼️
-
-[Data](articles/942c424e.json)
-
-[Extended Data](ext_articles/942c424e.ext.json)
-
----
-
-### Four Power Opens in the four direction of Jethawana Dagoba
-
-*2024-03-18 10:14:24* · [`adalk`](https://www.ada.lk/religion/ජේතවන-දාගැබේ-හතර-දිසාවට-පැලුම්-විවරයන්-හතරක්/4-408664) · `si`
-
-Jethavanarama stupa, a World Heritage site, experienced a significant explosion, believed to be the largest brickly explosion of Buddha's remains. Demonstrators suggest the stupa could mirror the Buddha. The site's history dates back to the 4th century CE, and it's under the Cultural Fund since 1982. The explosion's cause is under investigation, with experts suggesting it's not uncommon for stupas to face such issues. The Director General of the Central Cultural Fund emphasizes ongoing efforts to address the situation, including consultations with local universities.
-
-🟩
-
-It is reported that the brick-opened explosives that are considered as the largest brickly box of the Buddha, the largest brickly fortnight of the Buddha.
-
-The explosion has taken place from the square chamber, and demonstrators said that the stupa could be a mirror as the stupa.
-
-At present, the Jethavanarama stupa has been built on the old structure, and it is alleged that they will take some personnel to go to the iron pipe.
-
-The people have requested the President to intervene to provide a permanent solution to this issue without providing temporary interference with archaeological and experts.
-
-King Mahasen's Day was built in the fourth century CE, Jethavanaramaya was built in height. Cultural Fund was started in 1982 and in the jatha. This stupa occupies a special place among the World Heritage Strategy.
-
-...
-
-[Data](articles/deb71034.json)
-
-[Extended Data](ext_articles/deb71034.ext.json)
 
 ---

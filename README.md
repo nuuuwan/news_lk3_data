@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 08:33:20**
+As of **2024-03-18 08:51:40**
 
 ## Newspaper Stats
 
-*Scraped **13,505** Articles*
+*Scraped **13,507** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,79 @@ dailyftlk | 713
 economynextcom | 713
 islandlk | 745
 adalk | 1,157
-adaderanalk | 1,629
+adaderanalk | 1,630
 tamilmirrorlk | 1,653
 virakesarilk | 1,874
 dailymirrorlk | 2,055
-adaderanasinhalalk | 2,140
+adaderanasinhalalk | 2,141
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,504 (100.0%) of 13,505 articles have been extended.
+13,505 (100.0%) of 13,507 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### පුටින්ට විශිෂ්ට ජයක්
+### නිදහස් පක්ෂය ප්‍රමුඛ නව සන්ධානයේ නායකත්වය ගැන අර්බුදයක්
+
+*2024-03-18 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194622) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂය මුලික කරගනිමින් ගොඩනැගීමට නියමිත නව සන්ධානයේ නායකත්වය සම්බන්ධයෙන් අර්බුදයක් මතුව තිබේ.
+
+ඒ නව සන්ධානයේ නායකත්වය ලබාගැනීමට කැමැත්ත පළ කර සිටි හිටපු ජනාධිපතිනී චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය සිය ස්ථාවරය වෙනස් කිරීමත් සමගය.
+
+නව සන්ධානය පිළිබඳව සාකච්ඡා කිහිපයක් පසුගිය දින කිහිපය තුළ නිදහස් පක්ෂ සභාපති හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගේ ප්‍රධානත්වයෙන් පවත්වා තිබේ.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ පාර්ලිමේන්තු කණ්ඩායම් රැස්වීම ද පසුගිය දා පක්ෂ මුලස්ථානයේ දී පවත්වා ඇති අතර එහිදී ද මෙම අර්බුදය සම්බන්ධයෙන් ද සාකච්ඡා වී ඇති බව සඳහන්ය.
+
+කෙසේවෙතත් නව සන්ධානයේ ඉදිරි ක්‍රියාමාර්ග සහ වර්තමාන ප්‍රගතිය පිළිබඳව මෙම සාකච්ඡාවේ දී දීර්ඝ ලෙස කරුණු හුවමාරු වී ඇති බව දේශපාලන ආරංචි මාර්ග සඳහන් කළේය.
+
+ඒ අනුව හිටපු ජනාධිපතිනිය සමග මේ සම්බන්ධයෙන් යළිත් වරක් සාකච්ඡා කිරීමට ද එම සාකච්ඡාවේ දී තීරණය වී තිබේ.
+
+...
+
+[Data](articles/618b9680.json)
+
+---
+
+### Great win to Putin
 
 *2024-03-18 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194621) · `si`
 
-නැවත වරක් රුසියානු ජනාධිපතිධුරය සඳහා ව්ලැදිමීර් පුටින්ට තේරී පත්ව තිබේ.
+Vladimir Putin re-elected to Russian presidency.
+
+🟩
+
+The Vladimir Putin has been elected to the Russian presidency again.
 
 ◼️
 
 [Data](articles/15235321.json)
+
+[Extended Data](ext_articles/15235321.ext.json)
+
+---
+
+### Grief, pleas for compassion at funeral for Sri Lankan family slain in Ottawa
+
+*2024-03-18 08:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98022/grief-pleas-for-compassion-at-funeral-for-sri-lankan-family-slain-in-ottawa) · `en`
+
+More than a hundred mourners offered tearful prayers and calls for solidarity and compassion on Sunday at the funeral for a Sri Lankan family slain in one of the worst mass killing’s in Ottawa’s history.
+
+Dozens gathered at the Infinity Convention Centre for a multi-faith service to remember the six people, including four children, who were found dead on March 6 inside a townhouse in Ottawa’s south-end Barrhaven suburb.
+
+Ajahn Viradhammo, a monk who spoke at the funeral, asked those grieving around the world to focus on supporting each other instead of leaning into despair or anger.
+
+“We in the Ottawa area are in the eye of this storm, but we recognize that its impact is felt all over the world,” he said.
+
+“It is in these dark moments that we must derive strength from compassion and wisdom that lie at the heart of faith. We come together bound by our shared humanity and our unwavering commitment to compassion.”
+
+...
+
+[Data](articles/abec6c09.json)
 
 ---
 
@@ -2215,47 +2263,5 @@ The manager of a restaurant in the Modara Street area in Colombo 15 of the Modar
 [Data](articles/1363b9cc.json)
 
 [Extended Data](ext_articles/1363b9cc.ext.json)
-
----
-
-### Two children killed in kills of Polwatta River
-
-*2024-03-17 15:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194600) · `si`
-
-In Galle's Yakkalamulla, two 11 and 14-year-old boys drowned in the Polwatta River. Relatives, they were taken to the hospital after the incident.
-
-🟩
-
-Two children were killed in drowning in the Polwatta River in the Yakkalamulla area in Galle.
-
-The victim was two men who were ages 11 and 14.
-
-The two children are relatives and they were inaugurated when they came to the river with their parents.
-
-Police said that the children who had taken away after the drowning were admitted to the hospital.
-
-◼️
-
-[Data](articles/346664be.json)
-
-[Extended Data](ext_articles/346664be.ext.json)
-
----
-
-### Small elite group trying to stop the ’change’: Harini Amarasuriya
-
-*2024-03-17 15:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Small-elite-group-trying-to-stop-the-change-Harini-Amarasuriya/155-279011) · `en`
-
-Colombo, March 17 (Daily Mirror)- Claiming that the change of power is not going to be easy, NPP MP Harini Amarasuriya said a small elite group is doing everything in their power to stop the change from happening.
-
-Speaking at the London women's convention, she said the small elite group has been in control of what has happened in Sri Lanka for the last 76 years.
-
-She said this small group will not give up easily, adding that people of Sri Lanka have now realized that they are stronger than all of them.
-
-...
-
-[Data](articles/45b0bf77.json)
-
-[Extended Data](ext_articles/45b0bf77.ext.json)
 
 ---

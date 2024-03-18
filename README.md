@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 20:33:33**
+As of **2024-03-18 20:50:47**
 
 ## Newspaper Stats
 
-*Scraped **13,644** Articles*
+*Scraped **13,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,46 +19,92 @@ adalk | 1,177
 adaderanalk | 1,642
 tamilmirrorlk | 1,661
 virakesarilk | 1,904
-dailymirrorlk | 2,082
+dailymirrorlk | 2,085
 adaderanasinhalalk | 2,170
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,642 (100.0%) of 13,644 articles have been extended.
+13,644 (100.0%) of 13,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### මෙරට ධීවරයින්ට හදිසි අනතුරු ඇඟවීමක්
+### Sri Lanka names Test squad for Bangladesh Test series
+
+*2024-03-18 20:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-names-Test-squad-for-Bangladesh-Test-series/108-279089) · `en`
+
+Mar. 18 (SLC) - Minister of Sports and Youth Affairs Harin Fernando approved the 17-member squad selected by the Sri Lanka Cricket Selection Committee to take part in the Test series against Bangladesh.
+
+The two match test series will commence on the 22nd March at SICS, Sylhet
+
+◼️
+
+[Data](articles/59e3f3b9.json)
+
+---
+
+### Mushfiqur mocks Mathews, recreates helmet malfunction scene from World Cup after ODI series win
+
+*2024-03-18 20:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mushfiqur-mocks-Mathews-recreates-helmet-malfunction-scene-from-World-Cup-after-ODI-series-win/108-279088) · `en`
+
+Mar. 18 (TBS) - During the post-match presentation, Mushfiqur Rahim celebrated the win by mocking Angelo Mathews' 'timed out' dismissal during the ICC Cricket World Cup 2023 as he gestured with a broken helmet.
+
+The 'timed out' controversy was reignited as Bangladesh's veteran batter Mushfiqur Rahim recreated Angelo Mathews' helmet malfuntion incident after the Tigers' ODI series win at Zahur Ahmed Chowdhury Stadium on Monday.
+
+During the post-match presentation, Mushfiqur Rahim celebrated the win by mocking Angelo Mathews' 'timed out' dismissal during the ICC Cricket World Cup 2023 as he gestured with a broken helmet.
+
+Mushfiq urged everyone to gather for a team photo as the winners' trophy was placed in front. He brought along a helmet, hinting at the incident with Mathews during the World Cup. The entire team burst into laughter at that moment.
+
+When asked about this at the press conference, Bangladesh captain Shanto calmly stated, "Nothing much, just a celebration with the helmet."
+
+...
+
+[Data](articles/3036cfb5.json)
+
+---
+
+### Emergency warning to Sri Lankan fishermen
 
 *2024-03-18 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194652) · `si`
 
-අරාබි මුහුදේ ධීවර කටයුතුවල නිරත නොවන ලෙස ධීවර සහ ජලජ සම්පත් දෙපාර්තමේන්තුව ධීවරයින්ට දැනුම් දී තිබේ.
+Sri Lankan fishermen warned not to enter Arabian Sea due to a Somali armed group's presence.
 
-ඒ පසුගිය සෙනසුරාදා අරාබි මුහුදේදී සෝමාලියානු ආයුධ සන්නද්ධ කණ්ඩායමක් විසින් ඉරාන ධීවර යාත්‍රාවක් පැහැරගැනීමේ සිද්ධියත් සමගය.
+🟩
 
-ධීවර හා ජලජ සම්පත් දෙපාර්තමේන්තුවේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් එහි ධ්‍යක්ෂ ජනරාල් සුසන්ත කහවත්ත මහතා ප්‍රකාශ කළේ  මේ වනවිට කොල්ලකරුවන් පිරිසක් ඉරාන යාත්‍රාවක් රැගෙන අදාළ මුහුදු ප්‍රදේශයට පැමිණ ඇති බවට තොරතුරු ලැබී ඇති බවය.
+The Fisheries and Aquatic Resources Department has informed the fishermen not to engage in the Arabian Sea.
+
+It was with the signing of a Somali armed group at the Arabian Sea Saturday.
+
+He was speaking at a media briefing held at the Fisheries and Aquatic Resources Department.
 
 ◼️
 
 [Data](articles/b303fff0.json)
 
+[Extended Data](ext_articles/b303fff0.ext.json)
+
 ---
 
-### மீண்டும் டைம் அவுட் ஆட்டமிழப்பை கேளி செய்து வம்பிழுத்த ரஹீம்!
+### Rahim shouted out again Time Out!
 
 *2024-03-18 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/179072) · `ta`
 
-இலங்கை மற்றும் பங்களாதேஷ் அணிகளுக்கு இடையில் திங்கட்கிழமை (18) இடம்பெற்ற ஒருநாள் போட்டியில் வெற்றிப் பெற்றதையடுத்து பங்காதேஷ் அணி இலங்கை அணிக்கு எதிரான ஒருநாள் போட்டித் தொடரை கைப்பற்றியிருந்தது.
+Rahim shouted "Time Out!" as Pangadesh won the ODI series against Sri Lanka, following Bangladesh's victory over Sri Lanka.
 
-குறித்த போட்டி முடிவடைந்த பின், பங்களாதேஷ் அணியின் வெற்றிக் கொண்டாட்டத்தின் போது, சமீபத்தில் சர்ச்சைக்குள்ளான ஏஞ்சலோ மெத்திவ்ஸின் டைம் அவுட் ஆட்டமிழப்பை கேளி செய்யும் விதத்தில் பங்களாதேஷ் வீரர் முஷ்பிகுர் ரஹீம் நடித்து காட்டியிருந்தார்.
+🟩
+
+Pangadesh won the ODI series against Sri Lanka after winning the ODI match between Sri Lanka and Bangladesh on Monday (18).
+
+After the end of the match, Bangladesh player Mushfiqur Rahim had recently shown the controversial Angelo Methivas's time out of the controversy.
 
 ◼️
 
 [Data](articles/400cd6d5.json)
+
+[Extended Data](ext_articles/400cd6d5.ext.json)
 
 ---
 
@@ -159,6 +205,22 @@ He said the auspicious times were designated at night during the six hours and t
 [Data](articles/8d7a82b1.json)
 
 [Extended Data](ext_articles/8d7a82b1.ext.json)
+
+---
+
+### State Astrologers’ Committee refutes allegations of faulty auspicious times for New Year
+
+*2024-03-18 19:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/State-Astrologers-Committee-refutes-allegations-of-faulty-auspicious-times-for-New-Year/155-279085) · `en`
+
+Colombo, March 18 (Daily Mirror)- Refuting allegations of faulty auspicious times during the Sinhala and Tamil New Year, the State Astrologers’ Committee justified the designation of auspicious times for performing Sinhala New Year rituals at night, claiming that they wanted the most suitable time for the rituals despite practical difficulties.
+
+Committee member astrologer G.M. Gunapala told a news conference at the Government Information Department that the sun's transit occurs at 9.05 pm on April 13 and that the New Year rituals must be designated during the auspicious time within six hours and twenty-four minutes from 9.05 pm when the sun's transit occurs.
+
+He said the auspicious times were designated at night during the six hours and twenty-four minutes avoiding the Raahu Kalaya.
+
+...
+
+[Data](articles/e67d810f.json)
 
 ---
 
@@ -2267,67 +2329,5 @@ Asked how the Elections Department has decided to get the funds for the election
 [Data](articles/2ccdd638.json)
 
 [Extended Data](ext_articles/2ccdd638.ext.json)
-
----
-
-### Prison labour earns Sri Lanka 116 million rupees in 2023: State Minister
-
-*2024-03-18 11:08:00* · [`economynextcom`](https://economynext.com/prison-labour-earns-sri-lanka-116-million-rupees-in-2023-state-minister-154976/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Department of Prisons has earned 116 million rupees through inmate labour, particularly that of women, in 2023, State Minister of Justice and Prison Affairs Anuradha Jayaratne has said.
-
-“In 2023, the agriculture and industry sectors generated earnings of 116 million rupees, primarily due to the labour contributions of women. The projected profit for 2024 is estimated to be 92,572,967.00 rupees” Jayaratne told reporters last week.
-
-The state minister said there were initiatives to empower inmates by providing them with employment.
-
-“Through collaborative efforts between the public and private sectors, initiatives have been launched to integrate inmates into the workforce from within the prisons.”
-
-These were implemented in the Welikada, Mahara, and Agunakolapalassa prisons, where activities like manufacturing shoes, coils, and food have been established, as a “a positive step towards rehabilitation and skills development among the incarcerated population.”
-
-...
-
-[Data](articles/2efc45fb.json)
-
-[Extended Data](ext_articles/2efc45fb.ext.json)
-
----
-
-### Ballot boxes for Maldives’ elections to be placed in India, Sri Lanka
-
-*2024-03-18 11:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ballot-boxes-for-Maldives-elections-to-be-placed-in-India-Sri-Lanka/108-279058) · `en`
-
-The ballot boxes for Maldives’ upcoming parliamentary elections will be placed in India, Sri Lanka and Malaysia, after around 11,000 Maldivians submitted re-registration requests to relocate their polling stations, the country’s election commission announced on Sunday.
-
-The six-day window for people to relocate their voting stations for the April 21 parliamentary elections expired on Saturday, media reports said, citing an Elections Commission notification.
-
-The top electoral body said that ballot boxes for the island nation’s elections will also be placed in Trivandrum (Thiruvananthapuram), the capital of Kerala, Sri Lanka’s Colombo and Malaysia’s Kuala Lumpur after at least 150 people re-register to vote in each of the three countries.
-
-“As previously, enough people registered in Sri Lanka and Malaysia. And since 150 people had registered in Trivandrum, India, we have decided to set up a ballot box there,” web portal adadhu.com quoted EC’s secretary-general Hassan Zakariyya as saying.
-
-...
-
-[Data](articles/6208694d.json)
-
-[Extended Data](ext_articles/6208694d.ext.json)
-
----
-
-### Ballot boxes for Malvides’ elections to be placed in India, Sri Lanka
-
-*2024-03-18 11:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ballot-boxes-for-Malvides-elections-to-be-placed-in-India-Sri-Lanka/108-279058) · `en`
-
-The ballot boxes for Maldives’ upcoming parliamentary elections will be placed in India, Sri Lanka and Malaysia, after around 11,000 Maldivians submitted re-registration requests to relocate their polling stations, the country’s election commission announced on Sunday.
-
-The six-day window for people to relocate their voting stations for the April 21 parliamentary elections expired on Saturday, media reports said, citing an Elections Commission notification.
-
-The top electoral body said that ballot boxes for the island nation’s elections will also be placed in Trivandrum (Thiruvananthapuram), the capital of Kerala, Sri Lanka’s Colombo and Malaysia’s Kuala Lumpur after at least 150 people re-register to vote in each of the three countries.
-
-“As previously, enough people registered in Sri Lanka and Malaysia. And since 150 people had registered in Trivandrum, India, we have decided to set up a ballot box there,” web portal adadhu.com quoted EC’s secretary-general Hassan Zakariyya as saying.
-
-...
-
-[Data](articles/98415e99.json)
-
-[Extended Data](ext_articles/98415e99.ext.json)
 
 ---

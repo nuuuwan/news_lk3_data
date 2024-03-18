@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 16:17:49**
+As of **2024-03-18 16:33:25**
 
 ## Newspaper Stats
 
-*Scraped **13,606** Articles*
+*Scraped **13,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,118 @@ newsfirstlk | 363
 dailyftlk | 713
 economynextcom | 721
 islandlk | 746
-adalk | 1,171
-adaderanalk | 1,636
+adalk | 1,172
+adaderanalk | 1,638
 tamilmirrorlk | 1,658
 virakesarilk | 1,901
 dailymirrorlk | 2,076
-adaderanasinhalalk | 2,156
+adaderanasinhalalk | 2,158
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,603 (100.0%) of 13,606 articles have been extended.
+13,606 (100.0%) of 13,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### හොර පාස්පෝට් හැදූ බවට සැක ලොක්කාට ලැබුණු නියෝගය
+### CEB introduces new installment scheme to obtain electricity connections
+
+*2024-03-18 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98030/ceb-introduces-new-installment-scheme-to-obtain-electricity-connections) · `en`
+
+The Ceylon Electricity Board (CEB) has introduced a special electricity connection scheme for small and medium-scale enterprises and residences, where they will pay 25% as down payment and the balance in installments.
+
+◼️
+
+[Data](articles/485ac1bc.json)
+
+---
+
+### Sri Lankan among foreign students attacked at Gujarat University while offering prayers
+
+*2024-03-18 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98029/sri-lankan-among-foreign-students-attacked-at-gujarat-university-while-offering-prayers) · `en`
+
+Five foreign students of Gujarat University including a Sri Lankan were injured, when a group of 20-25 people barged into their hostel and assaulted them for offering prayers during Ramadan in the hostel building on Saturday (17) night, Indian media reported.
+
+According to the police, the two foreign students who had to be hospitalised are from Sri Lanka and Turkmenistan. While one of them is still in hospital, the other has been discharged, they said. Of the other students who sustained injuries, two are from African nations and one from Afghanistan.
+
+Police have registered a case under IPC provisions relating to unlawful assembly, rioting, voluntarily causing hurt and criminal trespass. The two arrested persons have been identified as Hitesh Mevada and Bharat Patel, both residents of Ahmedabad.
+
+...
+
+[Data](articles/2d85dcf5.json)
+
+---
+
+### කදුරුවෙල ත්‍රෛභාෂා ජාතික පාසලට ඉන්දියාවෙන් තවත් මිලියන 250ක්
+
+*2024-03-18 16:12:01* · [`adalk`](https://www.ada.lk/breaking_news/කදුරුවෙල-ත්‍රෛභාෂා-ජාතික-පාසලට-ඉන්දියාවෙන්-තවත්-මිලියන-250ක්/11-408681) · `si`
+
+මෛත්‍රිපාල සිරිසේන මහතා ජනාධිපතිධුරයට පත් වූ පසු ඉන්දියාවේ සිදු කරන ලද පළමු නිළ සංචාරය අතරතුර ඉන්දියානු අග්‍රාමාත්‍ය ගරු නරේන්ද්‍ර මෝදි මැතිතුමාගෙන් සිදු කරන ලද ඉල්ලීමක් මත ඉන්දියානු රජයේ පරිත්‍යාගක් ලෙස 2017 වර්ෂයේ වැඩ ආරම්භ කෙ⁣රුණු කදුරුවෙල ත්‍රෛභාෂා ජාතික පාසලේ ඉදිකිරීම් කටයුතු පසුගිය සමයේ අතරමග නැවතී තිබුනි. විශේෂයෙන්ම පසුගිය සමයේ කිහිප විටක්ම පවතින රජයෙන් මෙම පාසලේ වැඩ අවසන් කිරීම සඳහා ප්‍රතිපාදන වෙන් කරන ලෙස ඉල්ලීම් කළත් ඒ සඳහා සුබදායී පිළිතුරක් නොලැබිණි.
+
+ඒ අනුව හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මැතිතුමා විසින් ඉන්දියානු අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝධි මැතිතුමාගෙන් සිදු කරන ලද විශේෂ ඉල්ලීමක් මත එම ත්‍රෛභාෂා ජාතික පාසලේ වැඩ අවසන් කිරීම සඳහා ප්‍රතිපාදන වෙන් කිරීමට කැමැත්ත ප්‍රකාශ කරන ලදි.
+
+එහි ප්‍රතිඵලයක් ලෙස මෙම පාසලේ වත්මන් තත්ත්වය සොයා බැලීම සඳහා ශ්‍රී ලංකාවේ ඉන්දියානු නියොජ්‍ය මහ කොමසාරිස් එල්දොස් මැතිව් පුන්නූස් මැතිතුමා සහ රජයේ නිලධාරීන් පසුගියදා නිරීක්ෂණය චාරිකාවක් සඳහා එක්විය.
+
+...
+
+[Data](articles/5028b9e0.json)
+
+---
+
+### විදුලිබල මණ්ඩලයෙන් නව ගෙවීමේ ක්‍රමයක්
+
+*2024-03-18 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194640) · `si`
+
+නිවාස, කුඩා සහ මධ්‍යම පරිමාණ ව්‍යාපාර සඳහා විදුලිය ලබාදීමට නව ක්‍රමවේදයක් ලංකා විදුලිබල මණ්ඩලය විසින් ක්‍රියාත්මක කර තිබේ.
+
+ඒ අනුව නව පාරිභෝගිකයෙකු විදුලි සැපයුම ලබාගැනීමට යන වියදමෙන් සියයට 25ක් ගෙවීමෙන් අනතුරුව ඉතිරි මුදල කොටස් වශයෙන් ගෙවීමේ හැකියාව පවතී.
+
+◼️
+
+[Data](articles/0f706ef2.json)
+
+---
+
+### මොරටුවේදී කාන්තාවක් මරුට
+
+*2024-03-18 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194639) · `si`
+
+මොරටුව ඉඳිබැද්ද බැක්වත්ත ප්‍රදේශයේදී කාන්තාවක් ගෙළ කපා ඝාතනය කර තිබේ.
+
+වැඩිදුරටත් තොරතුරු වාර්තා වන්නේ ඝාතනය සිදුකළ පුද්ගලයා මොරටුමුල්ල පොලිස් ස්ථානය වෙත පැමිණ භාරවී ඇති බවටය.
+
+මීට මාස කිහිපයකට පෙර මෙලෙස ඝාතනයට ලක්ව ඇති කාන්තාවගේ සැමියා බන්ධනාගාරගතව සිටියදී අභිරහස් ලෙස මියගියේය.
+
+මියගිය සැමියාගේ ඥාතියෙකු විසින් මෙම ඝාතනය සිදුකරන්නට ඇති බවට පොලීසිය සැකපළ කරයි.
+
+◼️
+
+[Data](articles/705cddb7.json)
+
+---
+
+### Order to the boss of suspicion of crushed passport
 
 *2024-03-18 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194638) · `si`
 
-සංවිධානාත්මක අපරාධකරුවෙකුට රටින් පළායාම සඳහා විදෙස් ගමන් බලපත්‍ර සකසාදීම සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් ආගමන විගමන දෙපාර්තමේන්තුවේ හිටපු නියෝජ්‍ය පාලකවරයා ඇප මත මුදාහැර තිබේ.
+A former Deputy Controller of Immigration was arrested on suspicion of organizing a criminal act, but was released on bail. He appeared before the court today.
 
-සැකකරු අද (18) කඩුවෙල මහෙස්ත්‍රාත් චාණිමා විජේබණ්ඩාර මහත්මිය හමුවට ඉදිරිපත් කිරීමෙන අනතුරුව රුපියල් ලක්ෂ 5 බැගින් වූ ශරීර ඇප දෙකක් මත මුදාහැර ඇත.
+🟩
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ විසින් මෙලෙස අත්අඩංගුවට ගෙන අධිකරණය වෙත ඉදිරිපත් කළේ වර්තමානයේ විශ්‍රාම වැටුප් දෙපාර්තමේන්තුවේ සේවයේ නිරත උසස් නිලධාරියෙකි.
+Former Deputy Controller of the Department of Immigration and Emigration, who was arrested on suspicion of organizing criminal, has been released on bail.
+
+The suspect was produced before Kaduwela Mahimaka Wijebandra today (18).
+
+The Criminal Investigations Department was arrested and produced before the court today.
 
 ◼️
 
 [Data](articles/98627b33.json)
+
+[Extended Data](ext_articles/98627b33.ext.json)
 
 ---
 
@@ -228,15 +310,21 @@ He has played his songs at Francophonie celebrations in Paraguay, France, Pianos
 
 ---
 
-### පාසල් ක්‍රීඩා උත්සව අලුත් අවුරුද්දෙන් පසුව පවත්වන්න
+### Celebrate School Sports Festivals After New Year
 
 *2024-03-18 15:19:26* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ක්‍රීඩා-උත්සව-අලුත්-අවුරුද්දෙන්-පසුව-පවත්වන්න/11-408679) · `si`
 
-වර්තමානයේ පවතින අධික උණුසුම් සහිත කාලගුණික තත්ත්වයත් සමඟ පාසල් නිවාසාන්තර ක්‍රීඩා උත්සව අප්‍රේල් අලුත් අවුරුදු නිවාඩුවෙන් පසුව පවත්වන ලෙස ඊට අදාළ චක්‍රෙල්ඛය අද 18දා නිකුත්කරන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේම්ජයන්ත් මහතා ප්‍රකාශ කළේය.
+Dr. Susil Premjages announced that school sports festivals will be celebrated on the 18th, following the current hot weather conditions.
+
+🟩
+
+Minister of Education Dr. Susil Premjages said that the current circulars will be held on the 18th of this month after the current hoty weather conditions today.
 
 ◼️
 
 [Data](articles/14e32518.json)
+
+[Extended Data](ext_articles/14e32518.ext.json)
 
 ---
 
@@ -456,21 +544,27 @@ Sudesh Nandimal Silva further stressed that two more organizations have submitte
 
 ---
 
-### ලංකාව ලකුණු 235කට සීමා වෙයි
+### Sri Lanka limited to 235 runs
 
 *2024-03-18 14:06:01* · [`adalk`](https://www.ada.lk/sports/ලංකාව-ලකුණු-235කට-සීමා-වෙයි/9-408675) · `si`
 
-සත්කරක බංග්ලාදේශ කණ්ඩායම සමගින් පැවැත්වෙන තීරණාත්මක ‌තෙවැනි ඒක්දින තරගයේ කාසියේ වාසිය දිනා පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායම ලකුණු 235ට සීමා කිරීමට බංග්ලාදේශ පන්දු යවන්නෝ සමත්වූහ.
+Sri Lanka scored 235 runs. Bangladesh's bowlers won the toss. Janith Liyanage scored 101 runs. Nissanka was out for 1 run. Kusal Mendis scored 29 runs. Taskin Ahmed took 3 wickets.
 
-ශ්‍රී ලංකා කණ්ඩායමේ පිතිකරුවන් ඒකිනෙකා පිට දැවී යද්දී තම අන්තය ආරක්ෂා කර ගනිමින් විශිෂ්ඨ ඉනිමක් ක්‍රීඩා කළ ජනිත් ලියනගේ නොදැවී ලකුණු 101 ක් රැස් කිරීමට සමත්විය. ඒය ඔහුගේ මංගල එක්දින ශතකය වූ අතර සිය 9 වැනි එක්දින තරගයේදී ඔහු එම දක්ෂතාව දැක්වීමට සමත්ව තිබුණි.
+🟩
 
-දිගින් දිගටම අසාර්ථකවෙමින් සිටින අවිශ්ක ප්‍රනාන්දු මෙම තරගයේදීත් ආරම්භක පිතිකරු ලෙස යොදා ගෙන තිබුණ අතර ඔහු ලකුණු 4ට දැවී ගියේය. පැතුම් නිශ්ශංක එක ලකුණකට සීමා විය. නායක කුසල් මෙන්ඩිස් ලකුණු 29ක් රැස් කළේය.
+Bangladesh bowlers to score the toss of the crucial attendance of the crucial attendance with Bangladesh team.
 
-බංග්ලාදේශය වෙනුවෙන් පන්දු යැවිමෙන් ටස්කින් අහමඩ් කඩුලු 3ක් දවා ගත් අතර මුෂ්ටෆිෂුර් රෙහෙමාන් කඩුලු 2ක් හා මෙහෙදි හසන් මිරාස් කඩුලු 2ක් දවා ගත්තේය.
+Janith Liyanage scored an unbeaten 101 runs while defending his extreme. His wedding century was one-day century and he was able to indicate that skill in his 9th ODI.
+
+The failure of failure is also used as opener as the opening batsman. Wishing Nissanka was limited to one sign. Leader Kusal Mendis scored 29 runs.
+
+Taskin Ahmed took three wickets in bowling for Bangladesh.
 
 ◼️
 
 [Data](articles/b25b8654.json)
+
+[Extended Data](ext_articles/b25b8654.ext.json)
 
 ---
 
@@ -2165,109 +2259,5 @@ In addition, it is said that the government and opposition and the opposition an
 [Data](articles/618b9680.json)
 
 [Extended Data](ext_articles/618b9680.ext.json)
-
----
-
-### Great win to Putin
-
-*2024-03-18 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194621) · `si`
-
-Vladimir Putin re-elected to Russian presidency.
-
-🟩
-
-The Vladimir Putin has been elected to the Russian presidency again.
-
-◼️
-
-[Data](articles/15235321.json)
-
-[Extended Data](ext_articles/15235321.ext.json)
-
----
-
-### Grief, pleas for compassion at funeral for Sri Lankan family slain in Ottawa
-
-*2024-03-18 08:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98022/grief-pleas-for-compassion-at-funeral-for-sri-lankan-family-slain-in-ottawa) · `en`
-
-More than a hundred mourners offered tearful prayers and calls for solidarity and compassion on Sunday at the funeral for a Sri Lankan family slain in one of the worst mass killing’s in Ottawa’s history.
-
-Dozens gathered at the Infinity Convention Centre for a multi-faith service to remember the six people, including four children, who were found dead on March 6 inside a townhouse in Ottawa’s south-end Barrhaven suburb.
-
-Ajahn Viradhammo, a monk who spoke at the funeral, asked those grieving around the world to focus on supporting each other instead of leaning into despair or anger.
-
-“We in the Ottawa area are in the eye of this storm, but we recognize that its impact is felt all over the world,” he said.
-
-“It is in these dark moments that we must derive strength from compassion and wisdom that lie at the heart of faith. We come together bound by our shared humanity and our unwavering commitment to compassion.”
-
-...
-
-[Data](articles/abec6c09.json)
-
-[Extended Data](ext_articles/abec6c09.ext.json)
-
----
-
-### A Film Against the No-confidence debate against speaker?
-
-*2024-03-18 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194620) · `si`
-
-Opposition MPs are discussing no-confidence in the Speaker.
-
-🟩
-
-Opposition MPs have already begun discussions to win the no confidence in the Speaker.
-
-◼️
-
-[Data](articles/0a67dbe9.json)
-
-[Extended Data](ext_articles/0a67dbe9.ext.json)
-
----
-
-### Heroin racketeer arrested in Hanwella
-
-*2024-03-18 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194619) · `si`
-
-A heroin racketeer was arrested in Hanwella, with the Walana Corrupt Association involved. The suspect was apprehended by the Hanwella Police Division in Balage, Balagewatta, on 17th. Five bank accounts and four debit cards were seized. The suspect is linked to a drug dealer.
-
-🟩
-
-The Walana Corrupt Association has acted in a suspect with excessive amounts of heroin.
-
-Suspect arrested with information on information from the Hanwella Police Division in Balage, Balagewatta area yesterday (17) and arrested the Hanwella Police.Submitted.
-
-The police have also seized five bank accountsbook and four debit cards belonging to the suspect's possession.
-
-Investigations have revealed that the suspect is a close associate of a racketeer driven by a drug dealer.
-
-◼️
-
-[Data](articles/2b432aab.json)
-
-[Extended Data](ext_articles/2b432aab.ext.json)
-
----
-
-### Arrested for drug distributor and buyers
-
-*2024-03-18 07:44:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைப்பொருள்-விநியோகித்தவரும்-வாங்கியவர்களும்-கைது/175-334823) · `ta`
-
-Police in Colombo arrested a drug distribution gang, including a man distributing to bus drivers and conductors in the Fort area.
-
-🟩
-
-Colombo Tom Road Police Station Police have arrested a gang of drug distribution to bus drivers and conductors in the Fort area of Colombo.
-
-Police said drivers and conductors of buses from the Fort area are taking drugs daily during the duty.
-
-Police have arrested a man suspected of distributing drugs and several bus workers who bought drugs from him.
-
-◼️
-
-[Data](articles/e4824363.json)
-
-[Extended Data](ext_articles/e4824363.ext.json)
 
 ---

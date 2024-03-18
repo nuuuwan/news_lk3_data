@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 05:38:12**
+As of **2024-03-18 05:57:25**
 
 ## Newspaper Stats
 
-*Scraped **13,483** Articles*
+*Scraped **13,484** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 713
 economynextcom | 713
 islandlk | 735
 adalk | 1,157
-adaderanalk | 1,626
+adaderanalk | 1,627
 tamilmirrorlk | 1,650
 virakesarilk | 1,874
 dailymirrorlk | 2,055
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,134
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,483 (100.0%) of 13,483 articles have been extended.
+13,483 (100.0%) of 13,484 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### Putin wins Russia election in landslide with no serious competition
+
+*2024-03-18 05:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98019/putin-wins-russia-election-in-landslide-with-no-serious-competition) · `en`
+
+(Reuters) - President Vladimir Putin won a record post-Soviet landslide in Russia’s election on Sunday, cementing his already tight grip on power in a victory he said showed Moscow had been right to stand up to the West and send its troops into Ukraine.
+
+Putin, a former KGB lieutenant colonel who first rose to power in 1999, made it clear that the result should send a message to the West that its leaders will have to reckon with an emboldened Russia, whether in war or in peace, for many more years to come.
+
+The outcome means Putin, 71, is set to embark on a new six-year term that will see him overtake Josef Stalin and become Russia’s longest-serving leader for more than 200 years if he completes it.
+
+...
+
+[Data](articles/2141f467.json)
+
+---
 
 ### Framework for National Archives and Records Management legislation open for public input
 
@@ -2269,35 +2285,5 @@ Ambalangoda Police Office Inspector Prasanna Algiriya was banned due to the shoo
 [Data](articles/f65cc55b.json)
 
 [Extended Data](ext_articles/f65cc55b.ext.json)
-
----
-
-### Man dies in clash at two tourist hotels
-
-*2024-03-17 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194595) · `si`
-
-A man was killed in a dispute between two tourist hotels in Mirissa, Matara, over a tree. The victim, identified as Sancil Suddha, was killed by an 18-year-old from Devinuwara and two others, aged 18 and 55, from Mirissa and Ahangama. Two suspects fled the scene.
-
-🟩
-
-A person has been killed in a dispute between two groups of tourist hotels in Mirissa, Matara.
-
-A man was killed by a sharp clash due to a sharp clash due to a dispute caused by a tree.
-
-The deceased has been identified as "Sancil Suddha's", "said the" Sunshine Suda ', "said the" Sunshine Suda'.
-
-Accordingly, the officials of the Weligama Police Station was established in the Weligama Police and four suspects involved in the murder.
-
-Police say that there are a suspect and three suspects among the arrested persons.
-
-The suspect is an 18 year old resident of Devinuwara, Ulhawatta Devinuwara and residents of Mirissa and Ahangama, aged 18 and 55 years old.
-
-Two suspects involved in the incident have fled the area and further investigations are conducting further investigations.
-
-◼️
-
-[Data](articles/14b61d1d.json)
-
-[Extended Data](ext_articles/14b61d1d.ext.json)
 
 ---

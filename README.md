@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 18:09:23**
+As of **2024-03-18 18:21:53**
 
 ## Newspaper Stats
 
-*Scraped **13,619** Articles*
+*Scraped **13,624** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,78 @@ newsfirstlk | 363
 dailyftlk | 713
 economynextcom | 721
 islandlk | 746
-adalk | 1,174
-adaderanalk | 1,639
+adalk | 1,175
+adaderanalk | 1,640
 tamilmirrorlk | 1,658
-virakesarilk | 1,901
+virakesarilk | 1,902
 dailymirrorlk | 2,077
-adaderanasinhalalk | 2,162
+adaderanasinhalalk | 2,164
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,619 (100.0%) of 13,619 articles have been extended.
+13,619 (100.0%) of 13,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### How rising dengue burden is costing India and Sri Lanka billions
+
+*2024-03-18 18:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98032/how-rising-dengue-burden-is-costing-india-and-sri-lanka-billions) · `en`
+
+The increasing incidence of dengue in India and Sri Lanka is not just a significant health concern but also exacts a hefty economic toll on these South Asian countries, say experts who estimate the annual losses to be in billions.
+
+Researchers highlight the dire economic consequences of this affliction caused by a virus spread through the bite of an infected Aedes mosquito species, reinforcing the benefits that the region would realise if the neglected tropical disease was substantially controlled.
+
+As the sweltering heat swept across Colombo in June, Seetha, a 60-year-old daily wager found herself in the grips of dengue hemorrhagic fever, a severe and sometimes fatal form of the disease.
+
+“I had a fever, body aches, and a relentless headache for four days before being admitted to the hospital. I was catheterised and not even allowed to go to the toilet,” she told PTI.
+
+...
+
+[Data](articles/2c2c864e.json)
+
+---
+
+### ඉංජිනේරු තාක්ෂණවේදය ප්‍රායෝගික පරීක්ෂණ හෙට සිට
+
+*2024-03-18 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194646) · `si`
+
+2023(2024) උසස්පෙළ විභාගයේ ඉංජිනේරු තාක්ෂණවේදයේ ප්‍රායෝගික පරීක්ෂණ පැවැත්වෙන දින විභාග දෙපාර්තමේන්තුව විසින් ප්‍රකාශයට පත්කර තිබේ.
+
+ඒ අනුව හෙට 19 සිට 29 වනදා දක්වා දිවයිනේ තෝරාගත් මධ්‍යස්ථාන 41කදී එම ප්‍රායෝගික පරීක්ෂණ පැවැත්වෙන බව විභාග දෙපාර්තමේන්තුව පවසයි.
+
+විභාග දෙපාර්තමේන්තුව පවසන්නේ අපේක්ෂකයාගේ ප්‍රවේශ පත්‍රයේ පරීක්ෂණය සඳහා පෙනී සිටිය යුතු දිනය හා ස්ථානය සඳහන්ව ඇති බවය.
+
+එසේම ඊට අදාළ දිනය හා ස්ථානය කිසිදු හේතුවක් මත වෙනස් නොකරන බවද විභාග දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/49072656.json)
+
+---
+
+### ජේලර්ගේ නිවසට මල් වඩමක්
+
+*2024-03-18 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194645) · `si`
+
+ගාල්ල බන්ධනාගාරයේ සේවය කරන ජේලර්වරයෙකුගේ නිවස ඉදිරිපිට මල් වඩමක් සහ ඉටි පන්දමක් යමෙකු විසින් තබා ඇති බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශකවරයා පවසයි.
+
+බන්ධනාගාර මාධ්‍ය ප්‍රකාශක ගාමිණි බී දිසානායක මහතා පැවසුවේ අදාළ ජේලර්වරයා ගාල්ල බන්ධනාගාරයේ විනය අංශයේ සේවය කරන නිලධාරියෙක් බවයි.
+
+ගාල්ල බන්ධනාගාරයට පිටතින් විසිකරන පාර්සල් කිහිපයක තිබී ජංගම දුරකථන 13ක් සහ දුම්කොළ මෙම නිලධාරියා විසින් සොයාගෙන ඇති බවත් ඊයේ සවස ද පිටතින් විසිකළ පාර්සලයක් මෙම නිලධාරියා විසින් සොයාගෙන තිබුණි.
+
+ඒ අවස්ථාවේ රැඳවියෙක් එම නිලධාරියා සමග බහින්බස් වීමක් ඇතිකර ගෙන ඇති අතර ඒ සම්බන්ධයෙන් මේ වනවිට පරීක්ෂණයක් පැවැත්වෙයි.
+
+මෙම සිද්ධියට මුහුණදුන් නිලධාරියාගේ ආරක්ෂාව සම්බන්ධයෙන් ද අවශ්‍ය පියවර ගෙන ඇති බවද දිසානායක මහතා පැවසීය.
+
+◼️
+
+[Data](articles/14848f2b.json)
+
+---
 
 ### 18 water sources in risk
 
@@ -59,6 +115,28 @@ Meanwhile, the Water Supply and Drainage Board says that steps have been taken t
 [Data](articles/86ca05e2.json)
 
 [Extended Data](ext_articles/86ca05e2.ext.json)
+
+---
+
+### இலங்கையுடனான 3 ஆவது ஒருநாள் போட்டியில் பங்களாதேஷ் வெற்றி; ஒருநாள் தொடரை கைப்பற்றியது
+
+*2024-03-18 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179059) · `ta`
+
+இலங்கை அணிக்கும் பங்களாதேஷ் அணிக்கும் இடையிலான கடைசி ஒரு நாள் போட்டியில் பங்களாதேஷ் அணி 4 விக்கெட் வித்தியாசத்தில் வெற்றி பெற்றது.
+
+அதன்படி 03 போட்டிகள் கொண்ட ஒருநாள் தொடரை 2-1 என்ற கணக்கில் பங்களாதேஷ் அணி கைப்பற்றியது.
+
+இன்றைய (18) போட்டியில் நாணய சுழற்சியில் வென்று முதலில் துடுப்பெடுத்தாடிய இலங்கை அணியால் 50 ஓவர்கள் நிறைவில் 235 ஓட்டங்களை மாத்திரமே எடுக்க முடிந்தது.
+
+அணித்தலைவர் குசல் மெண்டிஸ் 29 ஓட்டங்களையும் சரித் நசங்க 37 ஓட்டங்களையும் பெற்றனர்.
+
+236 ரன்கள் எடுத்தால் வெற்றி என்ற இலக்குடன் களமிறங்கிய பங்களாதேஷ் அணி வீரர்கள் 40.2 ஓவர்களில் வெற்றி பெற்றது.
+
+அங்கு தன்சித் ஹசன் 84 ஓட்டங்களையும், முஸ்பிகுர் ரஹிம் ஆட்டமிழக்காமல் 37 ஓட்டங்களையும் பெற்றனர்.
+
+◼️
+
+[Data](articles/c605e37e.json)
 
 ---
 
@@ -1224,6 +1302,26 @@ In his resignation letter, the SJB MP mentions that the duty of the Committee is
 
 ---
 
+### කටුනායකටම මත්ද්‍රව්‍ය බෙදූ ජාවාරම්කරු අල්ලයි
+
+*2024-03-18 12:29:06* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකටම-මත්ද්‍රව්‍ය-බෙදූ-ජාවාරම්කරු-අල්ලයි/11-408674) · `si`
+
+කටුනායක ප්‍රදේශයට මත්ද්‍රව්‍ය සැපයීම සහ බෙදාහැරීම සිදු කර ගෙන යමින් සිටි  ප්‍රධාන ජාවාරම්කරු සමග ඔහු සන්තකයේ තිබූ රුපියල් ලක්ෂ 25 පමණ වටිනා මත්ද්‍රව්‍ය තොගයක් ද 03/17 දින රාත්‍රී කටුනායක පොලිසියේ අපරාධ විමර්ශන අංශයේ විදේශ නිලධාරීන් පිරිසක් විසින් සිදු කළ මෙහෙයුමක දී අත් අඩංගුවට ගෙන තිබේ .
+
+මොහු ජා - ඇළ , කණුවන ප්‍රදේශයේ අවන්හලක් පවත්වා ගෙන යමින් සිටි ව්‍යාපාරිකයෙක් වන අතර ඔහු 44 හැවිරිදි දෙදරු පියෙකි .
+
+ඔහු ජා - ඇළ , කණුවන ප්‍රදේශයේ මහල් නිවාසයක සුඛෝපභෝගී ජීවිතයක් ගෙවමින් සිටි පුද්ගලයෙකු බව , මොහු අත් අඩංගුවට ගැනීමට ගොස් සිටි පොලිස් නිලධාරීන් පැවසීය .
+
+මොහු කොරෝනා වසංගත සමයට පෙර , ප්‍රදේශයේ දැවැන්ත ප්‍රවාහන  ව්‍යාපාරයක් පවත්වා ගෙන ගොස් තිබූ අතර , එම වසංගත සමයේ දී එම ව්‍යාපාරය බංකොලොත් වීම නිසා මෙම නව ව්‍යාපාරය ආරම්භ කර පවත්වා ගෙන ගොස් ඇති බව පොලිසිය සිදු කළ මූලික විමර්ශන වලදී අනාවරණය කර ගෙන තිබුණි .
+
+දැනට ශ්‍රී ලංකාව තුළ ක්‍රියාත්මක " යුක්තිය "  මෙහෙයුමට සමගාමිව මෙම මෙහෙයුම ක්‍රියාත්මක කර තිබුණි .
+
+...
+
+[Data](articles/eb22d76a.json)
+
+---
+
 ### Receipt due to "tip"
 
 *2024-03-18 12:25:36* · [`adalk`](https://www.ada.lk/breaking_news/“පස්ස“-නිසා-ගොඩගිය-රොයිස්ටර්/11-408673) · `si`
@@ -2217,111 +2315,5 @@ The Colombo Stock Exchange opened up: the All Share Price Index was up 0.20 perc
 [Data](articles/8da7e508.json)
 
 [Extended Data](ext_articles/8da7e508.ext.json)
-
----
-
-### Stalin criticizes Modi for lack of pressure on Sri Lanka regarding fishermen’s issues
-
-*2024-03-18 09:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Stalin-criticizes-Modi-for-lack-of-pressure-on-Sri-Lanka-regarding-fishermens-issues/108-279044) · `en`
-
-Tamil Nadu, March 18 (Deccan Herald) - Chief Minister M.K.Stalin of Tamil Nadu criticized Prime Minister Narendra Modi on Saturday and questioned why the Union Government did not exerted pressure on the Sri Lankan government for the restoration of traditional rights for Indian fishermen in the Palk Straits with the same vigor it displayed with Sri Lanka in protecting the business interests of Gautam Adani.
-
-The Chief Minister's remarks come in response to Prime Minister Modi's recent statements that the 'sins' committed by the DMK was the reason for the sufferings of fishermen from Tamil Nadu, seeking to know the steps taken by the Union Government in the last 10 years to restore the traditional rights of the fishermen in the Palk Straits, the Deccan Herald reported.
-
-...
-
-[Data](articles/5968915c.json)
-
-[Extended Data](ext_articles/5968915c.ext.json)
-
----
-
-### One arrested with heroin in Hangwella
-
-*2024-03-18 09:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/178977) · `ta`
-
-Police arrested a 42-year-old in Hangwella with over 1 kg of heroin, 03 mobile phones, 05 bank accounts, and 04 bank cards. The suspect, from Pantikambola, was linked to a drug trafficker in prison.
-
-🟩
-
-Police have arrested a suspect who had more than 1 kilogram of heroin drugs in the Hangwella, Balakewatte area, police said.
-
-A 42 -year -old suspect, who lives in Pantikambola area, was arrested on Sunday morning (17) on the basis of information received by officials of the Valana Corruption Unit.
-
-Police said 03 mobile phones, 05 bank account books and 04 bank cards suspected to have been used for drug trafficking 01 kg of heroin, 01 kg of 03 milligrams from the suspect.
-
-Investigations have revealed that the arrested suspect was closely related to the drug trafficker who was imprisoned.
-
-◼️
-
-[Data](articles/e584dd50.json)
-
-[Extended Data](ext_articles/e584dd50.ext.json)
-
----
-
-### Vladimir Putin became President for the 5th time
-
-*2024-03-18 09:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/5ஆவது-முறையாகவும்-ஜனாதிபதியானார்-விளாடிமிர்-புதின்/50-334824) · `ta`
-
-Vladimir Putin won the 5th presidential term with 88% of the vote, making him the most powerful leader in Russia since Joseph Stalin.
-
-🟩
-
-Vladimir Pudhan has won 88% of the vote in the presidential election in Russia. This is determined to resume as chancellor.
-
-Russia is the largest country in the world. Russia is many times larger than India.
-
-Mint, who came to power in 1999, became the most powerful person in Russia. Joseph Stalin has overcatted the list of those who have been the leader of the long -lasting 200 years in Russia and the Soviet Union.
-
-While this is the first election after Ukraine's war. Remble
-
-◼️
-
-[Data](articles/3e8c50a0.json)
-
-[Extended Data](ext_articles/3e8c50a0.ext.json)
-
----
-
-### Russian election;Vladimir Muthan became the 5th time
-
-*2024-03-18 09:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்ய-தேர்தல்-5ஆவது-முறையாகவும்-அதிபரானார்-விளாடிமிர்-புதின்/50-334824) · `ta`
-
-Vladimir Putin won 88% of the vote in Russia's presidential election, becoming the most powerful leader since Joseph Stalin.
-
-🟩
-
-Vladimir Putin has won 88% of the vote in the presidential election in Russia. This is determined to resume as chancellor.
-
-Russia is the largest country in the world.. Although Russia is many times larger than India, the total population of the country is just 15 crores.
-
-Mint, who came to power in 1999, became the most powerful person in Russia. Joseph Stalin has overcatted the list of those who have been the leader of the long -term leader in Russia and the Soviet Union in the last 200 years.
-
-While this is the first election after Ukraine's war. Remble
-
-◼️
-
-[Data](articles/a7734c95.json)
-
-[Extended Data](ext_articles/a7734c95.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-03-18 09:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194626) · `si`
-
-Sri Lanka wins the coin toss in the 3rd and final ODI against Bangladesh.
-
-🟩
-
-Sri Lanka has won the toss and win the coin of Bangladesh third and final ODI squad.
-
-◼️
-
-[Data](articles/d4da279e.json)
-
-[Extended Data](ext_articles/d4da279e.ext.json)
 
 ---

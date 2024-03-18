@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 00:33:56**
+As of **2024-03-19 01:03:16**
 
 ## Newspaper Stats
 
-*Scraped **13,671** Articles*
+*Scraped **13,672** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 127
 bbccomsinhala | 151
 dbsjeyarajcom | 187
 newsfirstlk | 363
-dailyftlk | 717
+dailyftlk | 718
 economynextcom | 724
 islandlk | 746
 adalk | 1,179
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,173
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,667 (100.0%) of 13,671 articles have been extended.
+13,672 (100.0%) of 13,672 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -60,6 +60,28 @@ In addition, the 1000 million rupee project provided to local councils to develo
 
 ---
 
+### “Sri Lanka’s political discourse and ageism”: A response
+
+*2024-03-18 23:28:03* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-political-discourse-and-ageism-A-response/14-759643) · `en`
+
+I read with great appreciation the Editorial titled “Sri Lanka’s political discourse and ageism” appearing in the Weekend FT of 16 March 2024 (https://www.ft.lk/ft_view__editorial/Sri-Lanka-s-political-discourse-and-ageism/58-759554).
+
+I would like to make the following comments based on your Editorial.
+
+I am in total agreement of your last sentence where you prophetically warn of the dangers of ageism.
+
+I had made a comment two years ago (attached herewith) on similar lines.
+
+In this comment I specifically focused on ‘old’ politicians (not by age but by duration of involvement in politics) and their continued adherence to ‘old’ political ideas (once again not due to age but due to outdated political economic and other ideas and not changing them to benefit the citizens of Sri Lanka).
+
+...
+
+[Data](articles/282b8f8c.json)
+
+[Extended Data](ext_articles/282b8f8c.ext.json)
+
+---
+
 ### MP Sarath Weerasekara dials wrong number over SLT privatisation
 
 *2024-03-18 23:27:07* · [`dailyftlk`](https://www.ft.lk/opinion/MP-Sarath-Weerasekara-dials-wrong-number-over-SLT-privatisation/14-759642) · `en`
@@ -69,6 +91,8 @@ It was interesting to read the reply by MP Sarath Weerasekara (https://www.ft.lk
 ...
 
 [Data](articles/10bf7509.json)
+
+[Extended Data](ext_articles/10bf7509.ext.json)
 
 ---
 
@@ -106,6 +130,8 @@ The heading in the Daily Mirror of 18 March 2024, “Public Trust in Parliament 
 
 [Data](articles/37e0516a.json)
 
+[Extended Data](ext_articles/37e0516a.ext.json)
+
 ---
 
 ### Three ways boards can drive data centricity
@@ -122,6 +148,8 @@ Organisations are entering a new frontier of data and analytics, which will driv
 
 [Data](articles/0720727a.json)
 
+[Extended Data](ext_articles/0720727a.ext.json)
+
 ---
 
 ### Mitigating climate-related sovereign risk to accelerate action on the climate emergency
@@ -135,6 +163,8 @@ For example, the devastating floods in Pakistan in 2022 were caused by heavier-t
 ...
 
 [Data](articles/ddece55d.json)
+
+[Extended Data](ext_articles/ddece55d.ext.json)
 
 ---
 
@@ -2303,21 +2333,5 @@ After the owner accepted the allegations against him, he was fiercely warned of 
 [Data](articles/2b4d6913.json)
 
 [Extended Data](ext_articles/2b4d6913.ext.json)
-
----
-
-### Eran Wickramaratne resigns from COPE
-
-*2024-03-18 12:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Eran-Wickramaratne-resigns-from-COPE/108-279072) · `en`
-
-Colombo, March 18 (Daily Mirror)- Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne has resigned from the Committee on Public Enterprises (COPE) protesting against the appointment of ineligible members to the committee.
-
-“It is dissatisfying that members who have been appointed to COPE have allegations against their personal conduct, particularly on financial transactions. This also contributes to citizen’s loss of confidence in Parliament,” he said in his letter of resignation which was sent to Speaker Mahinda Yapa Abeywardana.
-
-◼️
-
-[Data](articles/9bf50930.json)
-
-[Extended Data](ext_articles/9bf50930.ext.json)
 
 ---

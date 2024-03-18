@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 19:17:59**
+As of **2024-03-18 19:33:24**
 
 ## Newspaper Stats
 
-*Scraped **13,630** Articles*
+*Scraped **13,631** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 713
 economynextcom | 721
 islandlk | 746
 adalk | 1,176
-adaderanalk | 1,640
+adaderanalk | 1,641
 tamilmirrorlk | 1,658
 virakesarilk | 1,903
 dailymirrorlk | 2,079
@@ -26,39 +26,63 @@ adaderanasinhalalk | 2,166
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,627 (100.0%) of 13,630 articles have been extended.
+13,630 (100.0%) of 13,631 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### මුෂ්ෆිකර් යළි ගේම ඉල්ලයි
+### Accused sentenced to life in prison over drug possession
+
+*2024-03-18 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98033/accused-sentenced-to-life-in-prison-over-drug-possession) · `en`
+
+The Supreme Court has confirmed the verdict issued by the Colombo High Court to an accused found guilty of drug trafficking and possession of 2.42 grams of heroin, sentencing him to life in prison.
+
+This order was issued by a three-member Supreme Court judge bench while dismissing an appeal filed by the accused in question in this regard.
+
+The Police Narcotics Bureau (PNB) had arrested the suspect along with the drugs in his possession during a special raid.
+
+◼️
+
+[Data](articles/93d07087.json)
+
+---
+
+### Mushficer asks for rebound
 
 *2024-03-18 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194648) · `si`
 
-තීරණාත්මක තරගය කඩුලු 4කින් ජය ගත් බංග්ලාදේශය ශ්‍රී ලංකාවට එරෙහිව පැවති තරග 3කින් සමන්විත  තරගාවලිය 2ට එකක් ලෙස ජය හිමිකර ගත්තේය.
+Bangladesh won the three-wicket match against Sri Lanka as one of two matches with three matches against Sri Lanka.
 
-බංග්ලාදේශ කණ්ඩායම ජයග්‍රහණය සමරන අවස්ථාවේදී මුෂ්ෆිකර් රහීම් හෙල්මටයක් රැගෙන පැමිණ, මින් පෙර මතභේදයට තුඩුදුන් ටයිම් අවුට් සිද්ධිය යළි සිහිපත් කළ අයුරු පහතින්.
+Below, the Bangladesh team celebrates the victory and recalls the time out of time outdated time earlier.
 
 ◼️
 
 [Data](articles/38067902.json)
 
+[Extended Data](ext_articles/38067902.ext.json)
+
 ---
 
-### හෙරොයින් ජාවාරම්කරුට දුන් දඬුවම ශ්‍රේෂ්ඨාධිකරණය තහවුරු කරයි
+### Supreme Court confirms the punishment to the heroin dealer
 
 *2024-03-18 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194647) · `si`
 
-හෙරොයින් ග්‍රෑම් 2.42ක් තම සන්තකයේ තබා ගනිමින් ජාවාරම් කිරීමේ චෝදනාවට වරදකරු කෙරුණු විත්තිකරුවෙකුට කොළඹ මහාධිකරණය විසින් පනවනු ලැබූ ජීවිතාන්තය දක්වා වූ සිර දඬුවම ශ්‍රේෂ්ඨාධිකරණය විසින්  තහවුරු කර තිබේ.
+The Supreme Court upheld a heroin dealer's punishment, dismissing an appeal. The sentence was initially set by the Colombo High Court and confirmed by the Sri High Court. The accused was arrested by the Police Narurel Bureau.
 
-අදාළ විත්තිකරු විසින් ඉදිරිපත් කළ අභියාචනා පෙත්සමක් නිෂ්ප්‍රභ කරමින් ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් එම තීන්දුව ලබා දුන්නේය.
+🟩
 
-පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශය විසින් සිදුකළ වැටලීමකදී මෙම විත්තිකරු අත්අඩංගුවට ගෙන තිබුණි.
+The Supreme Court has confirmed a sentence imposed by the Colombo High Court by the Sri High Court.
+
+A three-member Supreme Court panel was given to a three-member Supreme Court panel to dismissal a appetal petition filed by the accused.
+
+The accused had been arrested in a raid conducted by the Police Narurel Bureau.
 
 ◼️
 
 [Data](articles/74a5c91c.json)
+
+[Extended Data](ext_articles/74a5c91c.ext.json)
 
 ---
 
@@ -900,17 +924,27 @@ On Sunday (17), Minister of Education Susil Premajayantha said school principals
 
 ---
 
-### මහ බැංකු අධිපතිගේ කැරට් අලය අමු වැඩියි
+### Central Bank Governor's carrot is too raw
 
 *2024-03-18 14:15:33* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකු-අධිපතිගේ-කැරට්-අලය-අමු-වැඩියි/11-408676) · `si`
 
-මහ බැංකුව වැඩිකරගත් සියයට 70ක වැටුප් වැඩිවීමෙන් සියයට 25ක් අඩු කර ගැනීමට තිරණය කළත් එය සිදුකරන්නේ මහ බැංකුවේ අත්තනෝමතික වැටුප් වැඩි කර ගැනිමට එරෙහි පනත සම්මත වීම වැළැක්වීමට යැයි පාර්ලිමේන්තු මන්ත්‍රි උදය ගම්මන්පිල මහතා පවසයි. කොළඹදී පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඔහු මේ බව පැවැසීය.
+MP Udaya Gammanpila criticizes the Central Bank's decision to reduce salary increases by 25%, calling it "too raw." He argues that this move is an attempt to prevent a bill from being passed, which would prevent future large salary increases. Gammanpila also mentions the Central Bank's history of significant salary increases and its right to arbitrarily increase salaries, contrasting this with the government's efforts to curb such increases during an economic crisis.
 
-"මහ බැංකුව සිය නිලධාරින්ට වැඩි කළ අසාමාන්‍ය වැටුප් වැඩිවීම අහෝසි කරන්නත් ඉදිරියට අත්තනෝමතිකව වැටුප් වැඩි කර ගැනීමට නොහැකි වීමටත් අපි ඉදිරිපත් කළ පනතට බය වෙලා අපිව නතර කරන්න 25%කින් වැටුප් අඩු කර ගන්න තීරණය කරලා.  මහ බැංකු අධිපතිතුමනි, ඒ කැරට් අලය නම් අමු වැඩියි.  දිරවා ගන්න අමාරුයි.  25%කින් වැටුප් අඩු කරගෙන අපිව රවට්ටලා මේ උත්සාහ කරන්නේ අපේ පනත සම්මත වෙන එක වලක්වන්නයි.
+🟩
+
+MP Udaya Gammanpila says that the Central Bank has decided to reduce 25 percent of the increase in salary increases.. He was speaking at a media briefing in Colombo.
+
+"The Governor we have not been able to reduce the salaries that have been abolished to abolish the extraordinary wage hike and the central bank has been abolished.It's hard to digest. This is trying to reduce wages by 25% and prevent us from passing our bill.
+
+70% of salary increases we are giant, but the lowest increases in the recent history of the Central Bank is 73% and 93%.If this bill is passed, you will never be able to increase this huge salary increase again.As such, if the bill delays the Parliament, parliament dissolves.Forgotten this event.
+
+The Central Bank owns the right to arbitrarily increase salary increase. Petroleum Corporation, Power Board, Port 25% - 30% of the routine. The government stopped this due to the economic crisis. However, this arbitrary force has been provided with the arbitrary force.
 
 ...
 
 [Data](articles/8ce6ee30.json)
+
+[Extended Data](ext_articles/8ce6ee30.ext.json)
 
 ---
 
@@ -2297,39 +2331,5 @@ King Mahasen's Day was built in the fourth century CE, Jethavanaramaya was built
 [Data](articles/deb71034.json)
 
 [Extended Data](ext_articles/deb71034.ext.json)
-
----
-
-### Suspect arrested in Boody Room
-
-*2024-03-18 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194627) · `si`
-
-A 27-year-old mother of two from Pamugollewa, Anuradhapura, was murdered in a boarding room on Radtuwa, Mutadadiya Road. The suspect, a resident of Balangoda, was arrested in a condition where a painting was taken to the hospital due to a painted condition in the Boeding Room in Seeduwa area. The suspect was produced before the Balangoda court and the Balangoda Base Hospital under prison officials. Preliminary investigations revealed the suspect had a casual relationship with the victim. After the murder, the suspect confessed to his friend.
-
-🟩
-
-The suspect was arrested in a condition where a painting was taken into hospital due to a painted condition of a painted condition in the Boeding Room in Seeduwa area.
-
-Such was a resident of Balangoda and Balangoda, Maduganga.
-
-The suspect was produced before the Balangoda court and the Balangoda Base Hospital under prison officials.
-
-The 27-year-old mother of two was murdered in a boarding room on the Radtuwa, Mutadadiya Road.
-
-Dilini is a woman woman named Dilini, a mother of two, a resident of Pamugollewa area in Anuradhapura.
-
-The police suspect that this murder was committed by this young man who was involved in a casual to a while.
-
-Preliminary investigations have revealed that the young man had come to the bodening room where the woman died in the seedy.
-
-After the murder, the police visited the boogon room was inspected in the room.
-
-The suspect had suspended the suspect to commit suicide after the assassination.
-
-...
-
-[Data](articles/cc86f085.json)
-
-[Extended Data](ext_articles/cc86f085.ext.json)
 
 ---

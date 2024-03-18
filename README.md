@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 01:33:41**
+As of **2024-03-19 01:51:03**
 
 ## Newspaper Stats
 
-*Scraped **13,678** Articles*
+*Scraped **13,680** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 127
 bbccomsinhala | 151
 dbsjeyarajcom | 187
 newsfirstlk | 363
-dailyftlk | 721
+dailyftlk | 723
 economynextcom | 724
 islandlk | 746
 adalk | 1,179
@@ -26,37 +26,81 @@ adaderanasinhalalk | 2,173
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,673 (100.0%) of 13,678 articles have been extended.
+13,678 (100.0%) of 13,680 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### தமிழ்த்தேசியப் பசுமை இயக்கத்தின் பசுமை அமைதி விருதுகள் விழா
+### South Korean Kiuda to launch carbon exchange in partnership with Lankan tech startup Xeptagon
+
+*2024-03-19 01:22:24* · [`dailyftlk`](https://www.ft.lk/business/South-Korean-Kiuda-to-launch-carbon-exchange-in-partnership-with-Lankan-tech-startup-Xeptagon/34-759664) · `en`
+
+Kiuda Carbon Exchange CEO Richard Yoon (left) with Xeptagon Co-Founder Dr. Sapumal Ahangama
+
+Kiuda Digital Holdings, backed by direct international investments, will be launching its state-of-the-art carbon exchange – KiudaEXin the near future.
+
+The locally developed carbon exchange will primarily target the growing demand for carbon offset credits in South Korea, Japan, and other regions of Asia. With a multi-million dollar valuation, the Kiuda Carbon Trading eco-system is backed by direct investments and endorsements from well-known and leading South Korean securities, financial firms and chaebols (conglomerates).
+
+...
+
+[Data](articles/e2b5208f.json)
+
+---
+
+### Unilever and IDB partner to uplift local industry with financial assistance
+
+*2024-03-19 01:21:47* · [`dailyftlk`](https://www.ft.lk/business/Unilever-and-IDB-partner-to-uplift-local-industry-with-financial-assistance/34-759663) · `en`
+
+Unilever Sri Lanka and the Industrial Development Board (IDB) signed a three-year memorandum of understanding to uplift SMEs in Sri Lanka. This is a public private partnership between Unilever and the IDB to jointly support the growth and development of 20 Micro Small & Medium Scale entrepreneurs in Sri Lanka every year through the Industrial Development Fund (IDF). The IDF, under the supervision of the Industrial Development Board, and conforming to guidelines of the Central Bank of Sri Lanka provides financial capital in the form of low interest, repayable loans to Micro, Small and Medium Enterprises (MSMEs), enabling them to commence or expand local manufacturing in sectors prioritized by the Ministry of Industries to fuel an export-oriented economy. The first batch of loans were handed over to 10 female micro entrepreneurs at the occasion of the International Women’s Day on the 12th of March 2024.
+
+...
+
+[Data](articles/50e30ebe.json)
+
+---
+
+### Tamil National Green Movement's Green Peace Awards Ceremony
 
 *2024-03-19 01:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179078) · `ta`
 
-தமிழ்த்தேசியப் பசுமை இயக்கத்தின் பசுமை அமைதி விருதுகள் விழா ஞாயிற்றுக்கிழமை (17) கோலாகலமாக நிகழ்ந்தேறியுள்ளது. மாணவர்களிடையேயும் பொதுமக்களிடையேயும் சூழல் விழிப்புணர்வை ஏற்படுத்தி அவர்களைச் சூழல்பாதுகாப்புச் செயற்பாடுகளில் பங்கேற்பாளர்களாக்கும் நோக்குடன் தமிழ்த்தேசியப் பசுமை இயக்கம் ஆண்டு தோறும் பசுமை அமைதி விருதுகளை வழங்கி வருகிறது. 2023ஆம் ஆண்டுக்கான விருதுகளை வழங்கும் விழா யாழ்ப்பாணம் வீரசிங்கம் மண்டபத்தில் இடம்பெற்றுள்ளது.
+The Tamil National Green Movement's Green Peace Awards Ceremony on 17th was held at Weerasingham Hall, Jaffna, aiming to raise environmental awareness. Prof. C, Vice Chancellor of the University of Jaffna, was the chief guest. The first 200 students who passed the All Ceylon General Knowledge Examination were honored with the Green Peace Certificate. The Best Environmental Operator award was given to Kanakarasa.
 
-தமிழ்த்தேசியப் பசுமை இயக்கத்தின் தலைவர் பொ.ஐங்கரநேசன் தலைமையில் நடைபெற்ற இவ்விழாவில் பிரதம விருந்தினராக யாழ்ப்பாணப் பல்கலைக்கழகத்தின் துணைவேந்தர் பேராசிரியர் சி. சிறிசற்குணராஜா அவர்கள் கலந்துகொண்டிருந்தார். சிறப்பு விருந்தினர்களாக வடமாகாணக் கல்வித் திணைக்களத்தின் பணிப்பாளர் தி. ஜோன் குயின்ரஸ், கிழக்கு மாகாண விவசாயத் திணைக்களத்தின் பணிப்பாளர் திரு. எம். எஸ். ஏ. கலீஸ் ஆகியோர் கலந்து கொண்டிருந்தார்கள்.
+🟩
+
+The Green Peace Awards of the Tamil National Green Movement held on Sunday (17). The Tamil National Green Movement is awarding the Green Peace Peace Awards with the aim of raising awareness among students and the public and making them participants in environmental protection activities.. The awards ceremony for 2023 was held at the Weerasingham Hall, Jaffna.
+
+Prof. C, Vice Chancellor of the University of Jaffna, was the chief guest at the event chaired by Tamil National Green Movement President P.Ingaranesan. Sirisakkunarajah was attending them. Director of the Department of Education of the Northern Province as Special Guests. John Queenras, Director of the Department of Agriculture of the Eastern Province. M.. S.. A.. Khalis was also present.
 
 ...
 
 [Data](articles/1d9ab9e5.json)
 
+[Extended Data](ext_articles/1d9ab9e5.ext.json)
+
 ---
 
-### தீர்மானங்களை எடுக்கும் சகல மட்டங்களிலும் பெண்களை இணைப்பதற்கு அழைப்பு
+### Call to connect women at all levels that make decisions
 
 *2024-03-19 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/179077) · `ta`
 
-அபிலாசைகளுக்கும் யதார்த்தத்துக்கும், சொல்லுக்கும் செயலுக்கும், சட்டங்களுக்கும் அவற்றின் நடைமுறைப்படுத்தலுக்கும் இடையில் உள்ள வெளி இலங்கையில் ஒரு முக்கிய பிரச்சினை. பாலின உறவுகளும் இதற்கு விதிவிலக்கு இல்லை.
+The National Peace Council's seminar, 'Social Engagement, Learning and Support Women' (Woice), highlighted gender disparities in Sri Lanka, emphasizing the need for women's representation in politics and the implementation of laws protecting women's rights. Despite over 56% of voters being women, only 6% of MPs are women. The event featured discussions on women's rights, violence against women, and the importance of women in democracy. The council urged the government to enforce laws protecting women's rights and ensure women's representation in politics.
 
-தேசிய சமாதானப் பேரவையினால் ஏற்பாடு செய்யப்பட்டிருந்த ' சமூக ஈடுபாடு, கற்றல் மற்றும் ஆதரித்தல் ஊடாக பெண்களை உள்வாங்குவதற்கான முயற்சிகள் ' ( The Women Organised for Inclusion through Community Engagement, Learning and Advocacy Symposium -- WOICE ) தொடர்பிலான கருத்தரங்கு நாட்டின் ஏழு மாவடடங்களில் இரு்து 120 க்கும் அதிகமான பெண் தலைவர்களையும் செயற்பாட்டாளர்களையும் ஒரு அரங்கில் ஒன்றிணைத்தது. குடிமக்களுக்கு சட்டங்களைப் பற்றியும் அவற்றை அரசாங்கம் நடைமுறைப்படுத்துவது குறித்தும் அறிவு இல்லை என்ற அவதானிப்பு இந்த கருத்தரங்கில்  முக்கியமாக முன்வைக்கப்பட்டது.
+🟩
+
+An important issue in the outside Sri Lanka between aspirations, reality, words, actions, laws and their implementation. Gender relationships are no exception.
+
+The National Peace Council organized by the National Peace Council, 'Social Engagement, Learning and Support Women' (The Women Organized for Inclusion Through Community Engagement, Learning and Advocacy Symposium - Woice. In this seminar, the seminar was maintained that citizens had no knowledge of laws and the implementation of the government.
+
+One of the speakers at the event, MP Sudarshini Fernandopulle, stressed that each voter could be able to use the vote to ensure that at least one of the three options offered in the upcoming elections would be given to the female candidate.
+
+Parliamentarian Dalada Attukorala pointed out that a few in Parliament are exceptionally exceptional by the members of the Human Rights, especially women's rights.
 
 ...
 
 [Data](articles/1de5d734.json)
+
+[Extended Data](ext_articles/1de5d734.ext.json)
 
 ---
 
@@ -82,6 +126,8 @@ Chair and Senior Professor of English, and Founder Director Prof. Maithree Wickr
 
 [Data](articles/3cb82fa7.json)
 
+[Extended Data](ext_articles/3cb82fa7.ext.json)
+
 ---
 
 ### Women’s Symposium calls for inclusion of women at all levels of decision making
@@ -93,6 +139,8 @@ A major problem in Sri Lanka is the gap between aspirations and reality, words a
 ...
 
 [Data](articles/20eddec3.json)
+
+[Extended Data](ext_articles/20eddec3.ext.json)
 
 ---
 
@@ -109,6 +157,8 @@ This year’s commemoration of women within the LOLC Group highlighted the organ
 ...
 
 [Data](articles/b454579f.json)
+
+[Extended Data](ext_articles/b454579f.ext.json)
 
 ---
 
@@ -2247,59 +2297,5 @@ Despite not getting much support from the other end, Liyanage operated brilliant
 [Data](articles/99323108.json)
 
 [Extended Data](ext_articles/99323108.ext.json)
-
----
-
-### Little daughter sensitive to the father's death
-
-*2024-03-18 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194633) · `si`
-
-A tragic incident in Baruven, Canada, resulted in the death of six Sri Lankans, including five in Sri Lanka. The funeral began at 10.30 pm last night, attended by many locals and family members. Dhanushka Wickremasinghe, a survivor, led the ritual. The victims' daughter expressed deep sorrow, wishing her father a peaceful afterlife.
-
-🟩
-
-The funeral of the six Sri Lankans took the funeral of the four persons including the four children who were killed in an Ottawa house in Canada.
-
-Six Sri Lankans, including five Sri Lankan in Sri Lanka, was brutally murdered at a house in the Baruven area in Baruven, Canada.
-
-The youth is the 19-year-old Sri Lankan Felgrio de Zoysa.
-
-The funeral of the six Sri Lankans who died in the incident began at around 10.30 pm last night.
-
-The victims were brought to the Body of Sri Lankans' Body of Sri Lanka.
-
-Many people who live in Baruven have participated in this.
-
-Dhanushka Wickremasinghe, the father of the Sri Lankan family who survived the survivors, attended the funeral covering the funeral and coverage of the south of the right hand.
-
-Dhanushka's father and brother were also present.
-
-Dhanushka joined the ritual of the memory and pan.
-
-The wife of the Wickremesinghe family, who was killed by the attack, had been recording a recording message for the funeral from the country.
-
-...
-
-[Data](articles/b1ca91bd.json)
-
-[Extended Data](ext_articles/b1ca91bd.ext.json)
-
----
-
-### Iran Wickremaratne resigns from Cobb group
-
-*2024-03-18 13:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179027) · `ta`
-
-Iran Wickremaratne, a United People's Power MP, resigned from the COP committee.
-
-🟩
-
-United People's Power Member of Parliament Iran Wickremaratne has resigned from the parliamentary committee (COP) membership.
-
-◼️
-
-[Data](articles/eeef32ec.json)
-
-[Extended Data](ext_articles/eeef32ec.ext.json)
 
 ---

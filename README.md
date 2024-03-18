@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 07:43:34**
+As of **2024-03-18 07:31:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,135
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,494 (100.0%) of 13,495 articles have been extended.
+13,485 (99.9%) of 13,495 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -600,8 +600,6 @@ Sri Lanka are plagued by injuries with Dushmantha Chameera and Asitha Fernando b
 
 [Data](articles/a1c6f434.json)
 
-[Extended Data](ext_articles/a1c6f434.ext.json)
-
 ---
 
 ### 21 Indian fishermen in the case of crossing the border
@@ -638,8 +636,6 @@ AICPA & CIMA, together as the Association of International Certified Professiona
 
 [Data](articles/1ea54a98.json)
 
-[Extended Data](ext_articles/1ea54a98.ext.json)
-
 ---
 
 ### Surge Global secures multi-million dollar government contract in Qatar
@@ -653,8 +649,6 @@ The collaborative effort between Surge Global and GBM Qatar was the result of th
 ...
 
 [Data](articles/04a41017.json)
-
-[Extended Data](ext_articles/04a41017.ext.json)
 
 ---
 
@@ -671,8 +665,6 @@ BAIC is the 6th largest automobile company in China. Founded in 1958 as the Beij
 ...
 
 [Data](articles/7d536b69.json)
-
-[Extended Data](ext_articles/7d536b69.ext.json)
 
 ---
 
@@ -694,8 +686,6 @@ People’s Bank and George Steuart Solutions join forces to promote solar energy
 
 [Data](articles/8363b48d.json)
 
-[Extended Data](ext_articles/8363b48d.ext.json)
-
 ---
 
 ### Cinnamon Life gearing for future-focused businesses
@@ -712,8 +702,6 @@ The tower boasts 24 floors dedicated to offices and five floors for parking. Eac
 
 [Data](articles/55b412e7.json)
 
-[Extended Data](ext_articles/55b412e7.ext.json)
-
 ---
 
 ### Brandix rising for ‘HER’
@@ -725,8 +713,6 @@ Brandix, continues to lead efforts to inspire and empower women across all walks
 ...
 
 [Data](articles/305c7071.json)
-
-[Extended Data](ext_articles/305c7071.ext.json)
 
 ---
 

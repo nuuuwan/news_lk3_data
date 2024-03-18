@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 08:02:59**
+As of **2024-03-18 08:17:53**
 
 ## Newspaper Stats
 
-*Scraped **13,503** Articles*
+*Scraped **13,504** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,51 @@ adaderanalk | 1,629
 tamilmirrorlk | 1,653
 virakesarilk | 1,874
 dailymirrorlk | 2,055
-adaderanasinhalalk | 2,138
+adaderanasinhalalk | 2,139
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,500 (100.0%) of 13,503 articles have been extended.
+13,503 (100.0%) of 13,504 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### හංවැල්ලේ දී කොටුවූ හෙරොයින් ජාවාරම්කරු
+### කථානායකට එරෙහි විශ්වාසභංග විවාදයට පිල්මාරුවක්?
+
+*2024-03-18 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194620) · `si`
+
+කථානායකවරයාට එරෙහි විශ්වාසභංගය ජයග්‍රාහනය කරවීම සඳහා පක්ෂ විපක්ෂ මන්ත්‍රීවරු මේ වන විට සාකච්ඡා ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/0a67dbe9.json)
+
+---
+
+### Heroin racketeer arrested in Hanwella
 
 *2024-03-18 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194619) · `si`
 
-හෙරොයින් කිලෝග්‍රෑමයට අධික ප්‍රමාණයක් සමග සැකකරුවෙකු අත්අඩංගුවට ගැනීමට වලාන දුෂණ මර්දන ප්‍රහාරක ඒකකය කටයුතු කර තිබේ.
+A heroin racketeer was arrested in Hanwella, with the Walana Corrupt Association involved. The suspect was apprehended by the Hanwella Police Division in Balage, Balagewatta, on 17th. Five bank accounts and four debit cards were seized. The suspect is linked to a drug dealer.
 
-ඊයේ (17) උදෑසන කාලයේ දී හංවැල්ල පොලිස් වසමේ බාලගේවත්ත ප්‍රදේශයේ දී වලාන දුෂණ මර්දන ප්‍රහාරක ඒකකයේ නිලධරීන්ට ලද තොරතුරකට අනුව වැටලීමක් කර හෙරොයින් කිලෝග්‍රෑම් 1ක් සහ මිලිග්‍රෑම් 3ක් සමග මත්ද්‍රව්‍ය ජාවාරම් කිරීම සඳහා යොදාගත් බවට සැක කරන ජංගම දුරකථන 3ක් සන්තකයේ තබාගෙන සිටි සැකකරුවෙකු අත්අඩංගුවට ගෙන හංවැල්ල පොලීසියට ඉදිරිපත් කර ඇත.
+🟩
 
-මෙම සැකකරු සන්තකයේ තිබී විවිධ බැංකුවලට අයත් බැංකු ගිණුම් පාස්පොත් 5ක් හා ඩෙබිඩ් කාඩ්පත් 4ක් ද පොලීසිය භාරයට ගෙන ඇත.
+The Walana Corrupt Association has acted in a suspect with excessive amounts of heroin.
 
-සැකකරු බන්ධනාගාර ගතව සිටින මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු විසින් මෙහෙයවනු ලබන ජාවාරම්කරුවෙකුගේ සමීපතමයෙකු බවට විමර්ශනයේදී තොරතුරු අනාවරණය වී ඇත.
+Suspect arrested with information on information from the Hanwella Police Division in Balage, Balagewatta area yesterday (17) and arrested the Hanwella Police.Submitted.
+
+The police have also seized five bank accountsbook and four debit cards belonging to the suspect's possession.
+
+Investigations have revealed that the suspect is a close associate of a racketeer driven by a drug dealer.
 
 ◼️
 
 [Data](articles/2b432aab.json)
+
+[Extended Data](ext_articles/2b432aab.ext.json)
 
 ---
 
@@ -114,6 +132,8 @@ The arrestee has been handed over to Hanwella Police who are conducting further 
 
 [Data](articles/12327feb.json)
 
+[Extended Data](ext_articles/12327feb.ext.json)
+
 ---
 
 ### Evening showers expected in parts of the island
@@ -129,6 +149,8 @@ Misty conditions can be expected at some places in Sabaragamuwa and Central prov
 ◼️
 
 [Data](articles/d010bd35.json)
+
+[Extended Data](ext_articles/d010bd35.ext.json)
 
 ---
 
@@ -2235,19 +2257,5 @@ She said this small group will not give up easily, adding that people of Sri Lan
 [Data](articles/f27c8aa2.json)
 
 [Extended Data](ext_articles/f27c8aa2.ext.json)
-
----
-
-### Ranil’s Distortion Of Facts About The Sri Lankan Political Scenario In 1977
-
-*2024-03-17 15:00:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ranils-distortion-of-facts-about-the-sri-lankan-political-scenario-in-1977/) · `en`
-
-The reason for this article is to correct a statement recently made by President Ranil Wickremesinghe while addressing a political campaign meeting of the United National Party held in Kuliyapitiya. (See: 77 රොනී–විජේවීර ඩීල් එක ජනපති හෙළි කරයි – President reveals the 1977 Ronnie-Wijeweera Deal, and a Tik Tok post published on social media under @abeetha0325 with the heading: “ශ්‍රී ලංකා නිදහස් පක්ෂයේ මලගම” කිය කියා රැස්වීම් තියාගෙන, ජේ ආර් ව දිනවන්න, ජනතා විමුක්ති පෙරමුණේ නිර්මාතෘ රෝහණ විජේවීර ගහපු ගේම් එක – The game Rohana Wijeweera, the founder of the Janata Vimukthi Peramuna, played to make JR win, while holding meetings called “The Death of the Sri Lanka Freedom Party). This is what President had said at the meeting:
-
-...
-
-[Data](articles/f48ea891.json)
-
-[Extended Data](ext_articles/f48ea891.ext.json)
 
 ---

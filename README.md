@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 15:03:00**
+As of **2024-03-18 15:17:47**
 
 ## Newspaper Stats
 
-*Scraped **13,589** Articles*
+*Scraped **13,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,50 +15,98 @@ newsfirstlk | 363
 dailyftlk | 713
 economynextcom | 717
 islandlk | 746
-adalk | 1,168
+adalk | 1,169
 adaderanalk | 1,635
 tamilmirrorlk | 1,658
-virakesarilk | 1,898
-dailymirrorlk | 2,073
+virakesarilk | 1,899
+dailymirrorlk | 2,075
 adaderanasinhalalk | 2,153
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,585 (100.0%) of 13,589 articles have been extended.
+13,589 (100.0%) of 13,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### வெடுக்குநாறியில் கைதானவர்களை விடுவிக்க கோரி நாளை யாழில் போராட்டம்
+### Struggle in Jaffna tomorrow demanding the release of the detainees
 
-*2024-03-18 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/179038) · `ta`
+*2024-03-18 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179038) · `ta`
 
-தமிழர் தாயகத்தில் தொல்லியல் என்ற போர்வையிலான பண்பாட்டு அழிப்பையும் சிங்கள - பௌத்தமயமாக்கலையும் உடன் நிறுத்துமாறு கோரியும், வவுனியா வடக்கு, வெடுக்குநாறிமலை ஆலயத்தில் நெடுங்கேணிப் பொலிஸாரால் திட்டமிட்டுக் கைது செய்யப்பட்டவர்களை உடன் விடுதலை செய்யுமாறு வலியுறுத்தியும் நாளை செவ்வாய்க்கிழமை (19) போராட்டம் முன்னெடுக்கப்படவுள்ளது.
+Protest in Jaffna tomorrow demands release of detainees, cultural preservation, and abolition of Sinhala-Buddhism in Tamil homeland. Organized by the Student Union at the University of Jaffna.
 
-யாழ்ப்பாணம் பல்கலைக்கழக முன்றலில், மாணவர் ஒன்றியத்தின் ஏற்பாட்டில் இந்தக் கவனயீர்ப்புப் போராட்டம் முன்னெடுக்கப்படவுள்ளது.
+🟩
+
+The protest will be held tomorrow (19), demanding the abolition of the cultural destruction of archeology and the Sinhala -Buddhism in the Tamil homeland, and the release of those arrested by the Nedungeni police at the Vettu Nirimalai temple in Vavuniya North.
+
+The protest will be carried out by the Student Union at the University of Jaffna.
 
 ◼️
 
 [Data](articles/473cc6a9.json)
 
+[Extended Data](ext_articles/473cc6a9.ext.json)
+
 ---
 
-### எங்களிடம் அரசியல் பொறாமைத்தனம் இல்லை ; அதனால் தான் மஹிந்த ராஜபக்ச கல்லூரிக்கும் தம்புத்தேகம தேசிய பாடசாலைகளுக்கும் பஸ்களை வழங்கினோம் - எதிர்க்கட்சித் தலைவர்
+### ඉරාන් කෝප් කමිටු සාමාජිකත්වයෙන් ඉල්ලා අස්වෙයි
+
+*2024-03-18 14:53:26* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන්-කෝප්-කමිටු-සාමාජිකත්වයෙන්-ඉල්ලා-අස්වෙයි/11-408678) · `si`
+
+පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ (කෝප්) සාමාජිකත්වයෙන් ඉල්ලා අස්වීමේ ලිපිය කථානායකවරයාට අද (18දා) යොමු කළ බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ඉරාන් වික්‍රමරත්න මහතා පැවසීය. කෝප් කමිටුවෙන් කළ සොයාගැනීම් නිවැරදි නොකිරීම, චෝදනා එල්ල වූ පුද්ගලයන් පිළිබඳ ක්‍රියාමාර්ගයක් නොගෙන යළි කෝප් කමිටුවට පත් කිරීම වැනි චෝදනා නිසා මෙලෙස තමා සාමාජිකත්වයෙන් ඉල්ලා අස්වූ බව අද කොළඹ විපක්ෂනායක කාර්යාලයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම සඳහන් කළේය.
+
+◼️
+
+[Data](articles/fbffc4d3.json)
+
+---
+
+### இலங்கை மக்கள் மத்தியி;ல் ஏதேச்சதிகாரத்திற்கான ஆதரவு  அதிகரிக்கின்றதா?  மாற்றுக்கொள்கைகளிற்கான நிலையத்தின் ஆய்வில் கவலை தரும் முடிவுகள்
+
+*2024-03-18 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179041) · `ta`
+
+மாற்றுக்கொள்கைகளிற்கான நிலையம் மேற்கொண்ட ஜனநாயகம் மற்றும் நல்லிணக்கம் குறித்த கருத்துக்கணிப்பில் கலந்துகொண்டவர்களில் பத்தில் ஒருவர் ஏதேச்சதிகாரம்குறித்து விருப்பம் வெளியிட்டுள்ளனர்.
+
+ஏனைய வகை ஆட்சி முறைகளை விட ஜனநாயக ஆட்சி முறையை அதிகளவானவர்கள் விரும்புகின்ற போதிலும் சமீபத்தைய ஆய்வின் மூலம்  பத்தில் ஒரு இலங்கையர் சில சூழ்நிலைகளில் ஜனநாயக முறையை விட சர்வாதிகார ஆட்சிமுறை பொருத்தமானது என கருதுகின்றமை  தெரியவந்துள்ளது.
+
+2018 இல்; மைத்திரிபாலசிறிசேன ரணில்விக்கிரமசிங்க அரசாங்கத்தின் காலத்தில் அரசமைப்பு நெருக்கடி உருவானவேளை இதுபோன்றதொரு மனோநிலை காணப்பட்டது என மாற்றுக்கொள்கைகளிற்கான நிலையம் தெரிவித்துள்ளது.
+
+ஜனநாயகத்திற்கான வலுவான ஆதரவு உள்ளபோதிலும் ஜனநாயக ஆட்சி மீதான  விரக்தி அதிகரிக்கும்போது எதேச்சதிகார ஆட்சிக்கான ஆதரவு புத்துயிர் பெறுவதற்கான  சாத்தியக்கூறுகள் இருப்பது ஆய்வின் மூலம் தெரியவந்துள்ளது.
+
+இதேவேளை நாடாளுமன்றம் மற்றும் அரசியல் கட்சிகள் மீதான நம்பிக்கை முன்னர் எப்போதையும் விட குறைவாக காணப்படுகின்றமையும் இந்த கருத்துக்கணிப்பின் மூலம் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/60531d95.json)
+
+---
+
+### We have no political jealousy;That is why we provided buses to Mahinda Rajapaksa College and Thambuthegama National Schools - Opposition Leader
 
 *2024-03-18 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179033) · `ta`
 
-தானக்கும் மகிந்த ராஜபக்சவுக்கும் இடையில் அரசியல் ரீதியிலான போட்டிகள் இருந்தபோதிலும், பொறாமைத்தனமான எத்தகைய முட்டாள் எண்ணங்களும் தம்மிடம் இல்லாததன் காரணமாகவே, மாத்தறை மஹிந்த ராஜபக்ச கல்லூரிக்கு பஸ்ஸைக் கூட நன்கொடையாக வழங்கி வைத்தோம். மஹிந்த ராஜபக்சவின் பெயரை விட இப்பாடசாலையின் பிள்ளைகளின் எதிர்காலமே தமக்கு முக்கியமானது என்றும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Despite political rivalry, an opposition leader donated buses to Mahinda Rajapaksa College and Thambuthegama National Schools, emphasizing the importance of education over political jealousy. The donation is part of a broader effort to provide educational opportunities, funded by domestic and foreign donors, not personal funds.
 
-முறைமையில் மாற்றம் குறித்து பல விரிவுரைகள் கருத்துரைகள் நடந்தாலும், அது களத்தில் யதார்த்தமாக இருக்க வேண்டும். கொழும்புக்கு ஒரு கவனிப்பும், கிராமத்திற்கு மற்றுமொரு கவனிப்பும் காட்டாது  அனைவருக்கும் சமமான கல்விக்கான வாய்ப்பை வழங்கும் நோக்கில் இந்த பேருந்துகளும் ஸ்மார்ட் வகுப்பறை உபகரணங்களும் வழங்கப்பட்டு வருகின்றன.
+🟩
 
-இவ்வாறு வழங்கப்பட்டு வரும் போது தனக்கு “பஸ் மேன்" என்று பெயர் சூட்டினர், இவ்வாறு  "பஸ் மேன்" என்று பெயர் சூட்டியவர் கற்ற பாடசாலைக்கும் பேருந்து வழங்கப்பட்டதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Despite the political rivalry between him and Mahinda Rajapaksa, we donated the bus to the Mahinda Rajapaksa College of Matara because of his lack of jealousy stupid thoughts.. The opposition leader said that the future of the children of the school is more important than the name of Mahinda Rajapaksa.
+
+Although there are many lectures on the change in the system, it must be realistic on the field. These buses and smart classroom equipment are being provided with the aim of providing an opportunity for education to all.
+
+Opposition Leader Sajith Premadasa said that he was named "bus man" when he was given, and that the bus man who was named "Bus Man" was given a bus.
+
+Under the universe bus supply program, the 86th phase of the school bus worth Rs.
+
+At the event, he donated Rs.
 
 ...
 
 [Data](articles/e68db023.json)
+
+[Extended Data](ext_articles/e68db023.ext.json)
 
 ---
 
@@ -136,21 +184,29 @@ The temperature in a normal human body is 37 degrees, and the body is hot this m
 
 ---
 
-### சிறைச்சாலைகளிலும் பொலிஸாராலும் நீதிக்கு புறம்பான கொலைகள் : ஜெனீவாவிற்கு அறிக்கை
+### Illegal killings by prisons and police: Report to Geneva
 
 *2024-03-18 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/179031) · `ta`
 
-கைதிகளின் உரிமைகளுக்காக வாதிடும் இலங்கையின் முன்னணி அமைப்பு ஒன்று, இலங்கை பொலிஸ் மற்றும் சிறைச்சாலைகளால் மேற்கொள்ளப்பட்டதாகக் கூறப்படும் சட்டவிரோத கொலைகள் மற்றும் சித்திரவதைகள் தொடர்பாக ஐக்கிய நாடுகள் சபைக்கு விசேட அறிக்கையொன்றை வழங்கியுள்ளது.
+A Sri Lankan organization reports alleged illegal killings and torture by police and prisons to the UN. Chairman of the Prisoners' Rights Committee, Sudesh Nandimal Silva, highlights the issue, supported by two other organizations. A court ordered compensation for a victim of sexual abuse and torture.
 
-ஜெனிவாவில் நடைபெறும் ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவைக் கூட்டத்தில் தனது அறிக்கையை சமர்ப்பித்துள்ளதாக கைதிகளின் உரிமைகளை பாதுகாக்கும் குழுவின் (CPRP) தலைவர் சுதேஷ் நந்திமால் சில்வா ஜெனீவாவில் இருந்து காணொளி மூலம் ஊடகங்களுக்கு அறிவித்துள்ளார்.
+🟩
 
-"இலங்கையில் நடத்தப்பட்ட மனிதாபிமானமற்ற கொலைகள், பொலிஸ் மற்றும் சிறைச்சாலையில் இடம்பெற்ற சட்டவிரோத கொலைகள் தொடர்பான உண்மைகளை நாங்கள் முன்வைத்தோம்."
+A Sri Lankan leading organization that argues for the rights of prisoners has issued a special report to the United Nations on the alleged illegal killings and torture carried out by the Sri Lankan police and prisons.
 
-சித்திரவதை தொடர்பில் நீதிமன்றத்தினால் குற்றவாளியாகக் காணப்பட்ட ஒருவரை பொலிஸ் மா அதிபராக நியமித்தமை தொடர்பில் மேலும் இரண்டு அமைப்புகளுடன் இணைந்து அறிக்கை சமர்ப்பித்ததாக சுதேஷ் நந்திமால் சில்வா மேலும் வலியுறுத்தி
+Sudesh Nandimal Silva, Chairman of the Prisoners' Rights (CPRP) Committee (CPRP), has informed the media via Video
+
+"We presented the facts about the inhumane killings in Sri Lanka, the illegal killings in the police and the prison."
+
+Sudesh Nandimal Silva further stressed that two more organizations have submitted a report on the appointment of a police chief as a police chief in connection with torture.
+
+"We have created a document with the Committee to Protect the Rights of Prisoners, Society and Religious Center (CSR) and Bex Romena and handed over to the UN Special Relief on Human Rights."
 
 ...
 
 [Data](articles/f708e098.json)
+
+[Extended Data](ext_articles/f708e098.ext.json)
 
 ---
 
@@ -271,6 +327,20 @@ In addition, Kalkissa police said that 12 grams of Ice had been seized from the 
 [Data](articles/aaa237a2.json)
 
 [Extended Data](ext_articles/aaa237a2.ext.json)
+
+---
+
+### Liyanage’s maiden ODI century lifts SL to 235
+
+*2024-03-18 13:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Liyanage-s-maiden-ODI-century-lifts-SL-to-235/108-279075) · `en`
+
+Chattogram, March 18 - Sri Lanka's rising batting sensation Janith Liyanage hammered his maiden ODI hundred in the third and deciding ODI versus Bangladesh in Chattogram.
+
+Despite not getting much support from the other end, Liyanage operated brilliantly and ended up scoring an unbeaten 101 off 102 balls (11 fours, 2 sixes).
+
+◼️
+
+[Data](articles/129b3a74.json)
 
 ---
 
@@ -592,17 +662,25 @@ However, the Western media reports that the Creation of the Armedard would not a
 
 ---
 
-### දිස්ත්‍රික්ක 16ක උණසුම අවදානම් තත්ත්වයක
+### A fever of 16 districts in a risk
 
 *2024-03-18 12:20:32* · [`adalk`](https://www.ada.lk/breaking_news/දිස්ත්‍රික්ක-16ක-උණසුම-අවදානම්-තත්ත්වයක/11-408671) · `si`
 
-දිස්ත්‍රික්ක 16ක ඇතැම් ස්ථානවලට අද (18දා) මිනිස් සිරුරට දැනෙන උණුසුම් තත්ත්වය අවධානය යොමු කළ යුතු මට්ටමේ පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුවේ ස්වාභාවික විපත් පිළිබඳ අනතුරු ඇඟවීමේ මධ්‍යස්ථානය සඳහන් කරයි. වවුනියාව, ත්‍රිකුණාමලය,පොළොන්නරුව, අම්පාර,මොනරාගල, මඩකලපුව,පුත්තලම, කුරුණෑගල,ගම්පහ, කොළඹ,හම්බන්තොට, මන්නාරම, අනුරාධපුර, කෑගල්ල, කළුතර හා රත්නපුර දිස්ත්‍රික්කවල මෙම තත්ත්වය පැවතිය හැක. මේ නිසා අදාළ දිස්ත්‍රික්කවල වැඩිහිටි හා රෝගී ජනතාව පිළිබඳව සැලකිලිමත් විය යුතු බවට දැනුම් දෙන අතර කුඩා ළමුන් වාහන තුළ තනියම රඳවා නොයන ලෙසත් ඉල්ලා සිටියි.
+The Meteorological Department warns of high temperatures in 16 districts today, affecting the elderly and sick. It advises residents to drink water, wear light clothing, and avoid direct sunlight. The hot index, not atmospheric temperature, indicates dehydration risks.
 
-වැඩබිම් තුළ සේවය කරන පිරිස් ප්‍රමාණවත් තරම් ජලය පානය කරන ලෙසත්, සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගන්නා ලෙසත්, අධික වෙහෙසසකාරී  කටයුතු සීමා කරන ලෙසත්, සුදු හෝ ලා පැහැති සැහැල්ලු ඇඳුම් භාවිත කරන ලෙසත් ජනතාවගෙන් ඉල්ලා සිටින බවද එම මධ්‍යස්ථානය සඳහන් කරයි.
+🟩
+
+The Meteorological Department (Natrogege Department) states that the warm quality of 16 districts will be atherent to the human body today (18th) the Meteorological Disasters.. This situation may exist in Vavuniya, Trincomalee, Polonnaruwa, Ampara, Puttalam, Gampaha, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle, Kegalle and Ratnapura. As a result, the districts in the respective districts will be aware that they should be concerned about the elderly and sick people, but they are also demanding not to be held alone in vehicles.
+
+The center also requests the people to drink sufficient water in the plantations, to restrict the shade of the shade, and to use white or light-colored lightwear to restrict the stations.
+
+According to the Meteorological Department, the hot index, the hot index, the hot index, the heated number of hot orpatrication and maximum temperature value received by the meteorological intercourse have been prepared.
 
 ...
 
 [Data](articles/81c5eadb.json)
+
+[Extended Data](ext_articles/81c5eadb.ext.json)
 
 ---
 
@@ -991,6 +1069,24 @@ These were implemented in the Welikada, Mahara, and Agunakolapalassa prisons, wh
 [Data](articles/2efc45fb.json)
 
 [Extended Data](ext_articles/2efc45fb.ext.json)
+
+---
+
+### Ballot boxes for Maldives’ elections to be placed in India, Sri Lanka
+
+*2024-03-18 11:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ballot-boxes-for-Maldives-elections-to-be-placed-in-India-Sri-Lanka/108-279058) · `en`
+
+The ballot boxes for Maldives’ upcoming parliamentary elections will be placed in India, Sri Lanka and Malaysia, after around 11,000 Maldivians submitted re-registration requests to relocate their polling stations, the country’s election commission announced on Sunday.
+
+The six-day window for people to relocate their voting stations for the April 21 parliamentary elections expired on Saturday, media reports said, citing an Elections Commission notification.
+
+The top electoral body said that ballot boxes for the island nation’s elections will also be placed in Trivandrum (Thiruvananthapuram), the capital of Kerala, Sri Lanka’s Colombo and Malaysia’s Kuala Lumpur after at least 150 people re-register to vote in each of the three countries.
+
+“As previously, enough people registered in Sri Lanka and Malaysia. And since 150 people had registered in Trivandrum, India, we have decided to set up a ballot box there,” web portal adadhu.com quoted EC’s secretary-general Hassan Zakariyya as saying.
+
+...
+
+[Data](articles/6208694d.json)
 
 ---
 
@@ -2171,85 +2267,5 @@ Northern Province Chief Secretary S.M. Saman Bandulasena along with other Govern
 [Data](articles/c83d8939.json)
 
 [Extended Data](ext_articles/c83d8939.ext.json)
-
----
-
-### Ambassador Sumith Dassanayake presents credentials in Suriname
-
-*2024-03-18 04:08:43* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-Sumith-Dassanayake-presents-credentials-in-Suriname/56-759621) · `en`
-
-Joint Commission on Political and Economic Cooperation between the two countries in the offing
-
-The Ambassador of Sri Lanka to the Federative Republic of Brazil, Sumith Dassanayake who  is concurrently accredited as the Ambassador of Sri Lanka to the Republic of Suriname, presented his Letters of Credence as non- resident Ambassador, to the President of the  Republic of Suriname, Chandrikapersad Santokhi at the Presidential Palace in Paramaribo recently.
-
-The presentation of Credentials ceremony in Suriname included a guard of honour,  presentation of Credential papers to the President followed by a bilateral discussion with the  President accompanied by the Minister of Foreign Affairs of Suriname, signing the golden  book and interaction with the media.
-
-During his meeting with the President of Suriname, Ambassador Sumith Dassanayake  conveyed greetings of President Ranil Wickremesinghe and the Government of Sri Lanka,
-
-...
-
-[Data](articles/15bcb56f.json)
-
-[Extended Data](ext_articles/15bcb56f.ext.json)
-
----
-
-### Understanding tourism earnings for better macro-economic forecasting
-
-*2024-03-18 03:26:29* · [`dailyftlk`](https://www.ft.lk/columns/Understanding-tourism-earnings-for-better-macro-economic-forecasting/4-759617) · `en`
-
-2024 would be a telling year in not only further understanding tourism’s role within the economy, but also its role in forecasting for the future
-
-How close is the reported tourism earnings estimate to reality?
-
-In understanding the macroeconomy, carefully hashing out details within the Balance of Payments (BOP) current account is an important initial step. Official tourism earnings contribute significantly to Sri Lanka’s balance of payments (BOP) figures. This makes accurately tracking the foreign exchange earnings from the tourism industry crucial for understanding external sector performance and as macro advisors this tie in closely into our work of formulating potential scenarios for macro variable forecasting.
-
-...
-
-[Data](articles/d2926fd4.json)
-
-[Extended Data](ext_articles/d2926fd4.ext.json)
-
----
-
-### Innovating for better health, saving lives: Sri Lanka’s ambulance story
-
-*2024-03-18 03:19:47* · [`dailyftlk`](https://www.ft.lk/columns/Innovating-for-better-health-saving-lives-Sri-Lanka-s-ambulance-story/4-759616) · `en`
-
-In the rural town of Morawaka located in southern Sri Lanka, home to lush tea estates and paddy fields, Ramya is finally mother to a beautiful baby girl. She was born after a harrowing experience of an umbilical cord prolapse, a condition where the umbilical cord gets out of the body before the baby and risks cutting off the baby’s blood and oxygen supply. Ramya’s daughter was thankfully born safe—although in a surprising twist- aboard an ambulance, one of the world’s most digitally advanced and free ambulance services in Sri Lanka called ‘1990 Suwa Seriya’.
-
-...
-
-[Data](articles/c057bbc0.json)
-
-[Extended Data](ext_articles/c057bbc0.ext.json)
-
----
-
-### Women's Premier League Cricket-20124: Royal Challengers Bangalore New Champion
-
-*2024-03-18 03:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178971) · `ta`
-
-Royal Challengers Bangalore won the 20124 Women's Premier League Cricket, defeating Delhi Capitals by 8 wickets. Key players included Sofi Molinox, Sriyanka Batti, and Asha Sobhana. The team's victory was not easy, securing the title by winning the last over.
-
-🟩
-
-Royal Challengers Bangalore was the second women's Premier League R20 cricket chapter in Bangalore and later in Delhi.
-
-Royal Challengers Bangalore, who qualified to play in the current champion Mumbai Indians, beat Delhi Capitles by 8 wickets in the most exciting final in the last night's lighting event.
-
-The most accurate bowling of Sofi Molinox, Sriyanka Batti and Asha Sobhana and the rituals of the leading players have raised the Royal Valanters Bangalore team as a new champion.
-
-The Royal Challengers Bangalore women's team has achieved the second women's Premier League chapter that the Royal Challengers Bangalore team cannot achieve in the 16 Indian Premier League (Men) chapters and 3 Vimens T20 Celebrity Chapters.
-
-However that success is not easy. Royal Challengers Bangalore won the last over.
-
-Royal Challengers Bangalore lost 2 wickets in 19.3 overs and won the champion title by winning 114 runs.
-
-...
-
-[Data](articles/7a6e07bd.json)
-
-[Extended Data](ext_articles/7a6e07bd.ext.json)
 
 ---

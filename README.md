@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 23:52:13**
+As of **2024-03-19 00:03:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,173
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,662 (100.0%) of 13,666 articles have been extended.
+13,666 (100.0%) of 13,666 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Sri Lanka has added fast bowler Lahiru Kumara to the squad, replacing the injure
 ...
 
 [Data](articles/3f850cb1.json)
+
+[Extended Data](ext_articles/3f850cb1.ext.json)
 
 ---
 
@@ -1002,6 +1004,8 @@ Global Conversions said the converted vehicle was tested and its functionality v
 
 [Data](articles/e1a78638.json)
 
+[Extended Data](ext_articles/e1a78638.ext.json)
+
 ---
 
 ### Bangladesh wins the 3rd ODI against Sri Lanka;Captured the one -day series
@@ -1164,6 +1168,8 @@ A bond maturing on 01.07.2032 closed at 12.40/75 percent from 12.55/75 percent. 
 
 [Data](articles/c9a4cda1.json)
 
+[Extended Data](ext_articles/c9a4cda1.ext.json)
+
 ---
 
 ### Two Pitigala murder suspects remanded
@@ -1297,6 +1303,8 @@ Companies that saw high volumes traded were Browns Investments Plc (86mn), which
 ...
 
 [Data](articles/85b54e8b.json)
+
+[Extended Data](ext_articles/85b54e8b.ext.json)
 
 ---
 

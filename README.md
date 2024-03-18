@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 22:51:07**
+As of **2024-03-18 23:06:15**
 
 ## Newspaper Stats
 
-*Scraped **13,660** Articles*
+*Scraped **13,662** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,81 @@ islandlk | 746
 adalk | 1,179
 adaderanalk | 1,645
 tamilmirrorlk | 1,663
-virakesarilk | 1,906
-dailymirrorlk | 2,086
+virakesarilk | 1,907
+dailymirrorlk | 2,087
 adaderanasinhalalk | 2,173
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,659 (100.0%) of 13,660 articles have been extended.
+13,660 (100.0%) of 13,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### நீர்த்தேக்கத்தில் மூழ்கி இளம் பிக்கு உயிரிழப்பு
+### விவசாயத் துறை நவீனமயமாக்கல் திட்டத்தின் கீழ் புதிய தொழில்நுட்பத்தைப் பயன்படுத்தி விவசாயம் செய்த இரண்டு வெற்றிகரமான விவசாயிகள் ஜனாதிபதியைச் சந்தித்தனர்
+
+*2024-03-18 22:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179074) · `ta`
+
+அரை ஏக்கர் மிளகாய் பயிரிட்டு ஒன்பது மாதங்களில் 12 மில்லியன் ரூபா வருமானம் ஈட்டிய அநுராதபுரம், திரப்பனை, புளியங்குளம் கிராமத்தைச் சேர்ந்த இளம் விவசாயி பந்துல முனசிங்க மற்றும் ஒரு ஏக்கர் தர்பூசணி பயிரிட்டதன் மூலம் இரண்டு மாதங்களில் 4 மில்லியன் ரூபா வருமானம் பெற்ற கல்குளம பிரதேசத்தைச் சேர்ந்த இளம் விவசாயி புத்திக சுதர்ஷன. ஜனாதிபதி அலுவலகத்தில் இன்று திங்கட்கிழமை (18) பிற்பகல் ஜனாதிபதி ரணில் விக்ரமசிங்கவைச்  சந்தித்தனர்.
+
+இந்த இளம் விவசாயிகள் தமது அறுவடையின் ஒரு பகுதியுடன் ஜனாதிபதியைச் சந்தித்ததுடன், வளமான விளைச்சலைப் பெறுவதற்கு வழிகாட்டி அரசாங்கத்தின் விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தை நடைமுறைப்படுத்தியமைக்காக ஜனாதிபதிக்கு நன்றி தெரிவித்தனர்.
+
+விவசாய அமைச்சின் விவசாய நவீனமயமாக்கல் திட்டத்தினூடாக அறிமுகப்படுத்தப்பட்ட அதிக அடர்வு பயிர்ச்செய்கை முறையைப் பயன்படுத்தி பந்துல முனசிங்க அரை ஏக்கரில் மிளகாய் பயிரிட்டுள்ளார்.
+
+...
+
+[Data](articles/afdab7ce.json)
+
+---
+
+### Trump unable to get $464m bond in New York fraud case, his lawyers say
+
+*2024-03-18 22:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Trump-unable-to-get-464m-bond-in-New-York-fraud-case-his-lawyers-say/107-279090) · `en`
+
+New York, March 18 (BBC) - Donald Trump's lawyers have said finding a bond to cover the $464m (£365m) judgement in his New York fraud case is a "practical impossibility".
+
+A judge ordered Mr Trump to pay the penalty in February for falsely inflating the value of his assets.
+
+Mr Trump offered to post a smaller bond of $100m while he appeals, but that request was denied.
+
+In a filing on Monday, his lawyers said they had approached 30 companies to back the bond without success.
+
+"The amount of the judgement, with interest, exceeds $464m, and very few bonding companies will consider a bond of anything approaching that magnitude," his lawyers wrote in the nearly 5,000-page filing.
+
+They are asking a judge to put the judgement on pause while Mr Trump appeals against the decision.
+
+"The practical impossibility of obtaining a bond interferes with defendants' right to appeal," his lawyers said.
+
+Mr Trump's two eldest sons also must pay millions of dollars in the case.
+
+...
+
+[Data](articles/0e873b95.json)
+
+---
+
+### Drowning in the reservoir
 
 *2024-03-18 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/179073) · `ta`
 
-வனாத்தவில்லுவ ஸ்ரீ தர்மராஜா விகாரைக்கு விஜயம் செய்திருந்த போது, விகாரையில் இருந்த பிக்குகள் குழுவுடன் நீராடச் சென்ற போதே இந்த அனர்த்தம் நிகழ்ந்துள்ளதாக  தெரிவிக்கப்படுகின்றது.
+Heel Oya Sankananda Thera, educated at Rajarata Bikku University, drowned in Vanathavilluwa Sri Dharmaraja Viharaya. An autopsy is scheduled for Tuesday, with ongoing investigations by Karuwalakaswewa police.
 
-மேலும் உயிரிழந்தவர் ரஜரட்ட பிக்கு பல்கலைக்கழகத்தில் கல்வி கற்று வந்த ஹீல்ஒய சங்கானந்த தேரர் என தெரியவந்துள்ளது.
+🟩
 
-பிக்குவின் சடலம் தொடர்பான பிரேதப் பரிசோதனை செவ்வாய்க்கிழமை (19) நடைபெறவுள்ளதுடன், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை கருவலகஸ்வெவ பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+The disaster was reported when he visited the Vanathavilluwa Sri Dharmaraja Viharaya.
+
+The deceased is also known as Heel Oya Sankananda Thera, who was educated at Rajarata Bikku University.
+
+An autopsy on Piku's body will be held on Tuesday (19) and further investigations into the incident are being carried out by the Karuwalakaswewa police.
 
 ◼️
 
 [Data](articles/75bde8ce.json)
+
+[Extended Data](ext_articles/75bde8ce.ext.json)
 
 ---
 
@@ -2271,59 +2319,5 @@ Speaking at a press conference held today (18), he stated that the letter was ha
 [Data](articles/d2445889.json)
 
 [Extended Data](ext_articles/d2445889.ext.json)
-
----
-
-### Israel's midnight attack on Gaza's Alsiba Hospital - using tanks
-
-*2024-03-18 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/179008) · `ta`
-
-Israel attacked Gaza's Alziba Hospital at midnight with tanks, citing Hamas reunions inside. Unconfirmed videos show gunfire around the hospital. Many killed, some arrested. Israeli officials claim they acted on specific intelligence.
-
-🟩
-
-The BBC said that Israel was attacked at midnight on Gaza's Alziba Hospital.
-
-The BBC has said that they are listening to the tank and shooting sounds inside the hospital.
-
-Israel has said that Hamas organizations are reuniting inside the hospital.
-
-The Tanks are surrounded by us.
-
-Unconfirmed videos posted on social media are able to hear gun sounds in areas surrounding the hospital.
-
-Many people have been killed and some arrested in the hospital.
-
-Israeli soldiers are acting on the basis of very definite intelligence information, an Israeli official said.
-
-◼️
-
-[Data](articles/80717d98.json)
-
-[Extended Data](ext_articles/80717d98.ext.json)
-
----
-
-### Yall. Explanation for 21 Tamil Nadu fishermen arrested in Nedundi
-
-*2024-03-18 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/179007) · `ta`
-
-21 Tamil Nadu fishermen arrested in Sri Lankan waters near Nedundi by the Navy, ordered remanded until 27th by Kayts Magistrate.
-
-🟩
-
-The Kayts Magistrate has ordered the 21 Tamil Nadu fishermen who were arrested in the Sri Lankan waters and engaged in the seas of the Nedundevu sea.
-
-The Navy has arrested 21 Tamil Nadu fishermen who were involved in a fisherman in two boats on Sunday.
-
-After investigations, the arrests were made at the Kayts Magistrate's Court through the Department of Fisheries and Aquatic Resources.
-
-Following the hearing of the case, the 21 persons were ordered to be remanded until the 27th of this month.
-
-◼️
-
-[Data](articles/78255456.json)
-
-[Extended Data](ext_articles/78255456.ext.json)
 
 ---

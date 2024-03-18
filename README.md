@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 01:51:03**
+As of **2024-03-19 02:03:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,173
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,678 (100.0%) of 13,680 articles have been extended.
+13,680 (100.0%) of 13,680 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The locally developed carbon exchange will primarily target the growing demand f
 
 [Data](articles/e2b5208f.json)
 
+[Extended Data](ext_articles/e2b5208f.ext.json)
+
 ---
 
 ### Unilever and IDB partner to uplift local industry with financial assistance
@@ -57,6 +59,8 @@ Unilever Sri Lanka and the Industrial Development Board (IDB) signed a three-yea
 ...
 
 [Data](articles/50e30ebe.json)
+
+[Extended Data](ext_articles/50e30ebe.ext.json)
 
 ---
 

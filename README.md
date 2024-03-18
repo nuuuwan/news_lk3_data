@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 21:03:56**
+As of **2024-03-18 21:17:49**
 
 ## Newspaper Stats
 
-*Scraped **13,648** Articles*
+*Scraped **13,649** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 713
 economynextcom | 721
 islandlk | 746
-adalk | 1,177
+adalk | 1,178
 adaderanalk | 1,642
 tamilmirrorlk | 1,661
 virakesarilk | 1,904
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,171
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,647 (100.0%) of 13,648 articles have been extended.
+13,648 (100.0%) of 13,649 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,15 +48,21 @@ The two match test series will commence on the 22nd March at SICS, Sylhet
 
 ---
 
-### බංග්ලාදේශයට එරෙහි ශ්‍රී ලංකා ටෙස්ට් කණ්ඩායම නම්කරයි
+### Sri Lanka Test team against Bangladesh
 
 *2024-03-18 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194653) · `si`
 
-බංග්ලාදේශ කණ්ඩායමට එරෙහිව පැවැත්වෙන තරග දෙකකින් සමන්විත ටෙස්ට් තරගාවලියට එක්වන ශ්‍රී ලංකා සංචිතය නම්කර තිබේ.
+Sri Lanka's Test team is named after two matches against Bangladesh.
+
+🟩
+
+The Sri Lankan squad is named after the two matches with two matches against Bangladesh.
 
 ◼️
 
 [Data](articles/a91c5bfe.json)
+
+[Extended Data](ext_articles/a91c5bfe.ext.json)
 
 ---
 
@@ -349,6 +355,22 @@ The Police Narcotics Bureau (PNB) had arrested the suspect along with the drugs 
 [Data](articles/93d07087.json)
 
 [Extended Data](ext_articles/93d07087.ext.json)
+
+---
+
+### වික්ටෝරියාවේ ජලය ලීටර් මිලියන 4.5ක් දෛනිකව වාෂ්ප වෙයි
+
+*2024-03-18 19:03:20* · [`adalk`](https://www.ada.lk/breaking_news/වික්ටෝරියාවේ-ජලය-ලීටර්-මිලියන-4-5ක්-දෛනිකව-වාෂ්ප-වෙයි/11-408683) · `si`
+
+මේ දිනවල පවතින අධික උෂ්ණත්වය හේතුවෙන් වික්ටෝරියා ජලාශයේ ජලය ලීටර් මිලියන 4.5 ක ප්‍රමාණයක් දෛනිකව වාෂ්ප වී යන බව එහි කාර්යභාර ඉංජිනේරු වසන්ත ඇහැළපිටිය මහතා කියයි.
+
+වර්ග කිලෝමීටර් 24 ක් පුරා විසිරී පවතින වික්ටෝරියා ජලාශයේ ඇති ජලය අධික අවුරශ්මිය හේතුවෙන්ම තුපිට පෘෂ්ඨයේ මිලිමීටර 4. 4 ½ක ප්‍රමාණයක් වාෂ්ප වී යන බවද ඇහැළපිටිය මහතා පැවසීය .
+
+ජල විදුලි නිෂ්පාදනය සඳහා වික්ටෝරියා ජලාශයේ ජලය දෛනිකව භාවිතා කොට එයින් ගිගාවොට් 1.69 ක ජල විදුලියක් නිෂ්පාදනය කරන බවද කාර්යභාර ඉංජිනේරුවරයා වැඩිදුරටත් පැවසීය .
+
+◼️
+
+[Data](articles/dd34b750.json)
 
 ---
 
@@ -2297,29 +2319,5 @@ Investigations have revealed about relations with several underworld leaders in 
 [Data](articles/75d4d97c.json)
 
 [Extended Data](ext_articles/75d4d97c.ext.json)
-
----
-
-### Outstanding growth in Chinese vehicles
-
-*2024-03-18 11:10:25* · [`adalk`](https://www.ada.lk/breaking_news/චීන-වාහන-අපනයනයේ-කැපී-පෙනෙන-වර්ධනයක්/11-408668) · `si`
-
-Sri Lanka's vehicle exports grew 30% in the first two months of 2023. China's vehicle exports increased by 30.5% in January 2023, with new energy vehicles growing 7.5% and traditional fuel vehicles by 39%. China's vehicle exports are expected to grow by 20% in 2024 due to increasing demand and competition in the international market.
-
-🟩
-
-Sri Lanka's first two months of this year, Sri Lanka's vehicle exports a significant growth. It is an increase of 30% over the relevant period last year.
-
-The data released in the data of China, January two months, China's vehicle export volume is 822,000, and it is a 30.5% more than last year.
-
-182,000 new energy vehicles included. It is a 7.5% growth over the relevant period last year. Traditional fuel traditions are 640,000, a growth of 39%.
-
-Competition of Chinese cars and foreign market demand is continuously expanding. China's vehicle exports will increase rapid increase in the development of international economic and trade in 2024. It is estimated that the growth rate will be around 20%.
-
-◼️
-
-[Data](articles/ea7d4180.json)
-
-[Extended Data](ext_articles/ea7d4180.ext.json)
 
 ---

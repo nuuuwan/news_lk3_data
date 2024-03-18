@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 01:03:16**
+As of **2024-03-19 01:18:17**
 
 ## Newspaper Stats
 
-*Scraped **13,672** Articles*
+*Scraped **13,673** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 746
 adalk | 1,179
 adaderanalk | 1,645
 tamilmirrorlk | 1,663
-virakesarilk | 1,908
+virakesarilk | 1,909
 dailymirrorlk | 2,088
 adaderanasinhalalk | 2,173
 
@@ -26,9 +26,25 @@ adaderanasinhalalk | 2,173
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,672 (100.0%) of 13,672 articles have been extended.
+13,672 (100.0%) of 13,673 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-19 (Tuesday)
+
+### கேரளாவில் நடிகர் விஜய்க்கு ரசிகர்கள் உற்சாக வரவேற்பு..!
+
+*2024-03-19 01:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179076) · `ta`
+
+நடிகரும், தமிழக வெற்றிக் கழகம் கட்சியின் தலைவருமான விஜய் ‘தி கோட்’ படத்தின் படப்பிடிப்பிற்காக இந்தியாவின் கேரள மாநிலம் சென்றுள்ளார்.
+
+திருவனந்தபுரம் விமான நிலையத்தில் இருந்து வெளியே வந்த அவரை கேரள ரசிகர்கள் சூழ்ந்துகொண்டு உற்சாகமாக வரவேற்றனர்.
+
+◼️
+
+[Data](articles/3d0a640b.json)
+
+---
 
 ### 2024-03-18 (Monday)
 
@@ -2305,33 +2321,5 @@ At the event, he donated Rs.
 [Data](articles/18587ab5.json)
 
 [Extended Data](ext_articles/18587ab5.ext.json)
-
----
-
-### Fines for supermarket owner in Jaffna
-
-*2024-03-18 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179015) · `ta`
-
-A supermarket owner in Tirunelveli, Jaffna, was fined Rs 80,000 for selling outdated goods, including insects, after a public health inspection.
-
-🟩
-
-The owner of a supermarket in Tirunelveli, Jaffna has been sentenced to Rs 80,000 by the Jaffna Magistrate's Court.
-
-Two supermarkets in Tirunelveli area were carried out by public health inspectors.
-
-At the same time, the items were recovered for the sale of outdated goods, including the beetle's sale for sale.
-
-The health inspector, who tried the recovered items as evidence, sued the owners of the store.
-
-When the case was summoned to the House on Monday, a man was not present in the forum, and 18 allegations were made against a shop owner in the forum.
-
-After the owner accepted the allegations against him, he was fiercely warned of him, and he was sentenced to Rs 80,000.
-
-◼️
-
-[Data](articles/2b4d6913.json)
-
-[Extended Data](ext_articles/2b4d6913.ext.json)
 
 ---

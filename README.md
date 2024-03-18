@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 22:05:20**
+As of **2024-03-18 22:18:01**
 
 ## Newspaper Stats
 
-*Scraped **13,655** Articles*
+*Scraped **13,657** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 713
 economynextcom | 721
 islandlk | 746
 adalk | 1,179
-adaderanalk | 1,643
+adaderanalk | 1,644
 tamilmirrorlk | 1,662
-virakesarilk | 1,904
+virakesarilk | 1,905
 dailymirrorlk | 2,086
 adaderanasinhalalk | 2,173
 
@@ -26,27 +26,67 @@ adaderanasinhalalk | 2,173
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,653 (100.0%) of 13,655 articles have been extended.
+13,655 (100.0%) of 13,657 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### තරුණ හිමිනමක් අපවත් වෙති
+### Somali pirate threat: Sri Lanka’s fishermen warned not to venture into Arabian Sea
+
+*2024-03-18 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98037/somali-pirate-threat-sri-lankas-fishermen-warned-not-to-venture-into-arabian-sea) · `en`
+
+The Department of Fisheries and Aquatic Resources has warned the fishing community in Sri Lanka not to venture into the Arabian Sea for poaching activities during these days.
+
+This announcement comes as a result of reports of an incident of an armed Somali group hijacking an Iranian fishing boat in the Arabian Sea on Saturday (16).
+
+Joining a press conference held at the Department of Fisheries and Aquatic Resources on Monday (18), its Director General Susantha Kahawatta said that information has been received that a group of Somali pirates remain in the relevant sea area with an Iranian vessel.
+
+◼️
+
+[Data](articles/1db4384a.json)
+
+---
+
+### ஜனித் லியனகேயின் கன்னிச் சதம் வீண்போனது ; இலங்கையை 4 விக்கெட்களால் வீழ்த்தி தொடரைக் கைப்பற்றியது பங்களாதேஷ்
+
+*2024-03-18 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179071) · `ta`
+
+இலங்கைக்கு எதிரான தீர்மானம் மிக்க 3ஆவதும் கடைசியுமான சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் அதிர்ச்சிக்கான மாற்று வீரராகத் துடுப்பெடுத்தாடி அரைச் சதம் குவித்த தன்ஸித் ஹசனும் மத்திய வரிசையில் அதிரடி ஆட்டத்தை வெளிப்படுத்திய ரிஷாத் ஹொசெய்னும பங்களாதேஷுக்கு 4 விக்கெட் வெற்றியை ஈட்டிக்கொடுத்தனர்.
+
+சட்டோக்ராம், ஸஹுர் அஹ்மத் சௌதரி விளையாட்டரங்கில் இன்று திங்கட்கிழமை (18) ஈட்டப்பட்ட இந்த வெற்றியுடன் 3 போட்டிகள் கொண்ட தொடரை 2 - 1 என்ற ஆட்டங்கள் வித்தியாசத்தில் பங்களாதேஷ் கைப்பற்றியது.
+
+சர்வதேச ஒருநாள் கிரிக்கெட் வரலாற்றில் இலங்கைக்கு எதிராக பங்களாதேஷ் ஈட்டிய இரண்டாவது தொடர் வெற்றி இதுவாகும். இதற்கு முன்னர் மிர்பூரில் 2021இல் நடைபெற்ற தொடரில் இலங்கையை 2 - 1 ஆட்டங்கள் அடிப்படையில் பங்களாதேஷ் வெற்றிகொண்டிருந்தது.
+
+இப் போட்டியில் இலங்கை சார்பாக திறமையாகத் துடுப்பெடுத்தாடிய ஜனித் லியனகே கன்னிச் சதம் குவித்தபோதிலும் அதனை தன்ஸித் ஹசன், ரிஷாத் ஹொசெய்ன் ஆகியோரின் துடுப்பாட்டங்கள் வீணடித்துவிட்டன.
+
+...
+
+[Data](articles/501eb7a2.json)
+
+---
+
+### A young monk is even ours
 
 *2024-03-18 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194655) · `si`
 
-තබ්බෝව ජලාශයේ දියේ ගිලී තරුණ භික්ෂූන් වහන්සේ නමක් අපවත්වී තිබේ.
+A young monk, Wanathavilluwa, from Tabbowa reservoir, drowned while returning to Sri Dharmaraja Viharaya in Kogugala, Habaraduwa. Heeloya Sangananda, a student at Rajarata Bhikku University, is involved. A post-mortem is scheduled for tomorrow.
 
-මෙලෙස අපවත්වී ඇත්තේ රජරට භික්ෂු විශ්වවිද්‍යාලයේ ඉගෙනුම ලබමින් සිටි හීල්ඔය සංඝානන්ද හිමි බවට අනාවරණය වී ඇත.
+🟩
 
-හබරාදුව කොග්ගල තලාතුඩුව විවේක සේනාසනයේ භික්ෂූන් වහන්සේ නමක් වන හිමිනම වනාතවිල්ලුව ශ්‍රී ධර්මරාජ විහාරය වෙත පැමිණ සිටියදී විහාරස්ථ භික්ෂූන් වහන්සේ පිරිසක් සමග තබ්බෝව ජලාශයේ දිය නෑමට ගොස් සිටියදී මෙම ඉරණමට මුහුණ දී ඇති බවට වාර්තා වෙයි.
+A young monk who drowned in Tabbowa reservoir.
 
-හිමිනමගේ දේහය සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණය හෙට (19) සිදුකිරීමට නියමිත අතර කරුවලගස්වැව පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+We have been revealed that Heeloya Sangananda, who was studying at the Rajarata Bhikku University.
+
+The monk, a monk called Wanathavilluwa, is a Buddhist monk of Tabbowa reservoir while returning to the Sri Dharmaraja Viharaya in Kogugala, Habaraduwa.
+
+The post mortem will be conducted tomorrow (19) regarding the remains of monk.
 
 ◼️
 
 [Data](articles/667dfcd9.json)
+
+[Extended Data](ext_articles/667dfcd9.ext.json)
 
 ---
 
@@ -72,27 +112,37 @@ It is noteworthy that the suspect was arrested with 2.42 grams of heroin during 
 
 ---
 
-### රට වටේම මත්ද්‍රව්‍ය බෙදූ කරාටේ ධම්මික අත්අඩංගුවට
+### Drugs divided around the country and arrested Dhammika arrested
 
 *2024-03-18 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194654) · `si`
 
-ප්‍රදේශ ගණනාවකට අයිස් සහ හෙරොයින් මත්ද්‍රව්‍ය බෙදාහැරීමේ නිරතව සිටි ජාවාරම් කරුවෙකු වන කරාටේ ධම්මික නැමැත්තා සහ ඔහුගේ ගෝලයෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Karate Dhammika, a drug dealer, was arrested with 19 grams of heroin and 200 milligrams, along with a motorcycle, phone, and SIM cards. Two Kegalle residents were involved. The raid was supported by Kandy's Narcotics Bureau officers. The main suspect, sentenced to five years, was also charged with ammunition and a firearm. A special investigation into underworld activities in the South is ongoing. The suspects are detained for 7 days at Dambulla Magistrate Court.
 
-සැකකරුවන් සන්තකයේ තිබී හෙරොයින් ග්‍රෑම් 19යි මිලිග්‍රෑම් 200ක් ද පොලීසිය සොයාගෙන ඇත.
+🟩
 
-එසේම එහිදී ත්‍රිරෝද රථයක්, යතුරුපැදියක්, දුරකථන කිහිපයක් සහ සිම් කාඩ්පත් කිහිපයක් ද සොයාගෙන තිබේ.
+A racketeer of the drug dealer has been arrested by a racketeer, Karate Dhammika, a racketeer who was engaged in a number of ice and heroin in areas.
 
-අත්අඩංගුවට ගෙන ඇති සැකකරුවන් දෙදෙනාම යුද හමුදාවෙන් ඉවත්ව සිටි කෑගල්ල ප්‍රදේශයේ පදිංචිකරුවන් දෙදෙනෙකු බවට තොරතුරු අනාවරණය වී ඇත.
+Police have found 19 grams of heroin and 200 milligrams in possession of the suspects.
 
-දඹුල්ල මූලසථාන පොලීසියේ ප්‍රධාන පොලිස් පරීක්ෂක ඇල්ලේපොළ මහතාට ලද තොරතුරකට අනුව මහනුවර පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් කණ්ඩායමකගේ සහාය ඇතිව මෙම වැටලීම සිදුකර තිබේ.
+Also, a three-wheeler, motorcycle, telephone, and several SIM cards were found.
 
-ඔවුන් අත්අඩංගුවට ගැනීම සඳහා වැටලීම සිදුකළ අවස්ථාවේ සැකකරුවන් විසින් පොලිස් නිලධාරීන් යටකර පළායාමට උත්සාහ දරා ඇති අතර එහිදී පොරබැදීමක් ද සිදුව ඇත.
+It has been revealed that both suspects have been arrested were two residents of the Kegalle area.
 
-හෙරොයින් ජාවාරම සම්බන්ධයෙන් චෝදනා එල්ලවී සිටි ප්‍රධාන සැකකරුට කෑගල්ල මහෙස්ත්‍රාත් අධිකරණයෙන් වසර පහක බරපතළ වැඩ සහිත අත්හිටවූ සිරදඬුවම් නියම කර ඇති බවද අනාවරණය වී ඇත.
+The raid was carried out with the assistance of a group of the officers of the Police Narcotics Bureau in Kandy.
+
+When the raid was raided, the suspects had attempted to escape and struggled with the suspects.
+
+It has been revealed that the main suspect in charge of the heroin racket has been sentenced to five years in prison.
+
+It has been reported that a court case is being heard in charge of 10 wonders of the ammunition and 44 live ammunition.
+
+It has also been revealed that a case is being heard in the Kegalle court against the suspect in charge of having a Micro pistol firearm.
 
 ...
 
 [Data](articles/430813ca.json)
+
+[Extended Data](ext_articles/430813ca.ext.json)
 
 ---
 
@@ -2273,55 +2323,5 @@ Accordingly, it is said that it has been decided to discuss the matter with the 
 [Data](articles/0d552410.json)
 
 [Extended Data](ext_articles/0d552410.ext.json)
-
----
-
-### 735 arrested with religious conflicts;The vehicle and the police rescue
-
-*2024-03-18 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/178992) · `ta`
-
-A 35-year-old man was arrested with 735 religious conflicts in Kattankudy. The police found drug pills in his vehicle. Further investigations are ongoing.
-
-🟩
-
-Kattankudy Police Station Officer G. Gajanayake said that a 35 -year -old man was arrested with 735 religious conflicts during a sudden roundup by the Kattankudy police under the directive of the Inspector General of Police Deshabandu Thennakoon.
-
-The officer in charge added that the drug pills were taken in the vehicle.
-
-The man was arrested on the basis of information received by the Intelligence Unit on Sunday (17) morning on Teleicom Road, Kattankudi.
-
-Further investigations are being carried out by the police that the person is to be produced at the Batticaloa Magistrate's Court.
-
-Meanwhile, 10 people have been arrested with ice and heroin and Kerala cannabis during the search operation in the last two days, police said.
-
-◼️
-
-[Data](articles/2508aaeb.json)
-
-[Extended Data](ext_articles/2508aaeb.ext.json)
-
----
-
-### North Korea attack on a balist missile
-
-*2024-03-18 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194630) · `si`
-
-North Korea launched short-range ballistic missiles towards the East Sea, targeting Pyongyang. US Secretary of State Anthony Blinken visited Seoul, South Korea, amidst the attacks. South Korean security forces monitor North Korea closely.
-
-🟩
-
-Pyong has launched several short distance bulicic missiles towards Pyong Yang to East Sea.
-
-According to foreign media reports, US Secretary of State Anthony Bleinc to Seoul in South Korea had launched the missile attacks.
-
-The US Secretary of State is due to attend a conference in Seoul.
-
-However, South Korean security forces have said that North Korea is in close eye.
-
-◼️
-
-[Data](articles/d611ff6f.json)
-
-[Extended Data](ext_articles/d611ff6f.ext.json)
 
 ---

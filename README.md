@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 18:33:34**
+As of **2024-03-18 18:51:45**
 
 ## Newspaper Stats
 
-*Scraped **13,625** Articles*
+*Scraped **13,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,30 +19,78 @@ adalk | 1,175
 adaderanalk | 1,640
 tamilmirrorlk | 1,658
 virakesarilk | 1,903
-dailymirrorlk | 2,077
+dailymirrorlk | 2,079
 adaderanasinhalalk | 2,164
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,624 (100.0%) of 13,625 articles have been extended.
+13,625 (100.0%) of 13,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### வெடுக்குநாறிமலை விவகாரத்தில் கைதுசெய்யப்பட்டோர் குறித்து ஆராய இருவர் அனுப்பப்பட்டுள்ளனர்; அறிக்கை வியாழனன்று கிடைக்கப்பெறும் - மனித உரிமைகள் ஆணைக்குழு
+### Paediatrician warns of risks from matching environment-body temperatures
+
+*2024-03-18 18:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Paediatrician-warns-of-risks-from-matching-environment-body-temperatures/108-279079) · `en`
+
+Colombo, March 18 (Daily Mirror) - If the environmental temperature reaches body temperature, it can cause an increase in palpitations and decrease oxygen supply to the brain, thus leading to heat shocks, fainting and potential death, Lady Ridgeway Hospital (LRH) Consultant Paediatrician Dr. Deepal Perera said.
+
+He said the normal body temperature of a person is 37.5°C (98.6°F). When the environmental temperature reaches 37°C, equivalent to human body temperature, increased sweating occurs, resulting in the loss of more water and minerals from the body through perspiration and hence certain complexities can occur.
+
+Therefore, we should drink more water and drink more natural beverages to keep the body temperature in balance, and children should not be allowed to play during the day with a high temperature.
+
+They also requested that people to drink natural beverages, adding some salt to maintain the sodium level in their bodies.
+
+...
+
+[Data](articles/b728c2b0.json)
+
+---
+
+### Two persons have been sent to investigate the arrested persons in the Vidunarimalai issue;The report will be available on Thursday- the Human Rights Commission
 
 *2024-03-18 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179068) · `ta`
 
-வெடுக்குநாறிமலை ஆதிசிவன் ஆலய விவகாரத்தில் கைதுசெய்யப்பட்டோர் குறித்து ஆராய்வதற்கு ஏற்கனவே 2 அதிகாரிகள் வவுனியாவுக்கு அனுப்பிவைக்கப்பட்டிருப்பதாகவும், இவ்விவகாரம் தொடர்பில் வவுனியா பிராந்திய அலுவலக ஒருங்கிணைப்பாளரின் அறிக்கை நாளை மறுதினம் கிடைக்கப்பெறும் எனவும் இலங்கை மனித உரிமைகள் ஆணைக்குழு தெரிவித்துள்ளது.
+The Sri Lanka Human Rights Commission has sent two officials to Vavuniya to investigate the arrests at the Adivasivan Temple in Vettu Nirimalai. TNA's S. Gajendran claims no officials visited the Vavuniya office or headquarters. Commissioner R. Danaraj confirms two officers were dispatched for inquiries, with a report expected soon.
 
-வவுனியா மாவட்டத்தின் வெடுக்குநாறிமலையில் உள்ள ஆதிலிங்கேஸ்வரர் ஆலயத்தில் கடந்த 8 ஆம் திகதி சிவராத்திரி தினத்தன்று பூஜை வழிபாடுகளில் ஈடுபடச்சென்ற பக்தர்களுக்கு பொலிஸாரால் இடையூறு விளைவிக்கப்பட்டதுடன், இரவு வேளையில் அங்கு வழிபாடுகளைத் தொடர முற்பட்டோர் அங்கிருந்து வலுகட்டாயமாக வெளியேற்றப்பட்டனர். அதுமாத்திரமன்றி ஆலயப்பூசகர் உள்ளடங்கலாக எண்மர் பொலிஸாரால் கைதுசெய்யப்பட்டனர். அவர்களில் ஐவர் உண்ணாவிரதப்போராட்டத்தில் ஈடுபட்ட நிலையில், அவர்களை விடுவிப்பதற்குரிய சகல நடவடிக்கைகளும் எடுக்கப்படுமென அளிக்கப்பட்ட உத்தரவாதத்தை அடுத்து அப்போராட்டம் கைவிடப்பட்டது.
+🟩
+
+The Sri Lanka Human Rights Commission has said that 2 officials have already been sent to Vavuniya to investigate the arrests of the Adivasivan Temple in Vettu Nirimalai.
+
+The police were disrupted by the pilgrims who were engaged in pooja on the 8th of last month at the Adilingeswarar Temple in Vettu Nirimalai, Vavuniya district.. The number was arrested by the number of policemen, including the temple.. The struggle was abandoned following a guarantee that all five of them were involved in a hunger strike and all measures would be taken to release them.
+
+However, the Tamil National Alliance (TNA) parliamentarian S. Gajendran alleged that no commission officials had come to the Vavuniya Regional Office of the Human Rights Commission and subsequently at the headquarters of the Human Rights Commission of Sri Lanka.
 
 ...
 
 [Data](articles/10a67084.json)
+
+[Extended Data](ext_articles/10a67084.ext.json)
+
+---
+
+### Tanzid, Rishad power Bangladesh to series win against Sri Lanka
+
+*2024-03-18 18:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tanzid-Rishad-power-Bangladesh-to-series-win-against-Sri-Lanka/108-279081) · `en`
+
+Chittagong, Mar. 18 (AFP) - Rishad Hossain played an attacking innings of 48 after substitute Tanzid Hasan Tamim hit 84 off 81 balls Monday, steering Bangladesh to a four-wicket win and a 2-1 ODI series victory over Sri Lanka.
+
+Set a modest target after Janith Liyanage's unbeaten 101 guided Sri Lanka to 235 all out in 50 overs, Bangladesh raced to 237-6 in 40.2 overs.
+
+The hosts were in danger when Wanindu Hasaranga forced Mehdiy Hasan Miraz, the last recognised batsman, to give a catch to Pramod Madushan for 25, with Bangladesh still 58 runs away from victory.
+
+But Rishad dispatched the first ball he faced over midwicket for six and did not look back.
+
+He hit four sixes and five fours in his whirlwind innings before Mushfiqur Rahim, 37 not out, finished the game with a boundary off Maheesh Theekshana.
+
+Tanzid led the initial charge, replacing Soumya Sarkar in the second innings as a concussion sub, despite Lahiru Kumara wreaking havoc with 4-48.
+
+...
+
+[Data](articles/89a7ae15.json)
 
 ---
 
@@ -2297,49 +2345,5 @@ The top electoral body said that ballot boxes for the island nation’s election
 [Data](articles/b5ba2f54.json)
 
 [Extended Data](ext_articles/b5ba2f54.ext.json)
-
----
-
-### ADB approves US$100mn Sri Lanka SME loan
-
-*2024-03-18 10:06:00* · [`economynextcom`](https://economynext.com/adb-approves-us100mn-sri-lanka-sme-loan-154972/) · `en`
-
-ECONOMYNEXT – Manila-based Asian Development Banks said it has approved a 100 million US dollar loan to Sri Lanka to help small and medium enterprises.
-
-Of the loan, 50 million dollar credit line for “underserviced” SMEs in the export, tourism, technology, agriculture, and manufacturing sectors.
-
-“SMEs play a critical role in Sri Lanka’s economy, contributing 52% to the country’s gross domestic product and employ 45 percent of the population,” ADB Senior Financial Sector Specialist Manohari Gunawardhena said in a statement.
-
-“It is therefore important to provide SMEs, particularly women-led enterprises, with the necessary support to sustain and grow the sector’s contribution to the economy.
-
-“This project will provide working capital and improve SMEs’ access to finance, helping them expand operations and prepare for the changing environment.”
-
-A 500,000 dollar facility to cover guarantee subsidies for women-led SMEs will be set up under the program.
-
-...
-
-[Data](articles/097736c7.json)
-
-[Extended Data](ext_articles/097736c7.ext.json)
-
----
-
-### Two bosses arrested for underworld
-
-*2024-03-18 10:00:38* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලයට-හොර-පාස්පෝට්-හැදූ-ලොක්කෝ-දෙදෙනෙක්-අල්ලයි/11-408663) · `si`
-
-Two bosses arrested for underworld activities. A Deputy Control and former Controller of the Department of Immigration and Emigration was arrested by the CID. The suspect is linked to drug trafficking and organized crime.
-
-🟩
-
-A Deputy Control and former Controller of the Department of Immigration and Emigration has been arrested by the CID last evening.
-
-The suspect has been arrested in connection with the claim that two drugs and organized criminals were conducted.
-
-◼️
-
-[Data](articles/7b5b72ca.json)
-
-[Extended Data](ext_articles/7b5b72ca.ext.json)
 
 ---

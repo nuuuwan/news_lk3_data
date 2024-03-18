@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 11:17:42**
+As of **2024-03-18 11:33:37**
 
 ## Newspaper Stats
 
-*Scraped **13,536** Articles*
+*Scraped **13,537** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 713
 islandlk | 745
 adalk | 1,161
 adaderanalk | 1,632
-tamilmirrorlk | 1,655
+tamilmirrorlk | 1,656
 virakesarilk | 1,880
 dailymirrorlk | 2,064
 adaderanasinhalalk | 2,146
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,146
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,531 (100.0%) of 13,536 articles have been extended.
+13,536 (100.0%) of 13,537 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The top electoral body said that ballot boxes for the island nation’s election
 
 [Data](articles/98415e99.json)
 
+[Extended Data](ext_articles/98415e99.ext.json)
+
 ---
 
 ### ADB approves USD 100 million loan to support SMEs in Sri Lanka
@@ -62,31 +64,39 @@ The Asian Development Bank (ADB) has approved a $100 million loan to provide sma
 
 [Data](articles/e9776eed.json)
 
+[Extended Data](ext_articles/e9776eed.ext.json)
+
 ---
 
-### දියේ ගිලී ජීවිත තුනක් අහිමි වෙයි
+### Three lives lost
 
 *2024-03-18 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194628) · `si`
 
-ප්‍රදේශ තුනක දී පුද්ගලයින් තිදෙනෙකු දියේ ගිලී මියගොස් ඇති බව පොලීසිය පවසයි.
+Three people drowned in different areas: a youth in Maoatha, a person in Kandakagama Li, and a 65-year-old woman in Jaffna.
 
-ඊයේ (17) පස්වරුවේ ගිරිඋල්ල නගර මධ්‍යයේ ගලා බසින මාඔයේ ගිලී තරුණයෙකු අතුරුදන් ව තිබේ.
+🟩
 
-පසුව තරුණයාගේ සිරුර මීගමුව පොලිස් ජීවිතාරක්ෂක ඒකකයේ නිලධාරීන් සහ ප්‍රදේශවාසීන් එක්ව සොයාගෙන ඇත.
+Three people were drowned in three areas, police said.
 
-මෙම තරුණයා ඔහුගේ මිතුරන් කිහිපදදෙනෙකු සමග මාඔයේ දියනාමින් සිටින අතරවාරයේ මෙලෙස දියේ ගිලි ඇති බව පොලීසිය පවසයි.
+A youth drowned in a mad in Maooatha that flowed in Giriulla yesterday (17).
 
-මේ අතර, ඊයේ උදෑසන පොතුවිල්, කඳහිදගම වැවේ මසුන් ඇල්ලීමට ගිය පුද්ගලයෙකු දියේ ගිලී මියගොස් තිබේ.
+Later, the officials of the Negombo Police Life and Residents have been recovered.
 
-එමෙන්ම යාපනය, නාවලර් පාර ප්‍ර දේශයේ ළිඳකට වැටීමෙන් කාන්තාවක් මියගොස් තිබේ.
+Police say that the young man has dime in Maoya with his friends, police said.
 
-මෙලෙස මියගොස් ඇත්තේ 65 හැවිරිදි එම ප්‍රදේශයේම පදිංචිව සිටි කාන්තාවකි.
+Meanwhile, a person drowned in the Kandakagama Li, Pottuvil yesterday morning.
 
-මෙම කාන්තාව නිවසේ තනිවම ජීවත්ව ඇති අතර අසල්වාසීන් විසින් මෙම කාන්තාව පිළිබඳ සිදුකළ සොයා බැලීමක දී ඇයගේ නිවස අසල පිහිටි ළිඳේ තිබී ඇයගේ සිරුර සොයාගෙන ඇත.
+A woman was killed after falling into a well of Jaffna and Nawalaru road.
+
+The deceased has been identified as a 65 year old woman in the same area.
+
+The woman has been living alone in the house, and her body was found in the well at the well of her house at the neighbors.
 
 ◼️
 
 [Data](articles/b371bd69.json)
+
+[Extended Data](ext_articles/b371bd69.ext.json)
 
 ---
 
@@ -112,19 +122,25 @@ The person who was allowed there died in a few hours without treatment. A sudden
 
 ---
 
-### ஹெரோயின் போதைப்பொருளுடன்  ஒருவர்  கைது!
+### One arrested with heroin drug
 
 *2024-03-18 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/178989) · `ta`
 
-ஹோமாகம பொலிஸ் பிரிவுக்கு உட்பட்ட பெபிலிவெல வீதி பிரதேசத்தில் நேற்று (17) பொலிஸார் மேற்கொண்ட  சுற்றிவளைப்பின்   போது ஹெரோயின் போதைப் பொருளுடன் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A 25-year-old man from Pannipitiya was arrested with 8 grams of heroin during a police raid on Pepiliwala Road, Homagama.
 
-இவ்வாறு கைது செய்யப்பட்ட  சந்தேக நபர் பன்னிப்பிடிய பிரதேசத்தைச் சேர்ந்த 25 வயதுடையவராவார்.
+🟩
 
-சந்தேக நபரிடமிருந்து  8 கிராம் 360 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் கைப்பற்றப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+A man was arrested with heroin in a raid conducted by the police yesterday (17) at Pepiliwala Road, which belongs to the Homagama Police Division.
+
+The suspect was the 25 -year -old from Pannipitiya.
+
+Police said 8 grams of 360 ml of heroin had been seized from the suspect.
 
 ◼️
 
 [Data](articles/83e31e7f.json)
+
+[Extended Data](ext_articles/83e31e7f.ext.json)
 
 ---
 
@@ -150,19 +166,25 @@ Made with dried rice, coconut and sugar, they consumed tea on Sunday (17) evenin
 
 ---
 
-### සවලකින් සහ පොලු වලින් පොලිස් නිලධාරීන් හතරදෙනෙකුට පහරදීලා
+### Four police officers were assaulted by shovel and poles
 
 *2024-03-18 10:45:56* · [`adalk`](https://www.ada.lk/breaking_news/සවලකින්-සහ-පොලු-වලින්-පොලිස්-නිලධාරීන්-හතරදෙනෙකුට-පහරදීලා/11-408665) · `si`
 
-තණමල්විල-උඩවලව මාර්ගයේ දිවා රථවාහන කොමළිගම ප්‍රදේශයේ පොලිස් නිලධාරීන් දෙදෙනකු රථවාහන රාජකාරියේ යෙදී සිටියදී උඩවලව දෙසින් පැමිණි යතුරුපැදියකට නතර කරන ලෙස සංඥාකර ඇතත් පොලිස් අණනොතකා ඉදිරියටම ධාවනයකර තිබේ. පසුව පොලිස් නිලධාරීන් සිය යතුරුපැදියෙන් ඔවුන් ලුහුබැඳ ගොස් ඇති අතර ටික දුරක් යන විට අණනොතකා ධාවනයකළ යතුරුපැදිය පුද්ගලික ඉඩමකට ඇතුළුකොට නතරකර ඇත. පොලිස් නිලධාරීන් යතුරුපැදිය නතර නොකළේ ඇයිදැයි විමසූ විට ඔවු පවසා ඇත්තේ බීමත්ව සිටි නිසා නතරනොකළ බවයි.
+Four police officers assaulted by motorcycle riders on Tanamalwila-Udawalawa road. Two officers pursued the motorcycle, which stopped due to drunkenness. Two more officers joined the chase. The suspects were assaulted by the police. Inspector DMP Bandara, involved in the assault, was hospitalized.
 
-යතුරුපැදිය අත්අඩංගුවටගෙන රැගෙනයාමට තණමල්විල පොලීසියේ අමතර නිලධාරීන් දෙදෙනෙක් ද පැමිණ තිබේ. ඒ අවස්ථාවේදී  බීමත්ව පැමිණි තවත් දෙදෙනෙකු පොලිස් නිලධාරීන් සමඟ බහින්බස්වී ඇති අතර තරුණයින් තිදෙනා විසින් ඒ අසල තිබූ සවලක් සහ පොලුකැබලි කිහිපයක් ගෙන පොලිස් නිලධාරීන් සිව්දෙනාට පහරදී ඇත.
+🟩
 
-සිද්ධිය පිළිබඳව තණමල්විල පොලීසියට දැනුම්දීමෙන් අනතුරුව තණමල්විල මූලස්ථාන පොලිස් පරීක්ෂක ඩී.එම්.පී බණ්ඩාර මහතා ඇතුළු නිලධාරීන් කණ්ඩායමක් පැමිණ සැකකරුවන් අත්අඩංගුවටගෙන පහරකෑමට ලක්වූ පොලිස් නිලධාරීන් තණමල්විල රෝහලට ඇතුලත්කර තිබේ.
+Although two police officers in the Tanamalwila-Udawalawa road, two police officers have been signed to stop the motorcycle on the Udawalawa road.Subsequently, the police officers have been pursuing their motorcycle and the motorcycle that has not been mobilized as a shorter distance and have stopped. When the police officers did not stop the motorcycle, they were told that they were not stopped due to drunkenness.
+
+Two additional officers of Tanamalwila Police have also returned to the arrest of the motorcycle. Two dried and two drunken police officers had the hearing with the police and the three youths were assaulted by the four policemen.
+
+Tanamalwila Headquarters Inspector DMP Bandara and assaulted the suspects have been admitted to the Thanamalwila hospital after he was notified.
 
 ◼️
 
 [Data](articles/bc42acea.json)
+
+[Extended Data](ext_articles/bc42acea.ext.json)
 
 ---
 
@@ -439,6 +461,24 @@ Investigations have revealed that the arrested suspect was closely related to th
 [Data](articles/e584dd50.json)
 
 [Extended Data](ext_articles/e584dd50.ext.json)
+
+---
+
+### 5ஆவது முறையாகவும் ஜனாதிபதியானார்  விளாடிமிர் புதின்
+
+*2024-03-18 09:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/5ஆவது-முறையாகவும்-ஜனாதிபதியானார்-விளாடிமிர்-புதின்/50-334824) · `ta`
+
+ரஷ்யாவில் நடந்த ஜனாதிபதி தேர்தலில் விளாடிமிர் புதின் 88% வாக்குகளைப் பெற்று மிகப் பெரிய வெற்றியைப் பெற்றுள்ளார். இதன் மூலம் அவர் மீண்டும் அதிபர் பதவியில் தொடர்வது உறுதியாகியுள்ளது.
+
+உலகிலேயே மிகப் பெரிய நாடாக இருப்பது ரஷ்யா.இந்தியாவை விட பல மடங்கு பெரியதாக ரஷ்யா இருந்தாலும் அந்நாட்டின் மொத்த மக்கள் தொகை வெறும் 15 கோடி தான்.
+
+1999இல் அதிகாரத்திற்கு வந்த புதின், ரஷ்யாவில் மிகவும் சக்திவாய்ந்த நபராக உருவெடுத்துள்ளார். ரஷ்யா மற்றும் சோவியத் ஒன்றியத்தில் கடந்த 200 ஆண்டுகளில் அதிக காலம் தலைவராக இருந்தவர்கள் பட்டியலில் ஜோசப் ஸ்டாலினை புதின் ஓவர்கேட் செய்துள்ளார்.
+
+உக்ரைன் போருக்குப் பிறகு அங்கே நடக்கும் முதல் தேர்தலாக இது இருக்கும் நிலையில், புதின் மிகப் பெரிய வாக்கு வித்தியாசத்தில் வென்றுள்ளார். R
+
+◼️
+
+[Data](articles/3e8c50a0.json)
 
 ---
 
@@ -2191,23 +2231,5 @@ The suspects have been arrested according to an investigation conducted under th
 [Data](articles/02555ac0.json)
 
 [Extended Data](ext_articles/02555ac0.ext.json)
-
----
-
-### CID arrests Immigration Deputy Controllers for issuing fake passports to criminals
-
-*2024-03-17 19:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/CID-arrests-Immigration-Deputy-Controllers-for-issuing-fake-passports-to-criminals/155-279014) · `en`
-
-Colombo, March 17 (Daily Mirror) - A Deputy Controller and a former Deputy Controller of the Department of Immigration and Emigration were arrested by the Criminal Investigation Department for issuing passports to underworld criminals Nuresh Supun Dayaratne alias 'Heenatiyana Mahesh' and Shan Arosh Liyanage alias 'Mathugama Shan' based on false information.
-
-Police said one of the two arrested suspects is to be produced before the Vavuniya Magistrate's Court and the other suspect before the Kaduwela Magistrate's Court.
-
-The suspects have been arrested according to an investigation conducted under the supervision DIG of the CID Rohan Premaratne.
-
-...
-
-[Data](articles/0c5ed7d0.json)
-
-[Extended Data](ext_articles/0c5ed7d0.ext.json)
 
 ---

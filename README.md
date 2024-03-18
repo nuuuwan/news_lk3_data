@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 18:51:45**
+As of **2024-03-18 19:03:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,164
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,625 (100.0%) of 13,627 articles have been extended.
+13,627 (100.0%) of 13,627 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ They also requested that people to drink natural beverages, adding some salt to 
 ...
 
 [Data](articles/b728c2b0.json)
+
+[Extended Data](ext_articles/b728c2b0.ext.json)
 
 ---
 
@@ -91,6 +93,8 @@ Tanzid led the initial charge, replacing Soumya Sarkar in the second innings as 
 ...
 
 [Data](articles/89a7ae15.json)
+
+[Extended Data](ext_articles/89a7ae15.ext.json)
 
 ---
 

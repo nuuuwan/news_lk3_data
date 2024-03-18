@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 20:02:54**
+As of **2024-03-18 20:18:01**
 
 ## Newspaper Stats
 
-*Scraped **13,640** Articles*
+*Scraped **13,642** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,44 +15,76 @@ newsfirstlk | 363
 dailyftlk | 713
 economynextcom | 721
 islandlk | 746
-adalk | 1,176
+adalk | 1,177
 adaderanalk | 1,642
 tamilmirrorlk | 1,661
 virakesarilk | 1,903
-dailymirrorlk | 2,081
+dailymirrorlk | 2,082
 adaderanasinhalalk | 2,169
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,639 (100.0%) of 13,640 articles have been extended.
+13,640 (100.0%) of 13,642 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### அநுராதபுரத்தில் 14 வயதான சிறுமி 13 நபர்களால் பாலியல் துஷ்பிரயோகம்
+### Litton and uncapped Rana in squad for first Test vs Sri Lanka
 
-*2024-03-18 19:51:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுராதபுரத்தில்-14-வயதான-சிறுமி-13-நபர்களால்-பாலியல்-துஷ்பிரயோகம்/175-334841) · `ta`
+*2024-03-18 19:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Litton-and-uncapped-Rana-in-squad-for-first-Test-vs-Sri-Lanka/108-279086) · `en`
 
-அநுராதபுரம் பிரதேசத்தில் உள்ள சிகை அலங்கார நிலையமொன்றில் வைத்து 14 வயது சிறுமியை பாலியல் துஷ்பிரயோகம் செய்த சம்பவம் தொடர்பில் சிறுவர் மற்றும் பெண்கள் பணியகம்  விசாரணைகளை ஆரம்பித்துள்ளது.
+Mar. 18 (ICC) - Bangladesh have named a strong 15-member squad for the first Test against Sri Lanka in Sylhet, which begins on 22 March.
 
-இந்தச் சம்பவம் தொடர்பில் இதுவரை  குறித்த சிகை அலங்கார நிலையத்தின் உரிமையாளரும் மற்றுமொரு நபரும் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Wicketkeeper batter and former captain Litton Das returns to the Bangladesh Test side after he missed the previous series against New Zealand due to paternity leave.
 
-சந்தேக நபர்கள் இருவரும் அநுராதபுரம் நீதிமன்றில் ஆஜர்படுத்தப்பட்ட பின்னர் எதிர்வரும் 28 ஆம் திகதி வரை விளக்கமறியலில் வைக்க நீதிமன்றம் உத்தரவிட்டுள்ளது.
+Litton, who was the captain of the Test side at that point, was replaced by Najmul Hossain Shanto at the helm for the series and the latter was subsequently named captain of all three formats last month.
 
-பொலிஸாருக்கு கிடைத்த தகவலின் பேரில் பாதிக்கப்பட்ட சிறுமியிடம் மேற்கொள்ளப்பட்ட விசாரணையில் இது தொடர்பான மேலதிக தகவல்கள் வெளியாகியுள்ளன.
+This ICC World Test Championship series against Sri Lanka will be Najmul's first assignment with the Test team since taking over as full-time captain.
 
-குறித்த சிகை அலங்கார நிலையத்திற்கு பின்புறத்தில் உள்ள அறையொன்றிலேயே இந்தச் சம்பவம் இடம்பெற்றுள்ளது.
+Litton, who was recently dropped from the ODI squad after an ordinary run of form, has played 39 Tests, making 2394 runs at an average of 36.27. He was also the designated wicketkeeper in 28 of these Test matches.
 
-இந்நிலையில், கைது செய்யப்பட்ட இரண்டு சந்தேக நபர்கள் உட்பட மேலும் 11 சந்தேக நபர்கள் தன்னை பாலியல் துஷ்பிரயோகம் செய்ததாக பாதிக்கப்பட்ட சிறுமி, பொலிஸாரிடம் தெரிவித்துள்ளார்.
-
-சந்தேக நபர்களில் பொலிஸ் உத்தியோகத்தர் ஒருவரின் 70 வயதுடைய தந்தையும் உள்ளார் என பொலிஸார் தெரிவித்தனர்.
+Nurul Hasan, who kept wickets in place of Litton in the home Test series against New Zealand, misses out from the squad.
 
 ...
 
+[Data](articles/06d46ad3.json)
+
+---
+
+### 14 -year -old girl in Anuradhapura
+
+*2024-03-18 19:51:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுராதபுரத்தில்-14-வயதான-சிறுமி-13-நபர்களால்-பாலியல்-துஷ்பிரயோகம்/175-334841) · `ta`
+
+In Anuradhapura, a 14-year-old girl was sexually abused at a hairstyle. The owner and another man were arrested. The court ordered remand till the 28th. The victim revealed 11 more suspects, including a 70-year-old police officer's father, were involved.
+
+🟩
+
+The Bureau of Children and Women has launched an investigation into the incident of sexually abusing a 14 -year -old girl at a hairstyle in Anuradhapura area.
+
+The owner of the hairstyle and another man has been arrested by the police in connection with the incident.
+
+The court has ordered the remand till the 28th of this month after the two suspects were produced before the Anuradhapura court.
+
+Investigations carried out by the victim on the information received by the police have revealed further information.
+
+The incident took place in a room in the back of the hairstyle.
+
+The victim has told the police that 11 more suspects, including two suspects, have sexually abused her.
+
+The suspects are also a 70 -year -old father of a police officer, police said.
+
+Police are investigating the arrest of 11 other suspects involved in the incident.
+
+Anuradhapura police are conducting further investigations into the incident. Remble
+
+◼️
+
 [Data](articles/28a6f34f.json)
+
+[Extended Data](ext_articles/28a6f34f.ext.json)
 
 ---
 
@@ -225,6 +257,22 @@ Below, the Bangladesh team celebrates the victory and recalls the time out of ti
 [Data](articles/38067902.json)
 
 [Extended Data](ext_articles/38067902.ext.json)
+
+---
+
+### පොලිස්පතිගේ පත්කිරීමට එරෙහිව හිරුණිකාගෙන් පෙත්සමක්
+
+*2024-03-18 18:46:40* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පතිගේ-පත්කිරීමට-එරෙහිව-හිරුණිකාගෙන්-පෙත්සමක්/11-408682) · `si`
+
+වැඩ බලන පොලිස්පති දේශබන්ධු තෙන්නකෝන් මහතා පොලිස්පතිවරයා වශයෙන් පත්කිරීම නීතියට පටහැනි බවට ප්‍රකාශ කරන්නැයි ඉල්ලමින් හිටපු පාර්ලිමේන්තු මන්ත්‍රණී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මියද තවත් පෙත්සමක්  ශ්‍රේෂ්ඨාධිකරණයට ඊයේ (18) ඉදිරිපත් කළාය.
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රණී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය ගොනු කළ මෙම පෙත්සම්වල වගඋත්තරකරුවන් වශයෙන් ව්‍යවස්ථාදායක සභාවේ සාමාජිකයන් වන පාර්ලිමේන්තු මන්ත්‍රීවරුන් කර ඇත.
+
+වැඩ බලන පොලිස්පති දේශබන්ධු තෙන්නකෝන් මහතා පොලිස්පතිවරයා වශයෙන් පත්කිරීම නීතියට පටහැනි බවට ප්‍රකාශ කරන්නැයි ඉල්ලමින් නීතිය පිළිබඳ මහාචාර්ය සාවිත්‍රී ගුණසේකර මහත්මිය සහ සමගි ජන බලවේගය හිටපු පළාත් සභා මන්ත්‍රී නිරෝෂන් පාදුක්ක මහතා මුලින්ම මූලික අයිතිවාසිකම් පෙත්සම් දෙකක් ගොනු කරනු ලැබු අතර පසුව මැල්කම් කාදිනල් රංජිත් අගරදගුරු හිමිපාණන් සහ විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය තවත් පෙත්සම් දෙකක් ගොනු කරනු ලැබීය.
+
+...
+
+[Data](articles/f8583a67.json)
 
 ---
 
@@ -2279,59 +2327,5 @@ Nallathaniya police say that due to the high pilgrims every weekend.
 [Data](articles/fb650791.json)
 
 [Extended Data](ext_articles/fb650791.ext.json)
-
----
-
-### Three lives lost
-
-*2024-03-18 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194628) · `si`
-
-Three people drowned in different areas: a youth in Maoatha, a person in Kandakagama Li, and a 65-year-old woman in Jaffna.
-
-🟩
-
-Three people were drowned in three areas, police said.
-
-A youth drowned in a mad in Maooatha that flowed in Giriulla yesterday (17).
-
-Later, the officials of the Negombo Police Life and Residents have been recovered.
-
-Police say that the young man has dime in Maoya with his friends, police said.
-
-Meanwhile, a person drowned in the Kandakagama Li, Pottuvil yesterday morning.
-
-A woman was killed after falling into a well of Jaffna and Nawalaru road.
-
-The deceased has been identified as a 65 year old woman in the same area.
-
-The woman has been living alone in the house, and her body was found in the well at the well of her house at the neighbors.
-
-◼️
-
-[Data](articles/b371bd69.json)
-
-[Extended Data](ext_articles/b371bd69.ext.json)
-
----
-
-### Sleep hanging in hospital
-
-*2024-03-18 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/178973) · `ta`
-
-A man named Chittambalam Baskaran, 61, from Irukkalai, died in a hospital on Sunday (18) after being found hanging in a neem tree. He was rescued by relatives at Kopay Hospital but died within hours without treatment. A sudden death investigation officer, A. Jayabalasingham, conducted the investigation.
-
-🟩
-
-He died on Sunday (18) when he was admitted to the hospital. The deceased was the man who died at the time of Chittambalam Baskaran (age 61) from the East of Irukkalai.
-
-The person hangs in the neem tree in front of the house on Sunday (18). Relatives rescued him at the Kopay Hospital.
-
-The person who was allowed there died in a few hours without treatment. A sudden death investigation officer A. Jayabalasingham carried out the deaths of his body.
-
-◼️
-
-[Data](articles/3eb194e5.json)
-
-[Extended Data](ext_articles/3eb194e5.ext.json)
 
 ---

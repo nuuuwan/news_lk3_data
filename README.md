@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 14:50:43**
+As of **2024-03-18 15:03:00**
 
 ## Newspaper Stats
 
-*Scraped **13,585** Articles*
+*Scraped **13,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 713
 economynextcom | 717
 islandlk | 746
-adalk | 1,167
+adalk | 1,168
 adaderanalk | 1,635
 tamilmirrorlk | 1,658
-virakesarilk | 1,895
+virakesarilk | 1,898
 dailymirrorlk | 2,073
 adaderanasinhalalk | 2,153
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 2,153
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,585 (100.0%) of 13,585 articles have been extended.
+13,585 (100.0%) of 13,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### வெடுக்குநாறியில் கைதானவர்களை விடுவிக்க கோரி நாளை யாழில் போராட்டம்
+
+*2024-03-18 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/179038) · `ta`
+
+தமிழர் தாயகத்தில் தொல்லியல் என்ற போர்வையிலான பண்பாட்டு அழிப்பையும் சிங்கள - பௌத்தமயமாக்கலையும் உடன் நிறுத்துமாறு கோரியும், வவுனியா வடக்கு, வெடுக்குநாறிமலை ஆலயத்தில் நெடுங்கேணிப் பொலிஸாரால் திட்டமிட்டுக் கைது செய்யப்பட்டவர்களை உடன் விடுதலை செய்யுமாறு வலியுறுத்தியும் நாளை செவ்வாய்க்கிழமை (19) போராட்டம் முன்னெடுக்கப்படவுள்ளது.
+
+யாழ்ப்பாணம் பல்கலைக்கழக முன்றலில், மாணவர் ஒன்றியத்தின் ஏற்பாட்டில் இந்தக் கவனயீர்ப்புப் போராட்டம் முன்னெடுக்கப்படவுள்ளது.
+
+◼️
+
+[Data](articles/473cc6a9.json)
+
+---
+
+### எங்களிடம் அரசியல் பொறாமைத்தனம் இல்லை ; அதனால் தான் மஹிந்த ராஜபக்ச கல்லூரிக்கும் தம்புத்தேகம தேசிய பாடசாலைகளுக்கும் பஸ்களை வழங்கினோம் - எதிர்க்கட்சித் தலைவர்
+
+*2024-03-18 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179033) · `ta`
+
+தானக்கும் மகிந்த ராஜபக்சவுக்கும் இடையில் அரசியல் ரீதியிலான போட்டிகள் இருந்தபோதிலும், பொறாமைத்தனமான எத்தகைய முட்டாள் எண்ணங்களும் தம்மிடம் இல்லாததன் காரணமாகவே, மாத்தறை மஹிந்த ராஜபக்ச கல்லூரிக்கு பஸ்ஸைக் கூட நன்கொடையாக வழங்கி வைத்தோம். மஹிந்த ராஜபக்சவின் பெயரை விட இப்பாடசாலையின் பிள்ளைகளின் எதிர்காலமே தமக்கு முக்கியமானது என்றும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+முறைமையில் மாற்றம் குறித்து பல விரிவுரைகள் கருத்துரைகள் நடந்தாலும், அது களத்தில் யதார்த்தமாக இருக்க வேண்டும். கொழும்புக்கு ஒரு கவனிப்பும், கிராமத்திற்கு மற்றுமொரு கவனிப்பும் காட்டாது  அனைவருக்கும் சமமான கல்விக்கான வாய்ப்பை வழங்கும் நோக்கில் இந்த பேருந்துகளும் ஸ்மார்ட் வகுப்பறை உபகரணங்களும் வழங்கப்பட்டு வருகின்றன.
+
+இவ்வாறு வழங்கப்பட்டு வரும் போது தனக்கு “பஸ் மேன்" என்று பெயர் சூட்டினர், இவ்வாறு  "பஸ் மேன்" என்று பெயர் சூட்டியவர் கற்ற பாடசாலைக்கும் பேருந்து வழங்கப்பட்டதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+...
+
+[Data](articles/e68db023.json)
+
+---
 
 ### School principals informed to postpone sports meets due to hot weather
 
@@ -49,6 +79,32 @@ On Sunday (17), Minister of Education Susil Premajayantha said school principals
 [Data](articles/edfbf8aa.json)
 
 [Extended Data](ext_articles/edfbf8aa.ext.json)
+
+---
+
+### In the jaffna. Catamaran ;Boat accident;Kidnapper
+
+*2024-03-18 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/179009) · `ta`
+
+A fisherman died in a boat crash in Jaffna's Vadamarachchi seas. The boat hit a fishing boat, causing damage. The police and forensic teams are investigating.
+
+🟩
+
+The fisherman has died after a boat crashed into a fisherman who was fishing in the Vadamarachchi seas in Vadamarachchi in Jaffna.
+
+When he went to the sea to fish in the early hours of last Saturday morning, a boat of the unidentified persons crashed into a boat.
+
+So that the tree was shore with damage. The search for him was carried out as the worker who went to work in the tree was missing.
+
+Due to injuries in the body of the body, the Kilinochchi Magistrate's Court and the Magistrate's Court went to the scene of the incident and asked the police to take the forensic police and make arrangements to obtain traces.
+
+He also ordered the recovery of the body and handed over to the Kilinochchi District Hospital for anatomical examination.
+
+◼️
+
+[Data](articles/9ef66791.json)
+
+[Extended Data](ext_articles/9ef66791.ext.json)
 
 ---
 
@@ -80,6 +136,24 @@ The temperature in a normal human body is 37 degrees, and the body is hot this m
 
 ---
 
+### சிறைச்சாலைகளிலும் பொலிஸாராலும் நீதிக்கு புறம்பான கொலைகள் : ஜெனீவாவிற்கு அறிக்கை
+
+*2024-03-18 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/179031) · `ta`
+
+கைதிகளின் உரிமைகளுக்காக வாதிடும் இலங்கையின் முன்னணி அமைப்பு ஒன்று, இலங்கை பொலிஸ் மற்றும் சிறைச்சாலைகளால் மேற்கொள்ளப்பட்டதாகக் கூறப்படும் சட்டவிரோத கொலைகள் மற்றும் சித்திரவதைகள் தொடர்பாக ஐக்கிய நாடுகள் சபைக்கு விசேட அறிக்கையொன்றை வழங்கியுள்ளது.
+
+ஜெனிவாவில் நடைபெறும் ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவைக் கூட்டத்தில் தனது அறிக்கையை சமர்ப்பித்துள்ளதாக கைதிகளின் உரிமைகளை பாதுகாக்கும் குழுவின் (CPRP) தலைவர் சுதேஷ் நந்திமால் சில்வா ஜெனீவாவில் இருந்து காணொளி மூலம் ஊடகங்களுக்கு அறிவித்துள்ளார்.
+
+"இலங்கையில் நடத்தப்பட்ட மனிதாபிமானமற்ற கொலைகள், பொலிஸ் மற்றும் சிறைச்சாலையில் இடம்பெற்ற சட்டவிரோத கொலைகள் தொடர்பான உண்மைகளை நாங்கள் முன்வைத்தோம்."
+
+சித்திரவதை தொடர்பில் நீதிமன்றத்தினால் குற்றவாளியாகக் காணப்பட்ட ஒருவரை பொலிஸ் மா அதிபராக நியமித்தமை தொடர்பில் மேலும் இரண்டு அமைப்புகளுடன் இணைந்து அறிக்கை சமர்ப்பித்ததாக சுதேஷ் நந்திமால் சில்வா மேலும் வலியுறுத்தி
+
+...
+
+[Data](articles/f708e098.json)
+
+---
+
 ### Health strike temporarily suspends
 
 *2024-03-18 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194634) · `si`
@@ -99,6 +173,30 @@ He further stated that the decision was taken in response to a written request m
 [Data](articles/a5a9b513.json)
 
 [Extended Data](ext_articles/a5a9b513.ext.json)
+
+---
+
+### 8 people killed in Afghanistan by air strikes
+
+*2024-03-18 14:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/179016) · `ta`
+
+Eight people, including women and children, killed in Pakistan's air strikes in Afghanistan's Ghost and Bhaktika provinces. Seven soldiers died in a police station attack in North Wasiristan, Pakistan. President Asif Ali Sardari vows retaliation.
+
+🟩
+
+A Taliban government spokesman has said that eight people have been killed in Pakistan's air strike in Afghanistan today.
+
+Safullah Mujahid has said that the attacks were carried out in the Ghost and Bhaktika provinces at around 3.00 am today and all the victims were women and children.
+
+Seven soldiers were killed in yesterday's attack on a police station in North Wasiristan, Pakistan.
+
+Pakistani President Asif Ali Sardari has said that the attacks will be retaliated.
+
+◼️
+
+[Data](articles/a74beacc.json)
+
+[Extended Data](ext_articles/a74beacc.ext.json)
 
 ---
 
@@ -326,30 +424,6 @@ The US dollar purchasing price was 300.5662, based on the currency exchange rate
 
 ---
 
-### 8 people killed in Afghanistan by air strikes
-
-*2024-03-18 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179016) · `ta`
-
-Eight people, including women and children, killed in Pakistan's air strikes in Afghanistan's Ghost and Bhaktika provinces. Seven soldiers died in a police station attack in North Wasiristan, Pakistan. President Asif Ali Sardari vows retaliation.
-
-🟩
-
-A Taliban government spokesman has said that eight people have been killed in Pakistan's air strike in Afghanistan today.
-
-Safullah Mujahid has said that the attacks were carried out in the Ghost and Bhaktika provinces at around 3.00 am today and all the victims were women and children.
-
-Seven soldiers were killed in yesterday's attack on a police station in North Wasiristan, Pakistan.
-
-Pakistani President Asif Ali Sardari has said that the attacks will be retaliated.
-
-◼️
-
-[Data](articles/a74beacc.json)
-
-[Extended Data](ext_articles/a74beacc.ext.json)
-
----
-
 ### The traditional tendencies cannot win the world;To think and act in a wider attitude - the leader of the opposition
 
 *2024-03-18 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179018) · `ta`
@@ -478,32 +552,6 @@ This song is released via YouTube space called "Vethala '. It is still nearly 2.
 
 ---
 
-### In the jaffna. Catamaran ;Boat accident;Kidnapper
-
-*2024-03-18 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179009) · `ta`
-
-A fisherman died in a boat crash in Jaffna's Vadamarachchi seas. The boat hit a fishing boat, causing damage. The police and forensic teams are investigating.
-
-🟩
-
-The fisherman has died after a boat crashed into a fisherman who was fishing in the Vadamarachchi seas in Vadamarachchi in Jaffna.
-
-When he went to the sea to fish in the early hours of last Saturday morning, a boat of the unidentified persons crashed into a boat.
-
-So that the tree was shore with damage. The search for him was carried out as the worker who went to work in the tree was missing.
-
-Due to injuries in the body of the body, the Kilinochchi Magistrate's Court and the Magistrate's Court went to the scene of the incident and asked the police to take the forensic police and make arrangements to obtain traces.
-
-He also ordered the recovery of the body and handed over to the Kilinochchi District Hospital for anatomical examination.
-
-◼️
-
-[Data](articles/9ef66791.json)
-
-[Extended Data](ext_articles/9ef66791.ext.json)
-
----
-
 ### Customs Officers resort to work-to-rule action
 
 *2024-03-18 12:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Customs-Officers-resort-to-work-to-rule-action/108-279071) · `en`
@@ -541,6 +589,20 @@ However, the Western media reports that the Creation of the Armedard would not a
 [Data](articles/ef040300.json)
 
 [Extended Data](ext_articles/ef040300.ext.json)
+
+---
+
+### දිස්ත්‍රික්ක 16ක උණසුම අවදානම් තත්ත්වයක
+
+*2024-03-18 12:20:32* · [`adalk`](https://www.ada.lk/breaking_news/දිස්ත්‍රික්ක-16ක-උණසුම-අවදානම්-තත්ත්වයක/11-408671) · `si`
+
+දිස්ත්‍රික්ක 16ක ඇතැම් ස්ථානවලට අද (18දා) මිනිස් සිරුරට දැනෙන උණුසුම් තත්ත්වය අවධානය යොමු කළ යුතු මට්ටමේ පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුවේ ස්වාභාවික විපත් පිළිබඳ අනතුරු ඇඟවීමේ මධ්‍යස්ථානය සඳහන් කරයි. වවුනියාව, ත්‍රිකුණාමලය,පොළොන්නරුව, අම්පාර,මොනරාගල, මඩකලපුව,පුත්තලම, කුරුණෑගල,ගම්පහ, කොළඹ,හම්බන්තොට, මන්නාරම, අනුරාධපුර, කෑගල්ල, කළුතර හා රත්නපුර දිස්ත්‍රික්කවල මෙම තත්ත්වය පැවතිය හැක. මේ නිසා අදාළ දිස්ත්‍රික්කවල වැඩිහිටි හා රෝගී ජනතාව පිළිබඳව සැලකිලිමත් විය යුතු බවට දැනුම් දෙන අතර කුඩා ළමුන් වාහන තුළ තනියම රඳවා නොයන ලෙසත් ඉල්ලා සිටියි.
+
+වැඩබිම් තුළ සේවය කරන පිරිස් ප්‍රමාණවත් තරම් ජලය පානය කරන ලෙසත්, සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගන්නා ලෙසත්, අධික වෙහෙසසකාරී  කටයුතු සීමා කරන ලෙසත්, සුදු හෝ ලා පැහැති සැහැල්ලු ඇඳුම් භාවිත කරන ලෙසත් ජනතාවගෙන් ඉල්ලා සිටින බවද එම මධ්‍යස්ථානය සඳහන් කරයි.
+
+...
+
+[Data](articles/81c5eadb.json)
 
 ---
 
@@ -2189,103 +2251,5 @@ Royal Challengers Bangalore lost 2 wickets in 19.3 overs and won the champion ti
 [Data](articles/7a6e07bd.json)
 
 [Extended Data](ext_articles/7a6e07bd.ext.json)
-
----
-
-### Sri Lanka and Bangladesh teams are the goal of capturing the ODI series
-
-*2024-03-18 03:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/178972) · `ta`
-
-Sri Lanka and Bangladesh aim to win the ODI series, with Bangladesh leading 1-0. Sri Lanka won the series 3-1, but Bangladesh won the first match. The matches are in day and night, with the third match in sunlight. Dilshan Madushankan won't play for Sri Lanka, and Samika Karunaratne or Kamindu Mendis might replace him. Sri Lanka's lineup includes Bethum Nissanka, Avishka Fernando, Kusal Mendis, Sadheera Samarawickrama, Sarit Asalanka, Janith Liyanage, Wanindu Hasaranga, Tunith Wellalale, Samika Karunaratne, Pramod Madushan, Lahiru Kumara. Bangladesh's lineup includes Choumya Sarkar, Anamul Haq, Dhavasid Hasan, Najmul Hosain Santo, Dauhid Ritoi, Mahmudullah, Mushbikur Rahim, Mehidi Hasan Miraz, Rishad Hosain, Tajul Islam, Mustabisur Rahman.
-
-🟩
-
-Sri Lanka and Bangladesh will take place with the aim of winning the series and winning the series in the 3rd and last international ODI match to be held on Monday (18) at the Zahur Ahmad Chaudhary Stadium.
-
-Bangladesh won the first international ODI match by 6 wickets in the series.
-
-However, Sri Lanka won the series by 3 wickets and equated the series 1 - 1.
-
-The first two matches were held as day and night matches and the second team won the second in both matches.
-
-However, the competition is held in the sunlight and is considered to be a beneficial for the first few overs of the fast bowlers as it is in the morning.. However, the players are expected to showcase the talent.
-
-During the second match, fast bowler Dilshan Madushankan has announced that he will not play in today's match and some of the IPL's early matches.
-
-...
-
-[Data](articles/1d501d3c.json)
-
-[Extended Data](ext_articles/1d501d3c.ext.json)
-
----
-
-### Woman who drank water in a neighboring house falls down and death
-
-*2024-03-18 02:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/178970) · `ta`
-
-Rashendram Selvanidhi, 49, from Vaddukoddai, fell and died after drinking water from a neighbor's house. Cause of death is under investigation.
-
-🟩
-
-On Monday (17), a family woman who came out of the house was drunk and drunk at home.. He was killed in the doorway of the house when he went to his house.
-
-The deceased is Rashendram Selvanidhi (age 49) from Vaddukoddai - Tholpuram East, Chiripuram and Sivapoomiyadi area.
-
-The woman does not talk to her neighbor. In this case, he came out to go to his house today and asked him to go to the neighboring neighbor, about 30 meters away from his home.
-
-In this case he faints on the road. Immediately, the woman died when the people lifted him and took him to her house. The husband of the deceased has lodged a complaint at the Vaddukoddai police station.
-
-Neighbors report that the woman and her husband often have a dispute and that her husband is attacked. However, her daughter reports that the mother has usually swallowed the pills and went to the neighborhood.
-
-...
-
-[Data](articles/78c6d856.json)
-
-[Extended Data](ext_articles/78c6d856.ext.json)
-
----
-
-### United Petroleum of Australia to enter retail market from mid-year
-
-*2024-03-18 02:45:40* · [`dailyftlk`](https://www.ft.lk/business/United-Petroleum-of-Australia-to-enter-retail-market-from-mid-year/34-759609) · `en`
-
-Finalises agreement with Power and Energy Ministry further liberalising fuel market
-
-Power and Energy Minister Kanchana Wijesekera revealed yesterday that United Petroleum of Australia has finalised an agreement with the Power and Energy Ministry to  venture into petroleum retail operations in Sri Lanka.
-
-The announcement comes following last month’s signing of the agreement between the two parties.
-
-“They plan to sign the agreement with the BOI and obtain the license to operate by mid this year,” he said via ‘X’.
-
-Wijesekera said United Petroleum Group CFO Nigel Simonsz visited the Ministry to provide an update on the company’s plans and outlined the schedule for commencing retail operations.
-
-United Petroleum is slated to operate through 150 fuel stations allocated to them across the country.
-
-Australia’s United Petroleum is the third international company to enter into the market.
-
-◼️
-
-[Data](articles/3b9ac81a.json)
-
-[Extended Data](ext_articles/3b9ac81a.ext.json)
-
----
-
-### Trinity Holdings celebrates 7 years of sustainable garment manufacturing
-
-*2024-03-18 02:40:29* · [`dailyftlk`](https://www.ft.lk/business/Trinity-Holdings-celebrates-7-years-of-sustainable-garment-manufacturing/34-759608) · `en`
-
-Trinity Holdings, has celebrating seven years as an innovative and competitive company that manufactures and exports sustainable and basic garments such as women’s wear, men’s wear and children’s wear out of Sri Lanka.
-
-Trinity Holdings is a private sector company, headed by a woman entrepreneur, that supports sustainable business development. Trinity Holdings promotes SME growth, development and production.
-
-Trinity co-founder and CEO Davina de Silva was responsible for setting up the Victoria Secret underwear lingerie manufacturing business in Sri Lanka in 1996 with LM Buying which was part of Mast Industries. Davina has over 40 years’ experience in the garment manufacturing and exporting business. When Davina retired from the corporate sector in 2015, she and her son Sarinda de Silva founded Trinity Holdings in 2016.
-
-...
-
-[Data](articles/0b863f4d.json)
-
-[Extended Data](ext_articles/0b863f4d.ext.json)
 
 ---

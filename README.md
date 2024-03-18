@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 07:31:34**
+As of **2024-03-18 07:54:41**
 
 ## Newspaper Stats
 
-*Scraped **13,495** Articles*
+*Scraped **13,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,120 @@ economynextcom | 713
 islandlk | 745
 adalk | 1,157
 adaderanalk | 1,627
-tamilmirrorlk | 1,650
+tamilmirrorlk | 1,653
 virakesarilk | 1,874
 dailymirrorlk | 2,055
-adaderanasinhalalk | 2,135
+adaderanasinhalalk | 2,137
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,485 (99.9%) of 13,495 articles have been extended.
+13,495 (100.0%) of 13,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### போதைப்பொருள் விநியோகித்தவரும் வாங்கியவர்களும் கைது
+
+*2024-03-18 07:44:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதைப்பொருள்-விநியோகித்தவரும்-வாங்கியவர்களும்-கைது/175-334823) · `ta`
+
+கொழும்பு கோட்டை பகுதியில் பஸ் சாரதிகள் மற்றும் நடத்துனர்களுக்கு போதைப்பொருள் விநியோகம் செய்யும் மோசடி கும்பலை கொழும்பு டாம் வீதி பொலிஸ் நிலைய பொலிஸார் கைது செய்துள்ளனர்.
+
+கோட்டை பகுதியில் இருந்து சேவையில் ஈடுபடும் பஸ்களின் சாரதிகள் மற்றும் நடத்துனர்கள் கடமையின் போது தினமும் போதைப்பொருளை உட்கொள்வதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+போதைப்பொருளை விநியோகித்ததாக சந்தேகிக்கப்படும் நபரையும், அவரிடமிருந்து போதைப்பொருட்களை வாங்கிய பல பஸ் ஊழியர்களையும் பொலிஸார் கைது செய்துள்ளனர்.
+
+◼️
+
+[Data](articles/e4824363.json)
+
+---
+
+### ”தொல்பொருள் எனும் போர்வையில் பௌத்தத்தை விதைக்காதே”
+
+*2024-03-18 07:38:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொல்பொருள்-எனும்-போர்வையில்-பௌத்தத்தை-விதைக்காதே/175-334822) · `ta`
+
+கடந்த எட்டாம் திகதி சிவராத்திரி தினத்தன்று வெடுக்குநாறி மலை சிவன் ஆலய வழிபாட்டின் போது கைது செய்யப்பட்ட எண்மரை விடுதலை செய்யக்கோரியும் அச்சம்பவத்தைக் கண்டித்தும் திருகோணமலை சிவன்கோயிலடிக்கு முன்னிலையில் கவனயீர்ப்பு போராட்டம் ஒன்று நேற்று ஞாயிற்றுக்கிழமை (17) மாலை இடம் பெற்றது .
+
+வழிபாடு எமது அடிப்படை உரிமை ஆதி சிவன் ஆலயம் எமது பூர்வீகம்,ஈழத்தின் சமயத் தலைவர்களை அபகரிக்காதே, தொல்பொருள் எனும் போர்வையில் பௌத்தத்தை விதைக்காதே, வழிபாட்டைத் தடுக்கும் உரிமையைக் பொலிஸாருக்கு கொடுத்தது யார்,ஆலய நிர்வாகிகளை உடனடியாக விடுதலை செய்,ஆலயங்கள் சைவத் தமிழர்களின் பூர்வீக அடையாளம் போன்ற வாசகங்கள் அடங்கிய பதாகைகளை ஏந்தியவாறு கவனயீர்ப்பில் ஈடுபட்டனர்.
+
+வெடுக்குநாறி மலையில் இடம் பெற்ற புனிதமான சிவராத்திரி நாளில் இடம் பெற்ற சம்பவம் அடக்குமுறையாகும். பொலிஸார் இவ்வாறு செயற்பட்டமை கண்டிக்கத்தக்கது என திருகோணமலையில் ஞாயிற்றுக்கிழமை (17) மாலை இடம் பெற்ற ஊடக சந்திப்பின் போது அகத்தியார் அடிகளார் தென்காயிலை ஆதினம் தெரிவித்தார்.
+
+...
+
+[Data](articles/5143423c.json)
+
+---
+
+### බස්නාහිර සහ දකුණේ අපරාධ කල්ලි මර්දනයට විශේෂ මෙහෙයුමක්
+
+*2024-03-18 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194618) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි මර්දනය කිරීම ස﻿ඳහා පොලීසිය විසින් නව මෙහෙයුමක් ආරම්භ කිරීමට පියවර ගෙන තිබේ.
+
+පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ සහ පොලිස් විශේෂ කාර්ය බළකාය භාර අණදෙන නිලධාරීවරයාගේ සෘජු අධීක්ෂණය යටතේ මෙම මෙහෙයුම සිදුකරනු ඇත.
+
+දැනට මනුෂ්‍ය ඝාතන වැඩිම සංඛ්‍යාවක් සිදුවන බස්නාහිර හා දකුණ යන ප්‍රදේශවල මෙම මෙහෙයුම සිදුකරයි.
+
+ඒ අනුව සන්නද්ධ ප්‍රහාරක පොලිස් බලඇණි 20ක් මෙම ප්‍රදේශවල ආරක්ෂක කටයුතු සිදුකිරීමට නියමිතය.
+
+පොලිස්පතිවරයාගේ සහ පොලිස් විශේෂ කාර්ය බළකායේ අණදෙන නිලධාරීවරයාගේ නියෝගවලට පමණක් මෙම කණ්ඩායම් ක්‍රියාත්මකවනු ඇත.
+
+පසුගිය දිනවල බස්නාහිර පළාත තුළ මෙන්ම දකුණු පළාත තුළ ද අපරාධ කල්ලි සාමාජිකයින් විසින් සිදුකරන මනුෂ්‍ය ඝාතන ඉහළ ගොස් තිබිණි.
+
+මේ අතර සියලුම ග්‍රාම සේවා ඒකකවල පිහිටුවා ඇති ප්‍රජා පොලිස් ඒකකය තවදුරටත් ශක්තිමත් කර ඒ හරහා ජාතික ආරක්ෂාව තහවුරු කළ යුතු බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+
+ග්‍රාමීය මට්ටමින් ඇති කර ඇති ආරක්ෂක කමිටු සඳහා මෙරට ජාතික ආරක්ෂාව තහවුරු කිරීම සඳහා විශාල වගකීමක් පැවරෙන බව පොලිසිපතිවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/7a501d54.json)
+
+---
+
+### இன்று அதிகரித்த வெப்பநிலை காணப்படும்
+
+*2024-03-18 07:25:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அதிகரித்த-வெப்பநிலை-காணப்படும்/175-334821) · `ta`
+
+கிழக்கு, வடமத்திய,மேல் மற்றும் வடமேல்  மாகாணங்களிலும் அத்துடன்  மொனராகலை, மன்னார், இரத்தினபுரி மற்றும்  வவுனியா மாவட்டங்களிலும்  இன்று அதிகரித்த வெப்பநிலை காணப்படுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+சப்ரகமுவ மற்றும் மேல் மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+
+மத்திய மற்றும் சப்ரகமுவ மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் களுத்துறை  மாவட்டங்களின் சில இடங்களிலும்  காலை வேளையில் பனிமூட்டம் காணப்படும்.
+
+கடல் பிராந்தியங்களில் மணித்தியாலத்திற்கு 15 - 30 கிலோமீற்றர் வேகத்தில் வட கிழக்குத் திசையில் இருந்து அல்லது மாறுபட்ட திசைகளில் இருந்து காற்று வீசும்.
+
+...
+
+[Data](articles/d6715af1.json)
+
+---
+
+### කැනඩාවේ ඝාතනය වු ශ්‍රී ලාංකිකයින්ගේ අවසන් කටයුතු සිදුකෙරේ
+
+*2024-03-18 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194617) · `si`
+
+කැනඩාවේ දී ඝාතනය ලක් වු ශ්‍රී ලාංකිකයින් 06 දෙනොගේ අවමංගල්‍ය කටයුතු ඊයේ (17) පස්වරුවේ ඔටාවා හී දී සිදුකෙරුණි.
+
+කැනඩාවේ ඔටාවා හී බාර්හේවන් හී දී ඝාතනයට ලක්වු ශ්‍රී ලාංකික පවුලේ සාමාජිකයින් 05 දෙනාගේ සහ ඔවුන්ගේ මිතුරාගේ අවසන් කටයුතු මෙලෙස සිදුකළ බව කැනඩාවේ ශ්‍රී ලංකා මහකොමසාරිස් කාර්යාලය සචහන් කළේය.
+
+අවමංගල්‍ය උත්සව අවස්ථාවට එක්වන ජනතාව වෙනුවෙන් ශෝක ප්‍රකාශයන් සටහන් තැබීමට ද මෙහිදී අවස්ථාව උදාකර තිබිණි.
+
+මෙම අවස්ථාව සඳහා ප්‍රහාරයෙන් දිවි බේරාගත් ශ්‍රී ලාංකික පවුලේ පියා වන ධනුෂ්ක වික්‍රමසිංහ ද එක්ව සිටීම විශේෂත්වයකි.
+
+පසුගිය බදාදා දිනයේ 19 හැවිරිදි ශ්‍රී ලාංකික සිසුවෙකු විසින් ඔටාවා හී සිටි ශ්‍රී ලාංකිකයින් පිරිසක් ඝාතනය කර තිබිණි.
+
+මෙම ඝාතනයට ලක්වුවන්ගෙන් 05 දෙනෙකු එකම පවුලේ සාමාජිකයින් වන අතර අනෙක් පුද්ගලයා එම පවුලේ මිතුරෙකු වේ.
+
+ඊයේ පැවති අවමංගල්‍ය උත්සව සභාව ඇමතු කැනඩාවේ ශ්‍රී ලංකා මහ කොමසාරිස් හර්ෂ නවරත්න මහතා,
+
+...
+
+[Data](articles/7cff7185.json)
+
+---
 
 ### Dry weather conditions island wide
 
@@ -600,6 +700,8 @@ Sri Lanka are plagued by injuries with Dushmantha Chameera and Asitha Fernando b
 
 [Data](articles/a1c6f434.json)
 
+[Extended Data](ext_articles/a1c6f434.ext.json)
+
 ---
 
 ### 21 Indian fishermen in the case of crossing the border
@@ -636,6 +738,8 @@ AICPA & CIMA, together as the Association of International Certified Professiona
 
 [Data](articles/1ea54a98.json)
 
+[Extended Data](ext_articles/1ea54a98.ext.json)
+
 ---
 
 ### Surge Global secures multi-million dollar government contract in Qatar
@@ -649,6 +753,8 @@ The collaborative effort between Surge Global and GBM Qatar was the result of th
 ...
 
 [Data](articles/04a41017.json)
+
+[Extended Data](ext_articles/04a41017.ext.json)
 
 ---
 
@@ -665,6 +771,8 @@ BAIC is the 6th largest automobile company in China. Founded in 1958 as the Beij
 ...
 
 [Data](articles/7d536b69.json)
+
+[Extended Data](ext_articles/7d536b69.ext.json)
 
 ---
 
@@ -686,6 +794,8 @@ People’s Bank and George Steuart Solutions join forces to promote solar energy
 
 [Data](articles/8363b48d.json)
 
+[Extended Data](ext_articles/8363b48d.ext.json)
+
 ---
 
 ### Cinnamon Life gearing for future-focused businesses
@@ -702,6 +812,8 @@ The tower boasts 24 floors dedicated to offices and five floors for parking. Eac
 
 [Data](articles/55b412e7.json)
 
+[Extended Data](ext_articles/55b412e7.ext.json)
+
 ---
 
 ### Brandix rising for ‘HER’
@@ -713,6 +825,8 @@ Brandix, continues to lead efforts to inspire and empower women across all walks
 ...
 
 [Data](articles/305c7071.json)
+
+[Extended Data](ext_articles/305c7071.ext.json)
 
 ---
 
@@ -2123,119 +2237,5 @@ Mr. Fonseka said that the people of the country had asked a struggle and so far.
 [Data](articles/8c7e6a2b.json)
 
 [Extended Data](ext_articles/8c7e6a2b.ext.json)
-
----
-
-### Serious discovery of school children in Anuradhapura
-
-*2024-03-17 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194599) · `si`
-
-In Anuradhapura, 28% of school children suffer from malnutrition, impacting attendance. Economic challenges, especially in farming, exacerbate the issue. Parents are advised to follow medical dietary recommendations.
-
-🟩
-
-The Ceylon Teachers Union states that 28% of school children in the Anuradhapura district are suffering from malnutrition.
-
-The Chairman of the President Priyantha Fernando says that the attendance of children of the children of the area have been significantly reduced.
-
-The Ceylon Teachers Union states that 16% of Sri Lankan school children have been revealed in nutritional status.
-
-The Association points out that the majority of children in the Mahawilachchiya area are suffering from malnutrition.
-
-The main reason is that the income of families are now in the face of economic problems.
-
-The main livelihood of these areas is farming, but they are very embarrassed by failing.
-
-Investigation of this connection today, parents in the area say the parents of the area have directed the children to provide a proper nutritional diet based on medical recommendation.
-
-Teachers' unions point out that the active quality of children in these areas is also reduced due to nutrition.
-
-◼️
-
-[Data](articles/328f5cb8.json)
-
-[Extended Data](ext_articles/328f5cb8.ext.json)
-
----
-
-### President's Scholarship Plan: Action Notice
-
-*2024-03-17 14:20:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-புலமைப்பரிசில்-திட்டம்-அதிரடி-அறிவிப்பு/175-334796) · `ta`
-
-The "President's Scholarship Scheme 2024/25", based on President Ranil Wickremesinghe's project, now extends its application deadline to April 1, aiming to support school students from grade 1 to 11. More info at www.facebook.com/president.fund.
-
-🟩
-
-The deadline for accepting applications for the "President's Scholarship Scheme 2024/25", which will be implemented on the basis of President Ranil Wickremesinghe's project, has been extended till April 1 to encourage school students from grade 1 to 11.
-
-Visit the official Facebook page of the President's Fund via www.facebook.com/president.fund to get more information
-
-◼️
-
-[Data](articles/15780f5b.json)
-
-[Extended Data](ext_articles/15780f5b.ext.json)
-
----
-
-### Daily Mirror columnist Anshu Bahanda wins prestigious Top 50 UK award
-
-*2024-03-17 14:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Daily-Mirror-columnist-Anshu-Bahanda-wins-prestigious-Top-50-UK-award/108-279010) · `en`
-
-Anshu Bahanda, Founder, Wellness Curated (UK) and Columnist, Daily Mirror, Sri Lanka, was the recipient of the prestigious Top50 Professional and Career Women’s Award (UK) 2024: Media.
-
-The event was held on Saturday the 16th of March 2024 at the House of Lords, UK, in the presence of H.E. Prince Michael of Kent and Lord Loomba (Member of the House of Lords, UK).
-
-The Top50 Professional and Career Women’s Awards (UK) was hosted by Women in Management (UK) in collaboration with IFC (a subsidiary of the World Bank) and Australia Aid (Government of Australia).
-
-◼️
-
-[Data](articles/fdd3ab88.json)
-
-[Extended Data](ext_articles/fdd3ab88.ext.json)
-
----
-
-### President to find gems across the country
-
-*2024-03-17 14:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194598) · `si`
-
-President Ranil Wickremesinghe addressed the gem and jewelry industry, promising relief and discussing tax policies. He urged officials to propose solutions within two weeks, focusing on exports and valuing the gem industry. Plans to survey other areas, including Sabaragamuwa Province and Nuwara Eliya districts, were also mentioned.
-
-🟩
-
-President Ranil Wickremesinghe says he will provide relief to those who engage in the matters and jewelery industry.
-
-The President was speaking at a meeting held at the Presidential Secretariat with those engaged in the field.
-
-President Ranil Wickremesinghe and the gem and jewelery fields were held at the Presidential Secretariat.
-
-The issues of new tax policies and other issues of the industry have been discussed in the public.
-
-The President said that the tax policy could not be changed at the moment but prepare a suitable methodology to strengthen the gem and jewelery industry.
-
-President Ranil Wickremesinghe instructed the officials to provide a proposal to solve these issues within two weeks to formulate a proposal to solve these issues with contribution to the subscription of public and private.
-
-The President emphasized that he should focus on exports and value the gem industry.
-
-...
-
-[Data](articles/d68c2641.json)
-
-[Extended Data](ext_articles/d68c2641.ext.json)
-
----
-
-### Singapore Has Chosen The 4th Prime Minister
-
-*2024-03-17 13:59:18* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/singapore-has-chosen-the-4th-prime-minister/) · `en`
-
-The model south-east Asian country, Singapore is reported to have chosen the 4th Prime Minister after the declaration of Independence on 9th August 1965 by its first Prime Minister Lee Kuan Yew. In its long history of existence Singapore had come under the rulership of several different empires successively until it became another Entrepôt trading post of the British Empire in 1819. In 1867 it came under the Direct control of Britain as another conquered member country by them among the Straits Settlements in the South East region as a crown colony.
-
-...
-
-[Data](articles/6b1d2a28.json)
-
-[Extended Data](ext_articles/6b1d2a28.ext.json)
 
 ---

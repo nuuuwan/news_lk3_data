@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 11:52:36**
+As of **2024-03-18 12:03:32**
 
 ## Newspaper Stats
 
-*Scraped **13,547** Articles*
+*Scraped **13,550** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,74 @@ newsfirstlk | 363
 dailyftlk | 713
 economynextcom | 717
 islandlk | 745
-adalk | 1,162
+adalk | 1,163
 adaderanalk | 1,632
 tamilmirrorlk | 1,657
 virakesarilk | 1,882
 dailymirrorlk | 2,066
-adaderanasinhalalk | 2,146
+adaderanasinhalalk | 2,148
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,537 (99.9%) of 13,547 articles have been extended.
+13,547 (100.0%) of 13,550 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### வலம்புரியை விற்க முயன்றவர் கைது
+### උතුරු කොරියාවෙන් බැලැස්ටික් මිසයිල ප්‍රහාරයක්
+
+*2024-03-18 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194630) · `si`
+
+උතුරු කොරියාව විසින් පියොන්ග් යැංග් සිට නැගෙනහිර මුහුද දෙසට කෙටි දුර බැලැස්ටික් මිසයිල කිහිපයක් දියත් කර තිබේ.
+
+දකුණු කොරියාවේ සෝල් නුවර වෙත අමෙරිකානු රාජ්‍ය ලේකම් ඇන්තනී බ්ලින්කන් පැමිණීමත් සමග එම මිසයිල ප්‍රහාර දියත් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+අමෙරිකානු රාජ්‍ය ලේකම්වරයා සෝල් නුවර පැවැත්වෙන සමුළුවක් සඳහා සහභාගී වීමට නියමිතය.
+
+කෙසේවෙතත් උතුරු කොරියාව දියත් කරනු ලබන මිසයිල සම්බන්ධයෙන් දැඩි විමසිල්ලෙන් පසුවන බව දකුණු කොරියානු ආරක්ෂක අංශ පවසා ඇත.
+
+◼️
+
+[Data](articles/d611ff6f.json)
+
+---
+
+### ශ්‍රී ලංකාවට ඩොලර් මිලියන 100ක ණයක්
+
+*2024-03-18 11:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194629) · `si`
+
+ආසියානු සංවර්ධන බැංකුව, ශ්‍රී ලංකාවට ඩොලර් මිලියන 100ක ණයක් අනුමත කර තිබේ.
+
+එය මෙරට කුඩා සහ මධ්‍ය පරිමාණ ව්‍යාවසායකයින් ගේ ප්‍රයෝජනය ට යොදාගැනීමට නියමිතය.
+
+◼️
+
+[Data](articles/0763bb84.json)
+
+---
+
+### Arrested for trying to sell Valamburi
 
 *2024-03-18 11:26:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலம்புரியை-விற்க-முயன்றவர்-கைது/175-334829) · `ta`
 
-சுமார் ஐம்பது இலட்சம் ரூபாய் பெறுமதியான அரியவகை வலம்புரியை விற்பனை செய்வதற்காக எடுத்துச் சென்ற போது ஒருவர் கைது செய்யப்பட்டதாக பேருவளை பொலிஸார் தெரிவித்தனர்.
+A man was arrested in Beruwala for attempting to sell a rare Valamburi worth 50 lakhs. The suspect, a 26-year-old from Telthuwa, was apprehended by a police team led by the Beruwala Police Corruption Unit's Commander and Deputy Inspector Kasun Pathirana.
 
-மொரந்துடுவ, தெல்துவ பிரதேசத்தை சேர்ந்த 26 வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-விமானப்படை புலனாய்வு அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் பேருவளை பொலிஸ் ஊழல் ஒழிப்பு பிரிவின் நிலைய கட்டளைத் தளபதி உப பொலிஸ் பரிசோதகர் கசுன் பத்திரன உள்ளிட்ட பொலிஸ் குழுவினர் பேருவளை பிரதேசத்தில் உள்ள பிரபல தேவாலயத்திற்கு அருகில் சந்தேக நபரை சோதனை செய்து வலம்புரியுடன் கைது செய்தனர்.
+Beruwala police said that a man was arrested when he was taken to sell a rare Valamburi worth about fifty lakhs of rupees.
+
+A 26 -year -old from the Telthuwa area of Moranduduwa has been arrested, police said.
+
+Based on information received by the Air Force Intelligence Officers, a police team including the Commander of the Beruwala Police Corruption Unit, Deputy Inspector Kasun Pathirana, inspected the suspect near the popular church in Beruwala area and arrested the suspect.
 
 ◼️
 
 [Data](articles/810217b3.json)
+
+[Extended Data](ext_articles/810217b3.ext.json)
 
 ---
 
@@ -64,25 +102,33 @@ The total distance of the third phase of the Central Expressway is 32.45 kms and
 
 [Data](articles/6391c3b3.json)
 
+[Extended Data](ext_articles/6391c3b3.ext.json)
+
 ---
 
-### 735 மதன மோதக பக்கற்றுகளுடன் ஒருவர் கைது ; வாகனமும் பொலிஸாரால் மீட்பு
+### 735 arrested with religious conflicts;The vehicle and the police rescue
 
 *2024-03-18 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178992) · `ta`
 
-பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனின் பணிப்புரையின் கீழ் யுக்திய போதையொழிப்பு திட்டத்தின் கீழ் காத்தான்குடி பொலிஸார் மேற்கொண்ட திடீர் சுற்றி வளைப்பின் போது 735 மதன மோதக பக்கற்றுகளுடன் 35 வயதுடைய நபரொருவர் கைது செய்யப்பட்டுள்ளதாக காத்தான்குடி பொலிஸ் நிலைய பொறுப்பதிகாரி ஜி.கஜநாயக்க தெரிவித்தார்.
+A 35-year-old man was arrested with 735 religious conflicts in Kattankudy. The police found drug pills in his vehicle. Further investigations are ongoing.
 
-வாகன மொன்றில் குறித்த போதை மாத்திரைகள் எடுத்து வரப்பட்ட போதே கைது செய்யப்பட்டுள்ளதாக பொறுப்பதிகாரி மேலும் தெரிவித்தார்.
+🟩
 
-காத்தான்குடி டெலிகொம் வீதியில் நேற்று ஞாயிற்றுக்கிழமை (17) காலை புலனாய்வு பிரிவினருக்கு கிடைத்த தகவல் ஒன்றின் அடிப்படையிலேயே குறித்த நபர் கைது செய்யப்பட்டார்.
+Kattankudy Police Station Officer G. Gajanayake said that a 35 -year -old man was arrested with 735 religious conflicts during a sudden roundup by the Kattankudy police under the directive of the Inspector General of Police Deshabandu Thennakoon.
 
-குறித்த நபர் மட்டக்களப்பு நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளதாக தெரிவித்த பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+The officer in charge added that the drug pills were taken in the vehicle.
 
-இதேவேளை கடந்த இரு நாட்களில் மேற்கொள்ளப்பட்ட தேடுதல் நடவடிக்கையின் போது ஐஸ் மற்றும் ஹெரோயின், கேரளா கஞ்சாவுடன் 10 பேர் கைது செய்யப்பட்டுள்ளதாகவும் பொலிஸார் மேலும் தெரிவித்தனர்.
+The man was arrested on the basis of information received by the Intelligence Unit on Sunday (17) morning on Teleicom Road, Kattankudi.
+
+Further investigations are being carried out by the police that the person is to be produced at the Batticaloa Magistrate's Court.
+
+Meanwhile, 10 people have been arrested with ice and heroin and Kerala cannabis during the search operation in the last two days, police said.
 
 ◼️
 
 [Data](articles/2508aaeb.json)
+
+[Extended Data](ext_articles/2508aaeb.ext.json)
 
 ---
 
@@ -98,23 +144,33 @@ The total distance of the third phase of the Central Expressway is 32.45 kms and
 
 [Data](articles/a91c3f40.json)
 
+[Extended Data](ext_articles/a91c3f40.ext.json)
+
 ---
 
-### ஜனாதிபதி தேர்தலை பிற்போட முடியாது - தேர்தல் ஆணையாளர் நாயகம் சமன் ஸ்ரீரத்நாயக்க
+### Presidential election
 
 *2024-03-18 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178993) · `ta`
 
-பொதுத்தேர்தலை முன்கூட்டியே நடாத்தினால் கூட அரசாங்கத்தினால் ஜனாதிபதி தேர்தலை பிற்போட முடியாது எனதேர்தல் ஆணையாளர் நாயகம் சமன் ஸ்ரீரத்நாயக்க   தெரிவித்துள்ளார்.
+Saman Sriratnayake states that the government cannot regulate the presidential election if it's held before the general election, but it's the Election Commission's responsibility to ensure a timely election. Basil Rajapaksa wants the party to lead in the general election, suggesting the President could call a new election after two and a half years. Sriratnayake acknowledges the challenge of holding a general election before a presidential one but assures it won't be delayed. The Elections Department plans to fund the upcoming election from the Presidential Fund if necessary.
 
-பொதுத்தேர்தலே முதலில் நடைபெறவேண்டும் என தனதுகட்சி விரும்புவதாக பசில் ராஜபக்ச தெரிவித்துள்ளமை குறித்த ஐலண்ட் நாளிதழின் கேள்விக்கு பதில் அளிக்கையில் அவர் இதனை தெரிவித்துள்ளார்.
+🟩
 
-நாடாளுமன்றம் தனது ஆயுட்காலத்தின் இரண்டரை வருடங்களை பூர்த்தி செய்த பின்னர் ஜனாதிபதியால் அதனை கலைக்க முடியும் புதிய தேர்தலை அவர் நடத்தலாம் ஆனால் ஜனாதிபதி தேர்தல் உரிய நேரத்தில் இடம்பெறுவதை உறுதி செய்யவேண்டியது தேர்தல் ஆணைக்குழுவின் பொறுப்பு என அவர் தெரிவித்துள்ளார்.
+The Commissioner General of Elections Saman Sriratnayake says that even if the general election is held in advance, the government cannot regulate the presidential election.
 
-ஜனாதிபதி தேர்தலிற்கு முன்பாக பொதுத்தேர்தலை நடத்துவது மிகவும் சவாலான விடயமாக காணப்படும் என தெரிவித்துள்ள சமன் ஸ்ரீ ரட்நாயக்க ஆனால் எவ்வாறான நெருக்கடிகள் சவால்கள் காணப்பட்டாலும் ஜனாதிபதி தேர்தலை பிற்போடமுடியாது எனவும்  குறிப்பிட்டுள்ளார்.
+Responding to the question of the Island newspaper, Basil Rajapaksa said he wanted the party to be held first in the general election.
 
-...
+He said that the President could hold a new election after the parliament completed two and a half years of his lifetime, but it was the responsibility of the Election Commission to ensure that the presidential election was held in a timely manner.
+
+Saman Sri Ratnayake has said that holding the general election before the presidential election is a very challenging issue but no matter what the crises are, the presidential election will not be overflowing.
+
+Asked how the Elections Department has decided to get the funds for the election in the coming weeks, he said, "If such a situation is in place, the funds will be allocated from the Presidential Fund;
+
+◼️
 
 [Data](articles/2ccdd638.json)
+
+[Extended Data](ext_articles/2ccdd638.ext.json)
 
 ---
 
@@ -135,6 +191,8 @@ These were implemented in the Welikada, Mahara, and Agunakolapalassa prisons, wh
 ...
 
 [Data](articles/2efc45fb.json)
+
+[Extended Data](ext_articles/2efc45fb.ext.json)
 
 ---
 
@@ -171,6 +229,22 @@ The Asian Development Bank (ADB) has approved a $100 million loan to provide sma
 [Data](articles/e9776eed.json)
 
 [Extended Data](ext_articles/e9776eed.ext.json)
+
+---
+
+### සති අන්තයේ ශ්‍රී පාදය වදින්න ලක්ෂ 3ක් ඇවිත්
+
+*2024-03-18 10:58:35* · [`adalk`](https://www.ada.lk/breaking_news/සති-අන්තයේ-ශ්‍රී-පාදය-වදින්න-ලක්ෂ-3ක්-ඇවිත්/11-408667) · `si`
+
+ගෙවුණු සති අන්තයේ නල්ලතන්නිය-ශ්‍රීපාද මාර්ගයෙන් ශ්‍රීපාද වන්දනාව සඳහා  දෙස් විදෙස් වන්දනාකරුවන් ලක්ෂ 03 කට ආසන්න  පිරිසක් පැමිණි බව නල්ලතන්නිය පොලිස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ශාන්ත වීරසේකර මහතා පැවසිය.
+
+වන්දනාකරුවන් අධික වීමෙන් නල්ලතන්නිය -ශ්‍රීපාද මාර්ගයේ  මහගිරිදඹ  සිට සීතගඟුල ප්‍රදේශය දක්වා දැඩි තදබදයක් පැවතුණි. පැය ගණනක් එකම ස්ථානයක රැඳි සිටිිමට සිදු වීමෙන් තමන් දැඩි අපහසුතාවයට පත් වූ බවත්,  දුර බැහැර සිට පැමිණි බොහෝ වන්දනාකරුවන්ට ශ්‍රීපාදය වැඳපුදා ගැනිමට නොහැකිව ආපසු ගම්බිම් බලා යාමට සිදු වූ බවත් එම වන්දනාකරුවෝ අප සමග නල්ලතන්නිය නඟරයේදී පැවසුහ.
+
+සැම සති අන්තයකම වන්දනාකරුවන් අධික විම හේතුවෙන් මෙසේ තදබදයකට ලක් වන බව නල්ලතන්නිය පොලිසිය පවසයි.
+
+◼️
+
+[Data](articles/fb650791.json)
 
 ---
 
@@ -228,23 +302,29 @@ The person who was allowed there died in a few hours without treatment. A sudden
 
 ---
 
-### පාතාලය නසන්නට අද සිට ප්‍රහාරක බල ඇණි 20 ක්
+### 20 assailants from today to evict the underworld
 
 *2024-03-18 10:55:02* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලය-නසන්නට-අද-සිට-ප්‍රහාරක-බල-ඇණි-20-ක්/11-408666) · `si`
 
-දකුණු හා බස්නාහිර පළාත්වල දිනෙන් දෙන ඉහළ යන පාතාල ක්‍රියාකාරකම් මර්ධනය කිරීම සඳහා අද 18 දින සිට එම පළාත්වලට සන්නද්ධ ප්‍රහාරක පොලිස් බලඇණි 20ක් ස්ථාපිත කිරීමට පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පියවර ගෙන තිබේ.
+IGP Tennakoon deploys 20 armed police to control high and western provinces. 21 killed in underworld activities since Jan 1. Police identify main causes as underworld gangs and police officers linked to underworld. IGP issues red alerts to 62 OICs.
 
-මෙම ප්‍රවාහක බලඇණි පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේත් විශේෂ  කාර්ය බළකා අණදෙන නිලධාරී  වරුණ ජයසුන්දර මහතාගේත් අධීක්ෂණය යටතේ ක්‍රියාත්මක කෙරේ.
+🟩
 
-මේ වසරේ ජනවාරි 1 දින සිට මාර්තු 15වෙනි දින දක්වා කාලය තුළ පාතාල ක්‍රියාකාරම් වලින් අහිංසක පුද්ගලයන් ඇතුළු 21 දෙනෙක් ඝාතනය කෙරුණි.
+IGP Deshabandu Tennakoon has taken steps to establish 20 armed fighter police birds towards the control of the high and western provinces.
 
-මෙලෙස ඝාතන රැල්ලක් ඉහළ යෑමට ප්‍රධාන  හේතු ලෙස  පොලිසිය හඳුනාගෙන ඇත්තේ ඒ ඒ පොලිස් ස්ථානවල ස්ථානාධිපතිවරුන් පාතාල කල්ලි වලට ඇතිබියත්  පොලිස් ස්ථානාධිපතිවරුන් පාතාලය සමග ඇති සම්බන්ධතා නිසාත් බවය. පසුගියදා ඝාතනය සිද්ධීන් වාර්තා වූ පොලිස් බල ප්‍රදේශවල ස්ථානාධිපතිවරුන් 62 දෙදෙනෙකුට පොලිස්පතිවරයා විසින් රතු නිවේදන නිකුත් කර තිබේ..
+IGP will be implemented under the supervision of Inspector General of Trusts Deshabandu Tennakoon.
 
-දකුණු පළාතේ ඝාතන සිද්ධින් ඇතිවූ පොලිසි ස්ථානවල ස්ථානාධිපතිවරුන් කිහිප දෙනෙකුද මේ වන විට ස්ථාන මාරු කර ඇති බව වාර්තාවේ.
+21 and 21 others were killed in underworld activities from 1st January this year.
+
+The police have identified the main causes of a wave of murder and the OICs OICs have been underworld gangs and the police officers with the members of the underworld. The IGP has issued red announcements to 62 OICs in the police stations, reports recently.
+
+It is reported that several OICs of the Southern Province have also been transferred.
 
 ◼️
 
 [Data](articles/ea55ca62.json)
+
+[Extended Data](ext_articles/ea55ca62.ext.json)
 
 ---
 
@@ -550,6 +630,8 @@ A 500,000 dollar facility to cover guarantee subsidies for women-led SMEs will b
 
 [Data](articles/097736c7.json)
 
+[Extended Data](ext_articles/097736c7.ext.json)
+
 ---
 
 ### Two bosses arrested for underworld
@@ -587,6 +669,8 @@ The Colombo Stock Exchange opened up: the All Share Price Index was up 0.20 perc
 ◼️
 
 [Data](articles/8da7e508.json)
+
+[Extended Data](ext_articles/8da7e508.ext.json)
 
 ---
 
@@ -1041,6 +1125,8 @@ Before the 1860s, Bank of England customers were bill brokers and discount house
 ...
 
 [Data](articles/5018715f.json)
+
+[Extended Data](ext_articles/5018715f.ext.json)
 
 ---
 
@@ -2105,83 +2191,5 @@ An investigation into the accident was under way, said Qadratullah, a traffic of
 [Data](articles/8ec3516c.json)
 
 [Extended Data](ext_articles/8ec3516c.ext.json)
-
----
-
-### Opportunity for tab in the referendum?
-
-*2024-03-17 20:40:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்கெடுப்பு-நேரத்தில்-தாவலுக்கு-வாய்ப்பு/175-334819) · `ta`
-
-Opposition and ruling parties are secretly negotiating to gain MPs' support for a no-confidence motion against Speaker Mahinda Yapa Abeywardena. The goal is to sway MPs during the referendum. Many MPs are abstaining from voting. If the motion succeeds, leaders plan to use it for election propaganda. A debate on the motion is scheduled for the 19th and 20th, with the referendum at 4.30 pm on the 20th.
-
-🟩
-
-Political circles are known that the opposition parties and the ruling party have begun secret talks in this day to win the support of MPs to win the no -confidence motion by the opposition parties against Speaker Mahinda Yapa Abeywardena.
-
-The main objective of the opposition parties of the ruling party is to invite MPs to their side during the referendum.
-
-In the meantime?Many MPs have decided to stay away from voting, according to the same sources.
-
-If the decision of the no -confidence motion is favorable, many government and opposition leaders have encouraged their MPs to use it as a propaganda tool in the upcoming election.
-
-The Parliamentary Affairs Committee has decided to hold a debate on the 19th and 20th of this month on the no -confidence motion against the Speaker. The referendum on the no -confidence motion will be held at 4.30 pm on the 20th. Remble
-
-◼️
-
-[Data](articles/5cdfcd84.json)
-
-[Extended Data](ext_articles/5cdfcd84.ext.json)
-
----
-
-### Young man dies on the spot
-
-*2024-03-17 20:35:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/கோர-விபத்தில்-இளைஞன்-சம்பவ-இடத்திலேயே-மரணம்/75-334818) · `ta`
-
-A 39-year-old man died in a motorcycle accident near a Christian temple near Trincomalee railway station. Another man, 32, was injured. The accident involved two motorcycles.
-
-🟩
-
-A youth was killed in a motorcycle accident in front of a Christian temple near the Trincomalee railway station, police said.
-
-Preliminary inquiries revealed that the two youths were traveling on a motorbike and that the motorcycle was hit by a fast -paced motorcycle and the trio had been hit by a fast.
-
-It is reported that A. Thevanan (39 years old), the father of two children from the Trincomalee-Gonzapuri sixth phase, died and the 32-year-old UDUsan from the same area was injured.
-
-The other motorcycle passengers were injured and the three -year -olds, including 21, 30 and 39 years of age, and other motorcycle passengers, and a total of four were receiving treatment at the Trincomalee General Hospital.
-
-The Trincomalee Headquarters Police are investigating the accident.R
-
-◼️
-
-[Data](articles/6ed8fffe.json)
-
-[Extended Data](ext_articles/6ed8fffe.ext.json)
-
----
-
-### 250000 Rs. 5 million cannabis plants raided
-
-*2024-03-17 20:31:23* · [`adalk`](https://www.ada.lk/breaking_news/රු-කෝටි-පහක-ගංජා-පැල-250000ක-හේනක්-වටලයි/11-408662) · `si`
-
-Police and Army raid 250,000 acres of cannabis cultivation in Hambewa reserve, near Handidigamuwa town. Army intelligence supports Matara Police in fighting drug trafficking. Operation led to the escape of two individuals. Further investigations underway.
-
-🟩
-
-The police and the Army has been raided today (17), with more than 250,000 acres of marijuana cultivation in Hambewa reserve.
-
-The cannabis cultivation has been cultivated safely in a difficult area where the police or security forces cannot reach around 8km from the Handidigamuwa town.
-
-The army intelligence division has been provided to the Matara Police Investigation Division for cutting the illegal drug trafficking in the South with the police.
-
-The operation was then conducted by the police and the military yesterday. When approached the place, there were two people and they had escaped from the site at the time of the raid.
-
-The Matara Police Investigation Division conducts further investigations.
-
-◼️
-
-[Data](articles/9b5f72da.json)
-
-[Extended Data](ext_articles/9b5f72da.ext.json)
 
 ---

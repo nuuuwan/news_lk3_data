@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 20:50:47**
+As of **2024-03-18 21:03:56**
 
 ## Newspaper Stats
 
-*Scraped **13,647** Articles*
+*Scraped **13,648** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 1,642
 tamilmirrorlk | 1,661
 virakesarilk | 1,904
 dailymirrorlk | 2,085
-adaderanasinhalalk | 2,170
+adaderanasinhalalk | 2,171
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,644 (100.0%) of 13,647 articles have been extended.
+13,647 (100.0%) of 13,648 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,20 @@ The two match test series will commence on the 22nd March at SICS, Sylhet
 ◼️
 
 [Data](articles/59e3f3b9.json)
+
+[Extended Data](ext_articles/59e3f3b9.ext.json)
+
+---
+
+### බංග්ලාදේශයට එරෙහි ශ්‍රී ලංකා ටෙස්ට් කණ්ඩායම නම්කරයි
+
+*2024-03-18 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194653) · `si`
+
+බංග්ලාදේශ කණ්ඩායමට එරෙහිව පැවැත්වෙන තරග දෙකකින් සමන්විත ටෙස්ට් තරගාවලියට එක්වන ශ්‍රී ලංකා සංචිතය නම්කර තිබේ.
+
+◼️
+
+[Data](articles/a91c5bfe.json)
 
 ---
 
@@ -63,6 +77,8 @@ When asked about this at the press conference, Bangladesh captain Shanto calmly 
 ...
 
 [Data](articles/3036cfb5.json)
+
+[Extended Data](ext_articles/3036cfb5.ext.json)
 
 ---
 
@@ -221,6 +237,8 @@ He said the auspicious times were designated at night during the six hours and t
 ...
 
 [Data](articles/e67d810f.json)
+
+[Extended Data](ext_articles/e67d810f.ext.json)
 
 ---
 
@@ -2303,31 +2321,5 @@ Competition of Chinese cars and foreign market demand is continuously expanding.
 [Data](articles/ea7d4180.json)
 
 [Extended Data](ext_articles/ea7d4180.ext.json)
-
----
-
-### Presidential election
-
-*2024-03-18 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178993) · `ta`
-
-Saman Sriratnayake states that the government cannot regulate the presidential election if it's held before the general election, but it's the Election Commission's responsibility to ensure a timely election. Basil Rajapaksa wants the party to lead in the general election, suggesting the President could call a new election after two and a half years. Sriratnayake acknowledges the challenge of holding a general election before a presidential one but assures it won't be delayed. The Elections Department plans to fund the upcoming election from the Presidential Fund if necessary.
-
-🟩
-
-The Commissioner General of Elections Saman Sriratnayake says that even if the general election is held in advance, the government cannot regulate the presidential election.
-
-Responding to the question of the Island newspaper, Basil Rajapaksa said he wanted the party to be held first in the general election.
-
-He said that the President could hold a new election after the parliament completed two and a half years of his lifetime, but it was the responsibility of the Election Commission to ensure that the presidential election was held in a timely manner.
-
-Saman Sri Ratnayake has said that holding the general election before the presidential election is a very challenging issue but no matter what the crises are, the presidential election will not be overflowing.
-
-Asked how the Elections Department has decided to get the funds for the election in the coming weeks, he said, "If such a situation is in place, the funds will be allocated from the Presidential Fund;
-
-◼️
-
-[Data](articles/2ccdd638.json)
-
-[Extended Data](ext_articles/2ccdd638.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 11:33:37**
+As of **2024-03-18 11:52:36**
 
 ## Newspaper Stats
 
-*Scraped **13,537** Articles*
+*Scraped **13,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,130 @@ bbccomsinhala | 150
 dbsjeyarajcom | 187
 newsfirstlk | 363
 dailyftlk | 713
-economynextcom | 713
+economynextcom | 717
 islandlk | 745
-adalk | 1,161
+adalk | 1,162
 adaderanalk | 1,632
-tamilmirrorlk | 1,656
-virakesarilk | 1,880
-dailymirrorlk | 2,064
+tamilmirrorlk | 1,657
+virakesarilk | 1,882
+dailymirrorlk | 2,066
 adaderanasinhalalk | 2,146
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,536 (100.0%) of 13,537 articles have been extended.
+13,537 (99.9%) of 13,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### வலம்புரியை விற்க முயன்றவர் கைது
+
+*2024-03-18 11:26:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலம்புரியை-விற்க-முயன்றவர்-கைது/175-334829) · `ta`
+
+சுமார் ஐம்பது இலட்சம் ரூபாய் பெறுமதியான அரியவகை வலம்புரியை விற்பனை செய்வதற்காக எடுத்துச் சென்ற போது ஒருவர் கைது செய்யப்பட்டதாக பேருவளை பொலிஸார் தெரிவித்தனர்.
+
+மொரந்துடுவ, தெல்துவ பிரதேசத்தை சேர்ந்த 26 வயதுடைய ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+விமானப்படை புலனாய்வு அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் பேருவளை பொலிஸ் ஊழல் ஒழிப்பு பிரிவின் நிலைய கட்டளைத் தளபதி உப பொலிஸ் பரிசோதகர் கசுன் பத்திரன உள்ளிட்ட பொலிஸ் குழுவினர் பேருவளை பிரதேசத்தில் உள்ள பிரபல தேவாலயத்திற்கு அருகில் சந்தேக நபரை சோதனை செய்து வலம்புரியுடன் கைது செய்தனர்.
+
+◼️
+
+[Data](articles/810217b3.json)
+
+---
+
+### Government plans to complete Central Expressway phase 3 by 2025
+
+*2024-03-18 11:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-plans-to-complete-Central-Expressway-phase-3-by-2025/108-279048) · `en`
+
+Colombo, March 18 (Daily Mirror) - The government plans to complete the construction of the third phase of the Central Expressway from Pothuhera to Galagedara by 2025 and to complete the project by July 2026, Transport and Highways Minister Bandula Gunawardana said.
+
+He said this during a special inspection tour of the ongoing construction of the Central Expressway from Pothuhera to Galagedara.
+
+The Minister visited the project office located in the Lihinigiriya area of Pothuhera and attended a special presentation on the current progress of the project, which was attended by officials in charge of the project and construction company representatives.
+
+The total distance of the third phase of the Central Expressway is 32.45 kms and it consists of four interchanges such as Pothuhera, Polgahawela, Rambukkana and Galagedara. The related interchange construction is currently underway.
+
+...
+
+[Data](articles/6391c3b3.json)
+
+---
+
+### 735 மதன மோதக பக்கற்றுகளுடன் ஒருவர் கைது ; வாகனமும் பொலிஸாரால் மீட்பு
+
+*2024-03-18 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/178992) · `ta`
+
+பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனின் பணிப்புரையின் கீழ் யுக்திய போதையொழிப்பு திட்டத்தின் கீழ் காத்தான்குடி பொலிஸார் மேற்கொண்ட திடீர் சுற்றி வளைப்பின் போது 735 மதன மோதக பக்கற்றுகளுடன் 35 வயதுடைய நபரொருவர் கைது செய்யப்பட்டுள்ளதாக காத்தான்குடி பொலிஸ் நிலைய பொறுப்பதிகாரி ஜி.கஜநாயக்க தெரிவித்தார்.
+
+வாகன மொன்றில் குறித்த போதை மாத்திரைகள் எடுத்து வரப்பட்ட போதே கைது செய்யப்பட்டுள்ளதாக பொறுப்பதிகாரி மேலும் தெரிவித்தார்.
+
+காத்தான்குடி டெலிகொம் வீதியில் நேற்று ஞாயிற்றுக்கிழமை (17) காலை புலனாய்வு பிரிவினருக்கு கிடைத்த தகவல் ஒன்றின் அடிப்படையிலேயே குறித்த நபர் கைது செய்யப்பட்டார்.
+
+குறித்த நபர் மட்டக்களப்பு நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளதாக தெரிவித்த பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+இதேவேளை கடந்த இரு நாட்களில் மேற்கொள்ளப்பட்ட தேடுதல் நடவடிக்கையின் போது ஐஸ் மற்றும் ஹெரோயின், கேரளா கஞ்சாவுடன் 10 பேர் கைது செய்யப்பட்டுள்ளதாகவும் பொலிஸார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/2508aaeb.json)
+
+---
+
+### ADB approves $100 million loan to support SMEs in Sri Lanka
+
+*2024-03-18 11:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ADB-approves-100-million-loan-to-support-SMEs-in-Sri-Lanka/108-279061) · `en`
+
+(18 March) — The Asian Development Bank (ADB) has approved a $100 million loan to provide small and medium-sized enterprises (SMEs) in Sri Lanka more access to finance and build their resilience to external shocks, such as the economic crisis and climate change.
+
+“SMEs play a critical role in Sri Lanka’s economy, contributing 52% to the country’s gross domestic product and employ 45% of the population,” said ADB Senior Financial Sector Specialist Manohari Gunawardhena. “It is therefore important to provide SMEs, particularly women-led enterprises, with the necessary support to sustain and grow the sector’s contribution to the economy. This project will provide working capital and improve SMEs’ access to finance, helping them expand operations and prepare for the changing environment.”
+
+...
+
+[Data](articles/a91c3f40.json)
+
+---
+
+### ஜனாதிபதி தேர்தலை பிற்போட முடியாது - தேர்தல் ஆணையாளர் நாயகம் சமன் ஸ்ரீரத்நாயக்க
+
+*2024-03-18 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/178993) · `ta`
+
+பொதுத்தேர்தலை முன்கூட்டியே நடாத்தினால் கூட அரசாங்கத்தினால் ஜனாதிபதி தேர்தலை பிற்போட முடியாது எனதேர்தல் ஆணையாளர் நாயகம் சமன் ஸ்ரீரத்நாயக்க   தெரிவித்துள்ளார்.
+
+பொதுத்தேர்தலே முதலில் நடைபெறவேண்டும் என தனதுகட்சி விரும்புவதாக பசில் ராஜபக்ச தெரிவித்துள்ளமை குறித்த ஐலண்ட் நாளிதழின் கேள்விக்கு பதில் அளிக்கையில் அவர் இதனை தெரிவித்துள்ளார்.
+
+நாடாளுமன்றம் தனது ஆயுட்காலத்தின் இரண்டரை வருடங்களை பூர்த்தி செய்த பின்னர் ஜனாதிபதியால் அதனை கலைக்க முடியும் புதிய தேர்தலை அவர் நடத்தலாம் ஆனால் ஜனாதிபதி தேர்தல் உரிய நேரத்தில் இடம்பெறுவதை உறுதி செய்யவேண்டியது தேர்தல் ஆணைக்குழுவின் பொறுப்பு என அவர் தெரிவித்துள்ளார்.
+
+ஜனாதிபதி தேர்தலிற்கு முன்பாக பொதுத்தேர்தலை நடத்துவது மிகவும் சவாலான விடயமாக காணப்படும் என தெரிவித்துள்ள சமன் ஸ்ரீ ரட்நாயக்க ஆனால் எவ்வாறான நெருக்கடிகள் சவால்கள் காணப்பட்டாலும் ஜனாதிபதி தேர்தலை பிற்போடமுடியாது எனவும்  குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/2ccdd638.json)
+
+---
+
+### Prison labour earns Sri Lanka 116 million rupees in 2023: State Minister
+
+*2024-03-18 11:08:00* · [`economynextcom`](https://economynext.com/prison-labour-earns-sri-lanka-116-million-rupees-in-2023-state-minister-154976/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Department of Prisons has earned 116 million rupees through inmate labour, particularly that of women, in 2023, State Minister of Justice and Prison Affairs Anuradha Jayaratne has said.
+
+“In 2023, the agriculture and industry sectors generated earnings of 116 million rupees, primarily due to the labour contributions of women. The projected profit for 2024 is estimated to be 92,572,967.00 rupees” Jayaratne told reporters last week.
+
+The state minister said there were initiatives to empower inmates by providing them with employment.
+
+“Through collaborative efforts between the public and private sectors, initiatives have been launched to integrate inmates into the workforce from within the prisons.”
+
+These were implemented in the Welikada, Mahara, and Agunakolapalassa prisons, where activities like manufacturing shoes, coils, and food have been established, as a “a positive step towards rehabilitation and skills development among the incarcerated population.”
+
+...
+
+[Data](articles/2efc45fb.json)
+
+---
 
 ### Ballot boxes for Malvides’ elections to be placed in India, Sri Lanka
 
@@ -119,6 +225,26 @@ The person who was allowed there died in a few hours without treatment. A sudden
 [Data](articles/3eb194e5.json)
 
 [Extended Data](ext_articles/3eb194e5.ext.json)
+
+---
+
+### පාතාලය නසන්නට අද සිට ප්‍රහාරක බල ඇණි 20 ක්
+
+*2024-03-18 10:55:02* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලය-නසන්නට-අද-සිට-ප්‍රහාරක-බල-ඇණි-20-ක්/11-408666) · `si`
+
+දකුණු හා බස්නාහිර පළාත්වල දිනෙන් දෙන ඉහළ යන පාතාල ක්‍රියාකාරකම් මර්ධනය කිරීම සඳහා අද 18 දින සිට එම පළාත්වලට සන්නද්ධ ප්‍රහාරක පොලිස් බලඇණි 20ක් ස්ථාපිත කිරීමට පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පියවර ගෙන තිබේ.
+
+මෙම ප්‍රවාහක බලඇණි පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේත් විශේෂ  කාර්ය බළකා අණදෙන නිලධාරී  වරුණ ජයසුන්දර මහතාගේත් අධීක්ෂණය යටතේ ක්‍රියාත්මක කෙරේ.
+
+මේ වසරේ ජනවාරි 1 දින සිට මාර්තු 15වෙනි දින දක්වා කාලය තුළ පාතාල ක්‍රියාකාරම් වලින් අහිංසක පුද්ගලයන් ඇතුළු 21 දෙනෙක් ඝාතනය කෙරුණි.
+
+මෙලෙස ඝාතන රැල්ලක් ඉහළ යෑමට ප්‍රධාන  හේතු ලෙස  පොලිසිය හඳුනාගෙන ඇත්තේ ඒ ඒ පොලිස් ස්ථානවල ස්ථානාධිපතිවරුන් පාතාල කල්ලි වලට ඇතිබියත්  පොලිස් ස්ථානාධිපතිවරුන් පාතාලය සමග ඇති සම්බන්ධතා නිසාත් බවය. පසුගියදා ඝාතනය සිද්ධීන් වාර්තා වූ පොලිස් බල ප්‍රදේශවල ස්ථානාධිපතිවරුන් 62 දෙදෙනෙකුට පොලිස්පතිවරයා විසින් රතු නිවේදන නිකුත් කර තිබේ..
+
+දකුණු පළාතේ ඝාතන සිද්ධින් ඇතිවූ පොලිසි ස්ථානවල ස්ථානාධිපතිවරුන් කිහිප දෙනෙකුද මේ වන විට ස්ථාන මාරු කර ඇති බව වාර්තාවේ.
+
+◼️
+
+[Data](articles/ea55ca62.json)
 
 ---
 
@@ -404,6 +530,28 @@ The top electoral body said that ballot boxes for the island nation’s election
 
 ---
 
+### ADB approves US$100mn Sri Lanka SME loan
+
+*2024-03-18 10:06:00* · [`economynextcom`](https://economynext.com/adb-approves-us100mn-sri-lanka-sme-loan-154972/) · `en`
+
+ECONOMYNEXT – Manila-based Asian Development Banks said it has approved a 100 million US dollar loan to Sri Lanka to help small and medium enterprises.
+
+Of the loan, 50 million dollar credit line for “underserviced” SMEs in the export, tourism, technology, agriculture, and manufacturing sectors.
+
+“SMEs play a critical role in Sri Lanka’s economy, contributing 52% to the country’s gross domestic product and employ 45 percent of the population,” ADB Senior Financial Sector Specialist Manohari Gunawardhena said in a statement.
+
+“It is therefore important to provide SMEs, particularly women-led enterprises, with the necessary support to sustain and grow the sector’s contribution to the economy.
+
+“This project will provide working capital and improve SMEs’ access to finance, helping them expand operations and prepare for the changing environment.”
+
+A 500,000 dollar facility to cover guarantee subsidies for women-led SMEs will be set up under the program.
+
+...
+
+[Data](articles/097736c7.json)
+
+---
+
 ### Two bosses arrested for underworld
 
 *2024-03-18 10:00:38* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලයට-හොර-පාස්පෝට්-හැදූ-ලොක්කෝ-දෙදෙනෙක්-අල්ලයි/11-408663) · `si`
@@ -421,6 +569,24 @@ The suspect has been arrested in connection with the claim that two drugs and or
 [Data](articles/7b5b72ca.json)
 
 [Extended Data](ext_articles/7b5b72ca.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 304.60/65 to the US dollar
+
+*2024-03-18 09:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-304-60-65-to-the-us-dollar-154966/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 304.60/65 to the US dollar in the spot forex market on Monday, slightly stronger from 305.20/25 on Friday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 was quoted stable at 11.30/40 percent.
+
+A bond maturing on 15.12.2028 was quoted down at 12.07/15 percent from 12.10/15 percent.
+
+The Colombo Stock Exchange opened up: the All Share Price Index was up 0.20 percent at 11,358; but the S&P SL20 was down 0.01 percent at 3,244. (Colombo/Mar18/2024)
+
+◼️
+
+[Data](articles/8da7e508.json)
 
 ---
 
@@ -464,21 +630,27 @@ Investigations have revealed that the arrested suspect was closely related to th
 
 ---
 
-### 5ஆவது முறையாகவும் ஜனாதிபதியானார்  விளாடிமிர் புதின்
+### Vladimir Putin became President for the 5th time
 
 *2024-03-18 09:30:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/5ஆவது-முறையாகவும்-ஜனாதிபதியானார்-விளாடிமிர்-புதின்/50-334824) · `ta`
 
-ரஷ்யாவில் நடந்த ஜனாதிபதி தேர்தலில் விளாடிமிர் புதின் 88% வாக்குகளைப் பெற்று மிகப் பெரிய வெற்றியைப் பெற்றுள்ளார். இதன் மூலம் அவர் மீண்டும் அதிபர் பதவியில் தொடர்வது உறுதியாகியுள்ளது.
+Vladimir Putin won the 5th presidential term with 88% of the vote, making him the most powerful leader in Russia since Joseph Stalin.
 
-உலகிலேயே மிகப் பெரிய நாடாக இருப்பது ரஷ்யா.இந்தியாவை விட பல மடங்கு பெரியதாக ரஷ்யா இருந்தாலும் அந்நாட்டின் மொத்த மக்கள் தொகை வெறும் 15 கோடி தான்.
+🟩
 
-1999இல் அதிகாரத்திற்கு வந்த புதின், ரஷ்யாவில் மிகவும் சக்திவாய்ந்த நபராக உருவெடுத்துள்ளார். ரஷ்யா மற்றும் சோவியத் ஒன்றியத்தில் கடந்த 200 ஆண்டுகளில் அதிக காலம் தலைவராக இருந்தவர்கள் பட்டியலில் ஜோசப் ஸ்டாலினை புதின் ஓவர்கேட் செய்துள்ளார்.
+Vladimir Pudhan has won 88% of the vote in the presidential election in Russia. This is determined to resume as chancellor.
 
-உக்ரைன் போருக்குப் பிறகு அங்கே நடக்கும் முதல் தேர்தலாக இது இருக்கும் நிலையில், புதின் மிகப் பெரிய வாக்கு வித்தியாசத்தில் வென்றுள்ளார். R
+Russia is the largest country in the world. Russia is many times larger than India.
+
+Mint, who came to power in 1999, became the most powerful person in Russia. Joseph Stalin has overcatted the list of those who have been the leader of the long -lasting 200 years in Russia and the Soviet Union.
+
+While this is the first election after Ukraine's war. Remble
 
 ◼️
 
 [Data](articles/3e8c50a0.json)
+
+[Extended Data](ext_articles/3e8c50a0.ext.json)
 
 ---
 
@@ -849,6 +1021,26 @@ Misty conditions can be expected at some places in Sabaragamuwa and Central prov
 [Data](articles/d010bd35.json)
 
 [Extended Data](ext_articles/d010bd35.ext.json)
+
+---
+
+### Sri Lanka private credit down in Jan 2024
+
+*2024-03-18 07:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-down-in-jan-2024-154922/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s private credit fell 52.2 billion rupees in January 2024, after climbing 97.5 billion rupees in December and 62.9 billion in November, while central bank credit was overall deflationary, supporting monetary stability and reserves, official data shows.
+
+Sri Lanka’s private credit spiked in December amid anecdotal evidence that import containers also surged ahead of a value added tax hike.
+
+If the credit surge was linked to consumption imports, the loans will be liquidated as goods are sold.
+
+Before the ‘age of inflation’ and chronic balance of payments deficits (aggressive outright purchases through open market operations to maintain a bureaucratically decided policy rate), some classical economists (including Adam Smith, in line with the the so-called ‘real bills doctrine’) supported limited note issue banking on a similar principle, analysts say.
+
+Before the 1860s, Bank of England customers were bill brokers and discount houses, not banks which gave investment credit.
+
+...
+
+[Data](articles/5018715f.json)
 
 ---
 
@@ -1991,245 +2183,5 @@ The Matara Police Investigation Division conducts further investigations.
 [Data](articles/9b5f72da.json)
 
 [Extended Data](ext_articles/9b5f72da.ext.json)
-
----
-
-### Couple arrested for employment racket
-
-*2024-03-17 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194612) · `si`
-
-A couple was arrested for an employment racket involving sending 55 people to the Ukrainian army, with some victims sent to Poland and others to Azerbaijan. Three victims died in the Ukrainian army.
-
-🟩
-
-The Fort Magistrate's Court today ordered the reserves to be remanded until the 21st of the Ukrainian army.
-
-They were arrested after the Criminal Investigation Department (CID) trade and the Marine Criminal Investigation Division.
-
-The suspect resident is living in the Kadawatha area and the man is a professional economy.
-
-There are 55 persons who have been sent out in the Ukrainian army.
-
-Investigations have revealed that the suspects had taken steps to send the suspects to Ukraine to serve as a captain of the Ukrainian Army and the suspects were taken to send the people to Ukraine.
-
-It is revealed that the victims from Sri Lanka were sent to Poland and entered in Ukraine.
-
-The racketeers are Rs.. It has been revealed that a sum of Rs.
-
-Among those who left the country had gone to Ukraine and were unable to enter Poland.
-
-Investigators point out reports say they have been reported to have gone to Azerbaijan, but there is no information about them.
-
-...
-
-[Data](articles/ea185eea.json)
-
-[Extended Data](ext_articles/ea185eea.ext.json)
-
----
-
-### Fake Passport for Underworld Group: Immigration and Emigration Department
-
-*2024-03-17 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/178960) · `ta`
-
-The Deputy Controller and former Controller of the Department of Immigration and Emigration were arrested for allegedly making fake passports for a drug and organized criminal gang. Investigations are led by Deputy Inspector General Rohana Premaratne.
-
-🟩
-
-The Deputy Controller and former Controller of the Department of Immigration and Emigration has been arrested by the Criminal Investigation Department on Sunday evening on suspicion of making fake passports for the underworld group.
-
-They have been arrested in connection with the alleged manner of making a fake passport for two people belonging to drug and organized criminal gang.
-
-Further investigations are underway under the leadership of Deputy Inspector General of Police Rohana Premaratne of the Criminal Investigation Department.
-
-◼️
-
-[Data](articles/ddab64af.json)
-
-[Extended Data](ext_articles/ddab64af.ext.json)
-
----
-
-### The CEB holds another Rs. 245 million bonus
-
-*2024-03-17 20:23:07* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බල-මණ්ඩලයේ-අය-තවත්-රුපියල්-මිලියන-245ක්-ප්‍රසාද-මුදල්-ගෙවා-ගත්-හැටි-එළියට/11-408661) · `si`
-
-The CEB paid Rs. 245 million in bonuses, with the National Audit report revealing this payment was made from July 1, 2023, to December 31, 2023. The audit found that the circular advice should adhere to foreign funded projects, specifically 48 projects. The Power Supply Project's Project Manager confirmed adherence to the Ceylon Electricity Board's document guides.
-
-🟩
-
-The National Audit report, a sum of Rs.
-
-The audit revealed that this amount has been paid to the circular on 1st of July 1, 2023 from 1st July 20, 2023 to December 31, 2023.. Audit has revealed that the circular advice should be adequately adhere to foreign funded projects.
-
-It has been revealed that the relevant circulars should be adequately adapt to 48 foreign funded projects.. The audit of the Power Supply Project The Project Manager of the Power Supply Project has stated that this has been carried out regarding the document guides of the Ceylon Electricity Board and all Ceylon Electricity Board (CEB) to the Ceylon Electricity Board.
-
-◼️
-
-[Data](articles/8ceec9fa.json)
-
-[Extended Data](ext_articles/8ceec9fa.ext.json)
-
----
-
-### Thunderna Vidyalaya wins one day struggle
-
-*2024-03-17 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194611) · `si`
-
-Thurstan College, Colombo, won the 49-run match against Thunderna Vidyalaya, scoring 251/9 in 50 overs, while Isipathana Vidyalara lost all 10 wickets for 152 runs.
-
-🟩
-
-Thurstan College, Colombo won the Battle of the 44th Brother 49 runs today (17).
-
-Colombo P. Thurstan College scored 251 runs for the loss of 9 wickets at the end of 50 overs.
-
-In reply, Isipathana Vidyalara scored only 152 runs for the loss of all bowls.
-
-◼️
-
-[Data](articles/8180e9d6.json)
-
-[Extended Data](ext_articles/8180e9d6.ext.json)
-
----
-
-### Remove the elderly MPs
-
-*2024-03-17 20:09:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயதான-எம்-பிக்களை-நீக்கவும்/175-334816) · `ta`
-
-Roshan Ranzinghe, former Sports Minister, calls for the removal of elderly MPs, arguing for youth representation in Parliament. He criticizes the retirement of public servants and MPs, highlighting a lack of accountability and corruption, especially against those in power.
-
-🟩
-
-If this is the case, the entire parliament and the old slopes will become an old sloppy and that if the country is to be built, the elderly in Parliament should be expelled and the youth should be given the opportunity to give the youth a chance to give the youth the opportunity.
-
-Former Sports Minister and Member of Parliament, Roshan Ranzinghe, has stressed the above when he went to worship him.
-
-Public servants retire because they cannot work hard after reaching 60 years of age. But there are plenty of people who have been retiring in Parliament. Some retire from government service and come to parliament.
-
-They have no choice of giving. He also said that they were struggling to come to Parliament. They have no feeling on the people of the country. They sell the country's resources and rejoice their generation
-
-...
-
-[Data](articles/12f6b2a7.json)
-
-[Extended Data](ext_articles/12f6b2a7.ext.json)
-
----
-
-### Case on Vijitha Vijitha
-
-*2024-03-17 20:01:12* · [`adalk`](https://www.ada.lk/breaking_news/රෝහිතගෙන්-විජිතට-නඩුවක්/11-408660) · `si`
-
-The new COPE Committee Chairman, Vijitha Herath, denied allegations of corruption against him, claiming they were politically motivated. He also criticized the JVP for spreading false accusations out of jealousy and argued against government MPs holding the Chairman position.
-
-🟩
-
-The new Chairman of the COPE Committee said that Judicial action was taken against the UN Representatives of the International Monetary Fund as a Chairman of the International Monetary Fund.
-
-He was speaking at a media briefing in Kalutara.
-
-"Vijitha Herath held a media briefing on the 14th and said that the current chairman of the COPE Committee was accused of corruption and accused.
-
-I have no case or allegation of any judiciary.
-
-The JVP continues to express this because it is jealousy.
-
-It is wrong that the government MPs have held the post of Chairman of the COPE. "
-
-◼️
-
-[Data](articles/96686dda.json)
-
-[Extended Data](ext_articles/96686dda.ext.json)
-
----
-
-### Two persons arrested for producing phosphot for underworld leaders
-
-*2024-03-17 19:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதாள-தலைவர்களுக்கு-பாஸ்போட்-தயாரித்த-இருவர்-கைது/175-334815) · `ta`
-
-Two individuals, including a Deputy Controller and a former Controller, were arrested for allegedly preparing fake passports for underworld leaders, involving drugs and organized crime.
-
-🟩
-
-The Deputy Controller and the former Controller of the Immigration and Emigration Department have been arrested by the Criminal Investigation Division this evening for allegedly preparing a fake passport for underworld leaders.
-
-Two drugs and organized criminal gangs have been found to have been prepared for a fake passport.
-
-◼️
-
-[Data](articles/7e34d670.json)
-
-[Extended Data](ext_articles/7e34d670.ext.json)
-
----
-
-### There must be transparency in the Indian Housing Scheme
-
-*2024-03-17 19:47:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-வீடமைப்பு-திட்டத்தில்-வெளிப்படை-தன்மை-இருக்க-வேண்டும்/175-334814) · `ta`
-
-The Indian Housing Scheme's fourth phase, involving 1,300 houses, is criticized for lacking transparency. The Tamil Progressive Alliance, a partner in the project, calls for full transparency in the project's implementation and surveillance, which were previously handled by NGOs. The removal of NGOs has raised questions about the project's transparency.
-
-🟩
-
-The Indian Housing Scheme for the fourth phase of the plantation people who build 1,300 houses with an estimate of one house and Rs.
-
-Thanks to the Government of India on this scheme with the donation of the Government of India, we welcome the building work.. At the same time, the position of the Tamil Progressive Alliance is that this project practice should be fully transparent.
-
-When we were partners of goodwill in 2015-2019, we started the Indian-assisted housing project in plantations. In the construction of this house in our time, the United Nations Human Settlements Program - UN -Habitat, Sri Lanka Red Cross Society Society Society Society and International Central
-
-The International Federation of Red Cross and Red Crescent Society Societies (IFRC) has done well as well as the implementation and surveillance of non-governmental organizations.
-
-...
-
-[Data](articles/d9362e97.json)
-
-[Extended Data](ext_articles/d9362e97.ext.json)
-
----
-
-### The presidential election before the general election?
-
-*2024-03-17 19:41:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுத்-தேர்தலுக்கு-முன்னர்-ஜனாதிபதித்-தேர்தல்/175-334813) · `ta`
-
-The government is prioritizing the presidential election over the general election, with ministers and opposition MPs joining forces. The first rally by the United National Party was in Kiliyapitiya, indicating a focus on announcing the election post-negotiations.
-
-🟩
-
-It is reported that government leaders are focusing on holding the presidential election before the general election.
-
-Government sources say that the presidential election has been given more priority in the discussion.
-
-During the discussion, a minister said that most of the people, including the power of the people, have joined some of the MPs of many opposition political parties, including the power of the people.
-
-It is known that the first rally of the United National Party was organized in Kiliyapitiya.
-
-In this regard, it is expected that the government is looking to accurately announce the election after the negotiations.. Remble
-
-◼️
-
-[Data](articles/e16958e7.json)
-
-[Extended Data](ext_articles/e16958e7.ext.json)
-
----
-
-### CID arrests Immigration Deputy Controllers for issuing fake passports to criminals
-
-*2024-03-17 19:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-arrests-Immigration-Deputy-Controllers-for-issuing-fake-passports-to-criminals/108-279014) · `en`
-
-Colombo, March 17 (Daily Mirror) - A Deputy Controller and a former Deputy Controller of the Department of Immigration and Emigration were arrested by the Criminal Investigation Department for issuing passports to underworld criminals Nuresh Supun Dayaratne alias 'Heenatiyana Mahesh' and Shan Arosh Liyanage alias 'Mathugama Shan' based on false information.
-
-Police said one of the two arrested suspects is to be produced before the Vavuniya Magistrate's Court and the other suspect before the Kaduwela Magistrate's Court.
-
-The suspects have been arrested according to an investigation conducted under the supervision DIG of the CID Rohan Premaratne.
-
-...
-
-[Data](articles/02555ac0.json)
-
-[Extended Data](ext_articles/02555ac0.ext.json)
 
 ---

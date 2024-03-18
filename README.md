@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 06:17:34**
+As of **2024-03-18 06:54:21**
 
 ## Newspaper Stats
 
-*Scraped **13,484** Articles*
+*Scraped **13,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 1,627
 tamilmirrorlk | 1,650
 virakesarilk | 1,874
 dailymirrorlk | 2,055
-adaderanasinhalalk | 2,134
+adaderanasinhalalk | 2,135
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,483 (100.0%) of 13,484 articles have been extended.
+13,484 (100.0%) of 13,485 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### දිවයින පුරා වියලි කාලගුණික තත්ත්වයක්
+
+*2024-03-18 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194615) · `si`
+
+දිවයින පුරා ප්‍රධාන වශයෙන් වියලි කාලගුණික තත්ත්වයක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ කළුතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+මේ අතර, දිවයිනේ ප්‍රදේශ කිහිපයක උෂ්ණත්වය අද (18) දිනයේදී අවධානය යොමුකළ යුතු මට්ටමක් දක්වා තවදුරටත් ඉහළ යනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව වයඹ, උතුරු මැද, නැගෙනහිර, බස්නාහිර පළාත් සහ මොණරාගල, මන්නාරම, රත්නපුර සහ වවුනියා දිස්ත්‍රික්කවල ඇතැම් ස්ථානවල මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බව එම දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+ඒ අනුව ප්‍රමාණවත් පරිදි ජලය පානය කිරීම, සෙවණ ඇති ස්ථානවල හැකි පමණ විවේක ගැනීම, එළිමහනේ වෙහෙසකාරී කටයුතු සීමා කිරීම ඇතුළු සෞඛ්‍ය උපදෙස් අනුගමනය කළ යුතු බව එම දෙපාර්තමේන්තුව දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/e985b7b1.json)
+
+---
 
 ### Putin wins Russia election in landslide with no serious competition
 
@@ -45,6 +65,8 @@ The outcome means Putin, 71, is set to embark on a new six-year term that will s
 ...
 
 [Data](articles/2141f467.json)
+
+[Extended Data](ext_articles/2141f467.ext.json)
 
 ---
 
@@ -2261,29 +2283,5 @@ On Friday, Israel said it would send a delegation to Qatar for more talks with m
 [Data](articles/3811ad74.json)
 
 [Extended Data](ext_articles/3811ad74.ext.json)
-
----
-
-### Two constables in Ambalangoda police banned
-
-*2024-03-17 13:28:59* · [`adalk`](https://www.ada.lk/breaking_news/අම්බලන්ගොඩ-පොලීසියේ-කොස්තාපල්-දෙදෙනෙකුගේ-වැඩ-තහනම්/11-408648) · `si`
-
-Two Ambalangoda police constables suspended for alleged misconduct, including discussing duties and a shooting incident. The incident involved Agampium Saman Prantha, a criminal leader. Further investigations are ongoing.
-
-🟩
-
-Two police constables of the Ambalangoda police have been suspended for immediate effect.
-
-This work was banned by a letter from the SSP I UK Lokhetti, Senior Superintendent of Police, Senior Superintendent of Police.. The letter further further further stated that the work was suspended under the allegations of discuting, commander, duties.
-
-The work was banned by the constable served as the constable and telephone operator in charge of the implementation of the Ambalangoda police station on the 13th.
-
-Ambalangoda Police Office Inspector Prasanna Algiriya was banned due to the shooting of Agampium Saman Prantha (26), or 'Saman Boy' residents of an organized criminal criminal leader.The letter further states.
-
-...
-
-[Data](articles/f65cc55b.json)
-
-[Extended Data](ext_articles/f65cc55b.ext.json)
 
 ---

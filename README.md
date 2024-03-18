@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 12:49:57**
+As of **2024-03-18 13:02:58**
 
 ## Newspaper Stats
 
-*Scraped **13,561** Articles*
+*Scraped **13,567** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,91 @@ dailyftlk | 713
 economynextcom | 717
 islandlk | 746
 adalk | 1,166
-adaderanalk | 1,632
+adaderanalk | 1,633
 tamilmirrorlk | 1,657
-virakesarilk | 1,888
-dailymirrorlk | 2,066
+virakesarilk | 1,889
+dailymirrorlk | 2,070
 adaderanasinhalalk | 2,149
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,558 (100.0%) of 13,561 articles have been extended.
+13,561 (100.0%) of 13,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
 
-### வெடுக்குநாறி மலையில் கைதுதானவர்களை விடுவிக்கக் கோரி மூதூரில் கவனயீர்ப்பு ஆர்ப்பாட்டம்
+### யாழில் பல்பொருள் அங்காடி உரிமையாளருக்கு அபராதம்
+
+*2024-03-18 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179015) · `ta`
+
+யாழ்ப்பாணம் திருநெல்வேலி பகுதியில் உள்ள பல்பொருள் அங்காடி ஒன்றின் உரிமையாளருக்கு யாழ்.மேலதிக நீதவான் நீதிமன்றால் ஒரு இலட்சத்து 80 ஆயிரம் ரூபாய் தண்டம் அறவிடப்பட்டுள்ளது.
+
+திருநெல்வேலி பகுதியில் உள்ள இரண்டு பல்பொருள் அங்காடிகளில் பொது சுகாதார பரிசோதகர்களினால் திடீர் பரிசோதனைகள் முன்னெடுக்கப்பட்டன.
+
+அதன் போது, காலாவதியான பொருட்களை விற்பனைக்காக காட்சிப்படுத்தியமை , வண்டுகள் மொய்த்த பழுதடைந்த பொருட்களை விற்பனைக்காக வைத்திருந்தமை உள்ளிட்ட பொருட்கள் மீட்கப்பட்டன.
+
+மீட்கப்பட்ட பொருட்களை சான்று பொருட்களாக மன்றில் முற்படுத்திய சுகாதார பரிசோதகர் அங்காடி உரிமையாளர்களுக்கு எதிராக வழக்கு தொடர்ந்தார்.
+
+குறித்த வழக்கு இன்று திங்கட்கிழமை மன்றில் அழைக்கப்பட்ட போது ஒருவர் மன்றில் முன்னிலையாகத நிலையில் , மன்றில் முன்னிலையான ஒரு அங்காடி உரிமையாளருக்கு எதிராக 18 குற்றச்சாட்டுக்கள் முன் வைக்கப்பட்டன.
+
+தன் மீதான குற்றச்சாட்டுக்களை உரிமையாளர் ஏற்றுக்கொண்டதை அடுத்து, அவரை கடுமையாக எச்சரித்த மன்று , அவருக்கு ஒரு இலட்சத்து 80 ஆயிரம் ரூபாய் தண்டம் விதித்துள்ளது.
+
+◼️
+
+[Data](articles/2b4d6913.json)
+
+---
+
+### Eran Wickramaratne resigns from COPE
+
+*2024-03-18 12:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Eran-Wickramaratne-resigns-from-COPE/108-279072) · `en`
+
+Colombo, March 18 (Daily Mirror)- Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne has resigned from the Committee on Public Enterprises (COPE) protesting against the appointment of ineligible members to the committee.
+
+“It is dissatisfying that members who have been appointed to COPE have allegations against their personal conduct, particularly on financial transactions. This also contributes to citizen’s loss of confidence in Parliament,” he said in his letter of resignation which was sent to Speaker Mahinda Yapa Abeywardana.
+
+◼️
+
+[Data](articles/9bf50930.json)
+
+---
+
+### Muttur protest demonstration demanding the release of the arrested
 
 *2024-03-18 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/179012) · `ta`
 
-வெடுக்குநாறி மலையில் கைது செய்யப்பட்டவர்களை விடுதலை செய்ய வலியுறுத்தியும், மத வழிபாட்டு உரிமையை உறுதி செய்யக் கோரியும் இன்று திங்கட்கிழமை (18) மூதூரில் கவனயீர்ப்பு ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
+A protest in Muttur demanded the release of arrested individuals and religious rights. A Mahajar was handed over to the Divisional Secretariat Officer.
 
-மூதூர் மணிக்கூட்டு கோபுரத்திற்கு முன்பாக ஆரம்பித்த கவனயீர்ப்புப் போராட்டம் மூதூர் பிரதேச செயலகம் வரை இடம்பெற்றது. இப்போராட்டத்தின் இறுதியில் மகஜர் ஒன்றும் மூதூர் பிரதேச செயலக நிர்வாக உத்தியோகத்தரிடம் கையளிக்கப்பட்டது.
+🟩
+
+A protest demonstration was held in Muttur today (18) demanding the release of the arrested persons and the right of religious worship.
+
+Muttur Divisional Secretariat was held in front of the Muttur Manukkuttu Tower. At the end of the struggle, a Mahajar was handed over to the Muttur Divisional Secretariat Officer.
 
 ◼️
 
 [Data](articles/e38ba318.json)
+
+[Extended Data](ext_articles/e38ba318.ext.json)
+
+---
+
+### Eran Wickramaratne steps down from COPE
+
+*2024-03-18 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98025/eran-wickramaratne-steps-down-from-cope) · `en`
+
+Samagi Jana Balawegaya (SJB) Parliamentarian Eran Wickramaratne has resigned from his position as a member of the Committee on Public Enterprises (COPE).
+
+Speaking at a press conference this morning (18), Wickramaratne stated that he has handed over the resignation letter to the Speaker of the Parliament.
+
+In his resignation letter, the SJB MP mentions that the duty of the Committee is to report to Parliament on accounts examined, budgets and estimates, financial procedures, performance and management of Corporations and other Government Business Undertakings.
+
+...
+
+[Data](articles/b2d568ee.json)
 
 ---
 
@@ -72,19 +130,59 @@ He also ordered the recovery of the body and handed over to the Kilinochchi Dist
 
 ---
 
-### පුටින් පස්වැනි ධුරකාලයටත් පත්වෙයි
+### Customs Officers resort to work-to-rule action
+
+*2024-03-18 12:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Customs-Officers-resort-to-work-to-rule-action/108-279071) · `en`
+
+Colombo, March 18 (Daily Mirror) -  The Customs Officers have decided to resort to a 'work to rule,' action commencing this morning.
+
+This action comes as a direct response to grievances surrounding the transfer of the account responsible for disbursing overtime pay, incentives, and rewards.
+
+The dispute stems from the decision to shift control of the account from the Director General of Customs to the Ministry of Finance. Under the previous arrangement, payments were managed through the People's Bank, a process now subject to disruptions and delays following the transfer.
+
+◼️
+
+[Data](articles/c841be78.json)
+
+---
+
+### Putin is elected to the fifth Positor
 
 *2024-03-18 12:23:51* · [`adalk`](https://www.ada.lk/breaking_news/පුටින්-පස්වැනි-ධුරකාලයටත්-පත්වෙයි/11-408672) · `si`
 
-රුසියානු ජනපති ව්ලැඩ්මීර් පුටින් සිය පස්වැනි ධුර කාලය සඳහාද තේරී පත්ව තිබේ. ඒ රුසියාවේ පැවැති ජනපතිවරණයෙන් අතිවිශිෂ්ඨ ජයක් ලබමිනි.
+Putin wins fifth term in Russia, with nearly 87% of votes, despite Western claims of unfairness.
 
-රුසියානු ජනපතිවරණයෙන් ඔහු සියයට 87කට ආසන්න ඡන්ද ප්‍රතිශතයක් ලබමින් මෙසේ එරට ජනපති ලෙස යළිත් පත්ව තිබේ. රුසියානු ජනපතිවරණයට පුටින්ට ප්‍රතිවාදීන් තිදෙනෙකු සමග තරග කිරීමට සිදුවිය.
+🟩
 
-කෙසේ වෙතත් බටහිර මාධ්‍ය වාර්තා කරන්නේ මෙවර ජනපතිවරණය වෙනුවෙන් විපක්ෂ අපේක්ෂකයෙක් ඉදිරිපත් කිරීමට ක්‍රේම්ලීනය ඉඩ නොදුන් පවසයි. එසේම මැතිවරණය  නිදහස් හා සාධාරණ නොවන මැතිවරණයක් බවද  බටහිර මාධ්‍ය ප්‍රකාශ කරයි.
+Vladmir Putin has also been elected for his fifth term. The presidential election in Russia was surreptive.
+
+The Russian presidential election has been resumed as President of India, nearly 87 percent votes. Putin to the Russian presidential election had to compete with three rivals.
+
+However, the Western media reports that the Creation of the Armedard would not allow the presidential election. The election is a free elections and is not fair.
 
 ◼️
 
 [Data](articles/ef040300.json)
+
+[Extended Data](ext_articles/ef040300.ext.json)
+
+---
+
+### National Unity Alliance urges Presidential Commission to probe SriLankan debacle
+
+*2024-03-18 12:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/National-Unity-Alliance-urges-Presidential-Commission-to-probe-SriLankan-debacle/108-279070) · `en`
+
+Colombo, March 18 (Daily Mirror) - The National Unity Alliance (NUA) has called for the initiation of a Presidential Commission to thoroughly investigate into the tumultuous saga of SriLankan Airlines.
+
+The NUA expressed serious concerns regarding the government's recent endeavours to sell the beleaguered national carrier, shedding light on the staggering debt exceeding USD 1 billion that plagues the airline.
+
+Attributing these financial woes to years of mismanagement exacerbated by political interference, the NUA underscored the pivotal role played by the tenure of former President Mahinda Rajapaksa.
+
+Specifically, the NUA recalled the appointment of Rajapaksa's brother-in-law to the chairmanship of SriLankan Airlines, despite lacking any pertinent experience or expertise in aviation management. The result, according to the NUA, was nothing short of a disastrous mishandling of the national airline's affairs.
+
+...
+
+[Data](articles/f9e08665.json)
 
 ---
 
@@ -159,6 +257,24 @@ Following the hearing of the case, the 21 persons were ordered to be remanded un
 [Data](articles/78255456.json)
 
 [Extended Data](ext_articles/78255456.ext.json)
+
+---
+
+### Bakery products sales decline due to ingredient taxation
+
+*2024-03-18 12:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bakery-products-sales-decline-due-to-ingredient-taxation/108-279069) · `en`
+
+Colombo, March 18 (Daily Mirro) - Due to the imposition of taxes on ingredients used for bakery products, the sale of bakery items such as bread has decreased, chairman of the National Movement for Consumer Rights Protection, Ranjith Vithanage said.
+
+He told the Daily Mirror that a tax of Rs. 50 has been imposed on imported wheat flour, egg prices have increased and a Rs. 6,000 tax has been imposed on a kilo of margarine.
+
+Therefore, since  the prices of bakery items have increased, the sale of bread has decreased by 40 percent, and the sale of other bakery products has come down by 25 percent. Also, an 18 percent tax has been imposed on bakery items except bread.
+
+Under this situation, 10 percent of the bakeries have closed, said Vithanage and added that bakery owners did not reduce the prices of bakery items, even though the electricity charges were reduced by 21.9 percent.
+
+◼️
+
+[Data](articles/30cedff3.json)
 
 ---
 
@@ -364,21 +480,27 @@ Investigations have revealed about relations with several underworld leaders in 
 
 ---
 
-### චීන වාහන අපනයනයේ කැපී පෙනෙන වර්ධනයක්
+### Outstanding growth in Chinese vehicles
 
 *2024-03-18 11:10:25* · [`adalk`](https://www.ada.lk/breaking_news/චීන-වාහන-අපනයනයේ-කැපී-පෙනෙන-වර්ධනයක්/11-408668) · `si`
 
-මෙම වසරේ මුල් මාස දෙකේ, චීනයේ වාහන අපනයනය කැපීපෙනෙන වර්ධනයක් වාර්තා කරයි. එය පසුගිය වසරේ අදාළ කාලසීමාවට සාපේක්ෂව 30% ක වැඩිවීමකි.
+Sri Lanka's vehicle exports grew 30% in the first two months of 2023. China's vehicle exports increased by 30.5% in January 2023, with new energy vehicles growing 7.5% and traditional fuel vehicles by 39%. China's vehicle exports are expected to grow by 20% in 2024 due to increasing demand and competition in the international market.
 
-ජනවාරි, පෙබරවාරි මාස දෙකේ චීනයේ වාහන අපනයන පරිමාව 822 000 ක් වන අතර, එය පසුගිය වසරට වඩා 30.5% ක වර්ධනයක් බව එම සංගමය නිකුත් කළ දත්තවල දැක්වේ.
+🟩
 
-නව බලශක්ති වාහන 182 000 ක් ද ඊට ඇතුළත් ය. එය පසුගිය වසරේ අදාළ කාලසීමාවට සාපේක්ෂව 7.5% ක වර්ධනයකි. එසේම සාම්ප්‍රදායික ඉන්ධන වාහන අපනයනය 640 000 ක් වන අතර, එය 39% ක වර්ධනයක්  වාර්තා කර ඇත.
+Sri Lanka's first two months of this year, Sri Lanka's vehicle exports a significant growth. It is an increase of 30% over the relevant period last year.
 
-චීන මෝටර් රථවල තරඟකාරිත්වය මෙන්ම විදේශීය වෙළෙඳපොළ ඉල්ලුම ද අඛණ්ඩව පුළුල් වෙමින් පවතී. 2024 වසරේ දී ජාත්‍යන්තර ආර්ථික හා වෙළඳ තත්ත්වය වර්ධනය වීමත් සමඟ චීනයේ මෝටර් රථ අපනයනය වේගවත් වර්ධනයක් පවත්වාගෙන යනු ඇතැයි චීන වාහන කර්මාන්ත සංගමය කියාසිටී. එම වර්ධන වේගය 20% ක පමණ අගයක පවතිනු ඇති බවට ද ඇස්තමේන්තු කර ඇත.
+The data released in the data of China, January two months, China's vehicle export volume is 822,000, and it is a 30.5% more than last year.
+
+182,000 new energy vehicles included. It is a 7.5% growth over the relevant period last year. Traditional fuel traditions are 640,000, a growth of 39%.
+
+Competition of Chinese cars and foreign market demand is continuously expanding. China's vehicle exports will increase rapid increase in the development of international economic and trade in 2024. It is estimated that the growth rate will be around 20%.
 
 ◼️
 
 [Data](articles/ea7d4180.json)
+
+[Extended Data](ext_articles/ea7d4180.ext.json)
 
 ---
 
@@ -2109,125 +2231,5 @@ BAIC is the 6th largest automobile company in China. Founded in 1958 as the Beij
 [Data](articles/7d536b69.json)
 
 [Extended Data](ext_articles/7d536b69.ext.json)
-
----
-
-### People’s Bank Kotahena branch marks International Women’s Day
-
-*2024-03-17 22:46:00* · [`islandlk`](http://island.lk/peoples-bank-kotahena-branch-marks-international-womens-day/) · `en`
-
-Vanitha Wasana Savings promotion programme was held at People’s Bank, Kotahena branch recently in concurrence with the International Women’s Day. The guest lecture at the event was delivered by well-known chef Dushanthi Madanayake. Opening of new Vanitha Wasana savings accounts and distribution of gifts to existing account holders also took place during the event. Here, The Bank’s senior personnel pose for a group photograph with Amitha Sanjeewani- Regional Manager, People’s Bank Colombo North, Pathum Mihiraj-Assistant Regional Manager, People’s Bank Colombo North, Chamika Rajapakse- Branch Manager People’s Bank Kotahena.
-
-People’s Bank Vaasi Kotiyai 2023 Grand Draw Picks Millionaire Super Winners
-
-People’s Bank and Hayleys Agriculture form strategic alliance for agricultural advancement
-
-People’s Bank celebrates 76 years of Independence by offering gifts to newborns
-
-People’s Bank and George Steuart Solutions join forces to promote solar energy in Sri Lanka
-
-...
-
-[Data](articles/8363b48d.json)
-
-[Extended Data](ext_articles/8363b48d.ext.json)
-
----
-
-### Cinnamon Life gearing for future-focused businesses
-
-*2024-03-17 22:45:00* · [`islandlk`](http://island.lk/cinnamon-life-gearing-for-future-focused-businesses/) · `en`
-
-Cinnamon Life, Sri Lanka’s largest mixed development project, a mega 4.5 million sqft. complex with its architecturally stunning 30-storey tower, is offering prime office spaces and a prestigious new address, elevating businesses to new heights.
-
-Strategically located in the heart of Colombo’s financial hub, between Colombo Port City and key roads, Cinnamon Life provides corporates an impressive base merging modern workspaces with upscale lifestyle, dining and entertainment – seamlessly connected to the Cinnamon Life hotel, mall and residencies, creating experiences where business and leisure blend.
-
-The tower boasts 24 floors dedicated to offices and five floors for parking. Each level offers 10,564 sqft. of net lettable space, and can cater to the needs of diverse businesses, providing a conducive environment for operations and growth. The tower is billed as a next-gen ready office space on each level and a move-in-ready hub promising to house the next generation of enterprises.
-
-...
-
-[Data](articles/55b412e7.json)
-
-[Extended Data](ext_articles/55b412e7.ext.json)
-
----
-
-### Brandix rising for ‘HER’
-
-*2024-03-17 22:44:00* · [`islandlk`](http://island.lk/brandix-rising-for-her/) · `en`
-
-Brandix, continues to lead efforts to inspire and empower women across all walks and leads the way by converting policy into practice. At Brandix 80% of the Group’s workforce constitutes of women, and its facility in India is recognized as the single largest employer of women in the country. Brandix, the first private sector entity from Sri Lanka to commit to the United Nations programme on Gender-based Violence and Women in Leadership, was also recognized as a leading Achiever by the United Nations Women’s Empowerment Principles (WEP) Gender Gap Analysis survey.
-
-...
-
-[Data](articles/305c7071.json)
-
-[Extended Data](ext_articles/305c7071.ext.json)
-
----
-
-### India navy recaptures ship from Somali pirates and rescues crew
-
-*2024-03-17 22:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98018/india-navy-recaptures-ship-from-somali-pirates-and-rescues-crew) · `en`
-
-India’s navy recaptured a ship from Somali pirates off the Indian coast on Saturday, the South Asian country’s military said, rescuing the crew and ending a three-month takeover of the Maltese-flagged bulk carrier MV Ruen.
-
-The December hijacking of the ship was the first time since 2017 that any cargo vessel had been successfully boarded by Somali pirates.
-
-“#IndianNavy thwarts designs of Somali pirates to hijack ships plying through the region by intercepting ex-MV Ruen,” the navy posted on X, formerly Twitter, on Saturday night.
-
-The Indian warship Kolkata, “in the last 40 hours, through concerted actions, successfully cornered and coerced all 35 Pirates to surrender & ensured [the] safe evacuation of 17 crew members,” it added.
-
-Indian forces first intercepted the MV Ruen on Friday, the navy said.
-
-...
-
-[Data](articles/ad7ce7ba.json)
-
-[Extended Data](ext_articles/ad7ce7ba.ext.json)
-
----
-
-### Extension of Applications for the Presidential Education Scholarship Program
-
-*2024-03-17 22:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/178963) · `ta`
-
-The Presidential Education Scholarship Program, advised by President Ranil Wickremesinghe, has been extended to April 1, 2024, to support students amid economic challenges. The Presidential Fund will distribute scholarships based on school size, with schools appointing selection committees. Eligible students will receive scholarships for 12 months from April 2024, with details on the program available on the Presidential Fund's official Facebook page.
-
-🟩
-
-At the advice of President Ranil Wickremesinghe, on the advice of President Ranil Wickremesinghe, the President's Scholarship Scholarship, which is being implemented by the President's Fund, has been extended till April 01, to encourage school students amidst various economic difficulties.
-
-This period has been extended at the request of many people to accept applications for the Presidential Education Scholarship 2024/2025 project.
-
-The Presidential Fund has been asked to investigate the President's Education Scholarship Program through all Zonal Education Directors, all Principals, Divisional Secretaries and Grama Niladhari Officers.
-
-Further, as per the instructions already issued by the Secretary of the Ministry of Education, the Regional Director of Education will be decided to provide the school to the school and how many scholarships should be given to the school in accordance with the number of students in each school.
-
-...
-
-[Data](articles/27fc1e52.json)
-
-[Extended Data](ext_articles/27fc1e52.ext.json)
-
----
-
-### Application deadline extended for Presidential Scholarship Program 2024/25
-
-*2024-03-17 22:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98017/application-deadline-extended-for-presidential-scholarship-program-202425) · `en`
-
-The acceptance of applications for the “Presidential Scholarship Program 2024/25” has been extended and a new deadline set for April 01, the President’s Media Division said.
-
-This program, initiated by the President’s Fund under the advice of President Ranil Wickremesinghe and guided by President’s Secretary Mr. Saman Ekanayake, aims to benefit students who are studying despite facing various economic difficulties, the statement said.
-
-The extension of the acceptance period for applications for the Presidential Scholarship Program 2024/25 has been implemented in response to numerous requests, it said.
-
-Zonal education directors have informed about the program to principals, divisional secretaries, and Grama Niladhari Officers. The President’s Fund has encouraged parents to inquire about the program and submit the application form to the school principal accordingly.
-
-...
-
-[Data](articles/9cf14f3d.json)
-
-[Extended Data](ext_articles/9cf14f3d.ext.json)
 
 ---

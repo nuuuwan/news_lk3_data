@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 17:02:59**
+As of **2024-03-18 17:17:58**
 
 ## Newspaper Stats
 
-*Scraped **13,613** Articles*
+*Scraped **13,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,91 @@ dailyftlk | 713
 economynextcom | 721
 islandlk | 746
 adalk | 1,173
-adaderanalk | 1,638
+adaderanalk | 1,639
 tamilmirrorlk | 1,658
 virakesarilk | 1,901
 dailymirrorlk | 2,076
-adaderanasinhalalk | 2,159
+adaderanasinhalalk | 2,161
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,613 (100.0%) of 13,613 articles have been extended.
+13,613 (100.0%) of 13,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### බංග්ලාදේශයට සුපිරි ජයක්
+
+*2024-03-18 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194643) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර පැවැති අවසන් එක්දින තරගය කඩුලු 4කින් ජය ගැනීමට බංග්ලාදේශ කණ්ඩායම සමත් විය.
+
+ඒ අනුව තරග 03 කින් සමන්විත එක්දින තරගාවලිය 2ට 1ක් ලෙස ජයගැනීමට බංග්ලාදේශය සමත්විය.
+
+අද (18) තරගයේ කාසියේ වාසිය දිනා පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායමට සිය පන්දු ඕවර 50දී රැස්කළ හැකි වූයේ සියලුදෙනා දැවී ලකුණු 235ක් පමණි.
+
+එහිදී ශ්‍රී ලංකා ඉනිමේ වැඩිම ලකුණු ලාභියා වූයේ ජනිත් ලියනගේ  වන අතර ඔහු නොදැවී 101ක් රැස් කළේය.
+
+නායක කුසල් මෙන්ඩිස් ලකුණු 29ක් රැස් කළ අතර චරිත් අසලංක ලකුණු 37ක් රැස් කළේය.
+
+පන්දු යැවීමේ බංග්ලාදේශ කණ්ඩායම වෙනුවෙන්  තස්කින් අහමඩ් කඩුලු 03ක් දවා ගත්තේය.
+
+තරග ජය ගැනීම සඳහා ලකුණු 236ක ඉලක්කයක් හඹාගිය බංග්ලාදේශ ක්‍රීඩකයෝ පන්දු ඕවර 40.2 කදී තරගය ජයග්‍රහණය කිරීමට සමත්වූහ.
+
+එහිදී තන්සිඩ් හසන් ලකුණු 84ක් රැස්කළ අතර මුස්ෆිකූර් රහීම් නොදැවී ලකුණු 37ක් රැස්කළේය.
+
+පන්දු යැවීමේදී ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් ළහිරු කුමාර කඩුලු 04ක් දවාගත්තේය.
+
+◼️
+
+[Data](articles/c23e350c.json)
+
+---
+
+### පාසල් දැරියක් අපයෝජනය කළ 13ක්
+
+*2024-03-18 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194642) · `si`
+
+අනුරාධපුර නගරයේ බාබර් සාප්පුවක් තුළදී 14 හැවිරිදි වියේ පසුවන පාසල් දැරියක් වරින් වර දූෂණය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් පොලිස් ළමා හා කාන්තා කාර්යාංශය විශේෂ විමර්ශනයක් ආරම්භ කර ඇත.
+
+මෙම සිදුවීම සම්බන්ධයෙන් අදාළ බාබර් සාප්පුවේ කරණවෑමියා සහ තවත් පුද්ගලයෙක් පොලීසිය විසින් සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+
+එම සැකකරුවන් දෙදෙනා අද (18)  අනුරාධපුර ප්‍රධාන මහෙස්ත්‍රාත් සහ අතිරේක දිසා විනිසුරු නාලක සංජීව ජයසූරිය මහතා හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව එළඹෙන 28 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාර ගතකර තිබේ.
+
+පොලීසියට ලද තොරතුරකට අනුව සිදුකළ මෙහෙයුමකදී වින්දිත දැරිය පොලිස් භාරයට ගෙන සිදුකළ ප්‍රශ්නකිරීම්වලදී මෙම තොරතුරු අනාවරණය වී තිබේ.
+
+අදාළ බාබර් සාප්පුව පසුපස ඇති කාමරයක් තුළදී මෙම අපරාධය සිදුව ඇති අතර සැකකරුවන් දෙදෙනාට අමතරව තවත් සැකකරුවන් 11 දෙනෙකුගේ නම්  දැරිය විසින් පොලීසියට අනාවරණය කර ඇත.
+
+එම සැකකරුවන් අතර උසස් පොලිස් නිලධාරිනියකගේ 70 හැවිරිදි වියේ පසුවන පියෙකු ද සිටින බවට තොරතුරු වාර්තාවෙයි.
+
+අදාළ සැකකරුවන් 11 දෙනා අත්අඩංගුවට ගැනීම සඳහා මේ වනවිට පොලීසිය විසින් විමර්ශනයක් ආරම්භ කර ඇති බවද පොලීසිය පවසයි.
+
+...
+
+[Data](articles/ba4d7613.json)
+
+---
+
+### Fake passports for underworld figures: Ex-Deputy Immigration Controller granted bail
+
+*2024-03-18 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98031/fake-passports-for-underworld-figures-ex-deputy-immigration-controller-granted-bail) · `en`
+
+The former Deputy Controller of Immigration, who was arrested by the CID for allegedly providing passports based on false information to notorious underworld figures, has been released on bail.
+
+Accordingly, Kaduwela Magistrate Chanima Bandara has ordered the suspect to be released under two surety bail of Rs. 500,000 each after he was produced before the court today (18).
+
+The Criminal Investigation Department (CID) arrested a Deputy Controller of Immigration & Emigration and a former Deputy Controller in connection with providing passports based on false information to underworld figures Nuresh Supun Dayaratne alias “Heenatiyana Mahesh” and Shan Arosh Liyanage alias “Mathugama Shan”.
+
+The former Deputy Controller of the Immigration Department is accused of providing a fake passport for the organized criminal figure Shan Arosha Liyanage, also known as “Mathugama Shan”.
+
+...
+
+[Data](articles/907f9135.json)
+
+---
 
 ### Two Pitigala murder suspects remanded
 
@@ -2233,63 +2303,5 @@ The founding batsman Litton Das has also been removed from the squad today.
 [Data](articles/f791e4bd.json)
 
 [Extended Data](ext_articles/f791e4bd.ext.json)
-
----
-
-### Vladimir Putin claims landslide Russian election victory
-
-*2024-03-18 08:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Vladimir-Putin-claims-landslide-Russian-election-victory/107-279043) · `en`
-
-Russia, March 18 (The Guardian) - Vladimir Putin has claimed a landslide victory in Russia’s presidential vote, as thousands in the country and around the world protested against his deepening dictatorship, the war in Ukraine and a stage-managed election that could have only one winner.
-
-In a vote denounced by the United States as “obviously not free nor fair”, Putin won 87% of the vote, according to exit polling published by the state-run Russian Public Opinion Research Center and the Public Opinion Foundation.
-
-In a speech at his campaign headquarters on Sunday evening, Putin brushed off western criticism of the elections, telling his supporters it was “expected”.
-
-“What did you want, for them to applaud us? They’re fighting with us in an armed conflict … their goal is to contain our development. Of course they’re ready to say anything,” he said.
-
-...
-
-[Data](articles/c97e63a4.json)
-
-[Extended Data](ext_articles/c97e63a4.ext.json)
-
----
-
-### Vladimir Putin claims landslide Russian election victory
-
-*2024-03-18 08:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Vladimir-Putin-claims-landslide-Russian-election-victory/108-279043) · `en`
-
-Russia, March 18 (The Guardian) - Vladimir Putin has claimed a landslide victory in Russia’s presidential vote, as thousands in the country and around the world protested against his deepening dictatorship, the war in Ukraine and a stage-managed election that could have only one winner.
-
-In a vote denounced by the United States as “obviously not free nor fair”, Putin won 87% of the vote, according to exit polling published by the state-run Russian Public Opinion Research Center and the Public Opinion Foundation.
-
-In a speech at his campaign headquarters on Sunday evening, Putin brushed off western criticism of the elections, telling his supporters it was “expected”.
-
-“What did you want, for them to applaud us? They’re fighting with us in an armed conflict … their goal is to contain our development. Of course they’re ready to say anything,” he said.
-
-...
-
-[Data](articles/ef8b3021.json)
-
-[Extended Data](ext_articles/ef8b3021.ext.json)
-
----
-
-### Public trust in parliament and political parties reaches all time low: Survey
-
-*2024-03-18 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-trust-in-parliament-and-political-parties-reaches-all-time-low-Survey/108-279042) · `en`
-
-Colombo, March 18 (Daily Mirror) - A recent survey conducted by the Centre for Policy Alternatives (CPA) has unearthed that public trust in parliament and political parties has reached an all time low, with parliament showing 22 percent public trust and political parties showing 19 percent trust.
-
-The survey, titled ‘Survey on Democracy and Reconciliation in Sri Lanka,’ involved 1,350 participants across 25 districts in January, shedding light on declining trust in democratic institutions and shifting attitudes toward authoritarianism.
-
-According to the findings, Army and Courts enjoy the status of the most trusted institution in the country while the police enjoy relatively less public trust compared to the Army and Courts.
-
-...
-
-[Data](articles/be32ceb1.json)
-
-[Extended Data](ext_articles/be32ceb1.ext.json)
 
 ---

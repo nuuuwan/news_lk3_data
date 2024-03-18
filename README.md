@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-18 13:33:40**
+As of **2024-03-18 13:52:11**
 
 ## Newspaper Stats
 
-*Scraped **13,572** Articles*
+*Scraped **13,577** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 127
-bbccomsinhala | 150
+bbccomsinhala | 151
 dbsjeyarajcom | 187
 newsfirstlk | 363
 dailyftlk | 713
@@ -19,18 +19,78 @@ adalk | 1,167
 adaderanalk | 1,633
 tamilmirrorlk | 1,658
 virakesarilk | 1,892
-dailymirrorlk | 2,070
-adaderanasinhalalk | 2,149
+dailymirrorlk | 2,072
+adaderanasinhalalk | 2,151
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,572 (100.0%) of 13,572 articles have been extended.
+13,572 (100.0%) of 13,577 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-18 (Monday)
+
+### පියාගේ වියෝවයෙන් සංවේදී වූ පුංචි දියණිය
+
+*2024-03-18 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194633) · `si`
+
+කැනඩාවේ ඔටාවාහි නිවසක් තුළ ඝාතනයට ලක් වූ කුඩා දරුවන් සිව්දෙනා ඇතුළු ශ්‍රී ලාංකිකයින් 06 දෙනාගේ අවසන් කටයුතු ඊයේ (17) එරට වේලාවෙන් පස්වරු එකට සිදු කෙරුණි.
+
+කැනඩාවේ ඔටාවා නුවරට තදාසන්න බාර්හේවන් ප්‍රදේශයේ නිවසකදී ශ්‍රී ලාංකික එකම පවුලේ 5 දෙනෙකු ඇතුළු ශ්‍රී ලාංකිකයින් 06 දෙනෙක් අමානුෂික ලෙස ඝාතනය කෙරුණේ පසුගිය මාර්තු 6 වනදාය.
+
+ඝාතනය සම්බන්ධයෙන් චෝදනා එල්ල වුණේ 19 හැවිරිදි ශ්‍රී ලාංකික ෆෙබ්‍රියෝ ද සොයිසා තරුණයාටය.
+
+මෙම සිද්ධියෙන් මියගිය ශ්‍රී ලාංකිකයින් 6 දෙනාගේ අවමංගල්‍ය උත්සවය මෙරට වේලාවෙන් ඊයේ රාත්‍රී 10.30ට පමණ ආරම්භ විය.
+
+එහිදි ජීවිතක්ෂයට පත් ලාංකිකයින්ගේ දේහ සම්මේලන මධ්‍යස්ථාන වෙත රැගෙන එනු ලැබීය.
+
+මේ සඳහා බාර්හේවන් ප්‍රදේශයේ දිවිගෙවන බොහෝ දෙනකු සහභාගී වී සිටියේය.
+
+එමෙන්ම ප්‍රහාරයෙන් දිවි බේරාගත් ශ්‍රී ලාංකික පවුලේ පියා වන ධනුෂ්ක වික්‍රමසිංහ ද අවමංගල්‍යය උත්සවයට සහභාගී වුණේ තියුණු ආයුධ ප්‍රහාරයෙන් මුහුණේ ඇතිවූ කැලැල් සහ දකුණු අතේ වෙන් වූ ඇඟිල්ල වෙළුම් පටිවලින් ආවරණය කරගනිමිනි.
+
+එමෙන්ම ධනුෂ්කගේ පියා සහ සහෝදරයෙකු ද මෙම අවස්ථාවට සහභාගි ව සියේය.
+
+...
+
+[Data](articles/b1ca91bd.json)
+
+---
+
+### තෙවැනි තරගයේ වැඩි වාසි බංග්ලාදේශයට
+
+*2024-03-18 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194632) · `si`
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවැත්වෙන තෙවැනි සහ අවසාන එක්දින ජාත්‍යන්තර තරගය මේ වනවිට බංග්ලාදේශයේ චිතගොං හි පැවැත්වෙයි.
+
+එහිදී කාසියේ වාසිය දිනා පළමුව පන්දුවට පහරදුන් ශ්‍රී ලංකා කණ්ඩායමට සිය පන්දු ඕවර 50දී රැස්කළ හැකි වූයේ සියලුදෙනා දැවී ලකුණු 235ක් පමණි.
+
+ශ්‍රී ලංකා ඉනිමේ වැඩිම ලකුණු ලාභියා වූයේ ජනිත් ලියනගේ ය. ඔහු රැස්කළ ලකුණු  ගණන නොදැවී 101කි.
+
+◼️
+
+[Data](articles/e159238a.json)
+
+---
+
+### Postpone all sports meets: Education Ministry
+
+*2024-03-18 13:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Postpone-all-sports-meets-Education-Ministry/108-279073) · `en`
+
+Colombo, March 18 (Daily Mirror) - While issuing a circular, the Education Ministry has directed schools to postpone their sports meets due to the prevalence of higher temperatures.
+
+The circular was issued following the instruction of Education Ministry Secretary Ms. Wasantha Perera today, who said copies of the circular have been sent to all principals of schools.
+
+The Metrology Department has reportedly claimed that the prevalent high temperatures will persist till April.
+
+The health authorities were also informed about the health issues that can occur when assigning students for outdoor activities such as sports meets.
+
+◼️
+
+[Data](articles/f85f88bb.json)
+
+---
 
 ### Iran resigned
 
@@ -1396,6 +1456,22 @@ According to the findings, Army and Courts enjoy the status of the most trusted 
 
 ---
 
+### Public trust in parliament and political parties reaches all time low: Survey
+
+*2024-03-18 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Public-trust-in-parliament-and-political-parties-reaches-all-time-low-Survey/155-279042) · `en`
+
+Colombo, March 18 (Daily Mirror) - A recent survey conducted by the Centre for Policy Alternatives (CPA) has unearthed that public trust in parliament and political parties has reached an all time low, with parliament showing 22 percent public trust and political parties showing 19 percent trust.
+
+The survey, titled ‘Survey on Democracy and Reconciliation in Sri Lanka,’ involved 1,350 participants across 25 districts in January, shedding light on declining trust in democratic institutions and shifting attitudes toward authoritarianism.
+
+According to the findings, Army and Courts enjoy the status of the most trusted institution in the country while the police enjoy relatively less public trust compared to the Army and Courts.
+
+...
+
+[Data](articles/ff3bccb7.json)
+
+---
+
 ### Freedom Party (SLFP) is a crisis in the leadership of the New UPFA
 
 *2024-03-18 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194622) · `si`
@@ -1701,6 +1777,32 @@ Sri Lanka's High Commissioner to Sri Lanka Harsha Navaratne, Minister of Sri Lan
 [Data](articles/7cff7185.json)
 
 [Extended Data](ext_articles/7cff7185.ext.json)
+
+---
+
+### රවී රොයිස්ටර්: දකුණු ඉන්දීය සිනමාවේ දැවැන්ත සලකුණක් තැබූ ශ්‍රී ලාංකික තරුණ සංගීතවේදියා
+
+*2024-03-18 06:34:56* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clwe1jp407jo) · `si`
+
+රවී රොයිස්ටර්: දකුණු ඉන්දීය සිනමාවේ දැවැන්ත සලකුණක් තැබූ ශ්‍රී ලාංකික තරුණ සංගීතවේදියා
+
+ශ්‍රී ලංකා සිනමා ගීත ඉතිහාසය පිරික්සීමේදී අපට පෙනී යන විශේෂ කරුණක් නම් භාරතීය තනු අනුසාරයෙන් සිංහල ගීත නිර්මාණය කිරීම ය.
+
+මුල් යුගයේදී සිංහල සිනමා ගීත බොහොමයක් නිර්මාණය කෙරුණේ, භාරතීය තනු අනුසාරයෙනි. ස්වතන්ත්‍ර ගීත නිර්මාණය වූයේ, ඉතා අල්ප වශයෙනි.
+
+එවන් තත්ත්වයක පැවති සිංහල සංගීතය මේ වන විට ජාත්‍යන්තර මට්ටමට ඉහළට එසවුණු අවස්ථා රැසක් තිබේ.
+
+ඒ අනුව, ශ්‍රී ලංකාවේ නිර්මාණය වන ගී තනු ඉන්දීය චිත්‍රපට ගීත සඳහා භාවිත කරන තත්ත්වයක් උදා වී ඇත.
+
+මෙහි නවතම ජයග්‍රහණය ලෙස වාර්තා වූයේ, ශ්‍රී ලාංකික යොවුන් ගායන ශිල්පී සහ සංගීත නිර්මාණ ශිල්පී රවී රොයිස්ටර්ගේ ගී තනුවක් දකුණු ඉන්දීය දැවැන්ත සිනමා පටයක් සඳහා යොදා ගැනීම ය.
+
+විනායක් වෛතියනාදන් විසින් අධ්‍යක්ෂණය කරන ලද 'රෝමියෝ' ලෙස නම් කර ඇති එම සිනමා පටය දෙමළ සහ තෙළිඟු යන භාෂා දෙකෙන් ම රචනා කර තිබේ.
+
+මෙහි ප්‍රධාන චරිතවලට පණ පොවන්නේ ජනප්‍රිය නළු විජේ ඇන්තනි සහ මිල්නාලිනී රවී දෙපළ ය.
+
+...
+
+[Data](articles/2f089ec4.json)
 
 ---
 
@@ -2157,109 +2259,5 @@ Secretary to the Ministry of Public Safety Viani Gunathilaka, Police Officers, J
 [Data](articles/4ef42958.json)
 
 [Extended Data](ext_articles/4ef42958.ext.json)
-
----
-
-### We are ready to support the salary increase of 1700 rupees - Radha MP announces
-
-*2024-03-18 01:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/178966) · `ta`
-
-Radha MP supports a 1700 rupee salary increase. The Upcountry People's Front plans to appoint women as peace judges, with the Minister of Justice Vijayadasa Rajapaksa's approval. Women's contributions to Sri Lanka's economy are highlighted. The Women's Day event was held in Irakalai, chaired by Velusamy Radhakrishnan, with special speakers including Mrs. Pheakam Rahman and Mrs. Begum emphasizing women's education. The Ceylon Workers Congress accepts a 1700 rupee salary increase, aiming for 2000. The Upcountry People's Front is taking steps to appoint women as magistrates.
-
-🟩
-
-The Upcountry People's Front is taking steps to appoint women as peace judges in the future. Because we consider it a honor that gives them. We have discussed this with the Minister of Justice Vijayadasa Rajapaksa. The Minister has also accepted it.
-
-It is a matter of concern that our women have been contributing to the economic growth of Sri Lanka for the past 200 years.
-
-The Women's Day event of the Upcountry People's Front was held on Sunday (17) at Gemini Hall in Irakalai. The event was chaired by Velusamy Radhakrishnan, leader of the Upcountry People's Front and Nuwara Eliya District Parliamentarian, and the party's leaders including Sankaran Vijayasandran, the party's secretary and professor Sankaran Vijayasandran.
-
-The event was organized by the Women's Organization of the Upcountry People's Front under the meaning of the hill country to change the International Women's Day.
-
-Senior Lecturer of the Southeastern University Mrs. Pheakam Rahman was the special speaker on Women's Day.
-
-...
-
-[Data](articles/4ad43031.json)
-
-[Extended Data](ext_articles/4ad43031.ext.json)
-
----
-
-### The protests against the release of those arrested during the worship of the Shiva Temple at the Vedukkunni Hill in Tirumala
-
-*2024-03-18 00:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/178965) · `ta`
-
-Protests in Trincomalee demand release of those arrested during Shiva Temple worship at Vedukkunni Hill. Activists criticize the release, asserting it's a violation of the right to worship. Agathiyar Adinam condemns police repression on Shivaratri day, calling for the release of temple administrators and respect for Tamil identity.
-
-🟩
-
-On the eighth day of the day, a protest march was held in front of the Sivankoili in Trincomalee on Sunday evening, demanding the release of the arrest and the arrest of the arrest during the worship of the Shivaratri Mountain Shiva Temple.
-
-Social activists have organized a controversy and condemning the release of those who were arrested during the incident at the Vedukkuni Mountain.
-
-Worship is our fundamental right of the Adi Shiva Temple, our ancestry, do not take Buddhism under the guise of archaeological archaeologies, who gave the police the right to prevent worship, immediately release the temple administrators, and the native identity of the Tamils.
-
-Agathiyar Adinam said that the repression of the incident on the sacred Shivaratri day on the Vedukkunni hill is reprehensible by the police.
-
-...
-
-[Data](articles/6a11dc9f.json)
-
-[Extended Data](ext_articles/6a11dc9f.ext.json)
-
----
-
-### Gota’s book:  “Conspiracy Theory”  or Unintended Confession?
-
-*2024-03-18 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Gotas-book-Conspiracy-Theory-or-Unintended-Confession/172-279015) · `en`
-
-This narrative underscores the importance of addressing deep-rooted  grievances and fostering inclusive governance to build trust and unity  across ethnic and religious lines.
-
-The expulsion of Gotabaya by Aragalysts was a grassroots uprising against perceived authoritarianism and oppression, challenging his leadership rather than being a racially motivated act by non-Sinhala-Buddhists, as he pathetically attempts to portray in his conspiracy theory.
-
-He began his term by taking positive steps, such as forbidding the display of his photograph in state institutions, reducing his security detail, and downsizing his motorcade from seven to three vehicles
-
-Two years after his ouster from office by a people’s movement, former President Gotabaya has attempted to defend himself by attributing his political downfall to a “conspiracy” involving foreign parties.
-
-...
-
-[Data](articles/6daff272.json)
-
-[Extended Data](ext_articles/6daff272.ext.json)
-
----
-
-### 2024-03-17 (Sunday)
-
-### Salary hike of CBSL: Can it be justified on grounds of financial performance and position?
-
-*2024-03-17 23:53:49* · [`dailyftlk`](https://www.ft.lk/columns/Salary-hike-of-CBSL-Can-it-be-justified-on-grounds-of-financial-performance-and-position/4-759585) · `en`
-
-The real bottom-line (i.e., profit or loss) of a Central Bank should be the ‘public good’ it has created
-
-Accounting profit or loss cannot be used to evaluate the performance of CBSL. Even if CBSL has been making accounting profits, such profits cannot be used as an indicator of the contribution, efficiency, and overall performance of it. Therefore, such profits, even if they exist, cannot be used to justify a salary hike based on performance
-
-The salary hike of the Central Bank of Sri Lanka (CBSL) has been questioned and challenged on several grounds including constitutional, legal, economic, financial, and ethics.
-
-...
-
-[Data](articles/7f001dde.json)
-
-[Extended Data](ext_articles/7f001dde.ext.json)
-
----
-
-### Demystification of the black box involving money creation by C.A. Abeysinghe
-
-*2024-03-17 23:36:21* · [`dailyftlk`](https://www.ft.lk/columns/Demystification-of-the-black-box-involving-money-creation-by-C-A-Abeysinghe/4-759583) · `en`
-
-A demand deposit which the Central Bank maintains for a commercial bank in its books – another monetary liability – is paid back on demand when the bank concerned makes a written request to the Central Bank. The Central Bank may pay it by issuing a currency note – in which case the currency liability of the bank will increase – or by debiting that bank’s account and crediting another bank’s account. The Central Bank creates this reserve money just by making book entries and supplies to commercial banks as ‘seed money’ to facilitate them to create further money in multiple terms. Abeysinghe has described this process in lucid terms in the book
-
-...
-
-[Data](articles/d4da838e.json)
-
-[Extended Data](ext_articles/d4da838e.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 05:18:03**
+As of **2024-03-19 05:37:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,173
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,691 (100.0%) of 13,693 articles have been extended.
+13,693 (100.0%) of 13,693 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Since the incumbent President Ranil Wickremesinghe is holding office “only for
 
 [Data](articles/e4091978.json)
 
+[Extended Data](ext_articles/e4091978.ext.json)
+
 ---
 
 ### African debt crisis and lessons for Lanka
@@ -61,6 +63,8 @@ The IMF team in all their pomp are again visiting Sri Lanka. Their tutelage cont
 ...
 
 [Data](articles/2509bce6.json)
+
+[Extended Data](ext_articles/2509bce6.ext.json)
 
 ---
 

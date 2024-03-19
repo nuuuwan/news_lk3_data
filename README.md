@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 17:34:44**
+As of **2024-03-19 17:53:47**
 
 ## Newspaper Stats
 
-*Scraped **13,869** Articles*
+*Scraped **13,876** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 727
 economynextcom | 735
 islandlk | 761
-adalk | 1,197
+adalk | 1,198
 adaderanalk | 1,666
-tamilmirrorlk | 1,682
-virakesarilk | 1,937
+tamilmirrorlk | 1,687
+virakesarilk | 1,938
 dailymirrorlk | 2,118
 adaderanasinhalalk | 2,211
 
@@ -26,41 +26,65 @@ adaderanasinhalalk | 2,211
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,866 (100.0%) of 13,869 articles have been extended.
+13,869 (99.9%) of 13,876 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### කාර්මික දෝෂයක් හේතුවෙන් ශ්‍රීලන්කන් යානයක් යළි ගොඩබස්වයි
+### SriLankan is back on a technical fault
 
 *2024-03-19 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194695) · `si`
 
-ශ්‍රීලන්කන් ගුවන් සේවයට අයත් යානයක් කාර්මික දෝෂයක් හේතුවෙන් යළි ගොඩබැස්වීමට කටයුතු කර තිබේ.
+SriLankan Airlines experienced a technical fault in Bangalore, India, causing a 40-minute flight to land at Katunayake airport. Passengers were advised to proceed to their destinations.
 
-මෙලෙස කාර්මික දෝෂයකට ලක්ව ඇත්තේ අද (19) අලුයම ඉන්දියාවේ බැංගලෝර් බලා ගමන් ආරම්භ කළ ගුවන් යානයකි.
+🟩
 
-ගුවන්ගතවී මිනිත්තු 40කට ආසන්න කාලයක් පියාසර කළ යානයක් නැවත මෙලෙස කටුනායක ගුවන්තොටුපොළ වෙත ගොඩබැස්වීමට කටයුතු කර ඇත.
+A SriLankan Airlines airlines has taken steps to be ruled by a technical fault.
 
-එහි ගමන් කළ ගුවන් මගීන් අනතුරුව වෙනත් ගුවන් යානා මගින් ගමනාන්තය වෙත පිටත්කර යැවීමට පියවර ගෙන තිබුණි
+The industrial fault has been subjected to Indian Bangalore in India this morning.
+
+A plane flying for nearly 40 minutes of flight has been landed before the Katunayake airport again.
+
+After passengers who followed the passengers, the steps had been taken to depart to the destination
 
 ◼️
 
 [Data](articles/180bc39b.json)
 
+[Extended Data](ext_articles/180bc39b.ext.json)
+
 ---
 
-### කෝටි 10ක රන් භාණ්ඩ ගුවන්තොටෙන් හමුවෙයි
+### 10 billion gold items from airport
 
 *2024-03-19 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194696) · `si`
 
-අද (19) උදෑසන ඩුබායි සිට කටුනායක ගුවන්තොටුපොළ හරහා මෙරටට පැමිණි ගුවන් මගීන් දෙදෙනෙකු සතුව තිබී ස්වර්ණාභරණ කිලෝ 5ක් පමණ හමුවී තිබේ.
+"10 billion gold items, including 5 kg jewelry, discovered at Dubai airport, found by Sri Lanka Customs at Green Channel Terminal."
 
-ශ්‍රී ලංකා රේගුව පැවසුවේ එම පුද්ගලයින් දෙදෙනාව ග්‍රීන් චැනල් පර්යන්තයේදී හඳුනාගෙන පසුව ඔවුන්ව පරීක්ෂා කර එම රන් භාණ්ඩ සොයාගත් බවය.
+🟩
+
+About 5 kg of jewelery has been found in Dubai from Dubai, Dubai from Dubai to Katunayake airport.
+
+The Sri Lanka Customs said that the two persons were diagnosed at the Green Channel Termin and later discovered the gold items.
 
 ◼️
 
 [Data](articles/aa751ada.json)
+
+[Extended Data](ext_articles/aa751ada.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-03-19 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179152) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (மார்ச் 19) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 299.2940 ஆகவும் விற்பனை விலை ரூபா 308.9065 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/7dcb53b7.json)
 
 ---
 
@@ -83,6 +107,18 @@ The Commissioner said that the Indian Government has designated Sri Lanka as the
 [Data](articles/71394166.json)
 
 [Extended Data](ext_articles/71394166.ext.json)
+
+---
+
+### மரிக்காரும் விலகிவிட்டார்
+
+*2024-03-19 16:55:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரிக்காரும்-விலகிவிட்டார்/175-334893) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின்  பாராளுமன்ற உறுப்பினர் எஸ்.எம்.மரிக்கார் பொது நிறுவனங்கள் தொடர்பான பாராளுமன்ற  (கோப்) குழுவின் உறுப்புரிமையில் இருந்து விலகியுள்ளார்.
+
+◼️
+
+[Data](articles/4b29b8c5.json)
 
 ---
 
@@ -123,6 +159,22 @@ In order to help maintain the nutritional level of the identified low-income ear
 [Data](articles/531ca9a1.json)
 
 [Extended Data](ext_articles/531ca9a1.ext.json)
+
+---
+
+### ரூ.10 கோடி  பெறுமதியான   தங்க நகைகள் சிக்கின
+
+*2024-03-19 16:47:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-10-கோடி-பெறுமதியான-தங்க-நகைகள்-சிக்கின/175-334892) · `ta`
+
+கட்டுநாயக்க விமான நிலையத்தில் 10 கோடி ரூபாவிற்கும் அதிகமான பெறுமதியான நகைகளுடன் டுபாயிலிருந்து வந்த இரு பயணிகளை இலங்கை சுங்க கண்காணிப்பு பிரிவினர் செவ்வாய்க்கிழமை (19) கைது செய்துள்ளனர் என  சுங்க ஊடகப் பேச்சாளரான சிரேஷ்ட சுங்க பணிப்பாளர்  சிவலி அருங்கொட தெரிவித்தார்.
+
+மதுபான போத்தல்களை அகற்றி வெளிநாட்டு மதுபான போத்தல்கள் போன்று தோற்றமளிக்கும் வகையில் பெட்டிகளில் பொதியிட்டு விமான நிலையத்திற்கு வெளியே எடுத்துச் செல்ல முற்பட்ட போதே குறித்த நகைகள் கைப்பற்றப்பட்டதாக அருங்கொட தெரிவித்தார்.
+
+இரண்டு பயணிகளும் அம்பலாங்கொடை மற்றும் யாழ்ப்பாணம் பிரதேசங்களை வசிப்பவர்கள் என்றும் தெரிவித்த அருங்கொட,மேலதிக விசாரணைகள் முன்னெடுக்கப்படுகின்றன என்றார்.
+
+◼️
+
+[Data](articles/03f355e6.json)
 
 ---
 
@@ -698,6 +750,24 @@ The plantation people have called for the Ceylon Electricity Board's regional te
 
 ---
 
+### தீயை பார்த்தவர் மயங்கிவிழுந்து மரணம்
+
+*2024-03-19 15:16:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தீயை-பார்த்தவர்-மயங்கிவிழுந்து-மரணம்/76-334889) · `ta`
+
+பூண்டுலோயா பொலிஸ் பிரிவுக்கு உட்பட்ட சீன் தோட்ட மேற் பிரிவில் அதிர்ச்சிக்கு உள்ளாகி தரையில் விழுந்த நபர் ஒருவர் உயிரிழந்துள்ளார்.
+
+தான் வசிக்கும் இலக்கம் நான்கு தொடர் குடியிருப்பு வீட்டு பகுதியில் உள்ள மின் கம்பத்தில் திடீரென மின் இணைப்பு வயர்கள் தீப்பிடித்து எரிவதை பார்த்து அதிர்ச்சி அடைந்த நபர் திடீரென தரையில் வீழ்ந்து உயிரிழந்ததாக விசாரணையில் தெரியவந்துள்ளது.
+
+ஞாயிற்றுக்கிழமை (17) மாலை இடம்பெற்ற இந்த சம்பவத்தில் சுப்பையா சண்முகம் (வயது 58) என்பவர் உயிரிழ்ழுள்ளதாக விசாரணைகளை மேற்கொண்டு வரும் பூண்டுலோயா பொலிஸார் தெரிவித்தனர்.
+
+சீன் மேல் பிரிவு தோட்டத்தில் மின் இணைப்பு வயர்கள் அடிக்கடி தீப்பிடிப்பதாக தெரிவிக்கும் தோட்ட மக்கள் இத் தோட்டத்தில் தொடர் குடியிருப்புகள் அருகில் காணப்படும் மின் கம்பங்களில் மின் கசிவுகள் மற்றும் இணைப்பு வயர்கள் தொடர்பில் இலங்கை மின்சார சபை பிராந்திய தொழிநுட்ப அதிகாரிகள் பார்வையிட்டு சீர்த்திருத்த நடவடிக்கை எடுக்க வேண்டுமென மக்கள் கோரிக்கை விடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/e4b27dd1.json)
+
+---
+
 ### Dayasiri also resigns from COPE
 
 *2024-03-19 15:01:06* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරිත්-කෝප්-කමිටුවෙන්-ඉවත්වෙයි/11-408703) · `si`
@@ -713,6 +783,20 @@ Speaker Mahinda Yapa Abeywardena has sent the letter to resign from the Member o
 [Data](articles/96d1c563.json)
 
 [Extended Data](ext_articles/96d1c563.ext.json)
+
+---
+
+### O/L பரீட்சை நேரசூசி வெளியானது
+
+*2024-03-19 15:01:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சை-நேரசூசி-வெளியானது/175-334888) · `ta`
+
+2024 ஆம் ஆண்டுக்கான க.பொ.த சாதாரண தர பரீட்சை மே மற்றும் ஜூன் மாதங்களில் நடைபெறும் என அறிவிப்பட்டிருந்தது.
+
+இந்த நிலையில், தற்போது குறித்த பரீட்சைக்கான நேர அட்டவணையை கல்வி அமைச்சு வெளியிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/90a81046.json)
 
 ---
 
@@ -1249,6 +1333,24 @@ The transformative change in education is expected to prepare children who leave
 [Data](articles/ce85b089.json)
 
 [Extended Data](ext_articles/ce85b089.ext.json)
+
+---
+
+### පිරිපහදුව තෙල් සංස්ථාවෙන් ගලවයි
+
+*2024-03-19 13:35:21* · [`adalk`](https://www.ada.lk/breaking_news/පිරිපහදුව-තෙල්-සංස්ථාවෙන්-ගලවයි/11-408700) · `si`
+
+ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව යටතේ පවතින සපුගස්කන්ද තෙල් පිරිපහදුව ඉන් ඉවත් කර‌ වෙනමම රාජ්‍ය ව්‍යවසායක් වශයෙන් ‌පවත්වාගෙන යාමට විදුලි බල හා බලශක්ති අමාත්‍ය කංචන විජේසෙකර මහතා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවට අනුමැතිය හිමිව තිබේ.
+
+ශ්‍රී ලංකාවේ පවතින එකම ඉනධන පිරිපහදුව වන සපුගස්කන්ද පිරිපහදුව 1969 වසරේදී ඉදිකර ඇති අතර පිරිපහදු කළ ඛණිජ තෙල් ඉල්ලුමෙන් සියයට 25ක් පමණ එමගින් සපුරයි.
+
+මෙම පිරිපහදුව යාවත්කාලීන කර තවත් වසර 25ක පමණ කාලයක් ක්‍රියාත්මක කිරීම වෙනුවෙන් සුදුසු ආයෝජනයක් කිරීම රජය විසින් හඳුනාගෙන තිබේ.
+
+එම දේශීය හා විදේශීය ආයෝජනයන් පුද්ගලික අංශයෙන් ලබා ගත හැකි වන පරිදි මෙසේ සපුගස්කන්ද පිරිපහදුව රජය යටතේ පවතින වෙනම ව්‍යවසායක් ලෙස ස්ථාපිත කිරීමට කැබිනට් මණ්ඩලයේ අනුමැතිය ලැබී තිබේ.
+
+◼️
+
+[Data](articles/51e29d07.json)
 
 ---
 
@@ -2149,141 +2251,5 @@ Al Jazeera's other reporter Honey Mahmood said that they were arrested and tortu
 [Data](articles/ca4d09e8.json)
 
 [Extended Data](ext_articles/ca4d09e8.ext.json)
-
----
-
-### Special notification to school principals
-
-*2024-03-19 10:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-அதிபர்களுக்கு-விசேட-அறிவித்தல்/175-334874) · `ta`
-
-The Ministry of Education requests school principals to report on 2024 textbooks and uniform fabrics. These have been distributed to all state schools via regional education offices. Principals without these materials are to contact the Ministry via telephone, fax, or email.
-
-🟩
-
-The Ministry of Education has today requested all school principals to inform them of textbooks and uniform fabrics for 2024.
-
-The Ministry has announced that school textbooks and uniform fabrics have been sent to all state schools through the regional education offices of the country to distribute it to all schools.
-
-The Ministry of Education has asked the principals of schools that do not have textbooks and uniforms via the following telephone, fax or email.
-
-◼️
-
-[Data](articles/aa165b9b.json)
-
-[Extended Data](ext_articles/aa165b9b.ext.json)
-
----
-
-### Customs fade
-
-*2024-03-19 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194670) · `si`
-
-Customs officers have launched a trade union action program, affecting container clearance and potentially increasing prices of everyday goods.
-
-🟩
-
-Customs officers have launched a trade union action program today (19).
-
-Meanwhile, more than 4,000 containers have been launched due to a strike commenced by the strike yesterday.
-
-The Chairman of the Container Transport Owners Association, President Sanath Manjula said that the container clearance was completely stalked.
-
-He also said that although it was said that the release of essential foods and medicines, it also missed it.
-
-He said that if the situation continued, the import sector could be severely affected.
-
-He said that if this situation is not controlled, the prices of everyday goods can increase.
-
-◼️
-
-[Data](articles/0e93ad51.json)
-
-[Extended Data](ext_articles/0e93ad51.ext.json)
-
----
-
-### 20 special police teams deployed to crack down on underworld
-
-*2024-03-19 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98045/20-special-police-teams-deployed-to-crack-down-on-underworld) · `en`
-
-A total of 20 special police teams have been deployed across the island to crack down on the underworld in parallel to the ongoing ‘Yukthiya’ operation, says IGP Deshabandu Tennakoon.
-
-The decision was taken after taking into account the alarming rise in organized criminal activities in the Western and Southern provinces over the past few weeks.
-
-◼️
-
-[Data](articles/1dec6578.json)
-
-[Extended Data](ext_articles/1dec6578.ext.json)
-
----
-
-### 20 special police teams deployed as organized crimes see alarming rise
-
-*2024-03-19 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98045/20-special-police-teams-deployed-as-organized-crimes-see-alarming-rise) · `en`
-
-A total of 20 special police teams have been deployed across the island to crack down on the underworld activities in parallel to the ongoing ‘Yukthiya’ operation, says Inspector General of Police (IGP) Deshabandu Tennakoon.
-
-The decision was taken after taking into account the alarming rise in organized crimes in the Western and Southern provinces over the past few weeks.
-
-The police chief said each of these teams, which would be dispatched starting Tuesday (March 19), will comprise of nine personnel including one Crimes OIC, four intelligence officers and two Special Task Force (STF) personnel.
-
-◼️
-
-[Data](articles/cc20055c.json)
-
-[Extended Data](ext_articles/cc20055c.ext.json)
-
----
-
-### "Purple Monkeys are Risk"
-
-*2024-03-19 10:45:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊதா-முகக்-குரங்குகள்-அழியும்-அபாயம்/175-334871) · `ta`
-
-"Western purple-faced langurs face threats from deforestation, accidents, and poaching, making them vulnerable. Protected under FFPO and listed as an internationally dangerous animal by IUCN."
-
-🟩
-
-A primary and ecological expert said that Western purple -faced lanters, also known as the purple -faced leaf monkey, have been forced to get caught up in dogs, people and vehicle accidents due to deforestation in the city surroundings.
-
-A recent post on social media revealed that three purple faces were shot dead near the Talangama Lake and that two animals were injured.
-
-Specialist Professor Wolfkang Titus spoke to the Daily Mirror, "The purple -face Langur trees are living in the trees. He said that the removal of the trees would only come to the ground when their paths were blocked.
-
-It is against this backdrop that people in urban areas now feel purple -facing leankers as a vulnerable insect.
-
-Western purple -faced Langur is a species protected under Section 30 of the Plants and Plants Protection Ordinance (FFPO).It is an internationally dangerous animal by IUCN.
-
-◼️
-
-[Data](articles/3e1447ae.json)
-
-[Extended Data](ext_articles/3e1447ae.ext.json)
-
----
-
-### "Purple Monkeys are in ruins"
-
-*2024-03-19 10:45:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊதா-முகக்-குரங்குகள்-அழியும்-தறுவாயில்-உள்ளன/175-334871) · `ta`
-
-"Western purple-faced langurs face threats from deforestation, dog attacks, and vehicle accidents, leading to deaths and injuries. Despite being protected, they're now seen as pests in urban areas."
-
-🟩
-
-A primary and ecological expert said that Western purple -faced lanters, also known as the purple -faced leaf monkey, have been forced to get caught up in dogs, people and vehicle accidents due to deforestation in the city surroundings.
-
-A recent post on social media revealed that three purple faces were shot dead near the Talangama Lake and that two animals were injured.
-
-Specialist Professor Wolfgang Titus spoke to the Daily Mirror: "Purple -faced Langur trees are living in the trees. He said that the removal of the trees would only come to the ground when their paths were blocked.
-
-It is against this backdrop that people in urban areas now feel the purple -facing leankers as a harmful insect.
-
-Western purple -faced Langur is a species protected under Section 30 of the Plants and Plants Protection Ordinance (FFPO).It is an internationally dangerous animal by IUCN.
-
-◼️
-
-[Data](articles/88726e59.json)
-
-[Extended Data](ext_articles/88726e59.ext.json)
 
 ---

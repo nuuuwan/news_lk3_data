@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 11:17:59**
+As of **2024-03-19 11:33:35**
 
 ## Newspaper Stats
 
-*Scraped **13,764** Articles*
+*Scraped **13,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,86 +15,168 @@ newsfirstlk | 363
 economynextcom | 726
 dailyftlk | 727
 islandlk | 760
-adalk | 1,184
-adaderanalk | 1,653
+adalk | 1,186
+adaderanalk | 1,655
 tamilmirrorlk | 1,674
-virakesarilk | 1,921
-dailymirrorlk | 2,100
+virakesarilk | 1,922
+dailymirrorlk | 2,101
 adaderanasinhalalk | 2,188
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,758 (100.0%) of 13,764 articles have been extended.
+13,764 (100.0%) of 13,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### வெடுக்குநாறி விவகாரம்: எட்டு பேரும் விடுதலை
+### Prepare for presidential election first: President tells Cabinet
+
+*2024-03-19 11:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98046/prepare-for-presidential-election-first-president-tells-cabinet-) · `en`
+
+President Ranil Wickremesinghe has told the Cabinet of Ministers that the Presidential Election would be held prior to the General Election, Ada Derana learns.
+
+At the Cabinet meeting held on Monday (March 18), Wickremesinghe has reportedly asked the lawmakers to get ready for the Presidential Election first.
+
+Further, it is understood that the President has instructed the Cabinet to conclude the developmental activities initiated by the government at the earliest possible in order to prepare for the polls.
+
+◼️
+
+[Data](articles/b8f41616.json)
+
+---
+
+### India grants USD 61.5 million to develop KKS Port
+
+*2024-03-19 11:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-grants-USD-61-5-million-to-develop-KKS-Port/108-279142) · `en`
+
+Colombo, March 19 (Daily Mirror) - The Indian Government has agreed to provide a grant of USD 61.5 million to fully develop the Kankesanthurai (KKS) Port.
+
+This was revealed during a recent meeting between Ports, Shipping, and Aviation Minister Nimal Siripala de Silva and Indian High Commissioner to Sri Lanka, Santosh Jha.
+
+As part of the project, a new breakwater will be constructed and the port will be dredged to a depth of 30 metres to accommodate deep-draft vessels.
+
+During the discussion, the Indian High Commissioner expressed India's commitment to enhancing regional cooperation between the two nations and pledged the fullest assistance to attract more Indian tourists to Sri Lanka. He also stated that the Indian government has designated Sri Lanka as the top travel destination for Indian tourists.
+
+...
+
+[Data](articles/d2e1bc84.json)
+
+---
+
+### Eight people released
 
 *2024-03-19 11:00:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/வெடுக்குநாறி-விவகாரம்-எட்டு-பேரும்-விடுதலை/72-334875) · `ta`
 
-மஹா சிவராத்திரி அன்று   வெடுக்குநாறிமலை ஆதிலிங்கேஸ்வரர் ஆலயத்தில் சமய அனுஷ்டானத்தில் ஈடுபட்ட போது கைதுசெய்யப்பட்ட 8 பேரும் நீதிமன்றத்தால் விடுதலைச் செய்யப்பட்டுள்ளனர் எனத் தெரிவித்த பாராளுமன்ற உறுப்பினர் சார்ள்ஸ் நிர்மலநாதன், தொல்பொருள் திணைக்கள அதிகாரிகள் வேண்டுமென்றே வழக்குத் தாக்கல் செய்துள்ளனர் என்றார்.
+Eight people, including Parliamentarian Charles Nirmalanathan, were released by the court at the Athilingeswarar Temple on Maha Sivaratri.
+
+🟩
+
+Parliamentarian Charles Nirmalanathan, who said that the eight arrested were released by the court at the Athilingeswarar Temple at the Attukkunnarimalai Adilingeswarar Temple on the Maha Sivaratri.
 
 ◼️
 
 [Data](articles/fcce7e9d.json)
 
+[Extended Data](ext_articles/fcce7e9d.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු මන්ත්‍රීවරුන් තේරීමේ ක්‍රමයේ වෙනසක්
+### A change in Members of Parliament
 
 *2024-03-19 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194671) · `si`
 
-2023 අංක 03 දරන මැතිවරණ වියදම් නියාමනය කිරීමේ පනතේ පරමාර්ථ සපුරාලීම සහ ප්‍රජාතන්ත්‍රවාදී මැතිවරණයක් මුළුමනින්ම සාක්ෂාත් කර ගැනීම පිණිස දැනට පවතින මැතිවරණ ක්‍රමය වෙනස් කිරීමේ අවශ්‍යතාවය හඳුනාගෙන ඇති බව රජය පවසයි.
+The government aims to reform the electoral system through the Regulation of the Election Test Act No. 3 of 2023, with a Cabinet Sub-Committee tasked to recommend changes. The proposal involves electing 160 MPs for a national and provincial electoral system, with voter turnout being the preferred choice. The Justice and Constitutional Reforms Cabinet has approved the proposal for legal revision.
 
-ඒ සඳහා පාර්ලිමේන්තුව නියෝජනය කරන සියලුම පක්ෂ නායකයින්ගේ සහ වෙනත් අදාළ පාර්ශ්වයන්ගේ අදහස් විමසීමෙන් අනතුරුව නිර්දේශ සහිත වාර්තාවක් අමාත්‍ය මණ්ඩලය වෙත ඉදිරිපත් කිරීම පිණිස අමාත්‍ය මණ්ඩල අනුකමිටුවක් පත්කර තිබේ.
+🟩
 
-එම නව යෝජනාව අනුව මන්ත්‍රීවරු 160 දෙනෙක් අදාළ මැතිවරණ කොට්ඨාසයේ ඡන්ද දායකයින් විසින් ඝෘජුවම තෝරා පත්කර ගැනීමටත් ඉතිරි මන්ත්‍රීවරුන් 65 දෙනා සමානුපාතික ඡන්ද ක්‍රමය අනුව ජාතික සහ පළාත් මට්ටමින් තෝරා ගැනීමටත් එකී කමිටුව වෙත අදහස් ඉදිරිපත් කර ඇති බවත් බහුතරයක් ඒ සඳහා එකඟතාව පළකර ඇති බවත් සඳහන් ය.
+The government says the need to change the existing electoral system has been identified as the objectives of the Regulation of the Election Test Act No. 3 of the 33 of 2023 and to achieve a democratic election.
 
-...
+A Cabinet Sub-Committee has been appointed to submit a report with the recommendations with all party leaders and other relevant parties representing Parliament.
+
+According to the new proposal, 160 MPs have to elect a national and provincial electoral system, and the majority has agreed to choose the voter turnover.
+
+The proposal made by the Cabinet of Justice and Constitutional Reforms had been approved by the Cabinet of Justice and Constitutional Reforms to advise the necessary legal assistance to revise the electoral system.
+
+◼️
 
 [Data](articles/fbb16512.json)
 
+[Extended Data](ext_articles/fbb16512.ext.json)
+
 ---
 
-### பாடசாலை அதிபர்களுக்கு விசேட அறிவித்தல்
+### காசாவில் அல்ஜசீரா ஊடகவியலாளரை கைதுசெய்து சித்திரவதை செய்த இஸ்ரேலிய படையினர் - தொடர்கி;ன்றது  ஊடகவியலாளர்களை இலக்குவைக்கும் இஸ்ரேலின் நடவடிக்கை
+
+*2024-03-19 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179096) · `ta`
+
+காசாவில் அல்ஜசீரா ஊடகவியலாளரை கைதுசெய்த இஸ்ரேலிய படையினர் 12 மணிநேரத்தின் பின்னர் அவரை விடுதலை செய்துள்ளனர்.
+
+காசாவின் அல்ஸிபா மருத்துவமனையில் ஊடகவியலாளரை கைதுசெய்த இஸ்ரேலிய  படையினர் அவரை கடுமையாக தாக்கியுள்ளனர்.
+
+அல்ஸிபா மருத்துவமனையை இலக்குவைத்து நான்காவது தடவையாக இஸ்ரேல் மேற்கொண்டுள்ள நடவடிக்கை குறித்த செய்திசேகரிப்பதற்காக சக ஊடகவியலாளர்களுடன் அல்ஜசீராவின் அல்கூலும் மருத்துமவனைக்கு சென்றிருந்தார்.
+
+அல்ஜசீராவின் செய்தியாளரை இஸ்ரேலிய படையி;னர் இழுத்துச்சென்றனர் அவரது ஊடக உபகரணங்களை அழித்தனர் என சம்பவத்தை நேரில் பார்த்தவர்கள் தெரிவித்துள்ளனர்.
+
+ஊடகவியலாளர்களிற்கான அறையில் குழுமிய ஏனைய ஊடகவியலாளர்களையும் கைதுசெய்தனர் என விடுதலை செய்யப்பட்ட பின்னர் அல்ஜசீரா ஊடகவியலாளர் தெரிவித்துள்ளார்.
+
+ஊடகவியலாளர்களின் கண்கள் கைகளை கட்டிய இஸ்ரேலிய படையினர் அவர்களை நிர்வாணமாக்கி தாக்கினார்கள் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/ca4d09e8.json)
+
+---
+
+### Special notification to school principals
 
 *2024-03-19 10:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-அதிபர்களுக்கு-விசேட-அறிவித்தல்/175-334874) · `ta`
 
-2024 ஆம் ஆண்டிற்கான பாடப் புத்தகங்கள் மற்றும் சீருடைத் துணிகள் இதுவரை தங்கள் பாடசாலைகளுக்கு கிடைக்கவில்லையெனில் தமக்கு அறிவிக்குமாறு அனைத்து பாடசாலை அதிபர்களிடமும் கல்வி அமைச்சு இன்று கோரியுள்ளது.
+The Ministry of Education requests school principals to report on 2024 textbooks and uniform fabrics. These have been distributed to all state schools via regional education offices. Principals without these materials are to contact the Ministry via telephone, fax, or email.
 
-அனைத்துப் பாடசாலைகளுக்கும் விநியோகிப்பதற்காக பாடசாலை பாடப் புத்தகங்கள் மற்றும் சீருடைத் துணிகள் நாட்டிலுள்ள பிரதேசக் கல்வி அலுவலகங்கள் ஊடாக அனைத்து அரச பாடசாலைகளுக்கும் அனுப்பி வைக்கப்பட்டுள்ளதாக அமைச்சு அறிவித்தல் விடுத்துள்ளது.
+🟩
 
-பாடப் புத்தகங்கள் மற்றும் சீருடைகள் கிடைக்கப்பெறாத பாடசாலைகளின் அதிபர்களை பின்வரும் தொலைபேசி, தொலைநகல் அல்லது மின்னஞ்சல் ஊடாக உடனடியாக அறிவிக்குமாறு கல்வி அமைச்சு கேட்டுக் கொண்டுள்ளது.
+The Ministry of Education has today requested all school principals to inform them of textbooks and uniform fabrics for 2024.
+
+The Ministry has announced that school textbooks and uniform fabrics have been sent to all state schools through the regional education offices of the country to distribute it to all schools.
+
+The Ministry of Education has asked the principals of schools that do not have textbooks and uniforms via the following telephone, fax or email.
 
 ◼️
 
 [Data](articles/aa165b9b.json)
 
+[Extended Data](ext_articles/aa165b9b.ext.json)
+
 ---
 
-### රේගුව අකුරට වැඩ
+### Customs fade
 
 *2024-03-19 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194670) · `si`
 
-රේගු නිලධාරීන් අද (19) උදෑසන සිට අකුරට වැඩකිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගයක් ආරම්භ කර ඇති බව වාර්තා වේ.
+Customs officers have launched a trade union action program, affecting container clearance and potentially increasing prices of everyday goods.
 
-මේ අතර, පසුගිය සිකුරාදා ආරම්භ කළ වැඩවර්ජනය හේතුවෙන් මේ වනවිට බහාලුම් 4,000කට අධික සංඛ්‍යාවක් ගොඩගැසී ඇතැයි වාර්තා වේ.
+🟩
 
-බහාලුම් ප්‍රවාහන හිමිකරුවන්ගේ සංගමයේ, සභාපති සනත් මංජුල මහතා පවසා සිටියේ, මේ වනවිට බහාලුම් නිෂ්කාශනය සම්පූර්ණයෙන්ම ඇන සිට ඇති බවය.
+Customs officers have launched a trade union action program today (19).
 
-අත්‍යවශ්‍ය ආහාර හා ඖෂධ නිදහස් කරන බවට පැවසුවද එයද රේගු නිලධාරීන් විසින් එය ද මඟ හැර ඇතැයි ඒ මහතා පවසා සිටියේය.
+Meanwhile, more than 4,000 containers have been launched due to a strike commenced by the strike yesterday.
 
-මෙම තත්ත්වය දිගින් දිගටම පැවතුනහොත් ආනයන කේෂ්ත්‍රයට දැඩි බලපෑම් එල්ල විය හැකි බව ද ඒ මහතා පැවසිය.
+The Chairman of the Container Transport Owners Association, President Sanath Manjula said that the container clearance was completely stalked.
 
-මෙම තත්ත්වය පාලනය නොකළහොත් එදිනෙදා භාණ්ඩ මිල ගණන් පවා ඉහළ යාහැකි බව ඒ මහතා කියා සිටියේය.
+He also said that although it was said that the release of essential foods and medicines, it also missed it.
+
+He said that if the situation continued, the import sector could be severely affected.
+
+He said that if this situation is not controlled, the prices of everyday goods can increase.
 
 ◼️
 
 [Data](articles/0e93ad51.json)
+
+[Extended Data](ext_articles/0e93ad51.ext.json)
 
 ---
 
@@ -111,6 +193,22 @@ The decision was taken after taking into account the alarming rise in organized 
 [Data](articles/1dec6578.json)
 
 [Extended Data](ext_articles/1dec6578.ext.json)
+
+---
+
+### 20 special police teams deployed as organized crimes see alarming rise
+
+*2024-03-19 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98045/20-special-police-teams-deployed-as-organized-crimes-see-alarming-rise) · `en`
+
+A total of 20 special police teams have been deployed across the island to crack down on the underworld activities in parallel to the ongoing ‘Yukthiya’ operation, says Inspector General of Police (IGP) Deshabandu Tennakoon.
+
+The decision was taken after taking into account the alarming rise in organized crimes in the Western and Southern provinces over the past few weeks.
+
+The police chief said each of these teams, which would be dispatched starting Tuesday (March 19), will comprise nine personnel including one Crimes Division OIC, four intelligence officers and two Special Task Force (STF) officers.
+
+◼️
+
+[Data](articles/cc20055c.json)
 
 ---
 
@@ -137,6 +235,24 @@ Western purple -faced Langur is a species protected under Section 30 of the Plan
 [Data](articles/88726e59.json)
 
 [Extended Data](ext_articles/88726e59.ext.json)
+
+---
+
+### ගෝඨාගේ උපදේශකයෙක් හෙරොයින් සමග අත්අඩංගුවට
+
+*2024-03-19 10:42:51* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාගේ-උපදේශකයෙක්-හෙරොයින්-සමග-අත්අඩංගුවට/11-408691) · `si`
+
+ශ්‍රී ලංකා යුද හමුදාවේ කොමන්ඩෝ බළකායේ ලාන්ස් කෝප්‍රල්වරයෙකු වශයෙන් කටයුතු කළ හිටපු සොල්දාදුවෙකු, හෙරොයින් මත්කුඩු ග්‍රෑම් දෙකක් සමග සැකපිට අත්අඩංගුවට ගත් බව මහනුවර කොට්ඨාස අපරාධ විමර්ශන ඒකකය කියයි.
+
+හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාගේ ශාරීරික ව්‍යායාම උපදේශකයෙකු වශයෙන් කටයුතු කරමින් හිටපු ජනාධිපතිවරයා සමග සමීපව සිට ඇති මෙම සැකකරු, ජනාධිපතිවරයා ධුරයෙන් ඉවත් වීමෙන් පසු යුද හමුදාවෙන් ඉවත් වී ඇති බවද පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+යහලතන්න, නෙල්ලිගල ප්‍රදේශයේ පදිංචිකරුවෙකු වන මෙම සැකකරු 35 හැවිරිදි දෙදරු පියෙකි. අදාළ සැකකරු හෙරොයින් මත්කුඩු ජාවාරම් කරන බවට පොලීසියට ලද තොරතුරකට අනුව ඔහුගේ නිවස පරීක්ෂා කිරීමේදී හෙරොයින් මත්කුඩු සමග සැකකරු අත්අඩංගුවට ගත් බව පොලීසිය කියයි.
+
+සැකකරු යුද හමුදාවෙන් ඉවත්වීමෙන් පසු දෙමටගොඩ ප්‍රදේශයේ පෞද්ගලික ආයතනයක සේවය කරමින් සිටින අතරතුර සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයන්ගේ ඇසුරට පත්වීමෙන් පසු ඔහු හෙරොයින් මත්කුඩු ජාවාරමට යොමු වී ඇති අතර, හෙරොයින් මත්කුඩු භාවිතයටද ඇබ්බැහි වී ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+...
+
+[Data](articles/3e125a96.json)
 
 ---
 
@@ -186,6 +302,8 @@ The devil comet is heading for its next perihelion passage, when it will reach i
 
 [Data](articles/5afaff85.json)
 
+[Extended Data](ext_articles/5afaff85.ext.json)
+
 ---
 
 ### Attan Sri Manikkapillai Devasthanam
@@ -223,6 +341,20 @@ In this case, what is the point of the upcountry political parties. The Tamil Pr
 [Data](articles/afceff00.json)
 
 [Extended Data](ext_articles/afceff00.ext.json)
+
+---
+
+### කෙහෙළිය උසාවි ගෙනා වෑන් රථය ගැන විමර්ශනයක්
+
+*2024-03-19 10:29:48* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-උසාවි-ගෙනා-වෑන්-රථය-ගැන-විමර්ශනයක්/11-408690) · `si`
+
+රිමාන්ඩ් භාරයට පත් කර සිටින හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා උසාවියට ගෙන ඒමට යොදා ගෙන ඇත්තේ බන්ධනාගාර රැඳවියන්ගේ දරුවන් ප්‍රවාහනය කිරීමට යොදා ගැනීම සඳහා එක්සත් ජාතීන්ගේ ළමා අරමුදල පරිත්‍යාග කර ඇති කේ.ඩී.එච්. වර්ගයේ සුඛෝපභෝගී වෑන් රථයෙන් බවට ලැබුණු පැමිණිල්ලක් සම්බන්ධයෙන් රහස් පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
+
+ළමයින් හැර රැඳවියන් ප්‍රවාහනය කිරීමට කිසිසේත් මෙම වෑන් රථය යොදා නොගත යුතු බවට වෑන් රථය බන්ධනාගාරයට පරිත්‍යාග කිරීමේදී එක්සත් ජාතීන්ගේ ළමා අරමුදල පනවා තිබූ කොන්දේසියද උල්ලංඝනය කරමින් බන්ධනාගාර කොමසාරිස් ජනරාල්වරයාගේ වුවමනාව මත කෙහෙළිය රඹුක්වැල්ල මහතා උසාවියට ගෙන ඒමට මෙම වෑන් රථය යොදාගෙන ඇති බවට ලැබුණු පැමිණිල්ලකට අනුව රහස් පොලීසිය මෙම විමර්ශන ආරම්භ කර ඇත.
+
+...
+
+[Data](articles/25553239.json)
 
 ---
 
@@ -593,6 +725,8 @@ The Education Ministry requests the principals of any schools that have not rece
 ◼️
 
 [Data](articles/83c64ba8.json)
+
+[Extended Data](ext_articles/83c64ba8.ext.json)
 
 ---
 
@@ -2005,135 +2139,5 @@ Exploring 2024 SLIM-Kantar People’s Awards research methodology – “Know Wh
 [Data](articles/cc1b9702.json)
 
 [Extended Data](ext_articles/cc1b9702.ext.json)
-
----
-
-### Bourse’s fortunes pick-up as turnover remains in Rs. 1 billion region
-
-*2024-03-18 22:02:00* · [`islandlk`](http://island.lk/bourses-fortunes-pick-up-as-turnover-remains-in-rs-1-billion-region/) · `en`
-
-Both CSE indices moved up yesterday as the share market picked in mid-day. The All Share Price Index went up by 15.86 points while S and P SL20 rose by 9.1 points. Turnover stood at Rs 1.3 billion with three crossings.
-
-Those crossings were reported in Hayleys Fabrics, which crossed 550,000 shares to the tune of Rs 25.3 million; its shares traded at Rs 40, HNB 150,000 shares crossed for Rs 25.2 million; its shares traded at Rs 158 and Lankem Developments 1.2 million shares crossed for Rs 23.4 million; its shares sold at Rs 19.50.
-
-...
-
-[Data](articles/1da4e75a.json)
-
-[Extended Data](ext_articles/1da4e75a.ext.json)
-
----
-
-### Emergency notice to Sri Lankan fishermen
-
-*2024-03-18 21:57:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மீனவர்களுக்கு-அவசர-அறிவிப்பு/175-334843) · `ta`
-
-Sri Lankan fishermen advised not to fish in Arabian Sea due to Iranian boat abduction by Somalian group.
-
-🟩
-
-The Fisheries and Aquatic Resources Department has informed Sri Lankan fishermen not to engage in fishing activities in the Arabian Sea following the abduction of an Iranian fishing boat by a Somalian armed group in the Arabian Sea last Saturday.
-
-The Director General of the Fisheries and Aquatic Resources Department, Susantha Kahawatta, was present at a press conference.
-
-He added that a group of pirates have received information about the Iranian ship.. Remble
-
-◼️
-
-[Data](articles/96b56538.json)
-
-[Extended Data](ext_articles/96b56538.ext.json)
-
----
-
-### Somali pirate threat: Sri Lanka’s fishermen warned not to venture into Arabian Sea
-
-*2024-03-18 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98037/somali-pirate-threat-sri-lankas-fishermen-warned-not-to-venture-into-arabian-sea) · `en`
-
-The Department of Fisheries and Aquatic Resources has warned the fishing community in Sri Lanka not to venture into the Arabian Sea for poaching activities during these days.
-
-This announcement comes as a result of reports of an incident of an armed Somali group hijacking an Iranian fishing boat in the Arabian Sea on Saturday (16).
-
-Joining a press conference held at the Department of Fisheries and Aquatic Resources on Monday (18), its Director General Susantha Kahawatta said that information has been received that a group of Somali pirates remain in the relevant sea area with an Iranian vessel.
-
-◼️
-
-[Data](articles/1db4384a.json)
-
-[Extended Data](ext_articles/1db4384a.ext.json)
-
----
-
-### Janit Liyanage's virginity was fallen;Bangladesh beat Sri Lanka by 4 wickets
-
-*2024-03-18 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179071) · `ta`
-
-Bangladesh won the 3-match ODI series 2-1 against Sri Lanka, with Rishad Hossain's half-century and 4 wickets crucial. Sri Lanka's Janit Liyanage scored a century, but Bangladesh's Dhavasid Hasan hit a personal best 94 runs.
-
-🟩
-
-Rishad Hossain, who scored a half -century in the 3rd and last international ODI match against Sri Lanka, scored a half -century in the international cricket cricket match and Rishad Hossain, who played a role in the central queue, took 4 wickets for Bangladesh.
-
-Bangladesh won the 3 -match series by 2 - 1 in the Sahur Ahmad Chaudhary Stadium on Monday (18).
-
-This is the second series victory in Bangladesh against Sri Lanka in international ODI history. In the 2021 series in Mirpur, Bangladesh won the 2 - 1 game on the basis of 2 - 1.
-
-Although Janith Liyanage, who played on behalf of Sri Lanka, scored a virgin, it was wasted by Tansid Hasan and Rishad Hossain.
-
-Soumya Sarkar was shocked and shocked when he retired and he was replaced by Dhansit Ahmad.
-
-Five players, including Chaumya Sarkar in Bangladesh team, have been hit in today's match. Three of them were subjected to the last 3 overs.
-
-...
-
-[Data](articles/501eb7a2.json)
-
-[Extended Data](ext_articles/501eb7a2.ext.json)
-
----
-
-### A young monk is even ours
-
-*2024-03-18 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194655) · `si`
-
-A young monk, Wanathavilluwa, from Tabbowa reservoir, drowned while returning to Sri Dharmaraja Viharaya in Kogugala, Habaraduwa. Heeloya Sangananda, a student at Rajarata Bhikku University, is involved. A post-mortem is scheduled for tomorrow.
-
-🟩
-
-A young monk who drowned in Tabbowa reservoir.
-
-We have been revealed that Heeloya Sangananda, who was studying at the Rajarata Bhikku University.
-
-The monk, a monk called Wanathavilluwa, is a Buddhist monk of Tabbowa reservoir while returning to the Sri Dharmaraja Viharaya in Kogugala, Habaraduwa.
-
-The post mortem will be conducted tomorrow (19) regarding the remains of monk.
-
-◼️
-
-[Data](articles/667dfcd9.json)
-
-[Extended Data](ext_articles/667dfcd9.ext.json)
-
----
-
-### The High Court confirmed the sentence
-
-*2024-03-18 21:34:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தண்டனையை-உறுதி-செய்தது-உயர்-நீதிமன்றம்/175-334842) · `ta`
-
-The High Court upheld the Colombo High Court's drug trafficking verdict, dismissing the accused's appeal. The suspect was arrested with 2.42 grams of heroin by the Police Narcotics Unit.
-
-🟩
-
-The High Court has upheld the Colombo High Court's verdict on drug trafficking and 2.42 grams of heroin.
-
-The order has been issued by a three -member High Court judges, dismissing an appeal filed by the accused.
-
-It is noteworthy that the suspect was arrested with 2.42 grams of heroin during a special roundup conducted by the Police Narcotics Unit (PNB).R
-
-◼️
-
-[Data](articles/20046289.json)
-
-[Extended Data](ext_articles/20046289.ext.json)
 
 ---

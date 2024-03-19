@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 18:09:16**
+As of **2024-03-19 18:20:26**
 
 ## Newspaper Stats
 
-*Scraped **13,879** Articles*
+*Scraped **13,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,148 @@ newsfirstlk | 363
 dailyftlk | 727
 economynextcom | 735
 islandlk | 761
-adalk | 1,198
-adaderanalk | 1,667
+adalk | 1,199
+adaderanalk | 1,668
 tamilmirrorlk | 1,689
-virakesarilk | 1,938
-dailymirrorlk | 2,118
+virakesarilk | 1,940
+dailymirrorlk | 2,120
 adaderanasinhalalk | 2,211
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,876 (100.0%) of 13,879 articles have been extended.
+13,879 (100.0%) of 13,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### ”200 மதுபான கடைகளைத் திறக்க அரசாங்கம் திட்டமிட்டுள்ளது”
+### சஜித் பிரேமதாசவின் கோரிக்கையை நிராகரித்த கொழும்பு மாவட்ட நீதிமன்றம்!
 
-*2024-03-19 17:54:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/200-மதுபான-கடைகளைத்-திறக்க-அரசாங்கம்-திட்டமிட்டுள்ளது/175-334895) · `ta`
+*2024-03-19 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/179159) · `ta`
 
-FL4 பிரிவின் கீழ் 200 மதுபான நிலையங்களை திறப்பதற்கான அனுமதிப்பத்திரம் வழங்க அரசாங்கம் திட்டமிட்டுள்ளதாகவும் அவற்றில் 15 அனுமதிப்பத்திரங்கள் ஏற்கனவே வழங்கப்பட்டுள்ளதாகவும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று பாராளுமன்றத்தில் குற்றம் சுமத்தியுள்ளார்.
+பீல்ட் மார்ஷல் சரத் பொன்சேகாவை  ஐக்கிய மக்கள் சக்தியில் வகிக்கும் பதவிகளிலிருந்து நீக்குவதற்கு விதிக்கப்பட்ட தடை உத்தரவை தளர்த்துமாறு  ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாச விடுத்த கோரிக்கையை கொழும்பு மாவட்ட நீதிமன்றம் செவ்வாய்க்கிழமை (19) நிராகரித்துள்ளது.
 
-200 மதுபான கடைகளுக்கு உரிமம் வழங்க முடிவு எடுக்கப்பட்டுள்ளதா, அதில் 15 மதுக்கடைகளுக்கு ஏற்கனவே உரிமம் வழங்கப்பட்டுள்ளதா என்பதை அரசு வெளியிட வேண்டும் என்று அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+இதன்படி, குறித்த தடை உத்தரவை எதிர்வரும் ஏப்ரல் மாதம் 2 ஆம் திகதி வரை நீடிக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
 
-தேர்தலை இலக்காகக் கொண்டு ஏற்கனவே ஆறு மதுபான உற்பத்தி உரிமங்கள் வழங்கப்பட்டுள்ளதாகவும் பிரேமதாச தெரிவித்தார்.
+சரத் பொன்சேகா தாக்கல் செய்த முறைப்பாட்டை பரிசீலித்த கொழும்பு மாவட்ட நீதிமன்றம் இந்த தடை உத்தரவை  முன்னர் பிறப்பித்திருந்தது.
 
-கலால் திணைக்களத்தின் புதிய ஆணையாளர் நாயகம் எம்.ஜே.குணசிறியின் அனுமதியின் கீழ் இந்த நடவடிக்கை மேற்கொள்ளப்படுவதாக அவர் கூறினார்.
+◼️
 
-அரசாங்கம் நடைமுறையில் உள்ள சட்ட கட்டமைப்பிற்கு புறம்பாக செயற்படவில்லை எனவும், சரியான முறையில் கேள்வி எழுப்பினால் முழுமையான பதில் வழங்கப்படும் எனவும் நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/bd02ef25.json)
+[Data](articles/50d5cfe4.json)
 
 ---
 
-### ”சம்பளத்தை அதிகரிக்க மத்திய வங்கிக்கு அதிகாரம் இல்லை”
+### கோப் குழுவிலிருந்து சாணக்கியன் இராசமாணிக்கம், ஹேஷா விதானகே இருவரும்  இராஜினாமா!
+
+*2024-03-19 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179158) · `ta`
+
+தமிழ்த் தேசியக் கூட்டமைப்பின்  நாடாளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம் மற்றும் ஐக்கிய மக்கள் சக்தியின்  நாடாளுமன்ற உறுப்பினர் ஹேஷா விதானகே ஆகியோரும் பொது நிறுவனங்கள் தொடர்பான குழுவிலிருந்து (கோப்) இராஜினாமா செய்துள்ளனர்.
+
+◼️
+
+[Data](articles/15878bbc.json)
+
+---
+
+### “The government plans to open 200 liquor stores”
+
+*2024-03-19 17:54:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/200-மதுபான-கடைகளைத்-திறக்க-அரசாங்கம்-திட்டமிட்டுள்ளது/175-334895) · `ta`
+
+The government plans to open 200 liquor stores, with 15 already licensed. Opposition Leader Sajith Premadasa criticizes this move, accusing the government of operating outside the legal framework. He also mentions that six liquor production licenses have been issued ahead of the election.
+
+🟩
+
+Opposition Leader Sajith Premadasa has accused the parliament today that the government is planning to grant permission to open 200 liquor stations under the FL4 section and 15 of them have already been granted.
+
+He said in Parliament that the government should issue a decision to license for 200 liquor stores and 15 of the liquor stores have already been licensed.
+
+Premadasa said six liquor production licenses have already been issued to the election.
+
+He said the move would be under the permission of the new Commissioner General of the Department of Excise MJ Gunasiri.
+
+Finance Minister Shehan Semasinghe has said that the government is not working illegally in the existing legal framework and that if a proper question is raised, the full answer will be answered.
+
+The opposition leader said the future SJB would take steps to withdraw all such illegal licenses.
+
+He said it was wrong to issue liquor licenses on the election.
+
+◼️
+
+[Data](articles/bd02ef25.json)
+
+[Extended Data](ext_articles/bd02ef25.ext.json)
+
+---
+
+### Three senior experienced in the Sri Lankan Test group;Nishan Peiris as a debutant
+
+*2024-03-19 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179083) · `ta`
+
+The Sri Lankan Test team for the 2-match series against Bangladesh includes experienced leaders Angelo Mathews, Dinesh Chandimal, and Timuth Karunaratne, debutant Nishan Peiris, and Wanindu Hasaranga. Hazaranga, with 4 Tests, is part of the squad led by Tanjaya de Silva. Nishan Madushka, with 6 matches and 444 runs, continues with Dimuth Karunaratne.
+
+🟩
+
+Former team leaders Angelo Mathews, Dinesh Chandimal and Timuth Karunaratne have been named in the Sri Lankan team for the two -match Test series against Bangladesh.
+
+Hazaranga has been given the opportunity to bowl in the Sri Lankan group, which is head of Tanjaya de Silva.
+
+Wanindu Hasaranga, who played only four Tests, played in the last Test against Bangladesh in 2021.
+
+As well as the debutant, the right -hand spinner Nishan Peiris has been named in the group. Nishan Peiris, a former player of St. Peter's College, Negombo, has taken 153 wickets in 37 matches in first -class local cricket.
+
+But it remains to be seen whether he will have a chance in the final team.
+
+Nishan Madushka will continue to play with Dimuth Karunaratne's initial pair. Nishan Madushka, who has played in 6 matches, has scored 444 runs, including a century and a half century.
+
+...
+
+[Data](articles/258cea90.json)
+
+[Extended Data](ext_articles/258cea90.ext.json)
+
+---
+
+### Fonseka’s lawsuit against SJB: Court rejects Sajith’s objections
+
+*2024-03-19 17:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fonsekas-lawsuit-against-SJB-Court-rejects-Sajiths-objections/108-279168) · `en`
+
+Colombo, March 19 (Daily Mirror) - The Colombo District Court today rejected the objections raised by Samagi Jana Balawegaya (SJB) leader Sajith Premadasa, against the enjoining order which prevented the SJB from removing Field Marshal Sarath Fonseka from his party membership and positions.
+
+Accordingly, Colombo District Court Judge Sandun Vithana further extended its enjoining order preventing the SJB from removing Field Marshal Sarath Fonseka from party membership and positions till April 2.
+
+Sarath Fonseka had obtained an enjoining order, preventing the SJB from removing him on the basis of remarks he made against offering party membership to former Army Commander Daya Ratnayake.
+
+Faiszer Musthapha PC with Shaheeda Barrie, Mehran Careem, Pulasthi Rupasinghe and Amila Perera appeared for the plaintiff, while President’s Counsel Romesh De Silva with Farman Cassim PC appeared for SJB leader Sajith Premadasa.
+
+◼️
+
+[Data](articles/bd865f70.json)
+
+---
+
+### “Central Bank has no authority to increase salary”
 
 *2024-03-19 17:48:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளத்தை-அதிகரிக்க-மத்திய-வங்கிக்கு-அதிகாரம்-இல்லை/175-334894) · `ta`
 
-அரசியலமைப்பின் பிரகாரம் பாராளுமன்றத்தின் அனுமதியின்றி ஊழியர்களின் சம்பளத்தை அதிகரிப்பதற்கு மத்திய வங்கிக்கு அதிகாரம் இல்லை எனவும் அவர்களின் சம்பளத்தை அதிகரிப்பதற்கான நடவடிக்கை தவறானது எனவும் நீதியமைச்சர் விஜயதாச ராஜபக்ச தெரிவித்துள்ளார்.
+Justice Minister Vijayadasa Rajapakse stated that the Central Bank cannot increase employee salaries without Parliament's permission, contradicting the Central Bank's claim of autonomy under the new Central Bank Act. Opposition leaders criticized the government's delay in addressing the salary increase issue.
 
-அரசியலமைப்பின் பிரகாரம் பொது நிதி தொடர்பில் பாராளுமன்றத்திற்கு அதிகாரம் உள்ளதாகவும் பாராளுமன்றத்தின் அனுமதியின்றி மத்திய வங்கி தனது ஊழியர்களின் சம்பளத்தை அதிகரிக்க முடியாது எனவும் அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+🟩
 
-புதிய மத்திய வங்கிச் சட்டத்தின் அடிப்படையில் தீர்மானங்களை எடுக்க தமக்கு சுதந்திரம் இருப்பதாக தெரிவிக்கும் மத்திய வங்கியின் கூற்று தவறானது எனவும்  எந்தவொரு சட்டமும் அரசியலமைப்பின் கீழ் வர வேண்டும் எனவும் அமைச்சர் மேலும் கூறினார்.
+Justice Minister Vijayadasa Rajapakse has said that the Central Bank does not have the authority to increase the salaries of employees without the permission of Parliament and that the action to increase their salary is false.
+
+He said in Parliament that the Parliament has the authority on public funds according to the Constitution and that the Central Bank cannot increase the salaries of its employees without the permission of Parliament.
+
+The Minister added that the Central Bank's claim that he had freedom to make decisions based on the new Central Bank Act was false and that any law should come under the Constitution.
+
+"Freedom of the Central Bank under the new Central Bank Act to ensure that political interference. We expected the central bank to act in accordance with the needs of the country. Unfortunately, he explained his position that the central bank had first increased the salary of its employees.
 
 ...
 
 [Data](articles/2b942130.json)
+
+[Extended Data](ext_articles/2b942130.ext.json)
 
 ---
 
@@ -125,6 +217,28 @@ SJB parliamentarian Eran Wickramaratne resigned from COPE yesterday while MPs Da
 ◼️
 
 [Data](articles/9ed0594a.json)
+
+[Extended Data](ext_articles/9ed0594a.ext.json)
+
+---
+
+### MPs Shanakiyan, Hesha and Gamini also resign from COPE
+
+*2024-03-19 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98058/mps-shanakiyan-hesha-and-gamini-also-resign-from-cope) · `en`
+
+UPDATE: SLPP MP Gamini Waleboda has also resigned from the Committee on Public Enterprises (COPE).
+
+Accordingly, seven members have thus far resigned from the parliamentary committee within the last two days.
+
+TNA parliamentarian Shanakiyan Rasamanickam and SJB MP Hesha Withanage have also resigned from the Committee on Public Enterprises (COPE).
+
+This brings the total number of opposition members who have quit the parliamentary committee thus far to six.
+
+SJB parliamentarian Eran Wickramaratne resigned from COPE yesterday while MPs Dayasiri Jayaseka, S.M. Marikkar and former COPE chairman Prof. Charitha Herath announced their decision to resign earlier today.
+
+◼️
+
+[Data](articles/9f835403.json)
 
 ---
 
@@ -342,13 +456,13 @@ Accordingly, the University Employees Union held a one -day identity strike and 
 
 ---
 
-### Four Sri Lanka opposition MPs resign from parliament panel over integrity issue
+### Six Sri Lanka opposition MPs resign from COPE over integrity issue
 
 *2024-03-19 16:28:00* · [`economynextcom`](https://economynext.com/four-sri-lanka-opposition-mps-resign-from-parliament-panel-over-integrity-issue-155202/) · `en`
 
-ECONOMYNEXT – Four opposition legislators in Sri Lanka resigned from the Parliament’s Committee on Public Enterprises (COPE) within two days over integrity concerns of the panel citing that they had to sit with corrupt ruling politicians.
+ECONOMYNEXT – Six opposition legislators in Sri Lanka resigned from the Parliament’s Committee on Public Enterprises (COPE) within two days over integrity concerns of the panel citing that they had to sit with corrupt ruling politicians.
 
-Opposition parliamentary members Dayasiri Jayasekera, Charitha Herath, and S M Marikkar resigned on Tuesday, a day after the resignation of former state finance minister Eran Wickremeratne’s resignation.
+Opposition parliamentary members Dayasiri Jayasekera, Charitha Herath, S M Marikkar, Shanaiyan Rasamanickam, and Hesha Withanage resigned on Tuesday, a day after the resignation of former state finance minister Eran Wickremeratne.
 
 The opposition members blamed the integrity concerns of COPE established on March 7 under the chairmanship of Ruling Sri Lanka Podujana Peramuna (SLPP) MP Rohitha Abeygunawardena, who has been accused of misappropriation of public funds under the previous government.
 
@@ -711,6 +825,22 @@ According to the report of the World Bank, the world has called a fastest respon
 [Data](articles/6aaf9ccb.json)
 
 [Extended Data](ext_articles/6aaf9ccb.ext.json)
+
+---
+
+### More Opposition members resign from COPE
+
+*2024-03-19 15:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/More-Opposition-members-resign-from-COPE/155-279166) · `en`
+
+Colombo, March 19 (Daily Mirror) - A group of Opposition MPs including Dayasiri Jayasekara, Charitha Herath, Hesha Vithanage, Nalin Bandara, Shanakkiyam Rasaputhram and S.M. Marikkar have resinged from the Committee on Public Engterprises (COPE).
+
+MPs Dayasiri Jayasekara, Hesha Vithanage, Nalin Bandara and Shanakkiyam Rasaputhram told a news conference at the Parliament Complex that they have resigned from the COPE.
+
+They said they could not function as the members of the COPE under its current Chairman Rohitha Abeygunawardan.
+
+◼️
+
+[Data](articles/2004de21.json)
 
 ---
 
@@ -1842,6 +1972,22 @@ A special operation under the 'Yukthiya' initiative was launched today and Inspe
 
 ---
 
+### ආගමික ස්ථාන සඳහා සූර්ය පැනල සවි කිරීමට ඉන්දිය ණයෙන් කොටසක් වෙන් කරයි
+
+*2024-03-19 12:31:33* · [`adalk`](https://www.ada.lk/breaking_news/ආගමික-ස්ථාන-සඳහා-සූර්ය-පැනල-සවි-කිරීමට-ඉන්දිය-ණයෙන්-කොටසක්-වෙන්-කරයි/11-408694) · `si`
+
+ඉන්දියානු රාජ්‍ය බැංකුව විසින් ලබාදෙන ඇමරිකානු ඩොලර් මිලියන 1000ක ණය පහසුකම යටතේ ඇමරිකානු ඩොලර් මිලියන 17ක සීමාවකට යටත්ව, අාගමික ස්ථාන වල පියැසි පාදක සූර්ය විදුලිබල පද්ධති ක්‍රියාත්මක කිරීම සදහා 2024-01-08 දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී අනුමැතිය හිමිවිය.
+
+විදුලි බල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවට මෙම අනුමැතිය ලැබී තිබේ.
+
+ඒ අනූව එම ව්‍යාපෘතිය ක්‍රියාත්මක කිරීම පිණිස සුදුසු ආයතනයක් තෝරා ගැනීම සදහා ලංසු කැදවා ඇති අතර ලංසු 06ක් ලැබී ඇත. තාක්ෂණික ඇගයීම් කමිටුව හා අමාත්‍ය මණ්ඩලය විසින් පත්කරන ලද ස්ථාවර ප්‍රසම්පාදන කමිටුව විසින් ඉදිරිපත් කරනු ලැබ ඇති නිර්දේශය සම්බන්ධයෙන් ප්‍රසම්පාදන අභියාචන මණ්ඩලය විසින් ඉදිරිපත් කරනු ලැබි ඇති නිර්දේශ සැලකිල්ලට ගෙන පියැසි පාදක සූර්ය බලශක්ති ව්‍යාපෘති ක්‍රියාත්මක කිරීමේ ප්‍රසම්පාදනය ඇමරිකානු ඩොලර් මිලියන 17ක කොන්ත්‍රාත් මිලකට M/s Premier Energies Ltd වෙත ප්‍රදානය කිරීම කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/5e2eae43.json)
+
+---
+
 ### Additional day allocated for no-confidence debate against Speaker
 
 *2024-03-19 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98049/additional-day-allocated-for-no-confidence-debate-against-speaker) · `en`
@@ -2123,141 +2269,5 @@ Israeli media reports stated that Marwan was killed by Marwing tunnel in the int
 [Data](articles/825ea33f.json)
 
 [Extended Data](ext_articles/825ea33f.ext.json)
-
----
-
-### Sri Lanka to spin off CPC refinery to attract capital
-
-*2024-03-19 11:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-spin-off-cpc-refinery-to-attract-capital-155163/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers approved a proposal by Energy Minister Kanchana Wijesekera to spin off Ceylon Petroleum Corporation as a separate entity, the government information office said.
-
-It was felt that incorporating the refinery as a separate state-owned enterprise will allow local and foreign capital to be attracted to modernize and extend its life by another 25 years.
-
-The refinery was set up in 1969, but it can only process more expensive light crudes.
-
-About 25 percent of Sri Lanka’s fuel needs are supplied by the refinery, the statement said. (Colombo/Mar19/2024)
-
-◼️
-
-[Data](articles/8707c7ac.json)
-
-[Extended Data](ext_articles/8707c7ac.ext.json)
-
----
-
-### Prepare for presidential election first: President tells Cabinet
-
-*2024-03-19 11:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98046/prepare-for-presidential-election-first-president-tells-cabinet-) · `en`
-
-President Ranil Wickremesinghe has told the Cabinet of Ministers that the Presidential Election would be held prior to the General Election, Ada Derana learns.
-
-At the Cabinet meeting held on Monday (March 18), Wickremesinghe has reportedly asked the lawmakers to get ready for the Presidential Election first.
-
-Further, it is understood that the President has instructed the Cabinet to conclude the developmental activities initiated by the government at the earliest possible in order to prepare for the polls.
-
-◼️
-
-[Data](articles/b8f41616.json)
-
-[Extended Data](ext_articles/b8f41616.ext.json)
-
----
-
-### The congregation has urgently adjourned
-
-*2024-03-19 11:17:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபை-அவசரமாக-ஒத்திவைக்கப்பட்டது/175-334876) · `ta`
-
-The Parliament, led by Deputy Speaker Ajith Rajapaksa, met on Tuesday at 9.30 am, completing the main measures. Opposition Leader Sajith Premadasa addressed a special statement and questioned. At 11.15 pm, Rajapaksa announced a major meeting, postponing proceedings.
-
-🟩
-
-The Parliament, headed by Deputy Speaker Ajith Rajapaksa, met on Tuesday (19) at 9.30 am. The main measures of the congregation were completed.
-
-Thereafter, today's activities were carried out. In it, Opposition Leader Sajith Premadasa was addressing a special statement. Also, he was questioning.
-
-In the meantime, Deputy Speaker Ajith Rajapaksa announced at 11.15 pm that a major meeting would be held and the proceedings would be temporarily postponed.
-
-◼️
-
-[Data](articles/0b5dfab8.json)
-
-[Extended Data](ext_articles/0b5dfab8.ext.json)
-
----
-
-### 20 special police teams deployed to crack down identified underworld gangs
-
-*2024-03-19 11:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/20-special-police-teams-deployed-to-crack-down-identified-underworld-gangs/108-279143) · `en`
-
-Colombo, March 19 (Daily Mirror) - Following a concerning increase in organized criminal activities in the Western and Southern Provinces, a special operation under the 'Yukthiya' initiative was launched today.
-
-Accordingly, 20 special police teams have been deployed to eliminate identified underworld gangs.
-
-Inspector General of Police Deshabandu Tennakoon, STF Commandant Senior DIG Warun Jayasundara and several other senior police officers attended the official team send-off held at the Bambalapitiya Police Field Force Headquarters.
-
-◼️
-
-[Data](articles/30d3117d.json)
-
-[Extended Data](ext_articles/30d3117d.ext.json)
-
----
-
-### India grants USD 61.5 million to develop KKS Port
-
-*2024-03-19 11:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-grants-USD-61-5-million-to-develop-KKS-Port/108-279142) · `en`
-
-Colombo, March 19 (Daily Mirror) - The Indian Government has agreed to provide a grant of USD 61.5 million to fully develop the Kankesanthurai (KKS) Port.
-
-This was revealed during a recent meeting between Ports, Shipping, and Aviation Minister Nimal Siripala de Silva and Indian High Commissioner to Sri Lanka, Santosh Jha.
-
-As part of the project, a new breakwater will be constructed and the port will be dredged to a depth of 30 metres to accommodate deep-draft vessels.
-
-During the discussion, the Indian High Commissioner expressed India's commitment to enhancing regional cooperation between the two nations and pledged the fullest assistance to attract more Indian tourists to Sri Lanka. He also stated that the Indian government has designated Sri Lanka as the top travel destination for Indian tourists.
-
-...
-
-[Data](articles/d2e1bc84.json)
-
-[Extended Data](ext_articles/d2e1bc84.ext.json)
-
----
-
-### Sri Lanka cabinet nod to elect 160 members on first-past-the-post system
-
-*2024-03-19 11:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-nod-to-elect-160-members-on-first-past-the-post-system-155141/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet of ministers have approved a proposal to draft an amendment to the constitution to elect 160 out of the 225 members of parliament on the first-past-the-post system, the government information office said.
-
-The approval comes amid reports President Ranil Wickremesinghe informed the Cabinet that Presidential elections will be held this year.
-
-“To meet the goal of the Election Expenses Regulation Act No. 03 of 2023, and achieve a truly democratic election process, the present electoral system has to be changed,” the statement said.
-
-A ministerial sub-committee was formed tasked with producing a report to Cabinet after obtaining feedback from all party leaders represented in parliament and other relevant stakeholders, the statement continued.
-
-...
-
-[Data](articles/f0b1efbb.json)
-
-[Extended Data](ext_articles/f0b1efbb.ext.json)
-
----
-
-### Eight people released
-
-*2024-03-19 11:00:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/வெடுக்குநாறி-விவகாரம்-எட்டு-பேரும்-விடுதலை/72-334875) · `ta`
-
-Eight people, including Parliamentarian Charles Nirmalanathan, were released by the court at the Athilingeswarar Temple on Maha Sivaratri.
-
-🟩
-
-Parliamentarian Charles Nirmalanathan, who said that the eight arrested were released by the court at the Athilingeswarar Temple at the Attukkunnarimalai Adilingeswarar Temple on the Maha Sivaratri.
-
-◼️
-
-[Data](articles/fcce7e9d.json)
-
-[Extended Data](ext_articles/fcce7e9d.ext.json)
 
 ---

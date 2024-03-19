@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 12:17:52**
+As of **2024-03-19 12:33:28**
 
 ## Newspaper Stats
 
-*Scraped **13,777** Articles*
+*Scraped **13,781** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,105 @@ economynextcom | 726
 dailyftlk | 727
 islandlk | 760
 adalk | 1,187
-adaderanalk | 1,656
+adaderanalk | 1,657
 tamilmirrorlk | 1,676
 virakesarilk | 1,922
-dailymirrorlk | 2,103
+dailymirrorlk | 2,106
 adaderanasinhalalk | 2,189
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,777 (100.0%) of 13,777 articles have been extended.
+13,777 (100.0%) of 13,781 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### Party leaders decide on three-day debate on no-faith motion on Speaker
+
+*2024-03-19 12:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Party-leaders-decide-on-three-day-debate-on-no-faith-motion-on-Speaker/108-279154) · `en`
+
+Parliament, March 19 (Daily Mirror)- The Party leaders have decided to debate the no-confidence motion against Speaker Mahinda Yapa Abeywardhane for three days.
+
+The decision was taken at the party leaders' meeting convened at the Parliament complex this morning.
+
+The vote on the no-confidence motion is to be taken on Thursday (21).
+
+It was earlier scheduled to have a two-day debate and take up the vote tomorrow.
+
+◼️
+
+[Data](articles/eb77a283.json)
+
+---
+
+### Israel Gaza: US reports death of senior Hamas military leader
+
+*2024-03-19 12:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Israel-Gaza-US-reports-death-of-senior-Hamas-military-leader/108-279153) · `en`
+
+New York, March 19 (BBC) -  Hamas leader Marwan Issa died in an Israeli air strike, White House official Jake Sullivan has said.
+
+As deputy military commander, Mr Issa would be Hamas's most senior leader to die since the war began on 7 October.
+
+The Palestinian group, which controls Gaza, has not officially commented on reports of his death.
+
+US Secretary of State Antony Blinken will travel to the Middle East this week on his sixth visit to the region since the conflict in Gaza erupted.
+
+He will hold meetings in Saudi Arabia and Egypt to discuss international efforts to reach a ceasefire agreement that secures the release of all remaining hostages.
+
+Negotiations have been continuing this week in Qatar despite Israel announcing plans to move more than a million people from the city of Rafah before launching an offensive.
+
+In their first conversation in a month, US President Joe Biden told Israeli Prime Minister Benjamin Netanyahu that this would be a "mistake".
+
+...
+
+[Data](articles/addea1a6.json)
+
+---
+
+### Senior Hamas military leader killed in Israeli air strike - US reports
+
+*2024-03-19 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98048/senior-hamas-military-leader-killed-in-israeli-air-strike-us-reports) · `en`
+
+Hamas leader Marwan Issa died in an Israeli air strike, White House official Jake Sullivan has said.
+
+As deputy military commander, Mr Issa would be Hamas’s most senior leader to die since the war began on 7 October.
+
+The Palestinian group, which controls Gaza, has not officially commented on reports of his death.
+
+US Secretary of State Antony Blinken will travel to the Middle East this week on his sixth visit to the region since the conflict in Gaza erupted.
+
+He will hold meetings in Saudi Arabia and Egypt to discuss international efforts to reach a ceasefire agreement that secures the release of all remaining hostages.
+
+Negotiations have been continuing this week in Qatar despite Israel announcing plans to move more than a million people from the city of Rafah before launching an offensive.
+
+In their first conversation in a month, US President Joe Biden told Israeli Prime Minister Benjamin Netanyahu that this would be a “mistake”.
+
+...
+
+[Data](articles/f9e2eb27.json)
+
+---
+
+### Cabinet approves import of 42 million eggs till end April
+
+*2024-03-19 11:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-approves-import-of-42-million-eggs-till-end-April/108-279152) · `en`
+
+Colombo, March 19 (Daily Mirror) - Cabinet approval was granted today to import another stock of 42 million eggs for the requirements of the people and to provide them at a fair price.
+
+Cabinet Spokesman and Minister Bandula Gunawardana said Caninet granted approval to import sufficient stocks of eggs to stabilize the market in the country until April 30.
+
+Accordingly, permission was granted to import 42 million eggs for the requirement of the new year festive season. He also said that 18 million eggs had already been ordered.
+
+In order to import this amount of eggs, prices have been collected from Indian institutions recommended by the Animal Production and Health Department and Cabinet has approved the proposal by the President to award the relevant procurement as recommended by the Standing Procurement Committee appointed by the Cabinet.
+
+◼️
+
+[Data](articles/56ee676c.json)
+
+---
 
 ### Govt. successfully fulfilled majority of promises under President Ranil’s leadership - Wakkumbura
 
@@ -348,7 +432,7 @@ A total of 20 special police teams have been deployed across the island to crack
 
 The decision was taken after taking into account the alarming rise in organized crimes in the Western and Southern provinces over the past few weeks.
 
-The police chief said each of these teams, which would be dispatched starting Tuesday (March 19), will comprise nine personnel including one Crimes Division OIC, four intelligence officers and two Special Task Force (STF) officers.
+The police chief said each of these teams, which would be dispatched starting Tuesday (March 19), will comprise of nine personnel including one Crimes OIC, four intelligence officers and two Special Task Force (STF) personnel.
 
 ◼️
 
@@ -704,15 +788,15 @@ He said that the presidential election should be held first and that the country
 
 *2024-03-19 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98043/sri-lanka-to-import-42-million-more-eggs-from-india) · `en`
 
-The Cabinet of Ministers has green-lighted a proposal seeking permission to award procurement contracts to import eggs from India, based on the recommendations of the Procurement Committee.
+The Cabinet of Ministers has green-lighted a proposal seeking permission to award procurement contracts to import more eggs from India, based on the recommendations of the Standing Procurement Committee.
 
-As such, 42 million more eggs are to be imported to Sri Lanka, as per a Cabinet approval granted in December 2023.
+As such, 42 million more eggs are to be brought into Sri Lanka, as per a Cabinet approval granted in December 2023.
 
-On 18 December last year, the Cabinet of Ministers gave the nod to import eggs from India until 30 April 2024.
+On 18 December last year, the Cabinet of Ministers gave the nod to import eggs from India until 30 April 2024 in a bid to maintain stable prices in the local market and to provide the products at reasonable rates to the consumers.
 
-Accordingly, Sri Lanka has thus far imported as many as 18 million eggs from its neighbour and 42 million more eggs are yet to be brought in.
+After receiving the approval, Sri Lanka has thus far imported as many as 18 million eggs from its neighbor and 42 million more eggs are planned to be brought in.
 
-For this purpose, the Department of Animal Production and Health has already obtained the proposed rates from the recommended Indian companies.
+For this purpose, the Department of Animal Production and Health has already called proposed rates from the recommended Indian companies. Accordingly, a proposal tabled by the President to award relevant procurement contracts to import Indian eggs was green-lighted by the Cabinet.
 
 ◼️
 
@@ -2099,99 +2183,5 @@ For example, the devastating floods in Pakistan in 2022 were caused by heavier-t
 [Data](articles/ddece55d.json)
 
 [Extended Data](ext_articles/ddece55d.ext.json)
-
----
-
-### Two successful farmers who cultivated new technology under the Modernization Program of the Agriculture Department met the president
-
-*2024-03-18 22:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179074) · `ta`
-
-Two young farmers, Pandula Munasinghe and Buddhika Sudarshana, showcased their success with the Agriculture Department's Modernization Program. Pandula, from Puliyankulam, earned 12 million rupees from half an acre of chilli in nine months, while Buddhika, from Kalkulam, earned 4 million rupees in two months from watermelon. They met President Ranil Wickremesinghe to thank him for the program, which helped them increase their yields significantly.
-
-🟩
-
-Pandula Munasinghe, a young farmer from Puliyankulam, Puliyankulam village, who had grown half an acre of half an acre of chilli in nine months and earned 12 million rupees, a young farmer from Kalkulam, who had earned 4 million rupees in two months, earned 4 million rupees.. President Ranil Wickremesinghe met with President Ranil Wickremesinghe at the Presidential Office this afternoon.
-
-These young farmers met with a part of their harvest and thanked the President for the implementation of the government's agricultural modernization program of the guide to get rich yields.
-
-Bandula Munasinghe has cultivated chilli on half an acre using a high density cultivation system introduced through the Agricultural Modernization Program of the Ministry of Agriculture.
-
-Traditional chilli plants can be cultivated in half an acre, but the number of chilli plants that can be cultivated in this high -density cultivation has increased to 13,000.. He said this new system could increase the yield.
-
-...
-
-[Data](articles/afdab7ce.json)
-
-[Extended Data](ext_articles/afdab7ce.ext.json)
-
----
-
-### More of Suzi…Down Under
-
-*2024-03-18 22:38:00* · [`islandlk`](http://island.lk/more-of-suzidown-under/) · `en`
-
-Suzi Fluckiger (or, let’s say Croner to her fans in Sri Lanka) has already turned out to be a much-in-demand artiste, Down Under.
-
-She was in Melbourne, Australia, in November last year, for Country and Western Night at Gaelic Park, in Keysborough, and the crowd present enjoyed her performance.
-
-She also did quite a few other gigs, and now they all want more of Suzi.
-
-And, Suzi says she will do the needful again, in October this year.
-
-She is scheduled to do a country and western scene on October 26, in Melbourne, followed by two other gigs, on November 1st and 2nd.
-
-Suzi then has to rush back to Switzerland, where she now resides, as she has to perform in Zurich, from November 9th right through to January, 2025.
-
-Referring to her forthcoming two-week stay in Australia, she says it will be partying with all her Aussie friends, all the time!
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/1689f801.json)
-
-[Extended Data](ext_articles/1689f801.ext.json)
-
----
-
-### The National Education Policy Framework 2023
-
-*2024-03-18 22:36:00* · [`islandlk`](http://island.lk/the-national-education-policy-framework-2023/) · `en`
-
-Global inequality is at an all time high. According to a recent Oxfam report (Inequality Inc. January 2024), the richest 1% of the world owns 43% of global assets; the world’s richest five men have doubled their wealth since the onset of the pandemic while five billion people have been made poorer. Ever-reducing wages (for workers), tax concessions and evasion (for/by corporates), and the privatization of public services has concentrated wealth and power in corporates, increasing their influence in every policy domain, says Oxfam.
-
-...
-
-[Data](articles/9e7e678f.json)
-
-[Extended Data](ext_articles/9e7e678f.ext.json)
-
----
-
-### Trump unable to get $464m bond in New York fraud case, his lawyers say
-
-*2024-03-18 22:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Trump-unable-to-get-464m-bond-in-New-York-fraud-case-his-lawyers-say/107-279090) · `en`
-
-New York, March 18 (BBC) - Donald Trump's lawyers have said finding a bond to cover the $464m (£365m) judgement in his New York fraud case is a "practical impossibility".
-
-A judge ordered Mr Trump to pay the penalty in February for falsely inflating the value of his assets.
-
-Mr Trump offered to post a smaller bond of $100m while he appeals, but that request was denied.
-
-In a filing on Monday, his lawyers said they had approached 30 companies to back the bond without success.
-
-"The amount of the judgement, with interest, exceeds $464m, and very few bonding companies will consider a bond of anything approaching that magnitude," his lawyers wrote in the nearly 5,000-page filing.
-
-They are asking a judge to put the judgement on pause while Mr Trump appeals against the decision.
-
-"The practical impossibility of obtaining a bond interferes with defendants' right to appeal," his lawyers said.
-
-Mr Trump's two eldest sons also must pay millions of dollars in the case.
-
-...
-
-[Data](articles/0e873b95.json)
-
-[Extended Data](ext_articles/0e873b95.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 19:04:10**
+As of **2024-03-19 19:18:11**
 
 ## Newspaper Stats
 
-*Scraped **13,891** Articles*
+*Scraped **13,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 727
 economynextcom | 735
 islandlk | 761
-adalk | 1,200
+adalk | 1,201
 adaderanalk | 1,669
 tamilmirrorlk | 1,689
 virakesarilk | 1,942
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,887 (100.0%) of 13,891 articles have been extended.
+13,891 (100.0%) of 13,892 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,37 +46,51 @@ Accordingly, a Cabinet sub-committee was appointed to ask the views of all party
 
 [Data](articles/895f8ad2.json)
 
+[Extended Data](ext_articles/895f8ad2.ext.json)
+
 ---
 
-### அதிர்ச்சியில் நிலத்தில் விழுந்தவர் உயிரிழந்துள்ளார்
+### The man who fell on the ground in shock dies
 
 *2024-03-19 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179162) · `ta`
 
-பூண்டுலோயா பொலிஸ் பிரிவுக்குட்பட்ட சீன் தோட்ட மேல் பிரிவு தோட்டத்தில் அதிர்ச்சிக்கு உள்ளாகி தரையில் விழுந்த நபர் ஒருவர் உயிரிழந்துள்ளார்.
+A man shocked by burning power lines at the Sean Estate Garden in Punduloya died. Subbaiah Shanmugam, 58, was electrocuted on Sunday evening. The Ceylon Electricity Board (CEB) has been asked to address electricity leaks and connectivity issues in the area.
 
-சம்பந்தப்பட்ட நபர் வசிக்கும் இலக்கம் நான்கு தொடர் குடியிறுப்பு வீட்டு பகுதியில் தனது கண்முன்னே மின் கம்பத்தில் திடீரென மின் இணைப்பு வயர்கள் தீப்பிடித்து எரிவதை பார்த்து அதிர்ச்சி அடைந்த நபர் திடீரென தரையில் வீழ்ந்து உயிரிழந்ததாக விசாரணையில் தெரியவந்துள்ளது.
+🟩
 
-ஞாயிற்றுக்கிழமை (17)  மாலை இடம்பெற்ற இந்த சம்பவத்தில் சுப்பையா சண்முகம் (வயது 58) என்பவர் உயிரிழந்துள்ளதாக விசாரணைகளை மேற்கொண்டு வரும் பூண்டுலோயா பொலிஸார் தெரிவித்தனர்.
+A man who fell to the ground after being shocked at the Sean Estate Garden, which belongs to the Punduloya police division.
 
-அதேநேரத்தில் சீன் மேல் பிரிவு தோட்டத்தில் அடிக்கடி மின் இணைப்பு வயர்கள் தீப்பிடிப்பதாக தெரிவிக்கும் தோட்ட மக்கள் இத் தோட்டத்தில் தொடர் குடியிருப்புகள் அருகில் காணப்படும் மின் கம்பங்களில் மின் கசிவுகள் மற்றும் இணைப்பு வயர்கள் தொடர்பில் இலங்கை மின்சார சபை பிராந்திய தொழிநுட்ப்ப அதிகாரிகள் பார்வையிட்டு சீர்த்திருத்த நடவடிக்கை எடுக்க வேண்டுமென மக்கள் கோரிக்கை விடுத்துள்ளனர்.
+Investigations have revealed that the person who was shocked to see that the power lines were burning in his eyes in front of the four -serial residential area of the person who lived in the area.
+
+Punduloya police said that Subbaiah Shanmugam (58) died in the incident which took place on Sunday evening (17).
+
+At the same time, the people of the plantation of the Ceylon Electricity Board (CEB) have asked the Ceylon Electricity Board (CEB) to take action on electricity leaks and connectivity wires in the nearby garden.
 
 ◼️
 
 [Data](articles/dc847fe6.json)
 
+[Extended Data](ext_articles/dc847fe6.ext.json)
+
 ---
 
-### கென்ய வீதி விபத்தில்  பல்கலை மாணவர்கள் 11 பேர் பலி
+### 11 university students killed in Kenyan road accident
 
 *2024-03-19 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179161) · `ta`
 
-கென்யாவில் பஸ் ஒன்றும் லொறி ஒன்றும் மோதிக்கொண்டதால் பல்கலைக்கழக மாணவர்கள் 11 பேர் உயிரிழந்துள்ளனர்.
+11 university students died in a Kenyan road accident involving a bus and a lorry. The Kenyan government is investigating.
 
-இச்சம்பவத்தையடுத்து, கென்ய வீதி விபத்து அதிகரிப்பு குறித்து விசாரணை நடத்துமாறு கென்ய அரசாங்கம் உத்தரவிட்டுள்ளது.
+🟩
+
+11 university students have died after a bus and a lorry collided with Kenya.
+
+Following the incident, the Kenyan government has ordered an investigation into the Kenyan road accident.
 
 ◼️
 
 [Data](articles/ca7707c3.json)
+
+[Extended Data](ext_articles/ca7707c3.ext.json)
 
 ---
 
@@ -115,6 +129,8 @@ Global average ocean temperatures in 2023 were 0.25 degrees Celsius warmer than 
 ...
 
 [Data](articles/740170b1.json)
+
+[Extended Data](ext_articles/740170b1.ext.json)
 
 ---
 
@@ -1990,6 +2006,24 @@ However, instead of this usual cross, the 515th Brigade was set up in front of t
 
 ---
 
+### උත්සව සමයට තවත් බිත්තර මිලියන 42ක් ආනයනය කරයි
+
+*2024-03-19 12:48:03* · [`adalk`](https://www.ada.lk/breaking_news/උත්සව-සමයට-තවත්-බිත්තර-මිලියන-42ක්-ආනයනය-කරයි/11-408698) · `si`
+
+උත්සව සමයේ අවශ්‍යතා සදහා තවත් බිත්තර මිලියන 42ක් පමණ ආනයනය කිරීමට කැබිනට් අනුමැතිය ලැබි තිබේ.
+
+දේශීය වෙළදපොළෙහි බිත්තර මිල ස්ථාවරව පවත්වාගෙන යාම සදහා අප්‍රේල් 30 වනදා මෙසේ බිත්තර ආනයනය කිරීමට ඊයේ (18) පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී අනුමැතිය ලබාදී ඇත.
+
+මේ වන විට බිත්තර මිලියන 18ක් පමණ ආනයනය කර ඇති අතර අප්‍රේල් 30 අවසන් වන විට බිත්තර මිලියන 60ක් ආනයනය කිරීමට මේ අනුව අවස්ථාව හිමිව තිබේ.
+
+බිත්තර ආනයනය කිරීම සදහා සත්ත්ව නිෂ්පාදන හා සෞඛ්‍ය දෙපාර්තමේන්තුව විසින් නිර්දේශිත ඉන්දීය ආයතන වෙතින් මිල ගණන් කැදවා ඇති අතර අමාත්‍ය මණ්ඩලය විසින් පත් කළ ස්ථාවර ප්‍රසම්පාදන කමිටුවේ නිර්දේශය පිරිදි අදාල ප්‍රසම්පාදනයන් ප්‍රදානය කිරීම සදහා මුදල් ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍ය වශයෙන් ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිවිය.
+
+◼️
+
+[Data](articles/ab84b5ca.json)
+
+---
+
 ### Haven’t read Gota’s book, not even willing to: Basil
 
 *2024-03-19 12:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Havent-read-Gotas-book-not-even-willing-to-Basil/108-279157) · `en`
@@ -2239,29 +2273,5 @@ In their first conversation in a month, US President Joe Biden told Israeli Prim
 [Data](articles/f9e2eb27.json)
 
 [Extended Data](ext_articles/f9e2eb27.ext.json)
-
----
-
-### Anura, Ambassador meets
-
-*2024-03-19 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194674) · `si`
-
-Anura, Ambassador met with the Japanese Ambassador to Sri Lanka and the leader of the National Power at the JVP headquarters. Topics included the economic crisis and political situation. The Japanese delegation emphasized the National Monetary Fund's intervention and investment in Sri Lanka.
-
-🟩
-
-Ambassador of Japanese Ambassador to Sri Lanka and the leader of the National Power was held at the JVP headquarters this morning.
-
-Deputy Chief of the Japan embassy katsuki Kotaro and the second Secretary Imai Kaori were also present.
-
-The economic crisis and the political situation have been discussed at length, and the political situation has been discussed.
-
-The Japanese delegation has stressed the stand of the National Monetary Fund's intervention, and the Japanese delegation has stressed to invest in Sri Lanka.
-
-◼️
-
-[Data](articles/a45232e4.json)
-
-[Extended Data](ext_articles/a45232e4.ext.json)
 
 ---

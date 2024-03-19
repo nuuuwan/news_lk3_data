@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 18:34:12**
+As of **2024-03-19 18:51:34**
 
 ## Newspaper Stats
 
-*Scraped **13,885** Articles*
+*Scraped **13,887** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 dailyftlk | 727
 economynextcom | 735
 islandlk | 761
-adalk | 1,199
+adalk | 1,200
 adaderanalk | 1,668
 tamilmirrorlk | 1,689
 virakesarilk | 1,940
 dailymirrorlk | 2,120
-adaderanasinhalalk | 2,211
+adaderanasinhalalk | 2,212
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,885 (100.0%) of 13,885 articles have been extended.
+13,885 (100.0%) of 13,887 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### ලංගම බස් රථයක් පෙරළෙයි
+
+*2024-03-19 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194697) · `si`
+
+ලංගම බස් රථයක් පෙරළී යාමෙන් සිදුවූ අනතුරකින් තුවාල ලැබූ පිරිසක් ප්‍රතිකාර සඳහා රෝහල්ගතකර තිබේ.
+
+මහනුවර සිට හොරොව්පතාන දක්වා ධාවනය වෙමින් තිබූ ලංගම බස් රථයක් පෙරළී මෙම අනතුර සිදුව ඇත.
+
+◼️
+
+[Data](articles/a3acf9ca.json)
+
+---
+
+### බැංගලෝර් යන්න ගිය ශ්‍රී ලන්කන් යානය විනාඩි 40කින් ආපසු එයි
+
+*2024-03-19 18:11:46* · [`adalk`](https://www.ada.lk/breaking_news/බැංගලෝර්-යන්න-ගිය-ශ්‍රී-ලන්කන්-යානය-විනාඩි-40කින්-ආපසු-එයි/11-408705) · `si`
+
+ඉන්දියාවේ බැංගලෝර් නුවර බලා කටුනායක ගුවන් තොටුපොළෙන් 03/19 දින අලුයම පිටත්ව ගිය ශ්‍රී ලන්කන් ගුවන් යානය කාර්මික දෝශයකට ලක් වීම නිසා  විනාඩි 40 ක ගුවන් ගමනකින් පසුව ආපසු යළිත් කටුනායක ගුවන් තොටුපොළ වෙත ගොඩ බැස්සවීමට සිදු වූ බව ශ්‍රී ලන්කන් ගුවන් සේවයේ ආයතනික සන්නිවේදන අංශයේ ප්‍රධානී දීපාල් පෙරේරා මහතා පැවසීය.
+
+ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 173 දරන ගුවන් යානය 03/19 දින අලුයම 01.10 ට කටුනායක ගුවන් තොටුපොළෙන් ඉන්දියාවේ බැංගලෝර් නුවර බලා පිටත්ව ගොස් තිබුණි.
+
+මේ ගුවන් ගමන සදහා ඒ.- 320 එයාර් බස් වර්ගයේ ගුවන් යානයක් යොදවා තිබූ අතර එහි ගුවන් මගීන් 85 දෙනෙකු ද ගමන් කර තිබුණි.
+
+මෙම ගුවන් යානයේ සමතුලිතතාවය පවත්වා ගෙන යන පද්ධතියේ හට ගත් කාර්මික දෝශයක් නිසා විනාඩි 40 ක ගුවන් ගමනකින් අනතුරුව 03/19 දින අලුයම 01.50 ට යළිත් කටුනායක ගුවන් තොටුපොළ වෙත " හදිසි " ගොඩ බැස්සවීමක් ප්‍රකාශයට පත් කර ගොඩ බස්සවා තිබුණි.
+
+මෙම ගුවන් යානය තුළ ගමන් කළ ගුවන් මගීන් වෙනත් විකල්ප ගුවන් යානා මගින් ඉන්දියාවේ බැංගලෝර් නුවර ගුවන් තොටුපොළ වෙත යොමු කිරීමට පියවර ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/8bc9735f.json)
+
+---
 
 ### Colombo district court rejected Sajith Premadasa's request
 
@@ -2247,51 +2281,5 @@ Wakkambura made these remarks during a press briefing held at the Presidential M
 [Data](articles/71bac9af.json)
 
 [Extended Data](ext_articles/71bac9af.ext.json)
-
----
-
-### Kota's instructor arrested
-
-*2024-03-19 11:35:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவின்-பயிற்றுவிப்பாளர்-கைது/175-334877) · `ta`
-
-A former Sri Lanka Army Commando Force Lance Corporal, Gotabhaya Rajapakse, was arrested with two grams of heroin. He left the army after serving under the former president and is the father of two children.
-
-🟩
-
-A former soldier who served as a Lance Corporal in the Sri Lanka Army's Commando Force was arrested on suspicion with two grams of heroin, the Kandy Criminal Investigation Department said.
-
-Police investigations have revealed that Gotabhaya Rajapakse, a suspect, who was close to the former president, left the army after leaving the presidency.
-
-He is the father of two children. Police said the suspect was arrested with heroin, according to information received by the police that heroin was smuggling.
-
-◼️
-
-[Data](articles/194b2b8f.json)
-
-[Extended Data](ext_articles/194b2b8f.ext.json)
-
----
-
-### Hamas leader dies
-
-*2024-03-19 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194672) · `si`
-
-Marwan, a top Hamas leader, died in Israel on Oct 7, reportedly in a tunnel attack. Hamas has not confirmed his death.
-
-🟩
-
-Marwan, who is considered a leading Hamas leader, has died in a country of Israel.
-
-Merwan is reported that the most senior Hamas leader was killed after the attack on October 7.
-
-But the Hamas has not yetified the death.
-
-Israeli media reports stated that Marwan was killed by Marwing tunnel in the interior of the refugee camp.
-
-◼️
-
-[Data](articles/825ea33f.json)
-
-[Extended Data](ext_articles/825ea33f.ext.json)
 
 ---

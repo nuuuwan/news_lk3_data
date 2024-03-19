@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 01:51:08**
+As of **2024-03-20 02:03:04**
 
 ## Newspaper Stats
 
-*Scraped **13,945** Articles*
+*Scraped **13,948** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 131
 bbccomsinhala | 153
 dbsjeyarajcom | 188
 newsfirstlk | 363
-dailyftlk | 730
+dailyftlk | 733
 economynextcom | 742
 islandlk | 761
 adalk | 1,206
@@ -26,11 +26,67 @@ adaderanasinhalalk | 2,220
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,943 (100.0%) of 13,945 articles have been extended.
+13,945 (100.0%) of 13,948 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### India pledges $ 61.5m grant to develop KKS Port
+
+*2024-03-20 01:47:58* · [`dailyftlk`](https://www.ft.lk/news/India-pledges-61-5m-grant-to-develop-KKS-Port/56-759703) · `en`
+
+Indian High Commissioner Santosh Jha and Ports, Shipping and Aviation Minister Nimal Siripala de Silva during their meeting yesterday
+
+The Government of India has pledged $ 61.5 million grant to fully develop the Port of Kankesanthurai Port (KKS) in Jaffna.
+
+The message was conveyed during a meeting between Indian High Commissioner Santosh Jha and Ports, Shipping and Aviation Minister NimalSiripala de Silva, a communiqué from the Ministry noted.
+
+“As part of the project, a new breakwater will be constructed, and the port will be dredged up to a depth of 30 meters to accommodate deep-draft vessels,” it read.
+
+During the discussion, the Indian High Commissioner has expressed India›s commitment to enhancing regional cooperation and connectivity between the two countries. He has also pledged their fullest support to attract more Indian tourists to Sri Lanka.
+
+...
+
+[Data](articles/712b88df.json)
+
+---
+
+### Gammanpila calls for transparency over Indo-Lanka ETCA
+
+*2024-03-20 01:46:27* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-calls-for-transparency-over-Indo-Lanka-ETCA/56-759702) · `en`
+
+Pivithuru Hela Urumaya (PHU) leader and MP Udaya Gammanpila alleged that the signing of the Economic and Technical Cooperation Agreement (ETCA) between Sri Lanka and India has been suspended untill the conclusion of the Parliamentary elections later this year.
+
+Gammanpila cited “reliable Government sources” for his revelation during a media briefing.
+
+He disclosed that the Indian Election Commission has announced the conclusion of the elections on 4 June, providing a three-month window before the signing of ETCA.
+
+However, Gammanpila stressed the necessity for the Government to address four prerequisites before considering the agreement.
+
+He asserted the importance of formulating a foreign trade agreement policy, highlighting the absence of criteria to assess the agreement’s impact on the country. He said the risk of negotiating trade agreements without predefined criteria, could result in unfavourable terms for Sri Lanka.
+
+...
+
+[Data](articles/22f51281.json)
+
+---
+
+### Dialog Enterprise and Bahrain-based CTM360 partner to launch Digital Risk Protection platform
+
+*2024-03-20 01:44:17* · [`dailyftlk`](https://www.ft.lk/business/Dialog-Enterprise-and-Bahrain-based-CTM360-partner-to-launch-Digital-Risk-Protection-platform/34-759701) · `en`
+
+Dialog Enterprise Group Chief Officer Navin Pieris (right) exchanges the partnership agreement with CTM360 Founder and CEO Mirza Asrar Baig. Others from left Dialog Axiata Plc Head of ICT Business Venura Mendis, CTM360 Ambassador Rohan Speldewinde, Dialog Enterprise Product Head Security Ramesh Indika and Assistant Product Manager Sachitha Wimalasiri
+
+Dialog Enterprise, the corporate ICT solutions arm of Dialog Axiata PLC., in partnership with Bahrain-based award-winning cybersecurity solutions partner, CTM360 has launched a Digital Risk Protection (DRP) platform empowering organisations and enterprises to navigate the digital landscape confidently amidst ever-evolving cybersecurity threats.
+
+A holistic solution stack to address the current cybersecurity challenges faced by organizations, CTM360’s fully integrated security platform operates in real-time, outside the firewall of an organisation, and does not require any configuration or installation.
+
+...
+
+[Data](articles/efa81333.json)
+
+---
 
 ### Amid election fever a dark horse rises - EDITORIAL
 
@@ -45,6 +101,8 @@ While political parties are busy blaming each other for bringing this country to
 ...
 
 [Data](articles/f90c3d37.json)
+
+[Extended Data](ext_articles/f90c3d37.ext.json)
 
 ---
 
@@ -65,6 +123,8 @@ The British Prime Minister Rishi Sunak is an Indian. The Scottish First Minister
 ...
 
 [Data](articles/766b8dd0.json)
+
+[Extended Data](ext_articles/766b8dd0.ext.json)
 
 ---
 
@@ -2175,61 +2235,5 @@ They said they could not function as the members of the COPE under its current C
 [Data](articles/2004de21.json)
 
 [Extended Data](ext_articles/2004de21.ext.json)
-
----
-
-### Charitha Herath, Dayasiri, Marikkar too resign from COPE
-
-*2024-03-19 15:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Charitha-Herath-Dayasiri-Marikkar-too-resign-from-COPE/108-279166) · `en`
-
-Colombo, March 19 (Daily Mirror) - Members of Parliament Charitha Herath, Dayasiri Jayasekara and S. M. Marikkar have also resigned from the Committee on Public Enterprises (COPE) protesting against the appointment of ineligible members to the committee.
-
-Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne yesterday announced his decision to resign from the COPE.
-
-◼️
-
-[Data](articles/38fc2c1e.json)
-
-[Extended Data](ext_articles/38fc2c1e.ext.json)
-
----
-
-### Charitha Herath, Dayasiri too resign from COPE
-
-*2024-03-19 15:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Charitha-Herath-Dayasiri-too-resign-from-COPE/108-279166) · `en`
-
-Colombo, March 19 (Daily Mirror) - Members of Parliament Charitha Herath and Dayasiri Jayasekara have also resigned from the Committee on Public Enterprises (COPE) protesting against the appointment of ineligible members to the committee.
-
-Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne yesterday announced his decision to resign from the COPE.
-
-◼️
-
-[Data](articles/95caf6ef.json)
-
-[Extended Data](ext_articles/95caf6ef.ext.json)
-
----
-
-### Another member of the COPE committee resigns
-
-*2024-03-19 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194686) · `si`
-
-Charitha Herath, elected via Sri Lanka General Front, resigns from COPE Committee, following Dayasiri Jayasekara's resignation.
-
-🟩
-
-Parliamentarian Charitha Herath, who was elected to Parliament through the Sri Lanka General Front, has resigned from the COPE Committee.
-
-Speaking this, MP has placed his official X account.
-
-He has also officially referred to the Speaker of this decision.
-
-The membership of the Committee on Public Enterprises (COPE) has previously resigned from the Sri Lanka Appointment Dayasiri Jayasekara.
-
-◼️
-
-[Data](articles/a8230206.json)
-
-[Extended Data](ext_articles/a8230206.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 20:33:36**
+As of **2024-03-19 20:51:32**
 
 ## Newspaper Stats
 
-*Scraped **13,902** Articles*
+*Scraped **13,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,29 +18,77 @@ islandlk | 761
 adalk | 1,202
 adaderanalk | 1,671
 tamilmirrorlk | 1,689
-virakesarilk | 1,944
-dailymirrorlk | 2,121
-adaderanasinhalalk | 2,217
+virakesarilk | 1,945
+dailymirrorlk | 2,123
+adaderanasinhalalk | 2,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,901 (100.0%) of 13,902 articles have been extended.
+13,902 (100.0%) of 13,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### හොඳම රූපවාහිනී නිවේදකයා චතුර අල්විස්
+### වසරේ රූපවාහිනී නාලිකාව ලෙස TV දෙරණ ට ස්ලිම් කැන්ටා ජනතා සම්මානය
+
+*2024-03-19 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194703) · `si`
+
+මෙවර ස්ලිම් කැන්ටා ජනතා සම්මාන උළෙලේදී වසරේ තාරුණ්‍යයේ රූපවාහිනී නාලිකාව ලෙස TV දෙරණ ජනතා සම්මානයෙන් පිදුම් ලැබීය.
+
+මේ අතර වසරේ රූපවාහිනී නාලිකාව ලෙස ද සම්මානයට ප්‍රාත වූයේ TV දෙරණ නාලිකාවය.
+
+◼️
+
+[Data](articles/ca8c54a3.json)
+
+---
+
+### SLIM - Kantar 2024 விருது : மக்கள் மனம் விரும்பும் பத்திரிகையாக வீரகேசரி
+
+*2024-03-19 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179165) · `ta`
+
+வீரகேசரி பத்திரிகையானது மக்கள் மனம் விரும்பும் தமிழ் பத்திரிகையாக SLIM - Kantar 2024 விருதை வென்றுள்ளது.
+
+◼️
+
+[Data](articles/127e34f6.json)
+
+---
+
+### Bangladesh mocks Sri Lanka after series defeat
+
+*2024-03-19 20:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladesh-mocks-Sri-Lanka-after-series-defeat/108-279171) · `en`
+
+Mar. 19 (Daily Mirror) - Bangladesh clinched the third ODI against Sri Lanka by four wickets to secure a 2-1 series win on Monday (18) which was followed up by a celebration from their veteran wicket-keeper Mushfiqur Rahim who brought his helmet as they were lining up to pose for the post-match photograph adding more fuel into fire.
+
+At the conclusion of the T20 series, Sri Lanka team brought out the 'timed-out' celebration which appeared to upset Bangladesh captain Najmul Shanto who claimed that the Islanders needed to move on from it, but on Monday Rahim probably made him eat his words when he went as far as taking his helmet to take the photographs after post-match presentation.
+
+It doesn't look like either team is going to move on from the 'timed-out' celebration anytime soon as an unlikely rivalry is growing strong between a team that has won two ICC World Cups and played in six World Cup Finals, against a team that is yet to play ICC World Cup semi-final.
+
+...
+
+[Data](articles/43912f6a.json)
+
+---
+
+### The best TV announcer is Chiwa Alwis
 
 *2024-03-19 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194702) · `si`
 
-ස්ලිම් කැන්ටා ජනතා සම්මාන උළලේදී ජනතාවගේ රූපවාහිනී නිවේදකයා ලෙස ටී.වී. දෙරණ නාලිකාවේ චතුර අල්විස් සම්මාන ලැබීය.
+Chiwa Alwis is the best TV announcer, winning at the SLIM Canta People's Awards.
+
+🟩
+
+TV as television announcer at the SLIM Canta People's Awards. Chatura Alwis was adjudged Derana TV.
 
 ◼️
 
 [Data](articles/1b77beab.json)
+
+[Extended Data](ext_articles/1b77beab.ext.json)
 
 ---
 
@@ -83,6 +131,24 @@ The government should correct the mistake. I urge the government to remove Rohit
 [Data](articles/ff3125e0.json)
 
 [Extended Data](ext_articles/ff3125e0.ext.json)
+
+---
+
+### Derailment causes disruption on coastal line
+
+*2024-03-19 19:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Derailment-causes-disruption-on-coastal-line/108-279170) · `en`
+
+Colombo, March 19 (Daily Mirror) - Train services along the Coastal Line faced a significant setback this evening following a derailment near the Secretariat Station.
+
+The incident, which occurred shortly after a train's departure from Colombo Fort station at 7:15 p.m has led to disruptions in the southbound route towards Kalutara South.
+
+Sources indicate that the affected train veered off the track near the Secretariat Station, prompting concerns for the safety of passengers and the integrity of the railway infrastructure.
+
+As a consequence, commuters travelling towards southern destinations can anticipate substantial delays or potential cancellations of their scheduled train services.
+
+◼️
+
+[Data](articles/65a34109.json)
 
 ---
 
@@ -2199,99 +2265,5 @@ The Minister said the claim by the Central Bank that it has the independence to 
 [Data](articles/e9645b60.json)
 
 [Extended Data](ext_articles/e9645b60.ext.json)
-
----
-
-### Sapugaskanda refinery to operate as a separate public enterprise
-
-*2024-03-19 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98050/sapugaskanda-refinery-to-operate-as-a-separate-public-enterprise) · `en`
-
-The government says it has decided to operate the Sapugaskanda Oil Refinery as a state-owned business entity disjoined from the Ceylon Petroleum Corporation (CPC).
-
-The proposal, tabled by Minister of Power and Energy Kanchana Wijesekera, was green-lighted by the Cabinet of Ministers at its meeting convened on Monday (March 18).
-
-In a statement, the government said it has identified the need to make a ‘critical investment’ to upgrade the oil refinery in order to keep it up and running for another 25 years.
-
-Thereby, it has been decided that the Sapugaskanda Oil Refinery be operated as a separate public enterprise and to call Expressions of Interest (EOIs) to select a suitable strategic investment partner to upgrade the infrastructure facilities to address the existing operational challenges.
-
-...
-
-[Data](articles/1a7dc01a.json)
-
-[Extended Data](ext_articles/1a7dc01a.ext.json)
-
----
-
-### Request to fit the train shop to college road in Jaffna
-
-*2024-03-19 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179108) · `ta`
-
-The Railway Department is urged to install a railway crossing and signal lamp on College Road near Nadeswara College in Jaffna, following the release of the area from military control. The community demands immediate action as the land is now available for resettlement.
-
-🟩
-
-The college road near the Kankesanthurai Nadeswara College, Jaffna has recently been completely released from military control and the lands in the area have been released.
-
-In this case, the people and the school community have demanded that the Railway Department take steps to run the door to the railway crossing on the college road near Nadeswara College and to run the signal lamp.
-
-Earlier, when the railway station was built, the college road was provided with facilities to build a cross -border, but the area was under military control and was not set up due to lack of use.
-
-However, instead of this usual cross, the 515th Brigade was set up in front of the road they used by the army.. However, the route used by the military is a public land. As the army has recently handed over the land of the people, the railway department officials must rush to work on the railway door and fit the signal lamp in the college road.
-
-...
-
-[Data](articles/3e960c99.json)
-
-[Extended Data](ext_articles/3e960c99.ext.json)
-
----
-
-### 42 million eggs imports for festive season
-
-*2024-03-19 12:48:03* · [`adalk`](https://www.ada.lk/breaking_news/උත්සව-සමයට-තවත්-බිත්තර-මිලියන-42ක්-ආනයනය-කරයි/11-408698) · `si`
-
-The Cabinet approved importing 42 million eggs for the festive season, aiming to maintain egg prices. Currently, 18 million eggs have been imported, with a target to import 60 million by April 30.
-
-🟩
-
-Cabinet approved the importation of about 42 million eggs for the interests of the festive season.
-
-The Cabinet Meeting of the Cabinet Meeting of the local market was approved by the Cabinet Meeting held yesterday (18) to maintain the prices of eggs in the local market.
-
-At present, about 18 million eggs have been imported and the end of April 30 is the opportunity to import 60 million eggs.
-
-The proposal presented by the Cabinet of the Standing Procurement Committee appointed by the Cabbilization of the Cabbilures of the Cabbilization of the Cabinet of the Cabinet of the Cabinet has been approved by the Cabinet of Ministers.
-
-◼️
-
-[Data](articles/ab84b5ca.json)
-
-[Extended Data](ext_articles/ab84b5ca.ext.json)
-
----
-
-### Haven’t read Gota’s book, not even willing to: Basil
-
-*2024-03-19 12:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Havent-read-Gotas-book-not-even-willing-to-Basil/108-279157) · `en`
-
-Colombo, March 19 (Daily Mirror) - Sri Lanka Podujana Peramuna (SLPP) founder Basil Rajapaksa said that he had not read the book published recently by former President Gotabaya Rajapaksa on an alleged conspiracy to oust him.
-
-While addressing a television interview yesterday, he said that he did not have such a book at home.
-
-"Gotabaya did not even give me a copy of his book," he said.
-
-When the television presenter asked whether he had read the digital version of Gotabaya's book, Basil Rajapaksa said he had not received such a digital copy of the book till now.
-
-"I did not receive a copy of the book from the media division of the SLPP," he said.
-
-"I'm not in any anger about this book. But I came to know unofficially that Gotabaya Rajapaksa was going to write a book and was collecting details to complete it," he added.
-
-Basil Rajapaksa claimed that even Namal had bought the book from a bookshop. Then the presenter claimed that Namal could buy that book as he still claimed to be a baby.
-
-...
-
-[Data](articles/fc09d3ae.json)
-
-[Extended Data](ext_articles/fc09d3ae.ext.json)
 
 ---

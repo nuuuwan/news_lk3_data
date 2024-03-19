@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 20:51:32**
+As of **2024-03-19 21:02:51**
 
 ## Newspaper Stats
 
-*Scraped **13,906** Articles*
+*Scraped **13,908** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 727
 economynextcom | 735
 islandlk | 761
 adalk | 1,202
-adaderanalk | 1,671
+adaderanalk | 1,673
 tamilmirrorlk | 1,689
 virakesarilk | 1,945
 dailymirrorlk | 2,123
@@ -26,35 +26,65 @@ adaderanasinhalalk | 2,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,902 (100.0%) of 13,906 articles have been extended.
+13,906 (100.0%) of 13,908 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### වසරේ රූපවාහිනී නාලිකාව ලෙස TV දෙරණ ට ස්ලිම් කැන්ටා ජනතා සම්මානය
+### TV Derana becomes People’s Television Channel of the Year
+
+*2024-03-19 20:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98062/tv-derana-becomes-peoples-television-channel-of-the-year) · `en`
+
+Sri Lanka’s premium entertainment channel “TV Derana” won the People’s Television Channel of the Year Award for the 7th consecutive year at the SLIM-KANTAR People’s Awards 2024.
+
+“TV Derana” also won the award for Youth Choice TV Channel of the Year, at the ceremony which got underway at the Monarch Imperial Hotel in Sri Jayewardenepura Kotte on Tuesday evening (March 19).
+
+TV Derana’s Chatura Alwis won the award for People’s Television Presenter of the Year at the SLIM-KANTAR People’s Awards 2024. Notably, this is the 6th consecutive year the award was conferred on Alwis.
+
+People’s Awards has been one of the most looked forward-to events in the corporate calendar since its inception in 2007. The uniqueness of these awards is that they are based on consumer preferences, determined by the results of a survey rather than by a panel of experts.
+
+...
+
+[Data](articles/6e9f9ea7.json)
+
+---
+
+### Slim Canton People's Award for Tv Derana as the TV Channel of the Year
 
 *2024-03-19 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194703) · `si`
 
-මෙවර ස්ලිම් කැන්ටා ජනතා සම්මාන උළෙලේදී වසරේ තාරුණ්‍යයේ රූපවාහිනී නාලිකාව ලෙස TV දෙරණ ජනතා සම්මානයෙන් පිදුම් ලැබීය.
+TV Derana wins Slim Canton People's Award for TV Channel of the Year, awarded at TNA.
 
-මේ අතර වසරේ රූපවාහිනී නාලිකාව ලෙස ද සම්මානයට ප්‍රාත වූයේ TV දෙරණ නාලිකාවය.
+🟩
+
+The TV Channel of the Youth Television Network of the Year of the Slim Canton People's Awards was held at the TNA.
+
+In the meantime, the TV channel was also awarded the award.
 
 ◼️
 
 [Data](articles/ca8c54a3.json)
 
+[Extended Data](ext_articles/ca8c54a3.ext.json)
+
 ---
 
-### SLIM - Kantar 2024 விருது : மக்கள் மனம் விரும்பும் பத்திரிகையாக வீரகேசரி
+### Slim - Kantar 2024 Award: Weerakesari
 
 *2024-03-19 20:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179165) · `ta`
 
-வீரகேசரி பத்திரிகையானது மக்கள் மனம் விரும்பும் தமிழ் பத்திரிகையாக SLIM - Kantar 2024 விருதை வென்றுள்ளது.
+"Weerakesari magazine wins SLIM - Kantar 2024 award for Tamil newspaper."
+
+🟩
+
+The Weerakesari magazine has won the SLIM - Kantar 2024 award as the Tamil newspaper.
 
 ◼️
 
 [Data](articles/127e34f6.json)
+
+[Extended Data](ext_articles/127e34f6.ext.json)
 
 ---
 
@@ -71,6 +101,8 @@ It doesn't look like either team is going to move on from the 'timed-out' celebr
 ...
 
 [Data](articles/43912f6a.json)
+
+[Extended Data](ext_articles/43912f6a.ext.json)
 
 ---
 
@@ -89,6 +121,22 @@ TV as television announcer at the SLIM Canta People's Awards. Chatura Alwis was 
 [Data](articles/1b77beab.json)
 
 [Extended Data](ext_articles/1b77beab.ext.json)
+
+---
+
+### Derailment disrupts Coastal Line train operations
+
+*2024-03-19 19:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98061/derailment-disrupts-coastal-line-train-operations) · `en`
+
+Train operations on the Coastal Line have been disrupted by a derailment reported this evening (March 19), Ada Derana learns.
+
+According to reports, the Kalutara South-bound train had derailed near the Secretariat Station shortly after departing the Colombo Fort station at 7.15 p.m.
+
+As a result, trains plying on the Coastal Line towards Galle, Matara and Beliatta are likely to experience substantial delays or be cancelled.
+
+◼️
+
+[Data](articles/0662c596.json)
 
 ---
 
@@ -149,6 +197,8 @@ As a consequence, commuters travelling towards southern destinations can anticip
 ◼️
 
 [Data](articles/65a34109.json)
+
+[Extended Data](ext_articles/65a34109.ext.json)
 
 ---
 
@@ -2225,45 +2275,5 @@ Taking to his X handle (formerly Twitter), the NPP leader said the focus of the 
 [Data](articles/b02bdafc.json)
 
 [Extended Data](ext_articles/b02bdafc.ext.json)
-
----
-
-### Bid to install solar panels in Sri Lanka places of worship awarded to Premier Energies Ltd
-
-*2024-03-19 13:07:00* · [`economynextcom`](https://economynext.com/bid-to-install-solar-panels-in-sri-lanka-places-of-worship-awarded-to-premier-energies-ltd-155190/) · `en`
-
-ECONOMYNEXT – A project to install solar power systems in places of worship in Sri Lanka under an Indian credit line, has been awarded to M/s Premier Energies Ltd, a Cabinet statement said.
-
-17 million US dollars of a 1,000 million dollar credit line from India will be provided by the State Bank of India.
-
-Bids were called for the implementation of solar power systems in places of worship earlier this year, and 6 bids were received.
-
-A technical evaluation committee and a Cabinet procurement committee decided to award the contract to M/s Premier Energies Ltd, the statement said.
-
-Premier Energies is India’s second largest solar cell and solar module manufacturer. (Colombo/Mar19/2024)
-
-◼️
-
-[Data](articles/fddd1baf.json)
-
-[Extended Data](ext_articles/fddd1baf.ext.json)
-
----
-
-### Central Bank has no powers to increase salaries without Parliament approval: Wijeyadasa
-
-*2024-03-19 13:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-has-no-powers-to-increase-salaries-without-Parliament-approval-Wijeyadasa/108-279159) · `en`
-
-Parliament, March 19 (Daily Mirror)- The Central Bank has no powers to increase the salaries of its employees without the approval of Parliament in terms of the Constitution and the move to increase their salaries is wrong, Justice Minister Wijeyadasa Rajapakshe said today.
-
-He told Parliament that Parliament has powers over Public Finance in terms of the Constitution and that the Central Bank cannot increase the salaries of its employees without Parliamentary approval.
-
-The Minister said the claim by the Central Bank that it has the independence to take decisions in terms of the new Central Bank Act is wrong as any Act must come under the Constitution.
-
-...
-
-[Data](articles/e9645b60.json)
-
-[Extended Data](ext_articles/e9645b60.ext.json)
 
 ---

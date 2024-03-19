@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 12:33:28**
+As of **2024-03-19 12:50:16**
 
 ## Newspaper Stats
 
-*Scraped **13,781** Articles*
+*Scraped **13,785** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ economynextcom | 726
 dailyftlk | 727
 islandlk | 760
 adalk | 1,187
-adaderanalk | 1,657
+adaderanalk | 1,658
 tamilmirrorlk | 1,676
 virakesarilk | 1,922
 dailymirrorlk | 2,106
-adaderanasinhalalk | 2,189
+adaderanasinhalalk | 2,192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,777 (100.0%) of 13,781 articles have been extended.
+13,781 (100.0%) of 13,785 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### Additional day allocated for no-confidence debate against Speaker
+
+*2024-03-19 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98049/additional-day-allocated-for-no-confidence-debate-against-speaker) · `en`
+
+A decision has been taken at the meeting of the Committee on Parliamentary Business to debate the no-confidence motion brought against the Speaker of Parliament for three days instead of two days as previously decided.
+
+Accordingly, the motion of no confidence will be debated in Parliament for three consecutive days from today while the vote on the motion will be held at 4.30 p.m. on Thursday (March 21).
+
+The committee had previously decided to debate the no-confidence motion against Speaker Mahinda Yapa Abeywardena for two days on Tuesday (19) and Wednesday (20). Accordingly, the debate had commenced in Parliament this morning.
+
+The motion brought forth by the opposition against the Speaker was officially handed over to the Deputy General Secretary of Parliament on March 05.
+
+...
+
+[Data](articles/388ca413.json)
+
+---
+
+### කථානායකට එරෙහි විශ්වාසභංග විවාදයට තවත් දිනයක්
+
+*2024-03-19 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194675) · `si`
+
+කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය සඳහා තවත් දිනයක් ලබාදීමට පාර්ලිමේන්තු කටයුතු පිළිබඳව කාරක සභාව තීරණය කර ඇත.
+
+ඒ අනුව එළඹෙන 21 වන බ්‍රහස්පතින්දා දිනයේ ද කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය පැවැත්වෙනු ඇත.
+
+එසේම එහිදී වැඩිදුරටත් තීරණය කර ඇත්තේ ගොවීන්ගේ වී මිලදී ගැනිම සම්බන්ධ ගැටලු පිළිබඳව සභාව කල්තැබීමේ විවාදය 22වන සිකුරාදා දහවල් 12.30 සිට පස්වරු 6.00 දක්වා පැවැත්වීමටය.
+
+කථානායකවරයාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය අද (19) පාර්ලිමේන්තුවේදී ආරම්භ විය.
+
+ඒ අනුව එළඹෙන 21 වන බ්‍රහස්පතින්දා පස්වරු 4.30ට කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ ඡන්ද විමසීම පැවැත්වෙනු ඇත.
+
+◼️
+
+[Data](articles/e397d015.json)
+
+---
 
 ### Party leaders decide on three-day debate on no-faith motion on Speaker
 
@@ -47,6 +85,8 @@ It was earlier scheduled to have a two-day debate and take up the vote tomorrow.
 ◼️
 
 [Data](articles/eb77a283.json)
+
+[Extended Data](ext_articles/eb77a283.ext.json)
 
 ---
 
@@ -72,6 +112,8 @@ In their first conversation in a month, US President Joe Biden told Israeli Prim
 
 [Data](articles/addea1a6.json)
 
+[Extended Data](ext_articles/addea1a6.ext.json)
+
 ---
 
 ### Senior Hamas military leader killed in Israeli air strike - US reports
@@ -96,6 +138,46 @@ In their first conversation in a month, US President Joe Biden told Israeli Prim
 
 [Data](articles/f9e2eb27.json)
 
+[Extended Data](ext_articles/f9e2eb27.ext.json)
+
+---
+
+### අනුර, ජපාන තානාපති හමුවෙයි
+
+*2024-03-19 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194674) · `si`
+
+ශ්‍රී ලංකාවේ ජපාන තානාපති මිසුකෝෂි හිඩෙකි මහතා සහ ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා අතර හමුවක් අද (19) පෙරවරුවේ ජවිපෙ ප්‍රධාන කාර්යාලයේදී සිදුව තිබිණි.
+
+මෙම හමුව සඳහා ජපාන තානාපති කාර්යාලයේ නියෝජ්‍ය ප්‍රධානි Katsuki Kotaro මහතා සහ දෙවැනි ලේකම් Imai Kaori මහත්මියද ජාතික ජන බලවේගයේ ජාතික විධායක සභික විජිත හේරත් මහතා ද එක්ව සිටියහ.
+
+ශ්‍රී ලංකාවේ මේ වන විට පවතින ආර්ථික අර්බුදය සහ දේශපාලන තත්ත්වය දීර්ඝ ලෙස දෙපාර්ශ්වයේ සාකච්ඡාවට බඳුන් වී ඇති අතර,  එළැඹෙන ජනාධිපතිවරණය පිළිබඳවද අවධානය යොමුව තිබේ.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ මැදිහත්වීම් පිළිබඳව ජාතික ජන බලවේගයේ ස්ථාවරය ජපාන රාජ්‍යතාන්ත්‍රික නියෝජිතයින්ට මෙහිදී පැහැදිලි කර දී ඇති අතර, ඉදිරියටද ශ්‍රී ලංකාවේ ආයෝජන සිදුකිරීමට ජපානයේ ඇති සූදානම ජපාන නියෝජිත පිරිස විසින් අවධාරණය කර ඇත.
+
+◼️
+
+[Data](articles/a45232e4.json)
+
+---
+
+### ලිංගිකත්ව අධ්‍යාපනය සංවර්ධනයට අතිරේක කියවීම් පොත්
+
+*2024-03-19 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194673) · `si`
+
+පාසල් සිසුන්ගේ ලිංගිකත්ව අධ්‍යාපනය ඉහළ නැංවීම සඳහා ක්‍රමවේද රැසක් ක්‍රියාත්මක කර ඇති බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+
+අද පාර්ලිමේන්තුවේදී අදහස් දක්වමින් අධ්‍යාපන අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ අධ්‍යාපන අමාත්‍යවරයා සඳහන් කළේ මේ සඳහා අතිරේක කියවීම් පොත් 4ක් පාසල් පුස්තකාල වෙත ලබාදී ඇති බවය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා,
+
+අධ්‍යාපන ප්‍රකාශන දෙපාර්තමේන්තුව විසින් උසස්පෙළ සිසුන් සඳහා "16+ යෞවනයට ආමන්ත්‍රණය" නමින් ලිංගිකත්ව අධ්‍යාපනය පිළිබඳව අතිරේක කියවීම් පොතක් පාසල් පුස්තකාල සඳහා සකස් කර බෙදාහැර ඇත. ඊළඟට අධ්‍යාපන අමාත්‍යාංශය මගින් 6 සිට ඉහළ ශ්‍රේණිවල සිසුන් සඳහා "මල්සමය ළඟයි", 9,10,11 ශ්‍රේණි සඳහා "14+ අසිරිමත් නව යෞවනය" 6,7 ශ්‍රේණි සඳහා "12+ නව යොවුන් වියට පා තබමු" ලෙස සකස් කර ඇති අතිරේක කියවීම් පොත් මගින් ආර්ථව සෞඛ්‍ය පිළිබඳව සිසුන් දැනුවත් කිරීම සහ E තක්සලාව මගින් අධ්‍යාපන අමාත්‍යාංශය වෙබ් පිටුවද ඇතුළත් කර ඇත."
+
+...
+
+[Data](articles/8f1e1c4a.json)
+
 ---
 
 ### Cabinet approves import of 42 million eggs till end April
@@ -113,6 +195,8 @@ In order to import this amount of eggs, prices have been collected from Indian i
 ◼️
 
 [Data](articles/56ee676c.json)
+
+[Extended Data](ext_articles/56ee676c.ext.json)
 
 ---
 
@@ -2111,77 +2195,5 @@ It was interesting to read the reply by MP Sarath Weerasekara (https://www.ft.lk
 [Data](articles/10bf7509.json)
 
 [Extended Data](ext_articles/10bf7509.ext.json)
-
----
-
-### Wanindu Hasaranga comes out of retirement for Bangladesh Tests
-
-*2024-03-18 23:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wanindu-Hasaranga-comes-out-of-retirement-for-Bangladesh-Tests/108-279100) · `en`
-
-Colombo, Mar. 18 (Daily Mirror) - Sri Lanka Cricket has named a 17-member squad and Wanindu Hasaranga, who announced his retirement from Test cricket last year, has made a comeback for the ICC World Test Championship series against Bangladesh, commencing on March 22.
-
-Also, uncapped off-spinner Nishan Peiris has been called up to the Sri Lanka squad. The 26-year-old replaces fast bowler Milan Ratnayake from the recent Test match against Afghanistan.
-
-Hasaranga, the leg-spinning all-rounder joins a formidable spin bowling lineup alongside Prabath Jayasuriya, Ramesh Mendis, and all-rounders Nishan Peiris and Kamindu Mendis.
-
-Sri Lanka has added fast bowler Lahiru Kumara to the squad, replacing the injured Asitha Fernando. Kumara, boasting 74 wickets in 26 matches, last represented Sri Lanka in March 2023 against England. His return strengthens Sri Lanka’s seam attack, joining Vishwa Fernando, Kasun Rajitha and Chamika Gunasekera.
-
-...
-
-[Data](articles/3f850cb1.json)
-
-[Extended Data](ext_articles/3f850cb1.ext.json)
-
----
-
-### Political parties good for democracy; but not cults, fiefdoms and extremists
-
-*2024-03-18 23:15:47* · [`dailyftlk`](https://www.ft.lk/columns/Political-parties-good-for-democracy-but-not-cults-fiefdoms-and-extremists/4-759636) · `en`
-
-Although there is growing public disillusionment with party politics in a democracy and a renewed cry for a different system of governance, the majority support for party politics remains
-
-Whilst there has been no grave damage to Sri Lanka’s democracy, to date, because of the activities of political parties, there are tell-tale signs of the emergence of cunning, ambitious and unprincipled men who are using party power in testing the limits of the Constitution. The voting citizens must be wary of such moves. Dissociation from cults of personality and fiefdoms is a must. Political parties are essential institutions of democracy
-
-The heading in the Daily Mirror of 18 March 2024, “Public Trust in Parliament and Political Parties Reaches All Time Low”, begs the question of the appropriateness, and efficacy, of political parties in democratic Sri Lanka. Further, the lack of consensus among political parties in most matters heightens these concerns.
-
-...
-
-[Data](articles/37e0516a.json)
-
-[Extended Data](ext_articles/37e0516a.ext.json)
-
----
-
-### Three ways boards can drive data centricity
-
-*2024-03-18 23:00:28* · [`dailyftlk`](https://www.ft.lk/columns/Three-ways-boards-can-drive-data-centricity/4-759633) · `en`
-
-How do data-centric enterprises set themselves apart from their peers?
-
-Boards can help companies accelerate the shift toward the next generation of data and analytics for a competitive advantage
-
-Organisations are entering a new frontier of data and analytics, which will drive pivotal decisions, processes and interactions. Unsurprisingly, more than half (57%) of Asia-Pacific senior executives in the 2022 biannual EY study, Tech Horizon, identified data and analytics as their top investment priority in the next two years, up from 31% in 2020. What’s more, tech-enabled transformations in the region that exceed expectations are predicted to yield an average annual revenue growth of 6.2%, compared with 5.4% for transformations that fall short of expectations.
-
-...
-
-[Data](articles/0720727a.json)
-
-[Extended Data](ext_articles/0720727a.ext.json)
-
----
-
-### Mitigating climate-related sovereign risk to accelerate action on the climate emergency
-
-*2024-03-18 22:56:27* · [`dailyftlk`](https://www.ft.lk/opinion/Mitigating-climate-related-sovereign-risk-to-accelerate-action-on-the-climate-emergency/14-759632) · `en`
-
-https://www.asiapathways-adbi.org: Climate change poses a serious threat to the development of countries and can have material impacts on sovereign risk. Sovereign risk refers to the probability that a country may not be able to pay its debts. However, since the global financial crisis, interactions between fiscal balances, public and private debt, and the financial sector have proven to be very complex. Sovereign risk reflects this complexity.
-
-For example, the devastating floods in Pakistan in 2022 were caused by heavier-than-usual monsoon rains and faster melting of glaciers. They killed more than 1,700 people, left half a million homeless, and cost around $30 billion. The events led to Moody’s revising downward Pakistan’s sovereign credit rating by one notch, citing amplified liquidity and debt sustainability risks alongside falling foreign exchange reserves.
-
-...
-
-[Data](articles/ddece55d.json)
-
-[Extended Data](ext_articles/ddece55d.ext.json)
 
 ---

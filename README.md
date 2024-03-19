@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 17:53:47**
+As of **2024-03-19 18:09:16**
 
 ## Newspaper Stats
 
-*Scraped **13,876** Articles*
+*Scraped **13,879** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 727
 economynextcom | 735
 islandlk | 761
 adalk | 1,198
-adaderanalk | 1,666
-tamilmirrorlk | 1,687
+adaderanalk | 1,667
+tamilmirrorlk | 1,689
 virakesarilk | 1,938
 dailymirrorlk | 2,118
 adaderanasinhalalk | 2,211
@@ -26,11 +26,47 @@ adaderanasinhalalk | 2,211
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,869 (99.9%) of 13,876 articles have been extended.
+13,876 (100.0%) of 13,879 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### ”200 மதுபான கடைகளைத் திறக்க அரசாங்கம் திட்டமிட்டுள்ளது”
+
+*2024-03-19 17:54:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/200-மதுபான-கடைகளைத்-திறக்க-அரசாங்கம்-திட்டமிட்டுள்ளது/175-334895) · `ta`
+
+FL4 பிரிவின் கீழ் 200 மதுபான நிலையங்களை திறப்பதற்கான அனுமதிப்பத்திரம் வழங்க அரசாங்கம் திட்டமிட்டுள்ளதாகவும் அவற்றில் 15 அனுமதிப்பத்திரங்கள் ஏற்கனவே வழங்கப்பட்டுள்ளதாகவும் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று பாராளுமன்றத்தில் குற்றம் சுமத்தியுள்ளார்.
+
+200 மதுபான கடைகளுக்கு உரிமம் வழங்க முடிவு எடுக்கப்பட்டுள்ளதா, அதில் 15 மதுக்கடைகளுக்கு ஏற்கனவே உரிமம் வழங்கப்பட்டுள்ளதா என்பதை அரசு வெளியிட வேண்டும் என்று அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+
+தேர்தலை இலக்காகக் கொண்டு ஏற்கனவே ஆறு மதுபான உற்பத்தி உரிமங்கள் வழங்கப்பட்டுள்ளதாகவும் பிரேமதாச தெரிவித்தார்.
+
+கலால் திணைக்களத்தின் புதிய ஆணையாளர் நாயகம் எம்.ஜே.குணசிறியின் அனுமதியின் கீழ் இந்த நடவடிக்கை மேற்கொள்ளப்படுவதாக அவர் கூறினார்.
+
+அரசாங்கம் நடைமுறையில் உள்ள சட்ட கட்டமைப்பிற்கு புறம்பாக செயற்படவில்லை எனவும், சரியான முறையில் கேள்வி எழுப்பினால் முழுமையான பதில் வழங்கப்படும் எனவும் நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/bd02ef25.json)
+
+---
+
+### ”சம்பளத்தை அதிகரிக்க மத்திய வங்கிக்கு அதிகாரம் இல்லை”
+
+*2024-03-19 17:48:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளத்தை-அதிகரிக்க-மத்திய-வங்கிக்கு-அதிகாரம்-இல்லை/175-334894) · `ta`
+
+அரசியலமைப்பின் பிரகாரம் பாராளுமன்றத்தின் அனுமதியின்றி ஊழியர்களின் சம்பளத்தை அதிகரிப்பதற்கு மத்திய வங்கிக்கு அதிகாரம் இல்லை எனவும் அவர்களின் சம்பளத்தை அதிகரிப்பதற்கான நடவடிக்கை தவறானது எனவும் நீதியமைச்சர் விஜயதாச ராஜபக்ச தெரிவித்துள்ளார்.
+
+அரசியலமைப்பின் பிரகாரம் பொது நிதி தொடர்பில் பாராளுமன்றத்திற்கு அதிகாரம் உள்ளதாகவும் பாராளுமன்றத்தின் அனுமதியின்றி மத்திய வங்கி தனது ஊழியர்களின் சம்பளத்தை அதிகரிக்க முடியாது எனவும் அவர் பாராளுமன்றத்தில் தெரிவித்தார்.
+
+புதிய மத்திய வங்கிச் சட்டத்தின் அடிப்படையில் தீர்மானங்களை எடுக்க தமக்கு சுதந்திரம் இருப்பதாக தெரிவிக்கும் மத்திய வங்கியின் கூற்று தவறானது எனவும்  எந்தவொரு சட்டமும் அரசியலமைப்பின் கீழ் வர வேண்டும் எனவும் அமைச்சர் மேலும் கூறினார்.
+
+...
+
+[Data](articles/2b942130.json)
+
+---
 
 ### SriLankan is back on a technical fault
 
@@ -76,15 +112,37 @@ The Sri Lanka Customs said that the two persons were diagnosed at the Green Chan
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### MPs Shanakiyan and Hesha also resign from COPE
+
+*2024-03-19 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98058/mps-shanakiyan-and-hesha-also-resign-from-cope) · `en`
+
+TNA parliamentarian Shanakiyan Rasamanickam and SJB MP Hesha Withanage have also resigned from the Committee on Public Enterprises (COPE).
+
+This brings the total number of opposition members who have quit the parliamentary committee thus far to six.
+
+SJB parliamentarian Eran Wickramaratne resigned from COPE yesterday while MPs Dayasiri Jayaseka, S.M. Marikkar and former COPE chairman Prof. Charitha Herath announced their decision to resign earlier today.
+
+◼️
+
+[Data](articles/9ed0594a.json)
+
+---
+
+### Today's currency exchange rate
 
 *2024-03-19 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179152) · `ta`
 
-இன்று செவ்வாய்க்கிழமை (மார்ச் 19) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 299.2940 ஆகவும் விற்பனை விலை ரூபா 308.9065 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+Today's US $299.2940 = Rs.
+
+🟩
+
+The US $ 299.2940 is Rs.
 
 ◼️
 
 [Data](articles/7dcb53b7.json)
+
+[Extended Data](ext_articles/7dcb53b7.ext.json)
 
 ---
 
@@ -110,15 +168,21 @@ The Commissioner said that the Indian Government has designated Sri Lanka as the
 
 ---
 
-### மரிக்காரும் விலகிவிட்டார்
+### Marikar also quit
 
 *2024-03-19 16:55:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரிக்காரும்-விலகிவிட்டார்/175-334893) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின்  பாராளுமன்ற உறுப்பினர் எஸ்.எம்.மரிக்கார் பொது நிறுவனங்கள் தொடர்பான பாராளுமன்ற  (கோப்) குழுவின் உறுப்புரிமையில் இருந்து விலகியுள்ளார்.
+SM Marikar, a United People's Power Member, has resigned from the Parliament (COP) Committee on Public Organizations.
+
+🟩
+
+United People's Power Member SM Marikar has withdrawn from the membership of the Parliament (COP) Committee on Public Organizations.
 
 ◼️
 
 [Data](articles/4b29b8c5.json)
+
+[Extended Data](ext_articles/4b29b8c5.ext.json)
 
 ---
 
@@ -162,19 +226,25 @@ In order to help maintain the nutritional level of the identified low-income ear
 
 ---
 
-### ரூ.10 கோடி  பெறுமதியான   தங்க நகைகள் சிக்கின
+### Gold jewelery worth Rs 10 crore
 
 *2024-03-19 16:47:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-10-கோடி-பெறுமதியான-தங்க-நகைகள்-சிக்கின/175-334892) · `ta`
 
-கட்டுநாயக்க விமான நிலையத்தில் 10 கோடி ரூபாவிற்கும் அதிகமான பெறுமதியான நகைகளுடன் டுபாயிலிருந்து வந்த இரு பயணிகளை இலங்கை சுங்க கண்காணிப்பு பிரிவினர் செவ்வாய்க்கிழமை (19) கைது செய்துள்ளனர் என  சுங்க ஊடகப் பேச்சாளரான சிரேஷ்ட சுங்க பணிப்பாளர்  சிவலி அருங்கொட தெரிவித்தார்.
+Sri Lankan Customs arrested two Dubai passengers at Katunayake airport for smuggling gold jewelry worth over Rs 10 crore. The jewelry was hidden in liquor bottles.
 
-மதுபான போத்தல்களை அகற்றி வெளிநாட்டு மதுபான போத்தல்கள் போன்று தோற்றமளிக்கும் வகையில் பெட்டிகளில் பொதியிட்டு விமான நிலையத்திற்கு வெளியே எடுத்துச் செல்ல முற்பட்ட போதே குறித்த நகைகள் கைப்பற்றப்பட்டதாக அருங்கொட தெரிவித்தார்.
+🟩
 
-இரண்டு பயணிகளும் அம்பலாங்கொடை மற்றும் யாழ்ப்பாணம் பிரதேசங்களை வசிப்பவர்கள் என்றும் தெரிவித்த அருங்கொட,மேலதிக விசாரணைகள் முன்னெடுக்கப்படுகின்றன என்றார்.
+Senior Customs Customs Director Sivali Turungoda said that the Sri Lankan Customs Monitoring Unit had arrested two passengers from Dubai on Tuesday (19) with jewelery worth over Rs 10 crore at Katunayake airport.
+
+He said that the jewelery was seized when the liquor bottles were removed and looked like foreign liquor bottles.
+
+The two passengers are residents of Ambalangoda and Jaffna areas.
 
 ◼️
 
 [Data](articles/03f355e6.json)
+
+[Extended Data](ext_articles/03f355e6.ext.json)
 
 ---
 
@@ -750,21 +820,27 @@ The plantation people have called for the Ceylon Electricity Board's regional te
 
 ---
 
-### தீயை பார்த்தவர் மயங்கிவிழுந்து மரணம்
+### The man who saw the fire fell unconscious
 
 *2024-03-19 15:16:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தீயை-பார்த்தவர்-மயங்கிவிழுந்து-மரணம்/76-334889) · `ta`
 
-பூண்டுலோயா பொலிஸ் பிரிவுக்கு உட்பட்ட சீன் தோட்ட மேற் பிரிவில் அதிர்ச்சிக்கு உள்ளாகி தரையில் விழுந்த நபர் ஒருவர் உயிரிழந்துள்ளார்.
+A man, Subbaiah Shanmugam, 58, died after being shocked by power lines in Punduloya. Investigations revealed the incident occurred in a residential area.
 
-தான் வசிக்கும் இலக்கம் நான்கு தொடர் குடியிருப்பு வீட்டு பகுதியில் உள்ள மின் கம்பத்தில் திடீரென மின் இணைப்பு வயர்கள் தீப்பிடித்து எரிவதை பார்த்து அதிர்ச்சி அடைந்த நபர் திடீரென தரையில் வீழ்ந்து உயிரிழந்ததாக விசாரணையில் தெரியவந்துள்ளது.
+🟩
 
-ஞாயிற்றுக்கிழமை (17) மாலை இடம்பெற்ற இந்த சம்பவத்தில் சுப்பையா சண்முகம் (வயது 58) என்பவர் உயிரிழ்ழுள்ளதாக விசாரணைகளை மேற்கொண்டு வரும் பூண்டுலோயா பொலிஸார் தெரிவித்தனர்.
+A man who fell on the ground after being shocked by the Sean Estate Division, which belongs to the Punduloya police division, has died.
 
-சீன் மேல் பிரிவு தோட்டத்தில் மின் இணைப்பு வயர்கள் அடிக்கடி தீப்பிடிப்பதாக தெரிவிக்கும் தோட்ட மக்கள் இத் தோட்டத்தில் தொடர் குடியிருப்புகள் அருகில் காணப்படும் மின் கம்பங்களில் மின் கசிவுகள் மற்றும் இணைப்பு வயர்கள் தொடர்பில் இலங்கை மின்சார சபை பிராந்திய தொழிநுட்ப அதிகாரிகள் பார்வையிட்டு சீர்த்திருத்த நடவடிக்கை எடுக்க வேண்டுமென மக்கள் கோரிக்கை விடுத்துள்ளனர்.
+Investigations have revealed that the person who was shocked to see the power lines were burning in the power pole in the four -serial residential area of the four -wheeler.
+
+Punduloya police said that Subbaiah Shanmugam (58 years old) was killed in the incident which took place on Sunday evening (17).
+
+The plantation people have called for the Ceylon Electricity Board's regional technology officials to visit the Ceylon Electricity Board on electrical leaks and connectivity wires in the plantation of the plantation.
 
 ◼️
 
 [Data](articles/e4b27dd1.json)
+
+[Extended Data](ext_articles/e4b27dd1.ext.json)
 
 ---
 
@@ -786,17 +862,23 @@ Speaker Mahinda Yapa Abeywardena has sent the letter to resign from the Member o
 
 ---
 
-### O/L பரீட்சை நேரசூசி வெளியானது
+### O/L Examination Released
 
 *2024-03-19 15:01:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சை-நேரசூசி-வெளியானது/175-334888) · `ta`
 
-2024 ஆம் ஆண்டுக்கான க.பொ.த சாதாரண தர பரீட்சை மே மற்றும் ஜூன் மாதங்களில் நடைபெறும் என அறிவிப்பட்டிருந்தது.
+The GCE Ordinary Level Examination for 2024 timetable was released in May and June.
 
-இந்த நிலையில், தற்போது குறித்த பரீட்சைக்கான நேர அட்டவணையை கல்வி அமைச்சு வெளியிட்டுள்ளது. R
+🟩
+
+The GCE Ordinary Level Examination for 2024 was announced in May and June.
+
+In this case, the Ministry of Education has released the timetable for the examination. Remble
 
 ◼️
 
 [Data](articles/90a81046.json)
+
+[Extended Data](ext_articles/90a81046.ext.json)
 
 ---
 
@@ -1336,21 +1418,27 @@ The transformative change in education is expected to prepare children who leave
 
 ---
 
-### පිරිපහදුව තෙල් සංස්ථාවෙන් ගලවයි
+### Refinery saves from the oil corporation
 
 *2024-03-19 13:35:21* · [`adalk`](https://www.ada.lk/breaking_news/පිරිපහදුව-තෙල්-සංස්ථාවෙන්-ගලවයි/11-408700) · `si`
 
-ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව යටතේ පවතින සපුගස්කන්ද තෙල් පිරිපහදුව ඉන් ඉවත් කර‌ වෙනමම රාජ්‍ය ව්‍යවසායක් වශයෙන් ‌පවත්වාගෙන යාමට විදුලි බල හා බලශක්ති අමාත්‍ය කංචන විජේසෙකර මහතා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවට අනුමැතිය හිමිව තිබේ.
+The Ceylon Petroleum Corporation approved the Cabinet paper for the Sapugaskanda Refinery, Sri Lanka's only petroleum refinery, established in 1969 to meet 25% of the country's petroleum demand. The government plans to invest an additional 25 years to implement this refinery as a government-owned enterprise.
 
-ශ්‍රී ලංකාවේ පවතින එකම ඉනධන පිරිපහදුව වන සපුගස්කන්ද පිරිපහදුව 1969 වසරේදී ඉදිකර ඇති අතර පිරිපහදු කළ ඛණිජ තෙල් ඉල්ලුමෙන් සියයට 25ක් පමණ එමගින් සපුරයි.
+🟩
 
-මෙම පිරිපහදුව යාවත්කාලීන කර තවත් වසර 25ක පමණ කාලයක් ක්‍රියාත්මක කිරීම වෙනුවෙන් සුදුසු ආයෝජනයක් කිරීම රජය විසින් හඳුනාගෙන තිබේ.
+The Cabinet paper, Minister of Power and Energy, has been approved by the Ceylon Petroleum Corporation.
 
-එම දේශීය හා විදේශීය ආයෝජනයන් පුද්ගලික අංශයෙන් ලබා ගත හැකි වන පරිදි මෙසේ සපුගස්කන්ද පිරිපහදුව රජය යටතේ පවතින වෙනම ව්‍යවසායක් ලෙස ස්ථාපිත කිරීමට කැබිනට් මණ්ඩලයේ අනුමැතිය ලැබී තිබේ.
+The Sapugaskanda Refinery, the only capital of Sri Lanka, has been constructed in 1969 and 25 percent of refined petroleum demand.
+
+The government has identified a suitable investment for the implementation of this refinery and investing an additional investment for about 25 years.
+
+The Cabinet approval has been granted to establish the Sapugaskanda refinery as a separate enterprise under the government.
 
 ◼️
 
 [Data](articles/51e29d07.json)
+
+[Extended Data](ext_articles/51e29d07.ext.json)
 
 ---
 
@@ -2171,85 +2259,5 @@ Parliamentarian Charles Nirmalanathan, who said that the eight arrested were rel
 [Data](articles/fcce7e9d.json)
 
 [Extended Data](ext_articles/fcce7e9d.ext.json)
-
----
-
-### A change in Members of Parliament
-
-*2024-03-19 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194671) · `si`
-
-The government aims to reform the electoral system through the Regulation of the Election Test Act No. 3 of 2023, with a Cabinet Sub-Committee tasked to recommend changes. The proposal involves electing 160 MPs for a national and provincial electoral system, with voter turnout being the preferred choice. The Justice and Constitutional Reforms Cabinet has approved the proposal for legal revision.
-
-🟩
-
-The government says the need to change the existing electoral system has been identified as the objectives of the Regulation of the Election Test Act No. 3 of the 33 of 2023 and to achieve a democratic election.
-
-A Cabinet Sub-Committee has been appointed to submit a report with the recommendations with all party leaders and other relevant parties representing Parliament.
-
-According to the new proposal, 160 MPs have to elect a national and provincial electoral system, and the majority has agreed to choose the voter turnover.
-
-The proposal made by the Cabinet of Justice and Constitutional Reforms had been approved by the Cabinet of Justice and Constitutional Reforms to advise the necessary legal assistance to revise the electoral system.
-
-◼️
-
-[Data](articles/fbb16512.json)
-
-[Extended Data](ext_articles/fbb16512.ext.json)
-
----
-
-### Gintle's case and complaints withdraw gin antima
-
-*2024-03-19 10:57:23* · [`adalk`](https://www.ada.lk/breaking_news/ජින්-ඇන්ටිගේ-නඩුව-සහ-පැමිණිලි--ජින්-ඇන්ටිම-ඉල්ලා-අස්කරගනියි/11-408692) · `si`
-
-Gintle's case against her husband was withdrawn after complaints. The case involved theft, but the suspect pleaded guilty, leading to the case's dismissal.
-
-🟩
-
-The case has been taken up against her husband's case against her husband in front of her husband in front of her husband in the past Northy of Rs.The complainant Jinntio was asked that the case would not be taken up with the case.
-
-Further, Jinniti said that the complaint has been made to the Endarmulla Police. The magistrate said that the case was in connection with theft, so it could not be settled.
-
-Since the suspect had then pleaded guilty to the suspect, the magistrate was asserted to the suspect her husband and released the case.
-
-◼️
-
-[Data](articles/63cad2e8.json)
-
-[Extended Data](ext_articles/63cad2e8.ext.json)
-
----
-
-### Israeli's actions targeting journalists - Israeli soldiers arrested and tortured by Al Jazeera journalist in Gaza
-
-*2024-03-19 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179096) · `ta`
-
-Israeli soldiers arrested and tortured Al Jazeera journalists in Gaza, including at Alziba Hospital, where they destroyed media equipment. After 12 hours, the journalists were released, with one noting Israeli soldiers' nakedness and threats.
-
-🟩
-
-Israeli soldiers arrested Al Jazeera journalist in Gaza have released him after 12 hours.
-
-Israeli soldiers arrested a journalist at Gaza's Alziba Hospital have severely attacked him.
-
-Alziba's Alkool and Alkool had gone to the hospital with fellow journalists to make a news report on Israel's action for the fourth time.
-
-Eyewitnesses said that the Israeli brigade had dragged the Al Jazeera's journalist and destroyed his media equipment.
-
-The Al Jazeera journalist said after his release, the other journalists were arrested in the room for journalists.
-
-He also noted that Israeli soldiers who tied their hands into the eyes of journalists were naked.
-
-He said that Israeli soldiers warned that if someone was shot, he said that some of my colleagues were released.
-
-The Alsiba Hospital is a site for reporters who publish news about Israel's attacks on Gaza for the past five months.
-
-Al Jazeera's other reporter Honey Mahmood said that they were arrested and tortured by Al Jazeera.
-
-◼️
-
-[Data](articles/ca4d09e8.json)
-
-[Extended Data](ext_articles/ca4d09e8.ext.json)
 
 ---

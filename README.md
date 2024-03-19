@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 23:33:33**
+As of **2024-03-19 23:52:21**
 
 ## Newspaper Stats
 
-*Scraped **13,928** Articles*
+*Scraped **13,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,205
 adaderanalk | 1,678
 tamilmirrorlk | 1,691
 virakesarilk | 1,948
-dailymirrorlk | 2,128
+dailymirrorlk | 2,129
 adaderanasinhalalk | 2,220
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,926 (100.0%) of 13,928 articles have been extended.
+13,928 (100.0%) of 13,929 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,29 +48,53 @@ South Asia is home to many development innovations, including in the delivery of
 
 [Data](articles/de6b5e91.json)
 
+[Extended Data](ext_articles/de6b5e91.ext.json)
+
 ---
 
-### இலங்கையில் 40 வீதமான பெண்கள் ஆபத்தில் உள்ளனர்
+### 40 percent of women in Sri Lanka are at risk
 
 *2024-03-19 23:04:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-40-வீதமான-பெண்கள்-ஆபத்தில்-உள்ளனர்/175-334897) · `ta`
 
-தற்போதைய பொருளாதார நெருக்கடியால் இலங்கையில் சுமார் 40 தமான பெண்கள் விடாய்க்கால அணையாடை (சானிட்டரி நாப்கின்கள்)  பாவனையை நிறுத்தியுள்ளதாக அண்மையில் மேற்கொள்ளப்பட்ட ஆய்வில் தெரியவந்துள்ளது.
+A study shows 40% of Sri Lankan women have stopped using sanitary napkins due to economic crisis, leading to health concerns. Prices have risen by 90% for domestic and 30% for imported goods, affecting families and causing health issues.
 
-சானிட்டரி நாப்கின்களின் விலை அதிகரிப்பு காரணமாக குறிப்பிட்ட நாட்களில் மாணவிகளின் பாடசாலை வருகையும் குறைந்துள்ளதாக இலங்கை ஆசிரியர் சங்கம் தெரிவித்துள்ளது.
+🟩
 
-15 முதல் 47 வயதுக்குட்பட்ட பெண்களில் 40 சதவீதம் பேர் சானிட்டரி நாப்கின் யன்படுத்துவதை நிறுத்தியுள்ளதாக கணக்கெடுப்பில் தெரியவந்துள்ளது.
+A recent study has revealed that about 40 women in Sri Lanka have stopped the use of the Sanitary Napkins due to the current economic crisis.
 
-இதற்கு முக்கியக் காரணம் சானிட்டரி நாப்கின்களுக்கு அதிக விலை கொடுக்க வேண்டியிருப்பதே என ஆய்வில் தெரியவந்துள்ளது.
+The Sri Lanka Teachers Association has said that the school's visit to the students on a certain day due to the increase in the price of sanitary napkins.
 
-உள்நாட்டு சானிட்டரி நாப்கின்களின் விலை 90% மற்றும் இறக்குமதி செய்யப்படும் பொருட்களின் விலை 30% உயர்த்தப்பட்டுள்ளது.
+According to the survey, 40 percent of women between the ages of 15 and 47 have stopped the offering of sanitary napkin.
 
-சானிட்டரி நாப்கின்களின் விலை உயர்வால் தங்கள் குழந்தைகள் மிகுந்த சிரமத்திற்கு ஆளாகியுள்ளதாக     தாய்மார்கள் தெரிவித்தனர்.
+The main reason for this is that the sanitary napkins have to pay higher prices.
 
-இவ்விடயத்தில் அதிக கவனம் செலுத்தாவிடின் பெண்கள் உடல்நலப் பிரச்சினைகளை எதிர்நோக்க நேரிடும் என வைத்தியர்கள் சுட்டிக்காட்டுகின்றனர். R
+The price of domestic sanitary napkins has been increased by 90% and the prices of imported goods have been increased by 30%.
+
+Mothers said their children were in great difficulty due to the rise in the price of sanitary napkins.
+
+Doctors point out that women will face health problems if they do not pay much attention to this.. Remble
 
 ◼️
 
 [Data](articles/8c670f62.json)
+
+[Extended Data](ext_articles/8c670f62.ext.json)
+
+---
+
+### Lankadeepa clinches Most Popular Newspaper award again
+
+*2024-03-19 22:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Lankadeepa-clinches-Most-Popular-Newspaper-award-again/110-279178) · `en`
+
+Our sister papers Daily Lankadeepa and the Sunday Lankadeepa won the 'Most Popular Newspaper' award for the 18th consecutive year at the ‘SLIM- KANTAR Peoples Award 2024’ being held at the Monarch Imperial, Sri Jayawardenapura Kotte.
+
+The awards ceremony was organised by the Sri Lanka Institute of Marketing (SLIM) together with Kantar, Sri Lanka.
+
+Janaka Rathnakumara, the Chief Operating Officer of Wijeya Group of Companies, Ajantha Kumara Agalakada, Editor of the Daily Lankadeepa and various sectional heads of Wijeya Newspapers at the event.
+
+◼️
+
+[Data](articles/0833159c.json)
 
 ---
 
@@ -2217,23 +2241,5 @@ In the future, every child in the country will be provided with the necessary ba
 [Data](articles/283eed1d.json)
 
 [Extended Data](ext_articles/283eed1d.ext.json)
-
----
-
-### Letter of fertilizer subsidy
-
-*2024-03-19 14:21:24* · [`adalk`](https://www.ada.lk/breaking_news/පොහොර-සහනාධාරය-යලටත්-දෙයි/11-408702) · `si`
-
-The government has approved a fertilizer subsidy of Rs. 2000 per farmer, to be directly credited to their accounts.
-
-🟩
-
-The Cabinet approval has been given to two weight of Rs.. The government announces that this money is directly credited to farmers.
-
-◼️
-
-[Data](articles/fd274485.json)
-
-[Extended Data](ext_articles/fd274485.ext.json)
 
 ---

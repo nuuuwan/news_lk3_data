@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 22:05:57**
+As of **2024-03-19 22:17:47**
 
 ## Newspaper Stats
 
-*Scraped **13,917** Articles*
+*Scraped **13,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,73 @@ dailyftlk | 727
 economynextcom | 735
 islandlk | 761
 adalk | 1,205
-adaderanalk | 1,675
+adaderanalk | 1,676
 tamilmirrorlk | 1,690
-virakesarilk | 1,946
-dailymirrorlk | 2,125
+virakesarilk | 1,947
+dailymirrorlk | 2,126
 adaderanasinhalalk | 2,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,915 (100.0%) of 13,917 articles have been extended.
+13,917 (100.0%) of 13,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### காங்கேசன்துறை துறைமுக அபிவிருத்திக்கு இந்தியாவிடமிருந்து நிதி
+### Customs employees temporarily call of trade union action
 
-*2024-03-19 21:39:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காங்கேசன்துறை-துறைமுக-அபிவிருத்திக்கு-இந்தியாவிடமிருந்து-நிதி/175-334896) · `ta`
+*2024-03-19 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98064/customs-employees-temporarily-call-of-trade-union-action) · `en`
 
-காங்கேசன்துறை துறைமுகத்தை முழுமையாக அபிவிருத்தி செய்வதற்கு 61.5 மில்லியன் அமெரிக்க டொலர் நிதியுதவியை வழங்க இந்திய அரசாங்கம் இணக்கம் தெரிவித்துள்ளது.
+Sri Lanka Customs Officers’ Union has decided to temporarily call off its trade union action following a discussion with Finance State Minister Ranjith Siyambalapitiya.
 
-இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா மற்றும் துறைமுகங்கள், கப்பல்துறை, விமான சேவைகள் அமைச்சர் நிமல் சிறிபால டி சில்வா இடையிலான சந்திப்பில் இந்த விடயம் தெரிவிக்கப்பட்டுள்ளது.
+◼️
 
-இந்த அபிவிருத்தி திட்டத்தின் கீழ் பாரிய அளவிலான கப்பல்கள் மற்றும் படகுகள் உள்நுழைவதற்கு ஏற்ற வகையில் துறைமுகம் 30 மீட்டர் ஆழப்படுத்தப்படவுள்ளதுடன், புதிய அலைதாங்கியை நிர்மாணிக்கவும் திட்டமிடப்பட்டுள்ளது.
+[Data](articles/dbc3d1f2.json)
 
-இந்திய சுற்றுலாப் பயணிகளின் வசதிக்காக 600 மில்லியன் ரூபா செலவில் காங்கேசன்துறை துறைமுகத்தில் புதிய பயணிகள் முனையம் நிர்மாணிக்கப்பட்டதாகவும் கடந்த 9 மாதங்களில் பாரிய அளவிலான சுற்றுலாப் பயணிகள் நாட்டிற்கு வருகை தந்துள்ளதாகவும் அமைச்சர் நிமல் சிறிபால டி சில்வா இதன்போது குறிப்பிட்டுள்ளார்.
+---
+
+### கிழக்கின் முழுமையான அபிவிருத்தியின் மூலம் நாட்டின் கடன் நெருக்கடியைத் தீர்க்க முடியும் - கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான்
+
+*2024-03-19 22:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179168) · `ta`
+
+ஜனாதிபதியின் பணிப்புரையின் பேரில் கிழக்கு மாகாணத்தில் திட்டமிட்ட அபிவிருத்திப் பணிகளை முன்னெடுத்து வருவதாகவும், கிழக்கு மாகாணத்தை முழுமையாக அபிவிருத்தி செய்வதன் மூலம் நாட்டின் கடன் நெருக்கடியைத் தீர்க்க முடியும் எனவும் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் தெரிவித்தார்.
+
+பொருளாதார நெருக்கடியை வெற்றிகரமாக கையாண்டு, நாட்டைக் கட்டியெழுப்பக்கூடிய ஒரே தலைவர் ஜனாதிபதி ரணில் விக்ரமசிங்க என்பதால் அவருக்கு ஆதரவளிக்க வேண்டியது அனைத்து தரப்பினரின் கடமை எனவும் அவர் வலியுறுத்தினார்.
+
+ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (19) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் இதனைத் தெரிவித்தார்.
 
 ...
 
+[Data](articles/8fa7fb47.json)
+
+---
+
+### Funds from India for Kankesanthurai Port Development
+
+*2024-03-19 21:39:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காங்கேசன்துறை-துறைமுக-அபிவிருத்திக்கு-இந்தியாவிடமிருந்து-நிதி/175-334896) · `ta`
+
+India funds $61.5M for Kankesanthurai port development, including deepening to 30 meters and constructing a new passenger terminal.
+
+🟩
+
+The Government of India has agreed to provide US $ 61.5 million funding to fully develop the Kankesanthurai port.
+
+This was reported at a meeting between Indian High Commissioner to Sri Lanka Santosh Ja and Ports, Shipping and Aviation Minister Nimal Siripala de Silva.
+
+Under this development plan, massive ships and boats are to be deepened to the port of 30 meters and are planned to construct a new wavelength.
+
+Minister Nimal Siripala de Silva said that the new passenger terminal has been constructed at the Kankesanthurai port at a cost of Rs.
+
+Accordingly, the Minister of India has informed the Indian High Commission in Sri Lanka that the development of the Kankesanthurai port will be launched using US $ 61.5 million funded by India.. Remble
+
+◼️
+
 [Data](articles/e42ba158.json)
+
+[Extended Data](ext_articles/e42ba158.ext.json)
 
 ---
 
@@ -68,17 +104,23 @@ Attan Municipality is the capital of the Nuwara Eliya district. Hatton, which is
 
 ---
 
-### ரயில் தடம் புரண்டதால்  சில ரயில் சேவைகள் இடைநிறுத்தம்!
+### Some train services suspended
 
 *2024-03-19 21:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/179167) · `ta`
 
-கொழும்பு கோட்டை ரயில் நிலையத்துக்கு அண்மித்தாக செவ்வாய்க்கிழமை (19) மாலை ரயில் ஒன்று தடம் புரண்டுள்ளது.
+Train services to Galle and Matara suspended after derailment at Colombo Fort Railway Station.
 
-இதன் காரணமா கரையோர ரயில் பாதையில் காலி மற்றும் மாத்தறைக்கான ரயில் சேவைகள் தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+🟩
+
+A train derailed at the Colombo Fort Railway Station on Tuesday evening.
+
+Due to this, it has been reported that the train services to Galle and Matara have been suspended on the coastal railway line.
 
 ◼️
 
 [Data](articles/7145e997.json)
+
+[Extended Data](ext_articles/7145e997.ext.json)
 
 ---
 
@@ -101,6 +143,26 @@ He received a 50 per cent fine and accumulated three demerit points for his offe
 [Data](articles/23fa88f5.json)
 
 [Extended Data](ext_articles/23fa88f5.ext.json)
+
+---
+
+### Hasaranga's return to Test Cricket saves T20 World Cup participation
+
+*2024-03-19 20:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hasaranga-s-return-to-Test-Cricket-saves-T20-World-Cup-participation/108-279174) · `en`
+
+Mar. 19 (Daily Mirror) - Sri Lanka all-rounder Wanindu Hasaranga has been suspended for Bangladesh's two-Test series against Bangladesh, shortly after announcing his decision to return to Test cricket following his retirement from the format last year.
+
+During the third ODI in the recently-concluded series against Bangladesh, Hasaranga was found guilty of breaching Article 2.8 of the ICC Code of Conduct for Players and Player Support Personnel, which relates to "showing dissent at an Umpire’s decision during an International Match.
+
+The incident occurred in the 37th over of the game when Hasaranga snatched his cap from one of the umpires and ridiculed the umpiring during the match.
+
+Bangladesh clinched the series 2-1 after winning the contest by four wickets.
+
+Hasaranga received a 50 percent fine and accumulated three demerit points for his offense. This brought his total demerit points to eight within a 24-month period.
+
+...
+
+[Data](articles/54e011ae.json)
 
 ---
 
@@ -148,9 +210,11 @@ Sri Lanka’s premium entertainment channel “TV Derana” won the People’s T
 
 “TV Derana” also won the award for Youth Choice TV Channel of the Year, at the ceremony which got underway at the Monarch Imperial Hotel in Sri Jayewardenepura Kotte on Tuesday evening (March 19).
 
-TV Derana’s Chatura Alwis won the award for People’s Television Presenter of the Year at the SLIM-KANTAR People’s Awards 2024. Notably, this is the 6th consecutive year the award was conferred on Alwis.
+Remarkably, TV Derana’s Chatura Alwis won the award for People’s Television Presenter of the Year at the SLIM-KANTAR People’s Awards 2024. This is the 6th consecutive year the award was conferred on Alwis.
 
-People’s Awards has been one of the most looked forward-to events in the corporate calendar since its inception in 2007. The uniqueness of these awards is that they are based on consumer preferences, determined by the results of a survey rather than by a panel of experts.
+TV Derana’s “Deweni Inima” teledrama bagged the award for the People’s Teledrama of the Year while its lead actor Raveen Kanishka won the People’s Teledrama Actor of the Year award.
+
+Meanwhile, Sri Lankans have voted Dialog as the Telecommunication Brand of the Year for an unprecedented 13th consecutive year at the SLIM-KANTAR People’s Awards 2024.
 
 ...
 
@@ -2159,83 +2223,5 @@ According to the official exchange rates announced today by the Central Bank of 
 [Data](articles/01a6b460.json)
 
 [Extended Data](ext_articles/01a6b460.ext.json)
-
----
-
-### Japanese Ambassador meets Anura Kumara, discusses upcoming Presidential election
-
-*2024-03-19 13:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japanese-Ambassador-meets-Anura-Kumara-discusses-upcoming-Presidential-election/108-279162) · `en`
-
-Colombo, March 19 (Daily Mirror)- Japanese Ambassador to Sri Lanka Mizukoshi Hideaki met NPP leader Anura Kumara Dissanayake at the JVP head office this morning.
-
-Deputy Head of the Japanese Embassy Katsuki Kotaro and the Second Secretary Imai Kaori also attended the meeting.
-
-Both sides discussed the current economic crisis and the political situation in Sri Lanka at length, and attention was also paid to the upcoming Presidential election.
-
-The NPP explained its position regarding the intervention of the International Monetary Fund (IMF) to the Japanese diplomatic representatives, and the Japanese delegation emphasized Japan's readiness to continue investing in Sri Lanka.
-
-◼️
-
-[Data](articles/34c6e51f.json)
-
-[Extended Data](ext_articles/34c6e51f.ext.json)
-
----
-
-### The tragic fate of a national cricketer
-
-*2024-03-19 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194680) · `si`
-
-Chandana Suriyaarachchi, a visually impaired cricketer, led Sri Lanka's national team for 24 years, from 1998 to 2022. Despite his disability, he excelled in cricket and represented his country with honor. Currently, he faces financial struggles, selling his house to survive. This raises questions about the support for visually impaired athletes in Sri Lanka.
-
-🟩
-
-A player who has brought a reputation for over 22 years of leadership in Sri Lanka is working hard to win the struggle of life today.
-
-Mr. Chandana Suriyaarachchi. From 1998 to 2022, he represented the country with a game of precious to the country by representing three-year-old national cricket team.
-
-Chandana was born as a visually impaired by visual impairment, Ven.
-
-However, as Chandana's visually impaired the visually impaired of Chandana, he had to admitted to the Ratmalana Blind College.
-
-While studying at the blind school, Chandana's life was the turning point in the life of Chandana's life was the opportunity to include the visually impaired national cricket team.
-
-Chandana, who was very high, was able to lead the national team at a short time.
-
-"At school, I was able to represent the national team. In 98, he began world-class cricket in New Delhi. Since then, I was able to contribute to the semi-finals of the semi-finals. "
-
-...
-
-[Data](articles/1b6cfac6.json)
-
-[Extended Data](ext_articles/1b6cfac6.ext.json)
-
----
-
-### If the public is trying to set fire to the public, the environment should also be taken into consideration - Mannar Divisional Secretary Pradeepan
-
-*2024-03-19 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/179109) · `ta`
-
-Mannar Divisional Secretary M Pradeepan warns the public to be cautious with fires, especially in the Panangadu area, where a fire damaged a large part of Panangadam and a house. High temperatures pose a risk of fire spreading, affecting not only forests but also organisms.
-
-🟩
-
-Mannar Divisional Secretary M Pradeepan has requested that the public should be very careful when the fire is being cleaned or somewhere else.
-
-Suddenly burning fire in the Panangadu area near the village of Mannar Pattiyottam, a large part of Panangadam was damaged and a house was damaged.
-
-Even though there is still an unidentified situation, there is a very severe temperature that can burn people in the Mannar district.
-
-Therefore, when the general public is near their home or other environment, there is a risk that the fire is easily spreading due to the prevailing temperatures.
-
-Mannar Divisional Secretary M Pradeepan said that if the public is trying to set fire to any fire, the public should be very focused.
-
-He added that if a fire begins to spread in today's environment, there will be great opportunities not only in forests but also organisms.
-
-◼️
-
-[Data](articles/dfe64894.json)
-
-[Extended Data](ext_articles/dfe64894.ext.json)
 
 ---

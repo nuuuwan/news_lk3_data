@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 00:48:25**
+As of **2024-03-20 01:03:05**
 
 ## Newspaper Stats
 
-*Scraped **13,941** Articles*
+*Scraped **13,943** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 131
 bbccomsinhala | 153
 dbsjeyarajcom | 188
 newsfirstlk | 363
-dailyftlk | 728
+dailyftlk | 730
 economynextcom | 742
 islandlk | 761
 adalk | 1,206
@@ -26,11 +26,41 @@ adaderanasinhalalk | 2,220
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,939 (100.0%) of 13,941 articles have been extended.
+13,941 (100.0%) of 13,943 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### What Gota did not tell
+
+*2024-03-20 00:47:07* · [`dailyftlk`](https://www.ft.lk/columns/What-Gota-did-not-tell/4-759680) · `en`
+
+Sri Lanka is grappling to balance between the reforms required to extricate the country out of its economic collapse whilst ensuring minimum disruption to households, but the data does not reflect the same. Seven million people are in poverty as per research by LIRNEasia.
+
+According to the Department of Census and Statistics, 53% of children’s education is disrupted with 44% of them struggling to buy their stationary, whilst 108,330 micro and small enterprises have shut down. It is also reported that 544,488 households have not paid their electricity bills resulting in the supply being disconnected, resulting in a challenging situation at grassroot level.
+
+...
+
+[Data](articles/73f4df68.json)
+
+---
+
+### Why are all social issues not becoming political issues in Sri Lanka?
+
+*2024-03-20 00:38:07* · [`dailyftlk`](https://www.ft.lk/columns/Why-are-all-social-issues-not-becoming-political-issues-in-Sri-Lanka/4-759678) · `en`
+
+Solving social issues can be considered as the fundamental responsibility of the Government in a democratic country
+
+It is vital to convert these social issues into political issues to get a reasonable solution for the issues. However, despite this critical nature, all these issues are not always translated into the political agenda of the political parties. You might observe even some crucial issues are not getting the attention of the policymakers in the country
+
+Even though each of us has individual desires to achieve, we all live in a society in which the activities of various actors are interconnected as seen in a spider web. Thus, it is difficult to progress as an individual in society while ignoring these interactions. Social issues are problems or conditions that negatively impact individuals, communities, or society as a whole. These problems can affect different aspects of people’s lives due to various interdependencies existing in society.
+
+...
+
+[Data](articles/c7037040.json)
+
+---
 
 ### Hasaranga 2 Tests ban on ICC morality
 
@@ -105,6 +135,8 @@ The wildlife office officials attached to the Sinharaja forest are on the lookou
 ...
 
 [Data](articles/22c93241.json)
+
+[Extended Data](ext_articles/22c93241.ext.json)
 
 ---
 
@@ -824,21 +856,29 @@ The confiscated gold jewellery includes chains, necklaces, bangles and earrings 
 
 ---
 
-### තවත් ගැටලුවක් හර්ෂ පෙන්වයි
+### Another problem shows Harsha
 
 *2024-03-19 19:18:31* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-ගැටලුවක්-හර්ෂ-පෙන්වයි/11-408711) · `si`
 
-රට තුළ එක බදු ක්‍රමයක් සහ කොළඹ වරාය නගරය තුළ තවත් බදු ක්‍රමයක් ක්‍රියාත්මක කිරීමට යාමෙන් විශාල ගැටලුවක් නිර්මාණය වන බවත්, ඒ පිළිබඳ සොය බලා තීරණයක් ගත යුතු බවත් රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා පැවසීය.
+Dr. Harsha de Silva criticized the government's plan to implement a new tax system in Colombo, while Shehan Semasinghe defended the government's decision, emphasizing fairness and the need for a Director General for the Port Commission. Sajith Premadasa highlighted the impact on local industries, and Shehan Semasinghe reiterated the government's commitment to avoiding injustice.
 
-පාර්ලිමේන්තුවේදී අද (19දා) කරුණු දක්වමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-කිසිදු පාර්ශ්වයකට අසාධාරණයක් සිදු වන ආකාරයේ තීන්දුවක් ගැනීමට රජය සූදානම් නොමැති බව ඊට ප්‍රතිචාර දක්වමින් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවසීය.
+Committee on Public Finance Dr. Harsha de Silva said that one tax system in the country and to implement another tax system in the Colombo port city said.
 
-රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා - තවම මේ වරාය කොමිෂන් සභාවට අධ්‍යක්ෂ ජනරාල් වරයෙක් පත් කරලා නෑ. කරුණා කරලා කවුරු හරි මේකට පත් කරන්න.  මෙතන ලොකු ගැටලුවක් නිර්මාණය වෙනවා. අප්‍රේල් මාසයේ විවෘත කරන්න යනවා ඩියුටි ෆ්‍රී ලොකු කොම්ප්ලෙක්ස් එකක්. ඒ ගැන අපිට ප්‍රශ්නයක් නෑ. ඒත් අපි කල්පනා කරන්න ඕනෑ අනික් කඩවලට මොනවාද වෙන්නේ කියලා. කවුද ඩියුටි ගෙවලා බඩු ගන්නේ? මේකෙන් අනිත් ආයතනවලට ලොකු පාඩුවක් වෙනවා.
+He was speaking at the Parliament today (19th).
+
+Statement of Government Shehan Semasinghe said that the government was not prepared to take a decision that would take injustice to any party.
+
+Chairman of the Committee on Public Finance Dr. Harsha de Silva has not appointed a Director General of this Port Commission. Please someone, make it.It creates a big problem here. Dutty Freedy big camplax is going to open in April. We don't care about that. But we should think what happens to the other. Who takes the duty payments?This is a big loss from this.
+
+Opposition Leader Sajith Premadasa - When the tax formulas are carried out in this same country, the local industry, for the local industry, for micro, small industrialists, what is the businessman in this country?
 
 ...
 
 [Data](articles/b8784de6.json)
+
+[Extended Data](ext_articles/b8784de6.ext.json)
 
 ---
 
@@ -2201,47 +2241,5 @@ The plantation people have called for the Ceylon Electricity Board's regional te
 [Data](articles/d2be1adf.json)
 
 [Extended Data](ext_articles/d2be1adf.ext.json)
-
----
-
-### The man who saw the fire fell unconscious
-
-*2024-03-19 15:16:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தீயை-பார்த்தவர்-மயங்கிவிழுந்து-மரணம்/76-334889) · `ta`
-
-A man, Subbaiah Shanmugam, 58, died after being shocked by power lines in Punduloya. Investigations revealed the incident occurred in a residential area.
-
-🟩
-
-A man who fell on the ground after being shocked by the Sean Estate Division, which belongs to the Punduloya police division, has died.
-
-Investigations have revealed that the person who was shocked to see the power lines were burning in the power pole in the four -serial residential area of the four -wheeler.
-
-Punduloya police said that Subbaiah Shanmugam (58 years old) was killed in the incident which took place on Sunday evening (17).
-
-The plantation people have called for the Ceylon Electricity Board's regional technology officials to visit the Ceylon Electricity Board on electrical leaks and connectivity wires in the plantation of the plantation.
-
-◼️
-
-[Data](articles/e4b27dd1.json)
-
-[Extended Data](ext_articles/e4b27dd1.ext.json)
-
----
-
-### Dayasiri also resigns from COPE
-
-*2024-03-19 15:01:06* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරිත්-කෝප්-කමිටුවෙන්-ඉවත්වෙයි/11-408703) · `si`
-
-Dayasiri resigns from COPE, following Eran Wickramaratne's resignation.
-
-🟩
-
-Speaker Mahinda Yapa Abeywardena has sent the letter to resign from the Member of Committees MP Dayasiri Jayasekera.. Previously, MP Eran Wickramaratne resigned from the COPE Committee.
-
-◼️
-
-[Data](articles/96d1c563.json)
-
-[Extended Data](ext_articles/96d1c563.ext.json)
 
 ---

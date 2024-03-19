@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 13:03:13**
+As of **2024-03-19 13:18:01**
 
 ## Newspaper Stats
 
-*Scraped **13,786** Articles*
+*Scraped **13,794** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,140 @@ newsfirstlk | 363
 economynextcom | 726
 dailyftlk | 727
 islandlk | 760
-adalk | 1,187
-adaderanalk | 1,658
-tamilmirrorlk | 1,676
-virakesarilk | 1,922
-dailymirrorlk | 2,106
+adalk | 1,190
+adaderanalk | 1,659
+tamilmirrorlk | 1,677
+virakesarilk | 1,924
+dailymirrorlk | 2,107
 adaderanasinhalalk | 2,192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,785 (100.0%) of 13,786 articles have been extended.
+13,786 (99.9%) of 13,794 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### Sapugaskanda refinery to operate as a separate public enterprise
+
+*2024-03-19 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98050/sapugaskanda-refinery-to-operate-as-a-separate-public-enterprise) · `en`
+
+The government says it has decided to operate the Sapugaskanda Oil Refinery as a public enterprise disjoined from the Ceylon Petroleum Corporation (CPC).
+
+The proposal, tabled by Minister of Power and Energy Kanchana Wijesekera, was green-lighted by the Cabinet of Ministers at its meeting convened on Monday (March 18).
+
+In a statement, the government said it has identified the need to make a ‘critical investment’ to upgrade the oil refinery in order to keep it up and running for another 25 years.
+
+Thereby, it has been decided that the Sapugaskanda Oil Refinery be operated as a separate public enterprise so that necessary investments could be made by both local and foreign private sectors.
+
+The facility, which is the only oil refinery in Sri Lanka, was established in 1969 and fulfils approximately 25% of the country’s demand for refined petroleum products.
+
+◼️
+
+[Data](articles/1a7dc01a.json)
+
+---
+
+### யாழில் கல்லூரி வீதிக்கு ரயில் கடவை பொருத்துமாறு கோரிக்கை
+
+*2024-03-19 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179108) · `ta`
+
+யாழ்ப்பாணம், காங்கேசன்துறை நடேஸ்வரா கல்லூரிக்கு அருகில் உள்ள கல்லூரி வீதி அண்மையில் இராணுவ கட்டுப்பாட்டில் இருந்து முழுமையாக விடுவிக்கப்பட்டு அப்பகுதியில் உள்ள மக்களின் காணிகளும் விடுவிக்கப்பட்டுள்ளது.
+
+இந்நிலையில் நடேஸ்வரா கல்லூரிக்கு அருகில் உள்ள கல்லூரி வீதியில் உள்ள ரயில் கடவைக்கு கதவு பொருத்துமாறும் அங்கு பொருத்தப்பட்டுள்ள சமிக்ஞை விளக்கையும் இயங்க செய்ய ரயில்வே திணைக்களம் நடவடிக்கை எடுக்க வேண்டும் என மக்களும் பாடசாலை சமூகத்தினரும் கோரிக்கை விடுத்துள்ளனர்.
+
+முன்பு இங்கு ரயில் தண்டவாளம் அமைக்கும் போது கல்லூரி வீதி கடவைக்கு கடவைக்கதவு அமைப்பதற்கு ஏற்ற வசதிகள் செய்யப்பட்ட போதும் இப்பகுதி இராணுவ கட்டுப்பாட்டில் இருந்ததால் மக்கள் பயன்பாடு இல்லாததால் அமைக்கப்படவில்லை.
+
+...
+
+[Data](articles/3e960c99.json)
+
+---
+
+### பங்களாதேஸ் பாக்கிஸ்தான் இந்தியாவில் வளிமாசடைதல் மிகவும் ஆபத்தான நிலையில் - உலக சுகாதாரஸ்தாபனம்
+
+*2024-03-19 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179107) · `ta`
+
+இந்தியா பாக்கிஸ்தான் பங்களாதேசில் வாளி மோசமாக மாசடைந்துள்ளதை வெளிப்படுத்தும் புதிய ஆய்வு வெளியாகியுள்ளது.
+
+உலக சுகாதாரஸ்தாபனம் வெளியிட்டுள்ள இந்த ஆய்வின்படி 2023 இல் உலகில் அதிகளவு வளிமாசடைந்த நாடுகளில் ஒன்றாக  பாக்கிஸ்தான் காணப்பட்டுள்ளது.
+
+நுரையீரல்களிற்கு பாதிப்பபை ஏற்படுத்தும் காற்றில் காணப்படும்; சிறிய துகள்களான பிஎம்2.5 இன் அளவு பாக்கிஸ்தானில் 79.9 மைக்கிரோகிராமா காணப்பட்டுள்ளது- பங்களாதேசில் இது 73.7 வீதமாக காணப்படுகின்றது.
+
+வளிமண்டலத்தில் இத்தகைய பொருட்கள்5 மைக்கிரோகிராமிற்கு மேல் காணப்பட்டால் அதனால் பாதிப்புகள் ஏற்படலாம் என உலக சுகாதார ஸ்தாபனம் தெரிவித்துள்ளது.
+
+தென்னாசியாவின் காலநிலை மற்றும் புவியியல் அமைவிடம் காரணமாக  இந்த பிஎம்2.5 என்ற துகள்கள் காணப்படுகின்றன என சுவிட்சர்லாந்தை சேர்ந்த வளிகண்காணிப்பை அமைப்பை சேர்ந்த கிறிஸ்டி  தெரிவித்துள்ளார்.
+
+மாசு செல்வதற்கு இடமில்லாதது ஒரு காரணம் என தெரிவித்துள்ள அவர் விவசாய செயற்பாடுகள் கைத்தொழில் மற்றும் பொதுமக்கள் நெரிசலான விதத்தில் வாழ்வதும் இதற்கு காரணம் என தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/8d66b9d5.json)
+
+---
+
+### Haven’t read Gota’s book, not even willing to: Basil
+
+*2024-03-19 12:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Havent-read-Gotas-book-not-even-willing-to-Basil/108-279157) · `en`
+
+Colombo, March 19 (Daily Mirror) - Sri Lanka Podujana Peramuna (SLPP) founder Basil Rajapaksa said that he had not read the book published recently by former President Gotabaya Rajapaksa on an alleged conspiracy to oust him.
+
+While addressing a television interview yesterday, he said that he did not have such a book at home.
+
+"Gotabaya did not even give me a copy of his book," he said.
+
+When the television presenter asked whether he had read the digital version of Gotabaya's book, Basil Rajapaksa said he had not received such a digital copy of the book till now.
+
+"I did not receive a copy of the book from the media division of the SLPP," he said.
+
+"I'm not in any anger about this book. But I came to know unofficially that Gotabaya Rajapaksa was going to write a book and was collecting details to complete it," he added.
+
+Basil Rajapaksa claimed that even Namal had bought the book from a bookshop. Then the presenter claimed that Namal could buy that book as he still claimed to be a baby.
+
+...
+
+[Data](articles/fc09d3ae.json)
+
+---
+
+### ඉංගිරියේ ගවයින් ඇහැළියගොඩින් මතුවෙයි
+
+*2024-03-19 12:34:53* · [`adalk`](https://www.ada.lk/breaking_news/ඉංගිරියේ-ගවයින්-ඇහැළියගොඩින්-මතුවෙයි/11-408696) · `si`
+
+ඉංගිරිය ප්‍රදේශයේ සිට අතුරුදහන්වූ බවට පැමිණිලි ලැබී තිබූ ගවයින් හත් දෙනෙකු අතුරින් සිව් දෙනෙකු
+
+ඉංගිරිය පදිංචි ගව හිමියෙකුට අයත් ගවයින් සත් දෙනෙකු මෙලෙස නැතිවී තිබූ අතර, ගව හිමියාට ලැබුණු
+
+තොරතුරක් මත ඔහු ඉංගිරිය පොලිසිය ඒ සම්බන්ධයෙන් දැනුවත් කිරීමට ක්‍රියා කර ඇත.
+
+පසුව ඉංගිරිය පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක වසන්ත චන්ද්‍රලාල් මහතාගේ මැදිහත්වීම මත ඇහැළියගොඩ පොලිසිය මේ සම්බන්ධයෙන් දැනුවත් කිරීමට කටයුතු කර ඇති අතර, ඔවුන්ගේද සහයෝගය ඇතුව රුපියල් ලක්ෂ පහළොව(15)කට අධික වටිනාකමැති මෙම  ගවයින් සිව්දෙනා සොයාගැනීමට හැකිව තිබේ.
+
+ගව සොරකම මෙන්ම ගවයින් නිදැල්ලේ යාමට හැරීම සම්බන්ධයෙන් ඉංගිරිය පොලිස් වසම ආශ්‍රිත සියළු ගව පට්ටි හිමියන් දැනුවත් කිරීම සිදුකර ඇති බවත්, ගවයින් නිදැල්ලේ ගැවසීම ගව හොරකමට අතවැනීමක් බවත් පවසන ඉංගිරිය පොලිසිය, තම ගවයින් අයාළේ යාමට ඉඩහැර තිබෙන ගව හිමියන් සම්බන්ධයෙන් නීතිමට පියවර ගැනීමට කටයුතු කර තිබෙන බවද පවසා සිටී.
+
+◼️
+
+[Data](articles/1d5f19f1.json)
+
+---
+
+### හෙටින් පසු දකුණු අර්ධය තෙමෙයි
+
+*2024-03-19 12:33:15* · [`adalk`](https://www.ada.lk/breaking_news/හෙටින්-පසු-දකුණු-අර්ධය-තෙමෙයි/11-408695) · `si`
+
+2024 මාර්තු   මස 19 දින්‍ මධ්‍යහන්‍ 12.00 ට නිකුත්කරන්‍ ලද කාලගුණ නිවේදනයට අනුව  දිවයිනේ දකුණු අර්ධයේ වියළි කාලගුණය තාවකාලික ‌ෙවනසක් හෙට දිනෙන් පසු අපේෂා කල හැක. නැගෙනහිර පළාතේ  වැසි ස්වල්පයක් ඇතිවිය හැක.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්ක වලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+
+දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වියලි කාලගුණික තත්ත්වයක් පවතී. සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ කළුතර දිස්ික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේෂා කරන බවට වැඩිදුරටත් දැනුම් දී ඇත.
+
+◼️
+
+[Data](articles/35c3b200.json)
+
+---
 
 ### Additional day allocated for no-confidence debate against Speaker
 
@@ -217,6 +335,28 @@ In order to import this amount of eggs, prices have been collected from Indian i
 [Data](articles/56ee676c.json)
 
 [Extended Data](ext_articles/56ee676c.ext.json)
+
+---
+
+### කැබ්රථයේදී අතවරකොට ගෙලබැදි රණ් මාලයත් අරගෙනම යවලා
+
+*2024-03-19 11:40:32* · [`adalk`](https://www.ada.lk/breaking_news/කැබ්රථයේදී-අතවරකොට-ගෙලබැදි-රණ්-මාලයත්-අරගෙනම-යවලා/11-408693) · `si`
+
+දොඹගහවෙල පොලිස් වසමට අයත් ඇලේලන්ද ප්‍රදේශයේ කාන්තාවක් කැබ්රථයක නංවාගෙන ඇයට ලිංගික අතවරකර ගෙල බැඳි රන්මාලයක් මංකොල්ලකෑමේ සිද්ධියක් සම්බන්ධයෙන් තරුණයෙකු දොඹගහවෙලා පොලීසිය මඟින් ඊයේ (18) වෙනිදා අත්අඩංගුවටගෙන ඇත.
+
+අතවරයට පත්වූ 36 හැවිරිදි කාන්තාව කොළඹ දෙස සිට එන බස්රථයකින් ගෙනඑන පාර්සලයක් ලබාගැනීම සඳහා රාත්‍රී 9.00 පමණ දොඹගහවෙල තැපැල් කාර්යාලය අසල මාර්ගයට පැමිණ තිබේ.
+
+ඒ අවස්ථාවේ ඇය ලඟ නතරකළ කැබ්රථයක් ඇයගෙන් යන්නේ කොහේදැයි විමසා ඇත.
+
+දොඹගහවෙල නගරයට යන බව පවසා ඇති ඇයට නගරයට කැබ්රථයෙන් යාමට හැකි බව පවසමින් රියදුරු විසින් කැබ්රථයේ ඉදිරිපස අසුනට ඇයව නංවාගෙන තිබේ.
+
+කැබ්රථය නගරයේ නතරනොකොට ගලබැද්ද ප්‍රදේශයේ පාළු මාර්ගයකට රැගෙනගොස් ඇයට අතවරකොට ආපසු ඇය සිටි ස්ථානයටම යළි කැඳවාගෙන ගොස්  රථයෙන් බස්සවා ඇත. ඇය කැබ්රථයෙන් බසින විට ගෙලබැඳි රන්මාලය අතවරකළ එහි රියදුරු විසින් කඩාගෙන ඇත.
+
+සිද්ධිය පිළිබඳව දොඹගහවෙල පොලීසියට පැමිණිලිකිරීමෙන් අනතුරුව සැකකරු අත්අඩංගුවටගෙන ඇති අතර ඔහු සියඹලාණ්ඩුව මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත්කිරීමට නියමිතව තිබිණි.
+
+...
+
+[Data](articles/c90cc9d3.json)
 
 ---
 
@@ -543,6 +683,24 @@ The police chief said each of these teams, which would be dispatched starting Tu
 [Data](articles/cc20055c.json)
 
 [Extended Data](ext_articles/cc20055c.ext.json)
+
+---
+
+### ”ஊதா முகக் குரங்குகள் அழியும் அபாயம்'”
+
+*2024-03-19 10:45:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊதா-முகக்-குரங்குகள்-அழியும்-அபாயம்/175-334871) · `ta`
+
+நகர சுற்றுப்புறங்களில் காடழிப்பு காரணமாக, ஊதா முகம் கொண்ட இலைக் குரங்கு என்றும் அழைக்கப்படும் மேற்கத்திய ஊதா முகமுடைய லங்கர்கள் நாய்கள், மக்கள் மற்றும் வாகன விபத்துகளில் சிக்கிக்கொள்ளும் நிலையுள்ளதால் அவை உணவு தேடுகையில் , ஓய்வெடுக்கும் இடங்களில் பாதுகாப்புகளைப் பெற வேண்டிய கட்டாத்திற்கு தள்ளப்பட்டுள்ளன என ஒரு முதன்மையான மற்றும் சூழலியல் நிபுணர் கூறினார்.
+
+தலங்கம ஏரிக்கு அருகில் ஊதா நிற முகமுடைய மூன்று லங்கர்கள் மீது துப்பாக்கிச் சூடு நடத்தப்பட்டதாகவும், அதன் விளைவாக இரண்டு விலங்குகள் காயங்களுக்கு உள்ளாகியதாகவும் சமூக ஊடகங்களில் சமீபத்தில் வெளியான பதிவில் தெரியவந்துள்ளது.
+
+நிபுணர் பேராசிரியர் வொல்ப்கங் டிட்டஸ் டெய்லி மிரரிடம் பேசுகையில், ஊதா நிற முகமுடைய லங்கூர் மரங்களில் வாழக்கூடிய தன்மையுடையவை. என்றும், மரங்களை அகற்றுவதன் மூலம் அவற்றின் பாதைகள் தடைப்படும் போது மட்டுமே அவை தரைக்கு வரும் என்றும் கூறினார்.
+
+இந்த பின்னணியில்தான் நகர்ப்புறங்களில் உள்ள மக்கள் இப்போது ஊதா நிற முகமுள்ள லங்கர்களை ஒரு பாதிப்பு ஏற்படுத்தும் பூச்சியாக  உணர்கிறார்கள்.
+
+...
+
+[Data](articles/3e1447ae.json)
 
 ---
 
@@ -1934,6 +2092,8 @@ President Ranil Wickremesinghe has announced that the government has enacted 42 
 
 [Data](articles/a6e04c52.json)
 
+[Extended Data](ext_articles/a6e04c52.ext.json)
+
 ---
 
 ### First Test against Sri Lanka: Liton Das again in BangladeshTwo new fast bowlers
@@ -2041,177 +2201,5 @@ Prof. C, Vice Chancellor of the University of Jaffna, was the chief guest at the
 [Data](articles/1d9ab9e5.json)
 
 [Extended Data](ext_articles/1d9ab9e5.ext.json)
-
----
-
-### Call to connect women at all levels that make decisions
-
-*2024-03-19 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/179077) · `ta`
-
-The National Peace Council's seminar, 'Social Engagement, Learning and Support Women' (Woice), highlighted gender disparities in Sri Lanka, emphasizing the need for women's representation in politics and the implementation of laws protecting women's rights. Despite over 56% of voters being women, only 6% of MPs are women. The event featured discussions on women's rights, violence against women, and the importance of women in democracy. The council urged the government to enforce laws protecting women's rights and ensure women's representation in politics.
-
-🟩
-
-An important issue in the outside Sri Lanka between aspirations, reality, words, actions, laws and their implementation. Gender relationships are no exception.
-
-The National Peace Council organized by the National Peace Council, 'Social Engagement, Learning and Support Women' (The Women Organized for Inclusion Through Community Engagement, Learning and Advocacy Symposium - Woice. In this seminar, the seminar was maintained that citizens had no knowledge of laws and the implementation of the government.
-
-One of the speakers at the event, MP Sudarshini Fernandopulle, stressed that each voter could be able to use the vote to ensure that at least one of the three options offered in the upcoming elections would be given to the female candidate.
-
-Parliamentarian Dalada Attukorala pointed out that a few in Parliament are exceptionally exceptional by the members of the Human Rights, especially women's rights.
-
-...
-
-[Data](articles/1de5d734.json)
-
-[Extended Data](ext_articles/1de5d734.ext.json)
-
----
-
-### Prof. Wickremesinghe outlines key role of women empowerment for economic inclusivity
-
-*2024-03-19 01:12:11* · [`dailyftlk`](https://www.ft.lk/opinion/Prof-Wickremesinghe-outlines-key-role-of-women-empowerment-for-economic-inclusivity/14-759652) · `en`
-
-In keynote at Women’s Chamber of Industry and Commerce International Women’s Day event calls for concerted efforts to realise full potential of inclusivity which goes beyond slogans and policies
-
-Opines actions to integrate women into all spheres of society, industry and economy still remains limited
-
-Says addressing inclusivity issues crucial amidst crises, with focus on equality in opportunities, resources, wealth distribution
-
-Advocates to view inclusivity as a development imperative and strategic business strategy
-
-Insists on tangible organisational measures to eliminate gender bias, stereotypes
-
-Urges WCIC to establish a women-led bank to promote gender equality, economic empowerment
-
-Chair and Senior Professor of English, and Founder Director Prof. Maithree Wickremesinghe last week made a compelling case for the critical role of economic inclusivity, particularly in advancing the status of women and driving overall prosperity.
-
-...
-
-[Data](articles/3cb82fa7.json)
-
-[Extended Data](ext_articles/3cb82fa7.ext.json)
-
----
-
-### Women’s Symposium calls for inclusion of women at all levels of decision making
-
-*2024-03-19 01:10:11* · [`dailyftlk`](https://www.ft.lk/opinion/Women-s-Symposium-calls-for-inclusion-of-women-at-all-levels-of-decision-making/14-759651) · `en`
-
-A major problem in Sri Lanka is the gap between aspirations and reality, words and deeds, laws and their implementation. Gender relations is no exception. The Women Organised for Inclusion through Community Engagement (WOICE) Learning and Advocacy Symposium organised by the National Peace Council (NPC) brought together over 120 women leaders and activists from seven districts across the country. One of the key observations related to the lack of knowledge of the laws on the part of citizens and implementation of them by the state.
-
-...
-
-[Data](articles/20eddec3.json)
-
-[Extended Data](ext_articles/20eddec3.ext.json)
-
----
-
-### LOLC champions female diversity and leadership on Women’s Day celebrations
-
-*2024-03-19 01:09:31* · [`dailyftlk`](https://www.ft.lk/opinion/LOLC-champions-female-diversity-and-leadership-on-Women-s-Day-celebrations/14-759650) · `en`
-
-LOLC Panel Discussion led by LOLC Holdings PLC Director Kalsha Amarasinghe
-
-LOLC Holdings PLC, the premier multinational conglomerate spanning over 25 countries across Asia, Africa, and Australia, celebrated International Women’s Day under the theme, “Count Her In.”
-
-This year’s commemoration of women within the LOLC Group highlighted the organisation’s commitment to female diversity and leadership, uniting the extraordinary achievements, resilience, and leadership spirit of its female staff. The focal point of this year’s International Women’s Day was the symposium held at LOLC’s head office, featuring two impactful sessions: “LOLC Spotlights” and the “LOLC Panel Discussion.”
-
-...
-
-[Data](articles/b454579f.json)
-
-[Extended Data](ext_articles/b454579f.ext.json)
-
----
-
-### Actor Vijay in Kerala
-
-*2024-03-19 01:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179076) · `ta`
-
-Actor Vijay, leader of the Tamil Nadu Victory Corporation, is in Kerala for a film shoot. He arrived at Thiruvananthapuram airport and was greeted by fans.
-
-🟩
-
-Actor and leader of the Tamil Nadu Victory Corporation, Vijay has gone to Kerala in India for the shooting of the film.
-
-He came out of the Thiruvananthapuram airport and greeted Kerala fans.
-
-◼️
-
-[Data](articles/3d0a640b.json)
-
-[Extended Data](ext_articles/3d0a640b.ext.json)
-
----
-
-### Silence on gender-based harassment in workplaces gets louder
-
-*2024-03-19 00:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Silence-on-gender-based-harassment-in-workplaces-gets-louder/108-279110) · `en`
-
-In a disheartening revelation, a recent study conducted by the Women’s Chamber of Industry and Commerce Sri Lanka (WCIC) shed light on the alarming silence surrounding gender-based violence and harassment (GBVH) against women in workplaces.
-
-A study that took the views of respondents from diverse professional backgrounds in the country revealed that a staggering 80 percent of female workers chose to remain silent when faced with instances of harassment.
-
-WCIC Strategy Consultant Tusitha Kumarakulasingam shared that many women were of the view that reporting such incidents may jeopardise their professional advancement or result in retaliation from
-
-...
-
-[Data](articles/ecd7557a.json)
-
-[Extended Data](ext_articles/ecd7557a.ext.json)
-
----
-
-### 2024-03-18 (Monday)
-
-### Most of the promises made by the government have been fulfilled - State Minister Janaka Wakumbura
-
-*2024-03-18 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/179075) · `ta`
-
-Janaka Wakumbura, State Minister for Local Government and Environment, announced that most government promises, including the construction of 162 bridges, have been fulfilled. These bridges will be completed before August and handed over to the public. Additionally, a project for local councils to develop tourism places will be completed by August's end, and most of the 29,000 multi-purpose development officers will receive permanent appointments. The country is recovering from a crisis, and efforts are being made to complete development work across all ministries.
-
-🟩
-
-Minister of State for Local Government and Environment, Janaka Wakumbura said that most of the promises made by the government, including President Ranil Wickremesinghe, have now been fulfilled.
-
-The Minister of State said that the work of the 162 bridges that are being constructed will be completed before the next August and handed over to the people.
-
-State Minister Janaka Wakumbura said this at a media briefing held at the Presidential Media Center on Monday (18).
-
-We have already fulfilled most of the government's promises made by President Ranil Wickremesinghe. We said 162 bridges will be constructed at a cost of 16,000 million.
-
-We are ready to hand over a part of those bridges to the public before April 10. Accordingly, 162 bridges will be handed over to the people before the upcoming August.
-
-In addition, the 1000 million rupee project provided to local councils to develop tourism places will be completed before the end of August.
-
-...
-
-[Data](articles/314ec152.json)
-
-[Extended Data](ext_articles/314ec152.ext.json)
-
----
-
-### “Sri Lanka’s political discourse and ageism”: A response
-
-*2024-03-18 23:28:03* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-political-discourse-and-ageism-A-response/14-759643) · `en`
-
-I read with great appreciation the Editorial titled “Sri Lanka’s political discourse and ageism” appearing in the Weekend FT of 16 March 2024 (https://www.ft.lk/ft_view__editorial/Sri-Lanka-s-political-discourse-and-ageism/58-759554).
-
-I would like to make the following comments based on your Editorial.
-
-I am in total agreement of your last sentence where you prophetically warn of the dangers of ageism.
-
-I had made a comment two years ago (attached herewith) on similar lines.
-
-In this comment I specifically focused on ‘old’ politicians (not by age but by duration of involvement in politics) and their continued adherence to ‘old’ political ideas (once again not due to age but due to outdated political economic and other ideas and not changing them to benefit the citizens of Sri Lanka).
-
-...
-
-[Data](articles/282b8f8c.json)
-
-[Extended Data](ext_articles/282b8f8c.ext.json)
 
 ---

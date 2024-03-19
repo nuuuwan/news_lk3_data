@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 14:02:51**
+As of **2024-03-19 14:17:54**
 
 ## Newspaper Stats
 
-*Scraped **13,809** Articles*
+*Scraped **13,811** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adaderanalk | 1,661
 tamilmirrorlk | 1,678
 virakesarilk | 1,924
 dailymirrorlk | 2,112
-adaderanasinhalalk | 2,196
+adaderanasinhalalk | 2,198
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,805 (100.0%) of 13,809 articles have been extended.
+13,809 (100.0%) of 13,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### කෝප් කමිටුවෙන් දයාසිරිත් ඉවත් වෙයි
+
+*2024-03-19 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194682) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී සයාසිරි ජයසේකර මහතා ද කෝප් කමිටුවෙන් ඉල්ලා අස්වී තිබේ.
+
+ඔහු තම ඉල්ලා අස්වීමේ ලිපිය කථානායකවරයාට යොමුකර ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/94c4e5d2.json)
+
+---
+
+### ඩොලරයේ වාර්තාගත වෙනසක්
+
+*2024-03-19 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194681) · `si`
+
+ශ්‍රී ලංකා මහ බැංකුවේ දත්ත අනුව අමෙරිකානු ඩොලරයේ ගැනුම් මිල අද (19) දිනයේදී රුපියල් 299.29ක් වශයෙන් සහ විකුණුම් මිල රුපියල් 308.90 වශයෙන් දැක්වුණි.
+
+ඒ අනුව 2023 ජූලි 05 වනදා ට පසුව ඩොලරයේ ගැනුම් මිල රුපියල් 300ට වඩා අඩුවී ඇත්තේ පළමු වරට ය.
+
+◼️
+
+[Data](articles/4964ab95.json)
+
+---
 
 ### USD buying rate drops below Rs. 300 for first time since July 2023
 
@@ -43,6 +71,8 @@ According to the official exchange rates announced today by the Central Bank of 
 ◼️
 
 [Data](articles/01a6b460.json)
+
+[Extended Data](ext_articles/01a6b460.ext.json)
 
 ---
 
@@ -62,27 +92,37 @@ The NPP explained its position regarding the intervention of the International M
 
 [Data](articles/34c6e51f.json)
 
+[Extended Data](ext_articles/34c6e51f.ext.json)
+
 ---
 
-### ජාතික ක්‍රිකට් ක්‍රීඩකයෙකුට අත්වූ ඛේදනීය ඉරණම
+### The tragic fate of a national cricketer
 
 *2024-03-19 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194680) · `si`
 
-මෙරට දෘශ්‍යාබාධිත ජාතික ක්‍රිකට් කණ්ඩායමේ නායකත්වය දරමින් වසර 22කට අධික කාලයක් මෙරටට කීර්තියක් ගෙන ආ ක්‍රීඩකයකු අද ජීවන අරගලය ජයගන්නට දැඩි වෙහෙසක් දරමින් සිටී.
+Chandana Suriyaarachchi, a visually impaired cricketer, led Sri Lanka's national team for 24 years, from 1998 to 2022. Despite his disability, he excelled in cricket and represented his country with honor. Currently, he faces financial struggles, selling his house to survive. This raises questions about the support for visually impaired athletes in Sri Lanka.
 
-මේ චන්දන සුරියආරච්චි මහතා. ඔහු 1998 සිට 2022 දක්වා වසර 24ක් දෘශ්‍යාබාධිත ජාතික ක්‍රිකට් කණ්ඩායම නියෝජනය කර තුන්ඉරියව් දක්ෂතා දක්වමින් රටට කීර්තියක් අත්කර දුන් ක්‍රිඩකයෙකි.
+🟩
 
-උපතින්ම දෘශ්‍යාබාධිතයකු වූ චන්දන මූලික අධ්‍යාපනය ලැබුවේ ගාල්ල උනන්විටිය රේවත විද්‍යාලයෙනි.
+A player who has brought a reputation for over 22 years of leadership in Sri Lanka is working hard to win the struggle of life today.
 
-කෙසේ වෙත්ත මුලික අධ්‍යාපනය ලබන අතරතුර චන්දනගේ දෘශ්‍යාබාධිත තත්ත්වය දිනෙන් දින වැඩිවීම නිසා ඔහුට රත්මලාන අන්ධ විද්‍යාලයට ඇතුළත් වන්නට සිදුවුණි.
+Mr. Chandana Suriyaarachchi. From 1998 to 2022, he represented the country with a game of precious to the country by representing three-year-old national cricket team.
 
-අන්ධ විද්‍යාලයේ අධ්‍යාපනය ලබන අතරතුර, ක්‍රිකට් ක්‍රීඩාවද ප්‍රගුණ කළ චන්දනගේ ජීවිතයේ හැරවුම් ලක්ෂ්‍යය වූයේ ඔහුට දෘශ්‍යාබාධිත ජාතික ක්‍රිකට් කණ්ඩායමට ඇතුළත් වීමට අවස්ථාව ලැබීමය.
+Chandana was born as a visually impaired by visual impairment, Ven.
 
-එහිදී ඉතා ඉහළ දක්ෂතා දැක්වූ චන්දන කෙටි කලකදී ජාතික කණ්ඩායමේ නායකත්වය හොබවන්නට සමත් වුණි.
+However, as Chandana's visually impaired the visually impaired of Chandana, he had to admitted to the Ratmalana Blind College.
+
+While studying at the blind school, Chandana's life was the turning point in the life of Chandana's life was the opportunity to include the visually impaired national cricket team.
+
+Chandana, who was very high, was able to lead the national team at a short time.
+
+"At school, I was able to represent the national team. In 98, he began world-class cricket in New Delhi. Since then, I was able to contribute to the semi-finals of the semi-finals. "
 
 ...
 
 [Data](articles/1b6cfac6.json)
+
+[Extended Data](ext_articles/1b6cfac6.ext.json)
 
 ---
 
@@ -101,6 +141,8 @@ The transformative change in education is expected to prepare children who leave
 ◼️
 
 [Data](articles/ce85b089.json)
+
+[Extended Data](ext_articles/ce85b089.ext.json)
 
 ---
 
@@ -2225,47 +2267,5 @@ This is the first time since the pandemic that the island nation has crossed the
 [Data](articles/89ac1225.json)
 
 [Extended Data](ext_articles/89ac1225.ext.json)
-
----
-
-### Woman murder: suspect arrested
-
-*2024-03-19 02:12:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-படுகொலை-சந்தேகநபர்-கைது/175-334846) · `ta`
-
-The main suspect in the murder of a young woman in Muthuwadiya, Seetuwa, was arrested at Balangoda Hospital after being admitted there.
-
-🟩
-
-The main suspect in connection with the murder of a young woman in a rented room in Muthuwadiya area in Seetuwa, has been arrested at the Balangoda Hospital.
-
-He was arrested yesterday after being admitted to the Balangoda Hospital. (A)
-
-◼️
-
-[Data](articles/03eb6251.json)
-
-[Extended Data](ext_articles/03eb6251.ext.json)
-
----
-
-### Sivanesa, Batticaloa, painting at sunlight
-
-*2024-03-19 02:08:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clkmlx3we9xo) · `si`
-
-An Indian artist in Batticaloa, Sivanesa, paints sunlight designs, capturing the essence of the sun.
-
-🟩
-
-He contains nothing here.Vite to see the creations of a Indian artist who paints the design of the sunlight, sunlight.
-
-We heard about the artist painting in the sunlight.
-
-He told the BBC Sinhala service that the creation of an Indian artist who paints the tables of the sunlight.
-
-◼️
-
-[Data](articles/dc39ef02.json)
-
-[Extended Data](ext_articles/dc39ef02.ext.json)
 
 ---

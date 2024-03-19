@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 11:33:35**
+As of **2024-03-19 11:52:16**
 
 ## Newspaper Stats
 
-*Scraped **13,770** Articles*
+*Scraped **13,772** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,186
 adaderanalk | 1,655
 tamilmirrorlk | 1,674
 virakesarilk | 1,922
-dailymirrorlk | 2,101
-adaderanasinhalalk | 2,188
+dailymirrorlk | 2,102
+adaderanasinhalalk | 2,189
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,764 (100.0%) of 13,770 articles have been extended.
+13,770 (100.0%) of 13,772 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### හමාස් නායකයෙක් මරුට
+
+*2024-03-19 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194672) · `si`
+
+ප්‍රධාන පෙළේ හමාස් නායකයෙක් ලෙස සැලකෙන මර්වාන් ඉසා, ඊශ්‍රායල ගුවන් ප්‍රහාරයකින් ජීවිතක්ෂයට පත්ව ඇති බව අමෙරිකාව පවසයි.
+
+ඔක්තෝබර් 07 වනදා ප්‍රහාරයෙන් අනතුරුව ජීවිතක්ෂයට පත්වූ වඩාත් ජ්‍යේෂ්ඨතම හමාස් නායකයා මර්වාන් බව වාර්තා වෙයි.
+
+එහෙත් එම මරණය සම්බන්ධයෙන් හමාස් සංවිධානය මෙතෙක් කිසිවක් නිවේදනය කර නොමැත.
+
+ඊශ්‍රායල මාධ්‍ය වාර්තා සඳහන් කළේ නුසේරත් සරණාගත කඳවුර අභ්‍යන්තරයේ වූ හමාස් උමං පද්ධතියකට එල්ලකළ ප්‍රහාරයකින් මර්වාන් ඉසා ජීවිතක්ෂයට පත්වී ඇති බවයි.
+
+◼️
+
+[Data](articles/825ea33f.json)
+
+---
 
 ### Prepare for presidential election first: President tells Cabinet
 
@@ -45,6 +63,24 @@ Further, it is understood that the President has instructed the Cabinet to concl
 ◼️
 
 [Data](articles/b8f41616.json)
+
+[Extended Data](ext_articles/b8f41616.ext.json)
+
+---
+
+### 20 special police teams deployed to crack down identified underworld gangs
+
+*2024-03-19 11:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/20-special-police-teams-deployed-to-crack-down-identified-underworld-gangs/108-279143) · `en`
+
+Colombo, March 19 (Daily Mirror) - Following a concerning increase in organized criminal activities in the Western and Southern Provinces, a special operation under the 'Yukthiya' initiative was launched today.
+
+Accordingly, 20 special police teams have been deployed to eliminate identified underworld gangs.
+
+Inspector General of Police Deshabandu Tennakoon, STF Commandant Senior DIG Warun Jayasundara and several other senior police officers attended the official team send-off held at the Bambalapitiya Police Field Force Headquarters.
+
+◼️
+
+[Data](articles/30d3117d.json)
 
 ---
 
@@ -63,6 +99,8 @@ During the discussion, the Indian High Commissioner expressed India's commitment
 ...
 
 [Data](articles/d2e1bc84.json)
+
+[Extended Data](ext_articles/d2e1bc84.ext.json)
 
 ---
 
@@ -108,25 +146,37 @@ The proposal made by the Cabinet of Justice and Constitutional Reforms had been 
 
 ---
 
-### காசாவில் அல்ஜசீரா ஊடகவியலாளரை கைதுசெய்து சித்திரவதை செய்த இஸ்ரேலிய படையினர் - தொடர்கி;ன்றது  ஊடகவியலாளர்களை இலக்குவைக்கும் இஸ்ரேலின் நடவடிக்கை
+### Israeli's actions targeting journalists - Israeli soldiers arrested and tortured by Al Jazeera journalist in Gaza
 
 *2024-03-19 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179096) · `ta`
 
-காசாவில் அல்ஜசீரா ஊடகவியலாளரை கைதுசெய்த இஸ்ரேலிய படையினர் 12 மணிநேரத்தின் பின்னர் அவரை விடுதலை செய்துள்ளனர்.
+Israeli soldiers arrested and tortured Al Jazeera journalists in Gaza, including at Alziba Hospital, where they destroyed media equipment. After 12 hours, the journalists were released, with one noting Israeli soldiers' nakedness and threats.
 
-காசாவின் அல்ஸிபா மருத்துவமனையில் ஊடகவியலாளரை கைதுசெய்த இஸ்ரேலிய  படையினர் அவரை கடுமையாக தாக்கியுள்ளனர்.
+🟩
 
-அல்ஸிபா மருத்துவமனையை இலக்குவைத்து நான்காவது தடவையாக இஸ்ரேல் மேற்கொண்டுள்ள நடவடிக்கை குறித்த செய்திசேகரிப்பதற்காக சக ஊடகவியலாளர்களுடன் அல்ஜசீராவின் அல்கூலும் மருத்துமவனைக்கு சென்றிருந்தார்.
+Israeli soldiers arrested Al Jazeera journalist in Gaza have released him after 12 hours.
 
-அல்ஜசீராவின் செய்தியாளரை இஸ்ரேலிய படையி;னர் இழுத்துச்சென்றனர் அவரது ஊடக உபகரணங்களை அழித்தனர் என சம்பவத்தை நேரில் பார்த்தவர்கள் தெரிவித்துள்ளனர்.
+Israeli soldiers arrested a journalist at Gaza's Alziba Hospital have severely attacked him.
 
-ஊடகவியலாளர்களிற்கான அறையில் குழுமிய ஏனைய ஊடகவியலாளர்களையும் கைதுசெய்தனர் என விடுதலை செய்யப்பட்ட பின்னர் அல்ஜசீரா ஊடகவியலாளர் தெரிவித்துள்ளார்.
+Alziba's Alkool and Alkool had gone to the hospital with fellow journalists to make a news report on Israel's action for the fourth time.
 
-ஊடகவியலாளர்களின் கண்கள் கைகளை கட்டிய இஸ்ரேலிய படையினர் அவர்களை நிர்வாணமாக்கி தாக்கினார்கள் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+Eyewitnesses said that the Israeli brigade had dragged the Al Jazeera's journalist and destroyed his media equipment.
 
-...
+The Al Jazeera journalist said after his release, the other journalists were arrested in the room for journalists.
+
+He also noted that Israeli soldiers who tied their hands into the eyes of journalists were naked.
+
+He said that Israeli soldiers warned that if someone was shot, he said that some of my colleagues were released.
+
+The Alsiba Hospital is a site for reporters who publish news about Israel's attacks on Gaza for the past five months.
+
+Al Jazeera's other reporter Honey Mahmood said that they were arrested and tortured by Al Jazeera.
+
+◼️
 
 [Data](articles/ca4d09e8.json)
+
+[Extended Data](ext_articles/ca4d09e8.ext.json)
 
 ---
 
@@ -210,6 +260,8 @@ The police chief said each of these teams, which would be dispatched starting Tu
 
 [Data](articles/cc20055c.json)
 
+[Extended Data](ext_articles/cc20055c.ext.json)
+
 ---
 
 ### "Purple Monkeys are in ruins"
@@ -238,21 +290,31 @@ Western purple -faced Langur is a species protected under Section 30 of the Plan
 
 ---
 
-### ගෝඨාගේ උපදේශකයෙක් හෙරොයින් සමග අත්අඩංගුවට
+### Gota's advisor arrested with heroin
 
 *2024-03-19 10:42:51* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාගේ-උපදේශකයෙක්-හෙරොයින්-සමග-අත්අඩංගුවට/11-408691) · `si`
 
-ශ්‍රී ලංකා යුද හමුදාවේ කොමන්ඩෝ බළකායේ ලාන්ස් කෝප්‍රල්වරයෙකු වශයෙන් කටයුතු කළ හිටපු සොල්දාදුවෙකු, හෙරොයින් මත්කුඩු ග්‍රෑම් දෙකක් සමග සැකපිට අත්අඩංගුවට ගත් බව මහනුවර කොට්ඨාස අපරාධ විමර්ශන ඒකකය කියයි.
+Gota's advisor, a 35-year-old father from Nelliyapitiya, arrested with 2 grams of heroin. Connected to army and former President Gotabhaya Rajapaksa. Suspect was involved in drug trafficking after leaving the army.
 
-හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාගේ ශාරීරික ව්‍යායාම උපදේශකයෙකු වශයෙන් කටයුතු කරමින් හිටපු ජනාධිපතිවරයා සමග සමීපව සිට ඇති මෙම සැකකරු, ජනාධිපතිවරයා ධුරයෙන් ඉවත් වීමෙන් පසු යුද හමුදාවෙන් ඉවත් වී ඇති බවද පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+🟩
 
-යහලතන්න, නෙල්ලිගල ප්‍රදේශයේ පදිංචිකරුවෙකු වන මෙම සැකකරු 35 හැවිරිදි දෙදරු පියෙකි. අදාළ සැකකරු හෙරොයින් මත්කුඩු ජාවාරම් කරන බවට පොලීසියට ලද තොරතුරකට අනුව ඔහුගේ නිවස පරීක්ෂා කිරීමේදී හෙරොයින් මත්කුඩු සමග සැකකරු අත්අඩංගුවට ගත් බව පොලීසිය කියයි.
+The Kandy Division Criminal Investigation Unit (SLMC) has been arrested on suspicion with two grams of heroin with two grams of heroin with two grams of heroin.
 
-සැකකරු යුද හමුදාවෙන් ඉවත්වීමෙන් පසු දෙමටගොඩ ප්‍රදේශයේ පෞද්ගලික ආයතනයක සේවය කරමින් සිටින අතරතුර සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයන්ගේ ඇසුරට පත්වීමෙන් පසු ඔහු හෙරොයින් මත්කුඩු ජාවාරමට යොමු වී ඇති අතර, හෙරොයින් මත්කුඩු භාවිතයටද ඇබ්බැහි වී ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+Police investigations have revealed that the suspect was closely with the army, which was closely with the former President Gotabhaya Rajapaksa.
 
-...
+The suspect is a 35 year old father of two, a resident of Nelliyapitiya. Police said the suspect was arrested by heroin with heroin, according to the police investigating heroin that the suspect was deployed by heroin.
+
+Police investigations have revealed that heroin was referred to the drug trafficking of organized crime while serving in a private company in Dematagoda after the army was out of the army.
+
+The suspect is said to be among the ten-hiding shovelists in the Unit that he served in the unit, police said.
+
+The OIC Chief Inspector Thilak Samaranayake, Chief Inspector Thilak Samaranayake, is conducting further investigations.
+
+◼️
 
 [Data](articles/3e125a96.json)
+
+[Extended Data](ext_articles/3e125a96.ext.json)
 
 ---
 
@@ -344,17 +406,27 @@ In this case, what is the point of the upcountry political parties. The Tamil Pr
 
 ---
 
-### කෙහෙළිය උසාවි ගෙනා වෑන් රථය ගැන විමර්ශනයක්
+### Investigation into the van brought by Keheliya Court
 
 *2024-03-19 10:29:48* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-උසාවි-ගෙනා-වෑන්-රථය-ගැන-විමර්ශනයක්/11-408690) · `si`
 
-රිමාන්ඩ් භාරයට පත් කර සිටින හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා උසාවියට ගෙන ඒමට යොදා ගෙන ඇත්තේ බන්ධනාගාර රැඳවියන්ගේ දරුවන් ප්‍රවාහනය කිරීමට යොදා ගැනීම සඳහා එක්සත් ජාතීන්ගේ ළමා අරමුදල පරිත්‍යාග කර ඇති කේ.ඩී.එච්. වර්ගයේ සුඛෝපභෝගී වෑන් රථයෙන් බවට ලැබුණු පැමිණිල්ලක් සම්බන්ධයෙන් රහස් පොලීසිය විමර්ශන ආරම්භ කර තිබේ.
+Keheliya Rambukwella, former Health Minister, is under investigation for using a luxury van to transport children of prison inmates. The CID has started an inquiry into the misuse of the vehicle. Rambukwella was also arrested for alleged crimes related to billions and the distribution of priminal antibodies in an Indian loan scheme.
 
-ළමයින් හැර රැඳවියන් ප්‍රවාහනය කිරීමට කිසිසේත් මෙම වෑන් රථය යොදා නොගත යුතු බවට වෑන් රථය බන්ධනාගාරයට පරිත්‍යාග කිරීමේදී එක්සත් ජාතීන්ගේ ළමා අරමුදල පනවා තිබූ කොන්දේසියද උල්ලංඝනය කරමින් බන්ධනාගාර කොමසාරිස් ජනරාල්වරයාගේ වුවමනාව මත කෙහෙළිය රඹුක්වැල්ල මහතා උසාවියට ගෙන ඒමට මෙම වෑන් රථය යොදාගෙන ඇති බවට ලැබුණු පැමිණිල්ලකට අනුව රහස් පොලීසිය මෙම විමර්ශන ආරම්භ කර ඇත.
+🟩
 
-...
+Former Health Minister Keheliya Rambukwella has been deployed to court in prison inmates to transport the children of prison inmates, KDH. The CID has commenced investigations into a complaint that the type of luxury van.
+
+The secret police found that the van had been used to bring the van to the court in the Donation of the Appointment of the United Nations Children's Fund to court that the van should not be used to transport the van to the prison.Investigations have been started.
+
+Former Health Minister arrested the suspects to the court of billions and distribution of priminal antibodies and distribution of privacy in the Indian loan scheme.Keheliya Rambukwella has been used to bring him to court on the occasion.. The complainant points out that the plaintiff pointed out that a luxury van is the privilege of this privilege.
+
+According to the complaint, the CID has begun investigations into the case of the incident as well as the prison officials have taken measures.
+
+◼️
 
 [Data](articles/25553239.json)
+
+[Extended Data](ext_articles/25553239.ext.json)
 
 ---
 
@@ -2103,41 +2175,5 @@ Exploring 2024 SLIM-Kantar People’s Awards research methodology – “Know Wh
 [Data](articles/45f4225a.json)
 
 [Extended Data](ext_articles/45f4225a.ext.json)
-
----
-
-### Exploring 2024 SLIM-Kantar People’s Awards research methodology – “Know What”
-
-*2024-03-18 22:07:00* · [`islandlk`](http://island.lk/exploring-2024-slim-kantar-peoples-awards-research-methodology-know-what/) · `en`
-
-In a significant advancement for Sri Lanka’s marketing arena, the Sri Lanka Institute of Marketing (SLIM) has recently announced the launch of the 2024 edition of the SLIM-Kantar People’s Awards. This event stands out as the only awards ceremony in the nation dedicated to honouring the choice of the people. It is set to reveal the brands and personalities close to their hearts.
-
-The 19th edition of the SLIM Peoples Awards is on the horizon, featuring the partnership between SLIM and Kantar, a leading global research agency, since 2021. This collaboration has elevated the credibility of the SLIM-Kantar People’s Awards, ensuring rigorous research methodologies are incorporated into the process starting in 2022.
-
-...
-
-[Data](articles/c3556587.json)
-
-[Extended Data](ext_articles/c3556587.ext.json)
-
----
-
-### SLT-MOBITEL propels its workforce into the digital era
-
-*2024-03-18 22:06:00* · [`islandlk`](http://island.lk/slt-mobitel-propels-its-workforce-into-the-digital-era/) · `en`
-
-SLT-MOBITEL, the National Information and Communications Technology (ICT) Solutions Provider, has recently taken a leap forward in digital transformation by deploying Microsoft Productivity and Security Solutions for frontline workers, sensitive information workers and senior executives. With a focus on privacy, security, reliability, and trust, SLT-MOBITEL aims to streamline operations, enhance productivity, and fortify cyber resilience in an ever-evolving digital landscape.
-
-In response to the escalating demands of managing infrastructure and fostering digital collaboration, SLT-MOBITEL identified the need for unified efficiency among its workforce and robust security measures. The organization decided to address these demands by increasing their existing use of Microsoft products and integrating them into a unified platform.
-
-Sheraton Colombo Hotel celebrates International Women’s Day with empowering insights
-
-Exploring 2024 SLIM-Kantar People’s Awards research methodology – “Know What”
-
-...
-
-[Data](articles/cc1b9702.json)
-
-[Extended Data](ext_articles/cc1b9702.ext.json)
 
 ---

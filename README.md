@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 17:02:54**
+As of **2024-03-19 17:17:52**
 
 ## Newspaper Stats
 
-*Scraped **13,861** Articles*
+*Scraped **13,866** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ bbccomsinhala | 153
 dbsjeyarajcom | 188
 newsfirstlk | 363
 dailyftlk | 727
-economynextcom | 732
+economynextcom | 735
 islandlk | 760
-adalk | 1,195
+adalk | 1,197
 adaderanalk | 1,666
 tamilmirrorlk | 1,682
 virakesarilk | 1,937
@@ -26,11 +26,43 @@ adaderanasinhalalk | 2,209
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,857 (100.0%) of 13,861 articles have been extended.
+13,861 (100.0%) of 13,866 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### India pledges 61.5 million dollar grant for Jaffna KKS port Sri Lanka says
+
+*2024-03-19 17:00:00* · [`economynextcom`](https://economynext.com/india-pledges-61-5-million-dollar-grant-for-jaffna-kks-port-sri-lanka-says-155217/) · `en`
+
+ECONOMYNEXT – India has pledged 61.5 million dollars in grant aid to develop Kankasanthurai port in the island’s Northern Jaffna peninsula, the Ministry of Ports and Aviation said in a statement.
+
+The message was conveyed during a meeting between Indian High Commission Santosh Jha and Ports and Aviation Minister Nimal Siripala de Silva, the statement said.
+
+“As part of the project, a new breakwater will be constructed, and the port will be dredged up to a depth of 30 metres to accommodate deep-draft vessels,” the statement said.
+
+The port suburb’s ferry terminal connects Kankesanthurai with Karaikal Port in Puducherry southeast of Tamil Nadu.
+
+The Commissioner said that the Indian Government has designated Sri Lanka as the top travel destination for Indian tourists, and commended the commencement of flights between Chennai and Jaffna, the statement said.
+
+...
+
+[Data](articles/71394166.json)
+
+---
+
+### චරිත හේරතුත් කෝප් කමිටුවෙන් ඉල්ලා අස්වෙයි
+
+*2024-03-19 16:53:19* · [`adalk`](https://www.ada.lk/breaking_news/චරිත-හේරතුත්-කෝප්-කමිටුවෙන්-ඉල්ලා-අස්වෙයි/11-408704) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණ පක්ෂය තුළින් පාර්ලිමේන්තුවට තේරීපත්වූ පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය චරිත හේරත් මහතා කෝප් කමිටුවේ සාමාජිකත්වයෙන් ඉල්ලා අස්වීමට තීරණය කර තිබේ. ඒ බව සඳහන් කරමින් මන්ත්‍රීවරයා සිය නිල X ගිණුමේ සටහනක් තබා ඇත. ඔහු මීට පෙර කෝප් කමිටුවේ හිටපු සභාපති වරයකුද වශයෙන්ද කටයුතු කර තිබේ. චරිත හේරත් මහතා කෝප් කමිටුවෙන් ඉල්ලා අස්වීමත් සමඟ එයින් ඉල්ලා අස්වූ මන්ත්‍රී ගණන තුනක් දක්වා ඉහළ යයි.
+
+◼️
+
+[Data](articles/0fc6d8c4.json)
+
+---
 
 ### Govt. to provide rice to nearly 3 million low-income families
 
@@ -50,59 +82,79 @@ In order to help maintain the nutritional level of the identified low-income ear
 
 [Data](articles/531ca9a1.json)
 
+[Extended Data](ext_articles/531ca9a1.ext.json)
+
 ---
 
-### தேர்தலுக்கு பணம் திரட்டுவதற்காக அரசாங்கம் 2 கோடி பெறுமதியான 200 மதுபான அனுமதிப் பத்திரங்களை விநியோகித்து வருகிறது -  எதிர்க்கட்சித் தலைவர்
+### The government is distributing over 200 liquor permits worth Rs 2 crore to raise money for the election - Opposition Leader
 
 *2024-03-19 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179143) · `ta`
 
-எப்.எல். உரிமம் 4 இன் கீழ் 200 மதுபான அனுமதிப் பத்திரங்கள் வழங்க திட்டமிடப்பட்டுள்ளது. அதில் 15 பேருக்கு ஏற்கனவே இந்த அனுமதிப் பத்திரங்கள் வழங்கப்பட்டு விட்டதாகவும், இதற்காக 2 கோடி ரூபா கப்பமாக அறவிடப்பட்டுள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று(19) பாராளுமன்றத்தில் வெளிக்கொணர்ந்தார்.
+The government plans to issue 200 liquor permits worth Rs 2 crore for election funding, with 15 already issued. Opposition Leader Sajith Premadasa criticizes this move, questioning the welfare of school students and calling for a detailed investigation.
 
-தற்போது 6 மதுபான உற்பத்திசாலை அனுமதிப் பத்திரங்களும் வழங்கப்பட்டுள்ளது. இதனை கருத்திற்கொண்டே மது வரி ஆணையாளராக குணசிறி மீண்டும் நியமிக்கப்பட்டுள்ளார். தேர்தலை இலக்காக் கொண்டு பணம் சேகரிப்பதான செயற்பாடா இது என்ற சந்தேகம் எழுவதால் இதன் உண்மைத்தன்மையை வெளிப்படுத்துமாறும்  எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+🟩
 
-நாட்டின் 41 இலட்சம் பாடசாலை மாணவர்களின் நலனை கருதியே இது சம்பந்தமாக கேள்வி எழுப்புகிறேன். வரப்பிரசாதங்களுக்குட்பட்டு தான் பொய்யான விடயங்களை முன்வைக்கவில்லை. சொல்வதை பொறுப்புடன் சொல்கிறேன்.
+Ipl.. It is planned to issue 200 liquor permits under license 4. Opposition Leader Sajith Premadasa revealed in Parliament today (19) that 15 of them have already been issued these permits and have been charged with Rs 2 crore.
 
-இந்த சட்டவிரோத உரிமப் பத்திரங்கள் அனைத்தும் ஐக்கிய மக்கள் சக்தி அரசாங்கத்தின் கீழ் திரும்பப் பெறப்படும். இது தொடர்பான விரிவான விசாரணை தேவை என்றும் எதிர்க்கட்சித் தலைவர் இங்கு தெரிவித்தார்.
+Currently, 6 Liquor Production Permits have been issued. Gunasiri has been re -appointed as the Commissioner of Liquor Tax. The Opposition Leader also said that it was suspicious that this was the process of collecting money by targeting the election.
+
+I question the welfare of the country's 41 lakh school students. He does not present false matters in accordance with gifts. Let me tell you responsibly.
+
+All these illegal licenses will be withdrawn under the United People's Power Government. The opposition leader said that a detailed investigation was needed.
 
 ◼️
 
 [Data](articles/d3ab6636.json)
 
+[Extended Data](ext_articles/d3ab6636.ext.json)
+
 ---
 
-### ෆොන්සේකා ගැන සජිත් කළ ඉල්ලීම අධිකරණය ප්‍රතික්ෂේප කරයි
+### Court denies Sajith's request on Fonseka
 
 *2024-03-19 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194694) · `si`
 
-ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා සමගි ජන බලවේගය තුළ දරන තනතුරුවලින් ඒ මහතා ඉවත් කිරීම වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය විසුරුවා හරින ලෙස සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස මහතා ඇතුළු පිරිසක් කළ ඉල්ලීමක් කොළඹ දිසා අධිකරණය ප්‍රතික්ෂේප කළේය.
+The Colombo District Court denied Sajith Premadasa's request to dissolve Field Marshal Sarath Fonseka's injunction, extending it until April 2. Despite lawyers for Fonseka and others named as respondents demanding the removal of complaints, the court upheld the injunction after reviewing submissions.
 
-ඒ අනුව අදාළ වාරණ නියෝගය අප්‍රේල් මස 02 වනදා දක්වා දීර්ඝ කිරීමටත් අධිකරණය නියම කර තිබේ.
+🟩
 
-සරත් ෆොන්සේකා මහතා විසින් ගොනුකළ පැමිණිල්ලක් සලකාබැලූ කොළඹ දිසා අධිකරණය ඉකුත්දා මෙම වාරණ නියෝගය නිකුත් කර තිබුණි.
+The Colombo District Court also demanded a request made by the Leader of Sajith Premadasa to dissolve the injunction of Field Marshal Sarath Fonseka.
 
-එම වාරණ නියෝගය නිකුත් කර තිබෙන ආකාරය දෝෂ සහිත බවත් එබැවින් එය ඉවත් කරන ලෙසත් ඉල්ලා අදාළ පැමිණිල්ලේ වගඋත්තරකරුවන් වශයෙන් නම්කර සිටින සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස, මහලේකම් රංජිත් මද්දුමබණ්ඩාර ඇතුළු පිරිසක් වෙනුවෙන් පෙනී සිටි නීතිඥවරුන් අධිකරණය හමුව කරුණු දැක්වීය.
+Accordingly, the Court has been appointed to extend the injunction order on April 2.
 
-එහෙත් සරත් ෆොන්සේකා මහතා වෙනුවෙන් පෙනී සිටි නීතිඥවරුන් කියා සිටියේ අදාළ වාරණ නියෝගය තවදුරටත් දීර්ඝ කරන ලෙසය.
+The injunction was issued by the Colombo District Court recently.
 
-ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කෙරුණි.
+The lawyers who were named as the respondents, Sajith Premadasa, who is named as the respondents and several other people who have been named as respondents to the complaint, is demanding the relocates of the complaints that have been issued to remove it.
+
+But the lawyers who sat for Mr. Fonseka said that the injunction order was further extended.
+
+The order was issued after considering the submissions.
 
 ◼️
 
 [Data](articles/bbf66558.json)
 
+[Extended Data](ext_articles/bbf66558.ext.json)
+
 ---
 
-### හෙටත් මුළු රටම රත්වෙයි
+### Total drought
 
 *2024-03-19 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194693) · `si`
 
-හෙට (20) දිනය පුරා දිවයිනේ පළාත් රැසක ඇතැම් ස්ථානවල උණුසුම් දර්ශකය එනම් මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Meteorological Department warns of total drought in Vavuniya, Mullaitivu, Moneragala, Ratnapura, and Gampaha districts tomorrow, focusing on the warm index.
 
-ඒ අනුව වයඹ, උතුරු-මැද, නැගෙනහිර පළාත්වල සහ මන්නාරම, වවුනියාව, මුලතිව්, මොණරාගල, හම්බන්තොට, රත්නපුර, කොළඹ සහ ගම්පහ දිස්ත්‍රික්කවලට අදාළව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් මෙම අනතුරු ඇඟවීම නිකුත් කර තිබේ.
+🟩
+
+The Meteorological Department says that the warm index should be focused on several places in some places tomorrow (20).
+
+Accordingly, the warning has been issued by the Department of Meteorology, Vavuniya, Mullaitivu, Moneragala, Ratnapura, Ratnapura and Gampaha districts.
 
 ◼️
 
 [Data](articles/0768daa1.json)
+
+[Extended Data](ext_articles/0768daa1.ext.json)
 
 ---
 
@@ -125,6 +177,46 @@ Accordingly, the University Employees Union held a one -day identity strike and 
 [Data](articles/a603885b.json)
 
 [Extended Data](ext_articles/a603885b.ext.json)
+
+---
+
+### Four Sri Lanka opposition MPs resign from parliament panel over integrity issue
+
+*2024-03-19 16:28:00* · [`economynextcom`](https://economynext.com/four-sri-lanka-opposition-mps-resign-from-parliament-panel-over-integrity-issue-155202/) · `en`
+
+ECONOMYNEXT – Four opposition legislators in Sri Lanka resigned from the Parliament’s Committee on Public Enterprises (COPE) within two days over integrity concerns of the panel citing that they had to sit with corrupt ruling politicians.
+
+Opposition parliamentary members Dayasiri Jayasekera, Charitha Herath, and S M Marikkar resigned on Tuesday, a day after the resignation of former state finance minister Eran Wickremeratne’s resignation.
+
+The opposition members blamed the integrity concerns of COPE established on March 7 under the chairmanship of Ruling Sri Lanka Podujana Peramuna (SLPP) MP Rohitha Abeygunawardena, who has been accused of misappropriation of public funds under the previous government.
+
+Wickremeratne in a statement said 31 appointees to the COPE must not be associated with allegations and/or convictions.
+
+...
+
+[Data](articles/1b782c0d.json)
+
+---
+
+### Sri Lanka stocks close down, turnover at 4bn
+
+*2024-03-19 16:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-at-4bn-155212/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
+
+The broader All Share Index closed down 0.39 percent, or 44.54 points, at 11,276; while the S&P SL20 Index closed down 0.85 percent, or 27.46 points, at 3,209.
+
+Turnover was at 4 billion. Most of this (2.9mn) came from an off board crossing on LOLC Finance Plc, the share closed flat at 5.50.
+
+“Market moved up for a continuous period, so possibly there was some profit-taking that came in today,” participants said.
+
+“Selling pressure was high around bluechips, such as John Keells Holdings (down at 190.25), and banking stocks, such as HNB (down at 166.75).”
+
+Major contributors to the Index included Ceylon Beverage Holdings Plc (up at 1,532.75), Ceylon Tobacco Company Plc (up at 1,198.25), and Sampath Banka Plc (up at 77.90). (Colombo/Mar19/2024)
+
+◼️
+
+[Data](articles/d309b91d.json)
 
 ---
 
@@ -868,6 +960,26 @@ They said that 10 grams of 250 mg of heroin was seized from the suspect.
 
 ---
 
+### සර්කෝනියම් නිෂ්පාදනයට රජරට පේටන්ට් බලපත්‍රය ගනියි
+
+*2024-03-19 14:15:42* · [`adalk`](https://www.ada.lk/breaking_news/සර්කෝනියම්-නිෂ්පාදනයට-රජරට-පේටන්ට්-බලපත්‍රය-ගනියි/11-408701) · `si`
+
+රජරට විශ්ව විද්‍යාලය සිදු කල පර්යේෂණයක ප්‍රතිඵලයක් ලෙස සර්කෝනියම් නිෂ්පාදනයට පේටන්ට් බලපත්‍රය හිමිව ඇති බව රජයේ විශ්ව විද්‍යාල උපකුලපති සංගමයේ සභාපති සහ රජරට විශ්ව විද්‍යාලයේ උපකුලපති මහාචාර්ය සංජීවනී ගිනිගද්දර පැවසුවාය.
+
+අනුරාධපුරයේදී ඊයේ (18) පැවැත්වූ ප්‍රවෘත්ති  සාකච්ඡාවකට එක්වෙමින් උපකුලපතිවරිය මේ බව අනාවරණය කළාය.‍ෙ
+
+ලෝකයේ හොඳම ඉල්මනයිට් ලෙස සැලකිනය පුල්මුණේ ඉල්මනයිට් තුලින් රජරට විශ්ව විද්‍යාලයේ තාක්ෂණ පීඨයේ මහාචාර්ය මහාචාර්ය ආනන්ද කරුණාරත්න මහතා සිදු කල පර්යේෂණයක ප්‍රතිඵලයක් ලෙස සර්කෝනියම් නිෂ්පාදනයට පේටන්ට් බලපත්‍රය හිමිව තිබේ.
+
+මෙතෙක් කල් ඉල්මනයිට් අපනයනය කිරීම පමණක් ලංකාව සිදු කල අතර සර්කෝනියම් නිෂ්පාදනය කිරීමෙන් ජෙට් එන්ජින්, ගුවන් යනා, අභ්‍යාව කාශ පටල, සෙරමික්, බල්බ පිලමන්ට් ආදිය සඳහා මෙය  යොදා ගත හැක.
+
+මේ වන වන විට ලංකාවේ ක්‍රියාත්මක විශ්ව විද්‍යාල  (17) අතුරින් පර්යේෂණ අංශයෙන් ලංකාවෙන්ම රජරට විශ්ව විද්‍යාලයට ප්‍රථම ස්ථානයට පැමිණීමට හැකිවී ඇති බවද මහාචාර්ය සංජීවනී ගිනිගද්දර සඳහන් කළාය.
+
+...
+
+[Data](articles/a1b57f8d.json)
+
+---
+
 ### Dayasiri Jayasekara also resigns as COPE member
 
 *2024-03-19 14:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98053/dayasiri-jayasekara-also-resigns-as-cope-member) · `en`
@@ -1336,17 +1448,15 @@ The Minister said the claim by the Central Bank that it has the independence to 
 
 *2024-03-19 12:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98050/sapugaskanda-refinery-to-operate-as-a-separate-public-enterprise) · `en`
 
-The government says it has decided to operate the Sapugaskanda Oil Refinery as a public enterprise disjoined from the Ceylon Petroleum Corporation (CPC).
+The government says it has decided to operate the Sapugaskanda Oil Refinery as a state-owned business entity disjoined from the Ceylon Petroleum Corporation (CPC).
 
 The proposal, tabled by Minister of Power and Energy Kanchana Wijesekera, was green-lighted by the Cabinet of Ministers at its meeting convened on Monday (March 18).
 
 In a statement, the government said it has identified the need to make a ‘critical investment’ to upgrade the oil refinery in order to keep it up and running for another 25 years.
 
-Thereby, it has been decided that the Sapugaskanda Oil Refinery be operated as a separate public enterprise so that necessary investments could be made by both local and foreign private sectors.
+Thereby, it has been decided that the Sapugaskanda Oil Refinery be operated as a separate public enterprise and to call Expressions of Interest (EOIs) to select a suitable strategic investment partner to upgrade the infrastructure facilities to address the existing operational challenges.
 
-The facility, which is the only oil refinery in Sri Lanka, was established in 1969 and fulfils approximately 25% of the country’s demand for refined petroleum products.
-
-◼️
+...
 
 [Data](articles/1a7dc01a.json)
 
@@ -2177,121 +2287,5 @@ The OIC Chief Inspector Thilak Samaranayake, Chief Inspector Thilak Samaranayake
 [Data](articles/3e125a96.json)
 
 [Extended Data](ext_articles/3e125a96.ext.json)
-
----
-
-### Gota's former arrested with heroin
-
-*2024-03-19 10:42:51* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාගේ-හිටපු-උපදේශකයෙක්-හෙරොයින්-සමග-අත්අඩංගුවට/11-408691) · `si`
-
-Gota's former arrested with heroin. Kandy Division CID arrested suspect with two grams of heroin, linked to army and former President Gotabhaya Rajapaksa. 35-year-old father from Nelliyapitiya, arrested for drug trafficking. Further investigations by OIC Chief Inspector Thilak Samaranayake.
-
-🟩
-
-The Kandy Division Criminal Investigation Unit (SLMC) has been arrested on suspicion with two grams of heroin with two grams of heroin with two grams of heroin.
-
-Police investigations have revealed that the suspect was closely with the army, which was closely with the former President Gotabhaya Rajapaksa.
-
-The suspect is a 35 year old father of two, a resident of Nelliyapitiya. Police said the suspect was arrested by heroin with heroin, according to the police investigating heroin that the suspect was deployed by heroin.
-
-Police investigations have revealed that heroin was referred to the drug trafficking of organized crime while serving in a private company in Dematagoda after the army was out of the army.
-
-The suspect is said to be among the ten-hiding shovelists in the Unit that he served in the unit, police said.
-
-The OIC Chief Inspector Thilak Samaranayake, Chief Inspector Thilak Samaranayake, is conducting further investigations.
-
-◼️
-
-[Data](articles/c4cdcfe6.json)
-
-[Extended Data](ext_articles/c4cdcfe6.ext.json)
-
----
-
-### The risk of death of monkeys with purple leaf -shaped face - animal behavior analyst
-
-*2024-03-19 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179089) · `ta`
-
-Purple-faced Langer Monkeys, found in Western countries, face risks from dogs, humans, and vehicles due to urban deforestation. Recently, three were shot dead near Talangama Lake, and two injured. They're protected under Section 30 of the FFPO, but their presence in urban areas is concerning.
-
-🟩
-
-Purple -faced Langer Monkeys found in Western countries, also known as purple -leaf -shaped monkeys, have invaded residential areas in search of food and rest due to deforestation in urban areas.
-
-As a result, the monkeys are in danger of facing the risk of dogs, humans and vehicles, said Professor Wolfkang Ditus, a Smithsonian's animal behavioral analyst and ecological expert.
-
-Recently, it was reported on social media that three purple faces were shot dead near the Talangama Lake and two of them were injured.
-
-Monkeys living in trees with purple leaf -shaped face.
-
-In this situation, people in urban areas now count the purple leaf -shaped monkeys, like the ruins that cause destruction in plants.
-
-Purple -faced Langur Monkeys found in Western countries are a species protected under Section 30 of the Plants and Animals Protection Authority (FFPO).
-
-He said it was estimated by the International Union for Natural Protection (IUCN) that this is a nearby race.
-
-◼️
-
-[Data](articles/40c5525c.json)
-
-[Extended Data](ext_articles/40c5525c.ext.json)
-
----
-
-### Explosive ’devil comet’ returns for 1st time in 71 years
-
-*2024-03-19 10:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Explosive-devil-comet-returns-for-1st-time-in-71-years/108-279140) · `en`
-
-A rare and massive comet with a devilish nickname is set to pass by Earth for the first time in 71 years and may be visible during the highly anticipated April 8 total solar eclipse, according to NASA.
-
-Officially named comet 12P/Pons-Brooks, the cryovolcanic comet is known as the "devil comet" due to its formation of two "horns" made up of ice and gas and periodic explosions.
-
-Comets are made up of dust, frozen gases, ice and rocks bound together following the formation of the solar system, NASA says.
-
-The devil comet is heading for its next perihelion passage, when it will reach its closest point to the sun and shine the brightest, on April 21, according to NASA. The agency says this astronomical event coincides with the April 8 total solar eclipse in North America, which will shadow parts of the United States from Texas to Maine when the moon passes between the sun and the Earth.
-
-...
-
-[Data](articles/5afaff85.json)
-
-[Extended Data](ext_articles/5afaff85.ext.json)
-
----
-
-### Attan Sri Manikkapillai Devasthanam
-
-*2024-03-19 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179093) · `ta`
-
-Attan Sri Manikkapillai Devasthanam, capital of Nuwara Eliya district, is Hatton, a peaceful city with a 155-year history, including a railway station opened in 1884.
-
-🟩
-
-Attan Municipality is the capital of the Nuwara Eliya district. Hatton, which is proud to be a city of peace, has a 155 -year history. The railway station was opened in 1884.
-
-◼️
-
-[Data](articles/b6e0b358.json)
-
-[Extended Data](ext_articles/b6e0b358.ext.json)
-
----
-
-### To whom and to support the upcountry parties?
-
-*2024-03-19 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179092) · `ta`
-
-The upcountry parties' role and support are a topic of debate. National parties are forming alliances, with the Tamil Progressive Alliance and Ceylon Workers Congress showing shifts in their political stances. The TNA has signed an agreement with Sajith, focusing on social justice and land rights, raising questions about the government's responsibilities. The CWC's support for President Wickremesinghe over the UNP indicates a shift in alliances. The TNA's demands, including housing, salaries, and land rights, highlight the government's obligations. The situation suggests a complex political landscape with shifting alliances and demands for social justice.
-
-🟩
-
-Questions about whether the first to come to the parliamentary election or the presidential election is in the minds of the people of the country. National parties are busy creating alliances. The people of the country know that no coalition other than the national power of the people. This is why Anura Kumara Dissanayake, who is avoiding joining anyone in his alliance, is on the verge of not joining with whom.
-
-In this case, what is the point of the upcountry political parties. The Tamil Progressive Alliance, which is already a coalition, is working in favor of the Sajith -led United People's Power. The Ceylon Workers Congress initially supported the coalition of many parties called the PA. Now, it is directly supporting President Ranil Wickremesinghe. For that, the CWC cannot be assumed to support the United National Party.
-
-...
-
-[Data](articles/afceff00.json)
-
-[Extended Data](ext_articles/afceff00.ext.json)
 
 ---

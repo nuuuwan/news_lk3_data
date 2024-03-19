@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 18:51:34**
+As of **2024-03-19 19:04:10**
 
 ## Newspaper Stats
 
-*Scraped **13,887** Articles*
+*Scraped **13,891** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,131 @@ dailyftlk | 727
 economynextcom | 735
 islandlk | 761
 adalk | 1,200
-adaderanalk | 1,668
+adaderanalk | 1,669
 tamilmirrorlk | 1,689
-virakesarilk | 1,940
-dailymirrorlk | 2,120
+virakesarilk | 1,942
+dailymirrorlk | 2,121
 adaderanasinhalalk | 2,212
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,885 (100.0%) of 13,887 articles have been extended.
+13,887 (100.0%) of 13,891 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### ලංගම බස් රථයක් පෙරළෙයි
+### Cabinet approval to draft laws to amend Sri Lanka’s electoral system
+
+*2024-03-19 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98059/cabinet-approval-to-draft-laws-to-amend-sri-lankas-electoral-system) · `en`
+
+The Cabinet of Ministers have approved a proposal to draft the necessary laws to amend the electoral system to elect 160 Members of Parliament directly from the voters of the respective constituencies, also known as the First-Past-the-Post (FPTP) system, and for the remaining 65 MPs to be elected according to the proportional voting system at the national or provincial level.
+
+The need to revise the current electoral system has been identified in order to meet the objectives of the Election Expenses Regulation Act No. 3 of 2023 and to achieve a fully democratic election, the Government Information Department said.
+
+Accordingly, a Cabinet sub-committee was appointed to ask the views of all party leaders and other relevant parties representing the Parliament and submit a report to the Cabinet with relevant recommendations.
+
+...
+
+[Data](articles/895f8ad2.json)
+
+---
+
+### அதிர்ச்சியில் நிலத்தில் விழுந்தவர் உயிரிழந்துள்ளார்
+
+*2024-03-19 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179162) · `ta`
+
+பூண்டுலோயா பொலிஸ் பிரிவுக்குட்பட்ட சீன் தோட்ட மேல் பிரிவு தோட்டத்தில் அதிர்ச்சிக்கு உள்ளாகி தரையில் விழுந்த நபர் ஒருவர் உயிரிழந்துள்ளார்.
+
+சம்பந்தப்பட்ட நபர் வசிக்கும் இலக்கம் நான்கு தொடர் குடியிறுப்பு வீட்டு பகுதியில் தனது கண்முன்னே மின் கம்பத்தில் திடீரென மின் இணைப்பு வயர்கள் தீப்பிடித்து எரிவதை பார்த்து அதிர்ச்சி அடைந்த நபர் திடீரென தரையில் வீழ்ந்து உயிரிழந்ததாக விசாரணையில் தெரியவந்துள்ளது.
+
+ஞாயிற்றுக்கிழமை (17)  மாலை இடம்பெற்ற இந்த சம்பவத்தில் சுப்பையா சண்முகம் (வயது 58) என்பவர் உயிரிழந்துள்ளதாக விசாரணைகளை மேற்கொண்டு வரும் பூண்டுலோயா பொலிஸார் தெரிவித்தனர்.
+
+அதேநேரத்தில் சீன் மேல் பிரிவு தோட்டத்தில் அடிக்கடி மின் இணைப்பு வயர்கள் தீப்பிடிப்பதாக தெரிவிக்கும் தோட்ட மக்கள் இத் தோட்டத்தில் தொடர் குடியிருப்புகள் அருகில் காணப்படும் மின் கம்பங்களில் மின் கசிவுகள் மற்றும் இணைப்பு வயர்கள் தொடர்பில் இலங்கை மின்சார சபை பிராந்திய தொழிநுட்ப்ப அதிகாரிகள் பார்வையிட்டு சீர்த்திருத்த நடவடிக்கை எடுக்க வேண்டுமென மக்கள் கோரிக்கை விடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/dc847fe6.json)
+
+---
+
+### கென்ய வீதி விபத்தில்  பல்கலை மாணவர்கள் 11 பேர் பலி
+
+*2024-03-19 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179161) · `ta`
+
+கென்யாவில் பஸ் ஒன்றும் லொறி ஒன்றும் மோதிக்கொண்டதால் பல்கலைக்கழக மாணவர்கள் 11 பேர் உயிரிழந்துள்ளனர்.
+
+இச்சம்பவத்தையடுத்து, கென்ய வீதி விபத்து அதிகரிப்பு குறித்து விசாரணை நடத்துமாறு கென்ய அரசாங்கம் உத்தரவிட்டுள்ளது.
+
+◼️
+
+[Data](articles/ca7707c3.json)
+
+---
+
+### SLTB bus topples
 
 *2024-03-19 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194697) · `si`
 
-ලංගම බස් රථයක් පෙරළී යාමෙන් සිදුවූ අනතුරකින් තුවාල ලැබූ පිරිසක් ප්‍රතිකාර සඳහා රෝහල්ගතකර තිබේ.
+A SLTB bus crash in Kandy to Horowpathana resulted in numerous injuries, with the affected hospitalized.
 
-මහනුවර සිට හොරොව්පතාන දක්වා ධාවනය වෙමින් තිබූ ලංගම බස් රථයක් පෙරළී මෙම අනතුර සිදුව ඇත.
+🟩
+
+A large number of injured in an accident in a crash of a SLTB bus was hospitalized.
+
+The accident had taken place in Kandy to Horowpathana.
 
 ◼️
 
 [Data](articles/a3acf9ca.json)
 
+[Extended Data](ext_articles/a3acf9ca.ext.json)
+
 ---
 
-### බැංගලෝර් යන්න ගිය ශ්‍රී ලන්කන් යානය විනාඩි 40කින් ආපසු එයි
+### Global ocean heat hit a new record every single day for the last year
+
+*2024-03-19 18:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Global-ocean-heat-hit-a-new-record-every-single-day-for-the-last-year/108-279169) · `en`
+
+(CNN) - The world’s oceans have now experienced an entire year of unprecedented heat, with a new temperature record broken every day, new data shows.
+
+Global ocean surface temperatures started breaking daily records in mid-March last year, according to data from the National Oceanic and Atmospheric Administration (NOAA) and the University of Maine’s Climate Reanalyzer, fueling concerns for marine life and extreme weather across the planet.
+
+“The amplitude by which previous sea surface temperature records were beaten in 2023, and now again in 2024, is remarkable,” said Joel Hirschi, associate head of marine systems modeling at the National Oceanography Centre in the UK.
+
+Global average ocean temperatures in 2023 were 0.25 degrees Celsius warmer than the previous year, said Gregory C. Johnson, a NOAA oceanographer. That rise is “is equivalent to about two decades’ worth of warming in a single year,” he told CNN. “So it is quite large, quite significant, and a bit surprising.”
+
+...
+
+[Data](articles/740170b1.json)
+
+---
+
+### The Sri Lankan plane to go on Bangalore returns 40 minutes
 
 *2024-03-19 18:11:46* · [`adalk`](https://www.ada.lk/breaking_news/බැංගලෝර්-යන්න-ගිය-ශ්‍රී-ලන්කන්-යානය-විනාඩි-40කින්-ආපසු-එයි/11-408705) · `si`
 
-ඉන්දියාවේ බැංගලෝර් නුවර බලා කටුනායක ගුවන් තොටුපොළෙන් 03/19 දින අලුයම පිටත්ව ගිය ශ්‍රී ලන්කන් ගුවන් යානය කාර්මික දෝශයකට ලක් වීම නිසා  විනාඩි 40 ක ගුවන් ගමනකින් පසුව ආපසු යළිත් කටුනායක ගුවන් තොටුපොළ වෙත ගොඩ බැස්සවීමට සිදු වූ බව ශ්‍රී ලන්කන් ගුවන් සේවයේ ආයතනික සන්නිවේදන අංශයේ ප්‍රධානී දීපාල් පෙරේරා මහතා පැවසීය.
+SriLankan Airlines flight 173 from Katunayake to Bangalore, India, experienced a 40-minute industrial error, returning to Katunayake. The aircraft, a 320, carried 85 passengers.
 
-ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 173 දරන ගුවන් යානය 03/19 දින අලුයම 01.10 ට කටුනායක ගුවන් තොටුපොළෙන් ඉන්දියාවේ බැංගලෝර් නුවර බලා පිටත්ව ගොස් තිබුණි.
+🟩
 
-මේ ගුවන් ගමන සදහා ඒ.- 320 එයාර් බස් වර්ගයේ ගුවන් යානයක් යොදවා තිබූ අතර එහි ගුවන් මගීන් 85 දෙනෙකු ද ගමන් කර තිබුණි.
+SriLankan Airlines Corporate Communications Division headed back to Katunayake after 40 minutes, the Sri Lankan airport was returned to Katunayake after 40 minutes from the Katunayaka airport, India.He said.
 
-මෙම ගුවන් යානයේ සමතුලිතතාවය පවත්වා ගෙන යන පද්ධතියේ හට ගත් කාර්මික දෝශයක් නිසා විනාඩි 40 ක ගුවන් ගමනකින් අනතුරුව 03/19 දින අලුයම 01.50 ට යළිත් කටුනායක ගුවන් තොටුපොළ වෙත " හදිසි " ගොඩ බැස්සවීමක් ප්‍රකාශයට පත් කර ගොඩ බස්සවා තිබුණි.
+SriLankan Airlines had left for 173 to the destruction of India at the Katunayake airport at the Katunayake airport on April 03/19.
 
-මෙම ගුවන් යානය තුළ ගමන් කළ ගුවන් මගීන් වෙනත් විකල්ප ගුවන් යානා මගින් ඉන්දියාවේ බැංගලෝර් නුවර ගුවන් තොටුපොළ වෙත යොමු කිරීමට පියවර ගෙන තිබුණි.
+A. 320 was deployed to the flight and 85 passengers were traveling.
+
+After 40 minutes of industrial error, a 40 minutes of industrial error, had been landed after a 40 minute of industrial error.
+
+Passengers on the plane were taken to direct passengers to the airport in Bangalore, India by other alternative aircraft.
 
 ◼️
 
 [Data](articles/8bc9735f.json)
+
+[Extended Data](ext_articles/8bc9735f.ext.json)
 
 ---
 
@@ -2185,101 +2263,5 @@ The Japanese delegation has stressed the stand of the National Monetary Fund's i
 [Data](articles/a45232e4.json)
 
 [Extended Data](ext_articles/a45232e4.ext.json)
-
----
-
-### Additional Reading Books to Development of Sexity
-
-*2024-03-19 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194673) · `si`
-
-Dr. Susil Premajayantha, Minister of Education, announced the addition of four reading books to school libraries to improve sexual education. These books are for Advanced Level 16 to Advanced students, targeting the Malseky, "12+ in a" new youth "for 9,10," and "12+ adolescentEducate the health of health. The Ministry aims to raise awareness on proper health measures among 40-47% of the population who do not currently use them. A memorandum has been submitted to the Cabinet for approval, with funds allocated for welfare. The Ministry plans to provide vouchers for high-grade 6 students to purchase quality hygiene equipment.
-
-🟩
-
-Minister of Education Dr. Susil Premajayantha says that many technologies have been implemented to enhance the sexual education of school children.
-
-The Minister of Education made this observation today.
-
-Speaking further the Ministry of Education said four additional readings were given to school libraries.
-
-Minister of Education, Dr. Susil Premajayantha said,
-
-An additional reading book for school libraries have been prepared for school libraries for Advanced Level 16 to the Advanced Students. Next, the Ministry of Education "is near to the students" of the Malseky, "12+ in a" new youth "for 9,10," 12+ adolescent books for "12+ adolescentEducate the health of health and the Ministry of Education by the Ministry of Education. "
-
-...
-
-[Data](articles/8f1e1c4a.json)
-
-[Extended Data](ext_articles/8f1e1c4a.ext.json)
-
----
-
-### Cabinet approves import of 42 million eggs till end April
-
-*2024-03-19 11:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-approves-import-of-42-million-eggs-till-end-April/108-279152) · `en`
-
-Colombo, March 19 (Daily Mirror) - Cabinet approval was granted today to import another stock of 42 million eggs for the requirements of the people and to provide them at a fair price.
-
-Cabinet Spokesman and Minister Bandula Gunawardana said Caninet granted approval to import sufficient stocks of eggs to stabilize the market in the country until April 30.
-
-Accordingly, permission was granted to import 42 million eggs for the requirement of the new year festive season. He also said that 18 million eggs had already been ordered.
-
-In order to import this amount of eggs, prices have been collected from Indian institutions recommended by the Animal Production and Health Department and Cabinet has approved the proposal by the President to award the relevant procurement as recommended by the Standing Procurement Committee appointed by the Cabinet.
-
-◼️
-
-[Data](articles/56ee676c.json)
-
-[Extended Data](ext_articles/56ee676c.ext.json)
-
----
-
-### Sent on the necklace of the stalling in the corporation
-
-*2024-03-19 11:40:32* · [`adalk`](https://www.ada.lk/breaking_news/කැබ්රථයේදී-අතවරකොට-ගෙලබැදි-රණ්-මාලයත්-අරගෙනම-යවලා/11-408693) · `si`
-
-A woman from Dombagahawela was arrested for a robbery. She was picked up at the post office, questioned, and taken to Galabedda. The driver, Cabbitha, was arrested and the victim was taken to the hospital.
-
-🟩
-
-A woman from the Aleland area of Dombagahawela Police Division has been arrested by a collaboration with a collapse of a golden robbery.
-
-The next 9pm had arrived at the Dombagahawela Post Office at 9:00 pm to obtain a parcel from Colombo from a bus from Colombo.
-
-At that point she was asked where a copy of her was going to a close cease.
-
-The driver has stood up to the front seat of the corporation by saying she was going to the city of Dombagahawela.
-
-The Cabbitha was taken to a desolation of Galabedda area and returned from the car to her whereabouts was left behind.. When she dropped from the cab, the village Ranmal has been buried by its driver.
-
-The suspect had been arrested following the complaint to the Dombagewela police and he was produced before the Siyambalanduwa Magistrate's Court.
-
-The victim was rushed to the Moneragala district hospital for a medical examination.
-
-◼️
-
-[Data](articles/c90cc9d3.json)
-
-[Extended Data](ext_articles/c90cc9d3.ext.json)
-
----
-
-### Govt. successfully fulfilled majority of promises under President Ranil’s leadership - Wakkumbura
-
-*2024-03-19 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98047/govt-successfully-fulfilled-majority-of-promises-under-president-ranils-leadership-wakkumbura) · `en`
-
-State Minister of Provincial Councils, Local Government, and Environment Janaka Wakkumbura says that the government has successfully delivered on a significant portion of its promises under the leadership of President Ranil Wickremesinghe.
-
-Further, he asserted that the ongoing construction of 162 bridges is expected to be finished and officially handed over to the public before this August.
-
-Wakkambura made these remarks during a press briefing held at the Presidential Media Centre (PMC) on the theme ‘Collective Path to a Stable Country’ on Monday (March 18).
-
-“We, the government, led by President Ranil Wickremesinghe, have achieved a significant progress in fulfilling its promises, with the completion of a majority of commitments. Among these accomplishments is the ongoing construction of 162 bridges, with a budget exceeding Rs. 16,000 million allocated for this infrastructure project.
-
-...
-
-[Data](articles/71bac9af.json)
-
-[Extended Data](ext_articles/71bac9af.ext.json)
 
 ---

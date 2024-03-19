@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 02:03:04**
+As of **2024-03-20 02:17:53**
 
 ## Newspaper Stats
 
-*Scraped **13,948** Articles*
+*Scraped **13,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 131
 bbccomsinhala | 153
 dbsjeyarajcom | 188
 newsfirstlk | 363
-dailyftlk | 733
+dailyftlk | 734
 economynextcom | 742
 islandlk | 761
 adalk | 1,206
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,220
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,945 (100.0%) of 13,948 articles have been extended.
+13,948 (100.0%) of 13,949 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### Cabinet nod for electoral reforms ahead of elections
+
+*2024-03-20 01:52:26* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-for-electoral-reforms-ahead-of-elections/56-759704) · `en`
+
+The Cabinet of Ministers on Monday approved a proposal to reform the electoral system that will see a hybrid system for parliamentary representation where 160 members would be appointed by first past-the-post system while 65 members would be elected under the proportional representation system.
+
+At its meeting on Monday, the Cabinet decided to instruct the Legal Draftsman to propose amendments necessary to revise the Regulation of Election Expenditure Act No. 3 of 2023 which will include recommendations.
+
+The proposed amendments will consider proposals made by a committee chaired by Prime Minister Dinesh Gunawardena, which was appointed to address electoral system reforms.
+
+...
+
+[Data](articles/caccf095.json)
+
+---
 
 ### India pledges $ 61.5m grant to develop KKS Port
 
@@ -49,6 +65,8 @@ During the discussion, the Indian High Commissioner has expressed India›s comm
 ...
 
 [Data](articles/712b88df.json)
+
+[Extended Data](ext_articles/712b88df.ext.json)
 
 ---
 
@@ -70,6 +88,8 @@ He asserted the importance of formulating a foreign trade agreement policy, high
 
 [Data](articles/22f51281.json)
 
+[Extended Data](ext_articles/22f51281.ext.json)
+
 ---
 
 ### Dialog Enterprise and Bahrain-based CTM360 partner to launch Digital Risk Protection platform
@@ -85,6 +105,8 @@ A holistic solution stack to address the current cybersecurity challenges faced 
 ...
 
 [Data](articles/efa81333.json)
+
+[Extended Data](ext_articles/efa81333.ext.json)
 
 ---
 
@@ -2217,23 +2239,5 @@ According to the report of the World Bank, the world has called a fastest respon
 [Data](articles/6aaf9ccb.json)
 
 [Extended Data](ext_articles/6aaf9ccb.ext.json)
-
----
-
-### More Opposition members resign from COPE
-
-*2024-03-19 15:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/More-Opposition-members-resign-from-COPE/155-279166) · `en`
-
-Colombo, March 19 (Daily Mirror) - A group of Opposition MPs including Dayasiri Jayasekara, Charitha Herath, Hesha Vithanage, Nalin Bandara, Shanakkiyam Rasaputhram and S.M. Marikkar have resinged from the Committee on Public Engterprises (COPE).
-
-MPs Dayasiri Jayasekara, Hesha Vithanage, Nalin Bandara and Shanakkiyam Rasaputhram told a news conference at the Parliament Complex that they have resigned from the COPE.
-
-They said they could not function as the members of the COPE under its current Chairman Rohitha Abeygunawardan.
-
-◼️
-
-[Data](articles/2004de21.json)
-
-[Extended Data](ext_articles/2004de21.ext.json)
 
 ---

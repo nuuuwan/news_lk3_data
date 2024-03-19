@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 08:17:53**
+As of **2024-03-19 08:33:33**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,180
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,720 (100.0%) of 13,721 articles have been extended.
+13,721 (100.0%) of 13,721 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### රෝහිතට උත්තර නොදී උසාවියේ දී හමුවීමට ජාතික ජන බලවේගයෙන් තීරණයක්
+### Decision on the national propaganda to meet in court without answering Rohitha
 
 *2024-03-19 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194663) · `si`
 
-‍රෝහිත අබේගුණවර්ධන මහතා අපහාසයක් සම්බන්ධයෙන් විජිත් හේරත් මන්ත්‍රීවරයාට එරෙහිව එන්තරවාසියක් යොමුකළ ද ඊට පිළිතුරු නොදෙන බව ජාතික ජන බලවේගය පක්ෂය පවසයි.
+The National folk force criticizes Mr. Rohitha Abeyath for not responding to MP Vijith Herath. Dr. Nalinda Jayatissa suggests that if Rohitha Abeygunawardena files a heavy wealth case, he will counter with a large wealth case. This was discussed at a meeting in Kalutara.
 
-හිටපු පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසුවේ, ඒ හේතුව මත රෝහිත අබේගුණවර්ධන මහතා නඩු පවරන්නේ නම් ඔහු විශාල ධනයක් උපයා ගත් ආකාරය පිළිබඳ සාක්ෂිකරුවන් ඉදිරිපත් කරන බවය.
+🟩
 
-නඩුව අතරමඟ ඉල්ලා අස්කර ගැනීමට ඉඩ නොදෙන බව ද කළුතර ප්‍රදේශයේ පැවති ජන හමුවකදී නලින්ද ජයතිස්ස මහතා සඳහන් කළේය.
+The National folk force says that Mr. Rohitha Abeyath is not answered against MP Vijith Herath.
+
+Former Parliamentarian Dr. Nalinda Jayatissa said that if Rohitha Abeygunawardena would file a heavy wealth, he would present a large wealth.
+
+At a meeting held in Kalutara, Nalinda Jayatissa said at a meeting held in Kalutara.
 
 ◼️
 
 [Data](articles/699c27ec.json)
+
+[Extended Data](ext_articles/699c27ec.ext.json)
 
 ---
 

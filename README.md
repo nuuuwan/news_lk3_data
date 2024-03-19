@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 10:03:04**
+As of **2024-03-19 10:17:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,183
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,731 (100.0%) of 13,737 articles have been extended.
+13,737 (100.0%) of 13,737 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,53 +46,73 @@ The Education Ministry says textbooks and uniform materials have already been ha
 
 [Data](articles/95b8b702.json)
 
+[Extended Data](ext_articles/95b8b702.ext.json)
+
 ---
 
-### පැන් පහසවූ තබ්බෝවටම බිලිවූ හිමිනමක්
+### The monk who has been ease of ease of pan
 
 *2024-03-19 09:44:36* · [`adalk`](https://www.ada.lk/breaking_news/පැන්-පහසවූ-තබ්බෝවටම-බිලිවූ-හිමිනමක්/11-408688) · `si`
 
-කරුවලගස්වැව පොලිස් වසමට අයත් තබ්බෝව ජලාශයේ දිය නෑමට ගිය බව කියන ශීෂ්‍ය භික්ෂූන්වහන්සේ නමක් 18 දින සවස දියේ ගිලී සිටියදී ගොඩට ගෙන රෝහල් ගතකරන විටත් අපවත් වී ඇති බව මූලික විමර්ශනවලදී අනාවරණයවී යැයි කරුවලගස්වැව පොලීසිය කියයි.
+A monk, identified as Kaggala Thalaatuduwa, was found dead in the Morsalawa Reservoir, near Tabbowa Reservoir in Karuwalagaswewa. He was traveling with other monks from Vanathawilluwa.
 
-අපවත්වී ඇත්තේ හිල්ඔය සංගානන්ද නමැති 29 හැවිරිදි කොග්ගල තලාතුඩුව විවේක සේනාසන ලිපිනය සඳහන් හිමි නමක් බවත් පොලීසිය කියයි.
+🟩
 
-මෙම හිමිනම වනාතවිල්ලුව ප්‍රදේශයේ සිට තවත් භික්ෂූන්වහන්සේලා පිරිසක් සමග වෑන් රථයකින් තබ්බෝවට වැඩමකර ඇති බවත් කියයි.
+Karuwalagaswewa Police say that the Morsalawa reservoir is killed in the Tabbowa Reservoir of Tabbowa reservoir in the Karuwalagaswewa reservoir.
+
+Police say that the 29-year-old Kaggala Thalaatuduwa resting address is a name of the 29-year-old Kaggala.
+
+The monk is said to say that the monk has been increased from a van with other monks from Vanathawilluwa.
 
 ◼️
 
 [Data](articles/8edeadfe.json)
 
+[Extended Data](ext_articles/8edeadfe.ext.json)
+
 ---
 
-### කථානායකට එරෙහි විශ්වාසභංග විවාදය ඇරඹේ
+### The no-confidence debate against speaker begins
 
 *2024-03-19 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194666) · `si`
 
-නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් මේ වනවිට පාර්ලිමේන්තු කටයුතු ආරම්භ කර තිබේ.
+The no-confidence debate against Speaker Mahinda Yapa Abeywardena starts today, from 9.30 am to 5.30 pm and 4.30 am to 4.30 am.
 
-අද (19)  කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය ආරම්භ වේ.
+🟩
 
-අද පෙරවරු 9.30 සිට පස්වරු 5.30 දක්වා සහ හෙට (20) පෙරවරු 9.30 සිට පස්වරු 4.30 දක්වා විවාදය පැවැත්වීමට නියමිතව ඇත.
+The Deputy Speaker has commenced the activities of the Hon.
+
+The debate on the no-confidence motion on the proposal against Speaker Mahinda Yapa Abeywardena today begins.
+
+The debate will be held from 9.30 am to 5.30 pm and 4.30 am to 4.30 am.
 
 ◼️
 
 [Data](articles/67b8139c.json)
 
+[Extended Data](ext_articles/67b8139c.ext.json)
+
 ---
 
-### තවමත් පෙළපොත්, නිල ඇඳුම් රෙදි ලැබුණේ නැද්ද ? වහාම දැනුම් දෙන්න
+### Still not found textbooks, uniforms fabrics?Immediately inform
 
 *2024-03-19 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194665) · `si`
 
-රජයේ සියලු‍ පාසල් සිසුන් වෙත 2024 වර්ෂය‍ට අදාළව පෙළ පොත් සහ නිල ඇඳුම් රෙදි ලබාදීම පිණිස අධ්‍යාපන අමාත්‍යාංශය කටයුතු කර තිබේ.
+The Ministry of Education will distribute textbooks and uniform materials to all school children in 2024, with schools to be notified immediately if ineligible.
 
-ඒ අනුව සියලු‍ පාසල් වෙත බෙදාහැරීම පිණිස පාසල් පෙළ පොත් සහ නිල ඇඳුම් රෙදි  දිවයිනේ සියලු‍ම කොට්ඨාස අධ්‍යාපන කාර්යාල ‍වෙත මේ වනවිටත් ලබා දී  අවසන් ව ඇති බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+🟩
 
-මෙතෙක් පාසල් පෙළ පොත් සහ නිල ඇඳුම් රෙදි නොලද කිසියම්  පාසලක් වෙතොත් ඒ පිළිබඳ පහත දුරකථන / ෆැක්ස්/ ඊමේල් මඟින්  වහාම දැනුම් දෙන මෙන් අධ්‍යාපන අමාත්‍යාංශය අදාළ විදුහල්පතිවරුන් වෙත දන්වා සිටී.
+The Ministry of Education has taken measures to provide text books and uniform materials to all school children in the year 2024.
+
+The Ministry of Education has announced that the school school education offices of the country have already been completed to distribute to all schools.
+
+The Ministry of Education has informed the relevant principals to immediately notify the following schools / fax / email if a school is not eligible.
 
 ◼️
 
 [Data](articles/675101b1.json)
+
+[Extended Data](ext_articles/675101b1.ext.json)
 
 ---
 
@@ -138,41 +158,53 @@ They alleged that the annual transfers in the Western Province had been done in 
 
 ---
 
-### වරදක් නොකරම පුංචි මල් කැකුළ සඳහටම නිහඬවෙයි
+### Don't make a little flower without any mistakes
 
 *2024-03-19 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194664) · `si`
 
-විශ්වමඩු ඉලංගෝපුරම් ප්‍රදේශයේදී අනියම් සබඳතාවයකින් උපත ලැබූ දරුවෙකු ඝාතනය කිරීමේ චෝදනාව මත කාන්තාවක් අත්අඩංගුවට ගෙන තිබේ.
+A woman from Pudukudirippu, Mullaitivu, is arrested for killing her newborn in Ilangollem. She was pregnant and gave birth three days ago. The police are investigating further.
 
-මුලතිව් දිස්ත්‍රික්කයේ පුදුකුඩිරිප්පු පොලිස් වසමට අයත් විශ්වමඩු ඉලංගෝපුරම් ප්‍රදේශයේ පදිංචි කාන්තාවක් සිය සැමියාගෙන් වෙන්ව ජීවත් වෙමින් සිටියදී අනියම් සබඳතාවයක් හේතුවෙන් ගැබ්ගෙන ඇත.
+🟩
 
-මෙම කාන්තාව මීට දින තුනකට පෙර දරුවෙකු ප්‍රසූත කර දරුවා ඝාතනය කර තිබේ.
+A woman has been arrested on charges of assassinating a child who was born in an illicit child in the Ilangollem area in Visuamadu.
 
-කාන්තාව කිළිනොච්චිය රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී සිද්ධිය පුදුකුඩිරිප්පු පොලීසියට දන්වා ඇති අතර පොලීසිය විසින් කාන්තාව අත්අඩංගුවට ගෙන වැඩිදුර පරීක්ෂණ පවත්වයි.
+A woman from Pudukudirippu police division in the Mullaitivu district, a woman living in the Ilangollem area of Ilangomune area in the Ilangomune area of the Ilangomune area of the Ilangopem area is pregnant.
 
-අද (19) දින දරුවා මිහිදන් කළ ස්ථානයේ විනිසුරුවරයෙකු ඉදිරියේ පරීක්ෂණ කටයුතු සිදුකිරීමට නියමිතය.
+The woman had given birth to a child three days ago and killed the baby.
+
+The woman was informed to the Pudukudirippu Police while he was receiving treatment at the Kilinochchi Hospital while the police are arrested and conducting further investigations.
+
+Investigations are due to be conducted before a judge in the burial of the child today (19).
 
 ◼️
 
 [Data](articles/82620f4c.json)
 
+[Extended Data](ext_articles/82620f4c.ext.json)
+
 ---
 
-### විශ්‍රාම ගත් වනිඳු යළිත් ටෙස්ට් සංචිතයට
+### Retired forest restored to Test squad
 
 *2024-03-19 09:04:37* · [`adalk`](https://www.ada.lk/sports/විශ්‍රාම-ගත්-වනිඳු-යළිත්-ටෙස්ට්-සංචිතයට/9-408686) · `si`
 
-ටෙස්ට් ක්‍රිකට් ක්‍රීඩාවෙන් සමුගෙන සිටින දඟ පන්දු යවන තුන් ඉදිරියව් ක්‍රීඩක වනිඳු හසරංග නැවතත් ටෙස්ට් සංචිතයට කැඳවා තිබේ. ඒ බංග්ලාදේශය සමගින් පැවැත්විමට නියමිත තරග දෙකකින් යුත් ටෙස්ට් සංචිතයට ඔහු ඇතුළත් කරමිනි.
+Thunderwide player Forest returns to Test squad for two matches against Bangladesh, starting 22nd. He had a three-year hiatus, collecting 196 runs and 4 wickets. Other notable inclusions are Angelo Mathews, Dinesh Chandimal, and Ramesh Mendis.
 
-පළමු තරගය ලබන 22 වැනිදා ආරම්භ විමට නියමිතය. මෙම ටෙස්ට් සංචිතය සඳහා ඇන්ජලෝ මැතිව්ස්, දිනේෂ් චන්දිමාල් මෙන්ම රමේෂ් මෙන්ඩිස්ද කැඳවා තිබේ.
+🟩
 
-වනිඳු හසරංග තුන් ඉරියව් ක්‍රීඩකයෙක් ලෙස ප්‍රකට අතර ඔහු පසුගිය වසරේ ටෙස්ට් පිටියෙන් විශ්‍රාම ගන්නා බව සඳහන් කළේය. ඒ වන විට ඔහු තරග හතරකදී ලකුණු 196ක් රැස්කිරීමට සමත්ව තිබුණ අතර කඩුලු 4ක්ද බිඳ හෙලා තිබුණි.
+Thunderwide player forest at Test cricket has been summoned to Test squad again. He was included in the two-match Test squad, which is held with the Bangladesh.
 
-ශ්‍රී ලංකා ටෙස්ට් සංචිතය: ධනංජය ද සිල්වා (නායක), කුසල් මෙන්ඩිස් (උප නායක), දිමුත් කරුණාරත්න, නිෂාන් මධුෂ්ක, ඇන්ජලෝ මැතිව්ස්, දිනේෂ් චන්දිමාල්, සදීර සමරවික්‍රම, කමිඳු මෙන්ඩිස්, ළහිරු උදාර, වනිඳු හසරංග, ප්‍රභාත් ජයසූරිය, රමේෂ් මෙන්ඩිස්, නිෂාන් පීරිස්, කසුන් රාජිත, විශ්ව ප්‍රනාන්දු, ළහිරු කුමාර සහ චාමික ගුණසේකර
+The first match is scheduled to commence on the 22nd. Angelo Mathews, Dinesh Chandimal and Ramesh Mendis have been called for this Test squad.
+
+It was well known as Thunu Hasaranga, a three-year-old stake in last year, he said he retires from the Test. He had collect 196 runs in four matches and 4 wickets.
+
+Sri Lanka Test squad: Dananjaya De Silva (leader), Kusal Mendis, Kamuth Karikwickra, Phirau Udara, Prabath Mendis, Nishan.Peiris, Kasun Rajitha, University of Kasun Rajitha, University Fernando, Lahiru Kumara and Chamika Gunasekera
 
 ◼️
 
 [Data](articles/6ec57272.json)
+
+[Extended Data](ext_articles/6ec57272.ext.json)
 
 ---
 

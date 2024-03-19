@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 22:33:42**
+As of **2024-03-19 22:50:45**
 
 ## Newspaper Stats
 
-*Scraped **13,921** Articles*
+*Scraped **13,923** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 1,205
 adaderanalk | 1,677
 tamilmirrorlk | 1,690
 virakesarilk | 1,947
-dailymirrorlk | 2,126
-adaderanasinhalalk | 2,218
+dailymirrorlk | 2,127
+adaderanasinhalalk | 2,219
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,920 (100.0%) of 13,921 articles have been extended.
+13,921 (100.0%) of 13,923 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### Bangladesh’s Mushfiqur injured, out of Sri Lanka Tests
+
+*2024-03-19 22:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladeshs-Mushfiqur-injured-out-of-Sri-Lanka-Tests/108-279177) · `en`
+
+Dhaka, Mar. 19 (AFP) - Veteran Bangladesh batsman Mushfiqur Rahim has been ruled out of the upcoming Test series against Sri Lanka due to a thumb injury, the cricket board said Tuesday.
+
+The two-Test series, which is part of the 2023–25 ICC World Test Championship cycle, begins on Friday in Sylhet.
+
+Mushfiqur, Bangladesh's highest run-getter in Tests with 5,676 runs in 88 matches, was injured during Monday's four-wicket win, in the third one-day international against the visitors in Chittagong.
+
+Bangladesh team physio Bayjedul Islam Khan said Mushfiqur was hit by a ball on his right thumb early in the innings while keeping.
+
+"After the match, Mushfiqur underwent an X-ray examination in Dhaka," he said, adding that it revealed his right thumb was fractured.
+
+"He is currently undergoing conservative management for his injury and is expected to be sidelined for around three to four weeks."
+
+It rules him out of the Test series against Sri Lanka, he added.
+
+...
+
+[Data](articles/ef7d8ada.json)
+
+---
+
+### රේගු වෘත්තිය ක්‍රියාමාර්ගය අවසන්
+
+*2024-03-19 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194705) · `si`
+
+රේගු වෘත්තිය ක්‍රියාමාර්ගය තාවකාලිකව අවසන් කිරීමට රේගු නිලධාරීන්ගේ සංගමය තීරණය කර තිබේ.
+
+ඒ අද (19) පස්වරුවේ මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා සමග පැවති සාකච්ඡාවකින් අනතුරුවය.
+
+◼️
+
+[Data](articles/0700e261.json)
+
+---
 
 ### Customs employees temporarily call off trade union action
 
@@ -41,6 +79,8 @@ Sri Lanka Customs Officers’ Union has decided to temporarily call off its trad
 ◼️
 
 [Data](articles/c04426b2.json)
+
+[Extended Data](ext_articles/c04426b2.ext.json)
 
 ---
 
@@ -2191,45 +2231,5 @@ The letter of resignation has been sent to the Speaker.
 [Data](articles/94c4e5d2.json)
 
 [Extended Data](ext_articles/94c4e5d2.ext.json)
-
----
-
-### Australian Security Officers visit Jaffna
-
-*2024-03-19 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179114) · `ta`
-
-Australian officials from the National Security College and Foreign Affairs visited Jaffna University to assess the Maritime Resources and Coast Guard Awareness Program. They met with university representatives and discussed current political, economic conditions, and social projects to combat illegal migration.
-
-🟩
-
-The National Security College of the Australian National University, Australian Foreign and Commerce officials recently made an official visit to the Jaffna University.
-
-Australian National University of Australian National University in Sri Lanka, Australian Foreign Affairs and Commerce Department, to look into the current status of the Maritime Resources and Coast Guard Awareness Program and identify the places where the Australian Government will be provided with the Australian High Commission for the Australian EconomicsVice -Chancellor C.. The team led by Sirisakkunarajah met and discussed.
-
-...
-
-[Data](articles/9a560d8c.json)
-
-[Extended Data](ext_articles/9a560d8c.ext.json)
-
----
-
-### A record change in the dollar
-
-*2024-03-19 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194681) · `si`
-
-The Central Bank of Sri Lanka has recorded a significant change in the dollar's value, causing it to fall less than Rs.
-
-🟩
-
-The Central Bank of Sri Lanka has recorded Rs.
-
-Accordingly, the dollar has fallen less than Rs.
-
-◼️
-
-[Data](articles/4964ab95.json)
-
-[Extended Data](ext_articles/4964ab95.ext.json)
 
 ---

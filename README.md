@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 12:50:16**
+As of **2024-03-19 13:03:13**
 
 ## Newspaper Stats
 
-*Scraped **13,785** Articles*
+*Scraped **13,786** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 128
+colombotelegraphcom | 129
 bbccomsinhala | 152
 dbsjeyarajcom | 188
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,781 (100.0%) of 13,785 articles have been extended.
+13,785 (100.0%) of 13,786 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,25 +48,33 @@ The motion brought forth by the opposition against the Speaker was officially ha
 
 [Data](articles/388ca413.json)
 
+[Extended Data](ext_articles/388ca413.ext.json)
+
 ---
 
-### කථානායකට එරෙහි විශ්වාසභංග විවාදයට තවත් දිනයක්
+### Another day for the no-confidence debate against speaker
 
 *2024-03-19 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194675) · `si`
 
-කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය සඳහා තවත් දිනයක් ලබාදීමට පාර්ලිමේන්තු කටයුතු පිළිබඳව කාරක සභාව තීරණය කර ඇත.
+The Committee on Parliamentary Business has decided to give another day for the debate on the no-confidence motion against Speaker Mahinda Yapa Abeywardena, which will be held on Thursday, 21st. The debate on the no-confidence motion began in Parliament today (19th) and will take place at 4.30 pm on Thursday.
 
-ඒ අනුව එළඹෙන 21 වන බ්‍රහස්පතින්දා දිනයේ ද කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය පැවැත්වෙනු ඇත.
+🟩
 
-එසේම එහිදී වැඩිදුරටත් තීරණය කර ඇත්තේ ගොවීන්ගේ වී මිලදී ගැනිම සම්බන්ධ ගැටලු පිළිබඳව සභාව කල්තැබීමේ විවාදය 22වන සිකුරාදා දහවල් 12.30 සිට පස්වරු 6.00 දක්වා පැවැත්වීමටය.
+The Committee on Parliamentary Business has decided to give another day for the debate on the no-confidence motion on the No-confidence motion on the debate on the debate on the No-confidence motion against Speaker Mahinda Yapa Abeywardena.
 
-කථානායකවරයාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය අද (19) පාර්ලිමේන්තුවේදී ආරම්භ විය.
+Accordingly, the debate on the no-confidence motion proposal against Speaker Mahinda Yapa Abeywardena will also be held on Thursday 21st.
 
-ඒ අනුව එළඹෙන 21 වන බ්‍රහස්පතින්දා පස්වරු 4.30ට කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ ඡන්ද විමසීම පැවැත්වෙනු ඇත.
+The meeting will be decided to hold further debate on the paddy purchasing issues of the farmers' purchasing issues to 6:30 pm to 6.00 pm on Friday.
+
+The debate on the no-confidence motion against Speaker began in Parliament today (19).
+
+Accordingly, the no-confidence motion against Mr. Mahinda Yapa Abeywardena will take place at 4.30 pm on Thursday 21 pm.
 
 ◼️
 
 [Data](articles/e397d015.json)
+
+[Extended Data](ext_articles/e397d015.ext.json)
 
 ---
 
@@ -142,41 +150,53 @@ In their first conversation in a month, US President Joe Biden told Israeli Prim
 
 ---
 
-### අනුර, ජපාන තානාපති හමුවෙයි
+### Anura, Ambassador meets
 
 *2024-03-19 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194674) · `si`
 
-ශ්‍රී ලංකාවේ ජපාන තානාපති මිසුකෝෂි හිඩෙකි මහතා සහ ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා අතර හමුවක් අද (19) පෙරවරුවේ ජවිපෙ ප්‍රධාන කාර්යාලයේදී සිදුව තිබිණි.
+Anura, Ambassador met with the Japanese Ambassador to Sri Lanka and the leader of the National Power at the JVP headquarters. Topics included the economic crisis and political situation. The Japanese delegation emphasized the National Monetary Fund's intervention and investment in Sri Lanka.
 
-මෙම හමුව සඳහා ජපාන තානාපති කාර්යාලයේ නියෝජ්‍ය ප්‍රධානි Katsuki Kotaro මහතා සහ දෙවැනි ලේකම් Imai Kaori මහත්මියද ජාතික ජන බලවේගයේ ජාතික විධායක සභික විජිත හේරත් මහතා ද එක්ව සිටියහ.
+🟩
 
-ශ්‍රී ලංකාවේ මේ වන විට පවතින ආර්ථික අර්බුදය සහ දේශපාලන තත්ත්වය දීර්ඝ ලෙස දෙපාර්ශ්වයේ සාකච්ඡාවට බඳුන් වී ඇති අතර,  එළැඹෙන ජනාධිපතිවරණය පිළිබඳවද අවධානය යොමුව තිබේ.
+Ambassador of Japanese Ambassador to Sri Lanka and the leader of the National Power was held at the JVP headquarters this morning.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ මැදිහත්වීම් පිළිබඳව ජාතික ජන බලවේගයේ ස්ථාවරය ජපාන රාජ්‍යතාන්ත්‍රික නියෝජිතයින්ට මෙහිදී පැහැදිලි කර දී ඇති අතර, ඉදිරියටද ශ්‍රී ලංකාවේ ආයෝජන සිදුකිරීමට ජපානයේ ඇති සූදානම ජපාන නියෝජිත පිරිස විසින් අවධාරණය කර ඇත.
+Deputy Chief of the Japan embassy katsuki Kotaro and the second Secretary Imai Kaori were also present.
+
+The economic crisis and the political situation have been discussed at length, and the political situation has been discussed.
+
+The Japanese delegation has stressed the stand of the National Monetary Fund's intervention, and the Japanese delegation has stressed to invest in Sri Lanka.
 
 ◼️
 
 [Data](articles/a45232e4.json)
 
+[Extended Data](ext_articles/a45232e4.ext.json)
+
 ---
 
-### ලිංගිකත්ව අධ්‍යාපනය සංවර්ධනයට අතිරේක කියවීම් පොත්
+### Additional Reading Books to Development of Sexity
 
 *2024-03-19 11:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194673) · `si`
 
-පාසල් සිසුන්ගේ ලිංගිකත්ව අධ්‍යාපනය ඉහළ නැංවීම සඳහා ක්‍රමවේද රැසක් ක්‍රියාත්මක කර ඇති බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+Dr. Susil Premajayantha, Minister of Education, announced the addition of four reading books to school libraries to improve sexual education. These books are for Advanced Level 16 to Advanced students, targeting the Malseky, "12+ in a" new youth "for 9,10," and "12+ adolescentEducate the health of health. The Ministry aims to raise awareness on proper health measures among 40-47% of the population who do not currently use them. A memorandum has been submitted to the Cabinet for approval, with funds allocated for welfare. The Ministry plans to provide vouchers for high-grade 6 students to purchase quality hygiene equipment.
 
-අද පාර්ලිමේන්තුවේදී අදහස් දක්වමින් අධ්‍යාපන අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ අධ්‍යාපන අමාත්‍යවරයා සඳහන් කළේ මේ සඳහා අතිරේක කියවීම් පොත් 4ක් පාසල් පුස්තකාල වෙත ලබාදී ඇති බවය.
+Minister of Education Dr. Susil Premajayantha says that many technologies have been implemented to enhance the sexual education of school children.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා,
+The Minister of Education made this observation today.
 
-අධ්‍යාපන ප්‍රකාශන දෙපාර්තමේන්තුව විසින් උසස්පෙළ සිසුන් සඳහා "16+ යෞවනයට ආමන්ත්‍රණය" නමින් ලිංගිකත්ව අධ්‍යාපනය පිළිබඳව අතිරේක කියවීම් පොතක් පාසල් පුස්තකාල සඳහා සකස් කර බෙදාහැර ඇත. ඊළඟට අධ්‍යාපන අමාත්‍යාංශය මගින් 6 සිට ඉහළ ශ්‍රේණිවල සිසුන් සඳහා "මල්සමය ළඟයි", 9,10,11 ශ්‍රේණි සඳහා "14+ අසිරිමත් නව යෞවනය" 6,7 ශ්‍රේණි සඳහා "12+ නව යොවුන් වියට පා තබමු" ලෙස සකස් කර ඇති අතිරේක කියවීම් පොත් මගින් ආර්ථව සෞඛ්‍ය පිළිබඳව සිසුන් දැනුවත් කිරීම සහ E තක්සලාව මගින් අධ්‍යාපන අමාත්‍යාංශය වෙබ් පිටුවද ඇතුළත් කර ඇත."
+Speaking further the Ministry of Education said four additional readings were given to school libraries.
+
+Minister of Education, Dr. Susil Premajayantha said,
+
+An additional reading book for school libraries have been prepared for school libraries for Advanced Level 16 to the Advanced Students. Next, the Ministry of Education "is near to the students" of the Malseky, "12+ in a" new youth "for 9,10," 12+ adolescent books for "12+ adolescentEducate the health of health and the Ministry of Education by the Ministry of Education. "
 
 ...
 
 [Data](articles/8f1e1c4a.json)
+
+[Extended Data](ext_articles/8f1e1c4a.ext.json)
 
 ---
 
@@ -1904,6 +1924,18 @@ Therefore, the hospital administration focused on this and obtained a solution t
 
 ---
 
+### Inclusion Includes Women
+
+*2024-03-19 01:30:23* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/inclusion-includes-women/) · `en`
+
+President Ranil Wickremesinghe has announced that the government has enacted 42 new laws in the past 4 months, with another 62 in the pipeline, all aimed at catalyzing the country’s economic transformation. Among these are two draft laws related to women’s rights, designed to promote gender equality and empower women. These laws are slated for presentation to parliament in May. The proposed Women’s Empowerment Act envisages the establishment of a separate women’s commission. The primary objective of this commission will be to facilitate the advancement and empowerment of women by implementing mechanisms to protect their rights, all under constitutional provisions.
+
+...
+
+[Data](articles/a6e04c52.json)
+
+---
+
 ### First Test against Sri Lanka: Liton Das again in BangladeshTwo new fast bowlers
 
 *2024-03-19 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179080) · `ta`
@@ -2181,19 +2213,5 @@ In this comment I specifically focused on ‘old’ politicians (not by age but 
 [Data](articles/282b8f8c.json)
 
 [Extended Data](ext_articles/282b8f8c.ext.json)
-
----
-
-### MP Sarath Weerasekara dials wrong number over SLT privatisation
-
-*2024-03-18 23:27:07* · [`dailyftlk`](https://www.ft.lk/opinion/MP-Sarath-Weerasekara-dials-wrong-number-over-SLT-privatisation/14-759642) · `en`
-
-It was interesting to read the reply by MP Sarath Weerasekara (https://www.ft.lk/opinion/Right-of-Reply-Desperate-attempts-to-prevent-privatisation-of-SLT/14-759360 ) to the editorial which was published on 1 March under the heading  “Desperate attempts to prevent privatisation of SLT” ((https://www.ft.lk/ft_view__editorial/Desperate-attempts-to-prevent-privatisation-of-SLT/58-759011). Unfortunately Weerasekara’s Right of Reply contained numerous inaccuracies.
-
-...
-
-[Data](articles/10bf7509.json)
-
-[Extended Data](ext_articles/10bf7509.ext.json)
 
 ---

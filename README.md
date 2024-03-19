@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 04:02:51**
+As of **2024-03-20 04:17:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,220
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,958 (100.0%) of 13,959 articles have been extended.
+13,959 (100.0%) of 13,959 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1416,20 +1416,6 @@ The accident had taken place in Kandy to Horowpathana.
 
 ---
 
-### 
-
-*2024-03-19 18:23:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83793) · `en`
-
-As familiar wrangling in Geneva takes place over the review of Sri Lanka by the United Nations Human Rights Council, there is an eminently sound argument to be made, (ad nauseam until the point is acknowledged) that the country’s many ineffective bodies on transitional justice established to meet ‘international scrutiny’ actually harm the Rule of Law.
-
-That harm occurs through repetitive mandates that overlap with each other with the State expending vast amounts of resources on institutions that go nowhere and do nothing other than stir scorn from the very ‘victims’ whom they are supposed to help. Indeed, it is infinitely wearisome to keep track of these mechanisms on Missing Persons, Reparations and now a proposed Truth Commission.
-
-...
-
-[Data](articles/04a58b81.json)
-
----
-
 ### Pharmaceuticals stop emergency purchases
 
 *2024-03-19 18:22:40* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-හදිසි-මිලදී-ගැනීම්-නවත්වයි/11-408706) · `si`
@@ -2231,5 +2217,27 @@ Arunachal Pradesh is a northeastern state of India. It is near the South Tibetow
 [Data](articles/fd65a88d.json)
 
 [Extended Data](ext_articles/fd65a88d.ext.json)
+
+---
+
+### Customs employees to continue work-to-rule campaign; 4,000 containers held up at port
+
+*2024-03-19 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98055/customs-employees-to-continue-work-to-rule-campaign-4000-containers-held-up-at-port) · `en`
+
+UPDATE: The Customs employees have decided to continue their work-to-rule campaign as the discussion with the authorities ended on negative note.
+
+At least 4,000 containers are reportedly held up at the Colombo Port as a result of the trade union action launched by the employees of Sri Lanka Customs on Friday (March 15).
+
+Initially, the Customs officials including superintendents and staff officers boycotted working extra hours, however, they resorted to a strict work-to-rule campaign at 9 a.m. today (March 19) it is expected to go on until 4.45 p.m.
+
+Calling a media briefing, the chairman of the Customs Officers’ Union Amila Sanjeewa attributed the reason behind the trade union action to the Treasury’s decision to bring the Customs Officers Reward Fund under the purview of the Finance Ministry.
+
+Against this backdrop, the president of the Container Transport Owners’ Association, Sanath Manjula warned that the importers are likely to be afflicted if the situation prevails.
+
+...
+
+[Data](articles/c1c476b8.json)
+
+[Extended Data](ext_articles/c1c476b8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 16:48:52**
+As of **2024-03-19 17:02:54**
 
 ## Newspaper Stats
 
-*Scraped **13,857** Articles*
+*Scraped **13,861** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,115 @@ dailyftlk | 727
 economynextcom | 732
 islandlk | 760
 adalk | 1,195
-adaderanalk | 1,665
+adaderanalk | 1,666
 tamilmirrorlk | 1,682
-virakesarilk | 1,936
+virakesarilk | 1,937
 dailymirrorlk | 2,118
-adaderanasinhalalk | 2,207
+adaderanasinhalalk | 2,209
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,851 (100.0%) of 13,857 articles have been extended.
+13,857 (100.0%) of 13,861 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### யாழ். பல்கலை முன்றலில் போராட்டம்
+### Govt. to provide rice to nearly 3 million low-income families
+
+*2024-03-19 16:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98057/govt-to-provide-rice-to-nearly-3-million-low-income-families) · `en`
+
+The Cabinet of Ministers has given its approval to provide 10kg of rice per month for each low-income family for a period of two months.
+
+As per the proposal furnished by President Ranil Wickremesinghe, as many as 2.74 million low-income families will benefit from this relief program.
+
+These low-income families will be identified through District Secretaries/Government Agents by involving small- and medium-scale mill owners, the government said in a statement.
+
+In the first half of 2023, the government took measures to provide 10kg of Nadu rice per family for a period of two months covering 2.74 million families in the 25 districts, including Samurdhi beneficiaries.
+
+In order to help maintain the nutritional level of the identified low-income earners, the government decided that it is only appropriate to resume the program this year as well.
+
+◼️
+
+[Data](articles/531ca9a1.json)
+
+---
+
+### தேர்தலுக்கு பணம் திரட்டுவதற்காக அரசாங்கம் 2 கோடி பெறுமதியான 200 மதுபான அனுமதிப் பத்திரங்களை விநியோகித்து வருகிறது -  எதிர்க்கட்சித் தலைவர்
+
+*2024-03-19 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179143) · `ta`
+
+எப்.எல். உரிமம் 4 இன் கீழ் 200 மதுபான அனுமதிப் பத்திரங்கள் வழங்க திட்டமிடப்பட்டுள்ளது. அதில் 15 பேருக்கு ஏற்கனவே இந்த அனுமதிப் பத்திரங்கள் வழங்கப்பட்டு விட்டதாகவும், இதற்காக 2 கோடி ரூபா கப்பமாக அறவிடப்பட்டுள்ளதாக எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று(19) பாராளுமன்றத்தில் வெளிக்கொணர்ந்தார்.
+
+தற்போது 6 மதுபான உற்பத்திசாலை அனுமதிப் பத்திரங்களும் வழங்கப்பட்டுள்ளது. இதனை கருத்திற்கொண்டே மது வரி ஆணையாளராக குணசிறி மீண்டும் நியமிக்கப்பட்டுள்ளார். தேர்தலை இலக்காக் கொண்டு பணம் சேகரிப்பதான செயற்பாடா இது என்ற சந்தேகம் எழுவதால் இதன் உண்மைத்தன்மையை வெளிப்படுத்துமாறும்  எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+நாட்டின் 41 இலட்சம் பாடசாலை மாணவர்களின் நலனை கருதியே இது சம்பந்தமாக கேள்வி எழுப்புகிறேன். வரப்பிரசாதங்களுக்குட்பட்டு தான் பொய்யான விடயங்களை முன்வைக்கவில்லை. சொல்வதை பொறுப்புடன் சொல்கிறேன்.
+
+இந்த சட்டவிரோத உரிமப் பத்திரங்கள் அனைத்தும் ஐக்கிய மக்கள் சக்தி அரசாங்கத்தின் கீழ் திரும்பப் பெறப்படும். இது தொடர்பான விரிவான விசாரணை தேவை என்றும் எதிர்க்கட்சித் தலைவர் இங்கு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/d3ab6636.json)
+
+---
+
+### ෆොන්සේකා ගැන සජිත් කළ ඉල්ලීම අධිකරණය ප්‍රතික්ෂේප කරයි
+
+*2024-03-19 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194694) · `si`
+
+ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා මහතා සමගි ජන බලවේගය තුළ දරන තනතුරුවලින් ඒ මහතා ඉවත් කිරීම වළක්වාලමින් පනවා තිබෙන වාරණ නියෝගය විසුරුවා හරින ලෙස සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස මහතා ඇතුළු පිරිසක් කළ ඉල්ලීමක් කොළඹ දිසා අධිකරණය ප්‍රතික්ෂේප කළේය.
+
+ඒ අනුව අදාළ වාරණ නියෝගය අප්‍රේල් මස 02 වනදා දක්වා දීර්ඝ කිරීමටත් අධිකරණය නියම කර තිබේ.
+
+සරත් ෆොන්සේකා මහතා විසින් ගොනුකළ පැමිණිල්ලක් සලකාබැලූ කොළඹ දිසා අධිකරණය ඉකුත්දා මෙම වාරණ නියෝගය නිකුත් කර තිබුණි.
+
+එම වාරණ නියෝගය නිකුත් කර තිබෙන ආකාරය දෝෂ සහිත බවත් එබැවින් එය ඉවත් කරන ලෙසත් ඉල්ලා අදාළ පැමිණිල්ලේ වගඋත්තරකරුවන් වශයෙන් නම්කර සිටින සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස, මහලේකම් රංජිත් මද්දුමබණ්ඩාර ඇතුළු පිරිසක් වෙනුවෙන් පෙනී සිටි නීතිඥවරුන් අධිකරණය හමුව කරුණු දැක්වීය.
+
+එහෙත් සරත් ෆොන්සේකා මහතා වෙනුවෙන් පෙනී සිටි නීතිඥවරුන් කියා සිටියේ අදාළ වාරණ නියෝගය තවදුරටත් දීර්ඝ කරන ලෙසය.
+
+ඉදිරිපත් කළ කරුණු සලකා බැලීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කෙරුණි.
+
+◼️
+
+[Data](articles/bbf66558.json)
+
+---
+
+### හෙටත් මුළු රටම රත්වෙයි
+
+*2024-03-19 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194693) · `si`
+
+හෙට (20) දිනය පුරා දිවයිනේ පළාත් රැසක ඇතැම් ස්ථානවල උණුසුම් දර්ශකය එනම් මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව වයඹ, උතුරු-මැද, නැගෙනහිර පළාත්වල සහ මන්නාරම, වවුනියාව, මුලතිව්, මොණරාගල, හම්බන්තොට, රත්නපුර, කොළඹ සහ ගම්පහ දිස්ත්‍රික්කවලට අදාළව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් මෙම අනතුරු ඇඟවීම නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/0768daa1.json)
+
+---
+
+### Yall. Protest
 
 *2024-03-19 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179137) · `ta`
 
-யாழ்ப்பாணம் பல்கலைக்கழக முன்றலில் இன்று செவ்வாய்க்கிழமை (19) பல்கலைக்கழக ஊழியர் சங்கத்தினால் கவனயீர்ப்பு போராட்டம் முன்னெடுக்கப்பட்டது.
+The University Employees Union launched a protest at the University of Jaffna on Tuesday, demanding a resolution to salary conflicts and unresolved university subsidies.
 
-அனைத்துப் பல்கலைக் கழகங்களிலும் பல்கலைக்கழக கல்விசாராப் பணியாளர்களின் சம்பள முரண்பாடு, சம்பள அதிகரிப்பு மற்றும் அவர்களைப் பாதிக்கும் பிரச்சனைகளிற்கு உரிய கால அவகாசங்கள் வழங்கப்பட்டும், பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவும் அரசாங்கமும் இதுவரை தீர்வினை வழங்காதமைக்கு எதிர்ப்புத் தெரிவித்தும் உடனடித் தீர்வினை வேண்டியும் இன்றையதினம்  செவ்வாய்க்கிழமை ஒரு நாள் அடையாள வேலைநிறுத்தத்தில் ஈடுபடுவது என்றும், கவனயீர்ப்பு ஆர்ப்பாட்டம் ஒன்றினை முன்னெடுப்பது என்றும் பல்கலைகழக ஊழியர் சங்கத்தால் தீர்மானிக்கப்பட்டுள்ளது.
+🟩
 
-அதனடிப்படையில் யாழ்ப்பாணப் பல்கலைக் கழகத்திலும் இன்றைய நாள் முழுநாளும் ஒரு நாள் அடையாள வேலை நிறுத்தப் போராட்டத்தினையும்  பல்கலைக்கழக முன்றலில் கவனயீர்ப்பு ஆர்ப்பாட்டம் ஒன்றினையும் பல்கலைக்கழக ஊழியர் சங்கம் மேற்கொண்டது.
+A protest campaign was launched by the University Employees Union on Tuesday (19) at the University of Jaffna.
+
+In all universities, university academic workers' salary conflict, salary increase, and the problems that affect them, and the university subsidies commission and the government have not yet resolved a solution to the university and the university's one -day strike on Tuesday, and the university will be united on Tuesday..
+
+Accordingly, the University Employees Union held a one -day identity strike and a protest demonstration at the University of Jaffna today.
 
 ◼️
 
 [Data](articles/a603885b.json)
+
+[Extended Data](ext_articles/a603885b.ext.json)
 
 ---
 
@@ -66,71 +146,103 @@ State Minister of Finance Shehan Semasinghe said the government has not acted ou
 
 [Data](articles/208b954f.json)
 
+[Extended Data](ext_articles/208b954f.ext.json)
+
 ---
 
-### තරුණියන් දෙදෙනෙක් ගොනු කළ පෙත්සම් නිෂ්ප්‍රභ කෙරෙයි
+### Petitions filed by two young girls
 
 *2024-03-19 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194692) · `si`
 
-පොලීසියට එරෙහිව තරුණියන් දෙදෙනෙකු ගොනු කර තිබූ මූලික අයිතිවාසිකම් පෙත්සම් දෙකක් විභාගයට නොගෙන නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය අද (19) තීන්දු කළේය.
+The Supreme Court dismissed two fundamental rights petitions filed by two young girls against the police, who were arrested during a protest. The petitions were rejected, with the police stating the girls were not subjected to inhumane treatment.
 
-2022 වසරේ සැප්තැම්බර් මස 22 වනදා ලිප්ටන් වටරවුමේ සමාජවාදී ශිෂ්‍ය සංගමය විසින් පැවැත්වූ විරෝධතාවයකට සහභාගිවී සිටි මෙලනි ප්‍රේමසිංහ සහ දිලීපා තරංගා යන තරුණියන් දෙදෙනාව පොලිස් නිලධාරින් විසින් අත්තනෝමතික ආකාරයෙන් ඇදගෙන ගොස් අත්අඩංගුවට ගෙන  පසුව අධිකරණයට ඉදිරිපත් කර ඇප මත මුදාහැරීම තුළින් සිය මූලික අයිතීන් උල්ලංඝනය වී ඇති බව සඳහන් කරමින් එම තරුණියන් විසින් මෙම මූලික අයිතිවාසිකම් පෙත්සම් ගොනු කර තිබුණි.
+🟩
 
-අදාළ පෙත්සම් සලකා බැලීම සඳහා කැඳවූ අවස්ථාවේදී වගඋත්තරකරුවන් වෙනුවෙන් පෙනී සිටි ජ්‍යේෂ්ඨ රජයේ නීතිඥ ශමින්ද වික්‍රම මහතා ඉදිරිපත් කළ කරුණු සලකා බැලූ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුලක් විසින් එම නියෝගය නිකුත් කෙරුණි.
+The Supreme Court today (19) today (19) today, the Supreme Court today decided to dismiss two fundamental rights petitions filed against the police.
+
+The two men who participated in a protest held by the Socialist Students Association of the Lipton Roundabout on September 22, 2022, said that they were arrested and produced before the court and released on bail.The fundamental rights petitions were filed by the girls.
+
+The order was issued by a three-member Supreme Court Madulak Madulak, who appeared for the respondents at the time of the respondents.
+
+The Senior State Counsel appearing in the courts regarding the incident, the Senior State Counsel appeared in the petition, the police said in court that the two girls had not been inhumane.
+
+Accordingly, the issues presented by petition is not acceptable and the government asked the court to refuse it.
+
+The three-member panel of judges decided not to be heard without the examination without being heard without the examination.
 
 ...
 
 [Data](articles/07256e84.json)
 
+[Extended Data](ext_articles/07256e84.ext.json)
+
 ---
 
-### லிந்துலையில் வர்த்தக நிலையம் உடைத்து கொள்ளை
+### Robbery
 
 *2024-03-19 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/179136) · `ta`
 
-லிந்துலை பொலிஸ் பிரிவுக்கு உட்பட்ட வளாக ஜனபத்திய பகுதியில் வர்த்தக நிலையம் உடைத்து கொள்ளையிடப்பட்டுள்ளது.
+A robbery occurred at a shopping center in Janapathi, owned by the Lindulai Police Division, on Sunday night. The shopkeeper reported the theft of 80,675 rupees, telephone re-cards, and cigarette boxes to the Lindula Police Station on Monday morning. No arrests have been made, and the Lindula police are collaborating with the Nuwara Eliya Forensic Police on the investigation.
 
-குறித்த கொள்ளைச் சம்பவம்  ஞாயிற்றுக்கிழமை (17) இரவு இடம் பெற்றுள்ளது எனவும் குறித்த வர்த்தக நிலையத்தின் உரிமையாளர் நேற்று திங்கட்கிழமை (18) காலை வர்த்தக நிலையத்திற்கு வந்தபோது குறித்த வர்த்தக நிலையம் உடைக்கப்பட்டுள்ளமை தெரியவந்ததுடன் சம்பவம் தொடர்பில் லிந்துலை பொலிஸ் நிலையத்தில் முறைபாடு செய்துள்ளார்.
+🟩
 
-குறித்த வர்த்தக நிலையத்தின் மேல்மாடி ஊடாக இரண்டாவது நுழைவாயில் கதவின் பூட்டை உடைத்துக்கொண்டு உள்நுழைந்த திருடர்கள் அங்கிருந்த 80,675 ரூபாய் பணமும் தொலைபேசி மீள்நிரப்பு அட்டைகள் மற்றும் சிகரெட் பெட்டிகளையும் கொள்ளையிடப்பட்டதாக உரிமையாளரால் பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்யப்பட்டுள்ளது .
+The campus, which belongs to the Lindulai Police Division, has been robbed in the Janapathi area.
 
-இந்த கொள்ளைச் சம்பவம் தொடர்பாக எவரும் இதுவரை கைது செய்யப்பட வில்லை. நுவரெலியா தடயவியல் பொலிஸாரோடு இணைந்து லிந்துலை  பொலிஸார் விசாரணைகளை முன்னெடுத்து வருகின்றமை குறிப்பிடத்தக்கது.
+The robbery had taken place on Sunday night (17) night and the owner of the shopkeeper came to the shopping center on Monday (18) morning and had lodged a complaint at the Lindula Police Station.
+
+The owner has lodged a complaint at the police station that the thieves who broke into the second entrance door through the top of the shopping center have been robbed by the owner of 80,675 rupees and telephone re -cards and cigarette boxes.
+
+No one has been arrested in connection with this robbery. It is noteworthy that Lindula police are conducting investigations with the Nuwara Eliya Forensic Police.
 
 ◼️
 
 [Data](articles/75b00023.json)
 
+[Extended Data](ext_articles/75b00023.ext.json)
+
 ---
 
-### රේගුව දැඩි තීරණයක් ගනී
+### Customs make a strong decision
 
 *2024-03-19 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194691) · `si`
 
-රේගු නිලධාරීන් අද (19) උදෑසන සිට ආරම්භ කළ අකුරට වැඩකිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගය අඛණ්ඩව සිදුකිරීමට තීරණය කර තිබේ.
+Customs personnel continue union action today, supported by Minister Ranjith Siyambalapitiya.
 
-මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා සමග පැවති සාකච්ඡාවකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔවුන් මේ බව සඳහන් කළේය.
+🟩
 
-රේගු සේවකයන්ට අතිකාල සහ දිරිදීමනා ගෙවීම් සිදු කෙරෙන රේගු ත්‍යාග අරමුදල මුදල් අමාත්‍යංශය භාරයට ගෙන ඇති බවත්, එය අසාධාරණ බවත් පවසමින් රේගු නිලධාරීන්, රේගු අධිකාරීවරුන් සහ රේගු මාණ්ඩලික නිලධාරීන් මෙම වෘත්තිය ක්‍රියාමාර්ගය ආරම්භ කර ඇත.
+The Customs personnel have been continued to continue the working union action today (19th).
+
+Speaking to the media after a discussion with state minister Ranjith Siyambalapitiya, Minister of Finance Ranjith Siyambalapitiya.
+
+Customs officials, Customs Superintendents and Customs Staff Officers have commenced this vocational action.
 
 ◼️
 
 [Data](articles/9de7b1f7.json)
 
+[Extended Data](ext_articles/9de7b1f7.ext.json)
+
 ---
 
-### ඉන්දීය ප්‍රාන්තයක අයිතිය චීනය ඉල්ලයි
+### China asks for the right to an Indian state
 
 *2024-03-19 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194690) · `si`
 
-අරුනාචාල් ප්‍රදේශ් ප්‍රාන්තයේ අයිතිය සම්බන්ධයෙන් චීන ආරක්ෂක අමාත්‍යංශය කර ඇති ප්‍රකාශයක් සම්බන්ධයෙන් ඉන්දියාව සිය විරෝධය දක්වා තිබේ.
+India objects to China's claim over Aruuthachal Pradesh, a northeastern state, calling it "nonsense."
 
-ඉන්දීය විදෙස් කටයුතු අමාත්‍යංශය පවසන්නේ චීනය කර ඇත්තේ "විකාර ප්‍රකාශයක්" බවයි.
+🟩
 
-අරුනාචාල් ප්‍රදේශ් ඉන්දියාවේ ඊසානදිග ප්‍රාන්තයකි.  එය චීන පාලනයේ පවතින දකුණු ටිබේට ය ආසන්නයේ පිහිටා තිබේ.
+India has objected to a statement made by the Chinese Defense Ministry regarding the ownership of the state of Aruuthachal Pradesh.
+
+The Indian foreign ministry states that China has been "a nonsense statement".
+
+Arunachal Pradesh is a northeastern state of India. It is near the South Tibetow of Chinese administration.
 
 ◼️
 
 [Data](articles/fd65a88d.json)
+
+[Extended Data](ext_articles/fd65a88d.ext.json)
 
 ---
 
@@ -2181,97 +2293,5 @@ In this case, what is the point of the upcountry political parties. The Tamil Pr
 [Data](articles/afceff00.json)
 
 [Extended Data](ext_articles/afceff00.ext.json)
-
----
-
-### Investigation into the van brought by Keheliya Court
-
-*2024-03-19 10:29:48* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළිය-උසාවි-ගෙනා-වෑන්-රථය-ගැන-විමර්ශනයක්/11-408690) · `si`
-
-Keheliya Rambukwella, former Health Minister, is under investigation for using a luxury van to transport children of prison inmates. The CID has started an inquiry into the misuse of the vehicle. Rambukwella was also arrested for alleged crimes related to billions and the distribution of priminal antibodies in an Indian loan scheme.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella has been deployed to court in prison inmates to transport the children of prison inmates, KDH. The CID has commenced investigations into a complaint that the type of luxury van.
-
-The secret police found that the van had been used to bring the van to the court in the Donation of the Appointment of the United Nations Children's Fund to court that the van should not be used to transport the van to the prison.Investigations have been started.
-
-Former Health Minister arrested the suspects to the court of billions and distribution of priminal antibodies and distribution of privacy in the Indian loan scheme.Keheliya Rambukwella has been used to bring him to court on the occasion.. The complainant points out that the plaintiff pointed out that a luxury van is the privilege of this privilege.
-
-According to the complaint, the CID has begun investigations into the case of the incident as well as the prison officials have taken measures.
-
-◼️
-
-[Data](articles/25553239.json)
-
-[Extended Data](ext_articles/25553239.ext.json)
-
----
-
-### Tense situation in Parliament due to protest by TNA MPs
-
-*2024-03-19 10:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tense-situation-in-Parliament-due-to-protest-by-TNA-MPs/108-279138) · `en`
-
-Parliament, March 19 (Daily Mirror)- A tense situation erupted in Parliament after a group of Tamil National Alliance MPs staged a protest inside the Chamber over the arrest of eight persons who were engaged in religious observances at the Vedukkunaarimalai Athi Lingeswarar Shrine on Maha Sivarathri night.
-
-They urged the authorities to release the eight persons who were in remand costudy.
-
-They said the eight individuals had been arrested by Archeology Department officials on fasle allegations.
-
-Deputy Speaker Ajith Rajapakshe said he would look into the matter.
-
-Opposition Leader Sajith Premadasa said all people must have a right to observe their respective religions.
-
-Justice Minister Wijeyadasa Rajapaksha said the government cannot intervene in matters already before courts and said the matter will be investigated into and submission made in court.
-
-"We cannot release people arrested by the police and produced before court.They should be released only by the court," he said.
-
-◼️
-
-[Data](articles/15b2e117.json)
-
-[Extended Data](ext_articles/15b2e117.ext.json)
-
----
-
-### Suspect arrested by all police
-
-*2024-03-19 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179090) · `ta`
-
-A 44-year-old from Karandakolla was arrested for the murder of a man in Uva Karandagolla, Ella Police Division.
-
-🟩
-
-A suspect has been arrested yesterday (18) in connection with the murder of a man in a house in Uva Karandagolla, which belongs to the Ella Police Division.
-
-The suspect was the 44 -year -old from Karandakolla, who was arrested.
-
-◼️
-
-[Data](articles/f566c9f1.json)
-
-[Extended Data](ext_articles/f566c9f1.ext.json)
-
----
-
-### Why did the children climb into the sky?The beginning of the hearing
-
-*2024-03-19 10:27:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைகள்-வானில்-அவர்-ஏறியது-ஏன்-விசாரணைகள்-ஆரம்பம்/175-334869) · `ta`
-
-The CID is investigating UNICEF's transport of children from female prisoners, questioning why Rambukwella was given a special bus, despite complaints about misuse of funds.
-
-🟩
-
-The Criminal Investigation Department (CID) has launched an investigation into the incident taken by UNICEF to the court of a bus to carry the children of female prisoners.
-
-The Criminal Investigation Department (CID) has received a complaint that UNICEF has stipulated that only the benefit of the children of female prisoners should be used, but the prison authorities have used the bus for the transport of Rambukwella.
-
-It is reported that the others who were detained with Rambukwella were taken to the prison bus.However, it is questioned as to why Rambukwella was given such a special offer.
-
-◼️
-
-[Data](articles/a0bc49bc.json)
-
-[Extended Data](ext_articles/a0bc49bc.ext.json)
 
 ---

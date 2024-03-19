@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 21:02:51**
+As of **2024-03-19 21:18:00**
 
 ## Newspaper Stats
 
-*Scraped **13,908** Articles*
+*Scraped **13,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,92 @@ newsfirstlk | 363
 dailyftlk | 727
 economynextcom | 735
 islandlk | 761
-adalk | 1,202
-adaderanalk | 1,673
+adalk | 1,204
+adaderanalk | 1,675
 tamilmirrorlk | 1,689
 virakesarilk | 1,945
-dailymirrorlk | 2,123
+dailymirrorlk | 2,125
 adaderanasinhalalk | 2,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,906 (100.0%) of 13,908 articles have been extended.
+13,908 (100.0%) of 13,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### Blow for Sri Lanka as Hasaranga is suspended for Bangladesh Tests
+
+*2024-03-19 21:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98063/blow-for-sri-lanka-as-hasaranga-is-suspended-for-bangladesh-tests) · `en`
+
+Sri Lanka all-rounder Wanindu Hasaranga has been suspended for Bangladesh’s two-Test series against Bangladesh, shortly after announcing his decision to return to Test cricket having retired from the format last year.
+
+During the third ODI in the recently-concluded series against Bangladesh, Hasaranga was found guilty of breaching article 2.8 of the ICC Code of Conduct for Players and Player Support Personnel, which relates to “showing dissent at an Umpire’s decision during an International Match.”
+
+The incident occurred in the 37th over of the game when Hasaranga snatched his cap from one of the umpires and ridiculed the umpiring in the match.
+
+Bangladesh took the series 2-1 after winning the contest by four wickets.
+
+He received a 50 per cent fine and accumulated three demerit points for his offense. This brought his total demerit points to eight in a 24-month period.
+
+...
+
+[Data](articles/23fa88f5.json)
+
+---
+
+### Blow for Sri Lanka as Hasaranga suspended for Bangladesh Tests
+
+*2024-03-19 20:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Blow-for-Sri-Lanka-as-Hasaranga-suspended-for-Bangladesh-Tests/108-279174) · `en`
+
+March 19 -  All-rounder Wanindu Hasaranga, who had just announced a return to Test cricket, was found guilty of a Code of Conduct breach Sri Lanka all-rounder Wanindu Hasaranga has been suspended for Bangladesh's two-Test series against Bangladesh, shortly after announcing his decision to return to Test cricket having retired from the format last year.
+
+During the third ODI in the recently-concluded series against Bangladesh, Hasaranga was found guilty of breaching article 2.8 of the ICC Code of Conduct for Players and Player Support Personnel, which relates to “showing dissent at an Umpire’s decision during an International Match.”
+
+The incident occurred in the 37th over of the game when Hasaranga snatched his cap from one of the umpires and ridiculed the umpiring in the match.
+
+Bangladesh took the series 2-1 after winning the contest by four wickets.
+
+◼️
+
+[Data](articles/d8106d9a.json)
+
+---
+
+### Lankadeepa wins 'Most Popular Newspaper' Award for 18th consecutive year
+
+*2024-03-19 20:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lankadeepa-wins-Most-Popular-Newspaper-Award-for-18th-consecutive-year/108-279173) · `en`
+
+Colombo, March 19 - Our sister papers Daily Lankadeepa and the Sunday Lankadeepa won the most popular newspaper award for the 18th consecutive year at ‘SLIM- KANTAR Peoples Award 2024’ being held at Monarch Imperial, Sri Jayawardenapura Kotte.
+
+The awards ceremony was organised by the Sri Lanka Institute of Marketing (SLIM) together with Kantar, Sri Lanka.
+
+◼️
+
+[Data](articles/ea655c87.json)
+
+---
+
+### TV Derana becomes People’s Television Channel of the Year for 7th consecutive time
+
+*2024-03-19 20:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98062/tv-derana-becomes-peoples-television-channel-of-the-year-for-7th-consecutive-time) · `en`
+
+Sri Lanka’s premium entertainment channel “TV Derana” won the People’s Television Channel of the Year Award for the 7th consecutive year at the SLIM-KANTAR People’s Awards 2024.
+
+“TV Derana” also won the award for Youth Choice TV Channel of the Year, at the ceremony which got underway at the Monarch Imperial Hotel in Sri Jayewardenepura Kotte on Tuesday evening (March 19).
+
+TV Derana’s Chatura Alwis won the award for People’s Television Presenter of the Year at the SLIM-KANTAR People’s Awards 2024. Notably, this is the 6th consecutive year the award was conferred on Alwis.
+
+People’s Awards has been one of the most looked forward-to events in the corporate calendar since its inception in 2007. The uniqueness of these awards is that they are based on consumer preferences, determined by the results of a survey rather than by a panel of experts.
+
+...
+
+[Data](articles/21c742ce.json)
+
+---
 
 ### TV Derana becomes People’s Television Channel of the Year
 
@@ -47,6 +117,8 @@ People’s Awards has been one of the most looked forward-to events in the corpo
 ...
 
 [Data](articles/6e9f9ea7.json)
+
+[Extended Data](ext_articles/6e9f9ea7.ext.json)
 
 ---
 
@@ -92,7 +164,7 @@ The Weerakesari magazine has won the SLIM - Kantar 2024 award as the Tamil newsp
 
 *2024-03-19 20:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladesh-mocks-Sri-Lanka-after-series-defeat/108-279171) · `en`
 
-Mar. 19 (Daily Mirror) - Bangladesh clinched the third ODI against Sri Lanka by four wickets to secure a 2-1 series win on Monday (18) which was followed up by a celebration from their veteran wicket-keeper Mushfiqur Rahim who brought his helmet as they were lining up to pose for the post-match photograph adding more fuel into fire.
+Mar. 19 (Daily Mirror) - Bangladesh clinched the third ODI against Sri Lanka by four wickets to secure a 2-1 series win on Monday (18) which was followed up by a celebration from their veteran wicket-keeper Mushfiqur Rahim who brought his helmet as they were lining up to pose for the post-match photograph adding more fuel to the fire.
 
 At the conclusion of the T20 series, Sri Lanka team brought out the 'timed-out' celebration which appeared to upset Bangladesh captain Najmul Shanto who claimed that the Islanders needed to move on from it, but on Monday Rahim probably made him eat his words when he went as far as taking his helmet to take the photographs after post-match presentation.
 
@@ -137,6 +209,8 @@ As a result, trains plying on the Coastal Line towards Galle, Matara and Beliatt
 ◼️
 
 [Data](articles/0662c596.json)
+
+[Extended Data](ext_articles/0662c596.ext.json)
 
 ---
 
@@ -404,6 +478,24 @@ At the same time, the people of the plantation of the Ceylon Electricity Board (
 
 ---
 
+### කෝටි 12ක රන් ආභරණ සමග ව්‍යාපාරිකයන් දෙදෙනෙක් අල්ලයි
+
+*2024-03-19 18:42:10* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-12ක-රන්-ආභරණ-සමග-ව්‍යාපාරිකයන්-දෙදෙනෙක්-අල්ලයි/11-408709) · `si`
+
+නීතිවිරෝධී ලෙස ශ්‍රී ලංකාවට ගෙන එමින් තිබූ රුපියල් කෝටි දොලහකට අධික වටිනාකමකින් යුතු ස්වර්ණාභරණ තොගයක් නීතිවිරෝධී ලෙස ශ්‍රී ලංකාවට ගෙන එමින් සිටි , නිතර නිතර ගුවන් මගින් භාණ්ඩ මෙරටට ගෙන එන ව්‍යාපාරිකයන් දෙදෙනෙකු ද සමග ශ්‍රී ලංකා රේගුවේ ආදායම් අධීක්ෂණ අංශයේ , ජංගම අංශයේ රේගු නිලධාරීන් පිරිසක් විසින් 03/19 දින කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ දී අත් අඩංගුවට ගෙන තිබේ .
+
+මොවුන් අතරින් එක් අයෙකු 60 හැවිරිදි අම්බලන්ගොඩ ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර අනෙක් ව්‍යාපාරිකයා කොළඹ , බම්බලපිටිය ප්‍රදේශයේ පදිංචි 65 හැවිරිදි ව්‍යාපාරිකයෙකි.
+
+මොවුන් දෙදෙනා 03/19 දින උදෑසන 08.30 ට ඩුබායි සිට එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 650 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ කිසිවක් ප්‍රකාශ කිරීමට නොමැති " හරිත මාවත " ( Green Channel ) ඔස්සේ ගුවන් තොටුපොළෙන් පිටතට යමින් සිටියදී මෙම අත් අඩංගුවට ගැනීම සිදු කර  තිබුණි .
+
+ඔවුන් විසින් රැගෙන ආ ගමන් මලු තුළ විස්කි බෝතල් අසුරා ඇති පෙට්ටි වලින් එම බෝතල් ඉවත් කර මෙම ස්වර්ණාභරණ තොගය එම පෙට්ටි තුළ අසුරා  සගවා ගෙන පැමිණ තිබුණි .
+
+...
+
+[Data](articles/1520240c.json)
+
+---
+
 ### 11 university students killed in Kenyan road accident
 
 *2024-03-19 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179161) · `ta`
@@ -421,6 +513,24 @@ Following the incident, the Kenyan government has ordered an investigation into 
 [Data](articles/ca7707c3.json)
 
 [Extended Data](ext_articles/ca7707c3.ext.json)
+
+---
+
+### කථානායකවරයාට එරෙහි විශ්වාසභංග යෝජනාව විවාදයට තෙදිනක්
+
+*2024-03-19 18:37:24* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකවරයාට-එරෙහි-විශ්වාසභංග-යෝජනාව-විවාදයට-තෙදිනක්/11-408708) · `si`
+
+22 වැනි සිකුරාදා ප.ව 12.30 සිට විපක්ෂය විසින් ගෙනෙනු ලබන යෝජනාව අනුව ‘වී අස්වැන්න අලෙවිකර ගැනීම ඇතුළුව ගොවීන් මුහුණ දෙන අනෙකුත් ගැටලු’ සම්බන්ධ සභාව කල්තැබීමේ විවාදය පැවැත්වීමටත් තීරණයක්
+
+අභාවප්‍රාප්ත හිටපු මන්ත්‍රීවරුන් වෙනුවෙන් ශෝක යෝජනා ඉදිරිපත් කිරීම සදහා එදින පෙ.ව 9.30 සිට ප.ව 12.30 කාලය වෙන් කෙරේ
+
+අප්‍රේල් පළමු පාර්ලිමේන්තු සතියට අදාළ රැස්වීම් අප්‍රේල් 1 සහ 2 දෙදින පැවැත්වීමටත් තීරණයක්
+
+කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය සදහා ලබන 21 වැනි බ්‍රහස්පතින්දා දිනයත් වෙන් කිරීමට අද (19) කථානායකවරයාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වූ බව පාර්ලිමේන්තුවේ මහ ලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+
+...
+
+[Data](articles/613583a2.json)
 
 ---
 
@@ -2121,159 +2231,5 @@ The program has been implemented to maintain the nutrition level of the low inco
 [Data](articles/1adba8f9.json)
 
 [Extended Data](ext_articles/1adba8f9.ext.json)
-
----
-
-### Teacher arrested
-
-*2024-03-19 13:20:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆசிரியையை-வெட்டிய-ஆசிரியை-கைது/76-334879) · `ta`
-
-A 44-year-old teacher was arrested on the 19th for cutting a knife and injuring another teacher. Both are friends and work in different schools. The suspect, a 45-year-old, was caught by locals and handed over to police.
-
-🟩
-
-Badulla police said that another school teacher was arrested on the 19th of this month on charges of cutting a knife and injured by a school teacher.
-
-A 44 -year -old teacher has been admitted to the Badulla Teaching Hospital and has had cuts on his feet and hands, a doctor of the Badulla Teaching Hospital said.
-
-Police said a knife was seized from a suspected 45 -year -old teacher.
-
-The two teachers are friends working in two schools, and the suspect has visited his home on the 18th due to disagreement between the two.
-
-The residents of the area caught the suspect 119 and handed over to the police for an emergency number.. Police said the person's problem was the cause of the crime.
-
-◼️
-
-[Data](articles/3677de92.json)
-
-[Extended Data](ext_articles/3677de92.ext.json)
-
----
-
-### The latest order created underworld
-
-*2024-03-19 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194678) · `si`
-
-20 special police teams established to combat underworld activities in Western and Southern Provinces, under IGP Deshabandu Tennakoon's orders. These teams, led by senior DIG Vawarna Jayasundara, consist of 9 officers each, including 4 from the Criminal Division, 4 from the Special Task Force, and 2 Special Task Officers. The decision reflects recent underworld activities in these areas.
-
-🟩
-
-Today, 20 special police teams were set up to suppress underworld activities in the Western and Southern Province.
-
-He is the instructions of IGP Deshabandu Tennakoon in parallel to justice.
-
-In the recent past, there have been many underworld activities in the western and southern provinces and several masses.
-
-These groups are operating under the direct supervision of senior DIG Vawarna Jayasundara.
-
-Twenty of these three new soldiers deployed to suppress the activities of each underworld teams.
-
-Each of these team consists of nine officers, four officers including the Criminal Division, four Special Task Force and 02 Special Task Officers.
-
-The decision has been taken by the IGP by taking into account the underworld activities carried out by the Western and Southern Province in the past few weeks.
-
-The advice on these teams was held at the Police Field Force Headquarters, and the teams were officially dispatched.
-
-◼️
-
-[Data](articles/4c226774.json)
-
-[Extended Data](ext_articles/4c226774.ext.json)
-
----
-
-### Sithwardant, Sithward, Missing
-
-*2024-03-19 13:17:38* · [`adalk`](https://www.ada.lk/breaking_news/සිංහරාජයේ-සද්ධන්තයෙක්-අතුරුදන්/11-408699) · `si`
-
-Sinharaja Wildlife Sarath Wijetunga reported two elephants missing in the Sinharaja forest for nearly a year, with only one collared elephant observed. The Committee Meeting of the Talawana Committee discussed the situation.
-
-🟩
-
-The Sinharaja Federation of Wildlife Sarath Wijesunga said that the two elephants are currently being observed at the Sinharaja forest to about one year.
-
-He was speaking at the meeting of the Commission to the Commission.Speaking further - Sinharaja Wildlife Sarath Wijetunga said that "for nearly a year, we are observed in the Sinharaja forest.. Only the elephant is the collar. The other elephant has not been given to us or the locals in the area. The two elephants were living in the Sinharaja forest. The penetrates of the collar plants we see are currently demonstrating.. A time ago, the Segunja lodged and three rankings in Sinharaja and inscriptions, only one own existence is displayed. About the elephant that is currently missing. Coffee pieces are keeping the vicinity of the wildlife office. Wijetunga said.
-
-The Committee Meeting of the Talawana Committee Janaka Wakkumbura, MP, Janaka Wakkumbura, Main Meeting of Palas, and Tamakaana.
-
-...
-
-[Data](articles/324c481e.json)
-
-[Extended Data](ext_articles/324c481e.ext.json)
-
----
-
-### Cricket Australia postpones Afghan T20 series
-
-*2024-03-19 13:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cricket-Australia-postpones-Afghan-T20-series/108-279160) · `en`
-
-Mar. 19 (cricket.com.au) - Cricket Australia has again postponed a bilateral series against Afghanistan, scheduled for August, citing deteriorating human rights for women and girls in the country under Taliban rule.
-
-A three-match T20 series against Afghanistan scheduled for August under the ICC's Future Tours Program has been "postponed". The series was due to be hosted by Afghanistan, with matches expected to be played in the UAE.
-
-This marks the third time CA has declined to play Afghanistan since the Taliban seized control of the Asian nation in September 2021 and immediately placed restrictions on female participation in sport, which CA condemned.
-
-CA previously cancelled a one-off Test match against Afghanistan that was scheduled to be played in Hobart in November 2021.
-
-In early 2023, CA withdrew from a three-match ODI series due to be played in the UAE in March that year.
-
-...
-
-[Data](articles/0671883b.json)
-
-[Extended Data](ext_articles/0671883b.ext.json)
-
----
-
-### Horning influences in warm weather to life
-
-*2024-03-19 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194677) · `si`
-
-In warm weather, pets in homes and on the streets are at risk due to high temperatures. The highest recorded temperature in the country is 38.5 degrees in Kurunegala. Environmentalists warn of global warming's impact on ecosystems, including domesticated pets and wildlife. Veterinarians advise controlling pet temperatures and providing water. The day-day festival increases pet temperatures in vehicles. Animals and roads are at risk, necessitating water, food, and shelter. Snakes are seen in Colombo and suburbs, suggesting reducing snake-capable areas around homes.
-
-🟩
-
-Zone points out that there is a risk of pets in the home stroller due to heavy hot weather.
-
-The highest temperature in the country was reported from Kurunegala and 38.5 degrees.
-
-After the year 1884, the largest temperature of 1884 has been reported within the last two decades.
-
-Environmentalists pointed out that the temperature of globalized environmental damage has been directly affected by the temperature.
-
-Thus, the ecological equipment increase, street dogs, and wildlife have been affected by domesticated pets and wildlife.
-
-Zone points out that there is a risk of the heat stroke in the heat stroke due to the heat stroke.
-
-Veterinarys says that it is best to control the temperature of the pets and separating a water bowl for animals.
-
-Detention of the pets of pets of the day-day festival is a strong increase in the temperatures in vehicles for 20 minutes.
-
-...
-
-[Data](articles/cbaac7ff.json)
-
-[Extended Data](ext_articles/cbaac7ff.ext.json)
-
----
-
-### AKD, Japanese envoy discuss Sri Lanka’s economic situation and upcoming prez poll
-
-*2024-03-19 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98051/akd-japanese-envoy-discuss-sri-lankas-economic-situation-and-upcoming-prez-poll) · `en`
-
-MP Anura Kumara Dissanayake, the leader of National People’s Power (NPP) has met with Mizukoshi Hideaki, the Japanese Ambassador to Sri Lanka, at the JVP head office on Tuesday morning (March 19).
-
-Katsuki Kotaro, the Deputy Head of the Japanese Embassy in Colombo; Imai Kaori, the Second Secretary of the Japanese Embassy; and NPP MP Vijitha Herath, the National Executive Member of National People’s Power, were also in attendance at this meeting.
-
-Taking to his X handle (formerly Twitter), the NPP leader said the focus of the meeting fell on Sri Lanka’s current economic and political situations as well as the upcoming presidential election.
-
-“The position of the National People’s Power regarding the intervention of the International Monetary Fund was explained to the Japanese diplomatic representatives, and the Japanese delegation emphasized Japan’s readiness to continue investing in Sri Lanka,” Dissanayake said further in his post.
-
-◼️
-
-[Data](articles/b02bdafc.json)
-
-[Extended Data](ext_articles/b02bdafc.ext.json)
 
 ---

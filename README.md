@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 00:02:52**
+As of **2024-03-20 00:17:46**
 
 ## Newspaper Stats
 
@@ -36,11 +36,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-03-19 23:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98065/world-bank-hails-suwa-seriya-ambulance-service-for-saving-countless-lives) · `en`
 
-The World Bank has hailed Sri Lanka’s ‘1990 Suwa Seriya’ ambulance service for saving countless lives while providing citizens the highest level of pre-hospital care.
+The World Bank has hailed Sri Lanka’s toll-free ‘1990 Suwa Seriya’ ambulance service for saving countless lives, while providing citizens the highest level of pre-hospital care.
 
-In a blog post, the World Bank’s Vice President for the South Asia Region, Martin Raiser further commended the ambulance service for reducing complications caused by delayed care and enabling them to get back into the workforce in record time — making a positive contribution to the country’s economy.
+In a blog post, the World Bank’s Vice President for the South Asia Region, Martin Raiser further commended the ambulance service for reducing complications caused by delayed care, and enabling them to get back into the workforce in record time—making a positive contribution to the country’s economy.
 
-“Since its launch in 2016, 1.8 million Sri Lankan citizens in distress have dialled 1990, and a Suwa Seriya ambulance has rushed them to the nearest hospital or primary care facility within 12 minutes of their call, one of the fastest response rates in the world for an ambulance service.”
+“Since its launch in 2016, 1.8 million Sri Lankan citizens in distress have dialed 1990, and a Suwa Seriya ambulance has rushed them to the nearest hospital or primary care facility within 12 minutes of their call, one of the fastest response rates in the world for an ambulance service.”
 
 South Asia is home to many development innovations, including in the delivery of social services through government-private sector-and civil society partnerships, Raiser said, noting that 1990 Suwa Seriya stands in a proud tradition.
 

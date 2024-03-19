@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 08:02:54**
+As of **2024-03-19 08:17:53**
 
 ## Newspaper Stats
 
-*Scraped **13,720** Articles*
+*Scraped **13,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 1,646
 tamilmirrorlk | 1,666
 virakesarilk | 1,916
 dailymirrorlk | 2,095
-adaderanasinhalalk | 2,179
+adaderanasinhalalk | 2,180
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,715 (100.0%) of 13,720 articles have been extended.
+13,720 (100.0%) of 13,721 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### රෝහිතට උත්තර නොදී උසාවියේ දී හමුවීමට ජාතික ජන බලවේගයෙන් තීරණයක්
+
+*2024-03-19 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194663) · `si`
+
+‍රෝහිත අබේගුණවර්ධන මහතා අපහාසයක් සම්බන්ධයෙන් විජිත් හේරත් මන්ත්‍රීවරයාට එරෙහිව එන්තරවාසියක් යොමුකළ ද ඊට පිළිතුරු නොදෙන බව ජාතික ජන බලවේගය පක්ෂය පවසයි.
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය නලින්ද ජයතිස්ස මහතා පැවසුවේ, ඒ හේතුව මත රෝහිත අබේගුණවර්ධන මහතා නඩු පවරන්නේ නම් ඔහු විශාල ධනයක් උපයා ගත් ආකාරය පිළිබඳ සාක්ෂිකරුවන් ඉදිරිපත් කරන බවය.
+
+නඩුව අතරමඟ ඉල්ලා අස්කර ගැනීමට ඉඩ නොදෙන බව ද කළුතර ප්‍රදේශයේ පැවති ජන හමුවකදී නලින්ද ජයතිස්ස මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/699c27ec.json)
+
+---
 
 ### Evening showers likely in certain parts of the island
 
@@ -46,35 +62,49 @@ Misty conditions can be expected at some places in Sabaragamuwa and Central prov
 
 [Data](articles/738f0cda.json)
 
+[Extended Data](ext_articles/738f0cda.ext.json)
+
 ---
 
-### ජංගල් බීච් ඛේදවාචකය
+### The Jungle Beach Tragedy
 
 *2024-03-19 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194662) · `si`
 
-හබරාදූව පොලිස් වසමේ ජංගල් බීච් වෙරළ තීරයේ ගලක් මත හිඳගෙන සිටි පිරිමි ළමයෙකු සහ ගැහැනු ළමයෙකු රළ පහරට ගසා ගෙන ගොස් ඇත.
+In Habaraduwa, a boy and girl on a stone were attacked. The girl, driven by locals, was rescued, but the boy vanished.
 
-ප්‍රදේශවාසීන් විසින් ගසාගෙන යමින් සිටි ගැහැනු ළමයා බේරාගෙන ඇති අතර පිරිමි ළමයා මේ වනවිට අතුරුදන් වී ඇත.
+🟩
+
+A boy and a girl who was sitting on a stone in the Habaraduwa Police Division was attacked.
+
+The girl who was driving by the residents had rescued and the boy has disappeared.
 
 ◼️
 
 [Data](articles/a8dd5f67.json)
 
+[Extended Data](ext_articles/a8dd5f67.ext.json)
+
 ---
 
-### බස්නාහිර පළාතේ වාර්ෂික සෞඛ්‍ය මාරු තාවකාලිකව අත්හිටුවයි
+### Annual health transfers in the Western Province suspended
 
 *2024-03-19 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194661) · `si`
 
-බස්නාහිර පළාතේ වාර්ෂික සෞඛ්‍ය මාරු තාවකාලිකව අත්හිටුවීමට තීරණය කර තිබේ.
+The annual health transfer in the Western Province is suspended due to accusations against hospital staff. Governor Marshal Roshan Gunatilleke and Minister Prasanna Ranatunga ordered the Ministry of Health Secretary to cancel the transfer and reinstate annual transfers.
 
-බස්නාහිර පළාතේ වාර්ෂික ස්ථානමාරු අවිධිමත් ලෙස සිදුව ඇති බවට බස්නාහිර පළාතේ රෝහල් කාර්යමණ්ඩල සේවක සේවිකාවන් චෝදනා කර ඇති බව වාර්තා වේ.
+🟩
 
-ඒ අනුව බස්නාහිර පළාත් ආණ්ඩුකාර එයාවයිස් මාර්ෂල් රොෂාන් ගුණතිලක මහතා තාවකාලිකව මෙම ස්ථාන මාරු අවලංගු කර වාර්ෂික ස්ථාන මාරු පමණක් ක්‍රියාත්මක කරන ලෙස පළාත් සෞඛ්‍ය අමාත්‍යාංශ ලේකම්වරයාට උපදෙස් දුන් බව අමාත්‍ය ප්‍රසන්න රණතුංග මහතා සඳහන් කළේය.
+The annual health transfer of the Western Province has been temporarily suspended.
+
+Hospital staff employees in the Western Province have been accused of an annual transferers in the Western Province.
+
+Accordingly, the Western Province Governor, Western Province Governor Marshal Roshan Gunatilleke, Minister Prasanna Ranatunga said that the Secretary of the Ministry of Health was instructed to cancel the transfer and implement annual transfers.
 
 ◼️
 
 [Data](articles/c17f037e.json)
+
+[Extended Data](ext_articles/c17f037e.ext.json)
 
 ---
 
@@ -91,6 +121,8 @@ He stated that according to the country's constitution, the presidential electio
 ◼️
 
 [Data](articles/369523d3.json)
+
+[Extended Data](ext_articles/369523d3.ext.json)
 
 ---
 
@@ -290,17 +322,23 @@ This is the first time since the pandemic that the island nation has crossed the
 
 ---
 
-### பெண் படுகொலை: சந்தேகநபர் கைது
+### Woman murder: suspect arrested
 
 *2024-03-19 02:12:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-படுகொலை-சந்தேகநபர்-கைது/175-334846) · `ta`
 
-சீதுவ, முத்துவாடிய பகுதியில் வாடகை அறையொன்றில் இளம் பெண் ஒருவர் படுகொலை செய்யப்பட்ட சம்பவத்துடன் தொடர்புடைய பிரதான சந்தேகநபர் பலாங்கொடை வைத்தியசாலையில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+The main suspect in the murder of a young woman in Muthuwadiya, Seetuwa, was arrested at Balangoda Hospital after being admitted there.
 
-நேற்று முன்தினம் அளவுக்கதிகமான மருந்தை உட்கொண்டு பலாங்கொடை வைத்தியசாலையில் சேர்க்கப்பட்ட நிலையில் அவர் நேற்று கைது செய்யப்பட்டுள்ளார். (a)
+🟩
+
+The main suspect in connection with the murder of a young woman in a rented room in Muthuwadiya area in Seetuwa, has been arrested at the Balangoda Hospital.
+
+He was arrested yesterday after being admitted to the Balangoda Hospital. (A)
 
 ◼️
 
 [Data](articles/03eb6251.json)
+
+[Extended Data](ext_articles/03eb6251.ext.json)
 
 ---
 
@@ -2191,23 +2229,5 @@ Speaking in Parliament, he had said that the CEB’s Board of Directors has also
 [Data](articles/485ac1bc.json)
 
 [Extended Data](ext_articles/485ac1bc.ext.json)
-
----
-
-### Sri Lankan among foreign students attacked at Gujarat University while offering prayers
-
-*2024-03-18 16:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98029/sri-lankan-among-foreign-students-attacked-at-gujarat-university-while-offering-prayers) · `en`
-
-Five foreign students of Gujarat University including a Sri Lankan were injured, when a group of 20-25 people barged into their hostel and assaulted them for offering prayers during Ramadan in the hostel building on Saturday (17) night, Indian media reported.
-
-According to the police, the two foreign students who had to be hospitalised are from Sri Lanka and Turkmenistan. While one of them is still in hospital, the other has been discharged, they said. Of the other students who sustained injuries, two are from African nations and one from Afghanistan.
-
-Police have registered a case under IPC provisions relating to unlawful assembly, rioting, voluntarily causing hurt and criminal trespass. The two arrested persons have been identified as Hitesh Mevada and Bharat Patel, both residents of Ahmedabad.
-
-...
-
-[Data](articles/2d85dcf5.json)
-
-[Extended Data](ext_articles/2d85dcf5.ext.json)
 
 ---

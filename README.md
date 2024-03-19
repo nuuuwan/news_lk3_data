@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 22:50:45**
+As of **2024-03-19 23:02:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,219
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,921 (100.0%) of 13,923 articles have been extended.
+13,923 (100.0%) of 13,923 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,19 +54,27 @@ It rules him out of the Test series against Sri Lanka, he added.
 
 [Data](articles/ef7d8ada.json)
 
+[Extended Data](ext_articles/ef7d8ada.ext.json)
+
 ---
 
-### රේගු වෘත්තිය ක්‍රියාමාර්ගය අවසන්
+### Customs professional action is over
 
 *2024-03-19 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194705) · `si`
 
-රේගු වෘත්තිය ක්‍රියාමාර්ගය තාවකාලිකව අවසන් කිරීමට රේගු නිලධාරීන්ගේ සංගමය තීරණය කර තිබේ.
+The Customs Officers Association has temporarily ended the Customs Professional Program. A finance meeting with Ranjith Siyambalapitiya was held today.
 
-ඒ අද (19) පස්වරුවේ මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා සමග පැවති සාකච්ඡාවකින් අනතුරුවය.
+🟩
+
+The Customs Officers Association has decided to temporarily end the Customs Professional Program.
+
+The Finance Ranjith Siyambalapitiya was held today afternoon.
 
 ◼️
 
 [Data](articles/0700e261.json)
+
+[Extended Data](ext_articles/0700e261.ext.json)
 
 ---
 

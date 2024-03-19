@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 10:33:19**
+As of **2024-03-19 10:51:06**
 
 ## Newspaper Stats
 
-*Scraped **13,744** Articles*
+*Scraped **13,752** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,96 @@ newsfirstlk | 363
 economynextcom | 726
 dailyftlk | 727
 islandlk | 760
-adalk | 1,183
-adaderanalk | 1,651
-tamilmirrorlk | 1,669
+adalk | 1,184
+adaderanalk | 1,652
+tamilmirrorlk | 1,671
 virakesarilk | 1,917
-dailymirrorlk | 2,096
-adaderanasinhalalk | 2,184
+dailymirrorlk | 2,098
+adaderanasinhalalk | 2,186
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,737 (99.9%) of 13,744 articles have been extended.
+13,744 (99.9%) of 13,752 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### Tense situation in Parliament due to protest by TNA MPs
+
+*2024-03-19 10:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tense-situation-in-Parliament-due-to-protest-by-TNA-MPs/108-279138) · `en`
+
+Parliament, March 19 (Daily Mirror)- A tense situation erupted in Parliament after a group of Tamil National Alliance MPs staged a protest inside the Chamber over the arrest of eight persons who were engaged in religious observances at the Vedukkunaarimalai Athi Lingeswarar Shrine on Maha Sivarathri night.
+
+They urged the authorities to release the eight persons who were in remand costudy.
+
+They said the eight individuals had been arrested by Archeology Department officials on fasle allegations.
+
+Deputy Speaker Ajith Rajapakshe said he would look into the matter.
+
+Opposition Leader Sajith Premadasa said all people must have a right to observe their respective religions.
+
+Justice Minister Wijeyadasa Rajapaksha said the government cannot intervene in matters already before courts and said the matter will be investigated into and submission made in court.
+
+"We cannot release people arrested by the police and produced before court.They should be released only by the court," he said.
+
+◼️
+
+[Data](articles/15b2e117.json)
+
+---
+
+### குழந்தைகள் வானில் அவர் ஏறியது ஏன்? விசாரணைகள் ஆரம்பம்
+
+*2024-03-19 10:27:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைகள்-வானில்-அவர்-ஏறியது-ஏன்-விசாரணைகள்-ஆரம்பம்/175-334869) · `ta`
+
+விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்ல பெண் கைதிகளின் குழந்தைகளை ஏற்றிச் செல்வதற்காக யுனிசெப் வழங்கிய பேருந்தின் மூலம் நீதிமன்றத்திற்கு அழைத்துச் செல்லப்பட்ட சம்பவம் தொடர்பில் குற்றப் புலனாய்வுப் பிரிவினர் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+
+பெண் கைதிகளின் குழந்தைகளின் நலனுக்காக மாத்திரம் பயன்படுத்தப்பட வேண்டும் என யுனிசெஃப் நிபந்தனை விதித்துள்ள போதிலும், சிறைச்சாலை அதிகாரிகள் ரம்புக்வெல்லவின் போக்குவரத்துக்கு இந்தப் பேருந்தை பயன்படுத்தியதாக குற்றப் புலனாய்வுப் பிரிவினருக்கு முறைப்பாடு கிடைத்துள்ளது.
+
+ரம்புக்வெல்லவுடன் விளக்கமறியலில் வைக்கப்பட்டிருந்த ஏனையோர் சிறைச்சாலை பேருந்தில் கொண்டு செல்லப்பட்டதாக தெரிவிக்கப்படுகிறது. எவ்வாறாயினும், ரம்புக்வெல்லவுக்கு ஏன் இவ்வாறான விசேட சலுகை வழங்கப்பட்டது என கேள்வி எழுப்பப்படுகிறது.
+
+◼️
+
+[Data](articles/a0bc49bc.json)
+
+---
+
+### යල කන්නය සඳහා වී ගොවීන්ට මුදල් සහනාධාර
+
+*2024-03-19 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194669) · `si`
+
+2024 යල කන්නය සඳහා වී ගොවීන්ට පොහොර සහනාධාරය ලබාදීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+
+ඒ අනුව එක් ගොවියෙකුට වගා කරන උපරිම හෙක්ටයාර 2ක් වෙනුවෙන් හෙක්ටයාරයකට රුපියල් 15,000 බැගින් වූ මුදලක් මූල්‍ය සහනාධාරයක් ලෙස ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව මඟින් ලබාදීමට නියමිතය.
+
+එම නියමිත සහනාධාර මුදල් ගොවියන්ගේ බැංකු ගිණුම් වෙත ඍජුවම බැරකිරීමට ද අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව ඇත.
+
+මේ අතර 2024 යල කන්නය සඳහා සීමාසහිත ලංකා පොහොර සමාගම සහ සීමාසහිත කොළඹ කොමර්ෂල් පොහොර සමාගම මඟින් ද පොහොර ආනයනය කර, පුද්ගලික අංශය සමග තරගකාරී ලෙස ගොවීන් වෙත සහනදායි මිලකට පොහොර අලෙවි කිරීම සඳහා ද අමාත්‍ය මණ්ඩල තීරණයක් ගෙන තිබේ.
+
+යල කන්නයේ වී වගාව සඳහා යූරියා, TSP සහ MOP යන රසායනික පොහොර පිළිවෙලින් මෙට්‍රික්ටොන් 110,298.1ක් මෙට්‍රික්ටොන් 27,711.1ක් සහ මෙට්‍රික්ටොන් 33,412.4ක් අවශ්‍ය බව ජාතික පොහොර ලේකම් කාර්යාලය ඇස්තමේන්තු ගත කර තිබේ.
+
+◼️
+
+[Data](articles/c0d85f66.json)
+
+---
+
+### බිත්තර ආනයනයට අනුමැතිය
+
+*2024-03-19 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194668) · `si`
+
+එළඹෙන උත්සව සමය වෙනුවෙන් ඉන්දියාවෙන් බිත්තර ආනයනය සඳහා කැබිනට් අනුමැතිය ලබාදී තිබේ.
+
+ඒ අනුව අප්‍රේල් මාසයේදී බිත්තර මිලියන 42ක් ඉන්දියාවෙන් ආනයනය කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/7ac4d1d1.json)
+
+---
 
 ### Parliament descends into chaos over recent arrest of civilians at Kovil
 
@@ -43,6 +117,46 @@ They were protesting against the recent arrest of eight civilians who were condu
 ◼️
 
 [Data](articles/10b0ba24.json)
+
+[Extended Data](ext_articles/10b0ba24.ext.json)
+
+---
+
+### Parliament descends into chaos over arrest of civilians at Hindu temple
+
+*2024-03-19 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98044/parliament-descends-into-chaos-over-arrest-of-civilians-at-hindu-temple) · `en`
+
+A contentious situation ensued in parliament on Tuesday morning (March 19) as MPs of the Tamil National Alliance (TNA) staged a protest while holding placards.
+
+They were protesting against the recent arrest of eight civilians who were conducting a ‘pooja’ in view of the Maha Shivaratri Day on March 08 at a Hindu temple in Vavuniya.
+
+The parliament, chaired by the Deputy Speaker, convened at 9.30 a.m. for the debate on the no-confidence motion against Speaker Mahinda Yapa Abeywardena.
+
+However, the protest staged by the TNA MPs disrupted the parliamentary proceedings for a few good minutes.
+
+The protest was called off after Justice Minister Wijeyadasa Rajapakshe asserted an impartial, comprehensive investigation into the incident.
+
+The eight civilians including the chief priest of the Hindu temple at the Vedukkunarimalai archaeological site in Nedunkerny had been arrested for allegedly trespassing into the premises, disregarding a court order previously issued rejecting a request to do so.
+
+...
+
+[Data](articles/503e95e3.json)
+
+---
+
+### எந்தத் தேர்தல் முதலில் நடக்கும்?பதிலளித்தார் ஜனாதிபதி
+
+*2024-03-19 10:21:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எந்தத்-தேர்தல்-முதலில்-நடக்கும்-பதிலளித்தார்-ஜனாதிபதி/175-334868) · `ta`
+
+முதலில் பொதுத் தேர்தலா அல்லது ஜனாதிபதித் தேர்தலா நடத்தப்படும் என்ற சந்தேகத்திற்கு முற்றுப்புள்ளி வைத்து, ஜனாதிபதித் தேர்தலே முதலில் நடத்தப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க நேற்று (18) அமைச்சரவைக் கூட்டத்தில் அறிவித்துள்ளார்.
+
+எனவே ஜனாதிபதி தேர்தலுக்கு முதலில் தயாராகுமாறு நேற்று கூடிய அமைச்சரவைக்கு ஜனாதிபதி பணிப்புரை விடுத்துள்ளதாக தகவலறிந்த வட்டாரங்கள் தெரிவிக்கின்றன.
+
+நாட்டின் அரசியலமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தலை முதலில் நடத்த வேண்டும் எனவும், அதற்கான ஏற்பாடுகள் மேற்கொள்ளப்படும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/5200cd99.json)
 
 ---
 
@@ -64,39 +178,71 @@ For this purpose, the Department of Animal Production and Health has already obt
 
 [Data](articles/369618ed.json)
 
+[Extended Data](ext_articles/369618ed.ext.json)
+
 ---
 
-### பிறந்த குழந்தையை கொலை செய்து புதைத்த பெண்
+### Nest
 
 *2024-03-19 10:12:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பிறந்த-குழந்தையை-கொலை-செய்து-புதைத்த-பெண்/72-334867) · `ta`
 
-முல்லைத்தீவு மாவட்டத்தின் புதுக்குடியிருப்பு பொலிஸ் பிரிவுக்குட்பட்ட விசுவமடு இளங்கோபுரம் பகுதியில் வசிக்கும் பெண்ணொருவர் கணவனை பிரிந்து வாழும் நிலையில் தவறான உறவின் மூலம் கர்ப்பமடைந்துள்ளார்.
+A woman in Vishwamadu Ilangopuram, Pudukkudiyiruppu, Mullaitivu district, murdered her newborn due to a wrong relationship with her husband. Arrested at Kilinochchi Hospital, she faces trial today for the crime.
 
-இந்த நிலையில் குறித்த பெண் கடந்த மூன்று தினங்களுக்கு முன்னர் குழந்தையை பெற்றெடுத்த நிலையில் பிறந்த குழந்தையை  கொலை செய்து புதைத்துள்ளார்.
+🟩
 
-இந்நிலையில் குறித்த பெண் கிளிநொச்சி வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில், புதுக்குடியிருப்பு பொலிஸாருக்கு தகவல் தெரியப்படுத்தப்பட்ட நிலையில் விசாரணைகளை மேற்கொண்ட பொலிஸார் பெண்ணை கைது செய்துள்ளனர்.
+A woman living in the Vishwamadu Ilangopuram area belonging to the Pudukkudiyiruppu police division of the Mullaitivu district is pregnant with a wrong relationship with her husband.
 
-அத்துடன் குழந்தையை புதைத்த இடத்தில் நீதிபதி முன்னிலையில் சோதனை நடவடிக்கைகள் இன்று இடம்பெறவுள்ளது. R
+In this case, the woman has murdered and buried the baby born three days ago.
+
+Police have arrested the woman as the woman was receiving treatment at the Kilinochchi Hospital and the Pudukkudiyiruppu police were informed.
+
+The test proceedings will take place today in the presence of the judge where the child is buried. Remble
 
 ◼️
 
 [Data](articles/e05dc317.json)
 
+[Extended Data](ext_articles/e05dc317.ext.json)
+
 ---
 
-### පාර්ලිමේන්තුවේ උණුසුම් තත්ත්වයක්
+### There is a warm situation in Parliament
 
 *2024-03-19 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194667) · `si`
 
-වව්නියාවේ හින්දු කෝවිලක පුජාවක් පවත්වමින් සිටි පුද්ගලයින් පිරිසක් අත්අඩංගුවට ගැනීමට විරෝධය පාමින් දෙමළ ජාතික සන්ධානයේ මන්ත්‍රීවරු පිරිසක් පාර්ලිමේන්තු සභාගර්භයේ දී විරෝධතාවයක නියැලුණි.
+TNA MPs protest against arrest in Vavuniya, leading to Parliamentary disruption and suspension.
 
-අද (19) උදෑසන පාර්ලිමේන්තු කටයුතු නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් ආරම්භ වූ අතර, එම අවස්ථාවේ දී දෙමළ ජාතික සන්ධානයේ මන්ත්‍රීවරු විරෝධතා පුවරු අතැතිව සභාගර්භය මධ්‍යයේ විරෝධතාවය ආරම්භ කළේය.
+🟩
 
-මේ හේතුවෙන් සභාගර්භයේ වැඩකටයුතුවලට මිනිත්තු කිහිපයක් බාධා එල්ල වූ අතර, අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා විසින් අදාළ සිදුවීම සම්බන්ධයෙන් අපක්ෂපාතී පරීක්ෂණයක් සිදුකරන බව දැනුම්දීමෙන් අනතුරුව විරෝධතාවය නතර කිරීමට දෙමළ ජාතික සන්ධානයේ මන්ත්‍රීවරු කටයුතු කළේය.
+A group of Tamil National Alliance MPs protest against the arrest of a group of persons who were conducting a sacred area of a Hindu Kovil in Vavuniya.
+
+The Deputy Speaker of Parliament commenced today (19th) commenced today.
+
+As a result, the coalition was interrupted several minutes, and the TNA MPs were suspended after the report of the incident.
 
 ◼️
 
 [Data](articles/b17a6187.json)
+
+[Extended Data](ext_articles/b17a6187.ext.json)
+
+---
+
+### දකුණේ ගුරුවරුන්ටත් තම පාසලේ සිසුන්ට ටියුෂන් දීම තහනම්
+
+*2024-03-19 10:09:43* · [`adalk`](https://www.ada.lk/breaking_news/දකුණේ-ගුරුවරුන්ටත්-තම-පාසලේ-සිසුන්ට-ටියුෂන්-දීම-තහනම්/11-408689) · `si`
+
+දකුණු පළාතේ  පාසල්වල ගුරුවරුන්ට තම පාසලේ ඉගෙනුම ලබන සිසුන් සඳහා  මුදල් අයකර පුද්ගලික  උපකාරක පන්ති පැවැත්වීම තහනම් කරමින් දකුණු පළාත් අධ්‍යාපන අමාත්‍යාංශය මගින් නව චක්‍රලේඛයක් නිකුත් කර ඇත.
+
+දකුණු පළාත් අධ්‍යාපන අමාත්‍යාංශයේ ලේකම් රංජිත් යාපා මහතාගේ අත්සනින් නිකුත් කර ඇති   මෙම  චක්‍රලේඛය දකුණු පළාතේ පළාත් අධ්‍යාපන අධ්‍යක්ෂ වෙත සහ සියලුම කලාප හා කොට්ඨාස අධ්‍යාපන අධ්‍යක්ෂවරුන් හා විදුහල්පතිවරුන් වෙත යොමුකළ බව  එම අමාත්‍යාංශය පැවසීය.
+
+පාසල් ගුරුවරුන් පුද්ගලික   උපකාරක පන්ති පැවැත්වීම  සම්බන්ධයෙන් මීට පෙර අධ්‍යාපන අමාත්‍යාංශය මගින් නිකුත් කර ඇති චක්‍රලේඛයේ උපදෙස්වලට අමතරව නිකුත්කරන මෙම චක්‍රලේඛය මගින් මින් ඉදිරියට දකුණු පළාතේ පාසල්වල ගුරුවරුන්ට තම පාසලේ සිසුන් සඳහා පාසල් වේලාව තුළ හා ඉන් පසුවද  ,සති අන්ත හා රජයේ නිවාඩු දිනවලද  විවිධ බාහිර ස්ථානවල මුදල් අයකර පුද්ගලික  අමතර පන්ති පැවැත්වීම තහනම් කර තිබේ.
+
+එමෙන්ම මෙම නව ප්‍රතිපත්තිමය තීරණය සම්බන්ධයෙන්  දකුණු පළාතේ සියලුම පාසල්වල ගුරුවරුන් දැනුවත් කර එසේ දැනුවත්වූ බවට සහතිකයක් ලබාගන්නා ලෙස මෙම චක්‍රලේඛයෙන්  විදුහල්පතිවරුන් දැනුවත් කර ඇත.
+
+...
+
+[Data](articles/8dac8b8f.json)
 
 ---
 
@@ -155,6 +301,8 @@ The Colombo Stock Exchange opened down; the All Share Price Index was down 0.03 
 ◼️
 
 [Data](articles/3d8ec5d1.json)
+
+[Extended Data](ext_articles/3d8ec5d1.ext.json)
 
 ---
 
@@ -244,21 +392,27 @@ They alleged that the annual transfers in the Western Province had been done in 
 
 ---
 
-### කතරගම ප්‍රධාන කපුවාට දේවාලය තහනම්
+### Kataragama main captain Devalaya is banned
 
 *2024-03-19 09:14:15* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-ප්‍රධාන-කපුවාට-දේවාලය-තහනම්/11-408687) · `si`
 
-රුහුණු මහා කතරගම දේවාලයේ ප්‍රධාන කපු මහතා හා තවත් කපු මහතාගේ කපු ධුරය අත්හිටුවීමට රුහුණු මහා කතරගම දේවාලයේ බස්නායක නිලමේ ඩිෂාන් ගුණසේකර මහතා කටයුතු කර තිබේ.
+Devalaya's main captain, Basnayake Nilame, suspended for alleged fraud. Two suspects arrested for theft of a golden disk.
 
-එම දේවාලයට බැතිමතකු ජූජා කළ පවුම් 38 ක් බර රත්තරන් තැටියක් වංචනික ආකාරයෙන් රැගෙන යාම සම්බන්ධයෙන් වන චෝදනාවලට අදාළව මෙසේ කපුධුර අත්හිටුවා ඇත්තේ  එහි ප්‍රධාන කපු මහත වන සොමිපාල ටී රත්නායක මහතාගෙත් තවත් කපු මහතෙක් වන සමන් ප්‍රියන්ත යන අයගේත්ය.
+🟩
 
-විධිමත් පරීක්‍ෂණයක් පැවැත්වීමට යටත්ව ඊයේ (18) සිට ක්‍රියාත්මක වන පරිදි ඔවුන්ගේ කපුධුර අත්හිටුවා ඇති අතර ඒ අනුව ඔවුන්ට  ඔවුන්ට රුහුණු මහා කතරගම දේවාල මාලිගයට ඇතුළු වීම, එහි රාජකාරි කටයුතු සම්බන්ධයෙන් සෘජු සහ/හෝ වක්‍රාකාරයෙන් සහ/හෝ අන්‍යාකාරයකින් සිදුකරලීම, ඊට සම්බන්ධ වීම තහනම් බවත් බස්නායක නිළමේ ඩිෂාන් ගුණසේකර මහතා ලිඛිතව දැනුම් දී තිබේ.
+Basnayake Nilame of the Devalaya of the Ruhunu Kataragama Devalaya has been suspended for the main Kapura of Ruhunu Maha Kataragama and the cotton of Kapu.
 
-රත්තරන් තැටිය පැහැරගෙන යෑමේ සිද්ධිය සම්බන්ධයෙන් අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව කරන ලද පරීක්ෂණයකින් පසුව ඔවුන් දෙදෙන අත්අඩංගුවට ගෙන අධිකරයට ඉදිරිපත් කිරීමෙන් පසුව ඇප මත නිදහස්ව තිබේ.
+An devotees to the temple were suspended regarding the allegations of a golden riding in a fraudulent manner in connection with the accusations of fraudulence disk.
+
+Basnayake has been suspended, according to the Basnayake, which operates the Ruhunu Maha Kataragama Devalaya, and / or / or indirectly and / or / or indirectly and / or / or indirect and / or / or indirectly and / or / or indirectly and / or / or indirect and / or / or indirectly prohibited on their duties.Mr. Dishan Gunasekara has informed the statement in writing.
+
+After an inspection conducted by the Criminal Investigation Department, the two suspects have been arrested and released on bail after an investigation into the abduction of the golden disk.
 
 ...
 
 [Data](articles/b88806be.json)
+
+[Extended Data](ext_articles/b88806be.ext.json)
 
 ---
 
@@ -464,6 +618,22 @@ He stated that according to the country's constitution, the presidential electio
 
 ---
 
+### Prepare for presidential election first -President tells Cabinet
+
+*2024-03-19 07:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Prepare-for-presidential-election-first-President-tells-Cabinet/155-279126) · `en`
+
+Putting an end to the rumor's that the general election or the presidential election will be held first, President Ranil Wickremesinghe reportedly informed the cabinet of ministers yesterday (18) that the presidential election will be held first.
+
+Therefore, the President has instructed the cabinet, which met yesterday, to prepare for the presidential election first, informed sources said.
+
+He stated that according to the country's constitution, the presidential election should take place first, and arrangements will be made accordingly, sources added
+
+◼️
+
+[Data](articles/dbb79fcb.json)
+
+---
+
 ### President instructs cabinet to prepare for presidential election
 
 *2024-03-19 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194660) · `si`
@@ -643,6 +813,8 @@ The new agreement may come at the mission or after further discussions or some a
 ...
 
 [Data](articles/9e8ae346.json)
+
+[Extended Data](ext_articles/9e8ae346.ext.json)
 
 ---
 
@@ -1971,175 +2143,5 @@ The COPE meeting will be conveled on the same day, and the Ceylon Electricity Bo
 [Data](articles/55fe002f.json)
 
 [Extended Data](ext_articles/55fe002f.ext.json)
-
----
-
-### The decision to take the Central Bank employees about the increased salary
-
-*2024-03-18 19:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194651) · `si`
-
-The Central Bank administration is discussing wage reductions with employees, despite opposition from trade unions and the Cabinet, which opposes a Rs. 232 million salary increase.
-
-🟩
-
-Sources from the Central Bank said that the Central Bank administration has begun talks with employees to re-reduce their wages.
-
-Speaking at a press conference held today (Jan. Nalaka Godahewa), MP Nalaka Godahewa said that the Central Bank trade unions have opposed it.
-
-The Cabinet has objected to a number of parties including the increase in the salaries of the Central Bank employees by Rs. 232 million.
-
-The Chief Banks were summoned to the Cabinet to the Cabinet of Cabinet to question it in such a background.
-
-◼️
-
-[Data](articles/6b765558.json)
-
-[Extended Data](ext_articles/6b765558.ext.json)
-
----
-
-### State Astrologers’ Committee refutes allegations of faulty auspicious times for New Year
-
-*2024-03-18 19:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/State-Astrologers-Committee-refutes-allegations-of-faulty-auspicious-times-for-New-Year/108-279085) · `en`
-
-Colombo, March 18 (Daily Mirror)- Refuting allegations of faulty auspicious times during the Sinhala and Tamil New Year, the State Astrologers’ Committee justified the designation of auspicious times for performing Sinhala New Year rituals at night, claiming that they wanted the most suitable time for the rituals despite practical difficulties.
-
-Committee member astrologer G.M. Gunapala told a news conference at the Government Information Department that the sun's transit occurs at 9.05 pm on April 13 and that the New Year rituals must be designated during the auspicious time within six hours and twenty-four minutes from 9.05 pm when the sun's transit occurs.
-
-He said the auspicious times were designated at night during the six hours and twenty-four minutes avoiding the Raahu Kalaya.
-
-...
-
-[Data](articles/8d7a82b1.json)
-
-[Extended Data](ext_articles/8d7a82b1.ext.json)
-
----
-
-### State Astrologers’ Committee refutes allegations of faulty auspicious times for New Year
-
-*2024-03-18 19:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/State-Astrologers-Committee-refutes-allegations-of-faulty-auspicious-times-for-New-Year/155-279085) · `en`
-
-Colombo, March 18 (Daily Mirror)- Refuting allegations of faulty auspicious times during the Sinhala and Tamil New Year, the State Astrologers’ Committee justified the designation of auspicious times for performing Sinhala New Year rituals at night, claiming that they wanted the most suitable time for the rituals despite practical difficulties.
-
-Committee member astrologer G.M. Gunapala told a news conference at the Government Information Department that the sun's transit occurs at 9.05 pm on April 13 and that the New Year rituals must be designated during the auspicious time within six hours and twenty-four minutes from 9.05 pm when the sun's transit occurs.
-
-He said the auspicious times were designated at night during the six hours and twenty-four minutes avoiding the Raahu Kalaya.
-
-...
-
-[Data](articles/e67d810f.json)
-
-[Extended Data](ext_articles/e67d810f.ext.json)
-
----
-
-### Port trapped by customs trade union action
-
-*2024-03-18 19:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194650) · `si`
-
-Three thousand five hundred containers at Colombo Port are trapped due to customs trade union action. Customs officials are transferring the Customs Prize Fund to the Treasury. The strike has led to factory shutdowns and a letter to the President, highlighting the impact on imports and exports. Finance Minister Ranjith Siyambalapitiya promises to re-negotiate with trade unions.
-
-🟩
-
-It is reported that three thousand five hundred containers with imported goods have been trapped at the Port of Colombo due to the vocational action.
-
-Customs officials are working on a professional program, taking over the acquisition of the Customs Prize Fund to the Treasury.
-
-Customs serves customs and incentives pay overtime and incentives using the Customs Prize Fund.
-
-Customs officers, Customs Authorities and Customs Staff Officers have come to the Ministry of Customs and Customs Staff, who has been unfair and that it is unfair.
-
-Meanwhile, the import and exports of exports have been asked to have a letter to the President that the customs' strike has been implemented due to the customs strike.
-
-In that letter, they have shown that they have been admitted to a lot of entries without access to shipping.
-
-As a result, many factories have to be stopped operations.
-
-...
-
-[Data](articles/90dea98d.json)
-
-[Extended Data](ext_articles/90dea98d.ext.json)
-
----
-
-### Japan provides Rs. 3.3 billion grant assistance to Sri Lanka for several projects
-
-*2024-03-18 19:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98034/japan-provides-rs-33-billion-grant-assistance-to-sri-lanka-for-several-projects-) · `en`
-
-Sri Lanka and Japan today signed the Exchange of Notes pertaining to the grant assistance amounting to Japanese Yen 1,600 million (approximately LKR 3.3 billion) to be provided under the Japanese Economic and Social Development Programme.
-
-The Government of Japan, as one of Sri Lanka’s main development partners, provides concessional loans and various grant aid schemes such as the Economic and Social Development Programs, Technical Cooperation, Research Partnerships, Development Studies, and non-project grant aid with a view to improving the socio-economic status by strengthening bilateral relations between the two countries.
-
-During the present economic crisis in Sri Lanka, the government of Japan has extended its cooperation by providing required immediate humanitarian assistance for the affected community as well as by equipping the public sector, aiming to improve the socioeconomic situation in the country.
-
-...
-
-[Data](articles/ffb31943.json)
-
-[Extended Data](ext_articles/ffb31943.ext.json)
-
----
-
-### CEB summoned before COPE
-
-*2024-03-18 19:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-summoned-before-COPE/108-279084) · `en`
-
-Colombo, March 18 (Daily Mirror)- The Ceylon Electricity Board (CEB) has been called to appear before the Committee on Public Enterprises (COPE) on March 21, 2024, the Communications Department of Parliament said.
-
-The CEB is the first institution to be called before the COPE after Rohitha Abeygunawardane took office as COPE Chairman.
-
-◼️
-
-[Data](articles/e282f8de.json)
-
-[Extended Data](ext_articles/e282f8de.ext.json)
-
----
-
-### Both the event ended
-
-*2024-03-18 19:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194649) · `si`
-
-A woman was attacked in Bodhinagala inn, leading to an Ingiriya police officer's hospitalization. The suspect, a resident of Piliyala, was alone and had booked a room the previous day. The woman, a resident of Piliyala, was severely injured and taken to Horana Base Hospital. The suspect was also hospitalized with assistance from local residents.
-
-🟩
-
-An ingiriya police have been hospitalized with the assistance of the area when a woman was attacked with a sharp weapon in a Bodhinagala inn.
-
-The Piliyala area is a woman in the Piliyala area and her casual mitrator, ingiriya and Piliyala, who is a resident of Ingiriya, Portupoda.
-
-Police investigations have revealed that the men was alone and reserved a room from the innings yesterday (17).
-
-The woman's arrival from the resident of the manager, the man's attempt to leave the manager, with severe cuts, was sitting at a chair, with a severe cut injury.
-
-The manager was then admitted to the Horana Base Hospital by a 1990 hedariya base hospitalized by the manager's notification.
-
-According to information received by the police officers who had gone to the residents of Ingiriya, police officers who went to the area had been admitted to the Horana Base Hospital with the assistance of the residents of Ingiriya.
-
-...
-
-[Data](articles/12ccf89a.json)
-
-[Extended Data](ext_articles/12ccf89a.ext.json)
-
----
-
-### Accused sentenced to life in prison over drug possession
-
-*2024-03-18 19:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98033/accused-sentenced-to-life-in-prison-over-drug-possession) · `en`
-
-The Supreme Court has confirmed the verdict issued by the Colombo High Court to an accused found guilty of drug trafficking and possession of 2.42 grams of heroin, sentencing him to life in prison.
-
-This order was issued by a three-member Supreme Court judge bench while dismissing an appeal filed by the accused in question in this regard.
-
-The Police Narcotics Bureau (PNB) had arrested the suspect along with the drugs in his possession during a special raid.
-
-◼️
-
-[Data](articles/93d07087.json)
-
-[Extended Data](ext_articles/93d07087.ext.json)
 
 ---

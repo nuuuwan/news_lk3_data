@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 21:52:37**
+As of **2024-03-19 22:05:57**
 
 ## Newspaper Stats
 
-*Scraped **13,915** Articles*
+*Scraped **13,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 735
 islandlk | 761
 adalk | 1,205
 adaderanalk | 1,675
-tamilmirrorlk | 1,689
-virakesarilk | 1,945
+tamilmirrorlk | 1,690
+virakesarilk | 1,946
 dailymirrorlk | 2,125
 adaderanasinhalalk | 2,218
 
@@ -26,11 +26,61 @@ adaderanasinhalalk | 2,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,915 (100.0%) of 13,915 articles have been extended.
+13,915 (100.0%) of 13,917 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### காங்கேசன்துறை துறைமுக அபிவிருத்திக்கு இந்தியாவிடமிருந்து நிதி
+
+*2024-03-19 21:39:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காங்கேசன்துறை-துறைமுக-அபிவிருத்திக்கு-இந்தியாவிடமிருந்து-நிதி/175-334896) · `ta`
+
+காங்கேசன்துறை துறைமுகத்தை முழுமையாக அபிவிருத்தி செய்வதற்கு 61.5 மில்லியன் அமெரிக்க டொலர் நிதியுதவியை வழங்க இந்திய அரசாங்கம் இணக்கம் தெரிவித்துள்ளது.
+
+இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா மற்றும் துறைமுகங்கள், கப்பல்துறை, விமான சேவைகள் அமைச்சர் நிமல் சிறிபால டி சில்வா இடையிலான சந்திப்பில் இந்த விடயம் தெரிவிக்கப்பட்டுள்ளது.
+
+இந்த அபிவிருத்தி திட்டத்தின் கீழ் பாரிய அளவிலான கப்பல்கள் மற்றும் படகுகள் உள்நுழைவதற்கு ஏற்ற வகையில் துறைமுகம் 30 மீட்டர் ஆழப்படுத்தப்படவுள்ளதுடன், புதிய அலைதாங்கியை நிர்மாணிக்கவும் திட்டமிடப்பட்டுள்ளது.
+
+இந்திய சுற்றுலாப் பயணிகளின் வசதிக்காக 600 மில்லியன் ரூபா செலவில் காங்கேசன்துறை துறைமுகத்தில் புதிய பயணிகள் முனையம் நிர்மாணிக்கப்பட்டதாகவும் கடந்த 9 மாதங்களில் பாரிய அளவிலான சுற்றுலாப் பயணிகள் நாட்டிற்கு வருகை தந்துள்ளதாகவும் அமைச்சர் நிமல் சிறிபால டி சில்வா இதன்போது குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/e42ba158.json)
+
+---
+
+### Attan Sri Manikkapillai Devasthanam
+
+*2024-03-19 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179093) · `ta`
+
+Attan Sri Manikkapillai Devasthanam, capital of Nuwara Eliya district, is Hatton, a peaceful city with a 155-year history, including a railway station opened in 1884.
+
+🟩
+
+Attan Municipality is the capital of the Nuwara Eliya district. Hatton, which is proud to be a city of peace, has a 155 -year history. The railway station was opened in 1884.
+
+◼️
+
+[Data](articles/b6e0b358.json)
+
+[Extended Data](ext_articles/b6e0b358.ext.json)
+
+---
+
+### ரயில் தடம் புரண்டதால்  சில ரயில் சேவைகள் இடைநிறுத்தம்!
+
+*2024-03-19 21:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/179167) · `ta`
+
+கொழும்பு கோட்டை ரயில் நிலையத்துக்கு அண்மித்தாக செவ்வாய்க்கிழமை (19) மாலை ரயில் ஒன்று தடம் புரண்டுள்ளது.
+
+இதன் காரணமா கரையோர ரயில் பாதையில் காலி மற்றும் மாத்தறைக்கான ரயில் சேவைகள் தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ளதாக அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/7145e997.json)
+
+---
 
 ### Blow for Sri Lanka as Hasaranga is suspended for Bangladesh Tests
 
@@ -58,7 +108,7 @@ He received a 50 per cent fine and accumulated three demerit points for his offe
 
 *2024-03-19 20:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Blow-for-Sri-Lanka-as-Hasaranga-suspended-for-Bangladesh-Tests/108-279174) · `en`
 
-March 19 -  All-rounder Wanindu Hasaranga, who had just announced a return to Test cricket, was found guilty of a Code of Conduct breach Sri Lanka all-rounder Wanindu Hasaranga has been suspended for Bangladesh's two-Test series against Bangladesh, shortly after announcing his decision to return to Test cricket having retired from the format last year.
+March 19 - Sri Lanka all-rounder Wanindu Hasaranga has been suspended for Bangladesh's two-Test series against Bangladesh, shortly after announcing his decision to return to Test cricket having retired from the format last year.
 
 During the third ODI in the recently-concluded series against Bangladesh, Hasaranga was found guilty of breaching article 2.8 of the ICC Code of Conduct for Players and Player Support Personnel, which relates to “showing dissent at an Umpire’s decision during an International Match.”
 
@@ -2187,73 +2237,5 @@ He added that if a fire begins to spread in today's environment, there will be g
 [Data](articles/dfe64894.json)
 
 [Extended Data](ext_articles/dfe64894.ext.json)
-
----
-
-### Ministry to engage children in Olympiad competitions worldwide: Minister
-
-*2024-03-19 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ministry-to-engage-children-in-Olympiad-competitions-worldwide-Minister/108-279161) · `en`
-
-Colombo, March 19 (Daily Mirror) -The Education Ministry wants to involve children in competitions like Olympiads, implemented from schools level to the international level.
-
-While participating in a prize-giving ceremony, Minister Susil Premajayantha said the Ministry has decided to provide opportunities to prepare schoolchildren and instruct all school heads through a circular.
-
-In the upcoming education reforms, it is expected to provide wide opportunities for children to engage not only in information and communication technology but also in industrial development fields and to encourage children to do so.
-
-The transformative change in education is expected to prepare children who leave the school system in the future to adapt to new economic trends, the Minister said.
-
-◼️
-
-[Data](articles/ce85b089.json)
-
-[Extended Data](ext_articles/ce85b089.ext.json)
-
----
-
-### Refinery saves from the oil corporation
-
-*2024-03-19 13:35:21* · [`adalk`](https://www.ada.lk/breaking_news/පිරිපහදුව-තෙල්-සංස්ථාවෙන්-ගලවයි/11-408700) · `si`
-
-The Ceylon Petroleum Corporation approved the Cabinet paper for the Sapugaskanda Refinery, Sri Lanka's only petroleum refinery, established in 1969 to meet 25% of the country's petroleum demand. The government plans to invest an additional 25 years to implement this refinery as a government-owned enterprise.
-
-🟩
-
-The Cabinet paper, Minister of Power and Energy, has been approved by the Ceylon Petroleum Corporation.
-
-The Sapugaskanda Refinery, the only capital of Sri Lanka, has been constructed in 1969 and 25 percent of refined petroleum demand.
-
-The government has identified a suitable investment for the implementation of this refinery and investing an additional investment for about 25 years.
-
-The Cabinet approval has been granted to establish the Sapugaskanda refinery as a separate enterprise under the government.
-
-◼️
-
-[Data](articles/51e29d07.json)
-
-[Extended Data](ext_articles/51e29d07.ext.json)
-
----
-
-### Hamas's 3rd top leader kills: White House
-
-*2024-03-19 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179110) · `ta`
-
-Marwan Isa, Hamas's 3rd top leader, was killed by Israel. He was the deputy head of Isadheen al-Qassam, Hamas's military unit. The attack occurred in Gaza on March 9 and 10. US National Security Advisor Jag Sulivan confirmed Isa's death in Israel's attack.
-
-🟩
-
-Marwan Isa, the 3rd top leader of the Hamas organization, was killed by Israel last week, the White House said on Monday (18).
-
-Marwan Isa was the deputy head of the Hamas's military unit, Isadheen al -Qassam.
-
-Israeli military spokesman Rear Admiral Danier Hakari said on the 11th that the attack was attacked in Gaza on March 9 and 10.
-
-US National Security Advisor Jag Sulivan yesterday said that Isa was killed in Israel's attack last week.
-
-◼️
-
-[Data](articles/51aebef7.json)
-
-[Extended Data](ext_articles/51aebef7.ext.json)
 
 ---

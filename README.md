@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 21:18:00**
+As of **2024-03-19 21:33:24**
 
 ## Newspaper Stats
 
-*Scraped **13,914** Articles*
+*Scraped **13,915** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 727
 economynextcom | 735
 islandlk | 761
-adalk | 1,204
+adalk | 1,205
 adaderanalk | 1,675
 tamilmirrorlk | 1,689
 virakesarilk | 1,945
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,908 (100.0%) of 13,914 articles have been extended.
+13,914 (100.0%) of 13,915 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ He received a 50 per cent fine and accumulated three demerit points for his offe
 
 [Data](articles/23fa88f5.json)
 
+[Extended Data](ext_articles/23fa88f5.ext.json)
+
 ---
 
 ### Blow for Sri Lanka as Hasaranga suspended for Bangladesh Tests
@@ -68,6 +70,8 @@ Bangladesh took the series 2-1 after winning the contest by four wickets.
 
 [Data](articles/d8106d9a.json)
 
+[Extended Data](ext_articles/d8106d9a.ext.json)
+
 ---
 
 ### Lankadeepa wins 'Most Popular Newspaper' Award for 18th consecutive year
@@ -81,6 +85,8 @@ The awards ceremony was organised by the Sri Lanka Institute of Marketing (SLIM)
 ◼️
 
 [Data](articles/ea655c87.json)
+
+[Extended Data](ext_articles/ea655c87.ext.json)
 
 ---
 
@@ -99,6 +105,8 @@ People’s Awards has been one of the most looked forward-to events in the corpo
 ...
 
 [Data](articles/21c742ce.json)
+
+[Extended Data](ext_articles/21c742ce.ext.json)
 
 ---
 
@@ -454,6 +462,22 @@ Accordingly, a Cabinet sub-committee was appointed to ask the views of all party
 
 ---
 
+### ලෝක බලවතෙකුට තවත් බලවතෙකුගෙන් සුභ පැතුම්
+
+*2024-03-19 18:52:22* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-බලවතෙකුට-තවත්-බලවතෙකුගෙන්-සුභ-පැතුම්/11-408710) · `si`
+
+රුසියාවේ ජනාධිපති ධුරයට යළි තේරී පත් වූ ව්ලැදිමිර් පුටින් මහතාට චීන ජනාධිපති ෂී ජින් පිං මහතා සුබ පැතුම් පිරිනමයි. එම පණිවුඩය ඊයේ (18)  යොමුකෙරිණ.
+
+රුසියානු ජනතාව මෑත වසරවල දී අභියෝග ජයගනිමින්, ජාතික සංවර්ධන මාවතේ ස්ථාවරව ඉදිරියට යමින් සිටින බව ෂී ජින් පිං මහතා කියා සිටී.  පුටින් මහතා රුසියානු ජනාධිපතිවරයා ලෙස යළි තේරී පත්වීමෙන් එරට ජනතාව ඔහුට දක්වන සහයෝගය මනාව පිළිබිඹු වෙයි. එසේම, පුටින් මහතාගේ නායකත්වය යටතේ රුසියාව ජාතික සංවර්ධනය අතින් සුවිසල් ජයග්‍රහණ අත්කර ගනු ඇති බවට ද ෂී ජින් පිං මහතා විශ්වාසය පළ කරයි.
+
+චීන-රුසියානු සබඳතා වර්ධනය චීනය ප්‍රමුඛ අවධානයක් යොමුකරන කරුණකි. රුසියාව සමග සමීප සන්නිවේදනයක් පවත්වාගෙන යමින්, දෙරට ජනතාවට ප්‍රතිලාභ සැලසෙන නවයුගයක් උදෙසා ද්විපාර්ශ්වික සම්බන්ධතාව ප්‍රශස්ත ලෙස තර කිරීමට චීනය සූදානම් බව ද ෂී ජින් පිං මහතා තම පණිවුඩයෙන් කියාසිටී.
+
+◼️
+
+[Data](articles/d97a39d9.json)
+
+---
+
 ### The man who fell on the ground in shock dies
 
 *2024-03-19 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179162) · `ta`
@@ -478,21 +502,31 @@ At the same time, the people of the plantation of the Ceylon Electricity Board (
 
 ---
 
-### කෝටි 12ක රන් ආභරණ සමග ව්‍යාපාරිකයන් දෙදෙනෙක් අල්ලයි
+### Two businessmen arrested with 12 million jewelery
 
 *2024-03-19 18:42:10* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-12ක-රන්-ආභරණ-සමග-ව්‍යාපාරිකයන්-දෙදෙනෙක්-අල්ලයි/11-408709) · `si`
 
-නීතිවිරෝධී ලෙස ශ්‍රී ලංකාවට ගෙන එමින් තිබූ රුපියල් කෝටි දොලහකට අධික වටිනාකමකින් යුතු ස්වර්ණාභරණ තොගයක් නීතිවිරෝධී ලෙස ශ්‍රී ලංකාවට ගෙන එමින් සිටි , නිතර නිතර ගුවන් මගින් භාණ්ඩ මෙරටට ගෙන එන ව්‍යාපාරිකයන් දෙදෙනෙකු ද සමග ශ්‍රී ලංකා රේගුවේ ආදායම් අධීක්ෂණ අංශයේ , ජංගම අංශයේ රේගු නිලධාරීන් පිරිසක් විසින් 03/19 දින කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ දී අත් අඩංගුවට ගෙන තිබේ .
+Two businessmen, aged 60 and 65, were arrested at Bandaranaike International Airport on 19th with 12 million in jewelry. They had smuggled the jewelry from Dubai via Emirates Airlines.
 
-මොවුන් අතරින් එක් අයෙකු 60 හැවිරිදි අම්බලන්ගොඩ ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර අනෙක් ව්‍යාපාරිකයා කොළඹ , බම්බලපිටිය ප්‍රදේශයේ පදිංචි 65 හැවිරිදි ව්‍යාපාරිකයෙකි.
+🟩
 
-මොවුන් දෙදෙනා 03/19 දින උදෑසන 08.30 ට ඩුබායි සිට එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 650 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ කිසිවක් ප්‍රකාශ කිරීමට නොමැති " හරිත මාවත " ( Green Channel ) ඔස්සේ ගුවන් තොටුපොළෙන් පිටතට යමින් සිටියදී මෙම අත් අඩංගුවට ගැනීම සිදු කර  තිබුණි .
+Frequently, with two crores of Rs.Arrested at the Bandaranaike International Airport on 19th.
 
-ඔවුන් විසින් රැගෙන ආ ගමන් මලු තුළ විස්කි බෝතල් අසුරා ඇති පෙට්ටි වලින් එම බෝතල් ඉවත් කර මෙම ස්වර්ණාභරණ තොගය එම පෙට්ටි තුළ අසුරා  සගවා ගෙන පැමිණ තිබුණි .
+One of them is a 60 year old resident of Ambalangoda and the other is a 65 year old businessman from Bambalapitiya.
 
-...
+The two of them from Dubai to 08.30 am on 08/19 on the morning of Dubai to Emirates Airlines.Had been done.
+
+They had removed the bottles from boxes with bodies with whiskey bottles in the baggage they were brought to the boxes.
+
+The jewelery, cloves, and hands over the jewelery stock was enacted between 500 grams.
+
+Although the customs officers were engaged in a trade union action, the officers had arrived at the Katunayake Airport.
+
+◼️
 
 [Data](articles/1520240c.json)
+
+[Extended Data](ext_articles/1520240c.ext.json)
 
 ---
 
@@ -516,21 +550,31 @@ Following the incident, the Kenyan government has ordered an investigation into 
 
 ---
 
-### කථානායකවරයාට එරෙහි විශ්වාසභංග යෝජනාව විවාදයට තෙදිනක්
+### The no-confidence motion against Speaker is debate
 
 *2024-03-19 18:37:24* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකවරයාට-එරෙහි-විශ්වාසභංග-යෝජනාව-විවාදයට-තෙදිනක්/11-408708) · `si`
 
-22 වැනි සිකුරාදා ප.ව 12.30 සිට විපක්ෂය විසින් ගෙනෙනු ලබන යෝජනාව අනුව ‘වී අස්වැන්න අලෙවිකර ගැනීම ඇතුළුව ගොවීන් මුහුණ දෙන අනෙකුත් ගැටලු’ සම්බන්ධ සභාව කල්තැබීමේ විවාදය පැවැත්වීමටත් තීරණයක්
+The no-confidence motion debate against Speaker Mahinda Yapa Abeywardena is scheduled for March 19-21, with a 4:30 pm session on Thursday. Parliamentary Affairs will also be debated on the 21st. The Secretary General of Parliament, Kushani Rohandera, announced these decisions.
 
-අභාවප්‍රාප්ත හිටපු මන්ත්‍රීවරුන් වෙනුවෙන් ශෝක යෝජනා ඉදිරිපත් කිරීම සදහා එදින පෙ.ව 9.30 සිට ප.ව 12.30 කාලය වෙන් කෙරේ
+🟩
 
-අප්‍රේල් පළමු පාර්ලිමේන්තු සතියට අදාළ රැස්වීම් අප්‍රේල් 1 සහ 2 දෙදින පැවැත්වීමටත් තීරණයක්
+Friday on Friday 22:30 pm
 
-කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය සදහා ලබන 21 වැනි බ්‍රහස්පතින්දා දිනයත් වෙන් කිරීමට අද (19) කථානායකවරයාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය වූ බව පාර්ලිමේන්තුවේ මහ ලේකම් කුෂානි රෝහණදීර මහත්මිය පැවසුවාය.
+3:30 am to 12 am to 12 am to 12 am to 12 am to the latest MPs
+
+Matters pertaining to the first parliamentary week of April 1st and 2
+
+The Secretary General of Parliament Kushani Rohandera said that the Novereignment proposal against Speaker Mahinda Yapa Abeywardena has decided to separate the no-confidence motion on Thursday (19).
+
+The debate on the no-confidence motion was previously decided to debate on March 19 and 20, with a new decision, it will be held on March 19, 20 and 21 as a three-day debate. Thus, it has been decided to hold 4:30 pm on Thursday afternoon on the no-confidence motion.. The Hon. Speaker is to be presented to Parliament by Hon.. It has also been decided to debate Parliamentary Affairs on the 21st week.
+
+Meanwhile, the Secretary General said that the council adjourning debate on the 22nd to 4 pm on the 22nd to 4 pm on the 22nd to 4:00 pm on Farmers' Proposals.. Similarly, as previous decisions, the Hon.. Dr. PMB Cyril, Hon.
 
 ...
 
 [Data](articles/613583a2.json)
+
+[Extended Data](ext_articles/613583a2.ext.json)
 
 ---
 
@@ -2205,31 +2249,5 @@ US National Security Advisor Jag Sulivan yesterday said that Isa was killed in I
 [Data](articles/51aebef7.json)
 
 [Extended Data](ext_articles/51aebef7.ext.json)
-
----
-
-### A great relief from the government
-
-*2024-03-19 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194679) · `si`
-
-The government has approved a relief program to provide 10 kg of rice to low-income families at a cost of Rs. 2.74 million, in partnership with SMEs and medium-scale mills, to ensure nutritional sustenance.
-
-🟩
-
-Cabinet approval has been approved for a show of providing 10 kg of rice for low income families.
-
-The program is being implemented at a cost of Rs. 2.74 million, along with low income families identified through District Secretaries and Government Agents.
-
-Accordingly, the families have been issued to provide 10 kilograms of rice for two months.
-
-It has been decided to implement this program with the SME and medium and medium-scale mills.
-
-The program has been implemented to maintain the nutrition level of the low income people.
-
-◼️
-
-[Data](articles/1adba8f9.json)
-
-[Extended Data](ext_articles/1adba8f9.ext.json)
 
 ---

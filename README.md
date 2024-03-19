@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 09:52:07**
+As of **2024-03-19 10:03:04**
 
 ## Newspaper Stats
 
-*Scraped **13,731** Articles*
+*Scraped **13,737** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,86 @@ newsfirstlk | 363
 economynextcom | 724
 dailyftlk | 727
 islandlk | 760
-adalk | 1,180
-adaderanalk | 1,648
+adalk | 1,182
+adaderanalk | 1,649
 tamilmirrorlk | 1,668
 virakesarilk | 1,917
 dailymirrorlk | 2,096
-adaderanasinhalalk | 2,180
+adaderanasinhalalk | 2,183
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,731 (100.0%) of 13,731 articles have been extended.
+13,731 (100.0%) of 13,737 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### Special notice for schools yet to receive textbooks and uniform materials
+
+*2024-03-19 09:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98042/special-notice-for-schools-yet-to-receive-textbooks-and-uniform-materials) · `en`
+
+The Education Ministry has issued a special notice for all government schools that are yet to receive textbooks and uniform materials for the academic year 2024.
+
+Accordingly, the principals of such schools are instructed to inform the Education Ministry at the earliest possible via the following contact details:
+
+The Education Ministry says textbooks and uniform materials have already been handed over to all Divisional Education Offices across the island to be distributed to all schools.
+
+◼️
+
+[Data](articles/95b8b702.json)
+
+---
+
+### පැන් පහසවූ තබ්බෝවටම බිලිවූ හිමිනමක්
+
+*2024-03-19 09:44:36* · [`adalk`](https://www.ada.lk/breaking_news/පැන්-පහසවූ-තබ්බෝවටම-බිලිවූ-හිමිනමක්/11-408688) · `si`
+
+කරුවලගස්වැව පොලිස් වසමට අයත් තබ්බෝව ජලාශයේ දිය නෑමට ගිය බව කියන ශීෂ්‍ය භික්ෂූන්වහන්සේ නමක් 18 දින සවස දියේ ගිලී සිටියදී ගොඩට ගෙන රෝහල් ගතකරන විටත් අපවත් වී ඇති බව මූලික විමර්ශනවලදී අනාවරණයවී යැයි කරුවලගස්වැව පොලීසිය කියයි.
+
+අපවත්වී ඇත්තේ හිල්ඔය සංගානන්ද නමැති 29 හැවිරිදි කොග්ගල තලාතුඩුව විවේක සේනාසන ලිපිනය සඳහන් හිමි නමක් බවත් පොලීසිය කියයි.
+
+මෙම හිමිනම වනාතවිල්ලුව ප්‍රදේශයේ සිට තවත් භික්ෂූන්වහන්සේලා පිරිසක් සමග වෑන් රථයකින් තබ්බෝවට වැඩමකර ඇති බවත් කියයි.
+
+◼️
+
+[Data](articles/8edeadfe.json)
+
+---
+
+### කථානායකට එරෙහි විශ්වාසභංග විවාදය ඇරඹේ
+
+*2024-03-19 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194666) · `si`
+
+නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් මේ වනවිට පාර්ලිමේන්තු කටයුතු ආරම්භ කර තිබේ.
+
+අද (19)  කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය ආරම්භ වේ.
+
+අද පෙරවරු 9.30 සිට පස්වරු 5.30 දක්වා සහ හෙට (20) පෙරවරු 9.30 සිට පස්වරු 4.30 දක්වා විවාදය පැවැත්වීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/67b8139c.json)
+
+---
+
+### තවමත් පෙළපොත්, නිල ඇඳුම් රෙදි ලැබුණේ නැද්ද ? වහාම දැනුම් දෙන්න
+
+*2024-03-19 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194665) · `si`
+
+රජයේ සියලු‍ පාසල් සිසුන් වෙත 2024 වර්ෂය‍ට අදාළව පෙළ පොත් සහ නිල ඇඳුම් රෙදි ලබාදීම පිණිස අධ්‍යාපන අමාත්‍යාංශය කටයුතු කර තිබේ.
+
+ඒ අනුව සියලු‍ පාසල් වෙත බෙදාහැරීම පිණිස පාසල් පෙළ පොත් සහ නිල ඇඳුම් රෙදි  දිවයිනේ සියලු‍ම කොට්ඨාස අධ්‍යාපන කාර්යාල ‍වෙත මේ වනවිටත් ලබා දී  අවසන් ව ඇති බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+
+මෙතෙක් පාසල් පෙළ පොත් සහ නිල ඇඳුම් රෙදි නොලද කිසියම්  පාසලක් වෙතොත් ඒ පිළිබඳ පහත දුරකථන / ෆැක්ස්/ ඊමේල් මඟින්  වහාම දැනුම් දෙන මෙන් අධ්‍යාපන අමාත්‍යාංශය අදාළ විදුහල්පතිවරුන් වෙත දන්වා සිටී.
+
+◼️
+
+[Data](articles/675101b1.json)
+
+---
 
 ### A house was completely burnt by a fire that spread inside Mannar
 
@@ -71,6 +135,44 @@ They alleged that the annual transfers in the Western Province had been done in 
 [Data](articles/db0f483d.json)
 
 [Extended Data](ext_articles/db0f483d.ext.json)
+
+---
+
+### වරදක් නොකරම පුංචි මල් කැකුළ සඳහටම නිහඬවෙයි
+
+*2024-03-19 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194664) · `si`
+
+විශ්වමඩු ඉලංගෝපුරම් ප්‍රදේශයේදී අනියම් සබඳතාවයකින් උපත ලැබූ දරුවෙකු ඝාතනය කිරීමේ චෝදනාව මත කාන්තාවක් අත්අඩංගුවට ගෙන තිබේ.
+
+මුලතිව් දිස්ත්‍රික්කයේ පුදුකුඩිරිප්පු පොලිස් වසමට අයත් විශ්වමඩු ඉලංගෝපුරම් ප්‍රදේශයේ පදිංචි කාන්තාවක් සිය සැමියාගෙන් වෙන්ව ජීවත් වෙමින් සිටියදී අනියම් සබඳතාවයක් හේතුවෙන් ගැබ්ගෙන ඇත.
+
+මෙම කාන්තාව මීට දින තුනකට පෙර දරුවෙකු ප්‍රසූත කර දරුවා ඝාතනය කර තිබේ.
+
+කාන්තාව කිළිනොච්චිය රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී සිද්ධිය පුදුකුඩිරිප්පු පොලීසියට දන්වා ඇති අතර පොලීසිය විසින් කාන්තාව අත්අඩංගුවට ගෙන වැඩිදුර පරීක්ෂණ පවත්වයි.
+
+අද (19) දින දරුවා මිහිදන් කළ ස්ථානයේ විනිසුරුවරයෙකු ඉදිරියේ පරීක්ෂණ කටයුතු සිදුකිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/82620f4c.json)
+
+---
+
+### විශ්‍රාම ගත් වනිඳු යළිත් ටෙස්ට් සංචිතයට
+
+*2024-03-19 09:04:37* · [`adalk`](https://www.ada.lk/sports/විශ්‍රාම-ගත්-වනිඳු-යළිත්-ටෙස්ට්-සංචිතයට/9-408686) · `si`
+
+ටෙස්ට් ක්‍රිකට් ක්‍රීඩාවෙන් සමුගෙන සිටින දඟ පන්දු යවන තුන් ඉදිරියව් ක්‍රීඩක වනිඳු හසරංග නැවතත් ටෙස්ට් සංචිතයට කැඳවා තිබේ. ඒ බංග්ලාදේශය සමගින් පැවැත්විමට නියමිත තරග දෙකකින් යුත් ටෙස්ට් සංචිතයට ඔහු ඇතුළත් කරමිනි.
+
+පළමු තරගය ලබන 22 වැනිදා ආරම්භ විමට නියමිතය. මෙම ටෙස්ට් සංචිතය සඳහා ඇන්ජලෝ මැතිව්ස්, දිනේෂ් චන්දිමාල් මෙන්ම රමේෂ් මෙන්ඩිස්ද කැඳවා තිබේ.
+
+වනිඳු හසරංග තුන් ඉරියව් ක්‍රීඩකයෙක් ලෙස ප්‍රකට අතර ඔහු පසුගිය වසරේ ටෙස්ට් පිටියෙන් විශ්‍රාම ගන්නා බව සඳහන් කළේය. ඒ වන විට ඔහු තරග හතරකදී ලකුණු 196ක් රැස්කිරීමට සමත්ව තිබුණ අතර කඩුලු 4ක්ද බිඳ හෙලා තිබුණි.
+
+ශ්‍රී ලංකා ටෙස්ට් සංචිතය: ධනංජය ද සිල්වා (නායක), කුසල් මෙන්ඩිස් (උප නායක), දිමුත් කරුණාරත්න, නිෂාන් මධුෂ්ක, ඇන්ජලෝ මැතිව්ස්, දිනේෂ් චන්දිමාල්, සදීර සමරවික්‍රම, කමිඳු මෙන්ඩිස්, ළහිරු උදාර, වනිඳු හසරංග, ප්‍රභාත් ජයසූරිය, රමේෂ් මෙන්ඩිස්, නිෂාන් පීරිස්, කසුන් රාජිත, විශ්ව ප්‍රනාන්දු, ළහිරු කුමාර සහ චාමික ගුණසේකර
+
+◼️
+
+[Data](articles/6ec57272.json)
 
 ---
 
@@ -2039,139 +2141,5 @@ They also requested that people to drink natural beverages, adding some salt to 
 [Data](articles/b728c2b0.json)
 
 [Extended Data](ext_articles/b728c2b0.ext.json)
-
----
-
-### Gotabaya Rajapaksa’s Insidious. Book  on the Alleged Conspiracy to Oust him  is drenched in inflammatory racism and religious hatred. It qualifies as incitement.
-
-*2024-03-18 18:25:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83785) · `en`
-
-“…The point I made about the Aragalaya being fundamentally, an anti-Sinhalese and anti-Buddhist enterprise from the beginning to the end”
-
-Dr. Colvin R. de Silva’s position on the executive presidency was slightly more nuanced than the flat denunciation by Dr. N.M. Perera. While criticising the 1978 Constitution, he took pains in a contribution to the Lanka Guardian magazine to emphasise that the Jayewardene presidential system, though deriving from the Gaullist model of France, has significant accretions and distortions which brought it more into line with those of Francophone Africa.
-
-Colvin pointed explicitly to the tyrant Jean-Bedel Bokassa of the Central African Republic. He quipped that the main danger of the over-concentration of power in the 1978 Jayewardene Constitution is that “someday we may not only have to suffer a bad president but also a mad president”.
-
-...
-
-[Data](articles/fee319d3.json)
-
-[Extended Data](ext_articles/fee319d3.ext.json)
-
----
-
-### Two persons have been sent to investigate the arrested persons in the Vidunarimalai issue;The report will be available on Thursday- the Human Rights Commission
-
-*2024-03-18 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179068) · `ta`
-
-The Sri Lanka Human Rights Commission has sent two officials to Vavuniya to investigate the arrests at the Adivasivan Temple in Vettu Nirimalai. TNA's S. Gajendran claims no officials visited the Vavuniya office or headquarters. Commissioner R. Danaraj confirms two officers were dispatched for inquiries, with a report expected soon.
-
-🟩
-
-The Sri Lanka Human Rights Commission has said that 2 officials have already been sent to Vavuniya to investigate the arrests of the Adivasivan Temple in Vettu Nirimalai.
-
-The police were disrupted by the pilgrims who were engaged in pooja on the 8th of last month at the Adilingeswarar Temple in Vettu Nirimalai, Vavuniya district.. The number was arrested by the number of policemen, including the temple.. The struggle was abandoned following a guarantee that all five of them were involved in a hunger strike and all measures would be taken to release them.
-
-However, the Tamil National Alliance (TNA) parliamentarian S. Gajendran alleged that no commission officials had come to the Vavuniya Regional Office of the Human Rights Commission and subsequently at the headquarters of the Human Rights Commission of Sri Lanka.
-
-...
-
-[Data](articles/10a67084.json)
-
-[Extended Data](ext_articles/10a67084.ext.json)
-
----
-
-### Tanzid, Rishad power Bangladesh to series win against Sri Lanka
-
-*2024-03-18 18:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tanzid-Rishad-power-Bangladesh-to-series-win-against-Sri-Lanka/108-279081) · `en`
-
-Chittagong, Mar. 18 (AFP) - Rishad Hossain played an attacking innings of 48 after substitute Tanzid Hasan Tamim hit 84 off 81 balls Monday, steering Bangladesh to a four-wicket win and a 2-1 ODI series victory over Sri Lanka.
-
-Set a modest target after Janith Liyanage's unbeaten 101 guided Sri Lanka to 235 all out in 50 overs, Bangladesh raced to 237-6 in 40.2 overs.
-
-The hosts were in danger when Wanindu Hasaranga forced Mehdiy Hasan Miraz, the last recognised batsman, to give a catch to Pramod Madushan for 25, with Bangladesh still 58 runs away from victory.
-
-But Rishad dispatched the first ball he faced over midwicket for six and did not look back.
-
-He hit four sixes and five fours in his whirlwind innings before Mushfiqur Rahim, 37 not out, finished the game with a boundary off Maheesh Theekshana.
-
-Tanzid led the initial charge, replacing Soumya Sarkar in the second innings as a concussion sub, despite Lahiru Kumara wreaking havoc with 4-48.
-
-...
-
-[Data](articles/89a7ae15.json)
-
-[Extended Data](ext_articles/89a7ae15.ext.json)
-
----
-
-### How rising dengue burden is costing India and Sri Lanka billions
-
-*2024-03-18 18:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98032/how-rising-dengue-burden-is-costing-india-and-sri-lanka-billions) · `en`
-
-The increasing incidence of dengue in India and Sri Lanka is not just a significant health concern but also exacts a hefty economic toll on these South Asian countries, say experts who estimate the annual losses to be in billions.
-
-Researchers highlight the dire economic consequences of this affliction caused by a virus spread through the bite of an infected Aedes mosquito species, reinforcing the benefits that the region would realise if the neglected tropical disease was substantially controlled.
-
-As the sweltering heat swept across Colombo in June, Seetha, a 60-year-old daily wager found herself in the grips of dengue hemorrhagic fever, a severe and sometimes fatal form of the disease.
-
-“I had a fever, body aches, and a relentless headache for four days before being admitted to the hospital. I was catheterised and not even allowed to go to the toilet,” she told PTI.
-
-...
-
-[Data](articles/2c2c864e.json)
-
-[Extended Data](ext_articles/2c2c864e.ext.json)
-
----
-
-### Engineering Technicity Practical Test From tomorrow
-
-*2024-03-18 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194646) · `si`
-
-Engineering Technology Advanced Level practical tests start tomorrow, held at 41 centers until 29th, with fixed dates and locations.
-
-🟩
-
-The Department of Examinations has been declared the practical tests of engineering technology of Advanced Level Examination.
-
-Accordingly, the following practical tests will be held in 41 selected centers in the country until the 29th of this month.
-
-The Examination Department says the date and place of the candidate's ticket.
-
-The relevant date and place will not be changed on any reason.
-
-◼️
-
-[Data](articles/49072656.json)
-
-[Extended Data](ext_articles/49072656.ext.json)
-
----
-
-### A wreath of flowers to Jaler's house
-
-*2024-03-18 17:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194645) · `si`
-
-A wreath and wax were left at Jalarler's house in Galle Prison, where he worked. He was found with mobile phones and tobacco outside the prison. A detainee argued with him, and an investigation is ongoing. Security measures have been enhanced for Jalarler.
-
-🟩
-
-The prison media spokesman said that a wreath and wax in front of the house of the Jiler's house in Galle Prison has been kept.
-
-Prison spokesman Gamini B Dissanayake said that the Jalarler was an official working in the Galle Prison.
-
-The officer was found in a few mobile phones and tobacco, which had been found outside the Galle Prison and tobacco.
-
-A detainee has had an argument with the officer and is conducting an investigation.
-
-Dissanayake added that steps have been taken regarding the security of the officer who faced the incident.
-
-◼️
-
-[Data](articles/14848f2b.json)
-
-[Extended Data](ext_articles/14848f2b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 19:18:11**
+As of **2024-03-19 19:33:19**
 
 ## Newspaper Stats
 
-*Scraped **13,892** Articles*
+*Scraped **13,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ dailyftlk | 727
 economynextcom | 735
 islandlk | 761
 adalk | 1,201
-adaderanalk | 1,669
+adaderanalk | 1,670
 tamilmirrorlk | 1,689
 virakesarilk | 1,942
 dailymirrorlk | 2,121
-adaderanasinhalalk | 2,212
+adaderanasinhalalk | 2,213
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,891 (100.0%) of 13,892 articles have been extended.
+13,892 (100.0%) of 13,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### Gold jewellery worth over Rs. 100 million seized at BIA
+
+*2024-03-19 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98060/gold-jewellery-worth-over-rs-100-million-seized-at-bia) · `en`
+
+Sri Lanka Customs officers have arrested two airline passengers who attempted to smuggle a stock of gold jewellery worth over Rs. 100 million into the country at the Bandaranaike International Airport (BIA) in Katunayake.
+
+The two passengers are said to be local businessmen who had arrived onboard an Emirates Airlines flight from Dubai at 8.30 a.m. this morning (19).
+
+They had been arrested by customs officers at the airport while attempting to exit through the Green Channel. Officers had searched their luggage and discovered the gold jewellery weighing around 5.5 kilograms, concealed inside boxes of whiskey bottles after removing the bottles.
+
+One of the suspects is a 60-year-old resident of Ambalangoda while the other is a 65-year-old resident of Bambalapitiya.
+
+The confiscated gold jewellery includes chains, necklaces, bangles and earrings while they are estimated to be worth over Rs. 100 million in total.
+
+◼️
+
+[Data](articles/ba777b08.json)
+
+---
+
+### රේගු ත්‍යාග අරමුදලේ ගැටලුව උත්සන්න වෙයි
+
+*2024-03-19 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194698) · `si`
+
+රේගු නිලධාරීන් සහ මුදල් අමාත්‍යංශය අතර අද (19) පස්වරුවේ පැවති සාකච්ඡාව එකඟතාවකින් තොරව අවසන් වීම හේතුවෙන් රේගු සේවකයින්ගේ වෘත්තිය ක්‍රියාමාර්ගය තවදුරටත් ක්‍රියාත්මක කිරීමට ඔවුන් තීරණය කර තිබේ.
+
+එම වෘත්තීය ක්‍රියාමාර්ගය හේතුවෙන් මේ වනවිට බහාලුම් 4,500ක් පමණ කොළඹ වරායේ සිරවී ඇති බව වාර්තාවෙයි.
+
+මෙම තත්ත්වය ඉදිරියටත් පැවතියහොත් අලුත් අවුරුදු සමයේ ඇතැම් භාණ්ඩවල හිඟයක් නිර්මාණය විය හැකි බවට වෘත්තිය ක්‍රියාමාර්ගයේ නිරත රේගු සංගම් අනතුරු අඟවයි.
+
+රේගු සේවකයන්ට අතිකාල සහ දිරිදීමනා ගෙවීම් සිදු කෙරෙන රේගු ත්‍යාග අරමුදල, මුදල් අමාත්‍යංශය භාරයට ගෙන ඇති බවත්, එය අසාධාරණ බවත් පවසමින් රේගු නිලධාරීන්, රේගු අධිකාරීවරුන් සහ රේගු මාණ්ඩලික නිලධාරීන් අතිකාල සේවයෙන් ඉවත්වීමේ වෘත්තිය ක්‍රියාමාර්ගය ආරම්භ කළේය.
+
+ඊට අමතරව සිය වෘත්තිය ක්‍රියාමාර්ගය දැඩි කරමින්, රේගු සේවකයින් අකුරට වැඩ කිරීමද අද ආරම්භ කළේය.
+
+...
+
+[Data](articles/e4120fc2.json)
+
+---
 
 ### Cabinet approval to draft laws to amend Sri Lanka’s electoral system
 
@@ -2006,21 +2046,27 @@ However, instead of this usual cross, the 515th Brigade was set up in front of t
 
 ---
 
-### උත්සව සමයට තවත් බිත්තර මිලියන 42ක් ආනයනය කරයි
+### 42 million eggs imports for festive season
 
 *2024-03-19 12:48:03* · [`adalk`](https://www.ada.lk/breaking_news/උත්සව-සමයට-තවත්-බිත්තර-මිලියන-42ක්-ආනයනය-කරයි/11-408698) · `si`
 
-උත්සව සමයේ අවශ්‍යතා සදහා තවත් බිත්තර මිලියන 42ක් පමණ ආනයනය කිරීමට කැබිනට් අනුමැතිය ලැබි තිබේ.
+The Cabinet approved importing 42 million eggs for the festive season, aiming to maintain egg prices. Currently, 18 million eggs have been imported, with a target to import 60 million by April 30.
 
-දේශීය වෙළදපොළෙහි බිත්තර මිල ස්ථාවරව පවත්වාගෙන යාම සදහා අප්‍රේල් 30 වනදා මෙසේ බිත්තර ආනයනය කිරීමට ඊයේ (18) පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී අනුමැතිය ලබාදී ඇත.
+🟩
 
-මේ වන විට බිත්තර මිලියන 18ක් පමණ ආනයනය කර ඇති අතර අප්‍රේල් 30 අවසන් වන විට බිත්තර මිලියන 60ක් ආනයනය කිරීමට මේ අනුව අවස්ථාව හිමිව තිබේ.
+Cabinet approved the importation of about 42 million eggs for the interests of the festive season.
 
-බිත්තර ආනයනය කිරීම සදහා සත්ත්ව නිෂ්පාදන හා සෞඛ්‍ය දෙපාර්තමේන්තුව විසින් නිර්දේශිත ඉන්දීය ආයතන වෙතින් මිල ගණන් කැදවා ඇති අතර අමාත්‍ය මණ්ඩලය විසින් පත් කළ ස්ථාවර ප්‍රසම්පාදන කමිටුවේ නිර්දේශය පිරිදි අදාල ප්‍රසම්පාදනයන් ප්‍රදානය කිරීම සදහා මුදල් ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍ය වශයෙන් ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාවට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිවිය.
+The Cabinet Meeting of the Cabinet Meeting of the local market was approved by the Cabinet Meeting held yesterday (18) to maintain the prices of eggs in the local market.
+
+At present, about 18 million eggs have been imported and the end of April 30 is the opportunity to import 60 million eggs.
+
+The proposal presented by the Cabinet of the Standing Procurement Committee appointed by the Cabbilization of the Cabbilures of the Cabbilization of the Cabinet of the Cabinet of the Cabinet has been approved by the Cabinet of Ministers.
 
 ◼️
 
 [Data](articles/ab84b5ca.json)
+
+[Extended Data](ext_articles/ab84b5ca.ext.json)
 
 ---
 
@@ -2221,57 +2267,5 @@ It was earlier scheduled to have a two-day debate and take up the vote tomorrow.
 [Data](articles/eb77a283.json)
 
 [Extended Data](ext_articles/eb77a283.ext.json)
-
----
-
-### Israel Gaza: US reports death of senior Hamas military leader
-
-*2024-03-19 12:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Israel-Gaza-US-reports-death-of-senior-Hamas-military-leader/108-279153) · `en`
-
-New York, March 19 (BBC) -  Hamas leader Marwan Issa died in an Israeli air strike, White House official Jake Sullivan has said.
-
-As deputy military commander, Mr Issa would be Hamas's most senior leader to die since the war began on 7 October.
-
-The Palestinian group, which controls Gaza, has not officially commented on reports of his death.
-
-US Secretary of State Antony Blinken will travel to the Middle East this week on his sixth visit to the region since the conflict in Gaza erupted.
-
-He will hold meetings in Saudi Arabia and Egypt to discuss international efforts to reach a ceasefire agreement that secures the release of all remaining hostages.
-
-Negotiations have been continuing this week in Qatar despite Israel announcing plans to move more than a million people from the city of Rafah before launching an offensive.
-
-In their first conversation in a month, US President Joe Biden told Israeli Prime Minister Benjamin Netanyahu that this would be a "mistake".
-
-...
-
-[Data](articles/addea1a6.json)
-
-[Extended Data](ext_articles/addea1a6.ext.json)
-
----
-
-### Senior Hamas military leader killed in Israeli air strike - US reports
-
-*2024-03-19 11:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98048/senior-hamas-military-leader-killed-in-israeli-air-strike-us-reports) · `en`
-
-Hamas leader Marwan Issa died in an Israeli air strike, White House official Jake Sullivan has said.
-
-As deputy military commander, Mr Issa would be Hamas’s most senior leader to die since the war began on 7 October.
-
-The Palestinian group, which controls Gaza, has not officially commented on reports of his death.
-
-US Secretary of State Antony Blinken will travel to the Middle East this week on his sixth visit to the region since the conflict in Gaza erupted.
-
-He will hold meetings in Saudi Arabia and Egypt to discuss international efforts to reach a ceasefire agreement that secures the release of all remaining hostages.
-
-Negotiations have been continuing this week in Qatar despite Israel announcing plans to move more than a million people from the city of Rafah before launching an offensive.
-
-In their first conversation in a month, US President Joe Biden told Israeli Prime Minister Benjamin Netanyahu that this would be a “mistake”.
-
-...
-
-[Data](articles/f9e2eb27.json)
-
-[Extended Data](ext_articles/f9e2eb27.ext.json)
 
 ---

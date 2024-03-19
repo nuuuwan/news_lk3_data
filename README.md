@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 07:16:23**
+As of **2024-03-19 07:31:49**
 
 ## Newspaper Stats
 
-*Scraped **13,712** Articles*
+*Scraped **13,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,81 @@ adaderanalk | 1,645
 tamilmirrorlk | 1,665
 virakesarilk | 1,916
 dailymirrorlk | 2,094
-adaderanasinhalalk | 2,174
+adaderanasinhalalk | 2,177
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,706 (100.0%) of 13,712 articles have been extended.
+13,711 (100.0%) of 13,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### පළමුව ජනාධිපතිවරණයට සූදානම් වන ලෙස ජනපති කැබිනෙට්ටුවට දන්වයි
+
+*2024-03-19 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194660) · `si`
+
+පළමුව ජනාධිපතිවරණය සඳහා සූදානම් වන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කැබිනට් මණ්ඩලයට දැනුම් දී තිබේ.
+
+ඊයේ (18) පස්වරුවේ කැබිනට් මණ්ඩල රැස්වීම පැවති අතර එහිදී ජනාධිපතිවරයා මේ සම්බන්ධයෙන් දැනුම්වත් කළ බව වාර්තා වේ.
+
+දැනට පවතින සංවර්ධන කටයුතු ඇතුළු ආණ්ඩුවේ කාර්යයන් හැකි ඉක්මනින් සිදුකර අවසන් කර ජනාධිපතිවරණය සඳහා සූදානම් වන ලෙස ජනාධිපතිවරයා කැබිනට් මණ්ඩලයේ දී ප්‍රකාශ කර තිබේ.
+
+මේ අතර දෙමළ ඇතුළු භාෂා ත්‍රිත්වයක් කතා කළ හැකි අයෙකු ජනාධිපති අපේක්ෂකයා ලෙස ඉදිරිපත් කළ යුතු බව දෙමළ ජාතික සන්ධානයේ පාර්ලිමේන්තු මන්ත්‍රී සී.වී විග්නේෂ්වරම් මහතා පැවසුවේය.
+
+ජනාධිපතිවරයාට ජනාධිපතිවරණය කල්දැමීමට ව්‍යවස්ථාවෙන් හැකියාවක් නොමැති බව පාර්ලිමේන්තු මන්ත්‍රී නාලක ගොඩහේවා මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/9abba627.json)
+
+---
+
+### කථානායකට එරෙහි විශ්වාසභංගය පිළිබඳ විවාදය අද
+
+*2024-03-19 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194659) · `si`
+
+කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය අද (19) ආරම්භ වේ.
+
+ඒ අනුව අද පෙරවරු 9.30 සිට පස්වරු 5.30 දක්වා සහ හෙට (20) පෙරවරු 9.30 සිට පස්වරු 4.30 දක්වා විවාදය පැවැත්වීමට නියමිත බව පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+විශ්වාසභංග යෝජනාවට අදාළ ඡන්ද විමසීම හෙට පස්වරු 4.30ට පමණ පැවැත්වීමට නියමිතය.
+
+මේ අතර විශ්වාසභංග යෝජනාව දේශපාලනික අරමුණකින් ඉදිරිපත් නොකළ බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී තිස්ස අත්නායක මහතා සඳහන් කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂය විශ්වාසභංග යෝජනාවට සහයෝගය පළකරන බව එහි වැඩබලන මහලේකම් පාර්ලිමේන්තු මන්ත්‍රී දුෂ්මන්ත මිත්‍රපාල මහතා පැවසුවේය.
+
+◼️
+
+[Data](articles/dedf517d.json)
+
+---
+
+### අධිවේගයේ තවත් මාරක අනතුරක්
+
+*2024-03-19 06:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194658) · `si`
+
+දක්ෂණ අධිවේගී මාර්ගයේ සිදුවූ අනතුරකින් 21 හැවිරිදි තරුණයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+අද (19) අලුයම එම අනතුර සිදුව තිබුණේ දක්ෂිණ අධිවේගී මාර්ගයේ කිලෝමීටර් 45.2R හා 45.3R කණු අතරදීය.
+
+මත්තල දෙස සිට කොට්ටාව දෙසට ධාවනය වූ වෑන් රථයක් එම දිශාවටම ඉදිරියෙන් ධාවනයවූ කන්ටේනර් රථයක පිටුපස ගැටී එම අනතුර සිදුව තිබිණි.
+
+අනතුරින් වෑන් රථයේ ගමන්කළ පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා නාගොඩ රෝහලට ඇතුළත් කිරීමේදී එක් තරුණයෙක් මියගොස් ඇත.
+
+එසේ මියගොස් ඇත්තේ, නාගොඩ, ගාල්ල ප්‍රදේශයේ පදිංචි 21 හැවිරිදි තරුණයෙකි.
+
+වෑන් රථයේ රියදුරුට නින්ද යාම හේතුවෙන් එම අනතුර සිදුව ඇති බව පොලීසිය සැක කරයි.
+
+සිද්ධිය සම්බන්ධයෙන් අධිවේගී මාර්ග සංචාරක පොලිස් කොට්ඨාසය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/b567e666.json)
+
+---
 
 ### Purple-faced leaf monkeys risk death with daring rooftop travels: Primatologist
 
@@ -141,6 +205,8 @@ This is the first time since the pandemic that the island nation has crossed the
 ...
 
 [Data](articles/89ac1225.json)
+
+[Extended Data](ext_articles/89ac1225.ext.json)
 
 ---
 
@@ -575,6 +641,8 @@ WCIC Strategy Consultant Tusitha Kumarakulasingam shared that many women were of
 ...
 
 [Data](articles/ecd7557a.json)
+
+[Extended Data](ext_articles/ecd7557a.ext.json)
 
 ---
 
@@ -2161,85 +2229,5 @@ The Criminal Investigations Department was arrested and produced before the cour
 [Data](articles/98627b33.json)
 
 [Extended Data](ext_articles/98627b33.ext.json)
-
----
-
-### Water cut in 'Ella' for two hours
-
-*2024-03-18 15:57:25* · [`adalk`](https://www.ada.lk/breaking_news/“ඇල්ල”-ට-වතුර-නැතිලු---පැය-දෙකකටවත්-වතුර-මදිලු/11-408680) · `si`
-
-"Ella water cut for 2 hours due to foreign tourists. Ella Pradeshiya Sabha charges 4,000 rupees for water supply."
-
-🟩
-
-The water supply station is embarrassed by the foreign tour and the staff of the train station as well as a four-day water supply.
-
-According to the Ella Pradeshiya Sabha, the Ella Pradeshiya Sabha is temporarily obtained from the Ella railway station that it is a four thousand rupees to the Ella railway station.
-
-◼️
-
-[Data](articles/78e14c02.json)
-
-[Extended Data](ext_articles/78e14c02.ext.json)
-
----
-
-### The American Attorney General's Department is watching Rajapakse about
-
-*2024-03-18 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194637) · `si`
-
-The US Attorney General's Department is investigating allegations of bribery by the Rajapakse Group, leading to a 5% drop in India's share prices and significant losses for the Avani Group, including a $1.4 billion decrease in assets.
-
-🟩
-
-The Rajapakse Group of India, who had received many charges from the American stock market broker, has been reported from a serious crisis in India due to a crisis in recent years.
-
-The report released now that the US Attorney General's Department is widely detected if the Rajapaksas use bribes in their transactions.
-
-With the report, India's share prices fell by 5% today (18).
-
-The share prices of the Vani Group recorded the lowest in two months.
-
-The number of companies belonging to the Avani Group has fallen this way.
-
-The binding value of the Avali Group has fallen along with this, especially the dollar bond values have fallen here.
-
-The US authorities are investigating whether companies in the Avilian Group uses bribes to obtain India's energy projects.
-
-The 17th in the Forbe Retirement list The asset was fell $ 1.4 billion in today's day.
-
-◼️
-
-[Data](articles/f9be1399.json)
-
-[Extended Data](ext_articles/f9be1399.ext.json)
-
----
-
-### Gaza ceasefire: Qatar Prime Minister, Mossad leader talks
-
-*2024-03-18 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/179048) · `ta`
-
-Qatar's PM, Mossad leader, and Egyptian officials discuss Gaza ceasefire. Hamas proposed a 6-week ceasefire, rejected by Israel. Plan includes releasing 42 hostages and Israel releasing 20-50 Palestinian prisoners per hostage. Hamas demands Israeli withdrawal from Gaza and daily delivery of 500 humanitarian aid items. Israel refuses withdrawal. Netanyahu says Hamas's ideas are realistic, but Israel will send representatives for further talks.
-
-🟩
-
-The Qatar Prime Minister, the head of the Israeli intelligence agency, Mossaat, and the Egyptian officials are expected to take place today over the Gaza ceasefire.
-
-Qatar Prime Minister Mohammad bin Abdulrahman al -Thani, Mossad leader David Barnia and Egyptian officials today told AVP that he was expected to be expected in Qatar's capital, Doha.
-
-Hamas presented the mediators Egypt and Qatar last Friday to the plan to establish a 6 -week ceasefire in Gaza. However, Israel rejected it.
-
-According to the scheme, the ceasefire will be held for 42 days. Hamas will release 42 hostages at that time.
-
-Israel has been asked to release 20 to 50 Palestinian prisoners for each hostage.
-
-On September 7, the Hamas movement was carried out in Gaza as a hostage of about 250 people from Israel's southern part.. Israel believes that about 130 of them have not been released from Gaza. Of these, 32 people who are supposed to have died.
-
-...
-
-[Data](articles/acb6b2c4.json)
-
-[Extended Data](ext_articles/acb6b2c4.ext.json)
 
 ---

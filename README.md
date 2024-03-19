@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 20:18:02**
+As of **2024-03-19 20:33:36**
 
 ## Newspaper Stats
 
-*Scraped **13,901** Articles*
+*Scraped **13,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adaderanalk | 1,671
 tamilmirrorlk | 1,689
 virakesarilk | 1,944
 dailymirrorlk | 2,121
-adaderanasinhalalk | 2,216
+adaderanasinhalalk | 2,217
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,900 (100.0%) of 13,901 articles have been extended.
+13,901 (100.0%) of 13,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### හොඳම රූපවාහිනී නිවේදකයා චතුර අල්විස්
+
+*2024-03-19 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194702) · `si`
+
+ස්ලිම් කැන්ටා ජනතා සම්මාන උළලේදී ජනතාවගේ රූපවාහිනී නිවේදකයා ලෙස ටී.වී. දෙරණ නාලිකාවේ චතුර අල්විස් සම්මාන ලැබීය.
+
+◼️
+
+[Data](articles/1b77beab.json)
+
+---
 
 ### Derailment near disrupts Coastal Line train operations
 
@@ -46,11 +58,17 @@ As a result, trains plying on the Coastal Line towards Galle, Matara and Beliatt
 
 [Data](articles/78ddf444.json)
 
+[Extended Data](ext_articles/78ddf444.ext.json)
+
 ---
 
 ### Rohitha Abeygunawardena's appointment
 
 *2024-03-19 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179164) · `ta`
+
+The government is appointing Rohitha Abeygunawardena as the Chairman of the Cobb Committee, despite opposition from MP Nalin Bandara. This decision is criticized for contradicting the appointment process, with Eran Wickremaratne's resignation from the Kop Committee highlighted. The government is urged to correct this mistake by removing Abeygunawardena from the Chairman post.
+
+🟩
 
 The government has taken up the process of appointing the Cobb Committee as the Chairman of the Cobb Committee and the Member of the ruling party.. United People's Power MP Nalin Bandara has said that Rohitha Abeygunawardena should be removed and given the post of leader to the opposition.
 
@@ -71,6 +89,10 @@ The government should correct the mistake. I urge the government to remove Rohit
 ### A train jumps derails
 
 *2024-03-19 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194701) · `si`
+
+A train traveling to Galle Matara derailed near Colombo Fort Railway Station, suspending its journey.
+
+🟩
 
 The train traveling to Galle Matara on the train is suspended.
 
@@ -309,6 +331,10 @@ The accident had taken place in Kandy to Horowpathana.
 ### Pharmaceuticals stop emergency purchases
 
 *2024-03-19 18:22:40* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-හදිසි-මිලදී-ගැනීම්-නවත්වයි/11-408706) · `si`
+
+The Ministry of Health has halted emergency drug purchases, focusing on improving healthcare and strengthening primary healthcare. A special committee is being formed to address substandard drug imports for cancer patients, emphasizing the removal of substandard medicines.
+
+🟩
 
 The medicinal purchases made by the Ministry of Health have been completely stopped by the tender procedure, but the Medicine Secretary of the Ministry of Health is assigned to the Drug Regulatory Authority.
 
@@ -2267,29 +2293,5 @@ Basil Rajapaksa claimed that even Namal had bought the book from a bookshop. The
 [Data](articles/fc09d3ae.json)
 
 [Extended Data](ext_articles/fc09d3ae.ext.json)
-
----
-
-### President receives 20 kilos of residents for 2.7 million families
-
-*2024-03-19 12:43:39* · [`adalk`](https://www.ada.lk/breaking_news/පවුල්-මිලියන-2-7ක්-වෙනුවෙන්-ජනපතිගෙන්-හාල්-කිලෝ-20ක්/11-408697) · `si`
-
-President approves Ranil Wickremesinghe's cabinet paper for Rs. 2.7 million families, aiming to support low-income earners, including Samurdhi beneficiaries, through District Secretaries. The project, implemented last year, aims to maintain nutrition levels.
-
-🟩
-
-Ranil Wickremesinghe has approved a cabinet paper to provide Rs.
-
-This program was also implemented in the early last year. The project was implemented covering low income earners, including Samurdhi beneficiaries.
-
-Accordingly, the project will be implemented covering low income families through the District Secretaries / Government owners, connecting Mollars / Government owners.
-
-The project is also the purpose of maintaining the nutrition level of the low income people.
-
-◼️
-
-[Data](articles/e7359ee4.json)
-
-[Extended Data](ext_articles/e7359ee4.ext.json)
 
 ---

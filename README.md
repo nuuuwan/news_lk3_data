@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 09:17:49**
+As of **2024-03-19 09:33:19**
 
 ## Newspaper Stats
 
-*Scraped **13,729** Articles*
+*Scraped **13,731** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 724
 dailyftlk | 727
 islandlk | 760
 adalk | 1,180
-adaderanalk | 1,647
+adaderanalk | 1,648
 tamilmirrorlk | 1,668
-virakesarilk | 1,916
+virakesarilk | 1,917
 dailymirrorlk | 2,096
 adaderanasinhalalk | 2,180
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 2,180
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,725 (100.0%) of 13,729 articles have been extended.
+13,729 (100.0%) of 13,731 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### மன்னாரில் பனங்காட்டுக்குள் பரவிய தீயினால் வீடு ஒன்று முற்றாக எரிந்து சாம்பல்
+
+*2024-03-19 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179086) · `ta`
+
+மன்னார் பொலிஸ் நிலையப் பகுதியில் காடு திடீரென தீப்பற்றி எரிந்தமையால் பரந்தளவு பனங்காடு சேதமடைந்ததுடன் ஒரு வீடும் முற்றாக தீயிற்கு இரையாகியுள்ளது.
+
+இச் சம்பவம் மன்னார் நகர் பிரதேச செயலகத்துக்கு உட்பட்ட பட்டித்தோட்டம் பகுதியில் திங்கள் கிழமை (18) மாலை நான்கு மணியளவில் இடம்பெற்றுள்ளது.
+
+திங்கட்கிழமை (18) மாலை மன்னார் பட்டித்தோட்டம் பகுதியில் பனங்காடு ஒரு பகுதியில் திடீரென தீப்பற்றி எரிந்ததும் சம்பவ இடத்துக்குக்கு விரைந்த பொது மக்கள், அருகிலிருந்த கடற்படையினர் மற்றும் மன்னார் நகர் பிரதேச செயலாளர் எம்.பிரதீபன் , மன்னார் அனர்த்த முகாமைத்துவ பணிப்பாளர் தீபன் , மன்னார் நகர சபை செயலாளர் ஆகியோர் தீ காட்டுக்குள்ளும் கிராமப் பகுதிக்குள்ளும் பரவாதிருக்க தீவிர முயற்சிகளை மேற்கொண்டனர்.
+
+மன்னார் நகர சபையின் தீயணைக்கும் படையினர் குறிப்பிட்ட நேரத்துக்குள் சம்பவ இடத்துக்கு வருகை தந்து செயற்பட்டமையால் தீ பெரும் சேதத்தை உருவாக்காதிருப்பதற்கான நடவடிக்கையில் செயல்பட்டனர் என தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b0ffe6a7.json)
+
+---
+
+### Annual transfers of health workers in Western Province temporarily halted
+
+*2024-03-19 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98041/annual-transfers-of-health-workers-in-western-province-temporarily-halted-) · `en`
+
+The annual transfers of health sector employees in the Western Provinces have been suspended by the Provincial Governor Air Vice Marshal Roshan Goonetileke.
+
+The decision to temporarily revoke the transfers was taken based on a directive given by the Urban Development and Housing Minister Prasanna Ranatunga who took into account the complaints by the hospital workers employed in the Western Province.
+
+They alleged that the annual transfers in the Western Province had been done in an irregular manner.
+
+◼️
+
+[Data](articles/db0f483d.json)
+
+---
 
 ### No-confidence motion against Speaker: Two-day parliamentary debate begins today
 
@@ -362,21 +396,27 @@ It is reported that others who were remanded along with Mr. Rambukwella were tra
 
 ---
 
-### ’அரசாங்கத்தின் வாக்குறுதிகள் நிறைவேற்றப்பட்டன’
+### The promises of the government were fulfilled
 
 *2024-03-19 02:24:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தின்-வாக்குறுதிகள்-நிறைவேற்றப்பட்டன/175-334848) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க உள்ளிட்ட அரசாங்கம் வழங்கிய வாக்குறுதிகளில் பெரும்பாலானவை தற்போது நிறைவேற்றப்பட்டுள்ளதாக மாகாண சபைகள், உள்ளூராட்சி மற்றும் சுற்றாடல் இராஜாங்க அமைச்சர் ஜானக வக்கும்புர தெரிவித்தார்.
+Janaka Wakumbura, State Minister for Local Government and Environment, announced that most government promises, including those made by President Ranil Wickremesinghe, have been fulfilled. This includes the construction of 162 bridges at a cost of Rs 16,000 million, with a part of these bridges to be handed over to the public before April 10, and all by August.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் ஜானக வக்கும்புர மேற்கண்டவாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க உள்ளிட்ட அரசாங்கம் வழங்கிய வாக்குறுதிகளில் பெரும்பாலானவற்றை நாங்கள் ஏற்கனவே நிறைவேற்றியுள்ளோம். 16,000 மில்லியன் செலவில் 162 பாலங்கள் நிர்மாணிக்கப்படும் என்று கூறினோம்.
+Minister of State for Local Government and Environment, Janaka Wakumbura said that most of the promises made by the government, including President Ranil Wickremesinghe, have now been fulfilled.
 
-அந்தப் பாலங்களில் ஒரு பகுதியை ஏப்ரல் 10 ஆம் திகதிக்கு முன்னதாக பொதுமக்களிடம் ஒப்படைக்க தயாராக உள்ளோம். இதன்படி 162 பாலங்களும் எதிர்வரும் ஓகஸ்ட் மாதத்திற்கு முன்னர் மக்களிடம் கையளிக்கப்படும் என்றார். (a)
+State Minister Janaka Wakumbura said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
+
+We have already fulfilled most of the government's promises made by President Ranil Wickremesinghe. We said 162 bridges will be constructed at a cost of Rs 16,000 million.
+
+We are ready to hand over a part of those bridges to the public before April 10. Accordingly, 162 bridges will be handed over to the people before the upcoming August. (A)
 
 ◼️
 
 [Data](articles/42cd8cb7.json)
+
+[Extended Data](ext_articles/42cd8cb7.ext.json)
 
 ---
 
@@ -438,19 +478,25 @@ He was arrested yesterday after being admitted to the Balangoda Hospital. (A)
 
 ---
 
-### හිරු එළියෙන් සිතුවම් මවන මඩකලපුවේ ශිවනේෂරාසා
+### Sivanesa, Batticaloa, painting at sunlight
 
 *2024-03-19 02:08:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clkmlx3we9xo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, හිරු එළියෙන් සිතුවම් මවන ඉන්දීය කලාකරුවකුගේ නිර්මාණ දැකීමෙන් මේ සඳහා තමන් තුළ පෙළඹවීමක් ඇති කළ බව ඔහු BBC සිංහල සේවයට පැවසුවේය.
+An Indian artist in Batticaloa, Sivanesa, paints sunlight designs, capturing the essence of the sun.
 
-හිරු එළියෙන් සිතුවම් මවන කලාකරුවෙකු ගැන අපිට මඩකලපුවෙන් අසන්නට ලැබිණි.
+🟩
 
-හිරු එළියෙන් සිතුවම් මවන ඉන්දීය කලාකරුවකුගේ නිර්මාණ දැකීමෙන් මේ සඳහා තමන් තුළ පෙළඹවීමක් ඇති කළ බව ඔහු BBC සිංහල සේවයට පැවසුවේය.
+He contains nothing here.Vite to see the creations of a Indian artist who paints the design of the sunlight, sunlight.
+
+We heard about the artist painting in the sunlight.
+
+He told the BBC Sinhala service that the creation of an Indian artist who paints the tables of the sunlight.
 
 ◼️
 
 [Data](articles/dc39ef02.json)
+
+[Extended Data](ext_articles/dc39ef02.ext.json)
 
 ---
 
@@ -1070,7 +1116,7 @@ Suzi then has to rush back to Switzerland, where she now resides, as she has to 
 
 Referring to her forthcoming two-week stay in Australia, she says it will be partying with all her Aussie friends, all the time!
 
-Southern Madagascar, where girls are sold into marriage before they are born
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
 
 ...
 
@@ -1552,21 +1598,31 @@ After the end of the match, Bangladesh player Mushfiqur Rahim had recently shown
 
 ---
 
-### වාර්තා අලුත් කළ ගොවියෝ ජනපති හමුවෙති
+### Renewal of reports meet President
 
 *2024-03-18 20:00:39* · [`adalk`](https://www.ada.lk/breaking_news/වාර්තා-අලුත්-කළ-ගොවියෝ-ජනපති-හමුවෙති/11-408685) · `si`
 
-කෘෂි අංශ නවීකරණ ව්‍යාපෘතිය යටතේ නව තාක්ෂණය උපයෝගී කර ගනිමින් වගා කළ සාර්ථක ගොවි මහතුන් දෙදෙනෙක් ජනපති හමුවෙයි
+President met with two successful farmers under an agricultural modernization project. Buddhika Sudharsha, a young farmer, and Mr. Bandula Munasinghe, who used a high-density plant, showcased their innovative farming methods. The President highlighted the government's efforts to revolutionize agriculture, including the Government Agriculture Navinna program.
 
-අක්කර භාගයක මිරිස් වගාවෙන් මාස නවයක් තුළදී රුපියල් මිලියන 12ක ආදායමක් ඉපැයූ අනුරාධපුර තිරප්පනේ පුලියන්කුලම ග්‍රාමයේ තරුණ ගොවි මහතෙකු වු බන්දුල මුණසිංහ මහතා සහ අක්කරයක කොමඩු වගාවෙන් මාස දෙකකින් රුපියල් මිලියන4ක ආදායමක් ඉපැයූ ගල්කුලම ප්‍රදේශයේ පදිංචි බුද්ධික සුදර්ශන තරුණ ගොවි මහතා අද (18) පස්වරුවේ ජනාධිපති කාර්යාලයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමු විය.
+🟩
 
-සිය අස්වැන්නෙන් කොටසක් රැගෙන මෙලෙස ජනාධිපතිවරයා හමුවූ මෙම තරුණ ගොවි මහතුන් තමන්ට සරුසාර අස්වැන්නක් ලබා ගැනීමට මඟ පෙන්වමින් රජයේ කෘෂිකර්ම නවීකරණ වැඩසටහන ක්‍රියාත්මක කිරීම පිළිබඳ ජනාධිපතිවරයා වෙත සිය ස්තූතිය පිරිනැමීය.
+Two successful farmer who cultivated new technology under the agricultural modernization project
 
-බන්දුල මුණසිංහ මහතා කෘෂිකර්ම අමාත්‍යාංශයේ කෘෂි නවීකරණ ව්‍යාපෘතිය විසින් හඳුන්වා දී තිබෙන අධි ඝනත්ව වගා ක්‍රමය භාවිතා කරමින් අක්කර භාගයක මෙම මිරිස් වගාව සිදු කර තිබේ.
+Buddhika Sudharsha Youth Farmer, a young farmer who earned revenue of Rs.Mr. Ranil Wickremesinghe met.
+
+The young farmers who met the President took part of their harvest and the President wrote to the President on the implementation of the Government Agriculture Navinna program.
+
+Mr. Bandula Munasinghe has cultivated half a acres using a high density plant introduced by the Ministry of Agriculture at the Ministry of Agriculture.
+
+Under the traditional method, half a acre, which can be cultivated by about 6,000 plants, has risen to 13,000 to 13,000 plants under this high density plant. Therefore, this new system was able to increase the harvest several times.
+
+Buddhika Sudarshana Farmati, a 39 year old father of two, is a 39 year old father of Buddhika area in Anuradhapura.
 
 ...
 
 [Data](articles/3f2be0af.json)
+
+[Extended Data](ext_articles/3f2be0af.ext.json)
 
 ---
 
@@ -1992,6 +2048,8 @@ Colvin pointed explicitly to the tyrant Jean-Bedel Bokassa of the Central Africa
 
 [Data](articles/fee319d3.json)
 
+[Extended Data](ext_articles/fee319d3.ext.json)
+
 ---
 
 ### Two persons have been sent to investigate the arrested persons in the Vidunarimalai issue;The report will be available on Thursday- the Human Rights Commission
@@ -2107,59 +2165,5 @@ Dissanayake added that steps have been taken regarding the security of the offic
 [Data](articles/14848f2b.json)
 
 [Extended Data](ext_articles/14848f2b.ext.json)
-
----
-
-### 18 water sources in risk
-
-*2024-03-18 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194644) · `si`
-
-18 water sources at risk due to dry weather. Water Supply and Drainage Board urges conservation. Labugama and Kalatuwa reservoirs can last two months. 16 water supply schemes will be provided water. Steps taken to supply water from Wadduwa, Eheliyagoda, and Radampampaya.
-
-🟩
-
-The Water Supply and Drainage Board says that 18 water sources are in danger with the excessive dry weather conditions.
-
-The Water Supply and Drainage Board Deputy General Manager Thavana Kaluarachchi expressed these views in a media briefing held today.
-
-As a result, the Water Supply and Drainage Board further urges the people to not consume water for non-essential activities in the future.
-
-The water level of Labugama and Kalatuwa reservoirs is sufficient for two months, and Deputy General Manager General Manager Tangea Kaluarachchi.
-
-"The passage of 16 water supply schemes will be provided with water.
-
-Water is provided with water for Beruwala, Aluthgama, Gamaumbala, Pussellawa, Urubokkala, Pussella, Urubokka, Buttala, Sooriyara.
-
-Meanwhile, the Water Supply and Drainage Board says that steps have been taken to supply water from the Wadduwa, Eheliyagoda and Radampampaya.
-
-◼️
-
-[Data](articles/86ca05e2.json)
-
-[Extended Data](ext_articles/86ca05e2.ext.json)
-
----
-
-### Sri Lanka owned UAE firm claims first Hummer EV conversion to right hard drive
-
-*2024-03-18 17:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-owned-uae-firm-claims-first-hummer-ev-conversion-to-right-hard-drive-155072/) · `en`
-
-ECONOMYNEXT – Global Conversions, a Sri Lanka owned company now based in the UAE says they carried out the first conversion of a Hummer EV SUV to right hand drive.
-
-Global Conversions, in an automobile re-engineering firm specializing in converting  left-hand drive US brands like GMC, Ford, Lincoln, Dodge, Chevrolet, Cadillac and US made Toyota and Nissan vehicles to right hand drive.
-
-The firm says it is the first time a Hummer EV SUV, was converted to right hand drive.
-
-Suresh Edirisinghe, Founder and Chairman of Global Conversions said it was the first time Hummer EV SUV was convereted to right hand drive.
-
-“This accomplishment showcases our dedication to pushing boundaries and delivering exceptional solutions to our customers,” he said in a statement.
-
-Global Conversions said the converted vehicle was tested and its functionality validated, “ensuring the highest safety and performance standards.”
-
-...
-
-[Data](articles/e1a78638.json)
-
-[Extended Data](ext_articles/e1a78638.ext.json)
 
 ---

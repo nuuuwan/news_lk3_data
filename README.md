@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 14:17:54**
+As of **2024-03-19 14:33:43**
 
 ## Newspaper Stats
 
-*Scraped **13,811** Articles*
+*Scraped **13,817** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,47 +16,107 @@ economynextcom | 726
 dailyftlk | 727
 islandlk | 760
 adalk | 1,192
-adaderanalk | 1,661
-tamilmirrorlk | 1,678
-virakesarilk | 1,924
+adaderanalk | 1,662
+tamilmirrorlk | 1,679
+virakesarilk | 1,927
 dailymirrorlk | 2,112
-adaderanasinhalalk | 2,198
+adaderanasinhalalk | 2,199
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,809 (100.0%) of 13,811 articles have been extended.
+13,811 (100.0%) of 13,817 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### කෝප් කමිටුවෙන් දයාසිරිත් ඉවත් වෙයි
+### Dayasiri Jayasekara also resigns as COPE member
+
+*2024-03-19 14:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98053/dayasiri-jayasekara-also-resigns-as-cope-member) · `en`
+
+MP Dayasiri Jayasekara has also stepped down as a member of the Committee on Public Enterprises (COPE).
+
+It is understood that Jayasekara has forwarded his letter of resignation to the Speaker of Parliament Mahinda Yapa Abeywardena.
+
+His resignation came a day after Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne resigned from his position as a COPE member.
+
+◼️
+
+[Data](articles/6e9439bf.json)
+
+---
+
+### බොර තෙල් ගැන රුසියාව තීරණයක් ගනී
+
+*2024-03-19 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194683) · `si`
+
+වෙළෙඳපොළ ආරංචිමාර්ග සඳහන් කර ඇත්තේ රුසියාව සිය බොර තෙල් සැපයුම ඉහළ නැංවීමට තීරණය කිරීම, ජෙට් ඉන්ධන සඳහා ඇති ඉල්ලුම අඩුවීම සහ අමෙරිකානු පොලි අනුපාත ගැන එරට මහ බැංකු තීරණයට දින කිහිපයකට පෙර වෙළෙඳපොළ කටයුතු මන්දගාමී වීම හේතුවෙන් එසේ බොර තෙල් මිල අඩුවී ඇති බවයි.
+
+ඒ අනුව බ්‍රෙන්ට් බොර තෙල් බැරලයක මිල ඩොලර් 86.74 දක්වාද වෙස්ට් ටෙක්සාස් (WTI) බොර තෙල් බැරලයක මිල ඩොලර් 82.03ක් ලෙස දැක්වුණි.
+
+ඊට හේතු වූයේ සෞදි අරාබිය සහ ඉරාකය බොර තෙල් සැපයුම අඩු කිරීම, චීනයේ සහ අමෙරිකාවේ ආර්ථිකය වර්ධනයේ සුබදායී දත්ත බව වෙළෙඳපොළ ආරංචි මාර්ග පැවසීය.
+
+විදෙස් මාධ්‍ය සඳහන් කළේ රුසියාව මාර්තු මාසයේ සිට සිය බොර තෙල් අපනයනය දිනකට බැරල් 200,000කින් වැඩි කිරීමට තීරණය කර ඇති බවයි.
+
+◼️
+
+[Data](articles/b31ec57b.json)
+
+---
+
+### Dayasiri too resigns from COPE committee
 
 *2024-03-19 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194682) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී සයාසිරි ජයසේකර මහතා ද කෝප් කමිටුවෙන් ඉල්ලා අස්වී තිබේ.
+Sayasiri Jayasekera resigns from COPE Committee, letter sent to Speaker.
 
-ඔහු තම ඉල්ලා අස්වීමේ ලිපිය කථානායකවරයාට යොමුකර ඇති බව වාර්තා වෙයි.
+🟩
+
+Parliamentarian Sayasiri Jayasekera has also resigned from the COPE Committee.
+
+The letter of resignation has been sent to the Speaker.
 
 ◼️
 
 [Data](articles/94c4e5d2.json)
 
+[Extended Data](ext_articles/94c4e5d2.ext.json)
+
 ---
 
-### ඩොලරයේ වාර්තාගත වෙනසක්
+### அவுஸ்ரேலிய பாதுகாப்பு அதிகாரிகள் குழு யாழ்.பல்கலைக்கு விஜயம்
+
+*2024-03-19 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179114) · `ta`
+
+அவுஸ்திரேலிய தேசிய பல்கலைக்கழகத்தின் தேசிய பாதுகாப்புக் கல்லூரி, அவுஸ்திரேலிய வெளியுறவு மற்றும் வாணிபத்துறை அதிகாரிகள் அடங்கிய குழு ஒன்று அண்மையில் யாழ்ப்பாணப் பல்கலைக் கழகத்துக்கு உத்தியோகபூர்வ விஜயமொன்றினை மேற்கொண்டது.
+
+இலங்கையில் அவுஸ்திரேலிய தேசிய பல்கலைக்கழகத்தின் தேசிய பாதுகாப்புக் கல்லூரி, அவுஸ்திரேலிய வெளியுறவு மற்றும் வாணிபத்துறை ஆகியன இணைந்து மேற்கொண்டுள்ள கடல்சார் வள மற்றும் கடலோரப் பாதுகாப்புத் தொடர்பான விழிப்புணர்வுத் திறன் மேம்பாட்டுச் செயற்றிட்டத்தின் தற்போதைய நிலைமை தொடர்பில் ஆராய்வதற்கும், அவுஸ்திரேலிய அரசின் உதவிகள் வழங்கப்படக்கூடிய இடங்களை அடையாளங்காணும் வகையிலும், கொழும்பிலுள்ள அவுஸ்ரேலிய உயர் ஸ்தானிகராலயத்தின் அரசியல் மற்றும் பொருளாதாரத்துக்கான முதல் செயலாளர் கலாநிதி போல் செக்கோலா தலைமையிலான குழுவினரே கடந்த வாரம் யாழ்ப்பாணப் பல்கலைக்கழகத்துக்கு விஜயம் செய்து துணைவேந்தர் பேராசிரியர் சி. சிறிசற்குணராஜா தலைமையிலான குழுவினரைச் சந்தித்துக் கலந்துரையாடினர்.
+
+...
+
+[Data](articles/9a560d8c.json)
+
+---
+
+### A record change in the dollar
 
 *2024-03-19 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194681) · `si`
 
-ශ්‍රී ලංකා මහ බැංකුවේ දත්ත අනුව අමෙරිකානු ඩොලරයේ ගැනුම් මිල අද (19) දිනයේදී රුපියල් 299.29ක් වශයෙන් සහ විකුණුම් මිල රුපියල් 308.90 වශයෙන් දැක්වුණි.
+The Central Bank of Sri Lanka has recorded a significant change in the dollar's value, causing it to fall less than Rs.
 
-ඒ අනුව 2023 ජූලි 05 වනදා ට පසුව ඩොලරයේ ගැනුම් මිල රුපියල් 300ට වඩා අඩුවී ඇත්තේ පළමු වරට ය.
+🟩
+
+The Central Bank of Sri Lanka has recorded Rs.
+
+Accordingly, the dollar has fallen less than Rs.
 
 ◼️
 
 [Data](articles/4964ab95.json)
+
+[Extended Data](ext_articles/4964ab95.ext.json)
 
 ---
 
@@ -126,6 +186,24 @@ Chandana, who was very high, was able to lead the national team at a short time.
 
 ---
 
+### பொது மக்கள் எங்கும் தீ வைக்க முனைந்தால் சுற்று சூழலையும் கவனத்தில் கொள்ள வேண்டும் - மன்னார் பிரதேச செயலாளர் பிரதீபன்
+
+*2024-03-19 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/179109) · `ta`
+
+மன்னாரில் தற்பொழுது மிகவும் கடும் வெப்பம் நிலவுவதால் பொதுமக்கள் தங்கள் வீட்டுக்கு அருகாமையிலோ அல்லது வேறு எங்காவது சுத்தப்படுத்தி தீ மூட்டும் போது  மிகவும் அவதானமாக செயற்பட வேண்டும் என  மன்னார் பிரதேச செயலாளர் எம்.பிரதீபன் வேண்டுகோள் விடுத்துள்ளார்.
+
+மன்னார் பட்டித்தோட்டம்  கிராமத்துக்கு அருகாமையிலுள்ள பனங்காடு பகுதியில் திங்கட்கிழமை (18) திடீரென தீப்பற்றி எரிந்தமையால் பனங்காட்டில் பெரும் பகுதி சேதங்களுக்கு உள்ளாகியதுடன் தீ பரவியதால் வீடொன்றும் சேதமடைந்துள்ளது.
+
+இத் தீ எவ்வாறு உருவாகியுள்ளது என்பது இன்னும் கண்டறியப்படாத நிலை காணப்படுகின்றபோதும் தற்பொழுது மன்னார் மாவட்டத்தில் மக்களை சுட்டெரிக்கக் கூடிய மிகவும் கடுமையான வெப்ப நிலை காணப்படுகின்றது.
+
+ஆகவே பொது மக்கள் தங்கள் வீட்டுக்கு அருகாமையில் அல்லது வேறு எங்கும் சுற்று சூழலை துப்பரவு செய்தபின் அவற்றை தீ மூட்டுவதில் ஈடுபடும்போது தற்பொழுது நிலவி வரும் கடும் வெப்பநிலையால் இலகுவாக தீ பரவும் அபாயமும் காணப்படுகின்றது.
+
+...
+
+[Data](articles/dfe64894.json)
+
+---
+
 ### Ministry to engage children in Olympiad competitions worldwide: Minister
 
 *2024-03-19 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ministry-to-engage-children-in-Olympiad-competitions-worldwide-Minister/108-279161) · `en`
@@ -143,6 +221,24 @@ The transformative change in education is expected to prepare children who leave
 [Data](articles/ce85b089.json)
 
 [Extended Data](ext_articles/ce85b089.ext.json)
+
+---
+
+### ஹமாஸின் 3 ஆவது உயர் தலைவர் பலி: வெள்ளை மாளிகை தெரிவிப்பு
+
+*2024-03-19 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179110) · `ta`
+
+ஹமாஸ் அமைப்பின் 3 ஆவது உயர் தலைவரான மர்வான் இஸா, கடந்தவாரம் இஸ்ரேலின் தாக்குதலால் கொல்லப்பட்டுள்ளார் என வெள்ளை மாளிகை நேற்று திங்கட்கிழமை (18) தெரிவித்துள்ளது.
+
+ஹமாஸின் இராணுவப் பிரிவான இஸ்ஸதீன் அல் கஸ்ஸாம் படையணியின் பிரதித் தலைவராக விளங்கியவர் மர்வான் இஸா.
+
+மார்ச் 9, 10 ஆம் திகதிகளில் இஸாவை இலக்குவைத்து காஸாவில் தாக்குதல் நட்ததப்பட்டதாக இஸ்ரேலிய இராணுவப் பேச்சாளர் ரியர் அட்மிரல் டேனியர் ஹகாரி கடந்த 11 ஆம் திகதி கூறினார்.
+
+இந்நிலையில், கடந்தவாரம் இஸ்ரேலின் தாக்குதலில் இஸா கொல்லப்பட்டுள்ளார் என அமெரிக்காவின் தேசிய பாதுகாப்பு ஆலோசகர் ஜக் சுலீவன் நேற்று தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/51aebef7.json)
 
 ---
 
@@ -1105,6 +1201,24 @@ Western purple -faced Langur is a species protected under Section 30 of the Plan
 [Data](articles/88726e59.json)
 
 [Extended Data](ext_articles/88726e59.ext.json)
+
+---
+
+### ”ஊதா நிற  முகக் குரங்குகள் அழியும் அபாயம்'”
+
+*2024-03-19 10:45:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊதா-நிற-முகக்-குரங்குகள்-அழியும்-அபாயம்/175-334871) · `ta`
+
+நகர சுற்றுப்புறங்களில் காடழிப்பு காரணமாக, ஊதா நிற முகம் கொண்ட இலைக் குரங்கு என்றும் அழைக்கப்படும் மேற்கத்திய ஊதா நிற  முகமுடைய லங்கர்கள் நாய்கள், மக்கள் மற்றும் வாகன விபத்துகளில் சிக்கிக்கொள்ளும் நிலையுள்ளதால் அவை உணவு தேடுகையில் , ஓய்வெடுக்கும் இடங்களில் பாதுகாப்புகளைப் பெற வேண்டிய கட்டாத்திற்கு தள்ளப்பட்டுள்ளன என ஒரு முதன்மையான மற்றும் சூழலியல் நிபுணர் கூறினார்.
+
+தலங்கம ஏரிக்கு அருகில் ஊதா நிற முகமுடைய மூன்று லங்கர்கள் மீது துப்பாக்கிச் சூடு நடத்தப்பட்டதாகவும், அதன் விளைவாக இரண்டு விலங்குகள் காயங்களுக்கு உள்ளாகியதாகவும் சமூக ஊடகங்களில் சமீபத்தில் வெளியான பதிவில் தெரியவந்துள்ளது.
+
+நிபுணர் பேராசிரியர் வொல்ப்கங் டிட்டஸ் டெய்லி மிரரிடம் பேசுகையில், ஊதா நிற முகமுடைய லங்கூர் மரங்களில் வாழக்கூடிய தன்மையுடையவை. என்றும், மரங்களை அகற்றுவதன் மூலம் அவற்றின் பாதைகள் தடைப்படும் போது மட்டுமே அவை தரைக்கு வரும் என்றும் கூறினார்.
+
+இந்த பின்னணியில்தான் நகர்ப்புறங்களில் உள்ள மக்கள் இப்போது ஊதா நிற முகமுள்ள லங்கர்களை ஒரு பாதிப்பு ஏற்படுத்தும் பூச்சியாக  உணர்கிறார்கள்.
+
+...
+
+[Data](articles/fa58c510.json)
 
 ---
 
@@ -2143,129 +2257,5 @@ The IMF team in all their pomp are again visiting Sri Lanka. Their tutelage cont
 [Data](articles/2509bce6.json)
 
 [Extended Data](ext_articles/2509bce6.ext.json)
-
----
-
-### Sri Lanka discussing governance, public finance laws with IMF mission
-
-*2024-03-19 04:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-discussing-governance-public-finance-laws-with-imf-mission-155082/) · `en`
-
-ECONOMYNEXT – Sri Lanka is discussing the implementation of legislation and improving governance with a visiting International Monetary Fund review mission, State Minister of Finance Shehan Semasinghe said.
-
-Sri Lanka has met key quantity targets as of December 2023, for the second IMF review but also has a series of laws to pass and actions stemming from a governance diagnostic report.
-
-“There has been a lot of discussion on improving governance and zero-tolerance of corruption,” Minister Semasinghe said.
-
-A Public Finance Management and banking legislation have also been discussed, he said.
-
-As par of the review that is submitted to the board, a new agreement revising the targets and benchmarks are also fashioned in the form of a staff level agreement.
-
-The new agreement may come at the mission or after further discussions or some actions are completed.
-
-...
-
-[Data](articles/9e8ae346.json)
-
-[Extended Data](ext_articles/9e8ae346.ext.json)
-
----
-
-### Western  purple-faced langurs see blue!
-
-*2024-03-19 04:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/Western-purple-faced-langurs-see-blue/131-279101) · `en`
-
-It is now recognised that the Western Purple-faced langur (S. v. nestor) has particularly poor prospects of long-term survival owed to habitat loss
-
-The purple-faced langur is a protected species under Section 30 of the Flora and Fauna Protection Ordinance (FFPO)
-
-Survival of this animal species is greatly threatened by air-riffles being freely available and encouragement coming from state officials to shoot them if there are considered as pests
-
-In some areas the langurs have learned to eat rice and other kitchen or garden produce
-
-...
-
-[Data](articles/d67f22fc.json)
-
-[Extended Data](ext_articles/d67f22fc.ext.json)
-
----
-
-### Scandal erupts over Keheliya given special transport privileges, CID launches probe
-
-*2024-03-19 02:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Scandal-erupts-over-Keheliya-given-special-transport-privileges-CID-launches-probe/108-279124) · `en`
-
-The Criminal Investigation Department (CID) has initiated investigations into an incident in which former Minister Keheliya Rambukwella who is in remand custody has been transported to court using a bus donated by UNICEF for the transportation of children of female inmates.
-
-The CID has received a complaint that the prison authorities have used this bus for the transportation of Mr. Rambukwella despite UNICEF stipulating that it should be used solely for the benefit of female inmates' children.
-
-It is reported that others who were remanded along with Mr. Rambukwella were transported using a prison bus. However, it is questioned why such a special privilege was accorded to Mr. Rambukwella.
-
-◼️
-
-[Data](articles/2e378678.json)
-
-[Extended Data](ext_articles/2e378678.ext.json)
-
----
-
-### The promises of the government were fulfilled
-
-*2024-03-19 02:24:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தின்-வாக்குறுதிகள்-நிறைவேற்றப்பட்டன/175-334848) · `ta`
-
-Janaka Wakumbura, State Minister for Local Government and Environment, announced that most government promises, including those made by President Ranil Wickremesinghe, have been fulfilled. This includes the construction of 162 bridges at a cost of Rs 16,000 million, with a part of these bridges to be handed over to the public before April 10, and all by August.
-
-🟩
-
-Minister of State for Local Government and Environment, Janaka Wakumbura said that most of the promises made by the government, including President Ranil Wickremesinghe, have now been fulfilled.
-
-State Minister Janaka Wakumbura said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
-
-We have already fulfilled most of the government's promises made by President Ranil Wickremesinghe. We said 162 bridges will be constructed at a cost of Rs 16,000 million.
-
-We are ready to hand over a part of those bridges to the public before April 10. Accordingly, 162 bridges will be handed over to the people before the upcoming August. (A)
-
-◼️
-
-[Data](articles/42cd8cb7.json)
-
-[Extended Data](ext_articles/42cd8cb7.ext.json)
-
----
-
-### The President met farmers
-
-*2024-03-19 02:19:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளை-சந்தித்தார்-ஜனாதிபதி/175-334847) · `ta`
-
-The President met farmers who benefited from the government's agricultural modernization program, including a Kalkulam farmer earning 4 million rupees in two months and a Puliyankulam farmer earning 12 million rupees in nine months from half an acre of chilli.
-
-🟩
-
-A young farmer from Kalkulam, who earned 4 million rupees in two months, was attended by a young farmer from Bandula Munasinghe, a young farmer from Puliyankulam, Puliyankulam village, who had earned 12 million rupees in nine months after cultivating half an acre of chilli.
-
-They also thanked the President for implementing the government's agricultural modernization program to get rich yields. (A)
-
-◼️
-
-[Data](articles/347dfc09.json)
-
-[Extended Data](ext_articles/347dfc09.ext.json)
-
----
-
-### Tourism hits half a million arrival milestone in under 3 months
-
-*2024-03-19 02:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourism-hits-half-a-million-arrival-milestone-in-under-3-months/108-279115) · `en`
-
-Sri Lanka’s tourist arrivals have soared past the 500,000 mark in just the third month of the year, with March alone crossing the 100,000 milestone, over the weekend.
-
-This surge reaffirms the industry’s strong momentum towards robust growth.
-
-This is the first time since the pandemic that the island nation has crossed the half a million mark in two and a half months. Last year, Sri Lanka crossed the milestone in the second week of May.
-
-...
-
-[Data](articles/89ac1225.json)
-
-[Extended Data](ext_articles/89ac1225.ext.json)
 
 ---

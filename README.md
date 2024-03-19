@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 21:33:24**
+As of **2024-03-19 21:52:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,914 (100.0%) of 13,915 articles have been extended.
+13,915 (100.0%) of 13,915 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -462,19 +462,25 @@ Accordingly, a Cabinet sub-committee was appointed to ask the views of all party
 
 ---
 
-### ලෝක බලවතෙකුට තවත් බලවතෙකුගෙන් සුභ පැතුම්
+### Congratulations from another power to a world power
 
 *2024-03-19 18:52:22* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-බලවතෙකුට-තවත්-බලවතෙකුගෙන්-සුභ-පැතුම්/11-408710) · `si`
 
-රුසියාවේ ජනාධිපති ධුරයට යළි තේරී පත් වූ ව්ලැදිමිර් පුටින් මහතාට චීන ජනාධිපති ෂී ජින් පිං මහතා සුබ පැතුම් පිරිනමයි. එම පණිවුඩය ඊයේ (18)  යොමුකෙරිණ.
+China's President Xi Jin Pin congratulates Russia's President Vladimir Putin on his re-election, expressing confidence in Russia's national development under Putin's leadership. China emphasizes optimizing bilateral relations for mutual benefit.
 
-රුසියානු ජනතාව මෑත වසරවල දී අභියෝග ජයගනිමින්, ජාතික සංවර්ධන මාවතේ ස්ථාවරව ඉදිරියට යමින් සිටින බව ෂී ජින් පිං මහතා කියා සිටී.  පුටින් මහතා රුසියානු ජනාධිපතිවරයා ලෙස යළි තේරී පත්වීමෙන් එරට ජනතාව ඔහුට දක්වන සහයෝගය මනාව පිළිබිඹු වෙයි. එසේම, පුටින් මහතාගේ නායකත්වය යටතේ රුසියාව ජාතික සංවර්ධනය අතින් සුවිසල් ජයග්‍රහණ අත්කර ගනු ඇති බවට ද ෂී ජින් පිං මහතා විශ්වාසය පළ කරයි.
+🟩
 
-චීන-රුසියානු සබඳතා වර්ධනය චීනය ප්‍රමුඛ අවධානයක් යොමුකරන කරුණකි. රුසියාව සමග සමීප සන්නිවේදනයක් පවත්වාගෙන යමින්, දෙරට ජනතාවට ප්‍රතිලාභ සැලසෙන නවයුගයක් උදෙසා ද්විපාර්ශ්වික සම්බන්ධතාව ප්‍රශස්ත ලෙස තර කිරීමට චීනය සූදානම් බව ද ෂී ජින් පිං මහතා තම පණිවුඩයෙන් කියාසිටී.
+Commerst Vladiyir Putin, who was elected to the Presidency of Russia, is congratulated by China President Xi Jin Pin. The message was referred to yesterday (18).
+
+The Russian people are prompting to win the challenges in recent years, overcoming the challenges and proceed to the national development path.Mr. Putin is re-elected as Russian president reflects his support for him. Sihi Jin Pin expresses confidence that Under the leadership of Mr. Putin, Russia will achieve national development achievements.
+
+China-Russian relationships is a priority focus. Shi Jin Pin said that China is ready to optimize the bilateral relationship for a new work for the people of both countries.
 
 ◼️
 
 [Data](articles/d97a39d9.json)
+
+[Extended Data](ext_articles/d97a39d9.ext.json)
 
 ---
 

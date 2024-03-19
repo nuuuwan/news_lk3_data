@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 16:33:22**
+As of **2024-03-19 16:48:52**
 
 ## Newspaper Stats
 
-*Scraped **13,851** Articles*
+*Scraped **13,857** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,121 @@ islandlk | 760
 adalk | 1,195
 adaderanalk | 1,665
 tamilmirrorlk | 1,682
-virakesarilk | 1,934
-dailymirrorlk | 2,117
-adaderanasinhalalk | 2,204
+virakesarilk | 1,936
+dailymirrorlk | 2,118
+adaderanasinhalalk | 2,207
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,850 (100.0%) of 13,851 articles have been extended.
+13,851 (100.0%) of 13,857 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### யாழ். பல்கலை முன்றலில் போராட்டம்
+
+*2024-03-19 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179137) · `ta`
+
+யாழ்ப்பாணம் பல்கலைக்கழக முன்றலில் இன்று செவ்வாய்க்கிழமை (19) பல்கலைக்கழக ஊழியர் சங்கத்தினால் கவனயீர்ப்பு போராட்டம் முன்னெடுக்கப்பட்டது.
+
+அனைத்துப் பல்கலைக் கழகங்களிலும் பல்கலைக்கழக கல்விசாராப் பணியாளர்களின் சம்பள முரண்பாடு, சம்பள அதிகரிப்பு மற்றும் அவர்களைப் பாதிக்கும் பிரச்சனைகளிற்கு உரிய கால அவகாசங்கள் வழங்கப்பட்டும், பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவும் அரசாங்கமும் இதுவரை தீர்வினை வழங்காதமைக்கு எதிர்ப்புத் தெரிவித்தும் உடனடித் தீர்வினை வேண்டியும் இன்றையதினம்  செவ்வாய்க்கிழமை ஒரு நாள் அடையாள வேலைநிறுத்தத்தில் ஈடுபடுவது என்றும், கவனயீர்ப்பு ஆர்ப்பாட்டம் ஒன்றினை முன்னெடுப்பது என்றும் பல்கலைகழக ஊழியர் சங்கத்தால் தீர்மானிக்கப்பட்டுள்ளது.
+
+அதனடிப்படையில் யாழ்ப்பாணப் பல்கலைக் கழகத்திலும் இன்றைய நாள் முழுநாளும் ஒரு நாள் அடையாள வேலை நிறுத்தப் போராட்டத்தினையும்  பல்கலைக்கழக முன்றலில் கவனயீர்ப்பு ஆர்ப்பாட்டம் ஒன்றினையும் பல்கலைக்கழக ஊழியர் சங்கம் மேற்கொண்டது.
+
+◼️
+
+[Data](articles/a603885b.json)
+
+---
+
+### Plans afoot to issue licenses for 200 wine stores, 15 already issued: Sajith alleges
+
+*2024-03-19 16:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Plans-afoot-to-issue-licenses-for-200-wine-stores-15-already-issued-Sajith-alleges/108-279167) · `en`
+
+Parliament, March 19 (Daily Mirror)- The government is planning to issue licenses to open 200 wine stores under the FL4 category and 15 of them have already been issued, Opposition Leader Sajith Premadasa alleged in Parliament today.
+
+He told Parliament that the government must reveal whether a decision has been taken to issue licenses to 200 wine stores, of which 15 have already been given.
+
+Premadasa also revealed that six liquor manufacturing licenses have already been issued targeting the elections.
+
+He said the move is being made under the new Commissioner General of the Excise Department M.J. Gunasiri.
+
+State Minister of Finance Shehan Semasinghe said the government has not acted outside the prevailing legal framework and that a complete answer will be given to the question if it was raised properly.
+
+...
+
+[Data](articles/208b954f.json)
+
+---
+
+### තරුණියන් දෙදෙනෙක් ගොනු කළ පෙත්සම් නිෂ්ප්‍රභ කෙරෙයි
+
+*2024-03-19 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194692) · `si`
+
+පොලීසියට එරෙහිව තරුණියන් දෙදෙනෙකු ගොනු කර තිබූ මූලික අයිතිවාසිකම් පෙත්සම් දෙකක් විභාගයට නොගෙන නිෂ්ප්‍රභ කිරීමට ශ්‍රේෂ්ඨාධිකරණය අද (19) තීන්දු කළේය.
+
+2022 වසරේ සැප්තැම්බර් මස 22 වනදා ලිප්ටන් වටරවුමේ සමාජවාදී ශිෂ්‍ය සංගමය විසින් පැවැත්වූ විරෝධතාවයකට සහභාගිවී සිටි මෙලනි ප්‍රේමසිංහ සහ දිලීපා තරංගා යන තරුණියන් දෙදෙනාව පොලිස් නිලධාරින් විසින් අත්තනෝමතික ආකාරයෙන් ඇදගෙන ගොස් අත්අඩංගුවට ගෙන  පසුව අධිකරණයට ඉදිරිපත් කර ඇප මත මුදාහැරීම තුළින් සිය මූලික අයිතීන් උල්ලංඝනය වී ඇති බව සඳහන් කරමින් එම තරුණියන් විසින් මෙම මූලික අයිතිවාසිකම් පෙත්සම් ගොනු කර තිබුණි.
+
+අදාළ පෙත්සම් සලකා බැලීම සඳහා කැඳවූ අවස්ථාවේදී වගඋත්තරකරුවන් වෙනුවෙන් පෙනී සිටි ජ්‍යේෂ්ඨ රජයේ නීතිඥ ශමින්ද වික්‍රම මහතා ඉදිරිපත් කළ කරුණු සලකා බැලූ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුලක් විසින් එම නියෝගය නිකුත් කෙරුණි.
+
+...
+
+[Data](articles/07256e84.json)
+
+---
+
+### லிந்துலையில் வர்த்தக நிலையம் உடைத்து கொள்ளை
+
+*2024-03-19 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/179136) · `ta`
+
+லிந்துலை பொலிஸ் பிரிவுக்கு உட்பட்ட வளாக ஜனபத்திய பகுதியில் வர்த்தக நிலையம் உடைத்து கொள்ளையிடப்பட்டுள்ளது.
+
+குறித்த கொள்ளைச் சம்பவம்  ஞாயிற்றுக்கிழமை (17) இரவு இடம் பெற்றுள்ளது எனவும் குறித்த வர்த்தக நிலையத்தின் உரிமையாளர் நேற்று திங்கட்கிழமை (18) காலை வர்த்தக நிலையத்திற்கு வந்தபோது குறித்த வர்த்தக நிலையம் உடைக்கப்பட்டுள்ளமை தெரியவந்ததுடன் சம்பவம் தொடர்பில் லிந்துலை பொலிஸ் நிலையத்தில் முறைபாடு செய்துள்ளார்.
+
+குறித்த வர்த்தக நிலையத்தின் மேல்மாடி ஊடாக இரண்டாவது நுழைவாயில் கதவின் பூட்டை உடைத்துக்கொண்டு உள்நுழைந்த திருடர்கள் அங்கிருந்த 80,675 ரூபாய் பணமும் தொலைபேசி மீள்நிரப்பு அட்டைகள் மற்றும் சிகரெட் பெட்டிகளையும் கொள்ளையிடப்பட்டதாக உரிமையாளரால் பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்யப்பட்டுள்ளது .
+
+இந்த கொள்ளைச் சம்பவம் தொடர்பாக எவரும் இதுவரை கைது செய்யப்பட வில்லை. நுவரெலியா தடயவியல் பொலிஸாரோடு இணைந்து லிந்துலை  பொலிஸார் விசாரணைகளை முன்னெடுத்து வருகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/75b00023.json)
+
+---
+
+### රේගුව දැඩි තීරණයක් ගනී
+
+*2024-03-19 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194691) · `si`
+
+රේගු නිලධාරීන් අද (19) උදෑසන සිට ආරම්භ කළ අකුරට වැඩකිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගය අඛණ්ඩව සිදුකිරීමට තීරණය කර තිබේ.
+
+මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා සමග පැවති සාකච්ඡාවකින් අනතුරුව මාධ්‍ය වෙත අදහස් දක්වමින් ඔවුන් මේ බව සඳහන් කළේය.
+
+රේගු සේවකයන්ට අතිකාල සහ දිරිදීමනා ගෙවීම් සිදු කෙරෙන රේගු ත්‍යාග අරමුදල මුදල් අමාත්‍යංශය භාරයට ගෙන ඇති බවත්, එය අසාධාරණ බවත් පවසමින් රේගු නිලධාරීන්, රේගු අධිකාරීවරුන් සහ රේගු මාණ්ඩලික නිලධාරීන් මෙම වෘත්තිය ක්‍රියාමාර්ගය ආරම්භ කර ඇත.
+
+◼️
+
+[Data](articles/9de7b1f7.json)
+
+---
+
+### ඉන්දීය ප්‍රාන්තයක අයිතිය චීනය ඉල්ලයි
+
+*2024-03-19 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194690) · `si`
+
+අරුනාචාල් ප්‍රදේශ් ප්‍රාන්තයේ අයිතිය සම්බන්ධයෙන් චීන ආරක්ෂක අමාත්‍යංශය කර ඇති ප්‍රකාශයක් සම්බන්ධයෙන් ඉන්දියාව සිය විරෝධය දක්වා තිබේ.
+
+ඉන්දීය විදෙස් කටයුතු අමාත්‍යංශය පවසන්නේ චීනය කර ඇත්තේ "විකාර ප්‍රකාශයක්" බවයි.
+
+අරුනාචාල් ප්‍රදේශ් ඉන්දියාවේ ඊසානදිග ප්‍රාන්තයකි.  එය චීන පාලනයේ පවතින දකුණු ටිබේට ය ආසන්නයේ පිහිටා තිබේ.
+
+◼️
+
+[Data](articles/fd65a88d.json)
+
+---
 
 ### Customs employees to continue work-to-rule campaign; 4,000 containers held up at port
 
@@ -49,6 +151,8 @@ Against this backdrop, the president of the Container Transport Owners’ Associ
 ...
 
 [Data](articles/c1c476b8.json)
+
+[Extended Data](ext_articles/c1c476b8.ext.json)
 
 ---
 
@@ -2169,135 +2273,5 @@ It is reported that the others who were detained with Rambukwella were taken to 
 [Data](articles/a0bc49bc.json)
 
 [Extended Data](ext_articles/a0bc49bc.ext.json)
-
----
-
-### Finance subsidies for Yala season
-
-*2024-03-19 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194669) · `si`
-
-The cabinet has approved a fertilizer subsidy for paddy farmers in Yala for 2024, with Rs. 15,000 per hectare. Subsidies are directly transferred to farmers' bank accounts. Additionally, the government plans to import and sell fertilizer, needing 11,711.1 metric tons for the season.
-
-🟩
-
-Cabinet approval has been granted to grant the fertilizer subsidy for the paddy farmers for the 2024 Yala season.
-
-Accordingly, the Department of Agrarian Development will be provided by the Department of Agrarian Development Rs. 15,000 per ha
-
-Cabinet approval has also been paid directly to the bank accounts of those required subsidies.
-
-Meanwhile, a Cabinet decision has been taken to import fertilizer and sell fertilizer to the farmers in the year 2024.
-
-The National Fertilizer Secretariat has estimated that 11,711.1 metricton, 11,711.1 metricton, which is required for paddy cultivation in Yala season.
-
-◼️
-
-[Data](articles/c0d85f66.json)
-
-[Extended Data](ext_articles/c0d85f66.ext.json)
-
----
-
-### Approval for imports of eggs
-
-*2024-03-19 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194668) · `si`
-
-The cabinet has approved importing 42 million eggs from India for April.
-
-🟩
-
-Cabinet has approved the importation of eggs from India for the coming season.
-
-Accordingly, 42 million eggs will be imported from India in April.
-
-◼️
-
-[Data](articles/7ac4d1d1.json)
-
-[Extended Data](ext_articles/7ac4d1d1.ext.json)
-
----
-
-### Parliament descends into chaos over recent arrest of civilians at Kovil
-
-*2024-03-19 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98044/parliament-descends-into-chaos-over-recent-arrest-of-civilians-at-kovil) · `en`
-
-A contentious situation ensued in parliament on Tuesday morning (March 19) as MPs of the Tamil National Alliance (TNA) staged a protest while holding placards.
-
-They were protesting against the recent arrest of eight civilians who were conducting a ‘pooja’ in view of the Maha Shivaratri Day on March 08 at a Kovil in Vavuniya.
-
-◼️
-
-[Data](articles/10b0ba24.json)
-
-[Extended Data](ext_articles/10b0ba24.ext.json)
-
----
-
-### Parliament descends into chaos over arrest of civilians at Hindu temple
-
-*2024-03-19 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98044/parliament-descends-into-chaos-over-arrest-of-civilians-at-hindu-temple) · `en`
-
-A contentious situation ensued in parliament on Tuesday morning (March 19) as MPs of the Tamil National Alliance (TNA) staged a protest while holding placards.
-
-They were protesting against the recent arrest of eight civilians who were conducting a ‘pooja’ in view of the Maha Shivaratri Day on March 08 at a Hindu temple in Vavuniya.
-
-The parliament, chaired by the Deputy Speaker, convened at 9.30 a.m. for the debate on the no-confidence motion against Speaker Mahinda Yapa Abeywardena.
-
-However, the protest staged by the TNA MPs disrupted the parliamentary proceedings for a few good minutes.
-
-The protest was called off after Justice Minister Wijeyadasa Rajapakshe asserted an impartial, comprehensive investigation into the incident.
-
-The eight civilians including the chief priest of the Hindu temple at the Vedukkunarimalai archaeological site in Nedunkerny had been arrested for allegedly trespassing into the premises, disregarding a court order previously issued rejecting a request to do so.
-
-...
-
-[Data](articles/503e95e3.json)
-
-[Extended Data](ext_articles/503e95e3.ext.json)
-
----
-
-### Which election will be held first? The President responded
-
-*2024-03-19 10:21:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எந்தத்-தேர்தல்-முதலில்-நடக்கும்-பதிலளித்தார்-ஜனாதிபதி/175-334868) · `ta`
-
-President Ranil Wickremesinghe announced the presidential election will be held first, following suspicions about the order of elections.
-
-🟩
-
-President Ranil Wickremesinghe announced at a cabinet meeting yesterday (18) that the presidential election will be held first, with the suspicion that the general election or the presidential election will be held.
-
-According to sources, the President has issued a directive to the Cabinet yesterday to prepare for the presidential election.
-
-He said that the presidential election should be held first and that the country's constitution will be held.
-
-◼️
-
-[Data](articles/5200cd99.json)
-
-[Extended Data](ext_articles/5200cd99.ext.json)
-
----
-
-### Sri Lanka to import 42 million more eggs from India
-
-*2024-03-19 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98043/sri-lanka-to-import-42-million-more-eggs-from-india) · `en`
-
-The Cabinet of Ministers has green-lighted a proposal seeking permission to award procurement contracts to import more eggs from India, based on the recommendations of the Standing Procurement Committee.
-
-As such, 42 million more eggs are to be brought into Sri Lanka, as per a Cabinet approval granted in December 2023.
-
-On 18 December last year, the Cabinet of Ministers gave the nod to import eggs from India until 30 April 2024 in a bid to maintain stable prices in the local market and to provide the products at reasonable rates to the consumers.
-
-After receiving the approval, Sri Lanka has thus far imported as many as 18 million eggs from its neighbor and 42 million more eggs are planned to be brought in.
-
-For this purpose, the Department of Animal Production and Health has already called proposed rates from the recommended Indian companies. Accordingly, a proposal tabled by the President to award relevant procurement contracts to import Indian eggs was green-lighted by the Cabinet.
-
-◼️
-
-[Data](articles/369618ed.json)
-
-[Extended Data](ext_articles/369618ed.ext.json)
 
 ---

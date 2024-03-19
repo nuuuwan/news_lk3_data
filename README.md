@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 15:18:10**
+As of **2024-03-19 15:33:36**
 
 ## Newspaper Stats
 
-*Scraped **13,830** Articles*
+*Scraped **13,831** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 730
 islandlk | 760
 adalk | 1,192
 adaderanalk | 1,662
-tamilmirrorlk | 1,681
+tamilmirrorlk | 1,682
 virakesarilk | 1,931
 dailymirrorlk | 2,114
 adaderanasinhalalk | 2,200
@@ -26,53 +26,121 @@ adaderanasinhalalk | 2,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,827 (100.0%) of 13,830 articles have been extended.
+13,830 (100.0%) of 13,831 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### O/L பரீட்சைக்கான நேர அட்டவணை வெளியானது
+### மின் கம்பியில் தீ: அதிர்ச்சியில் ஒருவர் மரணம்
+
+*2024-03-19 15:16:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மின்-கம்பியில்-தீ-அதிர்ச்சியில்-ஒருவர்-மரணம்/76-334889) · `ta`
+
+பூண்டுலோயா பொலிஸ் பிரிவுக்கு உட்பட்ட சீன் தோட்ட மேற் பிரிவில் அதிர்ச்சிக்கு உள்ளாகி தரையில் விழுந்த நபர் ஒருவர் உயிரிழந்துள்ளார்.
+
+தான் வசிக்கும் இலக்கம் நான்கு தொடர் குடியிருப்பு வீட்டு பகுதியில் உள்ள மின் கம்பத்தில் திடீரென மின் இணைப்பு வயர்கள் தீப்பிடித்து எரிவதை பார்த்து அதிர்ச்சி அடைந்த நபர் திடீரென தரையில் வீழ்ந்து உயிரிழந்ததாக விசாரணையில் தெரியவந்துள்ளது.
+
+ஞாயிற்றுக்கிழமை (17) மாலை இடம்பெற்ற இந்த சம்பவத்தில் சுப்பையா சண்முகம் (வயது 58) என்பவர் உயிரிழ்ழுள்ளதாக விசாரணைகளை மேற்கொண்டு வரும் பூண்டுலோயா பொலிஸார் தெரிவித்தனர்.
+
+சீன் மேல் பிரிவு தோட்டத்தில் மின் இணைப்பு வயர்கள் அடிக்கடி தீப்பிடிப்பதாக தெரிவிக்கும் தோட்ட மக்கள் இத் தோட்டத்தில் தொடர் குடியிருப்புகள் அருகில் காணப்படும் மின் கம்பங்களில் மின் கசிவுகள் மற்றும் இணைப்பு வயர்கள் தொடர்பில் இலங்கை மின்சார சபை பிராந்திய தொழிநுட்ப அதிகாரிகள் பார்வையிட்டு சீர்த்திருத்த நடவடிக்கை எடுக்க வேண்டுமென மக்கள் கோரிக்கை விடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/d2be1adf.json)
+
+---
+
+### O/L Examination Time Schedule Released
 
 *2024-03-19 15:01:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சைக்கான-நேர-அட்டவணை-வெளியானது/175-334888) · `ta`
 
-2024 ஆம் ஆண்டுக்கான க.பொ.த சாதாரண தர பரீட்சை மே மற்றும் ஜூன் மாதங்களில் நடைபெறும் என அறிவிப்பாட்டிருந்தது.
+The GCE Ordinary Level Examination for 2024 timetable was released in May and June.
 
-இந்த நிலையில், தற்போது குறித்த பரீட்சைக்கான நேர அட்டவணையை கல்வி அமைச்சு வெளியிட்டுள்ளது. R
+🟩
+
+The GCE Ordinary Level Examination for 2024 was announced in May and June.
+
+In this case, the Ministry of Education has released the timetable for the examination. Remble
 
 ◼️
 
 [Data](articles/c514fcc2.json)
 
+[Extended Data](ext_articles/c514fcc2.ext.json)
+
 ---
 
-### நானுஓயாவில் கஞ்சா போதைப்பொருளுடன் லொறி சாரதி கைது
+### Lorry driver arrested with cannabis drug in Nanuoya
 
 *2024-03-19 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179123) · `ta`
 
-நானுஓயா பொலிஸ் பிரிவிற்குட்பட்ட நானுஓயா ரதல்ல குறுக்கு வீதிக்கு அருகில் தலவாக்கலை -  நுவரெலியா பிரதான வீதியில் திங்கட்கிழமை (18) இரவு நானுஓயா பொலிஸார் மேற்கொள்ளப்பட்ட யுக்திய நடவடிக்கையின் கீழ் மேற்கொண்ட சோதனை நடவடிக்கைக்கு அமைய இவ்வாறு கைது நடவடிக்கை இடம்பெற்றுள்ளது.
+A 27-year-old lorry driver from Badulla was arrested in Nanuoya for possessing 180 milligrams of cannabis. He will appear in court in Nuwara Eliya.
 
-இவ்வாறு மீட்கப்பட்ட கஞ்சா போதைப்பொருள் 180 மில்லிகிராம் நிறையுடையது எனவும். கைது செய்யப்பட்ட லொறி சாரதி பதுளை - ஹாலிஎல பகுதியைச் சேர்ந்த 27 வயது உடையவர் என பொலிஸார் தெரிவித்தனர்.
+🟩
 
-மேலதிக விசாரணையின் பின்னர் சந்தேகநபர் இன்று செவ்வாய்க்கிழமை நுவரெலியா மாவட்ட நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளமை குறிப்பிடத்தக்கது.
+The arrest was carried out under a raid under the Nanuoya Police Division under the Nanuoya Police Division on Monday night (18) on the Talawakelle -Nuwara Eliya main road near the Nanuoya Police Division.
+
+The recovered cannabis drug is 180 milligrams. The arrested lorry driver is 27 -year -old from Badulla - Hali Ela, police said.
+
+The suspect is scheduled to appear before the Nuwara Eliya District Court on Tuesday after further hearing.
 
 ◼️
 
 [Data](articles/e1d4d12b.json)
 
+[Extended Data](ext_articles/e1d4d12b.ext.json)
+
 ---
 
-### தயாசிறியும் இராஜினாமா
+### Dayasiri resigns
 
 *2024-03-19 14:55:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தயாசிறியும்-இராஜினாமா/175-334887) · `ta`
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர பொது நிறுவனங்கள் தொடர்பான பாராளுமன்ற  (கோப்) குழுவின் உறுப்புரிமையில் இருந்து விலகியுள்ளார்.
+Dayasiri Jayasekara, Sri Lanka PA MP, resigns from Parliament's Public Organizations Committee. Eran Wickremaratne also resigns.
 
-இது தொடர்பான கடிதம் சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவுக்கு அனுப்பி வைக்கப்பட்டுள்ளது. ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்  எரான் விக்கிரமரத்னவும் அக்குழுவில் இருந்து திங்கட்கிழமை (18) விலகியமை குறிப்பிடத்தக்கது.
+🟩
+
+Dayasiri Jayasekara, Member of Parliament of the Sri Lanka PA, has withdrawn from the membership of the Parliament (COP) Committee on Public Organizations.
+
+The letter has been sent to Speaker Mahinda Yapa Abeywardena. United People's Power MP Eran Wickremaratne also withdrew from the committee on Monday (18).
 
 ◼️
 
 [Data](articles/15ec2d2b.json)
+
+[Extended Data](ext_articles/15ec2d2b.ext.json)
+
+---
+
+### Bangladesh Pakistan is very dangerous in India - world healthcare
+
+*2024-03-19 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179107) · `ta`
+
+A study shows India's air pollution is severe, with PM2.5 levels in Pakistan at 79.9 micrograms and in Bangladesh at 73.7 micrograms, exceeding WHO's safe limit. Bangladesh ranked 5th and 8th in pollution in 2022. Dhaka's experts suggest spending 4-5% of GDP on health services. New Delhi faced a dangerous air pollution level last year, similar to China's five-year pollution crisis. Countries like Australia, New Zealand, Estonia, and Finland meet WHO standards.
+
+🟩
+
+A new study has revealed that India is poorly polluted in Bangladesh in Bangladesh.
+
+According to a study published by World Health, Pakistan was one of the most popular countries in the world in 2023.
+
+Found in the air that affects the lungs;The size of the small particles, such as BM 2.5, is found in Pakistan 79.9 micrograms- it is 73.7 percent in Bangladesh.
+
+The World Health Organization said that such products in the atmosphere can be affected if more than 5 micrograms can be affected.
+
+This BM 2.5 particles are found due to the climate and geographical location of South Asia, Christie of the Switzerland's Erukkanapatti organization said.
+
+He said that the lack of pollution is one of the reasons for the agricultural activities and the public is living in crowded.
+
+He added that changes may occur only after this situation has worsened.
+
+It is noteworthy that Bangladesh was ranked fifth and 8th in the list of countries that were polluted in 2022.
+
+...
+
+[Data](articles/8d66b9d5.json)
+
+[Extended Data](ext_articles/8d66b9d5.ext.json)
 
 ---
 
@@ -715,38 +783,6 @@ However, instead of this usual cross, the 515th Brigade was set up in front of t
 [Data](articles/3e960c99.json)
 
 [Extended Data](ext_articles/3e960c99.ext.json)
-
----
-
-### Bangladesh Pakistan is very dangerous in India - world healthcare
-
-*2024-03-19 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179107) · `ta`
-
-A study shows India's air pollution is severe, with PM2.5 levels in Pakistan at 79.9 micrograms and in Bangladesh at 73.7 micrograms, exceeding WHO's safe limit. Bangladesh ranked 5th and 8th in pollution in 2022. Dhaka's experts suggest spending 4-5% of GDP on health services. New Delhi faced a dangerous air pollution level last year, similar to China's five-year pollution crisis. Countries like Australia, New Zealand, Estonia, and Finland meet WHO standards.
-
-🟩
-
-A new study has revealed that India is poorly polluted in Bangladesh in Bangladesh.
-
-According to a study published by World Health, Pakistan was one of the most popular countries in the world in 2023.
-
-Found in the air that affects the lungs;The size of the small particles, such as BM 2.5, is found in Pakistan 79.9 micrograms- it is 73.7 percent in Bangladesh.
-
-The World Health Organization said that such products in the atmosphere can be affected if more than 5 micrograms can be affected.
-
-This BM 2.5 particles are found due to the climate and geographical location of South Asia, Christie of the Switzerland's Erukkanapatti organization said.
-
-He said that the lack of pollution is one of the reasons for the agricultural activities and the public is living in crowded.
-
-He added that changes may occur only after this situation has worsened.
-
-It is noteworthy that Bangladesh was ranked fifth and 8th in the list of countries that were polluted in 2022.
-
-...
-
-[Data](articles/8d66b9d5.json)
-
-[Extended Data](ext_articles/8d66b9d5.ext.json)
 
 ---
 
@@ -2249,27 +2285,5 @@ Global inequality is at an all time high. According to a recent Oxfam report (In
 [Data](articles/c181ee4e.json)
 
 [Extended Data](ext_articles/c181ee4e.ext.json)
-
----
-
-### Decision on the national propaganda to meet in court without answering Rohitha
-
-*2024-03-19 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194663) · `si`
-
-The National folk force criticizes Mr. Rohitha Abeyath for not responding to MP Vijith Herath. Dr. Nalinda Jayatissa suggests that if Rohitha Abeygunawardena files a heavy wealth case, he will counter with a large wealth case. This was discussed at a meeting in Kalutara.
-
-🟩
-
-The National folk force says that Mr. Rohitha Abeyath is not answered against MP Vijith Herath.
-
-Former Parliamentarian Dr. Nalinda Jayatissa said that if Rohitha Abeygunawardena would file a heavy wealth, he would present a large wealth.
-
-At a meeting held in Kalutara, Nalinda Jayatissa said at a meeting held in Kalutara.
-
-◼️
-
-[Data](articles/699c27ec.json)
-
-[Extended Data](ext_articles/699c27ec.ext.json)
 
 ---

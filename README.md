@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 01:03:05**
+As of **2024-03-20 01:17:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,220
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,941 (100.0%) of 13,943 articles have been extended.
+13,943 (100.0%) of 13,943 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ According to the Department of Census and Statistics, 53% of children’s educat
 
 [Data](articles/73f4df68.json)
 
+[Extended Data](ext_articles/73f4df68.ext.json)
+
 ---
 
 ### Why are all social issues not becoming political issues in Sri Lanka?
@@ -59,6 +61,8 @@ Even though each of us has individual desires to achieve, we all live in a socie
 ...
 
 [Data](articles/c7037040.json)
+
+[Extended Data](ext_articles/c7037040.ext.json)
 
 ---
 

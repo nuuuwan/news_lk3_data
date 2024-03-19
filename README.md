@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 10:17:55**
+As of **2024-03-19 10:33:19**
 
 ## Newspaper Stats
 
-*Scraped **13,737** Articles*
+*Scraped **13,744** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,93 @@ colombotelegraphcom | 128
 bbccomsinhala | 152
 dbsjeyarajcom | 188
 newsfirstlk | 363
-economynextcom | 724
+economynextcom | 726
 dailyftlk | 727
 islandlk | 760
-adalk | 1,182
-adaderanalk | 1,649
-tamilmirrorlk | 1,668
+adalk | 1,183
+adaderanalk | 1,651
+tamilmirrorlk | 1,669
 virakesarilk | 1,917
 dailymirrorlk | 2,096
-adaderanasinhalalk | 2,183
+adaderanasinhalalk | 2,184
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,737 (100.0%) of 13,737 articles have been extended.
+13,737 (99.9%) of 13,744 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### Parliament descends into chaos over recent arrest of civilians at Kovil
+
+*2024-03-19 10:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98044/parliament-descends-into-chaos-over-recent-arrest-of-civilians-at-kovil) · `en`
+
+A contentious situation ensued in parliament on Tuesday morning (March 19) as MPs of the Tamil National Alliance (TNA) staged a protest while holding placards.
+
+They were protesting against the recent arrest of eight civilians who were conducting a ‘pooja’ in view of the Maha Shivaratri Day on March 08 at a Kovil in Vavuniya.
+
+◼️
+
+[Data](articles/10b0ba24.json)
+
+---
+
+### Sri Lanka to import 42 million more eggs from India
+
+*2024-03-19 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98043/sri-lanka-to-import-42-million-more-eggs-from-india) · `en`
+
+The Cabinet of Ministers has green-lighted a proposal seeking permission to award procurement contracts to import eggs from India, based on the recommendations of the Procurement Committee.
+
+As such, 42 million more eggs are to be imported to Sri Lanka, as per a Cabinet approval granted in December 2023.
+
+On 18 December last year, the Cabinet of Ministers gave the nod to import eggs from India until 30 April 2024.
+
+Accordingly, Sri Lanka has thus far imported as many as 18 million eggs from its neighbour and 42 million more eggs are yet to be brought in.
+
+For this purpose, the Department of Animal Production and Health has already obtained the proposed rates from the recommended Indian companies.
+
+◼️
+
+[Data](articles/369618ed.json)
+
+---
+
+### பிறந்த குழந்தையை கொலை செய்து புதைத்த பெண்
+
+*2024-03-19 10:12:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பிறந்த-குழந்தையை-கொலை-செய்து-புதைத்த-பெண்/72-334867) · `ta`
+
+முல்லைத்தீவு மாவட்டத்தின் புதுக்குடியிருப்பு பொலிஸ் பிரிவுக்குட்பட்ட விசுவமடு இளங்கோபுரம் பகுதியில் வசிக்கும் பெண்ணொருவர் கணவனை பிரிந்து வாழும் நிலையில் தவறான உறவின் மூலம் கர்ப்பமடைந்துள்ளார்.
+
+இந்த நிலையில் குறித்த பெண் கடந்த மூன்று தினங்களுக்கு முன்னர் குழந்தையை பெற்றெடுத்த நிலையில் பிறந்த குழந்தையை  கொலை செய்து புதைத்துள்ளார்.
+
+இந்நிலையில் குறித்த பெண் கிளிநொச்சி வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில், புதுக்குடியிருப்பு பொலிஸாருக்கு தகவல் தெரியப்படுத்தப்பட்ட நிலையில் விசாரணைகளை மேற்கொண்ட பொலிஸார் பெண்ணை கைது செய்துள்ளனர்.
+
+அத்துடன் குழந்தையை புதைத்த இடத்தில் நீதிபதி முன்னிலையில் சோதனை நடவடிக்கைகள் இன்று இடம்பெறவுள்ளது. R
+
+◼️
+
+[Data](articles/e05dc317.json)
+
+---
+
+### පාර්ලිමේන්තුවේ උණුසුම් තත්ත්වයක්
+
+*2024-03-19 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194667) · `si`
+
+වව්නියාවේ හින්දු කෝවිලක පුජාවක් පවත්වමින් සිටි පුද්ගලයින් පිරිසක් අත්අඩංගුවට ගැනීමට විරෝධය පාමින් දෙමළ ජාතික සන්ධානයේ මන්ත්‍රීවරු පිරිසක් පාර්ලිමේන්තු සභාගර්භයේ දී විරෝධතාවයක නියැලුණි.
+
+අද (19) උදෑසන පාර්ලිමේන්තු කටයුතු නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් ආරම්භ වූ අතර, එම අවස්ථාවේ දී දෙමළ ජාතික සන්ධානයේ මන්ත්‍රීවරු විරෝධතා පුවරු අතැතිව සභාගර්භය මධ්‍යයේ විරෝධතාවය ආරම්භ කළේය.
+
+මේ හේතුවෙන් සභාගර්භයේ වැඩකටයුතුවලට මිනිත්තු කිහිපයක් බාධා එල්ල වූ අතර, අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා විසින් අදාළ සිදුවීම සම්බන්ධයෙන් අපක්ෂපාතී පරීක්ෂණයක් සිදුකරන බව දැනුම්දීමෙන් අනතුරුව විරෝධතාවය නතර කිරීමට දෙමළ ජාතික සන්ධානයේ මන්ත්‍රීවරු කටයුතු කළේය.
+
+◼️
+
+[Data](articles/b17a6187.json)
+
+---
 
 ### Special notice for schools yet to receive textbooks and uniform materials
 
@@ -69,6 +137,24 @@ The monk is said to say that the monk has been increased from a van with other m
 [Data](articles/8edeadfe.json)
 
 [Extended Data](ext_articles/8edeadfe.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 303.90/304.05 to the US dollar
+
+*2024-03-19 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-303-90-304-05-to-the-us-dollar-155108/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 303.90/304.05 to the US dollar in the spot forex market on Tuesday, slightly stronger from 304.35/50 on Monday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 was quoted stable at 11.30/40 percent.
+
+A bond maturing on 15.12.2028 was quoted down at 12.05/15 percent from 12.07/12.15 percent.
+
+The Colombo Stock Exchange opened down; the All Share Price Index was down 0.03 percent at 11,317, and the S&P Sl20 was up 0.03 percent at 3,238. (Colombo/Mar19/2024)
+
+◼️
+
+[Data](articles/3d8ec5d1.json)
 
 ---
 
@@ -155,6 +241,24 @@ They alleged that the annual transfers in the Western Province had been done in 
 [Data](articles/db0f483d.json)
 
 [Extended Data](ext_articles/db0f483d.ext.json)
+
+---
+
+### කතරගම ප්‍රධාන කපුවාට දේවාලය තහනම්
+
+*2024-03-19 09:14:15* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-ප්‍රධාන-කපුවාට-දේවාලය-තහනම්/11-408687) · `si`
+
+රුහුණු මහා කතරගම දේවාලයේ ප්‍රධාන කපු මහතා හා තවත් කපු මහතාගේ කපු ධුරය අත්හිටුවීමට රුහුණු මහා කතරගම දේවාලයේ බස්නායක නිලමේ ඩිෂාන් ගුණසේකර මහතා කටයුතු කර තිබේ.
+
+එම දේවාලයට බැතිමතකු ජූජා කළ පවුම් 38 ක් බර රත්තරන් තැටියක් වංචනික ආකාරයෙන් රැගෙන යාම සම්බන්ධයෙන් වන චෝදනාවලට අදාළව මෙසේ කපුධුර අත්හිටුවා ඇත්තේ  එහි ප්‍රධාන කපු මහත වන සොමිපාල ටී රත්නායක මහතාගෙත් තවත් කපු මහතෙක් වන සමන් ප්‍රියන්ත යන අයගේත්ය.
+
+විධිමත් පරීක්‍ෂණයක් පැවැත්වීමට යටත්ව ඊයේ (18) සිට ක්‍රියාත්මක වන පරිදි ඔවුන්ගේ කපුධුර අත්හිටුවා ඇති අතර ඒ අනුව ඔවුන්ට  ඔවුන්ට රුහුණු මහා කතරගම දේවාල මාලිගයට ඇතුළු වීම, එහි රාජකාරි කටයුතු සම්බන්ධයෙන් සෘජු සහ/හෝ වක්‍රාකාරයෙන් සහ/හෝ අන්‍යාකාරයකින් සිදුකරලීම, ඊට සම්බන්ධ වීම තහනම් බවත් බස්නායක නිළමේ ඩිෂාන් ගුණසේකර මහතා ලිඛිතව දැනුම් දී තිබේ.
+
+රත්තරන් තැටිය පැහැරගෙන යෑමේ සිද්ධිය සම්බන්ධයෙන් අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව කරන ලද පරීක්ෂණයකින් පසුව ඔවුන් දෙදෙන අත්අඩංගුවට ගෙන අධිකරයට ඉදිරිපත් කිරීමෙන් පසුව ඇප මත නිදහස්ව තිබේ.
+
+...
+
+[Data](articles/b88806be.json)
 
 ---
 
@@ -517,6 +621,28 @@ The IMF team in all their pomp are again visiting Sri Lanka. Their tutelage cont
 [Data](articles/2509bce6.json)
 
 [Extended Data](ext_articles/2509bce6.ext.json)
+
+---
+
+### Sri Lanka discussing governance, public finance laws with IMF mission
+
+*2024-03-19 04:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-discussing-governance-public-finance-laws-with-imf-mission-155082/) · `en`
+
+ECONOMYNEXT – Sri Lanka is discussing the implementation of legislation and improving governance with a visiting International Monetary Fund review mission, State Minister of Finance Shehan Semasinghe said.
+
+Sri Lanka has met key quantity targets as of December 2023, for the second IMF review but also has a series of laws to pass and actions stemming from a governance diagnostic report.
+
+“There has been a lot of discussion on improving governance and zero-tolerance of corruption,” Minister Semasinghe said.
+
+A Public Finance Management and banking legislation have also been discussed, he said.
+
+As par of the review that is submitted to the board, a new agreement revising the targets and benchmarks are also fashioned in the form of a staff level agreement.
+
+The new agreement may come at the mission or after further discussions or some actions are completed.
+
+...
+
+[Data](articles/9e8ae346.json)
 
 ---
 
@@ -2015,163 +2141,5 @@ The Police Narcotics Bureau (PNB) had arrested the suspect along with the drugs 
 [Data](articles/93d07087.json)
 
 [Extended Data](ext_articles/93d07087.ext.json)
-
----
-
-### 4.5 million liters of water in Victoria evaporates daily
-
-*2024-03-18 19:03:20* · [`adalk`](https://www.ada.lk/breaking_news/වික්ටෝරියාවේ-ජලය-ලීටර්-මිලියන-4-5ක්-දෛනිකව-වාෂ්ප-වෙයි/11-408683) · `si`
-
-Victoria Reservoir loses 4.5 million liters of water daily due to evaporation. The water surface area is 4 mm over 24 sq km. The water is used for hydroelectricity, generating 1.69 grams of energy daily.
-
-🟩
-
-According to the high temperatures of the water, he said that the water ethnic was evaporated by 4.5 million liters of water.
-
-4 millimeters of surface of the water over the water of the Victoria Reservoir, which is scattered for 24 square kilometers. Mr. Ehemalapitiya said that 4 anxicated.
-
-The Engineer said that the water of the Victoria Reservoir for Hydroelectricity is used daily and generates 1.69 grenades.
-
-◼️
-
-[Data](articles/dd34b750.json)
-
-[Extended Data](ext_articles/dd34b750.ext.json)
-
----
-
-### Mushficer asks for rebound
-
-*2024-03-18 19:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194648) · `si`
-
-Mushficer seeks a rebound. Bangladesh triumphs in a three-wicket match against Sri Lanka, one of two such encounters. The team celebrates, reminiscing about a past victory.
-
-🟩
-
-Bangladesh won the three-wicket match against Sri Lanka as one of two matches with three matches against Sri Lanka.
-
-Below, the Bangladesh team celebrates the victory and recalls the time out of time outdated time earlier.
-
-◼️
-
-[Data](articles/38067902.json)
-
-[Extended Data](ext_articles/38067902.ext.json)
-
----
-
-### Hirunika petition against IGP
-
-*2024-03-18 18:46:40* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්පතිගේ-පත්කිරීමට-එරෙහිව-හිරුණිකාගෙන්-පෙත්සමක්/11-408682) · `si`
-
-Hirunika Premachandra and others filed a petition against the appointment of the Inspector General of Parliament, claiming it was illegal. The petitioners, including former MP Hirunika Premachandra, argue that the decision was incomplete and ask for compensation for disciplinary action.
-
-🟩
-
-The Working Inspector General of Parliament Dissanayake was demanding that the appointment was contrary to the law, former MP Hirunika Premachandra and another petition filed a petition yesterday (18).
-
-The members of the legislation as respondents, who filed the former MP Hirunika Premachandra, who filed Ms. Hirunika Premachandra, has been respondents.
-
-Acting Inspector General of Professor Savithri Gunasekera and the First Provincial Council Member of Zearolets have first filed two fundamental rights petitions on the first of the law and then the Malcolm Cardinal Ranjith and Optional PolicyThe center was filed two more petitions.
-
-The petitioner asks the Supreme Court asking him to give him a compensation of a prosecution to a person's decision to take disciplinary action against a person who is acting to take disciplinary action against a person.
-
-...
-
-[Data](articles/f8583a67.json)
-
-[Extended Data](ext_articles/f8583a67.ext.json)
-
----
-
-### "If both temperatures are equal, the impact will increase"
-
-*2024-03-18 18:38:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரு-வெப்பநிலைகளும்-சமனடைந்தால்-பாதிப்பு-அதிகரிக்கும்/175-334840) · `ta`
-
-"Equal temperatures increase impact, leading to heat trauma, fainting, and death. Drinking more water and natural drinks, and avoiding high temperatures during daytime, can help maintain body temperature. Special care for children and the elderly is advised."
-
-🟩
-
-If the temperature of the environment reaches body temperature, it will increase the image and reduce the supply of oxygen to the brain, causing the heat trauma, fainting and death, said the Seemati Rijway Hospital (LRH) consultant child health physician Vaidyar Deepal Perera said.
-
-He said the normal body temperature of a person can be 37.5 ° C (98.6 ° F).When the temperature of the environment reaches 37 ° C, increased sweating is equal to human body temperature, resulting in increased sweating, resulting in excess water and minerals from the body, so some complications can occur.
-
-Therefore, drink too much water to keep the body temperature balanced, drink more natural drinks, and should not allow children to play during the daytime with high temperatures.
-
-He also urged to drink natural drinks and add a little salt to maintain the amount of sodium in the body.
-
-Due to high temperatures, special attention should be paid to children to the elderly.
-
-◼️
-
-[Data](articles/7a89b5a1.json)
-
-[Extended Data](ext_articles/7a89b5a1.ext.json)
-
----
-
-### Storage of bakery products by increasing tax
-
-*2024-03-18 18:32:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-அதிகரிப்பால்-பேக்கரி-பொருட்களின்-விற்பனை-சரிவு/175-334839) · `ta`
-
-Ranjith Vidhanage, Chairman of the National Movement of Consumer Rights Protection, stated that the tax on bakery products, including imported wheat flour and butter, has led to a 40% increase in bakery goods prices and a 25% decrease in sales. Despite a 21.9% reduction in electricity tariffs, bakery owners did not lower prices, resulting in 10% of bakeries closing.
-
-🟩
-
-Ranjith Vidhanage, Chairman of the National Movement of Consumer Rights Protection, said that the sales of bakery products such as panchayat products have been taxed due to the tax on the use of bakery products.
-
-Speaking to the Daily Mirror, he said the imported wheat flour was Rs.50 rupees taxed, egg prices have increased and Rs 6,000 per kg of butter.
-
-Therefore, the price of bakery goods has increased by 40 per cent and the sales of other bakery products have fallen by 25 per cent.Also, 18 per cent tax on bakery items besides Pan.
-
-In this case, Vithanage said that 10 percent of the bakery was closed and the price of bakery owners did not reduce the price of bakery goods, despite the reduction in electricity tariff by 21.9 percent.
-
-◼️
-
-[Data](articles/921a2258.json)
-
-[Extended Data](ext_articles/921a2258.ext.json)
-
----
-
-### Supreme Court confirms the punishment to the heroin dealer
-
-*2024-03-18 18:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194647) · `si`
-
-The Supreme Court upheld a heroin dealer's punishment, dismissing an appeal. The sentence was initially set by the Colombo High Court and confirmed by the Sri High Court. The accused was arrested by the Police Narurel Bureau.
-
-🟩
-
-The Supreme Court has confirmed a sentence imposed by the Colombo High Court by the Sri High Court.
-
-A three-member Supreme Court panel was given to a three-member Supreme Court panel to dismissal a appetal petition filed by the accused.
-
-The accused had been arrested in a raid conducted by the Police Narurel Bureau.
-
-◼️
-
-[Data](articles/74a5c91c.json)
-
-[Extended Data](ext_articles/74a5c91c.ext.json)
-
----
-
-### Paediatrician warns of risks from matching environment-body temperatures
-
-*2024-03-18 18:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Paediatrician-warns-of-risks-from-matching-environment-body-temperatures/108-279079) · `en`
-
-Colombo, March 18 (Daily Mirror) - If the environmental temperature reaches body temperature, it can cause an increase in palpitations and decrease oxygen supply to the brain, thus leading to heat shocks, fainting and potential death, Lady Ridgeway Hospital (LRH) Consultant Paediatrician Dr. Deepal Perera said.
-
-He said the normal body temperature of a person is 37.5°C (98.6°F). When the environmental temperature reaches 37°C, equivalent to human body temperature, increased sweating occurs, resulting in the loss of more water and minerals from the body through perspiration and hence certain complexities can occur.
-
-Therefore, we should drink more water and drink more natural beverages to keep the body temperature in balance, and children should not be allowed to play during the day with a high temperature.
-
-They also requested that people to drink natural beverages, adding some salt to maintain the sodium level in their bodies.
-
-...
-
-[Data](articles/b728c2b0.json)
-
-[Extended Data](ext_articles/b728c2b0.ext.json)
 
 ---

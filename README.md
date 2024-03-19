@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 06:16:49**
+As of **2024-03-19 06:54:16**
 
 ## Newspaper Stats
 
-*Scraped **13,693** Articles*
+*Scraped **13,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,57 @@ dbsjeyarajcom | 187
 newsfirstlk | 363
 economynextcom | 724
 dailyftlk | 727
-islandlk | 746
+islandlk | 759
 adalk | 1,179
 adaderanalk | 1,645
-tamilmirrorlk | 1,664
+tamilmirrorlk | 1,665
 virakesarilk | 1,916
-dailymirrorlk | 2,090
-adaderanasinhalalk | 2,173
+dailymirrorlk | 2,092
+adaderanasinhalalk | 2,174
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,693 (100.0%) of 13,693 articles have been extended.
+13,693 (99.9%) of 13,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### Purple-faced leaf monkeys risk death with daring rooftop travels: Primatologist
+
+*2024-03-19 06:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Purple-faced-leaf-monkeys-risk-death-with-daring-rooftop-travels-Primatologist/108-279125) · `en`
+
+Due to deforestation in urban areas, Western purple-faced langurs also known as purple-faced leaf monkey are forced to use rooftops for travel in search of food and resting places, putting them at risk of encounters with dogs, people, and vehicles which can be fatal for the animals, a primatologist and behavioral ecologist said.
+
+A recent post on social media revealed that three purple-faced langurs near Thalangama Lake were shot at, resulting in two animals succumbing to their injuries
+
+Speaking to the Daily Mirror, Smithsonian primatologist and behavioral ecologist Prof. Wolfgang Dittus said that the purple-faced langur is highly arboreal and that they come to the ground only under extreme circumstances when their arboreal pathways have been blocked by the removal of trees.
+
+It is in this backdrop that people in urban settings now perceive Purple-faced langurs as a pest.
+
+...
+
+[Data](articles/c625fa02.json)
+
+---
+
+### වැසි හෝ ගිගුරුම් සහිත වැසි
+
+*2024-03-19 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194656) · `si`
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (19) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වියළි කාලගුණික තත්ත්වයක් පවතින බවය.
+
+සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ කළුතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/6893f7d5.json)
+
+---
 
 ### Don’t cry for me Sri Lanka, if wrong people are elected - EDITORIAL
 
@@ -65,6 +99,36 @@ The IMF team in all their pomp are again visiting Sri Lanka. Their tutelage cont
 [Data](articles/2509bce6.json)
 
 [Extended Data](ext_articles/2509bce6.ext.json)
+
+---
+
+### Scandal erupts over Keheliya given special transport privileges, CID launches probe
+
+*2024-03-19 02:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Scandal-erupts-over-Keheliya-given-special-transport-privileges-CID-launches-probe/108-279124) · `en`
+
+The Criminal Investigation Department (CID) has initiated investigations into an incident in which former Minister Keheliya Rambukwella who is in remand custody has been transported to court using a bus donated by UNICEF for the transportation of children of female inmates.
+
+The CID has received a complaint that the prison authorities have used this bus for the transportation of Mr. Rambukwella despite UNICEF stipulating that it should be used solely for the benefit of female inmates' children.
+
+It is reported that others who were remanded along with Mr. Rambukwella were transported using a prison bus. However, it is questioned why such a special privilege was accorded to Mr. Rambukwella.
+
+◼️
+
+[Data](articles/2e378678.json)
+
+---
+
+### நீரில் மூழ்கி இளம் பிக்கு உயிரிழப்பு
+
+*2024-03-19 02:05:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-இளம்-பிக்கு-உயிரிழப்பு/175-334845) · `ta`
+
+ரஜரட்ட பிக்கு பல்கலைக்கழகத்தில் கல்வி கற்று வந்த ஹீல்ஓய சங்கானந்த தேரர் என்பவரே நேற்று நீரில் மூழ்கி உயிரிழந்துள்ளார் என்று பொலிஸார் தெரிவித்தனர்.
+
+புத்தளம் வனாத்தவில்லு வன்னாத்தவில்லு ஸ்ரீ தர்மராஜ விகாரைக்கு வருகை தந்த மேற்படி இளம் பிக்கு, அங்கிருந்து பிக்குகள் குழுவுடன் தப்போவ நீர்த்தேக்கத்தில் நீராடச் சென்றபோதே இந்த அனர்த்தத்துக்கு முகம் கொடுத்துள்ளார் என்று விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/d9d30358.json)
 
 ---
 
@@ -628,6 +692,44 @@ Traditional chilli plants can be cultivated in half an acre, but the number of c
 
 ---
 
+### More of Suzi…Down Under
+
+*2024-03-18 22:38:00* · [`islandlk`](http://island.lk/more-of-suzidown-under/) · `en`
+
+Suzi Fluckiger (or, let’s say Croner to her fans in Sri Lanka) has already turned out to be a much-in-demand artiste, Down Under.
+
+She was in Melbourne, Australia, in November last year, for Country and Western Night at Gaelic Park, in Keysborough, and the crowd present enjoyed her performance.
+
+She also did quite a few other gigs, and now they all want more of Suzi.
+
+And, Suzi says she will do the needful again, in October this year.
+
+She is scheduled to do a country and western scene on October 26, in Melbourne, followed by two other gigs, on November 1st and 2nd.
+
+Suzi then has to rush back to Switzerland, where she now resides, as she has to perform in Zurich, from November 9th right through to January, 2025.
+
+Referring to her forthcoming two-week stay in Australia, she says it will be partying with all her Aussie friends, all the time!
+
+Southern Madagascar, where girls are sold into marriage before they are born
+
+...
+
+[Data](articles/1689f801.json)
+
+---
+
+### The National Education Policy Framework 2023
+
+*2024-03-18 22:36:00* · [`islandlk`](http://island.lk/the-national-education-policy-framework-2023/) · `en`
+
+Global inequality is at an all time high. According to a recent Oxfam report (Inequality Inc. January 2024), the richest 1% of the world owns 43% of global assets; the world’s richest five men have doubled their wealth since the onset of the pandemic while five billion people have been made poorer. Ever-reducing wages (for workers), tax concessions and evasion (for/by corporates), and the privatization of public services has concentrated wealth and power in corporates, increasing their influence in every policy domain, says Oxfam.
+
+...
+
+[Data](articles/9e7e678f.json)
+
+---
+
 ### Trump unable to get $464m bond in New York fraud case, his lawyers say
 
 *2024-03-18 22:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Trump-unable-to-get-464m-bond-in-New-York-fraud-case-his-lawyers-say/107-279090) · `en`
@@ -678,6 +780,34 @@ An autopsy on Piku's body will be held on Tuesday (19) and further investigation
 
 ---
 
+### Christell Luxury Wellness achieves prestigious award for exemplary best management practices
+
+*2024-03-18 22:12:00* · [`islandlk`](http://island.lk/christell-luxury-wellness-achieves-prestigious-award-for-exemplary-best-management-practices/) · `en`
+
+Christell Luxury Wellness proudly announces its recognition as the category awards winner in Beauty, Health & Cosmetics at the Best Management Practices Company Award 2024, organized by The Institute of Chartered Professional Managers Sri Lanka.
+
+The Best Management Practices Company Award aims to honor and celebrate exemplary management practices exhibited by companies throughout the year 2023. It acknowledges outstanding leadership, commendable policies and strategies, effective people management, successful partnerships, resource utilization, streamlined processes, and remarkable performance. These awards not only applaud excellence but also provide a valuable framework for management teams to assess and challenge themselves within their respective organizations.
+
+...
+
+[Data](articles/a72079f5.json)
+
+---
+
+### Igniting innovation & growth in Sri Lanka’s Food Processing Industry: Profood Propack & Agbiz 2024 Exhibition unveils its 21st edition
+
+*2024-03-18 22:10:00* · [`islandlk`](http://island.lk/igniting-innovation-growth-in-sri-lankas-food-processing-industry-profood-propack-agbiz-2024-exhibition-unveils-its-21st-edition/) · `en`
+
+Profood Propack & Agbiz Exhibition, organised by the Sri Lanka Food Processors Association (SLFPA) together with Lanka Exhibition and Conference Services (LECS), was formally announced at a press conference held on 12th March 2024 at the Water’s Edge, Colombo.
+
+The most awaited Food Industry Show is scheduled to take place from the 23rd to 25th of August at the Sirimavo Bandaranaike Exhibition and Convention Canter at BMICH Colombo. SLFPA’s commitment to foster Food Industry advancement and drive economic growth in Sri Lanka through this Exhibition is well known over the years. The event acts as the catalyst in bringing together Food Industry leaders, multiple stakeholders, and decision makers in Agri based Businesses, Food Processing Industries, Packaging and all Service Providers to the Food Industry.
+
+...
+
+[Data](articles/2c5bcef6.json)
+
+---
+
 ### Gunmen kidnap at least 87 in Nigeria’s Kaduna state
 
 *2024-03-18 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98038/gunmen-kidnap-at-least-87-in-nigerias-kaduna-state) · `en`
@@ -697,6 +827,70 @@ Tanko Wada Sarkin, a village head, said 87 people were taken.
 [Data](articles/9828e39d.json)
 
 [Extended Data](ext_articles/9828e39d.ext.json)
+
+---
+
+### AFI Corp appoints new CEO
+
+*2024-03-18 22:09:00* · [`islandlk`](http://island.lk/afi-corp-appoints-new-ceo-2/) · `en`
+
+Sri Lankan technology services and staff solutions outsourcing company AFI Corp announced the appointment of seasoned corporate leader Rimaz Marzook as its new Chief Executive Officer (CEO). Marzook brings a wealth of experience and a proven track record of success in driving business growth and profitability, making him ideal to lead AFI Corp into its next chapter, an AFI press release said.
+
+‘AFI Corp caters to a diverse clientele in North American and European markets, offering solutions ranging from cybersecurity and software development to staff augmentation and technical support. The company recently unveiled its state-of-the-art Innovation Labs in Colombo 3, positioning itself as a trailblazer in converging creativity, technology and innovation in the country, the release adds.
+
+Related Topics:AFI CorpRimaz MarzookSri Lankan technology services and staff solutions
+
+Exploring 2024 SLIM-Kantar People’s Awards research methodology – “Know What”
+
+...
+
+[Data](articles/45f4225a.json)
+
+---
+
+### Exploring 2024 SLIM-Kantar People’s Awards research methodology – “Know What”
+
+*2024-03-18 22:07:00* · [`islandlk`](http://island.lk/exploring-2024-slim-kantar-peoples-awards-research-methodology-know-what/) · `en`
+
+In a significant advancement for Sri Lanka’s marketing arena, the Sri Lanka Institute of Marketing (SLIM) has recently announced the launch of the 2024 edition of the SLIM-Kantar People’s Awards. This event stands out as the only awards ceremony in the nation dedicated to honouring the choice of the people. It is set to reveal the brands and personalities close to their hearts.
+
+The 19th edition of the SLIM Peoples Awards is on the horizon, featuring the partnership between SLIM and Kantar, a leading global research agency, since 2021. This collaboration has elevated the credibility of the SLIM-Kantar People’s Awards, ensuring rigorous research methodologies are incorporated into the process starting in 2022.
+
+...
+
+[Data](articles/c3556587.json)
+
+---
+
+### SLT-MOBITEL propels its workforce into the digital era
+
+*2024-03-18 22:06:00* · [`islandlk`](http://island.lk/slt-mobitel-propels-its-workforce-into-the-digital-era/) · `en`
+
+SLT-MOBITEL, the National Information and Communications Technology (ICT) Solutions Provider, has recently taken a leap forward in digital transformation by deploying Microsoft Productivity and Security Solutions for frontline workers, sensitive information workers and senior executives. With a focus on privacy, security, reliability, and trust, SLT-MOBITEL aims to streamline operations, enhance productivity, and fortify cyber resilience in an ever-evolving digital landscape.
+
+In response to the escalating demands of managing infrastructure and fostering digital collaboration, SLT-MOBITEL identified the need for unified efficiency among its workforce and robust security measures. The organization decided to address these demands by increasing their existing use of Microsoft products and integrating them into a unified platform.
+
+Sheraton Colombo Hotel celebrates International Women’s Day with empowering insights
+
+Exploring 2024 SLIM-Kantar People’s Awards research methodology – “Know What”
+
+...
+
+[Data](articles/cc1b9702.json)
+
+---
+
+### Bourse’s fortunes pick-up as turnover remains in Rs. 1 billion region
+
+*2024-03-18 22:02:00* · [`islandlk`](http://island.lk/bourses-fortunes-pick-up-as-turnover-remains-in-rs-1-billion-region/) · `en`
+
+Both CSE indices moved up yesterday as the share market picked in mid-day. The All Share Price Index went up by 15.86 points while S and P SL20 rose by 9.1 points. Turnover stood at Rs 1.3 billion with three crossings.
+
+Those crossings were reported in Hayleys Fabrics, which crossed 550,000 shares to the tune of Rs 25.3 million; its shares traded at Rs 40, HNB 150,000 shares crossed for Rs 25.2 million; its shares traded at Rs 158 and Lankem Developments 1.2 million shares crossed for Rs 23.4 million; its shares sold at Rs 19.50.
+
+...
+
+[Data](articles/1da4e75a.json)
 
 ---
 
@@ -2035,275 +2229,5 @@ The grant also covers portable ultrasonic scanners, gynecological examination ta
 [Data](articles/9a47207f.json)
 
 [Extended Data](ext_articles/9a47207f.ext.json)
-
----
-
-### Operation ‘Yukthiya’ further in progress to minimize crimes in North – Tiran Alles
-
-*2024-03-18 15:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98028/operation-yukthiya-further-in-progress-to-minimize-crimes-in-north-tiran-alles) · `en`
-
-A programme has been held in Jaffna to raise awareness among the members of Community Policing Committees in Jaffna and Kankesanthurai Police Divisions.
-
-Around 2,000 community policing members from 431 Grama Niladhari Divisions of Jaffna and Kankesanthurai Police Divisions have participated in this occasion on Sunday (March 17), which was led by Minister of Public Security, Tiran Alles.
-
-The Secretary to the Ministry of Public Security Viyani Gunathilaka and the Inspector General of Police (IGP) Deshabandu Tennakoon also took part at the occasion.
-
-...
-
-[Data](articles/06f34b1e.json)
-
-[Extended Data](ext_articles/06f34b1e.ext.json)
-
----
-
-### El Nino phenomenon causing high temperatures, will continue till April
-
-*2024-03-18 15:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/El-Nino-phenomenon-causing-high-temperatures-will-continue-till-April/108-279077) · `en`
-
-Colombo, March 18 (Daily Mirror) - The El Nino phenomenon has caused an increase in the continuous dry weather situation in the country and it could continue till April, Meteorology Department Director Genral Athula Karunanayaka said.
-
-He told the media that rain can be expected from next Thursday (21), Friday (22) and Saturday (23), but there will also be an increase in the heat.
-
-Rains can be expected in the Western, Southern and Uva Provinces.
-
-However, the rains will not be enough to reduce the hot conditions. The body temperature is 37 percent, the ambient temperature is the same, and it will feel oppressive.
-
-Heat exists during the day as well as during the night. Therefore, the department requests people to wear white clothes that reflect heat, to drink more water and avoid strenuous work.
-
-◼️
-
-[Data](articles/d2009091.json)
-
-[Extended Data](ext_articles/d2009091.ext.json)
-
----
-
-### Francophonie 2024 - Mark Ayman Marc Aymon and Milla Beson Milla Besson
-
-*2024-03-18 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179039) · `ta`
-
-Switzerland and La Francophonie celebrated Francophonie 2024 in Sri Lanka and Maldives, featuring Swiss musicians Mark Ayman Marc Aymon and Milla Besson Milla Besson. Events included masterclasses and performances, showcasing Swiss culture and music.
-
-🟩
-
-The Switzerland Embassy for Sri Lanka and the Maldives, in collaboration with the International Organization of La Francophonie, was organized in Colombo and Ahangama.
-
-Arrangements were made to celebrate Francophonie 2024 with Swiss musicians Mark Ayman Marc Aymon and Milla Besson Milla Besson with annual French language and Francophonie cultures.
-
-The launch event was on March 16th.. The Alliance Française de Colombo was held from 7am to Colombo. Subsequently, on March 17,. TRAX AHangama was held from 7.00 pm.
-
-Master Classes was held on the 16th of March at the University of Kattupula and Arts.
-
-Mark Ayman Marc Aymon, the main artist from Valais, is a poet and singer. Ayman is the owner of 8 albums and 4 separate songs in the French -speaking countries.
-
-He has played his songs at Francophonie celebrations in Paraguay, France, Pianos Aires, Kenya, Rwanda and Egypt. Valais Dulcimer, Drums, Kotamo, Handpan, Backhornxylo and Glasudu are talented in music.
-
-...
-
-[Data](articles/f2ae8be3.json)
-
-[Extended Data](ext_articles/f2ae8be3.ext.json)
-
----
-
-### Celebrate School Sports Festivals After New Year
-
-*2024-03-18 15:19:26* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ක්‍රීඩා-උත්සව-අලුත්-අවුරුද්දෙන්-පසුව-පවත්වන්න/11-408679) · `si`
-
-Dr. Susil Premjages announced that school sports festivals will be celebrated on the 18th, following the current hot weather conditions.
-
-🟩
-
-Minister of Education Dr. Susil Premjages said that the current circulars will be held on the 18th of this month after the current hoty weather conditions today.
-
-◼️
-
-[Data](articles/14e32518.json)
-
-[Extended Data](ext_articles/14e32518.ext.json)
-
----
-
-### Struggle in Jaffna tomorrow demanding the release of the detainees
-
-*2024-03-18 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179038) · `ta`
-
-Protest in Jaffna tomorrow demands release of detainees, cultural preservation, and abolition of Sinhala-Buddhism in Tamil homeland. Organized by the Student Union at the University of Jaffna.
-
-🟩
-
-The protest will be held tomorrow (19), demanding the abolition of the cultural destruction of archeology and the Sinhala -Buddhism in the Tamil homeland, and the release of those arrested by the Nedungeni police at the Vettu Nirimalai temple in Vavuniya North.
-
-The protest will be carried out by the Student Union at the University of Jaffna.
-
-◼️
-
-[Data](articles/473cc6a9.json)
-
-[Extended Data](ext_articles/473cc6a9.ext.json)
-
----
-
-### Eran resigns from COPE, slamming questionable appointees, standing orders
-
-*2024-03-18 14:55:00* · [`economynextcom`](https://economynext.com/eran-resigns-from-cope-slamming-questionable-appointees-standing-orders-155042/) · `en`
-
-ECONOMYNEXT – Sri Lanka opposition legislator Eran Wickramaratne has resigned from the Parliament’s Committee on Public enterprises calling for appointees to conform to minimum levels of probity and for removing roadblock to action being taken on corruption.
-
-“Appointees to COPE as part of its 31-member team or Chairperson, must not be associated with allegations and/or convictions,” Wickramaratne, a former Citibank and NDB Bank excutive, said in a statement.
-
-“A committee that has an overview of checks and balances must have clearly outlined qualifications and disqualifications for its members.”
-
-The government was blocking action being taken on COPE findings through standing orders, he charged.
-
-“Standing Order should be widened, where irregularities and fraud when in light, should reach the Attorney General direct and CIABOC proceeding to act,” he said.
-
-“The government blocks the process by limiting Standing Orders, there by the effectiveness of COPE is now in question. ”
-
-...
-
-[Data](articles/da7a338b.json)
-
-[Extended Data](ext_articles/da7a338b.ext.json)
-
----
-
-### Is the support of Sri Lankan people in the midst of the power?The results of anxiety in the station's study for alternative policy
-
-*2024-03-18 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179041) · `ta`
-
-A study on Sri Lankan democracy shows mixed support. While democracy is preferred, some find autocracy more suitable in certain situations. The 2018 constitutional crisis highlighted a shift in support. Confidence in parliament and political parties has declined, with only 22% expressing confidence in parliament and 19% in political parties. The study suggests that democratic structures' confidence is crucial for legislation, but military and legal confidence is higher.
-
-🟩
-
-One of the tenth of the people who participated in the poll on democracy and reconciliation carried out the station for alternative policy.
-
-Although more people prefer the democratic system than other types of regime, a recent study revealed that a Sri Lankan in some situations is more appropriate than a democratic system.
-
-In 2018;The Constitutional Crisis was created during the time of the Maithripalasan Ranilwickramasinghe government, according to the Center for Change Policy.
-
-Despite the strong support for democracy, the study has revealed the possibility of supporting the support of autocratic regime as the despair of democratic regime increases.
-
-At the same time, the poll also reveals that the confidence in parliament and political parties is less than ever before.
-
-22 percent of those who participated in the poll expressed confidence in the parliament-19 percent of the political parties.
-
-...
-
-[Data](articles/60531d95.json)
-
-[Extended Data](ext_articles/60531d95.ext.json)
-
----
-
-### Iran resigns from the Member of COPE
-
-*2024-03-18 14:53:26* · [`adalk`](https://www.ada.lk/breaking_news/ඉරාන්-කෝප්-කමිටු-සාමාජිකත්වයෙන්-ඉල්ලා-අස්වෙයි/11-408678) · `si`
-
-Iran resigns from COPE. MP Iran Wickramaratne announced the resignation, stating the House of Resignation was sent to the Speaker today. He did not correct the discovery of investigations from COPE.
-
-🟩
-
-MP Iran Wickramaratne, MP, said that the House of Resignation had been sent to the Speaker today (18).. He was speaking at a media briefing at the Opposition Leader in Colombo today that he had not corrected the discovery of the investigations from the COPE.
-
-◼️
-
-[Data](articles/fbffc4d3.json)
-
-[Extended Data](ext_articles/fbffc4d3.ext.json)
-
----
-
-### We have no political jealousy;That is why we provided buses to Mahinda Rajapaksa College and Thambuthegama National Schools - Opposition Leader
-
-*2024-03-18 14:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179033) · `ta`
-
-Despite political rivalry, an opposition leader donated buses to Mahinda Rajapaksa College and Thambuthegama National Schools, emphasizing the importance of education over political jealousy. The donation is part of a broader effort to provide educational opportunities, funded by domestic and foreign donors, not personal funds.
-
-🟩
-
-Despite the political rivalry between him and Mahinda Rajapaksa, we donated the bus to the Mahinda Rajapaksa College of Matara because of his lack of jealousy stupid thoughts.. The opposition leader said that the future of the children of the school is more important than the name of Mahinda Rajapaksa.
-
-Although there are many lectures on the change in the system, it must be realistic on the field. These buses and smart classroom equipment are being provided with the aim of providing an opportunity for education to all.
-
-Opposition Leader Sajith Premadasa said that he was named "bus man" when he was given, and that the bus man who was named "Bus Man" was given a bus.
-
-Under the universe bus supply program, the 86th phase of the school bus worth Rs.
-
-At the event, he donated Rs.
-
-...
-
-[Data](articles/e68db023.json)
-
-[Extended Data](ext_articles/e68db023.ext.json)
-
----
-
-### Ministry of Education says sports events
-
-*2024-03-18 14:25:09* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රිඩා-උත්සව-කල්-දමන්නැයි-අධ්‍යාපන-අමාත්‍යාංශය-කියයි/11-408677) · `si`
-
-The Ministry of Education has directed principals to promote school safety, with a focus on health and life safety. The first term of the first semester will be held in the second and third semesters. Major General H.M. H.M.Mr. U. Herath, Director General of the Disaster Management Center, informed the Ministry of Education.
-
-🟩
-
-The Ministry of Education has instructed the principals today (18) to promote schools in schools to protect school in schools to protect school.
-
-Accordingly, the first term of the first semester in schools will be held in the second and third, according to this article.
-
-The letter of the Ministry of Education has also signed a special focus on health and life safety.
-
-Director General of the Disaster Management Center Retaliation Major General H.M. H.M.Mr. U. Herath has informed the Secretary to the Ministry of Education.
-
-◼️
-
-[Data](articles/a7d54ecd.json)
-
-[Extended Data](ext_articles/a7d54ecd.ext.json)
-
----
-
-### School principals informed to postpone sports meets due to hot weather
-
-*2024-03-18 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98027/school-principals-informed-to-postpone-sports-meets-due-to-hot-weather) · `en`
-
-School Principals have been informed in writing to postpone sports meets and other outdoor activities in view of the prevailing high temperatures, the Ministry of Education announced.
-
-Accordingly, the Ministry of Education has advised school principals to postpone the relevant activities until April 24, 2024.
-
-Furthermore, it is informed to postpone all outdoor activities including sports meets and other competitions until the third phase of the first school term which will commence on April 24 and to draw special attention to the health of the students, owing to the prevailing hot weather conditions.
-
-On Sunday (17), Minister of Education Susil Premajayantha said school principals will be informed through a circular to organise the inter-house sports meets and sports events of their respective schools after the Sinhala and Tamil New Year holidays.
-
-...
-
-[Data](articles/edfbf8aa.json)
-
-[Extended Data](ext_articles/edfbf8aa.ext.json)
-
----
-
-### Central Bank Governor's carrot is too raw
-
-*2024-03-18 14:15:33* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකු-අධිපතිගේ-කැරට්-අලය-අමු-වැඩියි/11-408676) · `si`
-
-MP Udaya Gammanpila criticizes the Central Bank's decision to reduce salary increases by 25%, calling it "too raw." He argues that this move is an attempt to prevent a bill from being passed, which would prevent future large salary increases. Gammanpila also mentions the Central Bank's history of significant salary increases and its right to arbitrarily increase salaries, contrasting this with the government's efforts to curb such increases during an economic crisis.
-
-🟩
-
-MP Udaya Gammanpila says that the Central Bank has decided to reduce 25 percent of the increase in salary increases.. He was speaking at a media briefing in Colombo.
-
-"The Governor we have not been able to reduce the salaries that have been abolished to abolish the extraordinary wage hike and the central bank has been abolished.It's hard to digest. This is trying to reduce wages by 25% and prevent us from passing our bill.
-
-70% of salary increases we are giant, but the lowest increases in the recent history of the Central Bank is 73% and 93%.If this bill is passed, you will never be able to increase this huge salary increase again.As such, if the bill delays the Parliament, parliament dissolves.Forgotten this event.
-
-The Central Bank owns the right to arbitrarily increase salary increase. Petroleum Corporation, Power Board, Port 25% - 30% of the routine. The government stopped this due to the economic crisis. However, this arbitrary force has been provided with the arbitrary force.
-
-...
-
-[Data](articles/8ce6ee30.json)
-
-[Extended Data](ext_articles/8ce6ee30.ext.json)
 
 ---

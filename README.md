@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 16:03:06**
+As of **2024-03-19 16:17:57**
 
 ## Newspaper Stats
 
-*Scraped **13,845** Articles*
+*Scraped **13,850** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ dailyftlk | 727
 economynextcom | 732
 islandlk | 760
 adalk | 1,195
-adaderanalk | 1,662
+adaderanalk | 1,664
 tamilmirrorlk | 1,682
-virakesarilk | 1,933
-dailymirrorlk | 2,116
-adaderanasinhalalk | 2,203
+virakesarilk | 1,934
+dailymirrorlk | 2,117
+adaderanasinhalalk | 2,204
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,831 (99.9%) of 13,845 articles have been extended.
+13,844 (100.0%) of 13,850 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### Customs employees launch work-to-rule campaign; 4,000 containers held up at port
+
+*2024-03-19 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98055/customs-employees-launch-work-to-rule-campaign-4000-containers-held-up-at-port) · `en`
+
+At least 4,000 containers are reportedly held up at the Colombo Port as a result of the trade union action launched by the employees of Sri Lanka Customs on Friday (March 15).
+
+Initially, the Customs officials including superintendents and staff officers only boycotted working extra hours, however, they resorted to a work-to-rule campaign at 9 a.m. today (March 19) it is expected to go on until 4.45 p.m.
+
+Calling a media briefing, the chairman of the Customs Officers’ Union Amila Sanjeewa attributed the reason behind the trade union action to the Treasury’s decision to bring the Customs Officers Reward Fund under the purview of the Finance Ministry.
+
+After the work-to-rule campaign ends this evening, the Customs employees will once again refrain from working overtime, Mr. Sanjeewa added.
+
+Against this backdrop, the president of the Container Transport Owners’ Association, Sanath Manjula warned that the importers are likely to be afflicted if the situation goes on.
+
+...
+
+[Data](articles/c43be125.json)
+
+---
+
+### கோப் குழுவிலிருந்து சரித ஹேரத்  இராஜினாமா!
+
+*2024-03-19 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179133) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின்   நாடாளுமன்ற உறுப்பினர் சரித ஹேரத் கோப் குழுவிலிருந்தும் இராஜினாமா செய்துள்ளார். இதனை அவர் தனது  எக்ஸ் கணக்கில்  பதிவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/d77c843e.json)
+
+---
+
+### Two more opposition MPs quit COPE
+
+*2024-03-19 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98054/two-more-opposition-mps-quit-cope) · `en`
+
+MPs Prof. Charitha Herath and S.M. Marikkar have also decided to resign from the Committee on Public Enterprises (COPE), bringing the total number of opposition members to quit the parliamentary committee thus far to four.
+
+In a post on ‘X’ (formerly Twitter), former COPE chairman Prof. Herath said he has officially communicated his decision to the Speaker of Parliament today (19).
+
+SJB parliamentarian Marikkar also announced his decision to step down today (19).
+
+Their resignation comes after SJB parliamentarian Eran Wickramaratne and MP Dayasiri Jayasekara also decided to quit the committee.
+
+Wickramaratne announced his decision to resign yesterday and in his letter of resignation explained that no credible action had been taken on those who were found to have been complicit in corrupt practices or mismanagement despite the COPE reports submitted to the parliament time and time again.
+
+...
+
+[Data](articles/7e6826c5.json)
+
+---
 
 ### Speaker’s endorsement required to ensure a Sri Lanka law is ‘duly passed’: Sumanthiran
 
@@ -50,59 +102,117 @@ Sumanthiran said he went to court against the online safety bill and court did n
 
 [Data](articles/e6705b8b.json)
 
+[Extended Data](ext_articles/e6705b8b.ext.json)
+
 ---
 
-### மட்டக்களப்பில் கிழக்குப் பல்கலைக்கழக ஊழியர்கள் ஆர்ப்பாட்டம்
+### Eastern University staff demonstrated in Batticaloa
 
 *2024-03-19 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/179130) · `ta`
 
-கிழக்கு பல்கலைக்கழக ஊழியர்களின் சம்பளப் பிரச்சினை மற்றும் ஊழியர்களுக்கு நீண்ட நாட்களாக தீர்க்கப்படாதுள்ள கோரிக்கைகளுக்கு தீர்வு கோரி இன்று செவ்வாய்க்கிழமை (19) மட்டக்களப்பு அரசடியிலுள்ள கிழக்குப் பல்கலைக்கழக வெளிவாரி கற்கைகள்  நிலையம் முன்பாக ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+Eastern University staff in Batticaloa protested for salary reform, demanding increased risk allowance and no misuse of university funds. The protest was part of nationwide trade union activities, with the government pledging to address these demands.
 
-அனைத்துப் பல்கலைக்கழக தொழிற்சங்க கூட்டமைப்பின் தீர்மானத்திற்கு  இணங்க நாட்டில் உள்ள அரச பல்கலைக்கழகங்களில் நாடளாவிய ரீதியில் முன்னெடுக்கப்படும் தொழிற்சங்க நடவடிக்கைகளுக்கு அமைவாக கிழக்குப் பல்கலைக்கழக ஊழியர் சங்கம் மற்றும் கிழக்குப் பல்கலைக்கழக நிருவாக உத்தியோகத்தர்கள் சங்கம் இணைந்து  மட்டக்களப்பில் வெளிவாரி கற்கைகள்  நிலைய முன்பாக நூற்றுக்கு மேற்பட்ட கிழக்குப் பல்கலைக்கழக ஊழியர்கள் இன்று காலை ஒன்றினைந்தனர்.
+🟩
+
+Eastern University staff staged a protest in front of the Eastern University External Studies Center in Batticaloa on Tuesday (19) demanding a solution to the demands of the Eastern University staff and the long -standing demands for employees.
+
+More than one hundred Eastern University employees gathered this morning in front of the External Studies Center in Batticaloa in accordance with the Eastern University Employees Union and Eastern University Administrative Officers Association in accordance with trade union activities nationwide in the country's state universities in accordance with the decision of the All University Trade Union Federation.
 
 ...
 
 [Data](articles/749eab4d.json)
 
+[Extended Data](ext_articles/749eab4d.ext.json)
+
 ---
 
-### தமிழக கடற்தொழிலாளர்களின் அத்துமீறல்களை கண்டித்து யாழில் உணவு தவிர்ப்பு போராட்டம்
+### ජේතවනාරාම ස්තූපයේ පැළුම්වලින් විශාල හානියක් සිදුවීමේ අවදානමක්
+
+*2024-03-19 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194688) · `si`
+
+ලෝක උරුමයක් වූ අනුරාධපුර පූජා නගරයේ පිහිටි ජේතවනාරාම ස්තූපයේ ගර්භය තුළ පැළුම් විවරයන්ට සිදුකරන පිළියම් ඉතා මන්දගාමී තත්ත්වයක පවතින බව ජේතවනාරාම විහාරවාසී ස්වාමීන් වහන්සේ පැවසීය.
+
+උන්වහන්සේ පෙන්වා දෙන්නේ, 2016 වසරේදී හඳුනාගෙන ඇති මෙම පැළුම් සඳහා මෙතෙක් පිළියම් නොයෙදීමෙන් එහි පැමිණෙන වන්දනාකරුවන්ට අවදානම් තත්ත්වයක් නිර්මාණය වී ඇති බවය.
+
+ගඩොලින් පමණක් නිර්මාණය කරන ලද ලොව විශාලතම නිර්මාණය ලෙස සැලකෙන්නේ, අනුරාධපුර පූජා භූමියේ පිහිටා ඇති ජේතවනාරාම ස්තූපයයි.
+
+මුල් කාලයේ උසින් අඩින් 400ක් වූ මෙම චෛත්‍යයේ සලපතල මළුව අක්කර 8ක් දක්වා විහිදී පවතී.
+
+බෞද්ධ ඉතිහාසයට අනුව ක්‍රිස්තු වර්ෂ හතරවැනි සියවසේදී මහසෙන් රජතුමා, ගඩොලින් ඉදිකර ඇති මෙම ස්තූපය තුළ බුදුරජාණන් වහන්සේ පැළඳි ඉන පටියේ කොටසක් නිධන් කර තිබෙන බව පැවසෙයි.
+
+ලෝක උරුමයන් අතරින් සුවිශේෂී ස්ථානයක් හිමි කරගෙන ඇති ජේතවනාරාම ස්තූපයෙහි පැළුම් ඇති බවට පළමුවෙන්ම නිරීක්ෂණය වී ඇත්තේ 2016 වසරේ දීය.
+
+අදාළ නිලධාරීන් ස්තූපය නිරීක්ෂණය කර වසර 8ක් ගතවී තිබුණත් ඊට නිසි විසඳුමක් තවමත් ලැබී නොමැත.
+
+...
+
+[Data](articles/90f0e353.json)
+
+---
+
+### Food Avoidance Struggle in Jaffna
 
 *2024-03-19 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/179128) · `ta`
 
-இந்திய கடற்தொழிலாளர்களின்  அத்துமீறிய செயற்பாட்டை கண்டித்து யாழ் மாவட்ட கடற்தொழிலாளர்கள் இன்று செவ்வாய்க்கிழமை (19) உணவு தவிர்ப்பு போராட்டத்தை ஆரம்பித்துள்ளனர்.
+Jaffna fishermen protest food shortage in front of St. John Posco Vidyalaya, following evacuation of police.
 
-யாழ் மாவட்ட கிராமிய கடற்தொழில் அமைப்புக்களின் சம்மேளனமும், யாழ் மாவட்ட கடற் தொழில் கூட்டுறவு சங்கங்களின் சம்மேளனமும் இணைந்து  யாழ்ப்பாணம் புனித ஜோன் பொஸ்கோ வித்தியாலயத்திற்கு முன்பாக உணவு தவிர்ப்பு போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+🟩
 
-முன்னதாக இன்றைய தினம் காலை  மருதடி சந்தியில் இருந்து பேரணியாக யாழ் இந்திய துணைத் தூதரகம் நோக்கி சென்ற கடற்தொழிலாளர்கள்  துணைத் தூதரகம் முன்பாக போராட்டத்தில் ஈடுபட்டிருந்தனர்.
+The Jaffna District Fishermen launched a Food Avoidance Struggle on Tuesday (19).
 
-பின்னர் பொலிஸார் அங்கிருந்து வெளியேற்றியதை அடுத்து யாழ் புனித ஜோன் பொஸ்கோ வித்தியாலயத்திற்கு முன்பாக தமது உணவு தவிர்ப்பு போராட்டத்தை மேற்கொண்டு வருகின்றனர்.
+The Jaffna District Rural Fisheries Organizations Federation and the Jaffna District Fisheries Co -operative Societies Federation are engaged in a food protest in front of St. John Posco Vidyalaya in Jaffna.
+
+Earlier this morning, the fishermen who went to the Jaffna Indian Embassy to the Jaffna Indian Embassy were protesting in front of the consulate.
+
+Following the evacuation of the police, they are carrying out their food to avoid St. John Posco Vidyalaya in Jaffna.
 
 ◼️
 
 [Data](articles/18e2440a.json)
 
+[Extended Data](ext_articles/18e2440a.ext.json)
+
 ---
 
-### ලොව වඩාත් උසස් ගිලන් රථ සේවාවක් ලෙස 1990 සුවසැරිය නම් කරයි
+### The Wellness named 1990 as a most advanced ambulance service in the world
 
 *2024-03-19 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194687) · `si`
 
-1990 හදිසි ඇමතුම් අංකය ඔස්සේ මෙරට ක්‍රියාත්මක සුවසැරිය ගිලන්රථ සේවාව ඩිජිටල් තාක්ෂණය නොමිලේ උපයෝගි කරගනිමින්, නොමිලයේ සේවා සපයන ලොව වඩාත් උසස් ගිලන්රථ සේවාවක් ලෙස ලෝක බැංකුව මගින් හඳුන්වාදී තිබේ.
+The World Bank recognized Wellness Ambulance Service in Sri Lanka as the world's most advanced in 1990, introducing a free service. It's now the fastest response service globally, serving 1.8 million Sri Lankans since 2016. The service, initially government-run, is now a free private organization, with 63% of calls being special.
 
-ලෝක බැංකුව වැඩිදුරටත් පවසන්නේ ලොව ගිලන්රථ සේවා අතර වේගවත්ම ප්‍රතිචාර දක්වන සේවාවක් බවට සුවසැරිය ගිලන්රථ සේවාව පත්වී ඇති බවය.
+🟩
 
-ලෝක බැංකුවේ දකුණු ආසියානු කලාපීය නියෝජ්‍ය සභාපති මාර්ටින් රේසර් ලෝක බැංකුවේ නිල වෙබ් අඩවිය වෙත සුවසැරිය පිළිබඳ වාර්තාවක් ගොනු කර ඇත්තේ දකුණු ආසියාවේ දුප්පත්කම තුරන්කිරීමේ තේමාව යටතේය.
+The World Bank has introduced Digital Technology Service on the 1990 Calling Calling Skinmalai ambulance service in Sri Lanka with free ambural service.
 
-එම වාර්තාවේ දැක්වෙන පරිදි 2016 වසරේදී සුවසැරිය ගිලන් රථ සේවාව මෙරට හඳුන්වාදීමෙන් පසු මේ දක්වා මිලියන 1.8ක ශ්‍රී ලාංකිකයින් 1990 සුවසැරිය ගිලන්රථ සේවාව සමග සම්බන්ධවී ඇති බවය.
+The World Bank further states that the welcoh ambulance service has become a fastest response service between the world's ambitor services.
 
-එමෙන්ම ඇමතුමක් හා සම්බන්ධවී සාමාන්‍ය ලෙස විනාඩි 12ක කාලයක් ඇතුළත ගිලන්වු පුද්ගලයා ආසන්නයේ පිහිටි රෝහලක් වෙත හෝ සත්කාර මධ්‍යස්ථානයක් වෙත රැගෙන යාමට සුවසැරිය සමත්වී තිබේ.
+The South Asian Regional Deputy Chairman of the World Bank Martin Razer has filed a savage record to the official website of the World Bank's official website under the theme of the theme of poverty in South Asia.
 
-ඒ අනුව ලොව ගිලන්රථ සේවාවන් අතර වේගවත්ම ප්‍රතිචාර දක්වන සේවාවක් බවට සුවසැරිය නම්කර ඇති බවද ලෝක බැංකුව වාර්තාව මගින් පෙන්වාදෙයි.
+According to the report, 1.8 million Sri Lankans have been involved with the 1990 Million Sri Lankans since the introduction of the Wellness Ambulance service in 2016.
+
+Well has been taken to a hospital center near the a hospital, near the ambiguing person who is usually connected to a call.
+
+According to the report of the World Bank, the world has called a fastest response service between the world's ambitor.
 
 ...
 
 [Data](articles/6aaf9ccb.json)
+
+[Extended Data](ext_articles/6aaf9ccb.ext.json)
+
+---
+
+### Charitha Herath, Dayasiri, Marikkar too resign from COPE
+
+*2024-03-19 15:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Charitha-Herath-Dayasiri-Marikkar-too-resign-from-COPE/108-279166) · `en`
+
+Colombo, March 19 (Daily Mirror) - Members of Parliament Charitha Herath, Dayasiri Jayasekara and S. M. Marikkar have also resigned from the Committee on Public Enterprises (COPE) protesting against the appointment of ineligible members to the committee.
+
+Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne yesterday announced his decision to resign from the COPE.
+
+◼️
+
+[Data](articles/38fc2c1e.json)
 
 ---
 
@@ -118,43 +228,57 @@ Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne yesterday announced his decis
 
 [Data](articles/95caf6ef.json)
 
+[Extended Data](ext_articles/95caf6ef.ext.json)
+
 ---
 
-### කෝප් කමිටුවෙන් තවත් සාමාජිකයෙක් ඉල්ලා අස්වෙයි
+### Another member of the COPE committee resigns
 
 *2024-03-19 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194686) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණ පක්ෂය තුළින් පාර්ලිමේන්තුවට තේරීපත්වූ පාර්ලිමේන්තු මන්ත්‍රී චරිත හේරත් මහතා ද කෝප් කමිටුවෙන් ඉල්ලා අස්වී තිබේ.
+Charitha Herath, elected via Sri Lanka General Front, resigns from COPE Committee, following Dayasiri Jayasekara's resignation.
 
-ඒ බව සඳහන් කරමින් මන්ත්‍රීවරයා සිය නිල X ගිණුමේ සටහනක් තබා ඇත.
+🟩
 
-එසේම මෙම තීරණය සම්බන්ධයෙන් තමන් නිල වශයෙන් කථානායකවරයාට යොමුකර ඇති බව මන්ත්‍රීවරයා එහි වැඩිදුරටත් සඳහන් කර තිබේ.
+Parliamentarian Charitha Herath, who was elected to Parliament through the Sri Lanka General Front, has resigned from the COPE Committee.
 
-පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටුවේ සාමාජිකත්වයෙන් මීට පෙර සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ඉරාන් වික්‍රමරත්න, ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර යන මහත්වරුන් ඉල්ලා අස්විය.
+Speaking this, MP has placed his official X account.
+
+He has also officially referred to the Speaker of this decision.
+
+The membership of the Committee on Public Enterprises (COPE) has previously resigned from the Sri Lanka Appointment Dayasiri Jayasekara.
 
 ◼️
 
 [Data](articles/a8230206.json)
 
+[Extended Data](ext_articles/a8230206.ext.json)
+
 ---
 
-### පච්චයන් තිදෙනෙකු අත්අඩංගුවට
+### Three tickets arrested
 
 *2024-03-19 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194685) · `si`
 
-මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්වලට හා සංවිධානාත්මක අපරාධවලට සම්බන්ධ “කුප්‍රකට පච්චයන්“ ලෙස හදුන්වන අපරාධ කල්ලියක කාන්තාවක් හා පුද්ගලයන් දෙදෙනෙකු පොලිස් වි‍ශේෂ කාර්ය බළකාය මගින් අත්අඩංගුවට ගෙන තිබේ.
+"Three arrested by 'notorious tickets' gang in drug trafficking. Two 32, one 38, and one 34, from Gonapala. STF raid in Kandy. Handed to Kandy Police for investigation."
 
-විශේෂ කාර්ය බළකායේ මහනුවර කඳවුරේ නිලධාරීන් කණ්ඩායමක් විසින් මහනුවර, තබෝදාරාම පාර ප්‍රදේශයේ පිහිටි නවාතැන්පළක සිදුකළ වැටලීමකදී සැකකරුවන් අත්අඩංගුවට ගෙන ඇති බව වාර්තා වෙයි.
+🟩
 
-අත්අඩංගුවට ගෙන ඇත්තේ මොරටුව ප්‍රදේශයේ පදිංචි අවුරුදු 32, 38 යන වයස්වල පසුවන පුද්ගලයන් දෙදෙනෙකු සහ ගෝනපල ප්‍රදේශයේ පදිංචි 34 හැවිරිදි කාන්තාවකයි.
+A woman and two persons have been arrested by a criminal gang which is called "notorious tickets" involved in large-scale drug trafficking and organizational crimes.
 
-එහිදී එක්සත් ආරාබි එමීර් රාජ්‍යයේ ඩිනාර් හා මෙරට වලංගු මුදලින් රුපියල් ලක්ෂයකට ආසන්න මුදලක්, මෝටර් රථයක් සහ තවත් භාණ්ඩ රැසක් විශේෂ කාර්ය බළකා භාරයට ගෙන ඇති බවයි වාර්තා වෙයි.
+The suspects have been arrested following a raid in the Kandy camp group of the Special Task Force in the Kakodarama Road, Kandy.
 
-සැකකරුවන් වැඩිදුර විමර්ශණ කටයුතු සඳහා මහනුවර පොලිස් ස්ථානය වෙත භාර දී තිබේ .
+The arrested persons were two ages of 32, 38 years of age and a 34-year-old resident of Gonapala area.
+
+It is reported that the STIs have taken over Rs.
+
+The suspects have been handed over to the Kandy Police Station for further investigations.
 
 ◼️
 
 [Data](articles/541fdf11.json)
+
+[Extended Data](ext_articles/541fdf11.ext.json)
 
 ---
 
@@ -182,15 +306,21 @@ The plantation people have called for the Ceylon Electricity Board's regional te
 
 ---
 
-### දයාසිරිත් කෝප් කමිටුවෙන් ඉවත්වෙයි
+### Dayasiri also resigns from COPE
 
 *2024-03-19 15:01:06* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරිත්-කෝප්-කමිටුවෙන්-ඉවත්වෙයි/11-408703) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා කෝප් කමිටුවේ සාමාජිකත්වයෙන් ඉල්ලා අස්විම සම්බන්ධ ලිපිය කතානායක මහින්ද යාපා  අබේවර්ධන මහතා වෙත යොමු කර තිබේ. මීට පෙර සමගි ජන බලවේගයේ මන්ත්‍රී එරාන් වික්‍රමරත්න මහතා මහතාද කෝප් කමිටුවෙන් අද ඉල්ලා අස්විය.
+Dayasiri resigns from COPE, following Eran Wickramaratne's resignation.
+
+🟩
+
+Speaker Mahinda Yapa Abeywardena has sent the letter to resign from the Member of Committees MP Dayasiri Jayasekera.. Previously, MP Eran Wickramaratne resigned from the COPE Committee.
 
 ◼️
 
 [Data](articles/96d1c563.json)
+
+[Extended Data](ext_articles/96d1c563.ext.json)
 
 ---
 
@@ -273,6 +403,8 @@ Minister of Justice Wijeyadasa Rajapakshe said the opposition had not studied th
 ...
 
 [Data](articles/90adce15.json)
+
+[Extended Data](ext_articles/90adce15.ext.json)
 
 ---
 
@@ -442,15 +574,21 @@ In the future, every child in the country will be provided with the necessary ba
 
 ---
 
-### පොහොර සහනාධාරය යලටත් දෙයි
+### Letter of fertilizer subsidy
 
 *2024-03-19 14:21:24* · [`adalk`](https://www.ada.lk/breaking_news/පොහොර-සහනාධාරය-යලටත්-දෙයි/11-408702) · `si`
 
-2024 යල කන්නය වෙනුවෙන් වී ගොවීන් සඳහා හෙක්ටයාරයකට රු 15000 බැගින් උපරිමය හෙක්ටයාර දෙකක් දක්වා පොහොර සහනාධාරය ලබාදීමට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමිව තිබේ. මෙම මුදල් සෘජුවම ගොවීන්ගේ ගිණුම් වෙත බැර කරන බව රජය නිවේදනය කරයි.
+The government has approved a fertilizer subsidy of Rs. 2000 per farmer, to be directly credited to their accounts.
+
+🟩
+
+The Cabinet approval has been given to two weight of Rs.. The government announces that this money is directly credited to farmers.
 
 ◼️
 
 [Data](articles/fd274485.json)
+
+[Extended Data](ext_articles/fd274485.ext.json)
 
 ---
 
@@ -802,15 +940,25 @@ The advice on these teams was held at the Police Field Force Headquarters, and t
 
 ---
 
-### සිංහරාජයේ සද්ධන්තයෙක් අතුරුදන්
+### Sithwardant, Sithward, Missing
 
 *2024-03-19 13:17:38* · [`adalk`](https://www.ada.lk/breaking_news/සිංහරාජයේ-සද්ධන්තයෙක්-අතුරුදන්/11-408699) · `si`
 
-දැනට වසරක පමණ කාලයක සිට සිංහරාජය වනාන්තරය ආශ්‍රිතව ජීවත්වන අලීන් දෙදෙනාගෙන් දැනට නිරීක්ෂණය වන්නේ එක අලියකු පමණක් බව සිංහරාජ වන ජීවී කාර්‍යාලයේ වනජීවී නිලධාරී සරත් විජේතුංග මහතා ප්‍රකාශ කළේය .
+Sinharaja Wildlife Sarath Wijetunga reported two elephants missing in the Sinharaja forest for nearly a year, with only one collared elephant observed. The Committee Meeting of the Talawana Committee discussed the situation.
+
+🟩
+
+The Sinharaja Federation of Wildlife Sarath Wijesunga said that the two elephants are currently being observed at the Sinharaja forest to about one year.
+
+He was speaking at the meeting of the Commission to the Commission.Speaking further - Sinharaja Wildlife Sarath Wijetunga said that "for nearly a year, we are observed in the Sinharaja forest.. Only the elephant is the collar. The other elephant has not been given to us or the locals in the area. The two elephants were living in the Sinharaja forest. The penetrates of the collar plants we see are currently demonstrating.. A time ago, the Segunja lodged and three rankings in Sinharaja and inscriptions, only one own existence is displayed. About the elephant that is currently missing. Coffee pieces are keeping the vicinity of the wildlife office. Wijetunga said.
+
+The Committee Meeting of the Talawana Committee Janaka Wakkumbura, MP, Janaka Wakkumbura, Main Meeting of Palas, and Tamakaana.
 
 ...
 
 [Data](articles/324c481e.json)
+
+[Extended Data](ext_articles/324c481e.ext.json)
 
 ---
 
@@ -2135,101 +2283,5 @@ The test proceedings will take place today in the presence of the judge where th
 [Data](articles/e05dc317.json)
 
 [Extended Data](ext_articles/e05dc317.ext.json)
-
----
-
-### There is a warm situation in Parliament
-
-*2024-03-19 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194667) · `si`
-
-TNA MPs protest against arrest in Vavuniya, leading to Parliamentary disruption and suspension.
-
-🟩
-
-A group of Tamil National Alliance MPs protest against the arrest of a group of persons who were conducting a sacred area of a Hindu Kovil in Vavuniya.
-
-The Deputy Speaker of Parliament commenced today (19th) commenced today.
-
-As a result, the coalition was interrupted several minutes, and the TNA MPs were suspended after the report of the incident.
-
-◼️
-
-[Data](articles/b17a6187.json)
-
-[Extended Data](ext_articles/b17a6187.ext.json)
-
----
-
-### Tuition of teachers in the South also prohibited tuition
-
-*2024-03-19 10:09:43* · [`adalk`](https://www.ada.lk/breaking_news/දකුණේ-ගුරුවරුන්ටත්-තම-පාසලේ-සිසුන්ට-ටියුෂන්-දීම-තහනම්/11-408689) · `si`
-
-The Ministry of Education has banned teachers in the Southern Province from offering private tuition, as per a new circular. This move aims to ensure all school children's education is conducted within the school premises, with disciplinary actions for non-compliance.
-
-🟩
-
-The Ministry of Education has issued a new circular for banning the teachers of schools in the Southern Province to conduct personal tutors for students studying.
-
-The circular was issued with the signature of the Secretary to the Ministry of Education Ranjith Yapa to the Provincial Director of Education and All Regional Directors and Principals.
-
-School teachers have previously issued private tuition services in addition to the instructions of the Ministry of Education, teachers in the Southern Province students have been charged in various external places to meet their school hours and public holidays.The private instant classes are banned.
-
-The circular has been made aware of the new policy decision and to obtain a certificate of teachers in all schools in the Southern Province.
-
-This law has also provided the information to Zonal Directors to the Directors of Education to take disciplinary action for teachers who do not go to teachers.
-
-...
-
-[Data](articles/8dac8b8f.json)
-
-[Extended Data](ext_articles/8dac8b8f.ext.json)
-
----
-
-### Is It Religious Extremism & Propagated For What?
-
-*2024-03-19 09:51:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-it-religious-extremism-propagated-for-what/) · `en`
-
-I came across a touching post in Sinhala on Facebook page of Srimathi Walpola, dated March 13, 2024 which I give below in English with the help of Google Converter and AI correction.
-
-Quote – I presented a creative  version of PATACHARA to a gang of so called Buddhists who out of ‘Patriotic Panic’ accused me of defaming. True. Being naked is magic, a video that needs to be watched in hiding. A thing that everyone knows, they call it ‘secret‘ and if PATACHARA is confronted, she would be auctioned!!
-
-For many, religion means Merits and Demerits, filling tilts with the hope of ending up in Heavan. Women devotees offer Necklaces, Earrings, land and build concrete structures. Stanzas is chanted in a country without knowing how to live as per meaning of the contents. They conduct religious rituals extravagantly where devotion is sold at a price!! while crimes, corruption, murders are rampant.
-
-...
-
-[Data](articles/168ab7fa.json)
-
----
-
-### The South Asian Enigma: Why We Die More & Die Early From Heart Disease
-
-*2024-03-19 09:47:34* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-south-asian-enigma-why-we-die-more-die-early-from-heart-disease/) · `en`
-
-Across all ethnicities, heart disease is a common threat, but South Asians seem to bear a particularly heavy burden, experiencing it disproportionately more and at a younger age. This vulnerability went largely unnoticed due to the lack of tracking systems and long-term observational studies. However, through the observation of South Asian migrants compared to native populations in Western countries and subsequent comparisons with those back home, we’ve uncovered the fact that we pose the highest vulnerability to heart disease.
-
-Fortunately, strides are being made. In 2010, the first large prospective population study began in the USA, The MASALA Study( the Mediators of Atherosclerosis in South Asians Living in America) initially focusing on professionals on the west coast but now including people from all walks of life on the East coast.
-
-...
-
-[Data](articles/a38a310b.json)
-
----
-
-### Special notice for schools yet to receive textbooks and uniform materials
-
-*2024-03-19 09:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98042/special-notice-for-schools-yet-to-receive-textbooks-and-uniform-materials) · `en`
-
-The Education Ministry has issued a special notice for all government schools that are yet to receive textbooks and uniform materials for the academic year 2024.
-
-Accordingly, the principals of such schools are instructed to inform the Education Ministry at the earliest possible via the following contact details:
-
-The Education Ministry says textbooks and uniform materials have already been handed over to all Divisional Education Offices across the island to be distributed to all schools.
-
-◼️
-
-[Data](articles/95b8b702.json)
-
-[Extended Data](ext_articles/95b8b702.ext.json)
 
 ---

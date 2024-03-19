@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 08:33:33**
+As of **2024-03-19 08:50:54**
 
 ## Newspaper Stats
 
-*Scraped **13,721** Articles*
+*Scraped **13,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 727
 islandlk | 759
 adalk | 1,179
 adaderanalk | 1,646
-tamilmirrorlk | 1,666
+tamilmirrorlk | 1,667
 virakesarilk | 1,916
 dailymirrorlk | 2,095
 adaderanasinhalalk | 2,180
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,180
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,721 (100.0%) of 13,721 articles have been extended.
+13,721 (100.0%) of 13,722 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -307,6 +307,20 @@ It is reported that others who were remanded along with Mr. Rambukwella were tra
 [Data](articles/2e378678.json)
 
 [Extended Data](ext_articles/2e378678.ext.json)
+
+---
+
+### விவசாயிகளை சந்தித்தார் ஜனாதிபதி
+
+*2024-03-19 02:19:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளை-சந்தித்தார்-ஜனாதிபதி/175-334847) · `ta`
+
+அரை ஏக்கர் மிளகாய் பயிரிட்டு ஒன்பது மாதங்களில் 12 மில்லியன் ரூபா வருமானம் ஈட்டிய அநுராதபுரம், திரப்பனை, புளியங்குளம் கிராமத்தைச் சேர்ந்த இளம் விவசாயி பந்துல முனசிங்க மற்றும் ஒரு ஏக்கர் தர்பூசணி பயிரிட்டதன் மூலம் இரண்டு மாதங்களில் 4 மில்லியன் ரூபா வருமானம் பெற்ற கல்குளம பிரதேசத்தைச் சேர்ந்த இளம் விவசாயி புத்திக சுதர்ஷன ஜனாதிபதி அலுவலகத்தில் நேற்று ஜனாதிபதி ரணில் விக்கிரமசிங்கவைச் சந்தித்தனர்.
+
+அத்துடன், வளமான விளைச்சலைப் பெறுவதற்கு வழிகாட்டி அரசாங்கத்தின் விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தை நடைமுறைப்படுத்தியமைக்காக ஜனாதிபதிக்கு அவர்கள் நன்றி தெரிவித்தனர். (a)
+
+◼️
+
+[Data](articles/347dfc09.json)
 
 ---
 
@@ -2217,23 +2231,5 @@ Katukurundara Arachchige Kaviyaka Karrachi, Horangalla, Teacher, died while rece
 [Data](articles/ef3c1bae.json)
 
 [Extended Data](ext_articles/ef3c1bae.ext.json)
-
----
-
-### CEB introduces new installment scheme to obtain electricity connections
-
-*2024-03-18 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98030/ceb-introduces-new-installment-scheme-to-obtain-electricity-connections) · `en`
-
-The Ceylon Electricity Board (CEB) has introduced a special electricity connection scheme for small and medium-scale enterprises and residences, where they will pay 25% as down payment and the balance in installments.
-
-Earlier this month, Minister of Power and Energy Kanchana Wijesekera had said that electricity consumers would be allowed to make the payments for their new connections on an installment basis, where they will be able to pay 25% of the connection fee upfront and the remaining amount within 10 or 12 installments.
-
-Speaking in Parliament, he had said that the CEB’s Board of Directors has also green-lighted this endeavor.
-
-◼️
-
-[Data](articles/485ac1bc.json)
-
-[Extended Data](ext_articles/485ac1bc.ext.json)
 
 ---

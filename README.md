@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 15:51:29**
+As of **2024-03-19 16:03:06**
 
 ## Newspaper Stats
 
-*Scraped **13,840** Articles*
+*Scraped **13,845** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,76 @@ bbccomsinhala | 153
 dbsjeyarajcom | 188
 newsfirstlk | 363
 dailyftlk | 727
-economynextcom | 730
+economynextcom | 732
 islandlk | 760
 adalk | 1,195
 adaderanalk | 1,662
 tamilmirrorlk | 1,682
-virakesarilk | 1,931
-dailymirrorlk | 2,115
+virakesarilk | 1,933
+dailymirrorlk | 2,116
 adaderanasinhalalk | 2,203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,831 (99.9%) of 13,840 articles have been extended.
+13,831 (99.9%) of 13,845 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### Speaker’s endorsement required to ensure a Sri Lanka law is ‘duly passed’: Sumanthiran
+
+*2024-03-19 15:54:00* · [`economynextcom`](https://economynext.com/speakers-endorsement-required-to-ensure-a-sri-lanka-law-is-duly-passed-sumanthiran-155209/) · `en`
+
+ECONOMYNEXT – A speaker’s endorsement is required for bills passed by parliament to ensure that it is ‘duly passed’ opposition legislator M A Sumanthiran said in a debate on a no confidence motion against Speaker Mahinda Abeywardana.
+
+The opposition said several clauses in a so-called online safety bill (now Act) to police social media were against the constitution, as the bill did not incorporate the changes required by the Supreme Court.
+
+“This is the first time that a Supreme Court determination on a bill has  been blatantly violated by parliament,” Sumanthiran said.
+
+There is no post-enactment judicial review of passed laws in Sri Lanka. There has been growing concerns that ruling governments are slipping through unconstitutional clauses in to laws in the so-called ‘committee stage’.
+
+Sumanthiran said he went to court against the online safety bill and court did not give leave to proceed as the speaker had already endorsed it.
+
+...
+
+[Data](articles/e6705b8b.json)
+
+---
+
+### மட்டக்களப்பில் கிழக்குப் பல்கலைக்கழக ஊழியர்கள் ஆர்ப்பாட்டம்
+
+*2024-03-19 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/179130) · `ta`
+
+கிழக்கு பல்கலைக்கழக ஊழியர்களின் சம்பளப் பிரச்சினை மற்றும் ஊழியர்களுக்கு நீண்ட நாட்களாக தீர்க்கப்படாதுள்ள கோரிக்கைகளுக்கு தீர்வு கோரி இன்று செவ்வாய்க்கிழமை (19) மட்டக்களப்பு அரசடியிலுள்ள கிழக்குப் பல்கலைக்கழக வெளிவாரி கற்கைகள்  நிலையம் முன்பாக ஆர்ப்பாட்டத்தில் ஈடுபட்டனர்.
+
+அனைத்துப் பல்கலைக்கழக தொழிற்சங்க கூட்டமைப்பின் தீர்மானத்திற்கு  இணங்க நாட்டில் உள்ள அரச பல்கலைக்கழகங்களில் நாடளாவிய ரீதியில் முன்னெடுக்கப்படும் தொழிற்சங்க நடவடிக்கைகளுக்கு அமைவாக கிழக்குப் பல்கலைக்கழக ஊழியர் சங்கம் மற்றும் கிழக்குப் பல்கலைக்கழக நிருவாக உத்தியோகத்தர்கள் சங்கம் இணைந்து  மட்டக்களப்பில் வெளிவாரி கற்கைகள்  நிலைய முன்பாக நூற்றுக்கு மேற்பட்ட கிழக்குப் பல்கலைக்கழக ஊழியர்கள் இன்று காலை ஒன்றினைந்தனர்.
+
+...
+
+[Data](articles/749eab4d.json)
+
+---
+
+### தமிழக கடற்தொழிலாளர்களின் அத்துமீறல்களை கண்டித்து யாழில் உணவு தவிர்ப்பு போராட்டம்
+
+*2024-03-19 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/179128) · `ta`
+
+இந்திய கடற்தொழிலாளர்களின்  அத்துமீறிய செயற்பாட்டை கண்டித்து யாழ் மாவட்ட கடற்தொழிலாளர்கள் இன்று செவ்வாய்க்கிழமை (19) உணவு தவிர்ப்பு போராட்டத்தை ஆரம்பித்துள்ளனர்.
+
+யாழ் மாவட்ட கிராமிய கடற்தொழில் அமைப்புக்களின் சம்மேளனமும், யாழ் மாவட்ட கடற் தொழில் கூட்டுறவு சங்கங்களின் சம்மேளனமும் இணைந்து  யாழ்ப்பாணம் புனித ஜோன் பொஸ்கோ வித்தியாலயத்திற்கு முன்பாக உணவு தவிர்ப்பு போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+
+முன்னதாக இன்றைய தினம் காலை  மருதடி சந்தியில் இருந்து பேரணியாக யாழ் இந்திய துணைத் தூதரகம் நோக்கி சென்ற கடற்தொழிலாளர்கள்  துணைத் தூதரகம் முன்பாக போராட்டத்தில் ஈடுபட்டிருந்தனர்.
+
+பின்னர் பொலிஸார் அங்கிருந்து வெளியேற்றியதை அடுத்து யாழ் புனித ஜோன் பொஸ்கோ வித்தியாலயத்திற்கு முன்பாக தமது உணவு தவிர்ப்பு போராட்டத்தை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/18e2440a.json)
+
+---
 
 ### ලොව වඩාත් උසස් ගිලන් රථ සේවාවක් ලෙස 1990 සුවසැරිය නම් කරයි
 
@@ -51,6 +103,20 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/6aaf9ccb.json)
+
+---
+
+### Charitha Herath, Dayasiri too resign from COPE
+
+*2024-03-19 15:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Charitha-Herath-Dayasiri-too-resign-from-COPE/108-279166) · `en`
+
+Colombo, March 19 (Daily Mirror) - Members of Parliament Charitha Herath and Dayasiri Jayasekara have also resigned from the Committee on Public Enterprises (COPE) protesting against the appointment of ineligible members to the committee.
+
+Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne yesterday announced his decision to resign from the COPE.
+
+◼️
+
+[Data](articles/95caf6ef.json)
 
 ---
 
@@ -187,6 +253,26 @@ The letter has been sent to Speaker Mahinda Yapa Abeywardena. United People's Po
 [Data](articles/15ec2d2b.json)
 
 [Extended Data](ext_articles/15ec2d2b.ext.json)
+
+---
+
+### No confidence motion against Sri Lanka Speaker taken up in parliament
+
+*2024-03-19 14:53:00* · [`economynextcom`](https://economynext.com/no-confidence-motion-against-sri-lanka-speaker-taken-up-in-parliament-155205/) · `en`
+
+ECONOMYNEXT – Speaker Mahinda Yapa Abeywardena had ignored opposition protests and a Supreme Court ruling when passing the Online Safety Bill, chief opposition whip Lakshman Kiriella charged in parliament.
+
+Kiriella’s party, the Samagi Jana Balawegaya (SJB), took up its no-confidence motion against the speaker on Tuesday.
+
+Clauses that required a two thirds majority if they were not amended as per the Supreme Court ruling, were passed by a simple majority without the amends, Kiriella claimed. “He ignored calls for a division and approved the third reading without a vote.”
+
+Minister of Justice Wijeyadasa Rajapakshe said the opposition had not studied the approved Bill carefully, as it would become evident that the changes found to be in violation of clause 12.1 of the Constitution had been amended or removed altogether.
+
+“4 of the 9 charges you make have one shortcoming, pertaining to repeat offenders, which has been amended by the Attorney General and sent to be gazetted,” Rajapaksa said.
+
+...
+
+[Data](articles/90adce15.json)
 
 ---
 
@@ -2145,105 +2231,5 @@ The Education Ministry says textbooks and uniform materials have already been ha
 [Data](articles/95b8b702.json)
 
 [Extended Data](ext_articles/95b8b702.ext.json)
-
----
-
-### A house was completely burnt by a fire that spread inside Mannar
-
-*2024-03-19 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179086) · `ta`
-
-A fire in Mannar's Pattittam area on Monday (18) at 4 pm, caused by a forest fire in the Mannar police station, led to a house being completely burnt. Civilians, local officials, and firefighters from the Mannar Urban Council responded, with efforts to minimize damage.
-
-🟩
-
-The forest in the Mannar police station has suddenly burned a wide range of Panangadu and a house has been completely preyed.
-
-The incident took place on Monday (18) at 4 pm at the Pattittam area under the Mannar Nagar Divisional Secretariat.
-
-On Monday evening (18), when the fire broke out in the Mannar Pattiyottam area, the civilians rushed to the spot, the nearest navy and the Mannar Divisional Secretary M. Pradeepan, Mannar Disaster Management Director Deepan and the Secretary of the Mannar City Council..
-
-It is reported that the firefighters of the Mannar Urban Council have been in the process of not causing heavy damage due to the arrival of the incident within a certain time.
-
-◼️
-
-[Data](articles/b0ffe6a7.json)
-
-[Extended Data](ext_articles/b0ffe6a7.ext.json)
-
----
-
-### The monk who has been ease of ease of pan
-
-*2024-03-19 09:44:36* · [`adalk`](https://www.ada.lk/breaking_news/පැන්-පහසවූ-තබ්බෝවටම-බිලිවූ-හිමිනමක්/11-408688) · `si`
-
-A monk, identified as Kaggala Thalaatuduwa, was found dead in the Morsalawa Reservoir, near Tabbowa Reservoir in Karuwalagaswewa. He was traveling with other monks from Vanathawilluwa.
-
-🟩
-
-Karuwalagaswewa Police say that the Morsalawa reservoir is killed in the Tabbowa Reservoir of Tabbowa reservoir in the Karuwalagaswewa reservoir.
-
-Police say that the 29-year-old Kaggala Thalaatuduwa resting address is a name of the 29-year-old Kaggala.
-
-The monk is said to say that the monk has been increased from a van with other monks from Vanathawilluwa.
-
-◼️
-
-[Data](articles/8edeadfe.json)
-
-[Extended Data](ext_articles/8edeadfe.ext.json)
-
----
-
-### Schools which have not received textbooks, uniforms urged to notify authorities
-
-*2024-03-19 09:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Schools-which-have-not-received-textbooks-uniforms-urged-to-notify-authorities/108-279141) · `en`
-
-Colombo, March 19 (Daily Mirror) - The Education Ministry today requested all school principals to inform them if their schools have not received school text books and uniform fabric for 2024 yet.
-
-While issuing a notice, the Ministry said that school text books and uniform fabric have been despatched to all government schools through Divisional Education Offices in the island for distribution to all schools.
-
-The Education Ministry requests the principals of any schools that have not received the their text books and uniforms to inform them immediately through the following telephone, fax or email.
-
-◼️
-
-[Data](articles/24c8f3d1.json)
-
----
-
-### Sri Lanka rupee opens at 303.90/304.05 to the US dollar
-
-*2024-03-19 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-303-90-304-05-to-the-us-dollar-155108/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 303.90/304.05 to the US dollar in the spot forex market on Tuesday, slightly stronger from 304.35/50 on Monday, dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 was quoted stable at 11.30/40 percent.
-
-A bond maturing on 15.12.2028 was quoted down at 12.05/15 percent from 12.07/12.15 percent.
-
-The Colombo Stock Exchange opened down; the All Share Price Index was down 0.03 percent at 11,317, and the S&P Sl20 was up 0.03 percent at 3,238. (Colombo/Mar19/2024)
-
-◼️
-
-[Data](articles/3d8ec5d1.json)
-
-[Extended Data](ext_articles/3d8ec5d1.ext.json)
-
----
-
-### School which have not received textbooks, uniforms urged to notify authorities
-
-*2024-03-19 09:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/School-which-have-not-received-textbooks-uniforms-urged-to-notify-authorities/108-279141) · `en`
-
-Colombo, March 19 (Daily Mirror) - The Education Ministry today requested all school principals to inform them if their schools have not received school text books and uniform fabric for 2024 yet.
-
-While issuing a notice, the Ministry said that school text books and uniform fabric have been despatched to all government schools through Divisional Education Offices in the island for distribution to all schools.
-
-The Education Ministry requests the principals of any schools that have not received the their text books and uniforms to inform them immediately through the following telephone, fax or email.
-
-◼️
-
-[Data](articles/83c64ba8.json)
-
-[Extended Data](ext_articles/83c64ba8.ext.json)
 
 ---

@@ -1,36 +1,90 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 13:18:01**
+As of **2024-03-19 13:33:28**
 
 ## Newspaper Stats
 
-*Scraped **13,794** Articles*
+*Scraped **13,799** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 129
-bbccomsinhala | 152
+bbccomsinhala | 153
 dbsjeyarajcom | 188
 newsfirstlk | 363
 economynextcom | 726
 dailyftlk | 727
 islandlk | 760
 adalk | 1,190
-adaderanalk | 1,659
+adaderanalk | 1,660
 tamilmirrorlk | 1,677
 virakesarilk | 1,924
-dailymirrorlk | 2,107
+dailymirrorlk | 2,110
 adaderanasinhalalk | 2,192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,786 (99.9%) of 13,794 articles have been extended.
+13,794 (100.0%) of 13,799 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### Cricket Australia postpones Afghan T20 series
+
+*2024-03-19 13:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cricket-Australia-postpones-Afghan-T20-series/108-279160) · `en`
+
+Mar. 19 (cricket.com.au) - Cricket Australia has again postponed a bilateral series against Afghanistan, scheduled for August, citing deteriorating human rights for women and girls in the country under Taliban rule.
+
+A three-match T20 series against Afghanistan scheduled for August under the ICC's Future Tours Program has been "postponed". The series was due to be hosted by Afghanistan, with matches expected to be played in the UAE.
+
+This marks the third time CA has declined to play Afghanistan since the Taliban seized control of the Asian nation in September 2021 and immediately placed restrictions on female participation in sport, which CA condemned.
+
+CA previously cancelled a one-off Test match against Afghanistan that was scheduled to be played in Hobart in November 2021.
+
+In early 2023, CA withdrew from a three-match ODI series due to be played in the UAE in March that year.
+
+...
+
+[Data](articles/0671883b.json)
+
+---
+
+### AKD, Japanese envoy discuss Sri Lanka’s economic situation and upcoming prez poll
+
+*2024-03-19 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98051/akd-japanese-envoy-discuss-sri-lankas-economic-situation-and-upcoming-prez-poll) · `en`
+
+MP Anura Kumara Dissanayake, the leader of National People’s Power (NPP) has met with Mizukoshi Hideaki, the Japanese Ambassador to Sri Lanka, at the JVP head office on Tuesday morning (March 19).
+
+Katsuki Kotaro, the Deputy Head of the Japanese Embassy in Colombo; Imai Kaori, the Second Secretary of the Japanese Embassy; and NPP MP Vijitha Herath, the National Executive Member of National People’s Power, were also in attendance at this meeting.
+
+Taking to his X handle (formerly Twitter), the NPP leader said the focus of the meeting fell on Sri Lanka’s current economic and political situations as well as the upcoming presidential election.
+
+“The position of the National People’s Power regarding the intervention of the International Monetary Fund was explained to the Japanese diplomatic representatives, and the Japanese delegation emphasized Japan’s readiness to continue investing in Sri Lanka,” Dissanayake said further in his post.
+
+◼️
+
+[Data](articles/b02bdafc.json)
+
+---
+
+### Central Bank has no powers to increase salaries without Parliament approval: Wijeyadasa
+
+*2024-03-19 13:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-has-no-powers-to-increase-salaries-without-Parliament-approval-Wijeyadasa/108-279159) · `en`
+
+Parliament, March 19 (Daily Mirror)- The Central Bank has no powers to increase the salaries of its employees without the approval of Parliament in terms of the Constitution and the move to increase their salaries is wrong, Justice Minister Wijeyadasa Rajapakshe said today.
+
+He told Parliament that Parliament has powers over Public Finance in terms of the Constitution and that the Central Bank cannot increase the salaries of its employees without Parliamentary approval.
+
+The Minister said the claim by the Central Bank that it has the independence to take decisions in terms of the new Central Bank Act is wrong as any Act must come under the Constitution.
+
+...
+
+[Data](articles/e9645b60.json)
+
+---
 
 ### Sapugaskanda refinery to operate as a separate public enterprise
 
@@ -50,43 +104,63 @@ The facility, which is the only oil refinery in Sri Lanka, was established in 19
 
 [Data](articles/1a7dc01a.json)
 
+[Extended Data](ext_articles/1a7dc01a.ext.json)
+
 ---
 
-### யாழில் கல்லூரி வீதிக்கு ரயில் கடவை பொருத்துமாறு கோரிக்கை
+### Request to fit the train shop to college road in Jaffna
 
 *2024-03-19 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179108) · `ta`
 
-யாழ்ப்பாணம், காங்கேசன்துறை நடேஸ்வரா கல்லூரிக்கு அருகில் உள்ள கல்லூரி வீதி அண்மையில் இராணுவ கட்டுப்பாட்டில் இருந்து முழுமையாக விடுவிக்கப்பட்டு அப்பகுதியில் உள்ள மக்களின் காணிகளும் விடுவிக்கப்பட்டுள்ளது.
+The Railway Department is urged to install a railway crossing and signal lamp on College Road near Nadeswara College in Jaffna, following the release of the area from military control. The community demands immediate action as the land is now available for resettlement.
 
-இந்நிலையில் நடேஸ்வரா கல்லூரிக்கு அருகில் உள்ள கல்லூரி வீதியில் உள்ள ரயில் கடவைக்கு கதவு பொருத்துமாறும் அங்கு பொருத்தப்பட்டுள்ள சமிக்ஞை விளக்கையும் இயங்க செய்ய ரயில்வே திணைக்களம் நடவடிக்கை எடுக்க வேண்டும் என மக்களும் பாடசாலை சமூகத்தினரும் கோரிக்கை விடுத்துள்ளனர்.
+🟩
 
-முன்பு இங்கு ரயில் தண்டவாளம் அமைக்கும் போது கல்லூரி வீதி கடவைக்கு கடவைக்கதவு அமைப்பதற்கு ஏற்ற வசதிகள் செய்யப்பட்ட போதும் இப்பகுதி இராணுவ கட்டுப்பாட்டில் இருந்ததால் மக்கள் பயன்பாடு இல்லாததால் அமைக்கப்படவில்லை.
+The college road near the Kankesanthurai Nadeswara College, Jaffna has recently been completely released from military control and the lands in the area have been released.
+
+In this case, the people and the school community have demanded that the Railway Department take steps to run the door to the railway crossing on the college road near Nadeswara College and to run the signal lamp.
+
+Earlier, when the railway station was built, the college road was provided with facilities to build a cross -border, but the area was under military control and was not set up due to lack of use.
+
+However, instead of this usual cross, the 515th Brigade was set up in front of the road they used by the army.. However, the route used by the military is a public land. As the army has recently handed over the land of the people, the railway department officials must rush to work on the railway door and fit the signal lamp in the college road.
 
 ...
 
 [Data](articles/3e960c99.json)
 
+[Extended Data](ext_articles/3e960c99.ext.json)
+
 ---
 
-### பங்களாதேஸ் பாக்கிஸ்தான் இந்தியாவில் வளிமாசடைதல் மிகவும் ஆபத்தான நிலையில் - உலக சுகாதாரஸ்தாபனம்
+### Bangladesh Pakistan is very dangerous in India - world healthcare
 
 *2024-03-19 12:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179107) · `ta`
 
-இந்தியா பாக்கிஸ்தான் பங்களாதேசில் வாளி மோசமாக மாசடைந்துள்ளதை வெளிப்படுத்தும் புதிய ஆய்வு வெளியாகியுள்ளது.
+A study shows India's air pollution is severe, with PM2.5 levels in Pakistan at 79.9 micrograms and in Bangladesh at 73.7 micrograms, exceeding WHO's safe limit. Bangladesh ranked 5th and 8th in pollution in 2022. Dhaka's experts suggest spending 4-5% of GDP on health services. New Delhi faced a dangerous air pollution level last year, similar to China's five-year pollution crisis. Countries like Australia, New Zealand, Estonia, and Finland meet WHO standards.
 
-உலக சுகாதாரஸ்தாபனம் வெளியிட்டுள்ள இந்த ஆய்வின்படி 2023 இல் உலகில் அதிகளவு வளிமாசடைந்த நாடுகளில் ஒன்றாக  பாக்கிஸ்தான் காணப்பட்டுள்ளது.
+🟩
 
-நுரையீரல்களிற்கு பாதிப்பபை ஏற்படுத்தும் காற்றில் காணப்படும்; சிறிய துகள்களான பிஎம்2.5 இன் அளவு பாக்கிஸ்தானில் 79.9 மைக்கிரோகிராமா காணப்பட்டுள்ளது- பங்களாதேசில் இது 73.7 வீதமாக காணப்படுகின்றது.
+A new study has revealed that India is poorly polluted in Bangladesh in Bangladesh.
 
-வளிமண்டலத்தில் இத்தகைய பொருட்கள்5 மைக்கிரோகிராமிற்கு மேல் காணப்பட்டால் அதனால் பாதிப்புகள் ஏற்படலாம் என உலக சுகாதார ஸ்தாபனம் தெரிவித்துள்ளது.
+According to a study published by World Health, Pakistan was one of the most popular countries in the world in 2023.
 
-தென்னாசியாவின் காலநிலை மற்றும் புவியியல் அமைவிடம் காரணமாக  இந்த பிஎம்2.5 என்ற துகள்கள் காணப்படுகின்றன என சுவிட்சர்லாந்தை சேர்ந்த வளிகண்காணிப்பை அமைப்பை சேர்ந்த கிறிஸ்டி  தெரிவித்துள்ளார்.
+Found in the air that affects the lungs;The size of the small particles, such as BM 2.5, is found in Pakistan 79.9 micrograms- it is 73.7 percent in Bangladesh.
 
-மாசு செல்வதற்கு இடமில்லாதது ஒரு காரணம் என தெரிவித்துள்ள அவர் விவசாய செயற்பாடுகள் கைத்தொழில் மற்றும் பொதுமக்கள் நெரிசலான விதத்தில் வாழ்வதும் இதற்கு காரணம் என தெரிவித்துள்ளார்.
+The World Health Organization said that such products in the atmosphere can be affected if more than 5 micrograms can be affected.
+
+This BM 2.5 particles are found due to the climate and geographical location of South Asia, Christie of the Switzerland's Erukkanapatti organization said.
+
+He said that the lack of pollution is one of the reasons for the agricultural activities and the public is living in crowded.
+
+He added that changes may occur only after this situation has worsened.
+
+It is noteworthy that Bangladesh was ranked fifth and 8th in the list of countries that were polluted in 2022.
 
 ...
 
 [Data](articles/8d66b9d5.json)
+
+[Extended Data](ext_articles/8d66b9d5.ext.json)
 
 ---
 
@@ -112,41 +186,67 @@ Basil Rajapaksa claimed that even Namal had bought the book from a bookshop. The
 
 [Data](articles/fc09d3ae.json)
 
+[Extended Data](ext_articles/fc09d3ae.ext.json)
+
 ---
 
-### ඉංගිරියේ ගවයින් ඇහැළියගොඩින් මතුවෙයි
+### Eheliyagoda emerges from cattle in English
 
 *2024-03-19 12:34:53* · [`adalk`](https://www.ada.lk/breaking_news/ඉංගිරියේ-ගවයින්-ඇහැළියගොඩින්-මතුවෙයි/11-408696) · `si`
 
-ඉංගිරිය ප්‍රදේශයේ සිට අතුරුදහන්වූ බවට පැමිණිලි ලැබී තිබූ ගවයින් හත් දෙනෙකු අතුරින් සිව් දෙනෙකු
+Eheliyagoda police informed Ingiriya Police about missing cows. Ingiriya Police alerted the Chief Inspector of Police, who is investigating the incident.
 
-ඉංගිරිය පදිංචි ගව හිමියෙකුට අයත් ගවයින් සත් දෙනෙකු මෙලෙස නැතිවී තිබූ අතර, ගව හිමියාට ලැබුණු
+🟩
 
-තොරතුරක් මත ඔහු ඉංගිරිය පොලිසිය ඒ සම්බන්ධයෙන් දැනුවත් කිරීමට ක්‍රියා කර ඇත.
+Four of seven cows received from Ingiriya to disappeared
 
-පසුව ඉංගිරිය පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක වසන්ත චන්ද්‍රලාල් මහතාගේ මැදිහත්වීම මත ඇහැළියගොඩ පොලිසිය මේ සම්බන්ධයෙන් දැනුවත් කිරීමට කටයුතු කර ඇති අතර, ඔවුන්ගේද සහයෝගය ඇතුව රුපියල් ලක්ෂ පහළොව(15)කට අධික වටිනාකමැති මෙම  ගවයින් සිව්දෙනා සොයාගැනීමට හැකිව තිබේ.
+Seven cows of a cattleman of Ingiriya were lost and the cow was received
 
-ගව සොරකම මෙන්ම ගවයින් නිදැල්ලේ යාමට හැරීම සම්බන්ධයෙන් ඉංගිරිය පොලිස් වසම ආශ්‍රිත සියළු ගව පට්ටි හිමියන් දැනුවත් කිරීම සිදුකර ඇති බවත්, ගවයින් නිදැල්ලේ ගැවසීම ගව හොරකමට අතවැනීමක් බවත් පවසන ඉංගිරිය පොලිසිය, තම ගවයින් අයාළේ යාමට ඉඩහැර තිබෙන ගව හිමියන් සම්බන්ධයෙන් නීතිමට පියවර ගැනීමට කටයුතු කර තිබෙන බවද පවසා සිටී.
+On information, he has acted informed the Ingiriya Police on the matter.
+
+The Eheliyagoda police have been able to educate the Chief Inspector of Police OIC Chief Inspector Wasantha Chandral.
+
+The Ingiriya Police have made aware of the towering of the Ingiriya Police regarding the roof of cattle roaming and the rest of the cattle is taken to take action against the guards of cowland.Is
 
 ◼️
 
 [Data](articles/1d5f19f1.json)
 
+[Extended Data](ext_articles/1d5f19f1.ext.json)
+
 ---
 
-### හෙටින් පසු දකුණු අර්ධය තෙමෙයි
+### The south half after tomorrow is
 
 *2024-03-19 12:33:15* · [`adalk`](https://www.ada.lk/breaking_news/හෙටින්-පසු-දකුණු-අර්ධය-තෙමෙයි/11-408695) · `si`
 
-2024 මාර්තු   මස 19 දින්‍ මධ්‍යහන්‍ 12.00 ට නිකුත්කරන්‍ ලද කාලගුණ නිවේදනයට අනුව  දිවයිනේ දකුණු අර්ධයේ වියළි කාලගුණය තාවකාලික ‌ෙවනසක් හෙට දිනෙන් පසු අපේෂා කල හැක. නැගෙනහිර පළාතේ  වැසි ස්වල්පයක් ඇතිවිය හැක.
+"Tomorrow, 20th March 2024, the south half of the island will experience temporary weather changes. Showers and thundershowers are expected in the Eastern, Western, Sabaragamuwa, Nuwara Eliya, Galle, and Matara districts. Dry weather is expected elsewhere. Murder alerts have been issued in Galle and Kalutara districts."
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්ක වලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+🟩
 
-දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වියලි කාලගුණික තත්ත්වයක් පවතී. සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ කළුතර දිස්ික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේෂා කරන බවට වැඩිදුරටත් දැනුම් දී ඇත.
+20th March 2024 The weather weather in the south half of the island can be temporary after tomorrow. Showers may occur in the Eastern Province.
+
+Showers or thundershowers will occur at several places in the Western and Sabaragamuwa, Nuwara Eliya, Galle and Matara districts.
+
+There is mainly dry weather conditions in other parts of the island. In some places in the Sabaragamuwa and Central provinces, some locations have been asked that there is a murder in the Galle and Kalutara districts.
 
 ◼️
 
 [Data](articles/35c3b200.json)
+
+[Extended Data](ext_articles/35c3b200.ext.json)
+
+---
+
+### Special police teams deployed to crackdown criminals
+
+*2024-03-19 12:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Special-police-teams-deployed-to-crackdown-criminals/110-279158) · `en`
+
+A special operation under the 'Yukthiya' initiative was launched today and Inspector General of Police Deshabandu Tennakoon, STF Commandant Senior DIG Warun Jayasundara and several other senior police officers attended the official team send-off held at the Bambalapitiya Police Field Force Headquarters. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/138dfbeb.json)
 
 ---
 
@@ -338,25 +438,33 @@ In order to import this amount of eggs, prices have been collected from Indian i
 
 ---
 
-### කැබ්රථයේදී අතවරකොට ගෙලබැදි රණ් මාලයත් අරගෙනම යවලා
+### Sent on the necklace of the stalling in the corporation
 
 *2024-03-19 11:40:32* · [`adalk`](https://www.ada.lk/breaking_news/කැබ්රථයේදී-අතවරකොට-ගෙලබැදි-රණ්-මාලයත්-අරගෙනම-යවලා/11-408693) · `si`
 
-දොඹගහවෙල පොලිස් වසමට අයත් ඇලේලන්ද ප්‍රදේශයේ කාන්තාවක් කැබ්රථයක නංවාගෙන ඇයට ලිංගික අතවරකර ගෙල බැඳි රන්මාලයක් මංකොල්ලකෑමේ සිද්ධියක් සම්බන්ධයෙන් තරුණයෙකු දොඹගහවෙලා පොලීසිය මඟින් ඊයේ (18) වෙනිදා අත්අඩංගුවටගෙන ඇත.
+A woman from Dombagahawela was arrested for a robbery. She was picked up at the post office, questioned, and taken to Galabedda. The driver, Cabbitha, was arrested and the victim was taken to the hospital.
 
-අතවරයට පත්වූ 36 හැවිරිදි කාන්තාව කොළඹ දෙස සිට එන බස්රථයකින් ගෙනඑන පාර්සලයක් ලබාගැනීම සඳහා රාත්‍රී 9.00 පමණ දොඹගහවෙල තැපැල් කාර්යාලය අසල මාර්ගයට පැමිණ තිබේ.
+🟩
 
-ඒ අවස්ථාවේ ඇය ලඟ නතරකළ කැබ්රථයක් ඇයගෙන් යන්නේ කොහේදැයි විමසා ඇත.
+A woman from the Aleland area of Dombagahawela Police Division has been arrested by a collaboration with a collapse of a golden robbery.
 
-දොඹගහවෙල නගරයට යන බව පවසා ඇති ඇයට නගරයට කැබ්රථයෙන් යාමට හැකි බව පවසමින් රියදුරු විසින් කැබ්රථයේ ඉදිරිපස අසුනට ඇයව නංවාගෙන තිබේ.
+The next 9pm had arrived at the Dombagahawela Post Office at 9:00 pm to obtain a parcel from Colombo from a bus from Colombo.
 
-කැබ්රථය නගරයේ නතරනොකොට ගලබැද්ද ප්‍රදේශයේ පාළු මාර්ගයකට රැගෙනගොස් ඇයට අතවරකොට ආපසු ඇය සිටි ස්ථානයටම යළි කැඳවාගෙන ගොස්  රථයෙන් බස්සවා ඇත. ඇය කැබ්රථයෙන් බසින විට ගෙලබැඳි රන්මාලය අතවරකළ එහි රියදුරු විසින් කඩාගෙන ඇත.
+At that point she was asked where a copy of her was going to a close cease.
 
-සිද්ධිය පිළිබඳව දොඹගහවෙල පොලීසියට පැමිණිලිකිරීමෙන් අනතුරුව සැකකරු අත්අඩංගුවටගෙන ඇති අතර ඔහු සියඹලාණ්ඩුව මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත්කිරීමට නියමිතව තිබිණි.
+The driver has stood up to the front seat of the corporation by saying she was going to the city of Dombagahawela.
 
-...
+The Cabbitha was taken to a desolation of Galabedda area and returned from the car to her whereabouts was left behind.. When she dropped from the cab, the village Ranmal has been buried by its driver.
+
+The suspect had been arrested following the complaint to the Dombagewela police and he was produced before the Siyambalanduwa Magistrate's Court.
+
+The victim was rushed to the Moneragala district hospital for a medical examination.
+
+◼️
 
 [Data](articles/c90cc9d3.json)
+
+[Extended Data](ext_articles/c90cc9d3.ext.json)
 
 ---
 
@@ -686,21 +794,29 @@ The police chief said each of these teams, which would be dispatched starting Tu
 
 ---
 
-### ”ஊதா முகக் குரங்குகள் அழியும் அபாயம்'”
+### "Purple Monkeys are Risk"
 
 *2024-03-19 10:45:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊதா-முகக்-குரங்குகள்-அழியும்-அபாயம்/175-334871) · `ta`
 
-நகர சுற்றுப்புறங்களில் காடழிப்பு காரணமாக, ஊதா முகம் கொண்ட இலைக் குரங்கு என்றும் அழைக்கப்படும் மேற்கத்திய ஊதா முகமுடைய லங்கர்கள் நாய்கள், மக்கள் மற்றும் வாகன விபத்துகளில் சிக்கிக்கொள்ளும் நிலையுள்ளதால் அவை உணவு தேடுகையில் , ஓய்வெடுக்கும் இடங்களில் பாதுகாப்புகளைப் பெற வேண்டிய கட்டாத்திற்கு தள்ளப்பட்டுள்ளன என ஒரு முதன்மையான மற்றும் சூழலியல் நிபுணர் கூறினார்.
+"Western purple-faced langurs face threats from deforestation, accidents, and poaching, making them vulnerable. Protected under FFPO and listed as an internationally dangerous animal by IUCN."
 
-தலங்கம ஏரிக்கு அருகில் ஊதா நிற முகமுடைய மூன்று லங்கர்கள் மீது துப்பாக்கிச் சூடு நடத்தப்பட்டதாகவும், அதன் விளைவாக இரண்டு விலங்குகள் காயங்களுக்கு உள்ளாகியதாகவும் சமூக ஊடகங்களில் சமீபத்தில் வெளியான பதிவில் தெரியவந்துள்ளது.
+🟩
 
-நிபுணர் பேராசிரியர் வொல்ப்கங் டிட்டஸ் டெய்லி மிரரிடம் பேசுகையில், ஊதா நிற முகமுடைய லங்கூர் மரங்களில் வாழக்கூடிய தன்மையுடையவை. என்றும், மரங்களை அகற்றுவதன் மூலம் அவற்றின் பாதைகள் தடைப்படும் போது மட்டுமே அவை தரைக்கு வரும் என்றும் கூறினார்.
+A primary and ecological expert said that Western purple -faced lanters, also known as the purple -faced leaf monkey, have been forced to get caught up in dogs, people and vehicle accidents due to deforestation in the city surroundings.
 
-இந்த பின்னணியில்தான் நகர்ப்புறங்களில் உள்ள மக்கள் இப்போது ஊதா நிற முகமுள்ள லங்கர்களை ஒரு பாதிப்பு ஏற்படுத்தும் பூச்சியாக  உணர்கிறார்கள்.
+A recent post on social media revealed that three purple faces were shot dead near the Talangama Lake and that two animals were injured.
 
-...
+Specialist Professor Wolfkang Titus spoke to the Daily Mirror, "The purple -face Langur trees are living in the trees. He said that the removal of the trees would only come to the ground when their paths were blocked.
+
+It is against this backdrop that people in urban areas now feel purple -facing leankers as a vulnerable insect.
+
+Western purple -faced Langur is a species protected under Section 30 of the Plants and Plants Protection Ordinance (FFPO).It is an internationally dangerous animal by IUCN.
+
+◼️
 
 [Data](articles/3e1447ae.json)
+
+[Extended Data](ext_articles/3e1447ae.ext.json)
 
 ---
 
@@ -1548,6 +1664,30 @@ He stated that according to the country's constitution, the presidential electio
 
 ---
 
+### මහින්ද යාපා අබේවර්ධන: ශ්‍රී ලංකාවේ කතානායකවරුන්ට එරෙහි විශ්වාසභංග යෝජනාවලට මෙතෙක් සිදුවූ දේ
+
+*2024-03-19 07:10:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cmmq8q32d7no) · `si`
+
+මහින්ද යාපා අබේවර්ධන: ශ්‍රී ලංකාවේ කතානායකවරුන්ට එරෙහි විශ්වාසභංග යෝජනාවලට මෙතෙක් සිදුවූ දේ
+
+කතානායක මහින්ද යාපා අබේවර්ධනට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ පාර්ලිමේන්තු විවාදය අඟහරුවාදා (මාර්තු 19) ආරම්භ විය.
+
+මාර්ගගත ආරක්ෂණ කෙටුම්පත සහ පොලිස්පතිවරයා පත්කිරීමේදී කතානායකවරයා පක්ෂපාතී ආකාරයට කටයුතු කළ බවට චෝදනා කරමින් මෙම විශ්වාසභංග යෝජනාව පාර්ලිමේන්තුවට ඉදිරිපත් කරනු ලැබුවේ, සමගි ජන බලවේගය විසිනි.
+
+මෙම විශ්වාසභංග යෝජනාව විවාදයට ගැනීම මාර්තු 14 වන දා දින නියම කරනු ලැබුවේ ද, කතානායකවරයාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී ම ය.
+
+මේ අනුව, මාර්තු 19 වන අඟහරුවාදා පෙ.ව. 9.30 සිට ප.ව. 5.30 දක්වා ද, 20 වන බදාදා පෙ.ව. 9.30 සිට ප.ව. 4.30 දක්වා ද විවාදය පැවැත්වීමට නියමිතව තිබිණි.
+
+විවාදයේ දෙවන දිනය වන 20 වන බදාදා ප.ව 4.30ට පමණ විශ්වාසභංග යෝජනාවට අදාළ ඡන්ද විමසීම පැවත්වීමට තීරණය කර තිබුණ ද, අද දිනයේ එහි යම් වෙනසක් සිදුවිය.
+
+අද පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය කළේ, විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය 21 වන බ්‍රහස්පතින්දා දිනයේදීත් පැවැත්වීමට ය.
+
+...
+
+[Data](articles/347ecae0.json)
+
+---
+
 ### President instructs cabinet to prepare for presidential election
 
 *2024-03-19 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194660) · `si`
@@ -2093,113 +2233,5 @@ President Ranil Wickremesinghe has announced that the government has enacted 42 
 [Data](articles/a6e04c52.json)
 
 [Extended Data](ext_articles/a6e04c52.ext.json)
-
----
-
-### First Test against Sri Lanka: Liton Das again in BangladeshTwo new fast bowlers
-
-*2024-03-19 01:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179080) · `ta`
-
-Bangladesh's first Test against Sri Lanka features Liton Das, two new fast bowlers, and a team led by Najmul Hossain Santo. Liton Das, with 2394 runs in 39 Tests, returns after leading against New Zealand. Ebadoth Hossain and newcomers Nahib Rana and Mushfiq Hasan are part of the squad. The 2nd Test starts on March 30 in Chatogram.
-
-🟩
-
-Bangladesh has named a group of mighty players to mark the first match of the two -match Test series against Sri Lanka.
-
-Former Chairman Litton Das has been reunited with the Bangladesh team for the first Test match in Silhead on Friday (22).
-
-During the series against New Zealand. He was then the team leader.
-
-Najmal Hosain Santo was then appointed as the captain of the three cricket teams.
-
-After Najmul was appointed as the full -time captain of the Test team, the ICC Test Championship against Sri Lanka will be his first examination.
-
-Litton Das has scored 2394 runs in 39 Tests. He has played a wicket guard in 28 matches.
-
-Senior fast bowler Ebadoth Hossain, who has a full -fledged body, has been called back to the team.
-
-He did not play in the World Cup in India due to a ridicule.
-
-The new fast bowlers, Nahib Rana and Mushfiq Hasan, have been recruited with him.. Nahib Rana is considered the current high -speed bowler in Bangladesh bowlers.
-
-...
-
-[Data](articles/2e08eaa8.json)
-
-[Extended Data](ext_articles/2e08eaa8.ext.json)
-
----
-
-### We vehemently condemn the oppression of the Tamils of the Sri Lankan state - the British Tamil Congress
-
-*2024-03-19 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179079) · `ta`
-
-The British Tamil Congress condemns the oppression of Tamils in Sri Lanka, including the arrest of temple priest and devotees at the Adivasivan Temple. It criticizes the Sri Lankan government's actions as threats to public activities and land grabbing, and accuses it of promoting communal conflicts.
-
-🟩
-
-The British Tamil Congress has said that the Sri Lankan government and its military and police administrations have condemned the threats and disruption of the daily activities of the public, land grabbing and the public.
-
-A statement issued by the British Tamil Congress recently condemned the incident at the Adivasivan Temple at the Vedukunnarimalai Adisivan Temple:
-
-The arrest of the temple priest and the devotees who attended the Shivaratri worship ceremony of the Adivasivan Temple at the Adivasivan Temple, and all of them should be released immediately.. Moreover, according to the court's decision, the state administration, which has to take appropriate legal action and take appropriate legal action, is trying to threaten state forces on Tamils who have been worshiping for decades for decades.. Today, it has been relegated to the fact that the Sinhalese nation ignored the reality that oppression was forced to fight our people.
-
-...
-
-[Data](articles/23571cf4.json)
-
-[Extended Data](ext_articles/23571cf4.ext.json)
-
----
-
-### South Korean Kiuda to launch carbon exchange in partnership with Lankan tech startup Xeptagon
-
-*2024-03-19 01:22:24* · [`dailyftlk`](https://www.ft.lk/business/South-Korean-Kiuda-to-launch-carbon-exchange-in-partnership-with-Lankan-tech-startup-Xeptagon/34-759664) · `en`
-
-Kiuda Carbon Exchange CEO Richard Yoon (left) with Xeptagon Co-Founder Dr. Sapumal Ahangama
-
-Kiuda Digital Holdings, backed by direct international investments, will be launching its state-of-the-art carbon exchange – KiudaEXin the near future.
-
-The locally developed carbon exchange will primarily target the growing demand for carbon offset credits in South Korea, Japan, and other regions of Asia. With a multi-million dollar valuation, the Kiuda Carbon Trading eco-system is backed by direct investments and endorsements from well-known and leading South Korean securities, financial firms and chaebols (conglomerates).
-
-...
-
-[Data](articles/e2b5208f.json)
-
-[Extended Data](ext_articles/e2b5208f.ext.json)
-
----
-
-### Unilever and IDB partner to uplift local industry with financial assistance
-
-*2024-03-19 01:21:47* · [`dailyftlk`](https://www.ft.lk/business/Unilever-and-IDB-partner-to-uplift-local-industry-with-financial-assistance/34-759663) · `en`
-
-Unilever Sri Lanka and the Industrial Development Board (IDB) signed a three-year memorandum of understanding to uplift SMEs in Sri Lanka. This is a public private partnership between Unilever and the IDB to jointly support the growth and development of 20 Micro Small & Medium Scale entrepreneurs in Sri Lanka every year through the Industrial Development Fund (IDF). The IDF, under the supervision of the Industrial Development Board, and conforming to guidelines of the Central Bank of Sri Lanka provides financial capital in the form of low interest, repayable loans to Micro, Small and Medium Enterprises (MSMEs), enabling them to commence or expand local manufacturing in sectors prioritized by the Ministry of Industries to fuel an export-oriented economy. The first batch of loans were handed over to 10 female micro entrepreneurs at the occasion of the International Women’s Day on the 12th of March 2024.
-
-...
-
-[Data](articles/50e30ebe.json)
-
-[Extended Data](ext_articles/50e30ebe.ext.json)
-
----
-
-### Tamil National Green Movement's Green Peace Awards Ceremony
-
-*2024-03-19 01:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179078) · `ta`
-
-The Tamil National Green Movement's Green Peace Awards Ceremony on 17th was held at Weerasingham Hall, Jaffna, aiming to raise environmental awareness. Prof. C, Vice Chancellor of the University of Jaffna, was the chief guest. The first 200 students who passed the All Ceylon General Knowledge Examination were honored with the Green Peace Certificate. The Best Environmental Operator award was given to Kanakarasa.
-
-🟩
-
-The Green Peace Awards of the Tamil National Green Movement held on Sunday (17). The Tamil National Green Movement is awarding the Green Peace Peace Awards with the aim of raising awareness among students and the public and making them participants in environmental protection activities.. The awards ceremony for 2023 was held at the Weerasingham Hall, Jaffna.
-
-Prof. C, Vice Chancellor of the University of Jaffna, was the chief guest at the event chaired by Tamil National Green Movement President P.Ingaranesan. Sirisakkunarajah was attending them. Director of the Department of Education of the Northern Province as Special Guests. John Queenras, Director of the Department of Agriculture of the Eastern Province. M.. S.. A.. Khalis was also present.
-
-...
-
-[Data](articles/1d9ab9e5.json)
-
-[Extended Data](ext_articles/1d9ab9e5.ext.json)
 
 ---

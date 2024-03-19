@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 19:50:50**
+As of **2024-03-19 20:03:10**
 
 ## Newspaper Stats
 
-*Scraped **13,897** Articles*
+*Scraped **13,900** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,102 @@ newsfirstlk | 363
 dailyftlk | 727
 economynextcom | 735
 islandlk | 761
-adalk | 1,201
+adalk | 1,202
 adaderanalk | 1,670
 tamilmirrorlk | 1,689
-virakesarilk | 1,943
+virakesarilk | 1,944
 dailymirrorlk | 2,121
-adaderanasinhalalk | 2,215
+adaderanasinhalalk | 2,216
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,894 (100.0%) of 13,897 articles have been extended.
+13,897 (100.0%) of 13,900 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### மாகாண சபைத் தேர்தல் பிற்போடப்பட்டுள்ளமைக்கு எம்.ஏ.சுமந்திரன் பொறுப்புக் கூற வேண்டும் - நீதியமைச்சர் குற்றச்சாட்டு
+### ரோஹித்த அபேகுணவர்தனவின் நியமனம் பாராளுமன்றத்தை மலினப்படுத்தும் செயற்பாடு - நளின் பண்டார
 
-*2024-03-19 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179163) · `ta`
+*2024-03-19 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179164) · `ta`
 
-மாகாண சபைத் தேர்தல் முறைமை திருத்த விவகாரத்தில் அப்போதைய பிரதமர் ரணில் விக்கிரமசிங்கவுக்கு எம்.ஏ.சுமந்திரன் கடும் அழுத்தம் பிரயோகித்தார்.மாகாண சபை தேர்தல் பிற்போடப்பட்டு மக்களின் வாக்குரிமை பறிக்கப்பட்டுள்ளமைக்கு எம்.ஏ.சுமந்திரன் பொறுப்புக் கூற வேண்டும் என  நீதி,சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு  அமைச்சர்  விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+ஆளும் தரப்பின்  உறுப்பினர் ரோஹித்த அபேகுணவர்தனவை  கோப் குழுவின் தலைவராக நியமித்து பாராளுமன்றத்தை மலினப்படுத்தும் செயற்பாட்டை அரசாங்கம் முன்னெடுத்துள்ளது.இந்த தவறு திருத்தம் செய்யப்பட வேண்டும். ரோஹித அபேகுணவர்தனவை பதவி நீக்கி தலைவர் பதவியை எதிர்க்கட்சிக்கு வழங்க வேண்டும் என  ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் நளின் பண்டார தெரிவித்தார்.
 
-பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (19) இடம்பெற்ற சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் சபையில் உரையாற்றுகிறாரா அல்லது பிரதேச சபையில் உரையாற்றுகிறாரா ? என்பதை அறியவில்லை.உயர்நீதிமன்றத்தின் தீர்மானத்தை சுட்டிக்காட்டி உரையாற்றினார்.அவரது உரையில் விரக்தி மாத்திரமே எதிரொலித்தன.
+கோப் குழுவின் உறுப்பினர் என்ற வகையில் இந்த வலியுறுத்தலை அரசாங்கத்திடம் முன்வைக்கிறேன்.பாராளுமன்ற குழுக்களில் கோப் குழு  முக்கியமானது.கோப் குழுவின்  தலைவர் கணக்காளர் நாயகத்துடன் ஒன்றிணைந்து செயற்பட வேண்டும்.கோப் குழுவின் தலைவராக ஆளும் தரப்பினர் ரோஹித்த அபேகுணவர்தன நியமிக்கப்பட்டுள்ளமைக்கு பலர் எதிர்ப்பை வெளிப்படுத்தியுள்ளார்கள். கோப குழுவின் உறுப்பினர் பதவியில்  இருந்து எரான் விக்கிரமரத்ன விலகியுள்ளார்.
 
 ...
 
-[Data](articles/05866db1.json)
+[Data](articles/ff3125e0.json)
 
 ---
 
-### කෙහෙළියට දුන් සැප වාහනේ පත්තුවෙයි
+### දුම්රියක් පීලි පනී
+
+*2024-03-19 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194701) · `si`
+
+දුම්රිය පීලි පැනීමක් හේතුවෙන් මුහුදුබඩ දුම්රිය මාර්ගයේ ගාල්ල මාතර දක්වා ධාවනය වන දුම්රිය තාවකාලිකව අත්හිටුවා තිබේ.
+
+එම දුම්රිය පීලි පැනීම කොළඹ කොටුව දුම්රිය ස්ථානය ආසන්නයේ සිදුවී ඇත.
+
+◼️
+
+[Data](articles/68518f75.json)
+
+---
+
+### MA Sumanthiran should be held accountable for provincial council election - Justice Minister
+
+*2024-03-19 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/179163) · `ta`
+
+MA Sumanthiran, a TNA MP, criticized the High Court and the provincial council election system, pressuring the former PM for amendments. He addressed the House on the 21st Amendment, highlighting the need for a Supreme Court draft.
+
+🟩
+
+MA Sumanthiran has put pressure on the then Prime Minister Ranil Wickremesinghe on the amendment of the provincial council election system.
+
+Speaking at a debate on the no -confidence motion against the Speaker held in Parliament on Tuesday (19).
+
+Is MP MA Sumanthiran addressing the House or addressing the Pradeshiya Sabha?In his speech, he was echoed only in his speech.
+
+Speaking to the House on the 21st Amendment to the Constitution, he said, "The High Court should go home."
+
+The Tamil National Alliance (TNA) parliamentarian MA Sumanthiran, who raised the issue of order, said, "We have the right to point out the shortcomings of the High Court.
+
+Speaking on the occasion, the Justice Minister and the Provincial Council Amendment were not passed in Parliament. We prepared a good draft of the Supreme Court.
+
+Parliamentarian MA Sumanthiran pressured the then Prime Minister Ranil Wickremesinghe over the amendment of the provincial council election.You used heavy pressure.
+
+◼️
+
+[Data](articles/05866db1.json)
+
+[Extended Data](ext_articles/05866db1.ext.json)
+
+---
+
+### Sumble the comfort of the Keheliya
 
 *2024-03-19 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194700) · `si`
 
-රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාව අධිකරණයට රැගෙන ඒමට බන්ධනාගාරයට ළමයින් ප්‍රවාහනයට යොදාගන්නා වෑන් රථයක් භාවිත කිරීම සම්බන්ධයෙන් ආන්දෝලනාත්මක තත්ත්වයක් නිර්මාණය වී තිබේ.
+Keheliya Rambukwella, former Minister, faces court in remand custody. The prison's use of a UNICEF donated van for transporting children sparks controversy. CID investigates. Department of Ada Derana explains the van was used due to insufficient buses.
 
-එම වෑන් රථය දරුවන් ප්‍රවාහනය කිරීම සඳහා එක්සත් ජාතීන්ගේ ළමා අරමුදල  මගින් පරිත්‍යාග කෙරුණු වෑන් රථයකි.
+🟩
 
-එම වැන් රථය  අමාත්‍යවරයාව අධිකරණයට රැගෙන ඒමට යොදාගැනීම සම්බණ්ධයෙන් මේ වනවිට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව  විමර්ශනයක් ආරම්භ කර ඇති බව සඳහන් ය.
+Former Minister Keheliya Rambukwella to be taken to court in remand custody, the prison has created a controversial condition.
 
-මේ සම්බන්ධයෙන් අද දෙරණ බන්ධනාගාර දෙපාර්තමේන්තුවෙන් කළ විමසීමකදී එහි මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේ අදාළ දිනයේ ප්‍රවාහන කටයුතු සඳහා ප්‍රමාණවත් බස් රථ නොතිබුණු බැවින් එම වෑන් රථය යොදාගත් බවට නිලධාරීන් දැනුම්දුන් බවයි.
+The van is a van donated by the United Nations Children's Fund to transport children children.
+
+The Criminal Investigations Department (CID) has commenced an investigation into the use of the Van to court.
+
+When inquired from the Department of Ada Derana, the media spokesman said that the officials were not used as the van had been used as the buses were not sufficient for transportation.
 
 ◼️
 
 [Data](articles/e00d4d75.json)
+
+[Extended Data](ext_articles/e00d4d75.ext.json)
 
 ---
 
@@ -88,29 +136,35 @@ The confiscated gold jewellery includes chains, necklaces, bangles and earrings 
 
 ---
 
-### කාන්තාවන් සියයට 40ක් බරපතළ අවදානමක
+### 40 percent of women at a serious risk
 
 *2024-03-19 19:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194699) · `si`
 
-පවතින ආර්ථික අර්බුදයත් සමග මෙරට කාන්තාවන් සියයට හතලිහක් පමණ කාන්තා සනීපාරක්ෂක තුවා භාවිතයෙන් ඉවත්වී ඇති බවට නවතම සමීක්ෂණයකින් අනාවරණ වී තිබේ.
+A survey shows 40% of Sri Lankan women face serious sanitation issues due to economic crisis, leading to school attendance drop and health risks.
 
-ලංකා ගුරු සංගමය පවසන්නේ සනීපාරක්ෂක තුවා මිල අධික ලෙස ඉහළයෑම හමුවේ සිසුවියන්ගේ පාසල් පැමිණීමද අඩුව ඇති බවය.
+🟩
 
-එම සමීක්ෂණයෙන් අනාවරණය වී ඇත්තේ මෙරට වයස අවුරුදු 15ත් 47ත් අතර කාන්තාවන්ගෙන් සියයට 40ක් කාන්තා සනීපාරක්ෂක තුවා භාවිතයෙන් ඉවත් වී ඇති බවටය.
+With the current economic crisis, the latest survey has revealed that about 40 percent of women have left the sanitary towels of women in Sri Lanka.
 
-පවුල් පාලනය පිළිබඳ සිවිල් සංවිධානය සිදුකළ එම සමීක්ෂණයෙන් අනාවරණ වී ඇත්තේ සනීපාරක්ෂක තුවා සඳහා ඉහළ මිලක් ගෙවීමට සිදුවීම ඊට ප්‍රධාන හේතුවක් වී ඇති බවය.
+The Ceylon Teachers Union states that the school attendance has also reduced the prices of sanitation.
 
-වර්තමානයේ ආනයනික සනීපාරක්ෂක තුවා සඳහා අය කෙරෙන බදු ප්‍රමාණය සියයට 51 ක් පමණ වෙයි.
+The survey revealed that 40 percent of women between the ages of 15 to 47 years have been dismissed using women's hygiene towels.
 
-දේශීය සනීපාරක්ෂක තුවාවල මිල ගණන් 90%කින් සහ ආනයනික නිෂ්පාදනවල මිල ගණන් 30% පමණ ඉහළ නංවා තිබේ.
+The survey of the civilian organization of the Family Returns revealed that the main reason for the suspect is to pay a high price for the naive towels.
 
-ඊට එක්වූ ප්‍රදේශයේ මව්වරුන් පැවසුවේ සනීපාරක්ෂක තුවා මිල ඉහළයෑම හමුවේ තම දරුවන් දැඩි අපහසුතාවයට පත්ව ඇති බවය.
+Today, tax of imported sanitary towels is about 51 percent.
 
-මේ සම්බන්ධයෙන් වැඩි අවධානයක් යොමු නොකළහොත් කාන්තාවන්ට සෞඛ්‍ය ගැටලු පැනනගින බව වෛද්‍යවරුන් පෙන්වා දෙයි.
+About 90% of local sanitation and prices have been increased by about 30% of imports of imported products.
+
+Mothers in the area said their children were inconvenienced in the face of rising sanitary temper prices.
+
+Doctors point out that if the health problems arise of health problems if not pay attention to this.
 
 ...
 
 [Data](articles/8f82cbae.json)
+
+[Extended Data](ext_articles/8f82cbae.ext.json)
 
 ---
 
@@ -225,6 +279,24 @@ The accident had taken place in Kandy to Horowpathana.
 [Data](articles/a3acf9ca.json)
 
 [Extended Data](ext_articles/a3acf9ca.ext.json)
+
+---
+
+### ඖෂධ හදිසි මිලදී ගැනීම් නවත්වයි
+
+*2024-03-19 18:22:40* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-හදිසි-මිලදී-ගැනීම්-නවත්වයි/11-408706) · `si`
+
+සෞඛ්‍ය අමාත්‍යංශය මගින් සිදු කළ ඖෂධ හදිසි මිලදී ගැනීම් සම්පූර්ණයෙන් නවතා දමා තිබෙන බවත් ටෙන්ඩර් පටිපාටිය මගින් පමණක් ඖෂධ මිලදී ගැනීම්සිදු කරන අතරඑහි පූර්ණ වගකීම ඖෂධ නියාමන අධිකාරියට පවරා තිබෙන බව සෞඛ්‍ය අමාත්‍යංශයේ ලේකම් පාලිත මහීපාල පවසයි.
+
+මධ්‍යම පළාත් රෝහල්වල ගිලන් රථ රියදුරන් සඳහා අද පැවති පුහුණු පාඨමාලාවකින් අනතුරුව මහනුවර ජාතික රෝහලේ තිලක් අබේසේකර ශ්‍රමණාගාරයේදී පැවැති එහි සහතික පත් බෙදා දීමේ අවස්ථාවට සහභාගි වීමෙන් අනතුරුව මාධ්‍ය හමුවේ අදහස් දක්වමින් සෞඛ්‍ය ලේකම්වරයා ඒ බව අවධාරණය කළේය .
+
+පිළිකා රෝගීන් සඳහා බාල ඖෂධ ගෙන්වීමේ සිද්ධිය සම්බන්ධයෙන් සෞඛ්‍ය අමාත්‍යාංශය විසින් විශේෂ කමිටුවක් පත්කොට ඒ පිළිබඳ පුළුල් විමර්ශනයක් ආරම්භ කොට ඇති බවද සෞඛ්‍ය ලේකම්වරයා පැවසීය.
+
+සෞඛ්‍ය අමාත්‍යාංශයේ ප්‍රමුඛතාවය වඩාත් ගුණාත්මක ප්‍රශස්ත සෞඛ්‍ය සේවාවක් ජනතාවට ලබාදීම බවත් ඒ සඳහා නව දිශානතියක් ඔස්සේ ගමන් කරමින් ප්‍රාථමික සෞඛ්‍ය සේවාව වඩාත් ශක්තිමත් කිරීම කෙරෙහි අවධානය යොමුවී තිබෙන බවද සෞඛ්‍ය ලේකම්වරයා පැවසීය.
+
+...
+
+[Data](articles/eaea514a.json)
 
 ---
 
@@ -2217,63 +2289,5 @@ The Ingiriya Police have made aware of the towering of the Ingiriya Police regar
 [Data](articles/1d5f19f1.json)
 
 [Extended Data](ext_articles/1d5f19f1.ext.json)
-
----
-
-### The south half after tomorrow is
-
-*2024-03-19 12:33:15* · [`adalk`](https://www.ada.lk/breaking_news/හෙටින්-පසු-දකුණු-අර්ධය-තෙමෙයි/11-408695) · `si`
-
-"Tomorrow, 20th March 2024, the south half of the island will experience temporary weather changes. Showers and thundershowers are expected in the Eastern, Western, Sabaragamuwa, Nuwara Eliya, Galle, and Matara districts. Dry weather is expected elsewhere. Murder alerts have been issued in Galle and Kalutara districts."
-
-🟩
-
-20th March 2024 The weather weather in the south half of the island can be temporary after tomorrow. Showers may occur in the Eastern Province.
-
-Showers or thundershowers will occur at several places in the Western and Sabaragamuwa, Nuwara Eliya, Galle and Matara districts.
-
-There is mainly dry weather conditions in other parts of the island. In some places in the Sabaragamuwa and Central provinces, some locations have been asked that there is a murder in the Galle and Kalutara districts.
-
-◼️
-
-[Data](articles/35c3b200.json)
-
-[Extended Data](ext_articles/35c3b200.ext.json)
-
----
-
-### Special police teams deployed to crackdown criminals
-
-*2024-03-19 12:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Special-police-teams-deployed-to-crackdown-criminals/110-279158) · `en`
-
-A special operation under the 'Yukthiya' initiative was launched today and Inspector General of Police Deshabandu Tennakoon, STF Commandant Senior DIG Warun Jayasundara and several other senior police officers attended the official team send-off held at the Bambalapitiya Police Field Force Headquarters. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/138dfbeb.json)
-
-[Extended Data](ext_articles/138dfbeb.ext.json)
-
----
-
-### Separates a part of Indian debt to fasten the solar panels for religious places
-
-*2024-03-19 12:31:33* · [`adalk`](https://www.ada.lk/breaking_news/ආගමික-ස්ථාන-සඳහා-සූර්ය-පැනල-සවි-කිරීමට-ඉන්දිය-ණයෙන්-කොටසක්-වෙන්-කරයි/11-408694) · `si`
-
-The Cabinet, on 08-01-01.2010, approved a project to install solar panels in religious places, funded by the Indian State Bank. Minister Kanchana Wijesekara led the initiative. Six bids were received for the project, and the Standing Procurement Committee will select the institution to implement it.
-
-🟩
-
-At the Cabinet Meeting held at the Cabinet Meeting held on 08-01-01.2010 to the implementation of the wake-based solar power systems of the Indian State Bank.
-
-The cabinet paper presented by the Minister of Power and Energy, the Minister of Power and Energy Kanchana Wijesekara has received this approval.
-
-Accordingly, the bids have been summoned to select an appropriate institution to implement the project, and 06 bids received. Procurement of the procurement of procurement of procurement of procurement committee and the Standing Procurement Committee appointed by the Cabinet of Procurement Procedure.Will be awarded to.
-
-◼️
-
-[Data](articles/5e2eae43.json)
-
-[Extended Data](ext_articles/5e2eae43.ext.json)
 
 ---

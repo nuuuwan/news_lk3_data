@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 11:02:52**
+As of **2024-03-19 11:17:59**
 
 ## Newspaper Stats
 
-*Scraped **13,758** Articles*
+*Scraped **13,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,86 @@ dailyftlk | 727
 islandlk | 760
 adalk | 1,184
 adaderanalk | 1,653
-tamilmirrorlk | 1,672
+tamilmirrorlk | 1,674
 virakesarilk | 1,921
-dailymirrorlk | 2,098
-adaderanasinhalalk | 2,186
+dailymirrorlk | 2,100
+adaderanasinhalalk | 2,188
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,752 (100.0%) of 13,758 articles have been extended.
+13,758 (100.0%) of 13,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### வெடுக்குநாறி விவகாரம்: எட்டு பேரும் விடுதலை
+
+*2024-03-19 11:00:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/வெடுக்குநாறி-விவகாரம்-எட்டு-பேரும்-விடுதலை/72-334875) · `ta`
+
+மஹா சிவராத்திரி அன்று   வெடுக்குநாறிமலை ஆதிலிங்கேஸ்வரர் ஆலயத்தில் சமய அனுஷ்டானத்தில் ஈடுபட்ட போது கைதுசெய்யப்பட்ட 8 பேரும் நீதிமன்றத்தால் விடுதலைச் செய்யப்பட்டுள்ளனர் எனத் தெரிவித்த பாராளுமன்ற உறுப்பினர் சார்ள்ஸ் நிர்மலநாதன், தொல்பொருள் திணைக்கள அதிகாரிகள் வேண்டுமென்றே வழக்குத் தாக்கல் செய்துள்ளனர் என்றார்.
+
+◼️
+
+[Data](articles/fcce7e9d.json)
+
+---
+
+### පාර්ලිමේන්තු මන්ත්‍රීවරුන් තේරීමේ ක්‍රමයේ වෙනසක්
+
+*2024-03-19 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194671) · `si`
+
+2023 අංක 03 දරන මැතිවරණ වියදම් නියාමනය කිරීමේ පනතේ පරමාර්ථ සපුරාලීම සහ ප්‍රජාතන්ත්‍රවාදී මැතිවරණයක් මුළුමනින්ම සාක්ෂාත් කර ගැනීම පිණිස දැනට පවතින මැතිවරණ ක්‍රමය වෙනස් කිරීමේ අවශ්‍යතාවය හඳුනාගෙන ඇති බව රජය පවසයි.
+
+ඒ සඳහා පාර්ලිමේන්තුව නියෝජනය කරන සියලුම පක්ෂ නායකයින්ගේ සහ වෙනත් අදාළ පාර්ශ්වයන්ගේ අදහස් විමසීමෙන් අනතුරුව නිර්දේශ සහිත වාර්තාවක් අමාත්‍ය මණ්ඩලය වෙත ඉදිරිපත් කිරීම පිණිස අමාත්‍ය මණ්ඩල අනුකමිටුවක් පත්කර තිබේ.
+
+එම නව යෝජනාව අනුව මන්ත්‍රීවරු 160 දෙනෙක් අදාළ මැතිවරණ කොට්ඨාසයේ ඡන්ද දායකයින් විසින් ඝෘජුවම තෝරා පත්කර ගැනීමටත් ඉතිරි මන්ත්‍රීවරුන් 65 දෙනා සමානුපාතික ඡන්ද ක්‍රමය අනුව ජාතික සහ පළාත් මට්ටමින් තෝරා ගැනීමටත් එකී කමිටුව වෙත අදහස් ඉදිරිපත් කර ඇති බවත් බහුතරයක් ඒ සඳහා එකඟතාව පළකර ඇති බවත් සඳහන් ය.
+
+...
+
+[Data](articles/fbb16512.json)
+
+---
+
+### பாடசாலை அதிபர்களுக்கு விசேட அறிவித்தல்
+
+*2024-03-19 10:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலை-அதிபர்களுக்கு-விசேட-அறிவித்தல்/175-334874) · `ta`
+
+2024 ஆம் ஆண்டிற்கான பாடப் புத்தகங்கள் மற்றும் சீருடைத் துணிகள் இதுவரை தங்கள் பாடசாலைகளுக்கு கிடைக்கவில்லையெனில் தமக்கு அறிவிக்குமாறு அனைத்து பாடசாலை அதிபர்களிடமும் கல்வி அமைச்சு இன்று கோரியுள்ளது.
+
+அனைத்துப் பாடசாலைகளுக்கும் விநியோகிப்பதற்காக பாடசாலை பாடப் புத்தகங்கள் மற்றும் சீருடைத் துணிகள் நாட்டிலுள்ள பிரதேசக் கல்வி அலுவலகங்கள் ஊடாக அனைத்து அரச பாடசாலைகளுக்கும் அனுப்பி வைக்கப்பட்டுள்ளதாக அமைச்சு அறிவித்தல் விடுத்துள்ளது.
+
+பாடப் புத்தகங்கள் மற்றும் சீருடைகள் கிடைக்கப்பெறாத பாடசாலைகளின் அதிபர்களை பின்வரும் தொலைபேசி, தொலைநகல் அல்லது மின்னஞ்சல் ஊடாக உடனடியாக அறிவிக்குமாறு கல்வி அமைச்சு கேட்டுக் கொண்டுள்ளது.
+
+◼️
+
+[Data](articles/aa165b9b.json)
+
+---
+
+### රේගුව අකුරට වැඩ
+
+*2024-03-19 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194670) · `si`
+
+රේගු නිලධාරීන් අද (19) උදෑසන සිට අකුරට වැඩකිරීමේ වෘත්තීය සමිති ක්‍රියාමාර්ගයක් ආරම්භ කර ඇති බව වාර්තා වේ.
+
+මේ අතර, පසුගිය සිකුරාදා ආරම්භ කළ වැඩවර්ජනය හේතුවෙන් මේ වනවිට බහාලුම් 4,000කට අධික සංඛ්‍යාවක් ගොඩගැසී ඇතැයි වාර්තා වේ.
+
+බහාලුම් ප්‍රවාහන හිමිකරුවන්ගේ සංගමයේ, සභාපති සනත් මංජුල මහතා පවසා සිටියේ, මේ වනවිට බහාලුම් නිෂ්කාශනය සම්පූර්ණයෙන්ම ඇන සිට ඇති බවය.
+
+අත්‍යවශ්‍ය ආහාර හා ඖෂධ නිදහස් කරන බවට පැවසුවද එයද රේගු නිලධාරීන් විසින් එය ද මඟ හැර ඇතැයි ඒ මහතා පවසා සිටියේය.
+
+මෙම තත්ත්වය දිගින් දිගටම පැවතුනහොත් ආනයන කේෂ්ත්‍රයට දැඩි බලපෑම් එල්ල විය හැකි බව ද ඒ මහතා පැවසිය.
+
+මෙම තත්ත්වය පාලනය නොකළහොත් එදිනෙදා භාණ්ඩ මිල ගණන් පවා ඉහළ යාහැකි බව ඒ මහතා කියා සිටියේය.
+
+◼️
+
+[Data](articles/0e93ad51.json)
+
+---
 
 ### 20 special police teams deployed to crack down on underworld
 
@@ -44,69 +110,119 @@ The decision was taken after taking into account the alarming rise in organized 
 
 [Data](articles/1dec6578.json)
 
+[Extended Data](ext_articles/1dec6578.ext.json)
+
 ---
 
-### ”ஊதா முகக் குரங்குகள் அழியும் தறுவாயில் உள்ளன”
+### "Purple Monkeys are in ruins"
 
 *2024-03-19 10:45:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊதா-முகக்-குரங்குகள்-அழியும்-தறுவாயில்-உள்ளன/175-334871) · `ta`
 
-நகர சுற்றுப்புறங்களில் காடழிப்பு காரணமாக, ஊதா முகம் கொண்ட இலைக் குரங்கு என்றும் அழைக்கப்படும் மேற்கத்திய ஊதா முகமுடைய லங்கர்கள் நாய்கள், மக்கள் மற்றும் வாகன விபத்துகளில் சிக்கிக்கொள்ளும் நிலையுள்ளதால் அவை உணவு தேடுகையில் , ஓய்வெடுக்கும் இடங்களில் பாதுகாப்புகளைப் பெற வேண்டிய கட்டாத்திற்கு தள்ளப்பட்டுள்ளன என ஒரு முதன்மையான மற்றும் சூழலியல் நிபுணர் கூறினார்.
+"Western purple-faced langurs face threats from deforestation, dog attacks, and vehicle accidents, leading to deaths and injuries. Despite being protected, they're now seen as pests in urban areas."
 
-தலங்கம ஏரிக்கு அருகில் ஊதா நிற முகமுடைய மூன்று லங்கர்கள் மீது துப்பாக்கிச் சூடு நடத்தப்பட்டதாகவும், அதன் விளைவாக இரண்டு விலங்குகள் காயங்களுக்கு உள்ளாகியதாகவும் சமூக ஊடகங்களில் சமீபத்தில் வெளியான பதிவில் தெரியவந்துள்ளது.
+🟩
 
-நிபுணர் பேராசிரியர் வொல்ப்கங் டிட்டஸ் டெய்லி மிரரிடம் பேசுகையில், ஊதா நிற முகமுடைய லங்கூர் மரங்களில் வாழக்கூடிய தன்மையுடையவை. என்றும், மரங்களை அகற்றுவதன் மூலம் அவற்றின் பாதைகள் தடைப்படும் போது மட்டுமே அவை தரைக்கு வரும் என்றும் கூறினார்.
+A primary and ecological expert said that Western purple -faced lanters, also known as the purple -faced leaf monkey, have been forced to get caught up in dogs, people and vehicle accidents due to deforestation in the city surroundings.
 
-இந்த பின்னணியில்தான் நகர்ப்புறங்களில் உள்ள மக்கள் இப்போது ஊதா நிற முகமுள்ள லங்கர்களை ஒரு பாதிப்பு ஏற்படுத்தும் பூச்சியாக  உணர்கிறார்கள்.
+A recent post on social media revealed that three purple faces were shot dead near the Talangama Lake and that two animals were injured.
 
-...
+Specialist Professor Wolfgang Titus spoke to the Daily Mirror: "Purple -faced Langur trees are living in the trees. He said that the removal of the trees would only come to the ground when their paths were blocked.
+
+It is against this backdrop that people in urban areas now feel the purple -facing leankers as a harmful insect.
+
+Western purple -faced Langur is a species protected under Section 30 of the Plants and Plants Protection Ordinance (FFPO).It is an internationally dangerous animal by IUCN.
+
+◼️
 
 [Data](articles/88726e59.json)
 
+[Extended Data](ext_articles/88726e59.ext.json)
+
 ---
 
-### ஊதா நிற இலை வடிவ முகம் கொண்ட குரங்குகள் மரணிக்கும் அபாயம் - விலங்கு நடத்தை ஆய்வாளர்
+### The risk of death of monkeys with purple leaf -shaped face - animal behavior analyst
 
 *2024-03-19 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179089) · `ta`
 
-ஊதா நிற இலை வடிவ முகம் கொண்ட குரங்குகள் என்றும் அழைக்கப்படும் மேற்கத்திய நாடுகளில் காணப்படும் ஊதா முகம் கொண்ட லாங்கர் இன குரங்குகள் நகர்ப்புறங்களில் காடழிப்பு காரணமாக, உணவு மற்றும் ஓய்வெடுக்கும் இடங்களைத் தேடி குடியிருப்பு பகுதிகளை நோக்கி படையெடுத்துள்ளன.
+Purple-faced Langer Monkeys, found in Western countries, face risks from dogs, humans, and vehicles due to urban deforestation. Recently, three were shot dead near Talangama Lake, and two injured. They're protected under Section 30 of the FFPO, but their presence in urban areas is concerning.
 
-இதன் காரணமாக இந்த குரங்குகளுக்கு நாய்கள், மனிதர்கள் மற்றும் வாகனங்களினால் ஆபத்தை எதிர்நோக்கம் அபாயத்தில் உள்ளதாக ஸ்மித்சோனியன் நிறுவனத்தின்  விலங்கு நடத்தை ஆய்வாளரும், சூழலியல் நிபுணருமான  பேராசிரியர் வொல்ப்காங் டிட்டஸ்  தெரிவித்துள்ளார்.
+🟩
 
-அண்மையில் தலங்கம ஏரிக்கு அருகில் ஊதா நிற முகமுடைய மூன்று லாங்கர்கள் மீது துப்பாக்கிச் சூடு நடத்தப்பட்டதாகவும், அவற்றில் இரண்டு  காயங்களுக்குள்ளாகியுள்ளதாகவும் சமூக ஊடகங்களில் பதிவிடப்பட்டது.
+Purple -faced Langer Monkeys found in Western countries, also known as purple -leaf -shaped monkeys, have invaded residential areas in search of food and rest due to deforestation in urban areas.
 
-ஊதா நிற இலை வடிவ முகம் கொண்ட குரங்குகள் மரங்களில் வாழும் உயிரினம்.
+As a result, the monkeys are in danger of facing the risk of dogs, humans and vehicles, said Professor Wolfkang Ditus, a Smithsonian's animal behavioral analyst and ecological expert.
 
-இந்த சூழ்நிலையில் அதான் தற்போது  நகர்ப்புறங்களில் உள்ள மக்கள் தாவரங்களில் அழிவை ஏற்படுத்தும் பூச்சுகளை போல ஊதா நிற இலை வடிவ முகம் கொண்ட குரங்குகளை எண்ணுகிறார்கள்.
+Recently, it was reported on social media that three purple faces were shot dead near the Talangama Lake and two of them were injured.
 
-...
+Monkeys living in trees with purple leaf -shaped face.
+
+In this situation, people in urban areas now count the purple leaf -shaped monkeys, like the ruins that cause destruction in plants.
+
+Purple -faced Langur Monkeys found in Western countries are a species protected under Section 30 of the Plants and Animals Protection Authority (FFPO).
+
+He said it was estimated by the International Union for Natural Protection (IUCN) that this is a nearby race.
+
+◼️
 
 [Data](articles/40c5525c.json)
 
+[Extended Data](ext_articles/40c5525c.ext.json)
+
 ---
 
-### மத்திய மாகாணத்தின்  முதலாவது சப்ததள 108 அடி இராஜகோபுர ஆலயமாக  அட்டன் ஸ்ரீ  மாணிக்கப்பிள்ளையார் தேவஸ்தானம்
+### Explosive ’devil comet’ returns for 1st time in 71 years
+
+*2024-03-19 10:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Explosive-devil-comet-returns-for-1st-time-in-71-years/108-279140) · `en`
+
+A rare and massive comet with a devilish nickname is set to pass by Earth for the first time in 71 years and may be visible during the highly anticipated April 8 total solar eclipse, according to NASA.
+
+Officially named comet 12P/Pons-Brooks, the cryovolcanic comet is known as the "devil comet" due to its formation of two "horns" made up of ice and gas and periodic explosions.
+
+Comets are made up of dust, frozen gases, ice and rocks bound together following the formation of the solar system, NASA says.
+
+The devil comet is heading for its next perihelion passage, when it will reach its closest point to the sun and shine the brightest, on April 21, according to NASA. The agency says this astronomical event coincides with the April 8 total solar eclipse in North America, which will shadow parts of the United States from Texas to Maine when the moon passes between the sun and the Earth.
+
+...
+
+[Data](articles/5afaff85.json)
+
+---
+
+### Attan Sri Manikkapillai Devasthanam
 
 *2024-03-19 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179093) · `ta`
 
-மத்திய மாகாணத்தில் நுவரெலியா மாவட்டத்தின் தலைநகராக மக்களால் போற்றப்படுவது அட்டன் மாநகராகும். சமாதான நகரம் என்ற பெருமையோடு விளங்கும் அட்டன் பிரதேசத்துக்கு  155 வருட வரலாறு உள்ளது. இங்குள்ள புகையிரத நிலையம் 1884 ஆம் ஆண்டு ஆரம்பிக்கப்பட்டது.
+Attan Sri Manikkapillai Devasthanam, capital of Nuwara Eliya district, is Hatton, a peaceful city with a 155-year history, including a railway station opened in 1884.
+
+🟩
+
+Attan Municipality is the capital of the Nuwara Eliya district. Hatton, which is proud to be a city of peace, has a 155 -year history. The railway station was opened in 1884.
 
 ◼️
 
 [Data](articles/b6e0b358.json)
 
+[Extended Data](ext_articles/b6e0b358.ext.json)
+
 ---
 
-### மலையக கட்சிகள் யாருக்கு, எதற்கு  ஆதரவளிக்க வேண்டும்?
+### To whom and to support the upcountry parties?
 
 *2024-03-19 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179092) · `ta`
 
-முதலில் வரப்போவது  பாராளுமன்றத் தேர்தலா ஜனாதிபதித் தேர்தலா  என்ற கேள்விகள் நாட்டு மக்கள் அனைவரினதும் மனதில் ஏற்பட்டுள்ளது. கூட்டணிகளை உருவாக்குவதில் தேசிய கட்சிகள் மும்முரமாக ஈடுபட்டு வருகின்றன. தேசிய மக்கள் சக்தியைத் தவிர வேறு எந்த கூட்டணியும் கைசுத்தமாக இல்லை என்பதை நாட்டு மக்களும் அறிவர். இதன் காரணமாகவே யாரையும் தமது கூட்டணியில் இணைத்துக்கொள்வதைத் தவிர்த்து வரும் அநுர குமார திசாநாயக்க, தானும் யாருடன் சென்று இணைந்து கொள்வதில்லை என்ற முடிவில் இருக்கின்றார்.
+The upcountry parties' role and support are a topic of debate. National parties are forming alliances, with the Tamil Progressive Alliance and Ceylon Workers Congress showing shifts in their political stances. The TNA has signed an agreement with Sajith, focusing on social justice and land rights, raising questions about the government's responsibilities. The CWC's support for President Wickremesinghe over the UNP indicates a shift in alliances. The TNA's demands, including housing, salaries, and land rights, highlight the government's obligations. The situation suggests a complex political landscape with shifting alliances and demands for social justice.
 
-இந்நிலையில் மலையக அரசியல் கட்சிகள் என்ன மனநிலையில் இருக்கின்றன என்பது முக்கிய விடயம். ஏற்கனவே கூட்டணியாக செயற்படும் தமிழ் முற்போக்குக் கூட்டணி, சஜித் தலைமையிலான ஐக்கிய மக்கள் சக்தி எனும் கூட்டணிக்கு ஆதரவாக செயற்பட்டு வருகின்றது. இலங்கை தொழிலாளர் காங்கிரஸ் ஆரம்பத்தில் பொதுஜன பெரமுன என்ற பல கட்சிகளின் கூட்டணிக்கு தான் ஆதரவாக இருந்தது. இப்போது அதிலிருந்து வெளியேறி  நேரடியாக ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு ஆதரவளித்து வருகின்றது. அதற்காக இ.தொ.கா ஐக்கிய தேசிய கட்சிக்கு ஆதரவளிப்பதாக கருதி விட முடியாது.
+🟩
+
+Questions about whether the first to come to the parliamentary election or the presidential election is in the minds of the people of the country. National parties are busy creating alliances. The people of the country know that no coalition other than the national power of the people. This is why Anura Kumara Dissanayake, who is avoiding joining anyone in his alliance, is on the verge of not joining with whom.
+
+In this case, what is the point of the upcountry political parties. The Tamil Progressive Alliance, which is already a coalition, is working in favor of the Sajith -led United People's Power. The Ceylon Workers Congress initially supported the coalition of many parties called the PA. Now, it is directly supporting President Ranil Wickremesinghe. For that, the CWC cannot be assumed to support the United National Party.
 
 ...
 
 [Data](articles/afceff00.json)
+
+[Extended Data](ext_articles/afceff00.ext.json)
 
 ---
 
@@ -136,17 +252,23 @@ Justice Minister Wijeyadasa Rajapaksha said the government cannot intervene in m
 
 ---
 
-### ஒருவர் தீவைத்துக்  கொலை: எல்ல பொலிஸாரால் சந்தேக நபர் கைது!
+### Suspect arrested by all police
 
 *2024-03-19 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179090) · `ta`
 
-எல்ல பொலிஸ் பிரிவுக்கு உட்பட்ட  ஊவா கரந்தகொல்ல பிரதேசத்தில் வீடு ஒன்றில்  ஆண் ஒருவரை தீவைத்து கொலை செய்த சம்பவம் தொடர்பில் சந்தேக நபரொருவர் நேற்று (18) கைது செய்யப்பட்டுள்ளார்.
+A 44-year-old from Karandakolla was arrested for the murder of a man in Uva Karandagolla, Ella Police Division.
 
-இவ்வாறு கைது செய்த சந்தேக நபர் கரந்தகொல்ல, எல்ல பிரதேசத்தைச் சேர்ந்த 44 வயதுடையவராவார்.
+🟩
+
+A suspect has been arrested yesterday (18) in connection with the murder of a man in a house in Uva Karandagolla, which belongs to the Ella Police Division.
+
+The suspect was the 44 -year -old from Karandakolla, who was arrested.
 
 ◼️
 
 [Data](articles/f566c9f1.json)
+
+[Extended Data](ext_articles/f566c9f1.ext.json)
 
 ---
 
@@ -455,6 +577,22 @@ The Colombo Stock Exchange opened down; the All Share Price Index was down 0.03 
 [Data](articles/3d8ec5d1.json)
 
 [Extended Data](ext_articles/3d8ec5d1.ext.json)
+
+---
+
+### School which have not received textbooks, uniforms urged to notify authorities
+
+*2024-03-19 09:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/School-which-have-not-received-textbooks-uniforms-urged-to-notify-authorities/108-279141) · `en`
+
+Colombo, March 19 (Daily Mirror) - The Education Ministry today requested all school principals to inform them if their schools have not received school text books and uniform fabric for 2024 yet.
+
+While issuing a notice, the Ministry said that school text books and uniform fabric have been despatched to all government schools through Divisional Education Offices in the island for distribution to all schools.
+
+The Education Ministry requests the principals of any schools that have not received the their text books and uniforms to inform them immediately through the following telephone, fax or email.
+
+◼️
+
+[Data](articles/83c64ba8.json)
 
 ---
 
@@ -1997,131 +2135,5 @@ It is noteworthy that the suspect was arrested with 2.42 grams of heroin during 
 [Data](articles/20046289.json)
 
 [Extended Data](ext_articles/20046289.ext.json)
-
----
-
-### Drugs divided around the country and arrested Dhammika arrested
-
-*2024-03-18 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194654) · `si`
-
-Karate Dhammika, a drug dealer, was arrested with 19 grams of heroin and 200 milligrams, along with a motorcycle, phone, and SIM cards. Two Kegalle residents were involved. The raid was supported by Kandy's Narcotics Bureau officers. The main suspect, sentenced to five years, was also charged with ammunition and a firearm. A special investigation into underworld activities in the South is ongoing. The suspects are detained for 7 days at Dambulla Magistrate Court.
-
-🟩
-
-A racketeer of the drug dealer has been arrested by a racketeer, Karate Dhammika, a racketeer who was engaged in a number of ice and heroin in areas.
-
-Police have found 19 grams of heroin and 200 milligrams in possession of the suspects.
-
-Also, a three-wheeler, motorcycle, telephone, and several SIM cards were found.
-
-It has been revealed that both suspects have been arrested were two residents of the Kegalle area.
-
-The raid was carried out with the assistance of a group of the officers of the Police Narcotics Bureau in Kandy.
-
-When the raid was raided, the suspects had attempted to escape and struggled with the suspects.
-
-It has been revealed that the main suspect in charge of the heroin racket has been sentenced to five years in prison.
-
-It has been reported that a court case is being heard in charge of 10 wonders of the ammunition and 44 live ammunition.
-
-It has also been revealed that a case is being heard in the Kegalle court against the suspect in charge of having a Micro pistol firearm.
-
-...
-
-[Data](articles/430813ca.json)
-
-[Extended Data](ext_articles/430813ca.ext.json)
-
----
-
-### Hirunika files action against Deshabandu
-
-*2024-03-18 21:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hirunika-files-action-against-Deshabandu/108-279087) · `en`
-
-Colombo, March 18 (Daily Mirror) - Former Parliamentarian Hirunika Premachandra today filed a Fundamental Rights petition in the Supreme Court seeking an order restraining Deshabandu Tennakoon from discharging the duties and functioning in the office of Inspector General of Police (IGP).
-
-In her petition, Hirunika named Secretary to the President Saman Ekanayake, Chairman of the Constitutional Council Speaker Mahinda Yapa Abeywardana, members of the Constitutional Council and the Attorney General as respondents.
-
-The petitioner stated that the Attorney General had made a communication to name Tennakoon as a suspect in a matter before the Magistrate’s Court of Fort pertaining to the attack on peaceful protesters at Galle Face on May 09, 2022.
-
-...
-
-[Data](articles/7c1c4458.json)
-
-[Extended Data](ext_articles/7c1c4458.ext.json)
-
----
-
-### CBSL to reach decision over salary hike controversy
-
-*2024-03-18 21:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98036/cbsl-to-reach-decision-over-salary-hike-controversy) · `en`
-
-The administration of the Central Bank of Sri Lanka has commenced discussions with the employees regarding the possible reduction of their increased salaries by a certain percentage, according to sources.
-
-However, joining a press conference held today (18), MP Nalaka Godahewa claimed that the CBSL trade unions have protested the relevant decision.
-
-Recent media reports revealed that the CBSL had increased the salaries of its employees by 70% and the move was heavily criticized by parliamentarians of both the ruling party and the opposition, following which the CBSL officials were summoned before the Cabinet, party leaders’ meeting and the Committee on Public Finance (COPF) to question the move.
-
-...
-
-[Data](articles/ef52da87.json)
-
-[Extended Data](ext_articles/ef52da87.ext.json)
-
----
-
-### Sri Lanka names Test squad for Bangladesh Test series
-
-*2024-03-18 20:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-names-Test-squad-for-Bangladesh-Test-series/108-279089) · `en`
-
-Mar. 18 (SLC) - Minister of Sports and Youth Affairs Harin Fernando approved the 17-member squad selected by the Sri Lanka Cricket Selection Committee to take part in the Test series against Bangladesh.
-
-The two match test series will commence on the 22nd March at SICS, Sylhet
-
-◼️
-
-[Data](articles/59e3f3b9.json)
-
-[Extended Data](ext_articles/59e3f3b9.ext.json)
-
----
-
-### Sri Lanka Test team against Bangladesh
-
-*2024-03-18 20:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194653) · `si`
-
-Sri Lanka's Test team is named after two matches against Bangladesh.
-
-🟩
-
-The Sri Lankan squad is named after the two matches with two matches against Bangladesh.
-
-◼️
-
-[Data](articles/a91c5bfe.json)
-
-[Extended Data](ext_articles/a91c5bfe.ext.json)
-
----
-
-### Mushfiqur mocks Mathews, recreates helmet malfunction scene from World Cup after ODI series win
-
-*2024-03-18 20:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mushfiqur-mocks-Mathews-recreates-helmet-malfunction-scene-from-World-Cup-after-ODI-series-win/108-279088) · `en`
-
-Mar. 18 (TBS) - During the post-match presentation, Mushfiqur Rahim celebrated the win by mocking Angelo Mathews' 'timed out' dismissal during the ICC Cricket World Cup 2023 as he gestured with a broken helmet.
-
-The 'timed out' controversy was reignited as Bangladesh's veteran batter Mushfiqur Rahim recreated Angelo Mathews' helmet malfuntion incident after the Tigers' ODI series win at Zahur Ahmed Chowdhury Stadium on Monday.
-
-During the post-match presentation, Mushfiqur Rahim celebrated the win by mocking Angelo Mathews' 'timed out' dismissal during the ICC Cricket World Cup 2023 as he gestured with a broken helmet.
-
-Mushfiq urged everyone to gather for a team photo as the winners' trophy was placed in front. He brought along a helmet, hinting at the incident with Mathews during the World Cup. The entire team burst into laughter at that moment.
-
-When asked about this at the press conference, Bangladesh captain Shanto calmly stated, "Nothing much, just a celebration with the helmet."
-
-...
-
-[Data](articles/3036cfb5.json)
-
-[Extended Data](ext_articles/3036cfb5.ext.json)
 
 ---

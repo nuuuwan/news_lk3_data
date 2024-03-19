@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 18:20:26**
+As of **2024-03-19 18:34:12**
 
 ## Newspaper Stats
 
@@ -26,37 +26,49 @@ adaderanasinhalalk | 2,211
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,879 (100.0%) of 13,885 articles have been extended.
+13,885 (100.0%) of 13,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### சஜித் பிரேமதாசவின் கோரிக்கையை நிராகரித்த கொழும்பு மாவட்ட நீதிமன்றம்!
+### Colombo district court rejected Sajith Premadasa's request
 
 *2024-03-19 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/179159) · `ta`
 
-பீல்ட் மார்ஷல் சரத் பொன்சேகாவை  ஐக்கிய மக்கள் சக்தியில் வகிக்கும் பதவிகளிலிருந்து நீக்குவதற்கு விதிக்கப்பட்ட தடை உத்தரவை தளர்த்துமாறு  ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாச விடுத்த கோரிக்கையை கொழும்பு மாவட்ட நீதிமன்றம் செவ்வாய்க்கிழமை (19) நிராகரித்துள்ளது.
+The Colombo District Court rejected Sajith Premadasa's request to lift the ban on Field Marshal Sarath Fonseka from the United People's Power, extending it until April 2.
 
-இதன்படி, குறித்த தடை உத்தரவை எதிர்வரும் ஏப்ரல் மாதம் 2 ஆம் திகதி வரை நீடிக்குமாறு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+🟩
 
-சரத் பொன்சேகா தாக்கல் செய்த முறைப்பாட்டை பரிசீலித்த கொழும்பு மாவட்ட நீதிமன்றம் இந்த தடை உத்தரவை  முன்னர் பிறப்பித்திருந்தது.
+The Colombo District Court on Tuesday (19) rejected the request of United People's Power Leader Sajith Premadasa to relax the ban on Field Marshal Sarath Fonseka from the United People's Power.
+
+Accordingly, the court has ordered the ban to extend until April 2.
+
+The Colombo District Court had earlier issued the order, considering the complaint filed by Sarath Fonseka.
 
 ◼️
 
 [Data](articles/50d5cfe4.json)
 
+[Extended Data](ext_articles/50d5cfe4.ext.json)
+
 ---
 
-### கோப் குழுவிலிருந்து சாணக்கியன் இராசமாணிக்கம், ஹேஷா விதானகே இருவரும்  இராஜினாமா!
+### Both the Cobb group resigns from Chanakyan Rasamanikam and Hesha Vidhanage!
 
 *2024-03-19 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179158) · `ta`
 
-தமிழ்த் தேசியக் கூட்டமைப்பின்  நாடாளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம் மற்றும் ஐக்கிய மக்கள் சக்தியின்  நாடாளுமன்ற உறுப்பினர் ஹேஷா விதானகே ஆகியோரும் பொது நிறுவனங்கள் தொடர்பான குழுவிலிருந்து (கோப்) இராஜினாமா செய்துள்ளனர்.
+Cobb group resigns from Chanakyan Rasamanikam and Hesha Vidhanage, also from Committee of Public Companies (COP).
+
+🟩
+
+Tamil National Alliance (TNA) parliamentarian Chanakyan Rasamanikam and United People's Power MP Hesha Vidanage have also resigned from the Committee of Public Companies (COP).
 
 ◼️
 
 [Data](articles/15878bbc.json)
+
+[Extended Data](ext_articles/15878bbc.ext.json)
 
 ---
 
@@ -133,6 +145,8 @@ Faiszer Musthapha PC with Shaheeda Barrie, Mehran Careem, Pulasthi Rupasinghe an
 ◼️
 
 [Data](articles/bd865f70.json)
+
+[Extended Data](ext_articles/bd865f70.ext.json)
 
 ---
 
@@ -239,6 +253,8 @@ SJB parliamentarian Eran Wickramaratne resigned from COPE yesterday while MPs Da
 ◼️
 
 [Data](articles/9f835403.json)
+
+[Extended Data](ext_articles/9f835403.ext.json)
 
 ---
 
@@ -841,6 +857,8 @@ They said they could not function as the members of the COPE under its current C
 ◼️
 
 [Data](articles/2004de21.json)
+
+[Extended Data](ext_articles/2004de21.ext.json)
 
 ---
 
@@ -1972,19 +1990,25 @@ A special operation under the 'Yukthiya' initiative was launched today and Inspe
 
 ---
 
-### ආගමික ස්ථාන සඳහා සූර්ය පැනල සවි කිරීමට ඉන්දිය ණයෙන් කොටසක් වෙන් කරයි
+### Separates a part of Indian debt to fasten the solar panels for religious places
 
 *2024-03-19 12:31:33* · [`adalk`](https://www.ada.lk/breaking_news/ආගමික-ස්ථාන-සඳහා-සූර්ය-පැනල-සවි-කිරීමට-ඉන්දිය-ණයෙන්-කොටසක්-වෙන්-කරයි/11-408694) · `si`
 
-ඉන්දියානු රාජ්‍ය බැංකුව විසින් ලබාදෙන ඇමරිකානු ඩොලර් මිලියන 1000ක ණය පහසුකම යටතේ ඇමරිකානු ඩොලර් මිලියන 17ක සීමාවකට යටත්ව, අාගමික ස්ථාන වල පියැසි පාදක සූර්ය විදුලිබල පද්ධති ක්‍රියාත්මක කිරීම සදහා 2024-01-08 දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී අනුමැතිය හිමිවිය.
+The Cabinet, on 08-01-01.2010, approved a project to install solar panels in religious places, funded by the Indian State Bank. Minister Kanchana Wijesekara led the initiative. Six bids were received for the project, and the Standing Procurement Committee will select the institution to implement it.
 
-විදුලි බල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවට මෙම අනුමැතිය ලැබී තිබේ.
+🟩
 
-ඒ අනූව එම ව්‍යාපෘතිය ක්‍රියාත්මක කිරීම පිණිස සුදුසු ආයතනයක් තෝරා ගැනීම සදහා ලංසු කැදවා ඇති අතර ලංසු 06ක් ලැබී ඇත. තාක්ෂණික ඇගයීම් කමිටුව හා අමාත්‍ය මණ්ඩලය විසින් පත්කරන ලද ස්ථාවර ප්‍රසම්පාදන කමිටුව විසින් ඉදිරිපත් කරනු ලැබ ඇති නිර්දේශය සම්බන්ධයෙන් ප්‍රසම්පාදන අභියාචන මණ්ඩලය විසින් ඉදිරිපත් කරනු ලැබි ඇති නිර්දේශ සැලකිල්ලට ගෙන පියැසි පාදක සූර්ය බලශක්ති ව්‍යාපෘති ක්‍රියාත්මක කිරීමේ ප්‍රසම්පාදනය ඇමරිකානු ඩොලර් මිලියන 17ක කොන්ත්‍රාත් මිලකට M/s Premier Energies Ltd වෙත ප්‍රදානය කිරීම කිරීමට නියමිතය.
+At the Cabinet Meeting held at the Cabinet Meeting held on 08-01-01.2010 to the implementation of the wake-based solar power systems of the Indian State Bank.
+
+The cabinet paper presented by the Minister of Power and Energy, the Minister of Power and Energy Kanchana Wijesekara has received this approval.
+
+Accordingly, the bids have been summoned to select an appropriate institution to implement the project, and 06 bids received. Procurement of the procurement of procurement of procurement of procurement committee and the Standing Procurement Committee appointed by the Cabinet of Procurement Procedure.Will be awarded to.
 
 ◼️
 
 [Data](articles/5e2eae43.json)
+
+[Extended Data](ext_articles/5e2eae43.ext.json)
 
 ---
 

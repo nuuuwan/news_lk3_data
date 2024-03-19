@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 15:03:04**
+As of **2024-03-19 15:18:10**
 
 ## Newspaper Stats
 
-*Scraped **13,827** Articles*
+*Scraped **13,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 730
 islandlk | 760
 adalk | 1,192
 adaderanalk | 1,662
-tamilmirrorlk | 1,679
-virakesarilk | 1,930
+tamilmirrorlk | 1,681
+virakesarilk | 1,931
 dailymirrorlk | 2,114
 adaderanasinhalalk | 2,200
 
@@ -26,53 +26,85 @@ adaderanasinhalalk | 2,200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,822 (100.0%) of 13,827 articles have been extended.
+13,827 (100.0%) of 13,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### ඇෆ්ගනිස්තානය සමග ක්‍රිකට් ගහන්න ඔස්ට්‍රේලියාව බෑ කියයි
+### O/L பரீட்சைக்கான நேர அட்டவணை வெளியானது
+
+*2024-03-19 15:01:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சைக்கான-நேர-அட்டவணை-வெளியானது/175-334888) · `ta`
+
+2024 ஆம் ஆண்டுக்கான க.பொ.த சாதாரண தர பரீட்சை மே மற்றும் ஜூன் மாதங்களில் நடைபெறும் என அறிவிப்பாட்டிருந்தது.
+
+இந்த நிலையில், தற்போது குறித்த பரீட்சைக்கான நேர அட்டவணையை கல்வி அமைச்சு வெளியிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/c514fcc2.json)
+
+---
+
+### நானுஓயாவில் கஞ்சா போதைப்பொருளுடன் லொறி சாரதி கைது
+
+*2024-03-19 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179123) · `ta`
+
+நானுஓயா பொலிஸ் பிரிவிற்குட்பட்ட நானுஓயா ரதல்ல குறுக்கு வீதிக்கு அருகில் தலவாக்கலை -  நுவரெலியா பிரதான வீதியில் திங்கட்கிழமை (18) இரவு நானுஓயா பொலிஸார் மேற்கொள்ளப்பட்ட யுக்திய நடவடிக்கையின் கீழ் மேற்கொண்ட சோதனை நடவடிக்கைக்கு அமைய இவ்வாறு கைது நடவடிக்கை இடம்பெற்றுள்ளது.
+
+இவ்வாறு மீட்கப்பட்ட கஞ்சா போதைப்பொருள் 180 மில்லிகிராம் நிறையுடையது எனவும். கைது செய்யப்பட்ட லொறி சாரதி பதுளை - ஹாலிஎல பகுதியைச் சேர்ந்த 27 வயது உடையவர் என பொலிஸார் தெரிவித்தனர்.
+
+மேலதிக விசாரணையின் பின்னர் சந்தேகநபர் இன்று செவ்வாய்க்கிழமை நுவரெலியா மாவட்ட நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e1d4d12b.json)
+
+---
+
+### தயாசிறியும் இராஜினாமா
+
+*2024-03-19 14:55:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தயாசிறியும்-இராஜினாமா/175-334887) · `ta`
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் தயாசிறி ஜயசேகர பொது நிறுவனங்கள் தொடர்பான பாராளுமன்ற  (கோப்) குழுவின் உறுப்புரிமையில் இருந்து விலகியுள்ளார்.
+
+இது தொடர்பான கடிதம் சபாநாயகர் மஹிந்த யாப்பா அபேவர்தனவுக்கு அனுப்பி வைக்கப்பட்டுள்ளது. ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர்  எரான் விக்கிரமரத்னவும் அக்குழுவில் இருந்து திங்கட்கிழமை (18) விலகியமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/15ec2d2b.json)
+
+---
+
+### Australia cares to catch cricket with Afghanistan
 
 *2024-03-19 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194684) · `si`
 
-ඇෆ්ගනිස්තානය සමග පැවැත්වීමට නියමිතව තිබූ තරග තුනකින් සමන්විත 20-20 ජාත්‍යන්තර ක්‍රිකට් තරගාවලිය කල් දැමීමට ඔස්ට්‍රේලියා ක්‍රිකට් ආයතනය තීරණය කර තිබේ.
+Australia postpones 20-20 cricket tournament with Afghanistan due to weakening humanitarian rights for women and girls.
 
-ඔස්ට්‍රේලියානු රජය සමග සාකච්ඡා කර ඔවුන් එම තීරණය ගෙන ඇති බව සඳහන් ය.
+🟩
 
-ඊට හේතුව ලෙස ඔවුන් සඳහන් කර ඇත්තේ "කාන්තාවන්ගේ සහ ගැහැණු ළමුන්ගේ මානුෂීය අයිතිවාසිකම් පැහැදිළි ලෙස දුර්වල වීම" බවයි.
+Australia has decided to postpone the 20-20 international cricket tournament to be held with Afghanistan.
 
-එළඹෙන අගෝස්තු මාසයේදී මධ්‍යස්ථ ක්‍රීඩා පිටියකදී එම තරගාවලිය පැවැත්වීමට නියමිතව තිබුණි.
+It is said that they have taken this decision with the Australian government.
 
-එය අයි සී සී තරග කාල සටහන අනුව පැවැත්වීමට නියමිතව තිබූ අතර මීට පෙර 2021 වසරේදී සහ 2023 වසරේදී ද ඇෆ්ගනිස්තානය සමග පැවැත්වීමට නියමිතව තිබු ටෙස්ට් තරගයකට සහ එක්දින ජාත්‍යන්තර තරගාවලියකට සහභාගී නොවී සිටීමට ඔස්ට්‍රේලියා ක්‍රිකට් ආයතනය තීරණය කළේය.
+They are mentioned that "the humanitarian rights of women and girls are clearly weakened."
+
+The tournament was scheduled to be held at a neutral playground in August.
+
+It was scheduled to be held in the ICC Contest Story and Australia decided not to participate in a Test match and one-day international tournament in 2021 and 2023.
 
 ◼️
 
 [Data](articles/662677cd.json)
 
----
-
-### Dayasiri Jayasekara also quit the Cobb group!
-
-*2024-03-19 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179120) · `ta`
-
-Dayasiri Jayasekara left the Cobb group, and MP Iran Wickremaratne resigned from the Parliamentary Committee (COP).
-
-🟩
-
-Meanwhile, United People's Power MP Iran Wickremaratne resigned from the Parliamentary Committee (COP) membership yesterday (18).
-
-◼️
-
-[Data](articles/89626433.json)
-
-[Extended Data](ext_articles/89626433.ext.json)
+[Extended Data](ext_articles/662677cd.ext.json)
 
 ---
 
 ### Three suspects arrested in Nugegoda
 
-*2024-03-19 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179118) · `ta`
+*2024-03-19 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179118) · `ta`
 
 Three suspects, aged 24, 26, and 32, from Nugegoda and Dehiwala, were arrested for drug trafficking. They were found with 6g of Ice, 12g of Ice, and 25g of Ice, and were seized with 22,600 money. Further investigations are ongoing.
 
@@ -99,6 +131,24 @@ Mirihana police said they were conducting further investigations into the incide
 [Data](articles/923c51da.json)
 
 [Extended Data](ext_articles/923c51da.ext.json)
+
+---
+
+### Dayasiri Jayasekara also quit the Cobb group!
+
+*2024-03-19 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179120) · `ta`
+
+Dayasiri Jayasekara left the Cobb group, and MP Iran Wickremaratne resigned from the Parliamentary Committee (COP).
+
+🟩
+
+Meanwhile, United People's Power MP Iran Wickremaratne resigned from the Parliamentary Committee (COP) membership yesterday (18).
+
+◼️
+
+[Data](articles/89626433.json)
+
+[Extended Data](ext_articles/89626433.ext.json)
 
 ---
 
@@ -133,6 +183,8 @@ The MPs were referring to an incident that saw the arrest of eight individuals o
 ...
 
 [Data](articles/a7f610b0.json)
+
+[Extended Data](ext_articles/a7f610b0.ext.json)
 
 ---
 
@@ -597,6 +649,8 @@ Premier Energies is India’s second largest solar cell and solar module manufac
 ◼️
 
 [Data](articles/fddd1baf.json)
+
+[Extended Data](ext_articles/fddd1baf.ext.json)
 
 ---
 
@@ -1108,6 +1162,8 @@ About 25 percent of Sri Lanka’s fuel needs are supplied by the refinery, the s
 
 [Data](articles/8707c7ac.json)
 
+[Extended Data](ext_articles/8707c7ac.ext.json)
+
 ---
 
 ### Prepare for presidential election first: President tells Cabinet
@@ -1203,6 +1259,8 @@ A ministerial sub-committee was formed tasked with producing a report to Cabinet
 ...
 
 [Data](articles/f0b1efbb.json)
+
+[Extended Data](ext_articles/f0b1efbb.ext.json)
 
 ---
 
@@ -2213,65 +2271,5 @@ At a meeting held in Kalutara, Nalinda Jayatissa said at a meeting held in Kalut
 [Data](articles/699c27ec.json)
 
 [Extended Data](ext_articles/699c27ec.ext.json)
-
----
-
-### Evening showers likely in certain parts of the island
-
-*2024-03-19 07:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98039/evening-showers-likely-in-certain-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Galle and Matara districts in the evening or night.
-
-Mainly dry weather will prevail elsewhere in the island, it said.
-
-Misty conditions can be expected at some places in Sabaragamuwa and Central provinces and in Galle and Kalutara districts during the morning.
-
-◼️
-
-[Data](articles/738f0cda.json)
-
-[Extended Data](ext_articles/738f0cda.ext.json)
-
----
-
-### The Jungle Beach Tragedy
-
-*2024-03-19 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194662) · `si`
-
-In Habaraduwa, a boy and girl on a stone were attacked. The girl, driven by locals, was rescued, but the boy vanished.
-
-🟩
-
-A boy and a girl who was sitting on a stone in the Habaraduwa Police Division was attacked.
-
-The girl who was driving by the residents had rescued and the boy has disappeared.
-
-◼️
-
-[Data](articles/a8dd5f67.json)
-
-[Extended Data](ext_articles/a8dd5f67.ext.json)
-
----
-
-### Annual health transfers in the Western Province suspended
-
-*2024-03-19 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194661) · `si`
-
-The annual health transfer in the Western Province is suspended due to accusations against hospital staff. Governor Marshal Roshan Gunatilleke and Minister Prasanna Ranatunga ordered the Ministry of Health Secretary to cancel the transfer and reinstate annual transfers.
-
-🟩
-
-The annual health transfer of the Western Province has been temporarily suspended.
-
-Hospital staff employees in the Western Province have been accused of an annual transferers in the Western Province.
-
-Accordingly, the Western Province Governor, Western Province Governor Marshal Roshan Gunatilleke, Minister Prasanna Ranatunga said that the Secretary of the Ministry of Health was instructed to cancel the transfer and implement annual transfers.
-
-◼️
-
-[Data](articles/c17f037e.json)
-
-[Extended Data](ext_articles/c17f037e.ext.json)
 
 ---

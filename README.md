@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 01:33:29**
+As of **2024-03-20 01:51:08**
 
 ## Newspaper Stats
 
-*Scraped **13,943** Articles*
+*Scraped **13,945** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 1,206
 adaderanalk | 1,678
 tamilmirrorlk | 1,691
 virakesarilk | 1,950
-dailymirrorlk | 2,130
+dailymirrorlk | 2,132
 adaderanasinhalalk | 2,220
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,943 (100.0%) of 13,943 articles have been extended.
+13,943 (100.0%) of 13,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### Amid election fever a dark horse rises - EDITORIAL
+
+*2024-03-20 01:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Amid-election-fever-a-dark-horse-rises-EDITORIAL/172-279181) · `en`
+
+Polls fever in the country is heating up. Yet, ‘we the people’ are not certain whether the poll would be for a general election, presidential poll or whether a poll will be held at all. Our constitution however, dictates a presidential election is due during the fourth quarter of the year.
+
+One thing seems certain; we still see the same faces who played a major role in bankrupting the country, putting themselves forward to lead us and our country into new vistas of prosperity.
+
+While political parties are busy blaming each other for bringing this country to a state of bankruptcy, we do not hear any one of them raising a hand and saying ‘mea maxima culpa’ – through my most grievous fault or even saying ‘I am sorry’. Rather, we are being treated to a number of political dramas.
+
+...
+
+[Data](articles/f90c3d37.json)
+
+---
+
+### Wales elects first Black First Minister in Europe
+
+*2024-03-20 01:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Wales-elects-first-Black-First-Minister-in-Europe/172-279180) · `en`
+
+Growing support for more devolution of power to Wales and even independence from the UK
+
+“Devolution - Welsh solutions to Welsh problems - that’s in my priority,” Gething declared.
+
+Vaughan Gething, who was elected as First Minister (Chief Minister) of Wales last week, is the first Black to head a government in Europe. He is the fourth non-White head of government in the British Isles.
+
+The politics of the British Isles is now truly multi-racial, a major and unprecedented development in British politics.
+
+The British Prime Minister Rishi Sunak is an Indian. The Scottish First Minister is Hamza Yousaf, a Pakistani. The Irish Prime Minister (called the Taoiseach in the Irish language) is Leo Varadkar, who is part Indian. And now, the Welsh First Minister, called “prif weinidog” in the Welsh language, is Vaughan Gething, a half Zambian, the father being White and the mother a Black African.
+
+...
+
+[Data](articles/766b8dd0.json)
+
+---
 
 ### What Gota did not tell
 
@@ -2195,55 +2231,5 @@ The membership of the Committee on Public Enterprises (COPE) has previously resi
 [Data](articles/a8230206.json)
 
 [Extended Data](ext_articles/a8230206.ext.json)
-
----
-
-### Three tickets arrested
-
-*2024-03-19 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194685) · `si`
-
-"Three arrested by 'notorious tickets' gang in drug trafficking. Two 32, one 38, and one 34, from Gonapala. STF raid in Kandy. Handed to Kandy Police for investigation."
-
-🟩
-
-A woman and two persons have been arrested by a criminal gang which is called "notorious tickets" involved in large-scale drug trafficking and organizational crimes.
-
-The suspects have been arrested following a raid in the Kandy camp group of the Special Task Force in the Kakodarama Road, Kandy.
-
-The arrested persons were two ages of 32, 38 years of age and a 34-year-old resident of Gonapala area.
-
-It is reported that the STIs have taken over Rs.
-
-The suspects have been handed over to the Kandy Police Station for further investigations.
-
-◼️
-
-[Data](articles/541fdf11.json)
-
-[Extended Data](ext_articles/541fdf11.ext.json)
-
----
-
-### Fire on power rod: death one in shock
-
-*2024-03-19 15:16:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மின்-கம்பியில்-தீ-அதிர்ச்சியில்-ஒருவர்-மரணம்/76-334889) · `ta`
-
-A man, Subbaiah Shanmugam, 58, died after being electrocuted by a burning power rod in Punduloya. The incident occurred in a residential area, prompting investigations and calls for Ceylon Electricity Board officials to address electrical issues.
-
-🟩
-
-A man who fell on the ground after being shocked by the Sean Estate Division, which belongs to the Punduloya police division, has died.
-
-Investigations have revealed that the person who was shocked to see the power lines were burning in the power pole in the four -serial residential area of the four -wheeler.
-
-Punduloya police said that Subbaiah Shanmugam (58 years old) was killed in the incident which took place on Sunday evening (17).
-
-The plantation people have called for the Ceylon Electricity Board's regional technology officials to visit the Ceylon Electricity Board on electrical leaks and connectivity wires in the plantation of the plantation.
-
-◼️
-
-[Data](articles/d2be1adf.json)
-
-[Extended Data](ext_articles/d2be1adf.ext.json)
 
 ---

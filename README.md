@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 23:52:21**
+As of **2024-03-20 00:02:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,220
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,928 (100.0%) of 13,929 articles have been extended.
+13,929 (100.0%) of 13,929 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -95,6 +95,8 @@ Janaka Rathnakumara, the Chief Operating Officer of Wijeya Group of Companies, A
 ◼️
 
 [Data](articles/0833159c.json)
+
+[Extended Data](ext_articles/0833159c.ext.json)
 
 ---
 
@@ -218,7 +220,15 @@ The Finance Ranjith Siyambalapitiya was held today afternoon.
 
 Sri Lanka Customs Officers’ Union has decided to temporarily call off its trade union action following a discussion with Finance State Minister Ranjith Siyambalapitiya.
 
-◼️
+Speaking on the matter, the Customs Officers’ Union said the meeting held with the state minister ended on a positive note.
+
+However, as there are more matters to be clarified, more discussions will be convened in the coming days and a final decision is expected to be reached by March 31.
+
+Accordingly, the operations at the Customs, which were hampered by the trade union action, will return to normalcy by tomorrow morning. Additionally, the clearance of containers held up at the Colombo Port will also be resumed.
+
+Stating Friday (March 15), Customs officials including superintendents and staff officers have been engaged in a trade union action in protest of the Treasury’s decision to bring the Customs Officers Reward Fund under the purview of the Finance Ministry.
+
+...
 
 [Data](articles/c04426b2.json)
 

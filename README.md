@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 07:52:27**
+As of **2024-03-19 08:02:54**
 
 ## Newspaper Stats
 
-*Scraped **13,715** Articles*
+*Scraped **13,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ economynextcom | 724
 dailyftlk | 727
 islandlk | 759
 adalk | 1,179
-adaderanalk | 1,645
-tamilmirrorlk | 1,665
+adaderanalk | 1,646
+tamilmirrorlk | 1,666
 virakesarilk | 1,916
-dailymirrorlk | 2,094
-adaderanasinhalalk | 2,177
+dailymirrorlk | 2,095
+adaderanasinhalalk | 2,179
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,715 (100.0%) of 13,715 articles have been extended.
+13,715 (100.0%) of 13,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### Evening showers likely in certain parts of the island
+
+*2024-03-19 07:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98039/evening-showers-likely-in-certain-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Galle and Matara districts in the evening or night.
+
+Mainly dry weather will prevail elsewhere in the island, it said.
+
+Misty conditions can be expected at some places in Sabaragamuwa and Central provinces and in Galle and Kalutara districts during the morning.
+
+◼️
+
+[Data](articles/738f0cda.json)
+
+---
+
+### ජංගල් බීච් ඛේදවාචකය
+
+*2024-03-19 07:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194662) · `si`
+
+හබරාදූව පොලිස් වසමේ ජංගල් බීච් වෙරළ තීරයේ ගලක් මත හිඳගෙන සිටි පිරිමි ළමයෙකු සහ ගැහැනු ළමයෙකු රළ පහරට ගසා ගෙන ගොස් ඇත.
+
+ප්‍රදේශවාසීන් විසින් ගසාගෙන යමින් සිටි ගැහැනු ළමයා බේරාගෙන ඇති අතර පිරිමි ළමයා මේ වනවිට අතුරුදන් වී ඇත.
+
+◼️
+
+[Data](articles/a8dd5f67.json)
+
+---
+
+### බස්නාහිර පළාතේ වාර්ෂික සෞඛ්‍ය මාරු තාවකාලිකව අත්හිටුවයි
+
+*2024-03-19 07:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194661) · `si`
+
+බස්නාහිර පළාතේ වාර්ෂික සෞඛ්‍ය මාරු තාවකාලිකව අත්හිටුවීමට තීරණය කර තිබේ.
+
+බස්නාහිර පළාතේ වාර්ෂික ස්ථානමාරු අවිධිමත් ලෙස සිදුව ඇති බවට බස්නාහිර පළාතේ රෝහල් කාර්යමණ්ඩල සේවක සේවිකාවන් චෝදනා කර ඇති බව වාර්තා වේ.
+
+ඒ අනුව බස්නාහිර පළාත් ආණ්ඩුකාර එයාවයිස් මාර්ෂල් රොෂාන් ගුණතිලක මහතා තාවකාලිකව මෙම ස්ථාන මාරු අවලංගු කර වාර්ෂික ස්ථාන මාරු පමණක් ක්‍රියාත්මක කරන ලෙස පළාත් සෞඛ්‍ය අමාත්‍යාංශ ලේකම්වරයාට උපදෙස් දුන් බව අමාත්‍ය ප්‍රසන්න රණතුංග මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/c17f037e.json)
+
+---
+
+### Prepare for presidential election first -President tells Cabinet
+
+*2024-03-19 07:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prepare-for-presidential-election-first-President-tells-Cabinet/108-279126) · `en`
+
+Putting an end to the rumor's that the general election or the presidential election will be held first, President Ranil Wickremesinghe reportedly informed the cabinet of ministers yesterday (18) that the presidential election will be held first.
+
+Therefore, the President has instructed the cabinet, which met yesterday, to prepare for the presidential election first, informed sources said.
+
+He stated that according to the country's constitution, the presidential election should take place first, and arrangements will be made accordingly, sources added
+
+◼️
+
+[Data](articles/369523d3.json)
+
+---
 
 ### President instructs cabinet to prepare for presidential election
 
@@ -225,6 +287,20 @@ This is the first time since the pandemic that the island nation has crossed the
 [Data](articles/89ac1225.json)
 
 [Extended Data](ext_articles/89ac1225.ext.json)
+
+---
+
+### பெண் படுகொலை: சந்தேகநபர் கைது
+
+*2024-03-19 02:12:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-படுகொலை-சந்தேகநபர்-கைது/175-334846) · `ta`
+
+சீதுவ, முத்துவாடிய பகுதியில் வாடகை அறையொன்றில் இளம் பெண் ஒருவர் படுகொலை செய்யப்பட்ட சம்பவத்துடன் தொடர்புடைய பிரதான சந்தேகநபர் பலாங்கொடை வைத்தியசாலையில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+
+நேற்று முன்தினம் அளவுக்கதிகமான மருந்தை உட்கொண்டு பலாங்கொடை வைத்தியசாலையில் சேர்க்கப்பட்ட நிலையில் அவர் நேற்று கைது செய்யப்பட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/03eb6251.json)
 
 ---
 
@@ -2133,119 +2209,5 @@ Police have registered a case under IPC provisions relating to unlawful assembly
 [Data](articles/2d85dcf5.json)
 
 [Extended Data](ext_articles/2d85dcf5.ext.json)
-
----
-
-### 250 million from India to Kaduru Trilingual National School
-
-*2024-03-18 16:12:01* · [`adalk`](https://www.ada.lk/breaking_news/කදුරුවෙල-ත්‍රෛභාෂා-ජාතික-පාසලට-ඉන්දියාවෙන්-තවත්-මිලියන-250ක්/11-408681) · `si`
-
-India donates 250 million to Kaduru Trilingual National School. After PM Sirisena's visit, India agreed to fund the school's completion. Sri Lanka's High Commissioner and India's High Commissioner visited to observe progress.
-
-🟩
-
-After the first official visit to Maithripala Sirisena was appointed as the Appointment of India, the Government of India had been resurrected in the last days of the first official visit to the Indian Prime Minister.. In the recent past, the current government has requested the allocation of funds for the completion of the school.
-
-Accordingly, former President Maithripala Sirisena expressed the consent to complete the work of the Trilogy National School on a special request made by Indian Prime Minister Narendra Modhi.
-
-As a result, Sri Lanka's High Commissioner of India and the High Commissioner of India to visit the current situation in the school and joined the recent observation of government officials.
-
-Accordingly, within the next six months will be announced that the end of Rs.
-
-◼️
-
-[Data](articles/5028b9e0.json)
-
-[Extended Data](ext_articles/5028b9e0.ext.json)
-
----
-
-### New Payment From the Electricity Board
-
-*2024-03-18 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194640) · `si`
-
-The Ceylon Electricity Board (CEB) introduces a new system for housing and small/medium businesses, requiring new customers to pay 25% of their electricity cost for supply.
-
-🟩
-
-The Ceylon Electricity Board (CEB) has implemented a new system for housing, small and medium scale businesses.
-
-Accordingly, a new customer will pay 25 percent of the cost of electricity to obtain electricity supply.
-
-◼️
-
-[Data](articles/0f706ef2.json)
-
-[Extended Data](ext_articles/0f706ef2.ext.json)
-
----
-
-### Sri Lanka stocks close down after two-week run, amidst profit taking
-
-*2024-03-18 16:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-after-two-week-run-amidst-profit-taking-155066/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
-
-The broader All Share Index closed down 0.14 percent, or 15.86 points, at 11,320; while the S&P SL20 Index closed down 0.25 percent, or 8.12 points, at 3,237.
-
-Turnover was at 1.3 billion. Crossings on Hayleys Fabric Plc (down at 43.90), Hatton National Bank Plc (up at 167.75) and Lankem Developments Plc (down at 18.40) contributed to the day’s turnover.
-
-There was a high level of retail interest was seen in construction, banking and finance sectors, market participants said. “There was a bit of profit-taking, and bargain hunting that came in today. Though there was a decline there was buying interest.
-
-“Primary dealing counters also did well because of dividends. Basically dividend-paying counters were active in the market.”
-
-Companies that saw high volumes traded were Browns Investments Plc (86mn), which closed down at 5.20; and First Capital Holdings Plc (78mn) which closed up at 33.00.
-
-...
-
-[Data](articles/85b54e8b.json)
-
-[Extended Data](ext_articles/85b54e8b.ext.json)
-
----
-
-### Woman dies after falling in Moratuwa
-
-*2024-03-18 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194639) · `si`
-
-A woman in Moratuwa died after falling in Launbalay. Her husband had recently died mysteriously in prison, leading police to suspect a relative's involvement.
-
-🟩
-
-A woman has been cut off in the area of Launbalay in Kathibedda, Moratuwa.
-
-Speaking further the victim has come to the Moratumulla Police Station.
-
-A few months ago, the woman's husband died mysteriously, while he was imprisoned.
-
-Police suspect that the murder had been carried out by a relative of the deceased husband.
-
-◼️
-
-[Data](articles/705cddb7.json)
-
-[Extended Data](ext_articles/705cddb7.ext.json)
-
----
-
-### Order to the boss of suspicion of crushed passport
-
-*2024-03-18 16:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194638) · `si`
-
-A former Deputy Controller of Immigration was arrested on suspicion of organizing a criminal act, but was released on bail. He appeared before the court today.
-
-🟩
-
-Former Deputy Controller of the Department of Immigration and Emigration, who was arrested on suspicion of organizing criminal, has been released on bail.
-
-The suspect was produced before Kaduwela Mahimaka Wijebandra today (18).
-
-The Criminal Investigations Department was arrested and produced before the court today.
-
-◼️
-
-[Data](articles/98627b33.json)
-
-[Extended Data](ext_articles/98627b33.ext.json)
 
 ---

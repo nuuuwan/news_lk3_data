@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 00:34:01**
+As of **2024-03-20 00:48:25**
 
 ## Newspaper Stats
 
-*Scraped **13,939** Articles*
+*Scraped **13,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,60 +15,96 @@ newsfirstlk | 363
 dailyftlk | 728
 economynextcom | 742
 islandlk | 761
-adalk | 1,205
+adalk | 1,206
 adaderanalk | 1,678
 tamilmirrorlk | 1,691
 virakesarilk | 1,950
-dailymirrorlk | 2,129
+dailymirrorlk | 2,130
 adaderanasinhalalk | 2,220
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,929 (99.9%) of 13,939 articles have been extended.
+13,939 (100.0%) of 13,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### ஐசிசி ஒழுக்கக் கோவையை மீறிய ஹசரங்கவுக்கு 2 டெஸ்ட் போட்டித் தடை, குசல் மெண்டிஸுக்கு 50 வீத அபாரதம்
+### Hasaranga 2 Tests ban on ICC morality
 
 *2024-03-20 00:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179171) · `ta`
 
-பங்களாதேஷுக்கு எதிராக இலங்கை விளையாடவுள்ள 2 டெஸ்ட் போட்டிகளில் விளையாட முடியாதவாறு சுழல்பந்துவீச்சாளர் வனிந்து ஹசரங்கவுக்கு தடை விதிக்கப்பட்டுள்ளது.
+Wanindu Hazaranga banned from 2 Tests against Bangladesh for 2nd-level ICC violations, earning 3 eligibility points. He was found guilty of violating ICC's 2.9th recommendation in the 3rd Test. Hazaranga also received a 50% of the competition fee. Sri Lanka's Gusal Mendis fined 50% of the match fee and 3 qualifying points.
 
-ஐசிசி ஒழுக்கக் கோவைக்கான 2ஆம் நிலை மீறல்களில் வனிந்து ஹசரங்க ஈடுபட்டதால் அவருக்கான தகுதி நீக்கப் புள்ளிகள் 24 மாத காலப்பகுதியில் 8ஆக உயர்ந்ததை அடுத்து இந்தத் தடை விதிக்கப்பட்டுள்ளது.
+🟩
 
-2ஆம் நிலை மீறல்களுக்காக அவருக்கு 3  தகுதி  நீக்கப் புள்ளிகள் வழங்கப்பட்டதுடன் போட்டிக் கட்டணத்தில் 50 வீத அபாரதமும் விதிக்கப்பட்டது.
+Rotor bowler Wanindu Hazaranga has been banned from playing 2 Tests against Bangladesh.
 
-சட்டோக்ராமில் நடைபெற்ற பங்களாதேஷுக்கு எதிரான 3ஆவது டெஸ்ட் போட்டியின்போது ஐசிசி ஒழுக்கக் கோவையின் 2.9ஆவது பரிந்துரையை மீறியமைக்காக ஹசரங்க குற்றவாளியாகக் காணப்பட்டார்.
+The ban has been banned after the eligibility points for him rose to 8 over the 24 -month period as Hazaranga was involved in the 2nd -level violations of the ICC.
 
-தம்புள்ளையில் கடந்த மாதம் நடைபெற்ற ஆப்கானிஸ்தானுக்கு எதிரான கடைசி சர்வதேச ரி20 கிரிக்கெட் போட்டியின்போது ஐசிசி ஒழுக்கக்  கோவையை ஹசரங்க மீறியமைக்காக 3 தகுதிநீக்கப் பள்ளிகள் வழங்கப்பட்டு பங்களாதேஷுடனான முதல் இரண்டு ரி20 போட்டிகளில் விளையாட தடை விதிக்கப்பட்டிருந்தது குறிப்பிடத்தக்கது.
+He was awarded 3 eligibility points for the 2nd -level violations and a 50 percent of the competition fee.
+
+Hazaranga was found guilty of violating the ICC's 2.9th recommendation during the 3rd Test against Bangladesh in Chatochram.
+
+It is noteworthy that during the last international T20 cricket match against Afghanistan in Dambulla last month, 3 qualified schools were issued for the violation of the ICC and the first two R20 matches against Bangladesh.
+
+If a player receives 4 qualified points. Taste matches for Wanindu Hasaranga have been the first to play in the upcoming competitions.
+
+At the end of the 37th over of the match against Bangladesh, the mediator rushed to the Hazaranga match that he had snatched his hat from a mediator.
 
 ...
 
 [Data](articles/1a4ac375.json)
 
+[Extended Data](ext_articles/1a4ac375.ext.json)
+
 ---
 
 ### 2024-03-19 (Tuesday)
 
-### பாடசாலை கல்வியில் செயற்கை நுண்ணறிவை உள்வாங்குவதற்கான புரிந்துணர்வு ஒப்பந்தத்தில் கல்வி அமைச்சு - மைக்ரோசொப்ட் நிறுவனம் கைசாத்து
+### Ministry of Education - Microsoft
 
 *2024-03-19 23:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/179170) · `ta`
 
-தரம் 08 இற்கு மேற்பட்ட மாணவர்களுக்கான தகவல் தொழில்நுட்பப் பாடத்தில் (AI) செயற்கை நுண்ணறிவு விடயப்பரப்பை உள்வாங்குவதற்கான முன்னோடித் திட்டத்தை செயல்படுத்துவது தொடர்பான புரிந்துணர்வு ஒப்பந்தம் கல்வி அமைச்சுக்கும் மைக்ரோசொப்ட் நிறுவனத்திற்கும் இடையில் செவ்வாய்க்கிழமை (19) ஜனாதிபதி அலுவலகத்தில் கைசாத்திடப்பட்டது.
+The Ministry of Education and Microsoft signed a Memorandum for an AI-focused IT course program, involving 20 schools across 20 districts. Microsoft will provide technical support and modern classrooms. President Ranil Wickremesinghe met with Microsoft representatives, who assured cooperation with AI in the curriculum. Punit Santok of Microsoft congratulated the president. The program aims for full implementation by 2025. US Ambassador Julie Song highlighted the opportunity for Sri Lanka, emphasizing the need for inclusivity and support for English language skills.
 
-20 மாவட்டங்களில் 20 பாடசாலைகளைத் தெரிவு செய்து தரம் 8 இற்கு மேற்பட்ட மாணவர்களுக்கான இந்த முன்னோடி திட்டத்தை செயல்படுத்த தீர்மானிக்கப்பட்டுள்ளதோடு, அதற்கு அவசியமான நவீன வகுப்பறைகளையும தொழில்நுட்ப உபகரணங்களையும் வழங்குவதாக இங்கு குறிப்பிடப்பட்டது.
+🟩
 
-அதன்படி கல்விச் செயற்பாடுகளை தொழில்நுட்ப முறையில் முன்னெடுப்பதற்கான உதவிகளை மைக்ரோசொப்ட் நிறுவனத்தின் குழுவொன்று வழங்கவுள்ளது.
+A Memorandum of Understanding (Memorandum) on the implementation of a pioneering program for the Information Technology course for more than 08 students (AI) was signed between the Ministry of Education and Microsoft on Tuesday (19).
 
-இதற்கான புரிந்துணர்வு ஒப்பந்தத்தில் கைசாத்திடும் முன்பாக ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் மைக்ரோசொப்ட் நிறுவனத்தின் பிரதிநிதிகளுக்கும் இடையிலான சந்திப்பொன்றும் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+It has been decided to select 20 schools in 20 districts and implement this pioneering program for more than 8 students and provide modern classrooms and technical equipment.
+
+Accordingly, a team of Microsoft will provide assistance to technically carry out educational activities.
+
+A meeting between President Ranil Wickremesinghe and Microsoft's representatives was held at the Presidential Office before the Memorandum of Understanding.
+
+Meanwhile, Microsoft representatives have assured the president that the school curriculum will be fully cooperating with artificial intelligence.
 
 ...
 
 [Data](articles/5a909182.json)
+
+[Extended Data](ext_articles/5a909182.ext.json)
+
+---
+
+### Elephant goes missing at Sinharaja Forest Reserve
+
+*2024-03-19 23:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Elephant-goes-missing-at-Sinharaja-Forest-Reserve/108-279175) · `en`
+
+Colombo, March 19 (Daily Mirror) -  The wildlife officers attached to the Sinharaja Forest Reserve observed that one of the two elephants living in the vicinity of the forest reserve had not been seen for the past one and a half years.
+
+They said the two male elephants used to come out of the forest reserve when they went into musth. But within the past one and a half years, only one elephant (around 45-years-old), which has a belt around its neck, has been seen by the villagers.
+
+The elephants in the Sinharaja Forest Reserve go up to Deniyaya and Neluwa areas for food, and when they went into musth.
+
+The wildlife office officials attached to the Sinharaja forest are on the lookout for the missing elephant which is much older than the other elephant.
+
+...
+
+[Data](articles/22c93241.json)
 
 ---
 
@@ -83,6 +119,8 @@ The “Green Campus” as it is popularly called, the National School of Busines
 ...
 
 [Data](articles/ab0607b5.json)
+
+[Extended Data](ext_articles/ab0607b5.ext.json)
 
 ---
 
@@ -570,6 +608,8 @@ The tank farm, dating back to World War II when Sri Lanka was under British rule
 
 [Data](articles/b605f447.json)
 
+[Extended Data](ext_articles/b605f447.ext.json)
+
 ---
 
 ### Bangladesh mocks Sri Lanka after series defeat
@@ -781,6 +821,24 @@ The confiscated gold jewellery includes chains, necklaces, bangles and earrings 
 [Data](articles/ba777b08.json)
 
 [Extended Data](ext_articles/ba777b08.ext.json)
+
+---
+
+### තවත් ගැටලුවක් හර්ෂ පෙන්වයි
+
+*2024-03-19 19:18:31* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-ගැටලුවක්-හර්ෂ-පෙන්වයි/11-408711) · `si`
+
+රට තුළ එක බදු ක්‍රමයක් සහ කොළඹ වරාය නගරය තුළ තවත් බදු ක්‍රමයක් ක්‍රියාත්මක කිරීමට යාමෙන් විශාල ගැටලුවක් නිර්මාණය වන බවත්, ඒ පිළිබඳ සොය බලා තීරණයක් ගත යුතු බවත් රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා පැවසීය.
+
+පාර්ලිමේන්තුවේදී අද (19දා) කරුණු දක්වමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+කිසිදු පාර්ශ්වයකට අසාධාරණයක් සිදු වන ආකාරයේ තීන්දුවක් ගැනීමට රජය සූදානම් නොමැති බව ඊට ප්‍රතිචාර දක්වමින් මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පැවසීය.
+
+රජයේ මුදල් පිළිබඳ කාරක සභාවේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා - තවම මේ වරාය කොමිෂන් සභාවට අධ්‍යක්ෂ ජනරාල් වරයෙක් පත් කරලා නෑ. කරුණා කරලා කවුරු හරි මේකට පත් කරන්න.  මෙතන ලොකු ගැටලුවක් නිර්මාණය වෙනවා. අප්‍රේල් මාසයේ විවෘත කරන්න යනවා ඩියුටි ෆ්‍රී ලොකු කොම්ප්ලෙක්ස් එකක්. ඒ ගැන අපිට ප්‍රශ්නයක් නෑ. ඒත් අපි කල්පනා කරන්න ඕනෑ අනික් කඩවලට මොනවාද වෙන්නේ කියලා. කවුද ඩියුටි ගෙවලා බඩු ගන්නේ? මේකෙන් අනිත් ආයතනවලට ලොකු පාඩුවක් වෙනවා.
+
+...
+
+[Data](articles/b8784de6.json)
 
 ---
 
@@ -1138,6 +1196,8 @@ The SLPP ideologue said power should not be concentrated around one party.
 
 [Data](articles/b7a600bb.json)
 
+[Extended Data](ext_articles/b7a600bb.ext.json)
+
 ---
 
 ### Sri Lanka to give free rice to 2.74mn families, fertilizer subsidy as polls loom
@@ -1153,6 +1213,8 @@ A fertilizer subsidy of 15,000 rupees per acre will be given to small rice farme
 ◼️
 
 [Data](articles/cd8a7c3d.json)
+
+[Extended Data](ext_articles/cd8a7c3d.ext.json)
 
 ---
 
@@ -1276,6 +1338,8 @@ Pressed by the interviewer, Bandara said: “If he hasn’t said anything, why w
 
 [Data](articles/334dbbb5.json)
 
+[Extended Data](ext_articles/334dbbb5.ext.json)
+
 ---
 
 ### China protests against Sri Lanka allowing German research ship amid 1-year ban: sources
@@ -1293,6 +1357,8 @@ The government’s one-year ban came into effect ahead of upcoming presidential 
 ...
 
 [Data](articles/476f4423.json)
+
+[Extended Data](ext_articles/476f4423.ext.json)
 
 ---
 
@@ -1403,6 +1469,8 @@ A bond maturing on 01.07.2032 closed at 12.35/55 percent down from 12.40/75 perc
 ◼️
 
 [Data](articles/35c02e3b.json)
+
+[Extended Data](ext_articles/35c02e3b.ext.json)
 
 ---
 
@@ -1655,6 +1723,8 @@ Wickremeratne in a statement said 31 appointees to the COPE must not be associat
 ...
 
 [Data](articles/40f077ae.json)
+
+[Extended Data](ext_articles/40f077ae.ext.json)
 
 ---
 
@@ -2173,45 +2243,5 @@ Speaker Mahinda Yapa Abeywardena has sent the letter to resign from the Member o
 [Data](articles/96d1c563.json)
 
 [Extended Data](ext_articles/96d1c563.ext.json)
-
----
-
-### O/L Examination Released
-
-*2024-03-19 15:01:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சை-நேரசூசி-வெளியானது/175-334888) · `ta`
-
-The GCE Ordinary Level Examination for 2024 timetable was released in May and June.
-
-🟩
-
-The GCE Ordinary Level Examination for 2024 was announced in May and June.
-
-In this case, the Ministry of Education has released the timetable for the examination. Remble
-
-◼️
-
-[Data](articles/90a81046.json)
-
-[Extended Data](ext_articles/90a81046.ext.json)
-
----
-
-### O/L Examination Time Schedule Released
-
-*2024-03-19 15:01:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-பரீட்சைக்கான-நேர-அட்டவணை-வெளியானது/175-334888) · `ta`
-
-The GCE Ordinary Level Examination for 2024 timetable was released in May and June.
-
-🟩
-
-The GCE Ordinary Level Examination for 2024 was announced in May and June.
-
-In this case, the Ministry of Education has released the timetable for the examination. Remble
-
-◼️
-
-[Data](articles/c514fcc2.json)
-
-[Extended Data](ext_articles/c514fcc2.ext.json)
 
 ---

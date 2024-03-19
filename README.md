@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 13:52:18**
+As of **2024-03-19 14:02:51**
 
 ## Newspaper Stats
 
-*Scraped **13,805** Articles*
+*Scraped **13,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,83 +16,175 @@ economynextcom | 726
 dailyftlk | 727
 islandlk | 760
 adalk | 1,192
-adaderanalk | 1,660
+adaderanalk | 1,661
 tamilmirrorlk | 1,678
 virakesarilk | 1,924
-dailymirrorlk | 2,110
-adaderanasinhalalk | 2,195
+dailymirrorlk | 2,112
+adaderanasinhalalk | 2,196
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,799 (100.0%) of 13,805 articles have been extended.
+13,805 (100.0%) of 13,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### රජයෙන් ලොකු සහනයක්
+### USD buying rate drops below Rs. 300 for first time since July 2023
+
+*2024-03-19 13:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98052/usd-buying-rate-drops-below-rs-300-for-first-time-since-july-2023) · `en`
+
+The buying rate of the US Dollar has dropped below the Rs. 300 mark for the first time since July 05, 2023.
+
+According to the official exchange rates announced today by the Central Bank of Sri Lanka (CBSL), the buying rate of the USD is Rs. 299.29 and the selling rate is Rs. 308.90.
+
+◼️
+
+[Data](articles/01a6b460.json)
+
+---
+
+### Japanese Ambassador meets Anura Kumara, discusses upcoming Presidential election
+
+*2024-03-19 13:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japanese-Ambassador-meets-Anura-Kumara-discusses-upcoming-Presidential-election/108-279162) · `en`
+
+Colombo, March 19 (Daily Mirror)- Japanese Ambassador to Sri Lanka Mizukoshi Hideaki met NPP leader Anura Kumara Dissanayake at the JVP head office this morning.
+
+Deputy Head of the Japanese Embassy Katsuki Kotaro and the Second Secretary Imai Kaori also attended the meeting.
+
+Both sides discussed the current economic crisis and the political situation in Sri Lanka at length, and attention was also paid to the upcoming Presidential election.
+
+The NPP explained its position regarding the intervention of the International Monetary Fund (IMF) to the Japanese diplomatic representatives, and the Japanese delegation emphasized Japan's readiness to continue investing in Sri Lanka.
+
+◼️
+
+[Data](articles/34c6e51f.json)
+
+---
+
+### ජාතික ක්‍රිකට් ක්‍රීඩකයෙකුට අත්වූ ඛේදනීය ඉරණම
+
+*2024-03-19 13:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194680) · `si`
+
+මෙරට දෘශ්‍යාබාධිත ජාතික ක්‍රිකට් කණ්ඩායමේ නායකත්වය දරමින් වසර 22කට අධික කාලයක් මෙරටට කීර්තියක් ගෙන ආ ක්‍රීඩකයකු අද ජීවන අරගලය ජයගන්නට දැඩි වෙහෙසක් දරමින් සිටී.
+
+මේ චන්දන සුරියආරච්චි මහතා. ඔහු 1998 සිට 2022 දක්වා වසර 24ක් දෘශ්‍යාබාධිත ජාතික ක්‍රිකට් කණ්ඩායම නියෝජනය කර තුන්ඉරියව් දක්ෂතා දක්වමින් රටට කීර්තියක් අත්කර දුන් ක්‍රිඩකයෙකි.
+
+උපතින්ම දෘශ්‍යාබාධිතයකු වූ චන්දන මූලික අධ්‍යාපනය ලැබුවේ ගාල්ල උනන්විටිය රේවත විද්‍යාලයෙනි.
+
+කෙසේ වෙත්ත මුලික අධ්‍යාපනය ලබන අතරතුර චන්දනගේ දෘශ්‍යාබාධිත තත්ත්වය දිනෙන් දින වැඩිවීම නිසා ඔහුට රත්මලාන අන්ධ විද්‍යාලයට ඇතුළත් වන්නට සිදුවුණි.
+
+අන්ධ විද්‍යාලයේ අධ්‍යාපනය ලබන අතරතුර, ක්‍රිකට් ක්‍රීඩාවද ප්‍රගුණ කළ චන්දනගේ ජීවිතයේ හැරවුම් ලක්ෂ්‍යය වූයේ ඔහුට දෘශ්‍යාබාධිත ජාතික ක්‍රිකට් කණ්ඩායමට ඇතුළත් වීමට අවස්ථාව ලැබීමය.
+
+එහිදී ඉතා ඉහළ දක්ෂතා දැක්වූ චන්දන කෙටි කලකදී ජාතික කණ්ඩායමේ නායකත්වය හොබවන්නට සමත් වුණි.
+
+...
+
+[Data](articles/1b6cfac6.json)
+
+---
+
+### Ministry to engage children in Olympiad competitions worldwide: Minister
+
+*2024-03-19 13:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ministry-to-engage-children-in-Olympiad-competitions-worldwide-Minister/108-279161) · `en`
+
+Colombo, March 19 (Daily Mirror) -The Education Ministry wants to involve children in competitions like Olympiads, implemented from schools level to the international level.
+
+While participating in a prize-giving ceremony, Minister Susil Premajayantha said the Ministry has decided to provide opportunities to prepare schoolchildren and instruct all school heads through a circular.
+
+In the upcoming education reforms, it is expected to provide wide opportunities for children to engage not only in information and communication technology but also in industrial development fields and to encourage children to do so.
+
+The transformative change in education is expected to prepare children who leave the school system in the future to adapt to new economic trends, the Minister said.
+
+◼️
+
+[Data](articles/ce85b089.json)
+
+---
+
+### A great relief from the government
 
 *2024-03-19 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194679) · `si`
 
-අඩු ආදායම්ලාභී පවුල් සඳහා සහල් කිලෝග්‍රෑම් 10ක් ලබා දීමේ වැසටහන සඳහා කැබිනට් අනුමැතිය හිමිව තිබේ.
+The government has approved a relief program to provide 10 kg of rice to low-income families at a cost of Rs. 2.74 million, in partnership with SMEs and medium-scale mills, to ensure nutritional sustenance.
 
-දිස්ත්‍රික් ලේකම්වරුන් සහ දිසාපතිවරුන් හරහා හඳුනාගත් අඩු ආදායම්ලාභී පවුල් මිලියන 2.74ක් පමණ ආවරණය පරිදි මෙම වැඩසටහන ක්‍රියාත්මක කෙරේ.
+🟩
 
-ඒ අනුව අදාළ පවුල් සඳහා සහල් කිලෝග්‍රෑම් 10ක් බැගින් මාස 2ක් සඳහා ලබාදීමට තීරණය කර තිබේ.
+Cabinet approval has been approved for a show of providing 10 kg of rice for low income families.
 
-සුළු හා මධ්‍ය පරිමාණ වී මෝල්හිමියන් සම්බන්ධ කර ගනිමින් මෙම වැඩසටහන ක්‍රියාත්මක කිරීමට තීරණය කර ඇත.
+The program is being implemented at a cost of Rs. 2.74 million, along with low income families identified through District Secretaries and Government Agents.
 
-හඳුනාගත් අඩු ආදායම්ලාභීන්ගේ පෝෂණ මට්ටම පවත්වාගෙන යාමට උපකාරයක් වශයෙන් මෙම වැඩසටහන ක්‍රියාත්මක කිරීමට තීරණය කර ඇත.
+Accordingly, the families have been issued to provide 10 kilograms of rice for two months.
+
+It has been decided to implement this program with the SME and medium and medium-scale mills.
+
+The program has been implemented to maintain the nutrition level of the low income people.
 
 ◼️
 
 [Data](articles/1adba8f9.json)
 
+[Extended Data](ext_articles/1adba8f9.ext.json)
+
 ---
 
-### ஆசிரியையை வெட்டிய ஆசிரியை கைது
+### Teacher arrested
 
 *2024-03-19 13:20:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆசிரியையை-வெட்டிய-ஆசிரியை-கைது/76-334879) · `ta`
 
-பாடசாலை ஆசிரியை ஒருவரை கத்தியால் வெட்டி காயப்படுத்திய குற்றச்சாட்டில் சந்தேகத்தின் பேரில் மற்றுமொரு பாடசாலை ஆசிரியை கடந்த 19ஆம் திகதி கைது செய்யப்பட்டதாக பதுளை பொலிஸார் தெரிவித்தனர்.
+A 44-year-old teacher was arrested on the 19th for cutting a knife and injuring another teacher. Both are friends and work in different schools. The suspect, a 45-year-old, was caught by locals and handed over to police.
 
-காயமடைந்த 44 வயதுடைய ஆசிரியை பதுளை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும், அவரது கால் மற்றும் கைகளில் வெட்டுக்காயங்கள் உள்ளது என பதுளை போதனா வைத்தியசாலையின் வைத்தியர் ஒருவர் தெரிவித்தார்.
+🟩
 
-சந்தேகத்திற்குரிய 45 வயதுடைய ஆசிரியையிடம் இருந்து கத்தி ஒன்றும் கைப்பற்றப்பட்டுள்ளது என பொலிஸார் குறிப்பிட்டுள்ளனர்.
+Badulla police said that another school teacher was arrested on the 19th of this month on charges of cutting a knife and injured by a school teacher.
 
-இவ்விரு ஆசிரியைகளும் இரு பாடசாலைகளில் பணியாற்றும் நண்பிகள் எனவும், இருவருக்கும் இடையில் ஏற்பட்ட கருத்து வேறுபாடு காரணமாக சந்தேகநபர் கடந்த 18ஆம் திகதி அவரது வீட்டுக்குச் சென்று இவ்வாறு குற்றம் புரிந்துள்ளதாக அறியமுடிகின்றது.
+A 44 -year -old teacher has been admitted to the Badulla Teaching Hospital and has had cuts on his feet and hands, a doctor of the Badulla Teaching Hospital said.
 
-பிரதேசவாசிகள் சந்தேக நபரை பிடித்து 119 என்ற பொலிஸ் அவசர இலக்கத்திற்கு அறிவித்து பொலிஸாரிடம் ஒப்படைத்துள்ளதாக பொலிஸார் தெரிவித்தனர். தனிப்பட்ட பிரச்சினையே இந்த குற்றத்திற்கு காரணம் எனவும் தெரியவந்துள்ளது என பொலிஸார் தெரிவித்தனர்.
+Police said a knife was seized from a suspected 45 -year -old teacher.
+
+The two teachers are friends working in two schools, and the suspect has visited his home on the 18th due to disagreement between the two.
+
+The residents of the area caught the suspect 119 and handed over to the police for an emergency number.. Police said the person's problem was the cause of the crime.
 
 ◼️
 
 [Data](articles/3677de92.json)
 
+[Extended Data](ext_articles/3677de92.ext.json)
+
 ---
 
-### පාතාලය සලිත කළ අලුත්ම නියෝගය
+### The latest order created underworld
 
 *2024-03-19 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194678) · `si`
 
-බස්නාහිර සහ දකුණු පළාත කේන්ද්‍ර කරගනිමින් සිදුවන පාතාල ක්‍රියාකාරකම් මර්දනය කිරීම සඳහා විශේෂ පොලිස් කණ්ඩායම් 20ක් පිහිටුවීම අද සිදුකළේය.
+20 special police teams established to combat underworld activities in Western and Southern Provinces, under IGP Deshabandu Tennakoon's orders. These teams, led by senior DIG Vawarna Jayasundara, consist of 9 officers each, including 4 from the Criminal Division, 4 from the Special Task Force, and 2 Special Task Officers. The decision reflects recent underworld activities in these areas.
 
-ඒ් යුක්තිය මෙහෙයුමට සමගාමීව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් පරිදිය.
+🟩
 
-පසුගිය කාලයේදී බස්නාහිර සහ දකුණු පළාත් කේන්ද්‍ර කරගනිමින් පාතාල ක්‍රියාකාරකම් රැසක් සිදු වූ අතර මනුෂ්‍ය ඝාතනය රැසක් ද වාර්තා වුණි .
+Today, 20 special police teams were set up to suppress underworld activities in the Western and Southern Province.
 
-පොලිස් විශේෂ කාර්ය බලකාගේ අණදෙන නිලධාරීන් ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති වරුණ ජයසුන්දර මහතාගේ සෘජු අධීක්ෂණය යටතේ මෙම කණ්ඩායම් ක්‍රියාත්මක වෙයි.
+He is the instructions of IGP Deshabandu Tennakoon in parallel to justice.
 
-මෙම අලුතින් පිහිටුවන කණ්ඩායම් 20 යොදවා මේවනවිට ක්‍රියාත්මක එක් එක් පාතාල කණ්ඩායම් වල ක්‍රියාකාරකම් මැඩලීම සදහා කටයුතු කරනු ලබයි.
+In the recent past, there have been many underworld activities in the western and southern provinces and several masses.
 
-ඒ සෑම කණ්ඩායමක් සඳහාම අපරාධ අංශ ස්ථානාධිපතිවරයෙක්, බුද්ධි නිළධාරීන් 04 ක්, විශේෂ කාර්ය බලකා නිළධාරීන් 02 ක් ඇතුළු නිළධාරීන් 09 කගෙන් සමන්විත අතර ජීප් රථයක් ද මේ සමග යොදවා තිබීම විශේෂත්වයකි.
+These groups are operating under the direct supervision of senior DIG Vawarna Jayasundara.
 
-පසුගිය සති කිහිපය තුළ බස්නාහිර සහ දකුණු පළාත කේන්ද්‍ර කර ගනිමින් සිදුවු පාතාල ක්‍රියාකාරකම් පිළිබඳ සැලකිල්ලට ගනිමින් පොලිස්පතිවරයා විසින් මෙම තීරණය ගෙන ඇති බව වැඩිදුරටත් පොලිස් මූලස්ථානය සදහන් කළේය.
+Twenty of these three new soldiers deployed to suppress the activities of each underworld teams.
 
-...
+Each of these team consists of nine officers, four officers including the Criminal Division, four Special Task Force and 02 Special Task Officers.
+
+The decision has been taken by the IGP by taking into account the underworld activities carried out by the Western and Southern Province in the past few weeks.
+
+The advice on these teams was held at the Police Field Force Headquarters, and the teams were officially dispatched.
+
+◼️
 
 [Data](articles/4c226774.json)
+
+[Extended Data](ext_articles/4c226774.ext.json)
 
 ---
 
@@ -118,29 +210,35 @@ In early 2023, CA withdrew from a three-match ODI series due to be played in the
 
 ---
 
-### සුරතල් සතුන්ගේ ජීවිතයට උණුසුම් කාලගුණයෙන් දැඩි බලපෑම්
+### Horning influences in warm weather to life
 
 *2024-03-19 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194677) · `si`
 
-අධික උණුසුම් සහිත කාලගුණය හේතුවෙන් නිවෙස් තුළ ඇතිකරන සුරතල් සතුන් සත්ව ආඝාතයට පත්වීමේ අවදානමක් පවතින බව සත්වවේදීන් පෙන්වා දෙයි.
+In warm weather, pets in homes and on the streets are at risk due to high temperatures. The highest recorded temperature in the country is 38.5 degrees in Kurunegala. Environmentalists warn of global warming's impact on ecosystems, including domesticated pets and wildlife. Veterinarians advise controlling pet temperatures and providing water. The day-day festival increases pet temperatures in vehicles. Animals and roads are at risk, necessitating water, food, and shelter. Snakes are seen in Colombo and suburbs, suggesting reducing snake-capable areas around homes.
 
-ඊයේ (18) දිනයේත් දිවයිනේ වැඩිම උෂ්ණත්වය කුරුණෑගලින් වාර්තාවූ අතර එය සෙල්සියල් අංශක 38.5කි.
+🟩
 
-1884 වසරෙන් පසු ගෝලීය වශයෙන් වැඩිම උෂ්ණත්වයක් වාර්තාවූ වසර 10 පසුගිය දශක දෙක ඇතුළත වාර්තාවී තිබේ.
+Zone points out that there is a risk of pets in the home stroller due to heavy hot weather.
 
-ගෝලීයව සිදුවන පාරිසරික හානිය මෙලෙස උෂ්ණත්වය ඉහළ යාමට සෘජුවම බලපා ඇති බව පරිසරවේදීන් පෙන්වා දෙයි.
+The highest temperature in the country was reported from Kurunegala and 38.5 degrees.
 
-මෙලෙස පාරිසරික උස්ණත්වය ඉහළ යාමෙන් වීදි සුනඛයින් ,ගෘහාශ්‍රිත සුරතල් සතුන් මෙන්ම වනජීවීන්ද දැඩි බලපෑමට ලක්ව තිබේ.
+After the year 1884, the largest temperature of 1884 has been reported within the last two decades.
 
-නිවෙස්තුළ ඇතිකරන සුනඛයින්, බළලුන් වැනි සතුන් අධික උණුසුම හේතුවෙන් තාප ආඝාතය තත්ත්වයට පත්වීමේ අවදානමක් පවතින බව සත්වවේදීන් පෙන්වා දෙයි.
+Environmentalists pointed out that the temperature of globalized environmental damage has been directly affected by the temperature.
 
-සුරතල් සතුන්ගේ ශරීරයේ උෂ්ණත්වය පාලනය කිරීම සඳහා දිනකට දෙතුන්වරක් නැහැවීම මෙන්ම සතුන් වෙනුවෙන් ජල බඳුනක් වෙන්කර තැබීම වඩාත් සුදුසු බව පශු වෛද්‍යවරුන් පවසයි.
+Thus, the ecological equipment increase, street dogs, and wildlife have been affected by domesticated pets and wildlife.
 
-එමෙන්ම සුරතල් සතුන් දිවා කාලයේ වාහනතුළ රඳවා යාම දැඩි අවදානම් වන්නේ විනාඩි 20ක් වැනි කෙටි කාලයක් තුළ වාහන තුළ පවතින උෂ්ණත්වය දැඩිලෙස ඉහළයාම හේතුවෙනි.
+Zone points out that there is a risk of the heat stroke in the heat stroke due to the heat stroke.
+
+Veterinarys says that it is best to control the temperature of the pets and separating a water bowl for animals.
+
+Detention of the pets of pets of the day-day festival is a strong increase in the temperatures in vehicles for 20 minutes.
 
 ...
 
 [Data](articles/cbaac7ff.json)
+
+[Extended Data](ext_articles/cbaac7ff.ext.json)
 
 ---
 
@@ -286,21 +384,27 @@ Basil Rajapaksa claimed that even Namal had bought the book from a bookshop. The
 
 ---
 
-### පවුල් මිලියන 2.7ක් වෙනුවෙන් ජනපතිගෙන් හාල් කිලෝ 20ක්
+### President receives 20 kilos of residents for 2.7 million families
 
 *2024-03-19 12:43:39* · [`adalk`](https://www.ada.lk/breaking_news/පවුල්-මිලියන-2-7ක්-වෙනුවෙන්-ජනපතිගෙන්-හාල්-කිලෝ-20ක්/11-408697) · `si`
 
-දිස්ත්‍රික්ක 25ක පවුල්හි මිලියන මිලියන 2.74ක පමණ ප්‍රමාණයක් ආවරණය වන පරිදි එක් පවුලක් සදහා මාසයකට නාඩු සහල් කිලෝග්‍රෑම් 10 බැගින් මාස දෙකක කාලයක් සඳහා ලබාදීමට ජනපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවකට අනුමැතිය ලැබී තිබේ.
+President approves Ranil Wickremesinghe's cabinet paper for Rs. 2.7 million families, aiming to support low-income earners, including Samurdhi beneficiaries, through District Secretaries. The project, implemented last year, aims to maintain nutrition levels.
 
-මෙම වැඩසටහන පසුගිය වසරේ මුල් භාගයේදීද ක්‍රියාත්මක කෙරිණි. සමෘද්ධි ප්‍රතිලාභීන් ඇතුළු අඩු ආදායම් ලාභීන් ආවරණය වන පරිදි මෙම ව්‍යාපෘතිය ක්‍රියාත්මක කෙරිණි.
+🟩
 
-ඒ අනූව සුළු හා මධ්‍ය පරිමාණ වී මොල් හිමියන් සම්බන්ධ කරගනිමින් දිස්ත්‍රික් ලේකම්වරුන්/ දිසාපතිවරුන් හරහා අඩු ආදායම්ලාභී පවුල් ආවරණය වන පරිදි මෙම ව්‍යාපෘතිය ක්‍රියාත්මක කිරීමට නියමිතය.
+Ranil Wickremesinghe has approved a cabinet paper to provide Rs.
 
-හදුනාගත් අඩු ආදායම්ලාභීන්ගේ පෝෂණ මට්ටම පවත්වාගෙන යාමද මෙම ව්‍යාපෘතියේ අරමුණක් වෙයි.
+This program was also implemented in the early last year. The project was implemented covering low income earners, including Samurdhi beneficiaries.
+
+Accordingly, the project will be implemented covering low income families through the District Secretaries / Government owners, connecting Mollars / Government owners.
+
+The project is also the purpose of maintaining the nutrition level of the low income people.
 
 ◼️
 
 [Data](articles/e7359ee4.json)
+
+[Extended Data](ext_articles/e7359ee4.ext.json)
 
 ---
 
@@ -990,21 +1094,31 @@ The OIC Chief Inspector Thilak Samaranayake, Chief Inspector Thilak Samaranayake
 
 ---
 
-### ගෝඨාගේ හිටපු උපදේශකයෙක් හෙරොයින් සමග අත්අඩංගුවට
+### Gota's former arrested with heroin
 
 *2024-03-19 10:42:51* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාගේ-හිටපු-උපදේශකයෙක්-හෙරොයින්-සමග-අත්අඩංගුවට/11-408691) · `si`
 
-ශ්‍රී ලංකා යුද හමුදාවේ කොමන්ඩෝ බළකායේ ලාන්ස් කෝප්‍රල්වරයෙකු වශයෙන් කටයුතු කළ හිටපු සොල්දාදුවෙකු, හෙරොයින් මත්කුඩු ග්‍රෑම් දෙකක් සමග සැකපිට අත්අඩංගුවට ගත් බව මහනුවර කොට්ඨාස අපරාධ විමර්ශන ඒකකය කියයි.
+Gota's former arrested with heroin. Kandy Division CID arrested suspect with two grams of heroin, linked to army and former President Gotabhaya Rajapaksa. 35-year-old father from Nelliyapitiya, arrested for drug trafficking. Further investigations by OIC Chief Inspector Thilak Samaranayake.
 
-හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාගේ ශාරීරික ව්‍යායාම උපදේශකයෙකු වශයෙන් කටයුතු කරමින් හිටපු ජනාධිපතිවරයා සමග සමීපව සිට ඇති මෙම සැකකරු, ජනාධිපතිවරයා ධුරයෙන් ඉවත් වීමෙන් පසු යුද හමුදාවෙන් ඉවත් වී ඇති බවද පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+🟩
 
-යහලතන්න, නෙල්ලිගල ප්‍රදේශයේ පදිංචිකරුවෙකු වන මෙම සැකකරු 35 හැවිරිදි දෙදරු පියෙකි. අදාළ සැකකරු හෙරොයින් මත්කුඩු ජාවාරම් කරන බවට පොලීසියට ලද තොරතුරකට අනුව ඔහුගේ නිවස පරීක්ෂා කිරීමේදී හෙරොයින් මත්කුඩු සමග සැකකරු අත්අඩංගුවට ගත් බව පොලීසිය කියයි.
+The Kandy Division Criminal Investigation Unit (SLMC) has been arrested on suspicion with two grams of heroin with two grams of heroin with two grams of heroin.
 
-සැකකරු යුද හමුදාවෙන් ඉවත්වීමෙන් පසු දෙමටගොඩ ප්‍රදේශයේ පෞද්ගලික ආයතනයක සේවය කරමින් සිටින අතරතුර සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයන්ගේ ඇසුරට පත්වීමෙන් පසු ඔහු හෙරොයින් මත්කුඩු ජාවාරමට යොමු වී ඇති අතර, හෙරොයින් මත්කුඩු භාවිතයටද ඇබ්බැහි වී ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+Police investigations have revealed that the suspect was closely with the army, which was closely with the former President Gotabhaya Rajapaksa.
 
-...
+The suspect is a 35 year old father of two, a resident of Nelliyapitiya. Police said the suspect was arrested by heroin with heroin, according to the police investigating heroin that the suspect was deployed by heroin.
+
+Police investigations have revealed that heroin was referred to the drug trafficking of organized crime while serving in a private company in Dematagoda after the army was out of the army.
+
+The suspect is said to be among the ten-hiding shovelists in the Unit that he served in the unit, police said.
+
+The OIC Chief Inspector Thilak Samaranayake, Chief Inspector Thilak Samaranayake, is conducting further investigations.
+
+◼️
 
 [Data](articles/c4cdcfe6.json)
+
+[Extended Data](ext_articles/c4cdcfe6.ext.json)
 
 ---
 
@@ -2153,87 +2267,5 @@ He told the BBC Sinhala service that the creation of an Indian artist who paints
 [Data](articles/dc39ef02.json)
 
 [Extended Data](ext_articles/dc39ef02.ext.json)
-
----
-
-### Drowning
-
-*2024-03-19 02:05:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-இளம்-பிக்கு-உயிரிழப்பு/175-334845) · `ta`
-
-Heeloa Sankananda Thera, educated at Rajaratta Bikku University, drowned in Tapova reservoir with monks.
-
-🟩
-
-Heeloa Sankananda Thera, who was educated at Rajaratta Bikku University, was drowned yesterday, police said.
-
-Investigations have revealed that the young girl who visited the Puttalam Vanathavillu Wannathilu Sri Dharmaraja Vihara was facing the disaster when he was in the water of the Tapova reservoir with a group of monks.
-
-◼️
-
-[Data](articles/d9d30358.json)
-
-[Extended Data](ext_articles/d9d30358.ext.json)
-
----
-
-### G.L. accuses Govt. of disregarding SC orders
-
-*2024-03-19 02:04:26* · [`dailyftlk`](https://www.ft.lk/news/G-L-accuses-Govt-of-disregarding-SC-orders/56-759675) · `en`
-
-Slams Govt. for opening doors to allow destruction of Sri Lanka’s rule of law
-
-Accuses current Speaker of being biased and weakest among line of 25 Speakers
-
-Says NCM against Speaker was brought forward to protect human rights
-
-Stresses if Govt. fails to meet public needs Constitution grants them right to oppose it
-
-Freedom People’s Congress (FPC) member MP Prof. G.L. Peiris yesterday accused the Government of disregarding orders issued by the Supreme Court and opening the doors to allow the destruction of the rule of law in the country.
-
-The MP addressing a press conference yesterday highlighted that the Supreme Court plays a pivotal role in intervening when a Parliamentary act clashes with the fundamental rights of the country’s citizens.
-
-Peiris stated that despite the expectation for the Speaker to be impartial, the current Speaker is seen to be implementing a biased agenda.
-
-...
-
-[Data](articles/61e69bf9.json)
-
-[Extended Data](ext_articles/61e69bf9.ext.json)
-
----
-
-### Japan extends Rs. 3.3 b grant aid to support humanitarian relief amid economic woes
-
-*2024-03-19 02:03:24* · [`dailyftlk`](https://www.ft.lk/news/Japan-extends-Rs-3-3-b-grant-aid-to-support-humanitarian-relief-amid-economic-woes/56-759674) · `en`
-
-The Government of Japan has agreed to provide grant assistance worth Rs. 3.3 billion (¥ 1,600 million) to provide immediate humanitarian assistance for the communities impacted by the ongoing economic crisis and to empower the State sector for upgrading the economic situation of the country.
-
-...
-
-[Data](articles/6847400a.json)
-
-[Extended Data](ext_articles/6847400a.ext.json)
-
----
-
-### New alliance led by Dayasiri to debut on Wednesday
-
-*2024-03-19 02:02:54* · [`dailyftlk`](https://www.ft.lk/news/New-alliance-led-by-Dayasiri-to-debut-on-Wednesday/56-759673) · `en`
-
-A new alliance titled Humane Peoples’ Alliance under the leadership of former Sri Lanka Freedom Party (SLFP) General Secretary MP Dayasiri Jayasekara will debut on Wednesday.
-
-“We hope to give new life to politics,” Jayasekara said addressing the media yesterday. According to him, it is evident that a program based on humanity is the need of the hour to revive the country.
-
-The SLFP MP affirmed that the new alliance would align with the SLFP and said that he would readily accept the position of General Secretary of the SLFP once more if requested by SLFP Chairman Maithripala Sirisena.
-
-Jayasekara clarified that his leadership in forming the alliance is not driven by aspirations of becoming the President of Sri Lanka, but rather by the intention to support the candidate best positioned to succeed in the elections.
-
-However, he also expressed that if invited by all parties supporting the alliance to contest as a presidential candidate, he would accept the challenge.
-
-...
-
-[Data](articles/56858509.json)
-
-[Extended Data](ext_articles/56858509.ext.json)
 
 ---

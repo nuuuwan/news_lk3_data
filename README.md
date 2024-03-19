@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 08:50:54**
+As of **2024-03-19 09:03:10**
 
 ## Newspaper Stats
 
-*Scraped **13,722** Articles*
+*Scraped **13,725** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,69 @@ dbsjeyarajcom | 187
 newsfirstlk | 363
 economynextcom | 724
 dailyftlk | 727
-islandlk | 759
+islandlk | 760
 adalk | 1,179
-adaderanalk | 1,646
+adaderanalk | 1,647
 tamilmirrorlk | 1,667
 virakesarilk | 1,916
-dailymirrorlk | 2,095
+dailymirrorlk | 2,096
 adaderanasinhalalk | 2,180
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,721 (100.0%) of 13,722 articles have been extended.
+13,722 (100.0%) of 13,725 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### No-confidence motion against Speaker: Two-day parliamentary debate begins today
+
+*2024-03-19 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98040/no-confidence-motion-against-speaker-two-day-parliamentary-debate-begins-today) · `en`
+
+The two-day parliamentary debate on the no-confidence motion against Speaker Mahinda Yapa Abeywardena will begin today (March 19).
+
+As decided at last week’s meeting of the Committee on Parliamentary Business chaired by Abeywardena, the debate, which is scheduled to commence at 9.30 a.m., will go on until 5.30 p.m. today.
+
+Meanwhile, the debate is slated to end at 4.30 p.m. tomorrow (March 20), with a vote on the no-confidence motion.
+
+The motion against the Speaker was handed over to the Deputy General Secretary of Parliament on 05 March. It had been signed by 44 parliamentarians including Opposition Leader Sajith Premadasa, Chief Opposition Whip Lakshman Kiriella and MPs Prof. G.L. Peiris, Rohini Kumari Wijeratne, Hesha Vithanage, Mano Ganesan, Rishad Bathiudeen, M.A. Sumanthiran, S.M. Marikkar, Ranjith Madduma Bandara, Thalatha Atukorale, Vijitha Herath and Chandima Weerakkody.
+
+...
+
+[Data](articles/8567b09e.json)
+
+---
+
+### Cash-strapped Govt. to cough up additional Rs.11Bn if general election declared
+
+*2024-03-19 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cash-strapped-Govt-to-cough-up-additional-Rs-11Bn-if-general-election-declared/108-279127) · `en`
+
+Colombo, March 19 (Daily Mirror) - The cash-strapped government will have to cough up another Rs.11 billion in case a snap parliamentary election is declared ahead of the Presidential Election which is anyway due in terms of the Constitution during the last quarter of this year, Daily Mirror learns.
+
+This will be in addition to over Rs.10 billion already allocated to the Election Commission in the 2024 budget for the conduct of the Presidential Election.
+
+A spokesman for the Election Commission told Daily Mirror that money had not been allocated in the current budget for a General Election since it is not scheduled for this year. However, President Ranil Wickremesinghe has the discretion to dissolve Parliament at any time to call for a snap general election. Also, he is empowered to allocate money from the Consolidated Fund to conduct the general election if declared by him.
+
+...
+
+[Data](articles/c9c65c14.json)
+
+---
+
+### Higher education captured by Inequality Inc.?
+
+*2024-03-19 08:35:00* · [`islandlk`](http://island.lk/higher-education-captured-by-inequality-inc/) · `en`
+
+Global inequality is at an all time high. According to a recent Oxfam report (Inequality Inc. January 2024), the richest 1% of the world owns 43% of global assets; the world’s richest five men have doubled their wealth since the onset of the pandemic while five billion people have been made poorer. Ever-reducing wages (for workers), tax concessions and evasion (for/by corporates), and the privatization of public services has concentrated wealth and power in corporates, increasing their influence in every policy domain, says Oxfam.
+
+...
+
+[Data](articles/c181ee4e.json)
+
+---
 
 ### Decision on the national propaganda to meet in court without answering Rohitha
 
@@ -310,17 +356,23 @@ It is reported that others who were remanded along with Mr. Rambukwella were tra
 
 ---
 
-### விவசாயிகளை சந்தித்தார் ஜனாதிபதி
+### The President met farmers
 
 *2024-03-19 02:19:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளை-சந்தித்தார்-ஜனாதிபதி/175-334847) · `ta`
 
-அரை ஏக்கர் மிளகாய் பயிரிட்டு ஒன்பது மாதங்களில் 12 மில்லியன் ரூபா வருமானம் ஈட்டிய அநுராதபுரம், திரப்பனை, புளியங்குளம் கிராமத்தைச் சேர்ந்த இளம் விவசாயி பந்துல முனசிங்க மற்றும் ஒரு ஏக்கர் தர்பூசணி பயிரிட்டதன் மூலம் இரண்டு மாதங்களில் 4 மில்லியன் ரூபா வருமானம் பெற்ற கல்குளம பிரதேசத்தைச் சேர்ந்த இளம் விவசாயி புத்திக சுதர்ஷன ஜனாதிபதி அலுவலகத்தில் நேற்று ஜனாதிபதி ரணில் விக்கிரமசிங்கவைச் சந்தித்தனர்.
+The President met farmers who benefited from the government's agricultural modernization program, including a Kalkulam farmer earning 4 million rupees in two months and a Puliyankulam farmer earning 12 million rupees in nine months from half an acre of chilli.
 
-அத்துடன், வளமான விளைச்சலைப் பெறுவதற்கு வழிகாட்டி அரசாங்கத்தின் விவசாய நவீனமயமாக்கல் வேலைத்திட்டத்தை நடைமுறைப்படுத்தியமைக்காக ஜனாதிபதிக்கு அவர்கள் நன்றி தெரிவித்தனர். (a)
+🟩
+
+A young farmer from Kalkulam, who earned 4 million rupees in two months, was attended by a young farmer from Bandula Munasinghe, a young farmer from Puliyankulam, Puliyankulam village, who had earned 12 million rupees in nine months after cultivating half an acre of chilli.
+
+They also thanked the President for implementing the government's agricultural modernization program to get rich yields. (A)
 
 ◼️
 
 [Data](articles/347dfc09.json)
+
+[Extended Data](ext_articles/347dfc09.ext.json)
 
 ---
 
@@ -2151,85 +2203,5 @@ It has been revealed that the victim girl participated in grade 09 and is a tale
 [Data](articles/ba4d7613.json)
 
 [Extended Data](ext_articles/ba4d7613.ext.json)
-
----
-
-### Fake passports for underworld figures: Ex-Deputy Immigration Controller granted bail
-
-*2024-03-18 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98031/fake-passports-for-underworld-figures-ex-deputy-immigration-controller-granted-bail) · `en`
-
-The former Deputy Controller of Immigration, who was arrested by the CID for allegedly providing passports based on false information to notorious underworld figures, has been released on bail.
-
-Accordingly, Kaduwela Magistrate Chanima Bandara has ordered the suspect to be released under two surety bail of Rs. 500,000 each after he was produced before the court today (18).
-
-The Criminal Investigation Department (CID) arrested a Deputy Controller of Immigration & Emigration and a former Deputy Controller in connection with providing passports based on false information to underworld figures Nuresh Supun Dayaratne alias “Heenatiyana Mahesh” and Shan Arosh Liyanage alias “Mathugama Shan”.
-
-The former Deputy Controller of the Immigration Department is accused of providing a fake passport for the organized criminal figure Shan Arosha Liyanage, also known as “Mathugama Shan”.
-
-...
-
-[Data](articles/907f9135.json)
-
-[Extended Data](ext_articles/907f9135.ext.json)
-
----
-
-### Sri Lanka rupee closes at 304.35/50 to the US dollar
-
-*2024-03-18 16:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-304-35-50-to-the-us-dollar-155078/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 304.35/50 to the US dollar in the spot forex market on Monday, slightly stronger from 305.20/25 on Friday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed stable at 11.30/40 percent.
-
-A bond maturing on 15.09.2027 closed at 11.85/12.00 percent from 11.85/95 percent on Friday.
-
-A bond maturing on 15.12.2028 closed down at 12.07/12.15 percent from 12.10/15 percent.
-
-A bond maturing on 15.07.2029 closed at 12.15/30 percent down from 12.20/40 percent on Thursday.
-
-A bond maturing on 15.05.2030 closed at 12.15/30 percent down from 12.25/45 percent last week.
-
-A bond maturing on 15.03.2031 closed at 12.10/30 percent down from 12.30/50 percent.
-
-A bond maturing on 01.07.2032 closed at 12.40/75 percent from 12.55/75 percent. (Colombo/Mar18/2024)
-
-◼️
-
-[Data](articles/c9a4cda1.json)
-
-[Extended Data](ext_articles/c9a4cda1.ext.json)
-
----
-
-### Two Pitigala murder suspects remanded
-
-*2024-03-18 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194641) · `si`
-
-Two suspects in the Pitigala murder case were remanded until March 25. Two were killed, two seriously injured, and one died in hospital. The victims were identified as Sehu Madushanka and Katukurundara Arachchige Kaviyaka Karrachi. The incident involved a motorcycle attack around 7.50 pm.
-
-🟩
-
-Alpitiya Madushika Residential today (18) was remanded until March 25, the two suspects were remanded until March 25.
-
-There were shot dead. Two of them were killed and the other two were serious.
-
-The Magistrate also informed the police to the army of further investigating the incident and submit the progress and produced before the court.
-
-Kariyawasam Langamage Prasanna (36), Niyagama, Kasan Language (36), a resident of the Niyagama, Talduwa, Gayagalagoda, Gayagalagoda, Grenagoda, Talgaswala.
-
-The murders and injuries were caused by two on the 110-night motorcycle targeting a motorcycle around 7.50 pm.
-
-One person was killed in the incident and the other was killed after being admitted to the Karapitiya Hospital, Galle.
-
-The deceased has been identified as Sehu Madushanka (32), a resident of Galagoda, Karandeniya (32).
-
-Katukurundara Arachchige Kaviyaka Karrachi, Horangalla, Teacher, died while receiving treatment at the Karapitiya Hospital, Galle.
-
-...
-
-[Data](articles/ef3c1bae.json)
-
-[Extended Data](ext_articles/ef3c1bae.ext.json)
 
 ---

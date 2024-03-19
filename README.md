@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 22:17:47**
+As of **2024-03-19 22:33:42**
 
 ## Newspaper Stats
 
-*Scraped **13,920** Articles*
+*Scraped **13,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 727
 economynextcom | 735
 islandlk | 761
 adalk | 1,205
-adaderanalk | 1,676
+adaderanalk | 1,677
 tamilmirrorlk | 1,690
 virakesarilk | 1,947
 dailymirrorlk | 2,126
@@ -26,11 +26,23 @@ adaderanasinhalalk | 2,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,917 (100.0%) of 13,920 articles have been extended.
+13,920 (100.0%) of 13,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### Customs employees temporarily call off trade union action
+
+*2024-03-19 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98064/customs-employees-temporarily-call-off-trade-union-action) · `en`
+
+Sri Lanka Customs Officers’ Union has decided to temporarily call off its trade union action following a discussion with Finance State Minister Ranjith Siyambalapitiya.
+
+◼️
+
+[Data](articles/c04426b2.json)
+
+---
 
 ### Customs employees temporarily call of trade union action
 
@@ -42,21 +54,31 @@ Sri Lanka Customs Officers’ Union has decided to temporarily call off its trad
 
 [Data](articles/dbc3d1f2.json)
 
+[Extended Data](ext_articles/dbc3d1f2.ext.json)
+
 ---
 
-### கிழக்கின் முழுமையான அபிவிருத்தியின் மூலம் நாட்டின் கடன் நெருக்கடியைத் தீர்க்க முடியும் - கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான்
+### The full development of the East can solve the country's debt crisis - the Governor of the Eastern Province Senthil Thondaman
 
 *2024-03-19 22:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179168) · `ta`
 
-ஜனாதிபதியின் பணிப்புரையின் பேரில் கிழக்கு மாகாணத்தில் திட்டமிட்ட அபிவிருத்திப் பணிகளை முன்னெடுத்து வருவதாகவும், கிழக்கு மாகாணத்தை முழுமையாக அபிவிருத்தி செய்வதன் மூலம் நாட்டின் கடன் நெருக்கடியைத் தீர்க்க முடியும் எனவும் கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் தெரிவித்தார்.
+Senthil Thondaman, Governor of the Eastern Province, believes that the full development of the East can resolve the country's debt crisis, emphasizing President Ranil Wickremesinghe's leadership in dealing with the economic crisis. The Eastern Province is focusing on development programs, including shrimp, heavy resources, port, airport, water resources, tourism, and agricultural lands, to improve the country's debts. Thondaman also highlights the need for fair salaries for plantation workers and the importance of cooperating with the IMF to repay debts.
 
-பொருளாதார நெருக்கடியை வெற்றிகரமாக கையாண்டு, நாட்டைக் கட்டியெழுப்பக்கூடிய ஒரே தலைவர் ஜனாதிபதி ரணில் விக்ரமசிங்க என்பதால் அவருக்கு ஆதரவளிக்க வேண்டியது அனைத்து தரப்பினரின் கடமை எனவும் அவர் வலியுறுத்தினார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (19) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் இதனைத் தெரிவித்தார்.
+The Governor of the Eastern Province Senthil Thondaman said that the planned development work in the Eastern Province is being carried out on the president's directive and that the development of the Eastern Province can be solved by fully developing the country's debt crisis.
+
+He emphasized that it is the duty of all parties to support him because President Ranil Wickremesinghe is the only leader who can successfully deal with the economic crisis and build the country.
+
+Eastern Province Governor Senthil Thondaman made this statement at a media briefing held at the Presidential Media Center on Tuesday (19).
+
+“We are currently carrying out various development programs in the Eastern Province on the directive of Hon. President Ranil Wickremesinghe.. The Eastern Province has suffered a setback compared to other provinces because of the thirty -year war.. Therefore, the President has advised me to take more care on the development of the three districts of this province.
 
 ...
 
 [Data](articles/8fa7fb47.json)
+
+[Extended Data](ext_articles/8fa7fb47.ext.json)
 
 ---
 
@@ -163,6 +185,8 @@ Hasaranga received a 50 percent fine and accumulated three demerit points for hi
 ...
 
 [Data](articles/54e011ae.json)
+
+[Extended Data](ext_articles/54e011ae.ext.json)
 
 ---
 
@@ -2207,21 +2231,5 @@ Accordingly, the dollar has fallen less than Rs.
 [Data](articles/4964ab95.json)
 
 [Extended Data](ext_articles/4964ab95.ext.json)
-
----
-
-### USD buying rate drops below Rs. 300 for first time since July 2023
-
-*2024-03-19 13:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98052/usd-buying-rate-drops-below-rs-300-for-first-time-since-july-2023) · `en`
-
-The buying rate of the US Dollar has dropped below the Rs. 300 mark for the first time since July 05, 2023.
-
-According to the official exchange rates announced today by the Central Bank of Sri Lanka (CBSL), the buying rate of the USD is Rs. 299.29 and the selling rate is Rs. 308.90.
-
-◼️
-
-[Data](articles/01a6b460.json)
-
-[Extended Data](ext_articles/01a6b460.ext.json)
 
 ---

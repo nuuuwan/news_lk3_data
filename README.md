@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 19:33:19**
+As of **2024-03-19 19:50:50**
 
 ## Newspaper Stats
 
-*Scraped **13,894** Articles*
+*Scraped **13,897** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ islandlk | 761
 adalk | 1,201
 adaderanalk | 1,670
 tamilmirrorlk | 1,689
-virakesarilk | 1,942
+virakesarilk | 1,943
 dailymirrorlk | 2,121
-adaderanasinhalalk | 2,213
+adaderanasinhalalk | 2,215
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,892 (100.0%) of 13,894 articles have been extended.
+13,894 (100.0%) of 13,897 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### மாகாண சபைத் தேர்தல் பிற்போடப்பட்டுள்ளமைக்கு எம்.ஏ.சுமந்திரன் பொறுப்புக் கூற வேண்டும் - நீதியமைச்சர் குற்றச்சாட்டு
+
+*2024-03-19 19:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179163) · `ta`
+
+மாகாண சபைத் தேர்தல் முறைமை திருத்த விவகாரத்தில் அப்போதைய பிரதமர் ரணில் விக்கிரமசிங்கவுக்கு எம்.ஏ.சுமந்திரன் கடும் அழுத்தம் பிரயோகித்தார்.மாகாண சபை தேர்தல் பிற்போடப்பட்டு மக்களின் வாக்குரிமை பறிக்கப்பட்டுள்ளமைக்கு எம்.ஏ.சுமந்திரன் பொறுப்புக் கூற வேண்டும் என  நீதி,சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு  அமைச்சர்  விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+
+பாராளுமன்றத்தில் செவ்வாய்க்கிழமை (19) இடம்பெற்ற சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் சபையில் உரையாற்றுகிறாரா அல்லது பிரதேச சபையில் உரையாற்றுகிறாரா ? என்பதை அறியவில்லை.உயர்நீதிமன்றத்தின் தீர்மானத்தை சுட்டிக்காட்டி உரையாற்றினார்.அவரது உரையில் விரக்தி மாத்திரமே எதிரொலித்தன.
+
+...
+
+[Data](articles/05866db1.json)
+
+---
+
+### කෙහෙළියට දුන් සැප වාහනේ පත්තුවෙයි
+
+*2024-03-19 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194700) · `si`
+
+රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාව අධිකරණයට රැගෙන ඒමට බන්ධනාගාරයට ළමයින් ප්‍රවාහනයට යොදාගන්නා වෑන් රථයක් භාවිත කිරීම සම්බන්ධයෙන් ආන්දෝලනාත්මක තත්ත්වයක් නිර්මාණය වී තිබේ.
+
+එම වෑන් රථය දරුවන් ප්‍රවාහනය කිරීම සඳහා එක්සත් ජාතීන්ගේ ළමා අරමුදල  මගින් පරිත්‍යාග කෙරුණු වෑන් රථයකි.
+
+එම වැන් රථය  අමාත්‍යවරයාව අධිකරණයට රැගෙන ඒමට යොදාගැනීම සම්බණ්ධයෙන් මේ වනවිට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව  විමර්ශනයක් ආරම්භ කර ඇති බව සඳහන් ය.
+
+මේ සම්බන්ධයෙන් අද දෙරණ බන්ධනාගාර දෙපාර්තමේන්තුවෙන් කළ විමසීමකදී එහි මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේ අදාළ දිනයේ ප්‍රවාහන කටයුතු සඳහා ප්‍රමාණවත් බස් රථ නොතිබුණු බැවින් එම වෑන් රථය යොදාගත් බවට නිලධාරීන් දැනුම්දුන් බවයි.
+
+◼️
+
+[Data](articles/e00d4d75.json)
+
+---
 
 ### Gold jewellery worth over Rs. 100 million seized at BIA
 
@@ -50,25 +84,65 @@ The confiscated gold jewellery includes chains, necklaces, bangles and earrings 
 
 [Data](articles/ba777b08.json)
 
+[Extended Data](ext_articles/ba777b08.ext.json)
+
 ---
 
-### රේගු ත්‍යාග අරමුදලේ ගැටලුව උත්සන්න වෙයි
+### කාන්තාවන් සියයට 40ක් බරපතළ අවදානමක
+
+*2024-03-19 19:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194699) · `si`
+
+පවතින ආර්ථික අර්බුදයත් සමග මෙරට කාන්තාවන් සියයට හතලිහක් පමණ කාන්තා සනීපාරක්ෂක තුවා භාවිතයෙන් ඉවත්වී ඇති බවට නවතම සමීක්ෂණයකින් අනාවරණ වී තිබේ.
+
+ලංකා ගුරු සංගමය පවසන්නේ සනීපාරක්ෂක තුවා මිල අධික ලෙස ඉහළයෑම හමුවේ සිසුවියන්ගේ පාසල් පැමිණීමද අඩුව ඇති බවය.
+
+එම සමීක්ෂණයෙන් අනාවරණය වී ඇත්තේ මෙරට වයස අවුරුදු 15ත් 47ත් අතර කාන්තාවන්ගෙන් සියයට 40ක් කාන්තා සනීපාරක්ෂක තුවා භාවිතයෙන් ඉවත් වී ඇති බවටය.
+
+පවුල් පාලනය පිළිබඳ සිවිල් සංවිධානය සිදුකළ එම සමීක්ෂණයෙන් අනාවරණ වී ඇත්තේ සනීපාරක්ෂක තුවා සඳහා ඉහළ මිලක් ගෙවීමට සිදුවීම ඊට ප්‍රධාන හේතුවක් වී ඇති බවය.
+
+වර්තමානයේ ආනයනික සනීපාරක්ෂක තුවා සඳහා අය කෙරෙන බදු ප්‍රමාණය සියයට 51 ක් පමණ වෙයි.
+
+දේශීය සනීපාරක්ෂක තුවාවල මිල ගණන් 90%කින් සහ ආනයනික නිෂ්පාදනවල මිල ගණන් 30% පමණ ඉහළ නංවා තිබේ.
+
+ඊට එක්වූ ප්‍රදේශයේ මව්වරුන් පැවසුවේ සනීපාරක්ෂක තුවා මිල ඉහළයෑම හමුවේ තම දරුවන් දැඩි අපහසුතාවයට පත්ව ඇති බවය.
+
+මේ සම්බන්ධයෙන් වැඩි අවධානයක් යොමු නොකළහොත් කාන්තාවන්ට සෞඛ්‍ය ගැටලු පැනනගින බව වෛද්‍යවරුන් පෙන්වා දෙයි.
+
+...
+
+[Data](articles/8f82cbae.json)
+
+---
+
+### The Problem of the Customs Reward Fund is escalating
 
 *2024-03-19 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194698) · `si`
 
-රේගු නිලධාරීන් සහ මුදල් අමාත්‍යංශය අතර අද (19) පස්වරුවේ පැවති සාකච්ඡාව එකඟතාවකින් තොරව අවසන් වීම හේතුවෙන් රේගු සේවකයින්ගේ වෘත්තිය ක්‍රියාමාර්ගය තවදුරටත් ක්‍රියාත්මක කිරීමට ඔවුන් තීරණය කර තිබේ.
+Customs workers in Sri Lanka have escalated their professional action, affecting container clearance at Colombo port. About 4,500 containers are trapped due to trade union action, potentially leading to a shortage of items during the New Year season. Customs officers, superintendents, and staff have begun their services, impacting the port's operations. The Customs Association warns of a surplus of 1,000 to 1,500 containers daily and a daily tax revenue of 3 to 4 billion rupees.
 
-එම වෘත්තීය ක්‍රියාමාර්ගය හේතුවෙන් මේ වනවිට බහාලුම් 4,500ක් පමණ කොළඹ වරායේ සිරවී ඇති බව වාර්තාවෙයි.
+🟩
 
-මෙම තත්ත්වය ඉදිරියටත් පැවතියහොත් අලුත් අවුරුදු සමයේ ඇතැම් භාණ්ඩවල හිඟයක් නිර්මාණය විය හැකි බවට වෘත්තිය ක්‍රියාමාර්ගයේ නිරත රේගු සංගම් අනතුරු අඟවයි.
+They have decided to implement the professional action of the Customs workers due to an agreement with Customs Officers and Finance Ministries today (19).
 
-රේගු සේවකයන්ට අතිකාල සහ දිරිදීමනා ගෙවීම් සිදු කෙරෙන රේගු ත්‍යාග අරමුදල, මුදල් අමාත්‍යංශය භාරයට ගෙන ඇති බවත්, එය අසාධාරණ බවත් පවසමින් රේගු නිලධාරීන්, රේගු අධිකාරීවරුන් සහ රේගු මාණ්ඩලික නිලධාරීන් අතිකාල සේවයෙන් ඉවත්වීමේ වෘත්තිය ක්‍රියාමාර්ගය ආරම්භ කළේය.
+It is reported that about 4,500 containers have been trapped at the Colombo port due to the trade union action.
 
-ඊට අමතරව සිය වෘත්තිය ක්‍රියාමාර්ගය දැඩි කරමින්, රේගු සේවකයින් අකුරට වැඩ කිරීමද අද ආරම්භ කළේය.
+Customs Association is warned that if the situation will continue, there is a shortage of certain items during the New Year season.
+
+Customs officers, Customs Superintendents and Customs Staff Officers have commenced the services of the Customs and the Finance Minor of Customs.
+
+In addition, customs personnel also commenced their professional action and working to false.
+
+Accordingly, after the aftermath of the office hours from 9am to 4.45 am, they have a profound effect on the container clearance program.
+
+The Sri Lanka Customs currently operates 4 container terminals in the Colombo Port premises.
+
+Generally, about 2000 containers in each day, about 2000 containers have been cleared on these days.
 
 ...
 
 [Data](articles/e4120fc2.json)
+
+[Extended Data](ext_articles/e4120fc2.ext.json)
 
 ---
 
@@ -2201,71 +2275,5 @@ Accordingly, the bids have been summoned to select an appropriate institution to
 [Data](articles/5e2eae43.json)
 
 [Extended Data](ext_articles/5e2eae43.ext.json)
-
----
-
-### Additional day allocated for no-confidence debate against Speaker
-
-*2024-03-19 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98049/additional-day-allocated-for-no-confidence-debate-against-speaker) · `en`
-
-A decision has been taken at the meeting of the Committee on Parliamentary Business to debate the no-confidence motion brought against the Speaker of Parliament for three days instead of two days as previously decided.
-
-Accordingly, the motion of no confidence will be debated in Parliament for three consecutive days from today while the vote on the motion will be held at 4.30 p.m. on Thursday (March 21).
-
-The committee had previously decided to debate the no-confidence motion against Speaker Mahinda Yapa Abeywardena for two days on Tuesday (19) and Wednesday (20). Accordingly, the debate had commenced in Parliament this morning.
-
-The motion brought forth by the opposition against the Speaker was officially handed over to the Deputy General Secretary of Parliament on March 05.
-
-...
-
-[Data](articles/388ca413.json)
-
-[Extended Data](ext_articles/388ca413.ext.json)
-
----
-
-### Another day for the no-confidence debate against speaker
-
-*2024-03-19 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194675) · `si`
-
-The Committee on Parliamentary Business has decided to give another day for the debate on the no-confidence motion against Speaker Mahinda Yapa Abeywardena, which will be held on Thursday, 21st. The debate on the no-confidence motion began in Parliament today (19th) and will take place at 4.30 pm on Thursday.
-
-🟩
-
-The Committee on Parliamentary Business has decided to give another day for the debate on the no-confidence motion on the No-confidence motion on the debate on the debate on the No-confidence motion against Speaker Mahinda Yapa Abeywardena.
-
-Accordingly, the debate on the no-confidence motion proposal against Speaker Mahinda Yapa Abeywardena will also be held on Thursday 21st.
-
-The meeting will be decided to hold further debate on the paddy purchasing issues of the farmers' purchasing issues to 6:30 pm to 6.00 pm on Friday.
-
-The debate on the no-confidence motion against Speaker began in Parliament today (19).
-
-Accordingly, the no-confidence motion against Mr. Mahinda Yapa Abeywardena will take place at 4.30 pm on Thursday 21 pm.
-
-◼️
-
-[Data](articles/e397d015.json)
-
-[Extended Data](ext_articles/e397d015.ext.json)
-
----
-
-### Party leaders decide on three-day debate on no-faith motion on Speaker
-
-*2024-03-19 12:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Party-leaders-decide-on-three-day-debate-on-no-faith-motion-on-Speaker/108-279154) · `en`
-
-Parliament, March 19 (Daily Mirror)- The Party leaders have decided to debate the no-confidence motion against Speaker Mahinda Yapa Abeywardhane for three days.
-
-The decision was taken at the party leaders' meeting convened at the Parliament complex this morning.
-
-The vote on the no-confidence motion is to be taken on Thursday (21).
-
-It was earlier scheduled to have a two-day debate and take up the vote tomorrow.
-
-◼️
-
-[Data](articles/eb77a283.json)
-
-[Extended Data](ext_articles/eb77a283.ext.json)
 
 ---

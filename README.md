@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 14:33:43**
+As of **2024-03-19 14:50:10**
 
 ## Newspaper Stats
 
-*Scraped **13,817** Articles*
+*Scraped **13,822** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,105 @@ islandlk | 760
 adalk | 1,192
 adaderanalk | 1,662
 tamilmirrorlk | 1,679
-virakesarilk | 1,927
-dailymirrorlk | 2,112
+virakesarilk | 1,930
+dailymirrorlk | 2,114
 adaderanasinhalalk | 2,199
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,811 (100.0%) of 13,817 articles have been extended.
+13,817 (100.0%) of 13,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### தயாசிறி ஜயசேகரவும் கோப் குழுவிலிருந்து விலகினார்!
+
+*2024-03-19 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179120) · `ta`
+
+இதேவேளை, ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் இரான் விக்கிரமரத்ன, பொது நிறுவனங்கள் தொடர்பான நாடாளுமன்றக் குழு  (கோப்)   உறுப்புரிமையிலிருந்து  நேற்று (18) இராஜினாமா செய்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/89626433.json)
+
+---
+
+### நுகேகொடையில்  போதைப் பொருளுடன்  சந்தேக நபர்கள் மூவர் கைது
+
+*2024-03-19 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179118) · `ta`
+
+மிரிஹான பொலிஸ் பிரிவிற்குட்பட்ட நுகேகொடை பகுதியின் ஊழல் ஒழிப்பு பிரிவின் அதிகாரிகளுக்கு கிடைத்த தகவலை அடுத்து  மேற்கொண்ட சுற்றி வளைப்பில்  3 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+நுகேகொடை மேம்பாலத்திற்கு அருகில் வைத்து போதைப் பொருளுடன் முதலாவது சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+
+இவ்வாறு கைது செய்யப்பட்ட சந்தேகநபரிடமிருந்து 6 கிராம் 140 மில்லி கிராம்  ஐஸ் போதைப்பொருள் கைப்பற்றப்பட்டுள்ளது.
+
+இந்நிலையில், சந்தேக நபரிடத்தில் மேற்கொள்ளப்பட்ட விசாரணையில் ஹைலெவல் வீதி 07ஆம் மைல் வீதியில் மற்றுமொரு சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபரிடமிருந்து 12 கிராம் 730 மில்லி கிராம் ஐஸ் போதைப் பொருள் மற்றும் போதைப் பொருள் விற்பனையின் மூலம் பெற்ற 22,600 பணமும் கைப்பற்றப்பட்டது.
+
+அத்தோடு , ஜம்புகஸ்முல்ல சந்தியில் 25 கிராம் 360 மி. கிராம் ஐஸ் போதைப்பொருளுடன்  இன்னுமொரு சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+இவ்வாறு கைது செய்யப்பட்ட 3 சந்தேக நபர்களும் தெஹிவளை மற்றும் நுகேகொடை பிரதேசங்களைச் சேர்ந்த 24, 26 மற்றும் 32 வயதுடையவர்களாவர்.
+
+...
+
+[Data](articles/923c51da.json)
+
+---
+
+### SL rupee drops below Rs 300 against USD
+
+*2024-03-19 14:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-rupee-drops-below-Rs-300-against-USD/108-279164) · `en`
+
+Colombo, March 19 (Daily Mirror) - The buying rate of the US Dollar has dropped below the Rs. 300 rate for the first time since July 2023, according to the Central Bank of Sri Lanka (CBSL).
+
+According to the CSBL, the buying rate of the US Dollar has dropped to Rs. 299.29 today.
+
+Meanwhile, the selling rate of the US Dollar has also reduced to Rs. 308.90 from yesterday’s rate of Rs. 309.67.
+
+◼️
+
+[Data](articles/302487d8.json)
+
+---
+
+### AI learning opportunity for Grade 8 and above from today
+
+*2024-03-19 14:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AI-learning-opportunity-for-Grade-8-and-above-from-today/108-279163) · `en`
+
+Colombo, March 19 (Daily Mirror) - Students from Grades 8 and above will have the opportunity to study Artificial Intelligence (AI) with their information technology subjects, and this pilot project will be started in 20 schools from today, Education Minister Susil Premajayantha said.
+
+The Education Ministry is to launch a pilot project to introduce Artificial Intelligence (AI) alongside the information technology curriculum for students in Grade 8 and above today in 20 selected schools.
+
+Minister Susil Premajayantha pointed out that 100 teachers are being trained for this task, which will be implemented throughout the country in the coming year.
+
+The pilot programme will be conducted with the sponsorship of Microsoft Corporation in 20 selected schools.
+
+In the future, every child in the country will be provided with the necessary background to achieve their future goals according to their abilities and preferences, he said.
+
+◼️
+
+[Data](articles/283eed1d.json)
+
+---
+
+### ஹெரோயின் போதைப் பொருளுடன் ஒருவர் கைது
+
+*2024-03-19 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/179116) · `ta`
+
+கல்கிஸ்ஸ பொலிஸ் பிரிவிற்குட்பட்ட ஓடியன் சந்தியில் கல்கிஸ்ஸ  குற்ற புலனாய்வு பிரிவிற்கு கிடைத்த தகவலின் மூலம் ஹெரோயின்  போதைப் பொருளுடன்  நேற்று (18 ) சந்தேக நபரொருவர் கல்கிஸ்ஸ பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபரிடமிருந்து 10 கிராம் 250 மி.கிராம் ஹெரோயின் போதைப் பொருள் கைப்பற்றப்பட்டதாக தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/2f832c32.json)
+
+---
 
 ### Dayasiri Jayasekara also resigns as COPE member
 
@@ -42,27 +128,39 @@ It is understood that Jayasekara has forwarded his letter of resignation to the 
 
 His resignation came a day after Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne resigned from his position as a COPE member.
 
-◼️
+In his resignation letter, Wickramaratne explained that no credible action had been taken on those who were found to have been complicit in corrupt practices or mismanagement despite the COPE reports submitted to the parliament time and time again.
+
+He also took issue with the appointment of Rohitha Abeygunawardena, a ruling party MP, as the COPE chairman despite the previous government adopting a practice of appointing an Opposition member to chair the committee to strengthen the principle that the legislature must be a check and balance on the executive arm of government.
+
+...
 
 [Data](articles/6e9439bf.json)
 
+[Extended Data](ext_articles/6e9439bf.ext.json)
+
 ---
 
-### බොර තෙල් ගැන රුසියාව තීරණයක් ගනී
+### Russia decides about crude oil
 
 *2024-03-19 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194683) · `si`
 
-වෙළෙඳපොළ ආරංචිමාර්ග සඳහන් කර ඇත්තේ රුසියාව සිය බොර තෙල් සැපයුම ඉහළ නැංවීමට තීරණය කිරීම, ජෙට් ඉන්ධන සඳහා ඇති ඉල්ලුම අඩුවීම සහ අමෙරිකානු පොලි අනුපාත ගැන එරට මහ බැංකු තීරණයට දින කිහිපයකට පෙර වෙළෙඳපොළ කටයුතු මන්දගාමී වීම හේතුවෙන් එසේ බොර තෙල් මිල අඩුවී ඇති බවයි.
+Russia increases crude oil supply, impacting Brent and West Texas Intermediate prices, aiming to counteract Saudi Arabia and Iraq's reduction and support China and US economy growth.
 
-ඒ අනුව බ්‍රෙන්ට් බොර තෙල් බැරලයක මිල ඩොලර් 86.74 දක්වාද වෙස්ට් ටෙක්සාස් (WTI) බොර තෙල් බැරලයක මිල ඩොලර් 82.03ක් ලෙස දැක්වුණි.
+🟩
 
-ඊට හේතු වූයේ සෞදි අරාබිය සහ ඉරාකය බොර තෙල් සැපයුම අඩු කිරීම, චීනයේ සහ අමෙරිකාවේ ආර්ථිකය වර්ධනයේ සුබදායී දත්ත බව වෙළෙඳපොළ ආරංචි මාර්ග පැවසීය.
+Market sources said that Russia decides to increase the supply of crude oil supply to the demand for jet fuel and the US Central Bank decision on the US central bank decision a few days ago.
 
-විදෙස් මාධ්‍ය සඳහන් කළේ රුසියාව මාර්තු මාසයේ සිට සිය බොර තෙල් අපනයනය දිනකට බැරල් 200,000කින් වැඩි කිරීමට තීරණය කර ඇති බවයි.
+Accordingly, a barrel of Brent crude oil was priced at $ 86.74, a barrel of crude oil was $ 82.03.
+
+The cost was to reduce Saudi Arabia and Iraq supply of crude oil supply, China and the US economy growth.
+
+Foreign media has said that Russia has decided to increase their crude oil from 200,000 barrels per day since March.
 
 ◼️
 
 [Data](articles/b31ec57b.json)
+
+[Extended Data](ext_articles/b31ec57b.ext.json)
 
 ---
 
@@ -86,17 +184,23 @@ The letter of resignation has been sent to the Speaker.
 
 ---
 
-### அவுஸ்ரேலிய பாதுகாப்பு அதிகாரிகள் குழு யாழ்.பல்கலைக்கு விஜயம்
+### Australian Security Officers visit Jaffna
 
 *2024-03-19 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179114) · `ta`
 
-அவுஸ்திரேலிய தேசிய பல்கலைக்கழகத்தின் தேசிய பாதுகாப்புக் கல்லூரி, அவுஸ்திரேலிய வெளியுறவு மற்றும் வாணிபத்துறை அதிகாரிகள் அடங்கிய குழு ஒன்று அண்மையில் யாழ்ப்பாணப் பல்கலைக் கழகத்துக்கு உத்தியோகபூர்வ விஜயமொன்றினை மேற்கொண்டது.
+Australian officials from the National Security College and Foreign Affairs visited Jaffna University to assess the Maritime Resources and Coast Guard Awareness Program. They met with university representatives and discussed current political, economic conditions, and social projects to combat illegal migration.
 
-இலங்கையில் அவுஸ்திரேலிய தேசிய பல்கலைக்கழகத்தின் தேசிய பாதுகாப்புக் கல்லூரி, அவுஸ்திரேலிய வெளியுறவு மற்றும் வாணிபத்துறை ஆகியன இணைந்து மேற்கொண்டுள்ள கடல்சார் வள மற்றும் கடலோரப் பாதுகாப்புத் தொடர்பான விழிப்புணர்வுத் திறன் மேம்பாட்டுச் செயற்றிட்டத்தின் தற்போதைய நிலைமை தொடர்பில் ஆராய்வதற்கும், அவுஸ்திரேலிய அரசின் உதவிகள் வழங்கப்படக்கூடிய இடங்களை அடையாளங்காணும் வகையிலும், கொழும்பிலுள்ள அவுஸ்ரேலிய உயர் ஸ்தானிகராலயத்தின் அரசியல் மற்றும் பொருளாதாரத்துக்கான முதல் செயலாளர் கலாநிதி போல் செக்கோலா தலைமையிலான குழுவினரே கடந்த வாரம் யாழ்ப்பாணப் பல்கலைக்கழகத்துக்கு விஜயம் செய்து துணைவேந்தர் பேராசிரியர் சி. சிறிசற்குணராஜா தலைமையிலான குழுவினரைச் சந்தித்துக் கலந்துரையாடினர்.
+🟩
+
+The National Security College of the Australian National University, Australian Foreign and Commerce officials recently made an official visit to the Jaffna University.
+
+Australian National University of Australian National University in Sri Lanka, Australian Foreign Affairs and Commerce Department, to look into the current status of the Maritime Resources and Coast Guard Awareness Program and identify the places where the Australian Government will be provided with the Australian High Commission for the Australian EconomicsVice -Chancellor C.. The team led by Sirisakkunarajah met and discussed.
 
 ...
 
 [Data](articles/9a560d8c.json)
+
+[Extended Data](ext_articles/9a560d8c.ext.json)
 
 ---
 
@@ -186,21 +290,31 @@ Chandana, who was very high, was able to lead the national team at a short time.
 
 ---
 
-### பொது மக்கள் எங்கும் தீ வைக்க முனைந்தால் சுற்று சூழலையும் கவனத்தில் கொள்ள வேண்டும் - மன்னார் பிரதேச செயலாளர் பிரதீபன்
+### If the public is trying to set fire to the public, the environment should also be taken into consideration - Mannar Divisional Secretary Pradeepan
 
 *2024-03-19 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/179109) · `ta`
 
-மன்னாரில் தற்பொழுது மிகவும் கடும் வெப்பம் நிலவுவதால் பொதுமக்கள் தங்கள் வீட்டுக்கு அருகாமையிலோ அல்லது வேறு எங்காவது சுத்தப்படுத்தி தீ மூட்டும் போது  மிகவும் அவதானமாக செயற்பட வேண்டும் என  மன்னார் பிரதேச செயலாளர் எம்.பிரதீபன் வேண்டுகோள் விடுத்துள்ளார்.
+Mannar Divisional Secretary M Pradeepan warns the public to be cautious with fires, especially in the Panangadu area, where a fire damaged a large part of Panangadam and a house. High temperatures pose a risk of fire spreading, affecting not only forests but also organisms.
 
-மன்னார் பட்டித்தோட்டம்  கிராமத்துக்கு அருகாமையிலுள்ள பனங்காடு பகுதியில் திங்கட்கிழமை (18) திடீரென தீப்பற்றி எரிந்தமையால் பனங்காட்டில் பெரும் பகுதி சேதங்களுக்கு உள்ளாகியதுடன் தீ பரவியதால் வீடொன்றும் சேதமடைந்துள்ளது.
+🟩
 
-இத் தீ எவ்வாறு உருவாகியுள்ளது என்பது இன்னும் கண்டறியப்படாத நிலை காணப்படுகின்றபோதும் தற்பொழுது மன்னார் மாவட்டத்தில் மக்களை சுட்டெரிக்கக் கூடிய மிகவும் கடுமையான வெப்ப நிலை காணப்படுகின்றது.
+Mannar Divisional Secretary M Pradeepan has requested that the public should be very careful when the fire is being cleaned or somewhere else.
 
-ஆகவே பொது மக்கள் தங்கள் வீட்டுக்கு அருகாமையில் அல்லது வேறு எங்கும் சுற்று சூழலை துப்பரவு செய்தபின் அவற்றை தீ மூட்டுவதில் ஈடுபடும்போது தற்பொழுது நிலவி வரும் கடும் வெப்பநிலையால் இலகுவாக தீ பரவும் அபாயமும் காணப்படுகின்றது.
+Suddenly burning fire in the Panangadu area near the village of Mannar Pattiyottam, a large part of Panangadam was damaged and a house was damaged.
 
-...
+Even though there is still an unidentified situation, there is a very severe temperature that can burn people in the Mannar district.
+
+Therefore, when the general public is near their home or other environment, there is a risk that the fire is easily spreading due to the prevailing temperatures.
+
+Mannar Divisional Secretary M Pradeepan said that if the public is trying to set fire to any fire, the public should be very focused.
+
+He added that if a fire begins to spread in today's environment, there will be great opportunities not only in forests but also organisms.
+
+◼️
 
 [Data](articles/dfe64894.json)
+
+[Extended Data](ext_articles/dfe64894.ext.json)
 
 ---
 
@@ -224,21 +338,27 @@ The transformative change in education is expected to prepare children who leave
 
 ---
 
-### ஹமாஸின் 3 ஆவது உயர் தலைவர் பலி: வெள்ளை மாளிகை தெரிவிப்பு
+### Hamas's 3rd top leader kills: White House
 
 *2024-03-19 13:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179110) · `ta`
 
-ஹமாஸ் அமைப்பின் 3 ஆவது உயர் தலைவரான மர்வான் இஸா, கடந்தவாரம் இஸ்ரேலின் தாக்குதலால் கொல்லப்பட்டுள்ளார் என வெள்ளை மாளிகை நேற்று திங்கட்கிழமை (18) தெரிவித்துள்ளது.
+Marwan Isa, Hamas's 3rd top leader, was killed by Israel. He was the deputy head of Isadheen al-Qassam, Hamas's military unit. The attack occurred in Gaza on March 9 and 10. US National Security Advisor Jag Sulivan confirmed Isa's death in Israel's attack.
 
-ஹமாஸின் இராணுவப் பிரிவான இஸ்ஸதீன் அல் கஸ்ஸாம் படையணியின் பிரதித் தலைவராக விளங்கியவர் மர்வான் இஸா.
+🟩
 
-மார்ச் 9, 10 ஆம் திகதிகளில் இஸாவை இலக்குவைத்து காஸாவில் தாக்குதல் நட்ததப்பட்டதாக இஸ்ரேலிய இராணுவப் பேச்சாளர் ரியர் அட்மிரல் டேனியர் ஹகாரி கடந்த 11 ஆம் திகதி கூறினார்.
+Marwan Isa, the 3rd top leader of the Hamas organization, was killed by Israel last week, the White House said on Monday (18).
 
-இந்நிலையில், கடந்தவாரம் இஸ்ரேலின் தாக்குதலில் இஸா கொல்லப்பட்டுள்ளார் என அமெரிக்காவின் தேசிய பாதுகாப்பு ஆலோசகர் ஜக் சுலீவன் நேற்று தெரிவித்துள்ளார்.
+Marwan Isa was the deputy head of the Hamas's military unit, Isadheen al -Qassam.
+
+Israeli military spokesman Rear Admiral Danier Hakari said on the 11th that the attack was attacked in Gaza on March 9 and 10.
+
+US National Security Advisor Jag Sulivan yesterday said that Isa was killed in Israel's attack last week.
 
 ◼️
 
 [Data](articles/51aebef7.json)
+
+[Extended Data](ext_articles/51aebef7.ext.json)
 
 ---
 
@@ -1204,21 +1324,29 @@ Western purple -faced Langur is a species protected under Section 30 of the Plan
 
 ---
 
-### ”ஊதா நிற  முகக் குரங்குகள் அழியும் அபாயம்'”
+### "Purple -colored monkeys are at risk of destroying."
 
 *2024-03-19 10:45:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊதா-நிற-முகக்-குரங்குகள்-அழியும்-அபாயம்/175-334871) · `ta`
 
-நகர சுற்றுப்புறங்களில் காடழிப்பு காரணமாக, ஊதா நிற முகம் கொண்ட இலைக் குரங்கு என்றும் அழைக்கப்படும் மேற்கத்திய ஊதா நிற  முகமுடைய லங்கர்கள் நாய்கள், மக்கள் மற்றும் வாகன விபத்துகளில் சிக்கிக்கொள்ளும் நிலையுள்ளதால் அவை உணவு தேடுகையில் , ஓய்வெடுக்கும் இடங்களில் பாதுகாப்புகளைப் பெற வேண்டிய கட்டாத்திற்கு தள்ளப்பட்டுள்ளன என ஒரு முதன்மையான மற்றும் சூழலியல் நிபுணர் கூறினார்.
+"Western purple-faced langurs face threats from deforestation, leading to encounters with dogs, humans, and vehicles. Recent incidents include the death of three langurs near Talangama Lake. Despite being protected under the FFPO and listed as an internationally dangerous animal by IUCN, they are now seen as pests in urban areas."
 
-தலங்கம ஏரிக்கு அருகில் ஊதா நிற முகமுடைய மூன்று லங்கர்கள் மீது துப்பாக்கிச் சூடு நடத்தப்பட்டதாகவும், அதன் விளைவாக இரண்டு விலங்குகள் காயங்களுக்கு உள்ளாகியதாகவும் சமூக ஊடகங்களில் சமீபத்தில் வெளியான பதிவில் தெரியவந்துள்ளது.
+🟩
 
-நிபுணர் பேராசிரியர் வொல்ப்கங் டிட்டஸ் டெய்லி மிரரிடம் பேசுகையில், ஊதா நிற முகமுடைய லங்கூர் மரங்களில் வாழக்கூடிய தன்மையுடையவை. என்றும், மரங்களை அகற்றுவதன் மூலம் அவற்றின் பாதைகள் தடைப்படும் போது மட்டுமே அவை தரைக்கு வரும் என்றும் கூறினார்.
+Western purple -colored leankers, also known as a purple -faced leaf monkey, have been forced to get caught up in dogs, people and vehicle accidents due to deforestation in the city surroundings, said a primary and ecological expert.
 
-இந்த பின்னணியில்தான் நகர்ப்புறங்களில் உள்ள மக்கள் இப்போது ஊதா நிற முகமுள்ள லங்கர்களை ஒரு பாதிப்பு ஏற்படுத்தும் பூச்சியாக  உணர்கிறார்கள்.
+A recent post on social media revealed that three purple faces were shot dead near the Talangama Lake and that two animals were injured.
 
-...
+Specialist Professor Wolfgang Titus spoke to the Daily Mirror: "Purple -faced Langur trees are living in the trees. He said that the removal of the trees would only come to the ground when their paths were blocked.
+
+It is against this backdrop that people in urban areas now feel the purple -facing leankers as a harmful insect.
+
+Western purple -faced Langur is a species protected under Section 30 of the Plants and Plants Protection Ordinance (FFPO).It is an internationally dangerous animal by IUCN.
+
+◼️
 
 [Data](articles/fa58c510.json)
+
+[Extended Data](ext_articles/fa58c510.ext.json)
 
 ---
 
@@ -2149,113 +2277,5 @@ Acting Secretary-General of Parliament Dushamantha Mithrpala said that the SLFP 
 [Data](articles/dedf517d.json)
 
 [Extended Data](ext_articles/dedf517d.ext.json)
-
----
-
-### Another fatal accident on highway
-
-*2024-03-19 06:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194658) · `si`
-
-A 21-year-old died in a highway accident near 45.2.25 kilometers on the Southern Expressway. A van from Mattala to Kottawa hit the direction, injuring two. The deceased, a Nagoda resident, was identified. Police suspect driver error. Further investigations are underway.
-
-🟩
-
-A 21-year-old youth has died in an accident on the right highway.
-
-The accident had occurred between 45.2.25 kilometers on the Southern Expressway today (19).
-
-The accident had occurred when a van, which was traveling from Mattala to Kottawa, hit the direction of the direction.
-
-Two persons were injured in the van and admission to the Nagoda hospital.
-
-The deceased has been identified as a 21 year old resident of the Nagoda, Galle.
-
-Police suspect that the accident had occurred due to the driver of the van.
-
-Expressway Tourism Police Division is conducting further investigations.
-
-◼️
-
-[Data](articles/b567e666.json)
-
-[Extended Data](ext_articles/b567e666.ext.json)
-
----
-
-### Purple-faced leaf monkeys risk death with daring rooftop travels: Primatologist
-
-*2024-03-19 06:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Purple-faced-leaf-monkeys-risk-death-with-daring-rooftop-travels-Primatologist/108-279125) · `en`
-
-Due to deforestation in urban areas, Western purple-faced langurs also known as purple-faced leaf monkey are forced to use rooftops for travel in search of food and resting places, putting them at risk of encounters with dogs, people, and vehicles which can be fatal for the animals, a primatologist and behavioral ecologist said.
-
-A recent post on social media revealed that three purple-faced langurs near Thalangama Lake were shot at, resulting in two animals succumbing to their injuries
-
-Speaking to the Daily Mirror, Smithsonian primatologist and behavioral ecologist Prof. Wolfgang Dittus said that the purple-faced langur is highly arboreal and that they come to the ground only under extreme circumstances when their arboreal pathways have been blocked by the removal of trees.
-
-It is in this backdrop that people in urban settings now perceive Purple-faced langurs as a pest.
-
-...
-
-[Data](articles/c625fa02.json)
-
-[Extended Data](ext_articles/c625fa02.ext.json)
-
----
-
-### Showers or thunderstorms
-
-*2024-03-19 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194656) · `si`
-
-Showers or thunderstorms expected in Western, Sabaragamuwa, Galle, and Matara districts today, with dry weather elsewhere.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Western and Sabaragamuwa Provincial and in the Galle and Matara districts today (19).
-
-The department states that there are mainly dry weather in the rest of the island.
-
-The Department of Meteorology added that in some places in the Sabaragamuwa and Central provinces and in the Galle and Kalutara districts, the Met Department added.
-
-◼️
-
-[Data](articles/6893f7d5.json)
-
-[Extended Data](ext_articles/6893f7d5.ext.json)
-
----
-
-### Don’t cry for me Sri Lanka, if wrong people are elected - EDITORIAL
-
-*2024-03-19 04:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Dont-cry-for-me-Sri-Lanka-if-wrong-people-are-elected-EDITORIAL/172-279106) · `en`
-
-Elections have been the main focus among frontline political parties these days with the Presidential election scheduled for this year.
-
-According to the Sri Lankan Constitution “the poll for the election of the President shall be taken not less than one month and not more than two months before the expiration of the term of office of the President in office.”
-
-Since the incumbent President Ranil Wickremesinghe is holding office “only for the unexpired period of the term of office” of former President Gotabaya Rajapaksa, the term in this case is considered to be the term of President Rajapaksa who was sworn in on November 18, 2019. Hence the next Presidential election should be held between September 18 and October 18 this year.
-
-...
-
-[Data](articles/e4091978.json)
-
-[Extended Data](ext_articles/e4091978.ext.json)
-
----
-
-### African debt crisis and lessons for Lanka
-
-*2024-03-19 04:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/African-debt-crisis-and-lessons-for-Lanka/172-279105) · `en`
-
-In the last two decades since Arrighi wrote his seminal article, Sri Lanka and many African countries have been on the same path of commercial borrowing. The process has resulted in the extraction of more wealth and further exacerbated balance of payment problems, even as the elite in these countries sprawl in luxurious consumption.
-
-Crisis and despair push us to learn rapidly and that is true of debt crisis as well. But whom do we learn from and whom do we work with to find solutions to the crisis?
-
-The IMF team in all their pomp are again visiting Sri Lanka. Their tutelage continues to be the same for us as many other countries in debt distress—austerity, repaying creditors and promoting free markets.
-
-...
-
-[Data](articles/2509bce6.json)
-
-[Extended Data](ext_articles/2509bce6.ext.json)
 
 ---

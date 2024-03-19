@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 09:33:19**
+As of **2024-03-19 09:52:07**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,180
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,729 (100.0%) of 13,731 articles have been extended.
+13,731 (100.0%) of 13,731 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### மன்னாரில் பனங்காட்டுக்குள் பரவிய தீயினால் வீடு ஒன்று முற்றாக எரிந்து சாம்பல்
+### A house was completely burnt by a fire that spread inside Mannar
 
 *2024-03-19 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179086) · `ta`
 
-மன்னார் பொலிஸ் நிலையப் பகுதியில் காடு திடீரென தீப்பற்றி எரிந்தமையால் பரந்தளவு பனங்காடு சேதமடைந்ததுடன் ஒரு வீடும் முற்றாக தீயிற்கு இரையாகியுள்ளது.
+A fire in Mannar's Pattittam area on Monday (18) at 4 pm, caused by a forest fire in the Mannar police station, led to a house being completely burnt. Civilians, local officials, and firefighters from the Mannar Urban Council responded, with efforts to minimize damage.
 
-இச் சம்பவம் மன்னார் நகர் பிரதேச செயலகத்துக்கு உட்பட்ட பட்டித்தோட்டம் பகுதியில் திங்கள் கிழமை (18) மாலை நான்கு மணியளவில் இடம்பெற்றுள்ளது.
+🟩
 
-திங்கட்கிழமை (18) மாலை மன்னார் பட்டித்தோட்டம் பகுதியில் பனங்காடு ஒரு பகுதியில் திடீரென தீப்பற்றி எரிந்ததும் சம்பவ இடத்துக்குக்கு விரைந்த பொது மக்கள், அருகிலிருந்த கடற்படையினர் மற்றும் மன்னார் நகர் பிரதேச செயலாளர் எம்.பிரதீபன் , மன்னார் அனர்த்த முகாமைத்துவ பணிப்பாளர் தீபன் , மன்னார் நகர சபை செயலாளர் ஆகியோர் தீ காட்டுக்குள்ளும் கிராமப் பகுதிக்குள்ளும் பரவாதிருக்க தீவிர முயற்சிகளை மேற்கொண்டனர்.
+The forest in the Mannar police station has suddenly burned a wide range of Panangadu and a house has been completely preyed.
 
-மன்னார் நகர சபையின் தீயணைக்கும் படையினர் குறிப்பிட்ட நேரத்துக்குள் சம்பவ இடத்துக்கு வருகை தந்து செயற்பட்டமையால் தீ பெரும் சேதத்தை உருவாக்காதிருப்பதற்கான நடவடிக்கையில் செயல்பட்டனர் என தெரிவிக்கப்பட்டுள்ளது.
+The incident took place on Monday (18) at 4 pm at the Pattittam area under the Mannar Nagar Divisional Secretariat.
+
+On Monday evening (18), when the fire broke out in the Mannar Pattiyottam area, the civilians rushed to the spot, the nearest navy and the Mannar Divisional Secretary M. Pradeepan, Mannar Disaster Management Director Deepan and the Secretary of the Mannar City Council..
+
+It is reported that the firefighters of the Mannar Urban Council have been in the process of not causing heavy damage due to the arrival of the incident within a certain time.
 
 ◼️
 
 [Data](articles/b0ffe6a7.json)
+
+[Extended Data](ext_articles/b0ffe6a7.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ They alleged that the annual transfers in the Western Province had been done in 
 ◼️
 
 [Data](articles/db0f483d.json)
+
+[Extended Data](ext_articles/db0f483d.ext.json)
 
 ---
 

@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 09:03:10**
+As of **2024-03-19 09:17:49**
 
 ## Newspaper Stats
 
-*Scraped **13,725** Articles*
+*Scraped **13,729** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 128
-bbccomsinhala | 151
-dbsjeyarajcom | 187
+bbccomsinhala | 152
+dbsjeyarajcom | 188
 newsfirstlk | 363
 economynextcom | 724
 dailyftlk | 727
 islandlk | 760
-adalk | 1,179
+adalk | 1,180
 adaderanalk | 1,647
-tamilmirrorlk | 1,667
+tamilmirrorlk | 1,668
 virakesarilk | 1,916
 dailymirrorlk | 2,096
 adaderanasinhalalk | 2,180
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,180
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,722 (100.0%) of 13,725 articles have been extended.
+13,725 (100.0%) of 13,729 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The motion against the Speaker was handed over to the Deputy General Secretary o
 
 [Data](articles/8567b09e.json)
 
+[Extended Data](ext_articles/8567b09e.ext.json)
+
 ---
 
 ### Cash-strapped Govt. to cough up additional Rs.11Bn if general election declared
@@ -64,6 +66,8 @@ A spokesman for the Election Commission told Daily Mirror that money had not bee
 
 [Data](articles/c9c65c14.json)
 
+[Extended Data](ext_articles/c9c65c14.ext.json)
+
 ---
 
 ### Higher education captured by Inequality Inc.?
@@ -75,6 +79,8 @@ Global inequality is at an all time high. According to a recent Oxfam report (In
 ...
 
 [Data](articles/c181ee4e.json)
+
+[Extended Data](ext_articles/c181ee4e.ext.json)
 
 ---
 
@@ -356,6 +362,24 @@ It is reported that others who were remanded along with Mr. Rambukwella were tra
 
 ---
 
+### ’அரசாங்கத்தின் வாக்குறுதிகள் நிறைவேற்றப்பட்டன’
+
+*2024-03-19 02:24:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்கத்தின்-வாக்குறுதிகள்-நிறைவேற்றப்பட்டன/175-334848) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க உள்ளிட்ட அரசாங்கம் வழங்கிய வாக்குறுதிகளில் பெரும்பாலானவை தற்போது நிறைவேற்றப்பட்டுள்ளதாக மாகாண சபைகள், உள்ளூராட்சி மற்றும் சுற்றாடல் இராஜாங்க அமைச்சர் ஜானக வக்கும்புர தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் ஜானக வக்கும்புர மேற்கண்டவாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க உள்ளிட்ட அரசாங்கம் வழங்கிய வாக்குறுதிகளில் பெரும்பாலானவற்றை நாங்கள் ஏற்கனவே நிறைவேற்றியுள்ளோம். 16,000 மில்லியன் செலவில் 162 பாலங்கள் நிர்மாணிக்கப்படும் என்று கூறினோம்.
+
+அந்தப் பாலங்களில் ஒரு பகுதியை ஏப்ரல் 10 ஆம் திகதிக்கு முன்னதாக பொதுமக்களிடம் ஒப்படைக்க தயாராக உள்ளோம். இதன்படி 162 பாலங்களும் எதிர்வரும் ஓகஸ்ட் மாதத்திற்கு முன்னர் மக்களிடம் கையளிக்கப்படும் என்றார். (a)
+
+◼️
+
+[Data](articles/42cd8cb7.json)
+
+---
+
 ### The President met farmers
 
 *2024-03-19 02:19:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விவசாயிகளை-சந்தித்தார்-ஜனாதிபதி/175-334847) · `ta`
@@ -411,6 +435,22 @@ He was arrested yesterday after being admitted to the Balangoda Hospital. (A)
 [Data](articles/03eb6251.json)
 
 [Extended Data](ext_articles/03eb6251.ext.json)
+
+---
+
+### හිරු එළියෙන් සිතුවම් මවන මඩකලපුවේ ශිවනේෂරාසා
+
+*2024-03-19 02:08:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clkmlx3we9xo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, හිරු එළියෙන් සිතුවම් මවන ඉන්දීය කලාකරුවකුගේ නිර්මාණ දැකීමෙන් මේ සඳහා තමන් තුළ පෙළඹවීමක් ඇති කළ බව ඔහු BBC සිංහල සේවයට පැවසුවේය.
+
+හිරු එළියෙන් සිතුවම් මවන කලාකරුවෙකු ගැන අපිට මඩකලපුවෙන් අසන්නට ලැබිණි.
+
+හිරු එළියෙන් සිතුවම් මවන ඉන්දීය කලාකරුවකුගේ නිර්මාණ දැකීමෙන් මේ සඳහා තමන් තුළ පෙළඹවීමක් ඇති කළ බව ඔහු BBC සිංහල සේවයට පැවසුවේය.
+
+◼️
+
+[Data](articles/dc39ef02.json)
 
 ---
 
@@ -1512,6 +1552,24 @@ After the end of the match, Bangladesh player Mushfiqur Rahim had recently shown
 
 ---
 
+### වාර්තා අලුත් කළ ගොවියෝ ජනපති හමුවෙති
+
+*2024-03-18 20:00:39* · [`adalk`](https://www.ada.lk/breaking_news/වාර්තා-අලුත්-කළ-ගොවියෝ-ජනපති-හමුවෙති/11-408685) · `si`
+
+කෘෂි අංශ නවීකරණ ව්‍යාපෘතිය යටතේ නව තාක්ෂණය උපයෝගී කර ගනිමින් වගා කළ සාර්ථක ගොවි මහතුන් දෙදෙනෙක් ජනපති හමුවෙයි
+
+අක්කර භාගයක මිරිස් වගාවෙන් මාස නවයක් තුළදී රුපියල් මිලියන 12ක ආදායමක් ඉපැයූ අනුරාධපුර තිරප්පනේ පුලියන්කුලම ග්‍රාමයේ තරුණ ගොවි මහතෙකු වු බන්දුල මුණසිංහ මහතා සහ අක්කරයක කොමඩු වගාවෙන් මාස දෙකකින් රුපියල් මිලියන4ක ආදායමක් ඉපැයූ ගල්කුලම ප්‍රදේශයේ පදිංචි බුද්ධික සුදර්ශන තරුණ ගොවි මහතා අද (18) පස්වරුවේ ජනාධිපති කාර්යාලයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමු විය.
+
+සිය අස්වැන්නෙන් කොටසක් රැගෙන මෙලෙස ජනාධිපතිවරයා හමුවූ මෙම තරුණ ගොවි මහතුන් තමන්ට සරුසාර අස්වැන්නක් ලබා ගැනීමට මඟ පෙන්වමින් රජයේ කෘෂිකර්ම නවීකරණ වැඩසටහන ක්‍රියාත්මක කිරීම පිළිබඳ ජනාධිපතිවරයා වෙත සිය ස්තූතිය පිරිනැමීය.
+
+බන්දුල මුණසිංහ මහතා කෘෂිකර්ම අමාත්‍යාංශයේ කෘෂි නවීකරණ ව්‍යාපෘතිය විසින් හඳුන්වා දී තිබෙන අධි ඝනත්ව වගා ක්‍රමය භාවිතා කරමින් අක්කර භාගයක මෙම මිරිස් වගාව සිදු කර තිබේ.
+
+...
+
+[Data](articles/3f2be0af.json)
+
+---
+
 ### Litton and uncapped Rana in squad for first Test vs Sri Lanka
 
 *2024-03-18 19:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Litton-and-uncapped-Rana-in-squad-for-first-Test-vs-Sri-Lanka/108-279086) · `en`
@@ -1920,6 +1978,22 @@ They also requested that people to drink natural beverages, adding some salt to 
 
 ---
 
+### Gotabaya Rajapaksa’s Insidious. Book  on the Alleged Conspiracy to Oust him  is drenched in inflammatory racism and religious hatred. It qualifies as incitement.
+
+*2024-03-18 18:25:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83785) · `en`
+
+“…The point I made about the Aragalaya being fundamentally, an anti-Sinhalese and anti-Buddhist enterprise from the beginning to the end”
+
+Dr. Colvin R. de Silva’s position on the executive presidency was slightly more nuanced than the flat denunciation by Dr. N.M. Perera. While criticising the 1978 Constitution, he took pains in a contribution to the Lanka Guardian magazine to emphasise that the Jayewardene presidential system, though deriving from the Gaullist model of France, has significant accretions and distortions which brought it more into line with those of Francophone Africa.
+
+Colvin pointed explicitly to the tyrant Jean-Bedel Bokassa of the Central African Republic. He quipped that the main danger of the over-concentration of power in the 1978 Jayewardene Constitution is that “someday we may not only have to suffer a bad president but also a mad president”.
+
+...
+
+[Data](articles/fee319d3.json)
+
+---
+
 ### Two persons have been sent to investigate the arrested persons in the Vidunarimalai issue;The report will be available on Thursday- the Human Rights Commission
 
 *2024-03-18 18:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179068) · `ta`
@@ -2087,121 +2161,5 @@ Global Conversions said the converted vehicle was tested and its functionality v
 [Data](articles/e1a78638.json)
 
 [Extended Data](ext_articles/e1a78638.ext.json)
-
----
-
-### Bangladesh wins the 3rd ODI against Sri Lanka;Captured the one -day series
-
-*2024-03-18 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179059) · `ta`
-
-Bangladesh wins 3rd ODI, capturing series 2-1 against Sri Lanka. Sri Lanka scored 235 in 50 overs, with Kusal Mendis (29) and Sarid Nasanka (37). Bangladesh scored 236 in 40.2 overs, with Tanzid Hasan (84) and Muspikur Rahim (37).
-
-🟩
-
-Bangladesh won by 4 wickets in the last one -day match between Sri Lanka and Bangladesh.
-
-Accordingly, Bangladesh won the 3-match ODI series 2-1.
-
-The Sri Lankan team, who won the coin spin in today's 18th match, was able to score only 235 runs in 50 overs.
-
-Team captain Kusal Mendis scored 29 runs and Sarid Nasanka scored 37 runs.
-
-Bangladesh were bowled out for 236 in 40.2 overs.
-
-There, Tanzid Hasan scored 84 runs and Muspikur Rahim scored 37 runs.
-
-◼️
-
-[Data](articles/c605e37e.json)
-
-[Extended Data](ext_articles/c605e37e.ext.json)
-
----
-
-### Extending cracks on Jethawanaramaya Stupa stopped
-
-*2024-03-18 17:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Extending-cracks-on-Jethawanaramaya-Stupa-stopped/108-279078) · `en`
-
-Colombo, March 18 (Daily Mirror) - Sri Jayewardenepura University lecturer and Acting Director General of Archaeology, Prof. Gamini Ranasingha, told the Daily Mirror that the treatments administered to the cracks in the square chamber of the Jethawanaramaya have successfully halted their extension.
-
-He said the duration since the stupa was built and the changing environmental and weather patterns may have caused the four cracks.
-
-Being the largest brick structure in the world and with the weight of the stupa, treatments to prevent the spread of the four cracks had been initiated one and a half years ago.
-
-Equipment has been installed to monitor the crack, and a weekly inspection is being done to monitor the progress of the crack.
-
-However, following treatements, the extending of the crack has stopped.
-
-...
-
-[Data](articles/0e80be04.json)
-
-[Extended Data](ext_articles/0e80be04.ext.json)
-
----
-
-### Superior victory for Bangladesh
-
-*2024-03-18 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194643) · `si`
-
-Bangladesh triumphed in a 2-1 series against Sri Lanka, winning the final match by 4 wickets. Sri Lanka scored 235 in 50 overs, with Janith's 101 being the highest. Bangladesh's Taskin Ahmed took 3 wickets, and they chased 236 runs to win. Tunisid Hasan scored 84 for Bangladesh, with Mushaficur Rah not out on 37. Lahiru Kumara took 4 wickets for Sri Lanka.
-
-🟩
-
-Bangladesh won the final match between the Sri Lanka Tourism and Bangladesh by 4 wickets.
-
-Accordingly, Bangladesh won the three-match series 2 to 1.
-
-The Sri Lankan team won the toss and elected to bat first in 50 overs, the Sri Lankan squad was only 235 runs.
-
-Janith was the highest scorer of Sri Lanka in Sri Lanka and he was unbeaten on 101.
-
-Leader Kusal Mendis scored 29 runs and Charith scored 37 runs.
-
-Taskin Ahmed took three wickets for Bangladesh Bangladesh.
-
-Chasing a target of 236 runs to win the matches
-
-Tunisid Hasan scored 84 runs and Mushaficur rah scored 37 not out.
-
-Lahiru Kumara took 4 wickets for Sri Lanka.
-
-◼️
-
-[Data](articles/c23e350c.json)
-
-[Extended Data](ext_articles/c23e350c.ext.json)
-
----
-
-### 13 of a school girl
-
-*2024-03-18 17:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194642) · `si`
-
-A 14-year-old schoolgirl in Anuradhapura was involved in an incident at a barber shop, leading to the arrest of two suspects. The police are investigating further, including 11 other suspects' children. The victim is a talented athlete.
-
-🟩
-
-The Police Children's and Women's Bureau has launched a special investigation into an incident that a 14-year-old school girl during a barber shop in Anuradhapura.
-
-The barber shop in the barber shop has been arrested on suspicion of the incident.
-
-The two suspects were presented to Anuradhapura Chief Magistrate and Additional District Judge Nalaka Sanjeewa until the 28th.
-
-This information has been revealed at intervals carried out by the victim in connection with the police according to information received by the police.
-
-The crime was taken place in a room behind the barber shop and the children of 11 other suspects in addition to the two suspects have revealed the police.
-
-It is reported that the suspects are a 70-year-old father, reports say.
-
-The police have launched an investigation to arrest the 11 suspects.
-
-It has been revealed that the victim girl participated in grade 09 and is a talented girl who has won the national level of winning sports competitions and winning them.
-
-◼️
-
-[Data](articles/ba4d7613.json)
-
-[Extended Data](ext_articles/ba4d7613.ext.json)
 
 ---

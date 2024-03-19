@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 11:52:16**
+As of **2024-03-19 12:02:52**
 
 ## Newspaper Stats
 
-*Scraped **13,772** Articles*
+*Scraped **13,777** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,78 @@ newsfirstlk | 363
 economynextcom | 726
 dailyftlk | 727
 islandlk | 760
-adalk | 1,186
-adaderanalk | 1,655
-tamilmirrorlk | 1,674
+adalk | 1,187
+adaderanalk | 1,656
+tamilmirrorlk | 1,676
 virakesarilk | 1,922
-dailymirrorlk | 2,102
+dailymirrorlk | 2,103
 adaderanasinhalalk | 2,189
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,770 (100.0%) of 13,772 articles have been extended.
+13,772 (100.0%) of 13,777 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### හමාස් නායකයෙක් මරුට
+### Govt. successfully fulfilled majority of promises under President Ranil’s leadership - Wakkumbura
+
+*2024-03-19 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98047/govt-successfully-fulfilled-majority-of-promises-under-president-ranils-leadership-wakkumbura) · `en`
+
+State Minister of Provincial Councils, Local Government, and Environment Janaka Wakkumbura says that the government has successfully delivered on a significant portion of its promises under the leadership of President Ranil Wickremesinghe.
+
+Further, he asserted that the ongoing construction of 162 bridges is expected to be finished and officially handed over to the public before this August.
+
+Wakkambura made these remarks during a press briefing held at the Presidential Media Centre (PMC) on the theme ‘Collective Path to a Stable Country’ on Monday (March 18).
+
+“We, the government, led by President Ranil Wickremesinghe, have achieved a significant progress in fulfilling its promises, with the completion of a majority of commitments. Among these accomplishments is the ongoing construction of 162 bridges, with a budget exceeding Rs. 16,000 million allocated for this infrastructure project.
+
+...
+
+[Data](articles/71bac9af.json)
+
+---
+
+### கோட்டாவின் பயிற்றுவிப்பாளர் கைது
+
+*2024-03-19 11:35:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டாவின்-பயிற்றுவிப்பாளர்-கைது/175-334877) · `ta`
+
+ஸ்ரீலங்கா இராணுவத்தின் கொமாண்டோ படையில் லான்ஸ் கோப்ரல் ஆக பணியாற்றிய முன்னாள் சிப்பாய் ஒருவர் இரண்டு கிராம் ஹெரோய்னுடன் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டதாக கண்டி குற்றப் புலனாய்வுப் பிரிவு தெரிவித்துள்ளது.
+
+முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷவின் உடற் பயிற்சி பயிற்றுவிப்பாளராக கடமையாற்றி முன்னாள் ஜனாதிபதிக்கு நெருக்கமாக இருந்த சந்தேகநபர், கோட்டாபய ராஜபக்ஷ, ஜனாதிபதி பதவியில் இருந்து வெளியேறிய பின்னர் இராணுவத்தை விட்டு வெளியேறியுள்ளதாக பொலிஸ் விசாரணைகளில் தெரியவந்துள்ளது.
+
+இரண்டு பிள்ளைகளின் தந்தையான இவர், யஹலதன்ன நெல்லிகல பிரதேசத்தில் வசிக்கும் 35 வயதுடையவர். ஹெரோயின் போதைப்பொருள் கடத்துவதாக பொலிஸாருக்கு கிடைத்த தகவலுக்கு அமைய சந்தேகநபர் ஹெரோயின் போதைப்பொருளுடன் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/194b2b8f.json)
+
+---
+
+### Hamas leader dies
 
 *2024-03-19 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194672) · `si`
 
-ප්‍රධාන පෙළේ හමාස් නායකයෙක් ලෙස සැලකෙන මර්වාන් ඉසා, ඊශ්‍රායල ගුවන් ප්‍රහාරයකින් ජීවිතක්ෂයට පත්ව ඇති බව අමෙරිකාව පවසයි.
+Marwan, a top Hamas leader, died in Israel on Oct 7, reportedly in a tunnel attack. Hamas has not confirmed his death.
 
-ඔක්තෝබර් 07 වනදා ප්‍රහාරයෙන් අනතුරුව ජීවිතක්ෂයට පත්වූ වඩාත් ජ්‍යේෂ්ඨතම හමාස් නායකයා මර්වාන් බව වාර්තා වෙයි.
+🟩
 
-එහෙත් එම මරණය සම්බන්ධයෙන් හමාස් සංවිධානය මෙතෙක් කිසිවක් නිවේදනය කර නොමැත.
+Marwan, who is considered a leading Hamas leader, has died in a country of Israel.
 
-ඊශ්‍රායල මාධ්‍ය වාර්තා සඳහන් කළේ නුසේරත් සරණාගත කඳවුර අභ්‍යන්තරයේ වූ හමාස් උමං පද්ධතියකට එල්ලකළ ප්‍රහාරයකින් මර්වාන් ඉසා ජීවිතක්ෂයට පත්වී ඇති බවයි.
+Merwan is reported that the most senior Hamas leader was killed after the attack on October 7.
+
+But the Hamas has not yetified the death.
+
+Israeli media reports stated that Marwan was killed by Marwing tunnel in the interior of the refugee camp.
 
 ◼️
 
 [Data](articles/825ea33f.json)
+
+[Extended Data](ext_articles/825ea33f.ext.json)
 
 ---
 
@@ -68,6 +108,22 @@ Further, it is understood that the President has instructed the Cabinet to concl
 
 ---
 
+### சபை ​அவசரமாக ஒத்திவைக்கப்பட்டது
+
+*2024-03-19 11:17:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபை-அவசரமாக-ஒத்திவைக்கப்பட்டது/175-334876) · `ta`
+
+பாராளுமன்றம் பிரதி சபாநாயகர் அஜித் ராஜபக்ஷ தலைமையில், செவ்வாய்க்கிழமை (19) காலை 9.30 மணிக்கு கூடியது. சபையின் பிரதான நடவடிக்கைகள் நிறைவடைந்தன.
+
+அதன்பின்னர், இன்றைய நடவடிக்கைகள் முன்னெடுக்கப்பட்டன. அதில், எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ, விசேட கூற்றொன்றை விடுத்து உரையாற்றிக்கொண்டிருந்தார். அத்துடன்,  கேள்வியெழுப்பிக் கொண்டிருந்தார்.
+
+இந்நிலையிலேயே, முக்கிய கூட்டமொன்று நடத்தப்படவிருப்பதால், சபை நடவடிக்கைகள் தற்காலிகமாக ஒத்திவைக்கப்படுவதாக பிரதி சபாநாயகர் அஜித் ராஜபக்ஷ பிற்பகல் 11.15மணிக்கு அறிவித்தார்.
+
+◼️
+
+[Data](articles/0b5dfab8.json)
+
+---
+
 ### 20 special police teams deployed to crack down identified underworld gangs
 
 *2024-03-19 11:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/20-special-police-teams-deployed-to-crack-down-identified-underworld-gangs/108-279143) · `en`
@@ -81,6 +137,8 @@ Inspector General of Police Deshabandu Tennakoon, STF Commandant Senior DIG Waru
 ◼️
 
 [Data](articles/30d3117d.json)
+
+[Extended Data](ext_articles/30d3117d.ext.json)
 
 ---
 
@@ -143,6 +201,22 @@ The proposal made by the Cabinet of Justice and Constitutional Reforms had been 
 [Data](articles/fbb16512.json)
 
 [Extended Data](ext_articles/fbb16512.ext.json)
+
+---
+
+### ජින් ඇන්ටිගේ නඩුව සහ පැමිණිලි  ජින් ඇන්ටිම ඉල්ලා අස්කරගනියි
+
+*2024-03-19 10:57:23* · [`adalk`](https://www.ada.lk/breaking_news/ජින්-ඇන්ටිගේ-නඩුව-සහ-පැමිණිලි--ජින්-ඇන්ටිම-ඉල්ලා-අස්කරගනියි/11-408692) · `si`
+
+ඉකුත් අරගල භුමියේ  ප්‍රසිද්ධියට පත්ව සිටි ජින් ඇන්ටි නමැත්තියගේ රුපියල් එක් ලක්ෂ පනස්නවදහසක මුදලක් හා ජංගම දුරකථනයක් සොරකම් කිරීම සම්බන්ධව ඇය විසින් සිය සැමියාට එරෙහිව පවරා තිබෙන  නඩුව ඊයේ (18 වැනිදා) මහර අංක 01 මහේස්ත්‍රාත් අධිකරණයේ මහේස්ත්‍රාත් කාංචනා ද සිල්වා මහත්මිය හමුවේ නැවත  කැඳවු අවස්ථාවේ මේ සම්බන්ධව සැමියා සමග සමථයකට පත් වී සිටින නිසා  එම නඩුව ඉදිරියට පවත්වා ගෙන යාමට අවශ්‍ය නොවන බවට පැමිණිලිකාර ජින් ඇන්ටි අධිකරණයෙන් ඉල්ලා සිටින ලදී.
+
+තවද  වැඩිදුරටත් අධිකරණය හමුවේ ජින් ඇන්ටි සදහන් කෙළේ  මේ සම්බන්ධව එඩේරමුල්ල පොලිසියට කර තිබු පැමිණිල්ල ද ඉල්ලා අස් කර ගන්නා  බවය. මෙහිදී  මහේස්ත්‍රාත්වරිය කියා සිටියේ  මේ නඩුව සොරකමක් සම්බන්ධව නිසා එය සමථයකට පත් කිරීමට නොහැකි බවය.
+
+ඉන්පසුව  සැකකාර සැමියා සිදු කරන ලද  එම  සොරකම සම්බන්ධව වරද පිළිගත් හෙයින්  මහේස්ත්‍රාත්වරිය විසින් සැකකාර සැමියාට තරයේ අවවාද කොට ඔහු මුදා හැර   එම නඩුව නිමාවට පත් කරනු ලැබුවාය.
+
+◼️
+
+[Data](articles/63cad2e8.json)
 
 ---
 
@@ -1292,6 +1366,24 @@ The new agreement may come at the mission or after further discussions or some a
 
 ---
 
+### Western  purple-faced langurs see blue!
+
+*2024-03-19 04:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/Western-purple-faced-langurs-see-blue/131-279101) · `en`
+
+It is now recognised that the Western Purple-faced langur (S. v. nestor) has particularly poor prospects of long-term survival owed to habitat loss
+
+The purple-faced langur is a protected species under Section 30 of the Flora and Fauna Protection Ordinance (FFPO)
+
+Survival of this animal species is greatly threatened by air-riffles being freely available and encouragement coming from state officials to shoot them if there are considered as pests
+
+In some areas the langurs have learned to eat rice and other kitchen or garden produce
+
+...
+
+[Data](articles/d67f22fc.json)
+
+---
+
 ### Scandal erupts over Keheliya given special transport privileges, CID launches probe
 
 *2024-03-19 02:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Scandal-erupts-over-Keheliya-given-special-transport-privileges-CID-launches-probe/108-279124) · `en`
@@ -2079,101 +2171,5 @@ Mr Trump's two eldest sons also must pay millions of dollars in the case.
 [Data](articles/0e873b95.json)
 
 [Extended Data](ext_articles/0e873b95.ext.json)
-
----
-
-### Drowning in the reservoir
-
-*2024-03-18 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/179073) · `ta`
-
-Heel Oya Sankananda Thera, educated at Rajarata Bikku University, drowned in Vanathavilluwa Sri Dharmaraja Viharaya. An autopsy is scheduled for Tuesday, with ongoing investigations by Karuwalakaswewa police.
-
-🟩
-
-The disaster was reported when he visited the Vanathavilluwa Sri Dharmaraja Viharaya.
-
-The deceased is also known as Heel Oya Sankananda Thera, who was educated at Rajarata Bikku University.
-
-An autopsy on Piku's body will be held on Tuesday (19) and further investigations into the incident are being carried out by the Karuwalakaswewa police.
-
-◼️
-
-[Data](articles/75bde8ce.json)
-
-[Extended Data](ext_articles/75bde8ce.ext.json)
-
----
-
-### Christell Luxury Wellness achieves prestigious award for exemplary best management practices
-
-*2024-03-18 22:12:00* · [`islandlk`](http://island.lk/christell-luxury-wellness-achieves-prestigious-award-for-exemplary-best-management-practices/) · `en`
-
-Christell Luxury Wellness proudly announces its recognition as the category awards winner in Beauty, Health & Cosmetics at the Best Management Practices Company Award 2024, organized by The Institute of Chartered Professional Managers Sri Lanka.
-
-The Best Management Practices Company Award aims to honor and celebrate exemplary management practices exhibited by companies throughout the year 2023. It acknowledges outstanding leadership, commendable policies and strategies, effective people management, successful partnerships, resource utilization, streamlined processes, and remarkable performance. These awards not only applaud excellence but also provide a valuable framework for management teams to assess and challenge themselves within their respective organizations.
-
-...
-
-[Data](articles/a72079f5.json)
-
-[Extended Data](ext_articles/a72079f5.ext.json)
-
----
-
-### Igniting innovation & growth in Sri Lanka’s Food Processing Industry: Profood Propack & Agbiz 2024 Exhibition unveils its 21st edition
-
-*2024-03-18 22:10:00* · [`islandlk`](http://island.lk/igniting-innovation-growth-in-sri-lankas-food-processing-industry-profood-propack-agbiz-2024-exhibition-unveils-its-21st-edition/) · `en`
-
-Profood Propack & Agbiz Exhibition, organised by the Sri Lanka Food Processors Association (SLFPA) together with Lanka Exhibition and Conference Services (LECS), was formally announced at a press conference held on 12th March 2024 at the Water’s Edge, Colombo.
-
-The most awaited Food Industry Show is scheduled to take place from the 23rd to 25th of August at the Sirimavo Bandaranaike Exhibition and Convention Canter at BMICH Colombo. SLFPA’s commitment to foster Food Industry advancement and drive economic growth in Sri Lanka through this Exhibition is well known over the years. The event acts as the catalyst in bringing together Food Industry leaders, multiple stakeholders, and decision makers in Agri based Businesses, Food Processing Industries, Packaging and all Service Providers to the Food Industry.
-
-...
-
-[Data](articles/2c5bcef6.json)
-
-[Extended Data](ext_articles/2c5bcef6.ext.json)
-
----
-
-### Gunmen kidnap at least 87 in Nigeria’s Kaduna state
-
-*2024-03-18 22:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98038/gunmen-kidnap-at-least-87-in-nigerias-kaduna-state) · `en`
-
-Gunmen in Nigeria have kidnapped at least 87 people, including women and children in Kaduna state, residents and police said on Monday, in a fresh attack after an armed gang seized 286 students and staff from a school in early March.
-
-Kidnappings by criminal gangs demanding ransom payments have become an almost daily occurrence in Nigeria, especially in the north, with authorities seemingly powerless to stop them.
-
-Kaduna police spokesperson Mansur Hassan confirmed the incident in Kajuru Station village on Sunday night but could not give a figure of those missing. He said security agents had been deployed to try to rescue the villagers.
-
-Tanko Wada Sarkin, a village head, said 87 people were taken.
-
-“We have so far recorded the return of five people back home who fled through the bush. This attack makes it five times that these bandits are attacking this community,” he told Reuters by phone.
-
-...
-
-[Data](articles/9828e39d.json)
-
-[Extended Data](ext_articles/9828e39d.ext.json)
-
----
-
-### AFI Corp appoints new CEO
-
-*2024-03-18 22:09:00* · [`islandlk`](http://island.lk/afi-corp-appoints-new-ceo-2/) · `en`
-
-Sri Lankan technology services and staff solutions outsourcing company AFI Corp announced the appointment of seasoned corporate leader Rimaz Marzook as its new Chief Executive Officer (CEO). Marzook brings a wealth of experience and a proven track record of success in driving business growth and profitability, making him ideal to lead AFI Corp into its next chapter, an AFI press release said.
-
-‘AFI Corp caters to a diverse clientele in North American and European markets, offering solutions ranging from cybersecurity and software development to staff augmentation and technical support. The company recently unveiled its state-of-the-art Innovation Labs in Colombo 3, positioning itself as a trailblazer in converging creativity, technology and innovation in the country, the release adds.
-
-Related Topics:AFI CorpRimaz MarzookSri Lankan technology services and staff solutions
-
-Exploring 2024 SLIM-Kantar People’s Awards research methodology – “Know What”
-
-...
-
-[Data](articles/45f4225a.json)
-
-[Extended Data](ext_articles/45f4225a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 06:54:16**
+As of **2024-03-19 07:16:23**
 
 ## Newspaper Stats
 
-*Scraped **13,710** Articles*
+*Scraped **13,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,179
 adaderanalk | 1,645
 tamilmirrorlk | 1,665
 virakesarilk | 1,916
-dailymirrorlk | 2,092
+dailymirrorlk | 2,094
 adaderanasinhalalk | 2,174
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,693 (99.9%) of 13,710 articles have been extended.
+13,706 (100.0%) of 13,712 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,21 +48,29 @@ It is in this backdrop that people in urban settings now perceive Purple-faced l
 
 [Data](articles/c625fa02.json)
 
+[Extended Data](ext_articles/c625fa02.ext.json)
+
 ---
 
-### වැසි හෝ ගිගුරුම් සහිත වැසි
+### Showers or thunderstorms
 
 *2024-03-19 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194656) · `si`
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (19) සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers or thunderstorms expected in Western, Sabaragamuwa, Galle, and Matara districts today, with dry weather elsewhere.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වියළි කාලගුණික තත්ත්වයක් පවතින බවය.
+🟩
 
-සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ කළුතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසීය.
+Showers or thundershowers will occur at several places in the Western and Sabaragamuwa Provincial and in the Galle and Matara districts today (19).
+
+The department states that there are mainly dry weather in the rest of the island.
+
+The Department of Meteorology added that in some places in the Sabaragamuwa and Central provinces and in the Galle and Kalutara districts, the Met Department added.
 
 ◼️
 
 [Data](articles/6893f7d5.json)
+
+[Extended Data](ext_articles/6893f7d5.ext.json)
 
 ---
 
@@ -116,19 +124,43 @@ It is reported that others who were remanded along with Mr. Rambukwella were tra
 
 [Data](articles/2e378678.json)
 
+[Extended Data](ext_articles/2e378678.ext.json)
+
 ---
 
-### நீரில் மூழ்கி இளம் பிக்கு உயிரிழப்பு
+### Tourism hits half a million arrival milestone in under 3 months
+
+*2024-03-19 02:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourism-hits-half-a-million-arrival-milestone-in-under-3-months/108-279115) · `en`
+
+Sri Lanka’s tourist arrivals have soared past the 500,000 mark in just the third month of the year, with March alone crossing the 100,000 milestone, over the weekend.
+
+This surge reaffirms the industry’s strong momentum towards robust growth.
+
+This is the first time since the pandemic that the island nation has crossed the half a million mark in two and a half months. Last year, Sri Lanka crossed the milestone in the second week of May.
+
+...
+
+[Data](articles/89ac1225.json)
+
+---
+
+### Drowning
 
 *2024-03-19 02:05:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீரில்-மூழ்கி-இளம்-பிக்கு-உயிரிழப்பு/175-334845) · `ta`
 
-ரஜரட்ட பிக்கு பல்கலைக்கழகத்தில் கல்வி கற்று வந்த ஹீல்ஓய சங்கானந்த தேரர் என்பவரே நேற்று நீரில் மூழ்கி உயிரிழந்துள்ளார் என்று பொலிஸார் தெரிவித்தனர்.
+Heeloa Sankananda Thera, educated at Rajaratta Bikku University, drowned in Tapova reservoir with monks.
 
-புத்தளம் வனாத்தவில்லு வன்னாத்தவில்லு ஸ்ரீ தர்மராஜ விகாரைக்கு வருகை தந்த மேற்படி இளம் பிக்கு, அங்கிருந்து பிக்குகள் குழுவுடன் தப்போவ நீர்த்தேக்கத்தில் நீராடச் சென்றபோதே இந்த அனர்த்தத்துக்கு முகம் கொடுத்துள்ளார் என்று விசாரணையில் தெரியவந்துள்ளது.
+🟩
+
+Heeloa Sankananda Thera, who was educated at Rajaratta Bikku University, was drowned yesterday, police said.
+
+Investigations have revealed that the young girl who visited the Puttalam Vanathavillu Wannathilu Sri Dharmaraja Vihara was facing the disaster when he was in the water of the Tapova reservoir with a group of monks.
 
 ◼️
 
 [Data](articles/d9d30358.json)
+
+[Extended Data](ext_articles/d9d30358.ext.json)
 
 ---
 
@@ -530,6 +562,22 @@ He came out of the Thiruvananthapuram airport and greeted Kerala fans.
 
 ---
 
+### Silence on gender-based harassment in workplaces gets louder
+
+*2024-03-19 00:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Silence-on-gender-based-harassment-in-workplaces-gets-louder/108-279110) · `en`
+
+In a disheartening revelation, a recent study conducted by the Women’s Chamber of Industry and Commerce Sri Lanka (WCIC) shed light on the alarming silence surrounding gender-based violence and harassment (GBVH) against women in workplaces.
+
+A study that took the views of respondents from diverse professional backgrounds in the country revealed that a staggering 80 percent of female workers chose to remain silent when faced with instances of harassment.
+
+WCIC Strategy Consultant Tusitha Kumarakulasingam shared that many women were of the view that reporting such incidents may jeopardise their professional advancement or result in retaliation from
+
+...
+
+[Data](articles/ecd7557a.json)
+
+---
+
 ### 2024-03-18 (Monday)
 
 ### Most of the promises made by the government have been fulfilled - State Minister Janaka Wakumbura
@@ -716,6 +764,8 @@ Southern Madagascar, where girls are sold into marriage before they are born
 
 [Data](articles/1689f801.json)
 
+[Extended Data](ext_articles/1689f801.ext.json)
+
 ---
 
 ### The National Education Policy Framework 2023
@@ -727,6 +777,8 @@ Global inequality is at an all time high. According to a recent Oxfam report (In
 ...
 
 [Data](articles/9e7e678f.json)
+
+[Extended Data](ext_articles/9e7e678f.ext.json)
 
 ---
 
@@ -792,6 +844,8 @@ The Best Management Practices Company Award aims to honor and celebrate exemplar
 
 [Data](articles/a72079f5.json)
 
+[Extended Data](ext_articles/a72079f5.ext.json)
+
 ---
 
 ### Igniting innovation & growth in Sri Lanka’s Food Processing Industry: Profood Propack & Agbiz 2024 Exhibition unveils its 21st edition
@@ -805,6 +859,8 @@ The most awaited Food Industry Show is scheduled to take place from the 23rd to 
 ...
 
 [Data](articles/2c5bcef6.json)
+
+[Extended Data](ext_articles/2c5bcef6.ext.json)
 
 ---
 
@@ -846,6 +902,8 @@ Exploring 2024 SLIM-Kantar People’s Awards research methodology – “Know Wh
 
 [Data](articles/45f4225a.json)
 
+[Extended Data](ext_articles/45f4225a.ext.json)
+
 ---
 
 ### Exploring 2024 SLIM-Kantar People’s Awards research methodology – “Know What”
@@ -859,6 +917,8 @@ The 19th edition of the SLIM Peoples Awards is on the horizon, featuring the par
 ...
 
 [Data](articles/c3556587.json)
+
+[Extended Data](ext_articles/c3556587.ext.json)
 
 ---
 
@@ -878,6 +938,8 @@ Exploring 2024 SLIM-Kantar People’s Awards research methodology – “Know Wh
 
 [Data](articles/cc1b9702.json)
 
+[Extended Data](ext_articles/cc1b9702.ext.json)
+
 ---
 
 ### Bourse’s fortunes pick-up as turnover remains in Rs. 1 billion region
@@ -891,6 +953,8 @@ Those crossings were reported in Hayleys Fabrics, which crossed 550,000 shares t
 ...
 
 [Data](articles/1da4e75a.json)
+
+[Extended Data](ext_articles/1da4e75a.ext.json)
 
 ---
 
@@ -2177,57 +2241,5 @@ On September 7, the Hamas movement was carried out in Gaza as a hostage of about
 [Data](articles/acb6b2c4.json)
 
 [Extended Data](ext_articles/acb6b2c4.ext.json)
-
----
-
-### The third world war is near
-
-*2024-03-18 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194636) · `si`
-
-The third world war is near, following a direct fight between Russia and NATO, with President Mahinda Rajapakse warning about nuclear war risks. French President Emmanuel McCron disagreed with the possibility of war. President Mahinda Rajapakse revealed NATO troops in Ukraine and criticized the US for denying Russian elections' fairness, accusing former President Trump of using state power against him.
-
-🟩
-
-The Presidential election addressed the Presidential Electorate after a direct fight between Russia and the NATO organization.
-
-The war between the Ukrainian war, 1962, the worst crisis between Russia and the Western world have been created after the 1962 Cuban Missile Crisis.
-
-Despite such a nuclear war, President Mahinda Rajapakse has warned about the risk of a nuclear war, but no need to use nuclear weapons against Ukraine has no need.
-
-French President Emmanuel McCron, the statement made by French President Emmanuel McCron, did not agree with the previous year in the future.
-
-Reporters were asked to a war between the President's statement and the possibility of war between the Russia and NATO organization.
-
-He has said that there is any event in the modern world.
-
-The President had asked Putin when he addressed reporters for the first time after his president's victory.
-
-Putin's answer was that it was a matter of large-scale world war.
-
-...
-
-[Data](articles/7e935141.json)
-
-[Extended Data](ext_articles/7e935141.ext.json)
-
----
-
-### Sri Lanka gets Japan support to fight oil spill disasters
-
-*2024-03-18 15:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-gets-japan-support-to-fight-oil-spill-disasters-155038/) · `en`
-
-ECONOMYNEXT – Japan has given Sri Lanka a 600 million yen (3.3 billion rupee) grant for oil spill management, health care and vocational training, the Finance Ministry said.
-
-Japan will give four vessels for oil boom with the necessary accessories, a generator, and a cargo truck with a crane for improving oil spill response and management by the Sri Lanka coast guard.
-
-The grant agreement was signed by Secretary to the Ministry of Finance Mahinda Siriwardana and Ambassador of Japan in Sri Lanka Mizukoshi Hideaki.
-
-The grant also covers portable ultrasonic scanners, gynecological examination tables, a laparoscopic system, mammography, fetal heart raters, and infant warmers to hospitals in the Northern Province; a petrol boat, a rigid-hull inflatable boat, lighted buoys, and HG radio transceivers for fisheries; and industrial sewing machines, zigzag machines, overlock machines, and button holder machines for dressmaker courses at vocational training centers in the North. (Colombo/Mar18/2024)
-
-◼️
-
-[Data](articles/9a47207f.json)
-
-[Extended Data](ext_articles/9a47207f.ext.json)
 
 ---

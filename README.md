@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 07:31:49**
+As of **2024-03-19 07:52:27**
 
 ## Newspaper Stats
 
@@ -26,73 +26,91 @@ adaderanasinhalalk | 2,177
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,711 (100.0%) of 13,715 articles have been extended.
+13,715 (100.0%) of 13,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### පළමුව ජනාධිපතිවරණයට සූදානම් වන ලෙස ජනපති කැබිනෙට්ටුවට දන්වයි
+### President instructs cabinet to prepare for presidential election
 
 *2024-03-19 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194660) · `si`
 
-පළමුව ජනාධිපතිවරණය සඳහා සූදානම් වන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කැබිනට් මණ්ඩලයට දැනුම් දී තිබේ.
+President Ranil Wickremesinghe instructs the Cabinet to prepare for the presidential election, despite being held yesterday. TNA MP CV Wigneswaram suggests a Tamil-speaking candidate, while MP Nalaka Godahewa criticizes the President's inability to postpone the election.
 
-ඊයේ (18) පස්වරුවේ කැබිනට් මණ්ඩල රැස්වීම පැවති අතර එහිදී ජනාධිපතිවරයා මේ සම්බන්ධයෙන් දැනුම්වත් කළ බව වාර්තා වේ.
+🟩
 
-දැනට පවතින සංවර්ධන කටයුතු ඇතුළු ආණ්ඩුවේ කාර්යයන් හැකි ඉක්මනින් සිදුකර අවසන් කර ජනාධිපතිවරණය සඳහා සූදානම් වන ලෙස ජනාධිපතිවරයා කැබිනට් මණ්ඩලයේ දී ප්‍රකාශ කර තිබේ.
+President Ranil Wickremesinghe has informed the Cabinet to prepare for the presidential election.
 
-මේ අතර දෙමළ ඇතුළු භාෂා ත්‍රිත්වයක් කතා කළ හැකි අයෙකු ජනාධිපති අපේක්ෂකයා ලෙස ඉදිරිපත් කළ යුතු බව දෙමළ ජාතික සන්ධානයේ පාර්ලිමේන්තු මන්ත්‍රී සී.වී විග්නේෂ්වරම් මහතා පැවසුවේය.
+The President was held yesterday (18th), reports the President has informed the incident.
 
-ජනාධිපතිවරයාට ජනාධිපතිවරණය කල්දැමීමට ව්‍යවස්ථාවෙන් හැකියාවක් නොමැති බව පාර්ලිමේන්තු මන්ත්‍රී නාලක ගොඩහේවා මහතා සඳහන් කළේය.
+The President has stated in the Cabinet to complete the government's work as soon as possible and prepare for the presidential election as soon as possible.
+
+Meanwhile, TNA MP CV Wigneswaram said that a person who could talk to Tamil as the presidential candidate.
+
+MP Nalaka Godahewa said that the President is not capable of postpone the presidential election election election.
 
 ◼️
 
 [Data](articles/9abba627.json)
 
+[Extended Data](ext_articles/9abba627.ext.json)
+
 ---
 
-### කථානායකට එරෙහි විශ්වාසභංගය පිළිබඳ විවාදය අද
+### Debate on the no-confidenceability debate on the speaker
 
 *2024-03-19 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194659) · `si`
 
-කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය අද (19) ආරම්භ වේ.
+The no-confidence debate against Speaker Mahinda Yapa Abeywardena starts today, with voting set for tomorrow. MP Tissa Ratnapanayake claims the motion isn't political, while the SLFP supports it.
 
-ඒ අනුව අද පෙරවරු 9.30 සිට පස්වරු 5.30 දක්වා සහ හෙට (20) පෙරවරු 9.30 සිට පස්වරු 4.30 දක්වා විවාදය පැවැත්වීමට නියමිත බව පාර්ලිමේන්තුවේ සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+🟩
 
-විශ්වාසභංග යෝජනාවට අදාළ ඡන්ද විමසීම හෙට පස්වරු 4.30ට පමණ පැවැත්වීමට නියමිතය.
+The debate on the no-confidence motion against Speaker Mahinda Yapa Abeywardena begins today (19).
 
-මේ අතර විශ්වාසභංග යෝජනාව දේශපාලනික අරමුණකින් ඉදිරිපත් නොකළ බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී තිස්ස අත්නායක මහතා සඳහන් කළේය.
+According to the Department of Parliament, the debate will be held from 9.30 am to 5.30 pm to 4.30 pm and 4.30 pm.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂය විශ්වාසභංග යෝජනාවට සහයෝගය පළකරන බව එහි වැඩබලන මහලේකම් පාර්ලිමේන්තු මන්ත්‍රී දුෂ්මන්ත මිත්‍රපාල මහතා පැවසුවේය.
+The voting for the no-confidence motion will be held tomorrow 4.30 pm tomorrow.
+
+Meanwhile, MP Tissa Ratnapanayake said that the no-confidence motion had not been filed with political purpose.
+
+Acting Secretary-General of Parliament Dushamantha Mithrpala said that the SLFP supported the no-confidence motion.
 
 ◼️
 
 [Data](articles/dedf517d.json)
 
+[Extended Data](ext_articles/dedf517d.ext.json)
+
 ---
 
-### අධිවේගයේ තවත් මාරක අනතුරක්
+### Another fatal accident on highway
 
 *2024-03-19 06:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194658) · `si`
 
-දක්ෂණ අධිවේගී මාර්ගයේ සිදුවූ අනතුරකින් 21 හැවිරිදි තරුණයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+A 21-year-old died in a highway accident near 45.2.25 kilometers on the Southern Expressway. A van from Mattala to Kottawa hit the direction, injuring two. The deceased, a Nagoda resident, was identified. Police suspect driver error. Further investigations are underway.
 
-අද (19) අලුයම එම අනතුර සිදුව තිබුණේ දක්ෂිණ අධිවේගී මාර්ගයේ කිලෝමීටර් 45.2R හා 45.3R කණු අතරදීය.
+🟩
 
-මත්තල දෙස සිට කොට්ටාව දෙසට ධාවනය වූ වෑන් රථයක් එම දිශාවටම ඉදිරියෙන් ධාවනයවූ කන්ටේනර් රථයක පිටුපස ගැටී එම අනතුර සිදුව තිබිණි.
+A 21-year-old youth has died in an accident on the right highway.
 
-අනතුරින් වෑන් රථයේ ගමන්කළ පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා නාගොඩ රෝහලට ඇතුළත් කිරීමේදී එක් තරුණයෙක් මියගොස් ඇත.
+The accident had occurred between 45.2.25 kilometers on the Southern Expressway today (19).
 
-එසේ මියගොස් ඇත්තේ, නාගොඩ, ගාල්ල ප්‍රදේශයේ පදිංචි 21 හැවිරිදි තරුණයෙකි.
+The accident had occurred when a van, which was traveling from Mattala to Kottawa, hit the direction of the direction.
 
-වෑන් රථයේ රියදුරුට නින්ද යාම හේතුවෙන් එම අනතුර සිදුව ඇති බව පොලීසිය සැක කරයි.
+Two persons were injured in the van and admission to the Nagoda hospital.
 
-සිද්ධිය සම්බන්ධයෙන් අධිවේගී මාර්ග සංචාරක පොලිස් කොට්ඨාසය වැඩිදුර විමර්ශන සිදුකරයි.
+The deceased has been identified as a 21 year old resident of the Nagoda, Galle.
+
+Police suspect that the accident had occurred due to the driver of the van.
+
+Expressway Tourism Police Division is conducting further investigations.
 
 ◼️
 
 [Data](articles/b567e666.json)
+
+[Extended Data](ext_articles/b567e666.ext.json)
 
 ---
 

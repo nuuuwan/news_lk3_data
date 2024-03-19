@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 20:03:10**
+As of **2024-03-19 20:18:02**
 
 ## Newspaper Stats
 
-*Scraped **13,900** Articles*
+*Scraped **13,901** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 727
 economynextcom | 735
 islandlk | 761
 adalk | 1,202
-adaderanalk | 1,670
+adaderanalk | 1,671
 tamilmirrorlk | 1,689
 virakesarilk | 1,944
 dailymirrorlk | 2,121
@@ -26,37 +26,61 @@ adaderanasinhalalk | 2,216
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,897 (100.0%) of 13,900 articles have been extended.
+13,900 (100.0%) of 13,901 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### ரோஹித்த அபேகுணவர்தனவின் நியமனம் பாராளுமன்றத்தை மலினப்படுத்தும் செயற்பாடு - நளின் பண்டார
+### Derailment near disrupts Coastal Line train operations
 
-*2024-03-19 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179164) · `ta`
+*2024-03-19 19:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98061/derailment-near-disrupts-coastal-line-train-operations) · `en`
 
-ஆளும் தரப்பின்  உறுப்பினர் ரோஹித்த அபேகுணவர்தனவை  கோப் குழுவின் தலைவராக நியமித்து பாராளுமன்றத்தை மலினப்படுத்தும் செயற்பாட்டை அரசாங்கம் முன்னெடுத்துள்ளது.இந்த தவறு திருத்தம் செய்யப்பட வேண்டும். ரோஹித அபேகுணவர்தனவை பதவி நீக்கி தலைவர் பதவியை எதிர்க்கட்சிக்கு வழங்க வேண்டும் என  ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் நளின் பண்டார தெரிவித்தார்.
+Train operations on the Coastal Line have been disrupted by a derailment reported this evening (March 19), Ada Derana learns.
 
-கோப் குழுவின் உறுப்பினர் என்ற வகையில் இந்த வலியுறுத்தலை அரசாங்கத்திடம் முன்வைக்கிறேன்.பாராளுமன்ற குழுக்களில் கோப் குழு  முக்கியமானது.கோப் குழுவின்  தலைவர் கணக்காளர் நாயகத்துடன் ஒன்றிணைந்து செயற்பட வேண்டும்.கோப் குழுவின் தலைவராக ஆளும் தரப்பினர் ரோஹித்த அபேகுணவர்தன நியமிக்கப்பட்டுள்ளமைக்கு பலர் எதிர்ப்பை வெளிப்படுத்தியுள்ளார்கள். கோப குழுவின் உறுப்பினர் பதவியில்  இருந்து எரான் விக்கிரமரத்ன விலகியுள்ளார்.
+According to reports, the Kalutara South-bound train had derailed near the Secretariat Station shortly after departing the Colombo Fort station at 7.15 p.m.
 
-...
+As a result, trains plying on the Coastal Line towards Galle, Matara and Beliatta are likely to experience substantial delays or be cancelled.
 
-[Data](articles/ff3125e0.json)
+◼️
+
+[Data](articles/78ddf444.json)
 
 ---
 
-### දුම්රියක් පීලි පනී
+### Rohitha Abeygunawardena's appointment
+
+*2024-03-19 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179164) · `ta`
+
+The government has taken up the process of appointing the Cobb Committee as the Chairman of the Cobb Committee and the Member of the ruling party.. United People's Power MP Nalin Bandara has said that Rohitha Abeygunawardena should be removed and given the post of leader to the opposition.
+
+As a member of the Cobb Committee, I put this insistence to the government. The Cobb Committee is important in the Parliamentary Committees.. Eran Wickremaratne has resigned from the post of Kop Committee.
+
+How can the authorities appear in the committee as such contradictions are seen in the appointment of the COPE Committee.
+
+The government should correct the mistake. I urge the government to remove Rohitha Abeygunawardena from the post of Chairman.
+
+◼️
+
+[Data](articles/ff3125e0.json)
+
+[Extended Data](ext_articles/ff3125e0.ext.json)
+
+---
+
+### A train jumps derails
 
 *2024-03-19 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194701) · `si`
 
-දුම්රිය පීලි පැනීමක් හේතුවෙන් මුහුදුබඩ දුම්රිය මාර්ගයේ ගාල්ල මාතර දක්වා ධාවනය වන දුම්රිය තාවකාලිකව අත්හිටුවා තිබේ.
+The train traveling to Galle Matara on the train is suspended.
 
-එම දුම්රිය පීලි පැනීම කොළඹ කොටුව දුම්රිය ස්ථානය ආසන්නයේ සිදුවී ඇත.
+The train derailment was near the Colombo Fort Railway Station.
 
 ◼️
 
 [Data](articles/68518f75.json)
+
+[Extended Data](ext_articles/68518f75.ext.json)
 
 ---
 
@@ -282,21 +306,25 @@ The accident had taken place in Kandy to Horowpathana.
 
 ---
 
-### ඖෂධ හදිසි මිලදී ගැනීම් නවත්වයි
+### Pharmaceuticals stop emergency purchases
 
 *2024-03-19 18:22:40* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-හදිසි-මිලදී-ගැනීම්-නවත්වයි/11-408706) · `si`
 
-සෞඛ්‍ය අමාත්‍යංශය මගින් සිදු කළ ඖෂධ හදිසි මිලදී ගැනීම් සම්පූර්ණයෙන් නවතා දමා තිබෙන බවත් ටෙන්ඩර් පටිපාටිය මගින් පමණක් ඖෂධ මිලදී ගැනීම්සිදු කරන අතරඑහි පූර්ණ වගකීම ඖෂධ නියාමන අධිකාරියට පවරා තිබෙන බව සෞඛ්‍ය අමාත්‍යංශයේ ලේකම් පාලිත මහීපාල පවසයි.
+The medicinal purchases made by the Ministry of Health have been completely stopped by the tender procedure, but the Medicine Secretary of the Ministry of Health is assigned to the Drug Regulatory Authority.
 
-මධ්‍යම පළාත් රෝහල්වල ගිලන් රථ රියදුරන් සඳහා අද පැවති පුහුණු පාඨමාලාවකින් අනතුරුව මහනුවර ජාතික රෝහලේ තිලක් අබේසේකර ශ්‍රමණාගාරයේදී පැවැති එහි සහතික පත් බෙදා දීමේ අවස්ථාවට සහභාගි වීමෙන් අනතුරුව මාධ්‍ය හමුවේ අදහස් දක්වමින් සෞඛ්‍ය ලේකම්වරයා ඒ බව අවධාරණය කළේය .
+After participating in the event at the National Hospital training course for the ambulance drivers in the Central Province, the Health Secretary stressed the matter.
 
-පිළිකා රෝගීන් සඳහා බාල ඖෂධ ගෙන්වීමේ සිද්ධිය සම්බන්ධයෙන් සෞඛ්‍ය අමාත්‍යාංශය විසින් විශේෂ කමිටුවක් පත්කොට ඒ පිළිබඳ පුළුල් විමර්ශනයක් ආරම්භ කොට ඇති බවද සෞඛ්‍ය ලේකම්වරයා පැවසීය.
+The Health Secretary stated that the Ministry of Health has commenced a special committee to appoint a special committee to import substandard drugs for cancer patients.
 
-සෞඛ්‍ය අමාත්‍යාංශයේ ප්‍රමුඛතාවය වඩාත් ගුණාත්මක ප්‍රශස්ත සෞඛ්‍ය සේවාවක් ජනතාවට ලබාදීම බවත් ඒ සඳහා නව දිශානතියක් ඔස්සේ ගමන් කරමින් ප්‍රාථමික සෞඛ්‍ය සේවාව වඩාත් ශක්තිමත් කිරීම කෙරෙහි අවධානය යොමුවී තිබෙන බවද සෞඛ්‍ය ලේකම්වරයා පැවසීය.
+The health secretary said that the priority of the Ministry of Health is to provide a better health care and focus on strengthening primary health care.
 
-...
+He said that steps have been taken using the immediate use of drugs that had arisen or had taken steps to be removed immediately and there is no room to provide substandard medicines through the Ministry of Health.
+
+◼️
 
 [Data](articles/eaea514a.json)
+
+[Extended Data](ext_articles/eaea514a.ext.json)
 
 ---
 
@@ -2263,31 +2291,5 @@ The project is also the purpose of maintaining the nutrition level of the low in
 [Data](articles/e7359ee4.json)
 
 [Extended Data](ext_articles/e7359ee4.ext.json)
-
----
-
-### Eheliyagoda emerges from cattle in English
-
-*2024-03-19 12:34:53* · [`adalk`](https://www.ada.lk/breaking_news/ඉංගිරියේ-ගවයින්-ඇහැළියගොඩින්-මතුවෙයි/11-408696) · `si`
-
-Eheliyagoda police informed Ingiriya Police about missing cows. Ingiriya Police alerted the Chief Inspector of Police, who is investigating the incident.
-
-🟩
-
-Four of seven cows received from Ingiriya to disappeared
-
-Seven cows of a cattleman of Ingiriya were lost and the cow was received
-
-On information, he has acted informed the Ingiriya Police on the matter.
-
-The Eheliyagoda police have been able to educate the Chief Inspector of Police OIC Chief Inspector Wasantha Chandral.
-
-The Ingiriya Police have made aware of the towering of the Ingiriya Police regarding the roof of cattle roaming and the rest of the cattle is taken to take action against the guards of cowland.Is
-
-◼️
-
-[Data](articles/1d5f19f1.json)
-
-[Extended Data](ext_articles/1d5f19f1.ext.json)
 
 ---

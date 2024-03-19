@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 10:51:06**
+As of **2024-03-19 11:02:52**
 
 ## Newspaper Stats
 
-*Scraped **13,752** Articles*
+*Scraped **13,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 726
 dailyftlk | 727
 islandlk | 760
 adalk | 1,184
-adaderanalk | 1,652
-tamilmirrorlk | 1,671
-virakesarilk | 1,917
+adaderanalk | 1,653
+tamilmirrorlk | 1,672
+virakesarilk | 1,921
 dailymirrorlk | 2,098
 adaderanasinhalalk | 2,186
 
@@ -26,11 +26,89 @@ adaderanasinhalalk | 2,186
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,744 (99.9%) of 13,752 articles have been extended.
+13,752 (100.0%) of 13,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### 20 special police teams deployed to crack down on underworld
+
+*2024-03-19 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98045/20-special-police-teams-deployed-to-crack-down-on-underworld) · `en`
+
+A total of 20 special police teams have been deployed across the island to crack down on the underworld in parallel to the ongoing ‘Yukthiya’ operation, says IGP Deshabandu Tennakoon.
+
+The decision was taken after taking into account the alarming rise in organized criminal activities in the Western and Southern provinces over the past few weeks.
+
+◼️
+
+[Data](articles/1dec6578.json)
+
+---
+
+### ”ஊதா முகக் குரங்குகள் அழியும் தறுவாயில் உள்ளன”
+
+*2024-03-19 10:45:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊதா-முகக்-குரங்குகள்-அழியும்-தறுவாயில்-உள்ளன/175-334871) · `ta`
+
+நகர சுற்றுப்புறங்களில் காடழிப்பு காரணமாக, ஊதா முகம் கொண்ட இலைக் குரங்கு என்றும் அழைக்கப்படும் மேற்கத்திய ஊதா முகமுடைய லங்கர்கள் நாய்கள், மக்கள் மற்றும் வாகன விபத்துகளில் சிக்கிக்கொள்ளும் நிலையுள்ளதால் அவை உணவு தேடுகையில் , ஓய்வெடுக்கும் இடங்களில் பாதுகாப்புகளைப் பெற வேண்டிய கட்டாத்திற்கு தள்ளப்பட்டுள்ளன என ஒரு முதன்மையான மற்றும் சூழலியல் நிபுணர் கூறினார்.
+
+தலங்கம ஏரிக்கு அருகில் ஊதா நிற முகமுடைய மூன்று லங்கர்கள் மீது துப்பாக்கிச் சூடு நடத்தப்பட்டதாகவும், அதன் விளைவாக இரண்டு விலங்குகள் காயங்களுக்கு உள்ளாகியதாகவும் சமூக ஊடகங்களில் சமீபத்தில் வெளியான பதிவில் தெரியவந்துள்ளது.
+
+நிபுணர் பேராசிரியர் வொல்ப்கங் டிட்டஸ் டெய்லி மிரரிடம் பேசுகையில், ஊதா நிற முகமுடைய லங்கூர் மரங்களில் வாழக்கூடிய தன்மையுடையவை. என்றும், மரங்களை அகற்றுவதன் மூலம் அவற்றின் பாதைகள் தடைப்படும் போது மட்டுமே அவை தரைக்கு வரும் என்றும் கூறினார்.
+
+இந்த பின்னணியில்தான் நகர்ப்புறங்களில் உள்ள மக்கள் இப்போது ஊதா நிற முகமுள்ள லங்கர்களை ஒரு பாதிப்பு ஏற்படுத்தும் பூச்சியாக  உணர்கிறார்கள்.
+
+...
+
+[Data](articles/88726e59.json)
+
+---
+
+### ஊதா நிற இலை வடிவ முகம் கொண்ட குரங்குகள் மரணிக்கும் அபாயம் - விலங்கு நடத்தை ஆய்வாளர்
+
+*2024-03-19 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179089) · `ta`
+
+ஊதா நிற இலை வடிவ முகம் கொண்ட குரங்குகள் என்றும் அழைக்கப்படும் மேற்கத்திய நாடுகளில் காணப்படும் ஊதா முகம் கொண்ட லாங்கர் இன குரங்குகள் நகர்ப்புறங்களில் காடழிப்பு காரணமாக, உணவு மற்றும் ஓய்வெடுக்கும் இடங்களைத் தேடி குடியிருப்பு பகுதிகளை நோக்கி படையெடுத்துள்ளன.
+
+இதன் காரணமாக இந்த குரங்குகளுக்கு நாய்கள், மனிதர்கள் மற்றும் வாகனங்களினால் ஆபத்தை எதிர்நோக்கம் அபாயத்தில் உள்ளதாக ஸ்மித்சோனியன் நிறுவனத்தின்  விலங்கு நடத்தை ஆய்வாளரும், சூழலியல் நிபுணருமான  பேராசிரியர் வொல்ப்காங் டிட்டஸ்  தெரிவித்துள்ளார்.
+
+அண்மையில் தலங்கம ஏரிக்கு அருகில் ஊதா நிற முகமுடைய மூன்று லாங்கர்கள் மீது துப்பாக்கிச் சூடு நடத்தப்பட்டதாகவும், அவற்றில் இரண்டு  காயங்களுக்குள்ளாகியுள்ளதாகவும் சமூக ஊடகங்களில் பதிவிடப்பட்டது.
+
+ஊதா நிற இலை வடிவ முகம் கொண்ட குரங்குகள் மரங்களில் வாழும் உயிரினம்.
+
+இந்த சூழ்நிலையில் அதான் தற்போது  நகர்ப்புறங்களில் உள்ள மக்கள் தாவரங்களில் அழிவை ஏற்படுத்தும் பூச்சுகளை போல ஊதா நிற இலை வடிவ முகம் கொண்ட குரங்குகளை எண்ணுகிறார்கள்.
+
+...
+
+[Data](articles/40c5525c.json)
+
+---
+
+### மத்திய மாகாணத்தின்  முதலாவது சப்ததள 108 அடி இராஜகோபுர ஆலயமாக  அட்டன் ஸ்ரீ  மாணிக்கப்பிள்ளையார் தேவஸ்தானம்
+
+*2024-03-19 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179093) · `ta`
+
+மத்திய மாகாணத்தில் நுவரெலியா மாவட்டத்தின் தலைநகராக மக்களால் போற்றப்படுவது அட்டன் மாநகராகும். சமாதான நகரம் என்ற பெருமையோடு விளங்கும் அட்டன் பிரதேசத்துக்கு  155 வருட வரலாறு உள்ளது. இங்குள்ள புகையிரத நிலையம் 1884 ஆம் ஆண்டு ஆரம்பிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/b6e0b358.json)
+
+---
+
+### மலையக கட்சிகள் யாருக்கு, எதற்கு  ஆதரவளிக்க வேண்டும்?
+
+*2024-03-19 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179092) · `ta`
+
+முதலில் வரப்போவது  பாராளுமன்றத் தேர்தலா ஜனாதிபதித் தேர்தலா  என்ற கேள்விகள் நாட்டு மக்கள் அனைவரினதும் மனதில் ஏற்பட்டுள்ளது. கூட்டணிகளை உருவாக்குவதில் தேசிய கட்சிகள் மும்முரமாக ஈடுபட்டு வருகின்றன. தேசிய மக்கள் சக்தியைத் தவிர வேறு எந்த கூட்டணியும் கைசுத்தமாக இல்லை என்பதை நாட்டு மக்களும் அறிவர். இதன் காரணமாகவே யாரையும் தமது கூட்டணியில் இணைத்துக்கொள்வதைத் தவிர்த்து வரும் அநுர குமார திசாநாயக்க, தானும் யாருடன் சென்று இணைந்து கொள்வதில்லை என்ற முடிவில் இருக்கின்றார்.
+
+இந்நிலையில் மலையக அரசியல் கட்சிகள் என்ன மனநிலையில் இருக்கின்றன என்பது முக்கிய விடயம். ஏற்கனவே கூட்டணியாக செயற்படும் தமிழ் முற்போக்குக் கூட்டணி, சஜித் தலைமையிலான ஐக்கிய மக்கள் சக்தி எனும் கூட்டணிக்கு ஆதரவாக செயற்பட்டு வருகின்றது. இலங்கை தொழிலாளர் காங்கிரஸ் ஆரம்பத்தில் பொதுஜன பெரமுன என்ற பல கட்சிகளின் கூட்டணிக்கு தான் ஆதரவாக இருந்தது. இப்போது அதிலிருந்து வெளியேறி  நேரடியாக ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கு ஆதரவளித்து வருகின்றது. அதற்காக இ.தொ.கா ஐக்கிய தேசிய கட்சிக்கு ஆதரவளிப்பதாக கருதி விட முடியாது.
+
+...
+
+[Data](articles/afceff00.json)
+
+---
 
 ### Tense situation in Parliament due to protest by TNA MPs
 
@@ -54,55 +132,89 @@ Justice Minister Wijeyadasa Rajapaksha said the government cannot intervene in m
 
 [Data](articles/15b2e117.json)
 
+[Extended Data](ext_articles/15b2e117.ext.json)
+
 ---
 
-### குழந்தைகள் வானில் அவர் ஏறியது ஏன்? விசாரணைகள் ஆரம்பம்
+### ஒருவர் தீவைத்துக்  கொலை: எல்ல பொலிஸாரால் சந்தேக நபர் கைது!
+
+*2024-03-19 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179090) · `ta`
+
+எல்ல பொலிஸ் பிரிவுக்கு உட்பட்ட  ஊவா கரந்தகொல்ல பிரதேசத்தில் வீடு ஒன்றில்  ஆண் ஒருவரை தீவைத்து கொலை செய்த சம்பவம் தொடர்பில் சந்தேக நபரொருவர் நேற்று (18) கைது செய்யப்பட்டுள்ளார்.
+
+இவ்வாறு கைது செய்த சந்தேக நபர் கரந்தகொல்ல, எல்ல பிரதேசத்தைச் சேர்ந்த 44 வயதுடையவராவார்.
+
+◼️
+
+[Data](articles/f566c9f1.json)
+
+---
+
+### Why did the children climb into the sky?The beginning of the hearing
 
 *2024-03-19 10:27:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழந்தைகள்-வானில்-அவர்-ஏறியது-ஏன்-விசாரணைகள்-ஆரம்பம்/175-334869) · `ta`
 
-விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்ல பெண் கைதிகளின் குழந்தைகளை ஏற்றிச் செல்வதற்காக யுனிசெப் வழங்கிய பேருந்தின் மூலம் நீதிமன்றத்திற்கு அழைத்துச் செல்லப்பட்ட சம்பவம் தொடர்பில் குற்றப் புலனாய்வுப் பிரிவினர் விசாரணைகளை ஆரம்பித்துள்ளனர்.
+The CID is investigating UNICEF's transport of children from female prisoners, questioning why Rambukwella was given a special bus, despite complaints about misuse of funds.
 
-பெண் கைதிகளின் குழந்தைகளின் நலனுக்காக மாத்திரம் பயன்படுத்தப்பட வேண்டும் என யுனிசெஃப் நிபந்தனை விதித்துள்ள போதிலும், சிறைச்சாலை அதிகாரிகள் ரம்புக்வெல்லவின் போக்குவரத்துக்கு இந்தப் பேருந்தை பயன்படுத்தியதாக குற்றப் புலனாய்வுப் பிரிவினருக்கு முறைப்பாடு கிடைத்துள்ளது.
+🟩
 
-ரம்புக்வெல்லவுடன் விளக்கமறியலில் வைக்கப்பட்டிருந்த ஏனையோர் சிறைச்சாலை பேருந்தில் கொண்டு செல்லப்பட்டதாக தெரிவிக்கப்படுகிறது. எவ்வாறாயினும், ரம்புக்வெல்லவுக்கு ஏன் இவ்வாறான விசேட சலுகை வழங்கப்பட்டது என கேள்வி எழுப்பப்படுகிறது.
+The Criminal Investigation Department (CID) has launched an investigation into the incident taken by UNICEF to the court of a bus to carry the children of female prisoners.
+
+The Criminal Investigation Department (CID) has received a complaint that UNICEF has stipulated that only the benefit of the children of female prisoners should be used, but the prison authorities have used the bus for the transport of Rambukwella.
+
+It is reported that the others who were detained with Rambukwella were taken to the prison bus.However, it is questioned as to why Rambukwella was given such a special offer.
 
 ◼️
 
 [Data](articles/a0bc49bc.json)
 
+[Extended Data](ext_articles/a0bc49bc.ext.json)
+
 ---
 
-### යල කන්නය සඳහා වී ගොවීන්ට මුදල් සහනාධාර
+### Finance subsidies for Yala season
 
 *2024-03-19 10:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194669) · `si`
 
-2024 යල කන්නය සඳහා වී ගොවීන්ට පොහොර සහනාධාරය ලබාදීමට අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව තිබේ.
+The cabinet has approved a fertilizer subsidy for paddy farmers in Yala for 2024, with Rs. 15,000 per hectare. Subsidies are directly transferred to farmers' bank accounts. Additionally, the government plans to import and sell fertilizer, needing 11,711.1 metric tons for the season.
 
-ඒ අනුව එක් ගොවියෙකුට වගා කරන උපරිම හෙක්ටයාර 2ක් වෙනුවෙන් හෙක්ටයාරයකට රුපියල් 15,000 බැගින් වූ මුදලක් මූල්‍ය සහනාධාරයක් ලෙස ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව මඟින් ලබාදීමට නියමිතය.
+🟩
 
-එම නියමිත සහනාධාර මුදල් ගොවියන්ගේ බැංකු ගිණුම් වෙත ඍජුවම බැරකිරීමට ද අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව ඇත.
+Cabinet approval has been granted to grant the fertilizer subsidy for the paddy farmers for the 2024 Yala season.
 
-මේ අතර 2024 යල කන්නය සඳහා සීමාසහිත ලංකා පොහොර සමාගම සහ සීමාසහිත කොළඹ කොමර්ෂල් පොහොර සමාගම මඟින් ද පොහොර ආනයනය කර, පුද්ගලික අංශය සමග තරගකාරී ලෙස ගොවීන් වෙත සහනදායි මිලකට පොහොර අලෙවි කිරීම සඳහා ද අමාත්‍ය මණ්ඩල තීරණයක් ගෙන තිබේ.
+Accordingly, the Department of Agrarian Development will be provided by the Department of Agrarian Development Rs. 15,000 per ha
 
-යල කන්නයේ වී වගාව සඳහා යූරියා, TSP සහ MOP යන රසායනික පොහොර පිළිවෙලින් මෙට්‍රික්ටොන් 110,298.1ක් මෙට්‍රික්ටොන් 27,711.1ක් සහ මෙට්‍රික්ටොන් 33,412.4ක් අවශ්‍ය බව ජාතික පොහොර ලේකම් කාර්යාලය ඇස්තමේන්තු ගත කර තිබේ.
+Cabinet approval has also been paid directly to the bank accounts of those required subsidies.
+
+Meanwhile, a Cabinet decision has been taken to import fertilizer and sell fertilizer to the farmers in the year 2024.
+
+The National Fertilizer Secretariat has estimated that 11,711.1 metricton, 11,711.1 metricton, which is required for paddy cultivation in Yala season.
 
 ◼️
 
 [Data](articles/c0d85f66.json)
 
+[Extended Data](ext_articles/c0d85f66.ext.json)
+
 ---
 
-### බිත්තර ආනයනයට අනුමැතිය
+### Approval for imports of eggs
 
 *2024-03-19 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194668) · `si`
 
-එළඹෙන උත්සව සමය වෙනුවෙන් ඉන්දියාවෙන් බිත්තර ආනයනය සඳහා කැබිනට් අනුමැතිය ලබාදී තිබේ.
+The cabinet has approved importing 42 million eggs from India for April.
 
-ඒ අනුව අප්‍රේල් මාසයේදී බිත්තර මිලියන 42ක් ඉන්දියාවෙන් ආනයනය කිරීමට නියමිතය.
+🟩
+
+Cabinet has approved the importation of eggs from India for the coming season.
+
+Accordingly, 42 million eggs will be imported from India in April.
 
 ◼️
 
 [Data](articles/7ac4d1d1.json)
+
+[Extended Data](ext_articles/7ac4d1d1.ext.json)
 
 ---
 
@@ -142,21 +254,29 @@ The eight civilians including the chief priest of the Hindu temple at the Vedukk
 
 [Data](articles/503e95e3.json)
 
+[Extended Data](ext_articles/503e95e3.ext.json)
+
 ---
 
-### எந்தத் தேர்தல் முதலில் நடக்கும்?பதிலளித்தார் ஜனாதிபதி
+### Which election will be held first? The President responded
 
 *2024-03-19 10:21:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எந்தத்-தேர்தல்-முதலில்-நடக்கும்-பதிலளித்தார்-ஜனாதிபதி/175-334868) · `ta`
 
-முதலில் பொதுத் தேர்தலா அல்லது ஜனாதிபதித் தேர்தலா நடத்தப்படும் என்ற சந்தேகத்திற்கு முற்றுப்புள்ளி வைத்து, ஜனாதிபதித் தேர்தலே முதலில் நடத்தப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க நேற்று (18) அமைச்சரவைக் கூட்டத்தில் அறிவித்துள்ளார்.
+President Ranil Wickremesinghe announced the presidential election will be held first, following suspicions about the order of elections.
 
-எனவே ஜனாதிபதி தேர்தலுக்கு முதலில் தயாராகுமாறு நேற்று கூடிய அமைச்சரவைக்கு ஜனாதிபதி பணிப்புரை விடுத்துள்ளதாக தகவலறிந்த வட்டாரங்கள் தெரிவிக்கின்றன.
+🟩
 
-நாட்டின் அரசியலமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தலை முதலில் நடத்த வேண்டும் எனவும், அதற்கான ஏற்பாடுகள் மேற்கொள்ளப்படும் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+President Ranil Wickremesinghe announced at a cabinet meeting yesterday (18) that the presidential election will be held first, with the suspicion that the general election or the presidential election will be held.
+
+According to sources, the President has issued a directive to the Cabinet yesterday to prepare for the presidential election.
+
+He said that the presidential election should be held first and that the country's constitution will be held.
 
 ◼️
 
 [Data](articles/5200cd99.json)
+
+[Extended Data](ext_articles/5200cd99.ext.json)
 
 ---
 
@@ -228,21 +348,29 @@ As a result, the coalition was interrupted several minutes, and the TNA MPs were
 
 ---
 
-### දකුණේ ගුරුවරුන්ටත් තම පාසලේ සිසුන්ට ටියුෂන් දීම තහනම්
+### Tuition of teachers in the South also prohibited tuition
 
 *2024-03-19 10:09:43* · [`adalk`](https://www.ada.lk/breaking_news/දකුණේ-ගුරුවරුන්ටත්-තම-පාසලේ-සිසුන්ට-ටියුෂන්-දීම-තහනම්/11-408689) · `si`
 
-දකුණු පළාතේ  පාසල්වල ගුරුවරුන්ට තම පාසලේ ඉගෙනුම ලබන සිසුන් සඳහා  මුදල් අයකර පුද්ගලික  උපකාරක පන්ති පැවැත්වීම තහනම් කරමින් දකුණු පළාත් අධ්‍යාපන අමාත්‍යාංශය මගින් නව චක්‍රලේඛයක් නිකුත් කර ඇත.
+The Ministry of Education has banned teachers in the Southern Province from offering private tuition, as per a new circular. This move aims to ensure all school children's education is conducted within the school premises, with disciplinary actions for non-compliance.
 
-දකුණු පළාත් අධ්‍යාපන අමාත්‍යාංශයේ ලේකම් රංජිත් යාපා මහතාගේ අත්සනින් නිකුත් කර ඇති   මෙම  චක්‍රලේඛය දකුණු පළාතේ පළාත් අධ්‍යාපන අධ්‍යක්ෂ වෙත සහ සියලුම කලාප හා කොට්ඨාස අධ්‍යාපන අධ්‍යක්ෂවරුන් හා විදුහල්පතිවරුන් වෙත යොමුකළ බව  එම අමාත්‍යාංශය පැවසීය.
+🟩
 
-පාසල් ගුරුවරුන් පුද්ගලික   උපකාරක පන්ති පැවැත්වීම  සම්බන්ධයෙන් මීට පෙර අධ්‍යාපන අමාත්‍යාංශය මගින් නිකුත් කර ඇති චක්‍රලේඛයේ උපදෙස්වලට අමතරව නිකුත්කරන මෙම චක්‍රලේඛය මගින් මින් ඉදිරියට දකුණු පළාතේ පාසල්වල ගුරුවරුන්ට තම පාසලේ සිසුන් සඳහා පාසල් වේලාව තුළ හා ඉන් පසුවද  ,සති අන්ත හා රජයේ නිවාඩු දිනවලද  විවිධ බාහිර ස්ථානවල මුදල් අයකර පුද්ගලික  අමතර පන්ති පැවැත්වීම තහනම් කර තිබේ.
+The Ministry of Education has issued a new circular for banning the teachers of schools in the Southern Province to conduct personal tutors for students studying.
 
-එමෙන්ම මෙම නව ප්‍රතිපත්තිමය තීරණය සම්බන්ධයෙන්  දකුණු පළාතේ සියලුම පාසල්වල ගුරුවරුන් දැනුවත් කර එසේ දැනුවත්වූ බවට සහතිකයක් ලබාගන්නා ලෙස මෙම චක්‍රලේඛයෙන්  විදුහල්පතිවරුන් දැනුවත් කර ඇත.
+The circular was issued with the signature of the Secretary to the Ministry of Education Ranjith Yapa to the Provincial Director of Education and All Regional Directors and Principals.
+
+School teachers have previously issued private tuition services in addition to the instructions of the Ministry of Education, teachers in the Southern Province students have been charged in various external places to meet their school hours and public holidays.The private instant classes are banned.
+
+The circular has been made aware of the new policy decision and to obtain a certificate of teachers in all schools in the Southern Province.
+
+This law has also provided the information to Zonal Directors to the Directors of Education to take disciplinary action for teachers who do not go to teachers.
 
 ...
 
 [Data](articles/8dac8b8f.json)
+
+[Extended Data](ext_articles/8dac8b8f.ext.json)
 
 ---
 
@@ -261,6 +389,30 @@ The Education Ministry says textbooks and uniform materials have already been ha
 [Data](articles/95b8b702.json)
 
 [Extended Data](ext_articles/95b8b702.ext.json)
+
+---
+
+### A house was completely burnt by a fire that spread inside Mannar
+
+*2024-03-19 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179086) · `ta`
+
+A fire in Mannar's Pattittam area on Monday (18) at 4 pm, caused by a forest fire in the Mannar police station, led to a house being completely burnt. Civilians, local officials, and firefighters from the Mannar Urban Council responded, with efforts to minimize damage.
+
+🟩
+
+The forest in the Mannar police station has suddenly burned a wide range of Panangadu and a house has been completely preyed.
+
+The incident took place on Monday (18) at 4 pm at the Pattittam area under the Mannar Nagar Divisional Secretariat.
+
+On Monday evening (18), when the fire broke out in the Mannar Pattiyottam area, the civilians rushed to the spot, the nearest navy and the Mannar Divisional Secretary M. Pradeepan, Mannar Disaster Management Director Deepan and the Secretary of the Mannar City Council..
+
+It is reported that the firefighters of the Mannar Urban Council have been in the process of not causing heavy damage due to the arrival of the incident within a certain time.
+
+◼️
+
+[Data](articles/b0ffe6a7.json)
+
+[Extended Data](ext_articles/b0ffe6a7.ext.json)
 
 ---
 
@@ -347,30 +499,6 @@ The Ministry of Education has informed the relevant principals to immediately no
 [Data](articles/675101b1.json)
 
 [Extended Data](ext_articles/675101b1.ext.json)
-
----
-
-### A house was completely burnt by a fire that spread inside Mannar
-
-*2024-03-19 09:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179086) · `ta`
-
-A fire in Mannar's Pattittam area on Monday (18) at 4 pm, caused by a forest fire in the Mannar police station, led to a house being completely burnt. Civilians, local officials, and firefighters from the Mannar Urban Council responded, with efforts to minimize damage.
-
-🟩
-
-The forest in the Mannar police station has suddenly burned a wide range of Panangadu and a house has been completely preyed.
-
-The incident took place on Monday (18) at 4 pm at the Pattittam area under the Mannar Nagar Divisional Secretariat.
-
-On Monday evening (18), when the fire broke out in the Mannar Pattiyottam area, the civilians rushed to the spot, the nearest navy and the Mannar Divisional Secretary M. Pradeepan, Mannar Disaster Management Director Deepan and the Secretary of the Mannar City Council..
-
-It is reported that the firefighters of the Mannar Urban Council have been in the process of not causing heavy damage due to the arrival of the incident within a certain time.
-
-◼️
-
-[Data](articles/b0ffe6a7.json)
-
-[Extended Data](ext_articles/b0ffe6a7.ext.json)
 
 ---
 
@@ -631,6 +759,8 @@ He stated that according to the country's constitution, the presidential electio
 ◼️
 
 [Data](articles/dbb79fcb.json)
+
+[Extended Data](ext_articles/dbb79fcb.ext.json)
 
 ---
 
@@ -1993,155 +2123,5 @@ When asked about this at the press conference, Bangladesh captain Shanto calmly 
 [Data](articles/3036cfb5.json)
 
 [Extended Data](ext_articles/3036cfb5.ext.json)
-
----
-
-### Emergency warning to Sri Lankan fishermen
-
-*2024-03-18 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194652) · `si`
-
-Sri Lankan fishermen warned not to enter Arabian Sea due to a Somali armed group's presence.
-
-🟩
-
-The Fisheries and Aquatic Resources Department has informed the fishermen not to engage in the Arabian Sea.
-
-It was with the signing of a Somali armed group at the Arabian Sea Saturday.
-
-He was speaking at a media briefing held at the Fisheries and Aquatic Resources Department.
-
-◼️
-
-[Data](articles/b303fff0.json)
-
-[Extended Data](ext_articles/b303fff0.ext.json)
-
----
-
-### Rahim shouted out again Time Out!
-
-*2024-03-18 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/179072) · `ta`
-
-Rahim shouted "Time Out!" as Pangadesh won the ODI series against Sri Lanka, following Bangladesh's victory over Sri Lanka.
-
-🟩
-
-Pangadesh won the ODI series against Sri Lanka after winning the ODI match between Sri Lanka and Bangladesh on Monday (18).
-
-After the end of the match, Bangladesh player Mushfiqur Rahim had recently shown the controversial Angelo Methivas's time out of the controversy.
-
-◼️
-
-[Data](articles/400cd6d5.json)
-
-[Extended Data](ext_articles/400cd6d5.ext.json)
-
----
-
-### Renewal of reports meet President
-
-*2024-03-18 20:00:39* · [`adalk`](https://www.ada.lk/breaking_news/වාර්තා-අලුත්-කළ-ගොවියෝ-ජනපති-හමුවෙති/11-408685) · `si`
-
-President met with two successful farmers under an agricultural modernization project. Buddhika Sudharsha, a young farmer, and Mr. Bandula Munasinghe, who used a high-density plant, showcased their innovative farming methods. The President highlighted the government's efforts to revolutionize agriculture, including the Government Agriculture Navinna program.
-
-🟩
-
-Two successful farmer who cultivated new technology under the agricultural modernization project
-
-Buddhika Sudharsha Youth Farmer, a young farmer who earned revenue of Rs.Mr. Ranil Wickremesinghe met.
-
-The young farmers who met the President took part of their harvest and the President wrote to the President on the implementation of the Government Agriculture Navinna program.
-
-Mr. Bandula Munasinghe has cultivated half a acres using a high density plant introduced by the Ministry of Agriculture at the Ministry of Agriculture.
-
-Under the traditional method, half a acre, which can be cultivated by about 6,000 plants, has risen to 13,000 to 13,000 plants under this high density plant. Therefore, this new system was able to increase the harvest several times.
-
-Buddhika Sudarshana Farmati, a 39 year old father of two, is a 39 year old father of Buddhika area in Anuradhapura.
-
-...
-
-[Data](articles/3f2be0af.json)
-
-[Extended Data](ext_articles/3f2be0af.ext.json)
-
----
-
-### Litton and uncapped Rana in squad for first Test vs Sri Lanka
-
-*2024-03-18 19:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Litton-and-uncapped-Rana-in-squad-for-first-Test-vs-Sri-Lanka/108-279086) · `en`
-
-Mar. 18 (ICC) - Bangladesh have named a strong 15-member squad for the first Test against Sri Lanka in Sylhet, which begins on 22 March.
-
-Wicketkeeper batter and former captain Litton Das returns to the Bangladesh Test side after he missed the previous series against New Zealand due to paternity leave.
-
-Litton, who was the captain of the Test side at that point, was replaced by Najmul Hossain Shanto at the helm for the series and the latter was subsequently named captain of all three formats last month.
-
-This ICC World Test Championship series against Sri Lanka will be Najmul's first assignment with the Test team since taking over as full-time captain.
-
-Litton, who was recently dropped from the ODI squad after an ordinary run of form, has played 39 Tests, making 2394 runs at an average of 36.27. He was also the designated wicketkeeper in 28 of these Test matches.
-
-Nurul Hasan, who kept wickets in place of Litton in the home Test series against New Zealand, misses out from the squad.
-
-...
-
-[Data](articles/06d46ad3.json)
-
-[Extended Data](ext_articles/06d46ad3.ext.json)
-
----
-
-### 14 -year -old girl in Anuradhapura
-
-*2024-03-18 19:51:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அநுராதபுரத்தில்-14-வயதான-சிறுமி-13-நபர்களால்-பாலியல்-துஷ்பிரயோகம்/175-334841) · `ta`
-
-In Anuradhapura, a 14-year-old girl was sexually abused at a hairstyle. The owner and another man were arrested. The court ordered remand till the 28th. The victim revealed 11 more suspects, including a 70-year-old police officer's father, were involved.
-
-🟩
-
-The Bureau of Children and Women has launched an investigation into the incident of sexually abusing a 14 -year -old girl at a hairstyle in Anuradhapura area.
-
-The owner of the hairstyle and another man has been arrested by the police in connection with the incident.
-
-The court has ordered the remand till the 28th of this month after the two suspects were produced before the Anuradhapura court.
-
-Investigations carried out by the victim on the information received by the police have revealed further information.
-
-The incident took place in a room in the back of the hairstyle.
-
-The victim has told the police that 11 more suspects, including two suspects, have sexually abused her.
-
-The suspects are also a 70 -year -old father of a police officer, police said.
-
-Police are investigating the arrest of 11 other suspects involved in the incident.
-
-Anuradhapura police are conducting further investigations into the incident. Remble
-
-◼️
-
-[Data](articles/28a6f34f.json)
-
-[Extended Data](ext_articles/28a6f34f.ext.json)
-
----
-
-### COPE summoned to COPE
-
-*2024-03-18 19:48:24* · [`adalk`](https://www.ada.lk/breaking_news/කෝප්-කමිටුවට-විදුලි-බල-මණ්ඩලය-කැඳවයි/11-408684) · `si`
-
-The Ceylon Electricity Board and State Plantation Corporation are summoned to the Commonwealth Committee (COPE) for a meeting on 19th, following MP Rohitha Abeygunawardena's appointment.
-
-🟩
-
-The Ceylon Electricity Board Board and the State Plantation Corporation have been summoned to the Commonwealth Committee (COPE).
-
-The first meeting is being held tomorrow (19th) after the appointment of MP Rohitha Abeygunawardena.
-
-The COPE meeting will be conveled on the same day, and the Ceylon Electricity Board (CEB) has been summoned to the COPE.
-
-◼️
-
-[Data](articles/55fe002f.json)
-
-[Extended Data](ext_articles/55fe002f.ext.json)
 
 ---

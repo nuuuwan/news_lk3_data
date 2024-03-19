@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 23:02:51**
+As of **2024-03-19 23:17:59**
 
 ## Newspaper Stats
 
-*Scraped **13,923** Articles*
+*Scraped **13,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ islandlk | 761
 adalk | 1,205
 adaderanalk | 1,677
 tamilmirrorlk | 1,690
-virakesarilk | 1,947
-dailymirrorlk | 2,127
-adaderanasinhalalk | 2,219
+virakesarilk | 1,948
+dailymirrorlk | 2,128
+adaderanasinhalalk | 2,220
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,923 (100.0%) of 13,923 articles have been extended.
+13,923 (100.0%) of 13,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### වනිඳුට යළිත් තරග තහනමක්
+
+*2024-03-19 22:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194706) · `si`
+
+ශ්‍රී ලංකා තුන් ඉරියව් ක්‍රීඩක වනිඳු හසරංගට යළිත් ජාත්‍යන්තර තරග දෙකක තහනමක් පැනවීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය අද (19) පියවර ගත්තේය.
+
+ඒ, බංග්ලාදේශය කණ්ඩායම සමග පැවති තුන්වන එක්දින තරගයේදී ඔහු ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ විනය නීති උල්ලංඝණය කිරීම හේතුවෙනි.
+
+බංග්ලාදේශය සමග ඊයේ පැවති තරගයේදී වනිඳු හසරංග විනිසුරු තීරණයකට විරුද්ධත්වය ප්‍රකාශ කිරීම හේතුවෙන් වනිඳු හසරංගට ජාත්‍යන්තර තරග දෙකක තහනමක් පැනවීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය මෙලෙස තීරණය කර තිබේ.
+
+බංග්ලාදේශ ඉනිමේ 37 වැනි පන්දුවාරයේදී වනිඳු හසරංග විසින් විනිසුරුවරයෙකුගෙන් ඔහුගේ හිස්වැසුම උදුරා ගැනීමක් සිදු කළ බවත්, ඉන් විනිසුරුවරයා සමච්චලයට ලක් කිරීමක් සිදුවී ඇති බව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය පෙන්වා දෙයි.
+
+මෙම වරද හේතුවෙන් වනිඳුගේ විනය වාර්තාවට දඬුවම් ලකුණු 3ක් පනවා ඇති අතර තරග ගාස්තුවෙන් සියයට 50ක දඩ මුදලක්ද නියම කර තිබේ.
+
+ඒ අනුව මාස 24ක් තුළ ඔහුගේ දඬුවම් ලකුණු ප්‍රමාණය ලකුණු 8 දක්වා ඉහළ යාම හේතුවෙන් ඔහුට එරෙහිව ටෙස්ට් තරග දෙකක් හෝ එක්දින තරග 4ක් හෝ 20-20 තරග 4ක තහනමක් පැනවෙනු ඇති.
+
+...
+
+[Data](articles/1e3ed09c.json)
+
+---
+
+### Lankadeepa clinches most Popular Newspaper award again
+
+*2024-03-19 22:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Lankadeepa-clinches-most-Popular-Newspaper-award-again/110-279178) · `en`
+
+Our sister papers Daily Lankadeepa and the Sunday Lankadeepa won the most popular newspaper award for the 18th consecutive year at ‘SLIM- KANTAR Peoples Award 2024’ being held at Monarch Imperial, Sri Jayawardenapura Kotte.
+
+The awards ceremony was organised by the Sri Lanka Institute of Marketing (SLIM) together with Kantar, Sri Lanka.
+
+In the frame are Janaka Rathnakumara, the Chief Operating Officer of Wijeya Group of Companies, Ajantha Kumara Agalakada, Editor of Daily Lankadeepa, and various sectional heads of Wijeya Newspapers.
+
+◼️
+
+[Data](articles/ddfcb51c.json)
+
+---
 
 ### Bangladesh’s Mushfiqur injured, out of Sri Lanka Tests
 
@@ -55,6 +93,20 @@ It rules him out of the Test series against Sri Lanka, he added.
 [Data](articles/ef7d8ada.json)
 
 [Extended Data](ext_articles/ef7d8ada.ext.json)
+
+---
+
+### ஹொரவப்பொத்தான சென்ற பஸ் விபத்தில் சிக்கியதில் 18 பேர் காயம்!
+
+*2024-03-19 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179169) · `ta`
+
+கண்டியிலிருந்து ஹொரவப்பொத்தான  நோக்கி பயணித்த இ.போ.ச பஸ் ஒன்று சுவரில் மோதி விபத்துக்குள்ளானதில் 18 பயணிகள் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த விபத்தின் காரணமாக இலங்கை மின்சார சபைக்குச் சொந்தமான பல மின் கம்பிகள், தொலைபேசி கம்பிகள் மற்றும் மதில் என்பன சேதமடைந்துள்ளன.
+
+◼️
+
+[Data](articles/a3c4dbcd.json)
 
 ---
 
@@ -2173,71 +2225,5 @@ She said that the dedication of agriculture, social science, social science, soc
 [Data](articles/a1b57f8d.json)
 
 [Extended Data](ext_articles/a1b57f8d.ext.json)
-
----
-
-### Dayasiri Jayasekara also resigns as COPE member
-
-*2024-03-19 14:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98053/dayasiri-jayasekara-also-resigns-as-cope-member) · `en`
-
-MP Dayasiri Jayasekara has also stepped down as a member of the Committee on Public Enterprises (COPE).
-
-It is understood that Jayasekara has forwarded his letter of resignation to the Speaker of Parliament Mahinda Yapa Abeywardena.
-
-His resignation came a day after Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne resigned from his position as a COPE member.
-
-In his resignation letter, Wickramaratne explained that no credible action had been taken on those who were found to have been complicit in corrupt practices or mismanagement despite the COPE reports submitted to the parliament time and time again.
-
-He also took issue with the appointment of Rohitha Abeygunawardena, a ruling party MP, as the COPE chairman despite the previous government adopting a practice of appointing an Opposition member to chair the committee to strengthen the principle that the legislature must be a check and balance on the executive arm of government.
-
-...
-
-[Data](articles/6e9439bf.json)
-
-[Extended Data](ext_articles/6e9439bf.ext.json)
-
----
-
-### Russia decides about crude oil
-
-*2024-03-19 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194683) · `si`
-
-Russia increases crude oil supply, impacting Brent and West Texas Intermediate prices, aiming to counteract Saudi Arabia and Iraq's reduction and support China and US economy growth.
-
-🟩
-
-Market sources said that Russia decides to increase the supply of crude oil supply to the demand for jet fuel and the US Central Bank decision on the US central bank decision a few days ago.
-
-Accordingly, a barrel of Brent crude oil was priced at $ 86.74, a barrel of crude oil was $ 82.03.
-
-The cost was to reduce Saudi Arabia and Iraq supply of crude oil supply, China and the US economy growth.
-
-Foreign media has said that Russia has decided to increase their crude oil from 200,000 barrels per day since March.
-
-◼️
-
-[Data](articles/b31ec57b.json)
-
-[Extended Data](ext_articles/b31ec57b.ext.json)
-
----
-
-### Dayasiri too resigns from COPE committee
-
-*2024-03-19 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194682) · `si`
-
-Sayasiri Jayasekera resigns from COPE Committee, letter sent to Speaker.
-
-🟩
-
-Parliamentarian Sayasiri Jayasekera has also resigned from the COPE Committee.
-
-The letter of resignation has been sent to the Speaker.
-
-◼️
-
-[Data](articles/94c4e5d2.json)
-
-[Extended Data](ext_articles/94c4e5d2.ext.json)
 
 ---

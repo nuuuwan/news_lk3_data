@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 16:17:57**
+As of **2024-03-19 16:33:22**
 
 ## Newspaper Stats
 
-*Scraped **13,850** Articles*
+*Scraped **13,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 727
 economynextcom | 732
 islandlk | 760
 adalk | 1,195
-adaderanalk | 1,664
+adaderanalk | 1,665
 tamilmirrorlk | 1,682
 virakesarilk | 1,934
 dailymirrorlk | 2,117
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,204
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,844 (100.0%) of 13,850 articles have been extended.
+13,850 (100.0%) of 13,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### Customs employees to continue work-to-rule campaign; 4,000 containers held up at port
+
+*2024-03-19 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98055/customs-employees-to-continue-work-to-rule-campaign-4000-containers-held-up-at-port) · `en`
+
+UPDATE: The Customs employees have decided to continue their work-to-rule campaign as the discussion with the authorities ended on negative note.
+
+At least 4,000 containers are reportedly held up at the Colombo Port as a result of the trade union action launched by the employees of Sri Lanka Customs on Friday (March 15).
+
+Initially, the Customs officials including superintendents and staff officers boycotted working extra hours, however, they resorted to a strict work-to-rule campaign at 9 a.m. today (March 19) it is expected to go on until 4.45 p.m.
+
+Calling a media briefing, the chairman of the Customs Officers’ Union Amila Sanjeewa attributed the reason behind the trade union action to the Treasury’s decision to bring the Customs Officers Reward Fund under the purview of the Finance Ministry.
+
+Against this backdrop, the president of the Container Transport Owners’ Association, Sanath Manjula warned that the importers are likely to be afflicted if the situation prevails.
+
+...
+
+[Data](articles/c1c476b8.json)
+
+---
 
 ### Customs employees launch work-to-rule campaign; 4,000 containers held up at port
 
@@ -50,17 +70,45 @@ Against this backdrop, the president of the Container Transport Owners’ Associ
 
 [Data](articles/c43be125.json)
 
+[Extended Data](ext_articles/c43be125.ext.json)
+
 ---
 
-### கோப் குழுவிலிருந்து சரித ஹேரத்  இராஜினாமா!
+### Eastern University staff demonstrated in Batticaloa
+
+*2024-03-19 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179130) · `ta`
+
+Eastern University staff in Batticaloa protested for salary reform, demanding increased risk allowance and no misuse of university funds. The protest was part of nationwide trade union activities, with the government pledging to address these demands.
+
+🟩
+
+Eastern University staff staged a protest in front of the Eastern University External Studies Center in Batticaloa on Tuesday (19) demanding a solution to the demands of the Eastern University staff and the long -standing demands for employees.
+
+More than one hundred Eastern University employees gathered this morning in front of the External Studies Center in Batticaloa in accordance with the Eastern University Employees Union and Eastern University Administrative Officers Association in accordance with trade union activities nationwide in the country's state universities in accordance with the decision of the All University Trade Union Federation.
+
+...
+
+[Data](articles/749eab4d.json)
+
+[Extended Data](ext_articles/749eab4d.ext.json)
+
+---
+
+### Saritha Herath resigns from Cobb group!
 
 *2024-03-19 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179133) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின்   நாடாளுமன்ற உறுப்பினர் சரித ஹேரத் கோப் குழுவிலிருந்தும் இராஜினாமா செய்துள்ளார். இதனை அவர் தனது  எக்ஸ் கணக்கில்  பதிவிட்டுள்ளார்.
+Saritha Herath resigns from Cobb group. Sri Lanka PA announces resignation via X account.
+
+🟩
+
+Sri Lanka PA has resigned from the group of parliamentarian Saritha Herath Cobb. He posted this in his X account.
 
 ◼️
 
 [Data](articles/d77c843e.json)
+
+[Extended Data](ext_articles/d77c843e.ext.json)
 
 ---
 
@@ -81,6 +129,8 @@ Wickramaratne announced his decision to resign yesterday and in his letter of re
 ...
 
 [Data](articles/7e6826c5.json)
+
+[Extended Data](ext_articles/7e6826c5.ext.json)
 
 ---
 
@@ -106,47 +156,35 @@ Sumanthiran said he went to court against the online safety bill and court did n
 
 ---
 
-### Eastern University staff demonstrated in Batticaloa
-
-*2024-03-19 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/179130) · `ta`
-
-Eastern University staff in Batticaloa protested for salary reform, demanding increased risk allowance and no misuse of university funds. The protest was part of nationwide trade union activities, with the government pledging to address these demands.
-
-🟩
-
-Eastern University staff staged a protest in front of the Eastern University External Studies Center in Batticaloa on Tuesday (19) demanding a solution to the demands of the Eastern University staff and the long -standing demands for employees.
-
-More than one hundred Eastern University employees gathered this morning in front of the External Studies Center in Batticaloa in accordance with the Eastern University Employees Union and Eastern University Administrative Officers Association in accordance with trade union activities nationwide in the country's state universities in accordance with the decision of the All University Trade Union Federation.
-
-...
-
-[Data](articles/749eab4d.json)
-
-[Extended Data](ext_articles/749eab4d.ext.json)
-
----
-
-### ජේතවනාරාම ස්තූපයේ පැළුම්වලින් විශාල හානියක් සිදුවීමේ අවදානමක්
+### Risk of Jethavanarama Struggles
 
 *2024-03-19 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194688) · `si`
 
-ලෝක උරුමයක් වූ අනුරාධපුර පූජා නගරයේ පිහිටි ජේතවනාරාම ස්තූපයේ ගර්භය තුළ පැළුම් විවරයන්ට සිදුකරන පිළියම් ඉතා මන්දගාමී තත්ත්වයක පවතින බව ජේතවනාරාම විහාරවාසී ස්වාමීන් වහන්සේ පැවසීය.
+The Jathavanarama Viharaya Thero highlighted the risks associated with the Jethavanarama Salaw in Anuradhapura, identified in 2016. This ancient site, believed to be the world's largest creation, has been a source of concern for pilgrims. The 1400-year-old stupa, once treasured with a Buddha statue, faces potential renovation challenges.
 
-උන්වහන්සේ පෙන්වා දෙන්නේ, 2016 වසරේදී හඳුනාගෙන ඇති මෙම පැළුම් සඳහා මෙතෙක් පිළියම් නොයෙදීමෙන් එහි පැමිණෙන වන්දනාකරුවන්ට අවදානම් තත්ත්වයක් නිර්මාණය වී ඇති බවය.
+🟩
 
-ගඩොලින් පමණක් නිර්මාණය කරන ලද ලොව විශාලතම නිර්මාණය ලෙස සැලකෙන්නේ, අනුරාධපුර පූජා භූමියේ පිහිටා ඇති ජේතවනාරාම ස්තූපයයි.
+The Jathavanarama Viharaya Thero said that the remedies of the ark of the Jethavanarama Salaw in Thalawanarama Sacred City of Anuradhapura Sacred City.
 
-මුල් කාලයේ උසින් අඩින් 400ක් වූ මෙම චෛත්‍යයේ සලපතල මළුව අක්කර 8ක් දක්වා විහිදී පවතී.
+He points out that these labs have been identified in 2016 and the pilgrims have created a risky situation.
 
-බෞද්ධ ඉතිහාසයට අනුව ක්‍රිස්තු වර්ෂ හතරවැනි සියවසේදී මහසෙන් රජතුමා, ගඩොලින් ඉදිකර ඇති මෙම ස්තූපය තුළ බුදුරජාණන් වහන්සේ පැළඳි ඉන පටියේ කොටසක් නිධන් කර තිබෙන බව පැවසෙයි.
+The world's largest creation is considered the world's largest creation.
 
-ලෝක උරුමයන් අතරින් සුවිශේෂී ස්ථානයක් හිමි කරගෙන ඇති ජේතවනාරාම ස්තූපයෙහි පැළුම් ඇති බවට පළමුවෙන්ම නිරීක්ෂණය වී ඇත්තේ 2016 වසරේ දීය.
+The 1400-year-old mobilization of the first-tall height is up to 8 acres.
 
-අදාළ නිලධාරීන් ස්තූපය නිරීක්ෂණය කර වසර 8ක් ගතවී තිබුණත් ඊට නිසි විසඳුමක් තවමත් ලැබී නොමැත.
+In the fourth century CE, King Mahasen, a brick of the Buddha, have been treasure in this stall in the fourth century of Buddhist history.
+
+The Jetavanarama stupa has been observed in the year 2016, in 2016.
+
+Although the respective officers observe the stupa, the proper solution is not yet available.
+
+Is it not responsible for renovating the stupa and give the world's greatest generation and give the future generation opportunities to make their religious affairs freely freely?
 
 ...
 
 [Data](articles/90f0e353.json)
+
+[Extended Data](ext_articles/90f0e353.ext.json)
 
 ---
 
@@ -213,6 +251,8 @@ Samagi Jana Balawegaya (SJB) MP Eran Wickramaratne yesterday announced his decis
 ◼️
 
 [Data](articles/38fc2c1e.json)
+
+[Extended Data](ext_articles/38fc2c1e.ext.json)
 
 ---
 
@@ -2259,29 +2299,5 @@ For this purpose, the Department of Animal Production and Health has already cal
 [Data](articles/369618ed.json)
 
 [Extended Data](ext_articles/369618ed.ext.json)
-
----
-
-### Nest
-
-*2024-03-19 10:12:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/பிறந்த-குழந்தையை-கொலை-செய்து-புதைத்த-பெண்/72-334867) · `ta`
-
-A woman in Vishwamadu Ilangopuram, Pudukkudiyiruppu, Mullaitivu district, murdered her newborn due to a wrong relationship with her husband. Arrested at Kilinochchi Hospital, she faces trial today for the crime.
-
-🟩
-
-A woman living in the Vishwamadu Ilangopuram area belonging to the Pudukkudiyiruppu police division of the Mullaitivu district is pregnant with a wrong relationship with her husband.
-
-In this case, the woman has murdered and buried the baby born three days ago.
-
-Police have arrested the woman as the woman was receiving treatment at the Kilinochchi Hospital and the Pudukkudiyiruppu police were informed.
-
-The test proceedings will take place today in the presence of the judge where the child is buried. Remble
-
-◼️
-
-[Data](articles/e05dc317.json)
-
-[Extended Data](ext_articles/e05dc317.ext.json)
 
 ---

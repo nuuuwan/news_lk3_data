@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 23:17:59**
+As of **2024-03-19 23:33:33**
 
 ## Newspaper Stats
 
-*Scraped **13,926** Articles*
+*Scraped **13,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 727
 economynextcom | 735
 islandlk | 761
 adalk | 1,205
-adaderanalk | 1,677
-tamilmirrorlk | 1,690
+adaderanalk | 1,678
+tamilmirrorlk | 1,691
 virakesarilk | 1,948
 dailymirrorlk | 2,128
 adaderanasinhalalk | 2,220
@@ -26,31 +26,81 @@ adaderanasinhalalk | 2,220
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,923 (100.0%) of 13,926 articles have been extended.
+13,926 (100.0%) of 13,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### වනිඳුට යළිත් තරග තහනමක්
+### World Bank hails ‘Suwa Seriya’ ambulance service for saving countless lives
+
+*2024-03-19 23:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98065/world-bank-hails-suwa-seriya-ambulance-service-for-saving-countless-lives) · `en`
+
+The World Bank has hailed Sri Lanka’s ‘1990 Suwa Seriya’ ambulance service for saving countless lives while providing citizens the highest level of pre-hospital care.
+
+In a blog post, the World Bank’s Vice President for the South Asia Region, Martin Raiser further commended the ambulance service for reducing complications caused by delayed care and enabling them to get back into the workforce in record time — making a positive contribution to the country’s economy.
+
+“Since its launch in 2016, 1.8 million Sri Lankan citizens in distress have dialled 1990, and a Suwa Seriya ambulance has rushed them to the nearest hospital or primary care facility within 12 minutes of their call, one of the fastest response rates in the world for an ambulance service.”
+
+South Asia is home to many development innovations, including in the delivery of social services through government-private sector-and civil society partnerships, Raiser said, noting that 1990 Suwa Seriya stands in a proud tradition.
+
+...
+
+[Data](articles/de6b5e91.json)
+
+---
+
+### இலங்கையில் 40 வீதமான பெண்கள் ஆபத்தில் உள்ளனர்
+
+*2024-03-19 23:04:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-40-வீதமான-பெண்கள்-ஆபத்தில்-உள்ளனர்/175-334897) · `ta`
+
+தற்போதைய பொருளாதார நெருக்கடியால் இலங்கையில் சுமார் 40 தமான பெண்கள் விடாய்க்கால அணையாடை (சானிட்டரி நாப்கின்கள்)  பாவனையை நிறுத்தியுள்ளதாக அண்மையில் மேற்கொள்ளப்பட்ட ஆய்வில் தெரியவந்துள்ளது.
+
+சானிட்டரி நாப்கின்களின் விலை அதிகரிப்பு காரணமாக குறிப்பிட்ட நாட்களில் மாணவிகளின் பாடசாலை வருகையும் குறைந்துள்ளதாக இலங்கை ஆசிரியர் சங்கம் தெரிவித்துள்ளது.
+
+15 முதல் 47 வயதுக்குட்பட்ட பெண்களில் 40 சதவீதம் பேர் சானிட்டரி நாப்கின் யன்படுத்துவதை நிறுத்தியுள்ளதாக கணக்கெடுப்பில் தெரியவந்துள்ளது.
+
+இதற்கு முக்கியக் காரணம் சானிட்டரி நாப்கின்களுக்கு அதிக விலை கொடுக்க வேண்டியிருப்பதே என ஆய்வில் தெரியவந்துள்ளது.
+
+உள்நாட்டு சானிட்டரி நாப்கின்களின் விலை 90% மற்றும் இறக்குமதி செய்யப்படும் பொருட்களின் விலை 30% உயர்த்தப்பட்டுள்ளது.
+
+சானிட்டரி நாப்கின்களின் விலை உயர்வால் தங்கள் குழந்தைகள் மிகுந்த சிரமத்திற்கு ஆளாகியுள்ளதாக     தாய்மார்கள் தெரிவித்தனர்.
+
+இவ்விடயத்தில் அதிக கவனம் செலுத்தாவிடின் பெண்கள் உடல்நலப் பிரச்சினைகளை எதிர்நோக்க நேரிடும் என வைத்தியர்கள் சுட்டிக்காட்டுகின்றனர். R
+
+◼️
+
+[Data](articles/8c670f62.json)
+
+---
+
+### Fannu deals again
 
 *2024-03-19 22:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194706) · `si`
 
-ශ්‍රී ලංකා තුන් ඉරියව් ක්‍රීඩක වනිඳු හසරංගට යළිත් ජාත්‍යන්තර තරග දෙකක තහනමක් පැනවීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය අද (19) පියවර ගත්තේය.
+The ICC imposed a two-match ban on Sri Lanka's Fannu for violating disciplinary laws in a match against Bangladesh. This decision was based on a judge's helmet incident, leading to a 50% fine on the competition fee. The ban affects two or four Tests or 4 ODIs.
 
-ඒ, බංග්ලාදේශය කණ්ඩායම සමග පැවති තුන්වන එක්දින තරගයේදී ඔහු ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ විනය නීති උල්ලංඝණය කිරීම හේතුවෙනි.
+🟩
 
-බංග්ලාදේශය සමග ඊයේ පැවති තරගයේදී වනිඳු හසරංග විනිසුරු තීරණයකට විරුද්ධත්වය ප්‍රකාශ කිරීම හේතුවෙන් වනිඳු හසරංගට ජාත්‍යන්තර තරග දෙකක තහනමක් පැනවීමට ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය මෙලෙස තීරණය කර තිබේ.
+The International Cricket Council (ICC) took action today to impose a two international competitions for Sri Lanka's three-genuine.
 
-බංග්ලාදේශ ඉනිමේ 37 වැනි පන්දුවාරයේදී වනිඳු හසරංග විසින් විනිසුරුවරයෙකුගෙන් ඔහුගේ හිස්වැසුම උදුරා ගැනීමක් සිදු කළ බවත්, ඉන් විනිසුරුවරයා සමච්චලයට ලක් කිරීමක් සිදුවී ඇති බව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය පෙන්වා දෙයි.
+He was due to violating the disciplinary laws of the International Cricket Council in the third one-day match with Bangladesh.
 
-මෙම වරද හේතුවෙන් වනිඳුගේ විනය වාර්තාවට දඬුවම් ලකුණු 3ක් පනවා ඇති අතර තරග ගාස්තුවෙන් සියයට 50ක දඩ මුදලක්ද නියම කර තිබේ.
+The International Cricket Council has decided to impose a two international competitions for the decision of a judge in yesterday's match with Bangladesh yesterday.
 
-ඒ අනුව මාස 24ක් තුළ ඔහුගේ දඬුවම් ලකුණු ප්‍රමාණය ලකුණු 8 දක්වා ඉහළ යාම හේතුවෙන් ඔහුට එරෙහිව ටෙස්ට් තරග දෙකක් හෝ එක්දින තරග 4ක් හෝ 20-20 තරග 4ක තහනමක් පැනවෙනු ඇති.
+The International Cricket Council points out that the judge of the Bangladesh in the 37th innings of the Bangladesh innings had carried out his helmet.
+
+Due to this offense, the disciplinary report of the disciplinary report posted three punishments and a 50% per cent of the competition fee.
+
+Accordingly, within 24 months, his punishment marks will be imposed on two or four Tests or 4 ODIs against him.
+
+The Sri Lankan squad was named yesterday with the Samagued the Test series with Bangladesh with Bangladesh in August last year.
 
 ...
 
 [Data](articles/1e3ed09c.json)
+
+[Extended Data](ext_articles/1e3ed09c.ext.json)
 
 ---
 
@@ -67,6 +117,8 @@ In the frame are Janaka Rathnakumara, the Chief Operating Officer of Wijeya Grou
 ◼️
 
 [Data](articles/ddfcb51c.json)
+
+[Extended Data](ext_articles/ddfcb51c.ext.json)
 
 ---
 
@@ -96,17 +148,23 @@ It rules him out of the Test series against Sri Lanka, he added.
 
 ---
 
-### ஹொரவப்பொத்தான சென்ற பஸ் விபத்தில் சிக்கியதில் 18 பேர் காயம்!
+### 18 people injured in a bus accident
 
 *2024-03-19 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179169) · `ta`
 
-கண்டியிலிருந்து ஹொரவப்பொத்தான  நோக்கி பயணித்த இ.போ.ச பஸ் ஒன்று சுவரில் மோதி விபத்துக்குள்ளானதில் 18 பயணிகள் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+18 injured in EBO bus crash from Kandy to Horawapothana, damaging power, telephone wires, and Ceylon Electricity Board property.
 
-இந்த விபத்தின் காரணமாக இலங்கை மின்சார சபைக்குச் சொந்தமான பல மின் கம்பிகள், தொலைபேசி கம்பிகள் மற்றும் மதில் என்பன சேதமடைந்துள்ளன.
+🟩
+
+An EBO bus traveling from Kandy to Horawapothana crashed into a wall and 18 passengers were injured and admitted to the hospital, police said.
+
+The crash has been damaged by many power wires, telephone wires and walls belonging to the Ceylon Electricity Board.
 
 ◼️
 
 [Data](articles/a3c4dbcd.json)
+
+[Extended Data](ext_articles/a3c4dbcd.ext.json)
 
 ---
 
@@ -2177,53 +2235,5 @@ The Cabinet approval has been given to two weight of Rs.. The government announc
 [Data](articles/fd274485.json)
 
 [Extended Data](ext_articles/fd274485.ext.json)
-
----
-
-### Arrest of one with heroin drug
-
-*2024-03-19 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/179116) · `ta`
-
-Kalkissa police arrested a suspect with 10 grams of heroin.
-
-🟩
-
-A suspect has been arrested by the Kalkissa police yesterday (18) with information received by the Kalkissa Criminal Investigation Division (Kalkissa Criminal Investigation Division) at the Odean Junction under the Kalkissa Police Division.
-
-They said that 10 grams of 250 mg of heroin was seized from the suspect.
-
-◼️
-
-[Data](articles/2f832c32.json)
-
-[Extended Data](ext_articles/2f832c32.ext.json)
-
----
-
-### The Rajarata Patent to produce zirconium
-
-*2024-03-19 14:15:42* · [`adalk`](https://www.ada.lk/breaking_news/සර්කෝනියම්-නිෂ්පාදනයට-රජරට-පේටන්ට්-බලපත්‍රය-ගනියි/11-408701) · `si`
-
-The Rajarata University has developed a patent for producing zirconium, with contributions from Professor Sanjeewani and Professor Ananda Karunaratne. This advancement is significant for Sri Lanka's export of ilmenite, used in various industries. The university aims to enhance research and education, with plans for a climate change observation center and more postgraduate opportunities.
-
-🟩
-
-Professor Sanjeewani, Vice Chancellor of the Government, Professor Sanjeewani, spoke to the Rajarata Proficity to produce the patency.
-
-Participated in a press conference held in Anuradhapura yesterday (18), he said.
-
-The best ilmenite is the best ilmenite in the world, Professor Professor Ananda Karunaratne, Professor Professor Ananda Karunaratne, has received the patenium.
-
-Sri Lanka made only exporting ilinite exporting the emimite, and it can be used for Jet engines, aircraft, inscriptions, ceramic, bulbs, etc.
-
-Professor Sanjeewani stated that it has been able to reach the University of Rajarata from the research in Sri Lanka by the researching sector in Sri Lanka by now.
-
-She said that the dedication of agriculture, social science, social science, social science and humanities, medical and parallelism of the Rajarata University and the Dean of the Faculties of the Faculties and Dean of the Rajarata University.
-
-...
-
-[Data](articles/a1b57f8d.json)
-
-[Extended Data](ext_articles/a1b57f8d.ext.json)
 
 ---

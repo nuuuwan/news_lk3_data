@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 17:17:52**
+As of **2024-03-19 17:34:44**
 
 ## Newspaper Stats
 
-*Scraped **13,866** Articles*
+*Scraped **13,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,55 @@ dbsjeyarajcom | 188
 newsfirstlk | 363
 dailyftlk | 727
 economynextcom | 735
-islandlk | 760
+islandlk | 761
 adalk | 1,197
 adaderanalk | 1,666
 tamilmirrorlk | 1,682
 virakesarilk | 1,937
 dailymirrorlk | 2,118
-adaderanasinhalalk | 2,209
+adaderanasinhalalk | 2,211
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,861 (100.0%) of 13,866 articles have been extended.
+13,866 (100.0%) of 13,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### කාර්මික දෝෂයක් හේතුවෙන් ශ්‍රීලන්කන් යානයක් යළි ගොඩබස්වයි
+
+*2024-03-19 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194695) · `si`
+
+ශ්‍රීලන්කන් ගුවන් සේවයට අයත් යානයක් කාර්මික දෝෂයක් හේතුවෙන් යළි ගොඩබැස්වීමට කටයුතු කර තිබේ.
+
+මෙලෙස කාර්මික දෝෂයකට ලක්ව ඇත්තේ අද (19) අලුයම ඉන්දියාවේ බැංගලෝර් බලා ගමන් ආරම්භ කළ ගුවන් යානයකි.
+
+ගුවන්ගතවී මිනිත්තු 40කට ආසන්න කාලයක් පියාසර කළ යානයක් නැවත මෙලෙස කටුනායක ගුවන්තොටුපොළ වෙත ගොඩබැස්වීමට කටයුතු කර ඇත.
+
+එහි ගමන් කළ ගුවන් මගීන් අනතුරුව වෙනත් ගුවන් යානා මගින් ගමනාන්තය වෙත පිටත්කර යැවීමට පියවර ගෙන තිබුණි
+
+◼️
+
+[Data](articles/180bc39b.json)
+
+---
+
+### කෝටි 10ක රන් භාණ්ඩ ගුවන්තොටෙන් හමුවෙයි
+
+*2024-03-19 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194696) · `si`
+
+අද (19) උදෑසන ඩුබායි සිට කටුනායක ගුවන්තොටුපොළ හරහා මෙරටට පැමිණි ගුවන් මගීන් දෙදෙනෙකු සතුව තිබී ස්වර්ණාභරණ කිලෝ 5ක් පමණ හමුවී තිබේ.
+
+ශ්‍රී ලංකා රේගුව පැවසුවේ එම පුද්ගලයින් දෙදෙනාව ග්‍රීන් චැනල් පර්යන්තයේදී හඳුනාගෙන පසුව ඔවුන්ව පරීක්ෂා කර එම රන් භාණ්ඩ සොයාගත් බවය.
+
+◼️
+
+[Data](articles/aa751ada.json)
+
+---
 
 ### India pledges 61.5 million dollar grant for Jaffna KKS port Sri Lanka says
 
@@ -50,17 +82,25 @@ The Commissioner said that the Indian Government has designated Sri Lanka as the
 
 [Data](articles/71394166.json)
 
+[Extended Data](ext_articles/71394166.ext.json)
+
 ---
 
-### චරිත හේරතුත් කෝප් කමිටුවෙන් ඉල්ලා අස්වෙයි
+### Charitha Herath resigns from COPE
 
 *2024-03-19 16:53:19* · [`adalk`](https://www.ada.lk/breaking_news/චරිත-හේරතුත්-කෝප්-කමිටුවෙන්-ඉල්ලා-අස්වෙයි/11-408704) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණ පක්ෂය තුළින් පාර්ලිමේන්තුවට තේරීපත්වූ පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය චරිත හේරත් මහතා කෝප් කමිටුවේ සාමාජිකත්වයෙන් ඉල්ලා අස්වීමට තීරණය කර තිබේ. ඒ බව සඳහන් කරමින් මන්ත්‍රීවරයා සිය නිල X ගිණුමේ සටහනක් තබා ඇත. ඔහු මීට පෙර කෝප් කමිටුවේ හිටපු සභාපති වරයකුද වශයෙන්ද කටයුතු කර තිබේ. චරිත හේරත් මහතා කෝප් කමිටුවෙන් ඉල්ලා අස්වීමත් සමඟ එයින් ඉල්ලා අස්වූ මන්ත්‍රී ගණන තුනක් දක්වා ඉහළ යයි.
+Charitha Herath, a parliamentarian and former COPE Committee chairman, resigns, marking a significant departure in the political landscape.
+
+🟩
+
+Parliamentarian Professor Charitha Herath has decided to resign from the Member of the COPE Committee.MP has placed a note of the MP's official X account. He has previously served as a former chairman of the COPE Committee. Charitha Herath rises to three MPs with resignation of the COPE Committee.
 
 ◼️
 
 [Data](articles/0fc6d8c4.json)
+
+[Extended Data](ext_articles/0fc6d8c4.ext.json)
 
 ---
 
@@ -196,6 +236,8 @@ Wickremeratne in a statement said 31 appointees to the COPE must not be associat
 
 [Data](articles/1b782c0d.json)
 
+[Extended Data](ext_articles/1b782c0d.ext.json)
+
 ---
 
 ### Sri Lanka stocks close down, turnover at 4bn
@@ -217,6 +259,8 @@ Major contributors to the Index included Ceylon Beverage Holdings Plc (up at 1,5
 ◼️
 
 [Data](articles/d309b91d.json)
+
+[Extended Data](ext_articles/d309b91d.ext.json)
 
 ---
 
@@ -960,23 +1004,31 @@ They said that 10 grams of 250 mg of heroin was seized from the suspect.
 
 ---
 
-### සර්කෝනියම් නිෂ්පාදනයට රජරට පේටන්ට් බලපත්‍රය ගනියි
+### The Rajarata Patent to produce zirconium
 
 *2024-03-19 14:15:42* · [`adalk`](https://www.ada.lk/breaking_news/සර්කෝනියම්-නිෂ්පාදනයට-රජරට-පේටන්ට්-බලපත්‍රය-ගනියි/11-408701) · `si`
 
-රජරට විශ්ව විද්‍යාලය සිදු කල පර්යේෂණයක ප්‍රතිඵලයක් ලෙස සර්කෝනියම් නිෂ්පාදනයට පේටන්ට් බලපත්‍රය හිමිව ඇති බව රජයේ විශ්ව විද්‍යාල උපකුලපති සංගමයේ සභාපති සහ රජරට විශ්ව විද්‍යාලයේ උපකුලපති මහාචාර්ය සංජීවනී ගිනිගද්දර පැවසුවාය.
+The Rajarata University has developed a patent for producing zirconium, with contributions from Professor Sanjeewani and Professor Ananda Karunaratne. This advancement is significant for Sri Lanka's export of ilmenite, used in various industries. The university aims to enhance research and education, with plans for a climate change observation center and more postgraduate opportunities.
 
-අනුරාධපුරයේදී ඊයේ (18) පැවැත්වූ ප්‍රවෘත්ති  සාකච්ඡාවකට එක්වෙමින් උපකුලපතිවරිය මේ බව අනාවරණය කළාය.‍ෙ
+🟩
 
-ලෝකයේ හොඳම ඉල්මනයිට් ලෙස සැලකිනය පුල්මුණේ ඉල්මනයිට් තුලින් රජරට විශ්ව විද්‍යාලයේ තාක්ෂණ පීඨයේ මහාචාර්ය මහාචාර්ය ආනන්ද කරුණාරත්න මහතා සිදු කල පර්යේෂණයක ප්‍රතිඵලයක් ලෙස සර්කෝනියම් නිෂ්පාදනයට පේටන්ට් බලපත්‍රය හිමිව තිබේ.
+Professor Sanjeewani, Vice Chancellor of the Government, Professor Sanjeewani, spoke to the Rajarata Proficity to produce the patency.
 
-මෙතෙක් කල් ඉල්මනයිට් අපනයනය කිරීම පමණක් ලංකාව සිදු කල අතර සර්කෝනියම් නිෂ්පාදනය කිරීමෙන් ජෙට් එන්ජින්, ගුවන් යනා, අභ්‍යාව කාශ පටල, සෙරමික්, බල්බ පිලමන්ට් ආදිය සඳහා මෙය  යොදා ගත හැක.
+Participated in a press conference held in Anuradhapura yesterday (18), he said.
 
-මේ වන වන විට ලංකාවේ ක්‍රියාත්මක විශ්ව විද්‍යාල  (17) අතුරින් පර්යේෂණ අංශයෙන් ලංකාවෙන්ම රජරට විශ්ව විද්‍යාලයට ප්‍රථම ස්ථානයට පැමිණීමට හැකිවී ඇති බවද මහාචාර්ය සංජීවනී ගිනිගද්දර සඳහන් කළාය.
+The best ilmenite is the best ilmenite in the world, Professor Professor Ananda Karunaratne, Professor Professor Ananda Karunaratne, has received the patenium.
+
+Sri Lanka made only exporting ilinite exporting the emimite, and it can be used for Jet engines, aircraft, inscriptions, ceramic, bulbs, etc.
+
+Professor Sanjeewani stated that it has been able to reach the University of Rajarata from the research in Sri Lanka by the researching sector in Sri Lanka by now.
+
+She said that the dedication of agriculture, social science, social science, social science and humanities, medical and parallelism of the Rajarata University and the Dean of the Faculties of the Faculties and Dean of the Rajarata University.
 
 ...
 
 [Data](articles/a1b57f8d.json)
+
+[Extended Data](ext_articles/a1b57f8d.ext.json)
 
 ---
 
@@ -1892,9 +1944,9 @@ ECONOMYNEXT – Sri Lanka’s cabinet of ministers approved a proposal by Energy
 
 It was felt that incorporating the refinery as a separate state-owned enterprise will allow local and foreign capital to be attracted to modernize and extend its life by another 25 years.
 
-The refinery was set up in 1969, but it can only process, more expensive light crudes.
+The refinery was set up in 1969, but it can only process more expensive light crudes.
 
-About 25 percent of Sri Lanka’s fuel needs are supplied by the refinery, the statement said.
+About 25 percent of Sri Lanka’s fuel needs are supplied by the refinery, the statement said. (Colombo/Mar19/2024)
 
 ◼️
 
@@ -2233,59 +2285,5 @@ Western purple -faced Langur is a species protected under Section 30 of the Plan
 [Data](articles/88726e59.json)
 
 [Extended Data](ext_articles/88726e59.ext.json)
-
----
-
-### "Purple -colored monkeys are at risk of destroying."
-
-*2024-03-19 10:45:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊதா-நிற-முகக்-குரங்குகள்-அழியும்-அபாயம்/175-334871) · `ta`
-
-"Western purple-faced langurs face threats from deforestation, leading to encounters with dogs, humans, and vehicles. Recent incidents include the death of three langurs near Talangama Lake. Despite being protected under the FFPO and listed as an internationally dangerous animal by IUCN, they are now seen as pests in urban areas."
-
-🟩
-
-Western purple -colored leankers, also known as a purple -faced leaf monkey, have been forced to get caught up in dogs, people and vehicle accidents due to deforestation in the city surroundings, said a primary and ecological expert.
-
-A recent post on social media revealed that three purple faces were shot dead near the Talangama Lake and that two animals were injured.
-
-Specialist Professor Wolfgang Titus spoke to the Daily Mirror: "Purple -faced Langur trees are living in the trees. He said that the removal of the trees would only come to the ground when their paths were blocked.
-
-It is against this backdrop that people in urban areas now feel the purple -facing leankers as a harmful insect.
-
-Western purple -faced Langur is a species protected under Section 30 of the Plants and Plants Protection Ordinance (FFPO).It is an internationally dangerous animal by IUCN.
-
-◼️
-
-[Data](articles/fa58c510.json)
-
-[Extended Data](ext_articles/fa58c510.ext.json)
-
----
-
-### Gota's advisor arrested with heroin
-
-*2024-03-19 10:42:51* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාගේ-උපදේශකයෙක්-හෙරොයින්-සමග-අත්අඩංගුවට/11-408691) · `si`
-
-Gota's advisor, a 35-year-old father from Nelliyapitiya, arrested with 2 grams of heroin. Connected to army and former President Gotabhaya Rajapaksa. Suspect was involved in drug trafficking after leaving the army.
-
-🟩
-
-The Kandy Division Criminal Investigation Unit (SLMC) has been arrested on suspicion with two grams of heroin with two grams of heroin with two grams of heroin.
-
-Police investigations have revealed that the suspect was closely with the army, which was closely with the former President Gotabhaya Rajapaksa.
-
-The suspect is a 35 year old father of two, a resident of Nelliyapitiya. Police said the suspect was arrested by heroin with heroin, according to the police investigating heroin that the suspect was deployed by heroin.
-
-Police investigations have revealed that heroin was referred to the drug trafficking of organized crime while serving in a private company in Dematagoda after the army was out of the army.
-
-The suspect is said to be among the ten-hiding shovelists in the Unit that he served in the unit, police said.
-
-The OIC Chief Inspector Thilak Samaranayake, Chief Inspector Thilak Samaranayake, is conducting further investigations.
-
-◼️
-
-[Data](articles/3e125a96.json)
-
-[Extended Data](ext_articles/3e125a96.ext.json)
 
 ---

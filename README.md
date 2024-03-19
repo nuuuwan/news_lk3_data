@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 14:50:10**
+As of **2024-03-19 15:03:04**
 
 ## Newspaper Stats
 
-*Scraped **13,822** Articles*
+*Scraped **13,827** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,59 +12,93 @@ colombotelegraphcom | 129
 bbccomsinhala | 153
 dbsjeyarajcom | 188
 newsfirstlk | 363
-economynextcom | 726
 dailyftlk | 727
+economynextcom | 730
 islandlk | 760
 adalk | 1,192
 adaderanalk | 1,662
 tamilmirrorlk | 1,679
 virakesarilk | 1,930
 dailymirrorlk | 2,114
-adaderanasinhalalk | 2,199
+adaderanasinhalalk | 2,200
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,817 (100.0%) of 13,822 articles have been extended.
+13,822 (100.0%) of 13,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### தயாசிறி ஜயசேகரவும் கோப் குழுவிலிருந்து விலகினார்!
+### ඇෆ්ගනිස්තානය සමග ක්‍රිකට් ගහන්න ඔස්ට්‍රේලියාව බෑ කියයි
+
+*2024-03-19 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194684) · `si`
+
+ඇෆ්ගනිස්තානය සමග පැවැත්වීමට නියමිතව තිබූ තරග තුනකින් සමන්විත 20-20 ජාත්‍යන්තර ක්‍රිකට් තරගාවලිය කල් දැමීමට ඔස්ට්‍රේලියා ක්‍රිකට් ආයතනය තීරණය කර තිබේ.
+
+ඔස්ට්‍රේලියානු රජය සමග සාකච්ඡා කර ඔවුන් එම තීරණය ගෙන ඇති බව සඳහන් ය.
+
+ඊට හේතුව ලෙස ඔවුන් සඳහන් කර ඇත්තේ "කාන්තාවන්ගේ සහ ගැහැණු ළමුන්ගේ මානුෂීය අයිතිවාසිකම් පැහැදිළි ලෙස දුර්වල වීම" බවයි.
+
+එළඹෙන අගෝස්තු මාසයේදී මධ්‍යස්ථ ක්‍රීඩා පිටියකදී එම තරගාවලිය පැවැත්වීමට නියමිතව තිබුණි.
+
+එය අයි සී සී තරග කාල සටහන අනුව පැවැත්වීමට නියමිතව තිබූ අතර මීට පෙර 2021 වසරේදී සහ 2023 වසරේදී ද ඇෆ්ගනිස්තානය සමග පැවැත්වීමට නියමිතව තිබු ටෙස්ට් තරගයකට සහ එක්දින ජාත්‍යන්තර තරගාවලියකට සහභාගී නොවී සිටීමට ඔස්ට්‍රේලියා ක්‍රිකට් ආයතනය තීරණය කළේය.
+
+◼️
+
+[Data](articles/662677cd.json)
+
+---
+
+### Dayasiri Jayasekara also quit the Cobb group!
 
 *2024-03-19 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179120) · `ta`
 
-இதேவேளை, ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் இரான் விக்கிரமரத்ன, பொது நிறுவனங்கள் தொடர்பான நாடாளுமன்றக் குழு  (கோப்)   உறுப்புரிமையிலிருந்து  நேற்று (18) இராஜினாமா செய்திருந்தமை குறிப்பிடத்தக்கது.
+Dayasiri Jayasekara left the Cobb group, and MP Iran Wickremaratne resigned from the Parliamentary Committee (COP).
+
+🟩
+
+Meanwhile, United People's Power MP Iran Wickremaratne resigned from the Parliamentary Committee (COP) membership yesterday (18).
 
 ◼️
 
 [Data](articles/89626433.json)
 
+[Extended Data](ext_articles/89626433.ext.json)
+
 ---
 
-### நுகேகொடையில்  போதைப் பொருளுடன்  சந்தேக நபர்கள் மூவர் கைது
+### Three suspects arrested in Nugegoda
 
 *2024-03-19 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179118) · `ta`
 
-மிரிஹான பொலிஸ் பிரிவிற்குட்பட்ட நுகேகொடை பகுதியின் ஊழல் ஒழிப்பு பிரிவின் அதிகாரிகளுக்கு கிடைத்த தகவலை அடுத்து  மேற்கொண்ட சுற்றி வளைப்பில்  3 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+Three suspects, aged 24, 26, and 32, from Nugegoda and Dehiwala, were arrested for drug trafficking. They were found with 6g of Ice, 12g of Ice, and 25g of Ice, and were seized with 22,600 money. Further investigations are ongoing.
 
-நுகேகொடை மேம்பாலத்திற்கு அருகில் வைத்து போதைப் பொருளுடன் முதலாவது சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-இவ்வாறு கைது செய்யப்பட்ட சந்தேகநபரிடமிருந்து 6 கிராம் 140 மில்லி கிராம்  ஐஸ் போதைப்பொருள் கைப்பற்றப்பட்டுள்ளது.
+Three suspects have been arrested in connection with the information received by the authorities of the Corruption Unit of the Nugegoda area under the Mirihana Police Division.
 
-இந்நிலையில், சந்தேக நபரிடத்தில் மேற்கொள்ளப்பட்ட விசாரணையில் ஹைலெவல் வீதி 07ஆம் மைல் வீதியில் மற்றுமொரு சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+The first suspect has been arrested with drugs near the Nugegoda Bridge.
 
-இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபரிடமிருந்து 12 கிராம் 730 மில்லி கிராம் ஐஸ் போதைப் பொருள் மற்றும் போதைப் பொருள் விற்பனையின் மூலம் பெற்ற 22,600 பணமும் கைப்பற்றப்பட்டது.
+The suspect was thus seized 6 grams of 140 milligrams of Ice.
 
-அத்தோடு , ஜம்புகஸ்முல்ல சந்தியில் 25 கிராம் 360 மி. கிராம் ஐஸ் போதைப்பொருளுடன்  இன்னுமொரு சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+Investigations carried out by the suspect have been arrested on the Highlive Road, 7th Mile Road.
 
-இவ்வாறு கைது செய்யப்பட்ட 3 சந்தேக நபர்களும் தெஹிவளை மற்றும் நுகேகொடை பிரதேசங்களைச் சேர்ந்த 24, 26 மற்றும் 32 வயதுடையவர்களாவர்.
+The suspect was seized from the suspect, 22,600 money received from 12 grams of 730 milligrams of ice and drug sales.
 
-...
+In addition, 25 g 360m at Jambukasmulla junction. Another suspect has been arrested with Gram Ice drug.
+
+The three suspects were arrested, aged 24, 26 and 32, from Dehiwala and Nugegoda.
+
+Mirihana police said they were conducting further investigations into the incident.
+
+◼️
 
 [Data](articles/923c51da.json)
+
+[Extended Data](ext_articles/923c51da.ext.json)
 
 ---
 
@@ -81,6 +115,24 @@ Meanwhile, the selling rate of the US Dollar has also reduced to Rs. 308.90 from
 ◼️
 
 [Data](articles/302487d8.json)
+
+[Extended Data](ext_articles/302487d8.ext.json)
+
+---
+
+### Sri Lanka drafting amendments to archaeology act to address shortcomings
+
+*2024-03-19 14:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-drafting-amendments-to-archaeology-act-to-address-shortcomings-155189/) · `en`
+
+ECONOMYNEXT — Sri Lanka has identified shortcomings in the Archaeology Act and is drafting amendments to rectify them, Justice Minister Wijeyadasa Rajapakshe said during a heated exchange in parliament.
+
+The minister made this remark during an exchange that ensued between government and opposition members after Tamil-speaking MPs drew attention to what they claimed were a series of unlawful arrests.
+
+The MPs were referring to an incident that saw the arrest of eight individuals over a Mahasivarathri festival organised at a temple in Vedukkunarimalai in Nedunkerny, Vavuniya. According to the MPs, the chief priest of the temple was among those arrested.
+
+...
+
+[Data](articles/a7f610b0.json)
 
 ---
 
@@ -102,19 +154,27 @@ In the future, every child in the country will be provided with the necessary ba
 
 [Data](articles/283eed1d.json)
 
+[Extended Data](ext_articles/283eed1d.ext.json)
+
 ---
 
-### ஹெரோயின் போதைப் பொருளுடன் ஒருவர் கைது
+### Arrest of one with heroin drug
 
 *2024-03-19 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/179116) · `ta`
 
-கல்கிஸ்ஸ பொலிஸ் பிரிவிற்குட்பட்ட ஓடியன் சந்தியில் கல்கிஸ்ஸ  குற்ற புலனாய்வு பிரிவிற்கு கிடைத்த தகவலின் மூலம் ஹெரோயின்  போதைப் பொருளுடன்  நேற்று (18 ) சந்தேக நபரொருவர் கல்கிஸ்ஸ பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+Kalkissa police arrested a suspect with 10 grams of heroin.
 
-இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபரிடமிருந்து 10 கிராம் 250 மி.கிராம் ஹெரோயின் போதைப் பொருள் கைப்பற்றப்பட்டதாக தெரிவித்தனர்.
+🟩
+
+A suspect has been arrested by the Kalkissa police yesterday (18) with information received by the Kalkissa Criminal Investigation Division (Kalkissa Criminal Investigation Division) at the Odean Junction under the Kalkissa Police Division.
+
+They said that 10 grams of 250 mg of heroin was seized from the suspect.
 
 ◼️
 
 [Data](articles/2f832c32.json)
+
+[Extended Data](ext_articles/2f832c32.ext.json)
 
 ---
 
@@ -517,6 +577,26 @@ Taking to his X handle (formerly Twitter), the NPP leader said the focus of the 
 [Data](articles/b02bdafc.json)
 
 [Extended Data](ext_articles/b02bdafc.ext.json)
+
+---
+
+### Bid to install solar panels in Sri Lanka places of worship awarded to Premier Energies Ltd
+
+*2024-03-19 13:07:00* · [`economynextcom`](https://economynext.com/bid-to-install-solar-panels-in-sri-lanka-places-of-worship-awarded-to-premier-energies-ltd-155190/) · `en`
+
+ECONOMYNEXT – A project to install solar power systems in places of worship in Sri Lanka under an Indian credit line, has been awarded to M/s Premier Energies Ltd, a Cabinet statement said.
+
+17 million US dollars of a 1,000 million dollar credit line from India will be provided by the State Bank of India.
+
+Bids were called for the implementation of solar power systems in places of worship earlier this year, and 6 bids were received.
+
+A technical evaluation committee and a Cabinet procurement committee decided to award the contract to M/s Premier Energies Ltd, the statement said.
+
+Premier Energies is India’s second largest solar cell and solar module manufacturer. (Colombo/Mar19/2024)
+
+◼️
+
+[Data](articles/fddd1baf.json)
 
 ---
 
@@ -1012,6 +1092,24 @@ Israeli media reports stated that Marwan was killed by Marwing tunnel in the int
 
 ---
 
+### Sri Lanka to spin off CPC refinery to attract capital
+
+*2024-03-19 11:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-spin-off-cpc-refinery-to-attract-capital-155163/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers approved a proposal by Energy Minister Kanchana Wijesekera to spin off Ceylon Petroleum Corporation as a separate entity, the government information office said.
+
+It was felt that incorporating the refinery as a separate state-owned enterprise will allow local and foreign capital to be attracted to modernize and extend its life by another 25 years.
+
+The refinery was set up in 1969, but it can only process, more expensive light crudes.
+
+About 25 percent of Sri Lanka’s fuel needs are supplied by the refinery, the statement said.
+
+◼️
+
+[Data](articles/8707c7ac.json)
+
+---
+
 ### Prepare for presidential election first: President tells Cabinet
 
 *2024-03-19 11:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98046/prepare-for-presidential-election-first-president-tells-cabinet-) · `en`
@@ -1087,6 +1185,24 @@ During the discussion, the Indian High Commissioner expressed India's commitment
 [Data](articles/d2e1bc84.json)
 
 [Extended Data](ext_articles/d2e1bc84.ext.json)
+
+---
+
+### Sri Lanka cabinet nod to elect 160 members on first-past-the-post system
+
+*2024-03-19 11:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-nod-to-elect-160-members-on-first-past-the-post-system-155141/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of ministers have approved a proposal to draft an amendment to the constitution to elect 160 out of the 225 members of parliament on the first-past-the-post system, the government information office said.
+
+The approval comes amid reports President Ranil Wickremesinghe informed the Cabinet that Presidential elections will be held this year.
+
+“To meet the goal of the Election Expenses Regulation Act No. 03 of 2023, and achieve a truly democratic election process, the present electoral system has to be changed,” the statement said.
+
+A ministerial sub-committee was formed tasked with producing a report to Cabinet after obtaining feedback from all party leaders represented in parliament and other relevant stakeholders, the statement continued.
+
+...
+
+[Data](articles/f0b1efbb.json)
 
 ---
 
@@ -2157,125 +2273,5 @@ Accordingly, the Western Province Governor, Western Province Governor Marshal Ro
 [Data](articles/c17f037e.json)
 
 [Extended Data](ext_articles/c17f037e.ext.json)
-
----
-
-### Prepare for presidential election first -President tells Cabinet
-
-*2024-03-19 07:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prepare-for-presidential-election-first-President-tells-Cabinet/108-279126) · `en`
-
-Putting an end to the rumor's that the general election or the presidential election will be held first, President Ranil Wickremesinghe reportedly informed the cabinet of ministers yesterday (18) that the presidential election will be held first.
-
-Therefore, the President has instructed the cabinet, which met yesterday, to prepare for the presidential election first, informed sources said.
-
-He stated that according to the country's constitution, the presidential election should take place first, and arrangements will be made accordingly, sources added
-
-◼️
-
-[Data](articles/369523d3.json)
-
-[Extended Data](ext_articles/369523d3.ext.json)
-
----
-
-### Prepare for presidential election first -President tells Cabinet
-
-*2024-03-19 07:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Prepare-for-presidential-election-first-President-tells-Cabinet/155-279126) · `en`
-
-Putting an end to the rumor's that the general election or the presidential election will be held first, President Ranil Wickremesinghe reportedly informed the cabinet of ministers yesterday (18) that the presidential election will be held first.
-
-Therefore, the President has instructed the cabinet, which met yesterday, to prepare for the presidential election first, informed sources said.
-
-He stated that according to the country's constitution, the presidential election should take place first, and arrangements will be made accordingly, sources added
-
-◼️
-
-[Data](articles/dbb79fcb.json)
-
-[Extended Data](ext_articles/dbb79fcb.ext.json)
-
----
-
-### Mahinda Yapa Abeywardena: What happened to the no-confidence motion against the Speaker of Sri Lanka
-
-*2024-03-19 07:10:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cmmq8q32d7no) · `si`
-
-The no-confidence motion against Speaker Mahinda Yapa Abeywardena in Sri Lanka's Parliament began on March 19, debated on March 14, and continued on March 20 and 21. It's the fifth motion against a Speaker, with no previous success. The motion was against the Annal Defense Bill and the IGP's appointment.
-
-🟩
-
-Mahinda Yapa Abeywardena: What happened to the no-confidence motion against the Speaker of Sri Lanka
-
-The Parliamentary Debate on the no-confidence motion against Speaker Mahinda Yapa Abeywardena commenced on Tuesday (March 19).
-
-The no-confidence motion was presented to Parliament, accusing the Annal Defense Bill and the IGP in the appointment of the IGP.
-
-The no-confidence motion was debated on March 14 at the Committee on Parliamentary Affairs chaired by the Speaker.
-
-Thus, on Tuesday, March 19. From 9.30 pm. At 5.30 pm, on Wednesday 20. From 9.30 pm. The debate was to be held until 4.30 pm.
-
-On Wednesday, the second day of the debate, had decided to hold the voting for the no-confidential resolution, but today there was a change.
-
-The comment on the Committee on Parliamentary Affairs was held on Thursday 21st.
-
-The no-confidential proposal to debate against Naka Abeywardena is the fifth notion proposal against a Speaker of Sri Lanka.
-
-...
-
-[Data](articles/347ecae0.json)
-
-[Extended Data](ext_articles/347ecae0.ext.json)
-
----
-
-### President instructs cabinet to prepare for presidential election
-
-*2024-03-19 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194660) · `si`
-
-President Ranil Wickremesinghe instructs the Cabinet to prepare for the presidential election, despite being held yesterday. TNA MP CV Wigneswaram suggests a Tamil-speaking candidate, while MP Nalaka Godahewa criticizes the President's inability to postpone the election.
-
-🟩
-
-President Ranil Wickremesinghe has informed the Cabinet to prepare for the presidential election.
-
-The President was held yesterday (18th), reports the President has informed the incident.
-
-The President has stated in the Cabinet to complete the government's work as soon as possible and prepare for the presidential election as soon as possible.
-
-Meanwhile, TNA MP CV Wigneswaram said that a person who could talk to Tamil as the presidential candidate.
-
-MP Nalaka Godahewa said that the President is not capable of postpone the presidential election election election.
-
-◼️
-
-[Data](articles/9abba627.json)
-
-[Extended Data](ext_articles/9abba627.ext.json)
-
----
-
-### Debate on the no-confidenceability debate on the speaker
-
-*2024-03-19 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194659) · `si`
-
-The no-confidence debate against Speaker Mahinda Yapa Abeywardena starts today, with voting set for tomorrow. MP Tissa Ratnapanayake claims the motion isn't political, while the SLFP supports it.
-
-🟩
-
-The debate on the no-confidence motion against Speaker Mahinda Yapa Abeywardena begins today (19).
-
-According to the Department of Parliament, the debate will be held from 9.30 am to 5.30 pm to 4.30 pm and 4.30 pm.
-
-The voting for the no-confidence motion will be held tomorrow 4.30 pm tomorrow.
-
-Meanwhile, MP Tissa Ratnapanayake said that the no-confidence motion had not been filed with political purpose.
-
-Acting Secretary-General of Parliament Dushamantha Mithrpala said that the SLFP supported the no-confidence motion.
-
-◼️
-
-[Data](articles/dedf517d.json)
-
-[Extended Data](ext_articles/dedf517d.ext.json)
 
 ---

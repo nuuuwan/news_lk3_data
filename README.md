@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 00:17:46**
+As of **2024-03-20 00:34:01**
 
 ## Newspaper Stats
 
-*Scraped **13,929** Articles*
+*Scraped **13,939** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 131
 bbccomsinhala | 153
 dbsjeyarajcom | 188
 newsfirstlk | 363
-dailyftlk | 727
-economynextcom | 735
+dailyftlk | 728
+economynextcom | 742
 islandlk | 761
 adalk | 1,205
 adaderanalk | 1,678
 tamilmirrorlk | 1,691
-virakesarilk | 1,948
+virakesarilk | 1,950
 dailymirrorlk | 2,129
 adaderanasinhalalk | 2,220
 
@@ -26,11 +26,65 @@ adaderanasinhalalk | 2,220
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,929 (100.0%) of 13,929 articles have been extended.
+13,929 (99.9%) of 13,939 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-03-20 (Wednesday)
+
+### ஐசிசி ஒழுக்கக் கோவையை மீறிய ஹசரங்கவுக்கு 2 டெஸ்ட் போட்டித் தடை, குசல் மெண்டிஸுக்கு 50 வீத அபாரதம்
+
+*2024-03-20 00:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179171) · `ta`
+
+பங்களாதேஷுக்கு எதிராக இலங்கை விளையாடவுள்ள 2 டெஸ்ட் போட்டிகளில் விளையாட முடியாதவாறு சுழல்பந்துவீச்சாளர் வனிந்து ஹசரங்கவுக்கு தடை விதிக்கப்பட்டுள்ளது.
+
+ஐசிசி ஒழுக்கக் கோவைக்கான 2ஆம் நிலை மீறல்களில் வனிந்து ஹசரங்க ஈடுபட்டதால் அவருக்கான தகுதி நீக்கப் புள்ளிகள் 24 மாத காலப்பகுதியில் 8ஆக உயர்ந்ததை அடுத்து இந்தத் தடை விதிக்கப்பட்டுள்ளது.
+
+2ஆம் நிலை மீறல்களுக்காக அவருக்கு 3  தகுதி  நீக்கப் புள்ளிகள் வழங்கப்பட்டதுடன் போட்டிக் கட்டணத்தில் 50 வீத அபாரதமும் விதிக்கப்பட்டது.
+
+சட்டோக்ராமில் நடைபெற்ற பங்களாதேஷுக்கு எதிரான 3ஆவது டெஸ்ட் போட்டியின்போது ஐசிசி ஒழுக்கக் கோவையின் 2.9ஆவது பரிந்துரையை மீறியமைக்காக ஹசரங்க குற்றவாளியாகக் காணப்பட்டார்.
+
+தம்புள்ளையில் கடந்த மாதம் நடைபெற்ற ஆப்கானிஸ்தானுக்கு எதிரான கடைசி சர்வதேச ரி20 கிரிக்கெட் போட்டியின்போது ஐசிசி ஒழுக்கக்  கோவையை ஹசரங்க மீறியமைக்காக 3 தகுதிநீக்கப் பள்ளிகள் வழங்கப்பட்டு பங்களாதேஷுடனான முதல் இரண்டு ரி20 போட்டிகளில் விளையாட தடை விதிக்கப்பட்டிருந்தது குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/1a4ac375.json)
+
+---
+
 ### 2024-03-19 (Tuesday)
+
+### பாடசாலை கல்வியில் செயற்கை நுண்ணறிவை உள்வாங்குவதற்கான புரிந்துணர்வு ஒப்பந்தத்தில் கல்வி அமைச்சு - மைக்ரோசொப்ட் நிறுவனம் கைசாத்து
+
+*2024-03-19 23:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/179170) · `ta`
+
+தரம் 08 இற்கு மேற்பட்ட மாணவர்களுக்கான தகவல் தொழில்நுட்பப் பாடத்தில் (AI) செயற்கை நுண்ணறிவு விடயப்பரப்பை உள்வாங்குவதற்கான முன்னோடித் திட்டத்தை செயல்படுத்துவது தொடர்பான புரிந்துணர்வு ஒப்பந்தம் கல்வி அமைச்சுக்கும் மைக்ரோசொப்ட் நிறுவனத்திற்கும் இடையில் செவ்வாய்க்கிழமை (19) ஜனாதிபதி அலுவலகத்தில் கைசாத்திடப்பட்டது.
+
+20 மாவட்டங்களில் 20 பாடசாலைகளைத் தெரிவு செய்து தரம் 8 இற்கு மேற்பட்ட மாணவர்களுக்கான இந்த முன்னோடி திட்டத்தை செயல்படுத்த தீர்மானிக்கப்பட்டுள்ளதோடு, அதற்கு அவசியமான நவீன வகுப்பறைகளையும தொழில்நுட்ப உபகரணங்களையும் வழங்குவதாக இங்கு குறிப்பிடப்பட்டது.
+
+அதன்படி கல்விச் செயற்பாடுகளை தொழில்நுட்ப முறையில் முன்னெடுப்பதற்கான உதவிகளை மைக்ரோசொப்ட் நிறுவனத்தின் குழுவொன்று வழங்கவுள்ளது.
+
+இதற்கான புரிந்துணர்வு ஒப்பந்தத்தில் கைசாத்திடும் முன்பாக ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் மைக்ரோசொப்ட் நிறுவனத்தின் பிரதிநிதிகளுக்கும் இடையிலான சந்திப்பொன்றும் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+
+...
+
+[Data](articles/5a909182.json)
+
+---
+
+### More medical doctors a need in ailing healthcare systems
+
+*2024-03-19 23:54:20* · [`dailyftlk`](https://www.ft.lk/columns/More-medical-doctors-a-need-in-ailing-healthcare-systems/4-759677) · `en`
+
+Serious decline in quality standards in both public and private curative healthcare is common experience in SL
+
+The “Green Campus” as it is popularly called, the National School of Business Management (NSBM) in Homagama, has been given the greenlight by the Cabinet of Ministers to establish a Faculty of Medicine, said cabinet spokesman Minister Bandula Gunawardene on Tuesday 12 March. All NSBM courses from foundation to general degree and postgraduate degrees are fee levying and the proposed medical degree would also be a fee levying degree.
+
+...
+
+[Data](articles/ab0607b5.json)
+
+---
 
 ### World Bank hails ‘Suwa Seriya’ ambulance service for saving countless lives
 
@@ -495,6 +549,26 @@ The Weerakesari magazine has won the SLIM - Kantar 2024 award as the Tamil newsp
 [Data](articles/127e34f6.json)
 
 [Extended Data](ext_articles/127e34f6.ext.json)
+
+---
+
+### Sri Lanka to study moving CPC oil refinery to Trinco
+
+*2024-03-19 20:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-study-moving-cpc-oil-refinery-to-trinco-155264/) · `en`
+
+ECONOMYNEXT – Sri Lanka has decided to explore the option of relocating Ceylon Petroleum Corporation’s oil refinery to Trincomalee, Energy Minister Kanchana Wijesekera said.
+
+The cabinet of ministers this week approved a proposal to spin off the refinery as a separate company to raise capital from local and foreign investors to modernize the 1969 structure.
+
+“It was also decided to explore the option of relocating the Sapugaskanda Oil Refinery to Trincomalee in the future…,” Minister Wijesekera said in an x.com (twitter) message.
+
+The move is considered in the light of the development of a tank farm in Trincomalee, he said.
+
+The tank farm, dating back to World War II when Sri Lanka was under British rule, and is to be jointly developed with India. (Colombo/Mar19/2024)
+
+◼️
+
+[Data](articles/b605f447.json)
 
 ---
 
@@ -1046,6 +1120,42 @@ Tamil National Alliance (TNA) parliamentarian Chanakyan Rasamanikam and United P
 
 ---
 
+### Basil reiterates call for Sri Lanka parliamentary polls before presidential election
+
+*2024-03-19 17:55:00* · [`economynextcom`](https://economynext.com/basil-reiterates-call-for-sri-lanka-parliamentary-polls-before-presidential-election-155254/) · `en`
+
+ECONOMYNEXT — Sri Lanka Podujana Peramuna (SLPP) national organiser Basil Rajapaksa has told party members that President Ranil Wickremesinghe would be a suitable candidate for the presidential election but the parliamentary polls should be held at first, an SLPP MP said.
+
+Parliamentarian S M Chandrasena told reporters that Rajapaksa had said President Wickremesinghe is a “skilled leader and a good candidate”.
+
+“What he was indirectly saying there was that Mr Wickremesinghe is suitable to run. But he’s also saying that the parliamentary polls should be held first,” said Chandrasena.
+
+Rajapaksa recently told the privately owned NewsFirst network that the next parliament will be a more balanced one if parliamentary elections are held before a presidential election and won’t result in any one party monopolising political power.
+
+The SLPP ideologue said power should not be concentrated around one party.
+
+...
+
+[Data](articles/b7a600bb.json)
+
+---
+
+### Sri Lanka to give free rice to 2.74mn families, fertilizer subsidy as polls loom
+
+*2024-03-19 17:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-give-free-rice-to-2-74mn-families-fertilizer-subsidy-as-polls-loom-155257/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet has decided to give 10 kilograms of rice free to 2.74 million low-income families and a fertilizer subsidy to small rice farmers, the state information office said as elections loom.
+
+The rice handout will be given for two months. Rice will be purchased from small and medium millers.
+
+A fertilizer subsidy of 15,000 rupees per acre will be given to small rice farmer in the Yala minor cultivation season.
+
+◼️
+
+[Data](articles/cd8a7c3d.json)
+
+---
+
 ### “The government plans to open 200 liquor stores”
 
 *2024-03-19 17:54:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/200-மதுபான-கடைகளைத்-திறக்க-அரசாங்கம்-திட்டமிட்டுள்ளது/175-334895) · `ta`
@@ -1148,6 +1258,44 @@ The Minister added that the Central Bank's claim that he had freedom to make dec
 
 ---
 
+### Sri Lanka president told cabinet he’ll contest election: UNP gen secy
+
+*2024-03-19 17:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-told-cabinet-hell-contest-election-unp-gen-secy-155244/) · `en`
+
+ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe has informed the cabinet of ministers that he intends to contest the presidential election, United National Party (UNP) general secretary Palitha Range Bandara said.
+
+The former parliamentarian told a television talk show on the privately owned Swarnavahani on Monday March 18 that Wickremesinghe will contest the election, not from the UNP, but as a neutral candidate. Bandara was ostensibly referring to a grand alliance that has been speculated to be formed under the UNP leadership.
+
+President Wickremesinghe, however, has yet to officially announce his candidacy. At what had all the appearance of a campaign launch event held on March 10, he did not explicitly express his intention to run.
+
+Pressed by the interviewer, Bandara said: “If he hasn’t said anything, why would we go around the country and organise?”
+
+“He told the cabinet. He said today too. He has said which election would be held and that he’d be running,” he said.
+
+...
+
+[Data](articles/334dbbb5.json)
+
+---
+
+### China protests against Sri Lanka allowing German research ship amid 1-year ban: sources
+
+*2024-03-19 17:25:00* · [`economynextcom`](https://economynext.com/china-protests-against-sri-lanka-allowing-german-research-ship-amid-1-year-ban-sources-155237/) · `en`
+
+ECONOMYNEXT – Chinese Embassy in Colombo has raised strong protest against a move by Sri Lanka to allow a German research vessel for a port call, diplomatic and government sources said, amid a one year ban on foreign research vessels.
+
+The protest comes after Sri Lankan authorities turned down a Beijing request for a research vessel in February. It was not immediately clear how the German research ship got the approval under the ban.
+
+President Ranil Wickremesinghe’s government has temporarily halted foreign research ships after strong security concerns raised by neighbour India and the United States after the visit of two Chinese research vessels last year.
+
+The government’s one-year ban came into effect ahead of upcoming presidential polls in the second half of 2024.
+
+...
+
+[Data](articles/476f4423.json)
+
+---
+
 ### SriLankan is back on a technical fault
 
 *2024-03-19 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194695) · `si`
@@ -1229,6 +1377,32 @@ SJB parliamentarian Eran Wickramaratne resigned from COPE yesterday while MPs Da
 [Data](articles/9f835403.json)
 
 [Extended Data](ext_articles/9f835403.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 303.95/304.05 to the US dollar
+
+*2024-03-19 17:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-303-95-304-05-to-the-us-dollar-155214/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 303.95/304.05 to the US dollar in the spot forex market on Tuesday, slightly stronger from 304.35/50 on Monday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed stable at 11.30/40 percent.
+
+A bond maturing on 15.09.2027 closed at 11.90/12.00 percent up from 11.85/12.00 percent.
+
+A bond maturing on 15.12.2028 closed at 12.10/15 percent up from 12.07/12.15 percent.
+
+A bond maturing on 15.07.2029 closed at 12.10/30 percent down from 12.15/30 percent.
+
+A bond maturing on 15.05.2030 closed at 12.10/20 percent down from 12.15/30 percent.
+
+A bond maturing on 15.03.2031 closed at 12.10/20 percent down from 12.10/30 percent.
+
+A bond maturing on 01.07.2032 closed at 12.35/55 percent down from 12.40/75 percent. (Colombo/Mar19/2024)
+
+◼️
+
+[Data](articles/35c02e3b.json)
 
 ---
 
@@ -1463,6 +1637,24 @@ Wickremeratne in a statement said 31 appointees to the COPE must not be associat
 [Data](articles/1b782c0d.json)
 
 [Extended Data](ext_articles/1b782c0d.ext.json)
+
+---
+
+### Six Sri Lanka opposition MPs resign from COPE over integrity issue
+
+*2024-03-19 16:28:00* · [`economynextcom`](https://economynext.com/six-sri-lanka-opposition-mps-resign-from-cope-over-integrity-issue-155202/) · `en`
+
+ECONOMYNEXT – Six opposition legislators in Sri Lanka resigned from the Parliament’s Committee on Public Enterprises (COPE) within two days over integrity concerns of the panel citing that they had to sit with corrupt ruling politicians.
+
+Opposition parliamentary members Dayasiri Jayasekera, Charitha Herath, S M Marikkar, Shanaiyan Rasamanickam, and Hesha Withanage resigned on Tuesday, a day after the resignation of former state finance minister Eran Wickremeratne.
+
+The opposition members blamed the integrity concerns of COPE established on March 7 under the chairmanship of Ruling Sri Lanka Podujana Peramuna (SLPP) MP Rohitha Abeygunawardena, who has been accused of misappropriation of public funds under the previous government.
+
+Wickremeratne in a statement said 31 appointees to the COPE must not be associated with allegations and/or convictions.
+
+...
+
+[Data](articles/40f077ae.json)
 
 ---
 
@@ -2021,235 +2213,5 @@ In this case, the Ministry of Education has released the timetable for the exami
 [Data](articles/c514fcc2.json)
 
 [Extended Data](ext_articles/c514fcc2.ext.json)
-
----
-
-### Lorry driver arrested with cannabis drug in Nanuoya
-
-*2024-03-19 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179123) · `ta`
-
-A 27-year-old lorry driver from Badulla was arrested in Nanuoya for possessing 180 milligrams of cannabis. He will appear in court in Nuwara Eliya.
-
-🟩
-
-The arrest was carried out under a raid under the Nanuoya Police Division under the Nanuoya Police Division on Monday night (18) on the Talawakelle -Nuwara Eliya main road near the Nanuoya Police Division.
-
-The recovered cannabis drug is 180 milligrams. The arrested lorry driver is 27 -year -old from Badulla - Hali Ela, police said.
-
-The suspect is scheduled to appear before the Nuwara Eliya District Court on Tuesday after further hearing.
-
-◼️
-
-[Data](articles/e1d4d12b.json)
-
-[Extended Data](ext_articles/e1d4d12b.ext.json)
-
----
-
-### Dayasiri resigns
-
-*2024-03-19 14:55:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தயாசிறியும்-இராஜினாமா/175-334887) · `ta`
-
-Dayasiri Jayasekara, Sri Lanka PA MP, resigns from Parliament's Public Organizations Committee. Eran Wickremaratne also resigns.
-
-🟩
-
-Dayasiri Jayasekara, Member of Parliament of the Sri Lanka PA, has withdrawn from the membership of the Parliament (COP) Committee on Public Organizations.
-
-The letter has been sent to Speaker Mahinda Yapa Abeywardena. United People's Power MP Eran Wickremaratne also withdrew from the committee on Monday (18).
-
-◼️
-
-[Data](articles/15ec2d2b.json)
-
-[Extended Data](ext_articles/15ec2d2b.ext.json)
-
----
-
-### No confidence motion against Sri Lanka Speaker taken up in parliament
-
-*2024-03-19 14:53:00* · [`economynextcom`](https://economynext.com/no-confidence-motion-against-sri-lanka-speaker-taken-up-in-parliament-155205/) · `en`
-
-ECONOMYNEXT – Speaker Mahinda Yapa Abeywardena had ignored opposition protests and a Supreme Court ruling when passing the Online Safety Bill, chief opposition whip Lakshman Kiriella charged in parliament.
-
-Kiriella’s party, the Samagi Jana Balawegaya (SJB), took up its no-confidence motion against the speaker on Tuesday.
-
-Clauses that required a two thirds majority if they were not amended as per the Supreme Court ruling, were passed by a simple majority without the amends, Kiriella claimed. “He ignored calls for a division and approved the third reading without a vote.”
-
-Minister of Justice Wijeyadasa Rajapakshe said the opposition had not studied the approved Bill carefully, as it would become evident that the changes found to be in violation of clause 12.1 of the Constitution had been amended or removed altogether.
-
-“4 of the 9 charges you make have one shortcoming, pertaining to repeat offenders, which has been amended by the Attorney General and sent to be gazetted,” Rajapaksa said.
-
-...
-
-[Data](articles/90adce15.json)
-
-[Extended Data](ext_articles/90adce15.ext.json)
-
----
-
-### Bangladesh Pakistan is very dangerous in India - world healthcare
-
-*2024-03-19 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179107) · `ta`
-
-A study shows India's air pollution is severe, with PM2.5 levels in Pakistan at 79.9 micrograms and in Bangladesh at 73.7 micrograms, exceeding WHO's safe limit. Bangladesh ranked 5th and 8th in pollution in 2022. Dhaka's experts suggest spending 4-5% of GDP on health services. New Delhi faced a dangerous air pollution level last year, similar to China's five-year pollution crisis. Countries like Australia, New Zealand, Estonia, and Finland meet WHO standards.
-
-🟩
-
-A new study has revealed that India is poorly polluted in Bangladesh in Bangladesh.
-
-According to a study published by World Health, Pakistan was one of the most popular countries in the world in 2023.
-
-Found in the air that affects the lungs;The size of the small particles, such as BM 2.5, is found in Pakistan 79.9 micrograms- it is 73.7 percent in Bangladesh.
-
-The World Health Organization said that such products in the atmosphere can be affected if more than 5 micrograms can be affected.
-
-This BM 2.5 particles are found due to the climate and geographical location of South Asia, Christie of the Switzerland's Erukkanapatti organization said.
-
-He said that the lack of pollution is one of the reasons for the agricultural activities and the public is living in crowded.
-
-He added that changes may occur only after this situation has worsened.
-
-It is noteworthy that Bangladesh was ranked fifth and 8th in the list of countries that were polluted in 2022.
-
-...
-
-[Data](articles/8d66b9d5.json)
-
-[Extended Data](ext_articles/8d66b9d5.ext.json)
-
----
-
-### Australia cares to catch cricket with Afghanistan
-
-*2024-03-19 14:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194684) · `si`
-
-Australia postpones 20-20 cricket tournament with Afghanistan due to weakening humanitarian rights for women and girls.
-
-🟩
-
-Australia has decided to postpone the 20-20 international cricket tournament to be held with Afghanistan.
-
-It is said that they have taken this decision with the Australian government.
-
-They are mentioned that "the humanitarian rights of women and girls are clearly weakened."
-
-The tournament was scheduled to be held at a neutral playground in August.
-
-It was scheduled to be held in the ICC Contest Story and Australia decided not to participate in a Test match and one-day international tournament in 2021 and 2023.
-
-◼️
-
-[Data](articles/662677cd.json)
-
-[Extended Data](ext_articles/662677cd.ext.json)
-
----
-
-### Three suspects arrested in Nugegoda
-
-*2024-03-19 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179118) · `ta`
-
-Three suspects, aged 24, 26, and 32, from Nugegoda and Dehiwala, were arrested for drug trafficking. They were found with 6g of Ice, 12g of Ice, and 25g of Ice, and were seized with 22,600 money. Further investigations are ongoing.
-
-🟩
-
-Three suspects have been arrested in connection with the information received by the authorities of the Corruption Unit of the Nugegoda area under the Mirihana Police Division.
-
-The first suspect has been arrested with drugs near the Nugegoda Bridge.
-
-The suspect was thus seized 6 grams of 140 milligrams of Ice.
-
-Investigations carried out by the suspect have been arrested on the Highlive Road, 7th Mile Road.
-
-The suspect was seized from the suspect, 22,600 money received from 12 grams of 730 milligrams of ice and drug sales.
-
-In addition, 25 g 360m at Jambukasmulla junction. Another suspect has been arrested with Gram Ice drug.
-
-The three suspects were arrested, aged 24, 26 and 32, from Dehiwala and Nugegoda.
-
-Mirihana police said they were conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/923c51da.json)
-
-[Extended Data](ext_articles/923c51da.ext.json)
-
----
-
-### Dayasiri Jayasekara also quit the Cobb group!
-
-*2024-03-19 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179120) · `ta`
-
-Dayasiri Jayasekara left the Cobb group, and MP Iran Wickremaratne resigned from the Parliamentary Committee (COP).
-
-🟩
-
-Meanwhile, United People's Power MP Iran Wickremaratne resigned from the Parliamentary Committee (COP) membership yesterday (18).
-
-◼️
-
-[Data](articles/89626433.json)
-
-[Extended Data](ext_articles/89626433.ext.json)
-
----
-
-### SL rupee drops below Rs 300 against USD
-
-*2024-03-19 14:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-rupee-drops-below-Rs-300-against-USD/108-279164) · `en`
-
-Colombo, March 19 (Daily Mirror) - The buying rate of the US Dollar has dropped below the Rs. 300 rate for the first time since July 2023, according to the Central Bank of Sri Lanka (CBSL).
-
-According to the CSBL, the buying rate of the US Dollar has dropped to Rs. 299.29 today.
-
-Meanwhile, the selling rate of the US Dollar has also reduced to Rs. 308.90 from yesterday’s rate of Rs. 309.67.
-
-◼️
-
-[Data](articles/302487d8.json)
-
-[Extended Data](ext_articles/302487d8.ext.json)
-
----
-
-### Sri Lanka drafting amendments to archaeology act to address shortcomings
-
-*2024-03-19 14:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-drafting-amendments-to-archaeology-act-to-address-shortcomings-155189/) · `en`
-
-ECONOMYNEXT — Sri Lanka has identified shortcomings in the Archaeology Act and is drafting amendments to rectify them, Justice Minister Wijeyadasa Rajapakshe said during a heated exchange in parliament.
-
-The minister made this remark during an exchange that ensued between government and opposition members after Tamil-speaking MPs drew attention to what they claimed were a series of unlawful arrests.
-
-The MPs were referring to an incident that saw the arrest of eight individuals over a Mahasivarathri festival organised at a temple in Vedukkunarimalai in Nedunkerny, Vavuniya. According to the MPs, the chief priest of the temple was among those arrested.
-
-...
-
-[Data](articles/a7f610b0.json)
-
-[Extended Data](ext_articles/a7f610b0.ext.json)
-
----
-
-### AI learning opportunity for Grade 8 and above from today
-
-*2024-03-19 14:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/AI-learning-opportunity-for-Grade-8-and-above-from-today/108-279163) · `en`
-
-Colombo, March 19 (Daily Mirror) - Students from Grades 8 and above will have the opportunity to study Artificial Intelligence (AI) with their information technology subjects, and this pilot project will be started in 20 schools from today, Education Minister Susil Premajayantha said.
-
-The Education Ministry is to launch a pilot project to introduce Artificial Intelligence (AI) alongside the information technology curriculum for students in Grade 8 and above today in 20 selected schools.
-
-Minister Susil Premajayantha pointed out that 100 teachers are being trained for this task, which will be implemented throughout the country in the coming year.
-
-The pilot programme will be conducted with the sponsorship of Microsoft Corporation in 20 selected schools.
-
-In the future, every child in the country will be provided with the necessary background to achieve their future goals according to their abilities and preferences, he said.
-
-◼️
-
-[Data](articles/283eed1d.json)
-
-[Extended Data](ext_articles/283eed1d.ext.json)
 
 ---

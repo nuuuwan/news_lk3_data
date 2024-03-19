@@ -1,52 +1,130 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 15:33:36**
+As of **2024-03-19 15:51:29**
 
 ## Newspaper Stats
 
-*Scraped **13,831** Articles*
+*Scraped **13,840** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 129
+colombotelegraphcom | 131
 bbccomsinhala | 153
 dbsjeyarajcom | 188
 newsfirstlk | 363
 dailyftlk | 727
 economynextcom | 730
 islandlk | 760
-adalk | 1,192
+adalk | 1,195
 adaderanalk | 1,662
 tamilmirrorlk | 1,682
 virakesarilk | 1,931
-dailymirrorlk | 2,114
-adaderanasinhalalk | 2,200
+dailymirrorlk | 2,115
+adaderanasinhalalk | 2,203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,830 (100.0%) of 13,831 articles have been extended.
+13,831 (99.9%) of 13,840 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
 
-### மின் கம்பியில் தீ: அதிர்ச்சியில் ஒருவர் மரணம்
+### ලොව වඩාත් උසස් ගිලන් රථ සේවාවක් ලෙස 1990 සුවසැරිය නම් කරයි
+
+*2024-03-19 15:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194687) · `si`
+
+1990 හදිසි ඇමතුම් අංකය ඔස්සේ මෙරට ක්‍රියාත්මක සුවසැරිය ගිලන්රථ සේවාව ඩිජිටල් තාක්ෂණය නොමිලේ උපයෝගි කරගනිමින්, නොමිලයේ සේවා සපයන ලොව වඩාත් උසස් ගිලන්රථ සේවාවක් ලෙස ලෝක බැංකුව මගින් හඳුන්වාදී තිබේ.
+
+ලෝක බැංකුව වැඩිදුරටත් පවසන්නේ ලොව ගිලන්රථ සේවා අතර වේගවත්ම ප්‍රතිචාර දක්වන සේවාවක් බවට සුවසැරිය ගිලන්රථ සේවාව පත්වී ඇති බවය.
+
+ලෝක බැංකුවේ දකුණු ආසියානු කලාපීය නියෝජ්‍ය සභාපති මාර්ටින් රේසර් ලෝක බැංකුවේ නිල වෙබ් අඩවිය වෙත සුවසැරිය පිළිබඳ වාර්තාවක් ගොනු කර ඇත්තේ දකුණු ආසියාවේ දුප්පත්කම තුරන්කිරීමේ තේමාව යටතේය.
+
+එම වාර්තාවේ දැක්වෙන පරිදි 2016 වසරේදී සුවසැරිය ගිලන් රථ සේවාව මෙරට හඳුන්වාදීමෙන් පසු මේ දක්වා මිලියන 1.8ක ශ්‍රී ලාංකිකයින් 1990 සුවසැරිය ගිලන්රථ සේවාව සමග සම්බන්ධවී ඇති බවය.
+
+එමෙන්ම ඇමතුමක් හා සම්බන්ධවී සාමාන්‍ය ලෙස විනාඩි 12ක කාලයක් ඇතුළත ගිලන්වු පුද්ගලයා ආසන්නයේ පිහිටි රෝහලක් වෙත හෝ සත්කාර මධ්‍යස්ථානයක් වෙත රැගෙන යාමට සුවසැරිය සමත්වී තිබේ.
+
+ඒ අනුව ලොව ගිලන්රථ සේවාවන් අතර වේගවත්ම ප්‍රතිචාර දක්වන සේවාවක් බවට සුවසැරිය නම්කර ඇති බවද ලෝක බැංකුව වාර්තාව මගින් පෙන්වාදෙයි.
+
+...
+
+[Data](articles/6aaf9ccb.json)
+
+---
+
+### කෝප් කමිටුවෙන් තවත් සාමාජිකයෙක් ඉල්ලා අස්වෙයි
+
+*2024-03-19 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194686) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණ පක්ෂය තුළින් පාර්ලිමේන්තුවට තේරීපත්වූ පාර්ලිමේන්තු මන්ත්‍රී චරිත හේරත් මහතා ද කෝප් කමිටුවෙන් ඉල්ලා අස්වී තිබේ.
+
+ඒ බව සඳහන් කරමින් මන්ත්‍රීවරයා සිය නිල X ගිණුමේ සටහනක් තබා ඇත.
+
+එසේම මෙම තීරණය සම්බන්ධයෙන් තමන් නිල වශයෙන් කථානායකවරයාට යොමුකර ඇති බව මන්ත්‍රීවරයා එහි වැඩිදුරටත් සඳහන් කර තිබේ.
+
+පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටුවේ සාමාජිකත්වයෙන් මීට පෙර සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ඉරාන් වික්‍රමරත්න, ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර යන මහත්වරුන් ඉල්ලා අස්විය.
+
+◼️
+
+[Data](articles/a8230206.json)
+
+---
+
+### පච්චයන් තිදෙනෙකු අත්අඩංගුවට
+
+*2024-03-19 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194685) · `si`
+
+මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්වලට හා සංවිධානාත්මක අපරාධවලට සම්බන්ධ “කුප්‍රකට පච්චයන්“ ලෙස හදුන්වන අපරාධ කල්ලියක කාන්තාවක් හා පුද්ගලයන් දෙදෙනෙකු පොලිස් වි‍ශේෂ කාර්ය බළකාය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+විශේෂ කාර්ය බළකායේ මහනුවර කඳවුරේ නිලධාරීන් කණ්ඩායමක් විසින් මහනුවර, තබෝදාරාම පාර ප්‍රදේශයේ පිහිටි නවාතැන්පළක සිදුකළ වැටලීමකදී සැකකරුවන් අත්අඩංගුවට ගෙන ඇති බව වාර්තා වෙයි.
+
+අත්අඩංගුවට ගෙන ඇත්තේ මොරටුව ප්‍රදේශයේ පදිංචි අවුරුදු 32, 38 යන වයස්වල පසුවන පුද්ගලයන් දෙදෙනෙකු සහ ගෝනපල ප්‍රදේශයේ පදිංචි 34 හැවිරිදි කාන්තාවකයි.
+
+එහිදී එක්සත් ආරාබි එමීර් රාජ්‍යයේ ඩිනාර් හා මෙරට වලංගු මුදලින් රුපියල් ලක්ෂයකට ආසන්න මුදලක්, මෝටර් රථයක් සහ තවත් භාණ්ඩ රැසක් විශේෂ කාර්ය බළකා භාරයට ගෙන ඇති බවයි වාර්තා වෙයි.
+
+සැකකරුවන් වැඩිදුර විමර්ශණ කටයුතු සඳහා මහනුවර පොලිස් ස්ථානය වෙත භාර දී තිබේ .
+
+◼️
+
+[Data](articles/541fdf11.json)
+
+---
+
+### Fire on power rod: death one in shock
 
 *2024-03-19 15:16:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மின்-கம்பியில்-தீ-அதிர்ச்சியில்-ஒருவர்-மரணம்/76-334889) · `ta`
 
-பூண்டுலோயா பொலிஸ் பிரிவுக்கு உட்பட்ட சீன் தோட்ட மேற் பிரிவில் அதிர்ச்சிக்கு உள்ளாகி தரையில் விழுந்த நபர் ஒருவர் உயிரிழந்துள்ளார்.
+A man, Subbaiah Shanmugam, 58, died after being electrocuted by a burning power rod in Punduloya. The incident occurred in a residential area, prompting investigations and calls for Ceylon Electricity Board officials to address electrical issues.
 
-தான் வசிக்கும் இலக்கம் நான்கு தொடர் குடியிருப்பு வீட்டு பகுதியில் உள்ள மின் கம்பத்தில் திடீரென மின் இணைப்பு வயர்கள் தீப்பிடித்து எரிவதை பார்த்து அதிர்ச்சி அடைந்த நபர் திடீரென தரையில் வீழ்ந்து உயிரிழந்ததாக விசாரணையில் தெரியவந்துள்ளது.
+🟩
 
-ஞாயிற்றுக்கிழமை (17) மாலை இடம்பெற்ற இந்த சம்பவத்தில் சுப்பையா சண்முகம் (வயது 58) என்பவர் உயிரிழ்ழுள்ளதாக விசாரணைகளை மேற்கொண்டு வரும் பூண்டுலோயா பொலிஸார் தெரிவித்தனர்.
+A man who fell on the ground after being shocked by the Sean Estate Division, which belongs to the Punduloya police division, has died.
 
-சீன் மேல் பிரிவு தோட்டத்தில் மின் இணைப்பு வயர்கள் அடிக்கடி தீப்பிடிப்பதாக தெரிவிக்கும் தோட்ட மக்கள் இத் தோட்டத்தில் தொடர் குடியிருப்புகள் அருகில் காணப்படும் மின் கம்பங்களில் மின் கசிவுகள் மற்றும் இணைப்பு வயர்கள் தொடர்பில் இலங்கை மின்சார சபை பிராந்திய தொழிநுட்ப அதிகாரிகள் பார்வையிட்டு சீர்த்திருத்த நடவடிக்கை எடுக்க வேண்டுமென மக்கள் கோரிக்கை விடுத்துள்ளனர்.
+Investigations have revealed that the person who was shocked to see the power lines were burning in the power pole in the four -serial residential area of the four -wheeler.
+
+Punduloya police said that Subbaiah Shanmugam (58 years old) was killed in the incident which took place on Sunday evening (17).
+
+The plantation people have called for the Ceylon Electricity Board's regional technology officials to visit the Ceylon Electricity Board on electrical leaks and connectivity wires in the plantation of the plantation.
 
 ◼️
 
 [Data](articles/d2be1adf.json)
+
+[Extended Data](ext_articles/d2be1adf.ext.json)
+
+---
+
+### දයාසිරිත් කෝප් කමිටුවෙන් ඉවත්වෙයි
+
+*2024-03-19 15:01:06* · [`adalk`](https://www.ada.lk/breaking_news/දයාසිරිත්-කෝප්-කමිටුවෙන්-ඉවත්වෙයි/11-408703) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා කෝප් කමිටුවේ සාමාජිකත්වයෙන් ඉල්ලා අස්විම සම්බන්ධ ලිපිය කතානායක මහින්ද යාපා  අබේවර්ධන මහතා වෙත යොමු කර තිබේ. මීට පෙර සමගි ජන බලවේගයේ මන්ත්‍රී එරාන් වික්‍රමරත්න මහතා මහතාද කෝප් කමිටුවෙන් අද ඉල්ලා අස්විය.
+
+◼️
+
+[Data](articles/96d1c563.json)
 
 ---
 
@@ -275,6 +353,18 @@ In the future, every child in the country will be provided with the necessary ba
 [Data](articles/283eed1d.json)
 
 [Extended Data](ext_articles/283eed1d.ext.json)
+
+---
+
+### පොහොර සහනාධාරය යලටත් දෙයි
+
+*2024-03-19 14:21:24* · [`adalk`](https://www.ada.lk/breaking_news/පොහොර-සහනාධාරය-යලටත්-දෙයි/11-408702) · `si`
+
+2024 යල කන්නය වෙනුවෙන් වී ගොවීන් සඳහා හෙක්ටයාරයකට රු 15000 බැගින් උපරිමය හෙක්ටයාර දෙකක් දක්වා පොහොර සහනාධාරය ලබාදීමට කැබිනට් මණ්ඩලයේ අනුමැතිය හිමිව තිබේ. මෙම මුදල් සෘජුවම ගොවීන්ගේ ගිණුම් වෙත බැර කරන බව රජය නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/fd274485.json)
 
 ---
 
@@ -623,6 +713,18 @@ The advice on these teams was held at the Police Field Force Headquarters, and t
 [Data](articles/4c226774.json)
 
 [Extended Data](ext_articles/4c226774.ext.json)
+
+---
+
+### සිංහරාජයේ සද්ධන්තයෙක් අතුරුදන්
+
+*2024-03-19 13:17:38* · [`adalk`](https://www.ada.lk/breaking_news/සිංහරාජයේ-සද්ධන්තයෙක්-අතුරුදන්/11-408699) · `si`
+
+දැනට වසරක පමණ කාලයක සිට සිංහරාජය වනාන්තරය ආශ්‍රිතව ජීවත්වන අලීන් දෙදෙනාගෙන් දැනට නිරීක්ෂණය වන්නේ එක අලියකු පමණක් බව සිංහරාජ වන ජීවී කාර්‍යාලයේ වනජීවී නිලධාරී සරත් විජේතුංග මහතා ප්‍රකාශ කළේය .
+
+...
+
+[Data](articles/324c481e.json)
 
 ---
 
@@ -1998,6 +2100,36 @@ This law has also provided the information to Zonal Directors to the Directors o
 
 ---
 
+### Is It Religious Extremism & Propagated For What?
+
+*2024-03-19 09:51:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-it-religious-extremism-propagated-for-what/) · `en`
+
+I came across a touching post in Sinhala on Facebook page of Srimathi Walpola, dated March 13, 2024 which I give below in English with the help of Google Converter and AI correction.
+
+Quote – I presented a creative  version of PATACHARA to a gang of so called Buddhists who out of ‘Patriotic Panic’ accused me of defaming. True. Being naked is magic, a video that needs to be watched in hiding. A thing that everyone knows, they call it ‘secret‘ and if PATACHARA is confronted, she would be auctioned!!
+
+For many, religion means Merits and Demerits, filling tilts with the hope of ending up in Heavan. Women devotees offer Necklaces, Earrings, land and build concrete structures. Stanzas is chanted in a country without knowing how to live as per meaning of the contents. They conduct religious rituals extravagantly where devotion is sold at a price!! while crimes, corruption, murders are rampant.
+
+...
+
+[Data](articles/168ab7fa.json)
+
+---
+
+### The South Asian Enigma: Why We Die More & Die Early From Heart Disease
+
+*2024-03-19 09:47:34* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-south-asian-enigma-why-we-die-more-die-early-from-heart-disease/) · `en`
+
+Across all ethnicities, heart disease is a common threat, but South Asians seem to bear a particularly heavy burden, experiencing it disproportionately more and at a younger age. This vulnerability went largely unnoticed due to the lack of tracking systems and long-term observational studies. However, through the observation of South Asian migrants compared to native populations in Western countries and subsequent comparisons with those back home, we’ve uncovered the fact that we pose the highest vulnerability to heart disease.
+
+Fortunately, strides are being made. In 2010, the first large prospective population study began in the USA, The MASALA Study( the Mediators of Atherosclerosis in South Asians Living in America) initially focusing on professionals on the west coast but now including people from all walks of life on the East coast.
+
+...
+
+[Data](articles/a38a310b.json)
+
+---
+
 ### Special notice for schools yet to receive textbooks and uniform materials
 
 *2024-03-19 09:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98042/special-notice-for-schools-yet-to-receive-textbooks-and-uniform-materials) · `en`
@@ -2062,6 +2194,22 @@ The monk is said to say that the monk has been increased from a van with other m
 
 ---
 
+### Schools which have not received textbooks, uniforms urged to notify authorities
+
+*2024-03-19 09:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Schools-which-have-not-received-textbooks-uniforms-urged-to-notify-authorities/108-279141) · `en`
+
+Colombo, March 19 (Daily Mirror) - The Education Ministry today requested all school principals to inform them if their schools have not received school text books and uniform fabric for 2024 yet.
+
+While issuing a notice, the Ministry said that school text books and uniform fabric have been despatched to all government schools through Divisional Education Offices in the island for distribution to all schools.
+
+The Education Ministry requests the principals of any schools that have not received the their text books and uniforms to inform them immediately through the following telephone, fax or email.
+
+◼️
+
+[Data](articles/24c8f3d1.json)
+
+---
+
 ### Sri Lanka rupee opens at 303.90/304.05 to the US dollar
 
 *2024-03-19 09:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-303-90-304-05-to-the-us-dollar-155108/) · `en`
@@ -2097,193 +2245,5 @@ The Education Ministry requests the principals of any schools that have not rece
 [Data](articles/83c64ba8.json)
 
 [Extended Data](ext_articles/83c64ba8.ext.json)
-
----
-
-### The no-confidence debate against speaker begins
-
-*2024-03-19 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194666) · `si`
-
-The no-confidence debate against Speaker Mahinda Yapa Abeywardena starts today, from 9.30 am to 5.30 pm and 4.30 am to 4.30 am.
-
-🟩
-
-The Deputy Speaker has commenced the activities of the Hon.
-
-The debate on the no-confidence motion on the proposal against Speaker Mahinda Yapa Abeywardena today begins.
-
-The debate will be held from 9.30 am to 5.30 pm and 4.30 am to 4.30 am.
-
-◼️
-
-[Data](articles/67b8139c.json)
-
-[Extended Data](ext_articles/67b8139c.ext.json)
-
----
-
-### Still not found textbooks, uniforms fabrics?Immediately inform
-
-*2024-03-19 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194665) · `si`
-
-The Ministry of Education will distribute textbooks and uniform materials to all school children in 2024, with schools to be notified immediately if ineligible.
-
-🟩
-
-The Ministry of Education has taken measures to provide text books and uniform materials to all school children in the year 2024.
-
-The Ministry of Education has announced that the school school education offices of the country have already been completed to distribute to all schools.
-
-The Ministry of Education has informed the relevant principals to immediately notify the following schools / fax / email if a school is not eligible.
-
-◼️
-
-[Data](articles/675101b1.json)
-
-[Extended Data](ext_articles/675101b1.ext.json)
-
----
-
-### Annual transfers of health workers in Western Province temporarily halted
-
-*2024-03-19 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98041/annual-transfers-of-health-workers-in-western-province-temporarily-halted-) · `en`
-
-The annual transfers of health sector employees in the Western Provinces have been suspended by the Provincial Governor Air Vice Marshal Roshan Goonetileke.
-
-The decision to temporarily revoke the transfers was taken based on a directive given by the Urban Development and Housing Minister Prasanna Ranatunga who took into account the complaints by the hospital workers employed in the Western Province.
-
-They alleged that the annual transfers in the Western Province had been done in an irregular manner.
-
-◼️
-
-[Data](articles/db0f483d.json)
-
-[Extended Data](ext_articles/db0f483d.ext.json)
-
----
-
-### Kataragama main captain Devalaya is banned
-
-*2024-03-19 09:14:15* · [`adalk`](https://www.ada.lk/breaking_news/කතරගම-ප්‍රධාන-කපුවාට-දේවාලය-තහනම්/11-408687) · `si`
-
-Devalaya's main captain, Basnayake Nilame, suspended for alleged fraud. Two suspects arrested for theft of a golden disk.
-
-🟩
-
-Basnayake Nilame of the Devalaya of the Ruhunu Kataragama Devalaya has been suspended for the main Kapura of Ruhunu Maha Kataragama and the cotton of Kapu.
-
-An devotees to the temple were suspended regarding the allegations of a golden riding in a fraudulent manner in connection with the accusations of fraudulence disk.
-
-Basnayake has been suspended, according to the Basnayake, which operates the Ruhunu Maha Kataragama Devalaya, and / or / or indirectly and / or / or indirectly and / or / or indirect and / or / or indirectly and / or / or indirectly and / or / or indirect and / or / or indirectly prohibited on their duties.Mr. Dishan Gunasekara has informed the statement in writing.
-
-After an inspection conducted by the Criminal Investigation Department, the two suspects have been arrested and released on bail after an investigation into the abduction of the golden disk.
-
-...
-
-[Data](articles/b88806be.json)
-
-[Extended Data](ext_articles/b88806be.ext.json)
-
----
-
-### Don't make a little flower without any mistakes
-
-*2024-03-19 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194664) · `si`
-
-A woman from Pudukudirippu, Mullaitivu, is arrested for killing her newborn in Ilangollem. She was pregnant and gave birth three days ago. The police are investigating further.
-
-🟩
-
-A woman has been arrested on charges of assassinating a child who was born in an illicit child in the Ilangollem area in Visuamadu.
-
-A woman from Pudukudirippu police division in the Mullaitivu district, a woman living in the Ilangollem area of Ilangomune area in the Ilangomune area of the Ilangomune area of the Ilangopem area is pregnant.
-
-The woman had given birth to a child three days ago and killed the baby.
-
-The woman was informed to the Pudukudirippu Police while he was receiving treatment at the Kilinochchi Hospital while the police are arrested and conducting further investigations.
-
-Investigations are due to be conducted before a judge in the burial of the child today (19).
-
-◼️
-
-[Data](articles/82620f4c.json)
-
-[Extended Data](ext_articles/82620f4c.ext.json)
-
----
-
-### Retired forest restored to Test squad
-
-*2024-03-19 09:04:37* · [`adalk`](https://www.ada.lk/sports/විශ්‍රාම-ගත්-වනිඳු-යළිත්-ටෙස්ට්-සංචිතයට/9-408686) · `si`
-
-Thunderwide player Forest returns to Test squad for two matches against Bangladesh, starting 22nd. He had a three-year hiatus, collecting 196 runs and 4 wickets. Other notable inclusions are Angelo Mathews, Dinesh Chandimal, and Ramesh Mendis.
-
-🟩
-
-Thunderwide player forest at Test cricket has been summoned to Test squad again. He was included in the two-match Test squad, which is held with the Bangladesh.
-
-The first match is scheduled to commence on the 22nd. Angelo Mathews, Dinesh Chandimal and Ramesh Mendis have been called for this Test squad.
-
-It was well known as Thunu Hasaranga, a three-year-old stake in last year, he said he retires from the Test. He had collect 196 runs in four matches and 4 wickets.
-
-Sri Lanka Test squad: Dananjaya De Silva (leader), Kusal Mendis, Kamuth Karikwickra, Phirau Udara, Prabath Mendis, Nishan.Peiris, Kasun Rajitha, University of Kasun Rajitha, University Fernando, Lahiru Kumara and Chamika Gunasekera
-
-◼️
-
-[Data](articles/6ec57272.json)
-
-[Extended Data](ext_articles/6ec57272.ext.json)
-
----
-
-### No-confidence motion against Speaker: Two-day parliamentary debate begins today
-
-*2024-03-19 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98040/no-confidence-motion-against-speaker-two-day-parliamentary-debate-begins-today) · `en`
-
-The two-day parliamentary debate on the no-confidence motion against Speaker Mahinda Yapa Abeywardena will begin today (March 19).
-
-As decided at last week’s meeting of the Committee on Parliamentary Business chaired by Abeywardena, the debate, which is scheduled to commence at 9.30 a.m., will go on until 5.30 p.m. today.
-
-Meanwhile, the debate is slated to end at 4.30 p.m. tomorrow (March 20), with a vote on the no-confidence motion.
-
-The motion against the Speaker was handed over to the Deputy General Secretary of Parliament on 05 March. It had been signed by 44 parliamentarians including Opposition Leader Sajith Premadasa, Chief Opposition Whip Lakshman Kiriella and MPs Prof. G.L. Peiris, Rohini Kumari Wijeratne, Hesha Vithanage, Mano Ganesan, Rishad Bathiudeen, M.A. Sumanthiran, S.M. Marikkar, Ranjith Madduma Bandara, Thalatha Atukorale, Vijitha Herath and Chandima Weerakkody.
-
-...
-
-[Data](articles/8567b09e.json)
-
-[Extended Data](ext_articles/8567b09e.ext.json)
-
----
-
-### Cash-strapped Govt. to cough up additional Rs.11Bn if general election declared
-
-*2024-03-19 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cash-strapped-Govt-to-cough-up-additional-Rs-11Bn-if-general-election-declared/108-279127) · `en`
-
-Colombo, March 19 (Daily Mirror) - The cash-strapped government will have to cough up another Rs.11 billion in case a snap parliamentary election is declared ahead of the Presidential Election which is anyway due in terms of the Constitution during the last quarter of this year, Daily Mirror learns.
-
-This will be in addition to over Rs.10 billion already allocated to the Election Commission in the 2024 budget for the conduct of the Presidential Election.
-
-A spokesman for the Election Commission told Daily Mirror that money had not been allocated in the current budget for a General Election since it is not scheduled for this year. However, President Ranil Wickremesinghe has the discretion to dissolve Parliament at any time to call for a snap general election. Also, he is empowered to allocate money from the Consolidated Fund to conduct the general election if declared by him.
-
-...
-
-[Data](articles/c9c65c14.json)
-
-[Extended Data](ext_articles/c9c65c14.ext.json)
-
----
-
-### Higher education captured by Inequality Inc.?
-
-*2024-03-19 08:35:00* · [`islandlk`](http://island.lk/higher-education-captured-by-inequality-inc/) · `en`
-
-Global inequality is at an all time high. According to a recent Oxfam report (Inequality Inc. January 2024), the richest 1% of the world owns 43% of global assets; the world’s richest five men have doubled their wealth since the onset of the pandemic while five billion people have been made poorer. Ever-reducing wages (for workers), tax concessions and evasion (for/by corporates), and the privatization of public services has concentrated wealth and power in corporates, increasing their influence in every policy domain, says Oxfam.
-
-...
-
-[Data](articles/c181ee4e.json)
-
-[Extended Data](ext_articles/c181ee4e.ext.json)
 
 ---

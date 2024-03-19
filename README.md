@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-19 13:33:28**
+As of **2024-03-19 13:52:18**
 
 ## Newspaper Stats
 
-*Scraped **13,799** Articles*
+*Scraped **13,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,86 @@ newsfirstlk | 363
 economynextcom | 726
 dailyftlk | 727
 islandlk | 760
-adalk | 1,190
+adalk | 1,192
 adaderanalk | 1,660
-tamilmirrorlk | 1,677
+tamilmirrorlk | 1,678
 virakesarilk | 1,924
 dailymirrorlk | 2,110
-adaderanasinhalalk | 2,192
+adaderanasinhalalk | 2,195
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,794 (100.0%) of 13,799 articles have been extended.
+13,799 (100.0%) of 13,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-19 (Tuesday)
+
+### රජයෙන් ලොකු සහනයක්
+
+*2024-03-19 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194679) · `si`
+
+අඩු ආදායම්ලාභී පවුල් සඳහා සහල් කිලෝග්‍රෑම් 10ක් ලබා දීමේ වැසටහන සඳහා කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+දිස්ත්‍රික් ලේකම්වරුන් සහ දිසාපතිවරුන් හරහා හඳුනාගත් අඩු ආදායම්ලාභී පවුල් මිලියන 2.74ක් පමණ ආවරණය පරිදි මෙම වැඩසටහන ක්‍රියාත්මක කෙරේ.
+
+ඒ අනුව අදාළ පවුල් සඳහා සහල් කිලෝග්‍රෑම් 10ක් බැගින් මාස 2ක් සඳහා ලබාදීමට තීරණය කර තිබේ.
+
+සුළු හා මධ්‍ය පරිමාණ වී මෝල්හිමියන් සම්බන්ධ කර ගනිමින් මෙම වැඩසටහන ක්‍රියාත්මක කිරීමට තීරණය කර ඇත.
+
+හඳුනාගත් අඩු ආදායම්ලාභීන්ගේ පෝෂණ මට්ටම පවත්වාගෙන යාමට උපකාරයක් වශයෙන් මෙම වැඩසටහන ක්‍රියාත්මක කිරීමට තීරණය කර ඇත.
+
+◼️
+
+[Data](articles/1adba8f9.json)
+
+---
+
+### ஆசிரியையை வெட்டிய ஆசிரியை கைது
+
+*2024-03-19 13:20:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஆசிரியையை-வெட்டிய-ஆசிரியை-கைது/76-334879) · `ta`
+
+பாடசாலை ஆசிரியை ஒருவரை கத்தியால் வெட்டி காயப்படுத்திய குற்றச்சாட்டில் சந்தேகத்தின் பேரில் மற்றுமொரு பாடசாலை ஆசிரியை கடந்த 19ஆம் திகதி கைது செய்யப்பட்டதாக பதுளை பொலிஸார் தெரிவித்தனர்.
+
+காயமடைந்த 44 வயதுடைய ஆசிரியை பதுளை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும், அவரது கால் மற்றும் கைகளில் வெட்டுக்காயங்கள் உள்ளது என பதுளை போதனா வைத்தியசாலையின் வைத்தியர் ஒருவர் தெரிவித்தார்.
+
+சந்தேகத்திற்குரிய 45 வயதுடைய ஆசிரியையிடம் இருந்து கத்தி ஒன்றும் கைப்பற்றப்பட்டுள்ளது என பொலிஸார் குறிப்பிட்டுள்ளனர்.
+
+இவ்விரு ஆசிரியைகளும் இரு பாடசாலைகளில் பணியாற்றும் நண்பிகள் எனவும், இருவருக்கும் இடையில் ஏற்பட்ட கருத்து வேறுபாடு காரணமாக சந்தேகநபர் கடந்த 18ஆம் திகதி அவரது வீட்டுக்குச் சென்று இவ்வாறு குற்றம் புரிந்துள்ளதாக அறியமுடிகின்றது.
+
+பிரதேசவாசிகள் சந்தேக நபரை பிடித்து 119 என்ற பொலிஸ் அவசர இலக்கத்திற்கு அறிவித்து பொலிஸாரிடம் ஒப்படைத்துள்ளதாக பொலிஸார் தெரிவித்தனர். தனிப்பட்ட பிரச்சினையே இந்த குற்றத்திற்கு காரணம் எனவும் தெரியவந்துள்ளது என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/3677de92.json)
+
+---
+
+### පාතාලය සලිත කළ අලුත්ම නියෝගය
+
+*2024-03-19 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194678) · `si`
+
+බස්නාහිර සහ දකුණු පළාත කේන්ද්‍ර කරගනිමින් සිදුවන පාතාල ක්‍රියාකාරකම් මර්දනය කිරීම සඳහා විශේෂ පොලිස් කණ්ඩායම් 20ක් පිහිටුවීම අද සිදුකළේය.
+
+ඒ් යුක්තිය මෙහෙයුමට සමගාමීව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ උපදෙස් පරිදිය.
+
+පසුගිය කාලයේදී බස්නාහිර සහ දකුණු පළාත් කේන්ද්‍ර කරගනිමින් පාතාල ක්‍රියාකාරකම් රැසක් සිදු වූ අතර මනුෂ්‍ය ඝාතනය රැසක් ද වාර්තා වුණි .
+
+පොලිස් විශේෂ කාර්ය බලකාගේ අණදෙන නිලධාරීන් ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති වරුණ ජයසුන්දර මහතාගේ සෘජු අධීක්ෂණය යටතේ මෙම කණ්ඩායම් ක්‍රියාත්මක වෙයි.
+
+මෙම අලුතින් පිහිටුවන කණ්ඩායම් 20 යොදවා මේවනවිට ක්‍රියාත්මක එක් එක් පාතාල කණ්ඩායම් වල ක්‍රියාකාරකම් මැඩලීම සදහා කටයුතු කරනු ලබයි.
+
+ඒ සෑම කණ්ඩායමක් සඳහාම අපරාධ අංශ ස්ථානාධිපතිවරයෙක්, බුද්ධි නිළධාරීන් 04 ක්, විශේෂ කාර්ය බලකා නිළධාරීන් 02 ක් ඇතුළු නිළධාරීන් 09 කගෙන් සමන්විත අතර ජීප් රථයක් ද මේ සමග යොදවා තිබීම විශේෂත්වයකි.
+
+පසුගිය සති කිහිපය තුළ බස්නාහිර සහ දකුණු පළාත කේන්ද්‍ර කර ගනිමින් සිදුවු පාතාල ක්‍රියාකාරකම් පිළිබඳ සැලකිල්ලට ගනිමින් පොලිස්පතිවරයා විසින් මෙම තීරණය ගෙන ඇති බව වැඩිදුරටත් පොලිස් මූලස්ථානය සදහන් කළේය.
+
+...
+
+[Data](articles/4c226774.json)
+
+---
 
 ### Cricket Australia postpones Afghan T20 series
 
@@ -50,6 +114,34 @@ In early 2023, CA withdrew from a three-match ODI series due to be played in the
 
 [Data](articles/0671883b.json)
 
+[Extended Data](ext_articles/0671883b.ext.json)
+
+---
+
+### සුරතල් සතුන්ගේ ජීවිතයට උණුසුම් කාලගුණයෙන් දැඩි බලපෑම්
+
+*2024-03-19 13:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194677) · `si`
+
+අධික උණුසුම් සහිත කාලගුණය හේතුවෙන් නිවෙස් තුළ ඇතිකරන සුරතල් සතුන් සත්ව ආඝාතයට පත්වීමේ අවදානමක් පවතින බව සත්වවේදීන් පෙන්වා දෙයි.
+
+ඊයේ (18) දිනයේත් දිවයිනේ වැඩිම උෂ්ණත්වය කුරුණෑගලින් වාර්තාවූ අතර එය සෙල්සියල් අංශක 38.5කි.
+
+1884 වසරෙන් පසු ගෝලීය වශයෙන් වැඩිම උෂ්ණත්වයක් වාර්තාවූ වසර 10 පසුගිය දශක දෙක ඇතුළත වාර්තාවී තිබේ.
+
+ගෝලීයව සිදුවන පාරිසරික හානිය මෙලෙස උෂ්ණත්වය ඉහළ යාමට සෘජුවම බලපා ඇති බව පරිසරවේදීන් පෙන්වා දෙයි.
+
+මෙලෙස පාරිසරික උස්ණත්වය ඉහළ යාමෙන් වීදි සුනඛයින් ,ගෘහාශ්‍රිත සුරතල් සතුන් මෙන්ම වනජීවීන්ද දැඩි බලපෑමට ලක්ව තිබේ.
+
+නිවෙස්තුළ ඇතිකරන සුනඛයින්, බළලුන් වැනි සතුන් අධික උණුසුම හේතුවෙන් තාප ආඝාතය තත්ත්වයට පත්වීමේ අවදානමක් පවතින බව සත්වවේදීන් පෙන්වා දෙයි.
+
+සුරතල් සතුන්ගේ ශරීරයේ උෂ්ණත්වය පාලනය කිරීම සඳහා දිනකට දෙතුන්වරක් නැහැවීම මෙන්ම සතුන් වෙනුවෙන් ජල බඳුනක් වෙන්කර තැබීම වඩාත් සුදුසු බව පශු වෛද්‍යවරුන් පවසයි.
+
+එමෙන්ම සුරතල් සතුන් දිවා කාලයේ වාහනතුළ රඳවා යාම දැඩි අවදානම් වන්නේ විනාඩි 20ක් වැනි කෙටි කාලයක් තුළ වාහන තුළ පවතින උෂ්ණත්වය දැඩිලෙස ඉහළයාම හේතුවෙනි.
+
+...
+
+[Data](articles/cbaac7ff.json)
+
 ---
 
 ### AKD, Japanese envoy discuss Sri Lanka’s economic situation and upcoming prez poll
@@ -68,6 +160,8 @@ Taking to his X handle (formerly Twitter), the NPP leader said the focus of the 
 
 [Data](articles/b02bdafc.json)
 
+[Extended Data](ext_articles/b02bdafc.ext.json)
+
 ---
 
 ### Central Bank has no powers to increase salaries without Parliament approval: Wijeyadasa
@@ -83,6 +177,8 @@ The Minister said the claim by the Central Bank that it has the independence to 
 ...
 
 [Data](articles/e9645b60.json)
+
+[Extended Data](ext_articles/e9645b60.ext.json)
 
 ---
 
@@ -190,6 +286,24 @@ Basil Rajapaksa claimed that even Namal had bought the book from a bookshop. The
 
 ---
 
+### පවුල් මිලියන 2.7ක් වෙනුවෙන් ජනපතිගෙන් හාල් කිලෝ 20ක්
+
+*2024-03-19 12:43:39* · [`adalk`](https://www.ada.lk/breaking_news/පවුල්-මිලියන-2-7ක්-වෙනුවෙන්-ජනපතිගෙන්-හාල්-කිලෝ-20ක්/11-408697) · `si`
+
+දිස්ත්‍රික්ක 25ක පවුල්හි මිලියන මිලියන 2.74ක පමණ ප්‍රමාණයක් ආවරණය වන පරිදි එක් පවුලක් සදහා මාසයකට නාඩු සහල් කිලෝග්‍රෑම් 10 බැගින් මාස දෙකක කාලයක් සඳහා ලබාදීමට ජනපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කළ කැබිනට් පත්‍රිකාවකට අනුමැතිය ලැබී තිබේ.
+
+මෙම වැඩසටහන පසුගිය වසරේ මුල් භාගයේදීද ක්‍රියාත්මක කෙරිණි. සමෘද්ධි ප්‍රතිලාභීන් ඇතුළු අඩු ආදායම් ලාභීන් ආවරණය වන පරිදි මෙම ව්‍යාපෘතිය ක්‍රියාත්මක කෙරිණි.
+
+ඒ අනූව සුළු හා මධ්‍ය පරිමාණ වී මොල් හිමියන් සම්බන්ධ කරගනිමින් දිස්ත්‍රික් ලේකම්වරුන්/ දිසාපතිවරුන් හරහා අඩු ආදායම්ලාභී පවුල් ආවරණය වන පරිදි මෙම ව්‍යාපෘතිය ක්‍රියාත්මක කිරීමට නියමිතය.
+
+හදුනාගත් අඩු ආදායම්ලාභීන්ගේ පෝෂණ මට්ටම පවත්වාගෙන යාමද මෙම ව්‍යාපෘතියේ අරමුණක් වෙයි.
+
+◼️
+
+[Data](articles/e7359ee4.json)
+
+---
+
 ### Eheliyagoda emerges from cattle in English
 
 *2024-03-19 12:34:53* · [`adalk`](https://www.ada.lk/breaking_news/ඉංගිරියේ-ගවයින්-ඇහැළියගොඩින්-මතුවෙයි/11-408696) · `si`
@@ -247,6 +361,8 @@ A special operation under the 'Yukthiya' initiative was launched today and Inspe
 ◼️
 
 [Data](articles/138dfbeb.json)
+
+[Extended Data](ext_articles/138dfbeb.ext.json)
 
 ---
 
@@ -871,6 +987,24 @@ The OIC Chief Inspector Thilak Samaranayake, Chief Inspector Thilak Samaranayake
 [Data](articles/3e125a96.json)
 
 [Extended Data](ext_articles/3e125a96.ext.json)
+
+---
+
+### ගෝඨාගේ හිටපු උපදේශකයෙක් හෙරොයින් සමග අත්අඩංගුවට
+
+*2024-03-19 10:42:51* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාගේ-හිටපු-උපදේශකයෙක්-හෙරොයින්-සමග-අත්අඩංගුවට/11-408691) · `si`
+
+ශ්‍රී ලංකා යුද හමුදාවේ කොමන්ඩෝ බළකායේ ලාන්ස් කෝප්‍රල්වරයෙකු වශයෙන් කටයුතු කළ හිටපු සොල්දාදුවෙකු, හෙරොයින් මත්කුඩු ග්‍රෑම් දෙකක් සමග සැකපිට අත්අඩංගුවට ගත් බව මහනුවර කොට්ඨාස අපරාධ විමර්ශන ඒකකය කියයි.
+
+හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාගේ ශාරීරික ව්‍යායාම උපදේශකයෙකු වශයෙන් කටයුතු කරමින් හිටපු ජනාධිපතිවරයා සමග සමීපව සිට ඇති මෙම සැකකරු, ජනාධිපතිවරයා ධුරයෙන් ඉවත් වීමෙන් පසු යුද හමුදාවෙන් ඉවත් වී ඇති බවද පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+යහලතන්න, නෙල්ලිගල ප්‍රදේශයේ පදිංචිකරුවෙකු වන මෙම සැකකරු 35 හැවිරිදි දෙදරු පියෙකි. අදාළ සැකකරු හෙරොයින් මත්කුඩු ජාවාරම් කරන බවට පොලීසියට ලද තොරතුරකට අනුව ඔහුගේ නිවස පරීක්ෂා කිරීමේදී හෙරොයින් මත්කුඩු සමග සැකකරු අත්අඩංගුවට ගත් බව පොලීසිය කියයි.
+
+සැකකරු යුද හමුදාවෙන් ඉවත්වීමෙන් පසු දෙමටගොඩ ප්‍රදේශයේ පෞද්ගලික ආයතනයක සේවය කරමින් සිටින අතරතුර සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයන්ගේ ඇසුරට පත්වීමෙන් පසු ඔහු හෙරොයින් මත්කුඩු ජාවාරමට යොමු වී ඇති අතර, හෙරොයින් මත්කුඩු භාවිතයටද ඇබ්බැහි වී ඇති බව පොලිස් විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+...
+
+[Data](articles/c4cdcfe6.json)
 
 ---
 
@@ -1664,27 +1798,35 @@ He stated that according to the country's constitution, the presidential electio
 
 ---
 
-### මහින්ද යාපා අබේවර්ධන: ශ්‍රී ලංකාවේ කතානායකවරුන්ට එරෙහි විශ්වාසභංග යෝජනාවලට මෙතෙක් සිදුවූ දේ
+### Mahinda Yapa Abeywardena: What happened to the no-confidence motion against the Speaker of Sri Lanka
 
 *2024-03-19 07:10:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cmmq8q32d7no) · `si`
 
-මහින්ද යාපා අබේවර්ධන: ශ්‍රී ලංකාවේ කතානායකවරුන්ට එරෙහි විශ්වාසභංග යෝජනාවලට මෙතෙක් සිදුවූ දේ
+The no-confidence motion against Speaker Mahinda Yapa Abeywardena in Sri Lanka's Parliament began on March 19, debated on March 14, and continued on March 20 and 21. It's the fifth motion against a Speaker, with no previous success. The motion was against the Annal Defense Bill and the IGP's appointment.
 
-කතානායක මහින්ද යාපා අබේවර්ධනට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ පාර්ලිමේන්තු විවාදය අඟහරුවාදා (මාර්තු 19) ආරම්භ විය.
+🟩
 
-මාර්ගගත ආරක්ෂණ කෙටුම්පත සහ පොලිස්පතිවරයා පත්කිරීමේදී කතානායකවරයා පක්ෂපාතී ආකාරයට කටයුතු කළ බවට චෝදනා කරමින් මෙම විශ්වාසභංග යෝජනාව පාර්ලිමේන්තුවට ඉදිරිපත් කරනු ලැබුවේ, සමගි ජන බලවේගය විසිනි.
+Mahinda Yapa Abeywardena: What happened to the no-confidence motion against the Speaker of Sri Lanka
 
-මෙම විශ්වාසභංග යෝජනාව විවාදයට ගැනීම මාර්තු 14 වන දා දින නියම කරනු ලැබුවේ ද, කතානායකවරයාගේ ප්‍රධානත්වයෙන් පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී ම ය.
+The Parliamentary Debate on the no-confidence motion against Speaker Mahinda Yapa Abeywardena commenced on Tuesday (March 19).
 
-මේ අනුව, මාර්තු 19 වන අඟහරුවාදා පෙ.ව. 9.30 සිට ප.ව. 5.30 දක්වා ද, 20 වන බදාදා පෙ.ව. 9.30 සිට ප.ව. 4.30 දක්වා ද විවාදය පැවැත්වීමට නියමිතව තිබිණි.
+The no-confidence motion was presented to Parliament, accusing the Annal Defense Bill and the IGP in the appointment of the IGP.
 
-විවාදයේ දෙවන දිනය වන 20 වන බදාදා ප.ව 4.30ට පමණ විශ්වාසභංග යෝජනාවට අදාළ ඡන්ද විමසීම පැවත්වීමට තීරණය කර තිබුණ ද, අද දිනයේ එහි යම් වෙනසක් සිදුවිය.
+The no-confidence motion was debated on March 14 at the Committee on Parliamentary Affairs chaired by the Speaker.
 
-අද පැවති පාර්ලිමේන්තු කටයුතු පිළිබඳ කාරක සභාවේදී තීරණය කළේ, විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය 21 වන බ්‍රහස්පතින්දා දිනයේදීත් පැවැත්වීමට ය.
+Thus, on Tuesday, March 19. From 9.30 pm. At 5.30 pm, on Wednesday 20. From 9.30 pm. The debate was to be held until 4.30 pm.
+
+On Wednesday, the second day of the debate, had decided to hold the voting for the no-confidential resolution, but today there was a change.
+
+The comment on the Committee on Parliamentary Affairs was held on Thursday 21st.
+
+The no-confidential proposal to debate against Naka Abeywardena is the fifth notion proposal against a Speaker of Sri Lanka.
 
 ...
 
 [Data](articles/347ecae0.json)
+
+[Extended Data](ext_articles/347ecae0.ext.json)
 
 ---
 
@@ -2093,145 +2235,5 @@ However, he also expressed that if invited by all parties supporting the allianc
 [Data](articles/56858509.json)
 
 [Extended Data](ext_articles/56858509.ext.json)
-
----
-
-### Tamil actors Radhika and Sarath Kumar merge party with Modi
-
-*2024-03-19 02:02:06* · [`dailyftlk`](https://www.ft.lk/news/Tamil-actors-Radhika-and-Sarath-Kumar-merge-party-with-Modi/56-759672) · `en`
-
-Ahead of the Lok Sabha polls, veteran Tamil actor R. Sarath Kumar and his wife Radhika on Tuesday merged their Akila Indiya Samathuva Makkal Katchi (AISMK) with the BJP.
-
-In the presence of AISMK office-bearers and BJP Tamil Nadu Unit President K. Annamalai, Kumar merged his party with the saffron party.
-
-Betting on the leadership of Prime Minister Narendra Modi, Kumar, addressing his party workers here, said Modiji would helm the nation further, towards fostering unity and nurture economic growth.
-
-Ending the scourge of drugs and ensuring the welfare of the youths is bright under Modi’s leadership, he said.
-
-Radhika Sarathkumar is the daughter of actor M.R. Radha and Geetha. Her father is from Chennai and her mother is a Sri Lankan Tamil.
-
-She joined before the 2006 Assembly elections to join the AIADMK along with her husband R. Sarathkumar. She was dismissed from AIADMK for anti-party activities. She became the Vice President of All India Samathuva Makkal Katchi.
-
-...
-
-[Data](articles/e1273671.json)
-
-[Extended Data](ext_articles/e1273671.ext.json)
-
----
-
-### Special raid
-
-*2024-03-19 02:00:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-சுற்றிவளைப்பு-நடவடிக்கை/175-334844) · `ta`
-
-Tran Ales, Public Security Minister, announced a special raid carried out efficiently to curb planned crime in the Southern Province.
-
-🟩
-
-Public Security Minister Tran Ales said the roundup was carried out with maximum efficiency.
-
-The move is aimed at curbing planned crime in the Southern Province. (A)
-
-◼️
-
-[Data](articles/316b9c8a.json)
-
-[Extended Data](ext_articles/316b9c8a.ext.json)
-
----
-
-### Three senior experienced in the Sri Lankan Test group;Nishan Peiris as a debutant
-
-*2024-03-19 01:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179083) · `ta`
-
-The Sri Lankan Test team for the 2-match series against Bangladesh includes experienced leaders Angelo Mathews, Dinesh Chandimal, and Timuth Karunaratne, debutant Nishan Peiris, and Wanindu Hasaranga. Hazaranga, with 4 Tests, is part of the squad led by Tanjaya de Silva. Nishan Madushka, with 6 matches and 444 runs, continues with Dimuth Karunaratne.
-
-🟩
-
-Former team leaders Angelo Mathews, Dinesh Chandimal and Timuth Karunaratne have been named in the Sri Lankan team for the two -match Test series against Bangladesh.
-
-Hazaranga has been given the opportunity to bowl in the Sri Lankan group, which is head of Tanjaya de Silva.
-
-Wanindu Hasaranga, who played only four Tests, played in the last Test against Bangladesh in 2021.
-
-As well as the debutant, the right -hand spinner Nishan Peiris has been named in the group. Nishan Peiris, a former player of St. Peter's College, Negombo, has taken 153 wickets in 37 matches in first -class local cricket.
-
-But it remains to be seen whether he will have a chance in the final team.
-
-Nishan Madushka will continue to play with Dimuth Karunaratne's initial pair. Nishan Madushka, who has played in 6 matches, has scored 444 runs, including a century and a half century.
-
-...
-
-[Data](articles/258cea90.json)
-
-[Extended Data](ext_articles/258cea90.ext.json)
-
----
-
-### The Edka Agreement will be signed only after the Indian general election - Udaya Kammanpila
-
-*2024-03-19 01:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/179082) · `ta`
-
-The Edka Agreement with India will be signed post-election, raising concerns about its impact on Sri Lanka. Udaya Kammanpila, PTA leader, advocates for public disclosure of the agreement's terms. Critics argue that Sri Lanka's foreign trade policies need reform, citing the lack of transparency and potential negative impacts from previous agreements.
-
-🟩
-
-The government intends to sign the Edka Agreement with India after the Indian general election. It is doubtful whether the Edka Agreement will take advantage of Sri Lanka. Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya Party (PTA), said that the content of the contract should be publicly made to the people.
-
-He made this statement during a media briefing held at the office of the Pivithuru Hela Urumaya (JHU) office in Colombo on Monday (18).
-
-The Edka Agreement between Sri Lanka and India has been reported to be signed this month. The government intends to sign the Edka Agreement after the Indian general election.
-
-No formal methods are currently being followed when the contracts with overseas are signed.
-
-The first Sri Lanka should be forming foreign trade contract policies. When the Independent Trade Agreement with Singapore in 2016, the government did not note it. The government did not note it.If you go, there will be negative impacts.
-
-...
-
-[Data](articles/7cbaead5.json)
-
-[Extended Data](ext_articles/7cbaead5.ext.json)
-
----
-
-### Module Teaching Hospital Cancer Division Radiation Machine Repair Patients Struggle Against Hospital Administration
-
-*2024-03-19 01:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179081) · `ta`
-
-Patients at Batticaloa Teaching Hospital's Cancer Division accuse hospital of negligence due to frequent radiation machine breakdowns, forcing patients from Trincomalee, Ampara, and other areas to wait days for treatment. Hospital administration, led by Dr. Ganesalingam, has addressed this by hiring a technical officer for Jaffna and Batticaloa to ensure machine availability.
-
-🟩
-
-Patients who went to the hospital for treatment at the Batticaloa Teaching Hospital Cancer Division gathered in front of the hospital on Monday morning (18), accusing the hospital of the hospital.
-
-It is customary for more patients to treat the disease from Trincomalee, Ampara and other parts of the country for the treatment of the hospital.
-
-In this case, the radiation engine is often damaged and the person who is not here is unable to get treatment on the day since it is not here from Jaffna or Colombo.
-
-As a result, the hospital has to go to the hospital in the morning and wait till night and get treated for the night.
-
-Therefore, the machine should have been appointed here as the machine is often damaged and the patients have to wait until the engineer is dark or three days later.
-
-Therefore, the hospital administration focused on this and obtained a solution to this.
-
-...
-
-[Data](articles/0fb37ce4.json)
-
-[Extended Data](ext_articles/0fb37ce4.ext.json)
-
----
-
-### Inclusion Includes Women
-
-*2024-03-19 01:30:23* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/inclusion-includes-women/) · `en`
-
-President Ranil Wickremesinghe has announced that the government has enacted 42 new laws in the past 4 months, with another 62 in the pipeline, all aimed at catalyzing the country’s economic transformation. Among these are two draft laws related to women’s rights, designed to promote gender equality and empower women. These laws are slated for presentation to parliament in May. The proposed Women’s Empowerment Act envisages the establishment of a separate women’s commission. The primary objective of this commission will be to facilitate the advancement and empowerment of women by implementing mechanisms to protect their rights, all under constitutional provisions.
-
-...
-
-[Data](articles/a6e04c52.json)
-
-[Extended Data](ext_articles/a6e04c52.ext.json)
 
 ---

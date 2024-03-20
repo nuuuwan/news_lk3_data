@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 07:16:13**
+As of **2024-03-20 07:53:55**
 
 ## Newspaper Stats
 
-*Scraped **13,971** Articles*
+*Scraped **13,977** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,44 +13,148 @@ bbccomsinhala | 153
 dbsjeyarajcom | 190
 newsfirstlk | 363
 dailyftlk | 734
-economynextcom | 742
+economynextcom | 743
 islandlk | 770
 adalk | 1,206
-adaderanalk | 1,678
-tamilmirrorlk | 1,693
+adaderanalk | 1,680
+tamilmirrorlk | 1,694
 virakesarilk | 1,957
-dailymirrorlk | 2,132
-adaderanasinhalalk | 2,222
+dailymirrorlk | 2,133
+adaderanasinhalalk | 2,223
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,961 (99.9%) of 13,971 articles have been extended.
+13,974 (100.0%) of 13,977 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### මුහුදුබඩ මාර්ගයේ දුම්රිය ධාවනයට තවදුරටත් බාධා - දුම්රිය කිහිපයක් අවලංගු කෙරේ
+### Temporary change in prevailing dry weather expected after today
+
+*2024-03-20 07:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98067/temporary-change-in-prevailing-dry-weather-expected-after-today) · `en`
+
+The Department of Meteorology says a temporary change in the prevailing dry weather conditions in the island, especially in the southern half, can be expected after today (20).
+
+Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Nuwara-Eliya, Galle and Matara districts in the evening or night.
+
+Misty conditions can be expected at some places in Sabaragamuwa and Central provinces and in Galle and Kalutara districts during the morning.
+
+◼️
+
+[Data](articles/82850246.json)
+
+---
+
+### සජබ කෘත්‍යාධිකාරී මණ්ඩලයෙන් තීරණයක්
+
+*2024-03-20 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194710) · `si`
+
+ඉදිරියේදී පැවැත්වෙන ඕනෑම මැතිවරණයකට ශක්තිමත්ව මුහුණදීම සඳහා පුළුල් වැඩසටහනක් ක්‍රියාත්මක කිරීමට සමඟි ජන බලවේගයේ කෘත්‍යාධිකාරී මණ්ඩලය තීරණය කර තිබේ.
+
+ඊයේ (19) පස්වරුවේ රැස්වූ සමඟිජන බලවේගයේ කෘත්‍යාධිකාරී මණ්ඩලය මෙම තීරණය ගෙන ඇති බව වාර්තා වේ.
+
+කෘත්‍යාධිකාරී මණ්ඩල රැස්වීමෙන් අනතුරු මාධ්‍ය වෙත අදහස් දැක්වූ සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ජේ. සී අගවතුවල මහතා,
+
+"මේ වසරේ නියමිත වෙලා තියෙන්නේ ජනාධිපතිවරණය. කෘත්‍යාධිකාරී මණ්ඩලය අපි සාකච්ඡා කළා එන ඕනෙම මැතිවරණයකට මුහුණදෙනවා. අපි ඊළඟ ආණ්ඩුව ගන්න ජයග්‍රහණය කරා ගෙනියනවා. ඒ සඳහා කෘත්‍යාධිකාරී මණ්ඩලයේ සෑමදෙනාම එකඟ වුණා තියෙන ඕනෑම මැතිවරණයකට ඉතාම ශක්තිමත්ම මුහුණදෙන්න. මේ වෙනකොටත් විපක්ෂයක් හැටියට සමගි ජන බලවේගය ඡන්ද පදනම ගත්තාහම ඉහළින්ම තියෙන පක්ෂය බවට සමීක්ෂණවලින් පැහැදිලි වෙලා තියෙනවා. ගමින් ගමට යන වැඩසටහන්වලින් අපි දැක්කා‍, පොදුජන පෙරමුණේ හිටිය සහ ජනතා විමුක්ති පෙරමුණට ඉන්න අයත් අපිත් එක්ක අත්වැල් බැඳගන්නවා. අපිට පැහැදිලියි දැන් රැල්ල ගහලා තියෙන්නේ අපිට."
+
+ෆීල්ඩ් මාෂල් සරත් ෆොන්සේකා මහතාද කෘත්‍යාධිකාරී මණ්ඩල රැස්වීමට සහභාගී වී තිබේ.
+
+...
+
+[Data](articles/4622a80e.json)
+
+---
+
+### Sri.Lanka says foreign research ships allowed for replenishment after Chinese protest
+
+*2024-03-20 07:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-says-foreign-research-ships-allowed-for-replenishment-after-chinese-protest-155278/) · `en`
+
+ECONOMYNEXT – Sri Lanka will allow offshore research ships for replenishments at the island nation ports despite a one-year ban on such vessels, Foreign Ministry Spokesman said amid strong protest by China over the island nation allowing a German research vessel.
+
+This is the first time Sri Lanka has officially admitted that foreign research vessels will be allowed for replenishments since President Ranil Wickremesinghe’s government imposed a one year ban on offshore research vessels in December last year.
+
+“The ban on foreign ships is for research purposes, not on replenishment”, Niluka Kadurugamuwa, Sri Lakna’s Foreign Ministry Spokesman told EconomyNext.
+
+“There was a German research vessel recently for replenishment and Sri Lanka allowed it.”
+
+Chinese Embassy in Colombo has raised strong protest against the move to allow a German research vessel early this month following the island nation’s authorities turned down a Beijing request for a research vessel in February.
+
+...
+
+[Data](articles/2d8de8eb.json)
+
+[Extended Data](ext_articles/2d8de8eb.ext.json)
+
+---
+
+### Coastal Line trains experiencing further delays and cancellations
+
+*2024-03-20 06:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98066/coastal-line-trains-experiencing-further-delays-and-cancellations-) · `en`
+
+Trains operating on the Coastal Line are experiencing further disruption due to the derailment which took place last night, the Railway Department says.
+
+Accordingly, train delays and cancellations on the Coastal Line are expected to last at least until 7.00 am today (March 20).
+
+A Kalutara South-bound train had derailed near the Secretariat Station yesterday shortly after departing the Colombo Fort station at 7.15 p.m.
+
+◼️
+
+[Data](articles/cb277052.json)
+
+[Extended Data](ext_articles/cb277052.ext.json)
+
+---
+
+### Train to train on the coastal route further obstacles - several trains canceled
 
 *2024-03-20 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194708) · `si`
 
-කොළඹ කොටුව දුම්රිය ස්ථානය ආසන්නයේදී සිදුවූ දුම්රිය පීලිපැනීම හේතුවෙන් මුහුදුබඩ මාර්ගයේ දුම්රිය ධාවනයට තවදුරටත් බාධා එල්ල වී තිබේ.
+The railway line near Colombo Fort has disrupted coastal route trains, canceling four, including the Galle Postal Train. Services are now limited to Colombo only.
 
-දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේ, කොළඹ කොටුවේ සිට දකුණු කළුතර බලා ඊයේ (19) රාත්‍රී 7.15 පමණ ධාවන වූ සීඝ්‍රගාමී දුම්රිය කොටුව හා කොම්පඤ්ඤ වීදිය දුම්රිය ස්ථාන අතරදී පීලිපැනීමට ලක්ව ඇති බවය.
+🟩
 
-මේ හේතුවෙන් මුහුදු බඩ මාර්ගයේ මාර්ග දෙකම අවහිර වී ඇති අතර දුම්රිය පීලිගත කිරීමේ කටයුතු තවදුරටත් සිදුකරමින් සිටින බව දුම්රිය දෙපාර්තමේන්තුවේ නියෝජ්‍ය සාමාන්‍යාධිකාරී එන්. ජේ ඉඳිපොලගේ මහතා සඳහන් කළේය.
+The railway line near Colombo Fort Railway Station has further disrupted the railway line.
 
-දුම්රිය පීලිපැනීම හේතුවෙන් ඊයේ රාත්‍රී ගාල්ල තැපැල් දුම්රිය ඇතුළු දුම්රිය ගමන්වාර 4ක් අවලංගු කර තිබේ.
+The Railway Department said that the deals were held at the Colombo Fort to Kalutara Fort to 7.15 pm yesterday (19th).
 
-අද (20) උදෑසන කොළඹ දක්වා ධාවන වන දුම්රියන් මහලේකම් කාර්යාල දුම්රිය ස්ථානය දක්වා පමණක් ධාවනය වන අතර කොළඹ සිට ධාවන වන දුම්රියන් ප්‍රමාද වී ධාවනය කරන බව දුම්රිය දෙපාර්තමේනතුව සඳහන් කළේය.
+Due to this, both roads along the coastal route have been blocked and the train is still being carried out, the Deputy General Manager of the Railway Department. He added.
 
-උදෑසන 7.00 පමණ වන විට එක් දුම්රිය මාර්ගයක ධාවන කටයුතු සිදුකිරීමට හැකි වනු ඇති බව නියෝජ්‍ය සාමාන්‍යාධිකාරී එන්. ජේ ඉඳිපොලගේ මහතා සඳහන් කළේය.
+Four trains, including Galle Postal Train, has been canceled last night due to the railway line.
+
+Running train services from Colombo today (20) runs to Colombo alone and will be operated from Colombo to the Department of Railway Departments.
+
+Deputy General Manager N.S.. He added.
 
 ◼️
 
 [Data](articles/8e812f75.json)
+
+[Extended Data](ext_articles/8e812f75.ext.json)
+
+---
+
+### Many hospitals in China stop newborn delivery services as birth rate drops
+
+*2024-03-20 06:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Many-hospitals-in-China-stop-newborn-delivery-services-as-birth-rate-drops/108-279196) · `en`
+
+HONG KONG, March 20 (Reuters) - Many hospitals in China have stopped offering newborn delivery services this year, state-backed news outlet Daily Economic News reported, with industry experts warning of an "obstetric winter" due to declining demand amid a record drop in new births.
+
+Hospitals in various provinces including in eastern Zhejiang and southern Jiangxi have in the past two months announced that they will close their obstetric departments, according to notices viewed by Reuters.
+
+The Fifth People's Hospital of Ganzhou City in Jiangxi said on its official WeChat account that obstetric services would be suspended from March 11.
+
+Zhejiang's Jiangshan Hospital of Traditional Medicine announced on its WeChat page that its obstetrics business would stop from Feb. 1.
+
+The closures come as Chinese policymakers grapple with how to boost young couples' desire to have children as authorities face a growing demographic headache of a rapidly ageing society.
+
+...
+
+[Data](articles/f0e80b8f.json)
+
+[Extended Data](ext_articles/f0e80b8f.ext.json)
 
 ---
 
@@ -90,6 +194,8 @@ With the global palm oil shortage, due to drought conditions in palm oil produci
 
 [Data](articles/391e6d33.json)
 
+[Extended Data](ext_articles/391e6d33.ext.json)
+
 ---
 
 ### Seylan Bank Continues Partnership with Kedalla Construction Expo 2024 as Title Partner for 12th Consecutive Year
@@ -104,6 +210,8 @@ Seylan Bank, with its comprehensive range of banking products and services, will
 
 [Data](articles/6471ac53.json)
 
+[Extended Data](ext_articles/6471ac53.ext.json)
+
 ---
 
 ### Growing Together: Sarvodaya Development Finance’s Pledge to Elevate Sri Lanka’s Agriculture Sector
@@ -117,6 +225,8 @@ In an impressive achievement, SDF’s agri portfolio has surged beyond LKR 4 bil
 ...
 
 [Data](articles/ed53a7f1.json)
+
+[Extended Data](ext_articles/ed53a7f1.ext.json)
 
 ---
 
@@ -143,6 +253,22 @@ Sysco LABS Fosters the Next Generation of Future-Ready Sri Lankan Tech Talent
 ...
 
 [Data](articles/8b7eed99.json)
+
+[Extended Data](ext_articles/8b7eed99.ext.json)
+
+---
+
+### மீனவர்கள் தொடர் உண்ணாவிரதம்
+
+*2024-03-20 02:53:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்கள்-தொடர்-உண்ணாவிரதம்/175-334912) · `ta`
+
+இந்திய மீனவர்களின் அத்துமீறிய செயற்பாட்டைக் கண்டித்து யாழ்ப்பாணம் மாவட்ட மீனவர்கள் உணவு தவிர்ப்புப்  போராட்டத்தை ஆரம்பித்துள்ளனர்.
+
+யாழ். மாவட்ட கிராமிய கடற்றொழில் அமைப்புக்களின் சம்மேளனமும், யாழ். மாவட்ட கடற்றொழில் கூட்டுறவுச் சங்கங்களின் சம்மேளனமும் இணைந்து நேற்றுக் காலை முதல் யாழ்ப்பாணம் புனித ஜோன் பொஸ்கோ வித்தியாலயத்துக்கு முன்பாக உணவு தவிர்ப்புப் போராட்டத்தில் ஈடுபட்டு வருகின்றனர். (a)
+
+◼️
+
+[Data](articles/af2d31e5.json)
 
 ---
 
@@ -2077,139 +2203,5 @@ The two passengers are residents of Ambalangoda and Jaffna areas.
 [Data](articles/03f355e6.json)
 
 [Extended Data](ext_articles/03f355e6.ext.json)
-
----
-
-### The government is distributing over 200 liquor permits worth Rs 2 crore to raise money for the election - Opposition Leader
-
-*2024-03-19 16:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179143) · `ta`
-
-The government plans to issue 200 liquor permits worth Rs 2 crore for election funding, with 15 already issued. Opposition Leader Sajith Premadasa criticizes this move, questioning the welfare of school students and calling for a detailed investigation.
-
-🟩
-
-Ipl.. It is planned to issue 200 liquor permits under license 4. Opposition Leader Sajith Premadasa revealed in Parliament today (19) that 15 of them have already been issued these permits and have been charged with Rs 2 crore.
-
-Currently, 6 Liquor Production Permits have been issued. Gunasiri has been re -appointed as the Commissioner of Liquor Tax. The Opposition Leader also said that it was suspicious that this was the process of collecting money by targeting the election.
-
-I question the welfare of the country's 41 lakh school students. He does not present false matters in accordance with gifts. Let me tell you responsibly.
-
-All these illegal licenses will be withdrawn under the United People's Power Government. The opposition leader said that a detailed investigation was needed.
-
-◼️
-
-[Data](articles/d3ab6636.json)
-
-[Extended Data](ext_articles/d3ab6636.ext.json)
-
----
-
-### Court denies Sajith's request on Fonseka
-
-*2024-03-19 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194694) · `si`
-
-The Colombo District Court denied Sajith Premadasa's request to dissolve Field Marshal Sarath Fonseka's injunction, extending it until April 2. Despite lawyers for Fonseka and others named as respondents demanding the removal of complaints, the court upheld the injunction after reviewing submissions.
-
-🟩
-
-The Colombo District Court also demanded a request made by the Leader of Sajith Premadasa to dissolve the injunction of Field Marshal Sarath Fonseka.
-
-Accordingly, the Court has been appointed to extend the injunction order on April 2.
-
-The injunction was issued by the Colombo District Court recently.
-
-The lawyers who were named as the respondents, Sajith Premadasa, who is named as the respondents and several other people who have been named as respondents to the complaint, is demanding the relocates of the complaints that have been issued to remove it.
-
-But the lawyers who sat for Mr. Fonseka said that the injunction order was further extended.
-
-The order was issued after considering the submissions.
-
-◼️
-
-[Data](articles/bbf66558.json)
-
-[Extended Data](ext_articles/bbf66558.ext.json)
-
----
-
-### Total drought
-
-*2024-03-19 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194693) · `si`
-
-The Meteorological Department warns of total drought in Vavuniya, Mullaitivu, Moneragala, Ratnapura, and Gampaha districts tomorrow, focusing on the warm index.
-
-🟩
-
-The Meteorological Department says that the warm index should be focused on several places in some places tomorrow (20).
-
-Accordingly, the warning has been issued by the Department of Meteorology, Vavuniya, Mullaitivu, Moneragala, Ratnapura, Ratnapura and Gampaha districts.
-
-◼️
-
-[Data](articles/0768daa1.json)
-
-[Extended Data](ext_articles/0768daa1.ext.json)
-
----
-
-### Yall. Protest
-
-*2024-03-19 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179137) · `ta`
-
-The University Employees Union launched a protest at the University of Jaffna on Tuesday, demanding a resolution to salary conflicts and unresolved university subsidies.
-
-🟩
-
-A protest campaign was launched by the University Employees Union on Tuesday (19) at the University of Jaffna.
-
-In all universities, university academic workers' salary conflict, salary increase, and the problems that affect them, and the university subsidies commission and the government have not yet resolved a solution to the university and the university's one -day strike on Tuesday, and the university will be united on Tuesday..
-
-Accordingly, the University Employees Union held a one -day identity strike and a protest demonstration at the University of Jaffna today.
-
-◼️
-
-[Data](articles/a603885b.json)
-
-[Extended Data](ext_articles/a603885b.ext.json)
-
----
-
-### Six Sri Lanka opposition MPs resign from COPE over integrity issue
-
-*2024-03-19 16:28:00* · [`economynextcom`](https://economynext.com/four-sri-lanka-opposition-mps-resign-from-parliament-panel-over-integrity-issue-155202/) · `en`
-
-ECONOMYNEXT – Six opposition legislators in Sri Lanka resigned from the Parliament’s Committee on Public Enterprises (COPE) within two days over integrity concerns of the panel citing that they had to sit with corrupt ruling politicians.
-
-Opposition parliamentary members Dayasiri Jayasekera, Charitha Herath, S M Marikkar, Shanaiyan Rasamanickam, and Hesha Withanage resigned on Tuesday, a day after the resignation of former state finance minister Eran Wickremeratne.
-
-The opposition members blamed the integrity concerns of COPE established on March 7 under the chairmanship of Ruling Sri Lanka Podujana Peramuna (SLPP) MP Rohitha Abeygunawardena, who has been accused of misappropriation of public funds under the previous government.
-
-Wickremeratne in a statement said 31 appointees to the COPE must not be associated with allegations and/or convictions.
-
-...
-
-[Data](articles/1b782c0d.json)
-
-[Extended Data](ext_articles/1b782c0d.ext.json)
-
----
-
-### Six Sri Lanka opposition MPs resign from COPE over integrity issue
-
-*2024-03-19 16:28:00* · [`economynextcom`](https://economynext.com/six-sri-lanka-opposition-mps-resign-from-cope-over-integrity-issue-155202/) · `en`
-
-ECONOMYNEXT – Six opposition legislators in Sri Lanka resigned from the Parliament’s Committee on Public Enterprises (COPE) within two days over integrity concerns of the panel citing that they had to sit with corrupt ruling politicians.
-
-Opposition parliamentary members Dayasiri Jayasekera, Charitha Herath, S M Marikkar, Shanaiyan Rasamanickam, and Hesha Withanage resigned on Tuesday, a day after the resignation of former state finance minister Eran Wickremeratne.
-
-The opposition members blamed the integrity concerns of COPE established on March 7 under the chairmanship of Ruling Sri Lanka Podujana Peramuna (SLPP) MP Rohitha Abeygunawardena, who has been accused of misappropriation of public funds under the previous government.
-
-Wickremeratne in a statement said 31 appointees to the COPE must not be associated with allegations and/or convictions.
-
-...
-
-[Data](articles/40f077ae.json)
-
-[Extended Data](ext_articles/40f077ae.ext.json)
 
 ---

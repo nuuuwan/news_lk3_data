@@ -1,36 +1,66 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 20:17:59**
+As of **2024-03-20 20:33:32**
 
 ## Newspaper Stats
 
-*Scraped **14,152** Articles*
+*Scraped **14,156** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 131
+colombotelegraphcom | 132
 bbccomsinhala | 157
 dbsjeyarajcom | 190
 newsfirstlk | 363
 dailyftlk | 734
 economynextcom | 758
 islandlk | 770
-adalk | 1,222
+adalk | 1,223
 adaderanalk | 1,700
-tamilmirrorlk | 1,712
+tamilmirrorlk | 1,713
 virakesarilk | 1,987
 dailymirrorlk | 2,170
-adaderanasinhalalk | 2,258
+adaderanasinhalalk | 2,259
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,152 (100.0%) of 14,152 articles have been extended.
+14,152 (100.0%) of 14,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### ஜனாதிபதி பதவி விலகினார்
+
+*2024-03-20 20:13:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜனாதிபதி-பதவி-விலகினார்/50-334946) · `ta`
+
+வியட்நாம் ஜனாதிபதி வோ வான் துவாங்கின் ராஜினாமாவை அந்நாட்டு கம்யூனிஸ்ட் கட்சி ஏற்றுக்கொண்டுள்ளது.
+
+இதனிடையே கட்சியின் நம்பிக்கையை குலைக்கும் வகையில் ஜனாதிபதி வோ வான் துவாங்  செயற்பட்டுள்ளதாக கம்யூனிஸ்ட் கட்சி அறிக்கை ஒன்றை வௌியிட்ட தெரிவித்துள்ளது.
+
+இதன் காரணமாக கட்சியின் நற்பெயருக்கு பெரும் சேதம் ஏற்பட்டுள்ளதாக வியட்நாம் கம்யூனிஸ்ட் கட்சி குறிப்பிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/9f88467c.json)
+
+---
+
+### දයාසිරි වැඩ අරඹයි
+
+*2024-03-20 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194749) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතාගේ නායකත්වයෙන් අද (20) නව සන්ධානයක් බිහි කෙරුණි.
+
+දේශපාලන පක්ෂ සහ සිවිල් සංවිධාන 22ක එකතුවෙන් නිර්මාණය කළ "මානුෂීය ජනතා සන්ධානය" ජනගත කිරීම අද කොළඹදී සිදුකෙරුණි.
+
+◼️
+
+[Data](articles/805f57f8.json)
+
+---
 
 ### 4 Sri Lankan Super Star on fence
 
@@ -53,6 +83,26 @@ Internal sources of cricket say that the event is due to take this step in the 2
 [Data](articles/8eedbb7a.json)
 
 [Extended Data](ext_articles/8eedbb7a.ext.json)
+
+---
+
+### Ireland's Prime Minister resigns
+
+*2024-03-20 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179272) · `ta`
+
+Leo Varadkar, Ireland's Prime Minister since 2022, resigns after serving as leader of the Fine Gael Party.
+
+🟩
+
+45 -year -old Leo Varadkar has been the Prime Minister of Ireland since 2022.He was the Prime Minister from 2017 to 2020.
+
+In this case, Leo Varadkar, who has resigned from the post of ruling Bina Kail Party leader, has announced that he will resign from the post of Prime Minister.
+
+◼️
+
+[Data](articles/41ceeeb1.json)
+
+[Extended Data](ext_articles/41ceeeb1.ext.json)
 
 ---
 
@@ -100,23 +150,19 @@ He further highlighted that the total number of passengers using the Bandaranaik
 
 ---
 
-### Ireland's Prime Minister resigns
+### පාතාලය හඹා යන මහෙයුමෙන් හතරක් අල්ලයි
 
-*2024-03-20 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179272) · `ta`
+*2024-03-20 19:26:09* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලය-හඹා-යන-මහෙයුමෙන්-හතරක්-අල්ලයි/11-408728) · `si`
 
-Leo Varadkar, Ireland's Prime Minister since 2022, resigns after serving as leader of the Fine Gael Party.
+බස්නාහිර හා  දකුණු පළාත මූලික කර ගනිමින්  සංවිධානාත්මක අපරාධකරුවන් අත්අඩංගුවට ගැනීමට ඊයේ (19දා) දිනයේදී ආරම්භ කළ විශේෂ මෙහෙයුම් මගින් අද (20දා) දිනය වන විට පුද්ගලයන් හතර දෙනෙකු අත්අඩංගුවට ගෙන තිබෙන බව පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කරයි.
 
-🟩
+මෙම පළාත් දෙක ආවරණය වන පරිදි විශේෂ පොලිස් කණ්ඩායම් 20 ක් අනුයුක්ත කර තිබෙන බවත්, මෙම කණ්ඩායම්  විසින් දැනට හඳුනාගෙන තිබෙන අපරාධ කල්ලි සාමාජිකයන් හඹා ගොස් අත්අඩංගුවට ගැනීමට ඉලක්ක ලබා දී තිබෙන බවත්  මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති  නිහාල් තල්දූව මහතා සඳහන් කළේය.
 
-45 -year -old Leo Varadkar has been the Prime Minister of Ireland since 2022.He was the Prime Minister from 2017 to 2020.
+කොළඹ ප්‍රදේශයේ ක්‍රියාත්මක වන විශේෂ පොලිස් කණ්ඩායම් විසින් සැකකරුවන් 04 දෙනෙකු අත්අඩංගුවට ගෙන තිබෙන බවත්, කොළඹ මධ්‍යම ප්‍රදේශයේ ක්‍රියාත්මක වන  අපරාධ කල්ලි කණ්ඩායමක  සමාජිකයෙකු වන 33 හැවිරිදි පුද්ගලයෙකු ද අත්අඩංගුවට ගෙන තිබෙන බවත් හෙතෙම පවසා සිටියේය.
 
-In this case, Leo Varadkar, who has resigned from the post of ruling Bina Kail Party leader, has announced that he will resign from the post of Prime Minister.
+...
 
-◼️
-
-[Data](articles/41ceeeb1.json)
-
-[Extended Data](ext_articles/41ceeeb1.ext.json)
+[Data](articles/aee04a2b.json)
 
 ---
 
@@ -1358,6 +1404,20 @@ This is according to preliminary research presented at the American Heart Associ
 
 ---
 
+### Why The Sri Lankan Rupee Is Appreciating
+
+*2024-03-20 14:44:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-the-sri-lankan-rupee-is-appreciating/) · `en`
+
+From November 30th last year, the Sri Lankan Rupee is appreciating against the US Dollar gradually. The Rupee value of a dollar on November 30th was Rs. 329 and the same on March 20th was Rs. 304. Sri Lanka is experiencing an appreciation of the Rupee for a second time.
+
+Over decades the value of the Dollar in Rupees increased gradually. During the economic crisis for a short period from March 7th 2022 to May 13th 2022 the value of a Dollar in Rupees increased from Rs. 202 to Rs. 369. For the first time in the history the value of the Dollar in Rupees started decreasing from February 26th 2023 to June 8th, 2023 from Rs. 364 to Rs. 290. This was the result of stabilizing the Rupee shedding the speculative trends.
+
+...
+
+[Data](articles/178dd685.json)
+
+---
+
 ### Scientists say they can cut HIV out of cells
 
 *2024-03-20 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98078/scientists-say-they-can-cut-hiv-out-of-cells) · `en`
@@ -2251,93 +2311,5 @@ A street drama titled "Sura Baba Komasaris" took place in front of the Excise De
 [Data](articles/5368f262.json)
 
 [Extended Data](ext_articles/5368f262.ext.json)
-
----
-
-### Refrain from collecting Rs. 678 million taxes
-
-*2024-03-20 12:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Refrain-from-collecting-Rs-678-million-taxes/110-279231) · `en`
-
-A street drama titled "Sura Baba Komasaris" took place in front of the Excise Department. It depicted public sentiments and called on the authorities to refrain from collecting Rs. 678 million in taxes. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/8cc17ed6.json)
-
-[Extended Data](ext_articles/8cc17ed6.ext.json)
-
----
-
-### Foreign Ministry of Foreign Ministry following China's opposition
-
-*2024-03-20 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/179209) · `ta`
-
-Sri Lanka allows German research ship to refuel, despite China's opposition and a year-long ban on research vessels due to security concerns. The government has clarified that re-establishment of foreign research ships is permitted.
-
-🟩
-
-Sri Lankan research ships will be allowed to rejuvenate in Sri Lankan ports, a spokesman for the Ministry of Sri Lanka's Ministry
-
-He made this statement when the Chinese embassy has issued a fierce opposition to Sri Lanka's permission for the German research ship.
-
-Sri Lanka has banned ships that are involved in research - Sri Lanka has not banned research ships reinforcement, Foreign Ministry spokesman's spokesman said.
-
-He said that the German research ship came to the Port of Colombo to fill the fuel.
-
-The Ranil Wickremesinghe government has banned research vessels for over a year due to heavy security issues issued by India and the US following China's research ships twice in 14 months.
-
-However, when the ban was announced, the government did not make it clear whether the government would be allowed to re -evolve foreign research ships.
-
-The Sri Lankan government has openly stated that the permit will be given to the re -establishment.
-
-◼️
-
-[Data](articles/e0a3ba31.json)
-
-[Extended Data](ext_articles/e0a3ba31.ext.json)
-
----
-
-### Sri Lanka Customs officers back to work on March 20
-
-*2024-03-20 12:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-officers-back-to-work-on-march-20-155346/) · `en`
-
-ECONOMYNEXT – Sri Lanka Customs staff who were on trade union action will report to work on March 20, following a discussion with State Minister for Finance Ranjith Siyambalapitiya, an official said.
-
-Good stuck at port due to delayed clearing will be processed from early morning.
-
-Customs staff protested against changes to the way rewards are given to officers.
-
-The trade union action was abandoned following positive discussions and other outstanding matters will be dealt with at a second meeting on March 31, the official said.
-
-◼️
-
-[Data](articles/b5e4ca52.json)
-
-[Extended Data](ext_articles/b5e4ca52.ext.json)
-
----
-
-### Electronic bill of electricity bills
-
-*2024-03-20 11:54:24* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බිලට-ඉලෙක්ට්‍රොනික-බිල්පතක්/11-408720) · `si`
-
-The Ceylon Electricity Board (CEB) has introduced electronic bills for consumers in Hatton, allowing for full payment and tracking via account numbers and electric unit numbers.
-
-🟩
-
-The Electricity Board (CEB) has taken steps to issue an electronic bill instead of electricity consumers from the Ceylon Electricity Board.
-
-The manner said that if the manufacturers should be the full amount of money and the arrival of the same amount of money, if the electronic consumer's account number and the number of electric unit has been used.
-
-The Budget said that if the bills have been paid to the new bill, the bill will also be able to learn the bill if the bill is paid to the new bill.
-
-The new electronic billing machine was introduced by the CEB was issued to the electricity consumers in Hatton.
-
-◼️
-
-[Data](articles/fe7d94e0.json)
-
-[Extended Data](ext_articles/fe7d94e0.ext.json)
 
 ---

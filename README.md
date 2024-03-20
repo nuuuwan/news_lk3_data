@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 17:03:54**
+As of **2024-03-20 17:18:12**
 
 ## Newspaper Stats
 
-*Scraped **14,105** Articles*
+*Scraped **14,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 734
 economynextcom | 745
 islandlk | 770
 adalk | 1,218
-adaderanalk | 1,695
+adaderanalk | 1,697
 tamilmirrorlk | 1,709
 virakesarilk | 1,982
 dailymirrorlk | 2,163
@@ -26,11 +26,53 @@ adaderanasinhalalk | 2,250
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,104 (100.0%) of 14,105 articles have been extended.
+14,105 (100.0%) of 14,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### Update on Sri Lankans in Haiti amidst escalation of violence
+
+*2024-03-20 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98083/update-on-sri-lankans-in-haiti-amidst-escalation-of-violence) · `en`
+
+The Ministry of Foreign Affairs says it is closely following the prevailing situation in Haiti where the citizens are reeling from the spiral of violence that erupted after armed gangs took control of the capital city Port-au-Prince and other areas.
+
+In a statement issued on Wednesday (March 20), the ministry asserted that it is in contact with companies operating in Haiti employing Sri Lankan nationals.
+
+“The companies have confirmed that the [Sri Lankan] nationals are safe and away from the areas where there is ongoing unrest.”
+
+Meanwhile, the Embassy of Sri Lanka in Cuba accredited to Haiti remains in regular contact with the respective companies, the Foreign Ministry noted.
+
+Haiti’s already precarious situation has quickly deteriorated over the past weeks as gangs launched coordinated attacks on key facilities, forcing the resignation of the country’s prime minister.
+
+...
+
+[Data](articles/8078dd78.json)
+
+---
+
+### 29 including FSP’s Duminda Nagamuwa and Lahiru Weerasekara arrested during protest
+
+*2024-03-20 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98082/29-including-fsps-duminda-nagamuwa-and-lahiru-weerasekara-arrested-during-protest) · `en`
+
+Twenty-nine persons including 02 Buddhist monks and 03 females have been arrested during the protest staged by the ‘Jana Aragala Viyaparaya’ in Pettah today (20), police said.
+
+It is reported that Frontline Socialist Party (FSP) activist Duminda Nagamuwa and youth activist Lahiru Weerasekara are among those arrested during the protest.
+
+Meanwhile, at least 05 police officers have been injured during the clashes with protesters, according to police.
+
+Earlier, police had resorted to using tear gas and water cannons to disperse the protesters in Pettah, Colombo.
+
+The demonstration had been organized by the ‘Jana Aragala Viyaparaya’ (People’s Struggle Movement) based on several issues including the soaring cost of living and certain foreign agreements.
+
+The protest march had commenced from near the Fort Railway Station and they were heading in the direction of Pettah when riot police used tear gas and water cannons to disperse them, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/4bc90cff.json)
+
+---
 
 ### Gazette on suspension of Parate Execution to be presented to Parliament tomorrow: State Minister
 
@@ -43,6 +85,8 @@ Parliament, March 20 (Daily Mirror)- The gazette notification on the suspension 
 ◼️
 
 [Data](articles/5ab519ce.json)
+
+[Extended Data](ext_articles/5ab519ce.ext.json)
 
 ---
 
@@ -2279,51 +2323,5 @@ On March 07, Abeygunawardena was elected by majority votes to serve as the new c
 [Data](articles/1b4705f4.json)
 
 [Extended Data](ext_articles/1b4705f4.ext.json)
-
----
-
-### Wasantha Yapa Bandara quits COPE shortly after appointment
-
-*2024-03-20 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98070/wasantha-yapa-bandara-quits-cope-shortly-after-appointment) · `en`
-
-MP Wasantha Yapa Bandara joined a parade of parliamentarians to quit the Committee of Public Enterprises (COPE) over the appointment of SLPP MP Rohitha Abeygunawardena as its chairman.
-
-Shortly after the parliamentary session commenced this morning (March 20), the Deputy Speaker announced the appointment of Bandara as a COPE member.
-
-However, the MP announced his resignation with immediate effect, asserting that he would communicate his decision in writing as well.
-
-At the first COPE meeting of the Fifth Session of the Ninth Parliament convened on March 07, Abeygunawardena was elected by majority votes to serve as the new chairman of the committee. His name had been nominated by MP Mahindananda Aluthgamage and seconded by MP Sanjeewa Edirimanne.
-
-...
-
-[Data](articles/4092313e.json)
-
-[Extended Data](ext_articles/4092313e.ext.json)
-
----
-
-### Wasantha Yapa Bandara too say no to Kopa
-
-*2024-03-20 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194716) · `si`
-
-MP Wasantha Yapa Bandara resigned from the Select Committee on Commonwealth or COP Committee, affecting several members.
-
-🟩
-
-The Deputy Speaker asked Parliament today (Jan. 20) that MP Wasantha Yapa Bandara has been named by the Select Committee to serve in the Committee on Commonwealth or COP Committee.
-
-The Deputy Speaker informed the Deputy Speaker that Wasantha Yapa Bandara, who stood at the time, was resigned from the post.
-
-He said that he will be given his resignation in writing.
-
-Several members of the Committee or COPE member have resigned from now.
-
-Under the Sri Lanka General Front, MP Sharani Walaboda was elected to Parliament, Parliamentarian Sharankian Radmanaka, Members of Parliament Iran Wickramaratne, Hesha Vithanage and S.. MP Marikkar and MP Charitha Herath and MP Dayasiri Jayasekera have resigned from the Committee on Commonwealth or COP Committee.
-
-◼️
-
-[Data](articles/0e894912.json)
-
-[Extended Data](ext_articles/0e894912.ext.json)
 
 ---

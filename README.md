@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 16:33:31**
+As of **2024-03-20 16:48:57**
 
 ## Newspaper Stats
 
-*Scraped **14,101** Articles*
+*Scraped **14,104** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,50 +15,96 @@ newsfirstlk | 363
 dailyftlk | 734
 economynextcom | 745
 islandlk | 770
-adalk | 1,217
-adaderanalk | 1,694
+adalk | 1,218
+adaderanalk | 1,695
 tamilmirrorlk | 1,709
 virakesarilk | 1,982
 dailymirrorlk | 2,162
-adaderanasinhalalk | 2,249
+adaderanasinhalalk | 2,250
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,097 (100.0%) of 14,101 articles have been extended.
+14,101 (100.0%) of 14,104 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### වීථි පුරා මළ සිරුරු හමුවන අගනගරය
+### පොලිස්පතිගේ පත්කිරීම අභියෝගයට ලක්කළ පෙත්සම් දෙකක්
+
+*2024-03-20 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194738) · `si`
+
+පොලිස්පතිවරයා ලෙස දේශබන්දු තෙන්නකෝන් මහතා ව පත්කිරීම අභියෝගයට ලක් කරමින් ගොනුකර තිබෙන මූලික අයිතිවාසිකම් පෙත්සම් දෙකක් සලකා බැලීම සඳහා දින නියම කර තිබේ.
+
+අදාළ මුලික අයිතිවාසිකම් පෙත්සම් අප්‍රේල් මස 02 වනදා කැඳවන ලෙස ප්‍රීති පද්මන් සුරසේන මහතා ඇතුළු ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල නියම කළ බව "අද දෙරණ" අධිකරණ වාර්තාකරු පැවසීය.
+
+ඒ අනුව මෙම පෙත්සමේ වගඋත්තරකරුවන්ට යළි නොතිසි යොමුකරන ලෙස ද පෙත්සම්කාර පාර්ශවයට අධිකරණය නියම කර තිබුණි.
+
+තරුණ ජනමාධ්‍යවේදීන්ගේ සංගමය සහ විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය විසින් එම පෙත්සම් දෙක ඉදිරිපත් කර තිබේ.
+
+◼️
+
+[Data](articles/cf2054b0.json)
+
+---
+
+### COPF recommends deferment of CBSL salary increase
+
+*2024-03-20 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98081/copf-recommends-deferment-of-cbsl-salary-increase) · `en`
+
+The Committee on Public Finance (COPF) has recommended that the Central Bank of Sri Lanka (CBSL) defer the salary increase until a mutually acceptable solution is reached on the matter.
+
+This was mentioned in the COPF report on the Central Bank Salary Revision 2024-2026 presented to the parliament by the committee’s chairman Dr. Harsha de Silva on Wednesday (March 20).
+
+COPF compiled this report on the recent salary increase of the Central Bank staff members upon a request made by President Ranil Wickremesinghe in his capacity as the Finance Minister. The request came about after several MPs raised this issue in the House, joining the general outcry opposing the steep salary increase.
+
+In its recommendations, the COPF says the Finance Minister should, with immediate effect, appoint an independent remuneration committee with the concurrence of the Central Bank Governor to review the salary increase under discussion.
+
+...
+
+[Data](articles/d40618d2.json)
+
+---
+
+### Capital found throughout the streets
 
 *2024-03-20 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194737) · `si`
 
-අවිගත් කල්ලි තවමත් හයිටියේ පෝට් ඕ ප්‍රින්ස් අගනුවර වීථිවල සරසමින් ප්‍රචණ්ඩව හැසිරෙමින් සිටින බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Haiti's capital, Port-au-Prince, is experiencing unrest, with violent incidents and robberies, including by the British Gang Haiti, leading to deaths and displacing thousands. The situation has escalated, with armed gangs attacking institutions and relief efforts, exacerbating the humanitarian crisis. UNICEF warns of severe famine, criticizing international organizations for failing to assist. Despite its rich history and cultural heritage, Haiti's current conflict threatens its tourism industry and stability.
 
-ඔවුන්ගේ ප්‍රහාරවලට ලක්ව මිය ගිය අයගේ සිරුරු පෝර්ට් ඕ ප්‍රින්ස් අගනුවර වීථි පුරා දක්නට ඇති බව සඳහන් ය.
+🟩
 
-එමෙන්ම පෝර්ට් ඕ ප්‍රින්ස් අගනුවර ඇතුළු තදාසන්න පෙදෙස්වලින් මංකොල්ල කෑම් රැසක් ද වාර්තා වෙයි.
+Antiquet groups are still violently behaving in decorating the port of Prutz in the capital of Haiti.
 
-එහි නවතම පුවත වන්නේ අවිගත් කල්ලි හයිටි හි මහ බැංකුව කොල්ලකෑමේ සිදුවීමයි.
+The bodies of the deceased have been found throughout the Power of Prurte Pryi.
 
-එම සිද්ධියේදී පුද්ගලයින් තිදෙනෙකු ද මිය ගොස් ඇතැයි වාර්තා වෙයි.
+There are several robberies including the Port of Port of Prub.
 
-මෙලෙස කොල්ලකෑමට ලක්වුණු මහ බැංකුව එරට ක්‍රියාත්මක ප්‍රචණ්ඩත්වය හමුවේ ක්‍රියාත්මක වෙමින් පැවති ප්‍රධාන ආයතන අතුරින් එක් ආයතනයක් විය.
+Its latest news is the robbery of the British Gang Haiti.
 
-මේ අතර, පොර්ට් ඕ ප්‍රින්ස් අගනුවර අධිකරණ විනිසුරුවරයෙකුගේ නිවසක් ද අවිගත් කල්ලිවල ප්‍රහාරයට ලක්ව තිබුණි.
+Three persons have been killed in the incident.
 
-මෙය රට තුළ පවතින අස්ථාවර දේශපාලන තත්ත්වයට කදිම නිදසුනක් ලෙස විදෙස් වාර්තා පෙන්වා දෙයි.
+The British Sri Lanka was one of the major institutions in the country.
 
-මේ අතර, හයිටි හි ක්‍රියාත්මක සහන සේවා ආයතනවලට අයත් සහනාධාර කොල්ලකෑමට අවිගත් කල්ලි කටයුතු කර තිබේ.
+Meanwhile, a house of a judiciary of the Purtain capital and armed gangs were attacked.
 
-ඒ රට තුළ ක්‍රියාත්මක ප්‍රචණ්ඩත්වය හමුවේ උද්ගතව ඇති මානුෂිය තත්ත්වය තවත් තීව්‍ර කරමිනි.
+This is a good example of unstable political situation in the country.
+
+Meanwhile, armed gang has acted in the robbery of relief work belonging to Haiti.
+
+Another intensifying the humanitarian situation that has been implemented in the country.
+
+The Port of Prince had also robbed the essential substances including children and pregnant mothers at the main port of the capital.
+
+Accordingly, UNICEF emphasizes that the Haitians will face a severe famine.
 
 ...
 
 [Data](articles/a250ea6f.json)
+
+[Extended Data](ext_articles/a250ea6f.ext.json)
 
 ---
 
@@ -76,25 +122,35 @@ It was alleged that Attorney-at-Law Susil Priyantha Jayatunga repeatedly made hi
 
 [Data](articles/69767801.json)
 
+[Extended Data](ext_articles/69767801.ext.json)
+
 ---
 
-### අපනයන ආර්ථිකයකට කඩිනමින් නොගියොත් නැවතත් ආර්ථික අර්බුදයක්
+### An economic crisis again if not expedited to an export economy
 
 *2024-03-20 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194736) · `si`
 
-ආනයන, අපනයන පරතරය පියවා ගැනීමට ණය ලබාගැනීම අඛණ්ඩව සිදු වුවහොත් නැවතත් වසර 10කින් ශ්‍රී ලංකාවට ආර්ථික අර්බුදයකට මුහුණ දීමට සිදුවන බව ජනාධිපතිවරයා පෙන්වා දෙයි.
+President Ranil Wickremesinghe warns of another economic crisis if the loan continues to cover the import-export gap, aiming to stabilize the economy and transition to an export economy. He plans to present a new law in Parliament in April, emphasizing the benefits to both the economy and the people, including increased public servants' salaries and the strengthening of the rupee.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කරන්නේ රට තුළ ආර්ථික ස්ථාවරත්වයක් ඇති කර එය කඩිනමින් අපනයන ආර්ථිකයක් කරා පරිවර්තනය කිරීම තම අපේක්ෂාව බවය.
+🟩
 
-ඊට අදාළව නව නීතියක් ද මෙම අප්‍රේල් මාසයේදී පාර්ලිමේන්තුවට ඉදිරිපත් කරන බවත් එසේම රජයේ මූල්‍ය පාලනය සඳහා ද නීතියක් ගෙනඑන බව පැවසූ ජනාධිපතිවරයා මෙම සියලු කටයුතු තුළින් රටේ ආර්ථිකය ඉදිරියට ගෙන යාම අරමුණ බව පැවසීය.
+The President points out that if the loan is continued to cover the import and export gap, Sri Lanka will face an economic crisis again in 10 years.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ කෑගල්ල, මංගෙදර ටැම්පිට පුරාණ පිරිවෙන් විහාරස්ථානයේ ‌‌ඓතිහාසික බෝධින් වහන්සේ වටා ඉදිකළ බෝධිඝරය සහ රන්වැට විවෘත කිරීමේ පුණ්‍යෙත්සවයට අද (20) පෙරවරුවේ එක්වෙමිනි.
+President Ranil Wickremesinghe says that it is his expected to create an economic stability in the country and transform it to an export economy.
 
-ශ්‍රී ලංකාව ණය ගෙවිය හැකි රටක් ලෙස නැවත ලෝකය හමුවේ සහතික කිරීමට අදාළ සාකච්ඡා මෙම ජූනි, ජුලි මාසය වනවිට අවසන් කිරීමට අපේක්ෂා කරන බව මෙහිදී සඳහන් කළ ජනාධිපතිවරයා ඒ සමඟම බංකොළොත් රටක් යන නාමකරණය යටතේ අපට මෙතෙක් අහිමිව තිබූ විදෙස් ආධාර නැවත රටට ලැබීම ආරම්භ වන බවද පෙන්වා දුන්නේය.
+The President said that a new law would be presented in Parliament in April in April.
+
+President Ranil Wickremesinghe was speaking at the Rangera, which was built around the Evil Pirivena Viharaya at the Ancient Pirivena Viharaya at the Ancient Pirivena Viharaya of the Ancient Pirivena Viharaya.
+
+The President also pointed out that this June, who is expected to be completed as a debt to the world as a country of debt, the President also pointed out that this is a bankrupt country under the name of a bankrupt country..
+
+The President Ranil Wickremesinghe said that the economy would further provide relief to the people with the increase in the economy with the commencement of the country's money.
 
 ...
 
 [Data](articles/3e608e13.json)
+
+[Extended Data](ext_articles/3e608e13.ext.json)
 
 ---
 
@@ -224,21 +280,27 @@ Further investigations into the incident are being carried out by the police.
 
 ---
 
-### தென்னை மரத்தில் ஏறிய தங்க வளையல்
+### Gold bracelet
 
 *2024-03-20 15:32:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தென்னை-மரத்தில்-ஏறிய-தங்க-வளையல்/76-334930) · `ta`
 
-வீடொன்றில் திருடப்பட்ட 1,40,000 ரூபாய் பெறுமதியான தங்க வளையல், 40 அடி உயர தென்னை மரத்தின் உச்சியில் மறைத்து வைக்கப்பட்டிருந்த  நிலையில் மீட்கப்பட்டுள்ளதுடன் சந்தேகத்தின் பேரில் இளைஞன் ஒருவரையும் கைது செய்யப்பட்டுள்ளதாக பதுளை பொலிஸார் தெரிவித்துள்ளனர் .
+A gold bracelet worth Rs 1,40,000 was stolen and found in a coconut tree in Badulla. A 22-year-old was arrested for investigating the theft, claiming to have spent the stolen money.
 
-பதுளை, மெதபத்தனை பகுதியில்  வீடொன்றில் யாரும் இல்லாதபோது ஜன்னலை உடைத்து உள் புகுந்து  தங்க வளையல் ஒன்றையும்,  37,000 ரூபாய்  பணத்தையும் திருடிச்சென்றுள்ளதாக பொலிஸாருக்கு  கிடைக்கப்பெற்ற  தகவலொன்றிக்கமைய  விசாரணைகளை மேற்கொண்ட  பொலிஸார்  22 வயதுடைய  இளைஞன்  ஒருவரை  கைது  செய்துள்ளனர் .
+🟩
 
-அவரிடம் மேற்கொண்ட விசாரணையின்  போது திருடப்பட்ட பணத்தை தான் செலவிட்டதாகவும் தங்க வளையலை , தென்னை மரத்தின் உச்சியில் மறைத்து வைத்துள்ளதாகவும்  பொலிஸாரிடம்  தெரிவித்துள்ளார் .
+Badulla police said that the gold bangle worth Rs 1,40,000 was stolen in a house and was recovered at the top of the 40 -foot -tall coconut tree and a youth was arrested on suspicion.
 
-மேலும்,  இச்சம்பவம்  தொடர்பிலான  மேலதிக  விசாரணைகளை  பொலிஸார்  மேற்கொண்டு வருவதாக  தெரிவித்துள்ளனர் .
+A 22 -year -old youth has arrested a young man who was investigating the information received by the police alleging that there was no one in a house in Medapana, Badulla, when there was no one in a house in Badulla.
+
+He told the police that he had spent the stolen money during his investigation and that the gold bracelet had been hidden on the top of the coconut tree.
+
+Further investigations into the incident are being carried out by the police.
 
 ◼️
 
 [Data](articles/cc015999.json)
+
+[Extended Data](ext_articles/cc015999.ext.json)
 
 ---
 
@@ -633,6 +695,20 @@ Foreign media added that he spent 2.5 lakhs of Rs.
 [Data](articles/26a0182a.json)
 
 [Extended Data](ext_articles/26a0182a.ext.json)
+
+---
+
+### අනුර හා දුමින්දත් ‌කෝප් කමිටුවෙන් ඉවත් වෙති
+
+*2024-03-20 13:44:23* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හා-දුමින්දත්-‌කෝප්-කමිටුවෙන්-ඉවත්-වෙති/11-408722) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී අනුර කුමාර දිසානායක මහතා හා දුමින්ද දිසානායක මහතාද කෝප් කමිටුවෙන් ඉල්ලා අස්විමට තිරණය කර තිබේ. ඔවුන් මේ බව පාර්ලිමේන්තුවට අද දැනුම් දුන්නේය.
+
+වත්මන් කෝප් කමිටු සභාපති රෝහිත අබේගුණවර්ධන මහතාට වංචා හා දූෂණ චෝදනා එල්ල වි ඇති බවත් ඒ අනුව එම කමිටුවේ සේවය කිරීමෙන් ඵලක් නොමැති බවත් අනුර කුමාර දිසානායක මහතා දැනුම් දුන්නේය.
+
+◼️
+
+[Data](articles/18230bcf.json)
 
 ---
 
@@ -2243,77 +2319,5 @@ The Colombo Stock Exchange opened down; the All Share Price Index was down at 11
 [Data](articles/7001f77e.json)
 
 [Extended Data](ext_articles/7001f77e.ext.json)
-
----
-
-### One person arrested with 2 crores worth Rs 2 crore in Batticaloa
-
-*2024-03-20 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/179182) · `ta`
-
-A priest was arrested in Batticaloa for illegally selling Valamburi Sangams, seizing two worth Rs 2 crore. The arrest was led by the Mullaitivu Special Task Force under the guidance of Senior Deputy Inspector General of Police, Varuna Jayasundara.
-
-🟩
-
-Police on Tuesday (19) have arrested a priest who tried to sell Valamburi Sangams illegally at a Hindu temple in Batticaloa.
-
-On the advice of the Special Task Force Commander Senior Deputy Inspector General of Police, Varuna Jayasundara, a team led by the Mullaitivu Special Task Force Camp was held on Tuesday.
-
-The priest who tried to sell the rights was arrested and arrested and rescued two Valamburi Sangam worth about Rs 2 crore.
-
-The 52 -year -old priest and the seized certificates have been handed over to them and the police have taken steps to bring the arrested person to court.
-
-◼️
-
-[Data](articles/ecd3c62d.json)
-
-[Extended Data](ext_articles/ecd3c62d.ext.json)
-
----
-
-### Government resolution to carry out a program to create 10 lakh younger entrepreneurs
-
-*2024-03-20 09:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179126) · `ta`
-
-The government plans to create 10 lakh young entrepreneurs through the Uridh Program, aiming to issue state lands to 2 million families by 2024. It also aims to create 1 million young entrepreneurs nationwide, with the Youth Services Council and Grama Niladhari Divisions involved. The 'Uruttu' program is approved to speed up the process.
-
-🟩
-
-The government has decided to carry out a program to gather information on younger entrepreneurs nationwide under this program to obtain information on issuing information on issuing a loose -free issued issuer under the Uridh Program.
-
-Currently two million families have been given handbags or issuing bonds for land they enjoy. Under the Urithi Program, it is scheduled to provide the issuance of state lands to the issuance of the issuer and the handwriting of the issue by 2024.
-
-It is also planned to implement a program to create one million young entrepreneurs nationwide.. The Youth Services Council of the National Youth Services Forum is expected to be collected with the cooperation of the respective Grama Niladhari, which includes 14,022 Grama Niladhari Divisions to implement the two programs.
-
-...
-
-[Data](articles/1676da11.json)
-
-[Extended Data](ext_articles/1676da11.ext.json)
-
----
-
-### Criminals flowing abroad;Web range to the authorities
-
-*2024-03-20 09:38:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாடுகளுக்கு-பாயும்-குற்றவாளிகள்-அதிகாரிகளுக்கு-வலை-வீச்சு/175-334916) · `ta`
-
-The CID investigates how five underworld leaders received air tickets to flee, involving forged passports by Matugama Shan and Hinadian Mahesh. Kosgoda Sujee, Harak Kata, and Kudu Salindu are among the leaders. The probe, led by Deputy Inspector General Rohan Premaratne, aims to uncover corrupt officials organizing air tickets.
-
-🟩
-
-The Criminal Investigations Department (CID) has launched a special investigation into how five underworld leaders were given air tickets to flee the country.
-
-The investigation has been launched with the incident of two departmental regulators of the Department of Immigration and Emigration, Matugama Shan and Hinadian Mahesh, who prepared a passport with forged documents.
-
-According to the police headquarters, Kosgoda Sujee, Harak Kata and Kudu Salindu are among the five underworld leaders.
-
-Investigations are continuing to identify the gang of corrupt officials who are engaged in organizing air tickets for the underworld.
-
-Further inquiries are continuing under the supervision of Deputy Inspector General of Police Rohan Premaratne, who is in charge of the Criminal Investigation Department, on the orders of the Inspector General of Police Deshpandu Tennakoon.. Remble
-
-◼️
-
-[Data](articles/d5fe3d41.json)
-
-[Extended Data](ext_articles/d5fe3d41.ext.json)
 
 ---

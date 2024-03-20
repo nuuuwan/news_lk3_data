@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 09:52:38**
+As of **2024-03-20 10:03:00**
 
 ## Newspaper Stats
 
-*Scraped **13,996** Articles*
+*Scraped **13,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,69 +16,121 @@ dailyftlk | 734
 economynextcom | 743
 islandlk | 770
 adalk | 1,206
-adaderanalk | 1,682
+adaderanalk | 1,683
 tamilmirrorlk | 1,696
 virakesarilk | 1,959
 dailymirrorlk | 2,140
-adaderanasinhalalk | 2,228
+adaderanasinhalalk | 2,229
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,993 (100.0%) of 13,996 articles have been extended.
+13,996 (100.0%) of 13,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### ගින්නකට හසුවී පුද්ගලයෙක් මරුට
+### Wasantha Yapa Bandara joins parade of COPE resignations
+
+*2024-03-20 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98070/wasantha-yapa-bandara-joins-parade-of-cope-resignations) · `en`
+
+MP Wasantha Yapa Bandara joined a parade of parliamentarians to quit the Committee of Public Enterprises (COPE).
+
+Shortly after the parliamentary session commenced this morning (March 20), the Deputy Speaker announced the appointment of Bandara as a COPE member.
+
+◼️
+
+[Data](articles/1b4705f4.json)
+
+---
+
+### වසන්ත යාපා බණ්ඩාරත් කෝපා එපා කියයි
+
+*2024-03-20 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194716) · `si`
+
+පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටුවේ සේවය කිරීමට පාර්ලිමේන්තු මන්ත්‍රී වසන්ත යාපා බණ්ඩාර මහතාව තේරීම් කාරක සභාව විසින් නම් කළ බව නියෝජ්‍ය කථානායකවරයා විසින් අද (20) උදෑසන පාර්ලිමේන්තුවට දැනුම් දුන්නේය.
+
+එම අවස්ථාවේ දී නැගී සිටි වසන්ත යාපා බණ්ඩාර මහතා තමා එම ධුරයෙන් ඉල්ලා අස්වෙන බව නියෝජ්‍ය කථානායකවරයාට දැනුම් දුන්නේය.
+
+තමාගේ ඉල්ලා අස්වීම ලිඛිතව ඉදිරියේ දී ලබාදීමට කටයුතු කරන බව ද ඒ මහතා පැවසීය.
+
+පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටුවේ සාමාජිකත්වය දරන පාර්ලිමේන්තු මන්ත්‍රීවරුන් කිහිපදෙනෙක් මේ වනවිට ඉල්ලා අස්වී තිබේ.
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණ යටතේ පාර්ලිමේන්තුවට තේරී පත්වූ ගාමිණී වලේබොඩ මහතා, පාර්ලිමේන්තු මන්ත්‍රී ෂානක්කියන් රාසමාණික්කම් මහතා, සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන ඉරාන් වික්‍රමරත්න, හේෂා විතානගේ සහ එස්. එම් මරික්කාර් යන මහත්වරු, පාර්ලිමේන්තු මන්ත්‍රී චරිත හේරත් මහතා සහ ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටුවෙන් ඉල්ලා අස්වූ මන්ත්‍රීවරු අතර වේ.
+
+◼️
+
+[Data](articles/0e894912.json)
+
+---
+
+### Man dies after making fire
 
 *2024-03-20 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194715) · `si`
 
-ඊයේ (19) සවස් කාලයේදී එම සිදුවීම වාර්තා වී ඇති බව පොලීසිය පවසයි.
+A man died after starting a fire that spread to three acres. The body was found near his home.
 
-මරණකරු විසින් ඔහුට අයත් කුඹුරු ඉඩමක් ගිනිතබා ඇති අතර, එම ගින්න යාබද අක්කර තුනක පමණ ඉඩමකට ද ව්‍යාප්තවී ඇත.
+🟩
 
-පසුව ප්‍රදේශවසීන් විසින් ගින්න මැඩ පවත්වා ඇති අතර මරණකරු නැවත නිවසට නොපැමිණීම සම්බන්ධව සොයා බැලීමේදී ගිනිගැනීමට ලක්වූ ප්‍රදේශයේ තිබී ඔහුගේ මෘත ශරීරය සොයාගෙන තිබේ.
+The incident was reported yesterday in the evening, police said.
+
+The deceased has burned a land landing on him, and the fire has been extended to about three acres adjoining the fire.
+
+The body has been found in the area where the deceased was to look into the home of the deceased.
 
 ◼️
 
 [Data](articles/374ee103.json)
 
+[Extended Data](ext_articles/374ee103.ext.json)
+
 ---
 
-### கடலோர மார்க்கத்தில் ரயில் சேவை தொடர்ந்து தாமதம்
+### The train service continues to be delayed on the coastal route
 
 *2024-03-20 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179181) · `ta`
 
-கொழும்பு கோட்டை மற்றும் கொம்பஞ்ஞ வீதி ரயில்  நிலையங்களுக்கு இடையில் நேற்று மாலை ரயில் தடம் புரண்டதன் காரணமாக கரையோர மார்க்கத்தில் ரயில் சேவையில் தாமதம் தொடர்வதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+Train service on the coastal route delayed due to a derailment between Colombo Fort and Kombanjanga Road Stations. Four services, including the Galle Postal Train, canceled. One track reopened, work on the other ongoing.
 
-கொழும்பு கோட்டையில் இருந்து தெற்கு களுத்துறை நோக்கி நேற்று (19) இரவு 7.15 மணி அளவில் பயணித்த அதிவேக ரயில் கோட்டை மற்றும் கொம்பஞ்ஞ வீதி ரயில் நிலையங்களுக்கு இடையில் தடம் புரண்டது.
+🟩
 
-ரயில் தடம் புரண்டதன் காரணமாக நேற்றிரவு காலி அஞ்சல் ரயில் உட்பட 4 ரயில் சேவைகள் இரத்து செய்யப்பட்டுள்ளன.
+The Railway Department said that the train service on the coastal route will be delayed due to a train derailment between Colombo Fort and Kombanjanga Road Stations yesterday evening.
 
-இந்நிலையில், தற்போது ரயில் போக்குவரத்திற்காக ஒரு மார்க்கம் திறக்கப்பட்டுள்ளது, மற்றைய மார்க்கத்தில்  திருத்தப்பணிகள் நடைபெற்று வருகிறது என தெரிவித்துள்ளது.
+The high -speed train, which was traveling from Colombo Fort to South Kalutara at around 7.15 pm last night, derailed between the fort and the Kombanjanga Road railway stations.
+
+Four train services, including the Galle Postal Train last night, were canceled due to the train derailment.
+
+In this case, one religion has been opened for rail transport, and the other is the work on the other.
 
 ◼️
 
 [Data](articles/5bd3a24c.json)
 
+[Extended Data](ext_articles/5bd3a24c.ext.json)
+
 ---
 
-### කථානායකට එරෙහි විශ්වාසභංග විවාදය දෙවැනි දිනටත් ඇරඹේ
+### The no-confidence-to-confidence debate against speaker begins today
 
 *2024-03-20 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194714) · `si`
 
-නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තු කටයුතු මේ වනවිට ආරම්භ වී තිබේ.
+The debate on the no-confidence motion against Speaker Mahinda Yapa Abeywardena starts today, with Parliamentary Business underway. The Committee on Parliament has rescheduled the debate.
 
-කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය අද (20) දෙවැනි දිනටත් පැවැත්වේ.
+🟩
 
-මේ අතර, විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය සඳහා තවත් දිනයක් ලබාදීමට පාර්ලිමේන්තු කටයුතු පිළිබඳව කාරක සභාව ඊයේ තීරණය කළේය.
+Parliamentary Business has commenced under the patronage of the Deputy Speaker.
+
+The diabet of the no-confidence motion against Speaker Mahinda Yapa Abeywardena will be held today (20) today.
+
+Meanwhile, the Committee on Parliament yesterday decided to give another date on the debate on the no-confidence motion.
 
 ◼️
 
 [Data](articles/2aa78baf.json)
+
+[Extended Data](ext_articles/2aa78baf.ext.json)
 
 ---
 
@@ -2159,45 +2211,5 @@ The Colombo District Court had earlier issued the order, considering the complai
 [Data](articles/50d5cfe4.json)
 
 [Extended Data](ext_articles/50d5cfe4.ext.json)
-
----
-
-### Both the Cobb group resigns from Chanakyan Rasamanikam and Hesha Vidhanage!
-
-*2024-03-19 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179158) · `ta`
-
-Cobb group resigns from Chanakyan Rasamanikam and Hesha Vidhanage, also from Committee of Public Companies (COP).
-
-🟩
-
-Tamil National Alliance (TNA) parliamentarian Chanakyan Rasamanikam and United People's Power MP Hesha Vidanage have also resigned from the Committee of Public Companies (COP).
-
-◼️
-
-[Data](articles/15878bbc.json)
-
-[Extended Data](ext_articles/15878bbc.ext.json)
-
----
-
-### Basil reiterates call for Sri Lanka parliamentary polls before presidential election
-
-*2024-03-19 17:55:00* · [`economynextcom`](https://economynext.com/basil-reiterates-call-for-sri-lanka-parliamentary-polls-before-presidential-election-155254/) · `en`
-
-ECONOMYNEXT — Sri Lanka Podujana Peramuna (SLPP) national organiser Basil Rajapaksa has told party members that President Ranil Wickremesinghe would be a suitable candidate for the presidential election but the parliamentary polls should be held at first, an SLPP MP said.
-
-Parliamentarian S M Chandrasena told reporters that Rajapaksa had said President Wickremesinghe is a “skilled leader and a good candidate”.
-
-“What he was indirectly saying there was that Mr Wickremesinghe is suitable to run. But he’s also saying that the parliamentary polls should be held first,” said Chandrasena.
-
-Rajapaksa recently told the privately owned NewsFirst network that the next parliament will be a more balanced one if parliamentary elections are held before a presidential election and won’t result in any one party monopolising political power.
-
-The SLPP ideologue said power should not be concentrated around one party.
-
-...
-
-[Data](articles/b7a600bb.json)
-
-[Extended Data](ext_articles/b7a600bb.ext.json)
 
 ---

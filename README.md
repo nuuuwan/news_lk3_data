@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 11:17:47**
+As of **2024-03-20 11:33:38**
 
 ## Newspaper Stats
 
-*Scraped **14,026** Articles*
+*Scraped **14,035** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,158 @@ newsfirstlk | 363
 dailyftlk | 734
 economynextcom | 745
 islandlk | 770
-adalk | 1,211
-adaderanalk | 1,685
+adalk | 1,212
+adaderanalk | 1,686
 tamilmirrorlk | 1,699
-virakesarilk | 1,966
-dailymirrorlk | 2,147
-adaderanasinhalalk | 2,231
+virakesarilk | 1,969
+dailymirrorlk | 2,149
+adaderanasinhalalk | 2,233
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,026 (100.0%) of 14,026 articles have been extended.
+14,026 (99.9%) of 14,035 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### மத்திய வங்கியின் சம்பள அதிகரிப்பை ஒத்திவைக்குமாறு பரிந்துரை!
+
+*2024-03-20 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/179198) · `ta`
+
+தெளிவான, நியாயமான தீர்வு கிடைக்கும் வரை சம்பள அதிகரிப்பை ஒத்திவைக்குமாறு அரசாங்க நிதி தொடர்பான பாராளுமன்றக் குழு இலங்கை மத்திய வங்கிக்கு   பரிந்துரை செய்துள்ளது.
+
+இலங்கை மத்திய வங்கியில் கடமை புரிவோரின்  சம்பள அதிகரிப்பு குறித்து அரசாங்க நிதி தொடர்பான பாராளுமன்ற குழுவின் அறிக்கை அதன் தலைவர் கலாநிதி  ஹர்ஷ டி சில்வாவினால் பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/8fe8133b.json)
+
+---
+
+### Third suspect arrested over deadly shooting in Pitigala
+
+*2024-03-20 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98072/third-suspect-arrested-over-deadly-shooting-in-pitigala) · `en`
+
+Another suspect has been arrested in connection with his alleged complicity in the fatal shooting reported in Pitigala last week.
+
+The 31-year-old was taken into custody in Kahaduwa of Elpitiya police division on Tuesday afternoon (March 19).
+
+Additionally, 2g and 250mg of heroin were also found on the suspect at the time of the arrest, according to the police.
+
+Meanwhile, earlier this week, two other suspects, aged 35 years, were apprehend over the shooting incident that killed two individuals in Pitigala. One suspect was charged with helping orchestrate the crime while the other was charged with aiding and abetting the shooting.
+
+On March 11, two unidentified assailants on a motorcycle had opened fire using a T-56 firearm near a shop located at the Guruwala Junction in Pitigala, killing two people and critically injuring three others.
+
+The police later said the two shooting victims were merely bystanders who tragically lost their lives in the gunfire and did not have any criminal records.
+
+◼️
+
+[Data](articles/ec001c63.json)
+
+---
+
+### போர்நிறுத்த பேச்சுவார்த்தையை குழப்ப இஸ்ரேல் சதி: ஹமாஸ் தலைவர்
+
+*2024-03-20 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/179197) · `ta`
+
+காஸா பிராந்தியத்தின் மிகப் பெரிய வைத்தியசாலையை இஸ்ரேல் முற்றுகையிட்டதையடுத்து, காஸா போர் நிறுத்தத்துக்கான பேச்சுவார்த்தைகளை குழப்புவற்கு இஸ்ரேல் சதி செய்கிறது என ஹமாஸ் அமைப்பின் தலைவர் இஸ்மாயில் ஹானியே குற்றம் சுமத்தியுள்ளார்.
+
+கடந்த திங்கட்கிழமை காஸாவின் அல் ஷிபா வைத்தியசாலை முற்றுகையின்போது, ஹமாஸின் டசின் கணக்கான தலைவர்கள் கொல்லப்பட்டனர் எனவம், நூற்றுக்கணக்கானோர் கைது செய்யப்பட்டனர் எனவும் இஸ்லே; தெரிவிததுள்ளது.
+
+இந்நிலையில், கட்டாரை தளமாகக்கொண்ட, ஹமாஸ் தலைவர் இஸ்மாயில் ஹானியே இது தொடர்பாக கூறுகையில், 'அல் ஷிபா மருத்துவ வளாகத்தில் ஸியோனிஸ படைகளின் நடவடிக்கையானது, காஸாவில் வாழ்க்கை சூழல் மீளத் திரும்புவதை  தடுக்கும் நோக்கத்தை வெளிப்படுத்துகிறது.
+
+பொலிஸ் அதிகாரிகளையும் அரசாங்க அதிகாரிகளையும் வேண்டுமேன்றே இலக்கு வைப்பதானது குழப்பங்களையும்  எமது மக்களிடையே வன்முறைகளையும் ஏற்படுத்தும் நோக்கத்தை வெளிப்படுத்துகிறது.
+
+◼️
+
+[Data](articles/82b39856.json)
+
+---
+
+### Nalin Bandara threatens to fast unto death unless COPE chief removed
+
+*2024-03-20 11:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nalin-Bandara-threatens-to-fast-unto-death-unless-COPE-chief-removed/108-279229) · `en`
+
+Parliament, March 20 (Daily Mirror)- Whilst calling the government to get Commitee on Public Enterprises (COPE) chief Rohitha Abeygunawarde to resign from his post, SJB MP Nalin Bandara Jayamaha told the House today that he will stage a fast unto death if the former does not resign.
+
+"The reputation of COPE has diminished because of the current situation," he added.
+
+◼️
+
+[Data](articles/2cba86c6.json)
+
+---
+
+### කෝප් සභාපති අයින් කරන්නැයි ඉල්ලා උපවාසයක් ?
+
+*2024-03-20 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194721) · `si`
+
+කෝප් කමිටුවේ සභාපති ධුරය සම්බන්ධයෙන් රජයේ ස්ථාවරය කුමක්දැයි පාර්ලිමේන්තු මන්ත්‍රී නලීන් බණ්ඩාර මහතා අද (20) පාර්ලිමේන්තුවේදී ප්‍රශ්න කර සිටියේය.
+
+ඔහු පැවසුවේ එම පත්කිරීම මගින් කෝප් කමිටුව හෑල්ලුවට පත්වන බවයි.
+
+කෝප් කමිටුවෙන් මේ වනවිට මන්ත්‍රීවරුන් 8 දෙනෙක් පමණ ඉවත් වී ඇති බවත් කෝප් කමිටු සභාපතිවරයාව ඉවත් නොකළහොත් උපවාසයකට යෑමට සිදුවිය හැකි බවද ඔහු පැවසීය.
+
+කෝප් කමිටුවේ සභාපති ලෙස රෝහිත අබේගුණවර්ධන මහතා ව පසුගියදා පත් කෙරුණු අතර එම පත්කිරීමට එරෙහිව විවිධ පාර්ශ්ව විරෝධය දක්වති.
+
+◼️
+
+[Data](articles/a41ecf22.json)
+
+---
+
+### කෝප් සභාපති අයින් කරන්නැයි ඉල්ලා උපවාසයක් ?
+
+*2024-03-20 11:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194720) · `si`
+
+කෝප් කමිටුවේ සභාපති ධුරය සම්බන්ධයෙන් රජයේ ස්ථාවරය කුමක්දැයි පාර්ලිමේන්තු මන්ත්‍රී නලීන් බණ්ඩාර මහතා අද (20) පාර්ලිමේන්තුවේදී ප්‍රශ්න කර සිටියේය.
+
+ඔහු පැවසුවේ එම පත්කිරීම මඟින් කෝප් කමිටුව හෑල්ලුවට පත්වන බවයි.
+
+කෝප් කමිටුවෙන් මේ වනවිට මන්ත්‍රීවරුන් 8 දෙනෙක් පමණ ඉවත් වී ඇති බවත් කෝප් කමිටු සභාපතිවරයාව ඉවත් නොකළහොත් උපවාසයකට යෑමට සිදුවිය හැකි බවද ඔහු පැවසීය.
+
+කෝප් කමිටුවේ සභාපති ලෙස රෝහිත අබේගුණවර්ධන මහතා ව පසුගියදා පත් කෙරුණු අතර එම පත්කිරීමට එරෙහිව විවිධ පාර්ශ්ව විරෝධය දක්වති.
+
+◼️
+
+[Data](articles/1bdd8877.json)
+
+---
+
+### பௌத்த பிக்குகளின் பேரரசியல் அபிலாஷைகளைத் தடுக்கும்வரை வெடுக்குநாறிமலை விவகாரத்தை ஒத்த மோதல்கள் தொடர்ந்து அரங்கேறும் - சர்வதேச நெருக்கடி கண்காணிப்புக்குழுவின் ஆய்வாளர் எச்சரிக்கை
+
+*2024-03-20 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/179195) · `ta`
+
+சட்டத்துக்கு மதிப்பளிக்குமாறு 'கொழும்பு அரசாங்கம்' வலியுறுத்தும் வரையிலும், நாட்டின் வட, கிழக்கு மாகாணங்களில் காணிகளை அபகரிப்பதையும், இன-மதப்பரவலை மாற்றியமைப்பதையும் இலக்காகக்கொண்டு இராணுவத்தினரின் ஒத்துழைப்புடன் இயங்கிவரும் பௌத்த பிக்குகளின் பேரரசியல் அபிலாஷைகளைத் தடுக்கும் வரையிலும் வெடுக்குநாறிமலை விவகாரத்தை ஒத்த மோதல்கள் தொடர்ந்து அரங்கேறும் என சர்வதேச நெருக்கடி கண்காணிப்புக்குழுவின் இலங்கை ஆய்வாளர் அலன் கீனன் எச்சரித்துள்ளார்.
+
+வவுனியா மாவட்டத்தின் வெடுக்குநாறிமலையில் உள்ள ஆதிலிங்கேஸ்வரர் ஆலயத்தில் கடந்த 8 ஆம் திகதி சிவராத்திரி தினத்தன்று பூஜை வழிபாடுகளில் ஈடுபடச்சென்ற பக்தர்களுக்கு பொலிஸாரால் இடையூறு விளைவிக்கப்பட்டதுடன், இரவு வேளையில் வழிபாடுகளைத் தொடர முற்பட்டோர் அங்கிருந்து வலுகட்டாயமாக வெளியேற்றப்பட்டனர். அதுமாத்திரமன்றி ஆலயப்பூசகர் உள்ளடங்கலாக எண்மர் பொலிஸாரால் கைதுசெய்யப்பட்டனர்.
+
+அவர்கள் 19 ஆம் திகதிவரை விளக்கமறியலில் வைக்கப்பட்டிருந்த நிலையில், நேற்றைய தினம் அவர்கள் அனைவரும் விடுவிக்கப்பட்டதுடன் அவர்களுக்கு எதிரான வழக்கும் தள்ளுபடி செய்யப்பட்டது.
+
+...
+
+[Data](articles/6bd1de56.json)
+
+---
+
+### අහුංගල්ල පොදු ළිදකින් පතොරම් හමුවෙයි
+
+*2024-03-20 10:53:56* · [`adalk`](https://www.ada.lk/breaking_news/අහුංගල්ල-පොදු-ළිදකින්-පතොරම්-හමුවෙයි/11-408717) · `si`
+
+අහුංගල්ල, ඌරගහ මාර්ගයේ ගල්වෙරෙහ ප්‍රදේශයේ පොදු නාන ළිදක තිබී පතොරම් තොගයක් හමුවී ඇතැයි
+
+අහුංගල්ල පොලීසය කියයි. 19 දා සවස 05.30ට පමණ ප්‍රදේශවාසීන් කිහිප දෙනෙකු විසින් ජල පොම්පයක් යොදාගෙන එකී ළිදේ ජලය ඉවත්කර තිබේ. ඒ අවස්ථාවේ මෙම පතොරම් තොගය හමුවී ඇති අතර, පොලීසියට සිද්ධිය දැනුම් දී තිබේ.
+
+ඒ අතර, බෝර 12 ගිනි අවි සදහා යොදන පතොරම් 07ක්, 5.56.45 වර්ගයේ පතොරම් 03 ක්ද තිබෙන බව පොලීසිය කියයි. සිද්ධිය පිළිබදව අහුංගල්ල පොලීසිය පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/912418dd.json)
+
+---
 
 ### Issuing of a 10 year old son
 
@@ -93,6 +229,28 @@ The irrigation engineer further pointed out that the water capacity of the Kanta
 [Data](articles/5c8697d0.json)
 
 [Extended Data](ext_articles/5c8697d0.ext.json)
+
+---
+
+### Sri Lanka to host Asia Rugby Division 1 in Colombo
+
+*2024-03-20 10:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-host-Asia-Rugby-Division-1-in-Colombo/108-279228) · `en`
+
+Mar. 20 (Daily Mirror) - Sri Lanka Rugby (SLR) is set to host the Asia Rugby Division 1 Championship in Colombo from April 28 to May 5 between hosts Sri Lanka, Pakistan, and Qatar.
+
+However, the participation of Pakistan is still in doubt due to political uncertainty. This tournament was confirmed by Asia Rugby recently.
+
+If Pakistan pulls out, SLR will likely host the event with two matches against the Qatar outfit and the venue for the tournament probably, will be the Racecourse Grounds in Colombo.
+
+Meanwhile, CR and FC and Royal College Head Coach, Dushantha Lewke is tipped to be in charge of the Sri Lanka outfit.
+
+The Asia Rugby Top Four is fought between Hong Kong, South Korea, Malaysia and the United Arab Emirates (UAE).
+
+The losers will be demoted to Division 1 in 2025 while the winners in Colombo during the Division 1 encounters this year will get their berth booked for the top four in 2025 which will see three home matches and an equal number of matches away.
+
+...
+
+[Data](articles/6a405efa.json)
 
 ---
 
@@ -526,9 +684,11 @@ Under the Sri Lanka General Front, MP Sharani Walaboda was elected to Parliament
 
 ECONOMYNEXT – Sri Lanka’s rupee opened at 304.40/70 to the US dollar in the spot forex market on Wednesday, slightly weaker from 303.95/304.05 on Tuesday, dealers said, while bond yields were steady.
 
-A bond maturing on 15.12.2026 was quoted at 11.30/37 percent down from 11.30/40 percent.
+A bond maturing on 15.12.2026 was quoted at from yesterday’s closing of 11.30/40 percent in late morning trade.
 
-A bond maturing on 15.12.2028 was quoted at 12.10/20 percent up from 12.10/15 percent.
+A bond maturing on 15.09.2027 was quoted at 11/90/12.00 closed at from 11.85/12.00 percent.
+
+A bond maturing on 15.12.2028 was quoted at 12.10/15 from 12.10/15 percent.
 
 The Colombo Stock Exchange opened down; the All Share Price Index was down at 11,276, and the S&P SL20 was up 0.14 percent at 3,214.(Colombo/Mar20/2024)
 
@@ -2021,195 +2181,5 @@ Sri Lanka Customs Officers’ Union has decided to temporarily call off its trad
 [Data](articles/dbc3d1f2.json)
 
 [Extended Data](ext_articles/dbc3d1f2.ext.json)
-
----
-
-### The full development of the East can solve the country's debt crisis - the Governor of the Eastern Province Senthil Thondaman
-
-*2024-03-19 22:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179168) · `ta`
-
-Senthil Thondaman, Governor of the Eastern Province, believes that the full development of the East can resolve the country's debt crisis, emphasizing President Ranil Wickremesinghe's leadership in dealing with the economic crisis. The Eastern Province is focusing on development programs, including shrimp, heavy resources, port, airport, water resources, tourism, and agricultural lands, to improve the country's debts. Thondaman also highlights the need for fair salaries for plantation workers and the importance of cooperating with the IMF to repay debts.
-
-🟩
-
-The Governor of the Eastern Province Senthil Thondaman said that the planned development work in the Eastern Province is being carried out on the president's directive and that the development of the Eastern Province can be solved by fully developing the country's debt crisis.
-
-He emphasized that it is the duty of all parties to support him because President Ranil Wickremesinghe is the only leader who can successfully deal with the economic crisis and build the country.
-
-Eastern Province Governor Senthil Thondaman made this statement at a media briefing held at the Presidential Media Center on Tuesday (19).
-
-“We are currently carrying out various development programs in the Eastern Province on the directive of Hon. President Ranil Wickremesinghe.. The Eastern Province has suffered a setback compared to other provinces because of the thirty -year war.. Therefore, the President has advised me to take more care on the development of the three districts of this province.
-
-...
-
-[Data](articles/8fa7fb47.json)
-
-[Extended Data](ext_articles/8fa7fb47.ext.json)
-
----
-
-### Funds from India for Kankesanthurai Port Development
-
-*2024-03-19 21:39:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காங்கேசன்துறை-துறைமுக-அபிவிருத்திக்கு-இந்தியாவிடமிருந்து-நிதி/175-334896) · `ta`
-
-India funds $61.5M for Kankesanthurai port development, including deepening to 30 meters and constructing a new passenger terminal.
-
-🟩
-
-The Government of India has agreed to provide US $ 61.5 million funding to fully develop the Kankesanthurai port.
-
-This was reported at a meeting between Indian High Commissioner to Sri Lanka Santosh Ja and Ports, Shipping and Aviation Minister Nimal Siripala de Silva.
-
-Under this development plan, massive ships and boats are to be deepened to the port of 30 meters and are planned to construct a new wavelength.
-
-Minister Nimal Siripala de Silva said that the new passenger terminal has been constructed at the Kankesanthurai port at a cost of Rs.
-
-Accordingly, the Minister of India has informed the Indian High Commission in Sri Lanka that the development of the Kankesanthurai port will be launched using US $ 61.5 million funded by India.. Remble
-
-◼️
-
-[Data](articles/e42ba158.json)
-
-[Extended Data](ext_articles/e42ba158.ext.json)
-
----
-
-### Attan Sri Manikkapillai Devasthanam
-
-*2024-03-19 21:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179093) · `ta`
-
-Attan Sri Manikkapillai Devasthanam, capital of Nuwara Eliya district, is Hatton, a peaceful city with a 155-year history, including a railway station opened in 1884.
-
-🟩
-
-Attan Municipality is the capital of the Nuwara Eliya district. Hatton, which is proud to be a city of peace, has a 155 -year history. The railway station was opened in 1884.
-
-◼️
-
-[Data](articles/b6e0b358.json)
-
-[Extended Data](ext_articles/b6e0b358.ext.json)
-
----
-
-### Some train services suspended
-
-*2024-03-19 21:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/179167) · `ta`
-
-Train services to Galle and Matara suspended after derailment at Colombo Fort Railway Station.
-
-🟩
-
-A train derailed at the Colombo Fort Railway Station on Tuesday evening.
-
-Due to this, it has been reported that the train services to Galle and Matara have been suspended on the coastal railway line.
-
-◼️
-
-[Data](articles/7145e997.json)
-
-[Extended Data](ext_articles/7145e997.ext.json)
-
----
-
-### Blow for Sri Lanka as Hasaranga is suspended for Bangladesh Tests
-
-*2024-03-19 21:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98063/blow-for-sri-lanka-as-hasaranga-is-suspended-for-bangladesh-tests) · `en`
-
-Sri Lanka all-rounder Wanindu Hasaranga has been suspended for Bangladesh’s two-Test series against Bangladesh, shortly after announcing his decision to return to Test cricket having retired from the format last year.
-
-During the third ODI in the recently-concluded series against Bangladesh, Hasaranga was found guilty of breaching article 2.8 of the ICC Code of Conduct for Players and Player Support Personnel, which relates to “showing dissent at an Umpire’s decision during an International Match.”
-
-The incident occurred in the 37th over of the game when Hasaranga snatched his cap from one of the umpires and ridiculed the umpiring in the match.
-
-Bangladesh took the series 2-1 after winning the contest by four wickets.
-
-He received a 50 per cent fine and accumulated three demerit points for his offense. This brought his total demerit points to eight in a 24-month period.
-
-...
-
-[Data](articles/23fa88f5.json)
-
-[Extended Data](ext_articles/23fa88f5.ext.json)
-
----
-
-### Hasaranga's return to Test Cricket saves T20 World Cup participation
-
-*2024-03-19 20:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hasaranga-s-return-to-Test-Cricket-saves-T20-World-Cup-participation/108-279174) · `en`
-
-Mar. 19 (Daily Mirror) - Sri Lanka all-rounder Wanindu Hasaranga has been suspended for Bangladesh's two-Test series against Bangladesh, shortly after announcing his decision to return to Test cricket following his retirement from the format last year.
-
-During the third ODI in the recently-concluded series against Bangladesh, Hasaranga was found guilty of breaching Article 2.8 of the ICC Code of Conduct for Players and Player Support Personnel, which relates to "showing dissent at an Umpire’s decision during an International Match.
-
-The incident occurred in the 37th over of the game when Hasaranga snatched his cap from one of the umpires and ridiculed the umpiring during the match.
-
-Bangladesh clinched the series 2-1 after winning the contest by four wickets.
-
-Hasaranga received a 50 percent fine and accumulated three demerit points for his offense. This brought his total demerit points to eight within a 24-month period.
-
-...
-
-[Data](articles/54e011ae.json)
-
-[Extended Data](ext_articles/54e011ae.ext.json)
-
----
-
-### Blow for Sri Lanka as Hasaranga suspended for Bangladesh Tests
-
-*2024-03-19 20:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Blow-for-Sri-Lanka-as-Hasaranga-suspended-for-Bangladesh-Tests/108-279174) · `en`
-
-March 19 - Sri Lanka all-rounder Wanindu Hasaranga has been suspended for Bangladesh's two-Test series against Bangladesh, shortly after announcing his decision to return to Test cricket having retired from the format last year.
-
-During the third ODI in the recently-concluded series against Bangladesh, Hasaranga was found guilty of breaching article 2.8 of the ICC Code of Conduct for Players and Player Support Personnel, which relates to “showing dissent at an Umpire’s decision during an International Match.”
-
-The incident occurred in the 37th over of the game when Hasaranga snatched his cap from one of the umpires and ridiculed the umpiring in the match.
-
-Bangladesh took the series 2-1 after winning the contest by four wickets.
-
-◼️
-
-[Data](articles/d8106d9a.json)
-
-[Extended Data](ext_articles/d8106d9a.ext.json)
-
----
-
-### Lankadeepa wins 'Most Popular Newspaper' Award for 18th consecutive year
-
-*2024-03-19 20:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lankadeepa-wins-Most-Popular-Newspaper-Award-for-18th-consecutive-year/108-279173) · `en`
-
-Colombo, March 19 - Our sister papers Daily Lankadeepa and the Sunday Lankadeepa won the most popular newspaper award for the 18th consecutive year at ‘SLIM- KANTAR Peoples Award 2024’ being held at Monarch Imperial, Sri Jayawardenapura Kotte.
-
-The awards ceremony was organised by the Sri Lanka Institute of Marketing (SLIM) together with Kantar, Sri Lanka.
-
-◼️
-
-[Data](articles/ea655c87.json)
-
-[Extended Data](ext_articles/ea655c87.ext.json)
-
----
-
-### TV Derana becomes People’s Television Channel of the Year for 7th consecutive time
-
-*2024-03-19 20:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98062/tv-derana-becomes-peoples-television-channel-of-the-year-for-7th-consecutive-time) · `en`
-
-Sri Lanka’s premium entertainment channel “TV Derana” won the People’s Television Channel of the Year Award for the 7th consecutive year at the SLIM-KANTAR People’s Awards 2024.
-
-“TV Derana” also won the award for Youth Choice TV Channel of the Year, at the ceremony which got underway at the Monarch Imperial Hotel in Sri Jayewardenepura Kotte on Tuesday evening (March 19).
-
-Remarkably, TV Derana’s Chatura Alwis won the award for People’s Television Presenter of the Year at the SLIM-KANTAR People’s Awards 2024. This is the 6th consecutive year the award was conferred on Alwis.
-
-TV Derana’s “Deweni Inima” teledrama bagged the award for the People’s Teledrama of the Year while its lead actor Raveen Kanishka won the People’s Teledrama Actor of the Year award.
-
-Meanwhile, Sri Lankans have voted Dialog as the Telecommunication Brand of the Year for an unprecedented 13th consecutive year at the SLIM-KANTAR People’s Awards 2024.
-
-...
-
-[Data](articles/21c742ce.json)
-
-[Extended Data](ext_articles/21c742ce.ext.json)
 
 ---

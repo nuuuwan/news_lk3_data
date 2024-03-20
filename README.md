@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 11:53:15**
+As of **2024-03-20 12:04:12**
 
 ## Newspaper Stats
 
-*Scraped **14,036** Articles*
+*Scraped **14,044** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,157 @@ dailyftlk | 734
 economynextcom | 745
 islandlk | 770
 adalk | 1,212
-adaderanalk | 1,686
-tamilmirrorlk | 1,699
-virakesarilk | 1,969
+adaderanalk | 1,687
+tamilmirrorlk | 1,703
+virakesarilk | 1,970
 dailymirrorlk | 2,149
-adaderanasinhalalk | 2,234
+adaderanasinhalalk | 2,236
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,035 (100.0%) of 14,036 articles have been extended.
+14,036 (99.9%) of 14,044 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### මහ බැංකු පඩි වැඩිවීම ගැන මුදල් කාරක සභාවේ නිර්දේශ මෙන්න
+### இந்திய காலனித்துவ எதிர்ப்பு: தடையுத்தரவு நிராகரிப்பு
 
-*2024-03-20 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194722) · `si`
+*2024-03-20 11:51:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-காலனித்துவ-எதிர்ப்பு-தடையுத்தரவு-நிராகரிப்பு/175-334924) · `ta`
 
-ශ්‍රී ලංකා මහ බැංකුවේ ස්වාධීනත්වයට හානි නොවන පරිදි ගැටලුවට සාධාරණ විසඳුමක් ලැබෙන තෙක් වැටුප් වැඩිකිරීම කල්දමන ලෙස රජයේ මුදල් පිළිබඳ පාර්ලිමේන්තු කාරක සභාව ශ්‍රී ලංකා මහ බැංකුවට අද නිර්දේශ ලබාදුන්නේය.
+“இந்திய காலனித்துவத்துக்கு எதிராக” என்ற தலைப்பில் முன்னிலை சோசலிசக் கட்சி கொழும்பு விஹார மகாதேவி பூங்காவில் புதன்கிழமை (20) ஏற்பாடு செய்திருந்த ஆர்ப்பாட்டப் பேரணி மற்றும் பேரணியை தடுக்கும் வகையில் தடை உத்தரவு பிறப்பிக்குமாறு கறுவாத்தோட்ட பொலிஸாரின் கோரிக்கையை கொழும்பு பிரதான நீதவான் பிரசன்ன அல்விஸ்   நிராகரித்துள்ளார்.
 
-පාර්ලිමේන්තුවේ දී මේ පිළිබඳ අදහස් දක්වමින් රජයේ මුදල් පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේ සභාපති, ආචාර්ය හර්ෂ ද සිල්වා මහතා සඳහන් කර සිටියේ, වැටුප් වැඩිකිරීම සලකා බැලීම සඳහා මුදල් අමාත්‍යවරයා විසින් මහ බැංකු අධිපතිවරයාගේ එකඟත්වය ඇතිව ස්වාධීන පාරිශ්‍රමික කමිටුවක් කඩිනමින් පත්කරන ලෙසට ද නිර්දේශ කරන බවය.
+நாட்டின் அதியுயர் சட்டமான அரசியலமைப்பின் மூலம் மக்களுக்கு வழங்கப்பட்டுள்ள உரிமைகளை குற்றவியல் நடைமுறைச் சட்டத்தின் சரத்துக்களால் தணிக்கை செய்ய முடியாது என பிரதான நீதவான் சுட்டிக்காட்டினார்.
 
-ඒ පිළිබඳ වාර්තාව සති 4ක් ඇතුළත රජයේ මුදල් පිළිබඳ කාරක සභාවට ඉදිරිපත් කරන ලෙසත් නිර්දේශ කර සිටි හර්ෂ ද සිල්වා මහතා, ලැබී ඇති කරුණු මත අනෝන්‍යව පිළිගත් විසඳුමක් ලැබෙන තුරු වැටුප් වැඩිකිරීම ශ්‍රී ලංකා විසින් කල්දමන ලෙසත් නිර්දේශ කළේය.
+பேச்சுரிமை, ஒன்றுகூடல் சுதந்திரம் உள்ளிட்ட அரசியல் சாசனத்தின் 14வது சரத்தின் மூலம் உத்தரவாதம் அளிக்கப்பட்டுள்ள அடிப்படை மனித உரிமைகளை மீறும் உத்தரவை நீதிமன்றத்தால் பிறப்பிக்க முடியாது எனவும், அணிவகுப்பு அல்லது போராட்டத்தை தடுப்பதற்கு போதுமான உண்மைகள் நீதிமன்றத்தின் முன் இல்லை எனவும் நீதவான் சுட்டிக்காட்டினார்.
 
-ශ්‍රී ලංකා මහ බැංකුවට අදාළ මෙන්ම විශේෂිත කාර්ය මණ්ඩලවල ප්‍රවීණත්වය ප්‍රමුඛ කර සියලු කාර්ය මණ්ඩල ශ්‍රේණීවල පාරිශ්‍රමික සාධාරණ ලෙස ගැලපුම් කිරීම මෙම කමිටුව විසින් සිදුකරනු ඇති බවට ද රජයේ මුදල් පිළිබඳ කාරක සභාව බලාපොරොත්තු වන බව ද හර්ෂ ද සිල්වා මහතා පැවසීය.
+இந்தப் போராட்டத்தின் மூலம் ஒடுக்குமுறைச் சூழலை உடனடியாகத் தடுக்க வேண்டிய அவசியம் இல்லை என்பதற்கு எந்த ஆதாரமும் இல்லை என்றும் தெரிவிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/01b07277.json)
+
+---
+
+### பொலிஸாரிடம் சிக்கியபோது காதலியைக் கைவிட்டு தப்பிச் சென்ற காதலன் : மாதம்பையில் சம்பவம்!
+
+*2024-03-20 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179204) · `ta`
+
+தனது காதலனுடன் மோட்டார் சைக்கிளில்  போதைப்பொருனை விற்பனைக்காக  எடுத்துச் சென்றபோது  பொலிஸாரிடம் அவர் சிக்கிய நிலையில் காதலன் தப்பியோடியதாக மாதம்பை பொலிஸார் தெரிவிக்கின்றனர்.
+
+விலத்வவ பிரதேசத்தைச் சேர்ந்த 27 வயதுடைய யுவதி ஒருவரையே பொலிஸார் கைது செய்துள்ளனர்.
+
+குறித்த  யுவதி தனது காதலனுடன் இணைந்து போதைப்பொருள் விநியோகத்தில் சில காலமாக ஈடுபட்டு வந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+பொலிஸாருக்குக்  கிடைத்த தகவலின் அடிப்படையில்   தும்மலசூரிய விலத்தாவ வீதியில்  குறித்த மோட்டார் சைக்கிளை நிறுத்திச் சோதனையிட்டபோதே இவர்களிடமிருந்து போதைப்பொருள் கைப்பற்றப்பட்டதுடன்  காதலன்  அங்கிருந்து தப்பிச் சென்றுள்ளார்.
+
+◼️
+
+[Data](articles/2d4108fe.json)
+
+---
+
+### දමිතාට සහ සැමියාට එරෙහි නඩුවට අධිකරණය දුන් නියෝගය
+
+*2024-03-20 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194724) · `si`
+
+කොරියාවට යවන බව පවසා මුදල් වංචා කළ බවට චෝදනා එල්ලවී ඇති ප්‍රවීණ රංගන ශිල්පිනී දමිතා අබේරත්න මහත්මිය සහ ඇයගේ සැමියාට එරෙහිව පරිගණක අපරාධ කොට්ඨාශය විසින් අද අධිකරණය හමුවේ කරුණු වාර්තා කර තිබේ.
+
+එහිදී පරිගණක අපරාධ කොට්ඨාශය දැනුම්දී ඇත්තේ ප්‍රවීණ රංගන ශිල්පිනී දමිතා අබේරත්න මහත්මිය සහ ඇයගේ සැමියාට එරෙහිව ආගාමික සහ විගාමික පනත යටතේ වැරදි අනාවරණය වන බවය.
+
+මේ අතර ප්‍රවීණ රංගන ශිල්පිනී දමිතා අබේරත්න මහත්මිය සහ ඇයගේ සැමියා විසින් සිදුකළ අපේක්ෂිත ඇපය සම්බන්ධයෙන් විරුද්ධ වන බවද පොලීසිය වැඩිදුරටත් අධිකරණය හමුවේ කරුණු වාර්තා කළේය.
+
+ඒ අනුව ඔවුන් අත්අඩංගුවට නොගන්නා ලෙසට අධිකරණයේ කළ ඉල්ලීමට අදාළ නියෝගය ලබාදීම එළඹෙන 27 වනදා දක්වා කල්තබන බවට කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා දැනුම්දුන්නේය.
+
+කොරියාවට යවන බව පවසා රුපියල් ලක්ෂ 30ක මුදලක් වංචා කළ බවට දමිතා අබේරත්න සහ ඇගේ සැමියාට චෝදනා ගොනු කර තිබේ.
+
+◼️
+
+[Data](articles/5fc3475e.json)
+
+---
+
+### Success of Eastern Province development projects crucial to resolve national debt crisis: Senthil
+
+*2024-03-20 11:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98073/success-of-eastern-province-development-projects-crucial-to-resolve-national-debt-crisis-senthil) · `en`
+
+The Governor of the Eastern Province, Senthil Thondaman says the debt crisis of the country can be resolved by successfully executing the development projects outlined for the region under the guidance of President Ranil Wickremesinghe.
+
+As the President is the only leader capable of reconstructing the nation, it is incumbent upon all parties to rally behind him and offer their support, Thondaman further commented.
+
+The Eastern Province Governor made these remarks during a press briefing titled “Collective Path to a Stable Country” held at the President Media Centre (PMC) on Tuesday (March 19).
+
+“Following the instructions of President Ranil Wickremesinghe, we’ve initiated numerous development projects in the Eastern Province, with several more slated to begin soon. The province, having endured the effects of a thirty-year-long war, faced developmental setbacks relative to other regions in the country.
 
 ...
 
+[Data](articles/013638b8.json)
+
+---
+
+### එච් අයි වී ගැන අලුත් කතාවක්
+
+*2024-03-20 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194723) · `si`
+
+ආසාදිත සෛල වලින් එච් අයි වී ඉවත් කිරීමට විද්‍යාඥයින් කණ්ඩායමක් සමත් වී ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+නොබෙල් ත්‍යාගයෙන් සම්මාන ලැබූ Crispr නම් ජාන තාක්ෂණය ඒ සඳහා යොදාගෙන තිබේ.
+
+එම තාක්ෂණය මගින් ආසාදිත සෛල වල DNA ඉතා කුඩා කොටස්වලට විච්ජේදනය කර ඉවත් කිරීම හෝ අක්‍රිය කිරීම සිදු කරයි.
+
+ඒ ඔස්සේ යමෙකුගේ සිරුරේ ඇති වෛරස සම්පූර්ණයෙන් ඉවත් කළ හැකි බව විද්‍යාඥයෝ පවසති.
+
+නමුත් එහි ආරක්ෂාකාරී බව සහ ඵලදායී බව සම්බන්ධයෙන් තවත් පරීක්ෂණ කළ යුතු බව ඔවුන්ගේ අදහසයි.
+
+දැනට භාවිතයේ ඇති එච් අයි වී ඖෂධ මගින් වෛරසය පැතිරීම නැවැත්විය හැකි වුවත් එය සිරුරෙන් ඉවත් කිරීමට අසමත් ය.
+
+◼️
+
+[Data](articles/6b30fb30.json)
+
+---
+
+### Here is the recommendations of the passing Committee on increased gross weight
+
+*2024-03-20 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194722) · `si`
+
+The Parliamentary Committee on Sri Lanka's Central Bank recommends delaying salary increases until the bank's independence. Dr. Harsha de Silva, Chairman, suggests a 4-week deadline for a solution. The Government Finance Committee advises separating professional from non-professional salaries.
+
+🟩
+
+The Parliamentary Committee on the Central Bank of Sri Lanka has given Sri Lanka to the post of procrastinating salaries until the independence of the Central Bank of Sri Lanka.
+
+The Chairman of the Parliamentary Committee on Public Finance, Dr. Harsha de Silva said that the Presidential Minister of Finance has also prescribed the prolongation of the Governor of the Central Bank Governor.
+
+Mr. Harsha de Silva, Mr. Harsha de Silva, recommended to submit salary increases until a recognized solution to the Committee on the Public Finance Committee within 4 weeks.
+
+He also expects the Committee on Finance that this committee will act on the Central Bank and the proficiency of the Central Bank of Sri Lanka as well as proficient.
+
+The Government Finance Committee has also recommended that the salary decision to determine the salary staff should be separated from non-professional and other survivors.
+
+◼️
+
 [Data](articles/6cadb4e5.json)
+
+[Extended Data](ext_articles/6cadb4e5.ext.json)
+
+---
+
+### லங்கா தீபவுக்கு 18ஆவது ஆண்டாக விருது
+
+*2024-03-20 11:20:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/லங்கா-தீபவுக்கு-18ஆவது-ஆண்டாக-விருது/46-334922) · `ta`
+
+SLIM-KANTAR Peoples Award 2024’ இல், எமது சகோதர பத்திரிகைகளான டெய்லி லங்காதீப மற்றும் ஞாயிறு லங்காதீப ஆகியவை தொடர்ந்து 18 ஆவது ஆண்டாக ‘மிகவும் பிரபலமான செய்தித்தாள்’ விருதை வென்றன.
+
+இந்த விருது வழங்கும் விழா இலங்கையின் கந்தருடன் இணைந்து இலங்கை சந்தைப்படுத்தல் நிறுவனம் (SLIM) ஏற்பாடு செய்திருந்தது. ஞாயிறு லங்காதீப பத்திரிகையின் பிரதம ஆசிரியர் காஞ்சன தசநாயக்க இந்த விருதை பெற்றுக் கொள்கிறார்.
+
+இந்நிகழ்வில் டெய்லி லங்காதீப பத்திரிகையின் ஆசிரியர் அஜந்த குமார அகலகட, விஜய குழுமத்தின் பிரதம செயற்பாட்டு அதிகாரி ஜனக ரத்னகுமார மற்றும் விஜய பத்திரிகைகளின் பல்வேறு பிரிவுத் தலைவர்கள் காணப்படுகின்றனர்.
+
+◼️
+
+[Data](articles/77b33a2a.json)
 
 ---
 
@@ -204,6 +324,22 @@ As they were kept in detention until the 19th, they were all released yesterday 
 
 ---
 
+### கோழி இறைச்சி விலை குறைப்பு
+
+*2024-03-20 10:55:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-இறைச்சி-விலை-குறைப்பு/175-334920) · `ta`
+
+நாரஹேன்பிட்டி பொருளாதார மத்திய நிலையம் வெளியிட்டுள்ள தகவலின்படி, ஒரு கிலோ கிராம் கோழி இறைச்சியின் சில்லறை விலை ரூ. 30 ஆல் குறைக்கப்பட்டுள்ளதாக மையத்தின் மூத்த அதிகாரி ஒருவர் தெரிவித்தார்.
+
+விலை குறைப்பின் பின்னர் நாரஹேன்பிட்டி பொருளாதார மத்திய நிலையத்தில் ஒரு கிலோ கிராம் கோழி இறைச்சியின் புதிய  விலை ரூ. 1,180, கறி கோழி ரூ. 1,100 ஆகவும் , மற்றும் தோல் இல்லாத கோழி இறைச்சி ரூ. 1,100 ற்கும் விற்பனை செய்யப்படுகிறது.
+
+ஒரு கிலோ கிராம்  மாட்டிறைச்சி ரூ. 2,400 ஆகவும், ஒரு கிலோ கிராம்  ஆட்டிறைச்சி ரூ. 3,300 ற்கும் விற்பனை செய்யப்படுவதாகவும் அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/d5f1f53a.json)
+
+---
+
 ### Ammunition meets ammunition with common well
 
 *2024-03-20 10:53:56* · [`adalk`](https://www.ada.lk/breaking_news/අහුංගල්ල-පොදු-ළිදකින්-පතොරම්-හමුවෙයි/11-408717) · `si`
@@ -287,6 +423,24 @@ The irrigation engineer further pointed out that the water capacity of the Kanta
 [Data](articles/5c8697d0.json)
 
 [Extended Data](ext_articles/5c8697d0.ext.json)
+
+---
+
+### தேர்தல் முறைமையை மாற்ற அமைச்சரவை அனுமதி
+
+*2024-03-20 10:45:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முறைமையை-மாற்ற-அமைச்சரவை-அனுமதி/175-334918) · `ta`
+
+புதிய பாராளுமன்ற தேர்தல் முறைமை அறிமுகப்படுத்துவதற்கான அரசியலமைப்பு திருத்தங்களை முன்வைப்பதற்கான முன்மொழிவுக்கு அமைச்சரவை ஒப்புதல் அளித்துள்ளது.
+
+இது FPTP (பெரும்பான்மை வாக்கு முறை) முறையின் கீழ் 160 எம்.பி.க்களை தேர்ந்தெடுத்தல் மேலும் மிகுதியான வேட்பாளர்களை. விகிதாசார பிரதிநிதித்துவம் மூலம் தெரிவு செய்யும் முறையாகும்.
+
+நீதி அமைச்சர் விஜயதாச ராஜபக்ச அமைச்சரவையினால் அங்கீகரிக்கப்பட்ட முன்மொழிவை சமர்பித்தார். இந்த நோக்கத்திற்கு தேவையான அரசியலமைப்பு மாற்றங்களை நடைமுறைப்படுத்தும் வகையில் பாராளுமன்றத்தால் அமுல்படுத்த ஒரு புதிய சட்டம் உருவாக்கப்படும். இது ஒரு கலப்பு தேர்தல் முறையாக இருக்கும்.
+
+கடந்த காலங்களில், விகிதாசாரப் பிரதிநிதித்துவம் மற்றும் விருப்பு வாக்குகளை மட்டுமே அடிப்படையாகக் கொண்ட தற்போதைய தேர்தல் முறைக்கு மாற்றங்களைக் கொண்டுவர அப்போதைய அரசாங்கங்கள் முயங்சித்தமையும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/917c9273.json)
 
 ---
 
@@ -702,7 +856,7 @@ Shortly after the parliamentary session commenced this morning (March 20), the D
 
 However, the MP announced his resignation with immediate effect, asserting that he would communicate his decision in writing as well.
 
-On March 07, Abeygunawardena was elected by majority votes to serve as the new chairman of COPE at the first committee meeting convened for the Fifth Session of the Ninth Parliament. His name had been nominated by MP Mahindananda Aluthgamage and was seconded by MP Sanjeewa Edirimanne.
+At the first COPE meeting of the Fifth Session of the Ninth Parliament convened on March 07, Abeygunawardena was elected by majority votes to serve as the new chairman of the committee. His name had been nominated by MP Mahindananda Aluthgamage and seconded by MP Sanjeewa Edirimanne.
 
 ...
 
@@ -1246,7 +1400,7 @@ ECONOMYNEXT – Sri Lanka will allow offshore research ships for replenishments 
 
 This is the first time Sri Lanka has officially admitted that foreign research vessels will be allowed for replenishments since President Ranil Wickremesinghe’s government imposed a one year ban on offshore research vessels in December last year.
 
-“The ban on foreign ships is for research purposes, not on replenishment”, Niluka Kadurugamuwa, Sri Lakna’s Foreign Ministry Spokesman told EconomyNext.
+“The ban on foreign ships is for research purposes, not on replenishment”, Niluka Kadurugamuwa, Sri Lanka’s Foreign Ministry Spokesman told EconomyNext.
 
 “There was a German research vessel recently for replenishment and Sri Lanka allowed it.”
 
@@ -2041,191 +2195,5 @@ South Asia is home to many development innovations, including in the delivery of
 [Data](articles/de6b5e91.json)
 
 [Extended Data](ext_articles/de6b5e91.ext.json)
-
----
-
-### 40 percent of women in Sri Lanka are at risk
-
-*2024-03-19 23:04:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-40-வீதமான-பெண்கள்-ஆபத்தில்-உள்ளனர்/175-334897) · `ta`
-
-A study shows 40% of Sri Lankan women have stopped using sanitary napkins due to economic crisis, leading to health concerns. Prices have risen by 90% for domestic and 30% for imported goods, affecting families and causing health issues.
-
-🟩
-
-A recent study has revealed that about 40 women in Sri Lanka have stopped the use of the Sanitary Napkins due to the current economic crisis.
-
-The Sri Lanka Teachers Association has said that the school's visit to the students on a certain day due to the increase in the price of sanitary napkins.
-
-According to the survey, 40 percent of women between the ages of 15 and 47 have stopped the offering of sanitary napkin.
-
-The main reason for this is that the sanitary napkins have to pay higher prices.
-
-The price of domestic sanitary napkins has been increased by 90% and the prices of imported goods have been increased by 30%.
-
-Mothers said their children were in great difficulty due to the rise in the price of sanitary napkins.
-
-Doctors point out that women will face health problems if they do not pay much attention to this.. Remble
-
-◼️
-
-[Data](articles/8c670f62.json)
-
-[Extended Data](ext_articles/8c670f62.ext.json)
-
----
-
-### Lankadeepa clinches Most Popular Newspaper award again
-
-*2024-03-19 22:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Lankadeepa-clinches-Most-Popular-Newspaper-award-again/110-279178) · `en`
-
-Our sister papers Daily Lankadeepa and the Sunday Lankadeepa won the 'Most Popular Newspaper' award for the 18th consecutive year at the ‘SLIM- KANTAR Peoples Award 2024’ being held at the Monarch Imperial, Sri Jayawardenapura Kotte.
-
-The awards ceremony was organised by the Sri Lanka Institute of Marketing (SLIM) together with Kantar, Sri Lanka.
-
-Chief Editor of the Sunday Lankadeepa Kanchana Dassanayake is receiving the award.
-
-Ajantha Kumara Agalakada, Editor of the Daily Lankadeepa, Janaka Rathnakumara, the Chief Operating Officer of Wijeya Group of Companies and various sectional heads of Wijeya Newspapers at the event.
-
-◼️
-
-[Data](articles/0833159c.json)
-
-[Extended Data](ext_articles/0833159c.ext.json)
-
----
-
-### Fannu deals again
-
-*2024-03-19 22:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194706) · `si`
-
-The ICC imposed a two-match ban on Sri Lanka's Fannu for violating disciplinary laws in a match against Bangladesh. This decision was based on a judge's helmet incident, leading to a 50% fine on the competition fee. The ban affects two or four Tests or 4 ODIs.
-
-🟩
-
-The International Cricket Council (ICC) took action today to impose a two international competitions for Sri Lanka's three-genuine.
-
-He was due to violating the disciplinary laws of the International Cricket Council in the third one-day match with Bangladesh.
-
-The International Cricket Council has decided to impose a two international competitions for the decision of a judge in yesterday's match with Bangladesh yesterday.
-
-The International Cricket Council points out that the judge of the Bangladesh in the 37th innings of the Bangladesh innings had carried out his helmet.
-
-Due to this offense, the disciplinary report of the disciplinary report posted three punishments and a 50% per cent of the competition fee.
-
-Accordingly, within 24 months, his punishment marks will be imposed on two or four Tests or 4 ODIs against him.
-
-The Sri Lankan squad was named yesterday with the Samagued the Test series with Bangladesh with Bangladesh in August last year.
-
-...
-
-[Data](articles/1e3ed09c.json)
-
-[Extended Data](ext_articles/1e3ed09c.ext.json)
-
----
-
-### Lankadeepa clinches most Popular Newspaper award again
-
-*2024-03-19 22:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Lankadeepa-clinches-most-Popular-Newspaper-award-again/110-279178) · `en`
-
-Our sister papers Daily Lankadeepa and the Sunday Lankadeepa won the most popular newspaper award for the 18th consecutive year at ‘SLIM- KANTAR Peoples Award 2024’ being held at Monarch Imperial, Sri Jayawardenapura Kotte.
-
-The awards ceremony was organised by the Sri Lanka Institute of Marketing (SLIM) together with Kantar, Sri Lanka.
-
-In the frame are Janaka Rathnakumara, the Chief Operating Officer of Wijeya Group of Companies, Ajantha Kumara Agalakada, Editor of Daily Lankadeepa, and various sectional heads of Wijeya Newspapers.
-
-◼️
-
-[Data](articles/ddfcb51c.json)
-
-[Extended Data](ext_articles/ddfcb51c.ext.json)
-
----
-
-### Bangladesh’s Mushfiqur injured, out of Sri Lanka Tests
-
-*2024-03-19 22:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladeshs-Mushfiqur-injured-out-of-Sri-Lanka-Tests/108-279177) · `en`
-
-Dhaka, Mar. 19 (AFP) - Veteran Bangladesh batsman Mushfiqur Rahim has been ruled out of the upcoming Test series against Sri Lanka due to a thumb injury, the cricket board said Tuesday.
-
-The two-Test series, which is part of the 2023–25 ICC World Test Championship cycle, begins on Friday in Sylhet.
-
-Mushfiqur, Bangladesh's highest run-getter in Tests with 5,676 runs in 88 matches, was injured during Monday's four-wicket win, in the third one-day international against the visitors in Chittagong.
-
-Bangladesh team physio Bayjedul Islam Khan said Mushfiqur was hit by a ball on his right thumb early in the innings while keeping.
-
-"After the match, Mushfiqur underwent an X-ray examination in Dhaka," he said, adding that it revealed his right thumb was fractured.
-
-"He is currently undergoing conservative management for his injury and is expected to be sidelined for around three to four weeks."
-
-It rules him out of the Test series against Sri Lanka, he added.
-
-...
-
-[Data](articles/ef7d8ada.json)
-
-[Extended Data](ext_articles/ef7d8ada.ext.json)
-
----
-
-### 18 people injured in a bus accident
-
-*2024-03-19 22:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179169) · `ta`
-
-18 injured in EBO bus crash from Kandy to Horawapothana, damaging power, telephone wires, and Ceylon Electricity Board property.
-
-🟩
-
-An EBO bus traveling from Kandy to Horawapothana crashed into a wall and 18 passengers were injured and admitted to the hospital, police said.
-
-The crash has been damaged by many power wires, telephone wires and walls belonging to the Ceylon Electricity Board.
-
-◼️
-
-[Data](articles/a3c4dbcd.json)
-
-[Extended Data](ext_articles/a3c4dbcd.ext.json)
-
----
-
-### Customs professional action is over
-
-*2024-03-19 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194705) · `si`
-
-The Customs Officers Association has temporarily ended the Customs Professional Program. A finance meeting with Ranjith Siyambalapitiya was held today.
-
-🟩
-
-The Customs Officers Association has decided to temporarily end the Customs Professional Program.
-
-The Finance Ranjith Siyambalapitiya was held today afternoon.
-
-◼️
-
-[Data](articles/0700e261.json)
-
-[Extended Data](ext_articles/0700e261.ext.json)
-
----
-
-### Customs employees temporarily call off trade union action
-
-*2024-03-19 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98064/customs-employees-temporarily-call-off-trade-union-action) · `en`
-
-Sri Lanka Customs Officers’ Union has decided to temporarily call off its trade union action following a discussion with Finance State Minister Ranjith Siyambalapitiya.
-
-Speaking on the matter, the Customs Officers’ Union said the meeting held with the state minister ended on a positive note.
-
-However, as there are more matters to be clarified, more discussions will be convened in the coming days and a final decision is expected to be reached by March 31.
-
-Accordingly, the operations at the Customs, which were hampered by the trade union action, will return to normalcy by tomorrow morning. Additionally, the clearance of containers held up at the Colombo Port will also be resumed.
-
-Stating Friday (March 15), Customs officials including superintendents and staff officers have been engaged in a trade union action in protest of the Treasury’s decision to bring the Customs Officers Reward Fund under the purview of the Finance Ministry.
-
-...
-
-[Data](articles/c04426b2.json)
-
-[Extended Data](ext_articles/c04426b2.ext.json)
 
 ---

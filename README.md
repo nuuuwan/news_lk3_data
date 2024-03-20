@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 08:17:43**
+As of **2024-03-20 08:33:32**
 
 ## Newspaper Stats
 
-*Scraped **13,979** Articles*
+*Scraped **13,985** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,79 @@ dailyftlk | 734
 economynextcom | 743
 islandlk | 770
 adalk | 1,206
-adaderanalk | 1,680
-tamilmirrorlk | 1,694
+adaderanalk | 1,681
+tamilmirrorlk | 1,695
 virakesarilk | 1,957
-dailymirrorlk | 2,134
+dailymirrorlk | 2,138
 adaderanasinhalalk | 2,224
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,977 (100.0%) of 13,979 articles have been extended.
+13,979 (100.0%) of 13,985 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### මැතිවරණ ප්‍රමාද වීමේ අවදානමක් ගැන අනතුරු ඇඟවෙයි
+### PAFFREL warns of election delay via new electoral system
+
+*2024-03-20 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/PAFFREL-warns-of-election-delay-via-new-electoral-system/108-279176) · `en`
+
+Colombo, March 20 (Daily Mirror) -  While raising concerns over the Cabinet nod to amend the existing electoral system in respect of the parliamentary election, People's Action for Free and Fair Elections (PAFFREL), alleged that the move could result in the postponement of the election.
+
+Under the proposed amendments endorsed by the Cabinet, it is suggested that 160 Members of Parliament will be directly elected from the constituencies, while the remaining 65 seats will be allocated through a proportional voting system at either the national or provincial level.
+
+Expressing its concerns, PAFFREL Executive Director Rohana Hettiarachchi told a press conference that Sri Lanka’s previous encounters with electoral system amendments had jeopardized the election process, resulting in delays.
+
+...
+
+[Data](articles/2f2a4c3e.json)
+
+---
+
+### UN sounds ‘Red Alert’ as world smashes heat records in 2023
+
+*2024-03-20 08:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98068/un-sounds-red-alert-as-world-smashes-heat-records-in-2023) · `en`
+
+(Reuters) - Every major global climate record was broken last year and 2024 could be worse, the World Meteorological Organization (WMO) said on Tuesday, with its chief voicing particular concern about ocean heat and shrinking sea ice.
+
+The U.N. weather agency said in its annual State of the Global Climate report that average temperatures hit the highest level in 174 years of record-keeping by a clear margin, reaching 1.45 degrees Celsius above pre-industrial levels.
+
+Ocean temperatures also reached the warmest in 65 years of data with over 90% of the seas having experienced heatwave conditions during the year, the WMO said, harming food systems.
+
+“The WMO community is sounding the Red Alert to the world,” said WMO Secretary-General Celeste Saulo, who took over the job in January.
+
+“What we witnessed in 2023, especially with the unprecedented ocean warmth, glacier retreat and Antarctic sea ice loss, is cause for particular concern.”
+
+...
+
+[Data](articles/020f3d9c.json)
+
+---
+
+### Elections warns of delay in delay
 
 *2024-03-20 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194711) · `si`
 
-මැතිවරණ ක්‍රමය සංශෝධනය කිරීම සඳහා ඉදිරිපත්ව ඇති යෝජනා නිසි ආකාරයෙන් ක්‍රියාත්මක නොවුන හොත් මැතිවරණය ප්‍රමාද වීමේ අවදානමක් පවතින බව පැෆරල් සංවිධානය පවසයි.
+PAFFREL warns of delay in electoral system revision, risking elections. Rohana Hettiarachchi, Executive Director, states the electoral system is near completion. The Cabinet aims to shift from parliamentary to mixed proportional system, with a deadline for completion by August. Minister Mahinda Amaravarara requests Cabinet resolution, while Pubudu Jayagoda accuses the government of postponing elections.
 
-එහි විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා සඳහන් කළේ, මැතිවරණ ක්‍රමය සංශෝධනය කර කඩිනමින් සීමානිර්ණ කටයුතු අවසන් කළ යතු බවය.
+🟩
 
-"මේ වනවිට මැතිවරණ ක්‍රමයේ සංශෝධනයක් පිළිබඳව කැබිනට් මණ්ඩලයේ යෝජනාවක් සම්මත වෙලා තියෙනවා. පාර්ලිමේන්තු මැතිවරණ ක්‍රමය මිශ්‍ර සමානුපාතික ක්‍රමයකට ගෙනයෑම පිළිබඳව තමයි මේ යෝජනාව. පාර්ලිමේන්තු මැතිවරණ ක්‍රමය සංශෝධනය කරනවා නම්, ඒ හරහා එහි එක කොටසක් හැටියට එන සීමානීර්ණ කිරීම නිශ්චිත කාලයක් තුළ අවසන් කිරීම පිළිබඳ යම් එකඟතාවයක් තිබිය යුතුයි. යම් විදියකින් සීමානීර්ණය අවසන් නොවුණොත් ඉදිරි අගෝස්තු මාසය වෙනවිට මැතිවරණ ක්‍රමය සංශෝධනය කරලත් පවතින මැතිවරණ ක්‍රමයට මැතිවරණය පැවැත්වීමට මැතිවරණ කොමිසමට බලය ලැබෙන ආකාරයේ සංශෝධනයක් මේ කෙටුම්පත තුළ ඇතුළත් වීම අනිවාර්යයි. එහෙම නොවුණොත් මැතිවරණ ක්‍රමය සංශෝධනය කරලා, නීතිය සම්මත වෙලා සීමානිර්ණය අවසන් නොවී තියෙන්න පුළුවන්."
+The PAFFREL organization says that the proposals come forward to revise the electoral system are at risk of the election.
+
+The Executive Director of the Division Rohana Hettiarachchi said that the electoral system would have completed their complement.
+
+"The Cabinet has passed a resolution on an election in the electoral system. This proposal was to move the parliamentary electoral system to a mixed proportional system. If the Parliamentary Electoral system is amended, there should be any agreement on completing the conclusion of its part as part of it. If the electoral system is not over in the next August, it is compulsory for the election commission that has the election to hold elections to the Election Commission to be held in the next August to the coming period.. Otherwise, the electoral system may be amended and the law may not end. "
+
+Meanwhile, Minister Mahinda Amaravarara said that it was a request to the Cabinet resolution on the change of electoral system.
 
 ...
 
 [Data](articles/f911e8f4.json)
+
+[Extended Data](ext_articles/f911e8f4.ext.json)
 
 ---
 
@@ -65,6 +109,28 @@ He said that the recent shooting incidents reported in the Elpitiya Police divis
 ...
 
 [Data](articles/a1174105.json)
+
+[Extended Data](ext_articles/a1174105.ext.json)
+
+---
+
+### 20 Special teams mobilized targeting 20 underworld gangs
+
+*2024-03-20 07:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/20-Special-teams-mobilized-targeting-20-underworld-gangs/155-279197) · `en`
+
+Colombo, March 20 (Daily Mirror) - Following a concerning rise in organized criminal activities in the Western and Southern provinces, a special operation targeting 20 identified organized criminal gangs in the country under the 'Yukthiya' initiative was launched yesterday.
+
+Accordingly, 20 special police teams have been deployed to crackdown on those identified underworld gangs.
+
+IGP Tennakoon said that 99 shootings related to organized criminals were reported since January 2023, resulting in 56 deaths and 37 injuries.
+
+"While many of the deceased were organized criminals, they must be prosecuted through legal channels. Vigilante justice cannot be condoned," the IGP emphasized.
+
+He said that the recent shooting incidents reported in the Elpitiya Police division, where three innocent individuals lost their lives, were unfortunate incidents.
+
+...
+
+[Data](articles/ae28d153.json)
 
 ---
 
@@ -228,6 +294,24 @@ Some locations in the Sabaragamuwa and Central provinces and in some places are 
 
 ---
 
+### Opposition exodus holds no bar on COPE
+
+*2024-03-20 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-exodus-holds-no-bar-on-COPE/108-279200) · `en`
+
+The exodus of opposition MPs from the Committee on Public Enterprises (COPE), a watchdog committee, will have no bearing on the conduct of deliberations since the government’s representation is sufficient enough to maintain the quorum number, a top source said.
+
+Seven opposition MPs who represent the opposition in the COPE which is empowered to examine the financial activities of the statutory boards such as various corporations and bureaus have resigned in protest over the appointment of ruling party MP Rohitha Abeygunawardane as its chairman. They cite concerns in working under a chairman whose name is tainted with allegations of corruption.
+
+However, only three of them had submitted their letters of resignation formally to the parliamentary authorities yesterday.
+
+MPs Eran Wickramaratne, Dayasiri Jayasekera, Professor Charitha Herath, S. M. Marikkar, Gamini Waleboda, Hesha Vithanage, and Shanakiyan Rajaputhiran Rasamanickam announced their resignations so far.
+
+...
+
+[Data](articles/bc4e0924.json)
+
+---
+
 ### CSE turnover crosses Rs. 4 billion, LOLC Finance contributes more than 50%
 
 *2024-03-20 05:20:00* · [`islandlk`](http://island.lk/cse-turnover-crosses-rs-4-billion-lolc-finance-contributes-more-than-50/) · `en`
@@ -301,6 +385,24 @@ Sysco LABS Fosters the Next Generation of Future-Ready Sri Lankan Tech Talent
 [Data](articles/8b7eed99.json)
 
 [Extended Data](ext_articles/8b7eed99.ext.json)
+
+---
+
+### கல்வி அமைச்சுடன் மைக்ரோசொப்ட் ஒப்பந்தம்
+
+*2024-03-20 02:55:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சுடன்-மைக்ரோசொப்ட்-ஒப்பந்தம்/175-334913) · `ta`
+
+தரம் 08 இற்கு மேற்பட்ட மாணவர்களுக்கான தகவல் தொழில்நுட்பப் பாடத்தில் செயற்கை நுண்ணறிவு விடயப்பரப்பை உள்வாங்குவதற்கான முன்னோடித் திட்டத்தை செயல்படுத்துவது தொடர்பான புரிந்துணர்வு ஒப்பந்தம் கல்வி அமைச்சுக்கும் மைக்ரோசொப்ட் நிறுவனத்திற்கும் இடையில் நேற்று ஜனாதிபதி அலுவலகத்தில் கைசாத்திடப்பட்டது.
+
+20 மாவட்டங்களில் 20 பாடசாலைகளைத் தெரிவு செய்து தரம் 8 இற்கு மேற்பட்ட மாணவர்களுக்கான இந்த முன்னோடி திட்டத்தை செயல்படுத்த தீர்மானிக்கப்பட்டுள்ளது. அதற்கு அவசியமான நவீன வகுப்பறைகளையும் தொழில்நுட்ப உபகரணங்களையும் வழங்குவதாக இங்கு குறிப்பிடப்பட்டது.
+
+அதன்படி கல்விச் செயற்பாடுகளை தொழில்நுட்ப முறையில் முன்னெடுப்பதற்கான உதவிகளை மைக்ரோசொப்ட் நிறுவனத்தின் குழுவொன்று வழங்கவுள்ளது.
+
+இதற்கான புரிந்துணர்வு ஒப்பந்தத்தில் கைசாத்திடும் முன்பாக ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கும் மைக்ரோசொப்ட் நிறுவனத்தின் பிரதிநிதிகளுக்கும் இடையிலான சந்திப்பொன்றும் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+
+...
+
+[Data](articles/65736f53.json)
 
 ---
 
@@ -2107,109 +2209,5 @@ SJB parliamentarian Eran Wickramaratne resigned from COPE yesterday while MPs Da
 [Data](articles/9f835403.json)
 
 [Extended Data](ext_articles/9f835403.ext.json)
-
----
-
-### Sri Lanka rupee closes at 303.95/304.05 to the US dollar
-
-*2024-03-19 17:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-303-95-304-05-to-the-us-dollar-155214/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 303.95/304.05 to the US dollar in the spot forex market on Tuesday, slightly stronger from 304.35/50 on Monday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed stable at 11.30/40 percent.
-
-A bond maturing on 15.09.2027 closed at 11.90/12.00 percent up from 11.85/12.00 percent.
-
-A bond maturing on 15.12.2028 closed at 12.10/15 percent up from 12.07/12.15 percent.
-
-A bond maturing on 15.07.2029 closed at 12.10/30 percent down from 12.15/30 percent.
-
-A bond maturing on 15.05.2030 closed at 12.10/20 percent down from 12.15/30 percent.
-
-A bond maturing on 15.03.2031 closed at 12.10/20 percent down from 12.10/30 percent.
-
-A bond maturing on 01.07.2032 closed at 12.35/55 percent down from 12.40/75 percent. (Colombo/Mar19/2024)
-
-◼️
-
-[Data](articles/35c02e3b.json)
-
-[Extended Data](ext_articles/35c02e3b.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-03-19 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179152) · `ta`
-
-Today's US $299.2940 = Rs.
-
-🟩
-
-The US $ 299.2940 is Rs.
-
-◼️
-
-[Data](articles/7dcb53b7.json)
-
-[Extended Data](ext_articles/7dcb53b7.ext.json)
-
----
-
-### India pledges 61.5 million dollar grant for Jaffna KKS port Sri Lanka says
-
-*2024-03-19 17:00:00* · [`economynextcom`](https://economynext.com/india-pledges-61-5-million-dollar-grant-for-jaffna-kks-port-sri-lanka-says-155217/) · `en`
-
-ECONOMYNEXT – India has pledged 61.5 million dollars in grant aid to develop Kankasanthurai port in the island’s Northern Jaffna peninsula, the Ministry of Ports and Aviation said in a statement.
-
-The message was conveyed during a meeting between Indian High Commission Santosh Jha and Ports and Aviation Minister Nimal Siripala de Silva, the statement said.
-
-“As part of the project, a new breakwater will be constructed, and the port will be dredged up to a depth of 30 metres to accommodate deep-draft vessels,” the statement said.
-
-The port suburb’s ferry terminal connects Kankesanthurai with Karaikal Port in Puducherry southeast of Tamil Nadu.
-
-The Commissioner said that the Indian Government has designated Sri Lanka as the top travel destination for Indian tourists, and commended the commencement of flights between Chennai and Jaffna, the statement said.
-
-...
-
-[Data](articles/71394166.json)
-
-[Extended Data](ext_articles/71394166.ext.json)
-
----
-
-### Marikar also quit
-
-*2024-03-19 16:55:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரிக்காரும்-விலகிவிட்டார்/175-334893) · `ta`
-
-SM Marikar, a United People's Power Member, has resigned from the Parliament (COP) Committee on Public Organizations.
-
-🟩
-
-United People's Power Member SM Marikar has withdrawn from the membership of the Parliament (COP) Committee on Public Organizations.
-
-◼️
-
-[Data](articles/4b29b8c5.json)
-
-[Extended Data](ext_articles/4b29b8c5.ext.json)
-
----
-
-### Charitha Herath resigns from COPE
-
-*2024-03-19 16:53:19* · [`adalk`](https://www.ada.lk/breaking_news/චරිත-හේරතුත්-කෝප්-කමිටුවෙන්-ඉල්ලා-අස්වෙයි/11-408704) · `si`
-
-Charitha Herath, a parliamentarian and former COPE Committee chairman, resigns, marking a significant departure in the political landscape.
-
-🟩
-
-Parliamentarian Professor Charitha Herath has decided to resign from the Member of the COPE Committee.MP has placed a note of the MP's official X account. He has previously served as a former chairman of the COPE Committee. Charitha Herath rises to three MPs with resignation of the COPE Committee.
-
-◼️
-
-[Data](articles/0fc6d8c4.json)
-
-[Extended Data](ext_articles/0fc6d8c4.ext.json)
 
 ---

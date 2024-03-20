@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 04:51:15**
+As of **2024-03-21 05:02:58**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,183 (100.0%) of 14,184 articles have been extended.
+14,184 (100.0%) of 14,184 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ President Wickremesinghe’s first public political rally at Kuliyapitiya was od
 ...
 
 [Data](articles/2d2afb0e.json)
+
+[Extended Data](ext_articles/2d2afb0e.ext.json)
 
 ---
 

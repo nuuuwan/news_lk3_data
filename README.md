@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 16:02:53**
+As of **2024-03-20 16:18:06**
 
 ## Newspaper Stats
 
-*Scraped **14,093** Articles*
+*Scraped **14,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 745
 islandlk | 770
 adalk | 1,217
 adaderanalk | 1,694
-tamilmirrorlk | 1,707
-virakesarilk | 1,980
-dailymirrorlk | 2,160
+tamilmirrorlk | 1,708
+virakesarilk | 1,982
+dailymirrorlk | 2,161
 adaderanasinhalalk | 2,247
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,092 (100.0%) of 14,093 articles have been extended.
+14,093 (100.0%) of 14,097 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### இலங்கை தொடர்ந்தும் உக்ரைன் உட்பட உலக விவகாரங்களில் நடுநிலைமையை பேணவேண்டும் - புட்டினின்வெற்றி மேற்குலகின் தலையீடுகள் தோல்வியடைந்துள்ளதை வெளிப்படுத்தியுள்ளது - இலங்கைக்கான ரஸ்ய தூதுவர்
+
+*2024-03-20 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179242) · `ta`
+
+ரஸ்ய ஜனாதிபதிதேர்தலில் விளாடிமிர் புட்டின் பெரும் வெற்றியைபெற்றுள்ளமை மேற்குலகின் தலையீடுகள் வெற்றியளிக்கவில்லை என்பதை புலப்படுத்தியுள்ளதாக இலங்கைக்கான  ரஸ்ய தூதுவர் லெவென் எஸ் ஜகார்யன்  தெரிவித்துள்ளார்.
+
+உக்ரைன் யுத்தத்தை அடிப்படையாக வைத்து ரஸ்ய ஜனாதிபதி தேர்தலின் முடிவுகளை மாற்றியமைப்பதற்கு  அமெரிக்கா தலைமையிலான  கூட்டணி மேற்கொண்ட முயற்சிகள்  தோல்வியடைந்துள்ளதை புட்டினின் வெற்றி வெளிப்படுத்தியுள்ளது எனவும் அவர் தெரிவித்துள்ளார்.
+
+இலங்கை உட்பட பல நாடுகளில் மேற்குலகின் தலையீடுகள் குறித்து சுட்டிக்காட்டியுள்ள அவர் மேற்குலகின் எதிர்பார்ப்பிற்கு மாறாக ரஸ்ய வாக்காளர்கள் எவ்வாறு ஜனாதிபதி புட்டினிற்கு ஆதரவாக வாக்களித்தனர் என்பதையும் சுட்டிக்காட்டியுள்ளார்.
+
+ஐலண்டிற்கு வழங்கியுள்ள பேட்டியில் இதனை தெரிவித்துள்ள அவர் ரஸ்ய ஜனாதிபதி தேர்தல் முடிவுகள் குறித்து தான் ஆச்சரியமடையவில்லை எனவும் தெரிவித்துள்ளார்.
+
+புட்டினிற்கு மேலும் ஆறுவருடங்கள் கிடைத்துள்ளமைக்கு உக்ரைன் யுத்தமே காரணம் எனவும் இலங்கைக்கான ரஸ்ய தூதுவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/f3c193c2.json)
+
+---
+
+### ஏற்றுமதிப் பொருளாதாரத்தை நோக்கிய விரைவான மாற்றத்தையே எதிர்பார்க்க - ஜனாதிபதி வலியுறுத்தல்
+
+*2024-03-20 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179241) · `ta`
+
+இறக்குமதிக்கும் ஏற்றுமதிக்கும் இடையிலான இடைவெளியை கடனாகப் பெற்றுக்கொள்ளும் பட்சத்தில் இன்னும் 10 வருடங்களில் இலங்கை மீண்டும் பொருளாதார நெருக்கடிக்கு முகம்கொடுக்க நேரிடும் என சுட்டிக்காட்டிய ஜனாதிபதி, நாட்டில் பொருளாதார ஸ்திரத்தன்மையை ஏற்படுத்தி விரைவில் ஏற்றுமதி பொருளாதாரத்தை நோக்கிய மாற்றத்தை ஏற்படுத்த எதிர்பார்ப்பதாகத் தெரிவித்தார்.
+
+இவற்றுக்குத் தேவையான சட்டத்தை ஏப்ரல் மாதமளவில் பாராளுமன்றத்தில் சமர்பிக்க எதிர்பார்த்திருப்பதாகவும், அரசாங்கத்தின் நிதி நிர்வாகம் தொடர்பிலான புதிய சட்டமூலமும் அதனுடன் சமர்பிக்கப்பட உள்ளதாகவும் சுட்டிக்காட்டிய ஜனாதிபதி, நாட்டில் பொருளாதார முன்னேற்றத்தை ஏற்படுத்துவதே இதன் நோக்கமாகும் எனவும் தெரிவித்தார்.
+
+கேகாலை மங்கெதர டெம்பிடி புராதன பிரிவெனா விகாரையில் புதிதாக அமைக்கப்பட்ட தங்க வேலியை  இன்று (20) திறந்து வைத்து உரையாற்றும் போதே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+
+...
+
+[Data](articles/4a535297.json)
+
+---
 
 ### Prohibition to damage the currency tala
 
@@ -56,9 +92,9 @@ The Central Bank further said that those who were found guilty will be sentenced
 
 ---
 
-### தென்னை மரத்தில் தங்க வளையல்
+### தென்னை மரத்தில் ஏறியதங்க வளையல்
 
-*2024-03-20 15:32:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தென்னை-மரத்தில்-தங்க-வளையல்/76-334930) · `ta`
+*2024-03-20 15:32:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தென்னை-மரத்தில்-ஏறியதங்க-வளையல்/76-334930) · `ta`
 
 வீடொன்றில் திருடப்பட்ட 1,40,000 ரூபாய் பெறுமதியான தங்க வளையல், 40 அடி உயர தென்னை மரத்தின் உச்சியில் மறைத்து வைக்கப்பட்டிருந்த  நிலையில் மீட்கப்பட்டுள்ளதுடன் சந்தேகத்தின் பேரில் இளைஞன் ஒருவரையும் கைது செய்யப்பட்டுள்ளதாக பதுளை பொலிஸார் தெரிவித்துள்ளனர் .
 
@@ -70,7 +106,31 @@ The Central Bank further said that those who were found guilty will be sentenced
 
 ◼️
 
+[Data](articles/680cd1bb.json)
+
+---
+
+### Gold bangle in the coconut tree
+
+*2024-03-20 15:32:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தென்னை-மரத்தில்-தங்க-வளையல்/76-334930) · `ta`
+
+A gold bangle worth Rs 1,40,000, stolen from a house in Badulla, was found on a coconut tree. A 22-year-old youth was arrested for hiding it there. He claimed to have spent the stolen money on his investigation.
+
+🟩
+
+Badulla police said that the gold bangle worth Rs 1,40,000 was stolen in a house and was recovered at the top of the 40 -foot -tall coconut tree and a youth was arrested on suspicion.
+
+A 22 -year -old youth has arrested a young man who was investigating the information received by the police alleging that there was no one in a house in Medapana, Badulla, when there was no one in a house in Badulla.
+
+He told the police that he had spent the stolen money during his investigation and that the gold bracelet had been hidden on the top of the coconut tree.
+
+Further investigations into the incident are being carried out by the police.
+
+◼️
+
 [Data](articles/b0b7ee31.json)
+
+[Extended Data](ext_articles/b0b7ee31.ext.json)
 
 ---
 
@@ -929,6 +989,26 @@ The total number of passengers using the BIA in 2022 was 5 million, with a proje
 [Data](articles/0820403d.json)
 
 [Extended Data](ext_articles/0820403d.ext.json)
+
+---
+
+### Sri Lanka sees spike in tourist arrivals this year
+
+*2024-03-20 12:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-sees-spike-in-tourist-arrivals-this-year/155-279232) · `en`
+
+Colombo, March 20 (Daily Mirror) - Owing to President Ranil Wickremesinghe's economic initiatives and the peaceful environment fostered within the country, the arrival of foreign tourists has risen, Airport and Aviation Services (Sri Lanka) Ltd. Chairman Athula Galkatiya said.
+
+Consequently, the Bandaranaike International Airport (BIA), Katunayake has seen a notable increase in air passenger usage.
+
+The Chairman said that from January 1 to March 19, 2024, the number of air passengers who utilized BIA services amounted to 850,000.
+
+He noted that it is anticipated approximately 10 million passengers will utilize the airport by the end of this year.
+
+The total number of passengers using the BIA in 2022 was 5 million, with a projected increase to 8 million in 2023, the chairman said
+
+◼️
+
+[Data](articles/592ea69e.json)
 
 ---
 
@@ -2213,87 +2293,5 @@ Meanwhile, the Committee on Parliament yesterday decided to give another date on
 [Data](articles/2aa78baf.json)
 
 [Extended Data](ext_articles/2aa78baf.ext.json)
-
----
-
-### Little change in today's weather
-
-*2024-03-20 09:26:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலையில்-சிறிய-மாற்றம்/175-334915) · `ta`
-
-The Department of Meteorology predicts a change in drought-stricken weather today, with possible rain or thunderstorms in Western and Sabaragamuwa Provinces, Nuwara Eliya, Galle, and Matara. Morning snowfall is expected in parts of Sabaragamuwa, Central Provinces, Galle, and Kalutara districts.
-
-🟩
-
-The Department of Meteorology has predicted that the drought -stricken weather in the southern part of the country is expected to change today (20).
-
-It is possible that rain or thunderstorms are likely to occur in some places in the Western and Sabaragamuwa Provinces and Nuwara Eliya, Galle and Matara districts.
-
-In the morning, in some parts of the Sabaragamuwa and Central Provinces, Galle and Kalutara districts, there is expected snowfall in the morning.. Remble
-
-◼️
-
-[Data](articles/cda6ca18.json)
-
-[Extended Data](ext_articles/cda6ca18.ext.json)
-
----
-
-### Spread of rabies due to intense heat
-
-*2024-03-20 09:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Spread-of-rabies-due-to-intense-heat/108-279198) · `en`
-
-The Veterinary Medical Officers' Association has warned on the imminent danger of rabies spreading due to the intense heat that severely affects dogs, cats and other animals.
-
-President of the association Dr. Sisisra Piyasiri said the people should be vigilant on complications affecting pets, livestock and animals used in agriculture,
-
-He said the production of eggs and milk per day could drop, if hens and cattle were exposed to the heat.
-
-Dr. Piyasiri stressed that a regular supply of water to animals and those in livestock farms should be maintained.
-
-◼️
-
-[Data](articles/892f2125.json)
-
-[Extended Data](ext_articles/892f2125.ext.json)
-
----
-
-### Tamil representatives protest against Wimal Weerawansa's comment
-
-*2024-03-20 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179180) · `ta`
-
-Tamil representatives protest against Wimal Weerawansa's comments, opposing accusations of promoting religious riots. They demand the removal of racists and express strong opposition to his political stance. The court grants permission for Shiva worship on Mount Shivaratri, but arrests occur, leading to a report from the Archaeological Department. The Tamil National Alliance (TNA) demands that racists be removed and that the Tamil representatives be allowed to address the House of Commons.
-
-🟩
-
-The court does not grant permission to engage in Shiva worship. The Tamil representatives of the National Freedom Front and Member of Parliament, Wimal Weerawansa, have expressed fierce opposition to the comments that Tamil representatives of the Northern and Eastern Province are trying to create religious riots by speaking communalism.
-
-The court has granted permission to worship religious worship on the mountain. We protest against the arrest of us.. We do not speak racism. His political question, which has acted as the main principle of communalism.. Therefore, the Tamil National Alliance (TNA) parliamentarian Chanakyan Rasamanikam furiously demanded that these racists be removed from the country.
-
-...
-
-[Data](articles/7af63c24.json)
-
-[Extended Data](ext_articles/7af63c24.ext.json)
-
----
-
-### Train delay on coastal line continues
-
-*2024-03-20 08:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-delay-on-coastal-line-continues/108-279213) · `en`
-
-Colombo, March 20 (Daily Mirror) - Delay of train services on the coastal line continue due to the derailment of a train between Colombo Fort and Kompannaveediya railway stations last evening, the Railways Department said.
-
-They said the express train from Colombo Fort to Kalutara South was derailed between Colombo Fort and Kompannaveediya railway stations and train operaitons on both the tracks of the coastal line were stopped.
-
-As of now, one line has been opened for train traffic, while the other line is still undergoing repairs, the Department said.
-
-Even though the preparations for trains towards Colombo have been completed, trains from Colombo to the south on the coastal line were halted yesterday and there are no trains to return have not run. Due to this, they said.
-
-◼️
-
-[Data](articles/e19dde14.json)
-
-[Extended Data](ext_articles/e19dde14.ext.json)
 
 ---

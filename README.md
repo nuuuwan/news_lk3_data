@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 20:03:00**
+As of **2024-03-20 20:17:59**
 
 ## Newspaper Stats
 
-*Scraped **14,151** Articles*
+*Scraped **14,152** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 1,700
 tamilmirrorlk | 1,712
 virakesarilk | 1,987
 dailymirrorlk | 2,170
-adaderanasinhalalk | 2,257
+adaderanasinhalalk | 2,258
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,151 (100.0%) of 14,151 articles have been extended.
+14,152 (100.0%) of 14,152 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### 4 Sri Lankan Super Star on fence
+
+*2024-03-20 19:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194748) · `si`
+
+Sri Lankan cricketers Dremensha Chameera, Matheyathirana, Vanjandu, and Dilshan Madesan are uncertain about participating in the Indian Premier League due to the inability of the players, as reported by Sri Lanka Cricket. This decision is said to be a response to the players' unavailability, especially during the 20-20 World Cup in June.
+
+🟩
+
+Several Sri Lankan cricketers are uncertaining to participate in the Indian Premier League Cricket Tournament.
+
+Dremensha Chameera, Matheyathirana, Vanjandu and Dilshan Madesan, was the last Sri Lankan team to participate in the Indian Premier League.
+
+It is reported that the Sri Lanka Cricket's focus has been drawn to not allowing them to participate in the Indian Premier League Cricket Tournament due to the unability of the players.
+
+Internal sources of cricket say that the event is due to take this step in the 20-20 World Cup which will be in June to begin in June.
+
+◼️
+
+[Data](articles/8eedbb7a.json)
+
+[Extended Data](ext_articles/8eedbb7a.ext.json)
+
+---
 
 ### Two lives in Jaffna ran to sea
 
@@ -2315,29 +2339,5 @@ The new electronic billing machine was introduced by the CEB was issued to the e
 [Data](articles/fe7d94e0.json)
 
 [Extended Data](ext_articles/fe7d94e0.ext.json)
-
----
-
-### Indian Colonial Anti
-
-*2024-03-20 11:51:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-காலனித்துவ-எதிர்ப்பு-தடையுத்தரவு-நிராகரிப்பு/175-334924) · `ta`
-
-Chief Magistrate Prasanna Alwis rejected the Cinnamon Police's request to prevent a protest rally by the Socialist Party in Colombo, citing constitutional rights and lack of evidence for immediate action.
-
-🟩
-
-Colombo Chief Magistrate Prasanna Alwis has rejected the request of the Cinnamon Police Police to prevent a protest rally and rally organized by the Socialist Party on Wednesday (20) at the Vihara Mahadevi Park in Colombo.
-
-The Chief Magistrate pointed out that the rights given to the people through the country's highest legal constitution cannot be censored by the Sarathi of the Criminal Procedure Act.
-
-The magistrate pointed out that the court cannot issue a violation of the basic human rights that has been guaranteed by the 14th Article of the Constitution, including freedom of speech and freedom of freedom, and that there are not enough facts to prevent the parade or struggle.
-
-It was also stated that there was no evidence that there was no need to immediately prevent the oppression of the oppression through this struggle.
-
-◼️
-
-[Data](articles/01b07277.json)
-
-[Extended Data](ext_articles/01b07277.ext.json)
 
 ---

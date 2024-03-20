@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 19:02:54**
+As of **2024-03-20 19:17:51**
 
 ## Newspaper Stats
 
-*Scraped **14,141** Articles*
+*Scraped **14,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,92 @@ bbccomsinhala | 157
 dbsjeyarajcom | 190
 newsfirstlk | 363
 dailyftlk | 734
-economynextcom | 757
+economynextcom | 758
 islandlk | 770
 adalk | 1,221
 adaderanalk | 1,699
-tamilmirrorlk | 1,709
+tamilmirrorlk | 1,712
 virakesarilk | 1,986
 dailymirrorlk | 2,169
-adaderanasinhalalk | 2,255
+adaderanasinhalalk | 2,256
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,139 (100.0%) of 14,141 articles have been extended.
+14,141 (100.0%) of 14,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### செயற்குழு கூட்டத்தில் பங்கேற்றார் பொன்சேகா
+
+*2024-03-20 18:45:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செயற்குழு-கூட்டத்தில்-பங்கேற்றார்-பொன்சேகா/175-334945) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் தவிசாளர் சரத் பொன்சேகா கட்சியின் செயற்குழு கூட்டத்தில் பங்கேற்றார்.
+
+பீல்ட் மார்ஷல் பொன்சேகா கூட்டத்தில் எதுவும் பேசவில்லை என்றும், மற்றவர்கள் சொல்வதை மட்டும் செவிமடுத்தார் என்றும் கட்சி வட்டாரங்கள் தெரிவித்தன.
+
+பொன்சேகா சமீபத்தில் SJB யில் இருந்து இடைநீக்கம் செய்யப்பட்டதற்கு எதிராக உயர் நீதிமன்றத்தில் தடை உத்தரவு பெற்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/f434c1c3.json)
+
+---
+
+### සුපිරි ක්‍රීඩක පැතුම් ට අලුත් තැනක්
+
+*2024-03-20 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194746) · `si`
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ නවතම  එක්දින ශ්‍රේණිගත කිරීම්වලට අනුව පිතිකරුවන්ගේ ලැයිස්තුවේ පෙරමුණට පැමිණීමට ශ්‍රී ලංකා ආරම්භ පිතිකරු පැතුම් නිස්සංක සමත්ව තිබේ.
+
+මේ වනවිට පැතුම් නිස්සංක එක්දින පිතිකරුවන්ගේ ලැයිස්තුවේ රැඳී සිටින්නේ 08 වන ස්ථානයේය.
+
+ඔහු මීට පෙර 11 වන ස්ථානයේ රැඳී සිටි අතර ස්ථාන 3ක් පෙරමුණට පැමිණීමට සමත්ව ඇත.
+
+තවදුරටත් එහි පෙරමුණේ සිය ස්ථානය රැකගැනීමට පාකිස්තාන සුපිරි පිතිකරු බාබර් අසාම් සමත්ව ඇත්තේ ප්‍රසාද ලකුණු 824ක් හිමිකරගනිමින්ය.
+
+◼️
+
+[Data](articles/b8c812d5.json)
+
+---
+
+### Sri Lanka stocks close down, interest in Sampath Bank
+
+*2024-03-20 18:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-interest-in-sampath-bank-155388/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday ending a three-week run, data on its site showed.
+
+The broader All Share Index closed down 0.31 percent, or 35.37 points, at 11,240; while the S&P SL20 Index closed down 0.03 percent, or 0.92 points, at 3,208.
+
+Turnover was at 910 million. Most of this (123mn) came from trades in Sampath Bank Plc, the share closed up at 78.00.
+
+Contributors to the Index included Dialog Axiata Plc (up at 11.50), Commercial Bank of Ceylon Plc (up at 94.40), and Hayleys Plc (up at 83.90).
+
+There was a net foreign inflow of close to 2 million. (Colombo/Mar20/2024)
+
+◼️
+
+[Data](articles/a1611b6c.json)
+
+---
+
+### கொழும்பில் பதற்றம்;காணொளி
+
+*2024-03-20 18:24:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-பதற்றம்-காணொளி/175-334944) · `ta`
+
+கொழும்பு புறக்கோட்டையில் ஆர்ப்பாட்டக்காரர்களை கட்டுப்படுத்த பொலிஸார் , தண்ணீர் பாய்ச்சல் மற்றும் கண்ணீர்ப்புகை தாக்குதல் நடாத்தியதையடுத்து பதற்ற நிலை ஏற்பட்டது.
+
+'ஜன அறகல வியாபரய' (மக்கள் போராட்ட இயக்கம்) ஏற்பாடு செய்த இந்த எதிர்ப்பு ஆர்ப்பாட்டமானது, வாழ்க்கைச் செலவுகள் மற்றும் சர்ச்சைக்குரிய வெளிநாட்டு ஒப்பந்தங்கள் உட்பட எண்ணற்ற குறைகளை மையமாகக் கொண்டு முன்னெடுக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/278b874d.json)
+
+---
 
 ### Patali elected Chairman of Ways and Means Committee for the second time
 
@@ -94,6 +162,22 @@ The committee’s meeting preceded an extraordinary session of Vietnam’s rubbe
 
 ---
 
+### கத்னா செய்வதை தடைசெய்வோம்: நளிந்த விளக்கம்
+
+*2024-03-20 17:52:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்னா-செய்வதை-தடைசெய்வோம்-நளிந்த-விளக்கம்/175-334943) · `ta`
+
+தேசிய மக்கள் சக்தியின் 2019 ஆம் ஆண்டின் கொள்கை வெளியீட்டில் பெண்கள் மற்றும் ஆண்களின் பாலுறுப்புத் தொடர்பான விருத்தசேதனம் செய்தல் தொடர்பில் பாதிப்புக்கும் துன்புறுத்தலுக்கும் உள்ளாகின்ற விடயங்கள் தொடர்பில் திருத்தயமைக்க நடவடிக்கை எடுக்கப்படும் என தெளிவாக குறிப்பிட்டுள்ளோம் ஆனால் முஸ்லிம் மக்கள் சுன்னத் மற்றும் கத்னா செய்வதை தடைசெய்வோம்  என குறிப்பிடவில்லை என தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் டொக்டர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+
+தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் டொக்டர் நளிந்த ஜயதிஸ்ஸ இன்று புதன்கிழமை (20) ஊடக அறிக்கை ஒன்றை வெளியிட்டுள்ளார்.
+
+சீதனம், விருத்தசேதனம் போன்ற நடைமுறைகள் காரணமாக பெண்கள் மற்றும் ஆண்கள் பாதிப்புறுவதை, துன்புறுத்தலுக்கு ஆளாவதை தடுப்பதற்கான சட்டங்களை தேசிய மக்கள் சக்தி உருவாக்குவது பற்றிய விடயங்கள் சமூகவலைத்தளங்களில் வெளிவந்தன அதில் முஸ்லிம் மக்கள் சுன்னத் மற்றும் கத்னா செய்வதை தடுத்து நிறுத்தப்போதாகவும் குறிப்பிடப்பட்டன.
+
+...
+
+[Data](articles/2a0bb648.json)
+
+---
+
 ### Special notice of Sri Lankans in Haiti Despite
 
 *2024-03-20 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194744) · `si`
@@ -122,7 +206,7 @@ The Sri Lanka Embassy in Cuba, accredited to Haiti, is constantly connected to t
 
 ---
 
-### Sri Lanka’s districts to sign “sister district” deal with China’s Chongqing for investments
+### Sri Lanka to sign “sister district” deal with China’s Chongqing for investments
 
 *2024-03-20 17:37:00* · [`economynextcom`](https://economynext.com/sri-lankas-districts-to-sign-sister-district-deal-with-chinas-chongqing-for-investments-155373/) · `en`
 
@@ -1254,17 +1338,23 @@ The magistrate said this while reporting the facts about his wife's request to o
 
 ---
 
-### හෙට සිට වියළි කාලගුණයේ වෙනසක්
+### A change of dry weather from tomorrow
 
 *2024-03-20 14:07:36* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-සිට-වියළි-කාලගුණයේ-වෙනසක්/11-408723) · `si`
 
-දිවයිනේ දැනට පවතින වියළි කාලගුණ තත්ත්වයේ ‌වෙනසක් හෙට දින සිට අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+"Dry weather change expected from tomorrow, with thundershowers in Uva, Sabaragamuwa, Central, South, and North-Central provinces."
 
-ඒ අනුව නැගෙනහිර, ඌව සහ උතුරු පළාත්වල වැසි වාර කිහිපයක් ඇති වන බවත් බස්නාහිර, සබරගමුව,මධ්‍යම, ඌව, දකුණු, වයඹ සහ උතුරු-මැද පළාත්වල සවස් කාලයේදී හෝ රාත්‍රි කාලයේදී තැනින් තැන වැසි ගහෝ ගිගුරුම් සහිත වැසි ඇතිවන බවද එම දෙපාර්තමේන්තුව අද මධ්‍යාහ්න නිකුත් කළ නිවේදනයක දැක්වෙයි.
+🟩
+
+The Department of Meteorology says that a change of dry weather conditions in the island will be expected from tomorrow.
+
+Thundershowers will develop at several places in the Uva, Sabaragamuwa, Central, Uva, Uva, Uva, Uva, South, Uva and North-central areas in the Western, North, South, Uva and North-Central provinces.In a statement.
 
 ◼️
 
 [Data](articles/5778eeaf.json)
+
+[Extended Data](ext_articles/5778eeaf.ext.json)
 
 ---
 
@@ -1450,25 +1540,35 @@ According to the United Nations World Happy Sri Lanka, Sri Lanka has been ranked
 
 ---
 
-### කෝප් කමිටු සාමාජිකයින් දිගින් දිගට ම ඉල්ලා අස් වන්නේ ඇයි?
+### Why do COPE committees lengthen?
 
 *2024-03-20 13:16:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0kep4d1204o) · `si`
 
-පාර්ලිමේන්තුවේ පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ (කෝප් කමිටුවේ) සභාපති ධූරය සඳහා පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන පත් වීමත් සමග එම කමිටුවේ සාමාජිකයින් බොහෝ දෙනෙක් දිගින් දිගට ම ඉල්ලා අස්වෙමින් සිටිති.
+COPE committees lengthen due to resignations and controversies. MP Rohitha Abeygunawardena, appointed Chairman, faces opposition and accusations. 10 members resigned in 3 days, with Wasantha Yapa Bandara rejecting a proposal. The committee's purpose is to ensure financial discipline of state institutions, established in 1979.
 
-මාර්තු 18 වන දා සිට දින තුනක් තුළ එහි සාමාජිකයින් 10 දෙනෙකු මේ දක්වා ඉල්ලා අස්වී තිබේ.
+🟩
 
-මේ අතර, අද (මාර්තු 20) යෝජනා කරන ලද වසන්ත යාපා බණ්ඩාර එම යෝජනාව ප්‍රතික්ෂේප කළේ ය.
+With the appointment of MP Rohitha Abeygunawardena appoints MP Rohitha Abeygunawardena for the post of Chairman of the Committee of Parliament (COPE) is the Chairman of Parliament.
 
-පාර්ලිමේන්තුවේ පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ (කෝප් කමිටුවේ) නව සභාපතිවරයා ලෙස පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන වැඩි ඡන්දයෙන් තේරී පත්වූයේ, නව වන පාර්ලිමේන්තුවේ පස් වන සභා වාරයේ පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ පළමු රැස්වීම පැවති මාර්තු 7 වන දා ය.
+10 members have resigned to date in three days from 18 days.
 
-එහිදී සභාපති ධූරය සදහා පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන රෝහිත අබේගුණවර්ධන සහ ගාමිණී වලේබොඩ යන මහත්වරුන්ගේ නම් යෝජනා විය. රෝහිත අබේගුණවර්ධනගේ නම පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අළුත්ගමගේ යෝජනා කළ අතර, පාර්ලිමේන්තු මන්ත්‍රී සංජීව එදිරිමාන්න එය ස්ථිර කළේ ය.
+In the meantime, Wasantha Yapa Bandara rejected the proposal today (March 20).
 
-ගාමිණී වලේබොඩගේ නම පාර්ලිමේන්තු මන්ත්‍රී හේෂා විතානගේ විසින් යෝජනා කරන ලද අතර ඩිලාන් පෙරේරා විසින් ස්ථිර කරන ලදී.
+Parliamentarian Rohitha Abeygunawardena was elected to the new Chairman of the Committee of Parliament (COPE) (COPE) (COPE) (COPE).
+
+There were other MP Rohitha Abeygunawardena and Gamini Walaboda for the post of Chairman. Rohitha Abeygunawardena has proposed the name of MP Mahindananda Aluthgama and firmly established it.
+
+Gamini Waleboda's name was proposed by MP Hesha Vithanage and Dilan Perera was confirmed.
+
+Rohitha Abeygunawardena was elected to the post of Chairman during the election.
+
+'What is the Chairman Ranjith Bandara about the Navy signal to catch cheater recommendations?'
 
 ...
 
 [Data](articles/889a645d.json)
+
+[Extended Data](ext_articles/889a645d.ext.json)
 
 ---
 
@@ -2219,123 +2319,5 @@ In this protest, economic and foreign policies were criticized in the protest, w
 [Data](articles/01350e59.json)
 
 [Extended Data](ext_articles/01350e59.ext.json)
-
----
-
-### Viyath Maga’ member behind move to stop Adani group’s wind power project: Minister
-
-*2024-03-20 11:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Viyath-Maga-member-behind-move-to-stop-Adani-groups-wind-power-project-Minister/108-279230) · `en`
-
-Parliament, March 20 (Daily Mirror)- A member of 'Viyath Maga' who is now working with Opposition Leader Sajith Premadasa is behind the move to prevent the implementation of the Adani Group’s wind power project, Minister of Power and Energy Kanchana Wijesekera told Parliament.
-
-Responding to a question raised by the Leader of the Opposition, the Minister said former member of Viyath Maga Rohan Pethiyagoda is one of the persons who has come out against the proposed wind power project.
-
-“Professor Pethiyagoda is an advisor to the Opposition Leader. He is a former member of Viyath Maga,” the Minister said.
-
-He said Professor Pethiyagoda is one of the few who had raised an environment issue pertaining to the wind power project.
-
-“We have taken steps to remove six turbines which belong to wind power plants which are already existing in Mannar. We will also keep a 2 km corridor for bird migration,” the Minister said.
-
-...
-
-[Data](articles/f4450143.json)
-
-[Extended Data](ext_articles/f4450143.ext.json)
-
----
-
-### Here is the recommendations of the passing Committee on increased gross weight
-
-*2024-03-20 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194722) · `si`
-
-The Parliamentary Committee on Sri Lanka's Central Bank recommends delaying salary increases until the bank's independence. Dr. Harsha de Silva, Chairman, suggests a 4-week deadline for a solution. The Government Finance Committee advises separating professional from non-professional salaries.
-
-🟩
-
-The Parliamentary Committee on the Central Bank of Sri Lanka has given Sri Lanka to the post of procrastinating salaries until the independence of the Central Bank of Sri Lanka.
-
-The Chairman of the Parliamentary Committee on Public Finance, Dr. Harsha de Silva said that the Presidential Minister of Finance has also prescribed the prolongation of the Governor of the Central Bank Governor.
-
-Mr. Harsha de Silva, Mr. Harsha de Silva, recommended to submit salary increases until a recognized solution to the Committee on the Public Finance Committee within 4 weeks.
-
-He also expects the Committee on Finance that this committee will act on the Central Bank and the proficiency of the Central Bank of Sri Lanka as well as proficient.
-
-The Government Finance Committee has also recommended that the salary decision to determine the salary staff should be separated from non-professional and other survivors.
-
-◼️
-
-[Data](articles/6cadb4e5.json)
-
-[Extended Data](ext_articles/6cadb4e5.ext.json)
-
----
-
-### ADB to support green bonds, PPPs in Sri Lanka crisis recovery
-
-*2024-03-20 11:30:00* · [`economynextcom`](https://economynext.com/adb-to-support-green-bonds-ppps-in-sri-lanka-crisis-recovery-155341/) · `en`
-
-ECONOMYNEXT – Manila-based Asian Development Bank will support Sri Lanka’s bond markets and public private partnerships as the country recovers from an economic crisis, according to a new assistance strategy for 2024 to 2028.
-
-The key objective of the new strategy “is fostering sustainable recovery, building resilience, and reviving growth in Sri Lanka” the ADB said in its Country Partnership Strategy.
-
-ADB will help create and deepen the market for corporate bonds and carbon trading and will also support an environment, social, and governance fund.
-
-The agency will help in a green bond framework and green bonds issuance.
-
-To mitigate foreign currency risk for Sri Lankan companies, ADB will explore issuing offshore local currency-linked bonds to allow nonsovereign local currency lending.
-
-ADB will help build capacity at the newly set up National Agency for Public Private Partnerships and help developed PPP policy and institutional, legal, and regulatory frameworks.
-
-...
-
-[Data](articles/dd519c4d.json)
-
-[Extended Data](ext_articles/dd519c4d.ext.json)
-
----
-
-### Award for the 18th year for Lanka Deepa
-
-*2024-03-20 11:20:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/லங்கா-தீபவுக்கு-18ஆவது-ஆண்டாக-விருது/46-334922) · `ta`
-
-Daily Lanka and Sunday Lankadipa won the Slim-Kantar People Award for the 18th year in a row, with Kanjana Dasanayake receiving it.
-
-🟩
-
-In the Slim-Kantar People Award 2024 number, our brothers and newspapers Daily Lanka and Sunday Lankadipa won the most popular newspaper award for the 18th consecutive year.
-
-The award ceremony was organized by Sri Lanka's Kandar in Sri Lanka (SLIM). The award is received by Kanjana Dasanayake, Chief Editor of the Sunday.
-
-The event will be attended by Ajantha Kumara Akalakada, editor of Daily Lanka, Chief Operating Officer of the Vijaya Group, Janaka Ratnakumara and various sections of Vijaya.
-
-◼️
-
-[Data](articles/77b33a2a.json)
-
-[Extended Data](ext_articles/77b33a2a.ext.json)
-
----
-
-### World Senior Championships Ceremony to Sri Lanka
-
-*2024-03-20 11:18:04* · [`adalk`](https://www.ada.lk/sports/ලෝක-ජ්‍යෙෂ්ඨ-ශූරතා-පාපන්දු-තරගාවලියේ-කිරුළ-ලංකාවට/9-408719) · `si`
-
-The 'Old Bensen Senior' team from Sri Lanka won the World Senior Championships in Bangalore, India, for the first time. Sri Lanka, Malaysia, Norway, South Africa, and England participated. The Sri Lankan team, led by the Principal of St. Benedict's College, flew to India on SpiceJet.
-
-🟩
-
-The 'Old Bensen Senior' team won the Championship Championship for the first time in Sri Lanka for the first time in India.
-
-Sri Lanka, Malaysia, Norway, South Africa, and England have participated in the tournament in Bangalore, India.
-
-The finals were among the senior senior team of Old Benz Senior Group with the senior team, with the senior team, the Sri Lankan team won the win.
-
-The winning Sri Lanka Odd Bens Senior to 01.25 days in India, Spice Jet, India, Pubudu Airport, the Principal of St. Benedict's College, was on the plane, to accept the airport at India.And others were present at the airport.
-
-◼️
-
-[Data](articles/d58a240c.json)
-
-[Extended Data](ext_articles/d58a240c.ext.json)
 
 ---

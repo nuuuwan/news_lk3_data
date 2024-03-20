@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 16:18:06**
+As of **2024-03-20 16:33:31**
 
 ## Newspaper Stats
 
-*Scraped **14,097** Articles*
+*Scraped **14,101** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,54 +17,138 @@ economynextcom | 745
 islandlk | 770
 adalk | 1,217
 adaderanalk | 1,694
-tamilmirrorlk | 1,708
+tamilmirrorlk | 1,709
 virakesarilk | 1,982
-dailymirrorlk | 2,161
-adaderanasinhalalk | 2,247
+dailymirrorlk | 2,162
+adaderanasinhalalk | 2,249
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,093 (100.0%) of 14,097 articles have been extended.
+14,097 (100.0%) of 14,101 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### இலங்கை தொடர்ந்தும் உக்ரைன் உட்பட உலக விவகாரங்களில் நடுநிலைமையை பேணவேண்டும் - புட்டினின்வெற்றி மேற்குலகின் தலையீடுகள் தோல்வியடைந்துள்ளதை வெளிப்படுத்தியுள்ளது - இலங்கைக்கான ரஸ்ய தூதுவர்
+### වීථි පුරා මළ සිරුරු හමුවන අගනගරය
+
+*2024-03-20 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194737) · `si`
+
+අවිගත් කල්ලි තවමත් හයිටියේ පෝට් ඕ ප්‍රින්ස් අගනුවර වීථිවල සරසමින් ප්‍රචණ්ඩව හැසිරෙමින් සිටින බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ඔවුන්ගේ ප්‍රහාරවලට ලක්ව මිය ගිය අයගේ සිරුරු පෝර්ට් ඕ ප්‍රින්ස් අගනුවර වීථි පුරා දක්නට ඇති බව සඳහන් ය.
+
+එමෙන්ම පෝර්ට් ඕ ප්‍රින්ස් අගනුවර ඇතුළු තදාසන්න පෙදෙස්වලින් මංකොල්ල කෑම් රැසක් ද වාර්තා වෙයි.
+
+එහි නවතම පුවත වන්නේ අවිගත් කල්ලි හයිටි හි මහ බැංකුව කොල්ලකෑමේ සිදුවීමයි.
+
+එම සිද්ධියේදී පුද්ගලයින් තිදෙනෙකු ද මිය ගොස් ඇතැයි වාර්තා වෙයි.
+
+මෙලෙස කොල්ලකෑමට ලක්වුණු මහ බැංකුව එරට ක්‍රියාත්මක ප්‍රචණ්ඩත්වය හමුවේ ක්‍රියාත්මක වෙමින් පැවති ප්‍රධාන ආයතන අතුරින් එක් ආයතනයක් විය.
+
+මේ අතර, පොර්ට් ඕ ප්‍රින්ස් අගනුවර අධිකරණ විනිසුරුවරයෙකුගේ නිවසක් ද අවිගත් කල්ලිවල ප්‍රහාරයට ලක්ව තිබුණි.
+
+මෙය රට තුළ පවතින අස්ථාවර දේශපාලන තත්ත්වයට කදිම නිදසුනක් ලෙස විදෙස් වාර්තා පෙන්වා දෙයි.
+
+මේ අතර, හයිටි හි ක්‍රියාත්මක සහන සේවා ආයතනවලට අයත් සහනාධාර කොල්ලකෑමට අවිගත් කල්ලි කටයුතු කර තිබේ.
+
+ඒ රට තුළ ක්‍රියාත්මක ප්‍රචණ්ඩත්වය හමුවේ උද්ගතව ඇති මානුෂිය තත්ත්වය තවත් තීව්‍ර කරමිනි.
+
+...
+
+[Data](articles/a250ea6f.json)
+
+---
+
+### Lawyer remanded for contemptuous behavior before Supreme Court
+
+*2024-03-20 16:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lawyer-remanded-for-contemptuous-behavior-before-Supreme-Court/108-279241) · `en`
+
+Colombo, March 20 (Daily Mirror) - The Supremae Court today ordered the remand of a lawyer accused of his contemptuous behavior in the Supreme Court.
+
+The Supreme Court further ordered the prison authorities to produce this lawyer before the court again on April 3. The court further ordered the suspension of this attorney from engaging in legal practice until the conclusion of the hearing into the case.
+
+It was alleged that Attorney-at-Law Susil Priyantha Jayatunga repeatedly made his submissions disregarding the directives of the Supreme Court, thereby behaving in a contemptuous manner towards the Supreme Court.
+
+...
+
+[Data](articles/69767801.json)
+
+---
+
+### අපනයන ආර්ථිකයකට කඩිනමින් නොගියොත් නැවතත් ආර්ථික අර්බුදයක්
+
+*2024-03-20 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194736) · `si`
+
+ආනයන, අපනයන පරතරය පියවා ගැනීමට ණය ලබාගැනීම අඛණ්ඩව සිදු වුවහොත් නැවතත් වසර 10කින් ශ්‍රී ලංකාවට ආර්ථික අර්බුදයකට මුහුණ දීමට සිදුවන බව ජනාධිපතිවරයා පෙන්වා දෙයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කරන්නේ රට තුළ ආර්ථික ස්ථාවරත්වයක් ඇති කර එය කඩිනමින් අපනයන ආර්ථිකයක් කරා පරිවර්තනය කිරීම තම අපේක්ෂාව බවය.
+
+ඊට අදාළව නව නීතියක් ද මෙම අප්‍රේල් මාසයේදී පාර්ලිමේන්තුවට ඉදිරිපත් කරන බවත් එසේම රජයේ මූල්‍ය පාලනය සඳහා ද නීතියක් ගෙනඑන බව පැවසූ ජනාධිපතිවරයා මෙම සියලු කටයුතු තුළින් රටේ ආර්ථිකය ඉදිරියට ගෙන යාම අරමුණ බව පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ කෑගල්ල, මංගෙදර ටැම්පිට පුරාණ පිරිවෙන් විහාරස්ථානයේ ‌‌ඓතිහාසික බෝධින් වහන්සේ වටා ඉදිකළ බෝධිඝරය සහ රන්වැට විවෘත කිරීමේ පුණ්‍යෙත්සවයට අද (20) පෙරවරුවේ එක්වෙමිනි.
+
+ශ්‍රී ලංකාව ණය ගෙවිය හැකි රටක් ලෙස නැවත ලෝකය හමුවේ සහතික කිරීමට අදාළ සාකච්ඡා මෙම ජූනි, ජුලි මාසය වනවිට අවසන් කිරීමට අපේක්ෂා කරන බව මෙහිදී සඳහන් කළ ජනාධිපතිවරයා ඒ සමඟම බංකොළොත් රටක් යන නාමකරණය යටතේ අපට මෙතෙක් අහිමිව තිබූ විදෙස් ආධාර නැවත රටට ලැබීම ආරම්භ වන බවද පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/3e608e13.json)
+
+---
+
+### Sri Lanka continues to maintain neutrality in global affairs, including Ukraine - Putin has revealed that the intervention of the West has failed - the Russian Ambassador to Sri Lanka
 
 *2024-03-20 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179242) · `ta`
 
-ரஸ்ய ஜனாதிபதிதேர்தலில் விளாடிமிர் புட்டின் பெரும் வெற்றியைபெற்றுள்ளமை மேற்குலகின் தலையீடுகள் வெற்றியளிக்கவில்லை என்பதை புலப்படுத்தியுள்ளதாக இலங்கைக்கான  ரஸ்ய தூதுவர் லெவென் எஸ் ஜகார்யன்  தெரிவித்துள்ளார்.
+Russian Ambassador to Sri Lanka, Leven S Jagarian, highlights Putin's election victory as evidence of Western interventions' failure, including in Ukraine. He criticizes Western interventions in Sri Lanka and globally, noting Russian voters' support for Putin. Jagarian also addresses the Ukrainian conflict, stating it's not a war against Ukraine and that the Russian people opposed Western plans to subordinate Russia. He emphasizes Russia's neutrality and its economic challenges due to the Ukraine war.
 
-உக்ரைன் யுத்தத்தை அடிப்படையாக வைத்து ரஸ்ய ஜனாதிபதி தேர்தலின் முடிவுகளை மாற்றியமைப்பதற்கு  அமெரிக்கா தலைமையிலான  கூட்டணி மேற்கொண்ட முயற்சிகள்  தோல்வியடைந்துள்ளதை புட்டினின் வெற்றி வெளிப்படுத்தியுள்ளது எனவும் அவர் தெரிவித்துள்ளார்.
+🟩
 
-இலங்கை உட்பட பல நாடுகளில் மேற்குலகின் தலையீடுகள் குறித்து சுட்டிக்காட்டியுள்ள அவர் மேற்குலகின் எதிர்பார்ப்பிற்கு மாறாக ரஸ்ய வாக்காளர்கள் எவ்வாறு ஜனாதிபதி புட்டினிற்கு ஆதரவாக வாக்களித்தனர் என்பதையும் சுட்டிக்காட்டியுள்ளார்.
+Vladimir Putin's great success in the Russian presidential election has revealed that the West's interventions have not been successful, said Russian Ambassador to Sri Lanka Leven S Jagarian.
 
-ஐலண்டிற்கு வழங்கியுள்ள பேட்டியில் இதனை தெரிவித்துள்ள அவர் ரஸ்ய ஜனாதிபதி தேர்தல் முடிவுகள் குறித்து தான் ஆச்சரியமடையவில்லை எனவும் தெரிவித்துள்ளார்.
+Putin's victory has revealed that the US -led coalition's efforts to change the results of the Russian presidential election based on the Ukraine war have failed.
 
-புட்டினிற்கு மேலும் ஆறுவருடங்கள் கிடைத்துள்ளமைக்கு உக்ரைன் யுத்தமே காரணம் எனவும் இலங்கைக்கான ரஸ்ய தூதுவர் தெரிவித்துள்ளார்.
+He pointed out the interventions of the West in many countries, including Sri Lanka, and pointed out how Russian voters voted in favor of President Putin, contrary to the expectation of the West.
+
+In an interview with Island, he said he was not surprised about the results of the Russian presidential election.
+
+The Russian Ambassador to Sri Lanka said that the Ukrainian war was the reason for Putin's six years.
+
+I would like to report some details clearly that it is not a war against Ukraine.
+
+He also said that the people of Rasya were opposed to the West's plan that had been devastated to subordinate Russia.
 
 ...
 
 [Data](articles/f3c193c2.json)
 
+[Extended Data](ext_articles/f3c193c2.ext.json)
+
 ---
 
-### ஏற்றுமதிப் பொருளாதாரத்தை நோக்கிய விரைவான மாற்றத்தையே எதிர்பார்க்க - ஜனாதிபதி வலியுறுத்தல்
+### Expect a rapid change towards the export economy - the president urges
 
 *2024-03-20 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179241) · `ta`
 
-இறக்குமதிக்கும் ஏற்றுமதிக்கும் இடையிலான இடைவெளியை கடனாகப் பெற்றுக்கொள்ளும் பட்சத்தில் இன்னும் 10 வருடங்களில் இலங்கை மீண்டும் பொருளாதார நெருக்கடிக்கு முகம்கொடுக்க நேரிடும் என சுட்டிக்காட்டிய ஜனாதிபதி, நாட்டில் பொருளாதார ஸ்திரத்தன்மையை ஏற்படுத்தி விரைவில் ஏற்றுமதி பொருளாதாரத்தை நோக்கிய மாற்றத்தை ஏற்படுத்த எதிர்பார்ப்பதாகத் தெரிவித்தார்.
+President Ranil Wickremesinghe urges Sri Lanka to shift towards an export economy, warning of an economic crisis in 10 years if the import-export gap isn't addressed. He expects legislation on financial management to be presented in Parliament by April, aiming to stabilize the economy. The President also highlights ongoing negotiations to repay loans and increase foreign trade, aiming to strengthen the economy and provide relief to the people.
 
-இவற்றுக்குத் தேவையான சட்டத்தை ஏப்ரல் மாதமளவில் பாராளுமன்றத்தில் சமர்பிக்க எதிர்பார்த்திருப்பதாகவும், அரசாங்கத்தின் நிதி நிர்வாகம் தொடர்பிலான புதிய சட்டமூலமும் அதனுடன் சமர்பிக்கப்பட உள்ளதாகவும் சுட்டிக்காட்டிய ஜனாதிபதி, நாட்டில் பொருளாதார முன்னேற்றத்தை ஏற்படுத்துவதே இதன் நோக்கமாகும் எனவும் தெரிவித்தார்.
+🟩
 
-கேகாலை மங்கெதர டெம்பிடி புராதன பிரிவெனா விகாரையில் புதிதாக அமைக்கப்பட்ட தங்க வேலியை  இன்று (20) திறந்து வைத்து உரையாற்றும் போதே ஜனாதிபதி இதனைத் தெரிவித்தார்.
+Pointing out that if the gap between imports and exports is obtained, the President pointed out that Sri Lanka will face the economic crisis in another 10 years, he said, adding that the economic stability in the country is expected to make a change towards the export economy soon.
+
+The President pointed out that the legislation is expected to be presented in Parliament by April and the new Bill on the government's financial management is to be presented to it, the President said, "It is aimed at making economic progress in the country."
+
+The President made this statement while addressing the inauguration of the newly built gold fence at the Mangalam Tempidi Antique Division of Kegalle today (20).
+
+At the request of Jagath Sumitra Karunaratne and Mallika Karunaratne, who lives in Kadavatha at the request of Vikramaditya Sri Janandapithana Thera, Thangaveli was set up at the Mangaderatha Tempidi Vihara.
 
 ...
 
 [Data](articles/4a535297.json)
+
+[Extended Data](ext_articles/4a535297.ext.json)
 
 ---
 
@@ -92,21 +176,27 @@ The Central Bank further said that those who were found guilty will be sentenced
 
 ---
 
-### தென்னை மரத்தில் ஏறியதங்க வளையல்
+### Bangle
 
 *2024-03-20 15:32:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தென்னை-மரத்தில்-ஏறியதங்க-வளையல்/76-334930) · `ta`
 
-வீடொன்றில் திருடப்பட்ட 1,40,000 ரூபாய் பெறுமதியான தங்க வளையல், 40 அடி உயர தென்னை மரத்தின் உச்சியில் மறைத்து வைக்கப்பட்டிருந்த  நிலையில் மீட்கப்பட்டுள்ளதுடன் சந்தேகத்தின் பேரில் இளைஞன் ஒருவரையும் கைது செய்யப்பட்டுள்ளதாக பதுளை பொலிஸார் தெரிவித்துள்ளனர் .
+A gold bangle worth Rs 1,40,000 was stolen and found in a coconut tree in Badulla. A 22-year-old was arrested for investigating the theft, claiming he hid the bangle there. He admitted spending the stolen money.
 
-பதுளை, மெதபத்தனை பகுதியில்  வீடொன்றில் யாரும் இல்லாதபோது ஜன்னலை உடைத்து உள் புகுந்து  தங்க வளையல் ஒன்றையும்,  37,000 ரூபாய்  பணத்தையும் திருடிச்சென்றுள்ளதாக பொலிஸாருக்கு  கிடைக்கப்பெற்ற  தகவலொன்றிக்கமைய  விசாரணைகளை மேற்கொண்ட  பொலிஸார்  22 வயதுடைய  இளைஞன்  ஒருவரை  கைது  செய்துள்ளனர் .
+🟩
 
-அவரிடம் மேற்கொண்ட விசாரணையின்  போது திருடப்பட்ட பணத்தை தான் செலவிட்டதாகவும் தங்க வளையலை , தென்னை மரத்தின் உச்சியில் மறைத்து வைத்துள்ளதாகவும்  பொலிஸாரிடம்  தெரிவித்துள்ளார் .
+Badulla police said that the gold bangle worth Rs 1,40,000 was stolen in a house and was recovered at the top of the 40 -foot -tall coconut tree and a youth was arrested on suspicion.
 
-மேலும்,  இச்சம்பவம்  தொடர்பிலான  மேலதிக  விசாரணைகளை  பொலிஸார்  மேற்கொண்டு வருவதாக  தெரிவித்துள்ளனர் .
+A 22 -year -old youth has arrested a young man who was investigating the information received by the police alleging that there was no one in a house in Medapana, Badulla, when there was no one in a house in Badulla.
+
+He told the police that he had spent the stolen money during the investigation and that the gold bracelet had been hidden on the top of the coconut tree.
+
+Further investigations into the incident are being carried out by the police.
 
 ◼️
 
 [Data](articles/680cd1bb.json)
+
+[Extended Data](ext_articles/680cd1bb.ext.json)
 
 ---
 
@@ -131,6 +221,24 @@ Further investigations into the incident are being carried out by the police.
 [Data](articles/b0b7ee31.json)
 
 [Extended Data](ext_articles/b0b7ee31.ext.json)
+
+---
+
+### தென்னை மரத்தில் ஏறிய தங்க வளையல்
+
+*2024-03-20 15:32:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தென்னை-மரத்தில்-ஏறிய-தங்க-வளையல்/76-334930) · `ta`
+
+வீடொன்றில் திருடப்பட்ட 1,40,000 ரூபாய் பெறுமதியான தங்க வளையல், 40 அடி உயர தென்னை மரத்தின் உச்சியில் மறைத்து வைக்கப்பட்டிருந்த  நிலையில் மீட்கப்பட்டுள்ளதுடன் சந்தேகத்தின் பேரில் இளைஞன் ஒருவரையும் கைது செய்யப்பட்டுள்ளதாக பதுளை பொலிஸார் தெரிவித்துள்ளனர் .
+
+பதுளை, மெதபத்தனை பகுதியில்  வீடொன்றில் யாரும் இல்லாதபோது ஜன்னலை உடைத்து உள் புகுந்து  தங்க வளையல் ஒன்றையும்,  37,000 ரூபாய்  பணத்தையும் திருடிச்சென்றுள்ளதாக பொலிஸாருக்கு  கிடைக்கப்பெற்ற  தகவலொன்றிக்கமைய  விசாரணைகளை மேற்கொண்ட  பொலிஸார்  22 வயதுடைய  இளைஞன்  ஒருவரை  கைது  செய்துள்ளனர் .
+
+அவரிடம் மேற்கொண்ட விசாரணையின்  போது திருடப்பட்ட பணத்தை தான் செலவிட்டதாகவும் தங்க வளையலை , தென்னை மரத்தின் உச்சியில் மறைத்து வைத்துள்ளதாகவும்  பொலிஸாரிடம்  தெரிவித்துள்ளார் .
+
+மேலும்,  இச்சம்பவம்  தொடர்பிலான  மேலதிக  விசாரணைகளை  பொலிஸார்  மேற்கொண்டு வருவதாக  தெரிவித்துள்ளனர் .
+
+◼️
+
+[Data](articles/cc015999.json)
 
 ---
 
@@ -1009,6 +1117,8 @@ The total number of passengers using the BIA in 2022 was 5 million, with a proje
 ◼️
 
 [Data](articles/592ea69e.json)
+
+[Extended Data](ext_articles/592ea69e.ext.json)
 
 ---
 
@@ -2205,93 +2315,5 @@ Further inquiries are continuing under the supervision of Deputy Inspector Gener
 [Data](articles/d5fe3d41.json)
 
 [Extended Data](ext_articles/d5fe3d41.ext.json)
-
----
-
-### Man dies after making fire
-
-*2024-03-20 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194715) · `si`
-
-A man died after starting a fire that spread to three acres. The body was found near his home.
-
-🟩
-
-The incident was reported yesterday in the evening, police said.
-
-The deceased has burned a land landing on him, and the fire has been extended to about three acres adjoining the fire.
-
-The body has been found in the area where the deceased was to look into the home of the deceased.
-
-◼️
-
-[Data](articles/374ee103.json)
-
-[Extended Data](ext_articles/374ee103.ext.json)
-
----
-
-### Country’s liquor consumption has drastically decreased: Excise Chief
-
-*2024-03-20 09:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Countrys-liquor-consumption-has-drastically-decreased-Excise-Chief/108-279202) · `en`
-
-Colombo, March 20 (Daily Mirror) - Meeting a record annual tax revenue target of Rs.232 billion for the year 2024 is questionable, as Sri Lanka’s liquor consumption has drastically decreased in recent years owing to its ever increasing prices, as revealed by the Chief of Excise Department.
-
-The country’s liquor production as compared to the year 2022 has dropped by 6.5million litres last year, which was a significant amount.
-
-The recently appointed Excise Commissioner General M J Gunasiri on his second tenure as the departmental head told the Daily Mirror, that alcoholic spirits production of 26.5 million litres in 2022 has been dropped to 20 million litres in 2023.
-
-He pointed out that as a result, the sales of 29 million bottles (750ml) of liquor, 54 million half bottles (375ml) and the most popular quarter bottles (180ml) had been reduced by 115 million during last year.
-
-...
-
-[Data](articles/3caa5a3d.json)
-
-[Extended Data](ext_articles/3caa5a3d.ext.json)
-
----
-
-### The train service continues to be delayed on the coastal route
-
-*2024-03-20 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179181) · `ta`
-
-Train service on the coastal route delayed due to a derailment between Colombo Fort and Kombanjanga Road Stations. Four services, including the Galle Postal Train, canceled. One track reopened, work on the other ongoing.
-
-🟩
-
-The Railway Department said that the train service on the coastal route will be delayed due to a train derailment between Colombo Fort and Kombanjanga Road Stations yesterday evening.
-
-The high -speed train, which was traveling from Colombo Fort to South Kalutara at around 7.15 pm last night, derailed between the fort and the Kombanjanga Road railway stations.
-
-Four train services, including the Galle Postal Train last night, were canceled due to the train derailment.
-
-In this case, one religion has been opened for rail transport, and the other is the work on the other.
-
-◼️
-
-[Data](articles/5bd3a24c.json)
-
-[Extended Data](ext_articles/5bd3a24c.ext.json)
-
----
-
-### The no-confidence-to-confidence debate against speaker begins today
-
-*2024-03-20 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194714) · `si`
-
-The debate on the no-confidence motion against Speaker Mahinda Yapa Abeywardena starts today, with Parliamentary Business underway. The Committee on Parliament has rescheduled the debate.
-
-🟩
-
-Parliamentary Business has commenced under the patronage of the Deputy Speaker.
-
-The diabet of the no-confidence motion against Speaker Mahinda Yapa Abeywardena will be held today (20) today.
-
-Meanwhile, the Committee on Parliament yesterday decided to give another date on the debate on the no-confidence motion.
-
-◼️
-
-[Data](articles/2aa78baf.json)
-
-[Extended Data](ext_articles/2aa78baf.ext.json)
 
 ---

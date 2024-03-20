@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 08:02:56**
+As of **2024-03-20 08:17:43**
 
 ## Newspaper Stats
 
-*Scraped **13,977** Articles*
+*Scraped **13,979** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 1,206
 adaderanalk | 1,680
 tamilmirrorlk | 1,694
 virakesarilk | 1,957
-dailymirrorlk | 2,133
-adaderanasinhalalk | 2,223
+dailymirrorlk | 2,134
+adaderanasinhalalk | 2,224
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,977 (100.0%) of 13,977 articles have been extended.
+13,977 (100.0%) of 13,979 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### මැතිවරණ ප්‍රමාද වීමේ අවදානමක් ගැන අනතුරු ඇඟවෙයි
+
+*2024-03-20 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194711) · `si`
+
+මැතිවරණ ක්‍රමය සංශෝධනය කිරීම සඳහා ඉදිරිපත්ව ඇති යෝජනා නිසි ආකාරයෙන් ක්‍රියාත්මක නොවුන හොත් මැතිවරණය ප්‍රමාද වීමේ අවදානමක් පවතින බව පැෆරල් සංවිධානය පවසයි.
+
+එහි විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා සඳහන් කළේ, මැතිවරණ ක්‍රමය සංශෝධනය කර කඩිනමින් සීමානිර්ණ කටයුතු අවසන් කළ යතු බවය.
+
+"මේ වනවිට මැතිවරණ ක්‍රමයේ සංශෝධනයක් පිළිබඳව කැබිනට් මණ්ඩලයේ යෝජනාවක් සම්මත වෙලා තියෙනවා. පාර්ලිමේන්තු මැතිවරණ ක්‍රමය මිශ්‍ර සමානුපාතික ක්‍රමයකට ගෙනයෑම පිළිබඳව තමයි මේ යෝජනාව. පාර්ලිමේන්තු මැතිවරණ ක්‍රමය සංශෝධනය කරනවා නම්, ඒ හරහා එහි එක කොටසක් හැටියට එන සීමානීර්ණ කිරීම නිශ්චිත කාලයක් තුළ අවසන් කිරීම පිළිබඳ යම් එකඟතාවයක් තිබිය යුතුයි. යම් විදියකින් සීමානීර්ණය අවසන් නොවුණොත් ඉදිරි අගෝස්තු මාසය වෙනවිට මැතිවරණ ක්‍රමය සංශෝධනය කරලත් පවතින මැතිවරණ ක්‍රමයට මැතිවරණය පැවැත්වීමට මැතිවරණ කොමිසමට බලය ලැබෙන ආකාරයේ සංශෝධනයක් මේ කෙටුම්පත තුළ ඇතුළත් වීම අනිවාර්යයි. එහෙම නොවුණොත් මැතිවරණ ක්‍රමය සංශෝධනය කරලා, නීතිය සම්මත වෙලා සීමානිර්ණය අවසන් නොවී තියෙන්න පුළුවන්."
+
+...
+
+[Data](articles/f911e8f4.json)
+
+---
+
+### 20 Special teams mobilized targeting 20 underworld gangs
+
+*2024-03-20 07:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/20-Special-teams-mobilized-targeting-20-underworld-gangs/108-279197) · `en`
+
+Colombo, March 20 (Daily Mirror) - Following a concerning rise in organized criminal activities in the Western and Southern provinces, a special operation targeting 20 identified organized criminal gangs in the country under the 'Yukthiya' initiative was launched yesterday.
+
+Accordingly, 20 special police teams have been deployed to crackdown on those identified underworld gangs.
+
+IGP Tennakoon said that 99 shootings related to organized criminals were reported since January 2023, resulting in 56 deaths and 37 injuries.
+
+"While many of the deceased were organized criminals, they must be prosecuted through legal channels. Vigilante justice cannot be condoned," the IGP emphasized.
+
+He said that the recent shooting incidents reported in the Elpitiya Police division, where three innocent individuals lost their lives, were unfortunate incidents.
+
+...
+
+[Data](articles/a1174105.json)
+
+---
 
 ### Temporary change in prevailing dry weather expected after today
 
@@ -2175,49 +2211,5 @@ Parliamentarian Professor Charitha Herath has decided to resign from the Member 
 [Data](articles/0fc6d8c4.json)
 
 [Extended Data](ext_articles/0fc6d8c4.ext.json)
-
----
-
-### Govt. to provide rice to nearly 3 million low-income families
-
-*2024-03-19 16:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98057/govt-to-provide-rice-to-nearly-3-million-low-income-families) · `en`
-
-The Cabinet of Ministers has given its approval to provide 10kg of rice per month for each low-income family for a period of two months.
-
-As per the proposal furnished by President Ranil Wickremesinghe, as many as 2.74 million low-income families will benefit from this relief program.
-
-These low-income families will be identified through District Secretaries/Government Agents by involving small- and medium-scale mill owners, the government said in a statement.
-
-In the first half of 2023, the government took measures to provide 10kg of Nadu rice per family for a period of two months covering 2.74 million families in the 25 districts, including Samurdhi beneficiaries.
-
-In order to help maintain the nutritional level of the identified low-income earners, the government decided that it is only appropriate to resume the program this year as well.
-
-◼️
-
-[Data](articles/531ca9a1.json)
-
-[Extended Data](ext_articles/531ca9a1.ext.json)
-
----
-
-### Gold jewelery worth Rs 10 crore
-
-*2024-03-19 16:47:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-10-கோடி-பெறுமதியான-தங்க-நகைகள்-சிக்கின/175-334892) · `ta`
-
-Sri Lankan Customs arrested two Dubai passengers at Katunayake airport for smuggling gold jewelry worth over Rs 10 crore. The jewelry was hidden in liquor bottles.
-
-🟩
-
-Senior Customs Customs Director Sivali Turungoda said that the Sri Lankan Customs Monitoring Unit had arrested two passengers from Dubai on Tuesday (19) with jewelery worth over Rs 10 crore at Katunayake airport.
-
-He said that the jewelery was seized when the liquor bottles were removed and looked like foreign liquor bottles.
-
-The two passengers are residents of Ambalangoda and Jaffna areas.
-
-◼️
-
-[Data](articles/03f355e6.json)
-
-[Extended Data](ext_articles/03f355e6.ext.json)
 
 ---

@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 18:52:21**
+As of **2024-03-20 19:02:54**
 
 ## Newspaper Stats
 
-*Scraped **14,139** Articles*
+*Scraped **14,141** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 131
-bbccomsinhala | 156
+bbccomsinhala | 157
 dbsjeyarajcom | 190
 newsfirstlk | 363
 dailyftlk | 734
 economynextcom | 757
 islandlk | 770
-adalk | 1,220
+adalk | 1,221
 adaderanalk | 1,699
 tamilmirrorlk | 1,709
 virakesarilk | 1,986
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,138 (100.0%) of 14,139 articles have been extended.
+14,139 (100.0%) of 14,141 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -89,6 +89,8 @@ The committee’s meeting preceded an extraordinary session of Vietnam’s rubbe
 ...
 
 [Data](articles/043f457e.json)
+
+[Extended Data](ext_articles/043f457e.ext.json)
 
 ---
 
@@ -1252,6 +1254,20 @@ The magistrate said this while reporting the facts about his wife's request to o
 
 ---
 
+### හෙට සිට වියළි කාලගුණයේ වෙනසක්
+
+*2024-03-20 14:07:36* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-සිට-වියළි-කාලගුණයේ-වෙනසක්/11-408723) · `si`
+
+දිවයිනේ දැනට පවතින වියළි කාලගුණ තත්ත්වයේ ‌වෙනසක් හෙට දින සිට අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව නැගෙනහිර, ඌව සහ උතුරු පළාත්වල වැසි වාර කිහිපයක් ඇති වන බවත් බස්නාහිර, සබරගමුව,මධ්‍යම, ඌව, දකුණු, වයඹ සහ උතුරු-මැද පළාත්වල සවස් කාලයේදී හෝ රාත්‍රි කාලයේදී තැනින් තැන වැසි ගහෝ ගිගුරුම් සහිත වැසි ඇතිවන බවද එම දෙපාර්තමේන්තුව අද මධ්‍යාහ්න නිකුත් කළ නිවේදනයක දැක්වෙයි.
+
+◼️
+
+[Data](articles/5778eeaf.json)
+
+---
+
 ### Govt ready to make ongoing economic reforms a law – State Minister tells IMF
 
 *2024-03-20 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98077/govt-ready-to-make-ongoing-economic-reforms-a-law-state-minister-tells-imf) · `en`
@@ -1431,6 +1447,28 @@ According to the United Nations World Happy Sri Lanka, Sri Lanka has been ranked
 [Data](articles/1bc20999.json)
 
 [Extended Data](ext_articles/1bc20999.ext.json)
+
+---
+
+### කෝප් කමිටු සාමාජිකයින් දිගින් දිගට ම ඉල්ලා අස් වන්නේ ඇයි?
+
+*2024-03-20 13:16:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0kep4d1204o) · `si`
+
+පාර්ලිමේන්තුවේ පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ (කෝප් කමිටුවේ) සභාපති ධූරය සඳහා පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන පත් වීමත් සමග එම කමිටුවේ සාමාජිකයින් බොහෝ දෙනෙක් දිගින් දිගට ම ඉල්ලා අස්වෙමින් සිටිති.
+
+මාර්තු 18 වන දා සිට දින තුනක් තුළ එහි සාමාජිකයින් 10 දෙනෙකු මේ දක්වා ඉල්ලා අස්වී තිබේ.
+
+මේ අතර, අද (මාර්තු 20) යෝජනා කරන ලද වසන්ත යාපා බණ්ඩාර එම යෝජනාව ප්‍රතික්ෂේප කළේ ය.
+
+පාර්ලිමේන්තුවේ පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ (කෝප් කමිටුවේ) නව සභාපතිවරයා ලෙස පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන වැඩි ඡන්දයෙන් තේරී පත්වූයේ, නව වන පාර්ලිමේන්තුවේ පස් වන සභා වාරයේ පොදු ව්‍යාපාර පිළිබඳ කාරක සභාවේ පළමු රැස්වීම පැවති මාර්තු 7 වන දා ය.
+
+එහිදී සභාපති ධූරය සදහා පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන රෝහිත අබේගුණවර්ධන සහ ගාමිණී වලේබොඩ යන මහත්වරුන්ගේ නම් යෝජනා විය. රෝහිත අබේගුණවර්ධනගේ නම පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අළුත්ගමගේ යෝජනා කළ අතර, පාර්ලිමේන්තු මන්ත්‍රී සංජීව එදිරිමාන්න එය ස්ථිර කළේ ය.
+
+ගාමිණී වලේබොඩගේ නම පාර්ලිමේන්තු මන්ත්‍රී හේෂා විතානගේ විසින් යෝජනා කරන ලද අතර ඩිලාන් පෙරේරා විසින් ස්ථිර කරන ලදී.
+
+...
+
+[Data](articles/889a645d.json)
 
 ---
 
@@ -2299,49 +2337,5 @@ The winning Sri Lanka Odd Bens Senior to 01.25 days in India, Spice Jet, India, 
 [Data](articles/d58a240c.json)
 
 [Extended Data](ext_articles/d58a240c.ext.json)
-
----
-
-### Checked money from students who said they were provided with jobs
-
-*2024-03-20 11:16:18* · [`adalk`](https://www.ada.lk/breaking_news/රැකියා-ලබා-දෙන-බව-පවසා-උසස්-පෙළ-ලියූ-සිසුන්ගෙන්-මුදල්-වංචා-කරලා/11-408718) · `si`
-
-Several schools reported that students who took the GCE A/L examination received money through the Internet. Initially, students were told to call the school for a laptop, but banks refused to provide funds for laptops. The Meetagama police headquarters received no complaints about this incident.
-
-🟩
-
-Several schools have been reported from the River students who sat the GCE A / L examination have obtained their money through the Internet.
-
-The team first said that the students can call the school and give the students a laptop computer that they will be given a laptop computer and to provide laptops to school children.
-
-When contacted, a student inquired from the Institute, they have spoken to the company that they spoke to the company with such projects. So many students have been credited to the account that banks want to have for banking laborers to the bank for laptop computers for laptop computers for the laptop computers that need. They have been asked to go to a private bank branch, but that the bank has said that the bank has not known any work cases.
-
-They said that the Meetagama police headquarters on this incident, they said that no one had done any complaint.
-
-◼️
-
-[Data](articles/f534a51c.json)
-
-[Extended Data](ext_articles/f534a51c.ext.json)
-
----
-
-### Recommended to postpone the central bank's salary increase!
-
-*2024-03-20 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/179198) · `ta`
-
-The Parliamentary Committee on the Government Fund recommends postponing the Central Bank of Sri Lanka's salary increase until a fair solution is found.
-
-🟩
-
-The Parliamentary Committee on the Government Fund has recommended to the Central Bank of Sri Lanka to postpone the salary increase until a clear and fair solution is available.
-
-The report of the Parliamentary Committee on the Government Fund on the salary increase of duty in the Central Bank of Sri Lanka was submitted to Parliament by its Chairman Harsha de Silva.
-
-◼️
-
-[Data](articles/8fe8133b.json)
-
-[Extended Data](ext_articles/8fe8133b.ext.json)
 
 ---

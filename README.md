@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 19:33:21**
+As of **2024-03-20 19:50:48**
 
 ## Newspaper Stats
 
-*Scraped **14,147** Articles*
+*Scraped **14,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ newsfirstlk | 363
 dailyftlk | 734
 economynextcom | 758
 islandlk | 770
-adalk | 1,221
-adaderanalk | 1,699
+adalk | 1,222
+adaderanalk | 1,700
 tamilmirrorlk | 1,712
-virakesarilk | 1,986
+virakesarilk | 1,987
 dailymirrorlk | 2,170
-adaderanasinhalalk | 2,256
+adaderanasinhalalk | 2,257
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,146 (100.0%) of 14,147 articles have been extended.
+14,147 (100.0%) of 14,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### යාපනයේදී ජීවිත දෙකක් මුහුදට බිලිවෙයි
+
+*2024-03-20 19:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194747) · `si`
+
+යාපනය ඉලවලයි ප්‍රදේශයේ මුහුදු වෙරළේ දිය නෑමට ගිය පුද්ගලයින් දෙදෙනකු දියේ ගිලී මියගොස් තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ යාපනය ප්‍රදේශයේම පදිංචි වයස අවුරුදු 30 සහ 35 යන වයස්වල පසුවන දෙදෙනෙකි.
+
+මෘත දේහ සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණය සිදුකිරීමට නියමිත අතර ඉලවලයි පොලීසිය වැඩිදුර පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/bc6e657e.json)
+
+---
+
+### BIA records sharp increase, serving 850,000 travellers this year – AASL Chairman
+
+*2024-03-20 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98085/bia-records-sharp-increase-serving-850000-travellers-this-year-aasl-chairman) · `en`
+
+The Chairman of Airport and Aviation Services (Sri Lanka) Ltd. (AASL) Athula Galketiya remarked that the arrival of foreign tourists has risen owing to President Ranil Wickremesinghe’s economic initiatives and the peaceful environment fostered within the country.
+
+Consequently, Bandaranaike International Airport (BIA) in Katunayake has seen a notable increase in air passenger usage, he said.
+
+The AASL Chairman reported that from January 1st to March 19th, 2024, the number of air passengers who utilized BIA services amounted to 850,000.
+
+Mr. Galketiya noted that it is anticipated approximately 10 million passengers will utilize the airport by the end of this year.
+
+He further highlighted that the total number of passengers using the Bandaranaike International Airport (BIA) in Katunayake in 2022 was 5 million, with a projected increase to 8 million in 2023.
+
+◼️
+
+[Data](articles/2d882f26.json)
+
+---
+
+### அயர்லாந்து பிரதமர் இராஜினாமா
+
+*2024-03-20 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179272) · `ta`
+
+45 வயதான லியோ வராத்கர் 2022 ஆம் ஆண்டு முதல் அயர்லாந்தின் பிரதமராக பதவி வகித்து வருகிறார்.  2017 முதல் 2020 ஆம் ஆண்டு வரையான காலத்திலும் அவர் பிரதமராக பதவி வகித்தார்.
+
+இந்நிலையில், ஆளும் பினா கய்ல் கட்சியின் தலைவர் பதவியிலிருந்து இராஜினாமா  செய்துள்ள லியோ வராத்கர், புதிய பிரதமர் தெரிவானவுடன் பிரதமர் பதவியிலிருந்தும் விலகவுள்ளதாக அறிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/41ceeeb1.json)
+
+---
 
 ### Fonseka participated in the Executive Committee meeting
 
@@ -78,6 +128,26 @@ Pakistani batsman Barber Assam has been able to save 824 runs in the front front
 
 ---
 
+### රෝහිතගේ සභාපතිත්වයෙන් කෝප් කමිටුව රැස්වෙයි
+
+*2024-03-20 18:32:32* · [`adalk`](https://www.ada.lk/breaking_news/රෝහිතගේ-සභාපතිත්වයෙන්-කෝප්-කමිටුව-රැස්වෙයි/11-408727) · `si`
+
+කෝප් කමිටු ඉතිහාසයේ පළමු වරට නව කාරක සභාව ආරම්භයට පෙර, කාරක සභාවේ අරමුණු හා ක්‍රියාකාරිත්වය පිළිබඳව සභාපතිවරයාගෙන් පැහැදිලි කිරීමක් -
+
+නව කෝප් කමිටුව හමුවට ප්‍රථමයෙන්  ශ්‍රී ලංකා රාජ්‍ය වැවිලි සංස්ථාව කැඳවයි - වසර 27 ක්  තුළ වැවිලි සංස්ථාව ලාභ ලබා ඇත්තේ වසර 4ක් පමණයි - කෝප් කමිටුවේදී හෙළිවෙයි
+
+වැවිලි සංස්ථාවේ ඉදිරි වැඩපිළිවෙල ඇතුළත් කර  මාස 02 තුළ සංයුක්ත සැළැස්මක්( corporate plan ) සකස් කරන්න  - කෝප් කමිටුවෙන් උපදෙස්
+
+සංස්ථාව සතු සියලු ඉඩම් වහාම මැනුම් කර සියලු  තොරතුරු  ඇතුළත්  වාර්තාවක් ලබා දෙන්න - කෝප් කමිටුවෙන් උපදෙස්
+
+පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව (කෝප් කමිටුව ) සඳහා  ආයතන 363ක් කැඳවීමට හැකි වුවත් මෙතෙක්  ආයතන 102ක් කමිටුව හමුවට කැඳවා නොමැති බව පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා පැවසුවේය.
+
+...
+
+[Data](articles/34226efc.json)
+
+---
+
 ### SF participates in SJB working committee
 
 *2024-03-20 18:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SF-participates-in-SJB-working-committee/108-279251) · `en`
@@ -91,6 +161,8 @@ Fonseka obtained a stay order from the Supreme Courts against his suspension fro
 ◼️
 
 [Data](articles/39b5084a.json)
+
+[Extended Data](ext_articles/39b5084a.ext.json)
 
 ---
 
@@ -2243,103 +2315,5 @@ It was also stated that there was no evidence that there was no need to immediat
 [Data](articles/01b07277.json)
 
 [Extended Data](ext_articles/01b07277.ext.json)
-
----
-
-### The boyfriend who abandoned his girlfriend when he was caught by the police:
-
-*2024-03-20 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179204) · `ta`
-
-A boyfriend fled police after being caught with his girlfriend in a drug distribution case. The police seized drugs from their motorcycle and arrested the girlfriend.
-
-🟩
-
-Mathambai police say that the boyfriend fled the police when he was caught by the police when he was taken to a motorcycle with his boyfriend.
-
-Police have arrested a 27 -year -old girl from Vilathwawa.
-
-Police said that the woman has been involved in drug distribution with her boyfriend for some time.
-
-Based on the information received by the police, the drug was seized from the motorcycle on the Dummalazuriya Vilathawa road and the boyfriend escaped from them.
-
-◼️
-
-[Data](articles/2d4108fe.json)
-
-[Extended Data](ext_articles/2d4108fe.ext.json)
-
----
-
-### Court of court in case against Damitha and husband
-
-*2024-03-20 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194724) · `si`
-
-Damitha Abeyratne and her husband face court charges for allegedly defrauding money to Korea, reported by the Computer Crimes Division. They've been accused of revealing faults under the Immigration and Emigration Act.
-
-🟩
-
-The Computer Crimes Division (Mrs. Damitha Abeyratne, who has been accused of defrauding money to be sent to Korea, has reportedly reported courts against her husband.
-
-The Computer Crimes Division has been informed of veteran actress Damitha Abeyratne and his husbands reveal faults under the Immigration and Emigration Act.
-
-Meanwhile, police said that Veteran actress Damitha Abeyratne and her husband have opposed the desired policy.
-
-Fort Magistrate Thilina Gamage informed the order to be arrested as to the 27th.
-
-Damititha Abeyratne and her husband have filed allegedly defrauding money to Korea.
-
-◼️
-
-[Data](articles/5fc3475e.json)
-
-[Extended Data](ext_articles/5fc3475e.ext.json)
-
----
-
-### Success of Eastern Province development projects crucial to resolve national debt crisis: Senthil
-
-*2024-03-20 11:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98073/success-of-eastern-province-development-projects-crucial-to-resolve-national-debt-crisis-senthil) · `en`
-
-The Governor of the Eastern Province, Senthil Thondaman says the debt crisis of the country can be resolved by successfully executing the development projects outlined for the region under the guidance of President Ranil Wickremesinghe.
-
-As the President is the only leader capable of reconstructing the nation, it is incumbent upon all parties to rally behind him and offer their support, Thondaman further commented.
-
-The Eastern Province Governor made these remarks during a press briefing titled “Collective Path to a Stable Country” held at the President Media Centre (PMC) on Tuesday (March 19).
-
-“Following the instructions of President Ranil Wickremesinghe, we’ve initiated numerous development projects in the Eastern Province, with several more slated to begin soon. The province, having endured the effects of a thirty-year-long war, faced developmental setbacks relative to other regions in the country.
-
-...
-
-[Data](articles/013638b8.json)
-
-[Extended Data](ext_articles/013638b8.ext.json)
-
----
-
-### A new story about H
-
-*2024-03-20 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194723) · `si`
-
-Scientists use Nobel-winning genetic technology to remove Hy Vidya from infected cells, aiming to completely eliminate viruses in the body. However, they recommend further safety and efficacy studies. Current Hy-Paddy drugs can halt virus spread but not remove it from the body.
-
-🟩
-
-International media reports say that a team of scientists have been able to remove Hy Vidya from infected cells.
-
-Genetic Technology, which was awarded by the Nobel Prize, has used genetic technology.
-
-The technology provides evictions or disabled the DNA in infected cells.
-
-Scientists say that the viruses in one's body can be completely eliminated.
-
-But their opinion, they should be further investigations into the safety and productiveness.
-
-The Hy-Paddy drugs currently in use can stop the spread of the virus, but it fails to remove the body.
-
-◼️
-
-[Data](articles/6b30fb30.json)
-
-[Extended Data](ext_articles/6b30fb30.ext.json)
 
 ---

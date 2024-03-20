@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 13:17:57**
+As of **2024-03-20 13:33:34**
 
 ## Newspaper Stats
 
-*Scraped **14,060** Articles*
+*Scraped **14,066** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,70 +19,166 @@ adalk | 1,214
 adaderanalk | 1,690
 tamilmirrorlk | 1,703
 virakesarilk | 1,976
-dailymirrorlk | 2,151
-adaderanasinhalalk | 2,239
+dailymirrorlk | 2,156
+adaderanasinhalalk | 2,240
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,054 (100.0%) of 14,060 articles have been extended.
+14,060 (100.0%) of 14,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### கடுமையான பாதுகாப்பு சட்டத்தை நிறைவேற்றியது ஹொங்கொங்  - அதிருப்தியாளர்களை ஒடுக்குவதற்கு பயன்படுத்தப்படலாம் என அச்சம்
+### පොහොට්ටුවේ මන්ත්‍රී කණ්ඩායම් රැස්වීම බැසිල්ගේ ප්‍රධානත්වයෙන්
 
-*2024-03-20 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179220) · `ta`
+*2024-03-20 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194728) · `si`
 
-ஹொங்கொங் நாடாளுமன்றம் மாறுபட்ட கருத்துக்கொண்டுள்ளவர்களை ஒடுக்குவதற்கு உதவக்கூடிய கடுமையான பாதுகாப்பு சட்டத்தை நிறைவேற்றியுள்ளது.
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු කණ්ඩායම් රැස්වීම අද (20) දහවල් පැවැත්වීමට නියමිතව තිබේ.
 
-ஹொங்கொங் நாடாளுமன்றம் புதிதாக நிறைவேற்றியுள்ள தேசிய பாதுகாப்பு சட்டத்தின் கீழ் கிளர்ச்சி மற்றும் நாசவேலைகளில் ஈடுபடுபவர்களிற்கு ஆயுள் தண்டணையை விதிக்கலாம்
+බත්තරමුල්ල නෙළුම් මාවත පක්ෂ කාර්යාලයේ දී එම පක්ෂයේ ජාතික සංවිධායක බැසිල් රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන් මෙම කණ්ඩායම් රැස්වීම පැවැත්වීමට නියමිතය.
 
-புதிய சட்டத்தின் கீழ் தேசத்துரோக குற்றச்சாட்டுகளின் அடிப்படையில் இரண்டு முதல் ஏழு வரை ஒருவருக்கு சிறைத்தண்டனையை விதிக்க முடியும்.
+ජනාධිපතිවරණය සහ මහමැතිවරණය සම්බන්ධයෙන් මේ වනවිට කතාබහක් මතුව ඇති අතර ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක බැසිල් රාජපක්ෂ මහතා ජනාධිපතිවරයා සමඟ පැවැති සාකච්ඡාවකදී ප්‍රකාශ කර ඇත්තේ ප්‍රථමයෙන් මහ මැතිවරණය පැවැත්වීම සුදුසු බවය.
 
-வெளிநாட்டு சக்திகளுடன் இணைந்து செயற்பட்டார் என்ற குற்றச்சாட்டு நிரூபிக்கப்பட்டால் ஒருவருக்கு பத்து ஆண்டுகள் சிறைத்தண்டனையை விதிக்கலாம்.
+ඒ අනුව මේ සම්බන්ධයෙන් ශ්‍රී ලංකා පොදුජන පෙරමුණේ සාමාජිකයින්ගේ මතය විමසීම සහ ඉදිරි ජනාධිපතිවරණ අපේක්ෂකත්වය සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා මෙම රැස්වීම කැඳවා ඇති බව සඳහන්ය.
 
-புதிய சட்டத்தின் கீழ் ஒருவரை 48 மணித்தியாலங்கள் முதல் இரண்டு வாரங்கள் வரை தடுத்துவைத்திருக்கலாம்.
+ඉදිරි ජනාධිපතිවරණයේ දී අපේක්ෂකයා ලෙස වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කළ යුතු බවත් ඔහුට පක්ෂයේ සහයෝගය ලබාදිය යුතු බවත් පොදුජන පෙරමුණ නියෝජනය කරන බොහෝ මැතිඇමතිවරුන් පක්ෂ නායකත්වයට දැනුම් දී තිබේ.
 
-சீன சார்பு நாடாளுமன்ற உறுப்பினர்களை அதிகளவில் கொண்டுள்ள நாடாளுமன்றத்தில் பெரும்பாலானவர்கள் ஒடுக்குமுறை சட்டம் என வர்ணிக்கப்படும் இந்த சட்டத்திற்கு ஆதரவளித்துள்ளனர்.
-
-ஹொங்கொங் நிறைவேற்றியுள்ள இந்த சட்டம் நகரின் உரிமைகள் மற்றும் சுதந்திரத்திற்கு கடும் பாதிப்பை ஏற்படுத்தும் புதிய ஏதேச்சதிகார யுகத்தை உருவாக்கும் என விமர்சனங்கள் வெளியாகியுள்ளன.
+එමෙන්ම තවත් පිරිසක් ප්‍රකාශ කර ඇත්තේ පොදුජන පෙරමුණෙන් ඉදිරි ජනාධිපතිවරණය සඳහා අපේක්ෂකයෙකු ඉදිරිපත් කළ යුතු බවය.
 
 ...
 
-[Data](articles/e8006d87.json)
+[Data](articles/e8efa5a3.json)
 
 ---
 
-### කෝප් කමිටුව ගැන අනුර ගත් තීරණය
+### Anura Kumara, Duminda Dissanayake resign from COPE
+
+*2024-03-20 13:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumara-Duminda-Dissanayake-resign-from-COPE/108-279237) · `en`
+
+Parliament, March 20 (Daily Mirror)- NPP leader and MP Anura Kumara Dissanayake informed Parliament today that he too has decided to resign from the Committee on Public Enterprises (COPE).
+
+He told Parliament that it was pointless participating in COPE meetings under the chairmanship of Rohitha Abeygunawardan.
+
+The MP said the current COPE chairman had allegations of fraud and corruption and therefore he decided to resign as a member of the COPE.
+
+Meanwhile, Parliamentarian Duminda Dissanayake has also resigned from the COPE today.
+
+◼️
+
+[Data](articles/7a26b51f.json)
+
+---
+
+### Suwa Seriya earns global acclaim from World Bank
+
+*2024-03-20 13:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suwa-Seriya-earns-global-acclaim-from-World-Bank/108-279238) · `en`
+
+March 20 - The '1990 Suwa Seriya' ambulance service in Sri Lanka has garnered high praise from the World Bank, lauding it as one of the most advanced and efficient emergency medical services worldwide.
+
+According to Martin Raiser, Vice President of the World Bank Group's South Asia Region, the service has been instrumental in saving the lives of countless critically ill or injured individuals.
+
+Raiser commended the service for its exceptional response time, noting that patients receive urgent care within 12 minutes of placing a call, a benchmark unmatched by many other ambulance services globally. He particularly highlighted the service's pivotal role during the COVID-19 pandemic, emphasizing its role in transporting nearly 175,000 COVID-19 patients to hospitals.
+
+...
+
+[Data](articles/11529e10.json)
+
+---
+
+### Hong Kong passed the Severe Safety Act - Fear as to be used to suppress dissident
+
+*2024-03-20 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179220) · `ta`
+
+Hong Kong's Severe Safety Act, passed by the Parliament, imposes strict security measures to suppress dissent, including life imprisonment for rebellion and sabotage, and up to 10 years for treason or collaboration with foreign powers. Detention can last 48 hours to two weeks. Critics, including the UN Human Rights Commissioner, view it as a severe threat to the city's rights and independence.
+
+🟩
+
+The Hong Kong Parliament has passed a strict security law that helps to suppress those who have different opinions.
+
+Hong Kong Parliament can impose life imprisonment for those who engage in rebellion and sabotage under the new National Security Act
+
+Two to seven can be sentenced to imprisonment on the basis of treason charges under the new law.
+
+If the allegation that he worked with foreign powers is proven, one can be sentenced to ten years in prison.
+
+Under the new law, a person may have been detained for 48 hours to two weeks.
+
+Most of the parliament, which has a large number of pro -Chinese MPs, support the law, which is described as a repression law.
+
+The law, which has passed Hong Kong, has been criticized for creating a new era of the city that will be severely affected by the rights and independence of the city.
+
+UN Human Rights Commissioner Volker Dark said this is a backogious move on human rights protection.
+
+◼️
+
+[Data](articles/e8006d87.json)
+
+[Extended Data](ext_articles/e8006d87.ext.json)
+
+---
+
+### Anura Decision on COPE Committee
 
 *2024-03-20 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194727) · `si`
 
-ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා ද පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටු සාමාජිකත්වයෙන් ඉල්ලා අස්වී තිබේ.
+National Power leader Anura Kumara Dissanayake resigned from the COPE Committee, leading to 10 of the 30 members resigning as well.
 
-ඒ අනුව මේ වනවිට කෝප් කමිටු සාමාජිකයින් 30 දෙනා අතරින් 10 දෙනෙකු ඉල්ලා අස්වී ඇත.
+🟩
+
+Leader of the National Power Anura Kumara Dissanayake resigned from the Committee on Commerce Committee or COPE, General.
+
+Accordingly, 10 of the 30 COPE committee members have resigned.
 
 ◼️
 
 [Data](articles/e991e501.json)
 
+[Extended Data](ext_articles/e991e501.ext.json)
+
 ---
 
-### இந்த வருடத்தில் கட்டுநாயக்க விமான நிலையத்தின் ஊடாக சேவையைப் பெற்ற பயணிகளின் எண்ணிக்கை அதிகரிப்பு -  விமான நிலையம் மற்றும் விமானப் போக்குவரத்து சேவைகள்  தனியார் நிறுவனத் தலைவர்
+### Change in prevailing dry weather from tomorrow
+
+*2024-03-20 12:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Change-in-prevailing-dry-weather-from-tomorrow/108-279236) · `en`
+
+Colombo, March 20 (Daily Mirror) - A change in the prevailing dry weather in the island can be expected by tomorrow, the Forecasting Division of the National Meteorological Centre said.
+
+Several spells of showers will occur in the Eastern, Uva and Northern Provinces.
+
+Showers will occur at several places in the Western, Sabaragamuwa, Central, Uva, Southern, North-Western, and North-Central Provinces during the afternoon or night.
+
+Misty conditions can be expected at some places in the Sabaragamuwa and Central Provinces and in the Galle and Matara districts during the morning.
+
+The public is requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/2ebe0862.json)
+
+---
+
+### Increase in the number of passengers who service through the Katunayake airport this year
 
 *2024-03-20 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179216) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தலைமையிலான பொருளாதார வேலைத்திட்டம் மற்றும் நாட்டில் உருவாக்கப்பட்ட அமைதியான சூழல் காரணமாக வெளிநாட்டு சுற்றுலா பயணிகளின் வருகை அதிகரித்துள்ளதாகவும், அதற்கமைய விமானப் பயணிகளால் அதிகமாக பயன்படுத்தப்படும் இடமாக கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையம் மாறியுள்ளதாகவும் விமான நிலையம் மற்றும் விமானப் போக்குவரத்து சேவைகள்  தனியார் நிறுவனத் தலைவர் அதுல கல்கெட்டிய தெரிவித்தார்.
+Katunayake airport sees a surge in passengers, thanks to economic programs and peace, with 850,000 services in Q1 2024 and an expected 10 million by year-end. Flights rose from 5 million in 2022 to 8 million by 2023.
 
-அதன்படி 2024 ஜனவரி 1 முதல் மார்ச் 19 வரையில் 850,000 விமானப் பயணிகள் விமான நிலைய சேவைகளைப் பெற்றுக்கொண்டுள்ளதோடு, இந்த வருட இறுதிக்குள் சுமார் 10 மில்லியன் பயணிகள் விமான நிலையத்தை பயன்படுத்துவார்கள் என எதிர்பார்ப்பதாகவும் அவர் குறிப்பிட்டார்.
+🟩
 
-2022ஆம் ஆண்டு கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தைப் பயன்படுத்திய மொத்த  விமானப் பயணிகளின் எண்ணிக்கை 05 மில்லியனாக இருந்ததாகவும், 2023ஆம் ஆண்டில் அந்த எண்ணிக்கையை 08 மில்லியனாக அதிகரிக்க முடிந்ததாகவும் கல்கட்டிய சுட்டிக்காட்டினார்.
+Airport and Air Transport Services Private Company Chairman Atula Kalgetiya said that the influx of foreign tourists has increased due to the economic program led by President Ranil Wickremesinghe and the peaceful environment in the country and that the Katunayake Bandaranaike International Airport has become the most used airport.
+
+Accordingly, 850,000 airports have been receiving airport services from January 1 to March 2024, and that about 10 million passengers will use the airport by the end of this year.
+
+Calcutta pointed out that the total number of flights used at the Katunayake Bandaranaike International Airport in 2022 was 05 million and that the number could be increased to 08 million by 2023.
 
 ◼️
 
 [Data](articles/0584e631.json)
+
+[Extended Data](ext_articles/0584e631.ext.json)
 
 ---
 
@@ -104,19 +200,19 @@ MP Duminda Dissanayake too has stepped down as a member of the Committee on Publ
 
 *2024-03-20 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98075/anura-kumara-and-duminda-dissanayake-also-quit-cope) · `en`
 
-Leader of National People’s Power (NPP) Anura Kumara Dissanayake and MP Duminda Dissanayake too have stepped down from the Committee on Public Enterprises (COPE).
+Leader of National People’s Power (NPP) Anura Kumara Dissanayake and Sri Lanka Freedom Party (SLFP) MP Duminda Dissanayake too have stepped down from the Committee on Public Enterprises (COPE).
 
-Thus, the two Dissanayakes joined a parade of MPs to quit the COPE over the appointment of SLPP MP Rohitha Abeygunawardena as its chairman.
+The two Dissanayakes today (March 20) joined a parade of MPs to quit the COPE over the appointment of SLPP MP Rohitha Abeygunawardena as its chairman.
 
-Communicating his resignation to Speaker of Parliament Mahinda Yapa Abeywardena in writing, Duminda Dissanayake said he decided to quit the committee membership as the COPE no longer has the transparency expected by the members of the public.
+Communicating his resignation to Speaker of Parliament Mahinda Yapa Abeywardena in writing, the SLFP MP said he decided to quit the COPE membership as the committee no longer has the transparency counted on by the members of the public.
 
-Shortly after the parliamentary session commenced this morning (March 20), the Deputy Speaker announced the appointment of Bandara as a COPE member.
-
-However, the MP announced his resignation with immediate effect, asserting that he would communicate his decision in writing as well.
+At the first COPE meeting of the Fifth Session of the Ninth Parliament convened on March 07, Abeygunawardena was elected by majority votes to serve as the new chairman of the committee. His name had been nominated by MP Mahindananda Aluthgamage and seconded by MP Sanjeewa Edirimanna.
 
 ...
 
 [Data](articles/e14137db.json)
+
+[Extended Data](ext_articles/e14137db.ext.json)
 
 ---
 
@@ -188,21 +284,27 @@ However, with the participation of other members, however discussed the activiti
 
 ---
 
-### சுவீடன் பாராளுமன்றத்தை தாக்குவதற்கு சதி: ஜேர்மனியில் இருவர் கைது
+### Conspiracy to attack Sweden parliament: two arrested in Germany
 
 *2024-03-20 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179215) · `ta`
 
-சுவீடன் பாராளுமன்றத்தின் மீது தாக்குதல் நடத்துவதற்குத் திட்டமிட்ட குற்றச்சாட்டில் ஐ.எஸ். இயக்க்தின் அங்கத்தவர்கள் என சந்தேகிக்கப்படும் இருவர் ஜேர்மன் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+Two Afghan individuals arrested in Germany are suspected of planning an attack on the Swedish Parliament in response to the burning of the Holy Qur'an.
 
-ஆப்கானிஸ்தானியர்களான இருவரே நேற்று கைது செய்யப்பட்டுள்ளனர் என பொலிஸார் தெரிவித்துள்ளனர். இவர்கள் இப்ராஹிம் எம்.ஜி. ரமின் என். என அடையாளம் காணப்பட்டுள்ளனர்.
+🟩
 
-ஸ்டொக்ஹோம் நகரிலுள்ள சுவீடன் பாராளுமன்றத்தின் மீது துப்பாக்கிச் சூடு நடத்தி பொலிஸாரையும் ஏனையோரையும் கொல்வதற்கு இவர்கள் திட்டமிட்டனர் என குற்றம் சுமத்தப்பட்டுள்ளது.
+IS on a plan to attack Sweden Parliament. Two suspected members of the movement have been arrested by the German police.
 
-புனித குர் ஆன் நூல் எரிக்கப்பட்டமைக்கு பதிலடியாக இத்தாக்குதலை இவர்கள் தி நடத்த இவர்கள் திட்டமிட்டனர் என அதிகாரிகள் தெரிவித்துள்ளனர்.
+Two Afghan people have been arrested yesterday, police said. These are Ibrahim MG. Ramin my. Have been identified.
+
+They have been accused of firing on the Swedish parliament in Stockholm and killing the police and others.
+
+Officials said they planned to carry out the attack in response to the burning of the Holy Qur'an.
 
 ◼️
 
 [Data](articles/bc8311a6.json)
+
+[Extended Data](ext_articles/bc8311a6.ext.json)
 
 ---
 
@@ -226,21 +328,45 @@ Finally, a close associate of the gangster “Pookudi Kanna”, identified as Mu
 
 ---
 
-### இந்திய தூதரகம் சென்றவர்களால் பரபரப்பு - பொலிஸார் குவிப்பு தூதரகத்தின் பாதுகாப்பு அதிகரிப்பு
+### Anura Kumara to leave for Canada today
+
+*2024-03-20 12:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumara-to-leave-for-Canada-today/108-279233) · `en`
+
+Colombo, March 20 (Daily Mirror)- National People's Power (NPP) leader Anura Kumara Dissanayake is leaving for Canada this evening, party sources said.
+
+He is to participate in several meetings with the Sri Lankan diaspora in Canada.
+
+Dissanayake is to adress two meetings organised by the NPP Canada Committee on March 23 and 24.
+
+He is also scheduled to meet the Sri Lankan Muslim and Tamil diaspora in Canada.
+
+◼️
+
+[Data](articles/609d25f9.json)
+
+---
+
+### Service by Indian Embassy
 
 *2024-03-20 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179212) · `ta`
 
-உணவு தவிர்ப்பு போராட்டத்தில் ஈடுபடும் மீனவர்களுக்கு ஆதரவாக போராட வந்தவர்கள் யாழ்ப்பாண இந்திய துணைத் தூதரம் முன் சென்றதால் சிறுது நேரம் பரபரப்பு ஏற்பட்டது.
+Indian Embassy supports Jaffna fishermen's food-free struggle. Federation of Rural Fisheries Organizations and Jaffna District Fisheries Cooperative Societies Federation initiated the protest. Madagal fishermen joined the protest, marching to the Indian Embassy.
 
-யாழ்ப்பாண மாவட்ட கிராமிய கடற்தொழில் அமைப்புக்களின் சம்மேளனமும், யாழ்ப்பாண மாவட்ட கடற் தொழில் கூட்டுறவு சங்கங்களின் சம்மேளனமும் இணைந்து நேற்றையதினம் செவ்வாய்க்கிழமை காலை முதல் யாழ்ப்பாணம் புனித ஜோன் பொஸ்கோ வித்தியாலயத்திற்கு முன்பாக உணவு தவிர்ப்பு போராட்டத்தை ஆரம்பித்தனர்.
+🟩
 
-இந்நிலையில் உணவு தவிர்ப்பு போராட்டம் இடம்பெற்ற இடத்திற்கு ஆதரவு தெரிவிப்பதற்காக வருகைதந்த மாதகல் மீனவர்கள் போராட்டத்தில் ஈடுபட்ட மீனவர்களுடன் இணைந்து பேரணியாக யாழ்ப்பாண இந்திய துணைத் தூதரகத்தின் முன்பாக சென்று கவனயீர்ப்பு போராட்டத்தை முன்னெடுத்தனர்.
+Those who came to fight for the fishermen who were engaged in a food -free struggle were in front of the Jaffna Indian Ambassador.
 
-இதன் காரணமாக  மேலதிக பொலிஸார் வரவழைக்கப்பட்டு பாதுகாப்பு பலப்படுத்தப்பட்ட நிலையில் போராட்டக்காரர்கள் அவ் இடத்தை விட்டு அகன்று சென்ற நிலையில் மீனவர்கள் உணவு தவிர்ப்பு போராட்டம் இடம்பெற்ற இடத்திற்கு வருகை தந்து தமது எதிர்ப்பினை வெளியிட்டனர்.
+The Federation of Rural Fisheries Organizations of Jaffna and the Jaffna District Fisheries Co -operative Societies Federation started a food avoidance struggle in front of St. John Posco Vidyalaya, Jaffna from Tuesday morning.
+
+In this backdrop, Madagal fishermen who came to support the site of the Food Avoidance Struggle and marched with the fishermen in front of the Jaffna Indian Embassy in front of the Jaffna Indian Embassy.
+
+As a result of this, the fishermen have come to the spot where the fishermen have been deployed and the fishermen have been protesting.
 
 ◼️
 
 [Data](articles/fa2de4d0.json)
+
+[Extended Data](ext_articles/fa2de4d0.ext.json)
 
 ---
 
@@ -287,6 +413,18 @@ Patients who visited the Clinic and Outpatient Division were facing various illn
 [Data](articles/6927d926.json)
 
 [Extended Data](ext_articles/6927d926.ext.json)
+
+---
+
+### Refrain from collecting Rs. 678 million taxes
+
+*2024-03-20 12:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Refrain-from-collecting-Rs-678-million-taxes/110-279231) · `en`
+
+A street drama titled "Sura Baba Komasaris" took place in front of the Excise Department. It depicted public sentiments and called on the authorities to refrain from collecting Rs. 678 million in taxes. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/8cc17ed6.json)
 
 ---
 
@@ -2119,141 +2257,5 @@ Considering the situation, the Department of Fisheries has been instructed to en
 [Data](articles/898fc2ac.json)
 
 [Extended Data](ext_articles/898fc2ac.ext.json)
-
----
-
-### Distribution of 200 Liquor Liquor Personnel for Elections -Opposition Leader
-
-*2024-03-20 02:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179178) · `ta`
-
-Opposition leader Sajith Premadasa accuses the government of issuing 200 liquor permits for election funding, with 15 already issued. Gunasiri, re-appointed as Liquor Tax Commissioner, is under scrutiny. The move raises concerns about the welfare of school students and the legality of these licenses.
-
-🟩
-
-Opposition leader Sajith Premadasa has accused the government of distributing 200 liquor permits to raise money for the election.
-
-Ipl.. It is planned to issue 200 liquor permits under license 4. These permits have already been issued to 15 of them.
-
-Currently 6 Liquor Production Permits have also been issued. Gunasiri has been re -appointed as the Commissioner of Liquor Tax. It must reveal the veracity of this, as it is suspicious that this is the process of collecting money targeting the election.
-
-I question this in view of the welfare of 41 lakh school students in the country. I am not presenting false matters in accordance with gifts. Let me tell you responsibly. All these illegal liquor licenses will be withdrawn under the United People's Power Government. He said a detailed investigation was needed.
-
-◼️
-
-[Data](articles/04f22e90.json)
-
-[Extended Data](ext_articles/04f22e90.ext.json)
-
----
-
-### Anuragumara meets with Japanese ambassador
-
-*2024-03-20 02:27:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜப்பான்-தூதுவருடன்-அனுரகுமார-சந்திப்பு/175-334910) · `ta`
-
-JVP leader Anuragumara Dissanayake met with Japanese Ambassador Missukosi Hiteki to discuss Sri Lanka's economic crisis and political conditions, including the upcoming presidential election.
-
-🟩
-
-A meeting between Japanese Ambassador to Sri Lanka Missukosi Hiteki and Janatha Vimukthi Peramuna (JVP) leader Anuragumara Dissanayake.
-
-The meeting was attended by the Vice President of the Japanese embassy, Katuki Gotaro and the second secretary Ima Gauri.
-
-The current economic crisis and political conditions of Sri Lanka have been discussed in detail and the upcoming presidential election has been investigated.. (A)
-
-◼️
-
-[Data](articles/d61d2763.json)
-
-[Extended Data](ext_articles/d61d2763.ext.json)
-
----
-
-### Fierce opposition to Cobb group leader Rohitha: Seven people, including Chanakyan and Dayasiri, resign
-
-*2024-03-20 02:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179177) · `ta`
-
-Seven members, including Chanakyan and Dayasiri, resigned from the COPE committee in opposition to Rohitha Abeygunawardena's appointment as COPE Chairman. This move follows the Sri Lanka Peoples Freedom Alliance's (PA) use of its majority to appoint a ruling party member, leading to criticism of the government's appointment process.
-
-🟩
-
-Opposition parties have left the COPE committee to protest the appointment of Sri Lanka PA MP Rohitha Abeygunawardena as the Chairman of the Government Responsibility Board (COP). Accordingly, 7 members of the COPE team resigned yesterday.
-
-United People's Power Member Eran Wickremaratne resigned from the Cobb group on Monday (18) and yesterday's independent MP Dayasiri Jayasekera, Sarita Herath and United People's Power members Hesha Vidhanage, Nalin Bandara, SM Marikar and Tamil National AllianceRasamanikam has resigned.
-
-Dayasiri Jayasekara, Hesha Vidanage and Chanakyan Rasamanikam held a media briefing at the Opposition Leader's office in the parliamentary building.
-
-The Cobb Group is important in parliamentary committees.. The Sri Lanka Peoples Freedom Alliance (PA) used its majority as the chairman of the COPE committee be appointed to the opposition parties.
-
-...
-
-[Data](articles/c8de093d.json)
-
-[Extended Data](ext_articles/c8de093d.ext.json)
-
----
-
-### Financial aid of $ 61.5 million by India for Kankesanthurai development development
-
-*2024-03-20 02:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179176) · `ta`
-
-India provides $61.5M for Kankesanthurai port development in Sri Lanka, including deepening the port and building a new wavelength dam. This aims to expand regional cooperation and attract tourists, with India highlighting Sri Lanka as a top destination for Indian tourists.
-
-🟩
-
-Jaffna belongs to the Sri Lanka Port Authority. Indian High Commissioner to Sri Lanka Santosh Ja said the Indian government would like to provide US $ 61.5 million for the full development of the Kankesanthurai port.
-
-The Indian High Commissioner to Sri Lanka Santosh Ja and Ports, Shipping and Aviation Minister Nimal Siripala de Silva made these issues during a recent discussion at the Ministry office.
-
-Under this development plan, it is planned to deepen the interior of the port by 30 meters and to build a new wavelength dam for massive ships and boats in the port.. India will provide full support to expand regional cooperation between India and Sri Lanka and to attract a large number of tourists.
-
-India has named Sri Lanka as the best place for Indian tourists. The Indian High Commissioner also said.
-
-Minister Nimal Siripala DeSilva said that the Government of Sri Lanka and its ministry thanked the Government of India for their support in the air and shipping sectors.
-
-...
-
-[Data](articles/6526aa15.json)
-
-[Extended Data](ext_articles/6526aa15.ext.json)
-
----
-
-### HNB General Insurance that facilitates insurance with 0% interest projects in conjunction with sampatcards
-
-*2024-03-20 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/179175) · `ta`
-
-HNB General Insurance partners with Sampath Bank for 0% interest insurance projects, expanding accessibility and financial relief for customers.
-
-🟩
-
-HNB General Insurance, a leading company that provides insurance solutions in Sri Lanka, has announced a joint partnership with Sampath Bank to provide 12 months and 0% interest projects for customers. The HNB General Insurance Group refers to the cooperation with the non -member bank in the group, and shows that it can access the insurance to vast customers throughout Sri Lanka and expand its border.
-
-With this partnership, Sampath Bank loans can now afford to pay their insurance fees in their own installments. With no pre -interest charges, customers can pay their vehicle, home, travel, medical or any other insurance scheme fees for a year. It relaxes financial restrictions and makes the essential insurance further accessible.
-
-...
-
-[Data](articles/3a5daaf4.json)
-
-[Extended Data](ext_articles/3a5daaf4.ext.json)
-
----
-
-### Empowerment for women
-
-*2024-03-20 02:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/179174) · `ta`
-
-In Batticaloa, Ceylon Gold Stores, USAID, and Viridis celebrated women's contributions to waste management, distributing electric bicycles for plastic collection. The event highlighted innovative solutions to environmental challenges, emphasizing the role of women in economic growth and empowerment.
-
-🟩
-
-Batticaloa, March 12, 2024 - Ceylon Gold Stores PLC (CCS )'s Gunadamin Elephant House, International Development Agency (USAID) and Viridis Recycling, recognizing the contribution of the women's contribution to the welfare of the women in the wednesday of the wolf.One has arranged.
-
-The event was organized to celebrate the plastic rehabilitation collection network and raw material reconstruction medium, which is the first to be guided by women in Sri Lanka and handed over electricity -powered bicycles for plastics waste collection.. Electricity -funded electricity -funded bicycles with the financial support of Gunadamin Elephant House are an important step in improving the impact of the waste management and reducing the impact of the environment.
-
-...
-
-[Data](articles/75f525d9.json)
-
-[Extended Data](ext_articles/75f525d9.ext.json)
 
 ---

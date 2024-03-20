@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 03:33:20**
+As of **2024-03-21 03:50:32**
 
 ## Newspaper Stats
 
@@ -26,23 +26,31 @@ adaderanasinhalalk | 2,263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,182 (100.0%) of 14,183 articles have been extended.
+14,183 (100.0%) of 14,183 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### நீதவானுக்கு சிங்கள பேஸ்புக்கில் எச்சரிக்கை
+### Warning on Sinhala Facebook
 
 *2024-03-21 01:29:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதவானுக்கு-சிங்கள-பேஸ்புக்கில்-எச்சரிக்கை/175-334966) · `ta`
 
-வெட்டுக்குநாறிமலை ஆதி லிங்கேஸ்வரர் ஆலய சிவராத்திரிதின  நிகழ்வு தொடர்பில் பொலிஸாரால் அராஜகமான முறையில் கைது செய்யப்பட்ட 8 பேரையும் விடுதலை செய்த  வவுனியா நீதிமன்ற நீதவானுக்கு சிங்கள முக  நூல் (பேஸ்புக்) ஒன்றில் எச்சரிக்கை விடுக்கப்பட்டுள்ளமை தொடர்பில் தமிழ் தேசியக் கூட்டமைப்பின் யாழ் மாவட்ட எம்.பி. யான எஸ். ஸ்ரீதரன் சபையின் கவனத்திற்கு கொண்டு வந்தார்.
+Jaffna District MP warned on Sinhala Facebook for releasing eight arrested in Sivaratri Temple event. Sridharan MP highlighted the issue in Parliament. The release led to accusations of fleeing and Sinhala chauvinism. Vidura Wickramanayake, Minister of Archaeological Survey, is implicated.
 
-பாராளுமன்றத்தில்  புதன்கிழமை (20) இடம்பெற்ற சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை மீதான 2 ஆம் நாள்  நாள் விவாதத்தில் உரையாற்றும் போதே  இவ்விடயத்தை சபையின் கவனத்திற்கு கொண்டு வந்த சிறிதரன் எம்.பி. தொடர்ந்து பேசுகையில்,
+🟩
+
+The Tamil National Alliance (TNA) Jaffna District MP's Jaffna District MP has been warned of a Sinhala Facebook (Facebook) to the Vavuniya Court Magistrate who released eight persons arrested by the police in connection with the event of the Sivaratri Temple at Vettukkunnarimalai Adi Lingeshwarar Temple. யான யான யான யான யான யான யான. Sreedharan brought to the attention of the congregation.
+
+Sridharan MP Sridharan MP, who brought the issue to the notice of the House while addressing the debate on the 2nd day of the no -confidence motion against the Speaker in Parliament on Wednesday (20).. Continue to speak,
+
+Eight people arrested by the police in connection with the event of the Sivaratri Temple in Vettukkunnarimalai, after the release of the Vavuniya court judge, the Sinhalese face of the Sinhalese face on the name of the "North Our Rights"It has been mentioned that he will flee as if he had fled.
 
 ...
 
 [Data](articles/e43f4e56.json)
+
+[Extended Data](ext_articles/e43f4e56.ext.json)
 
 ---
 

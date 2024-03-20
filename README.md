@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 20:51:19**
+As of **2024-03-20 21:03:48**
 
 ## Newspaper Stats
 
-*Scraped **14,156** Articles*
+*Scraped **14,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 734
 economynextcom | 758
 islandlk | 770
 adalk | 1,223
-adaderanalk | 1,700
-tamilmirrorlk | 1,713
+adaderanalk | 1,701
+tamilmirrorlk | 1,714
 virakesarilk | 1,987
 dailymirrorlk | 2,170
 adaderanasinhalalk | 2,259
@@ -26,11 +26,43 @@ adaderanasinhalalk | 2,259
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,156 (100.0%) of 14,156 articles have been extended.
+14,156 (100.0%) of 14,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### Intermittent fasting linked to high risk of cardiovascular death, study reveals
+
+*2024-03-20 20:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98086/intermittent-fasting-linked-to-high-risk-of-cardiovascular-death-study-reveals) · `en`
+
+A new study has challenged the alleged health benefits of intermittent fasting, a popular diet often praised by celebrities and health gurus alike.
+
+Intermittent fasting is a well-known practice in which you eat all your food in an eight-hour window and fast for the remaining 16 hours of the day.
+
+However, a study from the American Heart Association published on Monday, 18 March has found that limiting mealtimes to just eight hours a day was linked to a 91 per cent increase in risk of death from heart disease.
+
+Researchers, led by Dr Victor Zhong of the Shanghai Jiao Tong University School of Medicine, analysed approximately 20,000 adults in the US with an average age of 49 years who had followed intermittent fasting, also known as the 16:8 plan.
+
+...
+
+[Data](articles/6b23b3c7.json)
+
+---
+
+### போராட்டத்தில்  33 பேர் பொலிஸாரால்  கைது
+
+*2024-03-20 20:31:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராட்டத்தில்-33-பேர்-பொலிஸாரால்-கைது/175-334947) · `ta`
+
+முன்னிலை சோசலிசக் கட்சியின் ஏற்பாட்டில் இடம்பெற்ற 'மக்கள் போராட்டம்' எதிர்ப்பு ஊர்வலத்தில் கலந்து கொண்ட துமிந்த நாகமுxவ, லஹிருவீரசேகர உள்ளிட்ட 33 பேர் பொலிஸாரால்  கைது செய்யப்பட்டுள்ளனர்.
+
+கொழும்பு புறக்கோட்டையில் ஆர்ப்பாட்டக்காரர்களை கட்டுப்படுத்த பொலிஸார், தண்ணீர் பாய்ச்சல் மற்றும் கண்ணீர்ப்புகை தாக்குதல் நடத்தியதையடுத்து அங்கு பதற்ற நிலை ஏற்பட்டது.
+
+◼️
+
+[Data](articles/3c3cef22.json)
+
+---
 
 ### The president has resigned
 
@@ -2297,43 +2329,5 @@ The total number of passengers using the BIA in 2022 was 5 million, with a proje
 [Data](articles/e0bcffc4.json)
 
 [Extended Data](ext_articles/e0bcffc4.ext.json)
-
----
-
-### Pharmacists' Workplace at Vavuniya District General Hospital
-
-*2024-03-20 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/179210) · `ta`
-
-Pharmacists at Vavuniya District General Hospital demanded better promotion and appointment processes, affecting patient care due to workforce issues.
-
-🟩
-
-Pharmacists at the Vavuniya District General Hospital have made various demands on Wednesday (20).
-
-Pharmaceuticals have been on a sick holiday, claiming that there has been irregularities in promotion and new appointment
-
-The workforce struggle is being carried out across Sri Lanka.
-
-Patients who visited the Clinic and Outpatient Division were facing various illnesses due to this workforce.
-
-◼️
-
-[Data](articles/6927d926.json)
-
-[Extended Data](ext_articles/6927d926.ext.json)
-
----
-
-### Refrain from collecting Rs. 6780 million taxes
-
-*2024-03-20 12:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Refrain-from-collecting-Rs-6780-million-taxes/110-279231) · `en`
-
-A street drama titled "Sura Baba Komasaris" took place in front of the Excise Department. It depicted public sentiments and called on the authorities to refrain from collecting Rs. 678 million in taxes. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/5368f262.json)
-
-[Extended Data](ext_articles/5368f262.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 22:18:10**
+As of **2024-03-20 22:33:20**
 
 ## Newspaper Stats
 
-*Scraped **14,164** Articles*
+*Scraped **14,166** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,64 @@ newsfirstlk | 363
 dailyftlk | 734
 economynextcom | 758
 islandlk | 770
-adalk | 1,224
+adalk | 1,225
 adaderanalk | 1,702
 tamilmirrorlk | 1,714
 virakesarilk | 1,987
-dailymirrorlk | 2,171
+dailymirrorlk | 2,172
 adaderanasinhalalk | 2,262
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,163 (100.0%) of 14,164 articles have been extended.
+14,164 (100.0%) of 14,166 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### සජිත් සහ IMF නියෝජිතයින් අතර හමුවක්
+### Meeting between Sajith and IMF representatives
 
 *2024-03-20 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194752) · `si`
 
-විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් අතර හමුවක් අද (20) පාර්ලිමේන්තු සංකීර්ණයේදී පැවැත්වුණි.
+Sajith Premadasa met with IMF representatives at Parliament, discussing economic issues and poverty eradication. The IMF agreed to Sri Lanka's economic crisis resolutions, with some amendments needed.
 
-මෙම හමුව සඳහා සමගි ජන බලවේගය සහ සමගි ජන සන්ධානය නියෝජනය කරන මන්ත්‍රීවරුන් රැසක් සහභාගීවී තිබුණි.
+🟩
 
-විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මෙහිදී ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් හමුවේ ප්‍රකාශ කර ඇත්තේ ලක්ෂ 220ක මෙරට ජනතාවගේ ගැටළුවලට විසඳුම් ලබාදිය යුතු බවය.
+Opposition Leader Sajith Premadasa and the International Monetary Fund representatives were held today at the Parliament Complex.
 
-රජය අක්‍රමවත් ලෙස ආර්ථිකය හැසිරවීම හේතුවෙන් අගතියට පත්වී සිටින ජනතාවගේ දුගීභාවය තුරන් කිරීමේ වැඩපිළිවෙළක අත්‍යවශ්‍යතාවය ද මෙහිදී IMF නියෝජිතයින්ගේ අවධානයට යොමුකර තිබේ.
+A large number of MPs representing the conique group and the reconciliation were participated in the meeting.
 
-විපක්ෂ නායකවරයා මෙහිදී වැඩිදුරටත් පවසා ඇත්තේ, ජාත්‍යන්තර මූල්‍ය අරමුදල ශ්‍රී ලංකාවේ ආර්ථික අර්බුදය විසඳීමට ඉදිරිපත් කළ යෝජනා සහ ඉලක්කවලට සමගි ජන බලවේගය ධනාත්මකව එකඟවන නමුත් ඇතැම් යෝජනා සංශෝධන සහිතව ක්‍රියාත්මක කළ යුතු බවය.
+Opposition Leader Sajith Premadasa has stated that the IMF representatives have been addressed to the issues of the country of 220 lakhs.
+
+The essentials of a program to eradicate the poverty of the people who are irregularly manipulated due to the manipulation of the economy.
+
+The Opposition Leader added that the International Monetary Fund has positively agreed to the resolutions and goals of the Sri Lankan economic crisis, but some proposals should be implemented with amendments.
 
 ◼️
 
 [Data](articles/ddd72d51.json)
+
+[Extended Data](ext_articles/ddd72d51.ext.json)
+
+---
+
+### Martis recommended for Head Coach position
+
+*2024-03-20 21:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Martis-recommended-for-Head-Coach-position/108-279258) · `en`
+
+Mar. 20 (Daily Mirror) - Former Isipathana College, CR and FC and national youth player, current St. Peter’s College and CH and FC Head Coach, Sanath Martis was recommended by Sri Lanka Rugby (SLR) Technical Committee for the appointment as Head Coach of the Sri Lanka 15-A-Side outfit for the Asia Rugby Division 1 Series against the Qatar national outfit.
+
+This tournament is likely to be played at the Racecourse Grounds in Colombo with the hosts playing two games against the visiting Qatar outfit as Pakistan is likely to pull out from the event due to political uncertainty.
+
+The Technical Committee comprises Roshan Deen, Anil Jayasinghe, Tony Amit and Viper (Jnr.) Gunaratne with Tony Amit heading the unit.
+
+According to sources, the committee has already sent their nomination to SLR Council, which will meet shortly to approve and the national selectors will name the initial squad for training.
+
+...
+
+[Data](articles/8a470059.json)
 
 ---
 
@@ -246,6 +270,24 @@ Internal sources of cricket say that the event is due to take this step in the 2
 
 ---
 
+### ’මහේස්ත්‍රාත්වරයා පොලීසියේ රබර් මුද්‍රාව නොවේ’
+
+*2024-03-20 19:35:29* · [`adalk`](https://www.ada.lk/breaking_news/’මහේස්ත්‍රාත්වරයා-පොලීසියේ-රබර්-මුද්‍රාව-නොවේ’/11-408730) · `si`
+
+පොලීසියේ හේතු රහිත ඉල්ලීම්වලට නියෝග නිකුත් කරන්න 'මහේස්ත්‍රාත්වරයා පොලීසියේ රබර් මුද්‍රාව නොවේ' යැයි කොළඹ අතිරේක මහේස්ත්‍රාත් පසන් අමරසේන මහතා රන් සොරකම් නඩුවක සැකකරුවන් දෙදෙනෙකුගේ විදේශ ගමන් තහනම් කරන්නැයි කොළඹ අපරාධ කොට්ඨාසය කළ ඉල්ලීමක් ඉවත දමමින් අද (20දා) පැවසීය.
+
+අදාළ චෝදනාවන්ට ඔවුන් සැකකරුවන් ලෙස නම්කර ඇත්නම් ඔවුන් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් නොකරන්නේ මන්දැයි ප්‍රශ්න කළ මහේස්ත්‍රාත්වරයා සැකකරුවන්ට එරෙහිව ප්‍රමාණවත් සාක්ෂි නොමැති වීම නිසා ඔවුන් අත්අඩංගුවට නොගන්නා බව එමගින් හැඟී යන්නේ යැයිද සඳහන් කළේය.
+
+2016 සහ 2019 අතර කාලය තුළ සිදුවූ රත්තරන් සොරකමක් සම්බන්ධයෙන් සැක කෙරෙන පුද්ගලයන් දෙදෙනෙකුගේ විදේශ ගමන් තහනම් කරන ලෙසත්, ඔවුන්ගේ දුරකථන වාර්තා කැඳවීමට නියෝග නිකුත් කරන ලෙසත් ඉල්ලමින් සිද්ධියට අදාළ විමර්ශනවල ප්‍රගතිය දැක්වෙන වාර්තාවක් අධිකරණයට ඉදිරිපත් කෙරිණ.
+
+ඒ අවස්ථාවේදී අධිකරණය ඇමතූ මහේස්ත්‍රාත්වරයා 2016-2019 අතර කාලය තුළ සිදුවූ සොරකමක් සම්බන්ධයෙන් කරන විමර්ශනෙවලට 2024 ජනවාරි පළමුවැනිදා සිට මාර්තු 20 වැනිදා දක්වා කාලයේ දුරකථන වාර්තා කැඳවන්නේ කුමන හේතුවක් නිසා දැයි ප්‍රශ්න කළේය.
+
+...
+
+[Data](articles/23b002e4.json)
+
+---
+
 ### Sri Lanka in the world's happiness indicator
 
 *2024-03-20 19:29:51* · [`adalk`](https://www.ada.lk/breaking_news/2024-ලෝක-සතුටු-දර්ශකයේ-ලංකාව-පල්ලම්-බසී/11-408729) · `si`
@@ -401,6 +443,24 @@ Pakistani batsman Barber Assam has been able to save 824 runs in the front front
 [Data](articles/b8c812d5.json)
 
 [Extended Data](ext_articles/b8c812d5.ext.json)
+
+---
+
+### Sri Lanka to sign “sister district” deal with China’s Chongqing for investments
+
+*2024-03-20 18:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-districts-to-sign-sister-district-deal-with-chinas-chongqing-for-investments-155373/) · `en`
+
+ECONOMYNEXT – All Sri Lankan districts including in the island nation’s North and East will sign a “sister district” deal with China’s Chongqing province for investments and improve production capacity, State Minister of Social Empowerment Anupa Pasqual, said.
+
+Sovereign debt defaulted Sri Lanka has been looking to attract investments into grass root level across the country and the island nation has been in discussion for “sister district” concept with China’s Chongqing, which has around 33 million population.
+
+Minister Pasqual said Prime Minister Dinesh Gunawardena during his Chinese visit last year has already entered into an agreement to link one of the Chongqing’s district with the island nation’s Western coastal district of Kalutara as a “model project”.
+
+...
+
+[Data](articles/e18d1287.json)
+
+[Extended Data](ext_articles/e18d1287.ext.json)
 
 ---
 
@@ -607,24 +667,6 @@ The Sri Lanka Embassy in Cuba, accredited to Haiti, is constantly connected to t
 [Data](articles/362e0275.json)
 
 [Extended Data](ext_articles/362e0275.ext.json)
-
----
-
-### Sri Lanka to sign “sister district” deal with China’s Chongqing for investments
-
-*2024-03-20 17:37:00* · [`economynextcom`](https://economynext.com/sri-lankas-districts-to-sign-sister-district-deal-with-chinas-chongqing-for-investments-155373/) · `en`
-
-ECONOMYNEXT – All Sri Lankan districts including in the island nation’s North and East will sign a “sister district” deal with China’s Chongqing province for investments and improve production capacity, State Minister of Social Empowerment Anupa Pasqual, said.
-
-Sovereign debt defaulted Sri Lanka has been looking to attract investments into grass root level across the country and the island nation has been in discussion for “sister district” concept with China’s Chongqing, which has around 33 million population.
-
-Minister Pasqual said Prime Minister Dinesh Gunawardena during his Chinese visit last year has already entered into an agreement to link one of the Chongqing’s district with the island nation’s Western coastal district of Kalutara as a “model project”.
-
-...
-
-[Data](articles/e18d1287.json)
-
-[Extended Data](ext_articles/e18d1287.ext.json)
 
 ---
 
@@ -2283,59 +2325,5 @@ ECONOMYNEXT – Sri Lanka’s State Minister of Finance has told Dr Krishnamurth
 [Data](articles/095d3c65.json)
 
 [Extended Data](ext_articles/095d3c65.ext.json)
-
----
-
-### The history book has the book the book to friend
-
-*2024-03-20 12:36:52* · [`adalk`](https://www.ada.lk/breaking_news/ඉතිහාස-පොත-නිසා-මිතුරා-මිතුරියට-පොත-පෙරලයි/11-408721) · `si`
-
-A 16-year-old schoolgirl from Panadura was arrested for allegedly attacking and sexually abusing another student, who was hospitalized. The accused's history book is missing, and she was taken to the Panadura Magistrate's Court.
-
-🟩
-
-A schoolgirl arrested yesterday, a schoolgirl arrested yesterday, was arrested yesterday.
-
-The suspects were a 16 year old schoolgirl, a resident of Panadura.
-
-The history book of the school girl is missing and the student has gone to his home to request a book from the suspect.
-
-While she was gone to the student's house, he said, "The complainant student has been attacked and frightened and sexually abused.
-
-The student was hospitalized and the student was to be produced before the Panadura Magistrate's Court.
-
-◼️
-
-[Data](articles/207b8d86.json)
-
-[Extended Data](ext_articles/207b8d86.ext.json)
-
----
-
-### Another member of the COPE committee resigns
-
-*2024-03-20 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194725) · `si`
-
-Duminda Dissanayake resigned from the COPE committee, marking the resignation of 9 MPs. The new session began with the appointment of Rohitha Abeygunawardena as Chairman. Despite resignations, the committee discussed the State Plantation Corporation's activities.
-
-🟩
-
-Duminda Dissanayake has resigned from the General Business Council (COPE) or COPE.
-
-The Committee on Public Enterprises was first met with the first time in the first time yesterday with the beginning of the new session of the Nithi Prime Minister.
-
-The appointment of the new Chairman Rohitha Abeygunawardena.
-
-Yesterday, the COPE Committee met in the backdrop of the resignation of the 30 members.
-
-With the resignation of Vasantha Yapa Bandara and Duminda Dissanayake, 9 MPs have resigned from the COPE committee.
-
-However, with the participation of other members, however discussed the activities of the State Plantation Corporation at the COPE Committee meeting yesterday.
-
-◼️
-
-[Data](articles/f324bca6.json)
-
-[Extended Data](ext_articles/f324bca6.ext.json)
 
 ---

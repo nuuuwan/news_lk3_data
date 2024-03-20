@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 09:33:51**
+As of **2024-03-20 09:52:38**
 
 ## Newspaper Stats
 
-*Scraped **13,993** Articles*
+*Scraped **13,996** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,69 @@ islandlk | 770
 adalk | 1,206
 adaderanalk | 1,682
 tamilmirrorlk | 1,696
-virakesarilk | 1,958
+virakesarilk | 1,959
 dailymirrorlk | 2,140
-adaderanasinhalalk | 2,226
+adaderanasinhalalk | 2,228
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,992 (100.0%) of 13,993 articles have been extended.
+13,993 (100.0%) of 13,996 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### ගින්නකට හසුවී පුද්ගලයෙක් මරුට
+
+*2024-03-20 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194715) · `si`
+
+ඊයේ (19) සවස් කාලයේදී එම සිදුවීම වාර්තා වී ඇති බව පොලීසිය පවසයි.
+
+මරණකරු විසින් ඔහුට අයත් කුඹුරු ඉඩමක් ගිනිතබා ඇති අතර, එම ගින්න යාබද අක්කර තුනක පමණ ඉඩමකට ද ව්‍යාප්තවී ඇත.
+
+පසුව ප්‍රදේශවසීන් විසින් ගින්න මැඩ පවත්වා ඇති අතර මරණකරු නැවත නිවසට නොපැමිණීම සම්බන්ධව සොයා බැලීමේදී ගිනිගැනීමට ලක්වූ ප්‍රදේශයේ තිබී ඔහුගේ මෘත ශරීරය සොයාගෙන තිබේ.
+
+◼️
+
+[Data](articles/374ee103.json)
+
+---
+
+### கடலோர மார்க்கத்தில் ரயில் சேவை தொடர்ந்து தாமதம்
+
+*2024-03-20 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179181) · `ta`
+
+கொழும்பு கோட்டை மற்றும் கொம்பஞ்ஞ வீதி ரயில்  நிலையங்களுக்கு இடையில் நேற்று மாலை ரயில் தடம் புரண்டதன் காரணமாக கரையோர மார்க்கத்தில் ரயில் சேவையில் தாமதம் தொடர்வதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+கொழும்பு கோட்டையில் இருந்து தெற்கு களுத்துறை நோக்கி நேற்று (19) இரவு 7.15 மணி அளவில் பயணித்த அதிவேக ரயில் கோட்டை மற்றும் கொம்பஞ்ஞ வீதி ரயில் நிலையங்களுக்கு இடையில் தடம் புரண்டது.
+
+ரயில் தடம் புரண்டதன் காரணமாக நேற்றிரவு காலி அஞ்சல் ரயில் உட்பட 4 ரயில் சேவைகள் இரத்து செய்யப்பட்டுள்ளன.
+
+இந்நிலையில், தற்போது ரயில் போக்குவரத்திற்காக ஒரு மார்க்கம் திறக்கப்பட்டுள்ளது, மற்றைய மார்க்கத்தில்  திருத்தப்பணிகள் நடைபெற்று வருகிறது என தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/5bd3a24c.json)
+
+---
+
+### කථානායකට එරෙහි විශ්වාසභංග විවාදය දෙවැනි දිනටත් ඇරඹේ
+
+*2024-03-20 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194714) · `si`
+
+නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් පාර්ලිමේන්තු කටයුතු මේ වනවිට ආරම්භ වී තිබේ.
+
+කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය අද (20) දෙවැනි දිනටත් පැවැත්වේ.
+
+මේ අතර, විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය සඳහා තවත් දිනයක් ලබාදීමට පාර්ලිමේන්තු කටයුතු පිළිබඳව කාරක සභාව ඊයේ තීරණය කළේය.
+
+◼️
+
+[Data](articles/2aa78baf.json)
+
+---
 
 ### Spread of rabies due to intense heat
 
@@ -52,17 +102,23 @@ Dr. Piyasiri stressed that a regular supply of water to animals and those in liv
 
 ---
 
-### விமல் வீரவன்சவின் கருத்துக்கு தமிழ் பிரதிநிதிகள் கடும் எதிர்ப்பு - சாணக்கியன் கடும் சாடல்
+### Tamil representatives protest against Wimal Weerawansa's comment
 
 *2024-03-20 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179180) · `ta`
 
-வெடுக்குநாறி மலையில் சிவ வழிபாட்டில் ஈடுபட நீதிமன்றம் அனுமதி கொடுக்கவில்லை. வடக்கு மற்றும் கிழக்கு மாகாண தமிழ் பிரதிநிதிகள் இனவாதத்தை பேசி மத கலவரத்தை ஏற்படுத்த முயற்சிக்கிறார்கள் என்று தேசிய சுதந்திர முன்னணியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான விமல் வீரவன்ச குறிப்பிட்ட கருத்துக்கு தமிழ் பிரதிநிதிகள் கடும் எதிர்ப்பை வெளிப்படுத்தினார்கள்.
+Tamil representatives protest against Wimal Weerawansa's comments, opposing accusations of promoting religious riots. They demand the removal of racists and express strong opposition to his political stance. The court grants permission for Shiva worship on Mount Shivaratri, but arrests occur, leading to a report from the Archaeological Department. The Tamil National Alliance (TNA) demands that racists be removed and that the Tamil representatives be allowed to address the House of Commons.
 
-வெடுக்குநாறி மலையில் மத வழிபாட்டில் ஈடுபட முடியும் என  நீதிமன்றம் அனுமதி வழங்கியுள்ளது.சட்ட விரோதமாக எம்மவர்கள் கைது செய்யப்பட்டதற்கே நாங்கள் எதிர்ப்பு தெரிவிக்கிறோம். நாங்கள் இனவாதம் பேசவில்லை. இனவாதத்தை பிரதான கொள்கையாக கொண்டு செயற்பட்ட இவரது அரசியல் கேள்விக்குள்ளாகியுள்ளது.எந்த கட்சியிலும் இவரால் போட்டியிட முடியாது. ஆகவே இந்த இனவாதிகள் நாட்டில் இருந்து நீக்கப்பட வேண்டும் என்று தமிழ் தேசிய கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம் கடுமையாக  சாடினார்.
+🟩
+
+The court does not grant permission to engage in Shiva worship. The Tamil representatives of the National Freedom Front and Member of Parliament, Wimal Weerawansa, have expressed fierce opposition to the comments that Tamil representatives of the Northern and Eastern Province are trying to create religious riots by speaking communalism.
+
+The court has granted permission to worship religious worship on the mountain. We protest against the arrest of us.. We do not speak racism. His political question, which has acted as the main principle of communalism.. Therefore, the Tamil National Alliance (TNA) parliamentarian Chanakyan Rasamanikam furiously demanded that these racists be removed from the country.
 
 ...
 
 [Data](articles/7af63c24.json)
+
+[Extended Data](ext_articles/7af63c24.ext.json)
 
 ---
 
@@ -2143,81 +2199,5 @@ The SLPP ideologue said power should not be concentrated around one party.
 [Data](articles/b7a600bb.json)
 
 [Extended Data](ext_articles/b7a600bb.ext.json)
-
----
-
-### Sri Lanka to give free rice to 2.74mn families, fertilizer subsidy as polls loom
-
-*2024-03-19 17:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-give-free-rice-to-2-74mn-families-fertilizer-subsidy-as-polls-loom-155257/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet has decided to give 10 kilograms of rice free to 2.74 million low-income families and a fertilizer subsidy to small rice farmers, the state information office said as elections loom.
-
-The rice handout will be given for two months. Rice will be purchased from small and medium millers.
-
-A fertilizer subsidy of 15,000 rupees per acre will be given to small rice farmer in the Yala minor cultivation season.
-
-◼️
-
-[Data](articles/cd8a7c3d.json)
-
-[Extended Data](ext_articles/cd8a7c3d.ext.json)
-
----
-
-### “The government plans to open 200 liquor stores”
-
-*2024-03-19 17:54:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/200-மதுபான-கடைகளைத்-திறக்க-அரசாங்கம்-திட்டமிட்டுள்ளது/175-334895) · `ta`
-
-The government plans to open 200 liquor stores, with 15 already licensed. Opposition Leader Sajith Premadasa criticizes this move, accusing the government of operating outside the legal framework. He also mentions that six liquor production licenses have been issued ahead of the election.
-
-🟩
-
-Opposition Leader Sajith Premadasa has accused the parliament today that the government is planning to grant permission to open 200 liquor stations under the FL4 section and 15 of them have already been granted.
-
-He said in Parliament that the government should issue a decision to license for 200 liquor stores and 15 of the liquor stores have already been licensed.
-
-Premadasa said six liquor production licenses have already been issued to the election.
-
-He said the move would be under the permission of the new Commissioner General of the Department of Excise MJ Gunasiri.
-
-Finance Minister Shehan Semasinghe has said that the government is not working illegally in the existing legal framework and that if a proper question is raised, the full answer will be answered.
-
-The opposition leader said the future SJB would take steps to withdraw all such illegal licenses.
-
-He said it was wrong to issue liquor licenses on the election.
-
-◼️
-
-[Data](articles/bd02ef25.json)
-
-[Extended Data](ext_articles/bd02ef25.ext.json)
-
----
-
-### Three senior experienced in the Sri Lankan Test group;Nishan Peiris as a debutant
-
-*2024-03-19 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179083) · `ta`
-
-The Sri Lankan Test team for the 2-match series against Bangladesh includes experienced leaders Angelo Mathews, Dinesh Chandimal, and Timuth Karunaratne, debutant Nishan Peiris, and Wanindu Hasaranga. Hazaranga, with 4 Tests, is part of the squad led by Tanjaya de Silva. Nishan Madushka, with 6 matches and 444 runs, continues with Dimuth Karunaratne.
-
-🟩
-
-Former team leaders Angelo Mathews, Dinesh Chandimal and Timuth Karunaratne have been named in the Sri Lankan team for the two -match Test series against Bangladesh.
-
-Hazaranga has been given the opportunity to bowl in the Sri Lankan group, which is head of Tanjaya de Silva.
-
-Wanindu Hasaranga, who played only four Tests, played in the last Test against Bangladesh in 2021.
-
-As well as the debutant, the right -hand spinner Nishan Peiris has been named in the group. Nishan Peiris, a former player of St. Peter's College, Negombo, has taken 153 wickets in 37 matches in first -class local cricket.
-
-But it remains to be seen whether he will have a chance in the final team.
-
-Nishan Madushka will continue to play with Dimuth Karunaratne's initial pair. Nishan Madushka, who has played in 6 matches, has scored 444 runs, including a century and a half century.
-
-...
-
-[Data](articles/258cea90.json)
-
-[Extended Data](ext_articles/258cea90.ext.json)
 
 ---

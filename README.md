@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 06:16:55**
+As of **2024-03-20 06:53:41**
 
 ## Newspaper Stats
 
-*Scraped **13,959** Articles*
+*Scraped **13,961** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,54 @@ economynextcom | 742
 islandlk | 761
 adalk | 1,206
 adaderanalk | 1,678
-tamilmirrorlk | 1,692
+tamilmirrorlk | 1,693
 virakesarilk | 1,957
 dailymirrorlk | 2,132
-adaderanasinhalalk | 2,220
+adaderanasinhalalk | 2,221
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,959 (100.0%) of 13,959 articles have been extended.
+13,959 (100.0%) of 13,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### කාලගුණයේ වෙනසක්
+
+*2024-03-20 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194707) · `si`
+
+දිවයිනේ, විශේෂයෙන් දකුණු අර්ධයේ පවතින වියළි කාලගුණයේ තාවකාලික වෙනසක් අද (20) දිනයෙන් පසු අපේක්ෂා කළ හැකිය.
+
+කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, නැගෙනහිර පළාතේ වැසි ස්වල්පයක් ඇතිවිය හැකි බවය.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ කළුතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+◼️
+
+[Data](articles/5971f297.json)
+
+---
+
+### ’அரபிக்கடலுக்கு செல்ல வேண்டாம்’
+
+*2024-03-20 02:31:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரபிக்கடலுக்கு-செல்ல-வேண்டாம்/175-334911) · `ta`
+
+அரபிக்கடலில் மீன்பிடி நடவடிக்கைகளில் ஈடுபட வேண்டாம் என மீனவர்களுக்கு மீன்பிடி திணைக்களத்தினால் அறிவுறுத்தல் விடுக்கப்பட்டுள்ளது.
+
+சோமாலிய கடல் வலயத்தில் இருந்து 700 கடல் மைல் தொலைவில் கிழக்கு திசையில் சர்வதேச கடற்பரப்பில் மிகவும் அபாயமான நிலை காணப்படுவதாக இலங்கை கடற்படை அறிவித்துள்ளதாக திணைக்களம் விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+இந்த நிலைமையை கருத்திற்கொண்டு நீண்டநாள் மீன்பிடிப் படகுகள் இயலுமான வரை தற்போது பெயரிடப்பட்டுள்ள அபாய வலயத்தைத் தவிர்த்து அரபிக்கடலின் கிழக்கு பிராந்தியத்தில் மீன்பிடி நடவடிக்கைகளில் ஈடுபடுமாறு மீன்பிடி திணைக்களத்தினால் அறிவுறுத்தல் விடுக்கப்பட்டுள்ளது.  (a)
+
+◼️
+
+[Data](articles/898fc2ac.json)
+
+---
 
 ### Distribution of 200 Liquor Liquor Personnel for Elections -Opposition Leader
 
@@ -2195,49 +2229,5 @@ Customs officials, Customs Superintendents and Customs Staff Officers have comme
 [Data](articles/9de7b1f7.json)
 
 [Extended Data](ext_articles/9de7b1f7.ext.json)
-
----
-
-### China asks for the right to an Indian state
-
-*2024-03-19 16:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194690) · `si`
-
-India objects to China's claim over Aruuthachal Pradesh, a northeastern state, calling it "nonsense."
-
-🟩
-
-India has objected to a statement made by the Chinese Defense Ministry regarding the ownership of the state of Aruuthachal Pradesh.
-
-The Indian foreign ministry states that China has been "a nonsense statement".
-
-Arunachal Pradesh is a northeastern state of India. It is near the South Tibetow of Chinese administration.
-
-◼️
-
-[Data](articles/fd65a88d.json)
-
-[Extended Data](ext_articles/fd65a88d.ext.json)
-
----
-
-### Customs employees to continue work-to-rule campaign; 4,000 containers held up at port
-
-*2024-03-19 16:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98055/customs-employees-to-continue-work-to-rule-campaign-4000-containers-held-up-at-port) · `en`
-
-UPDATE: The Customs employees have decided to continue their work-to-rule campaign as the discussion with the authorities ended on negative note.
-
-At least 4,000 containers are reportedly held up at the Colombo Port as a result of the trade union action launched by the employees of Sri Lanka Customs on Friday (March 15).
-
-Initially, the Customs officials including superintendents and staff officers boycotted working extra hours, however, they resorted to a strict work-to-rule campaign at 9 a.m. today (March 19) it is expected to go on until 4.45 p.m.
-
-Calling a media briefing, the chairman of the Customs Officers’ Union Amila Sanjeewa attributed the reason behind the trade union action to the Treasury’s decision to bring the Customs Officers Reward Fund under the purview of the Finance Ministry.
-
-Against this backdrop, the president of the Container Transport Owners’ Association, Sanath Manjula warned that the importers are likely to be afflicted if the situation prevails.
-
-...
-
-[Data](articles/c1c476b8.json)
-
-[Extended Data](ext_articles/c1c476b8.ext.json)
 
 ---

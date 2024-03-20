@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 02:03:06**
+As of **2024-03-21 02:17:55**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,180 (100.0%) of 14,181 articles have been extended.
+14,181 (100.0%) of 14,181 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### காற்றாலை மின் உற்பத்தி சுற்றாடலுக்கு பேரழி
+### Catastrophe
 
 *2024-03-21 01:20:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றாலை-மின்-உற்பத்தி-சுற்றாடலுக்கு-பேரழி/175-334964) · `ta`
 
-மன்னார் தீவு காற்றாலை மின் உற்பத்தி நிலையம் சுற்றாடல் பேரழிவை ஏற்படுத்தலாம் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச எச்சரித்தார்.
+Sajith Premadasa warns the Mannar Island Wind Power Plant could be an environmental disaster, emphasizing the need for optimal location and investment areas for renewable energy projects. He criticizes the project's environmental impact assessment, highlighting risks to bird migration and calling for transparency in project implementation.
 
-எரிசக்தி உற்பத்திக்கு புதுப்பிக்கத்தக்க எரிசக்தி வளங்களின் அதிகரித்த முதலீடு உகந்ததாக இருந்தாலும், இத்தகைய திட்டங்களை செயற்படுத்துவதில், சிறந்த மாற்று இடம் மற்றும் மிகவும் பயனுள்ள முதலீட்டு பிரதேசங்களை தெரிவு செய்வது அவசியம். பறவைகள் சரணாலயமாக விளங்கும் மன்னாரை அண்மித்த பகுதியில் மேற்கொள்ளப்படும் காற்றாலை மின் நிலைய நிர்மாணத் திட்டம் சுற்றாடல் பேரழிவை ஏற்படுத்தக்கூடிய செயற்திட்டமாகவே பல நிபுணர்கள் சுட்டிக்காட்டியுள்ளதாகவும்  எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+🟩
 
-உத்தேச மன்னார் காற்றாலை மின் உற்பத்தி நிலையத்தினால் ஏற்பட்டுள்ள சுற்றாடல் பாதிப்பு தொடர்பில் அரசாங்கத்திடம் பல கேள்விகளை முன்வைத்து நிலையியற் கட்டளை 27 (2) இன் கீழ்   புதன்கிழமை (20) பாராளுமன்றத்தில் கேள்வி எழுப்பும் போதே எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இவ்வாறு எச்சரித்தார். அவர் மேலும் பேசுகையில்,
+Opposition Leader Sajith Premadasa has warned that the Mannar Island Wind Power Plant could be an environmental disaster.
+
+Although increased investment of renewable energy resources for energy production is optimal, it is necessary to choose the best alternative location and the most effective investment areas in the implementation of such projects. The Opposition Leader said that many experts have pointed out that the construction of the wind power station in Mannar, which is the Bird Sanctuary, has been a project that can be implemented by the environment.
+
+Opposition Leader Sajith Premadasa warned when he was questioned in Parliament on Wednesday (20) under the Standing Orders (2) (20) under the Standing Ordinance of the Government of the Environmental Power Plant by the Mannar Wind Power Plant.. As he talks further,
 
 ...
 
 [Data](articles/2c2986c0.json)
+
+[Extended Data](ext_articles/2c2986c0.ext.json)
 
 ---
 

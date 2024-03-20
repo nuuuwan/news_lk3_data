@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 20:33:32**
+As of **2024-03-20 20:51:19**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 2,259
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,152 (100.0%) of 14,156 articles have been extended.
+14,156 (100.0%) of 14,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### ஜனாதிபதி பதவி விலகினார்
+### The president has resigned
 
 *2024-03-20 20:13:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜனாதிபதி-பதவி-விலகினார்/50-334946) · `ta`
 
-வியட்நாம் ஜனாதிபதி வோ வான் துவாங்கின் ராஜினாமாவை அந்நாட்டு கம்யூனிஸ்ட் கட்சி ஏற்றுக்கொண்டுள்ளது.
+The president of Vietnam has resigned, and the Communist Party of India has accepted his resignation. The party claims that President Wo Van Duang's actions have damaged its reputation.
 
-இதனிடையே கட்சியின் நம்பிக்கையை குலைக்கும் வகையில் ஜனாதிபதி வோ வான் துவாங்  செயற்பட்டுள்ளதாக கம்யூனிஸ்ட் கட்சி அறிக்கை ஒன்றை வௌியிட்ட தெரிவித்துள்ளது.
+🟩
 
-இதன் காரணமாக கட்சியின் நற்பெயருக்கு பெரும் சேதம் ஏற்பட்டுள்ளதாக வியட்நாம் கம்யூனிஸ்ட் கட்சி குறிப்பிட்டுள்ளது. R
+The Communist Party of India has accepted the resignation of Vietnam President Wo Van Duang.
+
+Meanwhile, the Communist Party has stated a statement that President Wo Wan Duang has been acting to disrupt the party's confidence.
+
+The Vietnam Communist Party has stated that this has caused great damage to the party's reputation. Remble
 
 ◼️
 
 [Data](articles/9f88467c.json)
 
+[Extended Data](ext_articles/9f88467c.ext.json)
+
 ---
 
-### දයාසිරි වැඩ අරඹයි
+### Dayasiri begins work
 
 *2024-03-20 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194749) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතාගේ නායකත්වයෙන් අද (20) නව සන්ධානයක් බිහි කෙරුණි.
+Dayasiri Jayasekara leads a new alliance, the Humanitarian Peoples' Alliance, in Colombo.
 
-දේශපාලන පක්ෂ සහ සිවිල් සංවිධාන 22ක එකතුවෙන් නිර්මාණය කළ "මානුෂීය ජනතා සන්ධානය" ජනගත කිරීම අද කොළඹදී සිදුකෙරුණි.
+🟩
+
+A new alliance has been created today (20) under the leadership of MP Dayasiri Jayasekara.
+
+The population of "Humanitarian Peoples' Alliance has been created in Colombo today.
 
 ◼️
 
 [Data](articles/805f57f8.json)
+
+[Extended Data](ext_articles/805f57f8.ext.json)
 
 ---
 
@@ -150,19 +162,29 @@ He further highlighted that the total number of passengers using the Bandaranaik
 
 ---
 
-### පාතාලය හඹා යන මහෙයුමෙන් හතරක් අල්ලයි
+### Four Maha solo seized four
 
 *2024-03-20 19:26:09* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලය-හඹා-යන-මහෙයුමෙන්-හතරක්-අල්ලයි/11-408728) · `si`
 
-බස්නාහිර හා  දකුණු පළාත මූලික කර ගනිමින්  සංවිධානාත්මක අපරාධකරුවන් අත්අඩංගුවට ගැනීමට ඊයේ (19දා) දිනයේදී ආරම්භ කළ විශේෂ මෙහෙයුම් මගින් අද (20දා) දිනය වන විට පුද්ගලයන් හතර දෙනෙකු අත්අඩංගුවට ගෙන තිබෙන බව පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කරයි.
+Special operations arrested four in Western and Southern Provinces. 20 special police teams involved. Suspects in Colombo and Central Province arrested, including one with 400 grams of heroin and another with 320 mills of ice.
 
-මෙම පළාත් දෙක ආවරණය වන පරිදි විශේෂ පොලිස් කණ්ඩායම් 20 ක් අනුයුක්ත කර තිබෙන බවත්, මෙම කණ්ඩායම්  විසින් දැනට හඳුනාගෙන තිබෙන අපරාධ කල්ලි සාමාජිකයන් හඹා ගොස් අත්අඩංගුවට ගැනීමට ඉලක්ක ලබා දී තිබෙන බවත්  මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති  නිහාල් තල්දූව මහතා සඳහන් කළේය.
+🟩
 
-කොළඹ ප්‍රදේශයේ ක්‍රියාත්මක වන විශේෂ පොලිස් කණ්ඩායම් විසින් සැකකරුවන් 04 දෙනෙකු අත්අඩංගුවට ගෙන තිබෙන බවත්, කොළඹ මධ්‍යම ප්‍රදේශයේ ක්‍රියාත්මක වන  අපරාධ කල්ලි කණ්ඩායමක  සමාජිකයෙකු වන 33 හැවිරිදි පුද්ගලයෙකු ද අත්අඩංගුවට ගෙන තිබෙන බවත් හෙතෙම පවසා සිටියේය.
+The Police Media Division states that four persons have been arrested by special operations to the Western and Southern Provinces yesterday (June 19).
 
-...
+According to the Media Spokesperson DIG Nihal Talduuwa, 20 special police teams have been attached to the criminal members of the two provinces.
+
+He said four suspects have been arrested by special police teams in the Colombo area and a member of a group of criminal group in the Central Province.
+
+The suspect had been arrested in the possession of the suspect in the possession of the suspect in the possession of 400 grams of heroin and 550 mm of heroin had been arrested.
+
+Another suspect has been arrested in the Kajama Watta area and 320 mill of ice narcotics have been arrested in the possession of the suspect.
+
+◼️
 
 [Data](articles/aee04a2b.json)
+
+[Extended Data](ext_articles/aee04a2b.ext.json)
 
 ---
 
@@ -1415,6 +1437,8 @@ Over decades the value of the Dollar in Rupees increased gradually. During the e
 ...
 
 [Data](articles/178dd685.json)
+
+[Extended Data](ext_articles/178dd685.ext.json)
 
 ---
 

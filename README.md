@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 17:18:12**
+As of **2024-03-20 17:33:56**
 
 ## Newspaper Stats
 
-*Scraped **14,107** Articles*
+*Scraped **14,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,39 @@ islandlk | 770
 adalk | 1,218
 adaderanalk | 1,697
 tamilmirrorlk | 1,709
-virakesarilk | 1,982
+virakesarilk | 1,985
 dailymirrorlk | 2,163
-adaderanasinhalalk | 2,250
+adaderanasinhalalk | 2,251
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,105 (100.0%) of 14,107 articles have been extended.
+14,107 (100.0%) of 14,111 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### உலகின் மகிழ்ச்சியான நாடுகள் பட்டியல் ; முதல் இடத்தைப் பிடித்த பின்லாந்து ! இலங்கை ?
+
+*2024-03-20 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/179248) · `ta`
+
+உலகின் மகிழ்ச்சியான நாடுகளின் பட்டியலில் ஏழாவது முறையாக மீண்டும் 'பின்லாந்து' முதல் இடத்தைப் பிடித்துள்ளது.
+
+அதைத் தொடர்ந்து டென்மார்க், ஐஸ்லாந்து, ஸ்வீடன், இஸ்ரேல், நெதர்லாந்து,  நோர்வே, லக்சம்பர்க், சுவிட்சர்லாந்து, அவுஸ்திரேலியா போன்ற நாடுகள் முதல் பத்து இடங்களைப் பிடித்துள்ளன.
+
+இதில் இலங்கை 128ஆவது இடத்தைப் பிடித்துள்ளது. 2022 ஆம் ஆண்டிலிருந்து இலங்கை தரவரிசையில் ஒருபடி கீழே உள்ளது.
+
+இந்தியா இந்த வருடமும் 126வது இடத்திலும், சீனா 60வது இடத்திலும், நேபாளம் 93வது இடத்திலும், பாகிஸ்தான் 108வது இடத்திலும், மியான்மர் 118வது இடத்திலும், பங்களாதேஷ் 129வது இடத்திலும் உள்ளன.
+
+இஸ்ரேல் முதல் ஐந்து இடங்களில் உள்ளது. ஆப்கானிஸ்தான் கடைசி இடமான 137வது இடத்தைப் பிடித்துள்ளது.
+
+...
+
+[Data](articles/0e842abe.json)
+
+---
 
 ### Update on Sri Lankans in Haiti amidst escalation of violence
 
@@ -49,6 +69,8 @@ Haiti’s already precarious situation has quickly deteriorated over the past we
 ...
 
 [Data](articles/8078dd78.json)
+
+[Extended Data](ext_articles/8078dd78.ext.json)
 
 ---
 
@@ -71,6 +93,66 @@ The protest march had commenced from near the Fort Railway Station and they were
 ◼️
 
 [Data](articles/4bc90cff.json)
+
+[Extended Data](ext_articles/4bc90cff.ext.json)
+
+---
+
+### கொழும்பில் ஆர்ப்பாட்டம் : 2 பிக்குகள் உள்ளிட்ட 29 பேர் கைது : 5 பொலிஸார் காயம் !
+
+*2024-03-20 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179252) · `ta`
+
+கொழும்பு, கோட்டை பிரதேசத்தில் இன்று புதன்கிழமை (20) முன்னெடுக்கப்பட்ட ஆர்ப்பாட்டத்தில் 2 பிக்குகள், 3 பெண்கள் உள்ளிட்ட 29 பேர் கைதுசெய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கொழும்பு, கோட்டை பிரதேசத்தில் இன்றைய தினம் முன்னெடுக்கப்பட்ட ஆர்ப்பாட்டத்தின்போது ஆர்ப்பாட்டக்காரர்களைக்  கலைக்க பொலிஸார் கண்ணீர்ப்புகை மற்றும் நீர்த்தாரைகளை பிரயோகித்தனர்.
+
+வாழ்க்கைச்  செலவு அதிகரிப்பு மற்றும் சில வெளிநாட்டு ஒப்பந்தங்கள் உட்பட பல விடயங்களை அடிப்படையாகக் கொண்டு ‘ஜன அரகல வியாபரய’ என்ற (மக்கள் போராட்ட இயக்கம்) இந்த ஆர்ப்பாட்டத்தை ஏற்பாடு செய்திருந்தது.
+
+கோட்டை ரயில்  நிலையத்துக்கு  அருகாமையிலிருந்து ஆர்ப்பாட்ட பேரணி ஆரம்பிக்கப்பட்டு சென்று கொண்டிருந்தபோதே கலகத்தடுப்பு பொலிஸார் கண்ணீர் புகை மற்றும் நீர்த்தாரைகளை பிரயோகித்து அவர்களைக் கலைத்துள்ளனர்.
+
+இதன்போதே பொலிஸாருக்கும் ஆர்ப்பாட்டக்காரர்களுக்கும் இடையில் குழப்பம் ஏற்பட்ட நிலையில், 5 பொலிஸார் காயமடைந்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/cbcb18fd.json)
+
+---
+
+### காத்தான்குடியில் ஒரு வாரத்தில் 5 போதை பொருள் வியாபாரிகள் கைது
+
+*2024-03-20 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179251) · `ta`
+
+காத்தான்குடியில் நேற்று செவ்வாய்க்கிழமை (19) போதை பொருள் வியாபாரிகள் இருவரை கைதுசெய்ததுடன், கடந்த ஒருவாரத்தில் 5 போதை பொருள் வியாபாரிகள் கைது செய்யப்பட்டுள்ளார்கள்.
+
+கைதானவர்களை நீதிமன்ற அனுமதியை பெற்று 3 நாட்கள் பொலிஸ் தடுப்பில் வைத்து விசாரணை மேற்கொண்டு வருவதாக காத்தான்குடி பொலிஸார் தெரிவித்தனர்.
+
+யுக்திய நடவடிக்கையின் கீழ் காத்தான்குடி பொலிஸார் போதை பொருள் வியாபாரிகளை தேடி கைது செய்துவருகின்ற நிலையில், கடந்த செவ்வாய்கிழமை தொடக்கம் செவ்வாய்க்கிழமை வரை  5  வியாபாரிகளை 3 கிராம் தொடக்கம் 400 மில்லிக்கிராம் வரையிலான ஜஸ் போதை பொருளுடன் கைது செய்யப்பட்டுள்ளனர்.
+
+இதில் கைது செய்யப்பட்ட 5 பேரும் காத்தான்குடி பிரதேசத்தைச் சேர்ந்த 30 வயது தொடக்கம் 50 வயதுக்கு உட்பட்டவர்களாவர்.
+
+இவர்களை நீதிமன்ற அனுமதியை பெற்று 72 மணித்தியாலயம் பொலிஸ் தடுப்பு காவலில் வைத்து விசாரணை மேற்கொண்டுவருவதாகவும், விசாரணையின் பின்னர் இவர்களை நீதிமன்றில் ஆஜர்படுத்த நடவடிக்கை எடுத்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/1726de00.json)
+
+---
+
+### ජන අරගල ව්‍යාපාරයේ විරෝධයට එක්වූ 29ක් අත්අඩංගුවට
+
+*2024-03-20 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194739) · `si`
+
+ජන අරගල ව්‍යාපාරය අද (20) දහවල් කොළඹදී පැවැත්වූ විරෝධතාව අතරතුරදී පුද්ගලයින් 29 දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගත් බව වාර්තා වෙයි.
+
+අත්අඩංගුවට ගත් පිරිස අතර භික්ෂූන් වහන්සේලා දෙදෙනෙක් සහ කාන්තාවන් තුන් දෙනෙක් ද වන බව අප වාර්තාකරු පැවසීය.
+
+භාණ්ඩ මිල ඉහළ යාම, විදෙස් ගිවිසුම් ඇතුළු කරුණු කිහිපයක් මුල්කරගෙන මෙම විරෝධතාව කොටුව දුම්රිය ස්ථානය අසලින් ආරම්භ කර තිබුණි.
+
+පසුව විරෝධතාකරුවන් පිටකොටුව දෙසට ගමන් කිරීමත් සමග පොලීසිය පිරිස විසුරුවාහැරීම සඳහා අධිපීඩන ජල ප්‍රහාර හා කඳුළු ගෑස් ප්‍රහාර එල්ල කිරීමට ද කටයුතු කළේය.
+
+◼️
+
+[Data](articles/da0c3b93.json)
 
 ---
 
@@ -111,6 +193,36 @@ The two petitions have been submitted by the Young Journalists Association and t
 [Data](articles/cf2054b0.json)
 
 [Extended Data](ext_articles/cf2054b0.ext.json)
+
+---
+
+### Sri Lanka continues to maintain neutrality in global affairs, including Ukraine - Putin has revealed that the intervention of the West has failed - the Russian Ambassador to Sri Lanka
+
+*2024-03-20 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179242) · `ta`
+
+Russian Ambassador to Sri Lanka, Leven S Jagarian, highlights Putin's election victory as evidence of Western interventions' failure, including in Ukraine. He criticizes Western interventions in Sri Lanka and globally, noting Russian voters' support for Putin. Jagarian also addresses the Ukrainian conflict, stating it's not a war against Ukraine and that the Russian people opposed Western plans to subordinate Russia. He emphasizes Russia's neutrality and its economic challenges due to the Ukraine war.
+
+🟩
+
+Vladimir Putin's great success in the Russian presidential election has revealed that the West's interventions have not been successful, said Russian Ambassador to Sri Lanka Leven S Jagarian.
+
+Putin's victory has revealed that the US -led coalition's efforts to change the results of the Russian presidential election based on the Ukraine war have failed.
+
+He pointed out the interventions of the West in many countries, including Sri Lanka, and pointed out how Russian voters voted in favor of President Putin, contrary to the expectation of the West.
+
+In an interview with Island, he said he was not surprised about the results of the Russian presidential election.
+
+The Russian Ambassador to Sri Lanka said that the Ukrainian war was the reason for Putin's six years.
+
+I would like to report some details clearly that it is not a war against Ukraine.
+
+He also said that the people of Rasya were opposed to the West's plan that had been devastated to subordinate Russia.
+
+...
+
+[Data](articles/f3c193c2.json)
+
+[Extended Data](ext_articles/f3c193c2.ext.json)
 
 ---
 
@@ -217,36 +329,6 @@ The President Ranil Wickremesinghe said that the economy would further provide r
 [Data](articles/3e608e13.json)
 
 [Extended Data](ext_articles/3e608e13.ext.json)
-
----
-
-### Sri Lanka continues to maintain neutrality in global affairs, including Ukraine - Putin has revealed that the intervention of the West has failed - the Russian Ambassador to Sri Lanka
-
-*2024-03-20 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179242) · `ta`
-
-Russian Ambassador to Sri Lanka, Leven S Jagarian, highlights Putin's election victory as evidence of Western interventions' failure, including in Ukraine. He criticizes Western interventions in Sri Lanka and globally, noting Russian voters' support for Putin. Jagarian also addresses the Ukrainian conflict, stating it's not a war against Ukraine and that the Russian people opposed Western plans to subordinate Russia. He emphasizes Russia's neutrality and its economic challenges due to the Ukraine war.
-
-🟩
-
-Vladimir Putin's great success in the Russian presidential election has revealed that the West's interventions have not been successful, said Russian Ambassador to Sri Lanka Leven S Jagarian.
-
-Putin's victory has revealed that the US -led coalition's efforts to change the results of the Russian presidential election based on the Ukraine war have failed.
-
-He pointed out the interventions of the West in many countries, including Sri Lanka, and pointed out how Russian voters voted in favor of President Putin, contrary to the expectation of the West.
-
-In an interview with Island, he said he was not surprised about the results of the Russian presidential election.
-
-The Russian Ambassador to Sri Lanka said that the Ukrainian war was the reason for Putin's six years.
-
-I would like to report some details clearly that it is not a war against Ukraine.
-
-He also said that the people of Rasya were opposed to the West's plan that had been devastated to subordinate Russia.
-
-...
-
-[Data](articles/f3c193c2.json)
-
-[Extended Data](ext_articles/f3c193c2.ext.json)
 
 ---
 
@@ -2239,89 +2321,5 @@ Two unidentified persons who came in a motorbike have been killed by two unident
 [Data](articles/ed0ee6e8.json)
 
 [Extended Data](ext_articles/ed0ee6e8.ext.json)
-
----
-
-### Temperature will be high until next September in the North - Jaffna. The University Geological Senior Lecturer
-
-*2024-03-20 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179185) · `ta`
-
-High temperatures in Jaffna until September, with average 31°C. Heavy rainfall expected from March 28 to April 8, reducing water levels. Water conservation advised.
-
-🟩
-
-The temperature is expected to be high until the upcoming September. Temperatures in the month of April, May, June and July are higher than the present, said Nakamuthu Pradeeparajah, a senior lecturer of the University of Jaffna.
-
-The average temperature in the Northern Province was recorded at 31 degrees Celsius on Monday. In many parts of the Northern Province, the maximum temperature of the day has been recorded as 36 degrees Celsius.. Feel temperature has been 34 degrees Celsius.
-
-Meanwhile, the average evaporation of the Northern Province is 11 millimeters. Some places are recorded higher than average. So the evaporation of a day is 11 mm, if the evaporation level for 30 days of a month is 330 millimeters.
-
-The heat of the Northern Province is expected to receive moderate rainfall from the 21st to the 24th of this month.
-
-From March 28 to April 8, some parts of the Northern Province are likely to experience heavy rainfall.
-
-...
-
-[Data](articles/36e7396d.json)
-
-[Extended Data](ext_articles/36e7396d.ext.json)
-
----
-
-### Chicken prices reduced by Rs. 40
-
-*2024-03-20 09:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chicken-prices-reduced-by-Rs-40/108-279224) · `en`
-
-Colombo, March 20 (Daily Mirror) - According to the Narahenpita Economic Centre, the retail price of a kilo of chicken has been reduced by Rs. 30, a senior official of the centre said.
-
-After the price reduction, the price of a kilo of fresh chicken at the Narahenpita Economic Centre is Rs. 1,180, Rs. 1,100 for curry chicken, and skinless chicken is being sold at a price of Rs. 1,100.
-
-He said a kilo of beef was at Rs. 2,400 and a kilo of mutton at Rs. 3,300.
-
-◼️
-
-[Data](articles/1ae85738.json)
-
-[Extended Data](ext_articles/1ae85738.ext.json)
-
----
-
-### Three underworld gang members arrested during special operation
-
-*2024-03-20 09:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-underworld-gang-members-arrested-during-special-operation/108-279225) · `en`
-
-Colombo, March 20 (Daily Mirror) - Three members of underworld gangs were arrested during a special operation launched yesterday to crack down on organized criminal activities.
-
-In response to a concerning increase in organized criminal activities in the Western and Southern Provinces, a special operation targeting 20 identified organized criminal gangs in the country was launched under the 'Yukthiya' initiative yesterday.
-
-As part of this operation, 20 special police teams have been deployed to crackdown on the identified underworld gangs.
-
-Police said that a member of the organized criminal gang associated with 'Keselwatta Dinuka' was arrested by a special team led by Inspector Attanayake in Borella yesterday evening. The arrested suspect, Tharidu Ruwan Kumara, was found in possession of 6,550 mg of heroin and has been handed over to the Colombo Crimes Division.
-
-...
-
-[Data](articles/090f3e8d.json)
-
-[Extended Data](ext_articles/090f3e8d.ext.json)
-
----
-
-### Wasantha Yapa Bandara joins parade of COPE resignations
-
-*2024-03-20 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98070/wasantha-yapa-bandara-joins-parade-of-cope-resignations) · `en`
-
-MP Wasantha Yapa Bandara joined a parade of parliamentarians to quit the Committee of Public Enterprises (COPE) over the appointment of SLPP MP Rohitha Abeygunawardena as its chairman.
-
-Shortly after the parliamentary session commenced this morning (March 20), the Deputy Speaker announced the appointment of Bandara as a COPE member.
-
-However, the MP announced his resignation with immediate effect, asserting that he would communicate his decision in writing as well.
-
-On March 07, Abeygunawardena was elected by majority votes to serve as the new chairman of COPE at the first committee meeting convened for the Fifth Session of the Ninth Parliament. His name had been nominated by MP Mahindananda Aluthgamage and was seconded by MP Sanjeewa Edirimanne.
-
-...
-
-[Data](articles/1b4705f4.json)
-
-[Extended Data](ext_articles/1b4705f4.ext.json)
 
 ---

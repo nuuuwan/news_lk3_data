@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 12:50:34**
+As of **2024-03-20 13:03:50**
 
 ## Newspaper Stats
 
-*Scraped **14,052** Articles*
+*Scraped **14,054** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,87 @@ dailyftlk | 734
 economynextcom | 745
 islandlk | 770
 adalk | 1,214
-adaderanalk | 1,688
+adaderanalk | 1,689
 tamilmirrorlk | 1,703
 virakesarilk | 1,972
 dailymirrorlk | 2,151
-adaderanasinhalalk | 2,237
+adaderanasinhalalk | 2,238
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,048 (100.0%) of 14,052 articles have been extended.
+14,052 (100.0%) of 14,054 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### කෝප් කමිටුවෙන් තවත් සාමාජිකයෙක් ඉල්ලා අස්වෙයි
+### Duminda Dissanayake becomes 9th member to quit COPE
+
+*2024-03-20 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98075/duminda-dissanayake-becomes-9th-member-to-quit-cope) · `en`
+
+MP Duminda Dissanayake too has stepped down as a member of the Committee on Public Enterprises (COPE), mirroring the decision taken by 08 other MPs.
+
+◼️
+
+[Data](articles/59c3c15a.json)
+
+---
+
+### කැනඩාවේ තවත් අමානුෂික ඝාතනයක්
+
+*2024-03-20 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194726) · `si`
+
+කැනඩාවේ සිදුවූ තවත් අමානුෂික ඝාතනයක් පිළිබඳව පුවතක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+මෙලෙස ඝාතනයට ලක්ව ඇත්තේ ඉන්දීය සම්බවයක් සහිත 41 හැවිරිදි වියේ පසුවන Balwinder Kaur නමැති කාන්තාවකි.
+
+ඝාතනය සම්බන්ධයෙන් 50 හැවිරිදි වියේ පසුවන ඇයගේ සැමියා වන Jagpreet Singh එරට ආරක්ෂක අංශ විසින් මේ වනවිට අත්අඩංගුවට ගෙන ඇත.
+
+පිහි ඇනුම් හේතුවෙන් තුවාල ලැබූ කාන්තාව කඩිනමින් රෝහල්ගතකිරීමට පියවර ගෙන තිබුණ ද එහිදී ඇය මියගොස් ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කරයි.
+
+මේ අතර විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත්තේ එම ඝාතනය සිදුකිරීමෙන් අනතුරුව සැකකාර සැමියා සිය මවට වීඩියෝ ඇමතුමක් ලබාගනිමින් මෙම ඝාතනය සම්බන්ධයෙන් දැනුම් දී ඇති බවය.
+
+එහිදී "මම එයාව සදහටම නිදි කළා" යනුවෙන් ඔහු පවසා ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර තිබේ.
+
+කැනඩාවේ Abbotsford හිදී මෙම ඝාතනය සිදුව ඇති බව එම වාර්තා සඳහන් කරයි.
+
+එසේම ඝාතනය සම්බන්ධයෙන් අත්අඩංගුවට ගෙන සිටින සැකකාර සැමියා මීට සතියකට පමණ පෙර එහි පැමිණ ඇති බවද වාර්තා වෙයි.
+
+ඔවුන් අතර අවස්ථා කිහිපයකදී මුදල් ආරවුල් ඇතිවූ බවද ඇතැම් විදෙස් මාධ්‍ය වාර්තා සඳහන් කරයි.
+
+...
+
+[Data](articles/3d0969f3.json)
+
+---
+
+### Another member of the COPE committee resigns
 
 *2024-03-20 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194725) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා ද පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටු සාමාජිකත්වයෙන් ඉල්ලා අස්වී තිබේ.
+Duminda Dissanayake resigned from the COPE committee, marking the resignation of 9 MPs. The new session began with the appointment of Rohitha Abeygunawardena as Chairman. Despite resignations, the committee discussed the State Plantation Corporation's activities.
 
-නවවැනි පාර්ලිමේන්තුවේ පස්වන සභාවාරයේ ආරම්භයත් සමග පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටුව ඊයේ (19) පළමුවරට රැස්වුණි.
+🟩
 
-ඒ එහි නව සභාපති පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතාගේ ප්‍රධානත්වයෙනි.
+Duminda Dissanayake has resigned from the General Business Council (COPE) or COPE.
 
-ඊයේ කෝප් කමිටුව රැස්වුණේ එහි සාමාජිකයින් 30න් හත්දෙනෙකුම ඉල්ලා අස්වී තිබූ පසුබිමකය.
+The Committee on Public Enterprises was first met with the first time in the first time yesterday with the beginning of the new session of the Nithi Prime Minister.
 
-වසන්ත යාපා බණ්ඩාර මහතා සහ දුමින්ද දිසානායක මහතා අද සාමාජිකත්වයෙන් ඉල්ලා අස්වීමත් සමඟ මේ වනවිට මන්ත්‍රීවරු 9 දෙනෙකු නව සභාපතිවරයාට විරෝධය පළ කරමින් කෝප් කමිටුවෙන් ඉවත්ව තිබේ.
+The appointment of the new Chairman Rohitha Abeygunawardena.
 
-කෙසේවෙතත් සෙසු සාමාජිකයින්ගේ සහභාගීත්වයෙන් ඊයේ පැවති කෝප් කමිටු රැස්වීමේදී රාජ්‍ය වැවිලි සංස්ථාවේ කටයුතු පිළිබඳව සාකච්ඡාවට ගැනුණි.
+Yesterday, the COPE Committee met in the backdrop of the resignation of the 30 members.
+
+With the resignation of Vasantha Yapa Bandara and Duminda Dissanayake, 9 MPs have resigned from the COPE committee.
+
+However, with the participation of other members, however discussed the activities of the State Plantation Corporation at the COPE Committee meeting yesterday.
 
 ◼️
 
 [Data](articles/f324bca6.json)
+
+[Extended Data](ext_articles/f324bca6.ext.json)
 
 ---
 
@@ -69,6 +115,8 @@ Finally, a close associate of the gangster “Pookudi Kanna”, identified as Mu
 ◼️
 
 [Data](articles/b4e64645.json)
+
+[Extended Data](ext_articles/b4e64645.ext.json)
 
 ---
 
@@ -148,21 +196,27 @@ The Sri Lankan government has openly stated that the permit will be given to the
 
 ---
 
-### විදුලි බිලට ඉලෙක්ට්‍රොනික බිල්පතක්
+### Electronic bill of electricity bills
 
 *2024-03-20 11:54:24* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බිලට-ඉලෙක්ට්‍රොනික-බිල්පතක්/11-408720) · `si`
 
-විදුලි පාරිභෝගිකයන්ට ලංකා විදුලි බල මණ්ඩලයෙන් මෙතෙක් මාසිකව නිකුත් කල බිල්පත වෙනුවට ඉලෙක්ට්‍රොනික බිල්පතක් නිකුත් කිරිමට විදුලි බල මණ්ඩලය පියවර ගෙන ඇත.
+The Ceylon Electricity Board (CEB) has introduced electronic bills for consumers in Hatton, allowing for full payment and tracking via account numbers and electric unit numbers.
 
-එම ඉලෙක්ට්‍රොනික යන්ත්‍රයට විදුලි පාරිභෝගිකයාගේ ගිණුම් අංකය සහ භාවිතා කර ඇති විදුලි ඒකක ගණන මනු කියවන්නා විසින් ඇතුලත් කිරිමෙන් පසු එම මසට අය විය යුතු සම්පුර්ණ මුදල සහ හිග මුදලක්ද ඇතොත් එයද සටහන් වි බිල්පත මුද්‍රණය වන බවයි මනු කියවන්නා කියා සිටියේ.
+🟩
 
-විදුලි පාරිභෝගිකයාගේ නව ක්‍රමයට බිල්පතක් ලබාදිමේදි මාර්ග ගත ක්‍රමයට බිල්පත් ගෙවා ඇත්නම් එම බිල්පත් ද නව බිල්පතින් අඩු වි එම ගෙවිමද මෙම බිල්පත මගින් විදුලි පාරිභෝගිකයාට දැන ගැනිමට හැකියාව ලැබෙන බවද මනු කියවන්නා පැවසිය.
+The Electricity Board (CEB) has taken steps to issue an electronic bill instead of electricity consumers from the Ceylon Electricity Board.
 
-එසේ විදුලි බල මණ්ඩලය විසින් හදුන්වා දුන් නව ඉලෙක්ට්‍රොනික බිල්පත් යන්ත්‍රය මගින් හැටන් ප්‍රදේශයේ විදුලි පාරිභෝගිකයන්ට නිකුත් කරන අයුරු දක්නට ලැබුණි.
+The manner said that if the manufacturers should be the full amount of money and the arrival of the same amount of money, if the electronic consumer's account number and the number of electric unit has been used.
+
+The Budget said that if the bills have been paid to the new bill, the bill will also be able to learn the bill if the bill is paid to the new bill.
+
+The new electronic billing machine was introduced by the CEB was issued to the electricity consumers in Hatton.
 
 ◼️
 
 [Data](articles/fe7d94e0.json)
+
+[Extended Data](ext_articles/fe7d94e0.ext.json)
 
 ---
 
@@ -358,19 +412,27 @@ The event will be attended by Ajantha Kumara Akalakada, editor of Daily Lanka, C
 
 ---
 
-### රැකියා ලබා දෙන බව පවසා උසස් පෙළ ලියූ සිසුන්ගෙන් මුදල් වංචා කරලා
+### Checked money from students who said they were provided with jobs
 
 *2024-03-20 11:16:18* · [`adalk`](https://www.ada.lk/breaking_news/රැකියා-ලබා-දෙන-බව-පවසා-උසස්-පෙළ-ලියූ-සිසුන්ගෙන්-මුදල්-වංචා-කරලා/11-408718) · `si`
 
-පෞද්ගලික බැංකුවක රැකියා අවස්ථා ලබා දෙන බව පවසා  මතුගම ප්‍රධාන පාසල් කිහිපයක් උසස් පෙළ විභාගයට පෙනී සිටි සිසුන් රවටමින් අන්තර්ජාලය හරහා ඔවුන්ගෙන් මුදල් ලබාගෙන ඇති බව මතුගම පාසැල් කිහිපයකින් වාර්තාවේ.
+Several schools reported that students who took the GCE A/L examination received money through the Internet. Initially, students were told to call the school for a laptop, but banks refused to provide funds for laptops. The Meetagama police headquarters received no complaints about this incident.
 
-මෙම කණ්ඩායම පළමුව පාසලට දුරකථන ඇමතුමක් ලබා දී සිසුන්ට මෙසේ අවස්ථාවක් ලබා දිය හැකි බවත් අනතුරුව සිසුන්ගේ පෞද්ගලික දුරකතනයන්ට අමතා  එම රැකියාවට අවශ්‍යය ලැප්ටොප් පරිඝණකයක්ද  ලබා දෙන බවත් පරිඝණක සපයන වෙළඳ ආයතනයකටද දුරකතනයෙන් අමතා  පාසල් සිසුන් සඳහා ලැප්ටෝප් සැපයීමට අවස්ථාව ලබා දිය හැකි බව පවසා තිබේ.
+🟩
 
-කිසියම් සිසුවකු සිසුන් පරිඝණක සැපයීම් සිදු කරන ආයතනයෙන් තොරතුරු විමසීමේදී ඔවුන් පවසා ඇත්තේ එවැනි ව්‍යෘපෘතියක් පිළිබඳ බැංකුවකින් තම ආයතනයට කතා කළ බවයි. ඒ් අනුව බොහෝ සිසුන් ඔවුන්ගේ දැනුම් දීම අනුව බැංකු රැකියාවට අවශ්‍යය ලැප්ටෝප් පරිගණක සඳහා රුපියල් පහළොස් දහස බැගින් ඔන්ලයින් හරහා ඔවුන් දන්වා ඇති ගිණුමට බැර කර තිබේ. අනතුරුව අදාල පෞද්ගලික බැංකු ශාඛාවකට යන ලෙස ඔවුන් දන්වා ඇති අතර නමුත් එම බැංකුව එසේ කිසිදු රැකියා අවස්තාවක් ලබා දෙන සිදුවීමක් පිළිබඳ නොදන්නා බව පවසා තිබේ.
+Several schools have been reported from the River students who sat the GCE A / L examination have obtained their money through the Internet.
 
-...
+The team first said that the students can call the school and give the students a laptop computer that they will be given a laptop computer and to provide laptops to school children.
+
+When contacted, a student inquired from the Institute, they have spoken to the company that they spoke to the company with such projects. So many students have been credited to the account that banks want to have for banking laborers to the bank for laptop computers for laptop computers for the laptop computers that need. They have been asked to go to a private bank branch, but that the bank has said that the bank has not known any work cases.
+
+They said that the Meetagama police headquarters on this incident, they said that no one had done any complaint.
+
+◼️
 
 [Data](articles/f534a51c.json)
+
+[Extended Data](ext_articles/f534a51c.ext.json)
 
 ---
 
@@ -2199,45 +2261,5 @@ A holistic solution stack to address the current cybersecurity challenges faced 
 [Data](articles/efa81333.json)
 
 [Extended Data](ext_articles/efa81333.ext.json)
-
----
-
-### Amid election fever a dark horse rises - EDITORIAL
-
-*2024-03-20 01:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Amid-election-fever-a-dark-horse-rises-EDITORIAL/172-279181) · `en`
-
-Polls fever in the country is heating up. Yet, ‘we the people’ are not certain whether the poll would be for a general election, presidential poll or whether a poll will be held at all. Our constitution however, dictates a presidential election is due during the fourth quarter of the year.
-
-One thing seems certain; we still see the same faces who played a major role in bankrupting the country, putting themselves forward to lead us and our country into new vistas of prosperity.
-
-While political parties are busy blaming each other for bringing this country to a state of bankruptcy, we do not hear any one of them raising a hand and saying ‘mea maxima culpa’ – through my most grievous fault or even saying ‘I am sorry’. Rather, we are being treated to a number of political dramas.
-
-...
-
-[Data](articles/f90c3d37.json)
-
-[Extended Data](ext_articles/f90c3d37.ext.json)
-
----
-
-### Wales elects first Black First Minister in Europe
-
-*2024-03-20 01:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Wales-elects-first-Black-First-Minister-in-Europe/172-279180) · `en`
-
-Growing support for more devolution of power to Wales and even independence from the UK
-
-“Devolution - Welsh solutions to Welsh problems - that’s in my priority,” Gething declared.
-
-Vaughan Gething, who was elected as First Minister (Chief Minister) of Wales last week, is the first Black to head a government in Europe. He is the fourth non-White head of government in the British Isles.
-
-The politics of the British Isles is now truly multi-racial, a major and unprecedented development in British politics.
-
-The British Prime Minister Rishi Sunak is an Indian. The Scottish First Minister is Hamza Yousaf, a Pakistani. The Irish Prime Minister (called the Taoiseach in the Irish language) is Leo Varadkar, who is part Indian. And now, the Welsh First Minister, called “prif weinidog” in the Welsh language, is Vaughan Gething, a half Zambian, the father being White and the mother a Black African.
-
-...
-
-[Data](articles/766b8dd0.json)
-
-[Extended Data](ext_articles/766b8dd0.ext.json)
 
 ---

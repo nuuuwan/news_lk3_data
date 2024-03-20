@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 07:53:55**
+As of **2024-03-20 08:02:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,223
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,974 (100.0%) of 13,977 articles have been extended.
+13,977 (100.0%) of 13,977 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,29 +46,39 @@ Misty conditions can be expected at some places in Sabaragamuwa and Central prov
 
 [Data](articles/82850246.json)
 
+[Extended Data](ext_articles/82850246.ext.json)
+
 ---
 
-### සජබ කෘත්‍යාධිකාරී මණ්ඩලයෙන් තීරණයක්
+### Decision for Sagrabara
 
 *2024-03-20 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194710) · `si`
 
-ඉදිරියේදී පැවැත්වෙන ඕනෑම මැතිවරණයකට ශක්තිමත්ව මුහුණදීම සඳහා පුළුල් වැඩසටහනක් ක්‍රියාත්මක කිරීමට සමඟි ජන බලවේගයේ කෘත්‍යාධිකාරී මණ්ඩලය තීරණය කර තිබේ.
+The Working Committee decided to expand their program to prepare for future elections, with a focus on the upcoming presidential election. They aim to support the next government and face the strongest opposition. This decision was made yesterday afternoon. J. Mr. SC Agat, a member of the Parliamentary Force, highlighted the committee's commitment to victory, noting a shift in voter base towards opposition. Field Marshal Sarath Fonseka attended the meeting, and General Secretary Ranjith Madduma Bandara expressed concern over his participation.
 
-ඊයේ (19) පස්වරුවේ රැස්වූ සමඟිජන බලවේගයේ කෘත්‍යාධිකාරී මණ්ඩලය මෙම තීරණය ගෙන ඇති බව වාර්තා වේ.
+🟩
 
-කෘත්‍යාධිකාරී මණ්ඩල රැස්වීමෙන් අනතුරු මාධ්‍ය වෙත අදහස් දැක්වූ සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී ජේ. සී අගවතුවල මහතා,
+The Working Committee of the prospect of the prospect has decided to implement a wider program to enhance a wider program to face any future election.
 
-"මේ වසරේ නියමිත වෙලා තියෙන්නේ ජනාධිපතිවරණය. කෘත්‍යාධිකාරී මණ්ඩලය අපි සාකච්ඡා කළා එන ඕනෙම මැතිවරණයකට මුහුණදෙනවා. අපි ඊළඟ ආණ්ඩුව ගන්න ජයග්‍රහණය කරා ගෙනියනවා. ඒ සඳහා කෘත්‍යාධිකාරී මණ්ඩලයේ සෑමදෙනාම එකඟ වුණා තියෙන ඕනෑම මැතිවරණයකට ඉතාම ශක්තිමත්ම මුහුණදෙන්න. මේ වෙනකොටත් විපක්ෂයක් හැටියට සමගි ජන බලවේගය ඡන්ද පදනම ගත්තාහම ඉහළින්ම තියෙන පක්ෂය බවට සමීක්ෂණවලින් පැහැදිලි වෙලා තියෙනවා. ගමින් ගමට යන වැඩසටහන්වලින් අපි දැක්කා‍, පොදුජන පෙරමුණේ හිටිය සහ ජනතා විමුක්ති පෙරමුණට ඉන්න අයත් අපිත් එක්ක අත්වැල් බැඳගන්නවා. අපිට පැහැදිලියි දැන් රැල්ල ගහලා තියෙන්නේ අපිට."
+The Working Committee has taken this decision yesterday afternoon.
 
-ෆීල්ඩ් මාෂල් සරත් ෆොන්සේකා මහතාද කෘත්‍යාධිකාරී මණ්ඩල රැස්වීමට සහභාගී වී තිබේ.
+Member of Parliamentary Force, Speaking to the Media Contact Member of the Working Committee Member J. Mr. SC Agat
+
+"This year is due to presidential election. The Working Committee we discussed every election. We take the next government to victory. Face the strongest for any elections that all agreed to this. Surveys have made evident in the top party that the conviction base of the voter turnover as an opposition. We saw the villagers going to the village and joins with us who are in the CHOGM and the JVP.. Clearly, we are wave now. "
+
+Field Marshal Sarath Fonseka has also attended the Working Committee meeting.
+
+The General Secretary of the Jathika Force, General Secretary Ranjith Madduma Bandara expressed these views regarding the participation of Mr. Sarath Fonseka.
 
 ...
 
 [Data](articles/4622a80e.json)
 
+[Extended Data](ext_articles/4622a80e.ext.json)
+
 ---
 
-### Sri.Lanka says foreign research ships allowed for replenishment after Chinese protest
+### Sri Lanka says foreign research ships allowed for replenishment after Chinese protest
 
 *2024-03-20 07:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-says-foreign-research-ships-allowed-for-replenishment-after-chinese-protest-155278/) · `en`
 
@@ -258,17 +268,23 @@ Sysco LABS Fosters the Next Generation of Future-Ready Sri Lankan Tech Talent
 
 ---
 
-### மீனவர்கள் தொடர் உண்ணாவிரதம்
+### Fishermen's continuous fasting
 
 *2024-03-20 02:53:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்கள்-தொடர்-உண்ணாவிரதம்/175-334912) · `ta`
 
-இந்திய மீனவர்களின் அத்துமீறிய செயற்பாட்டைக் கண்டித்து யாழ்ப்பாணம் மாவட்ட மீனவர்கள் உணவு தவிர்ப்புப்  போராட்டத்தை ஆரம்பித்துள்ளனர்.
+Jaffna district fishermen are fasting to protest against the violation of Indian fishermen's rights. The Federation of District Rural Fisheries Organizations and the Federation of District Fisheries Co-operative Societies have been fasting in front of St. John Posco Vidyalaya since yesterday morning.
 
-யாழ். மாவட்ட கிராமிய கடற்றொழில் அமைப்புக்களின் சம்மேளனமும், யாழ். மாவட்ட கடற்றொழில் கூட்டுறவுச் சங்கங்களின் சம்மேளனமும் இணைந்து நேற்றுக் காலை முதல் யாழ்ப்பாணம் புனித ஜோன் பொஸ்கோ வித்தியாலயத்துக்கு முன்பாக உணவு தவிர்ப்புப் போராட்டத்தில் ஈடுபட்டு வருகின்றனர். (a)
+🟩
+
+Jaffna district fishermen have launched a food avoidance struggle to condemn the violation of Indian fishermen.
+
+Yall. Federation of District Rural Fisheries Organizations. The Federation of District Fisheries Co -operative Societies has been engaged in a food skipper in front of St. John Posco Vidyalaya, Jaffna since yesterday morning.. (A)
 
 ◼️
 
 [Data](articles/af2d31e5.json)
+
+[Extended Data](ext_articles/af2d31e5.ext.json)
 
 ---
 

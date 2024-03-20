@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 02:17:55**
+As of **2024-03-21 02:33:46**
 
 ## Newspaper Stats
 
-*Scraped **14,181** Articles*
+*Scraped **14,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 760
 islandlk | 770
 adalk | 1,226
 adaderanalk | 1,704
-tamilmirrorlk | 1,716
+tamilmirrorlk | 1,717
 virakesarilk | 1,987
 dailymirrorlk | 2,179
 adaderanasinhalalk | 2,263
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,181 (100.0%) of 14,181 articles have been extended.
+14,181 (100.0%) of 14,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### ’புதிய படையணி முரண்பாடுகளை ஏற்படுத்தும்’
+
+*2024-03-21 01:24:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-படையணி-முரண்பாடுகளை-ஏற்படுத்தும்/175-334965) · `ta`
+
+இந்திய இழுவைமடிப் படகு தொடர்பான பிரச்சினைக்கு இந்திய அரசாங்கத்துடன் பேசி தீர்வை எட்டுவதை விட்டு கடல் காவலர்கள் எனும் பெயரில் புதிய படையணியை உருவாக்குவது கடலில் தேவையற்ற முரண்பாடுகளை ஏற்படுத்தும் என்று முன்னாள் பாராளுமன்ற உறுப்பினர் சுரேஷ் பிரேமச்சந்திரன் தெரிவித்துள்ளார் .
+
+சமகால நிலைமைகள் தொடர்பாக யாழ். ஊடக  மையத்தில் செவ்வாய்க்கிழமை (19) இடம்பெற்ற ஊடக சந்திப்பின்  போதே  அவர்  இவ்வாறு  தெரிவித்துள்ளார்.
+
+"இந்திய - இலங்கை மீனவர் பிரச்சினைகள் தீர்வு காணப்படவேண்டியது அவசியம். இந்தியாவின் துறைசார் அமைச்சுடன் பேசி ஈழத்து மீனவர்களுக்கு பாதிப்பு ஏற்படாதவகையில் தீர்வு காணப்பட வேண்டும். அதனை விடுத்து கடல் காவலர்கள் என்றும் குடியியல் தன்னார்வ படையை உருவாக்கி தமிழக மீனவர்களுடன் மோதவிடுவது ஆரோக்கியம் அல்ல. இது இரு நாட்டு மீனவர்களிடமும் முரண்பாட்டை ஏற்படுத்தும்.இலங்கை கடற்படையை நல்லவராக்கி இலங்கை மீனவர்களை கெட்டவர்களாக காட்டும் என்ற சந்தேகம் நிலவுகிறது.
+
+இவ்வாறு நடந்தால் இலங்கை அரசாங்கத்துக்கு எதிரான தமிழக மீனவர்களின் போராட்டம் ஈழத்தமிழர்களுக்கு எதிரானதாக திரும்பும்.
+
+...
+
+[Data](articles/1a1d8320.json)
+
+---
 
 ### Catastrophe
 
@@ -2247,29 +2265,5 @@ National People's Power Member Anura Kumara Dissanayake and Anuradhapura MP Dumi
 [Data](articles/c0686067.json)
 
 [Extended Data](ext_articles/c0686067.ext.json)
-
----
-
-### NPP’s AKD calls Sri Lanka speaker a parasite
-
-*2024-03-20 13:35:00* · [`economynextcom`](https://economynext.com/npps-akd-calls-sri-lanka-speaker-a-parasite-155358/) · `en`
-
-ECONOMYNEXT – Leader of the National People’s Power, Anura Kumara Dissanayake said the speaker of Sri Lanka’s parliament is a parasite that acts on behalf of the government.
-
-“He has brought his entire family into parliament,” Dissanayake said Wednesday during the no-confidence debate against speaker Mahinda Yapa Abeywardena. Dissanayake read out several names of the alleged family members employed in the speaker’s office.
-
-“An entire Yapa generation (paramparavak) is here,” Dissanayake said, “One of his sons is the Development Lotteries Board chairman.”
-
-“Because he is beholden to the executive, he acts as a parasite.”
-
-Minister Nimal Siripala de Silva who followed Dissanayake in speaking said that the speaker had erred in giving too much time for the opposition and this was a case of ‘biting the hand that feeds them’.
-
-He also said the NPP were wolves in sheep’s clothing. (Colombo/Mar20/2024)
-
-◼️
-
-[Data](articles/c8188c64.json)
-
-[Extended Data](ext_articles/c8188c64.ext.json)
 
 ---

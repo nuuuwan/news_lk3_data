@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 21:03:48**
+As of **2024-03-20 21:19:18**
 
 ## Newspaper Stats
 
-*Scraped **14,158** Articles*
+*Scraped **14,159** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,223
 adaderanalk | 1,701
 tamilmirrorlk | 1,714
 virakesarilk | 1,987
-dailymirrorlk | 2,170
+dailymirrorlk | 2,171
 adaderanasinhalalk | 2,259
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,156 (100.0%) of 14,158 articles have been extended.
+14,158 (100.0%) of 14,159 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### CC members who abstained from voting should resign: Mahindananda
+
+*2024-03-20 20:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CC-members-who-abstained-from-voting-should-resign-Mahindananda/108-279252) · `en`
+
+Parliament, March 20 (Daily Mirror)- The Constitutional Council members who abstained from voting when approving Deshabandu Tennakoon as IGP should resign immediately, government MP Mahindananda Aluthgamage told Parliament today.
+
+"Those two members should not be in the Constitutional Council if they cannot come to a firm decision, MP Aluthgamage said.
+
+"We request that the Constitutional Council be dissolved if its members continue to behave as they do now," he also said.
+
+◼️
+
+[Data](articles/ac5eba6f.json)
+
+---
 
 ### Intermittent fasting linked to high risk of cardiovascular death, study reveals
 
@@ -48,19 +64,27 @@ Researchers, led by Dr Victor Zhong of the Shanghai Jiao Tong University School 
 
 [Data](articles/6b23b3c7.json)
 
+[Extended Data](ext_articles/6b23b3c7.ext.json)
+
 ---
 
-### போராட்டத்தில்  33 பேர் பொலிஸாரால்  கைது
+### 33 people arrested by police
 
 *2024-03-20 20:31:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராட்டத்தில்-33-பேர்-பொலிஸாரால்-கைது/175-334947) · `ta`
 
-முன்னிலை சோசலிசக் கட்சியின் ஏற்பாட்டில் இடம்பெற்ற 'மக்கள் போராட்டம்' எதிர்ப்பு ஊர்வலத்தில் கலந்து கொண்ட துமிந்த நாகமுxவ, லஹிருவீரசேகர உள்ளிட்ட 33 பேர் பொலிஸாரால்  கைது செய்யப்பட்டுள்ளனர்.
+33, including Duminda Nagamu X and Lahiruweerasekara, arrested by police in a Socialist Party event. Tensions escalated in Colombo Fort with police using water cannons and tear gas to control demonstrators.
 
-கொழும்பு புறக்கோட்டையில் ஆர்ப்பாட்டக்காரர்களை கட்டுப்படுத்த பொலிஸார், தண்ணீர் பாய்ச்சல் மற்றும் கண்ணீர்ப்புகை தாக்குதல் நடத்தியதையடுத்து அங்கு பதற்ற நிலை ஏற்பட்டது.
+🟩
+
+33 people, including Duminda Nagamu X and Lahiruweerasekara, have been arrested by the police in the arrangement of the Socialist Party.
+
+There was a tension in the Colombo Fort after police carried out a water flow and tear gas attack to control the demonstrators.
 
 ◼️
 
 [Data](articles/3c3cef22.json)
+
+[Extended Data](ext_articles/3c3cef22.ext.json)
 
 ---
 
@@ -2307,27 +2331,5 @@ The total number of passengers using the BIA in 2022 was 5 million, with a proje
 [Data](articles/592ea69e.json)
 
 [Extended Data](ext_articles/592ea69e.ext.json)
-
----
-
-### Tourist arrivals hit new high this year
-
-*2024-03-20 12:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-arrivals-hit-new-high-this-year/108-279232) · `en`
-
-Colombo, March 20 (Daily Mirror) - Owing to President Ranil Wickremesinghe's economic initiatives and the peaceful environment fostered within the country, the arrival of foreign tourists has risen, Airport and Aviation Services (Sri Lanka) Ltd. Chairman Athula Galkatiya said.
-
-Consequently, the Bandaranaike International Airport (BIA), Katunayake has seen a notable increase in air passenger usage.
-
-The Chairman said that from January 1 to March 19, 2024, the number of air passengers who utilized BIA services amounted to 850,000.
-
-He noted that it is anticipated approximately 10 million passengers will utilize the airport by the end of this year.
-
-The total number of passengers using the BIA in 2022 was 5 million, with a projected increase to 8 million in 2023, the chairman said
-
-◼️
-
-[Data](articles/e0bcffc4.json)
-
-[Extended Data](ext_articles/e0bcffc4.ext.json)
 
 ---

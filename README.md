@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 09:03:18**
+As of **2024-03-20 09:17:47**
 
 ## Newspaper Stats
 
-*Scraped **13,990** Articles*
+*Scraped **13,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,38 @@ economynextcom | 743
 islandlk | 770
 adalk | 1,206
 adaderanalk | 1,682
-tamilmirrorlk | 1,695
+tamilmirrorlk | 1,696
 virakesarilk | 1,957
-dailymirrorlk | 2,139
+dailymirrorlk | 2,140
 adaderanasinhalalk | 2,226
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,988 (100.0%) of 13,990 articles have been extended.
+13,990 (100.0%) of 13,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### Spread of rabies due to intense heat
+
+*2024-03-20 09:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Spread-of-rabies-due-to-intense-heat/108-279198) · `en`
+
+The Veterinary Medical Officers' Association has warned on the imminent danger of rabies spreading due to the intense heat that severely affects dogs, cats and other animals.
+
+President of the association Dr. Sisisra Piyasiri said the people should be vigilant on complications affecting pets, livestock and animals used in agriculture,
+
+He said the production of eggs and milk per day could drop, if hens and cattle were exposed to the heat.
+
+Dr. Piyasiri stressed that a regular supply of water to animals and those in livestock farms should be maintained.
+
+◼️
+
+[Data](articles/892f2125.json)
+
+---
 
 ### Train delay on coastal line continues
 
@@ -47,6 +65,8 @@ Even though the preparations for trains towards Colombo have been completed, tra
 ◼️
 
 [Data](articles/e19dde14.json)
+
+[Extended Data](ext_articles/e19dde14.ext.json)
 
 ---
 
@@ -474,6 +494,22 @@ Sysco LABS Fosters the Next Generation of Future-Ready Sri Lankan Tech Talent
 
 ---
 
+### ’கிழக்கின் அபிவிருத்தி மூலம் நெருக்கடிக்கு தீர்வு’
+
+*2024-03-20 02:57:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கின்-அபிவிருத்தி-மூலம்-நெருக்கடிக்கு-தீர்வு/175-334914) · `ta`
+
+ஜனாதிபதியின் பணிப்புரையின் பேரில் கிழக்கு மாகாணத்தில் திட்டமிட்ட அபிவிருத்திப் பணிகளை முன்னெடுத்து வருகின்றோம். கிழக்கு மாகாணத்தை முழுமையாக அபிவிருத்தி செய்வதன் மூலம் நாட்டின் கடன் நெருக்கடியைத் தீர்க்க முடியும் என்று  கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு  தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பணிப்புரையின் பேரில், நாம் கிழக்கு மகாணத்தில் தற்போது பல்வேறு அபிவிருத்தி வேலைத் திட்டங்களை முன்னெடுத்து வருகின்றோம். முப்பது வருட யுத்தத்தில் பாதிக்கப்பட்ட மாகாணம் என்பதால் ஏனைய மாகாணங்களுடன் ஒப்பிடுகையில் கிழக்கு மாகாணம் வளர்ச்சியில் பின்னடைவைச் சந்தித்துள்ளது. எனவே இந்த மாகாணத்திற்குரிய மூன்று மாவட்டங்களினதும் வளர்ச்சியில் அதிக கவனம் எடுக்குமாறு ஜனாதிபதி எனக்கு அறிவுறுத்தியுள்ளார்.
+
+...
+
+[Data](articles/4c0d9093.json)
+
+---
+
 ### Microsoft Agreement with the Ministry of Education
 
 *2024-03-20 02:55:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சுடன்-மைக்ரோசொப்ட்-ஒப்பந்தம்/175-334913) · `ta`
@@ -520,25 +556,31 @@ Yall. Federation of District Rural Fisheries Organizations. The Federation of Di
 
 ---
 
-### 'නංගිගෙයි මගෙයි බිස්නස් එක තමයි V & S බේකර්ස්'
+### "The business of the Hitanigai is V & S Bakers
 
 *2024-03-20 02:33:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clwe10pxvgzo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, කොරෝනා වසංගතය පැවති සමයේ ඔන්ලයින් අධ්‍යාපනය සඳහා ජංගම දුරකතන භාවිතයත් සමග ආහාර සකස් කරන වීඩියෝ නැරඹීමෙන් මේ ගැන උනන්දුවක් ඇති වූ බව ඇය පවසන්නීය.
+"V & S Bakers, run by 12 & 13-year-old sisters, sells cakes and bakery products. Despite parents not focusing on money, they've adapted to the Corona Epidemic by using mobile phones, with guidance from teachers."
 
-අධ්‍යාපන කටයුතු කරන අතරේ කේක් ඇතුළු බේකරි නිෂ්පාදන සිදු කරන සහෝදරියන් දෙදෙනෙකු ගැන කෑගල්ල, රංවල ප්‍රදේශයන් අසන්නට ලැබිණි.
+🟩
 
-අවුරුදු 12ක් සහ 13ක් වයසැති එම දියණියන් දෙදෙනා 'V & S බේකර්ස්' නමින් තම නිෂ්පාදන අලෙවි කරති.
+It is not included in this regard.
 
-'නංගිගෙයි මගෙයි බිස්නස් එක තමයි V & S බේකර්ස්'. අම්මලාට සල්ලි නැති වෙලාවට ඉගන ගන්නේ අපි කේක් හදන සල්ලි වලින්'' යනුවෙන් පෙමින්දි සේනාරත්න BBC සිංහල සේවයට පැවසුවාය.
+While educational activities, two sisters, including the cake, hear about two sisters, including the cake, and hear of bakery products.
 
-කොරෝනා වසංගතය පැවති සමයේ ඔන්ලයින් අධ්‍යාපනය සඳහා ජංගම දුරකතන භාවිතයත් සමග ආහාර සකස් කරන වීඩියෝ නැරඹීමෙන් මේ ගැන උනන්දුවක් ඇති වූ බව ඇය පවසන්නීය.
+The two daughters of 12 and 13 years old sell their products as 'V & S Bakers'.
 
-ඒ සඳහා පාසලේ ගුරුවරුන්ගේ ද සහය සහ මග පෙන්වීම ලැබෙන අතර දරුවන් හොඳින් අධ්‍යාපන කටයතු සිදු කරන බව ද මව්පියෝ පවසති.
+"The business of the Hitanigai is V & S Bakers. When the mothers do not study money at the money of the cake, Senaratne told the BBC Sinhala service.
+
+She says that it was interested in using mobile phones with mobile phones with mobile phones during the Corona Epidemic.
+
+The parents say that the teachers of the school are also guided and guidance and children will be well-induced.
 
 ◼️
 
 [Data](articles/6e9aa24e.json)
+
+[Extended Data](ext_articles/6e9aa24e.ext.json)
 
 ---
 
@@ -2175,51 +2217,5 @@ Faiszer Musthapha PC with Shaheeda Barrie, Mehran Careem, Pulasthi Rupasinghe an
 [Data](articles/bd865f70.json)
 
 [Extended Data](ext_articles/bd865f70.ext.json)
-
----
-
-### “Central Bank has no authority to increase salary”
-
-*2024-03-19 17:48:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளத்தை-அதிகரிக்க-மத்திய-வங்கிக்கு-அதிகாரம்-இல்லை/175-334894) · `ta`
-
-Justice Minister Vijayadasa Rajapakse stated that the Central Bank cannot increase employee salaries without Parliament's permission, contradicting the Central Bank's claim of autonomy under the new Central Bank Act. Opposition leaders criticized the government's delay in addressing the salary increase issue.
-
-🟩
-
-Justice Minister Vijayadasa Rajapakse has said that the Central Bank does not have the authority to increase the salaries of employees without the permission of Parliament and that the action to increase their salary is false.
-
-He said in Parliament that the Parliament has the authority on public funds according to the Constitution and that the Central Bank cannot increase the salaries of its employees without the permission of Parliament.
-
-The Minister added that the Central Bank's claim that he had freedom to make decisions based on the new Central Bank Act was false and that any law should come under the Constitution.
-
-"Freedom of the Central Bank under the new Central Bank Act to ensure that political interference. We expected the central bank to act in accordance with the needs of the country. Unfortunately, he explained his position that the central bank had first increased the salary of its employees.
-
-...
-
-[Data](articles/2b942130.json)
-
-[Extended Data](ext_articles/2b942130.ext.json)
-
----
-
-### Sri Lanka president told cabinet he’ll contest election: UNP gen secy
-
-*2024-03-19 17:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-told-cabinet-hell-contest-election-unp-gen-secy-155244/) · `en`
-
-ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe has informed the cabinet of ministers that he intends to contest the presidential election, United National Party (UNP) general secretary Palitha Range Bandara said.
-
-The former parliamentarian told a television talk show on the privately owned Swarnavahani on Monday March 18 that Wickremesinghe will contest the election, not from the UNP, but as a neutral candidate. Bandara was ostensibly referring to a grand alliance that has been speculated to be formed under the UNP leadership.
-
-President Wickremesinghe, however, has yet to officially announce his candidacy. At what had all the appearance of a campaign launch event held on March 10, he did not explicitly express his intention to run.
-
-Pressed by the interviewer, Bandara said: “If he hasn’t said anything, why would we go around the country and organise?”
-
-“He told the cabinet. He said today too. He has said which election would be held and that he’d be running,” he said.
-
-...
-
-[Data](articles/334dbbb5.json)
-
-[Extended Data](ext_articles/334dbbb5.ext.json)
 
 ---

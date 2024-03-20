@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 18:33:20**
+As of **2024-03-20 18:52:21**
 
 ## Newspaper Stats
 
-*Scraped **14,138** Articles*
+*Scraped **14,139** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 734
 economynextcom | 757
 islandlk | 770
 adalk | 1,220
-adaderanalk | 1,698
+adaderanalk | 1,699
 tamilmirrorlk | 1,709
 virakesarilk | 1,986
 dailymirrorlk | 2,169
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,122 (99.9%) of 14,138 articles have been extended.
+14,138 (100.0%) of 14,139 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,23 +44,51 @@ He was appointed when the Committee met for the first time today (20) and his na
 
 [Data](articles/2322a314.json)
 
+[Extended Data](ext_articles/2322a314.ext.json)
+
 ---
 
-### වියට්නාමයේ ජනපති ඉල්ලාඅස්වෙයි
+### President holds in Vietnam
 
 *2024-03-20 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194745) · `si`
 
-වියට්නාමයේ ජනාධිපති Vo Van Thuongගේ ඉල්ලා අස්වීම එරට කොමියුනිස්ට් පක්ෂය පිළිගෙන තිබේ.
+The Communist Party of Vietnam has accepted President Vo Van Thuong's resignation, which came after his initial resignation. The party acknowledges Vo Van Thuong's conduct as President's trust and expresses severe damage to its reputation.
 
-එරට ජනාධිපති ලෙස පත්වූ Vo Van Thuong වසරක් පමණක් ගතවීමෙන් අනතුරුව මෙලෙස ඉල්ලා අස්වීම විශේෂත්වයකි.
+🟩
 
-මේ අතර නිවේදනයක් නිකුත් කරමින් කොමියුනිස්ට් පක්ෂය පවසන්නේ Vo Van Thuong ජනපති පක්ෂයේ විශ්වාසය පළුදුවන අයුරින් වැඩකටයුතු සිදුකර ඇති බවය.
+The Communist Party has accepted the resignation of President Vo Van Thuong of Vietnam.
 
-එමගින් පක්ෂයේ කීර්තිනාමයට බරපතළ හානියක් සිදුව ඇති බවද වියට්නාමයේ කොමියුනිස්ට් පක්ෂය සඳහන් කර තිබේ.
+The resignation is significantly after the resignation of VO Van THUONG.
+
+Meanwhile, the Communist Party says the Communist Party says that Vo Van Thuong has been conducted as the President's trust.
+
+The Communist Party (Communist Party) stated that the party's reputation has been severely damaged.
 
 ◼️
 
 [Data](articles/d9ced49b.json)
+
+[Extended Data](ext_articles/d9ced49b.ext.json)
+
+---
+
+### Vietnam’s president resigns after just over a year in office
+
+*2024-03-20 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98084/vietnams-president-resigns-after-just-over-a-year-in-office) · `en`
+
+The Vietnamese Communist Party has accepted the resignation of President Vo Van Thuong, the government said on Wednesday, in a sign of political turmoil that could hurt foreign investors’ confidence in the country.
+
+The government said in a statement that Thuong had violated party rules, adding that those “shortcomings had negatively impacted public opinion, affecting the reputation of the Party, State and him personally”.
+
+The Central Party Committee, a top decision-making body in Communist Party-ruled Vietnam, approved Thuong’s resignation just about a year after his election.
+
+The president holds a largely ceremonial role but is one of the top four political positions in the Southeast Asian nation.
+
+The committee’s meeting preceded an extraordinary session of Vietnam’s rubber-stamping parliament scheduled on Thursday, when deputies are expected to confirm the party’s decisions.
+
+...
+
+[Data](articles/043f457e.json)
 
 ---
 
@@ -105,6 +133,8 @@ Minister Pasqual said Prime Minister Dinesh Gunawardena during his Chinese visit
 ...
 
 [Data](articles/e18d1287.json)
+
+[Extended Data](ext_articles/e18d1287.ext.json)
 
 ---
 
@@ -182,6 +212,8 @@ A bond maturing on 01.07.2032 closed at 12.25/50 percent down from 12.35/55 perc
 
 [Data](articles/671568cf.json)
 
+[Extended Data](ext_articles/671568cf.ext.json)
+
 ---
 
 ### Public servants in France buning down
@@ -253,6 +285,8 @@ The Medical Faculty Students' Union (MFSU) staged a protest in front of the Heal
 ◼️
 
 [Data](articles/509f9543.json)
+
+[Extended Data](ext_articles/509f9543.ext.json)
 
 ---
 
@@ -530,6 +564,8 @@ Bandara, a medical doctor, claimed that the issue of private medical universitie
 
 [Data](articles/9d93496b.json)
 
+[Extended Data](ext_articles/9d93496b.ext.json)
+
 ---
 
 ### Sri Lanka continues to maintain neutrality in global affairs, including Ukraine - Putin has revealed that the intervention of the West has failed - the Russian Ambassador to Sri Lanka
@@ -581,6 +617,8 @@ Bandara, a medical doctor, claimed that the issue of private medical universitie
 ...
 
 [Data](articles/2fa6f426.json)
+
+[Extended Data](ext_articles/2fa6f426.ext.json)
 
 ---
 
@@ -659,6 +697,8 @@ The 12-month yield rose 12 basis points to 10.38 percent, with 40 billion rupees
 ◼️
 
 [Data](articles/c0cb0428.json)
+
+[Extended Data](ext_articles/c0cb0428.ext.json)
 
 ---
 
@@ -1046,6 +1086,8 @@ An office assistant’s salary was hiked to 186,000 rupees, it was revealed in p
 
 [Data](articles/8b7fe2e0.json)
 
+[Extended Data](ext_articles/8b7fe2e0.ext.json)
+
 ---
 
 ### Time-restricted eating linked to 91% higher risk of cardiovascular death
@@ -1362,6 +1404,8 @@ He also said the NPP were wolves in sheep’s clothing. (Colombo/Mar20/2024)
 
 [Data](articles/c8188c64.json)
 
+[Extended Data](ext_articles/c8188c64.ext.json)
+
 ---
 
 ### World's happiness country - where Sri Lanka got
@@ -1622,6 +1666,8 @@ Containers were queued at the Colombo Port due to the trade union action by the 
 
 [Data](articles/009c96ff.json)
 
+[Extended Data](ext_articles/009c96ff.ext.json)
+
 ---
 
 ### Another ingenuous murder in Canada
@@ -1677,6 +1723,8 @@ ECONOMYNEXT – Sri Lanka’s State Minister of Finance has told Dr Krishnamurth
 ...
 
 [Data](articles/095d3c65.json)
+
+[Extended Data](ext_articles/095d3c65.ext.json)
 
 ---
 
@@ -1962,6 +2010,8 @@ The trade union action was abandoned following positive discussions and other ou
 
 [Data](articles/b5e4ca52.json)
 
+[Extended Data](ext_articles/b5e4ca52.ext.json)
+
 ---
 
 ### Electronic bill of electricity bills
@@ -2202,6 +2252,8 @@ ADB will help build capacity at the newly set up National Agency for Public Priv
 
 [Data](articles/dd519c4d.json)
 
+[Extended Data](ext_articles/dd519c4d.ext.json)
+
 ---
 
 ### Award for the 18th year for Lanka Deepa
@@ -2291,29 +2343,5 @@ The report of the Parliamentary Committee on the Government Fund on the salary i
 [Data](articles/8fe8133b.json)
 
 [Extended Data](ext_articles/8fe8133b.ext.json)
-
----
-
-### Third suspect arrested over deadly shooting in Pitigala
-
-*2024-03-20 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98072/third-suspect-arrested-over-deadly-shooting-in-pitigala) · `en`
-
-Another suspect has been arrested in connection with his alleged complicity in the fatal shooting reported in Pitigala last week.
-
-The 31-year-old was taken into custody in Kahaduwa of Elpitiya police division on Tuesday afternoon (March 19).
-
-Additionally, 2g and 250mg of heroin were also found on the suspect at the time of the arrest, according to the police.
-
-Meanwhile, earlier this week, two other suspects, aged 35 years, were apprehend over the shooting incident that killed two individuals in Pitigala. One suspect was charged with helping orchestrate the crime while the other was charged with aiding and abetting the shooting.
-
-On March 11, two unidentified assailants on a motorcycle had opened fire using a T-56 firearm near a shop located at the Guruwala Junction in Pitigala, killing two people and critically injuring three others.
-
-The police later said the two shooting victims were merely bystanders who tragically lost their lives in the gunfire and did not have any criminal records.
-
-◼️
-
-[Data](articles/ec001c63.json)
-
-[Extended Data](ext_articles/ec001c63.ext.json)
 
 ---

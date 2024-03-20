@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 06:53:41**
+As of **2024-03-20 07:16:13**
 
 ## Newspaper Stats
 
-*Scraped **13,961** Articles*
+*Scraped **13,971** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,55 +14,157 @@ dbsjeyarajcom | 190
 newsfirstlk | 363
 dailyftlk | 734
 economynextcom | 742
-islandlk | 761
+islandlk | 770
 adalk | 1,206
 adaderanalk | 1,678
 tamilmirrorlk | 1,693
 virakesarilk | 1,957
 dailymirrorlk | 2,132
-adaderanasinhalalk | 2,221
+adaderanasinhalalk | 2,222
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,959 (100.0%) of 13,961 articles have been extended.
+13,961 (99.9%) of 13,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### කාලගුණයේ වෙනසක්
+### මුහුදුබඩ මාර්ගයේ දුම්රිය ධාවනයට තවදුරටත් බාධා - දුම්රිය කිහිපයක් අවලංගු කෙරේ
+
+*2024-03-20 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194708) · `si`
+
+කොළඹ කොටුව දුම්රිය ස්ථානය ආසන්නයේදී සිදුවූ දුම්රිය පීලිපැනීම හේතුවෙන් මුහුදුබඩ මාර්ගයේ දුම්රිය ධාවනයට තවදුරටත් බාධා එල්ල වී තිබේ.
+
+දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේ, කොළඹ කොටුවේ සිට දකුණු කළුතර බලා ඊයේ (19) රාත්‍රී 7.15 පමණ ධාවන වූ සීඝ්‍රගාමී දුම්රිය කොටුව හා කොම්පඤ්ඤ වීදිය දුම්රිය ස්ථාන අතරදී පීලිපැනීමට ලක්ව ඇති බවය.
+
+මේ හේතුවෙන් මුහුදු බඩ මාර්ගයේ මාර්ග දෙකම අවහිර වී ඇති අතර දුම්රිය පීලිගත කිරීමේ කටයුතු තවදුරටත් සිදුකරමින් සිටින බව දුම්රිය දෙපාර්තමේන්තුවේ නියෝජ්‍ය සාමාන්‍යාධිකාරී එන්. ජේ ඉඳිපොලගේ මහතා සඳහන් කළේය.
+
+දුම්රිය පීලිපැනීම හේතුවෙන් ඊයේ රාත්‍රී ගාල්ල තැපැල් දුම්රිය ඇතුළු දුම්රිය ගමන්වාර 4ක් අවලංගු කර තිබේ.
+
+අද (20) උදෑසන කොළඹ දක්වා ධාවන වන දුම්රියන් මහලේකම් කාර්යාල දුම්රිය ස්ථානය දක්වා පමණක් ධාවනය වන අතර කොළඹ සිට ධාවන වන දුම්රියන් ප්‍රමාද වී ධාවනය කරන බව දුම්රිය දෙපාර්තමේනතුව සඳහන් කළේය.
+
+උදෑසන 7.00 පමණ වන විට එක් දුම්රිය මාර්ගයක ධාවන කටයුතු සිදුකිරීමට හැකි වනු ඇති බව නියෝජ්‍ය සාමාන්‍යාධිකාරී එන්. ජේ ඉඳිපොලගේ මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/8e812f75.json)
+
+---
+
+### A change in the weather
 
 *2024-03-20 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194707) · `si`
 
-දිවයිනේ, විශේෂයෙන් දකුණු අර්ධයේ පවතින වියළි කාලගුණයේ තාවකාලික වෙනසක් අද (20) දිනයෙන් පසු අපේක්ෂා කළ හැකිය.
+The island's southern half will experience temporary dry weather changes. The Department of Meteorology predicts showers in the Eastern Province and thundershowers in the Western, Sabaragamuwa, Nuwara Eliya, Galle, and Matara districts. Some areas in the Sabaragamuwa, Central provinces, and Galle and Kalutara districts may be moderately affected.
 
-කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කළේ, නැගෙනහිර පළාතේ වැසි ස්වල්පයක් ඇතිවිය හැකි බවය.
+🟩
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් නුවරඑළිය, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+The island, especially dry weather in the southern half, can expect a temporary change in the dry weather.
 
-සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ කළුතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+The Department of Meteorology announced that there would be a few showers in the Eastern Province.
+
+Showers or thundershowers will occur at a few nights in the Western and Sabaragamuwa, Nuwara Eliya, Galle and Matara districts.
+
+Some locations in the Sabaragamuwa and Central provinces and in some places are expected to be metaded in the Galle and Kalutara districts.
 
 ◼️
 
 [Data](articles/5971f297.json)
 
+[Extended Data](ext_articles/5971f297.ext.json)
+
 ---
 
-### ’அரபிக்கடலுக்கு செல்ல வேண்டாம்’
+### CSE turnover crosses Rs. 4 billion, LOLC Finance contributes more than 50%
+
+*2024-03-20 05:20:00* · [`islandlk`](http://island.lk/cse-turnover-crosses-rs-4-billion-lolc-finance-contributes-more-than-50/) · `en`
+
+Profit takings were noted at the Colombo Stock Market yesterday which continued from the previous day. But the turnover touched more than Rs 4 billion with the major internal transfer/crossing from the LOLC Finance, which contributed more than 50 percent to the day’s turnover thus creating a positive sentiment.
+
+With the global palm oil shortage, due to drought conditions in palm oil producing countries, Watawala Plantation which was also one of the manufactures of palm oil indicated a significant price appreciation in their stocks. Its share price shot up to Rs 91.30 from Rs 88.80, which was a three percent or Rs 2.50 price increase, market analysts said.
+
+...
+
+[Data](articles/391e6d33.json)
+
+---
+
+### Seylan Bank Continues Partnership with Kedalla Construction Expo 2024 as Title Partner for 12th Consecutive Year
+
+*2024-03-20 05:05:00* · [`islandlk`](http://island.lk/seylan-bank-continues-partnership-with-kedalla-construction-expo-2024-as-title-partner-for-12th-consecutive-year/) · `en`
+
+Seylan Bank announced its ongoing partnership with Kedalla Construction Expo 2024 as the Title Partner for the 12th consecutive year. The expo, recognized as Sri Lanka’s premier construction and home decor exhibition, is organised by Asia Exhibitions & Conventions (Pvt) Ltd and is scheduled to take place from March 22nd to March 24th at the Bandaranaike Memorial International Conference Hall (BMICH).
+
+Seylan Bank, with its comprehensive range of banking products and services, will be a prominent presence at the event. Visitors can explore a diverse portfolio of offerings including Housing and Personal Loans, Leasing Facilities, Credit Cards, Current and Savings Products, and more.
+
+...
+
+[Data](articles/6471ac53.json)
+
+---
+
+### Growing Together: Sarvodaya Development Finance’s Pledge to Elevate Sri Lanka’s Agriculture Sector
+
+*2024-03-20 05:05:00* · [`islandlk`](http://island.lk/growing-together-sarvodaya-development-finances-pledge-to-elevate-sri-lankas-agriculture-sector/) · `en`
+
+Sarvodaya Development Finance (SDF) is more than just a financial institution; it serves as a driving force for change within Sri Lanka’s agricultural domain. With a steadfast dedication to the nation’s farming community, SDF has embarked on a transformative journey to uplift the Agri Sector, exceeding expectations in terms of support, sustainability, and growth.
+
+In an impressive achievement, SDF’s agri portfolio has surged beyond LKR 4 billion, highlighting the trust and confidence bestowed upon the institution by farmers across the country. Over half of the pledged units have already been settled well ahead of the schedule, showcasing the strong bond between SDF and the farming community.
+
+...
+
+[Data](articles/ed53a7f1.json)
+
+---
+
+### Sysco LABS launches its ‘Mentor Mash’ growth and experience-sharing program
+
+*2024-03-20 04:47:00* · [`islandlk`](http://island.lk/sysco-labs-launches-its-mentor-mash-growth-and-experience-sharing-program/) · `en`
+
+Sysco LABS officially unveiled ‘Mentor Mash’, its inaugural mentorship program for colleagues, reinforcing the company’s dedication to nurture talent and foster professional growth. The initiative, unveiled on January 31st, marks a significant milestone in Sysco LABS’ talent development strategy, ensuring greater sharing of experiences and knowledge between mentors and mentees.
+
+CEAT Kelani named one of 10 best-managed companies in Sri Lanka by CPM
+
+Seylan Bank Continues Partnership with Kedalla Construction Expo 2024 as Title Partner for 12th Consecutive Year
+
+Sysco LABS recognised as Lanka’s premier technology exporter at Presidential Export Awards
+
+Sysco LABS recognised as Sri Lanka’s Premier Technology Exporter at the Presidential Export Awards
+
+Sysco LABS reaches another milestone in strengthening Sri Lanka’s IT talent pipeline
+
+Sysco LABS supports AHRP’s Annual HR Think Tank Event for 2023
+
+Sysco LABS Fosters the Next Generation of Future-Ready Sri Lankan Tech Talent
+
+...
+
+[Data](articles/8b7eed99.json)
+
+---
+
+### Don't go to the Arabian Sea
 
 *2024-03-20 02:31:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரபிக்கடலுக்கு-செல்ல-வேண்டாம்/175-334911) · `ta`
 
-அரபிக்கடலில் மீன்பிடி நடவடிக்கைகளில் ஈடுபட வேண்டாம் என மீனவர்களுக்கு மீன்பிடி திணைக்களத்தினால் அறிவுறுத்தல் விடுக்கப்பட்டுள்ளது.
+Fishermen are advised not to fish in the Arabian Sea due to dangerous conditions in the Somalia Marine Zone. The Sri Lankan navy and the Department of Fisheries have identified hazardous zones, advising against fishing there.
 
-சோமாலிய கடல் வலயத்தில் இருந்து 700 கடல் மைல் தொலைவில் கிழக்கு திசையில் சர்வதேச கடற்பரப்பில் மிகவும் அபாயமான நிலை காணப்படுவதாக இலங்கை கடற்படை அறிவித்துள்ளதாக திணைக்களம் விடுத்துள்ள அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-இந்த நிலைமையை கருத்திற்கொண்டு நீண்டநாள் மீன்பிடிப் படகுகள் இயலுமான வரை தற்போது பெயரிடப்பட்டுள்ள அபாய வலயத்தைத் தவிர்த்து அரபிக்கடலின் கிழக்கு பிராந்தியத்தில் மீன்பிடி நடவடிக்கைகளில் ஈடுபடுமாறு மீன்பிடி திணைக்களத்தினால் அறிவுறுத்தல் விடுக்கப்பட்டுள்ளது.  (a)
+Fishermen have been instructed by the Department of Fisheries not to engage in fishing activities in the Arabian Sea.
+
+The Department of Sri Lanka has announced that the Sri Lankan navy has announced that there is a very dangerous situation in the international waters in the east of the Somalia Marine Zone, 700 nautical miles.
+
+Considering the situation, the Department of Fisheries has been instructed to engage in fishing activities in the eastern region of the Arabian Sea, except for the present -day hazardous zones as long as possible.(a)
 
 ◼️
 
 [Data](articles/898fc2ac.json)
+
+[Extended Data](ext_articles/898fc2ac.ext.json)
 
 ---
 
@@ -2109,125 +2211,5 @@ Wickremeratne in a statement said 31 appointees to the COPE must not be associat
 [Data](articles/40f077ae.json)
 
 [Extended Data](ext_articles/40f077ae.ext.json)
-
----
-
-### Sri Lanka stocks close down, turnover at 4bn
-
-*2024-03-19 16:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-at-4bn-155212/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
-
-The broader All Share Index closed down 0.39 percent, or 44.54 points, at 11,276; while the S&P SL20 Index closed down 0.85 percent, or 27.46 points, at 3,209.
-
-Turnover was at 4 billion. Most of this (2.9mn) came from an off board crossing on LOLC Finance Plc, the share closed flat at 5.50.
-
-“Market moved up for a continuous period, so possibly there was some profit-taking that came in today,” participants said.
-
-“Selling pressure was high around bluechips, such as John Keells Holdings (down at 190.25), and banking stocks, such as HNB (down at 166.75).”
-
-Major contributors to the Index included Ceylon Beverage Holdings Plc (up at 1,532.75), Ceylon Tobacco Company Plc (up at 1,198.25), and Sampath Banka Plc (up at 77.90). (Colombo/Mar19/2024)
-
-◼️
-
-[Data](articles/d309b91d.json)
-
-[Extended Data](ext_articles/d309b91d.ext.json)
-
----
-
-### Plans afoot to issue licenses for 200 wine stores, 15 already issued: Sajith alleges
-
-*2024-03-19 16:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Plans-afoot-to-issue-licenses-for-200-wine-stores-15-already-issued-Sajith-alleges/108-279167) · `en`
-
-Parliament, March 19 (Daily Mirror)- The government is planning to issue licenses to open 200 wine stores under the FL4 category and 15 of them have already been issued, Opposition Leader Sajith Premadasa alleged in Parliament today.
-
-He told Parliament that the government must reveal whether a decision has been taken to issue licenses to 200 wine stores, of which 15 have already been given.
-
-Premadasa also revealed that six liquor manufacturing licenses have already been issued targeting the elections.
-
-He said the move is being made under the new Commissioner General of the Excise Department M.J. Gunasiri.
-
-State Minister of Finance Shehan Semasinghe said the government has not acted outside the prevailing legal framework and that a complete answer will be given to the question if it was raised properly.
-
-...
-
-[Data](articles/208b954f.json)
-
-[Extended Data](ext_articles/208b954f.ext.json)
-
----
-
-### Petitions filed by two young girls
-
-*2024-03-19 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194692) · `si`
-
-The Supreme Court dismissed two fundamental rights petitions filed by two young girls against the police, who were arrested during a protest. The petitions were rejected, with the police stating the girls were not subjected to inhumane treatment.
-
-🟩
-
-The Supreme Court today (19) today (19) today, the Supreme Court today decided to dismiss two fundamental rights petitions filed against the police.
-
-The two men who participated in a protest held by the Socialist Students Association of the Lipton Roundabout on September 22, 2022, said that they were arrested and produced before the court and released on bail.The fundamental rights petitions were filed by the girls.
-
-The order was issued by a three-member Supreme Court Madulak Madulak, who appeared for the respondents at the time of the respondents.
-
-The Senior State Counsel appearing in the courts regarding the incident, the Senior State Counsel appeared in the petition, the police said in court that the two girls had not been inhumane.
-
-Accordingly, the issues presented by petition is not acceptable and the government asked the court to refuse it.
-
-The three-member panel of judges decided not to be heard without the examination without being heard without the examination.
-
-...
-
-[Data](articles/07256e84.json)
-
-[Extended Data](ext_articles/07256e84.ext.json)
-
----
-
-### Robbery
-
-*2024-03-19 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/179136) · `ta`
-
-A robbery occurred at a shopping center in Janapathi, owned by the Lindulai Police Division, on Sunday night. The shopkeeper reported the theft of 80,675 rupees, telephone re-cards, and cigarette boxes to the Lindula Police Station on Monday morning. No arrests have been made, and the Lindula police are collaborating with the Nuwara Eliya Forensic Police on the investigation.
-
-🟩
-
-The campus, which belongs to the Lindulai Police Division, has been robbed in the Janapathi area.
-
-The robbery had taken place on Sunday night (17) night and the owner of the shopkeeper came to the shopping center on Monday (18) morning and had lodged a complaint at the Lindula Police Station.
-
-The owner has lodged a complaint at the police station that the thieves who broke into the second entrance door through the top of the shopping center have been robbed by the owner of 80,675 rupees and telephone re -cards and cigarette boxes.
-
-No one has been arrested in connection with this robbery. It is noteworthy that Lindula police are conducting investigations with the Nuwara Eliya Forensic Police.
-
-◼️
-
-[Data](articles/75b00023.json)
-
-[Extended Data](ext_articles/75b00023.ext.json)
-
----
-
-### Customs make a strong decision
-
-*2024-03-19 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194691) · `si`
-
-Customs personnel continue union action today, supported by Minister Ranjith Siyambalapitiya.
-
-🟩
-
-The Customs personnel have been continued to continue the working union action today (19th).
-
-Speaking to the media after a discussion with state minister Ranjith Siyambalapitiya, Minister of Finance Ranjith Siyambalapitiya.
-
-Customs officials, Customs Superintendents and Customs Staff Officers have commenced this vocational action.
-
-◼️
-
-[Data](articles/9de7b1f7.json)
-
-[Extended Data](ext_articles/9de7b1f7.ext.json)
 
 ---

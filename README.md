@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 19:50:48**
+As of **2024-03-20 20:03:00**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,257
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,147 (100.0%) of 14,151 articles have been extended.
+14,151 (100.0%) of 14,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### යාපනයේදී ජීවිත දෙකක් මුහුදට බිලිවෙයි
+### Two lives in Jaffna ran to sea
 
 *2024-03-20 19:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194747) · `si`
 
-යාපනය ඉලවලයි ප්‍රදේශයේ මුහුදු වෙරළේ දිය නෑමට ගිය පුද්ගලයින් දෙදෙනකු දියේ ගිලී මියගොස් තිබේ.
+In Jaffna, two individuals drowned at the Ilanei beach. One was 2 years old, the other 35. Post-mortem and police investigation ongoing.
 
-මෙලෙස මියගොස් ඇත්තේ යාපනය ප්‍රදේශයේම පදිංචි වයස අවුරුදු 30 සහ 35 යන වයස්වල පසුවන දෙදෙනෙකි.
+🟩
 
-මෘත දේහ සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණය සිදුකිරීමට නියමිත අතර ඉලවලයි පොලීසිය වැඩිදුර පරීක්ෂණ සිදුකරයි.
+Two persons were drowned in the sea beach in the Ilanei area in Jaffna.
+
+The deceased has been identified as two and 35 years of age and 35 years in Jaffna.
+
+The post mortem will be conducted on the dead and the Ilawala Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/bc6e657e.json)
+
+[Extended Data](ext_articles/bc6e657e.ext.json)
 
 ---
 
@@ -66,19 +72,27 @@ He further highlighted that the total number of passengers using the Bandaranaik
 
 [Data](articles/2d882f26.json)
 
+[Extended Data](ext_articles/2d882f26.ext.json)
+
 ---
 
-### அயர்லாந்து பிரதமர் இராஜினாமா
+### Ireland's Prime Minister resigns
 
 *2024-03-20 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179272) · `ta`
 
-45 வயதான லியோ வராத்கர் 2022 ஆம் ஆண்டு முதல் அயர்லாந்தின் பிரதமராக பதவி வகித்து வருகிறார்.  2017 முதல் 2020 ஆம் ஆண்டு வரையான காலத்திலும் அவர் பிரதமராக பதவி வகித்தார்.
+Leo Varadkar, Ireland's Prime Minister since 2022, resigns after serving as leader of the Fine Gael Party.
 
-இந்நிலையில், ஆளும் பினா கய்ல் கட்சியின் தலைவர் பதவியிலிருந்து இராஜினாமா  செய்துள்ள லியோ வராத்கர், புதிய பிரதமர் தெரிவானவுடன் பிரதமர் பதவியிலிருந்தும் விலகவுள்ளதாக அறிவித்துள்ளார்.
+🟩
+
+45 -year -old Leo Varadkar has been the Prime Minister of Ireland since 2022.He was the Prime Minister from 2017 to 2020.
+
+In this case, Leo Varadkar, who has resigned from the post of ruling Bina Kail Party leader, has announced that he will resign from the post of Prime Minister.
 
 ◼️
 
 [Data](articles/41ceeeb1.json)
+
+[Extended Data](ext_articles/41ceeeb1.ext.json)
 
 ---
 
@@ -128,23 +142,33 @@ Pakistani batsman Barber Assam has been able to save 824 runs in the front front
 
 ---
 
-### රෝහිතගේ සභාපතිත්වයෙන් කෝප් කමිටුව රැස්වෙයි
+### COPE meeting will meet with Rohitha's
 
 *2024-03-20 18:32:32* · [`adalk`](https://www.ada.lk/breaking_news/රෝහිතගේ-සභාපතිත්වයෙන්-කෝප්-කමිටුව-රැස්වෙයි/11-408727) · `si`
 
-කෝප් කමිටු ඉතිහාසයේ පළමු වරට නව කාරක සභාව ආරම්භයට පෙර, කාරක සභාවේ අරමුණු හා ක්‍රියාකාරිත්වය පිළිබඳව සභාපතිවරයාගෙන් පැහැදිලි කිරීමක් -
+COPE Committee's first meeting introduced its objectives and functionality. Sri Lanka's Kingdom Plantation Corporation was called to prepare a Corporate Plan in 2 months, conduct an immediate survey, and submit all information. Parliamentarian Rohitha Abeygunawardena highlighted the Committee's role. The Government Plantation Corporation faced financial losses, with the Auditor General noting profitability for only four years in 27. The Plantation Corporation was criticized for financial losses, improper use of fertilizers and herbicides, and high-cost employees. The Chairman ordered legal actions against illegal land acquisitions and instructed officials to address outstanding payments within two months. The Plantation Corporation was presented to the Kaduka Select Committee for 2024-2028, with questions about profitability proposals.
 
-නව කෝප් කමිටුව හමුවට ප්‍රථමයෙන්  ශ්‍රී ලංකා රාජ්‍ය වැවිලි සංස්ථාව කැඳවයි - වසර 27 ක්  තුළ වැවිලි සංස්ථාව ලාභ ලබා ඇත්තේ වසර 4ක් පමණයි - කෝප් කමිටුවේදී හෙළිවෙයි
+🟩
 
-වැවිලි සංස්ථාවේ ඉදිරි වැඩපිළිවෙල ඇතුළත් කර  මාස 02 තුළ සංයුක්ත සැළැස්මක්( corporate plan ) සකස් කරන්න  - කෝප් කමිටුවෙන් උපදෙස්
+Prior to the first time in the history of the COPE Committee, the chairman explains the Committee objectives and functionality -
 
-සංස්ථාව සතු සියලු ඉඩම් වහාම මැනුම් කර සියලු  තොරතුරු  ඇතුළත්  වාර්තාවක් ලබා දෙන්න - කෝප් කමිටුවෙන් උපදෙස්
+Sri Lanka's Kingdom Plantation Corporation is called before the new COPE Committee
 
-පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව (කෝප් කමිටුව ) සඳහා  ආයතන 363ක් කැඳවීමට හැකි වුවත් මෙතෙක්  ආයතන 102ක් කමිටුව හමුවට කැඳවා නොමැති බව පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා පැවසුවේය.
+Prepare a Corporate Plan in 02 months - the Corp Committee advises
+
+Immediate Survey and submit all information in the Corporation - Tips from the COPE Committee
+
+Parliamentarian Rohitha Abeygunawardena said that the Committee on Public Enterprises (COPE) (CHOGM) could be summoned to the committee.
+
+When the Committee on Public Enterprises met with his Chairman yesterday (19). Prior to the commission of the Committee, the Chairman made a full presentation of the COPE Committee and the functioning of the Committee. It is the first time a new chairman in the history of COPE committee.
+
+The Government Plantation Corporation was summoned for the COPE COPE for the years 2017 and 2017 and the current performance checks.
 
 ...
 
 [Data](articles/34226efc.json)
+
+[Extended Data](ext_articles/34226efc.ext.json)
 
 ---
 

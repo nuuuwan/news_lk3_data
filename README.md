@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 09:17:47**
+As of **2024-03-20 09:33:51**
 
 ## Newspaper Stats
 
-*Scraped **13,992** Articles*
+*Scraped **13,993** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 770
 adalk | 1,206
 adaderanalk | 1,682
 tamilmirrorlk | 1,696
-virakesarilk | 1,957
+virakesarilk | 1,958
 dailymirrorlk | 2,140
 adaderanasinhalalk | 2,226
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,226
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,990 (100.0%) of 13,992 articles have been extended.
+13,992 (100.0%) of 13,993 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,22 @@ Dr. Piyasiri stressed that a regular supply of water to animals and those in liv
 ◼️
 
 [Data](articles/892f2125.json)
+
+[Extended Data](ext_articles/892f2125.ext.json)
+
+---
+
+### விமல் வீரவன்சவின் கருத்துக்கு தமிழ் பிரதிநிதிகள் கடும் எதிர்ப்பு - சாணக்கியன் கடும் சாடல்
+
+*2024-03-20 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179180) · `ta`
+
+வெடுக்குநாறி மலையில் சிவ வழிபாட்டில் ஈடுபட நீதிமன்றம் அனுமதி கொடுக்கவில்லை. வடக்கு மற்றும் கிழக்கு மாகாண தமிழ் பிரதிநிதிகள் இனவாதத்தை பேசி மத கலவரத்தை ஏற்படுத்த முயற்சிக்கிறார்கள் என்று தேசிய சுதந்திர முன்னணியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான விமல் வீரவன்ச குறிப்பிட்ட கருத்துக்கு தமிழ் பிரதிநிதிகள் கடும் எதிர்ப்பை வெளிப்படுத்தினார்கள்.
+
+வெடுக்குநாறி மலையில் மத வழிபாட்டில் ஈடுபட முடியும் என  நீதிமன்றம் அனுமதி வழங்கியுள்ளது.சட்ட விரோதமாக எம்மவர்கள் கைது செய்யப்பட்டதற்கே நாங்கள் எதிர்ப்பு தெரிவிக்கிறோம். நாங்கள் இனவாதம் பேசவில்லை. இனவாதத்தை பிரதான கொள்கையாக கொண்டு செயற்பட்ட இவரது அரசியல் கேள்விக்குள்ளாகியுள்ளது.எந்த கட்சியிலும் இவரால் போட்டியிட முடியாது. ஆகவே இந்த இனவாதிகள் நாட்டில் இருந்து நீக்கப்பட வேண்டும் என்று தமிழ் தேசிய கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம் கடுமையாக  சாடினார்.
+
+...
+
+[Data](articles/7af63c24.json)
 
 ---
 
@@ -494,19 +510,25 @@ Sysco LABS Fosters the Next Generation of Future-Ready Sri Lankan Tech Talent
 
 ---
 
-### ’கிழக்கின் அபிவிருத்தி மூலம் நெருக்கடிக்கு தீர்வு’
+### The solution to the crisis by the development of the East
 
 *2024-03-20 02:57:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கின்-அபிவிருத்தி-மூலம்-நெருக்கடிக்கு-தீர்வு/175-334914) · `ta`
 
-ஜனாதிபதியின் பணிப்புரையின் பேரில் கிழக்கு மாகாணத்தில் திட்டமிட்ட அபிவிருத்திப் பணிகளை முன்னெடுத்து வருகின்றோம். கிழக்கு மாகாணத்தை முழுமையாக அபிவிருத்தி செய்வதன் மூலம் நாட்டின் கடன் நெருக்கடியைத் தீர்க்க முடியும் என்று  கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் தெரிவித்தார்.
+The Eastern Province's development, led by Governor Senthil Thondaman, aims to alleviate the country's debt crisis. Focusing on shrimp, heavy resources, port, airport, water, tourism, and agriculture, the initiative seeks to improve the province's economy and address its historical setbacks.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு  தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்.
+🟩
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பணிப்புரையின் பேரில், நாம் கிழக்கு மகாணத்தில் தற்போது பல்வேறு அபிவிருத்தி வேலைத் திட்டங்களை முன்னெடுத்து வருகின்றோம். முப்பது வருட யுத்தத்தில் பாதிக்கப்பட்ட மாகாணம் என்பதால் ஏனைய மாகாணங்களுடன் ஒப்பிடுகையில் கிழக்கு மாகாணம் வளர்ச்சியில் பின்னடைவைச் சந்தித்துள்ளது. எனவே இந்த மாகாணத்திற்குரிய மூன்று மாவட்டங்களினதும் வளர்ச்சியில் அதிக கவனம் எடுக்குமாறு ஜனாதிபதி எனக்கு அறிவுறுத்தியுள்ளார்.
+We are carrying out systematic development work in the Eastern Province on the President's Work. Governor of the Eastern Province Senthil Thondaman said that the development of the Eastern Province could be solved by the country's debt crisis.
+
+He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that.
+
+On the directive of President Ranil Wickremesinghe, we are currently carrying out various development programs in the Eastern Province. The Eastern Province has suffered a setback compared to other provinces because of the thirty -year war.. Therefore, the President has advised me to take more attention to the development of the three districts of this province.
 
 ...
 
 [Data](articles/4c0d9093.json)
+
+[Extended Data](ext_articles/4c0d9093.ext.json)
 
 ---
 
@@ -2197,25 +2219,5 @@ Nishan Madushka will continue to play with Dimuth Karunaratne's initial pair. Ni
 [Data](articles/258cea90.json)
 
 [Extended Data](ext_articles/258cea90.ext.json)
-
----
-
-### Fonseka’s lawsuit against SJB: Court rejects Sajith’s objections
-
-*2024-03-19 17:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fonsekas-lawsuit-against-SJB-Court-rejects-Sajiths-objections/108-279168) · `en`
-
-Colombo, March 19 (Daily Mirror) - The Colombo District Court today rejected the objections raised by Samagi Jana Balawegaya (SJB) leader Sajith Premadasa, against the enjoining order which prevented the SJB from removing Field Marshal Sarath Fonseka from his party membership and positions.
-
-Accordingly, Colombo District Court Judge Sandun Vithana further extended its enjoining order preventing the SJB from removing Field Marshal Sarath Fonseka from party membership and positions till April 2.
-
-Sarath Fonseka had obtained an enjoining order, preventing the SJB from removing him on the basis of remarks he made against offering party membership to former Army Commander Daya Ratnayake.
-
-Faiszer Musthapha PC with Shaheeda Barrie, Mehran Careem, Pulasthi Rupasinghe and Amila Perera appeared for the plaintiff, while President’s Counsel Romesh De Silva with Farman Cassim PC appeared for SJB leader Sajith Premadasa.
-
-◼️
-
-[Data](articles/bd865f70.json)
-
-[Extended Data](ext_articles/bd865f70.ext.json)
 
 ---

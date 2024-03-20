@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 15:33:29**
+As of **2024-03-20 15:51:21**
 
 ## Newspaper Stats
 
@@ -26,77 +26,103 @@ adaderanasinhalalk | 2,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,087 (100.0%) of 14,092 articles have been extended.
+14,092 (100.0%) of 14,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### நாணயத்ததாள்களை சேதப்படுத்த தடை
+### Prohibition to damage the currency tala
 
-*2024-03-20 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/179228) · `ta`
+*2024-03-20 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179228) · `ta`
 
-நாட்டில் நாணயத்தாள்களை வேண்டுமென்றே உருவச்சிதைத்தல் அல்லது சேதப்படுத்தல் தொடர்பாக பொதுமக்களுக்கு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+The Central Bank of Sri Lanka warns against damaging currency notes, with penalties including a fine of Rs 2 crore 50 lakhs or up to three years in prison.
 
-ஆபரணங்கள் மற்றும் பரிசுப் பொருட்களை தயாரிப்பதற்கு நாணயத்தாள்கள் பயன்படுத்தப்படுவது தொடர்பில்  சமூக ஊடகங்களில்  விளம்பரங்கள் அவதானிக்கப்பட்டுள்ளதாகத் தெரிவித்துள்ளதாக  இலங்கை மத்திய வங்கி (CBSL) தெரிவித்துள்ளது.
+🟩
 
-நாணயத்ததாள்களை சேதப்படுத்துவது, தண்டனைக்குரிய குற்றமாகும் என  இலங்கை மத்திய வங்கி எச்சரிக்கை விடுத்துள்ளது.
+The public has been warned of intentionally or damage to currencies in the country.
 
-குற்றவாளிகள் என கண்டறியப்பட்டவர்களுக்கு 2 கோடியே 50 இலட்சம் ரூபாய் அபராதம் அல்லது அதிகபட்சம் மூன்று ஆண்டுகள் சிறைத்தண்டனை விதிக்கப்படும் என மத்திய வங்கி மேலும் தெரிவித்துள்ளது.
+The Central Bank of Sri Lanka (CBSL) said that ads have been observed on social media regarding the use of currency notes to make ornaments and gifts.
+
+The Central Bank of Sri Lanka has warned that damaging the currency notes is a punishable offense.
+
+The Central Bank further said that those who were found guilty will be sentenced to Rs 2 crore 50 lakhs or a maximum of three years in prison.
 
 ◼️
 
 [Data](articles/96e2a455.json)
 
+[Extended Data](ext_articles/96e2a455.ext.json)
+
 ---
 
-### 300 ரூபாவை விட குறைந்தது அமெரிக்க டொலரின் பெறுமதி
+### The value of the US dollar than 300 rupees
 
 *2024-03-20 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/179226) · `ta`
 
-இன்று புதன்கிழமை (மார்ச் 20) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலருக்கு நிகரான இலங்கை ரூபாவின் பெறுமதி மேலும் வலுவடைந்துள்ளது.
+The Sri Lankan rupee's value against the US dollar has strengthened, with the US dollar's procurement price dropping to Rs 299.1361, a first since July 2023.
 
-இதற்கமைய அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 299.1361 ஆகவும் விற்பனை விலை ரூபா 308.7249 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+🟩
 
-2023ம் ஆண்டு ஜூலை மாதத்திற்கு பின்னர் அமெரிக்க டொலரின் கொள்முதல் விலை 300 ரூபாவை விட குறைந்துள்ள முதற் சந்தர்ப்பம் இதுவாகும்.
+The value of the Sri Lankan rupee against the US dollar has been further strengthened based on the currency exchange rate released by the Central Bank on Wednesday (March 20).
+
+Accordingly, the price of the US dollar was Rs 299.1361 and the sales price were Rs 308.7249.
+
+This is the first time the US dollar procurement price declined by 300 rupees since July 2023.
 
 ◼️
 
 [Data](articles/72363ba8.json)
 
+[Extended Data](ext_articles/72363ba8.ext.json)
+
 ---
 
-### பாகிஸ்தான் சுரங்கத்தில் வெடிப்புச் சம்பவம்: 12 பேர் பலி
+### Explosive incident in Pakistan mine: 12 killed
 
 *2024-03-20 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/179232) · `ta`
 
-பாகிஸ்தானின் நிலக்கரி சுரங்கமொன்றில் ஏற்பட்ட வெடிப்புச் சம்பவத்தில் 12 பேர் உயிரிழந்துள்ளனர் என அதிகாரிகள் இன்று தெரிவித்துள்ளனர்.
+12 killed in Pakistan coal mine explosion. Rescue operations completed. 20 inside, 8 rescued, 12 killed.
 
-மீட்பு நடவடிக்கைகள் இன்று பிற்பகல் நிறைவடைந்ததாக பலோசிஸ்தான் மாகாண  சுரங்க கண்காணிப்பு அதிகாரி ஒருவர் தெரிவித்துள்ளார்.
+🟩
 
-வெடிப்புச் சம்பவம் இடம்பெற்றபோது சுரங்கத்துக்குள் 20 ஊழியர்கள் இருந்தனர். அவர்களில் 8 பேர் காப்பாற்றப்பட்டனர், 12 பேர் உயிரிழந்தனர் எனவும் அவர் கூறியுள்ளார்.
+Officials said that 12 people were killed in an explosion at a Pakistani coal mine.
+
+A Balochistan province mining surveillance official said the rescue operations were completed this afternoon.
+
+There were 20 employees inside the tunnel when the explosion took place. He said eight of them were rescued and 12 were killed.
 
 ◼️
 
 [Data](articles/9551e55e.json)
 
+[Extended Data](ext_articles/9551e55e.ext.json)
+
 ---
 
-### கோப் குழுவிலிருந்து அநுர குமார  உள்ளிட்ட 9 பேர் இதுவரை விலகல்
+### Nine people, including Anura Kumara from Cobb group
 
 *2024-03-20 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/179231) · `ta`
 
-அரசாங்க பொறுப்பு முயற்சிகள் பற்றிய (கோப்) குழுவிலிருந்து இன்று செவ்வாய்க்கிழமை (19) மேலும் மூவர் இராஜினாமா செய்துள்ளதுடன், அக் குழுவிலிருந்து இன்று வரை ஒன்பது உறுப்பினர்கள் தமது பதவியை இராஜினாமா செய்துள்ளனர்.
+Nine, including Anura Kumara, resigned from the Government Responsibility Committee. MPs Anuragumara Dissanayake, Vasanthappa Bandara, and Duminda Dissanayake also resigned. Following Rohitha Abeygunawardena's leadership, Kopku Group members resigned in protest. After P Eran Wickramaratne's resignation, opposition MPs Dayasiri Jayasekara, Saritha Herath, Hesha Vidanage, SM Markar, and Chanakyan resigned. They held a press conference explaining their resignations.
 
-இன்றைய தினம் பாராளுமன்ற உறுப்பினர்களான அனுரகுமார திசாநாயக்க, வசந்தயாப்பா பண்டார,மற்றும் துமிந்த திசாநாயக்க ஆகியோரும் தமது உறுப்பினர் பதவியிலிருந்து இராஜினாமா செய்துள்ளனர்
+🟩
 
-கோப்குழு தலைவராக  பொதுஜன பெரமுன உறுப்பினர் ரோஹித அபேகுணவர்தன நியமிக்கப்பட்டதைத் தொடர்ந்து  அதற்கு எதிர்ப்பு தெரிவிக்கும் வகையில் அந்தக் குழுவிலிருந்து  உறுப்பினர்கள் தமது உறுப்பினர் பதவிகளை இராஜினாமா செய்து வருகின்றனர்.
+Three more resigned from the Government Responsibility (COP) Committee on Tuesday (19) and nine members have resigned from the committee to date.
 
-மேற்படி குழுவிலிருந்து கடந்த திங்கட்கிழமை ஐக்கிய மக்கள் சக்தி எம். பி எரான் விக்ரமரட்ன பதவி விலகியதையடுத்து நேற்று முன்தினம்  எதிர்த்தரப்பு சுயாதீன எம்.பிக்களான  தயாசிறி ஜயசேகர, சரித்த ஹேரத், ஐக்கிய மக்கள் சக்தி எம்.பிக்களான  ஹேஷா விதானகே, , எஸ்.எம்.மரிக்கார் மற்றும் தமிழ்த் தேசியக் கூட்டமைப்பு எம்பி சாணக்கியன் ஆகியோரும் பதவி விலகினர்.
+Today, MPs Anuragumara Dissanayake, Vasanthappa Bandara and Duminda Dissanayake have resigned from their membership.
+
+Following the appointment of PA Member Rohitha Abeygunawardena as the leader of the Kopku Group, members are resigning their members from the committee to protest.
+
+The United People's Shakti M.. Following the resignation of P Eran Wickramaratne yesterday, opposition independent MPs Dayasiri Jayasekara, Saritha Herath, United People's Shakti MPs Hesha Vidanage,, SM Markar and Tamil National Alliance MP Chanakyan resigned.
+
+Yesterday, Dayasiri Jayasekara, Hesha Vidanage and Chanakyan Rasamanikam organized a press conference in the parliamentary building and explained to the media.
 
 ...
 
 [Data](articles/a5afd8e4.json)
+
+[Extended Data](ext_articles/a5afd8e4.ext.json)
 
 ---
 
@@ -106,7 +132,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Police resorted to using tear gas and water cannons to disperse a group of protesters in Pettah, Colombo.
 
-The demonstration had been organized by the ‘Jana Aragala Viyaparaya’ (People’s Struggle Movement), Ada Derana reporter said.
+The demonstration had been organized by the ‘Jana Aragala Viyaparaya’ (People’s Struggle Movement) based on several issues including the soaring cost of living and certain foreign agreements.
+
+The protest march had commenced from near the Fort Railway Station and they were heading in the direction of Pettah when riot police used tear gas and water cannons to disperse them , Ada Derana reporter said.
 
 ◼️
 
@@ -881,6 +909,8 @@ The total number of passengers using the BIA in 2022 was 5 million, with a proje
 ◼️
 
 [Data](articles/0820403d.json)
+
+[Extended Data](ext_articles/0820403d.ext.json)
 
 ---
 

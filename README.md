@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 14:18:04**
+As of **2024-03-20 14:34:09**
 
 ## Newspaper Stats
 
-*Scraped **14,076** Articles*
+*Scraped **14,077** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 745
 islandlk | 770
 adalk | 1,216
 adaderanalk | 1,692
-tamilmirrorlk | 1,704
+tamilmirrorlk | 1,705
 virakesarilk | 1,976
 dailymirrorlk | 2,157
 adaderanasinhalalk | 2,243
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,243
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,075 (100.0%) of 14,076 articles have been extended.
+14,076 (100.0%) of 14,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### ஷாஃப்டரின் விசாரணை: நீதிமன்றம் அதிரடி நினைவூட்டல்
+
+*2024-03-20 14:10:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஷாஃப்டரின்-விசாரணை-நீதிமன்றம்-அதிரடி-நினைவூட்டல்/175-334928) · `ta`
+
+படுகொலை செய்யப்பட்ட பிரபல வர்த்தகர் தினேஷ் ஷாப்டரின் கையடக்கத் தொலைபேசி மற்றும் கணினி தரவுகள் தொடர்பான நிபுணர் அறிக்கையை நீதிமன்றில் உடனடியாக சமர்ப்பிக்குமாறு கொழும்பு மேலதிக நீதவான் ஹர்ஷன கெக்குனுவெல அரசாங்க பரிசோதகர்க்கு நினைவூட்டல் கடிதம் ஒன்றை  புதன்கிழமை (20) வழங்கினார்.
+
+உயிரிழந்தவர் பயன்படுத்திய இலத்திரனியல் சாதனங்கள் தொடர்பில் அரசாங்கத்தின் இரசாயன பகுப்பாய்வாளரின் அறிக்கை இதுவரை கிடைக்கப்பெறவில்லை என முன்வைக்கப்பட்ட உண்மைகளை பரிசீலித்த நீதவான், நினைவூட்டல் கடிதத்தை வழங்க உத்தரவிட்டுள்ளார்.
+
+இறந்தவரின் கையடக்க தொலைபேசி எண்ணை மனைவிக்கு வியாபார நோக்கத்திற்காக வழங்குவது தொடர்பான கோரிக்கை அரசாங்கத்தின் நிபுணர் அறிக்கையைப் பெற்ற பின்னர் பரிசீலிக்கப்படும் என்றும் மேலதிக நீதவான் தெரிவித்தார்.
+
+தொடர்புடைய சிம்பை வழங்குவதற்கான சாத்தியக்கூறுகளை பரிசீலித்து, அடுத்த விசாரணை அமர்வில் அது தொடர்பான அறிக்கையை சமர்ப்பிக்குமாறு சிஐடியினரால் பொலிஸாருக்கு அறிவுறுத்தப்பட்டது.
+
+...
+
+[Data](articles/05480364.json)
+
+---
 
 ### Govt ready to make ongoing economic reforms a law – State Minister tells IMF
 
@@ -47,6 +65,8 @@ Semasinghe further said that wide-ranging topics were discussed around the curre
 ...
 
 [Data](articles/36bf4df0.json)
+
+[Extended Data](ext_articles/36bf4df0.ext.json)
 
 ---
 
@@ -2267,29 +2287,5 @@ The closures come as Chinese policymakers grapple with how to boost young couple
 [Data](articles/f0e80b8f.json)
 
 [Extended Data](ext_articles/f0e80b8f.ext.json)
-
----
-
-### A change in the weather
-
-*2024-03-20 06:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194707) · `si`
-
-The island's southern half will experience temporary dry weather changes. The Department of Meteorology predicts showers in the Eastern Province and thundershowers in the Western, Sabaragamuwa, Nuwara Eliya, Galle, and Matara districts. Some areas in the Sabaragamuwa, Central provinces, and Galle and Kalutara districts may be moderately affected.
-
-🟩
-
-The island, especially dry weather in the southern half, can expect a temporary change in the dry weather.
-
-The Department of Meteorology announced that there would be a few showers in the Eastern Province.
-
-Showers or thundershowers will occur at a few nights in the Western and Sabaragamuwa, Nuwara Eliya, Galle and Matara districts.
-
-Some locations in the Sabaragamuwa and Central provinces and in some places are expected to be metaded in the Galle and Kalutara districts.
-
-◼️
-
-[Data](articles/5971f297.json)
-
-[Extended Data](ext_articles/5971f297.ext.json)
 
 ---

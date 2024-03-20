@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 13:52:16**
+As of **2024-03-20 14:03:22**
 
 ## Newspaper Stats
 
-*Scraped **14,069** Articles*
+*Scraped **14,075** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,52 +15,124 @@ newsfirstlk | 363
 dailyftlk | 734
 economynextcom | 745
 islandlk | 770
-adalk | 1,214
-adaderanalk | 1,690
+adalk | 1,216
+adaderanalk | 1,691
 tamilmirrorlk | 1,704
 virakesarilk | 1,976
-dailymirrorlk | 2,156
-adaderanasinhalalk | 2,241
+dailymirrorlk | 2,157
+adaderanasinhalalk | 2,243
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,066 (100.0%) of 14,069 articles have been extended.
+14,069 (100.0%) of 14,075 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### இருவரும் இராஜினாமா
+### අධිකරණයට අපහාස කළ නීතිඥවරයා රිමාන්ඩ්
+
+*2024-03-20 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194731) · `si`
+
+විවෘත අධිකරණයේ දී අධිකරණයට අපහාස වන ආකාරයෙන් ක්‍රියා කළේ යැයි චෝදනා එල්ල වූ නීතිඥවරයෙකු රිමාන්ඩ් භාරයේ තැබීමට ශ්‍රේෂ්ඨාධිකරණය නියම කර තිබේ.
+
+අදාළ නීතිඥවරයා අප්‍රෙල් මස 03 වන දා අධිකරණයට ඉදිරිපත් කරන ලෙසද අධිකරණය නියෝග කරනු ලැබීය.
+
+මෙම නඩු විභාගය අවසන් වන තෙක් අදාළ නීතිඥවරයාගේ නීතිඥභාවය අත්හිටුවීමටද අධිකරණය තීන්දු කළේය.
+
+ප්‍රීති පද්මන් සූරසේන මහතා ප්‍රමුඛ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය ලබා දුන්නහ.
+
+◼️
+
+[Data](articles/e155ce37.json)
+
+---
+
+### මෝටර් රථයක් හෙලිකොප්ටරයක් කළ හැටි
+
+*2024-03-20 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194730) · `si`
+
+තමන්ගේ මෝටර් රථය හෙලිකොප්ටර් යානයක් ලෙස එහි භාහිර පෙනුම වෙනස් කළ පුද්ගලයෙකු දැක්වෙන වීඩියෝවක් මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වෙයි.
+
+කෙසේ වෙතත් සත්‍ය වශයෙන්ම මෙම සිදුවීම වාර්තා වී ඇත්තේ ඉන්දියාවෙනි.
+
+ඉන්දියාවේ උත්තර් ප්‍රදේශ් හි අම්බෙඩ්කා නගර් හි පුද්ගලයෙකු සිය මෝටර් රථයේ භාහිර පෙනුව වෙනස් කර මාර්ගයේ එම රථය ධාවනය කරමින් සිටියදී එය පොලිස් භාරයට ගෙන ඇත.
+
+ඔහු පවසන්නේ සිය රථය සකස් කිරීමෙන් අනතුරුව එය වර්ණ ගැන්වීම සඳහා රැගෙන යමින් සිටියදී මෙලෙස පොලිස් භාරයට ගත් බවය.
+
+එහිදී ඔහුට ඉන්දීය රුපියල් 2000කට ආසන්න දඩයක්ද නියම කර ඇති අතර රථය නිදහස් කර ඇත්තේ හෙලිකොප්ටරයක් ලෙස සකස් කළ පසුපස කොටස ගලවා ඉවත්කරන ලෙසට දැනුම්දෙමිනි.
+
+කෙසේ වෙතත් එම මෝටර් රථයේ අයිතිකරු පවසන්නේ තමන් මෙම රථය මාර්ගයේ ධාවනය කිරීමට සාදන ලද්දක් නොවන බවය.
+
+එය විවාහ උත්සව අවස්ථා හා විවිධ උත්සව සඳහා කුලියට ලබාදීමට සකස් කරන ලද්දක් බව ඔහු සඳහන් කර තිබේ.
+
+එම රථය සැකසීම සඳහා ඔහුට ඉන්දීය රුපියල් ලක්ෂ 2.5ක මුදලක් වැයවූ බවද විදෙස් මාධ්‍ය වෙත වැඩිදුරටත් සඳහන් කර තිබුණි.
+
+◼️
+
+[Data](articles/26a0182a.json)
+
+---
+
+### 2024 World Happiness Report: Sri Lanka ranked 128, Finland retains top spot
+
+*2024-03-20 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98076/2024-world-happiness-report-sri-lanka-ranked-128-finland-retains-top-spot) · `en`
+
+The World Happiness Report for 2024, released earlier this week, indicates that while the top 10 countries in the list have remained the same since before the Covid-19 pandemic, the United States and Germany have fallen in the rankings, making way for several Eastern European nations to rise on the list.
+
+As expected, Finland topped the list for the seventh year in a row, followed by Denmark, Iceland and Sweden. Israel too made it to the top five of the ranking. Meanwhile, Afghanistan was deemed the least happy country, after Congo, Sierra Leone, Lesotho and Lebanon.
+
+The United States fell in ranking from the 16th spot last year to the 23rd spot this year. This year, Canada took the 15th spot while the UK was at the 20, Germany at 24 and France at 27. Among Middle Eastern nations, the UAE was ranked 22 and Saudi Arabia 28. Among Asian nations, Singapore was at 30, Japan at 50 and South Korea at 51.
+
+...
+
+[Data](articles/0336bd92.json)
+
+---
+
+### Both resigns
 
 *2024-03-20 13:36:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவரும்-இராஜினாமா/175-334926) · `ta`
 
-தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் அனுரகுமார திஸாநாயக்க, ​அனுராதபுரம் பாராளுமன்ற உறுப்பினர் துமிந்த திஸாநாயக்க ஆகியோர், பொது நிறுவனங்கள் தொடர்பான பாராளுமன்ற  (கோப்) குழுவின் உறுப்புரிமையில் இருந்து இராஜினாமா செய்துள்ளனர்.
+Anura Kumara Dissanayake and Duminda Dissanayake resigned from the Parliamentary COP Committee on Public Funds.
+
+🟩
+
+National People's Power Member Anura Kumara Dissanayake and Anuradhapura MP Duminda Dissanayake have resigned from the membership of the Parliamentary (COP) Committee on Public Funds.
 
 ◼️
 
 [Data](articles/c0686067.json)
 
+[Extended Data](ext_articles/c0686067.ext.json)
+
 ---
 
-### ලොව සතුටුම රට - ශ්‍රී ලංකාවට හිමිවූ තැන
+### World's happiness country - where Sri Lanka got
 
 *2024-03-20 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194729) · `si`
 
-එක්සත් ජාතීන්ගේ සංවිධානය අනුග්‍රහය දක්වන ලෝක සතුටු වාර්තාවට අනුව මෙලෙස ෆින්ලන්තය අඛණ්ඩව 2024 වසරේ ද ලොව සතුටුම රට බවට නම් කර ඇති බව සඳහන්ය.
+In 2024, Finland tops the World Happiness Report, with Denmark second and Iceland leading. America and Germany are not in the top 20. Sri Lanka ranks 128th, and Afghanistan is the least happy country.
 
-ඩෙන්මාර්කය දෙවන ස්ථානයේත්, අයිස්ලන්තය තෙවන ස්ථානයේත් පසුවන අතර අඩු ජනගහණයක් සහිත කුඩා රටවල් රැසක් ලොව සතුටුදායක රටවල් අතර පෙරමුණට පැමිණ ඇති බව වාර්තා වේ.
+🟩
 
-වසර දහයකට පසු පළමු වරට අමෙරිකාව සහ ජර්මනිය ලොව සතුටුම රටවල් 20 අතර ඇතුළත් නොවන නමුත් කුවේට් සහ කොස්ටාරිකා යන රටවල් පළමු රටවල් 20 අතරට ඇතුළත් වන බව ලෝක සතුටු වාර්තාව පෙන්වාදෙයි.
+According to the World Happy World Assembly, Finland has been named in 2024 as the world's happiness in 2024.
 
-රටවල් 143ක් යොදාගනිමින් සිදුකර ඇති සමීක්ෂණයට අනුව ලොව අසතුටුදායකම රට බවට පත්ව ඇත්තේ ඇෆ්ගනිස්ථානයයි.
+The Denmark is second in the second place and Iceland has been in the forefront of the world's happy countries with a low country.
 
-එක්සත් ජාතීන්ගේ ලෝක සතුටු වාර්තාවට අනුව ශ්‍රී ලංකාව ලොව සතුටුම රටවල් දර්ශකයේ 128 වන ස්ථානයට පත්ව ඇති අතර ඉන්දීයාව, පාකිස්තානය, කෙන්යාව, උගන්ඩාව, ටියුනීසියාව යන රටවල්  ද ශ්‍රී ලංකාවට වඩා ඉහළ ස්ථානවල පසුවීම විශේෂත්වයකි.
+Ten years later, the first time America and Germany are not in the world in the world, Germany, the world's happiness rate includes in the first 20 countries.
+
+According to the survey by using 143 countries, Afghanistan has become the country's unatisfactory.
+
+According to the United Nations World Happy Sri Lanka, Sri Lanka has been ranked 128 in the world's happier countries.
 
 ◼️
 
 [Data](articles/1bc20999.json)
+
+[Extended Data](ext_articles/1bc20999.ext.json)
 
 ---
 
@@ -161,6 +233,30 @@ UN Human Rights Commissioner Volker Dark said this is a backogious move on human
 [Data](articles/e8006d87.json)
 
 [Extended Data](ext_articles/e8006d87.ext.json)
+
+---
+
+### Service by Indian Embassy
+
+*2024-03-20 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/179212) · `ta`
+
+Indian Embassy supports Jaffna fishermen's food-free struggle. Federation of Rural Fisheries Organizations and Jaffna District Fisheries Cooperative Societies Federation initiated the protest. Madagal fishermen joined the protest, marching to the Indian Embassy.
+
+🟩
+
+Those who came to fight for the fishermen who were engaged in a food -free struggle were in front of the Jaffna Indian Ambassador.
+
+The Federation of Rural Fisheries Organizations of Jaffna and the Jaffna District Fisheries Co -operative Societies Federation started a food avoidance struggle in front of St. John Posco Vidyalaya, Jaffna from Tuesday morning.
+
+In this backdrop, Madagal fishermen who came to support the site of the Food Avoidance Struggle and marched with the fishermen in front of the Jaffna Indian Embassy in front of the Jaffna Indian Embassy.
+
+As a result of this, the fishermen have come to the spot where the fishermen have been deployed and the fishermen have been protesting.
+
+◼️
+
+[Data](articles/fa2de4d0.json)
+
+[Extended Data](ext_articles/fa2de4d0.ext.json)
 
 ---
 
@@ -302,6 +398,26 @@ The country has already investigated further investigations.
 
 ---
 
+### ඉතිහාස පොත නිසා මිතුරා මිතුරියට පොත පෙරලයි
+
+*2024-03-20 12:36:52* · [`adalk`](https://www.ada.lk/breaking_news/ඉතිහාස-පොත-නිසා-මිතුරා-මිතුරියට-පොත-පෙරලයි/11-408721) · `si`
+
+ඉතිහාස පොත ඉල්ලා ගැනීමට නිවසට ආ පාසල් සිසුවියකට ලිංගික අතවර කල බව කියන පාසල් සිසුවෙකු සැකපිට ඊයේ  අත්අඩංගුවට ගත්බව පානදුර දකුණ පොලිසිය පවසයි .
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ පානදුර ප්‍රදේශයේ පදිංචි 16 හැවිරිදි පාසල් සිසුවෙකු බව පොලිසිය කීය.
+
+පාසල් සිසුවියගේ ඉතිහාස පොත අස්ථානගත වී ඇති අතර, සැකකාර සිසුවාගෙන් පොතක් ඉල්ලා ගැනීම සඳහා සිසුවිය ඔහුගේ නිවසට ගොස් තිබේ.
+
+ඇය සිසුවාගේ නිවසට යන අතරේ එම නිවසේ කිසිවෙක් සිට නොමැති අතර, සැකකාර සිසුවා සිසුවියට පහර දී බිය ගන්වා ලිංගික අතවර කර ඇති බවට පැමිණිල්ලේ සඳහන්ව ඇතැයි පොලිසිය කීය.
+
+සිසුවිය  රෝහල් ගතකර ඇති අතර, සිසුවා පානදුර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
+
+◼️
+
+[Data](articles/207b8d86.json)
+
+---
+
 ### Another member of the COPE committee resigns
 
 *2024-03-20 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194725) · `si`
@@ -394,30 +510,6 @@ He is also scheduled to meet the Sri Lankan Muslim and Tamil diaspora in Canada.
 
 ---
 
-### Service by Indian Embassy
-
-*2024-03-20 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179212) · `ta`
-
-Indian Embassy supports Jaffna fishermen's food-free struggle. Federation of Rural Fisheries Organizations and Jaffna District Fisheries Cooperative Societies Federation initiated the protest. Madagal fishermen joined the protest, marching to the Indian Embassy.
-
-🟩
-
-Those who came to fight for the fishermen who were engaged in a food -free struggle were in front of the Jaffna Indian Ambassador.
-
-The Federation of Rural Fisheries Organizations of Jaffna and the Jaffna District Fisheries Co -operative Societies Federation started a food avoidance struggle in front of St. John Posco Vidyalaya, Jaffna from Tuesday morning.
-
-In this backdrop, Madagal fishermen who came to support the site of the Food Avoidance Struggle and marched with the fishermen in front of the Jaffna Indian Embassy in front of the Jaffna Indian Embassy.
-
-As a result of this, the fishermen have come to the spot where the fishermen have been deployed and the fishermen have been protesting.
-
-◼️
-
-[Data](articles/fa2de4d0.json)
-
-[Extended Data](ext_articles/fa2de4d0.ext.json)
-
----
-
 ### Tourist arrivals hit new high this year
 
 *2024-03-20 12:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-arrivals-hit-new-high-this-year/108-279232) · `en`
@@ -461,6 +553,18 @@ Patients who visited the Clinic and Outpatient Division were facing various illn
 [Data](articles/6927d926.json)
 
 [Extended Data](ext_articles/6927d926.ext.json)
+
+---
+
+### Refrain from collecting Rs. 6780 million taxes
+
+*2024-03-20 12:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Refrain-from-collecting-Rs-6780-million-taxes/110-279231) · `en`
+
+A street drama titled "Sura Baba Komasaris" took place in front of the Excise Department. It depicted public sentiments and called on the authorities to refrain from collecting Rs. 678 million in taxes. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/5368f262.json)
 
 ---
 
@@ -721,6 +825,24 @@ The event will be attended by Ajantha Kumara Akalakada, editor of Daily Lanka, C
 [Data](articles/77b33a2a.json)
 
 [Extended Data](ext_articles/77b33a2a.ext.json)
+
+---
+
+### ලෝක ජ්‍යෙෂ්ඨ ශූරතා පාපන්දු තරගාවලියේ කිරුළ ලංකාවට
+
+*2024-03-20 11:18:04* · [`adalk`](https://www.ada.lk/sports/ලෝක-ජ්‍යෙෂ්ඨ-ශූරතා-පාපන්දු-තරගාවලියේ-කිරුළ-ලංකාවට/9-408719) · `si`
+
+ඉන්දියාවේ පැවති 09 වන අන්තර්ජාතික ජ්‍යෙෂ්ඨයින්ගේ ලෝක ශූරතා පාපන්දු ශූරතා තරගාවලියට පළමු වරට ශ්‍රී ලංකාව නියෝජනය කරමින් සහභාගී වූ " ඕල්ඩ් බෙන්සන් ජ්‍යෙෂ්ඨ " කණ්ඩායම , එම තරගාවලියේ ශූරතාවය දිනා ගෙන 03/20 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය.
+
+ඉන්දියාවේ බැංගලෝර් නුවර 03/17 දින පැවති මෙම තරගාවලියට ශ්‍රී ලංකාව , ඉන්දියාව , මැලේසියාව , නෝර්වේ , දකුණු අප්‍රිකාව සහ එංගලන්තය සහභාගී වී තිබුණි .
+
+අවසාන මහා තරගය ශ්‍රී ලංකාවේ ඕල්ඩ් බෙන්ස් ජ්‍යෙෂ්ඨ කණ්ඩායම  ජ්‍යෙෂ්ඨ කණ්ඩායම සමග නෝර්වේ කණ්ඩායම අතර පැවති අතර එහිදී නෝර්වේ කණ්ඩායම 2 - 1 ක් ලෙස පරාජය කරමින් ශ්‍රී ලංකා කණ්ඩායම ජයග්‍රහණය හිමි කර ගැනීමට සමත් වී තිබුණි .
+
+මෙම ජයග්‍රාහී ශ්‍රී ලංකා ඕල්ඩ් බෙන්ස් ජ්‍යෙෂ්ඨ කණ්ඩායම 03/20 දින අලුයම 01.25 ට ඉන්දියාවේ බැංගලෝර් නුවර සිට ස්පයිස් ජෙට් ගුවන් සේවයේ එස්.ජී.- 001 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබූ අතර ඔවුන් පිළිගැනීම සදහා සාන්ත බෙනඩික් විදුහලේ විදුහල්පති ආචාර්ය පුබුදු රාජපක්ෂ සහෝදරතුමා ඇතුළු පිරිසක් ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ .
+
+◼️
+
+[Data](articles/d58a240c.json)
 
 ---
 
@@ -1914,23 +2036,33 @@ He said that the recent shooting incidents reported in the Elpitiya Police divis
 
 ---
 
-### 'සාපරාධී ක්‍රියාවක්' වූ පාරට බුලත් කෙළ ගැසීමේ නීතිය ගැන ඔබ දන්නවා ද?
+### Are you aware of the law of collision, which is a 'criminal act'?
 
 *2024-03-20 07:47:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6pjlpe85g4o) · `si`
 
-'සාපරාධී ක්‍රියාවක්' වූ පාරට බුලත් කෙළ ගැසීමේ නීතිය ගැන ඔබ දන්නවා ද?
+The law of collision is a criminal act. Betel, a part of Sinhala culture, impacts Sri Lankan politics and public health. Betel spit is considered a criminal offense under Section 261 of the Penal Code, with fines for littering. Despite strict laws, enforcement is inconsistent, affecting public health and cleanliness.
 
-බුලත් යනු සිංහල සංස්කෘතිය සමග ඈත අතීතයේ සිට අත්‍යන්ත බැඳීමක් සහිත ශාකයක් වන අතර ශ්‍රී ලංකාවේ දේශපාලනය කෙරෙහි ද බුලත්වලින් බලපෑම් සිදුවූ අවස්ථා මෑත ඉතිහාසයේ පවා දැකිය හැකි ය.
+🟩
 
-"බුලත් විට වෙනුවට චුවින්ගම් හැපීමට සලසන ආර්ථිකයක් නිර්මාණය කරන," බවට ජනාධිපතිවරණයකදී මහජන රැලියක් අමතමින් වරක් රනිල් වික්‍රමසිංහ කළ ප්‍රකාශයක් විරුද්ධ පක්ෂවල නිර්දය ලෙස විවේචනයට ලක්වූයේ, "රනිල් වික්‍රමසිංහ ජනාධිපති වුවහොත් රටේ සංස්කෘතිය ඉවරයි," යනුවෙන් චෝදනා නගමිනි.
+Are you aware of the law of collision, which is a 'criminal act'?
 
-එම චෝදනා රනිල් වික්‍රමසිංහගේ දේශපාලනික ගමන්මගට බෙහෙවින් බලපෑවේ ය. රනිල් වික්‍රමසිංහ 'සිංහල සංස්කෘතිය' සමග බද්ධ නොවන චරිතයක් ලෙස අර්ථ දැක්වීමට එම චෝදනා දැවැන්ත බලපෑමක් එල්ල කළේ ය.
+The betel is a great tyranny from ancient times with Sinhala culture and is in recent history in recent history.
 
-ඊට අමතරව, රනිල්ට එල්ල වූ ප්‍රතිරෝධයට සමගාමීව ජනතා ආකර්ෂණය දිනා ගැනීමට මෙන් එක්සත් ජනතා නිදහස් සන්ධනයේ ඡන්ද සලකුණ ලෙස 'බුලත් කොළය' භාවිත කෙරිණි.
+A statement made by Ranil Wickremesinghe, Ranil Wickremesinghe was criticized by a public rally in a presidential election, "designs a chaining economy instead of a chewing thing to crispy." If Ranil Wickremesinghe is running out of the country.
+
+The accusations were very impact on the political movement of Ranil Wickremesinghe. Ranil Wickremesinghe gave a huge impact on the definition of 'Sinhala culture'.
+
+In addition, Ranil was used as the 'Bulath leaf' as the election mark of the UPFA to attract the public.
+
+The UPFA, who contested under the election, was able to hold Sri Lanka's control over the years. (However, the only reason to consolidate their control] is not the 'betel green'.)
+
+Accordingly, the betel is a cultural position that has an effective place in Sri Lankan politics.
 
 ...
 
 [Data](articles/29c48c1f.json)
+
+[Extended Data](ext_articles/29c48c1f.ext.json)
 
 ---
 
@@ -2133,129 +2265,5 @@ MPs Eran Wickramaratne, Dayasiri Jayasekera, Professor Charitha Herath, S. M. Ma
 [Data](articles/bc4e0924.json)
 
 [Extended Data](ext_articles/bc4e0924.ext.json)
-
----
-
-### CSE turnover crosses Rs. 4 billion, LOLC Finance contributes more than 50%
-
-*2024-03-20 05:20:00* · [`islandlk`](http://island.lk/cse-turnover-crosses-rs-4-billion-lolc-finance-contributes-more-than-50/) · `en`
-
-Profit takings were noted at the Colombo Stock Market yesterday which continued from the previous day. But the turnover touched more than Rs 4 billion with the major internal transfer/crossing from the LOLC Finance, which contributed more than 50 percent to the day’s turnover thus creating a positive sentiment.
-
-With the global palm oil shortage, due to drought conditions in palm oil producing countries, Watawala Plantation which was also one of the manufactures of palm oil indicated a significant price appreciation in their stocks. Its share price shot up to Rs 91.30 from Rs 88.80, which was a three percent or Rs 2.50 price increase, market analysts said.
-
-...
-
-[Data](articles/391e6d33.json)
-
-[Extended Data](ext_articles/391e6d33.ext.json)
-
----
-
-### Seylan Bank Continues Partnership with Kedalla Construction Expo 2024 as Title Partner for 12th Consecutive Year
-
-*2024-03-20 05:05:00* · [`islandlk`](http://island.lk/seylan-bank-continues-partnership-with-kedalla-construction-expo-2024-as-title-partner-for-12th-consecutive-year/) · `en`
-
-Seylan Bank announced its ongoing partnership with Kedalla Construction Expo 2024 as the Title Partner for the 12th consecutive year. The expo, recognized as Sri Lanka’s premier construction and home decor exhibition, is organised by Asia Exhibitions & Conventions (Pvt) Ltd and is scheduled to take place from March 22nd to March 24th at the Bandaranaike Memorial International Conference Hall (BMICH).
-
-Seylan Bank, with its comprehensive range of banking products and services, will be a prominent presence at the event. Visitors can explore a diverse portfolio of offerings including Housing and Personal Loans, Leasing Facilities, Credit Cards, Current and Savings Products, and more.
-
-...
-
-[Data](articles/6471ac53.json)
-
-[Extended Data](ext_articles/6471ac53.ext.json)
-
----
-
-### Growing Together: Sarvodaya Development Finance’s Pledge to Elevate Sri Lanka’s Agriculture Sector
-
-*2024-03-20 05:05:00* · [`islandlk`](http://island.lk/growing-together-sarvodaya-development-finances-pledge-to-elevate-sri-lankas-agriculture-sector/) · `en`
-
-Sarvodaya Development Finance (SDF) is more than just a financial institution; it serves as a driving force for change within Sri Lanka’s agricultural domain. With a steadfast dedication to the nation’s farming community, SDF has embarked on a transformative journey to uplift the Agri Sector, exceeding expectations in terms of support, sustainability, and growth.
-
-In an impressive achievement, SDF’s agri portfolio has surged beyond LKR 4 billion, highlighting the trust and confidence bestowed upon the institution by farmers across the country. Over half of the pledged units have already been settled well ahead of the schedule, showcasing the strong bond between SDF and the farming community.
-
-...
-
-[Data](articles/ed53a7f1.json)
-
-[Extended Data](ext_articles/ed53a7f1.ext.json)
-
----
-
-### Sysco LABS launches its ‘Mentor Mash’ growth and experience-sharing program
-
-*2024-03-20 04:47:00* · [`islandlk`](http://island.lk/sysco-labs-launches-its-mentor-mash-growth-and-experience-sharing-program/) · `en`
-
-Sysco LABS officially unveiled ‘Mentor Mash’, its inaugural mentorship program for colleagues, reinforcing the company’s dedication to nurture talent and foster professional growth. The initiative, unveiled on January 31st, marks a significant milestone in Sysco LABS’ talent development strategy, ensuring greater sharing of experiences and knowledge between mentors and mentees.
-
-CEAT Kelani named one of 10 best-managed companies in Sri Lanka by CPM
-
-Seylan Bank Continues Partnership with Kedalla Construction Expo 2024 as Title Partner for 12th Consecutive Year
-
-Sysco LABS recognised as Lanka’s premier technology exporter at Presidential Export Awards
-
-Sysco LABS recognised as Sri Lanka’s Premier Technology Exporter at the Presidential Export Awards
-
-Sysco LABS reaches another milestone in strengthening Sri Lanka’s IT talent pipeline
-
-Sysco LABS supports AHRP’s Annual HR Think Tank Event for 2023
-
-Sysco LABS Fosters the Next Generation of Future-Ready Sri Lankan Tech Talent
-
-...
-
-[Data](articles/8b7eed99.json)
-
-[Extended Data](ext_articles/8b7eed99.ext.json)
-
----
-
-### The solution to the crisis by the development of the East
-
-*2024-03-20 02:57:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிழக்கின்-அபிவிருத்தி-மூலம்-நெருக்கடிக்கு-தீர்வு/175-334914) · `ta`
-
-The Eastern Province's development, led by Governor Senthil Thondaman, aims to alleviate the country's debt crisis. Focusing on shrimp, heavy resources, port, airport, water, tourism, and agriculture, the initiative seeks to improve the province's economy and address its historical setbacks.
-
-🟩
-
-We are carrying out systematic development work in the Eastern Province on the President's Work. Governor of the Eastern Province Senthil Thondaman said that the development of the Eastern Province could be solved by the country's debt crisis.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that.
-
-On the directive of President Ranil Wickremesinghe, we are currently carrying out various development programs in the Eastern Province. The Eastern Province has suffered a setback compared to other provinces because of the thirty -year war.. Therefore, the President has advised me to take more attention to the development of the three districts of this province.
-
-...
-
-[Data](articles/4c0d9093.json)
-
-[Extended Data](ext_articles/4c0d9093.ext.json)
-
----
-
-### Microsoft Agreement with the Ministry of Education
-
-*2024-03-20 02:55:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சுடன்-மைக்ரோசொப்ட்-ஒப்பந்தம்/175-334913) · `ta`
-
-Microsoft and the Ministry of Education signed a MoU for an AI-based IT course program in 8+ districts, with Microsoft providing technical support. A meeting with President Ranil Wickremesinghe preceded the agreement, ensuring full AI integration in the curriculum.
-
-🟩
-
-A Memorandum of Understanding (Memorandum of Understanding) on the implementation of a pioneering program for the implementation of artificial intelligence in the information technology course for more than 8 students was signed between the Ministry of Education and Microsoft.
-
-It has been decided to implement this pioneer program for more than 8 students in 20 districts. It is mentioned here that it provides modern classrooms and technical equipment.
-
-Accordingly, a team of Microsoft will provide assistance to technically carry out educational activities.
-
-A meeting between President Ranil Wickremesinghe and Microsoft's representatives was held at the Presidential Office before the Memorandum of Understanding.
-
-Meanwhile, Microsoft representatives have assured the president that the school curriculum will be fully cooperating with artificial intelligence in the school curriculum. (A)
-
-◼️
-
-[Data](articles/65736f53.json)
-
-[Extended Data](ext_articles/65736f53.ext.json)
 
 ---

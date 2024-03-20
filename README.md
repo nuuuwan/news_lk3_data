@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 17:53:44**
+As of **2024-03-20 18:09:02**
 
 ## Newspaper Stats
 
@@ -26,53 +26,65 @@ adaderanasinhalalk | 2,253
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,111 (99.9%) of 14,120 articles have been extended.
+14,120 (100.0%) of 14,120 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### කොළඹ විරෝධයේදී අත්අඩංගුවට ගත් පිරිස ඉහළට
+### The arrested persons to protest in Colombo
 
 *2024-03-20 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194743) · `si`
 
-ජන අරගල ව්‍යාපාරයේ විරෝධයට එක්වූ 33ක් අත්අඩංගුවට ගෙන ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පවසයි.
+33 arrested in Colombo protest against People's Struggle Movement. Police used water and tear gas to disperse the march, which began at Fort Railway Station over issues like goods prices and foreign agreements.
 
-ජන අරගල ව්‍යාපාරය කොළඹ කොටුවේදී සංවිධානය කළ විරෝධතා පා ගමනක් විසුරුවා හැරීම සඳහා පොලීසිය අද පස්වරුවේ ජල හා කඳුළු ගෑස් ප්‍රහාරයක් එල්ලකළේය.
+🟩
 
-අත්අඩංගුවට ගත් පිරිස අතර භික්ෂූන් වහන්සේලා දෙදෙනෙක් සහ කාන්තාවන් තුන් දෙනෙක් ද වන බව අප වාර්තාකරු පැවසීය.
+According to the DIG Talduwa, police said that 33 have been arrested in protest of the People's Struggle Movement.
 
-භාණ්ඩ මිල ඉහළ යාම, විදෙස් ගිවිසුම් ඇතුළු කරුණු කිහිපයක් මුල්කරගෙන මෙම විරෝධතාව කොටුව දුම්රිය ස්ථානය අසලින් ආරම්භ කර තිබුණි.
+The police stabbed the water and tear gas this afternoon to disperse a protest march organized in Colombo Fort.
+
+Among the arrested persons, two monks and three women are also present.
+
+The protest had begun at the Fort Railway Station based on several issues, including the prices of goods, including foreign agreements.
 
 ◼️
 
 [Data](articles/5eaef7f3.json)
 
+[Extended Data](ext_articles/5eaef7f3.ext.json)
+
 ---
 
-### ප්‍රංශයේ රජයේ සේවකයෝ පාරට බසිති
+### Public servants in France buning down
 
 *2024-03-20 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194741) · `si`
 
-ප්‍රංශයේ ගුරුවරුන්, සෞඛ්‍ය සේවකයින් ඇතුළු සිවිල් සේවකයින් මිලියන ගණනක් දැවැන්ත වැඩවර්ජනයක් ආරම්භ කර තිබේ.
+In France, millions of civil servants, including teachers and health workers, are on strike, demanding salary increases and protesting educational reforms. Paris also saw a massive protest. Teachers are protesting the classification of students based on Grade 6. The strike is supported by foreign civil servants, who have joined the 5.7 million striking workers.
 
-ඒ වැටුප් ඉහළ දමන ලෙස ඉල්ලීම් කරමින් සහ රජයේ අධ්‍යාපනික ප්‍රතිසංස්කරණයකට විරෝධය පළ කරමිනි.
+🟩
 
-ඊට සමගාමීව පැරිස් අගනුවර පැවති දැවැන්ත විරෝධතාවක් පිළිබඳවද විදෙස් මාධ්‍ය වාර්තා කළේය.
+Millions of civil servants, including teachers, health workers in France, have launched a massive strike.
 
-ඊට ගුරුවරුන්ගේ, සෞඛ්‍ය සේවකයින්ගේ සහ මහජන පරිපාලන නිලධාරීන්ගේ සහාය හිමිව තිබුණි.
+By making payments to increase the salaries, and protesting to the government educational reform.
 
-වැඩවර්ජනය සඳහා ප්‍රංශ සිවිල් සේවකයින් මිලියන 5.7 ඉක්මවූ පිරිසක් එක්ව සිටින බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Parallel to this, Paris also reported a massive protest in the capital.
 
-ප්‍රංශ සිවිල් සේවකයින් මෙලෙස වැඩවර්ජනයක් ආරම්භ කර ඇත්තේ සිය වැටුප් ඉහළ දමන ලෙස ඉල්ලීම් කරමිනි.
+The support of teachers, health workers and public administration were supported.
 
-එමෙන්ම ප්‍රංශයේ පාසල්වල 6 ශ්‍රේණියෙන් පසුව සිසුන්ගේ ඉගෙනුම් මට්ටම මත පදනම්ව සිසුන් වර්ගීකරණය කිරීමේ රජයේ තීරණයට ද ගුරුවරුන්ගෙන් එල්ල වී ඇත්තේ දැඩි විරෝධයකි.
+Foreign people have joined 5.7 million civil servants for the strike, foreign media reports.
 
-සේවක වැටුප් ඉහළ දැමීම, උද්ධමනයේ ඉහළ යාමට අනුකූල නොවන බවට විරෝධතාකරුවන් චෝදනා කරයි.
+French civil workers have launched a strike, making the request of their wages.
+
+The teachers have also been protestable for the government decision to classify students based on the level of Grade 6 in French schools.
+
+Protesters allege that the increase in employee pay is not in accordance with the rise of inflation.
 
 ◼️
 
 [Data](articles/8535679f.json)
+
+[Extended Data](ext_articles/8535679f.ext.json)
 
 ---
 
@@ -104,19 +116,31 @@ The United Nations Sustainable Development Solutions Network is published annual
 
 ---
 
-### සිසුවියන්ට අමුතු විදියට ඉංග්‍රීසි ඉගැන්වු ගුරුවරයෙක්
+### A teacher who taught an English as awkward to the students
 
 *2024-03-20 17:00:47* · [`adalk`](https://www.ada.lk/breaking_news/සිසුවියන්ට-අමුතු-විදියට-ඉංග්‍රීසි-ඉගැන්වු-ගුරුවරයෙක්/11-408726) · `si`
 
-කුරුණෑගල නගරයේ ප්‍රසිද්ධ මිශ්‍ර පාසලක ලබන ලාබාල සිසුවියන් පිරිසක් ලිංගික අපයෝජනයට ලක් කිරීමේ සිද්ධියකට සම්බන්ධ ඉංග්‍රීසි ගරුවරයෙකු සැකපිට අත්අඩංගුවට ගත් බව කුරුණෑගල මූලස්ථාන පොලීසිය පවසයි. සැකකාර ගුරුවරයා වැල්ලව ප්‍රදේශයේ නිවසක සැඟවී සිටියදී පොලීසියට ලද තොරතුරකට අනුව සිද්ධියෙන් මාස හතරකට පසුව අත්අඩංගුවට ගෙන තිබේ.
+An English teacher in Kurunegala was arrested for sexually abusing students, four months after the incident. The teacher, a six-year-old unmarried man, was suspended. Parents and alumni are dissatisfied with the investigation by the North Western Provincial Education Department. The suspect was reportedly instructed by the District Secretary.
 
-මෙම අපයෝජන සිද්ධිය පසුගිය වසරේ නොවැම්බර් මාසයේදී වාර්තාවී තිබූ අතර එම සිද්ධියෙන් අනතුරුව සේවයට පවා වාර්තා නොකර සැකකරු තැනින් තැන සැඟවෙමින් සිටි බවද පොලීසිය සඳහන් කළේය.
+🟩
 
-මෙම අපයෝජන සිද්ධිය සම්බන්ධයෙන්  වයඹ පළාත් අධ්‍යාපන දෙපාර්තමේන්තුවට කරන ලද පැමිණිලි සම්බන්ධයෙන්  සිදු කෙරෙන විමර්ශන පිළිබඳව සෑහීමකට පත් නොවන බව දන්වමින් එම පාසලේ දෙමාපියන් සහ ආදි සිසුන් පිරිසක් එක්ව කුරුණෑගල දිස්ත්‍රික් ලේකම්වරයාටද පැමිණිලි කිරීමට පියවර ගෙන තිබුණි. දිස්ත්‍රික් ලේකම්වරයාගේ උපදෙස් අනුව කුරුණෑගල ළමාරක්ෂක අධිකාරියේ නිලධාරිනියන් විසින් කරන ලද විමර්ශනයකින්ද සැකකරු එම වරද සිදු කර ඇති බව අනාවරණයවී තිබේ.
+Kurunegala Headquarters Police say a group of English guarair has been arrested on suspicion of sexually abusing a public mixed school in Kurunegala. The suspect was a tip off the police, he was arrested four months after the incident.
+
+The incident had been reported in November last year, police said.
+
+A group of parents and alumni of the school have not yet been satisfied with the investigations into the North Western Provincial Education Department.. It has revealed that the suspect had also committed the suspect with the instructions of the District Secretary.
+
+The teacher who touches five of the bodies of five students of the school have been abused by the teacher who taught five bodies.
+
+The suspect, a six-year-old unmarried teacher, has been suspended after the incident.
+
+In November last year, it is said that the incident was advanced after the students were abused by the teacher in a few occasions.
 
 ...
 
 [Data](articles/d4d911a0.json)
+
+[Extended Data](ext_articles/d4d911a0.ext.json)
 
 ---
 
@@ -185,6 +209,8 @@ The demonstration had been organized by the ‘Jana Aragala Viyaparaya’ (Peopl
 ...
 
 [Data](articles/8bbdc111.json)
+
+[Extended Data](ext_articles/8bbdc111.ext.json)
 
 ---
 
@@ -280,6 +306,8 @@ Doubtful for at least a part of IPL 2024: Devon Conway (thumb injury – not ex
 
 [Data](articles/f07baa94.json)
 
+[Extended Data](ext_articles/f07baa94.ext.json)
+
 ---
 
 ### Diana wants swift action to stop tourists on visit visa doing business
@@ -297,6 +325,8 @@ The Minister said this issue should be resolved in a proper manner without creat
 ...
 
 [Data](articles/7232bc2e.json)
+
+[Extended Data](ext_articles/7232bc2e.ext.json)
 
 ---
 
@@ -434,7 +464,7 @@ Accordingly, UNICEF emphasizes that the Haitians will face a severe famine.
 
 *2024-03-20 16:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lawyer-remanded-for-contemptuous-behavior-before-Supreme-Court/108-279241) · `en`
 
-Colombo, March 20 (Daily Mirror) - The Supremae Court today ordered the remand of a lawyer accused of his contemptuous behavior in the Supreme Court.
+Colombo, March 20 (Daily Mirror) - The Supreme Court today ordered the remand of a lawyer accused of his contemptuous behavior in the Supreme Court.
 
 The Supreme Court further ordered the prison authorities to produce this lawyer before the court again on April 3. The court further ordered the suspension of this attorney from engaging in legal practice until the conclusion of the hearing into the case.
 
@@ -607,6 +637,8 @@ The protest, orchestrated by the 'Jana Aragala Viyaparaya' (People’s Struggle 
 ◼️
 
 [Data](articles/d416e0e8.json)
+
+[Extended Data](ext_articles/d416e0e8.ext.json)
 
 ---
 
@@ -876,21 +908,27 @@ Attorney Jayatunga has been placed in interrogation. High Court Judges Prithi Pa
 
 ---
 
-### කටුනායකින් මගින් 850000ක් සේවය ලබාගෙන
+### 850000 service from Katunayake
 
 *2024-03-20 14:16:35* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකින්-මගින්-850000ක්-සේවය-ලබාගෙන/11-408724) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගෙන යන ආර්ථික වැඩපිළිවෙළ සහ රට තුළ ගොඩනැඟී ඇති සාමකාමී පරිසරය හේතුවෙන් විදෙස් සංචාරකයන්ගේ පැමිණිම ඉහළ ගොස් ඇති බවත්, ඒ අනුව කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළ ගුවන් මගීන් වැඩි වශයෙන් භාවිතා කරන ස්ථානයක් බවට පත්ව ඇති බවත් ගුවන් තොටුපළ හා ගුවන් සේවා ශ්‍රී ලංකා පුද්ගලික සමාගමේ සභාපති අතුල ගල්කැටිය මහතා පැවසීය.
+Katunayake Sri Lanka Ltd. Chairman Athala reported 850,000 passengers from Jan 1 to Mar 1, 2024, aiming for 10 million by year-end. The airport's 2022 passenger count was 5 million.
 
-ඒ මහතා පෙන්වා දෙන ආකාරයට 2024 වසරේ ජනවාරි මස 01 වැනිදා සිට මාර්තු මස 19 වැනිදා දක්වා කාලය තුළ ගුවන්තොටුපළ සේවා ලබාගත් ගුවන් මගීන් සංඛ්‍යාව 850,000කි.
+🟩
 
-එසේම මේ වසර අවසානය වන විට ගුවන් මගීන් මිලියන 10ක පමණ පිරිසක් ගුවන්තොටුපළ භාවිතා කරනු ඇතැයි විශ්වාස කරන බවද ඒ මහතා සඳහන් කළේය.
+Sri Lanka (Pvt) Ltd.Chairman Athala, Athala, said.
 
-2022 වසරේ කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළ භාවිතා කළ සමස්ත මගින් ප්‍රමාණය මිලියන 05ක් වන බවත්, 2023 වසරේදී එම ප්‍රමාණය මිලියන 08 දක්වා වැඩි කර ගැනීමට හැකි වූ බවත් ගල්කැටිය මහතා පෙන්වා දෙයි.
+According to Mr. Heroices, 850,000 passengers obtained from 1st January to March 1, 2024.
+
+He also believed to use 10 million passengers to use the airport by the end of this year, he said.
+
+The total number of Katunayake Bandaranaike International Airport in the Katunayake Bandaranaike International Airport in 2022 was 5 million and increased to Rs.
 
 ◼️
 
 [Data](articles/b19d76d4.json)
+
+[Extended Data](ext_articles/b19d76d4.ext.json)
 
 ---
 
@@ -1778,21 +1816,27 @@ The Hy-Paddy drugs currently in use can stop the spread of the virus, but it fai
 
 ---
 
-### ජන අරගල ව්‍යාපාරයේ විරෝධතාවයේ දී 29ක් පොලිස් අත්අඩංගුවට
+### 29 policemen arrested in protest of the People's Struggle
 
 *2024-03-20 11:42:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72013088g7o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ආණ්ඩුවේ මර්දනය සහ රටේ පවතින ගැටලු ගැන සඳහන් කරමින් පැවති මේ විරෝධතාවයේ දී ආර්ථික හා විදේශ ප්‍රතිපත්ති විවේචනයට ලක්විය.
+29 policemen arrested in Colombo protest against government repression and economic issues.
 
-ජන අරගල ව්‍යාපාරය අද (මාර්තු 20) කොළඹ දී කළ විරෝධතාවක දී පොලීසිය සමග උණුසුම් තත්ත්වයක් ඇති විය.
+🟩
 
-ඒ අවස්ථාවේ දී පොලීසිය ජල සහ කඳුළු ගෑස් ප්‍රහාරයක් එල්ල කරන ලදී.
+It contains nothing here.Vesidia, the protester, which was referring to the government's repression, and the problems of the country.
 
-ආණ්ඩුවේ මර්දනය සහ රටේ පවතින ගැටලු ගැන සඳහන් කරමින් පැවති මේ විරෝධතාවයේ දී ආර්ථික හා විදේශ ප්‍රතිපත්ති විවේචනයට ලක්විය.
+The folk struggle movement was warm and there was a warm quality with the police in a protest in Colombo today (March 20).
+
+At the time, police were attacked by water and tear gas.
+
+In this protest, economic and foreign policies were criticized in the protest, which was referring to the repression of the government and the issues in the country.
 
 ◼️
 
 [Data](articles/01350e59.json)
+
+[Extended Data](ext_articles/01350e59.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 23:03:34**
+As of **2024-03-20 23:18:20**
 
 ## Newspaper Stats
 
-*Scraped **14,168** Articles*
+*Scraped **14,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,30 @@ adalk | 1,226
 adaderanalk | 1,703
 tamilmirrorlk | 1,714
 virakesarilk | 1,987
-dailymirrorlk | 2,172
+dailymirrorlk | 2,176
 adaderanasinhalalk | 2,262
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,166 (100.0%) of 14,168 articles have been extended.
+14,168 (100.0%) of 14,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### Former Minister Gamini Dissanayake commemorated
+
+*2024-03-20 22:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Former-Minister-Gamini-Dissanayake-commemorated/110-279272) · `en`
+
+President Ranil Wickremesinghe payed floral tribute to late Minister Gamini Dissanayake on his 82nd birth anniversary today. The sons of late Minister MP Mayantha Dissanayake and former Minister Navin Dissanayake were also present. Pic by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/8cceb1bd.json)
+
+---
 
 ### COPE convenes under Rohitha’s chairmanship amidst string of member resignations
 
@@ -38,13 +50,51 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The first meeting of the Committee on Public Enterprises (COPE) under the chairmanship of MP Rohitha Abeygunawardana convened at the parliament complex on Tuesday (March 19) amidst a string of member resignations.
 
-As many as 10 COPE members – namely MPs Anura Kumara Dissanayake, Duminda Dissanayake, Eran Wickramaratne, Gamini Waleboda, Prof. Charitha Herath, Dayasiri Jayasekara, S. M. Marikkar, Hesha Withanage, Shanakiyan Rasamanickam and Wasantha Yapa Bandara – have quit the committee, taking issue with the appointment of Abeygunawardana.
+As many as 10 COPE members – namely MPs Anura Kumara Dissanayake, Duminda Dissanayake, Eran Wickramaratne, Gamini Waleboda, Prof. Charitha Herath, Dayasiri Jayasekara, S. M. Marikkar, Hesha Withanage, Shanakiyan Rasamanickam and Wasantha Yapa Bandara – have thus far quit the committee, taking issue with the appointment of Abeygunawardana.
 
 At the commencement of yesterday’s meeting, the new COPE chairman stated that although it is possible to summon 363 institutions before the committee 102 institutions have not been summoned before the Committee so far.
 
 ...
 
 [Data](articles/afd8a599.json)
+
+[Extended Data](ext_articles/afd8a599.ext.json)
+
+---
+
+### Total of 298 elephants electrocuted since 2018: Wildlife Dept.
+
+*2024-03-20 22:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Total-of-298-elephants-electrocuted-since-2018-Wildlife-Dept/108-279253) · `en`
+
+Colombo, March 20 (Daily Mirror) - The Wildlife Conservation Department has reported a total of 298 elephants falling victim to electrocution since 2018.
+
+They attributed the elephants' deaths to the installation of various obstacles and traps, including substandard electric fences intended to restrict the movement of wild animals or target wild elephants and other wildlife for lethal purposes.
+
+Reports indicate that 72 elephants were killed in 2023, followed by 50 in 2022, 66 in 2021, 31 in 2020, 41 in 2019, and 38 in 2018.
+
+The main factors contributing to elephant deaths by electrocution include the use of land by local communities in areas prone to human-elephant conflicts, as well as the growing prevalence of personal electric fences.
+
+...
+
+[Data](articles/0e5ef7cf.json)
+
+---
+
+### Sri Lanka explores cooperation with South Sudan in oil, other sectors
+
+*2024-03-20 22:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-explores-cooperation-with-South-Sudan-in-oil-other-sectors/108-279254) · `en`
+
+Sri Lankan Ambassador in Kenya, Kana Kananathan who is also accredited to South Sudan, had bilateral discussions with its President Salva Kiir Mayardit regarding cooperation in multiple sectors including its burgeoning oil sector.
+
+The meeting took place at the Presidential Palace in Juba yesterday. Salva Kiir is also the chairperson of the East African Community (EAC).
+
+This significant meeting underscores the commitment to fostering diplomatic relations between the  two countries and signifies a step towards deeper cooperation and mutual understanding.
+
+The discussions centered around various areas of mutual interest, including economic development, infrastructure and bilateral trade. Notably, a focal point of the dialogue was South Sudan's burgeoning oil reserves and its potential to drive economic growth and stability in the region.
+
+...
+
+[Data](articles/5dc1a511.json)
 
 ---
 
@@ -288,21 +338,29 @@ Internal sources of cricket say that the event is due to take this step in the 2
 
 ---
 
-### ආනයනික භාණ්ඩ වලින් අතරමැදි වෙළෙඳුන්ට සියයට 300 අධික ලාභයක්
+### 300 per cent of imported goods
 
 *2024-03-20 19:40:31* · [`adalk`](https://www.ada.lk/breaking_news/ආනයනික-භාණ්ඩ-වලින්-අතරමැදි-වෙළෙඳුන්ට-සියයට-300-අධික-ලාභයක්/11-408731) · `si`
 
-ක්‍රම සහ විධි පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේ සභාපතිවරයා ලෙස නැවත වරක් පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා නිතරගයෙන් තේරී පත්වීය.
+MP Patali Champika Ranawaka was re-elected as the Chairman of the Parliamentary Select Committee. The committee discussed proposals by Mr. Wasantha Yapa Bandara and Minister of State Lasantha Alagiyawanna, focusing on the importance of 300% of imported goods to intermediate traders in Sri Lanka. The committee will open to all MPs and will summon all areas in the next meeting.
 
-ඒ පාර්ලිමේන්තු මන්ත්‍රී වසන්ත යාපා බණ්ඩාර මහතා සහ රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතාගේ යෝජනා ස්ථිරත්වයෙන් ඊයේ (20දා) එම කාරක සභාව පළමුවරට රැස්වූ අවස්ථාවේදීය.
+🟩
 
-ක්‍රම සහ විධි පිළිබඳ කාරක සභා සාමාජිකයන් වන රාජ්‍ය අමාත්‍යවරුන් වන සිසිර ජයකොඩි, අනුරාධ ජයරත්න, පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන ඩබ්ලිව්.ඩි.ජේ. සෙනවිරත්න, උදයන කිරිඳිගොඩ, සංජීව එදිරිමාන්න, නාලක බණ්ඩාර කෝට්ටේගොඩ යන මහත්වරුන්ගේ ඒකමතික තීරණය අනුව මෙලෙස නව සභාපතිවරයා තේරී පත්විය. මේ අවස්ථාව සඳහා පාර්ලිමේන්තුවේ කාර්ය මණ්ඩල ප්‍රධානී සහ නියෝජ්‍ය මහලේකම් චමින්ද කුලරත්න මහතාද සහභාගිවිය.
+MP Patali Champika Ranawaka was once again elected as the Chairman of the Parliamentary Select Committee.
 
-කමිටුවේ ඉදිරි ක්‍රියාමාර්ග පිළිබඳව අදහස් දක්වමින් කමිටු සභාපතිවරයා, ලංකාවට පිටරටින් ගෙන්වන ආනයනික භාණ්ඩ මගින් අතරමැදි වෙළෙඳුන් 300% අධික ලාභයක් ගන්න බව පෙන්වා දුන්නේය.
+The proposals Mr. Wasantha Yapa Bandara and Minister of State Lasantha Alagiyawanna yesterday (20) was held yesterday (20).
 
-...
+Committees and Manage Committees Sisira Jayakody, Anuradha Jayaratne, Members of Parliament WDJ Jayaratne. The new Chairman was elected following the unanimous decision of Sanjeewa Kirindigoda, Sanjeewa Kandigoda, Nalaka Bandara Kottegoda. Head of Parliament and Deputy Secretary General of Chaminda Kularatne were also present at the occasion.
+
+Speaking on the next step of the Committee, the Chairman of the Committee, pointed out that the committee chairman was making 300% of the intermediate traders by importing importance from Sri Lanka.
+
+The meeting was decided to summon all the areas on the next meeting and the committee will open to all Members of Parliament.
+
+◼️
 
 [Data](articles/21827da8.json)
+
+[Extended Data](ext_articles/21827da8.ext.json)
 
 ---
 
@@ -863,6 +921,18 @@ The Medical Faculty Students' Union (MFSU) staged a protest in front of the Heal
 [Data](articles/509f9543.json)
 
 [Extended Data](ext_articles/509f9543.ext.json)
+
+---
+
+### Dayasiri launches new party...
+
+*2024-03-20 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Dayasiri-launches-new-party/110-279246) · `en`
+
+A new alliance titled Humane Peoples’ Alliance under the leadership of former Sri Lanka Freedom Party (SLFP) General Secretary MP Dayasiri Jayasekara was launched today at the Lakshman Kadirgamar Institute (LKI). Pix by Waruna Wanniarachchi.
+
+◼️
+
+[Data](articles/777fc55f.json)
 
 ---
 
@@ -2241,75 +2311,5 @@ The public is requested to take adequate precautions to minimize damages caused 
 [Data](articles/2ebe0862.json)
 
 [Extended Data](ext_articles/2ebe0862.ext.json)
-
----
-
-### Increase in the number of passengers who service through the Katunayake airport this year
-
-*2024-03-20 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179216) · `ta`
-
-Katunayake airport sees a surge in passengers, thanks to economic programs and peace, with 850,000 services in Q1 2024 and an expected 10 million by year-end. Flights rose from 5 million in 2022 to 8 million by 2023.
-
-🟩
-
-Airport and Air Transport Services Private Company Chairman Atula Kalgetiya said that the influx of foreign tourists has increased due to the economic program led by President Ranil Wickremesinghe and the peaceful environment in the country and that the Katunayake Bandaranaike International Airport has become the most used airport.
-
-Accordingly, 850,000 airports have been receiving airport services from January 1 to March 2024, and that about 10 million passengers will use the airport by the end of this year.
-
-Calcutta pointed out that the total number of flights used at the Katunayake Bandaranaike International Airport in 2022 was 05 million and that the number could be increased to 08 million by 2023.
-
-◼️
-
-[Data](articles/0584e631.json)
-
-[Extended Data](ext_articles/0584e631.ext.json)
-
----
-
-### Duminda Dissanayake becomes 9th member to quit COPE
-
-*2024-03-20 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98075/duminda-dissanayake-becomes-9th-member-to-quit-cope) · `en`
-
-MP Duminda Dissanayake too has stepped down as a member of the Committee on Public Enterprises (COPE), mirroring the decision taken by 08 other MPs.
-
-◼️
-
-[Data](articles/59c3c15a.json)
-
-[Extended Data](ext_articles/59c3c15a.ext.json)
-
----
-
-### Anura Kumara and Duminda Dissanayake also quit COPE
-
-*2024-03-20 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98075/anura-kumara-and-duminda-dissanayake-also-quit-cope) · `en`
-
-Leader of National People’s Power (NPP) Anura Kumara Dissanayake and Sri Lanka Freedom Party (SLFP) MP Duminda Dissanayake too have stepped down from the Committee on Public Enterprises (COPE).
-
-The two Dissanayakes today (March 20) joined a parade of MPs to quit the COPE over the appointment of SLPP MP Rohitha Abeygunawardena as its chairman.
-
-Communicating his resignation to Speaker of Parliament Mahinda Yapa Abeywardena in writing, the SLFP MP said he decided to quit the COPE membership as the committee no longer has the transparency counted on by the members of the public.
-
-At the first COPE meeting of the Fifth Session of the Ninth Parliament convened on March 07, Abeygunawardena was elected by majority votes to serve as the new chairman of the committee. His name had been nominated by MP Mahindananda Aluthgamage and seconded by MP Sanjeewa Edirimanna.
-
-...
-
-[Data](articles/e14137db.json)
-
-[Extended Data](ext_articles/e14137db.ext.json)
-
----
-
-### Containers queued at Colombo Port
-
-*2024-03-20 12:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Containers-queued-at-Colombo-Port/110-279234) · `en`
-
-Containers were queued at the Colombo Port due to the trade union action by the Customs Officers’ Union which hampered the clearing of containers. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/009c96ff.json)
-
-[Extended Data](ext_articles/009c96ff.ext.json)
 
 ---

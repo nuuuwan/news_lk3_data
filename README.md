@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 15:02:53**
+As of **2024-03-20 15:18:04**
 
 ## Newspaper Stats
 
-*Scraped **14,081** Articles*
+*Scraped **14,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,118 @@ newsfirstlk | 363
 dailyftlk | 734
 economynextcom | 745
 islandlk | 770
-adalk | 1,216
-adaderanalk | 1,693
+adalk | 1,217
+adaderanalk | 1,694
 tamilmirrorlk | 1,706
 virakesarilk | 1,976
-dailymirrorlk | 2,158
-adaderanasinhalalk | 2,244
+dailymirrorlk | 2,159
+adaderanasinhalalk | 2,247
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,078 (100.0%) of 14,081 articles have been extended.
+14,081 (100.0%) of 14,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### Tear gas and water cannons fired at protesters in Pettah
+
+*2024-03-20 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98079/tear-gas-and-water-cannons-fired-at-protesters-in-pettah) · `en`
+
+Police resorted to using tear gas and water cannons to disperse a group of protesters in Pettah, Colombo.
+
+The demonstration had been organized by the ‘Jana Aragala Viyaparaya’ (People’s Struggle Movement), Ada Derana reporter said.
+
+◼️
+
+[Data](articles/743bb704.json)
+
+---
+
+### දමිතා සහ සැමියාගේ ඉල්ලීමට අදාළ නියෝගය ලබාදීම ලබන 27දා
+
+*2024-03-20 15:04:12* · [`adalk`](https://www.ada.lk/breaking_news/දමිතා-සහ-සැමියාගේ-ඉල්ලීමට-අදාළ-නියෝගය-ලබාදීම-ලබන-27දා/11-408725) · `si`
+
+කොරියාවට යවන බව පවසා රුපියල් ලක්ෂ 30ක මුදලක් වංචා කළ බවට චෝදනා එල්ලවී ඇති ප්‍රවීණ රංගන ශිල්පිනී දමිතා අබේරත්න මහත්මිය සහ ඇයගේ සැමියාට එරෙහිව පරිගණක අපරාධ කොට්ඨාශය විසින් අද අධිකරණය හමුවේ කරුණු වාර්තා කර තිබේ. ඒ අනුව පරිගණක අපරාධ කොට්ඨාශය දැනුම්දී ඇත්තේ ආගාමික සහ විගාමික පනත යටතේ වැරදි අනාවරණය බවයි. දමිතා අබේරත්න මහත්මිය සහ ඇයගේ සැමියා විසින් සිදුකළ අපේක්ෂිත ඇපය සම්බන්ධයෙන් විරුද්ධ වන බවද පොලීසිය වැඩිදුරටත් අධිකරණය හමුවේ කරුණු වාර්තා කළේය.
+
+ඒ අනුව කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා ප්‍රකාශ කලේ  ඔවුන් අත්අඩංගුවට නොගන්නා ලෙසට අධිකරණයේ කළ ඉල්ලීමට අදාළ නියෝගය ලබාදීම  27දා දක්වා කල්තබන බවයි.
+
+◼️
+
+[Data](articles/7b644239.json)
+
+---
+
+### අනිවාර්යයෙන් ගෙදර යන්න වෙනවා  - අනුර කුමාර
+
+*2024-03-20 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194735) · `si`
+
+කථානායකවරු කවදාවත් සාධාරණව කටයුතු කර නොමැති බව ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ඔහු අද (20) පාර්ලිමේන්තුවේදී සඳහන් කළේ යාපා, යාපා පරම්පරාවක් පාර්ලිමේන්තුවට රැගෙන ආ බවය.
+
+කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ විවාදයට එක්වෙමින් ඔහු මේ බව පැවසීය.
+
+"පාර්ලිමේන්තුව සම්බන්ධයෙනුත් ජනතාවගේ විශ්වාසය භංග වෙලා තියෙන්නේ. ඒ සියල්ල ඉවත් කිරීම සඳහා මාස 6ක් 7ක් තුළ ජාතික මැතිවරණයක් එනවා. ඒ නිසා කථානායකවරයා හෙට ඡන්දෙදී සමත් වුණත් තව මාස 6කින් අනිවාර්යයෙන් ගෙදර යන්න වෙනවා."
+
+"මහින්ද යාපා අබේවර්ධනට මේ මොකක්ද සිද්ධ වුණේ. මේක යාපාගේ දියවීමක් විතරක් නෙමෙයි අපේ රටේ දේශපාලනයේ දියවීමක් මෙතන තිබෙනවා."
+
+"කථානායකවරයා... ඔහු විටෙක ආණ්ඩුවට බයයි. තවත් විටෙක විපක්ෂයටත් බයයි. විපක්ෂනායකට පැය 2කට ආසන්න කාලයක් මේ සභාවේ කෝලම් කරන්න ඉඩ දීලා තියෙනවා."
+
+...
+
+[Data](articles/a3cec4ca.json)
+
+---
+
+### පොලීසියෙන් ජල හා කඳුළු ගෑස්
+
+*2024-03-20 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194734) · `si`
+
+ජන අරගල ව්‍යාපාරය සංවිධානය කළ විරෝධතාවයක් විසුරුවා හැරීම සඳහා පොලීසිය පිටකොටුවේ දී ජල හා කඳුළු ගෑස් ප්‍රහාරයක් එල්ලකළේය.
+
+◼️
+
+[Data](articles/6a0d1506.json)
+
+---
+
+### මුළු රටටම සුබ ආරංචියක්
+
+*2024-03-20 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194733) · `si`
+
+දිවයිනේ දැනට පවතින වියළි කාලගුණික තත්ත්වයේ වෙනසක් හෙට දිනයේ සිට අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ අනුව නැගෙනහිර ඌව සහ උතුරු පළාත්වල වැසි වාර කිහිපයක් ඇතිවන බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, ඌව, දකුණු, වයඹ සහ උතුරු-මැද පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බවද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/78a30ed9.json)
+
+---
+
+### Time-restricted eating linked to 91% higher risk of cardiovascular death
+
+*2024-03-20 14:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Time-restricted-eating-linked-to-91-higher-risk-of-cardiovascular-death/108-279240) · `en`
+
+March 20 - An analysis of over 20,000 U.S. adults found that people who limited their eating across less than 8 hours per day, a time-restricted eating plan, were more likely to die from cardiovascular disease compared to people who ate across 12-16 hours per day.
+
+This is according to preliminary research presented at the American Heart Association’s Epidemiology and Prevention│Lifestyle and Cardiometabolic Scientific Sessions 2024, March 18- 21, in Chicago. The meeting offers the latest science on population-based health and wellness and implications for lifestyle.
+
+...
+
+[Data](articles/d8eb1d8b.json)
+
+---
 
 ### Scientists say they can cut HIV out of cells
 
@@ -54,23 +150,31 @@ And Dr James Dixon, stem-cell and gene-therapy technologies associate professor 
 
 [Data](articles/947271d3.json)
 
+[Extended Data](ext_articles/947271d3.ext.json)
+
 ---
 
-### අපේක්ෂා රෝහලේ අවශ්‍යම යන්ත්‍රයක් බිඳවැටෙයි
+### A required machine in the hospital collapses
 
 *2024-03-20 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194732) · `si`
 
-මහරගම අපේක්ෂා රෝහලේ ප්‍රතිකාර ලබන පිළිකා ආසාදිත කුඩා දරුවන්ට විකිරණ ප්‍රතිකාර කටයුතු සිදුකරන යන්ත්‍රය පෙබරවාරි 29 වනදා සිට අක්‍රීය වී ඇති බව රජයේ විකිරණ විද්‍යා තාක්ෂණවේදීන්ගේ සංගමය පවසයි.
+A machine in a hospital collapsed on Feb 29, disabling radiation treatment. The Radiology Technicians Association of the Government Radiology of Radio Technology (SSR) announced this. The "Lineier Accelerator Machine" was affected, and it's not operational. This has impacted 10 to 15 children. A private hospital will bear the costs.
 
-ඒ සඳහා භාවිත කරන "ලීනියර් ඇක්සලරේටර් යන්ත්‍රය" පෙබරවාරි 29 වනදා බිඳ වැටී ඇති අතර එය මේ වනතෙක් යථා තත්ත්වයට පත්කර නොමැති බව එම සංගමයේ සභාපති චානක ධර්මවික්‍රම පැවසීය.
+🟩
 
-ඒ හේතුවෙන් දිනකට කුඩා දරුවන් 10 - 15 අතර ප්‍රමාණයක ප්‍රතිකාර කළ නොහැකි තත්ත්වයක් උද්ගතවී ඇති බව සඳහන් ය.
+The Radiology Technicians Association of the Government Radiology of Radio Technology (SSR) says that the radiation treatment has been disabled from 29 February.
 
-පිළිකා රෝගියෙකුට පෞද්ගලික රෝහලකින් මෙම පිළිකා ප්‍රතිකාරක ලබාගැනීමට රුපියල් ලක්ෂ 7 - 17ත් අතර මුදලක් වැය කිරීමට සිදුවෙන බවද ඔහු පැවසීය.
+The "Lineier Accelerator Machine" has been collapsed on February 29, said Chairman Chanaka Dharmawickrema said that it was not restored.
+
+As a result, 10 to 15 young children have been treated at least 10 to 15 children.
+
+He added that a private hospital will have to spend between Rs.
 
 ◼️
 
 [Data](articles/521627e0.json)
+
+[Extended Data](ext_articles/521627e0.ext.json)
 
 ---
 
@@ -115,6 +219,8 @@ And Dr James Dixon, stem-cell and gene-therapy technologies associate professor 
 ◼️
 
 [Data](articles/687b0991.json)
+
+[Extended Data](ext_articles/687b0991.ext.json)
 
 ---
 
@@ -2149,147 +2255,5 @@ Meanwhile, Minister Mahinda Amaravarara said that it was a request to the Cabine
 [Data](articles/f911e8f4.json)
 
 [Extended Data](ext_articles/f911e8f4.ext.json)
-
----
-
-### 20 Special teams mobilized targeting 20 underworld gangs
-
-*2024-03-20 07:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/20-Special-teams-mobilized-targeting-20-underworld-gangs/108-279197) · `en`
-
-Colombo, March 20 (Daily Mirror) - Following a concerning rise in organized criminal activities in the Western and Southern provinces, a special operation targeting 20 identified organized criminal gangs in the country under the 'Yukthiya' initiative was launched yesterday.
-
-Accordingly, 20 special police teams have been deployed to crackdown on those identified underworld gangs.
-
-IGP Tennakoon said that 99 shootings related to organized criminals were reported since January 2023, resulting in 56 deaths and 37 injuries.
-
-"While many of the deceased were organized criminals, they must be prosecuted through legal channels. Vigilante justice cannot be condoned," the IGP emphasized.
-
-He said that the recent shooting incidents reported in the Elpitiya Police division, where three innocent individuals lost their lives, were unfortunate incidents.
-
-...
-
-[Data](articles/a1174105.json)
-
-[Extended Data](ext_articles/a1174105.ext.json)
-
----
-
-### 20 Special teams mobilized targeting 20 underworld gangs
-
-*2024-03-20 07:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/20-Special-teams-mobilized-targeting-20-underworld-gangs/155-279197) · `en`
-
-Colombo, March 20 (Daily Mirror) - Following a concerning rise in organized criminal activities in the Western and Southern provinces, a special operation targeting 20 identified organized criminal gangs in the country under the 'Yukthiya' initiative was launched yesterday.
-
-Accordingly, 20 special police teams have been deployed to crackdown on those identified underworld gangs.
-
-IGP Tennakoon said that 99 shootings related to organized criminals were reported since January 2023, resulting in 56 deaths and 37 injuries.
-
-"While many of the deceased were organized criminals, they must be prosecuted through legal channels. Vigilante justice cannot be condoned," the IGP emphasized.
-
-He said that the recent shooting incidents reported in the Elpitiya Police division, where three innocent individuals lost their lives, were unfortunate incidents.
-
-...
-
-[Data](articles/ae28d153.json)
-
-[Extended Data](ext_articles/ae28d153.ext.json)
-
----
-
-### Are you aware of the law of collision, which is a 'criminal act'?
-
-*2024-03-20 07:47:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6pjlpe85g4o) · `si`
-
-The law of collision is a criminal act. Betel, a part of Sinhala culture, impacts Sri Lankan politics and public health. Betel spit is considered a criminal offense under Section 261 of the Penal Code, with fines for littering. Despite strict laws, enforcement is inconsistent, affecting public health and cleanliness.
-
-🟩
-
-Are you aware of the law of collision, which is a 'criminal act'?
-
-The betel is a great tyranny from ancient times with Sinhala culture and is in recent history in recent history.
-
-A statement made by Ranil Wickremesinghe, Ranil Wickremesinghe was criticized by a public rally in a presidential election, "designs a chaining economy instead of a chewing thing to crispy." If Ranil Wickremesinghe is running out of the country.
-
-The accusations were very impact on the political movement of Ranil Wickremesinghe. Ranil Wickremesinghe gave a huge impact on the definition of 'Sinhala culture'.
-
-In addition, Ranil was used as the 'Bulath leaf' as the election mark of the UPFA to attract the public.
-
-The UPFA, who contested under the election, was able to hold Sri Lanka's control over the years. (However, the only reason to consolidate their control] is not the 'betel green'.)
-
-Accordingly, the betel is a cultural position that has an effective place in Sri Lankan politics.
-
-...
-
-[Data](articles/29c48c1f.json)
-
-[Extended Data](ext_articles/29c48c1f.ext.json)
-
----
-
-### Temporary change in prevailing dry weather expected after today
-
-*2024-03-20 07:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98067/temporary-change-in-prevailing-dry-weather-expected-after-today) · `en`
-
-The Department of Meteorology says a temporary change in the prevailing dry weather conditions in the island, especially in the southern half, can be expected after today (20).
-
-Showers or thundershowers may occur at a few places in Western and Sabaragamuwa provinces and in Nuwara-Eliya, Galle and Matara districts in the evening or night.
-
-Misty conditions can be expected at some places in Sabaragamuwa and Central provinces and in Galle and Kalutara districts during the morning.
-
-◼️
-
-[Data](articles/82850246.json)
-
-[Extended Data](ext_articles/82850246.ext.json)
-
----
-
-### Sri Lanka gives tax-payer guarantee to central bank’s US$2.45bn India debt
-
-*2024-03-20 07:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-gives-tax-payer-guarantee-to-central-banks-us2-45bn-india-debt-155290/) · `en`
-
-ECONOMYNEXT – Sri Lanka tax payers have underwritten 2,451.43 million dollars of borrowings taken by the central bank from India through a Treasury guarantee, official data shows, sharply increasing the obligations of the state.
-
-The guarantee was originally issued on 17 October 2023 to the Reserve Bank of India for 2,601 million dollars and will be effective till 17 October 2024.
-
-Remaining borrowings under Sri Lanka’s Treasury guarantees mostly to state enterprises climbed to 1,931 billion rupees by end December 2023, from 1,050 billion in September at the conversion rate used in a debt update.
-
-Issued Treasury guarantees were 2,387 billion rupees by December from 1,527 billion in September.
-
-Sri Lanka’s IMF program initially had a Treasury guarantee ceiling of 1,700 as an indicative target, which was raised to 2,100 in the last review.
-
-...
-
-[Data](articles/2652c754.json)
-
-[Extended Data](ext_articles/2652c754.ext.json)
-
----
-
-### Decision for Sagrabara
-
-*2024-03-20 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194710) · `si`
-
-The Working Committee decided to expand their program to prepare for future elections, with a focus on the upcoming presidential election. They aim to support the next government and face the strongest opposition. This decision was made yesterday afternoon. J. Mr. SC Agat, a member of the Parliamentary Force, highlighted the committee's commitment to victory, noting a shift in voter base towards opposition. Field Marshal Sarath Fonseka attended the meeting, and General Secretary Ranjith Madduma Bandara expressed concern over his participation.
-
-🟩
-
-The Working Committee of the prospect of the prospect has decided to implement a wider program to enhance a wider program to face any future election.
-
-The Working Committee has taken this decision yesterday afternoon.
-
-Member of Parliamentary Force, Speaking to the Media Contact Member of the Working Committee Member J. Mr. SC Agat
-
-"This year is due to presidential election. The Working Committee we discussed every election. We take the next government to victory. Face the strongest for any elections that all agreed to this. Surveys have made evident in the top party that the conviction base of the voter turnover as an opposition. We saw the villagers going to the village and joins with us who are in the CHOGM and the JVP.. Clearly, we are wave now. "
-
-Field Marshal Sarath Fonseka has also attended the Working Committee meeting.
-
-The General Secretary of the Jathika Force, General Secretary Ranjith Madduma Bandara expressed these views regarding the participation of Mr. Sarath Fonseka.
-
-...
-
-[Data](articles/4622a80e.json)
-
-[Extended Data](ext_articles/4622a80e.ext.json)
 
 ---

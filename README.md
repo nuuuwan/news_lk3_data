@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 15:51:21**
+As of **2024-03-20 16:02:53**
 
 ## Newspaper Stats
 
-*Scraped **14,092** Articles*
+*Scraped **14,093** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 745
 islandlk | 770
 adalk | 1,217
 adaderanalk | 1,694
-tamilmirrorlk | 1,706
+tamilmirrorlk | 1,707
 virakesarilk | 1,980
 dailymirrorlk | 2,160
 adaderanasinhalalk | 2,247
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,092 (100.0%) of 14,092 articles have been extended.
+14,092 (100.0%) of 14,093 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,24 @@ The Central Bank further said that those who were found guilty will be sentenced
 [Data](articles/96e2a455.json)
 
 [Extended Data](ext_articles/96e2a455.ext.json)
+
+---
+
+### தென்னை மரத்தில் தங்க வளையல்
+
+*2024-03-20 15:32:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தென்னை-மரத்தில்-தங்க-வளையல்/76-334930) · `ta`
+
+வீடொன்றில் திருடப்பட்ட 1,40,000 ரூபாய் பெறுமதியான தங்க வளையல், 40 அடி உயர தென்னை மரத்தின் உச்சியில் மறைத்து வைக்கப்பட்டிருந்த  நிலையில் மீட்கப்பட்டுள்ளதுடன் சந்தேகத்தின் பேரில் இளைஞன் ஒருவரையும் கைது செய்யப்பட்டுள்ளதாக பதுளை பொலிஸார் தெரிவித்துள்ளனர் .
+
+பதுளை, மெதபத்தனை பகுதியில்  வீடொன்றில் யாரும் இல்லாதபோது ஜன்னலை உடைத்து உள் புகுந்து  தங்க வளையல் ஒன்றையும்,  37,000 ரூபாய்  பணத்தையும் திருடிச்சென்றுள்ளதாக பொலிஸாருக்கு  கிடைக்கப்பெற்ற  தகவலொன்றிக்கமைய  விசாரணைகளை மேற்கொண்ட  பொலிஸார்  22 வயதுடைய  இளைஞன்  ஒருவரை  கைது  செய்துள்ளனர் .
+
+அவரிடம் மேற்கொண்ட விசாரணையின்  போது திருடப்பட்ட பணத்தை தான் செலவிட்டதாகவும் தங்க வளையலை , தென்னை மரத்தின் உச்சியில் மறைத்து வைத்துள்ளதாகவும்  பொலிஸாரிடம்  தெரிவித்துள்ளார் .
+
+மேலும்,  இச்சம்பவம்  தொடர்பிலான  மேலதிக  விசாரணைகளை  பொலிஸார்  மேற்கொண்டு வருவதாக  தெரிவித்துள்ளனர் .
+
+◼️
+
+[Data](articles/b0b7ee31.json)
 
 ---
 
@@ -2277,23 +2295,5 @@ Even though the preparations for trains towards Colombo have been completed, tra
 [Data](articles/e19dde14.json)
 
 [Extended Data](ext_articles/e19dde14.ext.json)
-
----
-
-### Sri Lanka inks agreement with Microsoft to introduce AI to school curriculum
-
-*2024-03-20 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98069/sri-lanka-inks-agreement-with-microsoft-to-introduce-ai-to-school-curriculum) · `en`
-
-A Memorandum of Understanding (MoU) was signed between the Ministry of Education and Microsoft Corporation at the Presidential Secretariat on Tuesday (19), marking the commencement of a pilot project to integrate Artificial Intelligence (AI) into the school curriculum.
-
-This initiative will offer students above Grade 8 the opportunity to delve into AI within the realm of Information Technology, the President’s Media Division (PMD) said.
-
-The pilot project is slated to be rolled out at 20 selected schools across 20 districts, with a commitment to provide conducive classrooms and necessary technical equipment. A dedicated team from Microsoft will extend support to facilitate online educational activities, according to the PMD.
-
-...
-
-[Data](articles/633b201d.json)
-
-[Extended Data](ext_articles/633b201d.ext.json)
 
 ---

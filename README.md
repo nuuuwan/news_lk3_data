@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 07:16:13**
+As of **2024-03-20 07:31:04**
 
 ## Newspaper Stats
 
-*Scraped **13,971** Articles*
+*Scraped **13,974** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,60 @@ bbccomsinhala | 153
 dbsjeyarajcom | 190
 newsfirstlk | 363
 dailyftlk | 734
-economynextcom | 742
+economynextcom | 743
 islandlk | 770
 adalk | 1,206
-adaderanalk | 1,678
+adaderanalk | 1,679
 tamilmirrorlk | 1,693
 virakesarilk | 1,957
-dailymirrorlk | 2,132
+dailymirrorlk | 2,133
 adaderanasinhalalk | 2,222
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,961 (99.9%) of 13,971 articles have been extended.
+13,961 (99.9%) of 13,974 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### Sri.Lanka says foreign research ships allowed for replenishment after Chinese protest
+
+*2024-03-20 07:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-says-foreign-research-ships-allowed-for-replenishment-after-chinese-protest-155278/) · `en`
+
+ECONOMYNEXT – Sri Lanka will allow offshore research ships for replenishments at the island nation ports despite a one-year ban on such vessels, Foreign Ministry Spokesman said amid strong protest by China over the island nation allowing a German research vessel.
+
+This is the first time Sri Lanka has officially admitted that foreign research vessels will be allowed for replenishments since President Ranil Wickremesinghe’s government imposed a one year ban on offshore research vessels in December last year.
+
+“The ban on foreign ships is for research purposes, not on replenishment”, Niluka Kadurugamuwa, Sri Lakna’s Foreign Ministry Spokesman told EconomyNext.
+
+“There was a German research vessel recently for replenishment and Sri Lanka allowed it.”
+
+Chinese Embassy in Colombo has raised strong protest against the move to allow a German research vessel early this month following the island nation’s authorities turned down a Beijing request for a research vessel in February.
+
+...
+
+[Data](articles/2d8de8eb.json)
+
+---
+
+### Coastal Line trains experiencing further delays and cancellations
+
+*2024-03-20 06:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98066/coastal-line-trains-experiencing-further-delays-and-cancellations-) · `en`
+
+Trains operating on the Coastal Line are experiencing further disruption due to the derailment which took place last night, the Railway Department says.
+
+Accordingly, train delays and cancellations on the Coastal Line are expected to last at least until 7.00 am today (March 20).
+
+A Kalutara South-bound train had derailed near the Secretariat Station yesterday shortly after departing the Colombo Fort station at 7.15 p.m.
+
+◼️
+
+[Data](articles/cb277052.json)
+
+---
 
 ### මුහුදුබඩ මාර්ගයේ දුම්රිය ධාවනයට තවදුරටත් බාධා - දුම්රිය කිහිපයක් අවලංගු කෙරේ
 
@@ -51,6 +87,26 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/8e812f75.json)
+
+---
+
+### Many hospitals in China stop newborn delivery services as birth rate drops
+
+*2024-03-20 06:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Many-hospitals-in-China-stop-newborn-delivery-services-as-birth-rate-drops/108-279196) · `en`
+
+HONG KONG, March 20 (Reuters) - Many hospitals in China have stopped offering newborn delivery services this year, state-backed news outlet Daily Economic News reported, with industry experts warning of an "obstetric winter" due to declining demand amid a record drop in new births.
+
+Hospitals in various provinces including in eastern Zhejiang and southern Jiangxi have in the past two months announced that they will close their obstetric departments, according to notices viewed by Reuters.
+
+The Fifth People's Hospital of Ganzhou City in Jiangxi said on its official WeChat account that obstetric services would be suspended from March 11.
+
+Zhejiang's Jiangshan Hospital of Traditional Medicine announced on its WeChat page that its obstetrics business would stop from Feb. 1.
+
+The closures come as Chinese policymakers grapple with how to boost young couples' desire to have children as authorities face a growing demographic headache of a rapidly ageing society.
+
+...
+
+[Data](articles/f0e80b8f.json)
 
 ---
 
@@ -2149,67 +2205,5 @@ Accordingly, the warning has been issued by the Department of Meteorology, Vavun
 [Data](articles/0768daa1.json)
 
 [Extended Data](ext_articles/0768daa1.ext.json)
-
----
-
-### Yall. Protest
-
-*2024-03-19 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179137) · `ta`
-
-The University Employees Union launched a protest at the University of Jaffna on Tuesday, demanding a resolution to salary conflicts and unresolved university subsidies.
-
-🟩
-
-A protest campaign was launched by the University Employees Union on Tuesday (19) at the University of Jaffna.
-
-In all universities, university academic workers' salary conflict, salary increase, and the problems that affect them, and the university subsidies commission and the government have not yet resolved a solution to the university and the university's one -day strike on Tuesday, and the university will be united on Tuesday..
-
-Accordingly, the University Employees Union held a one -day identity strike and a protest demonstration at the University of Jaffna today.
-
-◼️
-
-[Data](articles/a603885b.json)
-
-[Extended Data](ext_articles/a603885b.ext.json)
-
----
-
-### Six Sri Lanka opposition MPs resign from COPE over integrity issue
-
-*2024-03-19 16:28:00* · [`economynextcom`](https://economynext.com/four-sri-lanka-opposition-mps-resign-from-parliament-panel-over-integrity-issue-155202/) · `en`
-
-ECONOMYNEXT – Six opposition legislators in Sri Lanka resigned from the Parliament’s Committee on Public Enterprises (COPE) within two days over integrity concerns of the panel citing that they had to sit with corrupt ruling politicians.
-
-Opposition parliamentary members Dayasiri Jayasekera, Charitha Herath, S M Marikkar, Shanaiyan Rasamanickam, and Hesha Withanage resigned on Tuesday, a day after the resignation of former state finance minister Eran Wickremeratne.
-
-The opposition members blamed the integrity concerns of COPE established on March 7 under the chairmanship of Ruling Sri Lanka Podujana Peramuna (SLPP) MP Rohitha Abeygunawardena, who has been accused of misappropriation of public funds under the previous government.
-
-Wickremeratne in a statement said 31 appointees to the COPE must not be associated with allegations and/or convictions.
-
-...
-
-[Data](articles/1b782c0d.json)
-
-[Extended Data](ext_articles/1b782c0d.ext.json)
-
----
-
-### Six Sri Lanka opposition MPs resign from COPE over integrity issue
-
-*2024-03-19 16:28:00* · [`economynextcom`](https://economynext.com/six-sri-lanka-opposition-mps-resign-from-cope-over-integrity-issue-155202/) · `en`
-
-ECONOMYNEXT – Six opposition legislators in Sri Lanka resigned from the Parliament’s Committee on Public Enterprises (COPE) within two days over integrity concerns of the panel citing that they had to sit with corrupt ruling politicians.
-
-Opposition parliamentary members Dayasiri Jayasekera, Charitha Herath, S M Marikkar, Shanaiyan Rasamanickam, and Hesha Withanage resigned on Tuesday, a day after the resignation of former state finance minister Eran Wickremeratne.
-
-The opposition members blamed the integrity concerns of COPE established on March 7 under the chairmanship of Ruling Sri Lanka Podujana Peramuna (SLPP) MP Rohitha Abeygunawardena, who has been accused of misappropriation of public funds under the previous government.
-
-Wickremeratne in a statement said 31 appointees to the COPE must not be associated with allegations and/or convictions.
-
-...
-
-[Data](articles/40f077ae.json)
-
-[Extended Data](ext_articles/40f077ae.ext.json)
 
 ---

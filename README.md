@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 05:02:58**
+As of **2024-03-21 05:18:01**
 
 ## Newspaper Stats
 
-*Scraped **14,184** Articles*
+*Scraped **14,185** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 132
 bbccomsinhala | 157
 dbsjeyarajcom | 190
 newsfirstlk | 363
-dailyftlk | 735
+dailyftlk | 736
 economynextcom | 760
 islandlk | 770
 adalk | 1,226
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,184 (100.0%) of 14,184 articles have been extended.
+14,184 (100.0%) of 14,185 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### Pasan Alagiyawanna appointed as Signify Lanka’s new local Director
+
+*2024-03-21 04:56:28* · [`dailyftlk`](https://www.ft.lk/business/Pasan-Alagiyawanna-appointed-as-Signify-Lanka-s-new-local-Director/34-759728) · `en`
+
+n a significant move that marks a new chapter for Signify Lanka Ltd., the company has announced the appointment of Pasan Alagiyawanna as its new local director.
+
+This strategic decision is set to steer the company towards new horizons of innovation and growth in the lighting industry.
+
+Signify, formerly known as Philips Lighting, is a Dutch-based global leader in lighting products, systems, and services. With a rich history of innovation, Signify has been at the forefront of the lighting industry, offering state-of-the-art solutions that illuminate lives, enhance safety, and contribute to a sustainable future. The company’s commitment to unlocking the extraordinary potential of light for brighter lives and a better world is reflected in its diverse portfolio and its presence in over 70 countries.
+
+...
+
+[Data](articles/49465e89.json)
+
+---
 
 ### Ranil’s reticence, Basil’s broken base, Harsha’s Hotel California and Eran’s fire-and-fury
 
@@ -2255,25 +2271,5 @@ Foreign media added that he spent 2.5 lakhs of Rs.
 [Data](articles/26a0182a.json)
 
 [Extended Data](ext_articles/26a0182a.ext.json)
-
----
-
-### Anura and Duminda leaves COPE
-
-*2024-03-20 13:44:23* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හා-දුමින්දත්-‌කෝප්-කමිටුවෙන්-ඉවත්-වෙති/11-408722) · `si`
-
-MPs Anura Kumara Dissanayake and Duminda Dissanayake resigned from the COPE Committee, citing fraud and corruption accusations against COPE chairman Rohitha Abeygunawardena.
-
-🟩
-
-MP Anura Kumara Dissanayake and Duminda Dissanayake have decided to resign from the COPE Committee. They said this to Parliament today.
-
-The current COPE chairman Rohitha Abeygunawardena has been accused of fraud and corruption.
-
-◼️
-
-[Data](articles/18230bcf.json)
-
-[Extended Data](ext_articles/18230bcf.ext.json)
 
 ---

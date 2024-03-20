@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 10:33:13**
+As of **2024-03-20 10:51:40**
 
 ## Newspaper Stats
 
-*Scraped **14,006** Articles*
+*Scraped **14,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,50 @@ economynextcom | 743
 islandlk | 770
 adalk | 1,206
 adaderanalk | 1,683
-tamilmirrorlk | 1,698
+tamilmirrorlk | 1,699
 virakesarilk | 1,959
-dailymirrorlk | 2,145
+dailymirrorlk | 2,147
 adaderanasinhalalk | 2,230
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,001 (100.0%) of 14,006 articles have been extended.
+14,006 (100.0%) of 14,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### வசந்த யாப்பா பண்டார இராஜினாமா
+
+*2024-03-20 10:35:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வசந்த-யாப்பா-பண்டார-இராஜினாமா/175-334917) · `ta`
+
+பொது நிறுவனங்கள் தொடர்பான குழுவில் (கோப்) இன்று நியமிக்கப்பட்ட எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர் வசந்த யாப்பா பண்டார, தனது உறுப்பினர் பதவியை இராஜினாமா செய்வதாக அறிவித்தார்.
+
+பிரதி சபாநாயகர் அஜித் ராஜபக்சவினால் அவர் நியமனம் செய்யப்பட்டதை அடுத்து தான் பதவி விலகுவதாக அறிவித்தார்.
+
+◼️
+
+[Data](articles/845d3a15.json)
+
+---
+
+### Cabinet nod to introduce hybrid parliamentary electoral system
+
+*2024-03-20 10:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-nod-to-introduce-hybrid-parliamentary-electoral-system/108-279205) · `en`
+
+Colombo, March 20 (Daily Mirror) - The Cabinet endorsed a proposal to draft constitutional amendments for the introduction of a new parliamentary electoral system that will enable the election of 160 MPs under the previous First-Past-the –Post System and the remainder under proportional representation, Daily Mirror learns.
+
+Justice Minister Wijeyadasa Rajapakshe presented the proposal approved by the Cabinet. A new piece of legislation will be drafted for enactment by Parliament giving effect to the constitutional changes required for the purpose. It will be a hybrid electoral system.
+
+In the past, the successive governments attempted to bring changes to the current electoral system which is solely based on proportional representation and preferential voting.
+
+◼️
+
+[Data](articles/152d2685.json)
+
+---
 
 ### Another MP resigns from COPE
 
@@ -43,6 +73,24 @@ The MP announced his resignation soon after his appointment was announced by Dep
 ◼️
 
 [Data](articles/d29208ea.json)
+
+[Extended Data](ext_articles/d29208ea.ext.json)
+
+---
+
+### COPF recommends Central Bank to postpone salary hike
+
+*2024-03-20 10:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/COPF-recommends-Central-Bank-to-postpone-salary-hike/108-279226) · `en`
+
+Parliament, March 20 (Daily Mirror)- The Committee on Public Finance (COPF) today recommended in its report that the Central Bank postpones the salary increase of its employees.
+
+COPF chairman Dr. Harsha De Silva informed Parliament that a committee should be appointed by the Finance Minister with the agreement of the Central Bank Governor to look into the salary hike of the Central Bank emoloyees and to suspend the salary hike until the report is submitted.
+
+The Chairman said the report of the committee should be submitted within four weeks.
+
+◼️
+
+[Data](articles/2b6f9ce7.json)
 
 ---
 
@@ -59,6 +107,8 @@ The Chairman said the report of the committee should be submitted within four we
 ◼️
 
 [Data](articles/f013eb0c.json)
+
+[Extended Data](ext_articles/f013eb0c.ext.json)
 
 ---
 
@@ -104,6 +154,8 @@ He said a kilo of beef was at Rs. 2,400 and a kilo of mutton at Rs. 3,300.
 
 [Data](articles/1ae85738.json)
 
+[Extended Data](ext_articles/1ae85738.ext.json)
+
 ---
 
 ### Three underworld gang members arrested during special operation
@@ -121,6 +173,8 @@ Police said that a member of the organized criminal gang associated with 'Keselw
 ...
 
 [Data](articles/090f3e8d.json)
+
+[Extended Data](ext_articles/090f3e8d.ext.json)
 
 ---
 
@@ -233,6 +287,8 @@ He pointed out that as a result, the sales of 29 million bottles (750ml) of liqu
 ...
 
 [Data](articles/3caa5a3d.json)
+
+[Extended Data](ext_articles/3caa5a3d.ext.json)
 
 ---
 
@@ -2129,69 +2185,5 @@ Generally, about 2000 containers in each day, about 2000 containers have been cl
 [Data](articles/e4120fc2.json)
 
 [Extended Data](ext_articles/e4120fc2.ext.json)
-
----
-
-### Cabinet approval to draft laws to amend Sri Lanka’s electoral system
-
-*2024-03-19 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98059/cabinet-approval-to-draft-laws-to-amend-sri-lankas-electoral-system) · `en`
-
-The Cabinet of Ministers have approved a proposal to draft the necessary laws to amend the electoral system to elect 160 Members of Parliament directly from the voters of the respective constituencies, also known as the First-Past-the-Post (FPTP) system, and for the remaining 65 MPs to be elected according to the proportional voting system at the national or provincial level.
-
-The need to revise the current electoral system has been identified in order to meet the objectives of the Election Expenses Regulation Act No. 3 of 2023 and to achieve a fully democratic election, the Government Information Department said.
-
-Accordingly, a Cabinet sub-committee was appointed to ask the views of all party leaders and other relevant parties representing the Parliament and submit a report to the Cabinet with relevant recommendations.
-
-...
-
-[Data](articles/895f8ad2.json)
-
-[Extended Data](ext_articles/895f8ad2.ext.json)
-
----
-
-### Congratulations from another power to a world power
-
-*2024-03-19 18:52:22* · [`adalk`](https://www.ada.lk/breaking_news/ලෝක-බලවතෙකුට-තවත්-බලවතෙකුගෙන්-සුභ-පැතුම්/11-408710) · `si`
-
-China's President Xi Jin Pin congratulates Russia's President Vladimir Putin on his re-election, expressing confidence in Russia's national development under Putin's leadership. China emphasizes optimizing bilateral relations for mutual benefit.
-
-🟩
-
-Commerst Vladiyir Putin, who was elected to the Presidency of Russia, is congratulated by China President Xi Jin Pin. The message was referred to yesterday (18).
-
-The Russian people are prompting to win the challenges in recent years, overcoming the challenges and proceed to the national development path.Mr. Putin is re-elected as Russian president reflects his support for him. Sihi Jin Pin expresses confidence that Under the leadership of Mr. Putin, Russia will achieve national development achievements.
-
-China-Russian relationships is a priority focus. Shi Jin Pin said that China is ready to optimize the bilateral relationship for a new work for the people of both countries.
-
-◼️
-
-[Data](articles/d97a39d9.json)
-
-[Extended Data](ext_articles/d97a39d9.ext.json)
-
----
-
-### The man who fell on the ground in shock dies
-
-*2024-03-19 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179162) · `ta`
-
-A man shocked by burning power lines at the Sean Estate Garden in Punduloya died. Subbaiah Shanmugam, 58, was electrocuted on Sunday evening. The Ceylon Electricity Board (CEB) has been asked to address electricity leaks and connectivity issues in the area.
-
-🟩
-
-A man who fell to the ground after being shocked at the Sean Estate Garden, which belongs to the Punduloya police division.
-
-Investigations have revealed that the person who was shocked to see that the power lines were burning in his eyes in front of the four -serial residential area of the person who lived in the area.
-
-Punduloya police said that Subbaiah Shanmugam (58) died in the incident which took place on Sunday evening (17).
-
-At the same time, the people of the plantation of the Ceylon Electricity Board (CEB) have asked the Ceylon Electricity Board (CEB) to take action on electricity leaks and connectivity wires in the nearby garden.
-
-◼️
-
-[Data](articles/dc847fe6.json)
-
-[Extended Data](ext_articles/dc847fe6.ext.json)
 
 ---

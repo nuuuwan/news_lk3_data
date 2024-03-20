@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 08:33:32**
+As of **2024-03-20 08:51:25**
 
 ## Newspaper Stats
 
-*Scraped **13,985** Articles*
+*Scraped **13,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ dailyftlk | 734
 economynextcom | 743
 islandlk | 770
 adalk | 1,206
-adaderanalk | 1,681
+adaderanalk | 1,682
 tamilmirrorlk | 1,695
 virakesarilk | 1,957
 dailymirrorlk | 2,138
-adaderanasinhalalk | 2,224
+adaderanasinhalalk | 2,226
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,979 (100.0%) of 13,985 articles have been extended.
+13,985 (100.0%) of 13,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### Sri Lanka inks agreement with Microsoft to introduce AI to school curriculum
+
+*2024-03-20 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98069/sri-lanka-inks-agreement-with-microsoft-to-introduce-ai-to-school-curriculum) · `en`
+
+A Memorandum of Understanding (MoU) was signed between the Ministry of Education and Microsoft Corporation at the Presidential Secretariat on Tuesday (19), marking the commencement of a pilot project to integrate Artificial Intelligence (AI) into the school curriculum.
+
+This initiative will offer students above Grade 8 the opportunity to delve into AI within the realm of Information Technology, the President’s Media Division (PMD) said.
+
+The pilot project is slated to be rolled out at 20 selected schools across 20 districts, with a commitment to provide conducive classrooms and necessary technical equipment. A dedicated team from Microsoft will extend support to facilitate online educational activities, according to the PMD.
+
+...
+
+[Data](articles/633b201d.json)
+
+---
+
+### AI ඉගැන්වීමේ නියමු ව්‍යාපෘතියේ අවබෝධතා ගිවිසුමට අත්සන් තබයි
+
+*2024-03-20 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194713) · `si`
+
+අටවන ශ්‍රේණියෙන් ඉහළ සිසුන් සඳහා තොරතුරු තාක්ෂණ විෂය සමඟ කෘත්‍රිම බුද්ධිය හැදෑරීමට අවස්ථාව ලබා දෙමින් එහි නියමු ව්‍යාපෘතිය ක්‍රියාත්මක කිරීමට අදාළ අවබෝධතා ගිවිසුමකට අත්සන් තබා තිබේ.
+
+◼️
+
+[Data](articles/5d83ffe0.json)
+
+---
+
+### ඩයනාගෙන් අලුත් වැඩක්
+
+*2024-03-20 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194712) · `si`
+
+සංචාරකයින් ලක්ෂ 25ක් මෙම වසර තුළ දිවයිනට ගෙන්වා ගැනීමේ ඉලක්කය සපුරා ගැනීම සඳහා ක්‍රියාමාර්ග රැසක් ගෙන ඇති බව ඩයනා ගමගේ රාජ්‍ය අමාත්‍යවරිය පවසන්නීය.
+
+ඇය සඳහන් කළේ, වසරේ ගතවූ කාල සීමාව තුළ ලක්ෂ 05 කට අධික සංචාරකයින් පිරිසක් දිවයිනට පැමිණ ඇති බවය.
+
+සංචාරකයින් සඳහා ලබා දෙන පහසුකම් වැඩි කිරීමට ඉදිරියේදී සැලසුම් කර ඇති බවද රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය සඳහන් කළාය.
+
+"අපේ ටාගට් එකක් තියෙනවා 2024 අවුරුද්ද තුළ සංචාරකයින් ලක්ෂ 25ක් අඩුම තරමින් රටට ගෙන්වා ගැනීමට. ඉතින් අපි හිතනවා මේ දැන් යන තත්ත්වය එක්ක අපිට ඒ ටාගට් එකට යන්න පුළුවන් කියලා. මොකද දැන් වෙද්දිත් සංචාරකයින් විශාල පිරිසක් ලංකාවට ඇවිත් තියෙනවා. මේ මාස තුන ඇතුළත ලක්ෂ 5 ඉක්මවා ගිහින් තියෙනවා. ඉතින් අපි බලාපොරොත්තු වෙනවා ඉතිරි ටාගට් එකට දෙසැම්බර් වෙද්දි යන්න පුළුවන් වෙයි. සංචාරක ව්‍යාපාරය තුළ පුංචි පුංචි ප්‍රශ්න තියෙනවා. අපි දැක්කා දකුණේ ප්‍රශ්න ටිකක් ඇවිත් තිබුණා. ඒවට අපි විසඳුම් හොයනවා නිරාකරණය කරගෙන යන්න."
+
+◼️
+
+[Data](articles/c463a199.json)
+
+---
 
 ### PAFFREL warns of election delay via new electoral system
 
@@ -45,6 +91,8 @@ Expressing its concerns, PAFFREL Executive Director Rohana Hettiarachchi told a 
 ...
 
 [Data](articles/2f2a4c3e.json)
+
+[Extended Data](ext_articles/2f2a4c3e.ext.json)
 
 ---
 
@@ -65,6 +113,8 @@ Ocean temperatures also reached the warmest in 65 years of data with over 90% of
 ...
 
 [Data](articles/020f3d9c.json)
+
+[Extended Data](ext_articles/020f3d9c.ext.json)
 
 ---
 
@@ -131,6 +181,8 @@ He said that the recent shooting incidents reported in the Elpitiya Police divis
 ...
 
 [Data](articles/ae28d153.json)
+
+[Extended Data](ext_articles/ae28d153.ext.json)
 
 ---
 
@@ -310,6 +362,8 @@ MPs Eran Wickramaratne, Dayasiri Jayasekera, Professor Charitha Herath, S. M. Ma
 
 [Data](articles/bc4e0924.json)
 
+[Extended Data](ext_articles/bc4e0924.ext.json)
+
 ---
 
 ### CSE turnover crosses Rs. 4 billion, LOLC Finance contributes more than 50%
@@ -388,21 +442,29 @@ Sysco LABS Fosters the Next Generation of Future-Ready Sri Lankan Tech Talent
 
 ---
 
-### கல்வி அமைச்சுடன் மைக்ரோசொப்ட் ஒப்பந்தம்
+### Microsoft Agreement with the Ministry of Education
 
 *2024-03-20 02:55:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சுடன்-மைக்ரோசொப்ட்-ஒப்பந்தம்/175-334913) · `ta`
 
-தரம் 08 இற்கு மேற்பட்ட மாணவர்களுக்கான தகவல் தொழில்நுட்பப் பாடத்தில் செயற்கை நுண்ணறிவு விடயப்பரப்பை உள்வாங்குவதற்கான முன்னோடித் திட்டத்தை செயல்படுத்துவது தொடர்பான புரிந்துணர்வு ஒப்பந்தம் கல்வி அமைச்சுக்கும் மைக்ரோசொப்ட் நிறுவனத்திற்கும் இடையில் நேற்று ஜனாதிபதி அலுவலகத்தில் கைசாத்திடப்பட்டது.
+Microsoft and the Ministry of Education signed a MoU for an AI-based IT course program in 8+ districts, with Microsoft providing technical support. A meeting with President Ranil Wickremesinghe preceded the agreement, ensuring full AI integration in the curriculum.
 
-20 மாவட்டங்களில் 20 பாடசாலைகளைத் தெரிவு செய்து தரம் 8 இற்கு மேற்பட்ட மாணவர்களுக்கான இந்த முன்னோடி திட்டத்தை செயல்படுத்த தீர்மானிக்கப்பட்டுள்ளது. அதற்கு அவசியமான நவீன வகுப்பறைகளையும் தொழில்நுட்ப உபகரணங்களையும் வழங்குவதாக இங்கு குறிப்பிடப்பட்டது.
+🟩
 
-அதன்படி கல்விச் செயற்பாடுகளை தொழில்நுட்ப முறையில் முன்னெடுப்பதற்கான உதவிகளை மைக்ரோசொப்ட் நிறுவனத்தின் குழுவொன்று வழங்கவுள்ளது.
+A Memorandum of Understanding (Memorandum of Understanding) on the implementation of a pioneering program for the implementation of artificial intelligence in the information technology course for more than 8 students was signed between the Ministry of Education and Microsoft.
 
-இதற்கான புரிந்துணர்வு ஒப்பந்தத்தில் கைசாத்திடும் முன்பாக ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கும் மைக்ரோசொப்ட் நிறுவனத்தின் பிரதிநிதிகளுக்கும் இடையிலான சந்திப்பொன்றும் ஜனாதிபதி அலுவலகத்தில் நடைபெற்றது.
+It has been decided to implement this pioneer program for more than 8 students in 20 districts. It is mentioned here that it provides modern classrooms and technical equipment.
 
-...
+Accordingly, a team of Microsoft will provide assistance to technically carry out educational activities.
+
+A meeting between President Ranil Wickremesinghe and Microsoft's representatives was held at the Presidential Office before the Memorandum of Understanding.
+
+Meanwhile, Microsoft representatives have assured the president that the school curriculum will be fully cooperating with artificial intelligence in the school curriculum. (A)
+
+◼️
 
 [Data](articles/65736f53.json)
+
+[Extended Data](ext_articles/65736f53.ext.json)
 
 ---
 
@@ -2149,65 +2211,5 @@ After passengers who followed the passengers, the steps had been taken to depart
 [Data](articles/180bc39b.json)
 
 [Extended Data](ext_articles/180bc39b.ext.json)
-
----
-
-### 10 billion gold items from airport
-
-*2024-03-19 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194696) · `si`
-
-"10 billion gold items, including 5 kg jewelry, discovered at Dubai airport, found by Sri Lanka Customs at Green Channel Terminal."
-
-🟩
-
-About 5 kg of jewelery has been found in Dubai from Dubai, Dubai from Dubai to Katunayake airport.
-
-The Sri Lanka Customs said that the two persons were diagnosed at the Green Channel Termin and later discovered the gold items.
-
-◼️
-
-[Data](articles/aa751ada.json)
-
-[Extended Data](ext_articles/aa751ada.ext.json)
-
----
-
-### MPs Shanakiyan and Hesha also resign from COPE
-
-*2024-03-19 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98058/mps-shanakiyan-and-hesha-also-resign-from-cope) · `en`
-
-TNA parliamentarian Shanakiyan Rasamanickam and SJB MP Hesha Withanage have also resigned from the Committee on Public Enterprises (COPE).
-
-This brings the total number of opposition members who have quit the parliamentary committee thus far to six.
-
-SJB parliamentarian Eran Wickramaratne resigned from COPE yesterday while MPs Dayasiri Jayaseka, S.M. Marikkar and former COPE chairman Prof. Charitha Herath announced their decision to resign earlier today.
-
-◼️
-
-[Data](articles/9ed0594a.json)
-
-[Extended Data](ext_articles/9ed0594a.ext.json)
-
----
-
-### MPs Shanakiyan, Hesha and Gamini also resign from COPE
-
-*2024-03-19 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98058/mps-shanakiyan-hesha-and-gamini-also-resign-from-cope) · `en`
-
-UPDATE: SLPP MP Gamini Waleboda has also resigned from the Committee on Public Enterprises (COPE).
-
-Accordingly, seven members have thus far resigned from the parliamentary committee within the last two days.
-
-TNA parliamentarian Shanakiyan Rasamanickam and SJB MP Hesha Withanage have also resigned from the Committee on Public Enterprises (COPE).
-
-This brings the total number of opposition members who have quit the parliamentary committee thus far to six.
-
-SJB parliamentarian Eran Wickramaratne resigned from COPE yesterday while MPs Dayasiri Jayaseka, S.M. Marikkar and former COPE chairman Prof. Charitha Herath announced their decision to resign earlier today.
-
-◼️
-
-[Data](articles/9f835403.json)
-
-[Extended Data](ext_articles/9f835403.ext.json)
 
 ---

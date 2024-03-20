@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 19:17:51**
+As of **2024-03-20 19:33:21**
 
 ## Newspaper Stats
 
-*Scraped **14,146** Articles*
+*Scraped **14,147** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,50 +19,78 @@ adalk | 1,221
 adaderanalk | 1,699
 tamilmirrorlk | 1,712
 virakesarilk | 1,986
-dailymirrorlk | 2,169
+dailymirrorlk | 2,170
 adaderanasinhalalk | 2,256
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,141 (100.0%) of 14,146 articles have been extended.
+14,146 (100.0%) of 14,147 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### செயற்குழு கூட்டத்தில் பங்கேற்றார் பொன்சேகா
+### Fonseka participated in the Executive Committee meeting
 
 *2024-03-20 18:45:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செயற்குழு-கூட்டத்தில்-பங்கேற்றார்-பொன்சேகா/175-334945) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் தவிசாளர் சரத் பொன்சேகா கட்சியின் செயற்குழு கூட்டத்தில் பங்கேற்றார்.
+Sarath Fonseka, Chairman of United People's Power, attended the party's executive committee meeting, listened without speaking, and recently challenged the SJB's suspension in court.
 
-பீல்ட் மார்ஷல் பொன்சேகா கூட்டத்தில் எதுவும் பேசவில்லை என்றும், மற்றவர்கள் சொல்வதை மட்டும் செவிமடுத்தார் என்றும் கட்சி வட்டாரங்கள் தெரிவித்தன.
+🟩
 
-பொன்சேகா சமீபத்தில் SJB யில் இருந்து இடைநீக்கம் செய்யப்பட்டதற்கு எதிராக உயர் நீதிமன்றத்தில் தடை உத்தரவு பெற்றமை குறிப்பிடத்தக்கது.
+United People's Power Chairman Sarath Fonseka participated in the party's executive committee meeting.
+
+Party sources said that Field Marshal Fonseka did not speak at the meeting and only listened to others.
+
+It is noteworthy that Fonseka recently issued an injunction in the Supreme Court against the suspension of the SJB.
 
 ◼️
 
 [Data](articles/f434c1c3.json)
 
+[Extended Data](ext_articles/f434c1c3.ext.json)
+
 ---
 
-### සුපිරි ක්‍රීඩක පැතුම් ට අලුත් තැනක්
+### A new place for Super players
 
 *2024-03-20 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194746) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ නවතම  එක්දින ශ්‍රේණිගත කිරීම්වලට අනුව පිතිකරුවන්ගේ ලැයිස්තුවේ පෙරමුණට පැමිණීමට ශ්‍රී ලංකා ආරම්භ පිතිකරු පැතුම් නිස්සංක සමත්ව තිබේ.
+Sri Lankan Nissanka moves up to 8th in ODI rankings, surpassing Pakistani Barber Assam, who leads with 824 runs.
 
-මේ වනවිට පැතුම් නිස්සංක එක්දින පිතිකරුවන්ගේ ලැයිස්තුවේ රැඳී සිටින්නේ 08 වන ස්ථානයේය.
+🟩
 
-ඔහු මීට පෙර 11 වන ස්ථානයේ රැඳී සිටි අතර ස්ථාන 3ක් පෙරමුණට පැමිණීමට සමත්ව ඇත.
+The Sri Lankan brand is the opener of the Sri Lankan bounker to arrive at the batsmen's list of the batsmen according to the latest ODI rankings of the International Cricket Council.
 
-තවදුරටත් එහි පෙරමුණේ සිය ස්ථානය රැකගැනීමට පාකිස්තාන සුපිරි පිතිකරු බාබර් අසාම් සමත්ව ඇත්තේ ප්‍රසාද ලකුණු 824ක් හිමිකරගනිමින්ය.
+At present, the gospel Nissanka's list of ODI batsmen is 8th.
+
+He stayed at the 11th before and 3 places to be in the forefront.
+
+Pakistani batsman Barber Assam has been able to save 824 runs in the front front.
 
 ◼️
 
 [Data](articles/b8c812d5.json)
+
+[Extended Data](ext_articles/b8c812d5.ext.json)
+
+---
+
+### SF participates in SJB working committee
+
+*2024-03-20 18:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SF-participates-in-SJB-working-committee/108-279251) · `en`
+
+Colombo, March 20 (Daily Mirror) - Samagi Jana Balawegaya (SJB) Chairman Sarath Fonseka participated in the party's working committee meeting.
+
+Party sources said Field Marshal Fonseka did not speak but only listened to others.
+
+Fonseka obtained a stay order from the Supreme Courts against his suspension from the SJB recently.
+
+◼️
+
+[Data](articles/39b5084a.json)
 
 ---
 
@@ -84,19 +112,27 @@ There was a net foreign inflow of close to 2 million. (Colombo/Mar20/2024)
 
 [Data](articles/a1611b6c.json)
 
+[Extended Data](ext_articles/a1611b6c.ext.json)
+
 ---
 
-### கொழும்பில் பதற்றம்;காணொளி
+### Tension in Colombo; video
 
 *2024-03-20 18:24:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-பதற்றம்-காணொளி/175-334944) · `ta`
 
-கொழும்பு புறக்கோட்டையில் ஆர்ப்பாட்டக்காரர்களை கட்டுப்படுத்த பொலிஸார் , தண்ணீர் பாய்ச்சல் மற்றும் கண்ணீர்ப்புகை தாக்குதல் நடாத்தியதையடுத்து பதற்ற நிலை ஏற்பட்டது.
+In Colombo, police used water, tear gas to control demonstrators at the Fort, organized by 'Jana Charity Trade' (People's Movement), focusing on cost of living and foreign agreements.
 
-'ஜன அறகல வியாபரய' (மக்கள் போராட்ட இயக்கம்) ஏற்பாடு செய்த இந்த எதிர்ப்பு ஆர்ப்பாட்டமானது, வாழ்க்கைச் செலவுகள் மற்றும் சர்ச்சைக்குரிய வெளிநாட்டு ஒப்பந்தங்கள் உட்பட எண்ணற்ற குறைகளை மையமாகக் கொண்டு முன்னெடுக்கப்படுகிறது.
+🟩
+
+The police, water flow and tear gas struck to control the demonstrators at the Colombo Fort.
+
+The protest, organized by the 'Jana Charity Trade' (People's Movement), is focusing on the numerous grievances, including the cost of living and controversial foreign agreements.
 
 ◼️
 
 [Data](articles/278b874d.json)
+
+[Extended Data](ext_articles/278b874d.ext.json)
 
 ---
 
@@ -162,19 +198,29 @@ The committee’s meeting preceded an extraordinary session of Vietnam’s rubbe
 
 ---
 
-### கத்னா செய்வதை தடைசெய்வோம்: நளிந்த விளக்கம்
+### Let us ban Katna:
 
 *2024-03-20 17:52:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்னா-செய்வதை-தடைசெய்வோம்-நளிந்த-விளக்கம்/175-334943) · `ta`
 
-தேசிய மக்கள் சக்தியின் 2019 ஆம் ஆண்டின் கொள்கை வெளியீட்டில் பெண்கள் மற்றும் ஆண்களின் பாலுறுப்புத் தொடர்பான விருத்தசேதனம் செய்தல் தொடர்பில் பாதிப்புக்கும் துன்புறுத்தலுக்கும் உள்ளாகின்ற விடயங்கள் தொடர்பில் திருத்தயமைக்க நடவடிக்கை எடுக்கப்படும் என தெளிவாக குறிப்பிட்டுள்ளோம் ஆனால் முஸ்லிம் மக்கள் சுன்னத் மற்றும் கத்னா செய்வதை தடைசெய்வோம்  என குறிப்பிடவில்லை என தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் டொக்டர் நளிந்த ஜயதிஸ்ஸ தெரிவித்தார்.
+The National People's Power 2019 aims to address issues affecting women and men, including practices like circumcision, by amending laws against harm and harassment. It emphasizes the importance of Sunnah and Katna, clarifying that laws will be enacted against any form of harassment, recognized by 195 countries. The text criticizes the misuse of media by the Presidential Media Division, accusing it of spreading misinformation and provoking religious discord.
 
-தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் டொக்டர் நளிந்த ஜயதிஸ்ஸ இன்று புதன்கிழமை (20) ஊடக அறிக்கை ஒன்றை வெளியிட்டுள்ளார்.
+🟩
 
-சீதனம், விருத்தசேதனம் போன்ற நடைமுறைகள் காரணமாக பெண்கள் மற்றும் ஆண்கள் பாதிப்புறுவதை, துன்புறுத்தலுக்கு ஆளாவதை தடுப்பதற்கான சட்டங்களை தேசிய மக்கள் சக்தி உருவாக்குவது பற்றிய விடயங்கள் சமூகவலைத்தளங்களில் வெளிவந்தன அதில் முஸ்லிம் மக்கள் சுன்னத் மற்றும் கத்னா செய்வதை தடுத்து நிறுத்தப்போதாகவும் குறிப்பிடப்பட்டன.
+The National People's Power Release of the National People's Power 2019 has clearly stated that action will be taken to amend the issues that are affected and harassment of women and men, but that the Muslim people do not refer to the Sunnah and Katna.
+
+National Executive Committee member of the National People's Power
+
+Due to practices such as church and circumcision, the issue of national people's power to prevent women and men from being harmed and harassed.
+
+It is a phrase that includes women's affiliation and the release of the National People's Power 2019. That is not a false. It is clearly stated that steps will be taken to amend the issues that have been harmed and harassed regarding the prevalence of women and men.
+
+We do not mention that we will not refer to the Sunnah.. We have said that anyone is making laws against one person to harm and harass.
 
 ...
 
 [Data](articles/2a0bb648.json)
+
+[Extended Data](ext_articles/2a0bb648.ext.json)
 
 ---
 
@@ -2295,29 +2341,5 @@ The Hy-Paddy drugs currently in use can stop the spread of the virus, but it fai
 [Data](articles/6b30fb30.json)
 
 [Extended Data](ext_articles/6b30fb30.ext.json)
-
----
-
-### 29 policemen arrested in protest of the People's Struggle
-
-*2024-03-20 11:42:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72013088g7o) · `si`
-
-29 policemen arrested in Colombo protest against government repression and economic issues.
-
-🟩
-
-It contains nothing here.Vesidia, the protester, which was referring to the government's repression, and the problems of the country.
-
-The folk struggle movement was warm and there was a warm quality with the police in a protest in Colombo today (March 20).
-
-At the time, police were attacked by water and tear gas.
-
-In this protest, economic and foreign policies were criticized in the protest, which was referring to the repression of the government and the issues in the country.
-
-◼️
-
-[Data](articles/01350e59.json)
-
-[Extended Data](ext_articles/01350e59.ext.json)
 
 ---

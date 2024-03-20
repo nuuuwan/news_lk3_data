@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 14:51:05**
+As of **2024-03-20 15:02:53**
 
 ## Newspaper Stats
 
-*Scraped **14,078** Articles*
+*Scraped **14,081** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,105 @@ dailyftlk | 734
 economynextcom | 745
 islandlk | 770
 adalk | 1,216
-adaderanalk | 1,692
+adaderanalk | 1,693
 tamilmirrorlk | 1,706
 virakesarilk | 1,976
-dailymirrorlk | 2,157
-adaderanasinhalalk | 2,243
+dailymirrorlk | 2,158
+adaderanasinhalalk | 2,244
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,077 (100.0%) of 14,078 articles have been extended.
+14,078 (100.0%) of 14,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### நீதிமன்றத்தை அவமதித்த சட்டத்தரணிக்கு விளக்கமறியல்
+### Scientists say they can cut HIV out of cells
+
+*2024-03-20 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98078/scientists-say-they-can-cut-hiv-out-of-cells) · `en`
+
+Scientists say they have successfully eliminated HIV from infected cells, using Nobel Prize-winning Crispr gene-editing technology.
+
+Working like scissors, but at the molecular level, it cuts DNA so “bad” bits can be removed or inactivated.
+
+The hope is to ultimately be able to rid the body entirely of the virus, although much more work is needed to check it would be safe and effective.
+
+Existing HIV medicines can stop the virus but not eliminate it.
+
+The University of Amsterdam team, presenting a synopsis, or abstract, of their early findings at a medical conference this week, stress their work remains merely “proof of concept” and will not become a cure for HIV any time soon.
+
+And Dr James Dixon, stem-cell and gene-therapy technologies associate professor at the University of Nottingham, agrees, saying the full findings still require scrutiny.
+
+“Much more work will be needed to demonstrate results in these cell assays can happen in an entire body for a future therapy,” he said.
+
+...
+
+[Data](articles/947271d3.json)
+
+---
+
+### අපේක්ෂා රෝහලේ අවශ්‍යම යන්ත්‍රයක් බිඳවැටෙයි
+
+*2024-03-20 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194732) · `si`
+
+මහරගම අපේක්ෂා රෝහලේ ප්‍රතිකාර ලබන පිළිකා ආසාදිත කුඩා දරුවන්ට විකිරණ ප්‍රතිකාර කටයුතු සිදුකරන යන්ත්‍රය පෙබරවාරි 29 වනදා සිට අක්‍රීය වී ඇති බව රජයේ විකිරණ විද්‍යා තාක්ෂණවේදීන්ගේ සංගමය පවසයි.
+
+ඒ සඳහා භාවිත කරන "ලීනියර් ඇක්සලරේටර් යන්ත්‍රය" පෙබරවාරි 29 වනදා බිඳ වැටී ඇති අතර එය මේ වනතෙක් යථා තත්ත්වයට පත්කර නොමැති බව එම සංගමයේ සභාපති චානක ධර්මවික්‍රම පැවසීය.
+
+ඒ හේතුවෙන් දිනකට කුඩා දරුවන් 10 - 15 අතර ප්‍රමාණයක ප්‍රතිකාර කළ නොහැකි තත්ත්වයක් උද්ගතවී ඇති බව සඳහන් ය.
+
+පිළිකා රෝගියෙකුට පෞද්ගලික රෝහලකින් මෙම පිළිකා ප්‍රතිකාරක ලබාගැනීමට රුපියල් ලක්ෂ 7 - 17ත් අතර මුදලක් වැය කිරීමට සිදුවෙන බවද ඔහු පැවසීය.
+
+◼️
+
+[Data](articles/521627e0.json)
+
+---
+
+### Explanation to the lawyer who insulted the court
 
 *2024-03-20 14:35:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தை-அவமதித்த-சட்டத்தரணிக்கு-விளக்கமறியல்/175-334929) · `ta`
 
-நீதிமன்றத்தை அவமதித்ததாக கூறப்படும் சட்டத்தரணி ஒருவரை எதிர்வரும் 3ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு உத்தரவிட்ட உயர் நீதிமன்றம், நீதிமன்ற அவமதிப்பு குற்றச்சாட்டின் கீழ் அவருக்கு எதிராக குற்றப்பத்திரிகை தாக்கல் செய்யுமாறு சட்டமா அதிபருக்கு உத்தரவிட்டுள்ளது.
+The High Court has ordered the Attorney General to file an indictment against him for contempt of court by the 3rd of this month. Attorney Jayatunga is under interrogation, with High Court Judges Prithi Padman Surasena, Gamini Amaratunga, and Kumuduni Wickremesinghe present.
 
-சட்டத்தரணியான ஜயதுங்க விளக்கமறியலில் வைக்கப்பட்டுள்ளார். உயர் நீதிமன்ற நீதியரசர்களான பிரிதி பத்மன் சூரசேன, காமினி அமரதுங்க மற்றும் குமுதுனி விக்கிரமசிங்க ஆகியோர் இவ்வாறு தீர்ப்பளித்தனர்.
+🟩
+
+The High Court has ordered the Attorney General to file an indictment against him under the jurisdiction of a court contempt of court until the 3rd of this month.
+
+Attorney Jayatunga has been placed in interrogation. High Court Judges Prithi Padman Surasena, Gamini Amaratunga and Kumuduni Wickremesinghe were present.
 
 ◼️
 
 [Data](articles/e9ea1c89.json)
+
+[Extended Data](ext_articles/e9ea1c89.ext.json)
+
+---
+
+### Scientists say they can cut HIV out of cells
+
+*2024-03-20 14:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Scientists-say-they-can-cut-HIV-out-of-cells/108-279239) · `en`
+
+March 20, (BBC) - Scientists say they have successfully eliminated HIV from infected cells, using Nobel Prize-winning Crispr gene-editing technology.
+
+Working like scissors, but at the molecular level, it cuts DNA so "bad" bits can be removed or inactivated.
+
+The hope is to ultimately be able to rid the body entirely of the virus, although much more work is needed to check it would be safe and effective.
+
+Existing HIV medicines can stop the virus but not eliminate it.
+
+The University of Amsterdam team, presenting a synopsis, or abstract, of their early findings at a medical conference this week, stress their work remains merely "proof of concept" and will not become a cure for HIV any time soon.
+
+And Dr James Dixon, stem-cell and gene-therapy technologies associate professor at the University of Nottingham, agrees, saying the full findings still require scrutiny.
+
+"Much more work will be needed to demonstrate results in these cell assays can happen in an entire body for a future therapy," he said.
+
+◼️
+
+[Data](articles/687b0991.json)
 
 ---
 
@@ -2219,73 +2291,5 @@ The General Secretary of the Jathika Force, General Secretary Ranjith Madduma Ba
 [Data](articles/4622a80e.json)
 
 [Extended Data](ext_articles/4622a80e.ext.json)
-
----
-
-### Sri Lanka says foreign research ships allowed for replenishment after Chinese protest
-
-*2024-03-20 07:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-says-foreign-research-ships-allowed-for-replenishment-after-chinese-protest-155278/) · `en`
-
-ECONOMYNEXT – Sri Lanka will allow offshore research ships for replenishments at the island nation ports despite a one-year ban on such vessels, Foreign Ministry Spokesman said amid strong protest by China over the island nation allowing a German research vessel.
-
-This is the first time Sri Lanka has officially admitted that foreign research vessels will be allowed for replenishments since President Ranil Wickremesinghe’s government imposed a one year ban on offshore research vessels in December last year.
-
-“The ban on foreign ships is for research purposes, not on replenishment”, Niluka Kadurugamuwa, Sri Lanka’s Foreign Ministry Spokesman told EconomyNext.
-
-“There was a German research vessel recently for replenishment and Sri Lanka allowed it.”
-
-Chinese Embassy in Colombo has raised strong protest against the move to allow a German research vessel early this month following the island nation’s authorities turned down a Beijing request for a research vessel in February.
-
-...
-
-[Data](articles/2d8de8eb.json)
-
-[Extended Data](ext_articles/2d8de8eb.ext.json)
-
----
-
-### Coastal Line trains experiencing further delays and cancellations
-
-*2024-03-20 06:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98066/coastal-line-trains-experiencing-further-delays-and-cancellations-) · `en`
-
-Trains operating on the Coastal Line are experiencing further disruption due to the derailment which took place last night, the Railway Department says.
-
-Accordingly, train delays and cancellations on the Coastal Line are expected to last at least until 7.00 am today (March 20).
-
-A Kalutara South-bound train had derailed near the Secretariat Station yesterday shortly after departing the Colombo Fort station at 7.15 p.m.
-
-◼️
-
-[Data](articles/cb277052.json)
-
-[Extended Data](ext_articles/cb277052.ext.json)
-
----
-
-### Train to train on the coastal route further obstacles - several trains canceled
-
-*2024-03-20 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194708) · `si`
-
-The railway line near Colombo Fort has disrupted coastal route trains, canceling four, including the Galle Postal Train. Services are now limited to Colombo only.
-
-🟩
-
-The railway line near Colombo Fort Railway Station has further disrupted the railway line.
-
-The Railway Department said that the deals were held at the Colombo Fort to Kalutara Fort to 7.15 pm yesterday (19th).
-
-Due to this, both roads along the coastal route have been blocked and the train is still being carried out, the Deputy General Manager of the Railway Department. He added.
-
-Four trains, including Galle Postal Train, has been canceled last night due to the railway line.
-
-Running train services from Colombo today (20) runs to Colombo alone and will be operated from Colombo to the Department of Railway Departments.
-
-Deputy General Manager N.S.. He added.
-
-◼️
-
-[Data](articles/8e812f75.json)
-
-[Extended Data](ext_articles/8e812f75.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 00:48:42**
+As of **2024-03-21 01:03:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,178 (100.0%) of 14,179 articles have been extended.
+14,179 (100.0%) of 14,179 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -38,13 +38,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 A suspect has opened fire at Police Special Task Force (STF) personnel while they were engaged in searching a house in the Ganemulla area.
 
-One of the STF personnel was injured in the incident while the suspect was also injured when police had returned fire.
+One of the STF personnel was injured in the incident while the suspect was also injured when police had returned fire. Both have been hospitalised.
 
-The gunman is suspected to be involved in previous underworld gang related shootings, police said.
+The gunman is suspected to be involved in several previous underworld gang related shootings, police said.
 
 ◼️
 
 [Data](articles/92963cbb.json)
+
+[Extended Data](ext_articles/92963cbb.ext.json)
 
 ---
 

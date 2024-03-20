@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 13:33:34**
+As of **2024-03-20 13:52:16**
 
 ## Newspaper Stats
 
-*Scraped **14,066** Articles*
+*Scraped **14,069** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 131
-bbccomsinhala | 154
+bbccomsinhala | 155
 dbsjeyarajcom | 190
 newsfirstlk | 363
 dailyftlk | 734
@@ -17,40 +17,80 @@ economynextcom | 745
 islandlk | 770
 adalk | 1,214
 adaderanalk | 1,690
-tamilmirrorlk | 1,703
+tamilmirrorlk | 1,704
 virakesarilk | 1,976
 dailymirrorlk | 2,156
-adaderanasinhalalk | 2,240
+adaderanasinhalalk | 2,241
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,060 (100.0%) of 14,066 articles have been extended.
+14,066 (100.0%) of 14,069 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### පොහොට්ටුවේ මන්ත්‍රී කණ්ඩායම් රැස්වීම බැසිල්ගේ ප්‍රධානත්වයෙන්
+### இருவரும் இராஜினாமா
+
+*2024-03-20 13:36:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இருவரும்-இராஜினாமா/175-334926) · `ta`
+
+தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் அனுரகுமார திஸாநாயக்க, ​அனுராதபுரம் பாராளுமன்ற உறுப்பினர் துமிந்த திஸாநாயக்க ஆகியோர், பொது நிறுவனங்கள் தொடர்பான பாராளுமன்ற  (கோப்) குழுவின் உறுப்புரிமையில் இருந்து இராஜினாமா செய்துள்ளனர்.
+
+◼️
+
+[Data](articles/c0686067.json)
+
+---
+
+### ලොව සතුටුම රට - ශ්‍රී ලංකාවට හිමිවූ තැන
+
+*2024-03-20 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194729) · `si`
+
+එක්සත් ජාතීන්ගේ සංවිධානය අනුග්‍රහය දක්වන ලෝක සතුටු වාර්තාවට අනුව මෙලෙස ෆින්ලන්තය අඛණ්ඩව 2024 වසරේ ද ලොව සතුටුම රට බවට නම් කර ඇති බව සඳහන්ය.
+
+ඩෙන්මාර්කය දෙවන ස්ථානයේත්, අයිස්ලන්තය තෙවන ස්ථානයේත් පසුවන අතර අඩු ජනගහණයක් සහිත කුඩා රටවල් රැසක් ලොව සතුටුදායක රටවල් අතර පෙරමුණට පැමිණ ඇති බව වාර්තා වේ.
+
+වසර දහයකට පසු පළමු වරට අමෙරිකාව සහ ජර්මනිය ලොව සතුටුම රටවල් 20 අතර ඇතුළත් නොවන නමුත් කුවේට් සහ කොස්ටාරිකා යන රටවල් පළමු රටවල් 20 අතරට ඇතුළත් වන බව ලෝක සතුටු වාර්තාව පෙන්වාදෙයි.
+
+රටවල් 143ක් යොදාගනිමින් සිදුකර ඇති සමීක්ෂණයට අනුව ලොව අසතුටුදායකම රට බවට පත්ව ඇත්තේ ඇෆ්ගනිස්ථානයයි.
+
+එක්සත් ජාතීන්ගේ ලෝක සතුටු වාර්තාවට අනුව ශ්‍රී ලංකාව ලොව සතුටුම රටවල් දර්ශකයේ 128 වන ස්ථානයට පත්ව ඇති අතර ඉන්දීයාව, පාකිස්තානය, කෙන්යාව, උගන්ඩාව, ටියුනීසියාව යන රටවල්  ද ශ්‍රී ලංකාවට වඩා ඉහළ ස්ථානවල පසුවීම විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/1bc20999.json)
+
+---
+
+### Basil's leader of MP Group Meeting in Pohoth
 
 *2024-03-20 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194728) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ පාර්ලිමේන්තු කණ්ඩායම් රැස්වීම අද (20) දහවල් පැවැත්වීමට නියමිතව තිබේ.
+Basil Rajapaksa leads MP Group Meeting in Pohoth, discussing presidential candidate selection and no-confidence motion against Speaker Mahinda Yapa Abeywardena.
 
-බත්තරමුල්ල නෙළුම් මාවත පක්ෂ කාර්යාලයේ දී එම පක්ෂයේ ජාතික සංවිධායක බැසිල් රාජපක්ෂ මහතාගේ ප්‍රධානත්වයෙන් මෙම කණ්ඩායම් රැස්වීම පැවැත්වීමට නියමිතය.
+🟩
 
-ජනාධිපතිවරණය සහ මහමැතිවරණය සම්බන්ධයෙන් මේ වනවිට කතාබහක් මතුව ඇති අතර ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක බැසිල් රාජපක්ෂ මහතා ජනාධිපතිවරයා සමඟ පැවැති සාකච්ඡාවකදී ප්‍රකාශ කර ඇත්තේ ප්‍රථමයෙන් මහ මැතිවරණය පැවැත්වීම සුදුසු බවය.
+The Sri Lanka General Mannar Parliamentary group meeting will be held today (20).
 
-ඒ අනුව මේ සම්බන්ධයෙන් ශ්‍රී ලංකා පොදුජන පෙරමුණේ සාමාජිකයින්ගේ මතය විමසීම සහ ඉදිරි ජනාධිපතිවරණ අපේක්ෂකත්වය සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා මෙම රැස්වීම කැඳවා ඇති බව සඳහන්ය.
+The group will be held under the patronage of the National Organizer Basil Rajapaksa at Nelum Mawatha, Battaramulla.
 
-ඉදිරි ජනාධිපතිවරණයේ දී අපේක්ෂකයා ලෙස වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරිපත් කළ යුතු බවත් ඔහුට පක්ෂයේ සහයෝගය ලබාදිය යුතු බවත් පොදුජන පෙරමුණ නියෝජනය කරන බොහෝ මැතිඇමතිවරුන් පක්ෂ නායකත්වයට දැනුම් දී තිබේ.
+The Presidential Election and the General Election have emerged and the National Organizer of the Sri Lanka General Election, the National Organizer of the Sri Lanka General Association has stated that the President is the best election.
 
-එමෙන්ම තවත් පිරිසක් ප්‍රකාශ කර ඇත්තේ පොදුජන පෙරමුණෙන් ඉදිරි ජනාධිපතිවරණය සඳහා අපේක්ෂකයෙකු ඉදිරිපත් කළ යුතු බවය.
+Accordingly, the meeting has been called to consult the opinion of the members of the Sri Lanka Civil Appointment and the next presidential candidate.
+
+The current presidential election should be submitted as the candidate as candidate and the party's support should be supported by the party.
+
+Another group has stated that a candidate should be submitted for the next presidential election.
+
+Internal sources of the Sri Lanka General Sources say that the final agreement is scheduled to appear in this regard today.
 
 ...
 
 [Data](articles/e8efa5a3.json)
+
+[Extended Data](ext_articles/e8efa5a3.ext.json)
 
 ---
 
@@ -70,6 +110,8 @@ Meanwhile, Parliamentarian Duminda Dissanayake has also resigned from the COPE t
 
 [Data](articles/7a26b51f.json)
 
+[Extended Data](ext_articles/7a26b51f.ext.json)
+
 ---
 
 ### Suwa Seriya earns global acclaim from World Bank
@@ -85,6 +127,8 @@ Raiser commended the service for its exceptional response time, noting that pati
 ...
 
 [Data](articles/11529e10.json)
+
+[Extended Data](ext_articles/11529e10.ext.json)
 
 ---
 
@@ -157,6 +201,8 @@ The public is requested to take adequate precautions to minimize damages caused 
 ◼️
 
 [Data](articles/2ebe0862.json)
+
+[Extended Data](ext_articles/2ebe0862.ext.json)
 
 ---
 
@@ -344,6 +390,8 @@ He is also scheduled to meet the Sri Lankan Muslim and Tamil diaspora in Canada.
 
 [Data](articles/609d25f9.json)
 
+[Extended Data](ext_articles/609d25f9.ext.json)
+
 ---
 
 ### Service by Indian Embassy
@@ -425,6 +473,8 @@ A street drama titled "Sura Baba Komasaris" took place in front of the Excise De
 ◼️
 
 [Data](articles/8cc17ed6.json)
+
+[Extended Data](ext_articles/8cc17ed6.ext.json)
 
 ---
 
@@ -1864,6 +1914,26 @@ He said that the recent shooting incidents reported in the Elpitiya Police divis
 
 ---
 
+### 'සාපරාධී ක්‍රියාවක්' වූ පාරට බුලත් කෙළ ගැසීමේ නීතිය ගැන ඔබ දන්නවා ද?
+
+*2024-03-20 07:47:05* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6pjlpe85g4o) · `si`
+
+'සාපරාධී ක්‍රියාවක්' වූ පාරට බුලත් කෙළ ගැසීමේ නීතිය ගැන ඔබ දන්නවා ද?
+
+බුලත් යනු සිංහල සංස්කෘතිය සමග ඈත අතීතයේ සිට අත්‍යන්ත බැඳීමක් සහිත ශාකයක් වන අතර ශ්‍රී ලංකාවේ දේශපාලනය කෙරෙහි ද බුලත්වලින් බලපෑම් සිදුවූ අවස්ථා මෑත ඉතිහාසයේ පවා දැකිය හැකි ය.
+
+"බුලත් විට වෙනුවට චුවින්ගම් හැපීමට සලසන ආර්ථිකයක් නිර්මාණය කරන," බවට ජනාධිපතිවරණයකදී මහජන රැලියක් අමතමින් වරක් රනිල් වික්‍රමසිංහ කළ ප්‍රකාශයක් විරුද්ධ පක්ෂවල නිර්දය ලෙස විවේචනයට ලක්වූයේ, "රනිල් වික්‍රමසිංහ ජනාධිපති වුවහොත් රටේ සංස්කෘතිය ඉවරයි," යනුවෙන් චෝදනා නගමිනි.
+
+එම චෝදනා රනිල් වික්‍රමසිංහගේ දේශපාලනික ගමන්මගට බෙහෙවින් බලපෑවේ ය. රනිල් වික්‍රමසිංහ 'සිංහල සංස්කෘතිය' සමග බද්ධ නොවන චරිතයක් ලෙස අර්ථ දැක්වීමට එම චෝදනා දැවැන්ත බලපෑමක් එල්ල කළේ ය.
+
+ඊට අමතරව, රනිල්ට එල්ල වූ ප්‍රතිරෝධයට සමගාමීව ජනතා ආකර්ෂණය දිනා ගැනීමට මෙන් එක්සත් ජනතා නිදහස් සන්ධනයේ ඡන්ද සලකුණ ලෙස 'බුලත් කොළය' භාවිත කෙරිණි.
+
+...
+
+[Data](articles/29c48c1f.json)
+
+---
+
 ### Temporary change in prevailing dry weather expected after today
 
 *2024-03-20 07:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98067/temporary-change-in-prevailing-dry-weather-expected-after-today) · `en`
@@ -2187,75 +2257,5 @@ Meanwhile, Microsoft representatives have assured the president that the school 
 [Data](articles/65736f53.json)
 
 [Extended Data](ext_articles/65736f53.ext.json)
-
----
-
-### Fishermen's continuous fasting
-
-*2024-03-20 02:53:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவர்கள்-தொடர்-உண்ணாவிரதம்/175-334912) · `ta`
-
-Jaffna district fishermen are fasting to protest against the violation of Indian fishermen's rights. The Federation of District Rural Fisheries Organizations and the Federation of District Fisheries Co-operative Societies have been fasting in front of St. John Posco Vidyalaya since yesterday morning.
-
-🟩
-
-Jaffna district fishermen have launched a food avoidance struggle to condemn the violation of Indian fishermen.
-
-Yall. Federation of District Rural Fisheries Organizations. The Federation of District Fisheries Co -operative Societies has been engaged in a food skipper in front of St. John Posco Vidyalaya, Jaffna since yesterday morning.. (A)
-
-◼️
-
-[Data](articles/af2d31e5.json)
-
-[Extended Data](ext_articles/af2d31e5.ext.json)
-
----
-
-### "The business of the Hitanigai is V & S Bakers
-
-*2024-03-20 02:33:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clwe10pxvgzo) · `si`
-
-"V & S Bakers, run by 12 & 13-year-old sisters, sells cakes and bakery products. Despite parents not focusing on money, they've adapted to the Corona Epidemic by using mobile phones, with guidance from teachers."
-
-🟩
-
-It is not included in this regard.
-
-While educational activities, two sisters, including the cake, hear about two sisters, including the cake, and hear of bakery products.
-
-The two daughters of 12 and 13 years old sell their products as 'V & S Bakers'.
-
-"The business of the Hitanigai is V & S Bakers. When the mothers do not study money at the money of the cake, Senaratne told the BBC Sinhala service.
-
-She says that it was interested in using mobile phones with mobile phones with mobile phones during the Corona Epidemic.
-
-The parents say that the teachers of the school are also guided and guidance and children will be well-induced.
-
-◼️
-
-[Data](articles/6e9aa24e.json)
-
-[Extended Data](ext_articles/6e9aa24e.ext.json)
-
----
-
-### Don't go to the Arabian Sea
-
-*2024-03-20 02:31:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரபிக்கடலுக்கு-செல்ல-வேண்டாம்/175-334911) · `ta`
-
-Fishermen are advised not to fish in the Arabian Sea due to dangerous conditions in the Somalia Marine Zone. The Sri Lankan navy and the Department of Fisheries have identified hazardous zones, advising against fishing there.
-
-🟩
-
-Fishermen have been instructed by the Department of Fisheries not to engage in fishing activities in the Arabian Sea.
-
-The Department of Sri Lanka has announced that the Sri Lankan navy has announced that there is a very dangerous situation in the international waters in the east of the Somalia Marine Zone, 700 nautical miles.
-
-Considering the situation, the Department of Fisheries has been instructed to engage in fishing activities in the eastern region of the Arabian Sea, except for the present -day hazardous zones as long as possible.(a)
-
-◼️
-
-[Data](articles/898fc2ac.json)
-
-[Extended Data](ext_articles/898fc2ac.ext.json)
 
 ---

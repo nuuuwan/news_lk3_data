@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 15:18:04**
+As of **2024-03-20 15:33:29**
 
 ## Newspaper Stats
 
-*Scraped **14,087** Articles*
+*Scraped **14,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,87 @@ islandlk | 770
 adalk | 1,217
 adaderanalk | 1,694
 tamilmirrorlk | 1,706
-virakesarilk | 1,976
-dailymirrorlk | 2,159
+virakesarilk | 1,980
+dailymirrorlk | 2,160
 adaderanasinhalalk | 2,247
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,081 (100.0%) of 14,087 articles have been extended.
+14,087 (100.0%) of 14,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### நாணயத்ததாள்களை சேதப்படுத்த தடை
+
+*2024-03-20 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/179228) · `ta`
+
+நாட்டில் நாணயத்தாள்களை வேண்டுமென்றே உருவச்சிதைத்தல் அல்லது சேதப்படுத்தல் தொடர்பாக பொதுமக்களுக்கு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+ஆபரணங்கள் மற்றும் பரிசுப் பொருட்களை தயாரிப்பதற்கு நாணயத்தாள்கள் பயன்படுத்தப்படுவது தொடர்பில்  சமூக ஊடகங்களில்  விளம்பரங்கள் அவதானிக்கப்பட்டுள்ளதாகத் தெரிவித்துள்ளதாக  இலங்கை மத்திய வங்கி (CBSL) தெரிவித்துள்ளது.
+
+நாணயத்ததாள்களை சேதப்படுத்துவது, தண்டனைக்குரிய குற்றமாகும் என  இலங்கை மத்திய வங்கி எச்சரிக்கை விடுத்துள்ளது.
+
+குற்றவாளிகள் என கண்டறியப்பட்டவர்களுக்கு 2 கோடியே 50 இலட்சம் ரூபாய் அபராதம் அல்லது அதிகபட்சம் மூன்று ஆண்டுகள் சிறைத்தண்டனை விதிக்கப்படும் என மத்திய வங்கி மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/96e2a455.json)
+
+---
+
+### 300 ரூபாவை விட குறைந்தது அமெரிக்க டொலரின் பெறுமதி
+
+*2024-03-20 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/179226) · `ta`
+
+இன்று புதன்கிழமை (மார்ச் 20) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலருக்கு நிகரான இலங்கை ரூபாவின் பெறுமதி மேலும் வலுவடைந்துள்ளது.
+
+இதற்கமைய அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 299.1361 ஆகவும் விற்பனை விலை ரூபா 308.7249 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+2023ம் ஆண்டு ஜூலை மாதத்திற்கு பின்னர் அமெரிக்க டொலரின் கொள்முதல் விலை 300 ரூபாவை விட குறைந்துள்ள முதற் சந்தர்ப்பம் இதுவாகும்.
+
+◼️
+
+[Data](articles/72363ba8.json)
+
+---
+
+### பாகிஸ்தான் சுரங்கத்தில் வெடிப்புச் சம்பவம்: 12 பேர் பலி
+
+*2024-03-20 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/179232) · `ta`
+
+பாகிஸ்தானின் நிலக்கரி சுரங்கமொன்றில் ஏற்பட்ட வெடிப்புச் சம்பவத்தில் 12 பேர் உயிரிழந்துள்ளனர் என அதிகாரிகள் இன்று தெரிவித்துள்ளனர்.
+
+மீட்பு நடவடிக்கைகள் இன்று பிற்பகல் நிறைவடைந்ததாக பலோசிஸ்தான் மாகாண  சுரங்க கண்காணிப்பு அதிகாரி ஒருவர் தெரிவித்துள்ளார்.
+
+வெடிப்புச் சம்பவம் இடம்பெற்றபோது சுரங்கத்துக்குள் 20 ஊழியர்கள் இருந்தனர். அவர்களில் 8 பேர் காப்பாற்றப்பட்டனர், 12 பேர் உயிரிழந்தனர் எனவும் அவர் கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/9551e55e.json)
+
+---
+
+### கோப் குழுவிலிருந்து அநுர குமார  உள்ளிட்ட 9 பேர் இதுவரை விலகல்
+
+*2024-03-20 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/179231) · `ta`
+
+அரசாங்க பொறுப்பு முயற்சிகள் பற்றிய (கோப்) குழுவிலிருந்து இன்று செவ்வாய்க்கிழமை (19) மேலும் மூவர் இராஜினாமா செய்துள்ளதுடன், அக் குழுவிலிருந்து இன்று வரை ஒன்பது உறுப்பினர்கள் தமது பதவியை இராஜினாமா செய்துள்ளனர்.
+
+இன்றைய தினம் பாராளுமன்ற உறுப்பினர்களான அனுரகுமார திசாநாயக்க, வசந்தயாப்பா பண்டார,மற்றும் துமிந்த திசாநாயக்க ஆகியோரும் தமது உறுப்பினர் பதவியிலிருந்து இராஜினாமா செய்துள்ளனர்
+
+கோப்குழு தலைவராக  பொதுஜன பெரமுன உறுப்பினர் ரோஹித அபேகுணவர்தன நியமிக்கப்பட்டதைத் தொடர்ந்து  அதற்கு எதிர்ப்பு தெரிவிக்கும் வகையில் அந்தக் குழுவிலிருந்து  உறுப்பினர்கள் தமது உறுப்பினர் பதவிகளை இராஜினாமா செய்து வருகின்றனர்.
+
+மேற்படி குழுவிலிருந்து கடந்த திங்கட்கிழமை ஐக்கிய மக்கள் சக்தி எம். பி எரான் விக்ரமரட்ன பதவி விலகியதையடுத்து நேற்று முன்தினம்  எதிர்த்தரப்பு சுயாதீன எம்.பிக்களான  தயாசிறி ஜயசேகர, சரித்த ஹேரத், ஐக்கிய மக்கள் சக்தி எம்.பிக்களான  ஹேஷா விதானகே, , எஸ்.எம்.மரிக்கார் மற்றும் தமிழ்த் தேசியக் கூட்டமைப்பு எம்பி சாணக்கியன் ஆகியோரும் பதவி விலகினர்.
+
+...
+
+[Data](articles/a5afd8e4.json)
+
+---
 
 ### Tear gas and water cannons fired at protesters in Pettah
 
@@ -44,73 +112,99 @@ The demonstration had been organized by the ‘Jana Aragala Viyaparaya’ (Peopl
 
 [Data](articles/743bb704.json)
 
+[Extended Data](ext_articles/743bb704.ext.json)
+
 ---
 
-### දමිතා සහ සැමියාගේ ඉල්ලීමට අදාළ නියෝගය ලබාදීම ලබන 27දා
+### Damitha and the order of husbands on the 27th
 
 *2024-03-20 15:04:12* · [`adalk`](https://www.ada.lk/breaking_news/දමිතා-සහ-සැමියාගේ-ඉල්ලීමට-අදාළ-නියෝගය-ලබාදීම-ලබන-27දා/11-408725) · `si`
 
-කොරියාවට යවන බව පවසා රුපියල් ලක්ෂ 30ක මුදලක් වංචා කළ බවට චෝදනා එල්ලවී ඇති ප්‍රවීණ රංගන ශිල්පිනී දමිතා අබේරත්න මහත්මිය සහ ඇයගේ සැමියාට එරෙහිව පරිගණක අපරාධ කොට්ඨාශය විසින් අද අධිකරණය හමුවේ කරුණු වාර්තා කර තිබේ. ඒ අනුව පරිගණක අපරාධ කොට්ඨාශය දැනුම්දී ඇත්තේ ආගාමික සහ විගාමික පනත යටතේ වැරදි අනාවරණය බවයි. දමිතා අබේරත්න මහත්මිය සහ ඇයගේ සැමියා විසින් සිදුකළ අපේක්ෂිත ඇපය සම්බන්ධයෙන් විරුද්ධ වන බවද පොලීසිය වැඩිදුරටත් අධිකරණය හමුවේ කරුණු වාර්තා කළේය.
+Damitha and her husband face legal issues, with the Computer Crimes Division opposing their actions. The court postponed arrest, citing misconceptions under the Immigration and Emigration Act.
 
-ඒ අනුව කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා ප්‍රකාශ කලේ  ඔවුන් අත්අඩංගුවට නොගන්නා ලෙසට අධිකරණයේ කළ ඉල්ලීමට අදාළ නියෝගය ලබාදීම  27දා දක්වා කල්තබන බවයි.
+🟩
+
+The Computer Crimes Division (Mrs. Damitha Abeyratne, who has been accused of defrauding Rs.. Accordingly, the Computer Crime Division has been informed of misconception under the Immigration and Emigration Act. Police also opposed the desired policy of Mrs. Damitha Abeyratne and her husband.
+
+Accordingly, Fort Magistrate Thilina Gamage stated that the order on the court of the court was postponed to not arrest them.
 
 ◼️
 
 [Data](articles/7b644239.json)
 
+[Extended Data](ext_articles/7b644239.ext.json)
+
 ---
 
-### අනිවාර්යයෙන් ගෙදර යන්න වෙනවා  - අනුර කුමාර
+### Mistually got home - Anura Kumara
 
 *2024-03-20 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194735) · `si`
 
-කථානායකවරු කවදාවත් සාධාරණව කටයුතු කර නොමැති බව ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා පවසයි.
+Anura Kumara Dissanayake criticizes Speaker Mahinda Yapa Abeywardena for unreasonable behavior, calling for a national election to remove all current officials. He accuses the Speaker of bringing his family into politics, including appointing his children to key positions.
 
-ඔහු අද (20) පාර්ලිමේන්තුවේදී සඳහන් කළේ යාපා, යාපා පරම්පරාවක් පාර්ලිමේන්තුවට රැගෙන ආ බවය.
+🟩
 
-කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ විවාදයට එක්වෙමින් ඔහු මේ බව පැවසීය.
+Leader of the National Power Anura Kumara Dissanayake says that the Speaker has never been reasonable.
 
-"පාර්ලිමේන්තුව සම්බන්ධයෙනුත් ජනතාවගේ විශ්වාසය භංග වෙලා තියෙන්නේ. ඒ සියල්ල ඉවත් කිරීම සඳහා මාස 6ක් 7ක් තුළ ජාතික මැතිවරණයක් එනවා. ඒ නිසා කථානායකවරයා හෙට ඡන්දෙදී සමත් වුණත් තව මාස 6කින් අනිවාර්යයෙන් ගෙදර යන්න වෙනවා."
+He said in Parliament today (20), Yapa brought a generation to Parliament.
 
-"මහින්ද යාපා අබේවර්ධනට මේ මොකක්ද සිද්ධ වුණේ. මේක යාපාගේ දියවීමක් විතරක් නෙමෙයි අපේ රටේ දේශපාලනයේ දියවීමක් මෙතන තිබෙනවා."
+He was speaking at the debate on the no-confidence motion against Speaker Mahinda Yapa Abeywardena.
 
-"කථානායකවරයා... ඔහු විටෙක ආණ්ඩුවට බයයි. තවත් විටෙක විපක්ෂයටත් බයයි. විපක්ෂනායකට පැය 2කට ආසන්න කාලයක් මේ සභාවේ කෝලම් කරන්න ඉඩ දීලා තියෙනවා."
+"People's faith in Parliament has been terrorized. There is a national election within 6 months to remove all of them. Therefore, the Speaker has won the election tomorrow, but it must have to go home in six months. "
+
+"What happened to Mahinda Yapa Abeywardena?. This is not just Yapa's meltness and a melt of our country's politics. "
+
+"Speaker. He is afraid of the government. Opposition is also afraid of the opposition. Opposition lease has led to the collid of this House for nearly 2 hours. "
 
 ...
 
 [Data](articles/a3cec4ca.json)
 
+[Extended Data](ext_articles/a3cec4ca.ext.json)
+
 ---
 
-### පොලීසියෙන් ජල හා කඳුළු ගෑස්
+### Water and tear gas from police
 
 *2024-03-20 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194734) · `si`
 
-ජන අරගල ව්‍යාපාරය සංවිධානය කළ විරෝධතාවයක් විසුරුවා හැරීම සඳහා පොලීසිය පිටකොටුවේ දී ජල හා කඳුළු ගෑස් ප්‍රහාරයක් එල්ලකළේය.
+Police in Pettah used water and tear gas to disperse a protest organized by the People's Struggle Movement.
+
+🟩
+
+Police and tear gas were attacked in Pettah to dissolve an objection organized by the People's Struggle Movement.
 
 ◼️
 
 [Data](articles/6a0d1506.json)
 
+[Extended Data](ext_articles/6a0d1506.ext.json)
+
 ---
 
-### මුළු රටටම සුබ ආරංචියක්
+### Good news for the whole country
 
 *2024-03-20 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194733) · `si`
 
-දිවයිනේ දැනට පවතින වියළි කාලගුණික තත්ත්වයේ වෙනසක් හෙට දිනයේ සිට අපේක්ෂා කරන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Meteorology Department predicts dry weather changes starting tomorrow, with showers expected in the Eastern Uva and Northern provinces. Evening or night showers may occur in Western, Sabaragamuwa, Central, Uva, Northwestern, and North-central areas. Some locations in Sabaragamuwa and Central provinces may experience heavy rain, leading to potential flooding in Galle and Matara districts. The Department advises taking precautions against wind and lightning.
 
-ඒ අනුව නැගෙනහිර ඌව සහ උතුරු පළාත්වල වැසි වාර කිහිපයක් ඇතිවන බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+🟩
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, ඌව, දකුණු, වයඹ සහ උතුරු-මැද පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+The Meteorology Department says that a change of dry weather conditions in the island will be expected from tomorrow.
 
-සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බවද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+According to the Eastern Uva and northern provinces, several showers will occur in the Eastern Uva and Northern provinces.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+Showers, in the evening or night in the Western, Sabaragamuwa, Central, Uva and Northwestern and North-central areas can occur.
+
+In some places in the Sabaragamuwa and Central provinces, some locations are expected to look at the murder in the Galle and Matara districts.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/78a30ed9.json)
+
+[Extended Data](ext_articles/78a30ed9.ext.json)
 
 ---
 
@@ -125,6 +219,8 @@ This is according to preliminary research presented at the American Heart Associ
 ...
 
 [Data](articles/d8eb1d8b.json)
+
+[Extended Data](ext_articles/d8eb1d8b.ext.json)
 
 ---
 
@@ -765,6 +861,26 @@ He is also scheduled to meet the Sri Lankan Muslim and Tamil diaspora in Canada.
 [Data](articles/609d25f9.json)
 
 [Extended Data](ext_articles/609d25f9.ext.json)
+
+---
+
+### Tourist arrivals hit new high this year
+
+*2024-03-20 12:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Tourist-arrivals-hit-new-high-this-year/155-279232) · `en`
+
+Colombo, March 20 (Daily Mirror) - Owing to President Ranil Wickremesinghe's economic initiatives and the peaceful environment fostered within the country, the arrival of foreign tourists has risen, Airport and Aviation Services (Sri Lanka) Ltd. Chairman Athula Galkatiya said.
+
+Consequently, the Bandaranaike International Airport (BIA), Katunayake has seen a notable increase in air passenger usage.
+
+The Chairman said that from January 1 to March 19, 2024, the number of air passengers who utilized BIA services amounted to 850,000.
+
+He noted that it is anticipated approximately 10 million passengers will utilize the airport by the end of this year.
+
+The total number of passengers using the BIA in 2022 was 5 million, with a projected increase to 8 million in 2023, the chairman said
+
+◼️
+
+[Data](articles/0820403d.json)
 
 ---
 
@@ -2149,111 +2265,5 @@ The pilot project is slated to be rolled out at 20 selected schools across 20 di
 [Data](articles/633b201d.json)
 
 [Extended Data](ext_articles/633b201d.ext.json)
-
----
-
-### MOU's MOU's MOU's TAFE Pilot Project Signs
-
-*2024-03-20 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194713) · `si`
-
-A Memorandum of Understanding (MoU) has been signed for a pilot project involving artificial intelligence implementation at TAFE.
-
-🟩
-
-A Memorandum of Understanding (MoU) has signed an agreement with the implementation of artificial intellect.
-
-◼️
-
-[Data](articles/5d83ffe0.json)
-
-[Extended Data](ext_articles/5d83ffe0.ext.json)
-
----
-
-### New work from Dian
-
-*2024-03-20 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194712) · `si`
-
-Diana Gamage's State Minister announced that 25,000 tourists have taken steps to attract more visitors to the island this year, with over 500,000 tourists arriving in the past year. Plans to enhance tourist facilities are underway.
-
-🟩
-
-Diana Gamage's State Minister has said that 25,000 tourists have taken measures to achieve the goal of importing the island this year.
-
-She said that over 500,000 tourists had arrived in the island during the past year.
-
-According to the public minister Diana Gamage stated that plans have been made to increase the facilities provided to tourists.
-
-"Our telegram has 8 million tourists to get at least 2500,000 tourists to the country. So we think we can go to the tab with the situation now. Because now a large number of tourists have come to Sri Lanka. These three months have exceeded Rs. So we hope the rest of the targart will go on December. Tourism has little questions. We saw a few questions in the south. We are trying to solve it. "
-
-◼️
-
-[Data](articles/c463a199.json)
-
-[Extended Data](ext_articles/c463a199.ext.json)
-
----
-
-### PAFFREL warns of election delay via new electoral system
-
-*2024-03-20 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/PAFFREL-warns-of-election-delay-via-new-electoral-system/108-279176) · `en`
-
-Colombo, March 20 (Daily Mirror) -  While raising concerns over the Cabinet nod to amend the existing electoral system in respect of the parliamentary election, People's Action for Free and Fair Elections (PAFFREL), alleged that the move could result in the postponement of the election.
-
-Under the proposed amendments endorsed by the Cabinet, it is suggested that 160 Members of Parliament will be directly elected from the constituencies, while the remaining 65 seats will be allocated through a proportional voting system at either the national or provincial level.
-
-Expressing its concerns, PAFFREL Executive Director Rohana Hettiarachchi told a press conference that Sri Lanka’s previous encounters with electoral system amendments had jeopardized the election process, resulting in delays.
-
-...
-
-[Data](articles/2f2a4c3e.json)
-
-[Extended Data](ext_articles/2f2a4c3e.ext.json)
-
----
-
-### UN sounds ‘Red Alert’ as world smashes heat records in 2023
-
-*2024-03-20 08:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98068/un-sounds-red-alert-as-world-smashes-heat-records-in-2023) · `en`
-
-(Reuters) - Every major global climate record was broken last year and 2024 could be worse, the World Meteorological Organization (WMO) said on Tuesday, with its chief voicing particular concern about ocean heat and shrinking sea ice.
-
-The U.N. weather agency said in its annual State of the Global Climate report that average temperatures hit the highest level in 174 years of record-keeping by a clear margin, reaching 1.45 degrees Celsius above pre-industrial levels.
-
-Ocean temperatures also reached the warmest in 65 years of data with over 90% of the seas having experienced heatwave conditions during the year, the WMO said, harming food systems.
-
-“The WMO community is sounding the Red Alert to the world,” said WMO Secretary-General Celeste Saulo, who took over the job in January.
-
-“What we witnessed in 2023, especially with the unprecedented ocean warmth, glacier retreat and Antarctic sea ice loss, is cause for particular concern.”
-
-...
-
-[Data](articles/020f3d9c.json)
-
-[Extended Data](ext_articles/020f3d9c.ext.json)
-
----
-
-### Elections warns of delay in delay
-
-*2024-03-20 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194711) · `si`
-
-PAFFREL warns of delay in electoral system revision, risking elections. Rohana Hettiarachchi, Executive Director, states the electoral system is near completion. The Cabinet aims to shift from parliamentary to mixed proportional system, with a deadline for completion by August. Minister Mahinda Amaravarara requests Cabinet resolution, while Pubudu Jayagoda accuses the government of postponing elections.
-
-🟩
-
-The PAFFREL organization says that the proposals come forward to revise the electoral system are at risk of the election.
-
-The Executive Director of the Division Rohana Hettiarachchi said that the electoral system would have completed their complement.
-
-"The Cabinet has passed a resolution on an election in the electoral system. This proposal was to move the parliamentary electoral system to a mixed proportional system. If the Parliamentary Electoral system is amended, there should be any agreement on completing the conclusion of its part as part of it. If the electoral system is not over in the next August, it is compulsory for the election commission that has the election to hold elections to the Election Commission to be held in the next August to the coming period.. Otherwise, the electoral system may be amended and the law may not end. "
-
-Meanwhile, Minister Mahinda Amaravarara said that it was a request to the Cabinet resolution on the change of electoral system.
-
-...
-
-[Data](articles/f911e8f4.json)
-
-[Extended Data](ext_articles/f911e8f4.ext.json)
 
 ---

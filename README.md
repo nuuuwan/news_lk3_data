@@ -1,54 +1,122 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 17:33:56**
+As of **2024-03-20 17:53:44**
 
 ## Newspaper Stats
 
-*Scraped **14,111** Articles*
+*Scraped **14,120** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 131
-bbccomsinhala | 155
+bbccomsinhala | 156
 dbsjeyarajcom | 190
 newsfirstlk | 363
 dailyftlk | 734
 economynextcom | 745
 islandlk | 770
-adalk | 1,218
-adaderanalk | 1,697
+adalk | 1,220
+adaderanalk | 1,698
 tamilmirrorlk | 1,709
 virakesarilk | 1,985
-dailymirrorlk | 2,163
-adaderanasinhalalk | 2,251
+dailymirrorlk | 2,166
+adaderanasinhalalk | 2,253
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,107 (100.0%) of 14,111 articles have been extended.
+14,111 (99.9%) of 14,120 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### உலகின் மகிழ்ச்சியான நாடுகள் பட்டியல் ; முதல் இடத்தைப் பிடித்த பின்லாந்து ! இலங்கை ?
+### කොළඹ විරෝධයේදී අත්අඩංගුවට ගත් පිරිස ඉහළට
+
+*2024-03-20 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194743) · `si`
+
+ජන අරගල ව්‍යාපාරයේ විරෝධයට එක්වූ 33ක් අත්අඩංගුවට ගෙන ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පවසයි.
+
+ජන අරගල ව්‍යාපාරය කොළඹ කොටුවේදී සංවිධානය කළ විරෝධතා පා ගමනක් විසුරුවා හැරීම සඳහා පොලීසිය අද පස්වරුවේ ජල හා කඳුළු ගෑස් ප්‍රහාරයක් එල්ලකළේය.
+
+අත්අඩංගුවට ගත් පිරිස අතර භික්ෂූන් වහන්සේලා දෙදෙනෙක් සහ කාන්තාවන් තුන් දෙනෙක් ද වන බව අප වාර්තාකරු පැවසීය.
+
+භාණ්ඩ මිල ඉහළ යාම, විදෙස් ගිවිසුම් ඇතුළු කරුණු කිහිපයක් මුල්කරගෙන මෙම විරෝධතාව කොටුව දුම්රිය ස්ථානය අසලින් ආරම්භ කර තිබුණි.
+
+◼️
+
+[Data](articles/5eaef7f3.json)
+
+---
+
+### ප්‍රංශයේ රජයේ සේවකයෝ පාරට බසිති
+
+*2024-03-20 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194741) · `si`
+
+ප්‍රංශයේ ගුරුවරුන්, සෞඛ්‍ය සේවකයින් ඇතුළු සිවිල් සේවකයින් මිලියන ගණනක් දැවැන්ත වැඩවර්ජනයක් ආරම්භ කර තිබේ.
+
+ඒ වැටුප් ඉහළ දමන ලෙස ඉල්ලීම් කරමින් සහ රජයේ අධ්‍යාපනික ප්‍රතිසංස්කරණයකට විරෝධය පළ කරමිනි.
+
+ඊට සමගාමීව පැරිස් අගනුවර පැවති දැවැන්ත විරෝධතාවක් පිළිබඳවද විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ඊට ගුරුවරුන්ගේ, සෞඛ්‍ය සේවකයින්ගේ සහ මහජන පරිපාලන නිලධාරීන්ගේ සහාය හිමිව තිබුණි.
+
+වැඩවර්ජනය සඳහා ප්‍රංශ සිවිල් සේවකයින් මිලියන 5.7 ඉක්මවූ පිරිසක් එක්ව සිටින බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ප්‍රංශ සිවිල් සේවකයින් මෙලෙස වැඩවර්ජනයක් ආරම්භ කර ඇත්තේ සිය වැටුප් ඉහළ දමන ලෙස ඉල්ලීම් කරමිනි.
+
+එමෙන්ම ප්‍රංශයේ පාසල්වල 6 ශ්‍රේණියෙන් පසුව සිසුන්ගේ ඉගෙනුම් මට්ටම මත පදනම්ව සිසුන් වර්ගීකරණය කිරීමේ රජයේ තීරණයට ද ගුරුවරුන්ගෙන් එල්ල වී ඇත්තේ දැඩි විරෝධයකි.
+
+සේවක වැටුප් ඉහළ දැමීම, උද්ධමනයේ ඉහළ යාමට අනුකූල නොවන බවට විරෝධතාකරුවන් චෝදනා කරයි.
+
+◼️
+
+[Data](articles/8535679f.json)
+
+---
+
+### List of the world's happy countries;Finland came first!Sri Lanka?
 
 *2024-03-20 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/179248) · `ta`
 
-உலகின் மகிழ்ச்சியான நாடுகளின் பட்டியலில் ஏழாவது முறையாக மீண்டும் 'பின்லாந்து' முதல் இடத்தைப் பிடித்துள்ளது.
+Finland tops the world's happy countries list for the 7th time, followed by Denmark, Iceland, Sweden, Israel, Netherlands, Norway, Luxembourg, Switzerland, and Australia. Sri Lanka is 128th, India 126th, China 60th, Nepal 93rd, Pakistan 108th, Myanmar 118th, and Bangladesh 129th. Israel is in the top five, with Afghanistan at 137th. The UN's annual study, published on International Happiness Day, considers GDP, social support, healthy lifespan, freedom, generosity, injustice, and corruption.
 
-அதைத் தொடர்ந்து டென்மார்க், ஐஸ்லாந்து, ஸ்வீடன், இஸ்ரேல், நெதர்லாந்து,  நோர்வே, லக்சம்பர்க், சுவிட்சர்லாந்து, அவுஸ்திரேலியா போன்ற நாடுகள் முதல் பத்து இடங்களைப் பிடித்துள்ளன.
+🟩
 
-இதில் இலங்கை 128ஆவது இடத்தைப் பிடித்துள்ளது. 2022 ஆம் ஆண்டிலிருந்து இலங்கை தரவரிசையில் ஒருபடி கீழே உள்ளது.
+'Finland' is back to the seventh time in the world's happy countries.
 
-இந்தியா இந்த வருடமும் 126வது இடத்திலும், சீனா 60வது இடத்திலும், நேபாளம் 93வது இடத்திலும், பாகிஸ்தான் 108வது இடத்திலும், மியான்மர் 118வது இடத்திலும், பங்களாதேஷ் 129வது இடத்திலும் உள்ளன.
+Thereafter, countries such as Denmark, Iceland, Sweden, Israel, the Netherlands, Norway, Luxembourg, Switzerland and Australia topped the top ten.
 
-இஸ்ரேல் முதல் ஐந்து இடங்களில் உள்ளது. ஆப்கானிஸ்தான் கடைசி இடமான 137வது இடத்தைப் பிடித்துள்ளது.
+Sri Lanka ranks 128th. Since 2022, Sri Lanka has been in the rankings.
+
+India ranks 126th, China is 60th, Nepal is 93rd, Pakistan 108th, Myanmar 118th and Bangladesh 129th.
+
+Israel is in the top five. Afghanistan ranks 137th.
+
+The United Nations Sustainable Development Solutions Network is published annually on International Happiness Day (March 20). The study is said to be prepared by the individual GDP (GDP), social support, healthy lifespan, freedom of choosing life, generosity, injustice and corruption.
+
+◼️
+
+[Data](articles/0e842abe.json)
+
+[Extended Data](ext_articles/0e842abe.ext.json)
+
+---
+
+### සිසුවියන්ට අමුතු විදියට ඉංග්‍රීසි ඉගැන්වු ගුරුවරයෙක්
+
+*2024-03-20 17:00:47* · [`adalk`](https://www.ada.lk/breaking_news/සිසුවියන්ට-අමුතු-විදියට-ඉංග්‍රීසි-ඉගැන්වු-ගුරුවරයෙක්/11-408726) · `si`
+
+කුරුණෑගල නගරයේ ප්‍රසිද්ධ මිශ්‍ර පාසලක ලබන ලාබාල සිසුවියන් පිරිසක් ලිංගික අපයෝජනයට ලක් කිරීමේ සිද්ධියකට සම්බන්ධ ඉංග්‍රීසි ගරුවරයෙකු සැකපිට අත්අඩංගුවට ගත් බව කුරුණෑගල මූලස්ථාන පොලීසිය පවසයි. සැකකාර ගුරුවරයා වැල්ලව ප්‍රදේශයේ නිවසක සැඟවී සිටියදී පොලීසියට ලද තොරතුරකට අනුව සිද්ධියෙන් මාස හතරකට පසුව අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම අපයෝජන සිද්ධිය පසුගිය වසරේ නොවැම්බර් මාසයේදී වාර්තාවී තිබූ අතර එම සිද්ධියෙන් අනතුරුව සේවයට පවා වාර්තා නොකර සැකකරු තැනින් තැන සැඟවෙමින් සිටි බවද පොලීසිය සඳහන් කළේය.
+
+මෙම අපයෝජන සිද්ධිය සම්බන්ධයෙන්  වයඹ පළාත් අධ්‍යාපන දෙපාර්තමේන්තුවට කරන ලද පැමිණිලි සම්බන්ධයෙන්  සිදු කෙරෙන විමර්ශන පිළිබඳව සෑහීමකට පත් නොවන බව දන්වමින් එම පාසලේ දෙමාපියන් සහ ආදි සිසුන් පිරිසක් එක්ව කුරුණෑගල දිස්ත්‍රික් ලේකම්වරයාටද පැමිණිලි කිරීමට පියවර ගෙන තිබුණි. දිස්ත්‍රික් ලේකම්වරයාගේ උපදෙස් අනුව කුරුණෑගල ළමාරක්ෂක අධිකාරියේ නිලධාරිනියන් විසින් කරන ලද විමර්ශනයකින්ද සැකකරු එම වරද සිදු කර ඇති බව අනාවරණයවී තිබේ.
 
 ...
 
-[Data](articles/0e842abe.json)
+[Data](articles/d4d911a0.json)
 
 ---
 
@@ -98,61 +166,137 @@ The protest march had commenced from near the Fort Railway Station and they were
 
 ---
 
-### கொழும்பில் ஆர்ப்பாட்டம் : 2 பிக்குகள் உள்ளிட்ட 29 பேர் கைது : 5 பொலிஸார் காயம் !
+### 33 including FSP’s Duminda Nagamuwa and Lahiru Weerasekara arrested during protest
+
+*2024-03-20 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98082/33-including-fsps-duminda-nagamuwa-and-lahiru-weerasekara-arrested-during-protest) · `en`
+
+UPDATE: A total of thirty-three individuals have been arrested during the protest staged by the ‘Jana Aragala Viyaparaya’ in Pettah today, Police Spokesman DIG Nihal Thalduwa said.
+
+Twenty-nine persons including 02 Buddhist monks and 03 females have been arrested during the protest staged by the ‘Jana Aragala Viyaparaya’ in Pettah today (20), police said.
+
+It is reported that Frontline Socialist Party (FSP) activist Duminda Nagamuwa and youth activist Lahiru Weerasekara are among those arrested during the protest.
+
+Meanwhile, at least 05 police officers have been injured during the clashes with protesters, according to police.
+
+Earlier, police had resorted to using tear gas and water cannons to disperse the protesters in Pettah, Colombo.
+
+The demonstration had been organized by the ‘Jana Aragala Viyaparaya’ (People’s Struggle Movement) based on several issues including the soaring cost of living and certain foreign agreements.
+
+...
+
+[Data](articles/8bbdc111.json)
+
+---
+
+### Demonstration in Colombo: 29 arrested including 2 monks: 5 police injured!
 
 *2024-03-20 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179252) · `ta`
 
-கொழும்பு, கோட்டை பிரதேசத்தில் இன்று புதன்கிழமை (20) முன்னெடுக்கப்பட்ட ஆர்ப்பாட்டத்தில் 2 பிக்குகள், 3 பெண்கள் உள்ளிட்ட 29 பேர் கைதுசெய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+In Colombo, 29, including 2 monks, were arrested in a protest against rising living costs and foreign agreements. Police used tear gas and water to disperse the crowd, injuring 5 officers.
 
-கொழும்பு, கோட்டை பிரதேசத்தில் இன்றைய தினம் முன்னெடுக்கப்பட்ட ஆர்ப்பாட்டத்தின்போது ஆர்ப்பாட்டக்காரர்களைக்  கலைக்க பொலிஸார் கண்ணீர்ப்புகை மற்றும் நீர்த்தாரைகளை பிரயோகித்தனர்.
+🟩
 
-வாழ்க்கைச்  செலவு அதிகரிப்பு மற்றும் சில வெளிநாட்டு ஒப்பந்தங்கள் உட்பட பல விடயங்களை அடிப்படையாகக் கொண்டு ‘ஜன அரகல வியாபரய’ என்ற (மக்கள் போராட்ட இயக்கம்) இந்த ஆர்ப்பாட்டத்தை ஏற்பாடு செய்திருந்தது.
+29 people, including 2 monks and 3 women, have been arrested in a demonstration held in Fort area in Colombo on Wednesday (20).
 
-கோட்டை ரயில்  நிலையத்துக்கு  அருகாமையிலிருந்து ஆர்ப்பாட்ட பேரணி ஆரம்பிக்கப்பட்டு சென்று கொண்டிருந்தபோதே கலகத்தடுப்பு பொலிஸார் கண்ணீர் புகை மற்றும் நீர்த்தாரைகளை பிரயோகித்து அவர்களைக் கலைத்துள்ளனர்.
+During the demonstration in Fort area in Colombo today, police used tear gas and waterfront to dissolve the demonstrators.
 
-இதன்போதே பொலிஸாருக்கும் ஆர்ப்பாட்டக்காரர்களுக்கும் இடையில் குழப்பம் ஏற்பட்ட நிலையில், 5 பொலிஸார் காயமடைந்துள்ளமை குறிப்பிடத்தக்கது.
+The demonstration was organized, based on a number of issues, including the increase in cost of living and some foreign agreements.
+
+As the rally was inaugurated from the fort railway station, the riot police applied tear gas and water and dispersed them.
+
+It is noteworthy that 5 policemen were injured in confusion between the police and the demonstrators.
 
 ◼️
 
 [Data](articles/cbcb18fd.json)
 
+[Extended Data](ext_articles/cbcb18fd.ext.json)
+
 ---
 
-### காத்தான்குடியில் ஒரு வாரத்தில் 5 போதை பொருள் வியாபாரிகள் கைது
+### 5 drug traders arrested in Kattankudi in a week
 
 *2024-03-20 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179251) · `ta`
 
-காத்தான்குடியில் நேற்று செவ்வாய்க்கிழமை (19) போதை பொருள் வியாபாரிகள் இருவரை கைதுசெய்ததுடன், கடந்த ஒருவாரத்தில் 5 போதை பொருள் வியாபாரிகள் கைது செய்யப்பட்டுள்ளார்கள்.
+In Kattankudi, 5 drug traders were arrested in a week, with 3 grams to 400 milligrams of drugs found. Ages 30-50, they're under investigation for 72 hours.
 
-கைதானவர்களை நீதிமன்ற அனுமதியை பெற்று 3 நாட்கள் பொலிஸ் தடுப்பில் வைத்து விசாரணை மேற்கொண்டு வருவதாக காத்தான்குடி பொலிஸார் தெரிவித்தனர்.
+🟩
 
-யுக்திய நடவடிக்கையின் கீழ் காத்தான்குடி பொலிஸார் போதை பொருள் வியாபாரிகளை தேடி கைது செய்துவருகின்ற நிலையில், கடந்த செவ்வாய்கிழமை தொடக்கம் செவ்வாய்க்கிழமை வரை  5  வியாபாரிகளை 3 கிராம் தொடக்கம் 400 மில்லிக்கிராம் வரையிலான ஜஸ் போதை பொருளுடன் கைது செய்யப்பட்டுள்ளனர்.
+Two drug dealers were arrested in Kattankudi yesterday (19) and 5 drug dealers have been arrested in the last week.
 
-இதில் கைது செய்யப்பட்ட 5 பேரும் காத்தான்குடி பிரதேசத்தைச் சேர்ந்த 30 வயது தொடக்கம் 50 வயதுக்கு உட்பட்டவர்களாவர்.
+Kattankudy police said that the detainees are being investigated for three days under police detention.
 
-இவர்களை நீதிமன்ற அனுமதியை பெற்று 72 மணித்தியாலயம் பொலிஸ் தடுப்பு காவலில் வைத்து விசாரணை மேற்கொண்டுவருவதாகவும், விசாரணையின் பின்னர் இவர்களை நீதிமன்றில் ஆஜர்படுத்த நடவடிக்கை எடுத்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Under the strategy, Kattankudy police have been arrested in search of drug dealers, and from last Tuesday to Tuesday, 5 merchants have been arrested with 3 grams to 400 milligrams.
+
+The five arrested were between the ages of 30 to 50 years from the Kattankudy area.
+
+The police said that they are being investigated by the police detention for 72 hours.
 
 ◼️
 
 [Data](articles/1726de00.json)
 
+[Extended Data](ext_articles/1726de00.ext.json)
+
 ---
 
-### ජන අරගල ව්‍යාපාරයේ විරෝධයට එක්වූ 29ක් අත්අඩංගුවට
+### 29 arrested in protest against Pharmaceutical Movement
 
 *2024-03-20 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194739) · `si`
 
-ජන අරගල ව්‍යාපාරය අද (20) දහවල් කොළඹදී පැවැත්වූ විරෝධතාව අතරතුරදී පුද්ගලයින් 29 දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගත් බව වාර්තා වෙයි.
+29 arrested in Colombo protest against Pharmaceutical Movement, including two monks and three women. Protests started at Fort Railway Station over goods prices and foreign agreements, dispersed by police using tear gas.
 
-අත්අඩංගුවට ගත් පිරිස අතර භික්ෂූන් වහන්සේලා දෙදෙනෙක් සහ කාන්තාවන් තුන් දෙනෙක් ද වන බව අප වාර්තාකරු පැවසීය.
+🟩
 
-භාණ්ඩ මිල ඉහළ යාම, විදෙස් ගිවිසුම් ඇතුළු කරුණු කිහිපයක් මුල්කරගෙන මෙම විරෝධතාව කොටුව දුම්රිය ස්ථානය අසලින් ආරම්භ කර තිබුණි.
+It is reported that the police were arrested by the police during protest in Colombo today afternoon.
 
-පසුව විරෝධතාකරුවන් පිටකොටුව දෙසට ගමන් කිරීමත් සමග පොලීසිය පිරිස විසුරුවාහැරීම සඳහා අධිපීඩන ජල ප්‍රහාර හා කඳුළු ගෑස් ප්‍රහාර එල්ල කිරීමට ද කටයුතු කළේය.
+Among the arrested persons, two monks and three women are also present.
+
+The protest had begun at the Fort Railway Station based on several issues, including the prices of goods, including foreign agreements.
+
+With the movement of protesters then to Pettah, the police also took advantage of high-tear gas to dissolve the group.
 
 ◼️
 
 [Data](articles/da0c3b93.json)
+
+[Extended Data](ext_articles/da0c3b93.ext.json)
+
+---
+
+### Matheesha and Dilshan doubtful for IPL 2024
+
+*2024-03-20 16:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Matheesha-and-Dilshan-doubtful-for-IPL-2024/108-279244) · `en`
+
+Mar. 20 (wisden) - Sri Lankan star pacers Matheesha Pathirana and Dilshan Madushanka face uncertainty ahead of the Indian Premier League (IPL) 2024, set to kick off this Friday (22).
+
+Both players are battling hamstring injuries, casting doubt over their participation in the tournament.
+
+MS Dhoni (c), Moeen Ali, Deepak Chahar, Tushar Deshpande, Shivam Dube, Ruturaj Gaikwad, Rajvardhan Hangargekar, Ravindra Jadeja, Ajay Mandal, Mukesh Choudhary, Ajinkya Rahane, Shaik Rasheed, Mitchell Santner, Simarjeet Singh, Nishant Sindhu, Prashant Solanki, Maheesh Theekshana, Rachin Ravindra, Shardul Thakur, Daryl Mitchell, Sameer Rizvi, Mustafizur Rahman, Avanish Rao Aravelly.
+
+Doubtful for at least a part of IPL 2024: Devon Conway (thumb injury – not expected to be fit till May), Matheesha Pathirana (hamstring injury)
+
+...
+
+[Data](articles/f07baa94.json)
+
+---
+
+### Diana wants swift action to stop tourists on visit visa doing business
+
+*2024-03-20 16:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Diana-wants-swift-action-to-stop-tourists-on-visit-visa-doing-business/108-279243) · `en`
+
+Parliament, March 20 (Daily Mirror)- State Tourism Minister Diana Gamage today urged the Public Security Minister to take swift action to stop foreign tourists on visit visas engaging in business activities in Sri Lanka, claiming that it poses serious threats to local businessmen.
+
+She told Parliament that the tourists on visit visas were engaged in business activities in Sri Lanka, specially in the Southern Province.
+
+"This has created a great threat to the local people engaged in business activities especially, in the Southern Province. This matter should be addressed soon. We are not allowed to do any business or job in those countries on visit visa. We will be kicked out if we do so," she said.
+
+The Minister said this issue should be resolved in a proper manner without creating issues with the countries concerned.
+
+...
+
+[Data](articles/7232bc2e.json)
 
 ---
 
@@ -452,6 +596,20 @@ Further investigations into the incident are being carried out by the police.
 
 ---
 
+### Protesters dispersed with tear gas and water cannons
+
+*2024-03-20 15:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Protesters-dispersed-with-tear-gas-and-water-cannons/108-279245) · `en`
+
+Colombo, March 20 (Daily Mirror) - Tension escalated in Pettah, Colombo as police confronted a group of demonstrators with tear gas and water cannons.
+
+The protest, orchestrated by the 'Jana Aragala Viyaparaya' (People’s Struggle Movement), centered on a myriad of grievances including the skyrocketing cost of living and contentious foreign agreements.
+
+◼️
+
+[Data](articles/d416e0e8.json)
+
+---
+
 ### The value of the US dollar than 300 rupees
 
 *2024-03-20 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/179226) · `ta`
@@ -715,6 +873,24 @@ Attorney Jayatunga has been placed in interrogation. High Court Judges Prithi Pa
 [Data](articles/e9ea1c89.json)
 
 [Extended Data](ext_articles/e9ea1c89.ext.json)
+
+---
+
+### කටුනායකින් මගින් 850000ක් සේවය ලබාගෙන
+
+*2024-03-20 14:16:35* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකින්-මගින්-850000ක්-සේවය-ලබාගෙන/11-408724) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගෙන යන ආර්ථික වැඩපිළිවෙළ සහ රට තුළ ගොඩනැඟී ඇති සාමකාමී පරිසරය හේතුවෙන් විදෙස් සංචාරකයන්ගේ පැමිණිම ඉහළ ගොස් ඇති බවත්, ඒ අනුව කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළ ගුවන් මගීන් වැඩි වශයෙන් භාවිතා කරන ස්ථානයක් බවට පත්ව ඇති බවත් ගුවන් තොටුපළ හා ගුවන් සේවා ශ්‍රී ලංකා පුද්ගලික සමාගමේ සභාපති අතුල ගල්කැටිය මහතා පැවසීය.
+
+ඒ මහතා පෙන්වා දෙන ආකාරයට 2024 වසරේ ජනවාරි මස 01 වැනිදා සිට මාර්තු මස 19 වැනිදා දක්වා කාලය තුළ ගුවන්තොටුපළ සේවා ලබාගත් ගුවන් මගීන් සංඛ්‍යාව 850,000කි.
+
+එසේම මේ වසර අවසානය වන විට ගුවන් මගීන් මිලියන 10ක පමණ පිරිසක් ගුවන්තොටුපළ භාවිතා කරනු ඇතැයි විශ්වාස කරන බවද ඒ මහතා සඳහන් කළේය.
+
+2022 වසරේ කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළ භාවිතා කළ සමස්ත මගින් ප්‍රමාණය මිලියන 05ක් වන බවත්, 2023 වසරේදී එම ප්‍රමාණය මිලියන 08 දක්වා වැඩි කර ගැනීමට හැකි වූ බවත් ගල්කැටිය මහතා පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/b19d76d4.json)
 
 ---
 
@@ -1602,6 +1778,24 @@ The Hy-Paddy drugs currently in use can stop the spread of the virus, but it fai
 
 ---
 
+### ජන අරගල ව්‍යාපාරයේ විරෝධතාවයේ දී 29ක් පොලිස් අත්අඩංගුවට
+
+*2024-03-20 11:42:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72013088g7o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ආණ්ඩුවේ මර්දනය සහ රටේ පවතින ගැටලු ගැන සඳහන් කරමින් පැවති මේ විරෝධතාවයේ දී ආර්ථික හා විදේශ ප්‍රතිපත්ති විවේචනයට ලක්විය.
+
+ජන අරගල ව්‍යාපාරය අද (මාර්තු 20) කොළඹ දී කළ විරෝධතාවක දී පොලීසිය සමග උණුසුම් තත්ත්වයක් ඇති විය.
+
+ඒ අවස්ථාවේ දී පොලීසිය ජල සහ කඳුළු ගෑස් ප්‍රහාරයක් එල්ල කරන ලදී.
+
+ආණ්ඩුවේ මර්දනය සහ රටේ පවතින ගැටලු ගැන සඳහන් කරමින් පැවති මේ විරෝධතාවයේ දී ආර්ථික හා විදේශ ප්‍රතිපත්ති විවේචනයට ලක්විය.
+
+◼️
+
+[Data](articles/01350e59.json)
+
+---
+
 ### Viyath Maga’ member behind move to stop Adani group’s wind power project: Minister
 
 *2024-03-20 11:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Viyath-Maga-member-behind-move-to-stop-Adani-groups-wind-power-project-Minister/108-279230) · `en`
@@ -2131,195 +2325,5 @@ The police also seized a suspect named Sitch Arachchilage Susantha, a squid of a
 [Data](articles/1714e35c.json)
 
 [Extended Data](ext_articles/1714e35c.ext.json)
-
----
-
-### Vasantha Yapa Bandara resigns
-
-*2024-03-20 10:35:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வசந்த-யாப்பா-பண்டார-இராஜினாமா/175-334917) · `ta`
-
-Vasantha Yapa Bandara, appointed by COPE, resigns. Ajith Rajapaksa also resigns after appointment.
-
-🟩
-
-Opposition MP Vasantha Yapa Bandara, who was appointed by the Public Companies Committee (COPE) today, announced his resignation.
-
-Deputy Speaker Ajith Rajapaksa announced that he would resign after his appointment.
-
-◼️
-
-[Data](articles/845d3a15.json)
-
-[Extended Data](ext_articles/845d3a15.ext.json)
-
----
-
-### Recommendation to postpone wage increases of Central Bank
-
-*2024-03-20 10:27:34* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකුවේ-වැටුප්-වැඩි-කිරීම-කල්-දමන්නැයි-නිර්දේශ/11-408713) · `si`
-
-The Parliament's Committee recommends a 70% salary increase for the Central Bank, but it's reduced to 50% by the Central Bank.
-
-🟩
-
-The Committee on the Parliament of Parliament has recommended the implementation of the 70% salary increase in the Central Bank increased by 70% salary increase decision.
-
-This is stated in the recommendations of the report on the increase in salary increase.
-
-The report was presented by the Chairman of the Committee Chairman Dr. Harsha Devi Silva.
-
-However, the Central Bank has decided to reduce 25 percent of increasing its 70% wages.
-
-◼️
-
-[Data](articles/41d7e78a.json)
-
-[Extended Data](ext_articles/41d7e78a.ext.json)
-
----
-
-### Cabinet nod to introduce hybrid parliamentary electoral system
-
-*2024-03-20 10:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-nod-to-introduce-hybrid-parliamentary-electoral-system/108-279205) · `en`
-
-Colombo, March 20 (Daily Mirror) - The Cabinet endorsed a proposal to draft constitutional amendments for the introduction of a new parliamentary electoral system that will enable the election of 160 MPs under the previous First-Past-the –Post System and the remainder under proportional representation, Daily Mirror learns.
-
-Justice Minister Wijeyadasa Rajapakshe presented the proposal approved by the Cabinet. A new piece of legislation will be drafted for enactment by Parliament giving effect to the constitutional changes required for the purpose. It will be a hybrid electoral system.
-
-In the past, the successive governments attempted to bring changes to the current electoral system which is solely based on proportional representation and preferential voting.
-
-◼️
-
-[Data](articles/152d2685.json)
-
-[Extended Data](ext_articles/152d2685.ext.json)
-
----
-
-### Another MP resigns from COPE
-
-*2024-03-20 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Another-MP-resigns-from-COPE/108-279227) · `en`
-
-Parliament, March 20 (Daily Mirror)- Opposition MP Wasantha Yapa Bandara, who was appointed to the Committee on Public Enterprises ( COPE) today, announced that he would resign as a member.
-
-The MP announced his resignation soon after his appointment was announced by Deputy Speaker Ajith Rajapakshe.
-
-◼️
-
-[Data](articles/d29208ea.json)
-
-[Extended Data](ext_articles/d29208ea.ext.json)
-
----
-
-### Canada - Parliamentary resolution was completed
-
-*2024-03-20 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/179187) · `ta`
-
-Canada's Parliament passed a resolution to halt arms sales to Israel, reflecting a shift in the government's stance. This decision, part of a broader political shift, marks a significant step towards supporting Palestine.
-
-🟩
-
-Following the resolution passed in Canada's General Assembly, Canada has stopped the sale of arms for Israel.
-
-He noted that his government would stop the future arms sales for Israel.
-
-The Canada government has not taken adequate measures to save the public in Gaza, which has joined the government of Prime Minister Justin Trudeau in the government of Canada - a new Democratic Party's decision to stop the armed Liberal Party in Canada.
-
-The resolution also requested that Canada be involved in the formation of the Palestinian nation.
-
-◼️
-
-[Data](articles/be7c07be.json)
-
-[Extended Data](ext_articles/be7c07be.ext.json)
-
----
-
-### International Monetary Finance officials meet today
-
-*2024-03-20 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179186) · `ta`
-
-IMF officials meet with United People's Power today at parliament. Discussions focus on $2.9 billion loan approval, progress of IMF's conditions, and economic crisis.
-
-🟩
-
-The meeting between the IMF officials and the members of the United People's Power, led by opposition leader Sajith Premadasa, will be held at the parliamentary building this afternoon.
-
-On March 20 last year, the International Monetary Fund's Board of Directors approved the proposal to provide $ 2.9 billion under the International Monetary Fund Extended Finance Scheme.. Subsequently, the first $ 330 million loan was given to Sri Lanka and the Monetary Fund approved the second phase of $ 337 million.
-
-Against this backdrop, a group of officials led by Peter Breauver, a group of International Monetary Fund, have arrived in the country and are holding meetings with various parties in order to evaluate the progress of the IMF in implementing the conditions of the International Monetary Fund.
-
-The meeting between the group led by opposition leader Sajith Premadasa and the IMF officials will be held at the parliamentary building this afternoon.
-
-...
-
-[Data](articles/ca890df5.json)
-
-[Extended Data](ext_articles/ca890df5.ext.json)
-
----
-
-### COPF recommends Central Bank to postpone salary hike
-
-*2024-03-20 10:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/COPF-recommends-Central-Bank-to-postpone-salary-hike/108-279226) · `en`
-
-Parliament, March 20 (Daily Mirror)- The Committee on Public Finance (COPF) today recommended in its report that the Central Bank postpones the salary increase of its employees.
-
-COPF chairman Dr. Harsha De Silva informed Parliament that a committee should be appointed by the Finance Minister with the agreement of the Central Bank Governor to look into the salary hike of the Central Bank emoloyees and to suspend the salary hike until the report is submitted.
-
-The Chairman said the report of the committee should be submitted within four weeks.
-
-◼️
-
-[Data](articles/2b6f9ce7.json)
-
-[Extended Data](ext_articles/2b6f9ce7.ext.json)
-
----
-
-### COPF reccommends Central Bank to postpone salary hike
-
-*2024-03-20 10:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/COPF-reccommends-Central-Bank-to-postpone-salary-hike/108-279226) · `en`
-
-Parliament, March 20 (Daily Mirror)- The Committee on Public Finance (COPF) today recomended in its report that the Central Bank postpones the salary increase of its employees.
-
-COPF chairman Dr. Harsha De Silva informed Parliament that a committee should be appointed by the Finance Minister with the agreement of the Central Bank Governor to look into the salary hike of the Central Bank emoloyees and to suspend the salary hike until the report is submitted.
-
-The Chairman said the report of the committee should be submitted within four weeks.
-
-◼️
-
-[Data](articles/f013eb0c.json)
-
-[Extended Data](ext_articles/f013eb0c.ext.json)
-
----
-
-### Another arrested for murders in Pitigala
-
-*2024-03-20 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194717) · `si`
-
-In Pitigala, a suspect was arrested for a shooting incident, inventing ice narcotics and 250 milligrams. Two more suspects were arrested in Talgaswala. Two unidentified victims were killed by unidentified assailants in the same area.
-
-🟩
-
-Another suspect has been arrested in front of a shooting incident in the Pitigala Police Division.
-
-The suspect was arrested in Kahanduwa area in Elpitiya yesterday afternoon.
-
-The suspect has also invented two ice narcotics and 250 milligrams.
-
-Two more suspects involved in the shooting were arrested on the 16th in Talgaswala.
-
-The arrested suspect and a suspect, police said.
-
-Two unidentified persons who came in a motorbike have been killed by two unidentified people in the Pitigala Police Division in Pitigala Police Division.
-
-◼️
-
-[Data](articles/ed0ee6e8.json)
-
-[Extended Data](ext_articles/ed0ee6e8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 10:18:14**
+As of **2024-03-20 10:33:13**
 
 ## Newspaper Stats
 
-*Scraped **14,001** Articles*
+*Scraped **14,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,108 @@ adalk | 1,206
 adaderanalk | 1,683
 tamilmirrorlk | 1,698
 virakesarilk | 1,959
-dailymirrorlk | 2,140
+dailymirrorlk | 2,145
 adaderanasinhalalk | 2,230
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,998 (100.0%) of 14,001 articles have been extended.
+14,001 (100.0%) of 14,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### පිටිගල ද්විත්ව ඝාතනයට තවත් අයෙක් අත්අඩංගුවට
+### Another MP resigns from COPE
+
+*2024-03-20 10:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Another-MP-resigns-from-COPE/108-279227) · `en`
+
+Parliament, March 20 (Daily Mirror)- Opposition MP Wasantha Yapa Bandara, who was appointed to the Committee on Public Enterprises ( COPE) today, announced that he would resign as a member.
+
+The MP announced his resignation soon after his appointment was announced by Deputy Speaker Ajith Rajapakshe.
+
+◼️
+
+[Data](articles/d29208ea.json)
+
+---
+
+### COPF reccommends Central Bank to postpone salary hike
+
+*2024-03-20 10:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/COPF-reccommends-Central-Bank-to-postpone-salary-hike/108-279226) · `en`
+
+Parliament, March 20 (Daily Mirror)- The Committee on Public Finance (COPF) today recomended in its report that the Central Bank postpones the salary increase of its employees.
+
+COPF chairman Dr. Harsha De Silva informed Parliament that a committee should be appointed by the Finance Minister with the agreement of the Central Bank Governor to look into the salary hike of the Central Bank emoloyees and to suspend the salary hike until the report is submitted.
+
+The Chairman said the report of the committee should be submitted within four weeks.
+
+◼️
+
+[Data](articles/f013eb0c.json)
+
+---
+
+### Another arrested for murders in Pitigala
 
 *2024-03-20 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194717) · `si`
 
-පිටිගල පොලිස් වසමේ ගුරුවල ප්‍රදේශයේ වෙළෙඳසැලක් ඉදිරිපිට සිදුකළ වෙඩිතැබීමේ සිද්ධියට සම්බන්ධ තවත් සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+In Pitigala, a suspect was arrested for a shooting incident, inventing ice narcotics and 250 milligrams. Two more suspects were arrested in Talgaswala. Two unidentified victims were killed by unidentified assailants in the same area.
 
-එම සැකකරු ඊයේ (19) දහවල් කාලයේදී ඇල්පිටිය පොලිස් වසමේ කහදූව ප්‍රදේශයේදී අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+🟩
 
-සැකකරු සතුව තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 02යි මිලිග්‍රෑම් 250ක් ද සොයගෙන ඇත.
+Another suspect has been arrested in front of a shooting incident in the Pitigala Police Division.
 
-මෙම වෙඩිතැබීමට සිද්ධිය සම්බන්ධ තවත් සැකකරුවන් දෙදෙනක් පසුගිය  16 වනදා තල්ගස්වල ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබුණි.
+The suspect was arrested in Kahanduwa area in Elpitiya yesterday afternoon.
 
-එසේ අත්අඩංගුවට ගෙන ඇත්තේ, එම අපරාධය සැලසුම් කරන ලද සැකකරුවෙකු හා ඊට ආධාර අනුබල දුන් සැකකරුවෙකු බව පොලීසිය පවසයි.
+The suspect has also invented two ice narcotics and 250 milligrams.
 
-පසුගිය 11 වනදා පිටිගල පොලිස් වසමේ ගුරුවල හන්දිය ප්‍රදේශයේ වෙළෙඳසැලක් අසලදී යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයින් දෙදෙනෙකු විසින් ටී 56 ගිනිඅවියකින් වෙඩිතබා ද්විත්ව මනුෂ්‍ය ඝාතනයක් සිදුකර තවත් පුද්ගලයින් දෙදෙනෙකුට බරපතළ තුවාල සිදුකර තිබිණි.
+Two more suspects involved in the shooting were arrested on the 16th in Talgaswala.
+
+The arrested suspect and a suspect, police said.
+
+Two unidentified persons who came in a motorbike have been killed by two unidentified people in the Pitigala Police Division in Pitigala Police Division.
 
 ◼️
 
 [Data](articles/ed0ee6e8.json)
+
+[Extended Data](ext_articles/ed0ee6e8.ext.json)
+
+---
+
+### Chicken prices reduced by Rs. 40
+
+*2024-03-20 09:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chicken-prices-reduced-by-Rs-40/108-279224) · `en`
+
+Colombo, March 20 (Daily Mirror) - According to the Narahenpita Economic Centre, the retail price of a kilo of chicken has been reduced by Rs. 30, a senior official of the centre said.
+
+After the price reduction, the price of a kilo of fresh chicken at the Narahenpita Economic Centre is Rs. 1,180, Rs. 1,100 for curry chicken, and skinless chicken is being sold at a price of Rs. 1,100.
+
+He said a kilo of beef was at Rs. 2,400 and a kilo of mutton at Rs. 3,300.
+
+◼️
+
+[Data](articles/1ae85738.json)
+
+---
+
+### Three underworld gang members arrested during special operation
+
+*2024-03-20 09:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-underworld-gang-members-arrested-during-special-operation/108-279225) · `en`
+
+Colombo, March 20 (Daily Mirror) - Three members of underworld gangs were arrested during a special operation launched yesterday to crack down on organized criminal activities.
+
+In response to a concerning increase in organized criminal activities in the Western and Southern Provinces, a special operation targeting 20 identified organized criminal gangs in the country was launched under the 'Yukthiya' initiative yesterday.
+
+As part of this operation, 20 special police teams have been deployed to crackdown on the identified underworld gangs.
+
+Police said that a member of the organized criminal gang associated with 'Keselwatta Dinuka' was arrested by a special team led by Inspector Attanayake in Borella yesterday evening. The arrested suspect, Tharidu Ruwan Kumara, was found in possession of 6,550 mg of heroin and has been handed over to the Colombo Crimes Division.
+
+...
+
+[Data](articles/090f3e8d.json)
 
 ---
 
@@ -58,11 +128,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-03-20 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98070/wasantha-yapa-bandara-joins-parade-of-cope-resignations) · `en`
 
-MP Wasantha Yapa Bandara joined a parade of parliamentarians to quit the Committee of Public Enterprises (COPE).
+MP Wasantha Yapa Bandara joined a parade of parliamentarians to quit the Committee of Public Enterprises (COPE) over the appointment of SLPP MP Rohitha Abeygunawardena as its chairman.
 
 Shortly after the parliamentary session commenced this morning (March 20), the Deputy Speaker announced the appointment of Bandara as a COPE member.
 
-◼️
+However, the MP announced his resignation with immediate effect, asserting that he would communicate his decision in writing as well.
+
+On March 07, Abeygunawardena was elected by majority votes to serve as the new chairman of COPE at the first committee meeting convened for the Fifth Session of the Ninth Parliament. His name had been nominated by MP Mahindananda Aluthgamage and was seconded by MP Sanjeewa Edirimanne.
+
+...
 
 [Data](articles/1b4705f4.json)
 
@@ -96,23 +170,29 @@ Under the Sri Lanka General Front, MP Sharani Walaboda was elected to Parliament
 
 ---
 
-### வெளிநாடுகளுக்கு பாயும் குற்றவாளிகள் ; அதிகாரிகளுக்கு வலை வீச்சு
+### Criminals flowing abroad;Web range to the authorities
 
 *2024-03-20 09:38:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாடுகளுக்கு-பாயும்-குற்றவாளிகள்-அதிகாரிகளுக்கு-வலை-வீச்சு/175-334916) · `ta`
 
-பாதாள உலக தலைவர்கள் ஐந்து பேர் நாட்டிலிருந்து தப்பிச் செல்வதற்காக  விமான டிக்கெட்டுகள் எவ்வாறு வழங்கப்பட்டது என்பது தொடர்பில் குற்றப் புலனாய்வுப் பிரிவினர் விசேட விசாரணைகளை ஆரம்பித்துள்ளனர்.
+The CID investigates how five underworld leaders received air tickets to flee, involving forged passports by Matugama Shan and Hinadian Mahesh. Kosgoda Sujee, Harak Kata, and Kudu Salindu are among the leaders. The probe, led by Deputy Inspector General Rohan Premaratne, aims to uncover corrupt officials organizing air tickets.
 
-குடிவரவு குடியகழ்வு திணைக்களத்தின் இரண்டு பிரதி கட்டுப்பாட்டாளர்கள் மத்துகம ஷான் மற்றும் ஹினடயான மகேஷ் ஆகியோருக்கு போலி ஆவணங்கள் மூலம் கடவுச்சீட்டை தயாரித்த சம்பவத்துடன் இந்த விசாரணை ஆரம்பிக்கப்பட்டுள்ளது.
+🟩
 
-இந்த 5 பாதாள உலக தலைவர்களில் கொஸ்கொட சுஜீ, ஹரக் கட்டா மற்றும் குடு சலிந்து ஆகியோர் உள்ளதாக பொலிஸ் தலைமையக தகவல்கள் தெரிவிக்கின்றன.
+The Criminal Investigations Department (CID) has launched a special investigation into how five underworld leaders were given air tickets to flee the country.
 
-பாதாள உலக நாடுகளுக்கான விமான டிக்கெட்டுகளை ஏற்பாடு செய்யும் நடவடிக்கையில் ஈடுபட்டுள்ள ஊழல் அதிகாரிகள் கும்பலை அடையாளம் காண்பதற்கான விசாரணைகள் தொடர்வதாகவும் தகவல்கள் தெரிவிக்கின்றன.
+The investigation has been launched with the incident of two departmental regulators of the Department of Immigration and Emigration, Matugama Shan and Hinadian Mahesh, who prepared a passport with forged documents.
 
-பொலிஸ் மா அதிபர் தேஷ்பந்து தென்னகோனின் உத்தரவின் பேரில், குற்றப் புலனாய்வுத் திணைக்களத்திற்குப் பொறுப்பான பிரதிப் பொலிஸ் மா அதிபர் ரொஹான் பிரேமரத்னவின் மேற்பார்வையில் மேலதிக விசாரணைகள் தொடர்கின்றன. R
+According to the police headquarters, Kosgoda Sujee, Harak Kata and Kudu Salindu are among the five underworld leaders.
+
+Investigations are continuing to identify the gang of corrupt officials who are engaged in organizing air tickets for the underworld.
+
+Further inquiries are continuing under the supervision of Deputy Inspector General of Police Rohan Premaratne, who is in charge of the Criminal Investigation Department, on the orders of the Inspector General of Police Deshpandu Tennakoon.. Remble
 
 ◼️
 
 [Data](articles/d5fe3d41.json)
+
+[Extended Data](ext_articles/d5fe3d41.ext.json)
 
 ---
 
@@ -135,6 +215,24 @@ The body has been found in the area where the deceased was to look into the home
 [Data](articles/374ee103.json)
 
 [Extended Data](ext_articles/374ee103.ext.json)
+
+---
+
+### Country’s liquor consumption has drastically decreased: Excise Chief
+
+*2024-03-20 09:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Countrys-liquor-consumption-has-drastically-decreased-Excise-Chief/108-279202) · `en`
+
+Colombo, March 20 (Daily Mirror) - Meeting a record annual tax revenue target of Rs.232 billion for the year 2024 is questionable, as Sri Lanka’s liquor consumption has drastically decreased in recent years owing to its ever increasing prices, as revealed by the Chief of Excise Department.
+
+The country’s liquor production as compared to the year 2022 has dropped by 6.5million litres last year, which was a significant amount.
+
+The recently appointed Excise Commissioner General M J Gunasiri on his second tenure as the departmental head told the Daily Mirror, that alcoholic spirits production of 26.5 million litres in 2022 has been dropped to 20 million litres in 2023.
+
+He pointed out that as a result, the sales of 29 million bottles (750ml) of liquor, 54 million half bottles (375ml) and the most popular quarter bottles (180ml) had been reduced by 115 million during last year.
+
+...
+
+[Data](articles/3caa5a3d.json)
 
 ---
 
@@ -184,19 +282,25 @@ Meanwhile, the Committee on Parliament yesterday decided to give another date on
 
 ---
 
-### இன்றைய வானிலையில் சிறிய மாற்றம்
+### Little change in today's weather
 
 *2024-03-20 09:26:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலையில்-சிறிய-மாற்றம்/175-334915) · `ta`
 
-நாட்டின் தென் அரைப்பாகத்தில் தற்போது நிலவும் வரட்சியான வானிலையில் இன்று (20) தற்காலிகமாக மாற்றம் ஏற்படும் என எதிர்பார்க்கப்படுவதாக வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+The Department of Meteorology predicts a change in drought-stricken weather today, with possible rain or thunderstorms in Western and Sabaragamuwa Provinces, Nuwara Eliya, Galle, and Matara. Morning snowfall is expected in parts of Sabaragamuwa, Central Provinces, Galle, and Kalutara districts.
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் நுவரெலியா, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+🟩
 
-சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் களுத்துறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது. R
+The Department of Meteorology has predicted that the drought -stricken weather in the southern part of the country is expected to change today (20).
+
+It is possible that rain or thunderstorms are likely to occur in some places in the Western and Sabaragamuwa Provinces and Nuwara Eliya, Galle and Matara districts.
+
+In the morning, in some parts of the Sabaragamuwa and Central Provinces, Galle and Kalutara districts, there is expected snowfall in the morning.. Remble
 
 ◼️
 
 [Data](articles/cda6ca18.json)
+
+[Extended Data](ext_articles/cda6ca18.ext.json)
 
 ---
 
@@ -1294,7 +1398,9 @@ Our sister papers Daily Lankadeepa and the Sunday Lankadeepa won the 'Most Popul
 
 The awards ceremony was organised by the Sri Lanka Institute of Marketing (SLIM) together with Kantar, Sri Lanka.
 
-Janaka Rathnakumara, the Chief Operating Officer of Wijeya Group of Companies, Ajantha Kumara Agalakada, Editor of the Daily Lankadeepa and various sectional heads of Wijeya Newspapers at the event.
+Chief Editor of the Sunday Lankadeepa Kanchana Dassanayake is receiving the award.
+
+Ajantha Kumara Agalakada, Editor of the Daily Lankadeepa, Janaka Rathnakumara, the Chief Operating Officer of Wijeya Group of Companies and various sectional heads of Wijeya Newspapers at the event.
 
 ◼️
 
@@ -2087,127 +2193,5 @@ At the same time, the people of the plantation of the Ceylon Electricity Board (
 [Data](articles/dc847fe6.json)
 
 [Extended Data](ext_articles/dc847fe6.ext.json)
-
----
-
-### Two businessmen arrested with 12 million jewelery
-
-*2024-03-19 18:42:10* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-12ක-රන්-ආභරණ-සමග-ව්‍යාපාරිකයන්-දෙදෙනෙක්-අල්ලයි/11-408709) · `si`
-
-Two businessmen, aged 60 and 65, were arrested at Bandaranaike International Airport on 19th with 12 million in jewelry. They had smuggled the jewelry from Dubai via Emirates Airlines.
-
-🟩
-
-Frequently, with two crores of Rs.Arrested at the Bandaranaike International Airport on 19th.
-
-One of them is a 60 year old resident of Ambalangoda and the other is a 65 year old businessman from Bambalapitiya.
-
-The two of them from Dubai to 08.30 am on 08/19 on the morning of Dubai to Emirates Airlines.Had been done.
-
-They had removed the bottles from boxes with bodies with whiskey bottles in the baggage they were brought to the boxes.
-
-The jewelery, cloves, and hands over the jewelery stock was enacted between 500 grams.
-
-Although the customs officers were engaged in a trade union action, the officers had arrived at the Katunayake Airport.
-
-◼️
-
-[Data](articles/1520240c.json)
-
-[Extended Data](ext_articles/1520240c.ext.json)
-
----
-
-### 11 university students killed in Kenyan road accident
-
-*2024-03-19 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179161) · `ta`
-
-11 university students died in a Kenyan road accident involving a bus and a lorry. The Kenyan government is investigating.
-
-🟩
-
-11 university students have died after a bus and a lorry collided with Kenya.
-
-Following the incident, the Kenyan government has ordered an investigation into the Kenyan road accident.
-
-◼️
-
-[Data](articles/ca7707c3.json)
-
-[Extended Data](ext_articles/ca7707c3.ext.json)
-
----
-
-### The no-confidence motion against Speaker is debate
-
-*2024-03-19 18:37:24* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකවරයාට-එරෙහි-විශ්වාසභංග-යෝජනාව-විවාදයට-තෙදිනක්/11-408708) · `si`
-
-The no-confidence motion debate against Speaker Mahinda Yapa Abeywardena is scheduled for March 19-21, with a 4:30 pm session on Thursday. Parliamentary Affairs will also be debated on the 21st. The Secretary General of Parliament, Kushani Rohandera, announced these decisions.
-
-🟩
-
-Friday on Friday 22:30 pm
-
-3:30 am to 12 am to 12 am to 12 am to 12 am to the latest MPs
-
-Matters pertaining to the first parliamentary week of April 1st and 2
-
-The Secretary General of Parliament Kushani Rohandera said that the Novereignment proposal against Speaker Mahinda Yapa Abeywardena has decided to separate the no-confidence motion on Thursday (19).
-
-The debate on the no-confidence motion was previously decided to debate on March 19 and 20, with a new decision, it will be held on March 19, 20 and 21 as a three-day debate. Thus, it has been decided to hold 4:30 pm on Thursday afternoon on the no-confidence motion.. The Hon. Speaker is to be presented to Parliament by Hon.. It has also been decided to debate Parliamentary Affairs on the 21st week.
-
-Meanwhile, the Secretary General said that the council adjourning debate on the 22nd to 4 pm on the 22nd to 4 pm on the 22nd to 4:00 pm on Farmers' Proposals.. Similarly, as previous decisions, the Hon.. Dr. PMB Cyril, Hon.
-
-...
-
-[Data](articles/613583a2.json)
-
-[Extended Data](ext_articles/613583a2.ext.json)
-
----
-
-### SLTB bus topples
-
-*2024-03-19 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194697) · `si`
-
-A SLTB bus crash in Kandy to Horowpathana resulted in numerous injuries, with the affected hospitalized.
-
-🟩
-
-A large number of injured in an accident in a crash of a SLTB bus was hospitalized.
-
-The accident had taken place in Kandy to Horowpathana.
-
-◼️
-
-[Data](articles/a3acf9ca.json)
-
-[Extended Data](ext_articles/a3acf9ca.ext.json)
-
----
-
-### Pharmaceuticals stop emergency purchases
-
-*2024-03-19 18:22:40* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-හදිසි-මිලදී-ගැනීම්-නවත්වයි/11-408706) · `si`
-
-The Ministry of Health has halted emergency drug purchases, focusing on improving healthcare and strengthening primary healthcare. A special committee is being formed to address substandard drug imports for cancer patients, emphasizing the removal of substandard medicines.
-
-🟩
-
-The medicinal purchases made by the Ministry of Health have been completely stopped by the tender procedure, but the Medicine Secretary of the Ministry of Health is assigned to the Drug Regulatory Authority.
-
-After participating in the event at the National Hospital training course for the ambulance drivers in the Central Province, the Health Secretary stressed the matter.
-
-The Health Secretary stated that the Ministry of Health has commenced a special committee to appoint a special committee to import substandard drugs for cancer patients.
-
-The health secretary said that the priority of the Ministry of Health is to provide a better health care and focus on strengthening primary health care.
-
-He said that steps have been taken using the immediate use of drugs that had arisen or had taken steps to be removed immediately and there is no room to provide substandard medicines through the Ministry of Health.
-
-◼️
-
-[Data](articles/eaea514a.json)
-
-[Extended Data](ext_articles/eaea514a.ext.json)
 
 ---

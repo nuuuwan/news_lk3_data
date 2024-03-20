@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 04:33:18**
+As of **2024-03-21 04:51:15**
 
 ## Newspaper Stats
 
-*Scraped **14,183** Articles*
+*Scraped **14,184** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 132
 bbccomsinhala | 157
 dbsjeyarajcom | 190
 newsfirstlk | 363
-dailyftlk | 734
+dailyftlk | 735
 economynextcom | 760
 islandlk | 770
 adalk | 1,226
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,183 (100.0%) of 14,183 articles have been extended.
+14,183 (100.0%) of 14,184 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### Ranil’s reticence, Basil’s broken base, Harsha’s Hotel California and Eran’s fire-and-fury
+
+*2024-03-21 03:50:44* · [`dailyftlk`](https://www.ft.lk/columns/Ranil-s-reticence-Basil-s-broken-base-Harsha-s-Hotel-California-and-Eran-s-fire-and-fury/4-759727) · `en`
+
+“…Fulfilling the California dream…the basic principles of the program of making Lanka, California…are already with us…”
+
+- Dr. Harsha de Silva, SJB Youth Convention, Kurunegala, 16 March 2024 -
+
+President Wickremesinghe’s first public political rally at Kuliyapitiya was odd. He delivered a zestful, even rollicking speech, remaining in the high spirits he displayed in the Mustang’s tent at the Royal-Thomian Big Match. He was rude and crude about his former lecturer at Colombo’s Faculty of Law, Prof. G.L. Peiris. He praised his pet members of the SJB, Dr. Harsha de Silva and Eran Wickramaratne. He insulted SJB leader Sajith Premadasa while pitching for the SJB to join him. He lavished praise on himself. A vintage Wickremesinghe performance, it elicited no praise outside the (small) UNP.
+
+...
+
+[Data](articles/2d2afb0e.json)
+
+---
 
 ### Warning on Sinhala Facebook
 
@@ -2257,23 +2273,5 @@ The current COPE chairman Rohitha Abeygunawardena has been accused of fraud and 
 [Data](articles/18230bcf.json)
 
 [Extended Data](ext_articles/18230bcf.ext.json)
-
----
-
-### 2024 World Happiness Report: Sri Lanka ranked 128, Finland retains top spot
-
-*2024-03-20 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98076/2024-world-happiness-report-sri-lanka-ranked-128-finland-retains-top-spot) · `en`
-
-The World Happiness Report for 2024, released earlier this week, indicates that while the top 10 countries in the list have remained the same since before the Covid-19 pandemic, the United States and Germany have fallen in the rankings, making way for several Eastern European nations to rise on the list.
-
-As expected, Finland topped the list for the seventh year in a row, followed by Denmark, Iceland and Sweden. Israel too made it to the top five of the ranking. Meanwhile, Afghanistan was deemed the least happy country, after Congo, Sierra Leone, Lesotho and Lebanon.
-
-The United States fell in ranking from the 16th spot last year to the 23rd spot this year. This year, Canada took the 15th spot while the UK was at the 20, Germany at 24 and France at 27. Among Middle Eastern nations, the UAE was ranked 22 and Saudi Arabia 28. Among Asian nations, Singapore was at 30, Japan at 50 and South Korea at 51.
-
-...
-
-[Data](articles/0336bd92.json)
-
-[Extended Data](ext_articles/0336bd92.ext.json)
 
 ---

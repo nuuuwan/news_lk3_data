@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 01:17:53**
+As of **2024-03-21 01:33:38**
 
 ## Newspaper Stats
 
-*Scraped **14,179** Articles*
+*Scraped **14,180** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 760
 islandlk | 770
 adalk | 1,226
 adaderanalk | 1,704
-tamilmirrorlk | 1,714
+tamilmirrorlk | 1,715
 virakesarilk | 1,987
 dailymirrorlk | 2,179
 adaderanasinhalalk | 2,263
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,179 (100.0%) of 14,179 articles have been extended.
+14,179 (100.0%) of 14,180 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### ’வைத்தியசாலையை மூடுவது சமுதாயத்தை அழிக்கின்ற செயல்’
+
+*2024-03-21 01:12:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலையை-மூடுவது-சமுதாயத்தை-அழிக்கின்ற-செயல்/175-334963) · `ta`
+
+தங்களின் தவறுகளை மூடி மறைக்க திருக்கோவில் ஆதார வைத்தியசாலையை  மூடி சமுதாயத்தை அழிக்கின்ற செயலை உடனடியாக முடிவுக்கு  கொண்டுவந்து அந்த வைத்தியசாலையை மீண்டும் உடனடியாக திறக்க சுகாதார அமச்சரும் கிழக்கு மாகாண ஆளுநரும் நடவடிக்கை எடுக்க வேண்டுமென தமிழ் தேசியக்கூட்டமைப்பின் யாழ். மாவட்ட எம்.பி. யான எஸ். ஸ்ரீதரன் வலியுறுத்தினார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (20) இடம்பெற்ற சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை மீதான 2 ஆம் நாள்  நாள் விவாதத்தில் உரையாற்றும் போதே இவ்வாறு வலியுறுத்திய ஸ்ரீதரன் எம்.பி. தொடர்ந்து பேசுகையில்,
+
+அம்பாறை மாவட்டத்தில் உள்ள திருக்கோவில் மெதடிஸ்த தமிழ் வித்தியாலய மாணவன் ஜெயக்குமார் விதுர்ஜன் (16 வயது) கடந்த 2023 -03- 11 ஆம் திகதி காலை நடைபெற்ற பாடசாலை மரதன் ஓட்டப்போட்டியில் பங்கேற்றபோது திடீரென மயக்கமுற்றதால் திருக்கோவில் ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைக்காக அக்கரைப்பற்று ஆதார வைத்தியசாலையில் சேர்க்கப்பட்ட நிலையில் அவர் உயிரிழந்திருந்தார்.
+
+...
+
+[Data](articles/6b2f3f7e.json)
+
+---
 
 ### Underworld gunman and STF member injured in shootout at Ganemulla
 
@@ -2253,37 +2269,5 @@ According to the United Nations World Happy Sri Lanka, Sri Lanka has been ranked
 [Data](articles/1bc20999.json)
 
 [Extended Data](ext_articles/1bc20999.ext.json)
-
----
-
-### Why do COPE committees lengthen?
-
-*2024-03-20 13:16:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0kep4d1204o) · `si`
-
-COPE committees lengthen due to resignations and controversies. MP Rohitha Abeygunawardena, appointed Chairman, faces opposition and accusations. 10 members resigned in 3 days, with Wasantha Yapa Bandara rejecting a proposal. The committee's purpose is to ensure financial discipline of state institutions, established in 1979.
-
-🟩
-
-With the appointment of MP Rohitha Abeygunawardena appoints MP Rohitha Abeygunawardena for the post of Chairman of the Committee of Parliament (COPE) is the Chairman of Parliament.
-
-10 members have resigned to date in three days from 18 days.
-
-In the meantime, Wasantha Yapa Bandara rejected the proposal today (March 20).
-
-Parliamentarian Rohitha Abeygunawardena was elected to the new Chairman of the Committee of Parliament (COPE) (COPE) (COPE) (COPE).
-
-There were other MP Rohitha Abeygunawardena and Gamini Walaboda for the post of Chairman. Rohitha Abeygunawardena has proposed the name of MP Mahindananda Aluthgama and firmly established it.
-
-Gamini Waleboda's name was proposed by MP Hesha Vithanage and Dilan Perera was confirmed.
-
-Rohitha Abeygunawardena was elected to the post of Chairman during the election.
-
-'What is the Chairman Ranjith Bandara about the Navy signal to catch cheater recommendations?'
-
-...
-
-[Data](articles/889a645d.json)
-
-[Extended Data](ext_articles/889a645d.ext.json)
 
 ---

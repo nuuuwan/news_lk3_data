@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 16:48:57**
+As of **2024-03-20 17:03:54**
 
 ## Newspaper Stats
 
-*Scraped **14,104** Articles*
+*Scraped **14,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,54 @@ adalk | 1,218
 adaderanalk | 1,695
 tamilmirrorlk | 1,709
 virakesarilk | 1,982
-dailymirrorlk | 2,162
+dailymirrorlk | 2,163
 adaderanasinhalalk | 2,250
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,101 (100.0%) of 14,104 articles have been extended.
+14,104 (100.0%) of 14,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### පොලිස්පතිගේ පත්කිරීම අභියෝගයට ලක්කළ පෙත්සම් දෙකක්
+### Gazette on suspension of Parate Execution to be presented to Parliament tomorrow: State Minister
+
+*2024-03-20 16:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gazette-on-suspension-of-Parate-Execution-to-be-presented-to-Parliament-tomorrow-State-Minister/108-279242) · `en`
+
+Parliament, March 20 (Daily Mirror)- The gazette notification on the suspension of the Parate Execution law will be presented to Parliament tomorrow, State Minister of Finance Shehan Semasinghe announced today.
+
+"We will have to provide 14 days for anyone to submit petitions. Then, we will have to wait for the Supreme Court determination. Accordingly, it will take a few weeks for the implementation," the State Minister said.
+
+◼️
+
+[Data](articles/5ab519ce.json)
+
+---
+
+### Two petitions were challenged by IGP
 
 *2024-03-20 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194738) · `si`
 
-පොලිස්පතිවරයා ලෙස දේශබන්දු තෙන්නකෝන් මහතා ව පත්කිරීම අභියෝගයට ලක් කරමින් ගොනුකර තිබෙන මූලික අයිතිවාසිකම් පෙත්සම් දෙකක් සලකා බැලීම සඳහා දින නියම කර තිබේ.
+IGP challenged two petitions on fundamental rights. Supreme Court Judge Surveyon set dates for April 2. Petitions by Young Journalists Association and CPA are under consideration.
 
-අදාළ මුලික අයිතිවාසිකම් පෙත්සම් අප්‍රේල් මස 02 වනදා කැඳවන ලෙස ප්‍රීති පද්මන් සුරසේන මහතා ඇතුළු ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල නියම කළ බව "අද දෙරණ" අධිකරණ වාර්තාකරු පැවසීය.
+🟩
 
-ඒ අනුව මෙම පෙත්සමේ වගඋත්තරකරුවන්ට යළි නොතිසි යොමුකරන ලෙස ද පෙත්සම්කාර පාර්ශවයට අධිකරණය නියම කර තිබුණි.
+The days have been fixed to consider two fundamental rights petitions filed by the IGP.
 
-තරුණ ජනමාධ්‍යවේදීන්ගේ සංගමය සහ විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය විසින් එම පෙත්සම් දෙක ඉදිරිපත් කර තිබේ.
+Derana stated that the Supreme Court Judge Surveyon has set the relevant basic rights petitions on April 2.
+
+Accordingly, the petitioner had also set the judiciary to refer to the respondents in the petition.
+
+The two petitions have been submitted by the Young Journalists Association and the CPA.
 
 ◼️
 
 [Data](articles/cf2054b0.json)
+
+[Extended Data](ext_articles/cf2054b0.ext.json)
 
 ---
 
@@ -65,6 +85,8 @@ In its recommendations, the COPF says the Finance Minister should, with immediat
 ...
 
 [Data](articles/d40618d2.json)
+
+[Extended Data](ext_articles/d40618d2.ext.json)
 
 ---
 
@@ -698,17 +720,23 @@ Foreign media added that he spent 2.5 lakhs of Rs.
 
 ---
 
-### අනුර හා දුමින්දත් ‌කෝප් කමිටුවෙන් ඉවත් වෙති
+### Anura and Duminda leaves COPE
 
 *2024-03-20 13:44:23* · [`adalk`](https://www.ada.lk/breaking_news/අනුර-හා-දුමින්දත්-‌කෝප්-කමිටුවෙන්-ඉවත්-වෙති/11-408722) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී අනුර කුමාර දිසානායක මහතා හා දුමින්ද දිසානායක මහතාද කෝප් කමිටුවෙන් ඉල්ලා අස්විමට තිරණය කර තිබේ. ඔවුන් මේ බව පාර්ලිමේන්තුවට අද දැනුම් දුන්නේය.
+MPs Anura Kumara Dissanayake and Duminda Dissanayake resigned from the COPE Committee, citing fraud and corruption accusations against COPE chairman Rohitha Abeygunawardena.
 
-වත්මන් කෝප් කමිටු සභාපති රෝහිත අබේගුණවර්ධන මහතාට වංචා හා දූෂණ චෝදනා එල්ල වි ඇති බවත් ඒ අනුව එම කමිටුවේ සේවය කිරීමෙන් ඵලක් නොමැති බවත් අනුර කුමාර දිසානායක මහතා දැනුම් දුන්නේය.
+🟩
+
+MP Anura Kumara Dissanayake and Duminda Dissanayake have decided to resign from the COPE Committee. They said this to Parliament today.
+
+The current COPE chairman Rohitha Abeygunawardena has been accused of fraud and corruption.
 
 ◼️
 
 [Data](articles/18230bcf.json)
+
+[Extended Data](ext_articles/18230bcf.ext.json)
 
 ---
 
@@ -2297,27 +2325,5 @@ Under the Sri Lanka General Front, MP Sharani Walaboda was elected to Parliament
 [Data](articles/0e894912.json)
 
 [Extended Data](ext_articles/0e894912.ext.json)
-
----
-
-### Sri Lanka rupee opens at 304.40/70 to the US dollar
-
-*2024-03-20 09:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-304-40-70-to-the-us-dollar-155330/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 304.40/70 to the US dollar in the spot forex market on Wednesday, slightly weaker from 303.95/304.05 on Tuesday, dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 was quoted at from yesterday’s closing of 11.30/40 percent in late morning trade.
-
-A bond maturing on 15.09.2027 was quoted at 11/90/12.00 closed at from 11.85/12.00 percent.
-
-A bond maturing on 15.12.2028 was quoted at 12.10/15 from 12.10/15 percent.
-
-The Colombo Stock Exchange opened down; the All Share Price Index was down at 11,276, and the S&P SL20 was up 0.14 percent at 3,214.(Colombo/Mar20/2024)
-
-◼️
-
-[Data](articles/7001f77e.json)
-
-[Extended Data](ext_articles/7001f77e.ext.json)
 
 ---

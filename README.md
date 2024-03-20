@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 18:20:58**
+As of **2024-03-20 18:33:20**
 
 ## Newspaper Stats
 
-*Scraped **14,122** Articles*
+*Scraped **14,138** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,64 +13,124 @@ bbccomsinhala | 156
 dbsjeyarajcom | 190
 newsfirstlk | 363
 dailyftlk | 734
-economynextcom | 745
+economynextcom | 757
 islandlk | 770
 adalk | 1,220
 adaderanalk | 1,698
 tamilmirrorlk | 1,709
 virakesarilk | 1,986
-dailymirrorlk | 2,166
-adaderanasinhalalk | 2,254
+dailymirrorlk | 2,169
+adaderanasinhalalk | 2,255
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,120 (100.0%) of 14,122 articles have been extended.
+14,122 (99.9%) of 14,138 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### ගැටුම් මැද හයිටියේ ශ්‍රී ලාංකිකයින් ගැන විශේෂ දැනුම්දීමක්
+### Patali elected Chairman of Ways and Means Committee for the second time
+
+*2024-03-20 18:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Patali-elected-Chairman-of-Ways-and-Means-Committee-for-the-second-time/108-279250) · `en`
+
+Member of Parliament Patali Champika Ranawaka was once again unanimously elected as the Chair of the Committee on Ways and Means.
+
+He was appointed when the Committee met for the first time today (20) and his name was proposed and seconded by Members of Parliament  Wasantha Yapa Bandara, and  Lasantha Alagiyawanna respectively.
+
+◼️
+
+[Data](articles/2322a314.json)
+
+---
+
+### වියට්නාමයේ ජනපති ඉල්ලාඅස්වෙයි
+
+*2024-03-20 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194745) · `si`
+
+වියට්නාමයේ ජනාධිපති Vo Van Thuongගේ ඉල්ලා අස්වීම එරට කොමියුනිස්ට් පක්ෂය පිළිගෙන තිබේ.
+
+එරට ජනාධිපති ලෙස පත්වූ Vo Van Thuong වසරක් පමණක් ගතවීමෙන් අනතුරුව මෙලෙස ඉල්ලා අස්වීම විශේෂත්වයකි.
+
+මේ අතර නිවේදනයක් නිකුත් කරමින් කොමියුනිස්ට් පක්ෂය පවසන්නේ Vo Van Thuong ජනපති පක්ෂයේ විශ්වාසය පළුදුවන අයුරින් වැඩකටයුතු සිදුකර ඇති බවය.
+
+එමගින් පක්ෂයේ කීර්තිනාමයට බරපතළ හානියක් සිදුව ඇති බවද වියට්නාමයේ කොමියුනිස්ට් පක්ෂය සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/d9ced49b.json)
+
+---
+
+### Special notice of Sri Lankans in Haiti Despite
 
 *2024-03-20 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194744) · `si`
 
-හයිටි රාජ්‍යයේ සිටින ශ්‍රී ලාංකිකයින් සම්බන්ධයෙන් විදේශ කටයුතු අමාත්‍යාංශය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+The Ministry of External Affairs of Sri Lanka has issued a statement regarding the safety of Sri Lankans in Haiti, where a violent gang is causing unrest. The Ministry confirms that Sri Lankans are safe and that the Sri Lanka Embassy in Cuba, accredited to Haiti, is in constant contact with the companies serving in Haiti.
 
-අවිගත් කල්ලි හයිටියේ පෝට් ඕ ප්‍රින්ස් අගනුවර වීථිවල සරසමින් ප්‍රචණ්ඩව හැසිරෙමින් සිටින බව විදෙස් මාධ්‍ය වාර්තා කිරීමත් සමග විදේශ කටයුතු අමාත්‍යාංශය මෙම නිවේදනය නිකුත් කර තිබේ.
+🟩
 
-එම නිවේදනයේ දැක්වෙන්නේ හයිටි රාජ්‍යයේ  ශ්‍රී ලාංකිකයන් සේවය කරන සමාගම් සමඟ විදේශ කටයුතු අමාත්‍යාංශය සම්බන්ධ වී සිටින බවය.
+The Ministry of External Affairs has issued a statement regarding Sri Lankans in Haitian.
 
-මෙම තත්ත්වයෙන් ශ්‍රී ලාංකිකයන් ආරක්ෂිත බවද එම නිවේදනය මගින් විදේශ කටයුතු අමාත්‍යාංශය පෙන්වාදෙයි.
+Antiquetting gang Haiti Haiti Haiti Haiti Haiti is violent and behaving violently acting violence.
 
-එසේම ඔවුන් නොසන්සුන්තාව පවතින ප්‍රදේශවලට ඈතින් වාසය කරන බවත් එම සමාගම් තහවුරු කර ඇති බවද විදේශ කටයුතු අමාත්‍යාංශය පවසයි.
+The statement states that the Ministry of External Affairs is associated with companies that serve in Haiti.
 
-හයිටි රාජ්‍යය වෙත ප්‍රතීතනය කර ඇති කියුබාවේ ශ්‍රී ලංකා තානාපති කාර්යාලය මේ සම්බන්ධයෙන් අදාළ සමාගම් සමඟ නිරන්තරයෙන් සම්බන්ධ වන බවද විදේශ කටයුතු අමාත්‍යාංශය එම නිවේදනයෙන් වැඩිදුරටත් පෙන්වාදී තිබේ.
+The Ministry of External Affairs points out that Sri Lankans are safe from this situation.
+
+The Ministry of External Affairs says that the companies have been confirmed that they have lived in unrest.
+
+The Sri Lanka Embassy in Cuba, accredited to Haiti, is constantly connected to the companies.
 
 ◼️
 
 [Data](articles/362e0275.json)
 
+[Extended Data](ext_articles/362e0275.ext.json)
+
 ---
 
-### போலி கொவிட் தடுப்பூசி சான்றிதழ்: பிரேஸில் முன்னாள் ஜனாதிபதிக்கு எதிராக வழக்கு
+### Sri Lanka’s districts to sign “sister district” deal with China’s Chongqing for investments
+
+*2024-03-20 17:37:00* · [`economynextcom`](https://economynext.com/sri-lankas-districts-to-sign-sister-district-deal-with-chinas-chongqing-for-investments-155373/) · `en`
+
+ECONOMYNEXT – All Sri Lankan districts including in the island nation’s North and East will sign a “sister district” deal with China’s Chongqing province for investments and improve production capacity, State Minister of Social Empowerment Anupa Pasqual, said.
+
+Sovereign debt defaulted Sri Lanka has been looking to attract investments into grass root level across the country and the island nation has been in discussion for “sister district” concept with China’s Chongqing, which has around 33 million population.
+
+Minister Pasqual said Prime Minister Dinesh Gunawardena during his Chinese visit last year has already entered into an agreement to link one of the Chongqing’s district with the island nation’s Western coastal district of Kalutara as a “model project”.
+
+...
+
+[Data](articles/e18d1287.json)
+
+---
+
+### Fake Kovit Vaccination Certificate: Brazil's suit against former president
 
 *2024-03-20 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/179257) · `ta`
 
-போலியான கொவிட் தடுப்பூசி சான்றிதழ் தயாரிப்பு தொடர்பான வழக்கில் பிரேஸிலின் முன்னாள் ஜனாதிபதி ஜெய்ர் போல்சனரோவுக்கு எதிராக வழக்கு விசாரணை நடத்த அந்நாட்டு பொலிஸார் பரிந்துரைத்துள்ளனர்.
+Brazil's former president Jaiir Bolsonaro is accused of preparing a fake Kovit vaccine certificate for himself and his daughter, leading to a police recommendation for charges against him and 16 others. Bolsonaro, who lost the 2022 presidential election, is also accused of conspiracy to retain power.
 
-கொவிட் பரவலைக் கட்டுப்படுத்துவதில் அலட்சியமாக செயற்பட்டவராக விமர்சிக்கப்படுவர் போல்சனரோ. கொவிட் தடுப்பூசி ஏற்றுவதையும் அவர் விமர்சித்திருந்தார்.
+🟩
 
-இந்நிலையில்,  தனக்கும் தனது மகளுக்கும் கொவிட் தடுப்பூசி செலுத்தப்பட்டதாக போலியான சான்றிதழ் தயாரிப்பதற்கு போல்சனரோ உத்தரவிட்டார் என ஜெய்ர் போல்சனரோ மீது குற்றம் சுமத்தப்பட்டுள்ளது.
+The police have recommended a case against Brazil's former president Jaiir Bolsanaro in the case of fake Kovit vaccine certification preparation.
 
-இது தொடர்பாக ஜெய்ர் போல்சனரோ மற்றும் 16 பேருக்கு எதிராக பொலிஸார் குற்றப்பத்திரம் தாக்கல் செய்துள்ளனர்.
+Bolsanaro is criticized for being negligent in controlling the spread of Kovit. He also criticized the loading vaccine.
 
-2022 ஆம் ஆண்டு ஜனாதிபதித் தேர்தலில் போல்சனரோ தோல்வியுற்றார். அதன்பின் பதவியை தக்கவைத்துக் கொள்வதற்காக சதிப்புரட்சி நடத்த முயன்றார் எனவும் அவர் மீது குற்றம் சுமத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது
+In this case, Jaiir Bolsanaro has been accused of the Bolsanaro's ordered to prepare a fake certificate that he and her daughter have been vaccinated.
+
+The police have filed a chargesheet against Jaiir Bolsanaro and 16 others.
+
+Bolsanaro failed in the 2022 presidential election. He has also been accused of trying to hold a conspiracy to retain the post.
 
 ◼️
 
 [Data](articles/68afec99.json)
+
+[Extended Data](ext_articles/68afec99.ext.json)
 
 ---
 
@@ -95,6 +155,32 @@ The protest had begun at the Fort Railway Station based on several issues, inclu
 [Data](articles/5eaef7f3.json)
 
 [Extended Data](ext_articles/5eaef7f3.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 304.00/20 to the US dollar
+
+*2024-03-20 17:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-304-00-20-to-the-us-dollar-155383/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 304.00/20 to the US dollar in the spot forex market on Wednesday, weaker from 303.95/304.05 on Tuesday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed stable at 11.30/40 percent.
+
+A bond maturing on 15.09.2027 closed stable at 11.90/12.00 percent.
+
+A bond maturing on 15.12.2028 closed up at 12.15/20 percent from 12.10/15 percent.
+
+A bond maturing on 15.07.2029 closed stable at 12.10/30 percent.
+
+A bond maturing on 15.05.2030 closed at 12.10/30 percent up from 12.10/20 percent.
+
+A bond maturing on 15.03.2031 closed at 12.10/35 percent up from 12.10/20 percent.
+
+A bond maturing on 01.07.2032 closed at 12.25/50 percent down from 12.35/55 percent. (Colombo/Mar20/2024)
+
+◼️
+
+[Data](articles/671568cf.json)
 
 ---
 
@@ -155,6 +241,18 @@ The United Nations Sustainable Development Solutions Network is published annual
 [Data](articles/0e842abe.json)
 
 [Extended Data](ext_articles/0e842abe.ext.json)
+
+---
+
+### Call to protect Homagama Hospital...
+
+*2024-03-20 17:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Call-to-protect-Homagama-Hospital/110-279247) · `en`
+
+The Medical Faculty Students' Union (MFSU) staged a protest in front of the Health Ministry today demanding that responsible authorities withdraw the decision to sell the Homagama Hospital, which is attached to the Medical Faculty of the Sri Jayewardenepura University, to the NSBM Green University. Pix by Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/509f9543.json)
 
 ---
 
@@ -412,6 +510,28 @@ The two petitions have been submitted by the Young Journalists Association and t
 
 ---
 
+### Sri Lanka doctors’ association threatens action against private medical universities
+
+*2024-03-20 16:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-doctors-association-threatens-action-against-private-medical-universities-155381/) · `en`
+
+ECONOMYNEXT — A doctors’ professional association has written to President Ranil Wickremesinghe demanding that the government revoke plans to approve the establishment of private medical universities in Sri Lanka.
+
+Secretary of the All Ceylon Medical Officers Association Jayantha Bandara told reporters on Wednesday March 20 that the association would take trade union action against the decision if the government did not revoke it.
+
+Bandara spoke to the reporters outside the Presidential Secretariat having just handed over the letter to an official.
+
+“The government is again trying to create a major problem in the country,” he said.
+
+Bandara, a medical doctor, claimed that the issue of private medical universities has led to confrontational situations in the country over the recent past and also led to problems in education and health sectors.
+
+“The government is ready to approve and open several private universities,” he said, asking if it was a priority at the moment.
+
+...
+
+[Data](articles/9d93496b.json)
+
+---
+
 ### Sri Lanka continues to maintain neutrality in global affairs, including Ukraine - Putin has revealed that the intervention of the West has failed - the Russian Ambassador to Sri Lanka
 
 *2024-03-20 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179242) · `ta`
@@ -439,6 +559,28 @@ He also said that the people of Rasya were opposed to the West's plan that had b
 [Data](articles/f3c193c2.json)
 
 [Extended Data](ext_articles/f3c193c2.ext.json)
+
+---
+
+### Sri Lanka doctors’ association threatens action against private medical universities
+
+*2024-03-20 16:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-doctors-association-threatens-action-against-private-medical-universities-155374/) · `en`
+
+ECONOMYNEXT — A doctors’ professional association has written to President Ranil Wickremesinghe demanding that the government revoke plans to approve the establishment of private medical universities in Sri Lanka.
+
+Secretary of the All Ceylon Medical Officers Association Jayantha Bandara told reporters on Wednesday March 20 that the association would take trade union action against the decision if the government did not revoke it.
+
+Bandara spoke to the reporters outside the Presidential Secretariat having just handed over the letter to an official.
+
+“The government is again trying to create a major problem in the country,” he said.
+
+Bandara, a medical doctor, claimed that the issue of private medical universities has led to confrontational situations in the country over the recent past and also led to problems in education and health sectors.
+
+“The government is ready to approve and open several private universities,” he said, asking if it was a priority at the moment.
+
+...
+
+[Data](articles/2fa6f426.json)
 
 ---
 
@@ -499,6 +641,24 @@ Accordingly, UNICEF emphasizes that the Haitians will face a severe famine.
 [Data](articles/a250ea6f.json)
 
 [Extended Data](ext_articles/a250ea6f.ext.json)
+
+---
+
+### Sri Lanka Treasuries yields up across maturities
+
+*2024-03-20 16:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-up-across-maturities-155375/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields edged up across maturities, at Wednesday’s auction with the 3-month yield rising 13 basis points to 10.23 percent, data from the debt office showed.
+
+The debt office took up more than offered three months bills with 45 billion rupees 68.38 billion rupees of paper sold.
+
+The 6-month yield went up 14 basis points to 10.35 percent, with 70 billion rupees offered and 53 billion sold.
+
+The 12-month yield rose 12 basis points to 10.38 percent, with 40 billion rupees offered and 18 billion sold. (Colombo/Mar20/2024)
+
+◼️
+
+[Data](articles/c0cb0428.json)
 
 ---
 
@@ -864,6 +1024,30 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
+### Sri Lanka parliament’s COPF recommends suspending central bank salary hike
+
+*2024-03-20 14:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliaments-copf-recommends-suspending-central-bank-salary-hike-155365/) · `en`
+
+ECONOMYNEXT – Sri Lanka Parliament’s Committee on Public Finance has recommended the suspension of steep salary hike its staff was paid under on the claim of central bank independence, pending examination by an independent committee.
+
+The committee should be appointed by President Ranil Wickremesinghe with the concurrence of Central Bank Governor Nandalal Weerasinghe with independent members, COPF Chair Harsha de Silva told parliament.
+
+The committee can have members made up of the central bank, independent persons, government representatives, he said.
+
+The committee should come up with a transparent system for deciding salaries in the future, de Silva said.
+
+The COPF recommends that until a mutually acceptable salary increment is agreed, the Central Bank should suspend the current hike, de Silva said.
+
+The salary scales of professional and non-professional grades should be de-linked, he said.
+
+An office assistant’s salary was hiked to 186,000 rupees, it was revealed in parliament.
+
+...
+
+[Data](articles/8b7fe2e0.json)
+
+---
+
 ### Time-restricted eating linked to 91% higher risk of cardiovascular death
 
 *2024-03-20 14:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Time-restricted-eating-linked-to-91-higher-risk-of-cardiovascular-death/108-279240) · `en`
@@ -1158,6 +1342,28 @@ National People's Power Member Anura Kumara Dissanayake and Anuradhapura MP Dumi
 
 ---
 
+### NPP’s AKD calls Sri Lanka speaker a parasite
+
+*2024-03-20 13:35:00* · [`economynextcom`](https://economynext.com/npps-akd-calls-sri-lanka-speaker-a-parasite-155358/) · `en`
+
+ECONOMYNEXT – Leader of the National People’s Power, Anura Kumara Dissanayake said the speaker of Sri Lanka’s parliament is a parasite that acts on behalf of the government.
+
+“He has brought his entire family into parliament,” Dissanayake said Wednesday during the no-confidence debate against speaker Mahinda Yapa Abeywardena. Dissanayake read out several names of the alleged family members employed in the speaker’s office.
+
+“An entire Yapa generation (paramparavak) is here,” Dissanayake said, “One of his sons is the Development Lotteries Board chairman.”
+
+“Because he is beholden to the executive, he acts as a parasite.”
+
+Minister Nimal Siripala de Silva who followed Dissanayake in speaking said that the speaker had erred in giving too much time for the opposition and this was a case of ‘biting the hand that feeds them’.
+
+He also said the NPP were wolves in sheep’s clothing. (Colombo/Mar20/2024)
+
+◼️
+
+[Data](articles/c8188c64.json)
+
+---
+
 ### World's happiness country - where Sri Lanka got
 
 *2024-03-20 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194729) · `si`
@@ -1406,6 +1612,18 @@ At the first COPE meeting of the Fifth Session of the Ninth Parliament convened 
 
 ---
 
+### Containers queued at Colombo Port
+
+*2024-03-20 12:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Containers-queued-at-Colombo-Port/110-279234) · `en`
+
+Containers were queued at the Colombo Port due to the trade union action by the Customs Officers’ Union which hampered the clearing of containers. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/009c96ff.json)
+
+---
+
 ### Another ingenuous murder in Canada
 
 *2024-03-20 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194726) · `si`
@@ -1443,6 +1661,22 @@ The country has already investigated further investigations.
 [Data](articles/3d0969f3.json)
 
 [Extended Data](ext_articles/3d0969f3.ext.json)
+
+---
+
+### Sri Lanka ready to make ongoing reforms a law, minister tells IMF
+
+*2024-03-20 12:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-ready-to-make-ongoing-reforms-a-law-minister-tells-imf-155350/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s State Minister of Finance has told Dr Krishnamurthy Subramanian, Executive Director of the IMF for India, Sri Lanka, Bangladesh and Bhutan that an election would not interrupt ongoing reforms.
+
+“During the discussion ensured that the reforms implemented will not be disrupted with election been announced and the government is ready to make the ongoing reforms a law of the country which demonstrates the dedication to stability and sustainable growth,” Semasinghe said on X (twitter) after the meeting.
+
+“Wide ranging topics were discussed around the current IMF programme and attention was paid to the challenges in digitizing the tax process and it was pointed out that the government has taken steps to increase the number of tax files, which had decreased due to various policy decisions, to approximately one million at present.”
+
+...
+
+[Data](articles/095d3c65.json)
 
 ---
 
@@ -1712,6 +1946,24 @@ The Sri Lankan government has openly stated that the permit will be given to the
 
 ---
 
+### Sri Lanka Customs officers back to work on March 20
+
+*2024-03-20 12:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-officers-back-to-work-on-march-20-155346/) · `en`
+
+ECONOMYNEXT – Sri Lanka Customs staff who were on trade union action will report to work on March 20, following a discussion with State Minister for Finance Ranjith Siyambalapitiya, an official said.
+
+Good stuck at port due to delayed clearing will be processed from early morning.
+
+Customs staff protested against changes to the way rewards are given to officers.
+
+The trade union action was abandoned following positive discussions and other outstanding matters will be dealt with at a second meeting on March 31, the official said.
+
+◼️
+
+[Data](articles/b5e4ca52.json)
+
+---
+
 ### Electronic bill of electricity bills
 
 *2024-03-20 11:54:24* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බිලට-ඉලෙක්ට්‍රොනික-බිල්පතක්/11-408720) · `si`
@@ -1930,6 +2182,28 @@ The Government Finance Committee has also recommended that the salary decision t
 
 ---
 
+### ADB to support green bonds, PPPs in Sri Lanka crisis recovery
+
+*2024-03-20 11:30:00* · [`economynextcom`](https://economynext.com/adb-to-support-green-bonds-ppps-in-sri-lanka-crisis-recovery-155341/) · `en`
+
+ECONOMYNEXT – Manila-based Asian Development Bank will support Sri Lanka’s bond markets and public private partnerships as the country recovers from an economic crisis, according to a new assistance strategy for 2024 to 2028.
+
+The key objective of the new strategy “is fostering sustainable recovery, building resilience, and reviving growth in Sri Lanka” the ADB said in its Country Partnership Strategy.
+
+ADB will help create and deepen the market for corporate bonds and carbon trading and will also support an environment, social, and governance fund.
+
+The agency will help in a green bond framework and green bonds issuance.
+
+To mitigate foreign currency risk for Sri Lankan companies, ADB will explore issuing offshore local currency-linked bonds to allow nonsovereign local currency lending.
+
+ADB will help build capacity at the newly set up National Agency for Public Private Partnerships and help developed PPP policy and institutional, legal, and regulatory frameworks.
+
+...
+
+[Data](articles/dd519c4d.json)
+
+---
+
 ### Award for the 18th year for Lanka Deepa
 
 *2024-03-20 11:20:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/லங்கா-தீபவுக்கு-18ஆவது-ஆண்டாக-விருது/46-334922) · `ta`
@@ -2041,321 +2315,5 @@ The police later said the two shooting victims were merely bystanders who tragic
 [Data](articles/ec001c63.json)
 
 [Extended Data](ext_articles/ec001c63.ext.json)
-
----
-
-### Israeli conspiracy to confuse ceasefire talks: Hamas leader
-
-*2024-03-20 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/179197) · `ta`
-
-Hamas leader Ismail Hani accuses Israel of conspiring to confuse ceasefire talks by blocking Gaza's largest hospital, leading to the death of a Hamas member and arrests.
-
-🟩
-
-Hamas leader Ismail Hani has accused Israel of conspiring to confuse the Gaza ceasefire after Israel's blockade of the Gaza region's largest hospital.
-
-In the absence of Gaza's al -Shiba hospital last Monday, Hamas's dozin was killed and hundreds of people were arrested, and hundreds were arrested.Reported.
-
-In this case, Hamas leader Ismail Hani, who is based on Qatar, said:
-
-The target of police officers and government officials is the objective of causing confusion and violence among our people.
-
-◼️
-
-[Data](articles/82b39856.json)
-
-[Extended Data](ext_articles/82b39856.ext.json)
-
----
-
-### Nalin Bandara threatens to fast unto death unless COPE chief removed
-
-*2024-03-20 11:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nalin-Bandara-threatens-to-fast-unto-death-unless-COPE-chief-removed/108-279229) · `en`
-
-Parliament, March 20 (Daily Mirror)- Whilst calling the government to get Commitee on Public Enterprises (COPE) chief Rohitha Abeygunawarde to resign from his post, SJB MP Nalin Bandara Jayamaha told the House today that he will stage a fast unto death if the former does not resign.
-
-"The reputation of COPE has diminished because of the current situation," he added.
-
-◼️
-
-[Data](articles/2cba86c6.json)
-
-[Extended Data](ext_articles/2cba86c6.ext.json)
-
----
-
-### A fast to remove COPE chairman?
-
-*2024-03-20 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194721) · `si`
-
-Nalin Bandara, COPE chairman, faces removal. Parliament questioned him, and he mentioned the appointment would be given to the COPE Committee. About 8 MPs have withdrawn, and the Chairperson will be removed. Rohitha Abeygunawardena is the new Chairman.
-
-🟩
-
-Parliamentarian Nalin Bandara was questioned by Parliament today (20) regarding the post of Chairman of the COPE committee.
-
-He said that the appointment would be handed over to the COPE Committee.
-
-He said that about 8 MPs have been withdrawn from the COPE committee and the Chairperson of COPE will be removed.
-
-Rohitha Abeygunawardena has recently been appointed as the Chairman of the COPE Committee.
-
-◼️
-
-[Data](articles/a41ecf22.json)
-
-[Extended Data](ext_articles/a41ecf22.ext.json)
-
----
-
-### A fast to remove COPE chairman?
-
-*2024-03-20 11:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194720) · `si`
-
-Nalin Bandara, COPE chairman, faces removal. Parliament questioned him, and he mentioned the appointment would be given to the COPE Committee. About 8 MPs have withdrawn, and the Chairperson will be removed. Rohitha Abeygunawardena is the new Chairman.
-
-🟩
-
-Parliamentarian Nalin Bandara was questioned by Parliament today (20) regarding the post of Chairman of the COPE committee.
-
-He said that the appointment would be handed over to the COPE Committee.
-
-He said that about 8 MPs have been withdrawn from the COPE committee and the Chairperson of COPE will be removed.
-
-Rohitha Abeygunawardena has recently been appointed as the Chairman of the COPE Committee.
-
-◼️
-
-[Data](articles/1bdd8877.json)
-
-[Extended Data](ext_articles/1bdd8877.ext.json)
-
----
-
-### Conflicts similar to the Vidakkanimalai affair will continue until Buddhist monks prevented the aspirations of Buddhist monks
-
-*2024-03-20 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/179195) · `ta`
-
-The Sri Lankan Affairs Committee continues to involve the 'Colombo government' in conflicts, including land disputes in the Northern and Eastern Provinces, involving Buddhist monks. Devotees were disrupted during Shivaratri, leading to arrests and detention until the case was dismissed. Alan Keenan, a Sri Lanka Analyst, warns of ongoing issues despite the dismissal.
-
-🟩
-
-The Sri Lankan session of the Sri Lanka Affairs Committee has continued to resort to the 'Colombo government' to respect the law, and to prevent the Employment aspirations of the Buddhist monks who have been working with the military, which is aimed at taking land in the Northern and Eastern Provinces of the country and changing the ethnic-religious territory.
-
-Devotees who engaged in pooja worship on Shivaratri on the 8th of last month were disrupted by the police and those who attempted to pursue the worship at night were forced to pursue the worship at the Adilingeswarar Temple in Vavuniya district on the 8th of this month.. They were arrested by the police, including the temple, including the temple.
-
-As they were kept in detention until the 19th, they were all released yesterday and the case was dismissed.
-
-...
-
-[Data](articles/6bd1de56.json)
-
-[Extended Data](ext_articles/6bd1de56.ext.json)
-
----
-
-### Reduction in the price of chicken meat
-
-*2024-03-20 10:55:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோழி-இறைச்சி-விலை-குறைப்பு/175-334920) · `ta`
-
-The Narahenpitiya Economic Center reports a 30% reduction in the price of poultry meat, now priced at Rs.1,180/kg, with curry chicken and skinless chicken also available at Rs.1,100/kg.
-
-🟩
-
-According to reports released by Narahenpitiya Economic Center, the retail price of a kilogram of poultry meat is Rs.A senior official of the center said that it has been reduced by 30.
-
-After the reduction in prices, the new price of a kilogram of poultry meat at Narahenpitiya Economic Center is priced at Rs.1,180, curry chicken Rs.1,100, and the skin free of Rs.1,100 is also sold.
-
-One kilogram of beef is Rs.2,400 and a kilogram of mutton at Rs.He added that 3,300 is being sold.
-
-◼️
-
-[Data](articles/d5f1f53a.json)
-
-[Extended Data](ext_articles/d5f1f53a.ext.json)
-
----
-
-### Ammunition meets ammunition with common well
-
-*2024-03-20 10:53:56* · [`adalk`](https://www.ada.lk/breaking_news/අහුංගල්ල-පොදු-ළිදකින්-පතොරම්-හමුවෙයි/11-408717) · `si`
-
-Ammunition discovered in a public bath well in Porkara, Ahuherai road, by residents using a water pump around 05 pm on the night of 19th. Found 7 bore and 3 types of firearms, including 5.56.45. Ahungalla Police are investigating.
-
-🟩
-
-Ammunition has been found in a public bath well in Porkara, Ahuherai road
-
-The Ahungalla Police say. Several residents of the area have removed the well-being, using a water pump around 05 pm on the night of 19th. The consignment was found at the time, and the police have informed the incident.
-
-Meanwhile, there are seven bore and three types of firearms, 5.56.45, police said. Ahungalla Police are conducting further investigations.
-
-◼️
-
-[Data](articles/912418dd.json)
-
-[Extended Data](ext_articles/912418dd.ext.json)
-
----
-
-### Issuing of a 10 year old son
-
-*2024-03-20 10:51:50* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-10ක-පුතාගේ-මූණ-කම්බි-කූරක්-රත්කර-පිළිස්සූ-මව-අල්ලයි/11-408716) · `si`
-
-The mother of a Moneragala Police officer has been arrested for the death of a 10-year-old child in Kumaratunga Mawatha. The child was found burnt, and the mother is being investigated by Moneragala Inspector of Police PS Chamaga Sanjeewa.
-
-🟩
-
-The mother of the Moneragala Police has arrested the child from the Monaragala Police regarding the death of a ten-year-old child in Kumaratunga Mawatha in Kumaratunga Mawatha.
-
-The fifth year learning the child is courageous, mouth and face to heat a wire and face. Investigations have revealed that the way was burnt.
-
-The mother associated with the incident was arrested and was to be produced before the Moneragala Magistrate's Court.
-
-The injured child is rescuing with the Kandy General Hospital. Moneragala Inspector of Police PS Chamaga Sanjeewa is conducting investigations.
-
-◼️
-
-[Data](articles/9b113618.json)
-
-[Extended Data](ext_articles/9b113618.ext.json)
-
----
-
-### PAFFREL concerned over proposal to amend electoral system, warns of election delay
-
-*2024-03-20 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98071/paffrel-concerned-over-proposal-to-amend-electoral-system-warns-of-election-delay) · `en`
-
-The elections are likely to get postponed if the proposals put forward to amend the parliamentary electoral system are not properly implemented, the People’s Action for Free and Fair Elections (PAFFREL) has said, raising concerns about the Cabinet of Ministers green-lighting a proposal in this regard.
-
-Acknowledging the need to revise the country’s electoral system, the executive director of the election watchdog Rohana Hettiarachchi, however, highlighted the importance of finalizing the delimitation process before any changes are to be made to the parliamentary electoral system.
-
-“But if the delimitation process is not concluded even if the electoral system is revised by August, it is imperative that this draft bill incorporates an amendment that allows the Election Commission to conduct the polls pursuant to the existing electoral system,” he added.
-
-...
-
-[Data](articles/37a9650c.json)
-
-[Extended Data](ext_articles/37a9650c.ext.json)
-
----
-
-### 300,000 liters of water daily from Kantale tank
-
-*2024-03-20 10:46:08* · [`adalk`](https://www.ada.lk/breaking_news/කන්තලේ-වැවෙන්-දිනකට-ජලය-ලිටර්-ලක්ෂ 300ක්-වාෂ්පවෙයි/11-408715) · `si`
-
-The Kantale irrigation system in Trincomalee District supplies 300,000 liters of water daily, making it the largest in the area. The Kantale tank holds 114,000 cubic feet of water.
-
-🟩
-
-The Irrigation Department says that the largest irrigation system in the Trincomalee District is considered as the largest irrigation system in the Trincomalee Districts.
-
-Kantale irrigation, Kantale irrigation, said that if the amount of water calculated with the litar, the Kantale irrigation was 300,000 liters a day.The irrigation engineer pointed out.
-
-The irrigation engineer further pointed out that the water capacity of the Kantale tank of Kantale tank is 114,000 feet in the Kantale Water of the Kantale Water of the Kantale Water of the Kantale Water of the Kantale Water.
-
-◼️
-
-[Data](articles/5c8697d0.json)
-
-[Extended Data](ext_articles/5c8697d0.ext.json)
-
----
-
-### Cabinet permit to change the electoral system
-
-*2024-03-20 10:45:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முறைமையை-மாற்ற-அமைச்சரவை-அனுமதி/175-334918) · `ta`
-
-The Cabinet approved a new parliamentary electoral system, moving from FPTP to a mixed system with proportional representation. A new law will be enacted by Parliament for these changes.
-
-🟩
-
-The Cabinet has approved the proposal for the introduction of the new parliamentary electoral system.
-
-This is the selection of 160 MPs under the FPTP (majority voting system) system. The method of choosing by proportional representation.
-
-Minister of Justice Vijayadasa Rajapakse presented a proposal approved by the Cabinet.A new legislation will be enacted by Parliament to implement the constitutional changes required for this purpose.This will be a mixed electoral system.
-
-It is also noteworthy that in the past, the government's attempt to bring about changes to the current electoral system based on proportional representation and preferential votes.
-
-◼️
-
-[Data](articles/917c9273.json)
-
-[Extended Data](ext_articles/917c9273.ext.json)
-
----
-
-### Sri Lanka to host Asia Rugby Division 1 in Colombo
-
-*2024-03-20 10:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-host-Asia-Rugby-Division-1-in-Colombo/108-279228) · `en`
-
-Mar. 20 (Daily Mirror) - Sri Lanka Rugby (SLR) is set to host the Asia Rugby Division 1 Championship in Colombo from April 28 to May 5 between hosts Sri Lanka, Pakistan, and Qatar.
-
-However, the participation of Pakistan is still in doubt due to political uncertainty. This tournament was confirmed by Asia Rugby recently.
-
-If Pakistan pulls out, SLR will likely host the event with two matches against the Qatar outfit and the venue for the tournament probably, will be the Racecourse Grounds in Colombo.
-
-Meanwhile, CR and FC and Royal College Head Coach, Dushantha Lewke is tipped to be in charge of the Sri Lanka outfit.
-
-The Asia Rugby Top Four is fought between Hong Kong, South Korea, Malaysia and the United Arab Emirates (UAE).
-
-The losers will be demoted to Division 1 in 2025 while the winners in Colombo during the Division 1 encounters this year will get their berth booked for the top four in 2025 which will see three home matches and an equal number of matches away.
-
-...
-
-[Data](articles/6a405efa.json)
-
-[Extended Data](ext_articles/6a405efa.ext.json)
-
----
-
-### Woman suspect arrested with heroin drug
-
-*2024-03-20 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/179192) · `ta`
-
-An 18-year-old woman was arrested in Ratmalana with 2 grams of heroin by the CID. The case was reported in Bingwatta and further investigations are ongoing. The suspect has been produced before the court.
-
-🟩
-
-A female suspect (18) has been arrested with heroin drugs from the Criminal Investigation Division (CID).
-
-Police said that 2 grams of heroin was seized from the suspect in the suspect.
-
-The suspect was the 45 -year -old from Ratmalana area.
-
-The police said that the case was reported in the Bingwatta Police Division and that further investigations into the incident were investigated.
-
-Also, the arrested female suspect has been produced before the court.
-
-◼️
-
-[Data](articles/71bdd6f3.json)
-
-[Extended Data](ext_articles/71bdd6f3.ext.json)
-
----
-
-### Does our research ship prohibit the German ship?Chinese embassy in Sri Lanka
-
-*2024-03-20 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179191) · `ta`
-
-The Chinese embassy in Sri Lanka opposes Sri Lanka's permission for a German research vessel to visit the Colombo sector, where Sri Lanka banned foreign research ships for a year. China criticizes this decision, but Sri Lanka has granted permission to the German vessel.
-
-🟩
-
-The Chinese embassy in Sri Lanka has fiercely opposed the Sri Lankan government's permission to visit the German research vessel to the Colombo sector as Sri Lanka imposed a one -year ban on foreign research ships.
-
-China has said that the Sri Lankan government has issued a strong opposition to the Sri Lankan government's permission to the German ship's research ship and said that if Sri Lanka had decided to deny the research ships of all countries, China would not exaggerate the issue.
-
-Government sources have confirmed that Sri Lanka has granted permission to the German research shop.The sources said.
-
-Economi Next said that the Sri Lankan Foreign Ministry or the Chinese embassy could not get comments on the Chinese embassy's opposition.
-
-◼️
-
-[Data](articles/7fed4f09.json)
-
-[Extended Data](ext_articles/7fed4f09.ext.json)
 
 ---

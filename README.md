@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 23:33:36**
+As of **2024-03-20 23:52:17**
 
 ## Newspaper Stats
 
-*Scraped **14,172** Articles*
+*Scraped **14,174** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 157
 dbsjeyarajcom | 190
 newsfirstlk | 363
 dailyftlk | 734
-economynextcom | 758
+economynextcom | 760
 islandlk | 770
 adalk | 1,226
 adaderanalk | 1,703
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,262
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,172 (100.0%) of 14,172 articles have been extended.
+14,172 (100.0%) of 14,174 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -556,6 +556,22 @@ Pakistani batsman Barber Assam has been able to save 824 runs in the front front
 
 ### Sri Lanka to sign “sister district” deal with China’s Chongqing for investments
 
+*2024-03-20 18:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-sign-sister-district-deal-with-chinas-chongqing-for-investments-155373/) · `en`
+
+ECONOMYNEXT – All Sri Lankan districts including in the island nation’s North and East will sign a “sister district” deal with China’s Chongqing province for investments and improve production capacity, State Minister of Social Empowerment Anupa Pasqual, said.
+
+Sovereign debt defaulted Sri Lanka has been looking to attract investments into grass root level across the country and the island nation has been in discussion for “sister district” concept with China’s Chongqing, which has around 33 million population.
+
+Minister Pasqual said Prime Minister Dinesh Gunawardena during his Chinese visit last year has already entered into an agreement to link one of the Chongqing’s district with the island nation’s Western coastal district of Kalutara as a “model project”.
+
+...
+
+[Data](articles/2d767cfc.json)
+
+---
+
+### Sri Lanka to sign “sister district” deal with China’s Chongqing for investments
+
 *2024-03-20 18:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-districts-to-sign-sister-district-deal-with-chinas-chongqing-for-investments-155373/) · `en`
 
 ECONOMYNEXT – All Sri Lankan districts including in the island nation’s North and East will sign a “sister district” deal with China’s Chongqing province for investments and improve production capacity, State Minister of Social Empowerment Anupa Pasqual, said.
@@ -569,6 +585,24 @@ Minister Pasqual said Prime Minister Dinesh Gunawardena during his Chinese visit
 [Data](articles/e18d1287.json)
 
 [Extended Data](ext_articles/e18d1287.ext.json)
+
+---
+
+### Sri Lanka to bring new law to improve financial governance: president
+
+*2024-03-20 18:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-bring-new-law-to-improve-financial-governance-president-155395/) · `en`
+
+ECONOMYNEXT — Sri Lanka will introduce new legislation in April 2024 aimed at improving financial governance within the government in a bid to propel the economy forward and transform the island nation into an export-oriented economy, President Ranil Wickremesinghe said.
+
+Speaking at a religious ceremony in Kegalle on Wednesday March 20, Wickremesinghe said that, if Sri Lanka continues to rely on borrowing to address the imbalance between imports and exports, the country will inevitably confront another economic crisis within a decade.
+
+A statement from the president’s office quoted him as saying that this calls for economic stability and expediting the transformation of Sri Lanka into an export-oriented economy.
+
+The president said negotiations concerning certifying Sri Lanka as a debt-paying country are anticipated to conclude by June and July and any foreign aid lost due to the country being labelled bankrupt will be retrieved.
+
+...
+
+[Data](articles/e6026e0c.json)
 
 ---
 
@@ -2277,47 +2311,5 @@ As a result of this, the fishermen have come to the spot where the fishermen hav
 [Data](articles/fa2de4d0.json)
 
 [Extended Data](ext_articles/fa2de4d0.ext.json)
-
----
-
-### Anura Decision on COPE Committee
-
-*2024-03-20 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194727) · `si`
-
-National Power leader Anura Kumara Dissanayake resigned from the COPE Committee, leading to 10 of the 30 members resigning as well.
-
-🟩
-
-Leader of the National Power Anura Kumara Dissanayake resigned from the Committee on Commerce Committee or COPE, General.
-
-Accordingly, 10 of the 30 COPE committee members have resigned.
-
-◼️
-
-[Data](articles/e991e501.json)
-
-[Extended Data](ext_articles/e991e501.ext.json)
-
----
-
-### Change in prevailing dry weather from tomorrow
-
-*2024-03-20 12:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Change-in-prevailing-dry-weather-from-tomorrow/108-279236) · `en`
-
-Colombo, March 20 (Daily Mirror) - A change in the prevailing dry weather in the island can be expected by tomorrow, the Forecasting Division of the National Meteorological Centre said.
-
-Several spells of showers will occur in the Eastern, Uva and Northern Provinces.
-
-Showers will occur at several places in the Western, Sabaragamuwa, Central, Uva, Southern, North-Western, and North-Central Provinces during the afternoon or night.
-
-Misty conditions can be expected at some places in the Sabaragamuwa and Central Provinces and in the Galle and Matara districts during the morning.
-
-The public is requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/2ebe0862.json)
-
-[Extended Data](ext_articles/2ebe0862.ext.json)
 
 ---

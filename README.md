@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 23:18:20**
+As of **2024-03-20 23:33:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,262
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,168 (100.0%) of 14,172 articles have been extended.
+14,172 (100.0%) of 14,172 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ President Ranil Wickremesinghe payed floral tribute to late Minister Gamini Diss
 ◼️
 
 [Data](articles/8cceb1bd.json)
+
+[Extended Data](ext_articles/8cceb1bd.ext.json)
 
 ---
 
@@ -78,6 +80,8 @@ The main factors contributing to elephant deaths by electrocution include the us
 
 [Data](articles/0e5ef7cf.json)
 
+[Extended Data](ext_articles/0e5ef7cf.ext.json)
+
 ---
 
 ### Sri Lanka explores cooperation with South Sudan in oil, other sectors
@@ -95,6 +99,8 @@ The discussions centered around various areas of mutual interest, including econ
 ...
 
 [Data](articles/5dc1a511.json)
+
+[Extended Data](ext_articles/5dc1a511.ext.json)
 
 ---
 
@@ -933,6 +939,8 @@ A new alliance titled Humane Peoples’ Alliance under the leadership of former 
 ◼️
 
 [Data](articles/777fc55f.json)
+
+[Extended Data](ext_articles/777fc55f.ext.json)
 
 ---
 

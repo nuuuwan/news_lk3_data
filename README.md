@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 14:34:09**
+As of **2024-03-20 14:51:05**
 
 ## Newspaper Stats
 
-*Scraped **14,077** Articles*
+*Scraped **14,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 745
 islandlk | 770
 adalk | 1,216
 adaderanalk | 1,692
-tamilmirrorlk | 1,705
+tamilmirrorlk | 1,706
 virakesarilk | 1,976
 dailymirrorlk | 2,157
 adaderanasinhalalk | 2,243
@@ -26,27 +26,49 @@ adaderanasinhalalk | 2,243
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,076 (100.0%) of 14,077 articles have been extended.
+14,077 (100.0%) of 14,078 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### ஷாஃப்டரின் விசாரணை: நீதிமன்றம் அதிரடி நினைவூட்டல்
+### நீதிமன்றத்தை அவமதித்த சட்டத்தரணிக்கு விளக்கமறியல்
+
+*2024-03-20 14:35:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தை-அவமதித்த-சட்டத்தரணிக்கு-விளக்கமறியல்/175-334929) · `ta`
+
+நீதிமன்றத்தை அவமதித்ததாக கூறப்படும் சட்டத்தரணி ஒருவரை எதிர்வரும் 3ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு உத்தரவிட்ட உயர் நீதிமன்றம், நீதிமன்ற அவமதிப்பு குற்றச்சாட்டின் கீழ் அவருக்கு எதிராக குற்றப்பத்திரிகை தாக்கல் செய்யுமாறு சட்டமா அதிபருக்கு உத்தரவிட்டுள்ளது.
+
+சட்டத்தரணியான ஜயதுங்க விளக்கமறியலில் வைக்கப்பட்டுள்ளார். உயர் நீதிமன்ற நீதியரசர்களான பிரிதி பத்மன் சூரசேன, காமினி அமரதுங்க மற்றும் குமுதுனி விக்கிரமசிங்க ஆகியோர் இவ்வாறு தீர்ப்பளித்தனர்.
+
+◼️
+
+[Data](articles/e9ea1c89.json)
+
+---
+
+### Shaft's Inquiry: Court Action Reminder
 
 *2024-03-20 14:10:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஷாஃப்டரின்-விசாரணை-நீதிமன்றம்-அதிரடி-நினைவூட்டல்/175-334928) · `ta`
 
-படுகொலை செய்யப்பட்ட பிரபல வர்த்தகர் தினேஷ் ஷாப்டரின் கையடக்கத் தொலைபேசி மற்றும் கணினி தரவுகள் தொடர்பான நிபுணர் அறிக்கையை நீதிமன்றில் உடனடியாக சமர்ப்பிக்குமாறு கொழும்பு மேலதிக நீதவான் ஹர்ஷன கெக்குனுவெல அரசாங்க பரிசோதகர்க்கு நினைவூட்டல் கடிதம் ஒன்றை  புதன்கிழமை (20) வழங்கினார்.
+Colombo's Harshana Kekunuwela reminded the Government Inspector to submit an expert report on Dinesh Shaft's mobile and computer data. The report on the deceased's electronic devices is pending. The Additional Magistrate will consider the deceased's wife's request for his mobile phone number post-report submission. The CIT was advised to consider providing relevant Simbu and submit a report at the next hearing. Further investigations are ongoing to identify suspects.
 
-உயிரிழந்தவர் பயன்படுத்திய இலத்திரனியல் சாதனங்கள் தொடர்பில் அரசாங்கத்தின் இரசாயன பகுப்பாய்வாளரின் அறிக்கை இதுவரை கிடைக்கப்பெறவில்லை என முன்வைக்கப்பட்ட உண்மைகளை பரிசீலித்த நீதவான், நினைவூட்டல் கடிதத்தை வழங்க உத்தரவிட்டுள்ளார்.
+🟩
 
-இறந்தவரின் கையடக்க தொலைபேசி எண்ணை மனைவிக்கு வியாபார நோக்கத்திற்காக வழங்குவது தொடர்பான கோரிக்கை அரசாங்கத்தின் நிபுணர் அறிக்கையைப் பெற்ற பின்னர் பரிசீலிக்கப்படும் என்றும் மேலதிக நீதவான் தெரிவித்தார்.
+Colombo Additional Magistrate Harshana Kekunuwela issued a reminder letter to the Government Inspector of the Government on Wednesday (20) to submit an expert report on the mobile phone and computer data of the assassinated trader Dinesh Shaft.
 
-தொடர்புடைய சிம்பை வழங்குவதற்கான சாத்தியக்கூறுகளை பரிசீலித்து, அடுத்த விசாரணை அமர்வில் அது தொடர்பான அறிக்கையை சமர்ப்பிக்குமாறு சிஐடியினரால் பொலிஸாருக்கு அறிவுறுத்தப்பட்டது.
+The magistrate, considering the fact that the report of the government's chemical analyst on electronic devices used by the deceased has not yet been made available, has ordered a memorable letter.
+
+The Additional Magistrate said that the request of the deceased's mobile phone number to the wife for business purposes will be considered after receiving the government's expert report.
+
+The CIT was advised by the CIT to consider the possibility of providing the relevant Simbu and submitted a report on the next hearing session.
+
+The magistrate said this while reporting the facts about his wife's request to order the SIM card or a new SIM card, pointing to the telephone number used for the Dinesh Shafter business before Dinesh Shafter was killed.
 
 ...
 
 [Data](articles/05480364.json)
+
+[Extended Data](ext_articles/05480364.ext.json)
 
 ---
 
@@ -2265,27 +2287,5 @@ Deputy General Manager N.S.. He added.
 [Data](articles/8e812f75.json)
 
 [Extended Data](ext_articles/8e812f75.ext.json)
-
----
-
-### Many hospitals in China stop newborn delivery services as birth rate drops
-
-*2024-03-20 06:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Many-hospitals-in-China-stop-newborn-delivery-services-as-birth-rate-drops/108-279196) · `en`
-
-HONG KONG, March 20 (Reuters) - Many hospitals in China have stopped offering newborn delivery services this year, state-backed news outlet Daily Economic News reported, with industry experts warning of an "obstetric winter" due to declining demand amid a record drop in new births.
-
-Hospitals in various provinces including in eastern Zhejiang and southern Jiangxi have in the past two months announced that they will close their obstetric departments, according to notices viewed by Reuters.
-
-The Fifth People's Hospital of Ganzhou City in Jiangxi said on its official WeChat account that obstetric services would be suspended from March 11.
-
-Zhejiang's Jiangshan Hospital of Traditional Medicine announced on its WeChat page that its obstetrics business would stop from Feb. 1.
-
-The closures come as Chinese policymakers grapple with how to boost young couples' desire to have children as authorities face a growing demographic headache of a rapidly ageing society.
-
-...
-
-[Data](articles/f0e80b8f.json)
-
-[Extended Data](ext_articles/f0e80b8f.ext.json)
 
 ---

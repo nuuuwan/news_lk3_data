@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 23:52:17**
+As of **2024-03-21 00:03:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,262
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,172 (100.0%) of 14,174 articles have been extended.
+14,174 (100.0%) of 14,174 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -568,6 +568,8 @@ Minister Pasqual said Prime Minister Dinesh Gunawardena during his Chinese visit
 
 [Data](articles/2d767cfc.json)
 
+[Extended Data](ext_articles/2d767cfc.ext.json)
+
 ---
 
 ### Sri Lanka to sign “sister district” deal with China’s Chongqing for investments
@@ -603,6 +605,8 @@ The president said negotiations concerning certifying Sri Lanka as a debt-paying
 ...
 
 [Data](articles/e6026e0c.json)
+
+[Extended Data](ext_articles/e6026e0c.ext.json)
 
 ---
 

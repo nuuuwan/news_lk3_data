@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 00:17:56**
+As of **2024-03-21 00:33:41**
 
 ## Newspaper Stats
 
-*Scraped **14,177** Articles*
+*Scraped **14,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 1,703
 tamilmirrorlk | 1,714
 virakesarilk | 1,987
 dailymirrorlk | 2,179
-adaderanasinhalalk | 2,262
+adaderanasinhalalk | 2,263
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,174 (100.0%) of 14,177 articles have been extended.
+14,177 (100.0%) of 14,178 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Two appointments for top state positions have been challenged; one in a court of
 ...
 
 [Data](articles/05c3c8e9.json)
+
+[Extended Data](ext_articles/05c3c8e9.ext.json)
 
 ---
 
@@ -64,6 +66,8 @@ Now, there are even more draconian pieces of legislations being enacted.  If we
 
 [Data](articles/d8dbbe28.json)
 
+[Extended Data](ext_articles/d8dbbe28.ext.json)
+
 ---
 
 ### Trees are as close to immortality as the rest of us ever come
@@ -78,9 +82,25 @@ Today, the United Nations (UN) marks the International Day of Forests. In a stat
 
 [Data](articles/e86cb9e3.json)
 
+[Extended Data](ext_articles/e86cb9e3.ext.json)
+
 ---
 
 ### 2024-03-20 (Wednesday)
+
+### ගණේමුල්ලේ වෙඩි හුවමාරුවක්
+
+*2024-03-20 23:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194753) · `si`
+
+ගණේමුල්ල ප්‍රදේශයේ නිවසක් පරීක්ෂා කිරීමේදී පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන්ට සැකකරුවෙකු වෙඩි තබා තිබේ.  එහිදී පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරියෙකු සහ තුවක්කුකරු ද තුවාල ලබා ඇත.
+
+මීට පෙර පාතාල කල්ලි වෙඩි තැබීම්වලට සම්බන්ධ බවට සැක කෙරෙන තුවක්කුකරුවෙකු අත්අඩංගුවට ගැනීමට යෑමේදී මෙම වෙඩිතැබීම සිදුවී තිබේ.
+
+◼️
+
+[Data](articles/94b84c2a.json)
+
+---
 
 ### Former Minister Gamini Dissanayake commemorated
 
@@ -2271,25 +2291,5 @@ Internal sources of the Sri Lanka General Sources say that the final agreement i
 [Data](articles/e8efa5a3.json)
 
 [Extended Data](ext_articles/e8efa5a3.ext.json)
-
----
-
-### Anura Kumara, Duminda Dissanayake resign from COPE
-
-*2024-03-20 13:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumara-Duminda-Dissanayake-resign-from-COPE/108-279237) · `en`
-
-Parliament, March 20 (Daily Mirror)- NPP leader and MP Anura Kumara Dissanayake informed Parliament today that he too has decided to resign from the Committee on Public Enterprises (COPE).
-
-He told Parliament that it was pointless participating in COPE meetings under the chairmanship of Rohitha Abeygunawardan.
-
-The MP said the current COPE chairman had allegations of fraud and corruption and therefore he decided to resign as a member of the COPE.
-
-Meanwhile, Parliamentarian Duminda Dissanayake has also resigned from the COPE today.
-
-◼️
-
-[Data](articles/7a26b51f.json)
-
-[Extended Data](ext_articles/7a26b51f.ext.json)
 
 ---

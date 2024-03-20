@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 12:33:27**
+As of **2024-03-20 12:50:34**
 
 ## Newspaper Stats
 
-*Scraped **14,048** Articles*
+*Scraped **14,052** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,62 @@ newsfirstlk | 363
 dailyftlk | 734
 economynextcom | 745
 islandlk | 770
-adalk | 1,212
-adaderanalk | 1,687
+adalk | 1,214
+adaderanalk | 1,688
 tamilmirrorlk | 1,703
 virakesarilk | 1,972
 dailymirrorlk | 2,151
-adaderanasinhalalk | 2,236
+adaderanasinhalalk | 2,237
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,044 (100.0%) of 14,048 articles have been extended.
+14,048 (100.0%) of 14,052 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### කෝප් කමිටුවෙන් තවත් සාමාජිකයෙක් ඉල්ලා අස්වෙයි
+
+*2024-03-20 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194725) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා ද පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටු සාමාජිකත්වයෙන් ඉල්ලා අස්වී තිබේ.
+
+නවවැනි පාර්ලිමේන්තුවේ පස්වන සභාවාරයේ ආරම්භයත් සමග පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටුව ඊයේ (19) පළමුවරට රැස්වුණි.
+
+ඒ එහි නව සභාපති පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතාගේ ප්‍රධානත්වයෙනි.
+
+ඊයේ කෝප් කමිටුව රැස්වුණේ එහි සාමාජිකයින් 30න් හත්දෙනෙකුම ඉල්ලා අස්වී තිබූ පසුබිමකය.
+
+වසන්ත යාපා බණ්ඩාර මහතා සහ දුමින්ද දිසානායක මහතා අද සාමාජිකත්වයෙන් ඉල්ලා අස්වීමත් සමඟ මේ වනවිට මන්ත්‍රීවරු 9 දෙනෙකු නව සභාපතිවරයාට විරෝධය පළ කරමින් කෝප් කමිටුවෙන් ඉවත්ව තිබේ.
+
+කෙසේවෙතත් සෙසු සාමාජිකයින්ගේ සහභාගීත්වයෙන් ඊයේ පැවති කෝප් කමිටු රැස්වීමේදී රාජ්‍ය වැවිලි සංස්ථාවේ කටයුතු පිළිබඳව සාකච්ඡාවට ගැනුණි.
+
+◼️
+
+[Data](articles/f324bca6.json)
+
+---
+
+### Three criminal gang members arrested in special STF raids
+
+*2024-03-20 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98074/three-criminal-gang-members-arrested-in-special-stf-raids) · `en`
+
+The Police Special Task Force (STF), in a raid conducted on Tuesday night (March 19), has managed to arrest three suspects involved in organized crimes.
+
+Accordingly, a close associate of the infamous gangster “Keselwatte Dinuka”, identified as Tharindu Ruwan Kumara, was apprehended in Borella. The STF personnel found 6.5 grams of heroin on the suspect at the time of the arrest.
+
+Meanwhile, Ahmed Jeffrey Ahmed Rizwan alias “Goda Rizwan”, a member of the notorious criminal figure “Kanjipani Imran’s” gang, was arrested in Maligawatta along with 6.4 grams of heroin.
+
+Finally, a close associate of the gangster “Pookudi Kanna”, identified as Munaweera Arachchilage Susantha, was arrested with 6.62g of heroin in Kajimawatta.
+
+◼️
+
+[Data](articles/b4e64645.json)
+
+---
 
 ### Tourist arrivals hit new high this year
 
@@ -50,43 +90,79 @@ The total number of passengers using the BIA in 2022 was 5 million, with a proje
 
 [Data](articles/e0bcffc4.json)
 
+[Extended Data](ext_articles/e0bcffc4.ext.json)
+
 ---
 
-### வவுனியா மாவட்ட பொது வைத்தியசாலையில் மருந்தாளர்கள் பணிப்புறக்கணிப்பு - நோயாளர்கள் அவதி
+### Pharmacists' Workplace at Vavuniya District General Hospital
 
 *2024-03-20 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179210) · `ta`
 
-வவுனியா மாவட்ட பொது வைத்தியசாலையில்  மருந்தாளர்கள்  பல்வேறு கோரிக்கைளை முன்வைத்து இன்று புதன்கிழமை (20) (சுகயீன விடுமுறை) பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ளனர்.
+Pharmacists at Vavuniya District General Hospital demanded better promotion and appointment processes, affecting patient care due to workforce issues.
 
-பதவி உயர்வு மற்றும் புதிய நியமனம் ஆகியவற்றில் முறைகேடு இடம்பெற்றுள்ளதாக தெரிவித்து  மருந்தாளர்கள்  சுகயீன விடுமுறையில் ஈடுபட்டனர்
+🟩
 
-இலங்கை முழுவதும் முன்னெடுக்கப்படும் பணிப்புறக்கணிப்பு போராட்டம் முன்னெடுக்கப்பட்டு வருகின்ற இந்நிலையிலேயே வவுனியா மாவட்ட பொது வைத்தியசாலையிலும் மருந்தக பிரிவுகள் முற்றாக செயழிந்துள்ளன.
+Pharmacists at the Vavuniya District General Hospital have made various demands on Wednesday (20).
 
-இப் பணிப்புறக்கணிப்பு போராட்டம் காரணமாக கிளினிக் , வெளிநோயாளர் பிரிவு ஆகியவற்றிக்கு வருகை மேற்கொண்ட நோயாளிகள் பல்வேறு அசோகரியங்களுக்கு முகங்கொடுத்திருந்தனர்.
+Pharmaceuticals have been on a sick holiday, claiming that there has been irregularities in promotion and new appointment
+
+The workforce struggle is being carried out across Sri Lanka.
+
+Patients who visited the Clinic and Outpatient Division were facing various illnesses due to this workforce.
 
 ◼️
 
 [Data](articles/6927d926.json)
 
+[Extended Data](ext_articles/6927d926.ext.json)
+
 ---
 
-### வெளிநாடுகளின் ஆராய்ச்சிகப்பல்கள் இலங்கையில் எரிபொருள் மீள்நிரப்புதலிற்கு அனுமதி - சீனாவின் எதிர்ப்பை தொடர்ந்து வெளிவிவகார அமைச்சு தகவல்
+### Foreign Ministry of Foreign Ministry following China's opposition
 
 *2024-03-20 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/179209) · `ta`
 
-வெளிநாடுகளின் ஆராய்ச்சி கப்பல்கள்இலங்கை துறைமுகங்களில் மீள்நிரப்புதலில் ஈடுபடுவதற்கு இலங்கை அனுமதிவழங்கும் என இலங்கைவெளிவிவகார அமைச்சின் பேச்சாளர் தெரிவித்துள்ளார்
+Sri Lanka allows German research ship to refuel, despite China's opposition and a year-long ban on research vessels due to security concerns. The government has clarified that re-establishment of foreign research ships is permitted.
 
-ஜேர்மனியின் ஆராய்ச்சி கப்பலிற்கு இலங்கை அனுமதி வழங்கியமை குறித்து சீன தூதரகம் கடும் எதிர்ப்பை வெளியிட்டுள்ள நிலையிலேயே அவர் இதனை தெரிவித்துள்ளார்.
+🟩
 
-ஆராய்ச்சிகளில் ஈடுபடும் கப்பல்களிற்கே இலங்கை தடை விதித்துள்ளது - ஆராய்ச்சி கப்பல்கள் மீள்நிரபுப்புதலில் ஈடுபடுவதற்கு இலங்கை தடை விதிக்கவில்லை என வெளிவிவகார அமைச்சின் பேச்சாளர் நிலுக்க கதிருகமுவ தெரிவித்துள்ளார்.
+Sri Lankan research ships will be allowed to rejuvenate in Sri Lankan ports, a spokesman for the Ministry of Sri Lanka's Ministry
 
-ஜேர்மனியின் ஆராய்ச்சிகப்பல் எரிபொருள் மீள் நிரப்புவதற்கே கொழும்பு துறைமுகத்திற்கு வந்தது அதனால் அதற்கு அனுமதி வழங்கப்பட்டதுஎனவும் அவர் தெரிவித்துள்ளார்.
+He made this statement when the Chinese embassy has issued a fierce opposition to Sri Lanka's permission for the German research ship.
 
-14 மாதங்களில் சீனாவின் ஆராய்ச்சி கப்பல்கள் இரண்டு தடவை இலங்கைக்கு விஜயம் மேற்கொண்டதை தொடர்ந்து இந்தியாவும் அமெரிக்காவும் வெளியிட்ட கடும் பாதுகாப்பு கரிசனைகள் காரணமாக ரணில் விக்கிரமசிங்க அரசாங்கம் ஒரு வருட காலத்திற்கு ஆராய்ச்சி கப்பல்களிற்கு தடை விதித்துள்ளது.
+Sri Lanka has banned ships that are involved in research - Sri Lanka has not banned research ships reinforcement, Foreign Ministry spokesman's spokesman said.
 
-...
+He said that the German research ship came to the Port of Colombo to fill the fuel.
+
+The Ranil Wickremesinghe government has banned research vessels for over a year due to heavy security issues issued by India and the US following China's research ships twice in 14 months.
+
+However, when the ban was announced, the government did not make it clear whether the government would be allowed to re -evolve foreign research ships.
+
+The Sri Lankan government has openly stated that the permit will be given to the re -establishment.
+
+◼️
 
 [Data](articles/e0a3ba31.json)
+
+[Extended Data](ext_articles/e0a3ba31.ext.json)
+
+---
+
+### විදුලි බිලට ඉලෙක්ට්‍රොනික බිල්පතක්
+
+*2024-03-20 11:54:24* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බිලට-ඉලෙක්ට්‍රොනික-බිල්පතක්/11-408720) · `si`
+
+විදුලි පාරිභෝගිකයන්ට ලංකා විදුලි බල මණ්ඩලයෙන් මෙතෙක් මාසිකව නිකුත් කල බිල්පත වෙනුවට ඉලෙක්ට්‍රොනික බිල්පතක් නිකුත් කිරිමට විදුලි බල මණ්ඩලය පියවර ගෙන ඇත.
+
+එම ඉලෙක්ට්‍රොනික යන්ත්‍රයට විදුලි පාරිභෝගිකයාගේ ගිණුම් අංකය සහ භාවිතා කර ඇති විදුලි ඒකක ගණන මනු කියවන්නා විසින් ඇතුලත් කිරිමෙන් පසු එම මසට අය විය යුතු සම්පුර්ණ මුදල සහ හිග මුදලක්ද ඇතොත් එයද සටහන් වි බිල්පත මුද්‍රණය වන බවයි මනු කියවන්නා කියා සිටියේ.
+
+විදුලි පාරිභෝගිකයාගේ නව ක්‍රමයට බිල්පතක් ලබාදිමේදි මාර්ග ගත ක්‍රමයට බිල්පත් ගෙවා ඇත්නම් එම බිල්පත් ද නව බිල්පතින් අඩු වි එම ගෙවිමද මෙම බිල්පත මගින් විදුලි පාරිභෝගිකයාට දැන ගැනිමට හැකියාව ලැබෙන බවද මනු කියවන්නා පැවසිය.
+
+එසේ විදුලි බල මණ්ඩලය විසින් හදුන්වා දුන් නව ඉලෙක්ට්‍රොනික බිල්පත් යන්ත්‍රය මගින් හැටන් ප්‍රදේශයේ විදුලි පාරිභෝගිකයන්ට නිකුත් කරන අයුරු දක්නට ලැබුණි.
+
+◼️
+
+[Data](articles/fe7d94e0.json)
 
 ---
 
@@ -230,6 +306,8 @@ He said Professor Pethiyagoda is one of the few who had raised an environment is
 
 [Data](articles/f4450143.json)
 
+[Extended Data](ext_articles/f4450143.ext.json)
+
 ---
 
 ### Here is the recommendations of the passing Committee on increased gross weight
@@ -277,6 +355,22 @@ The event will be attended by Ajantha Kumara Akalakada, editor of Daily Lanka, C
 [Data](articles/77b33a2a.json)
 
 [Extended Data](ext_articles/77b33a2a.ext.json)
+
+---
+
+### රැකියා ලබා දෙන බව පවසා උසස් පෙළ ලියූ සිසුන්ගෙන් මුදල් වංචා කරලා
+
+*2024-03-20 11:16:18* · [`adalk`](https://www.ada.lk/breaking_news/රැකියා-ලබා-දෙන-බව-පවසා-උසස්-පෙළ-ලියූ-සිසුන්ගෙන්-මුදල්-වංචා-කරලා/11-408718) · `si`
+
+පෞද්ගලික බැංකුවක රැකියා අවස්ථා ලබා දෙන බව පවසා  මතුගම ප්‍රධාන පාසල් කිහිපයක් උසස් පෙළ විභාගයට පෙනී සිටි සිසුන් රවටමින් අන්තර්ජාලය හරහා ඔවුන්ගෙන් මුදල් ලබාගෙන ඇති බව මතුගම පාසැල් කිහිපයකින් වාර්තාවේ.
+
+මෙම කණ්ඩායම පළමුව පාසලට දුරකථන ඇමතුමක් ලබා දී සිසුන්ට මෙසේ අවස්ථාවක් ලබා දිය හැකි බවත් අනතුරුව සිසුන්ගේ පෞද්ගලික දුරකතනයන්ට අමතා  එම රැකියාවට අවශ්‍යය ලැප්ටොප් පරිඝණකයක්ද  ලබා දෙන බවත් පරිඝණක සපයන වෙළඳ ආයතනයකටද දුරකතනයෙන් අමතා  පාසල් සිසුන් සඳහා ලැප්ටෝප් සැපයීමට අවස්ථාව ලබා දිය හැකි බව පවසා තිබේ.
+
+කිසියම් සිසුවකු සිසුන් පරිඝණක සැපයීම් සිදු කරන ආයතනයෙන් තොරතුරු විමසීමේදී ඔවුන් පවසා ඇත්තේ එවැනි ව්‍යෘපෘතියක් පිළිබඳ බැංකුවකින් තම ආයතනයට කතා කළ බවයි. ඒ් අනුව බොහෝ සිසුන් ඔවුන්ගේ දැනුම් දීම අනුව බැංකු රැකියාවට අවශ්‍යය ලැප්ටෝප් පරිගණක සඳහා රුපියල් පහළොස් දහස බැගින් ඔන්ලයින් හරහා ඔවුන් දන්වා ඇති ගිණුමට බැර කර තිබේ. අනතුරුව අදාල පෞද්ගලික බැංකු ශාඛාවකට යන ලෙස ඔවුන් දන්වා ඇති අතර නමුත් එම බැංකුව එසේ කිසිදු රැකියා අවස්තාවක් ලබා දෙන සිදුවීමක් පිළිබඳ නොදන්නා බව පවසා තිබේ.
+
+...
+
+[Data](articles/f534a51c.json)
 
 ---
 
@@ -2145,93 +2239,5 @@ The British Prime Minister Rishi Sunak is an Indian. The Scottish First Minister
 [Data](articles/766b8dd0.json)
 
 [Extended Data](ext_articles/766b8dd0.ext.json)
-
----
-
-### What Gota did not tell
-
-*2024-03-20 00:47:07* · [`dailyftlk`](https://www.ft.lk/columns/What-Gota-did-not-tell/4-759680) · `en`
-
-Sri Lanka is grappling to balance between the reforms required to extricate the country out of its economic collapse whilst ensuring minimum disruption to households, but the data does not reflect the same. Seven million people are in poverty as per research by LIRNEasia.
-
-According to the Department of Census and Statistics, 53% of children’s education is disrupted with 44% of them struggling to buy their stationary, whilst 108,330 micro and small enterprises have shut down. It is also reported that 544,488 households have not paid their electricity bills resulting in the supply being disconnected, resulting in a challenging situation at grassroot level.
-
-...
-
-[Data](articles/73f4df68.json)
-
-[Extended Data](ext_articles/73f4df68.ext.json)
-
----
-
-### Why are all social issues not becoming political issues in Sri Lanka?
-
-*2024-03-20 00:38:07* · [`dailyftlk`](https://www.ft.lk/columns/Why-are-all-social-issues-not-becoming-political-issues-in-Sri-Lanka/4-759678) · `en`
-
-Solving social issues can be considered as the fundamental responsibility of the Government in a democratic country
-
-It is vital to convert these social issues into political issues to get a reasonable solution for the issues. However, despite this critical nature, all these issues are not always translated into the political agenda of the political parties. You might observe even some crucial issues are not getting the attention of the policymakers in the country
-
-Even though each of us has individual desires to achieve, we all live in a society in which the activities of various actors are interconnected as seen in a spider web. Thus, it is difficult to progress as an individual in society while ignoring these interactions. Social issues are problems or conditions that negatively impact individuals, communities, or society as a whole. These problems can affect different aspects of people’s lives due to various interdependencies existing in society.
-
-...
-
-[Data](articles/c7037040.json)
-
-[Extended Data](ext_articles/c7037040.ext.json)
-
----
-
-### Livestock in the 18th consecutive year
-
-*2024-03-20 00:03:49* · [`adalk`](https://www.ada.lk/picture_story/අඛණ්ඩව-18-වැනි-වරටත්-ජනප්‍රියතම-පුවත්පත-ලංකාදීප/10-408712) · `si`
-
-Lankadeepa newspapers win the Slim Cantar award for the 18th year, highlighting consumer choice in the Slim Cantar People's Awards.
-
-🟩
-
-The Slim Cantar's award for the most popular newspaper was continued to receive Lankadeepa newspapers for the 18th time.
-
-The Slim Cantar People's Awards ceremony was held on the basis of brands and persons based on the consumers' consumers only.
-
-Lankadeepa Award
-
-The heads of the Chief Editor of the Chief Operating Officer of Vijaya Newspapers are also present.
-
-◼️
-
-[Data](articles/71d63370.json)
-
-[Extended Data](ext_articles/71d63370.ext.json)
-
----
-
-### Hasaranga 2 Tests ban on ICC morality
-
-*2024-03-20 00:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179171) · `ta`
-
-Wanindu Hazaranga banned from 2 Tests against Bangladesh for 2nd-level ICC violations, earning 3 eligibility points. He was found guilty of violating ICC's 2.9th recommendation in the 3rd Test. Hazaranga also received a 50% of the competition fee. Sri Lanka's Gusal Mendis fined 50% of the match fee and 3 qualifying points.
-
-🟩
-
-Rotor bowler Wanindu Hazaranga has been banned from playing 2 Tests against Bangladesh.
-
-The ban has been banned after the eligibility points for him rose to 8 over the 24 -month period as Hazaranga was involved in the 2nd -level violations of the ICC.
-
-He was awarded 3 eligibility points for the 2nd -level violations and a 50 percent of the competition fee.
-
-Hazaranga was found guilty of violating the ICC's 2.9th recommendation during the 3rd Test against Bangladesh in Chatochram.
-
-It is noteworthy that during the last international T20 cricket match against Afghanistan in Dambulla last month, 3 qualified schools were issued for the violation of the ICC and the first two R20 matches against Bangladesh.
-
-If a player receives 4 qualified points. Taste matches for Wanindu Hasaranga have been the first to play in the upcoming competitions.
-
-At the end of the 37th over of the match against Bangladesh, the mediator rushed to the Hazaranga match that he had snatched his hat from a mediator.
-
-...
-
-[Data](articles/1a4ac375.json)
-
-[Extended Data](ext_articles/1a4ac375.ext.json)
 
 ---

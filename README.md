@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 08:51:25**
+As of **2024-03-20 09:03:18**
 
 ## Newspaper Stats
 
-*Scraped **13,988** Articles*
+*Scraped **13,990** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 131
-bbccomsinhala | 153
+bbccomsinhala | 154
 dbsjeyarajcom | 190
 newsfirstlk | 363
 dailyftlk | 734
@@ -19,18 +19,36 @@ adalk | 1,206
 adaderanalk | 1,682
 tamilmirrorlk | 1,695
 virakesarilk | 1,957
-dailymirrorlk | 2,138
+dailymirrorlk | 2,139
 adaderanasinhalalk | 2,226
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-13,985 (100.0%) of 13,988 articles have been extended.
+13,988 (100.0%) of 13,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### Train delay on coastal line continues
+
+*2024-03-20 08:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-delay-on-coastal-line-continues/108-279213) · `en`
+
+Colombo, March 20 (Daily Mirror) - Delay of train services on the coastal line continue due to the derailment of a train between Colombo Fort and Kompannaveediya railway stations last evening, the Railways Department said.
+
+They said the express train from Colombo Fort to Kalutara South was derailed between Colombo Fort and Kompannaveediya railway stations and train operaitons on both the tracks of the coastal line were stopped.
+
+As of now, one line has been opened for train traffic, while the other line is still undergoing repairs, the Department said.
+
+Even though the preparations for trains towards Colombo have been completed, trains from Colombo to the south on the coastal line were halted yesterday and there are no trains to return have not run. Due to this, they said.
+
+◼️
+
+[Data](articles/e19dde14.json)
+
+---
 
 ### Sri Lanka inks agreement with Microsoft to introduce AI to school curriculum
 
@@ -46,35 +64,49 @@ The pilot project is slated to be rolled out at 20 selected schools across 20 di
 
 [Data](articles/633b201d.json)
 
+[Extended Data](ext_articles/633b201d.ext.json)
+
 ---
 
-### AI ඉගැන්වීමේ නියමු ව්‍යාපෘතියේ අවබෝධතා ගිවිසුමට අත්සන් තබයි
+### MOU's MOU's MOU's TAFE Pilot Project Signs
 
 *2024-03-20 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194713) · `si`
 
-අටවන ශ්‍රේණියෙන් ඉහළ සිසුන් සඳහා තොරතුරු තාක්ෂණ විෂය සමඟ කෘත්‍රිම බුද්ධිය හැදෑරීමට අවස්ථාව ලබා දෙමින් එහි නියමු ව්‍යාපෘතිය ක්‍රියාත්මක කිරීමට අදාළ අවබෝධතා ගිවිසුමකට අත්සන් තබා තිබේ.
+A Memorandum of Understanding (MoU) has been signed for a pilot project involving artificial intelligence implementation at TAFE.
+
+🟩
+
+A Memorandum of Understanding (MoU) has signed an agreement with the implementation of artificial intellect.
 
 ◼️
 
 [Data](articles/5d83ffe0.json)
 
+[Extended Data](ext_articles/5d83ffe0.ext.json)
+
 ---
 
-### ඩයනාගෙන් අලුත් වැඩක්
+### New work from Dian
 
 *2024-03-20 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194712) · `si`
 
-සංචාරකයින් ලක්ෂ 25ක් මෙම වසර තුළ දිවයිනට ගෙන්වා ගැනීමේ ඉලක්කය සපුරා ගැනීම සඳහා ක්‍රියාමාර්ග රැසක් ගෙන ඇති බව ඩයනා ගමගේ රාජ්‍ය අමාත්‍යවරිය පවසන්නීය.
+Diana Gamage's State Minister announced that 25,000 tourists have taken steps to attract more visitors to the island this year, with over 500,000 tourists arriving in the past year. Plans to enhance tourist facilities are underway.
 
-ඇය සඳහන් කළේ, වසරේ ගතවූ කාල සීමාව තුළ ලක්ෂ 05 කට අධික සංචාරකයින් පිරිසක් දිවයිනට පැමිණ ඇති බවය.
+🟩
 
-සංචාරකයින් සඳහා ලබා දෙන පහසුකම් වැඩි කිරීමට ඉදිරියේදී සැලසුම් කර ඇති බවද රාජ්‍ය අමාත්‍ය ඩයනා ගමගේ මහත්මිය සඳහන් කළාය.
+Diana Gamage's State Minister has said that 25,000 tourists have taken measures to achieve the goal of importing the island this year.
 
-"අපේ ටාගට් එකක් තියෙනවා 2024 අවුරුද්ද තුළ සංචාරකයින් ලක්ෂ 25ක් අඩුම තරමින් රටට ගෙන්වා ගැනීමට. ඉතින් අපි හිතනවා මේ දැන් යන තත්ත්වය එක්ක අපිට ඒ ටාගට් එකට යන්න පුළුවන් කියලා. මොකද දැන් වෙද්දිත් සංචාරකයින් විශාල පිරිසක් ලංකාවට ඇවිත් තියෙනවා. මේ මාස තුන ඇතුළත ලක්ෂ 5 ඉක්මවා ගිහින් තියෙනවා. ඉතින් අපි බලාපොරොත්තු වෙනවා ඉතිරි ටාගට් එකට දෙසැම්බර් වෙද්දි යන්න පුළුවන් වෙයි. සංචාරක ව්‍යාපාරය තුළ පුංචි පුංචි ප්‍රශ්න තියෙනවා. අපි දැක්කා දකුණේ ප්‍රශ්න ටිකක් ඇවිත් තිබුණා. ඒවට අපි විසඳුම් හොයනවා නිරාකරණය කරගෙන යන්න."
+She said that over 500,000 tourists had arrived in the island during the past year.
+
+According to the public minister Diana Gamage stated that plans have been made to increase the facilities provided to tourists.
+
+"Our telegram has 8 million tourists to get at least 2500,000 tourists to the country. So we think we can go to the tab with the situation now. Because now a large number of tourists have come to Sri Lanka. These three months have exceeded Rs. So we hope the rest of the targart will go on December. Tourism has little questions. We saw a few questions in the south. We are trying to solve it. "
 
 ◼️
 
 [Data](articles/c463a199.json)
+
+[Extended Data](ext_articles/c463a199.ext.json)
 
 ---
 
@@ -485,6 +517,28 @@ Yall. Federation of District Rural Fisheries Organizations. The Federation of Di
 [Data](articles/af2d31e5.json)
 
 [Extended Data](ext_articles/af2d31e5.ext.json)
+
+---
+
+### 'නංගිගෙයි මගෙයි බිස්නස් එක තමයි V & S බේකර්ස්'
+
+*2024-03-20 02:33:08* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clwe10pxvgzo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, කොරෝනා වසංගතය පැවති සමයේ ඔන්ලයින් අධ්‍යාපනය සඳහා ජංගම දුරකතන භාවිතයත් සමග ආහාර සකස් කරන වීඩියෝ නැරඹීමෙන් මේ ගැන උනන්දුවක් ඇති වූ බව ඇය පවසන්නීය.
+
+අධ්‍යාපන කටයුතු කරන අතරේ කේක් ඇතුළු බේකරි නිෂ්පාදන සිදු කරන සහෝදරියන් දෙදෙනෙකු ගැන කෑගල්ල, රංවල ප්‍රදේශයන් අසන්නට ලැබිණි.
+
+අවුරුදු 12ක් සහ 13ක් වයසැති එම දියණියන් දෙදෙනා 'V & S බේකර්ස්' නමින් තම නිෂ්පාදන අලෙවි කරති.
+
+'නංගිගෙයි මගෙයි බිස්නස් එක තමයි V & S බේකර්ස්'. අම්මලාට සල්ලි නැති වෙලාවට ඉගන ගන්නේ අපි කේක් හදන සල්ලි වලින්'' යනුවෙන් පෙමින්දි සේනාරත්න BBC සිංහල සේවයට පැවසුවාය.
+
+කොරෝනා වසංගතය පැවති සමයේ ඔන්ලයින් අධ්‍යාපනය සඳහා ජංගම දුරකතන භාවිතයත් සමග ආහාර සකස් කරන වීඩියෝ නැරඹීමෙන් මේ ගැන උනන්දුවක් ඇති වූ බව ඇය පවසන්නීය.
+
+ඒ සඳහා පාසලේ ගුරුවරුන්ගේ ද සහය සහ මග පෙන්වීම ලැබෙන අතර දරුවන් හොඳින් අධ්‍යාපන කටයතු සිදු කරන බව ද මව්පියෝ පවසති.
+
+◼️
+
+[Data](articles/6e9aa24e.json)
 
 ---
 
@@ -2167,49 +2221,5 @@ Pressed by the interviewer, Bandara said: “If he hasn’t said anything, why w
 [Data](articles/334dbbb5.json)
 
 [Extended Data](ext_articles/334dbbb5.ext.json)
-
----
-
-### China protests against Sri Lanka allowing German research ship amid 1-year ban: sources
-
-*2024-03-19 17:25:00* · [`economynextcom`](https://economynext.com/china-protests-against-sri-lanka-allowing-german-research-ship-amid-1-year-ban-sources-155237/) · `en`
-
-ECONOMYNEXT – Chinese Embassy in Colombo has raised strong protest against a move by Sri Lanka to allow a German research vessel for a port call, diplomatic and government sources said, amid a one year ban on foreign research vessels.
-
-The protest comes after Sri Lankan authorities turned down a Beijing request for a research vessel in February. It was not immediately clear how the German research ship got the approval under the ban.
-
-President Ranil Wickremesinghe’s government has temporarily halted foreign research ships after strong security concerns raised by neighbour India and the United States after the visit of two Chinese research vessels last year.
-
-The government’s one-year ban came into effect ahead of upcoming presidential polls in the second half of 2024.
-
-...
-
-[Data](articles/476f4423.json)
-
-[Extended Data](ext_articles/476f4423.ext.json)
-
----
-
-### SriLankan is back on a technical fault
-
-*2024-03-19 17:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194695) · `si`
-
-SriLankan Airlines experienced a technical fault in Bangalore, India, causing a 40-minute flight to land at Katunayake airport. Passengers were advised to proceed to their destinations.
-
-🟩
-
-A SriLankan Airlines airlines has taken steps to be ruled by a technical fault.
-
-The industrial fault has been subjected to Indian Bangalore in India this morning.
-
-A plane flying for nearly 40 minutes of flight has been landed before the Katunayake airport again.
-
-After passengers who followed the passengers, the steps had been taken to depart to the destination
-
-◼️
-
-[Data](articles/180bc39b.json)
-
-[Extended Data](ext_articles/180bc39b.ext.json)
 
 ---

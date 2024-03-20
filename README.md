@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 13:03:50**
+As of **2024-03-20 13:17:57**
 
 ## Newspaper Stats
 
-*Scraped **14,054** Articles*
+*Scraped **14,060** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ dailyftlk | 734
 economynextcom | 745
 islandlk | 770
 adalk | 1,214
-adaderanalk | 1,689
+adaderanalk | 1,690
 tamilmirrorlk | 1,703
-virakesarilk | 1,972
+virakesarilk | 1,976
 dailymirrorlk | 2,151
-adaderanasinhalalk | 2,238
+adaderanasinhalalk | 2,239
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,052 (100.0%) of 14,054 articles have been extended.
+14,054 (100.0%) of 14,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### கடுமையான பாதுகாப்பு சட்டத்தை நிறைவேற்றியது ஹொங்கொங்  - அதிருப்தியாளர்களை ஒடுக்குவதற்கு பயன்படுத்தப்படலாம் என அச்சம்
+
+*2024-03-20 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179220) · `ta`
+
+ஹொங்கொங் நாடாளுமன்றம் மாறுபட்ட கருத்துக்கொண்டுள்ளவர்களை ஒடுக்குவதற்கு உதவக்கூடிய கடுமையான பாதுகாப்பு சட்டத்தை நிறைவேற்றியுள்ளது.
+
+ஹொங்கொங் நாடாளுமன்றம் புதிதாக நிறைவேற்றியுள்ள தேசிய பாதுகாப்பு சட்டத்தின் கீழ் கிளர்ச்சி மற்றும் நாசவேலைகளில் ஈடுபடுபவர்களிற்கு ஆயுள் தண்டணையை விதிக்கலாம்
+
+புதிய சட்டத்தின் கீழ் தேசத்துரோக குற்றச்சாட்டுகளின் அடிப்படையில் இரண்டு முதல் ஏழு வரை ஒருவருக்கு சிறைத்தண்டனையை விதிக்க முடியும்.
+
+வெளிநாட்டு சக்திகளுடன் இணைந்து செயற்பட்டார் என்ற குற்றச்சாட்டு நிரூபிக்கப்பட்டால் ஒருவருக்கு பத்து ஆண்டுகள் சிறைத்தண்டனையை விதிக்கலாம்.
+
+புதிய சட்டத்தின் கீழ் ஒருவரை 48 மணித்தியாலங்கள் முதல் இரண்டு வாரங்கள் வரை தடுத்துவைத்திருக்கலாம்.
+
+சீன சார்பு நாடாளுமன்ற உறுப்பினர்களை அதிகளவில் கொண்டுள்ள நாடாளுமன்றத்தில் பெரும்பாலானவர்கள் ஒடுக்குமுறை சட்டம் என வர்ணிக்கப்படும் இந்த சட்டத்திற்கு ஆதரவளித்துள்ளனர்.
+
+ஹொங்கொங் நிறைவேற்றியுள்ள இந்த சட்டம் நகரின் உரிமைகள் மற்றும் சுதந்திரத்திற்கு கடும் பாதிப்பை ஏற்படுத்தும் புதிய ஏதேச்சதிகார யுகத்தை உருவாக்கும் என விமர்சனங்கள் வெளியாகியுள்ளன.
+
+...
+
+[Data](articles/e8006d87.json)
+
+---
+
+### කෝප් කමිටුව ගැන අනුර ගත් තීරණය
+
+*2024-03-20 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194727) · `si`
+
+ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා ද පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටු සාමාජිකත්වයෙන් ඉල්ලා අස්වී තිබේ.
+
+ඒ අනුව මේ වනවිට කෝප් කමිටු සාමාජිකයින් 30 දෙනා අතරින් 10 දෙනෙකු ඉල්ලා අස්වී ඇත.
+
+◼️
+
+[Data](articles/e991e501.json)
+
+---
+
+### இந்த வருடத்தில் கட்டுநாயக்க விமான நிலையத்தின் ஊடாக சேவையைப் பெற்ற பயணிகளின் எண்ணிக்கை அதிகரிப்பு -  விமான நிலையம் மற்றும் விமானப் போக்குவரத்து சேவைகள்  தனியார் நிறுவனத் தலைவர்
+
+*2024-03-20 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179216) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தலைமையிலான பொருளாதார வேலைத்திட்டம் மற்றும் நாட்டில் உருவாக்கப்பட்ட அமைதியான சூழல் காரணமாக வெளிநாட்டு சுற்றுலா பயணிகளின் வருகை அதிகரித்துள்ளதாகவும், அதற்கமைய விமானப் பயணிகளால் அதிகமாக பயன்படுத்தப்படும் இடமாக கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையம் மாறியுள்ளதாகவும் விமான நிலையம் மற்றும் விமானப் போக்குவரத்து சேவைகள்  தனியார் நிறுவனத் தலைவர் அதுல கல்கெட்டிய தெரிவித்தார்.
+
+அதன்படி 2024 ஜனவரி 1 முதல் மார்ச் 19 வரையில் 850,000 விமானப் பயணிகள் விமான நிலைய சேவைகளைப் பெற்றுக்கொண்டுள்ளதோடு, இந்த வருட இறுதிக்குள் சுமார் 10 மில்லியன் பயணிகள் விமான நிலையத்தை பயன்படுத்துவார்கள் என எதிர்பார்ப்பதாகவும் அவர் குறிப்பிட்டார்.
+
+2022ஆம் ஆண்டு கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தைப் பயன்படுத்திய மொத்த  விமானப் பயணிகளின் எண்ணிக்கை 05 மில்லியனாக இருந்ததாகவும், 2023ஆம் ஆண்டில் அந்த எண்ணிக்கையை 08 மில்லியனாக அதிகரிக்க முடிந்ததாகவும் கல்கட்டிய சுட்டிக்காட்டினார்.
+
+◼️
+
+[Data](articles/0584e631.json)
+
+---
 
 ### Duminda Dissanayake becomes 9th member to quit COPE
 
@@ -42,33 +96,67 @@ MP Duminda Dissanayake too has stepped down as a member of the Committee on Publ
 
 [Data](articles/59c3c15a.json)
 
+[Extended Data](ext_articles/59c3c15a.ext.json)
+
 ---
 
-### කැනඩාවේ තවත් අමානුෂික ඝාතනයක්
+### Anura Kumara and Duminda Dissanayake also quit COPE
 
-*2024-03-20 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194726) · `si`
+*2024-03-20 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98075/anura-kumara-and-duminda-dissanayake-also-quit-cope) · `en`
 
-කැනඩාවේ සිදුවූ තවත් අමානුෂික ඝාතනයක් පිළිබඳව පුවතක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Leader of National People’s Power (NPP) Anura Kumara Dissanayake and MP Duminda Dissanayake too have stepped down from the Committee on Public Enterprises (COPE).
 
-මෙලෙස ඝාතනයට ලක්ව ඇත්තේ ඉන්දීය සම්බවයක් සහිත 41 හැවිරිදි වියේ පසුවන Balwinder Kaur නමැති කාන්තාවකි.
+Thus, the two Dissanayakes joined a parade of MPs to quit the COPE over the appointment of SLPP MP Rohitha Abeygunawardena as its chairman.
 
-ඝාතනය සම්බන්ධයෙන් 50 හැවිරිදි වියේ පසුවන ඇයගේ සැමියා වන Jagpreet Singh එරට ආරක්ෂක අංශ විසින් මේ වනවිට අත්අඩංගුවට ගෙන ඇත.
+Communicating his resignation to Speaker of Parliament Mahinda Yapa Abeywardena in writing, Duminda Dissanayake said he decided to quit the committee membership as the COPE no longer has the transparency expected by the members of the public.
 
-පිහි ඇනුම් හේතුවෙන් තුවාල ලැබූ කාන්තාව කඩිනමින් රෝහල්ගතකිරීමට පියවර ගෙන තිබුණ ද එහිදී ඇය මියගොස් ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කරයි.
+Shortly after the parliamentary session commenced this morning (March 20), the Deputy Speaker announced the appointment of Bandara as a COPE member.
 
-මේ අතර විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර ඇත්තේ එම ඝාතනය සිදුකිරීමෙන් අනතුරුව සැකකාර සැමියා සිය මවට වීඩියෝ ඇමතුමක් ලබාගනිමින් මෙම ඝාතනය සම්බන්ධයෙන් දැනුම් දී ඇති බවය.
-
-එහිදී "මම එයාව සදහටම නිදි කළා" යනුවෙන් ඔහු පවසා ඇති බව විදෙස් මාධ්‍ය වැඩිදුරටත් වාර්තා කර තිබේ.
-
-කැනඩාවේ Abbotsford හිදී මෙම ඝාතනය සිදුව ඇති බව එම වාර්තා සඳහන් කරයි.
-
-එසේම ඝාතනය සම්බන්ධයෙන් අත්අඩංගුවට ගෙන සිටින සැකකාර සැමියා මීට සතියකට පමණ පෙර එහි පැමිණ ඇති බවද වාර්තා වෙයි.
-
-ඔවුන් අතර අවස්ථා කිහිපයකදී මුදල් ආරවුල් ඇතිවූ බවද ඇතැම් විදෙස් මාධ්‍ය වාර්තා සඳහන් කරයි.
+However, the MP announced his resignation with immediate effect, asserting that he would communicate his decision in writing as well.
 
 ...
 
+[Data](articles/e14137db.json)
+
+---
+
+### Another ingenuous murder in Canada
+
+*2024-03-20 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194726) · `si`
+
+In Canada, a 41-year-old woman, Balwinder Kaur, was murdered by her 50-year-old husband, Jagpreeet Sing, who was arrested. The victim was hospitalized after being stabbed but later died. The suspect reportedly called his mother about the murder via video call, saying, "I've been sleeping him forever." The incident occurred in Abbotsford, and Jagpreeet's brother, also arrested, claimed they had a happy family life.
+
+🟩
+
+Foreign media reports that another ingest murder in Canada.
+
+The victim is a 41-year-old woman, a 41-year-old Balwinder Kaur.
+
+The 50-year-old husband, Jagpreeet Sing, has been arrested by the Jagpreeet Singh.
+
+The woman who was injured in knives had been hospitalized, but she had died.
+
+Meanwhile, foreign media reports that the suspect had informed his mother in connection with the murder with a video call after the murder.
+
+"I've been sleeping him forever," he added.
+
+The murder was held at Abbotsford, Canada.
+
+The suspect's husband has also been arrested in connection with the murder.
+
+In several foreign media reports, cash disputes have caused several occasions among them.
+
+However, the brother of the Jagpreeet Singh's brother who was arrested on suspicion of murder was said that they had a happy family life.
+
+After the assassination, the brother was also called and the brother had said that he was injured in his hand.
+
+The country has already investigated further investigations.
+
+◼️
+
 [Data](articles/3d0969f3.json)
+
+[Extended Data](ext_articles/3d0969f3.ext.json)
 
 ---
 
@@ -100,6 +188,24 @@ However, with the participation of other members, however discussed the activiti
 
 ---
 
+### சுவீடன் பாராளுமன்றத்தை தாக்குவதற்கு சதி: ஜேர்மனியில் இருவர் கைது
+
+*2024-03-20 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179215) · `ta`
+
+சுவீடன் பாராளுமன்றத்தின் மீது தாக்குதல் நடத்துவதற்குத் திட்டமிட்ட குற்றச்சாட்டில் ஐ.எஸ். இயக்க்தின் அங்கத்தவர்கள் என சந்தேகிக்கப்படும் இருவர் ஜேர்மன் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+ஆப்கானிஸ்தானியர்களான இருவரே நேற்று கைது செய்யப்பட்டுள்ளனர் என பொலிஸார் தெரிவித்துள்ளனர். இவர்கள் இப்ராஹிம் எம்.ஜி. ரமின் என். என அடையாளம் காணப்பட்டுள்ளனர்.
+
+ஸ்டொக்ஹோம் நகரிலுள்ள சுவீடன் பாராளுமன்றத்தின் மீது துப்பாக்கிச் சூடு நடத்தி பொலிஸாரையும் ஏனையோரையும் கொல்வதற்கு இவர்கள் திட்டமிட்டனர் என குற்றம் சுமத்தப்பட்டுள்ளது.
+
+புனித குர் ஆன் நூல் எரிக்கப்பட்டமைக்கு பதிலடியாக இத்தாக்குதலை இவர்கள் தி நடத்த இவர்கள் திட்டமிட்டனர் என அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/bc8311a6.json)
+
+---
+
 ### Three criminal gang members arrested in special STF raids
 
 *2024-03-20 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98074/three-criminal-gang-members-arrested-in-special-stf-raids) · `en`
@@ -117,6 +223,24 @@ Finally, a close associate of the gangster “Pookudi Kanna”, identified as Mu
 [Data](articles/b4e64645.json)
 
 [Extended Data](ext_articles/b4e64645.ext.json)
+
+---
+
+### இந்திய தூதரகம் சென்றவர்களால் பரபரப்பு - பொலிஸார் குவிப்பு தூதரகத்தின் பாதுகாப்பு அதிகரிப்பு
+
+*2024-03-20 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179212) · `ta`
+
+உணவு தவிர்ப்பு போராட்டத்தில் ஈடுபடும் மீனவர்களுக்கு ஆதரவாக போராட வந்தவர்கள் யாழ்ப்பாண இந்திய துணைத் தூதரம் முன் சென்றதால் சிறுது நேரம் பரபரப்பு ஏற்பட்டது.
+
+யாழ்ப்பாண மாவட்ட கிராமிய கடற்தொழில் அமைப்புக்களின் சம்மேளனமும், யாழ்ப்பாண மாவட்ட கடற் தொழில் கூட்டுறவு சங்கங்களின் சம்மேளனமும் இணைந்து நேற்றையதினம் செவ்வாய்க்கிழமை காலை முதல் யாழ்ப்பாணம் புனித ஜோன் பொஸ்கோ வித்தியாலயத்திற்கு முன்பாக உணவு தவிர்ப்பு போராட்டத்தை ஆரம்பித்தனர்.
+
+இந்நிலையில் உணவு தவிர்ப்பு போராட்டம் இடம்பெற்ற இடத்திற்கு ஆதரவு தெரிவிப்பதற்காக வருகைதந்த மாதகல் மீனவர்கள் போராட்டத்தில் ஈடுபட்ட மீனவர்களுடன் இணைந்து பேரணியாக யாழ்ப்பாண இந்திய துணைத் தூதரகத்தின் முன்பாக சென்று கவனயீர்ப்பு போராட்டத்தை முன்னெடுத்தனர்.
+
+இதன் காரணமாக  மேலதிக பொலிஸார் வரவழைக்கப்பட்டு பாதுகாப்பு பலப்படுத்தப்பட்ட நிலையில் போராட்டக்காரர்கள் அவ் இடத்தை விட்டு அகன்று சென்ற நிலையில் மீனவர்கள் உணவு தவிர்ப்பு போராட்டம் இடம்பெற்ற இடத்திற்கு வருகை தந்து தமது எதிர்ப்பினை வெளியிட்டனர்.
+
+◼️
+
+[Data](articles/fa2de4d0.json)
 
 ---
 
@@ -144,7 +268,7 @@ The total number of passengers using the BIA in 2022 was 5 million, with a proje
 
 ### Pharmacists' Workplace at Vavuniya District General Hospital
 
-*2024-03-20 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179210) · `ta`
+*2024-03-20 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/179210) · `ta`
 
 Pharmacists at Vavuniya District General Hospital demanded better promotion and appointment processes, affecting patient care due to workforce issues.
 
@@ -2131,135 +2255,5 @@ The event was organized to celebrate the plastic rehabilitation collection netwo
 [Data](articles/75f525d9.json)
 
 [Extended Data](ext_articles/75f525d9.ext.json)
-
----
-
-### Commercial Bank on a significant growth path in the fourth quarter of 2023
-
-*2024-03-20 02:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/179173) · `ta`
-
-In Q4 2023, Commercial Bank loaned 56.816 billion, with total credit book at 1.296 trillions. Deposits grew to 109.408 billion, with a yearly growth rate of 8.6%. Total assets increased by 156 billion to 2.656 trillions, and total income rose to 341.566 billion. The bank's profitability tax for financial services was 38.885 billion, with a quarterly profit of 10.193 billion. The bank's Tier 1 and total capital rates were 11.442% and 15.151% respectively, meeting the required rates. Commercial Bank is Sri Lanka's largest private sector bank, offering significant loans to SMEs and leading in digital innovations.
-
-🟩
-
-The Commercial Bank Group has loaned 56.816 billion in the fourth quarter of 2023 at an average of 18.939 billion per month.. By the end of the year, the bank's credit book was recorded as 1.296 trillions. This has led to a stable situation in the lending course to help economic normalization.
-
-In the three -month period ended on December 31, 2023, the deposit increased to 109.408 billion. Its monthly average is 36.469 billion. This is to reveal the bank's firm deposit base and focus on the turbulent micro economic conditions.. Deposit growth is 2.148 trillions in the course of review, growing at 8.6 per year per year.
-
-The group includes Sri Lanka's largest trade bank and its co -and -branch companies. According to a report filed by Sri Lanka's shareholder, the group's total assets increased by 156 billion or 6.24 per year per year to 130 billion or 5.15 percent or 5.15 per cent to 2.656 trillions.
-
-...
-
-[Data](articles/3f4f7d46.json)
-
-[Extended Data](ext_articles/3f4f7d46.ext.json)
-
----
-
-### Diaspora Sri Lankan origin players in the Sri Lankan football team
-
-*2024-03-20 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179172) · `ta`
-
-The FIFA Series Football Tournament, featuring Sri Lanka, Bhutan, Papua New Guinea, and Central African Republic, will be held on the 22nd and 25th. Sri Lanka's team, expected to be 90% Diaspora Sri Lankan origin, includes players like Wasim Razik and Dilon de Silva. The team will face Papua New Guinea and Bhutan, aiming for ranking advancement.
-
-🟩
-
-The FIFA Series Football Tournament, which has been launched for the first time in the FIFA of the International Football Association (FIFA), will be held on the 22nd and 25th of this month.
-
-The Sri Lanka Football Federation is participating in the Four countries - Bhutan, Papua New Guinea, Central African Republic and Sri Lanka.
-
-The Sri Lanka Football Federation has not yet released the Sri Lankan team for the tournament.
-
-However, this time, the Sri Lankan team is expected to land as a 90 % of the Diaspora Sri Lankan origin.
-
-Wasim Razik, Dilon de Silva and Adhavan Rajmohan, who have already played for Sri Lanka while living abroad, will play in the Biba Series Football Tournament.
-
-The Sri Lankan Football Federation has completed all arrangements to join the Sri Lankan team to the Sri Lankan team born to Sri Lankan parents who are born abroad and play for football clubs in their respective countries.
-
-...
-
-[Data](articles/dfa613df.json)
-
-[Extended Data](ext_articles/dfa613df.ext.json)
-
----
-
-### Cabinet nod for electoral reforms ahead of elections
-
-*2024-03-20 01:52:26* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-nod-for-electoral-reforms-ahead-of-elections/56-759704) · `en`
-
-The Cabinet of Ministers on Monday approved a proposal to reform the electoral system that will see a hybrid system for parliamentary representation where 160 members would be appointed by first past-the-post system while 65 members would be elected under the proportional representation system.
-
-At its meeting on Monday, the Cabinet decided to instruct the Legal Draftsman to propose amendments necessary to revise the Regulation of Election Expenditure Act No. 3 of 2023 which will include recommendations.
-
-The proposed amendments will consider proposals made by a committee chaired by Prime Minister Dinesh Gunawardena, which was appointed to address electoral system reforms.
-
-...
-
-[Data](articles/caccf095.json)
-
-[Extended Data](ext_articles/caccf095.ext.json)
-
----
-
-### India pledges $ 61.5m grant to develop KKS Port
-
-*2024-03-20 01:47:58* · [`dailyftlk`](https://www.ft.lk/news/India-pledges-61-5m-grant-to-develop-KKS-Port/56-759703) · `en`
-
-Indian High Commissioner Santosh Jha and Ports, Shipping and Aviation Minister Nimal Siripala de Silva during their meeting yesterday
-
-The Government of India has pledged $ 61.5 million grant to fully develop the Port of Kankesanthurai Port (KKS) in Jaffna.
-
-The message was conveyed during a meeting between Indian High Commissioner Santosh Jha and Ports, Shipping and Aviation Minister NimalSiripala de Silva, a communiqué from the Ministry noted.
-
-“As part of the project, a new breakwater will be constructed, and the port will be dredged up to a depth of 30 meters to accommodate deep-draft vessels,” it read.
-
-During the discussion, the Indian High Commissioner has expressed India›s commitment to enhancing regional cooperation and connectivity between the two countries. He has also pledged their fullest support to attract more Indian tourists to Sri Lanka.
-
-...
-
-[Data](articles/712b88df.json)
-
-[Extended Data](ext_articles/712b88df.ext.json)
-
----
-
-### Gammanpila calls for transparency over Indo-Lanka ETCA
-
-*2024-03-20 01:46:27* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-calls-for-transparency-over-Indo-Lanka-ETCA/56-759702) · `en`
-
-Pivithuru Hela Urumaya (PHU) leader and MP Udaya Gammanpila alleged that the signing of the Economic and Technical Cooperation Agreement (ETCA) between Sri Lanka and India has been suspended untill the conclusion of the Parliamentary elections later this year.
-
-Gammanpila cited “reliable Government sources” for his revelation during a media briefing.
-
-He disclosed that the Indian Election Commission has announced the conclusion of the elections on 4 June, providing a three-month window before the signing of ETCA.
-
-However, Gammanpila stressed the necessity for the Government to address four prerequisites before considering the agreement.
-
-He asserted the importance of formulating a foreign trade agreement policy, highlighting the absence of criteria to assess the agreement’s impact on the country. He said the risk of negotiating trade agreements without predefined criteria, could result in unfavourable terms for Sri Lanka.
-
-...
-
-[Data](articles/22f51281.json)
-
-[Extended Data](ext_articles/22f51281.ext.json)
-
----
-
-### Dialog Enterprise and Bahrain-based CTM360 partner to launch Digital Risk Protection platform
-
-*2024-03-20 01:44:17* · [`dailyftlk`](https://www.ft.lk/business/Dialog-Enterprise-and-Bahrain-based-CTM360-partner-to-launch-Digital-Risk-Protection-platform/34-759701) · `en`
-
-Dialog Enterprise Group Chief Officer Navin Pieris (right) exchanges the partnership agreement with CTM360 Founder and CEO Mirza Asrar Baig. Others from left Dialog Axiata Plc Head of ICT Business Venura Mendis, CTM360 Ambassador Rohan Speldewinde, Dialog Enterprise Product Head Security Ramesh Indika and Assistant Product Manager Sachitha Wimalasiri
-
-Dialog Enterprise, the corporate ICT solutions arm of Dialog Axiata PLC., in partnership with Bahrain-based award-winning cybersecurity solutions partner, CTM360 has launched a Digital Risk Protection (DRP) platform empowering organisations and enterprises to navigate the digital landscape confidently amidst ever-evolving cybersecurity threats.
-
-A holistic solution stack to address the current cybersecurity challenges faced by organizations, CTM360’s fully integrated security platform operates in real-time, outside the firewall of an organisation, and does not require any configuration or installation.
-
-...
-
-[Data](articles/efa81333.json)
-
-[Extended Data](ext_articles/efa81333.ext.json)
 
 ---

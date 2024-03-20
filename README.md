@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 00:33:41**
+As of **2024-03-21 00:48:42**
 
 ## Newspaper Stats
 
-*Scraped **14,178** Articles*
+*Scraped **14,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 734
 economynextcom | 760
 islandlk | 770
 adalk | 1,226
-adaderanalk | 1,703
+adaderanalk | 1,704
 tamilmirrorlk | 1,714
 virakesarilk | 1,987
 dailymirrorlk | 2,179
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,177 (100.0%) of 14,178 articles have been extended.
+14,178 (100.0%) of 14,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### Underworld gunman and STF member injured in shootout at Ganemulla
+
+*2024-03-21 00:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98090/underworld-gunman-and-stf-member-injured-in-shootout-at-ganemulla) · `en`
+
+A suspect has opened fire at Police Special Task Force (STF) personnel while they were engaged in searching a house in the Ganemulla area.
+
+One of the STF personnel was injured in the incident while the suspect was also injured when police had returned fire.
+
+The gunman is suspected to be involved in previous underworld gang related shootings, police said.
+
+◼️
+
+[Data](articles/92963cbb.json)
+
+---
 
 ### May be ‘Akon’ can teach politicians  lessons on being irresponsible
 
@@ -88,17 +104,23 @@ Today, the United Nations (UN) marks the International Day of Forests. In a stat
 
 ### 2024-03-20 (Wednesday)
 
-### ගණේමුල්ලේ වෙඩි හුවමාරුවක්
+### Excision of Ganemulla Exchange
 
 *2024-03-20 23:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194753) · `si`
 
-ගණේමුල්ල ප්‍රදේශයේ නිවසක් පරීක්ෂා කිරීමේදී පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන්ට සැකකරුවෙකු වෙඩි තබා තිබේ.  එහිදී පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරියෙකු සහ තුවක්කුකරු ද තුවාල ලබා ඇත.
+Police STF officials were shot dead in Ganemulla, with an STF officer and the gunman injured. Suspected underworld gangs involved.
 
-මීට පෙර පාතාල කල්ලි වෙඩි තැබීම්වලට සම්බන්ධ බවට සැක කෙරෙන තුවක්කුකරුවෙකු අත්අඩංගුවට ගැනීමට යෑමේදී මෙම වෙඩිතැබීම සිදුවී තිබේ.
+🟩
+
+Police STF officials shot dead at a house in Ganemulla. A STF officer and the gunman were also injured there.
+
+The shooting has taken place when the underworld gangs are suspected to be involved in the shooting.
 
 ◼️
 
 [Data](articles/94b84c2a.json)
+
+[Extended Data](ext_articles/94b84c2a.ext.json)
 
 ---
 
@@ -2261,35 +2283,5 @@ Rohitha Abeygunawardena was elected to the post of Chairman during the election.
 [Data](articles/889a645d.json)
 
 [Extended Data](ext_articles/889a645d.ext.json)
-
----
-
-### Basil's leader of MP Group Meeting in Pohoth
-
-*2024-03-20 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194728) · `si`
-
-Basil Rajapaksa leads MP Group Meeting in Pohoth, discussing presidential candidate selection and no-confidence motion against Speaker Mahinda Yapa Abeywardena.
-
-🟩
-
-The Sri Lanka General Mannar Parliamentary group meeting will be held today (20).
-
-The group will be held under the patronage of the National Organizer Basil Rajapaksa at Nelum Mawatha, Battaramulla.
-
-The Presidential Election and the General Election have emerged and the National Organizer of the Sri Lanka General Election, the National Organizer of the Sri Lanka General Association has stated that the President is the best election.
-
-Accordingly, the meeting has been called to consult the opinion of the members of the Sri Lanka Civil Appointment and the next presidential candidate.
-
-The current presidential election should be submitted as the candidate as candidate and the party's support should be supported by the party.
-
-Another group has stated that a candidate should be submitted for the next presidential election.
-
-Internal sources of the Sri Lanka General Sources say that the final agreement is scheduled to appear in this regard today.
-
-...
-
-[Data](articles/e8efa5a3.json)
-
-[Extended Data](ext_articles/e8efa5a3.ext.json)
 
 ---

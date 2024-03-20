@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 21:19:18**
+As of **2024-03-20 21:34:24**
 
 ## Newspaper Stats
 
-*Scraped **14,159** Articles*
+*Scraped **14,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,78 @@ newsfirstlk | 363
 dailyftlk | 734
 economynextcom | 758
 islandlk | 770
-adalk | 1,223
-adaderanalk | 1,701
+adalk | 1,224
+adaderanalk | 1,702
 tamilmirrorlk | 1,714
 virakesarilk | 1,987
 dailymirrorlk | 2,171
-adaderanasinhalalk | 2,259
+adaderanasinhalalk | 2,261
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,158 (100.0%) of 14,159 articles have been extended.
+14,159 (100.0%) of 14,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### කාන්තා පොලිස් නිලධාරිනිය බූම් ට්‍රක් රථයකට යටවෙයි
+
+*2024-03-20 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194751) · `si`
+
+කාන්තා පොලිස් නිලධාරිනියක් අද (20) සවස බූම් ට්‍රක් රථයකට යටවීමෙන් මියගොස් ඇති බව මතුගම පොලීසිය පවසයි.
+
+මෙසේ මියගොස් ඇත්තේ කළුතර පොලිස් අධිකාරී කාර්යාලයට අනුයුක්තව රාජකාරී කරනු ලැබූ දොඩංගොඩ පුහාඹුගොඩ  ප්‍රදේශයේ පදිංචිව සිටි සැරයන් දමයන්ති වීරසූරිය නමැති පොලිස් කාන්තා නිලධාරිනියකි.
+
+ඇය රාජකාරී නිමවා මලබඩ හන්දියේදී බසයෙන් බැස පදික මාරුවෙන් පාර මාරුවෙමින් සිටියදී මෙම අනතුරට මුහුණදී ඇත.
+
+එහිදී ඇය මතුගම දෙස සිට කළුතර දෙසට ගමන් කළ ට්‍රක් රථයේ ගැටී තිබේ.
+
+බරපතළ තුවාල ලබා සිටි ඇයව කළුතර නාගොඩ ශික්ෂණ රෝහලට රැගෙන ගොස් ඇති බවත් රෝහල්ගත කිරීමේදී මියගොස් ඇති බවත් වාර්තා වෙයි.
+
+අනතුර සම්බන්ධයේ ට්‍රක් රථ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර සැකකරුව මතුගම මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/29b1b11d.json)
+
+---
+
+### President Ranil unveils vision for rapid transformation into export economy
+
+*2024-03-20 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98087/president-ranil-unveils-vision-for-rapid-transformation-into-export-economy) · `en`
+
+If Sri Lanka continues to rely on borrowing to address the imbalance between imports and exports, the nation will inevitably confront another economic crisis within a decade, says President Ranil Wickremesinghe.
+
+He also underscored his vision to establish economic stability and expedite the transformation of Sri Lanka into an export-oriented economy.
+
+The President said that a new law is planned to be introduced to parliament in April, alongside another legislation aimed at improving financial governance within the government. These measures are designed to propel the nation’s economy forward.
+
+Wickremesinghe made these remarks during his attendance at the inauguration ceremony of Bodhigara and Golden Fence, constructed near the historic Mangedara Tempita Viharaya in Kegalle today (March 20).
+
+...
+
+[Data](articles/04cd0428.json)
+
+---
+
+### දෙවැනි පියවර මත්පැන් - පොලිස්පති
+
+*2024-03-20 21:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194750) · `si`
+
+පාතාලය සහ මත්ද්‍රව්‍ය තුරන් කළ පසු මත්පැන් සම්බන්ධයෙන් අවධානය යොමු කරන බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+
+ඔහු සඳහන් කළේ වසර 2025 වනවිට පාතාලය සහ මත්ද්‍රව්‍ය අවසන් කරන්නට සැලසුමක් ඇති බවය.
+
+"මේ රටේ පාතාලයයි මත්ද්‍රව්‍යයි... 2025 අවුරුද්ද ලබද්දී ඔය දෙකම මේ රටේ මිනිසුන්ගේ මනසින් මම අයින් කරලා පෙන්වනවා. පොලීසියත් පොලිස් විශේෂ කාර්ය බළකායත් මුලුමනින්ම පාතාලය සහ මත්ද්‍රව්‍යවලට විරුද්ධව මම පෙළගස්වනවා අනෙක් වැඩ සියල්ල පසෙක තබා.... ඉදිරි කාලයේදී. සම්පූර්ණ ශක්තියම යොදවලා මම මේක නැති කරලා තමයි අනෙක් වැඩවලට අත තියන්නේ. කරන්න තව වැඩ ගොඩක් තියෙනවා. අපේ රටේ ජනතාවගේ පවුල් ජීවිත... දරුවන්ගේ අනාගතය.. විනාශ වෙන්න බලපා තිබෙන දේවල් තමයි මත්පැන් පානය. දෙවැනි පියවරේදී ඒවට අතගහනවා."
+
+◼️
+
+[Data](articles/9c067cf2.json)
+
+---
 
 ### CC members who abstained from voting should resign: Mahindananda
 
@@ -45,6 +101,8 @@ Parliament, March 20 (Daily Mirror)- The Constitutional Council members who abs
 ◼️
 
 [Data](articles/ac5eba6f.json)
+
+[Extended Data](ext_articles/ac5eba6f.ext.json)
 
 ---
 
@@ -151,6 +209,22 @@ Internal sources of cricket say that the event is due to take this step in the 2
 [Data](articles/8eedbb7a.json)
 
 [Extended Data](ext_articles/8eedbb7a.ext.json)
+
+---
+
+### 2024 ලෝක සතුටු දර්ශකයේ ලංකාව පල්ලම් බසී
+
+*2024-03-20 19:29:51* · [`adalk`](https://www.ada.lk/breaking_news/2024-ලෝක-සතුටු-දර්ශකයේ-ලංකාව-පල්ලම්-බසී/11-408729) · `si`
+
+එක්සත් ජාතීන්ගේ සංවිධානය මගින් අද (20දා) නිකුත් කරන ලද ලෝක සතුටු දර්ශකයට (World Happiness Index 2024) අනුව ශ්‍රී ලංකාව 128 වැනි ස්ථානයට පත්ව තිබේ. වාර්ෂිකව නිකුත් කරන මෙම දර්ශකය යටතේ පසුගිය 2023 වසරේදී ශ්‍රී ලංකාව 112 වැනි ස්ථානයේ පසුවිය. ඒ අනුව මේ වසරේදී ශ්‍රී ලංකාව ස්ථාන 16ක් පසුපසට ගොස් තිබේ.
+
+එක්සත් ජාතීන්ගේ සංවිධානයේ සාමාජිකත්වය ලබන ලොව රටවල් 143ක ජනතාව පසුගිය වසර තුළ සතුටින් ජීවත් වූ මට්ටම් පිළිබඳව සමීක්ෂණය කරමින් මෙම වාර්තාව සකස් කර තිබේ. මෙහි පළමු ස්ථානය පිට පිට හත්වැනි වරටත් ෆින්ලන්තය වෙතත්, අවසන් ස්ථානය ඇෆ්ගනිස්තානය වෙතත් හිමිව තිබේ.
+
+මෙම වාර්තාව සකස් කිරීමේදී සමස්ත වයස් කාණ්ඩයන්හි සතුටුදායක බව, තරුණ වයසේ පිරිසගේ සතුටුදායක බව, පහළ මැදි වයසේ සතුටුදායක බව, ඉහළ මැදි වයසේ සතුටු දායක මට්ටම මෙන්ම වයස්ගත පිරිසගේ සතුටුදායක මට්ටම පිළිබඳව සමීක්ෂණය කෙරේ. එසේම එක් එක් රටවල වඩාත් සතුටුදායක සහ අඩු සතුටුදායක වයස් කාණ්ඩයන්ද මෙහිදී නම් කර ඇත.
+
+◼️
+
+[Data](articles/20f1689b.json)
 
 ---
 
@@ -2247,89 +2321,5 @@ Officials said they planned to carry out the attack in response to the burning o
 [Data](articles/bc8311a6.json)
 
 [Extended Data](ext_articles/bc8311a6.ext.json)
-
----
-
-### Three criminal gang members arrested in special STF raids
-
-*2024-03-20 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98074/three-criminal-gang-members-arrested-in-special-stf-raids) · `en`
-
-The Police Special Task Force (STF), in a raid conducted on Tuesday night (March 19), has managed to arrest three suspects involved in organized crimes.
-
-Accordingly, a close associate of the infamous gangster “Keselwatte Dinuka”, identified as Tharindu Ruwan Kumara, was apprehended in Borella. The STF personnel found 6.5 grams of heroin on the suspect at the time of the arrest.
-
-Meanwhile, Ahmed Jeffrey Ahmed Rizwan alias “Goda Rizwan”, a member of the notorious criminal figure “Kanjipani Imran’s” gang, was arrested in Maligawatta along with 6.4 grams of heroin.
-
-Finally, a close associate of the gangster “Pookudi Kanna”, identified as Munaweera Arachchilage Susantha, was arrested with 6.62g of heroin in Kajimawatta.
-
-◼️
-
-[Data](articles/b4e64645.json)
-
-[Extended Data](ext_articles/b4e64645.ext.json)
-
----
-
-### Anura Kumara to leave for Canada today
-
-*2024-03-20 12:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anura-Kumara-to-leave-for-Canada-today/108-279233) · `en`
-
-Colombo, March 20 (Daily Mirror)- National People's Power (NPP) leader Anura Kumara Dissanayake is leaving for Canada this evening, party sources said.
-
-He is to participate in several meetings with the Sri Lankan diaspora in Canada.
-
-Dissanayake is to adress two meetings organised by the NPP Canada Committee on March 23 and 24.
-
-He is also scheduled to meet the Sri Lankan Muslim and Tamil diaspora in Canada.
-
-◼️
-
-[Data](articles/609d25f9.json)
-
-[Extended Data](ext_articles/609d25f9.ext.json)
-
----
-
-### Tourist arrivals hit new high this year
-
-*2024-03-20 12:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Tourist-arrivals-hit-new-high-this-year/155-279232) · `en`
-
-Colombo, March 20 (Daily Mirror) - Owing to President Ranil Wickremesinghe's economic initiatives and the peaceful environment fostered within the country, the arrival of foreign tourists has risen, Airport and Aviation Services (Sri Lanka) Ltd. Chairman Athula Galkatiya said.
-
-Consequently, the Bandaranaike International Airport (BIA), Katunayake has seen a notable increase in air passenger usage.
-
-The Chairman said that from January 1 to March 19, 2024, the number of air passengers who utilized BIA services amounted to 850,000.
-
-He noted that it is anticipated approximately 10 million passengers will utilize the airport by the end of this year.
-
-The total number of passengers using the BIA in 2022 was 5 million, with a projected increase to 8 million in 2023, the chairman said
-
-◼️
-
-[Data](articles/0820403d.json)
-
-[Extended Data](ext_articles/0820403d.ext.json)
-
----
-
-### Sri Lanka sees spike in tourist arrivals this year
-
-*2024-03-20 12:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-sees-spike-in-tourist-arrivals-this-year/155-279232) · `en`
-
-Colombo, March 20 (Daily Mirror) - Owing to President Ranil Wickremesinghe's economic initiatives and the peaceful environment fostered within the country, the arrival of foreign tourists has risen, Airport and Aviation Services (Sri Lanka) Ltd. Chairman Athula Galkatiya said.
-
-Consequently, the Bandaranaike International Airport (BIA), Katunayake has seen a notable increase in air passenger usage.
-
-The Chairman said that from January 1 to March 19, 2024, the number of air passengers who utilized BIA services amounted to 850,000.
-
-He noted that it is anticipated approximately 10 million passengers will utilize the airport by the end of this year.
-
-The total number of passengers using the BIA in 2022 was 5 million, with a projected increase to 8 million in 2023, the chairman said
-
-◼️
-
-[Data](articles/592ea69e.json)
-
-[Extended Data](ext_articles/592ea69e.ext.json)
 
 ---

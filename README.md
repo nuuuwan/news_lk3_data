@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 12:17:58**
+As of **2024-03-20 12:33:27**
 
 ## Newspaper Stats
 
-*Scraped **14,044** Articles*
+*Scraped **14,048** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,77 @@ islandlk | 770
 adalk | 1,212
 adaderanalk | 1,687
 tamilmirrorlk | 1,703
-virakesarilk | 1,970
-dailymirrorlk | 2,149
+virakesarilk | 1,972
+dailymirrorlk | 2,151
 adaderanasinhalalk | 2,236
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,044 (100.0%) of 14,044 articles have been extended.
+14,044 (100.0%) of 14,048 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### Tourist arrivals hit new high this year
+
+*2024-03-20 12:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-arrivals-hit-new-high-this-year/108-279232) · `en`
+
+Colombo, March 20 (Daily Mirror) - Owing to President Ranil Wickremesinghe's economic initiatives and the peaceful environment fostered within the country, the arrival of foreign tourists has risen, Airport and Aviation Services (Sri Lanka) Ltd. Chairman Athula Galkatiya said.
+
+Consequently, the Bandaranaike International Airport (BIA), Katunayake has seen a notable increase in air passenger usage.
+
+The Chairman said that from January 1 to March 19, 2024, the number of air passengers who utilized BIA services amounted to 850,000.
+
+He noted that it is anticipated approximately 10 million passengers will utilize the airport by the end of this year.
+
+The total number of passengers using the BIA in 2022 was 5 million, with a projected increase to 8 million in 2023, the chairman said
+
+◼️
+
+[Data](articles/e0bcffc4.json)
+
+---
+
+### வவுனியா மாவட்ட பொது வைத்தியசாலையில் மருந்தாளர்கள் பணிப்புறக்கணிப்பு - நோயாளர்கள் அவதி
+
+*2024-03-20 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179210) · `ta`
+
+வவுனியா மாவட்ட பொது வைத்தியசாலையில்  மருந்தாளர்கள்  பல்வேறு கோரிக்கைளை முன்வைத்து இன்று புதன்கிழமை (20) (சுகயீன விடுமுறை) பணிப்புறக்கணிப்பில் ஈடுபட்டுள்ளனர்.
+
+பதவி உயர்வு மற்றும் புதிய நியமனம் ஆகியவற்றில் முறைகேடு இடம்பெற்றுள்ளதாக தெரிவித்து  மருந்தாளர்கள்  சுகயீன விடுமுறையில் ஈடுபட்டனர்
+
+இலங்கை முழுவதும் முன்னெடுக்கப்படும் பணிப்புறக்கணிப்பு போராட்டம் முன்னெடுக்கப்பட்டு வருகின்ற இந்நிலையிலேயே வவுனியா மாவட்ட பொது வைத்தியசாலையிலும் மருந்தக பிரிவுகள் முற்றாக செயழிந்துள்ளன.
+
+இப் பணிப்புறக்கணிப்பு போராட்டம் காரணமாக கிளினிக் , வெளிநோயாளர் பிரிவு ஆகியவற்றிக்கு வருகை மேற்கொண்ட நோயாளிகள் பல்வேறு அசோகரியங்களுக்கு முகங்கொடுத்திருந்தனர்.
+
+◼️
+
+[Data](articles/6927d926.json)
+
+---
+
+### வெளிநாடுகளின் ஆராய்ச்சிகப்பல்கள் இலங்கையில் எரிபொருள் மீள்நிரப்புதலிற்கு அனுமதி - சீனாவின் எதிர்ப்பை தொடர்ந்து வெளிவிவகார அமைச்சு தகவல்
+
+*2024-03-20 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/179209) · `ta`
+
+வெளிநாடுகளின் ஆராய்ச்சி கப்பல்கள்இலங்கை துறைமுகங்களில் மீள்நிரப்புதலில் ஈடுபடுவதற்கு இலங்கை அனுமதிவழங்கும் என இலங்கைவெளிவிவகார அமைச்சின் பேச்சாளர் தெரிவித்துள்ளார்
+
+ஜேர்மனியின் ஆராய்ச்சி கப்பலிற்கு இலங்கை அனுமதி வழங்கியமை குறித்து சீன தூதரகம் கடும் எதிர்ப்பை வெளியிட்டுள்ள நிலையிலேயே அவர் இதனை தெரிவித்துள்ளார்.
+
+ஆராய்ச்சிகளில் ஈடுபடும் கப்பல்களிற்கே இலங்கை தடை விதித்துள்ளது - ஆராய்ச்சி கப்பல்கள் மீள்நிரபுப்புதலில் ஈடுபடுவதற்கு இலங்கை தடை விதிக்கவில்லை என வெளிவிவகார அமைச்சின் பேச்சாளர் நிலுக்க கதிருகமுவ தெரிவித்துள்ளார்.
+
+ஜேர்மனியின் ஆராய்ச்சிகப்பல் எரிபொருள் மீள் நிரப்புவதற்கே கொழும்பு துறைமுகத்திற்கு வந்தது அதனால் அதற்கு அனுமதி வழங்கப்பட்டதுஎனவும் அவர் தெரிவித்துள்ளார்.
+
+14 மாதங்களில் சீனாவின் ஆராய்ச்சி கப்பல்கள் இரண்டு தடவை இலங்கைக்கு விஜயம் மேற்கொண்டதை தொடர்ந்து இந்தியாவும் அமெரிக்காவும் வெளியிட்ட கடும் பாதுகாப்பு கரிசனைகள் காரணமாக ரணில் விக்கிரமசிங்க அரசாங்கம் ஒரு வருட காலத்திற்கு ஆராய்ச்சி கப்பல்களிற்கு தடை விதித்துள்ளது.
+
+...
+
+[Data](articles/e0a3ba31.json)
+
+---
 
 ### Indian Colonial Anti
 
@@ -151,6 +209,26 @@ The Hy-Paddy drugs currently in use can stop the spread of the virus, but it fai
 [Data](articles/6b30fb30.json)
 
 [Extended Data](ext_articles/6b30fb30.ext.json)
+
+---
+
+### Viyath Maga’ member behind move to stop Adani group’s wind power project: Minister
+
+*2024-03-20 11:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Viyath-Maga-member-behind-move-to-stop-Adani-groups-wind-power-project-Minister/108-279230) · `en`
+
+Parliament, March 20 (Daily Mirror)- A member of 'Viyath Maga' who is now working with Opposition Leader Sajith Premadasa is behind the move to prevent the implementation of the Adani Group’s wind power project, Minister of Power and Energy Kanchana Wijesekera told Parliament.
+
+Responding to a question raised by the Leader of the Opposition, the Minister said former member of Viyath Maga Rohan Pethiyagoda is one of the persons who has come out against the proposed wind power project.
+
+“Professor Pethiyagoda is an advisor to the Opposition Leader. He is a former member of Viyath Maga,” the Minister said.
+
+He said Professor Pethiyagoda is one of the few who had raised an environment issue pertaining to the wind power project.
+
+“We have taken steps to remove six turbines which belong to wind power plants which are already existing in Mannar. We will also keep a 2 km corridor for bird migration,” the Minister said.
+
+...
+
+[Data](articles/f4450143.json)
 
 ---
 
@@ -2155,89 +2233,5 @@ At the end of the 37th over of the match against Bangladesh, the mediator rushed
 [Data](articles/1a4ac375.json)
 
 [Extended Data](ext_articles/1a4ac375.ext.json)
-
----
-
-### 2024-03-19 (Tuesday)
-
-### Ministry of Education - Microsoft
-
-*2024-03-19 23:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/179170) · `ta`
-
-The Ministry of Education and Microsoft signed a Memorandum for an AI-focused IT course program, involving 20 schools across 20 districts. Microsoft will provide technical support and modern classrooms. President Ranil Wickremesinghe met with Microsoft representatives, who assured cooperation with AI in the curriculum. Punit Santok of Microsoft congratulated the president. The program aims for full implementation by 2025. US Ambassador Julie Song highlighted the opportunity for Sri Lanka, emphasizing the need for inclusivity and support for English language skills.
-
-🟩
-
-A Memorandum of Understanding (Memorandum) on the implementation of a pioneering program for the Information Technology course for more than 08 students (AI) was signed between the Ministry of Education and Microsoft on Tuesday (19).
-
-It has been decided to select 20 schools in 20 districts and implement this pioneering program for more than 8 students and provide modern classrooms and technical equipment.
-
-Accordingly, a team of Microsoft will provide assistance to technically carry out educational activities.
-
-A meeting between President Ranil Wickremesinghe and Microsoft's representatives was held at the Presidential Office before the Memorandum of Understanding.
-
-Meanwhile, Microsoft representatives have assured the president that the school curriculum will be fully cooperating with artificial intelligence.
-
-...
-
-[Data](articles/5a909182.json)
-
-[Extended Data](ext_articles/5a909182.ext.json)
-
----
-
-### Elephant goes missing at Sinharaja Forest Reserve
-
-*2024-03-19 23:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Elephant-goes-missing-at-Sinharaja-Forest-Reserve/108-279175) · `en`
-
-Colombo, March 19 (Daily Mirror) -  The wildlife officers attached to the Sinharaja Forest Reserve observed that one of the two elephants living in the vicinity of the forest reserve had not been seen for the past one and a half years.
-
-They said the two male elephants used to come out of the forest reserve when they went into musth. But within the past one and a half years, only one elephant (around 45-years-old), which has a belt around its neck, has been seen by the villagers.
-
-The elephants in the Sinharaja Forest Reserve go up to Deniyaya and Neluwa areas for food, and when they went into musth.
-
-The wildlife office officials attached to the Sinharaja forest are on the lookout for the missing elephant which is much older than the other elephant.
-
-...
-
-[Data](articles/22c93241.json)
-
-[Extended Data](ext_articles/22c93241.ext.json)
-
----
-
-### More medical doctors a need in ailing healthcare systems
-
-*2024-03-19 23:54:20* · [`dailyftlk`](https://www.ft.lk/columns/More-medical-doctors-a-need-in-ailing-healthcare-systems/4-759677) · `en`
-
-Serious decline in quality standards in both public and private curative healthcare is common experience in SL
-
-The “Green Campus” as it is popularly called, the National School of Business Management (NSBM) in Homagama, has been given the greenlight by the Cabinet of Ministers to establish a Faculty of Medicine, said cabinet spokesman Minister Bandula Gunawardene on Tuesday 12 March. All NSBM courses from foundation to general degree and postgraduate degrees are fee levying and the proposed medical degree would also be a fee levying degree.
-
-...
-
-[Data](articles/ab0607b5.json)
-
-[Extended Data](ext_articles/ab0607b5.ext.json)
-
----
-
-### World Bank hails ‘Suwa Seriya’ ambulance service for saving countless lives
-
-*2024-03-19 23:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98065/world-bank-hails-suwa-seriya-ambulance-service-for-saving-countless-lives) · `en`
-
-The World Bank has hailed Sri Lanka’s toll-free ‘1990 Suwa Seriya’ ambulance service for saving countless lives, while providing citizens the highest level of pre-hospital care.
-
-In a blog post, the World Bank’s Vice President for the South Asia Region, Martin Raiser further commended the ambulance service for reducing complications caused by delayed care, and enabling them to get back into the workforce in record time—making a positive contribution to the country’s economy.
-
-“Since its launch in 2016, 1.8 million Sri Lankan citizens in distress have dialed 1990, and a Suwa Seriya ambulance has rushed them to the nearest hospital or primary care facility within 12 minutes of their call, one of the fastest response rates in the world for an ambulance service.”
-
-South Asia is home to many development innovations, including in the delivery of social services through government-private sector-and civil society partnerships, Raiser said, noting that 1990 Suwa Seriya stands in a proud tradition.
-
-...
-
-[Data](articles/de6b5e91.json)
-
-[Extended Data](ext_articles/de6b5e91.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 22:50:02**
+As of **2024-03-20 23:03:34**
 
 ## Newspaper Stats
 
-*Scraped **14,166** Articles*
+*Scraped **14,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 dailyftlk | 734
 economynextcom | 758
 islandlk | 770
-adalk | 1,225
-adaderanalk | 1,702
+adalk | 1,226
+adaderanalk | 1,703
 tamilmirrorlk | 1,714
 virakesarilk | 1,987
 dailymirrorlk | 2,172
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,262
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,166 (100.0%) of 14,166 articles have been extended.
+14,166 (100.0%) of 14,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### COPE convenes under Rohitha’s chairmanship amidst string of member resignations
+
+*2024-03-20 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98088/cope-convenes-under-rohithas-chairmanship-amidst-string-of-member-resignations) · `en`
+
+The first meeting of the Committee on Public Enterprises (COPE) under the chairmanship of MP Rohitha Abeygunawardana convened at the parliament complex on Tuesday (March 19) amidst a string of member resignations.
+
+As many as 10 COPE members – namely MPs Anura Kumara Dissanayake, Duminda Dissanayake, Eran Wickramaratne, Gamini Waleboda, Prof. Charitha Herath, Dayasiri Jayasekara, S. M. Marikkar, Hesha Withanage, Shanakiyan Rasamanickam and Wasantha Yapa Bandara – have quit the committee, taking issue with the appointment of Abeygunawardana.
+
+At the commencement of yesterday’s meeting, the new COPE chairman stated that although it is possible to summon 363 institutions before the committee 102 institutions have not been summoned before the Committee so far.
+
+...
+
+[Data](articles/afd8a599.json)
+
+---
 
 ### Meeting between Sajith and IMF representatives
 
@@ -269,6 +285,24 @@ Internal sources of cricket say that the event is due to take this step in the 2
 [Data](articles/8eedbb7a.json)
 
 [Extended Data](ext_articles/8eedbb7a.ext.json)
+
+---
+
+### ආනයනික භාණ්ඩ වලින් අතරමැදි වෙළෙඳුන්ට සියයට 300 අධික ලාභයක්
+
+*2024-03-20 19:40:31* · [`adalk`](https://www.ada.lk/breaking_news/ආනයනික-භාණ්ඩ-වලින්-අතරමැදි-වෙළෙඳුන්ට-සියයට-300-අධික-ලාභයක්/11-408731) · `si`
+
+ක්‍රම සහ විධි පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේ සභාපතිවරයා ලෙස නැවත වරක් පාර්ලිමේන්තු මන්ත්‍රී පාඨලී චම්පික රණවක මහතා නිතරගයෙන් තේරී පත්වීය.
+
+ඒ පාර්ලිමේන්තු මන්ත්‍රී වසන්ත යාපා බණ්ඩාර මහතා සහ රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතාගේ යෝජනා ස්ථිරත්වයෙන් ඊයේ (20දා) එම කාරක සභාව පළමුවරට රැස්වූ අවස්ථාවේදීය.
+
+ක්‍රම සහ විධි පිළිබඳ කාරක සභා සාමාජිකයන් වන රාජ්‍ය අමාත්‍යවරුන් වන සිසිර ජයකොඩි, අනුරාධ ජයරත්න, පාර්ලිමේන්තු මන්ත්‍රීවරුන් වන ඩබ්ලිව්.ඩි.ජේ. සෙනවිරත්න, උදයන කිරිඳිගොඩ, සංජීව එදිරිමාන්න, නාලක බණ්ඩාර කෝට්ටේගොඩ යන මහත්වරුන්ගේ ඒකමතික තීරණය අනුව මෙලෙස නව සභාපතිවරයා තේරී පත්විය. මේ අවස්ථාව සඳහා පාර්ලිමේන්තුවේ කාර්ය මණ්ඩල ප්‍රධානී සහ නියෝජ්‍ය මහලේකම් චමින්ද කුලරත්න මහතාද සහභාගිවිය.
+
+කමිටුවේ ඉදිරි ක්‍රියාමාර්ග පිළිබඳව අදහස් දක්වමින් කමිටු සභාපතිවරයා, ලංකාවට පිටරටින් ගෙන්වන ආනයනික භාණ්ඩ මගින් අතරමැදි වෙළෙඳුන් 300% අධික ලාභයක් ගන්න බව පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/21827da8.json)
 
 ---
 
@@ -2277,63 +2311,5 @@ Containers were queued at the Colombo Port due to the trade union action by the 
 [Data](articles/009c96ff.json)
 
 [Extended Data](ext_articles/009c96ff.ext.json)
-
----
-
-### Another ingenuous murder in Canada
-
-*2024-03-20 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194726) · `si`
-
-In Canada, a 41-year-old woman, Balwinder Kaur, was murdered by her 50-year-old husband, Jagpreeet Sing, who was arrested. The victim was hospitalized after being stabbed but later died. The suspect reportedly called his mother about the murder via video call, saying, "I've been sleeping him forever." The incident occurred in Abbotsford, and Jagpreeet's brother, also arrested, claimed they had a happy family life.
-
-🟩
-
-Foreign media reports that another ingest murder in Canada.
-
-The victim is a 41-year-old woman, a 41-year-old Balwinder Kaur.
-
-The 50-year-old husband, Jagpreeet Sing, has been arrested by the Jagpreeet Singh.
-
-The woman who was injured in knives had been hospitalized, but she had died.
-
-Meanwhile, foreign media reports that the suspect had informed his mother in connection with the murder with a video call after the murder.
-
-"I've been sleeping him forever," he added.
-
-The murder was held at Abbotsford, Canada.
-
-The suspect's husband has also been arrested in connection with the murder.
-
-In several foreign media reports, cash disputes have caused several occasions among them.
-
-However, the brother of the Jagpreeet Singh's brother who was arrested on suspicion of murder was said that they had a happy family life.
-
-After the assassination, the brother was also called and the brother had said that he was injured in his hand.
-
-The country has already investigated further investigations.
-
-◼️
-
-[Data](articles/3d0969f3.json)
-
-[Extended Data](ext_articles/3d0969f3.ext.json)
-
----
-
-### Sri Lanka ready to make ongoing reforms a law, minister tells IMF
-
-*2024-03-20 12:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-ready-to-make-ongoing-reforms-a-law-minister-tells-imf-155350/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s State Minister of Finance has told Dr Krishnamurthy Subramanian, Executive Director of the IMF for India, Sri Lanka, Bangladesh and Bhutan that an election would not interrupt ongoing reforms.
-
-“During the discussion ensured that the reforms implemented will not be disrupted with election been announced and the government is ready to make the ongoing reforms a law of the country which demonstrates the dedication to stability and sustainable growth,” Semasinghe said on X (twitter) after the meeting.
-
-“Wide ranging topics were discussed around the current IMF programme and attention was paid to the challenges in digitizing the tax process and it was pointed out that the government has taken steps to increase the number of tax files, which had decreased due to various policy decisions, to approximately one million at present.”
-
-...
-
-[Data](articles/095d3c65.json)
-
-[Extended Data](ext_articles/095d3c65.ext.json)
 
 ---

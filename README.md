@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 21:34:24**
+As of **2024-03-20 21:52:36**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 2,261
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,159 (100.0%) of 14,163 articles have been extended.
+14,163 (100.0%) of 14,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### කාන්තා පොලිස් නිලධාරිනිය බූම් ට්‍රක් රථයකට යටවෙයි
+### Women's police officer falls into a boom truck
 
 *2024-03-20 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194751) · `si`
 
-කාන්තා පොලිස් නිලධාරිනියක් අද (20) සවස බූම් ට්‍රක් රථයකට යටවීමෙන් මියගොස් ඇති බව මතුගම පොලීසිය පවසයි.
+A female police officer, Dodangoda Weerasuriya, died after a collision with a truck. She was attached to the Kalutara Superintendency of the Police Office. The incident occurred after she finished her shift and was moving from the bus to the road. The truck driver has been arrested.
 
-මෙසේ මියගොස් ඇත්තේ කළුතර පොලිස් අධිකාරී කාර්යාලයට අනුයුක්තව රාජකාරී කරනු ලැබූ දොඩංගොඩ පුහාඹුගොඩ  ප්‍රදේශයේ පදිංචිව සිටි සැරයන් දමයන්ති වීරසූරිය නමැති පොලිස් කාන්තා නිලධාරිනියකි.
+🟩
 
-ඇය රාජකාරී නිමවා මලබඩ හන්දියේදී බසයෙන් බැස පදික මාරුවෙන් පාර මාරුවෙමින් සිටියදී මෙම අනතුරට මුහුණදී ඇත.
+According to Matugama Police, a female police officer died this evening.
 
-එහිදී ඇය මතුගම දෙස සිට කළුතර දෙසට ගමන් කළ ට්‍රක් රථයේ ගැටී තිබේ.
+The deceased has been identified as Dodangoda Weerasuriya, who was attached to the Kalutara Superinteign of the Police Office.
 
-බරපතළ තුවාල ලබා සිටි ඇයව කළුතර නාගොඩ ශික්ෂණ රෝහලට රැගෙන ගොස් ඇති බවත් රෝහල්ගත කිරීමේදී මියගොස් ඇති බවත් වාර්තා වෙයි.
+She is in the accident when she finished the bus and shifting the road from the pavement.
 
-අනතුර සම්බන්ධයේ ට්‍රක් රථ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර සැකකරුව මතුගම මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+She had collided with the truck that was traveled from Matugama to Kalutara.
+
+It is reported that she had been taken to the Nagoda Teaching Hospital in Kalutara and died on the hospital.
+
+The truck driver has been arrested and is to be produced before the Matugama Magistrate's Court.
 
 ◼️
 
 [Data](articles/29b1b11d.json)
+
+[Extended Data](ext_articles/29b1b11d.ext.json)
 
 ---
 
@@ -70,21 +76,29 @@ Wickremesinghe made these remarks during his attendance at the inauguration cere
 
 [Data](articles/04cd0428.json)
 
+[Extended Data](ext_articles/04cd0428.ext.json)
+
 ---
 
-### දෙවැනි පියවර මත්පැන් - පොලිස්පති
+### Second Steimer Liquor - IGP
 
 *2024-03-20 21:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194750) · `si`
 
-පාතාලය සහ මත්ද්‍රව්‍ය තුරන් කළ පසු මත්පැන් සම්බන්ධයෙන් අවධානය යොමු කරන බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+IGP Deshabandu Tennakoon aims to combat drugs and the underworld by 2025, focusing on liquor issues afterward. He plans to prioritize drug eradication, involving police and STF, and shift focus to family life and children's future, highlighting alcohol's negative impact.
 
-ඔහු සඳහන් කළේ වසර 2025 වනවිට පාතාලය සහ මත්ද්‍රව්‍ය අවසන් කරන්නට සැලසුමක් ඇති බවය.
+🟩
 
-"මේ රටේ පාතාලයයි මත්ද්‍රව්‍යයි... 2025 අවුරුද්ද ලබද්දී ඔය දෙකම මේ රටේ මිනිසුන්ගේ මනසින් මම අයින් කරලා පෙන්වනවා. පොලීසියත් පොලිස් විශේෂ කාර්ය බළකායත් මුලුමනින්ම පාතාලය සහ මත්ද්‍රව්‍යවලට විරුද්ධව මම පෙළගස්වනවා අනෙක් වැඩ සියල්ල පසෙක තබා.... ඉදිරි කාලයේදී. සම්පූර්ණ ශක්තියම යොදවලා මම මේක නැති කරලා තමයි අනෙක් වැඩවලට අත තියන්නේ. කරන්න තව වැඩ ගොඩක් තියෙනවා. අපේ රටේ ජනතාවගේ පවුල් ජීවිත... දරුවන්ගේ අනාගතය.. විනාශ වෙන්න බලපා තිබෙන දේවල් තමයි මත්පැන් පානය. දෙවැනි පියවරේදී ඒවට අතගහනවා."
+IGP Deshabandu Tennakoon says he will focus on the liquor after he will eliminate the underworld and drugs.
+
+He said that by 2025, he was planning to end the underworld and drugs.
+
+"The underworld in this country is drugs.. 2025 I will expel the people of the people in this country.. The police and the STF and the Police Special Task Force and I miss against drugs and put your other work aside .... In the future. I've lost this and putting this on the other work. There's a lot of work to do. Family life of the people in our country. The future of children.. The influence of the destruction is the use of alcohol. In the second step, Eve is greeting. "
 
 ◼️
 
 [Data](articles/9c067cf2.json)
+
+[Extended Data](ext_articles/9c067cf2.ext.json)
 
 ---
 
@@ -212,19 +226,25 @@ Internal sources of cricket say that the event is due to take this step in the 2
 
 ---
 
-### 2024 ලෝක සතුටු දර්ශකයේ ලංකාව පල්ලම් බසී
+### Sri Lanka in the world's happiness indicator
 
 *2024-03-20 19:29:51* · [`adalk`](https://www.ada.lk/breaking_news/2024-ලෝක-සතුටු-දර්ශකයේ-ලංකාව-පල්ලම්-බසී/11-408729) · `si`
 
-එක්සත් ජාතීන්ගේ සංවිධානය මගින් අද (20දා) නිකුත් කරන ලද ලෝක සතුටු දර්ශකයට (World Happiness Index 2024) අනුව ශ්‍රී ලංකාව 128 වැනි ස්ථානයට පත්ව තිබේ. වාර්ෂිකව නිකුත් කරන මෙම දර්ශකය යටතේ පසුගිය 2023 වසරේදී ශ්‍රී ලංකාව 112 වැනි ස්ථානයේ පසුවිය. ඒ අනුව මේ වසරේදී ශ්‍රී ලංකාව ස්ථාන 16ක් පසුපසට ගොස් තිබේ.
+Sri Lanka improved from 112th to 128th in the World Happiness Index 2024, moving up six places from 2023. The report highlights youthfulness, joy, and satisfaction levels across countries.
 
-එක්සත් ජාතීන්ගේ සංවිධානයේ සාමාජිකත්වය ලබන ලොව රටවල් 143ක ජනතාව පසුගිය වසර තුළ සතුටින් ජීවත් වූ මට්ටම් පිළිබඳව සමීක්ෂණය කරමින් මෙම වාර්තාව සකස් කර තිබේ. මෙහි පළමු ස්ථානය පිට පිට හත්වැනි වරටත් ෆින්ලන්තය වෙතත්, අවසන් ස්ථානය ඇෆ්ගනිස්තානය වෙතත් හිමිව තිබේ.
+🟩
 
-මෙම වාර්තාව සකස් කිරීමේදී සමස්ත වයස් කාණ්ඩයන්හි සතුටුදායක බව, තරුණ වයසේ පිරිසගේ සතුටුදායක බව, පහළ මැදි වයසේ සතුටුදායක බව, ඉහළ මැදි වයසේ සතුටු දායක මට්ටම මෙන්ම වයස්ගත පිරිසගේ සතුටුදායක මට්ටම පිළිබඳව සමීක්ෂණය කෙරේ. එසේම එක් එක් රටවල වඩාත් සතුටුදායක සහ අඩු සතුටුදායක වයස් කාණ්ඩයන්ද මෙහිදී නම් කර ඇත.
+Sri Lanka has been ranked 128th according to World Happiness Index 2024 by the United Nations today (20). Sri Lanka was 112nd in the year 2023 under this index annual index. Accordingly, Sri Lanka has returned to six places this year.
+
+The report has been prepared to survey the level of happy living levels in last year in the last year.. The first seventh is the seventh time, but the last place is Afghanistan.
+
+This report is satisfactory, the greatest grandmother of the youthfulness, the greatest level of joyful level, and the satisfactory level of the young people. Also, the most satisfactory and low satisfactory age group of each country have been named.
 
 ◼️
 
 [Data](articles/20f1689b.json)
+
+[Extended Data](ext_articles/20f1689b.ext.json)
 
 ---
 

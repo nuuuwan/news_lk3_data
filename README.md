@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 00:03:17**
+As of **2024-03-21 00:17:56**
 
 ## Newspaper Stats
 
-*Scraped **14,174** Articles*
+*Scraped **14,177** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,66 @@ adalk | 1,226
 adaderanalk | 1,703
 tamilmirrorlk | 1,714
 virakesarilk | 1,987
-dailymirrorlk | 2,176
+dailymirrorlk | 2,179
 adaderanasinhalalk | 2,262
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,174 (100.0%) of 14,174 articles have been extended.
+14,174 (100.0%) of 14,177 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-21 (Thursday)
+
+### May be ‘Akon’ can teach politicians  lessons on being irresponsible
+
+*2024-03-21 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/May-be-Akon-can-teach-politicians-lessons-on-being-irresponsible/172-279259) · `en`
+
+This regime has ignored the calls for change from protest groups for far too long
+
+Two appointments for top state positions have been challenged; one in a court of law and the other in Parliament. One is the appointment of Deshabandu Tennakoon as Inspector General of Police (IGP), which is challenged in Supreme Court by the Anti-corruption Unit of the Samagi Jana Balawegaya. The other is the appointment of politician Rohitha Abegunawardhana as the Committee On Public Enterprises (COPE) Chairman against which Parliamentarian Lakshman Kiriella has tabled a motion of no confidence to the Speaker, citing that the former’s appointment compromises on the integrity of the rest of the members of the COPE. As of now, as many as seven members of the COPE have tendered their resignations in response to Abegunawardhana’s appointment. Now this is a serious turn of events.
+
+...
+
+[Data](articles/05c3c8e9.json)
+
+---
+
+### “Absolute power corrupts” Receiving a huge mandate turned out to be a problem for us
+
+*2024-03-21 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Absolute-power-corrupts-Receiving-a-huge-mandate-turned-out-to-be-a-problem-for-us/231-279255) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) stalwart Basil Rajapaksa, who recently returned to the country in time to face a possible election heat, in an interview with the Daily Mirror said that following the collapse of the Gotabaya Rajapaksa Government, he and his brother Gotabaya do not get into each other’s way. Basil also said that he had requested from President Ranil Wickremesinghe not to deal with SLPP members individually bypassing the party hierarchy.
+
+We also requested the President not to deal with our members individually bypassing the party hierarchy.
+
+The mere fact that we received an overwhelming majority at the election turned out to be a curse at the end.
+
+Whenever a government gets the absolute majority anywhere, it collapses sooner than expected.
+
+Now, there are even more draconian pieces of legislations being enacted.  If we had brought such laws, all hell would have broken loose.
+
+...
+
+[Data](articles/d8dbbe28.json)
+
+---
+
+### Trees are as close to immortality as the rest of us ever come
+
+*2024-03-21 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Trees-are-as-close-to-immortality-as-the-rest-of-us-ever-come/172-279257) · `en`
+
+While President Ranil Wickremesinghe and the Sri Lanka Podujana Peramuna government are focusing on elections amidst controversy and confusion over whether the General Election will be held before the Presidential Election or the Executive Presidential system should be scrapped as the then-Presidential candidate Chandrika Bandaranaike Kumaratunga promised to do so but never did, the government and the people need to focus more on vital issues such as the forests.
+
+Today, the United Nations (UN) marks the International Day of Forests. In a statement, the world body said that innovation and technology have revolutionized forest monitoring, enabling countries to track and report on their forests more effectively. About 13.7 billion tons of carbon dioxide (CO₂) forest emission reductions or enhancements have been reported to the United Nations Framework Convention on Climate Change through transparent and innovative forest monitoring.
+
+...
+
+[Data](articles/e86cb9e3.json)
+
+---
 
 ### 2024-03-20 (Wednesday)
 
@@ -2241,79 +2291,5 @@ Meanwhile, Parliamentarian Duminda Dissanayake has also resigned from the COPE t
 [Data](articles/7a26b51f.json)
 
 [Extended Data](ext_articles/7a26b51f.ext.json)
-
----
-
-### Suwa Seriya earns global acclaim from World Bank
-
-*2024-03-20 13:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suwa-Seriya-earns-global-acclaim-from-World-Bank/108-279238) · `en`
-
-March 20 - The '1990 Suwa Seriya' ambulance service in Sri Lanka has garnered high praise from the World Bank, lauding it as one of the most advanced and efficient emergency medical services worldwide.
-
-According to Martin Raiser, Vice President of the World Bank Group's South Asia Region, the service has been instrumental in saving the lives of countless critically ill or injured individuals.
-
-Raiser commended the service for its exceptional response time, noting that patients receive urgent care within 12 minutes of placing a call, a benchmark unmatched by many other ambulance services globally. He particularly highlighted the service's pivotal role during the COVID-19 pandemic, emphasizing its role in transporting nearly 175,000 COVID-19 patients to hospitals.
-
-...
-
-[Data](articles/11529e10.json)
-
-[Extended Data](ext_articles/11529e10.ext.json)
-
----
-
-### Hong Kong passed the Severe Safety Act - Fear as to be used to suppress dissident
-
-*2024-03-20 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179220) · `ta`
-
-Hong Kong's Severe Safety Act, passed by the Parliament, imposes strict security measures to suppress dissent, including life imprisonment for rebellion and sabotage, and up to 10 years for treason or collaboration with foreign powers. Detention can last 48 hours to two weeks. Critics, including the UN Human Rights Commissioner, view it as a severe threat to the city's rights and independence.
-
-🟩
-
-The Hong Kong Parliament has passed a strict security law that helps to suppress those who have different opinions.
-
-Hong Kong Parliament can impose life imprisonment for those who engage in rebellion and sabotage under the new National Security Act
-
-Two to seven can be sentenced to imprisonment on the basis of treason charges under the new law.
-
-If the allegation that he worked with foreign powers is proven, one can be sentenced to ten years in prison.
-
-Under the new law, a person may have been detained for 48 hours to two weeks.
-
-Most of the parliament, which has a large number of pro -Chinese MPs, support the law, which is described as a repression law.
-
-The law, which has passed Hong Kong, has been criticized for creating a new era of the city that will be severely affected by the rights and independence of the city.
-
-UN Human Rights Commissioner Volker Dark said this is a backogious move on human rights protection.
-
-◼️
-
-[Data](articles/e8006d87.json)
-
-[Extended Data](ext_articles/e8006d87.ext.json)
-
----
-
-### Service by Indian Embassy
-
-*2024-03-20 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/179212) · `ta`
-
-Indian Embassy supports Jaffna fishermen's food-free struggle. Federation of Rural Fisheries Organizations and Jaffna District Fisheries Cooperative Societies Federation initiated the protest. Madagal fishermen joined the protest, marching to the Indian Embassy.
-
-🟩
-
-Those who came to fight for the fishermen who were engaged in a food -free struggle were in front of the Jaffna Indian Ambassador.
-
-The Federation of Rural Fisheries Organizations of Jaffna and the Jaffna District Fisheries Co -operative Societies Federation started a food avoidance struggle in front of St. John Posco Vidyalaya, Jaffna from Tuesday morning.
-
-In this backdrop, Madagal fishermen who came to support the site of the Food Avoidance Struggle and marched with the fishermen in front of the Jaffna Indian Embassy in front of the Jaffna Indian Embassy.
-
-As a result of this, the fishermen have come to the spot where the fishermen have been deployed and the fishermen have been protesting.
-
-◼️
-
-[Data](articles/fa2de4d0.json)
-
-[Extended Data](ext_articles/fa2de4d0.ext.json)
 
 ---

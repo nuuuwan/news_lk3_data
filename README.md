@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 22:05:09**
+As of **2024-03-20 22:18:10**
 
 ## Newspaper Stats
 
-*Scraped **14,163** Articles*
+*Scraped **14,164** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 1,702
 tamilmirrorlk | 1,714
 virakesarilk | 1,987
 dailymirrorlk | 2,171
-adaderanasinhalalk | 2,261
+adaderanasinhalalk | 2,262
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,163 (100.0%) of 14,163 articles have been extended.
+14,163 (100.0%) of 14,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
+
+### සජිත් සහ IMF නියෝජිතයින් අතර හමුවක්
+
+*2024-03-20 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194752) · `si`
+
+විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් අතර හමුවක් අද (20) පාර්ලිමේන්තු සංකීර්ණයේදී පැවැත්වුණි.
+
+මෙම හමුව සඳහා සමගි ජන බලවේගය සහ සමගි ජන සන්ධානය නියෝජනය කරන මන්ත්‍රීවරුන් රැසක් සහභාගීවී තිබුණි.
+
+විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මෙහිදී ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් හමුවේ ප්‍රකාශ කර ඇත්තේ ලක්ෂ 220ක මෙරට ජනතාවගේ ගැටළුවලට විසඳුම් ලබාදිය යුතු බවය.
+
+රජය අක්‍රමවත් ලෙස ආර්ථිකය හැසිරවීම හේතුවෙන් අගතියට පත්වී සිටින ජනතාවගේ දුගීභාවය තුරන් කිරීමේ වැඩපිළිවෙළක අත්‍යවශ්‍යතාවය ද මෙහිදී IMF නියෝජිතයින්ගේ අවධානයට යොමුකර තිබේ.
+
+විපක්ෂ නායකවරයා මෙහිදී වැඩිදුරටත් පවසා ඇත්තේ, ජාත්‍යන්තර මූල්‍ය අරමුදල ශ්‍රී ලංකාවේ ආර්ථික අර්බුදය විසඳීමට ඉදිරිපත් කළ යෝජනා සහ ඉලක්කවලට සමගි ජන බලවේගය ධනාත්මකව එකඟවන නමුත් ඇතැම් යෝජනා සංශෝධන සහිතව ක්‍රියාත්මක කළ යුතු බවය.
+
+◼️
+
+[Data](articles/ddd72d51.json)
+
+---
 
 ### Women's police officer falls into a boom truck
 
@@ -2317,29 +2337,5 @@ However, with the participation of other members, however discussed the activiti
 [Data](articles/f324bca6.json)
 
 [Extended Data](ext_articles/f324bca6.ext.json)
-
----
-
-### Conspiracy to attack Sweden parliament: two arrested in Germany
-
-*2024-03-20 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179215) · `ta`
-
-Two Afghan individuals arrested in Germany are suspected of planning an attack on the Swedish Parliament in response to the burning of the Holy Qur'an.
-
-🟩
-
-IS on a plan to attack Sweden Parliament. Two suspected members of the movement have been arrested by the German police.
-
-Two Afghan people have been arrested yesterday, police said. These are Ibrahim MG. Ramin my. Have been identified.
-
-They have been accused of firing on the Swedish parliament in Stockholm and killing the police and others.
-
-Officials said they planned to carry out the attack in response to the burning of the Holy Qur'an.
-
-◼️
-
-[Data](articles/bc8311a6.json)
-
-[Extended Data](ext_articles/bc8311a6.ext.json)
 
 ---

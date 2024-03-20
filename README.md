@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-20 14:03:22**
+As of **2024-03-20 14:18:04**
 
 ## Newspaper Stats
 
-*Scraped **14,075** Articles*
+*Scraped **14,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 734
 economynextcom | 745
 islandlk | 770
 adalk | 1,216
-adaderanalk | 1,691
+adaderanalk | 1,692
 tamilmirrorlk | 1,704
 virakesarilk | 1,976
 dailymirrorlk | 2,157
@@ -26,53 +26,83 @@ adaderanasinhalalk | 2,243
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,069 (100.0%) of 14,075 articles have been extended.
+14,075 (100.0%) of 14,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-20 (Wednesday)
 
-### අධිකරණයට අපහාස කළ නීතිඥවරයා රිමාන්ඩ්
+### Govt ready to make ongoing economic reforms a law – State Minister tells IMF
+
+*2024-03-20 14:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98077/govt-ready-to-make-ongoing-economic-reforms-a-law-state-minister-tells-imf) · `en`
+
+Sri Lanka’s State Minister of Finance Shehan Semasinghe has assured that the economic reforms being implemented will not be disrupted by the coming elections and that the government is ready to make the ongoing reforms a law of the country.
+
+The State Minister had stated this during a discussion with the IMF’s Executive Director for India, Sri Lanka, Bangladesh and Bhutan, Prof. Krishnamurthy V. Subramanian.
+
+“During the discussion, ensured that the reforms implemented will not be disrupted with election been announced and the government is ready to make the ongoing reforms a law of the country which demonstrates the dedication to stability and sustainable growth,” he said in a post on ‘X’.
+
+Semasinghe further said that wide-ranging topics were discussed around the current IMF programme and attention was also paid to the challenges in digitising the tax process.
+
+...
+
+[Data](articles/36bf4df0.json)
+
+---
+
+### Lawyer remanded for insulting the judiciary
 
 *2024-03-20 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194731) · `si`
 
-විවෘත අධිකරණයේ දී අධිකරණයට අපහාස වන ආකාරයෙන් ක්‍රියා කළේ යැයි චෝදනා එල්ල වූ නීතිඥවරයෙකු රිමාන්ඩ් භාරයේ තැබීමට ශ්‍රේෂ්ඨාධිකරණය නියම කර තිබේ.
+A lawyer was remanded by the Supreme Court for insulting the judiciary, ordered to appear on April 3rd, and suspended until the trial's end, issued by a three-member judiciary.
 
-අදාළ නීතිඥවරයා අප්‍රෙල් මස 03 වන දා අධිකරණයට ඉදිරිපත් කරන ලෙසද අධිකරණය නියෝග කරනු ලැබීය.
+🟩
 
-මෙම නඩු විභාගය අවසන් වන තෙක් අදාළ නීතිඥවරයාගේ නීතිඥභාවය අත්හිටුවීමටද අධිකරණය තීන්දු කළේය.
+The Supreme Court has been remanded to be remanded in the opening of the courts in the open court.
 
-ප්‍රීති පද්මන් සූරසේන මහතා ප්‍රමුඛ ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් මෙම නියෝගය ලබා දුන්නහ.
+The court was ordered to be produced before the court on the 3rd of April.
+
+The court also decided to suspend the lawyers of the lawyer until the end of the trial.
+
+The order was issued by a three-member judiciary, a three-member judge.
 
 ◼️
 
 [Data](articles/e155ce37.json)
 
+[Extended Data](ext_articles/e155ce37.ext.json)
+
 ---
 
-### මෝටර් රථයක් හෙලිකොප්ටරයක් කළ හැටි
+### How a car did a helicopter
 
 *2024-03-20 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194730) · `si`
 
-තමන්ගේ මෝටර් රථය හෙලිකොප්ටර් යානයක් ලෙස එහි භාහිර පෙනුම වෙනස් කළ පුද්ගලයෙකු දැක්වෙන වීඩියෝවක් මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වෙයි.
+A man in India was arrested for driving a car modified to look like a helicopter. He claimed it was for renting at weddings and festivals, not to fly. Fined Rs. 2,000, the car was released after removing the helicopter part.
 
-කෙසේ වෙතත් සත්‍ය වශයෙන්ම මෙම සිදුවීම වාර්තා වී ඇත්තේ ඉන්දියාවෙනි.
+🟩
 
-ඉන්දියාවේ උත්තර් ප්‍රදේශ් හි අම්බෙඩ්කා නගර් හි පුද්ගලයෙකු සිය මෝටර් රථයේ භාහිර පෙනුව වෙනස් කර මාර්ගයේ එම රථය ධාවනය කරමින් සිටියදී එය පොලිස් භාරයට ගෙන ඇත.
+The video showing that a person who changed his car as a helicopter as a helicopter, it is currently in social media.
 
-ඔහු පවසන්නේ සිය රථය සකස් කිරීමෙන් අනතුරුව එය වර්ණ ගැන්වීම සඳහා රැගෙන යමින් සිටියදී මෙලෙස පොලිස් භාරයට ගත් බවය.
+However, in fact, the incident has been reported from India.
 
-එහිදී ඔහුට ඉන්දීය රුපියල් 2000කට ආසන්න දඩයක්ද නියම කර ඇති අතර රථය නිදහස් කර ඇත්තේ හෙලිකොප්ටරයක් ලෙස සකස් කළ පසුපස කොටස ගලවා ඉවත්කරන ලෙසට දැනුම්දෙමිනි.
+In Utherrior Pradesh, a man of Ambedca Nagar has been taken into police custody while driving the vehicle.
 
-කෙසේ වෙතත් එම මෝටර් රථයේ අයිතිකරු පවසන්නේ තමන් මෙම රථය මාර්ගයේ ධාවනය කිරීමට සාදන ලද්දක් නොවන බවය.
+He said that he was taken into police custody after completing his vehicle.
 
-එය විවාහ උත්සව අවස්ථා හා විවිධ උත්සව සඳහා කුලියට ලබාදීමට සකස් කරන ලද්දක් බව ඔහු සඳහන් කර තිබේ.
+He was sentenced to a fine of nearly Rs. 2,000 and the vehicle was released to remove the rear part of the helicopter.
 
-එම රථය සැකසීම සඳහා ඔහුට ඉන්දීය රුපියල් ලක්ෂ 2.5ක මුදලක් වැයවූ බවද විදෙස් මාධ්‍ය වෙත වැඩිදුරටත් සඳහන් කර තිබුණි.
+However, the owner of the car says that he is not made to run this vehicle.
+
+He said that it was prepared to rent wedding ceremonies and renting for various festivals.
+
+Foreign media added that he spent 2.5 lakhs of Rs.
 
 ◼️
 
 [Data](articles/26a0182a.json)
+
+[Extended Data](ext_articles/26a0182a.ext.json)
 
 ---
 
@@ -89,6 +119,8 @@ The United States fell in ranking from the 16th spot last year to the 23rd spot 
 ...
 
 [Data](articles/0336bd92.json)
+
+[Extended Data](ext_articles/0336bd92.ext.json)
 
 ---
 
@@ -398,23 +430,29 @@ The country has already investigated further investigations.
 
 ---
 
-### ඉතිහාස පොත නිසා මිතුරා මිතුරියට පොත පෙරලයි
+### The history book has the book the book to friend
 
 *2024-03-20 12:36:52* · [`adalk`](https://www.ada.lk/breaking_news/ඉතිහාස-පොත-නිසා-මිතුරා-මිතුරියට-පොත-පෙරලයි/11-408721) · `si`
 
-ඉතිහාස පොත ඉල්ලා ගැනීමට නිවසට ආ පාසල් සිසුවියකට ලිංගික අතවර කල බව කියන පාසල් සිසුවෙකු සැකපිට ඊයේ  අත්අඩංගුවට ගත්බව පානදුර දකුණ පොලිසිය පවසයි .
+A 16-year-old schoolgirl from Panadura was arrested for allegedly attacking and sexually abusing another student, who was hospitalized. The accused's history book is missing, and she was taken to the Panadura Magistrate's Court.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ පානදුර ප්‍රදේශයේ පදිංචි 16 හැවිරිදි පාසල් සිසුවෙකු බව පොලිසිය කීය.
+🟩
 
-පාසල් සිසුවියගේ ඉතිහාස පොත අස්ථානගත වී ඇති අතර, සැකකාර සිසුවාගෙන් පොතක් ඉල්ලා ගැනීම සඳහා සිසුවිය ඔහුගේ නිවසට ගොස් තිබේ.
+A schoolgirl arrested yesterday, a schoolgirl arrested yesterday, was arrested yesterday.
 
-ඇය සිසුවාගේ නිවසට යන අතරේ එම නිවසේ කිසිවෙක් සිට නොමැති අතර, සැකකාර සිසුවා සිසුවියට පහර දී බිය ගන්වා ලිංගික අතවර කර ඇති බවට පැමිණිල්ලේ සඳහන්ව ඇතැයි පොලිසිය කීය.
+The suspects were a 16 year old schoolgirl, a resident of Panadura.
 
-සිසුවිය  රෝහල් ගතකර ඇති අතර, සිසුවා පානදුර මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
+The history book of the school girl is missing and the student has gone to his home to request a book from the suspect.
+
+While she was gone to the student's house, he said, "The complainant student has been attacked and frightened and sexually abused.
+
+The student was hospitalized and the student was to be produced before the Panadura Magistrate's Court.
 
 ◼️
 
 [Data](articles/207b8d86.json)
+
+[Extended Data](ext_articles/207b8d86.ext.json)
 
 ---
 
@@ -565,6 +603,8 @@ A street drama titled "Sura Baba Komasaris" took place in front of the Excise De
 ◼️
 
 [Data](articles/5368f262.json)
+
+[Extended Data](ext_articles/5368f262.ext.json)
 
 ---
 
@@ -828,21 +868,27 @@ The event will be attended by Ajantha Kumara Akalakada, editor of Daily Lanka, C
 
 ---
 
-### ලෝක ජ්‍යෙෂ්ඨ ශූරතා පාපන්දු තරගාවලියේ කිරුළ ලංකාවට
+### World Senior Championships Ceremony to Sri Lanka
 
 *2024-03-20 11:18:04* · [`adalk`](https://www.ada.lk/sports/ලෝක-ජ්‍යෙෂ්ඨ-ශූරතා-පාපන්දු-තරගාවලියේ-කිරුළ-ලංකාවට/9-408719) · `si`
 
-ඉන්දියාවේ පැවති 09 වන අන්තර්ජාතික ජ්‍යෙෂ්ඨයින්ගේ ලෝක ශූරතා පාපන්දු ශූරතා තරගාවලියට පළමු වරට ශ්‍රී ලංකාව නියෝජනය කරමින් සහභාගී වූ " ඕල්ඩ් බෙන්සන් ජ්‍යෙෂ්ඨ " කණ්ඩායම , එම තරගාවලියේ ශූරතාවය දිනා ගෙන 03/20 දින අලුයම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය.
+The 'Old Bensen Senior' team from Sri Lanka won the World Senior Championships in Bangalore, India, for the first time. Sri Lanka, Malaysia, Norway, South Africa, and England participated. The Sri Lankan team, led by the Principal of St. Benedict's College, flew to India on SpiceJet.
 
-ඉන්දියාවේ බැංගලෝර් නුවර 03/17 දින පැවති මෙම තරගාවලියට ශ්‍රී ලංකාව , ඉන්දියාව , මැලේසියාව , නෝර්වේ , දකුණු අප්‍රිකාව සහ එංගලන්තය සහභාගී වී තිබුණි .
+🟩
 
-අවසාන මහා තරගය ශ්‍රී ලංකාවේ ඕල්ඩ් බෙන්ස් ජ්‍යෙෂ්ඨ කණ්ඩායම  ජ්‍යෙෂ්ඨ කණ්ඩායම සමග නෝර්වේ කණ්ඩායම අතර පැවති අතර එහිදී නෝර්වේ කණ්ඩායම 2 - 1 ක් ලෙස පරාජය කරමින් ශ්‍රී ලංකා කණ්ඩායම ජයග්‍රහණය හිමි කර ගැනීමට සමත් වී තිබුණි .
+The 'Old Bensen Senior' team won the Championship Championship for the first time in Sri Lanka for the first time in India.
 
-මෙම ජයග්‍රාහී ශ්‍රී ලංකා ඕල්ඩ් බෙන්ස් ජ්‍යෙෂ්ඨ කණ්ඩායම 03/20 දින අලුයම 01.25 ට ඉන්දියාවේ බැංගලෝර් නුවර සිට ස්පයිස් ජෙට් ගුවන් සේවයේ එස්.ජී.- 001 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබූ අතර ඔවුන් පිළිගැනීම සදහා සාන්ත බෙනඩික් විදුහලේ විදුහල්පති ආචාර්ය පුබුදු රාජපක්ෂ සහෝදරතුමා ඇතුළු පිරිසක් ගුවන් තොටුපොළ වෙත පැමිණ සිටියහ .
+Sri Lanka, Malaysia, Norway, South Africa, and England have participated in the tournament in Bangalore, India.
+
+The finals were among the senior senior team of Old Benz Senior Group with the senior team, with the senior team, the Sri Lankan team won the win.
+
+The winning Sri Lanka Odd Bens Senior to 01.25 days in India, Spice Jet, India, Pubudu Airport, the Principal of St. Benedict's College, was on the plane, to accept the airport at India.And others were present at the airport.
 
 ◼️
 
 [Data](articles/d58a240c.json)
+
+[Extended Data](ext_articles/d58a240c.ext.json)
 
 ---
 
@@ -2245,25 +2291,5 @@ Some locations in the Sabaragamuwa and Central provinces and in some places are 
 [Data](articles/5971f297.json)
 
 [Extended Data](ext_articles/5971f297.ext.json)
-
----
-
-### Opposition exodus holds no bar on COPE
-
-*2024-03-20 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-exodus-holds-no-bar-on-COPE/108-279200) · `en`
-
-The exodus of opposition MPs from the Committee on Public Enterprises (COPE), a watchdog committee, will have no bearing on the conduct of deliberations since the government’s representation is sufficient enough to maintain the quorum number, a top source said.
-
-Seven opposition MPs who represent the opposition in the COPE which is empowered to examine the financial activities of the statutory boards such as various corporations and bureaus have resigned in protest over the appointment of ruling party MP Rohitha Abeygunawardane as its chairman. They cite concerns in working under a chairman whose name is tainted with allegations of corruption.
-
-However, only three of them had submitted their letters of resignation formally to the parliamentary authorities yesterday.
-
-MPs Eran Wickramaratne, Dayasiri Jayasekera, Professor Charitha Herath, S. M. Marikkar, Gamini Waleboda, Hesha Vithanage, and Shanakiyan Rajaputhiran Rasamanickam announced their resignations so far.
-
-...
-
-[Data](articles/bc4e0924.json)
-
-[Extended Data](ext_articles/bc4e0924.ext.json)
 
 ---

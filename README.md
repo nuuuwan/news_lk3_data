@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 05:37:41**
+As of **2024-03-21 05:56:48**
 
 ## Newspaper Stats
 
-*Scraped **14,190** Articles*
+*Scraped **14,213** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ colombotelegraphcom | 132
 bbccomsinhala | 157
 dbsjeyarajcom | 190
 newsfirstlk | 363
-dailyftlk | 741
+dailyftlk | 752
 economynextcom | 760
-islandlk | 770
+islandlk | 782
 adalk | 1,226
 adaderanalk | 1,704
 tamilmirrorlk | 1,718
@@ -26,11 +26,211 @@ adaderanasinhalalk | 2,263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,185 (100.0%) of 14,190 articles have been extended.
+14,185 (99.8%) of 14,213 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### Sri Lanka India Society celebrates 75 years of strengthening bonds of friendship
+
+*2024-03-21 05:46:33* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-India-Society-celebrates-75-years-of-strengthening-bonds-of-friendship/56-759744) · `en`
+
+Sri Lanka India Society (SLIS) President Kishore Reddy and the executive committee of the society organised a commemorative dinner to celebrate the 76th Independence Day of Sri Lanka and the 75th Republic Day of India, with President Ranil Wickremesinghe as the Chief Guest and High Commissioner of Sri Lanka to India Santosh Jha as the Guest of Honour. This year, the society is celebrating its 75th anniversary.
+
+The event also saw the presence of distinguished guests, including the First Lady Prof. Maithree Wickremesinghe, Madam Tanuja Jha, the Chief Justice of Sri Lanka Jayantha Jayasuriya PC, Kalyani Jayasuriya, Ministers Manusha Nanayakkara and Arvindh Kumar, Eastern Province Governor Senthil Thondaman, Chief of Staff Sagala Ratnayake, Members of Parliament, diplomats, society members, officials, and numerous other dignitaries, all gathered to celebrate an evening of camaraderie at the Taj Samudra Hotel in Colombo.
+
+...
+
+[Data](articles/a61a9c17.json)
+
+---
+
+### IOM, ILO, and Japan join hands to promote safe and regular migration
+
+*2024-03-21 05:44:19* · [`dailyftlk`](https://www.ft.lk/news/IOM-ILO-and-Japan-join-hands-to-promote-safe-and-regular-migration/56-759743) · `en`
+
+Joint initiative titled “UPLIFT” to support reintegration and skills enhancement for aspirant and returnee migrants, and victims of human trafficking
+
+Under a USD 2.6 Million funding support from the Government of Japan, the International Organisation for Migration (IOM), and the International Labour Organisation (ILO) have launched “UPLIFT” a 12-month long project.
+
+The initiative will contribute towards the sustainable socioeconomic reintegration, and enhancing of skills and livelihood of returnees, aspirant migrant workers, and victims of human trafficking. This project is a successive initiative of the previously implemented project by IOM, ILO and Japan to promote the economic recovery and growth of Sri Lanka.
+
+The rapid changes in the socio-economic contexts have exacerbated migrant workers’ vulnerability to irregular migration and human trafficking. Lack of awareness on safe migration pathways and the existing national qualification frameworks have also contributed to this.
+
+...
+
+[Data](articles/2a29bbbb.json)
+
+---
+
+### Inoka Bandara bags coveted Freda Corea Award
+
+*2024-03-21 05:42:53* · [`dailyftlk`](https://www.ft.lk/news/Inoka-Bandara-bags-coveted-Freda-Corea-Award/56-759742) · `en`
+
+The coveted Freda Corea award was bagged by Silumina newspaper’s Business Editor Inoka Perera Bandara in this year’s competition held by the Gamani Corea Foundation.
+
+The award was in recognition of Inoka’s efforts in encouraging and amplifying the work of small and medium-scale businesses led by women’s entrepreneurs who have contributes to the economic development of Sri Lanka whilst gathering data which is useful to policymakers.
+
+Gamani Corea, a renowned and respected economist in Sri Lanka, was the UNCTAD Secretary General and conducted extensive research on the development of Sri Lanka’s economy.
+
+Inoka has previously won the Gold Award for Career Achievement in the Print Media category at the Top 50 Professional and Career Women Awards Sri Lanka - 2020.
+
+...
+
+[Data](articles/fbf0a2da.json)
+
+---
+
+### Empowering Eastern Sri Lanka: Strengthening information rights for citizenry
+
+*2024-03-21 05:41:44* · [`dailyftlk`](https://www.ft.lk/news/Empowering-Eastern-Sri-Lanka-Strengthening-information-rights-for-citizenry/56-759741) · `en`
+
+In a concerted effort to bolster the capacity of state officials in safeguarding the information rights of citizens, a pioneering initiative is set to unfold across the districts of Trincomalee, Batticaloa, and Ampara.
+
+The project, titled “Innovative Space for Promoting Freedom of Expression and Information Rights,” is generously funded by the Commonwealth Foundation and implemented by the Sri Lanka Development Journalist Forum (SDJF).
+
+With a focused agenda on enhancing the capabilities of information officers, a cohort of 120 participants convened for a day workshop, facilitated by Chief Editor of Vidiyal and prominent journalist cum Right to Information (RTI) activist Rifthi Ali the workshops engaged attendees through immersive methodologies such as case studies, demonstrations, and interactive dialogues.
+
+...
+
+[Data](articles/03341674.json)
+
+---
+
+### Consulate General in Dubai woos UAE to explore the splendours of Sri Lanka
+
+*2024-03-21 05:40:03* · [`dailyftlk`](https://www.ft.lk/business/Consulate-General-in-Dubai-woos-UAE-to-explore-the-splendours-of-Sri-Lanka/34-759740) · `en`
+
+Unveils a tapestry of opportunities in Sri Lanka under the theme “Sri Lanka Beyond Your Dreams”
+
+The Consulate General of Sri Lanka in Dubai orchestrated a grand event at the Hilton Hotel, Habtoor
+
+City, Dubai, United Arab Emirates, on 8 March unveiling the rich tapestry of Sri Lanka’s multifaceted offerings under the theme “Sri Lanka Beyond Your Dreams.”
+
+The event was a resounding success, focusing on promoting Sri Lanka’s potential in tourism, investment, trade and foreign employment.
+
+The year 2024 commemorates the 25th Anniversary of the elevation of the Consulate’s status to “Consulate General,” adding an extra layer of significance to the occasion.
+
+The Consul General Alexi Gunasekera extended a warm welcome to the guests in his opening address, setting the stage for an evening that would spotlight Sri Lanka’s diverse allure.
+
+...
+
+[Data](articles/ce0a53c4.json)
+
+---
+
+### Court of Appeal grants injunction against Health Minister, State Minister of Production, Supply and Regulation of Pharmaceuticals
+
+*2024-03-21 05:35:51* · [`dailyftlk`](https://www.ft.lk/business/Court-of-Appeal-grants-injunction-against-Health-Minister-State-Minister-of-Production-Supply-and-Regulation-of-Pharmaceuticals/34-759739) · `en`
+
+Spectrum Pharmatech files case over Pharmaceutical Zone in Oyamaduwa, Anuradhapura
+
+The Court of Appeal, yesterday on an application preferred by Spectrum Pharmatech Lanka Ltd., the Zone Developer in the “Suwa Siri Pura” Pharmaceutical Production Zone in Oyamaduwa, Anuradhapura, granted an Injunction against the Minister of Health and State Minister of State Ministry of Production, Supply and Regulation of Pharmaceuticals.
+
+The injunction restrains them from taking any steps to act in contravention to the Development and Management Agreement and the agreement to arbitrate therein in any manner whatsoever. This includes taking any steps to alter the positions with the investor tenants and the Pharmaceutical Zone in Oyamaduwa, Anuradhapura which prevailed as at the 1 March 2024 until the disputes are resolved by Arbitration, effective till the next date.
+
+...
+
+[Data](articles/2203606b.json)
+
+---
+
+### EDB webinar today on packaging materials, techniques for spices and allied products
+
+*2024-03-21 05:26:17* · [`dailyftlk`](https://www.ft.lk/business/EDB-webinar-today-on-packaging-materials-techniques-for-spices-and-allied-products/34-759738) · `en`
+
+Sri Lanka Export Development Board (EDB) will host a webinar on packaging materials and techniques for spices and allied products so that they meet international standards.
+
+The webinar is scheduled to be held on Thursday (21) from 02:00 p.m. to 03:00 p.m., via zoom aimed at supporting both potential entrepreneurs and newcomers venturing into the spice industry.
+
+Led by the National Packaging Center of the Sri Lanka Export Development Board, the webinar will be moderated by its Assistant Director Helmali Witharana and presented by Assistant Director Indika Sugathadasa, who are experts in the field.
+
+Participants can anticipate a comprehensive exploration of crucial topics, including the importance of packaging in the spice sector, effective packaging techniques, insights into packaging materials and machinery, and emerging trends in innovative packaging.
+
+...
+
+[Data](articles/8fe13ec5.json)
+
+---
+
+### Adani Group to invest US$ 14 b in FY25 across all sectors and markets
+
+*2024-03-21 05:25:38* · [`dailyftlk`](https://www.ft.lk/business/Adani-Group-to-invest-US-14-b-in-FY25-across-all-sectors-and-markets/34-759737) · `en`
+
+Adani Group said this week it plans to invest about $14 billion across its portfolio companies that range from ports to energy, airports, commodities, cement, and media in the fiscal year starting 1 April, as it doubles down on its $100 billion investment guidance over the next 7-10 years to grow businesses, sources said.
+
+In the final quarter of 2023, Adani’s portfolio reported record EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortisation) growth of 63.6%, taking its 12-month EBITDA to an all-time high of $9.5 billion in 2023.
+
+The projected capital expenditure or capex for the 2024-25 (April 2024 to March 2025) fiscal is 40% higher than what the portfolio is estimated to have incurred in FY24. According to analysts, the portfolio is estimated to have incurred a capex of around $10 billion in FY24 which ends on March 31.
+
+...
+
+[Data](articles/8a1baf13.json)
+
+---
+
+### Govt. initiates measures to support farmers ahead of Yala cultivation season
+
+*2024-03-21 05:24:25* · [`dailyftlk`](https://www.ft.lk/business/Govt-initiates-measures-to-support-farmers-ahead-of-Yala-cultivation-season/34-759736) · `en`
+
+The Government has announced crucial decisions aimed at ensuring the availability and affordability of essential chemical fertilizers for farmers countrywide.
+
+The National Fertiliser Secretariat estimates indicate the required volume of urea, TSP (Triple Super Phosphate), and MOP (Muriateo of Potash) for the upcoming season.
+
+To address the fertilizer needs for the 2024 ‘Yala’ season, the Cabinet of Ministers approved a proposal submitted by Agriculture Minister Mahinda Amaraweera to implement several crucial measures.
+
+Firstly, fertiliser importation will be facilitated through State-run, the Ceylon Fertiliser Company Ltd., and the Colombo Commercial Fertiliser Company Ltd.
+
+...
+
+[Data](articles/145fbf8f.json)
+
+---
+
+### WNPS Monthly Lecture today
+
+*2024-03-21 05:24:04* · [`dailyftlk`](https://www.ft.lk/business/WNPS-Monthly-Lecture-today/34-759735) · `en`
+
+Anya Ratnayaka to speak on Unmasking Sri Lanka’s Small Wild Cats
+
+Anya Ratnayaka Founder of the Urban Fishing Cat Conservation Project
+
+The Wildlife and Nature Protection Society will hold its monthly lecture today at 6.00 p.m. at the Jasmine Hall, BMICH.
+
+Specialist Anya Ratnayaka will speak on to speak on  “Insights into Feline Ecology:  Unmasking Sri Lanka’s Small Wild Cats.”
+
+In the March 2024 NTB WNPS monthly lecture, PhD Candidate Anya Ratnayaka, from the University of Queensland, will unveil the secrets of Sri Lanka’s small wild cats and shed light on their secretive lives as well as the critical conservation efforts needed to safeguard these iconic species and their habitats.
+
+...
+
+[Data](articles/c0bc3b24.json)
+
+---
+
+### Opposition exposes Speaker’s alleged partisan behaviour during NCM debate
+
+*2024-03-21 05:21:31* · [`dailyftlk`](https://www.ft.lk/news/Opposition-exposes-Speaker-s-alleged-partisan-behaviour-during-NCM-debate/56-759734) · `en`
+
+SJB MP Eran Wickramaratne accuses Speaker of ignoring SC directives when endorsing OSA
+
+Says by doing so he has violated not only SC directives but Constitution as well
+
+NPP leader Anura Kumara Dissanayake reveals Speaker’s unorthodox communication with President on IGP’s appointment
+
+Claims Speaker instead of announcing vote results allowed President to decide on matter
+
+TNA MP M.A. Sumanthiran questions Speaker’s literacy in failing to follow SC directives relating to OSA
+
+Govt. MP Mahindananda Aluthgamage supports Speaker and says NCM must be brought against Constitutional Council instead
+
+The opposition ripped into Speaker Mahinda Yapa Abeywardena in parliament over the past two days questioning his impartiality and independence during the No Confidence Motion debate against him brought forward by the Opposition party Samagi Jana Balawegaya (SJB) over his recent actions concerning the enactment of the Online Safety Act (OSA) and the appointment of the Inspector General of Police.
+
+...
+
+[Data](articles/5502ece3.json)
+
+---
 
 ### Dayasiri urges SL to foster new generation of visionary leaders
 
@@ -334,6 +534,36 @@ The shooting has taken place when the underworld gangs are suspected to be invol
 
 ---
 
+### Home remedies for pimples
+
+*2024-03-20 23:01:00* · [`islandlk`](http://island.lk/home-remedies-for-pimples/) · `en`
+
+I’ve had inquiries, coming my way, about pimples, and how to get rid of them.
+
+Okay, try the following and I’m sure the results will surprise you!
+
+You Will Need – 01 teaspoon of orange peel powder, and 01 teaspoon of raw honey
+
+Mix equal portions of orange peel powder with honey. Mix it well to ensure that all lumps are removed and the paste is smooth.
+
+Apply this paste on the affected areas of your face which are marred by pimples.
+
+Let it stay for 10-15 minutes and then wash it off with lukewarm water.
+
+(Try this once every alternate day to remove those pimple marks)
+
+This effective home remedy is a sure-shot way to prevent the surfacing of new acne lesions and it also helps in the growth of healthy skin cells that helps to remove pimple marks.
+
+Rub the coconut oil between your palms and dab it gently over the affected areas of your face
+
+Leave it overnight for a better result, and wash it off the next morning.
+
+...
+
+[Data](articles/25c18a4a.json)
+
+---
+
 ### Former Minister Gamini Dissanayake commemorated
 
 *2024-03-20 22:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Former-Minister-Gamini-Dissanayake-commemorated/110-279272) · `en`
@@ -363,6 +593,64 @@ At the commencement of yesterday’s meeting, the new COPE chairman stated that 
 [Data](articles/afd8a599.json)
 
 [Extended Data](ext_articles/afd8a599.ext.json)
+
+---
+
+### Classic Wild leads the charge: Principal Sponsor for WNPS Small Cats project
+
+*2024-03-20 22:31:00* · [`islandlk`](http://island.lk/classic-wild-leads-the-charge-principal-sponsor-for-wnps-small-cats-project/) · `en`
+
+Classic Wild, the premier provider of immersive wildlife experiences, proudly announces its latest conservation initiative, the sponsorship of the “Small Cats Project” conducted by the Wildlife & Nature Protection Society (WNPS). With a mission to safeguard the Rusty-spotted Cat, Jungle Cat, and Fishing Cat, ensuing their overall commitment to preserving these elusive feline species and their habitats.
+
+The “Small Cats Project” spearheaded by WNPS aims to gather crucial data on the distribution, behaviour, and population density of these small cat species. By conducting extensive research, including field surveys and data analysis, the project seeks to uncover insights into the unique behaviours and ecological requirements of each species.
+
+...
+
+[Data](articles/596af767.json)
+
+---
+
+### SLIM Kantar People’s Awards 2024 celebrates Sri Lankans’ favourite brands and personalities
+
+*2024-03-20 22:30:00* · [`islandlk`](http://island.lk/slim-kantar-peoples-awards-2024-celebrates-sri-lankans-favourite-brands-and-personalities/) · `en`
+
+The 18th consecutive SLIM Kantar People’s Awards concluded successfully on the 19th March 2024, at the Monarch Imperial. The Awards were presented to the winners amidst an atmosphere of glitz and glamour, marking the significance of this milestone in the annals of marketing excellence in Sri Lanka. The ceremony was attended by more than 600 distinguished guests, including top-level corporate leaders, media personnel, dignitaries and celebrities.
+
+...
+
+[Data](articles/53e554b8.json)
+
+---
+
+### The George Keyt Foundation ‘Sri Lankan Artists 2024’ exhibition returns to celebrate nation’s artistic brilliance
+
+*2024-03-20 22:29:00* · [`islandlk`](http://island.lk/the-george-keyt-foundation-sri-lankan-artists-2024-exhibition-returns-to-celebrate-nations-artistic-brilliance/) · `en`
+
+The long-awaited ‘Sri Lankan Artists 2024’ exhibition organized by The George Keyt Foundation will make a resounding comeback after a six-year hiatus. The grand opening will take place on 22 March 2024 at the JDA Perera Gallery in Colombo and continue until 26 March.
+
+The George Keyt Foundation’s ‘Sri Lankan Artists 2024’ exhibition not only celebrates the nation’s artistic brilliance but also serves as a platform for nurturing and promoting emerging artists. With future plans to collaborate with the government, the exhibition aims to facilitate international exposure for Sri Lankan artists through art fairs abroad.
+
+...
+
+[Data](articles/f6e55c4d.json)
+
+---
+
+### Sri Lanka Insurance hosts seminar on Enhancing Law Enforcement Leadership and Communication
+
+*2024-03-20 22:27:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-hosts-seminar-on-enhancing-law-enforcement-leadership-and-communication/) · `en`
+
+Sri Lanka Insurance, in collaboration with Sri Lanka Insurance Life Limited (SLICLL) and Sri Lanka Insurance General Limited (SLICGL), organized an enriching seminar focused on “Enhancing Law Enforcement Leadership and Communication.” Held on March 7, 2024, at the SLIC head office, the event featured Senior Deputy Inspector General for the Eastern Province, Ajith Rohana, as the keynote speaker.
+
+During the seminar, Senior DIG Ajith Rohana delivered a captivating session, drawing from his extensive experience in law enforcement and public communication. His discourse emphasized crucial elements of effective communication and leadership strategies tailored for professionals in law enforcement.
+
+Related Topics:Enhancing Law Enforcement Leadership and CommunicationSri Lanka InsuranceSri Lanka Insurance General LimitedSri Lanka Insurance Life Limited
+
+Nestlé Lanka honoured at Best Corporate Citizen Sustainability Awards 2023
+
+...
+
+[Data](articles/93fb01fb.json)
 
 ---
 
@@ -403,6 +691,22 @@ The discussions centered around various areas of mutual interest, including econ
 [Data](articles/5dc1a511.json)
 
 [Extended Data](ext_articles/5dc1a511.ext.json)
+
+---
+
+### Bourse indices dip as share trading treads negative territory
+
+*2024-03-20 22:22:00* · [`islandlk`](http://island.lk/bourse-indices-dip-as-share-trading-treads-negative-territory/) · `en`
+
+Stock market trading yesterday was somewhat dull considering that it was bullish over the last few days. The reason was profit- takings among blue chip counters, which moved the market to negative territory, market analysts said.
+
+Further, the year to date net foreign outflow at the stock market crossed the Rs. 8 billion mark while local investors continued to book profit, causing indices to dip. Consequently, both indices moved downwards. The All Share Price Index went down by 35.37 points while S and P SL20 index dipped by 0.86 points.
+
+Turnover stood at Rs 910 million with one crossing. The crossing was reported in JKH, which crossed 150,000 shares to the tune of Rs 28.34 million; its shares traded at Rs 189.
+
+...
+
+[Data](articles/f032de9f.json)
 
 ---
 
@@ -1859,379 +2163,5 @@ Further investigations into the incident are being carried out by the police.
 [Data](articles/cc015999.json)
 
 [Extended Data](ext_articles/cc015999.ext.json)
-
----
-
-### Protesters dispersed with tear gas and water cannons
-
-*2024-03-20 15:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Protesters-dispersed-with-tear-gas-and-water-cannons/108-279245) · `en`
-
-Colombo, March 20 (Daily Mirror) - Tension escalated in Pettah, Colombo as police confronted a group of demonstrators with tear gas and water cannons.
-
-The protest, orchestrated by the 'Jana Aragala Viyaparaya' (People’s Struggle Movement), centered on a myriad of grievances including the skyrocketing cost of living and contentious foreign agreements.
-
-◼️
-
-[Data](articles/d416e0e8.json)
-
-[Extended Data](ext_articles/d416e0e8.ext.json)
-
----
-
-### The value of the US dollar than 300 rupees
-
-*2024-03-20 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/179226) · `ta`
-
-The Sri Lankan rupee's value against the US dollar has strengthened, with the US dollar's procurement price dropping to Rs 299.1361, a first since July 2023.
-
-🟩
-
-The value of the Sri Lankan rupee against the US dollar has been further strengthened based on the currency exchange rate released by the Central Bank on Wednesday (March 20).
-
-Accordingly, the price of the US dollar was Rs 299.1361 and the sales price were Rs 308.7249.
-
-This is the first time the US dollar procurement price declined by 300 rupees since July 2023.
-
-◼️
-
-[Data](articles/72363ba8.json)
-
-[Extended Data](ext_articles/72363ba8.ext.json)
-
----
-
-### Explosive incident in Pakistan mine: 12 killed
-
-*2024-03-20 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/179232) · `ta`
-
-12 killed in Pakistan coal mine explosion. Rescue operations completed. 20 inside, 8 rescued, 12 killed.
-
-🟩
-
-Officials said that 12 people were killed in an explosion at a Pakistani coal mine.
-
-A Balochistan province mining surveillance official said the rescue operations were completed this afternoon.
-
-There were 20 employees inside the tunnel when the explosion took place. He said eight of them were rescued and 12 were killed.
-
-◼️
-
-[Data](articles/9551e55e.json)
-
-[Extended Data](ext_articles/9551e55e.ext.json)
-
----
-
-### Nine people, including Anura Kumara from Cobb group
-
-*2024-03-20 15:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/179231) · `ta`
-
-Nine, including Anura Kumara, resigned from the Government Responsibility Committee. MPs Anuragumara Dissanayake, Vasanthappa Bandara, and Duminda Dissanayake also resigned. Following Rohitha Abeygunawardena's leadership, Kopku Group members resigned in protest. After P Eran Wickramaratne's resignation, opposition MPs Dayasiri Jayasekara, Saritha Herath, Hesha Vidanage, SM Markar, and Chanakyan resigned. They held a press conference explaining their resignations.
-
-🟩
-
-Three more resigned from the Government Responsibility (COP) Committee on Tuesday (19) and nine members have resigned from the committee to date.
-
-Today, MPs Anuragumara Dissanayake, Vasanthappa Bandara and Duminda Dissanayake have resigned from their membership.
-
-Following the appointment of PA Member Rohitha Abeygunawardena as the leader of the Kopku Group, members are resigning their members from the committee to protest.
-
-The United People's Shakti M.. Following the resignation of P Eran Wickramaratne yesterday, opposition independent MPs Dayasiri Jayasekara, Saritha Herath, United People's Shakti MPs Hesha Vidanage,, SM Markar and Tamil National Alliance MP Chanakyan resigned.
-
-Yesterday, Dayasiri Jayasekara, Hesha Vidanage and Chanakyan Rasamanikam organized a press conference in the parliamentary building and explained to the media.
-
-...
-
-[Data](articles/a5afd8e4.json)
-
-[Extended Data](ext_articles/a5afd8e4.ext.json)
-
----
-
-### Tear gas and water cannons fired at protesters in Pettah
-
-*2024-03-20 15:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98079/tear-gas-and-water-cannons-fired-at-protesters-in-pettah) · `en`
-
-Police resorted to using tear gas and water cannons to disperse a group of protesters in Pettah, Colombo.
-
-The demonstration had been organized by the ‘Jana Aragala Viyaparaya’ (People’s Struggle Movement) based on several issues including the soaring cost of living and certain foreign agreements.
-
-The protest march had commenced from near the Fort Railway Station and they were heading in the direction of Pettah when riot police used tear gas and water cannons to disperse them , Ada Derana reporter said.
-
-◼️
-
-[Data](articles/743bb704.json)
-
-[Extended Data](ext_articles/743bb704.ext.json)
-
----
-
-### Damitha and the order of husbands on the 27th
-
-*2024-03-20 15:04:12* · [`adalk`](https://www.ada.lk/breaking_news/දමිතා-සහ-සැමියාගේ-ඉල්ලීමට-අදාළ-නියෝගය-ලබාදීම-ලබන-27දා/11-408725) · `si`
-
-Damitha and her husband face legal issues, with the Computer Crimes Division opposing their actions. The court postponed arrest, citing misconceptions under the Immigration and Emigration Act.
-
-🟩
-
-The Computer Crimes Division (Mrs. Damitha Abeyratne, who has been accused of defrauding Rs.. Accordingly, the Computer Crime Division has been informed of misconception under the Immigration and Emigration Act. Police also opposed the desired policy of Mrs. Damitha Abeyratne and her husband.
-
-Accordingly, Fort Magistrate Thilina Gamage stated that the order on the court of the court was postponed to not arrest them.
-
-◼️
-
-[Data](articles/7b644239.json)
-
-[Extended Data](ext_articles/7b644239.ext.json)
-
----
-
-### Mistually got home - Anura Kumara
-
-*2024-03-20 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194735) · `si`
-
-Anura Kumara Dissanayake criticizes Speaker Mahinda Yapa Abeywardena for unreasonable behavior, calling for a national election to remove all current officials. He accuses the Speaker of bringing his family into politics, including appointing his children to key positions.
-
-🟩
-
-Leader of the National Power Anura Kumara Dissanayake says that the Speaker has never been reasonable.
-
-He said in Parliament today (20), Yapa brought a generation to Parliament.
-
-He was speaking at the debate on the no-confidence motion against Speaker Mahinda Yapa Abeywardena.
-
-"People's faith in Parliament has been terrorized. There is a national election within 6 months to remove all of them. Therefore, the Speaker has won the election tomorrow, but it must have to go home in six months. "
-
-"What happened to Mahinda Yapa Abeywardena?. This is not just Yapa's meltness and a melt of our country's politics. "
-
-"Speaker. He is afraid of the government. Opposition is also afraid of the opposition. Opposition lease has led to the collid of this House for nearly 2 hours. "
-
-...
-
-[Data](articles/a3cec4ca.json)
-
-[Extended Data](ext_articles/a3cec4ca.ext.json)
-
----
-
-### Water and tear gas from police
-
-*2024-03-20 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194734) · `si`
-
-Police in Pettah used water and tear gas to disperse a protest organized by the People's Struggle Movement.
-
-🟩
-
-Police and tear gas were attacked in Pettah to dissolve an objection organized by the People's Struggle Movement.
-
-◼️
-
-[Data](articles/6a0d1506.json)
-
-[Extended Data](ext_articles/6a0d1506.ext.json)
-
----
-
-### Good news for the whole country
-
-*2024-03-20 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194733) · `si`
-
-The Meteorology Department predicts dry weather changes starting tomorrow, with showers expected in the Eastern Uva and Northern provinces. Evening or night showers may occur in Western, Sabaragamuwa, Central, Uva, Northwestern, and North-central areas. Some locations in Sabaragamuwa and Central provinces may experience heavy rain, leading to potential flooding in Galle and Matara districts. The Department advises taking precautions against wind and lightning.
-
-🟩
-
-The Meteorology Department says that a change of dry weather conditions in the island will be expected from tomorrow.
-
-According to the Eastern Uva and northern provinces, several showers will occur in the Eastern Uva and Northern provinces.
-
-Showers, in the evening or night in the Western, Sabaragamuwa, Central, Uva and Northwestern and North-central areas can occur.
-
-In some places in the Sabaragamuwa and Central provinces, some locations are expected to look at the murder in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/78a30ed9.json)
-
-[Extended Data](ext_articles/78a30ed9.ext.json)
-
----
-
-### Sri Lanka parliament’s COPF recommends suspending central bank salary hike
-
-*2024-03-20 14:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliaments-copf-recommends-suspending-central-bank-salary-hike-155365/) · `en`
-
-ECONOMYNEXT – Sri Lanka Parliament’s Committee on Public Finance has recommended the suspension of steep salary hike its staff was paid under on the claim of central bank independence, pending examination by an independent committee.
-
-The committee should be appointed by President Ranil Wickremesinghe with the concurrence of Central Bank Governor Nandalal Weerasinghe with independent members, COPF Chair Harsha de Silva told parliament.
-
-The committee can have members made up of the central bank, independent persons, government representatives, he said.
-
-The committee should come up with a transparent system for deciding salaries in the future, de Silva said.
-
-The COPF recommends that until a mutually acceptable salary increment is agreed, the Central Bank should suspend the current hike, de Silva said.
-
-The salary scales of professional and non-professional grades should be de-linked, he said.
-
-An office assistant’s salary was hiked to 186,000 rupees, it was revealed in parliament.
-
-...
-
-[Data](articles/8b7fe2e0.json)
-
-[Extended Data](ext_articles/8b7fe2e0.ext.json)
-
----
-
-### Time-restricted eating linked to 91% higher risk of cardiovascular death
-
-*2024-03-20 14:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Time-restricted-eating-linked-to-91-higher-risk-of-cardiovascular-death/108-279240) · `en`
-
-March 20 - An analysis of over 20,000 U.S. adults found that people who limited their eating across less than 8 hours per day, a time-restricted eating plan, were more likely to die from cardiovascular disease compared to people who ate across 12-16 hours per day.
-
-This is according to preliminary research presented at the American Heart Association’s Epidemiology and Prevention│Lifestyle and Cardiometabolic Scientific Sessions 2024, March 18- 21, in Chicago. The meeting offers the latest science on population-based health and wellness and implications for lifestyle.
-
-...
-
-[Data](articles/d8eb1d8b.json)
-
-[Extended Data](ext_articles/d8eb1d8b.ext.json)
-
----
-
-### Why The Sri Lankan Rupee Is Appreciating
-
-*2024-03-20 14:44:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/why-the-sri-lankan-rupee-is-appreciating/) · `en`
-
-From November 30th last year, the Sri Lankan Rupee is appreciating against the US Dollar gradually. The Rupee value of a dollar on November 30th was Rs. 329 and the same on March 20th was Rs. 304. Sri Lanka is experiencing an appreciation of the Rupee for a second time.
-
-Over decades the value of the Dollar in Rupees increased gradually. During the economic crisis for a short period from March 7th 2022 to May 13th 2022 the value of a Dollar in Rupees increased from Rs. 202 to Rs. 369. For the first time in the history the value of the Dollar in Rupees started decreasing from February 26th 2023 to June 8th, 2023 from Rs. 364 to Rs. 290. This was the result of stabilizing the Rupee shedding the speculative trends.
-
-...
-
-[Data](articles/178dd685.json)
-
-[Extended Data](ext_articles/178dd685.ext.json)
-
----
-
-### Scientists say they can cut HIV out of cells
-
-*2024-03-20 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98078/scientists-say-they-can-cut-hiv-out-of-cells) · `en`
-
-Scientists say they have successfully eliminated HIV from infected cells, using Nobel Prize-winning Crispr gene-editing technology.
-
-Working like scissors, but at the molecular level, it cuts DNA so “bad” bits can be removed or inactivated.
-
-The hope is to ultimately be able to rid the body entirely of the virus, although much more work is needed to check it would be safe and effective.
-
-Existing HIV medicines can stop the virus but not eliminate it.
-
-The University of Amsterdam team, presenting a synopsis, or abstract, of their early findings at a medical conference this week, stress their work remains merely “proof of concept” and will not become a cure for HIV any time soon.
-
-And Dr James Dixon, stem-cell and gene-therapy technologies associate professor at the University of Nottingham, agrees, saying the full findings still require scrutiny.
-
-“Much more work will be needed to demonstrate results in these cell assays can happen in an entire body for a future therapy,” he said.
-
-...
-
-[Data](articles/947271d3.json)
-
-[Extended Data](ext_articles/947271d3.ext.json)
-
----
-
-### A required machine in the hospital collapses
-
-*2024-03-20 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194732) · `si`
-
-A machine in a hospital collapsed on Feb 29, disabling radiation treatment. The Radiology Technicians Association of the Government Radiology of Radio Technology (SSR) announced this. The "Lineier Accelerator Machine" was affected, and it's not operational. This has impacted 10 to 15 children. A private hospital will bear the costs.
-
-🟩
-
-The Radiology Technicians Association of the Government Radiology of Radio Technology (SSR) says that the radiation treatment has been disabled from 29 February.
-
-The "Lineier Accelerator Machine" has been collapsed on February 29, said Chairman Chanaka Dharmawickrema said that it was not restored.
-
-As a result, 10 to 15 young children have been treated at least 10 to 15 children.
-
-He added that a private hospital will have to spend between Rs.
-
-◼️
-
-[Data](articles/521627e0.json)
-
-[Extended Data](ext_articles/521627e0.ext.json)
-
----
-
-### Explanation to the lawyer who insulted the court
-
-*2024-03-20 14:35:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தை-அவமதித்த-சட்டத்தரணிக்கு-விளக்கமறியல்/175-334929) · `ta`
-
-The High Court has ordered the Attorney General to file an indictment against him for contempt of court by the 3rd of this month. Attorney Jayatunga is under interrogation, with High Court Judges Prithi Padman Surasena, Gamini Amaratunga, and Kumuduni Wickremesinghe present.
-
-🟩
-
-The High Court has ordered the Attorney General to file an indictment against him under the jurisdiction of a court contempt of court until the 3rd of this month.
-
-Attorney Jayatunga has been placed in interrogation. High Court Judges Prithi Padman Surasena, Gamini Amaratunga and Kumuduni Wickremesinghe were present.
-
-◼️
-
-[Data](articles/e9ea1c89.json)
-
-[Extended Data](ext_articles/e9ea1c89.ext.json)
-
----
-
-### 850000 service from Katunayake
-
-*2024-03-20 14:16:35* · [`adalk`](https://www.ada.lk/breaking_news/කටුනායකින්-මගින්-850000ක්-සේවය-ලබාගෙන/11-408724) · `si`
-
-Katunayake Sri Lanka Ltd. Chairman Athala reported 850,000 passengers from Jan 1 to Mar 1, 2024, aiming for 10 million by year-end. The airport's 2022 passenger count was 5 million.
-
-🟩
-
-Sri Lanka (Pvt) Ltd.Chairman Athala, Athala, said.
-
-According to Mr. Heroices, 850,000 passengers obtained from 1st January to March 1, 2024.
-
-He also believed to use 10 million passengers to use the airport by the end of this year, he said.
-
-The total number of Katunayake Bandaranaike International Airport in the Katunayake Bandaranaike International Airport in 2022 was 5 million and increased to Rs.
-
-◼️
-
-[Data](articles/b19d76d4.json)
-
-[Extended Data](ext_articles/b19d76d4.ext.json)
-
----
-
-### Scientists say they can cut HIV out of cells
-
-*2024-03-20 14:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Scientists-say-they-can-cut-HIV-out-of-cells/108-279239) · `en`
-
-March 20, (BBC) - Scientists say they have successfully eliminated HIV from infected cells, using Nobel Prize-winning Crispr gene-editing technology.
-
-Working like scissors, but at the molecular level, it cuts DNA so "bad" bits can be removed or inactivated.
-
-The hope is to ultimately be able to rid the body entirely of the virus, although much more work is needed to check it would be safe and effective.
-
-Existing HIV medicines can stop the virus but not eliminate it.
-
-The University of Amsterdam team, presenting a synopsis, or abstract, of their early findings at a medical conference this week, stress their work remains merely "proof of concept" and will not become a cure for HIV any time soon.
-
-And Dr James Dixon, stem-cell and gene-therapy technologies associate professor at the University of Nottingham, agrees, saying the full findings still require scrutiny.
-
-"Much more work will be needed to demonstrate results in these cell assays can happen in an entire body for a future therapy," he said.
-
-◼️
-
-[Data](articles/687b0991.json)
-
-[Extended Data](ext_articles/687b0991.ext.json)
 
 ---

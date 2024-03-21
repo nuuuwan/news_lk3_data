@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 13:18:01**
+As of **2024-03-21 13:33:31**
 
 ## Newspaper Stats
 
-*Scraped **14,299** Articles*
+*Scraped **14,300** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 764
 islandlk | 782
 adalk | 1,233
 adaderanalk | 1,716
-tamilmirrorlk | 1,729
+tamilmirrorlk | 1,730
 virakesarilk | 2,006
 dailymirrorlk | 2,190
 adaderanasinhalalk | 2,280
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,280
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,295 (100.0%) of 14,299 articles have been extended.
+14,299 (100.0%) of 14,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### அமைச்சரின் மனைவிக்கு நீதிமன்றம் கடும் கட்டளை
+
+*2024-03-21 13:12:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரின்-மனைவிக்கு-நீதிமன்றம்-கடும்-கட்டளை/175-334987) · `ta`
+
+நீதவான் நீதிமன்றில் இடம்பெற்ற வழக்கு தொடர்பான நீதிமன்றில் ஆஜராகுமாறு முன்னர் வழங்கிய உத்தரவை மீறியதாகக் கூறப்படும் அமைச்சரவை அமைச்சர் ஒருவரின் மனைவியை எதிர்வரும் 22ஆம் திகதி நீதிமன்றத்தில் ஆஜராகுமாறு தம்புத்தேகம நீதவான் புத்திக மல்வத்த உத்தரவிட்டுள்ளார்.
+
+இந்த நீதிமன்ற உத்தரவின் பிரகாரம், சந்தேகத்திற்குரிய அமைச்சரின் மனைவி அன்றைய தினம் நீதிமன்றில் ஆஜராகாவிட்டால், நீதிமன்றத்தை அவமதித்ததாகக் கருதி மேலதிக நடவடிக்கை எடுக்கப்படும் என நீதவான் தெரிவித்தார்.
+
+சந்தேகநபரான அந்த பெண், குருநாகல் மாஎலிய பிரதேசத்தில்   எம்.கே. எக்ரோ இன்டர்ஸியல் எனும் பெயரில் முன்னெடுத்துச் செல்லும் விலங்குகளை பாதுகாப்பும் மத்திய நிலையத்தில்,  பராமரிக்கப்படும் விலங்குகளில் ஆறு பசு மாடுகளை, நீதிமன்றத்தில் முன்னிலைப்படுத்துமாறு, தம்புத்தேகம நீதவான் இன்றைக்கு 10 வருடங்களுக்கு முன்னர் வழங்கிய கட்டளையை மீறிவிட்டதாக, அமைச்சரின் மனைவிக்கு எதிராக நீதிமன்றத்தில் தெரிவிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/bae11b4b.json)
+
+---
 
 ### New amendments to Online Safety Bill being drafted
 
@@ -46,6 +62,8 @@ The Minister also said that the Attorney General has cleared the steps taken by 
 
 [Data](articles/f76d1852.json)
 
+[Extended Data](ext_articles/f76d1852.ext.json)
+
 ---
 
 ### Opposition members of CC had acted in an irresponsible manner: PM
@@ -60,23 +78,31 @@ Opposition members of the Constitutional Council (CC) have acted in an irrespons
 
 [Data](articles/20e6da7b.json)
 
+[Extended Data](ext_articles/20e6da7b.ext.json)
+
 ---
 
-### ගර්භණී මව්වරුන්ට අනතුරු ඇඟවීමක්
+### A warning to pregnant mothers
 
 *2024-03-21 12:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194772) · `si`
 
-අධික උණුසුම් කාලගුණ තත්ත්වය යටතේ රැකියාවල නිරතවන ගැබිණි කාන්තාවන් මළදරුවන් බිහිකිරීමේ හා ගබ්සාවන්ට මුහුණදීමේ වැඩි අවදානමක් ඇති බව ඉන්දියාවේ සිදුකළ නවතම පර්යේෂණයකදී අනාවරණ වී තිබේ.
+Research in Tamil Nadu shows pregnant women working in hot weather face higher risks of miscarriages and abortions. 800 women engaged in agriculture, brick, and salt production were studied from 2017, with 5% experiencing abortions and 6.1% having biodynamic or premature births.
 
-චෙන්නායිහි උසස් අධ්‍යාපන ආයතනයක්, 2017 වසරේ සිට මේ දක්වා කාලය තුළ, දකුණු ඉන්දීය තමිල්නාඩු ප්‍රාන්තයේ උණුසුම් පාරිසරික තත්ත්වයන් යටතේ රැකියා කරන ගැබිණි කාන්තාවන් 800ක් ‍යොදාගෙන මෙම පර්යේෂණය සිදුකර තිබුණි.
+🟩
 
-එම කාන්තාවන් කෘෂිකාර්මික, ගඩොල් නිෂ්පාදන සහ ලුණු නිෂ්පාදන ක්ෂේත්‍රවල රැකියාවල නිරත වූවන්ය.
+In the latest research carried out in India, the pregnant women who work under the hot weather have been at increased risk to producing the corpses and misconduct into abortions.
 
-මෙම කාන්තාවන් අතරින් සියයට 5ක් ගබ්සාවන්ට මුහුණ දී ඇති අතර, මළදරු උපත් සහ නොමේරූ දරු උපත් සියයට 6.1ක් ලෙසද වාර්තාවී තිබේ.
+The research was carried out using 800 pregnant women in the state of South Indian Tamil Nadu from 2017 to date.
+
+Those women engaged in agricultural, brick products and salt production.
+
+Five percent of these women have faced abortions, and the 6.1 percent of the biodious and premature births.
 
 ◼️
 
 [Data](articles/f692fe29.json)
+
+[Extended Data](ext_articles/f692fe29.ext.json)
 
 ---
 
@@ -89,6 +115,8 @@ MP Dilan Perera has also decided to resign from the Committee on Public Enterpri
 ◼️
 
 [Data](articles/2238a2ee.json)
+
+[Extended Data](ext_articles/2238a2ee.ext.json)
 
 ---
 
@@ -2185,27 +2213,5 @@ Three times the amount of money has been allocated for the 'Avaswasuma Program' 
 [Data](articles/9d34ff77.json)
 
 [Extended Data](ext_articles/9d34ff77.ext.json)
-
----
-
-### Recovery of 2000 kg beedi leaves
-
-*2024-03-21 02:10:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2000-கிலோ-பீடி-இலைகள்-மீட்பு/175-334969) · `ta`
-
-Tamil Nadu police seized 2000 kg beedi leaves intended for smuggling to Sri Lanka. Kidnappers fled when police found the leaves on a beach. Police recovered 70 packs of 30 kg each.
-
-🟩
-
-Two thousand kilos of beedi leaves have been seized by the Tamil Nadu police for the purpose of smuggling Sri Lanka.
-
-When the leaves were taken to the beach in a lorry for the purpose of hijacking Sri Lanka, the kidnappers fled.
-
-The Tamil Nadu police, who examined the lorry, recovered 70 packs of 30 kg from each of them.. (A)
-
-◼️
-
-[Data](articles/c5159d40.json)
-
-[Extended Data](ext_articles/c5159d40.ext.json)
 
 ---

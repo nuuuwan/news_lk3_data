@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 16:03:10**
+As of **2024-03-21 16:17:53**
 
 ## Newspaper Stats
 
-*Scraped **14,346** Articles*
+*Scraped **14,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,26 +15,48 @@ newsfirstlk | 363
 dailyftlk | 756
 economynextcom | 764
 islandlk | 782
-adalk | 1,238
-adaderanalk | 1,721
+adalk | 1,240
+adaderanalk | 1,722
 tamilmirrorlk | 1,737
-virakesarilk | 2,017
+virakesarilk | 2,018
 dailymirrorlk | 2,199
-adaderanasinhalalk | 2,288
+adaderanasinhalalk | 2,289
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,339 (100.0%) of 14,346 articles have been extended.
+14,346 (100.0%) of 14,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
+### Extreme heat at work can double stillbirth risk, India study finds
+
+*2024-03-21 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98107/extreme-heat-at-work-can-double-stillbirth-risk-india-study-finds) · `en`
+
+Working in extreme heat can double the risk of stillbirth and miscarriage for pregnant women, according to new research from India.
+
+The study found that the risks to mothers-to-be are significantly higher than previously thought.
+
+Researchers say hotter summers can affect not only women in tropical climates, but also in countries such as the UK.
+
+They want specific health advice for working pregnant women globally.
+
+Eight hundred pregnant women in the southern Indian state of Tamil Nadu took part in the study, which was started in 2017 by the Faculty of Public Health at the Sri Ramachandra Institute of Higher Education and Research (SRIHER) in Chennai.
+
+About half of those who took part worked in jobs where they were exposed to high levels of heat, such as agriculture, brick kilns and salt flats. The others worked in cooler environments, such as schools and hospitals, although some workers were also exposed to very high levels of heat in those jobs too.
+
+...
+
+[Data](articles/6f94072f.json)
+
+---
+
 ### දුමින්ද, ළහිරු ඇතුළු 4ක් රිමාන්ඩ්
 
-*2024-03-21 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194781) · `si`
+*2024-03-21 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194782) · `si`
 
 ජන අරගල ව්‍යාපාරය විසින් ඊයේ කොළඹ පැවැත්වූ විරෝධතාවය අතරතුර අත්අඩංගුවට ගත් සිව්දෙනෙක් මාර්තු 27 දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
 
@@ -44,85 +66,173 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
-[Data](articles/114eff5e.json)
+[Data](articles/c09102fd.json)
 
 ---
 
-### இலங்கையின் பொருளாதார கொள்கை பலனளிக்க ஆரம்பித்துள்ளது ; நிறைவேற்று சபை அனுமதியளித்ததும்  337 மில்லியன் டொலர் - சர்வதேச நாணயநிதியம்
+### ක්‍රීඩා පාසල් 22 ක් වසර පහක් තිස්සේ අක්‍රීයයි
+
+*2024-03-21 15:53:40* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රීඩා-පාසල්-22-ක්-වසර-පහක්-තිස්සේ-අක්‍රීයයි/11-408744) · `si`
+
+ක්‍රීඩා දක්ෂතා සහිත ජාතික හා ජාත්‍යන්තර තලයේ ක්‍රීඩක ක්‍රීඩිකාවන් බිහිකිරීමේ අරමුණින් අධ්‍යාපන අමාත්‍යාංශය මගින් ආරම්භ කරන ලද ක්‍රීඩා පාසල් 22 ක් පසුගිය පස් වසර තුළ ක්‍රියාත්මක වී නැතැයි ජාතික විගණන  කාර්යාලය අනාවරණය කරයි.
+
+මේ හේතුවෙන් මෙම පාසල්වලට ඇතුළත්ව සිටි ක්‍රීඩා ශිෂ්‍යත්වලාභී සිසුන් 293 ක් එම පාසල්වලින් ඉවත්වී ගොස් ඇතැයිද ,එම ක්‍රීඩා පාසල්වල තිබූ ක්‍රීඩා උපකරණ ප්‍රයෝජනයට නොගැනීමෙන් ඌන උපයෝජිතව පවතින බවද විගණන  කාර්යාලය පෙන්වා දෙයි.
+
+1989 දී ක්‍රීඩා පාසල් ආරම්භ කිරීමේදී අපේක්ෂිත අරමුණු ඉටුවෙන ලෙස ඒවායේ කටයුතු ක්‍රියාත්මක වී නැත.
+
+මේ හේතුවෙන් එම පාසල්වල නේවාසිකාගාර ,ක්‍රීඩා උපකරණ ,කායවර්ධන උපකරණ  ආදිය ඌන උපයෝජිතව පවතී.
+
+කළමනාකරණ දුර්වලතා,නිසි පුහුණුවක් නොලැබීම හා ක්‍රීඩා පාසල් ක්‍රියාත්මක නොවීම  ඒවාට ඇතුළත්ව සිටි ක්‍රීඩා ශිෂ්‍යත්වධාරීන් අස්වී යාමට බලපා ඇත.
+
+...
+
+[Data](articles/e1152f4e.json)
+
+---
+
+### Four LTTE cadres remanded for Duminda
+
+*2024-03-21 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194781) · `si`
+
+Four LTTE cadres, including Duminda Nagamuwa and Lahiru Weerasekera, were remanded in custody by Fort Magistrate Thilina Gamage until tomorrow for their involvement in an elephant protest.
+
+🟩
+
+Four arrested for elephants were remanded during the protest held by the People's Struggle Movement yesterday.
+
+The remanded is so custody Duminda Nagamuwa, Lahiru Weerasekera, Ratharawawe.
+
+Fort Magistrate Thilina Gamage has ordered to be remanded until tomorrow (22) to be remanded and submitted to a parade.
+
+◼️
+
+[Data](articles/114eff5e.json)
+
+[Extended Data](ext_articles/114eff5e.ext.json)
+
+---
+
+### சாட் நாட்டில் மோதல்களால் 42 பேர் பலி
+
+*2024-03-21 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179343) · `ta`
+
+ஆபிரிக்க நாடான 'சாட்'டில் இரு சமூகங்களுக்கு இடையிலான மோதல்களால் குறைந்தபட்சம் 42 பேர் உயிரிழந்துள்ளனர் என அந்நாட்டின் பொதுமக்கள் பாதுகாப்பு அமைச்சு இன்று தெரிவித்துள்ளது.
+
+ஆனால், அப்பிராந்தியத்தில் பயிர்ச் செய்கையாளர்களுக்கும் கால்நடை வளர்ப்பாளர்கள் மற்றும் ஏனைய குழுக்களுக்கும் இடையில் அடிக்கடி மோதல்கள் நடைபெறுவது வழக்கம். (வைப்பகப்படம்)
+
+◼️
+
+[Data](articles/737e43de.json)
+
+---
+
+### Sri Lanka's economic policy has begun to benefit;$ 337 million - International Monetary Fund
 
 *2024-03-21 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179338) · `ta`
 
-இலங்கைக்கான அடுத்த கட்ட திட்டம் தொடர்பில் இலங்கை சர்வதேச நாணயநிதியத்துடன் இணக்கப்பாட்டை எட்டியுள்ளதாக சர்வதேச நாணயநிதியம் தெரிவித்துள்ளது.
+Sri Lanka's economic policy reforms have started to show benefits, with the IMF approving a $337 million funding for the third phase of the EAWW support program. Officials are making progress in implementing reforms, showing early signs of economic growth after a six-year decline. Inflation has decreased from 70% in September 2022 to 5.9% in February 2024, indicating continued growth in construction and service sectors.
 
-சர்வதேச நாணநிதியத்தின் நிறைவேற்று சபை அங்கீகாரமளித்ததும் இலங்கைக்கு  மூன்றாவது கட்ட நிதியுதவியான 337 மில்லியன் டொலர்கள் கிடைக்கும் எனவும் சர்வதேச நாணயநிதியம் தெரிவித்துள்ளது.
+🟩
 
-நான்கு வருட ஈஎவ்எவ் ஆதரவு திட்டத்தின் இரண்டாவது மறுஆய்வினை பூர்த்தி செய்வதற்காக பொருளாதார கொள்கைகள் குறித்து இலங்கையின் அதிகாரிகளும்; சர்வதேசநாணயநிதியத்தின் பணியாளர்களும் இணக்கப்பாட்டினை எட்டியுள்ளனர்.
+The International Monetary Fund has said that Sri Lanka has reached compliance with the International Monetary Fund on the next phase of the project for Sri Lanka.
 
-இந்த மறு ஆய்வினை சர்வதேச நாணயநிதியத்தின் முகாமை அங்கீகரித்ததும் சர்வதேச நாணயநிதியத்தின் நிறைவேற்று சபை ஏற்றுக்கொண்டதும் இலங்கையால் 337 மில்லியன் டொலர்களை பெறமுடியும்.
+The International Monetary Council has said that Sri Lanka's third phase of funding will be available for $ 337 million.
 
-நுண்பொருளாதார கொள்கை சீர்திருத்தங்கள் பலனளிக்க ஆரம்பித்துள்ளன தற்போதைய சீர்திருத்தங்களை தொடர்வதும் ஆட்சிமுறையில் காணப்படும் பலவீனங்களை அகற்றுவதும் ஊழலை அகற்றுவதும் இலங்கையின் பொருளாதாரத்தை நிரந்தர மீட்பு ஸ்திரதன்மை அனைவரையும் உள்ளடக்கிய வளர்ச்சி என்ற பாதையில்  இட்டுச்செல்வதற்கு அவசியமான விடயங்களாகும்
+Sri Lankan officials on economic policies to fulfill the second review of the four -year EAWW support program;The employees of the International Fund have also reached compliance.
+
+The review of this review is recognized by the Management of the International Monetary Fund and the acceptance of the International Monetary Fund, which will receive $ 337 million.
+
+Microscopic policy reforms have begun to benefit.
+
+Officials show better progress in implementing the reform agenda.
+
+While maintaining the stability of the financial system, there are early signs of economic growth.
+
+Growth is gradually growth. Growth is favorable after a six -year decline.
 
 ...
 
 [Data](articles/159f017b.json)
 
+[Extended Data](ext_articles/159f017b.ext.json)
+
 ---
 
-### மோசடிக் குற்றச்சாட்டில்  விஹாராதிபதிக்கு விளக்கமறியல்!
+### Explain to Viharathi on fraud
 
 *2024-03-21 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179341) · `ta`
 
-குளியாப்பிட்டியில் தேங்காய் எண்ணெய் வியாபாரி ஒருவரிடம் தேங்காய் எண்ணெய்யைப் பெற்று மோசடி செய்ததாக கூறப்படும் மாளிகாவத்தை ஸ்ரீ போதிராஜாராம விஹாரையின் விஹாராதிபதி ஊவத்தென்ன சுமன தேரரை விளக்கமறியலில் வைக்குமாறு  குளியாப்பிட்டி நீதிவான் நீதிமன்றம் இன்று வியாழக்கிழமை (21) உத்தரவிட்டுள்ளது.
+The Kiliyapitiya Magistrate's Court ordered a coconut oil dealer accused of defrauding Sri Bodhirajarama Vihara of 10 million rupees. The victim's businessman lodged a complaint, leading to the dealer's arrest by the CID.
 
-பாதிக்கப்பட்ட வர்த்தகர் செய்த முறைப்பாட்டின் அடிப்படையில்  குளியாப்பிட்டிய விசேட குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+🟩
 
-முறைப்பாடு செய்த வர்த்தகரிடம் இருந்து பத்து மில்லியன் ரூபா பெறுமதியான தேங்காய் எண்ணெயைப் பெற்றுக் கொண்டு மோசடி செய்தமைக்கு எதிராகவே இந்த முறைப்பாடு பதிவு செய்யப்பட்டுள்ளது.
+The Kiliyapitiya Magistrate's Court today (21) ordered that a coconut oil dealer in Kiliyapitiya had been accused of obtaining coconut oil and allegedly defrauding the Maligawatta of Sri Bodhirajarama Vihara.
+
+The victim has been arrested by the Special Criminal Investigation Department (CID) on the basis of a complaint made by the victim's businessman.
+
+The complaint has been lodged against the fraudulently fraudulently obtaining coconut oil worth 10 million rupees from a complainant.
 
 ◼️
 
 [Data](articles/f338a2f6.json)
 
+[Extended Data](ext_articles/f338a2f6.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාව හොඳින් සූදානම්
+### Sri Lanka is well prepared
 
 *2024-03-21 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194780) · `si`
 
-පළපුරුදු ක්‍රීඩකයින් සමන්විත කණ්ඩායමක් සමග ටෙස්ට් තරගාවලියට මුහුණදීමට සූදානමින් සිටින බව ශ්‍රී ලංකා ටෙස්ට් ක්‍රිකට් නායක ධනංජය ද සිල්වා පවසයි.
+Sri Lanka's Test leader Dhanga de Silva plans to use experienced players for the upcoming Test series, aiming to understand wicket behavior and improve team adjustments. Dananjaya de Silva, the captain, is optimistic about the team's preparedness, including understanding the wicket conditions and training sessions.
 
-තරගාවලියට පෙර පැවැත්වෙන මාධ්‍ය හමුවට එක්වෙමින් ඔහු මේ බව සඳහන් කළේය.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ ශ්‍රී ලංකා ටෙස්ට් නායක ධනංජය ද සිල්වා,
+Sri Lanka Test leader Dhanga de Silva says he is planning to face the Test series with a team consisting of experienced players.
 
-මට අයිඩියා එකක් ගන්න ඕන වෙලා තිබුණා කඩුල්ල හැසිරෙන විදිය ගැන. මගේ ෆෝකස් එක වෙලා තිබ්බේ ඒක. ඒගොල්ලෝ දැන් ටිකක් තණකොළ තියලා තමයි සෙල්ලම් කරන්නේ මට ඕන වුණා තත්ත්වය කොහොමද හැසිරෙන්නේ කියලා තේරුම්ගන්න. මම හිතනවා මට අයිඩියා එකක් තියෙනවා දැන් ඒ ගැන. මගේ සකස්වීමත් ඒ පුහුණු සැසි කිහිපයට එක්වීම නිසා හොඳට ගියා . මම හොඳට පුහුණුවීම් කළා. දැන් ඇවිල්ලා ඉන්න ටෙස්ට් කණ්ඩායමේ ක්‍රීඩකයොත් ඒ තත්ත්වයට හුරුවෙලා තියෙනවා. එයාලටත් අදහසක් තියෙනවා මොකද වෙන්නේ කියලා. ඉතින් හිතනවා හොඳ තරගාවලියක් තියේවි කියලා.
+He was speaking at the press conference held before the tournament.
 
-එසේම මෙහිදී මාධ්‍යවේදීන් ශ්‍රී ලංකා ටෙස්ට් නායක ධනංජය ද සිල්වාගෙන් ප්‍රශ්න කර සිටියේ ටයිම් අවුට් සැමරුමේ මීළඟ අදියර කුමක් ද යන්නයි.
+Speaking further Sri Lanka Test leader Dananjaya de Silva,
 
-එයට පිළිතුරු දෙමින් ධනංජය ද සිල්වා පැවසුවේ "ඒ ගැන පස්සේ බලමු" යනුවෙනි.
+I wanted to get a Idea about the wicket behaving. My foose was the one that was. They now play a little grass and playing how to understand how you want the situation. I hope I have an Idea now. My adjustment also went to the couple of those training sessions. I practiced good. There are a player in the Test team now educated that situation. They also have an idea what's going on. So thinks a good tournament.
+
+Journalists Sri Lanka Test captain Dhananjaya also questioned the next stage of the Time Out celebration.
+
+Responding to it, Dananjaya de Silva said, "Look, let's see later.
 
 ◼️
 
 [Data](articles/196c9a95.json)
 
+[Extended Data](ext_articles/196c9a95.ext.json)
+
 ---
 
-### මුල සිටම පොලිය ගෙවන්නැයි විදුලි පාරිභෝගිකයන් ඉල්ලයි
+### Electricity consumers asking for interest from the beginning
 
 *2024-03-21 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194779) · `si`
 
-විදුලි සම්බන්ධතා ලබාදීමේදී ලංකා විදුලිබල මණ්ඩලය විසින් පාරිභෝගිකයන්ගෙන් අය කරගනු ලබන තැන්පතු මුදල් වෙනුවෙන් එම තැන්පතු මුදල් ලබාගත් දා සිට පොලිය ගෙවීමට පියවර ගතයුතු බව ලංකා විදුලි පාරිභෝගිකයන්ගේ සංගමය ශ්‍රේෂ්ඨාධිකරණය හමුවේ ඉල්ලීමක් කර තිබේ.
+The Ceylon Electricity Board (CEB) has requested the Supreme Court to pay interest on deposits made by electricity consumers, which was presented in a fundamental rights petition. The CEB offered 11.67% annual interest for this year. Attorney-at-Law Ravindranath Dabare argued that customers should receive interest. The case was heard by Supreme Court judges Janaka De Silva and Arjuna Oyajuna Oyajuna Obeysekara, with a decision set for April 2.
 
-එම සංගමය විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සමක් අද (21) මුර්දු ප්‍රනාන්දු, ජනක් ද සිල්වා සහ අර්ජුන ඔබේසේකර යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලබීය.
+🟩
 
-එම අවස්ථාවේදී අදාළ සංගමය වෙනුවෙන් පෙනී සිටි නීතිඥ රවීන්ද්‍රනාත් දාබරේ මහතා මේ බව කියා සිටියේය.
+The Ceylon Electricity Board (CEB) has requested the Supreme Court to pay interest from the Supreme Court.
 
-විදුලි පාරිභෝගිකයින් විසින් කර තිබෙන තැන්පතු සඳහා මේ වසරේ සිට සියයට 11.67 ක වාර්ෂික පොලියක් ගෙවීමට පියවර ගන්නා බවට ලංකා විදුලිබල මණ්ඩලය විසින් මීට පෙර අධිකරණය හමුවේ ප්‍රතිඥාවක් ලබාදී තිබුණි.
+A fundamental rights petition presented by the Association was called before the Supreme Court judge, Janaka De Silva and Arjuna Oyajuna Oyajuna Obeysekara.
 
-එහෙත් ඒ සම්බන්ධයෙන් සෑහීමකට පත්විය නොහැකි බව සඳහන් කළ ලංකා විදුලි පාරිභෝගික සංගමය වෙනුවෙන් පෙනී සිටි නීතිඥ රවින්දනාත් දාබරේ මහතා පාරිභෝගිකයින් විසින් අදාළ මුදල තැන්පත් කළ දා සිට පොලිය ගෙවීමට පියවර ගත යුතු බව ඉල්ලා සිටියේය.
+Attorney-at-Law Ravindranath Dabare, who appeared on behalf of the Association, he said this.
 
-...
+The Ceylon Electricity Board (CEB) had responded to 11.67 percent to an annual interest in this year for the deposits made by electricity consumers.
+
+Attorney-at-Law Ravindanaath Dabare, who said that he had to pay interest in the CEO of the Ceylon Electricity Association, said that he had to pay interest by the customers who were deposited.
+
+Subsequently, the court ordered to be called on April 2 in April.
+
+◼️
 
 [Data](articles/09c6a538.json)
+
+[Extended Data](ext_articles/09c6a538.ext.json)
 
 ---
 
@@ -139,6 +249,8 @@ Chathurika Dissanayake, the CEO of ICFS Education Center said they plan to host 
 ...
 
 [Data](articles/51a8e02e.json)
+
+[Extended Data](ext_articles/51a8e02e.ext.json)
 
 ---
 
@@ -173,6 +285,8 @@ The approval will depend on the implementation by the authorities of prior actio
 ...
 
 [Data](articles/d33f9397.json)
+
+[Extended Data](ext_articles/d33f9397.ext.json)
 
 ---
 
@@ -331,6 +445,22 @@ The two Bills thus came into effect as the Social Security Contribution Levy (Am
 [Data](articles/762f8aeb.json)
 
 [Extended Data](ext_articles/762f8aeb.ext.json)
+
+---
+
+### ශාන් ගේ ගෝලයෙකු හෙරෝයින් සමග අත්අඩංගුවට
+
+*2024-03-21 14:59:04* · [`adalk`](https://www.ada.lk/breaking_news/ශාන්-ගේ-ගෝලයෙකු-හෙරෝයින්-සමග-අත්අඩංගුවට/11-408743) · `si`
+
+මතුගම ශාන් නැමැති සංවිධානාත්මක අපරාධකරුගේ ගෝලයකු බව කියන ඕමිටියාවත්තේ කිරියා නැමැත්තා රුපියල් ලක්ෂ දෙකකට ආසන්න වටිනාකමකින් යුත් හෙරෝයින් මත්කුඩු සමග අත්අඩංගුවට ගත්බව කළුතර අපරාධ කොට්ඨාසය පවසයි.
+
+සැකකරු තවත් පුද්ගලයෙකුට හෙරොයින් මත්කුඩු තොගයක් ලබාදීමට යාමේදී මතුගම සොල්දරකඩේ ප්‍රදේශයේදී හෙරොයින් මත්කුඩු ග්‍රෑම් 10 ක් සමග අත්අඩංගුවට ගෙන ජාවාරම් සදහා යොදාගත් ජංගම දුරකථනයද පොලිස් භාරයට ගෙන ඇති බව  පොලිසිය සඳහන් කරයි.
+
+ඊසි කැස් ක්‍රමයට හෙරොයින් මත්කුඩු ජාවාරම කරගෙන ගොස් ඇති සැකකරු, ජාවාරම් මුදල් බෝපිටියේ ඉබ්බා නැමැති ජාවාරම්කරුගේ ගිණුමට බැරකර ඇති බවද පොලිසිය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/af39ad01.json)
 
 ---
 
@@ -2137,137 +2267,5 @@ Police suspect that the accident occurred as a result of a sudden ailment suffer
 [Data](articles/06899a22.json)
 
 [Extended Data](ext_articles/06899a22.ext.json)
-
----
-
-### 31 Indian fishermen arrested on charges of fishing
-
-*2024-03-21 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/179278) · `ta`
-
-31 Indian fishermen arrested by Sri Lankan navy for fishing in Neduntivu seas, to be taken to Kankesanthurai-Mayiliti port. Jaffna District Aquatic Resources Department to file case against them.
-
-🟩
-
-31 Indian fishermen have been arrested by the Sri Lankan navy on Wednesday night (20).
-
-25 fishermen who were fishing in 3 boats and fishing in the sea and six fishermen who were fishing in the Mannar coast were arrested.
-
-The fishermen arrested in the Neduntivu seas are to be taken to the Kankesanthurai -Mayiliti port.
-
-It is reported that the Jaffna District Aquatic Resources Department will file a case against the Kayts court against the fishermen.
-
-◼️
-
-[Data](articles/02997858.json)
-
-[Extended Data](ext_articles/02997858.ext.json)
-
----
-
-### The no-confidence debate against Speaker begins the third day
-
-*2024-03-21 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194762) · `si`
-
-The no-confidence debate against Speaker Mahinda Yapa Abeywardena begins its third day. Voting on the motion, presented by the Speaker, is scheduled for today. The election for the Parliamentary Business Committee is also due today. Minister Bandula Gunawardena arrived on the island to attend a World Bank convention, following his announcement about the no-confidence motion.
-
-🟩
-
-The Deputy Speaker has commenced the activities of the Hon.
-
-Voting on the no-confidence motion proposal against Speaker Mahinda Yapa Abeywardena is scheduled to be held today (21).
-
-The no-confidence motion presented by the Speaker by the Atound Tower was held on the 19th and the vote was to be held yesterday (20).
-
-But the election is due to be held today to decide on the committee on the Parliamentary Business for the debate.
-
-Accordingly, the election campaign will be held at 4.30 pm today.
-
-Meanwhile, Minister Bandula Gunawardena arrived in the island yesterday to attend a convention organized by the World Bank.
-
-Minister Bandula Gunawardena said he had come to the island after announcing his visit to the no-confidence motion against the Speaker.
-
-◼️
-
-[Data](articles/dffbc0b6.json)
-
-[Extended Data](ext_articles/dffbc0b6.ext.json)
-
----
-
-### At least 15 people, including 7 students, were injured in a bus accident
-
-*2024-03-21 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/179277) · `ta`
-
-A bus crash at Wellawaya Kumaradasa junction injured 15, including 7 students and a driver, who were admitted to Wellawaya Hospital.
-
-🟩
-
-A private bus crashed at the Wellawaya Kumaradasa junction on Wellawaya - Tanamalwila main road this morning.
-
-Seven school children, including a bus driver, were injured and admitted to the Wellawaya Hospital.
-
-◼️
-
-[Data](articles/50259d8d.json)
-
-[Extended Data](ext_articles/50259d8d.ext.json)
-
----
-
-### Underworld Group's gunman killed in firing with Special Task Force
-
-*2024-03-21 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/179276) · `ta`
-
-A 28-year-old gunman suspected of involvement in underworld shootings was killed in a police Special Task Force encounter in Ganemulla. He was injured in a raid on a house and died after treatment at Ragama Hospital. The suspect, from Ehaliyagoda, had previously fled the army and was linked to the underworld, including Petta Manju.
-
-🟩
-
-A man suspected of being a gunman of the underworld who was injured in a shooting with a police Special Task Force (STF) in Ganemulla area last night has died without treatment.
-
-The suspect died after being treated at the Ragama Hospital, police said.
-
-The suspect was shooting on a special task force who was conducting raids at a house last night in Ganemulla.
-
-A Special Task Force officer was injured in the incident. At the same time, the suspect was also injured in the shooting of the Special Task Force.. In this case, the two injured were admitted to the hospital.
-
-The deceased was suspected of being involved in the shootings of several underworld group, police said.
-
-The suspect is a 28 -year -old living in Ehaliyagoda area and fled the army, police said.
-
-The suspect was suspected of acting as a gunman in a shooting incident in Dandugama area in Ja-Ela on March 09.
-
-It is believed that he was a close friend of the underworld, the underworld, known as Petta Manju.
-
-◼️
-
-[Data](articles/87636c53.json)
-
-[Extended Data](ext_articles/87636c53.ext.json)
-
----
-
-### The suspect's death in mutual shooting
-
-*2024-03-21 09:14:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரஸ்பர-துப்பாக்கிச்-சூட்டில்-சந்தேகநபர்-மரணம்/175-334972) · `ta`
-
-In Kanemulla, a man was shot dead in a mutual shooting incident involving a criminal gang. The suspect, a 28-year-old from Eheliyagoda, fired at the Special Task Force, injuring both him and an officer. The victim, who had previously fired at Ja-Ela, was also injured and admitted to Ragama Hospital.
-
-🟩
-
-A man has been shot dead in an organized criminal gang in the shooting incident in Kanemulla area.
-
-Based on information received by the Gonahena Police Special Task Force, a mutual firearm between the two sides was carried out yesterday (20) when the suspect opened fire on the Special Task Force.
-
-The suspect and a special Task Force officer were injured and admitted to the Ragama Hospital, police said.
-
-It is reported that the victim was the man who fired at the Ja-Ela, Ja-Ela, on the 9th of this month.
-
-It is reported that the suspect is 28 -year -old from Eheliyagoda area and fled the military service.
-
-◼️
-
-[Data](articles/1a94f286.json)
-
-[Extended Data](ext_articles/1a94f286.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 23:52:21**
+As of **2024-03-22 00:03:01**
 
 ## Newspaper Stats
 
-*Scraped **14,405** Articles*
+*Scraped **14,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ adalk | 1,246
 adaderanalk | 1,731
 tamilmirrorlk | 1,740
 virakesarilk | 2,028
-dailymirrorlk | 2,212
+dailymirrorlk | 2,213
 adaderanasinhalalk | 2,301
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,405 (100.0%) of 14,405 articles have been extended.
+14,405 (100.0%) of 14,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### Bangladesh have ’high expectations’ for Sri Lanka Test series
+
+*2024-03-21 23:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladesh-have-high-expectations-for-Sri-Lanka-Test-series/108-279343) · `en`
+
+Mar. 21 Sylhet, (AFP) - Bangladesh host a "formidable" Sri Lanka in a two-match Test series starting on Friday and ambitions are growing after years of struggle.
+
+Bangladesh finished last in the 2021-2023 World Test Championship, winning just one of their 12 matches.
+
+But in their previous Test series, against New Zealand in November-December, Bangladesh won the first match in Sylhet before losing the second in Dhaka after a close fight.
+
+"We have high expectations," Bangladesh coach Chandika Hathurusingha told reporters in Sylhet ahead of the first Test, part of the 2023–25 World Test Championship cycle.
+
+"If we can win most matches at home, then we give ourselves a good chance to be in contention in the World Test Championship."
+
+"This Test series gives us a good challenge, but we are up for it," he added.
+
+Hathurusingha warned however that he was expecting a tough challenge from his home nation Sri Lanka, calling them a "formidable, very experienced side".
+
+...
+
+[Data](articles/00cdd4f1.json)
+
+---
 
 ### Ready to work with China - Australian Prime Minister
 
@@ -2265,21 +2289,5 @@ The Minister also said that the Attorney General has cleared the steps taken by 
 [Data](articles/f76d1852.json)
 
 [Extended Data](ext_articles/f76d1852.ext.json)
-
----
-
-### Opposition members of CC had acted in an irresponsible manner: PM
-
-*2024-03-21 13:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-members-of-CC-had-acted-in-an-irresponsible-manner-PM/108-279317) · `en`
-
-Opposition members of the Constitutional Council (CC) have acted in an irresponsible manner by publishing inside information on the meeting held by the CC to decide on the Inspector General of Police, Prime Minister Dinesh Gunawardene told Parliament today.
-
-"There have been issues and disagreements between CC members in the past but no member had disclosed them. However the opposition members of the current CC had disclosed inside information. This is an irresponsible act," the Premier said.
-
-◼️
-
-[Data](articles/20e6da7b.json)
-
-[Extended Data](ext_articles/20e6da7b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 08:17:48**
+As of **2024-03-21 08:33:28**
 
 ## Newspaper Stats
 
-*Scraped **14,228** Articles*
+*Scraped **14,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,97 @@ dailyftlk | 756
 economynextcom | 760
 islandlk | 782
 adalk | 1,226
-adaderanalk | 1,706
-tamilmirrorlk | 1,720
+adaderanalk | 1,707
+tamilmirrorlk | 1,721
 virakesarilk | 1,987
-dailymirrorlk | 2,180
-adaderanasinhalalk | 2,268
+dailymirrorlk | 2,181
+adaderanasinhalalk | 2,269
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,226 (100.0%) of 14,228 articles have been extended.
+14,228 (100.0%) of 14,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### තවත් පාතාල සාමාජිකයෝ සිව්දෙනෙක් අත්අඩංගුවට
+### No research activities, only replenishment for German research vessel in Sri Lanka
+
+*2024-03-21 08:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-research-activities-only-replenishment-for-German-research-vessel-in-Sri-Lanka/108-279290) · `en`
+
+Colombo, March 21 (Daily Mirror) - Sri Lanka has barred research activities for German vessel ‘Sonne’ in keeping with the one-year moratorium on such activities involving foreign ships in its Exclusive Economic Zone, but it will be allowed for replenishment in the Colombo port, Daily Mirror learns.
+
+The government has declared a moratorium on foreign research ships entering its waters for a year amid concerns from India over Chinese research vessels docking in its neighborhood. It was announced in the wake of China asking for the deployment of another research vessel. The government’s decision is seen as in response to growing concerns in India.
+
+...
+
+[Data](articles/b7cd9ade.json)
+
+---
+
+### බස් අනතුරක් - පාසල් ළමුන් ඇතුළු 15ක් රෝහලට
+
+*2024-03-21 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194760) · `si`
+
+වැල්ලවාය - තණමල්විල ප්‍රධාන මාර්ගයේ වැල්ලවාය කුමාරදාස හන්දියේ දී මීට සුළු වේලාවකට පෙර පෞද්ගලික බස්රථයක් මාර්ගයේ පෙරළී ගොස් අනතුරක් සිදුව තිබේ.‍
+
+අනතුරින් පාසල් ළමුන් 7 දෙනෙකු සහ බස් රථ රියදුරු ඇතුළු 15 දෙනෙක් වැල්ලවාය මුලික රෝහලට ඇතුළත් කර ඇතැයි අප වාර්තාකරු පැවසීය.
+
+බස් රථයේ රියදුරුට ඇති වූ හදිසි රෝගී තත්ත්වයක් හේතුවෙන් අනතුර සිදුව ඇතැයි පොලීසිය සැක පළ කරයි.
+
+◼️
+
+[Data](articles/06fde6b2.json)
+
+---
+
+### 19 suspects directly linked to the underworld arrested so far - Police
+
+*2024-03-21 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98093/19-suspects-directly-linked-to-the-underworld-arrested-so-far-police) · `en`
+
+Sri Lanka Police says that a total of 19 individuals directly linked to the underworld have been arrested thus far under the special operation launched against organized crime and the underworld in parallel to the ongoing ‘Yukthiya’ anti-drug operation.
+
+Accordingly, four members belonging to three criminal gangs were arrested yesterday (20) along with with ice (crystal methamphetamine), heroin and swords.
+
+The arrested suspects who are residents of Maradana, Modara, Grandpass and Maligawatta are aged 44, 26, 23 and 28.
+
+The suspects were arrested by the Colombo Crimes Division (CCD) while in possession of 2 grams and 450 milligrams of heroin, 7 grams and 510 milligrams of ice drug, 3 grams and 160 milligrams of ice. The CCD is conducting further investigations.
+
+Meanwhile a suspected underworld gunman was killed following a shootout with Police Special Task Force (STF) personnel at Ganemulla last night (20).
+
+...
+
+[Data](articles/fe17e677.json)
+
+---
+
+### Four underworld members arrested
 
 *2024-03-21 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194759) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් සිව්දෙනෙකු අත්අඩංගුවට ගැනීමට කොළඹ අපරාධ කොට්ඨාසය සමත්ව තිබේ.
+The Colombo Crimes Division arrested four members of an organized crime gang, including those involved in a heroin and ice drug explosion. The suspects, residents of Maradana, Motors, Grandpass, and Maligawatta, were found with 2 grams of heroin and 160 g of ice drugs. Further investigations are ongoing.
 
-පසුගිය 19 වනදා සිට පොලිස්පතිවරයාගේ උපදෙස් මත ක්‍රියාත්මක කර ඇති සංවිධානාත්මක අපරාධ මැඩලීමේ විශේෂ මෙහෙයුම මඟින් මෙම සැකකරුවන්ව අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-ඒ අනුව අපරාධ කණ්ඩායම් තුනකට අයත් සාමාජිකයින් සිව්දෙනෙක් ඊයේ (20) අයිස්, හෙරොයින් මත්ද්‍රව්‍ය හා කඩු සමග අත්අඩංගුවට පත්ව තිබේ.
+The Colombo Crimes Division has passed four members of organized crime gang.
 
-එලෙස අත්අඩංගුවට ගෙන ඇත්තේ අවුරුදු 44, 26, 23 හා 28 යන වයස්වල පසුවන මරදාන, මෝටර, ග්‍රෑන්ඩ්පාස් සහ මාළිගාවත්ත යන ප්‍රදේශවල පදිංචිකරුවන්ය.
+The suspects have been arrested by the special operation of organized crime expired of the organized crime explosion implemented by the IGP from the 19th.
 
-සැකකරුවන් සන්තකයේ තිබී හෙරොයින් ග්‍රෑම් 2යි මිලිග්‍රෑම් 450, අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 7යි මිලිග්‍රෑම් 510, අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 3 මිලිග්‍රෑම් 160ක් අත්අඩංගුවට ගෙන ඇත. කොළඹ කොට්ඨාසය වැඩිදුර විමර්ශන සිදුකරනු ඇත.
+Four members of three criminal groups have been arrested yesterday with the ice and heroin of the heroin yesterday.
 
-මේ වනවිට පාතාලය සමග ඍජුව සම්බන්ධතා පවත්වනු ලැබූ පුද්ගලයින් 19 දෙනෙකු මේ වනවිට අත්අඩංගුවට ගෙන ඇතැයි පොලීසිය පවසයි.
+The arrested persons are residents of Maradana, Motors, Grandpass and Maligawatta.
+
+2 grams of heroin in possession of the suspects and arrested 160 g of ice drugs, 7 milligrams, 7 milligrams, 510 milligrams. The Colombo Division will be conducting further investigations.
+
+The police say that 19 persons have been directly involved with the underworld have been arrested.
 
 ◼️
 
 [Data](articles/28c64ad3.json)
+
+[Extended Data](ext_articles/28c64ad3.ext.json)
 
 ---
 
@@ -75,6 +131,8 @@ He is said to have been a close associate of the underworld figure known as ‘P
 ◼️
 
 [Data](articles/9e73b0a1.json)
+
+[Extended Data](ext_articles/9e73b0a1.ext.json)
 
 ---
 
@@ -633,6 +691,22 @@ President Wickremesinghe’s first public political rally at Kuliyapitiya was od
 [Data](articles/2d2afb0e.json)
 
 [Extended Data](ext_articles/2d2afb0e.ext.json)
+
+---
+
+### 2000 கிலோ பீடி இலைகள் மீட்பு
+
+*2024-03-21 02:10:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2000-கிலோ-பீடி-இலைகள்-மீட்பு/175-334969) · `ta`
+
+இலங்கைக்குக் கடத்தும் நோக்கில் தமிழகம் ஏர்வாடிக் கடற்கரைக்கு எடுத்து வரப்பட்ட 2 ஆயிரம் கிலோ பீடி இலைகள் தமிழகப் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+இலங்கைக்குக் கடத்தும் நோக்கில் படகில் ஏற்றுவதற்காக ஒரு லொறியில் பீடி இலைகள் கடற்கரைக்கு எடுத்து வந்த சமயம் பொலிஸாரைக் கண்டதும் கடத்தல்காரர்கள் தப்பியோடியுள்ளனர்.
+
+இதன்போது லொறியைப் பரிசோதனை செய்த தமிழகப் பொலிஸார், அதில் இருந்து ஒவ்வொன்றும் 30 கிலோ எடையுடைய 70 பொதிகளை மீட்டனர். (a)
+
+◼️
+
+[Data](articles/c5159d40.json)
 
 ---
 
@@ -2067,95 +2141,5 @@ It is noteworthy that 5 policemen were injured in confusion between the police a
 [Data](articles/cbcb18fd.json)
 
 [Extended Data](ext_articles/cbcb18fd.ext.json)
-
----
-
-### 5 drug traders arrested in Kattankudi in a week
-
-*2024-03-20 16:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179251) · `ta`
-
-In Kattankudi, 5 drug traders were arrested in a week, with 3 grams to 400 milligrams of drugs found. Ages 30-50, they're under investigation for 72 hours.
-
-🟩
-
-Two drug dealers were arrested in Kattankudi yesterday (19) and 5 drug dealers have been arrested in the last week.
-
-Kattankudy police said that the detainees are being investigated for three days under police detention.
-
-Under the strategy, Kattankudy police have been arrested in search of drug dealers, and from last Tuesday to Tuesday, 5 merchants have been arrested with 3 grams to 400 milligrams.
-
-The five arrested were between the ages of 30 to 50 years from the Kattankudy area.
-
-The police said that they are being investigated by the police detention for 72 hours.
-
-◼️
-
-[Data](articles/1726de00.json)
-
-[Extended Data](ext_articles/1726de00.ext.json)
-
----
-
-### 29 arrested in protest against Pharmaceutical Movement
-
-*2024-03-20 16:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194739) · `si`
-
-29 arrested in Colombo protest against Pharmaceutical Movement, including two monks and three women. Protests started at Fort Railway Station over goods prices and foreign agreements, dispersed by police using tear gas.
-
-🟩
-
-It is reported that the police were arrested by the police during protest in Colombo today afternoon.
-
-Among the arrested persons, two monks and three women are also present.
-
-The protest had begun at the Fort Railway Station based on several issues, including the prices of goods, including foreign agreements.
-
-With the movement of protesters then to Pettah, the police also took advantage of high-tear gas to dissolve the group.
-
-◼️
-
-[Data](articles/da0c3b93.json)
-
-[Extended Data](ext_articles/da0c3b93.ext.json)
-
----
-
-### Matheesha and Dilshan doubtful for IPL 2024
-
-*2024-03-20 16:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Matheesha-and-Dilshan-doubtful-for-IPL-2024/108-279244) · `en`
-
-Mar. 20 (wisden) - Sri Lankan star pacers Matheesha Pathirana and Dilshan Madushanka face uncertainty ahead of the Indian Premier League (IPL) 2024, set to kick off this Friday (22).
-
-Both players are battling hamstring injuries, casting doubt over their participation in the tournament.
-
-MS Dhoni (c), Moeen Ali, Deepak Chahar, Tushar Deshpande, Shivam Dube, Ruturaj Gaikwad, Rajvardhan Hangargekar, Ravindra Jadeja, Ajay Mandal, Mukesh Choudhary, Ajinkya Rahane, Shaik Rasheed, Mitchell Santner, Simarjeet Singh, Nishant Sindhu, Prashant Solanki, Maheesh Theekshana, Rachin Ravindra, Shardul Thakur, Daryl Mitchell, Sameer Rizvi, Mustafizur Rahman, Avanish Rao Aravelly.
-
-Doubtful for at least a part of IPL 2024: Devon Conway (thumb injury – not expected to be fit till May), Matheesha Pathirana (hamstring injury)
-
-...
-
-[Data](articles/f07baa94.json)
-
-[Extended Data](ext_articles/f07baa94.ext.json)
-
----
-
-### Diana wants swift action to stop tourists on visit visa doing business
-
-*2024-03-20 16:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Diana-wants-swift-action-to-stop-tourists-on-visit-visa-doing-business/108-279243) · `en`
-
-Parliament, March 20 (Daily Mirror)- State Tourism Minister Diana Gamage today urged the Public Security Minister to take swift action to stop foreign tourists on visit visas engaging in business activities in Sri Lanka, claiming that it poses serious threats to local businessmen.
-
-She told Parliament that the tourists on visit visas were engaged in business activities in Sri Lanka, specially in the Southern Province.
-
-"This has created a great threat to the local people engaged in business activities especially, in the Southern Province. This matter should be addressed soon. We are not allowed to do any business or job in those countries on visit visa. We will be kicked out if we do so," she said.
-
-The Minister said this issue should be resolved in a proper manner without creating issues with the countries concerned.
-
-...
-
-[Data](articles/7232bc2e.json)
-
-[Extended Data](ext_articles/7232bc2e.ext.json)
 
 ---

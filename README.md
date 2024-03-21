@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 18:52:22**
+As of **2024-03-21 19:03:06**
 
 ## Newspaper Stats
 
-*Scraped **14,380** Articles*
+*Scraped **14,383** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,95 @@ dailyftlk | 756
 economynextcom | 764
 islandlk | 783
 adalk | 1,241
-adaderanalk | 1,726
+adaderanalk | 1,727
 tamilmirrorlk | 1,738
 virakesarilk | 2,028
-dailymirrorlk | 2,205
-adaderanasinhalalk | 2,295
+dailymirrorlk | 2,206
+adaderanasinhalalk | 2,296
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,375 (100.0%) of 14,380 articles have been extended.
+14,380 (100.0%) of 14,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### තාක්ෂණික දෝෂයක් නිසා ශ්‍රීලන්කන් ප්‍රමාදයක්
+### අරගල සමයේ සිදුවීමට ගිය කුමන්ත්‍රණයක් කථානායක රටට හෙළිකරයි
+
+*2024-03-21 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194790) · `si`
+
+කථානායකවරයාට එරෙහිව විපක්ෂයේ මන්ත්‍රීවරුන් ගෙනආ විශ්වාසභංග යෝජනාව අද (21) පාර්ලිමේන්තුවේදී වැඩි ඡන්ද 42කින් පරාජයට පත්වූ පසු විශේෂ ප්‍රකාශයක් කළ කථානායකවරයා සුවිශේෂී කරුණු රැසක් අනාවරණය කළේය.
+
+කථානායක මහින්ද යාපා අබේවර්ධන මහතා එහිදී පැවසුවේ, ඉකුත් අරගල සමයේදී ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝණය කර හෝ ආණ්ඩුවක් පිහිටුවන ලෙසට තමාට එල්ලවූ බලපෑම් සම්බන්ධයෙනි.
+
+මේ අතර ඡන්ද විමසීමට සහභාගි වන ලෙස ජනපතිවරයා ආණ්ඩු පක්ෂයේ සියලු මන්ත්‍රීවරුන්ට අනිවාර්ය කිරීම නිසා, විදෙස්ගතව සිටි ඇමතිවරුන් වන බන්දුල ගුණවර්ධන,පවිත්‍රා වන්නිආරච්චි සහ රාජ්‍ය අමාත්‍ය දිලුම් අමුණුගම අද දිවයිනට පැමිණ තිබුණි.
+
+◼️
+
+[Data](articles/83a89638.json)
+
+---
+
+### Sri Lanka will make further progress on debt restructuring over next couple of months – Semasinghe
+
+*2024-03-21 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98113/sri-lanka-will-make-further-progress-on-debt-restructuring-over-next-couple-of-months-semasinghe) · `en`
+
+State Minister of Finance Shehan Semasinghe states that over the next couple of months Sri Lanka will seek to make further progress on debt restructuring whilst completing some IMF programme prior actions, with a view to obtaining approval of the IMF Executive Board, enabling the release of its next tranche of funds.
+
+Posting on ‘X’ (formerly Twitter) regarding Sri Lankan authorities and the IMF mission team reaching the staff-level agreement on the second review of the EFF (Extended Fund Facility) programme today (21), he claimed that this reflects the strong progress made by Sri Lanka in key reforms encompassing fiscal consolidation, monetary policy, financial sector stability, and governance, among others.
+
+Furthermore, the Finance State Minister mentioned that the signs of a shift from economic stabilisation to growth are emerging as an economic growth of 4.5% was recorded in the fourth quarter of 2023.
+
+...
+
+[Data](articles/0aa21ccb.json)
+
+---
+
+### 32 Indian fishermen detained by Sri Lanka Navy for alleged poaching
+
+*2024-03-21 18:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/32-Indian-fishermen-detained-by-Sri-Lanka-Navy-for-alleged-poaching/108-279335) · `en`
+
+March 21 - At least 32 Indian fishermen were detained by the Sri Lankan Navy on Wednesday off the coast of Talaimannar and near the islet of Delft in the northern province for allegedly fishing in the island nation’s waters, an official statement said.
+
+The Navy held two Indian trawlers along with 7 fishermen off Talaimannar, it said, adding that naval personnel also seized three more Indian trawlers and held 25 Indian fishermen off the Delft Island.
+
+The two Indian trawlers along with 7 fishermen were brought to the Talaimannar Pier while three Indian trawlers and 25 Indian fishermen were brought to Kankasanthurai harbour. They will be handed over to the Fisheries Inspectors of Mannar and Mailadi for onward legal proceedings, the statement said.
+
+The Navy has so far held 23 Indian trawlers and 178 Indian fishermen in island waters thus far in 2024, and handed them over to authorities for legal action, it added.
+
+◼️
+
+[Data](articles/905b395b.json)
+
+---
+
+### Srilankan delay is delayed due to a technical fault
 
 *2024-03-21 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194789) · `si`
 
-දකුණු කොරියාව බලා පියාසර කිරීමට තිබූ ශ්‍රීලන්කන් යානයක් තාක්ෂණික දෝෂයක් හේතුවෙන් නියමිත වේලාවට පිටත්වීමට නොහැකි වී තිබේ.
+A SriLankan flight to South Korea was delayed due to a technical fault, affecting 217 passengers. The airline issued a statement on March 20, fleeing 117 passengers, and facilitated Borewon for the remaining 100 passengers on March 24th. The delay is expected to impact SriLankan Airlines in South Korea.
 
-මෙලෙස තාක්ෂණික දෝෂයක් හේතුවෙන් ගමන් ප්‍රමාද වී ඇත්තේ මගීන් 217ක් රැගෙන දකුණු කොරියාවේ ඉන්චියොන් වෙත යාමට නියමිතව තිබූ යානයකි.
+🟩
 
-ශ්‍රීලන්කන් ගුවන් සේවය නිවේදනයක් නිකුත් කරමින් පවසන්නේ යානය ප්‍රමාද වී පිටත්වීම සඳහා අවසර ලබාගැනීමෙන් පසුව මාර්තු මස 20 වනදා උදැසන මගීන් 117ක් රැගෙන කොරියාවේ ඉන්චියොන් වෙත පියාසර කර ඇති බවය.
+A SriLankan SriLankan that was flying to South Korea was unable to leave due to a technical fault.
 
-ඒ අනුව කොරියාවේ රැකියා සඳහා පිටත්ව යාමට සිටි ඉතිරි මගීන් 100 දෙනාට මාර්තු 24 වනදා දකුණු කොරියාවේ ඉන්චියොන් වෙත යාමට පහසුකම් සලසා ඇති බව ශ්‍රීලන්කන් ගුවන් සේවය පවසයි.
+Due to such a technical fault, travel was delayed by a plane that was to travel to South Korea, taking 217 passengers.
 
-සිදුවූ ප්‍රමාදය හේතුවෙන් දකුණු කොරියාවේ ඔවුන්ගේ රැකියාවලට බලපෑමක් ඇති නොකරනු ඇතැයි අපේක්ෂා කරන බවද ශ්‍රීලන්කන් ගුවන් සේවය වැඩිදුරටත් සඳහන් කරයි.
+SriLankan is issued a statement saying that the plane has been fleeing 117 passengers on March 20 on March 20 after the departure of the plane.
+
+Accordingly, the 100 passengers who had to leave Korea have facilitated Borewon on March 24th.
+
+The SriLankan Airlines is expected to be affected by the delay due to the delay in South Korea.
 
 ◼️
 
 [Data](articles/8e0deae9.json)
+
+[Extended Data](ext_articles/8e0deae9.ext.json)
 
 ---
 
@@ -63,6 +119,8 @@ The COPF requested President Ranil Wickremesinghe to appoint a committee to revi
 ◼️
 
 [Data](articles/066c22a6.json)
+
+[Extended Data](ext_articles/066c22a6.ext.json)
 
 ---
 
@@ -136,53 +194,83 @@ Sri Lanka's priority country on human rights issues reflects our compassion for 
 
 ---
 
-### தற்போதைய சபாநாயகரை போன்று எதிர்க்கட்சியினருக்கு சந்தர்ப்பம் வழங்கிய வேறு சபாநாயகர்கள் வரலாற்றில் கிடையாது - பந்துல
+### There is no other speaker in history, like the current Speaker - the Opposition.
 
 *2024-03-21 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/179347) · `ta`
 
-போராட்டத்தின் போது நாடு அராஜக நிலைக்கு செல்வதை தடுப்பதற்கு சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன துணிவுடன் தீர்மானங்களை மேற்கொண்டார்.
+Speaker Mahinda Yapa Abeywardena's bold decisions during a struggle prevented anarchy. Minister Bandula Gunawardena gave up a foreign visit to vote against a no-confidence motion against him, highlighting his dedication. This occurred in a final debate on the no-confidence motion against the Speaker in Parliament on Thursday. The speaker's actions are appreciated for preventing the country from descending into chaos.
 
-அதனால் அவரின் அர்ப்பணிப்புக்கு நன்றி செலுத்தும் வகையில்  அவருக்கு எதிரான நம்பிக்கையில்லாப் பிரேரணைக்கு எதிராக வாக்களிப்பதற்கு வெளிநாட்டு விஜயத்தையும் கைவிட்டு நாடு திரும்பினேன் என அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் வியாழக்கிழமை இடம்பெற்ற சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை மீதான இறுதிநாள் விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+Speaker Mahinda Yapa Abeywardena boldly made decisions to prevent the country from going anarchy during the struggle.
 
-இந்த நாட்டின் சிறந்த பாராளுமன்ற ஜனநாயகம் மற்றும் பாராளுமன்ற முறைமை மிக மோசமான நெருக்கடிக்கு உள்ளாகும் நிலையில் அதற்காக நாம் பங்களிப்பு வழங்குவதா என நான் கேட்க விரும்புகிறேன்.
+Minister Bandula Gunawardena said that he gave up a foreign visit to vote against the no -confidence motion against him for his dedication.
+
+He was speaking at a final debate on the no -confidence motion against the Speaker in Parliament on Thursday.
+
+I would like to ask if we will contribute to the best parliamentary democracy and parliamentary system in this country.
+
+When I was elected to this Parliament in 1980, the situation here was completely different. Some people who do not understand the period say that this is the worst this time. It was a time when school students, teachers and intellectuals were all about theft of theft and that they should fight against it.
+
+Sri Lanka should be built as a non -violent democratic country without properly putting the accusation against the Speaker. There is no other speaker who gave the opposition a chance to the present Speaker
 
 ...
 
 [Data](articles/9d6453b6.json)
 
+[Extended Data](ext_articles/9d6453b6.ext.json)
+
 ---
 
-### எனக்கு நடிப்பைச் சொல்லித் தருவது இசைஞானியின் இசை தான் - தனுஷ் பெருமிதம்
+### The music of the musician is the music that tells me - Dhanush is proud
 
 *2024-03-21 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179358) · `ta`
 
-''சிறப்பான நடிப்பை வழங்க வேண்டும் என்ற சிக்கலான சூழலில் என்னுடைய எயர் போன்கள் மூலம் இசைஞானியின் இசையில் பாடல்களை கேட்டு அதில் மூழ்கி விடுவேன்.
+Actor Dhanush, in the film 'Ilayaraja', praises the music of Ilayaraja, highlighting its influence on his career. The film, directed by Arun Mateeswaran, features cinematography by Nirav Shah and art direction by Muthuraj. Kamal Haasan attended the launch, praising the director and the portrayal of Ilayaraja's life. Dhanush expresses pride in playing the musician in his biography, emphasizing the importance of Ilayaraja's music in his journey.
 
-அதன் மூலமாகவே எனது நடிப்பை வெளிப்படுத்துவேன். இன்றுவரை எனக்கு நடிப்பை சொல்லித் தருவது இசைஞானியின் இசை தான்'' என நடிகர் தனுஷ், இளையராஜாவின் சுயசரிதையை தழுவி தயாராகும் 'இளையராஜா' எனும் படத்தின் முதல் பார்வை வெளியிட்டு விழாவில் தெரிவித்திருக்கிறார்.‌
+🟩
 
-இயக்குநர் அருண் மாதேஸ்வரன் இயக்கத்தில் உருவாகும் 'இளையராஜா' எனும் திரைப்படத்தில் நடிகர் தனுஷ் முதன்மையான கதாபாத்திரத்தில் நடிக்கிறார்.
+“In the complex environment for the best performance, I will listen to the music of the musician with my Ayer phones.
+
+I will show my performance through it. Actor Dhanush said, "The music of the musician to date," he said at the ceremony.
+
+Actor Dhanush is playing the lead role in the film 'Ilayaraja' directed by director Arun Mateeswaran.
+
+Nirav Shah is the cinematography of this movie. Muthuraj works as art director. Sriram Bhagthi Saran, Criman, Chana Media, PK Prime Protection and Markuri Movies. K. Padmakumar, Varun Mathur, Young Pari Gajendran and Saurab Mishra are co -produced.
+
+The film's first look launch and launch ceremony was held at the star hotel in Chennai. 'World Man' Kamal Haasan participated as a special guest.
 
 ...
 
 [Data](articles/3410e957.json)
 
+[Extended Data](ext_articles/3410e957.ext.json)
+
 ---
 
-### டபுள் மீனிங் பேச்சுலர்கள் சங்கமமாகும் 'தி பொய்ஸ்'
+### Double Meaning Speaker Society
 
 *2024-03-21 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179360) · `ta`
 
-'ஹர ஹர மகாதேவகி', 'இருட்டு அறையில்  முரட்டு குத்து' ஆகிய படங்களின் மூலம் இளசுகளை தன் பக்கம் ஈர்த்த 'டபுள் மீனிங்' புகழ் படைப்பாளி சந்தோஷ் பி. ஜெயக்குமார் நடிக்கும் 'தி பொய்ஸ்' படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+"Double Meaning Speaker Society's Santosh P. releases 'The Lyes' movie preview, featuring Jayakumar, Shiva Shah Ra, and others. Directed by Jayakumar, with music by K. Arun Gautam, the film is produced by E. Senthil Kumar and Nitish Kumar. Released on 29th, it showcases a 'double meaning' comedy, welcomed by fans."
 
-இயக்குநர் சந்தோஷ் பி. ஜெயக்குமார் இயக்கத்தில் உருவாகி இருக்கும் 'தி பொய்ஸ்' திரைப்படத்தில் சந்தோஷ் பி. ஜெயக்குமார், சிவ ஷா ரா, ஹர்ஷத்,  கே பி ஒய் வினோத், யுவராஜ் கணேசன்,  நான் கடவுள் ராஜேந்திரன், ரெடின் கிங்ஸ்லீ உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-கே. அகமத் ஷெரிப் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அருண் கௌதம் இசையமைத்திருக்கிறார். குடியும் கும்மாளமாக அதாவது மதுவும் மாதுவுமாக வாழும் பேச்சுலர்களின் வாழ்வியலை ஜனரஞ்சகமான முறையில் சொல்லி இருக்கும் இந்த திரைப்படத்தை நோவா ஃபிலிம் ஸ்டுடியோஸ் மற்றும் டார்க் ரூம் பிக்சர்ஸ் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர் ஈ. செந்தில் குமார் மற்றும் எஸ். நிதிஷ்குமார் ஆகியோர் தயாரித்திருக்கிறார்கள்.
+'Double Meaning' fame creator Santosh P.. The preview of the movie 'The Lyes' starring Jayakumar has been released.
 
-...
+Director Santosh B. Santosh B in the movie 'The Loyas' directed by Jayakumar. Jayakumar, Shiva Shah Ra, Harshad, KP Y Vinod, Yuvraj Ganesan, I God Rajendran, Redin Kingsley and many others have been cast.
+
+K. Arun Gautam has composed the film, which has been recorded by Ahmad Sharif. The film, which is popularized by the people of Nova Film Studios and Dark Room Pictures, is the producer E.. Senthil Kumar and S. Produced by Nitish Kumar.
+
+The preview of the film has been released on the 29th of this month.
+
+In the preview, 'I God' Rajendran is a woman and her choice on her sex.. Double meaning comedy has been bluntly known as there is no famine. This preview has been welcomed by the fans who are enjoying the kind (A) kind of comic.
+
+◼️
 
 [Data](articles/0acc1376.json)
+
+[Extended Data](ext_articles/0acc1376.ext.json)
 
 ---
 
@@ -2183,85 +2271,5 @@ Modi told me that Sri Lanka is one of the three best countries in the world that
 [Data](articles/b5e325b5.json)
 
 [Extended Data](ext_articles/b5e325b5.ext.json)
-
----
-
-### Woman arrested for murder arrested three years later
-
-*2024-03-21 11:35:55* · [`adalk`](https://www.ada.lk/breaking_news/මනුෂ්‍ය-ඝාතනයකට-සම්බන්ධ-කාන්තාවක්-වසර-තුනකට-පසු-අත්අඩංගුවට/11-408739) · `si`
-
-A 46-year-old woman from Ratmalana was arrested for murder three years after the crime. She was involved in drug trafficking and was caught with eight people in Panadura, carrying elephant weapons. The suspect had been on the run since the crime but was arrested in 2021, receiving stock of drugs for sale.
-
-🟩
-
-The Mt.
-
-The suspect is the age of 46 years of Rural in Ratmalana and has been revealed in drug trafficking.
-
-The police said that when the Mthindu Vidyalaya Bureau of Mt.
-
-Accordingly, the woman was produced before the Mount Lavinia Magistrate's Court on the occasion of 2021, the woman was 2021 at Julie, Panadura on 2021, with eight people with eight people with elephant weapons in Panadura Pinata.He was also revealed that the main suspect was revealed.
-
-The suspect has come to the fleeing area since this day and has come back to the countryside and has been able to be arrested while he has been arrested while receiving the stock of drugs for sales.
-
-◼️
-
-[Data](articles/9f6f9422.json)
-
-[Extended Data](ext_articles/9f6f9422.ext.json)
-
----
-
-### Woman arrested for a man arrested for three years
-
-*2024-03-21 11:35:55* · [`adalk`](https://www.ada.lk/breaking_news/මනුෂ්‍ය-ඝාතනකට-සම්බන්ධ-කාන්තාවක්-වසර-තුනකට-පසු-අත්අඩංගුවට/11-408739) · `si`
-
-A 46-year-old woman from Ratmalana was arrested in 2021 for drug trafficking. She was caught with eight people and elephant weapons in Panadura. The suspect had been in hiding since the incident but was arrested while receiving drugs for sale.
-
-🟩
-
-The Mt.
-
-The suspect is the age of 46 years of Rural in Ratmalana and has been revealed in drug trafficking.
-
-The police said that when the Mthindu Vidyalaya Bureau of Mt.
-
-Accordingly, the woman was produced before the Mount Lavinia Magistrate's Court on the occasion of 2021, the woman was 2021 at Julie, Panadura on 2021, with eight people with eight people with elephant weapons in Panadura Pinata.He was also revealed that the main suspect was revealed.
-
-The suspect has come to the fleeing area since this day and has come back to the countryside and has been able to be arrested while he has been arrested while receiving the stock of drugs for sales.
-
-◼️
-
-[Data](articles/b3f26499.json)
-
-[Extended Data](ext_articles/b3f26499.ext.json)
-
----
-
-### The arrival of the money is kidnapped
-
-*2024-03-21 11:20:00* · [`adalk`](https://www.ada.lk/breaking_news/සල්ලිි-දීල-ගන්න-ආපු-කර්-එක-පැහැරගෙන-ගිහින්/11-408738) · `si`
-
-A man arrested in Wadduwa Wadugama, four days after buying a car, was identified by CCTV footage from Kankunwila to Wadduwa. He was a car repairman, and the stolen car was not taken to court.
-
-🟩
-
-According to an Internet notice, a person who had come to buy the car was arrested in Wadduwa Wadugama, four days after the preception of it was checked.
-
-The suspect was arrested after he inspected the views of nearly 20 celebrations
-
-Police say that the car was also tightened by the horana Kannanwila road and had to go to the Horana Kannankaduvila road and to visit the horana to visit the car in the face of purchasing the car.
-
-The suspect has opened the front bont at the time and the car has opened the door to the left and the owner and headed to the engine, police said.
-
-According to the police station of Horana Police, nearly 20 CCTV views from Kankunwila to Wadduwa, the suspect was identified with the car at his home.
-
-Investigations have revealed that the suspect is a car repairman and the stolen police are not taken to the Horana Magistrate's Court.
-
-◼️
-
-[Data](articles/06ce4bb5.json)
-
-[Extended Data](ext_articles/06ce4bb5.ext.json)
 
 ---

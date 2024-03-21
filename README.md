@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 14:50:54**
+As of **2024-03-21 15:03:21**
 
 ## Newspaper Stats
 
-*Scraped **14,322** Articles*
+*Scraped **14,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 756
 economynextcom | 764
 islandlk | 782
 adalk | 1,237
-adaderanalk | 1,717
-tamilmirrorlk | 1,732
+adaderanalk | 1,719
+tamilmirrorlk | 1,734
 virakesarilk | 2,013
 dailymirrorlk | 2,194
 adaderanasinhalalk | 2,283
@@ -26,63 +26,171 @@ adaderanasinhalalk | 2,283
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,317 (100.0%) of 14,322 articles have been extended.
+14,322 (100.0%) of 14,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### பொலிஸார் நீதிமன்றை தவறாக வழிநடாத்துகின்றார்கள் - யாழில் சட்டத்தரணி மனு தாக்கல்
+### ADB launches new partnership strategy for Sri Lanka
+
+*2024-03-21 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98104/adb-launches-new-partnership-strategy-for-sri-lanka) · `en`
+
+The Asian Development Bank (ADB) has launched a new country partnership strategy (CPS) for Sri Lanka covering the period 2024–2028. The strategy will focus on restoring the country’s macroeconomic stability, reviving growth, and establishing the foundation for sustainable recovery and resilience.
+
+“This new partnership strategy will build on ADB’s ongoing assistance to support the country’s efforts to restore macroeconomic stability, and to achieve green and long-term sustainable growth,” said ADB Country Director for Sri Lanka Takafumi Kadono. “The CPS responds to Sri Lanka’s economic situation by tailoring ADB assistance to address the country’s long-standing macroeconomic imbalances and structural impediments through knowledge solutions, policy advisory support, and priority investments.”
+
+...
+
+[Data](articles/ada3a8bd.json)
+
+---
+
+### டிலான் பெரேரா இராஜினாமா
+
+*2024-03-21 14:46:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிலான்-பெரேரா-இராஜினாமா/175-334991) · `ta`
+
+பொது நிறுவனங்கள் தொடர்பான குழுவில் இருந்து (கோப்) எதிர்க்கட்சி எம்.பி டிலான் பெரேரா இன்று இராஜினாமா செய்தார்.
+
+பாராளுமன்றத்தில் சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை மீதான விவாதத்தில் கலந்து கொண்டு உரையாற்றும் போதே அவர் தனது பதவி விலகலை அறிவித்தார்.
+
+◼️
+
+[Data](articles/422826fa.json)
+
+---
+
+### The struggle of the fishermen that continues in Jaffna;Worrishness
+
+*2024-03-21 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179307) · `ta`
+
+Jaffna fishermen protest food avoidance since 19th, with support from local organizations. Tamil MPs' lack of involvement highlighted.
+
+🟩
+
+Jaffna fishermen have accused the Food Avoidance Struggle launched on Thursday (21) for the third day on Thursday (21).
+
+Yall. The Federation of District Rural Fisheries Organizations and the Jaffna District Fisheries Co -operative Societies Federation have been engaged in a food -free struggle in front of St. John Posco Vidyalaya, Jaffna since the 19th.
+
+Four fishermen, especially Selvathurai Nalukkunam, Anton Sebarasa, Chinathambi Shanmugarajah and Anthony Pillai Mariyadas, have been involved in the food avoidance.
+
+The Jaffna Taiti Mother Fisheries Association has participated in the Jaffna Taiti Taiti today in support of the fishermen's food protest.
+
+At the same time, it is distressing that the Tamil MPs have not called for their role in the protests and rallies, knowing that it is impossible, and that those who automatically stick to the media and reports to the media have not extended their support for this livelihood issue.
+
+◼️
+
+[Data](articles/fb0e1a99.json)
+
+[Extended Data](ext_articles/fb0e1a99.ext.json)
+
+---
+
+### பெப்ரவரி மாதத்தில் 7%  ஆக குறைந்துள்ளது
+
+*2024-03-21 14:41:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெப்ரவரி-மாதத்தில்-7-ஆக-குறைந்துள்ளது/175-334990) · `ta`
+
+வெரிட்டே ரிசேர்ச்சின் கேலப் பாணியிலான (Gallup style) சமீபத்திய 'தேசத்தின் மனநிலை' கருத்துக்கணிப்பின்படி, 2023 ஒக்டோபர் மாதத்தில்  9% ஆக இருந்த அரசாங்கம் மீதான மக்களின் அங்கீகாரம் 2024 பெப்ரவரியில்7% ஆகக் குறைந்துள்ளது.
+
+தற்போதைய பொருளாதாரம் சிறப்பாக உள்ளது அல்லது நல்ல நிலையில் உள்ளது என 9 சதவீதமானவர்கள் மட்டுமே மதிப்பிட்டதாகக் கணக்கெடுப்பு சுட்டிக்காட்டுகிறது, இது 2023 அக்டோபரில் 16 சதவீதமாக இருந்தது என்பது குறிப்பிடத்தக்கது.
+
+நாட்டின் பொருளாதார நிலைமைகள் மோசமடைந்து வருவதாக 90% கருதுகின்றனர், அதேவேளை 2023 அக்டோபரில் 66% மட்டுமே இவ்வாறான எதிர்மறையான பார்வையைக் கொண்டிருந்தனர்.
+
+தற்போதைய அரசாங்கம் செயல்படும் முறையை நீங்கள் அங்கீகரிக்கிறீர்களா அல்லது மறுக்கிறீர்களா?" என்ற கேள்விக்கு, பதிலளித்தவர்களில் 7% (கிட்டத்தட்ட 7.5%) தாங்கள்ஏற்றுக்கொள்வதாகக் கூறியுள்ளனர் (± 1.81% பிழை வரம்புடன்). அரசாங்கம் செயல்படும்முறையை நிராகரிப்பதாகக் கூறிய சதவீதம் 85% ஆகும். அரசாங்கம் மீதான அங்கீகார மதிப்பீடு 2022ஜூன் மாதத்திற்குப் பிறகு தற்போது மிகக் குறைந்த புள்ளியை எட்டியுள்ளது.
+
+...
+
+[Data](articles/4e6613f9.json)
+
+---
+
+### CBSL advises against wilful mutilation and defacement of currency notes
+
+*2024-03-21 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98103/cbsl-advises-against-wilful-mutilation-and-defacement-of-currency-notes) · `en`
+
+The Central Bank of Sri Lanka (CBSL) has raised concerns about the recent trend of using currency notes to prepare ornaments and gift items and promotion of such activities through social media.
+
+In a special notice issued to the members of the public, the CBSL’s Superintendent of Currency advised against wilful mutilation or defacement of currency notes.
+
+Pursuant to Section 55 of CBSL Act, No. 16 of 2023, any person found guilty of cutting or perforating; affixing any seal or stamp by printing, stamping or drawing on; attaching or affixing things to; reproducing or making a facsimile of currency notes; or using such mutilated or defaced notes as a legal tender would be subjected to a fine of Rs. 25 million, imprisonment of up to 3 years or both.
+
+As such, the CBSL urged the members of the public to refrain from engaging in the aforementioned unlawful activities.
+
+◼️
+
+[Data](articles/88c7dabf.json)
+
+---
+
+### Police mislead the court - lawyer filed a petition in Jaffna
 
 *2024-03-21 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/179326) · `ta`
 
-பொலிஸார் நீதிமன்றை தவறாக வழிநடத்தி, நீதிமன்ற அதிகாரத்தை கீழ்மைப்படுத்துகிறார்கள் என யாழ்ப்பாண நீதிமன்றில் மன்றில் சட்டத்தரணி ஒருவர் மனு தாக்கல் செய்துள்ளார்.
+A lawyer in Jaffna accuses police of misleading the court, filing a petition against a police officer and a constable. The petitioner claims the police statement is misleading, threatening the court's honor. Investigations begin on the 1st.
 
-யாழ்ப்பாண விசேட குற்றத்தடுப்பு பொலிஸ் பிரிவின் பொறுப்பதிகாரி மற்றும் கான்ஸ்டபில் ஒருவருக்கு எதிராகவே மனு தாக்கல் செய்யப்பட்டுள்ளது.
+🟩
 
-இந்நிலையில் , நீதிமன்றில் பொலிஸார் தாக்கல் செய்த அறிக்கை ஒன்றில்  "மனுதாரர் தான் செய்த குற்றத்தை உணர்ந்து, தன்னை பொலிஸார் எந்நேரமும் கைது செய்யலாம் என்ற அச்சத்தை எதிர்நோக்கி, முன் பிணை விண்ணப்பம் செய்தார்" என்றும் , மனுதாரர் சந்தேக நபராக முற்படுத்த வேண்டிய நபர் எனவும் குறிப்பிட்டுள்ளனர்.
+A lawyer has filed a petition in the Jaffna court that the police mislead the court and submit the court power.
 
-குறித்த வாசகங்களானது நீதிமன்றினால் ஆக்கப்பட்ட கட்டளையை வேண்டும் என்றே தவறாக முன்னிலைப்படுத்துவதாகவும் , நீதிமன்ற கௌரவத்தை கீழ்மைப்படுத்துவதாகவும் , சட்டத்தரணி மனு தாக்கல் செய்துள்ளார்.
+A petition has been filed against a person in charge of the Jaffna Special Crime Police Division and a Constabil.
 
-குறித்த மனு மீதான விசாரணைகள் எதிர்வரும் 1 ஆம் திகதி நடைபெறும் என மன்று திகதி குறித்துள்ளது.
+In a statement filed by the police in court, the petitioner said, "The petitioner realized that the petitioner had made the crime he had committed and feared that the police would always be arrested," he said.
+
+The lawyer has filed a petition that the words are misleading and submitting the court's honor as a court order.
+
+Investigations on the petition will be held on the 1st of this month.
 
 ◼️
 
 [Data](articles/ca32250a.json)
 
+[Extended Data](ext_articles/ca32250a.ext.json)
+
 ---
 
-### දකුණ හොල්ලන්න අලුතින් එන පොලිස් ලොක්කා
+### Newly Incoming Police Boss
 
 *2024-03-21 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194776) · `si`
 
-දකුණු පළාත තුළ නීතිය සාමය රජ කරවන යුගයක් නිර්මාණය කරන බව පළාත භාර නව ජ්‍යේෂඨ නියෝජ්‍ය පොලිස්පති මහේෂ් සේනාරත්න මහතා පවසයි.
+New Southern Province Police Boss, Senior DIG Mahesh Senaratne, emphasizes creating a peaceful era, ensuring safety for all.
 
-එම ධුරයේ රාජකාරී ආරම්භ කිරීමේ අවස්ථාවට එක්වෙමින් ජ්‍යේෂඨ නියෝජ්‍ය පොලිස්පති මහේෂ් සේනාරත්න මහතා මේ බව පැවසීය.
+🟩
 
-"මගේ ප්‍රධාන අරමුණ තමයි අපේ ගරු පොලිස්පතිතුමා දේශබන්දු තෙන්නකෝන් මහත්මයාගේ මේ රට හැදීමේ කටයුත්තේ ප්‍රමුඛස්ථානයක් ගැනීම. මේ දකුණු පළාත තුළ නීතිය සාමය රජ කරවන යුගයක් හදන්න ඕන. මිනිස්සුන්ට බියෙන් සැකෙන් තොරව ජීවත්වෙන්න පුළුවන් පරිසරයක් සකස්කරන්න ඕන. ඒ නිසා ඒ පරිසරය සකස්කරනවා, සකස්කරන්න බැරිනම් එන්නෙත් නෑ. සකස්කරනවා ඒ නිසා ඒකට අවශ්‍ය සහයෝගය ඔයගොල්ලෝ ලබාදෙන්න."
+New centers in charge of the province is created in the Southern Province.
+
+Senior DIG Mahesh Senaratne was speaking at the commencement of the duties of the post.
+
+"My main purpose is to take a leading priority in our Hon.. The law in this Southern Province must be created a period of the era of peace. People have to prepare an environment where people can live without fear. Therefore, it is preparing and not to prepare the environment. So you have the support of it. "
 
 ◼️
 
 [Data](articles/a3abeb6d.json)
 
+[Extended Data](ext_articles/a3abeb6d.ext.json)
+
 ---
 
-### யாழ்.நாவாந்துறை உணவகத்திற்கு 2 இலட்ச ரூபாய் தண்டம்
+### 2 lakh rupees for Jaffna Restaurant
 
-*2024-03-21 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/179325) · `ta`
+*2024-03-21 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179325) · `ta`
 
-யாழ்ப்பாணம் நாவாந்துறை பகுதியில் உள்ள உணவகம் ஒன்றுக்கு 2 இலட்சம் ரூபாய் தண்டம் விதிக்கப்பட்டுள்ளது.
+A Jaffna restaurant in Navanthurai was fined 2 lakh rupees for poor hygiene and food safety, leading to 20 charges against the owner.
 
-பொது சுகாதார பரிசோதகர்களால் நாவாந்துறை பகுதியில் உள்ள உணவகம் ஒன்றில் திடீர் பரிசோதனை மேற்கொள்ளப்பட்ட போது , பழுதடைந்த உணவுகள் ,இறைச்சி கறிகள் என்பன மீட்கப்பட்டதுடன் , சுகாதாரத்திற்கு கேடு விளைவிக்கும் வகையிலான சூழல்கள் அவதானிக்கப்பட்டது.
+🟩
 
-அதனை அடுத்து உரிமையாளருக்கு எதிராக யாழ்.மேலதிக நீதவான் நீதிமன்றில் பொது சுகாதார பரிசோதகர்களால் 20 குற்றச்சாட்டுக்களின் கீழ் வழக்கு தாக்கல் செய்யப்பட்டது.
+2 lakhs of rupees per restaurant in Navanthurai area in Jaffna.
 
-குற்றச்சாட்டுக்களை உரிமையாளர் ஏற்றுக்கொண்டதை அடுத்து, ஒவ்வொரு குற்றத்திற்கும் 10 ஆயிரம் ரூபாய் வீதம் , 20 குற்றச்சாட்டுக்களுக்கு 2 இலட்ச ரூபாய் தண்டம் விதிக்கப்பட்டது.
+During a sudden inspection of a restaurant in Navanthurai area by public health inspectors, dilapidated foods and meat curries were recovered and the environment of health was observed.
+
+Subsequently, a case was filed against the owner under 20 charges by Public Health Inspectors at the Jaffna Magistrate's Court.
+
+After the owner's acceptance of the allegations, each offense was sentenced to 10 thousand rupees and 20 charges.
 
 ◼️
 
 [Data](articles/ce8e1214.json)
+
+[Extended Data](ext_articles/ce8e1214.ext.json)
 
 ---
 
@@ -290,21 +398,27 @@ The US $ 299.0465 was reported at Rs.
 
 ---
 
-### උතුරටත් වැසි
+### Showers in the North
 
 *2024-03-21 13:30:25* · [`adalk`](https://www.ada.lk/breaking_news/උතුරටත්-වැසි/11-408741) · `si`
 
-පවත්නා දැඩි වියලි කාලගුණික තත්වය අවසන් කරමින් මාස කිහිපයකට පසුව උතුරු පලාතේ ප්‍රදේශ කිහිපයකට අද (21) සැලකිය යුතු වර්ෂාපතිනයක් ලැබෙමින් පවති.
+The Northern Province is experiencing its first rainfall in several months, relieving severe drought conditions. People are comforted by the rain, especially in Vavuniya, Omantha, Puliyankulam, Kilinochchi, Pooneryn, and Jaffna. Farmers in the North are also benefiting from the rain.
 
-දැඩි සූර්ය රශ්මියත් ඒ හා බැඳුනු වියලි කාලගුණික තත්වයත් හේතුවෙන් උතුරු පලාතේ ජනතාවද දැඩි පීඩාවකට පත්ව සිටි අතර වර්ෂාපතනය ලැබීමත් සමග ජනතාවට මහත් අස්වැසිල්ලක් උදාවී තිබේ.
+🟩
 
-වව්නියාව ඔිමන්ත , පුලියන්කුලම, මාන්කුලම්, කිලිනොච්චිය, පුනරීන් සහ යාපනය යන ප්‍රදේශ සඳහා ඊයේ (20) රාත්‍රියේත් අද උදෑසන සිටත් වර්ෂාපතිනය ලැබෙමින් පවති.
+Several months of the Northern Province, a significant range of the North of the Northern Province is being received today after completing the current dry weather conditions.
 
-මෙවර මාස්කන්නයේ ගොවිතැන් අවසන් වීමෙන් පසුව යල්කන්නයේ ගොවිතැන් කිරීමට බලාපොරොතුතුවෙන් සිටින උතුරේ ගොවීන්ට වර්ෂාව නොමැති වීමෙන්ද දැඩි පීඩාවන්ට පත්ව සිටියහ.
+The people of the Northern Province were also suffering from severe solar andiented dry weather and the people have a great comfort with the rainfall.
+
+Vavuniya was receiving the briefing of Omantha, Puliyankulam, Kilinochchi, Pooneryn and Jaffna this morning.
+
+The farmers in the North were also severely persecuted by the farmers in the Northern Province.
 
 ◼️
 
 [Data](articles/cbf518a9.json)
+
+[Extended Data](ext_articles/cbf518a9.ext.json)
 
 ---
 
@@ -637,32 +751,6 @@ He pointed out that there is nothing wrong with vegetarian, vegetarian, easily d
 [Data](articles/b16539c1.json)
 
 [Extended Data](ext_articles/b16539c1.ext.json)
-
----
-
-### The struggle of the fishermen that continues in Jaffna;Worrishness
-
-*2024-03-21 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179307) · `ta`
-
-Jaffna fishermen protest food avoidance since 19th, with support from local organizations. Tamil MPs' lack of involvement highlighted.
-
-🟩
-
-Jaffna fishermen have accused the Food Avoidance Struggle launched on Thursday (21) for the third day on Thursday (21).
-
-Yall. The Federation of District Rural Fisheries Organizations and the Jaffna District Fisheries Co -operative Societies Federation have been engaged in a food -free struggle in front of St. John Posco Vidyalaya, Jaffna since the 19th.
-
-Four fishermen, especially Selvathurai Nalukkunam, Anton Sebarasa, Chinathambi Shanmugarajah and Anthony Pillai Mariyadas, have been involved in the food avoidance.
-
-The Jaffna Taiti Mother Fisheries Association has participated in the Jaffna Taiti Taiti today in support of the fishermen's food protest.
-
-At the same time, it is distressing that the Tamil MPs have not called for their role in the protests and rallies, knowing that it is impossible, and that those who automatically stick to the media and reports to the media have not extended their support for this livelihood issue.
-
-◼️
-
-[Data](articles/fb0e1a99.json)
-
-[Extended Data](ext_articles/fb0e1a99.ext.json)
 
 ---
 
@@ -2203,87 +2291,5 @@ Professor Nandisena Nawal, a professor of Sri Jayewardenepura University, is con
 [Data](articles/f5744508.json)
 
 [Extended Data](ext_articles/f5744508.ext.json)
-
----
-
-### A change of dry weather
-
-*2024-03-21 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194754) · `si`
-
-The Department of Meteorology forecasts dry weather starting today, with showers or thundershowers expected in the Western, Sabaragamuwa, Southern, and North-Central provinces. Heavy rains may occur in some areas of Sabaragamuwa, and moderate rainfall in parts of the Central provinces. Public advised to prepare for wind and lightning.
-
-🟩
-
-The Department of Meteorology announces that the current dry weather conditions in the country can be expected from today (21).
-
-Showers or night thundershowers during the evening or night in the Western, Sabaragamuwa, Southern, Southern and North-Central provinces.
-
-Some places in Sabaragamuwa Province. Mee. Heavy rains can occur more than 50.
-
-Some locations in the Sabaragamuwa and Central provinces and in some places are expected to be metaded in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/7b244533.json)
-
-[Extended Data](ext_articles/7b244533.ext.json)
-
----
-
-### Sufficient water levels in reservoirs, no power cuts expected
-
-*2024-03-21 06:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sufficient-water-levels-in-reservoirs-no-power-cuts-expected/108-279285) · `en`
-
-Colombo, March 21 (Daily Mirror) - Despite the prolonged drought, water levels in hydro and irrigation reservoirs in the country are still sufficient, ensuring no need for power cuts in the near future, the authorities said yesterday.
-
-The Ministry of Power and Energy assures no need for power cuts until end of April as hydropower plants have sufficient water reserves.
-
-Thanks to heavy rains received two months prior, all hydro and irrigation reservoirs have attained ample water capacity, with some even reaching their spill levels, Irrigation Department Director Eng. S.P.C. Sugeeshwara said.
-
-He told the Daily Mirror that there has been a notable lack of rainfall from mid-January until now. He mentioned that as a result, the present water capacities of hydro and irrigation reservoirs are at a significant level.
-
-...
-
-[Data](articles/38b85c29.json)
-
-[Extended Data](ext_articles/38b85c29.ext.json)
-
----
-
-### CSOs and TUs reject cosmetic consultations of IMF
-
-*2024-03-21 06:10:48* · [`dailyftlk`](https://www.ft.lk/opinion/CSOs-and-TUs-reject-cosmetic-consultations-of-IMF/14-759754) · `en`
-
-The grave inequalities in society are widening and more people are trapped in poverty with little hope of recovery
-
-Put people at the centre of plans for socio-economic recovery and advancement
-
-Following is a statement signed by 42 civil society organisations and 26 trade unions, rejecting the cosmetic consultations of the IMF.
-
-The IMF team is in Colombo for the Second Review of the ongoing Extended Fund Facility (EFF) loan agreement with Sri Lanka and will meet with some civil society organisations and think tanks in Colombo on 19 March 2024, to receive their views on the progress of the ongoing structural reforms, and governance issues including anti-corruption reforms. This meeting is held in a context where it is already established that the Government has met only 30% of the benchmarked governance targets.
-
-...
-
-[Data](articles/9ca33810.json)
-
-[Extended Data](ext_articles/9ca33810.ext.json)
-
----
-
-### Application of banking ethics in Sri Lanka
-
-*2024-03-21 06:07:15* · [`dailyftlk`](https://www.ft.lk/columns/Application-of-banking-ethics-in-Sri-Lanka/4-759751) · `en`
-
-Ethical banking encourages transparency, helps build strong communities and establishes a set of principles and ideals that govern all banking activities
-
-Any business depends and improves mainly based on the trust placed by the customers. In order to gain and enhance this trust, application of ethics in business is of paramount importance. Banking is a business that purely depends upon the trust placed by not only its customers but also by the general public. Transparency, fairness and sound decision-making are the cornerstones of a strong banking business. All these are more related to ethics in banking than of complying with rules and regulations.
-
-...
-
-[Data](articles/3c81cdfd.json)
-
-[Extended Data](ext_articles/3c81cdfd.ext.json)
 
 ---

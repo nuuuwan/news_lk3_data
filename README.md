@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 10:18:06**
+As of **2024-03-21 10:33:42**
 
 ## Newspaper Stats
 
@@ -26,41 +26,55 @@ adaderanasinhalalk | 2,274
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,252 (100.0%) of 14,256 articles have been extended.
+14,256 (100.0%) of 14,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### நாடாளுமன்ற தேர்தல் முறையில் மாற்றங்களை மேற்கொள்ள முயற்சி - தேர்தல் தாமதமாகலாம் என பவ்ரல் அச்சம்
+### Trying to make changes in parliamentary electoral system - Powell fears that election may be delayed
 
 *2024-03-21 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/179282) · `ta`
 
-நாடாளுமன்ற தேர்தல் முறையில்  மாற்றங்களை மேற்கொள்வதற்கான முயற்சிகள் காரணமாக தேர்தல்கள் தாமதமாகலாம் என தேர்தல் கண்காணிப்பு அமைப்பான பவ்ரல் கரிசனை வெளியிட்டுள்ளது.
+Powell Garisan warns elections may be delayed due to changes in parliamentary electoral system. Rohana Hettiarachchi, Executive Commissioner, emphasizes the need for border measures to be completed before electoral changes. If changes are not implemented by August, the Election Commission should hold elections under the current system.
 
-நாடாளுமன்ற தேர்தல் முறையில் மாற்றங்களை மேற்கொள்வதற்கான யோசனைகள் உரிய முறையில் நடைமுறைப்படுத்தப்படாவிட்டால் தேர்தல்கள் தாமதமாகலாம் என பவ்ரல் அமைப்பின் நிறைவேற்று பணி;ப்பாளர் ரோகண ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+🟩
 
-தேர்தல் முறையில் மாற்றங்களை ஏற்படுத்தவேண்டியதன் அவசியத்தை வலியுறுத்தியுள்ள அவர் அதேவேளை நாடாளுமன்ற தேர்தல் முறையில் மாற்றங்களை மேற்கொள்வதற்கு முன்னர் எல்லை நிர்ணய நடவடிக்கைகளை பூர்த்தி செய்யவேண்டு;ம் எனவும் தெரிவித்துள்ளார்.
+The election monitoring organization Powell Garisan has issued a statement that the elections may be delayed due to efforts to make changes in parliamentary electoral system.
 
-எல்லை நிர்ணயநடவடிக்கைகளை பூர்த்தி செய்யாவிட்டாலும் ஆகஸ்ட்மாதத்தி;ற்குள் தேர்தல் முறையில் மாற்றங்களை மேற்கொண்டாலும் இந்த நகல்சட்டமூலத்தில் தற்போதுள்ள தேர்தல் முறையின் கீழ் தேர்தல்களை நடத்துவதற்கு தேர்தல் ஆணையகத்திற்குஅனுமதி வழங்கும் திருத்தத்தை உள்ளடக்கவேண்டும் எனவும் அவர் தெரிவித்துள்ளார்.
+The Executive Commissioner of the Powell Organization, Rohana Hettiarachchi, said the elections could be delayed if the proposals were not properly implemented.
 
-...
+He emphasized the need to change electoral systems, while the border measures should be completed before the parliamentary electoral system changes.
+
+He said that even if the border measures are not fulfilled or the electoral changes within the month of August, the Election Commission should include the amendment to the Election Commission to hold elections under the existing election system.
+
+Rohana Hettiarachchi pointed out that the postponement of the local government and provincial council elections was due to delays in border activities.
+
+◼️
 
 [Data](articles/d1aa07f4.json)
 
+[Extended Data](ext_articles/d1aa07f4.ext.json)
+
 ---
 
-### අමෙරිකා ගිය බන්දුල ව නැවත ගෙන්වයි
+### The America-lasting Bandula returns
 
 *2024-03-21 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194765) · `si`
 
-ලෝක බැංකුව විසින් සංවිධානය කළ සමුළුවකට සහභාගී වීම සඳහා අමෙරිකාවේ වොෂිංටන් වෙත ගොස් සිටි අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා ඊයේ (20) රාත්‍රි යළි දිවයිනට පැමිණ තිබේ.
+Minister Bandula Gunawardena arrived in Sri Lanka for a World Bank convention, then attended a no-confidence motion against the Speaker.
 
-අමාත්‍යවරයා දිවයිනට පැමිණි පසු මාධ්‍ය හමුවේ පැවසුවේ කථානායකවරයාට එරෙහි විශ්වාසභංග යෝජනාවට අදාළ ඡන්ද විමසීමේ අවස්ථාවට සහභාගිවීම සඳහා මෙලෙස තමා කැඳවු බවයි.
+🟩
+
+Minister Bandula Gunawardena arrived in the island yesterday to attend a convention organized by the World Bank.
+
+After the Minister arrived in Sri Lanka, he said that he was summoned to attend the no-confidence motion against Speaker.
 
 ◼️
 
 [Data](articles/1ca217d6.json)
+
+[Extended Data](ext_articles/1ca217d6.ext.json)
 
 ---
 
@@ -82,6 +96,8 @@ The motion brought forth by the opposition against the Speaker was officially ha
 
 [Data](articles/2bbae5be.json)
 
+[Extended Data](ext_articles/2bbae5be.ext.json)
+
 ---
 
 ### Sri Lanka to start talks to restructure bonds next week - report
@@ -97,6 +113,8 @@ The nation’s central bank governor and treasury secretary are due to travel to
 ...
 
 [Data](articles/9465212d.json)
+
+[Extended Data](ext_articles/9465212d.ext.json)
 
 ---
 

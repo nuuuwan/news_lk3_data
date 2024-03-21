@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 15:33:21**
+As of **2024-03-21 15:51:20**
 
 ## Newspaper Stats
 
-*Scraped **14,334** Articles*
+*Scraped **14,339** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,46 +17,134 @@ economynextcom | 764
 islandlk | 782
 adalk | 1,238
 adaderanalk | 1,721
-tamilmirrorlk | 1,735
-virakesarilk | 2,014
-dailymirrorlk | 2,195
+tamilmirrorlk | 1,737
+virakesarilk | 2,015
+dailymirrorlk | 2,197
 adaderanasinhalalk | 2,285
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,330 (100.0%) of 14,334 articles have been extended.
+14,334 (100.0%) of 14,339 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### බදු පනත් 2ක් බලාත්මක කෙරේ
+### IMF reaches staff-level agreement with SL on second review
+
+*2024-03-21 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-reaches-staff-level-agreement-with-SL-on-second-review/108-279326) · `en`
+
+The IMF team reached staff-level agreement with the Sri Lankan authorities on the second review under the economic reform program supported by a 4-year Extended Fund Facility (EFF) arrangement and concluded the 2024 Article IV Consultation discussions.
+
+Addressing the media, IMF Senior Mission Chief Peter Breuer said the staff-level agreement is subject to the approval by IMF management and the IMF Executive Board in the period ahead.
+
+The approval will depend on the implementation by the authorities of prior actions, the completion of financing assurances review, which will focus on confirming multilateral partners’ committed financing contributions, and whether adequate progress has been made with the debt restructuring to give confidence that the restructuring will be concluded in a timely manner and in line with the program’s debt targets.
+
+...
+
+[Data](articles/adafd665.json)
+
+---
+
+### Two Tax Bills Enforcement
 
 *2024-03-21 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194778) · `si`
 
-පාර්ලිමේන්තුව විසින් සම්මත කරනු ලැබූ පනත් කෙටුම්පත් 02ක් සඳහා කථානායක මහින්ද යාපා අබේවර්ධන මහතා අත්සන් තබා තිබේ.
+Speaker Mahinda Yapa Abeywardena signed two tax bills for Parliament: Social Security Tax (Amendment) Act, No. 15 of 2024, and VAT (Amendment) Act, No. 16 of 2024.
 
-සමාජ ආරක්ෂණ දායකත්ව බදු (සංශෝධන) සහ එකතු කළ අගය මත බදු (සංශෝධන) යන පනත් කෙටුම්පත් සඳහා කථානායකවරයා මෙලෙස ඊයේ (20) සිය සහතිකය සටහන් කර ඇත.
+🟩
 
-ඒ අනුව, උක්ත පනත් කෙටුම්පත් 2024 අංක 15 දරන සමාජ ආරක්ෂණ දායකත්ව බදු (සංශෝධන) පනත සහ 2024 අංක 16 දරන එකතු කළ අගය මත බදු (සංශෝධන) පනත ලෙස ඊයේ (20) සිට බලාත්මක වන බව ශ්‍රී ලංකා පාර්ලිමේන්තුව නිවේදනය කළේය.
+Speaker Mahinda Yapa Abeywardena has signed two Bills to be passed by Parliament.
+
+The Speaker has recorded his certificate yesterday (20) for Social Security Tax (Amendment) and VAT (Amendment).
+
+Accordingly, the above Bills Announced the Parliament of Social Security Tax (Amendment) Act, No. 15 of Variations (Amendment) Act, No. 16 of 2024 as a review.
 
 ◼️
 
 [Data](articles/50b7eed4.json)
 
+[Extended Data](ext_articles/50b7eed4.ext.json)
+
 ---
 
-### ජාත්‍යන්තර මූල්‍ය අරමුදලෙන් ශ්‍රී ලංකාවට සුබ ආරංචියක්
+### Good news to Sri Lanka from the International Monetary Fund
 
 *2024-03-21 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194777) · `si`
 
-ශ්‍රී ලංකාවට අනුමත කළ විස්තීර්ණ ණය පහසුකමේ වැඩසටහන සම්බන්ධයෙන් කාර්ය මණ්ඩල මට්ටමේ එකඟතාවයකට එළඹුණු බව ජාත්‍යන්තර මූල්‍ය අරමුදල නිවේදනය කළේය.
+The International Monetary Fund has approved a staff-level agreement for Sri Lanka's comprehensive loan facility.
+
+🟩
+
+The International Monetary Fund announced that he had approved a staff level regarding the comprehensive loan facility that was approved by Sri Lanka.
 
 ◼️
 
 [Data](articles/4397fcae.json)
+
+[Extended Data](ext_articles/4397fcae.ext.json)
+
+---
+
+### இலங்கையில் இரத்தப்புற்றுநோயால் பாதிக்கப்பட்டவர்களின் பெற்றோர் பெரும் நெருக்கடியில் ; மருந்து தட்டுப்பாடு ; விலை பல மடங்காக அதிகரிப்பு
+
+*2024-03-21 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179333) · `ta`
+
+மத்தியமலைநாட்டை சேர்ந்தநுவான் புஸ்பகுமார புற்றுநோயினால் பாதிக்கப்பட்டுள்ள தனது மகனின் சிகிச்சைக்காக ஒவ்வொரு முறையும் 230 கிலோமீற்றர் பயணம் செய்கின்றார்.
+
+அவரது 18 வயது மகன் இரத்தப்புற்றுநோயினால் பாதிக்கப்பட்டுள்ளமை கடந்த வருடம் தெரியவந்தது அதன் பின்னர் பெற்றோர் இருவரும் ஒவ்வொரு முறையும் தங்கள் ஊரிலிருந்து சிகிச்சைக்காக மகரஹமவி;ற்கு வருகின்றனர்.
+
+இலங்கை தனதுமக்கள் அனைவருக்கும் இலவசமருத்துவ கிசிச்சையை வழங்குகி;ன்றது  அரசாங்;கம் தனது வரவுசெலவுதிட்டத்தில் நான்கு வீதத்தினை சுகாதார சேவைகளுக்காக ஒதுக்கியுள்ளது.
+
+எனினும் பொருளாதாரநெருக்கடியின் விளைவுகள் காரணமாக முன்னர் பாராட்டுக்களை பெற்ற சுகாதார துறைதற்போது மருந்துகள் போலிமருந்துகள் நெருக்கடியில் சிக்குண்டுள்ளது.
+
+புஸ்பகுமாரவின் குடும்பத்தினர் போன்ற தனியார் வைத்தியசாலைகளில் சிகிச்சை பெறமுடியாத பலருக்கு தேசிய புற்றுநோய் வைத்தியசாலை போன்றன மிகவும் பிரதானமானவையாக காணப்படுகின்றன.
+
+இங்கு நுவான் போன்ற நோயாளிகளிற்கு இலவசமாக கிசிச்சைகளை வழங்கவேண்டும் ஆனால் சமீபத்தில் அவ்வாறான நிலைமை காணப்படவில்லை என நோயாளிகள் தெரிவிக்கின்றனர்.
+
+...
+
+[Data](articles/41274005.json)
+
+---
+
+### ரூ.20 இலட்சத்துக்கு லைட்டர் விற்ற இருவர் கைது
+
+*2024-03-21 15:10:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-20-இலட்சத்துக்கு-லைட்டர்-விற்ற-இருவர்-கைது/175-334993) · `ta`
+
+ஒரேயொரு லைட்டரை 20 இலட்சம் ரூபாய்க்கு விற்பனைச் செய்தனர் என்றக் குற்றச்சாட்டின் இருவர் கைது செய்யப்பட்டுள்ளனர். வெளிநாட்டில் இருந்து கொண்டுவரப்பட்ட தங்க பிஸ்கட் எனக்கூறியே, வென்னப்புவ வைக்கால் பிரதேசத்தைச் சேர்ந்த நபரிடம் இவ்வாறு விற்பனைச் செய்யப்பட்டுள்ளனர். அவ்விருவரையும் கம்பளை பொலிஸார் கைது செய்துள்ளனர்.
+
+தங்க பிஸ்கட் படங்களை இணைத்தளங்களில் பெற்றுக்கொண்டு, கொள்வனவு செய்வோரிடம் அவற்றை காண்பித்து கூடுதல் விலைக்கு விற்பனை செய்துள்ளனர். அவ்வாறே, தங்க பிஸ்கட் வடிவத்தில், வெளிநாட்டில் இருந்து கொண்டுவரப்பட்ட லைட்டரை விற்றுள்ளனர்.
+
+கம்பளை, புஸ்ஸல்லாவை   வகுகபிட்டிய மற்றும் ஹெல்பொட பிரதேசங்களைச் சேர்ந்த இருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+அவ்விருவரும் நாடளாவிய ரீதியில் சென்று, வர்த்தகர்களை, பணம் படைத்த நபர்களை சந்தித்து நண்பர்களாகி இவ்வாறு போலியான தங்க பிஸ்கட்டுகளை விற்பனைச் செய்து வந்துள்ளமை விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது என பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/76032a0a.json)
+
+---
+
+### Viyathmaga has no connection to Gotabaya’s expulsion: Nalaka Godahewa
+
+*2024-03-21 15:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Viyathmaga-has-no-connection-to-Gotabayas-expulsion-Nalaka-Godahewa/108-279325) · `en`
+
+Parliament, March 21 (Daily Mirror)- The Viyathmaga had no connection to the economic crisis and the expulsion of former President Gotabaya Rajapaksa from office, Parliamentarian Nalaka Godahewa said today.
+
+He told Parliament that the crisis situation was a result of the banning of chemical fertilizer, shortage of gas, the power crisis and depletion of foreign reserves.
+
+The MP said Gotabaya Rajapaksa in his book which was released recently clearly said that former Agriculture Minister Mahindananda Aluthgamage had supported him in the implementation of the organic farming policy.
+
+He said the Viyathmaga members who were appointed as Secretaries to the Ministries were against the decisions taken by the President and as a result, four of them were removed.
+
+The MP said this in response to a claim made by Minister Mahinda Amaraweera, who said that the Viyathmaga was behind the faulty decisions taken by Gotabaya Rajapaksa resulting in the expulsion of the then President and the government.
+
+◼️
+
+[Data](articles/5add26bb.json)
 
 ---
 
@@ -76,6 +164,8 @@ Completion of the review by the IMF’s Executive Board requires:
 
 [Data](articles/8d2df923.json)
 
+[Extended Data](ext_articles/8d2df923.ext.json)
+
 ---
 
 ### Speaker endorses VAT and Social Security Contribution Levy bills
@@ -91,6 +181,8 @@ The two Bills thus came into effect as the Social Security Contribution Levy (Am
 ◼️
 
 [Data](articles/762f8aeb.json)
+
+[Extended Data](ext_articles/762f8aeb.ext.json)
 
 ---
 
@@ -221,6 +313,24 @@ Do you recognize or refuse the method of acting in the current government? ”In
 [Data](articles/4e6613f9.json)
 
 [Extended Data](ext_articles/4e6613f9.ext.json)
+
+---
+
+### மக்களின் மனநிலை பெப்ரவரியில் 7%  ஆக குறைந்துள்ளது
+
+*2024-03-21 14:41:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களின்-மனநிலை-பெப்ரவரியில்-7-ஆக-குறைந்துள்ளது/175-334990) · `ta`
+
+வெரிட்டே ரிசேர்ச்சின் கேலப் பாணியிலான (Gallup style) சமீபத்திய 'தேசத்தின் மனநிலை' கருத்துக்கணிப்பின்படி, 2023 ஒக்டோபர் மாதத்தில்  9% ஆக இருந்த அரசாங்கம் மீதான மக்களின் அங்கீகாரம் 2024 பெப்ரவரியில்7% ஆகக் குறைந்துள்ளது.
+
+தற்போதைய பொருளாதாரம் சிறப்பாக உள்ளது அல்லது நல்ல நிலையில் உள்ளது என 9 சதவீதமானவர்கள் மட்டுமே மதிப்பிட்டதாகக் கணக்கெடுப்பு சுட்டிக்காட்டுகிறது, இது 2023 அக்டோபரில் 16 சதவீதமாக இருந்தது என்பது குறிப்பிடத்தக்கது.
+
+நாட்டின் பொருளாதார நிலைமைகள் மோசமடைந்து வருவதாக 90% கருதுகின்றனர், அதேவேளை 2023 அக்டோபரில் 66% மட்டுமே இவ்வாறான எதிர்மறையான பார்வையைக் கொண்டிருந்தனர்.
+
+தற்போதைய அரசாங்கம் செயல்படும் முறையை நீங்கள் அங்கீகரிக்கிறீர்களா அல்லது மறுக்கிறீர்களா?" என்ற கேள்விக்கு, பதிலளித்தவர்களில் 7% (கிட்டத்தட்ட 7.5%) தாங்கள்ஏற்றுக்கொள்வதாகக் கூறியுள்ளனர் (± 1.81% பிழை வரம்புடன்). அரசாங்கம் செயல்படும்முறையை நிராகரிப்பதாகக் கூறிய சதவீதம் 85% ஆகும். அரசாங்கம் மீதான அங்கீகார மதிப்பீடு 2022ஜூன் மாதத்திற்குப் பிறகு தற்போது மிகக் குறைந்த புள்ளியை எட்டியுள்ளது.
+
+...
+
+[Data](articles/9cd66ae7.json)
 
 ---
 
@@ -2157,119 +2267,5 @@ Dr. Wijesuriya, who found himself in hot water over the statement, claimed a rev
 [Data](articles/f0002d8a.json)
 
 [Extended Data](ext_articles/f0002d8a.ext.json)
-
----
-
-### No research activities, only replenishment for German research vessel in Sri Lanka
-
-*2024-03-21 08:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-research-activities-only-replenishment-for-German-research-vessel-in-Sri-Lanka/108-279290) · `en`
-
-Colombo, March 21 (Daily Mirror) - Sri Lanka has barred research activities for German vessel ‘Sonne’ in keeping with the one-year moratorium on such activities involving foreign ships in its Exclusive Economic Zone, but it will be allowed for replenishment in the Colombo port, Daily Mirror learns.
-
-The government has declared a moratorium on foreign research ships entering its waters for a year amid concerns from India over Chinese research vessels docking in its neighborhood. It was announced in the wake of China asking for the deployment of another research vessel. The government’s decision is seen as in response to growing concerns in India.
-
-...
-
-[Data](articles/b7cd9ade.json)
-
-[Extended Data](ext_articles/b7cd9ade.ext.json)
-
----
-
-### Bus accident - 15 including school children hospitalized
-
-*2024-03-21 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194760) · `si`
-
-A bus accident on Wellawaya and Tanamalwila main road hospitalized 15, including 7 school children. The bus driver is suspected to be at fault.
-
-🟩
-
-At the Wellawaya and Tanamalwila main road, a private bus toppled on the road.
-
-Seven school children and 15 others including the bus driver have been admitted to the Wellawaya Basic Hospital.
-
-The police suspect that the bus was caused by the driver of the bus due to accident.
-
-◼️
-
-[Data](articles/06fde6b2.json)
-
-[Extended Data](ext_articles/06fde6b2.ext.json)
-
----
-
-### 19 suspects directly linked to the underworld arrested so far - Police
-
-*2024-03-21 08:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98093/19-suspects-directly-linked-to-the-underworld-arrested-so-far-police) · `en`
-
-Sri Lanka Police says that a total of 19 individuals directly linked to the underworld have been arrested thus far under the special operation launched against organized crime and the underworld in parallel to the ongoing ‘Yukthiya’ anti-drug operation.
-
-Accordingly, four members belonging to three criminal gangs were arrested yesterday (20) along with with ice (crystal methamphetamine), heroin and swords.
-
-The arrested suspects who are residents of Maradana, Modara, Grandpass and Maligawatta are aged 44, 26, 23 and 28.
-
-The suspects were arrested by the Colombo Crimes Division (CCD) while in possession of 2 grams and 450 milligrams of heroin, 7 grams and 510 milligrams of ice drug, 3 grams and 160 milligrams of ice. The CCD is conducting further investigations.
-
-Meanwhile a suspected underworld gunman was killed following a shootout with Police Special Task Force (STF) personnel at Ganemulla last night (20).
-
-...
-
-[Data](articles/fe17e677.json)
-
-[Extended Data](ext_articles/fe17e677.ext.json)
-
----
-
-### Four underworld members arrested
-
-*2024-03-21 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194759) · `si`
-
-The Colombo Crimes Division arrested four members of an organized crime gang, including those involved in a heroin and ice drug explosion. The suspects, residents of Maradana, Motors, Grandpass, and Maligawatta, were found with 2 grams of heroin and 160 g of ice drugs. Further investigations are ongoing.
-
-🟩
-
-The Colombo Crimes Division has passed four members of organized crime gang.
-
-The suspects have been arrested by the special operation of organized crime expired of the organized crime explosion implemented by the IGP from the 19th.
-
-Four members of three criminal groups have been arrested yesterday with the ice and heroin of the heroin yesterday.
-
-The arrested persons are residents of Maradana, Motors, Grandpass and Maligawatta.
-
-2 grams of heroin in possession of the suspects and arrested 160 g of ice drugs, 7 milligrams, 7 milligrams, 510 milligrams. The Colombo Division will be conducting further investigations.
-
-The police say that 19 persons have been directly involved with the underworld have been arrested.
-
-◼️
-
-[Data](articles/28c64ad3.json)
-
-[Extended Data](ext_articles/28c64ad3.ext.json)
-
----
-
-### Underworld gunman injured in shootout with STF succumbs to injuries
-
-*2024-03-21 07:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98092/underworld-gunman-injured-in-shootout-with-stf-succumbs-to-injuries) · `en`
-
-The suspected underworld gunman who was injured in a shootout with Police Special Task Force (STF) personnel at Ganemulla last night has succumbed to injuries.
-
-Police said the suspect died while receiving treatment at the Ragama Hospital.
-
-The suspect in question had opened fire at STF personnel who were engaged in searching a house at Sumedha Mawatha in Ganemulla last night, based on intelligence received.
-
-One of the STF personnel was injured in the incident while the suspect was also critically injured when police had returned fire and both had been hospitalised.
-
-The deceased is suspected to be a gunman involved in several previous underworld gang related shootings, police said.
-
-The 28-year-old resident of Eheliyagoda is an army deserter and is suspected to be the shooter in the shooting incident that took place at Dandugama, Ja-Ela on March 09.
-
-He is said to have been a close associate of the underworld figure known as ‘Patta Manju’.
-
-◼️
-
-[Data](articles/9e73b0a1.json)
-
-[Extended Data](ext_articles/9e73b0a1.ext.json)
 
 ---

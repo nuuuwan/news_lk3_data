@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 01:17:55**
+As of **2024-03-22 01:33:37**
 
 ## Newspaper Stats
 
-*Scraped **14,407** Articles*
+*Scraped **14,408** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,36 @@ adalk | 1,246
 adaderanalk | 1,731
 tamilmirrorlk | 1,740
 virakesarilk | 2,028
-dailymirrorlk | 2,214
+dailymirrorlk | 2,215
 adaderanasinhalalk | 2,301
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,407 (100.0%) of 14,407 articles have been extended.
+14,407 (100.0%) of 14,408 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-22 (Friday)
+
+### Govt. approval rating dips to 7% in February
+
+*2024-03-22 01:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Govt-approval-rating-dips-to-7-in-February/172-279345) · `en`
+
+The approval rating of the government fell from 9% in October 2023 to 7% in February 2024, according to the latest round of the Gallup style ‘Mood of the Nation’ poll of Verité Research.
+
+The survey showed that only 9% rated the current economic conditions as either excellent or good, which is a drop from 16% in October 2023.
+
+Ninety percent thought that the economic conditions in the country were getting worse, whereas in October 2023 only 66% had this negative view.
+
+To the question, “Do you approve or disapprove of the way the current government is working?”, Seven percent (almost 7.5%) of the respondents said that they approve (with an error margin of ± 1.81%). The percentage saying they disapproved was 85%. The approval rating is its lowest since June 2022.
+
+...
+
+[Data](articles/921ffc83.json)
+
+---
 
 ### 2024-03-21 (Thursday)
 
@@ -2271,27 +2291,5 @@ A new “genuine student test” will be introduced to further crack down on int
 [Data](articles/a8e22873.json)
 
 [Extended Data](ext_articles/a8e22873.ext.json)
-
----
-
-### The court's strict order for the minister's wife
-
-*2024-03-21 13:12:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரின்-மனைவிக்கு-நீதிமன்றம்-கடும்-கட்டளை/175-334987) · `ta`
-
-Tambuttegama Magistrate Buddhika Malwatta ordered the wife of a cabinet minister to appear in court on the 22nd, threatening further action if she fails to show. The minister's wife, MK, was accused of violating a 10-year-old order to highlight six cows in court, protecting animals under Ekro International.
-
-🟩
-
-Tambuttegama Magistrate Buddhika Malwatta has ordered the wife of a cabinet minister to appear in court on the 22nd of this month.
-
-According to the court order, the magistrate said that if the suspect's wife did not appear in court that day, further action would be taken to assume that the court had insulted the court.
-
-The suspect, the woman, MK in the Kurunegala Maeliya area. The minister's wife was informed against the minister's wife that the Tambuttegama magistrate had violated the orders issued 10 years ago to highlight six cows in the court, which protects the animals that are being carried out under the name of Ekro International.
-
-◼️
-
-[Data](articles/bae11b4b.json)
-
-[Extended Data](ext_articles/bae11b4b.ext.json)
 
 ---

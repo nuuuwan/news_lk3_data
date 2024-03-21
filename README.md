@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 08:04:07**
+As of **2024-03-21 08:17:48**
 
 ## Newspaper Stats
 
-*Scraped **14,226** Articles*
+*Scraped **14,228** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ dailyftlk | 756
 economynextcom | 760
 islandlk | 782
 adalk | 1,226
-adaderanalk | 1,705
+adaderanalk | 1,706
 tamilmirrorlk | 1,720
 virakesarilk | 1,987
 dailymirrorlk | 2,180
-adaderanasinhalalk | 2,267
+adaderanasinhalalk | 2,268
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,226 (100.0%) of 14,226 articles have been extended.
+14,226 (100.0%) of 14,228 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### තවත් පාතාල සාමාජිකයෝ සිව්දෙනෙක් අත්අඩංගුවට
+
+*2024-03-21 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194759) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් සිව්දෙනෙකු අත්අඩංගුවට ගැනීමට කොළඹ අපරාධ කොට්ඨාසය සමත්ව තිබේ.
+
+පසුගිය 19 වනදා සිට පොලිස්පතිවරයාගේ උපදෙස් මත ක්‍රියාත්මක කර ඇති සංවිධානාත්මක අපරාධ මැඩලීමේ විශේෂ මෙහෙයුම මඟින් මෙම සැකකරුවන්ව අත්අඩංගුවට ගෙන ඇත.
+
+ඒ අනුව අපරාධ කණ්ඩායම් තුනකට අයත් සාමාජිකයින් සිව්දෙනෙක් ඊයේ (20) අයිස්, හෙරොයින් මත්ද්‍රව්‍ය හා කඩු සමග අත්අඩංගුවට පත්ව තිබේ.
+
+එලෙස අත්අඩංගුවට ගෙන ඇත්තේ අවුරුදු 44, 26, 23 හා 28 යන වයස්වල පසුවන මරදාන, මෝටර, ග්‍රෑන්ඩ්පාස් සහ මාළිගාවත්ත යන ප්‍රදේශවල පදිංචිකරුවන්ය.
+
+සැකකරුවන් සන්තකයේ තිබී හෙරොයින් ග්‍රෑම් 2යි මිලිග්‍රෑම් 450, අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 7යි මිලිග්‍රෑම් 510, අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 3 මිලිග්‍රෑම් 160ක් අත්අඩංගුවට ගෙන ඇත. කොළඹ කොට්ඨාසය වැඩිදුර විමර්ශන සිදුකරනු ඇත.
+
+මේ වනවිට පාතාලය සමග ඍජුව සම්බන්ධතා පවත්වනු ලැබූ පුද්ගලයින් 19 දෙනෙකු මේ වනවිට අත්අඩංගුවට ගෙන ඇතැයි පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/28c64ad3.json)
+
+---
+
+### Underworld gunman injured in shootout with STF succumbs to injuries
+
+*2024-03-21 07:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98092/underworld-gunman-injured-in-shootout-with-stf-succumbs-to-injuries) · `en`
+
+The suspected underworld gunman who was injured in a shootout with Police Special Task Force (STF) personnel at Ganemulla last night has succumbed to injuries.
+
+Police said the suspect died while receiving treatment at the Ragama Hospital.
+
+The suspect in question had opened fire at STF personnel who were engaged in searching a house at Sumedha Mawatha in Ganemulla last night, based on intelligence received.
+
+One of the STF personnel was injured in the incident while the suspect was also critically injured when police had returned fire and both had been hospitalised.
+
+The deceased is suspected to be a gunman involved in several previous underworld gang related shootings, police said.
+
+The 28-year-old resident of Eheliyagoda is an army deserter and is suspected to be the shooter in the shooting incident that took place at Dandugama, Ja-Ela on March 09.
+
+He is said to have been a close associate of the underworld figure known as ‘Patta Manju’.
+
+◼️
+
+[Data](articles/9e73b0a1.json)
+
+---
 
 ### A change in prevailing dry weather condition expected from today
 
@@ -2111,45 +2157,5 @@ The Minister said this issue should be resolved in a proper manner without creat
 [Data](articles/7232bc2e.json)
 
 [Extended Data](ext_articles/7232bc2e.ext.json)
-
----
-
-### Gazette on suspension of Parate Execution to be presented to Parliament tomorrow: State Minister
-
-*2024-03-20 16:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gazette-on-suspension-of-Parate-Execution-to-be-presented-to-Parliament-tomorrow-State-Minister/108-279242) · `en`
-
-Parliament, March 20 (Daily Mirror)- The gazette notification on the suspension of the Parate Execution law will be presented to Parliament tomorrow, State Minister of Finance Shehan Semasinghe announced today.
-
-"We will have to provide 14 days for anyone to submit petitions. Then, we will have to wait for the Supreme Court determination. Accordingly, it will take a few weeks for the implementation," the State Minister said.
-
-◼️
-
-[Data](articles/5ab519ce.json)
-
-[Extended Data](ext_articles/5ab519ce.ext.json)
-
----
-
-### Two petitions were challenged by IGP
-
-*2024-03-20 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194738) · `si`
-
-IGP challenged two petitions on fundamental rights. Supreme Court Judge Surveyon set dates for April 2. Petitions by Young Journalists Association and CPA are under consideration.
-
-🟩
-
-The days have been fixed to consider two fundamental rights petitions filed by the IGP.
-
-Derana stated that the Supreme Court Judge Surveyon has set the relevant basic rights petitions on April 2.
-
-Accordingly, the petitioner had also set the judiciary to refer to the respondents in the petition.
-
-The two petitions have been submitted by the Young Journalists Association and the CPA.
-
-◼️
-
-[Data](articles/cf2054b0.json)
-
-[Extended Data](ext_articles/cf2054b0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 17:17:59**
+As of **2024-03-21 17:33:58**
 
 ## Newspaper Stats
 
-*Scraped **14,368** Articles*
+*Scraped **14,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 1,240
 adaderanalk | 1,725
 tamilmirrorlk | 1,737
 virakesarilk | 2,024
-dailymirrorlk | 2,203
-adaderanasinhalalk | 2,292
+dailymirrorlk | 2,204
+adaderanasinhalalk | 2,293
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,366 (100.0%) of 14,368 articles have been extended.
+14,368 (100.0%) of 14,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### ෂෙල් හෙට සිට ඉන්ධන අලෙවිය අරඹයි
+
+*2024-03-21 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194786) · `si`
+
+මෙරට ඉන්ධන වෙළෙඳපොළට අලුතින් එකතු වන ෂෙල්-ආර් එම් පාක්ස් සමාගමට අයත් පළමු ඉන්ධන නෞකාව අද (21) පෙරවරුවේ කොළඹ වරායට සේන්දු විය.
+
+ඒ අනුව එම සමාගම හෙට (22) සිට පිරවුම් හල් 150ක් හරහා ඉන්ධන අලෙවිය ආරම්භ කරයි.
+
+◼️
+
+[Data](articles/7ca2ad77.json)
+
+---
+
+### Protest demanding justice for women...
+
+*2024-03-21 17:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protest-demanding-justice-for-women/110-279328) · `en`
+
+A group of women staged a silent protest outside the Health Ministry today advocating swift justice and protection for children and women. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/022c92fa.json)
+
+---
 
 ### Duminda Nagamuwa and Lahiru Weerasekara remanded
 
@@ -47,6 +73,8 @@ A total of thirty-three individuals including Duminda Nagamuwa, Lahiru Weeraseka
 ...
 
 [Data](articles/80943545.json)
+
+[Extended Data](ext_articles/80943545.ext.json)
 
 ---
 
@@ -117,6 +145,8 @@ The debate commenced in the Parliament on Tuesday (March 19).
 ...
 
 [Data](articles/3a50cebc.json)
+
+[Extended Data](ext_articles/3a50cebc.ext.json)
 
 ---
 
@@ -2257,51 +2287,5 @@ The parents of the missing relationships were asked about contemporary issues an
 [Data](articles/1e2b089d.json)
 
 [Extended Data](ext_articles/1e2b089d.ext.json)
-
----
-
-### Pregnant teacher killed in train
-
-*2024-03-21 10:47:26* · [`adalk`](https://www.ada.lk/breaking_news/ගැබිනි-ගුරුවරියක්-දුම්රියේ-ගැටී-ජීවිතක්ෂයට/11-408735) · `si`
-
-A pregnant teacher from Rathgama was killed by a train on the coastal railway line. Vidyalaya, a resident of Ovakanda Media, was identified as the victim. The Ratgama Police are investigating.
-
-🟩
-
-The Ratgama Police say that the victim's teachers have been hit by a pregnant teachers in the Rathgama Ovan area on the coastal railway line.The deceased has been identified as Vidyalaya, a teacher in Vidyalaya, Rathgama Madagali Modaadeva, a resident of the Ovakanda Media.
-
-The teacher, a three-year-old mother, is pregnant, police said.The teacher had collided with the train traveling from Colombo to Beliatta.The Ratgama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/9ba2f942.json)
-
-[Extended Data](ext_articles/9ba2f942.ext.json)
-
----
-
-### Yall. Vaddukoddai Youth Massacre: The wife of the deceased
-
-*2024-03-21 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/179291) · `ta`
-
-In Jaffna, a youth was murdered in Vaddukoddai. The killer's wife, abducted with him, identified the fifth suspect. Six suspects were arrested and remanded. The wife appeared in court to identify the suspect, and the case was adjourned until the 28th for further interrogation.
-
-🟩
-
-The wife of a young man who killed the fifth suspect has been identified as the murder of a youth in the Vaddukoddai area in Jaffna.
-
-The young man from Vaddukoddai area left the Karainagar area with his wife and returned on a motorbike and was abducted and murdered with his wife in front of the Naval Base near the Ponnalai Bridge.
-
-Police have arrested six people who are conducting investigations into the incident.. The arrested persons have been remanded in court order.
-
-In this case, the six suspects who were arrested and interrogated were present at the Mallakam Magistrate's Court on Wednesday.. At the time, the wife of the murderous young man appeared in the forum and identified the fifth suspect.
-
-The magistrate then adjourned the case to the 28th and ordered the six suspects to be interrogated until that day.
-
-◼️
-
-[Data](articles/c95f3e42.json)
-
-[Extended Data](ext_articles/c95f3e42.ext.json)
 
 ---

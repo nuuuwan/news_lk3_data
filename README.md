@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 09:33:27**
+As of **2024-03-21 09:52:09**
 
 ## Newspaper Stats
 
-*Scraped **14,245** Articles*
+*Scraped **14,248** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,51 +18,125 @@ islandlk | 782
 adalk | 1,226
 adaderanalk | 1,707
 tamilmirrorlk | 1,724
-virakesarilk | 1,989
+virakesarilk | 1,991
 dailymirrorlk | 2,184
-adaderanasinhalalk | 2,270
+adaderanasinhalalk | 2,271
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,234 (99.9%) of 14,245 articles have been extended.
+14,245 (100.0%) of 14,248 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### வெல்லவாயா பஸ் விபத்தில் 7 மாணவர்கள் உட்பட 15 பேர் காயம்!
+### எல்லை தாண்டி வந்து மீன்பிடித்த குற்றச்சாட்டின் கீழ் 31 இந்திய மீனவர்கள் கைது!
+
+*2024-03-21 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179278) · `ta`
+
+இலங்கை கடற்பரப்பினுள் அத்துமீறி வந்து மீன்பிடி நடவடிக்கைகளில் ஈடுபட்ட இந்திய மீனவர்கள் 31 பேர் நேற்று புதன்கிழமை (20) இரவு  இலங்கை கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+அந்தவகையில் 3 படகுகளில் வந்து நெடுந்தீவு கடற்பரப்பில் மீன்பிடித்துக்கொண்டிருந்த 25 மீனவர்களும், 2 படகுகளில் வந்து மன்னார் கடற்பரப்பில் மீன்பிடித்துக்கொண்டிருந்த ஆறு மீனவர்களும் இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+நெடுந்தீவு கடற்பரப்பில் வைத்து கைது செய்யப்பட்ட மீனவர்கள் காங்கேசன்துறை -  மயிலிட்டி துறைமுகத்திற்கு அழைத்துச் செல்லப்படவுள்ளனர்.
+
+பின்னர் யாழ்ப்பாண மாவட்ட நீரியல்வள திணைக்களத்தினர் மீனவர்களுக்கு எதிராக ஊர்காவற்துறை நீதிமன்றத்தில் வழக்கு தாக்கல் செய்யவுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/02997858.json)
+
+---
+
+### කථානායකවරයාට එරෙහි විශ්වාසභංග විවාදය තෙවැනි දිනට ඇරඹේ
+
+*2024-03-21 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194762) · `si`
+
+නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් මේ වනවිට පාර්ලිමේන්තු කටයුතු ආරම්භ කර තිබේ.
+
+කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ ඡන්ද විමසීම අද (21) දින සිදුකිරීමට නියමිතව තිබේ.
+
+සමගි ජනබලවේගය විසින් කතානායකවරයාට එරෙහිව ඉදිරිපත් කළ විශ්වාසභංග යෝජනාව පසුගිය 19 වන දින විවාදයට ගැණුනු අතර එහි ඡන්ද විමසීම ඊයේ (20) සිදුකිරීමට නියමිතව තිබිණි.
+
+එහෙත් විවාදය සඳහා තවත් දිනයක් ලබාදීමට පාර්ලිමේන්තු කටයුතු පිළිබඳව කාරක සභාව තීරණය කිරීමත් සමග ඡන්ද විමසීම අද දින සිදුකිරීමට නියමිතව තිබේ.
+
+ඒ අනුව අද පස්වරු 4.30ට විවාදයට අදාළ ඡන්ද විමසීම පැවැත්වෙනු ඇත.
+
+මේ අතර ලෝක බැංකුව විසින් සංවිධානය කළ සමුළුවකට සහභාගී වීම සදහා අමෙරිකාවේ වොෂිංටන් වෙත ගොස් සිටි අමාත්‍ය බන්දුල ගුණවර්ධන මහතා ඊයේ දිනයේ යළි දිවයිනට පැමිණ තිබේ.
+
+කථානායකවරයාට එරෙහිව පැවැත්වෙන විශ්වාසභංග යෝජනාවට අදාළ ඡන්ද විමසීම සඳහා සහභාගී වන ලෙස ජනාධිපතිවරයා කළ දැනුම්දීමෙන් පසු තමන් සිය සංචාරය අවලංගු කර දිවයිනට පැමිණි බව බන්දුල ගුණවර්ධන අමාත්‍යවරයා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/dffbc0b6.json)
+
+---
+
+### விசேட அதிரடிப்படையினருடனான துப்பாக்கிச் சூட்டில் பாதாள உலகக்குழுவின் துப்பாக்கிதாரி பலி
+
+*2024-03-21 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/179276) · `ta`
+
+கணேமுல்ல பிரதேசத்தில் நேற்று புதன்கிழமை (20) இரவு  பொலிஸ் விசேட அதிரடிப்படையினருடன் இடம்பெற்ற துப்பாக்கிச் சூட்டில் காயமடைந்த பாதாள உலகக்குழுவின் துப்பாக்கிதாரி என சந்தேகிக்கப்படும் நபர் ஒருவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+சந்தேக நபர் ராகம வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கணேமுல்ல சுமேத மாவத்தையில் நேற்றிரவு  வீடொன்றில் சோதனை நடவடிக்கையில் ஈடுபட்டிருந்த விசேட அதிரடிப்படையினர் மீது இந்த சந்தேகநபர் துப்பாக்கிப் பிரயோகம் மேற்கொண்டுள்ளார்.
+
+இந்தச் சம்பவத்தில் விசேட அதிரடிப்படை அதிகாரி ஒருவர் காயமடைந்துள்ளார். அதே சமயம் விசேட அதிரடிப்படையினர் நடத்திய துப்பாக்கிச் சூட்டில் சந்தேக நபரும் படுகாயமடைந்துள்ளார். இந்நிலையில், காயமடைந்த இருவரும் வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
+
+உயிரிழந்தவர், இதற்கு முன்னர் பல பாதாள உலகக் குழு நடத்திய துப்பாக்கிச் சூட்டுச் சம்பவங்களுடன் தொடர்புடையவர் என சந்தேகிப்பதாக பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/87636c53.json)
+
+---
+
+### At least 15 people, including 7 students, were injured in a bus accident
 
 *2024-03-21 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179277) · `ta`
 
-வெல்லவாய – தனமல்வில பிரதான வீதியில் வெல்லவாய குமாரதாச சந்தியில் இன்று புதன்கிழமை (21) காலை தனியார் பஸ் ஒன்று விபத்துக்குள்ளானது.
+A bus crash at Wellawaya Kumaradasa junction injured 15, including 7 students and a driver, who were admitted to Wellawaya Hospital.
 
-இந்தச் சம்பவத்தில 7 பாடசாலை மாணவர்கள், பஸ் சாரதி உட்பட 15 பேர் காயமடைந்து வெள்ளவாய ஆரம்ப வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+🟩
+
+A private bus crashed at the Wellawaya Kumaradasa junction on Wellawaya - Tanamalwila main road this morning.
+
+Seven school children, including a bus driver, were injured and admitted to the Wellawaya Hospital.
 
 ◼️
 
 [Data](articles/50259d8d.json)
 
+[Extended Data](ext_articles/50259d8d.ext.json)
+
 ---
 
-### பரஸ்பர துப்பாக்கிச் சூட்டில் சந்தேகநபர் மரணம்
+### The suspect's death in mutual shooting
 
 *2024-03-21 09:14:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரஸ்பர-துப்பாக்கிச்-சூட்டில்-சந்தேகநபர்-மரணம்/175-334972) · `ta`
 
-கனேமுல்ல பிரதேசத்தில் இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவத்தில் ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பலைச் சேர்ந்த ஒருவர் சுட்டுக்கொல்லப்பட்டுள்ளார்.
+In Kanemulla, a man was shot dead in a mutual shooting incident involving a criminal gang. The suspect, a 28-year-old from Eheliyagoda, fired at the Special Task Force, injuring both him and an officer. The victim, who had previously fired at Ja-Ela, was also injured and admitted to Ragama Hospital.
 
-கோனஹேன பொலிஸ் விசேட அதிரடிப்படை அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் நேற்று (20) கணேமுல்ல சுமேத மாவத்தை பகுதியில் உள்ள வீடொன்றை சுற்றிவளைத்து சோதனையிட்ட போது, ​​சந்தேக நபர் விஷேட அதிரடிப் படையினர் மீது துப்பாக்கிச் சூடு நடத்தியதையடுத்து, இரு தரப்பினருக்கும் இடையே பரஸ்பர துப்பாக்கசூடு இடம்பெற்றுள்ளது.
+🟩
 
-இதன்போது சந்தேக நபர் மற்றும் விசேட அதிரடிப்படை அதிகாரி ஒருவரும் காயமடைந்து ராகம வைத்தியசாலையில் அனுமதிக்கப்பட்ட போது சந்தேகநபர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A man has been shot dead in an organized criminal gang in the shooting incident in Kanemulla area.
 
-சம்பவத்தில் உயிரிழந்தவர் கடந்த 9ஆம் திகதி ஜா-எல, தன்டுகம பஸ்வத்த பிரதேசத்தில் இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவத்தில் துப்பாக்கிச் சூடு நடத்தியவர் எனத் தெரிவிக்கப்படுகிறது.
+Based on information received by the Gonahena Police Special Task Force, a mutual firearm between the two sides was carried out yesterday (20) when the suspect opened fire on the Special Task Force.
 
-சந்தேகநபர் 28 வயதான எஹெலியகொட பிரதேசத்தைச் சேர்ந்தவர் எனவும் அவர் இராணுவ சேவையிலிருந்து தப்பி வந்தவர் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+The suspect and a special Task Force officer were injured and admitted to the Ragama Hospital, police said.
+
+It is reported that the victim was the man who fired at the Ja-Ela, Ja-Ela, on the 9th of this month.
+
+It is reported that the suspect is 28 -year -old from Eheliyagoda area and fled the military service.
 
 ◼️
 
 [Data](articles/1a94f286.json)
+
+[Extended Data](ext_articles/1a94f286.ext.json)
 
 ---
 
@@ -82,41 +156,57 @@ Asked why he, as a responsible member of the government, did not advise the then
 
 [Data](articles/b03d46ee.json)
 
+[Extended Data](ext_articles/b03d46ee.ext.json)
+
 ---
 
-### பாதாள உலக குழுவுடன் நேரடி தொடர்பு வைத்திருந்த 19 பேர் கைது
+### 19 arrested for direct contact with the underworld group
 
 *2024-03-21 09:11:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதாள-உலக-குழுவுடன்-நேரடி-தொடர்பு-வைத்திருந்த-19-பேர்-கைது/175-334971) · `ta`
 
-பொலிஸ் மா அதிபரின் பணிப்புரையின் பேரில் கடந்த 19 ஆம் திகதி முதல் செயற்படுத்தப்பட்ட குற்றச் செயல்களை கட்டுப்படுத்தும் விசேட நடவடிக்கையின் ஊடாக பலர் கைது செய்யப்பட்டு வருகின்றனர்.
+19 arrested for contact with underworld group. Special measures since 19th led to arrest of 4 from 3 groups with drugs. Suspects, aged 44, 26, 23, 28, arrested in Maradana, estate, Grandpas, Maligawatte. Found with 2g 450mg heroin, 7g 510mg ice, 3g 160mg ice. Further investigations by Colombo CID.
 
-அந்த வகையில், ஐஸ், ஹெரோயின் போதைப்பொருள் மற்றும் வாள்களுடன் மூன்று குற்றக் குழுக்களைச் சேர்ந்த நான்கு பேர் நேற்று (20) கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-மருதானை, முகத்துவாரம், கிராண்ட்பாஸ் மற்றும் மாளிகாவத்தை ஆகிய பகுதிகளில் வசிக்கும் 44, 26, 23 மற்றும் 28 வயதுடையவர்களே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+Many have been arrested through special measures to curb the crimes committed since the 19th of last month.
 
-சந்தேகநபர்களிடம் இருந்து 2 கிராம் 450 மில்லிகிராம் ஹெரோயின், 7 கிராம் 510 மில்லிகிராம் ஐஸ் போதைப்பொருள், 3 கிராம் 160 மில்லிகிராம் ஐஸ் போதைப்பொருள் ஆகியன கைது செய்யப்பட்டன. கொழும்பு குற்றப் பிரிவு மேலதிக விசாரணைகளை மேற்கொண்டு வருகிறது.
+Accordingly, four persons from three criminal groups were arrested yesterday (20) with ice, heroin and swords.
 
-பாதாள உலகத்துடன் நேரடி தொடர்பு வைத்திருந்த 19 பேர் இதுவரை கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர். R
+The 44, 26, 23 and 28 -year -olds have been arrested in Maradana, estate, Grandpas and Maligawatte.
+
+The suspects were arrested by 2 g 450 milligrams of heroin, 7 g 510 milligrams of ice and 3 g 160 milligrams of ice. The Colombo Criminal Investigation Division is conducting further investigations.
+
+Police said 19 people who had been in direct contact with the underworld have been arrested so far. Remble
 
 ◼️
 
 [Data](articles/2e6b17ea.json)
 
+[Extended Data](ext_articles/2e6b17ea.ext.json)
+
 ---
 
-### மக்களின் கரிசனைகளை நிவர்த்திக்கும் வரை நாணய நிதிய அதிகாரிகளை சந்திக்கமாட்டோம் - சிவில் சமூக அமைப்புக்கள், தொழிற்சங்கங்கள் கூட்டாக அறிவிப்பு
+### We will not meet monetary financial officials until the people are concerned - civil society organizations and trade unions jointly announce
 
 *2024-03-21 09:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179275) · `ta`
 
-நாட்டுக்கு வருகைதந்திருக்கும் சர்வதேச நாணய நிதிய அதிகாரிகளுடனான சந்திப்பைப் புறக்கணித்திருக்கும் சிவில் சமூக அமைப்புக்கள் மற்றும் தொழிற்சங்கங்கள், இலங்கை மக்களின் கரிசனைக்குரிய விடயங்களை நிவர்த்தி செய்வதை முன்னிறுத்திய சர்வதேச நாணய நிதியத்தின் உண்மையான முயற்சிகளை தாம் காணும்வரை, நாணய நிதியத்துடனான கலந்துரையாடல்களில் பங்கேற்கப்போவதில்லை என அறிவித்துள்ளது.
+Civil society and trade unions in Sri Lanka have announced they won't meet with IMF officials until they see genuine efforts to address the concerns of the Sri Lankan people. The IMF has approved a $2.9 billion loan to Sri Lanka, with the first $330 million already given. Officials are evaluating Sri Lanka's progress in implementing IMF conditions. However, the joint statement from civil society organizations criticizes the IMF's involvement and the government's austerity measures, which they argue have worsened the situation for most people.
 
-சர்வதேச நாணய நிதியத்தின் விரிவாக்கப்பட்ட நிதிவசதிச்செயற்திட்டத்தின்கீழ் 2.9 பில்லியன் டொலர் கடனை இலங்கைக்கு வழங்குவதற்கான முன்மொழிவுக்கு கடந்த ஆண்டு மார்ச் 20 ஆம் திகதி சர்வதேச நாணய நிதியத்தின் பணிப்பாளர் சபை அனுமதியளித்தது.
+🟩
 
-அதனையடுத்து முதற்கட்டமாக 330 மில்லியன் டொலர் கடன்நிதி இலங்கைக்கு வழங்கப்பட்டதுடன், இரண்டாம் கட்டமாக 337 மில்லியன் டொலர்களை வழங்குவதற்கு நாணய நிதியம் ஒப்புதல் அளித்தது.
+Civil society organizations and trade unions, who have ignored the meeting with the IMF officials in the country, have announced that they will not participate in discussions with the Monetary Fund until they see the real efforts of the International Monetary Fund to address the concern of the Sri Lankan people.
+
+On March 20 last year, the Board of Directors of the International Monetary Fund granted permission for the proposal to issue a $ 2.9 billion loan to Sri Lanka under the Extended Finance Scheme of the International Monetary Fund.
+
+Subsequently, the first $ 330 million loan was given to Sri Lanka and the Monetary Fund approved the second phase of $ 337 million.
+
+Against this backdrop, a group of officials led by Peter Bruver, a member of the Monetary Fund, have visited the country and are holding meetings with various parties in order to evaluate the progress of Sri Lanka in the implementation of the International Monetary Fund's conditions.
 
 ...
 
 [Data](articles/804ec0c6.json)
+
+[Extended Data](ext_articles/804ec0c6.ext.json)
 
 ---
 
@@ -138,6 +228,8 @@ In response to a concerning increase in organized criminal activities in the Wes
 
 [Data](articles/22e03c6c.json)
 
+[Extended Data](ext_articles/22e03c6c.ext.json)
+
 ---
 
 ### Sri Lanka chamber to hold summit on climate threat
@@ -157,6 +249,8 @@ The three-day summit on the theme ‘Code Red: Climate Risks and Opportunities f
 ...
 
 [Data](articles/4cc15fd2.json)
+
+[Extended Data](ext_articles/4cc15fd2.ext.json)
 
 ---
 
@@ -193,6 +287,8 @@ Dr. Wijesuriya, who found himself in hot water over the statement, claimed a rev
 ...
 
 [Data](articles/f0002d8a.json)
+
+[Extended Data](ext_articles/f0002d8a.ext.json)
 
 ---
 
@@ -332,6 +428,8 @@ There are now several plants for which prices are being negotiated without compe
 
 [Data](articles/82e731d3.json)
 
+[Extended Data](ext_articles/82e731d3.ext.json)
+
 ---
 
 ### Sri Lanka team to Europe to begin negotiations with bondholders: President
@@ -349,6 +447,8 @@ Sri Lanka is also in discussions with the International Monetary Fund this week 
 ◼️
 
 [Data](articles/09a5c2cc.json)
+
+[Extended Data](ext_articles/09a5c2cc.ext.json)
 
 ---
 
@@ -459,6 +559,8 @@ In a fresh blow, Rohan Pethiyagoda, a prominent Sri Lankan biodiversity scientis
 ...
 
 [Data](articles/9ba54c1c.json)
+
+[Extended Data](ext_articles/9ba54c1c.ext.json)
 
 ---
 
@@ -2013,77 +2115,5 @@ He was appointed when the Committee met for the first time today (20) and his na
 [Data](articles/2322a314.json)
 
 [Extended Data](ext_articles/2322a314.ext.json)
-
----
-
-### President holds in Vietnam
-
-*2024-03-20 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194745) · `si`
-
-The Communist Party of Vietnam has accepted President Vo Van Thuong's resignation, which came after his initial resignation. The party acknowledges Vo Van Thuong's conduct as President's trust and expresses severe damage to its reputation.
-
-🟩
-
-The Communist Party has accepted the resignation of President Vo Van Thuong of Vietnam.
-
-The resignation is significantly after the resignation of VO Van THUONG.
-
-Meanwhile, the Communist Party says the Communist Party says that Vo Van Thuong has been conducted as the President's trust.
-
-The Communist Party (Communist Party) stated that the party's reputation has been severely damaged.
-
-◼️
-
-[Data](articles/d9ced49b.json)
-
-[Extended Data](ext_articles/d9ced49b.ext.json)
-
----
-
-### Vietnam’s president resigns after just over a year in office
-
-*2024-03-20 18:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98084/vietnams-president-resigns-after-just-over-a-year-in-office) · `en`
-
-The Vietnamese Communist Party has accepted the resignation of President Vo Van Thuong, the government said on Wednesday, in a sign of political turmoil that could hurt foreign investors’ confidence in the country.
-
-The government said in a statement that Thuong had violated party rules, adding that those “shortcomings had negatively impacted public opinion, affecting the reputation of the Party, State and him personally”.
-
-The Central Party Committee, a top decision-making body in Communist Party-ruled Vietnam, approved Thuong’s resignation just about a year after his election.
-
-The president holds a largely ceremonial role but is one of the top four political positions in the Southeast Asian nation.
-
-The committee’s meeting preceded an extraordinary session of Vietnam’s rubber-stamping parliament scheduled on Thursday, when deputies are expected to confirm the party’s decisions.
-
-...
-
-[Data](articles/043f457e.json)
-
-[Extended Data](ext_articles/043f457e.ext.json)
-
----
-
-### Let us ban Katna:
-
-*2024-03-20 17:52:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்னா-செய்வதை-தடைசெய்வோம்-நளிந்த-விளக்கம்/175-334943) · `ta`
-
-The National People's Power 2019 aims to address issues affecting women and men, including practices like circumcision, by amending laws against harm and harassment. It emphasizes the importance of Sunnah and Katna, clarifying that laws will be enacted against any form of harassment, recognized by 195 countries. The text criticizes the misuse of media by the Presidential Media Division, accusing it of spreading misinformation and provoking religious discord.
-
-🟩
-
-The National People's Power Release of the National People's Power 2019 has clearly stated that action will be taken to amend the issues that are affected and harassment of women and men, but that the Muslim people do not refer to the Sunnah and Katna.
-
-National Executive Committee member of the National People's Power
-
-Due to practices such as church and circumcision, the issue of national people's power to prevent women and men from being harmed and harassed.
-
-It is a phrase that includes women's affiliation and the release of the National People's Power 2019. That is not a false. It is clearly stated that steps will be taken to amend the issues that have been harmed and harassed regarding the prevalence of women and men.
-
-We do not mention that we will not refer to the Sunnah.. We have said that anyone is making laws against one person to harm and harass.
-
-...
-
-[Data](articles/2a0bb648.json)
-
-[Extended Data](ext_articles/2a0bb648.ext.json)
 
 ---

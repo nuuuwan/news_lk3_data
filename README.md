@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 17:03:05**
+As of **2024-03-21 17:17:59**
 
 ## Newspaper Stats
 
-*Scraped **14,366** Articles*
+*Scraped **14,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 756
 economynextcom | 764
 islandlk | 783
 adalk | 1,240
-adaderanalk | 1,723
+adaderanalk | 1,725
 tamilmirrorlk | 1,737
 virakesarilk | 2,024
 dailymirrorlk | 2,203
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,292
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,355 (99.9%) of 14,366 articles have been extended.
+14,366 (100.0%) of 14,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### Duminda Nagamuwa and Lahiru Weerasekara remanded
+
+*2024-03-21 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98110/duminda-nagamuwa-and-lahiru-weerasekara-remanded) · `en`
+
+Four persons including Frontline Socialist Party (FSP) activist Duminda Nagamuwa and youth activist Lahiru Weerasekara, who were arrested during the demonstration by the ‘Jana Aragala Viyaparaya’in Colombo yesterday, have been remanded until March 27 by the Fort Magistrate’s Court.
+
+Accordingly, the court ordered to remand in custody Duminda Nagamuwa, Lahiru Weerasekara, Ven. Rathkarawwe Jinarathana Thero and a female arrested during yesterday’s protest.
+
+Meanwhile, Colombo Fort Magistrate Thilina Gamage ordered to remand 05 others arrested during the protest until tomorrow (22) and to produce them before an identification parade, Ada Derana reporter said.
+
+A total of thirty-three individuals including Duminda Nagamuwa, Lahiru Weerasekarawere, 02 Buddhist monks and 03 females were arrested by police during the protest staged by the ‘Jana Aragala Viyaparaya’ (People’s Struggle Movement) in Colombo yesterday (20).
+
+...
+
+[Data](articles/80943545.json)
+
+---
 
 ### No-faith motion against Speaker defeated
 
@@ -46,55 +64,105 @@ A total of 117 MPs voted against the motion while 75 MPs voted in favour.
 
 [Data](articles/397d83b8.json)
 
+[Extended Data](ext_articles/397d83b8.ext.json)
+
 ---
 
-### "தமிழ் அரசியல் கைதிகள் விடுதலை" எனும் செய்தியுடன் ஜனாதிபதி யாழ் வர வேண்டும் - குரலற்றவர்களின் குரல் அமைப்பின் ஒருங்கிணைப்பாளர்
+### President should come to Jaffna with the news of "Tamil political prisoners release"
 
 *2024-03-21 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/179357) · `ta`
 
-"தமிழ் அரசியல் கைதிகள் விடுதலை" எனும் செய்தியுடன் ஜனாதிபதி யாழ்ப்பாணத்திற்கு வருகை தர வேண்டும் என குரலற்றவர்களின் குரல் அமைப்பின் ஒருங்கிணைப்பாளர் முருகையா கோமகன் கோரியுள்ளார்.
+Murugaiah Gomagan calls for President's visit to Jaffna with news of Tamil political prisoners' release. President hands over 278 acres of land, addressing Tamil issues including land release, prisoner release, and missing persons. Land release welcomed, but condemns Tamil land seizure. Steps urged for 12 Tamil political prisoners' release. Santhan Anna, recently released from Indian jail, did not return to Sri Lanka. Public amnesty demanded for Satya Leela, sentenced to death.
 
-யாழ்ப்பாணத்திற்கு நாளைய தினம் வெள்ளிக்கிழமை ரணில் விக்கிரமசிங்க வருகை தரவுள்ள நிலையில் , இன்றைய தினம் வியாழக்கிழமை யாழ்.ஊடக அமையத்தில் குரலற்றவர்களின் குரல் அமைப்பாளர் நடாத்திய ஊடக சந்திப்பின் போதே அவ்வாறு கோரிக்கை விடுத்தார்.
+🟩
 
-யாழ்ப்பாணத்திற்கு வருகை தரவுள்ள ஜனாதிபதி யாழில். கடந்த 33 வருட காலமாக இராணுவ கட்டுப்பாட்டில் இருந்த சுமார் 278 ஏக்கர் காணிகளை அதன் உரிமையாளர்களிடம் மீள கையளிக்கவுள்ளார். இதனை நாம் வரவேற்கிறோம்.
+Murugaiah Gomagan, coordinator of the voice of the voices, has called for the President to visit Jaffna with the news of "Tamil political prisoners release".
 
-தமிழர் பிரச்சனைகளில் அவசரமாகவும் , அவசியமாகவும் தீர்க்கப்பட வேண்டிய பிரச்சனைகளாக , காணி விடுவிப்பு , தமிழ் அரசியல் கைதிகளின் விடுவிப்பு , காணாமல் ஆக்கப்பட்டவர்களின் பிரச்சனை உள்ளிட்டவை உள்ளன.
+Ranil Wickremesinghe was visiting Jaffna on Friday, and today, during a media briefing held by the voice organizer at the Jaffna Media Center today.
 
-காணி விடுவிப்பு நடவடிக்கைகளை நாம் வரவேற்கும் அதே நேரம் , தொல்லியல் திணைக்களம் , வனவள திணைக்களங்கள் ஊடாக தமிழ் மக்களின் காணிகளை மீள கையகப்படுத்தும் நடவடிக்கைகளை நாம் கண்டிக்கிறோம்.
+President of Jaffna. He will hand over 278 acres of land that has been under military control for the past 33 years.. We welcome this.
+
+There are problems that need to be resolved in Tamil issues, including land release, the release of Tamil political prisoners, and the problem of the missing.
+
+While we welcome the land release, we condemn the actions of the Tamil people to take over the land of the Tamil people through the Department of Archeology and the Department of Forest.
+
+At the same time, steps should be taken to expedite the release of 12 Tamil political prisoners who have been in jail for the past 29 years.
 
 ...
 
 [Data](articles/dc8a2697.json)
 
+[Extended Data](ext_articles/dc8a2697.ext.json)
+
 ---
 
-### කථානායකට එරෙහි විශ්වාසභංගය වැඩි ඡන්දයෙන් පරදියි
+### No-confidence motion against Speaker defeated in Parliament
+
+*2024-03-21 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98109/no-confidence-motion-against-speaker-defeated-in-parliament) · `en`
+
+The vote on the no-confidence motion against Speaker of the Parliament Mahinda Yapa Abeywardena, was defeated in the Parliament today (March 21), following a three-day debate.
+
+The Speaker survived the no-confidence motion, moved by the Samagi Jana Balawegaya (SJB), by a majority of 42 votes.
+
+A total of 117 lawmakers had voted against the motion while 75 voted in favour.
+
+Accordingly, Mahinda Yapa Abeywardena will continue to function as the Speaker of the Parliament of Sri Lanka.
+
+The third day of the parliamentary debate on the no-confidence motion against the Speaker commenced at 09.30 a.m. this morning.
+
+The parliamentary debate on the no-confidence motion tabled by the Samagi Jana Balawegaya (SJB) was initially slated to be held for two days, however the Committee on Parliamentary Business later decided for it to be debated for three consecutive days.
+
+The debate commenced in the Parliament on Tuesday (March 19).
+
+...
+
+[Data](articles/3a50cebc.json)
+
+---
+
+### The no-confidenceability of the speaker is overcoming voting
 
 *2024-03-21 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194785) · `si`
 
-කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව අද (21) වැඩි ඡන්දයෙන් පරාජයට පත්විය.
+The no-confidence motion against Speaker Mahinda Yapa Abeywardena was defeated in a general election today, despite three days of debate.
 
-කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය දින තුනක් පුරා සිදුකෙරුණි.
+🟩
+
+The no-confidence motion against Speaker Mahinda Yapa Abeywardena was defeated by more voting in general election today (21).
+
+The debate on the no confidence motion against Speaker Mahinda Yapa Abeywardena has been launched for three days.
 
 ◼️
 
 [Data](articles/b784fce3.json)
 
+[Extended Data](ext_articles/b784fce3.ext.json)
+
 ---
 
-### வடக்கின் கடற்றொழிலாளர்களது உணர்வுகளை நான் எப்போதும் மதிப்பவன் - அமைச்சர் டக்ளஸ் தெரிவிப்பு!
+### I always value the feelings of the fishermen of the North - Minister Douglas
 
 *2024-03-21 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/179355) · `ta`
 
-வடக்கின் கடற்றொழிலாளர்களது உணர்வுகளை நான் எப்போதும் மதிப்பவன் என தெரிவித்துள்ள அமைச்சர் டக்ளஸ் தேவானந்தா அவர்கள் முன்னெடுத்தவரும் உண்ணாவிரதப் போராட்டமும் வெற்றி கண்டிருக்கிறது எனவும் தெரிவித்துள்ளார்.
+Minister Douglas Devananda values the North's fishermen's feelings, acknowledging their hunger strike's success. He addresses the opposition's no-confidence motion against Speaker Mahinda Yapa Abeywardena and the fisheries system's issues. Legal action is being taken, and discussions are ongoing with Indian states about the impact of Indian trawling web boats.
 
-சபாநாயகர் மகிந்த யாப்பா அபேவர்தன அவர்களுக்கு எதராக எதிர்க்கட்சிகளால் கொண்டுவரப்பட்டுள்ள நம்பிக்கையில்லாப் பிரேரணை தொடர்பிலும் நாட்டில் நிலவும் சில பிரச்சினைகள் தொடர்பிலும் உரையாற்றுகையிலேயே அவர் இவ்வாறு தெரிவித்துள்ளார்.
+🟩
 
-இந்திய இழுவை மடி வலைப் படகுகளின் எல்லைத் தாண்டியதும், அத்துமீறியதும், தடைசெய்யப்பட்ட கடற்றொழில் உபகரணங்களைக் கொண்ட கடற்றொழில் முறைமையினாலும், பாதிக்கப்பட்டு வருகின்ற வடக்கு கடற்றொழிலாளர்களின் நிலைமைகளை உலகுக்கு எடுத்துக் காட்டும் வகையில் யாழ்ப்பாண மாவட்ட கடற்றொழிலாளர்கள் முன்னெடுத்து வருகின்ற உண்ணாவிரதப் போராட்டமானது இன்று மூன்றாவது நாளாகவும் தொடர்கிறது.
+Minister Douglas Devananda has said that I am always worth the sentiments of the fishermen of the North and the hunger strike has been successful.
+
+He was speaking on the no -confidence motion brought by the Opposition to Speaker Mahinda Yapa Abeywardena and some issues in the country.
+
+The hunger strike continues today for the third day of the hunger strike today, with the fisheries system of fisheries and banned fisheries equipment, and the situation of the Northern fishermen who are suffering from the world of fishermen.
+
+We are taking legal action on this issue. Three Indian drag folds were caught by Navy in Jaffna yesterday.. Two boats were caught in Mannar and seven arrested.
+
+At the same time, ministers from the states of Tamil Nadu and Pondicherry are talking to me about the problems of the Indian trawling web boats.
 
 ...
 
 [Data](articles/3002b0a6.json)
+
+[Extended Data](ext_articles/3002b0a6.ext.json)
 
 ---
 
@@ -113,6 +181,8 @@ To the question, “Do you approve or disapprove of the way the current governme
 ...
 
 [Data](articles/05c4996e.json)
+
+[Extended Data](ext_articles/05c4996e.ext.json)
 
 ---
 
@@ -138,41 +208,53 @@ Also, in January 2024, 85% of the non-food category of food has been reduced to 
 
 ---
 
-### வவுனியாவில் இடம்பெற்ற விபத்தில் இருவர் படுகாயம்
+### Two persons were injured in an accident in Vavuniya
 
 *2024-03-21 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179351) · `ta`
 
-வவுனியா, வைரவபுளியங்குளம் பகுதியில் இடம்பெற்ற விபத்தில் இருவர் காயமடைந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Two injured in Vavuniya accident: A motorcycle from Vavuniya collided with a motorcycle from Vairavapuliyankulam on Railway Road, Wednesday. Both drivers hospitalized.
 
-வவுனியா, வைரபுளியங்குளம், புகையிரதநிலைய வீதியில் இன்று புதன்கிழமை (21) மதியம் இவ் விபத்து இடம்பெற்றது. இது குறித்து மேலும் தெரியவருவதாவது,
+🟩
 
-வவுனியா நகரப் பகுதியில் புகையிரத நிலைய வீதி ஊடாக சென்ற முச்சக்கரண்டி கதிரேசு வீதியில் திரும்ப முற்பட்ட வேளையில் வைரவபுளியங்குளத்தில் இருந்து வவுனியா நகரம் நோக்கி சென்ற மோட்டர் சைக்கிளுடன் மோதி விபத்துக்குள்ளானது.
+Two persons were injured in an accident in Vairavapuliyankulam, Vavuniya, police said.
 
-விபத்தில் முச்சக்கர வண்டி மற்றும் மோட்டர் சைக்கிள் சாரதிகள் இருவரும் படுகாயமடைந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். இரு வாகனங்களும் கடுமையாக சேதமடைந்துள்ளதுடன், குறித்த விபத்து தொடர்பில் வவுனியா போக்குவரத்து பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+The accident occurred on Wednesday (21) at the Railway Road, Vairapuliyankulam, Vavuniya.. It is further revealed that,
+
+A motorcycle on the Vavuniya city in the city of Vavuniya collided with a motorcycle from Vairavapuliyankulam to Vavuniya.
+
+Three -wheeler and motorcycle drivers have been admitted to Vavuniya Hospital. The two vehicles have been severely damaged and the Vavuniya traffic police are conducting investigations into the accident.
 
 ◼️
 
 [Data](articles/41d4c051.json)
 
+[Extended Data](ext_articles/41d4c051.ext.json)
+
 ---
 
-### வெடுக்குநாறிமலை பூசாரி வைத்தியசாலையில் அனுமதி
+### Admission to the priest's hospital
 
 *2024-03-21 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179350) · `ta`
 
-வெடுக்குநாறி மலையின் பிரதான பூசாரியான தம்பிராசா மதிமுகராசா சுகவீனம் காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+Thambirasa Mathimukarasa, the Vedukkuni hill priest, was hospitalized. Eight, including the temple, were arrested on Shivaratri and released on the 19th. The priest was admitted to Mullaitivu Manjolai Hospital.
 
-வவுனியா வடக்கு, வெடுக்குநாறிமலை ஆதிசிவன் ஆலயத்தில் கடந்த சிவராத்திரி தினத்தன்று பொலிசாரின் வன்முறையால் ஆலயபூசகர் உள்ளிட்ட 8 பேர் கைது செய்யப்பட்டிருந்தனர். அவர்கள் கடந்த 19 ஆம் திகதிவரை விளக்கமறியலில் வைக்கப்பட்டனர்.
+🟩
 
-இந்நிலையில் குறித்த எட்டுப்பேரையும் விடுதலைசெய்து வவுனியா நீதிமன்று நேற்று முன்தினம் உத்தரவு பிறப்பித்தது.
+Thambirasa Mathimukarasa, the main priest of the Vedukkuni hill, has been admitted to the hospital due to illness.
 
-இந்நிலையில் விடுதலையான ஆலயத்தின் பூசாரியார் சுகவீனமடைந்த நிலையில் முல்லைத்தீவு மாஞ்சோலை வைத்தியசாலையில் நேற்று அனுமதிக்கப்பட்டுள்ளார்.
+Eight persons, including the temple, were arrested by the police on the occasion of Shivaratri on the last Shivaratri day. They were kept in detention until the 19th.
 
-அவர் கைது செய்யப்பட்டவர்களுக்கு நீதி கிடைக்க வேண்டும் என்ற கோரிக்கையினை வலியுறுத்தி 5 நாட்கள் சிறைச்சாலையில் உண்ணாவிரதம் இருந்தமை குறிப்பிடத்தக்கது.
+The Vavuniya judiciary yesterday issued an order to release the eight people.
+
+The priest of the liberated temple was admitted to the Mullaitivu Manjolai Hospital yesterday.
+
+It is noteworthy that there was a five -day prison fasting demanding justice to those who were arrested.
 
 ◼️
 
 [Data](articles/1d51093c.json)
+
+[Extended Data](ext_articles/1d51093c.ext.json)
 
 ---
 
@@ -196,19 +278,25 @@ Taking to X (formerly Twitter) to announce this, MP de Silva said: “I am glad 
 
 ---
 
-### முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்சவின் பிரத்தியேக செயலாளருக்கு எதிராக முஜிபுர் ரஹ்மான் குற்றப்புலனாய்வுத் திணைக்களத்தில் முறைப்பாடு
+### Mujibur Rahman has lodged a complaint with the Criminal Investigation Department against former President Gotabhaya Rajapaksa's exclusive secretary
 
 *2024-03-21 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179349) · `ta`
 
-சுகீஸ்வர பண்டார அண்மையில் யூடியூப் சேனலுக்கு அளித்த பேட்டியில் தெரிவித்த கருத்து தொடர்பில், 2007 ஆம் ஆண்டின் 56 ஆம் இலக்க சிவில் மற்றும் அரசியல் உரிமைகள் தொடர்பான சர்வதேச உடன்படிக்கையின் (ICCPR) சட்டத்தின் 3 (1) வது பிரிவின் அடிப்படையில் இது குற்றமாகும் என்பதால் இது குறித்து தேவையான விசாரணையை முன்னெடுகக் கோரி முன்னாள் பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் குற்றப் புலனாய்வுத் திணைக்களத்தில் முறைப்பாடு ஒன்றினை இன்று(20.03.2024) பதிவு செய்தார்.
+Mujibur Rahman filed a complaint against Gotabhaya Rajapaksa's secretary, Sukheeswara Bandara, for alleged crimes under the ICCPR Act. Rahman demanded an investigation into the Civiswara Bandara Channel's activities, which he claims violate civil and political rights. The complaint was lodged amidst concerns about potential racism and political manipulation ahead of the 2019 presidential election.
 
-முறைப்பாட்டை தொடர்ந்து ஊடகங்களுக்கு கருத்துத் தெரிவித்த முன்னாள் பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான்;
+🟩
 
-இறுதியாக இடம்பெற்ற 2019 ஜனாதிபதி தேர்தலுக்கு சரியாக ஆறு மாதங்களுக்கு முன்னர் உயிர்த்த ஞாயிறு தாக்குதல் இடம்பெற்றது. இவ்வருடம் ஒக்டோபரிலும் ஜனாதிபதி தேர்தலை எதிர்நோக்கியுள்ள நிலையில்,மீண்டும் இந்நாட்டில் இனவாதம், மதவாதம்,இனங்களுக்கிடையிலான விரிசல்,சந்தேகங்களை தோற்றுவித்து அரசியல் ரீதியிலான நலவுகளை பெற்றுக்கொள்வதற்கு பெரும் பிரயத்தனங்கள் எடுக்கப்பட்டு வருகின்றன.
+Former MP Mujibur Rahman demanding the necessary investigation into the case of the Civiswara Bandara Channel in a recent interview with YouTube Channel, as it is a crime on the Civil and Political Rights Agreement on Civil and Political Rights (ICCPR) Act No. 56 of 2007.He filed a complaint with the Department of Investigation today (20.03.2024).
+
+Former MP Mujibur Rahman, who spoke to the media following the complaint;
+
+Finally, the surviving Sunday attack took place six months before the 2019 presidential election. With the presidential election in October this year, there is a great deal of effort to bring about racism, religiousism, inter -ethnic rift, doubts and political welfare.
 
 ...
 
 [Data](articles/8ba12511.json)
+
+[Extended Data](ext_articles/8ba12511.ext.json)
 
 ---
 
@@ -225,6 +313,8 @@ Abeygunawardane told Parliament that Standing Orders must include qualifications
 ...
 
 [Data](articles/aca81c5c.json)
+
+[Extended Data](ext_articles/aca81c5c.ext.json)
 
 ---
 
@@ -270,25 +360,37 @@ Established under the National Law University of Meghalaya Act, 2022, NLU Meg is
 
 [Data](articles/151e5407.json)
 
+[Extended Data](ext_articles/151e5407.ext.json)
+
 ---
 
-### யாழில் அரிசியை கொள்வனவு செய்து மோசடியில் ஈடுபட்ட காலியை சேர்ந்தவர் கைது
+### Galle arrested for allegedly buying rice in Jaffna
 
 *2024-03-21 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/179346) · `ta`
 
-யாழ்ப்பாணத்தில் உள்ள பிரபல அரிசி ஆலை ஒன்றில் , 50 இலட்சத்து 40 ஆயிரம் ரூபாய் பெறுமதியான அரிசி மூடைகளை கொள்வனவு செய்து விட்டு , பணத்தினை வழங்காது மோசடி செய்த குற்றச்சாட்டில் காலியை சேர்ந்த வர்த்தகர் ஒருவர் யாழ்ப்பாண பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
+A Galle businessman was arrested for allegedly buying rice worth Rs 50 lakhs 40 thousand in Jaffna, leading to a police investigation. The police found hidden rice packets and arrested the owner, who was released on bail after court proceedings.
 
-யாழில் உள்ள பிரபல அரிசி ஆலை ஒன்றில் 25 கிலோ எடையுள்ள ஆயிரத்து 200 அரிசி மூடைகளை காலியில் உள்ள மொத்த விற்பனை நிலைய உரிமையாளர் ஒருவர் கொள்வனவு செய்துள்ளார்.
+🟩
 
-அரிசி மூடைகளை யாழில் இருந்து , காலி பகுதியில் உள்ள மொத்த விற்பனை நிலையத்திற்கு லொறியில் சென்று கொடுத்த யாழை சேர்ந்தவர்கள் அரிசி மூடைக்கான பணத்தினை தருமாறு கோரிய போது , பணத்தினை தாம் இடை தராகரிடம் வழங்கி விட்டதாக கூறியுள்ளனர்.
+A Galle businessman has been arrested by the Jaffna police for allegedly defrauding the money, buying rice packets worth Rs 50 lakhs 40 thousand rupees at a popular rice mill in Jaffna.
 
-ஆனால் அந்த பணம் விற்பனையாளரிடம் வந்து சேராமையால் , அவர் அது தொடர்பில் யாழ்ப்பாண பொலிஸ் நிலையத்தில் முறைப்பாடு செய்திருந்தார்.
+One of the owner of the wholesalers in Galle has purchased a thousand 200 rice bars weighing 25 kg at a popular rice mill in Jaffna.
 
-முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த பொலிஸார் காலியில் அரிசியை கொள்வனவு செய்தவரிடம் விசாரணைகளை முன்னெடுத்த வேளை , தான் யாழ்ப்பாணத்தில் யாரிடமும் அரிசியை கொள்வனவு செய்யவில்லை என பதில் அளித்துள்ளார்.
+When the people who had gone to the wholesalers from Jaffna to the wholesalers from Jaffna, in the lorry, demanded that the money to be paid for the rice packet, they said they had given the money to the intermediary.
+
+But he did not come to the seller, and he lodged a complaint at the Jaffna Police Station.
+
+According to the complaint, the police, who investigated the complaint, replied that he did not buy rice from anyone in Jaffna.
+
+When the police raided the barn room, the rice packets of the Jaffna rice plant were recovered as they were hidden.
+
+The police took them to Jaffna and arrested the owner and brought Jaffna to Jaffna Magistrate's Court.
 
 ...
 
 [Data](articles/bc2002b8.json)
+
+[Extended Data](ext_articles/bc2002b8.ext.json)
 
 ---
 
@@ -2201,53 +2303,5 @@ The magistrate then adjourned the case to the 28th and ordered the six suspects 
 [Data](articles/c95f3e42.json)
 
 [Extended Data](ext_articles/c95f3e42.ext.json)
-
----
-
-### Serious propaganda against the Mannar Wind Planning - Adani Group Concerns
-
-*2024-03-21 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179293) · `ta`
-
-The Adani Group claims a serious campaign is against the planned 250 Mogawot windmills in Mannar, citing careful site selection and collaboration with environmental experts. They aim to minimize environmental impact using modern technology and have prepared long-term field studies with data from organizations like the Sri Lanka Birds Association.
-
-🟩
-
-The Adani Group has said that there is a serious campaign against the wind power plant in Mannar.
-
-In a statement sent to the Adani Group spokesman, the spokesperson of the Adani Group said that the inner force has launched a serious campaign against the 250 Mogawot windmills planned to be carried out in Mannar.
-
-He said that he had chosen the place to construct the windmill only after he was very careful.
-
-He said the research was carried out under the leadership of Senior Professor Devakaweerakoon, Senior Professor of Zoology and Environmental Science, Colombo University.
-
-A spokesman for the Adani Group said that the long -term field studies were prepared only after the data of organizations such as the Sri Lanka Birds Association had been prepared.
-
-"We will use modern technology to avoid the impact of the environment within a certain period of time and to fill in this project," he said.
-
-...
-
-[Data](articles/59967ce0.json)
-
-[Extended Data](ext_articles/59967ce0.ext.json)
-
----
-
-### Minister Bandula returned to the country at the request of the President
-
-*2024-03-21 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/179292) · `ta`
-
-Minister Bandula Gunawardena, after attending a World Bank conference in Washington, returned to Sri Lanka at the President's request. He was invited to participate in a referendum on a no-confidence motion against the Speaker.
-
-🟩
-
-Minister Bandula Gunawardena, who visited Washington in the US to attend a conference organized by the World Bank, returned to the country on Wednesday night.
-
-The Minister who returned to the country told the media that he was invited to participate in the referendum on the no -confidence motion against the Speaker.
-
-◼️
-
-[Data](articles/8e43a740.json)
-
-[Extended Data](ext_articles/8e43a740.ext.json)
 
 ---

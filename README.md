@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 21:33:52**
+As of **2024-03-21 21:52:46**
 
 ## Newspaper Stats
 
-*Scraped **14,391** Articles*
+*Scraped **14,393** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,69 @@ dailyftlk | 756
 economynextcom | 764
 islandlk | 783
 adalk | 1,241
-adaderanalk | 1,728
+adaderanalk | 1,729
 tamilmirrorlk | 1,739
 virakesarilk | 2,028
 dailymirrorlk | 2,209
-adaderanasinhalalk | 2,299
+adaderanasinhalalk | 2,300
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,390 (100.0%) of 14,391 articles have been extended.
+14,391 (100.0%) of 14,393 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### කළු ගඟට දෙදෙනෙකු බිලිවෙයි
+### දිල්ලි මහ ඇමති අත්අඩංගුවට
+
+*2024-03-21 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194794) · `si`
+
+◼️
+
+[Data](articles/52aa315d.json)
+
+---
+
+### Irish Prime Minister Leo Varadkar unexpectedly quits
+
+*2024-03-21 21:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98115/irish-prime-minister-leo-varadkar-unexpectedly-quits) · `en`
+
+(Reuters) - Leo Varadkar announced on Wednesday he was stepping down as Ireland’s prime minister in a surprise move, saying the country’s coalition government would stand a better chance of reelection under another leader.
+
+Varadkar’s Fine Gael party will open nominations for a new leader on Thursday with the results to be announced on April 5. Parliament would then vote on that person succeeding Varadkar as prime minister after it returns from Easter recess on April 9.
+
+The shock departure of Varadkar, who became the first gay prime minister of the once-staunchly Catholic country in 2017 and returned to the premiership just 15 months ago, does not trigger a general election. A vote must be held by March 2025.
+
+“My reasons for stepping down are both personal and political,” Varadkar, 45, told a hastily arranged news conference at government buildings in Dublin, sounding emotional as he spoke.
+
+...
+
+[Data](articles/89242464.json)
+
+---
+
+### The Black River Smoking Two
 
 *2024-03-21 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194793) · `si`
 
-රත්නපුර කිරිඇල්ල ඇල්ලගාව ප්‍රදේශයේදී කළු ගඟේ දිය නැමට ගිය තරුණයින් දෙදෙනෙකු දියේ ගිලී මියගොස් තිබේ.
+Two 17-year-olds drowned in the Kalu River, Kiriella, Ratnapura. Bodies at Kiriella hospital; police investigate.
 
-මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ ඇල්ලගාව ප්‍රදේශයේ පදිංචි 17 හැවිරිදි වියේ පසුවූ පාසල් දරුවෙක් සහ 23 හැවිරිදි වියේ පසුවූ හොරොව්පතාන ප්‍රදේශයේ පදිංචි යුද හමුදා සෙබළෙකි.
+🟩
 
-මළසිරුරු කිරිඇල්ල රෝහලේ තැන්පත් කර ඇති අතර කිරිඇල්ල පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ සිදුකරයි.
+Two youths were drowned in the Kalu River in Kiriella, Ratnapura.
+
+The deceased is a 17-year-old schoolge, a 17-year-old schoolge in Ellagamuwa and a resident of the 23-year-old Horowpathana area in Horowpathana.
+
+The bodies have been placed at the Kiriella hospital while Kiriella police are conducting further investigations.
 
 ◼️
 
 [Data](articles/69dc23b3.json)
+
+[Extended Data](ext_articles/69dc23b3.ext.json)
 
 ---
 
@@ -2239,51 +2273,5 @@ The Chinese research ship Shi Yan 6 was stopped for several days at the Colombo 
 [Data](articles/a5b3d3db.json)
 
 [Extended Data](ext_articles/a5b3d3db.ext.json)
-
----
-
-### President reveals rapid development plans for overlooked Mahaweli ‘A’ and ‘B’ zones
-
-*2024-03-21 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98099/president-reveals-rapid-development-plans-for-overlooked-mahaweli-a-and-b-zones) · `en`
-
-President Ranil Wickremesinghe has unveiled immediate plans to swiftly develop the Mahaweli A and B zones, previously overlooked by the Mahaweli project, as part of the nation’s transition towards a modern agricultural economy.
-
-Further, he emphasized that this initiative would bring significant benefits to the people residing in these areas, the President’s Media Division (PMD) said.
-
-Without the pioneering efforts of the late Mr. Gamini Dissanayake in implementing the Mahaweli project, which revolutionized irrigation practices in the country, Wickremesinghe said Sri Lanka would not have achieved self-sufficiency in rice production nor would it have met its electricity demands.
-
-The Head of State made this statement while participating in the ceremony commemorating late Minister Gamini Dissanayake’s 82nd birth anniversary on Wednesday afternoon (March 20).
-
-The ceremony took place in front of the Gamini Dissanayake statue at Ananda Kumaraswamy Mawatha in Colombo.
-
-...
-
-[Data](articles/135d9085.json)
-
-[Extended Data](ext_articles/135d9085.ext.json)
-
----
-
-### Elephants attacked two civil security personnel who tried to drive wild elephants into the village
-
-*2024-03-21 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179308) · `ta`
-
-Wild elephants attacked two civil security personnel near Pangadeniya railway station, Chilaw, while trying to drive them into the village.
-
-🟩
-
-Puttalam Wildlife Assistant Director Eranda Kamage said that wild elephants attacked two civil security personnel who were working to chase wild elephants along with wildlife officials in the forest near the Pangadeniya railway station of Chilaw.
-
-A group of wildlife officials and civil defense officials chased the elephants after two elephants in the Malwatte forest near the Pangadeniya railway station were informed by the Puttalam Wildlife Assistant Director.
-
-Subsequently, these two wild elephants found near the Pangadeniya railway station have left the train heading to Puttalam.
-
-Subsequently, the two elephants were ready to enter the village, and the civil defenses with wildlife officials were fiercely attacking two civil security personnel.
-
-◼️
-
-[Data](articles/89894bcc.json)
-
-[Extended Data](ext_articles/89894bcc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 14:33:35**
+As of **2024-03-21 14:50:54**
 
 ## Newspaper Stats
 
-*Scraped **14,317** Articles*
+*Scraped **14,322** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ newsfirstlk | 363
 dailyftlk | 756
 economynextcom | 764
 islandlk | 782
-adalk | 1,236
+adalk | 1,237
 adaderanalk | 1,717
 tamilmirrorlk | 1,732
-virakesarilk | 2,011
-dailymirrorlk | 2,193
-adaderanasinhalalk | 2,282
+virakesarilk | 2,013
+dailymirrorlk | 2,194
+adaderanasinhalalk | 2,283
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,316 (100.0%) of 14,317 articles have been extended.
+14,317 (100.0%) of 14,322 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### பொலிஸார் நீதிமன்றை தவறாக வழிநடாத்துகின்றார்கள் - யாழில் சட்டத்தரணி மனு தாக்கல்
+
+*2024-03-21 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/179326) · `ta`
+
+பொலிஸார் நீதிமன்றை தவறாக வழிநடத்தி, நீதிமன்ற அதிகாரத்தை கீழ்மைப்படுத்துகிறார்கள் என யாழ்ப்பாண நீதிமன்றில் மன்றில் சட்டத்தரணி ஒருவர் மனு தாக்கல் செய்துள்ளார்.
+
+யாழ்ப்பாண விசேட குற்றத்தடுப்பு பொலிஸ் பிரிவின் பொறுப்பதிகாரி மற்றும் கான்ஸ்டபில் ஒருவருக்கு எதிராகவே மனு தாக்கல் செய்யப்பட்டுள்ளது.
+
+இந்நிலையில் , நீதிமன்றில் பொலிஸார் தாக்கல் செய்த அறிக்கை ஒன்றில்  "மனுதாரர் தான் செய்த குற்றத்தை உணர்ந்து, தன்னை பொலிஸார் எந்நேரமும் கைது செய்யலாம் என்ற அச்சத்தை எதிர்நோக்கி, முன் பிணை விண்ணப்பம் செய்தார்" என்றும் , மனுதாரர் சந்தேக நபராக முற்படுத்த வேண்டிய நபர் எனவும் குறிப்பிட்டுள்ளனர்.
+
+குறித்த வாசகங்களானது நீதிமன்றினால் ஆக்கப்பட்ட கட்டளையை வேண்டும் என்றே தவறாக முன்னிலைப்படுத்துவதாகவும் , நீதிமன்ற கௌரவத்தை கீழ்மைப்படுத்துவதாகவும் , சட்டத்தரணி மனு தாக்கல் செய்துள்ளார்.
+
+குறித்த மனு மீதான விசாரணைகள் எதிர்வரும் 1 ஆம் திகதி நடைபெறும் என மன்று திகதி குறித்துள்ளது.
+
+◼️
+
+[Data](articles/ca32250a.json)
+
+---
+
+### දකුණ හොල්ලන්න අලුතින් එන පොලිස් ලොක්කා
+
+*2024-03-21 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194776) · `si`
+
+දකුණු පළාත තුළ නීතිය සාමය රජ කරවන යුගයක් නිර්මාණය කරන බව පළාත භාර නව ජ්‍යේෂඨ නියෝජ්‍ය පොලිස්පති මහේෂ් සේනාරත්න මහතා පවසයි.
+
+එම ධුරයේ රාජකාරී ආරම්භ කිරීමේ අවස්ථාවට එක්වෙමින් ජ්‍යේෂඨ නියෝජ්‍ය පොලිස්පති මහේෂ් සේනාරත්න මහතා මේ බව පැවසීය.
+
+"මගේ ප්‍රධාන අරමුණ තමයි අපේ ගරු පොලිස්පතිතුමා දේශබන්දු තෙන්නකෝන් මහත්මයාගේ මේ රට හැදීමේ කටයුත්තේ ප්‍රමුඛස්ථානයක් ගැනීම. මේ දකුණු පළාත තුළ නීතිය සාමය රජ කරවන යුගයක් හදන්න ඕන. මිනිස්සුන්ට බියෙන් සැකෙන් තොරව ජීවත්වෙන්න පුළුවන් පරිසරයක් සකස්කරන්න ඕන. ඒ නිසා ඒ පරිසරය සකස්කරනවා, සකස්කරන්න බැරිනම් එන්නෙත් නෑ. සකස්කරනවා ඒ නිසා ඒකට අවශ්‍ය සහයෝගය ඔයගොල්ලෝ ලබාදෙන්න."
+
+◼️
+
+[Data](articles/a3abeb6d.json)
+
+---
+
+### யாழ்.நாவாந்துறை உணவகத்திற்கு 2 இலட்ச ரூபாய் தண்டம்
+
+*2024-03-21 14:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/179325) · `ta`
+
+யாழ்ப்பாணம் நாவாந்துறை பகுதியில் உள்ள உணவகம் ஒன்றுக்கு 2 இலட்சம் ரூபாய் தண்டம் விதிக்கப்பட்டுள்ளது.
+
+பொது சுகாதார பரிசோதகர்களால் நாவாந்துறை பகுதியில் உள்ள உணவகம் ஒன்றில் திடீர் பரிசோதனை மேற்கொள்ளப்பட்ட போது , பழுதடைந்த உணவுகள் ,இறைச்சி கறிகள் என்பன மீட்கப்பட்டதுடன் , சுகாதாரத்திற்கு கேடு விளைவிக்கும் வகையிலான சூழல்கள் அவதானிக்கப்பட்டது.
+
+அதனை அடுத்து உரிமையாளருக்கு எதிராக யாழ்.மேலதிக நீதவான் நீதிமன்றில் பொது சுகாதார பரிசோதகர்களால் 20 குற்றச்சாட்டுக்களின் கீழ் வழக்கு தாக்கல் செய்யப்பட்டது.
+
+குற்றச்சாட்டுக்களை உரிமையாளர் ஏற்றுக்கொண்டதை அடுத்து, ஒவ்வொரு குற்றத்திற்கும் 10 ஆயிரம் ரூபாய் வீதம் , 20 குற்றச்சாட்டுக்களுக்கு 2 இலட்ச ரூபாய் தண்டம் விதிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/ce8e1214.json)
+
+---
 
 ### Eleven injured after bus topples in Wellawaya
 
@@ -47,6 +101,8 @@ OIC Traffic Branch of Wellawaya Police U.G. Chandrakkara is conducting further i
 ◼️
 
 [Data](articles/b79a2b3c.json)
+
+[Extended Data](ext_articles/b79a2b3c.ext.json)
 
 ---
 
@@ -231,6 +287,24 @@ The US $ 299.0465 was reported at Rs.
 [Data](articles/8e88ef21.json)
 
 [Extended Data](ext_articles/8e88ef21.ext.json)
+
+---
+
+### උතුරටත් වැසි
+
+*2024-03-21 13:30:25* · [`adalk`](https://www.ada.lk/breaking_news/උතුරටත්-වැසි/11-408741) · `si`
+
+පවත්නා දැඩි වියලි කාලගුණික තත්වය අවසන් කරමින් මාස කිහිපයකට පසුව උතුරු පලාතේ ප්‍රදේශ කිහිපයකට අද (21) සැලකිය යුතු වර්ෂාපතිනයක් ලැබෙමින් පවති.
+
+දැඩි සූර්ය රශ්මියත් ඒ හා බැඳුනු වියලි කාලගුණික තත්වයත් හේතුවෙන් උතුරු පලාතේ ජනතාවද දැඩි පීඩාවකට පත්ව සිටි අතර වර්ෂාපතනය ලැබීමත් සමග ජනතාවට මහත් අස්වැසිල්ලක් උදාවී තිබේ.
+
+වව්නියාව ඔිමන්ත , පුලියන්කුලම, මාන්කුලම්, කිලිනොච්චිය, පුනරීන් සහ යාපනය යන ප්‍රදේශ සඳහා ඊයේ (20) රාත්‍රියේත් අද උදෑසන සිටත් වර්ෂාපතිනය ලැබෙමින් පවති.
+
+මෙවර මාස්කන්නයේ ගොවිතැන් අවසන් වීමෙන් පසුව යල්කන්නයේ ගොවිතැන් කිරීමට බලාපොරොතුතුවෙන් සිටින උතුරේ ගොවීන්ට වර්ෂාව නොමැති වීමෙන්ද දැඩි පීඩාවන්ට පත්ව සිටියහ.
+
+◼️
+
+[Data](articles/cbf518a9.json)
 
 ---
 
@@ -2211,75 +2285,5 @@ Any business depends and improves mainly based on the trust placed by the custom
 [Data](articles/3c81cdfd.json)
 
 [Extended Data](ext_articles/3c81cdfd.ext.json)
-
----
-
-### Strengthening anti-corruption measures in private sector
-
-*2024-03-21 06:01:03* · [`dailyftlk`](https://www.ft.lk/columns/Strengthening-anti-corruption-measures-in-private-sector/4-759750) · `en`
-
-In recent years, Sri Lanka has taken significant strides in its battle against corruption, marked by the transformation of the once exclusively Government-focused Bribery Act into the more comprehensive Anti-Corruption Act. This legislative evolution now extends the arm of accountability to encompass private sector entities, marking a pivotal shift in the nation’s anti-corruption landscape.
-
-Under the amended Anti-Corruption Act, private sector individuals, such as purchasing managers, are now subject to scrutiny and potential legal ramifications for engaging in bribery. The Sri Lankan Anti-Corruption Authority wields authority to investigate and prosecute such offenses, signalling a newfound commitment to root out corruption across all sectors.
-
-...
-
-[Data](articles/d93149bf.json)
-
-[Extended Data](ext_articles/d93149bf.ext.json)
-
----
-
-### Transforming Government institutions: A beacon of development in Sri Lanka’s fishing industry
-
-*2024-03-21 05:56:20* · [`dailyftlk`](https://www.ft.lk/columns/Transforming-Government-institutions-A-beacon-of-development-in-Sri-Lanka-s-fishing-industry/4-759749) · `en`
-
-Government institutions often carry a reputation for bureaucracy, inefficiency, and stagnation. But this need not be the case. With visionary leadership, effective management, and a commitment to progress, these institutions can evolve into powerful catalysts for positive change.
-
-It’s a common misconception that Government institutions are inherently resistant to development. While challenges exist, they are not insurmountable. Proper administration, strategic planning, and a results-oriented mind-set can drive transformation.
-
-Effective management is the cornerstone of success. Leaders must prioritise transparency, accountability, and collaboration. A well-functioning team, aligned with a shared vision, can overcome obstacles and achieve remarkable outcomes.
-
-...
-
-[Data](articles/66939a1f.json)
-
-[Extended Data](ext_articles/66939a1f.ext.json)
-
----
-
-### Sri Lanka India Society celebrates 75 years of strengthening bonds of friendship
-
-*2024-03-21 05:46:33* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-India-Society-celebrates-75-years-of-strengthening-bonds-of-friendship/56-759744) · `en`
-
-Sri Lanka India Society (SLIS) President Kishore Reddy and the executive committee of the society organised a commemorative dinner to celebrate the 76th Independence Day of Sri Lanka and the 75th Republic Day of India, with President Ranil Wickremesinghe as the Chief Guest and High Commissioner of Sri Lanka to India Santosh Jha as the Guest of Honour. This year, the society is celebrating its 75th anniversary.
-
-The event also saw the presence of distinguished guests, including the First Lady Prof. Maithree Wickremesinghe, Madam Tanuja Jha, the Chief Justice of Sri Lanka Jayantha Jayasuriya PC, Kalyani Jayasuriya, Ministers Manusha Nanayakkara and Arvindh Kumar, Eastern Province Governor Senthil Thondaman, Chief of Staff Sagala Ratnayake, Members of Parliament, diplomats, society members, officials, and numerous other dignitaries, all gathered to celebrate an evening of camaraderie at the Taj Samudra Hotel in Colombo.
-
-...
-
-[Data](articles/a61a9c17.json)
-
-[Extended Data](ext_articles/a61a9c17.ext.json)
-
----
-
-### IOM, ILO, and Japan join hands to promote safe and regular migration
-
-*2024-03-21 05:44:19* · [`dailyftlk`](https://www.ft.lk/news/IOM-ILO-and-Japan-join-hands-to-promote-safe-and-regular-migration/56-759743) · `en`
-
-Joint initiative titled “UPLIFT” to support reintegration and skills enhancement for aspirant and returnee migrants, and victims of human trafficking
-
-Under a USD 2.6 Million funding support from the Government of Japan, the International Organisation for Migration (IOM), and the International Labour Organisation (ILO) have launched “UPLIFT” a 12-month long project.
-
-The initiative will contribute towards the sustainable socioeconomic reintegration, and enhancing of skills and livelihood of returnees, aspirant migrant workers, and victims of human trafficking. This project is a successive initiative of the previously implemented project by IOM, ILO and Japan to promote the economic recovery and growth of Sri Lanka.
-
-The rapid changes in the socio-economic contexts have exacerbated migrant workers’ vulnerability to irregular migration and human trafficking. Lack of awareness on safe migration pathways and the existing national qualification frameworks have also contributed to this.
-
-...
-
-[Data](articles/2a29bbbb.json)
-
-[Extended Data](ext_articles/2a29bbbb.ext.json)
 
 ---

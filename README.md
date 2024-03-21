@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 20:03:02**
+As of **2024-03-21 20:18:07**
 
 ## Newspaper Stats
 
-*Scraped **14,385** Articles*
+*Scraped **14,386** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adaderanalk | 1,728
 tamilmirrorlk | 1,738
 virakesarilk | 2,028
 dailymirrorlk | 2,207
-adaderanasinhalalk | 2,296
+adaderanasinhalalk | 2,297
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,385 (100.0%) of 14,385 articles have been extended.
+14,385 (100.0%) of 14,386 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### 15 හැවිරිදි දැරියකට සිව් දෙනෙක් කළ අපරාධය
+
+*2024-03-21 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194791) · `si`
+
+පුත්තලම සාලියවැව සිරිසරවත්ත ප්‍රදේශයේ 15 හැවිරිදි දැරියක් නිවසේ නොමැති බවට පොලිස් හදිසි ඇමතුම් අංකයට මීට දින කිහිපයකට පෙර ඇමතුමක් ලැබී තිබුණි.
+
+ඊට අනුව විමර්ශන ඇරඹූ සාලියවැව පොලීසියට ඇය හමුවන්නේ, කැලෑබද ප්‍රදේශයක සිටියදීය.
+
+15 හැවිරිදි දැරියගෙන් කළ ප්‍රශ්න කිරීම්වලදී ඇය පොලීසියට පවසා ඇත්තේ, තම මව්පියන්ගේ ද කැමැත්ත ඇතිව තරුණයා සමග ප්‍රේම සබඳතාවක් පැවැත්වූ බවය.
+
+එමෙන්ම අවස්ථා රැසකදී තමා 28 හැවිරිදි තරුණයාගෙන් ලිංගික අපයෝජනයට ලක්වූ බවත් ඇය පොලීසියට පවසා තිබුණි.
+
+එමෙන්ම 2021 සිට අවස්ථා ගණනාවකදී එම ප්‍රදේශයේම පදිංචි තවත් පුද්ගලයින් තිදෙනෙකු ඇයව අපයෝජනයට ලක්කර ඇති බවත් මෙහිදී අනාවරණවී ඇත.
+
+ඇය පොලීසියට පවසා ඇත්තේ, එම සිව්දෙනා අතර තම වැඩිමහල් සහෝදරියගේ සැමියා ද වන බවය.
+
+දැරියක් අපයෝජනයට ලක්කිරීමේ චෝදනාව මත සිද්ධියට සම්බන්ධ  පුද්ගලයින් සිව්දෙනා අතරින් තිදෙනෙකු පොලීසිය අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම 15 හැවිරිදි දියණියගේ සිද්ධිය පොලීසිය හමුවේ අනාවරණ වෙද්දී ඇයගේ 12 හැවිරිදි නැග﻿﻿ණිය ද වසර ගණනාවක් සඟවා ගෙන සිටි තවත් රහසක් පොලීසියට අනාවරණ කළාය.
+
+...
+
+[Data](articles/b6f5cbaf.json)
+
+---
 
 ### Wanindu Hasaranga Test ban: Sri Lanka cricket denies use of any loopholes
 
@@ -2253,29 +2279,5 @@ However, the actual figures are completely different.Some of the returns include
 [Data](articles/9654ca06.json)
 
 [Extended Data](ext_articles/9654ca06.ext.json)
-
----
-
-### Woman killed in Navy's vehicle
-
-*2024-03-21 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179304) · `ta`
-
-A 63-year-old woman from Tarayaya was killed by a naval vehicle on the Trincomalee road near Kurunegala. She was hit while crossing the road and died at Polgola Hospital without treatment. The driver has been arrested for investigation.
-
-🟩
-
-A woman has died after being hit by a naval vehicle traveling from Kurunegala to Dambulla on the Trincomalee road.The incident took place in the Thorayaya area of the police division.
-
-The woman was hit by a naval vehicle when she tried to cross the road on Wednesday night.
-
-The woman was admitted to the Polgola Hospital and died without treatment.The woman is a 63 year old from Tarayaya.
-
-The body has been kept at the Kurunegala Hospital and the driver has been arrested on suspicion of the incident and further investigations are being carried out.
-
-◼️
-
-[Data](articles/342db41b.json)
-
-[Extended Data](ext_articles/342db41b.ext.json)
 
 ---

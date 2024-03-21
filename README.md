@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 21:52:46**
+As of **2024-03-21 22:05:56**
 
 ## Newspaper Stats
 
-*Scraped **14,393** Articles*
+*Scraped **14,397** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,30 +15,76 @@ newsfirstlk | 363
 dailyftlk | 756
 economynextcom | 764
 islandlk | 783
-adalk | 1,241
-adaderanalk | 1,729
+adalk | 1,242
+adaderanalk | 1,730
 tamilmirrorlk | 1,739
 virakesarilk | 2,028
-dailymirrorlk | 2,209
+dailymirrorlk | 2,211
 adaderanasinhalalk | 2,300
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,391 (100.0%) of 14,393 articles have been extended.
+14,393 (100.0%) of 14,397 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### දිල්ලි මහ ඇමති අත්අඩංගුවට
+### Sri Lankan family in Canada donates ICU beds worth Rs. 400 Mn to SL
+
+*2024-03-21 21:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-family-in-Canada-donates-ICU-beds-worth-Rs-400-Mn-to-SL/108-279341) · `en`
+
+Colombo, March 21 (Daily Mirror) - A total of 157 cutting-edge Intensive Care Unit (ICU) beds worth over Rs. 470 million were donated to the Sri Lankan government by a Sri Lankan family living in Canada.
+
+This generous contribution has been made at the behest of Rev. Fr. Darrel Coonghe, the Director and Founder of Supuwath Arana in Seeduwa.
+
+The donation ceremony took place at the Colombo Logistics Terminals (Pvt) Ltd in Welisara today (21).
+
+The Health Ministry said these 157 beds are set to be distributed across 34 hospitals including Negombo, Ragama Teaching Hospital, Chilaw, Puttalam, Seeduwa, Gampaha, Jaffna, Batticaloa, Trincomalee and Kurunegala.
+
+On behalf of the Sri Lankan government, Minister of Health, Dr. Ramesh Pathirana expressed his gratitude to Patrick Nilkamal Fernando and his family residing in Canada for the much-needed donation.
+
+He noted that these beds, equipped with state-of-the-art technology, mark a significant enhancement in the country's critical care capabilities.
+
+◼️
+
+[Data](articles/bb30d116.json)
+
+---
+
+### 32 Indian fishermen arrested for poaching in Sri Lankan waters
+
+*2024-03-21 21:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98116/32-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
+
+Sri Lanka Navy says 05 Indian trawlers were seized and 32 Indian fishermen were apprehended for poaching in Sri Lankan waters off Talaimannar and near the Delft Island during separate operations conducted to chase away Indian poaching trawlers from Sri Lankan waters.
+
+The North Central and Northern Naval Commands deployed their Inshore Petrol Craft and Fast Attack Craft to chase away a cluster of Indian poaching trawlers, having spotted they were engaging in illegal fishing in Sri Lankan waters in the dark hours of March 20, the SLN media unit said.
+
+Accordingly, the Navy held 02 Indian poaching trawlers along with 07 Indian fishermen off Talaimannar. In addition, naval personnel also seized 03 more Indian poaching trawlers and held 25 Indian fishermen off the Delft Island.
+
+The 02 Indian poaching trawlers along with 07 Indian fishermen apprehended by the North Central Naval Command were brought to the Talaimannar Pier.
+
+...
+
+[Data](articles/870b6a80.json)
+
+---
+
+### Delhi Chief Minister arrested
 
 *2024-03-21 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194794) · `si`
+
+Delhi CM arrested.
+
+🟩
 
 ◼️
 
 [Data](articles/52aa315d.json)
+
+[Extended Data](ext_articles/52aa315d.ext.json)
 
 ---
 
@@ -57,6 +103,28 @@ The shock departure of Varadkar, who became the first gay prime minister of the 
 ...
 
 [Data](articles/89242464.json)
+
+[Extended Data](ext_articles/89242464.ext.json)
+
+---
+
+### IMF bill is a good cure for economy but it is very painful: Ports Minister
+
+*2024-03-21 21:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-bill-is-a-good-cure-for-economy-but-it-is-very-painful-Ports-Minister/108-279339) · `en`
+
+Colombo, March 21 (Daily Mirror) - President Ranil Wickremesinghe has been able to make up the economy of the country to a certain extent with the assistance of the International Monetary Fund (IMF), Ports, Shipping and Aviation Minister Nimal Siripala de Silva said.
+
+While officially declaring March 21 as 'National Seafarers' Day' in Sri Lanka today, the minister said that the IMF bill is a good cure for the economy, but it is very painful.
+
+It is very painful, especially for the lower middle-class people and the poorest of the poor in the country. If not, we cannot survive the bill, but ultimately we will recover.
+
+The president and the government sacrifice our political future to build the country, but we are not worried about what will happen in the election.
+
+He said the 'National Seafarers' Day' in Sri Lanka was announced to attract youth for higher employment as seafarers.
+
+...
+
+[Data](articles/24c7c980.json)
 
 ---
 
@@ -553,6 +621,20 @@ A group of women staged a silent protest outside the Health Ministry today advoc
 [Data](articles/022c92fa.json)
 
 [Extended Data](ext_articles/022c92fa.ext.json)
+
+---
+
+### විශ්වාසභංග යෝජනාව වැඩි ඡන්ද 42කින්  පරාජය විය
+
+*2024-03-21 16:57:27* · [`adalk`](https://www.ada.lk/breaking_news/විශ්වාසභංග-යෝජනාව-වැඩි-ඡන්ද-42කින්--පරාජය-විය/11-408746) · `si`
+
+කතානායක  මහින්ද යාපා අබේවර්ධනමහතාට එරෙහිව විපක්ෂය විසින් ඉදිරිපත් කෙරුණු විශ්වාසභංග යෝජනාව  ඡන්ද වීමසීමේදී පක්ෂව 75ද විපක්ෂව 117ක්ද  ලැබී තිබුණි එ අනුව වැඩි ඡන්ද 42 කින්  විශ්වාසභංග යෝජනාව පරාජය විය.
+
+ඡන්ද විමසීමෙන් අනතුරුව මේ වන විට කතානායකවරයා විශේෂ ප්‍රකාශයක් කරමින් සිටී.
+
+◼️
+
+[Data](articles/54303f88.json)
 
 ---
 
@@ -2169,109 +2251,5 @@ UN refugees for refugees have landed in the Aceh and Northern Sumatra regions of
 [Data](articles/b3d38188.json)
 
 [Extended Data](ext_articles/b3d38188.ext.json)
-
----
-
-### Israeli soldiers systematically destroy medical facilities in Gaza - US British doctors
-
-*2024-03-21 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179311) · `ta`
-
-US doctors report Israeli forces destroying Gaza's health infrastructure, aiming to expel Palestinians. Doctors emphasize the need for a ceasefire to rebuild health services. Professor Nikmayneard, who worked at Gaza's Al-Aksha Hospital, confirms deliberate destruction of health structures and staff. The UN states many hospitals are completely destroyed. Israeli actions are seen as targeting Palestinians to expel them.
-
-🟩
-
-US British doctors will inform the administration of US President Joe Faiden that Israeli soldiers are systematically destroying the Gaza's health structure to expel the Palestinians from their areas.
-
-Doctors who have returned to the country will meet with prominent officials of the US president's administration this week after working in Gaza's hospitals.
-
-Doctors emphasize that it is pointless to increase the financial assistance for the Palestinians in the bombing without a ceasefire agreement for the rebuilding of health services during this meeting with Bitton.
-
-Professor Nikmayneard, who worked at Gaza's Al -Aksha Hospital, said Israeli soldiers are involved in stunning stories.
-
-He said that Israeli soldiers are deliberately destroying health structures and destroying the staff.
-
-He said that it is not merely aimed at building buildings, which are related to the destruction of the hospital's infrastructure.
-
-...
-
-[Data](articles/0cd8b8d1.json)
-
-[Extended Data](ext_articles/0cd8b8d1.ext.json)
-
----
-
-### Sri Lanka to get Indian grant of $61.5mn to fully develop KKS Port
-
-*2024-03-21 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98100/sri-lanka-to-get-indian-grant-of-615mn-to-fully-develop-kks-port) · `en`
-
-The Indian government has agreed to provide a grant of USD 61.5 million to fully develop the Port of Kankesanturai (KKS), Indian High Commissioner to Sri Lanka, Santosh Jha has said.
-
-This was revealed during a recent meeting between the Minister of Ports, Shipping, and Aviation, Nimal Siripala de Silva, and the Indian High Commissioner at the Ministry office, the Department of Government Information (DGI) reported.
-
-As part of the project, a new breakwater will be constructed, and the port will be dredged up to a depth of 30 meters to accommodate deep-draft vessels.
-
-During the discussion, the Indian High Commissioner expressed India’s commitment to enhancing regional cooperation between the two nations and pledged the fullest assistance to attract more Indian tourists to Sri Lanka. He also stated that the Indian government has designated Sri Lanka as the top travel destination for Indian tourists.
-
-...
-
-[Data](articles/d42ed430.json)
-
-[Extended Data](ext_articles/d42ed430.ext.json)
-
----
-
-### Hurry Agent Around Between Demo
-
-*2024-03-21 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194770) · `si`
-
-The National Anthem Committee announced a new organization, the National Amazed Committee, and the National Astronologists Association (NIC) highlighted the state-ended country of the Nakith Committee on the Sinhala and Tamil New Year night. Mr. Janaka Madha Madha Navaratne revealed the New Year's Udaya time and the charity period from April 13 to 14. He emphasized the importance of vegetarian food and the transition's end on April 14.
-
-🟩
-
-The National Anthem Committee presented to the country today (21) presented alternatives to the country today.
-
-They made this auspicious organization as the National Amazed Committee.
-
-2024 The National Astronologists Association (NIC) has expressed the state-ended country of the Nakith Committee on the night of the Sinhala and Tamil New Year.
-
-Accordingly, they were aroused to the country today, adding an alternate arose, including nightmares.
-
-Mr. Janaka Madha Madha Navaratne, representing the association, said this year this year's New Year's Udaya would take place at 9.05 am.
-
-He said that the charity period, or transit, had been engaged on April 13 to 3.29 am to 3.29 am on April 14.
-
-According to Janaka Madha, according to the correct charity period from 12th April on 13th April, on April 13, as the exact time was used as charity period.
-
-He pointed out that there is nothing wrong with vegetarian, vegetarian, easily digestive briefed food.
-
-...
-
-[Data](articles/b16539c1.json)
-
-[Extended Data](ext_articles/b16539c1.ext.json)
-
----
-
-### Sonne's telephone research ship also prohibits
-
-*2024-03-21 12:16:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சோன்னே-ஆராய்ச்சிக்-கப்பலுக்கும்-தடை/175-334984) · `ta`
-
-Sri Lanka bans foreign research ships in its exclusive economic zone, affecting the German ship 'Sonne' and China's Shi Yan 6 and Yuan Wang 5. This decision is seen as a response to India's concerns over China's presence.
-
-🟩
-
-Daily Mirror learns that the German ship 'Sonne' has been banned from the research operations of the German ship 'Sonne', as Sri Lanka has banned foreign ships in its exclusive economic zone.
-
-Amidst India's concerns over China's research ships anchoring in its surroundings, the Sri Lankan government has banned foreign research vessels from entering its seabed for a year.
-
-The resolution was announced after China sought permission to send another research ship.This decision by the government is considered to respond to the growing concerns of India.
-
-The Chinese research ship Shi Yan 6 was stopped for several days at the Colombo port last October, while the Navy Ship Yuan Wang 5 stopped in the Hambantota of South Sri Lanka.
-
-...
-
-[Data](articles/a5b3d3db.json)
-
-[Extended Data](ext_articles/a5b3d3db.ext.json)
 
 ---

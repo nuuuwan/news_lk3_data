@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 08:33:28**
+As of **2024-03-21 08:51:39**
 
 ## Newspaper Stats
 
-*Scraped **14,232** Articles*
+*Scraped **14,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 760
 islandlk | 782
 adalk | 1,226
 adaderanalk | 1,707
-tamilmirrorlk | 1,721
+tamilmirrorlk | 1,722
 virakesarilk | 1,987
 dailymirrorlk | 2,181
 adaderanasinhalalk | 2,269
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,269
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,228 (100.0%) of 14,232 articles have been extended.
+14,232 (100.0%) of 14,233 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,21 +44,29 @@ The government has declared a moratorium on foreign research ships entering its 
 
 [Data](articles/b7cd9ade.json)
 
+[Extended Data](ext_articles/b7cd9ade.ext.json)
+
 ---
 
-### බස් අනතුරක් - පාසල් ළමුන් ඇතුළු 15ක් රෝහලට
+### Bus accident - 15 including school children hospitalized
 
 *2024-03-21 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194760) · `si`
 
-වැල්ලවාය - තණමල්විල ප්‍රධාන මාර්ගයේ වැල්ලවාය කුමාරදාස හන්දියේ දී මීට සුළු වේලාවකට පෙර පෞද්ගලික බස්රථයක් මාර්ගයේ පෙරළී ගොස් අනතුරක් සිදුව තිබේ.‍
+A bus accident on Wellawaya and Tanamalwila main road hospitalized 15, including 7 school children. The bus driver is suspected to be at fault.
 
-අනතුරින් පාසල් ළමුන් 7 දෙනෙකු සහ බස් රථ රියදුරු ඇතුළු 15 දෙනෙක් වැල්ලවාය මුලික රෝහලට ඇතුළත් කර ඇතැයි අප වාර්තාකරු පැවසීය.
+🟩
 
-බස් රථයේ රියදුරුට ඇති වූ හදිසි රෝගී තත්ත්වයක් හේතුවෙන් අනතුර සිදුව ඇතැයි පොලීසිය සැක පළ කරයි.
+At the Wellawaya and Tanamalwila main road, a private bus toppled on the road.
+
+Seven school children and 15 others including the bus driver have been admitted to the Wellawaya Basic Hospital.
+
+The police suspect that the bus was caused by the driver of the bus due to accident.
 
 ◼️
 
 [Data](articles/06fde6b2.json)
+
+[Extended Data](ext_articles/06fde6b2.ext.json)
 
 ---
 
@@ -79,6 +87,8 @@ Meanwhile a suspected underworld gunman was killed following a shootout with Pol
 ...
 
 [Data](articles/fe17e677.json)
+
+[Extended Data](ext_articles/fe17e677.ext.json)
 
 ---
 
@@ -694,19 +704,41 @@ President Wickremesinghe’s first public political rally at Kuliyapitiya was od
 
 ---
 
-### 2000 கிலோ பீடி இலைகள் மீட்பு
+### ’அஸ்வெசும பயனாளிகளை வலுவூட்ட நடவடிக்கை’
+
+*2024-03-21 02:15:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-பயனாளிகளை-வலுவூட்ட-நடவடிக்கை/175-334970) · `ta`
+
+"அஸ்வெசும பயனாளிகள் 14 ஆயிரம் பேரை வலுவூட்டுவதற்கான விசேட வேலைத் திட்டத்தை சிறுதோட்ட அபிவிருத்தி அதிகாரசபையுடன் இணைந்து செயற்படுத்தவிருப்பதாக சமூல வலுவூட்டல் இராஜாங்க அமைச்சர் அனுப பெஸ்குவல் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு  தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பணிப்புரையின் கீழ் நடைமுறைப்படுத்தப்படும் 'அவஸ்வசும வேலைத்திட்டத்திற்கு'சமுர்த்தி திட்டத்தை விடவும் மூன்று மடங்கு தொகை ஒதுக்கப்பட்டுள்ளது. அதன்படி சமூர்த்திக்காக 60 பில்லியன் ரூபா ஒதுக்கப்பட்டிருந்த நிலையில், அஸ்வெசும திட்டத்திற்காக 180 பில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது. கடந்த பொருளாதார நெருக்கடியினால் பெருமளவில் கஷ்டங்களை எதிர்கொண்ட மக்களுக்கான நிவாரணமாகவே அதனை வழங்குகிறோம் என்றார். (a)
+
+◼️
+
+[Data](articles/9d34ff77.json)
+
+---
+
+### Recovery of 2000 kg beedi leaves
 
 *2024-03-21 02:10:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2000-கிலோ-பீடி-இலைகள்-மீட்பு/175-334969) · `ta`
 
-இலங்கைக்குக் கடத்தும் நோக்கில் தமிழகம் ஏர்வாடிக் கடற்கரைக்கு எடுத்து வரப்பட்ட 2 ஆயிரம் கிலோ பீடி இலைகள் தமிழகப் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+Tamil Nadu police seized 2000 kg beedi leaves intended for smuggling to Sri Lanka. Kidnappers fled when police found the leaves on a beach. Police recovered 70 packs of 30 kg each.
 
-இலங்கைக்குக் கடத்தும் நோக்கில் படகில் ஏற்றுவதற்காக ஒரு லொறியில் பீடி இலைகள் கடற்கரைக்கு எடுத்து வந்த சமயம் பொலிஸாரைக் கண்டதும் கடத்தல்காரர்கள் தப்பியோடியுள்ளனர்.
+🟩
 
-இதன்போது லொறியைப் பரிசோதனை செய்த தமிழகப் பொலிஸார், அதில் இருந்து ஒவ்வொன்றும் 30 கிலோ எடையுடைய 70 பொதிகளை மீட்டனர். (a)
+Two thousand kilos of beedi leaves have been seized by the Tamil Nadu police for the purpose of smuggling Sri Lanka.
+
+When the leaves were taken to the beach in a lorry for the purpose of hijacking Sri Lanka, the kidnappers fled.
+
+The Tamil Nadu police, who examined the lorry, recovered 70 packs of 30 kg from each of them.. (A)
 
 ◼️
 
 [Data](articles/c5159d40.json)
+
+[Extended Data](ext_articles/c5159d40.ext.json)
 
 ---
 
@@ -2115,31 +2147,5 @@ The demonstration had been organized by the ‘Jana Aragala Viyaparaya’ (Peopl
 [Data](articles/8bbdc111.json)
 
 [Extended Data](ext_articles/8bbdc111.ext.json)
-
----
-
-### Demonstration in Colombo: 29 arrested including 2 monks: 5 police injured!
-
-*2024-03-20 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179252) · `ta`
-
-In Colombo, 29, including 2 monks, were arrested in a protest against rising living costs and foreign agreements. Police used tear gas and water to disperse the crowd, injuring 5 officers.
-
-🟩
-
-29 people, including 2 monks and 3 women, have been arrested in a demonstration held in Fort area in Colombo on Wednesday (20).
-
-During the demonstration in Fort area in Colombo today, police used tear gas and waterfront to dissolve the demonstrators.
-
-The demonstration was organized, based on a number of issues, including the increase in cost of living and some foreign agreements.
-
-As the rally was inaugurated from the fort railway station, the riot police applied tear gas and water and dispersed them.
-
-It is noteworthy that 5 policemen were injured in confusion between the police and the demonstrators.
-
-◼️
-
-[Data](articles/cbcb18fd.json)
-
-[Extended Data](ext_articles/cbcb18fd.ext.json)
 
 ---

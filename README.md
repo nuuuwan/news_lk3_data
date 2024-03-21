@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 11:52:23**
+As of **2024-03-21 12:05:11**
 
 ## Newspaper Stats
 
-*Scraped **14,276** Articles*
+*Scraped **14,280** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ newsfirstlk | 363
 dailyftlk | 756
 economynextcom | 764
 islandlk | 782
-adalk | 1,231
+adalk | 1,232
 adaderanalk | 1,712
-tamilmirrorlk | 1,725
-virakesarilk | 2,000
-dailymirrorlk | 2,187
+tamilmirrorlk | 1,726
+virakesarilk | 2,001
+dailymirrorlk | 2,188
 adaderanasinhalalk | 2,276
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,276 (100.0%) of 14,276 articles have been extended.
+14,276 (100.0%) of 14,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### கடற்படையினரின் வாகனத்தினால் மோதப்பட்டு பெண் உயிரிழப்பு!
+
+*2024-03-21 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179304) · `ta`
+
+திருகோணமலை வீதியில் குருணாகலிருந்து தம்புள்ளை நோக்கி சென்று கொண்டிருந்த கடற்படை வாகனத்தினால் மோதப்பட்டு பெண்ணொருவர் உயிரிழந்துள்ளார். தொரட்டியாவை  பொலிஸ் பிரிவுக்கு உட்பட்ட தோரயாய பகுதியில் இந்தச் சம்பவம் இடம்பெற்றுள்ளது.
+
+இந்த பெண் நேற்று புதன்கிழமை (20) இரவு வீதியை கடக்க முற்பட்டவேளை கடற்படை வாகனம்  இவரை மோதியுள்ளது.
+
+விபத்துக்குள்ளான பெண் பொல்கொல்ல வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பலன்றி உயிரிழந்துள்ளார்.  இந்த பெண் தோரயாய பகுதியைச் சேர்ந்த 63 வயதுடையவராவார்.
+
+சடலம் குருணாகல் வைத்தியசாலையில் வைக்கப்பட்டுள்ளதோடு, இந்த சம்பவம் தொடர்பாக சந்தேகத்தின் பேரில் வாகன சாரதி கைது செய்யப்பட்டுள்ளதாகவும் , மேலதிக விசாரணைகளை முன்னெடுத்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/342db41b.json)
+
+---
+
+### Indian High Commissioner Santosh Jha highlights strong bilateral ties at Sri Lanka-India Society Gala
+
+*2024-03-21 11:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-High-Commissioner-Santosh-Jha-highlights-strong-bilateral-ties-at-Sri-Lanka-India-Society-Gala/108-279316) · `en`
+
+The Sri Lanka India Society (SLIS) organized a celebratory dinner to mark the 76th Independence Day of Sri Lanka and the 75th Republic Day of India, with President Ranil Wickremesinghe and High Commissioner of Sri Lanka to India Santosh Jha as guests of honor.
+
+Notable attendees included dignitaries, diplomats, and society members, gathering to commemorate the occasion at the Taj Samudra Hotel in Colombo.
+
+President Wickremesinghe highlighted the society's 75th anniversary and emphasized the cultural and religious ties between the two nations, urging a focus on enhancing trade and economic relations.
+
+SLIS President Kishore Reddy echoed the sentiment, emphasizing the deep cultural and interpersonal bonds between India and Sri Lanka, and expressing gratitude for India's continued assistance. Reddy concluded with a toast to the enduring friendship and partnership between the two countries, wishing for happiness, peace, and prosperity.
+
+...
+
+[Data](articles/3cd06ef6.json)
+
+---
+
+### அப்போதைய ஜனாதிபதிக்கு ஏன் ஆலோசனை வழங்கவில்லை?
+
+*2024-03-21 11:39:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அப்போதைய-ஜனாதிபதிக்கு-ஏன்-ஆலோசனை-வழங்கவில்லை/175-334977) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) முக்கியஸ்தர் பசில் ராஜபக்ச, இரசாயன விவசாயத்தை தடை செய்வதற்கான முன்னாள் ஜனாதிபதியின் தீர்மானம் குறித்த கேள்விக்கு பதிலளித்த போது, தான் எடுக்கும் எந்தவொரு தீர்மானத்திற்கும் ஒரு தலைவர் இறுதிப் பொறுப்பேற்க வேண்டும் என கூறினார்.
+
+"எனக்கு தெரியாது. ஒரு தலைவர் முடிவெடுப்பதற்கு மற்றவர்களைக் கலந்தாலோசிக்கலாம். ஒரு முடிவு எடுக்கப்பட்டவுடன், அவர் பொறுப்பை ஏற்க வேண்டும்” என்று டெய்லி மிரருக்கு அளித்த பேட்டியில் பசில் ராஜபக்ச கூறினார்.
+
+அரசாங்கத்தின் பொறுப்பான உறுப்பினர் என்ற வகையில், தனது மூத்த சகோதரரான அப்போதைய ஜனாதிபதிக்கு அவர் ஏன் ஆலோசனை வழங்கவில்லை என்று கேட்டதற்கு, ”நான் ஆலோசனை வழங்க முடியும், ஆனால் எந்தவொரு தலைவரும் இறுதியாக பொறுப்பேற்க வேண்டும்” என்று கூறினார்.
+
+“நான் ஒருமுறை இந்தியப் பிரதமர் நரேந்திர மோடியைச் சந்தித்தபோது, ​​பாம் எண்ணெய் பயிர்ச்செய்கை பற்றிப் பேசினோம். அந்த நேரத்தில், ரஷ்யா-உக்ரைன் போர் தொடங்கியது. உக்ரைன் இந்தியாவிற்கு மரக்கறி எண்ணெய்  முக்கிய வழங்குனர்.
+
+...
+
+[Data](articles/b5e325b5.json)
+
+---
 
 ### Bus accident in Wellawaya
 
@@ -137,6 +191,24 @@ The IMF delegation consisting of Peter Breuer, the Senior Mission Chief for Sri 
 [Data](articles/ae34628f.json)
 
 [Extended Data](ext_articles/ae34628f.ext.json)
+
+---
+
+### ලිංගික හැසිරීම් සඳහා සීමාව අවුරුදු 14ට අඩු කිරීම
+
+*2024-03-21 10:59:51* · [`adalk`](https://www.ada.lk/breaking_news/ලිංගික-හැසිරීම්-සඳහා-සීමාව-අවුරුදු-14ට-අඩු-කිරීම/11-408736) · `si`
+
+ගැහැණු දරුවන් ලිංගික හැසිරීම් සඳහා සීමාව අවුරුදු 14ට අඩු කිරීම මගින් කාන්තා සහ පිරිමි ගණිකා වෘත්තිය ප‍්‍රචලිත කිරීම සඳහා ගනු ලබන දුෂ්ඨ උත්සාහය එළිදරව් කිරීම සඳහා ජාතික සංවිධාන එකමුතුව විසින් පවත්වනු ලබන විශේෂ මාධ්‍ය හමුව 2024-03-20 ඊයේ දින බොරැල්ල එන්.එම්. පෙරේරා කේන්ද්‍රයේදී පැවැත්වීය.
+
+මෙහිදී ජ්‍යෙෂ්ඨ කල්‍යානන්ද තිරාණගම සහ වෛද්‍ය වසන්ත බණ්ඩාර යන මහත්වරුන් විසින් විශේෂ හෙළිදරව්වක් සිදුකරනු ලැබුවා.
+
+දේශහිතෛෂී ජාතික ව්‍යාපාරයේ මහ ලේකම් වෛද්‍ය වසන්ත බණ්ඩාර මහතා අනාවරණය කළේ මෙම පනත මගින් කිරීමට උත්සාහ දරන්නේ මෙරට දරුවන් අපයෝජනයට ලක්කිරීම ප්‍රවර්ධනය කිරීම බවයි.
+
+1995 වසරේ දී සිදු කළ දණ්ඩනීති සංග්‍රහයේ සංශෝධනයට අනුව මෙරට අවුරුදු 16 ට අඩු දැරිවියක් ස්ව කැමැත්තෙන් අපයෝජනයට ලක් වුවද එය ස්ත්‍රී දූෂණය යටතට වැටෙන බරපතළ වරදක් බවත්, අධිකරණ අමාත්‍ය විජේදාස රාජපක්ෂ මහතා එම වයස් සීමව මෙම පනත මගින් අවුරුදු 14 දක්වා අඩුකර ඇති බවත් ඒ මහතා මෙහිදී චෝදනා කළේය.
+
+...
+
+[Data](articles/1f10891f.json)
 
 ---
 
@@ -2071,89 +2143,5 @@ Nestlé Lanka honoured at Best Corporate Citizen Sustainability Awards 2023
 [Data](articles/93fb01fb.json)
 
 [Extended Data](ext_articles/93fb01fb.ext.json)
-
----
-
-### Total of 298 elephants electrocuted since 2018: Wildlife Dept.
-
-*2024-03-20 22:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Total-of-298-elephants-electrocuted-since-2018-Wildlife-Dept/108-279253) · `en`
-
-Colombo, March 20 (Daily Mirror) - The Wildlife Conservation Department has reported a total of 298 elephants falling victim to electrocution since 2018.
-
-They attributed the elephants' deaths to the installation of various obstacles and traps, including substandard electric fences intended to restrict the movement of wild animals or target wild elephants and other wildlife for lethal purposes.
-
-Reports indicate that 72 elephants were killed in 2023, followed by 50 in 2022, 66 in 2021, 31 in 2020, 41 in 2019, and 38 in 2018.
-
-The main factors contributing to elephant deaths by electrocution include the use of land by local communities in areas prone to human-elephant conflicts, as well as the growing prevalence of personal electric fences.
-
-...
-
-[Data](articles/0e5ef7cf.json)
-
-[Extended Data](ext_articles/0e5ef7cf.ext.json)
-
----
-
-### Sri Lanka explores cooperation with South Sudan in oil, other sectors
-
-*2024-03-20 22:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-explores-cooperation-with-South-Sudan-in-oil-other-sectors/108-279254) · `en`
-
-Sri Lankan Ambassador in Kenya, Kana Kananathan who is also accredited to South Sudan, had bilateral discussions with its President Salva Kiir Mayardit regarding cooperation in multiple sectors including its burgeoning oil sector.
-
-The meeting took place at the Presidential Palace in Juba yesterday. Salva Kiir is also the chairperson of the East African Community (EAC).
-
-This significant meeting underscores the commitment to fostering diplomatic relations between the  two countries and signifies a step towards deeper cooperation and mutual understanding.
-
-The discussions centered around various areas of mutual interest, including economic development, infrastructure and bilateral trade. Notably, a focal point of the dialogue was South Sudan's burgeoning oil reserves and its potential to drive economic growth and stability in the region.
-
-...
-
-[Data](articles/5dc1a511.json)
-
-[Extended Data](ext_articles/5dc1a511.ext.json)
-
----
-
-### Bourse indices dip as share trading treads negative territory
-
-*2024-03-20 22:22:00* · [`islandlk`](http://island.lk/bourse-indices-dip-as-share-trading-treads-negative-territory/) · `en`
-
-Stock market trading yesterday was somewhat dull considering that it was bullish over the last few days. The reason was profit- takings among blue chip counters, which moved the market to negative territory, market analysts said.
-
-Further, the year to date net foreign outflow at the stock market crossed the Rs. 8 billion mark while local investors continued to book profit, causing indices to dip. Consequently, both indices moved downwards. The All Share Price Index went down by 35.37 points while S and P SL20 index dipped by 0.86 points.
-
-Turnover stood at Rs 910 million with one crossing. The crossing was reported in JKH, which crossed 150,000 shares to the tune of Rs 28.34 million; its shares traded at Rs 189.
-
-...
-
-[Data](articles/f032de9f.json)
-
-[Extended Data](ext_articles/f032de9f.ext.json)
-
----
-
-### Meeting between Sajith and IMF representatives
-
-*2024-03-20 22:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194752) · `si`
-
-Sajith Premadasa met with IMF representatives at Parliament, discussing economic issues and poverty eradication. The IMF agreed to Sri Lanka's economic crisis resolutions, with some amendments needed.
-
-🟩
-
-Opposition Leader Sajith Premadasa and the International Monetary Fund representatives were held today at the Parliament Complex.
-
-A large number of MPs representing the conique group and the reconciliation were participated in the meeting.
-
-Opposition Leader Sajith Premadasa has stated that the IMF representatives have been addressed to the issues of the country of 220 lakhs.
-
-The essentials of a program to eradicate the poverty of the people who are irregularly manipulated due to the manipulation of the economy.
-
-The Opposition Leader added that the International Monetary Fund has positively agreed to the resolutions and goals of the Sri Lankan economic crisis, but some proposals should be implemented with amendments.
-
-◼️
-
-[Data](articles/ddd72d51.json)
-
-[Extended Data](ext_articles/ddd72d51.ext.json)
 
 ---

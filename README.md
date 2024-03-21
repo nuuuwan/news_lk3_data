@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 21:17:55**
+As of **2024-03-21 21:33:52**
 
 ## Newspaper Stats
 
-*Scraped **14,390** Articles*
+*Scraped **14,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 1,728
 tamilmirrorlk | 1,739
 virakesarilk | 2,028
 dailymirrorlk | 2,209
-adaderanasinhalalk | 2,298
+adaderanasinhalalk | 2,299
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,388 (100.0%) of 14,390 articles have been extended.
+14,390 (100.0%) of 14,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### කළු ගඟට දෙදෙනෙකු බිලිවෙයි
+
+*2024-03-21 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194793) · `si`
+
+රත්නපුර කිරිඇල්ල ඇල්ලගාව ප්‍රදේශයේදී කළු ගඟේ දිය නැමට ගිය තරුණයින් දෙදෙනෙකු දියේ ගිලී මියගොස් තිබේ.
+
+මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ ඇල්ලගාව ප්‍රදේශයේ පදිංචි 17 හැවිරිදි වියේ පසුවූ පාසල් දරුවෙක් සහ 23 හැවිරිදි වියේ පසුවූ හොරොව්පතාන ප්‍රදේශයේ පදිංචි යුද හමුදා සෙබළෙකි.
+
+මළසිරුරු කිරිඇල්ල රෝහලේ තැන්පත් කර ඇති අතර කිරිඇල්ල පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/69dc23b3.json)
+
+---
 
 ### More about the shooting shooter in Ganemulla
 
@@ -78,21 +94,29 @@ The statement said the delay, attributed to a technical issue, lasted approximat
 
 [Data](articles/080577a1.json)
 
+[Extended Data](ext_articles/080577a1.ext.json)
+
 ---
 
-### பண்டிகையை முன்னிட்டு விசேட போக்குவரத்து
+### Special Transport
 
 *2024-03-21 20:44:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டிகையை-முன்னிட்டு-விசேட-போக்குவரத்து/175-335000) · `ta`
 
-சிங்கள - தமிழ் புத்தாண்டு மற்றும் ரமழான் பண்டிகையை முன்னிட்டு ஏப்ரல் 5ஆம் திகதி முதல் 15ஆம் திகதி வரை விசேட பொது போக்குவரத்து திட்டத்தை நடைமுறைப்படுத்துவதற்கு போக்குவரத்து அமைச்சு பணிப்புரை விடுத்துள்ளது.
+The Ministry of Transport will run the Special Public Transport Program from April 5 to 15 for the Sinhala-Tamil New Year and Ramadan festival. This includes bus services from Colombo Central Bus Stand and Bestian Mawatha Private Bus Station to villagers.
 
-இலங்கை போக்குவரத்து சபை, தேசிய போக்குவரத்து ஆணைக்குழு, புகையிரத திணைக்களம் மற்றும் மாகாண வீதி பயணிகள் போக்குவரத்து அதிகார சபைக்கு போக்குவரத்து அமைச்சின் செயலாளர் எழுத்து மூலம் இதனை அறிவித்துள்ளார்.
+🟩
 
-கொழும்பில் இருந்து கிராமங்களுக்கு செல்லும் மக்களுக்கு கொழும்பு மத்திய பஸ் நிலையம் மற்றும் பெஸ்டியன் மாவத்தை தனியார் பஸ் நிலையம் ஆகியவற்றிலிருந்து பஸ் சேவைகள் இடம்பெறும் என இலங்கை போக்குவரத்து சபை மற்றும் தேசிய போக்குவரத்து ஆணைக்குழு தெரிவித்துள்ளது. R
+The Ministry of Transport has issued a directive to implement the Special Public Transport Program from April 5 to 15 in view of the Sinhala -Tamil New Year and Ramadan festival.
+
+The Secretary to the Transport Ministry has announced this in writing to the Sri Lanka Transport Board, National Transport Commission, Railway Department and Provincial Road Passenger Transport Authority.
+
+The Sri Lanka Transport Board and the National Transport Commission said that bus services will be held from the Colombo Central Bus Stand and the Bestian Mawatha Private Bus Station to the villagers from Colombo.. Remble
 
 ◼️
 
 [Data](articles/0ff45f80.json)
+
+[Extended Data](ext_articles/0ff45f80.ext.json)
 
 ---
 
@@ -2261,27 +2285,5 @@ Subsequently, the two elephants were ready to enter the village, and the civil d
 [Data](articles/89894bcc.json)
 
 [Extended Data](ext_articles/89894bcc.ext.json)
-
----
-
-### “Those who do not vote must resign”
-
-*2024-03-21 12:01:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிக்காதவர்கள்-பதவி-விலக-வேண்டும்/175-334981) · `ta`
-
-"Mahindananda Aluthgamage: Members of the Constitutional Council who resigned without voting on recognizing Patrihan's South Konan as Inspector General should not be in the Constituent Assembly. He urges dissolution if they continue to act without voting."
-
-🟩
-
-State Parliamentarian Mahindananda Aluthgamage told parliament today that the members of the Constitutional Council who resigned without voting when he recognized Patrihan's South Konan as the Inspector General of Police.
-
-Parliamentarian Aluthgamage said the two members should not be in the Constituent Assembly if they could not come to a definitive decision.
-
-“We urge the members of the Constituent Assembly to dissolve if they continue to act now,” he said.
-
-◼️
-
-[Data](articles/dd7364b0.json)
-
-[Extended Data](ext_articles/dd7364b0.ext.json)
 
 ---

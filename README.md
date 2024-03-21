@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 15:51:20**
+As of **2024-03-21 16:03:10**
 
 ## Newspaper Stats
 
-*Scraped **14,339** Articles*
+*Scraped **14,346** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,129 @@ islandlk | 782
 adalk | 1,238
 adaderanalk | 1,721
 tamilmirrorlk | 1,737
-virakesarilk | 2,015
-dailymirrorlk | 2,197
-adaderanasinhalalk | 2,285
+virakesarilk | 2,017
+dailymirrorlk | 2,199
+adaderanasinhalalk | 2,288
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,334 (100.0%) of 14,339 articles have been extended.
+14,339 (100.0%) of 14,346 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### දුමින්ද, ළහිරු ඇතුළු 4ක් රිමාන්ඩ්
+
+*2024-03-21 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194781) · `si`
+
+ජන අරගල ව්‍යාපාරය විසින් ඊයේ කොළඹ පැවැත්වූ විරෝධතාවය අතරතුර අත්අඩංගුවට ගත් සිව්දෙනෙක් මාර්තු 27 දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+
+එසේ රක්ෂිත බන්ධනාගාරගත කර ඇත්තේ දුමින්ද නාගමුව, ළහිරු වීරසේකර, රත්කරව්වේ ජිනරතන හිමි සහ අත්අඩංගුවට ගැනුණු කාන්තාවකි.
+
+ඊට අමතරව අධිකරණයට ඉදිරිපත් කළ තවත් 5 දෙනෙකු හෙට (22) දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමටත් ඔවුන්ව හඳුනාගැනීමේ පෙරට්ටුවකට ඉදිරිපත් කිරීමටත් කොළඹ කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා නියෝග කර ඇත.
+
+◼️
+
+[Data](articles/114eff5e.json)
+
+---
+
+### இலங்கையின் பொருளாதார கொள்கை பலனளிக்க ஆரம்பித்துள்ளது ; நிறைவேற்று சபை அனுமதியளித்ததும்  337 மில்லியன் டொலர் - சர்வதேச நாணயநிதியம்
+
+*2024-03-21 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179338) · `ta`
+
+இலங்கைக்கான அடுத்த கட்ட திட்டம் தொடர்பில் இலங்கை சர்வதேச நாணயநிதியத்துடன் இணக்கப்பாட்டை எட்டியுள்ளதாக சர்வதேச நாணயநிதியம் தெரிவித்துள்ளது.
+
+சர்வதேச நாணநிதியத்தின் நிறைவேற்று சபை அங்கீகாரமளித்ததும் இலங்கைக்கு  மூன்றாவது கட்ட நிதியுதவியான 337 மில்லியன் டொலர்கள் கிடைக்கும் எனவும் சர்வதேச நாணயநிதியம் தெரிவித்துள்ளது.
+
+நான்கு வருட ஈஎவ்எவ் ஆதரவு திட்டத்தின் இரண்டாவது மறுஆய்வினை பூர்த்தி செய்வதற்காக பொருளாதார கொள்கைகள் குறித்து இலங்கையின் அதிகாரிகளும்; சர்வதேசநாணயநிதியத்தின் பணியாளர்களும் இணக்கப்பாட்டினை எட்டியுள்ளனர்.
+
+இந்த மறு ஆய்வினை சர்வதேச நாணயநிதியத்தின் முகாமை அங்கீகரித்ததும் சர்வதேச நாணயநிதியத்தின் நிறைவேற்று சபை ஏற்றுக்கொண்டதும் இலங்கையால் 337 மில்லியன் டொலர்களை பெறமுடியும்.
+
+நுண்பொருளாதார கொள்கை சீர்திருத்தங்கள் பலனளிக்க ஆரம்பித்துள்ளன தற்போதைய சீர்திருத்தங்களை தொடர்வதும் ஆட்சிமுறையில் காணப்படும் பலவீனங்களை அகற்றுவதும் ஊழலை அகற்றுவதும் இலங்கையின் பொருளாதாரத்தை நிரந்தர மீட்பு ஸ்திரதன்மை அனைவரையும் உள்ளடக்கிய வளர்ச்சி என்ற பாதையில்  இட்டுச்செல்வதற்கு அவசியமான விடயங்களாகும்
+
+...
+
+[Data](articles/159f017b.json)
+
+---
+
+### மோசடிக் குற்றச்சாட்டில்  விஹாராதிபதிக்கு விளக்கமறியல்!
+
+*2024-03-21 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179341) · `ta`
+
+குளியாப்பிட்டியில் தேங்காய் எண்ணெய் வியாபாரி ஒருவரிடம் தேங்காய் எண்ணெய்யைப் பெற்று மோசடி செய்ததாக கூறப்படும் மாளிகாவத்தை ஸ்ரீ போதிராஜாராம விஹாரையின் விஹாராதிபதி ஊவத்தென்ன சுமன தேரரை விளக்கமறியலில் வைக்குமாறு  குளியாப்பிட்டி நீதிவான் நீதிமன்றம் இன்று வியாழக்கிழமை (21) உத்தரவிட்டுள்ளது.
+
+பாதிக்கப்பட்ட வர்த்தகர் செய்த முறைப்பாட்டின் அடிப்படையில்  குளியாப்பிட்டிய விசேட குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டு நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பின்னர் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+முறைப்பாடு செய்த வர்த்தகரிடம் இருந்து பத்து மில்லியன் ரூபா பெறுமதியான தேங்காய் எண்ணெயைப் பெற்றுக் கொண்டு மோசடி செய்தமைக்கு எதிராகவே இந்த முறைப்பாடு பதிவு செய்யப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/f338a2f6.json)
+
+---
+
+### ශ්‍රී ලංකාව හොඳින් සූදානම්
+
+*2024-03-21 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194780) · `si`
+
+පළපුරුදු ක්‍රීඩකයින් සමන්විත කණ්ඩායමක් සමග ටෙස්ට් තරගාවලියට මුහුණදීමට සූදානමින් සිටින බව ශ්‍රී ලංකා ටෙස්ට් ක්‍රිකට් නායක ධනංජය ද සිල්වා පවසයි.
+
+තරගාවලියට පෙර පැවැත්වෙන මාධ්‍ය හමුවට එක්වෙමින් ඔහු මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ ශ්‍රී ලංකා ටෙස්ට් නායක ධනංජය ද සිල්වා,
+
+මට අයිඩියා එකක් ගන්න ඕන වෙලා තිබුණා කඩුල්ල හැසිරෙන විදිය ගැන. මගේ ෆෝකස් එක වෙලා තිබ්බේ ඒක. ඒගොල්ලෝ දැන් ටිකක් තණකොළ තියලා තමයි සෙල්ලම් කරන්නේ මට ඕන වුණා තත්ත්වය කොහොමද හැසිරෙන්නේ කියලා තේරුම්ගන්න. මම හිතනවා මට අයිඩියා එකක් තියෙනවා දැන් ඒ ගැන. මගේ සකස්වීමත් ඒ පුහුණු සැසි කිහිපයට එක්වීම නිසා හොඳට ගියා . මම හොඳට පුහුණුවීම් කළා. දැන් ඇවිල්ලා ඉන්න ටෙස්ට් කණ්ඩායමේ ක්‍රීඩකයොත් ඒ තත්ත්වයට හුරුවෙලා තියෙනවා. එයාලටත් අදහසක් තියෙනවා මොකද වෙන්නේ කියලා. ඉතින් හිතනවා හොඳ තරගාවලියක් තියේවි කියලා.
+
+එසේම මෙහිදී මාධ්‍යවේදීන් ශ්‍රී ලංකා ටෙස්ට් නායක ධනංජය ද සිල්වාගෙන් ප්‍රශ්න කර සිටියේ ටයිම් අවුට් සැමරුමේ මීළඟ අදියර කුමක් ද යන්නයි.
+
+එයට පිළිතුරු දෙමින් ධනංජය ද සිල්වා පැවසුවේ "ඒ ගැන පස්සේ බලමු" යනුවෙනි.
+
+◼️
+
+[Data](articles/196c9a95.json)
+
+---
+
+### මුල සිටම පොලිය ගෙවන්නැයි විදුලි පාරිභෝගිකයන් ඉල්ලයි
+
+*2024-03-21 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194779) · `si`
+
+විදුලි සම්බන්ධතා ලබාදීමේදී ලංකා විදුලිබල මණ්ඩලය විසින් පාරිභෝගිකයන්ගෙන් අය කරගනු ලබන තැන්පතු මුදල් වෙනුවෙන් එම තැන්පතු මුදල් ලබාගත් දා සිට පොලිය ගෙවීමට පියවර ගතයුතු බව ලංකා විදුලි පාරිභෝගිකයන්ගේ සංගමය ශ්‍රේෂ්ඨාධිකරණය හමුවේ ඉල්ලීමක් කර තිබේ.
+
+එම සංගමය විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සමක් අද (21) මුර්දු ප්‍රනාන්දු, ජනක් ද සිල්වා සහ අර්ජුන ඔබේසේකර යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලබීය.
+
+එම අවස්ථාවේදී අදාළ සංගමය වෙනුවෙන් පෙනී සිටි නීතිඥ රවීන්ද්‍රනාත් දාබරේ මහතා මේ බව කියා සිටියේය.
+
+විදුලි පාරිභෝගිකයින් විසින් කර තිබෙන තැන්පතු සඳහා මේ වසරේ සිට සියයට 11.67 ක වාර්ෂික පොලියක් ගෙවීමට පියවර ගන්නා බවට ලංකා විදුලිබල මණ්ඩලය විසින් මීට පෙර අධිකරණය හමුවේ ප්‍රතිඥාවක් ලබාදී තිබුණි.
+
+එහෙත් ඒ සම්බන්ධයෙන් සෑහීමකට පත්විය නොහැකි බව සඳහන් කළ ලංකා විදුලි පාරිභෝගික සංගමය වෙනුවෙන් පෙනී සිටි නීතිඥ රවින්දනාත් දාබරේ මහතා පාරිභෝගිකයින් විසින් අදාළ මුදල තැන්පත් කළ දා සිට පොලිය ගෙවීමට පියවර ගත යුතු බව ඉල්ලා සිටියේය.
+
+...
+
+[Data](articles/09c6a538.json)
+
+---
+
+### Students in North, East to get Spot Admissions to study in UK, Canada & Germany
+
+*2024-03-21 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Students-in-North-East-to-get-Spot-Admissions-to-study-in-UK-Canada-Germany/108-279327) · `en`
+
+Colombo, March 21 (Daily Mirror) - The International Centre for Foreign Studies (ICFS) is set to host a special spot admissions program for students, especially in the North and East provinces, who aspire to pursue higher education opportunities in countries such as Canada, the United Kingdom and Germany for the upcoming September 2024 intake.
+
+Chathurika Dissanayake, the CEO of ICFS Education Center said they plan to host a special two-day program called 'Project Education Yalpanan' on March 30 and 31 at the Jetwing Hotel in Jaffna, free of charge.
+
+"There have been many overseas university representatives coming to Colombo, and there are numerous education events and exhibitions happening in and around Colombo. However, these types of events often do not reach Jaffna. We understand that there are many talented, qualified students in Jaffna who are capable of seeking these overseas opportunities," she said.
+
+...
+
+[Data](articles/51a8e02e.json)
+
+---
 
 ### IMF reaches staff-level agreement with SL on second review
 
@@ -45,6 +155,24 @@ The approval will depend on the implementation by the authorities of prior actio
 ...
 
 [Data](articles/adafd665.json)
+
+[Extended Data](ext_articles/adafd665.ext.json)
+
+---
+
+### IMF reaches staff-level agreement with SL on second review
+
+*2024-03-21 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/IMF-reaches-staff-level-agreement-with-SL-on-second-review/155-279326) · `en`
+
+The IMF team reached staff-level agreement with the Sri Lankan authorities on the second review under the economic reform program supported by a 4-year Extended Fund Facility (EFF) arrangement and concluded the 2024 Article IV Consultation discussions.
+
+Addressing the media, IMF Senior Mission Chief Peter Breuer said the staff-level agreement is subject to the approval by IMF management and the IMF Executive Board in the period ahead.
+
+The approval will depend on the implementation by the authorities of prior actions, the completion of financing assurances review, which will focus on confirming multilateral partners’ committed financing contributions, and whether adequate progress has been made with the debt restructuring to give confidence that the restructuring will be concluded in a timely manner and in line with the program’s debt targets.
+
+...
+
+[Data](articles/d33f9397.json)
 
 ---
 
@@ -88,43 +216,61 @@ The International Monetary Fund announced that he had approved a staff level reg
 
 ---
 
-### இலங்கையில் இரத்தப்புற்றுநோயால் பாதிக்கப்பட்டவர்களின் பெற்றோர் பெரும் நெருக்கடியில் ; மருந்து தட்டுப்பாடு ; விலை பல மடங்காக அதிகரிப்பு
+### Parents in Sri Lanka in a major crisis;Drug shortages;Increase in prices multi -fold
 
 *2024-03-21 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179333) · `ta`
 
-மத்தியமலைநாட்டை சேர்ந்தநுவான் புஸ்பகுமார புற்றுநோயினால் பாதிக்கப்பட்டுள்ள தனது மகனின் சிகிச்சைக்காக ஒவ்வொரு முறையும் 230 கிலோமீற்றர் பயணம் செய்கின்றார்.
+Sri Lanka faces a health crisis due to drug shortages and rising prices. The government's health budget is insufficient, impacting patients like Nuwan, who travels for cancer treatment. The National Cancer Hospital is crucial for those without private access. The economic downturn exacerbates the crisis, with drug shortages and price increases. The pharmaceutical industry is affected, with international corporations contributing to the shortage. The Sri Lankan currency's fall in 2022-3 increases drug prices, and some fraudsters sell medicines at inflated prices. Health Minister Ramespatra acknowledges these issues, noting increased budget funds to address drug prices but also highlighting outdated drugs in government hospitals.
 
-அவரது 18 வயது மகன் இரத்தப்புற்றுநோயினால் பாதிக்கப்பட்டுள்ளமை கடந்த வருடம் தெரியவந்தது அதன் பின்னர் பெற்றோர் இருவரும் ஒவ்வொரு முறையும் தங்கள் ஊரிலிருந்து சிகிச்சைக்காக மகரஹமவி;ற்கு வருகின்றனர்.
+🟩
 
-இலங்கை தனதுமக்கள் அனைவருக்கும் இலவசமருத்துவ கிசிச்சையை வழங்குகி;ன்றது  அரசாங்;கம் தனது வரவுசெலவுதிட்டத்தில் நான்கு வீதத்தினை சுகாதார சேவைகளுக்காக ஒதுக்கியுள்ளது.
+Nuwan, a native of Medimalai, travels 230 kilometers every time he is suffering from cancer.
 
-எனினும் பொருளாதாரநெருக்கடியின் விளைவுகள் காரணமாக முன்னர் பாராட்டுக்களை பெற்ற சுகாதார துறைதற்போது மருந்துகள் போலிமருந்துகள் நெருக்கடியில் சிக்குண்டுள்ளது.
+It was revealed last year that his 18 -year -old son was suffering from a bloodbath, and the two parents came to Makarahamavi every time they were treated from their homes.
 
-புஸ்பகுமாரவின் குடும்பத்தினர் போன்ற தனியார் வைத்தியசாலைகளில் சிகிச்சை பெறமுடியாத பலருக்கு தேசிய புற்றுநோய் வைத்தியசாலை போன்றன மிகவும் பிரதானமானவையாக காணப்படுகின்றன.
+The government has allocated four percent of its budget for health services to provide free medical mission to all Sri Lankan people.
 
-இங்கு நுவான் போன்ற நோயாளிகளிற்கு இலவசமாக கிசிச்சைகளை வழங்கவேண்டும் ஆனால் சமீபத்தில் அவ்வாறான நிலைமை காணப்படவில்லை என நோயாளிகள் தெரிவிக்கின்றனர்.
+However, due to the consequences of the economic downturn, the health sector, which has previously been acclaimed, has been in the crisis of drugs.
+
+National Cancer Hospital, such as Puspakumara's family, is very important for many who cannot be treated in private hospitals.
+
+Patients such as Nuwan should be given free of charge but have not recently seen such a situation.
+
+Treatment is excellent but there is a shortage of drugs.
+
+I am buying medicines from my family and friends, but the number of drugs has increased many times, he said.
 
 ...
 
 [Data](articles/41274005.json)
 
+[Extended Data](ext_articles/41274005.ext.json)
+
 ---
 
-### ரூ.20 இலட்சத்துக்கு லைட்டர் விற்ற இருவர் கைது
+### Two persons arrested for selling lighter for Rs.
 
 *2024-03-21 15:10:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-20-இலட்சத்துக்கு-லைட்டர்-விற்ற-இருவர்-கைது/175-334993) · `ta`
 
-ஒரேயொரு லைட்டரை 20 இலட்சம் ரூபாய்க்கு விற்பனைச் செய்தனர் என்றக் குற்றச்சாட்டின் இருவர் கைது செய்யப்பட்டுள்ளனர். வெளிநாட்டில் இருந்து கொண்டுவரப்பட்ட தங்க பிஸ்கட் எனக்கூறியே, வென்னப்புவ வைக்கால் பிரதேசத்தைச் சேர்ந்த நபரிடம் இவ்வாறு விற்பனைச் செய்யப்பட்டுள்ளனர். அவ்விருவரையும் கம்பளை பொலிஸார் கைது செய்துள்ளனர்.
+Two individuals from Gampola, Pussellawa, and Helboda were arrested for selling fake gold biscuits and a lighter imported from abroad. They allegedly sold these items at inflated prices, with some items buried in their garden.
 
-தங்க பிஸ்கட் படங்களை இணைத்தளங்களில் பெற்றுக்கொண்டு, கொள்வனவு செய்வோரிடம் அவற்றை காண்பித்து கூடுதல் விலைக்கு விற்பனை செய்துள்ளனர். அவ்வாறே, தங்க பிஸ்கட் வடிவத்தில், வெளிநாட்டில் இருந்து கொண்டுவரப்பட்ட லைட்டரை விற்றுள்ளனர்.
+🟩
 
-கம்பளை, புஸ்ஸல்லாவை   வகுகபிட்டிய மற்றும் ஹெல்பொட பிரதேசங்களைச் சேர்ந்த இருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+Two persons have been arrested for allegedly selling only one light to Rs.. The gold biscuits brought from abroad have been sold to a man from Wennappuwa Vaikal area.. Gampola police have arrested them.
 
-அவ்விருவரும் நாடளாவிய ரீதியில் சென்று, வர்த்தகர்களை, பணம் படைத்த நபர்களை சந்தித்து நண்பர்களாகி இவ்வாறு போலியான தங்க பிஸ்கட்டுகளை விற்பனைச் செய்து வந்துள்ளமை விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது என பொலிஸார் தெரிவித்தனர்.
+Gold biscuit images have been obtained on the platforms and showing them to buyers and selling them for an extra price. Likewise, in the form of gold biscuits, they have sold the lighter brought from abroad.
 
-...
+Two persons from Gampola, Pussellawa and Helboda areas have been arrested.
+
+Investigations have been found through investigations that they have gone all over the country and have been selling fake gold biscuits.
+
+Meanwhile, police said that some of the golden lighter and foreign currency notes were buried in their banana garden with a depth of about 4 feet, claiming gold biscuits.
+
+◼️
 
 [Data](articles/76032a0a.json)
+
+[Extended Data](ext_articles/76032a0a.ext.json)
 
 ---
 
@@ -145,6 +291,8 @@ The MP said this in response to a claim made by Minister Mahinda Amaraweera, who
 ◼️
 
 [Data](articles/5add26bb.json)
+
+[Extended Data](ext_articles/5add26bb.ext.json)
 
 ---
 
@@ -316,21 +464,27 @@ Do you recognize or refuse the method of acting in the current government? ”In
 
 ---
 
-### மக்களின் மனநிலை பெப்ரவரியில் 7%  ஆக குறைந்துள்ளது
+### The mood of the people has declined to 7% in Febra.
 
 *2024-03-21 14:41:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களின்-மனநிலை-பெப்ரவரியில்-7-ஆக-குறைந்துள்ளது/175-334990) · `ta`
 
-வெரிட்டே ரிசேர்ச்சின் கேலப் பாணியிலான (Gallup style) சமீபத்திய 'தேசத்தின் மனநிலை' கருத்துக்கணிப்பின்படி, 2023 ஒக்டோபர் மாதத்தில்  9% ஆக இருந்த அரசாங்கம் மீதான மக்களின் அங்கீகாரம் 2024 பெப்ரவரியில்7% ஆகக் குறைந்துள்ளது.
+The 'nation mood' poll by Verite Research shows a decline in government authority and economic optimism in Sri Lanka. In February 2024, 7% approved of the government, down from 9% in October 2023. Economic conditions are seen as deteriorating, with 90% of respondents believing the economy is worse, compared to 16% in October 2023. The poll, conducted from February 16 to 25, 2024, with a sample of 1,044 Sri Lankans, aims to meet high standards for accuracy.
 
-தற்போதைய பொருளாதாரம் சிறப்பாக உள்ளது அல்லது நல்ல நிலையில் உள்ளது என 9 சதவீதமானவர்கள் மட்டுமே மதிப்பிட்டதாகக் கணக்கெடுப்பு சுட்டிக்காட்டுகிறது, இது 2023 அக்டோபரில் 16 சதவீதமாக இருந்தது என்பது குறிப்பிடத்தக்கது.
+🟩
 
-நாட்டின் பொருளாதார நிலைமைகள் மோசமடைந்து வருவதாக 90% கருதுகின்றனர், அதேவேளை 2023 அக்டோபரில் 66% மட்டுமே இவ்வாறான எதிர்மறையான பார்வையைக் கொண்டிருந்தனர்.
+According to the latest 'nation mood' poll of the Gallup Style of the Verite Research, the authority of the government, which was 9% in October 2023, declined to 7% in February 2024.
 
-தற்போதைய அரசாங்கம் செயல்படும் முறையை நீங்கள் அங்கீகரிக்கிறீர்களா அல்லது மறுக்கிறீர்களா?" என்ற கேள்விக்கு, பதிலளித்தவர்களில் 7% (கிட்டத்தட்ட 7.5%) தாங்கள்ஏற்றுக்கொள்வதாகக் கூறியுள்ளனர் (± 1.81% பிழை வரம்புடன்). அரசாங்கம் செயல்படும்முறையை நிராகரிப்பதாகக் கூறிய சதவீதம் 85% ஆகும். அரசாங்கம் மீதான அங்கீகார மதிப்பீடு 2022ஜூன் மாதத்திற்குப் பிறகு தற்போது மிகக் குறைந்த புள்ளியை எட்டியுள்ளது.
+The survey points out that only 9 percent estimated that the current economy is better or in good condition, which was 16 percent in October 2023.
+
+90% of the country's economic conditions are deteriorating, while only 66% in October 2023 had such a negative view.
+
+Do you recognize or refuse the method of acting in the current government? ”In the question, 7% of the respondents said they would accept them (± 1.81% with ± 1.81%). The percentage of the government rejected the process is 85%. The accreditation rating on the government has now reached the lowest point since June 2022.
 
 ...
 
 [Data](articles/9cd66ae7.json)
+
+[Extended Data](ext_articles/9cd66ae7.ext.json)
 
 ---
 
@@ -2115,157 +2269,5 @@ It is reported that the suspect is 28 -year -old from Eheliyagoda area and fled 
 [Data](articles/1a94f286.json)
 
 [Extended Data](ext_articles/1a94f286.ext.json)
-
----
-
-### Leader should take responsibility- Basil
-
-*2024-03-21 09:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Leader-should-take-responsibility-Basil/108-279291) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) stalwart Basil Rajapaksa, in response to a query about the former President’s decision to ban chemical farming, said a leader should take final responsibility for any decision taken by him.
-
-“I don’t know. A leader may consult others for making a decision. Once a decision is made, he should take the responsibility,” Basil Rajapaksa said in an interview with Daily Mirror.
-
-Asked why he, as a responsible member of the government, did not advise the then President who is his elder brother said he could advise but any leader should take the responsibility once done finally.
-
-“When I met Indian Prime Minister Narendra Modi once, we talked about palm oil cultivation. At that time, the Russia-Ukraine war had started. Ukraine was the key supplier of palm oil to India. Mr. Modi told me that Sri Lanka had been seen as one of the three best countries in the world for growing palm oil. He sought to cultivate palm oil under a buyback agreement for 35 years.
-
-...
-
-[Data](articles/b03d46ee.json)
-
-[Extended Data](ext_articles/b03d46ee.ext.json)
-
----
-
-### 19 arrested for direct contact with the underworld group
-
-*2024-03-21 09:11:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதாள-உலக-குழுவுடன்-நேரடி-தொடர்பு-வைத்திருந்த-19-பேர்-கைது/175-334971) · `ta`
-
-19 arrested for contact with underworld group. Special measures since 19th led to arrest of 4 from 3 groups with drugs. Suspects, aged 44, 26, 23, 28, arrested in Maradana, estate, Grandpas, Maligawatte. Found with 2g 450mg heroin, 7g 510mg ice, 3g 160mg ice. Further investigations by Colombo CID.
-
-🟩
-
-Many have been arrested through special measures to curb the crimes committed since the 19th of last month.
-
-Accordingly, four persons from three criminal groups were arrested yesterday (20) with ice, heroin and swords.
-
-The 44, 26, 23 and 28 -year -olds have been arrested in Maradana, estate, Grandpas and Maligawatte.
-
-The suspects were arrested by 2 g 450 milligrams of heroin, 7 g 510 milligrams of ice and 3 g 160 milligrams of ice. The Colombo Criminal Investigation Division is conducting further investigations.
-
-Police said 19 people who had been in direct contact with the underworld have been arrested so far. Remble
-
-◼️
-
-[Data](articles/2e6b17ea.json)
-
-[Extended Data](ext_articles/2e6b17ea.ext.json)
-
----
-
-### We will not meet monetary financial officials until the people are concerned - civil society organizations and trade unions jointly announce
-
-*2024-03-21 09:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179275) · `ta`
-
-Civil society and trade unions in Sri Lanka have announced they won't meet with IMF officials until they see genuine efforts to address the concerns of the Sri Lankan people. The IMF has approved a $2.9 billion loan to Sri Lanka, with the first $330 million already given. Officials are evaluating Sri Lanka's progress in implementing IMF conditions. However, the joint statement from civil society organizations criticizes the IMF's involvement and the government's austerity measures, which they argue have worsened the situation for most people.
-
-🟩
-
-Civil society organizations and trade unions, who have ignored the meeting with the IMF officials in the country, have announced that they will not participate in discussions with the Monetary Fund until they see the real efforts of the International Monetary Fund to address the concern of the Sri Lankan people.
-
-On March 20 last year, the Board of Directors of the International Monetary Fund granted permission for the proposal to issue a $ 2.9 billion loan to Sri Lanka under the Extended Finance Scheme of the International Monetary Fund.
-
-Subsequently, the first $ 330 million loan was given to Sri Lanka and the Monetary Fund approved the second phase of $ 337 million.
-
-Against this backdrop, a group of officials led by Peter Bruver, a member of the Monetary Fund, have visited the country and are holding meetings with various parties in order to evaluate the progress of Sri Lanka in the implementation of the International Monetary Fund's conditions.
-
-...
-
-[Data](articles/804ec0c6.json)
-
-[Extended Data](ext_articles/804ec0c6.ext.json)
-
----
-
-### Underworld gunman killed in shootout with STF
-
-*2024-03-21 09:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Underworld-gunman-killed-in-shootout-with-STF/108-279299) · `en`
-
-Colombo, March 21 (Daily Mirror) - A suspected underworld gunman was killed following a shootout with Police Special Task Force (STF) personnel at Ganemulla last night.
-
-Police said the suspect in question had opened fire at STF personnel who were engaged in searching a house at Sumedha Mawatha in Ganemulla last night, based on intelligence information received.
-
-He was critically injured when police returned fire while the suspect succumbed to injuries while receiving treatment at the Ragama Hospital. A member of the STF had also been injured in the shootout.
-
-Meanwhile, at least 19 individuals directly linked to the underworld have been arrested since Tuesday during the special operation launched under the ‘Yukthiya’ operation.
-
-In response to a concerning increase in organized criminal activities in the Western and Southern Provinces, a special operation targeting 20 identified organized criminal gangs in the country was launched under the 'Yukthiya' initiative on Tuesday.
-
-◼️
-
-[Data](articles/22e03c6c.json)
-
-[Extended Data](ext_articles/22e03c6c.ext.json)
-
----
-
-### Sri Lanka chamber to hold summit on climate threat
-
-*2024-03-21 09:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-chamber-to-hold-summit-on-climate-threat-155420/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Ceylon Chamber of Commerce said it will hold a ‘climate summit’ from May 7 to 9, bringing together key stakeholders to identify threats to the economy and the actions that businesses can take.
-
-“The climate summit will delve into the specific climate threats Sri Lanka faces, highlighting the potential disruptions to key economic sectors,” the chamber said in a statement.
-
-“It will also explore the transformative power of climate action for Sri Lankan businesses.
-
-“By embracing sustainable practices and innovative solutions, Sri Lankan companies can not only mitigate risks but also unlock green growth opportunities.”
-
-The three-day summit on the theme ‘Code Red: Climate Risks and Opportunities for Sri Lankan Businesses’ will be held at Shangri La Hotel, Colombo.
-
-...
-
-[Data](articles/4cc15fd2.json)
-
-[Extended Data](ext_articles/4cc15fd2.ext.json)
-
----
-
-### International Forest Day
-
-*2024-03-21 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194761) · `si`
-
-International Forest Day, celebrated on March 21 annually, is a global initiative by the United Nations to raise public awareness about forests. The Forest Department has launched programs to plant 10 lakh trees in parallel to the event.
-
-🟩
-
-The United Nations has declared the International Forest Day on March 21 every year to increase the awareness of the public in the world.
-
-The Forest Department has implemented a number of programs to plant 10 lakhs from forests in parallel to forest date.
-
-◼️
-
-[Data](articles/b6423376.json)
-
-[Extended Data](ext_articles/b6423376.ext.json)
-
----
-
-### Health Ministry’s claims on return of migrated doctors debunked
-
-*2024-03-21 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Health-Ministrys-claims-on-return-of-migrated-doctors-debunked/155-279298) · `en`
-
-Colombo, March 21 (Daily Mirror) - Running counter to the statement by the Health Ministry regarding the return of migrated doctors to Sri Lanka, recent statistics paint a different picture, revealing only a meagre five specialists have returned to the country this year.
-
-The assertion initially made by Deputy Director General (Medical Services) Dr. G. Wijesuriya failed to produce the statistics and thus met with skepticism, especially considering the stark reality depicted by the data.
-
-Dr. Wijesuriya, who found himself in hot water over the statement, claimed a reversal in the trend of doctors, particularly those pursuing postgraduate training abroad, choosing not to return to Sri Lanka. “Although it’s not in alarming numbers, the migrated doctors have started to return to the country,”
-
-...
-
-[Data](articles/f0002d8a.json)
-
-[Extended Data](ext_articles/f0002d8a.ext.json)
 
 ---

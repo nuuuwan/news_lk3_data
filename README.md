@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 02:17:56**
+As of **2024-03-22 02:33:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,301
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,408 (100.0%) of 14,410 articles have been extended.
+14,410 (100.0%) of 14,410 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ On the contrary tourists from overseas are landing here in large numbers because
 
 [Data](articles/57fd1c54.json)
 
+[Extended Data](ext_articles/57fd1c54.ext.json)
+
 ---
 
 ### Rachel Corrie and USS Liberty: The Hannibal Doctrine in US diplomacy
@@ -59,6 +61,8 @@ On Saturday, Palestinians and peace activists campaigning for a free Palestine c
 ...
 
 [Data](articles/610fd9f3.json)
+
+[Extended Data](ext_articles/610fd9f3.ext.json)
 
 ---
 

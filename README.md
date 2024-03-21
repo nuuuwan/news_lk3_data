@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 13:33:31**
+As of **2024-03-21 13:52:08**
 
 ## Newspaper Stats
 
-*Scraped **14,300** Articles*
+*Scraped **14,305** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 133
-bbccomsinhala | 157
+bbccomsinhala | 158
 dbsjeyarajcom | 190
 newsfirstlk | 363
 dailyftlk | 756
 economynextcom | 764
 islandlk | 782
 adalk | 1,233
-adaderanalk | 1,716
+adaderanalk | 1,717
 tamilmirrorlk | 1,730
-virakesarilk | 2,006
+virakesarilk | 2,009
 dailymirrorlk | 2,190
 adaderanasinhalalk | 2,280
 
@@ -26,25 +26,61 @@ adaderanasinhalalk | 2,280
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,299 (100.0%) of 14,300 articles have been extended.
+14,300 (100.0%) of 14,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### அமைச்சரின் மனைவிக்கு நீதிமன்றம் கடும் கட்டளை
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-03-21 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179319) · `ta`
+
+இன்று வியாழக்கிழமை (மார்ச் 21) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 299.0465 ஆகவும் விற்பனை விலை ரூபா 308.8069 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8e88ef21.json)
+
+---
+
+### Australia tightens student visa rules as migration hits record high
+
+*2024-03-21 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98102/australia-tightens-student-visa-rules-as-migration-hits-record-high) · `en`
+
+Australia will begin enforcing tougher visa rules for foreign students this week as official data showed migration hit another record high, which is likely to further exacerbate an already tight rental market.
+
+From Saturday, English language requirements for student and graduate visas will be increased, while the government will get the power to suspend education providers from recruiting international students if they repeatedly break rules.
+
+“The actions this weekend will continue to drive migration levels down while delivering on our commitments in the migration strategy to fix the broken system we inherited,” Home Affairs Minister Clare O’Neil said in a statement.
+
+A new “genuine student test” will be introduced to further crack down on international students who look to come to Australia primarily to work, while the imposition of “no further stay” conditions will be used on more visitor visas.
+
+...
+
+[Data](articles/a8e22873.json)
+
+---
+
+### The court's strict order for the minister's wife
 
 *2024-03-21 13:12:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரின்-மனைவிக்கு-நீதிமன்றம்-கடும்-கட்டளை/175-334987) · `ta`
 
-நீதவான் நீதிமன்றில் இடம்பெற்ற வழக்கு தொடர்பான நீதிமன்றில் ஆஜராகுமாறு முன்னர் வழங்கிய உத்தரவை மீறியதாகக் கூறப்படும் அமைச்சரவை அமைச்சர் ஒருவரின் மனைவியை எதிர்வரும் 22ஆம் திகதி நீதிமன்றத்தில் ஆஜராகுமாறு தம்புத்தேகம நீதவான் புத்திக மல்வத்த உத்தரவிட்டுள்ளார்.
+Tambuttegama Magistrate Buddhika Malwatta ordered the wife of a cabinet minister to appear in court on the 22nd, threatening further action if she fails to show. The minister's wife, MK, was accused of violating a 10-year-old order to highlight six cows in court, protecting animals under Ekro International.
 
-இந்த நீதிமன்ற உத்தரவின் பிரகாரம், சந்தேகத்திற்குரிய அமைச்சரின் மனைவி அன்றைய தினம் நீதிமன்றில் ஆஜராகாவிட்டால், நீதிமன்றத்தை அவமதித்ததாகக் கருதி மேலதிக நடவடிக்கை எடுக்கப்படும் என நீதவான் தெரிவித்தார்.
+🟩
 
-சந்தேகநபரான அந்த பெண், குருநாகல் மாஎலிய பிரதேசத்தில்   எம்.கே. எக்ரோ இன்டர்ஸியல் எனும் பெயரில் முன்னெடுத்துச் செல்லும் விலங்குகளை பாதுகாப்பும் மத்திய நிலையத்தில்,  பராமரிக்கப்படும் விலங்குகளில் ஆறு பசு மாடுகளை, நீதிமன்றத்தில் முன்னிலைப்படுத்துமாறு, தம்புத்தேகம நீதவான் இன்றைக்கு 10 வருடங்களுக்கு முன்னர் வழங்கிய கட்டளையை மீறிவிட்டதாக, அமைச்சரின் மனைவிக்கு எதிராக நீதிமன்றத்தில் தெரிவிக்கப்பட்டது.
+Tambuttegama Magistrate Buddhika Malwatta has ordered the wife of a cabinet minister to appear in court on the 22nd of this month.
+
+According to the court order, the magistrate said that if the suspect's wife did not appear in court that day, further action would be taken to assume that the court had insulted the court.
+
+The suspect, the woman, MK in the Kurunegala Maeliya area. The minister's wife was informed against the minister's wife that the Tambuttegama magistrate had violated the orders issued 10 years ago to highlight six cows in the court, which protects the animals that are being carried out under the name of Ekro International.
 
 ◼️
 
 [Data](articles/bae11b4b.json)
+
+[Extended Data](ext_articles/bae11b4b.ext.json)
 
 ---
 
@@ -106,17 +142,57 @@ Five percent of these women have faced abortions, and the 6.1 percent of the bio
 
 ---
 
+### காப்புறுதி அதிகாரி எனக் கூறி பண மோசடி செய்த நபரொருவர் கைது
+
+*2024-03-21 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179300) · `ta`
+
+காப்புறுதி நிறுவனத்தில் ஆயுட்காப்புறுதி அதிகாரியாக தன்னைக் கூறிக்கொண்டு பலரிடமிருந்து 58 இலட்சம் ரூபா பணத்தை மோசடி செய்துள்ள சந்தேக நபரொருவர் நேற்று புதன்கிழமை (20) கைது செய்யப்பட்டுள்ளார்.
+
+இவ்வாறு  கைது செய்யப்பட்ட சந்தேக நபர் கலகெடிஹேன பிரதேசத்தைச் சேர்ந்த 34 வயதுடையவராவார்.
+
+மேலும், இந்த சம்பவம் தொடர்பாக மேலதிக விசாரணைகளை குற்றப் புலனாய்வு பிரிவினர் முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/131690f1.json)
+
+---
+
 ### Dilan Perera also resigns from COPE
 
 *2024-03-21 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98101/dilan-perera-also-resigns-from-cope) · `en`
 
-MP Dilan Perera has also decided to resign from the Committee on Public Enterprises (COPE), Ada Derana learns.
+MP Dilan Perera has also decided to resign from the Committee on Public Enterprises (COPE), becoming the 11th member to do so.
+
+Earlier, Eran Wickramaratne, Gamini Waleboda, Prof. Charitha Herath, Dayasiri Jayasekara, S. M. Marikkar, Hesha Withanage, Shanakiyan Rasamanickam, Wasantha Yapa Bandara, Anura Kumara Dissanayake and Duminda Dissanayake had quit the committee membership, to remonstrate the appointment of new COPE chairman.
+
+At the first COPE meeting of the Fifth Session of the Ninth Parliament convened on March 07, Rohitha Abeygunawardena was elected by majority votes to serve as the new chairman. His name had been nominated by MP Mahindananda Aluthgamage and seconded by MP Sanjeewa Edirimanna.
+
+Meanwhile, the first COPE meeting under the chairmanship of Abeygunawardana was convened at the parliament complex on Tuesday (March 19) despite the string of member resignations.
 
 ◼️
 
 [Data](articles/2238a2ee.json)
 
 [Extended Data](ext_articles/2238a2ee.ext.json)
+
+---
+
+### மத்ரஸா மாணவனின் மர்ம மரணம் ; மௌலவிக்கு தொடர்  விளக்கமறியல்
+
+*2024-03-21 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/179315) · `ta`
+
+மத்ரஸா மாணவனின் மர்ம மரணம் தொடர்பில் சந்தேக நபரான மௌலவியை 14 நாட்கள் விளக்கமறியலில் வைக்குமாறு  கல்முனை நீதிவான் நீதிமன்று உத்தரவிட்டுள்ளது.
+
+குறித்த வழக்கு  நேற்று புதன்கிழமை (20)  கல்முனை நீதிமன்ற நீதிவான் எம்.எஸ்.எம் சம்சுதீன்  முன்னிலையில் விசாரணைக்கு எடுத்து கொள்ளப்பட்ட நிலையில் மௌலவி உட்பட  சிசிடிவி காணொளிகளை அழித்த குற்றச்சாட்டில் கைது செய்யப்பட்டு பிணையில் விடுதலையாகிய  4 சந்தேக நபர்களும்  மன்றில்  முன்னிலைப்படுத்தப்பட்டனர்.
+
+இதன்போது  கடந்த தவணைகளில்  விளக்கமறியலில் வைக்கப்பட்டிருந்த  சிசிடிவி காட்சி உள்ளடங்கிய முக்கிய தடயப்பொருட்களை அழித்த குற்றச்சாட்டு அடிப்படையில் கைதான  4 சந்தேக நபர்களை கடும் நிபந்தனையின் கீழ் பிணையில் விடுதலை செய்யப்பட்ட நிலையில,  நேற்றைய தினம் மன்றில் ஆஜராகி இருந்தனர். பின்னர் இரு தரப்பினரின் வாதப்பிரதிவாதங்களின் பின்னர்  சந்தேக நபரான மௌலவியை 14 நாட்கள் விளக்கமறியலில் வைக்குமாறு உத்தரவிட்டார்.
+
+குறித்த சம்பவத்தில் கடந்த தவணையின் போது 30,26, 22, 23, வயது மதிக்கத்தக்க  4 சந்தேக நபர்கள்   பிணையில் விடுவிக்கப்பட்டிருந்தனர்.
+
+...
+
+[Data](articles/7dba7ccf.json)
 
 ---
 
@@ -1728,6 +1804,20 @@ In a fresh blow, Rohan Pethiyagoda, a prominent Sri Lankan biodiversity scientis
 
 ---
 
+### ශ්‍රී ලංකාවේ යාචකයෝ: දැන් ක්‍රියාත්මක වන්නේ යාචක ව්‍යාපාරයක් ද?
+
+*2024-03-21 06:47:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv2ykggrme4o) · `si`
+
+ඔබ බස් රථයක දිනපතා ගමන් කරන පුද්ගලයෙකු නම් ඔබ බස් රථයට ගොඩ වූ මොහොතේ සිට ගමනාන්තයට ළඟා වන තෙක් විවිධ හේතු ඉදිරිපත් කරමින් ඔබගෙන් මුදල් අයැද සිටින යාචකයන් හා විවිධාකාරයේ පුද්ගලයන් ඔබට හමුවනු ඇත. එමෙන් ම ඔබ වාහනක ගමන් කරවිට මාර්ග සංඥා පද්ධති ඇති මංසන්ධි අසළ නවත්වාගෙන සිටීමේ දී ද බොහෝ විට වාහනයට අත පාමින් මුදල් ඉල්ලා සිටින යාචකයන් මෙන්ම ඇතැම් විට එම යාචකයන්ගේ බැනවැදීම් සම්බන්ධ අත්දැකීම් ද ඔබට ලැබී තිබිය හැකිය.
+
+ශ්‍රී ලංකාවේ යාචකයන් යනු කලින් කලට විවිධ ප්‍රවෘත්ති මවන කොටසකි. ඔවුන්ගේ දිනක ආදායම්, යාචකයන් යොදාගෙන සිදු කරන ජාවාරම් වැනි දෑ සම්බන්ධයෙන් නිරන්තරයෙන් තොරතුරු හෙළිදරවු වේ. වරක් එවැනි වීදි යාචකයන් ඝාතනය කිරීමේ රැල්ලක් ද පැවතුණි. මෑතකදී යාචකයෙකු යැයි සිතා පොලිසිය විසින් නුගේගොඩ දී අත්අඩංගුවට ගනු ලැබූ පෙදරේරුවෙකු  මිය යාම සම්බන්ධයෙන් ද සමාජය තුළ සාකච්ඡාවක් නිර්මාණය විය.
+
+...
+
+[Data](articles/f5744508.json)
+
+---
+
 ### A change of dry weather
 
 *2024-03-21 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194754) · `si`
@@ -2123,95 +2213,5 @@ As a direct beneficiary of the EU GSP+ concessions, Sri Lanka’s rubber exports
 [Data](articles/c982b5e3.json)
 
 [Extended Data](ext_articles/c982b5e3.ext.json)
-
----
-
-### Court of Appeal grants Interim Order against UDA and On’ally Holdings
-
-*2024-03-21 05:10:46* · [`dailyftlk`](https://www.ft.lk/business/Court-of-Appeal-grants-Interim-Order-against-UDA-and-On-ally-Holdings/34-759730) · `en`
-
-The Court of Appeal granted an Interim Order suspending the Order given by the Commercial High Court of Colombo dated 15 February 2024 restraining Urban Development Authority (UDA) On’ally Holdings PLC from interfering with the voting rights and other shareholder rights held by the majority shareholder, Lanka Reality Investment PLC in On’ally Holdings PLC, in any manner whatsoever.
-
-Lanka Reality Investment PLC, the Petitioner submitted through the Petition to the Court of Appeal that 50.8% of the ordinary shares of On’ally Holdings PLC which primarily owns the Unity Plaza building was purchased through the Colombo Stock Exchange. It was the position of the Petitioner that the Commercial High Court of Colombo, by way of the Order dated 15 February 2024 had granted reliefs in favour of UDA which in turn affected the 50.8% of the shareholding of the Petitioner.
-
-...
-
-[Data](articles/0a32e755.json)
-
-[Extended Data](ext_articles/0a32e755.ext.json)
-
----
-
-### NCCSL networking session today with new 11 Lankan envoys
-
-*2024-03-21 05:10:25* · [`dailyftlk`](https://www.ft.lk/business/NCCSL-networking-session-today-with-new-11-Lankan-envoys/34-759729) · `en`
-
-The National Chamber of Commerce of Sri Lanka in collaboration with the Ministry of Foreign Affairs Sri Lanka, will conduct a networking session with the newly appointed Sri Lankan Ambassadors/High Commissioners designate to several countries on today from 2.00 p.m to 3.30 p.m at the National Chamber Auditorium.
-
-Sri Lankan corporates/business community are invited to join this session to meet the appointed Sri Lankan heads of missions designate to following countries: Canada, China, Maldives, Myanmar, Netherlands, Poland, Russian Federation, Saudi Arabia, Sweden, Thailand and Vietnam.
-
-◼️
-
-[Data](articles/72d0047b.json)
-
-[Extended Data](ext_articles/72d0047b.ext.json)
-
----
-
-### Pasan Alagiyawanna appointed as Signify Lanka’s new local Director
-
-*2024-03-21 04:56:28* · [`dailyftlk`](https://www.ft.lk/business/Pasan-Alagiyawanna-appointed-as-Signify-Lanka-s-new-local-Director/34-759728) · `en`
-
-n a significant move that marks a new chapter for Signify Lanka Ltd., the company has announced the appointment of Pasan Alagiyawanna as its new local director.
-
-This strategic decision is set to steer the company towards new horizons of innovation and growth in the lighting industry.
-
-Signify, formerly known as Philips Lighting, is a Dutch-based global leader in lighting products, systems, and services. With a rich history of innovation, Signify has been at the forefront of the lighting industry, offering state-of-the-art solutions that illuminate lives, enhance safety, and contribute to a sustainable future. The company’s commitment to unlocking the extraordinary potential of light for brighter lives and a better world is reflected in its diverse portfolio and its presence in over 70 countries.
-
-...
-
-[Data](articles/49465e89.json)
-
-[Extended Data](ext_articles/49465e89.ext.json)
-
----
-
-### Ranil’s reticence, Basil’s broken base, Harsha’s Hotel California and Eran’s fire-and-fury
-
-*2024-03-21 03:50:44* · [`dailyftlk`](https://www.ft.lk/columns/Ranil-s-reticence-Basil-s-broken-base-Harsha-s-Hotel-California-and-Eran-s-fire-and-fury/4-759727) · `en`
-
-“…Fulfilling the California dream…the basic principles of the program of making Lanka, California…are already with us…”
-
-- Dr. Harsha de Silva, SJB Youth Convention, Kurunegala, 16 March 2024 -
-
-President Wickremesinghe’s first public political rally at Kuliyapitiya was odd. He delivered a zestful, even rollicking speech, remaining in the high spirits he displayed in the Mustang’s tent at the Royal-Thomian Big Match. He was rude and crude about his former lecturer at Colombo’s Faculty of Law, Prof. G.L. Peiris. He praised his pet members of the SJB, Dr. Harsha de Silva and Eran Wickramaratne. He insulted SJB leader Sajith Premadasa while pitching for the SJB to join him. He lavished praise on himself. A vintage Wickremesinghe performance, it elicited no praise outside the (small) UNP.
-
-...
-
-[Data](articles/2d2afb0e.json)
-
-[Extended Data](ext_articles/2d2afb0e.ext.json)
-
----
-
-### Action to strengthen the beneficiaries
-
-*2024-03-21 02:15:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-பயனாளிகளை-வலுவூட்ட-நடவடிக்கை/175-334970) · `ta`
-
-"Anubha Beskwal announced a program to aid 14,000 beneficiaries, with 60 billion rupees for Samurdhi and 180 billion for Aswesuma, funded by the government to alleviate economic crisis impacts."
-
-🟩
-
-“The Minister of Employment, Anubha Beskwal, said that the special program to strengthen 14 thousand beneficiaries will be working with the Minor Development Authority.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
-
-Three times the amount of money has been allocated for the 'Avaswasuma Program' which will be implemented under the directive of President Ranil Wickremesinghe.. Accordingly, 60 billion rupees has been allocated for the Samurdhi, and 180 billion rupees has been allocated for the Aswesuma project.. We are providing it as a relief for the people who have suffered great difficulties due to the last economic crisis. (A)
-
-◼️
-
-[Data](articles/9d34ff77.json)
-
-[Extended Data](ext_articles/9d34ff77.ext.json)
 
 ---

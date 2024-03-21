@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 00:03:01**
+As of **2024-03-22 00:17:56**
 
 ## Newspaper Stats
 
-*Scraped **14,406** Articles*
+*Scraped **14,407** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,20 +19,38 @@ adalk | 1,246
 adaderanalk | 1,731
 tamilmirrorlk | 1,740
 virakesarilk | 2,028
-dailymirrorlk | 2,213
+dailymirrorlk | 2,214
 adaderanasinhalalk | 2,301
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,405 (100.0%) of 14,406 articles have been extended.
+14,406 (100.0%) of 14,407 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### Bangladesh have ’high expectations’ for Sri Lanka Test series
+### All performances in Kandy Esala Perahera including dance elements to be gazetted
+
+*2024-03-21 23:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/All-performances-in-Kandy-Esala-Perahera-including-dance-elements-to-be-gazetted/108-279342) · `en`
+
+Colombo, March 21 (Daily Mirro) - There are discussions to gazette all the performance items, including dance elements presented during the annual Esala Perahera festival by the Sri Dalada Maligawa and the Satara Maha Devalayas, Diyawadana Nilame Pradeep Nilanga Dela said.
+
+The discussions were held with the President's Secretary, Saman Ekanayake, today. The Diyawadana Nilame pointed out that by gazetting all the items, including the dance elements, they will not be distorted in the future.
+
+During the discussions, he said that it has been planned to specify and gazette the tasks of the participants and the government institutions providing the facilities in order to maintain the historic Esala Perahera festival in Kandy without it being distorted and respecting the ancient customs.
+
+According to a request made to President Ranil Wickremesinghe through the Perahera Memorandum, this programme is to be implemented as per the instructions of the President.
+
+◼️
+
+[Data](articles/d3f8c60e.json)
+
+---
+
+### Bangladesh have 'high expectations' for Sri Lanka Test series
 
 *2024-03-21 23:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladesh-have-high-expectations-for-Sri-Lanka-Test-series/108-279343) · `en`
 
@@ -53,6 +71,8 @@ Hathurusingha warned however that he was expecting a tough challenge from his ho
 ...
 
 [Data](articles/00cdd4f1.json)
+
+[Extended Data](ext_articles/00cdd4f1.ext.json)
 
 ---
 
@@ -2271,23 +2291,5 @@ The suspect, the woman, MK in the Kurunegala Maeliya area. The minister's wife w
 [Data](articles/bae11b4b.json)
 
 [Extended Data](ext_articles/bae11b4b.ext.json)
-
----
-
-### New amendments to Online Safety Bill being drafted
-
-*2024-03-21 13:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-amendments-to-Online-Safety-Bill-being-drafted/108-279318) · `en`
-
-Parliament, March 21 (Daily Mirror)- New amendments to the Online Safety Bill are being drafted at the moment, Minister Ali Sabry told Parliament today.
-
-He said new amendments had to be drafted as the Attorney General had advised that it was not possible to make new amendments which could change the structure of the Bill during the Commitee stage.
-
-The Minister also said that the Attorney General has cleared the steps taken by the Speaker to endorse the Online Safety Bill.
-
-◼️
-
-[Data](articles/f76d1852.json)
-
-[Extended Data](ext_articles/f76d1852.ext.json)
 
 ---

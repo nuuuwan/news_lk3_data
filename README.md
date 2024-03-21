@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 10:33:42**
+As of **2024-03-21 10:51:10**
 
 ## Newspaper Stats
 
-*Scraped **14,256** Articles*
+*Scraped **14,258** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,226
 adaderanalk | 1,710
 tamilmirrorlk | 1,724
 virakesarilk | 1,993
-dailymirrorlk | 2,184
-adaderanasinhalalk | 2,274
+dailymirrorlk | 2,185
+adaderanasinhalalk | 2,275
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,256 (100.0%) of 14,256 articles have been extended.
+14,256 (100.0%) of 14,258 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### මහවැලි ව්‍යාපාරය ගැන ජනපතිගෙන් පොරොන්දුවක්
+
+*2024-03-21 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194766) · `si`
+
+රට නවීන කෘෂි ආර්ථිකයක් කරා ගෙන යන ගමනේ දී, මහවැලි ව්‍යාපාරයෙන් අතහැරණු මහවැලි ඒ සහ බී කලාප කඩිනමින් සංවර්ධනය කර ජනතාවට එහි ප්‍රතිලාභ ලබාදීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+මෙරට වාරි ඉතිහාසය තුළ සුවිශේෂී පරිවර්තනයක් සිදුකරමින් එදා ගාමිණී දිසානායක මහතා මහවැලි ව්‍යාපාරය ක්‍රියාත්මක නොකළා නම් අද රට සහලින් ස්වයංපෝෂිත කිරීමට නොහැකි වන බවත්, රටට අවශ්‍ය විදුලිය ලබා ගැනීමට නොහැකි වන බවත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+කීර්තිමත් දේශපාලනඥයකු වූ ගාමිණී දිසානායක මහතාගේ අසූ දෙවැනි ජන්ම දින සැමරුම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ පැවැත්වූ අතර, එයට සහභාගී වෙමින් ජනාධිපතිවරයා මේ බව කියා සිටියේය.
+
+...
+
+[Data](articles/c8bde657.json)
+
+---
 
 ### Trying to make changes in parliamentary electoral system - Powell fears that election may be delayed
 
@@ -55,6 +71,22 @@ Rohana Hettiarachchi pointed out that the postponement of the local government a
 [Data](articles/d1aa07f4.json)
 
 [Extended Data](ext_articles/d1aa07f4.ext.json)
+
+---
+
+### National Seafarers’ Day announced
+
+*2024-03-21 10:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/National-Seafarers-Day-announced/108-279309) · `en`
+
+The National Seafarers' Day was officially declared today by the Ports, Shipping and Aviation Minister Nimal Siripala de Silva.
+
+The official day was gazetted declaring the 21st of March as the National Seafarers' Day in recognition of the invaluable service of the Sri Lankan Seafarer to the global economy and trade. The initiative aims to raise awareness on the significance of the maritime industry and the role of seafarers in facilitating international commerce.
+
+More than 90% of the global trade is by sea. The sustenance and the growth of the world economy hinges heavily on the ships that trade worldwide. During extraordinary challenging times, like, during the Covid-19 pandemic, the professionalism and resilience of the seafarers were at the core of sustaining vital supply chains and transportation.
+
+◼️
+
+[Data](articles/e5876dd6.json)
 
 ---
 
@@ -2111,51 +2143,5 @@ Another suspect has been arrested in the Kajama Watta area and 320 mill of ice n
 [Data](articles/aee04a2b.json)
 
 [Extended Data](ext_articles/aee04a2b.ext.json)
-
----
-
-### Fonseka participated in the Executive Committee meeting
-
-*2024-03-20 18:45:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செயற்குழு-கூட்டத்தில்-பங்கேற்றார்-பொன்சேகா/175-334945) · `ta`
-
-Sarath Fonseka, Chairman of United People's Power, attended the party's executive committee meeting, listened without speaking, and recently challenged the SJB's suspension in court.
-
-🟩
-
-United People's Power Chairman Sarath Fonseka participated in the party's executive committee meeting.
-
-Party sources said that Field Marshal Fonseka did not speak at the meeting and only listened to others.
-
-It is noteworthy that Fonseka recently issued an injunction in the Supreme Court against the suspension of the SJB.
-
-◼️
-
-[Data](articles/f434c1c3.json)
-
-[Extended Data](ext_articles/f434c1c3.ext.json)
-
----
-
-### A new place for Super players
-
-*2024-03-20 18:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194746) · `si`
-
-Sri Lankan Nissanka moves up to 8th in ODI rankings, surpassing Pakistani Barber Assam, who leads with 824 runs.
-
-🟩
-
-The Sri Lankan brand is the opener of the Sri Lankan bounker to arrive at the batsmen's list of the batsmen according to the latest ODI rankings of the International Cricket Council.
-
-At present, the gospel Nissanka's list of ODI batsmen is 8th.
-
-He stayed at the 11th before and 3 places to be in the forefront.
-
-Pakistani batsman Barber Assam has been able to save 824 runs in the front front.
-
-◼️
-
-[Data](articles/b8c812d5.json)
-
-[Extended Data](ext_articles/b8c812d5.ext.json)
 
 ---

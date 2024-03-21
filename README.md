@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 18:09:33**
+As of **2024-03-21 18:21:32**
 
 ## Newspaper Stats
 
-*Scraped **14,373** Articles*
+*Scraped **14,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 756
 economynextcom | 764
 islandlk | 783
-adalk | 1,240
+adalk | 1,241
 adaderanalk | 1,726
-tamilmirrorlk | 1,737
+tamilmirrorlk | 1,738
 virakesarilk | 2,025
 dailymirrorlk | 2,204
 adaderanasinhalalk | 2,294
@@ -26,23 +26,45 @@ adaderanasinhalalk | 2,294
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,371 (100.0%) of 14,373 articles have been extended.
+14,373 (100.0%) of 14,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### වැටුප් වැඩිවීම් පිළිබඳ COPF වාර්තාවේ නිර්දේශ මහ බැංකුව පිළිගනී - හර්ෂ ද සිල්වා
+### சென்னை சூப்பர் கிங்ஸ் அணிக்கு புதிய தலைவர்
+
+*2024-03-21 17:47:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சென்னை-சூப்பர்-கிங்ஸ்-அணிக்கு-புதிய-தலைவர்/175-334999) · `ta`
+
+முதலாவது போட்டியில் சென்னை சூப்பர் கிங்ஸ் அணியும் ரோயல் சேலஞ்சர்ஸ் அணியும் மோதவுள்ளன.
+
+இந்நிலையில் சென்னை சூப்பர் கிங்ஸ் அணியின் புதிய தலைவராக ருதுராஜ் கெய்க்வாட் (Ruturaj Gaikwad) நியமிக்கப்பட்டுள்ளார்.
+
+கடந்த சில சீசன்களில், கெய்க்வாட் துடுப்பாட்டத்தில் முக்கியமான ஒருவராக திகழ்ந்தார். தோனியின் விலகலுக்கு பிறகு அணியில் முக்கிய பங்கு வகிப்பார் என கருதப்பட்டவர்.  R
+
+◼️
+
+[Data](articles/6e5e194a.json)
+
+---
+
+### Central Bank admits recommendations of salary increments - Harsha de Silva
 
 *2024-03-21 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194788) · `si`
 
-වැටුප් සංශෝධන පිළිබඳ COPF වාර්තාවේ සියලුම නිර්දේශ පිළිගත් බව ශ්‍රී ලංකා මහ බැංකුවේ අධිපති අද (21) රාජ්‍ය මුදල් පිළිබඳ කාරක සභාවට දැනුම්දී ඇති බව එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා පවසයි.
+Central Bank of Sri Lanka's Governor acknowledges COPF report recommendations for salary increments, promising a review committee under Mr. Ranil Wickremesinghe.
 
-හැකි ඉක්මනින් වැටුප් සමාලෝචනය කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කමිටුවක් පත් කරන බවත්, එතෙක් මහ බැංකුවේ වැටුප් වැඩිවීම ලබන මාසයේ සිට කල්දමන බවත් ඔහු සඳහන් කළේය.
+🟩
+
+The Governor of the Central Bank of Sri Lanka has informed the Committee on Public Finance today (21) that all the recommendations of the COPF report on salary amendments.
+
+He said that Mr. Ranil Wickremesinghe appoints a committee to review the salaries as soon as possible, he said.
 
 ◼️
 
 [Data](articles/69c2d6ac.json)
+
+[Extended Data](ext_articles/69c2d6ac.ext.json)
 
 ---
 
@@ -87,6 +109,8 @@ A special press briefing was convened by the visiting IMF delegation on Thursday
 ...
 
 [Data](articles/8974ca6c.json)
+
+[Extended Data](ext_articles/8974ca6c.ext.json)
 
 ---
 
@@ -533,6 +557,24 @@ Fort Magistrate Thilina Gamage has ordered to be remanded until tomorrow (22) to
 [Data](articles/c09102fd.json)
 
 [Extended Data](ext_articles/c09102fd.ext.json)
+
+---
+
+### පාතාලය මඩින විශේෂ මෙහෙයුමෙන් පාතාලයේ 17ක් අල්ලයි
+
+*2024-03-21 15:58:29* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලය-මඩින-විශේෂ මෙහෙයුමෙන්-පාතාලයේ-17ක්-අල්ලයි/11-408745) · `si`
+
+පාතාලය මර්ධනය කිරීම සඳහා පොලිස්පති දේශබන්දු  තෙන්නකෝන් මහතා ගේ  සෘජු අධීක්ෂණය යටතේ ක්‍රියාත්මක විශේෂ කණ්ඩායම්  ආරම්භක දෙදින තුළ  පාතාල සාමාජිකයන් 17 කු ඇතුළු 27 කු අත්අඩංගුවට ගැනීමට හැකි වූ බව පොලිස් මාධ්‍ය ප්‍රකාශක  නියෝජ්‍ය පොලිස්පති, නීතීඥ නිහාල්  තල්දුව මහතා පැවසීය
+
+අත්අඩංගුවට ගත් සෙසු  10 දෙනා පාතාල සාමාජිකයන් සමඟ  සබඳතා පැවැත් වූ පුද්ගලයන් බව මාධ්‍ය ප්‍රකාශකවරයා කීය
+
+අත්අඩංගුවට පත්වූවන් අතර ප්‍රධාන පෙළේ පාතාල නායකයන්ගේ සමීප සාමාජිකයන්  රැසක් වන බව ඔවුන් පිළිබඳ තොරතුරු  සොයා බැලීමේදී අනාවරණය වන බව මාධ්‍ය ප්‍රකාශකවරයා කීය
+
+ඉකුත් 19 වෙනිදින  පොලිස්පති දේශබන්දු  තෙන්නකෝන් මහතා විසින්  පොලිස් ක්ෂේත්‍ර බළකා මූලස්ථානයේදී  පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් ,බුද්ධි අංශ නිලධාරීන් හා අපරාධ මර්ධන අංශවල නිලධාරීන්ගෙන් සැදුම්ලත්  විශේෂ ප්‍රහාරක බල ඇනි 20 ක් පාතාල ක්‍රියාකාරකම් මර්දනය කිරීම හා පාතාල සාමාජිකයන් අත්අඩංගුවට ගැනීම  සඳහා  කොළඹ කළුතර ගම්පහ හා ගාල්ල  දිස්ත්‍රික්කය ආවරණය වන පරිදි  යොමු කරන ලදී.
+
+◼️
+
+[Data](articles/1886e2ba.json)
 
 ---
 
@@ -2233,61 +2275,5 @@ The IMF delegation consisting of Peter Breuer, the Senior Mission Chief for Sri 
 [Data](articles/ae34628f.json)
 
 [Extended Data](ext_articles/ae34628f.ext.json)
-
----
-
-### Death of the limit to sexual behavior to 14
-
-*2024-03-21 10:59:51* · [`adalk`](https://www.ada.lk/breaking_news/ලිංගික-හැසිරීම්-සඳහා-සීමාව-අවුරුදු-14ට-අඩු-කිරීම/11-408736) · `si`
-
-National Organizations met on 2024-03-20 to discuss efforts to regulate sexual behavior, with Dr. Wasantha Bandara accusing the proposed law of promoting child abuse. The law aims to lower the age of consent from 16 to 14, sparking controversy.
-
-🟩
-
-Special Media Meeting conducted by the National Organizations to Disclose the Various Efforts for Sexual Behaviors 2024-03-20, Borella NM. Held at the center of Perera.
-
-Senior Khallirananda Thiranagama and Dr. Wasantha Bandara were conducted by a special revelation.
-
-The Secretary General of the Patriotic National Movement Dr. Wasantha Bandara revealed that this Act is trying to promote abuse of children in this country.
-
-He was charged with the amendment of the Dandunenathi Code in 1995, but the Hon. Wijedasa Rajapakse has been reduced to the age of 16, but that it has been a serious sin under rape and has been reduced to the year to 14 years.Did.
-
-He pointed out that the man's age limit is 18 to 22 years as an urgent need, this bill has been brought about a burning problem.
-
-Dr. Wasantha Bandara revealed that Ali Sabri had a cabinet to bring a cabinet in 2021.
-
-◼️
-
-[Data](articles/1f10891f.json)
-
-[Extended Data](ext_articles/1f10891f.ext.json)
-
----
-
-### Vietnam's resignation: Parliament approval
-
-*2024-03-21 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179295) · `ta`
-
-Vietnam's President Wo Wan Duong resigned, recognized by Parliament. Dhong Kong's resignation followed a Communist Party meeting. The Communist Party accused the party of rule violations and disrupting confidence. Duong's resignation linked to corruption in her home state, similar to her predecessor's exit due to a corruption scandal.
-
-🟩
-
-Vietnam President Wo Wan Duong has resigned. Her resignation was recognized by the country's parliament today.
-
-The government announced that President Dhong Kong resigned after yesterday's ruling Communist Party meeting.
-
-This resignation must be recognized by Parliament. The Vietnam Parliament, which convened on Thursday today, approved the resignation of President Tutongon's resignation.
-
-The Communist Party of Vietnam has accused the party of violating the party's rules and acting to disrupt the party's confidence.
-
-However, it is believed that he has resigned in a corruption controversy in Duong's home state.
-
-It is worth noting that the president, who had been the president before Dhonong, had resigned due to corruption controversy.
-
-◼️
-
-[Data](articles/c5d38122.json)
-
-[Extended Data](ext_articles/c5d38122.ext.json)
 
 ---

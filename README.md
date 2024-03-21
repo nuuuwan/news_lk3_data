@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 11:18:13**
+As of **2024-03-21 11:33:39**
 
 ## Newspaper Stats
 
-*Scraped **14,273** Articles*
+*Scraped **14,276** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,72 @@ newsfirstlk | 363
 dailyftlk | 756
 economynextcom | 764
 islandlk | 782
-adalk | 1,230
-adaderanalk | 1,711
+adalk | 1,231
+adaderanalk | 1,712
 tamilmirrorlk | 1,725
 virakesarilk | 2,000
 dailymirrorlk | 2,187
-adaderanasinhalalk | 2,275
+adaderanasinhalalk | 2,276
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,259 (99.9%) of 14,273 articles have been extended.
+14,273 (100.0%) of 14,276 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### பஸ் விபத்தில் மாணவர்கள் உட்பட 15 பேர் காயம்
+### වැල්ලවායේ බස් අනතුරක්
+
+*2024-03-21 11:04:11* · [`adalk`](https://www.ada.lk/breaking_news/වැල්ලවායේ-බස්-අනතුරක්/11-408737) · `si`
+
+වැල්ලවාය - තණමල්විල මාර්ගයේ කුමාරදාස හන්දිය ආසන්නයේදී බස් රථයේ රියදුරුට ඇති වූ හදිසි රෝගී තත්ත්වයක් හේතුවෙන් පෞද්ගලික බස්රථයක් මාර්ගයෙන් පිටතට පෙරළී ගොස් අනතුරක් සිදුව තිබේ.‍
+
+මෙම අනතුරින් පාසල් ළමුන් 7ක් සහ රියදුරු සමග15 දෙනෙක් වැල්ලවාය මුලික රෝහලට ඇතුළත් කර ඇතැයි වාර්තතාවේ.
+
+◼️
+
+[Data](articles/9e472f7c.json)
+
+---
+
+### අනුර කුමාර කැනඩා යයි
+
+*2024-03-21 11:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194767) · `si`
+
+ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා සංචාරයක නිරතවීම සඳහා ඊයේ (20) පස්වරුවේ කැනඩාව බලා පිටව ගොස් තිබේ.
+
+එම පක්ෂයේ කැනඩා කමිටුව මාර්තු 23 වැනිදා ටොරොන්ටෝ අගනුවරදී සහ 24 වැනිදා වැන්කුවර් නගරයේදී සංවිධාන කර ඇති ප්‍රධාන ජනහමු දෙකකට ඔහු සහභාගී වීමට නියමිතය.
+
+මීට අමතරව කැනඩාවේ සිටින ශ්‍රී ලාංකේය දෙමළ හා මුස්ලිම් ප්‍රජාව සමග සුහද හමු කිහිපයකටද අනුර කුමාර දිසානායක මහතා සහභාගිවී වනු ඇත.
+
+◼️
+
+[Data](articles/d761c265.json)
+
+---
+
+### 15 people injured in bus accident
 
 *2024-03-21 11:03:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-மாணவர்கள்-உட்பட-15-பேர்-காயம்/175-334975) · `ta`
 
-வெல்லவாய - தனமல்வில பிரதான வீதியின் குமாரதாச சந்தியில் தனியார் பேருந்து ஒன்று விபத்துக்குள்ளானதில் பாடசாலை மாணவர்கள் 7 பேர் உள்ளிட்ட 15 பேர் காயமடைந்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+15 injured, 7 school children, in bus crash at Kumaradasa junction. Driver negligence suspected. Wellawaya Police investigating.
 
-சாரதியின் கவனக்குறைவு காரணமாக இந்த விபத்து நேர்ந்துள்ளதாக ஆரம்பகட்ட விசாரணையில் தெரிய வந்துள்ளது.
+🟩
 
-இந்த நிலையில், குறித்த விபத்து தொடர்பில் வெல்லவாய பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்துள்ளனர். R
+At least 15 people, including seven school children, were injured when a private bus crashed at the Kumaradasa junction of the Wellawaya - Tanamalwila main road.
+
+Initial investigations revealed that the accident occurred due to the driver's negligence.
+
+In this case, the Wellawaya Police are conducting further investigations into the accident. Remble
 
 ◼️
 
 [Data](articles/1cb62139.json)
+
+[Extended Data](ext_articles/1cb62139.ext.json)
 
 ---
 
@@ -66,41 +102,75 @@ The IMF delegation consisting of Peter Breuer, the Senior Mission Chief for Sri 
 
 [Data](articles/96aa7d9b.json)
 
+[Extended Data](ext_articles/96aa7d9b.ext.json)
+
 ---
 
-### கோப் குழுவின் தலைவர் பதவியிலிருந்து ரோஹிதவை நீக்க வேண்டிய அவசியமில்லையாம்!
+### IMF representatives meet with Sajith Premadasa
+
+*2024-03-21 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98097/imf-representatives-meet-with-sajith-premadasa) · `en`
+
+The visiting delegation of the International Monetary Fund (IMF) has met with Sri Lankan Opposition Leader Sajith Premadasa at the parliament complex on Wednesday (March 20).
+
+The Samagi Jana Balawegaya members emphasized that the prevailing economic situation could have been averted had the government aptly responded to their earlier calls urging them to reach out to the global lender.
+
+While pointing out that they are in agreement with the roadmap presented by the IMF to help Sri Lanka’s economic recovery process, the SJB members went on to highlight that certain proposals require amendments.
+
+They further highlighted that the management of public finances should be done in a sustainable manner to save the country from bankruptcy.
+
+The IMF delegation consisting of Peter Breuer, the Senior Mission Chief for Sri Lanka; Katsiaryna Svirydzenka, the Deputy Mission Chief for Sri Lanka; and Sarwat Jahan, the Resident Representative for Sri Lanka were in attendance at this meeting.
+
+...
+
+[Data](articles/ae34628f.json)
+
+---
+
+### There is no need to remove Rohitha from the post of Cobb Group!
 
 *2024-03-21 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179299) · `ta`
 
-எதிர்க்கட்சி எம்.பி.க்கள் சிலரை  புதிய உறுப்பினர்களை நியமித்து கோப் குழு தொடர்ந்தும்  செயற்படுத்தப்படும்  என கோப் குழு உறுப்பினரும் இராஜாங்க அமைச்சருமான இந்திக அனுருத்த தெரிவித்துள்ளார்.
+Indika Anurutha, COPE Member and State Minister, stated that Rohitha Abeygunawardena, an MP, will remain as chairman of the Cobb Committee, despite objections.
 
-பல்வேறு ஆட்சேபனைகள் இருந்தாலும், நாடாளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவை கோப் குழுவின் தலைவர் பதவியிலிருந்து நீக்க வேண்டிய அவசியமில்லை எனவும்  அவர் அங்கு தெரிவித்தார்.
+🟩
+
+COPE Member and State Minister Indika Anurutha said that the Cobb Committee will continue to appoint some of the Opposition MPs.
+
+Despite various objections, he said that there is no need to remove MP Rohitha Abeygunawardena from the chairman of the Cobb Committee.
 
 ◼️
 
 [Data](articles/c92b4de7.json)
 
+[Extended Data](ext_articles/c92b4de7.ext.json)
+
 ---
 
-### வியட்நாம் ஜனாதிபதி இராஜினாமா : பாராளுமன்றம் அங்கீகாரம்
+### Vietnam's resignation: Parliament approval
 
 *2024-03-21 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179295) · `ta`
 
-வியட்நாம் ஜனாதிபதி வோ வான் துவோங் இராஜினாமா செய்துள்ளார். அவரின் இராஜினாமாவை அந்நாட்டுப் பாராளுமன்றம் இன்று அங்கீகரித்தது.
+Vietnam's President Wo Wan Duong resigned, recognized by Parliament. Dhong Kong's resignation followed a Communist Party meeting. The Communist Party accused the party of rule violations and disrupting confidence. Duong's resignation linked to corruption in her home state, similar to her predecessor's exit due to a corruption scandal.
 
-நேற்று நடைபெற்ற, ஆளும் கம்யூனிஸ்ட் கட்சிக் கூட்டத்தின் பின்னர் ஜனாதிபதி துவோங் இராஜினாமா செய்ததாக  அரசாங்கம் அறிவித்தது.
+🟩
 
-இந்த இராஜினாமாவுக்கு பாராளுமன்றத்தின் அங்கீகாரம் பெறப்பட வேண்டும். இந்நிலையில், இன்று வியாழக்கிழமை கூடிய வியட்நாம் பாராளுமன்றம், ஜனாதிபதி துவோங்கின் இராஜினாமாவுக்கு அங்கீகாரம் வழங்கியது.
+Vietnam President Wo Wan Duong has resigned. Her resignation was recognized by the country's parliament today.
 
-கட்சியின் விதிகளை துவோங் மீறியதுடன், கட்சின் நம்பிக்கையை குலைக்கும் வகையில் செயற்பட்டுள்ளார் என வியட்நாமின் கம்யூனிஸ்ட் கட்சி குற்றம் சுமத்தியுள்ளது.
+The government announced that President Dhong Kong resigned after yesterday's ruling Communist Party meeting.
 
-எனினும், துவோங்கின் சொந்த மாநிலத்தில் ஊழல் சர்ச்சையொன்று தொடர்பாக அவர் பதவிவிலகியுள்ளார் என நம்பப்படுகிறது.
+This resignation must be recognized by Parliament. The Vietnam Parliament, which convened on Thursday today, approved the resignation of President Tutongon's resignation.
 
-துவோங்குக்கு முன்னர் ஜனாதிபதியாக பதவி வகித்த ஜனாதிபதியும் ஊழல் சர்ச்சை காரணமாக இராஜினாமா செய்திருந்தமை குறிப்பிடத்கத்கது.
+The Communist Party of Vietnam has accused the party of violating the party's rules and acting to disrupt the party's confidence.
+
+However, it is believed that he has resigned in a corruption controversy in Duong's home state.
+
+It is worth noting that the president, who had been the president before Dhonong, had resigned due to corruption controversy.
 
 ◼️
 
 [Data](articles/c5d38122.json)
+
+[Extended Data](ext_articles/c5d38122.ext.json)
 
 ---
 
@@ -122,105 +192,149 @@ England players Tom Banton, Lauren Filer and Ollie Pope were also on the move, a
 
 [Data](articles/e2f4f532.json)
 
+[Extended Data](ext_articles/e2f4f532.ext.json)
+
 ---
 
-### அரசியல் ஆய்வாளர் அலன் கீனன் வவுனியா விஜயம்
+### Political Analyst Alan Keenan visits Vavuniya
 
 *2024-03-21 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/179297) · `ta`
 
-சர்வதேச அரசியல் ஆய்வாளர் அலன் கீனன் வவுனியா தமிழர்தாயக காணாமல் ஆக்கப்பட்ட சங்க உறவுகளுடன் கலந்துரையாடல் ஒன்றை முன்னெடுத்திருந்தார்.
+Alan Keenan, an international political analyst, met with families of missing union relations in Vavuniya, discussing contemporary issues and challenges.
 
-அவர்கள் தொடர்ச்சியாக சுழற்சிமுறை உணவுத்தவிர்ப்பு போராட்டத்தை முன்னெடுத்துவரும் கொட்டகையில் குறித்த சந்திப்பு நேற்று புதன்கிழமை (20) இடம்பெற்றிருந்தது.
+🟩
 
-இதன்போது காணாமல் ஆக்கப்பட உறவுகளின் பெற்றோர்களிடம் சமகால விடயங்கள் தொடர்பாக கேட்டறிந்துகொண்டதுடன், அவர்கள் சந்திக்கின்ற சவால்கள் மற்றும் பிரச்சனைகள் தொடர்பிலும் கேட்டறிந்துகொண்டார்.
+International Political Analyst Allen Keenan has held a discussion with the missing union relations.
+
+The meeting was held on Wednesday (20) at the shed where they continued to carry out a rotational food struggle.
+
+The parents of the missing relationships were asked about contemporary issues and the challenges and problems they face.
 
 ◼️
 
 [Data](articles/1e2b089d.json)
 
+[Extended Data](ext_articles/1e2b089d.ext.json)
+
 ---
 
-### ගැබිනි ගුරුවරියක් දුම්රියේ ගැටී ජීවිතක්ෂයට
+### Pregnant teacher killed in train
 
 *2024-03-21 10:47:26* · [`adalk`](https://www.ada.lk/breaking_news/ගැබිනි-ගුරුවරියක්-දුම්රියේ-ගැටී-ජීවිතක්ෂයට/11-408735) · `si`
 
-මුහුදු බඩ දුම්රිය මාර්ගයේ රත්ගම ඕවකන් පදේශයේදී  ගැබිනි ගුරුවරික දුම්රියේ ගැටී ජීවිතක්ෂයට පත්වී ඇතැයි රත්ගම පොලීසිය කියයි. මෙසේ මිය ගොස් ඇත්තේ රත්ගම ඕවකන්ද පදේශයේම පදිංචි රත්ගම මාවඩවිල මලියදේව  විදුගලේ   ගුරුවරියක් බව ද පොලීසිය කියයි.
+A pregnant teacher from Rathgama was killed by a train on the coastal railway line. Vidyalaya, a resident of Ovakanda Media, was identified as the victim. The Ratgama Police are investigating.
 
-මේ තිස්තුන්  හැවිරිදි දෙදරු මවක වන මේ ගුරුවරිය ගැබිනි අයෙක් බව ද පොලීසිය කියයි. කොළඹ සිට බෙලිඅත්ත දක්වා ගමන්ගත් දුම්රියේ මේ ගුරුවරිය ගැටී ඇති බවද පොලීසිය කියයි. රත්ගම පොලීසිය මේ සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ පවත්වයි.
+🟩
+
+The Ratgama Police say that the victim's teachers have been hit by a pregnant teachers in the Rathgama Ovan area on the coastal railway line.The deceased has been identified as Vidyalaya, a teacher in Vidyalaya, Rathgama Madagali Modaadeva, a resident of the Ovakanda Media.
+
+The teacher, a three-year-old mother, is pregnant, police said.The teacher had collided with the train traveling from Colombo to Beliatta.The Ratgama Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/9ba2f942.json)
 
+[Extended Data](ext_articles/9ba2f942.ext.json)
+
 ---
 
-### யாழ். வட்டுக்கோட்டை இளைஞன் படுகொலை : 5 ஆவது சந்தேகநபரை உயிரிழந்தவரின் மனைவி அடையாளம் காட்டினார்
+### Yall. Vaddukoddai Youth Massacre: The wife of the deceased
 
 *2024-03-21 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/179291) · `ta`
 
-யாழ்ப்பாணம் வட்டுக்கோட்டை பகுதியில் இளைஞனை கடத்தி  கொலை செய்த குற்றச்சாட்டில் கைதாகியுள்ளவர்களில் ஐந்தாவது சந்தேகநபரை கொல்லப்பட்ட இளைஞனின் மனைவி அடையாளம் காட்டியுள்ளார்.
+In Jaffna, a youth was murdered in Vaddukoddai. The killer's wife, abducted with him, identified the fifth suspect. Six suspects were arrested and remanded. The wife appeared in court to identify the suspect, and the case was adjourned until the 28th for further interrogation.
 
-வட்டுக்கோட்டை பகுதியைச் சேர்ந்த இளைஞன் தனது மனைவியுடன் காரைநகர் பகுதிக்கு சென்று விட்டு, மோட்டார் சைக்கிளில் திரும்பும் வேளை பொன்னாலை பாலத்திற்கு அருகில் உள்ள கடற்படை முகாமிற்கு முன்பாக வைத்து மனைவியுடன் கடத்தி செல்லப்பட்டு படுகொலை செய்யப்பட்டார்.
+🟩
 
-சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்து வரும் பொலிஸார் இதுவரையில் 06 பேரை கைது செய்துள்ளனர். கைது செய்யப்பட்டுள்ளவர்கள் நீதிமன்ற உத்தரவில் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+The wife of a young man who killed the fifth suspect has been identified as the murder of a youth in the Vaddukoddai area in Jaffna.
 
-இந்நிலையில், மல்லாகம் நீதவான் நீதிமன்றில் இன்றைய தினம் புதன்கிழமை அடையாள அணிவகுப்பு நடைபெற்ற வேளை, கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள 06 சந்தேகநபர்களும் மன்றில் முற்படுத்தப்பட்டனர். அதன்போது, படுகொலையான இளைஞனின் மனைவி மன்றில் தோன்றி, ஐந்தாவது சந்தேகநபரை அடையாளம் காட்டினார்.
+The young man from Vaddukoddai area left the Karainagar area with his wife and returned on a motorbike and was abducted and murdered with his wife in front of the Naval Base near the Ponnalai Bridge.
 
-...
+Police have arrested six people who are conducting investigations into the incident.. The arrested persons have been remanded in court order.
+
+In this case, the six suspects who were arrested and interrogated were present at the Mallakam Magistrate's Court on Wednesday.. At the time, the wife of the murderous young man appeared in the forum and identified the fifth suspect.
+
+The magistrate then adjourned the case to the 28th and ordered the six suspects to be interrogated until that day.
+
+◼️
 
 [Data](articles/c95f3e42.json)
 
+[Extended Data](ext_articles/c95f3e42.ext.json)
+
 ---
 
-### மன்னார் காற்றாலை மின்திட்டத்தி;ற்கு எதிராக  தீவிரபிரச்சாரம் - அதானி குழுமம் கவலை
+### Serious propaganda against the Mannar Wind Planning - Adani Group Concerns
 
 *2024-03-21 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179293) · `ta`
 
-மன்னாரில் தான் முன்னெடுக்க திட்டமிட்டுள்ள காற்றாலை மின்திட்டத்திற்கு எதிராக தீவிர பிரச்சாரம் இடம்பெறுவதாக அதானி குழுமம் தெரிவித்துள்ளது.
+The Adani Group claims a serious campaign is against the planned 250 Mogawot windmills in Mannar, citing careful site selection and collaboration with environmental experts. They aim to minimize environmental impact using modern technology and have prepared long-term field studies with data from organizations like the Sri Lanka Birds Association.
 
-உள்நோக்கம் கொண்ட சக்திகள் மன்னாரில் முன்னெடுக்க திட்டமிடப்பட்டுள்ள  250 மொகவோட் காற்றாலை மின்திட்டத்திற்கு எதிராக தீவிர பிரச்சாரத்தை முன்னெடுத்துள்ளன  என அதானி குழுமத்தின் பேச்சாளர் எக்கனமிநெக்ஸ்ட் இணையத்தளத்திற்கு அனுப்பிய அறிக்கையில் தெரிவித்துள்ளார்.
+🟩
 
-காற்றாலையை அமைப்பதற்கான இடத்தை மிகவும் கவனமாக பரிசீலித்த பிறகே தெரிவுசெய்ததாக தெரிவித்துள்ள அவர் பறவைகளின் பறக்கும் பாதையில் விசையாழிகள் அமைக்கப்படாது எனவும் தெரிவித்துள்ளார்.
+The Adani Group has said that there is a serious campaign against the wind power plant in Mannar.
 
-இலங்கையின் பேண்தகுஎரிசக்தி அதிகாரசபை பறவைகள் மற்றும் வெளவால்கள் குறித்த   ஆராய்ச்சியை மேற்கொண்டது கொழும்பு பல்கலைகழகத்தின் விலங்கியல் மற்றும் சூழல் விஞ்ஞான பீடத்தின் சிரேஸ்ட பேராசிரியர் தேவகவீரக்கோன்  தலைமையில்  இந்த ஆராய்ச்சி இடம்பெற்றது எனவும் அவர் தெரிவித்துள்ளார்.
+In a statement sent to the Adani Group spokesman, the spokesperson of the Adani Group said that the inner force has launched a serious campaign against the 250 Mogawot windmills planned to be carried out in Mannar.
+
+He said that he had chosen the place to construct the windmill only after he was very careful.
+
+He said the research was carried out under the leadership of Senior Professor Devakaweerakoon, Senior Professor of Zoology and Environmental Science, Colombo University.
+
+A spokesman for the Adani Group said that the long -term field studies were prepared only after the data of organizations such as the Sri Lanka Birds Association had been prepared.
+
+"We will use modern technology to avoid the impact of the environment within a certain period of time and to fill in this project," he said.
 
 ...
 
 [Data](articles/59967ce0.json)
 
+[Extended Data](ext_articles/59967ce0.ext.json)
+
 ---
 
-### அமெரிக்காவுக்குச் சென்றிருந்த அமைச்சர் பந்துல ஜனாதிபதியின் வேண்டுகோளில் நாடு திரும்பினார்!
+### Minister Bandula returned to the country at the request of the President
 
 *2024-03-21 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/179292) · `ta`
 
-உலக வங்கியினால் ஏற்பாடு செய்யப்பட்ட மாநாட்டில் பங்கேற்பதற்காக அமெரிக்காவின் வொஷிங்டனுக்குச் சென்றிருந்த அமைச்சர்  பந்துல குணவர்தன நேற்று புதன்கிழமை (20) இரவு நாடு திரும்பினார்.
+Minister Bandula Gunawardena, after attending a World Bank conference in Washington, returned to Sri Lanka at the President's request. He was invited to participate in a referendum on a no-confidence motion against the Speaker.
 
-சபாநாயகருக்கு எதிரான நம்பிக்கையில்லாப் பிரேரணை மீதான வாக்கெடுப்பில் கலந்துகொள்ள தமக்கு அழைப்பு விடுக்கப்பட்டதாக நாடு திரும்பிய அமைச்சர்  ஊடகங்களுக்கு கருத்து  தெரிவித்தார்.
+🟩
+
+Minister Bandula Gunawardena, who visited Washington in the US to attend a conference organized by the World Bank, returned to the country on Wednesday night.
+
+The Minister who returned to the country told the media that he was invited to participate in the referendum on the no -confidence motion against the Speaker.
 
 ◼️
 
 [Data](articles/8e43a740.json)
 
+[Extended Data](ext_articles/8e43a740.ext.json)
+
 ---
 
-### එස්.ටී.එෆ්. වෙඩි පහරින් සංවිධානාත්මක අපරාධකරුවෙක් මරුට
+### STF. Organized criminal killed in a shot
 
 *2024-03-21 10:37:33* · [`adalk`](https://www.ada.lk/breaking_news/එස්-ටී-එෆ්--වෙඩි-පහරින්-සංවිධානාත්මක-අපරාධකරුවෙක්-මරුට/11-408734) · `si`
 
-පොලිස් විශේෂ කාර්ය බළකාය හා සංවිධානාත්මක අපරාධකලින් සාමාජිකයෙක් අතර සිදුවූ වෙඩි හුවමාරුවකින් සංවිධානාත්මක අපරාධකල්ලි සාමාජිකයා ජීවිතක්ෂයට පත්ව තිබේ.
+An organized criminal was killed in a shootout between a STF member and organized crime in Ramamam Mawatha, Ramamulla. The STF raided the incident based on a tip, resulting in the suspect's death and injuring a STF officer. The victim, a 28-year-old resident of Eheliyagoda, was shot in the Balawatta area, Ja-Elan, on 09.
 
-ඊයේ රාත්‍රී ගණේමුල්ල ප්‍රදේශයේදී පොලිස් විශේෂ කාර්යය බළකා ගෝනහේන කඳවුරේ නිලධාරීන්ට ලද තොරතුරක් මත ගණේමුල්ල සුමේධ මාවත ප්‍රදේශයේ, නිවසක් වටලා පරීක්ෂාවක් සිදුකිරීමේදී මෙම වෙඩි හුවමාරුව සිදුව තිබේ.
+🟩
 
-දෙපාර්ශ්වය අතර සිදුවූ වෙඩි හුවමාරුවෙන් සැකකරු සහ විශේෂ කාර්යය බළකා නිලධාරියෙකු තුවාල ලබා රාගම රෝහලට ඇතුළත් කිරීමේදී සැකකරු මියගොස් ඇති බව පොලීසිය පැවසුවේය.
+Organized criminali member member has died due to a shooting between a member of the STF and organized crime.
 
-සිද්ධියෙන් මියගොස් ඇත්තේ පසුගිය 09 වන දින ජා-ඇළ, දඬුගම බස්වත්ත ප්‍රදේශයේ සිදුවු වෙඩි තැබීමේ සිද්ධියේ වෙඩික්කරු බව වාර්තා වේ.
+The STF raided the shooting in the Manammam Mawatha, Ramamam Mawatha, Ramamulla on a tip off received by the Special Task Force in the Ganela Maha Path.
 
-සැකකරු 28 හැවිරිදි ඇහැළියගොඩ ප්‍රදේශයේ පදිංචිව සිටි අයෙකු වන අතර ඔහු හමුදා සේවයෙන් පළා ආ අයෙකු බව වාර්තා වෙයි.
+The suspect was killed in the shooting and a special task officer in the area and injuring a STF officer in the Ragama hospital.
+
+The victim is the shotgrove at the shooting incident in the Balawatta area in Ja-Elan on 09.
+
+The suspect is a 28 year old residents of Eheliyagoda and he has fled the military.
 
 ◼️
 
 [Data](articles/9ffc6361.json)
+
+[Extended Data](ext_articles/9ffc6361.ext.json)
 
 ---
 
@@ -238,19 +352,25 @@ Parliament, March 21 (Daily Mirror)- The Recovery of Loans by Banks (Special pro
 
 ---
 
-### ඇමෙරිකා ගිය බන්දුල ජනපතිගේ දැනුම් දීමකට හදිසියේම ලංකාවට එයි
+### Bandula last won by President Rajapaksa sudden
 
 *2024-03-21 10:31:43* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකා-ගිය-බන්දුල-ජනපතිගේ-දැනුම්-දීමකට-හදිසියේම-ලංකාවට-එයි/11-408733) · `si`
 
-ඇමෙරිකාවේ වොෂිංටන් වෙත ගොස් සිටි අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා ජනපතිවරයා විසින් කළ කැඳවීමක් අනුව ඊයේ (20) රාත්‍රි යළිත් හදිසියේම දිවයිනට පැමිණ තිබේ.
+Dr. Bandula Gunawardena, who attended a World Bank convention in the US, was summoned back to Sri Lanka by President Rajapaksa to attend an election.
 
-කථානායකවරයාට එරෙහි විශ්වාසභංග යෝජනාවට අදාළ ඡන්ද විමසීමේ අවස්ථාවට සහභාගිවීම සඳහා මෙලෙස ඔහු යළිත් දිවයිනට කැඳවා තිබේ.
+🟩
 
-ලෝක බැංකුව විසින් සංවිධානය කළ සමුළුවකට එක්වීම සඳහා බන්දුල ගුණවර්ධන මහතා ඇමෙරිකාවට ගොස් තිබුණි.
+Dr. Bandula Gunawardena, who was gone to Washington in the US, has returned to the island yesterday (20) by the President yesterday.
+
+The no-confidence motion against the Speaker, he has been summoned to the island to attend the election.
+
+Bandula Gunawardena had gone to the United States to join a convention organized by the World Bank.
 
 ◼️
 
 [Data](articles/c3519169.json)
+
+[Extended Data](ext_articles/c3519169.ext.json)
 
 ---
 
@@ -276,21 +396,29 @@ The second birthdant Gamini Dissanayake, a distinguished politician, was held ye
 
 ---
 
-### பாதாள உலக செயற்பாடுகளுடன் தொடர்புடைய 19 சந்தேக நபர்கள் கைது
+### 19 suspects in related to underworld activities
 
 *2024-03-21 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179287) · `ta`
 
-நாட்டில் போதைப்பொருள் மற்றும் பாதாள உலகக் குழுக்களின் செயற்பாடுகளை கட்டுப்படுத்துவதற்காக பொலிஸாரால் நாடளாவிய ரீதியில் முன்னெடுக்கப்படும் விசேட நடவடிக்கையான ‘யுக்திய’ வின் கீழ் பாதாள உலக கும்பலுடன்  தொடர்புடைய 19 பேர் இதுவரை கைது செய்யப்பட்டுள்ளதாக இலங்கை பொலிஸார் தெரிவித்துள்ளனர்.
+19 suspects linked to underworld activities in Sri Lanka were arrested by the Colombo Crime Unit, including those involved in drug trafficking. Four were arrested with drugs, and a suspected gunman was killed by police.
 
-இதன்படி, ஐஸ், ஹெரோயின் போதைப்பொருள் மற்றும் வாள்களுடன் மூன்று ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பலைச் சேர்ந்த நான்கு சந்தேகநபர்கள் நேற்று புதன்கிழமை  (20) கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேகநபர்கள் மருதானை, முகத்துவாரம், கிராண்ட்பாஸ் மற்றும் மாளிகாவத்தை ஆகிய பிரதேசங்களைச் சேர்ந்த 44, 26, 23 மற்றும் 28 வயதுடையவர்களாவர்.
+Sri Lankan police have said that 19 persons have been arrested in connection with the underworld gang under the Uttar Pradesh, which is being carried out by the police to curb the activities of drugs and underworld groups in the country.
 
-இவர்கள்  2 கிராம் 450 மில்லிகிராம் ஹெரோயின், 7 கிராம் 510 மில்லிகிராம் ஐஸ் போதைப்பொருள், 3 கிராம் 160 மில்லிகிராம் ஐஸ் ஆகியவற்றை வைத்திருந்த போது கொழும்பு குற்றத்தடுப்பு பிரிவினரால் (CCD) கைது செய்யப்பட்டுள்ளனர்.
+Accordingly, four suspects belonging to three organized criminal gangs with ice, heroin and swords were arrested on Wednesday (20).
 
-...
+The arrested suspects are aged 44, 26, 23 and 28, from Maradana, Mukhthavaram, Grandpass and Maligawatte.
+
+They have been arrested by the Colombo Crime Unit (CCD) while holding 2 grams of 450 milligrams of heroin, 7 g 510 milligrams of ice and 3 grams of 160 milligrams of ice.
+
+Meanwhile, a man suspected of being a gunman of the underworld has been killed in a shooting with a police Special Task Force in Ganemulla on Wednesday night (20).
+
+◼️
 
 [Data](articles/059c1ecf.json)
+
+[Extended Data](ext_articles/059c1ecf.ext.json)
 
 ---
 
@@ -2013,73 +2141,5 @@ The Opposition Leader added that the International Monetary Fund has positively 
 [Data](articles/ddd72d51.json)
 
 [Extended Data](ext_articles/ddd72d51.ext.json)
-
----
-
-### Martis recommended for Head Coach position
-
-*2024-03-20 21:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Martis-recommended-for-Head-Coach-position/108-279258) · `en`
-
-Mar. 20 (Daily Mirror) - Former Isipathana College, CR and FC and national youth player, current St. Peter’s College and CH and FC Head Coach, Sanath Martis was recommended by Sri Lanka Rugby (SLR) Technical Committee for the appointment as Head Coach of the Sri Lanka 15-A-Side outfit for the Asia Rugby Division 1 Series against the Qatar national outfit.
-
-This tournament is likely to be played at the Racecourse Grounds in Colombo with the hosts playing two games against the visiting Qatar outfit as Pakistan is likely to pull out from the event due to political uncertainty.
-
-The Technical Committee comprises Roshan Deen, Anil Jayasinghe, Tony Amit and Viper (Jnr.) Gunaratne with Tony Amit heading the unit.
-
-According to sources, the committee has already sent their nomination to SLR Council, which will meet shortly to approve and the national selectors will name the initial squad for training.
-
-...
-
-[Data](articles/8a470059.json)
-
-[Extended Data](ext_articles/8a470059.ext.json)
-
----
-
-### Women's police officer falls into a boom truck
-
-*2024-03-20 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194751) · `si`
-
-A female police officer, Dodangoda Weerasuriya, died after a collision with a truck. She was attached to the Kalutara Superintendency of the Police Office. The incident occurred after she finished her shift and was moving from the bus to the road. The truck driver has been arrested.
-
-🟩
-
-According to Matugama Police, a female police officer died this evening.
-
-The deceased has been identified as Dodangoda Weerasuriya, who was attached to the Kalutara Superinteign of the Police Office.
-
-She is in the accident when she finished the bus and shifting the road from the pavement.
-
-She had collided with the truck that was traveled from Matugama to Kalutara.
-
-It is reported that she had been taken to the Nagoda Teaching Hospital in Kalutara and died on the hospital.
-
-The truck driver has been arrested and is to be produced before the Matugama Magistrate's Court.
-
-◼️
-
-[Data](articles/29b1b11d.json)
-
-[Extended Data](ext_articles/29b1b11d.ext.json)
-
----
-
-### President Ranil unveils vision for rapid transformation into export economy
-
-*2024-03-20 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98087/president-ranil-unveils-vision-for-rapid-transformation-into-export-economy) · `en`
-
-If Sri Lanka continues to rely on borrowing to address the imbalance between imports and exports, the nation will inevitably confront another economic crisis within a decade, says President Ranil Wickremesinghe.
-
-He also underscored his vision to establish economic stability and expedite the transformation of Sri Lanka into an export-oriented economy.
-
-The President said that a new law is planned to be introduced to parliament in April, alongside another legislation aimed at improving financial governance within the government. These measures are designed to propel the nation’s economy forward.
-
-Wickremesinghe made these remarks during his attendance at the inauguration ceremony of Bodhigara and Golden Fence, constructed near the historic Mangedara Tempita Viharaya in Kegalle today (March 20).
-
-...
-
-[Data](articles/04cd0428.json)
-
-[Extended Data](ext_articles/04cd0428.ext.json)
 
 ---

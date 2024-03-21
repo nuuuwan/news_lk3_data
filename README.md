@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 15:03:21**
+As of **2024-03-21 15:17:46**
 
 ## Newspaper Stats
 
-*Scraped **14,326** Articles*
+*Scraped **14,330** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,50 @@ newsfirstlk | 363
 dailyftlk | 756
 economynextcom | 764
 islandlk | 782
-adalk | 1,237
+adalk | 1,238
 adaderanalk | 1,719
-tamilmirrorlk | 1,734
-virakesarilk | 2,013
-dailymirrorlk | 2,194
+tamilmirrorlk | 1,735
+virakesarilk | 2,014
+dailymirrorlk | 2,195
 adaderanasinhalalk | 2,283
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,322 (100.0%) of 14,326 articles have been extended.
+14,326 (100.0%) of 14,330 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### திருகோணமலை மேன்காமம் குளம் ஆக்கிரமிப்பு ;  சட்ட நடவடிக்கை எடுக்குமாறு கிராம மக்கள் கோரிக்கை
+
+*2024-03-21 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/179330) · `ta`
+
+திருகோணமலை  மூதூர் பிரதேச செயலாளர் பிரிவுக்குட்பட்ட மேன்காமம் குளத்தின் பகுதிகளை பெரும்பான்மை இனத்தைச் சேர்ந்த சிலர் நேற்று புதன்கிழமை (20) முதல் மீண்டும் ஆக்கிரமித்து வருவதாகவும், கனரக வாகனங்களை பயன்படுத்தி குளத்தின் பகுதிகளை சேதப்படுத்தி அங்கிருக்கும் நீரை வெளியேற்றி விவசாய நடவடிக்கைகளில் ஈடுபடுவதாகவும் கிராம மக்கள் தெரிவிக்கின்றனர்.
+
+இது தொடர்பாக சம்பந்தப்பட்ட அதிகாரிகளுக்கு தெரியப்படுத்தியும் இதுவரை அவர்களுக்கு எதிராக எவ்வித சட்ட நடவடிக்கைகளும் மேற்கொள்ளப்படவில்லை எனவும் இதனால் அக்குளத்தை நம்பி விவசாயத்தில் ஈடுபடும் மக்களின் வாழ்வாதாரம் பாதிக்கப்படுவதாகவும் கவலை வெளியிடுகின்றனர்.
+
+...
+
+[Data](articles/790fe9b3.json)
+
+---
+
+### ”எதிர்க்கட்சி உறுப்பினர்கள் உள் தகவல்களை வெளியிட்டுள்ளனர்”
+
+*2024-03-21 14:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சி-உறுப்பினர்கள்-உள்-தகவல்களை-வெளியிட்டுள்ளனர்/175-334992) · `ta`
+
+பொலிஸ்மா அதிபர் தொடர்பில் தீர்மானிப்பதற்காக அரசியலமைப்பு சபை நடத்திய கூட்டத்தின் உள்ளக தகவல்களை வெளியிட்டதன் மூலம் அரசியலமைப்பு சபையின் எதிர்க்கட்சி உறுப்பினர்கள் பொறுப்பற்ற முறையில் செயற்பட்டுள்ளதாக பிரதமர் தினேஷ் குணவர்தன இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
+
+"கடந்த காலங்களில் அரசியலமைப்பு சபை உறுப்பினர்களிடையே பிரச்சினைகள் மற்றும் கருத்து வேறுபாடுகள் இருந்தன, ஆனால் எந்த உறுப்பினரும் அவற்றை வெளிப்படுத்தவில்லை. இருப்பினும் தற்போதைய அரசியலமைப்பு சபையின் எதிர்க்கட்சி உறுப்பினர்கள் உள் தகவல்களை வெளியிட்டுள்ளனர். இது ஒரு பொறுப்பற்ற செயல்," என்று பிரதமர் கூறினார்.
+
+◼️
+
+[Data](articles/be55a641.json)
+
+---
 
 ### ADB launches new partnership strategy for Sri Lanka
 
@@ -44,19 +72,27 @@ The Asian Development Bank (ADB) has launched a new country partnership strategy
 
 [Data](articles/ada3a8bd.json)
 
+[Extended Data](ext_articles/ada3a8bd.ext.json)
+
 ---
 
-### டிலான் பெரேரா இராஜினாமா
+### Dylan Perera resigns
 
 *2024-03-21 14:46:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிலான்-பெரேரா-இராஜினாமா/175-334991) · `ta`
 
-பொது நிறுவனங்கள் தொடர்பான குழுவில் இருந்து (கோப்) எதிர்க்கட்சி எம்.பி டிலான் பெரேரா இன்று இராஜினாமா செய்தார்.
+Dylan Perera, an Opposition MP, resigned from the Public Companies Committee (COP) during a debate on a no-confidence motion against the Speaker in Parliament.
 
-பாராளுமன்றத்தில் சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை மீதான விவாதத்தில் கலந்து கொண்டு உரையாற்றும் போதே அவர் தனது பதவி விலகலை அறிவித்தார்.
+🟩
+
+Opposition MP Dylan Perera resigned from the Public Companies Committee (COP) today.
+
+He announced his resignation while addressing the debate on the no -confidence motion against the Speaker in Parliament.
 
 ◼️
 
 [Data](articles/422826fa.json)
+
+[Extended Data](ext_articles/422826fa.ext.json)
 
 ---
 
@@ -86,21 +122,27 @@ At the same time, it is distressing that the Tamil MPs have not called for their
 
 ---
 
-### பெப்ரவரி மாதத்தில் 7%  ஆக குறைந்துள்ளது
+### Decreased to 7% in February
 
 *2024-03-21 14:41:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெப்ரவரி-மாதத்தில்-7-ஆக-குறைந்துள்ளது/175-334990) · `ta`
 
-வெரிட்டே ரிசேர்ச்சின் கேலப் பாணியிலான (Gallup style) சமீபத்திய 'தேசத்தின் மனநிலை' கருத்துக்கணிப்பின்படி, 2023 ஒக்டோபர் மாதத்தில்  9% ஆக இருந்த அரசாங்கம் மீதான மக்களின் அங்கீகாரம் 2024 பெப்ரவரியில்7% ஆகக் குறைந்துள்ளது.
+Gallup Style Verite Research poll shows government authority dropped from 9% to 7% in February 2024. Economic conditions worsened, with 90% believing they're deteriorating, up from 66% in October 2023. 7% accept current government actions, 85% reject. Economic conditions are now considered special, good, or ridiculous by 91%, up from 73% in June 2023 and 81% in October 2023. 9% believe the economy is improving, down from 8% in October 2023.
 
-தற்போதைய பொருளாதாரம் சிறப்பாக உள்ளது அல்லது நல்ல நிலையில் உள்ளது என 9 சதவீதமானவர்கள் மட்டுமே மதிப்பிட்டதாகக் கணக்கெடுப்பு சுட்டிக்காட்டுகிறது, இது 2023 அக்டோபரில் 16 சதவீதமாக இருந்தது என்பது குறிப்பிடத்தக்கது.
+🟩
 
-நாட்டின் பொருளாதார நிலைமைகள் மோசமடைந்து வருவதாக 90% கருதுகின்றனர், அதேவேளை 2023 அக்டோபரில் 66% மட்டுமே இவ்வாறான எதிர்மறையான பார்வையைக் கொண்டிருந்தனர்.
+According to the latest 'nation mood' poll of the Gallup Style of the Verite Research, the authority of the government, which was 9% in October 2023, declined to 7% in February 2024.
 
-தற்போதைய அரசாங்கம் செயல்படும் முறையை நீங்கள் அங்கீகரிக்கிறீர்களா அல்லது மறுக்கிறீர்களா?" என்ற கேள்விக்கு, பதிலளித்தவர்களில் 7% (கிட்டத்தட்ட 7.5%) தாங்கள்ஏற்றுக்கொள்வதாகக் கூறியுள்ளனர் (± 1.81% பிழை வரம்புடன்). அரசாங்கம் செயல்படும்முறையை நிராகரிப்பதாகக் கூறிய சதவீதம் 85% ஆகும். அரசாங்கம் மீதான அங்கீகார மதிப்பீடு 2022ஜூன் மாதத்திற்குப் பிறகு தற்போது மிகக் குறைந்த புள்ளியை எட்டியுள்ளது.
+The survey points out that only 9 percent estimated that the current economy is better or in good condition, which was 16 percent in October 2023.
+
+90% of the country's economic conditions are deteriorating, while only 66% in October 2023 had such a negative view.
+
+Do you recognize or refuse the method of acting in the current government? ”In the question, 7% of the respondents said they would accept them (± 1.81% with ± 1.81%). The percentage of the government rejected the process is 85%. The accreditation rating on the government has now reached the lowest point since June 2022.
 
 ...
 
 [Data](articles/4e6613f9.json)
+
+[Extended Data](ext_articles/4e6613f9.ext.json)
 
 ---
 
@@ -119,6 +161,8 @@ As such, the CBSL urged the members of the public to refrain from engaging in th
 ◼️
 
 [Data](articles/88c7dabf.json)
+
+[Extended Data](ext_articles/88c7dabf.ext.json)
 
 ---
 
@@ -145,6 +189,24 @@ Investigations on the petition will be held on the 1st of this month.
 [Data](articles/ca32250a.json)
 
 [Extended Data](ext_articles/ca32250a.ext.json)
+
+---
+
+### Australia tightens student visa rules as migration hits record high
+
+*2024-03-21 14:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Australia-tightens-student-visa-rules-as-migration-hits-record-high/108-279324) · `en`
+
+SYDNEY, March 21 (Reuters) - Australia will begin enforcing tougher visa rules for foreign students this week as official data showed migration hit another record high, which is likely to further exacerbate an already tight rental market.
+
+From Saturday, English language requirements for student and graduate visas will be increased, while the government will get the power to suspend education providers from recruiting international students if they repeatedly break rules.
+
+"The actions this weekend will continue to drive migration levels down while delivering on our commitments in the migration strategy to fix the broken system we inherited," Home Affairs Minister Clare O'Neil said in a statement.
+
+A new "genuine student test" will be introduced to further crack down on international students who look to come to Australia primarily to work, while the imposition of "no further stay" conditions will be used on more visitor visas.
+
+...
+
+[Data](articles/6990dc6b.json)
 
 ---
 
@@ -239,6 +301,22 @@ After that, the woman was allowed to go on two physical bail worth Rs 06 lakhs.
 [Data](articles/72decf33.json)
 
 [Extended Data](ext_articles/72decf33.ext.json)
+
+---
+
+### ජනවාරි 01 සිට මාර්තු මස 19 දක්වා ගුවන් මගීන්  850,000ක්
+
+*2024-03-21 13:56:20* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරි-01-සිට-මාර්තු-මස-19-දක්වා-ගුවන්-මගීන්--850-000ක්/11-408742) · `si`
+
+විදෙස් සංචාරකයන්ගේ පැමිණිම ඉහළ ගොස් ඇති බවත්, ඒ අනුව කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළ ගුවන් මගීන් වැඩි වශයෙන් භාවිතා කරන ස්ථානයක් බවට පත්ව ඇති බවත් ගුවන් තොටුපළ හා ගුවන් සේවා ශ්‍රී ලංකා පුද්ගලික සමාගමේ සභාපති අතුල ගල්කැටිය මහතා පැවසීය.
+
+ඒ මහතා පෙන්වා දෙන ආකාරයට 2024 වසරේ ජනවාරි මස 01 වැනිදා සිට මාර්තු මස 19 වැනිදා දක්වා කාලය තුළ ගුවන්තොටුපළ සේවා ලබාගත් ගුවන් මගීන් සංඛ්‍යාව 850,000කි.
+
+එසේම මේ වසර අවසානය වන විට ගුවන් මගීන් මිලියන 10ක පමණ පිරිසක් ගුවන්තොටුපළ භාවිතා කරනු ඇතැයි විශ්වාස කරන බවද ඒ මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/b196e376.json)
 
 ---
 
@@ -2199,97 +2277,5 @@ The Department of Wildlife Conservation says that the death of wildlife conserva
 [Data](articles/98df5f78.json)
 
 [Extended Data](ext_articles/98df5f78.ext.json)
-
----
-
-### Ranil - Basil said
-
-*2024-03-21 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194757) · `si`
-
-President Ranil Wickremesinghe and former Minister Basil Rajapaksa, along with former President Mahinda Rajapaksa, are meeting today to discuss the next presidential election and political activities.
-
-🟩
-
-President Ranil Wickremesinghe and former Minister Basil Rajapaksa will be held today (21).
-
-It is said that the next presidential and election, including the coming political activities, is to be discussed.
-
-President Ranil Wickremesinghe and Basil Rajapaksa and former President Mahinda Rajapaksa recently arrived at the meeting.
-
-◼️
-
-[Data](articles/14c2a3d2.json)
-
-[Extended Data](ext_articles/14c2a3d2.ext.json)
-
----
-
-### STF shot dead
-
-*2024-03-21 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194755) · `si`
-
-A member of the organized criminal was killed in a shooting in Ganemulla. The STF raided houses in Sumedha Mawatha and Ganeheramaya Mawatha in October. The suspect, a 28-year-old from Eheliyagoda, shot at the STF, injuring both him and an officer. They were admitted to Ragama hospital. The victim, a 28-year-old from Eheliyagoda, was shot in the Balawatta area in Ja-Elan on 09.
-
-🟩
-
-A member of the organized criminal criminal criminal criminal criminal was killed in a shooting in general area Ganemulla.
-
-The STF raided a house in Sumedha Mawatha, a house in the Ganeheramaya Mawatha, October.
-
-The suspect had a shooting between the two parties to shoot the Special Task Force.
-
-The suspect and a STF officer injured and admitted to the Ragama hospital.
-
-The victim is the shotgrove at the shooting incident in the Balawatta area in Ja-Elan on 09.
-
-The suspect is a 28 year old resident of Eheliyagoda and said he had fled the military.
-
-◼️
-
-[Data](articles/0c35a2d6.json)
-
-[Extended Data](ext_articles/0c35a2d6.ext.json)
-
----
-
-### Indian Adani Group says “vicious campaign” against its Sri Lanka wind project
-
-*2024-03-21 06:53:00* · [`economynextcom`](https://economynext.com/indian-adani-group-says-vicious-campaign-against-its-sri-lanka-wind-project-155428/) · `en`
-
-ECONOMYNEXT – India’s Adani Group, which is in discussion to get clearance for two renewable energy projects in Sri Lanka, has complained of a possible “vicious campaign” against its 250 MW wind-powered energy project in the island nation’s Northern district of Mannar.
-
-Sri Lankan officials have said the Adani’s wind power project has been facing some delays as a Cabinet Appointed Negotiation Committee (CANC) has been raising concerns over the project components including tariff.
-
-In a fresh blow, Rohan Pethiyagoda, a prominent Sri Lankan biodiversity scientist, in a recent video said Adani’s wind project is “yet another wasteful scam” and questioned about its Environmental Assessment Impact (EIA) and the pricing.
-
-“The EIA for Adani’s Mannar power project is little more than a shame, a stamp, a whitewash,” Pethiyagoda, a conservationist and a public-policy advocate, told in a self-explanatory video posted by himself in his own YouTube platform.
-
-...
-
-[Data](articles/9ba54c1c.json)
-
-[Extended Data](ext_articles/9ba54c1c.ext.json)
-
----
-
-### Sri Lankan beggars: Is there an begic business now?
-
-*2024-03-21 06:47:15* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv2ykggrme4o) · `si`
-
-Sri Lankan beggars are often seen on daily buses, with their presence and activities making headlines. A study by Professor Nandisena Nawal of Sri Jayewardenepura University highlights the existence of a begging business, involving disabled individuals and children. The professor observed that beggars often work with gangs, and there's a lack of government programs to address their situation.
-
-🟩
-
-If you go a daily bus to the day from the moment you boarded the bus, you will meet the biblical and variety of people who ask you to get to the destination. You may also have experience that is often concerned with the beggars, as well as the beggars, as well as the beggars, as well as the beggars, as well as the backers, as well as the path of road signals.
-
-Sri Lankan beggars are a part of the different news from time to time. Their daily income, the rackeys used by the beggars are constantly revealed. It was also a wave of assassinating such street beggars once. The police had also created a discussion in the society regarding the death of a mason in Nugegoda recently.
-
-Professor Nandisena Nawal, a professor of Sri Jayewardenepura University, is considered to be the first formal study of beggars. He has conducted a participatory probe while a beggator, disguised as a beggar.. Its name is "the beggar of Sri Lanka".
-
-...
-
-[Data](articles/f5744508.json)
-
-[Extended Data](ext_articles/f5744508.ext.json)
 
 ---

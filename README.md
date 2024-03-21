@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 09:52:09**
+As of **2024-03-21 10:03:21**
 
 ## Newspaper Stats
 
-*Scraped **14,248** Articles*
+*Scraped **14,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,87 +16,147 @@ dailyftlk | 756
 economynextcom | 764
 islandlk | 782
 adalk | 1,226
-adaderanalk | 1,707
+adaderanalk | 1,708
 tamilmirrorlk | 1,724
-virakesarilk | 1,991
+virakesarilk | 1,992
 dailymirrorlk | 2,184
-adaderanasinhalalk | 2,271
+adaderanasinhalalk | 2,273
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,245 (100.0%) of 14,248 articles have been extended.
+14,248 (100.0%) of 14,252 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### எல்லை தாண்டி வந்து மீன்பிடித்த குற்றச்சாட்டின் கீழ் 31 இந்திய மீனவர்கள் கைது!
+### யாழ்.பல்கலை மாணவர்கள் இலங்கை மனித உரிமைகள் ஆணைக்குழுவில் முறைப்பாடு
 
-*2024-03-21 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179278) · `ta`
+*2024-03-21 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179280) · `ta`
 
-இலங்கை கடற்பரப்பினுள் அத்துமீறி வந்து மீன்பிடி நடவடிக்கைகளில் ஈடுபட்ட இந்திய மீனவர்கள் 31 பேர் நேற்று புதன்கிழமை (20) இரவு  இலங்கை கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+வெடுக்குநாறிமலையில் இடம்பெற்ற பொலிஸ் அராஐகங்கள் தொடர்பில் யாழ்ப்பாணப் பல்கலைக்கழக மாணவர்களால் இலங்கை மனித உரிமைகள் ஆணைக்குழுவில் முறைப்பாடு செய்யப்பட்டுள்ளது.
 
-அந்தவகையில் 3 படகுகளில் வந்து நெடுந்தீவு கடற்பரப்பில் மீன்பிடித்துக்கொண்டிருந்த 25 மீனவர்களும், 2 படகுகளில் வந்து மன்னார் கடற்பரப்பில் மீன்பிடித்துக்கொண்டிருந்த ஆறு மீனவர்களும் இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+கடந்த மகாசிவராத்திரி தினத்தன்று வெடுக்குநாறி மலையில் இடம்பெற்ற மனித உரிமை மீறல்கள் தொடர்பில் யாழ்ப்பாணப் பல்கலைக்கழக மாணவர்களால் புதன்கிழமை (20) இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாணப் பிராந்திய அலுவலகத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
 
-நெடுந்தீவு கடற்பரப்பில் வைத்து கைது செய்யப்பட்ட மீனவர்கள் காங்கேசன்துறை -  மயிலிட்டி துறைமுகத்திற்கு அழைத்துச் செல்லப்படவுள்ளனர்.
+◼️
 
-பின்னர் யாழ்ப்பாண மாவட்ட நீரியல்வள திணைக்களத்தினர் மீனவர்களுக்கு எதிராக ஊர்காவற்துறை நீதிமன்றத்தில் வழக்கு தாக்கல் செய்யவுள்ளதாக தெரிவிக்கப்படுகிறது.
+[Data](articles/4bf6d024.json)
+
+---
+
+### ජාත්‍යන්තර බැඳුම්කර ප්‍රතිව්‍යුහගත කිරීමේ සාකච්ඡා ගැන හෙළිදරව්වක්
+
+*2024-03-21 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194764) · `si`
+
+ජාත්‍යන්තර බැඳුම්කර ප්‍රතිව්‍යුහගත කිරීම සම්බන්ධයෙන් ශ්‍රී ලංකා බලධාරීන් සහ ආයෝජකයින් අතර සාකච්ඡා ලබන සතියේ ආරම්භ කිරීමට නියමිත බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ආර්ථික අර්බුදය හේතුවෙන් 2022 සිට ණය ගෙවීම් පැහැරහැරීමට ශ්‍රී ලංකාව ට සිදුවිය.
+
+බ්ලූම්බර්ග් පුවත් සේවය වාර්තා කරන්නේ ඩොලර් බිලියන 12ක් පමණ වටිනාකමකින් යුතු බැඳුම්කර ප්‍රතිව්‍යුහගත කිරීමට යෝජිත බවයි.
+
+මෙම වසරේ දී මෙරට ජනාධිපතිවරණය පැවැත්වීමට නියමිත බැවින් හැකි ඉක්මණින් එකඟතාවයකට එළඹීම දෙපාර්ශ්වයේම අරමුණ බව සඳහන් ය.
+
+◼️
+
+[Data](articles/9c04d5db.json)
+
+---
+
+### ලන්ච් ෂීට් කිලෝ 5,377ක් විනාශ කෙරේ
+
+*2024-03-21 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194763) · `si`
+
+සිය භාරයටගත් නීතිවිරෝධී ලන්ච් ෂීට් කිලෝග්‍රෑම් 5,377ක් මධ්‍යම පරිසර අධිකාරියේ අධීක්ෂණයෙන් විනාශ කර තිබේ.
+
+මධ්‍යම පරිසර අධිකාරිය පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය සමඟ ඒකාබද්ධව සිදුකළ වැටලීම්වලින් මෙම ලන්ච් ෂීට් සොයාගෙන තිබූ අතර, පුත්තලමේ පෞද්ගලික සමාගමක දී එම ලන්ච් ෂීට් තොගය විනාශ කිරීමට මධ්‍යම පරිසර අධිකාරිය ඊයේ (19) කටයුතු කළේය.
+
+නීතිවිරෝධී පොලිතීන් ලන්ච් ෂීට් සම්බන්ධයෙන් මධ්‍යම පරිසර අධිකාරිය පැවරූ නඩු දොළහකට අයත්, නඩුභාණ්ඩ ලෙස ගබඩාකර තිබූ නීතිවිරෝධී පොලිතීන් ලන්ච් ෂීට් මෙලෙස විනශ කිරීමට කටයුතු කෙරිණ.
+
+බස්නාහිර පළාත සහ කුරුණෑගල දිස්ත්‍රික්කයට අදාළව සිදුකළ මෙම නඩු පැවරීම් කැස්බෑව මහෙස්ත්‍රාත් අධිකරණය, කොළොන්නාව ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය, කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය, ගම්පහ මහෙස්ත්‍රාත් අධිකරණය සහ කුරුණෑග, මහෙස්ත්‍රාත් අධිකරණය යන මහෙස්ත්‍රාත් අධිකරණවලදී විභාග කර ඇත.
+
+නඩු විභාග කරන තෙක් මධ්‍යම පරිසර අධිකාරියට අයත් දොම්පේ සනීපාරක්ෂක කසළ රඳවනයේ මුද්‍රාතබා නඩු භාණ්ඩ ලෙස තැම්පත් කර තැබූ මෙම ලන්ච් ෂීට් තොගය ඊයේ විනාශ කර තිබේ.
+
+...
+
+[Data](articles/3df9127d.json)
+
+---
+
+### 15 including schoolchildren injured in bus accident in Wellawaya
+
+*2024-03-21 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98094/15-including-schoolchildren-injured-in-bus-accident-in-wellawaya) · `en`
+
+At least 15 individuals including 07 school students have been injured after a private passenger transport bus veered off the road and overturned near the Kumaradasa Junction in Wellawaya, on the Wellawaya – Thanamalwila main road.
+
+The 15 individuals including the schoolchildren and the driver of the bus, who sustained injuries during the accident, have been admitted to Wellawaya Base Hospital for treatment, Ada Derana reporter said.
+
+Police suspect that the accident occurred as a result of a sudden ailment suffered by the bus driver.
+
+◼️
+
+[Data](articles/06899a22.json)
+
+---
+
+### 31 Indian fishermen arrested on charges of fishing
+
+*2024-03-21 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/179278) · `ta`
+
+31 Indian fishermen arrested by Sri Lankan navy for fishing in Neduntivu seas, to be taken to Kankesanthurai-Mayiliti port. Jaffna District Aquatic Resources Department to file case against them.
+
+🟩
+
+31 Indian fishermen have been arrested by the Sri Lankan navy on Wednesday night (20).
+
+25 fishermen who were fishing in 3 boats and fishing in the sea and six fishermen who were fishing in the Mannar coast were arrested.
+
+The fishermen arrested in the Neduntivu seas are to be taken to the Kankesanthurai -Mayiliti port.
+
+It is reported that the Jaffna District Aquatic Resources Department will file a case against the Kayts court against the fishermen.
 
 ◼️
 
 [Data](articles/02997858.json)
 
+[Extended Data](ext_articles/02997858.ext.json)
+
 ---
 
-### කථානායකවරයාට එරෙහි විශ්වාසභංග විවාදය තෙවැනි දිනට ඇරඹේ
+### The no-confidence debate against Speaker begins the third day
 
 *2024-03-21 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194762) · `si`
 
-නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් මේ වනවිට පාර්ලිමේන්තු කටයුතු ආරම්භ කර තිබේ.
+The no-confidence debate against Speaker Mahinda Yapa Abeywardena begins its third day. Voting on the motion, presented by the Speaker, is scheduled for today. The election for the Parliamentary Business Committee is also due today. Minister Bandula Gunawardena arrived on the island to attend a World Bank convention, following his announcement about the no-confidence motion.
 
-කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ ඡන්ද විමසීම අද (21) දින සිදුකිරීමට නියමිතව තිබේ.
+🟩
 
-සමගි ජනබලවේගය විසින් කතානායකවරයාට එරෙහිව ඉදිරිපත් කළ විශ්වාසභංග යෝජනාව පසුගිය 19 වන දින විවාදයට ගැණුනු අතර එහි ඡන්ද විමසීම ඊයේ (20) සිදුකිරීමට නියමිතව තිබිණි.
+The Deputy Speaker has commenced the activities of the Hon.
 
-එහෙත් විවාදය සඳහා තවත් දිනයක් ලබාදීමට පාර්ලිමේන්තු කටයුතු පිළිබඳව කාරක සභාව තීරණය කිරීමත් සමග ඡන්ද විමසීම අද දින සිදුකිරීමට නියමිතව තිබේ.
+Voting on the no-confidence motion proposal against Speaker Mahinda Yapa Abeywardena is scheduled to be held today (21).
 
-ඒ අනුව අද පස්වරු 4.30ට විවාදයට අදාළ ඡන්ද විමසීම පැවැත්වෙනු ඇත.
+The no-confidence motion presented by the Speaker by the Atound Tower was held on the 19th and the vote was to be held yesterday (20).
 
-මේ අතර ලෝක බැංකුව විසින් සංවිධානය කළ සමුළුවකට සහභාගී වීම සදහා අමෙරිකාවේ වොෂිංටන් වෙත ගොස් සිටි අමාත්‍ය බන්දුල ගුණවර්ධන මහතා ඊයේ දිනයේ යළි දිවයිනට පැමිණ තිබේ.
+But the election is due to be held today to decide on the committee on the Parliamentary Business for the debate.
 
-කථානායකවරයාට එරෙහිව පැවැත්වෙන විශ්වාසභංග යෝජනාවට අදාළ ඡන්ද විමසීම සඳහා සහභාගී වන ලෙස ජනාධිපතිවරයා කළ දැනුම්දීමෙන් පසු තමන් සිය සංචාරය අවලංගු කර දිවයිනට පැමිණි බව බන්දුල ගුණවර්ධන අමාත්‍යවරයා සඳහන් කළේය.
+Accordingly, the election campaign will be held at 4.30 pm today.
+
+Meanwhile, Minister Bandula Gunawardena arrived in the island yesterday to attend a convention organized by the World Bank.
+
+Minister Bandula Gunawardena said he had come to the island after announcing his visit to the no-confidence motion against the Speaker.
 
 ◼️
 
 [Data](articles/dffbc0b6.json)
 
----
-
-### விசேட அதிரடிப்படையினருடனான துப்பாக்கிச் சூட்டில் பாதாள உலகக்குழுவின் துப்பாக்கிதாரி பலி
-
-*2024-03-21 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/179276) · `ta`
-
-கணேமுல்ல பிரதேசத்தில் நேற்று புதன்கிழமை (20) இரவு  பொலிஸ் விசேட அதிரடிப்படையினருடன் இடம்பெற்ற துப்பாக்கிச் சூட்டில் காயமடைந்த பாதாள உலகக்குழுவின் துப்பாக்கிதாரி என சந்தேகிக்கப்படும் நபர் ஒருவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
-
-சந்தேக நபர் ராகம வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-கணேமுல்ல சுமேத மாவத்தையில் நேற்றிரவு  வீடொன்றில் சோதனை நடவடிக்கையில் ஈடுபட்டிருந்த விசேட அதிரடிப்படையினர் மீது இந்த சந்தேகநபர் துப்பாக்கிப் பிரயோகம் மேற்கொண்டுள்ளார்.
-
-இந்தச் சம்பவத்தில் விசேட அதிரடிப்படை அதிகாரி ஒருவர் காயமடைந்துள்ளார். அதே சமயம் விசேட அதிரடிப்படையினர் நடத்திய துப்பாக்கிச் சூட்டில் சந்தேக நபரும் படுகாயமடைந்துள்ளார். இந்நிலையில், காயமடைந்த இருவரும் வைத்தியசாலையில் அனுமதிக்கப்பட்டனர்.
-
-உயிரிழந்தவர், இதற்கு முன்னர் பல பாதாள உலகக் குழு நடத்திய துப்பாக்கிச் சூட்டுச் சம்பவங்களுடன் தொடர்புடையவர் என சந்தேகிப்பதாக பொலிஸார் தெரிவித்தனர்.
-
-...
-
-[Data](articles/87636c53.json)
+[Extended Data](ext_articles/dffbc0b6.ext.json)
 
 ---
 
 ### At least 15 people, including 7 students, were injured in a bus accident
 
-*2024-03-21 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179277) · `ta`
+*2024-03-21 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/179277) · `ta`
 
 A bus crash at Wellawaya Kumaradasa junction injured 15, including 7 students and a driver, who were admitted to Wellawaya Hospital.
 
@@ -111,6 +171,38 @@ Seven school children, including a bus driver, were injured and admitted to the 
 [Data](articles/50259d8d.json)
 
 [Extended Data](ext_articles/50259d8d.ext.json)
+
+---
+
+### Underworld Group's gunman killed in firing with Special Task Force
+
+*2024-03-21 09:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/179276) · `ta`
+
+A 28-year-old gunman suspected of involvement in underworld shootings was killed in a police Special Task Force encounter in Ganemulla. He was injured in a raid on a house and died after treatment at Ragama Hospital. The suspect, from Ehaliyagoda, had previously fled the army and was linked to the underworld, including Petta Manju.
+
+🟩
+
+A man suspected of being a gunman of the underworld who was injured in a shooting with a police Special Task Force (STF) in Ganemulla area last night has died without treatment.
+
+The suspect died after being treated at the Ragama Hospital, police said.
+
+The suspect was shooting on a special task force who was conducting raids at a house last night in Ganemulla.
+
+A Special Task Force officer was injured in the incident. At the same time, the suspect was also injured in the shooting of the Special Task Force.. In this case, the two injured were admitted to the hospital.
+
+The deceased was suspected of being involved in the shootings of several underworld group, police said.
+
+The suspect is a 28 -year -old living in Ehaliyagoda area and fled the army, police said.
+
+The suspect was suspected of acting as a gunman in a shooting incident in Dandugama area in Ja-Ela on March 09.
+
+It is believed that he was a close friend of the underworld, the underworld, known as Petta Manju.
+
+◼️
+
+[Data](articles/87636c53.json)
+
+[Extended Data](ext_articles/87636c53.ext.json)
 
 ---
 
@@ -2039,81 +2131,5 @@ The Government Plantation Corporation was summoned for the COPE COPE for the yea
 [Data](articles/34226efc.json)
 
 [Extended Data](ext_articles/34226efc.ext.json)
-
----
-
-### SF participates in SJB working committee
-
-*2024-03-20 18:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SF-participates-in-SJB-working-committee/108-279251) · `en`
-
-Colombo, March 20 (Daily Mirror) - Samagi Jana Balawegaya (SJB) Chairman Sarath Fonseka participated in the party's working committee meeting.
-
-Party sources said Field Marshal Fonseka did not speak but only listened to others.
-
-Fonseka obtained a stay order from the Supreme Courts against his suspension from the SJB recently.
-
-◼️
-
-[Data](articles/39b5084a.json)
-
-[Extended Data](ext_articles/39b5084a.ext.json)
-
----
-
-### Sri Lanka stocks close down, interest in Sampath Bank
-
-*2024-03-20 18:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-interest-in-sampath-bank-155388/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday ending a three-week run, data on its site showed.
-
-The broader All Share Index closed down 0.31 percent, or 35.37 points, at 11,240; while the S&P SL20 Index closed down 0.03 percent, or 0.92 points, at 3,208.
-
-Turnover was at 910 million. Most of this (123mn) came from trades in Sampath Bank Plc, the share closed up at 78.00.
-
-Contributors to the Index included Dialog Axiata Plc (up at 11.50), Commercial Bank of Ceylon Plc (up at 94.40), and Hayleys Plc (up at 83.90).
-
-There was a net foreign inflow of close to 2 million. (Colombo/Mar20/2024)
-
-◼️
-
-[Data](articles/a1611b6c.json)
-
-[Extended Data](ext_articles/a1611b6c.ext.json)
-
----
-
-### Tension in Colombo; video
-
-*2024-03-20 18:24:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-பதற்றம்-காணொளி/175-334944) · `ta`
-
-In Colombo, police used water, tear gas to control demonstrators at the Fort, organized by 'Jana Charity Trade' (People's Movement), focusing on cost of living and foreign agreements.
-
-🟩
-
-The police, water flow and tear gas struck to control the demonstrators at the Colombo Fort.
-
-The protest, organized by the 'Jana Charity Trade' (People's Movement), is focusing on the numerous grievances, including the cost of living and controversial foreign agreements.
-
-◼️
-
-[Data](articles/278b874d.json)
-
-[Extended Data](ext_articles/278b874d.ext.json)
-
----
-
-### Patali elected Chairman of Ways and Means Committee for the second time
-
-*2024-03-20 18:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Patali-elected-Chairman-of-Ways-and-Means-Committee-for-the-second-time/108-279250) · `en`
-
-Member of Parliament Patali Champika Ranawaka was once again unanimously elected as the Chair of the Committee on Ways and Means.
-
-He was appointed when the Committee met for the first time today (20) and his name was proposed and seconded by Members of Parliament  Wasantha Yapa Bandara, and  Lasantha Alagiyawanna respectively.
-
-◼️
-
-[Data](articles/2322a314.json)
-
-[Extended Data](ext_articles/2322a314.ext.json)
 
 ---

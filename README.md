@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 17:53:49**
+As of **2024-03-21 18:09:33**
 
 ## Newspaper Stats
 
-*Scraped **14,371** Articles*
+*Scraped **14,373** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,77 @@ dailyftlk | 756
 economynextcom | 764
 islandlk | 783
 adalk | 1,240
-adaderanalk | 1,725
+adaderanalk | 1,726
 tamilmirrorlk | 1,737
 virakesarilk | 2,025
 dailymirrorlk | 2,204
-adaderanasinhalalk | 2,293
+adaderanasinhalalk | 2,294
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,370 (100.0%) of 14,371 articles have been extended.
+14,371 (100.0%) of 14,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### வவுனியா வெடுக்குநாறி மலை சம்பவம் - மதசுதந்திரத்திற்கு பாதிப்பை ஏற்படுத்துகின்றது - பிரிட்டனின் நாடாளுமன்றத்தில் அமைச்சர் கவலை - மட்டக்களப்பு மயிலத்தமடு நிலவரம் குறித்து கவலை
+### වැටුප් වැඩිවීම් පිළිබඳ COPF වාර්තාවේ නිර්දේශ මහ බැංකුව පිළිගනී - හර්ෂ ද සිල්වා
+
+*2024-03-21 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194788) · `si`
+
+වැටුප් සංශෝධන පිළිබඳ COPF වාර්තාවේ සියලුම නිර්දේශ පිළිගත් බව ශ්‍රී ලංකා මහ බැංකුවේ අධිපති අද (21) රාජ්‍ය මුදල් පිළිබඳ කාරක සභාවට දැනුම්දී ඇති බව එහි සභාපති පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා පවසයි.
+
+හැකි ඉක්මනින් වැටුප් සමාලෝචනය කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කමිටුවක් පත් කරන බවත්, එතෙක් මහ බැංකුවේ වැටුප් වැඩිවීම ලබන මාසයේ සිට කල්දමන බවත් ඔහු සඳහන් කළේය.
+
+◼️
+
+[Data](articles/69c2d6ac.json)
+
+---
+
+### Vavuniya Vittukkunni Mountain Inflammation - Damage to Religion
 
 *2024-03-21 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179362) · `ta`
 
-வவுனியாவில் சமீபத்தில் இந்து ஆலயத்தில் இடம்பெற்ற சம்பவம் மத மற்றும் நம்பிக்கை சுதந்திரத்திற்கு பாதிப்பை ஏற்படுத்துவதாக காணப்படுகின்றது என பிரிட்டன் தெரிவித்துள்ளது.
+Britain criticizes Sri Lanka for religious violence, human rights concerns, and the misuse of the Prevention of Terrorism Act. It calls for a suspension of the Act and a new law in line with international obligations.
 
-மட்டக்களப்பில் உள்ளுர் விவசாயிகளின் வாழ்வாதாரத்தை அச்றுத்தும் வகையில் பாரம்பரிய மேய்ச்சல் நிலங்களில்  அரசாங்கத்தின் அனுசரணையுடன் குடியேற்றங்களை மேற்கொள்வதற்கான முயற்சிகள் இடம்பெறுகின்றன எனவும் பிரிட்டன் தெரிவித்துள்ளது.
+🟩
 
-பிரிட்டிஸ் நாடாளுமன்றத்தில்இடம்பெற்ற இலங்கை தொடர்பான விவாதத்தி;ற்கு பதிலளித்து உரையாற்றிய பிரிட்டனின் வெளிவிவகார பொதுநலவாய அபிவிருத்தி அலுவலக இராஜாங்க அமைச்சர் அன்ரூ மிட்ச்செல் இதனை தெரிவித்துள்ளார்.
+Britain said that the recent incident at the Hindu temple in Vavuniya was aimed at religious and freedom of faith.
 
-பயங்கரவாத தடைச்சட்டத்தின் ஏற்பாடுகளை பயன்படுத்துவதை இலங்கை அரசாங்கம் தற்காலிகமாக இடைநிறுத்தவேண்டும் என வேண்டுகோள் விடுத்துள்ள பிரிட்டன் புதிய இலங்கை தனது சர்வதேச கடப்பாடுகளிற்கு ஏற்ப புதிய சட்டத்தினை அறிமுகப்படுத்தவேண்டும் எனவும் வேண்டுகோள் விடுத்துள்ளது
+Britain has said that efforts are being made to carry out immigration in the traditional pastures in the traditional pastures to alleviate the livelihood of local farmers in Batticaloa.
 
-இலங்கையின் மனித உரிமை நிலவரம் என்பது பிரிட்டனின் முன்னுரிமைக்குரிய விடயம் அங்கு காணப்படும் நிலைமையை நாங்கள் உன்னிப்பாக அவதானித்து வருகின்றோம்.
+Responding to a debate on Sri Lanka in the British Parliament, British Foreign Affairs Minister of State for Foreign Affairs, Anthru Mitsel, said this.
+
+Britain has called for the temporary suspension of the use of the Prevention of Terrorism Act, and Britain has called for the introduction of a new law in accordance with its international obligations.
+
+We are closely observing the situation where the human rights situation in Sri Lanka is the priority of Britain.
+
+Sri Lanka's priority country on human rights issues reflects our compassion for various human rights issues.
 
 ...
 
 [Data](articles/7b570c99.json)
+
+[Extended Data](ext_articles/7b570c99.ext.json)
+
+---
+
+### Critical for Sri Lanka to finalize deals with official and external private creditors in timely manner - IMF
+
+*2024-03-21 17:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98111/critical-for-sri-lanka-to-finalize-deals-with-official-and-external-private-creditors-in-timely-manner-imf) · `en`
+
+Acknowledging that the independence of the Central Bank of Sri Lanka (CBSL) is an ‘absolutely key pillar’ under its program, the International Monetary Fund (IMF) has said that it is important to maintain a high degree of transparency to explain how the CBSL’s decisions are benchmarked.
+
+These remarks were made by Peter Breuer, the IMF Senior Mission Chief for Sri Lanka, while responding to a question raised by a media person on the recent controversy on the CBSL’s independence and unprecedented salary hikes.
+
+A special press briefing was convened by the visiting IMF delegation on Thursday (March 21) to announce the staff-level agreement reached between the IMF staff and Sri Lankan authorities on economic policies to conclude the second review of the 4-year EFF-supported program and the 2024 Article IV Consultation.
+
+...
+
+[Data](articles/8974ca6c.json)
 
 ---
 
@@ -2251,47 +2289,5 @@ It is worth noting that the president, who had been the president before Dhonong
 [Data](articles/c5d38122.json)
 
 [Extended Data](ext_articles/c5d38122.ext.json)
-
----
-
-### There is no need to remove Rohitha from the post of Cobb Group!
-
-*2024-03-21 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179299) · `ta`
-
-Indika Anurutha, COPE Member and State Minister, stated that Rohitha Abeygunawardena, an MP, will remain as chairman of the Cobb Committee, despite objections.
-
-🟩
-
-COPE Member and State Minister Indika Anurutha said that the Cobb Committee will continue to appoint some of the Opposition MPs.
-
-Despite various objections, he said that there is no need to remove MP Rohitha Abeygunawardena from the chairman of the Cobb Committee.
-
-◼️
-
-[Data](articles/c92b4de7.json)
-
-[Extended Data](ext_articles/c92b4de7.ext.json)
-
----
-
-### Oval Invincibles Sign Chamari Athapathu in the Hundred Draft
-
-*2024-03-21 10:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Oval-Invincibles-Sign-Chamari-Athapathu-in-the-Hundred-Draft/108-279315) · `en`
-
-Mar. 21 (MYD) - Dawid Malan, Chamari Athapaththu and Amanda-Jade Wellington were the big players of the night to join Oval Invincibles at The Hundred Draft, powered by Sage.
-
-In the women’s competition, Chamari Athapaththu was chosen with Invincibles’ first pick – joining Marizanne Kapp and Alice Capsey at Oval Invincibles – while Dawid Malan and Donovan Ferreira link up with Sam Billings’ men’s team.
-
-Jo Gardner, Lizzie Scott, Georgie Boyce and Tom Lammonby have also signed for Oval Invincibles.
-
-Elsewhere in The Hundred Draft, Kieron Pollard went to Southern Brave, Meg Lanning to London Spirit and Beth Mooney to Manchester Originals.
-
-England players Tom Banton, Lauren Filer and Ollie Pope were also on the move, as well as international superstars Andre Russell, Ash Gardner, Shaheen Afridi and Nicholas Pooran.
-
-...
-
-[Data](articles/e2f4f532.json)
-
-[Extended Data](ext_articles/e2f4f532.ext.json)
 
 ---

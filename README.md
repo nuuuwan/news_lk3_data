@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 06:17:00**
+As of **2024-03-21 06:54:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,190 (99.8%) of 14,213 articles have been extended.
+14,201 (99.9%) of 14,213 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The event also saw the presence of distinguished guests, including the First Lad
 ...
 
 [Data](articles/a61a9c17.json)
+
+[Extended Data](ext_articles/a61a9c17.ext.json)
 
 ---
 
@@ -62,6 +64,8 @@ The rapid changes in the socio-economic contexts have exacerbated migrant worker
 
 [Data](articles/2a29bbbb.json)
 
+[Extended Data](ext_articles/2a29bbbb.ext.json)
+
 ---
 
 ### Inoka Bandara bags coveted Freda Corea Award
@@ -80,6 +84,8 @@ Inoka has previously won the Gold Award for Career Achievement in the Print Medi
 
 [Data](articles/fbf0a2da.json)
 
+[Extended Data](ext_articles/fbf0a2da.ext.json)
+
 ---
 
 ### Empowering Eastern Sri Lanka: Strengthening information rights for citizenry
@@ -95,6 +101,8 @@ With a focused agenda on enhancing the capabilities of information officers, a c
 ...
 
 [Data](articles/03341674.json)
+
+[Extended Data](ext_articles/03341674.ext.json)
 
 ---
 
@@ -118,6 +126,8 @@ The Consul General Alexi Gunasekera extended a warm welcome to the guests in his
 
 [Data](articles/ce0a53c4.json)
 
+[Extended Data](ext_articles/ce0a53c4.ext.json)
+
 ---
 
 ### Court of Appeal grants injunction against Health Minister, State Minister of Production, Supply and Regulation of Pharmaceuticals
@@ -133,6 +143,8 @@ The injunction restrains them from taking any steps to act in contravention to t
 ...
 
 [Data](articles/2203606b.json)
+
+[Extended Data](ext_articles/2203606b.ext.json)
 
 ---
 
@@ -152,6 +164,8 @@ Participants can anticipate a comprehensive exploration of crucial topics, inclu
 
 [Data](articles/8fe13ec5.json)
 
+[Extended Data](ext_articles/8fe13ec5.ext.json)
+
 ---
 
 ### Adani Group to invest US$ 14 b in FY25 across all sectors and markets
@@ -167,6 +181,8 @@ The projected capital expenditure or capex for the 2024-25 (April 2024 to March 
 ...
 
 [Data](articles/8a1baf13.json)
+
+[Extended Data](ext_articles/8a1baf13.ext.json)
 
 ---
 
@@ -185,6 +201,8 @@ Firstly, fertiliser importation will be facilitated through State-run, the Ceylo
 ...
 
 [Data](articles/145fbf8f.json)
+
+[Extended Data](ext_articles/145fbf8f.ext.json)
 
 ---
 
@@ -205,6 +223,8 @@ In the March 2024 NTB WNPS monthly lecture, PhD Candidate Anya Ratnayaka, from t
 ...
 
 [Data](articles/c0bc3b24.json)
+
+[Extended Data](ext_articles/c0bc3b24.ext.json)
 
 ---
 
@@ -229,6 +249,8 @@ The opposition ripped into Speaker Mahinda Yapa Abeywardena in parliament over t
 ...
 
 [Data](articles/5502ece3.json)
+
+[Extended Data](ext_articles/5502ece3.ext.json)
 
 ---
 

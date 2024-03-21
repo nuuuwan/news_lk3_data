@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 21:03:20**
+As of **2024-03-21 21:17:55**
 
 ## Newspaper Stats
 
-*Scraped **14,388** Articles*
+*Scraped **14,390** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,40 +17,82 @@ economynextcom | 764
 islandlk | 783
 adalk | 1,241
 adaderanalk | 1,728
-tamilmirrorlk | 1,738
+tamilmirrorlk | 1,739
 virakesarilk | 2,028
-dailymirrorlk | 2,208
+dailymirrorlk | 2,209
 adaderanasinhalalk | 2,298
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,387 (100.0%) of 14,388 articles have been extended.
+14,388 (100.0%) of 14,390 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### ගණේමුල්ලේදී වෙඩිකෑ වෙඩික්කරු ගැන තවත් තොරතුරු
+### More about the shooting shooter in Ganemulla
 
 *2024-03-21 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194792) · `si`
 
-පොලිස් විශේෂ කාර්ය බළකා සෙබළුන් සමග ගණේමුල්ලේදී ඊයේ (21) රාත්‍රියේ ඇතිවූ වෙඩි හුවමාරුවකදී ජීවිතක්ෂයට පත් පාතාලයේ කුලී ඝාතකයා සම්බන්ධයෙන් තවත් තොරතුරු හෙළිවී තිබේ.
+In Ganemulla, a 28-year-old resident of Eheliyagoda was found dead with a micro pistol and bullets. The STF discovered a connection to a drug dealer and a planned crime at a house in Sumedha Mawatha. A shootout ensued, injuring the suspect, who was taken to Ragama Hospital. The contractor remains unpaid.
 
-එලෙස මියගොස් ඇත්තේ, යුද හමුදාවේ සේවය කර මීට ටික කලකට පෙර ඉන් පළාගොස් සිටි 28 හැවිරිදි ශෙහාන් අසංක නම් ඇහැළියගොඩ ප්‍රදේශයේ පදිංචිකරුවෙකි.
+🟩
 
-ඔහු පැට්ටා මංජු නම් අපරාධකරුගේ සහෝදරයා වන දිනේෂ් වසන්ත යන පුද්ගලයාගේ සමීපතමයෙක් වන අතර වෙඩිතැබීම සිදුවූ ස්ථානයේ තිබී මයික්‍රෝ වර්ගයේ පිස්තෝල අවියක්, පතුරම් ගැබක් හා ඊට යොදන ජීව උණ්ඩ කිහිපයක්ද සොයාගෙන තිබුණි.
+More information about the underworld was revealed in an excavation of the heaval last night with STFFes of Police (21) at Ganemulla last night.
 
-මේ අතර වෙඩික්කරු මියයෑමෙන් අනතුරුව දිනේෂ් වසන්ත නම් පුද්ගලයා තවත් අයෙකුට දුරකථන ඇමතුමක් ලබාදී අදාළ සිදුවීම පිළිබඳව විමසන හඬපටයක් ද විමර්ශන නිලධාරීන්ට හමුවී ඇත.
+The deceased has been a 28-year-old, a 28-year-old, is a resident of Eheliyagoda.
 
-මාර්තු 09 වනදා යතුරුපැදියකින් පැමිණි පුද්ගලයන් දෙදෙනෙකු ජා-ඇළ දී කුඩු අංජු නම් මත්ද්‍රව්‍ය ජාවාරම්කරුවකුට වෙඩි තබා පළාගොස් තිබුණි.
+He was close to the brother of Patta Manju and found a Micro pistol pistol-bullet, a micro pistol and bullets in the place where shooting.
 
-විමර්ශන සිදුකළ පොලිස් විශේෂ කාර්ය බලකායේ ගෝනහේන කඳවුරේ නිලධාරීන්ට තොරතුරක් ලැබී තිබුණේ අදාළ වෙඩිතැබීම සිදුකළ පුද්ගලයා ගණේමුල්ල, සුමේධ මාවතේ දෙමහල් නිවසක තවත් අපරාධයක් සිදුකිරීම සඳහා සූදානමින් සිටින බවය.
+Meanwhile, after the death of the shooter, the inquiry officials have also been found to have telephoned another.
+
+Two persons from a motorcycle on March 9 had fled the drug dealer named Kudu Anju in Ja-Elan.
+
+The expenditure received information of the STF personnel conducted by the investigation was prepared to commit another crime at a two storied house in Sumedha Mawatha.
+
+Accordingly, a team of STF personnel had gone there last night to arrest the shooter.
+
+There was a shooting between the suspect and STF personnel and the suspect was injured and was admitted to the Ragama Hospital.
 
 ...
 
 [Data](articles/6aa284e7.json)
+
+[Extended Data](ext_articles/6aa284e7.ext.json)
+
+---
+
+### SriLankan Airlines clarifies UL 470 flight delay
+
+*2024-03-21 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-clarifies-UL-470-flight-delay/108-279338) · `en`
+
+Colombo, March 21 (Daily Mirror) - In the wake of the incident where SriLankan Airlines Flight UL 470, scheduled for Incheon, South Korea, faced an unexpected delay on March 19, the Airlines has issued a statement regarding the incident.
+
+The statement said the delay, attributed to a technical issue, lasted approximately 13 hours from the originally planned departure time. However, the Airlines ensured the comfort and convenience of all 217 passengers on board.
+
+“Out of the 217 passengers, 117 opted to continue their journey on the same flight once the aircraft received clearance for departure.  At 07:23hrs the following day, 20 March 2024, Flight UL 470 successfully departed for Incheon, South Korea, accommodating those passengers who chose to proceed with their travel plans,” the statement added.
+
+...
+
+[Data](articles/080577a1.json)
+
+---
+
+### பண்டிகையை முன்னிட்டு விசேட போக்குவரத்து
+
+*2024-03-21 20:44:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டிகையை-முன்னிட்டு-விசேட-போக்குவரத்து/175-335000) · `ta`
+
+சிங்கள - தமிழ் புத்தாண்டு மற்றும் ரமழான் பண்டிகையை முன்னிட்டு ஏப்ரல் 5ஆம் திகதி முதல் 15ஆம் திகதி வரை விசேட பொது போக்குவரத்து திட்டத்தை நடைமுறைப்படுத்துவதற்கு போக்குவரத்து அமைச்சு பணிப்புரை விடுத்துள்ளது.
+
+இலங்கை போக்குவரத்து சபை, தேசிய போக்குவரத்து ஆணைக்குழு, புகையிரத திணைக்களம் மற்றும் மாகாண வீதி பயணிகள் போக்குவரத்து அதிகார சபைக்கு போக்குவரத்து அமைச்சின் செயலாளர் எழுத்து மூலம் இதனை அறிவித்துள்ளார்.
+
+கொழும்பில் இருந்து கிராமங்களுக்கு செல்லும் மக்களுக்கு கொழும்பு மத்திய பஸ் நிலையம் மற்றும் பெஸ்டியன் மாவத்தை தனியார் பஸ் நிலையம் ஆகியவற்றிலிருந்து பஸ் சேவைகள் இடம்பெறும் என இலங்கை போக்குவரத்து சபை மற்றும் தேசிய போக்குவரத்து ஆணைக்குழு தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/0ff45f80.json)
 
 ---
 
@@ -2241,47 +2283,5 @@ Parliamentarian Aluthgamage said the two members should not be in the Constituen
 [Data](articles/dd7364b0.json)
 
 [Extended Data](ext_articles/dd7364b0.ext.json)
-
----
-
-### Bandula’s US tour cut short for no-confidence vote against Speaker
-
-*2024-03-21 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98098/bandulas-us-tour-cut-short-for-no-confidence-vote-against-speaker) · `en`
-
-Minister Bandula Gunawardena, who was on an official visit to the USA to take part in a conference organized by the World Bank, has returned to the island last night (20), under the directives of President Ranil Wickremesinghe.
-
-Following his arrival to the island, Gunawardena clarified that he was called back to the island to participate in crucial vote of the no-confidence motion against the Speaker, which is scheduled to be held this evening (21).
-
-The vote was initially supposed to be held on Wednesday (March 20), however, it was put off by one day as per a decision taken at the Parliamentary Business Committee meeting to debate the no-confidence motion for three consecutive days.
-
-◼️
-
-[Data](articles/0702bf2b.json)
-
-[Extended Data](ext_articles/0702bf2b.ext.json)
-
----
-
-### Special notice of students to Australia
-
-*2024-03-21 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194769) · `si`
-
-Australia has introduced stricter visa laws for foreign students, citing a surge in immigration. This has led to increased competition in the housing market and higher English language requirements for visas.
-
-🟩
-
-International media reports that Australia has decided to implement the ritual of visa laws for foreign students.
-
-They have taken that decision that the number of immigrants had increased largely in Australia.
-
-Due to the increase in the immigrants, the towering housing market competition has increased unexpectedly.
-
-The English language requirement for graduate visas and student visas has increased and the Australian government has been authorized to suspend the affairs of the company's laws for international students.
-
-◼️
-
-[Data](articles/95755d09.json)
-
-[Extended Data](ext_articles/95755d09.ext.json)
 
 ---

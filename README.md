@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 12:34:22**
+As of **2024-03-21 12:49:39**
 
 ## Newspaper Stats
 
-*Scraped **14,288** Articles*
+*Scraped **14,291** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,84 @@ newsfirstlk | 363
 dailyftlk | 756
 economynextcom | 764
 islandlk | 782
-adalk | 1,232
-adaderanalk | 1,714
+adalk | 1,233
+adaderanalk | 1,715
 tamilmirrorlk | 1,729
 virakesarilk | 2,003
 dailymirrorlk | 2,188
-adaderanasinhalalk | 2,277
+adaderanasinhalalk | 2,278
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,282 (100.0%) of 14,288 articles have been extended.
+14,288 (100.0%) of 14,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### ’சோன்னே’ ஆராய்ச்சிக் கப்பலுக்கும் தடை
+### Sri Lanka to get Indian grant of $61.5mn to fully develop KKS Port
+
+*2024-03-21 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98100/sri-lanka-to-get-indian-grant-of-615mn-to-fully-develop-kks-port) · `en`
+
+The Indian government has agreed to provide a grant of USD 61.5 million to fully develop the Port of Kankesanturai (KKS), Indian High Commissioner to Sri Lanka, Santosh Jha has said.
+
+This was revealed during a recent meeting between the Minister of Ports, Shipping, and Aviation, Nimal Siripala de Silva, and the Indian High Commissioner at the Ministry office, the Department of Government Information (DGI) reported.
+
+As part of the project, a new breakwater will be constructed, and the port will be dredged up to a depth of 30 meters to accommodate deep-draft vessels.
+
+During the discussion, the Indian High Commissioner expressed India’s commitment to enhancing regional cooperation between the two nations and pledged the fullest assistance to attract more Indian tourists to Sri Lanka. He also stated that the Indian government has designated Sri Lanka as the top travel destination for Indian tourists.
+
+...
+
+[Data](articles/d42ed430.json)
+
+---
+
+### දෙලොවක් අතර නැවතුණු අවුරුදු නැකැත්
+
+*2024-03-21 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194770) · `si`
+
+රාජ්‍ය නැකැත් කමිටුව විසින් ඉදිරිපත් කරනු ලැබූ මෙවර සිංහල දෙමළ නැකැත් අසුබ බවට පසුගිය සමයේ දිගින් දිගටම චෝදනා එල්ල කළ ජාතික ජ්‍යොතීර්වේදීන්ගේ සංගමය අද (21) විකල්ප නැකැත් රටට ඉදිරිපත් කළේය.
+
+ඔවුන් මෙම නැකැත් ඉදිරිපත් කළේ ජාතික නැකැත් කමිටුව ලෙස සංවිධානයක් පිහිටුවා ගනිමිනි.
+
+2024 සිංහල දෙමළ අලුත් අවුරුද්ද වෙනුවෙන් රාජ්‍ය නැකැත් කමිටුව රාත්‍රී කාලයේ ඉදිරිපත් කළ නැකැත් රටට අසුබ බවට ජාතික ජ්‍යොතීර්වේදීන්ගේ සංගමය අවස්ථා කිහිපයකම ප්‍රකාශ කළේය.
+
+ඒ අනුව රාත්‍රී නැකැත් වෙනුවට උදෑසන නැකැත් ඇතුළත් කරමින් විකල්ප නැකැත් සීට්ටුවක් ඔවුන් රටට අද ඉදිරිපත් කළේය.
+
+එම සංගමය නියෝජනය කරමින් ප්‍රවීණ ජ්‍යෙතීර්වේදී, ජනක මාධව නවරත්න මහතා පවසා සිටියේ, මෙවර අලුත් අවුරුදු උදාව 13 වනදා අපරභාග 9.05ට සිදුවන බවය.
+
+පුණ්‍ය කාලය හෙවත් සංක්‍රාන්ති කාලය අප්‍රේල් 13 වන දා අපරභාග 2.41 සිට අප්‍රේල්  14 වන දා අලුයම 3.29 දක්වා යෙදී ඇති බවද ඒ මහතා පැවසීය.
+
+...
+
+[Data](articles/b16539c1.json)
+
+---
+
+### Sonne's telephone research ship also prohibits
 
 *2024-03-21 12:16:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சோன்னே-ஆராய்ச்சிக்-கப்பலுக்கும்-தடை/175-334984) · `ta`
 
-இலங்கை தனது பிரத்தியேக பொருளாதார வலயத்தில் வெளிநாட்டுக் கப்பல்கள் சம்பந்தப்பட்ட நடவடிக்கைகளுக்கு ஓராண்டு தடை விதித்துள்ள நிலையில், ஜேர்மன் கப்பலான 'சோன்னே' கப்பலின் ஆராய்ச்சி நடவடிக்கைகளுக்கு தடை விதிக்கப்பட்டுள்ளது, ஆனால் அது கொழும்பு துறைமுகத்தில் மீள்நிரப்ப அனுமதிக்கப்படும் என டெய்லி மிரர் அறிந்து கொள்கிறது.
+Sri Lanka bans foreign research ships in its exclusive economic zone, affecting the German ship 'Sonne' and China's Shi Yan 6 and Yuan Wang 5. This decision is seen as a response to India's concerns over China's presence.
 
-சீனாவின் ஆராய்ச்சிக் கப்பல்கள் அதன் சுற்றுப்புறத்தில் நங்கூரமிடுவதைப் பற்றிய இந்தியாவின் கவலைகளுக்கு மத்தியில், வெளிநாட்டு ஆராய்ச்சிக் கப்பல்கள் அதன் கடற்பரப்பில் நுழைவதற்கு இலங்கை அரசு ஒரு வருடத்திற்கு தடை விதித்துள்ளது.
+🟩
 
-மற்றொரு ஆராய்ச்சிக் கப்பலை அனுப்ப சீனா அனுமதி கேட்டதையடுத்து இத் தீர்மானம் அறிவிக்கப்பட்டது. அரசாங்கத்தின் இந்த முடிவு இந்தியாவில் அதிகரித்து வரும் கவலைகளுக்கு பதிலளிப்பதாக கருதப்படுகிறது.
+Daily Mirror learns that the German ship 'Sonne' has been banned from the research operations of the German ship 'Sonne', as Sri Lanka has banned foreign ships in its exclusive economic zone.
 
-சீன ஆராய்ச்சிக் கப்பல் ஷி யான் 6 கடந்த ஒக்டோபரில் பல நாட்கள் கொழும்பு துறைமுகத்தில் நிறுத்தப்பட்டது, அதே நேரத்தில் 2022 இல் கடற்படைக் கப்பல் யுவான் வாங் 5 தென் இலங்கையின் அம்பாந்தோட்டையில் நிறுத்தப்பட்டது.
+Amidst India's concerns over China's research ships anchoring in its surroundings, the Sri Lankan government has banned foreign research vessels from entering its seabed for a year.
+
+The resolution was announced after China sought permission to send another research ship.This decision by the government is considered to respond to the growing concerns of India.
+
+The Chinese research ship Shi Yan 6 was stopped for several days at the Colombo port last October, while the Navy Ship Yuan Wang 5 stopped in the Hambantota of South Sri Lanka.
 
 ...
 
 [Data](articles/a5b3d3db.json)
+
+[Extended Data](ext_articles/a5b3d3db.ext.json)
 
 ---
 
@@ -68,53 +114,79 @@ The ceremony took place in front of the Gamini Dissanayake statue at Ananda Kuma
 
 [Data](articles/135d9085.json)
 
+[Extended Data](ext_articles/135d9085.ext.json)
+
 ---
 
-### யாழில் தொடரும் மீனவர்களின் போராட்டம் ; ஒருவரது நிலை கவலைக்கிடம்
+### The struggle of the fishermen that continues in Jaffna;Worrishness
 
 *2024-03-21 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/179307) · `ta`
 
-இந்திய மீன்பிடியாளர்களது எல்லைதாண்டிய அத்துமீறும் செயற்பாட்டை கண்டித்து யாழ் மாவட்ட மீனவர்கள் முன்னெடுத்துள்ள உணவு தவிர்ப்பு போராட்டம் இன்று வியாழக்கிழமை (21) மூன்றாவது நாளாகவும் தொடர்கின்ற நிலையில் தமக்கு ஆதரவு தெரிவித்து எந்தவொரு நாடாளுமன்ற உறுப்பினரோ அமைச்சரோ வரவில்லை என உணவுத் தவிர்ப்பு போராட்டத்தில் ஈடுபட்டுள்ளவர்கள் குற்றம் சாட்டியுள்ளனர்.
+Jaffna fishermen protest food avoidance since 19th, with support from local organizations. Tamil MPs' lack of involvement highlighted.
 
-யாழ். மாவட்ட கிராமிய கடற்தொழில் அமைப்புக்களின் சம்மேளனமும், யாழ் மாவட்ட கடற் தொழில் கூட்டுறவு சங்கங்களின் சம்மேளனமும் இணைந்து கடந்த 19 ஆம் திகதி காலை முதல் யாழ்ப்பாணம் புனித ஜோன் பொஸ்கோ வித்தியாலயத்திற்கு முன்பாக உணவு தவிர்ப்பு போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+🟩
 
-குறிப்பாக மாவட்டத்தை பிரதிநிதித்துவப்படுத்தும் வகையில் செல்லத்துரை நற்குணம், அன்ரன் செபராசா, சின்னத்தம்பி சண்முகராஜா மற்றும்  அந்தோணிப்பிள்ளை மரியதாஸ் ஆகிய நான்கு மீனவர்களே உணவு தவிர்ப்பு போராட்டத்தில் மூன்றாவது நாளாகவும் ஈடுபட்டு வருகின்றனர்.
+Jaffna fishermen have accused the Food Avoidance Struggle launched on Thursday (21) for the third day on Thursday (21).
 
-...
+Yall. The Federation of District Rural Fisheries Organizations and the Jaffna District Fisheries Co -operative Societies Federation have been engaged in a food -free struggle in front of St. John Posco Vidyalaya, Jaffna since the 19th.
+
+Four fishermen, especially Selvathurai Nalukkunam, Anton Sebarasa, Chinathambi Shanmugarajah and Anthony Pillai Mariyadas, have been involved in the food avoidance.
+
+The Jaffna Taiti Mother Fisheries Association has participated in the Jaffna Taiti Taiti today in support of the fishermen's food protest.
+
+At the same time, it is distressing that the Tamil MPs have not called for their role in the protests and rallies, knowing that it is impossible, and that those who automatically stick to the media and reports to the media have not extended their support for this livelihood issue.
+
+◼️
 
 [Data](articles/fb0e1a99.json)
 
+[Extended Data](ext_articles/fb0e1a99.ext.json)
+
 ---
 
-### ரயிலைக் கண்டு அஞ்சி கிராமத்துக்குள் புகுந்த காட்டு யானைகளை விரட்ட முயற்சித்த இரு சிவில் பாதுகாப்புப் படை வீரர்களைத்  தாக்கிய யானைகள்
+### Elephants attacked two civil security personnel who tried to drive wild elephants into the village
 
 *2024-03-21 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179308) · `ta`
 
-சிலாபத்தின் பங்கதெனிய ரயில் நிலையத்துக்கு அருகில் உள்ள வனப்பகுதியில் வனவிலங்கு அதிகாரிகளுடன் இணைந்து காட்டு யானைகளை விரட்டும் பணியில் ஈடுபட்டிருந்த சிவில் பாதுகாப்பு படை வீரர்கள் இருவர் மீது காட்டு யானைகள் தாக்குதல் நடத்தியதாக புத்தளம் வனஜீவராசிகள் உதவி பணிப்பாளர் எரந்த கமகே தெரிவித்தார்.
+Wild elephants attacked two civil security personnel near Pangadeniya railway station, Chilaw, while trying to drive them into the village.
 
-பங்கதெனிய ரயில்  நிலையத்துக்கு  அருகில் உள்ள மல்வத்தை வனப்பகுதியில் இரண்டு யானைகள் புகுந்துள்ளதாக பங்கதெனிய கிராம மக்கள் புத்தளம் வனஜீவராசிகள் உதவி பணிப்பாளருக்கு அறிவித்ததையடுத்து வனவிலங்கு அதிகாரிகள் மற்றும் சிவில் பாதுகாப்பு அதிகாரிகள் அடங்கிய குழுவொன்று யானைகளை விரட்டியடித்தனர்.
+🟩
 
-இதனையடுத்து பங்கதெனிய ரயில் நிலையத்துக்கு அருகில் காணப்பட்ட இந்த இரண்டு காட்டு யானைகளும்  புத்தளம் நோக்கிச் சென்று கொண்டிருந்த ரயிலைக்  கண்டு  மிரண்டு அங்கிருந்து வெளியேறியுள்ளன.
+Puttalam Wildlife Assistant Director Eranda Kamage said that wild elephants attacked two civil security personnel who were working to chase wild elephants along with wildlife officials in the forest near the Pangadeniya railway station of Chilaw.
 
-...
+A group of wildlife officials and civil defense officials chased the elephants after two elephants in the Malwatte forest near the Pangadeniya railway station were informed by the Puttalam Wildlife Assistant Director.
+
+Subsequently, these two wild elephants found near the Pangadeniya railway station have left the train heading to Puttalam.
+
+Subsequently, the two elephants were ready to enter the village, and the civil defenses with wildlife officials were fiercely attacking two civil security personnel.
+
+◼️
 
 [Data](articles/89894bcc.json)
 
+[Extended Data](ext_articles/89894bcc.ext.json)
+
 ---
 
-### ”வாக்களிக்காதவர்கள் பதவி விலக வேண்டும்”
+### “Those who do not vote must resign”
 
 *2024-03-21 12:01:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிக்காதவர்கள்-பதவி-விலக-வேண்டும்/175-334981) · `ta`
 
-தேசபந்து தென்னகோனை பொலிஸ்மா அதிபராக அங்கீகரித்த போது வாக்களிக்காமல் விலகிய அரசியலமைப்பு சபை உறுப்பினர்கள் உடனடியாக பதவி விலக வேண்டும் என அரசாங்கத்தின் பாராளுமன்ற உறுப்பினர் மஹிந்தானந்த அளுத்கமகே இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
+"Mahindananda Aluthgamage: Members of the Constitutional Council who resigned without voting on recognizing Patrihan's South Konan as Inspector General should not be in the Constituent Assembly. He urges dissolution if they continue to act without voting."
 
-உறுதியான தீர்மானத்திற்கு வர முடியாத பட்சத்தில் அந்த இரண்டு உறுப்பினர்களும் அரசியலமைப்பு சபையில் இருக்கக்கூடாது என பாராளுமன்ற உறுப்பினர் அளுத்கமகே தெரிவித்துள்ளார்.
+🟩
 
-“அரசியலமைப்புப் பேரவையின் உறுப்பினர்கள் இப்போது நடந்துகொள்வது போல் தொடர்ந்தும் நடந்து கொண்டால் அதை கலைக்குமாறு நாங்கள் கேட்டுக்கொள்கிறோம்,” என்றும் அவர் கூறினார்.
+State Parliamentarian Mahindananda Aluthgamage told parliament today that the members of the Constitutional Council who resigned without voting when he recognized Patrihan's South Konan as the Inspector General of Police.
+
+Parliamentarian Aluthgamage said the two members should not be in the Constituent Assembly if they could not come to a definitive decision.
+
+“We urge the members of the Constituent Assembly to dissolve if they continue to act now,” he said.
 
 ◼️
 
 [Data](articles/dd7364b0.json)
+
+[Extended Data](ext_articles/dd7364b0.ext.json)
 
 ---
 
@@ -160,19 +232,27 @@ The English language requirement for graduate visas and student visas has increa
 
 ---
 
-### போலி அறிக்கை வெளியிட்டதா சுகாதார அமைச்சு?
+### Did the Ministry of Health issued a fake report?
 
 *2024-03-21 11:55:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-அறிக்கை-வெளியிட்டதா-சுகாதார-அமைச்சு/175-334980) · `ta`
 
-வெளிநாடுகளுக்கு சென்ற இலங்கை வைத்தியர்கள் மீளத் திரும்புவது தொடர்பாக சுகாதார அமைச்சு வெளியிட்ட அறிக்கைக்கு மாறாக, அண்மைய புள்ளிவிபரங்கள் வித்தியாசமான தகவல்களை வழங்குகின்றன.
+The Ministry of Health's report on Sri Lankan doctors returning abroad is disputed. Deputy Director General G. Wijesuriya claimed the trend of doctors returning, especially postgraduates, is reversed, but actual figures show only a slight change. The SLMA's President criticized the return of five experts as insignificant, and the AMS's Medical Speaker expressed concern over the exodus of medical professionals, accusing the Ministry of Health of making unsupported claims.
 
-பிரதிப் பணிப்பாளர் நாயகம் (மருத்துவ சேவைகள்) வைத்தியர். ஜி. விஜேசூரிய ஆரம்பத்தில் முன்வைத்த கூற்று, புள்ளிவிபரங்களைத் தயாரிக்கத் தவறியதுடன், சந்தேகத்திற்குரியதாகவும் இருந்தது, குறிப்பாக தரவுகள் கொடுத்த தகவல்களின் படி அது முற்றிலும் புறம்பாகவுள்ளது.
+🟩
 
-இந்த அறிக்கையின் மூலம் சர்ச்சையில் சிக்கிய வைத்தியர் விஜேசூரிய, மருத்துவர்களின் போக்கு, குறிப்பாக வெளிநாட்டில் முதுகலைப் பட்டப்படிப்பைத் தொடர்பவர்கள், இலங்கைக்குத் திரும்பும் முடிவு திடீரென  தலைகீழாக மாறியதாகக் கூறினார். "இது ஆபத்தான எண்ணிக்கையில் இல்லாவிட்டாலும், புலம்பெயர்ந்த மருத்துவர்கள் நாடு திரும்பத் தொடங்கியுள்ளனர்"   என்றார்.
+In contrast to the report issued by the Ministry of Health on the return of Sri Lankan doctors abroad, recent statistics provide different information.
+
+Deputy Director General (Medical Services). G. The claim that Wijesuriya initially failed to produce statistics and was suspicious, especially according to the information provided by the data.
+
+Dr. Wijesuriya, who has been controversial with the report, said the doctors' trend, especially those who have a postgraduate graduate abroad, have suddenly turned reversed."Even if it is not a dangerous number, migrant doctors have begun to return."
+
+However, the actual figures are completely different.Some of the returns include a gynecologist (VOG), surgeon, anesthesiologist, pediatrician, and ophthalmologist, which refers to a slight change than substantial income.
 
 ...
 
 [Data](articles/9654ca06.json)
+
+[Extended Data](ext_articles/9654ca06.ext.json)
 
 ---
 
@@ -243,6 +323,24 @@ Modi told me that Sri Lanka is one of the three best countries in the world that
 [Data](articles/b5e325b5.json)
 
 [Extended Data](ext_articles/b5e325b5.ext.json)
+
+---
+
+### සල්ලිි දීල ගන්න ආපු කර් එක පැහැරගෙන ගිහින්
+
+*2024-03-21 11:20:00* · [`adalk`](https://www.ada.lk/breaking_news/සල්ලිි-දීල-ගන්න-ආපු-කර්-එක-පැහැරගෙන-ගිහින්/11-408738) · `si`
+
+අන්තර්ජාලයේ පලකල දැන්වීමකට අනුව රුපියල් ලක්ෂ 33 මෝටර් රථය මිලදී ගැනීමට පැමිණි පුද්ගලයකු එය පරික්ෂා කරන මුවාවෙන් කොල්කාගෙන ගොස් තිබියදී දින 4 කට පසු වාද්දුව වේරගමදී අත්අඩංගුවට ගත් බව හොරණ මූලස්ථාන පොලිසිය කියයි
+
+සැකකරු අත්අඩංගුවට ගෙන ඇත්තේ සීසීටීවී කැමරා දර්ශන 20 කට ආසන්න ප්‍රමාණයක දර්ශන  පරික්ෂා කිරීමෙන් අනතුරුවය
+
+ඉකුත් 17 වැනි දින සැකකරු මෝටර් රථය මිලදී ගැනීමේ මුවාවෙන් පැමිණ  එය පරික්ෂා කිරීමට අවශ්‍ය බවට පවසා මෝටර් රථයේ හිමිකරුද  නන්වාගෙන හොරණ කණන්විල මාර්ගයේ ගොස් කනත්ත ආසන්නයේදී  එන්ජින් එකේ දෝෂයක් පැමිණෙන බවට හඟවා මෝටර් රථය එකවරම තිරිංග තදකර නතර කර ඇතැයි පොලිසිය කියයි
+
+එම අවස්ථාවේදී සැකකරු ඉදිරිපස බොනට්ටුව විවෘත කර ඇති අතර මෝටර් රථය හිමිකරු වම්පස දොර විවෘත කර මෝටර් රථයෙන් බැස එන්ජිම දෙසට යාමත්  සමගම රියදුරු අසුනේ සිටි සැකකරු මෝටර් රථය ඔහු දෙසට එකවරම  හරවා මෝටර් රථය වේගයෙන් පදවාගෙන පලා ගොස් තිබූ බව පොලිසිය කියයි.
+
+...
+
+[Data](articles/06ce4bb5.json)
 
 ---
 
@@ -2107,59 +2205,5 @@ The gunman is suspected to be involved in several previous underworld gang relat
 [Data](articles/92963cbb.json)
 
 [Extended Data](ext_articles/92963cbb.ext.json)
-
----
-
-### May be ‘Akon’ can teach politicians  lessons on being irresponsible
-
-*2024-03-21 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/May-be-Akon-can-teach-politicians-lessons-on-being-irresponsible/172-279259) · `en`
-
-This regime has ignored the calls for change from protest groups for far too long
-
-Two appointments for top state positions have been challenged; one in a court of law and the other in Parliament. One is the appointment of Deshabandu Tennakoon as Inspector General of Police (IGP), which is challenged in Supreme Court by the Anti-corruption Unit of the Samagi Jana Balawegaya. The other is the appointment of politician Rohitha Abegunawardhana as the Committee On Public Enterprises (COPE) Chairman against which Parliamentarian Lakshman Kiriella has tabled a motion of no confidence to the Speaker, citing that the former’s appointment compromises on the integrity of the rest of the members of the COPE. As of now, as many as seven members of the COPE have tendered their resignations in response to Abegunawardhana’s appointment. Now this is a serious turn of events.
-
-...
-
-[Data](articles/05c3c8e9.json)
-
-[Extended Data](ext_articles/05c3c8e9.ext.json)
-
----
-
-### “Absolute power corrupts” Receiving a huge mandate turned out to be a problem for us
-
-*2024-03-21 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Absolute-power-corrupts-Receiving-a-huge-mandate-turned-out-to-be-a-problem-for-us/231-279255) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) stalwart Basil Rajapaksa, who recently returned to the country in time to face a possible election heat, in an interview with the Daily Mirror said that following the collapse of the Gotabaya Rajapaksa Government, he and his brother Gotabaya do not get into each other’s way. Basil also said that he had requested from President Ranil Wickremesinghe not to deal with SLPP members individually bypassing the party hierarchy.
-
-We also requested the President not to deal with our members individually bypassing the party hierarchy.
-
-The mere fact that we received an overwhelming majority at the election turned out to be a curse at the end.
-
-Whenever a government gets the absolute majority anywhere, it collapses sooner than expected.
-
-Now, there are even more draconian pieces of legislations being enacted.  If we had brought such laws, all hell would have broken loose.
-
-...
-
-[Data](articles/d8dbbe28.json)
-
-[Extended Data](ext_articles/d8dbbe28.ext.json)
-
----
-
-### Trees are as close to immortality as the rest of us ever come
-
-*2024-03-21 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Trees-are-as-close-to-immortality-as-the-rest-of-us-ever-come/172-279257) · `en`
-
-While President Ranil Wickremesinghe and the Sri Lanka Podujana Peramuna government are focusing on elections amidst controversy and confusion over whether the General Election will be held before the Presidential Election or the Executive Presidential system should be scrapped as the then-Presidential candidate Chandrika Bandaranaike Kumaratunga promised to do so but never did, the government and the people need to focus more on vital issues such as the forests.
-
-Today, the United Nations (UN) marks the International Day of Forests. In a statement, the world body said that innovation and technology have revolutionized forest monitoring, enabling countries to track and report on their forests more effectively. About 13.7 billion tons of carbon dioxide (CO₂) forest emission reductions or enhancements have been reported to the United Nations Framework Convention on Climate Change through transparent and innovative forest monitoring.
-
-...
-
-[Data](articles/e86cb9e3.json)
-
-[Extended Data](ext_articles/e86cb9e3.ext.json)
 
 ---

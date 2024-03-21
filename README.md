@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 05:56:48**
+As of **2024-03-21 06:17:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,185 (99.8%) of 14,213 articles have been extended.
+14,190 (99.8%) of 14,213 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -252,6 +252,8 @@ Over 20 political parties and civil society organisations joined the newly forme
 
 [Data](articles/271d8c1c.json)
 
+[Extended Data](ext_articles/271d8c1c.ext.json)
+
 ---
 
 ### Alhambra Hotels celebrates 50 years of hospitality excellence
@@ -267,6 +269,8 @@ It was also the introduction of the first-ever North Indian restaurant, Alhambra
 ...
 
 [Data](articles/d4871cde.json)
+
+[Extended Data](ext_articles/d4871cde.ext.json)
 
 ---
 
@@ -284,6 +288,8 @@ As a direct beneficiary of the EU GSP+ concessions, Sri Lanka’s rubber exports
 
 [Data](articles/c982b5e3.json)
 
+[Extended Data](ext_articles/c982b5e3.ext.json)
+
 ---
 
 ### Court of Appeal grants Interim Order against UDA and On’ally Holdings
@@ -298,6 +304,8 @@ Lanka Reality Investment PLC, the Petitioner submitted through the Petition to t
 
 [Data](articles/0a32e755.json)
 
+[Extended Data](ext_articles/0a32e755.ext.json)
+
 ---
 
 ### NCCSL networking session today with new 11 Lankan envoys
@@ -311,6 +319,8 @@ Sri Lankan corporates/business community are invited to join this session to mee
 ◼️
 
 [Data](articles/72d0047b.json)
+
+[Extended Data](ext_articles/72d0047b.ext.json)
 
 ---
 

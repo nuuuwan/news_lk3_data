@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 18:34:12**
+As of **2024-03-21 18:52:22**
 
 ## Newspaper Stats
 
-*Scraped **14,375** Articles*
+*Scraped **14,380** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ islandlk | 783
 adalk | 1,241
 adaderanalk | 1,726
 tamilmirrorlk | 1,738
-virakesarilk | 2,025
-dailymirrorlk | 2,204
-adaderanasinhalalk | 2,294
+virakesarilk | 2,028
+dailymirrorlk | 2,205
+adaderanasinhalalk | 2,295
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,375 (100.0%) of 14,375 articles have been extended.
+14,375 (100.0%) of 14,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### තාක්ෂණික දෝෂයක් නිසා ශ්‍රීලන්කන් ප්‍රමාදයක්
+
+*2024-03-21 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194789) · `si`
+
+දකුණු කොරියාව බලා පියාසර කිරීමට තිබූ ශ්‍රීලන්කන් යානයක් තාක්ෂණික දෝෂයක් හේතුවෙන් නියමිත වේලාවට පිටත්වීමට නොහැකි වී තිබේ.
+
+මෙලෙස තාක්ෂණික දෝෂයක් හේතුවෙන් ගමන් ප්‍රමාද වී ඇත්තේ මගීන් 217ක් රැගෙන දකුණු කොරියාවේ ඉන්චියොන් වෙත යාමට නියමිතව තිබූ යානයකි.
+
+ශ්‍රීලන්කන් ගුවන් සේවය නිවේදනයක් නිකුත් කරමින් පවසන්නේ යානය ප්‍රමාද වී පිටත්වීම සඳහා අවසර ලබාගැනීමෙන් පසුව මාර්තු මස 20 වනදා උදැසන මගීන් 117ක් රැගෙන කොරියාවේ ඉන්චියොන් වෙත පියාසර කර ඇති බවය.
+
+ඒ අනුව කොරියාවේ රැකියා සඳහා පිටත්ව යාමට සිටි ඉතිරි මගීන් 100 දෙනාට මාර්තු 24 වනදා දකුණු කොරියාවේ ඉන්චියොන් වෙත යාමට පහසුකම් සලසා ඇති බව ශ්‍රීලන්කන් ගුවන් සේවය පවසයි.
+
+සිදුවූ ප්‍රමාදය හේතුවෙන් දකුණු කොරියාවේ ඔවුන්ගේ රැකියාවලට බලපෑමක් ඇති නොකරනු ඇතැයි අපේක්ෂා කරන බවද ශ්‍රීලන්කන් ගුවන් සේවය වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/8e0deae9.json)
+
+---
+
+### Central Bank accepts COPF recommendations on pay hike: Harsha
+
+*2024-03-21 18:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-accepts-COPF-recommendations-on-pay-hike-Harsha/108-279334) · `en`
+
+Colombo, March 21 (Daily Mirror) - The Central Bank of Sri Lanka (CBSL) has informed COPF today that they accept all  recommendations in the COPF report on the salary revisions, Committee chief Harsha De Silva said today.
+
+The COPF requested President Ranil Wickremesinghe to appoint a committee to review the CBSL salaries, until which the salary increases will be deferred for next month.
+
+◼️
+
+[Data](articles/066c22a6.json)
+
+---
 
 ### New leader for Chennai Super Kings team
 
@@ -76,7 +110,7 @@ He said that Mr. Ranil Wickremesinghe appoints a committee to review the salarie
 
 ### Vavuniya Vittukkunni Mountain Inflammation - Damage to Religion
 
-*2024-03-21 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179362) · `ta`
+*2024-03-21 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179362) · `ta`
 
 Britain criticizes Sri Lanka for religious violence, human rights concerns, and the misuse of the Prevention of Terrorism Act. It calls for a suspension of the Act and a new law in line with international obligations.
 
@@ -99,6 +133,56 @@ Sri Lanka's priority country on human rights issues reflects our compassion for 
 [Data](articles/7b570c99.json)
 
 [Extended Data](ext_articles/7b570c99.ext.json)
+
+---
+
+### தற்போதைய சபாநாயகரை போன்று எதிர்க்கட்சியினருக்கு சந்தர்ப்பம் வழங்கிய வேறு சபாநாயகர்கள் வரலாற்றில் கிடையாது - பந்துல
+
+*2024-03-21 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/179347) · `ta`
+
+போராட்டத்தின் போது நாடு அராஜக நிலைக்கு செல்வதை தடுப்பதற்கு சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன துணிவுடன் தீர்மானங்களை மேற்கொண்டார்.
+
+அதனால் அவரின் அர்ப்பணிப்புக்கு நன்றி செலுத்தும் வகையில்  அவருக்கு எதிரான நம்பிக்கையில்லாப் பிரேரணைக்கு எதிராக வாக்களிப்பதற்கு வெளிநாட்டு விஜயத்தையும் கைவிட்டு நாடு திரும்பினேன் என அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை இடம்பெற்ற சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை மீதான இறுதிநாள் விவாதத்தில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+இந்த நாட்டின் சிறந்த பாராளுமன்ற ஜனநாயகம் மற்றும் பாராளுமன்ற முறைமை மிக மோசமான நெருக்கடிக்கு உள்ளாகும் நிலையில் அதற்காக நாம் பங்களிப்பு வழங்குவதா என நான் கேட்க விரும்புகிறேன்.
+
+...
+
+[Data](articles/9d6453b6.json)
+
+---
+
+### எனக்கு நடிப்பைச் சொல்லித் தருவது இசைஞானியின் இசை தான் - தனுஷ் பெருமிதம்
+
+*2024-03-21 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179358) · `ta`
+
+''சிறப்பான நடிப்பை வழங்க வேண்டும் என்ற சிக்கலான சூழலில் என்னுடைய எயர் போன்கள் மூலம் இசைஞானியின் இசையில் பாடல்களை கேட்டு அதில் மூழ்கி விடுவேன்.
+
+அதன் மூலமாகவே எனது நடிப்பை வெளிப்படுத்துவேன். இன்றுவரை எனக்கு நடிப்பை சொல்லித் தருவது இசைஞானியின் இசை தான்'' என நடிகர் தனுஷ், இளையராஜாவின் சுயசரிதையை தழுவி தயாராகும் 'இளையராஜா' எனும் படத்தின் முதல் பார்வை வெளியிட்டு விழாவில் தெரிவித்திருக்கிறார்.‌
+
+இயக்குநர் அருண் மாதேஸ்வரன் இயக்கத்தில் உருவாகும் 'இளையராஜா' எனும் திரைப்படத்தில் நடிகர் தனுஷ் முதன்மையான கதாபாத்திரத்தில் நடிக்கிறார்.
+
+...
+
+[Data](articles/3410e957.json)
+
+---
+
+### டபுள் மீனிங் பேச்சுலர்கள் சங்கமமாகும் 'தி பொய்ஸ்'
+
+*2024-03-21 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179360) · `ta`
+
+'ஹர ஹர மகாதேவகி', 'இருட்டு அறையில்  முரட்டு குத்து' ஆகிய படங்களின் மூலம் இளசுகளை தன் பக்கம் ஈர்த்த 'டபுள் மீனிங்' புகழ் படைப்பாளி சந்தோஷ் பி. ஜெயக்குமார் நடிக்கும் 'தி பொய்ஸ்' படத்தின் முன்னோட்டம் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் சந்தோஷ் பி. ஜெயக்குமார் இயக்கத்தில் உருவாகி இருக்கும் 'தி பொய்ஸ்' திரைப்படத்தில் சந்தோஷ் பி. ஜெயக்குமார், சிவ ஷா ரா, ஹர்ஷத்,  கே பி ஒய் வினோத், யுவராஜ் கணேசன்,  நான் கடவுள் ராஜேந்திரன், ரெடின் கிங்ஸ்லீ உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+கே. அகமத் ஷெரிப் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு அருண் கௌதம் இசையமைத்திருக்கிறார். குடியும் கும்மாளமாக அதாவது மதுவும் மாதுவுமாக வாழும் பேச்சுலர்களின் வாழ்வியலை ஜனரஞ்சகமான முறையில் சொல்லி இருக்கும் இந்த திரைப்படத்தை நோவா ஃபிலிம் ஸ்டுடியோஸ் மற்றும் டார்க் ரூம் பிக்சர்ஸ் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர் ஈ. செந்தில் குமார் மற்றும் எஸ். நிதிஷ்குமார் ஆகியோர் தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/0acc1376.json)
 
 ---
 
@@ -2179,113 +2263,5 @@ Investigations have revealed that the suspect is a car repairman and the stolen 
 [Data](articles/06ce4bb5.json)
 
 [Extended Data](ext_articles/06ce4bb5.ext.json)
-
----
-
-### Bus accident in Wellawaya
-
-*2024-03-21 11:04:11* · [`adalk`](https://www.ada.lk/breaking_news/වැල්ලවායේ-බස්-අනතුරක්/11-408737) · `si`
-
-A bus accident near Kumarahmalwila road on Wellawaya road resulted in 22 people, including 7 school children, being admitted to Wellawaya Basic Hospital.
-
-🟩
-
-The driver of the bus is near the bus driver near Kumarahmalwila road on the Wellawaya road, a private bus toppled due to a private bus.
-
-7 school children and 15 school children and 15 persons have been admitted to the Wellawaya Basic Hospital.
-
-◼️
-
-[Data](articles/9e472f7c.json)
-
-[Extended Data](ext_articles/9e472f7c.ext.json)
-
----
-
-### Anura Kumara goes to Canada
-
-*2024-03-21 11:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194767) · `si`
-
-Anura Kumara Dissanayake visited Canada, meeting with the Canadian UNP and engaging with Sri Lankan Tamil and Muslim communities.
-
-🟩
-
-Leader of the National Power Anura Kumara Dissanayake left the visit to Canada yesterday (20).
-
-The Canadian Committee of the UNP will take part in the capital city of Toronto and 24th May 24.
-
-Anura Kumara Dissanayake will also participate in several friendly meetings with the Sri Lankan Tamil and Muslim community in Canada.
-
-◼️
-
-[Data](articles/d761c265.json)
-
-[Extended Data](ext_articles/d761c265.ext.json)
-
----
-
-### 15 people injured in bus accident
-
-*2024-03-21 11:03:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-மாணவர்கள்-உட்பட-15-பேர்-காயம்/175-334975) · `ta`
-
-15 injured, 7 school children, in bus crash at Kumaradasa junction. Driver negligence suspected. Wellawaya Police investigating.
-
-🟩
-
-At least 15 people, including seven school children, were injured when a private bus crashed at the Kumaradasa junction of the Wellawaya - Tanamalwila main road.
-
-Initial investigations revealed that the accident occurred due to the driver's negligence.
-
-In this case, the Wellawaya Police are conducting further investigations into the accident. Remble
-
-◼️
-
-[Data](articles/1cb62139.json)
-
-[Extended Data](ext_articles/1cb62139.ext.json)
-
----
-
-### IMF delegates meet with Sajith Premadasa
-
-*2024-03-21 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98097/imf-delegates-meet-with-sajith-premadasa) · `en`
-
-The visiting delegation of the International Monetary Fund (IMF) has met with Sri Lankan Opposition Leader Sajith Premadasa at the parliament complex on Wednesday (March 20).
-
-The Samagi Jana Balawegaya members emphasized that the prevailing economic situation could have been averted had the government aptly responded to their earlier calls urging them to reach out to the global lender.
-
-While pointing out that they are in agreement with the roadmap presented by the IMF to help Sri Lanka’s economic recovery process, the SJB members went on to highlight that certain proposals require amendments.
-
-They further highlighted that the management of public finances should be done in a sustainable manner to save the country from bankruptcy.
-
-The IMF delegation consisting of Peter Breuer, the Senior Mission Chief for Sri Lanka; Katsiaryna Svirydzenka, the Deputy Mission Chief for Sri Lanka; and Sarwat Jahan, the Resident Representative for Sri Lanka were in attendance at this meeting.
-
-...
-
-[Data](articles/96aa7d9b.json)
-
-[Extended Data](ext_articles/96aa7d9b.ext.json)
-
----
-
-### IMF representatives meet with Sajith Premadasa
-
-*2024-03-21 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98097/imf-representatives-meet-with-sajith-premadasa) · `en`
-
-The visiting delegation of the International Monetary Fund (IMF) has met with Sri Lankan Opposition Leader Sajith Premadasa at the parliament complex on Wednesday (March 20).
-
-The Samagi Jana Balawegaya members emphasized that the prevailing economic situation could have been averted had the government aptly responded to their earlier calls urging them to reach out to the global lender.
-
-While pointing out that they are in agreement with the roadmap presented by the IMF to help Sri Lanka’s economic recovery process, the SJB members went on to highlight that certain proposals require amendments.
-
-They further highlighted that the management of public finances should be done in a sustainable manner to save the country from bankruptcy.
-
-The IMF delegation consisting of Peter Breuer, the Senior Mission Chief for Sri Lanka; Katsiaryna Svirydzenka, the Deputy Mission Chief for Sri Lanka; and Sarwat Jahan, the Resident Representative for Sri Lanka were in attendance at this meeting.
-
-...
-
-[Data](articles/ae34628f.json)
-
-[Extended Data](ext_articles/ae34628f.ext.json)
 
 ---

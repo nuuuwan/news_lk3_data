@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 19:03:06**
+As of **2024-03-21 19:18:03**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,296
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,380 (100.0%) of 14,383 articles have been extended.
+14,383 (100.0%) of 14,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### අරගල සමයේ සිදුවීමට ගිය කුමන්ත්‍රණයක් කථානායක රටට හෙළිකරයි
+### Conspiracy to take place during the struggle is revealed to the Speaker
 
 *2024-03-21 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194790) · `si`
 
-කථානායකවරයාට එරෙහිව විපක්ෂයේ මන්ත්‍රීවරුන් ගෙනආ විශ්වාසභංග යෝජනාව අද (21) පාර්ලිමේන්තුවේදී වැඩි ඡන්ද 42කින් පරාජයට පත්වූ පසු විශේෂ ප්‍රකාශයක් කළ කථානායකවරයා සුවිශේෂී කරුණු රැසක් අනාවරණය කළේය.
+Speaker Mahinda Yapa Abeywardena revealed his involvement in the last struggle's constitutional effects or government establishment. President Pavithra Wanniarachchi and State Minister Dilum Amunugama arrived on the island for mandatory election participation.
 
-කථානායක මහින්ද යාපා අබේවර්ධන මහතා එහිදී පැවසුවේ, ඉකුත් අරගල සමයේදී ආණ්ඩුක්‍රම ව්‍යවස්ථාව උල්ලංඝණය කර හෝ ආණ්ඩුවක් පිහිටුවන ලෙසට තමාට එල්ලවූ බලපෑම් සම්බන්ධයෙනි.
+🟩
 
-මේ අතර ඡන්ද විමසීමට සහභාගි වන ලෙස ජනපතිවරයා ආණ්ඩු පක්ෂයේ සියලු මන්ත්‍රීවරුන්ට අනිවාර්ය කිරීම නිසා, විදෙස්ගතව සිටි ඇමතිවරුන් වන බන්දුල ගුණවර්ධන,පවිත්‍රා වන්නිආරච්චි සහ රාජ්‍ය අමාත්‍ය දිලුම් අමුණුගම අද දිවයිනට පැමිණ තිබුණි.
+The Speaker who made a special statement in Parliament today (21) after the opposition members of the opposition was defeated in Parliament today (21), the Speaker, revealed a significant statement.
+
+Speaker Mahinda Yapa Abeywardena said he was involved in the effects of the Constitution or establish a government during the last struggle.
+
+Meanwhile, as the President and the Presidential ministers, Pavithra Wanniarachchi and State Minister Dilum Amunugama has arrived in the island today due to the mandatory of the government to participate in the election.
 
 ◼️
 
 [Data](articles/83a89638.json)
+
+[Extended Data](ext_articles/83a89638.ext.json)
 
 ---
 
@@ -61,6 +67,8 @@ Furthermore, the Finance State Minister mentioned that the signs of a shift from
 ...
 
 [Data](articles/0aa21ccb.json)
+
+[Extended Data](ext_articles/0aa21ccb.ext.json)
 
 ---
 
@@ -79,6 +87,8 @@ The Navy has so far held 23 Indian trawlers and 178 Indian fishermen in island w
 ◼️
 
 [Data](articles/905b395b.json)
+
+[Extended Data](ext_articles/905b395b.ext.json)
 
 ---
 

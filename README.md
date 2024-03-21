@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 11:33:39**
+As of **2024-03-21 11:52:23**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 2,276
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,273 (100.0%) of 14,276 articles have been extended.
+14,276 (100.0%) of 14,276 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### වැල්ලවායේ බස් අනතුරක්
+### Bus accident in Wellawaya
 
 *2024-03-21 11:04:11* · [`adalk`](https://www.ada.lk/breaking_news/වැල්ලවායේ-බස්-අනතුරක්/11-408737) · `si`
 
-වැල්ලවාය - තණමල්විල මාර්ගයේ කුමාරදාස හන්දිය ආසන්නයේදී බස් රථයේ රියදුරුට ඇති වූ හදිසි රෝගී තත්ත්වයක් හේතුවෙන් පෞද්ගලික බස්රථයක් මාර්ගයෙන් පිටතට පෙරළී ගොස් අනතුරක් සිදුව තිබේ.‍
+A bus accident near Kumarahmalwila road on Wellawaya road resulted in 22 people, including 7 school children, being admitted to Wellawaya Basic Hospital.
 
-මෙම අනතුරින් පාසල් ළමුන් 7ක් සහ රියදුරු සමග15 දෙනෙක් වැල්ලවාය මුලික රෝහලට ඇතුළත් කර ඇතැයි වාර්තතාවේ.
+🟩
+
+The driver of the bus is near the bus driver near Kumarahmalwila road on the Wellawaya road, a private bus toppled due to a private bus.
+
+7 school children and 15 school children and 15 persons have been admitted to the Wellawaya Basic Hospital.
 
 ◼️
 
 [Data](articles/9e472f7c.json)
 
+[Extended Data](ext_articles/9e472f7c.ext.json)
+
 ---
 
-### අනුර කුමාර කැනඩා යයි
+### Anura Kumara goes to Canada
 
 *2024-03-21 11:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194767) · `si`
 
-ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක මහතා සංචාරයක නිරතවීම සඳහා ඊයේ (20) පස්වරුවේ කැනඩාව බලා පිටව ගොස් තිබේ.
+Anura Kumara Dissanayake visited Canada, meeting with the Canadian UNP and engaging with Sri Lankan Tamil and Muslim communities.
 
-එම පක්ෂයේ කැනඩා කමිටුව මාර්තු 23 වැනිදා ටොරොන්ටෝ අගනුවරදී සහ 24 වැනිදා වැන්කුවර් නගරයේදී සංවිධාන කර ඇති ප්‍රධාන ජනහමු දෙකකට ඔහු සහභාගී වීමට නියමිතය.
+🟩
 
-මීට අමතරව කැනඩාවේ සිටින ශ්‍රී ලාංකේය දෙමළ හා මුස්ලිම් ප්‍රජාව සමග සුහද හමු කිහිපයකටද අනුර කුමාර දිසානායක මහතා සහභාගිවී වනු ඇත.
+Leader of the National Power Anura Kumara Dissanayake left the visit to Canada yesterday (20).
+
+The Canadian Committee of the UNP will take part in the capital city of Toronto and 24th May 24.
+
+Anura Kumara Dissanayake will also participate in several friendly meetings with the Sri Lankan Tamil and Muslim community in Canada.
 
 ◼️
 
 [Data](articles/d761c265.json)
+
+[Extended Data](ext_articles/d761c265.ext.json)
 
 ---
 
@@ -124,31 +136,13 @@ The IMF delegation consisting of Peter Breuer, the Senior Mission Chief for Sri 
 
 [Data](articles/ae34628f.json)
 
----
-
-### There is no need to remove Rohitha from the post of Cobb Group!
-
-*2024-03-21 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179299) · `ta`
-
-Indika Anurutha, COPE Member and State Minister, stated that Rohitha Abeygunawardena, an MP, will remain as chairman of the Cobb Committee, despite objections.
-
-🟩
-
-COPE Member and State Minister Indika Anurutha said that the Cobb Committee will continue to appoint some of the Opposition MPs.
-
-Despite various objections, he said that there is no need to remove MP Rohitha Abeygunawardena from the chairman of the Cobb Committee.
-
-◼️
-
-[Data](articles/c92b4de7.json)
-
-[Extended Data](ext_articles/c92b4de7.ext.json)
+[Extended Data](ext_articles/ae34628f.ext.json)
 
 ---
 
 ### Vietnam's resignation: Parliament approval
 
-*2024-03-21 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179295) · `ta`
+*2024-03-21 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179295) · `ta`
 
 Vietnam's President Wo Wan Duong resigned, recognized by Parliament. Dhong Kong's resignation followed a Communist Party meeting. The Communist Party accused the party of rule violations and disrupting confidence. Duong's resignation linked to corruption in her home state, similar to her predecessor's exit due to a corruption scandal.
 
@@ -171,6 +165,26 @@ It is worth noting that the president, who had been the president before Dhonong
 [Data](articles/c5d38122.json)
 
 [Extended Data](ext_articles/c5d38122.ext.json)
+
+---
+
+### There is no need to remove Rohitha from the post of Cobb Group!
+
+*2024-03-21 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179299) · `ta`
+
+Indika Anurutha, COPE Member and State Minister, stated that Rohitha Abeygunawardena, an MP, will remain as chairman of the Cobb Committee, despite objections.
+
+🟩
+
+COPE Member and State Minister Indika Anurutha said that the Cobb Committee will continue to appoint some of the Opposition MPs.
+
+Despite various objections, he said that there is no need to remove MP Rohitha Abeygunawardena from the chairman of the Cobb Committee.
+
+◼️
+
+[Data](articles/c92b4de7.json)
+
+[Extended Data](ext_articles/c92b4de7.ext.json)
 
 ---
 
@@ -1026,7 +1040,7 @@ The private plant has drawn controversy because it was not coming through compet
 
 Power purchase agreements (PPA) which run up to 20 years are among the largest government procurement in the island and dwarfs some capital projects.
 
-Minister Wijesekera said the plant came a government-to-government deal.  A cabinet appointed negotiation committee was appointed to sort out the price.
+Minister Wijesekera said the plant came as a government-to-government deal.  A cabinet appointed negotiation committee was appointed to sort out the price.
 
 Some political analysts refer to such power plants as a ‘geopolitical’ cost.
 

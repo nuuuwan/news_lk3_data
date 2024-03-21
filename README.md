@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 07:53:01**
+As of **2024-03-21 08:04:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,223 (100.0%) of 14,226 articles have been extended.
+14,226 (100.0%) of 14,226 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,17 +52,25 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/538e0852.json)
 
+[Extended Data](ext_articles/538e0852.ext.json)
+
 ---
 
-### වනඅලි මියයෑම ගැන හෙළිදරව්වක්
+### A revelation of the death of wild elephant
 
 *2024-03-21 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194758) · `si`
 
-දීප ව්‍යාප්තව විදුලිවැට පරීක්ෂාව අඛණ්ඩව ක්‍රියාත්මක කිරීම මඟින් විදුලිසැර වැඳීමෙන් වනඅලි මියයාම් අවම කරගැනීමට කටයුතු කරන බව වනජීවි සංරක්ෂණ දෙපාර්තමේන්තුව පවසයි.
+The Department of Wildlife Conservation aims to reduce wildlife conservation deaths through continuous electricity electricivism inspections.
+
+🟩
+
+The Department of Wildlife Conservation says that the death of wildlife conservation will be reduced by the continuous implementation of electricity electricivism inspection.
 
 ◼️
 
 [Data](articles/98df5f78.json)
+
+[Extended Data](ext_articles/98df5f78.ext.json)
 
 ---
 
@@ -637,6 +645,8 @@ Bombs directly impact election results in South Asia, as discussed in my book �
 ...
 
 [Data](articles/04d1afe0.json)
+
+[Extended Data](ext_articles/04d1afe0.ext.json)
 
 ---
 

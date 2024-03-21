@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 14:18:03**
+As of **2024-03-21 14:33:35**
 
 ## Newspaper Stats
 
-*Scraped **14,316** Articles*
+*Scraped **14,317** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,58 +19,88 @@ adalk | 1,236
 adaderanalk | 1,717
 tamilmirrorlk | 1,732
 virakesarilk | 2,011
-dailymirrorlk | 2,192
+dailymirrorlk | 2,193
 adaderanasinhalalk | 2,282
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,311 (100.0%) of 14,316 articles have been extended.
+14,316 (100.0%) of 14,317 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### யாழ். இளைஞனிடம் பண மோசடி செய்த பெண் கைது
+### Eleven injured after bus topples in Wellawaya
+
+*2024-03-21 14:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Eleven-injured-after-bus-topples-in-Wellawaya/108-279321) · `en`
+
+At least eleven passengers were injured when a bus veered off the road and toppled in Wellawaya junction last morning.
+
+The injured, including five school children and the driver were admitted to Wellawaya base hospital.
+
+Investigations revealed that the driver lost control of the bus due to a sudden illness while at the wheel.
+
+OIC Traffic Branch of Wellawaya Police U.G. Chandrakkara is conducting further investigations.
+
+◼️
+
+[Data](articles/b79a2b3c.json)
+
+---
+
+### Yall. Woman arrested for defrauding young man
 
 *2024-03-21 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179323) · `ta`
 
-யாழ்ப்பாணத்தைச் சேர்ந்த இளைஞனை கனடாவிற்கு அனுப்புவதாக கூறி , இளைஞனிடம் 60 இலட்ச ரூபாய் பணத்தினை மோசடி செய்த குற்றச்சாட்டில் ஹிங்குராங்கொட பகுதியைச் சேர்ந்த பெண்ணொருவர் யாழ்ப்பாண பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
+A woman from Hingurangoda was arrested by Jaffna police for allegedly defrauding a young man of Rs. 60 lakhs, claiming to send him to Canada. The youth lodged a complaint, leading to the woman's arrest and her appearance in court. She was released on bail after promising to return the money.
 
-யாழ்ப்பாணத்தைச் சேர்ந்த இளைஞனை கனடா நாட்டிற்கு அனுப்பி வைப்பதாக , கடந்த 3 மாதங்களுக்கு முன்னர் கூறி 60 இலட்ச ரூபாய் பணத்தினை பெற்றுக்கொண்டுள்ளார்.
+🟩
 
-மூன்று மாதங்களாக இளைஞனின் பயண ஏற்பாடுகள் நடைபெறாததால் , இளைஞன் யாழ்ப்பாண பொலிஸ் நிலையத்தில் முறைப்பாடு செய்தார்
+A woman from Hingurangoda has been arrested by Jaffna police for allegedly defrauding a youth of Rs.
 
-முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த பொலிஸார் , குறித்த பெண்ணை கைது செய்து யாழ்.நீதவான் நீதிமன்றில் முற்படுத்தினர்.
+He has received a sum of Rs 60 lakhs of rupees in the last three months, saying that a young man from Jaffna will be sent to Canada.
 
-நீதிமன்றில் தான் பெற்றுக்கொண்ட பணத்தினை மீள இளைஞனிடம் கையளிக்க தயார் என கூறி முதல் கட்டமாக 4 இலட்ச ரூபாய் பணத்தினை இளைஞனிடம் குறித்த பெண் மீள் அளித்தார்.
+The youth lodged a complaint at the Jaffna Police Station as the young man's travel arrangements were not made for three months
 
-அதனை அடுத்து பெண்ணை 06 இலட்ச ரூபாய் பெறுமதியான இரண்டு சரீர பிணையில் செல்ல மன்று அனுமதித்தது.
+According to the complaint, the police, who investigated the complaint, arrested the woman and produced him in the Jaffna Magistrate's Court.
+
+The woman reprinted the young man for the first phase of the money he had received in court, saying he was ready to hand over the money to the young man.
+
+After that, the woman was allowed to go on two physical bail worth Rs 06 lakhs.
 
 ◼️
 
 [Data](articles/72decf33.json)
 
+[Extended Data](ext_articles/72decf33.ext.json)
+
 ---
 
-### வெடுக்குநாறிமலை பூசாரிக்கு வருத்தம்
+### Regret to the priest
 
 *2024-03-21 13:50:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/வெடுக்குநாறிமலை-பூசாரிக்கு-வருத்தம்/72-334989) · `ta`
 
-வவுனியா வெடுக்குநாறிமலையின் பிரதான பூசாரியான தம்பிராசா மதிமுகராசா சுகவீனம் காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+Thambirasa Mathimukarasa, Vavuniya Vettukkunnarimalai's chief priest, was hospitalized due to illness. Eight, including the temple, were arrested on Shivaratri and detained until the 19th. The Vavuniya Judge ordered on the 19th, and the priest was admitted to Mullaitivu Manjolai Hospital on the 20th, after fasting in prison for five days for justice.
 
-வவுனியா வடக்கு, வெடுக்குநாறிமலை ஆதிசிவன் ஆலயத்தில் கடந்த சிவராத்திரி தினத்தன்று பொலிஸாரின் வன்முறையால் ஆலயபூசகர் உள்ளிட்ட 8 பேர் கைதுசெய்யப்பட்டனர். அவர்கள் கடந்த 19 ஆம் திகதிவரை விளக்கமறியலில் வைக்கப்பட்டனர்.
+🟩
 
-இந்நிலையில் குறித்த எட்டுப்பேரையும் விடுதலைசெய்து வவுனியா நீதிமன்று செவ்வாய்க்கிழமை (19) உத்தரவு பிறப்பித்தது.
+Thambirasa Mathimukarasa, the chief priest of Vavuniya Vettukkunnarimalai, has been admitted to the hospital due to illness.
 
-இந்நிலையில் விடுதலையான ஆலயத்தின் பூசாரியார் சுகவீனமடைந்தநிலையில் முல்லைத்தீவு மாஞ்சோலை வைத்தியசாலையில் புதன்கிழமை (20) அனுமதிக்கப்பட்டுள்ளார்.
+Eight persons, including the temple, were arrested by the police on the occasion of Shivaratri on the last Shivaratri day. They were kept in detention until the 19th.
 
-கைதுசெய்யப்பட்டவர்களுக்கு நீதி கிடைக்கவேண்டும் என்ற கோரிக்கையினை வலியுறுத்தி 5நாட்கள் சிறைச்சாலையில் அவர் உண்ணாவிரதம் இருந்தமை குறிப்பிடத்தக்கது.
+The Vavuniya Judge on Tuesday (19) issued an order.
+
+The priest of the liberated temple was admitted to the Mullaitivu Manjolai Hospital on Wednesday (20).
+
+It is noteworthy that he was fasting in prison for five days, demanding justice for those arrested.
 
 ◼️
 
 [Data](articles/6050590e.json)
+
+[Extended Data](ext_articles/6050590e.ext.json)
 
 ---
 
@@ -392,19 +422,25 @@ MP Dilan Perera has resigned from the Committee on Comingal Committee or COPE, o
 
 ---
 
-### මුක්කුතොඩුවාව සන්ධ්‍යා අවසානයේ ලෙඩෙකු වි හිස් අතින් එයි
+### Mukkotugu evening eventually conveys a sick hand and empty-handed
 
 *2024-03-21 12:41:51* · [`adalk`](https://www.ada.lk/breaking_news/මුක්කුතොඩුවාව-සන්ධ්‍යා-අවසානයේ-ලෙඩෙකු-වි-හිස්-අතින්-එයි/11-408740) · `si`
 
-තම ආර්ථික ප්‍රශ්ණ හමුවේ පවුලේ පිරිස ජීවත් කිරීමට ගෘහ සේවිකාවක් ලෙස සෞදි රටේ රැකියාවකට ගිය මුන්දලම මුක්කුතොඩුවාව කජූවත්ත පදිංචි දෙදරු මවක් දරුණු ලෙස මානසික රෝගී තත්වයට හා දරුණු තුවලා වලට ලක්වි ඒවා ඇති බව සැමියා පවසයි.
+Mukkotugu's mother, a housemaid in Saudi Arabia, suffers from severe mental illness and injuries. She was hired by a private agency in Kurunegala and left her first job to work abroad. The family reported her missing to the Saudi Hospital, and the husband contacted the Foreign Employment Bureau in Chilaw. The Saudi Embassy confirmed her presence.
 
-පසුගිය 2023 වසරේ මැයි 10 දින සෞදි රටට ගෘහ සේවිකාවක් ලෙස සේවයට ගිය මුක්කුතොඩුවාවේ කුමුදුනී සන්ධ්‍යා කුමාරි සේනවිරත්න නැමති දෙදරු මව මෙසේ මෙරටට ඒවා තිබේ.
+🟩
 
-අදාල කාන්තාව කුරුණෑගල ප්‍රදේශයෙ පිහිටි පුද්ගලික විදේශ රැකියා ආයතනයකින් රැකියාව සදහා ගොස් තිබු බව කියයි. එහිදි පලමු නිවසේ මාස කිපයක් සේවය කරමින් සිටියදී එහි නිදා ගැනිමට පවා අවස්ථාවක් නොදි සේවය කිරීමේන් මහත් පිඩාවට පත්ව වෙනත් නිවසකට දමන මෙම කාන්තාව විදේශ ගත කල පුද්ගලික විදේශ රැකියා ආයතනයට දැනුම් දීමේන් පසු සේවය කල නිවසේ ඥාතියකුට අයත් ස්ථානයට දමා ඇති බව කියයි. එහිදි පලමු දිනයෙදි මෙම කාන්තාවට දරුණු වද හිංසාවන්ට ලක්ව ඇති අතර එම පවුලේ පිරිස් විසින් සෞදි රෝහලටක මෙම කාන්තාව ඇතුලත් කර සිටියදී එහි සේවය කල අයකු මෙම කාන්තාව පිලිබදව තොරතුරු මුක්කුතොඩුවාව පදිංචි සැමියාට දන්වා තිබු බව කියයි.
+The husband says that the mother of Kajuwatta, who went to work in the Saudi country to live in the face of their economic problems, is a serious mental illness and severe bruises.
+
+On May 10, 2023, the mother of two of two persons who were working to work as a housemaid to serve as a housemaid to serve as a domestic servant in May 10, 23, 2033.
+
+The woman says he had gone to work by a private foreign employment agency in Kurunegala. It is said that the woman who had been abroad to travel to another house to leave the house where the woman had been abroad to leave the homeland, the woman who had been abroad to leave the homeland after serving in the first house.. The woman was terrified in the first day and said that the family had told the husband of the Mukkotagodu about this woman when the family was admitted to a Saudi Hospital.
 
 ...
 
 [Data](articles/bb8aea8c.json)
+
+[Extended Data](ext_articles/bb8aea8c.ext.json)
 
 ---
 
@@ -690,19 +726,27 @@ The English language requirement for graduate visas and student visas has increa
 
 ---
 
-### போலி அறிக்கை வெளியிட்டதா  அமைச்சு?
+### Did the Ministry of Fake Report issued?
 
 *2024-03-21 11:55:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-அறிக்கை-வெளியிட்டதா-அமைச்சு/175-334980) · `ta`
 
-வெளிநாடுகளுக்கு சென்ற இலங்கை வைத்தியர்கள் மீளத் திரும்புவது தொடர்பாக சுகாதார அமைச்சு வெளியிட்ட அறிக்கைக்கு மாறாக, அண்மைய புள்ளிவிபரங்கள் வித்தியாசமான தகவல்களை வழங்குகின்றன.
+The Ministry of Fake Report's issuance is questioned. Contrary to the Ministry of Health's report on Sri Lankan doctors returning abroad, new data suggests a different trend. Dr. Wijesuriya, who faced controversy over the report, noted a reversal in the return of postgraduate doctors abroad. However, the actual figures differ, with only a few specialists returning, and the Sri Lanka Medical Association (SLMA) criticized the return of five experts as insignificant. The Medical Experts Association (AMS) expressed concern over the exodus of medical professionals and criticized the Ministry of Health for making unsupported statements.
 
-பிரதிப் பணிப்பாளர் நாயகம் (மருத்துவ சேவைகள்) வைத்தியர். ஜி. விஜேசூரிய ஆரம்பத்தில் முன்வைத்த கூற்று, புள்ளிவிபரங்களைத் தயாரிக்கத் தவறியதுடன், சந்தேகத்திற்குரியதாகவும் இருந்தது, குறிப்பாக தரவுகள் கொடுத்த தகவல்களின் படி அது முற்றிலும் புறம்பாகவுள்ளது.
+🟩
 
-இந்த அறிக்கையின் மூலம் சர்ச்சையில் சிக்கிய வைத்தியர் விஜேசூரிய, மருத்துவர்களின் போக்கு, குறிப்பாக வெளிநாட்டில் முதுகலைப் பட்டப்படிப்பைத் தொடர்பவர்கள், இலங்கைக்குத் திரும்பும் முடிவு திடீரென  தலைகீழாக மாறியதாகக் கூறினார். "இது ஆபத்தான எண்ணிக்கையில் இல்லாவிட்டாலும், புலம்பெயர்ந்த மருத்துவர்கள் நாடு திரும்பத் தொடங்கியுள்ளனர்"   என்றார்.
+In contrast to the report issued by the Ministry of Health on the return of Sri Lankan doctors abroad, recent statistics provide different information.
+
+Deputy Director General (Medical Services). G. The claim that Wijesuriya initially failed to produce statistics and was suspicious, especially according to the information provided by the data.
+
+Dr. Wijesuriya, who has been controversial with the report, said the doctors' trend, especially those who have a postgraduate graduate abroad, have suddenly turned reversed."Even if it is not a dangerous number, migrant doctors have begun to return."
+
+However, the actual figures are completely different.Some of the returns include a gynecologist (VOG), surgeon, anesthesiologist, pediatrician, and ophthalmologist, which refers to a slight change than substantial income.
 
 ...
 
 [Data](articles/6ac0ab5c.json)
+
+[Extended Data](ext_articles/6ac0ab5c.ext.json)
 
 ---
 
@@ -800,21 +844,29 @@ Modi told me that Sri Lanka is one of the three best countries in the world that
 
 ---
 
-### මනුෂ්‍ය ඝාතනයකට සම්බන්ධ කාන්තාවක් වසර තුනකට පසු අත්අඩංගුවට
+### Woman arrested for murder arrested three years later
 
 *2024-03-21 11:35:55* · [`adalk`](https://www.ada.lk/breaking_news/මනුෂ්‍ය-ඝාතනයකට-සම්බන්ධ-කාන්තාවක්-වසර-තුනකට-පසු-අත්අඩංගුවට/11-408739) · `si`
 
-පානදුර පින්වත්ත ප්‍රදේශයේදී මනුෂ්‍ය ඝාතනයක් සිදුකර පොලීසිය මගහැර සිටි කාන්තාවක හෙරෝයින් මිලිග්‍රෑම් 2200ක් සමග රත්මලාන බංගලාව පාරදී ගල්කිස්ස කොට්ඨාශ අපරාධ විමර්ශන කාර්යාංශය මගින් අත්අඩංගුවට ගෙන ඇතැයි පොලීසිය පැවසීය.
+A 46-year-old woman from Ratmalana was arrested for murder three years after the crime. She was involved in drug trafficking and was caught with eight people in Panadura, carrying elephant weapons. The suspect had been on the run since the crime but was arrested in 2021, receiving stock of drugs for sale.
 
-සැකකාරිය රත්මලාන ගාලුපාර පදිංචිව සිටින වයස අවුරුදු (46) ක් වන අතර මත්ද්‍රව්‍ය ජාවාරමේ නියුතු බවටත් හෙලිවී ඇතැයිද පොලීසිය පැවසීය.
+🟩
 
-යුක්තිය මෙහෙයුමට සමගාමීව ගල්කිස්ස කොට්ඨාශ අපරාධ විමර්ශන කාර්යාංශය නිලධාරීන් විසින් රත්මලාන බංගලාව පාර සිදුකල විශේෂ මෙහෙයුමේදී සැකකාරිය පරීක්ෂාවට ලක්කල විට සගවාගන සිටි හෙරෝයින් තොගය සොයා ගැනීමට හැකිවී ඇතැයිද පොලීසිය පැවසීය
+The Mt.
 
-ඒ අනුව   සැකකාරිය ගල්කිස්ස මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර ලබාගත් සත්දින රැදවුම් නියෝග මත සිදුකල විමර්ශනයට අනුව මෙම කාන්තාව 2021 වසර ජුලී 18 දින පානදුර පින්වත්තේදී පුද්ගලයින් අට දෙනෙකු සමග සාමුහිකව පොලු මුගුරු වලින් ගසා තියුණු ආයුධවලින්ද පහදීමෙන් එම ප්‍රදේශයේම පදිංචිව සිටි (45) වියැති පුද්ගලයකු ඝාතනය කල සිද්ධියේ ප්‍රධාන සැකකාරිය බවටද අනාවරණය වී ඇතැයිද පොලීසිය පැවසීය.
+The suspect is the age of 46 years of Rural in Ratmalana and has been revealed in drug trafficking.
 
-...
+The police said that when the Mthindu Vidyalaya Bureau of Mt.
+
+Accordingly, the woman was produced before the Mount Lavinia Magistrate's Court on the occasion of 2021, the woman was 2021 at Julie, Panadura on 2021, with eight people with eight people with elephant weapons in Panadura Pinata.He was also revealed that the main suspect was revealed.
+
+The suspect has come to the fleeing area since this day and has come back to the countryside and has been able to be arrested while he has been arrested while receiving the stock of drugs for sales.
+
+◼️
 
 [Data](articles/9f6f9422.json)
+
+[Extended Data](ext_articles/9f6f9422.ext.json)
 
 ---
 
@@ -2229,25 +2281,5 @@ The rapid changes in the socio-economic contexts have exacerbated migrant worker
 [Data](articles/2a29bbbb.json)
 
 [Extended Data](ext_articles/2a29bbbb.ext.json)
-
----
-
-### Inoka Bandara bags coveted Freda Corea Award
-
-*2024-03-21 05:42:53* · [`dailyftlk`](https://www.ft.lk/news/Inoka-Bandara-bags-coveted-Freda-Corea-Award/56-759742) · `en`
-
-The coveted Freda Corea award was bagged by Silumina newspaper’s Business Editor Inoka Perera Bandara in this year’s competition held by the Gamani Corea Foundation.
-
-The award was in recognition of Inoka’s efforts in encouraging and amplifying the work of small and medium-scale businesses led by women’s entrepreneurs who have contributes to the economic development of Sri Lanka whilst gathering data which is useful to policymakers.
-
-Gamani Corea, a renowned and respected economist in Sri Lanka, was the UNCTAD Secretary General and conducted extensive research on the development of Sri Lanka’s economy.
-
-Inoka has previously won the Gold Award for Career Achievement in the Print Media category at the Top 50 Professional and Career Women Awards Sri Lanka - 2020.
-
-...
-
-[Data](articles/fbf0a2da.json)
-
-[Extended Data](ext_articles/fbf0a2da.ext.json)
 
 ---

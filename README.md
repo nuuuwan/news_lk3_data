@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 13:52:08**
+As of **2024-03-21 14:03:06**
 
 ## Newspaper Stats
 
-*Scraped **14,305** Articles*
+*Scraped **14,311** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,112 @@ newsfirstlk | 363
 dailyftlk | 756
 economynextcom | 764
 islandlk | 782
-adalk | 1,233
+adalk | 1,234
 adaderanalk | 1,717
 tamilmirrorlk | 1,730
-virakesarilk | 2,009
-dailymirrorlk | 2,190
-adaderanasinhalalk | 2,280
+virakesarilk | 2,010
+dailymirrorlk | 2,192
+adaderanasinhalalk | 2,282
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,300 (100.0%) of 14,305 articles have been extended.
+14,300 (99.9%) of 14,311 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### සල්ලිවලට මෙහෙම කළොත් දැඩි දඬුවම්
+
+*2024-03-21 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194775) · `si`
+
+මේ වනවිට සමාජය තුළ නව රැල්ලක් බවට පත්වී ඇති මුදල් යොදාගෙන සිදුකරන විවිධ නිර්මාණ සම්බන්ධයෙන් ශ්‍රී ලංකා මහ බැංකුව ජනතාවට විශේෂ දැනුම්දීමක් සිදුකර තිබේ.
+
+එහි දැක්වෙන්නේ විසිතුරු භාණ්ඩ සහ තෑගි අයිතම සකස් කිරීම සඳහා වලංගු මුදල් නෝට්ටු යොදා ගැනීම සහ එවැනි ක්‍රියාකාරකම් සමාජ මාධ්‍ය ඔස්සේ ප්‍රවර්ධනය කිරීමේ ප්‍රවණතාව කෙරෙහි මහ බැංකුවේ අවධානය යොමුවී ඇති බවය.
+
+ඒ අනුව මහ බැංකුව දැනුම්දෙන්නේ ශ්‍රී ලංකා මහ බැංකුවේ පාලක මණ්ඩලයේ අවසරයකින් තොරව පහත දක්වා ඇති කටයුතු සිදුකරගෙන යෑමෙහි නියැලී සිටින ඕනෑම පුද්ගලයෙකු වරදක් සිදු කරන බවය.
+
+පහත දක්වා ඇති ආකාරයේ වරදකට හසුවන යම් පුද්ගලයෙකු අධිකරණය ඉදිරියේ වරදකරුවෙකු වීම මත රුපියල් මිලියන 25කට නොවැති දඩ මුදලක් හෝ තෙවසරකට නොඅඩු සිරදඬුවමකට හෝ ඒ දෙකටම යටත් වෙන බවය.
+
+◼️
+
+[Data](articles/573533a3.json)
+
+---
+
+### Former Pakistan captain Saeed Ahmed passes away at 86
+
+*2024-03-21 13:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Pakistan-captain-Saeed-Ahmed-passes-away-at-86/108-279320) · `en`
+
+Mar. 21 (ICC) - Saeed Ahmed represented Pakistan in 41 Test matches in a career that spanned 15 years.
+
+Former Pakistan captain and all-rounder Saeed Ahmed breathed his last on Wednesday, 20 March at the age of 86 in Lahore after a period of brief illness.
+
+Ahmed played 41 Test matches for Pakistan between 1958 and 1973, aggregating 2991 runs at an average of 40.41. He scored five centuries through the course of his career, three of which came against India.
+
+He made his debut at the age of 20 against West Indies, the same game where Hanif Mohammad played a marathon knock of 337 while lasting 970 minutes on the pitch.
+
+During the innings, Ahmed stitched a 154-run stand with Mohammad for the third wicket, scoring a half-century (65) on debut.
+
+He also replaced Hanif Mohammed as captain of the team for a brief period of three Tests against England in 1969, all of which were drawn.
+
+Ahmed was also a handy off-spinner, accounting for 22 wickets through his career.
+
+...
+
+[Data](articles/1ecfdeb9.json)
+
+---
+
+### ஜனாதிபதியின் காஸா குழந்தைகள் நிதியத்துக்கு கிழக்கு மாகாண ஆளுநர் 05 இலட்சம் ரூபா நிதி நன்கொடையாக வழங்கி வைப்பு!
+
+*2024-03-21 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179321) · `ta`
+
+காஸாவில் இடம்பெற்றுவரும் மோதல்களில் பாதிக்கப்பட்ட குழந்தைகளுக்கு இப்தார் மாதத்தில் நிவாரணம் வழங்குவதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் ஆரம்பித்து வைக்கப்பட்ட ஜனாதிபதி காஸா நிதியத்திற்கு கிழக்கு மாகாண ஆளுநரும், இலங்கை தொழிலாளர் காங்கிரசின் தலைவருமான செந்தில் தொண்டமான் 05 இலட்சம் ரூபா நிதியை வழங்கியுள்ளார்.
+
+காஸா குழந்தைகள் நிதியத்துக்கு இதுவரை 57 இலட்சத்து 73 ஆயிரத்து 512 ரூபா நன்கொடையாக கிடைக்கப்பெற்றுள்ளது. குறித்த நிதி விரைவில் காஸாவில் பாதிக்கப்பட்டுள்ள குழந்தைகளின் நலன்புரி தேவைகளுக்காக இலங்கை அரசாங்கத்தால் அனுப்பிவைக்கப்பட உள்ளது.
+
+வர்த்தகர்கள், பொது அமைப்புகள் உட்பட பல்வேறு தரப்பினரும் இந்த நிதியத்துக்கு உதவிகளை வழங்கிவரும் நிலையில், கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் முதல் அரசியல் தலைமையாக  இந்நிதியை வழங்கியுள்ளார் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0fd34eef.json)
+
+---
+
+### මෙහෙමත් සීනි කෑමක්... දත් ඉතුරු වෙයි ද?
+
+*2024-03-21 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194774) · `si`
+
+දත් දිරායෑම අද වනවිට ලෝකයේ වැඩිම ජනතාවක් මුහුණදෙන රෝගී තත්ත්වයක් බවට පත්ව ඇතැයි වෛද්‍යවරු අනතුරු අඟවයි.
+
+ලෝක ජනගහණයෙන් බිලියන 3.5ක් දත් දිරායෑමේ රෝගී තත්ත්යට මුහුණ පා ඇතැයි ශ්‍රී ලංකා දන්ත වෛද්‍ය සංගමයේ උපලේකම් ප්‍රජා දන්ත විශේෂඥ වෛද්‍ය නිලන්ත රත්නායක මහතා පවසයි.
+
+ඊයේ (20) දිනට යෙදී තිබූ ලෝක දන්ත සෞඛ්‍ය දිනය වෙනුවෙන් 'සතුටු මුවයි - සුවැති සිරුරයි' යන මැයෙන් සෞඛ්‍ය ප්‍රවර්ධන කාර්‍යංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් ඒ මහතා මෙම අදහස් පළ කළේය.
+
+සියලු දන්ත රෝග වළක්වා ගත හැකි බවත්, එය බහුල විය යුතු නොවන බවත් පැවසු වෛද්‍යවරයා, දත් දිරා යෑමට බලපාන මුලික කරුණු වන්නේ අධික සීනි භාවිතය, දත් නොමැදීම හා ෆ්ලොරයිඩ් සහිත දන්තා ලේප භාවිත නොකිරීම බව පැවසීය.
+
+...
+
+[Data](articles/fa3db896.json)
+
+---
+
+### Dilan Perera also resigns from COPE
+
+*2024-03-21 13:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dilan-Perera-also-resigns-from-COPE/108-279319) · `en`
+
+Parliament, March 21 (Daily Mirror)- Opposition MP Dilan Perera resigned from the Committee on Public Enterprises (COPE) today.
+
+He announced his resignation in Parliament while speaking at the debate on the no-confidence motion against the Speaker.
+
+◼️
+
+[Data](articles/c55ddb74.json)
+
+---
 
 ### இன்றைய நாணய மாற்று விகிதம்
 
@@ -587,6 +677,24 @@ Modi told me that Sri Lanka is one of the three best countries in the world that
 [Data](articles/b5e325b5.json)
 
 [Extended Data](ext_articles/b5e325b5.ext.json)
+
+---
+
+### මනුෂ්‍ය ඝාතනකට සම්බන්ධ කාන්තාවක් වසර තුනකට පසු අත්අඩංගුවට
+
+*2024-03-21 11:35:55* · [`adalk`](https://www.ada.lk/breaking_news/මනුෂ්‍ය-ඝාතනකට-සම්බන්ධ-කාන්තාවක්-වසර-තුනකට-පසු-අත්අඩංගුවට/11-408739) · `si`
+
+පානදුර පින්වත්ත ප්‍රදේශයේදී මනුෂ්‍ය ඝාතනයක් සිදුකර පොලීසිය මගහැර සිටි කාන්තාවක හෙරෝයින් මිලිග්‍රෑම් 2200ක් සමග රත්මලාන බංගලාව පාරදී ගල්කිස්ස කොට්ඨාශ අපරාධ විමර්ශන කාර්යාංශය මගින් අත්අඩංගුවට ගෙන ඇතැයි පොලීසිය පැවසීය.
+
+සැකකාරිය රත්මලාන ගාලුපාර පදිංචිව සිටින වයස අවුරුදු (46) ක් වන අතර මත්ද්‍රව්‍ය ජාවාරමේ නියුතු බවටත් හෙලිවී ඇතැයිද පොලීසිය පැවසීය.
+
+යුක්තිය මෙහෙයුමට සමගාමීව ගල්කිස්ස කොට්ඨාශ අපරාධ විමර්ශන කාර්යාංශය නිලධාරීන් විසින් රත්මලාන බංගලාව පාර සිදුකල විශේෂ මෙහෙයුමේදී සැකකාරිය පරීක්ෂාවට ලක්කල විට සගවාගන සිටි හෙරෝයින් තොගය සොයා ගැනීමට හැකිවී ඇතැයිද පොලීසිය පැවසීය
+
+ඒ අනුව   සැකකාරිය ගල්කිස්ස මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර ලබාගත් සත්දින රැදවුම් නියෝග මත සිදුකල විමර්ශනයට අනුව මෙම කාන්තාව 2021 වසර ජුලී 18 දින පානදුර පින්වත්තේදී පුද්ගලයින් අට දෙනෙකු සමග සාමුහිකව පොලු මුගුරු වලින් ගසා තියුණු ආයුධවලින්ද පහදීමෙන් එම ප්‍රදේශයේම පදිංචිව සිටි (45) වියැති පුද්ගලයකු ඝාතනය කල සිද්ධියේ ප්‍රධාන සැකකාරිය බවටද අනාවරණය වී ඇතැයිද පොලීසිය පැවසීය.
+
+...
+
+[Data](articles/b3f26499.json)
 
 ---
 
@@ -2085,133 +2193,5 @@ The projected capital expenditure or capex for the 2024-25 (April 2024 to March 
 [Data](articles/8a1baf13.json)
 
 [Extended Data](ext_articles/8a1baf13.ext.json)
-
----
-
-### Govt. initiates measures to support farmers ahead of Yala cultivation season
-
-*2024-03-21 05:24:25* · [`dailyftlk`](https://www.ft.lk/business/Govt-initiates-measures-to-support-farmers-ahead-of-Yala-cultivation-season/34-759736) · `en`
-
-The Government has announced crucial decisions aimed at ensuring the availability and affordability of essential chemical fertilizers for farmers countrywide.
-
-The National Fertiliser Secretariat estimates indicate the required volume of urea, TSP (Triple Super Phosphate), and MOP (Muriateo of Potash) for the upcoming season.
-
-To address the fertilizer needs for the 2024 ‘Yala’ season, the Cabinet of Ministers approved a proposal submitted by Agriculture Minister Mahinda Amaraweera to implement several crucial measures.
-
-Firstly, fertiliser importation will be facilitated through State-run, the Ceylon Fertiliser Company Ltd., and the Colombo Commercial Fertiliser Company Ltd.
-
-...
-
-[Data](articles/145fbf8f.json)
-
-[Extended Data](ext_articles/145fbf8f.ext.json)
-
----
-
-### WNPS Monthly Lecture today
-
-*2024-03-21 05:24:04* · [`dailyftlk`](https://www.ft.lk/business/WNPS-Monthly-Lecture-today/34-759735) · `en`
-
-Anya Ratnayaka to speak on Unmasking Sri Lanka’s Small Wild Cats
-
-Anya Ratnayaka Founder of the Urban Fishing Cat Conservation Project
-
-The Wildlife and Nature Protection Society will hold its monthly lecture today at 6.00 p.m. at the Jasmine Hall, BMICH.
-
-Specialist Anya Ratnayaka will speak on to speak on  “Insights into Feline Ecology:  Unmasking Sri Lanka’s Small Wild Cats.”
-
-In the March 2024 NTB WNPS monthly lecture, PhD Candidate Anya Ratnayaka, from the University of Queensland, will unveil the secrets of Sri Lanka’s small wild cats and shed light on their secretive lives as well as the critical conservation efforts needed to safeguard these iconic species and their habitats.
-
-...
-
-[Data](articles/c0bc3b24.json)
-
-[Extended Data](ext_articles/c0bc3b24.ext.json)
-
----
-
-### Opposition exposes Speaker’s alleged partisan behaviour during NCM debate
-
-*2024-03-21 05:21:31* · [`dailyftlk`](https://www.ft.lk/news/Opposition-exposes-Speaker-s-alleged-partisan-behaviour-during-NCM-debate/56-759734) · `en`
-
-SJB MP Eran Wickramaratne accuses Speaker of ignoring SC directives when endorsing OSA
-
-Says by doing so he has violated not only SC directives but Constitution as well
-
-NPP leader Anura Kumara Dissanayake reveals Speaker’s unorthodox communication with President on IGP’s appointment
-
-Claims Speaker instead of announcing vote results allowed President to decide on matter
-
-TNA MP M.A. Sumanthiran questions Speaker’s literacy in failing to follow SC directives relating to OSA
-
-Govt. MP Mahindananda Aluthgamage supports Speaker and says NCM must be brought against Constitutional Council instead
-
-The opposition ripped into Speaker Mahinda Yapa Abeywardena in parliament over the past two days questioning his impartiality and independence during the No Confidence Motion debate against him brought forward by the Opposition party Samagi Jana Balawegaya (SJB) over his recent actions concerning the enactment of the Online Safety Act (OSA) and the appointment of the Inspector General of Police.
-
-...
-
-[Data](articles/5502ece3.json)
-
-[Extended Data](ext_articles/5502ece3.ext.json)
-
----
-
-### Dayasiri urges SL to foster new generation of visionary leaders
-
-*2024-03-21 05:17:39* · [`dailyftlk`](https://www.ft.lk/news/Dayasiri-urges-SL-to-foster-new-generation-of-visionary-leaders/56-759733) · `en`
-
-Humane Peoples’ Alliance Leader Dayasiri Jayasekra yesterday said Sri Lanka urgently requires a  new program aimed at nurturing leaders who, through their political campaigns, can articulate their vision and strive to progress accordingly.
-
-Speaking at the new alliance’s launch in Colombo, Jayasekara said the current system does not have such leaders.
-
-“We must emphasise the necessity of a robust political program for the forthcoming decade,” he emphasised.
-
-“Are we content with a system where 250,000 individuals live in luxury while millions suffer, or should we aspire for a more equitable future?” he asked.
-
-Jayasekara emphasised the significance of establishing a new generation of leaders who are incorruptible, refrain from using political power to enrich their families and demonstrate foresight.
-
-Over 20 political parties and civil society organisations joined the newly formed alliance during the event yesterday.
-
-...
-
-[Data](articles/271d8c1c.json)
-
-[Extended Data](ext_articles/271d8c1c.ext.json)
-
----
-
-### Alhambra Hotels celebrates 50 years of hospitality excellence
-
-*2024-03-21 05:16:03* · [`dailyftlk`](https://www.ft.lk/business/Alhambra-Hotels-celebrates-50-years-of-hospitality-excellence/34-759732) · `en`
-
-Alhambra Hotels commemorated five decades of unwavering dedication to hospitality excellence today. What began as a visionary endeavour by founding Chairman Jabir A. Cader, a prominent businessman, has evolved into a cornerstone of Colombo’s hospitality landscape.
-
-Originally envisioned as a modern cinema, the venture transformed with the changing tides, capitalizing on the burgeoning tourism industry generated by the ‘Tourism Development Act’ and in 1974, a pivotal partnership with the Holiday Inn group propelled Alhambra Hotels into the international spotlight, becoming the second International Hotel Chain in Sri Lanka to do so at that time.
-
-It was also the introduction of the first-ever North Indian restaurant, Alhambra which serves up the most tantalizing and delicious Moghul Cuisine in the city to this date and is renowned for its famous Mutton Biryani, Thalis, and much more.
-
-...
-
-[Data](articles/d4871cde.json)
-
-[Extended Data](ext_articles/d4871cde.ext.json)
-
----
-
-### New EU regulation on deforestation-free products applicable for Sri Lanka’s exports
-
-*2024-03-21 05:14:08* · [`dailyftlk`](https://www.ft.lk/business/New-EU-regulation-on-deforestation-free-products-applicable-for-Sri-Lanka-s-exports/34-759731) · `en`
-
-New European Union (EU) regulations on deforestation-free products (EUDR) are applicable for Sri Lanka’s exports, the Foreign Ministry announced yesterday.
-
-Foreign Secretary Aruni Wijewardane chaired a meeting at the Foreign Ministry with the participation of the EU Ambassador Carmen Moreno to brief key industry stakeholders on the new EUDR.
-
-As a direct beneficiary of the EU GSP+ concessions, Sri Lanka’s rubber exports to the EU market will have to adopt due diligence to prove that products do not originate from recently deforested land or have contributed to forest degradation.  The EU adopted the EUDR in June 2023, to ensure that agricultural products consumed by EU citizens do not contribute to global deforestation or forest degradation. The regulation will apply to the production of commodities like cattle, wood, cocoa, soy, palm oil, coffee, rubber, and their derived products.
-
-...
-
-[Data](articles/c982b5e3.json)
-
-[Extended Data](ext_articles/c982b5e3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 12:49:39**
+As of **2024-03-21 13:03:18**
 
 ## Newspaper Stats
 
-*Scraped **14,291** Articles*
+*Scraped **14,295** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,79 @@ islandlk | 782
 adalk | 1,233
 adaderanalk | 1,715
 tamilmirrorlk | 1,729
-virakesarilk | 2,003
+virakesarilk | 2,006
 dailymirrorlk | 2,188
-adaderanasinhalalk | 2,278
+adaderanasinhalalk | 2,279
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,288 (100.0%) of 14,291 articles have been extended.
+14,291 (100.0%) of 14,295 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### කෝප් කමිටුවෙන් තවත් සාමාජිකයෙක් ඉල්ලා අස්වෙයි
+
+*2024-03-21 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194771) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රී ඩිලාන් පෙරේරා මහතා ද පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටු සාමාජිකත්වයෙන් ඉල්ලා අස්වී තිබේ.
+
+◼️
+
+[Data](articles/45eb78af.json)
+
+---
+
+### அனுமதிப் பத்திரமின்றி இரத்தினக்கல் அகழ்வில் ஈடுபட்ட சந்தேக நபர் கைது
+
+*2024-03-21 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179314) · `ta`
+
+மஸ்கெலியா பிரதேசத்திற்குட்பட்ட மவுஸ்ஸாகலை பகுதியில் பொலிஸாருக்கு கிடைத்த தகவலின் மூலம்  சோதனை நடவடிக்கையினை மேற்கொண்ட  போது இரத்தினக்கல் அகழ்வில் ஈடுபட்ட  சந்தேக நபரொருவர் கைது செய்யப்பட்டுள்ளார்.
+
+இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபர் மஸ்கெலியா பிரதேசத்தைச் சேர்ந்த 55 வயதுடையவராவார்.
+
+◼️
+
+[Data](articles/6faafb17.json)
+
+---
+
+### இந்தோனேஷியாவில் படகு கவிழ்ந்தபின் 69 ரோஹிங்யா அகதிகள் மீட்பு
+
+*2024-03-21 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179313) · `ta`
+
+ரோஹிங்யா அகதிகளை ஏற்றிச் சென்ற படகு ஒன்று கவிழ்ந்த பின்னர், 69 பேரை இந்தோனேஷிய அதிகாரிகள் இன்று மீட்டுள்ளனர்.
+
+இந்தோனேஷியாவின் ஆச்சே மாகாணத்துக்கு அருகில், நேற்று புதன்கிழமை இப்படகு கவிழ்ந்ததையடுத்து, மீட்புக்குழுக்கள் விரைந்தன.
+
+கடந்த நவம்பர் மத்தியிலிருந்து இவ்வருடம் ஜனவரி இறுதிவரை 1752 ரோஹிங்யா அகதிகள் இந்தோனேஷியாவின்  ஆச்சே மற்றும் வடக்கு சுமத்ரா பிராந்தியங்களில் தரையிறங்கியிருந்தனர் என அகதிகளுக்கான ஐ.நா. உயர்ஸ்தானிகராலயம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/b3d38188.json)
+
+---
+
+### இஸ்ரேலிய படையினர் காசாவில் திட்டமிட்டு  மருத்துவ வசதிகளை அழிக்கின்றனர் - அமெரிக்க பிரிட்டன் மருத்துவர்கள்
+
+*2024-03-21 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179311) · `ta`
+
+பாலஸ்தீனியர்களை அவர்களின் பகுதிகளில் இருந்து வெளியேற்றுவதற்காக இஸ்ரேலிய படையினர் திட்டமிட்ட முறையில் காசாவின் சுகாதார கட்டமைப்பை  அழித்துவருகின்றனர் என அமெரிக்க பிரிட்டனை சேர்ந்த மருத்துவர்கள் அமெரிக்க ஜனாதிபதி ஜோ பைடனின் நிர்வாகத்திற்கு தெரிவிக்கவுள்ளனர்.
+
+காசாவின் மருத்துவமனைகளில் தாமாக முன்வந்து பணியாற்றிய பின்னர்நாடு திரும்பியுள்ள மருத்துவர்கள் அமெரிக்க ஜனாதிபதியின் நிர்வாகத்தின் முக்கிய அதிகாரிகளை இந்த வாரம் சந்திக்கவுள்ளனர்.
+
+பைடன்நிர்வாகத்துடனான இந்த சந்திப்பின்போது பாதுகாப்பான உணவு விநியோகம் சுகாதார சேவைகளை மீண்டும் கட்டியெழுப்புதலிற்கு அவசியமான யுத்தநிறுத்த உடன்படிக்கை இன்றி குண்டு வீச்சில் சிக்கியுள்ள பாலஸ்தீனியர்களிற்கான நிதி உதவியை அதிகரிப்பது அர்த்தமற்ற விடயம் என மருத்துவர்கள் வலியுறுத்தவுள்ளனர்.
+
+இஸ்ரேலிய படையினர் அதிர்ச்சி தரும் அட்டுழியங்களில் ஈடுபட்டுள்ளனர் என காசாவின் அல்அக்சா மருத்துவமனையில் பணியாற்றிய பேராசிரியர் நிக்மேய்னார்ட் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/0cd8b8d1.json)
+
+---
 
 ### Sri Lanka to get Indian grant of $61.5mn to fully develop KKS Port
 
@@ -48,27 +108,65 @@ During the discussion, the Indian High Commissioner expressed India’s commitme
 
 [Data](articles/d42ed430.json)
 
+[Extended Data](ext_articles/d42ed430.ext.json)
+
 ---
 
-### දෙලොවක් අතර නැවතුණු අවුරුදු නැකැත්
+### Hurry Agent Around Between Demo
 
 *2024-03-21 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194770) · `si`
 
-රාජ්‍ය නැකැත් කමිටුව විසින් ඉදිරිපත් කරනු ලැබූ මෙවර සිංහල දෙමළ නැකැත් අසුබ බවට පසුගිය සමයේ දිගින් දිගටම චෝදනා එල්ල කළ ජාතික ජ්‍යොතීර්වේදීන්ගේ සංගමය අද (21) විකල්ප නැකැත් රටට ඉදිරිපත් කළේය.
+The National Anthem Committee announced a new organization, the National Amazed Committee, and the National Astronologists Association (NIC) highlighted the state-ended country of the Nakith Committee on the Sinhala and Tamil New Year night. Mr. Janaka Madha Madha Navaratne revealed the New Year's Udaya time and the charity period from April 13 to 14. He emphasized the importance of vegetarian food and the transition's end on April 14.
 
-ඔවුන් මෙම නැකැත් ඉදිරිපත් කළේ ජාතික නැකැත් කමිටුව ලෙස සංවිධානයක් පිහිටුවා ගනිමිනි.
+🟩
 
-2024 සිංහල දෙමළ අලුත් අවුරුද්ද වෙනුවෙන් රාජ්‍ය නැකැත් කමිටුව රාත්‍රී කාලයේ ඉදිරිපත් කළ නැකැත් රටට අසුබ බවට ජාතික ජ්‍යොතීර්වේදීන්ගේ සංගමය අවස්ථා කිහිපයකම ප්‍රකාශ කළේය.
+The National Anthem Committee presented to the country today (21) presented alternatives to the country today.
 
-ඒ අනුව රාත්‍රී නැකැත් වෙනුවට උදෑසන නැකැත් ඇතුළත් කරමින් විකල්ප නැකැත් සීට්ටුවක් ඔවුන් රටට අද ඉදිරිපත් කළේය.
+They made this auspicious organization as the National Amazed Committee.
 
-එම සංගමය නියෝජනය කරමින් ප්‍රවීණ ජ්‍යෙතීර්වේදී, ජනක මාධව නවරත්න මහතා පවසා සිටියේ, මෙවර අලුත් අවුරුදු උදාව 13 වනදා අපරභාග 9.05ට සිදුවන බවය.
+2024 The National Astronologists Association (NIC) has expressed the state-ended country of the Nakith Committee on the night of the Sinhala and Tamil New Year.
 
-පුණ්‍ය කාලය හෙවත් සංක්‍රාන්ති කාලය අප්‍රේල් 13 වන දා අපරභාග 2.41 සිට අප්‍රේල්  14 වන දා අලුයම 3.29 දක්වා යෙදී ඇති බවද ඒ මහතා පැවසීය.
+Accordingly, they were aroused to the country today, adding an alternate arose, including nightmares.
+
+Mr. Janaka Madha Madha Navaratne, representing the association, said this year this year's New Year's Udaya would take place at 9.05 am.
+
+He said that the charity period, or transit, had been engaged on April 13 to 3.29 am to 3.29 am on April 14.
+
+According to Janaka Madha, according to the correct charity period from 12th April on 13th April, on April 13, as the exact time was used as charity period.
+
+He pointed out that there is nothing wrong with vegetarian, vegetarian, easily digestive briefed food.
 
 ...
 
 [Data](articles/b16539c1.json)
+
+[Extended Data](ext_articles/b16539c1.ext.json)
+
+---
+
+### The struggle of the fishermen that continues in Jaffna;Worrishness
+
+*2024-03-21 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179307) · `ta`
+
+Jaffna fishermen protest food avoidance since 19th, with support from local organizations. Tamil MPs' lack of involvement highlighted.
+
+🟩
+
+Jaffna fishermen have accused the Food Avoidance Struggle launched on Thursday (21) for the third day on Thursday (21).
+
+Yall. The Federation of District Rural Fisheries Organizations and the Jaffna District Fisheries Co -operative Societies Federation have been engaged in a food -free struggle in front of St. John Posco Vidyalaya, Jaffna since the 19th.
+
+Four fishermen, especially Selvathurai Nalukkunam, Anton Sebarasa, Chinathambi Shanmugarajah and Anthony Pillai Mariyadas, have been involved in the food avoidance.
+
+The Jaffna Taiti Mother Fisheries Association has participated in the Jaffna Taiti Taiti today in support of the fishermen's food protest.
+
+At the same time, it is distressing that the Tamil MPs have not called for their role in the protests and rallies, knowing that it is impossible, and that those who automatically stick to the media and reports to the media have not extended their support for this livelihood issue.
+
+◼️
+
+[Data](articles/fb0e1a99.json)
+
+[Extended Data](ext_articles/fb0e1a99.ext.json)
 
 ---
 
@@ -115,32 +213,6 @@ The ceremony took place in front of the Gamini Dissanayake statue at Ananda Kuma
 [Data](articles/135d9085.json)
 
 [Extended Data](ext_articles/135d9085.ext.json)
-
----
-
-### The struggle of the fishermen that continues in Jaffna;Worrishness
-
-*2024-03-21 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/179307) · `ta`
-
-Jaffna fishermen protest food avoidance since 19th, with support from local organizations. Tamil MPs' lack of involvement highlighted.
-
-🟩
-
-Jaffna fishermen have accused the Food Avoidance Struggle launched on Thursday (21) for the third day on Thursday (21).
-
-Yall. The Federation of District Rural Fisheries Organizations and the Jaffna District Fisheries Co -operative Societies Federation have been engaged in a food -free struggle in front of St. John Posco Vidyalaya, Jaffna since the 19th.
-
-Four fishermen, especially Selvathurai Nalukkunam, Anton Sebarasa, Chinathambi Shanmugarajah and Anthony Pillai Mariyadas, have been involved in the food avoidance.
-
-The Jaffna Taiti Mother Fisheries Association has participated in the Jaffna Taiti Taiti today in support of the fishermen's food protest.
-
-At the same time, it is distressing that the Tamil MPs have not called for their role in the protests and rallies, knowing that it is impossible, and that those who automatically stick to the media and reports to the media have not extended their support for this livelihood issue.
-
-◼️
-
-[Data](articles/fb0e1a99.json)
-
-[Extended Data](ext_articles/fb0e1a99.ext.json)
 
 ---
 
@@ -326,21 +398,31 @@ Modi told me that Sri Lanka is one of the three best countries in the world that
 
 ---
 
-### සල්ලිි දීල ගන්න ආපු කර් එක පැහැරගෙන ගිහින්
+### The arrival of the money is kidnapped
 
 *2024-03-21 11:20:00* · [`adalk`](https://www.ada.lk/breaking_news/සල්ලිි-දීල-ගන්න-ආපු-කර්-එක-පැහැරගෙන-ගිහින්/11-408738) · `si`
 
-අන්තර්ජාලයේ පලකල දැන්වීමකට අනුව රුපියල් ලක්ෂ 33 මෝටර් රථය මිලදී ගැනීමට පැමිණි පුද්ගලයකු එය පරික්ෂා කරන මුවාවෙන් කොල්කාගෙන ගොස් තිබියදී දින 4 කට පසු වාද්දුව වේරගමදී අත්අඩංගුවට ගත් බව හොරණ මූලස්ථාන පොලිසිය කියයි
+A man arrested in Wadduwa Wadugama, four days after buying a car, was identified by CCTV footage from Kankunwila to Wadduwa. He was a car repairman, and the stolen car was not taken to court.
 
-සැකකරු අත්අඩංගුවට ගෙන ඇත්තේ සීසීටීවී කැමරා දර්ශන 20 කට ආසන්න ප්‍රමාණයක දර්ශන  පරික්ෂා කිරීමෙන් අනතුරුවය
+🟩
 
-ඉකුත් 17 වැනි දින සැකකරු මෝටර් රථය මිලදී ගැනීමේ මුවාවෙන් පැමිණ  එය පරික්ෂා කිරීමට අවශ්‍ය බවට පවසා මෝටර් රථයේ හිමිකරුද  නන්වාගෙන හොරණ කණන්විල මාර්ගයේ ගොස් කනත්ත ආසන්නයේදී  එන්ජින් එකේ දෝෂයක් පැමිණෙන බවට හඟවා මෝටර් රථය එකවරම තිරිංග තදකර නතර කර ඇතැයි පොලිසිය කියයි
+According to an Internet notice, a person who had come to buy the car was arrested in Wadduwa Wadugama, four days after the preception of it was checked.
 
-එම අවස්ථාවේදී සැකකරු ඉදිරිපස බොනට්ටුව විවෘත කර ඇති අතර මෝටර් රථය හිමිකරු වම්පස දොර විවෘත කර මෝටර් රථයෙන් බැස එන්ජිම දෙසට යාමත්  සමගම රියදුරු අසුනේ සිටි සැකකරු මෝටර් රථය ඔහු දෙසට එකවරම  හරවා මෝටර් රථය වේගයෙන් පදවාගෙන පලා ගොස් තිබූ බව පොලිසිය කියයි.
+The suspect was arrested after he inspected the views of nearly 20 celebrations
 
-...
+Police say that the car was also tightened by the horana Kannanwila road and had to go to the Horana Kannankaduvila road and to visit the horana to visit the car in the face of purchasing the car.
+
+The suspect has opened the front bont at the time and the car has opened the door to the left and the owner and headed to the engine, police said.
+
+According to the police station of Horana Police, nearly 20 CCTV views from Kankunwila to Wadduwa, the suspect was identified with the car at his home.
+
+Investigations have revealed that the suspect is a car repairman and the stolen police are not taken to the Horana Magistrate's Court.
+
+◼️
 
 [Data](articles/06ce4bb5.json)
+
+[Extended Data](ext_articles/06ce4bb5.ext.json)
 
 ---
 
@@ -2119,91 +2201,5 @@ Eight people arrested by the police in connection with the event of the Sivaratr
 [Data](articles/e43f4e56.json)
 
 [Extended Data](ext_articles/e43f4e56.ext.json)
-
----
-
-### The new brigade causes conflicts
-
-*2024-03-21 01:24:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-படையணி-முரண்பாடுகளை-ஏற்படுத்தும்/175-334965) · `ta`
-
-Suresh Premachandran warns against creating a new brigade of sea guards, fearing it could lead to conflicts between Indian and Sri Lankan fishermen. He suggests the Indian government should address the issue directly, advising against involving fishermen in a civil voluntary army.
-
-🟩
-
-Former parliamentarian Suresh Premachandran has said that the creation of a new brigade in the name of sea guards in the name of sea guards, speaking to the Indian government and reaching the solution to the Indian dragon issue.
-
-Jaffna regarding contemporary conditions. He was speaking at a media briefing held at the Media Center on Tuesday (19).
-
-“Indo -Sri Lankan fishermen's problems need to be solved. Speaking to the Ministry of Department of India, Eelam fishermen should be resolved in a way. It is not healthy for the fishermen of Tamil Nadu to create a civil voluntary army as sea guards. This will cause conflict among the fishermen of the two countries.
-
-If this happens, the struggle of Tamil Nadu fishermen against the Sri Lankan government will return to the Eelam Tamils.
-
-...
-
-[Data](articles/1a1d8320.json)
-
-[Extended Data](ext_articles/1a1d8320.ext.json)
-
----
-
-### Catastrophe
-
-*2024-03-21 01:20:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்றாலை-மின்-உற்பத்தி-சுற்றாடலுக்கு-பேரழி/175-334964) · `ta`
-
-Sajith Premadasa warns the Mannar Island Wind Power Plant could be an environmental disaster, emphasizing the need for optimal location and investment areas for renewable energy projects. He criticizes the project's environmental impact assessment, highlighting risks to bird migration and calling for transparency in project implementation.
-
-🟩
-
-Opposition Leader Sajith Premadasa has warned that the Mannar Island Wind Power Plant could be an environmental disaster.
-
-Although increased investment of renewable energy resources for energy production is optimal, it is necessary to choose the best alternative location and the most effective investment areas in the implementation of such projects. The Opposition Leader said that many experts have pointed out that the construction of the wind power station in Mannar, which is the Bird Sanctuary, has been a project that can be implemented by the environment.
-
-Opposition Leader Sajith Premadasa warned when he was questioned in Parliament on Wednesday (20) under the Standing Orders (2) (20) under the Standing Ordinance of the Government of the Environmental Power Plant by the Mannar Wind Power Plant.. As he talks further,
-
-...
-
-[Data](articles/2c2986c0.json)
-
-[Extended Data](ext_articles/2c2986c0.ext.json)
-
----
-
-### The closure of the hospital is the act of destroying society
-
-*2024-03-21 01:12:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலையை-மூடுவது-சமுதாயத்தை-அழிக்கின்ற-செயல்/175-334963) · `ta`
-
-The closure of a hospital in Tirukkovil, following a student's death, has led to public outcry and demands for its reopening. The Tamil National Alliance (TNA) Jaffna and District MP Sridharan have called for immediate closure and reopening to cover up mistakes. The hospital has been closed for 11 days, affecting over 340 patients.
-
-🟩
-
-The Tamil National Alliance (TNA) Jaffna Jaffna should take steps to close the hospital immediately and to open the hospital immediately to complete the work of closing the hospital in Tirukovil to cover up their mistakes.. District MP. யான யான யான யான யான யான யான. Sreedharan stressed.
-
-Sridharan MP stressed this while addressing the debate on the 2nd day of the no -confidence motion against the Speaker in Parliament on Wednesday (20).. Continue to speak,
-
-Jayakumar Vidurjan (16 years old), a student of Methodist Tamil Vidyalaya in Tirukkovil in Ampara district, was admitted to the Akkaraipattu Hospital for further treatment for further treatment when he was suddenly unconscious.
-
-...
-
-[Data](articles/6b2f3f7e.json)
-
-[Extended Data](ext_articles/6b2f3f7e.ext.json)
-
----
-
-### Underworld gunman and STF member injured in shootout at Ganemulla
-
-*2024-03-21 00:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98090/underworld-gunman-and-stf-member-injured-in-shootout-at-ganemulla) · `en`
-
-A suspect has opened fire at Police Special Task Force (STF) personnel while they were engaged in searching a house in the Ganemulla area.
-
-One of the STF personnel was injured in the incident while the suspect was also injured when police had returned fire. Both have been hospitalised.
-
-The gunman is suspected to be involved in several previous underworld gang related shootings, police said.
-
-◼️
-
-[Data](articles/92963cbb.json)
-
-[Extended Data](ext_articles/92963cbb.ext.json)
 
 ---

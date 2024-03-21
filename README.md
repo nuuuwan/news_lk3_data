@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 16:48:50**
+As of **2024-03-21 17:03:05**
 
 ## Newspaper Stats
 
-*Scraped **14,355** Articles*
+*Scraped **14,366** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,161 @@ islandlk | 783
 adalk | 1,240
 adaderanalk | 1,723
 tamilmirrorlk | 1,737
-virakesarilk | 2,018
-dailymirrorlk | 2,199
-adaderanasinhalalk | 2,291
+virakesarilk | 2,024
+dailymirrorlk | 2,203
+adaderanasinhalalk | 2,292
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,354 (100.0%) of 14,355 articles have been extended.
+14,355 (99.9%) of 14,366 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### උද්ධමනයේ සිදුවූ අලුත්ම වෙනස
+### No-faith motion against Speaker defeated
+
+*2024-03-21 16:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-faith-motion-against-Speaker-defeated/108-279332) · `en`
+
+The No-Confidence Motion brought against Speaker Mahinda Yapa Abeywardhane by the Opposition was defeated with a majority of 42 votes a short while ago.
+
+The vote on the No-Confidence Motion was taken in Parliament following a three-day debate.
+
+A total of 117 MPs voted against the motion while 75 MPs voted in favour.
+
+◼️
+
+[Data](articles/397d83b8.json)
+
+---
+
+### "தமிழ் அரசியல் கைதிகள் விடுதலை" எனும் செய்தியுடன் ஜனாதிபதி யாழ் வர வேண்டும் - குரலற்றவர்களின் குரல் அமைப்பின் ஒருங்கிணைப்பாளர்
+
+*2024-03-21 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/179357) · `ta`
+
+"தமிழ் அரசியல் கைதிகள் விடுதலை" எனும் செய்தியுடன் ஜனாதிபதி யாழ்ப்பாணத்திற்கு வருகை தர வேண்டும் என குரலற்றவர்களின் குரல் அமைப்பின் ஒருங்கிணைப்பாளர் முருகையா கோமகன் கோரியுள்ளார்.
+
+யாழ்ப்பாணத்திற்கு நாளைய தினம் வெள்ளிக்கிழமை ரணில் விக்கிரமசிங்க வருகை தரவுள்ள நிலையில் , இன்றைய தினம் வியாழக்கிழமை யாழ்.ஊடக அமையத்தில் குரலற்றவர்களின் குரல் அமைப்பாளர் நடாத்திய ஊடக சந்திப்பின் போதே அவ்வாறு கோரிக்கை விடுத்தார்.
+
+யாழ்ப்பாணத்திற்கு வருகை தரவுள்ள ஜனாதிபதி யாழில். கடந்த 33 வருட காலமாக இராணுவ கட்டுப்பாட்டில் இருந்த சுமார் 278 ஏக்கர் காணிகளை அதன் உரிமையாளர்களிடம் மீள கையளிக்கவுள்ளார். இதனை நாம் வரவேற்கிறோம்.
+
+தமிழர் பிரச்சனைகளில் அவசரமாகவும் , அவசியமாகவும் தீர்க்கப்பட வேண்டிய பிரச்சனைகளாக , காணி விடுவிப்பு , தமிழ் அரசியல் கைதிகளின் விடுவிப்பு , காணாமல் ஆக்கப்பட்டவர்களின் பிரச்சனை உள்ளிட்டவை உள்ளன.
+
+காணி விடுவிப்பு நடவடிக்கைகளை நாம் வரவேற்கும் அதே நேரம் , தொல்லியல் திணைக்களம் , வனவள திணைக்களங்கள் ஊடாக தமிழ் மக்களின் காணிகளை மீள கையகப்படுத்தும் நடவடிக்கைகளை நாம் கண்டிக்கிறோம்.
+
+...
+
+[Data](articles/dc8a2697.json)
+
+---
+
+### කථානායකට එරෙහි විශ්වාසභංගය වැඩි ඡන්දයෙන් පරදියි
+
+*2024-03-21 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194785) · `si`
+
+කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව අද (21) වැඩි ඡන්දයෙන් පරාජයට පත්විය.
+
+කථානායක මහින්ද යාපා අබේවර්ධන මහතාට එරෙහි විශ්වාසභංග යෝජනාව පිළිබඳ විවාදය දින තුනක් පුරා සිදුකෙරුණි.
+
+◼️
+
+[Data](articles/b784fce3.json)
+
+---
+
+### வடக்கின் கடற்றொழிலாளர்களது உணர்வுகளை நான் எப்போதும் மதிப்பவன் - அமைச்சர் டக்ளஸ் தெரிவிப்பு!
+
+*2024-03-21 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/179355) · `ta`
+
+வடக்கின் கடற்றொழிலாளர்களது உணர்வுகளை நான் எப்போதும் மதிப்பவன் என தெரிவித்துள்ள அமைச்சர் டக்ளஸ் தேவானந்தா அவர்கள் முன்னெடுத்தவரும் உண்ணாவிரதப் போராட்டமும் வெற்றி கண்டிருக்கிறது எனவும் தெரிவித்துள்ளார்.
+
+சபாநாயகர் மகிந்த யாப்பா அபேவர்தன அவர்களுக்கு எதராக எதிர்க்கட்சிகளால் கொண்டுவரப்பட்டுள்ள நம்பிக்கையில்லாப் பிரேரணை தொடர்பிலும் நாட்டில் நிலவும் சில பிரச்சினைகள் தொடர்பிலும் உரையாற்றுகையிலேயே அவர் இவ்வாறு தெரிவித்துள்ளார்.
+
+இந்திய இழுவை மடி வலைப் படகுகளின் எல்லைத் தாண்டியதும், அத்துமீறியதும், தடைசெய்யப்பட்ட கடற்றொழில் உபகரணங்களைக் கொண்ட கடற்றொழில் முறைமையினாலும், பாதிக்கப்பட்டு வருகின்ற வடக்கு கடற்றொழிலாளர்களின் நிலைமைகளை உலகுக்கு எடுத்துக் காட்டும் வகையில் யாழ்ப்பாண மாவட்ட கடற்றொழிலாளர்கள் முன்னெடுத்து வருகின்ற உண்ணாவிரதப் போராட்டமானது இன்று மூன்றாவது நாளாகவும் தொடர்கிறது.
+
+...
+
+[Data](articles/3002b0a6.json)
+
+---
+
+### Approval of Sri Lankan government falls to 7% in February
+
+*2024-03-21 16:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Approval-of-Sri-Lankan-government-falls-to-7-in-February/108-279331) · `en`
+
+Colombo, March 21 - The approval rating of the government fell from 9% in October 2023 to 7% in February 2024, according to the latest round of the Gallup style ‘Mood of the Nation’ poll of Verité Research.
+
+The survey showed that only 9% rated the current economic conditions as either excellent or good, which is a drop from 16% in October 2023.
+
+Further, 90% thought that the economic conditions in the country were getting worse, whereas in October 2023 only 66% had this negative view.
+
+To the question, “Do you approve or disapprove of the way the current government is working?”, 7% (almost 7.5%) of the respondents said that they approve (with an error margin of ± 1.81%). The percentage saying they disapproved was 85%. The approval rating is its lowest since June 2022.
+
+...
+
+[Data](articles/05c4996e.json)
+
+---
+
+### The latest difference in inflation
 
 *2024-03-21 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194784) · `si`
 
-2024 ජනවාරි මාසයේදී 6.5% ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය 2024 පෙබරවාරි මාසය සඳහා 5.1% ක් දක්වා අඩුවී ඇත.
+In January 2024, the country's inflation was 5.1%, with food inflation rising to 5.0% and non-food category inflation dropping to 5.1%.
 
-2024 ජනවාරි මාසයේ දී 4.1% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 පෙබරවාරි මාසයේ දී 5.0% ක් දක්වා වැඩි වී තිබේ.
+🟩
 
-එමෙන්ම, 2024 ජනවාරි මාසයේදී 8.5% ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 පෙබරවාරි මාසයේ දී 5.1% ක් දක්වා අඩු වී ඇත.
+In January 2024, the country's inflation recorded to 5.1% for February 2024.
+
+In January 2024, the point inflation in the food category recorded in January 2024 increased to 5.0% in February 2024.
+
+Also, in January 2024, 85% of the non-food category of food has been reduced to 5.1% in February 2024.
 
 ◼️
 
 [Data](articles/139b38d3.json)
+
+[Extended Data](ext_articles/139b38d3.ext.json)
+
+---
+
+### வவுனியாவில் இடம்பெற்ற விபத்தில் இருவர் படுகாயம்
+
+*2024-03-21 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179351) · `ta`
+
+வவுனியா, வைரவபுளியங்குளம் பகுதியில் இடம்பெற்ற விபத்தில் இருவர் காயமடைந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+வவுனியா, வைரபுளியங்குளம், புகையிரதநிலைய வீதியில் இன்று புதன்கிழமை (21) மதியம் இவ் விபத்து இடம்பெற்றது. இது குறித்து மேலும் தெரியவருவதாவது,
+
+வவுனியா நகரப் பகுதியில் புகையிரத நிலைய வீதி ஊடாக சென்ற முச்சக்கரண்டி கதிரேசு வீதியில் திரும்ப முற்பட்ட வேளையில் வைரவபுளியங்குளத்தில் இருந்து வவுனியா நகரம் நோக்கி சென்ற மோட்டர் சைக்கிளுடன் மோதி விபத்துக்குள்ளானது.
+
+விபத்தில் முச்சக்கர வண்டி மற்றும் மோட்டர் சைக்கிள் சாரதிகள் இருவரும் படுகாயமடைந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். இரு வாகனங்களும் கடுமையாக சேதமடைந்துள்ளதுடன், குறித்த விபத்து தொடர்பில் வவுனியா போக்குவரத்து பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/41d4c051.json)
+
+---
+
+### வெடுக்குநாறிமலை பூசாரி வைத்தியசாலையில் அனுமதி
+
+*2024-03-21 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179350) · `ta`
+
+வெடுக்குநாறி மலையின் பிரதான பூசாரியான தம்பிராசா மதிமுகராசா சுகவீனம் காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+வவுனியா வடக்கு, வெடுக்குநாறிமலை ஆதிசிவன் ஆலயத்தில் கடந்த சிவராத்திரி தினத்தன்று பொலிசாரின் வன்முறையால் ஆலயபூசகர் உள்ளிட்ட 8 பேர் கைது செய்யப்பட்டிருந்தனர். அவர்கள் கடந்த 19 ஆம் திகதிவரை விளக்கமறியலில் வைக்கப்பட்டனர்.
+
+இந்நிலையில் குறித்த எட்டுப்பேரையும் விடுதலைசெய்து வவுனியா நீதிமன்று நேற்று முன்தினம் உத்தரவு பிறப்பித்தது.
+
+இந்நிலையில் விடுதலையான ஆலயத்தின் பூசாரியார் சுகவீனமடைந்த நிலையில் முல்லைத்தீவு மாஞ்சோலை வைத்தியசாலையில் நேற்று அனுமதிக்கப்பட்டுள்ளார்.
+
+அவர் கைது செய்யப்பட்டவர்களுக்கு நீதி கிடைக்க வேண்டும் என்ற கோரிக்கையினை வலியுறுத்தி 5 நாட்கள் சிறைச்சாலையில் உண்ணாவிரதம் இருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/1d51093c.json)
 
 ---
 
@@ -65,6 +193,38 @@ Taking to X (formerly Twitter) to announce this, MP de Silva said: “I am glad 
 [Data](articles/1b302f51.json)
 
 [Extended Data](ext_articles/1b302f51.ext.json)
+
+---
+
+### முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்சவின் பிரத்தியேக செயலாளருக்கு எதிராக முஜிபுர் ரஹ்மான் குற்றப்புலனாய்வுத் திணைக்களத்தில் முறைப்பாடு
+
+*2024-03-21 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179349) · `ta`
+
+சுகீஸ்வர பண்டார அண்மையில் யூடியூப் சேனலுக்கு அளித்த பேட்டியில் தெரிவித்த கருத்து தொடர்பில், 2007 ஆம் ஆண்டின் 56 ஆம் இலக்க சிவில் மற்றும் அரசியல் உரிமைகள் தொடர்பான சர்வதேச உடன்படிக்கையின் (ICCPR) சட்டத்தின் 3 (1) வது பிரிவின் அடிப்படையில் இது குற்றமாகும் என்பதால் இது குறித்து தேவையான விசாரணையை முன்னெடுகக் கோரி முன்னாள் பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான் குற்றப் புலனாய்வுத் திணைக்களத்தில் முறைப்பாடு ஒன்றினை இன்று(20.03.2024) பதிவு செய்தார்.
+
+முறைப்பாட்டை தொடர்ந்து ஊடகங்களுக்கு கருத்துத் தெரிவித்த முன்னாள் பாராளுமன்ற உறுப்பினர் முஜிபுர் ரஹ்மான்;
+
+இறுதியாக இடம்பெற்ற 2019 ஜனாதிபதி தேர்தலுக்கு சரியாக ஆறு மாதங்களுக்கு முன்னர் உயிர்த்த ஞாயிறு தாக்குதல் இடம்பெற்றது. இவ்வருடம் ஒக்டோபரிலும் ஜனாதிபதி தேர்தலை எதிர்நோக்கியுள்ள நிலையில்,மீண்டும் இந்நாட்டில் இனவாதம், மதவாதம்,இனங்களுக்கிடையிலான விரிசல்,சந்தேகங்களை தோற்றுவித்து அரசியல் ரீதியிலான நலவுகளை பெற்றுக்கொள்வதற்கு பெரும் பிரயத்தனங்கள் எடுக்கப்பட்டு வருகின்றன.
+
+...
+
+[Data](articles/8ba12511.json)
+
+---
+
+### ‘If I am fit to become MP, why can’t I function as COPE Chair?’ asks Rohitha
+
+*2024-03-21 16:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/If-I-am-fit-to-become-MP-why-cant-I-function-as-COPE-Chair-asks-Rohitha/108-279330) · `en`
+
+Parliament, March 21 (Daily Mirror)- COPE Chairman MP Rohitha Abeygunawardane asked today if he was fit to be elected as a Member of Parliament, why he cannot function as the Chairman of the Committee on Public Enterprises (COPE).
+
+Abeygunawardane told Parliament that Standing Orders must include qualifications required to hold the Chairmanship of Parliamentary Committees such as COPE and COPA.
+
+“We must include in Standing Orders the educational qualifications required to hold the Chairmanship of the COPE, COPA and other committees. Being an MP alone is not sufficient to become a Chair of a Committee. I was elected to Parliament by the people of the Kalutara District. If I am fit to be elected as an MP, why can’t I function as COPE Chair? When I was elected COPE Chair, the opposition hurled allegations against me,” he said.
+
+...
+
+[Data](articles/aca81c5c.json)
 
 ---
 
@@ -89,6 +249,46 @@ In this year, he is playing the Chennai team in the IPL series, without the resp
 [Data](articles/74020bcb.json)
 
 [Extended Data](ext_articles/74020bcb.ext.json)
+
+---
+
+### Meghalaya Law University to enroll Lankan students, exam on April 20
+
+*2024-03-21 16:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Meghalaya-Law-University-to-enroll-Lankan-students-exam-on-April-20/108-279329) · `en`
+
+National Law University Meghalaya (NLU Meg) said in a media release last week that it is extending its reach to aspiring students in Sri Lanka by scheduling admission tests in Colombo.
+
+NLU Meg is inviting aspiring students for Undergraduate, Postgraduate, and Ph.D. programs for the academic year 2024.
+
+The admission tests are scheduled for April 20, 2024, at Gateway College, Colombo 185, Koswatta Road, Rajagiriya, Colombo.
+
+For further information or clarification, students can contact Ms. Idarilang Syiemlieh at the University by calling +91-364-3507700 (Extension-35) or emailing ida@nlumeg.ac.in.
+
+Established under the National Law University of Meghalaya Act, 2022, NLU Meg is committed to revolutionizing legal education in line with India's New Education Policy. The university aims to foster the next generation of legal professionals and scholars through interdisciplinary academic programs.
+
+◼️
+
+[Data](articles/151e5407.json)
+
+---
+
+### யாழில் அரிசியை கொள்வனவு செய்து மோசடியில் ஈடுபட்ட காலியை சேர்ந்தவர் கைது
+
+*2024-03-21 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/179346) · `ta`
+
+யாழ்ப்பாணத்தில் உள்ள பிரபல அரிசி ஆலை ஒன்றில் , 50 இலட்சத்து 40 ஆயிரம் ரூபாய் பெறுமதியான அரிசி மூடைகளை கொள்வனவு செய்து விட்டு , பணத்தினை வழங்காது மோசடி செய்த குற்றச்சாட்டில் காலியை சேர்ந்த வர்த்தகர் ஒருவர் யாழ்ப்பாண பொலிஸாரினால் கைது செய்யப்பட்டுள்ளார்.
+
+யாழில் உள்ள பிரபல அரிசி ஆலை ஒன்றில் 25 கிலோ எடையுள்ள ஆயிரத்து 200 அரிசி மூடைகளை காலியில் உள்ள மொத்த விற்பனை நிலைய உரிமையாளர் ஒருவர் கொள்வனவு செய்துள்ளார்.
+
+அரிசி மூடைகளை யாழில் இருந்து , காலி பகுதியில் உள்ள மொத்த விற்பனை நிலையத்திற்கு லொறியில் சென்று கொடுத்த யாழை சேர்ந்தவர்கள் அரிசி மூடைக்கான பணத்தினை தருமாறு கோரிய போது , பணத்தினை தாம் இடை தராகரிடம் வழங்கி விட்டதாக கூறியுள்ளனர்.
+
+ஆனால் அந்த பணம் விற்பனையாளரிடம் வந்து சேராமையால் , அவர் அது தொடர்பில் யாழ்ப்பாண பொலிஸ் நிலையத்தில் முறைப்பாடு செய்திருந்தார்.
+
+முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த பொலிஸார் காலியில் அரிசியை கொள்வனவு செய்தவரிடம் விசாரணைகளை முன்னெடுத்த வேளை , தான் யாழ்ப்பாணத்தில் யாரிடமும் அரிசியை கொள்வனவு செய்யவில்லை என பதில் அளித்துள்ளார்.
+
+...
+
+[Data](articles/bc2002b8.json)
 
 ---
 
@@ -2049,239 +2249,5 @@ The Minister who returned to the country told the media that he was invited to p
 [Data](articles/8e43a740.json)
 
 [Extended Data](ext_articles/8e43a740.ext.json)
-
----
-
-### STF. Organized criminal killed in a shot
-
-*2024-03-21 10:37:33* · [`adalk`](https://www.ada.lk/breaking_news/එස්-ටී-එෆ්--වෙඩි-පහරින්-සංවිධානාත්මක-අපරාධකරුවෙක්-මරුට/11-408734) · `si`
-
-An organized criminal was killed in a shootout between a STF member and organized crime in Ramamam Mawatha, Ramamulla. The STF raided the incident based on a tip, resulting in the suspect's death and injuring a STF officer. The victim, a 28-year-old resident of Eheliyagoda, was shot in the Balawatta area, Ja-Elan, on 09.
-
-🟩
-
-Organized criminali member member has died due to a shooting between a member of the STF and organized crime.
-
-The STF raided the shooting in the Manammam Mawatha, Ramamam Mawatha, Ramamulla on a tip off received by the Special Task Force in the Ganela Maha Path.
-
-The suspect was killed in the shooting and a special task officer in the area and injuring a STF officer in the Ragama hospital.
-
-The victim is the shotgrove at the shooting incident in the Balawatta area in Ja-Elan on 09.
-
-The suspect is a 28 year old residents of Eheliyagoda and he has fled the military.
-
-◼️
-
-[Data](articles/9ffc6361.json)
-
-[Extended Data](ext_articles/9ffc6361.ext.json)
-
----
-
-### Legislation to suspend Parate execution presented to Parliament
-
-*2024-03-21 10:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Legislation-to-suspend-Parate-execution-presented-to-Parliament/108-279314) · `en`
-
-Parliament, March 21 (Daily Mirror)- The Recovery of Loans by Banks (Special provisions) Bill which seeks to suspend the Parate Execution was presented to Parliament by State Minister of Finance today.
-
-◼️
-
-[Data](articles/ba53c075.json)
-
-[Extended Data](ext_articles/ba53c075.ext.json)
-
----
-
-### Bandula last won by President Rajapaksa sudden
-
-*2024-03-21 10:31:43* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකා-ගිය-බන්දුල-ජනපතිගේ-දැනුම්-දීමකට-හදිසියේම-ලංකාවට-එයි/11-408733) · `si`
-
-Dr. Bandula Gunawardena, who attended a World Bank convention in the US, was summoned back to Sri Lanka by President Rajapaksa to attend an election.
-
-🟩
-
-Dr. Bandula Gunawardena, who was gone to Washington in the US, has returned to the island yesterday (20) by the President yesterday.
-
-The no-confidence motion against the Speaker, he has been summoned to the island to attend the election.
-
-Bandula Gunawardena had gone to the United States to join a convention organized by the World Bank.
-
-◼️
-
-[Data](articles/c3519169.json)
-
-[Extended Data](ext_articles/c3519169.ext.json)
-
----
-
-### President promises Mahaweli business
-
-*2024-03-21 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194766) · `si`
-
-President Ranil Wickremesinghe highlighted the importance of the Mahaweli Campaign and Bills, crediting Gamini Dissanayake for Sri Lanka's self-sufficiency and electricity. Dissanayake, a distinguished politician, was celebrated for his role in the Mahaweli Development Project, which transformed Sri Lanka's history.
-
-🟩
-
-President Ranil Wickremesinghe says that the country will be able to develop the people with the advice of the Mahaweli Campaign and Bills from the Mahaweli Campaign.
-
-The President pointed out that if Gamini Dissanayake had not implemented a unique transformation in the history of the history of Sri Lanka, the country was not able to self-sufficient today and could not be able to get the electricity to the country.
-
-The second birthdant Gamini Dissanayake, a distinguished politician, was held yesterday under the patronage of President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/c8bde657.json)
-
-[Extended Data](ext_articles/c8bde657.ext.json)
-
----
-
-### 19 suspects in related to underworld activities
-
-*2024-03-21 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179287) · `ta`
-
-19 suspects linked to underworld activities in Sri Lanka were arrested by the Colombo Crime Unit, including those involved in drug trafficking. Four were arrested with drugs, and a suspected gunman was killed by police.
-
-🟩
-
-Sri Lankan police have said that 19 persons have been arrested in connection with the underworld gang under the Uttar Pradesh, which is being carried out by the police to curb the activities of drugs and underworld groups in the country.
-
-Accordingly, four suspects belonging to three organized criminal gangs with ice, heroin and swords were arrested on Wednesday (20).
-
-The arrested suspects are aged 44, 26, 23 and 28, from Maradana, Mukhthavaram, Grandpass and Maligawatte.
-
-They have been arrested by the Colombo Crime Unit (CCD) while holding 2 grams of 450 milligrams of heroin, 7 g 510 milligrams of ice and 3 grams of 160 milligrams of ice.
-
-Meanwhile, a man suspected of being a gunman of the underworld has been killed in a shooting with a police Special Task Force in Ganemulla on Wednesday night (20).
-
-◼️
-
-[Data](articles/059c1ecf.json)
-
-[Extended Data](ext_articles/059c1ecf.ext.json)
-
----
-
-### Trying to make changes in parliamentary electoral system - Powell fears that election may be delayed
-
-*2024-03-21 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/179282) · `ta`
-
-Powell Garisan warns elections may be delayed due to changes in parliamentary electoral system. Rohana Hettiarachchi, Executive Commissioner, emphasizes the need for border measures to be completed before electoral changes. If changes are not implemented by August, the Election Commission should hold elections under the current system.
-
-🟩
-
-The election monitoring organization Powell Garisan has issued a statement that the elections may be delayed due to efforts to make changes in parliamentary electoral system.
-
-The Executive Commissioner of the Powell Organization, Rohana Hettiarachchi, said the elections could be delayed if the proposals were not properly implemented.
-
-He emphasized the need to change electoral systems, while the border measures should be completed before the parliamentary electoral system changes.
-
-He said that even if the border measures are not fulfilled or the electoral changes within the month of August, the Election Commission should include the amendment to the Election Commission to hold elections under the existing election system.
-
-Rohana Hettiarachchi pointed out that the postponement of the local government and provincial council elections was due to delays in border activities.
-
-◼️
-
-[Data](articles/d1aa07f4.json)
-
-[Extended Data](ext_articles/d1aa07f4.ext.json)
-
----
-
-### National Seafarers’ Day announced
-
-*2024-03-21 10:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/National-Seafarers-Day-announced/108-279309) · `en`
-
-The National Seafarers' Day was officially declared today by the Ports, Shipping and Aviation Minister Nimal Siripala de Silva.
-
-The official day was gazetted declaring the 21st of March as the National Seafarers' Day in recognition of the invaluable service of the Sri Lankan Seafarer to the global economy and trade. The initiative aims to raise awareness on the significance of the maritime industry and the role of seafarers in facilitating international commerce.
-
-More than 90% of the global trade is by sea. The sustenance and the growth of the world economy hinges heavily on the ships that trade worldwide. During extraordinary challenging times, like, during the Covid-19 pandemic, the professionalism and resilience of the seafarers were at the core of sustaining vital supply chains and transportation.
-
-◼️
-
-[Data](articles/e5876dd6.json)
-
-[Extended Data](ext_articles/e5876dd6.ext.json)
-
----
-
-### The America-lasting Bandula returns
-
-*2024-03-21 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194765) · `si`
-
-Minister Bandula Gunawardena arrived in Sri Lanka for a World Bank convention, then attended a no-confidence motion against the Speaker.
-
-🟩
-
-Minister Bandula Gunawardena arrived in the island yesterday to attend a convention organized by the World Bank.
-
-After the Minister arrived in Sri Lanka, he said that he was summoned to attend the no-confidence motion against Speaker.
-
-◼️
-
-[Data](articles/1ca217d6.json)
-
-[Extended Data](ext_articles/1ca217d6.ext.json)
-
----
-
-### Third day of debate on no-confidence motion against Speaker begins
-
-*2024-03-21 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98096/third-day-of-debate-on-no-confidence-motion-against-speaker-begins-) · `en`
-
-The third day of the parliamentary debate on the no-confidence motion against Speaker Mahinda Yapa Abeywardena commenced at 09.30 a.m. today (March 21).
-
-The debate is slated to end at 4.30 p.m. followed by a vote on the no-confidence motion.
-
-The parliamentary debate on the no-confidence motion tabled by the Samagi Jana Balawegaya (SJB) was initially slated to be held for two days, however the Committee on Parliamentary Business later decided for it to be debated for three consecutive days.
-
-The debate commenced in the Parliament on Tuesday (March 19).
-
-The motion brought forth by the opposition against the Speaker was officially handed over to the Deputy General Secretary of Parliament on March 05.
-
-...
-
-[Data](articles/2bbae5be.json)
-
-[Extended Data](ext_articles/2bbae5be.ext.json)
-
----
-
-### Sri Lanka to start talks to restructure bonds next week - report
-
-*2024-03-21 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98095/sri-lanka-to-start-talks-to-restructure-bonds-next-week-report) · `en`
-
-Global investors and Sri Lanka officials expect to start negotiations aimed at restructuring $12 billion in defaulted global bonds next week, according to people familiar with the matter. The nation’s dollar bonds rose.
-
-A group of bondholders, known as a steering committee, will begin talks as they weigh a proposal from the government to rework the overseas debt that has been in default since 2022, the people said, declining to be named because negotiations are private. The goal is to reach a deal quickly, the people said, particularly as Sri Lanka is scheduled to hold presidential elections later this year.
-
-The nation’s central bank governor and treasury secretary are due to travel to Europe for discussions with bondholders, President Ranil Wickremesinghe was cited as saying in a Sinhala-language statement from his media unit March 20.
-
-...
-
-[Data](articles/9465212d.json)
-
-[Extended Data](ext_articles/9465212d.ext.json)
-
----
-
-### Jaffna Pallakalai students lodged a complaint with the Human Rights Commission of Sri Lanka
-
-*2024-03-21 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179280) · `ta`
-
-Jaffna University students complained to Sri Lanka's Human Rights Commission about police Aramalai.
-
-🟩
-
-The Jaffna University students have lodged a complaint with the Human Rights Commission of Sri Lanka regarding the police Aramalai.
-
-The Jaffna University of Jaffna has lodged a complaint with the Jaffna Human Rights Commission at the Jaffna Regional Office on Wednesday (20) regarding human rights violations at Vidukkunni Mountain on the last day of Mahasivarathri.
-
-◼️
-
-[Data](articles/4bf6d024.json)
-
-[Extended Data](ext_articles/4bf6d024.ext.json)
 
 ---

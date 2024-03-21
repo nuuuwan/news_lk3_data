@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 04:51:43**
+As of **2024-03-22 05:02:49**
 
 ## Newspaper Stats
 
-*Scraped **14,411** Articles*
+*Scraped **14,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 133
 bbccomsinhala | 158
 dbsjeyarajcom | 190
 newsfirstlk | 363
-dailyftlk | 756
 economynextcom | 764
+dailyftlk | 765
 islandlk | 783
 adalk | 1,246
 adaderanalk | 1,731
@@ -26,11 +26,151 @@ adaderanasinhalalk | 2,301
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,411 (100.0%) of 14,411 articles have been extended.
+14,411 (99.9%) of 14,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### MPs debate CoPF Report: Concerns mount over CBSL Act interpretation
+
+*2024-03-22 04:52:13* · [`dailyftlk`](https://www.ft.lk/news/MPs-debate-CoPF-Report-Concerns-mount-over-CBSL-Act-interpretation/56-759788) · `en`
+
+The Members of the Parliament yesterday continued to debate on the growing concerns and differing interpretations regarding the role and authority of the Central Bank (CBSL), highlighting the need for clarity and consensus on matters of financial governance.
+
+MP Prof. Charitha Herath raised a point of order, expressing concerns about the implications of the CBSL salary hike report submitted by Committee on Public Finance (CoPF) Chairman Dr. Harsha de Silva on the future Parliamentary decisions.  He explained that the report's stance on the independence of the Central Bank of Sri Lanka Act raised potential issues, calling for clarification from the Attorney General.
+
+...
+
+[Data](articles/2140b06f.json)
+
+---
+
+### AKD to meet Tamil and Muslim diaspora in Canada
+
+*2024-03-22 04:50:52* · [`dailyftlk`](https://www.ft.lk/news/AKD-to-meet-Tamil-and-Muslim-diaspora-in-Canada/56-759787) · `en`
+
+National People’s Party (NPP) leader Anura Kumara Dissanayake will tour Canada this week to meet supporters of the party residing in the country.
+
+The party said Dissanayake left for Canada on Wednesday and will address several public gatherings during his visit.
+
+Dissanayake is slated to speak at two gatherings arranged by the NPP Canada Committee on 23 and 24 March. The initial meeting is set to take place in Toronto, followed by the second meeting in Vancouver.
+
+The NPP leader will also meet with members of the Sri Lankan Muslim and Tamil diaspora residing in Canada during the visit. The visit will highlight the importance of engaging with the Sri Lankan diaspora and fostering closer ties between Canada and Sri Lanka.
+
+Dissanayake met with Canadian High Commissioner to Sri Lanka Eric Walsh at the Janatha Vimukthi Peramuna (JVP) Office in March where his Canadian visit was also taken up for discussion. At the time Walsh extended his wishes to Dissanayake for the visit.
+
+◼️
+
+[Data](articles/a763e7fd.json)
+
+---
+
+### NPP most suitable camp for women – Harini tells diaspora meeting in London
+
+*2024-03-22 04:49:20* · [`dailyftlk`](https://www.ft.lk/news/NPP-most-suitable-camp-for-women-Harini-tells-diaspora-meeting-in-London/56-759786) · `en`
+
+Claims other parties have followed NPP’s lead to focus on increasing women’s involvement in politics
+
+Stresses women must actively participate in politics to reform existing system
+
+Notes NPP women’s summits serve a greater purpose than merely bringing NPP into power
+
+Urges women abroad to support these efforts by informing and educating their friends and family in SL
+
+National People’s Power (NPP) MP Dr. Harini Amarasuriya recently declared that the NPP dedicated to fostering significant social change in Sri Lanka, stands out as the most appropriate political platform for women.
+
+Speaking at the NPP’s inaugural international women’s summit in London on 16 March, Amarasuriya reminisced about how NPP leader Anura Kumara Dissanayake had assented to the party’s women’s wing’s plea for 50% representation in the forthcoming General Election as early as 2019.
+
+...
+
+[Data](articles/fbc68a55.json)
+
+---
+
+### Sunshine Holdings announces new leadership appointments
+
+*2024-03-22 04:44:43* · [`dailyftlk`](https://www.ft.lk/business/Sunshine-Holdings-announces-new-leadership-appointments/34-759785) · `en`
+
+From left: Aruna Deepthikumara, Michelle Senanayake, Shantha Bandara and Dr. T. Sayandhan
+
+Diversified conglomerate Sunshine Holdings PLC yesterday announced that Aruna Deepthikumara, Michelle Senanayake, Dr. T. Sayandhan, and Shantha Bandara, who are Executive Committee members of the Group, have been appointed as Executive Directors.
+
+Sunshine Holdings Group CEO Shyam Sathasivam said “We are excited to announce the elevation of Aruna Deepthikumara, Michelle Senanayake, Dr. T. Sayandhan, and Shantha Bandara to the positions of Executive Directors within our Group. Their wealth of experience, strategic insight, and unwavering commitment have been invaluable assets to Sunshine Holdings, driving our diverse portfolio toward sustained growth and success. As we navigate dynamic market landscapes, I am confident their leadership will further fortify our position as a leading conglomerate dedicated to delivering excellence for all stakeholders.”
+
+...
+
+[Data](articles/3e5379c7.json)
+
+---
+
+### Puma asserts IP rights in the battle against counterfeiters
+
+*2024-03-22 04:43:21* · [`dailyftlk`](https://www.ft.lk/business/Puma-asserts-IP-rights-in-the-battle-against-counterfeiters/34-759784) · `en`
+
+PUMA SE, one of the world’s leading sports brands has obtained an Enjoining Order from the Commercial High Court of Colombo in Sri Lanka against a suspected counterfeiter.
+
+Puma SE, recently filed a civil action against Naithi Ltd., through its registered Attorneys-at-Law, Sudath Perera Associates, under the Intellectual Property Act No. 36 of 2003 for the infringement of the Intellectual property rights of PUMA SE by the Defendant.
+
+Puma pleaded that Defendant was selling counterfeit products which contained Plaintiff’s registered trademarks “PUMA” and the leaping cat device;  as one of the most renowned sports brands globally, specializing in advanced sportswear and athletic footwear, Plaintiff argued that Defendant, a substantial garment retailer, must have been fully aware or could not plausibly have been ignorant of the fact that the products being sold were counterfeits.
+
+...
+
+[Data](articles/b1bb7c9d.json)
+
+---
+
+### Top Chinese trade delegation visits BOI
+
+*2024-03-22 04:43:01* · [`dailyftlk`](https://www.ft.lk/business/Top-Chinese-trade-delegation-visits-BOI/34-759783) · `en`
+
+...
+
+[Data](articles/978ad478.json)
+
+---
+
+### SriLankan flight UL 470 to Incheon Korea takes off after 13-hour delay
+
+*2024-03-22 04:41:59* · [`dailyftlk`](https://www.ft.lk/business/SriLankan-flight-UL-470-to-Incheon-Korea-takes-off-after-13-hour-delay/34-759782) · `en`
+
+SriLankan Airlines said yesterday it has made every effort to satisfy the travel requirements of all 217 of its valued passengers who were checked in to travel to Incheon, South Korea on 19 March on UL 470, when the flight was delayed by approximately 13 hours from the scheduled time of departure due to a technical reason.
+
+Of the passengers, 117 resumed their journey on the same flight once the aircraft was cleared for departure and took off to Incheon, South Korea at 07:23hrs on the next day, 20 March.
+
+The remaining 100 passengers, who were heading to South Korea for work, have been rebooked to travel on Sunday, 24 March. The decision to rebook these passengers was made in consultation with the Human Resources Development Service of Korea (HRD Korea) and the Sri Lanka Bureau of Foreign Employment and the delay is not expected to affect their employment in South Korea.
+
+...
+
+[Data](articles/ca88bede.json)
+
+---
+
+### Ceylon Chamber to organise Sri Lanka Climate Summit 2024
+
+*2024-03-22 04:40:44* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-to-organise-Sri-Lanka-Climate-Summit-2024/34-759781) · `en`
+
+Under theme ‘Code Red: Climate Risks and Opportunities for Sri Lankan Businesses’
+
+The Ceylon Chamber of Commerce is proud to announce the inaugural Sri Lanka Climate Summit 2024, themed “Code Red: Climate Risks and Opportunities for Sri Lankan Businesses” from 7 to 9 May at the Shangri La Hotel, Colombo.
+
+...
+
+[Data](articles/2967618b.json)
+
+---
+
+### SLASSCOM’s 2023 survey sheds light on critical HR trends in Sri Lanka
+
+*2024-03-22 04:39:02* · [`dailyftlk`](https://www.ft.lk/business/SLASSCOM-s-2023-survey-sheds-light-on-critical-HR-trends-in-Sri-Lanka/34-759780) · `en`
+
+The Sri Lanka Association of Software and Service Companies (SLASSCOM) recently concluded its much-anticipated Compensation and Benefits Survey 2023, shedding light on critical HR trends and issues within the Sri Lankan IT/ BPM industry.
+
+...
+
+[Data](articles/8c33e27c.json)
+
+---
 
 ### 32 Indian fishermen
 
@@ -2085,213 +2225,5 @@ After the owner's acceptance of the allegations, each offense was sentenced to 1
 [Data](articles/ce8e1214.json)
 
 [Extended Data](ext_articles/ce8e1214.ext.json)
-
----
-
-### Eleven injured after bus topples in Wellawaya
-
-*2024-03-21 14:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Eleven-injured-after-bus-topples-in-Wellawaya/108-279321) · `en`
-
-At least eleven passengers were injured when a bus veered off the road and toppled in Wellawaya junction last morning.
-
-The injured, including five school children and the driver were admitted to Wellawaya base hospital.
-
-Investigations revealed that the driver lost control of the bus due to a sudden illness while at the wheel.
-
-OIC Traffic Branch of Wellawaya Police U.G. Chandrakkara is conducting further investigations.
-
-◼️
-
-[Data](articles/b79a2b3c.json)
-
-[Extended Data](ext_articles/b79a2b3c.ext.json)
-
----
-
-### Yall. Woman arrested for defrauding young man
-
-*2024-03-21 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179323) · `ta`
-
-A woman from Hingurangoda was arrested by Jaffna police for allegedly defrauding a young man of Rs. 60 lakhs, claiming to send him to Canada. The youth lodged a complaint, leading to the woman's arrest and her appearance in court. She was released on bail after promising to return the money.
-
-🟩
-
-A woman from Hingurangoda has been arrested by Jaffna police for allegedly defrauding a youth of Rs.
-
-He has received a sum of Rs 60 lakhs of rupees in the last three months, saying that a young man from Jaffna will be sent to Canada.
-
-The youth lodged a complaint at the Jaffna Police Station as the young man's travel arrangements were not made for three months
-
-According to the complaint, the police, who investigated the complaint, arrested the woman and produced him in the Jaffna Magistrate's Court.
-
-The woman reprinted the young man for the first phase of the money he had received in court, saying he was ready to hand over the money to the young man.
-
-After that, the woman was allowed to go on two physical bail worth Rs 06 lakhs.
-
-◼️
-
-[Data](articles/72decf33.json)
-
-[Extended Data](ext_articles/72decf33.ext.json)
-
----
-
-### 850,000 passengers from January 01 to March 19
-
-*2024-03-21 13:56:20* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරි-01-සිට-මාර්තු-මස-19-දක්වා-ගුවන්-මගීන්--850-000ක්/11-408742) · `si`
-
-Bandaranaike International Airport saw 850,000 passengers from Jan 1 to Mar 19, 2024, with a target of 10 million by year-end, according to Athula Hokage.
-
-🟩
-
-The arrival of foreign tourist arrivals, the Airport and Aviation, Sri Lanka (Pvt) Ltd. Athula Hokage, said that Bandaranaike International Airport was increasingly used by Bandaranaike International Airport.
-
-According to Mr. Heroices, 850,000 passengers obtained from 1st January to March 1, 2024.
-
-He also believed to use 10 million passengers to use the airport by the end of this year, he said.
-
-◼️
-
-[Data](articles/b196e376.json)
-
-[Extended Data](ext_articles/b196e376.ext.json)
-
----
-
-### Regret to the priest
-
-*2024-03-21 13:50:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/வெடுக்குநாறிமலை-பூசாரிக்கு-வருத்தம்/72-334989) · `ta`
-
-Thambirasa Mathimukarasa, Vavuniya Vettukkunnarimalai's chief priest, was hospitalized due to illness. Eight, including the temple, were arrested on Shivaratri and detained until the 19th. The Vavuniya Judge ordered on the 19th, and the priest was admitted to Mullaitivu Manjolai Hospital on the 20th, after fasting in prison for five days for justice.
-
-🟩
-
-Thambirasa Mathimukarasa, the chief priest of Vavuniya Vettukkunnarimalai, has been admitted to the hospital due to illness.
-
-Eight persons, including the temple, were arrested by the police on the occasion of Shivaratri on the last Shivaratri day. They were kept in detention until the 19th.
-
-The Vavuniya Judge on Tuesday (19) issued an order.
-
-The priest of the liberated temple was admitted to the Mullaitivu Manjolai Hospital on Wednesday (20).
-
-It is noteworthy that he was fasting in prison for five days, demanding justice for those arrested.
-
-◼️
-
-[Data](articles/6050590e.json)
-
-[Extended Data](ext_articles/6050590e.ext.json)
-
----
-
-### If this is the most powerful punishment if you do this
-
-*2024-03-21 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194775) · `si`
-
-The Central Bank of Sri Lanka has announced a new wave of funds for ornamental products and gifts, focusing on valid currency notes. Offenses without Central Bank permission include imprisonment for three years.
-
-🟩
-
-The Central Bank of Sri Lanka has been announced to the public on various funds that have become a new wave in society.
-
-It states that the Central Bank has focused on the use of valid currency notes to prepare ornamental products and gift items.
-
-Accordingly, the Central Bank is informed that any person who is engaged in the following activities will commit an offense without the permission of the Central Bank of the Central Bank of Sri Lanka.
-
-One of the following errors is that a person who is found guilty before the courts will be imprisoned or three years in prison or three years.
-
-◼️
-
-[Data](articles/573533a3.json)
-
-[Extended Data](ext_articles/573533a3.ext.json)
-
----
-
-### Former Pakistan captain Saeed Ahmed passes away at 86
-
-*2024-03-21 13:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Pakistan-captain-Saeed-Ahmed-passes-away-at-86/108-279320) · `en`
-
-Mar. 21 (ICC) - Saeed Ahmed represented Pakistan in 41 Test matches in a career that spanned 15 years.
-
-Former Pakistan captain and all-rounder Saeed Ahmed breathed his last on Wednesday, 20 March at the age of 86 in Lahore after a period of brief illness.
-
-Ahmed played 41 Test matches for Pakistan between 1958 and 1973, aggregating 2991 runs at an average of 40.41. He scored five centuries through the course of his career, three of which came against India.
-
-He made his debut at the age of 20 against West Indies, the same game where Hanif Mohammad played a marathon knock of 337 while lasting 970 minutes on the pitch.
-
-During the innings, Ahmed stitched a 154-run stand with Mohammad for the third wicket, scoring a half-century (65) on debut.
-
-He also replaced Hanif Mohammed as captain of the team for a brief period of three Tests against England in 1969, all of which were drawn.
-
-Ahmed was also a handy off-spinner, accounting for 22 wickets through his career.
-
-...
-
-[Data](articles/1ecfdeb9.json)
-
-[Extended Data](ext_articles/1ecfdeb9.ext.json)
-
----
-
-### Eastern Province Governor donated Rs.
-
-*2024-03-21 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179321) · `ta`
-
-Senthil Thondaman, Governor of Eastern Province, donated Rs. 57,73,512 to Gaza Children's Fund, marking his first political donation.
-
-🟩
-
-Senthil Thondaman, the Governor of the Eastern Province and the President of the Ceylon Workers Congress, has donated Rs.
-
-57 lakhs 73 thousand 512 rupees has been donated to the Gaza Children's Fund. The fund is to be sent by the Sri Lankan government for the welfare of the children affected by Gaza soon.
-
-It is noteworthy that the Governor of the Eastern Province, Senthil Thondaman, has been the first political leadership of the Eastern Province, as various parties, including traders and public organizations, have been assisted.
-
-◼️
-
-[Data](articles/0fd34eef.json)
-
-[Extended Data](ext_articles/0fd34eef.ext.json)
-
----
-
-### And there is a sugar dish.. Will the deeke behold?
-
-*2024-03-21 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194774) · `si`
-
-Dr. Denatha Ratnayake warns of tooth decay, a global health issue. He suggests reducing sugar intake, brushing teeth properly, and using fluoride to prevent dental diseases. Sri Lanka consumes 34 kg of sugar annually, three times the World Health Organization's recommendation, contributing to higher tooth decay rates.
-
-🟩
-
-Doctors warns that decay of the most popular condition in the world today.
-
-According to the UPFA Director of the Sri Lanka Dental Association, Denatha Ratnayake, Deputy Director of the Sri Lanka Dental Association has been facing tooth decaying tooth decay.
-
-He was speaking at a press conference held at the Health Promotion Bureau at the Health Promotion Bureau at the Health Promotion Bureau.
-
-The doctor said that the primary facts that could prevent all dental diseases and that it should not be abundant.
-
-...
-
-[Data](articles/fa3db896.json)
-
-[Extended Data](ext_articles/fa3db896.ext.json)
-
----
-
-### Dilan Perera also resigns from COPE
-
-*2024-03-21 13:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dilan-Perera-also-resigns-from-COPE/108-279319) · `en`
-
-Parliament, March 21 (Daily Mirror)- Opposition MP Dilan Perera resigned from the Committee on Public Enterprises (COPE) today.
-
-He announced his resignation in Parliament while speaking at the debate on the no-confidence motion against the Speaker.
-
-◼️
-
-[Data](articles/c55ddb74.json)
-
-[Extended Data](ext_articles/c55ddb74.ext.json)
 
 ---

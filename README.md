@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 09:03:24**
+As of **2024-03-21 09:18:02**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 2,270
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,233 (100.0%) of 14,234 articles have been extended.
+14,234 (100.0%) of 14,234 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### ජාත්‍යන්තර වනාන්තර දිනය අදට යෙදෙයි
+### International Forest Day
 
 *2024-03-21 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194761) · `si`
 
-ලොව පිහිටි සියලු වනාන්තර සහ වනාන්තරවලින් පරිභාහිරව පිහිටි වෘක්ෂ සම්පත්වල වැදගත්කම පිළිබඳව ජන සමාජය තුළ පවතින දැනුවත්භාවය ඉහළ නැංවීමේ අරමුණින් එක්සත් ජාතීන්ගේ සංවිධානය විසින් සෑම වසරකම මාර්තු 21 වනදා ජාත්‍යන්තර වනාන්තර දිනය ලෙස ප්‍රකාශයට පත්කර තිබේ.
+International Forest Day, celebrated on March 21 annually, is a global initiative by the United Nations to raise public awareness about forests. The Forest Department has launched programs to plant 10 lakh trees in parallel to the event.
 
-වනාන්තර දිනය සැමරීමට සමගාමීව පැළ ලක්ෂ 10ක් වනාන්තර වලින් පරිභාහිරව සිටුවීමට වන සංරක්ෂණ දෙපාර්තමේන්තුව විසින් වැඩසටහන් රාශියක් ක්‍රියාත්මක කර තිබේ.
+🟩
+
+The United Nations has declared the International Forest Day on March 21 every year to increase the awareness of the public in the world.
+
+The Forest Department has implemented a number of programs to plant 10 lakhs from forests in parallel to forest date.
 
 ◼️
 
 [Data](articles/b6423376.json)
+
+[Extended Data](ext_articles/b6423376.ext.json)
 
 ---
 

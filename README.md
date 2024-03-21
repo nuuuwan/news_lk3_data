@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 16:17:53**
+As of **2024-03-21 16:33:36**
 
 ## Newspaper Stats
 
-*Scraped **14,351** Articles*
+*Scraped **14,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,59 @@ dbsjeyarajcom | 190
 newsfirstlk | 363
 dailyftlk | 756
 economynextcom | 764
-islandlk | 782
+islandlk | 783
 adalk | 1,240
-adaderanalk | 1,722
+adaderanalk | 1,723
 tamilmirrorlk | 1,737
 virakesarilk | 2,018
 dailymirrorlk | 2,199
-adaderanasinhalalk | 2,289
+adaderanasinhalalk | 2,290
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,346 (100.0%) of 14,351 articles have been extended.
+14,351 (100.0%) of 14,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### CBSL accepts all recommendations from COPF report on salary hikes
+
+*2024-03-21 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98108/cbsl-accepts-all-recommendations-from-copf-report-on-salary-hikes) · `en`
+
+The Governor of the Central Bank of Sri Lanka (CBSL) has informed the Committee on Public Finance (COPF) today (March 21) that they accepted all recommendations from COPF report on salary revisions, the Chairman of the COPF, MP Dr. Harsha de Silva said.
+
+He also mentioned that President Ranil Wickremesinghe will appoint a committee to review salaries as soon as possible, until which salary increases will be deferred from next month.
+
+Furthermore, he stated that they have agreed on a 4-week timeframe for the committee’s report to ensure a swift resolution.
+
+Taking to X (formerly Twitter) to announce this, MP de Silva said: “I am glad we were able to come to a consensus without an amendment to the CBSL Act. Thank you to all involved for working towards a positive outcome.”
+
+...
+
+[Data](articles/1b302f51.json)
+
+---
+
+### චෙන්නායි නායකත්වයේ වෙනසක්
+
+*2024-03-21 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194783) · `si`
+
+IPL තරගාවලියේ චෙන්නායි සුපර් කිංග්ස් කණ්ඩායමේ නායකත්වයේ වෙනසක් සිදුකර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+ඒ අනුව චෙන්නායි සුපර් කිංග්ස් කණ්ඩායමේ නව නායකත්වය ලබා දී ඇත්තේ රුතුරාජ් ගයික්වාඩ් වෙතටය.
+
+මීට පෙර චෙන්නායි සුපර් කිංග්ස් කණ්ඩායමේ නායකත්වය දැරුවේ ඉන්දීය හිටපු ප්‍රබල පිතිකරු මෙන්ම හිටපු නායකයෙක් ද වූ මහේන්ද්‍ර සිං ධෝනි.
+
+ඒ අනුව මෙවර IPL තරගාවලියේදී ඔහු චෙන්නායි කණ්ඩායමේ ක්‍රීඩා කරන්නේ වසර ගණනාවක් තිස්සේ ඔහු දැරූ නායකත්වයේ වගකීම නොමැතිවය.
+
+◼️
+
+[Data](articles/74020bcb.json)
+
+---
 
 ### Extreme heat at work can double stillbirth risk, India study finds
 
@@ -52,41 +88,55 @@ About half of those who took part worked in jobs where they were exposed to high
 
 [Data](articles/6f94072f.json)
 
+[Extended Data](ext_articles/6f94072f.ext.json)
+
 ---
 
-### දුමින්ද, ළහිරු ඇතුළු 4ක් රිමාන්ඩ්
+### Four LTTE cadres remanded for Duminda
 
 *2024-03-21 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194782) · `si`
 
-ජන අරගල ව්‍යාපාරය විසින් ඊයේ කොළඹ පැවැත්වූ විරෝධතාවය අතරතුර අත්අඩංගුවට ගත් සිව්දෙනෙක් මාර්තු 27 දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය නියෝග කර තිබේ.
+Four LTTE cadres, including Duminda Nagamuwa and Lahiru Weerasekera, were remanded in custody by Fort Magistrate Thilina Gamage until tomorrow for their involvement in an elephant protest.
 
-එසේ රක්ෂිත බන්ධනාගාරගත කර ඇත්තේ දුමින්ද නාගමුව, ළහිරු වීරසේකර, රත්කරව්වේ ජිනරතන හිමි සහ අත්අඩංගුවට ගැනුණු කාන්තාවකි.
+🟩
 
-ඊට අමතරව අධිකරණයට ඉදිරිපත් කළ තවත් 5 දෙනෙකු හෙට (22) දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමටත් ඔවුන්ව හඳුනාගැනීමේ පෙරට්ටුවකට ඉදිරිපත් කිරීමටත් කොළඹ කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා නියෝග කර ඇත.
+Four arrested for elephants were remanded during the protest held by the People's Struggle Movement yesterday.
+
+The remanded is so custody Duminda Nagamuwa, Lahiru Weerasekera, Ratharawawe.
+
+Fort Magistrate Thilina Gamage has ordered to be remanded until tomorrow (22) to be remanded and submitted to a parade.
 
 ◼️
 
 [Data](articles/c09102fd.json)
 
+[Extended Data](ext_articles/c09102fd.ext.json)
+
 ---
 
-### ක්‍රීඩා පාසල් 22 ක් වසර පහක් තිස්සේ අක්‍රීයයි
+### 22 sports schools are off for five years
 
 *2024-03-21 15:53:40* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රීඩා-පාසල්-22-ක්-වසර-පහක්-තිස්සේ-අක්‍රීයයි/11-408744) · `si`
 
-ක්‍රීඩා දක්ෂතා සහිත ජාතික හා ජාත්‍යන්තර තලයේ ක්‍රීඩක ක්‍රීඩිකාවන් බිහිකිරීමේ අරමුණින් අධ්‍යාපන අමාත්‍යාංශය මගින් ආරම්භ කරන ලද ක්‍රීඩා පාසල් 22 ක් පසුගිය පස් වසර තුළ ක්‍රියාත්මක වී නැතැයි ජාතික විගණන  කාර්යාලය අනාවරණය කරයි.
+The National Audit Office found that the Ministry of Education failed to implement its goal of producing sports stars, leading to the closure of 22 sports schools for five years. This resulted in the withdrawal of 293 sports scholar students and unused sports equipment. The report highlighted management weaknesses, improper training, and the failure to achieve the intended goals of sports schools, including issues with sports scholarships.
 
-මේ හේතුවෙන් මෙම පාසල්වලට ඇතුළත්ව සිටි ක්‍රීඩා ශිෂ්‍යත්වලාභී සිසුන් 293 ක් එම පාසල්වලින් ඉවත්වී ගොස් ඇතැයිද ,එම ක්‍රීඩා පාසල්වල තිබූ ක්‍රීඩා උපකරණ ප්‍රයෝජනයට නොගැනීමෙන් ඌන උපයෝජිතව පවතින බවද විගණන  කාර්යාලය පෙන්වා දෙයි.
+🟩
 
-1989 දී ක්‍රීඩා පාසල් ආරම්භ කිරීමේදී අපේක්ෂිත අරමුණු ඉටුවෙන ලෙස ඒවායේ කටයුතු ක්‍රියාත්මක වී නැත.
+The National Audit office reveals that the Ministry of Education has not been implemented by the Ministry of Education with the objective of producing sportswomen and international sportsmen.
 
-මේ හේතුවෙන් එම පාසල්වල නේවාසිකාගාර ,ක්‍රීඩා උපකරණ ,කායවර්ධන උපකරණ  ආදිය ඌන උපයෝජිතව පවතී.
+As a result of this, 293 sports scholars-in-school scholars' scholars have been withdrawn from these schools and the sports equipment in the sports schools are not used.
 
-කළමනාකරණ දුර්වලතා,නිසි පුහුණුවක් නොලැබීම හා ක්‍රීඩා පාසල් ක්‍රියාත්මක නොවීම  ඒවාට ඇතුළත්ව සිටි ක්‍රීඩා ශිෂ්‍යත්වධාරීන් අස්වී යාමට බලපා ඇත.
+In 1989, they have not implemented the intended goals.
+
+As a result, such schools are hostel, sports equipment and bodybuilding equipment etc.
+
+The sports scholarships included in management weaknesses, not proper training and the implementation of sports schools.
 
 ...
 
 [Data](articles/e1152f4e.json)
+
+[Extended Data](ext_articles/e1152f4e.ext.json)
 
 ---
 
@@ -112,17 +162,23 @@ Fort Magistrate Thilina Gamage has ordered to be remanded until tomorrow (22) to
 
 ---
 
-### சாட் நாட்டில் மோதல்களால் 42 பேர் பலி
+### 42 people killed in clashes in Chad
 
 *2024-03-21 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179343) · `ta`
 
-ஆபிரிக்க நாடான 'சாட்'டில் இரு சமூகங்களுக்கு இடையிலான மோதல்களால் குறைந்தபட்சம் 42 பேர் உயிரிழந்துள்ளனர் என அந்நாட்டின் பொதுமக்கள் பாதுகாப்பு அமைச்சு இன்று தெரிவித்துள்ளது.
+42 killed in Chad clashes between communities, sparked by conflicts between crops and livestock farmers.
 
-ஆனால், அப்பிராந்தியத்தில் பயிர்ச் செய்கையாளர்களுக்கும் கால்நடை வளர்ப்பாளர்கள் மற்றும் ஏனைய குழுக்களுக்கும் இடையில் அடிக்கடி மோதல்கள் நடைபெறுவது வழக்கம். (வைப்பகப்படம்)
+🟩
+
+At least 42 people have been killed in clashes between the two communities in the African country of 'Chad', the country's public security ministry said today.
+
+But there is frequent conflict between crops and livestock farmers and other groups in the region.(Deposit image)
 
 ◼️
 
 [Data](articles/737e43de.json)
+
+[Extended Data](ext_articles/737e43de.ext.json)
 
 ---
 
@@ -448,19 +504,25 @@ The two Bills thus came into effect as the Social Security Contribution Levy (Am
 
 ---
 
-### ශාන් ගේ ගෝලයෙකු හෙරෝයින් සමග අත්අඩංගුවට
+### Shan's disciple arrested with heroin
 
 *2024-03-21 14:59:04* · [`adalk`](https://www.ada.lk/breaking_news/ශාන්-ගේ-ගෝලයෙකු-හෙරෝයින්-සමග-අත්අඩංගුවට/11-408743) · `si`
 
-මතුගම ශාන් නැමැති සංවිධානාත්මක අපරාධකරුගේ ගෝලයකු බව කියන ඕමිටියාවත්තේ කිරියා නැමැත්තා රුපියල් ලක්ෂ දෙකකට ආසන්න වටිනාකමකින් යුත් හෙරෝයින් මත්කුඩු සමග අත්අඩංගුවට ගත්බව කළුතර අපරාධ කොට්ඨාසය පවසයි.
+Shan's disciple arrested in Matugama with 10 grams of heroin, valued at nearly Rs., by the Easy Cas system.
 
-සැකකරු තවත් පුද්ගලයෙකුට හෙරොයින් මත්කුඩු තොගයක් ලබාදීමට යාමේදී මතුගම සොල්දරකඩේ ප්‍රදේශයේදී හෙරොයින් මත්කුඩු ග්‍රෑම් 10 ක් සමග අත්අඩංගුවට ගෙන ජාවාරම් සදහා යොදාගත් ජංගම දුරකථනයද පොලිස් භාරයට ගෙන ඇති බව  පොලිසිය සඳහන් කරයි.
+🟩
 
-ඊසි කැස් ක්‍රමයට හෙරොයින් මත්කුඩු ජාවාරම කරගෙන ගොස් ඇති සැකකරු, ජාවාරම් මුදල් බෝපිටියේ ඉබ්බා නැමැති ජාවාරම්කරුගේ ගිණුමට බැරකර ඇති බවද පොලිසිය සඳහන් කරයි.
+The Colombo Criminal Division has been arrested with drugs with drugs worth nearly Rs.
+
+The suspect has also taken into custody with 10 grams of heroin in the Soldrakada area in Matugama, police said.
+
+The suspect, which has been carried out by the Easy Cas system, has been lodged with the racketeer of the racketeer tortoise, police said.
 
 ◼️
 
 [Data](articles/af39ad01.json)
+
+[Extended Data](ext_articles/af39ad01.ext.json)
 
 ---
 
@@ -2221,51 +2283,5 @@ It is said that the purpose of both sides is to reach an agreement as soon as th
 [Data](articles/9c04d5db.json)
 
 [Extended Data](ext_articles/9c04d5db.ext.json)
-
----
-
-### 5,377 kg of Lunch Sheets destroyed
-
-*2024-03-21 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194763) · `si`
-
-The Central Environmental Authority (CEA) and the Consumer Affairs Authority destroyed 5,377 kg of illegal lunch sheets at a Puttalam company, with prosecution by the Western Province and Kurunegala District courts. The sheets were stored in illegal polythene and destroyed as part of an eco-friendly initiative.
-
-🟩
-
-5,377 kilograms of illegal lunch sheets have been destroyed by the Central Environmental Authority.
-
-The Central Environmental Authority (CEA) has been found to destroy the Lunch Shet at a private company in Puttalam with the Consumer Affairs Authority.
-
-The illegal polythene Lunch Sheet was stored in the illegal polythene, which was transferred to the Central Environmental Authority in the Banch Sheets.
-
-The prosecution was carried out by the Western Province and the Kurunegala District, Kaduwela Magistrate's Court Magistrate's Court Magistrate's Court and Kaduwela Magistrate Court and the Magistrate Court Magistrate Court.
-
-The Lunchy Sheet has been destroyed by the Dompe Sanitary Cases in the Dompe Sanitary Cases belonging to the Dompe Sanitary Relatively in the Dompe Sanitary Kasal Relatively.
-
-Under the supervision of the officers of the Central Environmental Authority and the Consumer Affairs Authority (CEA) officials, the Lunch Sheet has been destroyed as eco-friendly.
-
-...
-
-[Data](articles/3df9127d.json)
-
-[Extended Data](ext_articles/3df9127d.ext.json)
-
----
-
-### 15 including schoolchildren injured in bus accident in Wellawaya
-
-*2024-03-21 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98094/15-including-schoolchildren-injured-in-bus-accident-in-wellawaya) · `en`
-
-At least 15 individuals including 07 school students have been injured after a private passenger transport bus veered off the road and overturned near the Kumaradasa Junction in Wellawaya, on the Wellawaya – Thanamalwila main road.
-
-The 15 individuals including the schoolchildren and the driver of the bus, who sustained injuries during the accident, have been admitted to Wellawaya Base Hospital for treatment, Ada Derana reporter said.
-
-Police suspect that the accident occurred as a result of a sudden ailment suffered by the bus driver.
-
-◼️
-
-[Data](articles/06899a22.json)
-
-[Extended Data](ext_articles/06899a22.ext.json)
 
 ---

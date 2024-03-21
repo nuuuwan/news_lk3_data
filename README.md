@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 06:54:35**
+As of **2024-03-21 07:16:38**
 
 ## Newspaper Stats
 
-*Scraped **14,213** Articles*
+*Scraped **14,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,125 @@ colombotelegraphcom | 132
 bbccomsinhala | 157
 dbsjeyarajcom | 190
 newsfirstlk | 363
-dailyftlk | 752
+dailyftlk | 756
 economynextcom | 760
 islandlk | 782
 adalk | 1,226
 adaderanalk | 1,704
-tamilmirrorlk | 1,718
+tamilmirrorlk | 1,719
 virakesarilk | 1,987
-dailymirrorlk | 2,179
-adaderanasinhalalk | 2,263
+dailymirrorlk | 2,180
+adaderanasinhalalk | 2,264
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,201 (99.9%) of 14,213 articles have been extended.
+14,210 (99.9%) of 14,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### වියළි කාලගුණයේ වෙනසක්
+
+*2024-03-21 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194754) · `si`
+
+දිවයිනේ දැනට පවතින වියළි කාලගුණ තත්ත්වයේ වෙනසක් අද (21) දින සිට අපේක්ෂා කළ හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු, වයඹ සහ උතුරු-මැද පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+සබරගමුව පළාතේ ඇතැම් ස්ථානවලට මි. මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
+
+සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/7b244533.json)
+
+---
+
+### Sufficient water levels in reservoirs, no power cuts expected
+
+*2024-03-21 06:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sufficient-water-levels-in-reservoirs-no-power-cuts-expected/108-279285) · `en`
+
+Colombo, March 21 (Daily Mirror) - Despite the prolonged drought, water levels in hydro and irrigation reservoirs in the country are still sufficient, ensuring no need for power cuts in the near future, the authorities said yesterday.
+
+The Ministry of Power and Energy assures no need for power cuts until end of April as hydropower plants have sufficient water reserves.
+
+Thanks to heavy rains received two months prior, all hydro and irrigation reservoirs have attained ample water capacity, with some even reaching their spill levels, Irrigation Department Director Eng. S.P.C. Sugeeshwara said.
+
+He told the Daily Mirror that there has been a notable lack of rainfall from mid-January until now. He mentioned that as a result, the present water capacities of hydro and irrigation reservoirs are at a significant level.
+
+...
+
+[Data](articles/38b85c29.json)
+
+---
+
+### CSOs and TUs reject cosmetic consultations of IMF
+
+*2024-03-21 06:10:48* · [`dailyftlk`](https://www.ft.lk/opinion/CSOs-and-TUs-reject-cosmetic-consultations-of-IMF/14-759754) · `en`
+
+The grave inequalities in society are widening and more people are trapped in poverty with little hope of recovery
+
+Put people at the centre of plans for socio-economic recovery and advancement
+
+Following is a statement signed by 42 civil society organisations and 26 trade unions, rejecting the cosmetic consultations of the IMF.
+
+The IMF team is in Colombo for the Second Review of the ongoing Extended Fund Facility (EFF) loan agreement with Sri Lanka and will meet with some civil society organisations and think tanks in Colombo on 19 March 2024, to receive their views on the progress of the ongoing structural reforms, and governance issues including anti-corruption reforms. This meeting is held in a context where it is already established that the Government has met only 30% of the benchmarked governance targets.
+
+...
+
+[Data](articles/9ca33810.json)
+
+---
+
+### Application of banking ethics in Sri Lanka
+
+*2024-03-21 06:07:15* · [`dailyftlk`](https://www.ft.lk/columns/Application-of-banking-ethics-in-Sri-Lanka/4-759751) · `en`
+
+Ethical banking encourages transparency, helps build strong communities and establishes a set of principles and ideals that govern all banking activities
+
+Any business depends and improves mainly based on the trust placed by the customers. In order to gain and enhance this trust, application of ethics in business is of paramount importance. Banking is a business that purely depends upon the trust placed by not only its customers but also by the general public. Transparency, fairness and sound decision-making are the cornerstones of a strong banking business. All these are more related to ethics in banking than of complying with rules and regulations.
+
+...
+
+[Data](articles/3c81cdfd.json)
+
+---
+
+### Strengthening anti-corruption measures in private sector
+
+*2024-03-21 06:01:03* · [`dailyftlk`](https://www.ft.lk/columns/Strengthening-anti-corruption-measures-in-private-sector/4-759750) · `en`
+
+In recent years, Sri Lanka has taken significant strides in its battle against corruption, marked by the transformation of the once exclusively Government-focused Bribery Act into the more comprehensive Anti-Corruption Act. This legislative evolution now extends the arm of accountability to encompass private sector entities, marking a pivotal shift in the nation’s anti-corruption landscape.
+
+Under the amended Anti-Corruption Act, private sector individuals, such as purchasing managers, are now subject to scrutiny and potential legal ramifications for engaging in bribery. The Sri Lankan Anti-Corruption Authority wields authority to investigate and prosecute such offenses, signalling a newfound commitment to root out corruption across all sectors.
+
+...
+
+[Data](articles/d93149bf.json)
+
+---
+
+### Transforming Government institutions: A beacon of development in Sri Lanka’s fishing industry
+
+*2024-03-21 05:56:20* · [`dailyftlk`](https://www.ft.lk/columns/Transforming-Government-institutions-A-beacon-of-development-in-Sri-Lanka-s-fishing-industry/4-759749) · `en`
+
+Government institutions often carry a reputation for bureaucracy, inefficiency, and stagnation. But this need not be the case. With visionary leadership, effective management, and a commitment to progress, these institutions can evolve into powerful catalysts for positive change.
+
+It’s a common misconception that Government institutions are inherently resistant to development. While challenges exist, they are not insurmountable. Proper administration, strategic planning, and a results-oriented mind-set can drive transformation.
+
+Effective management is the cornerstone of success. Leaders must prioritise transparency, accountability, and collaboration. A well-functioning team, aligned with a shared vision, can overcome obstacles and achieve remarkable outcomes.
+
+...
+
+[Data](articles/66939a1f.json)
+
+---
 
 ### Sri Lanka India Society celebrates 75 years of strengthening bonds of friendship
 
@@ -382,6 +482,22 @@ President Wickremesinghe’s first public political rally at Kuliyapitiya was od
 
 ---
 
+### கடலில் மூழ்கி இருவர் உயிரிழப்பு
+
+*2024-03-21 01:57:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-மூழ்கி-இருவர்-உயிரிழப்பு/175-334967) · `ta`
+
+யாழ்ப்பாணம், இளவாலை - சேந்தாங்குளம் கடற்கரையில் குளிக்கச் சென்ற இருவர் சடலங்களாக மீட்கப்பட்டுள்ளனர்.
+
+சேந்தாங்குளம் கடற்கரையில் நேற்று நீராடச் சென்ற மூவரில் இருவர் காணாமல்போன நிலையில், இருவரும் சடலங்களாக மீட்கப்பட்டுள்ளனர்.
+
+நாவற்குழியைச் சேர்ந்த சிவநேசன் திவ்யன் (வயது 21), செட்டிக்குளம் பகுதியைச் சேர்ந்த தேவன்கருணதாசா யூட் (வயது 36) ஆகியோரே சடலங்களாக மீட்கப்பட்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/f71933f8.json)
+
+---
+
 ### Warning on Sinhala Facebook
 
 *2024-03-21 01:29:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதவானுக்கு-சிங்கள-பேஸ்புக்கில்-எச்சரிக்கை/175-334966) · `ta`
@@ -594,6 +710,8 @@ Leave it overnight for a better result, and wash it off the next morning.
 
 [Data](articles/25c18a4a.json)
 
+[Extended Data](ext_articles/25c18a4a.ext.json)
+
 ---
 
 ### Former Minister Gamini Dissanayake commemorated
@@ -640,6 +758,8 @@ The “Small Cats Project” spearheaded by WNPS aims to gather crucial data on 
 
 [Data](articles/596af767.json)
 
+[Extended Data](ext_articles/596af767.ext.json)
+
 ---
 
 ### SLIM Kantar People’s Awards 2024 celebrates Sri Lankans’ favourite brands and personalities
@@ -651,6 +771,8 @@ The 18th consecutive SLIM Kantar People’s Awards concluded successfully on the
 ...
 
 [Data](articles/53e554b8.json)
+
+[Extended Data](ext_articles/53e554b8.ext.json)
 
 ---
 
@@ -665,6 +787,8 @@ The George Keyt Foundation’s ‘Sri Lankan Artists 2024’ exhibition not only
 ...
 
 [Data](articles/f6e55c4d.json)
+
+[Extended Data](ext_articles/f6e55c4d.ext.json)
 
 ---
 
@@ -683,6 +807,8 @@ Nestlé Lanka honoured at Best Corporate Citizen Sustainability Awards 2023
 ...
 
 [Data](articles/93fb01fb.json)
+
+[Extended Data](ext_articles/93fb01fb.ext.json)
 
 ---
 
@@ -739,6 +865,8 @@ Turnover stood at Rs 910 million with one crossing. The crossing was reported in
 ...
 
 [Data](articles/f032de9f.json)
+
+[Extended Data](ext_articles/f032de9f.ext.json)
 
 ---
 
@@ -2029,171 +2157,5 @@ The 12-month yield rose 12 basis points to 10.38 percent, with 40 billion rupees
 [Data](articles/c0cb0428.json)
 
 [Extended Data](ext_articles/c0cb0428.ext.json)
-
----
-
-### Lawyer remanded for contemptuous behavior before Supreme Court
-
-*2024-03-20 16:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lawyer-remanded-for-contemptuous-behavior-before-Supreme-Court/108-279241) · `en`
-
-Colombo, March 20 (Daily Mirror) - The Supreme Court today ordered the remand of a lawyer accused of his contemptuous behavior in the Supreme Court.
-
-The Supreme Court further ordered the prison authorities to produce this lawyer before the court again on April 3. The court further ordered the suspension of this attorney from engaging in legal practice until the conclusion of the hearing into the case.
-
-It was alleged that Attorney-at-Law Susil Priyantha Jayatunga repeatedly made his submissions disregarding the directives of the Supreme Court, thereby behaving in a contemptuous manner towards the Supreme Court.
-
-...
-
-[Data](articles/69767801.json)
-
-[Extended Data](ext_articles/69767801.ext.json)
-
----
-
-### An economic crisis again if not expedited to an export economy
-
-*2024-03-20 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194736) · `si`
-
-President Ranil Wickremesinghe warns of another economic crisis if the loan continues to cover the import-export gap, aiming to stabilize the economy and transition to an export economy. He plans to present a new law in Parliament in April, emphasizing the benefits to both the economy and the people, including increased public servants' salaries and the strengthening of the rupee.
-
-🟩
-
-The President points out that if the loan is continued to cover the import and export gap, Sri Lanka will face an economic crisis again in 10 years.
-
-President Ranil Wickremesinghe says that it is his expected to create an economic stability in the country and transform it to an export economy.
-
-The President said that a new law would be presented in Parliament in April in April.
-
-President Ranil Wickremesinghe was speaking at the Rangera, which was built around the Evil Pirivena Viharaya at the Ancient Pirivena Viharaya at the Ancient Pirivena Viharaya of the Ancient Pirivena Viharaya.
-
-The President also pointed out that this June, who is expected to be completed as a debt to the world as a country of debt, the President also pointed out that this is a bankrupt country under the name of a bankrupt country..
-
-The President Ranil Wickremesinghe said that the economy would further provide relief to the people with the increase in the economy with the commencement of the country's money.
-
-...
-
-[Data](articles/3e608e13.json)
-
-[Extended Data](ext_articles/3e608e13.ext.json)
-
----
-
-### Expect a rapid change towards the export economy - the president urges
-
-*2024-03-20 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179241) · `ta`
-
-President Ranil Wickremesinghe urges Sri Lanka to shift towards an export economy, warning of an economic crisis in 10 years if the import-export gap isn't addressed. He expects legislation on financial management to be presented in Parliament by April, aiming to stabilize the economy. The President also highlights ongoing negotiations to repay loans and increase foreign trade, aiming to strengthen the economy and provide relief to the people.
-
-🟩
-
-Pointing out that if the gap between imports and exports is obtained, the President pointed out that Sri Lanka will face the economic crisis in another 10 years, he said, adding that the economic stability in the country is expected to make a change towards the export economy soon.
-
-The President pointed out that the legislation is expected to be presented in Parliament by April and the new Bill on the government's financial management is to be presented to it, the President said, "It is aimed at making economic progress in the country."
-
-The President made this statement while addressing the inauguration of the newly built gold fence at the Mangalam Tempidi Antique Division of Kegalle today (20).
-
-At the request of Jagath Sumitra Karunaratne and Mallika Karunaratne, who lives in Kadavatha at the request of Vikramaditya Sri Janandapithana Thera, Thangaveli was set up at the Mangaderatha Tempidi Vihara.
-
-...
-
-[Data](articles/4a535297.json)
-
-[Extended Data](ext_articles/4a535297.ext.json)
-
----
-
-### Prohibition to damage the currency tala
-
-*2024-03-20 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179228) · `ta`
-
-The Central Bank of Sri Lanka warns against damaging currency notes, with penalties including a fine of Rs 2 crore 50 lakhs or up to three years in prison.
-
-🟩
-
-The public has been warned of intentionally or damage to currencies in the country.
-
-The Central Bank of Sri Lanka (CBSL) said that ads have been observed on social media regarding the use of currency notes to make ornaments and gifts.
-
-The Central Bank of Sri Lanka has warned that damaging the currency notes is a punishable offense.
-
-The Central Bank further said that those who were found guilty will be sentenced to Rs 2 crore 50 lakhs or a maximum of three years in prison.
-
-◼️
-
-[Data](articles/96e2a455.json)
-
-[Extended Data](ext_articles/96e2a455.ext.json)
-
----
-
-### Bangle
-
-*2024-03-20 15:32:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தென்னை-மரத்தில்-ஏறியதங்க-வளையல்/76-334930) · `ta`
-
-A gold bangle worth Rs 1,40,000 was stolen and found in a coconut tree in Badulla. A 22-year-old was arrested for investigating the theft, claiming he hid the bangle there. He admitted spending the stolen money.
-
-🟩
-
-Badulla police said that the gold bangle worth Rs 1,40,000 was stolen in a house and was recovered at the top of the 40 -foot -tall coconut tree and a youth was arrested on suspicion.
-
-A 22 -year -old youth has arrested a young man who was investigating the information received by the police alleging that there was no one in a house in Medapana, Badulla, when there was no one in a house in Badulla.
-
-He told the police that he had spent the stolen money during the investigation and that the gold bracelet had been hidden on the top of the coconut tree.
-
-Further investigations into the incident are being carried out by the police.
-
-◼️
-
-[Data](articles/680cd1bb.json)
-
-[Extended Data](ext_articles/680cd1bb.ext.json)
-
----
-
-### Gold bangle in the coconut tree
-
-*2024-03-20 15:32:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தென்னை-மரத்தில்-தங்க-வளையல்/76-334930) · `ta`
-
-A gold bangle worth Rs 1,40,000, stolen from a house in Badulla, was found on a coconut tree. A 22-year-old youth was arrested for hiding it there. He claimed to have spent the stolen money on his investigation.
-
-🟩
-
-Badulla police said that the gold bangle worth Rs 1,40,000 was stolen in a house and was recovered at the top of the 40 -foot -tall coconut tree and a youth was arrested on suspicion.
-
-A 22 -year -old youth has arrested a young man who was investigating the information received by the police alleging that there was no one in a house in Medapana, Badulla, when there was no one in a house in Badulla.
-
-He told the police that he had spent the stolen money during his investigation and that the gold bracelet had been hidden on the top of the coconut tree.
-
-Further investigations into the incident are being carried out by the police.
-
-◼️
-
-[Data](articles/b0b7ee31.json)
-
-[Extended Data](ext_articles/b0b7ee31.ext.json)
-
----
-
-### Gold bracelet
-
-*2024-03-20 15:32:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தென்னை-மரத்தில்-ஏறிய-தங்க-வளையல்/76-334930) · `ta`
-
-A gold bracelet worth Rs 1,40,000 was stolen and found in a coconut tree in Badulla. A 22-year-old was arrested for investigating the theft, claiming to have spent the stolen money.
-
-🟩
-
-Badulla police said that the gold bangle worth Rs 1,40,000 was stolen in a house and was recovered at the top of the 40 -foot -tall coconut tree and a youth was arrested on suspicion.
-
-A 22 -year -old youth has arrested a young man who was investigating the information received by the police alleging that there was no one in a house in Medapana, Badulla, when there was no one in a house in Badulla.
-
-He told the police that he had spent the stolen money during his investigation and that the gold bracelet had been hidden on the top of the coconut tree.
-
-Further investigations into the incident are being carried out by the police.
-
-◼️
-
-[Data](articles/cc015999.json)
-
-[Extended Data](ext_articles/cc015999.ext.json)
 
 ---

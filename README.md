@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 12:05:11**
+As of **2024-03-21 12:18:06**
 
 ## Newspaper Stats
 
-*Scraped **14,280** Articles*
+*Scraped **14,282** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,77 @@ dailyftlk | 756
 economynextcom | 764
 islandlk | 782
 adalk | 1,232
-adaderanalk | 1,712
+adaderanalk | 1,713
 tamilmirrorlk | 1,726
 virakesarilk | 2,001
 dailymirrorlk | 2,188
-adaderanasinhalalk | 2,276
+adaderanasinhalalk | 2,277
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,276 (100.0%) of 14,280 articles have been extended.
+14,280 (100.0%) of 14,282 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### கடற்படையினரின் வாகனத்தினால் மோதப்பட்டு பெண் உயிரிழப்பு!
+### Bandula’s US tour cut short for no-confidence vote against Speaker
+
+*2024-03-21 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98098/bandulas-us-tour-cut-short-for-no-confidence-vote-against-speaker) · `en`
+
+Minister Bandula Gunawardena, who was on an official visit to the USA to take part in a conference organized by the World Bank, has returned to the island last night (20), under the directives of President Ranil Wickremesinghe.
+
+Following his arrival to the island, Gunawardena clarified that he was called back to the island to participate in crucial vote of the no-confidence motion against the Speaker, which is scheduled to be held this evening (21).
+
+The vote was initially supposed to be held on Wednesday (March 20), however, it was put off by one day as per a decision taken at the Parliamentary Business Committee meeting to debate the no-confidence motion for three consecutive days.
+
+◼️
+
+[Data](articles/0702bf2b.json)
+
+---
+
+### ඔස්ට්‍රේලියාවට යන්න ඉන්න ශිෂ්‍යයින්ට විශේෂ දැනුම්දීමක්
+
+*2024-03-21 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194769) · `si`
+
+විදෙස් ශිෂ්‍යයින් සඳහා වීසා නීති දැඩිකිරීම මෙම සතියේ සිට ක්‍රියාත්මක කිරීමට ඔස්ට්‍රේලියාව තීරණය කර ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+ඔවුන් එම තීරණය ගෙන ඇත්තේ ඔස්ට්‍රේලියාවට පැමිණි සංක්‍රමණිකයින් ගණන විශාල ලෙස වැඩිවී ඇති බව නවතම දත්ත අනූව පෙනීයන පසුබිමකදීය.
+
+සංක්‍රමණිකයින්ගේ පැමිණීම වැඩිවීම හේතුවෙන් එරට කුලි නිවාස වෙළෙඳපොළ තරගකාරීත්වය නොසිතූ ලෙස වර්ධනය වී ඇති බව සඳහන් ය.
+
+උපාධිධාරී වීසා සහ ශිෂ්‍ය වීසා සඳහා අවශ්‍ය ඉංග්‍රීසි භාෂා අවශ්‍යතාවය තවත් වැඩිකර ඇති අතර ජාත්‍යන්තර ශිෂ්‍යයින් සඳහා පහසුකම් සලසන සමාගම් නීති දිගින් දිගටම කැඩුවොත් එම සමාගම්වල කටයුතු අත්හිටුවීමට ඔස්ට්‍රේලියානු රජයට බලය පවරා තිබේ.
+
+◼️
+
+[Data](articles/95755d09.json)
+
+---
+
+### Woman killed in Navy's vehicle
 
 *2024-03-21 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179304) · `ta`
 
-திருகோணமலை வீதியில் குருணாகலிருந்து தம்புள்ளை நோக்கி சென்று கொண்டிருந்த கடற்படை வாகனத்தினால் மோதப்பட்டு பெண்ணொருவர் உயிரிழந்துள்ளார். தொரட்டியாவை  பொலிஸ் பிரிவுக்கு உட்பட்ட தோரயாய பகுதியில் இந்தச் சம்பவம் இடம்பெற்றுள்ளது.
+A 63-year-old woman from Tarayaya was killed by a naval vehicle on the Trincomalee road near Kurunegala. She was hit while crossing the road and died at Polgola Hospital without treatment. The driver has been arrested for investigation.
 
-இந்த பெண் நேற்று புதன்கிழமை (20) இரவு வீதியை கடக்க முற்பட்டவேளை கடற்படை வாகனம்  இவரை மோதியுள்ளது.
+🟩
 
-விபத்துக்குள்ளான பெண் பொல்கொல்ல வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பலன்றி உயிரிழந்துள்ளார்.  இந்த பெண் தோரயாய பகுதியைச் சேர்ந்த 63 வயதுடையவராவார்.
+A woman has died after being hit by a naval vehicle traveling from Kurunegala to Dambulla on the Trincomalee road.The incident took place in the Thorayaya area of the police division.
 
-சடலம் குருணாகல் வைத்தியசாலையில் வைக்கப்பட்டுள்ளதோடு, இந்த சம்பவம் தொடர்பாக சந்தேகத்தின் பேரில் வாகன சாரதி கைது செய்யப்பட்டுள்ளதாகவும் , மேலதிக விசாரணைகளை முன்னெடுத்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+The woman was hit by a naval vehicle when she tried to cross the road on Wednesday night.
+
+The woman was admitted to the Polgola Hospital and died without treatment.The woman is a 63 year old from Tarayaya.
+
+The body has been kept at the Kurunegala Hospital and the driver has been arrested on suspicion of the incident and further investigations are being carried out.
 
 ◼️
 
 [Data](articles/342db41b.json)
+
+[Extended Data](ext_articles/342db41b.ext.json)
 
 ---
 
@@ -66,23 +106,33 @@ SLIS President Kishore Reddy echoed the sentiment, emphasizing the deep cultural
 
 [Data](articles/3cd06ef6.json)
 
+[Extended Data](ext_articles/3cd06ef6.ext.json)
+
 ---
 
-### அப்போதைய ஜனாதிபதிக்கு ஏன் ஆலோசனை வழங்கவில்லை?
+### Why not advise the then president?
 
 *2024-03-21 11:39:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அப்போதைய-ஜனாதிபதிக்கு-ஏன்-ஆலோசனை-வழங்கவில்லை/175-334977) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் (SLPP) முக்கியஸ்தர் பசில் ராஜபக்ச, இரசாயன விவசாயத்தை தடை செய்வதற்கான முன்னாள் ஜனாதிபதியின் தீர்மானம் குறித்த கேள்விக்கு பதிலளித்த போது, தான் எடுக்கும் எந்தவொரு தீர்மானத்திற்கும் ஒரு தலைவர் இறுதிப் பொறுப்பேற்க வேண்டும் என கூறினார்.
+Basil Rajapaksa, SLPP, defended not advising the then president on banning chemical agriculture, emphasizing leaders must take responsibility for decisions. He highlighted his advice on palm oil cultivation, mentioning his conversation with PM Modi about environmental reasons for stopping cultivation, and the leader's responsibility for decisions.
 
-"எனக்கு தெரியாது. ஒரு தலைவர் முடிவெடுப்பதற்கு மற்றவர்களைக் கலந்தாலோசிக்கலாம். ஒரு முடிவு எடுக்கப்பட்டவுடன், அவர் பொறுப்பை ஏற்க வேண்டும்” என்று டெய்லி மிரருக்கு அளித்த பேட்டியில் பசில் ராஜபக்ச கூறினார்.
+🟩
 
-அரசாங்கத்தின் பொறுப்பான உறுப்பினர் என்ற வகையில், தனது மூத்த சகோதரரான அப்போதைய ஜனாதிபதிக்கு அவர் ஏன் ஆலோசனை வழங்கவில்லை என்று கேட்டதற்கு, ”நான் ஆலோசனை வழங்க முடியும், ஆனால் எந்தவொரு தலைவரும் இறுதியாக பொறுப்பேற்க வேண்டும்” என்று கூறினார்.
+Basil Rajapaksa, the Sri Lanka PA (SLPP), responded to a question about the resolution of the former president to ban chemical agriculture and said that a leader should take the final responsibility for any resolution he made.
 
-“நான் ஒருமுறை இந்தியப் பிரதமர் நரேந்திர மோடியைச் சந்தித்தபோது, ​​பாம் எண்ணெய் பயிர்ச்செய்கை பற்றிப் பேசினோம். அந்த நேரத்தில், ரஷ்யா-உக்ரைன் போர் தொடங்கியது. உக்ரைன் இந்தியாவிற்கு மரக்கறி எண்ணெய்  முக்கிய வழங்குனர்.
+In an interview with the Daily Mirror, Basil Rajapaksa said in an interview with the Daily Mirror, "I do not know. You can consult others to make a decision. Once a decision is taken, he must take responsibility."
+
+As a responsible member of the government, he asked why he did not advise his older brother, the then president, "I can advise, but no leader must finally take responsibility."
+
+“When I met Indian Prime Minister Narendra Modi once, we talked about palm oil cultivation.At that time, the Russia-Ukrainian war began.Vegetable oil is the main provider for Ukraine India.
+
+Modi told me that Sri Lanka is one of the three best countries in the world that cultivates palm oil.He tried to cultivate palm oil under a 35 -year -old return agreement.
 
 ...
 
 [Data](articles/b5e325b5.json)
+
+[Extended Data](ext_articles/b5e325b5.ext.json)
 
 ---
 
@@ -194,21 +244,31 @@ The IMF delegation consisting of Peter Breuer, the Senior Mission Chief for Sri 
 
 ---
 
-### ලිංගික හැසිරීම් සඳහා සීමාව අවුරුදු 14ට අඩු කිරීම
+### Death of the limit to sexual behavior to 14
 
 *2024-03-21 10:59:51* · [`adalk`](https://www.ada.lk/breaking_news/ලිංගික-හැසිරීම්-සඳහා-සීමාව-අවුරුදු-14ට-අඩු-කිරීම/11-408736) · `si`
 
-ගැහැණු දරුවන් ලිංගික හැසිරීම් සඳහා සීමාව අවුරුදු 14ට අඩු කිරීම මගින් කාන්තා සහ පිරිමි ගණිකා වෘත්තිය ප‍්‍රචලිත කිරීම සඳහා ගනු ලබන දුෂ්ඨ උත්සාහය එළිදරව් කිරීම සඳහා ජාතික සංවිධාන එකමුතුව විසින් පවත්වනු ලබන විශේෂ මාධ්‍ය හමුව 2024-03-20 ඊයේ දින බොරැල්ල එන්.එම්. පෙරේරා කේන්ද්‍රයේදී පැවැත්වීය.
+National Organizations met on 2024-03-20 to discuss efforts to regulate sexual behavior, with Dr. Wasantha Bandara accusing the proposed law of promoting child abuse. The law aims to lower the age of consent from 16 to 14, sparking controversy.
 
-මෙහිදී ජ්‍යෙෂ්ඨ කල්‍යානන්ද තිරාණගම සහ වෛද්‍ය වසන්ත බණ්ඩාර යන මහත්වරුන් විසින් විශේෂ හෙළිදරව්වක් සිදුකරනු ලැබුවා.
+🟩
 
-දේශහිතෛෂී ජාතික ව්‍යාපාරයේ මහ ලේකම් වෛද්‍ය වසන්ත බණ්ඩාර මහතා අනාවරණය කළේ මෙම පනත මගින් කිරීමට උත්සාහ දරන්නේ මෙරට දරුවන් අපයෝජනයට ලක්කිරීම ප්‍රවර්ධනය කිරීම බවයි.
+Special Media Meeting conducted by the National Organizations to Disclose the Various Efforts for Sexual Behaviors 2024-03-20, Borella NM. Held at the center of Perera.
 
-1995 වසරේ දී සිදු කළ දණ්ඩනීති සංග්‍රහයේ සංශෝධනයට අනුව මෙරට අවුරුදු 16 ට අඩු දැරිවියක් ස්ව කැමැත්තෙන් අපයෝජනයට ලක් වුවද එය ස්ත්‍රී දූෂණය යටතට වැටෙන බරපතළ වරදක් බවත්, අධිකරණ අමාත්‍ය විජේදාස රාජපක්ෂ මහතා එම වයස් සීමව මෙම පනත මගින් අවුරුදු 14 දක්වා අඩුකර ඇති බවත් ඒ මහතා මෙහිදී චෝදනා කළේය.
+Senior Khallirananda Thiranagama and Dr. Wasantha Bandara were conducted by a special revelation.
 
-...
+The Secretary General of the Patriotic National Movement Dr. Wasantha Bandara revealed that this Act is trying to promote abuse of children in this country.
+
+He was charged with the amendment of the Dandunenathi Code in 1995, but the Hon. Wijedasa Rajapakse has been reduced to the age of 16, but that it has been a serious sin under rape and has been reduced to the year to 14 years.Did.
+
+He pointed out that the man's age limit is 18 to 22 years as an urgent need, this bill has been brought about a burning problem.
+
+Dr. Wasantha Bandara revealed that Ali Sabri had a cabinet to bring a cabinet in 2021.
+
+◼️
 
 [Data](articles/1f10891f.json)
+
+[Extended Data](ext_articles/1f10891f.ext.json)
 
 ---
 
@@ -2107,41 +2167,5 @@ The 18th consecutive SLIM Kantar People’s Awards concluded successfully on the
 [Data](articles/53e554b8.json)
 
 [Extended Data](ext_articles/53e554b8.ext.json)
-
----
-
-### The George Keyt Foundation ‘Sri Lankan Artists 2024’ exhibition returns to celebrate nation’s artistic brilliance
-
-*2024-03-20 22:29:00* · [`islandlk`](http://island.lk/the-george-keyt-foundation-sri-lankan-artists-2024-exhibition-returns-to-celebrate-nations-artistic-brilliance/) · `en`
-
-The long-awaited ‘Sri Lankan Artists 2024’ exhibition organized by The George Keyt Foundation will make a resounding comeback after a six-year hiatus. The grand opening will take place on 22 March 2024 at the JDA Perera Gallery in Colombo and continue until 26 March.
-
-The George Keyt Foundation’s ‘Sri Lankan Artists 2024’ exhibition not only celebrates the nation’s artistic brilliance but also serves as a platform for nurturing and promoting emerging artists. With future plans to collaborate with the government, the exhibition aims to facilitate international exposure for Sri Lankan artists through art fairs abroad.
-
-...
-
-[Data](articles/f6e55c4d.json)
-
-[Extended Data](ext_articles/f6e55c4d.ext.json)
-
----
-
-### Sri Lanka Insurance hosts seminar on Enhancing Law Enforcement Leadership and Communication
-
-*2024-03-20 22:27:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-hosts-seminar-on-enhancing-law-enforcement-leadership-and-communication/) · `en`
-
-Sri Lanka Insurance, in collaboration with Sri Lanka Insurance Life Limited (SLICLL) and Sri Lanka Insurance General Limited (SLICGL), organized an enriching seminar focused on “Enhancing Law Enforcement Leadership and Communication.” Held on March 7, 2024, at the SLIC head office, the event featured Senior Deputy Inspector General for the Eastern Province, Ajith Rohana, as the keynote speaker.
-
-During the seminar, Senior DIG Ajith Rohana delivered a captivating session, drawing from his extensive experience in law enforcement and public communication. His discourse emphasized crucial elements of effective communication and leadership strategies tailored for professionals in law enforcement.
-
-Related Topics:Enhancing Law Enforcement Leadership and CommunicationSri Lanka InsuranceSri Lanka Insurance General LimitedSri Lanka Insurance Life Limited
-
-Nestlé Lanka honoured at Best Corporate Citizen Sustainability Awards 2023
-
-...
-
-[Data](articles/93fb01fb.json)
-
-[Extended Data](ext_articles/93fb01fb.ext.json)
 
 ---

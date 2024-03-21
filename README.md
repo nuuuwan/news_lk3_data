@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 15:17:46**
+As of **2024-03-21 15:33:21**
 
 ## Newspaper Stats
 
-*Scraped **14,330** Articles*
+*Scraped **14,334** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,47 +16,125 @@ dailyftlk | 756
 economynextcom | 764
 islandlk | 782
 adalk | 1,238
-adaderanalk | 1,719
+adaderanalk | 1,721
 tamilmirrorlk | 1,735
 virakesarilk | 2,014
 dailymirrorlk | 2,195
-adaderanasinhalalk | 2,283
+adaderanasinhalalk | 2,285
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,326 (100.0%) of 14,330 articles have been extended.
+14,330 (100.0%) of 14,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### திருகோணமலை மேன்காமம் குளம் ஆக்கிரமிப்பு ;  சட்ட நடவடிக்கை எடுக்குமாறு கிராம மக்கள் கோரிக்கை
+### බදු පනත් 2ක් බලාත්මක කෙරේ
 
-*2024-03-21 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/179330) · `ta`
+*2024-03-21 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194778) · `si`
 
-திருகோணமலை  மூதூர் பிரதேச செயலாளர் பிரிவுக்குட்பட்ட மேன்காமம் குளத்தின் பகுதிகளை பெரும்பான்மை இனத்தைச் சேர்ந்த சிலர் நேற்று புதன்கிழமை (20) முதல் மீண்டும் ஆக்கிரமித்து வருவதாகவும், கனரக வாகனங்களை பயன்படுத்தி குளத்தின் பகுதிகளை சேதப்படுத்தி அங்கிருக்கும் நீரை வெளியேற்றி விவசாய நடவடிக்கைகளில் ஈடுபடுவதாகவும் கிராம மக்கள் தெரிவிக்கின்றனர்.
+පාර්ලිමේන්තුව විසින් සම්මත කරනු ලැබූ පනත් කෙටුම්පත් 02ක් සඳහා කථානායක මහින්ද යාපා අබේවර්ධන මහතා අත්සන් තබා තිබේ.
 
-இது தொடர்பாக சம்பந்தப்பட்ட அதிகாரிகளுக்கு தெரியப்படுத்தியும் இதுவரை அவர்களுக்கு எதிராக எவ்வித சட்ட நடவடிக்கைகளும் மேற்கொள்ளப்படவில்லை எனவும் இதனால் அக்குளத்தை நம்பி விவசாயத்தில் ஈடுபடும் மக்களின் வாழ்வாதாரம் பாதிக்கப்படுவதாகவும் கவலை வெளியிடுகின்றனர்.
+සමාජ ආරක්ෂණ දායකත්ව බදු (සංශෝධන) සහ එකතු කළ අගය මත බදු (සංශෝධන) යන පනත් කෙටුම්පත් සඳහා කථානායකවරයා මෙලෙස ඊයේ (20) සිය සහතිකය සටහන් කර ඇත.
 
-...
+ඒ අනුව, උක්ත පනත් කෙටුම්පත් 2024 අංක 15 දරන සමාජ ආරක්ෂණ දායකත්ව බදු (සංශෝධන) පනත සහ 2024 අංක 16 දරන එකතු කළ අගය මත බදු (සංශෝධන) පනත ලෙස ඊයේ (20) සිට බලාත්මක වන බව ශ්‍රී ලංකා පාර්ලිමේන්තුව නිවේදනය කළේය.
 
-[Data](articles/790fe9b3.json)
+◼️
+
+[Data](articles/50b7eed4.json)
 
 ---
 
-### ”எதிர்க்கட்சி உறுப்பினர்கள் உள் தகவல்களை வெளியிட்டுள்ளனர்”
+### ජාත්‍යන්තර මූල්‍ය අරමුදලෙන් ශ්‍රී ලංකාවට සුබ ආරංචියක්
+
+*2024-03-21 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194777) · `si`
+
+ශ්‍රී ලංකාවට අනුමත කළ විස්තීර්ණ ණය පහසුකමේ වැඩසටහන සම්බන්ධයෙන් කාර්ය මණ්ඩල මට්ටමේ එකඟතාවයකට එළඹුණු බව ජාත්‍යන්තර මූල්‍ය අරමුදල නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/4397fcae.json)
+
+---
+
+### IMF and Sri Lanka reaches staff-level agreement following second review
+
+*2024-03-21 15:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98106/imf-and-sri-lanka-reaches-staff-level-agreement-following-second-review) · `en`
+
+IMF staff and the Sri Lankan authorities have reached staff-level agreement on economic policies to conclude the second review of the 4-year EFF-supported program and the 2024 Article IV Consultation.
+
+Once the review is approved by IMF Management and completed by the IMF Executive Board, Sri Lanka will have access to SDR 254 million (about US$337 million) in financing, bringing the total IMF financial support disbursed under the arrangement to SDR 762 million (about US$1 billion), the International Monetary Fund (IMF) said.
+
+Macroeconomic policy reforms are starting to bear fruit. Sustaining the reform momentum and addressing governance weaknesses and corruption vulnerabilities are critical to put the economy on a path towards lasting recovery and stable and inclusive growth.
+
+Completion of the review by the IMF’s Executive Board requires:
+
+...
+
+[Data](articles/8d2df923.json)
+
+---
+
+### Speaker endorses VAT and Social Security Contribution Levy bills
+
+*2024-03-21 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98105/speaker-endorses-vat-and-social-security-contribution-levy-bills) · `en`
+
+Speaker Mahinda Yapa Abeywardena has endorsed the Social Security Contribution Levy (Amendment) Bill and Value Added Tax (Amendment) Bill.
+
+According to Deputy Speaker Ajith Rajapakse, the two Bills received the assent of the Speaker yesterday (March 20).
+
+The two Bills thus came into effect as the Social Security Contribution Levy (Amendment) Act No. 15 of 2024 and Value Added Tax (Amendment) Act No. 16 of 2024 yesterday.
+
+◼️
+
+[Data](articles/762f8aeb.json)
+
+---
+
+### Occupation of the Trincomalee Menkamam Pond;Villagers demand legal action
+
+*2024-03-21 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/179330) · `ta`
+
+Villagers in Trincomalee's Menkamam Pond demand legal action against illegal occupants, affecting over 200 farmers. The pond, part of the Abirami Amman Agricultural Federation, has been rehabilitated and acquired by locals, causing agricultural losses.
+
+🟩
+
+The villagers say that the majority of the people of the Menkamam pond, which belongs to the Muttur Divisional Secretariat Division of Trincomalee, have been occupying the area since Wednesday (20).
+
+They are concerned that no legal action has been taken against them and that no legal action has been taken against them.
+
+More than 200 farmers rely on the Menkamam pond belonging to the Abirami Amman Agricultural Federation. But the site has long been rehabilitated and has been acquired by the majority of the people. The people who rely on this field and who have been working as a livelihood industry have been facing a loss in agriculture for a long time.
+
+Therefore, the relevant authorities are demanding the rehabilitation of the pond and the villagers are urging the villagers to take legal action against those who illegally occupy the pond.
+
+◼️
+
+[Data](articles/790fe9b3.json)
+
+[Extended Data](ext_articles/790fe9b3.ext.json)
+
+---
+
+### “Opposition members have released internal information”
 
 *2024-03-21 14:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சி-உறுப்பினர்கள்-உள்-தகவல்களை-வெளியிட்டுள்ளனர்/175-334992) · `ta`
 
-பொலிஸ்மா அதிபர் தொடர்பில் தீர்மானிப்பதற்காக அரசியலமைப்பு சபை நடத்திய கூட்டத்தின் உள்ளக தகவல்களை வெளியிட்டதன் மூலம் அரசியலமைப்பு சபையின் எதிர்க்கட்சி உறுப்பினர்கள் பொறுப்பற்ற முறையில் செயற்பட்டுள்ளதாக பிரதமர் தினேஷ் குணவர்தன இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
+Prime Minister Dinesh Gunawardena criticized opposition members for releasing internal information from the Constitutional Council, affecting the appointment of the Inspector General of Police.
 
-"கடந்த காலங்களில் அரசியலமைப்பு சபை உறுப்பினர்களிடையே பிரச்சினைகள் மற்றும் கருத்து வேறுபாடுகள் இருந்தன, ஆனால் எந்த உறுப்பினரும் அவற்றை வெளிப்படுத்தவில்லை. இருப்பினும் தற்போதைய அரசியலமைப்பு சபையின் எதிர்க்கட்சி உறுப்பினர்கள் உள் தகவல்களை வெளியிட்டுள்ளனர். இது ஒரு பொறுப்பற்ற செயல்," என்று பிரதமர் கூறினார்.
+🟩
+
+Prime Minister Dinesh Gunawardena told Parliament today that the opposition members of the Constitutional Council have been reckless by the release of internal information held by the Constitutional Council to decide on the Inspector General of Police.
+
+"In the past there were issues and disagreements among the members of the Constitutional Council but no member revealed them. However, opposition members of the current Constituent Assembly have released internal information. This is a reckless act, ”the Prime Minister said.
 
 ◼️
 
 [Data](articles/be55a641.json)
+
+[Extended Data](ext_articles/be55a641.ext.json)
 
 ---
 
@@ -208,6 +286,8 @@ A new "genuine student test" will be introduced to further crack down on interna
 
 [Data](articles/6990dc6b.json)
 
+[Extended Data](ext_articles/6990dc6b.ext.json)
+
 ---
 
 ### Newly Incoming Police Boss
@@ -304,19 +384,25 @@ After that, the woman was allowed to go on two physical bail worth Rs 06 lakhs.
 
 ---
 
-### ජනවාරි 01 සිට මාර්තු මස 19 දක්වා ගුවන් මගීන්  850,000ක්
+### 850,000 passengers from January 01 to March 19
 
 *2024-03-21 13:56:20* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරි-01-සිට-මාර්තු-මස-19-දක්වා-ගුවන්-මගීන්--850-000ක්/11-408742) · `si`
 
-විදෙස් සංචාරකයන්ගේ පැමිණිම ඉහළ ගොස් ඇති බවත්, ඒ අනුව කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපළ ගුවන් මගීන් වැඩි වශයෙන් භාවිතා කරන ස්ථානයක් බවට පත්ව ඇති බවත් ගුවන් තොටුපළ හා ගුවන් සේවා ශ්‍රී ලංකා පුද්ගලික සමාගමේ සභාපති අතුල ගල්කැටිය මහතා පැවසීය.
+Bandaranaike International Airport saw 850,000 passengers from Jan 1 to Mar 19, 2024, with a target of 10 million by year-end, according to Athula Hokage.
 
-ඒ මහතා පෙන්වා දෙන ආකාරයට 2024 වසරේ ජනවාරි මස 01 වැනිදා සිට මාර්තු මස 19 වැනිදා දක්වා කාලය තුළ ගුවන්තොටුපළ සේවා ලබාගත් ගුවන් මගීන් සංඛ්‍යාව 850,000කි.
+🟩
 
-එසේම මේ වසර අවසානය වන විට ගුවන් මගීන් මිලියන 10ක පමණ පිරිසක් ගුවන්තොටුපළ භාවිතා කරනු ඇතැයි විශ්වාස කරන බවද ඒ මහතා සඳහන් කළේය.
+The arrival of foreign tourist arrivals, the Airport and Aviation, Sri Lanka (Pvt) Ltd. Athula Hokage, said that Bandaranaike International Airport was increasingly used by Bandaranaike International Airport.
+
+According to Mr. Heroices, 850,000 passengers obtained from 1st January to March 1, 2024.
+
+He also believed to use 10 million passengers to use the airport by the end of this year, he said.
 
 ◼️
 
 [Data](articles/b196e376.json)
+
+[Extended Data](ext_articles/b196e376.ext.json)
 
 ---
 
@@ -2185,97 +2271,5 @@ He is said to have been a close associate of the underworld figure known as ‘P
 [Data](articles/9e73b0a1.json)
 
 [Extended Data](ext_articles/9e73b0a1.ext.json)
-
----
-
-### Sri Lanka’s Adani wind power price lowered to 8.85 cents: Minister
-
-*2024-03-21 07:51:00* · [`economynextcom`](https://economynext.com/sri-lankas-adani-wind-power-price-lowered-to-8-85-cents-minister-155433/) · `en`
-
-ECONOMYNEXT – The purchase price of a wind power plant in Mannar, Sri Lanka built by India’s Adani has now been lowered to 8.85 US cents in the latest negotiations, Energy Minister Kanchana Wijesekera said.
-
-“They are now proposing 8.85 US cents or about 26.90 rupees,” Minister Wijesekera told parliament.
-
-The private plant has drawn controversy because it was not coming through competitive bidding and the initial price demanded was said to have been as high at 15.20 US cents a unit.
-
-Power purchase agreements (PPA) which run up to 20 years are among the largest government procurement in the island and dwarfs some capital projects.
-
-Minister Wijesekera said the plant came as a government-to-government deal.  A cabinet appointed negotiation committee was appointed to sort out the price.
-
-Some political analysts refer to such power plants as a ‘geopolitical’ cost.
-
-There are now several plants for which prices are being negotiated without competitive tender.
-
-...
-
-[Data](articles/82e731d3.json)
-
-[Extended Data](ext_articles/82e731d3.ext.json)
-
----
-
-### Sri Lanka team to Europe to begin negotiations with bondholders: President
-
-*2024-03-21 07:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-team-to-europe-to-begin-negotiations-with-bondholders-president-155435/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury Secretary and Central Bank Governor will leave for Europe to begin direct discussions with bondholders, and wrap up re-structuring by June-July President Ranil Wickremesinghe has said.
-
-According to a summary of a speech made by president in Sinhala, President Wickremesinghe was cited as saying by the President’s media unit, the following at an event at a temple on March 20.
-
-Discussion with China are also ongoing, he said. Borrowings from China Development Bank has been classified as commercial.
-
-“After we get a declaration that Sri Lanka is free from bankruptcy, we also expects to have joint discussion with IMF and World Bank in April,” President
-
-Sri Lanka is also in discussions with the International Monetary Fund this week to reach a staff level agreement, he said.
-
-“It’s crucial to finish these activities before the elections,” President Wickremesinghe said.
-
-...
-
-[Data](articles/09a5c2cc.json)
-
-[Extended Data](ext_articles/09a5c2cc.ext.json)
-
----
-
-### A change in prevailing dry weather condition expected from today
-
-*2024-03-21 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98091/a-change-in-prevailing-dry-weather-condition-expected-from-today) · `en`
-
-The Department of Meteorology says a change in the prevailing dry weather conditions in the island can be expected from today.
-
-Several spells of showers will occur in Eastern, Uva and Northern provinces, it said.
-
-Showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, Southern, North-Western and North-Central provinces during the afternoon or night.
-
-Fairly heavy showers above 50mm are likely at some places in Sabaragamuwa Province, the department added.
-
-Misty conditions can be expected at some places in Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/538e0852.json)
-
-[Extended Data](ext_articles/538e0852.ext.json)
-
----
-
-### A revelation of the death of wild elephant
-
-*2024-03-21 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194758) · `si`
-
-The Department of Wildlife Conservation aims to reduce wildlife conservation deaths through continuous electricity electricivism inspections.
-
-🟩
-
-The Department of Wildlife Conservation says that the death of wildlife conservation will be reduced by the continuous implementation of electricity electricivism inspection.
-
-◼️
-
-[Data](articles/98df5f78.json)
-
-[Extended Data](ext_articles/98df5f78.ext.json)
 
 ---

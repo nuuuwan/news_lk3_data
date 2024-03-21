@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 02:02:56**
+As of **2024-03-22 02:17:56**
 
 ## Newspaper Stats
 
-*Scraped **14,408** Articles*
+*Scraped **14,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ adalk | 1,246
 adaderanalk | 1,731
 tamilmirrorlk | 1,740
 virakesarilk | 2,028
-dailymirrorlk | 2,215
+dailymirrorlk | 2,217
 adaderanasinhalalk | 2,301
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,408 (100.0%) of 14,408 articles have been extended.
+14,408 (100.0%) of 14,410 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### Interesting tales from a country of mixed fortunes - EDITORIAL
+
+*2024-03-22 01:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Interesting-tales-from-a-country-of-mixed-fortunes-EDITORIAL/172-279363) · `en`
+
+Sri Lanka is a country of mixed fortunes to a total outsider. There is news of doctors leaving the shores in numbers and also tourists arriving in droves to enjoy the scenic beauty of the country.
+
+According to health sector sources as many as close to 450 medical professionals had left the country during recent times because they were not satisfied with what it had to offer them.
+
+On the contrary tourists from overseas are landing here in large numbers because they are happy with what Sri Lanka can offer them in the paradise island. The government has countered claims by the medics and said that a good many of them returned to their homeland. But those in the medical profession here have rubbished the claims stating that only five specialists returned. The government must verify its news before releasing statements because this is an era where the public and visiting tourists are well-updated about happenings here and abroad on the topics mentioned in this column.
+
+...
+
+[Data](articles/57fd1c54.json)
+
+---
+
+### Rachel Corrie and USS Liberty: The Hannibal Doctrine in US diplomacy
+
+*2024-03-22 01:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Rachel-Corrie-and-USS-Liberty-The-Hannibal-Doctrine-in-US-diplomacy/172-279361) · `en`
+
+File picture: A Palestinian girl holds posters of US peace activist Rachel Corrie, who was killed by an Israeli army bulldozer in 2003, during a protest marking the anniversary of her death at a refugee camp in Rafah in 2013. AFP
+
+On Saturday, Palestinians and peace activists campaigning for a free Palestine commemorated the 21st anniversary of the death of Rachel Corrie, an American citizen. She was crushed to death in Gaza on March 16, 2003, by a 26,287-kg heavy bulldozer driven by an Israeli soldier. Commemorative events were held in Palestinian territories despite the melancholy over the unending destruction with which genocide-committing Israel is visiting the Palestinians day in and day out and the ever-increasing death toll, which now stands at 32,000—nearly half of the children.
+
+...
+
+[Data](articles/610fd9f3.json)
+
+---
 
 ### Govt. approval rating dips to 7% in February
 
@@ -2249,49 +2279,5 @@ The US $ 299.0465 was reported at Rs.
 [Data](articles/8e88ef21.json)
 
 [Extended Data](ext_articles/8e88ef21.ext.json)
-
----
-
-### Showers in the North
-
-*2024-03-21 13:30:25* · [`adalk`](https://www.ada.lk/breaking_news/උතුරටත්-වැසි/11-408741) · `si`
-
-The Northern Province is experiencing its first rainfall in several months, relieving severe drought conditions. People are comforted by the rain, especially in Vavuniya, Omantha, Puliyankulam, Kilinochchi, Pooneryn, and Jaffna. Farmers in the North are also benefiting from the rain.
-
-🟩
-
-Several months of the Northern Province, a significant range of the North of the Northern Province is being received today after completing the current dry weather conditions.
-
-The people of the Northern Province were also suffering from severe solar andiented dry weather and the people have a great comfort with the rainfall.
-
-Vavuniya was receiving the briefing of Omantha, Puliyankulam, Kilinochchi, Pooneryn and Jaffna this morning.
-
-The farmers in the North were also severely persecuted by the farmers in the Northern Province.
-
-◼️
-
-[Data](articles/cbf518a9.json)
-
-[Extended Data](ext_articles/cbf518a9.ext.json)
-
----
-
-### Australia tightens student visa rules as migration hits record high
-
-*2024-03-21 13:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98102/australia-tightens-student-visa-rules-as-migration-hits-record-high) · `en`
-
-Australia will begin enforcing tougher visa rules for foreign students this week as official data showed migration hit another record high, which is likely to further exacerbate an already tight rental market.
-
-From Saturday, English language requirements for student and graduate visas will be increased, while the government will get the power to suspend education providers from recruiting international students if they repeatedly break rules.
-
-“The actions this weekend will continue to drive migration levels down while delivering on our commitments in the migration strategy to fix the broken system we inherited,” Home Affairs Minister Clare O’Neil said in a statement.
-
-A new “genuine student test” will be introduced to further crack down on international students who look to come to Australia primarily to work, while the imposition of “no further stay” conditions will be used on more visitor visas.
-
-...
-
-[Data](articles/a8e22873.json)
-
-[Extended Data](ext_articles/a8e22873.ext.json)
 
 ---

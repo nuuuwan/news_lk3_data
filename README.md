@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 19:33:36**
+As of **2024-03-21 19:50:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,296
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,383 (100.0%) of 14,385 articles have been extended.
+14,385 (100.0%) of 14,385 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ While there has been speculation among fans and pundits that the Sri Lanka crick
 
 [Data](articles/f36f392f.json)
 
+[Extended Data](ext_articles/f36f392f.ext.json)
+
 ---
 
 ### Groups, fixtures confirmed for ICC Women’s T20 World Cup Qualifier 2024
@@ -67,6 +69,8 @@ The tournament runs from April 25 to May 7 with the 10 teams divided into two gr
 ...
 
 [Data](articles/25ce39bf.json)
+
+[Extended Data](ext_articles/25ce39bf.ext.json)
 
 ---
 

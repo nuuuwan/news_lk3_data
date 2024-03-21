@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 10:03:21**
+As of **2024-03-21 10:18:06**
 
 ## Newspaper Stats
 
-*Scraped **14,252** Articles*
+*Scraped **14,256** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,71 +16,159 @@ dailyftlk | 756
 economynextcom | 764
 islandlk | 782
 adalk | 1,226
-adaderanalk | 1,708
+adaderanalk | 1,710
 tamilmirrorlk | 1,724
-virakesarilk | 1,992
+virakesarilk | 1,993
 dailymirrorlk | 2,184
-adaderanasinhalalk | 2,273
+adaderanasinhalalk | 2,274
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,248 (100.0%) of 14,252 articles have been extended.
+14,252 (100.0%) of 14,256 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### யாழ்.பல்கலை மாணவர்கள் இலங்கை மனித உரிமைகள் ஆணைக்குழுவில் முறைப்பாடு
+### நாடாளுமன்ற தேர்தல் முறையில் மாற்றங்களை மேற்கொள்ள முயற்சி - தேர்தல் தாமதமாகலாம் என பவ்ரல் அச்சம்
+
+*2024-03-21 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/179282) · `ta`
+
+நாடாளுமன்ற தேர்தல் முறையில்  மாற்றங்களை மேற்கொள்வதற்கான முயற்சிகள் காரணமாக தேர்தல்கள் தாமதமாகலாம் என தேர்தல் கண்காணிப்பு அமைப்பான பவ்ரல் கரிசனை வெளியிட்டுள்ளது.
+
+நாடாளுமன்ற தேர்தல் முறையில் மாற்றங்களை மேற்கொள்வதற்கான யோசனைகள் உரிய முறையில் நடைமுறைப்படுத்தப்படாவிட்டால் தேர்தல்கள் தாமதமாகலாம் என பவ்ரல் அமைப்பின் நிறைவேற்று பணி;ப்பாளர் ரோகண ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+
+தேர்தல் முறையில் மாற்றங்களை ஏற்படுத்தவேண்டியதன் அவசியத்தை வலியுறுத்தியுள்ள அவர் அதேவேளை நாடாளுமன்ற தேர்தல் முறையில் மாற்றங்களை மேற்கொள்வதற்கு முன்னர் எல்லை நிர்ணய நடவடிக்கைகளை பூர்த்தி செய்யவேண்டு;ம் எனவும் தெரிவித்துள்ளார்.
+
+எல்லை நிர்ணயநடவடிக்கைகளை பூர்த்தி செய்யாவிட்டாலும் ஆகஸ்ட்மாதத்தி;ற்குள் தேர்தல் முறையில் மாற்றங்களை மேற்கொண்டாலும் இந்த நகல்சட்டமூலத்தில் தற்போதுள்ள தேர்தல் முறையின் கீழ் தேர்தல்களை நடத்துவதற்கு தேர்தல் ஆணையகத்திற்குஅனுமதி வழங்கும் திருத்தத்தை உள்ளடக்கவேண்டும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/d1aa07f4.json)
+
+---
+
+### අමෙරිකා ගිය බන්දුල ව නැවත ගෙන්වයි
+
+*2024-03-21 10:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194765) · `si`
+
+ලෝක බැංකුව විසින් සංවිධානය කළ සමුළුවකට සහභාගී වීම සඳහා අමෙරිකාවේ වොෂිංටන් වෙත ගොස් සිටි අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා ඊයේ (20) රාත්‍රි යළි දිවයිනට පැමිණ තිබේ.
+
+අමාත්‍යවරයා දිවයිනට පැමිණි පසු මාධ්‍ය හමුවේ පැවසුවේ කථානායකවරයාට එරෙහි විශ්වාසභංග යෝජනාවට අදාළ ඡන්ද විමසීමේ අවස්ථාවට සහභාගිවීම සඳහා මෙලෙස තමා කැඳවු බවයි.
+
+◼️
+
+[Data](articles/1ca217d6.json)
+
+---
+
+### Third day of debate on no-confidence motion against Speaker begins
+
+*2024-03-21 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98096/third-day-of-debate-on-no-confidence-motion-against-speaker-begins-) · `en`
+
+The third day of the parliamentary debate on the no-confidence motion against Speaker Mahinda Yapa Abeywardena commenced at 09.30 a.m. today (March 21).
+
+The debate is slated to end at 4.30 p.m. followed by a vote on the no-confidence motion.
+
+The parliamentary debate on the no-confidence motion tabled by the Samagi Jana Balawegaya (SJB) was initially slated to be held for two days, however the Committee on Parliamentary Business later decided for it to be debated for three consecutive days.
+
+The debate commenced in the Parliament on Tuesday (March 19).
+
+The motion brought forth by the opposition against the Speaker was officially handed over to the Deputy General Secretary of Parliament on March 05.
+
+...
+
+[Data](articles/2bbae5be.json)
+
+---
+
+### Sri Lanka to start talks to restructure bonds next week - report
+
+*2024-03-21 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98095/sri-lanka-to-start-talks-to-restructure-bonds-next-week-report) · `en`
+
+Global investors and Sri Lanka officials expect to start negotiations aimed at restructuring $12 billion in defaulted global bonds next week, according to people familiar with the matter. The nation’s dollar bonds rose.
+
+A group of bondholders, known as a steering committee, will begin talks as they weigh a proposal from the government to rework the overseas debt that has been in default since 2022, the people said, declining to be named because negotiations are private. The goal is to reach a deal quickly, the people said, particularly as Sri Lanka is scheduled to hold presidential elections later this year.
+
+The nation’s central bank governor and treasury secretary are due to travel to Europe for discussions with bondholders, President Ranil Wickremesinghe was cited as saying in a Sinhala-language statement from his media unit March 20.
+
+...
+
+[Data](articles/9465212d.json)
+
+---
+
+### Jaffna Pallakalai students lodged a complaint with the Human Rights Commission of Sri Lanka
 
 *2024-03-21 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179280) · `ta`
 
-வெடுக்குநாறிமலையில் இடம்பெற்ற பொலிஸ் அராஐகங்கள் தொடர்பில் யாழ்ப்பாணப் பல்கலைக்கழக மாணவர்களால் இலங்கை மனித உரிமைகள் ஆணைக்குழுவில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+Jaffna University students complained to Sri Lanka's Human Rights Commission about police Aramalai.
 
-கடந்த மகாசிவராத்திரி தினத்தன்று வெடுக்குநாறி மலையில் இடம்பெற்ற மனித உரிமை மீறல்கள் தொடர்பில் யாழ்ப்பாணப் பல்கலைக்கழக மாணவர்களால் புதன்கிழமை (20) இலங்கை மனித உரிமைகள் ஆணைக்குழுவின் யாழ்ப்பாணப் பிராந்திய அலுவலகத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+🟩
+
+The Jaffna University students have lodged a complaint with the Human Rights Commission of Sri Lanka regarding the police Aramalai.
+
+The Jaffna University of Jaffna has lodged a complaint with the Jaffna Human Rights Commission at the Jaffna Regional Office on Wednesday (20) regarding human rights violations at Vidukkunni Mountain on the last day of Mahasivarathri.
 
 ◼️
 
 [Data](articles/4bf6d024.json)
 
+[Extended Data](ext_articles/4bf6d024.ext.json)
+
 ---
 
-### ජාත්‍යන්තර බැඳුම්කර ප්‍රතිව්‍යුහගත කිරීමේ සාකච්ඡා ගැන හෙළිදරව්වක්
+### A revelation of the negotiations on the restructuring of international bonds
 
 *2024-03-21 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194764) · `si`
 
-ජාත්‍යන්තර බැඳුම්කර ප්‍රතිව්‍යුහගත කිරීම සම්බන්ධයෙන් ශ්‍රී ලංකා බලධාරීන් සහ ආයෝජකයින් අතර සාකච්ඡා ලබන සතියේ ආරම්භ කිරීමට නියමිත බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Sri Lanka's authorities and investors plan to restructure $12 billion in international bonds next week, aiming to resolve debts from 2022's economic crisis. The goal is to agree before the presidential election this year.
 
-ආර්ථික අර්බුදය හේතුවෙන් 2022 සිට ණය ගෙවීම් පැහැරහැරීමට ශ්‍රී ලංකාව ට සිදුවිය.
+🟩
 
-බ්ලූම්බර්ග් පුවත් සේවය වාර්තා කරන්නේ ඩොලර් බිලියන 12ක් පමණ වටිනාකමකින් යුතු බැඳුම්කර ප්‍රතිව්‍යුහගත කිරීමට යෝජිත බවයි.
+Foreign media reports that Sri Lankan authorities and investors will commence next week to the restructuring of international bonds.
 
-මෙම වසරේ දී මෙරට ජනාධිපතිවරණය පැවැත්වීමට නියමිත බැවින් හැකි ඉක්මණින් එකඟතාවයකට එළඹීම දෙපාර්ශ්වයේම අරමුණ බව සඳහන් ය.
+Sri Lanka had to bear debts from 2022 due to the economic crisis.
+
+The Bloomberg news service is proposed to restructure bonds of about $ 12 billion worth of bonds.
+
+It is said that the purpose of both sides is to reach an agreement as soon as the Sri Lankan presidential election will be held this year.
 
 ◼️
 
 [Data](articles/9c04d5db.json)
 
+[Extended Data](ext_articles/9c04d5db.ext.json)
+
 ---
 
-### ලන්ච් ෂීට් කිලෝ 5,377ක් විනාශ කෙරේ
+### 5,377 kg of Lunch Sheets destroyed
 
 *2024-03-21 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194763) · `si`
 
-සිය භාරයටගත් නීතිවිරෝධී ලන්ච් ෂීට් කිලෝග්‍රෑම් 5,377ක් මධ්‍යම පරිසර අධිකාරියේ අධීක්ෂණයෙන් විනාශ කර තිබේ.
+The Central Environmental Authority (CEA) and the Consumer Affairs Authority destroyed 5,377 kg of illegal lunch sheets at a Puttalam company, with prosecution by the Western Province and Kurunegala District courts. The sheets were stored in illegal polythene and destroyed as part of an eco-friendly initiative.
 
-මධ්‍යම පරිසර අධිකාරිය පාරිභෝගික කටයුතු පිළිබඳ අධිකාරිය සමඟ ඒකාබද්ධව සිදුකළ වැටලීම්වලින් මෙම ලන්ච් ෂීට් සොයාගෙන තිබූ අතර, පුත්තලමේ පෞද්ගලික සමාගමක දී එම ලන්ච් ෂීට් තොගය විනාශ කිරීමට මධ්‍යම පරිසර අධිකාරිය ඊයේ (19) කටයුතු කළේය.
+🟩
 
-නීතිවිරෝධී පොලිතීන් ලන්ච් ෂීට් සම්බන්ධයෙන් මධ්‍යම පරිසර අධිකාරිය පැවරූ නඩු දොළහකට අයත්, නඩුභාණ්ඩ ලෙස ගබඩාකර තිබූ නීතිවිරෝධී පොලිතීන් ලන්ච් ෂීට් මෙලෙස විනශ කිරීමට කටයුතු කෙරිණ.
+5,377 kilograms of illegal lunch sheets have been destroyed by the Central Environmental Authority.
 
-බස්නාහිර පළාත සහ කුරුණෑගල දිස්ත්‍රික්කයට අදාළව සිදුකළ මෙම නඩු පැවරීම් කැස්බෑව මහෙස්ත්‍රාත් අධිකරණය, කොළොන්නාව ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය, කඩුවෙල මහෙස්ත්‍රාත් අධිකරණය, ගම්පහ මහෙස්ත්‍රාත් අධිකරණය සහ කුරුණෑග, මහෙස්ත්‍රාත් අධිකරණය යන මහෙස්ත්‍රාත් අධිකරණවලදී විභාග කර ඇත.
+The Central Environmental Authority (CEA) has been found to destroy the Lunch Shet at a private company in Puttalam with the Consumer Affairs Authority.
 
-නඩු විභාග කරන තෙක් මධ්‍යම පරිසර අධිකාරියට අයත් දොම්පේ සනීපාරක්ෂක කසළ රඳවනයේ මුද්‍රාතබා නඩු භාණ්ඩ ලෙස තැම්පත් කර තැබූ මෙම ලන්ච් ෂීට් තොගය ඊයේ විනාශ කර තිබේ.
+The illegal polythene Lunch Sheet was stored in the illegal polythene, which was transferred to the Central Environmental Authority in the Banch Sheets.
+
+The prosecution was carried out by the Western Province and the Kurunegala District, Kaduwela Magistrate's Court Magistrate's Court Magistrate's Court and Kaduwela Magistrate Court and the Magistrate Court Magistrate Court.
+
+The Lunchy Sheet has been destroyed by the Dompe Sanitary Cases in the Dompe Sanitary Cases belonging to the Dompe Sanitary Relatively in the Dompe Sanitary Kasal Relatively.
+
+Under the supervision of the officers of the Central Environmental Authority and the Consumer Affairs Authority (CEA) officials, the Lunch Sheet has been destroyed as eco-friendly.
 
 ...
 
 [Data](articles/3df9127d.json)
+
+[Extended Data](ext_articles/3df9127d.ext.json)
 
 ---
 
@@ -97,6 +185,8 @@ Police suspect that the accident occurred as a result of a sudden ailment suffer
 ◼️
 
 [Data](articles/06899a22.json)
+
+[Extended Data](ext_articles/06899a22.ext.json)
 
 ---
 
@@ -532,11 +622,15 @@ ECONOMYNEXT – Sri Lanka’s Treasury Secretary and Central Bank Governor will 
 
 According to a summary of a speech made by president in Sinhala, President Wickremesinghe was cited as saying by the President’s media unit, the following at an event at a temple on March 20.
 
+Discussion with China are also ongoing, he said. Borrowings from China Development Bank has been classified as commercial.
+
 “After we get a declaration that Sri Lanka is free from bankruptcy, we also expects to have joint discussion with IMF and World Bank in April,” President
 
 Sri Lanka is also in discussions with the International Monetary Fund this week to reach a staff level agreement, he said.
 
-◼️
+“It’s crucial to finish these activities before the elections,” President Wickremesinghe said.
+
+...
 
 [Data](articles/09a5c2cc.json)
 
@@ -2045,91 +2139,5 @@ Pakistani batsman Barber Assam has been able to save 824 runs in the front front
 [Data](articles/b8c812d5.json)
 
 [Extended Data](ext_articles/b8c812d5.ext.json)
-
----
-
-### Sri Lanka to sign “sister district” deal with China’s Chongqing for investments
-
-*2024-03-20 18:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-sign-sister-district-deal-with-chinas-chongqing-for-investments-155373/) · `en`
-
-ECONOMYNEXT – All Sri Lankan districts including in the island nation’s North and East will sign a “sister district” deal with China’s Chongqing province for investments and improve production capacity, State Minister of Social Empowerment Anupa Pasqual, said.
-
-Sovereign debt defaulted Sri Lanka has been looking to attract investments into grass root level across the country and the island nation has been in discussion for “sister district” concept with China’s Chongqing, which has around 33 million population.
-
-Minister Pasqual said Prime Minister Dinesh Gunawardena during his Chinese visit last year has already entered into an agreement to link one of the Chongqing’s district with the island nation’s Western coastal district of Kalutara as a “model project”.
-
-...
-
-[Data](articles/2d767cfc.json)
-
-[Extended Data](ext_articles/2d767cfc.ext.json)
-
----
-
-### Sri Lanka to sign “sister district” deal with China’s Chongqing for investments
-
-*2024-03-20 18:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-districts-to-sign-sister-district-deal-with-chinas-chongqing-for-investments-155373/) · `en`
-
-ECONOMYNEXT – All Sri Lankan districts including in the island nation’s North and East will sign a “sister district” deal with China’s Chongqing province for investments and improve production capacity, State Minister of Social Empowerment Anupa Pasqual, said.
-
-Sovereign debt defaulted Sri Lanka has been looking to attract investments into grass root level across the country and the island nation has been in discussion for “sister district” concept with China’s Chongqing, which has around 33 million population.
-
-Minister Pasqual said Prime Minister Dinesh Gunawardena during his Chinese visit last year has already entered into an agreement to link one of the Chongqing’s district with the island nation’s Western coastal district of Kalutara as a “model project”.
-
-...
-
-[Data](articles/e18d1287.json)
-
-[Extended Data](ext_articles/e18d1287.ext.json)
-
----
-
-### Sri Lanka to bring new law to improve financial governance: president
-
-*2024-03-20 18:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-bring-new-law-to-improve-financial-governance-president-155395/) · `en`
-
-ECONOMYNEXT — Sri Lanka will introduce new legislation in April 2024 aimed at improving financial governance within the government in a bid to propel the economy forward and transform the island nation into an export-oriented economy, President Ranil Wickremesinghe said.
-
-Speaking at a religious ceremony in Kegalle on Wednesday March 20, Wickremesinghe said that, if Sri Lanka continues to rely on borrowing to address the imbalance between imports and exports, the country will inevitably confront another economic crisis within a decade.
-
-A statement from the president’s office quoted him as saying that this calls for economic stability and expediting the transformation of Sri Lanka into an export-oriented economy.
-
-The president said negotiations concerning certifying Sri Lanka as a debt-paying country are anticipated to conclude by June and July and any foreign aid lost due to the country being labelled bankrupt will be retrieved.
-
-...
-
-[Data](articles/e6026e0c.json)
-
-[Extended Data](ext_articles/e6026e0c.ext.json)
-
----
-
-### COPE meeting will meet with Rohitha's
-
-*2024-03-20 18:32:32* · [`adalk`](https://www.ada.lk/breaking_news/රෝහිතගේ-සභාපතිත්වයෙන්-කෝප්-කමිටුව-රැස්වෙයි/11-408727) · `si`
-
-COPE Committee's first meeting introduced its objectives and functionality. Sri Lanka's Kingdom Plantation Corporation was called to prepare a Corporate Plan in 2 months, conduct an immediate survey, and submit all information. Parliamentarian Rohitha Abeygunawardena highlighted the Committee's role. The Government Plantation Corporation faced financial losses, with the Auditor General noting profitability for only four years in 27. The Plantation Corporation was criticized for financial losses, improper use of fertilizers and herbicides, and high-cost employees. The Chairman ordered legal actions against illegal land acquisitions and instructed officials to address outstanding payments within two months. The Plantation Corporation was presented to the Kaduka Select Committee for 2024-2028, with questions about profitability proposals.
-
-🟩
-
-Prior to the first time in the history of the COPE Committee, the chairman explains the Committee objectives and functionality -
-
-Sri Lanka's Kingdom Plantation Corporation is called before the new COPE Committee
-
-Prepare a Corporate Plan in 02 months - the Corp Committee advises
-
-Immediate Survey and submit all information in the Corporation - Tips from the COPE Committee
-
-Parliamentarian Rohitha Abeygunawardena said that the Committee on Public Enterprises (COPE) (CHOGM) could be summoned to the committee.
-
-When the Committee on Public Enterprises met with his Chairman yesterday (19). Prior to the commission of the Committee, the Chairman made a full presentation of the COPE Committee and the functioning of the Committee. It is the first time a new chairman in the history of COPE committee.
-
-The Government Plantation Corporation was summoned for the COPE COPE for the years 2017 and 2017 and the current performance checks.
-
-...
-
-[Data](articles/34226efc.json)
-
-[Extended Data](ext_articles/34226efc.ext.json)
 
 ---

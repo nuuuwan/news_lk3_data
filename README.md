@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 20:18:07**
+As of **2024-03-21 20:34:13**
 
 ## Newspaper Stats
 
@@ -26,35 +26,43 @@ adaderanasinhalalk | 2,297
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,385 (100.0%) of 14,386 articles have been extended.
+14,386 (100.0%) of 14,386 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### 15 හැවිරිදි දැරියකට සිව් දෙනෙක් කළ අපරාධය
+### The crime of a 15 year old girl
 
 *2024-03-21 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194791) · `si`
 
-පුත්තලම සාලියවැව සිරිසරවත්ත ප්‍රදේශයේ 15 හැවිරිදි දැරියක් නිවසේ නොමැති බවට පොලිස් හදිසි ඇමතුම් අංකයට මීට දින කිහිපයකට පෙර ඇමතුමක් ලැබී තිබුණි.
+A 15-year-old girl in Saliyawewa reported missing. Police found her in the jungle, where she revealed being sexually abused by a 28-year-old man and three others since 2021. Two of the four suspects were arrested. The girl also revealed being abused at 9 by a person who was also abused. The suspects, aged 24-30, were remanded until April 2.
 
-ඊට අනුව විමර්ශන ඇරඹූ සාලියවැව පොලීසියට ඇය හමුවන්නේ, කැලෑබද ප්‍රදේශයක සිටියදීය.
+🟩
 
-15 හැවිරිදි දැරියගෙන් කළ ප්‍රශ්න කිරීම්වලදී ඇය පොලීසියට පවසා ඇත්තේ, තම මව්පියන්ගේ ද කැමැත්ත ඇතිව තරුණයා සමග ප්‍රේම සබඳතාවක් පැවැත්වූ බවය.
+The police emergency call had received a call a few days ago that a 15-year-old girl was not home in Saliyawewa Siriyawewa Siriyawewa.
 
-එමෙන්ම අවස්ථා රැසකදී තමා 28 හැවිරිදි තරුණයාගෙන් ලිංගික අපයෝජනයට ලක්වූ බවත් ඇය පොලීසියට පවසා තිබුණි.
+Accordingly, the Saliyawewa police state to investigate the Saliyawewa police station while in the jungle.
 
-එමෙන්ම 2021 සිට අවස්ථා ගණනාවකදී එම ප්‍රදේශයේම පදිංචි තවත් පුද්ගලයින් තිදෙනෙකු ඇයව අපයෝජනයට ලක්කර ඇති බවත් මෙහිදී අනාවරණවී ඇත.
+In the interrogation of the 15-year-old girl, she told the police that his parents also had a romance with the young man with consent.
 
-ඇය පොලීසියට පවසා ඇත්තේ, එම සිව්දෙනා අතර තම වැඩිමහල් සහෝදරියගේ සැමියා ද වන බවය.
+She had told the police that he had been sexually abused by the 28-year-old youth during a number of occasions.
 
-දැරියක් අපයෝජනයට ලක්කිරීමේ චෝදනාව මත සිද්ධියට සම්බන්ධ  පුද්ගලයින් සිව්දෙනා අතරින් තිදෙනෙකු පොලීසිය අත්අඩංගුවට ගෙන තිබේ.
+It has also revealed that three other persons living in the area have abused her on several occasions since 2021.
 
-මෙම 15 හැවිරිදි දියණියගේ සිද්ධිය පොලීසිය හමුවේ අනාවරණ වෙද්දී ඇයගේ 12 හැවිරිදි නැග﻿﻿ණිය ද වසර ගණනාවක් සඟවා ගෙන සිටි තවත් රහසක් පොලීසියට අනාවරණ කළාය.
+She told the police that the four of the four were his older sister.
+
+Three of the four persons involved in the incident have been arrested by the police on charges of abuse of a girl.
+
+When the 15-year-old daughter's incident was revealed to the police, he detected her 12-year-old and hide another secret.
+
+A person who has been abused by a person who has been abused at the age of 9.
 
 ...
 
 [Data](articles/b6f5cbaf.json)
+
+[Extended Data](ext_articles/b6f5cbaf.ext.json)
 
 ---
 

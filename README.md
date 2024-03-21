@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 07:32:32**
+As of **2024-03-21 07:16:38**
 
 ## Newspaper Stats
 
-*Scraped **14,223** Articles*
+*Scraped **14,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,58 +17,20 @@ economynextcom | 760
 islandlk | 782
 adalk | 1,226
 adaderanalk | 1,704
-tamilmirrorlk | 1,720
+tamilmirrorlk | 1,719
 virakesarilk | 1,987
 dailymirrorlk | 2,180
-adaderanasinhalalk | 2,266
+adaderanasinhalalk | 2,264
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,210 (99.9%) of 14,223 articles have been extended.
+14,210 (99.9%) of 14,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
-
-### රනිල්  - බැසිල් තවත් හමුවක
-
-*2024-03-21 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194757) · `si`
-
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ පොදුජන පෙරමුණේ නිර්මාතෘ හා හිටපු අමාත්‍ය බැසිල් රාජපක්ෂ මහතා අතර හමුවක් අද (21) පැවැත්වීමට නියමිතව තිබේ.
-
-එහිදි ඉදිරි ජනාධිපතිවරණය සහ මැතිවරණය ඇතුළු ඉදිරි දේශපාලන කටයුතු පිළිබඳව සාකච්ඡා කිරීමට නියමිතව ඇති බව සඳහන්ය.
-
-ජනාධිපති රනිල් වික්‍රමසිංහ, බැසිල් රාජපක්ෂ මහතා සහ හිටපු ජනාධිපති මහින්ද රාජපක්ෂ යන මහත්වරුන් අතර හමුවක් ද පසුගියදා සිදුවුණි.
-
-◼️
-
-[Data](articles/14c2a3d2.json)
-
----
-
-### STF වෙඩි හුවමාරුවෙන් අපරාධකරුවෙක් ජීවිතක්ෂයට
-
-*2024-03-21 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194755) · `si`
-
-ගණේමුල්ල ප්‍රදේශයේ සිදුවු වෙඩි තැබීමකින් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-පොලිස් විශේෂ කාර්යය බළකා ගෝනහේන කඳවුරේ නිලධාරීන්ට ලද තොරතුරක් මත ඊයේ (20) රාත්‍රී ගණේමුල්ල සුමේධ මාවත ප්‍රදේශයේ, නිවසක් වටලා පරීක්ෂාවක් සිදුකර ඇති බව පොලීසිය පැවසුවේය.
-
-එම අවස්ථාවේ සැකකරු විසින් විශේෂ කාර්යය බළකා සාමාජිකයින් වෙත වෙඩි ප්‍රහාරයක් එල්ල කිරීමත් සමග දෙපාර්ශවය අතර වෙඩි හුවමාරුවක් සිදුව තිබේ.
-
-එහිදී සැකකරු සහ විශේෂ කාර්යය බළකා නිලධාරියෙකු තුවාල ලබා රාගම රෝහලට ඇතුළත් කිරීමේදී සැකකරු මියගොස් ඇති බව පොලීසිය පැවසුවේය.
-
-සිද්ධියෙන් මියගොස් ඇත්තේ පසුගිය 09 වන දින ජා-ඇළ, දඬුගම බස්වත්ත ප්‍රදේශයේ සිදුවු වෙඩි තැබීමේ සිද්ධියේ වෙඩික්කරු බව වාර්තා වේ.
-
-සැකකරු 28 හැවිරිදි ඇහැළියගොඩ ප්‍රදේශයේ පදිංචිව සිටි අයෙකු වන අතර ඔහු හමුදා සේවයෙන් පළා ආ අයෙකු බව සඳහන්ය.
-
-◼️
-
-[Data](articles/0c35a2d6.json)
-
----
 
 ### වියළි කාලගුණයේ වෙනසක්
 
@@ -517,22 +479,6 @@ President Wickremesinghe’s first public political rally at Kuliyapitiya was od
 [Data](articles/2d2afb0e.json)
 
 [Extended Data](ext_articles/2d2afb0e.ext.json)
-
----
-
-### ஐ.எம்.எப். பிரதிநிதிகள் - சஜித் சந்திப்பு
-
-*2024-03-21 02:05:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-எம்-எப்-பிரதிநிதிகள்-சஜித்-சந்திப்பு/175-334968) · `ta`
-
-பொறுப்புள்ள கட்சி என்ற ரீதியில், இலங்கையின் பொருளாதார நெருக்கடியின் ஆழத்தையும் சிக்கலையும் ஐக்கிய மக்கள் சக்தி நன்கு புரிந்துகொண்டுள்ளது என்று சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகளை நேற்றுப் பிற்பகல் பாராளுமன்றத்தில் சந்தித்துக் கலந்துரையாடியபோது எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
-
-நாம் எடுக்கும் ஒவ்வொரு நடவடிக்கையும் நாட்டை வங்குரோத்து நிலையிலிருந்து மீட்கவும், முதலீடுகளை வலுப்படுத்தவும், மக்களின் பொருளாதாரப் பலத்தை வலுப்படுத்தவும் வழிவகுக்க வேண்டும் என்று இக்கலந்துரையாடலில் எதிர்க்கட்சிப் பிரதிநிதிகள், சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகளிடம் எடுத்துரைத்தனர்.
-
-சர்வதேச நாணய நிதியத்தின் இலங்கைக்கான தூதக்குழுவின் தலைவர் பீட்டர் ப்ரூவர், சர்வதேச நாணய நிதியத் தூதுக்குழுவின் பிரதித் தலைவர் கத்யா ஸ்விரிட்சென்கா, சர்வதேச நாணய நிதியத்தின் இலங்கைக்கான வதிவிடப் பிரதிநிதி கலாநிதி சர்வத் ஜஹான் உள்ளிட்ட பிரதிநிதிகள் இந்தச் சந்திப்பில் கலந்துகொண்டனர். (a)
-
-◼️
-
-[Data](articles/4c6c40d9.json)
 
 ---
 
@@ -2131,5 +2077,85 @@ Bandara, a medical doctor, claimed that the issue of private medical universitie
 [Data](articles/2fa6f426.json)
 
 [Extended Data](ext_articles/2fa6f426.ext.json)
+
+---
+
+### COPF recommends deferment of CBSL salary increase
+
+*2024-03-20 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98081/copf-recommends-deferment-of-cbsl-salary-increase) · `en`
+
+The Committee on Public Finance (COPF) has recommended that the Central Bank of Sri Lanka (CBSL) defer the salary increase until a mutually acceptable solution is reached on the matter.
+
+This was mentioned in the COPF report on the Central Bank Salary Revision 2024-2026 presented to the parliament by the committee’s chairman Dr. Harsha de Silva on Wednesday (March 20).
+
+COPF compiled this report on the recent salary increase of the Central Bank staff members upon a request made by President Ranil Wickremesinghe in his capacity as the Finance Minister. The request came about after several MPs raised this issue in the House, joining the general outcry opposing the steep salary increase.
+
+In its recommendations, the COPF says the Finance Minister should, with immediate effect, appoint an independent remuneration committee with the concurrence of the Central Bank Governor to review the salary increase under discussion.
+
+...
+
+[Data](articles/d40618d2.json)
+
+[Extended Data](ext_articles/d40618d2.ext.json)
+
+---
+
+### Capital found throughout the streets
+
+*2024-03-20 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194737) · `si`
+
+Haiti's capital, Port-au-Prince, is experiencing unrest, with violent incidents and robberies, including by the British Gang Haiti, leading to deaths and displacing thousands. The situation has escalated, with armed gangs attacking institutions and relief efforts, exacerbating the humanitarian crisis. UNICEF warns of severe famine, criticizing international organizations for failing to assist. Despite its rich history and cultural heritage, Haiti's current conflict threatens its tourism industry and stability.
+
+🟩
+
+Antiquet groups are still violently behaving in decorating the port of Prutz in the capital of Haiti.
+
+The bodies of the deceased have been found throughout the Power of Prurte Pryi.
+
+There are several robberies including the Port of Port of Prub.
+
+Its latest news is the robbery of the British Gang Haiti.
+
+Three persons have been killed in the incident.
+
+The British Sri Lanka was one of the major institutions in the country.
+
+Meanwhile, a house of a judiciary of the Purtain capital and armed gangs were attacked.
+
+This is a good example of unstable political situation in the country.
+
+Meanwhile, armed gang has acted in the robbery of relief work belonging to Haiti.
+
+Another intensifying the humanitarian situation that has been implemented in the country.
+
+The Port of Prince had also robbed the essential substances including children and pregnant mothers at the main port of the capital.
+
+Accordingly, UNICEF emphasizes that the Haitians will face a severe famine.
+
+...
+
+[Data](articles/a250ea6f.json)
+
+[Extended Data](ext_articles/a250ea6f.ext.json)
+
+---
+
+### Sri Lanka Treasuries yields up across maturities
+
+*2024-03-20 16:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-up-across-maturities-155375/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields edged up across maturities, at Wednesday’s auction with the 3-month yield rising 13 basis points to 10.23 percent, data from the debt office showed.
+
+The debt office took up more than offered three months bills with 45 billion rupees 68.38 billion rupees of paper sold.
+
+The 6-month yield went up 14 basis points to 10.35 percent, with 70 billion rupees offered and 53 billion sold.
+
+The 12-month yield rose 12 basis points to 10.38 percent, with 40 billion rupees offered and 18 billion sold. (Colombo/Mar20/2024)
+
+◼️
+
+[Data](articles/c0cb0428.json)
+
+[Extended Data](ext_articles/c0cb0428.ext.json)
 
 ---

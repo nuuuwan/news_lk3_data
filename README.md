@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 22:33:25**
+As of **2024-03-21 22:50:25**
 
 ## Newspaper Stats
 
-*Scraped **14,399** Articles*
+*Scraped **14,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 dailyftlk | 756
 economynextcom | 764
 islandlk | 783
-adalk | 1,242
-adaderanalk | 1,730
+adalk | 1,246
+adaderanalk | 1,731
 tamilmirrorlk | 1,740
 virakesarilk | 2,028
 dailymirrorlk | 2,211
@@ -26,25 +26,105 @@ adaderanasinhalalk | 2,301
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,398 (100.0%) of 14,399 articles have been extended.
+14,399 (100.0%) of 14,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### அரச ஊழியர்களுக்கு ஜனாதிபதியின் மகிழ்ச்சியான அறிவிப்பு
+### චීනය සමග එක්ව ක්‍රියා කිරීමට සූදානම් - ඕස්ට්‍රේලියානු අගමැති
+
+*2024-03-21 22:37:23* · [`adalk`](https://www.ada.lk/breaking_news/චීනය-සමග-එක්ව-ක්‍රියා-කිරීමට-සූදානම්---ඕස්ට්‍රේලියානු-අගමැති/11-408751) · `si`
+
+වෙනස්කම් සහ එකඟ නොවීම් ඔස්සේ ඕස්ට්‍රේලියානු-චීන සබඳතා නිර්වචනය නොකළ යුතු බවත්, දෙරටම හැකිතාක් දුරට පොදු අවශ්‍යතා ගවේෂණය කළ යුතු බවත් ඕස්ට්‍රේලියානු අගමැති ඇන්තනි ඇල්බනීස් මහතා කියාසිටී.
+
+කැන්බරා නුවර සංචාරයක නිරත චීන විදේශ අමාත්‍ය වං යී මහතා සමග ඊයේ (20) පැවති හමුවේ දී ඔහු මේ බව කියාසිටියේය.
+
+පසුගිය දෙවසර තුළ ඔස්ට්‍රේලියානු-චීන සබඳතා නිවැරදි දිශානතියකට යොමු ව තිබීම සම්බන්ධයෙන්  ඔස්ට්‍රේලියානු පාර්ශ්වය සතුටු වන අතර, චීනය සමග උසස් මට්ටමේ සමීප හුවමාරු පැවැත්වීමට සූදානම් බව ද අගමැතිවරයා පැවසීය.  විවිධ ක්ෂේත්‍රවල අන්‍යෝන්‍ය ප්‍රතිලාභ සහිත සහයෝගිතා පුළුල් කිරීමට ද ඔහුගේ එකඟතාව පළ විය.
+
+වං යී මහතා මෙහිදී කියාසිටියේ චීන-ඕස්ට්‍රේලියානු සබඳතාවන්ට එල්ල වූ බාධක එකින් එක ජයගෙන ඇති අතර, පවතින අනවබෝධයන් නිසි ලෙස නිරාකරණය වෙමින් පවතින බවයි.  ඉහළ මට්ටමේ හුවමාරු ප්‍රවර්ධනය කරමින්, දෙරට අතර සංවාද යාන්ත්‍රණය නැවත ආරම්භ කිරීමටත්, සහයෝගිතා පුළුල් කිරීමටත් චීනය සූදානමින් සිටින බව ද අමාත්‍යවරයා පැවසීය.
+
+...
+
+[Data](articles/1fb3773f.json)
+
+---
+
+### Delhi Chief Minister Kejriwal arrested in excise policy case
+
+*2024-03-21 22:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98117/delhi-chief-minister-kejriwal-arrested-in-excise-policy-case) · `en`
+
+Delhi Chief Minister Arvind Kejriwal was arrested by India’s Enforcement Directorate (ED) on Thursday night in an excise policy-linked money laundering case, officials said.
+
+The arrest, the first of a sitting chief minister, came hours after the Delhi High Court refused to grant protection to Kejriwal from any coercive action by the agency.
+
+Soon after the high court order, an ED team reached his residence and carried out searches. Subsequently, he was arrested, officials said.
+
+A 12-member team of the Enforcement Directorate reached Delhi Chief Minister Arvind Kejriwal’s official residence with a search warrant in the excise policy case. The Delhi Chief Minister has been arrested by the Enforcement Directorate.
+
+Mr Kejriwal has become the first sitting chief minister to be arrested in the history of Independent India and his party has said he will continue to hold the post.
+
+...
+
+[Data](articles/560ef065.json)
+
+---
+
+### දළදා පෙරහර අනාගතයට රැක දෙන්න ගැසට්ටුවක්
+
+*2024-03-21 22:16:05* · [`adalk`](https://www.ada.lk/breaking_news/දළදා-පෙරහර-අනාගතයට-රැක-දෙන්න-ගැසට්ටුවක්/11-408749) · `si`
+
+කන්ද උඩරට ඇසළ පෙරහර මංගල්‍යයේදී ශ්‍රී දළදා මාලිගාව සහ සතර මහා දේවාල මගින් ඉදිරිපත් කරන නර්තන අංග ඇතුළු සියලු ආයිතම නිශ්චිත කොට ගැසට් කිරීමට සාකච්ඡා වු බව දියවඩන නිලමේ ප්‍රදීප් නිලංග දෑල මහතා පවසයි .
+
+එමගින් අනාගතයේදී කිසිදු අවස්ථාවක ඊට නවාංග ඇතුළු කර පෙරහර විකෘති කිරීමට නොහැකි වනු ඇති බවද ඒ මහතා පැවසීය .
+
+ජනාධිපති ලේකම් සමන් ඒකනායක මහතාගේ ප්‍රධානත්වයෙන් ශ්‍රී දළදා මාලිගාවේදී පැවති මෙම සාකච්ඡාවේදී මහනුවර ඓතිහාසික ඇසළ පෙරහර මංගල්‍යය විකෘති කිරීම් වලට ලක් නොකර පෞරාණික චාරිත්‍ර ගරු කරමින් සම්ප්‍රදානුකූලව පවත්වාගෙන යෑම සඳහා ඊට සහභාගී වන පිරිස සහ පහසුකම් සලසන රාජ්‍ය ආයතනවල කාරිය භාරය නිශ්චිත කර ගැසට් කිරීමට ද සැලසුම් කොට තිබේ .'
+
+පෙරහර සංදේශය මගින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගෙන් කළ ඉල්ලීමකට අනුව ජනාධිපතිවරයාගේ උපදෙස් පරිදි මෙම වැඩපිළිවෙළ ක්‍රියාත්මක කිරීමට නියමිතය .
+
+පෙරහර සම්ප්‍රදාය ආරක්ෂා කර ගනිමින් එය ඉදිරියට ගෙන යාම දියවඩන නිලමේවරයාගේ මෙන්ම සතර මහා දේවාල බස්නායක නිලමේවරුන්ගේද වගකීමක් බව බස්නායක නිලමේ වරුන්ගෙන් සංගමයේ සභාපති මහනුවර පත්තිනි දේවාලයේ බස්නායක නිලමේ හේමන්ත බණ්ඩාර මහතා පැවැසීය.
+
+...
+
+[Data](articles/a1a86845.json)
+
+---
+
+### President's happy announcement to public servants
 
 *2024-03-21 22:15:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-ஊழியர்களுக்கு-ஜனாதிபதியின்-மகிழ்ச்சியான-அறிவிப்பு/175-335001) · `ta`
 
-இந்த ஆண்டு தமிழ் சிங்கள புத்தாண்டுக்குள், அரச ஊழியர்களின் சம்பளம் 10,000 ரூபாவினால் அதிகரிக்கப்படும் என்று ஜனாதிபதி தெரிவித்துள்ளார்.
+The President announced a 10,000 rupee salary increase for public servants by Tamil Sinhala New Year, following a 5000 rupee increase last January. The remaining 5000 rupees will be provided next New Year.
 
-இதன் முதற்கட்டமாக, கடந்த ஜனவரி மாதம் அரச ஊழியர்களுக்கு 5000/- சம்பள அதிகரிப்பு வழங்கப்பட்டது. மீதி 5000/- எதிர்வரும் புத்தாண்டுக்குள் வழங்கப்படும் என்று ஜனாதிபதி தெரிவித்துள்ளார்.
+🟩
 
-கேகாலை மங்கெதர டெம்பிடி புராதன பிரிவெனா விகாரையில், புதிதாக அமைக்கப்பட்ட தங்க வேலியை திறந்து வைத்து உரையாற்றும் போதே, ஜனாதிபதி இதனைத் தெரிவித்தார். R
+The President said that the salary of public servants will be increased by 10,000 rupees within the Tamil Sinhala New Year this year.
+
+As a result, the public servants were given a 5000/- salary increase last January. The remaining 5000/- will be provided within the next New Year, the President said.
+
+The President said this while addressing the opening of a newly built gold fence at the Mangalam Tempidi Antique Division of Kegalle. Remble
 
 ◼️
 
 [Data](articles/067d315d.json)
+
+[Extended Data](ext_articles/067d315d.ext.json)
+
+---
+
+### තරුණයන්ගේ කොරියා සිහින අනතුරේ දාන ශ්‍රී ලංකන් ගුවන් සේවය
+
+*2024-03-21 22:10:43* · [`adalk`](https://www.ada.lk/breaking_news/තරුණයන්ගේ-කොරියා-සිහින-අනතුරේ-දාන-ශ්‍රී-ලංකන්-ගුවන්-සේවය/11-408748) · `si`
+
+ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය විසින් දකුණු කොරියාවේ ඉන්චියොන් ( Incheon ) වෙත  මානව සම්පත් සංවර්ධන සේවයට ඉකුත් 03/19 දින රාත්‍රී ශ්‍රී ලන්කන් ගුවන් යානයක් මගින් යොමු කිරීමට නියමිතව සිටි ශ්‍රී ලාංකිකයන් 217 දෙනෙකු , එම ගුවන් යානය කාර්මික දෝශයකට ලක් වීම නිසා එම ගුවන් ගමන ප්‍රමාද කිරීමකට ලක් කිරීමට ශ්‍රී ලන්කන් ගුවන් සේවයට සිදු වු බව එම ගුවන් සේවයේ ආයතනික සන්නිවේදන අංශය මගින් 03/21 දින පස්වරුවේ  නිකුත් කළ ප්‍රවෘත්ති නිවේදනයක සදහන් වේ .
+
+එනිසා මෙම ගුවන් ගමන පසු දා එනම් 03/20 දින උදෑසන 07.23 ට ශ්‍රී ලාංකික සේවකයින් 117 දෙනෙකු රැගෙන කටුනායක ගුවන් තොටුපොළෙන් දකුණු කොරියාවේ ඉන්චියොන් බලා පිටත්ව ගිය බව ද එම නිවේදනයේ වැඩිදුරටත් සදහන් වේ .
+
+එසේම ඉතිරි ශ්‍රී ලාංකිකයන් 100 දෙනා එළඹෙන 03/24 වැනි ඉරිදා දින රැගෙන යාමට ශ්‍රී ලන්කන් ගුවන් සේවය සැළසුම් කර තිබේ .
+
+...
+
+[Data](articles/d944cb65.json)
 
 ---
 
@@ -117,6 +197,22 @@ The 02 Indian poaching trawlers along with 07 Indian fishermen apprehended by th
 [Data](articles/870b6a80.json)
 
 [Extended Data](ext_articles/870b6a80.ext.json)
+
+---
+
+### අයි.එම්.එෆ්. දෙවැනි සමාලෝචනය සාර්ථකයි - තෙවැනි වාරිකය ලෙස ඩොලර් මිලියන 337ක්
+
+*2024-03-21 21:51:03* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--දෙවැනි-සමාලෝචනය-සාර්ථකයි---තෙවැනි-වාරිකය-ලෙස-ඩොලර්-මිලියන-337ක්/11-408747) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාව වෙනුවෙන් ක්‍රියාත්මක කරනු ලබන විස්තිර්ණ මූල්‍ය පහසුකමට අදාළව දෙවැනි සමාලෝචනය සාර්ථකව අවසන් කර තිබේ.
+
+ඒ අනුව ශ්‍රී ලංකාවට තෙවැනි ණය වාරිකය ලෙස ඇමෙරිකානු ඩොලර් මිලියන 337ක් ලැබීමට නියමිතව තිබේ.
+
+මේ අනුව ශ්‍රී ලංකාවට ලැබී ඇති ජාත්‍යන්තර මූල්‍ය අරමුදලේ සම්පූර්ණ ණය ප්‍රමාණය ඇමෙරිකානු ඩොලර් බිලියනයක් වෙයි.
+
+◼️
+
+[Data](articles/f4827b04.json)
 
 ---
 
@@ -2155,115 +2251,5 @@ Five percent of these women have faced abortions, and the 6.1 percent of the bio
 [Data](articles/f692fe29.json)
 
 [Extended Data](ext_articles/f692fe29.ext.json)
-
----
-
-### A man arrested for allegedly defrauding as an insurance officer
-
-*2024-03-21 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179300) · `ta`
-
-A 34-year-old man from Galakedihena was arrested for allegedly defrauding 58 lakhs of rupees from many people as an insurance officer. Investigations continue.
-
-🟩
-
-A suspect has been arrested on Wednesday (20) for allegedly defrauding 58 lakhs of rupees from many people as a life -saving officer at the insurance company.
-
-The suspect was the 34 -year -old from the Galakedihena area.
-
-Further investigations are being carried out by the Criminal Investigation Division.
-
-◼️
-
-[Data](articles/131690f1.json)
-
-[Extended Data](ext_articles/131690f1.ext.json)
-
----
-
-### Dilan Perera also resigns from COPE
-
-*2024-03-21 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98101/dilan-perera-also-resigns-from-cope) · `en`
-
-MP Dilan Perera has also decided to resign from the Committee on Public Enterprises (COPE), becoming the 11th member to do so.
-
-Earlier, Eran Wickramaratne, Gamini Waleboda, Prof. Charitha Herath, Dayasiri Jayasekara, S. M. Marikkar, Hesha Withanage, Shanakiyan Rasamanickam, Wasantha Yapa Bandara, Anura Kumara Dissanayake and Duminda Dissanayake had quit the committee membership, to remonstrate the appointment of new COPE chairman.
-
-At the first COPE meeting of the Fifth Session of the Ninth Parliament convened on March 07, Rohitha Abeygunawardena was elected by majority votes to serve as the new chairman. His name had been nominated by MP Mahindananda Aluthgamage and seconded by MP Sanjeewa Edirimanna.
-
-Meanwhile, the first COPE meeting under the chairmanship of Abeygunawardana was convened at the parliament complex on Tuesday (March 19) despite the string of member resignations.
-
-◼️
-
-[Data](articles/2238a2ee.json)
-
-[Extended Data](ext_articles/2238a2ee.ext.json)
-
----
-
-### The mysterious death of the Madrasa student;Moulavi
-
-*2024-03-21 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/179315) · `ta`
-
-The Kalmunai Magistrate ordered Moulavi, a suspect in the mysterious death of a Madrasa student, to be detained for 14 days. Four other suspects were released on bail. The case was postponed until April 3, with Moulavi still under investigation. The student's death occurred in Kattankudy, Batticaloa District, and was initially suspected of suicide, leading to public outcry and calls for a formal investigation.
-
-🟩
-
-The Kalmunai Magistrate has ordered the suspect Moulavi to be kept for 14 days in connection with the mysterious death of the Madrasa student.
-
-The case was taken up in the presence of Kalmunai Court Justice MSM Samsuddin on Wednesday (20).
-
-Four suspects were released on bail under a severe condition on charges of destroying the main forecasts, including the CCTV scene, which had been remanded in the last installments.. After the arguments of the two sides, he ordered the suspect, Moulavi, to be kept for 14 days.
-
-At the last installment, four suspects, 30, 22, 23, were released on bail.
-
-The Kalmunai Magistrate has ordered the postponement of the case until April 03, with another suspect, Moulavi.
-
-MS in Kattankudy, Batticaloa District on December 05 last year at a 3 -storey building located on the Sainthamaruthu Market Road, Ampara District.. A student who was educated by Musab (age-13) was found dead in the death of the body.
-
-...
-
-[Data](articles/7dba7ccf.json)
-
-[Extended Data](ext_articles/7dba7ccf.ext.json)
-
----
-
-### Another member of the COPE committee resigns
-
-*2024-03-21 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194771) · `si`
-
-MP Dilan Perera resigns from the COPE committee.
-
-🟩
-
-MP Dilan Perera has resigned from the Committee on Comingal Committee or COPE, or COPE.
-
-◼️
-
-[Data](articles/45eb78af.json)
-
-[Extended Data](ext_articles/45eb78af.ext.json)
-
----
-
-### Mukkotugu evening eventually conveys a sick hand and empty-handed
-
-*2024-03-21 12:41:51* · [`adalk`](https://www.ada.lk/breaking_news/මුක්කුතොඩුවාව-සන්ධ්‍යා-අවසානයේ-ලෙඩෙකු-වි-හිස්-අතින්-එයි/11-408740) · `si`
-
-Mukkotugu's mother, a housemaid in Saudi Arabia, suffers from severe mental illness and injuries. She was hired by a private agency in Kurunegala and left her first job to work abroad. The family reported her missing to the Saudi Hospital, and the husband contacted the Foreign Employment Bureau in Chilaw. The Saudi Embassy confirmed her presence.
-
-🟩
-
-The husband says that the mother of Kajuwatta, who went to work in the Saudi country to live in the face of their economic problems, is a serious mental illness and severe bruises.
-
-On May 10, 2023, the mother of two of two persons who were working to work as a housemaid to serve as a housemaid to serve as a domestic servant in May 10, 23, 2033.
-
-The woman says he had gone to work by a private foreign employment agency in Kurunegala. It is said that the woman who had been abroad to travel to another house to leave the house where the woman had been abroad to leave the homeland, the woman who had been abroad to leave the homeland after serving in the first house.. The woman was terrified in the first day and said that the family had told the husband of the Mukkotagodu about this woman when the family was admitted to a Saudi Hospital.
-
-...
-
-[Data](articles/bb8aea8c.json)
-
-[Extended Data](ext_articles/bb8aea8c.ext.json)
 
 ---

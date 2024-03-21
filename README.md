@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 13:03:18**
+As of **2024-03-21 13:18:01**
 
 ## Newspaper Stats
 
-*Scraped **14,295** Articles*
+*Scraped **14,299** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,79 +16,167 @@ dailyftlk | 756
 economynextcom | 764
 islandlk | 782
 adalk | 1,233
-adaderanalk | 1,715
+adaderanalk | 1,716
 tamilmirrorlk | 1,729
 virakesarilk | 2,006
-dailymirrorlk | 2,188
-adaderanasinhalalk | 2,279
+dailymirrorlk | 2,190
+adaderanasinhalalk | 2,280
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,291 (100.0%) of 14,295 articles have been extended.
+14,295 (100.0%) of 14,299 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### කෝප් කමිටුවෙන් තවත් සාමාජිකයෙක් ඉල්ලා අස්වෙයි
+### New amendments to Online Safety Bill being drafted
+
+*2024-03-21 13:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-amendments-to-Online-Safety-Bill-being-drafted/108-279318) · `en`
+
+Parliament, March 21 (Daily Mirror)- New amendments to the Online Safety Bill are being drafted at the moment, Minister Ali Sabry told Parliament today.
+
+He said new amendments had to be drafted as the Attorney General had advised that it was not possible to make new amendments which could change the structure of the Bill during the Commitee stage.
+
+The Minister also said that the Attorney General has cleared the steps taken by the Speaker to endorse the Online Safety Bill.
+
+◼️
+
+[Data](articles/f76d1852.json)
+
+---
+
+### Opposition members of CC had acted in an irresponsible manner: PM
+
+*2024-03-21 13:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Opposition-members-of-CC-had-acted-in-an-irresponsible-manner-PM/108-279317) · `en`
+
+Opposition members of the Constitutional Council (CC) have acted in an irresponsible manner by publishing inside information on the meeting held by the CC to decide on the Inspector General of Police, Prime Minister Dinesh Gunawardene told Parliament today.
+
+"There have been issues and disagreements between CC members in the past but no member had disclosed them. However the opposition members of the current CC had disclosed inside information. This is an irresponsible act," the Premier said.
+
+◼️
+
+[Data](articles/20e6da7b.json)
+
+---
+
+### ගර්භණී මව්වරුන්ට අනතුරු ඇඟවීමක්
+
+*2024-03-21 12:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194772) · `si`
+
+අධික උණුසුම් කාලගුණ තත්ත්වය යටතේ රැකියාවල නිරතවන ගැබිණි කාන්තාවන් මළදරුවන් බිහිකිරීමේ හා ගබ්සාවන්ට මුහුණදීමේ වැඩි අවදානමක් ඇති බව ඉන්දියාවේ සිදුකළ නවතම පර්යේෂණයකදී අනාවරණ වී තිබේ.
+
+චෙන්නායිහි උසස් අධ්‍යාපන ආයතනයක්, 2017 වසරේ සිට මේ දක්වා කාලය තුළ, දකුණු ඉන්දීය තමිල්නාඩු ප්‍රාන්තයේ උණුසුම් පාරිසරික තත්ත්වයන් යටතේ රැකියා කරන ගැබිණි කාන්තාවන් 800ක් ‍යොදාගෙන මෙම පර්යේෂණය සිදුකර තිබුණි.
+
+එම කාන්තාවන් කෘෂිකාර්මික, ගඩොල් නිෂ්පාදන සහ ලුණු නිෂ්පාදන ක්ෂේත්‍රවල රැකියාවල නිරත වූවන්ය.
+
+මෙම කාන්තාවන් අතරින් සියයට 5ක් ගබ්සාවන්ට මුහුණ දී ඇති අතර, මළදරු උපත් සහ නොමේරූ දරු උපත් සියයට 6.1ක් ලෙසද වාර්තාවී තිබේ.
+
+◼️
+
+[Data](articles/f692fe29.json)
+
+---
+
+### Dilan Perera also resigns from COPE
+
+*2024-03-21 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98101/dilan-perera-also-resigns-from-cope) · `en`
+
+MP Dilan Perera has also decided to resign from the Committee on Public Enterprises (COPE), Ada Derana learns.
+
+◼️
+
+[Data](articles/2238a2ee.json)
+
+---
+
+### Another member of the COPE committee resigns
 
 *2024-03-21 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194771) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රී ඩිලාන් පෙරේරා මහතා ද පොදු ව්‍යාපාර පිළිබඳ කාරක සභාව හෙවත් කෝප් කමිටු සාමාජිකත්වයෙන් ඉල්ලා අස්වී තිබේ.
+MP Dilan Perera resigns from the COPE committee.
+
+🟩
+
+MP Dilan Perera has resigned from the Committee on Comingal Committee or COPE, or COPE.
 
 ◼️
 
 [Data](articles/45eb78af.json)
 
+[Extended Data](ext_articles/45eb78af.ext.json)
+
 ---
 
-### அனுமதிப் பத்திரமின்றி இரத்தினக்கல் அகழ்வில் ஈடுபட்ட சந்தேக நபர் கைது
+### Suspect arrested for excavation of gem
 
 *2024-03-21 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179314) · `ta`
 
-மஸ்கெலியா பிரதேசத்திற்குட்பட்ட மவுஸ்ஸாகலை பகுதியில் பொலிஸாருக்கு கிடைத்த தகவலின் மூலம்  சோதனை நடவடிக்கையினை மேற்கொண்ட  போது இரத்தினக்கல் அகழ்வில் ஈடுபட்ட  சந்தேக நபரொருவர் கைது செய்யப்பட்டுள்ளார்.
+A 55-year-old from Maskeliya was arrested for gem excavation in Moussahala.
 
-இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபர் மஸ்கெலியா பிரதேசத்தைச் சேர்ந்த 55 வயதுடையவராவார்.
+🟩
+
+A suspect in the gem excavation has been arrested during a raid on information received by the police in the Moussahala area in Maskeliya area.
+
+The suspect was the 55 -year -old from Maskeliya.
 
 ◼️
 
 [Data](articles/6faafb17.json)
 
+[Extended Data](ext_articles/6faafb17.ext.json)
+
 ---
 
-### இந்தோனேஷியாவில் படகு கவிழ்ந்தபின் 69 ரோஹிங்யா அகதிகள் மீட்பு
+### 69 Rohingya Refugees Recovery after boat toppled in Indonesia
 
 *2024-03-21 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179313) · `ta`
 
-ரோஹிங்யா அகதிகளை ஏற்றிச் சென்ற படகு ஒன்று கவிழ்ந்த பின்னர், 69 பேரை இந்தோனேஷிய அதிகாரிகள் இன்று மீட்டுள்ளனர்.
+Indonesian authorities rescued 69 Rohingya refugees after their boat capsized in Aceh province. UN refugees are in Aceh and Northern Sumatra until January's end.
 
-இந்தோனேஷியாவின் ஆச்சே மாகாணத்துக்கு அருகில், நேற்று புதன்கிழமை இப்படகு கவிழ்ந்ததையடுத்து, மீட்புக்குழுக்கள் விரைந்தன.
+🟩
 
-கடந்த நவம்பர் மத்தியிலிருந்து இவ்வருடம் ஜனவரி இறுதிவரை 1752 ரோஹிங்யா அகதிகள் இந்தோனேஷியாவின்  ஆச்சே மற்றும் வடக்கு சுமத்ரா பிராந்தியங்களில் தரையிறங்கியிருந்தனர் என அகதிகளுக்கான ஐ.நா. உயர்ஸ்தானிகராலயம் தெரிவித்துள்ளது.
+Indonesian authorities have rescued 69 people after a boat carrying Rohingya refugees.
+
+Rescue groups rushed to the forefront of Indonesia's Ace province on Wednesday.
+
+UN refugees for refugees have landed in the Aceh and Northern Sumatra regions of Indonesia, Indonesia, until the end of January this year.. The High Commission said.
 
 ◼️
 
 [Data](articles/b3d38188.json)
 
+[Extended Data](ext_articles/b3d38188.ext.json)
+
 ---
 
-### இஸ்ரேலிய படையினர் காசாவில் திட்டமிட்டு  மருத்துவ வசதிகளை அழிக்கின்றனர் - அமெரிக்க பிரிட்டன் மருத்துவர்கள்
+### Israeli soldiers systematically destroy medical facilities in Gaza - US British doctors
 
 *2024-03-21 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179311) · `ta`
 
-பாலஸ்தீனியர்களை அவர்களின் பகுதிகளில் இருந்து வெளியேற்றுவதற்காக இஸ்ரேலிய படையினர் திட்டமிட்ட முறையில் காசாவின் சுகாதார கட்டமைப்பை  அழித்துவருகின்றனர் என அமெரிக்க பிரிட்டனை சேர்ந்த மருத்துவர்கள் அமெரிக்க ஜனாதிபதி ஜோ பைடனின் நிர்வாகத்திற்கு தெரிவிக்கவுள்ளனர்.
+US doctors report Israeli forces destroying Gaza's health infrastructure, aiming to expel Palestinians. Doctors emphasize the need for a ceasefire to rebuild health services. Professor Nikmayneard, who worked at Gaza's Al-Aksha Hospital, confirms deliberate destruction of health structures and staff. The UN states many hospitals are completely destroyed. Israeli actions are seen as targeting Palestinians to expel them.
 
-காசாவின் மருத்துவமனைகளில் தாமாக முன்வந்து பணியாற்றிய பின்னர்நாடு திரும்பியுள்ள மருத்துவர்கள் அமெரிக்க ஜனாதிபதியின் நிர்வாகத்தின் முக்கிய அதிகாரிகளை இந்த வாரம் சந்திக்கவுள்ளனர்.
+🟩
 
-பைடன்நிர்வாகத்துடனான இந்த சந்திப்பின்போது பாதுகாப்பான உணவு விநியோகம் சுகாதார சேவைகளை மீண்டும் கட்டியெழுப்புதலிற்கு அவசியமான யுத்தநிறுத்த உடன்படிக்கை இன்றி குண்டு வீச்சில் சிக்கியுள்ள பாலஸ்தீனியர்களிற்கான நிதி உதவியை அதிகரிப்பது அர்த்தமற்ற விடயம் என மருத்துவர்கள் வலியுறுத்தவுள்ளனர்.
+US British doctors will inform the administration of US President Joe Faiden that Israeli soldiers are systematically destroying the Gaza's health structure to expel the Palestinians from their areas.
 
-இஸ்ரேலிய படையினர் அதிர்ச்சி தரும் அட்டுழியங்களில் ஈடுபட்டுள்ளனர் என காசாவின் அல்அக்சா மருத்துவமனையில் பணியாற்றிய பேராசிரியர் நிக்மேய்னார்ட் தெரிவித்துள்ளார்.
+Doctors who have returned to the country will meet with prominent officials of the US president's administration this week after working in Gaza's hospitals.
+
+Doctors emphasize that it is pointless to increase the financial assistance for the Palestinians in the bombing without a ceasefire agreement for the rebuilding of health services during this meeting with Bitton.
+
+Professor Nikmayneard, who worked at Gaza's Al -Aksha Hospital, said Israeli soldiers are involved in stunning stories.
+
+He said that Israeli soldiers are deliberately destroying health structures and destroying the staff.
+
+He said that it is not merely aimed at building buildings, which are related to the destruction of the hospital's infrastructure.
 
 ...
 
 [Data](articles/0cd8b8d1.json)
+
+[Extended Data](ext_articles/0cd8b8d1.ext.json)
 
 ---
 
@@ -2119,87 +2207,5 @@ The Tamil Nadu police, who examined the lorry, recovered 70 packs of 30 kg from 
 [Data](articles/c5159d40.json)
 
 [Extended Data](ext_articles/c5159d40.ext.json)
-
----
-
-### IMF. Representatives - Sajith Meeting
-
-*2024-03-21 02:05:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-எம்-எப்-பிரதிநிதிகள்-சஜித்-சந்திப்பு/175-334968) · `ta`
-
-Sajith Premadasa, opposition leader, emphasized the United People's Power's awareness of Sri Lanka's economic crisis. Representatives of the IMF were informed that actions should focus on avoiding bankruptcy, enhancing investments, and bolstering economic strength. IMF representatives present included Peter Bruver, Deputy Chairman, Kathya Swiritskanka, and Dr. Sarvat Jahan.
-
-🟩
-
-Opposition Leader Sajith Premadasa said that the United People's Power is well aware of the depth and complexity of the economic crisis in Sri Lanka as a responsible party.
-
-In this regard, the opposition representatives told representatives of the International Monetary Fund that every action we take should be rescued from bankruptcy, strengthening investments and strengthening the economic strength of the people.
-
-Representatives of the International Monetary Fund, Peter Bruver, Deputy Chairman of the International Monetary Fund, Kathya Swiritskanka and Resident Representative of the International Monetary Fund, Dr. Sarvat Jahan, were present at the meeting.. (A)
-
-◼️
-
-[Data](articles/4c6c40d9.json)
-
-[Extended Data](ext_articles/4c6c40d9.ext.json)
-
----
-
-### Drowning in the sea
-
-*2024-03-21 01:57:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-மூழ்கி-இருவர்-உயிரிழப்பு/175-334967) · `ta`
-
-Two bodies recovered from Jaffna's Senthangulam beach. Two of three men missing since yesterday found. Sivanesan Divyan, 21, and Devankarunadasa Yood, 36, identified.
-
-🟩
-
-Two bodies have been recovered as bodies on the coast of Jaffna, Ilavalai - Senthangulam.
-
-Two of the three men who went to the Senthangulam beach yesterday disappeared and the two were recovered.
-
-Sivanesan Divyan (21 years old) from Navatkuli and Devankarunadasa Yood (36 years old) from Chettikulam have been recovered.. (A)
-
-◼️
-
-[Data](articles/f71933f8.json)
-
-[Extended Data](ext_articles/f71933f8.ext.json)
-
----
-
-### Books & Elections: President Gotabaya Rajapaksa’s Claim Of Foreign Conspiracy
-
-*2024-03-21 01:46:28* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/books-elections-president-gotabaya-rajapaksas-claim-of-foreign-conspiracy/) · `en`
-
-Gotabaya Rajapaksa has well explained his own tragedy where the protagonist comprehends his insignificance. To comprehend a self-diagnosis with an insignificance is neither an act of cowardice but the opposite; this value of Gotabaya’s self-diagnosis must be appreciated.
-
-Bombs directly impact election results in South Asia, as discussed in my book ‘Conundrum of an Island’. The last major bomb attack in Sri Lanka, the Easter Sunday Terror attack, certainly altered the voter path towards restoring National Security upon the election of Gotabaya Rajapaksa in 2019.
-
-...
-
-[Data](articles/04d1afe0.json)
-
-[Extended Data](ext_articles/04d1afe0.ext.json)
-
----
-
-### Warning on Sinhala Facebook
-
-*2024-03-21 01:29:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதவானுக்கு-சிங்கள-பேஸ்புக்கில்-எச்சரிக்கை/175-334966) · `ta`
-
-Jaffna District MP warned on Sinhala Facebook for releasing eight arrested in Sivaratri Temple event. Sridharan MP highlighted the issue in Parliament. The release led to accusations of fleeing and Sinhala chauvinism. Vidura Wickramanayake, Minister of Archaeological Survey, is implicated.
-
-🟩
-
-The Tamil National Alliance (TNA) Jaffna District MP's Jaffna District MP has been warned of a Sinhala Facebook (Facebook) to the Vavuniya Court Magistrate who released eight persons arrested by the police in connection with the event of the Sivaratri Temple at Vettukkunnarimalai Adi Lingeshwarar Temple. யான யான யான யான யான யான யான. Sreedharan brought to the attention of the congregation.
-
-Sridharan MP Sridharan MP, who brought the issue to the notice of the House while addressing the debate on the 2nd day of the no -confidence motion against the Speaker in Parliament on Wednesday (20).. Continue to speak,
-
-Eight people arrested by the police in connection with the event of the Sivaratri Temple in Vettukkunnarimalai, after the release of the Vavuniya court judge, the Sinhalese face of the Sinhalese face on the name of the "North Our Rights"It has been mentioned that he will flee as if he had fled.
-
-...
-
-[Data](articles/e43f4e56.json)
-
-[Extended Data](ext_articles/e43f4e56.ext.json)
 
 ---

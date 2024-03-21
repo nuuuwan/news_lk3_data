@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 19:18:03**
+As of **2024-03-21 19:33:36**
 
 ## Newspaper Stats
 
-*Scraped **14,383** Articles*
+*Scraped **14,385** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ dailyftlk | 756
 economynextcom | 764
 islandlk | 783
 adalk | 1,241
-adaderanalk | 1,727
+adaderanalk | 1,728
 tamilmirrorlk | 1,738
 virakesarilk | 2,028
-dailymirrorlk | 2,206
+dailymirrorlk | 2,207
 adaderanasinhalalk | 2,296
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,383 (100.0%) of 14,383 articles have been extended.
+14,383 (100.0%) of 14,385 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### Wanindu Hasaranga Test ban: Sri Lanka cricket denies use of any loopholes
+
+*2024-03-21 19:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98114/wanindu-hasaranga-test-ban-sri-lanka-cricket-denies-use-of-any-loopholes) · `en`
+
+Sri Lanka Cricket has denied that they exploited any loopholes after the Wanindu Hasaranga Test ban fiasco has grabbed the headlines in recent times.
+
+Hasaranga, who had retired from the longest format of the game in August last year, performed a U-turn and was subsequently selected for the Test series against Bangladesh. However, in a major turn of events, the ICC would slap him with a ban on Tuesday, March 19.
+
+This meant that he would be unable to play the series against Bangladesh, but meant that he would be available for the T20 World Cup 2024 and the upcoming season of the IPL with his new franchise, Sunrisers Hyderabad.
+
+While there has been speculation among fans and pundits that the Sri Lanka cricket board has exploited a loophole in the ICC rules, the governing body has strongly rejected this claim. The SLC claimed that Hasaranga had informed them via e-mail on March 16 about his desire to play Test matches and said that his fitness levels had improved.
+
+...
+
+[Data](articles/f36f392f.json)
+
+---
+
+### Groups, fixtures confirmed for ICC Women’s T20 World Cup Qualifier 2024
+
+*2024-03-21 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Groups-fixtures-confirmed-for-ICC-Womens-T20-World-Cup-Qualifier-2024/108-279336) · `en`
+
+Mar. 21 (ICC) - Groups and fixtures have been revealed for the ICC Women's T20 World Cup Qualifier 2024 that commences in Abu Dhabi next month.
+
+Two venues in Abu Dhabi — Tolerance Oval and Zayed Cricket Stadium — will be used for the ICC Women's T20 World Cup Qualifier 2024 next month, where 10 teams will compete for two spots in the main event, which will be held in Bangladesh later in the year.
+
+The top six teams from the T20 World Cup in 2023 in South Africa - Australia, South Africa, England, India, New Zealand, and the West Indies – earned direct qualification for the 20-over showcase, while Bangladesh qualified as hosts and Pakistan by virtue of their position in the MRF Tyres ICC Women’s T20I Team Rankings.
+
+The Global Qualifier has 10 teams: Ireland, Netherlands, Scotland, Sri Lanka, Thailand, Uganda, UAE, USA, Vanuatu and Zimbabwe.
+
+The tournament runs from April 25 to May 7 with the 10 teams divided into two groups of five.
+
+...
+
+[Data](articles/25ce39bf.json)
+
+---
 
 ### Conspiracy to take place during the struggle is revealed to the Speaker
 
@@ -2235,51 +2273,5 @@ The body has been kept at the Kurunegala Hospital and the driver has been arrest
 [Data](articles/342db41b.json)
 
 [Extended Data](ext_articles/342db41b.ext.json)
-
----
-
-### Indian High Commissioner Santosh Jha highlights strong bilateral ties at Sri Lanka-India Society Gala
-
-*2024-03-21 11:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-High-Commissioner-Santosh-Jha-highlights-strong-bilateral-ties-at-Sri-Lanka-India-Society-Gala/108-279316) · `en`
-
-The Sri Lanka India Society (SLIS) organized a celebratory dinner to mark the 76th Independence Day of Sri Lanka and the 75th Republic Day of India, with President Ranil Wickremesinghe and High Commissioner of Sri Lanka to India Santosh Jha as guests of honor.
-
-Notable attendees included dignitaries, diplomats, and society members, gathering to commemorate the occasion at the Taj Samudra Hotel in Colombo.
-
-President Wickremesinghe highlighted the society's 75th anniversary and emphasized the cultural and religious ties between the two nations, urging a focus on enhancing trade and economic relations.
-
-SLIS President Kishore Reddy echoed the sentiment, emphasizing the deep cultural and interpersonal bonds between India and Sri Lanka, and expressing gratitude for India's continued assistance. Reddy concluded with a toast to the enduring friendship and partnership between the two countries, wishing for happiness, peace, and prosperity.
-
-...
-
-[Data](articles/3cd06ef6.json)
-
-[Extended Data](ext_articles/3cd06ef6.ext.json)
-
----
-
-### Why not advise the then president?
-
-*2024-03-21 11:39:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அப்போதைய-ஜனாதிபதிக்கு-ஏன்-ஆலோசனை-வழங்கவில்லை/175-334977) · `ta`
-
-Basil Rajapaksa, SLPP, defended not advising the then president on banning chemical agriculture, emphasizing leaders must take responsibility for decisions. He highlighted his advice on palm oil cultivation, mentioning his conversation with PM Modi about environmental reasons for stopping cultivation, and the leader's responsibility for decisions.
-
-🟩
-
-Basil Rajapaksa, the Sri Lanka PA (SLPP), responded to a question about the resolution of the former president to ban chemical agriculture and said that a leader should take the final responsibility for any resolution he made.
-
-In an interview with the Daily Mirror, Basil Rajapaksa said in an interview with the Daily Mirror, "I do not know. You can consult others to make a decision. Once a decision is taken, he must take responsibility."
-
-As a responsible member of the government, he asked why he did not advise his older brother, the then president, "I can advise, but no leader must finally take responsibility."
-
-“When I met Indian Prime Minister Narendra Modi once, we talked about palm oil cultivation.At that time, the Russia-Ukrainian war began.Vegetable oil is the main provider for Ukraine India.
-
-Modi told me that Sri Lanka is one of the three best countries in the world that cultivates palm oil.He tried to cultivate palm oil under a 35 -year -old return agreement.
-
-...
-
-[Data](articles/b5e325b5.json)
-
-[Extended Data](ext_articles/b5e325b5.ext.json)
 
 ---

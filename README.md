@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 20:51:43**
+As of **2024-03-21 21:03:20**
 
 ## Newspaper Stats
 
-*Scraped **14,387** Articles*
+*Scraped **14,388** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adaderanalk | 1,728
 tamilmirrorlk | 1,738
 virakesarilk | 2,028
 dailymirrorlk | 2,208
-adaderanasinhalalk | 2,297
+adaderanasinhalalk | 2,298
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,386 (100.0%) of 14,387 articles have been extended.
+14,387 (100.0%) of 14,388 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### ගණේමුල්ලේදී වෙඩිකෑ වෙඩික්කරු ගැන තවත් තොරතුරු
+
+*2024-03-21 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194792) · `si`
+
+පොලිස් විශේෂ කාර්ය බළකා සෙබළුන් සමග ගණේමුල්ලේදී ඊයේ (21) රාත්‍රියේ ඇතිවූ වෙඩි හුවමාරුවකදී ජීවිතක්ෂයට පත් පාතාලයේ කුලී ඝාතකයා සම්බන්ධයෙන් තවත් තොරතුරු හෙළිවී තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, යුද හමුදාවේ සේවය කර මීට ටික කලකට පෙර ඉන් පළාගොස් සිටි 28 හැවිරිදි ශෙහාන් අසංක නම් ඇහැළියගොඩ ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+ඔහු පැට්ටා මංජු නම් අපරාධකරුගේ සහෝදරයා වන දිනේෂ් වසන්ත යන පුද්ගලයාගේ සමීපතමයෙක් වන අතර වෙඩිතැබීම සිදුවූ ස්ථානයේ තිබී මයික්‍රෝ වර්ගයේ පිස්තෝල අවියක්, පතුරම් ගැබක් හා ඊට යොදන ජීව උණ්ඩ කිහිපයක්ද සොයාගෙන තිබුණි.
+
+මේ අතර වෙඩික්කරු මියයෑමෙන් අනතුරුව දිනේෂ් වසන්ත නම් පුද්ගලයා තවත් අයෙකුට දුරකථන ඇමතුමක් ලබාදී අදාළ සිදුවීම පිළිබඳව විමසන හඬපටයක් ද විමර්ශන නිලධාරීන්ට හමුවී ඇත.
+
+මාර්තු 09 වනදා යතුරුපැදියකින් පැමිණි පුද්ගලයන් දෙදෙනෙකු ජා-ඇළ දී කුඩු අංජු නම් මත්ද්‍රව්‍ය ජාවාරම්කරුවකුට වෙඩි තබා පළාගොස් තිබුණි.
+
+විමර්ශන සිදුකළ පොලිස් විශේෂ කාර්ය බලකායේ ගෝනහේන කඳවුරේ නිලධාරීන්ට තොරතුරක් ලැබී තිබුණේ අදාළ වෙඩිතැබීම සිදුකළ පුද්ගලයා ගණේමුල්ල, සුමේධ මාවතේ දෙමහල් නිවසක තවත් අපරාධයක් සිදුකිරීම සඳහා සූදානමින් සිටින බවය.
+
+...
+
+[Data](articles/6aa284e7.json)
+
+---
 
 ### The crime of a 15 year old girl
 
@@ -83,6 +105,8 @@ Former Congress chief Rahul Gandhi on Thursday told reporters in New Delhi the p
 ...
 
 [Data](articles/ab001103.json)
+
+[Extended Data](ext_articles/ab001103.ext.json)
 
 ---
 
@@ -2259,29 +2283,5 @@ The English language requirement for graduate visas and student visas has increa
 [Data](articles/95755d09.json)
 
 [Extended Data](ext_articles/95755d09.ext.json)
-
----
-
-### Did the Ministry of Fake Report issued?
-
-*2024-03-21 11:55:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-அறிக்கை-வெளியிட்டதா-அமைச்சு/175-334980) · `ta`
-
-The Ministry of Fake Report's issuance is questioned. Contrary to the Ministry of Health's report on Sri Lankan doctors returning abroad, new data suggests a different trend. Dr. Wijesuriya, who faced controversy over the report, noted a reversal in the return of postgraduate doctors abroad. However, the actual figures differ, with only a few specialists returning, and the Sri Lanka Medical Association (SLMA) criticized the return of five experts as insignificant. The Medical Experts Association (AMS) expressed concern over the exodus of medical professionals and criticized the Ministry of Health for making unsupported statements.
-
-🟩
-
-In contrast to the report issued by the Ministry of Health on the return of Sri Lankan doctors abroad, recent statistics provide different information.
-
-Deputy Director General (Medical Services). G. The claim that Wijesuriya initially failed to produce statistics and was suspicious, especially according to the information provided by the data.
-
-Dr. Wijesuriya, who has been controversial with the report, said the doctors' trend, especially those who have a postgraduate graduate abroad, have suddenly turned reversed."Even if it is not a dangerous number, migrant doctors have begun to return."
-
-However, the actual figures are completely different.Some of the returns include a gynecologist (VOG), surgeon, anesthesiologist, pediatrician, and ophthalmologist, which refers to a slight change than substantial income.
-
-...
-
-[Data](articles/6ac0ab5c.json)
-
-[Extended Data](ext_articles/6ac0ab5c.ext.json)
 
 ---

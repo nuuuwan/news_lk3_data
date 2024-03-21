@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 12:18:06**
+As of **2024-03-21 12:34:22**
 
 ## Newspaper Stats
 
-*Scraped **14,282** Articles*
+*Scraped **14,288** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 756
 economynextcom | 764
 islandlk | 782
 adalk | 1,232
-adaderanalk | 1,713
-tamilmirrorlk | 1,726
-virakesarilk | 2,001
+adaderanalk | 1,714
+tamilmirrorlk | 1,729
+virakesarilk | 2,003
 dailymirrorlk | 2,188
 adaderanasinhalalk | 2,277
 
@@ -26,11 +26,97 @@ adaderanasinhalalk | 2,277
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,280 (100.0%) of 14,282 articles have been extended.
+14,282 (100.0%) of 14,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### ’சோன்னே’ ஆராய்ச்சிக் கப்பலுக்கும் தடை
+
+*2024-03-21 12:16:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சோன்னே-ஆராய்ச்சிக்-கப்பலுக்கும்-தடை/175-334984) · `ta`
+
+இலங்கை தனது பிரத்தியேக பொருளாதார வலயத்தில் வெளிநாட்டுக் கப்பல்கள் சம்பந்தப்பட்ட நடவடிக்கைகளுக்கு ஓராண்டு தடை விதித்துள்ள நிலையில், ஜேர்மன் கப்பலான 'சோன்னே' கப்பலின் ஆராய்ச்சி நடவடிக்கைகளுக்கு தடை விதிக்கப்பட்டுள்ளது, ஆனால் அது கொழும்பு துறைமுகத்தில் மீள்நிரப்ப அனுமதிக்கப்படும் என டெய்லி மிரர் அறிந்து கொள்கிறது.
+
+சீனாவின் ஆராய்ச்சிக் கப்பல்கள் அதன் சுற்றுப்புறத்தில் நங்கூரமிடுவதைப் பற்றிய இந்தியாவின் கவலைகளுக்கு மத்தியில், வெளிநாட்டு ஆராய்ச்சிக் கப்பல்கள் அதன் கடற்பரப்பில் நுழைவதற்கு இலங்கை அரசு ஒரு வருடத்திற்கு தடை விதித்துள்ளது.
+
+மற்றொரு ஆராய்ச்சிக் கப்பலை அனுப்ப சீனா அனுமதி கேட்டதையடுத்து இத் தீர்மானம் அறிவிக்கப்பட்டது. அரசாங்கத்தின் இந்த முடிவு இந்தியாவில் அதிகரித்து வரும் கவலைகளுக்கு பதிலளிப்பதாக கருதப்படுகிறது.
+
+சீன ஆராய்ச்சிக் கப்பல் ஷி யான் 6 கடந்த ஒக்டோபரில் பல நாட்கள் கொழும்பு துறைமுகத்தில் நிறுத்தப்பட்டது, அதே நேரத்தில் 2022 இல் கடற்படைக் கப்பல் யுவான் வாங் 5 தென் இலங்கையின் அம்பாந்தோட்டையில் நிறுத்தப்பட்டது.
+
+...
+
+[Data](articles/a5b3d3db.json)
+
+---
+
+### President reveals rapid development plans for overlooked Mahaweli ‘A’ and ‘B’ zones
+
+*2024-03-21 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98099/president-reveals-rapid-development-plans-for-overlooked-mahaweli-a-and-b-zones) · `en`
+
+President Ranil Wickremesinghe has unveiled immediate plans to swiftly develop the Mahaweli A and B zones, previously overlooked by the Mahaweli project, as part of the nation’s transition towards a modern agricultural economy.
+
+Further, he emphasized that this initiative would bring significant benefits to the people residing in these areas, the President’s Media Division (PMD) said.
+
+Without the pioneering efforts of the late Mr. Gamini Dissanayake in implementing the Mahaweli project, which revolutionized irrigation practices in the country, Wickremesinghe said Sri Lanka would not have achieved self-sufficiency in rice production nor would it have met its electricity demands.
+
+The Head of State made this statement while participating in the ceremony commemorating late Minister Gamini Dissanayake’s 82nd birth anniversary on Wednesday afternoon (March 20).
+
+The ceremony took place in front of the Gamini Dissanayake statue at Ananda Kumaraswamy Mawatha in Colombo.
+
+...
+
+[Data](articles/135d9085.json)
+
+---
+
+### யாழில் தொடரும் மீனவர்களின் போராட்டம் ; ஒருவரது நிலை கவலைக்கிடம்
+
+*2024-03-21 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/179307) · `ta`
+
+இந்திய மீன்பிடியாளர்களது எல்லைதாண்டிய அத்துமீறும் செயற்பாட்டை கண்டித்து யாழ் மாவட்ட மீனவர்கள் முன்னெடுத்துள்ள உணவு தவிர்ப்பு போராட்டம் இன்று வியாழக்கிழமை (21) மூன்றாவது நாளாகவும் தொடர்கின்ற நிலையில் தமக்கு ஆதரவு தெரிவித்து எந்தவொரு நாடாளுமன்ற உறுப்பினரோ அமைச்சரோ வரவில்லை என உணவுத் தவிர்ப்பு போராட்டத்தில் ஈடுபட்டுள்ளவர்கள் குற்றம் சாட்டியுள்ளனர்.
+
+யாழ். மாவட்ட கிராமிய கடற்தொழில் அமைப்புக்களின் சம்மேளனமும், யாழ் மாவட்ட கடற் தொழில் கூட்டுறவு சங்கங்களின் சம்மேளனமும் இணைந்து கடந்த 19 ஆம் திகதி காலை முதல் யாழ்ப்பாணம் புனித ஜோன் பொஸ்கோ வித்தியாலயத்திற்கு முன்பாக உணவு தவிர்ப்பு போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+
+குறிப்பாக மாவட்டத்தை பிரதிநிதித்துவப்படுத்தும் வகையில் செல்லத்துரை நற்குணம், அன்ரன் செபராசா, சின்னத்தம்பி சண்முகராஜா மற்றும்  அந்தோணிப்பிள்ளை மரியதாஸ் ஆகிய நான்கு மீனவர்களே உணவு தவிர்ப்பு போராட்டத்தில் மூன்றாவது நாளாகவும் ஈடுபட்டு வருகின்றனர்.
+
+...
+
+[Data](articles/fb0e1a99.json)
+
+---
+
+### ரயிலைக் கண்டு அஞ்சி கிராமத்துக்குள் புகுந்த காட்டு யானைகளை விரட்ட முயற்சித்த இரு சிவில் பாதுகாப்புப் படை வீரர்களைத்  தாக்கிய யானைகள்
+
+*2024-03-21 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179308) · `ta`
+
+சிலாபத்தின் பங்கதெனிய ரயில் நிலையத்துக்கு அருகில் உள்ள வனப்பகுதியில் வனவிலங்கு அதிகாரிகளுடன் இணைந்து காட்டு யானைகளை விரட்டும் பணியில் ஈடுபட்டிருந்த சிவில் பாதுகாப்பு படை வீரர்கள் இருவர் மீது காட்டு யானைகள் தாக்குதல் நடத்தியதாக புத்தளம் வனஜீவராசிகள் உதவி பணிப்பாளர் எரந்த கமகே தெரிவித்தார்.
+
+பங்கதெனிய ரயில்  நிலையத்துக்கு  அருகில் உள்ள மல்வத்தை வனப்பகுதியில் இரண்டு யானைகள் புகுந்துள்ளதாக பங்கதெனிய கிராம மக்கள் புத்தளம் வனஜீவராசிகள் உதவி பணிப்பாளருக்கு அறிவித்ததையடுத்து வனவிலங்கு அதிகாரிகள் மற்றும் சிவில் பாதுகாப்பு அதிகாரிகள் அடங்கிய குழுவொன்று யானைகளை விரட்டியடித்தனர்.
+
+இதனையடுத்து பங்கதெனிய ரயில் நிலையத்துக்கு அருகில் காணப்பட்ட இந்த இரண்டு காட்டு யானைகளும்  புத்தளம் நோக்கிச் சென்று கொண்டிருந்த ரயிலைக்  கண்டு  மிரண்டு அங்கிருந்து வெளியேறியுள்ளன.
+
+...
+
+[Data](articles/89894bcc.json)
+
+---
+
+### ”வாக்களிக்காதவர்கள் பதவி விலக வேண்டும்”
+
+*2024-03-21 12:01:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிக்காதவர்கள்-பதவி-விலக-வேண்டும்/175-334981) · `ta`
+
+தேசபந்து தென்னகோனை பொலிஸ்மா அதிபராக அங்கீகரித்த போது வாக்களிக்காமல் விலகிய அரசியலமைப்பு சபை உறுப்பினர்கள் உடனடியாக பதவி விலக வேண்டும் என அரசாங்கத்தின் பாராளுமன்ற உறுப்பினர் மஹிந்தானந்த அளுத்கமகே இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
+
+உறுதியான தீர்மானத்திற்கு வர முடியாத பட்சத்தில் அந்த இரண்டு உறுப்பினர்களும் அரசியலமைப்பு சபையில் இருக்கக்கூடாது என பாராளுமன்ற உறுப்பினர் அளுத்கமகே தெரிவித்துள்ளார்.
+
+“அரசியலமைப்புப் பேரவையின் உறுப்பினர்கள் இப்போது நடந்துகொள்வது போல் தொடர்ந்தும் நடந்து கொண்டால் அதை கலைக்குமாறு நாங்கள் கேட்டுக்கொள்கிறோம்,” என்றும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/dd7364b0.json)
+
+---
 
 ### Bandula’s US tour cut short for no-confidence vote against Speaker
 
@@ -46,23 +132,47 @@ The vote was initially supposed to be held on Wednesday (March 20), however, it 
 
 [Data](articles/0702bf2b.json)
 
+[Extended Data](ext_articles/0702bf2b.ext.json)
+
 ---
 
-### ඔස්ට්‍රේලියාවට යන්න ඉන්න ශිෂ්‍යයින්ට විශේෂ දැනුම්දීමක්
+### Special notice of students to Australia
 
 *2024-03-21 11:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194769) · `si`
 
-විදෙස් ශිෂ්‍යයින් සඳහා වීසා නීති දැඩිකිරීම මෙම සතියේ සිට ක්‍රියාත්මක කිරීමට ඔස්ට්‍රේලියාව තීරණය කර ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+Australia has introduced stricter visa laws for foreign students, citing a surge in immigration. This has led to increased competition in the housing market and higher English language requirements for visas.
 
-ඔවුන් එම තීරණය ගෙන ඇත්තේ ඔස්ට්‍රේලියාවට පැමිණි සංක්‍රමණිකයින් ගණන විශාල ලෙස වැඩිවී ඇති බව නවතම දත්ත අනූව පෙනීයන පසුබිමකදීය.
+🟩
 
-සංක්‍රමණිකයින්ගේ පැමිණීම වැඩිවීම හේතුවෙන් එරට කුලි නිවාස වෙළෙඳපොළ තරගකාරීත්වය නොසිතූ ලෙස වර්ධනය වී ඇති බව සඳහන් ය.
+International media reports that Australia has decided to implement the ritual of visa laws for foreign students.
 
-උපාධිධාරී වීසා සහ ශිෂ්‍ය වීසා සඳහා අවශ්‍ය ඉංග්‍රීසි භාෂා අවශ්‍යතාවය තවත් වැඩිකර ඇති අතර ජාත්‍යන්තර ශිෂ්‍යයින් සඳහා පහසුකම් සලසන සමාගම් නීති දිගින් දිගටම කැඩුවොත් එම සමාගම්වල කටයුතු අත්හිටුවීමට ඔස්ට්‍රේලියානු රජයට බලය පවරා තිබේ.
+They have taken that decision that the number of immigrants had increased largely in Australia.
+
+Due to the increase in the immigrants, the towering housing market competition has increased unexpectedly.
+
+The English language requirement for graduate visas and student visas has increased and the Australian government has been authorized to suspend the affairs of the company's laws for international students.
 
 ◼️
 
 [Data](articles/95755d09.json)
+
+[Extended Data](ext_articles/95755d09.ext.json)
+
+---
+
+### போலி அறிக்கை வெளியிட்டதா சுகாதார அமைச்சு?
+
+*2024-03-21 11:55:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-அறிக்கை-வெளியிட்டதா-சுகாதார-அமைச்சு/175-334980) · `ta`
+
+வெளிநாடுகளுக்கு சென்ற இலங்கை வைத்தியர்கள் மீளத் திரும்புவது தொடர்பாக சுகாதார அமைச்சு வெளியிட்ட அறிக்கைக்கு மாறாக, அண்மைய புள்ளிவிபரங்கள் வித்தியாசமான தகவல்களை வழங்குகின்றன.
+
+பிரதிப் பணிப்பாளர் நாயகம் (மருத்துவ சேவைகள்) வைத்தியர். ஜி. விஜேசூரிய ஆரம்பத்தில் முன்வைத்த கூற்று, புள்ளிவிபரங்களைத் தயாரிக்கத் தவறியதுடன், சந்தேகத்திற்குரியதாகவும் இருந்தது, குறிப்பாக தரவுகள் கொடுத்த தகவல்களின் படி அது முற்றிலும் புறம்பாகவுள்ளது.
+
+இந்த அறிக்கையின் மூலம் சர்ச்சையில் சிக்கிய வைத்தியர் விஜேசூரிய, மருத்துவர்களின் போக்கு, குறிப்பாக வெளிநாட்டில் முதுகலைப் பட்டப்படிப்பைத் தொடர்பவர்கள், இலங்கைக்குத் திரும்பும் முடிவு திடீரென  தலைகீழாக மாறியதாகக் கூறினார். "இது ஆபத்தான எண்ணிக்கையில் இல்லாவிட்டாலும், புலம்பெயர்ந்த மருத்துவர்கள் நாடு திரும்பத் தொடங்கியுள்ளனர்"   என்றார்.
+
+...
+
+[Data](articles/9654ca06.json)
 
 ---
 
@@ -2051,121 +2161,5 @@ Today, the United Nations (UN) marks the International Day of Forests. In a stat
 [Data](articles/e86cb9e3.json)
 
 [Extended Data](ext_articles/e86cb9e3.ext.json)
-
----
-
-### 2024-03-20 (Wednesday)
-
-### Excision of Ganemulla Exchange
-
-*2024-03-20 23:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194753) · `si`
-
-Police STF officials were shot dead in Ganemulla, with an STF officer and the gunman injured. Suspected underworld gangs involved.
-
-🟩
-
-Police STF officials shot dead at a house in Ganemulla. A STF officer and the gunman were also injured there.
-
-The shooting has taken place when the underworld gangs are suspected to be involved in the shooting.
-
-◼️
-
-[Data](articles/94b84c2a.json)
-
-[Extended Data](ext_articles/94b84c2a.ext.json)
-
----
-
-### Home remedies for pimples
-
-*2024-03-20 23:01:00* · [`islandlk`](http://island.lk/home-remedies-for-pimples/) · `en`
-
-I’ve had inquiries, coming my way, about pimples, and how to get rid of them.
-
-Okay, try the following and I’m sure the results will surprise you!
-
-You Will Need – 01 teaspoon of orange peel powder, and 01 teaspoon of raw honey
-
-Mix equal portions of orange peel powder with honey. Mix it well to ensure that all lumps are removed and the paste is smooth.
-
-Apply this paste on the affected areas of your face which are marred by pimples.
-
-Let it stay for 10-15 minutes and then wash it off with lukewarm water.
-
-(Try this once every alternate day to remove those pimple marks)
-
-This effective home remedy is a sure-shot way to prevent the surfacing of new acne lesions and it also helps in the growth of healthy skin cells that helps to remove pimple marks.
-
-Rub the coconut oil between your palms and dab it gently over the affected areas of your face
-
-Leave it overnight for a better result, and wash it off the next morning.
-
-...
-
-[Data](articles/25c18a4a.json)
-
-[Extended Data](ext_articles/25c18a4a.ext.json)
-
----
-
-### Former Minister Gamini Dissanayake commemorated
-
-*2024-03-20 22:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Former-Minister-Gamini-Dissanayake-commemorated/110-279272) · `en`
-
-President Ranil Wickremesinghe payed floral tribute to late Minister Gamini Dissanayake on his 82nd birth anniversary today. The sons of late Minister MP Mayantha Dissanayake and former Minister Navin Dissanayake were also present. Pic by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/8cceb1bd.json)
-
-[Extended Data](ext_articles/8cceb1bd.ext.json)
-
----
-
-### COPE convenes under Rohitha’s chairmanship amidst string of member resignations
-
-*2024-03-20 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98088/cope-convenes-under-rohithas-chairmanship-amidst-string-of-member-resignations) · `en`
-
-The first meeting of the Committee on Public Enterprises (COPE) under the chairmanship of MP Rohitha Abeygunawardana convened at the parliament complex on Tuesday (March 19) amidst a string of member resignations.
-
-As many as 10 COPE members – namely MPs Anura Kumara Dissanayake, Duminda Dissanayake, Eran Wickramaratne, Gamini Waleboda, Prof. Charitha Herath, Dayasiri Jayasekara, S. M. Marikkar, Hesha Withanage, Shanakiyan Rasamanickam and Wasantha Yapa Bandara – have thus far quit the committee, taking issue with the appointment of Abeygunawardana.
-
-At the commencement of yesterday’s meeting, the new COPE chairman stated that although it is possible to summon 363 institutions before the committee 102 institutions have not been summoned before the Committee so far.
-
-...
-
-[Data](articles/afd8a599.json)
-
-[Extended Data](ext_articles/afd8a599.ext.json)
-
----
-
-### Classic Wild leads the charge: Principal Sponsor for WNPS Small Cats project
-
-*2024-03-20 22:31:00* · [`islandlk`](http://island.lk/classic-wild-leads-the-charge-principal-sponsor-for-wnps-small-cats-project/) · `en`
-
-Classic Wild, the premier provider of immersive wildlife experiences, proudly announces its latest conservation initiative, the sponsorship of the “Small Cats Project” conducted by the Wildlife & Nature Protection Society (WNPS). With a mission to safeguard the Rusty-spotted Cat, Jungle Cat, and Fishing Cat, ensuing their overall commitment to preserving these elusive feline species and their habitats.
-
-The “Small Cats Project” spearheaded by WNPS aims to gather crucial data on the distribution, behaviour, and population density of these small cat species. By conducting extensive research, including field surveys and data analysis, the project seeks to uncover insights into the unique behaviours and ecological requirements of each species.
-
-...
-
-[Data](articles/596af767.json)
-
-[Extended Data](ext_articles/596af767.ext.json)
-
----
-
-### SLIM Kantar People’s Awards 2024 celebrates Sri Lankans’ favourite brands and personalities
-
-*2024-03-20 22:30:00* · [`islandlk`](http://island.lk/slim-kantar-peoples-awards-2024-celebrates-sri-lankans-favourite-brands-and-personalities/) · `en`
-
-The 18th consecutive SLIM Kantar People’s Awards concluded successfully on the 19th March 2024, at the Monarch Imperial. The Awards were presented to the winners amidst an atmosphere of glitz and glamour, marking the significance of this milestone in the annals of marketing excellence in Sri Lanka. The ceremony was attended by more than 600 distinguished guests, including top-level corporate leaders, media personnel, dignitaries and celebrities.
-
-...
-
-[Data](articles/53e554b8.json)
-
-[Extended Data](ext_articles/53e554b8.ext.json)
 
 ---

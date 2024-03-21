@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 22:05:56**
+As of **2024-03-21 22:17:51**
 
 ## Newspaper Stats
 
-*Scraped **14,397** Articles*
+*Scraped **14,398** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 1,730
 tamilmirrorlk | 1,739
 virakesarilk | 2,028
 dailymirrorlk | 2,211
-adaderanasinhalalk | 2,300
+adaderanasinhalalk | 2,301
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,393 (100.0%) of 14,397 articles have been extended.
+14,397 (100.0%) of 14,398 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### අවුරුදු 30කින් ඉපැයූ අරුම පුදුම ධනස්කන්ධය
+
+*2024-03-21 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194795) · `si`
+
+නීති විරෝධී මත්පැන් ජාවාරමේ නිරතවූ නිකවැරටිය ප්‍රදේශයේ පුද්ගලයෙකු සතු දේපොළ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසය විසින් අද (21) දින පවරාගෙන තිබේ.
+
+එහිදී වසර 30කට ආසන්න කාලයක් තිස්සේ නීති විරෝධී මත්පැන් ජාවාරමේ නිරතවෙමින් සැකකරු උපයා තිබූ රුපියල් කෝටි 10කට වැඩි වටිනාකමකින් යුත් නිශ්චල හා චංචල දේපොළ පොලීසියට පවරාගෙන ඇත.
+
+අදාළ සැකකරු සහ ඔහුගේ පවුලේ සාමාජිකයින් සතුව තිබී මෙහිදී පවරාගෙන ඇති දේපොළ අතර රුපියල් ලක්ෂ අසූවකට අධික වටිනා ටිපර් රථයක්, නිකවැරටිය ප්‍රදේශයේ කුඹුරු අක්කර 30 ක්, නවීන නිවසක් සහිත ගොඩ ඉඩම් අක්කර තුනක්, තවත් ඉදිකරමින් පවතින නිවසක් ඇති බව පොලීසිය පවසයි.
+
+එසේම සැකකාර ජාවාරම්කරුට වසර 15ක පමණ කාලයක් තිස්සේ මත්පැන් ජාවාරම සිදුකරගෙන යාමට සහාය ලබාදුන් පුද්ගලයෙකු සතු රුපියල් කෝටියකට අධික වටිනාකමකින් යුතු අධි සුඛෝපභෝගී වැන් රථයක්ද නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාසය විසින් පවරාගෙන ඇත.
+
+වැඩිදුරටත් තොරතුරු අනාවරණය වී ඇත්තේ මෙම පුද්ගලයා නීතිවිරෝධී මත්පැන් ජාවාරම සම්බන්ධයෙන් හතලිස් වතාවකට ආසන්න වාර සංඛ්‍යාවක් පොලිස් අත්අඩංගුවට පත්ව ඇති බවටය.
+
+...
+
+[Data](articles/a0495d34.json)
+
+---
 
 ### Sri Lankan family in Canada donates ICU beds worth Rs. 400 Mn to SL
 
@@ -52,6 +72,8 @@ He noted that these beds, equipped with state-of-the-art technology, mark a sign
 
 [Data](articles/bb30d116.json)
 
+[Extended Data](ext_articles/bb30d116.ext.json)
+
 ---
 
 ### 32 Indian fishermen arrested for poaching in Sri Lankan waters
@@ -69,6 +91,8 @@ The 02 Indian poaching trawlers along with 07 Indian fishermen apprehended by th
 ...
 
 [Data](articles/870b6a80.json)
+
+[Extended Data](ext_articles/870b6a80.ext.json)
 
 ---
 
@@ -125,6 +149,8 @@ He said the 'National Seafarers' Day' in Sri Lanka was announced to attract yout
 ...
 
 [Data](articles/24c7c980.json)
+
+[Extended Data](ext_articles/24c7c980.ext.json)
 
 ---
 
@@ -624,17 +650,23 @@ A group of women staged a silent protest outside the Health Ministry today advoc
 
 ---
 
-### විශ්වාසභංග යෝජනාව වැඩි ඡන්ද 42කින්  පරාජය විය
+### The no-confidence proposal was defeated by a majority of 42 votes
 
 *2024-03-21 16:57:27* · [`adalk`](https://www.ada.lk/breaking_news/විශ්වාසභංග-යෝජනාව-වැඩි-ඡන්ද-42කින්--පරාජය-විය/11-408746) · `si`
 
-කතානායක  මහින්ද යාපා අබේවර්ධනමහතාට එරෙහිව විපක්ෂය විසින් ඉදිරිපත් කෙරුණු විශ්වාසභංග යෝජනාව  ඡන්ද වීමසීමේදී පක්ෂව 75ද විපක්ෂව 117ක්ද  ලැබී තිබුණි එ අනුව වැඩි ඡන්ද 42 කින්  විශ්වාසභංග යෝජනාව පරාජය විය.
+The no-confidence motion against Speaker Mahinda Yapa Abeywardena was defeated by 42 votes, with 75 in favor and 117 against. The Speaker is now making a special statement.
 
-ඡන්ද විමසීමෙන් අනතුරුව මේ වන විට කතානායකවරයා විශේෂ ප්‍රකාශයක් කරමින් සිටී.
+🟩
+
+The opposition proposal made by the Opposition against the Speaker Mahinda Yapa Abeywardena was elected by 75 in favor and 117 against the no confidence motion.
+
+After the election, the Speaker is making a special statement.
 
 ◼️
 
 [Data](articles/54303f88.json)
+
+[Extended Data](ext_articles/54303f88.ext.json)
 
 ---
 
@@ -2229,27 +2261,5 @@ The suspect was the 55 -year -old from Maskeliya.
 [Data](articles/6faafb17.json)
 
 [Extended Data](ext_articles/6faafb17.ext.json)
-
----
-
-### 69 Rohingya Refugees Recovery after boat toppled in Indonesia
-
-*2024-03-21 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179313) · `ta`
-
-Indonesian authorities rescued 69 Rohingya refugees after their boat capsized in Aceh province. UN refugees are in Aceh and Northern Sumatra until January's end.
-
-🟩
-
-Indonesian authorities have rescued 69 people after a boat carrying Rohingya refugees.
-
-Rescue groups rushed to the forefront of Indonesia's Ace province on Wednesday.
-
-UN refugees for refugees have landed in the Aceh and Northern Sumatra regions of Indonesia, Indonesia, until the end of January this year.. The High Commission said.
-
-◼️
-
-[Data](articles/b3d38188.json)
-
-[Extended Data](ext_articles/b3d38188.ext.json)
 
 ---

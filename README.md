@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 22:50:25**
+As of **2024-03-21 23:03:14**
 
 ## Newspaper Stats
 
-*Scraped **14,404** Articles*
+*Scraped **14,405** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,60 @@ adalk | 1,246
 adaderanalk | 1,731
 tamilmirrorlk | 1,740
 virakesarilk | 2,028
-dailymirrorlk | 2,211
+dailymirrorlk | 2,212
 adaderanasinhalalk | 2,301
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,399 (100.0%) of 14,404 articles have been extended.
+14,404 (100.0%) of 14,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### චීනය සමග එක්ව ක්‍රියා කිරීමට සූදානම් - ඕස්ට්‍රේලියානු අගමැති
+### Ready to work with China - Australian Prime Minister
 
 *2024-03-21 22:37:23* · [`adalk`](https://www.ada.lk/breaking_news/චීනය-සමග-එක්ව-ක්‍රියා-කිරීමට-සූදානම්---ඕස්ට්‍රේලියානු-අගමැති/11-408751) · `si`
 
-වෙනස්කම් සහ එකඟ නොවීම් ඔස්සේ ඕස්ට්‍රේලියානු-චීන සබඳතා නිර්වචනය නොකළ යුතු බවත්, දෙරටම හැකිතාක් දුරට පොදු අවශ්‍යතා ගවේෂණය කළ යුතු බවත් ඕස්ට්‍රේලියානු අගමැති ඇන්තනි ඇල්බනීස් මහතා කියාසිටී.
+Australian PM Anthony Albanese emphasizes positive relations with China, focusing on mutual benefits and overcoming barriers. He agrees to restart dialogue, aiming for high-level exchanges.
 
-කැන්බරා නුවර සංචාරයක නිරත චීන විදේශ අමාත්‍ය වං යී මහතා සමග ඊයේ (20) පැවති හමුවේ දී ඔහු මේ බව කියාසිටියේය.
+🟩
 
-පසුගිය දෙවසර තුළ ඔස්ට්‍රේලියානු-චීන සබඳතා නිවැරදි දිශානතියකට යොමු ව තිබීම සම්බන්ධයෙන්  ඔස්ට්‍රේලියානු පාර්ශ්වය සතුටු වන අතර, චීනය සමග උසස් මට්ටමේ සමීප හුවමාරු පැවැත්වීමට සූදානම් බව ද අගමැතිවරයා පැවසීය.  විවිධ ක්ෂේත්‍රවල අන්‍යෝන්‍ය ප්‍රතිලාභ සහිත සහයෝගිතා පුළුල් කිරීමට ද ඔහුගේ එකඟතාව පළ විය.
+Australian-China relationships should not be defined through changes and disagreements should not be defined as much as possible, Australia Anthony Albenai said.
 
-වං යී මහතා මෙහිදී කියාසිටියේ චීන-ඕස්ට්‍රේලියානු සබඳතාවන්ට එල්ල වූ බාධක එකින් එක ජයගෙන ඇති අතර, පවතින අනවබෝධයන් නිසි ලෙස නිරාකරණය වෙමින් පවතින බවයි.  ඉහළ මට්ටමේ හුවමාරු ප්‍රවර්ධනය කරමින්, දෙරට අතර සංවාද යාන්ත්‍රණය නැවත ආරම්භ කිරීමටත්, සහයෝගිතා පුළුල් කිරීමටත් චීනය සූදානමින් සිටින බව ද අමාත්‍යවරයා පැවසීය.
+He was speaking to the Chinese Foreign Minister of Sri Lanka yesterday (20) with Chinese Foreign Minister of Canberra yesterday.
+
+The Australian-Chinese relationships are pleased to hold the right-to-level closer exchanges with China over the past two years, and the Prime Minister said.He also agreed to expand collaboration with mutual benefits of various fields.
+
+The bensor of the Chinese-Australian relations with Chinese-Australian relations have been conquered by one by the barriers and that the existing unbelievers is properly solving.He said China is ready to restart the dialogue mechanism between the two countries, promoting high level exchanges.
+
+After this meeting, the Indian Foreign Minister has participated in the seventh Chinese-Australian foreign and strategic conversation with Wong.
+
+◼️
+
+[Data](articles/1fb3773f.json)
+
+[Extended Data](ext_articles/1fb3773f.ext.json)
+
+---
+
+### Ships, ports, total maritime industry to be converted into zero missions soon
+
+*2024-03-21 22:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ships-ports-total-maritime-industry-to-be-converted-into-zero-missions-soon/108-279340) · `en`
+
+Colombo, March 21 (Daily Mirror) - The Ports, Shipping, and Aviation Ministry is to convert the ships, ports, and total maritime industry to zero emissions in the future.
+
+Addressing an event organized to declare ‘National Seafarers Day’ today, Minister Nimal Siripala de Silva said, as far as the maritime industry is concerned, the primitive maritime industry is no more there. We are going to zero emissions such as ammonia, hydrogen, and green energy.
+
+"That transformation is not easy; it needs a lot of money and professionalism. It is a question of how we are going to build that. Therefore, we have to ensure that we make changes to our ports, ships and services very soon. We have to start with it, not itself; otherwise, we will be lacking behind the other countries in which we are competing in maritime," the minister said.
+
+However, thankful to the Indian government, we have taken action to expand the port activities, he said.
 
 ...
 
-[Data](articles/1fb3773f.json)
+[Data](articles/23e3b340.json)
 
 ---
 
@@ -68,25 +94,35 @@ Mr Kejriwal has become the first sitting chief minister to be arrested in the hi
 
 [Data](articles/560ef065.json)
 
+[Extended Data](ext_articles/560ef065.ext.json)
+
 ---
 
-### දළදා පෙරහර අනාගතයට රැක දෙන්න ගැසට්ටුවක්
+### The Dalada Perahera is a gazette
 
 *2024-03-21 22:16:05* · [`adalk`](https://www.ada.lk/breaking_news/දළදා-පෙරහර-අනාගතයට-රැක-දෙන්න-ගැසට්ටුවක්/11-408749) · `si`
 
-කන්ද උඩරට ඇසළ පෙරහර මංගල්‍යයේදී ශ්‍රී දළදා මාලිගාව සහ සතර මහා දේවාල මගින් ඉදිරිපත් කරන නර්තන අංග ඇතුළු සියලු ආයිතම නිශ්චිත කොට ගැසට් කිරීමට සාකච්ඡා වු බව දියවඩන නිලමේ ප්‍රදීප් නිලංග දෑල මහතා පවසයි .
+The Dalada Perahera, a significant event, involves the Sri Dasda Maligawa and four dance elements from the Sri Danasha Maligawa and Mount Kandy Esala Perahera. Diyawadana Nilame Pradeep Nilanga Dela emphasizes its future protection. The event, facilitated by the Sri Dalada Maligawanwarder, includes participation from the Kandy-Esala Perahera. President Ranil Wickremesinghe's request led to the program's implementation. Hemantha Bandara, Basthina Nilame, highlights the Perahera's role in safeguarding the parade, with Buddhist Affairs Director General also present.
 
-එමගින් අනාගතයේදී කිසිදු අවස්ථාවක ඊට නවාංග ඇතුළු කර පෙරහර විකෘති කිරීමට නොහැකි වනු ඇති බවද ඒ මහතා පැවසීය .
+🟩
 
-ජනාධිපති ලේකම් සමන් ඒකනායක මහතාගේ ප්‍රධානත්වයෙන් ශ්‍රී දළදා මාලිගාවේදී පැවති මෙම සාකච්ඡාවේදී මහනුවර ඓතිහාසික ඇසළ පෙරහර මංගල්‍යය විකෘති කිරීම් වලට ලක් නොකර පෞරාණික චාරිත්‍ර ගරු කරමින් සම්ප්‍රදානුකූලව පවත්වාගෙන යෑම සඳහා ඊට සහභාගී වන පිරිස සහ පහසුකම් සලසන රාජ්‍ය ආයතනවල කාරිය භාරය නිශ්චිත කර ගැසට් කිරීමට ද සැලසුම් කොට තිබේ .'
+Diyawadana Nilame Pradeep Nilanga Dela says that the Sri Dasda Maligawa and four dance elements presented by the Sri Danasha Maligawa and four dance elements presented by the Mount Kandy Esala Perahera.
 
-පෙරහර සංදේශය මගින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගෙන් කළ ඉල්ලීමකට අනුව ජනාධිපතිවරයාගේ උපදෙස් පරිදි මෙම වැඩපිළිවෙළ ක්‍රියාත්මක කිරීමට නියමිතය .
+He said that it would not be possible to distort the Perahera in any case in the future.
 
-පෙරහර සම්ප්‍රදාය ආරක්ෂා කර ගනිමින් එය ඉදිරියට ගෙන යාම දියවඩන නිලමේවරයාගේ මෙන්ම සතර මහා දේවාල බස්නායක නිලමේවරුන්ගේද වගකීමක් බව බස්නායක නිලමේ වරුන්ගෙන් සංගමයේ සභාපති මහනුවර පත්තිනි දේවාලයේ බස්නායක නිලමේ හේමන්ත බණ්ඩාර මහතා පැවැසීය.
+The discussion held at the Sri Dalada Maligawanwarder at the Sri Dalada Maliganayake at the Sri Dalada Maligakawardena, the participation of the party and facilitate the support of the Kandy-Esala Perahera."
 
-...
+According to a request made by President Ranil Wickremesinghe by the Perahera, the program will be implemented on the instructions of the President.
+
+The Chairman of the Basthina Nilame Hemantha Bandara said that the presence of the Perahera was also responsible for protecting the parade.
+
+The Director General of Buddhist Affairs has participated in the event.
+
+◼️
 
 [Data](articles/a1a86845.json)
+
+[Extended Data](ext_articles/a1a86845.ext.json)
 
 ---
 
@@ -112,19 +148,29 @@ The President said this while addressing the opening of a newly built gold fence
 
 ---
 
-### තරුණයන්ගේ කොරියා සිහින අනතුරේ දාන ශ්‍රී ලංකන් ගුවන් සේවය
+### SriLankan Airlines operates in danger of Korea Dreams
 
 *2024-03-21 22:10:43* · [`adalk`](https://www.ada.lk/breaking_news/තරුණයන්ගේ-කොරියා-සිහින-අනතුරේ-දාන-ශ්‍රී-ලංකන්-ගුවන්-සේවය/11-408748) · `si`
 
-ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශය විසින් දකුණු කොරියාවේ ඉන්චියොන් ( Incheon ) වෙත  මානව සම්පත් සංවර්ධන සේවයට ඉකුත් 03/19 දින රාත්‍රී ශ්‍රී ලන්කන් ගුවන් යානයක් මගින් යොමු කිරීමට නියමිතව සිටි ශ්‍රී ලාංකිකයන් 217 දෙනෙකු , එම ගුවන් යානය කාර්මික දෝශයකට ලක් වීම නිසා එම ගුවන් ගමන ප්‍රමාද කිරීමකට ලක් කිරීමට ශ්‍රී ලන්කන් ගුවන් සේවයට සිදු වු බව එම ගුවන් සේවයේ ආයතනික සන්නිවේදන අංශය මගින් 03/21 දින පස්වරුවේ  නිකුත් කළ ප්‍රවෘත්ති නිවේදනයක සදහන් වේ .
+SriLankan Airlines delayed flight to Korea, affecting 217 Sri Lankans. 117 departed, 100 remain. Airlines assure jobs unaffected. Steps taken to prevent future delays.
 
-එනිසා මෙම ගුවන් ගමන පසු දා එනම් 03/20 දින උදෑසන 07.23 ට ශ්‍රී ලාංකික සේවකයින් 117 දෙනෙකු රැගෙන කටුනායක ගුවන් තොටුපොළෙන් දකුණු කොරියාවේ ඉන්චියොන් බලා පිටත්ව ගිය බව ද එම නිවේදනයේ වැඩිදුරටත් සදහන් වේ .
+🟩
 
-එසේම ඉතිරි ශ්‍රී ලාංකිකයන් 100 දෙනා එළඹෙන 03/24 වැනි ඉරිදා දින රැගෙන යාමට ශ්‍රී ලන්කන් ගුවන් සේවය සැළසුම් කර තිබේ .
+217 Sri Lankans who were due to be sent by Sri Lankan Aircraft on the Sri Lanka Bureau of Foreign Employment (HR) to the Incheon of Sri Lanka (HR) on a Sri Lankan aircraft on an industrial vehicle, the flight delayedA press release issued by the Corporate Communication Division in the 5th afternoon that SriLankanan Communications Division had taken place to do so.
+
+According to the statement, 117 Sri Lankan employees have been departed from the Bandaranaike International Airport at 07.2 am on the following flight.
+
+SriLankan Airlines has also planned to take 100 remains on Sunday of Sunday, the 100 Sri Lankans.
+
+SriLankan Airlines states that the jobs of these Sri Lankans will not be influenced by the Sri Lankan jobs..
+
+SriLankan Airlines Corporate Communication Sector further stated that SriLankan Airlines is using immediate steps to prevent such incidents.
 
 ...
 
 [Data](articles/d944cb65.json)
+
+[Extended Data](ext_articles/d944cb65.ext.json)
 
 ---
 
@@ -200,19 +246,25 @@ The 02 Indian poaching trawlers along with 07 Indian fishermen apprehended by th
 
 ---
 
-### අයි.එම්.එෆ්. දෙවැනි සමාලෝචනය සාර්ථකයි - තෙවැනි වාරිකය ලෙස ඩොලර් මිලියන 337ක්
+### IMF. Second Review Successful - $ 337 million as Third Premium
 
 *2024-03-21 21:51:03* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--දෙවැනි-සමාලෝචනය-සාර්ථකයි---තෙවැනි-වාරිකය-ලෙස-ඩොලර්-මිලියන-337ක්/11-408747) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාව වෙනුවෙන් ක්‍රියාත්මක කරනු ලබන විස්තිර්ණ මූල්‍ය පහසුකමට අදාළව දෙවැනි සමාලෝචනය සාර්ථකව අවසන් කර තිබේ.
+IMF's second review successful, Sri Lanka to receive $337M as third loan installment, total debt to IMF now $1B.
 
-ඒ අනුව ශ්‍රී ලංකාවට තෙවැනි ණය වාරිකය ලෙස ඇමෙරිකානු ඩොලර් මිලියන 337ක් ලැබීමට නියමිතව තිබේ.
+🟩
 
-මේ අනුව ශ්‍රී ලංකාවට ලැබී ඇති ජාත්‍යන්තර මූල්‍ය අරමුදලේ සම්පූර්ණ ණය ප්‍රමාණය ඇමෙරිකානු ඩොලර් බිලියනයක් වෙයි.
+The second review of the IMF has successfully completed the second review of a precious financial facility implemented by Sri Lanka.
+
+Accordingly, Sri Lanka is to receive US $ 337 million as the third loan installment.
+
+Accordingly, the total debt of the International Monetary Fund has received is US $ 1 billion.
 
 ◼️
 
 [Data](articles/f4827b04.json)
+
+[Extended Data](ext_articles/f4827b04.ext.json)
 
 ---
 
@@ -2227,29 +2279,5 @@ Opposition members of the Constitutional Council (CC) have acted in an irrespons
 [Data](articles/20e6da7b.json)
 
 [Extended Data](ext_articles/20e6da7b.ext.json)
-
----
-
-### A warning to pregnant mothers
-
-*2024-03-21 12:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194772) · `si`
-
-Research in Tamil Nadu shows pregnant women working in hot weather face higher risks of miscarriages and abortions. 800 women engaged in agriculture, brick, and salt production were studied from 2017, with 5% experiencing abortions and 6.1% having biodynamic or premature births.
-
-🟩
-
-In the latest research carried out in India, the pregnant women who work under the hot weather have been at increased risk to producing the corpses and misconduct into abortions.
-
-The research was carried out using 800 pregnant women in the state of South Indian Tamil Nadu from 2017 to date.
-
-Those women engaged in agricultural, brick products and salt production.
-
-Five percent of these women have faced abortions, and the 6.1 percent of the biodious and premature births.
-
-◼️
-
-[Data](articles/f692fe29.json)
-
-[Extended Data](ext_articles/f692fe29.ext.json)
 
 ---

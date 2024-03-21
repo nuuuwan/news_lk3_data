@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 09:18:02**
+As of **2024-03-21 09:33:27**
 
 ## Newspaper Stats
 
-*Scraped **14,234** Articles*
+*Scraped **14,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,152 @@ bbccomsinhala | 157
 dbsjeyarajcom | 190
 newsfirstlk | 363
 dailyftlk | 756
-economynextcom | 760
+economynextcom | 764
 islandlk | 782
 adalk | 1,226
 adaderanalk | 1,707
-tamilmirrorlk | 1,722
-virakesarilk | 1,987
-dailymirrorlk | 2,181
+tamilmirrorlk | 1,724
+virakesarilk | 1,989
+dailymirrorlk | 2,184
 adaderanasinhalalk | 2,270
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,234 (100.0%) of 14,234 articles have been extended.
+14,234 (99.9%) of 14,245 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### வெல்லவாயா பஸ் விபத்தில் 7 மாணவர்கள் உட்பட 15 பேர் காயம்!
+
+*2024-03-21 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179277) · `ta`
+
+வெல்லவாய – தனமல்வில பிரதான வீதியில் வெல்லவாய குமாரதாச சந்தியில் இன்று புதன்கிழமை (21) காலை தனியார் பஸ் ஒன்று விபத்துக்குள்ளானது.
+
+இந்தச் சம்பவத்தில 7 பாடசாலை மாணவர்கள், பஸ் சாரதி உட்பட 15 பேர் காயமடைந்து வெள்ளவாய ஆரம்ப வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/50259d8d.json)
+
+---
+
+### பரஸ்பர துப்பாக்கிச் சூட்டில் சந்தேகநபர் மரணம்
+
+*2024-03-21 09:14:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரஸ்பர-துப்பாக்கிச்-சூட்டில்-சந்தேகநபர்-மரணம்/175-334972) · `ta`
+
+கனேமுல்ல பிரதேசத்தில் இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவத்தில் ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பலைச் சேர்ந்த ஒருவர் சுட்டுக்கொல்லப்பட்டுள்ளார்.
+
+கோனஹேன பொலிஸ் விசேட அதிரடிப்படை அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் நேற்று (20) கணேமுல்ல சுமேத மாவத்தை பகுதியில் உள்ள வீடொன்றை சுற்றிவளைத்து சோதனையிட்ட போது, ​​சந்தேக நபர் விஷேட அதிரடிப் படையினர் மீது துப்பாக்கிச் சூடு நடத்தியதையடுத்து, இரு தரப்பினருக்கும் இடையே பரஸ்பர துப்பாக்கசூடு இடம்பெற்றுள்ளது.
+
+இதன்போது சந்தேக நபர் மற்றும் விசேட அதிரடிப்படை அதிகாரி ஒருவரும் காயமடைந்து ராகம வைத்தியசாலையில் அனுமதிக்கப்பட்ட போது சந்தேகநபர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+சம்பவத்தில் உயிரிழந்தவர் கடந்த 9ஆம் திகதி ஜா-எல, தன்டுகம பஸ்வத்த பிரதேசத்தில் இடம்பெற்ற துப்பாக்கிச் சூட்டுச் சம்பவத்தில் துப்பாக்கிச் சூடு நடத்தியவர் எனத் தெரிவிக்கப்படுகிறது.
+
+சந்தேகநபர் 28 வயதான எஹெலியகொட பிரதேசத்தைச் சேர்ந்தவர் எனவும் அவர் இராணுவ சேவையிலிருந்து தப்பி வந்தவர் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/1a94f286.json)
+
+---
+
+### Leader should take responsibility- Basil
+
+*2024-03-21 09:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Leader-should-take-responsibility-Basil/108-279291) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) stalwart Basil Rajapaksa, in response to a query about the former President’s decision to ban chemical farming, said a leader should take final responsibility for any decision taken by him.
+
+“I don’t know. A leader may consult others for making a decision. Once a decision is made, he should take the responsibility,” Basil Rajapaksa said in an interview with Daily Mirror.
+
+Asked why he, as a responsible member of the government, did not advise the then President who is his elder brother said he could advise but any leader should take the responsibility once done finally.
+
+“When I met Indian Prime Minister Narendra Modi once, we talked about palm oil cultivation. At that time, the Russia-Ukraine war had started. Ukraine was the key supplier of palm oil to India. Mr. Modi told me that Sri Lanka had been seen as one of the three best countries in the world for growing palm oil. He sought to cultivate palm oil under a buyback agreement for 35 years.
+
+...
+
+[Data](articles/b03d46ee.json)
+
+---
+
+### பாதாள உலக குழுவுடன் நேரடி தொடர்பு வைத்திருந்த 19 பேர் கைது
+
+*2024-03-21 09:11:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதாள-உலக-குழுவுடன்-நேரடி-தொடர்பு-வைத்திருந்த-19-பேர்-கைது/175-334971) · `ta`
+
+பொலிஸ் மா அதிபரின் பணிப்புரையின் பேரில் கடந்த 19 ஆம் திகதி முதல் செயற்படுத்தப்பட்ட குற்றச் செயல்களை கட்டுப்படுத்தும் விசேட நடவடிக்கையின் ஊடாக பலர் கைது செய்யப்பட்டு வருகின்றனர்.
+
+அந்த வகையில், ஐஸ், ஹெரோயின் போதைப்பொருள் மற்றும் வாள்களுடன் மூன்று குற்றக் குழுக்களைச் சேர்ந்த நான்கு பேர் நேற்று (20) கைது செய்யப்பட்டுள்ளனர்.
+
+மருதானை, முகத்துவாரம், கிராண்ட்பாஸ் மற்றும் மாளிகாவத்தை ஆகிய பகுதிகளில் வசிக்கும் 44, 26, 23 மற்றும் 28 வயதுடையவர்களே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+சந்தேகநபர்களிடம் இருந்து 2 கிராம் 450 மில்லிகிராம் ஹெரோயின், 7 கிராம் 510 மில்லிகிராம் ஐஸ் போதைப்பொருள், 3 கிராம் 160 மில்லிகிராம் ஐஸ் போதைப்பொருள் ஆகியன கைது செய்யப்பட்டன. கொழும்பு குற்றப் பிரிவு மேலதிக விசாரணைகளை மேற்கொண்டு வருகிறது.
+
+பாதாள உலகத்துடன் நேரடி தொடர்பு வைத்திருந்த 19 பேர் இதுவரை கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர். R
+
+◼️
+
+[Data](articles/2e6b17ea.json)
+
+---
+
+### மக்களின் கரிசனைகளை நிவர்த்திக்கும் வரை நாணய நிதிய அதிகாரிகளை சந்திக்கமாட்டோம் - சிவில் சமூக அமைப்புக்கள், தொழிற்சங்கங்கள் கூட்டாக அறிவிப்பு
+
+*2024-03-21 09:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179275) · `ta`
+
+நாட்டுக்கு வருகைதந்திருக்கும் சர்வதேச நாணய நிதிய அதிகாரிகளுடனான சந்திப்பைப் புறக்கணித்திருக்கும் சிவில் சமூக அமைப்புக்கள் மற்றும் தொழிற்சங்கங்கள், இலங்கை மக்களின் கரிசனைக்குரிய விடயங்களை நிவர்த்தி செய்வதை முன்னிறுத்திய சர்வதேச நாணய நிதியத்தின் உண்மையான முயற்சிகளை தாம் காணும்வரை, நாணய நிதியத்துடனான கலந்துரையாடல்களில் பங்கேற்கப்போவதில்லை என அறிவித்துள்ளது.
+
+சர்வதேச நாணய நிதியத்தின் விரிவாக்கப்பட்ட நிதிவசதிச்செயற்திட்டத்தின்கீழ் 2.9 பில்லியன் டொலர் கடனை இலங்கைக்கு வழங்குவதற்கான முன்மொழிவுக்கு கடந்த ஆண்டு மார்ச் 20 ஆம் திகதி சர்வதேச நாணய நிதியத்தின் பணிப்பாளர் சபை அனுமதியளித்தது.
+
+அதனையடுத்து முதற்கட்டமாக 330 மில்லியன் டொலர் கடன்நிதி இலங்கைக்கு வழங்கப்பட்டதுடன், இரண்டாம் கட்டமாக 337 மில்லியன் டொலர்களை வழங்குவதற்கு நாணய நிதியம் ஒப்புதல் அளித்தது.
+
+...
+
+[Data](articles/804ec0c6.json)
+
+---
+
+### Underworld gunman killed in shootout with STF
+
+*2024-03-21 09:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Underworld-gunman-killed-in-shootout-with-STF/108-279299) · `en`
+
+Colombo, March 21 (Daily Mirror) - A suspected underworld gunman was killed following a shootout with Police Special Task Force (STF) personnel at Ganemulla last night.
+
+Police said the suspect in question had opened fire at STF personnel who were engaged in searching a house at Sumedha Mawatha in Ganemulla last night, based on intelligence information received.
+
+He was critically injured when police returned fire while the suspect succumbed to injuries while receiving treatment at the Ragama Hospital. A member of the STF had also been injured in the shootout.
+
+Meanwhile, at least 19 individuals directly linked to the underworld have been arrested since Tuesday during the special operation launched under the ‘Yukthiya’ operation.
+
+In response to a concerning increase in organized criminal activities in the Western and Southern Provinces, a special operation targeting 20 identified organized criminal gangs in the country was launched under the 'Yukthiya' initiative on Tuesday.
+
+◼️
+
+[Data](articles/22e03c6c.json)
+
+---
+
+### Sri Lanka chamber to hold summit on climate threat
+
+*2024-03-21 09:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-chamber-to-hold-summit-on-climate-threat-155420/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ceylon Chamber of Commerce said it will hold a ‘climate summit’ from May 7 to 9, bringing together key stakeholders to identify threats to the economy and the actions that businesses can take.
+
+“The climate summit will delve into the specific climate threats Sri Lanka faces, highlighting the potential disruptions to key economic sectors,” the chamber said in a statement.
+
+“It will also explore the transformative power of climate action for Sri Lankan businesses.
+
+“By embracing sustainable practices and innovative solutions, Sri Lankan companies can not only mitigate risks but also unlock green growth opportunities.”
+
+The three-day summit on the theme ‘Code Red: Climate Risks and Opportunities for Sri Lankan Businesses’ will be held at Shangri La Hotel, Colombo.
+
+...
+
+[Data](articles/4cc15fd2.json)
+
+---
 
 ### International Forest Day
 
@@ -49,6 +177,22 @@ The Forest Department has implemented a number of programs to plant 10 lakhs fro
 [Data](articles/b6423376.json)
 
 [Extended Data](ext_articles/b6423376.ext.json)
+
+---
+
+### Health Ministry’s claims on return of migrated doctors debunked
+
+*2024-03-21 08:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Health-Ministrys-claims-on-return-of-migrated-doctors-debunked/155-279298) · `en`
+
+Colombo, March 21 (Daily Mirror) - Running counter to the statement by the Health Ministry regarding the return of migrated doctors to Sri Lanka, recent statistics paint a different picture, revealing only a meagre five specialists have returned to the country this year.
+
+The assertion initially made by Deputy Director General (Medical Services) Dr. G. Wijesuriya failed to produce the statistics and thus met with skepticism, especially considering the stark reality depicted by the data.
+
+Dr. Wijesuriya, who found himself in hot water over the statement, claimed a reversal in the trend of doctors, particularly those pursuing postgraduate training abroad, choosing not to return to Sri Lanka. “Although it’s not in alarming numbers, the migrated doctors have started to return to the country,”
+
+...
+
+[Data](articles/f0002d8a.json)
 
 ---
 
@@ -166,6 +310,48 @@ He is said to have been a close associate of the underworld figure known as ‘P
 
 ---
 
+### Sri Lanka’s Adani wind power price lowered to 8.85 cents: Minister
+
+*2024-03-21 07:51:00* · [`economynextcom`](https://economynext.com/sri-lankas-adani-wind-power-price-lowered-to-8-85-cents-minister-155433/) · `en`
+
+ECONOMYNEXT – The purchase price of a wind power plant in Mannar, Sri Lanka built by India’s Adani has now been lowered to 8.85 US cents in the latest negotiations, Energy Minister Kanchana Wijesekera said.
+
+“They are now proposing 8.85 US cents or about 26.90 rupees,” Minister Wijesekera told parliament.
+
+The private plant has drawn controversy because it was not coming through competitive bidding and the initial price demanded was said to have been as high at 15.20 US cents a unit.
+
+Power purchase agreements (PPA) which run up to 20 years are among the largest government procurement in the island and dwarfs some capital projects.
+
+Minister Wijesekera said the plant came a government-to-government deal.  A cabinet appointed negotiation committee was appointed to sort out the price.
+
+Some political analysts refer to such power plants as a ‘geopolitical’ cost.
+
+There are now several plants for which prices are being negotiated without competitive tender.
+
+...
+
+[Data](articles/82e731d3.json)
+
+---
+
+### Sri Lanka team to Europe to begin negotiations with bondholders: President
+
+*2024-03-21 07:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-team-to-europe-to-begin-negotiations-with-bondholders-president-155435/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury Secretary and Central Bank Governor will leave for Europe to begin direct discussions with bondholders, and wrap up re-structuring by June-July President Ranil Wickremesinghe has said.
+
+According to a summary of a speech made by president in Sinhala, President Wickremesinghe was cited as saying by the President’s media unit, the following at an event at a temple on March 20.
+
+“After we get a declaration that Sri Lanka is free from bankruptcy, we also expects to have joint discussion with IMF and World Bank in April,” President
+
+Sri Lanka is also in discussions with the International Monetary Fund this week to reach a staff level agreement, he said.
+
+◼️
+
+[Data](articles/09a5c2cc.json)
+
+---
+
 ### A change in prevailing dry weather condition expected from today
 
 *2024-03-21 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98091/a-change-in-prevailing-dry-weather-condition-expected-from-today) · `en`
@@ -255,6 +441,24 @@ The suspect is a 28 year old resident of Eheliyagoda and said he had fled the mi
 [Data](articles/0c35a2d6.json)
 
 [Extended Data](ext_articles/0c35a2d6.ext.json)
+
+---
+
+### Indian Adani Group says “vicious campaign” against its Sri Lanka wind project
+
+*2024-03-21 06:53:00* · [`economynextcom`](https://economynext.com/indian-adani-group-says-vicious-campaign-against-its-sri-lanka-wind-project-155428/) · `en`
+
+ECONOMYNEXT – India’s Adani Group, which is in discussion to get clearance for two renewable energy projects in Sri Lanka, has complained of a possible “vicious campaign” against its 250 MW wind-powered energy project in the island nation’s Northern district of Mannar.
+
+Sri Lankan officials have said the Adani’s wind power project has been facing some delays as a Cabinet Appointed Negotiation Committee (CANC) has been raising concerns over the project components including tariff.
+
+In a fresh blow, Rohan Pethiyagoda, a prominent Sri Lankan biodiversity scientist, in a recent video said Adani’s wind project is “yet another wasteful scam” and questioned about its Environmental Assessment Impact (EIA) and the pricing.
+
+“The EIA for Adani’s Mannar power project is little more than a shame, a stamp, a whitewash,” Pethiyagoda, a conservationist and a public-policy advocate, told in a self-explanatory video posted by himself in his own YouTube platform.
+
+...
+
+[Data](articles/9ba54c1c.json)
 
 ---
 
@@ -1881,273 +2085,5 @@ We do not mention that we will not refer to the Sunnah.. We have said that anyon
 [Data](articles/2a0bb648.json)
 
 [Extended Data](ext_articles/2a0bb648.ext.json)
-
----
-
-### Special notice of Sri Lankans in Haiti Despite
-
-*2024-03-20 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194744) · `si`
-
-The Ministry of External Affairs of Sri Lanka has issued a statement regarding the safety of Sri Lankans in Haiti, where a violent gang is causing unrest. The Ministry confirms that Sri Lankans are safe and that the Sri Lanka Embassy in Cuba, accredited to Haiti, is in constant contact with the companies serving in Haiti.
-
-🟩
-
-The Ministry of External Affairs has issued a statement regarding Sri Lankans in Haitian.
-
-Antiquetting gang Haiti Haiti Haiti Haiti Haiti is violent and behaving violently acting violence.
-
-The statement states that the Ministry of External Affairs is associated with companies that serve in Haiti.
-
-The Ministry of External Affairs points out that Sri Lankans are safe from this situation.
-
-The Ministry of External Affairs says that the companies have been confirmed that they have lived in unrest.
-
-The Sri Lanka Embassy in Cuba, accredited to Haiti, is constantly connected to the companies.
-
-◼️
-
-[Data](articles/362e0275.json)
-
-[Extended Data](ext_articles/362e0275.ext.json)
-
----
-
-### Fake Kovit Vaccination Certificate: Brazil's suit against former president
-
-*2024-03-20 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/179257) · `ta`
-
-Brazil's former president Jaiir Bolsonaro is accused of preparing a fake Kovit vaccine certificate for himself and his daughter, leading to a police recommendation for charges against him and 16 others. Bolsonaro, who lost the 2022 presidential election, is also accused of conspiracy to retain power.
-
-🟩
-
-The police have recommended a case against Brazil's former president Jaiir Bolsanaro in the case of fake Kovit vaccine certification preparation.
-
-Bolsanaro is criticized for being negligent in controlling the spread of Kovit. He also criticized the loading vaccine.
-
-In this case, Jaiir Bolsanaro has been accused of the Bolsanaro's ordered to prepare a fake certificate that he and her daughter have been vaccinated.
-
-The police have filed a chargesheet against Jaiir Bolsanaro and 16 others.
-
-Bolsanaro failed in the 2022 presidential election. He has also been accused of trying to hold a conspiracy to retain the post.
-
-◼️
-
-[Data](articles/68afec99.json)
-
-[Extended Data](ext_articles/68afec99.ext.json)
-
----
-
-### The arrested persons to protest in Colombo
-
-*2024-03-20 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194743) · `si`
-
-33 arrested in Colombo protest against People's Struggle Movement. Police used water and tear gas to disperse the march, which began at Fort Railway Station over issues like goods prices and foreign agreements.
-
-🟩
-
-According to the DIG Talduwa, police said that 33 have been arrested in protest of the People's Struggle Movement.
-
-The police stabbed the water and tear gas this afternoon to disperse a protest march organized in Colombo Fort.
-
-Among the arrested persons, two monks and three women are also present.
-
-The protest had begun at the Fort Railway Station based on several issues, including the prices of goods, including foreign agreements.
-
-◼️
-
-[Data](articles/5eaef7f3.json)
-
-[Extended Data](ext_articles/5eaef7f3.ext.json)
-
----
-
-### Sri Lanka rupee closes at 304.00/20 to the US dollar
-
-*2024-03-20 17:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-304-00-20-to-the-us-dollar-155383/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 304.00/20 to the US dollar in the spot forex market on Wednesday, weaker from 303.95/304.05 on Tuesday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed stable at 11.30/40 percent.
-
-A bond maturing on 15.09.2027 closed stable at 11.90/12.00 percent.
-
-A bond maturing on 15.12.2028 closed up at 12.15/20 percent from 12.10/15 percent.
-
-A bond maturing on 15.07.2029 closed stable at 12.10/30 percent.
-
-A bond maturing on 15.05.2030 closed at 12.10/30 percent up from 12.10/20 percent.
-
-A bond maturing on 15.03.2031 closed at 12.10/35 percent up from 12.10/20 percent.
-
-A bond maturing on 01.07.2032 closed at 12.25/50 percent down from 12.35/55 percent. (Colombo/Mar20/2024)
-
-◼️
-
-[Data](articles/671568cf.json)
-
-[Extended Data](ext_articles/671568cf.ext.json)
-
----
-
-### Public servants in France buning down
-
-*2024-03-20 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194741) · `si`
-
-In France, millions of civil servants, including teachers and health workers, are on strike, demanding salary increases and protesting educational reforms. Paris also saw a massive protest. Teachers are protesting the classification of students based on Grade 6. The strike is supported by foreign civil servants, who have joined the 5.7 million striking workers.
-
-🟩
-
-Millions of civil servants, including teachers, health workers in France, have launched a massive strike.
-
-By making payments to increase the salaries, and protesting to the government educational reform.
-
-Parallel to this, Paris also reported a massive protest in the capital.
-
-The support of teachers, health workers and public administration were supported.
-
-Foreign people have joined 5.7 million civil servants for the strike, foreign media reports.
-
-French civil workers have launched a strike, making the request of their wages.
-
-The teachers have also been protestable for the government decision to classify students based on the level of Grade 6 in French schools.
-
-Protesters allege that the increase in employee pay is not in accordance with the rise of inflation.
-
-◼️
-
-[Data](articles/8535679f.json)
-
-[Extended Data](ext_articles/8535679f.ext.json)
-
----
-
-### List of the world's happy countries;Finland came first!Sri Lanka?
-
-*2024-03-20 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/179248) · `ta`
-
-Finland tops the world's happy countries list for the 7th time, followed by Denmark, Iceland, Sweden, Israel, Netherlands, Norway, Luxembourg, Switzerland, and Australia. Sri Lanka is 128th, India 126th, China 60th, Nepal 93rd, Pakistan 108th, Myanmar 118th, and Bangladesh 129th. Israel is in the top five, with Afghanistan at 137th. The UN's annual study, published on International Happiness Day, considers GDP, social support, healthy lifespan, freedom, generosity, injustice, and corruption.
-
-🟩
-
-'Finland' is back to the seventh time in the world's happy countries.
-
-Thereafter, countries such as Denmark, Iceland, Sweden, Israel, the Netherlands, Norway, Luxembourg, Switzerland and Australia topped the top ten.
-
-Sri Lanka ranks 128th. Since 2022, Sri Lanka has been in the rankings.
-
-India ranks 126th, China is 60th, Nepal is 93rd, Pakistan 108th, Myanmar 118th and Bangladesh 129th.
-
-Israel is in the top five. Afghanistan ranks 137th.
-
-The United Nations Sustainable Development Solutions Network is published annually on International Happiness Day (March 20). The study is said to be prepared by the individual GDP (GDP), social support, healthy lifespan, freedom of choosing life, generosity, injustice and corruption.
-
-◼️
-
-[Data](articles/0e842abe.json)
-
-[Extended Data](ext_articles/0e842abe.ext.json)
-
----
-
-### Call to protect Homagama Hospital...
-
-*2024-03-20 17:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Call-to-protect-Homagama-Hospital/110-279247) · `en`
-
-The Medical Faculty Students' Union (MFSU) staged a protest in front of the Health Ministry today demanding that responsible authorities withdraw the decision to sell the Homagama Hospital, which is attached to the Medical Faculty of the Sri Jayewardenepura University, to the NSBM Green University. Pix by Waruna Wanniarachchi
-
-◼️
-
-[Data](articles/509f9543.json)
-
-[Extended Data](ext_articles/509f9543.ext.json)
-
----
-
-### Dayasiri launches new party...
-
-*2024-03-20 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Dayasiri-launches-new-party/110-279246) · `en`
-
-A new alliance titled Humane Peoples’ Alliance under the leadership of former Sri Lanka Freedom Party (SLFP) General Secretary MP Dayasiri Jayasekara was launched today at the Lakshman Kadirgamar Institute (LKI). Pix by Waruna Wanniarachchi.
-
-◼️
-
-[Data](articles/777fc55f.json)
-
-[Extended Data](ext_articles/777fc55f.ext.json)
-
----
-
-### A teacher who taught an English as awkward to the students
-
-*2024-03-20 17:00:47* · [`adalk`](https://www.ada.lk/breaking_news/සිසුවියන්ට-අමුතු-විදියට-ඉංග්‍රීසි-ඉගැන්වු-ගුරුවරයෙක්/11-408726) · `si`
-
-An English teacher in Kurunegala was arrested for sexually abusing students, four months after the incident. The teacher, a six-year-old unmarried man, was suspended. Parents and alumni are dissatisfied with the investigation by the North Western Provincial Education Department. The suspect was reportedly instructed by the District Secretary.
-
-🟩
-
-Kurunegala Headquarters Police say a group of English guarair has been arrested on suspicion of sexually abusing a public mixed school in Kurunegala. The suspect was a tip off the police, he was arrested four months after the incident.
-
-The incident had been reported in November last year, police said.
-
-A group of parents and alumni of the school have not yet been satisfied with the investigations into the North Western Provincial Education Department.. It has revealed that the suspect had also committed the suspect with the instructions of the District Secretary.
-
-The teacher who touches five of the bodies of five students of the school have been abused by the teacher who taught five bodies.
-
-The suspect, a six-year-old unmarried teacher, has been suspended after the incident.
-
-In November last year, it is said that the incident was advanced after the students were abused by the teacher in a few occasions.
-
-...
-
-[Data](articles/d4d911a0.json)
-
-[Extended Data](ext_articles/d4d911a0.ext.json)
-
----
-
-### Update on Sri Lankans in Haiti amidst escalation of violence
-
-*2024-03-20 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98083/update-on-sri-lankans-in-haiti-amidst-escalation-of-violence) · `en`
-
-The Ministry of Foreign Affairs says it is closely following the prevailing situation in Haiti where the citizens are reeling from the spiral of violence that erupted after armed gangs took control of the capital city Port-au-Prince and other areas.
-
-In a statement issued on Wednesday (March 20), the ministry asserted that it is in contact with companies operating in Haiti employing Sri Lankan nationals.
-
-“The companies have confirmed that the [Sri Lankan] nationals are safe and away from the areas where there is ongoing unrest.”
-
-Meanwhile, the Embassy of Sri Lanka in Cuba accredited to Haiti remains in regular contact with the respective companies, the Foreign Ministry noted.
-
-Haiti’s already precarious situation has quickly deteriorated over the past weeks as gangs launched coordinated attacks on key facilities, forcing the resignation of the country’s prime minister.
-
-...
-
-[Data](articles/8078dd78.json)
-
-[Extended Data](ext_articles/8078dd78.ext.json)
-
----
-
-### 29 including FSP’s Duminda Nagamuwa and Lahiru Weerasekara arrested during protest
-
-*2024-03-20 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98082/29-including-fsps-duminda-nagamuwa-and-lahiru-weerasekara-arrested-during-protest) · `en`
-
-Twenty-nine persons including 02 Buddhist monks and 03 females have been arrested during the protest staged by the ‘Jana Aragala Viyaparaya’ in Pettah today (20), police said.
-
-It is reported that Frontline Socialist Party (FSP) activist Duminda Nagamuwa and youth activist Lahiru Weerasekara are among those arrested during the protest.
-
-Meanwhile, at least 05 police officers have been injured during the clashes with protesters, according to police.
-
-Earlier, police had resorted to using tear gas and water cannons to disperse the protesters in Pettah, Colombo.
-
-The demonstration had been organized by the ‘Jana Aragala Viyaparaya’ (People’s Struggle Movement) based on several issues including the soaring cost of living and certain foreign agreements.
-
-The protest march had commenced from near the Fort Railway Station and they were heading in the direction of Pettah when riot police used tear gas and water cannons to disperse them, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/4bc90cff.json)
-
-[Extended Data](ext_articles/4bc90cff.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 08:51:39**
+As of **2024-03-21 09:03:24**
 
 ## Newspaper Stats
 
-*Scraped **14,233** Articles*
+*Scraped **14,234** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 1,707
 tamilmirrorlk | 1,722
 virakesarilk | 1,987
 dailymirrorlk | 2,181
-adaderanasinhalalk | 2,269
+adaderanasinhalalk | 2,270
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,232 (100.0%) of 14,233 articles have been extended.
+14,233 (100.0%) of 14,234 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### ජාත්‍යන්තර වනාන්තර දිනය අදට යෙදෙයි
+
+*2024-03-21 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194761) · `si`
+
+ලොව පිහිටි සියලු වනාන්තර සහ වනාන්තරවලින් පරිභාහිරව පිහිටි වෘක්ෂ සම්පත්වල වැදගත්කම පිළිබඳව ජන සමාජය තුළ පවතින දැනුවත්භාවය ඉහළ නැංවීමේ අරමුණින් එක්සත් ජාතීන්ගේ සංවිධානය විසින් සෑම වසරකම මාර්තු 21 වනදා ජාත්‍යන්තර වනාන්තර දිනය ලෙස ප්‍රකාශයට පත්කර තිබේ.
+
+වනාන්තර දිනය සැමරීමට සමගාමීව පැළ ලක්ෂ 10ක් වනාන්තර වලින් පරිභාහිරව සිටුවීමට වන සංරක්ෂණ දෙපාර්තමේන්තුව විසින් වැඩසටහන් රාශියක් ක්‍රියාත්මක කර තිබේ.
+
+◼️
+
+[Data](articles/b6423376.json)
+
+---
 
 ### No research activities, only replenishment for German research vessel in Sri Lanka
 
@@ -704,19 +718,25 @@ President Wickremesinghe’s first public political rally at Kuliyapitiya was od
 
 ---
 
-### ’அஸ்வெசும பயனாளிகளை வலுவூட்ட நடவடிக்கை’
+### Action to strengthen the beneficiaries
 
 *2024-03-21 02:15:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-பயனாளிகளை-வலுவூட்ட-நடவடிக்கை/175-334970) · `ta`
 
-"அஸ்வெசும பயனாளிகள் 14 ஆயிரம் பேரை வலுவூட்டுவதற்கான விசேட வேலைத் திட்டத்தை சிறுதோட்ட அபிவிருத்தி அதிகாரசபையுடன் இணைந்து செயற்படுத்தவிருப்பதாக சமூல வலுவூட்டல் இராஜாங்க அமைச்சர் அனுப பெஸ்குவல் தெரிவித்தார்.
+"Anubha Beskwal announced a program to aid 14,000 beneficiaries, with 60 billion rupees for Samurdhi and 180 billion for Aswesuma, funded by the government to alleviate economic crisis impacts."
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு  தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பணிப்புரையின் கீழ் நடைமுறைப்படுத்தப்படும் 'அவஸ்வசும வேலைத்திட்டத்திற்கு'சமுர்த்தி திட்டத்தை விடவும் மூன்று மடங்கு தொகை ஒதுக்கப்பட்டுள்ளது. அதன்படி சமூர்த்திக்காக 60 பில்லியன் ரூபா ஒதுக்கப்பட்டிருந்த நிலையில், அஸ்வெசும திட்டத்திற்காக 180 பில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளது. கடந்த பொருளாதார நெருக்கடியினால் பெருமளவில் கஷ்டங்களை எதிர்கொண்ட மக்களுக்கான நிவாரணமாகவே அதனை வழங்குகிறோம் என்றார். (a)
+“The Minister of Employment, Anubha Beskwal, said that the special program to strengthen 14 thousand beneficiaries will be working with the Minor Development Authority.
+
+He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
+
+Three times the amount of money has been allocated for the 'Avaswasuma Program' which will be implemented under the directive of President Ranil Wickremesinghe.. Accordingly, 60 billion rupees has been allocated for the Samurdhi, and 180 billion rupees has been allocated for the Aswesuma project.. We are providing it as a relief for the people who have suffered great difficulties due to the last economic crisis. (A)
 
 ◼️
 
 [Data](articles/9d34ff77.json)
+
+[Extended Data](ext_articles/9d34ff77.ext.json)
 
 ---
 
@@ -2123,29 +2143,5 @@ The protest march had commenced from near the Fort Railway Station and they were
 [Data](articles/4bc90cff.json)
 
 [Extended Data](ext_articles/4bc90cff.ext.json)
-
----
-
-### 33 including FSP’s Duminda Nagamuwa and Lahiru Weerasekara arrested during protest
-
-*2024-03-20 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98082/33-including-fsps-duminda-nagamuwa-and-lahiru-weerasekara-arrested-during-protest) · `en`
-
-UPDATE: A total of thirty-three individuals have been arrested during the protest staged by the ‘Jana Aragala Viyaparaya’ in Pettah today, Police Spokesman DIG Nihal Thalduwa said.
-
-Twenty-nine persons including 02 Buddhist monks and 03 females have been arrested during the protest staged by the ‘Jana Aragala Viyaparaya’ in Pettah today (20), police said.
-
-It is reported that Frontline Socialist Party (FSP) activist Duminda Nagamuwa and youth activist Lahiru Weerasekara are among those arrested during the protest.
-
-Meanwhile, at least 05 police officers have been injured during the clashes with protesters, according to police.
-
-Earlier, police had resorted to using tear gas and water cannons to disperse the protesters in Pettah, Colombo.
-
-The demonstration had been organized by the ‘Jana Aragala Viyaparaya’ (People’s Struggle Movement) based on several issues including the soaring cost of living and certain foreign agreements.
-
-...
-
-[Data](articles/8bbdc111.json)
-
-[Extended Data](ext_articles/8bbdc111.ext.json)
 
 ---

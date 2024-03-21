@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 07:16:38**
+As of **2024-03-21 07:53:01**
 
 ## Newspaper Stats
 
-*Scraped **14,220** Articles*
+*Scraped **14,226** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 132
+colombotelegraphcom | 133
 bbccomsinhala | 157
 dbsjeyarajcom | 190
 newsfirstlk | 363
@@ -16,39 +16,129 @@ dailyftlk | 756
 economynextcom | 760
 islandlk | 782
 adalk | 1,226
-adaderanalk | 1,704
-tamilmirrorlk | 1,719
+adaderanalk | 1,705
+tamilmirrorlk | 1,720
 virakesarilk | 1,987
 dailymirrorlk | 2,180
-adaderanasinhalalk | 2,264
+adaderanasinhalalk | 2,267
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,210 (99.9%) of 14,220 articles have been extended.
+14,223 (100.0%) of 14,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### වියළි කාලගුණයේ වෙනසක්
+### A change in prevailing dry weather condition expected from today
+
+*2024-03-21 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98091/a-change-in-prevailing-dry-weather-condition-expected-from-today) · `en`
+
+The Department of Meteorology says a change in the prevailing dry weather conditions in the island can be expected from today.
+
+Several spells of showers will occur in Eastern, Uva and Northern provinces, it said.
+
+Showers or thundershowers will occur at several places in Western, Sabaragamuwa, Central, Southern, North-Western and North-Central provinces during the afternoon or night.
+
+Fairly heavy showers above 50mm are likely at some places in Sabaragamuwa Province, the department added.
+
+Misty conditions can be expected at some places in Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/538e0852.json)
+
+---
+
+### වනඅලි මියයෑම ගැන හෙළිදරව්වක්
+
+*2024-03-21 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194758) · `si`
+
+දීප ව්‍යාප්තව විදුලිවැට පරීක්ෂාව අඛණ්ඩව ක්‍රියාත්මක කිරීම මඟින් විදුලිසැර වැඳීමෙන් වනඅලි මියයාම් අවම කරගැනීමට කටයුතු කරන බව වනජීවි සංරක්ෂණ දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/98df5f78.json)
+
+---
+
+### Ranil - Basil said
+
+*2024-03-21 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194757) · `si`
+
+President Ranil Wickremesinghe and former Minister Basil Rajapaksa, along with former President Mahinda Rajapaksa, are meeting today to discuss the next presidential election and political activities.
+
+🟩
+
+President Ranil Wickremesinghe and former Minister Basil Rajapaksa will be held today (21).
+
+It is said that the next presidential and election, including the coming political activities, is to be discussed.
+
+President Ranil Wickremesinghe and Basil Rajapaksa and former President Mahinda Rajapaksa recently arrived at the meeting.
+
+◼️
+
+[Data](articles/14c2a3d2.json)
+
+[Extended Data](ext_articles/14c2a3d2.ext.json)
+
+---
+
+### STF shot dead
+
+*2024-03-21 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194755) · `si`
+
+A member of the organized criminal was killed in a shooting in Ganemulla. The STF raided houses in Sumedha Mawatha and Ganeheramaya Mawatha in October. The suspect, a 28-year-old from Eheliyagoda, shot at the STF, injuring both him and an officer. They were admitted to Ragama hospital. The victim, a 28-year-old from Eheliyagoda, was shot in the Balawatta area in Ja-Elan on 09.
+
+🟩
+
+A member of the organized criminal criminal criminal criminal criminal was killed in a shooting in general area Ganemulla.
+
+The STF raided a house in Sumedha Mawatha, a house in the Ganeheramaya Mawatha, October.
+
+The suspect had a shooting between the two parties to shoot the Special Task Force.
+
+The suspect and a STF officer injured and admitted to the Ragama hospital.
+
+The victim is the shotgrove at the shooting incident in the Balawatta area in Ja-Elan on 09.
+
+The suspect is a 28 year old resident of Eheliyagoda and said he had fled the military.
+
+◼️
+
+[Data](articles/0c35a2d6.json)
+
+[Extended Data](ext_articles/0c35a2d6.ext.json)
+
+---
+
+### A change of dry weather
 
 *2024-03-21 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194754) · `si`
 
-දිවයිනේ දැනට පවතින වියළි කාලගුණ තත්ත්වයේ වෙනසක් අද (21) දින සිට අපේක්ෂා කළ හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology forecasts dry weather starting today, with showers or thundershowers expected in the Western, Sabaragamuwa, Southern, and North-Central provinces. Heavy rains may occur in some areas of Sabaragamuwa, and moderate rainfall in parts of the Central provinces. Public advised to prepare for wind and lightning.
 
-බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණු, වයඹ සහ උතුරු-මැද පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+🟩
 
-සබරගමුව පළාතේ ඇතැම් ස්ථානවලට මි. මී. 50ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
+The Department of Meteorology announces that the current dry weather conditions in the country can be expected from today (21).
 
-සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+Showers or night thundershowers during the evening or night in the Western, Sabaragamuwa, Southern, Southern and North-Central provinces.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Some places in Sabaragamuwa Province. Mee. Heavy rains can occur more than 50.
+
+Some locations in the Sabaragamuwa and Central provinces and in some places are expected to be metaded in the Galle and Matara districts.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/7b244533.json)
+
+[Extended Data](ext_articles/7b244533.ext.json)
 
 ---
 
@@ -68,6 +158,8 @@ He told the Daily Mirror that there has been a notable lack of rainfall from mid
 
 [Data](articles/38b85c29.json)
 
+[Extended Data](ext_articles/38b85c29.ext.json)
+
 ---
 
 ### CSOs and TUs reject cosmetic consultations of IMF
@@ -86,6 +178,8 @@ The IMF team is in Colombo for the Second Review of the ongoing Extended Fund Fa
 
 [Data](articles/9ca33810.json)
 
+[Extended Data](ext_articles/9ca33810.ext.json)
+
 ---
 
 ### Application of banking ethics in Sri Lanka
@@ -100,6 +194,8 @@ Any business depends and improves mainly based on the trust placed by the custom
 
 [Data](articles/3c81cdfd.json)
 
+[Extended Data](ext_articles/3c81cdfd.ext.json)
+
 ---
 
 ### Strengthening anti-corruption measures in private sector
@@ -113,6 +209,8 @@ Under the amended Anti-Corruption Act, private sector individuals, such as purch
 ...
 
 [Data](articles/d93149bf.json)
+
+[Extended Data](ext_articles/d93149bf.ext.json)
 
 ---
 
@@ -129,6 +227,8 @@ Effective management is the cornerstone of success. Leaders must prioritise tran
 ...
 
 [Data](articles/66939a1f.json)
+
+[Extended Data](ext_articles/66939a1f.ext.json)
 
 ---
 
@@ -482,19 +582,61 @@ President Wickremesinghe’s first public political rally at Kuliyapitiya was od
 
 ---
 
-### கடலில் மூழ்கி இருவர் உயிரிழப்பு
+### IMF. Representatives - Sajith Meeting
+
+*2024-03-21 02:05:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-எம்-எப்-பிரதிநிதிகள்-சஜித்-சந்திப்பு/175-334968) · `ta`
+
+Sajith Premadasa, opposition leader, emphasized the United People's Power's awareness of Sri Lanka's economic crisis. Representatives of the IMF were informed that actions should focus on avoiding bankruptcy, enhancing investments, and bolstering economic strength. IMF representatives present included Peter Bruver, Deputy Chairman, Kathya Swiritskanka, and Dr. Sarvat Jahan.
+
+🟩
+
+Opposition Leader Sajith Premadasa said that the United People's Power is well aware of the depth and complexity of the economic crisis in Sri Lanka as a responsible party.
+
+In this regard, the opposition representatives told representatives of the International Monetary Fund that every action we take should be rescued from bankruptcy, strengthening investments and strengthening the economic strength of the people.
+
+Representatives of the International Monetary Fund, Peter Bruver, Deputy Chairman of the International Monetary Fund, Kathya Swiritskanka and Resident Representative of the International Monetary Fund, Dr. Sarvat Jahan, were present at the meeting.. (A)
+
+◼️
+
+[Data](articles/4c6c40d9.json)
+
+[Extended Data](ext_articles/4c6c40d9.ext.json)
+
+---
+
+### Drowning in the sea
 
 *2024-03-21 01:57:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலில்-மூழ்கி-இருவர்-உயிரிழப்பு/175-334967) · `ta`
 
-யாழ்ப்பாணம், இளவாலை - சேந்தாங்குளம் கடற்கரையில் குளிக்கச் சென்ற இருவர் சடலங்களாக மீட்கப்பட்டுள்ளனர்.
+Two bodies recovered from Jaffna's Senthangulam beach. Two of three men missing since yesterday found. Sivanesan Divyan, 21, and Devankarunadasa Yood, 36, identified.
 
-சேந்தாங்குளம் கடற்கரையில் நேற்று நீராடச் சென்ற மூவரில் இருவர் காணாமல்போன நிலையில், இருவரும் சடலங்களாக மீட்கப்பட்டுள்ளனர்.
+🟩
 
-நாவற்குழியைச் சேர்ந்த சிவநேசன் திவ்யன் (வயது 21), செட்டிக்குளம் பகுதியைச் சேர்ந்த தேவன்கருணதாசா யூட் (வயது 36) ஆகியோரே சடலங்களாக மீட்கப்பட்டுள்ளனர். (a)
+Two bodies have been recovered as bodies on the coast of Jaffna, Ilavalai - Senthangulam.
+
+Two of the three men who went to the Senthangulam beach yesterday disappeared and the two were recovered.
+
+Sivanesan Divyan (21 years old) from Navatkuli and Devankarunadasa Yood (36 years old) from Chettikulam have been recovered.. (A)
 
 ◼️
 
 [Data](articles/f71933f8.json)
+
+[Extended Data](ext_articles/f71933f8.ext.json)
+
+---
+
+### Books & Elections: President Gotabaya Rajapaksa’s Claim Of Foreign Conspiracy
+
+*2024-03-21 01:46:28* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/books-elections-president-gotabaya-rajapaksas-claim-of-foreign-conspiracy/) · `en`
+
+Gotabaya Rajapaksa has well explained his own tragedy where the protagonist comprehends his insignificance. To comprehend a self-diagnosis with an insignificance is neither an act of cowardice but the opposite; this value of Gotabaya’s self-diagnosis must be appreciated.
+
+Bombs directly impact election results in South Asia, as discussed in my book ‘Conundrum of an Island’. The last major bomb attack in Sri Lanka, the Easter Sunday Terror attack, certainly altered the voter path towards restoring National Security upon the election of Gotabaya Rajapaksa in 2019.
+
+...
+
+[Data](articles/04d1afe0.json)
 
 ---
 
@@ -1999,163 +2141,5 @@ The two petitions have been submitted by the Young Journalists Association and t
 [Data](articles/cf2054b0.json)
 
 [Extended Data](ext_articles/cf2054b0.ext.json)
-
----
-
-### Sri Lanka doctors’ association threatens action against private medical universities
-
-*2024-03-20 16:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-doctors-association-threatens-action-against-private-medical-universities-155381/) · `en`
-
-ECONOMYNEXT — A doctors’ professional association has written to President Ranil Wickremesinghe demanding that the government revoke plans to approve the establishment of private medical universities in Sri Lanka.
-
-Secretary of the All Ceylon Medical Officers Association Jayantha Bandara told reporters on Wednesday March 20 that the association would take trade union action against the decision if the government did not revoke it.
-
-Bandara spoke to the reporters outside the Presidential Secretariat having just handed over the letter to an official.
-
-“The government is again trying to create a major problem in the country,” he said.
-
-Bandara, a medical doctor, claimed that the issue of private medical universities has led to confrontational situations in the country over the recent past and also led to problems in education and health sectors.
-
-“The government is ready to approve and open several private universities,” he said, asking if it was a priority at the moment.
-
-...
-
-[Data](articles/9d93496b.json)
-
-[Extended Data](ext_articles/9d93496b.ext.json)
-
----
-
-### Sri Lanka continues to maintain neutrality in global affairs, including Ukraine - Putin has revealed that the intervention of the West has failed - the Russian Ambassador to Sri Lanka
-
-*2024-03-20 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179242) · `ta`
-
-Russian Ambassador to Sri Lanka, Leven S Jagarian, highlights Putin's election victory as evidence of Western interventions' failure, including in Ukraine. He criticizes Western interventions in Sri Lanka and globally, noting Russian voters' support for Putin. Jagarian also addresses the Ukrainian conflict, stating it's not a war against Ukraine and that the Russian people opposed Western plans to subordinate Russia. He emphasizes Russia's neutrality and its economic challenges due to the Ukraine war.
-
-🟩
-
-Vladimir Putin's great success in the Russian presidential election has revealed that the West's interventions have not been successful, said Russian Ambassador to Sri Lanka Leven S Jagarian.
-
-Putin's victory has revealed that the US -led coalition's efforts to change the results of the Russian presidential election based on the Ukraine war have failed.
-
-He pointed out the interventions of the West in many countries, including Sri Lanka, and pointed out how Russian voters voted in favor of President Putin, contrary to the expectation of the West.
-
-In an interview with Island, he said he was not surprised about the results of the Russian presidential election.
-
-The Russian Ambassador to Sri Lanka said that the Ukrainian war was the reason for Putin's six years.
-
-I would like to report some details clearly that it is not a war against Ukraine.
-
-He also said that the people of Rasya were opposed to the West's plan that had been devastated to subordinate Russia.
-
-...
-
-[Data](articles/f3c193c2.json)
-
-[Extended Data](ext_articles/f3c193c2.ext.json)
-
----
-
-### Sri Lanka doctors’ association threatens action against private medical universities
-
-*2024-03-20 16:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-doctors-association-threatens-action-against-private-medical-universities-155374/) · `en`
-
-ECONOMYNEXT — A doctors’ professional association has written to President Ranil Wickremesinghe demanding that the government revoke plans to approve the establishment of private medical universities in Sri Lanka.
-
-Secretary of the All Ceylon Medical Officers Association Jayantha Bandara told reporters on Wednesday March 20 that the association would take trade union action against the decision if the government did not revoke it.
-
-Bandara spoke to the reporters outside the Presidential Secretariat having just handed over the letter to an official.
-
-“The government is again trying to create a major problem in the country,” he said.
-
-Bandara, a medical doctor, claimed that the issue of private medical universities has led to confrontational situations in the country over the recent past and also led to problems in education and health sectors.
-
-“The government is ready to approve and open several private universities,” he said, asking if it was a priority at the moment.
-
-...
-
-[Data](articles/2fa6f426.json)
-
-[Extended Data](ext_articles/2fa6f426.ext.json)
-
----
-
-### COPF recommends deferment of CBSL salary increase
-
-*2024-03-20 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/98081/copf-recommends-deferment-of-cbsl-salary-increase) · `en`
-
-The Committee on Public Finance (COPF) has recommended that the Central Bank of Sri Lanka (CBSL) defer the salary increase until a mutually acceptable solution is reached on the matter.
-
-This was mentioned in the COPF report on the Central Bank Salary Revision 2024-2026 presented to the parliament by the committee’s chairman Dr. Harsha de Silva on Wednesday (March 20).
-
-COPF compiled this report on the recent salary increase of the Central Bank staff members upon a request made by President Ranil Wickremesinghe in his capacity as the Finance Minister. The request came about after several MPs raised this issue in the House, joining the general outcry opposing the steep salary increase.
-
-In its recommendations, the COPF says the Finance Minister should, with immediate effect, appoint an independent remuneration committee with the concurrence of the Central Bank Governor to review the salary increase under discussion.
-
-...
-
-[Data](articles/d40618d2.json)
-
-[Extended Data](ext_articles/d40618d2.ext.json)
-
----
-
-### Capital found throughout the streets
-
-*2024-03-20 16:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194737) · `si`
-
-Haiti's capital, Port-au-Prince, is experiencing unrest, with violent incidents and robberies, including by the British Gang Haiti, leading to deaths and displacing thousands. The situation has escalated, with armed gangs attacking institutions and relief efforts, exacerbating the humanitarian crisis. UNICEF warns of severe famine, criticizing international organizations for failing to assist. Despite its rich history and cultural heritage, Haiti's current conflict threatens its tourism industry and stability.
-
-🟩
-
-Antiquet groups are still violently behaving in decorating the port of Prutz in the capital of Haiti.
-
-The bodies of the deceased have been found throughout the Power of Prurte Pryi.
-
-There are several robberies including the Port of Port of Prub.
-
-Its latest news is the robbery of the British Gang Haiti.
-
-Three persons have been killed in the incident.
-
-The British Sri Lanka was one of the major institutions in the country.
-
-Meanwhile, a house of a judiciary of the Purtain capital and armed gangs were attacked.
-
-This is a good example of unstable political situation in the country.
-
-Meanwhile, armed gang has acted in the robbery of relief work belonging to Haiti.
-
-Another intensifying the humanitarian situation that has been implemented in the country.
-
-The Port of Prince had also robbed the essential substances including children and pregnant mothers at the main port of the capital.
-
-Accordingly, UNICEF emphasizes that the Haitians will face a severe famine.
-
-...
-
-[Data](articles/a250ea6f.json)
-
-[Extended Data](ext_articles/a250ea6f.ext.json)
-
----
-
-### Sri Lanka Treasuries yields up across maturities
-
-*2024-03-20 16:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-up-across-maturities-155375/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields edged up across maturities, at Wednesday’s auction with the 3-month yield rising 13 basis points to 10.23 percent, data from the debt office showed.
-
-The debt office took up more than offered three months bills with 45 billion rupees 68.38 billion rupees of paper sold.
-
-The 6-month yield went up 14 basis points to 10.35 percent, with 70 billion rupees offered and 53 billion sold.
-
-The 12-month yield rose 12 basis points to 10.38 percent, with 40 billion rupees offered and 18 billion sold. (Colombo/Mar20/2024)
-
-◼️
-
-[Data](articles/c0cb0428.json)
-
-[Extended Data](ext_articles/c0cb0428.ext.json)
 
 ---

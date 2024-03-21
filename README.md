@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 05:02:49**
+As of **2024-03-22 05:18:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,301
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,411 (99.9%) of 14,420 articles have been extended.
+14,420 (100.0%) of 14,420 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ MP Prof. Charitha Herath raised a point of order, expressing concerns about the 
 ...
 
 [Data](articles/2140b06f.json)
+
+[Extended Data](ext_articles/2140b06f.ext.json)
 
 ---
 
@@ -63,6 +65,8 @@ Dissanayake met with Canadian High Commissioner to Sri Lanka Eric Walsh at the J
 ◼️
 
 [Data](articles/a763e7fd.json)
+
+[Extended Data](ext_articles/a763e7fd.ext.json)
 
 ---
 
@@ -86,6 +90,8 @@ Speaking at the NPP’s inaugural international women’s summit in London on 16
 
 [Data](articles/fbc68a55.json)
 
+[Extended Data](ext_articles/fbc68a55.ext.json)
+
 ---
 
 ### Sunshine Holdings announces new leadership appointments
@@ -101,6 +107,8 @@ Sunshine Holdings Group CEO Shyam Sathasivam said “We are excited to announce 
 ...
 
 [Data](articles/3e5379c7.json)
+
+[Extended Data](ext_articles/3e5379c7.ext.json)
 
 ---
 
@@ -118,6 +126,8 @@ Puma pleaded that Defendant was selling counterfeit products which contained Pla
 
 [Data](articles/b1bb7c9d.json)
 
+[Extended Data](ext_articles/b1bb7c9d.ext.json)
+
 ---
 
 ### Top Chinese trade delegation visits BOI
@@ -127,6 +137,8 @@ Puma pleaded that Defendant was selling counterfeit products which contained Pla
 ...
 
 [Data](articles/978ad478.json)
+
+[Extended Data](ext_articles/978ad478.ext.json)
 
 ---
 
@@ -144,6 +156,8 @@ The remaining 100 passengers, who were heading to South Korea for work, have bee
 
 [Data](articles/ca88bede.json)
 
+[Extended Data](ext_articles/ca88bede.ext.json)
+
 ---
 
 ### Ceylon Chamber to organise Sri Lanka Climate Summit 2024
@@ -158,6 +172,8 @@ The Ceylon Chamber of Commerce is proud to announce the inaugural Sri Lanka Clim
 
 [Data](articles/2967618b.json)
 
+[Extended Data](ext_articles/2967618b.ext.json)
+
 ---
 
 ### SLASSCOM’s 2023 survey sheds light on critical HR trends in Sri Lanka
@@ -169,6 +185,8 @@ The Sri Lanka Association of Software and Service Companies (SLASSCOM) recently 
 ...
 
 [Data](articles/8c33e27c.json)
+
+[Extended Data](ext_articles/8c33e27c.ext.json)
 
 ---
 

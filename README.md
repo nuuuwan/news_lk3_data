@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 16:33:36**
+As of **2024-03-21 16:48:50**
 
 ## Newspaper Stats
 
-*Scraped **14,354** Articles*
+*Scraped **14,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 1,723
 tamilmirrorlk | 1,737
 virakesarilk | 2,018
 dailymirrorlk | 2,199
-adaderanasinhalalk | 2,290
+adaderanasinhalalk | 2,291
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,351 (100.0%) of 14,354 articles have been extended.
+14,354 (100.0%) of 14,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### උද්ධමනයේ සිදුවූ අලුත්ම වෙනස
+
+*2024-03-21 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194784) · `si`
+
+2024 ජනවාරි මාසයේදී 6.5% ක් ලෙස වාර්තා වූ මෙරට උද්ධමනය 2024 පෙබරවාරි මාසය සඳහා 5.1% ක් දක්වා අඩුවී ඇත.
+
+2024 ජනවාරි මාසයේ දී 4.1% ක් ලෙස වාර්තා වූ ආහාර කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 පෙබරවාරි මාසයේ දී 5.0% ක් දක්වා වැඩි වී තිබේ.
+
+එමෙන්ම, 2024 ජනවාරි මාසයේදී 8.5% ක් වූ ආහාර නොවන කාණ්ඩයේ ලක්‍ෂ්‍යමය උද්ධමනය 2024 පෙබරවාරි මාසයේ දී 5.1% ක් දක්වා අඩු වී ඇත.
+
+◼️
+
+[Data](articles/139b38d3.json)
+
+---
 
 ### CBSL accepts all recommendations from COPF report on salary hikes
 
@@ -48,23 +64,31 @@ Taking to X (formerly Twitter) to announce this, MP de Silva said: “I am glad 
 
 [Data](articles/1b302f51.json)
 
+[Extended Data](ext_articles/1b302f51.ext.json)
+
 ---
 
-### චෙන්නායි නායකත්වයේ වෙනසක්
+### Change of Chennai leadership
 
 *2024-03-21 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194783) · `si`
 
-IPL තරගාවලියේ චෙන්නායි සුපර් කිංග්ස් කණ්ඩායමේ නායකත්වයේ වෙනසක් සිදුකර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+The IPL has changed the leadership of the Chennai Super Kings to Ruthj Gayikwa, with Mahendra Sinoi Thero now playing without leadership responsibilities.
 
-ඒ අනුව චෙන්නායි සුපර් කිංග්ස් කණ්ඩායමේ නව නායකත්වය ලබා දී ඇත්තේ රුතුරාජ් ගයික්වාඩ් වෙතටය.
+🟩
 
-මීට පෙර චෙන්නායි සුපර් කිංග්ස් කණ්ඩායමේ නායකත්වය දැරුවේ ඉන්දීය හිටපු ප්‍රබල පිතිකරු මෙන්ම හිටපු නායකයෙක් ද වූ මහේන්ද්‍ර සිං ධෝනි.
+Foreign media reports that the IPL has changed the leadership of the Chennai Super Kings team.
 
-ඒ අනුව මෙවර IPL තරගාවලියේදී ඔහු චෙන්නායි කණ්ඩායමේ ක්‍රීඩා කරන්නේ වසර ගණනාවක් තිස්සේ ඔහු දැරූ නායකත්වයේ වගකීම නොමැතිවය.
+Accordingly, the new leadership of the Chennai Super Kings team has been given to the Ruthj Gayikwa.
+
+Earlier, the former Indian Super Kings, a former Indian Powerful and a former leader, was Mahendra Sinoi Thero.
+
+In this year, he is playing the Chennai team in the IPL series, without the responsibility of his leadership.
 
 ◼️
 
 [Data](articles/74020bcb.json)
+
+[Extended Data](ext_articles/74020bcb.ext.json)
 
 ---
 
@@ -2259,29 +2283,5 @@ The Jaffna University of Jaffna has lodged a complaint with the Jaffna Human Rig
 [Data](articles/4bf6d024.json)
 
 [Extended Data](ext_articles/4bf6d024.ext.json)
-
----
-
-### A revelation of the negotiations on the restructuring of international bonds
-
-*2024-03-21 09:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194764) · `si`
-
-Sri Lanka's authorities and investors plan to restructure $12 billion in international bonds next week, aiming to resolve debts from 2022's economic crisis. The goal is to agree before the presidential election this year.
-
-🟩
-
-Foreign media reports that Sri Lankan authorities and investors will commence next week to the restructuring of international bonds.
-
-Sri Lanka had to bear debts from 2022 due to the economic crisis.
-
-The Bloomberg news service is proposed to restructure bonds of about $ 12 billion worth of bonds.
-
-It is said that the purpose of both sides is to reach an agreement as soon as the Sri Lankan presidential election will be held this year.
-
-◼️
-
-[Data](articles/9c04d5db.json)
-
-[Extended Data](ext_articles/9c04d5db.ext.json)
 
 ---

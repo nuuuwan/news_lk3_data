@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 10:51:10**
+As of **2024-03-21 11:03:20**
 
 ## Newspaper Stats
 
-*Scraped **14,258** Articles*
+*Scraped **14,259** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,50 @@ adalk | 1,226
 adaderanalk | 1,710
 tamilmirrorlk | 1,724
 virakesarilk | 1,993
-dailymirrorlk | 2,185
+dailymirrorlk | 2,186
 adaderanasinhalalk | 2,275
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,256 (100.0%) of 14,258 articles have been extended.
+14,258 (100.0%) of 14,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
 
-### මහවැලි ව්‍යාපාරය ගැන ජනපතිගෙන් පොරොන්දුවක්
+### Legislation to suspend Parate execution presented to Parliament
+
+*2024-03-21 10:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Legislation-to-suspend-Parate-execution-presented-to-Parliament/108-279314) · `en`
+
+Parliament, March 21 (Daily Mirror)- The Recovery of Loans by Banks (Special provisions) Bill which seeks to suspend the Parate Execution was presented to Parliament by State Minister of Finance today.
+
+◼️
+
+[Data](articles/ba53c075.json)
+
+---
+
+### President promises Mahaweli business
 
 *2024-03-21 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194766) · `si`
 
-රට නවීන කෘෂි ආර්ථිකයක් කරා ගෙන යන ගමනේ දී, මහවැලි ව්‍යාපාරයෙන් අතහැරණු මහවැලි ඒ සහ බී කලාප කඩිනමින් සංවර්ධනය කර ජනතාවට එහි ප්‍රතිලාභ ලබාදීමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe highlighted the importance of the Mahaweli Campaign and Bills, crediting Gamini Dissanayake for Sri Lanka's self-sufficiency and electricity. Dissanayake, a distinguished politician, was celebrated for his role in the Mahaweli Development Project, which transformed Sri Lanka's history.
 
-මෙරට වාරි ඉතිහාසය තුළ සුවිශේෂී පරිවර්තනයක් සිදුකරමින් එදා ගාමිණී දිසානායක මහතා මහවැලි ව්‍යාපාරය ක්‍රියාත්මක නොකළා නම් අද රට සහලින් ස්වයංපෝෂිත කිරීමට නොහැකි වන බවත්, රටට අවශ්‍ය විදුලිය ලබා ගැනීමට නොහැකි වන බවත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+🟩
 
-කීර්තිමත් දේශපාලනඥයකු වූ ගාමිණී දිසානායක මහතාගේ අසූ දෙවැනි ජන්ම දින සැමරුම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් ඊයේ පැවැත්වූ අතර, එයට සහභාගී වෙමින් ජනාධිපතිවරයා මේ බව කියා සිටියේය.
+President Ranil Wickremesinghe says that the country will be able to develop the people with the advice of the Mahaweli Campaign and Bills from the Mahaweli Campaign.
+
+The President pointed out that if Gamini Dissanayake had not implemented a unique transformation in the history of the history of Sri Lanka, the country was not able to self-sufficient today and could not be able to get the electricity to the country.
+
+The second birthdant Gamini Dissanayake, a distinguished politician, was held yesterday under the patronage of President Ranil Wickremesinghe.
 
 ...
 
 [Data](articles/c8bde657.json)
+
+[Extended Data](ext_articles/c8bde657.ext.json)
 
 ---
 
@@ -87,6 +105,8 @@ More than 90% of the global trade is by sea. The sustenance and the growth of th
 ◼️
 
 [Data](articles/e5876dd6.json)
+
+[Extended Data](ext_articles/e5876dd6.ext.json)
 
 ---
 
@@ -2117,31 +2137,5 @@ He further highlighted that the total number of passengers using the Bandaranaik
 [Data](articles/2d882f26.json)
 
 [Extended Data](ext_articles/2d882f26.ext.json)
-
----
-
-### Four Maha solo seized four
-
-*2024-03-20 19:26:09* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලය-හඹා-යන-මහෙයුමෙන්-හතරක්-අල්ලයි/11-408728) · `si`
-
-Special operations arrested four in Western and Southern Provinces. 20 special police teams involved. Suspects in Colombo and Central Province arrested, including one with 400 grams of heroin and another with 320 mills of ice.
-
-🟩
-
-The Police Media Division states that four persons have been arrested by special operations to the Western and Southern Provinces yesterday (June 19).
-
-According to the Media Spokesperson DIG Nihal Talduuwa, 20 special police teams have been attached to the criminal members of the two provinces.
-
-He said four suspects have been arrested by special police teams in the Colombo area and a member of a group of criminal group in the Central Province.
-
-The suspect had been arrested in the possession of the suspect in the possession of the suspect in the possession of 400 grams of heroin and 550 mm of heroin had been arrested.
-
-Another suspect has been arrested in the Kajama Watta area and 320 mill of ice narcotics have been arrested in the possession of the suspect.
-
-◼️
-
-[Data](articles/aee04a2b.json)
-
-[Extended Data](ext_articles/aee04a2b.ext.json)
 
 ---

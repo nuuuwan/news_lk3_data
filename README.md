@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 20:34:13**
+As of **2024-03-21 20:51:43**
 
 ## Newspaper Stats
 
-*Scraped **14,386** Articles*
+*Scraped **14,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,241
 adaderanalk | 1,728
 tamilmirrorlk | 1,738
 virakesarilk | 2,028
-dailymirrorlk | 2,207
+dailymirrorlk | 2,208
 adaderanasinhalalk | 2,297
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,386 (100.0%) of 14,386 articles have been extended.
+14,386 (100.0%) of 14,387 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -63,6 +63,26 @@ A person who has been abused by a person who has been abused at the age of 9.
 [Data](articles/b6f5cbaf.json)
 
 [Extended Data](ext_articles/b6f5cbaf.ext.json)
+
+---
+
+### India’s Congress party accuses government of freezing accounts
+
+*2024-03-21 19:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indias-Congress-party-accuses-government-of-freezing-accounts/108-279337) · `en`
+
+March 21, (Al Jazeera) - The Congress party, India’s main opposition political group, has accused Prime Minister Narendra Modi’s government of stifling democracy and “crippling” the party by freezing its bank accounts in a tax dispute ahead of the general election.
+
+India will hold a six-week election starting next month, with the Congress-led alliance pitted against Modi’s heavily funded Bharatiya Janata Party (BJP).
+
+Former Congress chief Rahul Gandhi on Thursday told reporters in New Delhi the party is unable to campaign properly with its accounts frozen by the income tax department.
+
+“Our entire financial identity has been erased,” said Gandhi, 53, the scion of the family that dominated Indian politics for decades after independence.
+
+“We have no money to campaign, we cannot support our candidates. Our ability to fight elections has been damaged.”
+
+...
+
+[Data](articles/ab001103.json)
 
 ---
 
@@ -2263,29 +2283,5 @@ However, the actual figures are completely different.Some of the returns include
 [Data](articles/6ac0ab5c.json)
 
 [Extended Data](ext_articles/6ac0ab5c.ext.json)
-
----
-
-### Did the Ministry of Health issued a fake report?
-
-*2024-03-21 11:55:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போலி-அறிக்கை-வெளியிட்டதா-சுகாதார-அமைச்சு/175-334980) · `ta`
-
-The Ministry of Health's report on Sri Lankan doctors returning abroad is disputed. Deputy Director General G. Wijesuriya claimed the trend of doctors returning, especially postgraduates, is reversed, but actual figures show only a slight change. The SLMA's President criticized the return of five experts as insignificant, and the AMS's Medical Speaker expressed concern over the exodus of medical professionals, accusing the Ministry of Health of making unsupported claims.
-
-🟩
-
-In contrast to the report issued by the Ministry of Health on the return of Sri Lankan doctors abroad, recent statistics provide different information.
-
-Deputy Director General (Medical Services). G. The claim that Wijesuriya initially failed to produce statistics and was suspicious, especially according to the information provided by the data.
-
-Dr. Wijesuriya, who has been controversial with the report, said the doctors' trend, especially those who have a postgraduate graduate abroad, have suddenly turned reversed."Even if it is not a dangerous number, migrant doctors have begun to return."
-
-However, the actual figures are completely different.Some of the returns include a gynecologist (VOG), surgeon, anesthesiologist, pediatrician, and ophthalmologist, which refers to a slight change than substantial income.
-
-...
-
-[Data](articles/9654ca06.json)
-
-[Extended Data](ext_articles/9654ca06.ext.json)
 
 ---

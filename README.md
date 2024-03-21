@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-21 11:03:20**
+As of **2024-03-21 11:18:13**
 
 ## Newspaper Stats
 
-*Scraped **14,259** Articles*
+*Scraped **14,273** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,214 @@ newsfirstlk | 363
 dailyftlk | 756
 economynextcom | 764
 islandlk | 782
-adalk | 1,226
-adaderanalk | 1,710
-tamilmirrorlk | 1,724
-virakesarilk | 1,993
-dailymirrorlk | 2,186
+adalk | 1,230
+adaderanalk | 1,711
+tamilmirrorlk | 1,725
+virakesarilk | 2,000
+dailymirrorlk | 2,187
 adaderanasinhalalk | 2,275
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,258 (100.0%) of 14,259 articles have been extended.
+14,259 (99.9%) of 14,273 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-21 (Thursday)
+
+### பஸ் விபத்தில் மாணவர்கள் உட்பட 15 பேர் காயம்
+
+*2024-03-21 11:03:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-மாணவர்கள்-உட்பட-15-பேர்-காயம்/175-334975) · `ta`
+
+வெல்லவாய - தனமல்வில பிரதான வீதியின் குமாரதாச சந்தியில் தனியார் பேருந்து ஒன்று விபத்துக்குள்ளானதில் பாடசாலை மாணவர்கள் 7 பேர் உள்ளிட்ட 15 பேர் காயமடைந்துள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+சாரதியின் கவனக்குறைவு காரணமாக இந்த விபத்து நேர்ந்துள்ளதாக ஆரம்பகட்ட விசாரணையில் தெரிய வந்துள்ளது.
+
+இந்த நிலையில், குறித்த விபத்து தொடர்பில் வெல்லவாய பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்துள்ளனர். R
+
+◼️
+
+[Data](articles/1cb62139.json)
+
+---
+
+### IMF delegates meet with Sajith Premadasa
+
+*2024-03-21 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98097/imf-delegates-meet-with-sajith-premadasa) · `en`
+
+The visiting delegation of the International Monetary Fund (IMF) has met with Sri Lankan Opposition Leader Sajith Premadasa at the parliament complex on Wednesday (March 20).
+
+The Samagi Jana Balawegaya members emphasized that the prevailing economic situation could have been averted had the government aptly responded to their earlier calls urging them to reach out to the global lender.
+
+While pointing out that they are in agreement with the roadmap presented by the IMF to help Sri Lanka’s economic recovery process, the SJB members went on to highlight that certain proposals require amendments.
+
+They further highlighted that the management of public finances should be done in a sustainable manner to save the country from bankruptcy.
+
+The IMF delegation consisting of Peter Breuer, the Senior Mission Chief for Sri Lanka; Katsiaryna Svirydzenka, the Deputy Mission Chief for Sri Lanka; and Sarwat Jahan, the Resident Representative for Sri Lanka were in attendance at this meeting.
+
+...
+
+[Data](articles/96aa7d9b.json)
+
+---
+
+### கோப் குழுவின் தலைவர் பதவியிலிருந்து ரோஹிதவை நீக்க வேண்டிய அவசியமில்லையாம்!
+
+*2024-03-21 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179299) · `ta`
+
+எதிர்க்கட்சி எம்.பி.க்கள் சிலரை  புதிய உறுப்பினர்களை நியமித்து கோப் குழு தொடர்ந்தும்  செயற்படுத்தப்படும்  என கோப் குழு உறுப்பினரும் இராஜாங்க அமைச்சருமான இந்திக அனுருத்த தெரிவித்துள்ளார்.
+
+பல்வேறு ஆட்சேபனைகள் இருந்தாலும், நாடாளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தனவை கோப் குழுவின் தலைவர் பதவியிலிருந்து நீக்க வேண்டிய அவசியமில்லை எனவும்  அவர் அங்கு தெரிவித்தார்.
+
+◼️
+
+[Data](articles/c92b4de7.json)
+
+---
+
+### வியட்நாம் ஜனாதிபதி இராஜினாமா : பாராளுமன்றம் அங்கீகாரம்
+
+*2024-03-21 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179295) · `ta`
+
+வியட்நாம் ஜனாதிபதி வோ வான் துவோங் இராஜினாமா செய்துள்ளார். அவரின் இராஜினாமாவை அந்நாட்டுப் பாராளுமன்றம் இன்று அங்கீகரித்தது.
+
+நேற்று நடைபெற்ற, ஆளும் கம்யூனிஸ்ட் கட்சிக் கூட்டத்தின் பின்னர் ஜனாதிபதி துவோங் இராஜினாமா செய்ததாக  அரசாங்கம் அறிவித்தது.
+
+இந்த இராஜினாமாவுக்கு பாராளுமன்றத்தின் அங்கீகாரம் பெறப்பட வேண்டும். இந்நிலையில், இன்று வியாழக்கிழமை கூடிய வியட்நாம் பாராளுமன்றம், ஜனாதிபதி துவோங்கின் இராஜினாமாவுக்கு அங்கீகாரம் வழங்கியது.
+
+கட்சியின் விதிகளை துவோங் மீறியதுடன், கட்சின் நம்பிக்கையை குலைக்கும் வகையில் செயற்பட்டுள்ளார் என வியட்நாமின் கம்யூனிஸ்ட் கட்சி குற்றம் சுமத்தியுள்ளது.
+
+எனினும், துவோங்கின் சொந்த மாநிலத்தில் ஊழல் சர்ச்சையொன்று தொடர்பாக அவர் பதவிவிலகியுள்ளார் என நம்பப்படுகிறது.
+
+துவோங்குக்கு முன்னர் ஜனாதிபதியாக பதவி வகித்த ஜனாதிபதியும் ஊழல் சர்ச்சை காரணமாக இராஜினாமா செய்திருந்தமை குறிப்பிடத்கத்கது.
+
+◼️
+
+[Data](articles/c5d38122.json)
+
+---
+
+### Oval Invincibles Sign Chamari Athapathu in the Hundred Draft
+
+*2024-03-21 10:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Oval-Invincibles-Sign-Chamari-Athapathu-in-the-Hundred-Draft/108-279315) · `en`
+
+Mar. 21 (MYD) - Dawid Malan, Chamari Athapaththu and Amanda-Jade Wellington were the big players of the night to join Oval Invincibles at The Hundred Draft, powered by Sage.
+
+In the women’s competition, Chamari Athapaththu was chosen with Invincibles’ first pick – joining Marizanne Kapp and Alice Capsey at Oval Invincibles – while Dawid Malan and Donovan Ferreira link up with Sam Billings’ men’s team.
+
+Jo Gardner, Lizzie Scott, Georgie Boyce and Tom Lammonby have also signed for Oval Invincibles.
+
+Elsewhere in The Hundred Draft, Kieron Pollard went to Southern Brave, Meg Lanning to London Spirit and Beth Mooney to Manchester Originals.
+
+England players Tom Banton, Lauren Filer and Ollie Pope were also on the move, as well as international superstars Andre Russell, Ash Gardner, Shaheen Afridi and Nicholas Pooran.
+
+...
+
+[Data](articles/e2f4f532.json)
+
+---
+
+### அரசியல் ஆய்வாளர் அலன் கீனன் வவுனியா விஜயம்
+
+*2024-03-21 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/179297) · `ta`
+
+சர்வதேச அரசியல் ஆய்வாளர் அலன் கீனன் வவுனியா தமிழர்தாயக காணாமல் ஆக்கப்பட்ட சங்க உறவுகளுடன் கலந்துரையாடல் ஒன்றை முன்னெடுத்திருந்தார்.
+
+அவர்கள் தொடர்ச்சியாக சுழற்சிமுறை உணவுத்தவிர்ப்பு போராட்டத்தை முன்னெடுத்துவரும் கொட்டகையில் குறித்த சந்திப்பு நேற்று புதன்கிழமை (20) இடம்பெற்றிருந்தது.
+
+இதன்போது காணாமல் ஆக்கப்பட உறவுகளின் பெற்றோர்களிடம் சமகால விடயங்கள் தொடர்பாக கேட்டறிந்துகொண்டதுடன், அவர்கள் சந்திக்கின்ற சவால்கள் மற்றும் பிரச்சனைகள் தொடர்பிலும் கேட்டறிந்துகொண்டார்.
+
+◼️
+
+[Data](articles/1e2b089d.json)
+
+---
+
+### ගැබිනි ගුරුවරියක් දුම්රියේ ගැටී ජීවිතක්ෂයට
+
+*2024-03-21 10:47:26* · [`adalk`](https://www.ada.lk/breaking_news/ගැබිනි-ගුරුවරියක්-දුම්රියේ-ගැටී-ජීවිතක්ෂයට/11-408735) · `si`
+
+මුහුදු බඩ දුම්රිය මාර්ගයේ රත්ගම ඕවකන් පදේශයේදී  ගැබිනි ගුරුවරික දුම්රියේ ගැටී ජීවිතක්ෂයට පත්වී ඇතැයි රත්ගම පොලීසිය කියයි. මෙසේ මිය ගොස් ඇත්තේ රත්ගම ඕවකන්ද පදේශයේම පදිංචි රත්ගම මාවඩවිල මලියදේව  විදුගලේ   ගුරුවරියක් බව ද පොලීසිය කියයි.
+
+මේ තිස්තුන්  හැවිරිදි දෙදරු මවක වන මේ ගුරුවරිය ගැබිනි අයෙක් බව ද පොලීසිය කියයි. කොළඹ සිට බෙලිඅත්ත දක්වා ගමන්ගත් දුම්රියේ මේ ගුරුවරිය ගැටී ඇති බවද පොලීසිය කියයි. රත්ගම පොලීසිය මේ සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/9ba2f942.json)
+
+---
+
+### யாழ். வட்டுக்கோட்டை இளைஞன் படுகொலை : 5 ஆவது சந்தேகநபரை உயிரிழந்தவரின் மனைவி அடையாளம் காட்டினார்
+
+*2024-03-21 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/179291) · `ta`
+
+யாழ்ப்பாணம் வட்டுக்கோட்டை பகுதியில் இளைஞனை கடத்தி  கொலை செய்த குற்றச்சாட்டில் கைதாகியுள்ளவர்களில் ஐந்தாவது சந்தேகநபரை கொல்லப்பட்ட இளைஞனின் மனைவி அடையாளம் காட்டியுள்ளார்.
+
+வட்டுக்கோட்டை பகுதியைச் சேர்ந்த இளைஞன் தனது மனைவியுடன் காரைநகர் பகுதிக்கு சென்று விட்டு, மோட்டார் சைக்கிளில் திரும்பும் வேளை பொன்னாலை பாலத்திற்கு அருகில் உள்ள கடற்படை முகாமிற்கு முன்பாக வைத்து மனைவியுடன் கடத்தி செல்லப்பட்டு படுகொலை செய்யப்பட்டார்.
+
+சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்து வரும் பொலிஸார் இதுவரையில் 06 பேரை கைது செய்துள்ளனர். கைது செய்யப்பட்டுள்ளவர்கள் நீதிமன்ற உத்தரவில் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+இந்நிலையில், மல்லாகம் நீதவான் நீதிமன்றில் இன்றைய தினம் புதன்கிழமை அடையாள அணிவகுப்பு நடைபெற்ற வேளை, கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள 06 சந்தேகநபர்களும் மன்றில் முற்படுத்தப்பட்டனர். அதன்போது, படுகொலையான இளைஞனின் மனைவி மன்றில் தோன்றி, ஐந்தாவது சந்தேகநபரை அடையாளம் காட்டினார்.
+
+...
+
+[Data](articles/c95f3e42.json)
+
+---
+
+### மன்னார் காற்றாலை மின்திட்டத்தி;ற்கு எதிராக  தீவிரபிரச்சாரம் - அதானி குழுமம் கவலை
+
+*2024-03-21 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179293) · `ta`
+
+மன்னாரில் தான் முன்னெடுக்க திட்டமிட்டுள்ள காற்றாலை மின்திட்டத்திற்கு எதிராக தீவிர பிரச்சாரம் இடம்பெறுவதாக அதானி குழுமம் தெரிவித்துள்ளது.
+
+உள்நோக்கம் கொண்ட சக்திகள் மன்னாரில் முன்னெடுக்க திட்டமிடப்பட்டுள்ள  250 மொகவோட் காற்றாலை மின்திட்டத்திற்கு எதிராக தீவிர பிரச்சாரத்தை முன்னெடுத்துள்ளன  என அதானி குழுமத்தின் பேச்சாளர் எக்கனமிநெக்ஸ்ட் இணையத்தளத்திற்கு அனுப்பிய அறிக்கையில் தெரிவித்துள்ளார்.
+
+காற்றாலையை அமைப்பதற்கான இடத்தை மிகவும் கவனமாக பரிசீலித்த பிறகே தெரிவுசெய்ததாக தெரிவித்துள்ள அவர் பறவைகளின் பறக்கும் பாதையில் விசையாழிகள் அமைக்கப்படாது எனவும் தெரிவித்துள்ளார்.
+
+இலங்கையின் பேண்தகுஎரிசக்தி அதிகாரசபை பறவைகள் மற்றும் வெளவால்கள் குறித்த   ஆராய்ச்சியை மேற்கொண்டது கொழும்பு பல்கலைகழகத்தின் விலங்கியல் மற்றும் சூழல் விஞ்ஞான பீடத்தின் சிரேஸ்ட பேராசிரியர் தேவகவீரக்கோன்  தலைமையில்  இந்த ஆராய்ச்சி இடம்பெற்றது எனவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/59967ce0.json)
+
+---
+
+### அமெரிக்காவுக்குச் சென்றிருந்த அமைச்சர் பந்துல ஜனாதிபதியின் வேண்டுகோளில் நாடு திரும்பினார்!
+
+*2024-03-21 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/179292) · `ta`
+
+உலக வங்கியினால் ஏற்பாடு செய்யப்பட்ட மாநாட்டில் பங்கேற்பதற்காக அமெரிக்காவின் வொஷிங்டனுக்குச் சென்றிருந்த அமைச்சர்  பந்துல குணவர்தன நேற்று புதன்கிழமை (20) இரவு நாடு திரும்பினார்.
+
+சபாநாயகருக்கு எதிரான நம்பிக்கையில்லாப் பிரேரணை மீதான வாக்கெடுப்பில் கலந்துகொள்ள தமக்கு அழைப்பு விடுக்கப்பட்டதாக நாடு திரும்பிய அமைச்சர்  ஊடகங்களுக்கு கருத்து  தெரிவித்தார்.
+
+◼️
+
+[Data](articles/8e43a740.json)
+
+---
+
+### එස්.ටී.එෆ්. වෙඩි පහරින් සංවිධානාත්මක අපරාධකරුවෙක් මරුට
+
+*2024-03-21 10:37:33* · [`adalk`](https://www.ada.lk/breaking_news/එස්-ටී-එෆ්--වෙඩි-පහරින්-සංවිධානාත්මක-අපරාධකරුවෙක්-මරුට/11-408734) · `si`
+
+පොලිස් විශේෂ කාර්ය බළකාය හා සංවිධානාත්මක අපරාධකලින් සාමාජිකයෙක් අතර සිදුවූ වෙඩි හුවමාරුවකින් සංවිධානාත්මක අපරාධකල්ලි සාමාජිකයා ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඊයේ රාත්‍රී ගණේමුල්ල ප්‍රදේශයේදී පොලිස් විශේෂ කාර්යය බළකා ගෝනහේන කඳවුරේ නිලධාරීන්ට ලද තොරතුරක් මත ගණේමුල්ල සුමේධ මාවත ප්‍රදේශයේ, නිවසක් වටලා පරීක්ෂාවක් සිදුකිරීමේදී මෙම වෙඩි හුවමාරුව සිදුව තිබේ.
+
+දෙපාර්ශ්වය අතර සිදුවූ වෙඩි හුවමාරුවෙන් සැකකරු සහ විශේෂ කාර්යය බළකා නිලධාරියෙකු තුවාල ලබා රාගම රෝහලට ඇතුළත් කිරීමේදී සැකකරු මියගොස් ඇති බව පොලීසිය පැවසුවේය.
+
+සිද්ධියෙන් මියගොස් ඇත්තේ පසුගිය 09 වන දින ජා-ඇළ, දඬුගම බස්වත්ත ප්‍රදේශයේ සිදුවු වෙඩි තැබීමේ සිද්ධියේ වෙඩික්කරු බව වාර්තා වේ.
+
+සැකකරු 28 හැවිරිදි ඇහැළියගොඩ ප්‍රදේශයේ පදිංචිව සිටි අයෙකු වන අතර ඔහු හමුදා සේවයෙන් පළා ආ අයෙකු බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/9ffc6361.json)
+
+---
 
 ### Legislation to suspend Parate execution presented to Parliament
 
@@ -41,6 +233,24 @@ Parliament, March 21 (Daily Mirror)- The Recovery of Loans by Banks (Special pro
 ◼️
 
 [Data](articles/ba53c075.json)
+
+[Extended Data](ext_articles/ba53c075.ext.json)
+
+---
+
+### ඇමෙරිකා ගිය බන්දුල ජනපතිගේ දැනුම් දීමකට හදිසියේම ලංකාවට එයි
+
+*2024-03-21 10:31:43* · [`adalk`](https://www.ada.lk/breaking_news/ඇමෙරිකා-ගිය-බන්දුල-ජනපතිගේ-දැනුම්-දීමකට-හදිසියේම-ලංකාවට-එයි/11-408733) · `si`
+
+ඇමෙරිකාවේ වොෂිංටන් වෙත ගොස් සිටි අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතා ජනපතිවරයා විසින් කළ කැඳවීමක් අනුව ඊයේ (20) රාත්‍රි යළිත් හදිසියේම දිවයිනට පැමිණ තිබේ.
+
+කථානායකවරයාට එරෙහි විශ්වාසභංග යෝජනාවට අදාළ ඡන්ද විමසීමේ අවස්ථාවට සහභාගිවීම සඳහා මෙලෙස ඔහු යළිත් දිවයිනට කැඳවා තිබේ.
+
+ලෝක බැංකුව විසින් සංවිධානය කළ සමුළුවකට එක්වීම සඳහා බන්දුල ගුණවර්ධන මහතා ඇමෙරිකාවට ගොස් තිබුණි.
+
+◼️
+
+[Data](articles/c3519169.json)
 
 ---
 
@@ -63,6 +273,24 @@ The second birthdant Gamini Dissanayake, a distinguished politician, was held ye
 [Data](articles/c8bde657.json)
 
 [Extended Data](ext_articles/c8bde657.ext.json)
+
+---
+
+### பாதாள உலக செயற்பாடுகளுடன் தொடர்புடைய 19 சந்தேக நபர்கள் கைது
+
+*2024-03-21 10:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179287) · `ta`
+
+நாட்டில் போதைப்பொருள் மற்றும் பாதாள உலகக் குழுக்களின் செயற்பாடுகளை கட்டுப்படுத்துவதற்காக பொலிஸாரால் நாடளாவிய ரீதியில் முன்னெடுக்கப்படும் விசேட நடவடிக்கையான ‘யுக்திய’ வின் கீழ் பாதாள உலக கும்பலுடன்  தொடர்புடைய 19 பேர் இதுவரை கைது செய்யப்பட்டுள்ளதாக இலங்கை பொலிஸார் தெரிவித்துள்ளனர்.
+
+இதன்படி, ஐஸ், ஹெரோயின் போதைப்பொருள் மற்றும் வாள்களுடன் மூன்று ஒழுங்கமைக்கப்பட்ட குற்றக் கும்பலைச் சேர்ந்த நான்கு சந்தேகநபர்கள் நேற்று புதன்கிழமை  (20) கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேகநபர்கள் மருதானை, முகத்துவாரம், கிராண்ட்பாஸ் மற்றும் மாளிகாவத்தை ஆகிய பிரதேசங்களைச் சேர்ந்த 44, 26, 23 மற்றும் 28 வயதுடையவர்களாவர்.
+
+இவர்கள்  2 கிராம் 450 மில்லிகிராம் ஹெரோயின், 7 கிராம் 510 மில்லிகிராம் ஐஸ் போதைப்பொருள், 3 கிராம் 160 மில்லிகிராம் ஐஸ் ஆகியவற்றை வைத்திருந்த போது கொழும்பு குற்றத்தடுப்பு பிரிவினரால் (CCD) கைது செய்யப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/059c1ecf.json)
 
 ---
 
@@ -1853,289 +2081,5 @@ Wickremesinghe made these remarks during his attendance at the inauguration cere
 [Data](articles/04cd0428.json)
 
 [Extended Data](ext_articles/04cd0428.ext.json)
-
----
-
-### Second Steimer Liquor - IGP
-
-*2024-03-20 21:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194750) · `si`
-
-IGP Deshabandu Tennakoon aims to combat drugs and the underworld by 2025, focusing on liquor issues afterward. He plans to prioritize drug eradication, involving police and STF, and shift focus to family life and children's future, highlighting alcohol's negative impact.
-
-🟩
-
-IGP Deshabandu Tennakoon says he will focus on the liquor after he will eliminate the underworld and drugs.
-
-He said that by 2025, he was planning to end the underworld and drugs.
-
-"The underworld in this country is drugs.. 2025 I will expel the people of the people in this country.. The police and the STF and the Police Special Task Force and I miss against drugs and put your other work aside .... In the future. I've lost this and putting this on the other work. There's a lot of work to do. Family life of the people in our country. The future of children.. The influence of the destruction is the use of alcohol. In the second step, Eve is greeting. "
-
-◼️
-
-[Data](articles/9c067cf2.json)
-
-[Extended Data](ext_articles/9c067cf2.ext.json)
-
----
-
-### CC members who abstained from voting should resign: Mahindananda
-
-*2024-03-20 20:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CC-members-who-abstained-from-voting-should-resign-Mahindananda/108-279252) · `en`
-
-Parliament, March 20 (Daily Mirror)- The Constitutional Council members who abstained from voting when approving Deshabandu Tennakoon as IGP should resign immediately, government MP Mahindananda Aluthgamage told Parliament today.
-
-"Those two members should not be in the Constitutional Council if they cannot come to a firm decision, MP Aluthgamage said.
-
-"We request that the Constitutional Council be dissolved if its members continue to behave as they do now," he also said.
-
-◼️
-
-[Data](articles/ac5eba6f.json)
-
-[Extended Data](ext_articles/ac5eba6f.ext.json)
-
----
-
-### Intermittent fasting linked to high risk of cardiovascular death, study reveals
-
-*2024-03-20 20:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98086/intermittent-fasting-linked-to-high-risk-of-cardiovascular-death-study-reveals) · `en`
-
-A new study has challenged the alleged health benefits of intermittent fasting, a popular diet often praised by celebrities and health gurus alike.
-
-Intermittent fasting is a well-known practice in which you eat all your food in an eight-hour window and fast for the remaining 16 hours of the day.
-
-However, a study from the American Heart Association published on Monday, 18 March has found that limiting mealtimes to just eight hours a day was linked to a 91 per cent increase in risk of death from heart disease.
-
-Researchers, led by Dr Victor Zhong of the Shanghai Jiao Tong University School of Medicine, analysed approximately 20,000 adults in the US with an average age of 49 years who had followed intermittent fasting, also known as the 16:8 plan.
-
-...
-
-[Data](articles/6b23b3c7.json)
-
-[Extended Data](ext_articles/6b23b3c7.ext.json)
-
----
-
-### 33 people arrested by police
-
-*2024-03-20 20:31:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராட்டத்தில்-33-பேர்-பொலிஸாரால்-கைது/175-334947) · `ta`
-
-33, including Duminda Nagamu X and Lahiruweerasekara, arrested by police in a Socialist Party event. Tensions escalated in Colombo Fort with police using water cannons and tear gas to control demonstrators.
-
-🟩
-
-33 people, including Duminda Nagamu X and Lahiruweerasekara, have been arrested by the police in the arrangement of the Socialist Party.
-
-There was a tension in the Colombo Fort after police carried out a water flow and tear gas attack to control the demonstrators.
-
-◼️
-
-[Data](articles/3c3cef22.json)
-
-[Extended Data](ext_articles/3c3cef22.ext.json)
-
----
-
-### The president has resigned
-
-*2024-03-20 20:13:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜனாதிபதி-பதவி-விலகினார்/50-334946) · `ta`
-
-The president of Vietnam has resigned, and the Communist Party of India has accepted his resignation. The party claims that President Wo Van Duang's actions have damaged its reputation.
-
-🟩
-
-The Communist Party of India has accepted the resignation of Vietnam President Wo Van Duang.
-
-Meanwhile, the Communist Party has stated a statement that President Wo Wan Duang has been acting to disrupt the party's confidence.
-
-The Vietnam Communist Party has stated that this has caused great damage to the party's reputation. Remble
-
-◼️
-
-[Data](articles/9f88467c.json)
-
-[Extended Data](ext_articles/9f88467c.ext.json)
-
----
-
-### Dayasiri begins work
-
-*2024-03-20 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194749) · `si`
-
-Dayasiri Jayasekara leads a new alliance, the Humanitarian Peoples' Alliance, in Colombo.
-
-🟩
-
-A new alliance has been created today (20) under the leadership of MP Dayasiri Jayasekara.
-
-The population of "Humanitarian Peoples' Alliance has been created in Colombo today.
-
-◼️
-
-[Data](articles/805f57f8.json)
-
-[Extended Data](ext_articles/805f57f8.ext.json)
-
----
-
-### 4 Sri Lankan Super Star on fence
-
-*2024-03-20 19:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194748) · `si`
-
-Sri Lankan cricketers Dremensha Chameera, Matheyathirana, Vanjandu, and Dilshan Madesan are uncertain about participating in the Indian Premier League due to the inability of the players, as reported by Sri Lanka Cricket. This decision is said to be a response to the players' unavailability, especially during the 20-20 World Cup in June.
-
-🟩
-
-Several Sri Lankan cricketers are uncertaining to participate in the Indian Premier League Cricket Tournament.
-
-Dremensha Chameera, Matheyathirana, Vanjandu and Dilshan Madesan, was the last Sri Lankan team to participate in the Indian Premier League.
-
-It is reported that the Sri Lanka Cricket's focus has been drawn to not allowing them to participate in the Indian Premier League Cricket Tournament due to the unability of the players.
-
-Internal sources of cricket say that the event is due to take this step in the 20-20 World Cup which will be in June to begin in June.
-
-◼️
-
-[Data](articles/8eedbb7a.json)
-
-[Extended Data](ext_articles/8eedbb7a.ext.json)
-
----
-
-### 300 per cent of imported goods
-
-*2024-03-20 19:40:31* · [`adalk`](https://www.ada.lk/breaking_news/ආනයනික-භාණ්ඩ-වලින්-අතරමැදි-වෙළෙඳුන්ට-සියයට-300-අධික-ලාභයක්/11-408731) · `si`
-
-MP Patali Champika Ranawaka was re-elected as the Chairman of the Parliamentary Select Committee. The committee discussed proposals by Mr. Wasantha Yapa Bandara and Minister of State Lasantha Alagiyawanna, focusing on the importance of 300% of imported goods to intermediate traders in Sri Lanka. The committee will open to all MPs and will summon all areas in the next meeting.
-
-🟩
-
-MP Patali Champika Ranawaka was once again elected as the Chairman of the Parliamentary Select Committee.
-
-The proposals Mr. Wasantha Yapa Bandara and Minister of State Lasantha Alagiyawanna yesterday (20) was held yesterday (20).
-
-Committees and Manage Committees Sisira Jayakody, Anuradha Jayaratne, Members of Parliament WDJ Jayaratne. The new Chairman was elected following the unanimous decision of Sanjeewa Kirindigoda, Sanjeewa Kandigoda, Nalaka Bandara Kottegoda. Head of Parliament and Deputy Secretary General of Chaminda Kularatne were also present at the occasion.
-
-Speaking on the next step of the Committee, the Chairman of the Committee, pointed out that the committee chairman was making 300% of the intermediate traders by importing importance from Sri Lanka.
-
-The meeting was decided to summon all the areas on the next meeting and the committee will open to all Members of Parliament.
-
-◼️
-
-[Data](articles/21827da8.json)
-
-[Extended Data](ext_articles/21827da8.ext.json)
-
----
-
-### The Magistrate is not the rubber seal of the police
-
-*2024-03-20 19:35:29* · [`adalk`](https://www.ada.lk/breaking_news/’මහේස්ත්‍රාත්වරයා-පොලීසියේ-රබර්-මුද්‍රාව-නොවේ’/11-408730) · `si`
-
-The Magistrate, not a rubber seal, addressed investigations into gold robberies in 2016 and 2019, rejecting claims of insufficient evidence from Colombo Crimes Division officers.
-
-🟩
-
-"The Magistrate is not the rubber seal of the police to issue orders to police causes."
-
-The magistrate said they were not arrested, whether they were named the suspects if they were nominated and produced before courts.
-
-A report on the progress of the investigations into the area regarding the robbery of gold robbery during the year 2016 and 2019 were presented to the court.
-
-The Magistrate addressed the slopes between 2016-2019, the report was called on the robbery between the year 20, 2024 for the reason.
-
-Responding to report that the officers of the Colombo Crimes Division said that he was not sufficient to be investigated by the investigators of the suspects and to order the suspects of the suspects.Rejected.
-
-◼️
-
-[Data](articles/23b002e4.json)
-
-[Extended Data](ext_articles/23b002e4.ext.json)
-
----
-
-### Sri Lanka in the world's happiness indicator
-
-*2024-03-20 19:29:51* · [`adalk`](https://www.ada.lk/breaking_news/2024-ලෝක-සතුටු-දර්ශකයේ-ලංකාව-පල්ලම්-බසී/11-408729) · `si`
-
-Sri Lanka improved from 112th to 128th in the World Happiness Index 2024, moving up six places from 2023. The report highlights youthfulness, joy, and satisfaction levels across countries.
-
-🟩
-
-Sri Lanka has been ranked 128th according to World Happiness Index 2024 by the United Nations today (20). Sri Lanka was 112nd in the year 2023 under this index annual index. Accordingly, Sri Lanka has returned to six places this year.
-
-The report has been prepared to survey the level of happy living levels in last year in the last year.. The first seventh is the seventh time, but the last place is Afghanistan.
-
-This report is satisfactory, the greatest grandmother of the youthfulness, the greatest level of joyful level, and the satisfactory level of the young people. Also, the most satisfactory and low satisfactory age group of each country have been named.
-
-◼️
-
-[Data](articles/20f1689b.json)
-
-[Extended Data](ext_articles/20f1689b.ext.json)
-
----
-
-### Ireland's Prime Minister resigns
-
-*2024-03-20 19:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179272) · `ta`
-
-Leo Varadkar, Ireland's Prime Minister since 2022, resigns after serving as leader of the Fine Gael Party.
-
-🟩
-
-45 -year -old Leo Varadkar has been the Prime Minister of Ireland since 2022.He was the Prime Minister from 2017 to 2020.
-
-In this case, Leo Varadkar, who has resigned from the post of ruling Bina Kail Party leader, has announced that he will resign from the post of Prime Minister.
-
-◼️
-
-[Data](articles/41ceeeb1.json)
-
-[Extended Data](ext_articles/41ceeeb1.ext.json)
-
----
-
-### Two lives in Jaffna ran to sea
-
-*2024-03-20 19:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194747) · `si`
-
-In Jaffna, two individuals drowned at the Ilanei beach. One was 2 years old, the other 35. Post-mortem and police investigation ongoing.
-
-🟩
-
-Two persons were drowned in the sea beach in the Ilanei area in Jaffna.
-
-The deceased has been identified as two and 35 years of age and 35 years in Jaffna.
-
-The post mortem will be conducted on the dead and the Ilawala Police are conducting further investigations.
-
-◼️
-
-[Data](articles/bc6e657e.json)
-
-[Extended Data](ext_articles/bc6e657e.ext.json)
-
----
-
-### BIA records sharp increase, serving 850,000 travellers this year – AASL Chairman
-
-*2024-03-20 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98085/bia-records-sharp-increase-serving-850000-travellers-this-year-aasl-chairman) · `en`
-
-The Chairman of Airport and Aviation Services (Sri Lanka) Ltd. (AASL) Athula Galketiya remarked that the arrival of foreign tourists has risen owing to President Ranil Wickremesinghe’s economic initiatives and the peaceful environment fostered within the country.
-
-Consequently, Bandaranaike International Airport (BIA) in Katunayake has seen a notable increase in air passenger usage, he said.
-
-The AASL Chairman reported that from January 1st to March 19th, 2024, the number of air passengers who utilized BIA services amounted to 850,000.
-
-Mr. Galketiya noted that it is anticipated approximately 10 million passengers will utilize the airport by the end of this year.
-
-He further highlighted that the total number of passengers using the Bandaranaike International Airport (BIA) in Katunayake in 2022 was 5 million, with a projected increase to 8 million in 2023.
-
-◼️
-
-[Data](articles/2d882f26.json)
-
-[Extended Data](ext_articles/2d882f26.ext.json)
 
 ---

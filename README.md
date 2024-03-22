@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 11:17:59**
+As of **2024-03-22 11:33:42**
 
 ## Newspaper Stats
 
-*Scraped **14,511** Articles*
+*Scraped **14,514** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 133
-bbccomsinhala | 159
+bbccomsinhala | 160
 dbsjeyarajcom | 190
 newsfirstlk | 363
 dailyftlk | 776
@@ -17,8 +17,8 @@ economynextcom | 782
 islandlk | 797
 adalk | 1,248
 adaderanalk | 1,736
-tamilmirrorlk | 1,748
-virakesarilk | 2,042
+tamilmirrorlk | 1,749
+virakesarilk | 2,043
 dailymirrorlk | 2,224
 adaderanasinhalalk | 2,313
 
@@ -26,39 +26,83 @@ adaderanasinhalalk | 2,313
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,493 (99.9%) of 14,511 articles have been extended.
+14,511 (100.0%) of 14,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### කෙහෙළියගේ ඇප ඉල්ලීම සලකාබැලීමට දිනයක්
+### லொறியை திருடிய நபர்கள் அதிலிருந்த 9,100 கிலோ கீரி சம்பாவை  எடுத்துச் சென்றனர்!
+
+*2024-03-22 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179402) · `ta`
+
+வெலிகந்த பிரதேசத்தில் உள்ள பாரிய அரிசி ஆலை ஒன்றுக்கு  கொண்டு செல்லப்பட்ட  சுமார் பதினைந்து இலட்சம் ரூபா பெறுமதியான கீரி சம்பா திருடப்பட்டுள்ளது.
+
+நிறுத்தி வைக்கப்பட்டிருந்த லொறி ஒன்றைத்  திருடிச் சென்ற சிலர் அந்த லொறியிலிருந்து 15 இலட்சம் ரூபா பெறுமதியான கீரி சம்பா அரிசியை  அபகரித்து விட்டு லொறியை  ஓரிடத்தில்  விட்டுச் சென்றுள்ளதாக பொலிஸில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+
+அரலகங்வில பொலிஸ் பிரிவுக்குட்பட்ட  ருகுணுகம பிரதேசத்தில் தனது லொறி கைவிடப்பட்டுக் காணப்பட்ட நிலையில் இது தொடர்பில் லொறியின் உரிமையாளரே  பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+
+இந்த முறைப்பாட்டின் அடிப்படையில் விசாரணைகளை ஆரம்பித்த பொலிஸார்  லொறியிலிருந்த 9,100 கிலோ  கீரி சம்பா  திருடப்பட்டுள்ளமையைக் கண்டறிந்துள்ளனர்.
+
+◼️
+
+[Data](articles/3184589a.json)
+
+---
+
+### ஹட்டன் வலய பாடசாலைகளுக்கு விசேட விடுமுறை
+
+*2024-03-22 11:17:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-வலய-பாடசாலைகளுக்கு-விசேட-விடுமுறை/76-335010) · `ta`
+
+ஹட்டன் வலய பாடசாலைகளுக்கு எதிர்வரும் திங்கட்கிழமை 25ம் திகதி  விஷேட விடுமுறை வழங்கப்பட்டுள்ளதாக மத்திய மாகாண ஆளுநரின் செயலாளர் டப்யு.எம்.எம்.மடகபொல உறுதிபடுத்தியுள்ளார்.
+
+ஹட்டன் ஸ்ரீ மாணிக்கபிள்ளையார் ஆலய மகா கும்பாபிஷேக பெரு விழாவை முன்னிட்டே இவ் விடுமுறை வழங்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது. இதற்காக எதிர்வரும் 06.04.2024 அன்று பாடசாலையை கல்வி நடவடிக்கைகளை முன்னெடுப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c9999a7c.json)
+
+---
+
+### Keheliya's bail application is to be considered
 
 *2024-03-22 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194809) · `si`
 
-රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇපමත මුදාහැරීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා ගොනුකර ඇති ප්‍රතිශෝධන පෙත්සම සලකාබැලීම සඳහා ලබන සඳුදා කැඳවන ලෙස කොළඹ මහාධිකරණය නියම කළේය.
+Keheliya Rambukwella's bail application is under review by Colombo High Court Judge Sujeewa Nissanka.
 
-මෙම පෙත්සම අද (22) කොළඹ මහාධිකරණ විනිසුරු සුජීව නිශ්ශංක මහතා ඉදිරියේ කැඳවනු ලැබීය.
+🟩
+
+Former Minister Keheliya Rambukwella, who was remanded and remanded
+
+The petition was called before Colombo High Court Judge Sujeewa Nissanka today (22).
 
 ◼️
 
 [Data](articles/30bfa24e.json)
 
+[Extended Data](ext_articles/30bfa24e.ext.json)
+
 ---
 
-### முல்லைத்தீவில் ஷெல் மீட்பு
+### Shell recovery in Mullaitivu
 
 *2024-03-22 11:04:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முல்லைத்தீவில்-ஷெல்-மீட்பு/72-335009) · `ta`
 
-முல்லைத்தீவில் கொக்குளாய் பொலிஸ் பிரிவிற்குட்பட்ட புளியமுனை பகுதியிலுள்ள தனியார் காணியிலிருந்து வெடிகுண்டு கண்டுபிடிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Police in Mullaitivu found a bomb shell on private land in Puliyamunai, Kokkulai division. The landowner discovered it while cleaning. The cell is under investigation by Kokkulai police.
 
-குறித்த காணி உரிமையாளரினால் நேற்று சுத்தம் செய்யப்பட்ட போது காணியில் மோட்டார் ஷெல் இருந்துள்ளதை கண்டுள்ளார்.
+🟩
 
-சம்பவ இடத்திற்கு சென்ற பொலிஸார் செல்லினை மீட்டுள்ளதுடன் இது தொடர்பான மேலதிக விசாரணையினை கொக்குளாய் பொலிஸாரால் மேற்கொள்ளப்பட்டு வருகின்றது. R
+The bomb has been found from a private land in the Puliyamunai area of the Kokkulai police division in Mullaitivu, police said.
+
+When the land owner was cleaned yesterday, he saw the motor shell on the land.
+
+The police have recovered the cell and are being investigated by the Kokkulai police.. Remble
 
 ◼️
 
 [Data](articles/13e7a241.json)
+
+[Extended Data](ext_articles/13e7a241.ext.json)
 
 ---
 
@@ -324,23 +368,33 @@ Addressing the media yesterday, he said a President and a leader should have a v
 
 ---
 
-### රත්මලානේ කුඩු අංජුගේ ගෝල රත්මලානේ රොසා අත්අඩංගුවට
+### Rosa arrested for Raza, Ratmalana, Ratmalana
 
 *2024-03-22 09:51:31* · [`adalk`](https://www.ada.lk/breaking_news/රත්මලානේ-කුඩු-අංජුගේ-ගෝල-රත්මලානේ-රොසා-අත්අඩංගුවට/11-408752) · `si`
 
-විදේශගතව සැඟව සිට මෙරට මත්ද්‍රව්‍ය  ජාවාරම මෙහෙයවන සංවිධානාත්මක අපරාධකරුවකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන සිංහාරගේ අමල් සාමින්ද සිල්වා නොහොත් රත්මලානේ කුඩු අංජු නැමැත්තාගේ සමීපතම ගෝලයෙකු වන "රත්මලාන රෝසා "නමැත්තා" ලක්ෂ 10 කට අධික වටිනා අයිස් මත්ද්‍රව්‍ය  සමග අත්අඩංගුවට ගත් බව පොලිස් විශේෂ කාර්ය බළකාය කියයි.
+Rosa, a disciple of Ratmalana, was arrested in Ratmalana for drug dealing and shooting. The STF in Moratuwa, led by Senior DIG Attorney General Varuna Jayasundara, took him into custody.
 
-යුක්තියේ මෙහෙයුමට සමගාමීව පොලිස් විශේෂ කාර්ය බළකා මොරටුව කඳවුරේ විශේෂ මෙහෙයුම් 3 කණ්ඩායම මගින් සැකකරු අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-සැකකරු අත්අඩංගුවට ගෙන ඇත්තේ රත්මලාන දුම්රිය නිවාස පොළ පාර සැකකරු පදිංචි නිවස ඉදිරිපිටදීය.
+An organized criminal and a drug dealer, Singhara, a drug dealer who operates abroad, says "Ratmalana Rosa ', the closest disciple of Ratmalana," Ratmalana Rosa'.
 
-සැකකරු සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 50 ක්  ජාවාරම සඳහා යොදාගත් ජංගම දුරකථනය සහ විද්‍යුත් තරාදියක් හා මත්ද්‍රව්‍ය  ජාවාරමෙන්  උපයන ලද රුපියල් 15000/= මුදලක් පොලිස් භාරයට ගෙන ඇත.
+Police Special Task Force 3 Special Operations in Moratuwa have been arrested by the STF in parallel to the operation of justice.
 
-අත්අඩංගුවට ගත් මෙම සැකකරු 2021  වසරේදී රත්මලාන අවන්හලකට වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් පුද්ගලයකු වන අතර ඊට පෙරද ගල්කිස්ස පොලිසිය මගින් මත්ද්‍රව්‍ය සන්තකයේ තබා ගැනීම සම්බන්ධයෙන් අවස්ථා ගණනාවකදී අත්අඩංගුවට ගත් පුද්ගලයෙකි.
+The suspect was arrested in front of the residence of the suspect in Ratmalana.
 
-...
+The mobile phone used for 50g of ice narcotics and an electricity, which was used for racket and an electricity and the drug dealer has been taken into custody.
+
+The suspect was arrested on suspicion of shooting at a restaurant in Ratmalana.
+
+The suspect, 46, is due to be produced before the Mt.
+
+Special Task Force Commanding Officer Senior DIG Attorney General Varuna Jayasundara, SSP (Intelligence) has raided the 3 Special Operations at the Moratuwa Path.
+
+◼️
 
 [Data](articles/7038da0f.json)
+
+[Extended Data](ext_articles/7038da0f.ext.json)
 
 ---
 
@@ -385,6 +439,8 @@ The latest NCM, filed by the main opposition Samagi Jana Balawegaya (SJB), was t
 ...
 
 [Data](articles/526d3a88.json)
+
+[Extended Data](ext_articles/526d3a88.ext.json)
 
 ---
 
@@ -479,6 +535,8 @@ The Colombo Stock Exchange opened up: the All Share Price Index was up 0.02 perc
 ◼️
 
 [Data](articles/97999acb.json)
+
+[Extended Data](ext_articles/97999acb.ext.json)
 
 ---
 
@@ -1087,6 +1145,28 @@ IMF for its part has no choice but to slow down its program after completing its
 [Data](articles/a8cfdee0.json)
 
 [Extended Data](ext_articles/a8cfdee0.ext.json)
+
+---
+
+### 'පාර්ලිමේන්තුව ගැන ජනතා විශ්වාසය බිඳ වැටිලා': මෙහෙම ගියොත් කුමක් සිදුවෙයි ද?
+
+*2024-03-22 05:36:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy0zjp9pjjno) · `si`
+
+'පාර්ලිමේන්තුව ගැන ජනතා විශ්වාසය බිඳ වැටිලා': මෙහෙම ගියොත් කුමක් සිදුවෙයි ද?
+
+ශ්‍රී ලංකාවේ පාර්ලිමේන්තුවේ ක්‍රියාකාරීත්වය සම්බන්ධයෙන් ජනතාව තුළ පැවති විශ්වාසය කලක සිට බිඳ වැටී ඇති ආකාරයක් දැකිය හැකි ය.
+
+වසර ගණනක සිට බොහෝ පිරිසකගේ අදහස වී ඇත්තේ, "පාර්ලිමේන්තුව සුදු අලියෙක්", "පාර්ලිමේන්තුව අපට එපා", "පාර්ලිමේන්තුව නැති කළ යුතු යි" යන මතයන් ය.
+
+මේ අදහස්වලින් පෙනී යන්නේ, සැලකිය යුතු කාලයක සිට ශ්‍රී ලංකාවේ ජනතාව අතර පාර්ලිමේන්තුවේ ක්‍රියාකාරීත්වය පිළිබඳව විශ්වසය බිඳ වැටී ඇති ආකාරය යි.
+
+මේ අතර, පාර්ලිමේන්තුව පවත්වන එක් දිනක් සඳහා රුපියල් මිලියන 4කට ආසන්න මුදලක් වැය කිරීම 'නාස්තියක්' බවට ද ඇතැමෙක් චෝදනා කරති.
+
+පාර්ලිමේන්තුව පිළිබඳ විශ්වාසය බිඳ වැටීමට බලපෑ අලුත් ම සිදුවීම් දෙක වන්නේ, කතානායකවරයාට එරෙහිව විශ්වාසභංග යෝජනාවක් ගෙන ඒම සහ කෝප් කමිටුව පිළිබඳව මතුව ඇති අර්බුදකාරී තත්ත්වය යි.
+
+...
+
+[Data](articles/7072cf2d.json)
 
 ---
 
@@ -1824,21 +1904,27 @@ However, thankful to the Indian government, we have taken action to expand the p
 
 ---
 
-### එක්සත් ජාතීන් හා යුරෝපා සංගමය ගාසා තීරයට ඉක්මන් සටන් විරාමයක් ඉල්ලයි
+### UN and the European Union demand a quick ceasefire to Gaza
 
 *2024-03-21 22:34:32* · [`adalk`](https://www.ada.lk/breaking_news/එක්සත්-ජාතීන්-හා-යුරෝපා-සංගමය-ගාසා-තීරයට-ඉක්මන්-සටන්-විරාමයක්-ඉල්ලයි/11-408750) · `si`
 
-ගාසා තීරයේ කඩිනම් සටන් විරාමයක් ක්‍රියාවට නංවන්නැයි යුරෝපා සංගමය හා එක්සත් ජාතීන්ගේ සංවිධානය අදාළ පාර්ශ්වයන්ගෙන් ඉල්ලා සිටී.
+The UN and EU urge a swift ceasefire in Gaza, facing famine. A joint statement from the European Commission Chair and UN Secretary General Antonio Guterres calls for an immediate ceasefire and the release of detainees, requesting humanitarian aid. Jordan's army and aircraft from Jordan, Egypt, Singapore, and the US have joined efforts to distribute food, marking Singapore's first involvement.
 
-යුරෝපා කොමිසමේ සභාපතිනි උර්සුලා වොන් ද ලෙයන් මහත්මිය සහ එක්සත් ජාතීන්ගේ මහලේකම් ඇන්ටෝනියෝ ගුටරෙස් මහතා ඊයේ (20) බ්‍රසල්ස් නුවර දී පැවැත්වූ හමුවෙන් පසු නිකුත් කෙරුණු ඒකාබද්ධ නිවේදනයක මේ බව දැක්වේ.
+🟩
 
-වත්මන් ගාසා තීරය බරපතල සාගතයකට මුහුණ පා ඇත. මේ හේතුවෙන් කඩිනම් සටන් විරාමයකට එකඟ වන ලෙසත්, රැඳවුම් භාරයේ සිටින පුද්ගලයන් නිදහස් කරන ලෙසත් යුරෝපා සංගමය හා එක්සත් ජාතීන්ගේ සංවිධානය ඉල්ලා සිටී. මානුෂීය සහනාධාර වැඩි  වශයෙන් ගාසා තීරයට ලබා දීම සඳහා අවශ්‍ය පසුබිම සකසන ලෙස ද අදාළ දෙපාර්ශ්වයෙන් ඉල්ලා සිටින බව ප්‍රකාශනයේ සඳහන් වේ.
+The European Union and the United Nations calls for the parties to implement a speedy ceasefire in Gaza.
 
-මේ අතර, ජෝර්දාන හමුදාව විවිධ රටවල් සමග එක්ව ඊයේ (20) ගාසා තීරයේ උතුරු ප්‍රදේශයට ගුවනින් ආහාර බෙදාහැරීමේ වැඩසටහන්  ක්‍රියාවට නැංවීය. ජෝර්දානය, ඊජිප්තුව, ජර්මනිය, සිංගප්පූරුව හා ඇමරිකාව ඇතුළු රටවල ගුවන් යානා 6 ක් ඊට සහභාගි විය. ඒ අතරින් සිංගප්පූරුව ගාසා තීරය වෙත ගුවනින් ආහාර බෙදාහැරීමට එක් වූ ප්‍රථම අවස්ථාව මෙයයි.
+This is stated in a joint statement issued by the European Commission Chairman of the European Commission and the UN Secretary General Antonio Gutaraz yesterday (20).
+
+Current Gaza is facing a serious famine. The European Union and the United Nations calls for an agreeable ceasefire and release people in detention. The publication states that both humanitarian subsidies are requested to set the necessary background to be given to Gaza.
+
+Meanwhile, the Jordanata army joined the northern part of the Gaza yesterday (20). 6 aircraft in countries, including Jordan, Egypt, Singapore and America. This is the first time Singapore has joined the distribution of food to Gaza.
 
 ◼️
 
 [Data](articles/6095548d.json)
+
+[Extended Data](ext_articles/6095548d.ext.json)
 
 ---
 
@@ -2047,69 +2133,5 @@ Delhi CM arrested.
 [Data](articles/52aa315d.json)
 
 [Extended Data](ext_articles/52aa315d.ext.json)
-
----
-
-### Irish Prime Minister Leo Varadkar unexpectedly quits
-
-*2024-03-21 21:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98115/irish-prime-minister-leo-varadkar-unexpectedly-quits) · `en`
-
-(Reuters) - Leo Varadkar announced on Wednesday he was stepping down as Ireland’s prime minister in a surprise move, saying the country’s coalition government would stand a better chance of reelection under another leader.
-
-Varadkar’s Fine Gael party will open nominations for a new leader on Thursday with the results to be announced on April 5. Parliament would then vote on that person succeeding Varadkar as prime minister after it returns from Easter recess on April 9.
-
-The shock departure of Varadkar, who became the first gay prime minister of the once-staunchly Catholic country in 2017 and returned to the premiership just 15 months ago, does not trigger a general election. A vote must be held by March 2025.
-
-“My reasons for stepping down are both personal and political,” Varadkar, 45, told a hastily arranged news conference at government buildings in Dublin, sounding emotional as he spoke.
-
-...
-
-[Data](articles/89242464.json)
-
-[Extended Data](ext_articles/89242464.ext.json)
-
----
-
-### IMF bill is a good cure for economy but it is very painful: Ports Minister
-
-*2024-03-21 21:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-bill-is-a-good-cure-for-economy-but-it-is-very-painful-Ports-Minister/108-279339) · `en`
-
-Colombo, March 21 (Daily Mirror) - President Ranil Wickremesinghe has been able to make up the economy of the country to a certain extent with the assistance of the International Monetary Fund (IMF), Ports, Shipping and Aviation Minister Nimal Siripala de Silva said.
-
-While officially declaring March 21 as 'National Seafarers' Day' in Sri Lanka today, the minister said that the IMF bill is a good cure for the economy, but it is very painful.
-
-It is very painful, especially for the lower middle-class people and the poorest of the poor in the country. If not, we cannot survive the bill, but ultimately we will recover.
-
-The president and the government sacrifice our political future to build the country, but we are not worried about what will happen in the election.
-
-He said the 'National Seafarers' Day' in Sri Lanka was announced to attract youth for higher employment as seafarers.
-
-...
-
-[Data](articles/24c7c980.json)
-
-[Extended Data](ext_articles/24c7c980.ext.json)
-
----
-
-### The Black River Smoking Two
-
-*2024-03-21 21:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194793) · `si`
-
-Two 17-year-olds drowned in the Kalu River, Kiriella, Ratnapura. Bodies at Kiriella hospital; police investigate.
-
-🟩
-
-Two youths were drowned in the Kalu River in Kiriella, Ratnapura.
-
-The deceased is a 17-year-old schoolge, a 17-year-old schoolge in Ellagamuwa and a resident of the 23-year-old Horowpathana area in Horowpathana.
-
-The bodies have been placed at the Kiriella hospital while Kiriella police are conducting further investigations.
-
-◼️
-
-[Data](articles/69dc23b3.json)
-
-[Extended Data](ext_articles/69dc23b3.ext.json)
 
 ---

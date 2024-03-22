@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 04:18:11**
+As of **2024-03-23 04:33:31**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,638 (100.0%) of 14,639 articles have been extended.
+14,639 (100.0%) of 14,639 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### அவசர சிகிச்சைப் பிரிவை திறந்து வைத்தார் ஜனாதிபதி
+### The President opened the emergency department
 
 *2024-03-23 03:55:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவசர-சிகிச்சைப்-பிரிவை-திறந்து-வைத்தார்-ஜனாதிபதி/175-335038) · `ta`
 
-பருத்தித்துறை ஆதார வைத்தியசாலையின் விபத்து மற்றும் அவசர சிகிச்சைப் பிரிவுக்கான புதிய கட்டடம்  ஜனாதிபதி ரணில் விக்கிரமசிங்கவால் நேற்று திறந்து வைக்கப்பட்டது.
+President Ranil Wickremesinghe inaugurated the new emergency department of Point Pedro Hospital, funded by the Netherlands' Menkatan Scheme for Rs 400 crore.
 
-நெதர்லாந்து அரசின் மென்கடன் திட்டத்தின் கீழ் இந்தப் புதிய கட்டடம் நிர்மாணிக்கப்பட்டுள்ளது. 400 கோடி ரூபா செலவில் புதிய கட்டடம் நிர்மாணிக்கப்பட்டுள்ளது.
+🟩
 
-பருத்தித்துறை ஆதார வைத்தியசாலையின் புதிய கட்டடத்தைத் திறந்து வைத்ததன் பின்னர் ஜனாதிபதி உள்ளிட்ட குழுவினர் சிகிச்சைப் பிரிவுகளைச் சென்று பார்வையிட்டனர். (a)
+The new building for the accident and emergency department of the Point Pedro Hospital was inaugurated by President Ranil Wickremesinghe yesterday.
+
+The new building has been constructed under the Netherlands Government's Menkatan Scheme. The new building has been constructed at a cost of Rs 400 crore.
+
+The President, including the President, visited the treatment units after the opening of the new building of the Point Pedro Hospital. (A)
 
 ◼️
 
 [Data](articles/d4c07007.json)
+
+[Extended Data](ext_articles/d4c07007.ext.json)
 
 ---
 

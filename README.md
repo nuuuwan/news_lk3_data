@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 18:20:46**
+As of **2024-03-22 18:33:19**
 
 ## Newspaper Stats
 
-*Scraped **14,585** Articles*
+*Scraped **14,586** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 776
 economynextcom | 782
 islandlk | 797
 adalk | 1,256
-adaderanalk | 1,745
+adaderanalk | 1,746
 tamilmirrorlk | 1,755
 virakesarilk | 2,060
 dailymirrorlk | 2,238
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,328
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,585 (100.0%) of 14,585 articles have been extended.
+14,585 (100.0%) of 14,586 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### AG will not represent ex-Health Minister Keheliya, court told
+
+*2024-03-22 18:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98132/ag-will-not-represent-ex-health-minister-keheliya-court-told) · `en`
+
+The Attorney General has informed the Supreme Court that he would not represent former Minister of Health Keheliya Rambukwella and several other respondents named in a Fundamental Rights (FR) petition.
+
+The petition seeks a ruling determining that fundamental human rights have been violated through the decision taken to purchase medicines from two unregistered Indian companies under the Indian credit line.
+
+Appearing on behalf of the Attorney General, the Deputy Solicitor General communicated the decision to the court when the relevant petition was taken up for consideration today (March 22).
+
+Later, the Supreme Court also ordered that further consideration of the petition be adjourned.
+
+◼️
+
+[Data](articles/4e60d928.json)
+
+---
 
 ### Seamers put Sri Lanka in control as Bangladesh chase 280
 
@@ -2297,33 +2315,5 @@ The Bangladesh team won the advantage of the coin and they decided to give the S
 [Data](articles/e9a72d9e.json)
 
 [Extended Data](ext_articles/e9a72d9e.ext.json)
-
----
-
-### Change in weather from today
-
-*2024-03-22 09:08:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றிலிருந்து-வானிலையில்-மாற்றம்/175-335008) · `ta`
-
-Expected weather changes: drought to rain in Eastern, Uva, and Northern Provinces; thundershowers in upper, Sabaragamuwa, Central, South, North Western, and North Central Provinces; heavy rainfall in Sabaragamuwa; snowfall in Sabaragamuwa, Central, Galle, and Kalutara; thundershowers may blow; precautions advised.
-
-🟩
-
-The country is expected to change from today (22) in the drought weather.
-
-Rainfall is expected in the Eastern, Uva and Northern Provinces several times.
-
-There is a possibility of rainfall or thundershowers in many places in the upper, Sabaragamuwa, Central, South, North Western and North Central Provinces.
-
-More than 50 mm of heavy rainfall is expected in some places in Sabaragamuwa Province.
-
-In some parts of the Sabaragamuwa and Central Provinces and Galle and Kalutara districts, there is expected snowfall in the morning.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/fad7b0a6.json)
-
-[Extended Data](ext_articles/fad7b0a6.ext.json)
 
 ---

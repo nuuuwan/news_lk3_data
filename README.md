@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 00:03:08**
+As of **2024-03-23 00:17:52**
 
 ## Newspaper Stats
 
-*Scraped **14,616** Articles*
+*Scraped **14,618** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,52 @@ adalk | 1,257
 adaderanalk | 1,751
 tamilmirrorlk | 1,758
 virakesarilk | 2,062
-dailymirrorlk | 2,251
+dailymirrorlk | 2,253
 adaderanasinhalalk | 2,334
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,616 (100.0%) of 14,616 articles have been extended.
+14,616 (100.0%) of 14,618 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-23 (Saturday)
+
+### Isn’t there a better COPE chief in SLPP?
+
+*2024-03-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Isnt-there-a-better-COPE-chief-in-SLPP/172-279416) · `en`
+
+One of the three watchdog committees of  Sri Lanka’s Parliament, the Committee On Public Enterprises (COPE), has been hit by a wave of resignations since Monday (18), following the appointment of Rohitha Abeygunawardena as its chairman.
+
+By yesterday noon, 11 members – almost all  from the Opposition and dissidents of the ruling Sri Lanka Podujana Peramuna (SLPP) – had tendered their resignation.
+
+Eran Wickramaratne, S.M.Marikkar and Hesha Withanage from the Samagi Jana Balawegaya (SJB), Anura Kumara Dissanayake from the National People’s Power (NPP), Shanakiyan Rasamanickam of the Illankai Thamil Arasu Katchi and Dayasiri Jayasekara, Gamini Waleboda, Professor Charitha Herath, Duminda Dissanayake, Wasantha Yapa Bandara and Dilan Perera from the SLPP dissident group were the MPs who so resigned.
+
+...
+
+[Data](articles/18dda8b8.json)
+
+---
+
+### Weather, economy and fate of cricket team
+
+*2024-03-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Weather-economy-and-fate-of-cricket-team/172-279415) · `en`
+
+It’s growing hotter by the day. Last Saturday the temperature in Colombo rose to around 89 degrees Fahrenheit.
+
+Forecasters have predicted that there will be no let-up in the spell of hot weather. Rather they are warning that temperatures will rise further by April when the sun will be directly over Lanka.
+
+Doctors also warn the public to avoid strenuous labour, to wear white clothing that absorbs solar energy and drink more water. A difficulty here is that our reservoirs are running low on water supplies. The Department of Irrigation is requesting the public to reduce the consumption of water!
+
+The irony of it all is that the Department of Meteorology warned us of the impending dry spell around mid-last year. In this column we have constantly drawn attention to the need to dredge our ancient tanks and the need for clearing waterways which feed the tanks, thereby enhancing the collection of greater quantities of water.
+
+...
+
+[Data](articles/72a8e0be.json)
+
+---
 
 ### 2024-03-22 (Friday)
 
@@ -2271,51 +2307,5 @@ The decisive action taken by Brazil's justice system has been praised by many on
 [Data](articles/23fe8c2b.json)
 
 [Extended Data](ext_articles/23fe8c2b.ext.json)
-
----
-
-### 5 more of the People's Struggle Movement remanded again
-
-*2024-03-22 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194810) · `si`
-
-Five suspects in the People's Struggle Movement case were remanded again by Fort Magistrate Thilina Gamage, ordered to an identification parade. They will remain in custody until the 27th.
-
-🟩
-
-Fort Magistrate Thilina Gamage today ordered the five suspects to be submitted to an identification parade.
-
-According to the report of police officers in the case, the five suspects were remanded until the 27th they were remanded until the 27th they were remanded until the 27th.
-
-Accordingly, the five persons who were due to the Fort Police including the OIC of the Fort Police including the OIC of Duminda Naguwa and Jinaratana Thera and Nayana Ranjani have been remanded until the 27th of this month.
-
-◼️
-
-[Data](articles/df49b7d7.json)
-
-[Extended Data](ext_articles/df49b7d7.ext.json)
-
----
-
-### The men who stole the lorry took 9,100 kg of Keeri Samba!
-
-*2024-03-22 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179402) · `ta`
-
-A lorry stolen in Rukunugama, Aralangwila, contained 9,100 kg of Keeri Samba, valued at 15 lakhs rupees, leading to a police investigation.
-
-🟩
-
-Around fifteen lakhs of rupees has been stolen from a massive rice mill in Welikanda.
-
-It has been reported by the police that some people who stole a parked lorry have left the lorry and left the lorry in one place.
-
-The owner of the lorry has lodged a complaint with the police as his lorry has been abandoned in the Rukunugama area under the Aralangwila Police Division.
-
-Based on the complaint, police have started investigations and found that 9,100 kg of Keeri samba from the lorry has been stolen.
-
-◼️
-
-[Data](articles/3184589a.json)
-
-[Extended Data](ext_articles/3184589a.ext.json)
 
 ---

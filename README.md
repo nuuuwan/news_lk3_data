@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 23:33:36**
+As of **2024-03-22 23:52:12**
 
 ## Newspaper Stats
 
-*Scraped **14,615** Articles*
+*Scraped **14,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 776
 economynextcom | 782
 islandlk | 797
 adalk | 1,257
-adaderanalk | 1,750
+adaderanalk | 1,751
 tamilmirrorlk | 1,758
 virakesarilk | 2,062
 dailymirrorlk | 2,251
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,334
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,614 (100.0%) of 14,615 articles have been extended.
+14,615 (100.0%) of 14,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### Russia launches massive air attack on Ukraine’s energy infrastructure
+
+*2024-03-22 23:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98137/russia-launches-massive-air-attack-on-ukraines-energy-infrastructure) · `en`
+
+Russia launched one of its biggest missile and drone barrages on Ukraine’s energy infrastructure overnight into Friday since the start of its full-scale invasion more than two years ago.
+
+Ukrainian officials said at least 10 of the country’s regions were struck in an attack targeting power supplies in multiple towns and cities, including Kharkiv in the east, Odesa on the coast and Kryvyi Rih in the center.
+
+The attacks have left well over 1 million households without electricity Friday morning, according to reports from multiple regional authorities. Only Kyiv and the northwest of the country were spared.
+
+Russia’s Defense Ministry said it had “launched a massive strike” on Ukraine’s “military-industrial complex” in response to recent strikes on Russia’s territory. Ukraine’s military – as well as pro-Ukrainian groups of Russian fighters – have this month targeted Russia’s border regions of Belgorod and Kursk, forcing schools to close and residents to evacuate.
+
+...
+
+[Data](articles/6532244c.json)
+
+---
 
 ### Sri Lanka among ten countries mostly affected by climate change
 
@@ -51,6 +69,8 @@ Rwan Wijewardene also said that climate change will account for one percent loss
 ...
 
 [Data](articles/75d8414e.json)
+
+[Extended Data](ext_articles/75d8414e.ext.json)
 
 ---
 
@@ -2295,25 +2315,5 @@ Based on the complaint, police have started investigations and found that 9,100 
 [Data](articles/3184589a.json)
 
 [Extended Data](ext_articles/3184589a.ext.json)
-
----
-
-### A special holiday for Hatton Zonal Schools
-
-*2024-03-22 11:17:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-வலய-பாடசாலைகளுக்கு-விசேட-விடுமுறை/76-335010) · `ta`
-
-Hatton Zonal Schools will observe a special holiday on the 25th, dedicated to Hatton Sri Manikapillaiar Temple Maha Kumbabhisheka, with educational activities on April 6, 2024.
-
-🟩
-
-The Secretary of the Central Province, DabUM Madagapola, has confirmed that Hatton Zonal Schools have been given a special holiday on the 25th of this month.
-
-Hatton Sri Manikapillaiar Temple Maha Kumbabhisheka. For this purpose, the school has been decided to carry out educational activities on 06.04.2024.
-
-◼️
-
-[Data](articles/c9999a7c.json)
-
-[Extended Data](ext_articles/c9999a7c.ext.json)
 
 ---

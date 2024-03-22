@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 13:52:33**
+As of **2024-03-22 14:03:02**
 
 ## Newspaper Stats
 
-*Scraped **14,542** Articles*
+*Scraped **14,543** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 1,739
 tamilmirrorlk | 1,753
 virakesarilk | 2,052
 dailymirrorlk | 2,229
-adaderanasinhalalk | 2,317
+adaderanasinhalalk | 2,318
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,541 (100.0%) of 14,542 articles have been extended.
+14,542 (100.0%) of 14,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### පාතාලයේ 10ක් කොටුවූ බව පොලීසිය කියයි
+
+*2024-03-22 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194814) · `si`
+
+පාතාල මර්දන මෙහෙයුම යටතේ ගතවූ පැය 24 තුළ පාතාල කල්ලි සාමාජිකයන් 10 දෙනෙකු පොලිස් අත්ඩංගුවට ගෙන තිබේ.
+
+ඒ අනුව පාතාල මර්දන මෙහෙයුම ආරම්භ කර ගතවූ දින 3 තුළ අත්අඩංගුවට ගෙන ඇති සැකකරුවන් සංඛ්‍යාව 27කි.
+
+◼️
+
+[Data](articles/fbe447a9.json)
+
+---
 
 ### General elections must be held first to maintain fairness: MR
 
@@ -47,6 +61,8 @@ He also said that there should be a fair situation in the country after the elec
 ◼️
 
 [Data](articles/91cd0993.json)
+
+[Extended Data](ext_articles/91cd0993.ext.json)
 
 ---
 
@@ -2199,21 +2215,5 @@ The remaining 100 passengers, who were heading to South Korea for work, have bee
 [Data](articles/ca88bede.json)
 
 [Extended Data](ext_articles/ca88bede.ext.json)
-
----
-
-### Ceylon Chamber to organise Sri Lanka Climate Summit 2024
-
-*2024-03-22 04:40:44* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-to-organise-Sri-Lanka-Climate-Summit-2024/34-759781) · `en`
-
-Under theme ‘Code Red: Climate Risks and Opportunities for Sri Lankan Businesses’
-
-The Ceylon Chamber of Commerce is proud to announce the inaugural Sri Lanka Climate Summit 2024, themed “Code Red: Climate Risks and Opportunities for Sri Lankan Businesses” from 7 to 9 May at the Shangri La Hotel, Colombo.
-
-...
-
-[Data](articles/2967618b.json)
-
-[Extended Data](ext_articles/2967618b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 19:17:54**
+As of **2024-03-22 19:33:15**
 
 ## Newspaper Stats
 
-*Scraped **14,589** Articles*
+*Scraped **14,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 1,256
 adaderanalk | 1,746
 tamilmirrorlk | 1,755
 virakesarilk | 2,060
-dailymirrorlk | 2,240
+dailymirrorlk | 2,241
 adaderanasinhalalk | 2,329
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,589 (100.0%) of 14,589 articles have been extended.
+14,589 (100.0%) of 14,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### Uganda’s president appoints son as military chief
+
+*2024-03-22 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ugandas-president-appoints-son-as-military-chief/108-279411) · `en`
+
+KAMPALA, March 22 (Reuters) - Uganda's President Yoweri Museveni has appointed his son, Muhoozi Kainerugaba, as head of the military, the defence ministry said on Friday.
+
+Muhoozi Kainerugaba, 48, a general in the military, is widely seen as his father's successor in waiting and once stirred controversy by threatening to invade neighbouring Kenya. The ministry said in a statement he replaces Wilson Mbasu Mbadi, who was removed and appointed as a junior minister.
+
+In 2022, Museveni removed his son as commander of Uganda's land forces after he made threats to invade neighbouring Kenya in posts on social media platform X.
+
+In the posts, Kainerugaba also expressed support for Russia's President Vladimir Putin saying: "The majority of mankind (that are non-white) support Russia's stand in Ukraine."
+
+Kainerugaba has long been viewed as being prepared to take over the presidency from his father, 79, who has ruled the east African country for nearly 40 years.
+
+◼️
+
+[Data](articles/6c69db7b.json)
+
+---
 
 ### 90 missiles to Ukraine at night
 
@@ -2279,27 +2299,5 @@ In addition, as many as 46 contact numbers were also introduced for the members 
 [Data](articles/6346999e.json)
 
 [Extended Data](ext_articles/6346999e.ext.json)
-
----
-
-### Police offer cash rewards for information provided on illegal firearms
-
-*2024-03-22 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98120/police-offer-cash-rewards-for-information-provided-on-illegal-firearms) · `en`
-
-Sri Lanka Police have decided to offer cash prizes to individuals who provide information about illegal firearms used by organized criminal gang members.
-
-In parallel to the ongoing ‘Yukthiya’ exercise to eradicate drug distribution initiated in late December 2023, the police launched a special police operation on March 19 in a bid to crack down on organized crimes.
-
-Accordingly, 20 special police teams – each consisting of nine personnel including one Crimes OIC, four intelligence officers and two Special Task Force (STF) personnel – were deployed in Western Province and Galle District.
-
-Inspector-General of Police (IGP) Deshabandu Tennakoon has decided to award crash prizes to any individual who tip the police off on firearms and organized criminal gang members.
-
-In addition, as many as 46 contact numbers were also introduced for the members of the public to provide relevant information.
-
-...
-
-[Data](articles/7c11f954.json)
-
-[Extended Data](ext_articles/7c11f954.ext.json)
 
 ---

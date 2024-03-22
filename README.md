@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 12:33:19**
+As of **2024-03-22 12:49:41**
 
 ## Newspaper Stats
 
-*Scraped **14,528** Articles*
+*Scraped **14,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 782
 islandlk | 797
 adalk | 1,249
 adaderanalk | 1,738
-tamilmirrorlk | 1,751
-virakesarilk | 2,046
+tamilmirrorlk | 1,752
+virakesarilk | 2,048
 dailymirrorlk | 2,228
 adaderanasinhalalk | 2,315
 
@@ -26,11 +26,67 @@ adaderanasinhalalk | 2,315
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,524 (100.0%) of 14,528 articles have been extended.
+14,528 (100.0%) of 14,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### மனவேதனை முறைப்பாடு:  வன்புணர்ந்தவருக்கு வலை
+
+*2024-03-22 12:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனவேதனை-முறைப்பாடு-வன்புணர்ந்தவருக்கு-வலை/175-335016) · `ta`
+
+இரண்டு சந்தர்ப்பங்களில் பாலியல் வன்புணர்வுக்கு உட்படுத்தினார் என்றக் குற்றச்சாட்டின் கீழ் ஒருவர் வியாழக்கிழமை (21) கைது செய்யப்பட்டுள்ளார்.
+
+பிபில பொலிஸ் பிரிவுக்கு உட்பட்ட உனகொல்ல பிரதேசத்தில் வசிக்கும் 29 வயதுடைய திருமணமான பெண்ணொருவர் அருகில் உள்ள வீடொன்றில் வசிப்பவரால் இரண்டு தடவைகள் பலாத்காரம் செய்யப்பட்டதாக பிபில பொலிஸாருக்கு முறைப்பாடு கிடைத்தது.
+
+09/04/2023 அன்று, அவள் குழந்தையுடன் வீட்டில் இருந்தபோது, ​​"அலிண்டா" என்ற பக்கத்து வீட்டுக்காரர் அவளுடைய வீட்டிற்கு வந்து அவளை பாலியல் பலாத்காரம் செய்துள்ளார், மேலும் 11/27/2023 அன்று மீண்டும் அவளை பாலியல் பலாத்காரம் செய்துள்ளார்.
+
+ஆனால் இந்த சம்பவம் மனவேதனையை ஏற்படுத்தியதால், கடந்த (21) பிபில பொலிஸ் நிலையத்துக்கு வந்து அப்பெண் முறைப்பாடு செய்துள்ளார்.
+
+◼️
+
+[Data](articles/6cb852ce.json)
+
+---
+
+### வெப்பநிலை ஏப்ரல் இறுதி வரை நீடிக்கும் என்கிறது வளிமண்டலவியல் திணைக்களம்!
+
+*2024-03-22 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179415) · `ta`
+
+வருடத்தின் ஏனைய நாட்களை விட இந்த நாட்களில் வெப்பநிலை ஒன்று அல்லது இரண்டு டிகிரி செல்சியஸ் அதிகரித்துள்ளதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+நாடளாவிய ரீதியில் இந்த நிலை காணப்படுவதாக வளிமண்டலவியல் திணைக்களத்தின் பிரதிப் பணிப்பாளர் மெரில் மென்டிஸ் தெரிவித்தார்.
+
+ஒவ்வொரு ஆண்டும் மார்ச், ஏப்ரல் மாதங்களில் வெப்பம் அதிகமாக இருக்கும் என்றும் ஏப்ரல் இறுதி வரை இதே நிலை நீடிக்கும் என்றும் அவர் கூறினார்.
+
+இந்த நேரத்தில் வெப்பநிலை அசாதாரணமாக உயர்ந்துள்ளதா என்பதை ஆய்வு செய்ய வேண்டும் என்றும் திணைக்களம் கூறுகிறது.
+
+◼️
+
+[Data](articles/40ee8e27.json)
+
+---
+
+### இஸ்ரேல் மனிதாபிமான உதவிகளுக்கு அனுமதி வழங்கவேண்டும் - அவுஸ்திரேலியா பிரிட்டன் கூட்டாக வேண்டுகோள்
+
+*2024-03-22 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179410) · `ta`
+
+மனிதாபிமான உதவிகள் காசாவை சென்றடைவதை இஸ்ரேல்உறுதி செய்யவேண்டும் என அவுஸ்திரேலியாவும் இங்கிலாந்தும் கூட்டாக வேண்டுகோள் விடுத்துள்ளன.
+
+நிரந்தர பேண்தகு யுத்தநிறுத்தத்தை உருவாக்குவதற்கு உடனடி யுத்தநிறுத்தம் அவசியம் எனவும் இரு நாடுகளும் வேண்டுகோள் விடுத்துள்ளன.
+
+காசாவில் காணப்படும் பேரழிவு மனிதாபிமான நிலவரம் குறித்து அவுஸ்திரேலியாவும் இங்கிலாந்தும் கவலை வெளியிட்டுள்ளன.
+
+ஒக்டோபர் ஏழாம் திகதி தாக்குதலை கண்டித்துள்ள அவுஸ்திரேலிய பிரிட்டன் இந்த தாக்குதல் அப்பாவி மக்கள் மீது மேற்கொள்ளப்பட்டது என தெரிவித்துள்ளதுடன் பாலியல் வன்முறைகள் இடம்பெற்றதாகவும் தெரிவித்துள்ளன.
+
+அனைத்து தரப்பினரும் சர்வதேச மனிதாபிமான சட்டத்தின் வரையறைக்குள் செயற்படவேண்டும் என வேண்டுகோள் விடுத்துள்ள அவுஸ்திரேலியாவும் பிரிட்டனும் உடனடி யுத்தநிறுத்தம் நிபந்தனையற்ற பயணக்கைதிகள் விடுதலை பொதுமக்களை அனைத்து சந்தர்ப்பத்திலும் பாதுகாத்தல் என்பவற்றிற்கான வேண்டுகோளையும் விடுத்துள்ளன.
+
+◼️
+
+[Data](articles/36aff6d7.json)
+
+---
 
 ### President Ranil meets with Basil; discusses future political affairs
 
@@ -48,6 +104,8 @@ Nevertheless, it has been decided to continue discussions regarding the matter f
 
 [Data](articles/bd9f188b.json)
 
+[Extended Data](ext_articles/bd9f188b.ext.json)
+
 ---
 
 ### Keheliya’s application for bail to be heard on Monday
@@ -63,6 +121,8 @@ When the matter came up before High Court Judge Sujeewa Nissanka, court was info
 ◼️
 
 [Data](articles/5b410a5b.json)
+
+[Extended Data](ext_articles/5b410a5b.ext.json)
 
 ---
 
@@ -135,6 +195,8 @@ In response to a concerning increase in organized criminal activities in the Wes
 ◼️
 
 [Data](articles/bcbaa1ad.json)
+
+[Extended Data](ext_articles/bcbaa1ad.ext.json)
 
 ---
 
@@ -2091,63 +2153,5 @@ Following the completion of the second review of the Extended Fund Facility (EFF
 [Data](articles/fafd6a48.json)
 
 [Extended Data](ext_articles/fafd6a48.ext.json)
-
----
-
-### Govt. approval rating dips to 7% in February
-
-*2024-03-22 01:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Govt-approval-rating-dips-to-7-in-February/172-279345) · `en`
-
-The approval rating of the government fell from 9% in October 2023 to 7% in February 2024, according to the latest round of the Gallup style ‘Mood of the Nation’ poll of Verité Research.
-
-The survey showed that only 9% rated the current economic conditions as either excellent or good, which is a drop from 16% in October 2023.
-
-Ninety percent thought that the economic conditions in the country were getting worse, whereas in October 2023 only 66% had this negative view.
-
-To the question, “Do you approve or disapprove of the way the current government is working?”, Seven percent (almost 7.5%) of the respondents said that they approve (with an error margin of ± 1.81%). The percentage saying they disapproved was 85%. The approval rating is its lowest since June 2022.
-
-...
-
-[Data](articles/921ffc83.json)
-
-[Extended Data](ext_articles/921ffc83.ext.json)
-
----
-
-### Biggest mysteries in Aviation history
-
-*2024-03-22 01:05:00* · [`islandlk`](http://island.lk/biggest-mysteries-in-aviation-history/) · `en`
-
-Humans, for generations, would have been envious of birds as the freedom of the skies was entirely theirs. Born with abilities of terrestrial pursuits, humans soon took to water and mastered the art of transport in water too but attempts at flying like birds were in vain, most ending in disaster! However, myths abound. Daedalus, the engineer and his son, Icarus, are supposed to have flown with wings of wax and feather, according to Greek legend.
-
-Though Daedalus flew successfully from Crete to Naples, overambitious Icarus, who flew too high got close to the Sun and fell to his death in the ocean due to wax wings melting. Persian King Kaj Kaoos is supposed to have flown around his kingdom with eagles attached to his throne and Alexander the Great is supposed to have done the same in a basket powered by four Griffins. If Valmiki’s Ramayana is to be believed, as many Indians do, our King Ravana ought to be considered the pioneer aviator!
-
-...
-
-[Data](articles/55516a94.json)
-
-[Extended Data](ext_articles/55516a94.ext.json)
-
----
-
-### 2024-03-21 (Thursday)
-
-### All performances in Kandy Esala Perahera including dance elements to be gazetted
-
-*2024-03-21 23:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/All-performances-in-Kandy-Esala-Perahera-including-dance-elements-to-be-gazetted/108-279342) · `en`
-
-Colombo, March 21 (Daily Mirro) - There are discussions to gazette all the performance items, including dance elements presented during the annual Esala Perahera festival by the Sri Dalada Maligawa and the Satara Maha Devalayas, Diyawadana Nilame Pradeep Nilanga Dela said.
-
-The discussions were held with the President's Secretary, Saman Ekanayake, today. The Diyawadana Nilame pointed out that by gazetting all the items, including the dance elements, they will not be distorted in the future.
-
-During the discussions, he said that it has been planned to specify and gazette the tasks of the participants and the government institutions providing the facilities in order to maintain the historic Esala Perahera festival in Kandy without it being distorted and respecting the ancient customs.
-
-According to a request made to President Ranil Wickremesinghe through the Perahera Memorandum, this programme is to be implemented as per the instructions of the President.
-
-◼️
-
-[Data](articles/d3f8c60e.json)
-
-[Extended Data](ext_articles/d3f8c60e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 20:17:51**
+As of **2024-03-22 20:33:30**
 
 ## Newspaper Stats
 
-*Scraped **14,594** Articles*
+*Scraped **14,596** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,70 @@ economynextcom | 782
 islandlk | 797
 adalk | 1,257
 adaderanalk | 1,748
-tamilmirrorlk | 1,755
+tamilmirrorlk | 1,756
 virakesarilk | 2,060
 dailymirrorlk | 2,241
-adaderanasinhalalk | 2,330
+adaderanasinhalalk | 2,331
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,594 (100.0%) of 14,594 articles have been extended.
+14,594 (100.0%) of 14,596 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### අධික උණුසුමින් ජීවිතයක් අහිමි වෙයි
+
+*2024-03-22 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194827) · `si`
+
+අධික උණුසුම් කාලගුණික තත්ත්වය අතරතුර පුද්ගලයෙක් බිම ඇදවැටී මියයාමේ පුවතක් වාර්තා වුණි.
+
+මෙම පුද්ගලයා පාපැදියක් තල්ලුකරමින් ඊයේ (21) දහවල් මාර්ගයේ ගමන් කරමින් සිටියදී බිම ඇද වැටී තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ අකුරැස්ස තෙලිජ්ජවිල ප්‍රදේශයේ පදිංචිකරුවෙක් වන ඔහු 72 හැවිරිදි සිව්දරු පියෙකි.
+
+මෙරටට බලපා ඇති එල්නීනෝ තත්ත්වයත් සමඟ සිරුරට දැනෙන උණුසුම පවතින්නේ ඉහළ මට්ටමකය.
+
+අධික උණුසුමින් ආරක්ෂා වන ලෙස සෞඛ්‍ය අංශ පසුගිය කාලය පුරා ජනතාවට අනතුරු ඇඟවීය.
+
+මේ අතර දින ගණනක් පැවති වියළි කාලගුණය නිමාකරමින් ප්‍රදේශ කිහිපයකට ඊයේ (21) සිට වැසි ඇදහැලෙන අතර අද (22) පස්වරුවේ කොළඹට ධාරාණිපාත වැසි ඇදහැලුණි.
+
+ගතවූ පැය 24 තුළ වැඩිම වර්ෂාපතනය අම්පාර මහඔය ප්‍රදේශයෙන් වාර්තාවූ අතර එම අගය මිලිමීටර් 133.5කි.
+
+මෙරටට බලපැවැත්වුණු වියළි කාලගුණය හමුවේ ජල මූලාශ්‍ර රැසක ජල මට්ටම පහළ බැස ඇති බව ජල සම්පාදන සහ ජලාපවාහන මණ්ඩලය සඳහන් කළේය.
+
+ඒ හේතුවෙන් ප්‍රදේශ ගණනාවකට ජලය සැපයීමට සිදුව ඇත්තේ මුර ක්‍රමයකටයි.
+
+කළුතර,කුරුණෑගල,මහනුවර, මාතලේ, නුවරඑළිය, මාතර, මොනරාගල සහ රත්නපුර ආදී ප්‍රදේශ 25කට මේ වන විට මුර ක්‍රමයක් යටතේ ජලය සැපයේ.
+
+...
+
+[Data](articles/8996b71b.json)
+
+---
+
+### “இலங்கையில் பெரிய பொருளாதாரமாக உருவெடுக்கும் வடக்கு” ஜனாதிபதி
+
+*2024-03-22 19:52:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இலங்கையில்-பெரிய-பொருளாதாரமாக-உருவெடுக்கும்-வடக்கு-ஜனாதிபதி/71-335024) · `ta`
+
+காணி உரிமை வழங்கும் 'உறுமய தேசிய வேலைத்திட்டத்தை' ஜூன் மாதமளவில் நிறைவு செய்யுமாறு அதிகாரிகளுக்கு பணிப்புரை விடுத்திருப்பதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+எந்த இனத்தவராக இருந்தாலும் சட்ட ரீதியான காணி உரிமை தமக்கு கிடைக்க வேண்டும் என்பதே அனைத்து பிரஜைகளினதும் கனவாகும் என்ற வகையில், அவ்வாறான உரிமை சகலருக்கும் கிடைக்க வேண்டும் என்பதையே தான் விரும்புவதாகவும் கூறினார்.
+
+யாழ்ப்பாணம் -  ஒட்டகப்புலம் பகுதியில் இன்று வெள்ளிக்கிழமை (22) நடைபெற்ற "உறுமய" காணி உரிமம் வழங்கும் வேலைத்திட்டத்தின்போதே ஜனாதிபதி ரணில் விக்ரமசிங்க மேற்கண்டவாறு குறிப்பிட்டுள்ளார்.
+
+இரண்டு மில்லியன் மக்களுக்கு காணி உரிமை வழங்குவதற்காக முன்னெடுக்கப்படும் உறுமய வேலைத்திட்டத்தின் கீழ் யாழ்ப்பாணத்தில் 408 பேருக்கு ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் அடையாள ரீதியாக காணி உறுதிப் பத்திரம் வழங்கப்பட்டது.
+
+இதற்கு இணையாக யாழ். பாதுகாப்பு படைத் தலைமையகத்தின் கீழிருந்த காணிகளை விவசாயிகளுக்கு கையளிக்கும் நிகழ்வும் இன்று  (22) பலாலி விமானப்படை தளத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தலைமையில் நடைபெற்றது.
+
+...
+
+[Data](articles/2af594ab.json)
+
+---
 
 ### What if a girl holds a sexual relationship?
 
@@ -2263,55 +2313,5 @@ The latest NCM, filed by the main opposition Samagi Jana Balawegaya (SJB), was t
 [Data](articles/526d3a88.json)
 
 [Extended Data](ext_articles/526d3a88.ext.json)
-
----
-
-### Dylan's deviation from Cobb group
-
-*2024-03-22 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179384) · `ta`
-
-Dylan Perera resigns from COPE Committee due to ruling party's chairman appointment, amid opposition demands for opposition leader.
-
-🟩
-
-There is no good stand among the people regarding the membership of the ruling party appointed as the chairman of the COPE committee, so I will quit the membership of the COPE Committee, "Parliamentarian Dylan Perera has informed the Speaker in writing.
-
-Everyone has accepted that a member of the ruling party has been appointed as the Chairman of the Copa Committee. He also carries the committee's activities.
-
-Members of the opposition parties continued to demand that a member of the Opposition to be appointed as the leader of the Government Responsibility Development (COPE) (COPE).
-
-Against this backdrop, a member of the ruling party has been appointed as the chairman of the COPE Committee. Members of the opposition have expressed strong opposition to this appointment.
-
-...
-
-[Data](articles/d71dec27.json)
-
-[Extended Data](ext_articles/d71dec27.ext.json)
-
----
-
-### Sri Lankan - Indian fishermen issue: Tamil Nadu, Pondicherry Chief Ministers
-
-*2024-03-22 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/179382) · `ta`
-
-Tamil Nadu and Pondicherry CMs discuss Sri Lankan-Indian fishermen issues, including drag web boats and hunger strikes. Fisheries Minister Douglas Devananda urges fishermen to end the strike. Legal action is being taken against Indian boats caught by Navy. Chief Ministers and ministers are negotiating a solution, recognizing the impact on northern fishermen.
-
-🟩
-
-The Chief Ministers of Tamil Nadu and Pondicherry have discussed with me on the issues of the Indian drag web boats.
-
-There is also an environment for meeting with Chief Ministers. Fisheries Minister Douglas Devananda appealed to the fishermen in the North to abandon the hunger strike.
-
-He appealed to the Speaker of Parliament on Thursday (21) while addressing the third day debate on the no -confidence motion against the Speaker.
-
-The hunger strike continues as the third day of the hunger strike, which is the third day of the hunger strike, which has crossed the border of the Indian trawling web boats, and the fisheries system with prohibited fisheries equipment and the conditions of the affected northern fishermen.
-
-We are taking legal action on this issue. Three Indian drag folding boats were caught by Navy in Jaffna on Wednesday (20). Two boats were caught in Mannar and seven arrested.
-
-...
-
-[Data](articles/ca6e7185.json)
-
-[Extended Data](ext_articles/ca6e7185.ext.json)
 
 ---

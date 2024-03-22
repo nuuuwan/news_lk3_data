@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 15:33:34**
+As of **2024-03-22 15:51:40**
 
 ## Newspaper Stats
 
-*Scraped **14,563** Articles*
+*Scraped **14,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 797
 adalk | 1,252
 adaderanalk | 1,742
 tamilmirrorlk | 1,754
-virakesarilk | 2,057
+virakesarilk | 2,059
 dailymirrorlk | 2,233
 adaderanasinhalalk | 2,323
 
@@ -26,27 +26,71 @@ adaderanasinhalalk | 2,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,562 (100.0%) of 14,563 articles have been extended.
+14,563 (100.0%) of 14,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### අප්‍රේල් මුල දැවැන්ත වැඩවර්ජනයක් ?
+### ஹட்டன் வலய பாடசாலைகளுக்கு எதிர்வரும் திங்கட்கிழமை விசேட விடுமுறை !
+
+*2024-03-22 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/179439) · `ta`
+
+ஹட்டன் வலய தமிழ் பாடசாலைகளுக்கு எதிர்வரும் திங்கட்கிழமை (25) விசேட விடுமுறை ஹட்டன் வலய பாடசாலைகளுக்கு எதிர்வரும் திங்கட்கிழமை 25ம் திகதி விஷேட விடுமுறை வழங்கப்பட்டுள் ளதாக மத்திய மாகாண ஆளுநரின் செயலாளர் டப்ளியு.எம்.எம்.மடகபொல உறுதிபடுத்தியுள்ளார்.
+
+ஹட்டன் ஸ்ரீ மாணிக்கபிள்ளையார் ஆலய மகா கும்பாபிஷேக பெரு விழாவை முன்னிட்டே இவ் விடுமுறை வழங்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+இதற்காக மாற்றிடாக எதிர்வரும் 06.04.2024 அன்று பாடசாலையை கல்வி நடவடிக்கைகளை முன்னெடுப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/7cbaf8f8.json)
+
+---
+
+### அமைச்சர் டக்ளஸ் உறுதிமொழி உணவு தவிர்ப்பு போராட்டம் கைவிடப்பட்டது!
+
+*2024-03-22 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179438) · `ta`
+
+இந்திய அத்துமீறிய மீன்பிடியாளர் களை நிறுத்துமாறு கோரி நான்கு நாட்கள் இடம்பெற்ற உணவு தவிர்ப்புப் போராட்டம் அமைச்சர் டக்ளஸ் தேவானந்தாவின் உறுதிமொழியால் கைவிடப்பட்டது.
+
+கடந்த செவ்வாய்கிழமை யாழ்ப்பாணத்தில் உள்ள இந்திய துணை தூதரகத்திற்கு அருகாமையில் யாழ் மாவட்டத்தைச் சேர்ந்த மீனவர்கள் நான்கு போர் உணவுதவிர்ப்புப் போராட்டத்தை ஆரம்பித்தனர்.
+
+இன்று நான்காம் நாள் போராட்ட இடத்திற்கு வருகை தந்த அமைச்சர் டக்ளஸ் தேவானந்தா, இந்திய அத்துமீறிய கடற் தொழிலாளர்களை கட்டுப்படுத்துவது தொடர்பில் தமிழ்நாடு மற்றும் பாண்டிச்சேரி முதலமைச்சர் மற்றும் சம்பந்தப்பட்ட அமைச்சர்களுடன் பேசினேன்.
+
+பாண்டிச்சேரி முதலமைச்சர் எல்லை தாண்டும் மீனவர்களை தடுப்பது தொடர்பில் எழுத்துமூலமான உறுதிமொழி தந்துள்ளார்.
+
+தமிழக முதல்வர் கடிதம் அனுப்பத் தயாராக இருப்பதாகவும் தேர்தல் இடம்பெறவுள்ள நிலையில் தேர்தல் ஆணையகத்துடன் ஆலோசித்து கடிதம் அனுப்புவதாக கூறியிருக்கிறார்.
+
+...
+
+[Data](articles/a618747c.json)
+
+---
+
+### A massive strike on early April?
 
 *2024-03-22 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194819) · `si`
 
-දිගින් දිගටම රජයේ විධායක නිලධාරීන් විසින් කළ ඉල්ලීම්වලට සාධනීය පිළිතුරක් රජයෙන් ලබානොදීම හේතුවෙන් අප්‍රේල් මස මුල් සතියේ දීපව්‍යාප්ත වැඩවර්ජනයක් ක්‍රියාත්මක කිරීමට රජයේ විධායක නිලධාරීන්ගේ ඒකාබද්ධ කමිටුවට අනුබද්ධ වෘත්තීය සමිති 18ක් තීරණය කර තිබේ.
+Government Executive Unions plan a strike in early April, following discussions with the University of Examinations. They demand reforms, considering the cost of living and decisions by the State Commission. The strike aims to address professional issues and economic hardship, with proposals to be presented to the Cabinet on March 31.
 
-අද (22) පෙරවරුවේ ඉසුරුපාය විභාග දෙපාර්තමේන්තුවේ විධායක නිලධාරි වෘත්තීය සමිතිය සමග පැවැති සාකච්ඡාවකින් අනතුරුව ඔවුන් මෙම තීරණය ගෙන ඇත.
+🟩
 
-ජීවන වියදම සලකා බලා කෙටි කාලීනව සාධාරණ දීමනාවක් ලබාදෙන ලෙසත්, කළමනාකරණ දෙපාර්තමේන්තුව හා රාජ්‍ය කොමිෂන් සභාව විසින් ගන්නා අත්තනෝමතික තීරණවලට විරෝධය දක්වමින් එම ආයතනවල නිසි ප්‍රතිසංස්කරණයන් සිදුකරන ලෙස රජයට බලකරමින් ඔවුන් මෙම වෘත්තීය ක්‍රියාමාර්ගය ගැනීමට නියමිතය.
+The Government Executive Unions have decided to implement an awesome committee of the Government Executive Testing in the first week of April due to the government's reputation by the Government.
 
-පසුගියදා අගමැතිවරයා සමග පැවති සාකච්ඡාවේ දී විධායක නිලධාරීන්ට බලපා ඇති ආර්ථික දුෂ්කරතා ඇතුළු වෘත්තීය ගැටලු සම්බන්ධයෙන් කඩිනමින් විසඳුම් ලබාදෙන ලෙස ඉල්ලීම් කළ බව ද එම කමිටුව සඳහන් කරයි.
+The decision was taken after a discussion with the University of Examinations of the Department of Examinations today (22).
+
+They will be demanding the government to demand the government to make the necessary reforms in consultation by considering the cost of the cost of the cost of the cost of living and the arbitrary decisions made by the State Commission.
+
+The committee states that the discussion was requested to resolve the professional issues, including the economic hardship affected by the Prime Minister recently.
+
+The integrated committee of the government executives that the solution proposals are expected to contest the Cabinet at March 31, he said.
 
 ...
 
 [Data](articles/505fc037.json)
+
+[Extended Data](ext_articles/505fc037.ext.json)
 
 ---
 
@@ -73,6 +117,30 @@ Kummindu Mendis and Leader Dhananjaya de Silva took the innings in Sri Lanka.
 [Data](articles/e2474650.json)
 
 [Extended Data](ext_articles/e2474650.ext.json)
+
+---
+
+### Hot Weather: New Guidelines for Marathon Running
+
+*2024-03-22 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/179419) · `ta`
+
+The Department of Sports Development has issued new guidelines for Marathon and long-distance races, requiring athletes to present medical and ECG reports, aiming to prevent future deaths due to hot weather.
+
+🟩
+
+The Department of Sports Development has issued a new circular on guidelines to be followed in the Marathon and long -range competitions for the public and the public.
+
+It is mandatory for all athletes to participate in Marathon and long distance race.
+
+Athletes who are involved in the Marathon race should be presented with the medical report and the ECG report to the doctor.
+
+The move has been taken into consideration of the unfortunate deaths of athletes recently recorded due to the hot weather in the country.
+
+◼️
+
+[Data](articles/e414d217.json)
+
+[Extended Data](ext_articles/e414d217.ext.json)
 
 ---
 
@@ -119,30 +187,6 @@ In recent years, Mr Miller said Canada has seen a “sharp increase” of tempor
 [Data](articles/ca3e0aaa.json)
 
 [Extended Data](ext_articles/ca3e0aaa.ext.json)
-
----
-
-### Hot Weather: New Guidelines for Marathon Running
-
-*2024-03-22 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179419) · `ta`
-
-The Department of Sports Development has issued new guidelines for Marathon and long-distance races, requiring athletes to present medical and ECG reports, aiming to prevent future deaths due to hot weather.
-
-🟩
-
-The Department of Sports Development has issued a new circular on guidelines to be followed in the Marathon and long -range competitions for the public and the public.
-
-It is mandatory for all athletes to participate in Marathon and long distance race.
-
-Athletes who are involved in the Marathon race should be presented with the medical report and the ECG report to the doctor.
-
-The move has been taken into consideration of the unfortunate deaths of athletes recently recorded due to the hot weather in the country.
-
-◼️
-
-[Data](articles/e414d217.json)
-
-[Extended Data](ext_articles/e414d217.ext.json)
 
 ---
 
@@ -2247,55 +2291,5 @@ Sri Lanka is now clearly emerging from an unprecedented economic crisis that imp
 [Data](articles/a8883938.json)
 
 [Extended Data](ext_articles/a8883938.ext.json)
-
----
-
-### Elections and the economy
-
-*2024-03-22 05:42:24* · [`dailyftlk`](https://www.ft.lk/columns/Elections-and-the-economy/4-759808) · `en`
-
-The next election if it were to be dominated by economic issues would be a contest between NPP’s system change with a market model cleansed of its rigidities and the IMF path embraced by its opponents – Pic by Shehan Gunasekara
-
-Election fever is gripping Sri Lanka. It appears that a General Election could precede the Presidential Election mainly because of Ranil Wickremesinghe’s (RW) rising unpopularity largely due to his IMF led economic recovery path.
-
-IMF for its part has no choice but to slow down its program after completing its second review, because election fever demands more time and energy from parliamentarians outside the legislature than inside, and consequently it would not be possible for the Parliament to pass the necessary reforms required for the recovery. Economy therefore is destined to take the back seat and allow politics to dominate national attention for the rest of the year.
-
-...
-
-[Data](articles/a8cfdee0.json)
-
-[Extended Data](ext_articles/a8cfdee0.ext.json)
-
----
-
-### 'People's Faith in Parliament' Breaded ': What happens if you go?
-
-*2024-03-22 05:36:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy0zjp9pjjno) · `si`
-
-"People's faith in Sri Lanka's Parliament is eroding, with criticisms ranging from wasteful spending to political instability. A survey shows the current government's approval rating has dropped to 7%, down from 9% last October. Parliament, a pillar of democracy, is crucial for maintaining public trust. Efforts to restore this trust include dissolving Parliament and holding a general election, focusing on electing representatives who prioritize the people's interests, and improving parliamentary debates to be more productive and less divisive."
-
-🟩
-
-'People's Faith in Parliament' Breaded ': What happens if you go?
-
-The people's confidence in the functioning of the Parliament of Sri Lanka can be seen from a stake.
-
-For many years, many have been viewed, "parliament is a white elephant," and the opinions "do not be eliminated."
-
-These ideas show how the faithy is collapsed on the functioning of parliament among the people of Sri Lanka.
-
-In the meantime, some allege that it is a waste of Rs. 4 million for one day of Parliament.
-
-The new two new events that have a breakdown on parliament are the crisis that the COPE is the crisis on the COPE.
-
-Dilan Perera and Wimal Weerawansa addressed Parliament Thursday (March 21) that the no-confidence motion against the Speaker was defeated by the people.
-
-In 2019, Ranil Wickremesinghe was removed from the post of Prime Minister, obstructing the parliamentary assault in Parliament, had fallen into the public confidence in Parliament.
-
-...
-
-[Data](articles/7072cf2d.json)
-
-[Extended Data](ext_articles/7072cf2d.ext.json)
 
 ---

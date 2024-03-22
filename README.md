@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 08:17:46**
+As of **2024-03-22 08:33:34**
 
 ## Newspaper Stats
 
-*Scraped **14,454** Articles*
+*Scraped **14,457** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 133
-bbccomsinhala | 158
+bbccomsinhala | 159
 dbsjeyarajcom | 190
 newsfirstlk | 363
 economynextcom | 764
@@ -19,66 +19,108 @@ adalk | 1,246
 adaderanalk | 1,732
 tamilmirrorlk | 1,743
 virakesarilk | 2,028
-dailymirrorlk | 2,218
+dailymirrorlk | 2,220
 adaderanasinhalalk | 2,306
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,449 (100.0%) of 14,454 articles have been extended.
+14,454 (100.0%) of 14,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### ජනපති සහ බැසිල් අතර හමුවේදී සාකච්ඡා කළ දේ මෙන්න
+### Here's what discussions between President and Basil
 
 *2024-03-22 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194801) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ පොදුජන පෙරමුණේ නිර්මාතෘ, හිටපු අමාත්‍ය බැසිල් රාජපක්ෂ මහතා අතර හමුවක් ඊයේ (21) රාත්‍රියේ සිදුවී තිබේ.
+President Ranil Wickremesinghe and Basil Rajapaksa discussed the upcoming election and political matters. Basil announced the President's endorsement for the Sri Lanka General Front in the next election. However, no final agreement was reached, and there's internal party disagreement.
 
-එහිදී ජනාධිපතිවරණය, ඉදිරියේදී පැවැත්වීමට නියමිත සෙසු මැතිවරණ පිළිබඳ සහ දේශපාලන කටයුතු පිළිබඳව දෙපාර්ශ්වය අතර අදහස් හුවමාරුවී ඇත.
+🟩
 
-පළමුව ජනාධිපතිවරණය සඳහා සූදානම් වන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පසුගියදා පැවැති කැබිනට් රැස්වීමේදී අමාත්‍ය මණ්ඩලය දැනුවත් කිරීමෙන් අනතුරුව මෙම හමුව සිදුවීම විශේෂත්වයකි.
+President Ranil Wickremesinghe and the Founder of the President and the Communicate Fonseka met with former Minister Basil Rajapaksa yesterday.
 
-ඒ අනුව ඉදිරි මැතිවරණයන්ට අදාළ ශ්‍රී ලංකා පොදුජන පෙරමුණේ ස්ථාවරය බැසිල් රාජපක්ෂ මහතා විසින් ජනාධිපතිවරයා දැනුම්වත් කර ඇති බව දේශපාලන ආරංචි මාර්ග සඳහන් කළේය.
+The presidential election is exchanged between both parties on the upcoming fellow election and political matters.
 
-කෙසේවෙතත් මැතිවරණය පිළිබඳ මෙහිදී දෙපාර්ශ්වය අතර අවසන් එකඟතාවක් ඇතිවී නොමැති බැවින් ඉදිරියේදීත් ඒ සම්බන්ධයෙන් තවදුරටත් සාකච්ඡා කිරීමට තීරණය කර තිබේ.
+The meeting was a significant incident after President Ranil Wickremesinghe was informed at the Cabinet meeting held first as President Ranil Wickremesinghe was first prepared for the presidential election.
 
-මේ වනවිට ශ්‍රී ලංකා පොදුජන පෙරමුණේ මැති ඇමතිවරුන් අතර  ජනාධිපතිරණය සම්බන්ධයෙන් මත දෙකක් පැවතීම හේතුවෙන් පක්ෂ අභ්‍යන්තරයේ අර්බුදයක් නිර්මාණයවී ඇති බවද වාර්තා වෙයි.
+Accordingly, Basil Rajapaksa has announced that the President has informed the Sri Lanka General Front to the next election.
 
-...
+However, it has been no longer a final agreement between the two sides have not been held in the future as it has been reported.
+
+It is reported that there is two opinion in the party, as the ministers of the Sri Lanka General Front is two of the Presidential Ministers.
+
+The party spokesman said that everyone would be able to file a wide discussion over the election with the president again.
+
+◼️
 
 [Data](articles/dba68752.json)
 
+[Extended Data](ext_articles/dba68752.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා - බංග්ලාදේශ පළමු ටෙස්ට් තරගය අද
+### Sri Lanka - Bangladesh first Test match today
 
 *2024-03-22 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194800) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර පළමු ටෙස්ට් ක්‍රිකට් තරගය අද (22) පැවැත්වෙයි.
+Sri Lanka vs Bangladesh Test match starts today. Dananjaya de Silva confirms team's pitch awareness.
 
-කණ්ඩායමේ ක්‍රීඩකයින් ටෙස්ට් තරගය සඳහා වූ තණතීරුව පිළිබඳ නිසි අවබෝධයකින් පසුවන බව ශ්‍රී ලංකා ටෙස්ට් නායක ධනංජය ද සිල්වා පැවසීය.
+🟩
+
+The first Test match between the Tourism Sri Lanka and Bangladesh will be held today.
+
+Sri Lanka Test leader Dananjaya de Silva said that the team's players are aware of the pitch for Test match.
 
 ◼️
 
 [Data](articles/4222960d.json)
 
+[Extended Data](ext_articles/4222960d.ext.json)
+
 ---
 
-### ඔත්තු දුන්නොත් පොලීසියෙන් මුදල් තෑගි
+### As predicted, rainfall covers most parts of island
+
+*2024-03-22 07:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/As-predicted-rainfall-covers-most-parts-of-island/108-279370) · `en`
+
+Colombo, March 22 (Daily Mirror) - As forecasted by the National Meteorological Centre's forecasting division, many areas across the island experienced showers following a change in the prevailing dry weather.
+
+Duty Meteorologist Chaminda de Silva, attached to the Meteorological Centre, told the Daily Mirror that showers were experienced in most areas of the island, including the South-western, Eastern, Uva, Northern, North-eastern, and North-central provinces.
+
+Areas not mentioned above may have also received showers, but comprehensive rainfall details will be announced today.
+
+Meanwhile, showers had been reported in the South-western region of the country.
+
+Following the showers, the heatwave situation abated, and individuals reported feeling cooler winds alongside rain.
+
+However, misty conditions were seen in certain areas of the Sabaragamuwa and Central provinces, as well as in the Galle and Matara districts during the morning hours.
+
+◼️
+
+[Data](articles/0323e6e5.json)
+
+---
+
+### If spying, the police gifts
 
 *2024-03-22 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194799) · `si`
 
-සංවිධානාත්මක අපරාධවල සහ මත්ද්‍රව්‍ය ජාවාරම්වල යෙදෙන පුද්ගලයන් භාවිත කරනු ලබන ගිනිඅවි සම්බන්ධයෙන් තොරතුරු දෙන පුද්ගලයන්ට මුදල් ත්‍යාග ලබාදීමට තීරණය කර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිතීඥ නිහාල් තල්දූව මහතා පවසයි.
+The Police Media Spokesperson, DIG Nihal, offers cash rewards for reporting firearms linked to organized crime and drug trafficking.
 
-T56 ගිනිඅවියක් සමග සැකකරුවකු අත්අඩංගුවට ගැනීමට අවශ්‍ය තොරතුරු ලබාදෙන අයෙකුට රුපියල් ලක්ෂ 05ක මුදලක් මෙන්ම තවත් වර්ගීකරණ කිහිපයකට යටත්ව මුදල් ත්‍යාග ලබාදීමට පොලිස්පතිවරයා උපදෙස් ලබාදී ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+🟩
+
+Police Media Spokesperson DIG, Nihal, Nihal Talduuwa has decided to provide cash prizes to persons who are informed about firearms using organized crime and drug trafficking.
+
+The Police Media Spokesperson stated that the Inspector General of Police (IGP) has instructed a person who provides information to a suspect with a T56 firearm.
 
 ◼️
 
 [Data](articles/2b492bfb.json)
+
+[Extended Data](ext_articles/2b492bfb.ext.json)
 
 ---
 
@@ -380,6 +422,8 @@ The newly unveiled laptops included the new Zenbook 14 OLED (UX3405) premium ult
 
 [Data](articles/d9a9794c.json)
 
+[Extended Data](ext_articles/d9a9794c.ext.json)
+
 ---
 
 ### EFC advocates for a more inclusive workplace for women
@@ -624,21 +668,45 @@ The Sri Lanka Association of Software and Service Companies (SLASSCOM) recently 
 
 ---
 
-### போராட்டக்காரர்களின் உடல்நிலை பாதிப்பு
+### Mid 2024 will be a turning point for Sri Lanka’s economy, says Ranil
+
+*2024-03-22 04:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mid-2024-will-be-a-turning-point-for-Sri-Lankas-economy-says-Ranil/108-279351) · `en`
+
+Mid this year will be the turning point for Sri Lanka’s economy, according to President Ranil Wickremesinghe, as from then on the island nation will have opportunities for further progress.
+
+“Looking ahead, we have opportunities for further progress after June,” Wickremesinghe said this week.
+
+He added the rupee, which has been strengthening, is expected to reach Rs.280 against US$ by June, leading to a decrease in the prices of goods.
+
+While noting that ongoing hardships will continue for another three years, Sri Lanka reaching the final stage of the government’s programme aimed at steering the country away from bankruptcy, is a key achievement, he said.
+
+...
+
+[Data](articles/c187f2a4.json)
+
+---
+
+### The health impact of the protesters
 
 *2024-03-22 03:34:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராட்டக்காரர்களின்-உடல்நிலை-பாதிப்பு/175-335004) · `ta`
 
-இந்திய மீனவர்களின் அத்துமீறலைக் கண்டித்து யாழ்ப்பாணத்தில் உணவு தவிப்புப் போராட்டத்தில் ஈடுபடும் 4 பேரின் உடலில் நீரின் அளவு குறைவடைந்து வருகின்றது என்று அவர்களைப் பரிசோதித்த வைத்தியர் எச்சரிக்கை விடுத்துள்ளார்.
+Four fishermen in Jaffna protested against Indian fishermen in Kudab, leading to a food strike. Doctors warned of decreased body water levels due to fatigue.
 
-யாழ். குடாப் பரப்பில் அத்துமீறி மீன்பிடியில் ஈடுபடும் இந்திய மீனவர்களின் செயற்பாடுகளை நிறுத்துமாறு கோரி கடந்த செவ்வாய்க்கிழமை நான்கு மீனவர்கள் யாழ். இந்தியத் துணை தூதரகத்துக்குச் செல்லும் வாயிலில் உணவு தவிர்ப்புப் போராட்டத்தை ஆரம்பித்தனர்.
+🟩
 
-நேற்று மாலை போராட்டத்தில் ஈடுபடும் மீனவர்களின் உடல் சோர்வடைந்த நிலையில் குறித்த இடத்துக்கு வைத்தியர் வரவழைக்கப்பட்டு உடல் நிலை தொடர்பில் பரிசோதிக்கப்பட்டது.
+The doctors who examined them have warned that water levels are decreasing in the body of four people who are engaged in a food struggle in Jaffna, condemning the violation of Indian fishermen.
 
-மேற்படி நால்வரையும் பரிசோதித்த வைத்தியர், மீனவர்களின் உடலில் நீரின் அளவு குறைவடைந்து செல்வதால் சோர்வு ஏற்படுகின்ற நிலையில் நீரை அதிகளவு அருந்துமாறு கோரிக்கை விடுத்தார். (a)
+Yall. Four fishermen in Jaffna last Tuesday demanding the stopping of the activities of Indian fishermen who are engaged in fishing in the Kudab area.. They launched a food avoidance struggle at the gate to the Indian consulate.
+
+Yesterday evening, the body of the fishermen who were involved in the protest were tired and the doctor was summoned to the place and examined the physical condition.
+
+The doctor, who examined all the four, demanded that the water in the body of the fishermen decrease in water as it is fatigue.. (A)
 
 ◼️
 
 [Data](articles/74ae41da.json)
+
+[Extended Data](ext_articles/74ae41da.ext.json)
 
 ---
 
@@ -685,6 +753,26 @@ Similarly, 7 fishermen arrested in the Mannar seas have been kept in remand unti
 [Data](articles/b2c481da.json)
 
 [Extended Data](ext_articles/b2c481da.ext.json)
+
+---
+
+### 'මගේ ආසාව අනාගත පරම්පරාවට ලංකාවේ ඉතිහාසය පෙන්වන්න.'
+
+*2024-03-22 02:21:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51m9rzd47do) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''මේකට එන දේශීය හෝ විදේශීය සංචාරකයන්ගේ මම සතයක්වත් අය කරන්නේ නෑ.'' යනුවෙන්  අමීන් හුසේන් BBC සිංහල සේවයට පැවසුවේය.
+
+සංචාරක පාරාදීසයක් වූ ගාලු කොටුව තුළ දෙස් විදෙස් සංචාරකයන්ට නොමිලේ නැරඹිය හැකි කෞතුකාගාරයක් තිබේ.
+
+පුද්ගලික කෞතුක භාණ්ඩ එකතුවක් ලෙස එය පවත්වාගෙන යනු ලබන්නේ ව්‍යාපාරිකයෙකු වන අමීන් හුසේන් විසිනි.
+
+1992 දී ඔහුගේ පියා විසින් මෙම කෞතුකාගාරය ආරම්භ කළ අතර යටත් විජිත යුගයේ මෙන්ම ඊට පෙර කාලයට අයත් ඉපැරණි දේවල් මෙහි ප්‍රදර්ශනයට තබා ඇත.
+
+''මම හිතනවා මෙතන තියෙන සමහර දේවල් ලෝකේ මං ළඟ විතරයි තියෙන්නේ කියලා. මගේ ආසාව තියෙන්නේ ඉදිරි පරම්පරාවට ලංකාවේ ඉතිහාසය පෙන්වන්න. මේකට එන දේශීය හෝ විදේශීය සංචාරකයන්ගේ මම සතයක්වත් අය කරන්නේ නෑ.'' යනුවෙන්  අමීන් හුසේන් BBC සිංහල සේවයට පැවසුවේය.
+
+◼️
+
+[Data](articles/cf23ad21.json)
 
 ---
 
@@ -2051,73 +2139,5 @@ Inspector General of Police, Special Attributors and Criminal Investigations of 
 [Data](articles/1886e2ba.json)
 
 [Extended Data](ext_articles/1886e2ba.ext.json)
-
----
-
-### 22 sports schools are off for five years
-
-*2024-03-21 15:53:40* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රීඩා-පාසල්-22-ක්-වසර-පහක්-තිස්සේ-අක්‍රීයයි/11-408744) · `si`
-
-The National Audit Office found that the Ministry of Education failed to implement its goal of producing sports stars, leading to the closure of 22 sports schools for five years. This resulted in the withdrawal of 293 sports scholar students and unused sports equipment. The report highlighted management weaknesses, improper training, and the failure to achieve the intended goals of sports schools, including issues with sports scholarships.
-
-🟩
-
-The National Audit office reveals that the Ministry of Education has not been implemented by the Ministry of Education with the objective of producing sportswomen and international sportsmen.
-
-As a result of this, 293 sports scholars-in-school scholars' scholars have been withdrawn from these schools and the sports equipment in the sports schools are not used.
-
-In 1989, they have not implemented the intended goals.
-
-As a result, such schools are hostel, sports equipment and bodybuilding equipment etc.
-
-The sports scholarships included in management weaknesses, not proper training and the implementation of sports schools.
-
-...
-
-[Data](articles/e1152f4e.json)
-
-[Extended Data](ext_articles/e1152f4e.ext.json)
-
----
-
-### Four LTTE cadres remanded for Duminda
-
-*2024-03-21 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194781) · `si`
-
-Four LTTE cadres, including Duminda Nagamuwa and Lahiru Weerasekera, were remanded in custody by Fort Magistrate Thilina Gamage until tomorrow for their involvement in an elephant protest.
-
-🟩
-
-Four arrested for elephants were remanded during the protest held by the People's Struggle Movement yesterday.
-
-The remanded is so custody Duminda Nagamuwa, Lahiru Weerasekera, Ratharawawe.
-
-Fort Magistrate Thilina Gamage has ordered to be remanded until tomorrow (22) to be remanded and submitted to a parade.
-
-◼️
-
-[Data](articles/114eff5e.json)
-
-[Extended Data](ext_articles/114eff5e.ext.json)
-
----
-
-### 42 people killed in clashes in Chad
-
-*2024-03-21 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179343) · `ta`
-
-42 killed in Chad clashes between communities, sparked by conflicts between crops and livestock farmers.
-
-🟩
-
-At least 42 people have been killed in clashes between the two communities in the African country of 'Chad', the country's public security ministry said today.
-
-But there is frequent conflict between crops and livestock farmers and other groups in the region.(Deposit image)
-
-◼️
-
-[Data](articles/737e43de.json)
-
-[Extended Data](ext_articles/737e43de.ext.json)
 
 ---

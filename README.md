@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 21:18:00**
+As of **2024-03-22 21:34:53**
 
 ## Newspaper Stats
 
-*Scraped **14,603** Articles*
+*Scraped **14,604** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,58 @@ adalk | 1,257
 adaderanalk | 1,749
 tamilmirrorlk | 1,756
 virakesarilk | 2,060
-dailymirrorlk | 2,246
+dailymirrorlk | 2,247
 adaderanasinhalalk | 2,332
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,601 (100.0%) of 14,603 articles have been extended.
+14,603 (100.0%) of 14,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### වෙළෙඳ භාණ්ඩ අපනයනයේ සුළු වර්ධනයක්
+### Specialists ring alarm bells over rapid spread of Tinea skin infection
+
+*2024-03-22 21:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Specialists-ring-alarm-bells-over-rapid-spread-of-Tinea-skin-infection/108-279414) · `en`
+
+Colombo, March 22 (Daily Mirror) - Dermatologists in Sri Lanka have issued a warning regarding the rapid spread of Tinea infections, a contagious skin disease affecting both adults and children across the nation.
+
+According to Dr. Janaka Akarawita, a prominent dermatologist at the National Hospital, Colombo the incidence of Tinea infections is on the rise, manifesting primarily through symptoms such as itching and the development of scaly rashes resembling rings on the skin.
+
+In a media briefing, Dr. Akarawita emphasized that the infection predominantly occurs in the body areas prone to sweating, including the armpits, feet and scalp and can easily spread through direct contact, potentially affecting colleagues and family members.
+
+Meanwhile, Dr. Indira Kahawita, another experienced dermatologist, stressed the importance of seeking timely medical intervention for effective management of the disease.
+
+...
+
+[Data](articles/f2882344.json)
+
+---
+
+### Minor growth in exports of commodity
 
 *2024-03-22 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194828) · `si`
 
-2024 පෙබරවාරි මාසයේ වෙළෙඳ භාණ්ඩ අපනයනයේ සුළු වර්ධනයක් සිදුව ඇතැයි ශ්‍රී ලංකා මහ බැංකුව පෙන්වා දෙයි.
+In February 2024, Sri Lanka's commodity exports grew by 0.17% from February 2023, reaching $983.7M. Agricultural exports saw a 11.82% increase to $255.76M.
 
-වෙළෙඳ භාණ්ඩ අපනයනය අමෙරිකානු ඩොලර් මිලියන 983.7ක් වූ අතර, එය 2023 පෙබරවාරි මාසයට සාපේක්ෂව 0.17%ක සාමාන්‍ය වර්ධනයක් වාර්තා කර තිබේ.
+🟩
 
-එමෙන්ම 2024 පෙබරවාරි මාසයේ අපනයන කාර්ය සාධනය, 2024 ජනවාරි මාසයට සාපේක්ෂව 1.3% කින් වැඩි වී ඇති බව ද ශ්‍රී ලංකා මහ බැංකුව නිවේදනය කරයි.
+The Central Bank of Sri Lanka (SLBA) points out that merchandise exports in February 2024 had increased.
 
-2023 පෙබරවාරි මාසයට සාපේක්ෂව, කෘෂිකාර්මික අපනයන 11.82%ක සැලකිය යුතු වර්ධනයක් පෙන්නුම් කළ අතර,  අමෙරිකානු ඩොලර් මිලියන 255.76 දක්වා ළඟා විය.
+Exports of commodities were US $ 983.7 million, a general growth of 0.17% compared to February 2023.
+
+Export performance in February 2024 increased by 1.3% compared to January 2024 compared to January 2024.
+
+As compared to February, 2023, agricultural exports increased significantly to 11.82% significant growth and reached US $ 255.76 million.
 
 ◼️
 
 [Data](articles/aefcaae0.json)
+
+[Extended Data](ext_articles/aefcaae0.ext.json)
 
 ---
 
@@ -349,6 +373,8 @@ Colombo, March 22 (Daily Mirror) - Former President Maithripala Sirisena today d
 ◼️
 
 [Data](articles/5d495712.json)
+
+[Extended Data](ext_articles/5d495712.ext.json)
 
 ---
 
@@ -2269,35 +2295,5 @@ As many as 17 countries that have extended loans to Sri Lanka formed the Committ
 [Data](articles/e4ea3573.json)
 
 [Extended Data](ext_articles/e4ea3573.ext.json)
-
----
-
-### Can Poson celebrate the festival in the day?- Charles Nirmalanathan question
-
-*2024-03-22 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179385) · `ta`
-
-Charles Nirmalanathan, TNA MP, questioned police's permission for Buddhist Poson Day, citing inconsistency with Hindu Shivaratri. Despite court approval for Shivaratri at Adilingeswarar Temple, police denied permission. Nirmalanathan argued against police anarchy, while Justice Minister Wijeyadasa Rajapakse defended the decision, stating the issue was resolved within two hours.
-
-🟩
-
-Tamil National Alliance (TNA) parliamentarian Charles Nirmalanathan questioned whether the police could hold the Buddhist Poson Day in the daytime, as the police say to hold the Hindus Shivaratri in the daytime.
-
-He said this while addressing the third day debate on the no -confidence motion against the Speaker held in Parliament on Thursday (21).
-
-The police refused permission even when the court had allowed the Hindus to observe Shivaratri at the Adilingeswarar Temple at the Attukkunnarimalai.
-
-If the rituals are damaged, the police must have seen the damage to them without being damaged if they are damaged.. As well as the Shiva Temple. So the Hindus will not damage their temple.
-
-Minister of Justice Wijeyadasa Rajapakse, who intervened, said that when you brought this issue to Parliament, we settled within two hours.
-
-So why are you talking about again.
-
-Charles Nirmalanathan, who got up again, said that such a police anarchy should not happen again.
-
-...
-
-[Data](articles/6a80742b.json)
-
-[Extended Data](ext_articles/6a80742b.ext.json)
 
 ---

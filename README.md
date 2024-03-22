@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 17:02:53**
+As of **2024-03-22 17:17:53**
 
 ## Newspaper Stats
 
-*Scraped **14,576** Articles*
+*Scraped **14,578** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 133
+colombotelegraphcom | 134
 bbccomsinhala | 161
 dbsjeyarajcom | 190
 newsfirstlk | 363
@@ -17,7 +17,7 @@ economynextcom | 782
 islandlk | 797
 adalk | 1,254
 adaderanalk | 1,745
-tamilmirrorlk | 1,754
+tamilmirrorlk | 1,755
 virakesarilk | 2,060
 dailymirrorlk | 2,235
 adaderanasinhalalk | 2,326
@@ -26,11 +26,81 @@ adaderanasinhalalk | 2,326
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,576 (100.0%) of 14,576 articles have been extended.
+14,576 (100.0%) of 14,578 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### 100 ஆண்டுகளுக்குப் பிறகு வரும் சந்திர கிரகணம்
+
+*2024-03-22 16:56:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-ஆண்டுகளுக்குப்-பிறகு-வரும்-சந்திர-கிரகணம்/175-335023) · `ta`
+
+2024ஆம் ஆண்டின் முதல் சந்திர கிரகணம் இன்னும் 4 நாட்களில் அதாவது மார்ச் 25ஆம் திகதி நிகழப் போகிறது.
+
+இந்த நாளில் தான் பங்குனி உத்திரம் பண்டிகையாகும், மேலும் இதே நாளில் தான் ஹோலி பண்டிகையும் கொண்டாடப்படிகிறது. எனவே இந்த சந்திர கிரகணம் நிகழ்வானது 100 ஆண்டுகளுக்கு பின் நிகழ்கிறது.
+
+வேத ஜோதிட சாஸ்திரப்படி, 100 ஆண்டுகளுக்குப் பிறகு ஹோலி பண்டிகை பங்குனி உத்திரம் நாளில் சந்திர கிரகணம் ஏற்படவது மிகவும் முக்கியம் வாய்ந்த நிகழ்வாகப் பார்க்கப்படுகிறது.
+
+அந்த வகையில் இந்த சந்திர கிரகணமானது காலை 10.23 மணிக்கு தொடங்கி மாலை 03.02 மணி வரை நீடிக்கும். முன்னதாக இந்த சந்திர கிரகணம் 1924 ஆம் ஆண்டு நிகழ்ந்தது. இந்த ஆண்டின் முதல் சந்திர கிரகணம் பெனும்பிரல் சந்திர கிரகணமாக இருக்கும், இது சுமார் 4 மணி நேரம் நீடிக்கும்.
+
+ஹோலி மற்றும் சந்திர கிரகணம் இரண்டும் ஒரே நாளில் ஏற்பட உள்ளதால், அதன் பலன் சில ராசிக்காரர்களுக்கு சுபமாக இருக்கும். அதுமட்டுமின்றி இந்த சந்திர கிரகணம் பங்குனி மாதம் உத்திரம் நட்சத்திரத்தில் நிகழப்போகிறது.
+
+...
+
+[Data](articles/471a4eca.json)
+
+---
+
+### 234 acres of land in Jaffna
+
+*2024-03-22 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179429) · `ta`
+
+President Ranil Wickremesinghe handed over 234 acres of land in Jaffna to farmers for cultivation, part of the Urumaya National Program issuing 2 million land guarantees, including 408 in Jaffna.
+
+🟩
+
+Yall. President Ranil Wickremesinghe has been handed over to the farmers for cultivation on Thursday (22).
+
+Under the Urumaya National Program to issue 2 million land guarantees, 408 land guarantees were held at the Jaffna camel, headed by President Ranil Wickremesinghe.
+
+◼️
+
+[Data](articles/1443c80c.json)
+
+[Extended Data](ext_articles/1443c80c.ext.json)
+
+---
+
+### Prabhu Deva's 'Muzasi' movie
+
+*2024-03-22 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/179378) · `ta`
+
+"Prabhu Deva's 'Muzasi' movie features 'Starlite' song by Leander Lee Marty, with Prabhu Deva, VTV Ganesh, John Vijay, and others. Directed by Sham Rodrigue, produced by Joy Film Box Entertainment, the film highlights Prabhu Deva's dance, attracting attention for its unique blend of Konnakol and Bharatanatyam."
+
+🟩
+
+The song 'Starlite ..' from the upcoming movie 'Musasi' starring Prabhu Deva has been released.
+
+Prabhu Deva, VTV Ganesh, John Vijay, Master Mahendran, Binu Pappu, Lyona Leisai, directed by debutant director Sham Rodrigue.
+
+Leander Lee Marty has composed the film, which has been recorded by Vignesh Vasu. The film is being produced by Joy Film Box Entertainment, produced by John Brito, which is being prepared in Exan Entertainer Janer.
+
+The song 'Sterlite Clampu Clampu ..' featured in the film has been released.
+
+The song was written by songwriters Vignesh Jayapal, Sham Rodrigue, Avian and Lee, and the playback singers Lee, Christopher Stanley, Silvi Saran, Saru Hariharan and Avian.
+
+Prabhu Deva's dance, 'Michael Jackson of India' in this song, is re -youth.. The attention of dance lovers is attracted.
+
+The song, which is also the rhythm of the top music, has attracted everyone's attention because Konnakol is featured and Prabhu Deva Bharatanatyam is different.
+
+◼️
+
+[Data](articles/a93a6020.json)
+
+[Extended Data](ext_articles/a93a6020.ext.json)
+
+---
 
 ### Resurrection Sundays - Maithri says the truth is ready
 
@@ -567,26 +637,6 @@ The department also said that the temperature has risen abnormally at this time.
 [Data](articles/5b1f2a74.json)
 
 [Extended Data](ext_articles/5b1f2a74.ext.json)
-
----
-
-### 234 acres of land in Jaffna
-
-*2024-03-22 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179429) · `ta`
-
-President Ranil Wickremesinghe handed over 234 acres of land in Jaffna to farmers for cultivation, part of the Urumaya National Program issuing 2 million land guarantees, including 408 in Jaffna.
-
-🟩
-
-Yall. President Ranil Wickremesinghe has been handed over to the farmers for cultivation on Thursday (22).
-
-Under the Urumaya National Program to issue 2 million land guarantees, 408 land guarantees were held at the Jaffna camel, headed by President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/1443c80c.json)
-
-[Extended Data](ext_articles/1443c80c.ext.json)
 
 ---
 
@@ -1346,6 +1396,16 @@ The decisive action taken by Brazil's justice system has been praised by many on
 
 ---
 
+### The Tamil Nadu Factor
+
+*2024-03-22 11:23:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-tamil-nadu-factor/) · `en`
+
+...
+
+[Data](articles/23fe8c2b.json)
+
+---
+
 ### 5 more of the People's Struggle Movement remanded again
 
 *2024-03-22 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194810) · `si`
@@ -1998,36 +2058,6 @@ In addition, as many as 46 contact numbers were also introduced for the members 
 
 ---
 
-### Prabhu Deva's 'Muzasi' movie
-
-*2024-03-22 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179378) · `ta`
-
-"Prabhu Deva's 'Muzasi' movie features 'Starlite' song by Leander Lee Marty, with Prabhu Deva, VTV Ganesh, John Vijay, and others. Directed by Sham Rodrigue, produced by Joy Film Box Entertainment, the film highlights Prabhu Deva's dance, attracting attention for its unique blend of Konnakol and Bharatanatyam."
-
-🟩
-
-The song 'Starlite ..' from the upcoming movie 'Musasi' starring Prabhu Deva has been released.
-
-Prabhu Deva, VTV Ganesh, John Vijay, Master Mahendran, Binu Pappu, Lyona Leisai, directed by debutant director Sham Rodrigue.
-
-Leander Lee Marty has composed the film, which has been recorded by Vignesh Vasu. The film is being produced by Joy Film Box Entertainment, produced by John Brito, which is being prepared in Exan Entertainer Janer.
-
-The song 'Sterlite Clampu Clampu ..' featured in the film has been released.
-
-The song was written by songwriters Vignesh Jayapal, Sham Rodrigue, Avian and Lee, and the playback singers Lee, Christopher Stanley, Silvi Saran, Saru Hariharan and Avian.
-
-Prabhu Deva's dance, 'Michael Jackson of India' in this song, is re -youth.. The attention of dance lovers is attracted.
-
-The song, which is also the rhythm of the top music, has attracted everyone's attention because Konnakol is featured and Prabhu Deva Bharatanatyam is different.
-
-◼️
-
-[Data](articles/a93a6020.json)
-
-[Extended Data](ext_articles/a93a6020.ext.json)
-
----
-
 ### Delhi Chief Minister Arvind Kejriwal arrested
 
 *2024-03-22 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179381) · `ta`
@@ -2277,47 +2307,5 @@ The party spokesman said that everyone would be able to file a wide discussion o
 [Data](articles/dba68752.json)
 
 [Extended Data](ext_articles/dba68752.ext.json)
-
----
-
-### Sri Lanka - Bangladesh first Test match today
-
-*2024-03-22 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194800) · `si`
-
-Sri Lanka vs Bangladesh Test match starts today. Dananjaya de Silva confirms team's pitch awareness.
-
-🟩
-
-The first Test match between the Tourism Sri Lanka and Bangladesh will be held today.
-
-Sri Lanka Test leader Dananjaya de Silva said that the team's players are aware of the pitch for Test match.
-
-◼️
-
-[Data](articles/4222960d.json)
-
-[Extended Data](ext_articles/4222960d.ext.json)
-
----
-
-### IMF urges Sri Lanka public finance law, debt progress to complete review
-
-*2024-03-22 07:31:00* · [`economynextcom`](https://economynext.com/imf-urges-sri-lanka-public-finance-law-debt-progress-to-complete-review-155668/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund is waiting for the government to complete some reforms including a Public Financial Management Law to complete a review, Senior Mission Chief Peter Breuer said.
-
-“Some reforms are still ongoing.  The public financial management bill is something that we have been engaged with the authorities,” Bruer said.
-
-“So this is, for example, something that we are paying close attention to.”
-
-Most structural benchmarks due before the end of February were either met or implemented with delay, the IMF said.
-
-Sri Lanka has had a frontloaded reform program under an Extended Fund Facility, requiring many laws to be passed, including multiple actions under a corruption diagnostic report.
-
-...
-
-[Data](articles/098d6d6c.json)
-
-[Extended Data](ext_articles/098d6d6c.ext.json)
 
 ---

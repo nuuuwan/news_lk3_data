@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 16:33:33**
+As of **2024-03-22 16:48:52**
 
 ## Newspaper Stats
 
-*Scraped **14,571** Articles*
+*Scraped **14,576** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,100 @@ newsfirstlk | 363
 dailyftlk | 776
 economynextcom | 782
 islandlk | 797
-adalk | 1,253
-adaderanalk | 1,743
+adalk | 1,254
+adaderanalk | 1,745
 tamilmirrorlk | 1,754
-virakesarilk | 2,059
+virakesarilk | 2,060
 dailymirrorlk | 2,235
-adaderanasinhalalk | 2,325
+adaderanasinhalalk | 2,326
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,570 (100.0%) of 14,571 articles have been extended.
+14,571 (100.0%) of 14,576 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### உயிர்த்த ஞாயிறுதாக்குதல்சூத்திரதாரிகள்  - உண்மையை வெளியிட தயார் என்கின்றார் மைத்திரி
+
+*2024-03-22 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179446) · `ta`
+
+உயிர்த்த ஞாயிறுதாக்குதலை முன்னெடுத்தவர்கள் குறித்த விபரங்கள் தனக்கு தெரியும் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்துள்ளார்.
+
+நீதிமன்றம் உத்தரவிட்டலோ அல்லது வேறு வேண்டுகோள்கள் விடுக்கப்பட்டாலோ உண்மையை வெளியிட தயார்  என முன்னாள் ஜனாதிபதி  தெரிவித்துள்ளார்.
+
+உயிர்த்த ஞாயிறு தாக்குதலின் உண்மையான சூத்திரதாரிகள் குறித்த விபரங்களை எவரும் இதுவரை வெளியிடவில்லை நான்  இந்த விபரங்களை வெளியிடதயார் என அவர் தெரிவித்துள்ளார்
+
+எனினும் இந்த விடயங்கள் குறித்த இரகசியதன்மையை நீதிபதிகள் இறுக்கமாக பேணவேண்டும் எனவும் அவர் தெரிவித்துள்ளார்
+
+◼️
+
+[Data](articles/16e5a852.json)
+
+---
+
+### Met. Dept. forecasts rainfall of above 75mm for next 36 hours
+
+*2024-03-22 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98131/met-dept-forecasts-rainfall-of-above-75mm-for-next-36-hours) · `en`
+
+The Department of Meteorology says showers or thundershowers are possible at times in the Eastern and Uva provinces and Hambantota District over the next 36 hours.
+
+Several spells of showers may occur in North-central and Northern provinces. Showers or thundershowers will occur at several places elsewhere on the island in the afternoon or at night.
+
+Meanwhile, fairly heavy showers of above 75mm are likely at some places in Western, Sabaragamuwa, Central and North-western Provinces.
+
+Misty conditions can be expected at some places in the Central, Sabaragamuwa and Uva provinces and Galle and Matara districts in the morning.
+
+The members of the public are advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/6ddc58ca.json)
+
+---
+
+### 10 more underworld figures arrested within 24-hours
+
+*2024-03-22 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98130/10-more-underworld-figures-arrested-within-24-hours) · `en`
+
+Police have arrested 10 more members of organized criminal gangs within a 24-hour window, under the operation launched earlier this week to curb the underworld.
+
+The arrested suspects include 02 members of the gang led by notorious criminal “Kudu Anju”, 02 associates of “Dematagoda Chaminda”, one member of “Kanjipani Imran’s” syndicate and a member of the criminal gang of “Kosgoda Sujee”.
+
+Accordingly, a total of 27 suspects have been arrested in the 03 days since the start of the anti-underworld operation, the police said.
+
+◼️
+
+[Data](articles/96e0557e.json)
+
+---
+
+### කැනඩාවේ තාවකාලික පදනම මත ඉන්න අයට රතු එළියක්
+
+*2024-03-22 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194822) · `si`
+
+තාවකාලික පදනම මත තම රට තුළ ජීවත් වන පිරිස අඩු කිරීමට කැනඩාව තීරණය කර ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+එසේම තාවකාලිකව කැනඩාවේ පදිංචිව සඳහා පැමිණෙන පිරිස ඉතිහාසයේ පළමු වතාවට සීමා කිරීමට එරට රජය සැලසුම් කර තිබේ.
+
+කැනඩාවේ සංක්‍රමණික කටයුතු පිළිබඳ අමාත්‍ය මාක් මිලර් ඊයේ (21) මේ සම්බන්ධයෙන් අදහස් දක්වමින් පවසා ඇත්තේ එළැඹෙන වසර තුන ඇතුළත සංක්‍රමණිකයන්ගේ සංඛ්‍යාව අඩු කිරීමට කටයුතු කරන බවත් එහි පළමු සීමා කිරීම සැප්තැම්බර් මාසයේ දී ආරම්භ කරන බවත්ය.
+
+ඔවුන් මෙම තීරණය ගෙන ඇත්තේ නිවාස හිඟයට පිළියමක් ලෙස සහ අත්‍යවශ්‍ය සේවා සැපයීමේදී මතුව ඇති ගැටලු සමනය කර ගැනීමටත් බව සඳහන් ය.
+
+විශේෂයෙන්ම සමහර ප්‍රාන්ත වල ජනගහණය වැඩිවීම හේතුවෙන් සෞඛ්‍ය සහ අධ්‍යාපන ක්ෂේත්‍රවල දැඩි අර්බුද මතුව ඇති බව වාර්තා වෙයි.
+
+2023 වසර වනවිට කැනඩාව තුළ තාවකාලික පදනම මත මිලියන 2.5ක පිරිසක් ජීවත් වෙමින් සිට ඇති අතර ඉන් 20%ක් පමණ අඩු කිරීමට බලධාරීන් සැලසුම් කරයි.
+
+එම සීමා කිරීම් ජාත්‍යන්තර සිසුන්ට සහ විදෙස් සේවකයින්ට මෙන්ම සරණාගතයින්ට ද අදාළ බව ඔහු පවසා ඇත.
+
+...
+
+[Data](articles/02e4f628.json)
+
+---
 
 ### Minister Douglas pledged food avoidance struggle to abandon!
 
@@ -66,17 +144,23 @@ Therefore, when the Indian side showed favorable signals, I will stand up for th
 
 ---
 
-### පාස්කු ප්‍රහාරය කවුද කළේ කියලා ඇත්තටම මම දන්නවා...-මෛත්‍රී
+### I really know who did the Passover attack ...- Maithri
 
 *2024-03-22 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194821) · `si`
 
-අධිකරණයකින් නියෝග කරන්නේ නම් හෝ විමසන්නේ නම් පාස්කු ප්‍රහාරයට සම්බන්ධ හා වගකිවයුතු සියලුදෙනා පිළිබඳ තොරතුරු හෙළි කිරීමට තමා සූදානම් බව හිටපු ජනාධිපති පාර්ලිමේන්තු මන්ත්‍රී මෛත්‍රිපාල සිරිසේන මහතා පවසයි.
+Maithripala Sirisena claims to know who orchestrated the Passover attack, offering to reveal information if ordered by the judiciary. He criticizes the handling of the 19th Amendment and the Passover attack, blaming both government and opposition.
 
-අස්ගිරි මහා විහාර ඓතිහාසික ගෙඩිගේ රජමහා විහාර නව ධර්ම මන්දිරය විවෘත කිරීමේ අවස්ථාවට ප්‍රධාන ආරාධිත වශයෙන් අද (22) දින එක් වූ ඒ මහතා මාධ්‍යයට අදහස් පළ කරමින් මේ බව කියා සිටියේය.
+🟩
+
+Former Presidentials MP Maithripala Sirisena says he is ready to reveal information about the Passover attack and all those responsible for the Passover attack and all those responsible if they are ordered.
+
+He was the chief guest at the opening of the new mansion of the historical temple of the King of the Asgiriya Maha Vihara.
 
 ...
 
 [Data](articles/12bce114.json)
+
+[Extended Data](ext_articles/12bce114.ext.json)
 
 ---
 
@@ -231,6 +315,24 @@ Kummindu Mendis and Leader Dhananjaya de Silva took the innings in Sri Lanka.
 [Data](articles/e2474650.json)
 
 [Extended Data](ext_articles/e2474650.ext.json)
+
+---
+
+### අවුරුදු 14 ලිංගික හැසිරීමට සුදර්ශනිී විරුද්ධ වෙයි
+
+*2024-03-22 15:08:58* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-14-ලිංගික-හැසිරීමට-සුදර්ශනිී-විරුද්ධ-වෙයි/11-408758) · `si`
+
+දණ්ඩනීති සංග්‍රහයේ 19 පරිච්ඡේදයට ගෙන ඒමට නියමිත සංශෝධන වහා අත්හිටුවන්න - පාර්ලිමේන්තු මන්ත්‍රීවරියන්ගේ සංසදය අධිකරණ අමාත්‍යවරයාගෙන් ඉල්ලයි.
+
+දණ්ඩ නීති සංග්‍රහයේ 19 වන පරිච්ජේදය සංශෝධනය කිරීම සඳහා 2024 පෙබරවාරි 09 වැනි දින ගැසට් කොට ඇති පනත් කෙටුම්පත වහා අත්හිටුවන්නැයි ශ්‍රී ලංකා පාර්ලිමේන්තු මන්ත්‍රීවරියන්ගේ සංසදය අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය විජේදාස රාජපක්ෂ මහතා වෙත ලිපියක් යොමු කරමින් ඉල්ලා සිටී.
+
+1995 වසරේදී දණ්ඩනීති සංග්‍රහයට සිදු කරන ලද සංශෝධනයන්ට අනුව මෙරට අවුරුදු 16කට අඩු දැරිවියක් ස්ව කැමැත්තෙන් ලිංගික සම්බන්ධතා පැවැත්වුවද, එය ස්ත්‍රී දූෂණයක් යටතට ගැනෙන අතර අධිකරණ අමාත්‍යවරයා විසින් දණ්ඩනීති සංග්‍රහයට ගෙන ඒමට යෝජිත සංශෝධනය මගින් එම වයස් සීමාව අවුරුදු 14 දක්වා පහත දැමීමට නියමිතය.
+
+එනිසා පාර්ලිමේන්තු මන්ත්‍රීවරියන්ගේ සංසදයේ සභාපතිවරිය වශයෙන් දණ්ඩ නීති සංග්‍රහයේ 364 වගන්තියට යෝජිත සංශෝධනය පිළිබඳව තම දැඩි කනස්සල්ල ප්‍රකාශ කරන බව සඳහන් කරන සංසදයේ සභාපති පාර්ලිමේන්තු මන්ත්‍රී (වෛද්‍ය) සුදර්ශනී ප්‍රනාන්දුපුල්ලේ  දන්වා සිටී.
+
+◼️
+
+[Data](articles/00d2a75b.json)
 
 ---
 
@@ -2195,123 +2297,5 @@ Sri Lanka has had a frontloaded reform program under an Extended Fund Facility, 
 [Data](articles/098d6d6c.json)
 
 [Extended Data](ext_articles/098d6d6c.ext.json)
-
----
-
-### As predicted, rainfall covers most parts of island
-
-*2024-03-22 07:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/As-predicted-rainfall-covers-most-parts-of-island/108-279370) · `en`
-
-Colombo, March 22 (Daily Mirror) - As forecasted by the National Meteorological Centre's forecasting division, many areas across the island experienced showers following a change in the prevailing dry weather.
-
-Duty Meteorologist Chaminda de Silva, attached to the Meteorological Centre, told the Daily Mirror that showers were experienced in most areas of the island, including the South-western, Eastern, Uva, Northern, North-eastern, and North-central provinces.
-
-Areas not mentioned above may have also received showers, but comprehensive rainfall details will be announced today.
-
-Meanwhile, showers had been reported in the South-western region of the country.
-
-Following the showers, the heatwave situation abated, and individuals reported feeling cooler winds alongside rain.
-
-However, misty conditions were seen in certain areas of the Sabaragamuwa and Central provinces, as well as in the Galle and Matara districts during the morning hours.
-
-◼️
-
-[Data](articles/0323e6e5.json)
-
-[Extended Data](ext_articles/0323e6e5.ext.json)
-
----
-
-### If spying, the police gifts
-
-*2024-03-22 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194799) · `si`
-
-The Police Media Spokesperson, DIG Nihal, offers cash rewards for reporting firearms linked to organized crime and drug trafficking.
-
-🟩
-
-Police Media Spokesperson DIG, Nihal, Nihal Talduuwa has decided to provide cash prizes to persons who are informed about firearms using organized crime and drug trafficking.
-
-The Police Media Spokesperson stated that the Inspector General of Police (IGP) has instructed a person who provides information to a suspect with a T56 firearm.
-
-◼️
-
-[Data](articles/2b492bfb.json)
-
-[Extended Data](ext_articles/2b492bfb.ext.json)
-
----
-
-### IMF urges transparency in Sri Lanka Central Bank’s salary benchmarking
-
-*2024-03-22 07:00:00* · [`economynextcom`](https://economynext.com/imf-urges-transparency-in-sri-lanka-central-banks-salary-benchmarking-155659/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund (IMF) urged Sri Lanka’s Central Bank’s transparency to justify its salary hike following the recent controversy over a steep wage hike without parliamentary approval, while the rest of the public sector is under a salary restraint.
-
-The Central Bank under increased the salaries of its employees between around 70 percent or more a triennial pay revision.
-
-The move angered the public sector employees and legislators as the government had issued fiscal authority directive to tighten the belts.
-
-The move without any parliament approval was seen as a wrong procedure after a new Central Bank Act that had given more autonomy for the Apex bank to handle the monetary policy without any political interventions.
-
-“We don’t have much to say with respect to the salary hike,” Peter Breuer, the IMF Mission Chief to Sri Lanka told reporters at a media briefing after the global lender’s conclusion of the second review of $3 billion, 4-year loan.
-
-...
-
-[Data](articles/09464cfc.json)
-
-[Extended Data](ext_articles/09464cfc.ext.json)
-
----
-
-### 'How I Write': Mahinda Prasad Island
-
-*2024-03-22 06:59:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1rx9jwwjzgo) · `si`
-
-Mahinda Prasad Island, a renowned poet and novelist, discusses his writing process, emphasizing the importance of psychological depth, historical context, and the joy of writing. He shares insights on starting novels, character development, and the editing process, highlighting the significance of writing as a creative and fulfilling endeavor.
-
-🟩
-
-The poet is a host of Prasad, the first novel, is the most popular, with Maronic.
-
-Since then, he was subjected to reviewers and readers as an important novelist of contemporary literature.
-
-I talk to him as a notener as a novelist and his own understanding and writing.
-
-The questions I hear in this discussion is currently published by I have expressed the 'history of Nimna' (2019) and the novels of this secret wind.
-
-It is well known for all writer's writing process.
-
-Where writing, how to write, how to write, and the joy of writing, the writer's abstinence. The conversation is seeking to pointer to that secret site of the newcomers.
-
-The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
-
-Easice: As usual I would like to ask you to start this conversation as usual. Can you tell you about how the first sentence of your novels?
-
-...
-
-[Data](articles/d4130d48.json)
-
-[Extended Data](ext_articles/d4130d48.ext.json)
-
----
-
-### A woman is killed
-
-*2024-03-22 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194798) · `si`
-
-A 33-year-old woman was killed by a 33-year-old man with a sharp weapon in Diyakelewa last night.
-
-🟩
-
-The 33-year-old wife has been assaulted by a 33-year-old boy with a sharp weapon.
-
-The incident was reported from the area of the Diyakelewa area last night.
-
-◼️
-
-[Data](articles/0fc19a4b.json)
-
-[Extended Data](ext_articles/0fc19a4b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 17:17:53**
+As of **2024-03-22 17:34:10**
 
 ## Newspaper Stats
 
-*Scraped **14,578** Articles*
+*Scraped **14,580** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,62 @@ adalk | 1,254
 adaderanalk | 1,745
 tamilmirrorlk | 1,755
 virakesarilk | 2,060
-dailymirrorlk | 2,235
+dailymirrorlk | 2,237
 adaderanasinhalalk | 2,326
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,576 (100.0%) of 14,578 articles have been extended.
+14,576 (100.0%) of 14,580 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### Resurrection Sundays - Maithri says the truth is ready
+
+*2024-03-22 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/179446) · `ta`
+
+Maithripala Sirisena claims knowledge of the lifeblood's masterminds, ready to reveal if court orders. No details released yet, emphasizing judges' confidentiality.
+
+🟩
+
+Former President Maithripala Sirisena has said that he knows the details of those who carried out the lifeblood.
+
+The former president said he was ready to release the truth if the court ordered other requests.
+
+No one has released the details of the real masterminds of the lifeblood of the lifeblood, ”he said.
+
+However, he said the judges should be tightened by the confidentiality of these issues.
+
+◼️
+
+[Data](articles/16e5a852.json)
+
+[Extended Data](ext_articles/16e5a852.ext.json)
+
+---
+
+### Heavy rainfall above 75mm expected across multiple provinces
+
+*2024-03-22 17:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-rainfall-above-75mm-expected-across-multiple-provinces/108-279407) · `en`
+
+Colombo, March 22 (Daily Mirror) - Residents in Western, Sabaragamuwa, Central, and North-western Provinces are urged to brace for heavy showers above 75mm during next 36 hours.
+
+According to meteorological reports, these regions are likely to experience fairly heavy downpours.
+
+In addition to these areas, intermittent showers or thundershowers are predicted for Eastern and Uva provinces, as well as the Hambanthota district.
+
+Meanwhile, residents in North-central and Northern provinces should anticipate several spells of showers throughout the day.
+
+Across the rest of the island, scattered showers or thundershowers are anticipated during the afternoon or night, indicating a widespread weather pattern impacting various regions.
+
+...
+
+[Data](articles/a6f2a382.json)
+
+---
 
 ### 100 ஆண்டுகளுக்குப் பிறகு வரும் சந்திர கிரகணம்
 
@@ -102,30 +146,6 @@ The song, which is also the rhythm of the top music, has attracted everyone's at
 
 ---
 
-### Resurrection Sundays - Maithri says the truth is ready
-
-*2024-03-22 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179446) · `ta`
-
-Maithripala Sirisena claims knowledge of the lifeblood's masterminds, ready to reveal if court orders. No details released yet, emphasizing judges' confidentiality.
-
-🟩
-
-Former President Maithripala Sirisena has said that he knows the details of those who carried out the lifeblood.
-
-The former president said he was ready to release the truth if the court ordered other requests.
-
-No one has released the details of the real masterminds of the lifeblood of the lifeblood, ”he said.
-
-However, he said the judges should be tightened by the confidentiality of these issues.
-
-◼️
-
-[Data](articles/16e5a852.json)
-
-[Extended Data](ext_articles/16e5a852.ext.json)
-
----
-
 ### Met. Dept. forecasts rainfall of above 75mm for next 36 hours
 
 *2024-03-22 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98131/met-dept-forecasts-rainfall-of-above-75mm-for-next-36-hours) · `en`
@@ -193,6 +213,22 @@ He has said that these restrictions apply to international students and foreign 
 [Data](articles/02e4f628.json)
 
 [Extended Data](ext_articles/02e4f628.ext.json)
+
+---
+
+### Sri Lanka announces women’s cricket squad for South Africa tour
+
+*2024-03-22 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-announces-womens-cricket-squad-for-South-Africa-tour/108-279406) · `en`
+
+Mar. 22 (SLC) - The Cricket Selection Committee selected the following 17 member national women’s squad to tour South Africa.
+
+The Honorable Minister of Sports and Youth Affairs, Harin Fernando, approved the squad.
+
+The team will leave for South Africa on March 23 and play three T20Is and three ODIs with the South African Women’s National Team. The ODI series is part of the ICC Women’s Championship.
+
+◼️
+
+[Data](articles/53683214.json)
 
 ---
 
@@ -2253,59 +2289,5 @@ Recently, several cases were reported from Facebook where scammers were identifi
 [Data](articles/c96509f1.json)
 
 [Extended Data](ext_articles/c96509f1.ext.json)
-
----
-
-### "Childise Order" begins with FM Derana 15th Anniversary
-
-*2024-03-22 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194802) · `si`
-
-"Childise Order" initiates with FM Derana's 15th anniversary, offering school equipment like exercise books and pencils to economically disadvantaged students in Colombo and Bambalapitiya. FM Derana aims to double school instruments for those in need.
-
-🟩
-
-The FM Derana Diri Program will be implemented in parallel to the FM Derana 15th Anniversary.
-
-Under this program, school equipment to provide exercise books, pencils, pan for students with economic difficulties.
-
-You can get school equipment for several parts of Colombo and Bambalapitiya apartment complex, including the FM, Maradana and Bambalapitiya apartment complex, including the Galle Road.
-
-FM Derana has been planned to double every school instrument and for economic hardship.
-
-◼️
-
-[Data](articles/a6fb8c08.json)
-
-[Extended Data](ext_articles/a6fb8c08.ext.json)
-
----
-
-### Here's what discussions between President and Basil
-
-*2024-03-22 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194801) · `si`
-
-President Ranil Wickremesinghe and Basil Rajapaksa discussed the upcoming election and political matters. Basil announced the President's endorsement for the Sri Lanka General Front in the next election. However, no final agreement was reached, and there's internal party disagreement.
-
-🟩
-
-President Ranil Wickremesinghe and the Founder of the President and the Communicate Fonseka met with former Minister Basil Rajapaksa yesterday.
-
-The presidential election is exchanged between both parties on the upcoming fellow election and political matters.
-
-The meeting was a significant incident after President Ranil Wickremesinghe was informed at the Cabinet meeting held first as President Ranil Wickremesinghe was first prepared for the presidential election.
-
-Accordingly, Basil Rajapaksa has announced that the President has informed the Sri Lanka General Front to the next election.
-
-However, it has been no longer a final agreement between the two sides have not been held in the future as it has been reported.
-
-It is reported that there is two opinion in the party, as the ministers of the Sri Lanka General Front is two of the Presidential Ministers.
-
-The party spokesman said that everyone would be able to file a wide discussion over the election with the president again.
-
-◼️
-
-[Data](articles/dba68752.json)
-
-[Extended Data](ext_articles/dba68752.ext.json)
 
 ---

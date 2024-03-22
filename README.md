@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 12:17:58**
+As of **2024-03-22 12:33:19**
 
 ## Newspaper Stats
 
-*Scraped **14,524** Articles*
+*Scraped **14,528** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ dailyftlk | 776
 economynextcom | 782
 islandlk | 797
 adalk | 1,249
-adaderanalk | 1,737
+adaderanalk | 1,738
 tamilmirrorlk | 1,751
 virakesarilk | 2,046
-dailymirrorlk | 2,225
+dailymirrorlk | 2,228
 adaderanasinhalalk | 2,315
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,522 (100.0%) of 14,524 articles have been extended.
+14,524 (100.0%) of 14,528 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### President Ranil meets with Basil; discusses future political affairs
+
+*2024-03-22 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98124/president-ranil-meets-with-basil-discusses-future-political-affairs) · `en`
+
+President Ranil Wickremesinghe has held a discussion with the founder of the Sri Lanka Podujana Peramuna (SLPP) and former Finance Minister Basil Rajapaksa last night (21), where attention was drawn to the upcoming elections and the future political affairs.
+
+This meeting comes after President Wickremesinghe had informed the Cabinet of Ministers to make preparations for the presidential election first.
+
+Thus, Basil Rajapaksa has communicated to the President the SLPP’s stance with respect to the upcoming elections, political sources said.
+
+Nevertheless, it has been decided to continue discussions regarding the matter further, since no final agreement was reached between the two parties at yesterday’s meeting.
+
+...
+
+[Data](articles/bd9f188b.json)
+
+---
+
+### Keheliya’s application for bail to be heard on Monday
+
+*2024-03-22 12:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliyas-application-for-bail-to-be-heard-on-Monday/108-279395) · `en`
+
+Colombo, March 22 (Daily Mirror)- A revision application filed on behalf of former Health Minister Keheliya Rambukwella, who is currently held in remand custody in connection with the alleged import of substandard Immunoglobulin injections, was today fixed for March 25 by the Colombo High Court.
+
+Filing a revision application, the former Health Minister's daughter is requesting the Colombo High Court that her father be released on whatever bail conditions the court deems fit.
+
+When the matter came up before High Court Judge Sujeewa Nissanka, court was informed that the Attorney General is yet to receive documents pertaining to the revision application.
+
+◼️
+
+[Data](articles/5b410a5b.json)
+
+---
 
 ### 52 windmills on the flying path of birds;Adani's project
 
@@ -86,6 +120,24 @@ It is noteworthy that the fishermen are continuing their protests, demanding tha
 
 ---
 
+### Ten more suspected criminals of underworld gangs nabbed
+
+*2024-03-22 11:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ten-more-suspected-criminals-of-underworld-gangs-nabbed/108-279394) · `en`
+
+Colombo, March 22 (Daily Mirror)- Ten more suspected criminals of underworld gangs were arrested yesterday during the special operation launched to crack down on organized criminal activities.
+
+The suspects were arrested in Ratmalana, Mattakkuliya, Wattala, Colombo 12, Kolonnawa, Ganemulla and Uragasmanhandiya.
+
+They are suspected to be close associates of underworld gangs of 'Kudu Anju', Dematagoda Chaminda, Kanjipani Imran, Keselwatte Dinuka, Ladiya and Kosgoda Suji.
+
+In response to a concerning increase in organized criminal activities in the Western and Southern Provinces, a special operation targeting 20 identified organized criminal gangs in the country was launched under the 'Yukthiya' initiative last Tuesday (19).
+
+◼️
+
+[Data](articles/bcbaa1ad.json)
+
+---
+
 ### Uganda president has made his son a military commander
 
 *2024-03-22 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179407) · `ta`
@@ -110,19 +162,25 @@ The Uganda Defense Ministry said yesterday that President Muzaveni has appointed
 
 ---
 
-### விவசாய கிணற்றில் விழுந்து சிறுவன் மரணம்
+### The boy's death falls into the agricultural well
 
 *2024-03-22 11:37:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விவசாய-கிணற்றில்-விழுந்து-சிறுவன்-மரணம்/76-335013) · `ta`
 
-வட்டவளை பொலிஸ் பிரிவிற்குட்பட்ட பினோயா மேல் பகுதியில் உள்ள தோட்ட வீடொன்றில் விளையாடிக் கொண்டிருந்த சிறுவனின் சடலம் வீட்டின் பின்புறம் அமைந்துள்ள கிணற்றில் இருந்து மீட்கப்பட்டுள்ளதாக வட்டவளை பொலிஸார் தெரிவித்தனர்.
+A 3-year-old boy, Kathiravel Rohit, was found dead in an agricultural well in Pinoya's Vattawala police division. His father and plantation workers discovered his body.
 
-3 வயது 9 மாத வயதுடைய கதிரவேல் ரோஹித்தின் சடலமே விவசாய கிணற்றில் காணப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+🟩
 
-வீட்டில் விளையாடிக் கொண்டிருந்த குழந்தை காணாமல் போனதால், குழந்தையின் தந்தை மற்றும் தோட்ட வீடுகளில் வசிக்கும் தோட்டத் தொழிலாளர்கள் இணைந்து நடத்திய தேடுதல் வேட்டையில் கிணற்றில் இருந்து சடலத்தை மீட்டுள்ளனர்.
+The body of the boy, who was playing in a plantation house in Pinoya's upper part of the Vattawala police division, has been recovered from the well located in the back of the house, the Vattawala police said.
+
+The body of Kathiravel Rohit, aged 3, 9 months old, was found in the agricultural well, police said.
+
+Due to the disappearance of the child who was playing at home, the child's father and plantation workers living in the plantation houses have recovered the body from the well.
 
 ◼️
 
 [Data](articles/7ad395a8.json)
+
+[Extended Data](ext_articles/7ad395a8.ext.json)
 
 ---
 
@@ -574,21 +632,31 @@ Sri Lanka was hit by a currency crisis soon after it recovered from Covid hittin
 
 ---
 
-### වසර 10කින් රට යළිත් අර්බුදයකට ලක් නොවීමට නම් කළ යුතු දේ ජනපති කියයි
+### President says the country should not be restored again in 10 years
 
 *2024-03-22 10:10:47* · [`adalk`](https://www.ada.lk/breaking_news/වසර-10කින්-රට-යළිත්-අර්බුදයකට-ලක්-නොවීමට-නම්-කළ-යුතු-දේ-ජනපති-කියයි/11-408753) · `si`
 
-ආනයන, අපනයන පරතරය පියවා ගැනීමට ණය ලබා ගැනීම අඛණ්ඩව සිදු වුවහොත් නැවතත් වසර 10කින් ශ්‍රී ලංකාවට ආර්ථික අර්බුදයකට මුහුණ දීමට සිදුවන බව පෙන්වා දුන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රට තුළ ආර්ථික ස්ථාවරත්වයක් ඇති කර එය කඩිනමින් අපනයන ආර්ථිකයක් කරා පරිවර්තනය කිරීම තම අපේක්ෂාව බව ද අවධාරණය කළේය.
+President Ranil Wickremesinghe announced a new law to transform the country into an export economy, emphasizing economic recovery and relief for the people. He also highlighted the completion of debt repayment by June and the construction of new Bodhiya and Ranweta in Kavindara Pirivena.
 
-ඊට අදාළව නව නීතියක් ද මෙම අප්‍රේල් මාසයේ දී පාර්ලිමේන්තුවට ඉදිරිපත් කරන බවත් එසේම රජයේ මූල්‍ය පාලනය සඳහා ද නීතියක් ගෙන එන බව පැවසූ ජනාධිපතිවරයා මෙම සියලු කටයුතු තුළින් රටේ ආර්ථිකය ඉදිරියට ගෙන යාම අරමුණ බව පැවසීය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ කෑගල්ල, මංගෙදර ටැම්පිට පුරාණ පිරිවෙන් විහාරස්ථානයේ ‌‌ෙඑතිහාසික බෝධින් වහන්සේ වටා ඉදිකළ බෝධිඝරය සහ රන්වැට විවෘත කිරීමේ පුණ්‍යෝත්සවයට එක් වෙමිනි.
+The President also emphasized that if the loans to cover the export gap continues to face a economic crisis in 10 years, he said that he would create an economic crisis in the country and transform it into an export economy.
 
-ශ්‍රී ලංකාව ණය ගෙවිය හැකි රටක් ලෙස නැවත ලෝකය හමුවේ සහතික කිරීමට අදාළ සාකච්ඡා මෙම ජූනි, ජුලි මාසය වන විට අවසන් කිරීමට අපේක්ෂා කරන බව මෙහිදී සඳහන් කළ ජනාධිපතිවරයා ඒ සමඟම බංකොළොත් රටක් යන නාමකරණය යටතේ අපට මෙතෙක් අහිමිව තිබූ විදෙස් ආධාර නැවත රටට ලැබීම ආරම්භ වන බවද පෙන්වා දුන්නේය.
+The President said that a new law will be presented to Parliament in April and that the President said that all these activities were to carry on the country's economy.
+
+President Ranil Wickremesinghe said this was a margin of the Movewa and Ranweta.
+
+The President said that the President is expected to be completed by June as a debt to the world as a country of debt..
+
+The President Ranil Wickremesinghe said that the economy would continue to provide relief to the people with the increase in the economy by increasing the country's money.
+
+He also emphasized that the president who recalled that all the people of the country were suffering from the last economic challenge.
 
 ...
 
 [Data](articles/15803a8e.json)
+
+[Extended Data](ext_articles/15803a8e.ext.json)
 
 ---
 
@@ -2081,77 +2149,5 @@ According to a request made to President Ranil Wickremesinghe through the Perahe
 [Data](articles/d3f8c60e.json)
 
 [Extended Data](ext_articles/d3f8c60e.ext.json)
-
----
-
-### Bangladesh have 'high expectations' for Sri Lanka Test series
-
-*2024-03-21 23:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladesh-have-high-expectations-for-Sri-Lanka-Test-series/108-279343) · `en`
-
-Mar. 21 Sylhet, (AFP) - Bangladesh host a "formidable" Sri Lanka in a two-match Test series starting on Friday and ambitions are growing after years of struggle.
-
-Bangladesh finished last in the 2021-2023 World Test Championship, winning just one of their 12 matches.
-
-But in their previous Test series, against New Zealand in November-December, Bangladesh won the first match in Sylhet before losing the second in Dhaka after a close fight.
-
-"We have high expectations," Bangladesh coach Chandika Hathurusingha told reporters in Sylhet ahead of the first Test, part of the 2023–25 World Test Championship cycle.
-
-"If we can win most matches at home, then we give ourselves a good chance to be in contention in the World Test Championship."
-
-"This Test series gives us a good challenge, but we are up for it," he added.
-
-Hathurusingha warned however that he was expecting a tough challenge from his home nation Sri Lanka, calling them a "formidable, very experienced side".
-
-...
-
-[Data](articles/00cdd4f1.json)
-
-[Extended Data](ext_articles/00cdd4f1.ext.json)
-
----
-
-### Ready to work with China - Australian Prime Minister
-
-*2024-03-21 22:37:23* · [`adalk`](https://www.ada.lk/breaking_news/චීනය-සමග-එක්ව-ක්‍රියා-කිරීමට-සූදානම්---ඕස්ට්‍රේලියානු-අගමැති/11-408751) · `si`
-
-Australian PM Anthony Albanese emphasizes positive relations with China, focusing on mutual benefits and overcoming barriers. He agrees to restart dialogue, aiming for high-level exchanges.
-
-🟩
-
-Australian-China relationships should not be defined through changes and disagreements should not be defined as much as possible, Australia Anthony Albenai said.
-
-He was speaking to the Chinese Foreign Minister of Sri Lanka yesterday (20) with Chinese Foreign Minister of Canberra yesterday.
-
-The Australian-Chinese relationships are pleased to hold the right-to-level closer exchanges with China over the past two years, and the Prime Minister said.He also agreed to expand collaboration with mutual benefits of various fields.
-
-The bensor of the Chinese-Australian relations with Chinese-Australian relations have been conquered by one by the barriers and that the existing unbelievers is properly solving.He said China is ready to restart the dialogue mechanism between the two countries, promoting high level exchanges.
-
-After this meeting, the Indian Foreign Minister has participated in the seventh Chinese-Australian foreign and strategic conversation with Wong.
-
-◼️
-
-[Data](articles/1fb3773f.json)
-
-[Extended Data](ext_articles/1fb3773f.ext.json)
-
----
-
-### Ships, ports, total maritime industry to be converted into zero missions soon
-
-*2024-03-21 22:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ships-ports-total-maritime-industry-to-be-converted-into-zero-missions-soon/108-279340) · `en`
-
-Colombo, March 21 (Daily Mirror) - The Ports, Shipping, and Aviation Ministry is to convert the ships, ports, and total maritime industry to zero emissions in the future.
-
-Addressing an event organized to declare ‘National Seafarers Day’ today, Minister Nimal Siripala de Silva said, as far as the maritime industry is concerned, the primitive maritime industry is no more there. We are going to zero emissions such as ammonia, hydrogen, and green energy.
-
-"That transformation is not easy; it needs a lot of money and professionalism. It is a question of how we are going to build that. Therefore, we have to ensure that we make changes to our ports, ships and services very soon. We have to start with it, not itself; otherwise, we will be lacking behind the other countries in which we are competing in maritime," the minister said.
-
-However, thankful to the Indian government, we have taken action to expand the port activities, he said.
-
-...
-
-[Data](articles/23e3b340.json)
-
-[Extended Data](ext_articles/23e3b340.ext.json)
 
 ---

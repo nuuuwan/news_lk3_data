@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 18:50:59**
+As of **2024-03-22 19:03:04**
 
 ## Newspaper Stats
 
-*Scraped **14,587** Articles*
+*Scraped **14,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,256
 adaderanalk | 1,746
 tamilmirrorlk | 1,755
 virakesarilk | 2,060
-dailymirrorlk | 2,239
-adaderanasinhalalk | 2,328
+dailymirrorlk | 2,240
+adaderanasinhalalk | 2,329
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,586 (100.0%) of 14,587 articles have been extended.
+14,587 (100.0%) of 14,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### එක් රැයකදී රුසියාවෙන් යුක්‍රේනයට මිසයිල ප්‍රහාර 90ක්
+
+*2024-03-22 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194825) · `si`
+
+විදුලි සැපයුම් පද්ධති ඉලක්ක කරගනිමින් රුසියාව විසින් එල්ල කළ මිසයිල ප්‍රහාර හේතුවෙන් යුක්‍රේනයේ ප්‍රදේශ රැසක විදුලිය විසන්ධිවීම් සිදුව තිබේ.
+
+එරට දෙවන විශාලතම නගරය වන කාර්කිව් නගරයට පමණක් ප්‍රහාර 15ක් එල්ල වී ඇති අතර නගරය පුරා නිවාස 53,000කට විදුලිය විසන්ධි වී ඇති බව බලධාරීන් සඳහන් කර ඇත.
+
+තම රටේ බලශක්ති පද්ධතිය බිඳ දැමීමට රුසියාව උත්සහා දරන බව මේ සම්බන්ධයෙන් අදහස් දක්වමින් යුක්‍රේන බලශක්ති අමාත්‍ය ජර්මන් ගැලුශෙන්කෝ ප්‍රකාශ කර තිබිණි.
+
+ගතවූ දින රාත්‍රියේ රුසියාව විසින් යුක්‍රේනයට මිසයිල ප්‍රහාර 90ක් හා ඩ්‍රෝන ප්‍රහාර 60ක් පමණ එල්ල කර ඇති බව යුක්‍රේන ජනාධිපති වොලොදිමීර් සෙලෙන්ස්කි ප්‍රකාශ කර ඇත.
+
+◼️
+
+[Data](articles/8c986702.json)
+
+---
 
 ### Maithripala claims to be aware of real culprits behind Easter attacks
 
@@ -45,6 +63,8 @@ Colombo, March 22 (Daily Mirror) - Former President Maithripala Sirisena today d
 ◼️
 
 [Data](articles/56077b03.json)
+
+[Extended Data](ext_articles/56077b03.ext.json)
 
 ---
 
@@ -841,6 +861,18 @@ The department also said that the temperature has risen abnormally at this time.
 [Data](articles/5b1f2a74.json)
 
 [Extended Data](ext_articles/5b1f2a74.ext.json)
+
+---
+
+### Kedella Construction Expo launched...
+
+*2024-03-22 14:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Kedella-Construction-Expo-launched/110-279400) · `en`
+
+Kedella Construction Expo, the premier build and architecture tradeshow 2024, was launched at the Bandaranaike Memorial International Conference Hall (BMICH) while making a dream home a reality. During the exhibition, people can buy tiles, solar systems, construction equipment, electrical products and furniture at great discounts. The exhibition will be held till Sunday 24, between 10 a.m. and 9 p.m. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/25ceba9c.json)
 
 ---
 
@@ -2261,57 +2293,5 @@ In addition, as many as 46 contact numbers were also introduced for the members 
 [Data](articles/7c11f954.json)
 
 [Extended Data](ext_articles/7c11f954.ext.json)
-
----
-
-### Delhi Chief Minister Arvind Kejriwal arrested
-
-*2024-03-22 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179381) · `ta`
-
-Arvind Kejriwal, Delhi CM, arrested by India's Financial Criminal Investigation Division for corruption in liquor policy. Kejriwal did not attend the hearing, leading to his arrest. Despite a petition for a ban on his arrest, the Delhi High Court refused, leading to his arrest.
-
-🟩
-
-Delhi Chief Minister Arvind Kejriwal has been arrested by India's Financial Criminal Investigation Division over corruption allegations in the liquor policy issue, his party said.
-
-India's Financial Criminal Division has repeatedly called on Delhi Chief Minister Arvind Kejriwal to appear for an inquiry into the Delhi Liquor Policy issue.. However, he did not attend the hearing.
-
-It was in this case that the former Chief Minister Manish Sisodia has already been arrested and jailed, and Kejriwal, who is not present at the hearing, may be arrested at any time.
-
-Kejriwal filed a petition in the Delhi High Court seeking a ban on his arrest. The Delhi High Court, which ruled on Thursday, refused to ban Kejriwal's arrest. Within hours of the verdict, Delhi Chief Minister Kejriwal has been arrested for blocking the house.
-
-◼️
-
-[Data](articles/d0676eea.json)
-
-[Extended Data](ext_articles/d0676eea.ext.json)
-
----
-
-### Dhanush's 'Captain Miller'
-
-*2024-03-22 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/179377) · `ta`
-
-"Dhanush's 'Captain Miller', produced by DG Thiagarajan, stars Arun Matheswaran and was released on Prime Video. Despite mixed reviews, it set new records in many countries and languages, topping charts worldwide, including India, Africa, Asia, and the Arab world. Directed by Arun Mateeswaran and composed by GV Prakash Kumar, it's celebrated for breaking Indian film records. The film's success marks a significant achievement for Dhanush and the team."
-
-🟩
-
-Produced by DG Thiagarajan on behalf of Satyajodi Films, Dhanush starring Arun Matheswaran was released in the film 'Captain Miller' at the world palace worldwide.
-
-The film, which received mixed reviews, was released on the first Prime Video Digital site since the ninth of February.
-
-40 days after being released on the Prime Digital site ... It has continued to be the number one and has set a new record in many countries and many languages.
-
-Especially after the film was released on the digital site, not only in India but also in African countries including Tanzania, Asian countries including Malaysia, Singapore and Hong Kong, and in the top five in the top five in the Arab countries including Bahrain, Qatar, Kuwait and the United Arab Emirates.
-
-The film 'Captain Miller', released on the eighth of March, topped the top 10 in India, not only in India but also worldwide.
-
-The film crew is excited as 'Captain Miller' has achieved a new record that no Indian film has ever made.
-
-...
-
-[Data](articles/dab86530.json)
-
-[Extended Data](ext_articles/dab86530.ext.json)
 
 ---

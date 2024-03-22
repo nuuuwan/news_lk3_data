@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 20:03:02**
+As of **2024-03-22 20:17:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,330
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,592 (100.0%) of 14,594 articles have been extended.
+14,594 (100.0%) of 14,594 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -84,6 +84,8 @@ There were no immediate reports of further damage following the latest quake.
 
 [Data](articles/8724daec.json)
 
+[Extended Data](ext_articles/8724daec.ext.json)
+
 ---
 
 ### Ex-President ready to disclose masterminds of Easter Sunday attacks
@@ -99,6 +101,8 @@ Speaking further he said, “I have more pain in my heart than frustration. I ra
 ...
 
 [Data](articles/e1fc20be.json)
+
+[Extended Data](ext_articles/e1fc20be.ext.json)
 
 ---
 

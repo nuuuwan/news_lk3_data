@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 13:34:32**
+As of **2024-03-22 13:52:33**
 
 ## Newspaper Stats
 
-*Scraped **14,541** Articles*
+*Scraped **14,542** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,72 +19,110 @@ adalk | 1,250
 adaderanalk | 1,739
 tamilmirrorlk | 1,753
 virakesarilk | 2,052
-dailymirrorlk | 2,228
+dailymirrorlk | 2,229
 adaderanasinhalalk | 2,317
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,537 (100.0%) of 14,541 articles have been extended.
+14,541 (100.0%) of 14,542 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### විකුණන මෝටර් රථය ගන්න වගේ ඇවිත් කොල්ලකයි
+### General elections must be held first to maintain fairness: MR
+
+*2024-03-22 13:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/General-elections-must-be-held-first-to-maintain-fairness-MR/108-279396) · `en`
+
+Colombo, March 12 (Daily Mirror) - Leader of the Sri Lanka Podujana Peramuna (SLPP), Mahinda Rajapaksa, said that a general election should be held first and then the presidential election to maintain a fair process in the country.
+
+Addressing the media, Rajapaksa said that Basil Rajapaksa had conveyed this proposal to President Ranil Wickremesinghe on behalf of the SLPP when Basil met the President recently.
+
+Mahinda Rajapaksa also maintained that if this proposal is not followed, whichever party wins the presidential election will have a massive victory in the parliamentary election, which is not good for the country.
+
+He also said that there should be a fair situation in the country after the elections.
+
+◼️
+
+[Data](articles/91cd0993.json)
+
+---
+
+### The selling car come and plundered
 
 *2024-03-22 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194813) · `si`
 
-හොරණ මෘදුකාංග ඉංජිනේරුවෙකුට අයත් මෝටර් රථයක් කොල්ලකා රැගෙන ගිය සැකකරුවෙක් දින 4කට පසු වාද්දුව ප්‍රදේශයේදී පොලිස් අත්අඩංගුවට ගෙන තිබේ.
+A 32-year-old car repairman was arrested in Wadduwa after a 4-day investigation involving over 20 CCTV cameras. He was accused of stealing a Rs. 33 lakhs car from a Horana software engineer, who had advertised it for sale online. The suspect was found with the car's owner and fled, but was later arrested after the owner reported the incident to the Horana police.
 
-සැකකරු සහ කොල්ලකෑ මෝටර් රථය සොයාගැනීමට හැකිවුණේ CCTV කැමරා 20කට අධික ප්‍රම‍ාණයක දර්ශන ඔස්සේ සිදුකළ විමර්ශනයකින් පසුවය.
+🟩
 
-මෘදුකාංග ඉංජිනේරුවා තමාට අයත් රුපියල් ලක්ෂ 33ක් පමණ වටිනා මෝටර් රථයක් අලෙවි කිරීම සඳහා අන්තර්ජාලයේ දැන්වීමක් පළ කර තිබූ අතර එය දුටු පුද්ගලයෙක් ඔහු අමතා රථය පරීක්ෂා කිරීමට අවශ්‍ය බව පවසා තිබුණි.
+A suspect who had taken a car belonging to Horana software engineer has been arrested in Wadduwa in Wadduwa 4 days later.
 
-ඒ අනුව පසුගිය 17 වනදා පස්වරුවේ රථය පරීක්ෂා කිරීමට දෙපාර්ශ්වය එකඟවී ඇති අතර එම පුද්ගලයා පාගමනින් හොරණ ප්‍රදේශයට පැමි‍ණ තිබේ.
+The suspect and the robber car could be found following the investigation of over 20 cCTV cameras.
 
-පසුව එම පුද්ගලයා මෝටර් රථය පරීක්ෂා කිරීමේ මුවාවෙන් රථය හිමි මෘදුකාංග ඉංජිනේරුවා සමගින් මෝටර් රථය හොරණ කණන්විල මාර්ගයේ ධාවනය කර තිබුණි.
+The software engineer had expressed an ad on the Internet to sell a car worth Rs. 33 lakhs.
 
-එක්වරම එම මාර්ගයේ සුසාන භූමියක් ආසන්නයේ රථයේ එන්ජිමේ දෝෂයක් ඇති බවට හඟවා තිරිංග තදකර රථය නැවැත්වීමට සැකකරු  කටයුතු කර තිබේ.
+Accordingly, the two sides have agreed to check the vehicle on the 17th and the man has marched and arrived in Horana.
 
-එම අවස්ථාවේදී ඔහු රථයේ බොනට්ටුව විවෘත කර ඇති අතර පසුව රථයේ හිමිකරුද ඉන් බැස එන්ජිම දෙසට ගමන් කරනවාත් සමගම සැකකරු රියදුරු අසුනට ගොස් රථය පනගන්වා පළාගොස් තිබුණි.
+The man was later raided the car with a software enginewilamaya with the architecture engineer of the vehicle.
+
+At once, the suspect has been launched to stop the brake pressurizing an error in the cargo engine near the cemetery.
+
+The suspect had gone to the driver's seat and fled the suspect with the vehicle owner in the vehicle and then fled the vehicle.
+
+The complaint was later taken to the Horana police that the owner of the vehicle had been investigated in the Horana police over 20 CCTV cameras from Kankunwila to Wadduwa.
 
 ...
 
 [Data](articles/a19a562d.json)
 
+[Extended Data](ext_articles/a19a562d.ext.json)
+
 ---
 
-### வடக்கு - கிழக்கில் மாவீரர்களின் நிகழ்வுகள் :  முழுமையான விசாரணை அறிக்கையை சமர்ப்பிக்க எதிர்பார்ப்பதாக சட்ட மா அதிபர்  தெரிவிப்பு!
+### Events of Heroes in the North - East
 
 *2024-03-22 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179420) · `ta`
 
-உயிரிழந்த தமிழீழ விடுதலைப் புலி உறுப்பினர்களின் நினைவாக வடக்கு, கிழக்கு  மாகாணங்களில்  இதுவரையில் நடத்தப்பட்ட  மாவீரர்களின் நிகழ்வுகள் தொடர்பான முழுமையான விசாரணை அறிக்கையை சமர்ப்பிக்க எதிர்பார்ப்பதாக சட்ட மா அதிபர் மேன்முறையீட்டு நீதிமன்றத்துக்கு அறிவித்தார்.
+The Attorney General plans to submit a full report on the heroes in the North-East, following a writ petition by Ananda Jayamanam. The Court of Appeal ordered the State Prosecutor to provide a trial report.
 
-மாவீரர்கள் தினத்தை அனுஷ்டிப்பதற்கு   எதிராக சட்டத்தை அமுல்படுத்துமாறு கோரி முன்னாள் இராணுவப்  புலனாய்வு அதிகாரி  ஆனந்த ஜயமானவினால் தாக்கல் செய்யப்பட்ட ரிட் மனு நேற்று (21) விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போது, அவர் சார்பில் ஆஜரான சிரேஷ்ட அரசாங்க சட்டத்தரணி  ஷமிந்த விக்கிரம இதனைத் தெரிவித்தார்.
+🟩
 
-இதனையடுத்து  உரிய விசாரணை அறிக்கையை நீதிமன்றத்தில் சமர்ப்பிக்குமாறு   அரச வழக்கறிஞருக்கு மேன்முறையீட்டு நீதிமன்ற நீதிபதிகள் குழு உத்தரவிட்டது.
+The Attorney General has announced to the Court of Appeal that he is expecting to submit a full investigation report on the events of the heroes in the Northern and Eastern Provinces in memory of the dead LTTE members.
+
+Senior Government Attorney Shaminda Wickrama, who appeared on behalf of him, said that the writ petition filed by former Army Intelligence Officer Ananda Jayamanam demanding the implementation of the Act against the Heroes Day was taken up yesterday (21).
+
+Subsequently, a panel of judges of the Court of Appeal ordered the State Prosecutor to submit the appropriate trial report to the court.
 
 ◼️
 
 [Data](articles/d5306aa7.json)
 
+[Extended Data](ext_articles/d5306aa7.ext.json)
+
 ---
 
-### யாழ்ப்பாணத்துக்கு புதிய அமைப்பாளரை தெரிவு செய்யவில்லை - ஜனாதிபதி ரணில்
+### New organizer for Jaffna does not choose - President Ranil
 
 *2024-03-22 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/179416) · `ta`
 
-யாழ்ப்பாண மாவட்டத்திற்கு ஐக்கிய தேசிய கட்சியின் புதிய அமைப்பாளர் ஒருவரை இன்னும்  உத்தியோகப்பூர்வமாக தெரிவு செய்யவில்லை என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார். ஐ.தே.க நிர்வாகக்குழு உறுப்பினர்கள் எழுப்பிய கேள்விக்கு பதிலளிக்கையிலேயே ஜனாதிபதி இவ்வாறு குறிப்பிட்டுள்ளார்.
+President Ranil Wickremesinghe confirmed that the United National Party (UNP) has not yet officially elected a new organizer for Jaffna. The UNP is undergoing nationwide restructuring, but no official decisions have been made regarding this process. President Ranil also mentioned that Anganan Ramanathan would visit Jaffna, and any opposition to the official appointments would be considered.
 
-ஐக்கிய தேசிய கட்சியின் மறுசீரமைப்பு நடவடிக்கைகள் நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்டு வருகின்றன. இருப்பினும் இந்த மறுசீரமைப்புகள் தொடர்பில் இதுவரையில் உத்தியோகப்பூர்வமாக தீர்மானங்கள் எடுக்கப்பட வில்லை என்றும் குறிப்பிட்டுள்ளார்.
+🟩
 
-இதேவேளை, தனது யாழ்ப்பாண விஜயத்தில் அங்கஜன் ராமநாதன் கூட இருப்பார் என்றும், உத்தியோகப்பூர்வ நியமனங்கள் வழங்குவதற்கு முன்னர் எதிர்ப்புகள் காணப்படுமாயின் அவை கருத்தில் கொள்ளப்படும் என்றும் ஜனாதிபதி தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe has said that the United National Party (UNP) has not yet officially elected a new organizer for the Jaffna district.. The President was responding to a question raised by members of the UNP executive committee.
+
+The United National Party's restructuring activities are being carried out nationwide. However, he said that no official decisions have been made regarding these restructuring.
+
+Meanwhile, the President said that even Anganan Ramanathan would be on his visit to Jaffna and that if there were opposition before the official appointments were made, they would be considered.
 
 ◼️
 
 [Data](articles/1c8ab4fe.json)
+
+[Extended Data](ext_articles/1c8ab4fe.ext.json)
 
 ---
 
@@ -496,19 +534,25 @@ The Attorneys of the Petitioques were asked to permit the petition to withdraw t
 
 ---
 
-### ගැහැණු දරුවන්ට ලිංගික සේවනයේ යෙදීය  හැකි වයස අවුරුදු 14 දක්වා අඩු කිරීමේ සූදානමක්
+### It is planning to reduce the girls who are sexually engaged in sex
 
 *2024-03-22 11:25:23* · [`adalk`](https://www.ada.lk/breaking_news/ගැහැණු-දරුවන්ට-ලිංගික-සේවනයේ-යෙදීය--හැකි-වයස-අවුරුදු-14-දක්වා-අඩු-කිරීමේ-සූදානමක්/11-408754) · `si`
 
-දණ්ඩ නීති සංග්‍රහයේ යෝජිත සංශෝධන මගින් ලිංගික සේවනයේ යෙදිය හැකි ගැහැණු දරුවන්ගේ වයස අවුරුදු 14 දක්වා අඩු කිරීමට හා පිරිමි වරදකරුවෙකුගේ වයස අවුරුදු 22 අඩුනම් දඩුවම් ලිහිලි කිරීම පිළිබද යෝජනාවක් පවතින බවට විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සිදුකළ ප්‍රකාශය අධිකරණ අමැතිතුමාගේ විශේෂ අවධානයට යොමු කරන බව ආණ්ඩුපක්ෂයේ ප්‍රධාන සංවිධායක නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+The government plans to reduce sexual assault cases involving girls aged 22. Minister Prasanna Ranatunga responded to Opposition Leader Sajith Premadasa's question in Parliament, highlighting the importance of amending clauses 363 and 364 of the Penal Code, which deal with sexual assault. The opposition leader requested the removal of these clauses, emphasizing the need for protection for all parties involved.
 
-විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා අද (22) දින පාර්ලිමේන්තුවේදී නැගූ ප්‍රශ්නයකට පිළිතුරු දෙමින් ඇමති ප්‍රසන්න රණතුංග මහතා මේ බව සදහන් කළේය. ඒ පිළිබද පාර්ලිමේන්තුවේ ඇති වූ සංවාදය මෙසේයි.
+🟩
 
-විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා - 2024 පෙබරවාරි 13 දින ප්‍රකාශයට පත් කරන ලද දණ්ඩ නීති සංග්‍රහයේ 363 සහ 364 වගන්තියේ 19 වන පරිච්ඡේදයේ සංශෝධනය කිරීම පිළිබද පනත් කෙටුම්පත මම ප්‍රසන්න රණතුංග අමැතිතුමාගේ අවධානයට යොමු කරන්න කැමතියි.
+The Chief Organizer of the government is to reduce the proposal of the proposal of sexual assault on the age of 22 years of age and punishment of the pens of 22 years of age and punishment of a male guilty 22 years old.Development and Housing Minister Prasanna Ranatunga is said.
+
+Minister Prasanna Ranatunga was responding to a question raised by Opposition Leader Sajith Premadasa today (22).The conversation in Parliament in this regard is as follows.
+
+Opposition Leader Sajith Premadasa - Chapter 363 and 364 of the Penal Code published on February 13, 363 and 364, I would like to look into the attention of Minister Prasanna Ranatunga.
 
 ...
 
 [Data](articles/f0e2b509.json)
+
+[Extended Data](ext_articles/f0e2b509.ext.json)
 
 ---
 
@@ -2171,19 +2215,5 @@ The Ceylon Chamber of Commerce is proud to announce the inaugural Sri Lanka Clim
 [Data](articles/2967618b.json)
 
 [Extended Data](ext_articles/2967618b.ext.json)
-
----
-
-### SLASSCOM’s 2023 survey sheds light on critical HR trends in Sri Lanka
-
-*2024-03-22 04:39:02* · [`dailyftlk`](https://www.ft.lk/business/SLASSCOM-s-2023-survey-sheds-light-on-critical-HR-trends-in-Sri-Lanka/34-759780) · `en`
-
-The Sri Lanka Association of Software and Service Companies (SLASSCOM) recently concluded its much-anticipated Compensation and Benefits Survey 2023, shedding light on critical HR trends and issues within the Sri Lankan IT/ BPM industry.
-
-...
-
-[Data](articles/8c33e27c.json)
-
-[Extended Data](ext_articles/8c33e27c.ext.json)
 
 ---

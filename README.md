@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 12:49:41**
+As of **2024-03-22 13:03:15**
 
 ## Newspaper Stats
 
-*Scraped **14,531** Articles*
+*Scraped **14,532** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 776
 economynextcom | 782
 islandlk | 797
 adalk | 1,249
-adaderanalk | 1,738
+adaderanalk | 1,739
 tamilmirrorlk | 1,752
 virakesarilk | 2,048
 dailymirrorlk | 2,228
@@ -26,65 +26,101 @@ adaderanasinhalalk | 2,315
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,528 (100.0%) of 14,531 articles have been extended.
+14,531 (100.0%) of 14,532 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### மனவேதனை முறைப்பாடு:  வன்புணர்ந்தவருக்கு வலை
+### AG to provide full investigation report on ‘Mahaviru Day’ celebrations held so far
+
+*2024-03-22 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98125/ag-to-provide-full-investigation-report-on-mahaviru-day-celebrations-held-so-far) · `en`
+
+The Attorney General has informed the Court of Appeal that it expects to submit a comprehensive investigation report on all ‘Mahaviru Day’ celebrations held to date, commemorating the cadres of the now-defunct separatist group Liberation Tigers of Tamil Eelam’s (LTTE) in the Northern and Eastern provinces.
+
+Appearing on behalf of the Attorney General, Senior State Counsel Shaminda Wickrema communicated this to the court when a writ petition filed by Ananda Jayamanna, a former officer of Sri Lanka Army Intelligence Unit, seeking legal action against and prohibition of ‘Mahaviru Day’ celebrations, was taken up on Thursday (22).
+
+The petition was heard before the two-member trial bench consisting of Justices S.U.B. Karaliyadda and Mayadunne Corea.
+
+Giving an undertaking before the court previously, the Senior State Counsel, had pledged to take legal action against the ‘Mahaviru Day’ celebrations held in last November.
+
+...
+
+[Data](articles/e1e81a11.json)
+
+---
+
+### Misery Complaint: Web to a rape
 
 *2024-03-22 12:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனவேதனை-முறைப்பாடு-வன்புணர்ந்தவருக்கு-வலை/175-335016) · `ta`
 
-இரண்டு சந்தர்ப்பங்களில் பாலியல் வன்புணர்வுக்கு உட்படுத்தினார் என்றக் குற்றச்சாட்டின் கீழ் ஒருவர் வியாழக்கிழமை (21) கைது செய்யப்பட்டுள்ளார்.
+A man was arrested for raping a 29-year-old woman twice in 2023. The incidents occurred on 09/04/2023 and 11/27/2023, and the woman reported the crimes to the Bibila police station on 21/04/2023.
 
-பிபில பொலிஸ் பிரிவுக்கு உட்பட்ட உனகொல்ல பிரதேசத்தில் வசிக்கும் 29 வயதுடைய திருமணமான பெண்ணொருவர் அருகில் உள்ள வீடொன்றில் வசிப்பவரால் இரண்டு தடவைகள் பலாத்காரம் செய்யப்பட்டதாக பிபில பொலிஸாருக்கு முறைப்பாடு கிடைத்தது.
+🟩
 
-09/04/2023 அன்று, அவள் குழந்தையுடன் வீட்டில் இருந்தபோது, ​​"அலிண்டா" என்ற பக்கத்து வீட்டுக்காரர் அவளுடைய வீட்டிற்கு வந்து அவளை பாலியல் பலாத்காரம் செய்துள்ளார், மேலும் 11/27/2023 அன்று மீண்டும் அவளை பாலியல் பலாத்காரம் செய்துள்ளார்.
+A man was arrested on Thursday (21) on charges of rape on two occasions.
 
-ஆனால் இந்த சம்பவம் மனவேதனையை ஏற்படுத்தியதால், கடந்த (21) பிபில பொலிஸ் நிலையத்துக்கு வந்து அப்பெண் முறைப்பாடு செய்துள்ளார்.
+Bibila police have received a complaint that a 29 -year -old married woman, who lives in the Unakolla area, which belongs to the Bibila Police Division, has been raped by a resident of a nearby house.
+
+On 09/04/2023, while she was at home with her child, a neighbor named "Alinda" came to her house and raped her and raped her again on 11/27/2023.
+
+But the incident caused the incident to come to the Bibila police station last (21).
 
 ◼️
 
 [Data](articles/6cb852ce.json)
 
+[Extended Data](ext_articles/6cb852ce.ext.json)
+
 ---
 
-### வெப்பநிலை ஏப்ரல் இறுதி வரை நீடிக்கும் என்கிறது வளிமண்டலவியல் திணைக்களம்!
+### The Department of Meteorology says the temperature will last until the end of April!
 
 *2024-03-22 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179415) · `ta`
 
-வருடத்தின் ஏனைய நாட்களை விட இந்த நாட்களில் வெப்பநிலை ஒன்று அல்லது இரண்டு டிகிரி செல்சியஸ் அதிகரித்துள்ளதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology reports a temperature increase of 1-2°C this year, affecting the entire country, with highs expected until April's end.
 
-நாடளாவிய ரீதியில் இந்த நிலை காணப்படுவதாக வளிமண்டலவியல் திணைக்களத்தின் பிரதிப் பணிப்பாளர் மெரில் மென்டிஸ் தெரிவித்தார்.
+🟩
 
-ஒவ்வொரு ஆண்டும் மார்ச், ஏப்ரல் மாதங்களில் வெப்பம் அதிகமாக இருக்கும் என்றும் ஏப்ரல் இறுதி வரை இதே நிலை நீடிக்கும் என்றும் அவர் கூறினார்.
+The Department of Meteorology said the temperature increased by one or two degrees Celsius these days than the rest of the year.
 
-இந்த நேரத்தில் வெப்பநிலை அசாதாரணமாக உயர்ந்துள்ளதா என்பதை ஆய்வு செய்ய வேண்டும் என்றும் திணைக்களம் கூறுகிறது.
+Deputy Director of the Department of Meteorology, Maril Mendis, said the situation is seen across the country.
+
+He said the heat is high in March and April every year and the situation will remain until the end of April.
+
+The department also states that the temperature has risen abnormally at this time.
 
 ◼️
 
 [Data](articles/40ee8e27.json)
 
+[Extended Data](ext_articles/40ee8e27.ext.json)
+
 ---
 
-### இஸ்ரேல் மனிதாபிமான உதவிகளுக்கு அனுமதி வழங்கவேண்டும் - அவுஸ்திரேலியா பிரிட்டன் கூட்டாக வேண்டுகோள்
+### Israel should grant permission for humanitarian aid
 
 *2024-03-22 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179410) · `ta`
 
-மனிதாபிமான உதவிகள் காசாவை சென்றடைவதை இஸ்ரேல்உறுதி செய்யவேண்டும் என அவுஸ்திரேலியாவும் இங்கிலாந்தும் கூட்டாக வேண்டுகோள் விடுத்துள்ளன.
+Australia and the UK appeal to Israel for humanitarian aid in Gaza, urging an immediate ceasefire and condemning the October 7th attack. They express concern over the situation, highlighting sexual violence and calling for adherence to international humanitarian law.
 
-நிரந்தர பேண்தகு யுத்தநிறுத்தத்தை உருவாக்குவதற்கு உடனடி யுத்தநிறுத்தம் அவசியம் எனவும் இரு நாடுகளும் வேண்டுகோள் விடுத்துள்ளன.
+🟩
 
-காசாவில் காணப்படும் பேரழிவு மனிதாபிமான நிலவரம் குறித்து அவுஸ்திரேலியாவும் இங்கிலாந்தும் கவலை வெளியிட்டுள்ளன.
+Australia and the UK have jointly appealed to Israel to ensure humanitarian assistance to reach Gaza.
 
-ஒக்டோபர் ஏழாம் திகதி தாக்குதலை கண்டித்துள்ள அவுஸ்திரேலிய பிரிட்டன் இந்த தாக்குதல் அப்பாவி மக்கள் மீது மேற்கொள்ளப்பட்டது என தெரிவித்துள்ளதுடன் பாலியல் வன்முறைகள் இடம்பெற்றதாகவும் தெரிவித்துள்ளன.
+The two countries have also appealed for an immediate ceasefire to create a permanent ceasefire.
 
-அனைத்து தரப்பினரும் சர்வதேச மனிதாபிமான சட்டத்தின் வரையறைக்குள் செயற்படவேண்டும் என வேண்டுகோள் விடுத்துள்ள அவுஸ்திரேலியாவும் பிரிட்டனும் உடனடி யுத்தநிறுத்தம் நிபந்தனையற்ற பயணக்கைதிகள் விடுதலை பொதுமக்களை அனைத்து சந்தர்ப்பத்திலும் பாதுகாத்தல் என்பவற்றிற்கான வேண்டுகோளையும் விடுத்துள்ளன.
+Australia and the UK have expressed concern over the humanitarian situation in Gaza.
+
+The Australian British, condemning the attack on the seventh of October, said the attack was carried out on innocent people and that there were sexual violence.
+
+Australia and Britain have appealed for all parties to act within the definition of international humanitarian law, and the immediate ceasefire uncontrollable passengers have made a request for the protection of the public in all cases.
 
 ◼️
 
 [Data](articles/36aff6d7.json)
+
+[Extended Data](ext_articles/36aff6d7.ext.json)
 
 ---
 
@@ -2131,27 +2167,5 @@ On Saturday, Palestinians and peace activists campaigning for a free Palestine c
 [Data](articles/610fd9f3.json)
 
 [Extended Data](ext_articles/610fd9f3.ext.json)
-
----
-
-### Sustaining reform momentum critical for lasting recovery: IMF
-
-*2024-03-22 01:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sustaining-reform-momentum-critical-for-lasting-recovery-IMF/108-279352) · `en`
-
-Says continued progress towards the introduction of property tax is critical
-
-Asserts it is important to continue to rebuild external buffers through strong reserves accumulation
-
-Urges SL to reach agreements in principle with the main external private creditors in line with programme parameters in a timely manner
-
-Sri Lanka has made significant progress, despite its circumstances, in implementing its ambitious reform agenda. However, the International Monetary Fund (IMF) asserted it is necessary for the island nation to stay on course so that it reaches the aspired goals.
-
-Following the completion of the second review of the Extended Fund Facility (EFF) bailout programme, the visiting IMF delegation emphasised that sustaining the momentum of reforms is critical to steer the economy toward lasting recovery and foster stable, inclusive economic growth.
-
-...
-
-[Data](articles/fafd6a48.json)
-
-[Extended Data](ext_articles/fafd6a48.ext.json)
 
 ---

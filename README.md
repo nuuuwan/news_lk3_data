@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 16:03:12**
+As of **2024-03-22 16:18:01**
 
 ## Newspaper Stats
 
-*Scraped **14,568** Articles*
+*Scraped **14,570** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 dailyftlk | 776
 economynextcom | 782
 islandlk | 797
-adalk | 1,252
-adaderanalk | 1,742
+adalk | 1,253
+adaderanalk | 1,743
 tamilmirrorlk | 1,754
 virakesarilk | 2,059
 dailymirrorlk | 2,235
@@ -26,25 +26,49 @@ adaderanasinhalalk | 2,324
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,565 (100.0%) of 14,568 articles have been extended.
+14,568 (100.0%) of 14,570 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### කෙහෙළිය ට පෙනී නොසිටින බව නීතිපති අධිකරණයට දන්වයි
+### Navy apprehends 32 more Indian fishermen poaching in Sri Lankan waters
+
+*2024-03-22 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98129/navy-apprehends-32-more-indian-fishermen-poaching-in-sri-lankan-waters) · `en`
+
+The Sri Lanka Navy has apprehended 32 Indian fishermen along with 05 trawlers poaching in Sri Lankan waters off Talaimannar and near the Delft Island in two separate operations conducted on Wednesday night.
+
+The Navy continues to conduct regular patrols and operations in Sri Lankan waters to curb illegal fishing practices of foreign fishing trawlers, taking into account the impact of those practices on the livelihood of local fishermen.
+
+As an extension of these operations, the North Central and Northern Naval Commands had deployed their Inshore Petrol Craft and Fast Attack Craft to chase away a cluster of Indian poaching trawlers, having spotted they were engaging in illegal fishing in Sri Lankan waters.
+
+Two Indian poaching trawlers were first impounded along with 07 Indian fishermen off Talaimannar, followed by the seizure of 03 more Indian poaching trawlers with 25 fishermen aboard off the Delft Island.
+
+...
+
+[Data](articles/60e47469.json)
+
+---
+
+### Attorney General informs court that Keheliya does not appear to appear
 
 *2024-03-22 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194820) · `si`
 
-ඉන්දීය ණය යෝජනා ක්‍රමය යටතේ ලියාපදිංචි නොකළ ඉන්දීය සමාගම් දෙකකින් ඖෂධ මිලදී ගැනීමට ගෙන තිබෙන තීරණය තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වන බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා ගොනුකර ඇති පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් නම්කර සිටින හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු වගඋත්තරකරුවන් කිහිපදෙනෙකු වෙනුවෙන් පෙනී නොසිටින බව නීතිපතිවරයා අද (22) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේය.
+The Attorney General informed the court that MP Keheliya Rambukwella, a respondent demanding basic human rights, did not appear. The Supreme Court postponed the petition.
 
-මෙම පෙත්සම අද කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසියට ජෙනරාල්වරයා මෙම දැනුම් දීම සිදුකළේය.
+🟩
 
-ඉන් අනතුරුව පෙත්සම සලකා බැලීම කල් තැබීමටත් අධිකරණය නියම කළේය.
+The Attorney General is not speaking to several respondents, including the MP Keheliya Rambukwella, who has been named as respondents who have been demanding the decision to purchase the basic human rights.22) The Supreme Court was informed.
+
+The General Selicini appearing on behalf of the Attorney General was made informed on behalf of the Attorney General at the time of this petition.
+
+The court also decided to postpone the petition.
 
 ◼️
 
 [Data](articles/2588e358.json)
+
+[Extended Data](ext_articles/2588e358.ext.json)
 
 ---
 
@@ -61,6 +85,8 @@ He said the JVP is now trying to show the country that they are good people by p
 ◼️
 
 [Data](articles/5e13f1a7.json)
+
+[Extended Data](ext_articles/5e13f1a7.ext.json)
 
 ---
 
@@ -161,6 +187,8 @@ She also requested to prioritise the protection of women and children and uphold
 ...
 
 [Data](articles/aba9e7ee.json)
+
+[Extended Data](ext_articles/aba9e7ee.ext.json)
 
 ---
 
@@ -455,6 +483,26 @@ He said that he never found dead dogs because of the high heat.
 [Data](articles/0658fd52.json)
 
 [Extended Data](ext_articles/0658fd52.ext.json)
+
+---
+
+### කුඩයක් අරන් යන්න හෙට තද වැසි
+
+*2024-03-22 14:11:57* · [`adalk`](https://www.ada.lk/breaking_news/කුඩයක්-අරන්-යන්න-හෙට-තද-වැසි/11-408757) · `si`
+
+හෙට දිනයේදී (2024 .03 .23) දිවයිනේ බොහෝ ප්‍රදේශ සඳහා වැසි ලැබෙනු අතැයි කාලගුණ විද්‍ය දෙපාර්ථමේනතුව දැනුම්දී සිටියි.
+
+නැගෙනහිර සහ ඌව පළාත්වලත් හම්බන්තොට දිස්ත්‍රක්කයේත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+දිවයිනේ ‌සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වල ඇතැම් ස්ථාන වලට මි. මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැක.
+
+මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලහේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+◼️
+
+[Data](articles/05e67b38.json)
 
 ---
 
@@ -2265,53 +2313,5 @@ Earlier , Mr. Rajapaksa asked for a snap general election ahead of the president
 [Data](articles/68e29d60.json)
 
 [Extended Data](ext_articles/68e29d60.ext.json)
-
----
-
-### Thundershowers today
-
-*2024-03-22 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194796) · `si`
-
-Thundershowers expected in East, Uva, North, North, North, and Northern provinces today. Heavy rains (>50mm) in Western, Sabaragamuwa, and North Western Provinces. Public advised to prepare for strong winds and lightning.
-
-🟩
-
-The Department of Meteorology says that there are several closes in the East, Uva, North, North, North and Northern provinces today (22).
-
-Thundershowers will develop at several places in the evening or night in the other areas of the island.
-
-Some places in the Western, Sabaragamuwa and North Western Provinces. Mee. Heavy rains experience more than 50.
-
-In some places in the Central, Sabaragamuwa and Uva provinces, in some places, are expected to be fourth in the Galle and Matara districts.
-
-The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/17a927fd.json)
-
-[Extended Data](ext_articles/17a927fd.ext.json)
-
----
-
-### Fairly heavy rainfall expected in 3 provinces including Western
-
-*2024-03-22 06:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98118/fairly-heavy-rainfall-expected-in-3-provinces-including-western) · `en`
-
-Several spells of showers are likely in the Eastern, Uva, North-central and Northern provinces, the Department of Meteorology says.
-
-Showers or thundershowers will occur at several places elsewhere in the island in the afternoon or at night.
-
-Meanwhile, fairly heavy showers above 50mm are likely at some places in Western, Sabaragamuwa and North-western Provinces.
-
-Misty conditions are expected at some places in Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
-
-Members of the public are urged to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/2b063a78.json)
-
-[Extended Data](ext_articles/2b063a78.ext.json)
 
 ---

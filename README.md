@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 14:52:05**
+As of **2024-03-22 15:03:07**
 
 ## Newspaper Stats
 
-*Scraped **14,550** Articles*
+*Scraped **14,560** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ dailyftlk | 776
 economynextcom | 782
 islandlk | 797
 adalk | 1,252
-adaderanalk | 1,741
+adaderanalk | 1,742
 tamilmirrorlk | 1,754
-virakesarilk | 2,052
-dailymirrorlk | 2,229
+virakesarilk | 2,057
+dailymirrorlk | 2,233
 adaderanasinhalalk | 2,320
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,545 (100.0%) of 14,550 articles have been extended.
+14,550 (99.9%) of 14,560 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### Canada to reduce number of temporary residents; first cap set in Sept.
+
+*2024-03-22 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98128/canada-to-reduce-number-of-temporary-residents-first-cap-set-in-sept) · `en`
+
+Canada is planning to set limits on the number of temporary residents it lets in for the first time in its history.
+
+Immigration minister Marc Miller said on Thursday that the number will be reduced over the next three years, with the first cap to be set in September.
+
+It will apply to international students, as well as foreign workers and asylum claimants.
+
+The minister has previously spoken about revising immigration targets due to an affordability and housing crisis.
+
+In his announcement, Mr Miller said that Canada plans to reduce the number of temporary residents to 5% of the population, down from the current 6.2%.
+
+He added that the move is to ensure “sustainable” growth in the number of temporary residents coming into Canada.
+
+In recent years, Mr Miller said Canada has seen a “sharp increase” of temporary residents admitted to the country.
+
+...
+
+[Data](articles/ca3e0aaa.json)
+
+---
+
+### வெப்பமான வானிலை : மரதன் ஓட்டப் போட்டிகளுக்கு புதிய வழிகாட்டுதல்கள்
+
+*2024-03-22 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179419) · `ta`
+
+படசாலைகள் மற்றும் பொதுமக்களுக்காக நடத்தப்படும் மரதன் மற்றும் நீண்ட தூர ஓட்டப் போட்டிகளில் பின்பற்ற வேண்டிய வழிகாட்டுதல்கள் குறித்த புதிய சுற்றறிக்கையை விளையாட்டு அபிவிருத்தி திணைக்களம் வெளியிட்டுள்ளது.
+
+மரதன் மற்றும்  நீண்ட தூர ஓட்டப் போட்டிகளில் பங்கேற்கும் அனைத்து விளையாட்டு வீரர்களும் மருத்துவ பரிசோதனைக்கு உட்படுத்தப்படுவது கட்டாயமாகும்.
+
+மரதன் ஓட்டப் போட்டிகளில் ஈடுபடும் விளையாட்டு வீரர்கள் பங்கேற்க மருத்துவ அறிக்கை மற்றும் ஈசிஜி அறிக்கையை வைத்தியரிடம்  வழங்க வேண்டும்.
+
+நாட்டில்  நிலவும் வெப்பமான வானிலை காரணமாக அண்மையில் பதிவான விளையாட்டு வீரர்களின் துரதிஷ்டவசமான மரணங்களை கருத்தில் கொண்டு இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/e414d217.json)
+
+---
+
+### காஸா போர் நிறுத்தம்: அமெரிக்காவின் பிரேரணை மீது பாதுகாப்புச் சபையில் இன்று வாக்கெடுப்பு
+
+*2024-03-22 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179434) · `ta`
+
+காஸாவில் உடனடியாக போர்நிறுத்தம் அமுல்படுத்தப்படுவதை வலியுறுத்துவதற்காக அமெரிக்க அனுசரணையுடன் முன்வைக்கப்படும் பிரேரணை தொடர்பில் ஐ.நா. பாதுகாப்புச் சபையில் இன்று வாக்கெடுப்பு நடைபெறவுள்ளது.
+
+காஸாவில் இஸ்ரேலுக்கும் ஹமாஸுக்கும் இடையில் போர் நிறுத்தத்தை வலியுறுத்தி தீர்மானம் நிறைவேற்றும் முயற்சிகளை  அமெரிக்கா ஏற்கெனவே 3 தடவைகள் தனது வீட்டோ அதிகாரரத்தைப் பயன்படுத்தி தடுத்தது.
+
+இந்நிலையில் தற்போது காஸாவில் உடனடி போர் நிறுத்தத்தை வலியுறுத்தி ஐ.நா, பாதுகாப்புச் சபையில் தீர்மானம் நிறைவேற்ற அமெரிக்க அனுசரணையுடன் முயற்சிகள் மேற்கொள்ளப்படுகின்றன.
+
+இந்நிலையில் மத்திய கிழக்குக்கு விஜயம் மேற்கொண்டுள்ள அமெரிக்க இராஜாங்கச் செயலாளர் அன்டனி பிளிங்கன் இன்று எகிப்திலிருந்து இஸ்ரேலுக்கு சென்றுள்ளார்.
+
+இஸ்ரேலியப் பிரதமர் பெஞ்சமின் நெத்தன்யாஹுவுடன் போர் நிறுத்தம் குறித்து பிளிங்கன் பேச்சுவார்த்தை நடத்தவுள்ளார்.
+
+◼️
+
+[Data](articles/c65a8dff.json)
+
+---
 
 ### 234 acres of land in Jaffna released to farmers under ‘Urumaya’ program
 
@@ -46,45 +108,75 @@ Under the Urumaya national program, aimed at distributing 2 million freehold dee
 
 [Data](articles/53ac9620.json)
 
+[Extended Data](ext_articles/53ac9620.ext.json)
+
 ---
 
-### ආරක්ෂක හමුදා යටතේ තිබූ උතුරේ ඉඩම් ගැන ජනපතිගෙන් තීන්දුවක්
+### IMF முன்மொழிவுகளில், மலையக பெருந்தோட்ட தொழிலாளர்களுக்கென, விசேட வேலைத்திட்டம் முன்வைக்கப்பட வேண்டும் - வேலு குமார்
+
+*2024-03-22 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179432) · `ta`
+
+சர்வதேச நாணய நிதியத்தின் முன்மொழிவுகளில், மலையக பெருந்தோட்ட தொழிலாளர்களுக்கென, விசேட வேலைத்திட்டம் முன்வைக்கப்பட வேண்டும் என்ற வேண்டுகோளை கண்டி மாவட்ட பாராளுமன்ற உறுப்பினர் வேலு குமார்  சர்வதேச நாணய நிதியத்தின்  பிரதிநிதிகளிடம் முன்வைத்தார்.
+
+இலங்கை வந்துள்ள  சர்வதேச நாணய நிதியத்தின்  பிரதிநிதிகள், ஐக்கிய மக்கள் சக்தி கூட்டணியை, பாராளுமன்ற வளாகத்தில் சந்தித்து கலந்துரையாடினர். இக் கலந்துரையாடல் எதிர் கட்சி தலைவர் சஜித் பிரேமதாச தலைமையில் நடைப்பெற்றது. அதன் போது, ஐக்கிய மக்கள் சக்தியின் பொருளாதார ஆலோசனைக்குழு அங்கத்தவர்கள் கலந்துகொண்டிருந்தனர்.
+
+இக் கலந்துரையாடலின் போது, வாழ்க்கை செலவு அதிகரிப்பு, உற்பத்தி செலவீன அதிகரிப்பால் வெளிநாட்டு சந்தை வாய்ப்புகளை இழக்க நேரிடும் அபாயம், வரி முறையிலே காணப்படும் ஒவ்வாமை, மற்றும் சிறிய, நடுத்தர கைத்தொழிலில் ஏற்பட்டுள்ள பாரிய பாதிப்புக்கள் பற்றி சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகளுக்கு எடுத்து கூறப்பட்டது.
+
+...
+
+[Data](articles/f001a1fc.json)
+
+---
+
+### President decides about land in the North under the security forces
 
 *2024-03-22 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194816) · `si`
 
-යාපනය ආරක්ෂක හමුදා මූලස්ථානය යටතේ තිබූ ඉඩම් අක්කර 234ක ප්‍රමාණයක් ගොවි ජනතාවට නිදහස් කිරීමට කටයුතු කර තිබේ.
+President Ranil Wickremesinghe released 234 acres of land under Security Forces in the North, part of a "Heritage" National Program to distribute two million land deeds.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උතුරේ සංචාරයක නිරත වන අතරතුර එම ඉඩම් නිදහස් කිරීම සිදුකර තිබුණි.
+🟩
 
-ජනාධිපති මාධ්‍ය අංශය පැවසුවේ යාපනයේ ග්‍රාම නිලධාරී කොට්ඨාස 5කට අයත් ඉඩම් ඒ අනුව නිදහස් කර ඇති බවය.
+234 acres of land under the Security Forces headquarters have been released.
 
-ජනතාවට සින්නක්කර ඉඩම් ඔප්පු මිලියන 2ක් ලබාදීමේ “උරුමය” ජාතික වැඩසටහන යටතේ තවත් 408 දෙනෙකු සඳහා සංකේතාත්මකව ඔප්පු ප්‍රදානය කිරීමේ උත්සවය අද (22) ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් යාපනය ඔට්ටගපුලම් ප්‍රදේශයේදී පැවැත්වුණි.
+The land had been released while President Ranil Wickremesinghe visited the North.
+
+The Presidential Media Unit said the land belonging to five Grama Niladhari Divisions in Jaffna has been released.
+
+President Ranil Wickremesinghe was presented in the Ottagapulam area under the patronage of the "Heritage" National Program to provide two million land deeds to the people.
 
 ◼️
 
 [Data](articles/2836879d.json)
 
+[Extended Data](ext_articles/2836879d.ext.json)
+
 ---
 
-### ඌරු වකුගඩුවකින් ජීවිතය ලද මිනිසා
+### The man who had been living in a pig kidney
 
 *2024-03-22 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194815) · `si`
 
-ජානමය වශයෙන් වෙනස් කරන ලද ඌරෙකුගෙන් ලබාගත් වකුගඩුවක් 62 හැවිරිදි පුද්ගලයෙකුට සාර්ථකව බද්ධ කිරීමට අමෙරිකානු වෛද්‍ය කණ්ඩායමක් සමත්වී තිබේ.
+A 62-year-old Sri Lankan received a successful kidney transplant from a genetically modified pig, marking a significant medical achievement. The procedure, conducted at Massachusetts General Hospital on March 16, lasted 4 hours.
 
-ජානමය වශයෙන් වෙනස්කළ ඌරෙකුගෙන් ඒ ආකාරයට වකුගඩුවක් ලබාගෙන ඇත්තේ අවයව බද්ධයෙන් අනතුරුව ඇතිවිය හැකි සංකූලතා මඟ හැරවීමට බව වෛද්‍යවරු පැවසූහ.
+🟩
 
-එම සුවිශේෂී බද්ධයට මුහුණදුන් රික් ස්ලේමන් නියම වීරයෙක් බව පවසන වෛද්‍ය කණ්ඩායම, ඔහු රෝහලෙන් පිටවීමට සූදානමින් සිටින බවද පැවසීය.
+A Sri Lankan team has successfully transplanted a genetic-modified pigs successfully transplant a success of a 62-year-old person.
 
-මෙහි අරමුණ වන්නේ අනාගතයේදී මිනිසුන් ගේ අවශ්‍යතා සඳහා සත්ත්ව අවයව භාවිත කිරීම බව සඳහන් ය.
+The doctors said that a genetic modified pigs had obtained a kidney to avoiding complications that could be avoided after the organ transplant.
 
-මොළය මියගිය පුද්ගලයින් ට මීට පෙර ඌරු වකුගඩු බද්ධ කර ඇත්තේ අත්හදා බැලීම් සඳහා ය.
+The medical team said that Rick Slamon was a real hero with that particular constipation, he said he was preparing to leave the hospital.
 
-මැසචුසෙට්ස් මහ රෝහල පැවසුවේ මාර්තු 16 වනදා සිදුකළ අදාළ අවයව බද්ධය සඳහා පැය 4ක කාලයක් ගතවූ බවයි.
+It is said that this is the purpose of using animal shelter to the needs of people in the future.
+
+The brain deceased has been transplanted for experiments before the deceased.
+
+The Massachusetts General Hospital said that the organ transplant took place on March 16 was 4 hours.
 
 ◼️
 
 [Data](articles/76770bf1.json)
+
+[Extended Data](ext_articles/76770bf1.ext.json)
 
 ---
 
@@ -112,6 +204,74 @@ The department also said that the temperature has risen abnormally at this time.
 
 ---
 
+### யாழில் இராணுவ வசமிருந்த 234 ஏக்கர் காணி ஜனாதிபதியால் விவசாயிகளிடம் கையளிப்பு
+
+*2024-03-22 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179429) · `ta`
+
+யாழ். பாதுகாப்பு படைத் தலைமையகத்தின் வசமிருந்த யாழ்ப்பாணத்தின் 5 கிராம சேவகர் பிரிவுகளுக்குச் சொந்தமான 234 ஏக்கர் காணி ஜனாதிபதி ரணில் விக்ரமசிங்கவால் இன்று வியாழக்கிழமை (22) பயிர்செய்கைக்காக விவசாயிகளிடம் கையளிக்கப்பட்டுள்ளது.
+
+அத்துடன் இலவசமாக 2 மில்லியன் காணி உறுதிகளை வழங்குவதற்கான உறுமய தேசிய வேலைத்திட்டத்தின் கீழ், 408 பேருக்கு காணி உறுதிப்பத்திரங்கள் வழங்கும் நிகழ்வு ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் யாழ்ப்பாணம் ஒட்டகப்புலத்தில் நடைபெற்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/1443c80c.json)
+
+---
+
+### Premier build, architecture tradeshow launched
+
+*2024-03-22 14:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Premier-build-architecture-tradeshow-launched/110-279400) · `en`
+
+Kedella Construction Expo, the premier build and architecture tradeshow 2024, was launched at the Bandaranaike Memorial International Conference Hall (BMICH) while making a dream home a reality. During the exhibition, people can buy tiles, solar systems, construction equipment, electrical products and furniture at great discounts. The exhibition will be held till Sunday 24, between 10 a.m. and 9 p.m. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/8da8591e.json)
+
+---
+
+### Rabies spread in heat: Hinting at potential animal culling plan?
+
+*2024-03-22 14:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rabies-spread-in-heat-Hinting-at-potential-animal-culling-plan/108-279393) · `en`
+
+Colombo, March 22 (Daily Mirror) - While condemning the statement made by the Veterinary Medical Officers’ Association over the imminent danger of rabies spreading due to the intense heat, advisor to the board of the Association of Veterinarians for Humane Management of Animal Population, Dr. Chamith Nanayakkara, said that it might be a pre-plan to kill those animals.
+
+He said that he never found dead dogs because of the high heat.
+
+"For example, the temperature in Mannar is extremely high, and we never found dead animals due to the high heat.
+
+"As claimed by the Veterinary Medical Officers’ Association, the number of cases due to rabies should increase in areas where higher temperatures are recorded. During the past ten years, plenty of rabies-infected cases were reported from areas recording high temperatures.
+
+"The first case study was conducted in the Philippines and according to their report, it had been requested to provide rabies vaccines to dogs before the start of the summer season.
+
+...
+
+[Data](articles/0658fd52.json)
+
+---
+
+### மாணவர்களை அயல் பாடசாலைகளில் சிரமதானத்தில் ஈடுபடுத்திய விவகாரம் ; அதிபருக்கு எதிராக விசாரணை
+
+*2024-03-22 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179426) · `ta`
+
+யாழில் உள்ள பிரபல பாடசாலை அதிபருக்கு எதிராக யாழ்.கல்வி வலயத்தால் விசாரணைகள் முன்னெடுக்கப்பட்டுள்ளது.
+
+குறித்த பாடசாலைக்கும், கொழும்பில் உள்ள பாடசாலை ஒன்றுக்கும் இடையில் அண்மையில் துடுப்பாட்ட போட்டி நடைபெற்றது.
+
+போட்டி நாட்களில் மாணவர்கள் உற்சாகமாக வீதிகளில் பாண்ட் வாத்தியம் இசைத்து ஆடி பாடி மகிழ்ந்தனர். அதன் போது அயலில் உள்ள பெண்கள் பாடசாலைகளின் முன்பாகவும் கொண்டாட்டங்களில் ஈடுபட்டிருந்தனர்.
+
+இது தொடர்பில் பாடசாலை அதிபருக்கு தகவல் கிடைத்து , அவ்வாறு கொண்டாட்டங்களில் ஈடுபட்ட மாணவர்களில் அடையாளம் காணப்பட்ட மாணவர்களுக்கு எதிராக நடவடிக்கை எடுத்த அதிபர் , பெற்றோர்களை பாடசாலைக்கு அழைத்து, பிள்ளைகளுடன் அயல் பாடசாலைகளுக்கு சென்று சிரமதான பணிகளில் ஈடுபடுங்கள் என பணித்துள்ளார்.
+
+அதிபரின் பணிப்புரையை ஏற்று பெருமளவான பெற்றோர் தமது பிள்ளைகளுடன் சென்று அயல் பாடசாலைகளில் சிரமதான பணிகளில் ஈடுபட்டனர்.
+
+அதிபரின் செயற்பாடு குறித்து வடமாகாண கல்வி பணிமனைக்கு முறைப்பாடுகள் கிடைக்கப்பெற்றதை அடுத்து , வலய கல்வி பணிமனை விசாரணைகளை முன்னெடுத்துள்ளது.
+
+◼️
+
+[Data](articles/4932cf2f.json)
+
+---
+
 ### Japanese envoy commends Sri Lanka’s anti-corruption initiatives, assures support
 
 *2024-03-22 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98126/japanese-envoy-commends-sri-lankas-anti-corruption-initiatives-assures-support) · `en`
@@ -127,6 +287,20 @@ During his keynote speech titled “Japan’s Modernization and Lessons for Sri 
 ...
 
 [Data](articles/fcb5b3e5.json)
+
+[Extended Data](ext_articles/fcb5b3e5.ext.json)
+
+---
+
+### Working despite hot weather...
+
+*2024-03-22 13:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Working-despite-hot-weather/110-279399) · `en`
+
+People in urban areas of Colombo engage in their work during daytime despite the hot weather. Some labourers at their workplace in Colombo today during the hot weather conditions. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/151f4b94.json)
 
 ---
 
@@ -147,6 +321,18 @@ Accordingly, 27 suspects have been arrested in the past 3 days of the underworld
 [Data](articles/fbe447a9.json)
 
 [Extended Data](ext_articles/fbe447a9.ext.json)
+
+---
+
+### Increase public, private sector salaries...
+
+*2024-03-22 13:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Increase-public-private-sector-salaries/110-279398) · `en`
+
+Five persons from the People's Struggle Movement staged a protest in front of the Central Bank today demanding an increase in public and private sector salaries compared to the Central Bank salary increase. A large number of security personnel were deployed in the area, though only five persons participated in the protest. Pix by Pradeep Pathirana.
+
+◼️
+
+[Data](articles/f3f4a8c1.json)
 
 ---
 
@@ -246,19 +432,25 @@ Meanwhile, the President said that even Anganan Ramanathan would be on his visit
 
 ---
 
-### T 56 කට රුපියල් ලක්ෂ 5ක්
+### 5 lakhs per $ 5
 
 *2024-03-22 12:58:07* · [`adalk`](https://www.ada.lk/breaking_news/T-56-කට-රුපියල්-ලක්ෂ-5ක්/11-408756) · `si`
 
-විෂ මත්ද්‍රව්‍ය ජාවාරම් කරුවන් අත්අඩංගුවට ගැනීම සඳහා ක්‍රියාත්මක මෙහෙයුම් අතර, එයට සමගාමීව සංවිධානාත්මක අපරාධ කරුවන් මර්ධනය කිරීම සඳහා විෂේශ මෙහෙයුමක් 2024.03.19 දින සිට පොලීසිය විසින් ක්‍රියාත්මක කොට ඇත. මෙය විෂේශයෙන්ම බස්නාහිර පලාතේ සහ ගාල්ල දිස්ත්‍රික්කය තුල ක්‍රියාත්මකය. මෙහිදී ගිනි අවි සහ සංවිධානාත්මක අපරාධ කරුවන් සම්බන්ධයෙන් ලබාදෙන තොරතුරු සඳහා වටිනා මුදල් ත්‍යාග ලබාදීමට පොලිස්පතිතුමා විසින් තීරණය කොට ඇත.
+The Sri Lanka Police, starting from 19.03.2013, has been actively combating drug traffickers in the Western Province and Galle District, offering cash rewards for information on firearms and organized crime. A special telephone number, 46, has been established for reporting.
 
-කොරතුරු ලබාදෙන්නන් හට තොරතුරු ලබාදීම සඳහා විශේෂ දුරකථන අංක 46ක් ප්‍රකාෂයට පත් කර ඇත. එයට අමතරව රහස්්‍යභාවය රැකෙන පරිදි වෙනත් ඔනෑම ආකාරයකට පොලීසියට තොරතුරු ලබා දීමේ හැකියාවක්ද ඇත.
+🟩
 
-ඉහත දක්වා ඇති වගුවේ පරිදි පුද්ගලික ඔත්තුකරුවන්ට මුදල් ත්‍යග ලබා දෙන බව ශ්‍රී ලංකා පොලීසිය විසින් දැනුම් දී ඇත.
+A special operation has been operated by the police from 19.03.2013, among the operations to arrest poisonous drug traffickers.. This is a special in the Western Province and Galle District. The IGP has decided to provide valuable cash prizes for the information provided by firearms and organized criminals.
+
+46 Special Telephone No. 46 has been appointed to provide information to the commands. In addition, the police have the ability to provide information to another type of information.
+
+The Sri Lanka Police have informed private spies as mentioned above.
 
 ◼️
 
 [Data](articles/debbf01e.json)
+
+[Extended Data](ext_articles/debbf01e.ext.json)
 
 ---
 
@@ -2057,185 +2249,5 @@ Secretary to the Prime Minister Anura Dissanayake, IMF Alternative Executive Dir
 [Data](articles/87c5a142.json)
 
 [Extended Data](ext_articles/87c5a142.ext.json)
-
----
-
-### India infuses additional funds into ongoing grant projects
-
-*2024-03-22 05:04:53* · [`dailyftlk`](https://www.ft.lk/news/India-infuses-additional-funds-into-ongoing-grant-projects/56-759793) · `en`
-
-Indian High Commissioner Santosh Jha (right) with Secretary, Ministry of Urban Development and Housing W.S. Sathyananda
-
-Indian High Commissioner Santosh Jha and Secretary, Ministry of Urban Development and Housing W.S. Sathyananda yesterday signed and exchanged diplomatic letters to formalise Government of India’s (GOI) decision to provide an additional grant of Rs. 150 million for the construction of houses and infrastructure facilities in Sobitha Thero Village in Anuradhapura.
-
-With this, GOI’s total commitment to the project currently stands at Rs. 450 million.
-
-With the formalisation of the additional grant amount, 90 houses shall be constructed in the village with the GOI grant.  The project is currently underway and the proposed houses are at various stages of construction. The project is being executed in collaboration with Ven. Maduluwawe Sobhitha Thero Commemoration Foundation.
-
-...
-
-[Data](articles/5ce2c3dc.json)
-
-[Extended Data](ext_articles/5ce2c3dc.ext.json)
-
----
-
-### MSMEs commend Opposition leader for advocating issues with IMF
-
-*2024-03-22 05:03:08* · [`dailyftlk`](https://www.ft.lk/business/MSMEs-commend-Opposition-leader-for-advocating-issues-with-IMF/34-759792) · `en`
-
-Highlight Opposition leader’s stance on emphasising challenges faced by MSMEs, contrasting it with Govt.›s lack of action
-
-Point to the need of Government›s intervention for the sector›s development during the 10-month window of parate execution law suspension
-
-Express disappointment over State Minister of Finance Ranjith Siyambalapitiya›s dismissive remarks regarding MSME engagement with IMF officials
-
-Micro, Small, and Medium Enterprises (MSMEs) on Wednesday expressed gratitude towards Opposition leader Sajith Premadasa for facilitating a direct engagement with the International Monetary Fund (IMF) staff mission m to address their concerns.
-
-Members of the MSME community commended the Opposition leader for his proactive stance on shedding light on the challenges faced by the business community, contrasting it with the government›s lack of action.
-
-...
-
-[Data](articles/2a77ccd8.json)
-
-[Extended Data](ext_articles/2a77ccd8.ext.json)
-
----
-
-### ‘NSB marks 52nd anniversary with pride’
-
-*2024-03-22 05:01:00* · [`islandlk`](http://island.lk/nsb-marks-52nd-anniversary-with-pride/) · `en`
-
-NSB (The National Savings Bank) commemorated its 52nd anniversary with a meaningful celebration held at the NSB Head Office, graced by the presence of its chairman, Dr. Harasha Cabral PC, Senior Director, Dushantha Basnayake, and GM/CEO, Ms. Shashi Kandambi, senior management and members of Team NSB. The event was a testament to NSB’s rich legacy of service excellence and unwavering commitment to its stakeholders, a NSB press release said.
-
-The release added: ‘The anniversary festivities commenced with solemn religious observances, honoring the diversity and unity of all four religions. The dignitaries present participated in these ceremonies, symbolizing NSB’s respect for cultural pluralism and inclusivity.
-
-...
-
-[Data](articles/3b8fadb8.json)
-
-[Extended Data](ext_articles/3b8fadb8.ext.json)
-
----
-
-### People’s Bank receives ‘Excellence in Corporate Cards for Government Departments’ award
-
-*2024-03-22 05:01:00* · [`islandlk`](http://island.lk/peoples-bank-receives-excellence-in-corporate-cards-for-government-departments-award/) · `en`
-
-People’s Bank was recognized at the Visa Commercial Solutions Client Forum Sri Lanka 2024, held recently at the Cinnamon Grand Hotel. The bank was honored with the prestigious “Excellence in Corporate Cards for Government Departments” award, highlighting its exceptional commitment to providing tailored financial solutions.
-
-Nilmini Premalal, Deputy General Manager of Payment, Process Management & Quality Assurance at People’s Bank, accepted the award on behalf of the organization. The recognition, presented by Avanthi Colombage, Country Manager, Sri Lanka and Maldives, Visa, Shruti Gupta, Head of Commercial and Money Movement Solutions, India & South Asia, Visa and Qinwen Xiao, Head of Visa B2B Connect, Asia Pacific, Visa underscores the bank’s dedication to excellence in serving government departments across Sri Lanka.
-
-...
-
-[Data](articles/c288ed3d.json)
-
-[Extended Data](ext_articles/c288ed3d.ext.json)
-
----
-
-### ASUS reveals cutting-edge Zenbook premium laptops and new Republic of Gamers laptop family
-
-*2024-03-22 05:01:00* · [`islandlk`](http://island.lk/asus-reveals-cutting-edge-zenbook-premium-laptops-and-new-republic-of-gamers-laptop-family/) · `en`
-
-ASUS Sri Lanka, the local operations of Taiwanese tech giant ASUS, held its first launch event of the year where ASUS laptops that combine multitasking versatility with unmatched mobility to maximize productivity were unveiled at the Lotus Ballroom, Shangri-La Colombo recently.
-
-The newly unveiled laptops included the new Zenbook 14 OLED (UX3405) premium ultraportable OLED laptop featuring the all-new AI-powered Intel Core Ultra 9 processor, the Zenbook DUO, the world’s first 14″ Dual-Screen OLED laptop and the 2024 ROG Strix laptops, the first ROG laptop featuring an 18″ mini-LED display.
-
-...
-
-[Data](articles/d9a9794c.json)
-
-[Extended Data](ext_articles/d9a9794c.ext.json)
-
----
-
-### EFC advocates for a more inclusive workplace for women
-
-*2024-03-22 04:59:31* · [`dailyftlk`](https://www.ft.lk/business/EFC-advocates-for-a-more-inclusive-workplace-for-women/34-759791) · `en`
-
-EFC Deputy Director General, ILO Country Director for Sri Lanka and Maldives and the panellist
-
-Women’s labour force participation in Sri Lanka has been declining over time. ILO estimates that investing in policies and services to support workers with family responsibilities could generate a considerable number of jobs here at home, the bulk of which would go to women. These observations were made by the ILO Country Director for Sri Lanka and Maldives, Joni Simpson at a forum initiated by the Employers’ Federation of Ceylon (EFC) recently to mark the International Women’s Day.
-
-Delivering her keynote address at the EFC event under the theme - ‘Inspire Inclusion to forge a more inclusive workplace for women’, ILO Country Director further noted that the EFC, is well placed to promote and introduce policies and initiatives to ensure inclusivity and gender equality in the workplace.
-
-...
-
-[Data](articles/5c7f9ae4.json)
-
-[Extended Data](ext_articles/5c7f9ae4.ext.json)
-
----
-
-### BOI celebrates International Women’s Day
-
-*2024-03-22 04:55:39* · [`dailyftlk`](https://www.ft.lk/business/BOI-celebrates-International-Women-s-Day/34-759790) · `en`
-
-The International Women’s Day was celebrated across several locations of the Board of Investment (BOI) recently bringing together influential women leaders to inspire and empower attendees. The BOIs International Women’s Day celebration reaffirmed the institution’s commitment to promoting gender equality and empowerment of women in the workplace. A former justice of the Supreme Court of Sri Lanka Shiranee Tilakawardane was the chief guest at the event held at the BOI head office Colombo.
-
-◼️
-
-[Data](articles/7652af1a.json)
-
-[Extended Data](ext_articles/7652af1a.ext.json)
-
----
-
-### Speaker breezes through NCM with Govt. support
-
-*2024-03-22 04:53:38* · [`dailyftlk`](https://www.ft.lk/news/Speaker-breezes-through-NCM-with-Govt-support/56-759789) · `en`
-
-Speaker Mahinda Yapa Abeywardena yesterday survived the No Confidence Motion brought against him by the Opposition after it was defeated by 42 votes in Parliament.
-
-The vote on the No Confidence Motion, the first of its kind against a sitting Speaker of Parliament in Sri Lanka’s history was held following a three-day debate during which the Opposition accused him of partisan behaviour among many other allegations.
-
-117 MPs had voted against the motion while 75 voted in favour. Accordingly, Abeywardena will now continue in his role as the Speaker of the Sri Lankan Parliament.
-
-Opposition parties, the Samagi Jana Balawegaya (SJB), National People’s Power (NPP), Ilankai Tamil Arasu Kachchi (ITAK) and independent MPs including Wimal Weerawasa, Udaya Gammanpila, and Prof G.L. Peiris voted in favour of the motion.
-
-...
-
-[Data](articles/549bc105.json)
-
-[Extended Data](ext_articles/549bc105.ext.json)
-
----
-
-### MPs debate CoPF Report: Concerns mount over CBSL Act interpretation
-
-*2024-03-22 04:52:13* · [`dailyftlk`](https://www.ft.lk/news/MPs-debate-CoPF-Report-Concerns-mount-over-CBSL-Act-interpretation/56-759788) · `en`
-
-The Members of the Parliament yesterday continued to debate on the growing concerns and differing interpretations regarding the role and authority of the Central Bank (CBSL), highlighting the need for clarity and consensus on matters of financial governance.
-
-MP Prof. Charitha Herath raised a point of order, expressing concerns about the implications of the CBSL salary hike report submitted by Committee on Public Finance (CoPF) Chairman Dr. Harsha de Silva on the future Parliamentary decisions.  He explained that the report's stance on the independence of the Central Bank of Sri Lanka Act raised potential issues, calling for clarification from the Attorney General.
-
-...
-
-[Data](articles/2140b06f.json)
-
-[Extended Data](ext_articles/2140b06f.ext.json)
-
----
-
-### AKD to meet Tamil and Muslim diaspora in Canada
-
-*2024-03-22 04:50:52* · [`dailyftlk`](https://www.ft.lk/news/AKD-to-meet-Tamil-and-Muslim-diaspora-in-Canada/56-759787) · `en`
-
-National People’s Party (NPP) leader Anura Kumara Dissanayake will tour Canada this week to meet supporters of the party residing in the country.
-
-The party said Dissanayake left for Canada on Wednesday and will address several public gatherings during his visit.
-
-Dissanayake is slated to speak at two gatherings arranged by the NPP Canada Committee on 23 and 24 March. The initial meeting is set to take place in Toronto, followed by the second meeting in Vancouver.
-
-The NPP leader will also meet with members of the Sri Lankan Muslim and Tamil diaspora residing in Canada during the visit. The visit will highlight the importance of engaging with the Sri Lankan diaspora and fostering closer ties between Canada and Sri Lanka.
-
-Dissanayake met with Canadian High Commissioner to Sri Lanka Eric Walsh at the Janatha Vimukthi Peramuna (JVP) Office in March where his Canadian visit was also taken up for discussion. At the time Walsh extended his wishes to Dissanayake for the visit.
-
-◼️
-
-[Data](articles/a763e7fd.json)
-
-[Extended Data](ext_articles/a763e7fd.ext.json)
 
 ---

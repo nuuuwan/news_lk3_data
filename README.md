@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 11:03:38**
+As of **2024-03-22 11:17:59**
 
 ## Newspaper Stats
 
-*Scraped **14,493** Articles*
+*Scraped **14,511** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,97 +12,113 @@ colombotelegraphcom | 133
 bbccomsinhala | 159
 dbsjeyarajcom | 190
 newsfirstlk | 363
-economynextcom | 768
 dailyftlk | 776
+economynextcom | 782
 islandlk | 797
-adalk | 1,246
+adalk | 1,248
 adaderanalk | 1,736
-tamilmirrorlk | 1,747
+tamilmirrorlk | 1,748
 virakesarilk | 2,042
 dailymirrorlk | 2,224
-adaderanasinhalalk | 2,312
+adaderanasinhalalk | 2,313
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,484 (99.9%) of 14,493 articles have been extended.
+14,493 (99.9%) of 14,511 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### Mongolia is the most wide winter that has not been confronted in half a hundred years - snow everywhere - five million animals death
+### කෙහෙළියගේ ඇප ඉල්ලීම සලකාබැලීමට දිනයක්
 
-*2024-03-22 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179391) · `ta`
+*2024-03-22 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194809) · `si`
 
-Mongolia faces a severe winter, with snow everywhere and the death of five million animals. Humanitarian organizations report a significant loss of livestock, affecting nomadic and livestock shepherds. Alexander, Regional Director of the Asia Pacific of the International Red Cross, highlights the impact on those reliant on livestock.
+රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇපමත මුදාහැරීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා ගොනුකර ඇති ප්‍රතිශෝධන පෙත්සම සලකාබැලීම සඳහා ලබන සඳුදා කැඳවන ලෙස කොළඹ මහාධිකරණය නියම කළේය.
+
+මෙම පෙත්සම අද (22) කොළඹ මහාධිකරණ විනිසුරු සුජීව නිශ්ශංක මහතා ඉදිරියේ කැඳවනු ලැබීය.
+
+◼️
+
+[Data](articles/30bfa24e.json)
+
+---
+
+### முல்லைத்தீவில் ஷெல் மீட்பு
+
+*2024-03-22 11:04:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முல்லைத்தீவில்-ஷெல்-மீட்பு/72-335009) · `ta`
+
+முல்லைத்தீவில் கொக்குளாய் பொலிஸ் பிரிவிற்குட்பட்ட புளியமுனை பகுதியிலுள்ள தனியார் காணியிலிருந்து வெடிகுண்டு கண்டுபிடிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+குறித்த காணி உரிமையாளரினால் நேற்று சுத்தம் செய்யப்பட்ட போது காணியில் மோட்டார் ஷெல் இருந்துள்ளதை கண்டுள்ளார்.
+
+சம்பவ இடத்திற்கு சென்ற பொலிஸார் செல்லினை மீட்டுள்ளதுடன் இது தொடர்பான மேலதிக விசாரணையினை கொக்குளாய் பொலிஸாரால் மேற்கொள்ளப்பட்டு வருகின்றது. R
+
+◼️
+
+[Data](articles/13e7a241.json)
+
+---
+
+### President
+
+*2024-03-22 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179397) · `ta`
+
+Minister Douglas Devananda welcomed the President to Jaffna via Palali Airport. The President plans to return 278 acres of military-controlled land and inaugurate a new emergency unit at Point Pedro Base Hospital.
 
 🟩
 
-Humanitarian organizations have reported that five million animals have died due to the severe winter of Mongolia half a century.
+Minister Douglas Devananda, including Minister Douglas Devananda, welcomed the President who was visiting Jaffna through Palali Airport.
 
-Mongolia is trapped in a very severe cold and 4.7 million animals have been killed.
-
-Temperature has fallen. Heavy snowfall is completely closed.
-
-More than three hundred thousand people in Mongolia are involved in nomadic and livestock shepherds for food and markets.
-
-Alexander, Regional Director of the Asia Pacific of the International Red Cross, said that the people who have completely relied on livestock for their lives have become a few months old.
-
-More than 2250 families in the livestock have lost more than 70 percent of their livestock.
-
-The heavy cold weather has affected the majority of Mongolia.
-
-Spring in Mongolia, but winter is still in the ground, the cattle are still dead.
-
-◼️
-
-[Data](articles/e2faebc4.json)
-
-[Extended Data](ext_articles/e2faebc4.ext.json)
-
----
-
-### ශ්‍රී ලංකාවට ණය සහනයක්
-
-*2024-03-22 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194808) · `si`
-
-ඉන්දියාවට සහ පැරිස් සමාජයේ රටවල් සඳහා ශ්‍රී ලංකාව ගෙවිය යුතු ණය සඳහා වසර 6ක සහන කාලයක් ලැබීමට ඉඩ ඇතැයි ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
-
-◼️
-
-[Data](articles/032a504b.json)
-
----
-
-### யாழை சென்றடைந்தார்  ஜனாதிபதி
-
-*2024-03-22 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179397) · `ta`
-
-பலாலி விமான நிலையம் ஊடாக யாழ்ப்பாணம் வருகை தந்த ஜனாதிபதியை அமைச்சர் டக்ளஸ் தேவானந்தா உள்ளிட்ட குழுவினர் பொன்னாடை போர்த்தி வரவேற்றனர்.
-
-யாழ்ப்பாணம் வருகை தந்த ஜனாதிபதி , கடந்த 33 வருட காலமாக இராணுவ கட்டுப்பாட்டில் இருந்த தனியாரின் சுமார் 278 ஏக்கர் காணிகளை அதன் உரிமையாளரிடம் மீள கையளிக்கவுள்ளதுடன், பருத்தித்துறை ஆதார வைத்தியசாலையில் புதிதாக நிர்மாணிக்கப்பட்டுள்ள அவசர சிகிச்சை பிரிவையும் திறந்து வைக்கவுள்ளார்.
+The President, who has arrived in Jaffna, will return about 278 acres of land, which has been under military -controlled for the past 33 years, and will open the newly constructed emergency unit at the Point Pedro Base Hospital.
 
 ◼️
 
 [Data](articles/ef8b28eb.json)
 
+[Extended Data](ext_articles/ef8b28eb.ext.json)
+
 ---
 
-### இலஞ்சம் கோரி இராஜங்க அமைச்சர் கொலை அச்சுறுத்தலாம் : பதவி விலகினார் சீநோர் தலைவர்!
+### Credit relief to Sri Lanka
+
+*2024-03-22 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194808) · `si`
+
+Sri Lanka granted credit relief, allowing repayment of loans to India and Paris.
+
+🟩
+
+International media reports that Sri Lanka is allowed to be paid for the loans to be paid for India and Paris society.
+
+◼️
+
+[Data](articles/032a504b.json)
+
+[Extended Data](ext_articles/032a504b.ext.json)
+
+---
+
+### Civil minister may threaten the murder of bribery
 
 *2024-03-22 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179393) · `ta`
 
-இராஜாங்க அமைச்சர்  பியால் நிஷாந்தவின் மரண அச்சுறுத்தல் காரணமாக தனது கடமைகளைத் தொடர முடியாது என ஜனாதிபதிக்கு கடிதம் மூலம் அறிவித்ததையடுத்து,  சீநோர்  நிறுவனத்தின்  (C-Nor Foundation)  தலைவர் கலாநிதி  துலான் ஹெட்டியாராச்சி தனது பதவியை இராஜினாமா செய்துள்ளார்.
+Dr. Dulan Hettiarachchi, Chairman of the C-Nor Foundation, resigned due to a death threat from Minister Pali Nishantha, who allegedly threatened to bribe him. Hettiarachchi also took over the Limited Institute of the Sea Nor Organization, hiring 20 new employees.
 
-கடற்றொழில் இராஜாங்க அமைச்சர்  பியால் நிஷாந்த தன்னை அச்சுறுத்தி இலஞ்சம் கேட்டு வருவதாகவும் சில சந்தர்ப்பங்களில் வழங்காதபோது கொலைமிரட்டல் விடுப்பதாகவும்  கலாநிதி  துலான் ஹெட்டியாராச்சி இது தொடர்பில் ஜனாதிபதிக்கு கடிதம் மூலம் தெரிவித்துள்ளார்.
+🟩
 
-கடற்றொழில் இராஜாங்க அமைச்சின் கீழ் இயங்கும் சீ நோர்  அமைப்பின் லிமிடெட் நிறுவனத்தின் தலைவராக ஹெட்டியாராச்சி பொறுப்பேற்றுக் கொண்டதாகவும்  அந்த நிறுவனத்துக்கு  20  புதிய ஊழியர்களை  பியல் நிஷாந்த நியமித்ததாகவும்  ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+Dr. Dulan Hettiarachchi, Chairman of the C-Nor Foundation, has resigned from his post following a letter to the president that he cannot continue his duties due to the death threat of diplomatic minister Pali Nishantha.
+
+Dr. Dulan Hettiarachchi has said in a letter to the President that the Minister of Fisheries and Nishantha Nishantha is threatening to bribe him and that he has been murdered in some cases.
+
+Hettiarachchi has said that Hettiarachchi has taken over as the Chairman of the Limited Institute of the Sea Nor Organization under the Ministry of Fisheries and that the company has appointed 20 new employees.
 
 ◼️
 
 [Data](articles/cffa6f6a.json)
+
+[Extended Data](ext_articles/cffa6f6a.ext.json)
 
 ---
 
@@ -119,6 +135,8 @@ The penal code is to be amended to reduce the consent age for sex to 14 years an
 ◼️
 
 [Data](articles/1a488bf7.json)
+
+[Extended Data](ext_articles/1a488bf7.ext.json)
 
 ---
 
@@ -161,6 +179,38 @@ The body was recovered by R. Nasendran, the father of two children, aged 43.
 [Data](articles/503b3d56.json)
 
 [Extended Data](ext_articles/503b3d56.ext.json)
+
+---
+
+### Mongolia is the most wide winter that has not been confronted in half a hundred years - snow everywhere - five million animals death
+
+*2024-03-22 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179391) · `ta`
+
+Mongolia faces a severe winter, with snow everywhere and the death of five million animals. Humanitarian organizations report a significant loss of livestock, affecting nomadic and livestock shepherds. Alexander, Regional Director of the Asia Pacific of the International Red Cross, highlights the impact on those reliant on livestock.
+
+🟩
+
+Humanitarian organizations have reported that five million animals have died due to the severe winter of Mongolia half a century.
+
+Mongolia is trapped in a very severe cold and 4.7 million animals have been killed.
+
+Temperature has fallen. Heavy snowfall is completely closed.
+
+More than three hundred thousand people in Mongolia are involved in nomadic and livestock shepherds for food and markets.
+
+Alexander, Regional Director of the Asia Pacific of the International Red Cross, said that the people who have completely relied on livestock for their lives have become a few months old.
+
+More than 2250 families in the livestock have lost more than 70 percent of their livestock.
+
+The heavy cold weather has affected the majority of Mongolia.
+
+Spring in Mongolia, but winter is still in the ground, the cattle are still dead.
+
+◼️
+
+[Data](articles/e2faebc4.json)
+
+[Extended Data](ext_articles/e2faebc4.ext.json)
 
 ---
 
@@ -252,6 +302,8 @@ Sri Lanka was hit by a currency crisis soon after it recovered from Covid hittin
 
 [Data](articles/5e0e9225.json)
 
+[Extended Data](ext_articles/5e0e9225.ext.json)
+
 ---
 
 ### Presidents, Prime Ministers in last 70 years lacked job experience and vision: Janaka Rathnayake
@@ -267,6 +319,28 @@ Addressing the media yesterday, he said a President and a leader should have a v
 ...
 
 [Data](articles/7b9938a7.json)
+
+[Extended Data](ext_articles/7b9938a7.ext.json)
+
+---
+
+### රත්මලානේ කුඩු අංජුගේ ගෝල රත්මලානේ රොසා අත්අඩංගුවට
+
+*2024-03-22 09:51:31* · [`adalk`](https://www.ada.lk/breaking_news/රත්මලානේ-කුඩු-අංජුගේ-ගෝල-රත්මලානේ-රොසා-අත්අඩංගුවට/11-408752) · `si`
+
+විදේශගතව සැඟව සිට මෙරට මත්ද්‍රව්‍ය  ජාවාරම මෙහෙයවන සංවිධානාත්මක අපරාධකරුවකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන සිංහාරගේ අමල් සාමින්ද සිල්වා නොහොත් රත්මලානේ කුඩු අංජු නැමැත්තාගේ සමීපතම ගෝලයෙකු වන "රත්මලාන රෝසා "නමැත්තා" ලක්ෂ 10 කට අධික වටිනා අයිස් මත්ද්‍රව්‍ය  සමග අත්අඩංගුවට ගත් බව පොලිස් විශේෂ කාර්ය බළකාය කියයි.
+
+යුක්තියේ මෙහෙයුමට සමගාමීව පොලිස් විශේෂ කාර්ය බළකා මොරටුව කඳවුරේ විශේෂ මෙහෙයුම් 3 කණ්ඩායම මගින් සැකකරු අත්අඩංගුවට ගෙන ඇත.
+
+සැකකරු අත්අඩංගුවට ගෙන ඇත්තේ රත්මලාන දුම්රිය නිවාස පොළ පාර සැකකරු පදිංචි නිවස ඉදිරිපිටදීය.
+
+සැකකරු සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 50 ක්  ජාවාරම සඳහා යොදාගත් ජංගම දුරකථනය සහ විද්‍යුත් තරාදියක් හා මත්ද්‍රව්‍ය  ජාවාරමෙන්  උපයන ලද රුපියල් 15000/= මුදලක් පොලිස් භාරයට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් මෙම සැකකරු 2021  වසරේදී රත්මලාන අවන්හලකට වෙඩි තැබීමේ සිද්ධිය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගත් පුද්ගලයකු වන අතර ඊට පෙරද ගල්කිස්ස පොලිසිය මගින් මත්ද්‍රව්‍ය සන්තකයේ තබා ගැනීම සම්බන්ධයෙන් අවස්ථා ගණනාවකදී අත්අඩංගුවට ගත් පුද්ගලයෙකි.
+
+...
+
+[Data](articles/7038da0f.json)
 
 ---
 
@@ -295,6 +369,22 @@ In this case, when the country was opposed to anarchy, I was committed to protec
 [Data](articles/01288860.json)
 
 [Extended Data](ext_articles/01288860.ext.json)
+
+---
+
+### Sri Lanka speaker claims MPs who signed NCM urged him to take over
+
+*2024-03-22 09:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-speaker-claims-mps-who-signed-ncm-urged-him-to-take-over-155696/) · `en`
+
+ECONOMYNEXT — Speaker of Parliament Mahinda Yapa Abeywardena who survived a no confidence motion against him claimed that MPs among those who signed the motion had tried to unconstitutionally appoint him Sri Lanka president in 2022.
+
+Addressing parliament on Thursday March 21 after the Sri Lanka Podujana Peramuna (SLPP) government comfortably defeated the no confidence motion (NCM), Abeywardena said “powerful forces” had urged him to take over the presidency after it became vacant following former president Gotabaya Rajapaksa’s resignation after months of intense public protests.
+
+The latest NCM, filed by the main opposition Samagi Jana Balawegaya (SJB), was the fifth against a sitting speaker in parliament’s history, but the first on the grounds of an alleged violation of the constitution, said Abeywardena.
+
+...
+
+[Data](articles/526d3a88.json)
 
 ---
 
@@ -371,6 +461,24 @@ Sankar Rangarajan has composed the film, which has been recorded by Prithvi Raje
 [Data](articles/c9e74d53.json)
 
 [Extended Data](ext_articles/c9e74d53.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 303.55/70 to the US dollar
+
+*2024-03-22 09:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-303-55-70-to-the-us-dollar-155704/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 303.55/70 to the US dollar in the spot forex market on Friday, stronger from 303.85/95 on Thursday, dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 was quoted at 11.30/38 percent from 11.35/40 percent.
+
+A bond maturing on 15.12.2028 was quoted at 12.10/18 percent from 12.10/15 percent.
+
+The Colombo Stock Exchange opened up: the All Share Price Index was up 0.02 percent at 11,178, and the S&P SL20 was up 0.13 percent at 3,186. (Colombo/Mar22/2024)
+
+◼️
+
+[Data](articles/97999acb.json)
 
 ---
 
@@ -756,6 +864,8 @@ Sri Lanka has had a frontloaded reform program under an Extended Fund Facility, 
 
 [Data](articles/098d6d6c.json)
 
+[Extended Data](ext_articles/098d6d6c.ext.json)
+
 ---
 
 ### As predicted, rainfall covers most parts of island
@@ -819,6 +929,8 @@ The move without any parliament approval was seen as a wrong procedure after a n
 ...
 
 [Data](articles/09464cfc.json)
+
+[Extended Data](ext_articles/09464cfc.ext.json)
 
 ---
 
@@ -1712,6 +1824,24 @@ However, thankful to the Indian government, we have taken action to expand the p
 
 ---
 
+### එක්සත් ජාතීන් හා යුරෝපා සංගමය ගාසා තීරයට ඉක්මන් සටන් විරාමයක් ඉල්ලයි
+
+*2024-03-21 22:34:32* · [`adalk`](https://www.ada.lk/breaking_news/එක්සත්-ජාතීන්-හා-යුරෝපා-සංගමය-ගාසා-තීරයට-ඉක්මන්-සටන්-විරාමයක්-ඉල්ලයි/11-408750) · `si`
+
+ගාසා තීරයේ කඩිනම් සටන් විරාමයක් ක්‍රියාවට නංවන්නැයි යුරෝපා සංගමය හා එක්සත් ජාතීන්ගේ සංවිධානය අදාළ පාර්ශ්වයන්ගෙන් ඉල්ලා සිටී.
+
+යුරෝපා කොමිසමේ සභාපතිනි උර්සුලා වොන් ද ලෙයන් මහත්මිය සහ එක්සත් ජාතීන්ගේ මහලේකම් ඇන්ටෝනියෝ ගුටරෙස් මහතා ඊයේ (20) බ්‍රසල්ස් නුවර දී පැවැත්වූ හමුවෙන් පසු නිකුත් කෙරුණු ඒකාබද්ධ නිවේදනයක මේ බව දැක්වේ.
+
+වත්මන් ගාසා තීරය බරපතල සාගතයකට මුහුණ පා ඇත. මේ හේතුවෙන් කඩිනම් සටන් විරාමයකට එකඟ වන ලෙසත්, රැඳවුම් භාරයේ සිටින පුද්ගලයන් නිදහස් කරන ලෙසත් යුරෝපා සංගමය හා එක්සත් ජාතීන්ගේ සංවිධානය ඉල්ලා සිටී. මානුෂීය සහනාධාර වැඩි  වශයෙන් ගාසා තීරයට ලබා දීම සඳහා අවශ්‍ය පසුබිම සකසන ලෙස ද අදාළ දෙපාර්ශ්වයෙන් ඉල්ලා සිටින බව ප්‍රකාශනයේ සඳහන් වේ.
+
+මේ අතර, ජෝර්දාන හමුදාව විවිධ රටවල් සමග එක්ව ඊයේ (20) ගාසා තීරයේ උතුරු ප්‍රදේශයට ගුවනින් ආහාර බෙදාහැරීමේ වැඩසටහන්  ක්‍රියාවට නැංවීය. ජෝර්දානය, ඊජිප්තුව, ජර්මනිය, සිංගප්පූරුව හා ඇමරිකාව ඇතුළු රටවල ගුවන් යානා 6 ක් ඊට සහභාගි විය. ඒ අතරින් සිංගප්පූරුව ගාසා තීරය වෙත ගුවනින් ආහාර බෙදාහැරීමට එක් වූ ප්‍රථම අවස්ථාව මෙයයි.
+
+◼️
+
+[Data](articles/6095548d.json)
+
+---
+
 ### Delhi Chief Minister Kejriwal arrested in excise policy case
 
 *2024-03-21 22:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98117/delhi-chief-minister-kejriwal-arrested-in-excise-policy-case) · `en`
@@ -1981,153 +2111,5 @@ The bodies have been placed at the Kiriella hospital while Kiriella police are c
 [Data](articles/69dc23b3.json)
 
 [Extended Data](ext_articles/69dc23b3.ext.json)
-
----
-
-### More about the shooting shooter in Ganemulla
-
-*2024-03-21 20:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194792) · `si`
-
-In Ganemulla, a 28-year-old resident of Eheliyagoda was found dead with a micro pistol and bullets. The STF discovered a connection to a drug dealer and a planned crime at a house in Sumedha Mawatha. A shootout ensued, injuring the suspect, who was taken to Ragama Hospital. The contractor remains unpaid.
-
-🟩
-
-More information about the underworld was revealed in an excavation of the heaval last night with STFFes of Police (21) at Ganemulla last night.
-
-The deceased has been a 28-year-old, a 28-year-old, is a resident of Eheliyagoda.
-
-He was close to the brother of Patta Manju and found a Micro pistol pistol-bullet, a micro pistol and bullets in the place where shooting.
-
-Meanwhile, after the death of the shooter, the inquiry officials have also been found to have telephoned another.
-
-Two persons from a motorcycle on March 9 had fled the drug dealer named Kudu Anju in Ja-Elan.
-
-The expenditure received information of the STF personnel conducted by the investigation was prepared to commit another crime at a two storied house in Sumedha Mawatha.
-
-Accordingly, a team of STF personnel had gone there last night to arrest the shooter.
-
-There was a shooting between the suspect and STF personnel and the suspect was injured and was admitted to the Ragama Hospital.
-
-...
-
-[Data](articles/6aa284e7.json)
-
-[Extended Data](ext_articles/6aa284e7.ext.json)
-
----
-
-### SriLankan Airlines clarifies UL 470 flight delay
-
-*2024-03-21 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SriLankan-Airlines-clarifies-UL-470-flight-delay/108-279338) · `en`
-
-Colombo, March 21 (Daily Mirror) - In the wake of the incident where SriLankan Airlines Flight UL 470, scheduled for Incheon, South Korea, faced an unexpected delay on March 19, the Airlines has issued a statement regarding the incident.
-
-The statement said the delay, attributed to a technical issue, lasted approximately 13 hours from the originally planned departure time. However, the Airlines ensured the comfort and convenience of all 217 passengers on board.
-
-“Out of the 217 passengers, 117 opted to continue their journey on the same flight once the aircraft received clearance for departure.  At 07:23hrs the following day, 20 March 2024, Flight UL 470 successfully departed for Incheon, South Korea, accommodating those passengers who chose to proceed with their travel plans,” the statement added.
-
-...
-
-[Data](articles/080577a1.json)
-
-[Extended Data](ext_articles/080577a1.ext.json)
-
----
-
-### Special Transport
-
-*2024-03-21 20:44:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பண்டிகையை-முன்னிட்டு-விசேட-போக்குவரத்து/175-335000) · `ta`
-
-The Ministry of Transport will run the Special Public Transport Program from April 5 to 15 for the Sinhala-Tamil New Year and Ramadan festival. This includes bus services from Colombo Central Bus Stand and Bestian Mawatha Private Bus Station to villagers.
-
-🟩
-
-The Ministry of Transport has issued a directive to implement the Special Public Transport Program from April 5 to 15 in view of the Sinhala -Tamil New Year and Ramadan festival.
-
-The Secretary to the Transport Ministry has announced this in writing to the Sri Lanka Transport Board, National Transport Commission, Railway Department and Provincial Road Passenger Transport Authority.
-
-The Sri Lanka Transport Board and the National Transport Commission said that bus services will be held from the Colombo Central Bus Stand and the Bestian Mawatha Private Bus Station to the villagers from Colombo.. Remble
-
-◼️
-
-[Data](articles/0ff45f80.json)
-
-[Extended Data](ext_articles/0ff45f80.ext.json)
-
----
-
-### The crime of a 15 year old girl
-
-*2024-03-21 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194791) · `si`
-
-A 15-year-old girl in Saliyawewa reported missing. Police found her in the jungle, where she revealed being sexually abused by a 28-year-old man and three others since 2021. Two of the four suspects were arrested. The girl also revealed being abused at 9 by a person who was also abused. The suspects, aged 24-30, were remanded until April 2.
-
-🟩
-
-The police emergency call had received a call a few days ago that a 15-year-old girl was not home in Saliyawewa Siriyawewa Siriyawewa.
-
-Accordingly, the Saliyawewa police state to investigate the Saliyawewa police station while in the jungle.
-
-In the interrogation of the 15-year-old girl, she told the police that his parents also had a romance with the young man with consent.
-
-She had told the police that he had been sexually abused by the 28-year-old youth during a number of occasions.
-
-It has also revealed that three other persons living in the area have abused her on several occasions since 2021.
-
-She told the police that the four of the four were his older sister.
-
-Three of the four persons involved in the incident have been arrested by the police on charges of abuse of a girl.
-
-When the 15-year-old daughter's incident was revealed to the police, he detected her 12-year-old and hide another secret.
-
-A person who has been abused by a person who has been abused at the age of 9.
-
-...
-
-[Data](articles/b6f5cbaf.json)
-
-[Extended Data](ext_articles/b6f5cbaf.ext.json)
-
----
-
-### India’s Congress party accuses government of freezing accounts
-
-*2024-03-21 19:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indias-Congress-party-accuses-government-of-freezing-accounts/108-279337) · `en`
-
-March 21, (Al Jazeera) - The Congress party, India’s main opposition political group, has accused Prime Minister Narendra Modi’s government of stifling democracy and “crippling” the party by freezing its bank accounts in a tax dispute ahead of the general election.
-
-India will hold a six-week election starting next month, with the Congress-led alliance pitted against Modi’s heavily funded Bharatiya Janata Party (BJP).
-
-Former Congress chief Rahul Gandhi on Thursday told reporters in New Delhi the party is unable to campaign properly with its accounts frozen by the income tax department.
-
-“Our entire financial identity has been erased,” said Gandhi, 53, the scion of the family that dominated Indian politics for decades after independence.
-
-“We have no money to campaign, we cannot support our candidates. Our ability to fight elections has been damaged.”
-
-...
-
-[Data](articles/ab001103.json)
-
-[Extended Data](ext_articles/ab001103.ext.json)
-
----
-
-### Wanindu Hasaranga Test ban: Sri Lanka cricket denies use of any loopholes
-
-*2024-03-21 19:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98114/wanindu-hasaranga-test-ban-sri-lanka-cricket-denies-use-of-any-loopholes) · `en`
-
-Sri Lanka Cricket has denied that they exploited any loopholes after the Wanindu Hasaranga Test ban fiasco has grabbed the headlines in recent times.
-
-Hasaranga, who had retired from the longest format of the game in August last year, performed a U-turn and was subsequently selected for the Test series against Bangladesh. However, in a major turn of events, the ICC would slap him with a ban on Tuesday, March 19.
-
-This meant that he would be unable to play the series against Bangladesh, but meant that he would be available for the T20 World Cup 2024 and the upcoming season of the IPL with his new franchise, Sunrisers Hyderabad.
-
-While there has been speculation among fans and pundits that the Sri Lanka cricket board has exploited a loophole in the ICC rules, the governing body has strongly rejected this claim. The SLC claimed that Hasaranga had informed them via e-mail on March 16 about his desire to play Test matches and said that his fitness levels had improved.
-
-...
-
-[Data](articles/f36f392f.json)
-
-[Extended Data](ext_articles/f36f392f.ext.json)
 
 ---

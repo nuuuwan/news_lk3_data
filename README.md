@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 20:50:18**
+As of **2024-03-22 21:03:10**
 
 ## Newspaper Stats
 
-*Scraped **14,600** Articles*
+*Scraped **14,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 776
 economynextcom | 782
 islandlk | 797
 adalk | 1,257
-adaderanalk | 1,748
+adaderanalk | 1,749
 tamilmirrorlk | 1,756
 virakesarilk | 2,060
 dailymirrorlk | 2,245
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,331
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,596 (100.0%) of 14,600 articles have been extended.
+14,600 (100.0%) of 14,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### Sri Lanka’s export earnings record ‘modest increase’ in February
+
+*2024-03-22 20:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98135/sri-lankas-export-earnings-record-modest-increase-in-february) · `en`
+
+The merchandise export performance in February 2024 amounted to US$ 983.7 million, recording a modest increase of 0.17 % compared to February 2023, the Export Development Board (EDB) says.
+
+In addition, export performance in February 2024 increased by 1.3% compared to the preceding month, January 2024.
+
+Compared to February 2023, agricultural exports have shown a significant increase of 11.82 %, reaching US$ 255.76 million in February 2024. However, industrial exports experienced a decline of 3.36 % during the same period, dropping to US$ 727.94 million.
+
+◼️
+
+[Data](articles/1d235e20.json)
+
+---
 
 ### Leaving a life of heating
 
@@ -122,6 +138,8 @@ There were no immediate reports of further damage following the latest quake.
 
 [Data](articles/771a0f5d.json)
 
+[Extended Data](ext_articles/771a0f5d.ext.json)
+
 ---
 
 ### Sri Lanka’s first Prime Minister remembered
@@ -133,6 +151,8 @@ A ceremony was held at Independence Square to mark the 72nd death anniversary of
 ◼️
 
 [Data](articles/1f2f83e0.json)
+
+[Extended Data](ext_articles/1f2f83e0.ext.json)
 
 ---
 
@@ -227,6 +247,8 @@ Kainerugaba has long been viewed as being prepared to take over the presidency f
 ◼️
 
 [Data](articles/6b610d4a.json)
+
+[Extended Data](ext_articles/6b610d4a.ext.json)
 
 ---
 
@@ -1302,6 +1324,8 @@ He also said that there should be a fair situation in the country after the elec
 
 [Data](articles/1f1e8bbe.json)
 
+[Extended Data](ext_articles/1f1e8bbe.ext.json)
+
 ---
 
 ### General elections must be held first to maintain fairness: MR
@@ -2283,33 +2307,5 @@ Sri Lanka was hit by a currency crisis soon after it recovered from Covid hittin
 [Data](articles/5e0e9225.json)
 
 [Extended Data](ext_articles/5e0e9225.ext.json)
-
----
-
-### President says the country should not be restored again in 10 years
-
-*2024-03-22 10:10:47* · [`adalk`](https://www.ada.lk/breaking_news/වසර-10කින්-රට-යළිත්-අර්බුදයකට-ලක්-නොවීමට-නම්-කළ-යුතු-දේ-ජනපති-කියයි/11-408753) · `si`
-
-President Ranil Wickremesinghe announced a new law to transform the country into an export economy, emphasizing economic recovery and relief for the people. He also highlighted the completion of debt repayment by June and the construction of new Bodhiya and Ranweta in Kavindara Pirivena.
-
-🟩
-
-The President also emphasized that if the loans to cover the export gap continues to face a economic crisis in 10 years, he said that he would create an economic crisis in the country and transform it into an export economy.
-
-The President said that a new law will be presented to Parliament in April and that the President said that all these activities were to carry on the country's economy.
-
-President Ranil Wickremesinghe said this was a margin of the Movewa and Ranweta.
-
-The President said that the President is expected to be completed by June as a debt to the world as a country of debt..
-
-The President Ranil Wickremesinghe said that the economy would continue to provide relief to the people with the increase in the economy by increasing the country's money.
-
-He also emphasized that the president who recalled that all the people of the country were suffering from the last economic challenge.
-
-...
-
-[Data](articles/15803a8e.json)
-
-[Extended Data](ext_articles/15803a8e.ext.json)
 
 ---

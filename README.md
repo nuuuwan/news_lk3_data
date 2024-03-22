@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 08:33:34**
+As of **2024-03-22 08:51:04**
 
 ## Newspaper Stats
 
-*Scraped **14,457** Articles*
+*Scraped **14,459** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,246
 adaderanalk | 1,732
 tamilmirrorlk | 1,743
 virakesarilk | 2,028
-dailymirrorlk | 2,220
+dailymirrorlk | 2,222
 adaderanasinhalalk | 2,306
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,454 (100.0%) of 14,457 articles have been extended.
+14,457 (100.0%) of 14,459 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### Massive rise in scams as public struggle from financial crisis
+
+*2024-03-22 08:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Massive-rise-in-scams-as-public-struggle-from-financial-crisis/108-279369) · `en`
+
+Colombo, March 22 (Daily Mirror) - Amid the country's high cost of living, there's an increased risk of individuals falling prey to ongoing scams and cyber frauds as more people are desperately resorting to earning quick money, the Sri Lanka Computer Emergency Readiness Team (SLCERT) said.
+
+Senior Information Security Engineer Charuka Damunupola of SLCERT told the Daily Mirror that several incidents relating to social media platforms, such as Facebook, now known as Meta, Messenger were reported in addition to people spending money on pyramid schemes.
+
+Recently, several cases were reported from Facebook where scammers were identified sending 'friend requests' thereafter asking the individuals to vote for certain competitions. The friend request might be sent by a person who is already on the friend list of their Facebook profile, Damunupola said.
+
+...
+
+[Data](articles/c96509f1.json)
+
+---
 
 ### Here's what discussions between President and Basil
 
@@ -101,6 +117,8 @@ However, misty conditions were seen in certain areas of the Sabaragamuwa and Cen
 ◼️
 
 [Data](articles/0323e6e5.json)
+
+[Extended Data](ext_articles/0323e6e5.ext.json)
 
 ---
 
@@ -684,6 +702,8 @@ While noting that ongoing hardships will continue for another three years, Sri L
 
 [Data](articles/c187f2a4.json)
 
+[Extended Data](ext_articles/c187f2a4.ext.json)
+
 ---
 
 ### The health impact of the protesters
@@ -756,23 +776,29 @@ Similarly, 7 fishermen arrested in the Mannar seas have been kept in remand unti
 
 ---
 
-### 'මගේ ආසාව අනාගත පරම්පරාවට ලංකාවේ ඉතිහාසය පෙන්වන්න.'
+### "Show Sri Lanka's history to the future generation of my desire. '
 
 *2024-03-22 02:21:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51m9rzd47do) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.වීඩියෝ ශීර්ෂ වැකිය, ''මේකට එන දේශීය හෝ විදේශීය සංචාරකයන්ගේ මම සතයක්වත් අය කරන්නේ නෑ.'' යනුවෙන්  අමීන් හුසේන් BBC සිංහල සේවයට පැවසුවේය.
+"Preserve Sri Lanka's history in Galle Fort's museum, showcasing artifacts from colonial times. Launched in 1992, it's free for all visitors."
 
-සංචාරක පාරාදීසයක් වූ ගාලු කොටුව තුළ දෙස් විදෙස් සංචාරකයන්ට නොමිලේ නැරඹිය හැකි කෞතුකාගාරයක් තිබේ.
+🟩
 
-පුද්ගලික කෞතුක භාණ්ඩ එකතුවක් ලෙස එය පවත්වාගෙන යනු ලබන්නේ ව්‍යාපාරිකයෙකු වන අමීන් හුසේන් විසිනි.
+None contains none of this.
 
-1992 දී ඔහුගේ පියා විසින් මෙම කෞතුකාගාරය ආරම්භ කළ අතර යටත් විජිත යුගයේ මෙන්ම ඊට පෙර කාලයට අයත් ඉපැරණි දේවල් මෙහි ප්‍රදර්ශනයට තබා ඇත.
+In the Galle Fort, the tourist paradise, there is a museum available for local and foreign tourists.
 
-''මම හිතනවා මෙතන තියෙන සමහර දේවල් ලෝකේ මං ළඟ විතරයි තියෙන්නේ කියලා. මගේ ආසාව තියෙන්නේ ඉදිරි පරම්පරාවට ලංකාවේ ඉතිහාසය පෙන්වන්න. මේකට එන දේශීය හෝ විදේශීය සංචාරකයන්ගේ මම සතයක්වත් අය කරන්නේ නෑ.'' යනුවෙන්  අමීන් හුසේන් BBC සිංහල සේවයට පැවසුවේය.
+The businessman is a collection of private artifacts.
+
+In 1992, his father launched this museum, and the ancient times in the colonial era and the previous ancient things were exhibited.
+
+'' I think some of the things here are the only things in the world. Show Sri Lanka's History to the next generation. I don't charge a penny for local or foreign tourists. "
 
 ◼️
 
 [Data](articles/cf23ad21.json)
+
+[Extended Data](ext_articles/cf23ad21.ext.json)
 
 ---
 
@@ -807,6 +833,26 @@ On Saturday, Palestinians and peace activists campaigning for a free Palestine c
 [Data](articles/610fd9f3.json)
 
 [Extended Data](ext_articles/610fd9f3.ext.json)
+
+---
+
+### Sustaining reform momentum critical for lasting recovery: IMF
+
+*2024-03-22 01:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sustaining-reform-momentum-critical-for-lasting-recovery-IMF/108-279352) · `en`
+
+Says continued progress towards the introduction of property tax is critical
+
+Asserts it is important to continue to rebuild external buffers through strong reserves accumulation
+
+Urges SL to reach agreements in principle with the main external private creditors in line with programme parameters in a timely manner
+
+Sri Lanka has made significant progress, despite its circumstances, in implementing its ambitious reform agenda. However, the International Monetary Fund (IMF) asserted it is necessary for the island nation to stay on course so that it reaches the aspired goals.
+
+Following the completion of the second review of the Extended Fund Facility (EFF) bailout programme, the visiting IMF delegation emphasised that sustaining the momentum of reforms is critical to steer the economy toward lasting recovery and foster stable, inclusive economic growth.
+
+...
+
+[Data](articles/fafd6a48.json)
 
 ---
 
@@ -2093,51 +2139,5 @@ About half of those who took part worked in jobs where they were exposed to high
 [Data](articles/6f94072f.json)
 
 [Extended Data](ext_articles/6f94072f.ext.json)
-
----
-
-### Four LTTE cadres remanded for Duminda
-
-*2024-03-21 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194782) · `si`
-
-Four LTTE cadres, including Duminda Nagamuwa and Lahiru Weerasekera, were remanded in custody by Fort Magistrate Thilina Gamage until tomorrow for their involvement in an elephant protest.
-
-🟩
-
-Four arrested for elephants were remanded during the protest held by the People's Struggle Movement yesterday.
-
-The remanded is so custody Duminda Nagamuwa, Lahiru Weerasekera, Ratharawawe.
-
-Fort Magistrate Thilina Gamage has ordered to be remanded until tomorrow (22) to be remanded and submitted to a parade.
-
-◼️
-
-[Data](articles/c09102fd.json)
-
-[Extended Data](ext_articles/c09102fd.ext.json)
-
----
-
-### Hadaya 17th arrested by the underworld operation
-
-*2024-03-21 15:58:29* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලය-මඩින-විශේෂ මෙහෙයුමෙන්-පාතාලයේ-17ක්-අල්ලයි/11-408745) · `si`
-
-Police arrested 17 underworld members in an operation, revealing a network of leaders. The operation involved 20 Special Attack teams from the Police Field Force.
-
-🟩
-
-Police Media Spokesperson DIG, Attorney at Law Nihal Thameda said that the investigated special groups have been able to open 17 underworld members in the opening of 17 underworld members to suppress the underworld.
-
-The rest of the arrested persons were people who were underworld members.
-
-Among the arrested persons will be revealed that there are a wide range of underworld leaders that are close friends of the underworld leaders.
-
-Inspector General of Police, Special Attributors and Criminal Investigations of Police Field Forces and Criminal Investigations have covered with 20 Special Attack at the Police Field Force of PoliceWere referred to.
-
-◼️
-
-[Data](articles/1886e2ba.json)
-
-[Extended Data](ext_articles/1886e2ba.ext.json)
 
 ---

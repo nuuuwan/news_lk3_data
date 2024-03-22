@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 22:50:12**
+As of **2024-03-22 23:02:57**
 
 ## Newspaper Stats
 
-*Scraped **14,612** Articles*
+*Scraped **14,613** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 776
 economynextcom | 782
 islandlk | 797
 adalk | 1,257
-adaderanalk | 1,749
+adaderanalk | 1,750
 tamilmirrorlk | 1,757
 virakesarilk | 2,062
 dailymirrorlk | 2,250
@@ -26,25 +26,47 @@ adaderanasinhalalk | 2,334
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,611 (100.0%) of 14,612 articles have been extended.
+14,612 (100.0%) of 14,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### නොසැලකිල්ලෙන් පුංචි පුතුට දිවි අහිමි වෙයි
+### Little son loses the lives of
 
 *2024-03-22 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194830) · `si`
 
-වටවල පොලිස් වසමේ බින්වල ඉහළ කොටසේ වතුයායේ වගා ළිඳකින් බිළිදෙකුගේ මළසිරුරක් හමුවී තිබේ.
+A baby, the only child in a family with an overseas mother, was found dead in a well near the Watawala Police Division.
 
-නිවසේ ක්‍රීඩාකරමින් සිට ඇති බිළිඳා අතුරුදන්වීමත් සමග දෙමව්පියන් කළ සොයාබැලීමකදී නිවස පිටුපස වගා ළිඳකින් දරුවාගේ සිරුර හමුව තිබුණි.
+🟩
 
-බිළිඳාගේ මව රැකියාවක් සඳහා විදෙස්ගත වී සිටින බවත් මිය ගිය දරුවා පවුලේ එකම දරුවා බවත් සඳහන් වේ.
+A baby was found in a well of the upper part of the Watawala Police Division in the upper part of the Watawala Police Division.
+
+With the disappearance of the baby who was playing in the house, he met with the child from a wellside of the house.
+
+The baby's mother is overseas and the dead child is the only child in the family.
 
 ◼️
 
 [Data](articles/6c79675f.json)
+
+[Extended Data](ext_articles/6c79675f.ext.json)
+
+---
+
+### Women MPs deeply concerned over decision to reduce age of sexual consent to 14 years
+
+*2024-03-22 22:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98136/women-mps-deeply-concerned-over-decision-to-reduce-age-of-sexual-consent-to-14-years) · `en`
+
+The Women Parliamentarians’ Caucus has sent a letter to the Minister of Justice, Prison Affairs and Constitutional Reform Wijeyadasa Rajapakshe requesting that the Bill gazetted on 09 February 2024 to amend Chapter 19 of the Penal Code be withdrawn immediately.
+
+According to the amendments made to the Penal Code in 1995, even if a girl under 16 years of age has sexual relations of her own free will, it is considered rape. However, the proposed amendment to the Penal Code by the Justice Minister will lower the age of sexual consent to 14 years.
+
+Taking this into account, Dr. Sudarshini Fernandopulle, the Chair of Women Parliamentarians’ Caucus expressed her deep concern about the proposed amendment to section 364 of the Penal Code, while detailing matters to be concerned about the proposed amendments to section 364 in her letter.
+
+...
+
+[Data](articles/6388cbb7.json)
 
 ---
 
@@ -2283,27 +2305,5 @@ The petition was called before Colombo High Court Judge Sujeewa Nissanka today (
 [Data](articles/30bfa24e.json)
 
 [Extended Data](ext_articles/30bfa24e.ext.json)
-
----
-
-### Shell recovery in Mullaitivu
-
-*2024-03-22 11:04:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முல்லைத்தீவில்-ஷெல்-மீட்பு/72-335009) · `ta`
-
-Police in Mullaitivu found a bomb shell on private land in Puliyamunai, Kokkulai division. The landowner discovered it while cleaning. The cell is under investigation by Kokkulai police.
-
-🟩
-
-The bomb has been found from a private land in the Puliyamunai area of the Kokkulai police division in Mullaitivu, police said.
-
-When the land owner was cleaned yesterday, he saw the motor shell on the land.
-
-The police have recovered the cell and are being investigated by the Kokkulai police.. Remble
-
-◼️
-
-[Data](articles/13e7a241.json)
-
-[Extended Data](ext_articles/13e7a241.ext.json)
 
 ---

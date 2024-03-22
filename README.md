@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 19:51:13**
+As of **2024-03-22 20:03:02**
 
 ## Newspaper Stats
 
-*Scraped **14,592** Articles*
+*Scraped **14,594** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 776
 economynextcom | 782
 islandlk | 797
 adalk | 1,257
-adaderanalk | 1,746
+adaderanalk | 1,748
 tamilmirrorlk | 1,755
 virakesarilk | 2,060
 dailymirrorlk | 2,241
@@ -26,29 +26,79 @@ adaderanasinhalalk | 2,330
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,590 (100.0%) of 14,592 articles have been extended.
+14,592 (100.0%) of 14,594 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### ගැහැණු දරුවෙක් සිය කැමැත්තෙන් ලිංගික සබඳතාවයක් පැවැත්වුවොත්...?
+### What if a girl holds a sexual relationship?
 
 *2024-03-22 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194826) · `si`
 
-වයස අවුරුදු 14ත් 16ත් අතර ගැහැණු දරුවෙකු සිය කැමැත්ත සහිතව වයස අවුරුදු 22ට අඩු පුද්ගලයෙකු සමග ලිංගික සබඳතාවක් පැවැත්වුහොත් ඊට ලබාදෙන දඬුවම ලිහිල් කිරීමට අදාළව රජය ගෙනඒමට යෝජිත සංශෝධන වහා හකුළා ගත යුතු බව පාර්ශ්ව රැසක් පෙන්වා දෙයි.
+A proposed amendment to the Penal Code in Sri Lanka aims to reduce punishment for girls aged 14-16 having sexual relationships with men under 22, but the National Child Protection Authority opposes it.
 
-දණ්ඩනීති සංග්‍රහයේ 19 වැනි පරිච්ඡේදය සංශෝධනය කිරීම සඳහා වූ පනත් කෙටුම්පතක් පසුගිය පෙබරවාරි 13 වැනිදා ගැසට් මඟින් ප්‍රකාශයට පත්කර තිබිණි.
+🟩
 
-අධිකරණ බන්ධනාගාර කටයුතු සහ ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතාගේ නියමය පරිදි එය ප්‍රකාශයට පත්කර තිබුණේ දණ්ඩ නීති සංග්‍රහයේ 363 සහ 364 සංශෝධනය කරමිනි.
+A large number of parties between the ages of 14 and 16 have a sexual relationship with a person under the age of 22 with a person under the age of 22 years have to be taken away immediately.
 
-යෝජිත සංශෝධනයට අනුව වයස අවුරුදු 14ත් 16ත් අතර ගැහැණු දරුවෙකු වයස අවුරුදු 22කට අඩු පුද්ගලයෙකු සමඟ සිය කැමැත්ත සහිතව ලිංගික සබඳතාවක් පැවැත්වුහොත් දඬුවම ලිහිල් කිරීමට මෙමඟින් යෝජනා කර තිබේ.
+A bill to amend the 19th chapter of the Penali Code was announced on February 13.
 
-කෙසේ වෙතත් ඊට එකඟ නොවන බව ජාතික ළමා ආරක්ෂක අධිකාරිය අධිකරණ අමාත්‍යවරයාට සහ පාර්ලිමේන්තුවට ලිඛිතව දැනුම්දී තිබේ.
+The law of Dr. Wijayadasa Rajapaksa, Minister of Justice and the Constitutional Reforms Minister Dr. Wijayadasa Rajapakse was announced by 363 and 364 of the Penal Code.
+
+According to the proposed amendment, a girl between the ages of 14 and 16 have proposed to ease the punishment if they have a child with a person under 22 years old.
+
+However, the National Child Protection Authority has informed the Minister of Justice and the Parliament that it is not agreed.
+
+Its chairman Senior Lecturer Udayakumara Amarasinghe said that the informs had been made in accordance with the authority assigned from Parliament to advise the government to prevent child abuse.
 
 ...
 
 [Data](articles/638ab158.json)
+
+[Extended Data](ext_articles/638ab158.ext.json)
+
+---
+
+### Magnitude 6.5 quake strikes off Indonesia’s Java island, geophysics agency says
+
+*2024-03-22 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98134/magnitude-65-quake-strikes-off-indonesias-java-island-geophysics-agency-says) · `en`
+
+A magnitude 6.5 earthquake struck off the shore of Indonesia’s Java island on Friday at a depth of 10km (6.2 miles), Indonesia’s geophysics agency (BKMG) said.
+
+The quake followed a 6 magnitude tremor reported more than four hours earlier.
+
+The epicentre was located around 130 km north of Tuban in East Java province, BMKG said.
+
+The tremors were felt strongly in East Java, its capital Surabaya, as well as cities in neighbouring provinces, according to multiple postings by social media users in those areas.
+
+Brief shaking was also felt in the Indonesian capital Jakarta, around 600 km away from the epicentre, according to Reuters witnesses.
+
+The 6.5 quake has no potential to trigger a tsunami, BMKG said.
+
+The earlier quake had caused damage to one house and a community building in the town of Tuban, Indonesia’s disaster mitigation agency said.
+
+There were no immediate reports of further damage following the latest quake.
+
+◼️
+
+[Data](articles/8724daec.json)
+
+---
+
+### Ex-President ready to disclose masterminds of Easter Sunday attacks
+
+*2024-03-22 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98133/ex-president-ready-to-disclose-masterminds-of-easter-sunday-attacks-) · `en`
+
+Former President Maithripala Sirisena claims he is aware of the true mastermind of the 2019 Easter Sunday terror attacks and that he is prepared to disclose the information to the judiciary if inquired from him or issues an order regarding the matter.
+
+Commenting to the media in Kandy today (March 22), Sirisena highlighted that he is ready to disclose the relevant information and that at the same time, it is the responsibility of the judges to keep the information strictly confidential.
+
+Speaking further he said, “I have more pain in my heart than frustration. I ran for the election as a common candidate in 2015 with the intention of elevating this country to a truly commendable position. However, I did not receive the opportunity to implement the relevant programs.”
+
+...
+
+[Data](articles/e1fc20be.json)
 
 ---
 
@@ -136,21 +186,27 @@ Later, the Supreme Court also ordered that further consideration of the petition
 
 ---
 
-### කමිඳු හා ධනංජය ලංකාව ඉදිරියෙන් තබති
+### Kaminda and Dananjaya leave Sri Lanka
 
 *2024-03-22 17:53:49* · [`adalk`](https://www.ada.lk/sports/කමිඳු-හා-ධනංජය-ලංකාව-ඉදිරියෙන්-තබති/9-408761) · `si`
 
-සත්කාරක බංග්ලාදේශ කණ්ඩායම සමගින් පැවැත්වෙන පළමු ‌ටෙස්ට් තරගයේ පළමු දිනය නිමා කරන විට තරගයේ ‌වැඩි ගෞරව ශ්‍රී ලංකාවට හිමිකර ගැනීමට ශ්‍රී ලංකාව සමත්විය.
+Kaminda and Dananjaya left Sri Lanka. Sri Lanka won the first Test against Bangladesh, scoring 280 runs. Sri Lanka's innings took 259 runs, with the sixth wicket contributing 202 runs. Bangladesh was bowled out for 259 runs, with the last 4 wickets falling in 21 runs. Bangladesh ended the first day with 32 wickets.
 
-තරගයේ මුලින්ම පන්දුවට පහරදුන්ශ්‍රී ලංකා කණ්ඩායම ලකුණු 280ට දැවී ගියේය. ශ්‍රී ලංකා ඉනිමේ මුල් කඩුලු පහ ලකුණු 57ක් තුළ දැවි ගියත් නායක ධනංජය ද සිල්වා (102) හා කමිඳු මෙන්ඩිස් (102) හයවැනි කඩුල්ලට ලකුණු 202ක විශිෂ්ඨ සබඳවත් පවත්මින් ශ්‍රී ලංකා ඉනිම ලකුණු 259ක් දක්වා රැගෙන ගියේය.
+🟩
 
-ඉන් අනතුරුව කමිඳු මෙන්ඩිස් ලකුණු 259දී දැවී ගිය අතර අනෙක් කඩුලු 4 බිඳ වැටීම ලකුණු 21ක් තුල සිදුවිය.
+Sri Lanka won the first Test of the first Test with the Host Bangladesh.
 
-පිළිතුරු ඉනිම ක්‍රීඩා කරන බංග්ලාදේශ කණ්ඩායම පළමු දිනයට තරගය නිමා කරන විට කඩුලු තුනක් දැවී ලකුණු 32ක් රැස්කරගෙන සිටියි.
+Sri Lanka bowled out for 280 runs first. Sri Lanka's innings took 259 runs for 259 runs in the Sri Lankan wicket with excellent with the sixth wicket of 202 runs for the sixth wicket.
+
+Afterwards, the Komindu Mendis was then burned in 259 and the other 4 wickets were killed in 21 runs.
+
+In reply, Bangladesh team raises 32 wickets when they finish the match for the first day.
 
 ◼️
 
 [Data](articles/d48bd3bd.json)
+
+[Extended Data](ext_articles/d48bd3bd.ext.json)
 
 ---
 
@@ -2253,51 +2309,5 @@ We are taking legal action on this issue. Three Indian drag folding boats were c
 [Data](articles/ca6e7185.json)
 
 [Extended Data](ext_articles/ca6e7185.ext.json)
-
----
-
-### 'Heat cold rain' talks about the problem of childbirth
-
-*2024-03-22 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/179380) · `ta`
-
-"Heat Cold Rain" explores childbirth issues among young Tamil couples, featuring a mix of drama and emotion. Directed by Pascal Vedamuthu, it stars Bhaskar, Rama, and others, with music by Sankar Rangarajan. The film, produced by Gerald Draviam, has been well-received, focusing on the challenges faced by couples in the village setting.
-
-🟩
-
-Young couples living in the Tamil community.. Although they are paired with their honeymoon moments, they are the first of their choices to go to the film mansions and watch the movie.
-
-In such moments, they are teaching some things in life as a good thing. Thus, if Family Drama films are combined with sentimental and emotion.. Fans are doing to win to date.
-
-The film crew, led by director Pascal Vedamuthu, has made a film titled 'Heat Cold Rain'. The preview has recently been released and has been very welcome.
-
-Newcomer Dravid, Ismat Banu, M. S.. Paskal Vedamuthu has directed the film 'Heat Cold Rain' starring Bhaskar, Rama, Master Karthikeyan, Vijayalakshmi and many others.
-
-Sankar Rangarajan has composed the film, which has been recorded by Prithvi Rajendran.. The film is being produced by Gerald Draviam on behalf of the hashtag FD FS film company, which is being developed in the village's backdrop focusing on the problem of childbirth facing young couples.
-
-...
-
-[Data](articles/c9e74d53.json)
-
-[Extended Data](ext_articles/c9e74d53.ext.json)
-
----
-
-### Sri Lanka rupee opens at 303.55/70 to the US dollar
-
-*2024-03-22 09:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-303-55-70-to-the-us-dollar-155704/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 303.55/70 to the US dollar in the spot forex market on Friday, stronger from 303.85/95 on Thursday, dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 was quoted at 11.30/38 percent from 11.35/40 percent.
-
-A bond maturing on 15.12.2028 was quoted at 12.10/18 percent from 12.10/15 percent.
-
-The Colombo Stock Exchange opened up: the All Share Price Index was up 0.02 percent at 11,178, and the S&P SL20 was up 0.13 percent at 3,186. (Colombo/Mar22/2024)
-
-◼️
-
-[Data](articles/97999acb.json)
-
-[Extended Data](ext_articles/97999acb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 08:51:04**
+As of **2024-03-22 09:03:17**
 
 ## Newspaper Stats
 
-*Scraped **14,459** Articles*
+*Scraped **14,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ dailyftlk | 776
 islandlk | 797
 adalk | 1,246
 adaderanalk | 1,732
-tamilmirrorlk | 1,743
+tamilmirrorlk | 1,745
 virakesarilk | 2,028
 dailymirrorlk | 2,222
-adaderanasinhalalk | 2,306
+adaderanasinhalalk | 2,307
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,457 (100.0%) of 14,459 articles have been extended.
+14,459 (100.0%) of 14,462 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,26 @@ Recently, several cases were reported from Facebook where scammers were identifi
 ...
 
 [Data](articles/c96509f1.json)
+
+[Extended Data](ext_articles/c96509f1.ext.json)
+
+---
+
+### FM දෙරණ 15 වන සංවත්සරයට සමගාමීව "දරු නැණ දිරි" ඇරඹෙයි
+
+*2024-03-22 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194802) · `si`
+
+FM දෙරණ 15 වන සංවත්සරයට සමගාමීව FM දෙරණ “දරු නැණ දිරි“ වැඩසටහන අද (22) ක්‍රියාත්මක වෙයි.
+
+මෙම වැඩසටහන යටතේ ආර්ථික අපහසුතා සහිත සිසු දරුවන් සඳහා අභ්‍යාස පොත්, පැන්සල්,  පෑන් ඇතුලු පාසල් උපකරණ ලබාදීමට නියමිතය.
+
+අද උදෑසන 6 සිට  FM දෙරණ ප්‍රධාන කාර්යාලය, කොටුව, මරදාන සහ බම්බලපිටිය දුම්රිය ස්ථාන, ගාලුපාර බම්බලපිටිය මහල් නිවාස සංකීර්ණය ඉදිරිපිට ඇතුලු කොළඹ ස්ථාන කිහිපයකට පාසල් උපකරණ ගෙනවිත් භාරදීමට ඔබට හැකිය.
+
+ඔබ ලබාදෙන සෑම පාසල් උපකරණයක්ම දෙගුණ කරමින් ආර්ථික අපහසුතා සහිත දරුවන් වෙනුවෙන් ලබාදීමට FM දෙරණ සැලසුම් කර තිබේ.
+
+◼️
+
+[Data](articles/a6fb8c08.json)
 
 ---
 
@@ -706,6 +726,38 @@ While noting that ongoing hardships will continue for another three years, Sri L
 
 ---
 
+### உணவுப் பொருட்கள் தட்டுப்பாடின்றி விநியோகம்
+
+*2024-03-22 03:48:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவுப்-பொருட்கள்-தட்டுப்பாடின்றி-விநியோகம்/175-335006) · `ta`
+
+எதிர்வரும் பண்டிகைக் காலத்தில் நுகர்வோர் அத்தியாவசிய உணவுப் பொருள்களை நியாயமான விலையில் தட்டுப்பாடு இன்றி பெற்றுக் கொள்ளக்கூடிய சூழல் உருவாக்கப்பட்டுள்ளதாக கால்நடை வளங்கள் அபிவிருத்தி இராஜாங்க அமைச்சர் டீ.பி ஹேரத் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று டைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் டீ.பி ஹேரத் இதனைத் தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+எதிர்வரும் பண்டிகைக் காலத்தில் நுகர்வோர் அத்தியாவசியப் பொருட்களைத் தட்டுப்பாடு இன்றி நியாயமான விலையில் பெற்றுக் கொள்ளும் சூழலை உருவாக்க அரசாங்கம் நடவடிக்கை எடுத்துள்ளது. தற்போதைய அரசாங்கத்தின் விவசாயக் கொள்கை மூலம் நுகர்வுக்கு தேவையான அரிசியை உற்பத்தி செய்யக்கூடியதாக உள்ளது என்றார். (a)
+
+◼️
+
+[Data](articles/f60cf4b1.json)
+
+---
+
+### வவுனியா விபத்தில் இருவர் காயம்
+
+*2024-03-22 03:40:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுனியா-விபத்தில்-இருவர்-காயம்/175-335005) · `ta`
+
+வவுனியா, வைரவபுளியங்குளம் பகுதியில் இடம்பெற்ற விபத்தில் இருவர் காயமடைந்த நிலையில் வவுனியா வைத்தியசாலையில் சேர்க்கப்பட்டுள்ளனர்.
+
+வவுனியா நகரப் பகுதியில் ரயில் நிலைய வீதி ஊடாகச் சென்ற முச்சக்கர வண்டி கதிரேசு வீதியில் திரும்ப முற்பட்ட வேளையில் வைரவபுளியங்குளத்தில் இருந்து வவுனியா நகரம் நோக்கிச் சென்ற மோட்டார் சைக்கிளுடன் மோதி விபத்துக்குள்ளானது.
+
+விபத்தில் முச்சக்கர வண்டி மற்றும் மோட்டார் சைக்கிள் சாரதிகள் இருவரும் காயமடைந்த நிலையில் வவுனியா வைத்தியசாலையில் சேர்க்கப்பட்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/b5403174.json)
+
+---
+
 ### The health impact of the protesters
 
 *2024-03-22 03:34:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராட்டக்காரர்களின்-உடல்நிலை-பாதிப்பு/175-335004) · `ta`
@@ -853,6 +905,8 @@ Following the completion of the second review of the Extended Fund Facility (EFF
 ...
 
 [Data](articles/fafd6a48.json)
+
+[Extended Data](ext_articles/fafd6a48.ext.json)
 
 ---
 
@@ -2063,81 +2117,5 @@ In this year, he is playing the Chennai team in the IPL series, without the resp
 [Data](articles/74020bcb.json)
 
 [Extended Data](ext_articles/74020bcb.ext.json)
-
----
-
-### Meghalaya Law University to enroll Lankan students, exam on April 20
-
-*2024-03-21 16:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Meghalaya-Law-University-to-enroll-Lankan-students-exam-on-April-20/108-279329) · `en`
-
-National Law University Meghalaya (NLU Meg) said in a media release last week that it is extending its reach to aspiring students in Sri Lanka by scheduling admission tests in Colombo.
-
-NLU Meg is inviting aspiring students for Undergraduate, Postgraduate, and Ph.D. programs for the academic year 2024.
-
-The admission tests are scheduled for April 20, 2024, at Gateway College, Colombo 185, Koswatta Road, Rajagiriya, Colombo.
-
-For further information or clarification, students can contact Ms. Idarilang Syiemlieh at the University by calling +91-364-3507700 (Extension-35) or emailing ida@nlumeg.ac.in.
-
-Established under the National Law University of Meghalaya Act, 2022, NLU Meg is committed to revolutionizing legal education in line with India's New Education Policy. The university aims to foster the next generation of legal professionals and scholars through interdisciplinary academic programs.
-
-◼️
-
-[Data](articles/151e5407.json)
-
-[Extended Data](ext_articles/151e5407.ext.json)
-
----
-
-### Galle arrested for allegedly buying rice in Jaffna
-
-*2024-03-21 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/179346) · `ta`
-
-A Galle businessman was arrested for allegedly buying rice worth Rs 50 lakhs 40 thousand in Jaffna, leading to a police investigation. The police found hidden rice packets and arrested the owner, who was released on bail after court proceedings.
-
-🟩
-
-A Galle businessman has been arrested by the Jaffna police for allegedly defrauding the money, buying rice packets worth Rs 50 lakhs 40 thousand rupees at a popular rice mill in Jaffna.
-
-One of the owner of the wholesalers in Galle has purchased a thousand 200 rice bars weighing 25 kg at a popular rice mill in Jaffna.
-
-When the people who had gone to the wholesalers from Jaffna to the wholesalers from Jaffna, in the lorry, demanded that the money to be paid for the rice packet, they said they had given the money to the intermediary.
-
-But he did not come to the seller, and he lodged a complaint at the Jaffna Police Station.
-
-According to the complaint, the police, who investigated the complaint, replied that he did not buy rice from anyone in Jaffna.
-
-When the police raided the barn room, the rice packets of the Jaffna rice plant were recovered as they were hidden.
-
-The police took them to Jaffna and arrested the owner and brought Jaffna to Jaffna Magistrate's Court.
-
-...
-
-[Data](articles/bc2002b8.json)
-
-[Extended Data](ext_articles/bc2002b8.ext.json)
-
----
-
-### Extreme heat at work can double stillbirth risk, India study finds
-
-*2024-03-21 16:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98107/extreme-heat-at-work-can-double-stillbirth-risk-india-study-finds) · `en`
-
-Working in extreme heat can double the risk of stillbirth and miscarriage for pregnant women, according to new research from India.
-
-The study found that the risks to mothers-to-be are significantly higher than previously thought.
-
-Researchers say hotter summers can affect not only women in tropical climates, but also in countries such as the UK.
-
-They want specific health advice for working pregnant women globally.
-
-Eight hundred pregnant women in the southern Indian state of Tamil Nadu took part in the study, which was started in 2017 by the Faculty of Public Health at the Sri Ramachandra Institute of Higher Education and Research (SRIHER) in Chennai.
-
-About half of those who took part worked in jobs where they were exposed to high levels of heat, such as agriculture, brick kilns and salt flats. The others worked in cooler environments, such as schools and hospitals, although some workers were also exposed to very high levels of heat in those jobs too.
-
-...
-
-[Data](articles/6f94072f.json)
-
-[Extended Data](ext_articles/6f94072f.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 18:09:04**
+As of **2024-03-22 18:20:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,328
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,583 (100.0%) of 14,585 articles have been extended.
+14,585 (100.0%) of 14,585 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,23 +52,33 @@ Khaled Ahmed and Nahid Rana took three wickets apiece for Bangladesh, who opted 
 
 [Data](articles/4278bf72.json)
 
+[Extended Data](ext_articles/4278bf72.ext.json)
+
 ---
 
-### පාස්කු ප්‍රහාරය කළේ කවුද කියලා දන්නවා
+### Know who did the Passover attack
 
 *2024-03-22 17:24:37* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරය-කළේ-කවුද-කියලා-දන්නවා/11-408760) · `si`
 
-පාස්කු ප්‍රහාරය සිදු කළේ කවුරුන්දැයි තමන් දන්නා බවත් අධිකරණය නියෝගයක් කරන්නේ නම් තමන් රහසිගත ප්‍රකාශයක් විනිසුරුවරුන් හමුවේ කිරීමට සූදානම් යැයි හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතා පවසයි.
+Former President Maithripala Sirisena claims to know who orchestrated the Passover attack, but refuses to reveal the identity unless ordered by the judiciary. He criticizes the judiciary for keeping the information secret.
 
-අස්ගිරි මහා විහාර ඓතිහාසික ගෙඩිගේ රජමහා විහාර නව ධර්ම මන්දිරය විවෘත කිරීමේ අවස්ථාවට ප්‍රධාන ආරාධිත වශයෙන් අද (22) දින එක්වෙමින් මාධ්‍ය වේදීන් යොමුකළ ප්‍රශ්නවලට පිළිතුරු දෙමින් ඔහු මේ බව පැවැසීය.
+🟩
 
-"මම අවුරුදු පහකට මාස එක හමාරකට අඩු කාලයක් ආණ්ඩු කළේ ආණ්ඩුවත් විපක්ෂයත් නැතිව. 19 වැනි සංශෝධනයෙන් මගේ බලතල නැතිව ගියා. මම කැමැත්තෙන් තමයි ඒවා දුන්නේ. නමුත් මම හිතුවේ නෑ ඒවා වැරදි විදිහට බලය ගන්න අය භාවිත කරයි කියලා. ඒක නිසා ආණ්ඩුව හා විපක්ෂය දෙකම එකතු වෙලා මට පහරදෙන්න පටන් ගත්තා.
+Former President Maithripala Sirisena says that if the court ordered the Passover attack is a secret statement.
 
-පස්සේ පාස්කු ප්‍රහාරය ආවා. පාස්කු ප්‍රහාරයත් අපි දන්නවා කොහෙන්ද සිදු වුණේ කියලා. ඔය නඩු අහන ඒවායේ අලල්ලා තියෙන ත්‍රස්තවාදියෝ හරි. මම අල්ලපු අය තමයි ඔය නඩු අහන්නෙත් විනිසුරු මඩුල්ලක් මගින්. අනිත් පැත්තෙන් මේ පාස්කු ප්‍රහාරය කවුද කළේ කියලා කවුරුවත් කියලා නෑ.
+He was speaking to the publication of media reports today (22), however the chief guest at the opening of the new mansion of the amendment of the Historical Temple Vihara Jayamana Viharaya.
 
-...
+"I've been governments for less than five and a half years, without the opposition. The 19th Amendment left my powers. I willingly gave them. But I didn't think they use them wrongly. As a result, both the government and the opposition began attacking me.
+
+The Passover attack came. The Passover attack also know where. The terrorists with these cases are right. I was arrested by a judge's body. No one told them who had done this Passover attack on the other side.
+
+But I know who I did. If the judiciary is demanding or ordered, make a statement about this. I know who was the Passover attack. The unique thing is that the judges are responsible for keeping it in secret
+
+◼️
 
 [Data](articles/58a8ebd3.json)
+
+[Extended Data](ext_articles/58a8ebd3.ext.json)
 
 ---
 

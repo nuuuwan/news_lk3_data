@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 21:03:10**
+As of **2024-03-22 21:18:00**
 
 ## Newspaper Stats
 
-*Scraped **14,601** Articles*
+*Scraped **14,603** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,257
 adaderanalk | 1,749
 tamilmirrorlk | 1,756
 virakesarilk | 2,060
-dailymirrorlk | 2,245
-adaderanasinhalalk | 2,331
+dailymirrorlk | 2,246
+adaderanasinhalalk | 2,332
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,600 (100.0%) of 14,601 articles have been extended.
+14,601 (100.0%) of 14,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### වෙළෙඳ භාණ්ඩ අපනයනයේ සුළු වර්ධනයක්
+
+*2024-03-22 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194828) · `si`
+
+2024 පෙබරවාරි මාසයේ වෙළෙඳ භාණ්ඩ අපනයනයේ සුළු වර්ධනයක් සිදුව ඇතැයි ශ්‍රී ලංකා මහ බැංකුව පෙන්වා දෙයි.
+
+වෙළෙඳ භාණ්ඩ අපනයනය අමෙරිකානු ඩොලර් මිලියන 983.7ක් වූ අතර, එය 2023 පෙබරවාරි මාසයට සාපේක්ෂව 0.17%ක සාමාන්‍ය වර්ධනයක් වාර්තා කර තිබේ.
+
+එමෙන්ම 2024 පෙබරවාරි මාසයේ අපනයන කාර්ය සාධනය, 2024 ජනවාරි මාසයට සාපේක්ෂව 1.3% කින් වැඩි වී ඇති බව ද ශ්‍රී ලංකා මහ බැංකුව නිවේදනය කරයි.
+
+2023 පෙබරවාරි මාසයට සාපේක්ෂව, කෘෂිකාර්මික අපනයන 11.82%ක සැලකිය යුතු වර්ධනයක් පෙන්නුම් කළ අතර,  අමෙරිකානු ඩොලර් මිලියන 255.76 දක්වා ළඟා විය.
+
+◼️
+
+[Data](articles/aefcaae0.json)
+
+---
 
 ### Sri Lanka’s export earnings record ‘modest increase’ in February
 
@@ -45,6 +63,8 @@ Compared to February 2023, agricultural exports have shown a significant increas
 ◼️
 
 [Data](articles/1d235e20.json)
+
+[Extended Data](ext_articles/1d235e20.ext.json)
 
 ---
 
@@ -313,6 +333,22 @@ Colombo, March 22 (Daily Mirror) - Former President Maithripala Sirisena today d
 [Data](articles/56077b03.json)
 
 [Extended Data](ext_articles/56077b03.ext.json)
+
+---
+
+### Maithripala claims to be aware of real culprits behind Easter attacks
+
+*2024-03-22 18:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Maithripala-claims-to-be-aware-of-real-culprits-behind-Easter-attacks/155-279410) · `en`
+
+Colombo, March 22 (Daily Mirror) - Former President Maithripala Sirisena today disclosed that he is well aware of the true perpetrators behind the Easter Sunday bombings in 2019.
+
+"The suspects who are currently in remand custody in connection with the attacks are minor offenders. The real culprits are still at large. However, I am ready to shed light on the perpetrators of the Easter Sunday attacks and make a special statement if I am summoned to court," he stated.
+
+"I have been keeping this information under wraps, and therefore, it is imperative for the judges also to keep a lid on it,” he added.
+
+◼️
+
+[Data](articles/5d495712.json)
 
 ---
 
@@ -2263,49 +2299,5 @@ Charles Nirmalanathan, who got up again, said that such a police anarchy should 
 [Data](articles/6a80742b.json)
 
 [Extended Data](ext_articles/6a80742b.ext.json)
-
----
-
-### Accident in Trincomalee: One killed
-
-*2024-03-22 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/179389) · `ta`
-
-In Trincomalee, a motorcycle accident in Poonagar killed one and injured another, who was taken to Muttur Base Hospital. The deceased, Jagadeeswaran Madhusan, 22, from Batticaloa, was kept at Eichilampattu Divisional Hospital.
-
-🟩
-
-One person was killed in a motorcycle accident in Poonagar area of the Trincomalee District Eichilampattu police division.
-
-The other person who was traveling on a motorcycle was injured and sent to Muttur Base Hospital for further treatment. The body of the deceased has been kept at the Eichilampattu Divisional Hospital, Eichilampattu police said.
-
-The two men from Batticaloa came to Trincomalee and were traveling to Batticaloa on a motorbike.
-
-Jagadeeswaran Madhusan, 22, from Ganapathipillai Nagar, Batticaloa, Chengaladi and Ganapathipillai Nagar, died in the incident, Eichilampattu police said.
-
-◼️
-
-[Data](articles/0f838fa4.json)
-
-[Extended Data](ext_articles/0f838fa4.ext.json)
-
----
-
-### Thai Air, Maldivian to resume Sri Lanka flights from April
-
-*2024-03-22 10:19:00* · [`economynextcom`](https://economynext.com/thai-air-maldivian-to-resume-sri-lanka-flights-from-april-155719/) · `en`
-
-ECONOMYNEXT – Thai Air will resume daily flights to Colombo from April 01, state-run Airport and Aviation Services, which runs the Indian Ocean island’s airports said.
-
-The Maldivian will start twice weekly flights from April 25.
-
-Maldives which has a strong currency and the least activist monetary authority is also a source of tourists to Sri Lanka.
-
-Sri Lanka was hit by a currency crisis soon after it recovered from Covid hitting tourist arrivals and air connections. (Colombo/Mar22/2024)
-
-◼️
-
-[Data](articles/5e0e9225.json)
-
-[Extended Data](ext_articles/5e0e9225.ext.json)
 
 ---

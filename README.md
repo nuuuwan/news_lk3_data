@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 12:03:03**
+As of **2024-03-22 12:17:58**
 
 ## Newspaper Stats
 
-*Scraped **14,522** Articles*
+*Scraped **14,524** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 776
 economynextcom | 782
 islandlk | 797
-adalk | 1,248
+adalk | 1,249
 adaderanalk | 1,737
-tamilmirrorlk | 1,750
+tamilmirrorlk | 1,751
 virakesarilk | 2,046
 dailymirrorlk | 2,225
 adaderanasinhalalk | 2,315
@@ -26,65 +26,103 @@ adaderanasinhalalk | 2,315
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,519 (100.0%) of 14,522 articles have been extended.
+14,522 (100.0%) of 14,524 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### பறவைகள் பறக்கும் பாதையில் 52 காற்றாலைகள் ; அதானி திட்டம் குறித்து பேராசிரியர் கடும் எச்சரிக்கை
+### 52 windmills on the flying path of birds;Adani's project
 
 *2024-03-22 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/179406) · `ta`
 
-அதானி குழுமத்தின்  காற்றாலை மின்திட்டம் காரணமாக மன்னாரின் வலசை பறவைகளிற்கு பெரும் பாதிப்பு ஏற்படலாம் என கொழும்பு பல்கலைகழக பேராசிரியர் சம்பத் எஸ் செனிவிரட்ன தெரிவித்துள்ளார்.
+Professor Sampath S Seneviratne warns that Adani's 52 windmills in Mannar could harm bird migration, despite Colombo University's research on bird paths. The windmills, 120m high with 96m rotating blades, are said to disrupt bird migration, affecting 15 million birds from 30 countries. Sri Lanka has pledged to protect these birds, with most entering through Mannar.
 
-வலசை பறவைகளிற்கான முக்கியமான நுழைவாயிலாக மன்னார் காணப்படுகின்றது என தெரிவித்துள்ள அவர் அதானியின் காற்றாலை மின்திட்டத்தினால் பறவைகளிற்கு பேரழிவு ஏற்படும் எனவும் குறிப்பிட்டுள்ளார்.
+🟩
 
-காற்றாலை மின்திட்டத்திற்காக உருவாக்கப்படும் ஒவ்வொரு கோபுரமும் 120 மீற்றர் உயரம் கொண்டதாக காணப்படும் மேலும் 96 மீற்றர் நீளமான சுழலும் கத்திகள் காணப்படும் எனவும் தெரிவித்துள்ளார்.
+Professor Sampath S Seneviratne, Professor of Colombo University, said that the windmill of the Adani Group could be greatly affected by Mannar's weak birds.
 
-காற்றாலைகள் மூலம் உமிழ்வுகள் வெளியாவதில்லை அவை அதிக சத்தத்தை எழுப்புவதில்லை எனவும் குறிப்பிட்டுள்ள அவர் எனினும் இந்த காற்றாலைகள் சுற்றுசூழலிற்கு உகந்தவையா பொருளாதாரத்திற்கு பயன்படுமா என்பது தொழில்நுட்பத்திற்கு அப்பாற்பட்ட பல வெளிக்காரணகளில் தங்கியுள்ளது எனவும் குறிப்பிட்டுள்ளார்.
+He said that Mannar is the main entrance to the wander birds, and that Adani's windmill will be a disaster for the birds.
 
-உத்தேச நிர்மாணத்தளம் பறவைகளின் புலம்பெயர் பாதையில் உள்ளதாக தெரிவித்துள்ள பேராசிரியர் செனிவிரத்ன தெரிவித்துள்ளார்.
+He said that each tower created for the windmill is 120 meters high and 96 meters of rotating knives.
+
+He also said that the windmills do not emit through the windmills, but that the windmills are used for the economy or the economy, but the fact that these winds are used for the economy.
+
+Professor Seneviratne said that the proposed construction site is on the diaspora.
+
+The Colombo Ballaga University has been conducting a comprehensive research on bird migration paths, using satellite images and GMS and GPS technology for the past four years.
+
+He added that these data are not only for the benefit of the environment but also for the Civil Air Transport Commission.
 
 ...
 
 [Data](articles/ca73bd2d.json)
 
+[Extended Data](ext_articles/ca73bd2d.ext.json)
+
 ---
 
-### யாழ். இந்திய துணை தூதரகத்தை முற்றுகையிட்டு உள் நுழைய முயற்சித்த மீனவர்கள்!
+### Yall. Fishermen who tried to enter the Indian Consulate
 
 *2024-03-22 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179403) · `ta`
 
-இந்தியன் இழுவை மடி தொழிலுக்கு எதிர்ப்பு தெரிவித்து இன்று வெள்ளிக்கிழமை யாழ்ப்பாணத்தில் உள்ள இந்திய துணை தூதரகத்தினை யாழ்ப்பாண மாவட்ட மீனவர்கள் முற்றுகையிட்டுள்ளனர்.
+Fishermen in Jaffna protested against Indian trawling, blocking the Indian Consulate. They started a hunger strike and are now engaged in a struggle outside the Indian Embassy, demanding continued resource support.
 
-கடந்த செவ்வாய்க்கிழமை மீனவர்கள் யாழ்ப்பாணத்தில் உண்ணாவிரத போராட்டினை ஆரம்பித்திருந்தனர். இவ்வாறு போராட்டத்தின் ஆரம்பித்த மீனவர்கள் தமது பொறுமை இழந்து இன்றையதினம் யாழ்ப்பாணத்தில் உள்ள இந்திய துவங்கி தூதரத்துக்கு முன்னால் போராட்டத்தில் ஈடுபட்டு வருகின்றதுடன் இந்திய துணை தூதரகத்திற்குள் நுழைவதற்கு முயற்சிகள் மேற்கொண்டு வருகின்றனர்.
+🟩
 
-இந்நிலையில் பொலிசார் மீனவர்களை சுமூகமான நிலைக்குள் கொண்டுவர முயன்றும் மீனவர்கள் பொலிசாரின் கட்டுப்பாட்டுக்குள் அடங்காமல் போராட்டத்தில் ஈடுபட்டு வருகின்றனர். போலீசார் கை விலங்கினை காட்டி மீனவர்களை அச்சுறுத்தும் விதத்தில் மிரட்டி வருகின்றனர்.
+Jaffna district fishermen blocked the Indian consultation in Jaffna on Friday in protest of the Indian trawling industry.
 
-தொடர்ச்சியாக தமது வளங்கள் அளிக்கப்பட்டு வருவதாகவும் இதனை தடுத்து நிறுத்துமாறு கோரி மீனவர்கள் இவ்வாறு தொடர்ச்சியாக போராட்டங்களை முன்னெடுத்து வருகின்றமை குறிப்பிடத்தக்கது.
+Fishermen started a hunger strike in Jaffna last Tuesday. The fishermen who started the protest have lost their patience and are engaged in a struggle in front of the Indian Embassy in Jaffna today and are trying to enter the Indian Consulate.
+
+In this case, the fishermen are trying to bring the fishermen into a smooth condition.. Police are intimidating fishermen by showing a hand animal.
+
+It is noteworthy that the fishermen are continuing their protests, demanding that their resources continue to be provided.
 
 ◼️
 
 [Data](articles/fd10b61b.json)
 
+[Extended Data](ext_articles/fd10b61b.ext.json)
+
 ---
 
-### தனது மகனை இராணுவத் தளபதியாக்கினார் உகண்டா ஜனாதிபதி
+### Uganda president has made his son a military commander
 
 *2024-03-22 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179407) · `ta`
 
-உகண்டா ஜனாதிபதி யோவேரி முசவேனி தன் மகனை அந்நாட்டின் இராணுவத் தளபதியாக நியமித்துள்ளார்.
+Uganda's President Joveri Musaveni appointed her son, Muhuzi Kanerugaba, as the army commander, despite speculations about him becoming president.
 
-1986 ஆம் ஆண்டு முதல் தடவையாக அதிகாரத்தைக் கைப்பற்றிய யோவேரி முசவேனி, 6 தடவைகள் ஜனாதிபதியாகத் தெரிவாகியவர்.
+🟩
 
-தனக்கு பின் மகன் ஜெனரல் முஹுஸி கெய்ரேருகபாவை ஜனாதியாக்குவதற்கு முசவேனி தயாராகி வருகிறார் என ஊகங்கள் நிலவின.
+Uganda President Joveri Musaveni has appointed her son as the army commander of the country.
 
-இந்நிலையில், முஹுஸி கெய்னேருகபாவை இராணுவத் தளபதியாக ஜனாதிபதி முசவெனி நியமித்துள்ளார் என உகண்டா பாதுகாப்பு அமைச்சு நேற்று தெரிவித்துள்ளது.
+Joverie Musaveni, who has seized power since 1986, has been elected president six times.
+
+There were speculations that Muzhaveni was preparing to make him the president after her son Muhuzi Kyrerukaba.
+
+The Uganda Defense Ministry said yesterday that President Muzaveni has appointed Muhuzi Kanerugaba as Army Commander.
 
 ◼️
 
 [Data](articles/1870ed1c.json)
+
+[Extended Data](ext_articles/1870ed1c.ext.json)
+
+---
+
+### விவசாய கிணற்றில் விழுந்து சிறுவன் மரணம்
+
+*2024-03-22 11:37:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விவசாய-கிணற்றில்-விழுந்து-சிறுவன்-மரணம்/76-335013) · `ta`
+
+வட்டவளை பொலிஸ் பிரிவிற்குட்பட்ட பினோயா மேல் பகுதியில் உள்ள தோட்ட வீடொன்றில் விளையாடிக் கொண்டிருந்த சிறுவனின் சடலம் வீட்டின் பின்புறம் அமைந்துள்ள கிணற்றில் இருந்து மீட்கப்பட்டுள்ளதாக வட்டவளை பொலிஸார் தெரிவித்தனர்.
+
+3 வயது 9 மாத வயதுடைய கதிரவேல் ரோஹித்தின் சடலமே விவசாய கிணற்றில் காணப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+வீட்டில் விளையாடிக் கொண்டிருந்த குழந்தை காணாமல் போனதால், குழந்தையின் தந்தை மற்றும் தோட்ட வீடுகளில் வசிக்கும் தோட்டத் தொழிலாளர்கள் இணைந்து நடத்திய தேடுதல் வேட்டையில் கிணற்றில் இருந்து சடலத்தை மீட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/7ad395a8.json)
 
 ---
 
@@ -533,6 +571,24 @@ Sri Lanka was hit by a currency crisis soon after it recovered from Covid hittin
 [Data](articles/5e0e9225.json)
 
 [Extended Data](ext_articles/5e0e9225.ext.json)
+
+---
+
+### වසර 10කින් රට යළිත් අර්බුදයකට ලක් නොවීමට නම් කළ යුතු දේ ජනපති කියයි
+
+*2024-03-22 10:10:47* · [`adalk`](https://www.ada.lk/breaking_news/වසර-10කින්-රට-යළිත්-අර්බුදයකට-ලක්-නොවීමට-නම්-කළ-යුතු-දේ-ජනපති-කියයි/11-408753) · `si`
+
+ආනයන, අපනයන පරතරය පියවා ගැනීමට ණය ලබා ගැනීම අඛණ්ඩව සිදු වුවහොත් නැවතත් වසර 10කින් ශ්‍රී ලංකාවට ආර්ථික අර්බුදයකට මුහුණ දීමට සිදුවන බව පෙන්වා දුන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා රට තුළ ආර්ථික ස්ථාවරත්වයක් ඇති කර එය කඩිනමින් අපනයන ආර්ථිකයක් කරා පරිවර්තනය කිරීම තම අපේක්ෂාව බව ද අවධාරණය කළේය.
+
+ඊට අදාළව නව නීතියක් ද මෙම අප්‍රේල් මාසයේ දී පාර්ලිමේන්තුවට ඉදිරිපත් කරන බවත් එසේම රජයේ මූල්‍ය පාලනය සඳහා ද නීතියක් ගෙන එන බව පැවසූ ජනාධිපතිවරයා මෙම සියලු කටයුතු තුළින් රටේ ආර්ථිකය ඉදිරියට ගෙන යාම අරමුණ බව පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ කෑගල්ල, මංගෙදර ටැම්පිට පුරාණ පිරිවෙන් විහාරස්ථානයේ ‌‌ෙඑතිහාසික බෝධින් වහන්සේ වටා ඉදිකළ බෝධිඝරය සහ රන්වැට විවෘත කිරීමේ පුණ්‍යෝත්සවයට එක් වෙමිනි.
+
+ශ්‍රී ලංකාව ණය ගෙවිය හැකි රටක් ලෙස නැවත ලෝකය හමුවේ සහතික කිරීමට අදාළ සාකච්ඡා මෙම ජූනි, ජුලි මාසය වන විට අවසන් කිරීමට අපේක්ෂා කරන බව මෙහිදී සඳහන් කළ ජනාධිපතිවරයා ඒ සමඟම බංකොළොත් රටක් යන නාමකරණය යටතේ අපට මෙතෙක් අහිමිව තිබූ විදෙස් ආධාර නැවත රටට ලැබීම ආරම්භ වන බවද පෙන්වා දුන්නේය.
+
+...
+
+[Data](articles/15803a8e.json)
 
 ---
 
@@ -2097,51 +2153,5 @@ However, thankful to the Indian government, we have taken action to expand the p
 [Data](articles/23e3b340.json)
 
 [Extended Data](ext_articles/23e3b340.ext.json)
-
----
-
-### UN and the European Union demand a quick ceasefire to Gaza
-
-*2024-03-21 22:34:32* · [`adalk`](https://www.ada.lk/breaking_news/එක්සත්-ජාතීන්-හා-යුරෝපා-සංගමය-ගාසා-තීරයට-ඉක්මන්-සටන්-විරාමයක්-ඉල්ලයි/11-408750) · `si`
-
-The UN and EU urge a swift ceasefire in Gaza, facing famine. A joint statement from the European Commission Chair and UN Secretary General Antonio Guterres calls for an immediate ceasefire and the release of detainees, requesting humanitarian aid. Jordan's army and aircraft from Jordan, Egypt, Singapore, and the US have joined efforts to distribute food, marking Singapore's first involvement.
-
-🟩
-
-The European Union and the United Nations calls for the parties to implement a speedy ceasefire in Gaza.
-
-This is stated in a joint statement issued by the European Commission Chairman of the European Commission and the UN Secretary General Antonio Gutaraz yesterday (20).
-
-Current Gaza is facing a serious famine. The European Union and the United Nations calls for an agreeable ceasefire and release people in detention. The publication states that both humanitarian subsidies are requested to set the necessary background to be given to Gaza.
-
-Meanwhile, the Jordanata army joined the northern part of the Gaza yesterday (20). 6 aircraft in countries, including Jordan, Egypt, Singapore and America. This is the first time Singapore has joined the distribution of food to Gaza.
-
-◼️
-
-[Data](articles/6095548d.json)
-
-[Extended Data](ext_articles/6095548d.ext.json)
-
----
-
-### Delhi Chief Minister Kejriwal arrested in excise policy case
-
-*2024-03-21 22:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98117/delhi-chief-minister-kejriwal-arrested-in-excise-policy-case) · `en`
-
-Delhi Chief Minister Arvind Kejriwal was arrested by India’s Enforcement Directorate (ED) on Thursday night in an excise policy-linked money laundering case, officials said.
-
-The arrest, the first of a sitting chief minister, came hours after the Delhi High Court refused to grant protection to Kejriwal from any coercive action by the agency.
-
-Soon after the high court order, an ED team reached his residence and carried out searches. Subsequently, he was arrested, officials said.
-
-A 12-member team of the Enforcement Directorate reached Delhi Chief Minister Arvind Kejriwal’s official residence with a search warrant in the excise policy case. The Delhi Chief Minister has been arrested by the Enforcement Directorate.
-
-Mr Kejriwal has become the first sitting chief minister to be arrested in the history of Independent India and his party has said he will continue to hold the post.
-
-...
-
-[Data](articles/560ef065.json)
-
-[Extended Data](ext_articles/560ef065.ext.json)
 
 ---

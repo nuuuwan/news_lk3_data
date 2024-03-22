@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 17:34:10**
+As of **2024-03-22 17:53:48**
 
 ## Newspaper Stats
 
-*Scraped **14,580** Articles*
+*Scraped **14,583** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 dailyftlk | 776
 economynextcom | 782
 islandlk | 797
-adalk | 1,254
+adalk | 1,255
 adaderanalk | 1,745
 tamilmirrorlk | 1,755
 virakesarilk | 2,060
 dailymirrorlk | 2,237
-adaderanasinhalalk | 2,326
+adaderanasinhalalk | 2,328
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,576 (100.0%) of 14,580 articles have been extended.
+14,580 (100.0%) of 14,583 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### මාධ්‍ය සාකච්ඡාවට බාධා කළ සිව් දෙනෙක් අල්ලයි
+
+*2024-03-22 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194824) · `si`
+
+කොළඹ, මහජන පුස්තකාල ශ්‍රවණාගාරයේ පැවති වෘත්තීය සමිති මාධ්‍ය සාකච්ඡාවකට බාධා කළ බාහිර පුද්ගලයින් සිව් දෙනෙක් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ශ්‍රී ලංකා පරිපාලන සේවා සංගමය මගින් එම සමිති මාධ්‍ය සාකච්ඡාව සංවිධානය කර තිබුණි.
+
+මාධ්‍ය සාකච්ඡාව අතරතුර බාහිරින් පැමිණි පිරිසක් මාධ්‍ය සාකච්ඡාවට බාධා කළේය.
+
+එවිත බාධා කළ පිරිස එම ස්ථානයෙන් දිවගිය අතර ඔවුන් ව හඹා ගොස් ඉන් සිව් දෙනෙක්ව අත්අඩංගුවට ගැනීමට කුරුඳුවත්ත පොලීසියේ නිලධාරීන් සමත් විය.
+
+◼️
+
+[Data](articles/d601f45f.json)
+
+---
 
 ### Resurrection Sundays - Maithri says the truth is ready
 
@@ -56,6 +74,28 @@ However, he said the judges should be tightened by the confidentiality of these 
 
 ---
 
+### පළමු දිනයේ වාසිය ශ්‍රී ලංකාවට
+
+*2024-03-22 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194823) · `si`
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවැත්වෙන පළමු ටෙස්ට් තරගයේ පළමු දිනයේ වැඩි වාසි හිමිකර ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+
+සිලේට් හි පැවැත්වෙන මෙම තරගයේ කාසියේ වාසිය දිනාගැනීමට සත්කාරක බංග්ලාදේශ කණ්ඩායම සමත් වුණි.
+
+ඒ අනුව ඔවුන් පළමුව පන්දුවට පහරදීම සඳහා ශ්‍රී ලංකා කණ්ඩායමට ආරාධනා කළේය.
+
+ශ්‍රී ලංකා කණ්ඩායම සිය පළමු ඉනිම සඳහා ලකුණු 280ක් රැස් කළේය.
+
+එහිදී නායක ධනංජය ද සිල්වා සහ කමිඳු මෙන්ඩිස් ශ්‍රී ලංකාව වෙනුවෙන් ලකුණු 102 බැගින් රැස් කළහ.
+
+තරගය පළමු දිනය සඳහා නිමා කරන විට බංග්ලාදේශ කණ්ඩායම සිය පළමු ඉනිම සඳහා කඩුලු 3ක් දැවී ලකුණු 32යි.
+
+◼️
+
+[Data](articles/18c53165.json)
+
+---
+
 ### Heavy rainfall above 75mm expected across multiple provinces
 
 *2024-03-22 17:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-rainfall-above-75mm-expected-across-multiple-provinces/108-279407) · `en`
@@ -74,25 +114,35 @@ Across the rest of the island, scattered showers or thundershowers are anticipat
 
 [Data](articles/a6f2a382.json)
 
+[Extended Data](ext_articles/a6f2a382.ext.json)
+
 ---
 
-### 100 ஆண்டுகளுக்குப் பிறகு வரும் சந்திர கிரகணம்
+### Lunar eclipse that comes after 100 years
 
 *2024-03-22 16:56:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-ஆண்டுகளுக்குப்-பிறகு-வரும்-சந்திர-கிரகணம்/175-335023) · `ta`
 
-2024ஆம் ஆண்டின் முதல் சந்திர கிரகணம் இன்னும் 4 நாட்களில் அதாவது மார்ச் 25ஆம் திகதி நிகழப் போகிறது.
+The first lunar eclipse of 2024, coinciding with Panguni Uthram and Holi, marks a 100-year cycle since the last one in 1924. It's a significant event in Vedic astrology, occurring from 10.23 am to 03.02 pm. This eclipse, known as the Benumbi eclipse, lasts about 4 hours and benefits certain zodiacs.
 
-இந்த நாளில் தான் பங்குனி உத்திரம் பண்டிகையாகும், மேலும் இதே நாளில் தான் ஹோலி பண்டிகையும் கொண்டாடப்படிகிறது. எனவே இந்த சந்திர கிரகணம் நிகழ்வானது 100 ஆண்டுகளுக்கு பின் நிகழ்கிறது.
+🟩
 
-வேத ஜோதிட சாஸ்திரப்படி, 100 ஆண்டுகளுக்குப் பிறகு ஹோலி பண்டிகை பங்குனி உத்திரம் நாளில் சந்திர கிரகணம் ஏற்படவது மிகவும் முக்கியம் வாய்ந்த நிகழ்வாகப் பார்க்கப்படுகிறது.
+The first lunar eclipse of 2024 will take place on March 25 in four days.
 
-அந்த வகையில் இந்த சந்திர கிரகணமானது காலை 10.23 மணிக்கு தொடங்கி மாலை 03.02 மணி வரை நீடிக்கும். முன்னதாக இந்த சந்திர கிரகணம் 1924 ஆம் ஆண்டு நிகழ்ந்தது. இந்த ஆண்டின் முதல் சந்திர கிரகணம் பெனும்பிரல் சந்திர கிரகணமாக இருக்கும், இது சுமார் 4 மணி நேரம் நீடிக்கும்.
+Panguni Uthram is the day of this day, and the same day the Holi festival is celebrated. So this lunar eclipse occurs 100 years later.
 
-ஹோலி மற்றும் சந்திர கிரகணம் இரண்டும் ஒரே நாளில் ஏற்பட உள்ளதால், அதன் பலன் சில ராசிக்காரர்களுக்கு சுபமாக இருக்கும். அதுமட்டுமின்றி இந்த சந்திர கிரகணம் பங்குனி மாதம் உத்திரம் நட்சத்திரத்தில் நிகழப்போகிறது.
+According to Vedic astrology, the eclipse of the lunar eclipse on the day of the Holi festival after 100 years is seen as a very important event.
 
-...
+The eclipse will begin at 10.23 am and last till 03.02 pm. Earlier this lunar eclipse occurred in 1924. The first lunar eclipse of this year will be the Benumbi eclipse, which lasts about 4 hours.
+
+Holi and the lunar eclipse will occur overnight, and its benefits will be good for some zodiacs. Moreover, this lunar eclipse is going to occur in the month of Panguni.
+
+Usually the eclipse occurs when the sun, the moon and the earth come in the same line. As the earth comes between the sun and the moon, the lunar eclipse occurs when the sun's direct rays prevent the moon from glowing. Remble
+
+◼️
 
 [Data](articles/471a4eca.json)
+
+[Extended Data](ext_articles/471a4eca.ext.json)
 
 ---
 
@@ -186,6 +236,20 @@ Accordingly, a total of 27 suspects have been arrested in the 03 days since the 
 
 ---
 
+### ජල පෝෂක ප්‍රදේශවලට තද වැසි
+
+*2024-03-22 16:27:42* · [`adalk`](https://www.ada.lk/breaking_news/ජල-පෝෂක-ප්‍රදේශවලට-තද-වැසි/11-408759) · `si`
+
+මධ්‍යම කදුකරයේ බටහිර බැවුම් ප්‍රදේශවල පුරා මාස දෙකකට ආසන්න කාලයක් පැවති අධික වියළි කාලගුණ තත්ත්වය අවසන් කරමින් (22) දින පස්වරුවේ කාසල්රි ජලාශයේ ප්‍රධාන ජල පෝෂක ප්‍රදේශවලට තද වැසි පතිත විය.
+
+එසේම බගවන්තලාව , හැටන් , දික්ඔය සහ නොර්වුඩ් යන ප්‍රදේශවලට තද වැසි පතිත විය. පැවති අධික වියළි කාලගුණය හේතුවෙන් එම ප්‍රදේශවල ජල මුලාශ සිදියාම නිසා උග්‍ර පානිය ජල ගැටළුවක්ද මතු වි තිබුණි.
+
+◼️
+
+[Data](articles/a70897d8.json)
+
+---
+
 ### Red light to those on the temporary basis in Canada
 
 *2024-03-22 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194822) · `si`
@@ -229,6 +293,8 @@ The team will leave for South Africa on March 23 and play three T20Is and three 
 ◼️
 
 [Data](articles/53683214.json)
+
+[Extended Data](ext_articles/53683214.ext.json)
 
 ---
 
@@ -1440,6 +1506,8 @@ The decisive action taken by Brazil's justice system has been praised by many on
 
 [Data](articles/23fe8c2b.json)
 
+[Extended Data](ext_articles/23fe8c2b.ext.json)
+
 ---
 
 ### 5 more of the People's Struggle Movement remanded again
@@ -2231,63 +2299,5 @@ Meanwhile, former Minister of State Vijayagala Maheshwaran is the chief organize
 [Data](articles/1545957b.json)
 
 [Extended Data](ext_articles/1545957b.ext.json)
-
----
-
-### Two arrested for shooting incident
-
-*2024-03-22 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194803) · `si`
-
-Police arrested two suspects involved in a shooting incident on 01st.03.09.2013, including a police officer hiding in a lodge in Buttala.
-
-🟩
-
-Police have arrested a suspect and a suspect who supported the shooting on 01st.03.09.2013.
-
-Police have arrested the police while they were hiding in a lodge in Buttala.
-
-◼️
-
-[Data](articles/2906449c.json)
-
-[Extended Data](ext_articles/2906449c.ext.json)
-
----
-
-### UN Security Council to vote Friday on US resolution on Gaza ceasefire
-
-*2024-03-22 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98119/un-security-council-to-vote-friday-on-us-resolution-on-gaza-ceasefire) · `en`
-
-The United States will ask the U.N. Security Council on Friday to back a resolution calling for an immediate ceasefire in Gaza and an Israel-Hamas hostage deal, increasing pressure on its ally Israel to allow more humanitarian aid and better protect civilians.
-
-Nate Evans, spokesperson for the U.S. mission to the United Nations, said on Thursday that the resolution resulted from “many rounds of consultations” with members of the 15-seat Security Council.
-
-The resolution marks a further toughening of Washington’s stance toward Israel. Earlier in the five-month-long war, the U.S. was averse to the word ceasefire and vetoed measures that included calls for an immediate ceasefire.
-
-The draft resolution, seen by Reuters, says an “immediate and sustained ceasefire” lasting roughly six weeks would protect civilians and allow for the delivery of humanitarian assistance.
-
-...
-
-[Data](articles/0346b542.json)
-
-[Extended Data](ext_articles/0346b542.ext.json)
-
----
-
-### Massive rise in scams as public struggle from financial crisis
-
-*2024-03-22 08:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Massive-rise-in-scams-as-public-struggle-from-financial-crisis/108-279369) · `en`
-
-Colombo, March 22 (Daily Mirror) - Amid the country's high cost of living, there's an increased risk of individuals falling prey to ongoing scams and cyber frauds as more people are desperately resorting to earning quick money, the Sri Lanka Computer Emergency Readiness Team (SLCERT) said.
-
-Senior Information Security Engineer Charuka Damunupola of SLCERT told the Daily Mirror that several incidents relating to social media platforms, such as Facebook, now known as Meta, Messenger were reported in addition to people spending money on pyramid schemes.
-
-Recently, several cases were reported from Facebook where scammers were identified sending 'friend requests' thereafter asking the individuals to vote for certain competitions. The friend request might be sent by a person who is already on the friend list of their Facebook profile, Damunupola said.
-
-...
-
-[Data](articles/c96509f1.json)
-
-[Extended Data](ext_articles/c96509f1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 10:33:43**
+As of **2024-03-22 10:51:55**
 
 ## Newspaper Stats
 
-*Scraped **14,478** Articles*
+*Scraped **14,484** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,123 @@ economynextcom | 764
 dailyftlk | 776
 islandlk | 797
 adalk | 1,246
-adaderanalk | 1,735
+adaderanalk | 1,736
 tamilmirrorlk | 1,747
-virakesarilk | 2,036
+virakesarilk | 2,040
 dailymirrorlk | 2,222
-adaderanasinhalalk | 2,310
+adaderanasinhalalk | 2,311
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,478 (100.0%) of 14,478 articles have been extended.
+14,478 (100.0%) of 14,484 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### ශ්‍රී ලංකා ක්‍රිකට් තවත් පත්කිරීම් 3ක්
+
+*2024-03-22 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194807) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් ආයතනය මගින් නව තනතුරු 3ක් සඳහා පත්කිරීම් කර ඇති බව නිවේදනය කරයි.
+
+ක්‍රීඩා ප්‍රවර්ධන පෝෂණවේදී තනතුර සඳහා වෛද්‍ය හෂාන් අමරතුංග ද භෞත චිකිත්සක ලෙස ජොනතන් පෝට(ර්) පත්කර තිබේ.
+
+◼️
+
+[Data](articles/23f399aa.json)
+
+---
+
+### வவுனியாவில் வர்த்தக நிலையத்தில் சடலம் மீட்பு
+
+*2024-03-22 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/179392) · `ta`
+
+வவுனியா தோனிக்கல் ஆலயடி வீதியில் அமைந்துள்ள வர்த்தக நிலையத்தில் இருந்து ஆண் ஒருவரின் சடலம் மீட்கப்பட்டுள்ளதாக வவுனியா பொலிஸார் தெரிவித்தனர்.
+
+குறித்த நபர் கடந்த சில நாட்களாக சுகவீனமுற்று காணப்பட்ட நிலையிலேயே இன்று வெள்ளிக்கிழமை (22) அதிகாலை தனது வர்த்தக நிலையத்தில் இருந்து சடலமாக மீட்கப்பட்டுள்ளார்.
+
+43 வயதுடைய இரண்டு பிள்ளைகளின் தந்தையான ரெ.நேசேந்திரன் என்பவரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/503b3d56.json)
+
+---
+
+### மொங்கோலியா அரைநூற்றாண்டு காலத்தில் எதிர்கொள்ளாத மிககடுமையான குளிர்காலம் - எங்கும் பனி - ஐந்து மில்லியன் விலங்குகள் உயிரிழப்பு
+
+*2024-03-22 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179391) · `ta`
+
+மொங்கோலியா அரைநூற்றாண்டு  காலத்தி;ல் சந்தித்துள்ள மிகவும் கடுமையான குளிர்காலம் காரணமாக ஐந்து மில்லியன் விலங்குகள் உயிரிழந்துள்ளன என  மனிதாபிமான அமைப்புகள் தெரிவித்துள்ளன.
+
+மொங்கோலியா மிகவும் கடுமையான குளிரில் சிக்குப்பட்டு உறைந்துபோயுள்ளது 4.7 மில்லியன் விலங்குகள் உயிரிழந்துள்ளன ஆயிரக்கணக்கான் மக்களின் வாழ்வாதாரத்திற்கும் உணவு விநியோகத்திற்கும் பாதிப்பு ஏற்பட்டுள்ளது என சர்வதேச செஞ்சிலுவை சம்மேளனம் தெரிவித்துள்ளது.
+
+வெப்பநிலை வீழ்ச்சியடைந்துள்ளது கடும் பனி காணப்படுகின்றது மேய்ச்சல் நிலங்கள் முற்றாக மூடப்பட்டுள்ளன கால்நிலைகள் உணவிற்காக அலைகின்றன என செஞ்சிலுவை சம்மேளனம்  தெரிவித்துள்ளது.
+
+மங்கோலியாவில் மூன்று இலட்சத்திற்கும் மேற்பட்ட மக்கள் நாடோடிகள் மற்றும் கால்நடை மேய்ப்பில் ஈடுபட்டுள்ளனர் உணவுக்காகவும் சந்தைகளி;ல் விற்பனை செய்வதற்காகவும்  அவர்கள் கால்நடைகளை நம்பியுள்ளனர்.
+
+...
+
+[Data](articles/e2faebc4.json)
+
+---
+
+### Sri Lanka to secure likely 6-year moratorium on debt owed to India, Paris Club
+
+*2024-03-22 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98122/sri-lanka-to-secure-likely-6-year-moratorium-on-debt-owed-to-india-paris-club-) · `en`
+
+Sri Lanka is close to finalising a debt treatment plan with India and the Paris Club, sources familiar with the negotiations said, pointing to a likely moratorium of up to six years and a reduced interest rate during the repayment period.
+
+“The discussions are at an advanced stage. A formal agreement on the terms can be expected very soon,” the Colombo-based source told The Hindu on Thursday, after a recent discussion among members of the Official Creditor Committee [OCC].
+
+As many as 17 countries that have extended loans to Sri Lanka formed the Committee last year for ease of debt restructuring negotiations. China opted to stay out of the platform, but has been attending its meetings as an observer. Meanwhile, Colombo has repeatedly assured the OCC that it would negotiate repayment of Chinese loans on comparable terms.
+
+...
+
+[Data](articles/e4ea3573.json)
+
+---
+
+### பொசன் பண்டிகையை பகலில் கொண்டாட முடியுமா ?  - சார்ள்ஸ் நிர்மலநாதன் கேள்வி
+
+*2024-03-22 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179385) · `ta`
+
+இந்துக்களின் சிவராத்திரியை பகலில் நடத்துமாறு பொலிஸார்  கூறுவதை போன்று பௌத்தர்களின் பொசன் தின நிகழ்வை பகலில் நடத்துமாறு பொலிஸாரினால் கூற முடியுமா என  தமிழ் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர்  சார்ள்ஸ் நிர்மலநாதன் சபையில் கேள்வியெழுப்பினார்.
+
+பாராளுமன்றத்தில்  வியாழக்கிழமை (21) இடம்பெற்ற சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை மீதான மூன்றாம்  நாள் விவாதத்தில்  உரையாற்றும் போது மேற்கண்டவாறு தெரிவித்தார்.
+
+வெடுக்குநாறிமலை  ஆதிலிங்கேஸ்வரர் ஆலயத்தில் சிவராத்திரியை அனுஷ்டிக்க இந்துக்களுக்கு  நீதிமன்றம் அனுமதியளித்தபோதும் பொலிஸார் அனுமதி மறுத்தனர்.
+
+வழிபாட்டுக்கு அனுமதித்தால் அங்குள்ள தொல்பொருட்கள் சேதமடையும் என்றால் அனுமதித்துவிட்டு அவற்றுக்கு சேதம் ஏற்படாமல் பொலிஸார்  பார்த்திருக்க வேண்டும். அத்துடன் அங்கு சிவன் கோயிலே  உள்ளது. எனவே தமது கோவிலை இந்துக்கள் சேதப்படுத்த மாட்டார்கள் என்றார்.
+
+இதன்போது  குறுக்கிட்ட நீதி அமைச்சர் விஜேதாச ராஜபக்ச, இந்தப் பிரச்சினையை நீங்கள் பாராளுமன்றத்திற்கு கொண்டு வந்தபோது இரு மணித்தியாலங்களுக்குள் நாம்  தீர்வு வழங்கினோம்.
+
+...
+
+[Data](articles/6a80742b.json)
+
+---
+
+### திருகோணமலையில் விபத்து : ஒருவர் ஸ்தலத்தில் பலி
+
+*2024-03-22 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/179389) · `ta`
+
+திருகோணமலை மாவட்ட ஈச்சிலம்பற்று பொலிஸ் பிரிவிலுள்ள பூநகர் பகுதியில் இடம்பெற்ற மோட்டார் சைக்கிள் விபத்தில் ஒருவர் ஸ்தலத்தில் உயிரிழந்துள்ளார்.
+
+மோட்டார் சைக்கிளில் பயணித்த மற்றைய நபர் படுகாயமடைந்து மூதூர் தள வைத்தியசாலைக்கு மேலதிக சிகிச்சைகளுக்காக அனுப்பி வைக்கப்பட்டுள்ளார். உயிரிழந்தவரின் சடலம் ஈச்சிலம்பற்று பிரதேச வைத்தியசாலையில் வைக்கப்பட்டுள்ளதாக ஈச்சிலம்பற்று பொலிஸார் தெரிவித்தனர்.
+
+இதில் மட்டக்களப்பைச் சேர்ந்த இவர்கள் திருகோணமலைக்கு வந்து மீண்டும் மட்டக்களப்பு நோக்கி இருவரும் மோட்டார் சைக்கிளில் பயணித்துள்ளார்கள்.இதன்போது மோட்டார் சைக்கிள் வேகக்கட்டுப்பாட்டை இழந்து வீதியோரத்திலிருந்த மின்கம்பத்துடன் மோதியதிலேயே விபத்து இடம் பெற்றுள்ளதாக தெரியவருகின்றது.
+
+இவ்விபத்து சம்பவத்தில் மட்டக்களப்பு ,செங்கலடி, கணபதிப்பிள்ளை நகரைச் சேர்ந்த ஜெகதீஸ்வரன் மதுசாந் வயது (22) என்ற நபரே உயிரிழந்துள்ளதாக ஈச்சிலம்பற்று பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/0f838fa4.json)
+
+---
 
 ### The Speaker made public the challenges he faced during the struggle of the country!
 
@@ -2017,151 +2119,5 @@ He said that Mr. Ranil Wickremesinghe appoints a committee to review the salarie
 [Data](articles/69c2d6ac.json)
 
 [Extended Data](ext_articles/69c2d6ac.ext.json)
-
----
-
-### Vavuniya Vittukkunni Mountain Inflammation - Damage to Religion
-
-*2024-03-21 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179362) · `ta`
-
-Britain criticizes Sri Lanka for religious violence, human rights concerns, and the misuse of the Prevention of Terrorism Act. It calls for a suspension of the Act and a new law in line with international obligations.
-
-🟩
-
-Britain said that the recent incident at the Hindu temple in Vavuniya was aimed at religious and freedom of faith.
-
-Britain has said that efforts are being made to carry out immigration in the traditional pastures in the traditional pastures to alleviate the livelihood of local farmers in Batticaloa.
-
-Responding to a debate on Sri Lanka in the British Parliament, British Foreign Affairs Minister of State for Foreign Affairs, Anthru Mitsel, said this.
-
-Britain has called for the temporary suspension of the use of the Prevention of Terrorism Act, and Britain has called for the introduction of a new law in accordance with its international obligations.
-
-We are closely observing the situation where the human rights situation in Sri Lanka is the priority of Britain.
-
-Sri Lanka's priority country on human rights issues reflects our compassion for various human rights issues.
-
-...
-
-[Data](articles/7b570c99.json)
-
-[Extended Data](ext_articles/7b570c99.ext.json)
-
----
-
-### There is no other speaker in history, like the current Speaker - the Opposition.
-
-*2024-03-21 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/179347) · `ta`
-
-Speaker Mahinda Yapa Abeywardena's bold decisions during a struggle prevented anarchy. Minister Bandula Gunawardena gave up a foreign visit to vote against a no-confidence motion against him, highlighting his dedication. This occurred in a final debate on the no-confidence motion against the Speaker in Parliament on Thursday. The speaker's actions are appreciated for preventing the country from descending into chaos.
-
-🟩
-
-Speaker Mahinda Yapa Abeywardena boldly made decisions to prevent the country from going anarchy during the struggle.
-
-Minister Bandula Gunawardena said that he gave up a foreign visit to vote against the no -confidence motion against him for his dedication.
-
-He was speaking at a final debate on the no -confidence motion against the Speaker in Parliament on Thursday.
-
-I would like to ask if we will contribute to the best parliamentary democracy and parliamentary system in this country.
-
-When I was elected to this Parliament in 1980, the situation here was completely different. Some people who do not understand the period say that this is the worst this time. It was a time when school students, teachers and intellectuals were all about theft of theft and that they should fight against it.
-
-Sri Lanka should be built as a non -violent democratic country without properly putting the accusation against the Speaker. There is no other speaker who gave the opposition a chance to the present Speaker
-
-...
-
-[Data](articles/9d6453b6.json)
-
-[Extended Data](ext_articles/9d6453b6.ext.json)
-
----
-
-### The music of the musician is the music that tells me - Dhanush is proud
-
-*2024-03-21 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179358) · `ta`
-
-Actor Dhanush, in the film 'Ilayaraja', praises the music of Ilayaraja, highlighting its influence on his career. The film, directed by Arun Mateeswaran, features cinematography by Nirav Shah and art direction by Muthuraj. Kamal Haasan attended the launch, praising the director and the portrayal of Ilayaraja's life. Dhanush expresses pride in playing the musician in his biography, emphasizing the importance of Ilayaraja's music in his journey.
-
-🟩
-
-“In the complex environment for the best performance, I will listen to the music of the musician with my Ayer phones.
-
-I will show my performance through it. Actor Dhanush said, "The music of the musician to date," he said at the ceremony.
-
-Actor Dhanush is playing the lead role in the film 'Ilayaraja' directed by director Arun Mateeswaran.
-
-Nirav Shah is the cinematography of this movie. Muthuraj works as art director. Sriram Bhagthi Saran, Criman, Chana Media, PK Prime Protection and Markuri Movies. K. Padmakumar, Varun Mathur, Young Pari Gajendran and Saurab Mishra are co -produced.
-
-The film's first look launch and launch ceremony was held at the star hotel in Chennai. 'World Man' Kamal Haasan participated as a special guest.
-
-...
-
-[Data](articles/3410e957.json)
-
-[Extended Data](ext_articles/3410e957.ext.json)
-
----
-
-### Double Meaning Speaker Society
-
-*2024-03-21 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179360) · `ta`
-
-"Double Meaning Speaker Society's Santosh P. releases 'The Lyes' movie preview, featuring Jayakumar, Shiva Shah Ra, and others. Directed by Jayakumar, with music by K. Arun Gautam, the film is produced by E. Senthil Kumar and Nitish Kumar. Released on 29th, it showcases a 'double meaning' comedy, welcomed by fans."
-
-🟩
-
-'Double Meaning' fame creator Santosh P.. The preview of the movie 'The Lyes' starring Jayakumar has been released.
-
-Director Santosh B. Santosh B in the movie 'The Loyas' directed by Jayakumar. Jayakumar, Shiva Shah Ra, Harshad, KP Y Vinod, Yuvraj Ganesan, I God Rajendran, Redin Kingsley and many others have been cast.
-
-K. Arun Gautam has composed the film, which has been recorded by Ahmad Sharif. The film, which is popularized by the people of Nova Film Studios and Dark Room Pictures, is the producer E.. Senthil Kumar and S. Produced by Nitish Kumar.
-
-The preview of the film has been released on the 29th of this month.
-
-In the preview, 'I God' Rajendran is a woman and her choice on her sex.. Double meaning comedy has been bluntly known as there is no famine. This preview has been welcomed by the fans who are enjoying the kind (A) kind of comic.
-
-◼️
-
-[Data](articles/0acc1376.json)
-
-[Extended Data](ext_articles/0acc1376.ext.json)
-
----
-
-### Critical for Sri Lanka to finalize deals with official and external private creditors in timely manner - IMF
-
-*2024-03-21 17:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98111/critical-for-sri-lanka-to-finalize-deals-with-official-and-external-private-creditors-in-timely-manner-imf) · `en`
-
-Acknowledging that the independence of the Central Bank of Sri Lanka (CBSL) is an ‘absolutely key pillar’ under its program, the International Monetary Fund (IMF) has said that it is important to maintain a high degree of transparency to explain how the CBSL’s decisions are benchmarked.
-
-These remarks were made by Peter Breuer, the IMF Senior Mission Chief for Sri Lanka, while responding to a question raised by a media person on the recent controversy on the CBSL’s independence and unprecedented salary hikes.
-
-A special press briefing was convened by the visiting IMF delegation on Thursday (March 21) to announce the staff-level agreement reached between the IMF staff and Sri Lankan authorities on economic policies to conclude the second review of the 4-year EFF-supported program and the 2024 Article IV Consultation.
-
-...
-
-[Data](articles/8974ca6c.json)
-
-[Extended Data](ext_articles/8974ca6c.ext.json)
-
----
-
-### Shell begins fuel sales from tomorrow
-
-*2024-03-21 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194786) · `si`
-
-Shell starts fuel sales tomorrow, with the first vessel arriving at Colombo Port today. The company will fuel 150 shops from tomorrow.
-
-🟩
-
-The first fuel vessel belonging to the company's fuel market was first fueling to arrive at the Port of Colombo this morning.
-
-Accordingly, the company will commence fuel through 150 shops from tomorrow (22).
-
-◼️
-
-[Data](articles/7ca2ad77.json)
-
-[Extended Data](ext_articles/7ca2ad77.ext.json)
 
 ---

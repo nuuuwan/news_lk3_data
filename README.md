@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 15:03:07**
+As of **2024-03-22 15:18:00**
 
 ## Newspaper Stats
 
-*Scraped **14,560** Articles*
+*Scraped **14,562** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adaderanalk | 1,742
 tamilmirrorlk | 1,754
 virakesarilk | 2,057
 dailymirrorlk | 2,233
-adaderanasinhalalk | 2,320
+adaderanasinhalalk | 2,322
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,550 (99.9%) of 14,560 articles have been extended.
+14,560 (100.0%) of 14,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### ධනංජය ගෙන් සුපිරි ශතකයක්
+
+*2024-03-22 15:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194818) · `si`
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පළමු ටෙස්ට් තරගය මේ වනවිට බංග්ලාදේශයේ සිලෙට් හිදී පැවැත්වෙයි.
+
+එහිදී ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් සුපිරි ඉනිමක් ක්‍රීඩා කළ නායක ධනංජය ද සිල්වා මීට සුළු මොහොතකට පෙර සිය 11 වැනි ටෙස්ට් ශතකය රැස් කිරීමට සමත් විය.
+
+තරගයේ කාසියේ වාසිය දිනාගත් බංග්ලාදේශ කණ්ඩායම, ශ්‍රී ලංකාවට පළමුව පන්දුවට පහරදීමට ආරාධනා කළේය.
+
+ශ්‍රී ලංකා කණ්ඩායමේ පළමු කඩුලු 5 ලකුණු 57කට දවා ගැනීමට බංග්ලාදේශ පන්දුයවන්නෝ සමත්වූහ.
+
+අනතුරුව පිටියේ එක්වූ කමිඳු මෙන්ඩිස් සහ නායක ධනංජය ද සිල්වා ශ්‍රී ලංකා ඉනිම ගොඩ ගත්හ.
+
+◼️
+
+[Data](articles/e2474650.json)
+
+---
+
+### කමිඳු ගේ මංගල ටෙස්ට් ශතකය
+
+*2024-03-22 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194817) · `si`
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පළමු ටෙස්ට් තරගය මේ වනවිට බංග්ලාදේශයේ සිලෙට් හිදී පැවැත්වෙයි.
+
+එහිදී සිය මංගල ටෙස්ට් ශතකය වාර්තා කර ගැනීමට කමිඳු මෙන්ඩිස් සමත් විය.
+
+◼️
+
+[Data](articles/36cd2a01.json)
+
+---
 
 ### Canada to reduce number of temporary residents; first cap set in Sept.
 
@@ -54,43 +88,57 @@ In recent years, Mr Miller said Canada has seen a “sharp increase” of tempor
 
 [Data](articles/ca3e0aaa.json)
 
+[Extended Data](ext_articles/ca3e0aaa.ext.json)
+
 ---
 
-### வெப்பமான வானிலை : மரதன் ஓட்டப் போட்டிகளுக்கு புதிய வழிகாட்டுதல்கள்
+### Hot Weather: New Guidelines for Marathon Running
 
 *2024-03-22 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179419) · `ta`
 
-படசாலைகள் மற்றும் பொதுமக்களுக்காக நடத்தப்படும் மரதன் மற்றும் நீண்ட தூர ஓட்டப் போட்டிகளில் பின்பற்ற வேண்டிய வழிகாட்டுதல்கள் குறித்த புதிய சுற்றறிக்கையை விளையாட்டு அபிவிருத்தி திணைக்களம் வெளியிட்டுள்ளது.
+The Department of Sports Development has issued new guidelines for Marathon and long-distance races, requiring athletes to present medical and ECG reports, aiming to prevent future deaths due to hot weather.
 
-மரதன் மற்றும்  நீண்ட தூர ஓட்டப் போட்டிகளில் பங்கேற்கும் அனைத்து விளையாட்டு வீரர்களும் மருத்துவ பரிசோதனைக்கு உட்படுத்தப்படுவது கட்டாயமாகும்.
+🟩
 
-மரதன் ஓட்டப் போட்டிகளில் ஈடுபடும் விளையாட்டு வீரர்கள் பங்கேற்க மருத்துவ அறிக்கை மற்றும் ஈசிஜி அறிக்கையை வைத்தியரிடம்  வழங்க வேண்டும்.
+The Department of Sports Development has issued a new circular on guidelines to be followed in the Marathon and long -range competitions for the public and the public.
 
-நாட்டில்  நிலவும் வெப்பமான வானிலை காரணமாக அண்மையில் பதிவான விளையாட்டு வீரர்களின் துரதிஷ்டவசமான மரணங்களை கருத்தில் கொண்டு இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+It is mandatory for all athletes to participate in Marathon and long distance race.
+
+Athletes who are involved in the Marathon race should be presented with the medical report and the ECG report to the doctor.
+
+The move has been taken into consideration of the unfortunate deaths of athletes recently recorded due to the hot weather in the country.
 
 ◼️
 
 [Data](articles/e414d217.json)
 
+[Extended Data](ext_articles/e414d217.ext.json)
+
 ---
 
-### காஸா போர் நிறுத்தம்: அமெரிக்காவின் பிரேரணை மீது பாதுகாப்புச் சபையில் இன்று வாக்கெடுப்பு
+### Gaza cease
 
 *2024-03-22 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179434) · `ta`
 
-காஸாவில் உடனடியாக போர்நிறுத்தம் அமுல்படுத்தப்படுவதை வலியுறுத்துவதற்காக அமெரிக்க அனுசரணையுடன் முன்வைக்கப்படும் பிரேரணை தொடர்பில் ஐ.நா. பாதுகாப்புச் சபையில் இன்று வாக்கெடுப்பு நடைபெறவுள்ளது.
+The UN, sponsored by the US, proposes a ceasefire in Gaza, with a Security Council referendum today. Despite US efforts, the US veto was not used to pass a resolution urging Israel and Hamas to ceasefire. Efforts are underway to pass a resolution at the UN Security Council for an immediate ceasefire in Gaza. US Secretary of State Antony Blinkan, after visiting the Middle East, is in Israel to discuss a ceasefire with Prime Minister Benjamin Netanyahu.
 
-காஸாவில் இஸ்ரேலுக்கும் ஹமாஸுக்கும் இடையில் போர் நிறுத்தத்தை வலியுறுத்தி தீர்மானம் நிறைவேற்றும் முயற்சிகளை  அமெரிக்கா ஏற்கெனவே 3 தடவைகள் தனது வீட்டோ அதிகாரரத்தைப் பயன்படுத்தி தடுத்தது.
+🟩
 
-இந்நிலையில் தற்போது காஸாவில் உடனடி போர் நிறுத்தத்தை வலியுறுத்தி ஐ.நா, பாதுகாப்புச் சபையில் தீர்மானம் நிறைவேற்ற அமெரிக்க அனுசரணையுடன் முயற்சிகள் மேற்கொள்ளப்படுகின்றன.
+The United Nations on the US -sponsored proposal to emphasize the implementation of the ceasefire in Gaza. A referendum will be held today at the Security Council.
 
-இந்நிலையில் மத்திய கிழக்குக்கு விஜயம் மேற்கொண்டுள்ள அமெரிக்க இராஜாங்கச் செயலாளர் அன்டனி பிளிங்கன் இன்று எகிப்திலிருந்து இஸ்ரேலுக்கு சென்றுள்ளார்.
+The US has already prevented the US to use its veto authority to pass a resolution to urge the ceasefire between Israel and Hamas in Gaza.
 
-இஸ்ரேலியப் பிரதமர் பெஞ்சமின் நெத்தன்யாஹுவுடன் போர் நிறுத்தம் குறித்து பிளிங்கன் பேச்சுவார்த்தை நடத்தவுள்ளார்.
+At this juncture, efforts are being made to pass a resolution at the UN Security Council, urging an immediate ceasefire in Gaza.
+
+US Secretary of State Antony Blinkan, who has visited the Middle East, has traveled from Egypt to Israel today.
+
+Blinkan will hold talks with Israeli Prime Minister Benjamin Netanyahu on a ceasefire.
 
 ◼️
 
 [Data](articles/c65a8dff.json)
+
+[Extended Data](ext_articles/c65a8dff.ext.json)
 
 ---
 
@@ -112,19 +160,25 @@ Under the Urumaya national program, aimed at distributing 2 million freehold dee
 
 ---
 
-### IMF முன்மொழிவுகளில், மலையக பெருந்தோட்ட தொழிலாளர்களுக்கென, விசேட வேலைத்திட்டம் முன்வைக்கப்பட வேண்டும் - வேலு குமார்
+### In the IMF proposals, a special program should be presented for upstart plantation workers - Velu Kumar
 
 *2024-03-22 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179432) · `ta`
 
-சர்வதேச நாணய நிதியத்தின் முன்மொழிவுகளில், மலையக பெருந்தோட்ட தொழிலாளர்களுக்கென, விசேட வேலைத்திட்டம் முன்வைக்கப்பட வேண்டும் என்ற வேண்டுகோளை கண்டி மாவட்ட பாராளுமன்ற உறுப்பினர் வேலு குமார்  சர்வதேச நாணய நிதியத்தின்  பிரதிநிதிகளிடம் முன்வைத்தார்.
+Velu Kumar, a Kandy District Parliamentarian, proposed a special program for upland plantation workers to the IMF, highlighting their increased poverty and the need for a separate welfare program due to their unique challenges.
 
-இலங்கை வந்துள்ள  சர்வதேச நாணய நிதியத்தின்  பிரதிநிதிகள், ஐக்கிய மக்கள் சக்தி கூட்டணியை, பாராளுமன்ற வளாகத்தில் சந்தித்து கலந்துரையாடினர். இக் கலந்துரையாடல் எதிர் கட்சி தலைவர் சஜித் பிரேமதாச தலைமையில் நடைப்பெற்றது. அதன் போது, ஐக்கிய மக்கள் சக்தியின் பொருளாதார ஆலோசனைக்குழு அங்கத்தவர்கள் கலந்துகொண்டிருந்தனர்.
+🟩
 
-இக் கலந்துரையாடலின் போது, வாழ்க்கை செலவு அதிகரிப்பு, உற்பத்தி செலவீன அதிகரிப்பால் வெளிநாட்டு சந்தை வாய்ப்புகளை இழக்க நேரிடும் அபாயம், வரி முறையிலே காணப்படும் ஒவ்வாமை, மற்றும் சிறிய, நடுத்தர கைத்தொழிலில் ஏற்பட்டுள்ள பாரிய பாதிப்புக்கள் பற்றி சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகளுக்கு எடுத்து கூறப்பட்டது.
+In the proposals of the International Monetary Fund, Kandy District Parliamentarian Velu Kumar presented to representatives of the IMF in order to make a special program for upland plantation workers.
+
+Representatives of the International Monetary Fund of Sri Lanka met with the United People's Power Alliance at the Parliamentary Complex. The discussion was chaired by opposition leader Sajith Premadasa. During this time, members of the United People's Power Economic Advisory Committee were present.
+
+During this discussion, representatives of the International Monetary Fund were told about the risk of losing foreign market opportunities due to the increase in cost of living, the tax system, and the massive effects on the small and medium industrial industry.
 
 ...
 
 [Data](articles/f001a1fc.json)
+
+[Extended Data](ext_articles/f001a1fc.ext.json)
 
 ---
 
@@ -204,17 +258,23 @@ The department also said that the temperature has risen abnormally at this time.
 
 ---
 
-### யாழில் இராணுவ வசமிருந்த 234 ஏக்கர் காணி ஜனாதிபதியால் விவசாயிகளிடம் கையளிப்பு
+### 234 acres of land in Jaffna
 
 *2024-03-22 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179429) · `ta`
 
-யாழ். பாதுகாப்பு படைத் தலைமையகத்தின் வசமிருந்த யாழ்ப்பாணத்தின் 5 கிராம சேவகர் பிரிவுகளுக்குச் சொந்தமான 234 ஏக்கர் காணி ஜனாதிபதி ரணில் விக்ரமசிங்கவால் இன்று வியாழக்கிழமை (22) பயிர்செய்கைக்காக விவசாயிகளிடம் கையளிக்கப்பட்டுள்ளது.
+President Ranil Wickremesinghe handed over 234 acres of land in Jaffna to farmers for cultivation, part of the Urumaya National Program issuing 2 million land guarantees, including 408 in Jaffna.
 
-அத்துடன் இலவசமாக 2 மில்லியன் காணி உறுதிகளை வழங்குவதற்கான உறுமய தேசிய வேலைத்திட்டத்தின் கீழ், 408 பேருக்கு காணி உறுதிப்பத்திரங்கள் வழங்கும் நிகழ்வு ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் யாழ்ப்பாணம் ஒட்டகப்புலத்தில் நடைபெற்றமை குறிப்பிடத்தக்கது.
+🟩
+
+Yall. President Ranil Wickremesinghe has been handed over to the farmers for cultivation on Thursday (22).
+
+Under the Urumaya National Program to issue 2 million land guarantees, 408 land guarantees were held at the Jaffna camel, headed by President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/1443c80c.json)
+
+[Extended Data](ext_articles/1443c80c.ext.json)
 
 ---
 
@@ -227,6 +287,8 @@ Kedella Construction Expo, the premier build and architecture tradeshow 2024, wa
 ◼️
 
 [Data](articles/8da8591e.json)
+
+[Extended Data](ext_articles/8da8591e.ext.json)
 
 ---
 
@@ -248,27 +310,35 @@ He said that he never found dead dogs because of the high heat.
 
 [Data](articles/0658fd52.json)
 
+[Extended Data](ext_articles/0658fd52.ext.json)
+
 ---
 
-### மாணவர்களை அயல் பாடசாலைகளில் சிரமதானத்தில் ஈடுபடுத்திய விவகாரம் ; அதிபருக்கு எதிராக விசாரணை
+### The affair with students involved in neighboring schools;Trial
 
 *2024-03-22 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179426) · `ta`
 
-யாழில் உள்ள பிரபல பாடசாலை அதிபருக்கு எதிராக யாழ்.கல்வி வலயத்தால் விசாரணைகள் முன்னெடுக்கப்பட்டுள்ளது.
+Investigations in Jaffna Kalvi Zone target a school principal for an affair with students from neighboring schools. The incident occurred during a cricket match between the school and a Colombo school, where students and locals celebrated in the streets. The school's chancellor took action against the students and their parents, leading to complaints and further investigations by the Northern Provincial Education Workshop.
 
-குறித்த பாடசாலைக்கும், கொழும்பில் உள்ள பாடசாலை ஒன்றுக்கும் இடையில் அண்மையில் துடுப்பாட்ட போட்டி நடைபெற்றது.
+🟩
 
-போட்டி நாட்களில் மாணவர்கள் உற்சாகமாக வீதிகளில் பாண்ட் வாத்தியம் இசைத்து ஆடி பாடி மகிழ்ந்தனர். அதன் போது அயலில் உள்ள பெண்கள் பாடசாலைகளின் முன்பாகவும் கொண்டாட்டங்களில் ஈடுபட்டிருந்தனர்.
+Investigations are being carried out by the Jaffna Kalvi Zone against the famous school principal in Jaffna.
 
-இது தொடர்பில் பாடசாலை அதிபருக்கு தகவல் கிடைத்து , அவ்வாறு கொண்டாட்டங்களில் ஈடுபட்ட மாணவர்களில் அடையாளம் காணப்பட்ட மாணவர்களுக்கு எதிராக நடவடிக்கை எடுத்த அதிபர் , பெற்றோர்களை பாடசாலைக்கு அழைத்து, பிள்ளைகளுடன் அயல் பாடசாலைகளுக்கு சென்று சிரமதான பணிகளில் ஈடுபடுங்கள் என பணித்துள்ளார்.
+A recent cricket match was held between the school and a school in Colombo.
 
-அதிபரின் பணிப்புரையை ஏற்று பெருமளவான பெற்றோர் தமது பிள்ளைகளுடன் சென்று அயல் பாடசாலைகளில் சிரமதான பணிகளில் ஈடுபட்டனர்.
+In the competition, the students enthusiastically play the streets of Bond. During that time, the women in the neighborhood were also celebrating in front of schools.
 
-அதிபரின் செயற்பாடு குறித்து வடமாகாண கல்வி பணிமனைக்கு முறைப்பாடுகள் கிடைக்கப்பெற்றதை அடுத்து , வலய கல்வி பணிமனை விசாரணைகளை முன்னெடுத்துள்ளது.
+The Chancellor of the school has received information on this and taken action against the students who have been identified in such celebrations, taking action against the students and taking their parents to school and going to neighboring schools with their children.
+
+A large number of parents went with their children to accept the Chancellor's Workplace and engaged in difficulty in neighboring schools.
+
+The Zonal Education Workshop has carried out investigations after complaints received to the Northern Provincial Education Workshop on the action of the Chancellor.
 
 ◼️
 
 [Data](articles/4932cf2f.json)
+
+[Extended Data](ext_articles/4932cf2f.ext.json)
 
 ---
 
@@ -302,6 +372,8 @@ People in urban areas of Colombo engage in their work during daytime despite the
 
 [Data](articles/151f4b94.json)
 
+[Extended Data](ext_articles/151f4b94.ext.json)
+
 ---
 
 ### The police say 10 in the heathel has been arrested
@@ -333,6 +405,8 @@ Five persons from the People's Struggle Movement staged a protest in front of th
 ◼️
 
 [Data](articles/f3f4a8c1.json)
+
+[Extended Data](ext_articles/f3f4a8c1.ext.json)
 
 ---
 
@@ -2207,47 +2281,5 @@ IMF Executive Director Dr Krishnamurthy Subramanian this week met up with State 
 [Data](articles/a3942ded.json)
 
 [Extended Data](ext_articles/a3942ded.ext.json)
-
----
-
-### IMF staff mission team call on Opposition leader
-
-*2024-03-22 05:07:08* · [`dailyftlk`](https://www.ft.lk/news/IMF-staff-mission-team-call-on-Opposition-leader/56-759795) · `en`
-
-IMF staff mission team led by Peter Breuer, Katsiaryna Svirydzenka and Sarwat Jahan called on Opposition leader Sajith Premadasa at the Parliament complex on Wednesday.
-
-The purpose of the meeting was to engage in a discussion concerning the ongoing progress of the agreement reached between the IMF and the Government.
-
-The high-level gathering saw an extensive exchange of views on a wide array of economic, social, and political matters.
-
-During their discussion it was pointed out that the Opposition is in agreement with the roadmap presented by the IMF to support the economic recovery process, whilst highlighting certain proposals require amendments.
-
-The Samagi Jana Balawegaya (SJB) members present at the discussion emphasised that the prevailing economic situation could have been averted had the Government aptly responded to their earlier calls urging them to reach out to the global lender.
-
-...
-
-[Data](articles/9a651af4.json)
-
-[Extended Data](ext_articles/9a651af4.ext.json)
-
----
-
-### IMF briefed on safety net disbursed through monetary assistance
-
-*2024-03-22 05:05:59* · [`dailyftlk`](https://www.ft.lk/news/IMF-briefed-on-safety-net-disbursed-through-monetary-assistance/56-759794) · `en`
-
-Prime Minister Dinesh Gunawardena held a discussion with IMF Executive Director Dr Krishnamurthy Subramanian on Tuesday at the Temple Trees.
-
-The Prime Minister briefed the IMF Executive Director about the measures taken and explained the progress of the welfare scheme under which the monetary assistance to the weaker segment of the society.
-
-Dr. Subramanium briefed the progress of the agreed program and stated that IMF Board of Directors would decide on providing further assistance to Sri Lanka at the next Board Meeting scheduled for June 2024.
-
-Secretary to the Prime Minister Anura Dissanayake, IMF Alternative Executive Director Dr. P. K. G. Harischandra and CBSL Deputy Director Dr. V. D. Wickramarachchi also took part in the discussion.
-
-...
-
-[Data](articles/87c5a142.json)
-
-[Extended Data](ext_articles/87c5a142.ext.json)
 
 ---

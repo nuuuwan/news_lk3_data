@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 07:16:03**
+As of **2024-03-22 07:31:01**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 2,303
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,434 (99.9%) of 14,449 articles have been extended.
+14,444 (100.0%) of 14,449 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### කාන්තාවක් ඝාතනය කරයි
+### A woman is killed
 
 *2024-03-22 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194798) · `si`
 
-පවුල් ආරවුලක් දුරදිග යෑමෙන් 40 හැවිරිදි සැමියෙක් 33 හැවිරිදි බිරිඳට තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+A 33-year-old woman was killed by a 33-year-old man with a sharp weapon in Diyakelewa last night.
 
-මෙම සිද්ධිය වාර්තා වී ඇත්තේ ඊයේ (21) රාත්‍රියේදී බිංගිරිය දියකෙලියාව ප්‍රදේශයෙනි.
+🟩
+
+The 33-year-old wife has been assaulted by a 33-year-old boy with a sharp weapon.
+
+The incident was reported from the area of the Diyakelewa area last night.
 
 ◼️
 
 [Data](articles/0fc19a4b.json)
+
+[Extended Data](ext_articles/0fc19a4b.ext.json)
 
 ---
 
@@ -64,25 +70,33 @@ Earlier , Mr. Rajapaksa asked for a snap general election ahead of the president
 
 [Data](articles/68e29d60.json)
 
+[Extended Data](ext_articles/68e29d60.ext.json)
+
 ---
 
-### අද ගිගුරුම් සහිත වැසි
+### Thundershowers today
 
 *2024-03-22 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194796) · `si`
 
-අද (22) දිනයේ නැගෙනහිර, ඌව, උතුරු-මැද සහ උතුරු පළාත්වල වැසිවාර කිහිපයක් ඇතිවෙන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Thundershowers expected in East, Uva, North, North, North, and Northern provinces today. Heavy rains (>50mm) in Western, Sabaragamuwa, and North Western Provinces. Public advised to prepare for strong winds and lightning.
 
-දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+🟩
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වල ඇතැම් ස්ථානවලට මි. මී. 50ට වැඩි තරමක තද වැසි ඇති වෙයි.
+The Department of Meteorology says that there are several closes in the East, Uva, North, North, North and Northern provinces today (22).
 
-මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරෙයි.
+Thundershowers will develop at several places in the evening or night in the other areas of the island.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද  කරයි.
+Some places in the Western, Sabaragamuwa and North Western Provinces. Mee. Heavy rains experience more than 50.
+
+In some places in the Central, Sabaragamuwa and Uva provinces, in some places, are expected to be fourth in the Galle and Matara districts.
+
+The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/17a927fd.json)
+
+[Extended Data](ext_articles/17a927fd.ext.json)
 
 ---
 
@@ -300,6 +314,8 @@ Nilmini Premalal, Deputy General Manager of Payment, Process Management & Qualit
 
 [Data](articles/c288ed3d.json)
 
+[Extended Data](ext_articles/c288ed3d.ext.json)
+
 ---
 
 ### EFC advocates for a more inclusive workplace for women
@@ -428,6 +444,8 @@ The agreement was signed at a special ceremony at ICC Head Office, with the part
 
 [Data](articles/99fe3863.json)
 
+[Extended Data](ext_articles/99fe3863.ext.json)
+
 ---
 
 ### Dreamron Group celebrates 25 years of generating foreign revenue for Sri Lanka
@@ -441,6 +459,8 @@ Kindai Kagaku exports products to over 27 countries covering all continents and 
 ...
 
 [Data](articles/b00b5e6f.json)
+
+[Extended Data](ext_articles/b00b5e6f.ext.json)
 
 ---
 
@@ -540,15 +560,21 @@ The Sri Lanka Association of Software and Service Companies (SLASSCOM) recently 
 
 ---
 
-### ஐ.தே.க. அமைப்பாளராக அருண் சித்தார்த் நியமனம்
+### UNP. Arun Siddharth appointed organizer
 
 *2024-03-22 03:30:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-க-அமைப்பாளராக-அருண்-சித்தார்த்-நியமனம்/175-335003) · `ta`
 
-யாழ்ப்பாணத்தில் நேற்று மாலை தனியார் மண்டபத்தில் நடைபெற்ற சந்திப்பின்போது ஜக்கிய தேசியக் கட்சியின் பிரதித் தலைவரும் முன்னாள் நிதி அமைச்சருமான ரவி கருணாநாயக்க இந்த விடயத்தை அறிவித்தார். (a)
+Arun Siddharth, appointed by UNP, is the new organizer. Ravi Karunanayake, former finance minister and National Party deputy leader, made the announcement at a Jaffna private hall meeting.
+
+🟩
+
+Ravi Karunanayake, Deputy Leader of the National Party and former finance minister, announced the issue at a meeting held at a private hall in Jaffna yesterday evening.. (A)
 
 ◼️
 
 [Data](articles/16dc1da0.json)
+
+[Extended Data](ext_articles/16dc1da0.ext.json)
 
 ---
 
@@ -645,6 +671,8 @@ Though Daedalus flew successfully from Crete to Naples, overambitious Icarus, wh
 ...
 
 [Data](articles/55516a94.json)
+
+[Extended Data](ext_articles/55516a94.ext.json)
 
 ---
 
@@ -2109,6 +2137,8 @@ Heat Index at ‘Caution’ level in North-western, Western, Sabaragamuwa provin
 ...
 
 [Data](articles/03568ae3.json)
+
+[Extended Data](ext_articles/03568ae3.ext.json)
 
 ---
 

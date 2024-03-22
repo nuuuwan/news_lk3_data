@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 10:03:02**
+As of **2024-03-22 10:17:58**
 
 ## Newspaper Stats
 
@@ -26,81 +26,113 @@ adaderanasinhalalk | 2,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,473 (100.0%) of 14,478 articles have been extended.
+14,478 (100.0%) of 14,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### அறகலய போராட்டக்காலத்தில் தான் எதிர்கொண்ட சவால்களை நாட்டு மக்களுக்கு பகிரங்கப்படுத்தினார் சபாநாயகர் !
+### The Speaker made public the challenges he faced during the struggle of the country!
 
 *2024-03-22 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/179383) · `ta`
 
-2022 ஆம் ஆண்டு காலப்பகுதியில் பொருளாதார நெருக்கடி தீவிரமடைந்து நாட்டில் அராஜக நிலை தோற்றம் பெற்ற போது ஒரு தரப்பினர் அரசியலமைப்புக்கு முரணாக விதத்திலாவது எனது தலைமையிலான அரசாங்கத்தை ஸ்தாபிக்குமாறு தொடர்ந்து அழுத்தம் பிரயோகித்தார்கள்.
+The Speaker faced challenges during the 2022 economic crisis, opposing anarchy and urging a constitutional government. Despite facing opposition, he cooperated with the constitution to form a government. He was surprised by a no-confidence motion against him and highlighted the pressures to establish a government against the constitution. He rejected the idea of establishing a government contrary to the constitution, emphasizing his commitment to the constitution and the people's struggle.
 
-நெருக்கடிக்கு தீர்வு காணும் நோக்கம் ஒருதரப்பினரிடம் இருக்கவில்லை. மாறாக சட்டவிரோதமான அரசாங்கத்தை அமைத்து லிபியா, ஆப்கானிஸ்தான் ஆகிய நாடுகளின் சூழலை ஏற்படுத்தவே எத்தனித்தார்கள்.
+🟩
 
-அரசியலமைப்புக்கு அமைய செயற்பட்டு நான் பாராளுமன்றத்தின் ஊடாக உறுதியான அரசாங்கத்தை அமைக்க முழுமையான ஒத்துழைப்பு வழங்கினேன் என்பதை நாட்டு மக்களுக்கு தெரிவித்துக் கொள்ள விரும்புகிறேன் என சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தெரிவித்தார்.
+When the economic crisis intensified in 2022, an anarchy in the country continued to press for the establishment of a government led by my leaders in contrast to the constitution.
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (21)  நம்பிக்கையில்லா பிரேரணை மீதான விவாதம் நிறைவடைந்ததன் பின்னர் விசேட உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+The purpose of solving the crisis is not a person. Instead, they set up an illegal government and create an environment of Libya and Afghanistan.
 
-2022 ஆம் ஆண்டு காலப்பகுதியில் அரசியலமைப்பு ரீதியில் நான் பாரிய சவால்களுக்கு முகம் கொடுத்தேன் என்பதை அனைவரும் நன்கு அறிவார்கள்.
+Speaker Mahinda Yapa Abeywardena said that I would like to inform the people of the country that I have been fully cooperating with the constitution to form a firm government through Parliament.
+
+He was speaking in a special speech after the debate on the no -confidence motion in Parliament on Thursday (21).
+
+Everyone knows that I faced massive challenges in the constitution in 2022.
+
+In this case, when the country was opposed to anarchy, I was committed to protecting the parliament in accordance with the constitution of the country.
 
 ...
 
 [Data](articles/01288860.json)
 
+[Extended Data](ext_articles/01288860.ext.json)
+
 ---
 
-### கோப் குழுவிலிருந்து டிலான் விலகல்
+### Dylan's deviation from Cobb group
 
 *2024-03-22 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179384) · `ta`
 
-கோப் குழுவின் தலைவராக நியமிக்கப்பட்டுள்ள  ஆளும் தரப்பின் உறுப்பினர் தொடர்பில் மக்கள் மத்தியில் நல்லதொரு நிலைப்பாடு கிடையாது, ஆகவே கோப் குழுவின் உறுப்பினர் பதவியில் இருந்து நான் விலகுகிறேன் என  பாராளுமன்ற உறுப்பினர் டிலான் பெரேரா  சபாநாயகருக்கு எழுத்து மூலமாக அறிவித்துள்ளார்.
+Dylan Perera resigns from COPE Committee due to ruling party's chairman appointment, amid opposition demands for opposition leader.
 
-கோபா குழுவின் தலைவராக ஆளும் தரப்பின்  உறுப்பினர் ஒருவர் நியமிக்கப்பட்டுள்ளதை  அனைவரும் ஏற்றுக்கொண்டுள்ளனர். அவரும் குழுவின் செயற்பாடுகளை சிறந்த முறையில் முன்னெடுக்கிறார்.
+🟩
 
-அரசாங்க பொறுப்பு முயற்சிகள் பற்றிய குழுவுக்கு (கோப்)  எதிர்க்கட்சியின் உறுப்பினர் ஒருவர் தலைவராக நியமிக்கப்பட வேண்டும் என  எதிர்க்கட்சிகளின் உறுப்பினர்கள் தொடர்ச்சியாக கோரிக்கை விடுத்தார்கள்.இருப்பினும் நீங்கள் சாதகமான தீர்மானத்தை பெற்றுக்கொடுக்கவில்லை.
+There is no good stand among the people regarding the membership of the ruling party appointed as the chairman of the COPE committee, so I will quit the membership of the COPE Committee, "Parliamentarian Dylan Perera has informed the Speaker in writing.
+
+Everyone has accepted that a member of the ruling party has been appointed as the Chairman of the Copa Committee. He also carries the committee's activities.
+
+Members of the opposition parties continued to demand that a member of the Opposition to be appointed as the leader of the Government Responsibility Development (COPE) (COPE).
+
+Against this backdrop, a member of the ruling party has been appointed as the chairman of the COPE Committee. Members of the opposition have expressed strong opposition to this appointment.
 
 ...
 
 [Data](articles/d71dec27.json)
 
+[Extended Data](ext_articles/d71dec27.ext.json)
+
 ---
 
-### இலங்கை - இந்திய மீனவர் பிரச்சினை :   தமிழ்நாடு,பாண்டிச்சேரி முதலமைச்சர்களுடன் பேச்சுவார்த்தை    -கடற்றொழில் அமைச்சர்
+### Sri Lankan - Indian fishermen issue: Tamil Nadu, Pondicherry Chief Ministers
 
 *2024-03-22 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/179382) · `ta`
 
-தமிழ்நாடு மற்றும் பாண்டிச்சேரி முதலமைச்சர்கள் இந்திய இழுவை மடி வலைப் படகுகளின் பிரச்சினைகள் தொடர்பில் என்னுடன்  கலந்துரையாடியுள்ளனர்.
+Tamil Nadu and Pondicherry CMs discuss Sri Lankan-Indian fishermen issues, including drag web boats and hunger strikes. Fisheries Minister Douglas Devananda urges fishermen to end the strike. Legal action is being taken against Indian boats caught by Navy. Chief Ministers and ministers are negotiating a solution, recognizing the impact on northern fishermen.
 
-முதலமைச்சர்களைச் சந்தித்து கலந்துரையாடுவது தொடர்பிலும் ஒரு சூழல் உருவாகி வருகின்றது. எனவே  வடக்கின் கடற்றொழிலாளர்கள் உண்ணாவிரத போராட்டத்தை கைவிட வேண்டுமென கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா வேண்டுகோள் விடுத்தார்.
+🟩
 
-பாராளுமன்றத்தில் வியாழக்கிழமை (21) இடம்பெற்ற சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை மீதான மூன்றாம் நாள் விவாதத்தில்  உரையாற்றும் போதே  இவ்வாறு வேண்டுகோள் விடுத்தார்.
+The Chief Ministers of Tamil Nadu and Pondicherry have discussed with me on the issues of the Indian drag web boats.
 
-இந்திய இழுவை மடி வலைப் படகுகளின் எல்லைத் தாண்டியதும், அத்துமீறியதும், தடைசெய்யப்பட்ட கடற்றொழில் உபகரணங்களைக் கொண்ட கடற்றொழில் முறைமையினாலும், பாதிக்கப்பட்டு வருகின்ற வடக்கு கடற்றொழிலாளர்களின் நிலைமைகளை உலகுக்கு எடுத்துக் காட்டும் வகையில் யாழ்ப்பாண மாவட்ட கடற்றொழிலாளர்கள் முன்னெடுத்து வருகின்ற உண்ணாவிரதப் போராட்டமானது மூன்றாவது நாளாகவும் தொடர்கிறது.
+There is also an environment for meeting with Chief Ministers. Fisheries Minister Douglas Devananda appealed to the fishermen in the North to abandon the hunger strike.
+
+He appealed to the Speaker of Parliament on Thursday (21) while addressing the third day debate on the no -confidence motion against the Speaker.
+
+The hunger strike continues as the third day of the hunger strike, which is the third day of the hunger strike, which has crossed the border of the Indian trawling web boats, and the fisheries system with prohibited fisheries equipment and the conditions of the affected northern fishermen.
+
+We are taking legal action on this issue. Three Indian drag folding boats were caught by Navy in Jaffna on Wednesday (20). Two boats were caught in Mannar and seven arrested.
 
 ...
 
 [Data](articles/ca6e7185.json)
 
+[Extended Data](ext_articles/ca6e7185.ext.json)
+
 ---
 
-### இளம் தம்பதிகளின் குழந்தையின்மை பிரச்சனையை பேசும் 'வெப்பம் குளிர் மழை'
+### 'Heat cold rain' talks about the problem of childbirth
 
 *2024-03-22 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/179380) · `ta`
 
-தமிழ் சமூகத்தில் வாழும் இளம் தம்பதிகள்.. தங்களின் தேனிலவு தருணங்களை ஜோடியாக கொண்டாடினாலும், அவர்களின் விருப்பத் தெரிவுகளில் முதன்மையாக இருப்பது பட மாளிகைகளுக்குச் சென்று திரைப்படத்தை கண்டு ரசிப்பது தான்.
+"Heat Cold Rain" explores childbirth issues among young Tamil couples, featuring a mix of drama and emotion. Directed by Pascal Vedamuthu, it stars Bhaskar, Rama, and others, with music by Sankar Rangarajan. The film, produced by Gerald Draviam, has been well-received, focusing on the challenges faced by couples in the village setting.
 
-இத்தகைய தருணங்களில் அவர்களுக்கு வாழ்வில் சில விடயங்களை சூசகமாகவும், பூடகமாகவும் கற்பிப்பது திரைப்படங்களே. இதனால் ஃபேமிலி டிராமா திரைப்படங்கள் சென்டிமென்ட் மற்றும் எமோஷனுடன் காதலையும் இணைத்து சொன்னால்.. ரசிகர்கள் இன்று வரை வெற்றி பெற செய்கிறார்கள்.
+🟩
 
-ரசிகர்களின் இந்த விருப்பத்தை உணர்ந்திருக்கும் இயக்குநர் பாஸ்கல் வேதமுத்து தலைமையிலான படக் குழுவினர் 'வெப்பம் குளிர் மழை' எனும் பெயரில் திரைப்படமொன்றை உருவாக்கியிருக்கிறார்கள். இதன் முன்னோட்டம் அண்மையில் வெளியாகி பெரும் வரவேற்பை பெற்றிருக்கிறது.
+Young couples living in the Tamil community.. Although they are paired with their honeymoon moments, they are the first of their choices to go to the film mansions and watch the movie.
 
-புதுமுக நடிகர் திரவ், இஸ்மத் பானு, எம். எஸ். பாஸ்கர், ரமா, மாஸ்டர் கார்த்திகேயன், விஜயலட்சுமி மற்றும் பலர் நடித்திருக்கும் 'வெப்பம் குளிர் மழை' எனும் திரைப்படத்தை பாஸ்கல் வேதமுத்து இயக்கியிருக்கிறார்.
+In such moments, they are teaching some things in life as a good thing. Thus, if Family Drama films are combined with sentimental and emotion.. Fans are doing to win to date.
+
+The film crew, led by director Pascal Vedamuthu, has made a film titled 'Heat Cold Rain'. The preview has recently been released and has been very welcome.
+
+Newcomer Dravid, Ismat Banu, M. S.. Paskal Vedamuthu has directed the film 'Heat Cold Rain' starring Bhaskar, Rama, Master Karthikeyan, Vijayalakshmi and many others.
+
+Sankar Rangarajan has composed the film, which has been recorded by Prithvi Rajendran.. The film is being produced by Gerald Draviam on behalf of the hashtag FD FS film company, which is being developed in the village's backdrop focusing on the problem of childbirth facing young couples.
 
 ...
 
 [Data](articles/c9e74d53.json)
+
+[Extended Data](ext_articles/c9e74d53.ext.json)
 
 ---
 
@@ -139,6 +171,8 @@ In addition, as many as 46 contact numbers were also introduced for the members 
 ...
 
 [Data](articles/6346999e.json)
+
+[Extended Data](ext_articles/6346999e.ext.json)
 
 ---
 

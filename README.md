@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 21:52:35**
+As of **2024-03-22 22:04:13**
 
 ## Newspaper Stats
 
-*Scraped **14,605** Articles*
+*Scraped **14,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ economynextcom | 782
 islandlk | 797
 adalk | 1,257
 adaderanalk | 1,749
-tamilmirrorlk | 1,756
+tamilmirrorlk | 1,757
 virakesarilk | 2,061
-dailymirrorlk | 2,247
-adaderanasinhalalk | 2,332
+dailymirrorlk | 2,250
+adaderanasinhalalk | 2,333
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,604 (100.0%) of 14,605 articles have been extended.
+14,605 (100.0%) of 14,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### ඉන්දියාවේ වත්කම් ගැන හෙළි කළ නවතම සමීක්ෂණය
+
+*2024-03-22 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194829) · `si`
+
+ඉන්දියාවේ ජනගහණයෙන් 1%ක් පමණ වන එහි ධනවත්ම කොටස සමස්ත ඉන්දියාවේ වත්කමෙන් 40%ක් අත්පත් කරගෙන සිටින බව අධ්‍යයනයකින් හෙළි වී තිබේ.
+
+මිලියන 1,428ක් පමණ වන ඉන්දීය ජනගහණයෙන් එහි ධනවත්ම කොටස මිලියන 9.2 ඉක්මවන්නේ නැත.
+
+ඔවුන් ඉන්දියාවේ සමස්ත ආදායමෙන් 22.6%ක් උපයන බවත්, වත්කම්වලින් 40%ක් හිමිකරගෙන සිටින බවත් මෙම අධ්‍යයනයෙන් අනාවරණය වේ.
+
+සුප්‍රකට ආර්ථික විද්‍යාඥයන් පිරිසක් විසින් මෙම අධ්‍යාපනය සිදුකර ඇති බව ඉන්දීය මාධ්‍ය වාර්තා කර තිබේ.
+
+වත්කම්වල අසමාන බෙදීම් පිළිබඳ විශේෂඥයෙකු වන තෝමස් පිකෙටි ද එම කණ්ඩායමට ඇතුළත් වේ.
+
+ඔවුන් සිදුකළ අධ්‍යයනයෙන් අනාවරණය වන්නේ 1920 ගණන්වල සිට ඉන්දියාවේ ආදායම් සහ වත්කම් බෙදීයාමේ අසමානත්වය දක්නට ලැබෙන බවය.
+
+මෙම අසමානත්වය 1990 දශකයේ ආරම්භයේදී නිදහස් වෙළෙඳ ප්‍රතිපත්තිය හඳුන්වා දීමත් සමග ඉහළ ගොස් ඇති බව පෙනී ගොස් ඇති කරුණකි.
+
+එහෙත් 2014 සිට 2023 දක්වා කාලසීමාවලදී ඉන්දියාවේ වත්කම් කේන්ද්‍ර ගතවීමේ අසමානත්වය උපරිම මට්ටමට පැමිණ ඇති බව අධ්‍යයනයෙන් අනාවරණය වී ඇත.
+
+ඒ නරේන්ද්‍ර මෝදි අග්‍රාමාත්‍යවරයා බලයට පැමිණීමත් සමග ඉන්දියාවේ ‘බිලියනයර්ස්‘ නැත්නම් ප්‍රකෝටිපතියන් පංතියක් බිහිවීමත් සමගය.
+
+...
+
+[Data](articles/b84a8c22.json)
+
+---
+
+### Indictment served on eight accused in X-Press Pearl case
+
+*2024-03-22 21:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indictment-served-on-eight-accused-in-X-Press-Pearl-case/108-279426) · `en`
+
+Colombo, Macrh 22 (Daily Mirror) -  The Colombo High Court today served an indictment on eight accused including the Captain of the fire-ravaged container ship MV X-Press Pearl for causing damage to the country's oceanic environment.
+
+The indictment was served on the accused after the High Court and Court of Appeal dismissed the preliminary objections raised by the accused against the indictment.
+
+The eight accused had filed revision applications in the Court of Appeal challenging the Colombo High Court's decision to reject their preliminary objections against the charges. The Court of Appeal decided to dismiss the revision application without the notices being issued to the Attorney General.
+
+The Attorney General filed the indictment against eight accused in the Colombo High Court, charging them on eight counts in terms of section 26(a) of the Marine Pollution Prevention Act No. 35 of 2008.
+
+...
+
+[Data](articles/a48e70df.json)
+
+---
+
+### Stamps, coins exhibition...
+
+*2024-03-22 21:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Stamps-coins-exhibition/110-279402) · `en`
+
+An exhibition of vintage stamps organized by Sri Lanka Independent Philatelic Association was launched today (22) at the Public Library in Colombo. Several rare stamps and other vintage coins are exhibited and sold at this exhibition, which will be held till Saturday (23). Pix by Kushan Pathiraja
+
+◼️
+
+[Data](articles/efd2485c.json)
+
+---
+
+### விபத்தால் பாதிக்கப்பட்டடோருக்கு உடனடி இழப்பீடு ; இராஜாங்க அமைச்சர்
+
+*2024-03-22 21:22:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தால்-பாதிக்கப்பட்டடோருக்கு-உடனடி-இழப்பீடு-இராஜாங்க-அமைச்சர்/175-335025) · `ta`
+
+வீதி விபத்தில் பாதிக்கப்பட்டவர்களுக்கு நீதிமன்ற நடவடிக்கைகளின்றி உடனடியாக இழப்பீடு வழங்கும் வேலைத்திட்டம் மார்ச் 01 ஆம் திகதியிலிருந்து ஆரம்பிக்கப்பட்டுமென  போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவன்ன தெரிவித்தார்.
+
+அதற்கமைய, விபத்து இடம்பெற்று ஒரு வருடத்திற்குள் சம்பந்தப்பட்ட காப்புறுதி நிறுவனத்திற்கு விண்ணப்பிப்பதன் மூலம் 05 இலட்சம் ரூபா வரையான இழப்பீட்டுத் தொகையை பெற்றுக்கொள்ள முடிவதோடு, அந்த தொகையை நாடளாவிய ரீதியில் அமைந்துள்ள காப்புறுதி நிறுவனத்தின் எந்தவொரு கிளையிலும் பெற்றுக்கொள்ள கூடிய வசதிகள் வழங்கப்படும் எனவும் இராஜாங்க அமைச்சர் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் வெள்ளிக்கிழமை (22) நடைபெற்ற ஊடகவியலாளர் மாநாட்டிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.  R
+
+◼️
+
+[Data](articles/59534ac7.json)
+
+---
 
 ### Specialists ring alarm bells over rapid spread of Tinea skin infection
 
@@ -86,7 +160,11 @@ In addition, export performance in February 2024 increased by 1.3% compared to t
 
 Compared to February 2023, agricultural exports have shown a significant increase of 11.82 %, reaching US$ 255.76 million in February 2024. However, industrial exports experienced a decline of 3.36 % during the same period, dropping to US$ 727.94 million.
 
-◼️
+The cumulative merchandise exports from January to February 2024 decreased by 0.30 % to US$ 1,954.39 million compared to the corresponding period in 2023.
+
+With respect to Sri Lanka’s performance in its top 15 major export markets, the EDB said the UK, Germany, the Netherlands and France have shown positive growth in both February 2024 and the cumulative period of January to February 2024 compared to the corresponding periods in 2023.
+
+...
 
 [Data](articles/1d235e20.json)
 
@@ -448,17 +526,27 @@ Khaled Ahmed and Nahid Rana took three wickets apiece for Bangladesh, who opted 
 
 ---
 
-### பாலியல் செயற்பாட்டுக்காக சிறுமிகளின் வயதெல்லையை குறைக்கும் குற்றவியல் சட்டத்தின் பிரிவுகளை மீளப்பெற வேண்டும் - சஜித்
+### Sections of Criminal Act to reduce the age of girls for sexual activity - Sajith
 
 *2024-03-22 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179443) · `ta`
 
-குற்றவியல் சட்டத்தில் முன்மொழியப்பட்ட திருத்தங்களின் ஊடாக பாலியல் செயற்பாட்டில் ஈடுபடக்கூடிய பெண் பிள்ளைகளின் வயதை 14 வருடங்களாக குறைக்க மற்றும் ஆண் குற்றவாளிகளின் வயது 22க்கு குறைவாக இருந்தால் தண்டனையை தளர்த்த வேண்டும் என்று முன்மொழியப்பட்டுள்ள குற்றவியல் சட்டத்தின் 363 மற்றும் 364 பிரிவுகளை திரும்பப் பெறுமாறு அரசை கேட்டுக் கொள்கிறேன் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச அரசாங்கத்திடம் கோரிக்கை வடுத்தார்.
+Opposition Leader Sajith Premadasa calls for the withdrawal of sections 363 and 364 of the criminal law, aiming to lower the age of female children for sexual activity to 14 and relax the age for male offenders to 14. He highlights the amendment of Article 363 and 364 of the Penal Code, issued on February 13, 2024, which proposes reducing the age of girls for sexual activity from 16 to 14 and reducing penalties for male offenders aged 22.
 
-2024 பெப்ரவரி 13 ஆம் திகதி வெளியிடப்பட்ட தண்டனைச் சட்டத்தின் 363 மற்றும் 364 ஆவது சரத்தின் 19 ஆம் அத்தியாயத்தின் திருத்தம் தொடர்பான சட்டமூலத்தை ஆளும் கட்சி பிரதமகொறடா அமைச்சர் பிரசன்ன ரணதுங்கவின் கவனத்திற்குக் கொண்டு வர விரும்புகிறேன்.
+🟩
+
+Opposition Leader Sajith Premadasa has urged the government to withdraw sections 363 and 364 of the criminal law proposed to reduce the age of female children to 14 years and to relax the age of 22, if the age of the male offenders should be relaxed for 14 years.
+
+I would like to bring to the notice of the ruling party's prime minister Prasanna Ranatunga, the Amendment of Chapter 19 of Chapter 19 of Article 19 of Article 363 and 364 of the Penal Code issued on February 13, 2024.
+
+Through this Bill, reduction in the age of girls for sexual activity from 16 to 14, reducing the penalty for male offenders between the ages of 22, as well as Section 363 of the Penal Code, instead of putting together a male and female rape.The most important issues.
+
+So I urge the government to withdraw sections 363 and 364 of the Criminal Act.
 
 ...
 
 [Data](articles/5dd62ca6.json)
+
+[Extended Data](ext_articles/5dd62ca6.ext.json)
 
 ---
 
@@ -561,6 +649,24 @@ Bangladesh team scored 32 runs for the loss of 3 wickets for their first innings
 [Data](articles/18c53165.json)
 
 [Extended Data](ext_articles/18c53165.ext.json)
+
+---
+
+### Rainfall above 75mm on the cards as heatwave begins to loosen
+
+*2024-03-22 17:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rainfall-above-75mm-on-the-cards-as-heatwave-begins-to-loosen/108-279407) · `en`
+
+Colombo, March 22 (Daily Mirror) - Residents across the Western, Sabaragamuwa, Central and North-Western Provinces are urged to brace for heavy showers above 75mm during next 36 hours.According to meteorological reports, these regions are likely to experience fairly heavy downpours.
+
+In addition to these areas, intermittent showers or thundershowers are predicted for Eastern and Uva provinces, as well as the Hambanthota district.
+
+Meanwhile, residents in North-central and Northern provinces should anticipate several spells of showers throughout the day.
+
+Across the rest of the island, scattered showers or thundershowers are anticipated during the afternoon or night, indicating a widespread weather pattern impacting various regions.
+
+...
+
+[Data](articles/816f00f3.json)
 
 ---
 
@@ -2193,105 +2299,5 @@ Spring in Mongolia, but winter is still in the ground, the cattle are still dead
 [Data](articles/e2faebc4.json)
 
 [Extended Data](ext_articles/e2faebc4.ext.json)
-
----
-
-### Credit relief to Sri Lanka
-
-*2024-03-22 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194808) · `si`
-
-Sri Lanka granted credit relief, allowing repayment of loans to India and Paris.
-
-🟩
-
-International media reports that Sri Lanka is allowed to be paid for the loans to be paid for India and Paris society.
-
-◼️
-
-[Data](articles/032a504b.json)
-
-[Extended Data](ext_articles/032a504b.ext.json)
-
----
-
-### Civil minister may threaten the murder of bribery
-
-*2024-03-22 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179393) · `ta`
-
-Dr. Dulan Hettiarachchi, Chairman of the C-Nor Foundation, resigned due to a death threat from Minister Pali Nishantha, who allegedly threatened to bribe him. Hettiarachchi also took over the Limited Institute of the Sea Nor Organization, hiring 20 new employees.
-
-🟩
-
-Dr. Dulan Hettiarachchi, Chairman of the C-Nor Foundation, has resigned from his post following a letter to the president that he cannot continue his duties due to the death threat of diplomatic minister Pali Nishantha.
-
-Dr. Dulan Hettiarachchi has said in a letter to the President that the Minister of Fisheries and Nishantha Nishantha is threatening to bribe him and that he has been murdered in some cases.
-
-Hettiarachchi has said that Hettiarachchi has taken over as the Chairman of the Limited Institute of the Sea Nor Organization under the Ministry of Fisheries and that the company has appointed 20 new employees.
-
-◼️
-
-[Data](articles/cffa6f6a.json)
-
-[Extended Data](ext_articles/cffa6f6a.ext.json)
-
----
-
-### Review decision to reduce consent age for sex: Sajith
-
-*2024-03-22 10:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Review-decision-to-reduce-consent-age-for-sex-Sajith/108-279391) · `en`
-
-Opposition Leader Sajith Premadasa today urged the government to review its decision to reduce the consent age for sex to 14 when it comes to women.
-
-"There is a strong call from Sri Lankan women to review the government's decision," Premadasa said.
-
-The penal code is to be amended to reduce the consent age for sex to 14 years and to have a single law pertaining to abuse of men and women.
-
-◼️
-
-[Data](articles/1a488bf7.json)
-
-[Extended Data](ext_articles/1a488bf7.ext.json)
-
----
-
-### 3 more Sri Lankan cricket
-
-*2024-03-22 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194807) · `si`
-
-Sri Lanka Cricket appoints Jonathan Pot as sports promotional nutritionist.
-
-🟩
-
-Sri Lanka Cricket has made appointments for three new posts.
-
-Dr. Hashan Amaratunga has appointed Jonathan Pot (Ronathan Pot) for the post of the sports promotional nutrition.
-
-◼️
-
-[Data](articles/23f399aa.json)
-
-[Extended Data](ext_articles/23f399aa.ext.json)
-
----
-
-### Body recovery at trade center in Vavuniya
-
-*2024-03-22 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/179392) · `ta`
-
-A man's body was found at a trade center on Vavuniya Dhonikkal Street Road this morning. The deceased, R. Nasendran, was 43 years old and a father of two.
-
-🟩
-
-Vavuniya police said that the body of a man has been recovered from the trade center located on the Vavuniya Dhonikkal Street Road.
-
-The person has been recovered from his trade center this morning (22) this morning.
-
-The body was recovered by R. Nasendran, the father of two children, aged 43.
-
-◼️
-
-[Data](articles/503b3d56.json)
-
-[Extended Data](ext_articles/503b3d56.ext.json)
 
 ---

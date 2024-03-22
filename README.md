@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 11:52:24**
+As of **2024-03-22 12:03:03**
 
 ## Newspaper Stats
 
-*Scraped **14,519** Articles*
+*Scraped **14,522** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 797
 adalk | 1,248
 adaderanalk | 1,737
 tamilmirrorlk | 1,750
-virakesarilk | 2,043
+virakesarilk | 2,046
 dailymirrorlk | 2,225
 adaderanasinhalalk | 2,315
 
@@ -26,43 +26,115 @@ adaderanasinhalalk | 2,315
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,514 (100.0%) of 14,519 articles have been extended.
+14,519 (100.0%) of 14,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### யாழ். இந்திய துணை தூதரகத்தை முற்றுகையிட்ட மீனவர்கள்
+### பறவைகள் பறக்கும் பாதையில் 52 காற்றாலைகள் ; அதானி திட்டம் குறித்து பேராசிரியர் கடும் எச்சரிக்கை
+
+*2024-03-22 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/179406) · `ta`
+
+அதானி குழுமத்தின்  காற்றாலை மின்திட்டம் காரணமாக மன்னாரின் வலசை பறவைகளிற்கு பெரும் பாதிப்பு ஏற்படலாம் என கொழும்பு பல்கலைகழக பேராசிரியர் சம்பத் எஸ் செனிவிரட்ன தெரிவித்துள்ளார்.
+
+வலசை பறவைகளிற்கான முக்கியமான நுழைவாயிலாக மன்னார் காணப்படுகின்றது என தெரிவித்துள்ள அவர் அதானியின் காற்றாலை மின்திட்டத்தினால் பறவைகளிற்கு பேரழிவு ஏற்படும் எனவும் குறிப்பிட்டுள்ளார்.
+
+காற்றாலை மின்திட்டத்திற்காக உருவாக்கப்படும் ஒவ்வொரு கோபுரமும் 120 மீற்றர் உயரம் கொண்டதாக காணப்படும் மேலும் 96 மீற்றர் நீளமான சுழலும் கத்திகள் காணப்படும் எனவும் தெரிவித்துள்ளார்.
+
+காற்றாலைகள் மூலம் உமிழ்வுகள் வெளியாவதில்லை அவை அதிக சத்தத்தை எழுப்புவதில்லை எனவும் குறிப்பிட்டுள்ள அவர் எனினும் இந்த காற்றாலைகள் சுற்றுசூழலிற்கு உகந்தவையா பொருளாதாரத்திற்கு பயன்படுமா என்பது தொழில்நுட்பத்திற்கு அப்பாற்பட்ட பல வெளிக்காரணகளில் தங்கியுள்ளது எனவும் குறிப்பிட்டுள்ளார்.
+
+உத்தேச நிர்மாணத்தளம் பறவைகளின் புலம்பெயர் பாதையில் உள்ளதாக தெரிவித்துள்ள பேராசிரியர் செனிவிரத்ன தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/ca73bd2d.json)
+
+---
+
+### யாழ். இந்திய துணை தூதரகத்தை முற்றுகையிட்டு உள் நுழைய முயற்சித்த மீனவர்கள்!
+
+*2024-03-22 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179403) · `ta`
+
+இந்தியன் இழுவை மடி தொழிலுக்கு எதிர்ப்பு தெரிவித்து இன்று வெள்ளிக்கிழமை யாழ்ப்பாணத்தில் உள்ள இந்திய துணை தூதரகத்தினை யாழ்ப்பாண மாவட்ட மீனவர்கள் முற்றுகையிட்டுள்ளனர்.
+
+கடந்த செவ்வாய்க்கிழமை மீனவர்கள் யாழ்ப்பாணத்தில் உண்ணாவிரத போராட்டினை ஆரம்பித்திருந்தனர். இவ்வாறு போராட்டத்தின் ஆரம்பித்த மீனவர்கள் தமது பொறுமை இழந்து இன்றையதினம் யாழ்ப்பாணத்தில் உள்ள இந்திய துவங்கி தூதரத்துக்கு முன்னால் போராட்டத்தில் ஈடுபட்டு வருகின்றதுடன் இந்திய துணை தூதரகத்திற்குள் நுழைவதற்கு முயற்சிகள் மேற்கொண்டு வருகின்றனர்.
+
+இந்நிலையில் பொலிசார் மீனவர்களை சுமூகமான நிலைக்குள் கொண்டுவர முயன்றும் மீனவர்கள் பொலிசாரின் கட்டுப்பாட்டுக்குள் அடங்காமல் போராட்டத்தில் ஈடுபட்டு வருகின்றனர். போலீசார் கை விலங்கினை காட்டி மீனவர்களை அச்சுறுத்தும் விதத்தில் மிரட்டி வருகின்றனர்.
+
+தொடர்ச்சியாக தமது வளங்கள் அளிக்கப்பட்டு வருவதாகவும் இதனை தடுத்து நிறுத்துமாறு கோரி மீனவர்கள் இவ்வாறு தொடர்ச்சியாக போராட்டங்களை முன்னெடுத்து வருகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/fd10b61b.json)
+
+---
+
+### தனது மகனை இராணுவத் தளபதியாக்கினார் உகண்டா ஜனாதிபதி
+
+*2024-03-22 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179407) · `ta`
+
+உகண்டா ஜனாதிபதி யோவேரி முசவேனி தன் மகனை அந்நாட்டின் இராணுவத் தளபதியாக நியமித்துள்ளார்.
+
+1986 ஆம் ஆண்டு முதல் தடவையாக அதிகாரத்தைக் கைப்பற்றிய யோவேரி முசவேனி, 6 தடவைகள் ஜனாதிபதியாகத் தெரிவாகியவர்.
+
+தனக்கு பின் மகன் ஜெனரல் முஹுஸி கெய்ரேருகபாவை ஜனாதியாக்குவதற்கு முசவேனி தயாராகி வருகிறார் என ஊகங்கள் நிலவின.
+
+இந்நிலையில், முஹுஸி கெய்னேருகபாவை இராணுவத் தளபதியாக ஜனாதிபதி முசவெனி நியமித்துள்ளார் என உகண்டா பாதுகாப்பு அமைச்சு நேற்று தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/1870ed1c.json)
+
+---
+
+### Yall. Fishermen who siege the Indian Consulate
 
 *2024-03-22 11:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-இந்திய-துணை-தூதரகத்தை-முற்றுகையிட்ட-மீனவர்கள்/175-335012) · `ta`
 
-இந்தியன் இழுவை மடி தொழிலுக்கு எதிர்ப்பு தெரிவித்து, யாழ்ப்பாண மாவட்ட மீனவர்கள்  இன்று யாழ்ப்பாணத்தில் உள்ள இந்திய துணை தூதரகத்தினை முற்றுகையிட்டுள்ளனர்.
+Fishermen in Jaffna protest Indian drag industry by blocking Indian embassy, seeking consulate access.
 
-இவ்வாறு போராட்டத்தின் ஆரம்பித்த மீனவர்கள் தமது பொறுமை இழந்து இன்றைய தினம் யாழ்ப்பாணத்தில் உள்ள இந்திய துவங்கி தூதரத்துக்கு முன்னால் போராட்டத்தில் ஈடுபட்டு வருகின்றதுடன் இந்திய துணை தூதரகத்திற்குள் நுழைவதற்கு முயற்சிகள் மேற்கொண்டு வருகின்றனர்.
+🟩
 
-இந்நிலையில் பொலிஸார் மீனவர்களை சுமூகமான நிலைக்குள் கொண்டுவர முயன்றும் மீனவர்கள் பொலிஸாரின் கட்டுப்பாட்டுக்குள் அடங்காமல் போராட்டத்தில் ஈடுபட்டு வருகின்றனர். R
+Jaffna district fishermen today blocked the Indian embassy in Jaffna in protest of the Indian drag industry.
+
+The fishermen who started the protest have lost their patience and are engaged in a struggle in front of the Indian Embassy in Jaffna today and are trying to enter the Indian Consulate.
+
+In this case, the fishermen are trying to bring the fishermen into a smooth condition.. Remble
 
 ◼️
 
 [Data](articles/ac7fc03d.json)
 
+[Extended Data](ext_articles/ac7fc03d.ext.json)
+
 ---
 
-### මෙතෙක් පැවැති මහා විරු සැමරුම් ගැන වාර්තාවක්
+### Report on the Great Heroes Celebrations
 
 *2024-03-22 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194811) · `si`
 
-උතුරු නැගෙනහිර පළාත්වල මියගිය LTTE සාමාජිකයින් සිහිපත් කරමින් මෙතෙක් පැවැත්වූ  "මහ විරු සැමරුම් උත්සව" සම්බන්ධයෙන් සිදුකළ පූර්ණ විමර්ශන වාර්තාවක් ඉදිරිපත් කිරීමට අපේක්ෂා කරන බව නීතිපතිවරයා අභියාචනාධිකරණය හමුවේ දැනුම් දුන්නේය.
+The Attorney General has requested a full investigation report on the "Maha Heroes' celebrations," recalling LTTE members from the Northern and Eastern Provinces. Senior State Counsel Shamitry Wickrema defended the law against these celebrations. The Court of Appeal summoned Karaliy and Bhagna, Karalive, and ordered them to submit a report. Senior State Counsel Wickrema aims to prove the full report regarding the Tusers Investigation Bureau in the North and East.
 
-මහා විරු සැමරුම් උත්සවවලට එරෙහිව නීතිය ක්‍රියාත්මක කොට ඒවා තහනම් කිරීමේ නියෝග නිකුත් කරන ලෙස ඉල්ලා හිටපු යුද හමුදා බුද්ධි අංශ නිලධාරියකු වන ආනන්ද ජයමාන මහතා විසින්  ගොනුකළ රිට් පෙත්සමක් ඊයේ (21) කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි ජ්‍යෙෂ්ඨ රජයේ නීතිඥ ශමින්ද වික්‍රම මහතා මෙම දැනුම්දීම සිදු කළේය.
+🟩
 
-අදාළ පෙත්සම එස්. යූ. බී. කරලියද්ද සහ මායාදුන්නේ කොරයා යන අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවන ලදි.
+The Attorney General also informed the Court of Appeal to submit a full investigation report regarding the "Maha Heroes' celebrations" recently, recalling the LTTE members of the Northern and Eastern Provinces.
 
-මෙම පෙත්සම ඉකුත්දා කැඳවනු ලැබූ අවස්ථාවේදී රජයේ ජ්‍යේෂ්ඨ නීතිඥවරයා අභියාචනාධිකරණය හමුවේ කරුණු දක්වමින් උතුරු නැගෙනහිර පළාත්වල ඉකුත් නොවැම්බර් මස පැවැති මහා විරු සැමරුම් උත්සවවලට එරෙහිව නීතිය ක්‍රියාත්මක කරන බවට අධිකරණය හමුවේ ප්‍රතිඥාවක් ලබාදී තිබුණි.
+Senior State Counsel Shamitry Wickrema appeared for the Attorney General yesterday (21) as a film was called to issue the law against the heroic celebrations yesterday (21).Did.
+
+The petition is the S. U. B. The Court of Appeal of Karaliy and Bhagna, Karalive were summoned before the Court of Appeal.
+
+When the petition was called recently, the Senior Statemen had pledged to the court that the law was implemented against the Great Warnings in the Northern and Eastern Provinces.
+
+The Attorney General was informed to the court when the petition was called yesterday.
+
+The Attorneys of the Petitioques were asked to permit the petition to withdraw the petition.
 
 ...
 
 [Data](articles/861d82cf.json)
+
+[Extended Data](ext_articles/861d82cf.ext.json)
 
 ---
 
@@ -88,21 +160,29 @@ The decisive action taken by Brazil's justice system has been praised by many on
 
 [Data](articles/046d09e9.json)
 
+[Extended Data](ext_articles/046d09e9.ext.json)
+
 ---
 
-### ජන අරගල ව්‍යාපාරයේ තවත් 5ක් යළිත් රක්ෂිත බන්ධනාගාරයට
+### 5 more of the People's Struggle Movement remanded again
 
 *2024-03-22 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194810) · `si`
 
-ජන අරගල ව්‍යාපාරය විසින් පසුගියදා (20) කොළඹ පැවැත්වූ විරෝධතාවය අතරතුර පොලිස් නිලධාරීන්ගේ රාජකාරියට බාධාකරමින් පහරදීම් සිදුකළ බවට අද (22) හඳුනාගැනීමේ පෙරට්ටුවකට ඉදිරිපත් කිරීමට නියමිතව සිටි සැකකරුවන් පස්දෙනාට අදාළ පෙරට්ටුව ලබන 27 වනදා කැඳවන ලෙස  කොළඹ කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා අද නියෝග කළේය.
+Five suspects in the People's Struggle Movement case were remanded again by Fort Magistrate Thilina Gamage, ordered to an identification parade. They will remain in custody until the 27th.
 
-එම නඩුවේ සාක්ෂිකරුවන් වන පොලිස් නිලධාරීන් තවදුරටත් රෝහලගතව ප්‍රතිකාර ලබන බවට කොටුව පොලීසිය කළ දැනුම්දීමට අනුව සෑකකරුවන් පස් දෙනා ලබන 27 වනදා තෙක් රක්ෂිත බන්ධනාගාර ගත කරන ලෙසත් එදිනට ඔවුන් ආවරණ සහිතව ඉදිරිපත් කරන ලෙසත් මහෙස්ත්‍රාත්වරයා නියෝග කළේය.
+🟩
 
-ඒ අනුව, කොටුව පොලිස් ස්ථානාධිපතිවරයා ඇතුළු නිලධාරින්  විසින් අත්අඩංගුටගත් සැකකරුවන් 33 දෙනාගෙන් දුමින්ද නාගමුව, ළහිරු වීරසේකර, රත්කරව්වේ ජිනරතන හිමි සහ නයනා රංජනී නමැති කාන්තාවක් ඇතුළු පෙරට්ටුවට නියමිත සැකකරුවන් පස් දෙනා ලබන 27 වනදා තෙක් රක්ෂිත බන්ධනාගාර ගත කර ඇත.
+Fort Magistrate Thilina Gamage today ordered the five suspects to be submitted to an identification parade.
+
+According to the report of police officers in the case, the five suspects were remanded until the 27th they were remanded until the 27th they were remanded until the 27th.
+
+Accordingly, the five persons who were due to the Fort Police including the OIC of the Fort Police including the OIC of Duminda Naguwa and Jinaratana Thera and Nayana Ranjani have been remanded until the 27th of this month.
 
 ◼️
 
 [Data](articles/df49b7d7.json)
+
+[Extended Data](ext_articles/df49b7d7.ext.json)
 
 ---
 
@@ -166,6 +246,8 @@ Accordingly, the High Court Judge instructed the petitioning party to provide th
 
 [Data](articles/18d57366.json)
 
+[Extended Data](ext_articles/18d57366.ext.json)
+
 ---
 
 ### Keheliya's bail application is to be considered
@@ -227,6 +309,38 @@ The President, who has arrived in Jaffna, will return about 278 acres of land, w
 [Data](articles/ef8b28eb.json)
 
 [Extended Data](ext_articles/ef8b28eb.ext.json)
+
+---
+
+### Mongolia is the most wide winter that has not been confronted in half a hundred years - snow everywhere - five million animals death
+
+*2024-03-22 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179391) · `ta`
+
+Mongolia faces a severe winter, with snow everywhere and the death of five million animals. Humanitarian organizations report a significant loss of livestock, affecting nomadic and livestock shepherds. Alexander, Regional Director of the Asia Pacific of the International Red Cross, highlights the impact on those reliant on livestock.
+
+🟩
+
+Humanitarian organizations have reported that five million animals have died due to the severe winter of Mongolia half a century.
+
+Mongolia is trapped in a very severe cold and 4.7 million animals have been killed.
+
+Temperature has fallen. Heavy snowfall is completely closed.
+
+More than three hundred thousand people in Mongolia are involved in nomadic and livestock shepherds for food and markets.
+
+Alexander, Regional Director of the Asia Pacific of the International Red Cross, said that the people who have completely relied on livestock for their lives have become a few months old.
+
+More than 2250 families in the livestock have lost more than 70 percent of their livestock.
+
+The heavy cold weather has affected the majority of Mongolia.
+
+Spring in Mongolia, but winter is still in the ground, the cattle are still dead.
+
+◼️
+
+[Data](articles/e2faebc4.json)
+
+[Extended Data](ext_articles/e2faebc4.ext.json)
 
 ---
 
@@ -327,38 +441,6 @@ The body was recovered by R. Nasendran, the father of two children, aged 43.
 [Data](articles/503b3d56.json)
 
 [Extended Data](ext_articles/503b3d56.ext.json)
-
----
-
-### Mongolia is the most wide winter that has not been confronted in half a hundred years - snow everywhere - five million animals death
-
-*2024-03-22 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179391) · `ta`
-
-Mongolia faces a severe winter, with snow everywhere and the death of five million animals. Humanitarian organizations report a significant loss of livestock, affecting nomadic and livestock shepherds. Alexander, Regional Director of the Asia Pacific of the International Red Cross, highlights the impact on those reliant on livestock.
-
-🟩
-
-Humanitarian organizations have reported that five million animals have died due to the severe winter of Mongolia half a century.
-
-Mongolia is trapped in a very severe cold and 4.7 million animals have been killed.
-
-Temperature has fallen. Heavy snowfall is completely closed.
-
-More than three hundred thousand people in Mongolia are involved in nomadic and livestock shepherds for food and markets.
-
-Alexander, Regional Director of the Asia Pacific of the International Red Cross, said that the people who have completely relied on livestock for their lives have become a few months old.
-
-More than 2250 families in the livestock have lost more than 70 percent of their livestock.
-
-The heavy cold weather has affected the majority of Mongolia.
-
-Spring in Mongolia, but winter is still in the ground, the cattle are still dead.
-
-◼️
-
-[Data](articles/e2faebc4.json)
-
-[Extended Data](ext_articles/e2faebc4.ext.json)
 
 ---
 
@@ -2061,81 +2143,5 @@ Mr Kejriwal has become the first sitting chief minister to be arrested in the hi
 [Data](articles/560ef065.json)
 
 [Extended Data](ext_articles/560ef065.ext.json)
-
----
-
-### The Dalada Perahera is a gazette
-
-*2024-03-21 22:16:05* · [`adalk`](https://www.ada.lk/breaking_news/දළදා-පෙරහර-අනාගතයට-රැක-දෙන්න-ගැසට්ටුවක්/11-408749) · `si`
-
-The Dalada Perahera, a significant event, involves the Sri Dasda Maligawa and four dance elements from the Sri Danasha Maligawa and Mount Kandy Esala Perahera. Diyawadana Nilame Pradeep Nilanga Dela emphasizes its future protection. The event, facilitated by the Sri Dalada Maligawanwarder, includes participation from the Kandy-Esala Perahera. President Ranil Wickremesinghe's request led to the program's implementation. Hemantha Bandara, Basthina Nilame, highlights the Perahera's role in safeguarding the parade, with Buddhist Affairs Director General also present.
-
-🟩
-
-Diyawadana Nilame Pradeep Nilanga Dela says that the Sri Dasda Maligawa and four dance elements presented by the Sri Danasha Maligawa and four dance elements presented by the Mount Kandy Esala Perahera.
-
-He said that it would not be possible to distort the Perahera in any case in the future.
-
-The discussion held at the Sri Dalada Maligawanwarder at the Sri Dalada Maliganayake at the Sri Dalada Maligakawardena, the participation of the party and facilitate the support of the Kandy-Esala Perahera."
-
-According to a request made by President Ranil Wickremesinghe by the Perahera, the program will be implemented on the instructions of the President.
-
-The Chairman of the Basthina Nilame Hemantha Bandara said that the presence of the Perahera was also responsible for protecting the parade.
-
-The Director General of Buddhist Affairs has participated in the event.
-
-◼️
-
-[Data](articles/a1a86845.json)
-
-[Extended Data](ext_articles/a1a86845.ext.json)
-
----
-
-### President's happy announcement to public servants
-
-*2024-03-21 22:15:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-ஊழியர்களுக்கு-ஜனாதிபதியின்-மகிழ்ச்சியான-அறிவிப்பு/175-335001) · `ta`
-
-The President announced a 10,000 rupee salary increase for public servants by Tamil Sinhala New Year, following a 5000 rupee increase last January. The remaining 5000 rupees will be provided next New Year.
-
-🟩
-
-The President said that the salary of public servants will be increased by 10,000 rupees within the Tamil Sinhala New Year this year.
-
-As a result, the public servants were given a 5000/- salary increase last January. The remaining 5000/- will be provided within the next New Year, the President said.
-
-The President said this while addressing the opening of a newly built gold fence at the Mangalam Tempidi Antique Division of Kegalle. Remble
-
-◼️
-
-[Data](articles/067d315d.json)
-
-[Extended Data](ext_articles/067d315d.ext.json)
-
----
-
-### SriLankan Airlines operates in danger of Korea Dreams
-
-*2024-03-21 22:10:43* · [`adalk`](https://www.ada.lk/breaking_news/තරුණයන්ගේ-කොරියා-සිහින-අනතුරේ-දාන-ශ්‍රී-ලංකන්-ගුවන්-සේවය/11-408748) · `si`
-
-SriLankan Airlines delayed flight to Korea, affecting 217 Sri Lankans. 117 departed, 100 remain. Airlines assure jobs unaffected. Steps taken to prevent future delays.
-
-🟩
-
-217 Sri Lankans who were due to be sent by Sri Lankan Aircraft on the Sri Lanka Bureau of Foreign Employment (HR) to the Incheon of Sri Lanka (HR) on a Sri Lankan aircraft on an industrial vehicle, the flight delayedA press release issued by the Corporate Communication Division in the 5th afternoon that SriLankanan Communications Division had taken place to do so.
-
-According to the statement, 117 Sri Lankan employees have been departed from the Bandaranaike International Airport at 07.2 am on the following flight.
-
-SriLankan Airlines has also planned to take 100 remains on Sunday of Sunday, the 100 Sri Lankans.
-
-SriLankan Airlines states that the jobs of these Sri Lankans will not be influenced by the Sri Lankan jobs..
-
-SriLankan Airlines Corporate Communication Sector further stated that SriLankan Airlines is using immediate steps to prevent such incidents.
-
-...
-
-[Data](articles/d944cb65.json)
-
-[Extended Data](ext_articles/d944cb65.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 11:33:42**
+As of **2024-03-22 11:52:24**
 
 ## Newspaper Stats
 
-*Scraped **14,514** Articles*
+*Scraped **14,519** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,155 @@ dailyftlk | 776
 economynextcom | 782
 islandlk | 797
 adalk | 1,248
-adaderanalk | 1,736
-tamilmirrorlk | 1,749
+adaderanalk | 1,737
+tamilmirrorlk | 1,750
 virakesarilk | 2,043
-dailymirrorlk | 2,224
-adaderanasinhalalk | 2,313
+dailymirrorlk | 2,225
+adaderanasinhalalk | 2,315
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,511 (100.0%) of 14,514 articles have been extended.
+14,514 (100.0%) of 14,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### லொறியை திருடிய நபர்கள் அதிலிருந்த 9,100 கிலோ கீரி சம்பாவை  எடுத்துச் சென்றனர்!
+### யாழ். இந்திய துணை தூதரகத்தை முற்றுகையிட்ட மீனவர்கள்
+
+*2024-03-22 11:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-இந்திய-துணை-தூதரகத்தை-முற்றுகையிட்ட-மீனவர்கள்/175-335012) · `ta`
+
+இந்தியன் இழுவை மடி தொழிலுக்கு எதிர்ப்பு தெரிவித்து, யாழ்ப்பாண மாவட்ட மீனவர்கள்  இன்று யாழ்ப்பாணத்தில் உள்ள இந்திய துணை தூதரகத்தினை முற்றுகையிட்டுள்ளனர்.
+
+இவ்வாறு போராட்டத்தின் ஆரம்பித்த மீனவர்கள் தமது பொறுமை இழந்து இன்றைய தினம் யாழ்ப்பாணத்தில் உள்ள இந்திய துவங்கி தூதரத்துக்கு முன்னால் போராட்டத்தில் ஈடுபட்டு வருகின்றதுடன் இந்திய துணை தூதரகத்திற்குள் நுழைவதற்கு முயற்சிகள் மேற்கொண்டு வருகின்றனர்.
+
+இந்நிலையில் பொலிஸார் மீனவர்களை சுமூகமான நிலைக்குள் கொண்டுவர முயன்றும் மீனவர்கள் பொலிஸாரின் கட்டுப்பாட்டுக்குள் அடங்காமல் போராட்டத்தில் ஈடுபட்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/ac7fc03d.json)
+
+---
+
+### මෙතෙක් පැවැති මහා විරු සැමරුම් ගැන වාර්තාවක්
+
+*2024-03-22 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194811) · `si`
+
+උතුරු නැගෙනහිර පළාත්වල මියගිය LTTE සාමාජිකයින් සිහිපත් කරමින් මෙතෙක් පැවැත්වූ  "මහ විරු සැමරුම් උත්සව" සම්බන්ධයෙන් සිදුකළ පූර්ණ විමර්ශන වාර්තාවක් ඉදිරිපත් කිරීමට අපේක්ෂා කරන බව නීතිපතිවරයා අභියාචනාධිකරණය හමුවේ දැනුම් දුන්නේය.
+
+මහා විරු සැමරුම් උත්සවවලට එරෙහිව නීතිය ක්‍රියාත්මක කොට ඒවා තහනම් කිරීමේ නියෝග නිකුත් කරන ලෙස ඉල්ලා හිටපු යුද හමුදා බුද්ධි අංශ නිලධාරියකු වන ආනන්ද ජයමාන මහතා විසින්  ගොනුකළ රිට් පෙත්සමක් ඊයේ (21) කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි ජ්‍යෙෂ්ඨ රජයේ නීතිඥ ශමින්ද වික්‍රම මහතා මෙම දැනුම්දීම සිදු කළේය.
+
+අදාළ පෙත්සම එස්. යූ. බී. කරලියද්ද සහ මායාදුන්නේ කොරයා යන අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවන ලදි.
+
+මෙම පෙත්සම ඉකුත්දා කැඳවනු ලැබූ අවස්ථාවේදී රජයේ ජ්‍යේෂ්ඨ නීතිඥවරයා අභියාචනාධිකරණය හමුවේ කරුණු දක්වමින් උතුරු නැගෙනහිර පළාත්වල ඉකුත් නොවැම්බර් මස පැවැති මහා විරු සැමරුම් උත්සවවලට එරෙහිව නීතිය ක්‍රියාත්මක කරන බවට අධිකරණය හමුවේ ප්‍රතිඥාවක් ලබාදී තිබුණි.
+
+...
+
+[Data](articles/861d82cf.json)
+
+---
+
+### Former Brazil international Robinho arrested to serve rape sentence
+
+*2024-03-22 11:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Brazil-international-Robinho-arrested-to-serve-rape-sentence/108-279392) · `en`
+
+Mar. 22 (BBC) - Former Brazil international football player Robinho has been arrested to serve a nine-year prison sentence for rape.
+
+He was convicted two years ago in Italy for his part in the gang rape of an Albanian woman at a night club in Milan in 2013.
+
+Robinho, 40, was arrested at his flat in his home city of Santos.
+
+The Italian government had requested that he serve his sentence in Brazil after failing to get him extradited.
+
+On Wednesday, a court in Brazil upheld the decision and also ruled that he should serve his time behind bars instead of under house arrest.
+
+Earlier on Thursday, a Supreme Court judge rejected a request to halt his detention.
+
+The decisive action taken by Brazil's justice system has been praised by many on local media, who feared that Robinho would evade justice thanks to his fame and his wealth.
+
+...
+
+[Data](articles/046d09e9.json)
+
+---
+
+### ජන අරගල ව්‍යාපාරයේ තවත් 5ක් යළිත් රක්ෂිත බන්ධනාගාරයට
+
+*2024-03-22 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194810) · `si`
+
+ජන අරගල ව්‍යාපාරය විසින් පසුගියදා (20) කොළඹ පැවැත්වූ විරෝධතාවය අතරතුර පොලිස් නිලධාරීන්ගේ රාජකාරියට බාධාකරමින් පහරදීම් සිදුකළ බවට අද (22) හඳුනාගැනීමේ පෙරට්ටුවකට ඉදිරිපත් කිරීමට නියමිතව සිටි සැකකරුවන් පස්දෙනාට අදාළ පෙරට්ටුව ලබන 27 වනදා කැඳවන ලෙස  කොළඹ කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා අද නියෝග කළේය.
+
+එම නඩුවේ සාක්ෂිකරුවන් වන පොලිස් නිලධාරීන් තවදුරටත් රෝහලගතව ප්‍රතිකාර ලබන බවට කොටුව පොලීසිය කළ දැනුම්දීමට අනුව සෑකකරුවන් පස් දෙනා ලබන 27 වනදා තෙක් රක්ෂිත බන්ධනාගාර ගත කරන ලෙසත් එදිනට ඔවුන් ආවරණ සහිතව ඉදිරිපත් කරන ලෙසත් මහෙස්ත්‍රාත්වරයා නියෝග කළේය.
+
+ඒ අනුව, කොටුව පොලිස් ස්ථානාධිපතිවරයා ඇතුළු නිලධාරින්  විසින් අත්අඩංගුටගත් සැකකරුවන් 33 දෙනාගෙන් දුමින්ද නාගමුව, ළහිරු වීරසේකර, රත්කරව්වේ ජිනරතන හිමි සහ නයනා රංජනී නමැති කාන්තාවක් ඇතුළු පෙරට්ටුවට නියමිත සැකකරුවන් පස් දෙනා ලබන 27 වනදා තෙක් රක්ෂිත බන්ධනාගාර ගත කර ඇත.
+
+◼️
+
+[Data](articles/df49b7d7.json)
+
+---
+
+### The men who stole the lorry took 9,100 kg of Keeri Samba!
 
 *2024-03-22 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179402) · `ta`
 
-வெலிகந்த பிரதேசத்தில் உள்ள பாரிய அரிசி ஆலை ஒன்றுக்கு  கொண்டு செல்லப்பட்ட  சுமார் பதினைந்து இலட்சம் ரூபா பெறுமதியான கீரி சம்பா திருடப்பட்டுள்ளது.
+A lorry stolen in Rukunugama, Aralangwila, contained 9,100 kg of Keeri Samba, valued at 15 lakhs rupees, leading to a police investigation.
 
-நிறுத்தி வைக்கப்பட்டிருந்த லொறி ஒன்றைத்  திருடிச் சென்ற சிலர் அந்த லொறியிலிருந்து 15 இலட்சம் ரூபா பெறுமதியான கீரி சம்பா அரிசியை  அபகரித்து விட்டு லொறியை  ஓரிடத்தில்  விட்டுச் சென்றுள்ளதாக பொலிஸில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+🟩
 
-அரலகங்வில பொலிஸ் பிரிவுக்குட்பட்ட  ருகுணுகம பிரதேசத்தில் தனது லொறி கைவிடப்பட்டுக் காணப்பட்ட நிலையில் இது தொடர்பில் லொறியின் உரிமையாளரே  பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+Around fifteen lakhs of rupees has been stolen from a massive rice mill in Welikanda.
 
-இந்த முறைப்பாட்டின் அடிப்படையில் விசாரணைகளை ஆரம்பித்த பொலிஸார்  லொறியிலிருந்த 9,100 கிலோ  கீரி சம்பா  திருடப்பட்டுள்ளமையைக் கண்டறிந்துள்ளனர்.
+It has been reported by the police that some people who stole a parked lorry have left the lorry and left the lorry in one place.
+
+The owner of the lorry has lodged a complaint with the police as his lorry has been abandoned in the Rukunugama area under the Aralangwila Police Division.
+
+Based on the complaint, police have started investigations and found that 9,100 kg of Keeri samba from the lorry has been stolen.
 
 ◼️
 
 [Data](articles/3184589a.json)
 
+[Extended Data](ext_articles/3184589a.ext.json)
+
 ---
 
-### ஹட்டன் வலய பாடசாலைகளுக்கு விசேட விடுமுறை
+### A special holiday for Hatton Zonal Schools
 
 *2024-03-22 11:17:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-வலய-பாடசாலைகளுக்கு-விசேட-விடுமுறை/76-335010) · `ta`
 
-ஹட்டன் வலய பாடசாலைகளுக்கு எதிர்வரும் திங்கட்கிழமை 25ம் திகதி  விஷேட விடுமுறை வழங்கப்பட்டுள்ளதாக மத்திய மாகாண ஆளுநரின் செயலாளர் டப்யு.எம்.எம்.மடகபொல உறுதிபடுத்தியுள்ளார்.
+Hatton Zonal Schools will observe a special holiday on the 25th, dedicated to Hatton Sri Manikapillaiar Temple Maha Kumbabhisheka, with educational activities on April 6, 2024.
 
-ஹட்டன் ஸ்ரீ மாணிக்கபிள்ளையார் ஆலய மகா கும்பாபிஷேக பெரு விழாவை முன்னிட்டே இவ் விடுமுறை வழங்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது. இதற்காக எதிர்வரும் 06.04.2024 அன்று பாடசாலையை கல்வி நடவடிக்கைகளை முன்னெடுப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+🟩
+
+The Secretary of the Central Province, DabUM Madagapola, has confirmed that Hatton Zonal Schools have been given a special holiday on the 25th of this month.
+
+Hatton Sri Manikapillaiar Temple Maha Kumbabhisheka. For this purpose, the school has been decided to carry out educational activities on 06.04.2024.
 
 ◼️
 
 [Data](articles/c9999a7c.json)
+
+[Extended Data](ext_articles/c9999a7c.ext.json)
+
+---
+
+### Keheliya’s revision application seeking bail fixed for consideration
+
+*2024-03-22 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98123/keheliyas-revision-application-seeking-bail-fixed-for-consideration) · `en`
+
+Colombo High Court on Friday (March 22) decided to consider the revision application filed by former Health Minister Keheliya Rambukwella seeking to be released on bail.
+
+Accordingly, the revision application has been fixed for consideration on Monday (March 25) by High Court Judge Sujeewa Nissanka.
+
+During the court proceedings, Deputy Solicitor General Lakmini Girihagama, representing the Attorney General, told the court that the prosecution has yet to receive the documents pertaining to the revision application.
+
+Accordingly, the High Court Judge instructed the petitioning party to provide the prosecution with the relevant documents and ordered that the revision application be taken up on Monday for consideration.
+
+...
+
+[Data](articles/18d57366.json)
 
 ---
 
@@ -1148,25 +1252,35 @@ IMF for its part has no choice but to slow down its program after completing its
 
 ---
 
-### 'පාර්ලිමේන්තුව ගැන ජනතා විශ්වාසය බිඳ වැටිලා': මෙහෙම ගියොත් කුමක් සිදුවෙයි ද?
+### 'People's Faith in Parliament' Breaded ': What happens if you go?
 
 *2024-03-22 05:36:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy0zjp9pjjno) · `si`
 
-'පාර්ලිමේන්තුව ගැන ජනතා විශ්වාසය බිඳ වැටිලා': මෙහෙම ගියොත් කුමක් සිදුවෙයි ද?
+"People's faith in Sri Lanka's Parliament is eroding, with criticisms ranging from wasteful spending to political instability. A survey shows the current government's approval rating has dropped to 7%, down from 9% last October. Parliament, a pillar of democracy, is crucial for maintaining public trust. Efforts to restore this trust include dissolving Parliament and holding a general election, focusing on electing representatives who prioritize the people's interests, and improving parliamentary debates to be more productive and less divisive."
 
-ශ්‍රී ලංකාවේ පාර්ලිමේන්තුවේ ක්‍රියාකාරීත්වය සම්බන්ධයෙන් ජනතාව තුළ පැවති විශ්වාසය කලක සිට බිඳ වැටී ඇති ආකාරයක් දැකිය හැකි ය.
+🟩
 
-වසර ගණනක සිට බොහෝ පිරිසකගේ අදහස වී ඇත්තේ, "පාර්ලිමේන්තුව සුදු අලියෙක්", "පාර්ලිමේන්තුව අපට එපා", "පාර්ලිමේන්තුව නැති කළ යුතු යි" යන මතයන් ය.
+'People's Faith in Parliament' Breaded ': What happens if you go?
 
-මේ අදහස්වලින් පෙනී යන්නේ, සැලකිය යුතු කාලයක සිට ශ්‍රී ලංකාවේ ජනතාව අතර පාර්ලිමේන්තුවේ ක්‍රියාකාරීත්වය පිළිබඳව විශ්වසය බිඳ වැටී ඇති ආකාරය යි.
+The people's confidence in the functioning of the Parliament of Sri Lanka can be seen from a stake.
 
-මේ අතර, පාර්ලිමේන්තුව පවත්වන එක් දිනක් සඳහා රුපියල් මිලියන 4කට ආසන්න මුදලක් වැය කිරීම 'නාස්තියක්' බවට ද ඇතැමෙක් චෝදනා කරති.
+For many years, many have been viewed, "parliament is a white elephant," and the opinions "do not be eliminated."
 
-පාර්ලිමේන්තුව පිළිබඳ විශ්වාසය බිඳ වැටීමට බලපෑ අලුත් ම සිදුවීම් දෙක වන්නේ, කතානායකවරයාට එරෙහිව විශ්වාසභංග යෝජනාවක් ගෙන ඒම සහ කෝප් කමිටුව පිළිබඳව මතුව ඇති අර්බුදකාරී තත්ත්වය යි.
+These ideas show how the faithy is collapsed on the functioning of parliament among the people of Sri Lanka.
+
+In the meantime, some allege that it is a waste of Rs. 4 million for one day of Parliament.
+
+The new two new events that have a breakdown on parliament are the crisis that the COPE is the crisis on the COPE.
+
+Dilan Perera and Wimal Weerawansa addressed Parliament Thursday (March 21) that the no-confidence motion against the Speaker was defeated by the people.
+
+In 2019, Ranil Wickremesinghe was removed from the post of Prime Minister, obstructing the parliamentary assault in Parliament, had fallen into the public confidence in Parliament.
 
 ...
 
 [Data](articles/7072cf2d.json)
+
+[Extended Data](ext_articles/7072cf2d.ext.json)
 
 ---
 
@@ -2023,115 +2137,5 @@ SriLankan Airlines Corporate Communication Sector further stated that SriLankan 
 [Data](articles/d944cb65.json)
 
 [Extended Data](ext_articles/d944cb65.ext.json)
-
----
-
-### Amazing amazing wealth, earned in 30 years
-
-*2024-03-21 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194795) · `si`
-
-The Illegal Asset Investigation Division of Nikaweratiya seized over Rs. 30 years of illegal liquor assets today, revealing a suspect with a history of 40 arrests related to the racket. The CID will report to Kurunegala High Court.
-
-🟩
-
-The Illegal Asset Investigation Division of the Commission in Nikaweratiya, who was illegal liquor, has been taken over by the Illegal Asset Division of the Testing Department of Nikaweratiya today (21st).
-
-The suspect and movable property has been handed over to the excavation of more than 30 years of illegal liquor racket.
-
-A total of Rs.
-
-Also, an illegal assets inquiry has been taken over by an illegal van of over Rs.
-
-The person has been revealed that the man was arrested nearly forty time in relation to illegal liquor racket.
-
-The CID is due to report to the Kurunegala High Court in the future.
-
-◼️
-
-[Data](articles/a0495d34.json)
-
-[Extended Data](ext_articles/a0495d34.ext.json)
-
----
-
-### Sri Lankan family in Canada donates ICU beds worth Rs. 400 Mn to SL
-
-*2024-03-21 21:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-family-in-Canada-donates-ICU-beds-worth-Rs-400-Mn-to-SL/108-279341) · `en`
-
-Colombo, March 21 (Daily Mirror) - A total of 157 cutting-edge Intensive Care Unit (ICU) beds worth over Rs. 470 million were donated to the Sri Lankan government by a Sri Lankan family living in Canada.
-
-This generous contribution has been made at the behest of Rev. Fr. Darrel Coonghe, the Director and Founder of Supuwath Arana in Seeduwa.
-
-The donation ceremony took place at the Colombo Logistics Terminals (Pvt) Ltd in Welisara today (21).
-
-The Health Ministry said these 157 beds are set to be distributed across 34 hospitals including Negombo, Ragama Teaching Hospital, Chilaw, Puttalam, Seeduwa, Gampaha, Jaffna, Batticaloa, Trincomalee and Kurunegala.
-
-On behalf of the Sri Lankan government, Minister of Health, Dr. Ramesh Pathirana expressed his gratitude to Patrick Nilkamal Fernando and his family residing in Canada for the much-needed donation.
-
-He noted that these beds, equipped with state-of-the-art technology, mark a significant enhancement in the country's critical care capabilities.
-
-◼️
-
-[Data](articles/bb30d116.json)
-
-[Extended Data](ext_articles/bb30d116.ext.json)
-
----
-
-### 32 Indian fishermen arrested for poaching in Sri Lankan waters
-
-*2024-03-21 21:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98116/32-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters) · `en`
-
-Sri Lanka Navy says 05 Indian trawlers were seized and 32 Indian fishermen were apprehended for poaching in Sri Lankan waters off Talaimannar and near the Delft Island during separate operations conducted to chase away Indian poaching trawlers from Sri Lankan waters.
-
-The North Central and Northern Naval Commands deployed their Inshore Petrol Craft and Fast Attack Craft to chase away a cluster of Indian poaching trawlers, having spotted they were engaging in illegal fishing in Sri Lankan waters in the dark hours of March 20, the SLN media unit said.
-
-Accordingly, the Navy held 02 Indian poaching trawlers along with 07 Indian fishermen off Talaimannar. In addition, naval personnel also seized 03 more Indian poaching trawlers and held 25 Indian fishermen off the Delft Island.
-
-The 02 Indian poaching trawlers along with 07 Indian fishermen apprehended by the North Central Naval Command were brought to the Talaimannar Pier.
-
-...
-
-[Data](articles/870b6a80.json)
-
-[Extended Data](ext_articles/870b6a80.ext.json)
-
----
-
-### IMF. Second Review Successful - $ 337 million as Third Premium
-
-*2024-03-21 21:51:03* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--දෙවැනි-සමාලෝචනය-සාර්ථකයි---තෙවැනි-වාරිකය-ලෙස-ඩොලර්-මිලියන-337ක්/11-408747) · `si`
-
-IMF's second review successful, Sri Lanka to receive $337M as third loan installment, total debt to IMF now $1B.
-
-🟩
-
-The second review of the IMF has successfully completed the second review of a precious financial facility implemented by Sri Lanka.
-
-Accordingly, Sri Lanka is to receive US $ 337 million as the third loan installment.
-
-Accordingly, the total debt of the International Monetary Fund has received is US $ 1 billion.
-
-◼️
-
-[Data](articles/f4827b04.json)
-
-[Extended Data](ext_articles/f4827b04.ext.json)
-
----
-
-### Delhi Chief Minister arrested
-
-*2024-03-21 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194794) · `si`
-
-Delhi CM arrested.
-
-🟩
-
-◼️
-
-[Data](articles/52aa315d.json)
-
-[Extended Data](ext_articles/52aa315d.ext.json)
 
 ---

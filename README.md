@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 01:50:26**
+As of **2024-03-23 02:03:00**
 
 ## Newspaper Stats
 
-*Scraped **14,634** Articles*
+*Scraped **14,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 161
 dbsjeyarajcom | 190
 newsfirstlk | 363
 economynextcom | 782
-dailyftlk | 788
+dailyftlk | 791
 islandlk | 797
 adalk | 1,257
 adaderanalk | 1,752
@@ -26,11 +26,77 @@ adaderanasinhalalk | 2,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,634 (100.0%) of 14,634 articles have been extended.
+14,634 (100.0%) of 14,637 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### Justice Minister promises to complete OMP investigations by Dec 2025
+
+*2024-03-23 01:11:43* · [`dailyftlk`](https://www.ft.lk/news/Justice-Minister-promises-to-complete-OMP-investigations-by-Dec-2025/56-759851) · `en`
+
+Says one cannot be satisfied with previous performance of the OMP
+
+Claims when he was appointed as Justice Minister he discovered only 62 complaints had been looked into
+
+Notes to date OMP has investigated 5,600 complaints out of total 14,700 received
+
+Justice Minister Dr. Wijeyadasa Rajapakshe on Thursday assured that the investigations conducted by the Office on Missing Persons (OMP) into enforced disappearances will be completed by 31 December 2025.
+
+Rajapakshe made these comments while attending a workshop organised by the OMP at the Sri Lanka Foundation Institute where discussions were held regarding the formulation of guidelines in collaboration with relevant stakeholders.
+
+...
+
+[Data](articles/351d4744.json)
+
+---
+
+### NFCO led by Janaka Ratnayake to contest all future polls
+
+*2024-03-23 01:10:43* · [`dailyftlk`](https://www.ft.lk/news/NFCO-led-by-Janaka-Ratnayake-to-contest-all-future-polls/56-759850) · `en`
+
+Accuses political culture in SL for leading country to bankruptcy
+
+Says no existing party or politician possesses capability to revive SL
+
+Claims his group aims to establish governance system devoid of any weaknesses
+
+Assures to establish fair pricing formula for all utility bills
+
+Presidential hopeful Janaka Ratnayake announced yesterday that the National Front of Civil Organisations led by him will not only contest the upcoming Presidential election but also participate in all future elections.
+
+Speaking at a press conference in Colombo, Ratnayake emphasised that over the past 75 years, the prevailing political culture in Sri Lanka has led to the bankruptcy of the country. He asserted that no existing party or politician possesses the capability to revive the nation, as they are either directly or indirectly responsible for its current state of bankruptcy.
+
+...
+
+[Data](articles/9396106d.json)
+
+---
+
+### President launches ‘Urumaya’ land ownership program in Jaffna
+
+*2024-03-23 01:09:43* · [`dailyftlk`](https://www.ft.lk/news/President-launches-Urumaya-land-ownership-program-in-Jaffna/56-759849) · `en`
+
+Expedites “Urumaya” freehold deeds program, aiming for completion by June, to ensure land ownership for all citizens
+
+408 land deeds in Jaffna signifies progress towards granting free land rights to 2 m individuals countrywide
+
+Govt. releases 63,000 acres of land, including former military-controlled areas with additional allocations for agricultural purposes in Valikamam North
+
+Emphasises on historical significance of land ownership, commitment to restoring land rights to individuals, ensuring equitable access
+
+Inaugurates agriculture modernisation program in Kopai to boost income opportunities, spearhead economic revival efforts
+
+Broad initiatives include leveraging renewable energy resources, promoting tourism, establishing investment zones to transform North into significant economic hub
+
+President Ranil Wickremesinghe has announced the acceleration of the national ‘Urumaya’ freehold deeds program, with a directive to complete it by June, ensuring legal ownership of land for all citizens.
+
+...
+
+[Data](articles/6d265ab4.json)
+
+---
 
 ### 40 killed and more than 100 wounded in attack on Moscow concert hall
 
@@ -2155,83 +2221,5 @@ Giving an undertaking before the court previously, the Senior State Counsel, had
 [Data](articles/e1e81a11.json)
 
 [Extended Data](ext_articles/e1e81a11.ext.json)
-
----
-
-### Investigation: Investigate against Chancellor
-
-*2024-03-22 12:43:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சிரமதான-விவகாரம்-அதிபருக்கு-எதிராக-விசாரணை/71-335018) · `ta`
-
-Investigation launched against students for celebrating cricket tournament in Colombo, leading to parents facing difficulties at the Chancellor's Workplace.
-
-🟩
-
-A recent cricket tournament was held between the school and a school in Colombo.
-
-In the competition, the students enthusiastically play the streets of Bond. During that time, the women in the neighborhood were also celebrating in front of schools.
-
-The Principal of the school has received information in this regard and has taken action against the students who have been identified in such celebrations, taking action to take their parents to school and go to foreign schools with their children and engage in difficult tasks.
-
-A large number of parents went with their children to accept the Chancellor's Workplace and engaged in difficulties in neighboring schools.
-
-The Zonal Education Workshop has launched investigations after complaints have been made to the Northern Province Education Workshop.
-
-◼️
-
-[Data](articles/f3d7b88d.json)
-
-[Extended Data](ext_articles/f3d7b88d.ext.json)
-
----
-
-### Death in a vehicle accident
-
-*2024-03-22 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/179399) · `ta`
-
-A man died in a collision on the Biyagama-Bandarawatte road, initially treated at Biyagama Hospital before being transferred to Ragama Hospital. The driver was arrested, and the Biyagama police are investigating.
-
-🟩
-
-A man dies after colliding with a vehicle traveling from Biyagama to Bandarawatte on Biyagama - Bandarawatte road. The incident took place on the Bandarawatte road belonging to the Biyagama Police Division.
-
-The man was admitted to the Biyagama Hospital and was transferred to the Ragama Hospital for further treatment.
-
-The driver of the driver has been arrested on suspicion and the Biyagama police are conducting further investigations.
-
-◼️
-
-[Data](articles/72e1d3ef.json)
-
-[Extended Data](ext_articles/72e1d3ef.ext.json)
-
----
-
-### Doctors alerted teania infection rapidly spreading
-
-*2024-03-22 12:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179414) · `ta`
-
-Tinea infection rapidly spreading in adults and children, mainly caused by skin shrinkage and sweating. Symptoms include itching and red spots, often in armpits, feet, and head. Spreads through contact. Can be cured with treatment; prevention includes keeping skin clean, avoiding others' clothes, and wearing loose clothes.
-
-🟩
-
-Specialist doctors on skin disease have warned that Tinea is rapidly spreading in the country.
-
-The disease is spreading among adults and children, said a specialist at the Colombo National Hospital, said Janaka Alphabetic.
-
-The main symptom of the disease is itching. Also, red spots appear as symptoms.
-
-This is caused by high skin shrinkage and sweating.. This is likely to occur in the armpit, feet and head.
-
-He said it spreads through contact and may spread among colleagues.
-
-The disease can be fully cured by treatments and doctors have advised the doctors to seek the doctor immediately if the symptoms are found.
-
-Specialist doctors say that keeping the skin clean, the use of others' clothes, and the use of loose clothes can be prevented.
-
-◼️
-
-[Data](articles/08d80076.json)
-
-[Extended Data](ext_articles/08d80076.ext.json)
 
 ---

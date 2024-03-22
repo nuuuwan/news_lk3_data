@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 00:49:18**
+As of **2024-03-23 01:03:14**
 
 ## Newspaper Stats
 
-*Scraped **14,632** Articles*
+*Scraped **14,633** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 1,751
 tamilmirrorlk | 1,758
 virakesarilk | 2,062
 dailymirrorlk | 2,255
-adaderanasinhalalk | 2,334
+adaderanasinhalalk | 2,335
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,624 (99.9%) of 14,632 articles have been extended.
+14,632 (100.0%) of 14,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### රුසියාවේ අගනුවරට බිහිසුණු ත්‍රස්ත ප්‍රහාරයක්
+
+*2024-03-23 00:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194831) · `si`
+
+රුසියාවේ මොස්කව් නගරයේ නාට්‍ය ශාලාවක සිදුකළ ත්‍රස්ත ප්‍රහාරයකින් ආසන්න වශයෙන් පුද්ගලයින් 40ක් පමණ මියගොස් ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+එම ප්‍රහාරය එල්ලවන අවස්ථාවේ එම නාට්‍ය ශාලාවේ නර්තන තරගාවලියක් පැවැත්වෙමින් තිබූ බව සඳහන්ය.
+
+කැලෑ සටන් ඇඳුම් ඇඳගත් සන්නද්ධ පුද්ගලයින් තිදෙනෙකු වෙඩි තබමින් එම ශාලාවට ඇතුළ්වන අයුරු දැක්වෙන වීඩියෝ  මේ වනවිට සමාජ මාධ්‍ය සංසරණය වෙයි.
+
+◼️
+
+[Data](articles/662b51f7.json)
+
+---
 
 ### Princess of Wales says she is undergoing cancer treatment
 
@@ -71,6 +87,8 @@ This collaborative effort aims to transform the education system in the country,
 ...
 
 [Data](articles/1a2f4c02.json)
+
+[Extended Data](ext_articles/1a2f4c02.ext.json)
 
 ---
 
@@ -214,6 +232,8 @@ The exhibition, the 5th stop in Galle, stems from an initiative sparked during l
 
 [Data](articles/a2732d47.json)
 
+[Extended Data](ext_articles/a2732d47.ext.json)
+
 ---
 
 ### British Council launches Women in STEM Scholarships for 2024/25
@@ -228,6 +248,8 @@ The presence of women in STEM fields is essential for promoting diversity, ensur
 
 [Data](articles/ccc7afe2.json)
 
+[Extended Data](ext_articles/ccc7afe2.ext.json)
+
 ---
 
 ### LEARN and UNESCO Chair of APU sign MoU to empower Sri Lankan educators
@@ -241,6 +263,8 @@ This partnership aims to enhance teaching quality and research efforts by effect
 ...
 
 [Data](articles/fa3da03f.json)
+
+[Extended Data](ext_articles/fa3da03f.ext.json)
 
 ---
 
@@ -258,6 +282,8 @@ The recent two events, the online bill and the appointing of IGP, are good examp
 
 [Data](articles/fe48fc4c.json)
 
+[Extended Data](ext_articles/fe48fc4c.ext.json)
+
 ---
 
 ### Preserve forest to slow down climate change
@@ -272,6 +298,8 @@ A sustainable future depends on investments in forest protection and restoration
 
 [Data](articles/e1ebe195.json)
 
+[Extended Data](ext_articles/e1ebe195.ext.json)
+
 ---
 
 ### Nature-based solutions: Mangrove ecosystem conservation and climate action
@@ -283,6 +311,8 @@ The importance of mangrove forests and their unique characteristics as liminal e
 ...
 
 [Data](articles/0fb6e059.json)
+
+[Extended Data](ext_articles/0fb6e059.ext.json)
 
 ---
 
@@ -317,6 +347,8 @@ The question hung in the 40 degree heat, as renowned Elephant Conservationist Dr
 ...
 
 [Data](articles/797555f9.json)
+
+[Extended Data](ext_articles/797555f9.ext.json)
 
 ---
 
@@ -2197,29 +2229,5 @@ But the incident caused the incident to come to the Bibila police station last (
 [Data](articles/6cb852ce.json)
 
 [Extended Data](ext_articles/6cb852ce.ext.json)
-
----
-
-### The Department of Meteorology says the temperature will last until the end of April!
-
-*2024-03-22 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179415) · `ta`
-
-The Department of Meteorology reports a temperature increase of 1-2°C this year, affecting the entire country, with highs expected until April's end.
-
-🟩
-
-The Department of Meteorology said the temperature increased by one or two degrees Celsius these days than the rest of the year.
-
-Deputy Director of the Department of Meteorology, Maril Mendis, said the situation is seen across the country.
-
-He said the heat is high in March and April every year and the situation will remain until the end of April.
-
-The department also states that the temperature has risen abnormally at this time.
-
-◼️
-
-[Data](articles/40ee8e27.json)
-
-[Extended Data](ext_articles/40ee8e27.ext.json)
 
 ---

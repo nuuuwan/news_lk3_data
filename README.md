@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 22:19:18**
+As of **2024-03-22 22:33:13**
 
 ## Newspaper Stats
 
-*Scraped **14,610** Articles*
+*Scraped **14,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 797
 adalk | 1,257
 adaderanalk | 1,749
 tamilmirrorlk | 1,757
-virakesarilk | 2,061
+virakesarilk | 2,062
 dailymirrorlk | 2,250
 adaderanasinhalalk | 2,333
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,333
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,610 (100.0%) of 14,610 articles have been extended.
+14,610 (100.0%) of 14,611 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -65,6 +65,20 @@ The billionaires such as Mukesh Ambani and Gautam Pihani are also accused of pri
 [Data](articles/b84a8c22.json)
 
 [Extended Data](ext_articles/b84a8c22.ext.json)
+
+---
+
+### உடலுறவுகொள்ளும் வயதை 14 ஆக குறைக்கும் திருத்த வர்த்தமானியை இடைநிறுத்துங்கள் - பாராளுமன்ற பெண் உறுப்பினர் ஒன்றியம்
+
+*2024-03-22 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179445) · `ta`
+
+1995 ஆம் ஆண்டு தண்டனைச் சட்டக் கோவைக்கு மேற்கொள்ளப்பட்ட திருத்தத்துக்கு அமைய, 16 வயதுக்குட்பட்ட பெண் தனது சொந்த விருப்பத்தின் பேரில் உடலுறவு கொண்டாலும், அது கற்பழிப்பாகக் கருதப்படும். எனினும், நீதி அமைச்சரால் தண்டனைச் சட்டக் கோவைக்கு முன்மொழியப்பட்டுள்ள திருத்தம் மூலம் அந்த வயதெல்லை 14 வயதாக குறைக்க  உத்தேசிக்கப்பட்டுள்ளது. ஆகவே, இந்த திருத்தத்தை உடன் நிறுத்துமாறு பாராளுமன்றத்தின் பெண் உறுப்பினர்களின் ஒன்றியம் நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜயதாச ராஜபக்ஷவிடம் கடிதம் மூலம் கோரிக்கை விடுத்துள்ளது.
+
+1995 ஆம் ஆண்டு தண்டனைச் சட்டக் கோவைக்கு மேற்கொள்ளப்பட்ட திருத்தத்துக்கு அமைய, 16 வயதுக்குட்பட்ட பெண் தனது சொந்த விருப்பத்தின் பேரில் உடலுறவு கொண்டாலும், அது கற்பழிப்பாகக் கருதப்படும். எனினும், நீதி அமைச்சரால் தண்டனைச் சட்டக் கோவைக்கு முன்மொழியப்பட்டுள்ள திருத்தம் மூலம் அந்த வயது எல்லையை 14 வயது வரை குறைக்கப்படவுள்ளது.
+
+...
+
+[Data](articles/27a65f79.json)
 
 ---
 
@@ -2287,37 +2301,5 @@ The President, who has arrived in Jaffna, will return about 278 acres of land, w
 [Data](articles/ef8b28eb.json)
 
 [Extended Data](ext_articles/ef8b28eb.ext.json)
-
----
-
-### Mongolia is the most wide winter that has not been confronted in half a hundred years - snow everywhere - five million animals death
-
-*2024-03-22 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179391) · `ta`
-
-Mongolia faces a severe winter, with snow everywhere and the death of five million animals. Humanitarian organizations report a significant loss of livestock, affecting nomadic and livestock shepherds. Alexander, Regional Director of the Asia Pacific of the International Red Cross, highlights the impact on those reliant on livestock.
-
-🟩
-
-Humanitarian organizations have reported that five million animals have died due to the severe winter of Mongolia half a century.
-
-Mongolia is trapped in a very severe cold and 4.7 million animals have been killed.
-
-Temperature has fallen. Heavy snowfall is completely closed.
-
-More than three hundred thousand people in Mongolia are involved in nomadic and livestock shepherds for food and markets.
-
-Alexander, Regional Director of the Asia Pacific of the International Red Cross, said that the people who have completely relied on livestock for their lives have become a few months old.
-
-More than 2250 families in the livestock have lost more than 70 percent of their livestock.
-
-The heavy cold weather has affected the majority of Mongolia.
-
-Spring in Mongolia, but winter is still in the ground, the cattle are still dead.
-
-◼️
-
-[Data](articles/e2faebc4.json)
-
-[Extended Data](ext_articles/e2faebc4.ext.json)
 
 ---

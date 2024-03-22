@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 15:51:40**
+As of **2024-03-22 16:03:12**
 
 ## Newspaper Stats
 
-*Scraped **14,565** Articles*
+*Scraped **14,568** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,52 +19,104 @@ adalk | 1,252
 adaderanalk | 1,742
 tamilmirrorlk | 1,754
 virakesarilk | 2,059
-dailymirrorlk | 2,233
-adaderanasinhalalk | 2,323
+dailymirrorlk | 2,235
+adaderanasinhalalk | 2,324
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,563 (100.0%) of 14,565 articles have been extended.
+14,565 (100.0%) of 14,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### ஹட்டன் வலய பாடசாலைகளுக்கு எதிர்வரும் திங்கட்கிழமை விசேட விடுமுறை !
+### කෙහෙළිය ට පෙනී නොසිටින බව නීතිපති අධිකරණයට දන්වයි
+
+*2024-03-22 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194820) · `si`
+
+ඉන්දීය ණය යෝජනා ක්‍රමය යටතේ ලියාපදිංචි නොකළ ඉන්දීය සමාගම් දෙකකින් ඖෂධ මිලදී ගැනීමට ගෙන තිබෙන තීරණය තුළින් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය වන බවට තීන්දුවක් ලබා දෙන ලෙස ඉල්ලා ගොනුකර ඇති පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් නම්කර සිටින හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු වගඋත්තරකරුවන් කිහිපදෙනෙකු වෙනුවෙන් පෙනී නොසිටින බව නීතිපතිවරයා අද (22) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේය.
+
+මෙම පෙත්සම අද කැඳවනු ලැබූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසියට ජෙනරාල්වරයා මෙම දැනුම් දීම සිදුකළේය.
+
+ඉන් අනතුරුව පෙත්සම සලකා බැලීම කල් තැබීමටත් අධිකරණය නියම කළේය.
+
+◼️
+
+[Data](articles/2588e358.json)
+
+---
+
+### JVP, LTTE instrumental for economic crisis: S.M. Chandrasena
+
+*2024-03-22 15:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/JVP-LTTE-instrumental-for-economic-crisis-S-M-Chandrasena/108-279403) · `en`
+
+Colombo, March 22 (Daily Mirror)- The actions of the Janatha Vimukthi Peramuna (JVP) and the LTTE were the main instrumental factors for the current economic crisis, former Minister S.M. Chandrasena said.
+
+He told reporters that if the destruction of property and lives caused by the JVP and the LTTE was evaluated, it would be clear that their actions must have led to the crisis situation the country was facing today.
+
+He said the JVP is now trying to show the country that they are good people by pointing fingers at others for the bankruptcy.
+
+◼️
+
+[Data](articles/5e13f1a7.json)
+
+---
+
+### Special holidays for Hatton Zonal Schools
 
 *2024-03-22 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/179439) · `ta`
 
-ஹட்டன் வலய தமிழ் பாடசாலைகளுக்கு எதிர்வரும் திங்கட்கிழமை (25) விசேட விடுமுறை ஹட்டன் வலய பாடசாலைகளுக்கு எதிர்வரும் திங்கட்கிழமை 25ம் திகதி விஷேட விடுமுறை வழங்கப்பட்டுள் ளதாக மத்திய மாகாண ஆளுநரின் செயலாளர் டப்ளியு.எம்.எம்.மடகபொல உறுதிபடுத்தியுள்ளார்.
+Hatton Zonal Tamil schools in Central Province will observe a special holiday on Monday, April 6, 2024, for the Hatton Sri Manikapillaiar Temple Maha Kumbabisheka.
 
-ஹட்டன் ஸ்ரீ மாணிக்கபிள்ளையார் ஆலய மகா கும்பாபிஷேக பெரு விழாவை முன்னிட்டே இவ் விடுமுறை வழங்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-இதற்காக மாற்றிடாக எதிர்வரும் 06.04.2024 அன்று பாடசாலையை கல்வி நடவடிக்கைகளை முன்னெடுப்பதற்கு தீர்மானிக்கப்பட்டுள்ளது.
+The Governor of the Central Province, WMM Madagapola, has confirmed that a special holiday will be granted to Hatton Zonal Tamil schools on Monday (25).
+
+Hatton Sri Manikapillaiar Temple Maha Kumbabisheka has been given this holiday in front of the great festival.
+
+For this purpose, it has been decided to carry out educational activities on 06.04.2024.
 
 ◼️
 
 [Data](articles/7cbaf8f8.json)
 
+[Extended Data](ext_articles/7cbaf8f8.ext.json)
+
 ---
 
-### அமைச்சர் டக்ளஸ் உறுதிமொழி உணவு தவிர்ப்பு போராட்டம் கைவிடப்பட்டது!
+### Minister Douglas pledged food avoidance struggle to abandon!
 
 *2024-03-22 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179438) · `ta`
 
-இந்திய அத்துமீறிய மீன்பிடியாளர் களை நிறுத்துமாறு கோரி நான்கு நாட்கள் இடம்பெற்ற உணவு தவிர்ப்புப் போராட்டம் அமைச்சர் டக்ளஸ் தேவானந்தாவின் உறுதிமொழியால் கைவிடப்பட்டது.
+Minister Douglas Devananda pledged to end the food avoidance struggle and stop Indian fishermen, visiting the protest on the fourth day. He discussed with Tamil Nadu and Pondicherry Chief Ministers on controlling Indian fishermen. Pondicherry's Chief Minister pledged to prevent fishermen from crossing the border, while Tamil Nadu's Chief Minister is ready to send a letter to the Election Commission. Devananda defended the arrest of Indian fishermen crossing the border, stating it's why India views him as an enemy. He promised to support the fishermen if India shows favorable signals.
 
-கடந்த செவ்வாய்கிழமை யாழ்ப்பாணத்தில் உள்ள இந்திய துணை தூதரகத்திற்கு அருகாமையில் யாழ் மாவட்டத்தைச் சேர்ந்த மீனவர்கள் நான்கு போர் உணவுதவிர்ப்புப் போராட்டத்தை ஆரம்பித்தனர்.
+🟩
 
-இன்று நான்காம் நாள் போராட்ட இடத்திற்கு வருகை தந்த அமைச்சர் டக்ளஸ் தேவானந்தா, இந்திய அத்துமீறிய கடற் தொழிலாளர்களை கட்டுப்படுத்துவது தொடர்பில் தமிழ்நாடு மற்றும் பாண்டிச்சேரி முதலமைச்சர் மற்றும் சம்பந்தப்பட்ட அமைச்சர்களுடன் பேசினேன்.
+The four -day food skipper, demanding the stopping of Indian fishermen, was abandoned by Minister Douglas Devananda's pledge.
 
-பாண்டிச்சேரி முதலமைச்சர் எல்லை தாண்டும் மீனவர்களை தடுப்பது தொடர்பில் எழுத்துமூலமான உறுதிமொழி தந்துள்ளார்.
+Fishermen from the Jaffna district started a four -warfed protest campaign near the Indian Embassy in Jaffna last Tuesday.
 
-தமிழக முதல்வர் கடிதம் அனுப்பத் தயாராக இருப்பதாகவும் தேர்தல் இடம்பெறவுள்ள நிலையில் தேர்தல் ஆணையகத்துடன் ஆலோசித்து கடிதம் அனுப்புவதாக கூறியிருக்கிறார்.
+Minister Douglas Devananda, who visited the fourth day of the protest today, spoke to the Chief Minister of Tamil Nadu and Pondicherry on the control of the Indian transgressors.
+
+The Chief Minister of Pondicherry has made a written pledge to prevent fishermen crossing the border.
+
+The Chief Minister of Tamil Nadu has said that he is ready to send a letter and sends a letter to the Election Commission with the election.
+
+Indian parties have called on the fisherman's problem. I have told them.
+
+What my position said was that the Indian fishermen crossing the border were arrested and put before the law.
+
+This is why India sees me as an enemy.
+
+Therefore, when the Indian side showed favorable signals, I will stand up for the fishermen's side, ”he added.
 
 ...
 
 [Data](articles/a618747c.json)
+
+[Extended Data](ext_articles/a618747c.ext.json)
 
 ---
 
@@ -91,6 +143,24 @@ The integrated committee of the government executives that the solution proposal
 [Data](articles/505fc037.json)
 
 [Extended Data](ext_articles/505fc037.ext.json)
+
+---
+
+### Women Parliamentarians’ Caucus expresses concern on reducing consent age for sex
+
+*2024-03-22 15:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Women-Parliamentarians-Caucus-expresses-concern-on-reducing-consent-age-for-sex/108-279401) · `en`
+
+Parliament, March 22 (Daily Mirror)- The Women Parliamentarians’ Caucus has requested Justice Minister Wijeyadasa Rajapakshe to take steps to withdraw the bill gazetted to amend Chapter 19 of the Penal Code which seeks to reduce the consent age for sex to 14.
+
+"According to the amendments made to the Penal Code in 1995, even if a girl under 16 years of age has sexual relations of her own free will, it is considered rape and the proposed amendment to the Penal Code by the Minister of Justice will lower the age limit to 14 years," the Caucus said.
+
+The Chair of the Women Parliamentarians' Caucus Sudarshini Fernandopulle said that she requested on behalf of the Women Parliamentarians’ Caucus to withdraw the proposed bill to amend Section 364 of the Penal Code.
+
+She also requested to prioritise the protection of women and children and uphold the justice for vulnerable population in Sri Lanka.
+
+...
+
+[Data](articles/aba9e7ee.json)
 
 ---
 
@@ -2243,53 +2313,5 @@ Members of the public are urged to take adequate precautions to minimize damages
 [Data](articles/2b063a78.json)
 
 [Extended Data](ext_articles/2b063a78.ext.json)
-
----
-
-### Absolute independence is the bane for CBSL enhanced salary revision
-
-*2024-03-22 05:55:53* · [`dailyftlk`](https://www.ft.lk/columns/Absolute-independence-is-the-bane-for-CBSL-enhanced-salary-revision/4-759810) · `en`
-
-The enormous independence given to the CBSL in the determination of salaries of its employees has been the bane for this unethical and anomalous situation
-
-The famous dictum made by John Acton, a British jurist (1887) that absolute corruption corrupts absolutely comes to my mind when I read the unilateral decision taken by the Central Bank of Sri Lanka (CBSL) in granting an obnoxious salary revision (70%) to its employees across the board, behind the cover of the unfettered autonomy and independent status given to the CBSL by Act No. 16 of 2023. One could argue whether the CBSL’s sense of morality has lessened to such a low ebb with the discretionary powers it has secured with the new Act at a time when the CBSL itself had declared the country as a bankrupt state in terms of economic and financial terms.
-
-...
-
-[Data](articles/781f28a4.json)
-
-[Extended Data](ext_articles/781f28a4.ext.json)
-
----
-
-### Meeting in Court; COPE; poem read at Oscar Awards 76
-
-*2024-03-22 05:54:00* · [`islandlk`](http://island.lk/meeting-in-court-cope-poem-read-at-oscar-awards-76/) · `en`
-
-One of two headlines in The Island of Monday March 18 was “Let’s meet in court, JVP tells Rohitha.” The proposer JVP will be represented by former COPE Chairman Sunil Handunetti and Vijitha Herath and of course Rohitha is Abeygunawardena, always in the news. The challenge is consequent to the newly appointed Chairman/COPE threatening to bring legal action against Vijitha Herath who, Rohitha accuses, made a defamatory statement against him. Handunetti states: “We accept the challenge and dare Abeygunawardena to go before the courts. We will get an opportunity to prove all allegations against him.”
-
-Will Rohitha A institute legal action against these two stalwarts of the JVP? Cassandra places a sure bet: he won’t. Our politicians usually threaten to go to courts but definitely fight shy of doing so. If they are as white as their kapati suits, they need not fear appearing in any court or public forum. But many have skeletons rattling in their cupboards. And they rattle loud and clear.
-
-...
-
-[Data](articles/fd9cf247.json)
-
-[Extended Data](ext_articles/fd9cf247.ext.json)
-
----
-
-### Economic recovery must become more broad-based
-
-*2024-03-22 05:49:13* · [`dailyftlk`](https://www.ft.lk/columns/Economic-recovery-must-become-more-broad-based/4-759809) · `en`
-
-President Wickremesinghe with China Communications Construction Company (CCCC) Chairman Wang Tongzhou. CCCC through CHEC Port City Colombo, has invested $ 1.4 billion on Port City Colombo and committed a further $ 300 million. FDI and exports are key to Sri Lanka’s economic recovery
-
-Sri Lanka is now clearly emerging from an unprecedented economic crisis that imposed significant hardships on its people, especially the most vulnerable. There are now some clear signs of recovery. The IMF has projected that the economy will expand in 2024 and that growth will accelerate. Tight borrowing conditions and reduced disposable income still holds back domestic consumption whilst the reform momentum is hurting the poor in some ways.
-
-...
-
-[Data](articles/a8883938.json)
-
-[Extended Data](ext_articles/a8883938.ext.json)
 
 ---

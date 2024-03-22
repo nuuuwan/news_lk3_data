@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 23:52:12**
+As of **2024-03-23 00:03:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,334
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,615 (100.0%) of 14,616 articles have been extended.
+14,616 (100.0%) of 14,616 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Russia’s Defense Ministry said it had “launched a massive strike” on Ukrai
 ...
 
 [Data](articles/6532244c.json)
+
+[Extended Data](ext_articles/6532244c.ext.json)
 
 ---
 

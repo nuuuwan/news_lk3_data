@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 16:18:01**
+As of **2024-03-22 16:33:33**
 
 ## Newspaper Stats
 
-*Scraped **14,570** Articles*
+*Scraped **14,571** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,65 @@ adaderanalk | 1,743
 tamilmirrorlk | 1,754
 virakesarilk | 2,059
 dailymirrorlk | 2,235
-adaderanasinhalalk | 2,324
+adaderanasinhalalk | 2,325
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,568 (100.0%) of 14,570 articles have been extended.
+14,570 (100.0%) of 14,571 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### Minister Douglas pledged food avoidance struggle to abandon!
+
+*2024-03-22 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179438) · `ta`
+
+Minister Douglas Devananda pledged to end the food avoidance struggle and stop Indian fishermen, visiting the protest on the fourth day. He discussed with Tamil Nadu and Pondicherry Chief Ministers on controlling Indian fishermen. Pondicherry's Chief Minister pledged to prevent fishermen from crossing the border, while Tamil Nadu's Chief Minister is ready to send a letter to the Election Commission. Devananda defended the arrest of Indian fishermen crossing the border, stating it's why India views him as an enemy. He promised to support the fishermen if India shows favorable signals.
+
+🟩
+
+The four -day food skipper, demanding the stopping of Indian fishermen, was abandoned by Minister Douglas Devananda's pledge.
+
+Fishermen from the Jaffna district started a four -warfed protest campaign near the Indian Embassy in Jaffna last Tuesday.
+
+Minister Douglas Devananda, who visited the fourth day of the protest today, spoke to the Chief Minister of Tamil Nadu and Pondicherry on the control of the Indian transgressors.
+
+The Chief Minister of Pondicherry has made a written pledge to prevent fishermen crossing the border.
+
+The Chief Minister of Tamil Nadu has said that he is ready to send a letter and sends a letter to the Election Commission with the election.
+
+Indian parties have called on the fisherman's problem. I have told them.
+
+What my position said was that the Indian fishermen crossing the border were arrested and put before the law.
+
+This is why India sees me as an enemy.
+
+Therefore, when the Indian side showed favorable signals, I will stand up for the fishermen's side, ”he added.
+
+...
+
+[Data](articles/a618747c.json)
+
+[Extended Data](ext_articles/a618747c.ext.json)
+
+---
+
+### පාස්කු ප්‍රහාරය කවුද කළේ කියලා ඇත්තටම මම දන්නවා...-මෛත්‍රී
+
+*2024-03-22 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194821) · `si`
+
+අධිකරණයකින් නියෝග කරන්නේ නම් හෝ විමසන්නේ නම් පාස්කු ප්‍රහාරයට සම්බන්ධ හා වගකිවයුතු සියලුදෙනා පිළිබඳ තොරතුරු හෙළි කිරීමට තමා සූදානම් බව හිටපු ජනාධිපති පාර්ලිමේන්තු මන්ත්‍රී මෛත්‍රිපාල සිරිසේන මහතා පවසයි.
+
+අස්ගිරි මහා විහාර ඓතිහාසික ගෙඩිගේ රජමහා විහාර නව ධර්ම මන්දිරය විවෘත කිරීමේ අවස්ථාවට ප්‍රධාන ආරාධිත වශයෙන් අද (22) දින එක් වූ ඒ මහතා මාධ්‍යයට අදහස් පළ කරමින් මේ බව කියා සිටියේය.
+
+...
+
+[Data](articles/12bce114.json)
+
+---
 
 ### Navy apprehends 32 more Indian fishermen poaching in Sri Lankan waters
 
@@ -47,6 +95,8 @@ Two Indian poaching trawlers were first impounded along with 07 Indian fishermen
 ...
 
 [Data](articles/60e47469.json)
+
+[Extended Data](ext_articles/60e47469.ext.json)
 
 ---
 
@@ -109,40 +159,6 @@ For this purpose, it has been decided to carry out educational activities on 06.
 [Data](articles/7cbaf8f8.json)
 
 [Extended Data](ext_articles/7cbaf8f8.ext.json)
-
----
-
-### Minister Douglas pledged food avoidance struggle to abandon!
-
-*2024-03-22 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179438) · `ta`
-
-Minister Douglas Devananda pledged to end the food avoidance struggle and stop Indian fishermen, visiting the protest on the fourth day. He discussed with Tamil Nadu and Pondicherry Chief Ministers on controlling Indian fishermen. Pondicherry's Chief Minister pledged to prevent fishermen from crossing the border, while Tamil Nadu's Chief Minister is ready to send a letter to the Election Commission. Devananda defended the arrest of Indian fishermen crossing the border, stating it's why India views him as an enemy. He promised to support the fishermen if India shows favorable signals.
-
-🟩
-
-The four -day food skipper, demanding the stopping of Indian fishermen, was abandoned by Minister Douglas Devananda's pledge.
-
-Fishermen from the Jaffna district started a four -warfed protest campaign near the Indian Embassy in Jaffna last Tuesday.
-
-Minister Douglas Devananda, who visited the fourth day of the protest today, spoke to the Chief Minister of Tamil Nadu and Pondicherry on the control of the Indian transgressors.
-
-The Chief Minister of Pondicherry has made a written pledge to prevent fishermen crossing the border.
-
-The Chief Minister of Tamil Nadu has said that he is ready to send a letter and sends a letter to the Election Commission with the election.
-
-Indian parties have called on the fisherman's problem. I have told them.
-
-What my position said was that the Indian fishermen crossing the border were arrested and put before the law.
-
-This is why India sees me as an enemy.
-
-Therefore, when the Indian side showed favorable signals, I will stand up for the fishermen's side, ”he added.
-
-...
-
-[Data](articles/a618747c.json)
-
-[Extended Data](ext_articles/a618747c.ext.json)
 
 ---
 
@@ -486,23 +502,29 @@ He said that he never found dead dogs because of the high heat.
 
 ---
 
-### කුඩයක් අරන් යන්න හෙට තද වැසි
+### Tomorrow Tomorrow Tomorrow Tomorrow Tomorrow
 
 *2024-03-22 14:11:57* · [`adalk`](https://www.ada.lk/breaking_news/කුඩයක්-අරන්-යන්න-හෙට-තද-වැසි/11-408757) · `si`
 
-හෙට දිනයේදී (2024 .03 .23) දිවයිනේ බොහෝ ප්‍රදේශ සඳහා වැසි ලැබෙනු අතැයි කාලගුණ විද්‍ය දෙපාර්ථමේනතුව දැනුම්දී සිටියි.
+Tomorrow, heavy rain and thundershowers are expected across many parts of Sri Lanka, including the Hambantota district, Western, Sabaragamuwa, Central, and North Western Provinces, with heavy rains exceeding 75mm.
 
-නැගෙනහිර සහ ඌව පළාත්වලත් හම්බන්තොට දිස්ත්‍රක්කයේත් විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+🟩
 
-දිවයිනේ ‌සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+The demeanon of the weather has been informed that the rain will be given to many parts of the island tomorrow (2024 .03.03.3).
 
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වල ඇතැම් ස්ථාන වලට මි. මී. 75ට වැඩි තරමක තද වැසි ඇතිවිය හැක.
+Showers or thundershowers will occur at several places in the Hambantota district and in the Hambantota district.
 
-මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලහේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+Thundershowers will develop at several places in the evening or night during the evening or night.
+
+Some places in the Western, Sabaragamuwa, Central and North Western Provinces. Mee. Heavy rains can occur at more than 75.
+
+Some locations in some places in the Central, Sabaragamuwa and Uva provinces and in the Galle and Matara districts are expected to be met.
 
 ◼️
 
 [Data](articles/05e67b38.json)
+
+[Extended Data](ext_articles/05e67b38.ext.json)
 
 ---
 
@@ -2291,27 +2313,5 @@ The incident was reported from the area of the Diyakelewa area last night.
 [Data](articles/0fc19a4b.json)
 
 [Extended Data](ext_articles/0fc19a4b.ext.json)
-
----
-
-### Basil says talks with Ranil positive,will General Election come first ?
-
-*2024-03-22 06:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Basil-says-talks-with-Ranil-positive-will-General-Election-come-first/108-279367) · `en`
-
-Colombo, March 21 (Daily Mirror) - In the wake of calls for a snap general election , Sri Lanka Podujana Peramuna (SLPP) stalwart Basil Rajapaksa who held a one on one meeting with President Ranil Wickremesinghe yesterday said talks ended on a positive note and they decided to consult their respective parties before reaching any finality .
-
-Asked whether they decided to have the parliamentary elections first , Mr. Rajapaksa declined to give a direct answer but said the outcome was positive .
-
-He said the SLPP Executive Committee would meet on March 27 to discuss what was agreed with the President. The President will also refer the matter to his United National Party( UNP).
-
-“We will meet again within a week after consulting our parties , “ he said .
-
-Earlier , Mr. Rajapaksa asked for a snap general election ahead of the presidential election .
-
-◼️
-
-[Data](articles/68e29d60.json)
-
-[Extended Data](ext_articles/68e29d60.ext.json)
 
 ---

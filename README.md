@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 19:33:15**
+As of **2024-03-22 19:51:13**
 
 ## Newspaper Stats
 
-*Scraped **14,590** Articles*
+*Scraped **14,592** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,42 @@ newsfirstlk | 363
 dailyftlk | 776
 economynextcom | 782
 islandlk | 797
-adalk | 1,256
+adalk | 1,257
 adaderanalk | 1,746
 tamilmirrorlk | 1,755
 virakesarilk | 2,060
 dailymirrorlk | 2,241
-adaderanasinhalalk | 2,329
+adaderanasinhalalk | 2,330
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,589 (100.0%) of 14,590 articles have been extended.
+14,590 (100.0%) of 14,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### ගැහැණු දරුවෙක් සිය කැමැත්තෙන් ලිංගික සබඳතාවයක් පැවැත්වුවොත්...?
+
+*2024-03-22 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194826) · `si`
+
+වයස අවුරුදු 14ත් 16ත් අතර ගැහැණු දරුවෙකු සිය කැමැත්ත සහිතව වයස අවුරුදු 22ට අඩු පුද්ගලයෙකු සමග ලිංගික සබඳතාවක් පැවැත්වුහොත් ඊට ලබාදෙන දඬුවම ලිහිල් කිරීමට අදාළව රජය ගෙනඒමට යෝජිත සංශෝධන වහා හකුළා ගත යුතු බව පාර්ශ්ව රැසක් පෙන්වා දෙයි.
+
+දණ්ඩනීති සංග්‍රහයේ 19 වැනි පරිච්ඡේදය සංශෝධනය කිරීම සඳහා වූ පනත් කෙටුම්පතක් පසුගිය පෙබරවාරි 13 වැනිදා ගැසට් මඟින් ප්‍රකාශයට පත්කර තිබිණි.
+
+අධිකරණ බන්ධනාගාර කටයුතු සහ ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ආචාර්ය විජයදාස රාජපක්ෂ මහතාගේ නියමය පරිදි එය ප්‍රකාශයට පත්කර තිබුණේ දණ්ඩ නීති සංග්‍රහයේ 363 සහ 364 සංශෝධනය කරමිනි.
+
+යෝජිත සංශෝධනයට අනුව වයස අවුරුදු 14ත් 16ත් අතර ගැහැණු දරුවෙකු වයස අවුරුදු 22කට අඩු පුද්ගලයෙකු සමඟ සිය කැමැත්ත සහිතව ලිංගික සබඳතාවක් පැවැත්වුහොත් දඬුවම ලිහිල් කිරීමට මෙමඟින් යෝජනා කර තිබේ.
+
+කෙසේ වෙතත් ඊට එකඟ නොවන බව ජාතික ළමා ආරක්ෂක අධිකාරිය අධිකරණ අමාත්‍යවරයාට සහ පාර්ලිමේන්තුවට ලිඛිතව දැනුම්දී තිබේ.
+
+...
+
+[Data](articles/638ab158.json)
+
+---
 
 ### Uganda’s president appoints son as military chief
 
@@ -49,6 +69,8 @@ Kainerugaba has long been viewed as being prepared to take over the presidency f
 ◼️
 
 [Data](articles/6c69db7b.json)
+
+[Extended Data](ext_articles/6c69db7b.ext.json)
 
 ---
 
@@ -111,6 +133,24 @@ Later, the Supreme Court also ordered that further consideration of the petition
 [Data](articles/4e60d928.json)
 
 [Extended Data](ext_articles/4e60d928.ext.json)
+
+---
+
+### කමිඳු හා ධනංජය ලංකාව ඉදිරියෙන් තබති
+
+*2024-03-22 17:53:49* · [`adalk`](https://www.ada.lk/sports/කමිඳු-හා-ධනංජය-ලංකාව-ඉදිරියෙන්-තබති/9-408761) · `si`
+
+සත්කාරක බංග්ලාදේශ කණ්ඩායම සමගින් පැවැත්වෙන පළමු ‌ටෙස්ට් තරගයේ පළමු දිනය නිමා කරන විට තරගයේ ‌වැඩි ගෞරව ශ්‍රී ලංකාවට හිමිකර ගැනීමට ශ්‍රී ලංකාව සමත්විය.
+
+තරගයේ මුලින්ම පන්දුවට පහරදුන්ශ්‍රී ලංකා කණ්ඩායම ලකුණු 280ට දැවී ගියේය. ශ්‍රී ලංකා ඉනිමේ මුල් කඩුලු පහ ලකුණු 57ක් තුළ දැවි ගියත් නායක ධනංජය ද සිල්වා (102) හා කමිඳු මෙන්ඩිස් (102) හයවැනි කඩුල්ලට ලකුණු 202ක විශිෂ්ඨ සබඳවත් පවත්මින් ශ්‍රී ලංකා ඉනිම ලකුණු 259ක් දක්වා රැගෙන ගියේය.
+
+ඉන් අනතුරුව කමිඳු මෙන්ඩිස් ලකුණු 259දී දැවී ගිය අතර අනෙක් කඩුලු 4 බිඳ වැටීම ලකුණු 21ක් තුල සිදුවිය.
+
+පිළිතුරු ඉනිම ක්‍රීඩා කරන බංග්ලාදේශ කණ්ඩායම පළමු දිනයට තරගය නිමා කරන විට කඩුලු තුනක් දැවී ලකුණු 32ක් රැස්කරගෙන සිටියි.
+
+◼️
+
+[Data](articles/d48bd3bd.json)
 
 ---
 
@@ -2259,45 +2299,5 @@ The Colombo Stock Exchange opened up: the All Share Price Index was up 0.02 perc
 [Data](articles/97999acb.json)
 
 [Extended Data](ext_articles/97999acb.ext.json)
-
----
-
-### Parliamentary proceedings begun
-
-*2024-03-22 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194805) · `si`
-
-Parliamentary proceedings have started, with the Deputy Speaker leading the Hon. activities.
-
-🟩
-
-The Deputy Speaker has commenced the activities of the Hon.
-
-◼️
-
-[Data](articles/59a9501c.json)
-
-[Extended Data](ext_articles/59a9501c.ext.json)
-
----
-
-### Police offer cash rewards for information provided on illegal firearms, organized criminals
-
-*2024-03-22 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98120/police-offer-cash-rewards-for-information-provided-on-illegal-firearms-organized-criminals) · `en`
-
-Sri Lanka Police have decided to offer cash prizes to individuals who provide information about illegal firearms used by organized criminal gang members.
-
-In parallel to the ongoing ‘Yukthiya’ exercise to eradicate drug distribution initiated in late December 2023, the police launched a special police operation on March 19 in a bid to crack down on organized crimes.
-
-Accordingly, 20 special police teams – each consisting of nine personnel including one Crimes OIC, four intelligence officers and two Special Task Force (STF) personnel – were deployed in Western Province and Galle District.
-
-Inspector-General of Police (IGP) Deshabandu Tennakoon has decided to award crash prizes to any individual who tip the police off on firearms and organized criminal gang members.
-
-In addition, as many as 46 contact numbers were also introduced for the members of the public to provide relevant information.
-
-...
-
-[Data](articles/6346999e.json)
-
-[Extended Data](ext_articles/6346999e.ext.json)
 
 ---

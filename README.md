@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 06:53:40**
+As of **2024-03-22 07:16:03**
 
 ## Newspaper Stats
 
-*Scraped **14,446** Articles*
+*Scraped **14,449** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,72 @@ adalk | 1,246
 adaderanalk | 1,732
 tamilmirrorlk | 1,742
 virakesarilk | 2,028
-dailymirrorlk | 2,217
-adaderanasinhalalk | 2,301
+dailymirrorlk | 2,218
+adaderanasinhalalk | 2,303
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,429 (99.9%) of 14,446 articles have been extended.
+14,434 (99.9%) of 14,449 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### කාන්තාවක් ඝාතනය කරයි
+
+*2024-03-22 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194798) · `si`
+
+පවුල් ආරවුලක් දුරදිග යෑමෙන් 40 හැවිරිදි සැමියෙක් 33 හැවිරිදි බිරිඳට තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+
+මෙම සිද්ධිය වාර්තා වී ඇත්තේ ඊයේ (21) රාත්‍රියේදී බිංගිරිය දියකෙලියාව ප්‍රදේශයෙනි.
+
+◼️
+
+[Data](articles/0fc19a4b.json)
+
+---
+
+### Basil says talks with Ranil positive,will General Election come first ?
+
+*2024-03-22 06:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Basil-says-talks-with-Ranil-positive-will-General-Election-come-first/108-279367) · `en`
+
+Colombo, March 21 (Daily Mirror) - In the wake of calls for a snap general election , Sri Lanka Podujana Peramuna (SLPP) stalwart Basil Rajapaksa who held a one on one meeting with President Ranil Wickremesinghe yesterday said talks ended on a positive note and they decided to consult their respective parties before reaching any finality .
+
+Asked whether they decided to have the parliamentary elections first , Mr. Rajapaksa declined to give a direct answer but said the outcome was positive .
+
+He said the SLPP Executive Committee would meet on March 27 to discuss what was agreed with the President. The President will also refer the matter to his United National Party( UNP).
+
+“We will meet again within a week after consulting our parties , “ he said .
+
+Earlier , Mr. Rajapaksa asked for a snap general election ahead of the presidential election .
+
+◼️
+
+[Data](articles/68e29d60.json)
+
+---
+
+### අද ගිගුරුම් සහිත වැසි
+
+*2024-03-22 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194796) · `si`
+
+අද (22) දිනයේ නැගෙනහිර, ඌව, උතුරු-මැද සහ උතුරු පළාත්වල වැසිවාර කිහිපයක් ඇතිවෙන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+දිවයිනේ සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වල ඇතැම් ස්ථානවලට මි. මී. 50ට වැඩි තරමක තද වැසි ඇති වෙයි.
+
+මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරෙයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද  කරයි.
+
+◼️
+
+[Data](articles/17a927fd.json)
+
+---
 
 ### Fairly heavy rainfall expected in 3 provinces including Western
 
@@ -50,6 +104,8 @@ Members of the public are urged to take adequate precautions to minimize damages
 
 [Data](articles/2b063a78.json)
 
+[Extended Data](ext_articles/2b063a78.ext.json)
+
 ---
 
 ### Absolute independence is the bane for CBSL enhanced salary revision
@@ -63,6 +119,8 @@ The famous dictum made by John Acton, a British jurist (1887) that absolute corr
 ...
 
 [Data](articles/781f28a4.json)
+
+[Extended Data](ext_articles/781f28a4.ext.json)
 
 ---
 
@@ -78,6 +136,8 @@ Will Rohitha A institute legal action against these two stalwarts of the JVP? Ca
 
 [Data](articles/fd9cf247.json)
 
+[Extended Data](ext_articles/fd9cf247.ext.json)
+
 ---
 
 ### Economic recovery must become more broad-based
@@ -91,6 +151,8 @@ Sri Lanka is now clearly emerging from an unprecedented economic crisis that imp
 ...
 
 [Data](articles/a8883938.json)
+
+[Extended Data](ext_articles/a8883938.ext.json)
 
 ---
 
@@ -221,6 +283,8 @@ The release added: ‘The anniversary festivities commenced with solemn religiou
 ...
 
 [Data](articles/3b8fadb8.json)
+
+[Extended Data](ext_articles/3b8fadb8.ext.json)
 
 ---
 
@@ -2073,59 +2137,5 @@ Subsequently, the court ordered to be called on April 2 in April.
 [Data](articles/09c6a538.json)
 
 [Extended Data](ext_articles/09c6a538.ext.json)
-
----
-
-### Students in North, East to get Spot Admissions to study in UK, Canada & Germany
-
-*2024-03-21 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Students-in-North-East-to-get-Spot-Admissions-to-study-in-UK-Canada-Germany/108-279327) · `en`
-
-Colombo, March 21 (Daily Mirror) - The International Centre for Foreign Studies (ICFS) is set to host a special spot admissions program for students, especially in the North and East provinces, who aspire to pursue higher education opportunities in countries such as Canada, the United Kingdom and Germany for the upcoming September 2024 intake.
-
-Chathurika Dissanayake, the CEO of ICFS Education Center said they plan to host a special two-day program called 'Project Education Yalpanan' on March 30 and 31 at the Jetwing Hotel in Jaffna, free of charge.
-
-"There have been many overseas university representatives coming to Colombo, and there are numerous education events and exhibitions happening in and around Colombo. However, these types of events often do not reach Jaffna. We understand that there are many talented, qualified students in Jaffna who are capable of seeking these overseas opportunities," she said.
-
-...
-
-[Data](articles/51a8e02e.json)
-
-[Extended Data](ext_articles/51a8e02e.ext.json)
-
----
-
-### IMF reaches staff-level agreement with SL on second review
-
-*2024-03-21 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-reaches-staff-level-agreement-with-SL-on-second-review/108-279326) · `en`
-
-The IMF team reached staff-level agreement with the Sri Lankan authorities on the second review under the economic reform program supported by a 4-year Extended Fund Facility (EFF) arrangement and concluded the 2024 Article IV Consultation discussions.
-
-Addressing the media, IMF Senior Mission Chief Peter Breuer said the staff-level agreement is subject to the approval by IMF management and the IMF Executive Board in the period ahead.
-
-The approval will depend on the implementation by the authorities of prior actions, the completion of financing assurances review, which will focus on confirming multilateral partners’ committed financing contributions, and whether adequate progress has been made with the debt restructuring to give confidence that the restructuring will be concluded in a timely manner and in line with the program’s debt targets.
-
-...
-
-[Data](articles/adafd665.json)
-
-[Extended Data](ext_articles/adafd665.ext.json)
-
----
-
-### IMF reaches staff-level agreement with SL on second review
-
-*2024-03-21 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/IMF-reaches-staff-level-agreement-with-SL-on-second-review/155-279326) · `en`
-
-The IMF team reached staff-level agreement with the Sri Lankan authorities on the second review under the economic reform program supported by a 4-year Extended Fund Facility (EFF) arrangement and concluded the 2024 Article IV Consultation discussions.
-
-Addressing the media, IMF Senior Mission Chief Peter Breuer said the staff-level agreement is subject to the approval by IMF management and the IMF Executive Board in the period ahead.
-
-The approval will depend on the implementation by the authorities of prior actions, the completion of financing assurances review, which will focus on confirming multilateral partners’ committed financing contributions, and whether adequate progress has been made with the debt restructuring to give confidence that the restructuring will be concluded in a timely manner and in line with the program’s debt targets.
-
-...
-
-[Data](articles/d33f9397.json)
-
-[Extended Data](ext_articles/d33f9397.ext.json)
 
 ---

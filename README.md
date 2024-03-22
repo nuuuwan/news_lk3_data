@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 17:53:48**
+As of **2024-03-22 18:09:04**
 
 ## Newspaper Stats
 
-*Scraped **14,583** Articles*
+*Scraped **14,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,84 @@ newsfirstlk | 363
 dailyftlk | 776
 economynextcom | 782
 islandlk | 797
-adalk | 1,255
+adalk | 1,256
 adaderanalk | 1,745
 tamilmirrorlk | 1,755
 virakesarilk | 2,060
-dailymirrorlk | 2,237
+dailymirrorlk | 2,238
 adaderanasinhalalk | 2,328
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,580 (100.0%) of 14,583 articles have been extended.
+14,583 (100.0%) of 14,585 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### මාධ්‍ය සාකච්ඡාවට බාධා කළ සිව් දෙනෙක් අල්ලයි
+### Seamers put Sri Lanka in control as Bangladesh chase 280
+
+*2024-03-22 17:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Seamers-put-Sri-Lanka-in-control-as-Bangladesh-chase-280/108-279409) · `en`
+
+Sylhet, Mar. 22 (AFP) - Dhananjaya de Silva and Kamindu Mendis both hit knocks of 102 to help Sri Lanka post 280 in their first innings before their seamers rattled Bangladesh on the opening day of the first Test in Sylhet on Friday.
+
+Bangladesh finished the day 32-3, trailing Sri Lanka by 248 runs, with Vishwa Fernando and Kasun Rajitha striking early in the innings for the visitors.
+
+Fernando trapped opener Zakir Hasan (nine) and Najmul Hossain (five) lbw with identical in-swinging deliveries, while Rajitha got Mominul Haque caught for five.
+
+Opener Mahmudul Hasan survived the day on nine alongside Taijul Islam, who was yet to open scoring.
+
+De Silva and Mendis fought back with their 202-run stand for the fifth wicket, helping Sri Lanka recover from a precarious 57-5 after a pace demolition of their top order.
+
+Khaled Ahmed and Nahid Rana took three wickets apiece for Bangladesh, who opted to bowl first on a green surface.
+
+...
+
+[Data](articles/4278bf72.json)
+
+---
+
+### පාස්කු ප්‍රහාරය කළේ කවුද කියලා දන්නවා
+
+*2024-03-22 17:24:37* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරය-කළේ-කවුද-කියලා-දන්නවා/11-408760) · `si`
+
+පාස්කු ප්‍රහාරය සිදු කළේ කවුරුන්දැයි තමන් දන්නා බවත් අධිකරණය නියෝගයක් කරන්නේ නම් තමන් රහසිගත ප්‍රකාශයක් විනිසුරුවරුන් හමුවේ කිරීමට සූදානම් යැයි හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතා පවසයි.
+
+අස්ගිරි මහා විහාර ඓතිහාසික ගෙඩිගේ රජමහා විහාර නව ධර්ම මන්දිරය විවෘත කිරීමේ අවස්ථාවට ප්‍රධාන ආරාධිත වශයෙන් අද (22) දින එක්වෙමින් මාධ්‍ය වේදීන් යොමුකළ ප්‍රශ්නවලට පිළිතුරු දෙමින් ඔහු මේ බව පැවැසීය.
+
+"මම අවුරුදු පහකට මාස එක හමාරකට අඩු කාලයක් ආණ්ඩු කළේ ආණ්ඩුවත් විපක්ෂයත් නැතිව. 19 වැනි සංශෝධනයෙන් මගේ බලතල නැතිව ගියා. මම කැමැත්තෙන් තමයි ඒවා දුන්නේ. නමුත් මම හිතුවේ නෑ ඒවා වැරදි විදිහට බලය ගන්න අය භාවිත කරයි කියලා. ඒක නිසා ආණ්ඩුව හා විපක්ෂය දෙකම එකතු වෙලා මට පහරදෙන්න පටන් ගත්තා.
+
+පස්සේ පාස්කු ප්‍රහාරය ආවා. පාස්කු ප්‍රහාරයත් අපි දන්නවා කොහෙන්ද සිදු වුණේ කියලා. ඔය නඩු අහන ඒවායේ අලල්ලා තියෙන ත්‍රස්තවාදියෝ හරි. මම අල්ලපු අය තමයි ඔය නඩු අහන්නෙත් විනිසුරු මඩුල්ලක් මගින්. අනිත් පැත්තෙන් මේ පාස්කු ප්‍රහාරය කවුද කළේ කියලා කවුරුවත් කියලා නෑ.
+
+...
+
+[Data](articles/58a8ebd3.json)
+
+---
+
+### Four persons arrested for interruption with media discussion
 
 *2024-03-22 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194824) · `si`
 
-කොළඹ, මහජන පුස්තකාල ශ්‍රවණාගාරයේ පැවති වෘත්තීය සමිති මාධ්‍ය සාකච්ඡාවකට බාධා කළ බාහිර පුද්ගලයින් සිව් දෙනෙක් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Four individuals were arrested for disrupting a media discussion organized by the Sri Lanka Administrative Service Association at the Public Library Auditorium in Colombo.
 
-ශ්‍රී ලංකා පරිපාලන සේවා සංගමය මගින් එම සමිති මාධ්‍ය සාකච්ඡාව සංවිධානය කර තිබුණි.
+🟩
 
-මාධ්‍ය සාකච්ඡාව අතරතුර බාහිරින් පැමිණි පිරිසක් මාධ්‍ය සාකච්ඡාවට බාධා කළේය.
+Four external people have been arrested by the police who interfered with a foreign union discussion held at the Public Library Auditorium in Colombo.
 
-එවිත බාධා කළ පිරිස එම ස්ථානයෙන් දිවගිය අතර ඔවුන් ව හඹා ගොස් ඉන් සිව් දෙනෙක්ව අත්අඩංගුවට ගැනීමට කුරුඳුවත්ත පොලීසියේ නිලධාරීන් සමත් විය.
+The unions discussed by the Sri Lanka Administrative Service Association organized the media discussion.
+
+During the press conference, a group of people outside the press conference interrupted the press conference.
+
+The hurdles were present at the area and they were chased into the arrest of four of them.
 
 ◼️
 
 [Data](articles/d601f45f.json)
+
+[Extended Data](ext_articles/d601f45f.ext.json)
 
 ---
 
@@ -74,25 +120,31 @@ However, he said the judges should be tightened by the confidentiality of these 
 
 ---
 
-### පළමු දිනයේ වාසිය ශ්‍රී ලංකාවට
+### To benefit first day
 
 *2024-03-22 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194823) · `si`
 
-ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවැත්වෙන පළමු ටෙස්ට් තරගයේ පළමු දිනයේ වැඩි වාසි හිමිකර ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+Sri Lanka won the first Test match against Bangladesh, scoring 280 runs with Dhananjaya de Silva and Kamindu Mendis contributing 102 runs each. Bangladesh scored 32 runs.
 
-සිලේට් හි පැවැත්වෙන මෙම තරගයේ කාසියේ වාසිය දිනාගැනීමට සත්කාරක බංග්ලාදේශ කණ්ඩායම සමත් වුණි.
+🟩
 
-ඒ අනුව ඔවුන් පළමුව පන්දුවට පහරදීම සඳහා ශ්‍රී ලංකා කණ්ඩායමට ආරාධනා කළේය.
+Sri Lanka won the first day of the first Test match between Sri Lanka and Bangladesh.
 
-ශ්‍රී ලංකා කණ්ඩායම සිය පළමු ඉනිම සඳහා ලකුණු 280ක් රැස් කළේය.
+The host Bangladesh was able to win the coin of the match in Selete.
 
-එහිදී නායක ධනංජය ද සිල්වා සහ කමිඳු මෙන්ඩිස් ශ්‍රී ලංකාව වෙනුවෙන් ලකුණු 102 බැගින් රැස් කළහ.
+Accordingly, they invited the Sri Lankan team to bat first.
 
-තරගය පළමු දිනය සඳහා නිමා කරන විට බංග්ලාදේශ කණ්ඩායම සිය පළමු ඉනිම සඳහා කඩුලු 3ක් දැවී ලකුණු 32යි.
+Sri Lanka scored 280 runs for their first innings.
+
+Leader Dhananjaya de Silva and Kamindu Mendis scored 102 runs for Sri Lanka.
+
+Bangladesh team scored 32 runs for the loss of 3 wickets for their first innings.
 
 ◼️
 
 [Data](articles/18c53165.json)
+
+[Extended Data](ext_articles/18c53165.ext.json)
 
 ---
 
@@ -100,9 +152,7 @@ However, he said the judges should be tightened by the confidentiality of these 
 
 *2024-03-22 17:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-rainfall-above-75mm-expected-across-multiple-provinces/108-279407) · `en`
 
-Colombo, March 22 (Daily Mirror) - Residents in Western, Sabaragamuwa, Central, and North-western Provinces are urged to brace for heavy showers above 75mm during next 36 hours.
-
-According to meteorological reports, these regions are likely to experience fairly heavy downpours.
+Colombo, March 22 (Daily Mirror) - Residents across the Western, Sabaragamuwa, Central and North-Western Provinces are urged to brace for heavy showers above 75mm during next 36 hours.According to meteorological reports, these regions are likely to experience fairly heavy downpours.
 
 In addition to these areas, intermittent showers or thundershowers are predicted for Eastern and Uva provinces, as well as the Hambanthota district.
 
@@ -236,17 +286,23 @@ Accordingly, a total of 27 suspects have been arrested in the 03 days since the 
 
 ---
 
-### ජල පෝෂක ප්‍රදේශවලට තද වැසි
+### Heavy rains in catchment areas
 
 *2024-03-22 16:27:42* · [`adalk`](https://www.ada.lk/breaking_news/ජල-පෝෂක-ප්‍රදේශවලට-තද-වැසි/11-408759) · `si`
 
-මධ්‍යම කදුකරයේ බටහිර බැවුම් ප්‍රදේශවල පුරා මාස දෙකකට ආසන්න කාලයක් පැවති අධික වියළි කාලගුණ තත්ත්වය අවසන් කරමින් (22) දින පස්වරුවේ කාසල්රි ජලාශයේ ප්‍රධාන ජල පෝෂක ප්‍රදේශවලට තද වැසි පතිත විය.
+Heavy rains in Castlerero, Boydansa, Hatton, Dickoya, and Norwood areas, ending two-month dry spell, causing severe drinking water shortage.
 
-එසේම බගවන්තලාව , හැටන් , දික්ඔය සහ නොර්වුඩ් යන ප්‍රදේශවලට තද වැසි පතිත විය. පැවති අධික වියළි කාලගුණය හේතුවෙන් එම ප්‍රදේශවල ජල මුලාශ සිදියාම නිසා උග්‍ර පානිය ජල ගැටළුවක්ද මතු වි තිබුණි.
+🟩
+
+Heavy rains demonstrated in the main catchment areas of the Castlerero (22) after the end of nearly two months.
+
+Similarly rain fell in Boydansa, Hatton, Dickoya and Norwood. There was a severe drinking water due to the heavy dry weather.
 
 ◼️
 
 [Data](articles/a70897d8.json)
+
+[Extended Data](ext_articles/a70897d8.ext.json)
 
 ---
 
@@ -2259,45 +2315,5 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 [Data](articles/fad7b0a6.json)
 
 [Extended Data](ext_articles/fad7b0a6.ext.json)
-
----
-
-### Money gift to the public;News published by the police
-
-*2024-03-22 09:03:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுமக்களுக்கு-பணம்-பரிசு-பொலிஸார்-வெளியிட்ட-செய்தி/175-335007) · `ta`
-
-The police have announced cash rewards for reporting guns used in drug trafficking. The Inspector General of Police has also offered a cash prize.
-
-🟩
-
-Cash prizes have been made to those who report the guns used by people involved in drug trafficking and drug trafficking.
-
-It is also stated that the Inspector General of Police has issued a cash prize for Rs.. Remble
-
-◼️
-
-[Data](articles/351509d0.json)
-
-[Extended Data](ext_articles/351509d0.ext.json)
-
----
-
-### Arun Siddharth appointed as the Jaffna District Organizer of the United National Party
-
-*2024-03-22 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179379) · `ta`
-
-Arun Siddharth, appointed Jaffna District Organizer of the United National Party, with Ravi Karunanayake and Vijayagala Maheshwaran involved. Supporters' participation in the meeting was low.
-
-🟩
-
-Ravi Karunanayake, former Finance Minister and former Finance Minister of the National Party, said at a meeting held at a private hall in Jaffna this evening.
-
-Meanwhile, former Minister of State Vijayagala Maheshwaran is the chief organizer of the Kilinochchi districts of Jaffna.It is reported that many of the party's supporters have not participated in today's meeting.
-
-◼️
-
-[Data](articles/1545957b.json)
-
-[Extended Data](ext_articles/1545957b.ext.json)
 
 ---

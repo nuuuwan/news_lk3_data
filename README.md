@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 09:52:35**
+As of **2024-03-22 10:03:02**
 
 ## Newspaper Stats
 
-*Scraped **14,473** Articles*
+*Scraped **14,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 764
 dailyftlk | 776
 islandlk | 797
 adalk | 1,246
-adaderanalk | 1,734
+adaderanalk | 1,735
 tamilmirrorlk | 1,747
-virakesarilk | 2,032
+virakesarilk | 2,036
 dailymirrorlk | 2,222
 adaderanasinhalalk | 2,310
 
@@ -26,21 +26,119 @@ adaderanasinhalalk | 2,310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,468 (100.0%) of 14,473 articles have been extended.
+14,473 (100.0%) of 14,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### පාර්ලිමේන්තු කටයුතු ඇරඹෙයි
+### அறகலய போராட்டக்காலத்தில் தான் எதிர்கொண்ட சவால்களை நாட்டு மக்களுக்கு பகிரங்கப்படுத்தினார் சபாநாயகர் !
+
+*2024-03-22 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/179383) · `ta`
+
+2022 ஆம் ஆண்டு காலப்பகுதியில் பொருளாதார நெருக்கடி தீவிரமடைந்து நாட்டில் அராஜக நிலை தோற்றம் பெற்ற போது ஒரு தரப்பினர் அரசியலமைப்புக்கு முரணாக விதத்திலாவது எனது தலைமையிலான அரசாங்கத்தை ஸ்தாபிக்குமாறு தொடர்ந்து அழுத்தம் பிரயோகித்தார்கள்.
+
+நெருக்கடிக்கு தீர்வு காணும் நோக்கம் ஒருதரப்பினரிடம் இருக்கவில்லை. மாறாக சட்டவிரோதமான அரசாங்கத்தை அமைத்து லிபியா, ஆப்கானிஸ்தான் ஆகிய நாடுகளின் சூழலை ஏற்படுத்தவே எத்தனித்தார்கள்.
+
+அரசியலமைப்புக்கு அமைய செயற்பட்டு நான் பாராளுமன்றத்தின் ஊடாக உறுதியான அரசாங்கத்தை அமைக்க முழுமையான ஒத்துழைப்பு வழங்கினேன் என்பதை நாட்டு மக்களுக்கு தெரிவித்துக் கொள்ள விரும்புகிறேன் என சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தெரிவித்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (21)  நம்பிக்கையில்லா பிரேரணை மீதான விவாதம் நிறைவடைந்ததன் பின்னர் விசேட உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+2022 ஆம் ஆண்டு காலப்பகுதியில் அரசியலமைப்பு ரீதியில் நான் பாரிய சவால்களுக்கு முகம் கொடுத்தேன் என்பதை அனைவரும் நன்கு அறிவார்கள்.
+
+...
+
+[Data](articles/01288860.json)
+
+---
+
+### கோப் குழுவிலிருந்து டிலான் விலகல்
+
+*2024-03-22 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179384) · `ta`
+
+கோப் குழுவின் தலைவராக நியமிக்கப்பட்டுள்ள  ஆளும் தரப்பின் உறுப்பினர் தொடர்பில் மக்கள் மத்தியில் நல்லதொரு நிலைப்பாடு கிடையாது, ஆகவே கோப் குழுவின் உறுப்பினர் பதவியில் இருந்து நான் விலகுகிறேன் என  பாராளுமன்ற உறுப்பினர் டிலான் பெரேரா  சபாநாயகருக்கு எழுத்து மூலமாக அறிவித்துள்ளார்.
+
+கோபா குழுவின் தலைவராக ஆளும் தரப்பின்  உறுப்பினர் ஒருவர் நியமிக்கப்பட்டுள்ளதை  அனைவரும் ஏற்றுக்கொண்டுள்ளனர். அவரும் குழுவின் செயற்பாடுகளை சிறந்த முறையில் முன்னெடுக்கிறார்.
+
+அரசாங்க பொறுப்பு முயற்சிகள் பற்றிய குழுவுக்கு (கோப்)  எதிர்க்கட்சியின் உறுப்பினர் ஒருவர் தலைவராக நியமிக்கப்பட வேண்டும் என  எதிர்க்கட்சிகளின் உறுப்பினர்கள் தொடர்ச்சியாக கோரிக்கை விடுத்தார்கள்.இருப்பினும் நீங்கள் சாதகமான தீர்மானத்தை பெற்றுக்கொடுக்கவில்லை.
+
+...
+
+[Data](articles/d71dec27.json)
+
+---
+
+### இலங்கை - இந்திய மீனவர் பிரச்சினை :   தமிழ்நாடு,பாண்டிச்சேரி முதலமைச்சர்களுடன் பேச்சுவார்த்தை    -கடற்றொழில் அமைச்சர்
+
+*2024-03-22 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/179382) · `ta`
+
+தமிழ்நாடு மற்றும் பாண்டிச்சேரி முதலமைச்சர்கள் இந்திய இழுவை மடி வலைப் படகுகளின் பிரச்சினைகள் தொடர்பில் என்னுடன்  கலந்துரையாடியுள்ளனர்.
+
+முதலமைச்சர்களைச் சந்தித்து கலந்துரையாடுவது தொடர்பிலும் ஒரு சூழல் உருவாகி வருகின்றது. எனவே  வடக்கின் கடற்றொழிலாளர்கள் உண்ணாவிரத போராட்டத்தை கைவிட வேண்டுமென கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா வேண்டுகோள் விடுத்தார்.
+
+பாராளுமன்றத்தில் வியாழக்கிழமை (21) இடம்பெற்ற சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை மீதான மூன்றாம் நாள் விவாதத்தில்  உரையாற்றும் போதே  இவ்வாறு வேண்டுகோள் விடுத்தார்.
+
+இந்திய இழுவை மடி வலைப் படகுகளின் எல்லைத் தாண்டியதும், அத்துமீறியதும், தடைசெய்யப்பட்ட கடற்றொழில் உபகரணங்களைக் கொண்ட கடற்றொழில் முறைமையினாலும், பாதிக்கப்பட்டு வருகின்ற வடக்கு கடற்றொழிலாளர்களின் நிலைமைகளை உலகுக்கு எடுத்துக் காட்டும் வகையில் யாழ்ப்பாண மாவட்ட கடற்றொழிலாளர்கள் முன்னெடுத்து வருகின்ற உண்ணாவிரதப் போராட்டமானது மூன்றாவது நாளாகவும் தொடர்கிறது.
+
+...
+
+[Data](articles/ca6e7185.json)
+
+---
+
+### இளம் தம்பதிகளின் குழந்தையின்மை பிரச்சனையை பேசும் 'வெப்பம் குளிர் மழை'
+
+*2024-03-22 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/179380) · `ta`
+
+தமிழ் சமூகத்தில் வாழும் இளம் தம்பதிகள்.. தங்களின் தேனிலவு தருணங்களை ஜோடியாக கொண்டாடினாலும், அவர்களின் விருப்பத் தெரிவுகளில் முதன்மையாக இருப்பது பட மாளிகைகளுக்குச் சென்று திரைப்படத்தை கண்டு ரசிப்பது தான்.
+
+இத்தகைய தருணங்களில் அவர்களுக்கு வாழ்வில் சில விடயங்களை சூசகமாகவும், பூடகமாகவும் கற்பிப்பது திரைப்படங்களே. இதனால் ஃபேமிலி டிராமா திரைப்படங்கள் சென்டிமென்ட் மற்றும் எமோஷனுடன் காதலையும் இணைத்து சொன்னால்.. ரசிகர்கள் இன்று வரை வெற்றி பெற செய்கிறார்கள்.
+
+ரசிகர்களின் இந்த விருப்பத்தை உணர்ந்திருக்கும் இயக்குநர் பாஸ்கல் வேதமுத்து தலைமையிலான படக் குழுவினர் 'வெப்பம் குளிர் மழை' எனும் பெயரில் திரைப்படமொன்றை உருவாக்கியிருக்கிறார்கள். இதன் முன்னோட்டம் அண்மையில் வெளியாகி பெரும் வரவேற்பை பெற்றிருக்கிறது.
+
+புதுமுக நடிகர் திரவ், இஸ்மத் பானு, எம். எஸ். பாஸ்கர், ரமா, மாஸ்டர் கார்த்திகேயன், விஜயலட்சுமி மற்றும் பலர் நடித்திருக்கும் 'வெப்பம் குளிர் மழை' எனும் திரைப்படத்தை பாஸ்கல் வேதமுத்து இயக்கியிருக்கிறார்.
+
+...
+
+[Data](articles/c9e74d53.json)
+
+---
+
+### Parliamentary proceedings begun
 
 *2024-03-22 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194805) · `si`
 
-නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් මේ වනවිට පාර්ලිමේන්තු කටයුතු ආරම්භ කර තිබේ.
+Parliamentary proceedings have started, with the Deputy Speaker leading the Hon. activities.
+
+🟩
+
+The Deputy Speaker has commenced the activities of the Hon.
 
 ◼️
 
 [Data](articles/59a9501c.json)
+
+[Extended Data](ext_articles/59a9501c.ext.json)
+
+---
+
+### Police offer cash rewards for information provided on illegal firearms, organized criminals
+
+*2024-03-22 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98120/police-offer-cash-rewards-for-information-provided-on-illegal-firearms-organized-criminals) · `en`
+
+Sri Lanka Police have decided to offer cash prizes to individuals who provide information about illegal firearms used by organized criminal gang members.
+
+In parallel to the ongoing ‘Yukthiya’ exercise to eradicate drug distribution initiated in late December 2023, the police launched a special police operation on March 19 in a bid to crack down on organized crimes.
+
+Accordingly, 20 special police teams – each consisting of nine personnel including one Crimes OIC, four intelligence officers and two Special Task Force (STF) personnel – were deployed in Western Province and Galle District.
+
+Inspector-General of Police (IGP) Deshabandu Tennakoon has decided to award crash prizes to any individual who tip the police off on firearms and organized criminal gang members.
+
+In addition, as many as 46 contact numbers were also introduced for the members of the public to provide relevant information.
+
+...
+
+[Data](articles/6346999e.json)
 
 ---
 
@@ -62,61 +160,89 @@ In addition, as many as 46 contact numbers were also introduced for the members 
 
 [Data](articles/7c11f954.json)
 
+[Extended Data](ext_articles/7c11f954.ext.json)
+
 ---
 
-### கவனம் ஈர்க்கும் பிரபுதேவா நடிக்கும் 'முசாசி' பட பாடலின் காணொளி
+### Prabhu Deva's 'Muzasi' movie
 
 *2024-03-22 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179378) · `ta`
 
-'நடன புயல்' பிரபுதேவா நடிப்பில் உருவாகி வரும் 'முசாசி' எனும் திரைப்படத்திலிருந்து 'ஸ்டார்லைட் ..' எனத் தொடங்கும் பாடலும், பாடலுக்கான காணொளியும் வெளியிடப்பட்டிருக்கிறது.
+"Prabhu Deva's 'Muzasi' movie features 'Starlite' song by Leander Lee Marty, with Prabhu Deva, VTV Ganesh, John Vijay, and others. Directed by Sham Rodrigue, produced by Joy Film Box Entertainment, the film highlights Prabhu Deva's dance, attracting attention for its unique blend of Konnakol and Bharatanatyam."
 
-அறிமுக இயக்குநர் ஷாம் ரொட்ரிக்ஸ் இயக்கத்தில் உருவாகும் 'முசாசி' எனும் திரைப்படத்தில் பிரபுதேவா, வி டி வி கணேஷ், ஜான் விஜய், மாஸ்டர் மகேந்திரன், பினு பாப்பு, லியோனா லீசாய் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-விக்னேஷ் வாசு ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு லியாண்டர் லீ மார்ட்டி இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னர் ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை ஜாய் பிலிம் பாக்ஸ் என்டர்டெய்ன்மென்ட் எனும் நிறுவனம் சார்பில் தயாரிப்பாளர் ஜான் பிரிட்டோ தயாரித்திருக்கிறார்.
+The song 'Starlite ..' from the upcoming movie 'Musasi' starring Prabhu Deva has been released.
 
-இந்த திரைப்படத்தின் இடம்பெற்ற 'ஸ்டெர்லைட் கிளம்பு கிளம்பு..' எனத்தொடங்கும் பாடலும் பாடலுக்கான காணொளியும் வெளியிடப்பட்டிருக்கிறது.
+Prabhu Deva, VTV Ganesh, John Vijay, Master Mahendran, Binu Pappu, Lyona Leisai, directed by debutant director Sham Rodrigue.
 
-இந்த பாடலை பாடலாசிரியர்கள் விக்னேஷ் ஜெயபால், ஷாம் ரொட்ரிக்ஸ், அவியான், லீ ஆகியோர் எழுத, பின்னணி பாடகர்கள் லீ, கிறிஸ்டோபர் ஸ்டான்லி, சில்வி சரண், சாரு ஹரிஹரன், அவியான் ஆகியோர் இணைந்து பாடியிருக்கிறார்கள்.
+Leander Lee Marty has composed the film, which has been recorded by Vignesh Vasu. The film is being produced by Joy Film Box Entertainment, produced by John Brito, which is being prepared in Exan Entertainer Janer.
 
-...
+The song 'Sterlite Clampu Clampu ..' featured in the film has been released.
+
+The song was written by songwriters Vignesh Jayapal, Sham Rodrigue, Avian and Lee, and the playback singers Lee, Christopher Stanley, Silvi Saran, Saru Hariharan and Avian.
+
+Prabhu Deva's dance, 'Michael Jackson of India' in this song, is re -youth.. The attention of dance lovers is attracted.
+
+The song, which is also the rhythm of the top music, has attracted everyone's attention because Konnakol is featured and Prabhu Deva Bharatanatyam is different.
+
+◼️
 
 [Data](articles/a93a6020.json)
 
+[Extended Data](ext_articles/a93a6020.ext.json)
+
 ---
 
-### டெல்லி முதலமைச்சர் அரவிந்த் கெஜ்ரிவால் கைது
+### Delhi Chief Minister Arvind Kejriwal arrested
 
 *2024-03-22 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179381) · `ta`
 
-டெல்லி முதலமைச்சர் அரவிந்த் கெஜ்ரிவால் மதுபான கொள்கை விவகாரத்தில் ஊழல் குற்றச்சாட்டுகள் தொடர்பாக இந்தியாவின் நிதிக் குற்றவியல் பிரிவினால் கைது செய்யப்பட்டுள்ளார் என அவரது கட்சி தெரிவித்துள்ளது.
+Arvind Kejriwal, Delhi CM, arrested by India's Financial Criminal Investigation Division for corruption in liquor policy. Kejriwal did not attend the hearing, leading to his arrest. Despite a petition for a ban on his arrest, the Delhi High Court refused, leading to his arrest.
 
-டெல்லி மதுபான கொள்கை விவகாரத்தில் விசாரணைக்கு ஆஜராகும்படி டெல்லி முதலமைச்சர்  அரவிந்த் கெஜ்ரிவாலுக்கு இந்தியாவின் நிதிக் குற்றவியல் பிரிவு பல முறை அழைப்பு விடுத்தது. இருப்பினும், அவர் விசாரணைக்கு ஆஜராகவில்லை.
+🟩
 
-இந்த வழக்கில் தான் ஏற்கனவே அம்மாநில முன்னாள் முதலமைச்சர்  மணிஷ் சிசோடியா கைது செய்யப்பட்டு சிறையில் இருக்கிறார், விசாரணைக்கு ஆஜராகாத கெஜ்ரிவால் எப்போது வேண்டுமானாலும் கைது செய்யப்படலாம் எனக் கூறப்பட்டது.
+Delhi Chief Minister Arvind Kejriwal has been arrested by India's Financial Criminal Investigation Division over corruption allegations in the liquor policy issue, his party said.
 
-தன்னை கைது செய்யத் தடை விதிக்க வேண்டும் என கெஜ்ரிவால் டெல்லி உயர்நீதிமன்றத்தில் மனுத்தாக்கல் செய்தார். இந்த வழக்கில் வியாழக்கிழமை தீர்ப்பளித்த டெல்லி உயர்நீதிமன்றம், கெஜ்ரிவாலை கைது செய்யத் தடை விதிக்க மறுத்துவிட்டது. இந்த தீர்ப்பு வந்த சில மணி நேரங்களிலேயே நிதிக் குற்றவியல் பிரிவு டெல்லி முதல்வர் கெஜ்ரிவால் இல்லத்தை முற்றுகையிட்ட நிலையில் கைது செய்யப்பட்டுள்ளார்.
+India's Financial Criminal Division has repeatedly called on Delhi Chief Minister Arvind Kejriwal to appear for an inquiry into the Delhi Liquor Policy issue.. However, he did not attend the hearing.
+
+It was in this case that the former Chief Minister Manish Sisodia has already been arrested and jailed, and Kejriwal, who is not present at the hearing, may be arrested at any time.
+
+Kejriwal filed a petition in the Delhi High Court seeking a ban on his arrest. The Delhi High Court, which ruled on Thursday, refused to ban Kejriwal's arrest. Within hours of the verdict, Delhi Chief Minister Kejriwal has been arrested for blocking the house.
 
 ◼️
 
 [Data](articles/d0676eea.json)
 
+[Extended Data](ext_articles/d0676eea.ext.json)
+
 ---
 
-### டிஜிட்டல் தளத்திலும் சாதிக்கும் தனுஷின் 'கேப்டன் மில்லர்'
+### Dhanush's 'Captain Miller'
 
 *2024-03-22 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/179377) · `ta`
 
-சத்யஜோதி பிலிம்ஸ்  நிறுவனம் சார்பில் தயாரிப்பாளர் டி ஜி தியாகராஜன் தயாரிப்பில், தனுஷ் நடிப்பில், அருண் மாதேஸ்வரன் இயக்கத்தில் கடந்த பொங்கல் திருவிழா தருணத்தில் உலகம் முழுவதும் பட மாளிகையில் 'கேப்டன் மில்லர்' எனும் திரைப்படம் வெளியானது.
+"Dhanush's 'Captain Miller', produced by DG Thiagarajan, stars Arun Matheswaran and was released on Prime Video. Despite mixed reviews, it set new records in many countries and languages, topping charts worldwide, including India, Africa, Asia, and the Arab world. Directed by Arun Mateeswaran and composed by GV Prakash Kumar, it's celebrated for breaking Indian film records. The film's success marks a significant achievement for Dhanush and the team."
 
-கலவையான விமர்சனங்களை பெற்ற இந்த திரைப்படம் கடந்த பெப்ரவரி மாதம் ஒன்பதாம் திகதி முதல் பிரைம் வீடியோ டிஜிட்டல் தளத்தில் வெளியானது.
+🟩
 
-ப்ரைம் டிஜிட்டல் தளத்தில் வெளியாகி 40 நாட்களைக் கடந்த பிறகும்... தொடர்ந்து முதலிடத்தில் நீடித்திருப்பதுடன் பல நாடுகளிலும், பல மொழிகளிலும் புதிய சாதனையையும் படைத்திருக்கிறது.
+Produced by DG Thiagarajan on behalf of Satyajodi Films, Dhanush starring Arun Matheswaran was released in the film 'Captain Miller' at the world palace worldwide.
 
-குறிப்பாக இந்தத் திரைப்படம் டிஜிட்டல் தளத்தில் வெளியான பிறகு இந்தியா மட்டுமில்லாமல் தான்சானியா உள்ளிட்ட ஆப்பிரிக்க நாடுகளிலும், மலேசியா, சிங்கப்பூர், ஹாங்காங் உள்ளிட்ட ஆசிய நாடுகளிலும், பஹ்ரைன், கத்தார், குவைத், ஐக்கிய அரபு அமீரகம் உள்ளிட்ட அரபு நாடுகளிலும் தொடர்ந்து முதல் ஐந்து இடங்களில் முன்னணி இடத்தை பிடித்து ட்ரெண்டிங்கில் இருந்து வருகிறது.
+The film, which received mixed reviews, was released on the first Prime Video Digital site since the ninth of February.
+
+40 days after being released on the Prime Digital site ... It has continued to be the number one and has set a new record in many countries and many languages.
+
+Especially after the film was released on the digital site, not only in India but also in African countries including Tanzania, Asian countries including Malaysia, Singapore and Hong Kong, and in the top five in the top five in the Arab countries including Bahrain, Qatar, Kuwait and the United Arab Emirates.
+
+The film 'Captain Miller', released on the eighth of March, topped the top 10 in India, not only in India but also worldwide.
+
+The film crew is excited as 'Captain Miller' has achieved a new record that no Indian film has ever made.
 
 ...
 
 [Data](articles/dab86530.json)
+
+[Extended Data](ext_articles/dab86530.ext.json)
 
 ---
 
@@ -2003,105 +2129,5 @@ Accordingly, the company will commence fuel through 150 shops from tomorrow (22)
 [Data](articles/7ca2ad77.json)
 
 [Extended Data](ext_articles/7ca2ad77.ext.json)
-
----
-
-### Protest demanding justice for women...
-
-*2024-03-21 17:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protest-demanding-justice-for-women/110-279328) · `en`
-
-A group of women staged a silent protest outside the Health Ministry today advocating swift justice and protection for children and women. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/022c92fa.json)
-
-[Extended Data](ext_articles/022c92fa.ext.json)
-
----
-
-### The no-confidence proposal was defeated by a majority of 42 votes
-
-*2024-03-21 16:57:27* · [`adalk`](https://www.ada.lk/breaking_news/විශ්වාසභංග-යෝජනාව-වැඩි-ඡන්ද-42කින්--පරාජය-විය/11-408746) · `si`
-
-The no-confidence motion against Speaker Mahinda Yapa Abeywardena was defeated by 42 votes, with 75 in favor and 117 against. The Speaker is now making a special statement.
-
-🟩
-
-The opposition proposal made by the Opposition against the Speaker Mahinda Yapa Abeywardena was elected by 75 in favor and 117 against the no confidence motion.
-
-After the election, the Speaker is making a special statement.
-
-◼️
-
-[Data](articles/54303f88.json)
-
-[Extended Data](ext_articles/54303f88.ext.json)
-
----
-
-### Duminda Nagamuwa and Lahiru Weerasekara remanded
-
-*2024-03-21 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98110/duminda-nagamuwa-and-lahiru-weerasekara-remanded) · `en`
-
-Four persons including Frontline Socialist Party (FSP) activist Duminda Nagamuwa and youth activist Lahiru Weerasekara, who were arrested during the demonstration by the ‘Jana Aragala Viyaparaya’in Colombo yesterday, have been remanded until March 27 by the Fort Magistrate’s Court.
-
-Accordingly, the court ordered to remand in custody Duminda Nagamuwa, Lahiru Weerasekara, Ven. Rathkarawwe Jinarathana Thero and a female arrested during yesterday’s protest.
-
-Meanwhile, Colombo Fort Magistrate Thilina Gamage ordered to remand 05 others arrested during the protest until tomorrow (22) and to produce them before an identification parade, Ada Derana reporter said.
-
-A total of thirty-three individuals including Duminda Nagamuwa, Lahiru Weerasekarawere, 02 Buddhist monks and 03 females were arrested by police during the protest staged by the ‘Jana Aragala Viyaparaya’ (People’s Struggle Movement) in Colombo yesterday (20).
-
-...
-
-[Data](articles/80943545.json)
-
-[Extended Data](ext_articles/80943545.ext.json)
-
----
-
-### No-faith motion against Speaker defeated
-
-*2024-03-21 16:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-faith-motion-against-Speaker-defeated/108-279332) · `en`
-
-The No-Confidence Motion brought against Speaker Mahinda Yapa Abeywardhane by the Opposition was defeated with a majority of 42 votes a short while ago.
-
-The vote on the No-Confidence Motion was taken in Parliament following a three-day debate.
-
-A total of 117 MPs voted against the motion while 75 MPs voted in favour.
-
-◼️
-
-[Data](articles/397d83b8.json)
-
-[Extended Data](ext_articles/397d83b8.ext.json)
-
----
-
-### President should come to Jaffna with the news of "Tamil political prisoners release"
-
-*2024-03-21 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/179357) · `ta`
-
-Murugaiah Gomagan calls for President's visit to Jaffna with news of Tamil political prisoners' release. President hands over 278 acres of land, addressing Tamil issues including land release, prisoner release, and missing persons. Land release welcomed, but condemns Tamil land seizure. Steps urged for 12 Tamil political prisoners' release. Santhan Anna, recently released from Indian jail, did not return to Sri Lanka. Public amnesty demanded for Satya Leela, sentenced to death.
-
-🟩
-
-Murugaiah Gomagan, coordinator of the voice of the voices, has called for the President to visit Jaffna with the news of "Tamil political prisoners release".
-
-Ranil Wickremesinghe was visiting Jaffna on Friday, and today, during a media briefing held by the voice organizer at the Jaffna Media Center today.
-
-President of Jaffna. He will hand over 278 acres of land that has been under military control for the past 33 years.. We welcome this.
-
-There are problems that need to be resolved in Tamil issues, including land release, the release of Tamil political prisoners, and the problem of the missing.
-
-While we welcome the land release, we condemn the actions of the Tamil people to take over the land of the Tamil people through the Department of Archeology and the Department of Forest.
-
-At the same time, steps should be taken to expedite the release of 12 Tamil political prisoners who have been in jail for the past 29 years.
-
-...
-
-[Data](articles/dc8a2697.json)
-
-[Extended Data](ext_articles/dc8a2697.ext.json)
 
 ---

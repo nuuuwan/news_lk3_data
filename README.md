@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 23:18:21**
+As of **2024-03-22 23:33:36**
 
 ## Newspaper Stats
 
-*Scraped **14,614** Articles*
+*Scraped **14,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 1,257
 adaderanalk | 1,750
 tamilmirrorlk | 1,758
 virakesarilk | 2,062
-dailymirrorlk | 2,250
+dailymirrorlk | 2,251
 adaderanasinhalalk | 2,334
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,613 (100.0%) of 14,614 articles have been extended.
+14,614 (100.0%) of 14,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### Sri Lanka among ten countries mostly affected by climate change
+
+*2024-03-22 23:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-among-ten-countries-mostly-affected-by-climate-change/108-279422) · `en`
+
+Colombo, March 22 (Daily Mirror) -  Sri Lanka is among the ten countries which are mostly affected by climate change, the first session of the Sri Lanka Climate Parliament revealed today.
+
+The disclosure was made by Climate Parliament Chairman Eran Wickramaratne and Senior Presidential advisor Ruwan Wijewardene.
+
+MP Wickremesratne stressed that the Sri Lanka Climate Parliament will work with internal bodies and other nations to minimize the effect of climate change.
+
+“We intend to work with UNDP, UNDIO and will also work in line with the government’s road map for hydrogen,” he said.
+
+Rwan Wijewardene also said that climate change will account for one percent loss of Sri Lanka’s GDP by 2050.
+
+“Sri Lanka’s agriculture sector is slated to lose billions of dollars due to climate change,” he added.
+
+...
+
+[Data](articles/75d8414e.json)
+
+---
 
 ### Little son loses the lives of
 
@@ -164,19 +186,25 @@ An exhibition of vintage stamps organized by Sri Lanka Independent Philatelic As
 
 ---
 
-### நீதிமன்றம் செல்லாமலேயே உடனடி இழப்பீடு ; இராஜாங்க அமைச்சர்
+### Immediate compensation without going to court;Diplomat
 
 *2024-03-22 21:22:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றம்-செல்லாமலேயே-உடனடி-இழப்பீடு-இராஜாங்க-அமைச்சர்/175-335025) · `ta`
 
-வீதி விபத்தில் பாதிக்கப்பட்டவர்களுக்கு நீதிமன்ற நடவடிக்கைகளின்றி உடனடியாக இழப்பீடு வழங்கும் வேலைத்திட்டம் மார்ச் 01 ஆம் திகதியிலிருந்து ஆரம்பிக்கப்பட்டுமென  போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவன்ன தெரிவித்தார்.
+Transport Minister Lasantha Alagavanna announced an immediate compensation program for road accident victims starting March 1, without court proceedings.
 
-அதற்கமைய, விபத்து இடம்பெற்று ஒரு வருடத்திற்குள் சம்பந்தப்பட்ட காப்புறுதி நிறுவனத்திற்கு விண்ணப்பிப்பதன் மூலம் 05 இலட்சம் ரூபா வரையான இழப்பீட்டுத் தொகையை பெற்றுக்கொள்ள முடிவதோடு, அந்த தொகையை நாடளாவிய ரீதியில் அமைந்துள்ள காப்புறுதி நிறுவனத்தின் எந்தவொரு கிளையிலும் பெற்றுக்கொள்ள கூடிய வசதிகள் வழங்கப்படும் எனவும் இராஜாங்க அமைச்சர் தெரிவித்தார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் வெள்ளிக்கிழமை (22) நடைபெற்ற ஊடகவியலாளர் மாநாட்டிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்.  R
+Transport Minister Lasantha Alagavanna said that the immediate compensation program for the victims of the road will be launched from March 01.
+
+According to the Minister of State, the Minister said that the appointment of up to Rs.
+
+He said this at a press conference held at the Presidential Media Center on Friday (22).R
 
 ◼️
 
 [Data](articles/2dbe7882.json)
+
+[Extended Data](ext_articles/2dbe7882.ext.json)
 
 ---
 
@@ -1306,13 +1334,17 @@ Blinkan will hold talks with Israeli Prime Minister Benjamin Netanyahu on a ceas
 
 *2024-03-22 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98127/234-acres-of-land-in-jaffna-released-to-farmers-under-urumaya-program) · `en`
 
-President Ranil Wickremesinghe on Friday (March 22) released as many as 234 acres of land, previously held by the Jaffna Security Forces Headquarters, to farmers in the area.
+President Ranil Wickremesinghe on Friday (March 22) instructed respective officials to ensure that the national “Urumaya” freehold deeds program be completed by June.
 
-These plots of land were released to farmers across five Grama Niladhari Divisions in Jaffna for cultivation purposes, the President’s Media Division (PMD) said.
+The President emphasized that it is the dream of every citizen to attain legal ownership of land, regardless of their background. He firmly believes that everyone should have this fundamental right.
 
-Under the Urumaya national program, aimed at distributing 2 million freehold deeds to the deserving public, President Ranil Wickremesinghe symbolically presented the deeds, benefiting a total of 408 individuals at a ceremony held in Oddakapulam, Jaffna.
+He made these remarks while attending the ‘Urumaya’ Freehold Deeds program held in the Ottagapulam, in Jaffna.
 
-◼️
+Accordingly, a total of 408 land deeds were granted to the people of Jaffna as part of the ‘Urumaya’ program, which aims to provide free land rights to 02 million individuals. The president symbolically participated in the awarding of the deeds.
+
+Under the leadership of President  Wickremesinghe, the release of lands previously utilized by the Jaffna Security Force Headquarters was conducted at the Palaly Air Force Base on Friday morning.
+
+...
 
 [Data](articles/53ac9620.json)
 
@@ -2283,25 +2315,5 @@ Hatton Sri Manikapillaiar Temple Maha Kumbabhisheka. For this purpose, the schoo
 [Data](articles/c9999a7c.json)
 
 [Extended Data](ext_articles/c9999a7c.ext.json)
-
----
-
-### Keheliya’s revision application seeking bail fixed for consideration
-
-*2024-03-22 11:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98123/keheliyas-revision-application-seeking-bail-fixed-for-consideration) · `en`
-
-Colombo High Court on Friday (March 22) decided to consider the revision application filed by former Health Minister Keheliya Rambukwella seeking to be released on bail.
-
-Accordingly, the revision application has been fixed for consideration on Monday (March 25) by High Court Judge Sujeewa Nissanka.
-
-During the court proceedings, Deputy Solicitor General Lakmini Girihagama, representing the Attorney General, told the court that the prosecution has yet to receive the documents pertaining to the revision application.
-
-Accordingly, the High Court Judge instructed the petitioning party to provide the prosecution with the relevant documents and ordered that the revision application be taken up on Monday for consideration.
-
-...
-
-[Data](articles/18d57366.json)
-
-[Extended Data](ext_articles/18d57366.ext.json)
 
 ---

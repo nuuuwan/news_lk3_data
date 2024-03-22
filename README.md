@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 14:03:02**
+As of **2024-03-22 14:17:58**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 2,318
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,542 (100.0%) of 14,543 articles have been extended.
+14,543 (100.0%) of 14,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### පාතාලයේ 10ක් කොටුවූ බව පොලීසිය කියයි
+### The police say 10 in the heathel has been arrested
 
 *2024-03-22 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194814) · `si`
 
-පාතාල මර්දන මෙහෙයුම යටතේ ගතවූ පැය 24 තුළ පාතාල කල්ලි සාමාජිකයන් 10 දෙනෙකු පොලිස් අත්ඩංගුවට ගෙන තිබේ.
+Police arrested 10 underworld members in a repression operation, bringing the total to 27 suspects in the past 3 days.
 
-ඒ අනුව පාතාල මර්දන මෙහෙයුම ආරම්භ කර ගතවූ දින 3 තුළ අත්අඩංගුවට ගෙන ඇති සැකකරුවන් සංඛ්‍යාව 27කි.
+🟩
+
+Police have arrested 10 underworld members in the Underworld repression operation.
+
+Accordingly, 27 suspects have been arrested in the past 3 days of the underworld repression.
 
 ◼️
 
 [Data](articles/fbe447a9.json)
+
+[Extended Data](ext_articles/fbe447a9.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 09:03:17**
+As of **2024-03-22 09:33:39**
 
 ## Newspaper Stats
 
-*Scraped **14,462** Articles*
+*Scraped **14,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,137 @@ economynextcom | 764
 dailyftlk | 776
 islandlk | 797
 adalk | 1,246
-adaderanalk | 1,732
-tamilmirrorlk | 1,745
-virakesarilk | 2,028
+adaderanalk | 1,733
+tamilmirrorlk | 1,747
+virakesarilk | 2,029
 dailymirrorlk | 2,222
-adaderanasinhalalk | 2,307
+adaderanasinhalalk | 2,309
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,459 (100.0%) of 14,462 articles have been extended.
+14,466 (100.0%) of 14,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### කාසියේ වාසිය බංග්ලාදේශයට
+
+*2024-03-22 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194804) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර පළමු ටෙස්ට් ක්‍රිකට් තරගය අද (22) පැවැත්වෙයි.
+
+එහි කාසියේ වාසිය දිනාගැනීමට බංග්ලාදේශ කණ්ඩායම සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ශ්‍රී ලංකා කණ්ඩායමට ලබාදීමටය.
+
+◼️
+
+[Data](articles/e9a72d9e.json)
+
+---
+
+### இன்றிலிருந்து வானிலையில் மாற்றம்
+
+*2024-03-22 09:08:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றிலிருந்து-வானிலையில்-மாற்றம்/175-335008) · `ta`
+
+நாட்டில் தற்போது நிலவும் வரட்சியான வானிலையில் இன்றில் (22) இருந்து மாற்றம் ஏற்படும் என எதிர்பார்க்கப்படுகின்றது.
+
+கிழக்கு, ஊவா மற்றும் வடக்கு மாகாணங்களில் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+மேல், சப்ரகமுவ, மத்திய,தென், வடமேல் மற்றும் வடமத்திய மாகாணங்களில் பல இடங்களில் பிற்பகலில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+சப்ரகமுவ மாகாணத்தில் சில இடங்களில் 50 மி.மீ க்கும் அதிகமான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் களுத்துறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+
+◼️
+
+[Data](articles/fad7b0a6.json)
+
+---
+
+### Money gift to the public;News published by the police
+
+*2024-03-22 09:03:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுமக்களுக்கு-பணம்-பரிசு-பொலிஸார்-வெளியிட்ட-செய்தி/175-335007) · `ta`
+
+The police have announced cash rewards for reporting guns used in drug trafficking. The Inspector General of Police has also offered a cash prize.
+
+🟩
+
+Cash prizes have been made to those who report the guns used by people involved in drug trafficking and drug trafficking.
+
+It is also stated that the Inspector General of Police has issued a cash prize for Rs.. Remble
+
+◼️
+
+[Data](articles/351509d0.json)
+
+[Extended Data](ext_articles/351509d0.ext.json)
+
+---
+
+### Arun Siddharth appointed as the Jaffna District Organizer of the United National Party
+
+*2024-03-22 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179379) · `ta`
+
+Arun Siddharth, appointed Jaffna District Organizer of the United National Party, with Ravi Karunanayake and Vijayagala Maheshwaran involved. Supporters' participation in the meeting was low.
+
+🟩
+
+Ravi Karunanayake, former Finance Minister and former Finance Minister of the National Party, said at a meeting held at a private hall in Jaffna this evening.
+
+Meanwhile, former Minister of State Vijayagala Maheshwaran is the chief organizer of the Kilinochchi districts of Jaffna.It is reported that many of the party's supporters have not participated in today's meeting.
+
+◼️
+
+[Data](articles/1545957b.json)
+
+[Extended Data](ext_articles/1545957b.ext.json)
+
+---
+
+### Two arrested for shooting incident
+
+*2024-03-22 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194803) · `si`
+
+Police arrested two suspects involved in a shooting incident on 01st.03.09.2013, including a police officer hiding in a lodge in Buttala.
+
+🟩
+
+Police have arrested a suspect and a suspect who supported the shooting on 01st.03.09.2013.
+
+Police have arrested the police while they were hiding in a lodge in Buttala.
+
+◼️
+
+[Data](articles/2906449c.json)
+
+[Extended Data](ext_articles/2906449c.ext.json)
+
+---
+
+### UN Security Council to vote Friday on US resolution on Gaza ceasefire
+
+*2024-03-22 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98119/un-security-council-to-vote-friday-on-us-resolution-on-gaza-ceasefire) · `en`
+
+The United States will ask the U.N. Security Council on Friday to back a resolution calling for an immediate ceasefire in Gaza and an Israel-Hamas hostage deal, increasing pressure on its ally Israel to allow more humanitarian aid and better protect civilians.
+
+Nate Evans, spokesperson for the U.S. mission to the United Nations, said on Thursday that the resolution resulted from “many rounds of consultations” with members of the 15-seat Security Council.
+
+The resolution marks a further toughening of Washington’s stance toward Israel. Earlier in the five-month-long war, the U.S. was averse to the word ceasefire and vetoed measures that included calls for an immediate ceasefire.
+
+The draft resolution, seen by Reuters, says an “immediate and sustained ceasefire” lasting roughly six weeks would protect civilians and allow for the delivery of humanitarian assistance.
+
+...
+
+[Data](articles/0346b542.json)
+
+[Extended Data](ext_articles/0346b542.ext.json)
+
+---
 
 ### Massive rise in scams as public struggle from financial crisis
 
@@ -50,21 +166,27 @@ Recently, several cases were reported from Facebook where scammers were identifi
 
 ---
 
-### FM දෙරණ 15 වන සංවත්සරයට සමගාමීව "දරු නැණ දිරි" ඇරඹෙයි
+### "Childise Order" begins with FM Derana 15th Anniversary
 
 *2024-03-22 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194802) · `si`
 
-FM දෙරණ 15 වන සංවත්සරයට සමගාමීව FM දෙරණ “දරු නැණ දිරි“ වැඩසටහන අද (22) ක්‍රියාත්මක වෙයි.
+"Childise Order" initiates with FM Derana's 15th anniversary, offering school equipment like exercise books and pencils to economically disadvantaged students in Colombo and Bambalapitiya. FM Derana aims to double school instruments for those in need.
 
-මෙම වැඩසටහන යටතේ ආර්ථික අපහසුතා සහිත සිසු දරුවන් සඳහා අභ්‍යාස පොත්, පැන්සල්,  පෑන් ඇතුලු පාසල් උපකරණ ලබාදීමට නියමිතය.
+🟩
 
-අද උදෑසන 6 සිට  FM දෙරණ ප්‍රධාන කාර්යාලය, කොටුව, මරදාන සහ බම්බලපිටිය දුම්රිය ස්ථාන, ගාලුපාර බම්බලපිටිය මහල් නිවාස සංකීර්ණය ඉදිරිපිට ඇතුලු කොළඹ ස්ථාන කිහිපයකට පාසල් උපකරණ ගෙනවිත් භාරදීමට ඔබට හැකිය.
+The FM Derana Diri Program will be implemented in parallel to the FM Derana 15th Anniversary.
 
-ඔබ ලබාදෙන සෑම පාසල් උපකරණයක්ම දෙගුණ කරමින් ආර්ථික අපහසුතා සහිත දරුවන් වෙනුවෙන් ලබාදීමට FM දෙරණ සැලසුම් කර තිබේ.
+Under this program, school equipment to provide exercise books, pencils, pan for students with economic difficulties.
+
+You can get school equipment for several parts of Colombo and Bambalapitiya apartment complex, including the FM, Maradana and Bambalapitiya apartment complex, including the Galle Road.
+
+FM Derana has been planned to double every school instrument and for economic hardship.
 
 ◼️
 
 [Data](articles/a6fb8c08.json)
+
+[Extended Data](ext_articles/a6fb8c08.ext.json)
 
 ---
 
@@ -726,35 +848,47 @@ While noting that ongoing hardships will continue for another three years, Sri L
 
 ---
 
-### உணவுப் பொருட்கள் தட்டுப்பாடின்றி விநியோகம்
+### Food supplies
 
 *2024-03-22 03:48:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உணவுப்-பொருட்கள்-தட்டுப்பாடின்றி-விநியோகம்/175-335006) · `ta`
 
-எதிர்வரும் பண்டிகைக் காலத்தில் நுகர்வோர் அத்தியாவசிய உணவுப் பொருள்களை நியாயமான விலையில் தட்டுப்பாடு இன்றி பெற்றுக் கொள்ளக்கூடிய சூழல் உருவாக்கப்பட்டுள்ளதாக கால்நடை வளங்கள் அபிவிருத்தி இராஜாங்க அமைச்சர் டீ.பி ஹேரத் தெரிவித்தார்.
+DP Herath, Minister of Livestock Development, announced that the government has successfully created an environment for consumers to obtain essential food items at reasonable prices, ensuring no shortage. This is due to the current agricultural policy's ability to produce sufficient rice.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று டைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் டீ.பி ஹேரத் இதனைத் தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-எதிர்வரும் பண்டிகைக் காலத்தில் நுகர்வோர் அத்தியாவசியப் பொருட்களைத் தட்டுப்பாடு இன்றி நியாயமான விலையில் பெற்றுக் கொள்ளும் சூழலை உருவாக்க அரசாங்கம் நடவடிக்கை எடுத்துள்ளது. தற்போதைய அரசாங்கத்தின் விவசாயக் கொள்கை மூலம் நுகர்வுக்கு தேவையான அரிசியை உற்பத்தி செய்யக்கூடியதாக உள்ளது என்றார். (a)
+Minister of Livestock Development DP Herath said that in the coming festive festive season, consumers have created an environment where the essential food items can be obtained at a reasonable price.
+
+State Minister TP Herath made this statement at a media briefing at the Presidential Media Center yesterday. As he further stated,
+
+The government has taken steps to create an environment where consumers will get the essentials at a reasonable price without shortage. He said the current government's agricultural policy is able to produce the rice required for consumption. (A)
 
 ◼️
 
 [Data](articles/f60cf4b1.json)
 
+[Extended Data](ext_articles/f60cf4b1.ext.json)
+
 ---
 
-### வவுனியா விபத்தில் இருவர் காயம்
+### Two persons injured in Vavuniya accident
 
 *2024-03-22 03:40:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுனியா-விபத்தில்-இருவர்-காயம்/175-335005) · `ta`
 
-வவுனியா, வைரவபுளியங்குளம் பகுதியில் இடம்பெற்ற விபத்தில் இருவர் காயமடைந்த நிலையில் வவுனியா வைத்தியசாலையில் சேர்க்கப்பட்டுள்ளனர்.
+Two injured in Vavuniya accident: A three-wheeler and a motorcycle collided near Vavuniya railway station, resulting in injuries to both drivers, who were admitted to Vavuniya Hospital.
 
-வவுனியா நகரப் பகுதியில் ரயில் நிலைய வீதி ஊடாகச் சென்ற முச்சக்கர வண்டி கதிரேசு வீதியில் திரும்ப முற்பட்ட வேளையில் வைரவபுளியங்குளத்தில் இருந்து வவுனியா நகரம் நோக்கிச் சென்ற மோட்டார் சைக்கிளுடன் மோதி விபத்துக்குள்ளானது.
+🟩
 
-விபத்தில் முச்சக்கர வண்டி மற்றும் மோட்டார் சைக்கிள் சாரதிகள் இருவரும் காயமடைந்த நிலையில் வவுனியா வைத்தியசாலையில் சேர்க்கப்பட்டுள்ளனர். (a)
+Two persons have been admitted to the Vavuniya Hospital after being injured in an accident in Vairavapuliyankulam, Vavuniya.
+
+A three -wheeler that was traveling through the railway station in Vavuniya city collided with a motorcycle traveling from Vairavapuliyankulam to Vavuniya.
+
+Three -wheeler and motorcycle drivers were injured in the Vavuniya Hospital. (A)
 
 ◼️
 
 [Data](articles/b5403174.json)
+
+[Extended Data](ext_articles/b5403174.ext.json)
 
 ---
 
@@ -1983,139 +2117,5 @@ Also, in January 2024, 85% of the non-food category of food has been reduced to 
 [Data](articles/139b38d3.json)
 
 [Extended Data](ext_articles/139b38d3.ext.json)
-
----
-
-### Two persons were injured in an accident in Vavuniya
-
-*2024-03-21 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179351) · `ta`
-
-Two injured in Vavuniya accident: A motorcycle from Vavuniya collided with a motorcycle from Vairavapuliyankulam on Railway Road, Wednesday. Both drivers hospitalized.
-
-🟩
-
-Two persons were injured in an accident in Vairavapuliyankulam, Vavuniya, police said.
-
-The accident occurred on Wednesday (21) at the Railway Road, Vairapuliyankulam, Vavuniya.. It is further revealed that,
-
-A motorcycle on the Vavuniya city in the city of Vavuniya collided with a motorcycle from Vairavapuliyankulam to Vavuniya.
-
-Three -wheeler and motorcycle drivers have been admitted to Vavuniya Hospital. The two vehicles have been severely damaged and the Vavuniya traffic police are conducting investigations into the accident.
-
-◼️
-
-[Data](articles/41d4c051.json)
-
-[Extended Data](ext_articles/41d4c051.ext.json)
-
----
-
-### Admission to the priest's hospital
-
-*2024-03-21 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179350) · `ta`
-
-Thambirasa Mathimukarasa, the Vedukkuni hill priest, was hospitalized. Eight, including the temple, were arrested on Shivaratri and released on the 19th. The priest was admitted to Mullaitivu Manjolai Hospital.
-
-🟩
-
-Thambirasa Mathimukarasa, the main priest of the Vedukkuni hill, has been admitted to the hospital due to illness.
-
-Eight persons, including the temple, were arrested by the police on the occasion of Shivaratri on the last Shivaratri day. They were kept in detention until the 19th.
-
-The Vavuniya judiciary yesterday issued an order to release the eight people.
-
-The priest of the liberated temple was admitted to the Mullaitivu Manjolai Hospital yesterday.
-
-It is noteworthy that there was a five -day prison fasting demanding justice to those who were arrested.
-
-◼️
-
-[Data](articles/1d51093c.json)
-
-[Extended Data](ext_articles/1d51093c.ext.json)
-
----
-
-### CBSL accepts all recommendations from COPF report on salary hikes
-
-*2024-03-21 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/98108/cbsl-accepts-all-recommendations-from-copf-report-on-salary-hikes) · `en`
-
-The Governor of the Central Bank of Sri Lanka (CBSL) has informed the Committee on Public Finance (COPF) today (March 21) that they accepted all recommendations from COPF report on salary revisions, the Chairman of the COPF, MP Dr. Harsha de Silva said.
-
-He also mentioned that President Ranil Wickremesinghe will appoint a committee to review salaries as soon as possible, until which salary increases will be deferred from next month.
-
-Furthermore, he stated that they have agreed on a 4-week timeframe for the committee’s report to ensure a swift resolution.
-
-Taking to X (formerly Twitter) to announce this, MP de Silva said: “I am glad we were able to come to a consensus without an amendment to the CBSL Act. Thank you to all involved for working towards a positive outcome.”
-
-...
-
-[Data](articles/1b302f51.json)
-
-[Extended Data](ext_articles/1b302f51.ext.json)
-
----
-
-### Mujibur Rahman has lodged a complaint with the Criminal Investigation Department against former President Gotabhaya Rajapaksa's exclusive secretary
-
-*2024-03-21 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179349) · `ta`
-
-Mujibur Rahman filed a complaint against Gotabhaya Rajapaksa's secretary, Sukheeswara Bandara, for alleged crimes under the ICCPR Act. Rahman demanded an investigation into the Civiswara Bandara Channel's activities, which he claims violate civil and political rights. The complaint was lodged amidst concerns about potential racism and political manipulation ahead of the 2019 presidential election.
-
-🟩
-
-Former MP Mujibur Rahman demanding the necessary investigation into the case of the Civiswara Bandara Channel in a recent interview with YouTube Channel, as it is a crime on the Civil and Political Rights Agreement on Civil and Political Rights (ICCPR) Act No. 56 of 2007.He filed a complaint with the Department of Investigation today (20.03.2024).
-
-Former MP Mujibur Rahman, who spoke to the media following the complaint;
-
-Finally, the surviving Sunday attack took place six months before the 2019 presidential election. With the presidential election in October this year, there is a great deal of effort to bring about racism, religiousism, inter -ethnic rift, doubts and political welfare.
-
-...
-
-[Data](articles/8ba12511.json)
-
-[Extended Data](ext_articles/8ba12511.ext.json)
-
----
-
-### ‘If I am fit to become MP, why can’t I function as COPE Chair?’ asks Rohitha
-
-*2024-03-21 16:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/If-I-am-fit-to-become-MP-why-cant-I-function-as-COPE-Chair-asks-Rohitha/108-279330) · `en`
-
-Parliament, March 21 (Daily Mirror)- COPE Chairman MP Rohitha Abeygunawardane asked today if he was fit to be elected as a Member of Parliament, why he cannot function as the Chairman of the Committee on Public Enterprises (COPE).
-
-Abeygunawardane told Parliament that Standing Orders must include qualifications required to hold the Chairmanship of Parliamentary Committees such as COPE and COPA.
-
-“We must include in Standing Orders the educational qualifications required to hold the Chairmanship of the COPE, COPA and other committees. Being an MP alone is not sufficient to become a Chair of a Committee. I was elected to Parliament by the people of the Kalutara District. If I am fit to be elected as an MP, why can’t I function as COPE Chair? When I was elected COPE Chair, the opposition hurled allegations against me,” he said.
-
-...
-
-[Data](articles/aca81c5c.json)
-
-[Extended Data](ext_articles/aca81c5c.ext.json)
-
----
-
-### Change of Chennai leadership
-
-*2024-03-21 16:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194783) · `si`
-
-The IPL has changed the leadership of the Chennai Super Kings to Ruthj Gayikwa, with Mahendra Sinoi Thero now playing without leadership responsibilities.
-
-🟩
-
-Foreign media reports that the IPL has changed the leadership of the Chennai Super Kings team.
-
-Accordingly, the new leadership of the Chennai Super Kings team has been given to the Ruthj Gayikwa.
-
-Earlier, the former Indian Super Kings, a former Indian Powerful and a former leader, was Mahendra Sinoi Thero.
-
-In this year, he is playing the Chennai team in the IPL series, without the responsibility of his leadership.
-
-◼️
-
-[Data](articles/74020bcb.json)
-
-[Extended Data](ext_articles/74020bcb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 14:33:33**
+As of **2024-03-22 14:52:05**
 
 ## Newspaper Stats
 
-*Scraped **14,545** Articles*
+*Scraped **14,550** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,118 @@ newsfirstlk | 363
 dailyftlk | 776
 economynextcom | 782
 islandlk | 797
-adalk | 1,251
-adaderanalk | 1,739
+adalk | 1,252
+adaderanalk | 1,741
 tamilmirrorlk | 1,754
 virakesarilk | 2,052
 dailymirrorlk | 2,229
-adaderanasinhalalk | 2,318
+adaderanasinhalalk | 2,320
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,543 (100.0%) of 14,545 articles have been extended.
+14,545 (100.0%) of 14,550 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### இலங்கை முழுதும் எரிகின்றது
+### 234 acres of land in Jaffna released to farmers under ‘Urumaya’ program
+
+*2024-03-22 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98127/234-acres-of-land-in-jaffna-released-to-farmers-under-urumaya-program) · `en`
+
+President Ranil Wickremesinghe on Friday (March 22) released as many as 234 acres of land, previously held by the Jaffna Security Forces Headquarters, to farmers in the area.
+
+These plots of land were released to farmers across five Grama Niladhari Divisions in Jaffna for cultivation purposes, the President’s Media Division (PMD) said.
+
+Under the Urumaya national program, aimed at distributing 2 million freehold deeds to the deserving public, President Ranil Wickremesinghe symbolically presented the deeds, benefiting a total of 408 individuals at a ceremony held in Oddakapulam, Jaffna.
+
+◼️
+
+[Data](articles/53ac9620.json)
+
+---
+
+### ආරක්ෂක හමුදා යටතේ තිබූ උතුරේ ඉඩම් ගැන ජනපතිගෙන් තීන්දුවක්
+
+*2024-03-22 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194816) · `si`
+
+යාපනය ආරක්ෂක හමුදා මූලස්ථානය යටතේ තිබූ ඉඩම් අක්කර 234ක ප්‍රමාණයක් ගොවි ජනතාවට නිදහස් කිරීමට කටයුතු කර තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උතුරේ සංචාරයක නිරත වන අතරතුර එම ඉඩම් නිදහස් කිරීම සිදුකර තිබුණි.
+
+ජනාධිපති මාධ්‍ය අංශය පැවසුවේ යාපනයේ ග්‍රාම නිලධාරී කොට්ඨාස 5කට අයත් ඉඩම් ඒ අනුව නිදහස් කර ඇති බවය.
+
+ජනතාවට සින්නක්කර ඉඩම් ඔප්පු මිලියන 2ක් ලබාදීමේ “උරුමය” ජාතික වැඩසටහන යටතේ තවත් 408 දෙනෙකු සඳහා සංකේතාත්මකව ඔප්පු ප්‍රදානය කිරීමේ උත්සවය අද (22) ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් යාපනය ඔට්ටගපුලම් ප්‍රදේශයේදී පැවැත්වුණි.
+
+◼️
+
+[Data](articles/2836879d.json)
+
+---
+
+### ඌරු වකුගඩුවකින් ජීවිතය ලද මිනිසා
+
+*2024-03-22 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194815) · `si`
+
+ජානමය වශයෙන් වෙනස් කරන ලද ඌරෙකුගෙන් ලබාගත් වකුගඩුවක් 62 හැවිරිදි පුද්ගලයෙකුට සාර්ථකව බද්ධ කිරීමට අමෙරිකානු වෛද්‍ය කණ්ඩායමක් සමත්වී තිබේ.
+
+ජානමය වශයෙන් වෙනස්කළ ඌරෙකුගෙන් ඒ ආකාරයට වකුගඩුවක් ලබාගෙන ඇත්තේ අවයව බද්ධයෙන් අනතුරුව ඇතිවිය හැකි සංකූලතා මඟ හැරවීමට බව වෛද්‍යවරු පැවසූහ.
+
+එම සුවිශේෂී බද්ධයට මුහුණදුන් රික් ස්ලේමන් නියම වීරයෙක් බව පවසන වෛද්‍ය කණ්ඩායම, ඔහු රෝහලෙන් පිටවීමට සූදානමින් සිටින බවද පැවසීය.
+
+මෙහි අරමුණ වන්නේ අනාගතයේදී මිනිසුන් ගේ අවශ්‍යතා සඳහා සත්ත්ව අවයව භාවිත කිරීම බව සඳහන් ය.
+
+මොළය මියගිය පුද්ගලයින් ට මීට පෙර ඌරු වකුගඩු බද්ධ කර ඇත්තේ අත්හදා බැලීම් සඳහා ය.
+
+මැසචුසෙට්ස් මහ රෝහල පැවසුවේ මාර්තු 16 වනදා සිදුකළ අදාළ අවයව බද්ධය සඳහා පැය 4ක කාලයක් ගතවූ බවයි.
+
+◼️
+
+[Data](articles/76770bf1.json)
+
+---
+
+### The whole of Sri Lanka burns
 
 *2024-03-22 14:19:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-முழுதும்-எரிகின்றது/175-335021) · `ta`
 
-வருடத்தின் ஏனைய நாட்களை விட இந்த நாட்களில் வெப்பநிலை ஒன்று அல்லது இரண்டு டிகிரி செல்சியஸ் அதிகரித்துள்ளதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Sri Lanka is experiencing unusually high temperatures, with the Department of Meteorology reporting a rise of 1-2 degrees Celsius. This heat wave is expected to last until the end of April, with March and April typically being the hottest months.
 
-நாடளாவிய ரீதியில் இந்த நிலை காணப்படுவதாக வளிமண்டலவியல் திணைக்களத்தின் பிரதிப் பணிப்பாளர் மெரில் மென்டிஸ் தெரிவித்துள்ளார்.
+🟩
 
-ஒவ்வொரு ஆண்டும் மார்ச், ஏப்ரல் மாதங்களில் வெப்பம் அதிகமாக இருக்கும் எனவும் ஏப்ரல் இறுதி வரை இதே நிலை நீடிக்கும் எனவும் அவர் மேலும் தெரிவித்துள்ளார்.
+The Department of Meteorology said the temperature increased by one or two degrees Celsius these days than the rest of the year.
 
-இந்த நேரத்தில் வெப்பநிலை அசாதாரணமாக உயர்ந்துள்ளதா என்பதை ஆய்வு செய்ய வேண்டும் என்றும் திணைக்களம் கூறியுள்ளது. R
+Deputy Director of the Department of Meteorology, Maril Mendis, said the situation is seen across the country.
+
+He added that the heat is high in March and April every year and the situation will remain until the end of April.
+
+The department also said that the temperature has risen abnormally at this time. Remble
 
 ◼️
 
 [Data](articles/5b1f2a74.json)
+
+[Extended Data](ext_articles/5b1f2a74.ext.json)
+
+---
+
+### Japanese envoy commends Sri Lanka’s anti-corruption initiatives, assures support
+
+*2024-03-22 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98126/japanese-envoy-commends-sri-lankas-anti-corruption-initiatives-assures-support) · `en`
+
+The Japanese Ambassador to Sri Lanka, Mizukoshi Hideaki has expressed Japan’s support for the current program aimed at rebuilding the Sri Lankan economy.
+
+Drawing parallels between Japan’s historical journey and Sri Lanka’s current economic challenges, the Ambassador highlighted Japan’s resilience and economic resurgence as a model for Sri Lanka.
+
+These remarks were made during his keynote address at a panel discussion on “Economic Development and Modernization with Lessons from Japan,” chaired by President Ranil Wickremesinghe at the Granbell Hotel in Colombo on Thursday (March 21), organized by the “Geopolitical Cartographer”.
+
+During his keynote speech titled “Japan’s Modernization and Lessons for Sri Lanka’s Economic Recovery and Governance”, the Ambassador shared insights into Japan’s historical challenges, its adaptation to modern changes, and its journey towards rapid development.
+
+...
+
+[Data](articles/fcb5b3e5.json)
 
 ---
 
@@ -163,6 +243,22 @@ Meanwhile, the President said that even Anganan Ramanathan would be on his visit
 [Data](articles/1c8ab4fe.json)
 
 [Extended Data](ext_articles/1c8ab4fe.ext.json)
+
+---
+
+### T 56 කට රුපියල් ලක්ෂ 5ක්
+
+*2024-03-22 12:58:07* · [`adalk`](https://www.ada.lk/breaking_news/T-56-කට-රුපියල්-ලක්ෂ-5ක්/11-408756) · `si`
+
+විෂ මත්ද්‍රව්‍ය ජාවාරම් කරුවන් අත්අඩංගුවට ගැනීම සඳහා ක්‍රියාත්මක මෙහෙයුම් අතර, එයට සමගාමීව සංවිධානාත්මක අපරාධ කරුවන් මර්ධනය කිරීම සඳහා විෂේශ මෙහෙයුමක් 2024.03.19 දින සිට පොලීසිය විසින් ක්‍රියාත්මක කොට ඇත. මෙය විෂේශයෙන්ම බස්නාහිර පලාතේ සහ ගාල්ල දිස්ත්‍රික්කය තුල ක්‍රියාත්මකය. මෙහිදී ගිනි අවි සහ සංවිධානාත්මක අපරාධ කරුවන් සම්බන්ධයෙන් ලබාදෙන තොරතුරු සඳහා වටිනා මුදල් ත්‍යාග ලබාදීමට පොලිස්පතිතුමා විසින් තීරණය කොට ඇත.
+
+කොරතුරු ලබාදෙන්නන් හට තොරතුරු ලබාදීම සඳහා විශේෂ දුරකථන අංක 46ක් ප්‍රකාෂයට පත් කර ඇත. එයට අමතරව රහස්්‍යභාවය රැකෙන පරිදි වෙනත් ඔනෑම ආකාරයකට පොලීසියට තොරතුරු ලබා දීමේ හැකියාවක්ද ඇත.
+
+ඉහත දක්වා ඇති වගුවේ පරිදි පුද්ගලික ඔත්තුකරුවන්ට මුදල් ත්‍යග ලබා දෙන බව ශ්‍රී ලංකා පොලීසිය විසින් දැනුම් දී ඇත.
+
+◼️
+
+[Data](articles/debbf01e.json)
 
 ---
 
@@ -404,21 +500,27 @@ When the matter came up before High Court Judge Sujeewa Nissanka, court was info
 
 ---
 
-### උත්සව සමයේදී හිඟයකින් තොරව ජනතාවට අත්‍යවශ්‍ය ආහාර
+### The people are essential to the people without a shortage of festive season
 
 *2024-03-22 11:54:18* · [`adalk`](https://www.ada.lk/breaking_news/උත්සව-සමයේදී-හිඟයකින්-තොරව-ජනතාවට-අත්‍යවශ්‍ය-ආහාර/11-408755) · `si`
 
-එළැඹෙන උත්සව සමයේදී පාරිභෝගික ජනතාවට අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය හිඟයකින් තොරව, සාධාරණ මිලට ලබා ගැනීමට හැකි පසුබිමක් නිර්මාණය කර තිබෙන බව පශු සම්පත් සංවර්ධන රාජ්‍ය අමාත්‍ය ඩී. බී. හේරත් මහතා පැවසීය.
+The State Minister of Livestock Development, B. Herath, highlighted the government's efforts to ensure food security during the festive season, including implementing programs to reduce post-harvest losses and increase production of essential food items. The Ministry of Agriculture has provided financial support for farmers and is working on mechanisms to stabilize vegetable and fruit prices. The government is also focusing on self-sufficiency in protein production, increasing milk production, and improving animal husbandry quality. President Ranil Wickremesinghe emphasized the government's success in addressing living challenges and welfare programs for the youth and low-income individuals.
 
-ගොවියාත් පාරිභෝගිකයාත් සුරැකෙන ක්‍රමවේදයක් ඔස්සේ එම වැඩපිළිවෙළ ක්‍රියාත්මක කරන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-පශු සම්පත් සංවර්ධන රාජ්‍ය අමාත්‍ය ඩී. බී. හේරත් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+State Minister of Livestock Development, who has created essential time in the enclosure of essential food items during the festive season.. B. Herath said.
 
-පසු අස්වනු තාක්ෂණය ගොවීන් අතර ප්‍රචලිත කරමින් අස්වනු හානිය අවම කිරිමටත්, ඉදිරියේදී ඇතිවිය හැකි ගෝලීය ආහාර අර්බුදයට රට සූදානම් කිරීමටත් රජය වැඩසටහන් රැසක් ක්‍රියාත්මක කර ඇති බවද රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+The project said that the program will be implemented through a system that protects the farmer and consumer.
+
+State Minister of Livestock Development. B. Herath made this statement participating at a press conference held at the press conference at the Presidential Media Center.
+
+The government has implemented several programs to reduce the post harvest technology to reduce the harvest losses and prepare the country into the global food crisis.
 
 ...
 
 [Data](articles/de41a3e5.json)
+
+[Extended Data](ext_articles/de41a3e5.ext.json)
 
 ---
 
@@ -2135,97 +2237,5 @@ Dissanayake met with Canadian High Commissioner to Sri Lanka Eric Walsh at the J
 [Data](articles/a763e7fd.json)
 
 [Extended Data](ext_articles/a763e7fd.ext.json)
-
----
-
-### NPP most suitable camp for women – Harini tells diaspora meeting in London
-
-*2024-03-22 04:49:20* · [`dailyftlk`](https://www.ft.lk/news/NPP-most-suitable-camp-for-women-Harini-tells-diaspora-meeting-in-London/56-759786) · `en`
-
-Claims other parties have followed NPP’s lead to focus on increasing women’s involvement in politics
-
-Stresses women must actively participate in politics to reform existing system
-
-Notes NPP women’s summits serve a greater purpose than merely bringing NPP into power
-
-Urges women abroad to support these efforts by informing and educating their friends and family in SL
-
-National People’s Power (NPP) MP Dr. Harini Amarasuriya recently declared that the NPP dedicated to fostering significant social change in Sri Lanka, stands out as the most appropriate political platform for women.
-
-Speaking at the NPP’s inaugural international women’s summit in London on 16 March, Amarasuriya reminisced about how NPP leader Anura Kumara Dissanayake had assented to the party’s women’s wing’s plea for 50% representation in the forthcoming General Election as early as 2019.
-
-...
-
-[Data](articles/fbc68a55.json)
-
-[Extended Data](ext_articles/fbc68a55.ext.json)
-
----
-
-### HNB and ICC collaborate to offer tailored home financing
-
-*2024-03-22 04:46:00* · [`islandlk`](http://island.lk/hnb-and-icc-collaborate-to-offer-tailored-home-financing/) · `en`
-
-Reiterating its efforts to bring the best possible deals to customers investing in their dream home, Sri Lanka’s leading private sector bank, HNB PLC, entered into a Memorandum of Understanding (MoU) with the International Construction Consortium (PVT) Ltd (ICC), to offer exclusive financial solutions to prospective homeowners of the developer’s latest project,’ The Residencies Kotte’, located in the capital city of Sri Lanka.
-
-The agreement was signed at a special ceremony at ICC Head Office, with the participation of HNB AGM -Personal Financial Services, Kanchana Karunagama, and ICC Managing Director/Chief Executive Officer, Namal Peiris, alongside additional representatives from both companies. The partnership will provide customers with the value proposition best suited to their needs, for their home investment.
-
-...
-
-[Data](articles/99fe3863.json)
-
-[Extended Data](ext_articles/99fe3863.ext.json)
-
----
-
-### Dreamron Group celebrates 25 years of generating foreign revenue for Sri Lanka
-
-*2024-03-22 04:46:00* · [`islandlk`](http://island.lk/dreamron-group-celebrates-25-years-of-generating-foreign-revenue-for-sri-lanka/) · `en`
-
-Kindai Kagaku Lanka PVT Ltd celebrated 25 years of successful export business operations. Over this period of operations, Kindai Kagaku Lanka has grown to be one of the leading Hair Care and Skin Care OEM production companies in Sri Lanka and probably the largest player out of all cosmetic manufacturing companies in Sri Lanka.
-
-Kindai Kagaku exports products to over 27 countries covering all continents and does OEM contract manufacturing for over 12 global brands. The comprehensive range includes cosmetics for hair, such as fashion color products, hair restorers, perm products, shampoos and hair treatments and styling products, includinga wide range of cosmetics to meet the needs of modern consumers who demand the best, from head to toe.
-
-...
-
-[Data](articles/b00b5e6f.json)
-
-[Extended Data](ext_articles/b00b5e6f.ext.json)
-
----
-
-### Sunshine Holdings announces new leadership appointments
-
-*2024-03-22 04:44:43* · [`dailyftlk`](https://www.ft.lk/business/Sunshine-Holdings-announces-new-leadership-appointments/34-759785) · `en`
-
-From left: Aruna Deepthikumara, Michelle Senanayake, Shantha Bandara and Dr. T. Sayandhan
-
-Diversified conglomerate Sunshine Holdings PLC yesterday announced that Aruna Deepthikumara, Michelle Senanayake, Dr. T. Sayandhan, and Shantha Bandara, who are Executive Committee members of the Group, have been appointed as Executive Directors.
-
-Sunshine Holdings Group CEO Shyam Sathasivam said “We are excited to announce the elevation of Aruna Deepthikumara, Michelle Senanayake, Dr. T. Sayandhan, and Shantha Bandara to the positions of Executive Directors within our Group. Their wealth of experience, strategic insight, and unwavering commitment have been invaluable assets to Sunshine Holdings, driving our diverse portfolio toward sustained growth and success. As we navigate dynamic market landscapes, I am confident their leadership will further fortify our position as a leading conglomerate dedicated to delivering excellence for all stakeholders.”
-
-...
-
-[Data](articles/3e5379c7.json)
-
-[Extended Data](ext_articles/3e5379c7.ext.json)
-
----
-
-### Puma asserts IP rights in the battle against counterfeiters
-
-*2024-03-22 04:43:21* · [`dailyftlk`](https://www.ft.lk/business/Puma-asserts-IP-rights-in-the-battle-against-counterfeiters/34-759784) · `en`
-
-PUMA SE, one of the world’s leading sports brands has obtained an Enjoining Order from the Commercial High Court of Colombo in Sri Lanka against a suspected counterfeiter.
-
-Puma SE, recently filed a civil action against Naithi Ltd., through its registered Attorneys-at-Law, Sudath Perera Associates, under the Intellectual Property Act No. 36 of 2003 for the infringement of the Intellectual property rights of PUMA SE by the Defendant.
-
-Puma pleaded that Defendant was selling counterfeit products which contained Plaintiff’s registered trademarks “PUMA” and the leaping cat device;  as one of the most renowned sports brands globally, specializing in advanced sportswear and athletic footwear, Plaintiff argued that Defendant, a substantial garment retailer, must have been fully aware or could not plausibly have been ignorant of the fact that the products being sold were counterfeits.
-
-...
-
-[Data](articles/b1bb7c9d.json)
-
-[Extended Data](ext_articles/b1bb7c9d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 21:34:53**
+As of **2024-03-22 21:52:35**
 
 ## Newspaper Stats
 
-*Scraped **14,604** Articles*
+*Scraped **14,605** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 797
 adalk | 1,257
 adaderanalk | 1,749
 tamilmirrorlk | 1,756
-virakesarilk | 2,060
+virakesarilk | 2,061
 dailymirrorlk | 2,247
 adaderanasinhalalk | 2,332
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,332
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,603 (100.0%) of 14,604 articles have been extended.
+14,604 (100.0%) of 14,605 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Meanwhile, Dr. Indira Kahawita, another experienced dermatologist, stressed the 
 ...
 
 [Data](articles/f2882344.json)
+
+[Extended Data](ext_articles/f2882344.ext.json)
 
 ---
 
@@ -443,6 +445,20 @@ Khaled Ahmed and Nahid Rana took three wickets apiece for Bangladesh, who opted 
 [Data](articles/4278bf72.json)
 
 [Extended Data](ext_articles/4278bf72.ext.json)
+
+---
+
+### பாலியல் செயற்பாட்டுக்காக சிறுமிகளின் வயதெல்லையை குறைக்கும் குற்றவியல் சட்டத்தின் பிரிவுகளை மீளப்பெற வேண்டும் - சஜித்
+
+*2024-03-22 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179443) · `ta`
+
+குற்றவியல் சட்டத்தில் முன்மொழியப்பட்ட திருத்தங்களின் ஊடாக பாலியல் செயற்பாட்டில் ஈடுபடக்கூடிய பெண் பிள்ளைகளின் வயதை 14 வருடங்களாக குறைக்க மற்றும் ஆண் குற்றவாளிகளின் வயது 22க்கு குறைவாக இருந்தால் தண்டனையை தளர்த்த வேண்டும் என்று முன்மொழியப்பட்டுள்ள குற்றவியல் சட்டத்தின் 363 மற்றும் 364 பிரிவுகளை திரும்பப் பெறுமாறு அரசை கேட்டுக் கொள்கிறேன் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச அரசாங்கத்திடம் கோரிக்கை வடுத்தார்.
+
+2024 பெப்ரவரி 13 ஆம் திகதி வெளியிடப்பட்ட தண்டனைச் சட்டத்தின் 363 மற்றும் 364 ஆவது சரத்தின் 19 ஆம் அத்தியாயத்தின் திருத்தம் தொடர்பான சட்டமூலத்தை ஆளும் கட்சி பிரதமகொறடா அமைச்சர் பிரசன்ன ரணதுங்கவின் கவனத்திற்குக் கொண்டு வர விரும்புகிறேன்.
+
+...
+
+[Data](articles/5dd62ca6.json)
 
 ---
 
@@ -2277,23 +2293,5 @@ The body was recovered by R. Nasendran, the father of two children, aged 43.
 [Data](articles/503b3d56.json)
 
 [Extended Data](ext_articles/503b3d56.ext.json)
-
----
-
-### Sri Lanka to secure likely 6-year moratorium on debt owed to India, Paris Club
-
-*2024-03-22 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98122/sri-lanka-to-secure-likely-6-year-moratorium-on-debt-owed-to-india-paris-club-) · `en`
-
-Sri Lanka is close to finalising a debt treatment plan with India and the Paris Club, sources familiar with the negotiations said, pointing to a likely moratorium of up to six years and a reduced interest rate during the repayment period.
-
-“The discussions are at an advanced stage. A formal agreement on the terms can be expected very soon,” the Colombo-based source told The Hindu on Thursday, after a recent discussion among members of the Official Creditor Committee [OCC].
-
-As many as 17 countries that have extended loans to Sri Lanka formed the Committee last year for ease of debt restructuring negotiations. China opted to stay out of the platform, but has been attending its meetings as an observer. Meanwhile, Colombo has repeatedly assured the OCC that it would negotiate repayment of Chinese loans on comparable terms.
-
-...
-
-[Data](articles/e4ea3573.json)
-
-[Extended Data](ext_articles/e4ea3573.ext.json)
 
 ---

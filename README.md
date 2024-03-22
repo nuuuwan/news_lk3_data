@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 03:17:54**
+As of **2024-03-23 03:33:44**
 
 ## Newspaper Stats
 
-*Scraped **14,637** Articles*
+*Scraped **14,638** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,257
 adaderanalk | 1,752
 tamilmirrorlk | 1,758
 virakesarilk | 2,062
-dailymirrorlk | 2,255
+dailymirrorlk | 2,256
 adaderanasinhalalk | 2,335
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,637 (100.0%) of 14,637 articles have been extended.
+14,637 (100.0%) of 14,638 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### 12 per cent of elders toothless in Sri Lanka: Minister
+
+*2024-03-23 03:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/12-per-cent-of-elders-toothless-in-Sri-Lanka-Minister/108-279418) · `en`
+
+Colombo, March 22 (Daily Mirror) - Health Minister Dr. Ramesh Pathirana said 12 per cent of the elderly population in Sri Lanka have lost all their teeth, and therefore the importance of dental health should be taught at school level.
+
+Addressing a function to mark World Oral Health Day, the minister said it is important to maintain oral dental health right throughout life. He said a lot of people suffer from oral cancer in the country today.
+
+He stressed the importance of following proper health habits to prevent such diseases.
+
+◼️
+
+[Data](articles/d55164ec.json)
+
+---
 
 ### Justice Minister promises to complete OMP investigations by Dec 2025
 
@@ -2207,25 +2223,5 @@ Meanwhile, former President Mahinda Rajapaksa, who was attending Sri Lanka Bodhi
 [Data](articles/1309eefa.json)
 
 [Extended Data](ext_articles/1309eefa.ext.json)
-
----
-
-### AG to provide full investigation report on ‘Mahaviru Day’ celebrations held so far
-
-*2024-03-22 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98125/ag-to-provide-full-investigation-report-on-mahaviru-day-celebrations-held-so-far) · `en`
-
-The Attorney General has informed the Court of Appeal that it expects to submit a comprehensive investigation report on all ‘Mahaviru Day’ celebrations held to date, commemorating the cadres of the now-defunct separatist group Liberation Tigers of Tamil Eelam’s (LTTE) in the Northern and Eastern provinces.
-
-Appearing on behalf of the Attorney General, Senior State Counsel Shaminda Wickrema communicated this to the court when a writ petition filed by Ananda Jayamanna, a former officer of Sri Lanka Army Intelligence Unit, seeking legal action against and prohibition of ‘Mahaviru Day’ celebrations, was taken up on Thursday (22).
-
-The petition was heard before the two-member trial bench consisting of Justices S.U.B. Karaliyadda and Mayadunne Corea.
-
-Giving an undertaking before the court previously, the Senior State Counsel, had pledged to take legal action against the ‘Mahaviru Day’ celebrations held in last November.
-
-...
-
-[Data](articles/e1e81a11.json)
-
-[Extended Data](ext_articles/e1e81a11.ext.json)
 
 ---

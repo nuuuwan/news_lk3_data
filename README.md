@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 02:03:00**
+As of **2024-03-23 02:17:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,634 (100.0%) of 14,637 articles have been extended.
+14,637 (100.0%) of 14,637 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Rajapakshe made these comments while attending a workshop organised by the OMP a
 
 [Data](articles/351d4744.json)
 
+[Extended Data](ext_articles/351d4744.ext.json)
+
 ---
 
 ### NFCO led by Janaka Ratnayake to contest all future polls
@@ -71,6 +73,8 @@ Speaking at a press conference in Colombo, Ratnayake emphasised that over the pa
 ...
 
 [Data](articles/9396106d.json)
+
+[Extended Data](ext_articles/9396106d.ext.json)
 
 ---
 
@@ -95,6 +99,8 @@ President Ranil Wickremesinghe has announced the acceleration of the national â€
 ...
 
 [Data](articles/6d265ab4.json)
+
+[Extended Data](ext_articles/6d265ab4.ext.json)
 
 ---
 

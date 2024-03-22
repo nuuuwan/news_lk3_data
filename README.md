@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 06:16:58**
+As of **2024-03-22 06:53:40**
 
 ## Newspaper Stats
 
-*Scraped **14,429** Articles*
+*Scraped **14,446** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 158
 dbsjeyarajcom | 190
 newsfirstlk | 363
 economynextcom | 764
-dailyftlk | 774
-islandlk | 783
+dailyftlk | 776
+islandlk | 796
 adalk | 1,246
-adaderanalk | 1,731
-tamilmirrorlk | 1,741
+adaderanalk | 1,732
+tamilmirrorlk | 1,742
 virakesarilk | 2,028
 dailymirrorlk | 2,217
 adaderanasinhalalk | 2,301
@@ -26,11 +26,73 @@ adaderanasinhalalk | 2,301
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,428 (100.0%) of 14,429 articles have been extended.
+14,429 (99.9%) of 14,446 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### Fairly heavy rainfall expected in 3 provinces including Western
+
+*2024-03-22 06:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98118/fairly-heavy-rainfall-expected-in-3-provinces-including-western) · `en`
+
+Several spells of showers are likely in the Eastern, Uva, North-central and Northern provinces, the Department of Meteorology says.
+
+Showers or thundershowers will occur at several places elsewhere in the island in the afternoon or at night.
+
+Meanwhile, fairly heavy showers above 50mm are likely at some places in Western, Sabaragamuwa and North-western Provinces.
+
+Misty conditions are expected at some places in Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
+
+Members of the public are urged to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/2b063a78.json)
+
+---
+
+### Absolute independence is the bane for CBSL enhanced salary revision
+
+*2024-03-22 05:55:53* · [`dailyftlk`](https://www.ft.lk/columns/Absolute-independence-is-the-bane-for-CBSL-enhanced-salary-revision/4-759810) · `en`
+
+The enormous independence given to the CBSL in the determination of salaries of its employees has been the bane for this unethical and anomalous situation
+
+The famous dictum made by John Acton, a British jurist (1887) that absolute corruption corrupts absolutely comes to my mind when I read the unilateral decision taken by the Central Bank of Sri Lanka (CBSL) in granting an obnoxious salary revision (70%) to its employees across the board, behind the cover of the unfettered autonomy and independent status given to the CBSL by Act No. 16 of 2023. One could argue whether the CBSL’s sense of morality has lessened to such a low ebb with the discretionary powers it has secured with the new Act at a time when the CBSL itself had declared the country as a bankrupt state in terms of economic and financial terms.
+
+...
+
+[Data](articles/781f28a4.json)
+
+---
+
+### Meeting in Court; COPE; poem read at Oscar Awards 76
+
+*2024-03-22 05:54:00* · [`islandlk`](http://island.lk/meeting-in-court-cope-poem-read-at-oscar-awards-76/) · `en`
+
+One of two headlines in The Island of Monday March 18 was “Let’s meet in court, JVP tells Rohitha.” The proposer JVP will be represented by former COPE Chairman Sunil Handunetti and Vijitha Herath and of course Rohitha is Abeygunawardena, always in the news. The challenge is consequent to the newly appointed Chairman/COPE threatening to bring legal action against Vijitha Herath who, Rohitha accuses, made a defamatory statement against him. Handunetti states: “We accept the challenge and dare Abeygunawardena to go before the courts. We will get an opportunity to prove all allegations against him.”
+
+Will Rohitha A institute legal action against these two stalwarts of the JVP? Cassandra places a sure bet: he won’t. Our politicians usually threaten to go to courts but definitely fight shy of doing so. If they are as white as their kapati suits, they need not fear appearing in any court or public forum. But many have skeletons rattling in their cupboards. And they rattle loud and clear.
+
+...
+
+[Data](articles/fd9cf247.json)
+
+---
+
+### Economic recovery must become more broad-based
+
+*2024-03-22 05:49:13* · [`dailyftlk`](https://www.ft.lk/columns/Economic-recovery-must-become-more-broad-based/4-759809) · `en`
+
+President Wickremesinghe with China Communications Construction Company (CCCC) Chairman Wang Tongzhou. CCCC through CHEC Port City Colombo, has invested $ 1.4 billion on Port City Colombo and committed a further $ 300 million. FDI and exports are key to Sri Lanka’s economic recovery
+
+Sri Lanka is now clearly emerging from an unprecedented economic crisis that imposed significant hardships on its people, especially the most vulnerable. There are now some clear signs of recovery. The IMF has projected that the economy will expand in 2024 and that growth will accelerate. Tight borrowing conditions and reduced disposable income still holds back domestic consumption whilst the reform momentum is hurting the poor in some ways.
+
+...
+
+[Data](articles/a8883938.json)
+
+---
 
 ### Elections and the economy
 
@@ -45,6 +107,8 @@ IMF for its part has no choice but to slow down its program after completing its
 ...
 
 [Data](articles/a8cfdee0.json)
+
+[Extended Data](ext_articles/a8cfdee0.ext.json)
 
 ---
 
@@ -143,6 +207,34 @@ Members of the MSME community commended the Opposition leader for his proactive 
 [Data](articles/2a77ccd8.json)
 
 [Extended Data](ext_articles/2a77ccd8.ext.json)
+
+---
+
+### ‘NSB marks 52nd anniversary with pride’
+
+*2024-03-22 05:01:00* · [`islandlk`](http://island.lk/nsb-marks-52nd-anniversary-with-pride/) · `en`
+
+NSB (The National Savings Bank) commemorated its 52nd anniversary with a meaningful celebration held at the NSB Head Office, graced by the presence of its chairman, Dr. Harasha Cabral PC, Senior Director, Dushantha Basnayake, and GM/CEO, Ms. Shashi Kandambi, senior management and members of Team NSB. The event was a testament to NSB’s rich legacy of service excellence and unwavering commitment to its stakeholders, a NSB press release said.
+
+The release added: ‘The anniversary festivities commenced with solemn religious observances, honoring the diversity and unity of all four religions. The dignitaries present participated in these ceremonies, symbolizing NSB’s respect for cultural pluralism and inclusivity.
+
+...
+
+[Data](articles/3b8fadb8.json)
+
+---
+
+### People’s Bank receives ‘Excellence in Corporate Cards for Government Departments’ award
+
+*2024-03-22 05:01:00* · [`islandlk`](http://island.lk/peoples-bank-receives-excellence-in-corporate-cards-for-government-departments-award/) · `en`
+
+People’s Bank was recognized at the Visa Commercial Solutions Client Forum Sri Lanka 2024, held recently at the Cinnamon Grand Hotel. The bank was honored with the prestigious “Excellence in Corporate Cards for Government Departments” award, highlighting its exceptional commitment to providing tailored financial solutions.
+
+Nilmini Premalal, Deputy General Manager of Payment, Process Management & Quality Assurance at People’s Bank, accepted the award on behalf of the organization. The recognition, presented by Avanthi Colombage, Country Manager, Sri Lanka and Maldives, Visa, Shruti Gupta, Head of Commercial and Money Movement Solutions, India & South Asia, Visa and Qinwen Xiao, Head of Visa B2B Connect, Asia Pacific, Visa underscores the bank’s dedication to excellence in serving government departments across Sri Lanka.
+
+...
+
+[Data](articles/c288ed3d.json)
 
 ---
 
@@ -260,6 +352,34 @@ Speaking at the NPP’s inaugural international women’s summit in London on 16
 
 ---
 
+### HNB and ICC collaborate to offer tailored home financing
+
+*2024-03-22 04:46:00* · [`islandlk`](http://island.lk/hnb-and-icc-collaborate-to-offer-tailored-home-financing/) · `en`
+
+Reiterating its efforts to bring the best possible deals to customers investing in their dream home, Sri Lanka’s leading private sector bank, HNB PLC, entered into a Memorandum of Understanding (MoU) with the International Construction Consortium (PVT) Ltd (ICC), to offer exclusive financial solutions to prospective homeowners of the developer’s latest project,’ The Residencies Kotte’, located in the capital city of Sri Lanka.
+
+The agreement was signed at a special ceremony at ICC Head Office, with the participation of HNB AGM -Personal Financial Services, Kanchana Karunagama, and ICC Managing Director/Chief Executive Officer, Namal Peiris, alongside additional representatives from both companies. The partnership will provide customers with the value proposition best suited to their needs, for their home investment.
+
+...
+
+[Data](articles/99fe3863.json)
+
+---
+
+### Dreamron Group celebrates 25 years of generating foreign revenue for Sri Lanka
+
+*2024-03-22 04:46:00* · [`islandlk`](http://island.lk/dreamron-group-celebrates-25-years-of-generating-foreign-revenue-for-sri-lanka/) · `en`
+
+Kindai Kagaku Lanka PVT Ltd celebrated 25 years of successful export business operations. Over this period of operations, Kindai Kagaku Lanka has grown to be one of the leading Hair Care and Skin Care OEM production companies in Sri Lanka and probably the largest player out of all cosmetic manufacturing companies in Sri Lanka.
+
+Kindai Kagaku exports products to over 27 countries covering all continents and does OEM contract manufacturing for over 12 global brands. The comprehensive range includes cosmetics for hair, such as fashion color products, hair restorers, perm products, shampoos and hair treatments and styling products, includinga wide range of cosmetics to meet the needs of modern consumers who demand the best, from head to toe.
+
+...
+
+[Data](articles/b00b5e6f.json)
+
+---
+
 ### Sunshine Holdings announces new leadership appointments
 
 *2024-03-22 04:44:43* · [`dailyftlk`](https://www.ft.lk/business/Sunshine-Holdings-announces-new-leadership-appointments/34-759785) · `en`
@@ -356,6 +476,18 @@ The Sri Lanka Association of Software and Service Companies (SLASSCOM) recently 
 
 ---
 
+### ஐ.தே.க. அமைப்பாளராக அருண் சித்தார்த் நியமனம்
+
+*2024-03-22 03:30:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-க-அமைப்பாளராக-அருண்-சித்தார்த்-நியமனம்/175-335003) · `ta`
+
+யாழ்ப்பாணத்தில் நேற்று மாலை தனியார் மண்டபத்தில் நடைபெற்ற சந்திப்பின்போது ஜக்கிய தேசியக் கட்சியின் பிரதித் தலைவரும் முன்னாள் நிதி அமைச்சருமான ரவி கருணாநாயக்க இந்த விடயத்தை அறிவித்தார். (a)
+
+◼️
+
+[Data](articles/16dc1da0.json)
+
+---
+
 ### 32 Indian fishermen
 
 *2024-03-22 03:25:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/32-இந்திய-மீனவர்களுக்கு-விளக்கமறியல்/175-335002) · `ta`
@@ -435,6 +567,20 @@ To the question, “Do you approve or disapprove of the way the current governme
 [Data](articles/921ffc83.json)
 
 [Extended Data](ext_articles/921ffc83.ext.json)
+
+---
+
+### Biggest mysteries in Aviation history
+
+*2024-03-22 01:05:00* · [`islandlk`](http://island.lk/biggest-mysteries-in-aviation-history/) · `en`
+
+Humans, for generations, would have been envious of birds as the freedom of the skies was entirely theirs. Born with abilities of terrestrial pursuits, humans soon took to water and mastered the art of transport in water too but attempts at flying like birds were in vain, most ending in disaster! However, myths abound. Daedalus, the engineer and his son, Icarus, are supposed to have flown with wings of wax and feather, according to Greek legend.
+
+Though Daedalus flew successfully from Crete to Naples, overambitious Icarus, who flew too high got close to the Sun and fell to his death in the ocean due to wax wings melting. Persian King Kaj Kaoos is supposed to have flown around his kingdom with eagles attached to his throne and Alexander the Great is supposed to have done the same in a basket powered by four Griffins. If Valmiki’s Ramayana is to be believed, as many Indians do, our King Ravana ought to be considered the pioneer aviator!
+
+...
+
+[Data](articles/55516a94.json)
 
 ---
 
@@ -1884,6 +2030,24 @@ Responding to it, Dananjaya de Silva said, "Look, let's see later.
 
 ---
 
+### 8th EASA International Cooperation Forum held in Colombo
+
+*2024-03-21 15:26:00* · [`islandlk`](http://island.lk/8th-easa-international-cooperation-forum-held-in-colombo/) · `en`
+
+The  08th EASA  International Cooperation Forum (ICF) jointly hosted by the Civil Aviation Authority of Sri Lanka (CAASL) and the European Union Airline Safety Agency (EASA) themed ‘Joining forces for a safer and greener aviation worldwide’ was held at the Hilton Colombo from  19th to 21st of March 2024.
+
+The ICF, which was first held in 2008, is an international platform for aviation authorities and regional  organizations interested in regional cooperation and the EASA system. It provides an opportunity to share  experiences and best practices, discussing the latest developments in safety and environmental standards, and  promotion of safe and sustainable aviation worldwide.
+
+Related Topics:08th International Cooperation Forum (ICF)AviationCivil Aviation Authority of Sri Lanka (CAASL)European Union Airline Safety Agency (EASA)
+
+Heat Index at ‘Caution’ level in North-western, Western, Sabaragamuwa provinces and Mannar, Anuradhapura and Galle districts
+
+...
+
+[Data](articles/03568ae3.json)
+
+---
+
 ### Electricity consumers asking for interest from the beginning
 
 *2024-03-21 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194779) · `si`
@@ -1963,245 +2127,5 @@ The approval will depend on the implementation by the authorities of prior actio
 [Data](articles/d33f9397.json)
 
 [Extended Data](ext_articles/d33f9397.ext.json)
-
----
-
-### Two Tax Bills Enforcement
-
-*2024-03-21 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194778) · `si`
-
-Speaker Mahinda Yapa Abeywardena signed two tax bills for Parliament: Social Security Tax (Amendment) Act, No. 15 of 2024, and VAT (Amendment) Act, No. 16 of 2024.
-
-🟩
-
-Speaker Mahinda Yapa Abeywardena has signed two Bills to be passed by Parliament.
-
-The Speaker has recorded his certificate yesterday (20) for Social Security Tax (Amendment) and VAT (Amendment).
-
-Accordingly, the above Bills Announced the Parliament of Social Security Tax (Amendment) Act, No. 15 of Variations (Amendment) Act, No. 16 of 2024 as a review.
-
-◼️
-
-[Data](articles/50b7eed4.json)
-
-[Extended Data](ext_articles/50b7eed4.ext.json)
-
----
-
-### Good news to Sri Lanka from the International Monetary Fund
-
-*2024-03-21 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194777) · `si`
-
-The International Monetary Fund has approved a staff-level agreement for Sri Lanka's comprehensive loan facility.
-
-🟩
-
-The International Monetary Fund announced that he had approved a staff level regarding the comprehensive loan facility that was approved by Sri Lanka.
-
-◼️
-
-[Data](articles/4397fcae.json)
-
-[Extended Data](ext_articles/4397fcae.ext.json)
-
----
-
-### Parents in Sri Lanka in a major crisis;Drug shortages;Increase in prices multi -fold
-
-*2024-03-21 15:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179333) · `ta`
-
-Sri Lanka faces a health crisis due to drug shortages and rising prices. The government's health budget is insufficient, impacting patients like Nuwan, who travels for cancer treatment. The National Cancer Hospital is crucial for those without private access. The economic downturn exacerbates the crisis, with drug shortages and price increases. The pharmaceutical industry is affected, with international corporations contributing to the shortage. The Sri Lankan currency's fall in 2022-3 increases drug prices, and some fraudsters sell medicines at inflated prices. Health Minister Ramespatra acknowledges these issues, noting increased budget funds to address drug prices but also highlighting outdated drugs in government hospitals.
-
-🟩
-
-Nuwan, a native of Medimalai, travels 230 kilometers every time he is suffering from cancer.
-
-It was revealed last year that his 18 -year -old son was suffering from a bloodbath, and the two parents came to Makarahamavi every time they were treated from their homes.
-
-The government has allocated four percent of its budget for health services to provide free medical mission to all Sri Lankan people.
-
-However, due to the consequences of the economic downturn, the health sector, which has previously been acclaimed, has been in the crisis of drugs.
-
-National Cancer Hospital, such as Puspakumara's family, is very important for many who cannot be treated in private hospitals.
-
-Patients such as Nuwan should be given free of charge but have not recently seen such a situation.
-
-Treatment is excellent but there is a shortage of drugs.
-
-I am buying medicines from my family and friends, but the number of drugs has increased many times, he said.
-
-...
-
-[Data](articles/41274005.json)
-
-[Extended Data](ext_articles/41274005.ext.json)
-
----
-
-### Two persons arrested for selling lighter for Rs.
-
-*2024-03-21 15:10:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-20-இலட்சத்துக்கு-லைட்டர்-விற்ற-இருவர்-கைது/175-334993) · `ta`
-
-Two individuals from Gampola, Pussellawa, and Helboda were arrested for selling fake gold biscuits and a lighter imported from abroad. They allegedly sold these items at inflated prices, with some items buried in their garden.
-
-🟩
-
-Two persons have been arrested for allegedly selling only one light to Rs.. The gold biscuits brought from abroad have been sold to a man from Wennappuwa Vaikal area.. Gampola police have arrested them.
-
-Gold biscuit images have been obtained on the platforms and showing them to buyers and selling them for an extra price. Likewise, in the form of gold biscuits, they have sold the lighter brought from abroad.
-
-Two persons from Gampola, Pussellawa and Helboda areas have been arrested.
-
-Investigations have been found through investigations that they have gone all over the country and have been selling fake gold biscuits.
-
-Meanwhile, police said that some of the golden lighter and foreign currency notes were buried in their banana garden with a depth of about 4 feet, claiming gold biscuits.
-
-◼️
-
-[Data](articles/76032a0a.json)
-
-[Extended Data](ext_articles/76032a0a.ext.json)
-
----
-
-### Viyathmaga has no connection to Gotabaya’s expulsion: Nalaka Godahewa
-
-*2024-03-21 15:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Viyathmaga-has-no-connection-to-Gotabayas-expulsion-Nalaka-Godahewa/108-279325) · `en`
-
-Parliament, March 21 (Daily Mirror)- The Viyathmaga had no connection to the economic crisis and the expulsion of former President Gotabaya Rajapaksa from office, Parliamentarian Nalaka Godahewa said today.
-
-He told Parliament that the crisis situation was a result of the banning of chemical fertilizer, shortage of gas, the power crisis and depletion of foreign reserves.
-
-The MP said Gotabaya Rajapaksa in his book which was released recently clearly said that former Agriculture Minister Mahindananda Aluthgamage had supported him in the implementation of the organic farming policy.
-
-He said the Viyathmaga members who were appointed as Secretaries to the Ministries were against the decisions taken by the President and as a result, four of them were removed.
-
-The MP said this in response to a claim made by Minister Mahinda Amaraweera, who said that the Viyathmaga was behind the faulty decisions taken by Gotabaya Rajapaksa resulting in the expulsion of the then President and the government.
-
-◼️
-
-[Data](articles/5add26bb.json)
-
-[Extended Data](ext_articles/5add26bb.ext.json)
-
----
-
-### IMF and Sri Lanka reaches staff-level agreement following second review
-
-*2024-03-21 15:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98106/imf-and-sri-lanka-reaches-staff-level-agreement-following-second-review) · `en`
-
-IMF staff and the Sri Lankan authorities have reached staff-level agreement on economic policies to conclude the second review of the 4-year EFF-supported program and the 2024 Article IV Consultation.
-
-Once the review is approved by IMF Management and completed by the IMF Executive Board, Sri Lanka will have access to SDR 254 million (about US$337 million) in financing, bringing the total IMF financial support disbursed under the arrangement to SDR 762 million (about US$1 billion), the International Monetary Fund (IMF) said.
-
-Macroeconomic policy reforms are starting to bear fruit. Sustaining the reform momentum and addressing governance weaknesses and corruption vulnerabilities are critical to put the economy on a path towards lasting recovery and stable and inclusive growth.
-
-Completion of the review by the IMF’s Executive Board requires:
-
-...
-
-[Data](articles/8d2df923.json)
-
-[Extended Data](ext_articles/8d2df923.ext.json)
-
----
-
-### Speaker endorses VAT and Social Security Contribution Levy bills
-
-*2024-03-21 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98105/speaker-endorses-vat-and-social-security-contribution-levy-bills) · `en`
-
-Speaker Mahinda Yapa Abeywardena has endorsed the Social Security Contribution Levy (Amendment) Bill and Value Added Tax (Amendment) Bill.
-
-According to Deputy Speaker Ajith Rajapakse, the two Bills received the assent of the Speaker yesterday (March 20).
-
-The two Bills thus came into effect as the Social Security Contribution Levy (Amendment) Act No. 15 of 2024 and Value Added Tax (Amendment) Act No. 16 of 2024 yesterday.
-
-◼️
-
-[Data](articles/762f8aeb.json)
-
-[Extended Data](ext_articles/762f8aeb.ext.json)
-
----
-
-### Shan's disciple arrested with heroin
-
-*2024-03-21 14:59:04* · [`adalk`](https://www.ada.lk/breaking_news/ශාන්-ගේ-ගෝලයෙකු-හෙරෝයින්-සමග-අත්අඩංගුවට/11-408743) · `si`
-
-Shan's disciple arrested in Matugama with 10 grams of heroin, valued at nearly Rs., by the Easy Cas system.
-
-🟩
-
-The Colombo Criminal Division has been arrested with drugs with drugs worth nearly Rs.
-
-The suspect has also taken into custody with 10 grams of heroin in the Soldrakada area in Matugama, police said.
-
-The suspect, which has been carried out by the Easy Cas system, has been lodged with the racketeer of the racketeer tortoise, police said.
-
-◼️
-
-[Data](articles/af39ad01.json)
-
-[Extended Data](ext_articles/af39ad01.ext.json)
-
----
-
-### Occupation of the Trincomalee Menkamam Pond;Villagers demand legal action
-
-*2024-03-21 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/179330) · `ta`
-
-Villagers in Trincomalee's Menkamam Pond demand legal action against illegal occupants, affecting over 200 farmers. The pond, part of the Abirami Amman Agricultural Federation, has been rehabilitated and acquired by locals, causing agricultural losses.
-
-🟩
-
-The villagers say that the majority of the people of the Menkamam pond, which belongs to the Muttur Divisional Secretariat Division of Trincomalee, have been occupying the area since Wednesday (20).
-
-They are concerned that no legal action has been taken against them and that no legal action has been taken against them.
-
-More than 200 farmers rely on the Menkamam pond belonging to the Abirami Amman Agricultural Federation. But the site has long been rehabilitated and has been acquired by the majority of the people. The people who rely on this field and who have been working as a livelihood industry have been facing a loss in agriculture for a long time.
-
-Therefore, the relevant authorities are demanding the rehabilitation of the pond and the villagers are urging the villagers to take legal action against those who illegally occupy the pond.
-
-◼️
-
-[Data](articles/790fe9b3.json)
-
-[Extended Data](ext_articles/790fe9b3.ext.json)
-
----
-
-### “Opposition members have released internal information”
-
-*2024-03-21 14:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சி-உறுப்பினர்கள்-உள்-தகவல்களை-வெளியிட்டுள்ளனர்/175-334992) · `ta`
-
-Prime Minister Dinesh Gunawardena criticized opposition members for releasing internal information from the Constitutional Council, affecting the appointment of the Inspector General of Police.
-
-🟩
-
-Prime Minister Dinesh Gunawardena told Parliament today that the opposition members of the Constitutional Council have been reckless by the release of internal information held by the Constitutional Council to decide on the Inspector General of Police.
-
-"In the past there were issues and disagreements among the members of the Constitutional Council but no member revealed them. However, opposition members of the current Constituent Assembly have released internal information. This is a reckless act, ”the Prime Minister said.
-
-◼️
-
-[Data](articles/be55a641.json)
-
-[Extended Data](ext_articles/be55a641.ext.json)
-
----
-
-### ADB launches new partnership strategy for Sri Lanka
-
-*2024-03-21 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98104/adb-launches-new-partnership-strategy-for-sri-lanka) · `en`
-
-The Asian Development Bank (ADB) has launched a new country partnership strategy (CPS) for Sri Lanka covering the period 2024–2028. The strategy will focus on restoring the country’s macroeconomic stability, reviving growth, and establishing the foundation for sustainable recovery and resilience.
-
-“This new partnership strategy will build on ADB’s ongoing assistance to support the country’s efforts to restore macroeconomic stability, and to achieve green and long-term sustainable growth,” said ADB Country Director for Sri Lanka Takafumi Kadono. “The CPS responds to Sri Lanka’s economic situation by tailoring ADB assistance to address the country’s long-standing macroeconomic imbalances and structural impediments through knowledge solutions, policy advisory support, and priority investments.”
-
-...
-
-[Data](articles/ada3a8bd.json)
-
-[Extended Data](ext_articles/ada3a8bd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 00:33:41**
+As of **2024-03-23 00:49:18**
 
 ## Newspaper Stats
 
-*Scraped **14,630** Articles*
+*Scraped **14,632** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 161
 dbsjeyarajcom | 190
 newsfirstlk | 363
 economynextcom | 782
-dailyftlk | 786
+dailyftlk | 788
 islandlk | 797
 adalk | 1,257
 adaderanalk | 1,751
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,334
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,618 (99.9%) of 14,630 articles have been extended.
+14,624 (99.9%) of 14,632 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,24 @@ The chemotherapy treatment began in late February. The palace says it will not b
 
 [Data](articles/d8f33869.json)
 
+[Extended Data](ext_articles/d8f33869.ext.json)
+
+---
+
+### Microsoft a copilot to Education Ministry in integrating AI into national curriculum
+
+*2024-03-23 00:16:07* · [`dailyftlk`](https://www.ft.lk/business/Microsoft-a-copilot-to-Education-Ministry-in-integrating-AI-into-national-curriculum/34-759843) · `en`
+
+Representatives from the Ministry of Education, Ministry of Technology, United States
+
+The Ministry of Education (MoE) in Sri Lanka and Microsoft have signed a Memorandum of Understanding (MoU) to usher in a new era of education by enabling the integration of Artificial Intelligence (AI) and Machine Learning (ML) into Sri Lanka’s national school curriculum.
+
+This collaborative effort aims to transform the education system in the country, with the pilot testing phase beginning from grade eight and above. The MoU signing also includes the provision of the Microsoft 365 platform which will serve as a secure communication and collaboration hub for both students and teachers.
+
+...
+
+[Data](articles/1a2f4c02.json)
+
 ---
 
 ### Pendi receives Merit Award for Best Stall Displaying Local Products at Architect 2024 Exhibition
@@ -68,6 +86,8 @@ The Architect 2024 Exhibition, held in February, brought together industry leade
 
 [Data](articles/61a2e4fc.json)
 
+[Extended Data](ext_articles/61a2e4fc.ext.json)
+
 ---
 
 ### Make every bottle sold a beacon of hope
@@ -81,6 +101,8 @@ American Premium commemorates World Water Day by teaming up with OrphanCare
 ...
 
 [Data](articles/9fb460d1.json)
+
+[Extended Data](ext_articles/9fb460d1.ext.json)
 
 ---
 
@@ -97,6 +119,8 @@ These promotions will add to the good cheer of the Avurudu celebrations by offer
 ...
 
 [Data](articles/3d3a2623.json)
+
+[Extended Data](ext_articles/3d3a2623.ext.json)
 
 ---
 
@@ -115,6 +139,8 @@ In the first article published last week (“Col” Karuna’s Eastern Tiger rev
 ...
 
 [Data](articles/470185d5.json)
+
+[Extended Data](ext_articles/470185d5.ext.json)
 
 ---
 
@@ -167,6 +193,8 @@ Sri Lankan businesses must look beyond the surface to design Diversity, Equity a
 ...
 
 [Data](articles/72636e46.json)
+
+[Extended Data](ext_articles/72636e46.ext.json)
 
 ---
 
@@ -243,6 +271,18 @@ A sustainable future depends on investments in forest protection and restoration
 ...
 
 [Data](articles/e1ebe195.json)
+
+---
+
+### Nature-based solutions: Mangrove ecosystem conservation and climate action
+
+*2024-03-22 23:27:09* · [`dailyftlk`](https://www.ft.lk/columns/Nature-based-solutions-Mangrove-ecosystem-conservation-and-climate-action/4-759833) · `en`
+
+The importance of mangrove forests and their unique characteristics as liminal ecosystems between land and sea has been firmly established through decades of research and field work. Hectare by hectare, mangroves store more carbon than any other forest ecosystem and provide habitats for an astonishing range of terrestrial and marine biodiversity. Furthermore, they also offer protection, livelihood opportunities, and a broad range of ecosystem services to communities along the coastlines of tropical countries, including
+
+...
+
+[Data](articles/0fb6e059.json)
 
 ---
 
@@ -2181,51 +2221,5 @@ The department also states that the temperature has risen abnormally at this tim
 [Data](articles/40ee8e27.json)
 
 [Extended Data](ext_articles/40ee8e27.ext.json)
-
----
-
-### Israel should grant permission for humanitarian aid
-
-*2024-03-22 12:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179410) · `ta`
-
-Australia and the UK appeal to Israel for humanitarian aid in Gaza, urging an immediate ceasefire and condemning the October 7th attack. They express concern over the situation, highlighting sexual violence and calling for adherence to international humanitarian law.
-
-🟩
-
-Australia and the UK have jointly appealed to Israel to ensure humanitarian assistance to reach Gaza.
-
-The two countries have also appealed for an immediate ceasefire to create a permanent ceasefire.
-
-Australia and the UK have expressed concern over the humanitarian situation in Gaza.
-
-The Australian British, condemning the attack on the seventh of October, said the attack was carried out on innocent people and that there were sexual violence.
-
-Australia and Britain have appealed for all parties to act within the definition of international humanitarian law, and the immediate ceasefire uncontrollable passengers have made a request for the protection of the public in all cases.
-
-◼️
-
-[Data](articles/36aff6d7.json)
-
-[Extended Data](ext_articles/36aff6d7.ext.json)
-
----
-
-### President Ranil meets with Basil; discusses future political affairs
-
-*2024-03-22 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98124/president-ranil-meets-with-basil-discusses-future-political-affairs) · `en`
-
-President Ranil Wickremesinghe has held a discussion with the founder of the Sri Lanka Podujana Peramuna (SLPP) and former Finance Minister Basil Rajapaksa last night (21), where attention was drawn to the upcoming elections and the future political affairs.
-
-This meeting comes after President Wickremesinghe had informed the Cabinet of Ministers to make preparations for the presidential election first.
-
-Thus, Basil Rajapaksa has communicated to the President the SLPP’s stance with respect to the upcoming elections, political sources said.
-
-Nevertheless, it has been decided to continue discussions regarding the matter further, since no final agreement was reached between the two parties at yesterday’s meeting.
-
-...
-
-[Data](articles/bd9f188b.json)
-
-[Extended Data](ext_articles/bd9f188b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 04:02:53**
+As of **2024-03-23 04:18:11**
 
 ## Newspaper Stats
 
-*Scraped **14,638** Articles*
+*Scraped **14,639** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 791
 islandlk | 797
 adalk | 1,257
 adaderanalk | 1,752
-tamilmirrorlk | 1,758
+tamilmirrorlk | 1,759
 virakesarilk | 2,062
 dailymirrorlk | 2,256
 adaderanasinhalalk | 2,335
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,638 (100.0%) of 14,638 articles have been extended.
+14,638 (100.0%) of 14,639 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### அவசர சிகிச்சைப் பிரிவை திறந்து வைத்தார் ஜனாதிபதி
+
+*2024-03-23 03:55:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவசர-சிகிச்சைப்-பிரிவை-திறந்து-வைத்தார்-ஜனாதிபதி/175-335038) · `ta`
+
+பருத்தித்துறை ஆதார வைத்தியசாலையின் விபத்து மற்றும் அவசர சிகிச்சைப் பிரிவுக்கான புதிய கட்டடம்  ஜனாதிபதி ரணில் விக்கிரமசிங்கவால் நேற்று திறந்து வைக்கப்பட்டது.
+
+நெதர்லாந்து அரசின் மென்கடன் திட்டத்தின் கீழ் இந்தப் புதிய கட்டடம் நிர்மாணிக்கப்பட்டுள்ளது. 400 கோடி ரூபா செலவில் புதிய கட்டடம் நிர்மாணிக்கப்பட்டுள்ளது.
+
+பருத்தித்துறை ஆதார வைத்தியசாலையின் புதிய கட்டடத்தைத் திறந்து வைத்ததன் பின்னர் ஜனாதிபதி உள்ளிட்ட குழுவினர் சிகிச்சைப் பிரிவுகளைச் சென்று பார்வையிட்டனர். (a)
+
+◼️
+
+[Data](articles/d4c07007.json)
+
+---
 
 ### 12 per cent of elders toothless in Sri Lanka: Minister
 
@@ -2197,33 +2213,5 @@ The Sri Lanka Police have informed private spies as mentioned above.
 [Data](articles/debbf01e.json)
 
 [Extended Data](ext_articles/debbf01e.ext.json)
-
----
-
-### Basil proposed to be the best job - Mahinda
-
-*2024-03-22 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194812) · `si`
-
-Basil Rajapaksa discussed Sri Lanka Civil Appointment with President Ranil Wickremesinghe, setting up for presidential elections. Mahinda Rajapaksa supports holding parliamentary elections first, ensuring a strong victory for the presidential candidate.
-
-🟩
-
-President Ranil Wickremesinghe and the founder of the Sri Lanka General Wickremesinghe have held a discussion yesterday (21).
-
-Basil Rajapaksa has informed the President regarding the vicinity of the Sri Lanka Civil Appointment.
-
-It is said that Basil Rajapaksa has informed the President to the President of the Sri Lanka Knowledge and General Election.
-
-The meeting had taken place in a setting up to the Cabinet meeting held at the Cabinet meeting held first to prepare for the presidential election.
-
-However, it has been decided to discuss any further agreement with the two parties.
-
-Meanwhile, former President Mahinda Rajapaksa, who was attending Sri Lanka Bodhi tree in Anuradhapura this morning, commented on the discussion between President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/1309eefa.json)
-
-[Extended Data](ext_articles/1309eefa.ext.json)
 
 ---

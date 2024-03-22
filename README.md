@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 09:33:39**
+As of **2024-03-22 09:52:35**
 
 ## Newspaper Stats
 
-*Scraped **14,468** Articles*
+*Scraped **14,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,155 @@ economynextcom | 764
 dailyftlk | 776
 islandlk | 797
 adalk | 1,246
-adaderanalk | 1,733
+adaderanalk | 1,734
 tamilmirrorlk | 1,747
-virakesarilk | 2,029
+virakesarilk | 2,032
 dailymirrorlk | 2,222
-adaderanasinhalalk | 2,309
+adaderanasinhalalk | 2,310
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,466 (100.0%) of 14,468 articles have been extended.
+14,468 (100.0%) of 14,473 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### කාසියේ වාසිය බංග්ලාදේශයට
+### පාර්ලිමේන්තු කටයුතු ඇරඹෙයි
+
+*2024-03-22 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194805) · `si`
+
+නියෝජ්‍ය කථානායකවරයාගේ ප්‍රධානත්වයෙන් මේ වනවිට පාර්ලිමේන්තු කටයුතු ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/59a9501c.json)
+
+---
+
+### Police offer cash rewards for information provided on illegal firearms
+
+*2024-03-22 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98120/police-offer-cash-rewards-for-information-provided-on-illegal-firearms) · `en`
+
+Sri Lanka Police have decided to offer cash prizes to individuals who provide information about illegal firearms used by organized criminal gang members.
+
+In parallel to the ongoing ‘Yukthiya’ exercise to eradicate drug distribution initiated in late December 2023, the police launched a special police operation on March 19 in a bid to crack down on organized crimes.
+
+Accordingly, 20 special police teams – each consisting of nine personnel including one Crimes OIC, four intelligence officers and two Special Task Force (STF) personnel – were deployed in Western Province and Galle District.
+
+Inspector-General of Police (IGP) Deshabandu Tennakoon has decided to award crash prizes to any individual who tip the police off on firearms and organized criminal gang members.
+
+In addition, as many as 46 contact numbers were also introduced for the members of the public to provide relevant information.
+
+...
+
+[Data](articles/7c11f954.json)
+
+---
+
+### கவனம் ஈர்க்கும் பிரபுதேவா நடிக்கும் 'முசாசி' பட பாடலின் காணொளி
+
+*2024-03-22 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179378) · `ta`
+
+'நடன புயல்' பிரபுதேவா நடிப்பில் உருவாகி வரும் 'முசாசி' எனும் திரைப்படத்திலிருந்து 'ஸ்டார்லைட் ..' எனத் தொடங்கும் பாடலும், பாடலுக்கான காணொளியும் வெளியிடப்பட்டிருக்கிறது.
+
+அறிமுக இயக்குநர் ஷாம் ரொட்ரிக்ஸ் இயக்கத்தில் உருவாகும் 'முசாசி' எனும் திரைப்படத்தில் பிரபுதேவா, வி டி வி கணேஷ், ஜான் விஜய், மாஸ்டர் மகேந்திரன், பினு பாப்பு, லியோனா லீசாய் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+விக்னேஷ் வாசு ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு லியாண்டர் லீ மார்ட்டி இசையமைத்திருக்கிறார். எக்சன் என்டர்டெய்னர் ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை ஜாய் பிலிம் பாக்ஸ் என்டர்டெய்ன்மென்ட் எனும் நிறுவனம் சார்பில் தயாரிப்பாளர் ஜான் பிரிட்டோ தயாரித்திருக்கிறார்.
+
+இந்த திரைப்படத்தின் இடம்பெற்ற 'ஸ்டெர்லைட் கிளம்பு கிளம்பு..' எனத்தொடங்கும் பாடலும் பாடலுக்கான காணொளியும் வெளியிடப்பட்டிருக்கிறது.
+
+இந்த பாடலை பாடலாசிரியர்கள் விக்னேஷ் ஜெயபால், ஷாம் ரொட்ரிக்ஸ், அவியான், லீ ஆகியோர் எழுத, பின்னணி பாடகர்கள் லீ, கிறிஸ்டோபர் ஸ்டான்லி, சில்வி சரண், சாரு ஹரிஹரன், அவியான் ஆகியோர் இணைந்து பாடியிருக்கிறார்கள்.
+
+...
+
+[Data](articles/a93a6020.json)
+
+---
+
+### டெல்லி முதலமைச்சர் அரவிந்த் கெஜ்ரிவால் கைது
+
+*2024-03-22 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179381) · `ta`
+
+டெல்லி முதலமைச்சர் அரவிந்த் கெஜ்ரிவால் மதுபான கொள்கை விவகாரத்தில் ஊழல் குற்றச்சாட்டுகள் தொடர்பாக இந்தியாவின் நிதிக் குற்றவியல் பிரிவினால் கைது செய்யப்பட்டுள்ளார் என அவரது கட்சி தெரிவித்துள்ளது.
+
+டெல்லி மதுபான கொள்கை விவகாரத்தில் விசாரணைக்கு ஆஜராகும்படி டெல்லி முதலமைச்சர்  அரவிந்த் கெஜ்ரிவாலுக்கு இந்தியாவின் நிதிக் குற்றவியல் பிரிவு பல முறை அழைப்பு விடுத்தது. இருப்பினும், அவர் விசாரணைக்கு ஆஜராகவில்லை.
+
+இந்த வழக்கில் தான் ஏற்கனவே அம்மாநில முன்னாள் முதலமைச்சர்  மணிஷ் சிசோடியா கைது செய்யப்பட்டு சிறையில் இருக்கிறார், விசாரணைக்கு ஆஜராகாத கெஜ்ரிவால் எப்போது வேண்டுமானாலும் கைது செய்யப்படலாம் எனக் கூறப்பட்டது.
+
+தன்னை கைது செய்யத் தடை விதிக்க வேண்டும் என கெஜ்ரிவால் டெல்லி உயர்நீதிமன்றத்தில் மனுத்தாக்கல் செய்தார். இந்த வழக்கில் வியாழக்கிழமை தீர்ப்பளித்த டெல்லி உயர்நீதிமன்றம், கெஜ்ரிவாலை கைது செய்யத் தடை விதிக்க மறுத்துவிட்டது. இந்த தீர்ப்பு வந்த சில மணி நேரங்களிலேயே நிதிக் குற்றவியல் பிரிவு டெல்லி முதல்வர் கெஜ்ரிவால் இல்லத்தை முற்றுகையிட்ட நிலையில் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/d0676eea.json)
+
+---
+
+### டிஜிட்டல் தளத்திலும் சாதிக்கும் தனுஷின் 'கேப்டன் மில்லர்'
+
+*2024-03-22 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/179377) · `ta`
+
+சத்யஜோதி பிலிம்ஸ்  நிறுவனம் சார்பில் தயாரிப்பாளர் டி ஜி தியாகராஜன் தயாரிப்பில், தனுஷ் நடிப்பில், அருண் மாதேஸ்வரன் இயக்கத்தில் கடந்த பொங்கல் திருவிழா தருணத்தில் உலகம் முழுவதும் பட மாளிகையில் 'கேப்டன் மில்லர்' எனும் திரைப்படம் வெளியானது.
+
+கலவையான விமர்சனங்களை பெற்ற இந்த திரைப்படம் கடந்த பெப்ரவரி மாதம் ஒன்பதாம் திகதி முதல் பிரைம் வீடியோ டிஜிட்டல் தளத்தில் வெளியானது.
+
+ப்ரைம் டிஜிட்டல் தளத்தில் வெளியாகி 40 நாட்களைக் கடந்த பிறகும்... தொடர்ந்து முதலிடத்தில் நீடித்திருப்பதுடன் பல நாடுகளிலும், பல மொழிகளிலும் புதிய சாதனையையும் படைத்திருக்கிறது.
+
+குறிப்பாக இந்தத் திரைப்படம் டிஜிட்டல் தளத்தில் வெளியான பிறகு இந்தியா மட்டுமில்லாமல் தான்சானியா உள்ளிட்ட ஆப்பிரிக்க நாடுகளிலும், மலேசியா, சிங்கப்பூர், ஹாங்காங் உள்ளிட்ட ஆசிய நாடுகளிலும், பஹ்ரைன், கத்தார், குவைத், ஐக்கிய அரபு அமீரகம் உள்ளிட்ட அரபு நாடுகளிலும் தொடர்ந்து முதல் ஐந்து இடங்களில் முன்னணி இடத்தை பிடித்து ட்ரெண்டிங்கில் இருந்து வருகிறது.
+
+...
+
+[Data](articles/dab86530.json)
+
+---
+
+### Bangladesh to the coin
 
 *2024-03-22 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194804) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර පළමු ටෙස්ට් ක්‍රිකට් තරගය අද (22) පැවැත්වෙයි.
+Bangladesh won the coin toss in the first Test match against Sri Lanka, deciding to bat first.
 
-එහි කාසියේ වාසිය දිනාගැනීමට බංග්ලාදේශ කණ්ඩායම සමත්වූ අතර ඔවුන් තීරණය කළේ පළමුවෙන් පන්දුවට පහරදීමේ අවස්ථාව ශ්‍රී ලංකා කණ්ඩායමට ලබාදීමටය.
+🟩
+
+The first Test match between the Tourism Sri Lanka and Bangladesh will be held today.
+
+The Bangladesh team won the advantage of the coin and they decided to give the Sri Lankan team first to bat first.
 
 ◼️
 
 [Data](articles/e9a72d9e.json)
 
+[Extended Data](ext_articles/e9a72d9e.ext.json)
+
 ---
 
-### இன்றிலிருந்து வானிலையில் மாற்றம்
+### Change in weather from today
 
 *2024-03-22 09:08:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றிலிருந்து-வானிலையில்-மாற்றம்/175-335008) · `ta`
 
-நாட்டில் தற்போது நிலவும் வரட்சியான வானிலையில் இன்றில் (22) இருந்து மாற்றம் ஏற்படும் என எதிர்பார்க்கப்படுகின்றது.
+Expected weather changes: drought to rain in Eastern, Uva, and Northern Provinces; thundershowers in upper, Sabaragamuwa, Central, South, North Western, and North Central Provinces; heavy rainfall in Sabaragamuwa; snowfall in Sabaragamuwa, Central, Galle, and Kalutara; thundershowers may blow; precautions advised.
 
-கிழக்கு, ஊவா மற்றும் வடக்கு மாகாணங்களில் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+🟩
 
-மேல், சப்ரகமுவ, மத்திய,தென், வடமேல் மற்றும் வடமத்திய மாகாணங்களில் பல இடங்களில் பிற்பகலில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+The country is expected to change from today (22) in the drought weather.
 
-சப்ரகமுவ மாகாணத்தில் சில இடங்களில் 50 மி.மீ க்கும் அதிகமான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+Rainfall is expected in the Eastern, Uva and Northern Provinces several times.
 
-சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் களுத்துறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+There is a possibility of rainfall or thundershowers in many places in the upper, Sabaragamuwa, Central, South, North Western and North Central Provinces.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+More than 50 mm of heavy rainfall is expected in some places in Sabaragamuwa Province.
+
+In some parts of the Sabaragamuwa and Central Provinces and Galle and Kalutara districts, there is expected snowfall in the morning.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
 
 ◼️
 
 [Data](articles/fad7b0a6.json)
+
+[Extended Data](ext_articles/fad7b0a6.ext.json)
 
 ---
 
@@ -2003,119 +2103,5 @@ At the same time, steps should be taken to expedite the release of 12 Tamil poli
 [Data](articles/dc8a2697.json)
 
 [Extended Data](ext_articles/dc8a2697.ext.json)
-
----
-
-### No-confidence motion against Speaker defeated in Parliament
-
-*2024-03-21 16:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98109/no-confidence-motion-against-speaker-defeated-in-parliament) · `en`
-
-The vote on the no-confidence motion against Speaker of the Parliament Mahinda Yapa Abeywardena, was defeated in the Parliament today (March 21), following a three-day debate.
-
-The Speaker survived the no-confidence motion, moved by the Samagi Jana Balawegaya (SJB), by a majority of 42 votes.
-
-A total of 117 lawmakers had voted against the motion while 75 voted in favour.
-
-Accordingly, Mahinda Yapa Abeywardena will continue to function as the Speaker of the Parliament of Sri Lanka.
-
-The third day of the parliamentary debate on the no-confidence motion against the Speaker commenced at 09.30 a.m. this morning.
-
-The parliamentary debate on the no-confidence motion tabled by the Samagi Jana Balawegaya (SJB) was initially slated to be held for two days, however the Committee on Parliamentary Business later decided for it to be debated for three consecutive days.
-
-The debate commenced in the Parliament on Tuesday (March 19).
-
-...
-
-[Data](articles/3a50cebc.json)
-
-[Extended Data](ext_articles/3a50cebc.ext.json)
-
----
-
-### The no-confidenceability of the speaker is overcoming voting
-
-*2024-03-21 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194785) · `si`
-
-The no-confidence motion against Speaker Mahinda Yapa Abeywardena was defeated in a general election today, despite three days of debate.
-
-🟩
-
-The no-confidence motion against Speaker Mahinda Yapa Abeywardena was defeated by more voting in general election today (21).
-
-The debate on the no confidence motion against Speaker Mahinda Yapa Abeywardena has been launched for three days.
-
-◼️
-
-[Data](articles/b784fce3.json)
-
-[Extended Data](ext_articles/b784fce3.ext.json)
-
----
-
-### I always value the feelings of the fishermen of the North - Minister Douglas
-
-*2024-03-21 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/179355) · `ta`
-
-Minister Douglas Devananda values the North's fishermen's feelings, acknowledging their hunger strike's success. He addresses the opposition's no-confidence motion against Speaker Mahinda Yapa Abeywardena and the fisheries system's issues. Legal action is being taken, and discussions are ongoing with Indian states about the impact of Indian trawling web boats.
-
-🟩
-
-Minister Douglas Devananda has said that I am always worth the sentiments of the fishermen of the North and the hunger strike has been successful.
-
-He was speaking on the no -confidence motion brought by the Opposition to Speaker Mahinda Yapa Abeywardena and some issues in the country.
-
-The hunger strike continues today for the third day of the hunger strike today, with the fisheries system of fisheries and banned fisheries equipment, and the situation of the Northern fishermen who are suffering from the world of fishermen.
-
-We are taking legal action on this issue. Three Indian drag folds were caught by Navy in Jaffna yesterday.. Two boats were caught in Mannar and seven arrested.
-
-At the same time, ministers from the states of Tamil Nadu and Pondicherry are talking to me about the problems of the Indian trawling web boats.
-
-...
-
-[Data](articles/3002b0a6.json)
-
-[Extended Data](ext_articles/3002b0a6.ext.json)
-
----
-
-### Approval of Sri Lankan government falls to 7% in February
-
-*2024-03-21 16:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Approval-of-Sri-Lankan-government-falls-to-7-in-February/108-279331) · `en`
-
-Colombo, March 21 - The approval rating of the government fell from 9% in October 2023 to 7% in February 2024, according to the latest round of the Gallup style ‘Mood of the Nation’ poll of Verité Research.
-
-The survey showed that only 9% rated the current economic conditions as either excellent or good, which is a drop from 16% in October 2023.
-
-Further, 90% thought that the economic conditions in the country were getting worse, whereas in October 2023 only 66% had this negative view.
-
-To the question, “Do you approve or disapprove of the way the current government is working?”, 7% (almost 7.5%) of the respondents said that they approve (with an error margin of ± 1.81%). The percentage saying they disapproved was 85%. The approval rating is its lowest since June 2022.
-
-...
-
-[Data](articles/05c4996e.json)
-
-[Extended Data](ext_articles/05c4996e.ext.json)
-
----
-
-### The latest difference in inflation
-
-*2024-03-21 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194784) · `si`
-
-In January 2024, the country's inflation was 5.1%, with food inflation rising to 5.0% and non-food category inflation dropping to 5.1%.
-
-🟩
-
-In January 2024, the country's inflation recorded to 5.1% for February 2024.
-
-In January 2024, the point inflation in the food category recorded in January 2024 increased to 5.0% in February 2024.
-
-Also, in January 2024, 85% of the non-food category of food has been reduced to 5.1% in February 2024.
-
-◼️
-
-[Data](articles/139b38d3.json)
-
-[Extended Data](ext_articles/139b38d3.ext.json)
 
 ---

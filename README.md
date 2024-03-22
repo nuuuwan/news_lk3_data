@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 20:33:30**
+As of **2024-03-22 20:50:18**
 
 ## Newspaper Stats
 
-*Scraped **14,596** Articles*
+*Scraped **14,600** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,66 +19,120 @@ adalk | 1,257
 adaderanalk | 1,748
 tamilmirrorlk | 1,756
 virakesarilk | 2,060
-dailymirrorlk | 2,241
+dailymirrorlk | 2,245
 adaderanasinhalalk | 2,331
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,594 (100.0%) of 14,596 articles have been extended.
+14,596 (100.0%) of 14,600 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### අධික උණුසුමින් ජීවිතයක් අහිමි වෙයි
+### Leaving a life of heating
 
 *2024-03-22 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194827) · `si`
 
-අධික උණුසුම් කාලගුණික තත්ත්වය අතරතුර පුද්ගලයෙක් බිම ඇදවැටී මියයාමේ පුවතක් වාර්තා වුණි.
+A person died from a fall during heavy warm weather. The deceased, from Nilijjawila, Akuressa, was identified. El Nino's influence raised body heat. The health sector warned against heating. Rainfall in Mahaoya, Ampara was 133.5mm, but dry weather led to water shortages, prompting water supply to Kalutara, Kurunegala, Kandy, Matale, Nuwara Eliya, Matara, Moneragala, and Ratnapura.
 
-මෙම පුද්ගලයා පාපැදියක් තල්ලුකරමින් ඊයේ (21) දහවල් මාර්ගයේ ගමන් කරමින් සිටියදී බිම ඇද වැටී තිබේ.
+🟩
 
-මෙලෙස මියගොස් ඇත්තේ අකුරැස්ස තෙලිජ්ජවිල ප්‍රදේශයේ පදිංචිකරුවෙක් වන ඔහු 72 හැවිරිදි සිව්දරු පියෙකි.
+During heavy warm weather, a person was killed in the fall.
 
-මෙරටට බලපා ඇති එල්නීනෝ තත්ත්වයත් සමඟ සිරුරට දැනෙන උණුසුම පවතින්නේ ඉහළ මට්ටමකය.
+The man had pushed the ground while traveling yesterday (21).
 
-අධික උණුසුමින් ආරක්ෂා වන ලෙස සෞඛ්‍ය අංශ පසුගිය කාලය පුරා ජනතාවට අනතුරු ඇඟවීය.
+The deceased has been identified as a resident of Nilijjawila area in Akuressa.
 
-මේ අතර දින ගණනක් පැවති වියළි කාලගුණය නිමාකරමින් ප්‍රදේශ කිහිපයකට ඊයේ (21) සිට වැසි ඇදහැලෙන අතර අද (22) පස්වරුවේ කොළඹට ධාරාණිපාත වැසි ඇදහැලුණි.
+With the influence of Elnino, the heat of the body lies at the highest level.
 
-ගතවූ පැය 24 තුළ වැඩිම වර්ෂාපතනය අම්පාර මහඔය ප්‍රදේශයෙන් වාර්තාවූ අතර එම අගය මිලිමීටර් 133.5කි.
+The health sector warned the masses over the past few years to protect against heating heating.
 
-මෙරටට බලපැවැත්වුණු වියළි කාලගුණය හමුවේ ජල මූලාශ්‍ර රැසක ජල මට්ටම පහළ බැස ඇති බව ජල සම්පාදන සහ ජලාපවාහන මණ්ඩලය සඳහන් කළේය.
+Meanwhile, several areas were rainsured from several areas yesterday (21st) and the rain was down to Colombo.
 
-ඒ හේතුවෙන් ප්‍රදේශ ගණනාවකට ජලය සැපයීමට සිදුව ඇත්තේ මුර ක්‍රමයකටයි.
+The highest last 24 hours, Rainfall reported from the Mahaoya, Ampara and 133.5 millimeters.
 
-කළුතර,කුරුණෑගල,මහනුවර, මාතලේ, නුවරඑළිය, මාතර, මොනරාගල සහ රත්නපුර ආදී ප්‍රදේශ 25කට මේ වන විට මුර ක්‍රමයක් යටතේ ජලය සැපයේ.
+Water Supply and Drainage Board stated that the water level of a large number of water sources have come down in the face of the dry weather.
 
-...
+As a result, several areas had to be supplied to water.
+
+The water is provided with Kalutara, Kurunegala, Kandy, Matale, Nuwara Eliya, Matara, Matara, Moneragala and Ratnapura.
+
+However, the rainy condition of the rainy condition can develop a warm state, the Met Department said.
+
+◼️
 
 [Data](articles/8996b71b.json)
 
+[Extended Data](ext_articles/8996b71b.ext.json)
+
 ---
 
-### “இலங்கையில் பெரிய பொருளாதாரமாக உருவெடுக்கும் வடக்கு” ஜனாதிபதி
+### The Northern President, which is “the largest economy in Sri Lanka”
 
 *2024-03-22 19:52:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இலங்கையில்-பெரிய-பொருளாதாரமாக-உருவெடுக்கும்-வடக்கு-ஜனாதிபதி/71-335024) · `ta`
 
-காணி உரிமை வழங்கும் 'உறுமய தேசிய வேலைத்திட்டத்தை' ஜூன் மாதமளவில் நிறைவு செய்யுமாறு அதிகாரிகளுக்கு பணிப்புரை விடுத்திருப்பதாக ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced the completion of the Urumaya National Program by June, aiming to grant legal land rights to all citizens. The program has benefited 408 people in Jaffna, with 235 acres of land distributed for agricultural modernization. The initiative aims to reclaim land seized by the government and distribute it to the public, with a focus on modern agriculture and economic development in the North.
 
-எந்த இனத்தவராக இருந்தாலும் சட்ட ரீதியான காணி உரிமை தமக்கு கிடைக்க வேண்டும் என்பதே அனைத்து பிரஜைகளினதும் கனவாகும் என்ற வகையில், அவ்வாறான உரிமை சகலருக்கும் கிடைக்க வேண்டும் என்பதையே தான் விரும்புவதாகவும் கூறினார்.
+🟩
 
-யாழ்ப்பாணம் -  ஒட்டகப்புலம் பகுதியில் இன்று வெள்ளிக்கிழமை (22) நடைபெற்ற "உறுமய" காணி உரிமம் வழங்கும் வேலைத்திட்டத்தின்போதே ஜனாதிபதி ரணில் விக்ரமசிங்க மேற்கண்டவாறு குறிப்பிட்டுள்ளார்.
+President Ranil Wickremesinghe said that the authorities have issued a directive to the authorities to complete the 'Urumaya National Program' by June.
 
-இரண்டு மில்லியன் மக்களுக்கு காணி உரிமை வழங்குவதற்காக முன்னெடுக்கப்படும் உறுமய வேலைத்திட்டத்தின் கீழ் யாழ்ப்பாணத்தில் 408 பேருக்கு ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் அடையாள ரீதியாக காணி உறுதிப் பத்திரம் வழங்கப்பட்டது.
+He said he wanted to have such rights to be the dream of all citizens to get legal land rights.
 
-இதற்கு இணையாக யாழ். பாதுகாப்பு படைத் தலைமையகத்தின் கீழிருந்த காணிகளை விவசாயிகளுக்கு கையளிக்கும் நிகழ்வும் இன்று  (22) பலாலி விமானப்படை தளத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் தலைமையில் நடைபெற்றது.
+President Ranil Wickremesinghe made the above statement during the "Urumaya" land licensing program held on Friday (22) in the Jaffna -camera.
+
+408 people in Jaffna have been given a significant land guarantee by President Ranil Wickremesinghe under the Urumaya program to grant land rights to two million people.
+
+Jaffna is parallel to this. President Ranil Wickremesinghe was held at the Palali Air Force Base today (22).
+
+Jaffna. President Ranil Wickremesinghe handed over the official documents to the President to hand over the land by Major General Chandana Wickremasinghe, the Commander of the Defense Force, and handed over them to Jaffna District Secretary Marudalingam Pradeepan.
 
 ...
 
 [Data](articles/2af594ab.json)
+
+[Extended Data](ext_articles/2af594ab.ext.json)
+
+---
+
+### Magnitude 6.5 quake strikes off Indonesia’s Java island
+
+*2024-03-22 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Magnitude-6-5-quake-strikes-off-Indonesias-Java-island/108-279412) · `en`
+
+JAKARTA, March 22 (Reuters) - A magnitude 6.5 earthquake struck off the shore of Indonesia's Java island on Friday at a depth of 10km (6.2 miles), Indonesia's geophysics agency (BKMG) said.
+
+The quake followed a 6 magnitude tremor reported more than four hours earlier.
+
+The epicentre was located around 130 km north of Tuban in East Java province, BMKG said.
+
+The tremors were felt strongly in East Java, its capital Surabaya, as well as cities in neighbouring provinces, according to multiple postings by social media users in those areas.
+
+Brief shaking was also felt in the Indonesian capital Jakarta, around 600 km away from the epicentre, according to Reuters witnesses.
+
+The 6.5 quake has no potential to trigger a tsunami, BMKG said.
+
+The earlier quake had caused damage to one house and a community building in the town of Tuban, Indonesia's disaster mitigation agency said.
+
+There were no immediate reports of further damage following the latest quake.
+
+◼️
+
+[Data](articles/771a0f5d.json)
+
+---
+
+### Sri Lanka’s first Prime Minister remembered
+
+*2024-03-22 19:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sri-Lankas-first-Prime-Minister-remembered/110-279408) · `en`
+
+A ceremony was held at Independence Square to mark the 72nd death anniversary of Sri Lanka’s first Prime Minister, the late D. S. Senanayake, today. UNP Deputy Leader and Presidential Advisor Ruwan Wijewardene, Former Speaker Karu Jayasuriya, Venerable Dr. Bandarawela Wimaladharma Thera, university dons, and school children participated in the ceremony. Mr. Wijewardene is seen garlanding the statue of Late Prime Minister during the ceremony. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/1f2f83e0.json)
 
 ---
 
@@ -153,6 +207,26 @@ Speaking further he said, “I have more pain in my heart than frustration. I ra
 [Data](articles/e1fc20be.json)
 
 [Extended Data](ext_articles/e1fc20be.ext.json)
+
+---
+
+### Uganda’s president appoints son as military chief
+
+*2024-03-22 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Ugandas-president-appoints-son-as-military-chief/107-279411) · `en`
+
+KAMPALA, March 22 (Reuters) - Uganda's President Yoweri Museveni has appointed his son, Muhoozi Kainerugaba, as head of the military, the defence ministry said on Friday.
+
+Muhoozi Kainerugaba, 48, a general in the military, is widely seen as his father's successor in waiting and once stirred controversy by threatening to invade neighbouring Kenya. The ministry said in a statement he replaces Wilson Mbasu Mbadi, who was removed and appointed as a junior minister.
+
+In 2022, Museveni removed his son as commander of Uganda's land forces after he made threats to invade neighbouring Kenya in posts on social media platform X.
+
+In the posts, Kainerugaba also expressed support for Russia's President Vladimir Putin saying: "The majority of mankind (that are non-white) support Russia's stand in Ukraine."
+
+Kainerugaba has long been viewed as being prepared to take over the presidency from his father, 79, who has ruled the east African country for nearly 40 years.
+
+◼️
+
+[Data](articles/6b610d4a.json)
 
 ---
 
@@ -1214,6 +1288,24 @@ Five persons from the People's Struggle Movement staged a protest in front of th
 
 ### General elections must be held first to maintain fairness: MR
 
+*2024-03-22 13:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/General-elections-must-be-held-first-to-maintain-fairness-MR/155-279396) · `en`
+
+Colombo, March 12 (Daily Mirror) - Leader of the Sri Lanka Podujana Peramuna (SLPP), Mahinda Rajapaksa, said that a general election should be held first and then the presidential election to maintain a fair process in the country.
+
+Addressing the media, Rajapaksa said that Basil Rajapaksa had conveyed this proposal to President Ranil Wickremesinghe on behalf of the SLPP when Basil met the President recently.
+
+Mahinda Rajapaksa also maintained that if this proposal is not followed, whichever party wins the presidential election will have a massive victory in the parliamentary election, which is not good for the country.
+
+He also said that there should be a fair situation in the country after the elections.
+
+◼️
+
+[Data](articles/1f1e8bbe.json)
+
+---
+
+### General elections must be held first to maintain fairness: MR
+
 *2024-03-22 13:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/General-elections-must-be-held-first-to-maintain-fairness-MR/108-279396) · `en`
 
 Colombo, March 12 (Daily Mirror) - Leader of the Sri Lanka Podujana Peramuna (SLPP), Mahinda Rajapaksa, said that a general election should be held first and then the presidential election to maintain a fair process in the country.
@@ -2219,99 +2311,5 @@ He also emphasized that the president who recalled that all the people of the co
 [Data](articles/15803a8e.json)
 
 [Extended Data](ext_articles/15803a8e.ext.json)
-
----
-
-### Presidents, Prime Ministers in last 70 years lacked job experience and vision: Janaka Rathnayake
-
-*2024-03-22 10:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidents-Prime-Ministers-in-last-70-years-lacked-job-experience-and-vision-Janaka-Rathnayake/108-279368) · `en`
-
-Colombo, March 22 (Daily Mirror) - Over the past 70 years, the Presidents and Prime Ministers who governed this country lacked any significant job experience and also failed to provide a clear vision for the country, Presidential candidate Janaka Ratnayake said.
-
-Addressing the media yesterday, he said a President and a leader should have a vision for the development or betterment of the country on behalf of the people.
-
-"As far as we see, none of the previous Presidents had the ability to manage. With the powers of the country, a President should be the Chief Executive Officer (CEO) of the country. Being such a person, he or she should have a better knowledge of everything, especially economics. The lack of knowledge causes many issues," he said.
-
-...
-
-[Data](articles/7b9938a7.json)
-
-[Extended Data](ext_articles/7b9938a7.ext.json)
-
----
-
-### Rosa arrested for Raza, Ratmalana, Ratmalana
-
-*2024-03-22 09:51:31* · [`adalk`](https://www.ada.lk/breaking_news/රත්මලානේ-කුඩු-අංජුගේ-ගෝල-රත්මලානේ-රොසා-අත්අඩංගුවට/11-408752) · `si`
-
-Rosa, a disciple of Ratmalana, was arrested in Ratmalana for drug dealing and shooting. The STF in Moratuwa, led by Senior DIG Attorney General Varuna Jayasundara, took him into custody.
-
-🟩
-
-An organized criminal and a drug dealer, Singhara, a drug dealer who operates abroad, says "Ratmalana Rosa ', the closest disciple of Ratmalana," Ratmalana Rosa'.
-
-Police Special Task Force 3 Special Operations in Moratuwa have been arrested by the STF in parallel to the operation of justice.
-
-The suspect was arrested in front of the residence of the suspect in Ratmalana.
-
-The mobile phone used for 50g of ice narcotics and an electricity, which was used for racket and an electricity and the drug dealer has been taken into custody.
-
-The suspect was arrested on suspicion of shooting at a restaurant in Ratmalana.
-
-The suspect, 46, is due to be produced before the Mt.
-
-Special Task Force Commanding Officer Senior DIG Attorney General Varuna Jayasundara, SSP (Intelligence) has raided the 3 Special Operations at the Moratuwa Path.
-
-◼️
-
-[Data](articles/7038da0f.json)
-
-[Extended Data](ext_articles/7038da0f.ext.json)
-
----
-
-### The Speaker made public the challenges he faced during the struggle of the country!
-
-*2024-03-22 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/179383) · `ta`
-
-The Speaker faced challenges during the 2022 economic crisis, opposing anarchy and urging a constitutional government. Despite facing opposition, he cooperated with the constitution to form a government. He was surprised by a no-confidence motion against him and highlighted the pressures to establish a government against the constitution. He rejected the idea of establishing a government contrary to the constitution, emphasizing his commitment to the constitution and the people's struggle.
-
-🟩
-
-When the economic crisis intensified in 2022, an anarchy in the country continued to press for the establishment of a government led by my leaders in contrast to the constitution.
-
-The purpose of solving the crisis is not a person. Instead, they set up an illegal government and create an environment of Libya and Afghanistan.
-
-Speaker Mahinda Yapa Abeywardena said that I would like to inform the people of the country that I have been fully cooperating with the constitution to form a firm government through Parliament.
-
-He was speaking in a special speech after the debate on the no -confidence motion in Parliament on Thursday (21).
-
-Everyone knows that I faced massive challenges in the constitution in 2022.
-
-In this case, when the country was opposed to anarchy, I was committed to protecting the parliament in accordance with the constitution of the country.
-
-...
-
-[Data](articles/01288860.json)
-
-[Extended Data](ext_articles/01288860.ext.json)
-
----
-
-### Sri Lanka speaker claims MPs who signed NCM urged him to take over
-
-*2024-03-22 09:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-speaker-claims-mps-who-signed-ncm-urged-him-to-take-over-155696/) · `en`
-
-ECONOMYNEXT — Speaker of Parliament Mahinda Yapa Abeywardena who survived a no confidence motion against him claimed that MPs among those who signed the motion had tried to unconstitutionally appoint him Sri Lanka president in 2022.
-
-Addressing parliament on Thursday March 21 after the Sri Lanka Podujana Peramuna (SLPP) government comfortably defeated the no confidence motion (NCM), Abeywardena said “powerful forces” had urged him to take over the presidency after it became vacant following former president Gotabaya Rajapaksa’s resignation after months of intense public protests.
-
-The latest NCM, filed by the main opposition Samagi Jana Balawegaya (SJB), was the fifth against a sitting speaker in parliament’s history, but the first on the grounds of an alleged violation of the constitution, said Abeywardena.
-
-...
-
-[Data](articles/526d3a88.json)
-
-[Extended Data](ext_articles/526d3a88.ext.json)
 
 ---

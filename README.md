@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 08:02:59**
+As of **2024-03-22 08:17:46**
 
 ## Newspaper Stats
 
-*Scraped **14,449** Articles*
+*Scraped **14,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,73 @@ dbsjeyarajcom | 190
 newsfirstlk | 363
 economynextcom | 764
 dailyftlk | 776
-islandlk | 796
+islandlk | 797
 adalk | 1,246
 adaderanalk | 1,732
-tamilmirrorlk | 1,742
+tamilmirrorlk | 1,743
 virakesarilk | 2,028
 dailymirrorlk | 2,218
-adaderanasinhalalk | 2,303
+adaderanasinhalalk | 2,306
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,449 (100.0%) of 14,449 articles have been extended.
+14,449 (100.0%) of 14,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### ජනපති සහ බැසිල් අතර හමුවේදී සාකච්ඡා කළ දේ මෙන්න
+
+*2024-03-22 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194801) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ පොදුජන පෙරමුණේ නිර්මාතෘ, හිටපු අමාත්‍ය බැසිල් රාජපක්ෂ මහතා අතර හමුවක් ඊයේ (21) රාත්‍රියේ සිදුවී තිබේ.
+
+එහිදී ජනාධිපතිවරණය, ඉදිරියේදී පැවැත්වීමට නියමිත සෙසු මැතිවරණ පිළිබඳ සහ දේශපාලන කටයුතු පිළිබඳව දෙපාර්ශ්වය අතර අදහස් හුවමාරුවී ඇත.
+
+පළමුව ජනාධිපතිවරණය සඳහා සූදානම් වන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පසුගියදා පැවැති කැබිනට් රැස්වීමේදී අමාත්‍ය මණ්ඩලය දැනුවත් කිරීමෙන් අනතුරුව මෙම හමුව සිදුවීම විශේෂත්වයකි.
+
+ඒ අනුව ඉදිරි මැතිවරණයන්ට අදාළ ශ්‍රී ලංකා පොදුජන පෙරමුණේ ස්ථාවරය බැසිල් රාජපක්ෂ මහතා විසින් ජනාධිපතිවරයා දැනුම්වත් කර ඇති බව දේශපාලන ආරංචි මාර්ග සඳහන් කළේය.
+
+කෙසේවෙතත් මැතිවරණය පිළිබඳ මෙහිදී දෙපාර්ශ්වය අතර අවසන් එකඟතාවක් ඇතිවී නොමැති බැවින් ඉදිරියේදීත් ඒ සම්බන්ධයෙන් තවදුරටත් සාකච්ඡා කිරීමට තීරණය කර තිබේ.
+
+මේ වනවිට ශ්‍රී ලංකා පොදුජන පෙරමුණේ මැති ඇමතිවරුන් අතර  ජනාධිපතිරණය සම්බන්ධයෙන් මත දෙකක් පැවතීම හේතුවෙන් පක්ෂ අභ්‍යන්තරයේ අර්බුදයක් නිර්මාණයවී ඇති බවද වාර්තා වෙයි.
+
+...
+
+[Data](articles/dba68752.json)
+
+---
+
+### ශ්‍රී ලංකා - බංග්ලාදේශ පළමු ටෙස්ට් තරගය අද
+
+*2024-03-22 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194800) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර පළමු ටෙස්ට් ක්‍රිකට් තරගය අද (22) පැවැත්වෙයි.
+
+කණ්ඩායමේ ක්‍රීඩකයින් ටෙස්ට් තරගය සඳහා වූ තණතීරුව පිළිබඳ නිසි අවබෝධයකින් පසුවන බව ශ්‍රී ලංකා ටෙස්ට් නායක ධනංජය ද සිල්වා පැවසීය.
+
+◼️
+
+[Data](articles/4222960d.json)
+
+---
+
+### ඔත්තු දුන්නොත් පොලීසියෙන් මුදල් තෑගි
+
+*2024-03-22 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194799) · `si`
+
+සංවිධානාත්මක අපරාධවල සහ මත්ද්‍රව්‍ය ජාවාරම්වල යෙදෙන පුද්ගලයන් භාවිත කරනු ලබන ගිනිඅවි සම්බන්ධයෙන් තොරතුරු දෙන පුද්ගලයන්ට මුදල් ත්‍යාග ලබාදීමට තීරණය කර ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිතීඥ නිහාල් තල්දූව මහතා පවසයි.
+
+T56 ගිනිඅවියක් සමග සැකකරුවකු අත්අඩංගුවට ගැනීමට අවශ්‍ය තොරතුරු ලබාදෙන අයෙකුට රුපියල් ලක්ෂ 05ක මුදලක් මෙන්ම තවත් වර්ගීකරණ කිහිපයකට යටත්ව මුදල් ත්‍යාග ලබාදීමට පොලිස්පතිවරයා උපදෙස් ලබාදී ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/2b492bfb.json)
+
+---
 
 ### A woman is killed
 
@@ -318,6 +368,20 @@ Nilmini Premalal, Deputy General Manager of Payment, Process Management & Qualit
 
 ---
 
+### ASUS reveals cutting-edge Zenbook premium laptops and new Republic of Gamers laptop family
+
+*2024-03-22 05:01:00* · [`islandlk`](http://island.lk/asus-reveals-cutting-edge-zenbook-premium-laptops-and-new-republic-of-gamers-laptop-family/) · `en`
+
+ASUS Sri Lanka, the local operations of Taiwanese tech giant ASUS, held its first launch event of the year where ASUS laptops that combine multitasking versatility with unmatched mobility to maximize productivity were unveiled at the Lotus Ballroom, Shangri-La Colombo recently.
+
+The newly unveiled laptops included the new Zenbook 14 OLED (UX3405) premium ultraportable OLED laptop featuring the all-new AI-powered Intel Core Ultra 9 processor, the Zenbook DUO, the world’s first 14″ Dual-Screen OLED laptop and the 2024 ROG Strix laptops, the first ROG laptop featuring an 18″ mini-LED display.
+
+...
+
+[Data](articles/d9a9794c.json)
+
+---
+
 ### EFC advocates for a more inclusive workplace for women
 
 *2024-03-22 04:59:31* · [`dailyftlk`](https://www.ft.lk/business/EFC-advocates-for-a-more-inclusive-workplace-for-women/34-759791) · `en`
@@ -557,6 +621,24 @@ The Sri Lanka Association of Software and Service Companies (SLASSCOM) recently 
 [Data](articles/8c33e27c.json)
 
 [Extended Data](ext_articles/8c33e27c.ext.json)
+
+---
+
+### போராட்டக்காரர்களின் உடல்நிலை பாதிப்பு
+
+*2024-03-22 03:34:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராட்டக்காரர்களின்-உடல்நிலை-பாதிப்பு/175-335004) · `ta`
+
+இந்திய மீனவர்களின் அத்துமீறலைக் கண்டித்து யாழ்ப்பாணத்தில் உணவு தவிப்புப் போராட்டத்தில் ஈடுபடும் 4 பேரின் உடலில் நீரின் அளவு குறைவடைந்து வருகின்றது என்று அவர்களைப் பரிசோதித்த வைத்தியர் எச்சரிக்கை விடுத்துள்ளார்.
+
+யாழ். குடாப் பரப்பில் அத்துமீறி மீன்பிடியில் ஈடுபடும் இந்திய மீனவர்களின் செயற்பாடுகளை நிறுத்துமாறு கோரி கடந்த செவ்வாய்க்கிழமை நான்கு மீனவர்கள் யாழ். இந்தியத் துணை தூதரகத்துக்குச் செல்லும் வாயிலில் உணவு தவிர்ப்புப் போராட்டத்தை ஆரம்பித்தனர்.
+
+நேற்று மாலை போராட்டத்தில் ஈடுபடும் மீனவர்களின் உடல் சோர்வடைந்த நிலையில் குறித்த இடத்துக்கு வைத்தியர் வரவழைக்கப்பட்டு உடல் நிலை தொடர்பில் பரிசோதிக்கப்பட்டது.
+
+மேற்படி நால்வரையும் பரிசோதித்த வைத்தியர், மீனவர்களின் உடலில் நீரின் அளவு குறைவடைந்து செல்வதால் சோர்வு ஏற்படுகின்ற நிலையில் நீரை அதிகளவு அருந்துமாறு கோரிக்கை விடுத்தார். (a)
+
+◼️
+
+[Data](articles/74ae41da.json)
 
 ---
 
@@ -2037,135 +2119,5 @@ But there is frequent conflict between crops and livestock farmers and other gro
 [Data](articles/737e43de.json)
 
 [Extended Data](ext_articles/737e43de.ext.json)
-
----
-
-### Sri Lanka's economic policy has begun to benefit;$ 337 million - International Monetary Fund
-
-*2024-03-21 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179338) · `ta`
-
-Sri Lanka's economic policy reforms have started to show benefits, with the IMF approving a $337 million funding for the third phase of the EAWW support program. Officials are making progress in implementing reforms, showing early signs of economic growth after a six-year decline. Inflation has decreased from 70% in September 2022 to 5.9% in February 2024, indicating continued growth in construction and service sectors.
-
-🟩
-
-The International Monetary Fund has said that Sri Lanka has reached compliance with the International Monetary Fund on the next phase of the project for Sri Lanka.
-
-The International Monetary Council has said that Sri Lanka's third phase of funding will be available for $ 337 million.
-
-Sri Lankan officials on economic policies to fulfill the second review of the four -year EAWW support program;The employees of the International Fund have also reached compliance.
-
-The review of this review is recognized by the Management of the International Monetary Fund and the acceptance of the International Monetary Fund, which will receive $ 337 million.
-
-Microscopic policy reforms have begun to benefit.
-
-Officials show better progress in implementing the reform agenda.
-
-While maintaining the stability of the financial system, there are early signs of economic growth.
-
-Growth is gradually growth. Growth is favorable after a six -year decline.
-
-...
-
-[Data](articles/159f017b.json)
-
-[Extended Data](ext_articles/159f017b.ext.json)
-
----
-
-### Explain to Viharathi on fraud
-
-*2024-03-21 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179341) · `ta`
-
-The Kiliyapitiya Magistrate's Court ordered a coconut oil dealer accused of defrauding Sri Bodhirajarama Vihara of 10 million rupees. The victim's businessman lodged a complaint, leading to the dealer's arrest by the CID.
-
-🟩
-
-The Kiliyapitiya Magistrate's Court today (21) ordered that a coconut oil dealer in Kiliyapitiya had been accused of obtaining coconut oil and allegedly defrauding the Maligawatta of Sri Bodhirajarama Vihara.
-
-The victim has been arrested by the Special Criminal Investigation Department (CID) on the basis of a complaint made by the victim's businessman.
-
-The complaint has been lodged against the fraudulently fraudulently obtaining coconut oil worth 10 million rupees from a complainant.
-
-◼️
-
-[Data](articles/f338a2f6.json)
-
-[Extended Data](ext_articles/f338a2f6.ext.json)
-
----
-
-### Sri Lanka is well prepared
-
-*2024-03-21 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194780) · `si`
-
-Sri Lanka's Test leader Dhanga de Silva plans to use experienced players for the upcoming Test series, aiming to understand wicket behavior and improve team adjustments. Dananjaya de Silva, the captain, is optimistic about the team's preparedness, including understanding the wicket conditions and training sessions.
-
-🟩
-
-Sri Lanka Test leader Dhanga de Silva says he is planning to face the Test series with a team consisting of experienced players.
-
-He was speaking at the press conference held before the tournament.
-
-Speaking further Sri Lanka Test leader Dananjaya de Silva,
-
-I wanted to get a Idea about the wicket behaving. My foose was the one that was. They now play a little grass and playing how to understand how you want the situation. I hope I have an Idea now. My adjustment also went to the couple of those training sessions. I practiced good. There are a player in the Test team now educated that situation. They also have an idea what's going on. So thinks a good tournament.
-
-Journalists Sri Lanka Test captain Dhananjaya also questioned the next stage of the Time Out celebration.
-
-Responding to it, Dananjaya de Silva said, "Look, let's see later.
-
-◼️
-
-[Data](articles/196c9a95.json)
-
-[Extended Data](ext_articles/196c9a95.ext.json)
-
----
-
-### 8th EASA International Cooperation Forum held in Colombo
-
-*2024-03-21 15:26:00* · [`islandlk`](http://island.lk/8th-easa-international-cooperation-forum-held-in-colombo/) · `en`
-
-The  08th EASA  International Cooperation Forum (ICF) jointly hosted by the Civil Aviation Authority of Sri Lanka (CAASL) and the European Union Airline Safety Agency (EASA) themed ‘Joining forces for a safer and greener aviation worldwide’ was held at the Hilton Colombo from  19th to 21st of March 2024.
-
-The ICF, which was first held in 2008, is an international platform for aviation authorities and regional  organizations interested in regional cooperation and the EASA system. It provides an opportunity to share  experiences and best practices, discussing the latest developments in safety and environmental standards, and  promotion of safe and sustainable aviation worldwide.
-
-Related Topics:08th International Cooperation Forum (ICF)AviationCivil Aviation Authority of Sri Lanka (CAASL)European Union Airline Safety Agency (EASA)
-
-Heat Index at ‘Caution’ level in North-western, Western, Sabaragamuwa provinces and Mannar, Anuradhapura and Galle districts
-
-...
-
-[Data](articles/03568ae3.json)
-
-[Extended Data](ext_articles/03568ae3.ext.json)
-
----
-
-### Electricity consumers asking for interest from the beginning
-
-*2024-03-21 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194779) · `si`
-
-The Ceylon Electricity Board (CEB) has requested the Supreme Court to pay interest on deposits made by electricity consumers, which was presented in a fundamental rights petition. The CEB offered 11.67% annual interest for this year. Attorney-at-Law Ravindranath Dabare argued that customers should receive interest. The case was heard by Supreme Court judges Janaka De Silva and Arjuna Oyajuna Oyajuna Obeysekara, with a decision set for April 2.
-
-🟩
-
-The Ceylon Electricity Board (CEB) has requested the Supreme Court to pay interest from the Supreme Court.
-
-A fundamental rights petition presented by the Association was called before the Supreme Court judge, Janaka De Silva and Arjuna Oyajuna Oyajuna Obeysekara.
-
-Attorney-at-Law Ravindranath Dabare, who appeared on behalf of the Association, he said this.
-
-The Ceylon Electricity Board (CEB) had responded to 11.67 percent to an annual interest in this year for the deposits made by electricity consumers.
-
-Attorney-at-Law Ravindanaath Dabare, who said that he had to pay interest in the CEO of the Ceylon Electricity Association, said that he had to pay interest by the customers who were deposited.
-
-Subsequently, the court ordered to be called on April 2 in April.
-
-◼️
-
-[Data](articles/09c6a538.json)
-
-[Extended Data](ext_articles/09c6a538.ext.json)
 
 ---

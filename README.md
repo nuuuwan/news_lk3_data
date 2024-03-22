@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 01:03:14**
+As of **2024-03-23 01:18:21**
 
 ## Newspaper Stats
 
-*Scraped **14,633** Articles*
+*Scraped **14,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 782
 dailyftlk | 788
 islandlk | 797
 adalk | 1,257
-adaderanalk | 1,751
+adaderanalk | 1,752
 tamilmirrorlk | 1,758
 virakesarilk | 2,062
 dailymirrorlk | 2,255
@@ -26,25 +26,51 @@ adaderanasinhalalk | 2,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,632 (100.0%) of 14,633 articles have been extended.
+14,633 (100.0%) of 14,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### රුසියාවේ අගනුවරට බිහිසුණු ත්‍රස්ත ප්‍රහාරයක්
+### 40 killed and more than 100 wounded in attack on Moscow concert hall
+
+*2024-03-23 00:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98138/40-killed-and-more-than-100-wounded-in-attack-on-moscow-concert-hall) · `en`
+
+UPDATED (1.00 a.m.) - Russia’s Federal Security Service said 40 people died and more than 100 were wounded in an attack Friday at a Moscow concert hall.
+
+The attack, which Russian authorities are investigating as terrorism, is the deadliest in Russia in recent years.
+
+Several gunmen burst into the concert hall on the edge of Moscow and sprayed visitors with automatic gunfire, killing and wounding dozens and starting a massive blaze.
+
+The attack comes days after President Vladimir Putin cemented his grip on the country in a highly orchestrated electoral landslide.
+
+At least a dozen people have been killed and many others wounded in what is being described as the most severe terrorist attack in Russia in last two decades as gunmen dressed in combat fatigues entered a large concert hall in Moscow, opening fire and detonating explosives.
+
+...
+
+[Data](articles/fd2c963d.json)
+
+---
+
+### A terrible terrorist attack on Russia
 
 *2024-03-23 00:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194831) · `si`
 
-රුසියාවේ මොස්කව් නගරයේ නාට්‍ය ශාලාවක සිදුකළ ත්‍රස්ත ප්‍රහාරයකින් ආසන්න වශයෙන් පුද්ගලයින් 40ක් පමණ මියගොස් ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+A terrorist attack in Moscow, Russia, killed about 40 people. The incident occurred during a dance in a theater, and videos of the event were shared on social media.
 
-එම ප්‍රහාරය එල්ලවන අවස්ථාවේ එම නාට්‍ය ශාලාවේ නර්තන තරගාවලියක් පැවැත්වෙමින් තිබූ බව සඳහන්ය.
+🟩
 
-කැලෑ සටන් ඇඳුම් ඇඳගත් සන්නද්ධ පුද්ගලයින් තිදෙනෙකු වෙඩි තබමින් එම ශාලාවට ඇතුළ්වන අයුරු දැක්වෙන වීඩියෝ  මේ වනවිට සමාජ මාධ්‍ය සංසරණය වෙයි.
+International media reports that approximately 40 people were killed by a terrorist attack on Moscow in Moscow, Russia.
+
+At the time of the attack, a dance in the drama was held at the drama.
+
+The videos shown in the hall are being founded by three armed dresses, which shoots three armed clothes, and circulate social media.
 
 ◼️
 
 [Data](articles/662b51f7.json)
+
+[Extended Data](ext_articles/662b51f7.ext.json)
 
 ---
 
@@ -2205,29 +2231,5 @@ Specialist doctors say that keeping the skin clean, the use of others' clothes, 
 [Data](articles/08d80076.json)
 
 [Extended Data](ext_articles/08d80076.ext.json)
-
----
-
-### Misery Complaint: Web to a rape
-
-*2024-03-22 12:33:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனவேதனை-முறைப்பாடு-வன்புணர்ந்தவருக்கு-வலை/175-335016) · `ta`
-
-A man was arrested for raping a 29-year-old woman twice in 2023. The incidents occurred on 09/04/2023 and 11/27/2023, and the woman reported the crimes to the Bibila police station on 21/04/2023.
-
-🟩
-
-A man was arrested on Thursday (21) on charges of rape on two occasions.
-
-Bibila police have received a complaint that a 29 -year -old married woman, who lives in the Unakolla area, which belongs to the Bibila Police Division, has been raped by a resident of a nearby house.
-
-On 09/04/2023, while she was at home with her child, a neighbor named "Alinda" came to her house and raped her and raped her again on 11/27/2023.
-
-But the incident caused the incident to come to the Bibila police station last (21).
-
-◼️
-
-[Data](articles/6cb852ce.json)
-
-[Extended Data](ext_articles/6cb852ce.ext.json)
 
 ---

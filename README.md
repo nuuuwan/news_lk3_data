@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 05:37:30**
+As of **2024-03-22 06:16:58**
 
 ## Newspaper Stats
 
-*Scraped **14,428** Articles*
+*Scraped **14,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 158
 dbsjeyarajcom | 190
 newsfirstlk | 363
 economynextcom | 764
-dailyftlk | 773
+dailyftlk | 774
 islandlk | 783
 adalk | 1,246
 adaderanalk | 1,731
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,301
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,420 (99.9%) of 14,428 articles have been extended.
+14,428 (100.0%) of 14,429 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### Elections and the economy
+
+*2024-03-22 05:42:24* · [`dailyftlk`](https://www.ft.lk/columns/Elections-and-the-economy/4-759808) · `en`
+
+The next election if it were to be dominated by economic issues would be a contest between NPP’s system change with a market model cleansed of its rigidities and the IMF path embraced by its opponents – Pic by Shehan Gunasekara
+
+Election fever is gripping Sri Lanka. It appears that a General Election could precede the Presidential Election mainly because of Ranil Wickremesinghe’s (RW) rising unpopularity largely due to his IMF led economic recovery path.
+
+IMF for its part has no choice but to slow down its program after completing its second review, because election fever demands more time and energy from parliamentarians outside the legislature than inside, and consequently it would not be possible for the Parliament to pass the necessary reforms required for the recovery. Economy therefore is destined to take the back seat and allow politics to dominate national attention for the rest of the year.
+
+...
+
+[Data](articles/a8cfdee0.json)
+
+---
 
 ### IMF official meets Shehan Semasinghe
 
@@ -41,6 +57,8 @@ IMF Executive Director Dr Krishnamurthy Subramanian this week met up with State 
 ◼️
 
 [Data](articles/a3942ded.json)
+
+[Extended Data](ext_articles/a3942ded.ext.json)
 
 ---
 
@@ -62,6 +80,8 @@ The Samagi Jana Balawegaya (SJB) members present at the discussion emphasised th
 
 [Data](articles/9a651af4.json)
 
+[Extended Data](ext_articles/9a651af4.ext.json)
+
 ---
 
 ### IMF briefed on safety net disbursed through monetary assistance
@@ -80,6 +100,8 @@ Secretary to the Prime Minister Anura Dissanayake, IMF Alternative Executive Dir
 
 [Data](articles/87c5a142.json)
 
+[Extended Data](ext_articles/87c5a142.ext.json)
+
 ---
 
 ### India infuses additional funds into ongoing grant projects
@@ -97,6 +119,8 @@ With the formalisation of the additional grant amount, 90 houses shall be constr
 ...
 
 [Data](articles/5ce2c3dc.json)
+
+[Extended Data](ext_articles/5ce2c3dc.ext.json)
 
 ---
 
@@ -118,6 +142,8 @@ Members of the MSME community commended the Opposition leader for his proactive 
 
 [Data](articles/2a77ccd8.json)
 
+[Extended Data](ext_articles/2a77ccd8.ext.json)
+
 ---
 
 ### EFC advocates for a more inclusive workplace for women
@@ -134,6 +160,8 @@ Delivering her keynote address at the EFC event under the theme - ‘Inspire Inc
 
 [Data](articles/5c7f9ae4.json)
 
+[Extended Data](ext_articles/5c7f9ae4.ext.json)
+
 ---
 
 ### BOI celebrates International Women’s Day
@@ -145,6 +173,8 @@ The International Women’s Day was celebrated across several locations of the B
 ◼️
 
 [Data](articles/7652af1a.json)
+
+[Extended Data](ext_articles/7652af1a.ext.json)
 
 ---
 
@@ -163,6 +193,8 @@ Opposition parties, the Samagi Jana Balawegaya (SJB), National People’s Power 
 ...
 
 [Data](articles/549bc105.json)
+
+[Extended Data](ext_articles/549bc105.ext.json)
 
 ---
 
@@ -2171,25 +2203,5 @@ The Asian Development Bank (ADB) has launched a new country partnership strategy
 [Data](articles/ada3a8bd.json)
 
 [Extended Data](ext_articles/ada3a8bd.ext.json)
-
----
-
-### Dylan Perera resigns
-
-*2024-03-21 14:46:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிலான்-பெரேரா-இராஜினாமா/175-334991) · `ta`
-
-Dylan Perera, an Opposition MP, resigned from the Public Companies Committee (COP) during a debate on a no-confidence motion against the Speaker in Parliament.
-
-🟩
-
-Opposition MP Dylan Perera resigned from the Public Companies Committee (COP) today.
-
-He announced his resignation while addressing the debate on the no -confidence motion against the Speaker in Parliament.
-
-◼️
-
-[Data](articles/422826fa.json)
-
-[Extended Data](ext_articles/422826fa.ext.json)
 
 ---

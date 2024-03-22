@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 14:17:58**
+As of **2024-03-22 14:33:33**
 
 ## Newspaper Stats
 
-*Scraped **14,543** Articles*
+*Scraped **14,545** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 776
 economynextcom | 782
 islandlk | 797
-adalk | 1,250
+adalk | 1,251
 adaderanalk | 1,739
-tamilmirrorlk | 1,753
+tamilmirrorlk | 1,754
 virakesarilk | 2,052
 dailymirrorlk | 2,229
 adaderanasinhalalk | 2,318
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,318
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,543 (100.0%) of 14,543 articles have been extended.
+14,543 (100.0%) of 14,545 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### இலங்கை முழுதும் எரிகின்றது
+
+*2024-03-22 14:19:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-முழுதும்-எரிகின்றது/175-335021) · `ta`
+
+வருடத்தின் ஏனைய நாட்களை விட இந்த நாட்களில் வெப்பநிலை ஒன்று அல்லது இரண்டு டிகிரி செல்சியஸ் அதிகரித்துள்ளதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+நாடளாவிய ரீதியில் இந்த நிலை காணப்படுவதாக வளிமண்டலவியல் திணைக்களத்தின் பிரதிப் பணிப்பாளர் மெரில் மென்டிஸ் தெரிவித்துள்ளார்.
+
+ஒவ்வொரு ஆண்டும் மார்ச், ஏப்ரல் மாதங்களில் வெப்பம் அதிகமாக இருக்கும் எனவும் ஏப்ரல் இறுதி வரை இதே நிலை நீடிக்கும் எனவும் அவர் மேலும் தெரிவித்துள்ளார்.
+
+இந்த நேரத்தில் வெப்பநிலை அசாதாரணமாக உயர்ந்துள்ளதா என்பதை ஆய்வு செய்ய வேண்டும் என்றும் திணைக்களம் கூறியுள்ளது. R
+
+◼️
+
+[Data](articles/5b1f2a74.json)
+
+---
 
 ### The police say 10 in the heathel has been arrested
 
@@ -383,6 +401,24 @@ When the matter came up before High Court Judge Sujeewa Nissanka, court was info
 [Data](articles/5b410a5b.json)
 
 [Extended Data](ext_articles/5b410a5b.ext.json)
+
+---
+
+### උත්සව සමයේදී හිඟයකින් තොරව ජනතාවට අත්‍යවශ්‍ය ආහාර
+
+*2024-03-22 11:54:18* · [`adalk`](https://www.ada.lk/breaking_news/උත්සව-සමයේදී-හිඟයකින්-තොරව-ජනතාවට-අත්‍යවශ්‍ය-ආහාර/11-408755) · `si`
+
+එළැඹෙන උත්සව සමයේදී පාරිභෝගික ජනතාවට අත්‍යවශ්‍ය ආහාර ද්‍රව්‍ය හිඟයකින් තොරව, සාධාරණ මිලට ලබා ගැනීමට හැකි පසුබිමක් නිර්මාණය කර තිබෙන බව පශු සම්පත් සංවර්ධන රාජ්‍ය අමාත්‍ය ඩී. බී. හේරත් මහතා පැවසීය.
+
+ගොවියාත් පාරිභෝගිකයාත් සුරැකෙන ක්‍රමවේදයක් ඔස්සේ එම වැඩපිළිවෙළ ක්‍රියාත්මක කරන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+පශු සම්පත් සංවර්ධන රාජ්‍ය අමාත්‍ය ඩී. බී. හේරත් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+පසු අස්වනු තාක්ෂණය ගොවීන් අතර ප්‍රචලිත කරමින් අස්වනු හානිය අවම කිරිමටත්, ඉදිරියේදී ඇතිවිය හැකි ගෝලීය ආහාර අර්බුදයට රට සූදානම් කිරීමටත් රජය වැඩසටහන් රැසක් ක්‍රියාත්මක කර ඇති බවද රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+
+...
+
+[Data](articles/de41a3e5.json)
 
 ---
 
@@ -2191,35 +2227,5 @@ Puma pleaded that Defendant was selling counterfeit products which contained Pla
 [Data](articles/b1bb7c9d.json)
 
 [Extended Data](ext_articles/b1bb7c9d.ext.json)
-
----
-
-### Top Chinese trade delegation visits BOI
-
-*2024-03-22 04:43:01* · [`dailyftlk`](https://www.ft.lk/business/Top-Chinese-trade-delegation-visits-BOI/34-759783) · `en`
-
-...
-
-[Data](articles/978ad478.json)
-
-[Extended Data](ext_articles/978ad478.ext.json)
-
----
-
-### SriLankan flight UL 470 to Incheon Korea takes off after 13-hour delay
-
-*2024-03-22 04:41:59* · [`dailyftlk`](https://www.ft.lk/business/SriLankan-flight-UL-470-to-Incheon-Korea-takes-off-after-13-hour-delay/34-759782) · `en`
-
-SriLankan Airlines said yesterday it has made every effort to satisfy the travel requirements of all 217 of its valued passengers who were checked in to travel to Incheon, South Korea on 19 March on UL 470, when the flight was delayed by approximately 13 hours from the scheduled time of departure due to a technical reason.
-
-Of the passengers, 117 resumed their journey on the same flight once the aircraft was cleared for departure and took off to Incheon, South Korea at 07:23hrs on the next day, 20 March.
-
-The remaining 100 passengers, who were heading to South Korea for work, have been rebooked to travel on Sunday, 24 March. The decision to rebook these passengers was made in consultation with the Human Resources Development Service of Korea (HRD Korea) and the Sri Lanka Bureau of Foreign Employment and the delay is not expected to affect their employment in South Korea.
-
-...
-
-[Data](articles/ca88bede.json)
-
-[Extended Data](ext_articles/ca88bede.ext.json)
 
 ---

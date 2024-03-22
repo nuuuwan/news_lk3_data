@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 05:18:13**
+As of **2024-03-22 05:37:30**
 
 ## Newspaper Stats
 
-*Scraped **14,420** Articles*
+*Scraped **14,428** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 158
 dbsjeyarajcom | 190
 newsfirstlk | 363
 economynextcom | 764
-dailyftlk | 765
+dailyftlk | 773
 islandlk | 783
 adalk | 1,246
 adaderanalk | 1,731
@@ -26,11 +26,145 @@ adaderanasinhalalk | 2,301
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,420 (100.0%) of 14,420 articles have been extended.
+14,420 (99.9%) of 14,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### IMF official meets Shehan Semasinghe
+
+*2024-03-22 05:08:45* · [`dailyftlk`](https://www.ft.lk/news/IMF-official-meets-Shehan-Semasinghe/56-759796) · `en`
+
+IMF Executive Director Dr Krishnamurthy Subramanian this week met up with State Minister of Finance Shehan Semasinghe and discussed issues of mutual interest including the on-going IMF program and the reforms initiatives of the Government.
+
+◼️
+
+[Data](articles/a3942ded.json)
+
+---
+
+### IMF staff mission team call on Opposition leader
+
+*2024-03-22 05:07:08* · [`dailyftlk`](https://www.ft.lk/news/IMF-staff-mission-team-call-on-Opposition-leader/56-759795) · `en`
+
+IMF staff mission team led by Peter Breuer, Katsiaryna Svirydzenka and Sarwat Jahan called on Opposition leader Sajith Premadasa at the Parliament complex on Wednesday.
+
+The purpose of the meeting was to engage in a discussion concerning the ongoing progress of the agreement reached between the IMF and the Government.
+
+The high-level gathering saw an extensive exchange of views on a wide array of economic, social, and political matters.
+
+During their discussion it was pointed out that the Opposition is in agreement with the roadmap presented by the IMF to support the economic recovery process, whilst highlighting certain proposals require amendments.
+
+The Samagi Jana Balawegaya (SJB) members present at the discussion emphasised that the prevailing economic situation could have been averted had the Government aptly responded to their earlier calls urging them to reach out to the global lender.
+
+...
+
+[Data](articles/9a651af4.json)
+
+---
+
+### IMF briefed on safety net disbursed through monetary assistance
+
+*2024-03-22 05:05:59* · [`dailyftlk`](https://www.ft.lk/news/IMF-briefed-on-safety-net-disbursed-through-monetary-assistance/56-759794) · `en`
+
+Prime Minister Dinesh Gunawardena held a discussion with IMF Executive Director Dr Krishnamurthy Subramanian on Tuesday at the Temple Trees.
+
+The Prime Minister briefed the IMF Executive Director about the measures taken and explained the progress of the welfare scheme under which the monetary assistance to the weaker segment of the society.
+
+Dr. Subramanium briefed the progress of the agreed program and stated that IMF Board of Directors would decide on providing further assistance to Sri Lanka at the next Board Meeting scheduled for June 2024.
+
+Secretary to the Prime Minister Anura Dissanayake, IMF Alternative Executive Director Dr. P. K. G. Harischandra and CBSL Deputy Director Dr. V. D. Wickramarachchi also took part in the discussion.
+
+...
+
+[Data](articles/87c5a142.json)
+
+---
+
+### India infuses additional funds into ongoing grant projects
+
+*2024-03-22 05:04:53* · [`dailyftlk`](https://www.ft.lk/news/India-infuses-additional-funds-into-ongoing-grant-projects/56-759793) · `en`
+
+Indian High Commissioner Santosh Jha (right) with Secretary, Ministry of Urban Development and Housing W.S. Sathyananda
+
+Indian High Commissioner Santosh Jha and Secretary, Ministry of Urban Development and Housing W.S. Sathyananda yesterday signed and exchanged diplomatic letters to formalise Government of India’s (GOI) decision to provide an additional grant of Rs. 150 million for the construction of houses and infrastructure facilities in Sobitha Thero Village in Anuradhapura.
+
+With this, GOI’s total commitment to the project currently stands at Rs. 450 million.
+
+With the formalisation of the additional grant amount, 90 houses shall be constructed in the village with the GOI grant.  The project is currently underway and the proposed houses are at various stages of construction. The project is being executed in collaboration with Ven. Maduluwawe Sobhitha Thero Commemoration Foundation.
+
+...
+
+[Data](articles/5ce2c3dc.json)
+
+---
+
+### MSMEs commend Opposition leader for advocating issues with IMF
+
+*2024-03-22 05:03:08* · [`dailyftlk`](https://www.ft.lk/business/MSMEs-commend-Opposition-leader-for-advocating-issues-with-IMF/34-759792) · `en`
+
+Highlight Opposition leader’s stance on emphasising challenges faced by MSMEs, contrasting it with Govt.›s lack of action
+
+Point to the need of Government›s intervention for the sector›s development during the 10-month window of parate execution law suspension
+
+Express disappointment over State Minister of Finance Ranjith Siyambalapitiya›s dismissive remarks regarding MSME engagement with IMF officials
+
+Micro, Small, and Medium Enterprises (MSMEs) on Wednesday expressed gratitude towards Opposition leader Sajith Premadasa for facilitating a direct engagement with the International Monetary Fund (IMF) staff mission m to address their concerns.
+
+Members of the MSME community commended the Opposition leader for his proactive stance on shedding light on the challenges faced by the business community, contrasting it with the government›s lack of action.
+
+...
+
+[Data](articles/2a77ccd8.json)
+
+---
+
+### EFC advocates for a more inclusive workplace for women
+
+*2024-03-22 04:59:31* · [`dailyftlk`](https://www.ft.lk/business/EFC-advocates-for-a-more-inclusive-workplace-for-women/34-759791) · `en`
+
+EFC Deputy Director General, ILO Country Director for Sri Lanka and Maldives and the panellist
+
+Women’s labour force participation in Sri Lanka has been declining over time. ILO estimates that investing in policies and services to support workers with family responsibilities could generate a considerable number of jobs here at home, the bulk of which would go to women. These observations were made by the ILO Country Director for Sri Lanka and Maldives, Joni Simpson at a forum initiated by the Employers’ Federation of Ceylon (EFC) recently to mark the International Women’s Day.
+
+Delivering her keynote address at the EFC event under the theme - ‘Inspire Inclusion to forge a more inclusive workplace for women’, ILO Country Director further noted that the EFC, is well placed to promote and introduce policies and initiatives to ensure inclusivity and gender equality in the workplace.
+
+...
+
+[Data](articles/5c7f9ae4.json)
+
+---
+
+### BOI celebrates International Women’s Day
+
+*2024-03-22 04:55:39* · [`dailyftlk`](https://www.ft.lk/business/BOI-celebrates-International-Women-s-Day/34-759790) · `en`
+
+The International Women’s Day was celebrated across several locations of the Board of Investment (BOI) recently bringing together influential women leaders to inspire and empower attendees. The BOIs International Women’s Day celebration reaffirmed the institution’s commitment to promoting gender equality and empowerment of women in the workplace. A former justice of the Supreme Court of Sri Lanka Shiranee Tilakawardane was the chief guest at the event held at the BOI head office Colombo.
+
+◼️
+
+[Data](articles/7652af1a.json)
+
+---
+
+### Speaker breezes through NCM with Govt. support
+
+*2024-03-22 04:53:38* · [`dailyftlk`](https://www.ft.lk/news/Speaker-breezes-through-NCM-with-Govt-support/56-759789) · `en`
+
+Speaker Mahinda Yapa Abeywardena yesterday survived the No Confidence Motion brought against him by the Opposition after it was defeated by 42 votes in Parliament.
+
+The vote on the No Confidence Motion, the first of its kind against a sitting Speaker of Parliament in Sri Lanka’s history was held following a three-day debate during which the Opposition accused him of partisan behaviour among many other allegations.
+
+117 MPs had voted against the motion while 75 voted in favour. Accordingly, Abeywardena will now continue in his role as the Speaker of the Sri Lankan Parliament.
+
+Opposition parties, the Samagi Jana Balawegaya (SJB), National People’s Power (NPP), Ilankai Tamil Arasu Kachchi (ITAK) and independent MPs including Wimal Weerawasa, Udaya Gammanpila, and Prof G.L. Peiris voted in favour of the motion.
+
+...
+
+[Data](articles/549bc105.json)
+
+---
 
 ### MPs debate CoPF Report: Concerns mount over CBSL Act interpretation
 
@@ -2057,191 +2191,5 @@ He announced his resignation while addressing the debate on the no -confidence m
 [Data](articles/422826fa.json)
 
 [Extended Data](ext_articles/422826fa.ext.json)
-
----
-
-### The struggle of the fishermen that continues in Jaffna;Worrishness
-
-*2024-03-21 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179307) · `ta`
-
-Jaffna fishermen protest food avoidance since 19th, with support from local organizations. Tamil MPs' lack of involvement highlighted.
-
-🟩
-
-Jaffna fishermen have accused the Food Avoidance Struggle launched on Thursday (21) for the third day on Thursday (21).
-
-Yall. The Federation of District Rural Fisheries Organizations and the Jaffna District Fisheries Co -operative Societies Federation have been engaged in a food -free struggle in front of St. John Posco Vidyalaya, Jaffna since the 19th.
-
-Four fishermen, especially Selvathurai Nalukkunam, Anton Sebarasa, Chinathambi Shanmugarajah and Anthony Pillai Mariyadas, have been involved in the food avoidance.
-
-The Jaffna Taiti Mother Fisheries Association has participated in the Jaffna Taiti Taiti today in support of the fishermen's food protest.
-
-At the same time, it is distressing that the Tamil MPs have not called for their role in the protests and rallies, knowing that it is impossible, and that those who automatically stick to the media and reports to the media have not extended their support for this livelihood issue.
-
-◼️
-
-[Data](articles/fb0e1a99.json)
-
-[Extended Data](ext_articles/fb0e1a99.ext.json)
-
----
-
-### Decreased to 7% in February
-
-*2024-03-21 14:41:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெப்ரவரி-மாதத்தில்-7-ஆக-குறைந்துள்ளது/175-334990) · `ta`
-
-Gallup Style Verite Research poll shows government authority dropped from 9% to 7% in February 2024. Economic conditions worsened, with 90% believing they're deteriorating, up from 66% in October 2023. 7% accept current government actions, 85% reject. Economic conditions are now considered special, good, or ridiculous by 91%, up from 73% in June 2023 and 81% in October 2023. 9% believe the economy is improving, down from 8% in October 2023.
-
-🟩
-
-According to the latest 'nation mood' poll of the Gallup Style of the Verite Research, the authority of the government, which was 9% in October 2023, declined to 7% in February 2024.
-
-The survey points out that only 9 percent estimated that the current economy is better or in good condition, which was 16 percent in October 2023.
-
-90% of the country's economic conditions are deteriorating, while only 66% in October 2023 had such a negative view.
-
-Do you recognize or refuse the method of acting in the current government? ”In the question, 7% of the respondents said they would accept them (± 1.81% with ± 1.81%). The percentage of the government rejected the process is 85%. The accreditation rating on the government has now reached the lowest point since June 2022.
-
-...
-
-[Data](articles/4e6613f9.json)
-
-[Extended Data](ext_articles/4e6613f9.ext.json)
-
----
-
-### The mood of the people has declined to 7% in Febra.
-
-*2024-03-21 14:41:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களின்-மனநிலை-பெப்ரவரியில்-7-ஆக-குறைந்துள்ளது/175-334990) · `ta`
-
-The 'nation mood' poll by Verite Research shows a decline in government authority and economic optimism in Sri Lanka. In February 2024, 7% approved of the government, down from 9% in October 2023. Economic conditions are seen as deteriorating, with 90% of respondents believing the economy is worse, compared to 16% in October 2023. The poll, conducted from February 16 to 25, 2024, with a sample of 1,044 Sri Lankans, aims to meet high standards for accuracy.
-
-🟩
-
-According to the latest 'nation mood' poll of the Gallup Style of the Verite Research, the authority of the government, which was 9% in October 2023, declined to 7% in February 2024.
-
-The survey points out that only 9 percent estimated that the current economy is better or in good condition, which was 16 percent in October 2023.
-
-90% of the country's economic conditions are deteriorating, while only 66% in October 2023 had such a negative view.
-
-Do you recognize or refuse the method of acting in the current government? ”In the question, 7% of the respondents said they would accept them (± 1.81% with ± 1.81%). The percentage of the government rejected the process is 85%. The accreditation rating on the government has now reached the lowest point since June 2022.
-
-...
-
-[Data](articles/9cd66ae7.json)
-
-[Extended Data](ext_articles/9cd66ae7.ext.json)
-
----
-
-### CBSL advises against wilful mutilation and defacement of currency notes
-
-*2024-03-21 14:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98103/cbsl-advises-against-wilful-mutilation-and-defacement-of-currency-notes) · `en`
-
-The Central Bank of Sri Lanka (CBSL) has raised concerns about the recent trend of using currency notes to prepare ornaments and gift items and promotion of such activities through social media.
-
-In a special notice issued to the members of the public, the CBSL’s Superintendent of Currency advised against wilful mutilation or defacement of currency notes.
-
-Pursuant to Section 55 of CBSL Act, No. 16 of 2023, any person found guilty of cutting or perforating; affixing any seal or stamp by printing, stamping or drawing on; attaching or affixing things to; reproducing or making a facsimile of currency notes; or using such mutilated or defaced notes as a legal tender would be subjected to a fine of Rs. 25 million, imprisonment of up to 3 years or both.
-
-As such, the CBSL urged the members of the public to refrain from engaging in the aforementioned unlawful activities.
-
-◼️
-
-[Data](articles/88c7dabf.json)
-
-[Extended Data](ext_articles/88c7dabf.ext.json)
-
----
-
-### Police mislead the court - lawyer filed a petition in Jaffna
-
-*2024-03-21 14:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/179326) · `ta`
-
-A lawyer in Jaffna accuses police of misleading the court, filing a petition against a police officer and a constable. The petitioner claims the police statement is misleading, threatening the court's honor. Investigations begin on the 1st.
-
-🟩
-
-A lawyer has filed a petition in the Jaffna court that the police mislead the court and submit the court power.
-
-A petition has been filed against a person in charge of the Jaffna Special Crime Police Division and a Constabil.
-
-In a statement filed by the police in court, the petitioner said, "The petitioner realized that the petitioner had made the crime he had committed and feared that the police would always be arrested," he said.
-
-The lawyer has filed a petition that the words are misleading and submitting the court's honor as a court order.
-
-Investigations on the petition will be held on the 1st of this month.
-
-◼️
-
-[Data](articles/ca32250a.json)
-
-[Extended Data](ext_articles/ca32250a.ext.json)
-
----
-
-### Australia tightens student visa rules as migration hits record high
-
-*2024-03-21 14:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Australia-tightens-student-visa-rules-as-migration-hits-record-high/108-279324) · `en`
-
-SYDNEY, March 21 (Reuters) - Australia will begin enforcing tougher visa rules for foreign students this week as official data showed migration hit another record high, which is likely to further exacerbate an already tight rental market.
-
-From Saturday, English language requirements for student and graduate visas will be increased, while the government will get the power to suspend education providers from recruiting international students if they repeatedly break rules.
-
-"The actions this weekend will continue to drive migration levels down while delivering on our commitments in the migration strategy to fix the broken system we inherited," Home Affairs Minister Clare O'Neil said in a statement.
-
-A new "genuine student test" will be introduced to further crack down on international students who look to come to Australia primarily to work, while the imposition of "no further stay" conditions will be used on more visitor visas.
-
-...
-
-[Data](articles/6990dc6b.json)
-
-[Extended Data](ext_articles/6990dc6b.ext.json)
-
----
-
-### Newly Incoming Police Boss
-
-*2024-03-21 14:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194776) · `si`
-
-New Southern Province Police Boss, Senior DIG Mahesh Senaratne, emphasizes creating a peaceful era, ensuring safety for all.
-
-🟩
-
-New centers in charge of the province is created in the Southern Province.
-
-Senior DIG Mahesh Senaratne was speaking at the commencement of the duties of the post.
-
-"My main purpose is to take a leading priority in our Hon.. The law in this Southern Province must be created a period of the era of peace. People have to prepare an environment where people can live without fear. Therefore, it is preparing and not to prepare the environment. So you have the support of it. "
-
-◼️
-
-[Data](articles/a3abeb6d.json)
-
-[Extended Data](ext_articles/a3abeb6d.ext.json)
-
----
-
-### 2 lakh rupees for Jaffna Restaurant
-
-*2024-03-21 14:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179325) · `ta`
-
-A Jaffna restaurant in Navanthurai was fined 2 lakh rupees for poor hygiene and food safety, leading to 20 charges against the owner.
-
-🟩
-
-2 lakhs of rupees per restaurant in Navanthurai area in Jaffna.
-
-During a sudden inspection of a restaurant in Navanthurai area by public health inspectors, dilapidated foods and meat curries were recovered and the environment of health was observed.
-
-Subsequently, a case was filed against the owner under 20 charges by Public Health Inspectors at the Jaffna Magistrate's Court.
-
-After the owner's acceptance of the allegations, each offense was sentenced to 10 thousand rupees and 20 charges.
-
-◼️
-
-[Data](articles/ce8e1214.json)
-
-[Extended Data](ext_articles/ce8e1214.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 00:17:52**
+As of **2024-03-23 00:33:41**
 
 ## Newspaper Stats
 
-*Scraped **14,618** Articles*
+*Scraped **14,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,111 @@ colombotelegraphcom | 134
 bbccomsinhala | 161
 dbsjeyarajcom | 190
 newsfirstlk | 363
-dailyftlk | 776
 economynextcom | 782
+dailyftlk | 786
 islandlk | 797
 adalk | 1,257
 adaderanalk | 1,751
 tamilmirrorlk | 1,758
 virakesarilk | 2,062
-dailymirrorlk | 2,253
+dailymirrorlk | 2,255
 adaderanasinhalalk | 2,334
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,616 (100.0%) of 14,618 articles have been extended.
+14,618 (99.9%) of 14,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### Princess of Wales says she is undergoing cancer treatment
+
+*2024-03-23 00:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Princess-of-Wales-says-she-is-undergoing-cancer-treatment/108-279456) · `en`
+
+(BBC) - The Princess of Wales says she is in the early stages of treatment after cancer was found in tests.
+
+In a video statement, Catherine says it was a "huge shock" after an "incredibly tough couple of months".
+
+But she sent a positive message, saying: "I am well and getting stronger every day."
+
+Details of the cancer have not been disclosed, but Kensington Palace says it is confident the princess will make a full recovery.
+
+The princess's statement explains that when she had abdominal surgery in January, it was not known that there was any cancer.
+
+"However tests after the operation found cancer had been present. My medical team therefore advised that I should undergo a course of preventative chemotherapy and I am now in the early stages of that treatment," said the princess.
+
+The chemotherapy treatment began in late February. The palace says it will not be sharing any further private medical information, including the type of cancer.
+
+...
+
+[Data](articles/d8f33869.json)
+
+---
+
+### Pendi receives Merit Award for Best Stall Displaying Local Products at Architect 2024 Exhibition
+
+*2024-03-23 00:15:25* · [`dailyftlk`](https://www.ft.lk/business/Pendi-receives-Merit-Award-for-Best-Stall-Displaying-Local-Products-at-Architect-2024-Exhibition/34-759842) · `en`
+
+Pendi, an exhibitor at Architect 2024 – Architect’s Work, Lifestyle, and Trade Exhibition, announces its recent achievement of clinching the Merit Award for Best Stall Displaying Local Products. This is in recognition of Pendi’s commitment to showcasing the essence of local craftsmanship and design excellence.
+
+The Architect 2024 Exhibition, held in February, brought together industry leaders, design enthusiasts, and innovators from across the globe to celebrate the latest trends and advancements in architecture and design. Pendi’s stall stood out for its remarkable display of locally sourced products, reflecting the rich cultural heritage and artistic flair of the region.
+
+...
+
+[Data](articles/61a2e4fc.json)
+
+---
+
+### Make every bottle sold a beacon of hope
+
+*2024-03-23 00:14:50* · [`dailyftlk`](https://www.ft.lk/business/Make-every-bottle-sold-a-beacon-of-hope/34-759841) · `en`
+
+From left: American Premium Service Excellence Senior Manager Radika Lawrance, Business Excellence Senior Manager Nirmala Kolugala, American Group Director/CEO Fayaz Fazal, American Premium Group Chairman Anura Kumarasinghe, Amana Bank Vice President Retail Banking/OrphanCare Management Committee Member Siddeeque Akbar, OrphanCare Deputy Head Marshad Barry, and Head Azad Zaheed
+
+American Premium commemorates World Water Day by teaming up with OrphanCare
+
+...
+
+[Data](articles/9fb460d1.json)
+
+---
+
+### ‘Avurudu’ shopping discounts up to 50% at 4,000+ outlets for ComBank cardholders
+
+*2024-03-23 00:13:57* · [`dailyftlk`](https://www.ft.lk/business/Avurudu-shopping-discounts-up-to-50-at-4-000-outlets-for-ComBank-cardholders/34-759840) · `en`
+
+The Commercial Bank of Ceylon is heralding the arrival of the Sinhala and Tamil New Year with the launch of its biggest seasonal shopping promotion of the year for credit and debit card holders.
+
+The Bank has partnered with more than 400 merchants to offer discounts of up to 50% on specified days or periods from 20 March to 30 April 2024 at over 4,000 outlets across the country.
+
+These promotions will add to the good cheer of the Avurudu celebrations by offering cardholders opportunities to shop for clothes for the whole family, buy presents for friends, get a home makeover, try out a new beauty trend, get fit, and even indulge in some much-needed self-love, the Bank said.
+
+...
+
+[Data](articles/3d3a2623.json)
+
+---
+
+### Fratricidal  conflict between LTTE and Karuna Eastern Tigers
+
+*2024-03-23 00:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Fratricidal-conflict-between-LTTE-and-Karuna-Eastern-Tigers/172-279455) · `en`
+
+All hell was expected to break loose after “Col”Karuna the Eastern regional commander of the LTTE raised the banner of revolt against the Wanni-based tiger hierarchy on March 3, 2004
+
+After breaking away, Karuna had indicated that he would abide by the ceasefire and wanted a separate memorandum of understanding. This was vehemently opposed by the mainstream LTTE
+
+Moreover the LTTE had invested politically in the grouping of Tamil parties known as the Tamil National Alliance (TNA), The Eelam Peoples Democratic Party (EPDP) Leader Douglas Devananda used to mock the TNA as  an acronym for “Tiger nominated agents”
+
+In the first article published last week (“Col” Karuna’s Eastern Tiger revolt against LTTE 20 years ago) the background and reasons for the Eastern Tiger revolt were discussed in detail.
+
+...
+
+[Data](articles/470185d5.json)
+
+---
 
 ### Isn’t there a better COPE chief in SLPP?
 
@@ -45,6 +131,8 @@ Eran Wickramaratne, S.M.Marikkar and Hesha Withanage from the Samagi Jana Balawe
 ...
 
 [Data](articles/18dda8b8.json)
+
+[Extended Data](ext_articles/18dda8b8.ext.json)
 
 ---
 
@@ -64,9 +152,99 @@ The irony of it all is that the Department of Meteorology warned us of the impen
 
 [Data](articles/72a8e0be.json)
 
+[Extended Data](ext_articles/72a8e0be.ext.json)
+
 ---
 
 ### 2024-03-22 (Friday)
+
+### EU Report: Diversity, equity and inclusion crucial for Sri Lanka’s socio-economic development
+
+*2024-03-22 23:38:47* · [`dailyftlk`](https://www.ft.lk/news/EU-Report-Diversity-equity-and-inclusion-crucial-for-Sri-Lanka-s-socio-economic-development/56-759839) · `en`
+
+Sri Lankan businesses must look beyond the surface to design Diversity, Equity and Inclusion (DEI) strategies that consider broader complexities, if they are to achieve tangible and transformative business results and greater social harmony, says a new landmark report that provides recommendations for businesses to harness the potential of DEI.
+
+...
+
+[Data](articles/72636e46.json)
+
+---
+
+### UNDP and the European Union unveil mobile interactive exhibition of women’s empowerment initiatives in Galle
+
+*2024-03-22 23:36:51* · [`dailyftlk`](https://www.ft.lk/news/UNDP-and-the-European-Union-unveil-mobile-interactive-exhibition-of-women-s-empowerment-initiatives-in-Galle/56-759838) · `en`
+
+EU Ambassador to Sri Lanka Carmen Moreno (left) and United Nations Development Program (UNDP) in Sri Lanka Resident Representative Azusa Kubota
+
+Showcasing stories of Sri Lankan women driving change in building gender-equal society
+
+EU Ambassador to Sri Lanka Carmen Moreno and United Nations Development Program (UNDP) in Sri Lanka Resident Representative Azusa Kubota earlier this week inaugurated UNDP’s mobile interactive exhibition, ‘A Journey of Transformation and Women’s Empowerment,’ in Galle. The exhibition at the Galle Municipal Hall, concluded on Thursday.
+
+The exhibition, the 5th stop in Galle, stems from an initiative sparked during last year’s 16 Days of Activism campaign. It was graced by local government and civil society representatives working in the area through a social dialogue.
+
+...
+
+[Data](articles/a2732d47.json)
+
+---
+
+### British Council launches Women in STEM Scholarships for 2024/25
+
+*2024-03-22 23:34:09* · [`dailyftlk`](https://www.ft.lk/news/British-Council-launches-Women-in-STEM-Scholarships-for-2024-25/56-759837) · `en`
+
+British Council, the UK’s international organisation for educational opportunities and cultural relations, in partnership with UK universities, has announced the launch of British Council Scholarships for Women in STEM program. This prestigious scholarship is designed for female STEM graduates wanting to pursue their Masters’ in the UK.
+
+The presence of women in STEM fields is essential for promoting diversity, ensuring a range of perspectives, and driving innovation. Their presence not only addresses gender disparities but also enriches the workforce with unique skills, ultimately advancing scientific and technological progress for the benefit of society. According to the Global Gender Gap Report 2023 by the World Economic Forum, the global gender gap score in 2023 for all 146 countries included in this edition stands at 68.4% closed, showing an improvement of 0.3% compared to last year’s edition.
+
+...
+
+[Data](articles/ccc7afe2.json)
+
+---
+
+### LEARN and UNESCO Chair of APU sign MoU to empower Sri Lankan educators
+
+*2024-03-22 23:33:56* · [`dailyftlk`](https://www.ft.lk/news/LEARN-and-UNESCO-Chair-of-APU-sign-MoU-to-empower-Sri-Lankan-educators/56-759836) · `en`
+
+Recognising the growing importance of Artificial Intelligence (AI) in the modern digital world, the Lanka Research and Education Network (LEARN) signed an MoU with the UNESCO Chair of Asia Pacific University (APU), Malaysia, to equip Sri Lankan educators with AI skills.
+
+This partnership aims to enhance teaching quality and research efforts by effectively empowering teachers and university lecturers to utilise AI. Through various initiatives, educators will gain proficiency in using AI as a supporting tool to offer enriched learning experiences to students. Thus, this partnership signals a promising step towards positively transforming Sri Lanka’s educational landscape.
+
+...
+
+[Data](articles/fa3da03f.json)
+
+---
+
+### People sovereignty and the Constitution: A different perspective
+
+*2024-03-22 23:31:36* · [`dailyftlk`](https://www.ft.lk/columns/People-sovereignty-and-the-Constitution-A-different-perspective/4-759835) · `en`
+
+People’s sovereignty has been stolen, taken away, and virtually installed in the hands of individual parties
+
+Chapter I of the Constitution specifies, the people, the state and sovereignty. It has several clauses and sub-clauses on how the three pillars: Executive, Legislator and Judiciary should function harmoniously and in compliance thus adhering to people’s sovereignty. However, the mandate given to both Executive and Legislator has been grossly violated undermining people’s power delegated to elected
+
+The recent two events, the online bill and the appointing of IGP, are good examples that led to controversies. The online bill was passed despite Supreme Court rulings and appointing the IGP by manipulation of vote counts of the Constitutional Council (CC) by the Speaker who is the chairman of CC, eligible for casting vote only in the event of equal “Yes” against “No”.
+
+...
+
+[Data](articles/fe48fc4c.json)
+
+---
+
+### Preserve forest to slow down climate change
+
+*2024-03-22 23:29:24* · [`dailyftlk`](https://www.ft.lk/opinion/Preserve-forest-to-slow-down-climate-change/14-759834) · `en`
+
+A sustainable future depends on investments in forest protection and restoration
+
+21 March is International Forest Day, a day to celebrate and spread awareness of the value of forests and trees. The theme for this year, “Forest and innovation: New solutions for a better world,” emphasises how critical it is to find creative solutions to the problems that confront our forest areas. A sustainable future depends on investments in forest protection and restoration, which will help with everything from reducing the effects of climate change to protecting biodiversity and assisting human populations.
+
+...
+
+[Data](articles/e1ebe195.json)
+
+---
 
 ### Russia launches massive air attack on Ukraine’s energy infrastructure
 
@@ -85,6 +263,20 @@ Russia’s Defense Ministry said it had “launched a massive strike” on Ukrai
 [Data](articles/6532244c.json)
 
 [Extended Data](ext_articles/6532244c.ext.json)
+
+---
+
+### An Elephant Knowledge Walk, tea inspiration and well-being of future generations
+
+*2024-03-22 23:20:35* · [`dailyftlk`](https://www.ft.lk/columns/An-Elephant-Knowledge-Walk-tea-inspiration-and-well-being-of-future-generations/4-759829) · `en`
+
+Elephants are an inspiring species, almost more human than humans; their social structure and bonds of family are admirable. In 2009 we inaugurated the Elephant Information Centre at the Elephant Transit Home in Uda Walawe. It was the first time Sri Lanka’s Department of Wildlife Conservation was able to engage visitors with the story of elephants. Last Saturday, it was thrilling – 15 years later – to do as my son Amrit and I in 2009, building on the success of the unique facility with the renewed Dilmah Conservation ‘Elephant Knowledge Walk’.
+
+The question hung in the 40 degree heat, as renowned Elephant Conservationist Dr. Sumith Pilapitiya explained the significance of elephants, why a tea company should invest in a long-term partnership for the conservation of Sri Lankan elephants in isolated Uda Walawe.
+
+...
+
+[Data](articles/797555f9.json)
 
 ---
 
@@ -2035,277 +2227,5 @@ Nevertheless, it has been decided to continue discussions regarding the matter f
 [Data](articles/bd9f188b.json)
 
 [Extended Data](ext_articles/bd9f188b.ext.json)
-
----
-
-### Keheliya’s application for bail to be heard on Monday
-
-*2024-03-22 12:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliyas-application-for-bail-to-be-heard-on-Monday/108-279395) · `en`
-
-Colombo, March 22 (Daily Mirror)- A revision application filed on behalf of former Health Minister Keheliya Rambukwella, who is currently held in remand custody in connection with the alleged import of substandard Immunoglobulin injections, was today fixed for March 25 by the Colombo High Court.
-
-Filing a revision application, the former Health Minister's daughter is requesting the Colombo High Court that her father be released on whatever bail conditions the court deems fit.
-
-When the matter came up before High Court Judge Sujeewa Nissanka, court was informed that the Attorney General is yet to receive documents pertaining to the revision application.
-
-◼️
-
-[Data](articles/5b410a5b.json)
-
-[Extended Data](ext_articles/5b410a5b.ext.json)
-
----
-
-### The people are essential to the people without a shortage of festive season
-
-*2024-03-22 11:54:18* · [`adalk`](https://www.ada.lk/breaking_news/උත්සව-සමයේදී-හිඟයකින්-තොරව-ජනතාවට-අත්‍යවශ්‍ය-ආහාර/11-408755) · `si`
-
-The State Minister of Livestock Development, B. Herath, highlighted the government's efforts to ensure food security during the festive season, including implementing programs to reduce post-harvest losses and increase production of essential food items. The Ministry of Agriculture has provided financial support for farmers and is working on mechanisms to stabilize vegetable and fruit prices. The government is also focusing on self-sufficiency in protein production, increasing milk production, and improving animal husbandry quality. President Ranil Wickremesinghe emphasized the government's success in addressing living challenges and welfare programs for the youth and low-income individuals.
-
-🟩
-
-State Minister of Livestock Development, who has created essential time in the enclosure of essential food items during the festive season.. B. Herath said.
-
-The project said that the program will be implemented through a system that protects the farmer and consumer.
-
-State Minister of Livestock Development. B. Herath made this statement participating at a press conference held at the press conference at the Presidential Media Center.
-
-The government has implemented several programs to reduce the post harvest technology to reduce the harvest losses and prepare the country into the global food crisis.
-
-...
-
-[Data](articles/de41a3e5.json)
-
-[Extended Data](ext_articles/de41a3e5.ext.json)
-
----
-
-### 52 windmills on the flying path of birds;Adani's project
-
-*2024-03-22 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/179406) · `ta`
-
-Professor Sampath S Seneviratne warns that Adani's 52 windmills in Mannar could harm bird migration, despite Colombo University's research on bird paths. The windmills, 120m high with 96m rotating blades, are said to disrupt bird migration, affecting 15 million birds from 30 countries. Sri Lanka has pledged to protect these birds, with most entering through Mannar.
-
-🟩
-
-Professor Sampath S Seneviratne, Professor of Colombo University, said that the windmill of the Adani Group could be greatly affected by Mannar's weak birds.
-
-He said that Mannar is the main entrance to the wander birds, and that Adani's windmill will be a disaster for the birds.
-
-He said that each tower created for the windmill is 120 meters high and 96 meters of rotating knives.
-
-He also said that the windmills do not emit through the windmills, but that the windmills are used for the economy or the economy, but the fact that these winds are used for the economy.
-
-Professor Seneviratne said that the proposed construction site is on the diaspora.
-
-The Colombo Ballaga University has been conducting a comprehensive research on bird migration paths, using satellite images and GMS and GPS technology for the past four years.
-
-He added that these data are not only for the benefit of the environment but also for the Civil Air Transport Commission.
-
-...
-
-[Data](articles/ca73bd2d.json)
-
-[Extended Data](ext_articles/ca73bd2d.ext.json)
-
----
-
-### Yall. Fishermen who tried to enter the Indian Consulate
-
-*2024-03-22 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179403) · `ta`
-
-Fishermen in Jaffna protested against Indian trawling, blocking the Indian Consulate. They started a hunger strike and are now engaged in a struggle outside the Indian Embassy, demanding continued resource support.
-
-🟩
-
-Jaffna district fishermen blocked the Indian consultation in Jaffna on Friday in protest of the Indian trawling industry.
-
-Fishermen started a hunger strike in Jaffna last Tuesday. The fishermen who started the protest have lost their patience and are engaged in a struggle in front of the Indian Embassy in Jaffna today and are trying to enter the Indian Consulate.
-
-In this case, the fishermen are trying to bring the fishermen into a smooth condition.. Police are intimidating fishermen by showing a hand animal.
-
-It is noteworthy that the fishermen are continuing their protests, demanding that their resources continue to be provided.
-
-◼️
-
-[Data](articles/fd10b61b.json)
-
-[Extended Data](ext_articles/fd10b61b.ext.json)
-
----
-
-### Ten more suspected criminals of underworld gangs nabbed
-
-*2024-03-22 11:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ten-more-suspected-criminals-of-underworld-gangs-nabbed/108-279394) · `en`
-
-Colombo, March 22 (Daily Mirror)- Ten more suspected criminals of underworld gangs were arrested yesterday during the special operation launched to crack down on organized criminal activities.
-
-The suspects were arrested in Ratmalana, Mattakkuliya, Wattala, Colombo 12, Kolonnawa, Ganemulla and Uragasmanhandiya.
-
-They are suspected to be close associates of underworld gangs of 'Kudu Anju', Dematagoda Chaminda, Kanjipani Imran, Keselwatte Dinuka, Ladiya and Kosgoda Suji.
-
-In response to a concerning increase in organized criminal activities in the Western and Southern Provinces, a special operation targeting 20 identified organized criminal gangs in the country was launched under the 'Yukthiya' initiative last Tuesday (19).
-
-◼️
-
-[Data](articles/bcbaa1ad.json)
-
-[Extended Data](ext_articles/bcbaa1ad.ext.json)
-
----
-
-### Uganda president has made his son a military commander
-
-*2024-03-22 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179407) · `ta`
-
-Uganda's President Joveri Musaveni appointed her son, Muhuzi Kanerugaba, as the army commander, despite speculations about him becoming president.
-
-🟩
-
-Uganda President Joveri Musaveni has appointed her son as the army commander of the country.
-
-Joverie Musaveni, who has seized power since 1986, has been elected president six times.
-
-There were speculations that Muzhaveni was preparing to make him the president after her son Muhuzi Kyrerukaba.
-
-The Uganda Defense Ministry said yesterday that President Muzaveni has appointed Muhuzi Kanerugaba as Army Commander.
-
-◼️
-
-[Data](articles/1870ed1c.json)
-
-[Extended Data](ext_articles/1870ed1c.ext.json)
-
----
-
-### The boy's death falls into the agricultural well
-
-*2024-03-22 11:37:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விவசாய-கிணற்றில்-விழுந்து-சிறுவன்-மரணம்/76-335013) · `ta`
-
-A 3-year-old boy, Kathiravel Rohit, was found dead in an agricultural well in Pinoya's Vattawala police division. His father and plantation workers discovered his body.
-
-🟩
-
-The body of the boy, who was playing in a plantation house in Pinoya's upper part of the Vattawala police division, has been recovered from the well located in the back of the house, the Vattawala police said.
-
-The body of Kathiravel Rohit, aged 3, 9 months old, was found in the agricultural well, police said.
-
-Due to the disappearance of the child who was playing at home, the child's father and plantation workers living in the plantation houses have recovered the body from the well.
-
-◼️
-
-[Data](articles/7ad395a8.json)
-
-[Extended Data](ext_articles/7ad395a8.ext.json)
-
----
-
-### Yall. Fishermen who siege the Indian Consulate
-
-*2024-03-22 11:34:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-இந்திய-துணை-தூதரகத்தை-முற்றுகையிட்ட-மீனவர்கள்/175-335012) · `ta`
-
-Fishermen in Jaffna protest Indian drag industry by blocking Indian embassy, seeking consulate access.
-
-🟩
-
-Jaffna district fishermen today blocked the Indian embassy in Jaffna in protest of the Indian drag industry.
-
-The fishermen who started the protest have lost their patience and are engaged in a struggle in front of the Indian Embassy in Jaffna today and are trying to enter the Indian Consulate.
-
-In this case, the fishermen are trying to bring the fishermen into a smooth condition.. Remble
-
-◼️
-
-[Data](articles/ac7fc03d.json)
-
-[Extended Data](ext_articles/ac7fc03d.ext.json)
-
----
-
-### Report on the Great Heroes Celebrations
-
-*2024-03-22 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194811) · `si`
-
-The Attorney General has requested a full investigation report on the "Maha Heroes' celebrations," recalling LTTE members from the Northern and Eastern Provinces. Senior State Counsel Shamitry Wickrema defended the law against these celebrations. The Court of Appeal summoned Karaliy and Bhagna, Karalive, and ordered them to submit a report. Senior State Counsel Wickrema aims to prove the full report regarding the Tusers Investigation Bureau in the North and East.
-
-🟩
-
-The Attorney General also informed the Court of Appeal to submit a full investigation report regarding the "Maha Heroes' celebrations" recently, recalling the LTTE members of the Northern and Eastern Provinces.
-
-Senior State Counsel Shamitry Wickrema appeared for the Attorney General yesterday (21) as a film was called to issue the law against the heroic celebrations yesterday (21).Did.
-
-The petition is the S. U. B. The Court of Appeal of Karaliy and Bhagna, Karalive were summoned before the Court of Appeal.
-
-When the petition was called recently, the Senior Statemen had pledged to the court that the law was implemented against the Great Warnings in the Northern and Eastern Provinces.
-
-The Attorney General was informed to the court when the petition was called yesterday.
-
-The Attorneys of the Petitioques were asked to permit the petition to withdraw the petition.
-
-...
-
-[Data](articles/861d82cf.json)
-
-[Extended Data](ext_articles/861d82cf.ext.json)
-
----
-
-### It is planning to reduce the girls who are sexually engaged in sex
-
-*2024-03-22 11:25:23* · [`adalk`](https://www.ada.lk/breaking_news/ගැහැණු-දරුවන්ට-ලිංගික-සේවනයේ-යෙදීය--හැකි-වයස-අවුරුදු-14-දක්වා-අඩු-කිරීමේ-සූදානමක්/11-408754) · `si`
-
-The government plans to reduce sexual assault cases involving girls aged 22. Minister Prasanna Ranatunga responded to Opposition Leader Sajith Premadasa's question in Parliament, highlighting the importance of amending clauses 363 and 364 of the Penal Code, which deal with sexual assault. The opposition leader requested the removal of these clauses, emphasizing the need for protection for all parties involved.
-
-🟩
-
-The Chief Organizer of the government is to reduce the proposal of the proposal of sexual assault on the age of 22 years of age and punishment of the pens of 22 years of age and punishment of a male guilty 22 years old.Development and Housing Minister Prasanna Ranatunga is said.
-
-Minister Prasanna Ranatunga was responding to a question raised by Opposition Leader Sajith Premadasa today (22).The conversation in Parliament in this regard is as follows.
-
-Opposition Leader Sajith Premadasa - Chapter 363 and 364 of the Penal Code published on February 13, 363 and 364, I would like to look into the attention of Minister Prasanna Ranatunga.
-
-...
-
-[Data](articles/f0e2b509.json)
-
-[Extended Data](ext_articles/f0e2b509.ext.json)
-
----
-
-### Former Brazil international Robinho arrested to serve rape sentence
-
-*2024-03-22 11:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Brazil-international-Robinho-arrested-to-serve-rape-sentence/108-279392) · `en`
-
-Mar. 22 (BBC) - Former Brazil international football player Robinho has been arrested to serve a nine-year prison sentence for rape.
-
-He was convicted two years ago in Italy for his part in the gang rape of an Albanian woman at a night club in Milan in 2013.
-
-Robinho, 40, was arrested at his flat in his home city of Santos.
-
-The Italian government had requested that he serve his sentence in Brazil after failing to get him extradited.
-
-On Wednesday, a court in Brazil upheld the decision and also ruled that he should serve his time behind bars instead of under house arrest.
-
-Earlier on Thursday, a Supreme Court judge rejected a request to halt his detention.
-
-The decisive action taken by Brazil's justice system has been praised by many on local media, who feared that Robinho would evade justice thanks to his fame and his wealth.
-
-...
-
-[Data](articles/046d09e9.json)
-
-[Extended Data](ext_articles/046d09e9.ext.json)
-
----
-
-### The Tamil Nadu Factor
-
-*2024-03-22 11:23:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-tamil-nadu-factor/) · `en`
-
-...
-
-[Data](articles/23fe8c2b.json)
-
-[Extended Data](ext_articles/23fe8c2b.ext.json)
 
 ---

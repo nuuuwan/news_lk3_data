@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 10:51:55**
+As of **2024-03-22 11:03:38**
 
 ## Newspaper Stats
 
-*Scraped **14,484** Articles*
+*Scraped **14,493** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,71 +12,155 @@ colombotelegraphcom | 133
 bbccomsinhala | 159
 dbsjeyarajcom | 190
 newsfirstlk | 363
-economynextcom | 764
+economynextcom | 768
 dailyftlk | 776
 islandlk | 797
 adalk | 1,246
 adaderanalk | 1,736
 tamilmirrorlk | 1,747
-virakesarilk | 2,040
-dailymirrorlk | 2,222
-adaderanasinhalalk | 2,311
+virakesarilk | 2,042
+dailymirrorlk | 2,224
+adaderanasinhalalk | 2,312
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,478 (100.0%) of 14,484 articles have been extended.
+14,484 (99.9%) of 14,493 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### ශ්‍රී ලංකා ක්‍රිකට් තවත් පත්කිරීම් 3ක්
+### Mongolia is the most wide winter that has not been confronted in half a hundred years - snow everywhere - five million animals death
+
+*2024-03-22 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179391) · `ta`
+
+Mongolia faces a severe winter, with snow everywhere and the death of five million animals. Humanitarian organizations report a significant loss of livestock, affecting nomadic and livestock shepherds. Alexander, Regional Director of the Asia Pacific of the International Red Cross, highlights the impact on those reliant on livestock.
+
+🟩
+
+Humanitarian organizations have reported that five million animals have died due to the severe winter of Mongolia half a century.
+
+Mongolia is trapped in a very severe cold and 4.7 million animals have been killed.
+
+Temperature has fallen. Heavy snowfall is completely closed.
+
+More than three hundred thousand people in Mongolia are involved in nomadic and livestock shepherds for food and markets.
+
+Alexander, Regional Director of the Asia Pacific of the International Red Cross, said that the people who have completely relied on livestock for their lives have become a few months old.
+
+More than 2250 families in the livestock have lost more than 70 percent of their livestock.
+
+The heavy cold weather has affected the majority of Mongolia.
+
+Spring in Mongolia, but winter is still in the ground, the cattle are still dead.
+
+◼️
+
+[Data](articles/e2faebc4.json)
+
+[Extended Data](ext_articles/e2faebc4.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවට ණය සහනයක්
+
+*2024-03-22 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194808) · `si`
+
+ඉන්දියාවට සහ පැරිස් සමාජයේ රටවල් සඳහා ශ්‍රී ලංකාව ගෙවිය යුතු ණය සඳහා වසර 6ක සහන කාලයක් ලැබීමට ඉඩ ඇතැයි ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/032a504b.json)
+
+---
+
+### யாழை சென்றடைந்தார்  ஜனாதிபதி
+
+*2024-03-22 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179397) · `ta`
+
+பலாலி விமான நிலையம் ஊடாக யாழ்ப்பாணம் வருகை தந்த ஜனாதிபதியை அமைச்சர் டக்ளஸ் தேவானந்தா உள்ளிட்ட குழுவினர் பொன்னாடை போர்த்தி வரவேற்றனர்.
+
+யாழ்ப்பாணம் வருகை தந்த ஜனாதிபதி , கடந்த 33 வருட காலமாக இராணுவ கட்டுப்பாட்டில் இருந்த தனியாரின் சுமார் 278 ஏக்கர் காணிகளை அதன் உரிமையாளரிடம் மீள கையளிக்கவுள்ளதுடன், பருத்தித்துறை ஆதார வைத்தியசாலையில் புதிதாக நிர்மாணிக்கப்பட்டுள்ள அவசர சிகிச்சை பிரிவையும் திறந்து வைக்கவுள்ளார்.
+
+◼️
+
+[Data](articles/ef8b28eb.json)
+
+---
+
+### இலஞ்சம் கோரி இராஜங்க அமைச்சர் கொலை அச்சுறுத்தலாம் : பதவி விலகினார் சீநோர் தலைவர்!
+
+*2024-03-22 10:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179393) · `ta`
+
+இராஜாங்க அமைச்சர்  பியால் நிஷாந்தவின் மரண அச்சுறுத்தல் காரணமாக தனது கடமைகளைத் தொடர முடியாது என ஜனாதிபதிக்கு கடிதம் மூலம் அறிவித்ததையடுத்து,  சீநோர்  நிறுவனத்தின்  (C-Nor Foundation)  தலைவர் கலாநிதி  துலான் ஹெட்டியாராச்சி தனது பதவியை இராஜினாமா செய்துள்ளார்.
+
+கடற்றொழில் இராஜாங்க அமைச்சர்  பியால் நிஷாந்த தன்னை அச்சுறுத்தி இலஞ்சம் கேட்டு வருவதாகவும் சில சந்தர்ப்பங்களில் வழங்காதபோது கொலைமிரட்டல் விடுப்பதாகவும்  கலாநிதி  துலான் ஹெட்டியாராச்சி இது தொடர்பில் ஜனாதிபதிக்கு கடிதம் மூலம் தெரிவித்துள்ளார்.
+
+கடற்றொழில் இராஜாங்க அமைச்சின் கீழ் இயங்கும் சீ நோர்  அமைப்பின் லிமிடெட் நிறுவனத்தின் தலைவராக ஹெட்டியாராச்சி பொறுப்பேற்றுக் கொண்டதாகவும்  அந்த நிறுவனத்துக்கு  20  புதிய ஊழியர்களை  பியல் நிஷாந்த நியமித்ததாகவும்  ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/cffa6f6a.json)
+
+---
+
+### Review decision to reduce consent age for sex: Sajith
+
+*2024-03-22 10:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Review-decision-to-reduce-consent-age-for-sex-Sajith/108-279391) · `en`
+
+Opposition Leader Sajith Premadasa today urged the government to review its decision to reduce the consent age for sex to 14 when it comes to women.
+
+"There is a strong call from Sri Lankan women to review the government's decision," Premadasa said.
+
+The penal code is to be amended to reduce the consent age for sex to 14 years and to have a single law pertaining to abuse of men and women.
+
+◼️
+
+[Data](articles/1a488bf7.json)
+
+---
+
+### 3 more Sri Lankan cricket
 
 *2024-03-22 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194807) · `si`
 
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනය මගින් නව තනතුරු 3ක් සඳහා පත්කිරීම් කර ඇති බව නිවේදනය කරයි.
+Sri Lanka Cricket appoints Jonathan Pot as sports promotional nutritionist.
 
-ක්‍රීඩා ප්‍රවර්ධන පෝෂණවේදී තනතුර සඳහා වෛද්‍ය හෂාන් අමරතුංග ද භෞත චිකිත්සක ලෙස ජොනතන් පෝට(ර්) පත්කර තිබේ.
+🟩
+
+Sri Lanka Cricket has made appointments for three new posts.
+
+Dr. Hashan Amaratunga has appointed Jonathan Pot (Ronathan Pot) for the post of the sports promotional nutrition.
 
 ◼️
 
 [Data](articles/23f399aa.json)
 
+[Extended Data](ext_articles/23f399aa.ext.json)
+
 ---
 
-### வவுனியாவில் வர்த்தக நிலையத்தில் சடலம் மீட்பு
+### Body recovery at trade center in Vavuniya
 
 *2024-03-22 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/179392) · `ta`
 
-வவுனியா தோனிக்கல் ஆலயடி வீதியில் அமைந்துள்ள வர்த்தக நிலையத்தில் இருந்து ஆண் ஒருவரின் சடலம் மீட்கப்பட்டுள்ளதாக வவுனியா பொலிஸார் தெரிவித்தனர்.
+A man's body was found at a trade center on Vavuniya Dhonikkal Street Road this morning. The deceased, R. Nasendran, was 43 years old and a father of two.
 
-குறித்த நபர் கடந்த சில நாட்களாக சுகவீனமுற்று காணப்பட்ட நிலையிலேயே இன்று வெள்ளிக்கிழமை (22) அதிகாலை தனது வர்த்தக நிலையத்தில் இருந்து சடலமாக மீட்கப்பட்டுள்ளார்.
+🟩
 
-43 வயதுடைய இரண்டு பிள்ளைகளின் தந்தையான ரெ.நேசேந்திரன் என்பவரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
+Vavuniya police said that the body of a man has been recovered from the trade center located on the Vavuniya Dhonikkal Street Road.
+
+The person has been recovered from his trade center this morning (22) this morning.
+
+The body was recovered by R. Nasendran, the father of two children, aged 43.
 
 ◼️
 
 [Data](articles/503b3d56.json)
 
----
-
-### மொங்கோலியா அரைநூற்றாண்டு காலத்தில் எதிர்கொள்ளாத மிககடுமையான குளிர்காலம் - எங்கும் பனி - ஐந்து மில்லியன் விலங்குகள் உயிரிழப்பு
-
-*2024-03-22 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179391) · `ta`
-
-மொங்கோலியா அரைநூற்றாண்டு  காலத்தி;ல் சந்தித்துள்ள மிகவும் கடுமையான குளிர்காலம் காரணமாக ஐந்து மில்லியன் விலங்குகள் உயிரிழந்துள்ளன என  மனிதாபிமான அமைப்புகள் தெரிவித்துள்ளன.
-
-மொங்கோலியா மிகவும் கடுமையான குளிரில் சிக்குப்பட்டு உறைந்துபோயுள்ளது 4.7 மில்லியன் விலங்குகள் உயிரிழந்துள்ளன ஆயிரக்கணக்கான் மக்களின் வாழ்வாதாரத்திற்கும் உணவு விநியோகத்திற்கும் பாதிப்பு ஏற்பட்டுள்ளது என சர்வதேச செஞ்சிலுவை சம்மேளனம் தெரிவித்துள்ளது.
-
-வெப்பநிலை வீழ்ச்சியடைந்துள்ளது கடும் பனி காணப்படுகின்றது மேய்ச்சல் நிலங்கள் முற்றாக மூடப்பட்டுள்ளன கால்நிலைகள் உணவிற்காக அலைகின்றன என செஞ்சிலுவை சம்மேளனம்  தெரிவித்துள்ளது.
-
-மங்கோலியாவில் மூன்று இலட்சத்திற்கும் மேற்பட்ட மக்கள் நாடோடிகள் மற்றும் கால்நடை மேய்ப்பில் ஈடுபட்டுள்ளனர் உணவுக்காகவும் சந்தைகளி;ல் விற்பனை செய்வதற்காகவும்  அவர்கள் கால்நடைகளை நம்பியுள்ளனர்.
-
-...
-
-[Data](articles/e2faebc4.json)
+[Extended Data](ext_articles/503b3d56.ext.json)
 
 ---
 
@@ -94,43 +178,95 @@ As many as 17 countries that have extended loans to Sri Lanka formed the Committ
 
 [Data](articles/e4ea3573.json)
 
+[Extended Data](ext_articles/e4ea3573.ext.json)
+
 ---
 
-### பொசன் பண்டிகையை பகலில் கொண்டாட முடியுமா ?  - சார்ள்ஸ் நிர்மலநாதன் கேள்வி
+### Can Poson celebrate the festival in the day?- Charles Nirmalanathan question
 
 *2024-03-22 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179385) · `ta`
 
-இந்துக்களின் சிவராத்திரியை பகலில் நடத்துமாறு பொலிஸார்  கூறுவதை போன்று பௌத்தர்களின் பொசன் தின நிகழ்வை பகலில் நடத்துமாறு பொலிஸாரினால் கூற முடியுமா என  தமிழ் தேசியக் கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர்  சார்ள்ஸ் நிர்மலநாதன் சபையில் கேள்வியெழுப்பினார்.
+Charles Nirmalanathan, TNA MP, questioned police's permission for Buddhist Poson Day, citing inconsistency with Hindu Shivaratri. Despite court approval for Shivaratri at Adilingeswarar Temple, police denied permission. Nirmalanathan argued against police anarchy, while Justice Minister Wijeyadasa Rajapakse defended the decision, stating the issue was resolved within two hours.
 
-பாராளுமன்றத்தில்  வியாழக்கிழமை (21) இடம்பெற்ற சபாநாயகருக்கு எதிரான நம்பிக்கையில்லா பிரேரணை மீதான மூன்றாம்  நாள் விவாதத்தில்  உரையாற்றும் போது மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-வெடுக்குநாறிமலை  ஆதிலிங்கேஸ்வரர் ஆலயத்தில் சிவராத்திரியை அனுஷ்டிக்க இந்துக்களுக்கு  நீதிமன்றம் அனுமதியளித்தபோதும் பொலிஸார் அனுமதி மறுத்தனர்.
+Tamil National Alliance (TNA) parliamentarian Charles Nirmalanathan questioned whether the police could hold the Buddhist Poson Day in the daytime, as the police say to hold the Hindus Shivaratri in the daytime.
 
-வழிபாட்டுக்கு அனுமதித்தால் அங்குள்ள தொல்பொருட்கள் சேதமடையும் என்றால் அனுமதித்துவிட்டு அவற்றுக்கு சேதம் ஏற்படாமல் பொலிஸார்  பார்த்திருக்க வேண்டும். அத்துடன் அங்கு சிவன் கோயிலே  உள்ளது. எனவே தமது கோவிலை இந்துக்கள் சேதப்படுத்த மாட்டார்கள் என்றார்.
+He said this while addressing the third day debate on the no -confidence motion against the Speaker held in Parliament on Thursday (21).
 
-இதன்போது  குறுக்கிட்ட நீதி அமைச்சர் விஜேதாச ராஜபக்ச, இந்தப் பிரச்சினையை நீங்கள் பாராளுமன்றத்திற்கு கொண்டு வந்தபோது இரு மணித்தியாலங்களுக்குள் நாம்  தீர்வு வழங்கினோம்.
+The police refused permission even when the court had allowed the Hindus to observe Shivaratri at the Adilingeswarar Temple at the Attukkunnarimalai.
+
+If the rituals are damaged, the police must have seen the damage to them without being damaged if they are damaged.. As well as the Shiva Temple. So the Hindus will not damage their temple.
+
+Minister of Justice Wijeyadasa Rajapakse, who intervened, said that when you brought this issue to Parliament, we settled within two hours.
+
+So why are you talking about again.
+
+Charles Nirmalanathan, who got up again, said that such a police anarchy should not happen again.
 
 ...
 
 [Data](articles/6a80742b.json)
 
+[Extended Data](ext_articles/6a80742b.ext.json)
+
 ---
 
-### திருகோணமலையில் விபத்து : ஒருவர் ஸ்தலத்தில் பலி
+### Accident in Trincomalee: One killed
 
 *2024-03-22 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/179389) · `ta`
 
-திருகோணமலை மாவட்ட ஈச்சிலம்பற்று பொலிஸ் பிரிவிலுள்ள பூநகர் பகுதியில் இடம்பெற்ற மோட்டார் சைக்கிள் விபத்தில் ஒருவர் ஸ்தலத்தில் உயிரிழந்துள்ளார்.
+In Trincomalee, a motorcycle accident in Poonagar killed one and injured another, who was taken to Muttur Base Hospital. The deceased, Jagadeeswaran Madhusan, 22, from Batticaloa, was kept at Eichilampattu Divisional Hospital.
 
-மோட்டார் சைக்கிளில் பயணித்த மற்றைய நபர் படுகாயமடைந்து மூதூர் தள வைத்தியசாலைக்கு மேலதிக சிகிச்சைகளுக்காக அனுப்பி வைக்கப்பட்டுள்ளார். உயிரிழந்தவரின் சடலம் ஈச்சிலம்பற்று பிரதேச வைத்தியசாலையில் வைக்கப்பட்டுள்ளதாக ஈச்சிலம்பற்று பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இதில் மட்டக்களப்பைச் சேர்ந்த இவர்கள் திருகோணமலைக்கு வந்து மீண்டும் மட்டக்களப்பு நோக்கி இருவரும் மோட்டார் சைக்கிளில் பயணித்துள்ளார்கள்.இதன்போது மோட்டார் சைக்கிள் வேகக்கட்டுப்பாட்டை இழந்து வீதியோரத்திலிருந்த மின்கம்பத்துடன் மோதியதிலேயே விபத்து இடம் பெற்றுள்ளதாக தெரியவருகின்றது.
+One person was killed in a motorcycle accident in Poonagar area of the Trincomalee District Eichilampattu police division.
 
-இவ்விபத்து சம்பவத்தில் மட்டக்களப்பு ,செங்கலடி, கணபதிப்பிள்ளை நகரைச் சேர்ந்த ஜெகதீஸ்வரன் மதுசாந் வயது (22) என்ற நபரே உயிரிழந்துள்ளதாக ஈச்சிலம்பற்று பொலிஸார் தெரிவித்தனர்.
+The other person who was traveling on a motorcycle was injured and sent to Muttur Base Hospital for further treatment. The body of the deceased has been kept at the Eichilampattu Divisional Hospital, Eichilampattu police said.
+
+The two men from Batticaloa came to Trincomalee and were traveling to Batticaloa on a motorbike.
+
+Jagadeeswaran Madhusan, 22, from Ganapathipillai Nagar, Batticaloa, Chengaladi and Ganapathipillai Nagar, died in the incident, Eichilampattu police said.
 
 ◼️
 
 [Data](articles/0f838fa4.json)
+
+[Extended Data](ext_articles/0f838fa4.ext.json)
+
+---
+
+### Thai Air, Maldivian to resume Sri Lanka flights from April
+
+*2024-03-22 10:19:00* · [`economynextcom`](https://economynext.com/thai-air-maldivian-to-resume-sri-lanka-flights-from-april-155719/) · `en`
+
+ECONOMYNEXT – Thai Air will resume daily flights to Colombo from April 01, state-run Airport and Aviation Services, which runs the Indian Ocean island’s airports said.
+
+The Maldivian will start twice weekly flights from April 25.
+
+Maldives which has a strong currency and the least activist monetary authority is also a source of tourists to Sri Lanka.
+
+Sri Lanka was hit by a currency crisis soon after it recovered from Covid hitting tourist arrivals and air connections. (Colombo/Mar22/2024)
+
+◼️
+
+[Data](articles/5e0e9225.json)
+
+---
+
+### Presidents, Prime Ministers in last 70 years lacked job experience and vision: Janaka Rathnayake
+
+*2024-03-22 10:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidents-Prime-Ministers-in-last-70-years-lacked-job-experience-and-vision-Janaka-Rathnayake/108-279368) · `en`
+
+Colombo, March 22 (Daily Mirror) - Over the past 70 years, the Presidents and Prime Ministers who governed this country lacked any significant job experience and also failed to provide a clear vision for the country, Presidential candidate Janaka Ratnayake said.
+
+Addressing the media yesterday, he said a President and a leader should have a vision for the development or betterment of the country on behalf of the people.
+
+"As far as we see, none of the previous Presidents had the ability to manage. With the powers of the country, a President should be the Chief Executive Officer (CEO) of the country. Being such a person, he or she should have a better knowledge of everything, especially economics. The lack of knowledge causes many issues," he said.
+
+...
+
+[Data](articles/7b9938a7.json)
 
 ---
 
@@ -602,6 +738,26 @@ Sri Lanka Test leader Dananjaya de Silva said that the team's players are aware 
 
 ---
 
+### IMF urges Sri Lanka public finance law, debt progress to complete review
+
+*2024-03-22 07:31:00* · [`economynextcom`](https://economynext.com/imf-urges-sri-lanka-public-finance-law-debt-progress-to-complete-review-155668/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund is waiting for the government to complete some reforms including a Public Financial Management Law to complete a review, Senior Mission Chief Peter Breuer said.
+
+“Some reforms are still ongoing.  The public financial management bill is something that we have been engaged with the authorities,” Bruer said.
+
+“So this is, for example, something that we are paying close attention to.”
+
+Most structural benchmarks due before the end of February were either met or implemented with delay, the IMF said.
+
+Sri Lanka has had a frontloaded reform program under an Extended Fund Facility, requiring many laws to be passed, including multiple actions under a corruption diagnostic report.
+
+...
+
+[Data](articles/098d6d6c.json)
+
+---
+
 ### As predicted, rainfall covers most parts of island
 
 *2024-03-22 07:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/As-predicted-rainfall-covers-most-parts-of-island/108-279370) · `en`
@@ -643,6 +799,26 @@ The Police Media Spokesperson stated that the Inspector General of Police (IGP) 
 [Data](articles/2b492bfb.json)
 
 [Extended Data](ext_articles/2b492bfb.ext.json)
+
+---
+
+### IMF urges transparency in Sri Lanka Central Bank’s salary benchmarking
+
+*2024-03-22 07:00:00* · [`economynextcom`](https://economynext.com/imf-urges-transparency-in-sri-lanka-central-banks-salary-benchmarking-155659/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund (IMF) urged Sri Lanka’s Central Bank’s transparency to justify its salary hike following the recent controversy over a steep wage hike without parliamentary approval, while the rest of the public sector is under a salary restraint.
+
+The Central Bank under increased the salaries of its employees between around 70 percent or more a triennial pay revision.
+
+The move angered the public sector employees and legislators as the government had issued fiscal authority directive to tighten the belts.
+
+The move without any parliament approval was seen as a wrong procedure after a new Central Bank Act that had given more autonomy for the Apex bank to handle the monetary policy without any political interventions.
+
+“We don’t have much to say with respect to the salary hike,” Peter Breuer, the IMF Mission Chief to Sri Lanka told reporters at a media briefing after the global lender’s conclusion of the second review of $3 billion, 4-year loan.
+
+...
+
+[Data](articles/09464cfc.json)
 
 ---
 
@@ -1953,171 +2129,5 @@ While there has been speculation among fans and pundits that the Sri Lanka crick
 [Data](articles/f36f392f.json)
 
 [Extended Data](ext_articles/f36f392f.ext.json)
-
----
-
-### Groups, fixtures confirmed for ICC Women’s T20 World Cup Qualifier 2024
-
-*2024-03-21 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Groups-fixtures-confirmed-for-ICC-Womens-T20-World-Cup-Qualifier-2024/108-279336) · `en`
-
-Mar. 21 (ICC) - Groups and fixtures have been revealed for the ICC Women's T20 World Cup Qualifier 2024 that commences in Abu Dhabi next month.
-
-Two venues in Abu Dhabi — Tolerance Oval and Zayed Cricket Stadium — will be used for the ICC Women's T20 World Cup Qualifier 2024 next month, where 10 teams will compete for two spots in the main event, which will be held in Bangladesh later in the year.
-
-The top six teams from the T20 World Cup in 2023 in South Africa - Australia, South Africa, England, India, New Zealand, and the West Indies – earned direct qualification for the 20-over showcase, while Bangladesh qualified as hosts and Pakistan by virtue of their position in the MRF Tyres ICC Women’s T20I Team Rankings.
-
-The Global Qualifier has 10 teams: Ireland, Netherlands, Scotland, Sri Lanka, Thailand, Uganda, UAE, USA, Vanuatu and Zimbabwe.
-
-The tournament runs from April 25 to May 7 with the 10 teams divided into two groups of five.
-
-...
-
-[Data](articles/25ce39bf.json)
-
-[Extended Data](ext_articles/25ce39bf.ext.json)
-
----
-
-### Conspiracy to take place during the struggle is revealed to the Speaker
-
-*2024-03-21 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194790) · `si`
-
-Speaker Mahinda Yapa Abeywardena revealed his involvement in the last struggle's constitutional effects or government establishment. President Pavithra Wanniarachchi and State Minister Dilum Amunugama arrived on the island for mandatory election participation.
-
-🟩
-
-The Speaker who made a special statement in Parliament today (21) after the opposition members of the opposition was defeated in Parliament today (21), the Speaker, revealed a significant statement.
-
-Speaker Mahinda Yapa Abeywardena said he was involved in the effects of the Constitution or establish a government during the last struggle.
-
-Meanwhile, as the President and the Presidential ministers, Pavithra Wanniarachchi and State Minister Dilum Amunugama has arrived in the island today due to the mandatory of the government to participate in the election.
-
-◼️
-
-[Data](articles/83a89638.json)
-
-[Extended Data](ext_articles/83a89638.ext.json)
-
----
-
-### Sri Lanka will make further progress on debt restructuring over next couple of months – Semasinghe
-
-*2024-03-21 18:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98113/sri-lanka-will-make-further-progress-on-debt-restructuring-over-next-couple-of-months-semasinghe) · `en`
-
-State Minister of Finance Shehan Semasinghe states that over the next couple of months Sri Lanka will seek to make further progress on debt restructuring whilst completing some IMF programme prior actions, with a view to obtaining approval of the IMF Executive Board, enabling the release of its next tranche of funds.
-
-Posting on ‘X’ (formerly Twitter) regarding Sri Lankan authorities and the IMF mission team reaching the staff-level agreement on the second review of the EFF (Extended Fund Facility) programme today (21), he claimed that this reflects the strong progress made by Sri Lanka in key reforms encompassing fiscal consolidation, monetary policy, financial sector stability, and governance, among others.
-
-Furthermore, the Finance State Minister mentioned that the signs of a shift from economic stabilisation to growth are emerging as an economic growth of 4.5% was recorded in the fourth quarter of 2023.
-
-...
-
-[Data](articles/0aa21ccb.json)
-
-[Extended Data](ext_articles/0aa21ccb.ext.json)
-
----
-
-### 32 Indian fishermen detained by Sri Lanka Navy for alleged poaching
-
-*2024-03-21 18:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/32-Indian-fishermen-detained-by-Sri-Lanka-Navy-for-alleged-poaching/108-279335) · `en`
-
-March 21 - At least 32 Indian fishermen were detained by the Sri Lankan Navy on Wednesday off the coast of Talaimannar and near the islet of Delft in the northern province for allegedly fishing in the island nation’s waters, an official statement said.
-
-The Navy held two Indian trawlers along with 7 fishermen off Talaimannar, it said, adding that naval personnel also seized three more Indian trawlers and held 25 Indian fishermen off the Delft Island.
-
-The two Indian trawlers along with 7 fishermen were brought to the Talaimannar Pier while three Indian trawlers and 25 Indian fishermen were brought to Kankasanthurai harbour. They will be handed over to the Fisheries Inspectors of Mannar and Mailadi for onward legal proceedings, the statement said.
-
-The Navy has so far held 23 Indian trawlers and 178 Indian fishermen in island waters thus far in 2024, and handed them over to authorities for legal action, it added.
-
-◼️
-
-[Data](articles/905b395b.json)
-
-[Extended Data](ext_articles/905b395b.ext.json)
-
----
-
-### Srilankan delay is delayed due to a technical fault
-
-*2024-03-21 18:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194789) · `si`
-
-A SriLankan flight to South Korea was delayed due to a technical fault, affecting 217 passengers. The airline issued a statement on March 20, fleeing 117 passengers, and facilitated Borewon for the remaining 100 passengers on March 24th. The delay is expected to impact SriLankan Airlines in South Korea.
-
-🟩
-
-A SriLankan SriLankan that was flying to South Korea was unable to leave due to a technical fault.
-
-Due to such a technical fault, travel was delayed by a plane that was to travel to South Korea, taking 217 passengers.
-
-SriLankan is issued a statement saying that the plane has been fleeing 117 passengers on March 20 on March 20 after the departure of the plane.
-
-Accordingly, the 100 passengers who had to leave Korea have facilitated Borewon on March 24th.
-
-The SriLankan Airlines is expected to be affected by the delay due to the delay in South Korea.
-
-◼️
-
-[Data](articles/8e0deae9.json)
-
-[Extended Data](ext_articles/8e0deae9.ext.json)
-
----
-
-### Central Bank accepts COPF recommendations on pay hike: Harsha
-
-*2024-03-21 18:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-accepts-COPF-recommendations-on-pay-hike-Harsha/108-279334) · `en`
-
-Colombo, March 21 (Daily Mirror) - The Central Bank of Sri Lanka (CBSL) has informed COPF today that they accept all  recommendations in the COPF report on the salary revisions, Committee chief Harsha De Silva said today.
-
-The COPF requested President Ranil Wickremesinghe to appoint a committee to review the CBSL salaries, until which the salary increases will be deferred for next month.
-
-◼️
-
-[Data](articles/066c22a6.json)
-
-[Extended Data](ext_articles/066c22a6.ext.json)
-
----
-
-### New leader for Chennai Super Kings team
-
-*2024-03-21 17:47:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சென்னை-சூப்பர்-கிங்ஸ்-அணிக்கு-புதிய-தலைவர்/175-334999) · `ta`
-
-Ruturaj Gaikwad, a key player, is now the captain of Chennai Super Kings, replacing Dhoni. He's expected to play a crucial role in the team's performance.
-
-🟩
-
-Chennai Super Kings and Royal Challengers will clash in the first match.
-
-Ruturaj Gaikwad has been appointed as the new captain of the Chennai Super Kings.
-
-In the last few seasons, Kaikwad was one of the most important in the batting. He is thought to play an important role in the team after Dhoni's departure.R
-
-◼️
-
-[Data](articles/6e5e194a.json)
-
-[Extended Data](ext_articles/6e5e194a.ext.json)
-
----
-
-### Central Bank admits recommendations of salary increments - Harsha de Silva
-
-*2024-03-21 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194788) · `si`
-
-Central Bank of Sri Lanka's Governor acknowledges COPF report recommendations for salary increments, promising a review committee under Mr. Ranil Wickremesinghe.
-
-🟩
-
-The Governor of the Central Bank of Sri Lanka has informed the Committee on Public Finance today (21) that all the recommendations of the COPF report on salary amendments.
-
-He said that Mr. Ranil Wickremesinghe appoints a committee to review the salaries as soon as possible, he said.
-
-◼️
-
-[Data](articles/69c2d6ac.json)
-
-[Extended Data](ext_articles/69c2d6ac.ext.json)
 
 ---

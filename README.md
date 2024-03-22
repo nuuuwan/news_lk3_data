@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 19:03:04**
+As of **2024-03-22 19:17:54**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,329
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,587 (100.0%) of 14,589 articles have been extended.
+14,589 (100.0%) of 14,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
 
-### එක් රැයකදී රුසියාවෙන් යුක්‍රේනයට මිසයිල ප්‍රහාර 90ක්
+### 90 missiles to Ukraine at night
 
 *2024-03-22 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194825) · `si`
 
-විදුලි සැපයුම් පද්ධති ඉලක්ක කරගනිමින් රුසියාව විසින් එල්ල කළ මිසයිල ප්‍රහාර හේතුවෙන් යුක්‍රේනයේ ප්‍රදේශ රැසක විදුලිය විසන්ධිවීම් සිදුව තිබේ.
+Ukraine's electricity loss due to attacks on the Mantu station. Barketiv, Ukraine's 2nd largest city, faced 15 attacks. Germany's Energy Minister criticized Russia's attempts to disrupt Ukraine's power system. Ukraine's President Volodymyr Zelenskyy claimed Russia launched 90 missiles at Ukraine.
 
-එරට දෙවන විශාලතම නගරය වන කාර්කිව් නගරයට පමණක් ප්‍රහාර 15ක් එල්ල වී ඇති අතර නගරය පුරා නිවාස 53,000කට විදුලිය විසන්ධි වී ඇති බව බලධාරීන් සඳහන් කර ඇත.
+🟩
 
-තම රටේ බලශක්ති පද්ධතිය බිඳ දැමීමට රුසියාව උත්සහා දරන බව මේ සම්බන්ධයෙන් අදහස් දක්වමින් යුක්‍රේන බලශක්ති අමාත්‍ය ජර්මන් ගැලුශෙන්කෝ ප්‍රකාශ කර තිබිණි.
+The loss of electricity in Ukraine has taken place due to the loss of mantu station targeting electricity systems.
 
-ගතවූ දින රාත්‍රියේ රුසියාව විසින් යුක්‍රේනයට මිසයිල ප්‍රහාර 90ක් හා ඩ්‍රෝන ප්‍රහාර 60ක් පමණ එල්ල කර ඇති බව යුක්‍රේන ජනාධිපති වොලොදිමීර් සෙලෙන්ස්කි ප්‍රකාශ කර ඇත.
+The city of Barketiv, the second largest city of the country, has only 15 attacks on the city.
+
+The Minister of Energy Minister Germany had expressed his views that Russia is trying to break the power system in his country.
+
+In the last night Russia, the Ukraine President Wallodimir Celenceky has stated that 90 dictatorship has been launched by Ukraine.
 
 ◼️
 
 [Data](articles/8c986702.json)
+
+[Extended Data](ext_articles/8c986702.ext.json)
 
 ---
 
@@ -873,6 +879,8 @@ Kedella Construction Expo, the premier build and architecture tradeshow 2024, wa
 ◼️
 
 [Data](articles/25ceba9c.json)
+
+[Extended Data](ext_articles/25ceba9c.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 18:33:19**
+As of **2024-03-22 18:50:59**
 
 ## Newspaper Stats
 
-*Scraped **14,586** Articles*
+*Scraped **14,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,256
 adaderanalk | 1,746
 tamilmirrorlk | 1,755
 virakesarilk | 2,060
-dailymirrorlk | 2,238
+dailymirrorlk | 2,239
 adaderanasinhalalk | 2,328
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,585 (100.0%) of 14,586 articles have been extended.
+14,586 (100.0%) of 14,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### Maithripala claims to be aware of real culprits behind Easter attacks
+
+*2024-03-22 18:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maithripala-claims-to-be-aware-of-real-culprits-behind-Easter-attacks/108-279410) · `en`
+
+Colombo, March 22 (Daily Mirror) - Former President Maithripala Sirisena today disclosed that he is well aware of the true perpetrators behind the Easter Sunday bombings in 2019.
+
+"The suspects who are currently in remand custody in connection with the attacks are minor offenders. The real culprits are still at large. However, I am ready to shed light on the perpetrators of the Easter Sunday attacks and make a special statement if I am summoned to court," he stated.
+
+"I have been keeping this information under wraps, and therefore, it is imperative for the judges also to keep a lid on it,” he added.
+
+◼️
+
+[Data](articles/56077b03.json)
+
+---
 
 ### AG will not represent ex-Health Minister Keheliya, court told
 
@@ -47,6 +63,8 @@ Later, the Supreme Court also ordered that further consideration of the petition
 ◼️
 
 [Data](articles/4e60d928.json)
+
+[Extended Data](ext_articles/4e60d928.ext.json)
 
 ---
 
@@ -2295,25 +2313,5 @@ The film crew is excited as 'Captain Miller' has achieved a new record that no I
 [Data](articles/dab86530.json)
 
 [Extended Data](ext_articles/dab86530.ext.json)
-
----
-
-### Bangladesh to the coin
-
-*2024-03-22 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194804) · `si`
-
-Bangladesh won the coin toss in the first Test match against Sri Lanka, deciding to bat first.
-
-🟩
-
-The first Test match between the Tourism Sri Lanka and Bangladesh will be held today.
-
-The Bangladesh team won the advantage of the coin and they decided to give the Sri Lankan team first to bat first.
-
-◼️
-
-[Data](articles/e9a72d9e.json)
-
-[Extended Data](ext_articles/e9a72d9e.ext.json)
 
 ---

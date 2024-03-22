@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-22 22:33:13**
+As of **2024-03-22 22:50:12**
 
 ## Newspaper Stats
 
-*Scraped **14,611** Articles*
+*Scraped **14,612** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 1,749
 tamilmirrorlk | 1,757
 virakesarilk | 2,062
 dailymirrorlk | 2,250
-adaderanasinhalalk | 2,333
+adaderanasinhalalk | 2,334
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,610 (100.0%) of 14,611 articles have been extended.
+14,611 (100.0%) of 14,612 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-22 (Friday)
+
+### නොසැලකිල්ලෙන් පුංචි පුතුට දිවි අහිමි වෙයි
+
+*2024-03-22 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194830) · `si`
+
+වටවල පොලිස් වසමේ බින්වල ඉහළ කොටසේ වතුයායේ වගා ළිඳකින් බිළිදෙකුගේ මළසිරුරක් හමුවී තිබේ.
+
+නිවසේ ක්‍රීඩාකරමින් සිට ඇති බිළිඳා අතුරුදන්වීමත් සමග දෙමව්පියන් කළ සොයාබැලීමකදී නිවස පිටුපස වගා ළිඳකින් දරුවාගේ සිරුර හමුව තිබුණි.
+
+බිළිඳාගේ මව රැකියාවක් සඳහා විදෙස්ගත වී සිටින බවත් මිය ගිය දරුවා පවුලේ එකම දරුවා බවත් සඳහන් වේ.
+
+◼️
+
+[Data](articles/6c79675f.json)
+
+---
 
 ### Latest survey revealed in India's assets
 
@@ -68,17 +84,25 @@ The billionaires such as Mukesh Ambani and Gautam Pihani are also accused of pri
 
 ---
 
-### உடலுறவுகொள்ளும் வயதை 14 ஆக குறைக்கும் திருத்த வர்த்தமானியை இடைநிறுத்துங்கள் - பாராளுமன்ற பெண் உறுப்பினர் ஒன்றியம்
+### Put the Edit Gazette that reduces the age of intercourse to 14 - Member of Parliament
 
 *2024-03-22 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179445) · `ta`
 
-1995 ஆம் ஆண்டு தண்டனைச் சட்டக் கோவைக்கு மேற்கொள்ளப்பட்ட திருத்தத்துக்கு அமைய, 16 வயதுக்குட்பட்ட பெண் தனது சொந்த விருப்பத்தின் பேரில் உடலுறவு கொண்டாலும், அது கற்பழிப்பாகக் கருதப்படும். எனினும், நீதி அமைச்சரால் தண்டனைச் சட்டக் கோவைக்கு முன்மொழியப்பட்டுள்ள திருத்தம் மூலம் அந்த வயதெல்லை 14 வயதாக குறைக்க  உத்தேசிக்கப்பட்டுள்ளது. ஆகவே, இந்த திருத்தத்தை உடன் நிறுத்துமாறு பாராளுமன்றத்தின் பெண் உறுப்பினர்களின் ஒன்றியம் நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜயதாச ராஜபக்ஷவிடம் கடிதம் மூலம் கோரிக்கை விடுத்துள்ளது.
+The Union of Parliament opposes reducing the age of consent to 14, citing concerns for girls' safety and justice. The Minister of Justice proposed the amendment, but Sudarshini Fernandopulle, President of the Union, urged reconsideration.
 
-1995 ஆம் ஆண்டு தண்டனைச் சட்டக் கோவைக்கு மேற்கொள்ளப்பட்ட திருத்தத்துக்கு அமைய, 16 வயதுக்குட்பட்ட பெண் தனது சொந்த விருப்பத்தின் பேரில் உடலுறவு கொண்டாலும், அது கற்பழிப்பாகக் கருதப்படும். எனினும், நீதி அமைச்சரால் தண்டனைச் சட்டக் கோவைக்கு முன்மொழியப்பட்டுள்ள திருத்தம் மூலம் அந்த வயது எல்லையை 14 வயது வரை குறைக்கப்படவுள்ளது.
+🟩
+
+In accordance with the amendment to the 1995 Penal Code, a 16 -year -old woman has intercourse at her own will, but it is considered a rape.. However, the Minister of Justice has proposed to reduce the age of 14 through the amendment proposed to the Penal Code.. Therefore, the Union of Parliament has requested the Minister of Justice, Justice, Prison Affairs and Constitutional Reorganization Minister Vijayadasa Rajapaksa to stop this amendment.
+
+In accordance with the amendment to the 1995 Penal Code, a 16 -year -old woman has intercourse at her own will, but it is considered a rape.. However, the amendment proposed by the Minister of Justice to the Penal Code will be reduced to the age of 14.
+
+As the President of the Union of Parliament, Sudarshini Fernandopulle, the President of the Union, said that he would express his intense concern for the proposed amendment to Article 364 of the Penal Code, and give a letter of details on the proposal amendment for Article 364.
 
 ...
 
 [Data](articles/27a65f79.json)
+
+[Extended Data](ext_articles/27a65f79.ext.json)
 
 ---
 
@@ -2281,25 +2305,5 @@ The police have recovered the cell and are being investigated by the Kokkulai po
 [Data](articles/13e7a241.json)
 
 [Extended Data](ext_articles/13e7a241.ext.json)
-
----
-
-### President
-
-*2024-03-22 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179397) · `ta`
-
-Minister Douglas Devananda welcomed the President to Jaffna via Palali Airport. The President plans to return 278 acres of military-controlled land and inaugurate a new emergency unit at Point Pedro Base Hospital.
-
-🟩
-
-Minister Douglas Devananda, including Minister Douglas Devananda, welcomed the President who was visiting Jaffna through Palali Airport.
-
-The President, who has arrived in Jaffna, will return about 278 acres of land, which has been under military -controlled for the past 33 years, and will open the newly constructed emergency unit at the Point Pedro Base Hospital.
-
-◼️
-
-[Data](articles/ef8b28eb.json)
-
-[Extended Data](ext_articles/ef8b28eb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 22:18:01**
+As of **2024-03-23 22:34:19**
 
 ## Newspaper Stats
 
-*Scraped **14,766** Articles*
+*Scraped **14,767** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 794
 islandlk | 805
 adalk | 1,262
 tamilmirrorlk | 1,773
-adaderanalk | 1,779
+adaderanalk | 1,780
 virakesarilk | 2,074
 dailymirrorlk | 2,274
 adaderanasinhalalk | 2,364
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,364
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,764 (100.0%) of 14,766 articles have been extended.
+14,766 (100.0%) of 14,767 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,24 @@ A U.S. intelligence official told The Associated Press that U.S. agencies had co
 
 [Data](articles/0dd927d8.json)
 
+[Extended Data](ext_articles/0dd927d8.ext.json)
+
+---
+
+### Moscow massacre: Putin says gunmen tried to escape to Ukraine, death toll above 130
+
+*2024-03-23 22:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98161/moscow-massacre-putin-says-gunmen-tried-to-escape-to-ukraine-death-toll-above-130) · `en`
+
+Russian authorities arrested the four men suspected of carrying out the attack on a suburban Moscow concert hall that killed at least 133 people and believe they were headed to Ukraine, President Vladimir Putin said Saturday during an address to the nation.
+
+Kyiv, meanwhile, strongly denied any involvement in Friday’s attack on the Crocus City Hall music venue in Krasnogorsk, which the Islamic State group’s affiliate in Afghanistan claimed responsibility for in a statement posted in social media channels linked to the group. Kyiv accused Putin and other Russian politicians of falsely linking Ukraine to the assault in order to stoke fervor in Russia’s war in Ukraine, which recently entered its third year.
+
+A U.S. intelligence official told The Associated Press that U.S. agencies had confirmed that IS was responsible for the assault and had previously warned Moscow that an attack could be imminent.
+
+...
+
+[Data](articles/a82ef7e9.json)
+
 ---
 
 ### At least 1,000 Sri Lankan workers to reach Israel in March
@@ -61,6 +79,8 @@ The ministry said the Sri Lankan workers provide an immediate response to the ne
 ◼️
 
 [Data](articles/09148553.json)
+
+[Extended Data](ext_articles/09148553.ext.json)
 
 ---
 
@@ -2317,27 +2337,5 @@ Verified video showed people taking their seats in the hall then rushing for the
 [Data](articles/0bc602b1.json)
 
 [Extended Data](ext_articles/0bc602b1.ext.json)
-
----
-
-### Islamic State claims responsibility for Moscow concert venue attack that killed at least 60
-
-*2024-03-23 06:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98139/islamic-state-claims-responsibility-for-moscow-concert-venue-attack-that-killed-at-least-60) · `en`
-
-Camouflage-clad gunmen opened fire at concertgoers with automatic weapons on Friday, killing at least 60 people and injuring 145 more in an attack claimed by Islamic State militants.
-
-In the deadliest attack in Russia since the 2004 Beslan school siege, gunmen sprayed civilians with bullets just before Soviet-era rock group “Picnic” was to perform to a full house at the 6,200-seat the Crocus City Hall just west of Moscow.
-
-Verified video showed people taking their seats in the hall, then rushing for the exits as repeated gunfire echoed above screams. Other video showed men shooting at groups of people. Some victims lay motionless in pools of blood.
-
-“Suddenly there were bangs behind us - shots. A burst of firing - I do not know what,” one witness, who asked not to be identified by name, told Reuters.
-
-“A stampede began. Everyone ran to the escalator,” the witness said. “Everyone was screaming; everyone was running.”
-
-...
-
-[Data](articles/4cbb922e.json)
-
-[Extended Data](ext_articles/4cbb922e.ext.json)
 
 ---

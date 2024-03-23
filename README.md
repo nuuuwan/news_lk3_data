@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 19:33:31**
+As of **2024-03-23 19:50:09**
 
 ## Newspaper Stats
 
-*Scraped **14,752** Articles*
+*Scraped **14,753** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 794
 islandlk | 805
 adalk | 1,262
 tamilmirrorlk | 1,772
-adaderanalk | 1,774
+adaderanalk | 1,775
 virakesarilk | 2,074
 dailymirrorlk | 2,271
 adaderanasinhalalk | 2,359
@@ -26,21 +26,47 @@ adaderanasinhalalk | 2,359
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,751 (100.0%) of 14,752 articles have been extended.
+14,752 (100.0%) of 14,753 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### மைத்திரியிடம் விசாரிக்க உத்தரவு
+### PM Dinesh to visit China next week, will seek to deepen political mutual trust
+
+*2024-03-23 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98157/pm-dinesh-to-visit-china-next-week-will-seek-to-deepen-political-mutual-trust) · `en`
+
+Sri Lanka’s Prime Minister Dinesh Gunawardena will pay an official visit to China from 25 - 30 March at the invitation of Chinese Premier, Li Qiang.
+
+This was announced by Chinese Foreign Ministry Spokesperson Lin Jian, during a regular press conference on Friday (March 22).
+
+During the visit, PM Gunawardena is scheduled to meet with Chinese President Xi Jinping, Premier Li Qiang and the Chairman of Standing Committee of the National People’s Congress, Zhao Leji.
+
+The two sides will exchange in in-depth views on carrying forward traditional friendship, deepening political mutual trust, expanding practical cooperation, and international and regional issues of common interest, Lin told reporters in Beijing.
+
+Emphasizing that China attaches great importance to its relations with Sri Lanka, he said China stands ready to work with Sri Lanka implement the important common understandings reached by leaders of the two countries.
+
+...
+
+[Data](articles/ef3ca20c.json)
+
+---
+
+### Order to inquire into Maithriya
 
 *2024-03-23 19:06:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியிடம்-விசாரிக்க-உத்தரவு/175-335054) · `ta`
 
-ஈஸ்டர் ஞாயிறு குண்டுத் தாக்குதல்கள் தொடர்பில் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன அண்மையில் வெளியிட்ட கருத்து தொடர்பில் உடனடியாக விசாரணை நடத்துமாறு பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனிடம் பொது பாதுகாப்பு அமைச்சர் திரான் அலஸ் உத்தரவிட்டுள்ளார்.
+Sirisena ordered to probe recent Easter Sunday bombing comments.
+
+🟩
+
+Former President Maithripala Sirisena has been ordered to investigate the recent comments on the Easter Sunday bombing.
 
 ◼️
 
 [Data](articles/fac0903a.json)
+
+[Extended Data](ext_articles/fac0903a.ext.json)
 
 ---
 
@@ -2311,31 +2337,5 @@ The videos shown in the hall are being founded by three armed dresses, which sho
 [Data](articles/662b51f7.json)
 
 [Extended Data](ext_articles/662b51f7.ext.json)
-
----
-
-### Princess of Wales says she is undergoing cancer treatment
-
-*2024-03-23 00:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Princess-of-Wales-says-she-is-undergoing-cancer-treatment/107-279456) · `en`
-
-(BBC) - The Princess of Wales says she is in the early stages of treatment after cancer was found in tests.
-
-In a video statement, Catherine says it was a "huge shock" after an "incredibly tough couple of months".
-
-But she sent a positive message, saying: "I am well and getting stronger every day."
-
-Details of the cancer have not been disclosed, but Kensington Palace says it is confident the princess will make a full recovery.
-
-The princess's statement explains that when she had abdominal surgery in January, it was not known that there was any cancer.
-
-"However tests after the operation found cancer had been present. My medical team therefore advised that I should undergo a course of preventative chemotherapy and I am now in the early stages of that treatment," said the princess.
-
-The chemotherapy treatment began in late February. The palace says it will not be sharing any further private medical information, including the type of cancer.
-
-...
-
-[Data](articles/1c5ae461.json)
-
-[Extended Data](ext_articles/1c5ae461.ext.json)
 
 ---

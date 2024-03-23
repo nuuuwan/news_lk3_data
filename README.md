@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 12:04:30**
+As of **2024-03-23 12:17:58**
 
 ## Newspaper Stats
 
-*Scraped **14,690** Articles*
+*Scraped **14,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,61 @@ adaderanalk | 1,762
 tamilmirrorlk | 1,767
 virakesarilk | 2,069
 dailymirrorlk | 2,264
-adaderanasinhalalk | 2,344
+adaderanasinhalalk | 2,345
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,688 (100.0%) of 14,690 articles have been extended.
+14,690 (100.0%) of 14,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### காலநிலை மாற்றத்தால் அதிகம் பாதிக்கப்பட்டுள்ள பத்து நாடுகளில் இலங்கை
+### Sri Lanka in ten countries that have been affected by climate change
 
-*2024-03-23 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179479) · `ta`
+*2024-03-23 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/179479) · `ta`
 
-காலநிலை மாற்றத்தால் அதிகமாக பாதிக்கப்பட்ட 10 நாடுகளில் இலங்கையும் ஒன்று என தெரியவந்துள்ளது.
+Sri Lanka, among 10 countries impacted by climate change, aims to mitigate its effects through international cooperation, focusing on green hydrogen and renewable energy. By 2050, climate change could lead to a 1% GDP loss and significant agricultural losses.
 
-இதனை  காநிலை தொடர்பான பாராளுமன்ற குழுவின் தலைவர்  எரான் விக்கிரமரத்ன மற்றும் காலநிலை மாற்றங்கள் தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் ருவன் விஜேவர்தன தெரிவித்துள்ளனர்.
+🟩
 
-காலநிலை மாற்றத்தின் தாக்கத்தை குறைப்பதற்கு காநிலை தொடர்பான பாராளுமன்ற குழு  ஏனைய நாடுகளுடன் இணைந்து செயற்படும் என பாராளுமன்ற உறுப்பினர் விக்ரமரத்ன வலியுறுத்தினார்.
+Sri Lanka is one of the 10 countries affected by climate change.
 
-"நாங்கள் ஐக்கிய நாடுகள் அபிவிருத்தித் திட்டம், ஐக்கிய நாடுகள் கைத்தொழில் அபிவிருத்தி அமைப்பு உடன் இணைந்து பணியாற்ற உத்தேசித்துள்ளோம், மேலும் பசுமை  ஹைட்ரஜனுக்கான அரசாங்கத்தின்  வரைபடத்திற்கு ஏற்ப செயல்படுவோம்," என தெரிவித்துள்ளார்.
+The President of the Parliamentary Committee on the Center, Eran Wickramaratne and the President's Senior Advisor to Climate Changes, Ruwan Wijewardena said.
 
-2050 ஆம் ஆண்டளவில் காலநிலை மாற்றம் இலங்கையின் மொத்த உள்நாட்டு உற்பத்தியில் ஒரு சதவீத இழப்பை ஏற்படுத்தும் என்றும் ருவான் விஜேவர்தன குறிப்பிட்டுள்ளார்.
+Parliamentarian Wickramaratne stressed that the parliamentary committee on relaxation will work with other countries to reduce the impact of climate change.
 
-காலநிலை மாற்றத்தினால் இலங்கையின் விவசாயத்துறை பில்லியன் கணக்கான டொலர்களை இழக்க நேரிடும் என  தெரிவித்துள்ளார்.
+"We intend to work with the United Nations Development Program and the United Nations Industry Development Organization and will work in accordance with the government's map of the Green Hydrogen," he said.
+
+Ruwan Wijewardena has stated that by 2050 climate change will result in one percent loss of Sri Lanka's GDP.
+
+Climate change will lose billions of dollars in Sri Lanka's agriculture sector.
 
 ...
 
 [Data](articles/22a516d7.json)
+
+[Extended Data](ext_articles/22a516d7.ext.json)
+
+---
+
+### රිය අනතුරකදී රක්ෂණ වන්දි ගන්න ක්‍රමය අලුත් කරයි
+
+*2024-03-23 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194841) · `si`
+
+රිය අනතුරකදී තුන්වන පාර්ශ්වයේ වින්දිතයන්ට අධිකරණ ක්‍රියාමාර්ගයකින් තොරව කඩිනමින් වන්දි ලබාදීමේ වැඩපිළිවෙළ මාර්තු 01 වනදා සිට ආරම්භ කළ බව ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පවසයි.
+
+ඒ අනුව අනතුර සිදුවී වසරක් තුළ අදාළ රක්ෂණ ආයතනයට අයදුම් කිරීමෙන් උපරිමය රුපියල් ලක්ෂ 05ක් දක්වා වන වන්දි මුදල එම රක්ෂණ ආයතනයේ දිවයින පුරා පිහිටි ඕනෑම ශාඛාවකින් ලබාගැනීමේ හැකියාව ලැබෙන බවද රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+
+ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ඊයේ (22) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+මේ අතර මෙරට රියදුරු බලපත්‍රය අවශ්‍ය විදේශිකයන්ට අප්‍රේල් 15 වනදා සිට ගුවන් තොටුපළේදීම ඒ සඳහා අයදුම් කර, ගුවන් තොටුපොළෙන් පිටතට පැමිණෙන විට රියදුරු බලපත්‍රය ලබාගැනීමට අවශ්‍ය කටයුතු සූදානම් කර තිබෙන බවද ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පැවසීය.
+
+◼️
+
+[Data](articles/d858a1f5.json)
 
 ---
 
@@ -73,6 +97,8 @@ The parents also claimed that the monthly fee of the school had also been increa
 ◼️
 
 [Data](articles/02d94e4a.json)
+
+[Extended Data](ext_articles/02d94e4a.ext.json)
 
 ---
 
@@ -2191,29 +2217,5 @@ Khaled Ahmed and Nahid Rana took three wickets apiece for Bangladesh, who opted 
 [Data](articles/4278bf72.json)
 
 [Extended Data](ext_articles/4278bf72.ext.json)
-
----
-
-### Sections of Criminal Act to reduce the age of girls for sexual activity - Sajith
-
-*2024-03-22 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179443) · `ta`
-
-Opposition Leader Sajith Premadasa calls for the withdrawal of sections 363 and 364 of the criminal law, aiming to lower the age of female children for sexual activity to 14 and relax the age for male offenders to 14. He highlights the amendment of Article 363 and 364 of the Penal Code, issued on February 13, 2024, which proposes reducing the age of girls for sexual activity from 16 to 14 and reducing penalties for male offenders aged 22.
-
-🟩
-
-Opposition Leader Sajith Premadasa has urged the government to withdraw sections 363 and 364 of the criminal law proposed to reduce the age of female children to 14 years and to relax the age of 22, if the age of the male offenders should be relaxed for 14 years.
-
-I would like to bring to the notice of the ruling party's prime minister Prasanna Ranatunga, the Amendment of Chapter 19 of Chapter 19 of Article 19 of Article 363 and 364 of the Penal Code issued on February 13, 2024.
-
-Through this Bill, reduction in the age of girls for sexual activity from 16 to 14, reducing the penalty for male offenders between the ages of 22, as well as Section 363 of the Penal Code, instead of putting together a male and female rape.The most important issues.
-
-So I urge the government to withdraw sections 363 and 364 of the Criminal Act.
-
-...
-
-[Data](articles/5dd62ca6.json)
-
-[Extended Data](ext_articles/5dd62ca6.ext.json)
 
 ---

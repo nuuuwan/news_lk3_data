@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 05:37:31**
+As of **2024-03-23 05:56:05**
 
 ## Newspaper Stats
 
-*Scraped **14,639** Articles*
+*Scraped **14,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 190
 newsfirstlk | 363
 economynextcom | 782
 dailyftlk | 791
-islandlk | 797
+islandlk | 805
 adalk | 1,257
 adaderanalk | 1,752
 tamilmirrorlk | 1,759
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,639 (100.0%) of 14,639 articles have been extended.
+14,639 (99.9%) of 14,647 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -758,6 +758,32 @@ With respect to Sri Lanka’s performance in its top 15 major export markets, th
 
 ---
 
+### Pearson unveils PTE Core English exam suite and recognizes its key agents
+
+*2024-03-22 20:14:00* · [`islandlk`](http://island.lk/pearson-unveils-pte-core-english-exam-suite-and-recognizes-its-key-agents/) · `en`
+
+In the wake of Sri Lanka’s economic crisis, hundreds of thousands of mostly young people are looking to migrate for employment, and seeking better opportunities abroad. By the end of 2022, over 300,000 people had left the country, many of them professionals. These individuals are looking for greener pastures and a way to support their families. Meanwhile, a key obstacle facing potential migrants is English language proficiency assessment, which is a key requirement for migration to popular destinations such as Canada, the UK, Australia, New Zealand and many other countries. Against this backdrop, Pearon’s PTE suit of English exams is helping to facilitate these young people as they seek to achieve their dreams on foreign shores. In fact, during 2023, over 3200 applications were made by Sri Lankans seeking Permant Residency status in Canada, with 84% receiving approval, highlighting the promising prospects for aspiring Sri Lankans.
+
+...
+
+[Data](articles/01745365.json)
+
+---
+
+### Microsoft joins hands with Sri Lanka in its journey to becoming unstoppable with AI
+
+*2024-03-22 20:14:00* · [`islandlk`](http://island.lk/microsoft-joins-hands-with-sri-lanka-in-its-journey-to-becoming-unstoppable-with-ai/) · `en`
+
+Puneet Chandok, Microsoft’s President of India and South Asia, made his inaugural visit to Sri Lanka; met with Sri Lankan President and Prime Minister to discuss the company’s commitment to partner Sri Lanka on its digital transformation journey.
+
+In a bid to strengthen commitment and partnership towards the South Asia region, Puneet Chandok, the President of Microsoft India and South Asia, made his inaugural visit to Sri Lanka in March 2024, since taking office in September 2023. Building on the two-decade journey of empowering the people of Sri Lanka through Cloud and AI technologies, Puneet engaged in discussions with President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena during his two-day visit. The discussions explored the transformative potential of AI in uplifting societies and communities, while discussing how innovative technological solutions can propel Sri Lanka towards becoming a digital nation.
+
+...
+
+[Data](articles/190f9f03.json)
+
+---
+
 ### Leaving a life of heating
 
 *2024-03-22 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194827) · `si`
@@ -793,6 +819,50 @@ However, the rainy condition of the rainy condition can develop a warm state, th
 [Data](articles/8996b71b.json)
 
 [Extended Data](ext_articles/8996b71b.ext.json)
+
+---
+
+### Pan Asia Bank powers ‘Dear Father’
+
+*2024-03-22 20:06:00* · [`islandlk`](http://island.lk/pan-asia-bank-powers-dear-father/) · `en`
+
+As the world celebrated International Women’s Day on 8th March 2024, Pan Asia Bank was pleased to support a national level initiative called ‘Dear Father’, initiated by the Department of Samurdhi Development, Rotary Club of Colombo Uptown and Women’s International Foundation (WIF), promoting meaningful engagement, financial literacy in advancing social empowerment of men, and gender equality and women’s empowerment. The program promoted and facilitated the active participation of fathers while highlighting their crucial role in championing women’s holistic empowerment and accelerating their progress.
+
+...
+
+[Data](articles/3ec56f9b.json)
+
+---
+
+### Hayleys Solar powers historic 90th ‘Battle of the Saints’ and 50th Limited Over Encounter
+
+*2024-03-22 20:06:00* · [`islandlk`](http://island.lk/hayleys-solar-powers-historic-90th-battle-of-the-saints-and-50th-limited-over-encounter/) · `en`
+
+Hayleys Solar, a leading provider of solar energy solutions in Sri Lanka, is proud to announce its role as the Platinum Sponsor of the historic 90th ‘Battle of the Saints’ and the 50th Joe-Pete Limited Over Encounter. This prestigious event between St. Joseph’s College and St. Peter’s College, Colombo marks a significant milestone in Sri Lanka’s schools’ cricketing history.
+
+The two-day cricket encounter, known for its exhilarating and competitive spirit, will be held at the prestigious Singhalese Sports Club (SSC) grounds on March 22nd and 23rd, 2024 for the ‘Battle of the Saints’, and April 6th, 2024 for the limited-over encounter.
+
+“Hayleys Solar is committed to supporting the development of sports in Sri Lanka, particularly at the school level. This event is a testament to the rich cricketing tradition of Sri Lanka, and we are proud to play a role in its continued success”, said Roshane Perera, Executive Director and CEO of Hayleys Solar.
+
+...
+
+[Data](articles/6472f613.json)
+
+---
+
+### SriLankan Airlines statement on Flight UL 470
+
+*2024-03-22 20:06:00* · [`islandlk`](http://island.lk/srilankan-airlines-statement-on-flight-ul-470/) · `en`
+
+SriLankan Airlines has made every effort to satisfy the travel requirements of all 217 of its valued passengers who were checked in to travel to Incheon, South Korea on 19 March 2024 on UL 470, when the flight was delayed by approximately 13 hours from the scheduled time of departure due to a technical reason.
+
+Of the passengers, 117 resumed their journey on the same flight once the aircraft was cleared for departure and took off to Incheon, South Korea at 07:23hrs on the next day, 20 March 2024.
+
+The remaining 100 passengers, who were heading to South Korea for work, have been rebooked to travel on Sunday, 24 March 2024. The decision to rebook these passengers was made in consultation with the Human Resources Development Service of Korea (HRD Korea) and the Sri Lanka Bureau of Foreign Employment and the delay is not expected to affect their employment in South Korea.
+
+...
+
+[Data](articles/a612e7ea.json)
 
 ---
 
@@ -2101,123 +2171,5 @@ He also said that there should be a fair situation in the country after the elec
 [Data](articles/1f1e8bbe.json)
 
 [Extended Data](ext_articles/1f1e8bbe.ext.json)
-
----
-
-### General elections must be held first to maintain fairness: MR
-
-*2024-03-22 13:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/General-elections-must-be-held-first-to-maintain-fairness-MR/108-279396) · `en`
-
-Colombo, March 12 (Daily Mirror) - Leader of the Sri Lanka Podujana Peramuna (SLPP), Mahinda Rajapaksa, said that a general election should be held first and then the presidential election to maintain a fair process in the country.
-
-Addressing the media, Rajapaksa said that Basil Rajapaksa had conveyed this proposal to President Ranil Wickremesinghe on behalf of the SLPP when Basil met the President recently.
-
-Mahinda Rajapaksa also maintained that if this proposal is not followed, whichever party wins the presidential election will have a massive victory in the parliamentary election, which is not good for the country.
-
-He also said that there should be a fair situation in the country after the elections.
-
-◼️
-
-[Data](articles/91cd0993.json)
-
-[Extended Data](ext_articles/91cd0993.ext.json)
-
----
-
-### The selling car come and plundered
-
-*2024-03-22 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194813) · `si`
-
-A 32-year-old car repairman was arrested in Wadduwa after a 4-day investigation involving over 20 CCTV cameras. He was accused of stealing a Rs. 33 lakhs car from a Horana software engineer, who had advertised it for sale online. The suspect was found with the car's owner and fled, but was later arrested after the owner reported the incident to the Horana police.
-
-🟩
-
-A suspect who had taken a car belonging to Horana software engineer has been arrested in Wadduwa in Wadduwa 4 days later.
-
-The suspect and the robber car could be found following the investigation of over 20 cCTV cameras.
-
-The software engineer had expressed an ad on the Internet to sell a car worth Rs. 33 lakhs.
-
-Accordingly, the two sides have agreed to check the vehicle on the 17th and the man has marched and arrived in Horana.
-
-The man was later raided the car with a software enginewilamaya with the architecture engineer of the vehicle.
-
-At once, the suspect has been launched to stop the brake pressurizing an error in the cargo engine near the cemetery.
-
-The suspect had gone to the driver's seat and fled the suspect with the vehicle owner in the vehicle and then fled the vehicle.
-
-The complaint was later taken to the Horana police that the owner of the vehicle had been investigated in the Horana police over 20 CCTV cameras from Kankunwila to Wadduwa.
-
-...
-
-[Data](articles/a19a562d.json)
-
-[Extended Data](ext_articles/a19a562d.ext.json)
-
----
-
-### Events of Heroes in the North - East
-
-*2024-03-22 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179420) · `ta`
-
-The Attorney General plans to submit a full report on the heroes in the North-East, following a writ petition by Ananda Jayamanam. The Court of Appeal ordered the State Prosecutor to provide a trial report.
-
-🟩
-
-The Attorney General has announced to the Court of Appeal that he is expecting to submit a full investigation report on the events of the heroes in the Northern and Eastern Provinces in memory of the dead LTTE members.
-
-Senior Government Attorney Shaminda Wickrama, who appeared on behalf of him, said that the writ petition filed by former Army Intelligence Officer Ananda Jayamanam demanding the implementation of the Act against the Heroes Day was taken up yesterday (21).
-
-Subsequently, a panel of judges of the Court of Appeal ordered the State Prosecutor to submit the appropriate trial report to the court.
-
-◼️
-
-[Data](articles/d5306aa7.json)
-
-[Extended Data](ext_articles/d5306aa7.ext.json)
-
----
-
-### New organizer for Jaffna does not choose - President Ranil
-
-*2024-03-22 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/179416) · `ta`
-
-President Ranil Wickremesinghe confirmed that the United National Party (UNP) has not yet officially elected a new organizer for Jaffna. The UNP is undergoing nationwide restructuring, but no official decisions have been made regarding this process. President Ranil also mentioned that Anganan Ramanathan would visit Jaffna, and any opposition to the official appointments would be considered.
-
-🟩
-
-President Ranil Wickremesinghe has said that the United National Party (UNP) has not yet officially elected a new organizer for the Jaffna district.. The President was responding to a question raised by members of the UNP executive committee.
-
-The United National Party's restructuring activities are being carried out nationwide. However, he said that no official decisions have been made regarding these restructuring.
-
-Meanwhile, the President said that even Anganan Ramanathan would be on his visit to Jaffna and that if there were opposition before the official appointments were made, they would be considered.
-
-◼️
-
-[Data](articles/1c8ab4fe.json)
-
-[Extended Data](ext_articles/1c8ab4fe.ext.json)
-
----
-
-### 5 lakhs per $ 5
-
-*2024-03-22 12:58:07* · [`adalk`](https://www.ada.lk/breaking_news/T-56-කට-රුපියල්-ලක්ෂ-5ක්/11-408756) · `si`
-
-The Sri Lanka Police, starting from 19.03.2013, has been actively combating drug traffickers in the Western Province and Galle District, offering cash rewards for information on firearms and organized crime. A special telephone number, 46, has been established for reporting.
-
-🟩
-
-A special operation has been operated by the police from 19.03.2013, among the operations to arrest poisonous drug traffickers.. This is a special in the Western Province and Galle District. The IGP has decided to provide valuable cash prizes for the information provided by firearms and organized criminals.
-
-46 Special Telephone No. 46 has been appointed to provide information to the commands. In addition, the police have the ability to provide information to another type of information.
-
-The Sri Lanka Police have informed private spies as mentioned above.
-
-◼️
-
-[Data](articles/debbf01e.json)
-
-[Extended Data](ext_articles/debbf01e.ext.json)
 
 ---

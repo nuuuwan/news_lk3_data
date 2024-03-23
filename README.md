@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 08:03:00**
+As of **2024-03-23 08:17:47**
 
 ## Newspaper Stats
 
-*Scraped **14,659** Articles*
+*Scraped **14,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,59 @@ adaderanalk | 1,756
 tamilmirrorlk | 1,762
 virakesarilk | 2,064
 dailymirrorlk | 2,257
-adaderanasinhalalk | 2,337
+adaderanasinhalalk | 2,338
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,658 (100.0%) of 14,659 articles have been extended.
+14,659 (100.0%) of 14,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### பல இடங்களில் மழை பெய்யும்
+### Rainfall in many places
 
 *2024-03-23 07:56:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-இடங்களில்-மழை-பெய்யும்/175-335043) · `ta`
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+Expect periodic rainfall or thunderstorms in Eastern, Uva, and Hambantota. North Central and Northern Provinces may see rainfall several times. Afternoon or night rainfall or thunderstorms possible in other areas. Heavy rainfall in Western, Sabaragamuwa, Central, and North Western provinces. Morning snow in Central, Sabaragamuwa, Uva, Galle, and Matara. Thundershowers may occur. Take precautions for lightning impacts.
 
-வடமத்திய மற்றும் வடக்கு மாகாணங்களில் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+🟩
 
-நாட்டின் ஏனைய பிரதேசங்களில் பல இடங்களில் பிற்பகலில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+There is a possibility of periodic rainfall or thunderstorms in the Eastern and Uva provinces and Hambantota district.
 
-மேல், சப்ரகமுவ, மத்திய மற்றும் வடமேல் மாகாணங்களில் சில இடங்களில் 75 மி.மீ க்கும் அதிகமான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+Rainfall is expected in the North Central and Northern Provinces several times.
 
-மத்திய, சப்ரகமுவ மற்றும் ஊவா மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+In other parts of the country, there is a possibility of rainfall or thunderstorms in the afternoon or at night.
 
-இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+Heavy rainfall is expected in some parts of the Western, Sabaragamuwa, Central and North Western provinces.
+
+In the morning, the Central, Sabaragamuwa and Uva provinces and Galle and Matara districts are expected to be snowy in the morning.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
 
 ◼️
 
 [Data](articles/f53d1d79.json)
+
+[Extended Data](ext_articles/f53d1d79.ext.json)
+
+---
+
+### මාර්ග නීති උල්ලංඝණය කරන රියදුරන් ගැන ගත් අලුත්ම තීරණය
+
+*2024-03-23 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194834) · `si`
+
+එළැඹෙන අප්‍රේල් 10 වනදා සිට මාර්ග නීති උල්ලංඝණය කරන රියදුරන් පිළිබඳ තොරතුරු දත්ත පද්ධතියකට ඇතුළු කරන බව ලසන්ත අලගියවන්න රාජ්‍ය අමාත්‍යවරයා පවසයි.
+
+ඔහු පවසන්නේ දඩ මුදල් ගෙවීම් සිදු කරන තැපැල් කාර්යාල හරහා වරදේ ස්වභාවය, අදාළ පොලිස් ස්ථානය, රියදුරු බලපත්‍රයේ විස්තර සහ දුරකතන අංකය යන තොරතුරු මෙම දත්ත පද්ධතියට ඇතුළු කරන බවය.
+
+මේ අතර මෙරට රියදුරු බලපත්‍රය අවශ්‍ය විදේශිකයන්ට අප්‍රේල් 15 වනදා සිට ගුවන්තොටුපොළේදීම ඒ සඳහා අයදුම්කර රියදුරු බලපත්‍රය ලබාගැනීමට අවශ්‍ය කටයුතු සූදානම් කර ඇති බව රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/47e9236d.json)
 
 ---
 
@@ -2191,29 +2213,5 @@ During this discussion, representatives of the International Monetary Fund were 
 [Data](articles/f001a1fc.json)
 
 [Extended Data](ext_articles/f001a1fc.ext.json)
-
----
-
-### President decides about land in the North under the security forces
-
-*2024-03-22 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194816) · `si`
-
-President Ranil Wickremesinghe released 234 acres of land under Security Forces in the North, part of a "Heritage" National Program to distribute two million land deeds.
-
-🟩
-
-234 acres of land under the Security Forces headquarters have been released.
-
-The land had been released while President Ranil Wickremesinghe visited the North.
-
-The Presidential Media Unit said the land belonging to five Grama Niladhari Divisions in Jaffna has been released.
-
-President Ranil Wickremesinghe was presented in the Ottagapulam area under the patronage of the "Heritage" National Program to provide two million land deeds to the people.
-
-◼️
-
-[Data](articles/2836879d.json)
-
-[Extended Data](ext_articles/2836879d.ext.json)
 
 ---

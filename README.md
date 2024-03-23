@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 08:17:47**
+As of **2024-03-23 08:33:35**
 
 ## Newspaper Stats
 
-*Scraped **14,660** Articles*
+*Scraped **14,663** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 economynextcom | 782
 dailyftlk | 791
 islandlk | 805
-adalk | 1,257
+adalk | 1,258
 adaderanalk | 1,756
-tamilmirrorlk | 1,762
+tamilmirrorlk | 1,764
 virakesarilk | 2,064
 dailymirrorlk | 2,257
 adaderanasinhalalk | 2,338
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,338
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,659 (100.0%) of 14,660 articles have been extended.
+14,660 (100.0%) of 14,663 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### தாய் மரணம்; ஆபத்தான நிலையில் இரு பிள்ளைகள்
+
+*2024-03-23 08:02:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்-மரணம்-ஆபத்தான-நிலையில்-இரு-பிள்ளைகள்/175-335044) · `ta`
+
+புத்தளம் - கொட்டுக்கச்சிய , கல்லகுளம் பகுதியில் நேற்று (22) இடம்பெற்ற விபத்தில் பெண்ணொருவர் உயிரிழந்துள்ளதுடன், மேலும் மூவர் பலத்த காயங்களுடன் புத்தளம் தள வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+லொறியொன்றும், மோட்டார் சைக்கிள் ஒன்றும் மோதியதில் இந்த விபத்துச் சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+ஆனமடுவ, வேம்புவெவ பகுதியைச் சேர்ந்த ஆர்.எம்.குசுமலதா மல்காந்தி (வயது 43) எனும் மூன்று பிள்ளைகளின் தாயே இவ்வாறு உயிரிழந்துள்ளார்.
+
+புத்தளம் தள வைத்தியசாலையில் சிகிச்சை பெற்று வரும் தனது தந்தையை பார்ப்பதற்காக குறித்த தாய் தனது மூன்று பிள்ளைகளுடன் வருகை தந்த பின், ஆனமடுவ வேம்புவெவ கிராமத்திற்கு திரும்பிக் கொண்டிருந்த போது ஆனமடுவையில் இருந்து வந்த தனியார் வர்த்தக நிறுவனமொன்றுக்கு சொந்தமான லொறியுடன் மோதி விபத்துக்குள்ளானதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+இந்த விபத்தில் மூன்று பிள்ளைகளின் தாய் ஸ்தலத்திலேயே உயிரிழந்ததாகவும், மோட்டார் சைக்கிளில் தாயுடன் பயணித்த இரண்டு பிள்ளைகள் பலத்த காயங்களுக்கு உள்ளாகியாதாகவும் தெரிவிக்கப்படுகிறது.
+
+...
+
+[Data](articles/a5c5f481.json)
+
+---
 
 ### Rainfall in many places
 
@@ -60,19 +80,25 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The publ
 
 ---
 
-### මාර්ග නීති උල්ලංඝණය කරන රියදුරන් ගැන ගත් අලුත්ම තීරණය
+### The new decision taken about drivers violating road laws
 
 *2024-03-23 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194834) · `si`
 
-එළැඹෙන අප්‍රේල් 10 වනදා සිට මාර්ග නීති උල්ලංඝණය කරන රියදුරන් පිළිබඳ තොරතුරු දත්ත පද්ධතියකට ඇතුළු කරන බව ලසන්ත අලගියවන්න රාජ්‍ය අමාත්‍යවරයා පවසයි.
+From April 10, drivers violating road laws will have their license, phone number, and guilt data recorded. Foreigners needing a Sri Lankan driver's license must obtain it at the airport from April 15.
 
-ඔහු පවසන්නේ දඩ මුදල් ගෙවීම් සිදු කරන තැපැල් කාර්යාල හරහා වරදේ ස්වභාවය, අදාළ පොලිස් ස්ථානය, රියදුරු බලපත්‍රයේ විස්තර සහ දුරකතන අංකය යන තොරතුරු මෙම දත්ත පද්ධතියට ඇතුළු කරන බවය.
+🟩
 
-මේ අතර මෙරට රියදුරු බලපත්‍රය අවශ්‍ය විදේශිකයන්ට අප්‍රේල් 15 වනදා සිට ගුවන්තොටුපොළේදීම ඒ සඳහා අයදුම්කර රියදුරු බලපත්‍රය ලබාගැනීමට අවශ්‍ය කටයුතු සූදානම් කර ඇති බව රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් පැවසීය.
+The State Minister of Lasantha Alagiyawanna stated that from April 10, the State Minister of Lasantha Alagiyawanna said.
+
+He says that the data is inserted into the nature of the guilt, the driver's license and telephone number of the driver's license and telephone number.
+
+Meanwhile, the public is required to obtain the driver's license at the airport from April 15 to the foreigners who need the Sri Lankan driver's license at the airport on April 15.
 
 ◼️
 
 [Data](articles/47e9236d.json)
+
+[Extended Data](ext_articles/47e9236d.ext.json)
 
 ---
 
@@ -287,6 +313,26 @@ Colombo, March 23 (Daily Mirror) - A General Election will be held if the member
 [Data](articles/5f4dbc38.json)
 
 [Extended Data](ext_articles/5f4dbc38.ext.json)
+
+---
+
+### நெல் கொள்வனவிற்காக நிதி ஒதுக்கீடு
+
+*2024-03-23 04:33:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்-கொள்வனவிற்காக-நிதி-ஒதுக்கீடு/175-335041) · `ta`
+
+பெரும்போக நெல் கொள்வனவிற்காக 1000 மில்லியன் ரூபா நிதி கிடைத்துள்ளதாக நெல் சந்தைப்படுத்தல் அதிகார சபை தெரிவித்தது.
+
+திறைசேரியிலிருந்து 500 மில்லியன் ரூபாவும் விவசாயிகள் நம்பிக்கை நிதியத்திலிருந்து 500 மில்லியன் ரூபாவும் கிடைக்கப்பபெற்றுள்ளதாக அதிகார சபை குறிப்பிட்டுள்ளது.
+
+பெரும்போக நெல் கொள்வனவிற்காக வேளாண்மை மேற்கொள்ளப்படும் ஒவ்வொரு மாவட்டத்திலும் இரண்டு களஞ்சிய சாலைகள் திறக்கப்பட்டுள்ளன
+
+கடந்த ஐந்து நாட்களில் நெல் சந்தைப்படுத்தல் சபையினால் 9 லட்சத்து 4 ஆயிரத்து 202 கிலோ கிராம் நெல் கொள்வனவு செய்யப்பட்டுள்ளது.
+
+இதற்காக, 95 மில்லியன் ரூபா செலவிடப்பட்டுள்ளதாகவும்   7 வலயங்களிலுள்ள 241 நெல் களஞ்சியசாலைகளை நெற்கொள்வனவிற்காக தாயார் நிலையில் வைத்துள்ளதாகவும் நெல் சந்தைப்படுத்தல் அதிகார சபை தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/e4b865ac.json)
 
 ---
 
@@ -1274,6 +1320,24 @@ Its chairman Senior Lecturer Udayakumara Amarasinghe said that the informs had b
 
 ---
 
+### වැඩිහිටි ජනගහනයෙන් සියයට 12 කගේ එකම දතක්වත් නැහැ
+
+*2024-03-22 19:23:09* · [`adalk`](https://www.ada.lk/breaking_news/වැඩිහිටි-ජනගහනයෙන්-සියයට-12-කගේ-එකම-දතක්වත්-නැහැ/11-408762) · `si`
+
+ලංකාවේ වැඩිහිටි ජනගහනයෙන් 12% කට  එකම දතක්වත් නැති බවත්, එය විශාල ගැටලුවක් බවට පත්ව තිබෙන බවත්, දත් ආරක්ෂා කර ගැනීම, මුඛ සෞඛ්‍ය ආරක්ෂා කර ගැනීම පිළිබදව දැනුවත්කිරීම පෙර පාසලේ සිටම ආරම්භ විය යුතු බව සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය  රමේෂ් පතිරණ මහතා අවධාරණය කරයි.
+
+අමාත්‍යවරයා මේ බව අවධාරණය කරන ලද්දේ “සතුටු මුවයි-සුවැති සිරුරයි” යන්න තේමා කර ගනිමින්  ලෝක මුඛ සෞඛ්‍ය දිනය වෙනුවෙන් අද දින (22) ගාල්ල සමනල ක්‍රීඩාංගනයේදී පැවති විශේෂ උත්සවයකට සහභාගි වෙමිණි.
+
+ලෝක මුඛ සෞඛ්‍ය දිනයට සමගාමීව සෞඛ්‍ය අමාත්‍යාංශය, ශ්‍රී ලංකා දන්ත වෛද්‍ය සංගමය, යුනිලීවර් සමාගම එක්ව සංවිධානය කරන ලද මෙම විශේෂ දන්ත කදවුර මගින් ගාල්ල දිස්ත්‍රික්කයේ පාසල් දරුවන් 2000 අධික පිරිසකගේ මුඛ සෞඛ්‍ය පරීක්ෂාව හා මුඛ සෞඛ්‍ය පිළිබද පෙර පාසල් ගුරුවරුන් දැනුවත්  කිරීමට සැලසුම් කර තිබිණ .
+
+ලංකාවේ ප්‍රමුඛතම රෝගය බවට දන්ත රෝගය පත්ව තිබෙන බව වෛද්‍යවරුන් හෙලි කල බවත්,  දරුවන් හා මැදිවියේ වයස් ගත වන ජනගහනය අතරෙත් දන්ත රෝග නිසා විශාල පීඩාවකට ලක් වන බවත් ප්‍රකාශ කර සිටියේය..
+
+...
+
+[Data](articles/70c08ede.json)
+
+---
+
 ### Magnitude 6.5 quake strikes off Indonesia’s Java island, geophysics agency says
 
 *2024-03-22 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98134/magnitude-65-quake-strikes-off-indonesias-java-island-geophysics-agency-says) · `en`
@@ -2143,75 +2207,5 @@ In recent years, Mr Miller said Canada has seen a “sharp increase” of tempor
 [Data](articles/ca3e0aaa.json)
 
 [Extended Data](ext_articles/ca3e0aaa.ext.json)
-
----
-
-### Gaza cease
-
-*2024-03-22 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179434) · `ta`
-
-The UN, sponsored by the US, proposes a ceasefire in Gaza, with a Security Council referendum today. Despite US efforts, the US veto was not used to pass a resolution urging Israel and Hamas to ceasefire. Efforts are underway to pass a resolution at the UN Security Council for an immediate ceasefire in Gaza. US Secretary of State Antony Blinkan, after visiting the Middle East, is in Israel to discuss a ceasefire with Prime Minister Benjamin Netanyahu.
-
-🟩
-
-The United Nations on the US -sponsored proposal to emphasize the implementation of the ceasefire in Gaza. A referendum will be held today at the Security Council.
-
-The US has already prevented the US to use its veto authority to pass a resolution to urge the ceasefire between Israel and Hamas in Gaza.
-
-At this juncture, efforts are being made to pass a resolution at the UN Security Council, urging an immediate ceasefire in Gaza.
-
-US Secretary of State Antony Blinkan, who has visited the Middle East, has traveled from Egypt to Israel today.
-
-Blinkan will hold talks with Israeli Prime Minister Benjamin Netanyahu on a ceasefire.
-
-◼️
-
-[Data](articles/c65a8dff.json)
-
-[Extended Data](ext_articles/c65a8dff.ext.json)
-
----
-
-### 234 acres of land in Jaffna released to farmers under ‘Urumaya’ program
-
-*2024-03-22 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98127/234-acres-of-land-in-jaffna-released-to-farmers-under-urumaya-program) · `en`
-
-President Ranil Wickremesinghe on Friday (March 22) instructed respective officials to ensure that the national “Urumaya” freehold deeds program be completed by June.
-
-The President emphasized that it is the dream of every citizen to attain legal ownership of land, regardless of their background. He firmly believes that everyone should have this fundamental right.
-
-He made these remarks while attending the ‘Urumaya’ Freehold Deeds program held in the Ottagapulam, in Jaffna.
-
-Accordingly, a total of 408 land deeds were granted to the people of Jaffna as part of the ‘Urumaya’ program, which aims to provide free land rights to 02 million individuals. The president symbolically participated in the awarding of the deeds.
-
-Under the leadership of President  Wickremesinghe, the release of lands previously utilized by the Jaffna Security Force Headquarters was conducted at the Palaly Air Force Base on Friday morning.
-
-...
-
-[Data](articles/53ac9620.json)
-
-[Extended Data](ext_articles/53ac9620.ext.json)
-
----
-
-### In the IMF proposals, a special program should be presented for upstart plantation workers - Velu Kumar
-
-*2024-03-22 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179432) · `ta`
-
-Velu Kumar, a Kandy District Parliamentarian, proposed a special program for upland plantation workers to the IMF, highlighting their increased poverty and the need for a separate welfare program due to their unique challenges.
-
-🟩
-
-In the proposals of the International Monetary Fund, Kandy District Parliamentarian Velu Kumar presented to representatives of the IMF in order to make a special program for upland plantation workers.
-
-Representatives of the International Monetary Fund of Sri Lanka met with the United People's Power Alliance at the Parliamentary Complex. The discussion was chaired by opposition leader Sajith Premadasa. During this time, members of the United People's Power Economic Advisory Committee were present.
-
-During this discussion, representatives of the International Monetary Fund were told about the risk of losing foreign market opportunities due to the increase in cost of living, the tax system, and the massive effects on the small and medium industrial industry.
-
-...
-
-[Data](articles/f001a1fc.json)
-
-[Extended Data](ext_articles/f001a1fc.ext.json)
 
 ---

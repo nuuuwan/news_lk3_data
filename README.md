@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 07:16:17**
+As of **2024-03-23 07:31:22**
 
 ## Newspaper Stats
 
-*Scraped **14,653** Articles*
+*Scraped **14,657** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,33 @@ economynextcom | 782
 dailyftlk | 791
 islandlk | 805
 adalk | 1,257
-adaderanalk | 1,754
-tamilmirrorlk | 1,760
+adaderanalk | 1,756
+tamilmirrorlk | 1,761
 virakesarilk | 2,063
 dailymirrorlk | 2,257
-adaderanasinhalalk | 2,336
+adaderanasinhalalk | 2,337
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,648 (100.0%) of 14,653 articles have been extended.
+14,653 (100.0%) of 14,657 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### බ්‍රිතාන්‍ය රජ කුමරියට පිළිකාවක්
+
+*2024-03-23 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194833) · `si`
+
+විශේෂ වීඩියෝ පණිවුඩයක් නිකුත් කරමින් ඇය විසින් ඒ බව හෙළිකර තිබුණි.
+
+◼️
+
+[Data](articles/16a919a3.json)
+
+---
 
 ### Heavy rainfall of above 100mm anticipated in some areas today
 
@@ -52,25 +64,57 @@ Members of the public are urged to take adequate precautions to minimize damages
 
 [Data](articles/1e8f97d9.json)
 
+[Extended Data](ext_articles/1e8f97d9.ext.json)
+
 ---
 
-### பிரிட்டிஸ் இளவரசி கேட்மிடில்டனிற்கு புற்றுநோய் - வீடியோ அறிக்கையில்   விபரங்களை வெளியிட்டார்
+### Significant rainfall exceeding 100mm expected in some areas today
 
-*2024-03-23 06:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179472) · `ta`
+*2024-03-23 06:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98140/significant-rainfall-exceeding-100mm-expected-in-some-areas-today) · `en`
 
-கடுமையான பல மாதங்களிற்கு பின்னர் இது மிகவும் அதிர்ச்சியை அளித்துள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+The Meteorology Department says showers or thundershowers are possible at times today in the Eastern and Uva provinces.
 
-ஆனால் நான் நன்றாகயிருக்கின்றேன் ஒவ்வொரு நாளும் வலிமை பெற்றுவருகின்றேன் என அவர் தெரிவித்துளளார்.
+Meanwhile, several spells of showers are likely in North-central and Northern provinces.
 
-நோய் பாதிப்பு குறித்த விபரங்கள் முழுமையாக வெளிவராத போதிலும் இளவரசி முழுமையாக குணமடைவார் என கென்சிங்டன் அரண்மணை நம்பிக்கை வெளியிட்டுள்ளது.
+Showers or thundershowers will occur at several places elsewhere in the island in the afternoon or at night.
 
-நான் வயிற்றில் சத்திரசிகிச்சை செய்துகொண்டவேளை நான் புற்றுநோயினால் பாதிக்கப்பட்டிருக்கின்றேனா என்ற விபரம் தெரியவரவில்லை ஆனால் சத்திரசிகிச்சைக்கு பிந்திய மருத்துவபரிசோதனைகளின் போது நான் பாதிக்கப்பட்டிருப்பது உறுதியானது நான் ஹீமோதெரபி சிகிச்சைக்கு என்னை உட்படுத்தவேண்டியுள்ளது சிகிச்சையின் ஆரம்ப கட்டத்தில் உள்ளேன் என கேட் மிடில்டன் தெரிவித்துள்ளார்.
+Heavy showers above 100mm are expected in parts of the Western and Sabaragamuwa provinces and Galle and Matara districts.
 
-பெப்ரவரியில் சிகிச்சை ஆரம்பமாகியுள்ளது – நோய் சிகிச்சை குறித்த ஏனைய விபரங்களை  வெளியிடப்போவதில்லை என கென்சிங்டன்அரண்மணை தெரிவித்துள்ளது.
+Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces and Galle and Matara districts during the morning.
+
+Members of the public are urged to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
 
 ...
 
+[Data](articles/d5f98ea8.json)
+
+---
+
+### Cancer - Video report to Princess Princess Catmorton
+
+*2024-03-23 06:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179472) · `ta`
+
+Princess Catmorton shocked by cancer diagnosis, but recovering well. Kensington Palace confident in her full recovery. Treatment began in February, details not released. Princess encourages hope and strength in those battling similar diseases.
+
+🟩
+
+He noted that this was very shocking after several months.
+
+But I am well and I am gaining strength every day, ”he said.
+
+The Kensington Palace has expressed confidence that the princess will be fully healed even though the details of the disease are not fully revealed.
+
+It is not known whether I was suffering from cancer when I was surgery in the stomach, but I was confident that I was suffering from post -surgery.
+
+Treatment has begun in February - other details about the treatment of the disease will not be released, the Kensington House said.
+
+Princess Gate (42), who has said that I am thinking of all those who are suffering from this kind of disease, do not lose confidence in any form of this type of disease.
+
+◼️
+
 [Data](articles/57fd149e.json)
+
+[Extended Data](ext_articles/57fd149e.ext.json)
 
 ---
 
@@ -92,27 +136,55 @@ Verified video showed people taking their seats in the hall then rushing for the
 
 [Data](articles/0bc602b1.json)
 
+[Extended Data](ext_articles/0bc602b1.ext.json)
+
 ---
 
-### කාලගුණයේ වෙනසක්
+### Islamic State claims responsibility for Moscow concert venue attack that killed at least 60
+
+*2024-03-23 06:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98139/islamic-state-claims-responsibility-for-moscow-concert-venue-attack-that-killed-at-least-60) · `en`
+
+Camouflage-clad gunmen opened fire at concertgoers with automatic weapons on Friday, killing at least 60 people and injuring 145 more in an attack claimed by Islamic State militants.
+
+In the deadliest attack in Russia since the 2004 Beslan school siege, gunmen sprayed civilians with bullets just before Soviet-era rock group “Picnic” was to perform to a full house at the 6,200-seat the Crocus City Hall just west of Moscow.
+
+Verified video showed people taking their seats in the hall, then rushing for the exits as repeated gunfire echoed above screams. Other video showed men shooting at groups of people. Some victims lay motionless in pools of blood.
+
+“Suddenly there were bangs behind us - shots. A burst of firing - I do not know what,” one witness, who asked not to be identified by name, told Reuters.
+
+“A stampede began. Everyone ran to the escalator,” the witness said. “Everyone was screaming; everyone was running.”
+
+...
+
+[Data](articles/4cbb922e.json)
+
+---
+
+### A change in the weather
 
 *2024-03-23 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194832) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Expect showers and thundershowers in the East and Uva provinces, with heavy rains in the Western and Sabaragamuwa Province, Galle, and Matara districts. The Department of Meteorology advises against strong winds and lightning.
 
-එමෙන්ම උතුරු-මැද සහ උතුරු පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකි බව සඳහන් වේ.
+🟩
 
-දිවයිනේ සෙසු ප්‍රදේශවල ද සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+Showers or thundershowers will occur at times in the East and Uva provinces.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථාන වලට මි. මී. 100ට වැඩි තද වැසි ඇතිවිය හැක.
+Several spells of showers can occur in the North-central and northern provinces.
 
-මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්ක වලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+Thundershowers will develop at several places in the evening or night in the rest of the island.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+Some places in the Western and Sabaragamuwa Province and in Galle and Matara districts. Mee. Heavy rains can occur at over 100.
+
+Some locations are expected in the middle of the Central, Sabaragamuwa and Uva provinces and in some places in the Galle and Matara districts.
+
+The Department of Meteorology has informed the people to take necessary steps to reduce temporary strong winds and lightning accidents in thundershowers.
 
 ◼️
 
 [Data](articles/c9d3f8ed.json)
+
+[Extended Data](ext_articles/c9d3f8ed.ext.json)
 
 ---
 
@@ -129,6 +201,22 @@ Colombo, March 23 (Daily Mirror) - A General Election will be held if the member
 ...
 
 [Data](articles/5f4dbc38.json)
+
+[Extended Data](ext_articles/5f4dbc38.ext.json)
+
+---
+
+### களு கங்கையில் மூழ்கி இருவர் பலி
+
+*2024-03-23 04:06:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களு-கங்கையில்-மூழ்கி-இருவர்-பலி/175-335040) · `ta`
+
+இரத்தினபுரி - கிரியெல்ல, எல்லகாவ பிரதேசத்தில் களு கங்கையில் நீராடச் சென்ற இருவர் நீரில் மூழ்கி உயிரிழந்துள்ளனர்.
+
+எல்லகாவ பிரதேசத்தைச் சேர்ந்த 17 வயதுடைய யுவதியும், ஹொரொவப்பொத்தான பிரதேசத்தைச் சேர்ந்த 23 வயதுடைய இராணுவச் சிப்பாயுமே இவ்வாறு உயிரிழந்துள்ளனர் என்று தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/7d610ad2.json)
 
 ---
 
@@ -2111,81 +2199,5 @@ The department also said that the temperature has risen abnormally at this time.
 [Data](articles/5b1f2a74.json)
 
 [Extended Data](ext_articles/5b1f2a74.ext.json)
-
----
-
-### Kedella Construction Expo launched...
-
-*2024-03-22 14:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Kedella-Construction-Expo-launched/110-279400) · `en`
-
-Kedella Construction Expo, the premier build and architecture tradeshow 2024, was launched at the Bandaranaike Memorial International Conference Hall (BMICH) while making a dream home a reality. During the exhibition, people can buy tiles, solar systems, construction equipment, electrical products and furniture at great discounts. The exhibition will be held till Sunday 24, between 10 a.m. and 9 p.m. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/25ceba9c.json)
-
-[Extended Data](ext_articles/25ceba9c.ext.json)
-
----
-
-### Premier build, architecture tradeshow launched
-
-*2024-03-22 14:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Premier-build-architecture-tradeshow-launched/110-279400) · `en`
-
-Kedella Construction Expo, the premier build and architecture tradeshow 2024, was launched at the Bandaranaike Memorial International Conference Hall (BMICH) while making a dream home a reality. During the exhibition, people can buy tiles, solar systems, construction equipment, electrical products and furniture at great discounts. The exhibition will be held till Sunday 24, between 10 a.m. and 9 p.m. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/8da8591e.json)
-
-[Extended Data](ext_articles/8da8591e.ext.json)
-
----
-
-### Rabies spread in heat: Hinting at potential animal culling plan?
-
-*2024-03-22 14:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rabies-spread-in-heat-Hinting-at-potential-animal-culling-plan/108-279393) · `en`
-
-Colombo, March 22 (Daily Mirror) - While condemning the statement made by the Veterinary Medical Officers’ Association over the imminent danger of rabies spreading due to the intense heat, advisor to the board of the Association of Veterinarians for Humane Management of Animal Population, Dr. Chamith Nanayakkara, said that it might be a pre-plan to kill those animals.
-
-He said that he never found dead dogs because of the high heat.
-
-"For example, the temperature in Mannar is extremely high, and we never found dead animals due to the high heat.
-
-"As claimed by the Veterinary Medical Officers’ Association, the number of cases due to rabies should increase in areas where higher temperatures are recorded. During the past ten years, plenty of rabies-infected cases were reported from areas recording high temperatures.
-
-"The first case study was conducted in the Philippines and according to their report, it had been requested to provide rabies vaccines to dogs before the start of the summer season.
-
-...
-
-[Data](articles/0658fd52.json)
-
-[Extended Data](ext_articles/0658fd52.ext.json)
-
----
-
-### Tomorrow Tomorrow Tomorrow Tomorrow Tomorrow
-
-*2024-03-22 14:11:57* · [`adalk`](https://www.ada.lk/breaking_news/කුඩයක්-අරන්-යන්න-හෙට-තද-වැසි/11-408757) · `si`
-
-Tomorrow, heavy rain and thundershowers are expected across many parts of Sri Lanka, including the Hambantota district, Western, Sabaragamuwa, Central, and North Western Provinces, with heavy rains exceeding 75mm.
-
-🟩
-
-The demeanon of the weather has been informed that the rain will be given to many parts of the island tomorrow (2024 .03.03.3).
-
-Showers or thundershowers will occur at several places in the Hambantota district and in the Hambantota district.
-
-Thundershowers will develop at several places in the evening or night during the evening or night.
-
-Some places in the Western, Sabaragamuwa, Central and North Western Provinces. Mee. Heavy rains can occur at more than 75.
-
-Some locations in some places in the Central, Sabaragamuwa and Uva provinces and in the Galle and Matara districts are expected to be met.
-
-◼️
-
-[Data](articles/05e67b38.json)
-
-[Extended Data](ext_articles/05e67b38.ext.json)
 
 ---

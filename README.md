@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 16:03:05**
+As of **2024-03-23 16:18:02**
 
 ## Newspaper Stats
 
-*Scraped **14,728** Articles*
+*Scraped **14,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ adalk | 1,261
 adaderanalk | 1,769
 tamilmirrorlk | 1,770
 virakesarilk | 2,072
-dailymirrorlk | 2,267
-adaderanasinhalalk | 2,349
+dailymirrorlk | 2,268
+adaderanasinhalalk | 2,352
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,726 (100.0%) of 14,728 articles have been extended.
+14,728 (100.0%) of 14,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### දැරියන්ගේ ලිංගික සබඳතා ගැන යෝජනාව ඉල්ලා අස්කර ගනී
+
+*2024-03-23 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194849) · `si`
+
+වයස අවුරුදු 14ත් 16ත් අතර ගැහැණු දරුවෙකු සිය කැමැත්ත සහිතව වයස අවුරුදු 22ට අඩු පුද්ගලයෙකු සමග ලිංගික සබඳතාවක් පැවැත්වුහොත් ඊට ලබාදෙන දඬුවම ලිහිල් කිරීම සඳහා රජය ගෙනඒමට නියමිතව තිබූ පනත් කෙටුම්පත ඉල්ලා අස්කර ගන්නා බව අධිකරණ අමාත්‍ය විජේදාස රාජපක්ෂ මහතා අද (23) ප්‍රකාශ කළේය.
+
+ඒ, කොළඹ පැවැති උත්සවයකින් පසු මාධ්‍යවේදීන් නැගු ප්‍රශ්නවලට පිළිතුරු දෙමිනි.
+
+"බොහෝ දෙනෙක් මගෙන් ඉල්ලුවා පනත් කෙටුම්පත සම්මත කිරීම අත්හිටුවන්නැයි කියලා. තවදුරටත් සාකච්ඡා කළ යුතු බව දැනුම් දුන්නා. කෙටුම්පත ශ්‍රේෂ්ඨාධිකරණය හමුවේ අභියෝගයට ලක්කරද්දී මම නීතිපතිට දැනුම් දුන්නා... මෙම කෙටුම්පත අප ඉදිරියට ගෙන නොයන බව. ඒ වෙනුවට සාකච්ඡාවක් දෙනවා අදාළ පාර්ශ්වයන්ට. සාකච්ඡාවෙන් පසුව තීන්දුවක් ගන්නවා. එය පාර්ලිමේන්තුවේදී ඉල්ලා අස්කර ගන්නවා."
+
+◼️
+
+[Data](articles/31d13aaa.json)
+
+---
+
+### අකුරට නොයා පාරට එන කතරගම දරුවෝ
+
+*2024-03-23 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194848) · `si`
+
+පාසල් යායුතු වයස්වල පසුවන දරුවන් කතරගම පුදබිම ආශ්‍රිතව සිඟමන් යදින බව වාර්තා වෙයි.
+
+තනිව හෝ මව්පියන් සමග මෙම දරුවන් සිඟමන් යැදීම සිදුකරන්නේ කතරගම දේවාලය, සෙල්ල කතරගම සහ කිරිවෙහෙර යන පූජා භූමි මුල්කර ගනිමිනි.
+
+ඉන් ඇතැම් දරුවන් පාසල් යන අතර සෙසු බහුතරය පාසල් නොයන දරුවන් බව සඳහන් වෙයි.
+
+කනගාටුවට කරුණවන්නේ, මුදල් උපයාගැනීම අරමුණු කරගනිමින් මව්පියන්ගේ කැමැත්ත ඇතිව මෙම දරුවන් සිඟමනේ යෙදවීමය.
+
+කතරගම පොලීසිය විසින් අවස්ථා ගණනාවකදී මෙම දරුවන් පොලිස් භාරයට ගෙන තිස්සමහාරාම මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළද ඔවුන් මුදාගෙන යළි එම රැකියාවේම යෙදවීමට මව්පියන් කටයුතු කර ඇත.
+
+එම ප්‍රදේශයේ අප වාර්තාකරු පැවසුවේ, මෙම දරුවන් අතරින් පිරිමි ළමුන් පාසල් පොත් මිලදීගන්නා බවට පවසමින් වන්දනාකරුවන් මුලාකර මුදල් ඉල්ලා එම මුදල්වලින් මත්පැන් මිලදීගැනීමටත් කටයුතු කරනු දක්නට ලැබෙන බවය.
+
+එමෙන්ම මේ වනවිට කතරගම පුදබිමේ පූජා වට්ටි වෙළෙඳසැල් තුළ, පෞද්ගලික නවාතැන්පොළවල් තුළ සහ විසිතුරු භාණ්ඩ අලෙවිසැල් තුළ දරුවන් කුලී වැඩට යොදවා ඇති අයුරුද දක්නට ඇත.
+
+මේ සම්බන්ධයෙන් අදාළ බලධාරීන්ගේ අවධානය කඩිනමින් නිසි අයුරින් යොමු විය යුතුය.
+
+◼️
+
+[Data](articles/bd4334e2.json)
+
+---
 
 ### Direct flights from Colombo to Dhaka will begin next month
 
@@ -62,23 +104,53 @@ You can visit the Fitz Lake www.fitsair.com to get more information. In addition
 
 ---
 
-### ராமேஸ்வரம் மீனவர்களை விடுதலை செய்ய கோரி வேலை நிறுத்தம்
+### Non-communicable diseases in Sri Lanka on the rise
+
+*2024-03-23 15:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Non-communicable-diseases-in-Sri-Lanka-on-the-rise/108-279466) · `en`
+
+Colombo, March 23 (Daily Mirror) - Sri Lanka has witnessed a surge in non-communicable diseases, prompting action from the Ministry of Health.
+
+This was revealed by Health Minister Dr. Ramesh Pathirana today (23) at the launching event of the "Suva Udana" mobile health clinic programme in Yakkalamulla, Galle.
+
+The programme, which marks the 14th such initiative this year, seeks to extend healthcare services to rural communities.
+
+Speaking at the event, Minister Pathirana highlighted the increasing prevalence of non-communicable diseases across the country.
+
+The mobile clinic offers a comprehensive range of services, including dental care, laboratory tests, eye clinics and screenings for blood sugar, fat levels, body mass index and blood pressure.
+
+In addition, specialized clinics for kidney disorders, traditional Ayurvedic medicine, and Chinese acupuncture are also available.
+
+...
+
+[Data](articles/85327307.json)
+
+---
+
+### Rameshwaram is a strike demanding the release of fishermen
 
 *2024-03-23 15:28:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமேஸ்வரம்-மீனவர்களை-விடுதலை-செய்ய-கோரி-வேலை-நிறுத்தம்/175-335051) · `ta`
 
-இலங்கைச் சிறையில் உள்ள ராமேஸ்வரம் மீனவர்கள் 37 பேரை உடனடியாக விடுதலை செய்யக் கோரி இன்று(23) முதல் ராமேஸ்வரம் மீனவர்கள் தொடர் வேலை நிறுத்த போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+Rameshwaram fishermen on strike demanding release of 37 arrested fishermen, including 5 navy drivers, for alleged fishing in navy waters. They threaten to boycott Lok Sabha elections if not released. Over 800 boats and 50,000 jobs at risk.
 
-மேலும் மீனவர்களை படகுடன் விடுதலை செய்யாவிட்டால் வரும் மக்களவைத் தேர்தலை புறக்கணிக்க போவதாகவும் மீனவர்கள் தீர்மானம் நிறைவேற்றி உள்ளனர்.
+🟩
 
-ராமேஸ்வரம் மீன் பிடித்து துறைமுகத்தில் இருந்து கடந்த புதன் கிழமை மீன் பிடிக்க சென்று இலங்கை கடற்படையால் எல்லை தாண்டி மீன் பிடித்ததாக ஐந்து படகையும் அதிலிருந்த 32 மீனவர்கள் கைது செய்யப்பட்டு யாழ்ப்பாணம் சிறையில்  அடைக்கப்பட்டுள்ளனர்.
+Rameshwaram fishermen have been on strike since today (23) demanding the immediate release of 37 fishermen in the Sri Lankan jail.
 
-மேலும் கடந்த பிப்ரவரி மாதம் 16ஆம் தேதி மீன்பிடிக்க  சென்று இலங்கை கடற்படையால் கைது செய்யப்பட்டு சிறையில் உள்ள விசைப்படையின் ஓட்டுநர்கள் ஐந்து பேர் உட்பட 37 மீனவர்களை உடனடியாக விடுதலை செய்ய வலியுறுத்தி ராமேஸ்வரம் மீனவர்கள் இன்று(23) முதல் தொடர் வேலை நிறுத்த போராட்டத்தை தொடங்கியுள்ளனர்.
+The fishermen have also passed a resolution that the fishermen will boycott the upcoming Lok Sabha elections if they do not release the boat.
 
-மேலும் வரும் 8ந் தேதி ராமேஸ்வரம் வட்டாட்சியர் அலுவலகத்தில் மீனவர்கள் தங்களது வாக்காளர் அடையாள அட்டை மற்றும் ஆதார் அட்டை உள்ளிட்டவற்றை ஒப்படைத்து போராட்டம் நடத்த உள்ளனர்.
+Five boat and 32 fishermen have been arrested and taken to Jaffna jail for allegedly fishing in the Sri Lankan navy.
+
+Rameshwaram fishermen have launched a series of strikes today (23) demanding the immediate release of 37 fishermen, including five drivers of the Sri Lankan Navy, who was arrested by the Sri Lankan navy on February 16.
+
+The fishermen will also hold a protest at the Rameswaram Vattakshiar office on the 8th, including their voter ID and Aadhaar card.
+
+Rameshwaram fishermen have decided to boycott the election without voting in the coming Lok Sabha elections if the fishermen are not released with the boat within the upcoming Lok Sabha elections.
 
 ...
 
 [Data](articles/0211dedf.json)
+
+[Extended Data](ext_articles/0211dedf.ext.json)
 
 ---
 
@@ -97,6 +169,8 @@ Interfax quoted the FSB security service as saying the four suspected gunmen had
 ...
 
 [Data](articles/bc1c34d2.json)
+
+[Extended Data](ext_articles/bc1c34d2.ext.json)
 
 ---
 
@@ -117,6 +191,34 @@ Interfax quoted the FSB security service as saying the four suspected gunmen had
 [Data](articles/cb572b9c.json)
 
 [Extended Data](ext_articles/cb572b9c.ext.json)
+
+---
+
+### හරක්කටාගේ මස්සිනා සතු දේපළ ගැන විමර්ශන
+
+*2024-03-23 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194847) · `si`
+
+නඳුන් චින්තක හෙවත් හරක් කටාගේ මස්සිනා වන ගයාන් ධනුෂ්ක නම් පුද්ගලයාට අයත් රුපියල් කෝටි එකහමාරක පමණ වටිනාකමකින් යුත් ඉඩමක් නීතිවිරෝධී වත්කම් විමර්ශන ඒකකය මගින් තහනම් කර තිබේ.
+
+එම පුද්ගලයාගේ දේපළ සම්බන්ධයෙන් නීතිවිරෝධී වත්කම් විමර්ශන ඒකකය මගින් විමර්ශන සිදුකරයි.
+
+එහිදී අනාවරණ වී ඇත්තේ, නුගේගොඩ පිහිටි රුපියල් කෝටි එකහමාරක පමණ ඉඩමක් ඔහු සතුව ඇති බවය.
+
+ඒ අනුව සැකකරු අත්අඩංගුවට ගෙන සිදුකළ විමර්ශනයෙන් අනතුරුව අදාළ ඉඩම තහනම් කර තිබේ.
+
+ඒ අතරතුරදී ඔහුට ඇප ලැබීම හේතුවෙන් සැකකරු ජපානයට පළාගොස් තිබෙන අතර සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන ක්‍රියාත්මක බව වාර්තා වෙයි.
+
+මේ අතර වෙලේ සුදාගේ සමීපතමයන් දෙදෙනෙකුට අධිකරණය වසර 7ක බරපතළ වැඩ සහිත සිරදඬුවම් නියම කර තිබේ.
+
+ඒ මත්ද්‍රව්‍ය ජාවාරමෙන් සහ නීතිවිරෝධීව උපයාගත් මුදලින් ලබාගත් සුඛෝපබෝගී වෑන් රථ දෙකක් සම්බන්ධයෙන් සිදුකළ විර්ශනයකින් අනතුරුවය.
+
+පසුව එම සුඛෝපභෝගී වෑන් රථ දෙකක්ද ඊයේ (23) අධිකරණය මගින් රාජසන්තක කර තිබුණි.
+
+මේ අතර පාතාලය මර්දන මෙහෙයුමේදී තවත් සංවිධානාත්මක අපරාධකරුවන් 11ක් පොලීසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+...
+
+[Data](articles/03174319.json)
 
 ---
 
@@ -2135,103 +2237,5 @@ Rwan Wijewardene also said that climate change will account for one percent loss
 [Data](articles/75d8414e.json)
 
 [Extended Data](ext_articles/75d8414e.ext.json)
-
----
-
-### Little son loses the lives of
-
-*2024-03-22 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194830) · `si`
-
-A baby, the only child in a family with an overseas mother, was found dead in a well near the Watawala Police Division.
-
-🟩
-
-A baby was found in a well of the upper part of the Watawala Police Division in the upper part of the Watawala Police Division.
-
-With the disappearance of the baby who was playing in the house, he met with the child from a wellside of the house.
-
-The baby's mother is overseas and the dead child is the only child in the family.
-
-◼️
-
-[Data](articles/6c79675f.json)
-
-[Extended Data](ext_articles/6c79675f.ext.json)
-
----
-
-### Women MPs deeply concerned over decision to reduce age of sexual consent to 14 years
-
-*2024-03-22 22:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98136/women-mps-deeply-concerned-over-decision-to-reduce-age-of-sexual-consent-to-14-years) · `en`
-
-The Women Parliamentarians’ Caucus has sent a letter to the Minister of Justice, Prison Affairs and Constitutional Reform Wijeyadasa Rajapakshe requesting that the Bill gazetted on 09 February 2024 to amend Chapter 19 of the Penal Code be withdrawn immediately.
-
-According to the amendments made to the Penal Code in 1995, even if a girl under 16 years of age has sexual relations of her own free will, it is considered rape. However, the proposed amendment to the Penal Code by the Justice Minister will lower the age of sexual consent to 14 years.
-
-Taking this into account, Dr. Sudarshini Fernandopulle, the Chair of Women Parliamentarians’ Caucus expressed her deep concern about the proposed amendment to section 364 of the Penal Code, while detailing matters to be concerned about the proposed amendments to section 364 in her letter.
-
-...
-
-[Data](articles/6388cbb7.json)
-
-[Extended Data](ext_articles/6388cbb7.ext.json)
-
----
-
-### Latest survey revealed in India's assets
-
-*2024-03-22 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194829) · `si`
-
-A recent survey in India shows that 1% of the population controls 40% of the country's assets, with 22.6% of the population earning 22.6% of the total income. This inequality has worsened since the 1920s and peaked from 2014 to 2023, coinciding with the rise of a billionaire class under Prime Minister Narendra Modi.
-
-🟩
-
-A study has revealed that about 1% of India's population, its richest part acquired 40% of the total asset in India.
-
-The Indian population, about 1,428 million, is not over 9.2 million.
-
-The study reveals that 22.6% of India earns 22.6% of the total income.
-
-Indian media has reported that this education has been carried out by a group of economists.
-
-The group includes Thomas Pickei, an expert on dissimilar distribution of assets.
-
-The study revealed that from the 1920s, from the 1920s, is found in India's income and assets.
-
-This inequality has also reached the introduction of free trade policy at the beginning of the 1990s.
-
-However, study has revealed that the inequality of the asset-handled inequality of India has reached the maximum level of 2014 to 2023.
-
-The Narendra Modi arrives in the power of the Prime Minister with the emergence of a billionaire, or a billionaire class.
-
-The billionaires such as Mukesh Ambani and Gautam Pihani are also accused of priority.
-
-...
-
-[Data](articles/b84a8c22.json)
-
-[Extended Data](ext_articles/b84a8c22.ext.json)
-
----
-
-### Put the Edit Gazette that reduces the age of intercourse to 14 - Member of Parliament
-
-*2024-03-22 21:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179445) · `ta`
-
-The Union of Parliament opposes reducing the age of consent to 14, citing concerns for girls' safety and justice. The Minister of Justice proposed the amendment, but Sudarshini Fernandopulle, President of the Union, urged reconsideration.
-
-🟩
-
-In accordance with the amendment to the 1995 Penal Code, a 16 -year -old woman has intercourse at her own will, but it is considered a rape.. However, the Minister of Justice has proposed to reduce the age of 14 through the amendment proposed to the Penal Code.. Therefore, the Union of Parliament has requested the Minister of Justice, Justice, Prison Affairs and Constitutional Reorganization Minister Vijayadasa Rajapaksa to stop this amendment.
-
-In accordance with the amendment to the 1995 Penal Code, a 16 -year -old woman has intercourse at her own will, but it is considered a rape.. However, the amendment proposed by the Minister of Justice to the Penal Code will be reduced to the age of 14.
-
-As the President of the Union of Parliament, Sudarshini Fernandopulle, the President of the Union, said that he would express his intense concern for the proposed amendment to Article 364 of the Penal Code, and give a letter of details on the proposal amendment for Article 364.
-
-...
-
-[Data](articles/27a65f79.json)
-
-[Extended Data](ext_articles/27a65f79.ext.json)
 
 ---

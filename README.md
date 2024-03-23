@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 17:33:46**
+As of **2024-03-23 17:54:02**
 
 ## Newspaper Stats
 
-*Scraped **14,740** Articles*
+*Scraped **14,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,46 @@ newsfirstlk | 363
 dailyftlk | 792
 economynextcom | 794
 islandlk | 805
-adalk | 1,261
+adalk | 1,262
 adaderanalk | 1,770
 tamilmirrorlk | 1,770
 virakesarilk | 2,074
 dailymirrorlk | 2,270
-adaderanasinhalalk | 2,355
+adaderanasinhalalk | 2,356
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,740 (100.0%) of 14,740 articles have been extended.
+14,740 (100.0%) of 14,742 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### ශ්‍රී ලංකාව ලකුණු 211ක් ඉදිරියෙන්
+
+*2024-03-23 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194854) · `si`
+
+බංග්ලදේශ කණ්ඩායම සමග පැවැත්වෙන පළමු ටෙස්ට් තරගයේ වැඩි ගෞරව දිනාගැනීමට සංචාරක ශ්‍රී ලංකා කණ්ඩායම සමත්වී තිබේ.
+
+දෙවන දිනය නිමා වනවිට සිය දෙවන ඉනිම ක්‍රීඩා කරන ශ්‍රී ලංකා කණ්ඩායම කඩුලු 5ක් දැවී ලබා සිටි ලකුණු සංඛ්‍යාව 119කි.
+
+දෙවැනි දිනය සඳහා අද තරගය ආරම්භ කරන විට සිය පළමු ඉනිම සඳහා බංග්ලාදේශ කණ්ඩායම කඩුලු 3ක් දැවී ලකුණු 32ක් ලබා සිටියේය.
+
+බංග්ලාදේශ ඉනිමට තවත් ලකුණු 21ක් එක්වද්දී දිනයේ පළමු කඩුල්ල ලෙස මොහොමදුල් හසන් ළහිරු කුමාර යැවූ පන්දුවක් හමුවේ දැවී ගියේය.
+
+බංග්ලාදේශ ඉනිමේ ඉතිරි කඩුලු 6 ලකුණු 105ක් තුළ දවා ගැනීමට ශ්‍රී ලංකා වේගපන්දු යවන්නන් සමත්වූයේ බංග්ලදේශ පළමු ඉනිම සුනුවිසුනු කරමිනි.
+
+ඒ අනුව බංග්ලාදේශ පළමු ඉනිම ලකුණු 188කට සීමාවූ අතර පන්දු යැවීමේදී විශ්ව ප්‍රනාන්දු කඩුලු 4ක්, කසුන් රාජිත සහ ලහිරු කුමාර කඩුලු 3 බැගින් දවා ගත්තේය.
+
+අනතුරුව ලකුණු 92ක් ඉදිරියෙන් සිට සිය දෙවන ඉනිම ඇරඹූ ශ්‍රී ලංකා පිල දෙවන දිනය නිමා වනවිට කඩුලු 5ක් දැවී ලකුණු 119ක් රැස්කර ගනිමින් ලකුණු 211ක් ඉදිරියෙන් පසුවෙයි.
+
+◼️
+
+[Data](articles/01ee54e3.json)
+
+---
 
 ### President speaks of health professionals who leave country
 
@@ -455,6 +479,22 @@ The late Sobhitha Thero was an iconic Buddhist monk in the island nation’s goo
 [Data](articles/51981ec5.json)
 
 [Extended Data](ext_articles/51981ec5.ext.json)
+
+---
+
+### දිස්ත්‍රික්ක හතරකට හෙට තද වැසි
+
+*2024-03-23 14:40:20* · [`adalk`](https://www.ada.lk/breaking_news/දිස්ත්‍රික්ක-හතරකට-හෙට-තද-වැසි/11-408766) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වලත් පොලොන්නරුව හා නුවරඑළිය දිස්ත්‍රික්කවත් හෙට දිනයේදී වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තතමේන්තුව පවසයි.
+
+බස්නාහිර, සබරෙමුව, දකුණු සහ වයඹ පළාත්වලත් මහනුවර දිස්ත්‍රික්කයේත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි ඇතිවිමට ඉඩ ඇති බවද එම දෙපාරතමේන්තුව හෙට දිනය වෙනුවෙන් නිකුත් කළ නිවේදනයේ සඳහන් වෙයි.
+
+එසේම රත්නපුර, කළුතර, ගාල්ල සහා මාතර දිස්ත්‍රික්කවල ඇතැම් ස්ථානවලට මිලි මිටර්  75ට වැඩි තරමක තද වැසි
+
+◼️
+
+[Data](articles/d2679025.json)
 
 ---
 
@@ -2273,37 +2313,5 @@ The exhibition, the 5th stop in Galle, stems from an initiative sparked during l
 [Data](articles/a2732d47.json)
 
 [Extended Data](ext_articles/a2732d47.ext.json)
-
----
-
-### British Council launches Women in STEM Scholarships for 2024/25
-
-*2024-03-22 23:34:09* · [`dailyftlk`](https://www.ft.lk/news/British-Council-launches-Women-in-STEM-Scholarships-for-2024-25/56-759837) · `en`
-
-British Council, the UK’s international organisation for educational opportunities and cultural relations, in partnership with UK universities, has announced the launch of British Council Scholarships for Women in STEM program. This prestigious scholarship is designed for female STEM graduates wanting to pursue their Masters’ in the UK.
-
-The presence of women in STEM fields is essential for promoting diversity, ensuring a range of perspectives, and driving innovation. Their presence not only addresses gender disparities but also enriches the workforce with unique skills, ultimately advancing scientific and technological progress for the benefit of society. According to the Global Gender Gap Report 2023 by the World Economic Forum, the global gender gap score in 2023 for all 146 countries included in this edition stands at 68.4% closed, showing an improvement of 0.3% compared to last year’s edition.
-
-...
-
-[Data](articles/ccc7afe2.json)
-
-[Extended Data](ext_articles/ccc7afe2.ext.json)
-
----
-
-### LEARN and UNESCO Chair of APU sign MoU to empower Sri Lankan educators
-
-*2024-03-22 23:33:56* · [`dailyftlk`](https://www.ft.lk/news/LEARN-and-UNESCO-Chair-of-APU-sign-MoU-to-empower-Sri-Lankan-educators/56-759836) · `en`
-
-Recognising the growing importance of Artificial Intelligence (AI) in the modern digital world, the Lanka Research and Education Network (LEARN) signed an MoU with the UNESCO Chair of Asia Pacific University (APU), Malaysia, to equip Sri Lankan educators with AI skills.
-
-This partnership aims to enhance teaching quality and research efforts by effectively empowering teachers and university lecturers to utilise AI. Through various initiatives, educators will gain proficiency in using AI as a supporting tool to offer enriched learning experiences to students. Thus, this partnership signals a promising step towards positively transforming Sri Lanka’s educational landscape.
-
-...
-
-[Data](articles/fa3da03f.json)
-
-[Extended Data](ext_articles/fa3da03f.ext.json)
 
 ---

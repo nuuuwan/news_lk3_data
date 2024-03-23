@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 23:33:40**
+As of **2024-03-23 23:52:03**
 
 ## Newspaper Stats
 
-*Scraped **14,768** Articles*
+*Scraped **14,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ bbccomsinhala | 161
 dbsjeyarajcom | 190
 newsfirstlk | 363
 dailyftlk | 792
-economynextcom | 794
+economynextcom | 795
 islandlk | 805
 adalk | 1,262
-tamilmirrorlk | 1,773
+tamilmirrorlk | 1,774
 adaderanalk | 1,780
 virakesarilk | 2,074
 dailymirrorlk | 2,275
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,364
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,768 (100.0%) of 14,768 articles have been extended.
+14,768 (100.0%) of 14,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### ரஷ்ய தாக்குதலில் இலங்கையர்களுக்கு பாதிப்பா? இலங்கை கண்டனம்
+
+*2024-03-23 23:29:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்ய-தாக்குதலில்-இலங்கையர்களுக்கு-பாதிப்பா-இலங்கை-கண்டனம்/50-335060) · `ta`
+
+ரஷ்ய தலைநகர் மொஸ்கோவின் புறநகர் பகுதியில் உள்ள அரங்கம் ஒன்றில் நடத்தப்பட்ட பயங்கரவாத தாக்குதலுக்கு இலங்கை கண்டனத்தை வெளியிட்டுள்ளது.
+
+'பொதுமக்களுக்கு எதிரான இத்தகைய வன்முறை வெறுக்கத்தக்கது. குறித்த தாக்குதலில் ஈடுபட்ட அனைவரும் தண்டிக்கப்பட வேண்டும். அமைதி மற்றும் பாதுகாப்பிற்கான பாரிய அச்சுறுத்தலை எதிர்கொள்ள சர்வதேச சமூகத்துடன் ஒத்துழைக்க தயாராக" உள்ளதாகவும் வெளிவிவகார அமைச்சு வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+அதேநேரம் ரஷ்யாவில் இடம்பெற்ற பயங்கரவாத தாக்குதலில் இலங்கையர்கள் எவரும் பாதிப்படையவில்லை என இலங்கை வெளிவிவகார அமைச்சு குறிப்பிட்டுள்ளது.
+
+மொஸ்கோவிலுள்ள இலங்கையின் தூதரகம் இதனை தங்களுக்கு உறுதிபடுத்தியுள்ளதுடன், எதிர்வரும் 48 மணித்தியாலங்களில் பொது ஒன்றுகூடல்களை தவிர்க்குமாறும் அங்குள்ள இலங்கையர்களுக்கு அறிவுறுத்தப்பட்டுள்ளதாகவும் அந்த அமைச்சு தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/2264a970.json)
+
+---
 
 ### Prices of imported goods to be announced on a daily basis
 
@@ -599,6 +617,24 @@ The President said that the right to maintain a teaching hospital for the Facult
 [Data](articles/9ff2e797.json)
 
 [Extended Data](ext_articles/9ff2e797.ext.json)
+
+---
+
+### High emigration rate of Sri Lanka medical professionals: President
+
+*2024-03-23 16:45:00* · [`economynextcom`](https://economynext.com/high-emigration-rate-of-sri-lanka-medical-professionals-president-155825/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has said the significant emigration rate among trained medical professionals of the country was concerning.
+
+“Approximately 30 to 40 out of every 100 doctors or nurses trained in the country opt to leave, a circumstance unfavourable for the nation,” Wickremesinghe was quoted as saying by his media division at a ceremony to open the improved Accident and Emergency Unit at the Point Pedro Base hospital.
+
+A collective effort was needed to enhance healthcare services, he said, adding that he had instructed the Sir John Kotalawala Defence University to augment its recruitment efforts to fulfil the requirements in medical and nursing fields.
+
+The Cabinet this week approved establishing a Faculty of Medicine at the National School of Business Management (NSBM) Green University, which doctors unions have opposed. Lyceum Campus has expressed interest in this endeavour, the president said.
+
+...
+
+[Data](articles/f9efad75.json)
 
 ---
 
@@ -2287,57 +2323,5 @@ The US State Department has said that the militants are planning to take place i
 [Data](articles/3816b733.json)
 
 [Extended Data](ext_articles/3816b733.ext.json)
-
----
-
-### Significant rainfall exceeding 100mm expected in some areas today
-
-*2024-03-23 06:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98140/significant-rainfall-exceeding-100mm-expected-in-some-areas-today) · `en`
-
-The Meteorology Department says showers or thundershowers are possible at times today in the Eastern and Uva provinces.
-
-Meanwhile, several spells of showers are likely in North-central and Northern provinces.
-
-Showers or thundershowers will occur at several places elsewhere in the island in the afternoon or at night.
-
-Heavy showers above 100mm are expected in parts of the Western and Sabaragamuwa provinces and Galle and Matara districts.
-
-Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces and Galle and Matara districts during the morning.
-
-Members of the public are urged to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-...
-
-[Data](articles/d5f98ea8.json)
-
-[Extended Data](ext_articles/d5f98ea8.ext.json)
-
----
-
-### Cancer - Video report to Princess Princess Catmorton
-
-*2024-03-23 06:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179472) · `ta`
-
-Princess Catmorton shocked by cancer diagnosis, but recovering well. Kensington Palace confident in her full recovery. Treatment began in February, details not released. Princess encourages hope and strength in those battling similar diseases.
-
-🟩
-
-He noted that this was very shocking after several months.
-
-But I am well and I am gaining strength every day, ”he said.
-
-The Kensington Palace has expressed confidence that the princess will be fully healed even though the details of the disease are not fully revealed.
-
-It is not known whether I was suffering from cancer when I was surgery in the stomach, but I was confident that I was suffering from post -surgery.
-
-Treatment has begun in February - other details about the treatment of the disease will not be released, the Kensington House said.
-
-Princess Gate (42), who has said that I am thinking of all those who are suffering from this kind of disease, do not lose confidence in any form of this type of disease.
-
-◼️
-
-[Data](articles/57fd149e.json)
-
-[Extended Data](ext_articles/57fd149e.ext.json)
 
 ---

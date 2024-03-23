@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 13:33:31**
+As of **2024-03-23 13:51:56**
 
 ## Newspaper Stats
 
-*Scraped **14,709** Articles*
+*Scraped **14,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,55 +12,99 @@ colombotelegraphcom | 134
 bbccomsinhala | 161
 dbsjeyarajcom | 190
 newsfirstlk | 363
-dailyftlk | 791
+dailyftlk | 792
 economynextcom | 794
 islandlk | 805
 adalk | 1,258
-adaderanalk | 1,763
+adaderanalk | 1,764
 tamilmirrorlk | 1,768
 virakesarilk | 2,071
 dailymirrorlk | 2,265
-adaderanasinhalalk | 2,346
+adaderanasinhalalk | 2,347
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,707 (100.0%) of 14,709 articles have been extended.
+14,709 (100.0%) of 14,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### மின்விசிறி விழுந்ததால் மாணவர்கள் காயம்
+### Venezuelan national arrested at BIA with suspected cocaine capsules
+
+*2024-03-23 13:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/98148/venezuelan-national-arrested-at-bia-with-suspected-cocaine-capsules-) · `en`
+
+The Sri Lanka Customs Narcotics Control Unit has arrested a Venezuelan national along with a stock of capsules of suspected cocaine at the Bandaranaike International Airport (BIA) this morning (23).
+
+Thus far, as many as 12 capsules weighing 132 grams have been retrieved from the arrestee’s abdomen, the Sri Lanka Customs Media Spokesman said.
+
+The 41-year-old, who arrived in Sri Lanka from Brazil via Dubai, will be handed over to the Police Narcotics Bureau for onward legal action, Sri Lanka Customs added.
+
+◼️
+
+[Data](articles/9854a449.json)
+
+---
+
+### කටුනායකදී පුද්ගලයෙක් අත්අඩංගුවට - ඔහු සතුව කොකේන් යැයි සැකයක්
+
+*2024-03-23 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194843) · `si`
+
+කොකේන් මත්ද්‍රව්‍ය බවට සැක කෙරෙන කරල් 12 සමග පුද්ගලයෙකු අද (23) උදෑසන කටුනායක ගුවන්තොටුපොළ තුළදී අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරු අද උදෑසන බ්‍රසීලයේ සිට ඩුබායි හරහා කටුනායකට පැමිණ තිබූ අතර එහිදී අත්අඩංගුවට පත් වුණි.
+
+ඔහු සතුව තිබී ග්‍රෑම් 132ක් බර කරල් 12ක් සොයාගෙන ඇති අතර ඒවා පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය වෙත භාරදීමට නියමිතය.
+
+◼️
+
+[Data](articles/01d57b1b.json)
+
+---
+
+### Students hurt because the fan fell
 
 *2024-03-23 13:14:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்விசிறி-விழுந்ததால்-மாணவர்கள்-காயம்/175-335048) · `ta`
 
-மின்விசிறி விழுந்ததால், காயமடைந்த மாணவர்கள் இருவர் கண்டி பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். நேற்று வெள்ளிக்கிழமை (22), கண்டி, அஸ்கிரியவில் உள்ள பாடசாலையொன்றில், தரம் ஐந்து வகுப்பிலேயே குறித்த விபத்து சம்பவம் இடம்பெற்றுள்ளது.
+Two students injured by a falling fan at Asgiriya, Kandy school, admitted to Kandy General Hospital. Fan in poor condition for days, school unresponsive.
 
-காயமடைந்த மாணவர்கள் இருவரும் கண்டி பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ள நிலையில், ஒரு மாணவனுக்கு கண்ணிலும், மற்றைய மாணவனுக்கு தலையிலும் காயம் ஏற்பட்டுள்ளதாக  வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+🟩
 
-இந்நிலையில், கடந்த சில நாட்களாகவே மின்விசிறி பழுதடைந்த நிலையில் இருந்ததாகவும், இது குறித்து பாடசாலை நிர்வாகத்திடம் தெரிவித்தும், அதற்கான நடவடிக்கை எடுக்கப்படவில்லை என  பெற்றோர்கள் தெரிவித்துள்ளனர். S
+Two injured students have been admitted to the Kandy General Hospital as the fan fell. The accident occurred at a school in Asgiriya, Kandy on Friday (22).
+
+Hospital sources said that the two injured students were admitted to the Kandy General Hospital, and a student was injured in the eye and the other student.
+
+In this case, the parents have said that the fan has been in a state of disrepair for the past few days and that the school administration has not taken any action.. Ssh
 
 ◼️
 
 [Data](articles/a6f83c24.json)
 
+[Extended Data](ext_articles/a6f83c24.ext.json)
+
 ---
 
-### මෛත්‍රීව අත්අඩංගුවට ගන්නැයි ඉල්ලා කාවින්ද CID යයි
+### Kavinda calls for calling Maithri arrested
 
 *2024-03-23 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194842) · `si`
 
-පාස්කු ප්‍රහාරය සිදුකළේ කවුරුන්දැයි තමා දන්නා බවට හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා සිදුකළ ප්‍රකාශය සම්බන්ධයෙන් අද (23) සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී කාවින්ද ජයවර්ධන මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ඉදිරිපත් කළේය.
+MP Kaindripala Sirisena accuses former President Maithripala Sirisena of being aware of the Passover attack, demanding his arrest and further investigations.
 
-පැමිණිල්ල ඉදිරිපත් කිරීමෙන් පසු මාධ්‍යයට අදහස් දක්වමින් මන්ත්‍රීවරයා පැවසුවේ එම ප්‍රකාශය සම්බන්ධයෙන් හිටපු ජනාධිපතිවරයා අත්අඩංගුවට ගෙන විමර්ශන සිදුකළ යුතු බවය.
+🟩
 
-"මේක රහසිගතව තියා ගත යුතු කාරණයක් නෙමෙයි. මේක අනිවාර්යයෙන් රටේ ජනතාව දැනගත යුතුයි. මේ රටේ අහිංසක ජනතාවගේ ජීවිත විනාශ වෙලා තියෙන්නේ."
+MP Kaindripala Sirisena has lodged a complaint with the Criminal Investigation Department regarding the statement made by former President Maithripala Sirisena that he was aware of the Passover attack.
+
+After the complaint lodged a complaint, the MP said that the former President should be arrested and conducting further investigations.
+
+"This is not a secret point in secret. The people of the country must know this. The lives of the innocent people in this country have been destroyed. "
 
 ◼️
 
 [Data](articles/dce7dcf2.json)
+
+[Extended Data](ext_articles/dce7dcf2.ext.json)
 
 ---
 
@@ -1618,6 +1662,20 @@ The recent two events, the online bill and the appointing of IGP, are good examp
 
 ### Preserve forest to slow down climate change
 
+*2024-03-22 23:29:24* · [`dailyftlk`](https://www.ft.lk/columns/Preserve-forest-to-slow-down-climate-change/4-759834) · `en`
+
+A sustainable future depends on investments in forest protection and restoration
+
+21 March is International Forest Day, a day to celebrate and spread awareness of the value of forests and trees. The theme for this year, “Forest and innovation: New solutions for a better world,” emphasises how critical it is to find creative solutions to the problems that confront our forest areas. A sustainable future depends on investments in forest protection and restoration, which will help with everything from reducing the effects of climate change to protecting biodiversity and assisting human populations.
+
+...
+
+[Data](articles/1afeb965.json)
+
+---
+
+### Preserve forest to slow down climate change
+
 *2024-03-22 23:29:24* · [`dailyftlk`](https://www.ft.lk/opinion/Preserve-forest-to-slow-down-climate-change/14-759834) · `en`
 
 A sustainable future depends on investments in forest protection and restoration
@@ -2133,87 +2191,5 @@ A ceremony was held at Independence Square to mark the 72nd death anniversary of
 [Data](articles/1f2f83e0.json)
 
 [Extended Data](ext_articles/1f2f83e0.ext.json)
-
----
-
-### What if a girl holds a sexual relationship?
-
-*2024-03-22 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194826) · `si`
-
-A proposed amendment to the Penal Code in Sri Lanka aims to reduce punishment for girls aged 14-16 having sexual relationships with men under 22, but the National Child Protection Authority opposes it.
-
-🟩
-
-A large number of parties between the ages of 14 and 16 have a sexual relationship with a person under the age of 22 with a person under the age of 22 years have to be taken away immediately.
-
-A bill to amend the 19th chapter of the Penali Code was announced on February 13.
-
-The law of Dr. Wijayadasa Rajapaksa, Minister of Justice and the Constitutional Reforms Minister Dr. Wijayadasa Rajapakse was announced by 363 and 364 of the Penal Code.
-
-According to the proposed amendment, a girl between the ages of 14 and 16 have proposed to ease the punishment if they have a child with a person under 22 years old.
-
-However, the National Child Protection Authority has informed the Minister of Justice and the Parliament that it is not agreed.
-
-Its chairman Senior Lecturer Udayakumara Amarasinghe said that the informs had been made in accordance with the authority assigned from Parliament to advise the government to prevent child abuse.
-
-...
-
-[Data](articles/638ab158.json)
-
-[Extended Data](ext_articles/638ab158.ext.json)
-
----
-
-### There is no only two percentage of adult population
-
-*2024-03-22 19:23:09* · [`adalk`](https://www.ada.lk/breaking_news/වැඩිහිටි-ජනගහනයෙන්-සියයට-12-කගේ-එකම-දතක්වත්-නැහැ/11-408762) · `si`
-
-Dr. Ramesh Pathirana, Health and Industry Minister, highlighted at a Samanala Stadium event that 12% of Sri Lanka's elderly have had dental issues, emphasizing the importance of maintaining good health from early life. The event, organized by the Ministry of Health and the Sri Lanka Dental Association, aimed to educate the public on the harmful effects of tobacco, lime, and leaf, aiming to create good habits and reduce health risks.
-
-🟩
-
-Health and Industry Minister Dr. Ramesh Pathirana stressed that 12% of the elders of Sri Lanka has had the same for the same.
-
-The Minister emphasized this to a special event at the Samanala Stadium in the Samanala Stadium in Galle today (22).
-
-The special schools of the Ministry of Health, the Sri Lanka Dental Association organized by the Sri Lanka Dental Association, has been organized by the Ministry of Health, the Sri Lanka Dental Association.
-
-The doctors revealed that the leading disease was the leading disease in Sri Lanka, and the children and the middle age group of children and the population popularized demind.
-
-He said that it is very important to maintain a good health from the early days of life to the end, the minister said that a large number of people in Sri Lanka are suffering from oral canon.
-
-...
-
-[Data](articles/70c08ede.json)
-
-[Extended Data](ext_articles/70c08ede.ext.json)
-
----
-
-### Magnitude 6.5 quake strikes off Indonesia’s Java island, geophysics agency says
-
-*2024-03-22 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98134/magnitude-65-quake-strikes-off-indonesias-java-island-geophysics-agency-says) · `en`
-
-A magnitude 6.5 earthquake struck off the shore of Indonesia’s Java island on Friday at a depth of 10km (6.2 miles), Indonesia’s geophysics agency (BKMG) said.
-
-The quake followed a 6 magnitude tremor reported more than four hours earlier.
-
-The epicentre was located around 130 km north of Tuban in East Java province, BMKG said.
-
-The tremors were felt strongly in East Java, its capital Surabaya, as well as cities in neighbouring provinces, according to multiple postings by social media users in those areas.
-
-Brief shaking was also felt in the Indonesian capital Jakarta, around 600 km away from the epicentre, according to Reuters witnesses.
-
-The 6.5 quake has no potential to trigger a tsunami, BMKG said.
-
-The earlier quake had caused damage to one house and a community building in the town of Tuban, Indonesia’s disaster mitigation agency said.
-
-There were no immediate reports of further damage following the latest quake.
-
-◼️
-
-[Data](articles/8724daec.json)
-
-[Extended Data](ext_articles/8724daec.ext.json)
 
 ---

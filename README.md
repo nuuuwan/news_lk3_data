@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 08:51:35**
+As of **2024-03-23 09:02:59**
 
 ## Newspaper Stats
 
-*Scraped **14,664** Articles*
+*Scraped **14,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 782
 dailyftlk | 791
 islandlk | 805
 adalk | 1,258
-adaderanalk | 1,756
-tamilmirrorlk | 1,764
+adaderanalk | 1,757
+tamilmirrorlk | 1,765
 virakesarilk | 2,064
 dailymirrorlk | 2,257
 adaderanasinhalalk | 2,339
@@ -26,23 +26,49 @@ adaderanasinhalalk | 2,339
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,663 (100.0%) of 14,664 articles have been extended.
+14,664 (100.0%) of 14,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### කොළඹ නගරයේ අවදානම් ඉදිකිරීම් 150 ක්
+### Sri Lanka to issue on-arrival driving licenses to foreigners starting April 15
+
+*2024-03-23 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98142/sri-lanka-to-issue-on-arrival-driving-licenses-to-foreigners-starting-april-15) · `en`
+
+State Minister of Transport Lasantha Alagiyawanna revealed that foreign individuals seeking a driving license in Sri Lanka will have the convenience of applying for it directly at the airport from April 15.
+
+Upon exiting the airport, they will be able to obtain their driver’s license swiftly and efficiently.
+
+The State Minister mentioned that the program to provide compensation to road accident victims promptly without judicial action was also started on March 01.
+
+The individuals can claim a maximum compensation amount of up to Rs. 500, 000 by submitting an application to the relevant insurance company within one year of the accident. This compensation can be availed from any branch of the insurance company across the island, he explained.
+
+Alagiyawanna was addressing a press briefing titled “Collective Path to a Stable Country” held at the Presidential Media Centre (PMC) on Friday (22).
+
+...
+
+[Data](articles/615a3e3c.json)
+
+---
+
+### 150 risk constructions of Colombo
 
 *2024-03-23 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194835) · `si`
 
-කොළඹ නගරයේ අවදානම් ඉදිකිරීම් 150 පමණ මේ වනවිට හඳුනාගෙන ඇති බව කොළඹ නාගරික කොමසාරිස් භද්‍රානි ජයවර්ධන මහත්මිය පවසයි.
+Colombo Municipal Commissioner Badrani Jayawardena reported 150 risk constructions. Owners have been notified to remove them.
 
-ඇය සඳහන් කළේ මේ පිළිබඳ ලේඛනගත කර ඒවා ඉවත් කරන ලෙස අදාළ හිමිකරුවන්ව දැනුවත් කර ඇති බවය.
+🟩
+
+The Colombo Municipal Commissioner Badrani Jayawardena says that about 150 risk constructions in Colombo.
+
+She said that the owners had been informed about this to remove them and remove them.
 
 ◼️
 
 [Data](articles/7b897e19.json)
+
+[Extended Data](ext_articles/7b897e19.ext.json)
 
 ---
 
@@ -335,6 +361,22 @@ Colombo, March 23 (Daily Mirror) - A General Election will be held if the member
 [Data](articles/5f4dbc38.json)
 
 [Extended Data](ext_articles/5f4dbc38.ext.json)
+
+---
+
+### ’வெளிநாட்டவர்க்கு இலங்கை சாரதி அனுமதிப்பத்திரம்’
+
+*2024-03-23 04:36:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டவர்க்கு-இலங்கை-சாரதி-அனுமதிப்பத்திரம்/175-335042) · `ta`
+
+இலங்கையில் சாரதி அனுமதிப்பத்திரம் கோரி விண்ணப்பிக்கும் வெளிநாட்டவர்களுக்கு ஏப்ரல் 15 ஆம் திகதி முதல் விமான நிலையத்திலிருந்து வெளியில் வரும்போதே சாரதி அனுமதிப்பத்திரத்தை பெற்றுக்கொடுப்பதற்கான ஏற்பாடுகள் செய்யப்படுமென போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவன்ன தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் மாநாட்டிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+குடிவரவுத் திணைக்களம், விமானப் போக்குவரத்து சேவைகள் அதிகார சபை மற்றும் சுற்றுலா அமைச்சு ஆகியன இலங்கையில் சாரதி அனுமதிப்பத்திரத்தைப் பெற விரும்பும் வெளிநாட்டவர்களுக்கு ஏப்ரல் 15 ஆம் திகதி முதல் விமான நிலையத்தில் விண்ணப்பிப்பதற்கும் சாரதி அனுமதிப்பத்திரத்தை வழங்குவதற்கும் தேவையான அனைத்து ஏற்பாடுகளையும் செய்துள்ளது என்றார். (a)
+
+◼️
+
+[Data](articles/a3a1e955.json)
 
 ---
 
@@ -2173,49 +2215,5 @@ As a chairman of the Parliament Members of Parliament, President (Dr.) is inform
 [Data](articles/00d2a75b.json)
 
 [Extended Data](ext_articles/00d2a75b.ext.json)
-
----
-
-### Hot Weather: New Guidelines for Marathon Running
-
-*2024-03-22 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/179419) · `ta`
-
-The Department of Sports Development has issued new guidelines for Marathon and long-distance races, requiring athletes to present medical and ECG reports, aiming to prevent future deaths due to hot weather.
-
-🟩
-
-The Department of Sports Development has issued a new circular on guidelines to be followed in the Marathon and long -range competitions for the public and the public.
-
-It is mandatory for all athletes to participate in Marathon and long distance race.
-
-Athletes who are involved in the Marathon race should be presented with the medical report and the ECG report to the doctor.
-
-The move has been taken into consideration of the unfortunate deaths of athletes recently recorded due to the hot weather in the country.
-
-◼️
-
-[Data](articles/e414d217.json)
-
-[Extended Data](ext_articles/e414d217.ext.json)
-
----
-
-### Kaminda's wedding test century
-
-*2024-03-22 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194817) · `si`
-
-Kamindu Mendis scored a century in his wedding test, the first Test between Sri Lanka and Bangladesh in Sylhet, Bangladesh.
-
-🟩
-
-The first Test between Sri Lanka and Bangladesh is currently in Syllen in Bangladesh.
-
-Kamindu Mendis recorded his wedding tests century.
-
-◼️
-
-[Data](articles/36cd2a01.json)
-
-[Extended Data](ext_articles/36cd2a01.ext.json)
 
 ---

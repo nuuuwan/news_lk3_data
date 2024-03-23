@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 03:34:23**
+As of **2024-03-24 03:50:48**
 
 ## Newspaper Stats
 
-*Scraped **14,770** Articles*
+*Scraped **14,771** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 792
 economynextcom | 795
 islandlk | 805
 adalk | 1,262
-tamilmirrorlk | 1,774
+tamilmirrorlk | 1,775
 adaderanalk | 1,780
 virakesarilk | 2,074
 dailymirrorlk | 2,275
@@ -26,9 +26,27 @@ adaderanasinhalalk | 2,364
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,770 (100.0%) of 14,770 articles have been extended.
+14,770 (100.0%) of 14,771 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-24 (Sunday)
+
+### டாக்காவிற்கு நேரடி விமான சேவை
+
+*2024-03-24 03:17:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டாக்காவிற்கு-நேரடி-விமான-சேவை/175-335069) · `ta`
+
+ஏப்ரல் மாத்தத்தில் கொழும்பு மற்றும் பங்களாதேஷ் தலைநகர் டாக்காவிற்கு இடையில்  நேரடி விமான சேவையை அறிமுகப்படுத்துவதில் மகிழ்ச்சியடைவதாக குறைந்த கட்டணத்தில் விமான சேவையை வழங்கும் ஃபிட்ஸ் ஏர்  நிறுவனம் தெரிவித்துள்ளது.
+
+இந்த விமான சேவை ஏப்ரல் மாதம் 16 ஆம் திகதி ஆரம்பிக்கப்படவுள்ளது. ஆரம்ப கட்டணமாக 74 ஆயிரத்து 600 ரூபாவாக அறவிடவுள்ளது.
+
+தற்போது ஃபிட்ஸ் ஏர் கொழும்பில் இருந்து டுபாய், மாலி மற்றும் சென்னைக்கு நேரடி சேவைகளை வழங்குகிறது என்பது குறிப்பிடத்தக்கது.  (a)
+
+◼️
+
+[Data](articles/e24a81f7.json)
+
+---
 
 ### 2024-03-23 (Saturday)
 
@@ -2301,35 +2319,5 @@ Members of the public are urged to take adequate precautions to minimize damages
 [Data](articles/1e8f97d9.json)
 
 [Extended Data](ext_articles/1e8f97d9.ext.json)
-
----
-
-### Moscow attack - IS system claimed
-
-*2024-03-23 06:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179474) · `ta`
-
-ISIS claimed the Moscow concert shooting, killing 60. US intelligence confirmed IS involvement. Despite strained US-Russia relations, the US warned Russia, advising against public gatherings, especially concerts.
-
-🟩
-
-The number of people killed in the shooting incident at Moscow's most popular concert has increased to 60, while ISIS has claimed the attack.
-
-The IS organization has claimed the attack in Telegram, but the organization has not released any evidence for the attack.
-
-Meanwhile, US intelligence agencies have confirmed that the IS has carried out the attack.
-
-US intelligence agencies have told CBS Television that the IS organization has been reported to have been involved in an attack on Russia.
-
-Although the relations between the US and Russia have been halfway, US intelligence agencies have shared a warning to Russia.
-
-It is noteworthy that the US Department of State has appealed for two weeks to avoid the events of Americans in Moscow to avoid the events of the public, especially to avoid concerts.
-
-The US State Department has said that the militants are planning to take place in the area where the public is increasing.
-
-◼️
-
-[Data](articles/3816b733.json)
-
-[Extended Data](ext_articles/3816b733.ext.json)
 
 ---

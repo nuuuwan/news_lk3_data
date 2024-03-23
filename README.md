@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 07:54:12**
+As of **2024-03-23 08:03:00**
 
 ## Newspaper Stats
 
-*Scraped **14,658** Articles*
+*Scraped **14,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 791
 islandlk | 805
 adalk | 1,257
 adaderanalk | 1,756
-tamilmirrorlk | 1,761
+tamilmirrorlk | 1,762
 virakesarilk | 2,064
 dailymirrorlk | 2,257
 adaderanasinhalalk | 2,337
@@ -26,11 +26,33 @@ adaderanasinhalalk | 2,337
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,657 (100.0%) of 14,658 articles have been extended.
+14,658 (100.0%) of 14,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### பல இடங்களில் மழை பெய்யும்
+
+*2024-03-23 07:56:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-இடங்களில்-மழை-பெய்யும்/175-335043) · `ta`
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் அவ்வப்போது மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+வடமத்திய மற்றும் வடக்கு மாகாணங்களில் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+நாட்டின் ஏனைய பிரதேசங்களில் பல இடங்களில் பிற்பகலில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மேல், சப்ரகமுவ, மத்திய மற்றும் வடமேல் மாகாணங்களில் சில இடங்களில் 75 மி.மீ க்கும் அதிகமான ஓரளவு பலத்த மழைவீழ்ச்சி எதிர்பார்க்கப்படுகின்றது.
+
+மத்திய, சப்ரகமுவ மற்றும் ஊவா மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+
+இடியுடன் கூடிய மழை பெய்யும் வேளைகளில் அப் பிரதேசங்களில் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள தேவையான முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் அறிவுறுத்தப்படுகின்றார்கள். R
+
+◼️
+
+[Data](articles/f53d1d79.json)
+
+---
 
 ### British king is cancer
 
@@ -74,23 +96,33 @@ Members of the public are urged to take adequate precautions to minimize damages
 
 ---
 
-### மொஸ்கோ தாக்குதல் - ஐஎஸ் அமைப்பு உரிமை கோரியது
+### Moscow attack - IS system claimed
 
 *2024-03-23 06:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179474) · `ta`
 
-மொஸ்கோவின் மிகவும் பிரபலமான இசைநிகழ்ச்சி அரங்கில் இடம்பெற்ற துப்பாக்கி சூட்டு சம்பவத்தில் கொல்லப்பட்டவர்கள் எண்ணிக்கை 60 ஆக அதிகரித்துள்ள அதேவேளை  ஐஎஸ்ஐஎஸ்  அமைப்பு இந்த தாக்குதலிற்கு உரிமை கோரியுள்ளது.
+ISIS claimed the Moscow concert shooting, killing 60. US intelligence confirmed IS involvement. Despite strained US-Russia relations, the US warned Russia, advising against public gatherings, especially concerts.
 
-டெலிகிராமில் ஐஎஸ் அமைப்பு தாக்குதலிற்கு உரிமை கோரியுள்ளது எனினும் இந்த தாக்குதலைதான் மேற்கொண்டமைக்காக ஆதாரங்கள் எவற்றையும் அந்த அமைப்பு வெளியிடவில்லை.
+🟩
 
-இதேவேளை இந்த தாக்குதலை ஐஎஸ் அமைப்பே மேற்கொண்டுள்ளது என்பதை அமெரிக்க புலனாய்வு அமைப்புகள் உறுதி செய்துள்ளன.
+The number of people killed in the shooting incident at Moscow's most popular concert has increased to 60, while ISIS has claimed the attack.
 
-ஐஎஸ் அமைப்பு ரஸ்யாவில் தாக்குதலொன்றை மேற்கொள்வதற்கான முயற்சிகளில் ஈடுபட்டுள்ளது என்ற தகவல்கள் நவம்பர் மாதம் முதல் கிடைத்தன என அமெரிக்க புலனாய்வு அமைப்புகளை சேர்ந்தவர்கள் சிபிஎஸ் தொலைக்காட்சிக்கு தெரிவித்துள்ளனர்.
+The IS organization has claimed the attack in Telegram, but the organization has not released any evidence for the attack.
 
-அமெரிக்காவிற்கும் ரஸ்யாவிற்கும் இடையிலான உறவுகள் பாதி;க்கப்பட்டுள்ள போதிலும் அமெரிக்க புலனாய்வு அமைப்புகள் ஐஎஸ்தாக்குதல் குறித்த எச்சரிக்கையை ரஸ்யாவிடம் பகிர்ந்துகொண்டன எனவும் தகவல்கள் வெளியாகியுள்ளன.
+Meanwhile, US intelligence agencies have confirmed that the IS has carried out the attack.
 
-...
+US intelligence agencies have told CBS Television that the IS organization has been reported to have been involved in an attack on Russia.
+
+Although the relations between the US and Russia have been halfway, US intelligence agencies have shared a warning to Russia.
+
+It is noteworthy that the US Department of State has appealed for two weeks to avoid the events of Americans in Moscow to avoid the events of the public, especially to avoid concerts.
+
+The US State Department has said that the militants are planning to take place in the area where the public is increasing.
+
+◼️
 
 [Data](articles/3816b733.json)
+
+[Extended Data](ext_articles/3816b733.ext.json)
 
 ---
 
@@ -2183,33 +2215,5 @@ President Ranil Wickremesinghe was presented in the Ottagapulam area under the p
 [Data](articles/2836879d.json)
 
 [Extended Data](ext_articles/2836879d.ext.json)
-
----
-
-### The man who had been living in a pig kidney
-
-*2024-03-22 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194815) · `si`
-
-A 62-year-old Sri Lankan received a successful kidney transplant from a genetically modified pig, marking a significant medical achievement. The procedure, conducted at Massachusetts General Hospital on March 16, lasted 4 hours.
-
-🟩
-
-A Sri Lankan team has successfully transplanted a genetic-modified pigs successfully transplant a success of a 62-year-old person.
-
-The doctors said that a genetic modified pigs had obtained a kidney to avoiding complications that could be avoided after the organ transplant.
-
-The medical team said that Rick Slamon was a real hero with that particular constipation, he said he was preparing to leave the hospital.
-
-It is said that this is the purpose of using animal shelter to the needs of people in the future.
-
-The brain deceased has been transplanted for experiments before the deceased.
-
-The Massachusetts General Hospital said that the organ transplant took place on March 16 was 4 hours.
-
-◼️
-
-[Data](articles/76770bf1.json)
-
-[Extended Data](ext_articles/76770bf1.ext.json)
 
 ---

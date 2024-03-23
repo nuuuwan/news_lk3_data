@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 18:20:32**
+As of **2024-03-23 18:33:10**
 
 ## Newspaper Stats
 
-*Scraped **14,744** Articles*
+*Scraped **14,747** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 794
 islandlk | 805
 adalk | 1,262
 tamilmirrorlk | 1,770
-adaderanalk | 1,772
+adaderanalk | 1,773
 virakesarilk | 2,074
 dailymirrorlk | 2,270
-adaderanasinhalalk | 2,356
+adaderanasinhalalk | 2,358
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,742 (100.0%) of 14,744 articles have been extended.
+14,744 (100.0%) of 14,747 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### මෛත්‍රීගේ ප්‍රකාශය ගැන පරීක්ෂණ කරන්නැයි පොලිස්පතිට නියෝග
+
+*2024-03-23 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194856) · `si`
+
+පාස්කු ඉරිදා බෝම්බ ප්‍රහාරය සම්බන්ධයෙන් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පසුගියදා කළ ප්‍රකාශය සම්බන්ධයෙන් වහාම පරීක්ෂණයක් පවත්වන ලෙස පොලිස්පතිවරයා වෙත නියෝග කර තිබේ.
+
+මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා විසින් පොලිස්පතිවරයා වෙත එලෙස නියෝග කර ඇත.
+
+◼️
+
+[Data](articles/33f93cca.json)
+
+---
+
+### දෙමටගොඩින් රු කෝටි 2ක අයිස් මත්ද්‍රව්‍ය සොයාගනී
+
+*2024-03-23 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194855) · `si`
+
+රුපියල් කෝටි 02කට ආසන්න වටිනාකමක් සහිත අයිස් මත්ද්‍රව්‍ය  තොගයක් සමග සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+දෙමටගොඩ බේස්ලයින් පාර සිරිසර උයන මහල් නිවාස සංකීර්ණය අසලදී  කොළඹ අපරාධ කොට්ඨාසය විසින් වැටලීම සිදුකර තිබුණි.
+
+ප්‍රධාන සැකකරු සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 1580 ක් පොලිස් භාරයට ගෙන ඇත.
+
+◼️
+
+[Data](articles/19bd8876.json)
+
+---
+
+### Draft Bill to reduce age of sexual consent to 14 years to be withdrawn after outcry
+
+*2024-03-23 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98155/draft-bill-to-reduce-age-of-sexual-consent-to-14-years-to-be-withdrawn-after-outcry) · `en`
+
+The Bill gazetted on 09 February 2024 by the government in order to amend Chapter 19 of the Penal Code regarding the age of a girl to have sexual relations of her own interest, will be withdrawn, says Minister of Justice, Prison Affairs and Constitutional Reform Wijeyadasa Rajapakshe.
+
+According to the amendments made to the Penal Code in 1995, even if a victim under 16 years of age has sexual relations of their own free will, it is considered rape. However, the proposed amendment to the Penal Code by the Justice Minister sought to lower the age of sexual consent to 14 years.
+
+Nevertheless, speaking to the media following an event held in Colombo today (23), Rajapakshe stated that he has informed the Attorney General that the draft would not be proceeded with and that it would be withdrawn from the Parliament.
+
+“Several individuals have approached me requesting the suspension of the passing of this Bill. I have conveyed to them that further discussions must ensue”, the Minister said.
+
+...
+
+[Data](articles/3c4d3f20.json)
+
+---
 
 ### Draft Bill to reduce age of sexual consent to 14 years to be withdrawn
 
@@ -48,6 +96,8 @@ Nevertheless, speaking to the media following an event held in Colombo today (23
 
 [Data](articles/f15cdba3.json)
 
+[Extended Data](ext_articles/f15cdba3.ext.json)
+
 ---
 
 ### Integrating modern technology, including AI, crucial for health sector advancement: President
@@ -63,6 +113,8 @@ Wickremesinghe made these remarks while attending the inauguration ceremony of t
 ...
 
 [Data](articles/87e3fce9.json)
+
+[Extended Data](ext_articles/87e3fce9.ext.json)
 
 ---
 
@@ -2265,63 +2317,5 @@ These promotions will add to the good cheer of the Avurudu celebrations by offer
 [Data](articles/3d3a2623.json)
 
 [Extended Data](ext_articles/3d3a2623.ext.json)
-
----
-
-### Fratricidal  conflict between LTTE and Karuna Eastern Tigers
-
-*2024-03-23 00:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Fratricidal-conflict-between-LTTE-and-Karuna-Eastern-Tigers/172-279455) · `en`
-
-All hell was expected to break loose after “Col”Karuna the Eastern regional commander of the LTTE raised the banner of revolt against the Wanni-based tiger hierarchy on March 3, 2004
-
-After breaking away, Karuna had indicated that he would abide by the ceasefire and wanted a separate memorandum of understanding. This was vehemently opposed by the mainstream LTTE
-
-Moreover the LTTE had invested politically in the grouping of Tamil parties known as the Tamil National Alliance (TNA), The Eelam Peoples Democratic Party (EPDP) Leader Douglas Devananda used to mock the TNA as  an acronym for “Tiger nominated agents”
-
-In the first article published last week (“Col” Karuna’s Eastern Tiger revolt against LTTE 20 years ago) the background and reasons for the Eastern Tiger revolt were discussed in detail.
-
-...
-
-[Data](articles/470185d5.json)
-
-[Extended Data](ext_articles/470185d5.ext.json)
-
----
-
-### Isn’t there a better COPE chief in SLPP?
-
-*2024-03-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Isnt-there-a-better-COPE-chief-in-SLPP/172-279416) · `en`
-
-One of the three watchdog committees of  Sri Lanka’s Parliament, the Committee On Public Enterprises (COPE), has been hit by a wave of resignations since Monday (18), following the appointment of Rohitha Abeygunawardena as its chairman.
-
-By yesterday noon, 11 members – almost all  from the Opposition and dissidents of the ruling Sri Lanka Podujana Peramuna (SLPP) – had tendered their resignation.
-
-Eran Wickramaratne, S.M.Marikkar and Hesha Withanage from the Samagi Jana Balawegaya (SJB), Anura Kumara Dissanayake from the National People’s Power (NPP), Shanakiyan Rasamanickam of the Illankai Thamil Arasu Katchi and Dayasiri Jayasekara, Gamini Waleboda, Professor Charitha Herath, Duminda Dissanayake, Wasantha Yapa Bandara and Dilan Perera from the SLPP dissident group were the MPs who so resigned.
-
-...
-
-[Data](articles/18dda8b8.json)
-
-[Extended Data](ext_articles/18dda8b8.ext.json)
-
----
-
-### Weather, economy and fate of cricket team
-
-*2024-03-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Weather-economy-and-fate-of-cricket-team/172-279415) · `en`
-
-It’s growing hotter by the day. Last Saturday the temperature in Colombo rose to around 89 degrees Fahrenheit.
-
-Forecasters have predicted that there will be no let-up in the spell of hot weather. Rather they are warning that temperatures will rise further by April when the sun will be directly over Lanka.
-
-Doctors also warn the public to avoid strenuous labour, to wear white clothing that absorbs solar energy and drink more water. A difficulty here is that our reservoirs are running low on water supplies. The Department of Irrigation is requesting the public to reduce the consumption of water!
-
-The irony of it all is that the Department of Meteorology warned us of the impending dry spell around mid-last year. In this column we have constantly drawn attention to the need to dredge our ancient tanks and the need for clearing waterways which feed the tanks, thereby enhancing the collection of greater quantities of water.
-
-...
-
-[Data](articles/72a8e0be.json)
-
-[Extended Data](ext_articles/72a8e0be.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 06:16:47**
+As of **2024-03-23 06:52:33**
 
 ## Newspaper Stats
 
-*Scraped **14,647** Articles*
+*Scraped **14,648** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 791
 islandlk | 805
 adalk | 1,257
 adaderanalk | 1,752
-tamilmirrorlk | 1,759
+tamilmirrorlk | 1,760
 virakesarilk | 2,062
 dailymirrorlk | 2,256
 adaderanasinhalalk | 2,335
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,639 (99.9%) of 14,647 articles have been extended.
+14,647 (100.0%) of 14,648 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### சிகிச்சை பெற்று வந்தவர் கீழே வீழ்ந்து உயிரிழப்பு
+
+*2024-03-23 04:04:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிகிச்சை-பெற்று-வந்தவர்-கீழே-வீழ்ந்து-உயிரிழப்பு/175-335039) · `ta`
+
+யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சை பெற்றுக்கொண்டிருந்தவர் திடீரெனக் கீழே வீழ்ந்து உயிரிழந்துள்ளார். இந்தச் சம்பவம் நேற்று மாலை இடம்பெற்றுள்ளது.
+
+யாழ்ப்பாணம், தலையாழி பகுதியைச் சேர்ந்த பஞ்சலிங்கம் தினேஷ் என்ற 44 வயதானவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த நபர் மூச்செடுக்கச் சிரமம் என்று வைத்தியசாலையில் சேர்க்கப்பட்ட நிலையில் வேறொரு விடுதிக்கு மாற்றுவதற்கான நடவடிக்கை எடுக்கப்பட்டபோதே நேற்று மாலை வைத்தியசாலையின் பின்பக்க நுழைவாயில் ஊடாகத் திடீரென வெளியேறி சிறிது நேரத்தில் கீழே வீழ்ந்து உயிரிழந்துள்ளார். (a)
+
+◼️
+
+[Data](articles/ea770171.json)
+
+---
 
 ### The President opened the emergency department
 
@@ -768,6 +784,8 @@ In the wake of Sri Lanka’s economic crisis, hundreds of thousands of mostly yo
 
 [Data](articles/01745365.json)
 
+[Extended Data](ext_articles/01745365.ext.json)
+
 ---
 
 ### Microsoft joins hands with Sri Lanka in its journey to becoming unstoppable with AI
@@ -781,6 +799,8 @@ In a bid to strengthen commitment and partnership towards the South Asia region,
 ...
 
 [Data](articles/190f9f03.json)
+
+[Extended Data](ext_articles/190f9f03.ext.json)
 
 ---
 
@@ -832,6 +852,8 @@ As the world celebrated International Women’s Day on 8th March 2024, Pan Asia 
 
 [Data](articles/3ec56f9b.json)
 
+[Extended Data](ext_articles/3ec56f9b.ext.json)
+
 ---
 
 ### Hayleys Solar powers historic 90th ‘Battle of the Saints’ and 50th Limited Over Encounter
@@ -848,6 +870,8 @@ The two-day cricket encounter, known for its exhilarating and competitive spirit
 
 [Data](articles/6472f613.json)
 
+[Extended Data](ext_articles/6472f613.ext.json)
+
 ---
 
 ### SriLankan Airlines statement on Flight UL 470
@@ -863,6 +887,8 @@ The remaining 100 passengers, who were heading to South Korea for work, have bee
 ...
 
 [Data](articles/a612e7ea.json)
+
+[Extended Data](ext_articles/a612e7ea.ext.json)
 
 ---
 
@@ -2151,25 +2177,5 @@ Five persons from the People's Struggle Movement staged a protest in front of th
 [Data](articles/f3f4a8c1.json)
 
 [Extended Data](ext_articles/f3f4a8c1.ext.json)
-
----
-
-### General elections must be held first to maintain fairness: MR
-
-*2024-03-22 13:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/General-elections-must-be-held-first-to-maintain-fairness-MR/155-279396) · `en`
-
-Colombo, March 12 (Daily Mirror) - Leader of the Sri Lanka Podujana Peramuna (SLPP), Mahinda Rajapaksa, said that a general election should be held first and then the presidential election to maintain a fair process in the country.
-
-Addressing the media, Rajapaksa said that Basil Rajapaksa had conveyed this proposal to President Ranil Wickremesinghe on behalf of the SLPP when Basil met the President recently.
-
-Mahinda Rajapaksa also maintained that if this proposal is not followed, whichever party wins the presidential election will have a massive victory in the parliamentary election, which is not good for the country.
-
-He also said that there should be a fair situation in the country after the elections.
-
-◼️
-
-[Data](articles/1f1e8bbe.json)
-
-[Extended Data](ext_articles/1f1e8bbe.ext.json)
 
 ---

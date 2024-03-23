@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 15:17:46**
+As of **2024-03-23 15:33:33**
 
 ## Newspaper Stats
 
-*Scraped **14,719** Articles*
+*Scraped **14,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 792
 economynextcom | 794
 islandlk | 805
 adalk | 1,258
-adaderanalk | 1,765
+adaderanalk | 1,767
 tamilmirrorlk | 1,769
 virakesarilk | 2,071
 dailymirrorlk | 2,267
@@ -26,21 +26,67 @@ adaderanasinhalalk | 2,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,718 (100.0%) of 14,719 articles have been extended.
+14,719 (100.0%) of 14,721 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### மைத்திரியை கைது செய்
+### Man nabbed with Rs. 2mn worth of Kerala cannabis in Kilinochchi
+
+*2024-03-23 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98151/man-nabbed-with-rs-2mn-worth-of-kerala-cannabis-in-kilinochchi) · `en`
+
+A coordinated operation conducted by the Navy and Police STF in Uruththipuram, Kilinochchi on Friday evening (March 22) has led to the arrest of a suspect and the seizure of over 7kg of Kerala cannabis in his possession.
+
+The combined search operation was carried out by the Naval Deployment Veththalakerni in the Northern Naval Command and Police STF Kilinochchi.
+
+During this operation, a person roaming in the Uruththipuram area was searched on suspicion and 04 parcels of Kerala cannabis were found in his possession.
+
+Accordingly, the suspect and the four parcels containing about 7kg and 25g of Kerala cannabis were taken into custody, while being peddled by the suspect.
+
+The gross street value of seized Kerala cannabis is believed to be over Rs. 2 million.
+
+The suspect held in this operation was identified as a resident of Kilinochchi, aged 29. The accused, along with Kerala cannabis was handed over to the Kilinochchi Police for onward legal action.
+
+◼️
+
+[Data](articles/c37c4b85.json)
+
+---
+
+### India provides more grants to build houses in Buddhist sacred town of Sri Lanka
+
+*2024-03-23 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98150/india-provides-more-grants-to-build-houses-in-buddhist-sacred-town-of-sri-lanka) · `en`
+
+“India has signed an additional grant of Sri Lanka Rupees (SLR) 150 million to build houses and infrastructure facilities in the Buddhist sacred town of Anuradhapura,” the Indian High Commission has said.
+
+Santosh Jha, the High Commissioner of India, and the relevant Sri Lankan officials on March 21 exchanged letters about the grant to the island nation.
+
+With this, the Indian government’s total commitment to the project currently stands at LKR 450 million for the construction of houses and infrastructure facilities in Sobitha Thero village of Anuradhapura.
+
+The late Sobhitha Thero was an iconic Buddhist monk in the island nation’s good governance movement.
+
+...
+
+[Data](articles/51981ec5.json)
+
+---
+
+### Arrest
 
 *2024-03-23 14:37:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியை-கைது-செய்/175-335050) · `ta`
 
-ஈஸ்டர் ஞாயிறு தாக்குதலுக்கு மூளையாக செயல்பட்டவர் யார் என்பது தனக்குத் தெரியும் என்று கூறிய முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவை உடனடியாகக் கைது செய்து விசாரணை நடத்துமாறு எதிர்க்கட்சி எம்.பி.க்களான மனோ கணேசன் மற்றும் காவிந்த ஜயவர்தன ஆகியோர் இன்று கோரிக்கை விடுத்துள்ளனர்.
+Mano Ganesan and Kavinda Jayawardena demand immediate arrest and investigation of the person claiming to know the mastermind behind the Easter Sunday attack, asserting Maithripala Sirisena's responsibility.
+
+🟩
+
+Opposition MPs Mano Ganesan and Kavinda Jayawardena today demanded that former President Maithripala Sirisena immediately arrest and investigate who said he knew who was the brainchild of the Easter Sunday attack.
 
 ◼️
 
 [Data](articles/572958f2.json)
+
+[Extended Data](ext_articles/572958f2.ext.json)
 
 ---
 
@@ -2165,35 +2211,5 @@ With respect to Sri Lanka’s performance in its top 15 major export markets, th
 [Data](articles/1d235e20.json)
 
 [Extended Data](ext_articles/1d235e20.ext.json)
-
----
-
-### Pearson unveils PTE Core English exam suite and recognizes its key agents
-
-*2024-03-22 20:14:00* · [`islandlk`](http://island.lk/pearson-unveils-pte-core-english-exam-suite-and-recognizes-its-key-agents/) · `en`
-
-In the wake of Sri Lanka’s economic crisis, hundreds of thousands of mostly young people are looking to migrate for employment, and seeking better opportunities abroad. By the end of 2022, over 300,000 people had left the country, many of them professionals. These individuals are looking for greener pastures and a way to support their families. Meanwhile, a key obstacle facing potential migrants is English language proficiency assessment, which is a key requirement for migration to popular destinations such as Canada, the UK, Australia, New Zealand and many other countries. Against this backdrop, Pearon’s PTE suit of English exams is helping to facilitate these young people as they seek to achieve their dreams on foreign shores. In fact, during 2023, over 3200 applications were made by Sri Lankans seeking Permant Residency status in Canada, with 84% receiving approval, highlighting the promising prospects for aspiring Sri Lankans.
-
-...
-
-[Data](articles/01745365.json)
-
-[Extended Data](ext_articles/01745365.ext.json)
-
----
-
-### Microsoft joins hands with Sri Lanka in its journey to becoming unstoppable with AI
-
-*2024-03-22 20:14:00* · [`islandlk`](http://island.lk/microsoft-joins-hands-with-sri-lanka-in-its-journey-to-becoming-unstoppable-with-ai/) · `en`
-
-Puneet Chandok, Microsoft’s President of India and South Asia, made his inaugural visit to Sri Lanka; met with Sri Lankan President and Prime Minister to discuss the company’s commitment to partner Sri Lanka on its digital transformation journey.
-
-In a bid to strengthen commitment and partnership towards the South Asia region, Puneet Chandok, the President of Microsoft India and South Asia, made his inaugural visit to Sri Lanka in March 2024, since taking office in September 2023. Building on the two-decade journey of empowering the people of Sri Lanka through Cloud and AI technologies, Puneet engaged in discussions with President Ranil Wickremesinghe and Prime Minister Dinesh Gunawardena during his two-day visit. The discussions explored the transformative potential of AI in uplifting societies and communities, while discussing how innovative technological solutions can propel Sri Lanka towards becoming a digital nation.
-
-...
-
-[Data](articles/190f9f03.json)
-
-[Extended Data](ext_articles/190f9f03.ext.json)
 
 ---

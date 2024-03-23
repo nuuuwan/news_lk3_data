@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 17:03:04**
+As of **2024-03-23 17:18:10**
 
 ## Newspaper Stats
 
-*Scraped **14,739** Articles*
+*Scraped **14,740** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 1,770
 tamilmirrorlk | 1,770
 virakesarilk | 2,074
 dailymirrorlk | 2,270
-adaderanasinhalalk | 2,354
+adaderanasinhalalk | 2,355
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,735 (100.0%) of 14,739 articles have been extended.
+14,739 (100.0%) of 14,740 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### රට හැර යන සෞඛ්‍ය වෘත්තිකයන් ගැන ජනපති කතා කරයි
+
+*2024-03-23 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194852) · `si`
+
+මෙරට පුහුණු වෛද්‍යවරුන් හෝ හෙදියන් 100 දෙනෙකු අතුරින් 30ත් 40ත් අතර ප්‍රමාණයක් රට හැර යාම සිදුවන බවත් එය අඛණ්ඩව සිදුවීම රටට යහපත් තත්ත්වයක් නොවන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ලොව ගුණාත්මක සෞඛ්‍ය සේවාවක් ඇති මෙරට සෞඛ්‍ය සේවාව තවදුරටත් ඉහළ නංවමින් එය රටේ ආර්ථිකයට ප්‍රශස්ත අයුරින් දායක කර ගැනීම සියලු දෙනාගේ වගකීම බවද ජනාධිපතිවරයා සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ නෙදර්ලන්ත රජයේ DRIVE සහන ණය ක්‍රමය යටතේ ඉදිකරන ලද පේදුරු තුඩුව මූලික රෝහලේ “හදිසි අනතුරු සහ හදිසි ප්‍රතිකාර ඒකකය” ජනතා අයිතියට පවරාදීමේ අවස්ථාවට ඊයේ (22) පස්වරුවේ එක් වෙමිනි.
+
+මෙරට වෛද්‍ය සහ හෙද අවශ්‍යතාවය සපුරාලීම සඳහා වාර්ෂික බඳවා ගැනීම් ඉහළ නංවන ලෙස තමා ශ්‍රීමත් ජෝන් කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයට ද උපදෙස් දුන් බවත්, එම පුහුණු කිරීම් සඳහා අවශ්‍ය පහසුකම් ප්‍රවර්ධනය කළයුතු බවත් ජනාධිපතිවරයා මෙහිදී පෙන්වා දුන්නේය.
+
+හරිත සරසවියේ වෛද්‍ය පීඨය සඳහා ශික්ෂණ රෝහලක් පවත්වාගෙන යාමේ අයිතිය ලබාදී තිබෙන බවත් “ලයිසියම් කැම්පස්” ද එවැනි ඉල්ලීමක් සිදු කර ඇති බවත් ජනාධිපතිවරයා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/9ff2e797.json)
+
+---
 
 ### SJB files complaint against Maithripala’s claims on ‘real masterminds’ behind Easter attacks
 
@@ -48,19 +68,27 @@ On Friday (22), Former President Maithripala Sirisena claimed he was aware of th
 
 [Data](articles/0b94191f.json)
 
+[Extended Data](ext_articles/0b94191f.ext.json)
+
 ---
 
-### අදත් පස්වරුවේ මහ වැස්සක්
+### Rains today even afternoon
 
 *2024-03-23 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194851) · `si`
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් ඉදිරි පැය 36ක කාලය සඳහා කාලගුණ අනාවැකිය අද (23) පස්වරු 4ට නිකුත් කළේය.
+"Rains expected in Ratnapura, Kalutara, Galle, and Matara districts today and afternoon."
 
-එහි දැක්වෙන්නේ රත්නපුර, කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල ඇතැම් ස්ථානවලට මි.මී 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+🟩
+
+The Meteorological Department issued the weather forecast for the next 36 hours today (23).
+
+There are rains during the Ratnapura, Kalutara, Galle and Matara districts.
 
 ◼️
 
 [Data](articles/9542d399.json)
+
+[Extended Data](ext_articles/9542d399.ext.json)
 
 ---
 
@@ -114,41 +142,57 @@ The statement states that the government of Sri Lanka and the people of the peop
 
 ---
 
-### வவுனியாவில் காசநோயால் கடந்த வருடம் மூன்று பேர் இறப்பு ; 58 பேர் பாதிப்பு  -  காசநோய் கட்டுப்பாட்டு வைத்திய அதிகாரி
+### Three people died last year due to tuberculosis in Vavuniya;58 people vulnerable - tuberculosis control officer
 
 *2024-03-23 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179515) · `ta`
 
-காசநோயினால் வவுனியாவில் கடந்தவருடம் மூன்று பேர் உயிரிழந்துள்ளதுடன், 58 பேர் நோயாளர்களாக இனம் காணப்பட்டுள்ளதாக வவுனியா காசநோய் கட்டுப்பாட்டு வைத்திய அதிகாரி கே.சந்திரகுமார் தெரிவித்தார்.
+In Vavuniya, 3 died from tuberculosis last year, with 58 cases identified. Symptoms include cough, fever, diet, diminishing, and mucus. Tuberculosis can be diagnosed at public hospitals for free. It's curable with direct monitoring treatment for six months.
 
-வவுனியாவில் இன்று சனிக்கிழமை (23) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவித்த போதே அவர் இவ்வாறு தெரிவித்தார்.
+🟩
 
-இம்முறை “ஆம் எங்களால் காசநோயை முடிவுக்கு கொண்டுவர முடியும்” எனும் தொனிப்பொருளில் உலக காசநோய் தினம் மார்ச் 24 ஆம் திகதி நினைவுகூரப்படுகின்றது.
+Vavuniya Tuberculosis Control Medical Officer K. Chandrakumar said that three people died in Vavuniya last year due to tuberculosis.
 
-இருப்பினும் 4 ஆயிரம்பேர் வரை இனம் காணப்படாமல் இருக்கின்றனர். நாட்டில் இறப்பிற்கு காரணமானமூன்றாவது நோயாக இது காணப்படுகின்றது.
+He was speaking at a media briefing held in Vavuniya today (23).
 
-கடந்தவருடம் வவுனியா மாவட்டத்தில் 58 நோயாளர்கள் இனம்காணப்பட்டனர். அதில் மூன்றுபேர் உயிர் இழந்துள்ளனர்.
+World Tuberculosis Day is commemorated on March 24 under the theme "Yes we can end tuberculosis".
 
-தொடர்ச்சியாக இரு வாரங்களிற்கு மேற்ப்பட்ட இருமல் மாலைநேரத்தில் காய்ச்சல், உணவில் நாட்டம்இன்மை, உடல்நிறை குறைவடைதல், சளியுடன் ரெத்தம் வெளியேறல். இப்படியான அறிகுறிகள் தென்பட்டால் அது காசநோயாக இருக்கலாம்.
+However 4 thousand people are not race. It is the third disease of death in the country.
+
+58 patients were found in Vavuniya district last year. Three of them have died.
+
+In the evening, the evening's cough, fever, diet, diminishing, and mucus. If these symptoms are seen, it can be tuberculosis.
+
+If you have the above symptoms, you can find the disease by going to the nearest public hospitals and free of charge.
+
+The disease may be in the body without any symptoms. This pathogen can be avoided, especially for those who are already in touch with people who are infected, or people with chronic disease, immunity, kidney patients, and arthritis.
 
 ...
 
 [Data](articles/84987ffa.json)
 
+[Extended Data](ext_articles/84987ffa.ext.json)
+
 ---
 
-### முன்னாள் ஜனாதிபதி கோட்டாபய தனது நூலை மல்வத்து மற்றும் அஸ்கிரிய மகாநாயக்க தேரர்களுக்கு  வழங்கினார்
+### Former President Gotabhaya presented his book to Malwatu and Asgiriya Mahanayaka Thera
 
 *2024-03-23 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179511) · `ta`
 
-முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷ “ஜனாதிபதி பதவியில்‌ இருந்து என்னை வெளியேற்றியதன் சதி” என்ற தனது நூலை நேற்று (22) மல்வத்து மற்றும் அஸ்கிரிய பீட மகாநாயக்க தேரர்களிடம் வழங்கினார்.
+Gotabhaya Rajapaksa presented his book "Conspiracy to expel me from the presidency" to Malwatu and Asgiriya Mahanayaka Thera, after rituals at Sri Dalada House and blessings from Sri Siddhartha Sumangala Thera and Sri Gnanaradana at Malwathu Vihara and Asgiriya Maha Vihara, respectively.
 
-கோட்டாபய ராஜபக்ஷ ஸ்ரீ தலதா மாளிகைக்கு சென்று வழிபாடுகளை நிறைவேற்றிய பின்னர், தலதா மாளிகையின் தியவடன நிலமேவிடம் நூலின் பிரதியொன்றினை வழங்கியிருந்தார். அதனைத் தொடர்ந்து அன்றைய தினமே மல்வத்து விகாரைக்கு சென்று மஹாநாயக்கர் திப்பட்டுவாவே ஸ்ரீ சித்தார்த்த சுமங்கல தேரரின் ஆசீர்வாதத்தைப் பெற்றார்.
+🟩
 
-பின்னர், அஸ்கிரிய மகா விகாரைக்குச் சென்று நூலை வழங்கி  மகாநாயக்கர் வரகாகொட ஸ்ரீ ஞானரதனவின் ஆசீர்வாதங்களைப் பெற்ற கோட்டாபய ராஜபக்ஷ,  மகாநாயக்க தேரர்களுடன் தனிப்பட்ட கலந்துரையாடலிலும் ஈடுபட்டார்.
+Former President Gotabhaya Rajapakse presented his book, "Conspiracy to expel me from the presidency," yesterday (22).
+
+Gotabhaya Rajapaksa had given a copy of the book to the Diyadavana Nilame of the Dalada House after he went to the Sri Dalada House and fulfilled the rituals.. Subsequently, the day went to the Malwathu Vihara and received the blessing of Sri Siddhartha Sumangala Thera.
+
+Later, Gotabhaya Rajapaksa, who received the blessings of Sri Gnanaradana, who went to the Asgiriya Maha Vihara and gave the book a book, had a personal discussion with the Mahanayaka Thera.
 
 ◼️
 
 [Data](articles/7ab282d8.json)
+
+[Extended Data](ext_articles/7ab282d8.ext.json)
 
 ---
 
@@ -2255,23 +2299,5 @@ This partnership aims to enhance teaching quality and research efforts by effect
 [Data](articles/fa3da03f.json)
 
 [Extended Data](ext_articles/fa3da03f.ext.json)
-
----
-
-### People sovereignty and the Constitution: A different perspective
-
-*2024-03-22 23:31:36* · [`dailyftlk`](https://www.ft.lk/columns/People-sovereignty-and-the-Constitution-A-different-perspective/4-759835) · `en`
-
-People’s sovereignty has been stolen, taken away, and virtually installed in the hands of individual parties
-
-Chapter I of the Constitution specifies, the people, the state and sovereignty. It has several clauses and sub-clauses on how the three pillars: Executive, Legislator and Judiciary should function harmoniously and in compliance thus adhering to people’s sovereignty. However, the mandate given to both Executive and Legislator has been grossly violated undermining people’s power delegated to elected
-
-The recent two events, the online bill and the appointing of IGP, are good examples that led to controversies. The online bill was passed despite Supreme Court rulings and appointing the IGP by manipulation of vote counts of the Constitutional Council (CC) by the Speaker who is the chairman of CC, eligible for casting vote only in the event of equal “Yes” against “No”.
-
-...
-
-[Data](articles/fe48fc4c.json)
-
-[Extended Data](ext_articles/fe48fc4c.ext.json)
 
 ---

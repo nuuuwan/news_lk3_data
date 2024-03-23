@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 23:52:03**
+As of **2024-03-24 00:02:56**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,364
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,768 (100.0%) of 14,770 articles have been extended.
+14,770 (100.0%) of 14,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### ரஷ்ய தாக்குதலில் இலங்கையர்களுக்கு பாதிப்பா? இலங்கை கண்டனம்
+### Is Sri Lankans affect the Russian attack?Sri Lanka condemning
 
 *2024-03-23 23:29:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்ய-தாக்குதலில்-இலங்கையர்களுக்கு-பாதிப்பா-இலங்கை-கண்டனம்/50-335060) · `ta`
 
-ரஷ்ய தலைநகர் மொஸ்கோவின் புறநகர் பகுதியில் உள்ள அரங்கம் ஒன்றில் நடத்தப்பட்ட பயங்கரவாத தாக்குதலுக்கு இலங்கை கண்டனத்தை வெளியிட்டுள்ளது.
+Sri Lanka condemns the Moscow stadium attack, expressing readiness to cooperate with the international community against terrorism. No Sri Lankans were affected, and the embassy in Moscow has been advised to avoid public gatherings for 48 hours.
 
-'பொதுமக்களுக்கு எதிரான இத்தகைய வன்முறை வெறுக்கத்தக்கது. குறித்த தாக்குதலில் ஈடுபட்ட அனைவரும் தண்டிக்கப்பட வேண்டும். அமைதி மற்றும் பாதுகாப்பிற்கான பாரிய அச்சுறுத்தலை எதிர்கொள்ள சர்வதேச சமூகத்துடன் ஒத்துழைக்க தயாராக" உள்ளதாகவும் வெளிவிவகார அமைச்சு வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-அதேநேரம் ரஷ்யாவில் இடம்பெற்ற பயங்கரவாத தாக்குதலில் இலங்கையர்கள் எவரும் பாதிப்படையவில்லை என இலங்கை வெளிவிவகார அமைச்சு குறிப்பிட்டுள்ளது.
+Sri Lanka has condemned the terrorist attack on a stadium in the suburbs of the Russian capital Moscow.
 
-மொஸ்கோவிலுள்ள இலங்கையின் தூதரகம் இதனை தங்களுக்கு உறுதிபடுத்தியுள்ளதுடன், எதிர்வரும் 48 மணித்தியாலங்களில் பொது ஒன்றுகூடல்களை தவிர்க்குமாறும் அங்குள்ள இலங்கையர்களுக்கு அறிவுறுத்தப்பட்டுள்ளதாகவும் அந்த அமைச்சு தெரிவித்துள்ளது. R
+'Such violence against the public is disgusting. All those involved in the attack should be punished. In a statement issued by the Ministry of External Affairs, the Ministry of External Affairs said that it is ready to cooperate with the international community to face a massive threat to peace and security.
+
+At the same time, the Sri Lankan Foreign Ministry has stated that none of Sri Lankans have been affected by the terrorist attack in Russia.
+
+The Ministry said that the Sri Lankan embassy in Moscow has confirmed this and has been advised to avoid public gatherings in the next 48 hours.. Remble
 
 ◼️
 
 [Data](articles/2264a970.json)
+
+[Extended Data](ext_articles/2264a970.ext.json)
 
 ---
 
@@ -635,6 +641,8 @@ The Cabinet this week approved establishing a Faculty of Medicine at the Nationa
 ...
 
 [Data](articles/f9efad75.json)
+
+[Extended Data](ext_articles/f9efad75.ext.json)
 
 ---
 

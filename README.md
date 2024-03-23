@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 19:17:49**
+As of **2024-03-23 19:33:31**
 
 ## Newspaper Stats
 
-*Scraped **14,751** Articles*
+*Scraped **14,752** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 792
 economynextcom | 794
 islandlk | 805
 adalk | 1,262
-tamilmirrorlk | 1,771
+tamilmirrorlk | 1,772
 adaderanalk | 1,774
 virakesarilk | 2,074
 dailymirrorlk | 2,271
@@ -26,23 +26,45 @@ adaderanasinhalalk | 2,359
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,749 (100.0%) of 14,751 articles have been extended.
+14,751 (100.0%) of 14,752 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### குண்டுவெடிப்புக்கு மைத்திரி ஒத்துழைப்பு?? பிள்ளையான் சந்தேகம்
+### மைத்திரியிடம் விசாரிக்க உத்தரவு
+
+*2024-03-23 19:06:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியிடம்-விசாரிக்க-உத்தரவு/175-335054) · `ta`
+
+ஈஸ்டர் ஞாயிறு குண்டுத் தாக்குதல்கள் தொடர்பில் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன அண்மையில் வெளியிட்ட கருத்து தொடர்பில் உடனடியாக விசாரணை நடத்துமாறு பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனிடம் பொது பாதுகாப்பு அமைச்சர் திரான் அலஸ் உத்தரவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/fac0903a.json)
+
+---
+
+### Maithri cooperation for the blast ??The child is suspicious
 
 *2024-03-23 18:53:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/குண்டுவெடிப்புக்கு-மைத்திரி-ஒத்துழைப்பு-பிள்ளையான்-சந்தேகம்/73-335053) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திபால சிறிசேன உயிர்த்த ஞாயிறு குண்டுவெடிப்பிற்கு அவர்  ஒத்துழைப்பு வழங்கியிருக்கின்றாரா? என்ற சந்தேகம் எங்களுக்கு  உண்டு. எனவே அவர் துணிந்த  நேர்மையான அரசியல் தலைவராக இருந்தால் அவர் யார் என்பதை வெளிப்படையாக விரைவாக ஊடகங்களில் வெளிப்படுத்த வேண்டும் என்பது எனது கோரிக்கை என பிள்ளையான் என்றழைக்கப்படும் இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திரகாந்தன் தெரிவித்தார்.
+Sivanesathurai Chandrakanthan, Minister of State, questions Maithripala Sirisena's cooperation in the Easter Massacre case, demanding transparency. Sirisena claims survivors knew victims, but Chandrakanthan criticizes the handling of the case, suggesting a lack of leadership and transparency.
 
-மட்டக்களப்பில் இராஜாங்க அமைச்சர் சி.சந்திரகாந்தன் எழுதிய ஈஸ்டர் படுகொலை இனமத நல்லிணக்க அறிதலும் புரிதலும் எனும் வரலாற்று ஆய்வு நூல் வெளியீட்டு விழா இன்று சனிக்கிழமை (23) அஞ்சனா மண்டபத்தில் இடம்பெற்றது. இதன்  பின்னர் ஊடகங்களுக்கு கருத்து  தெரிவிக்கையில் அவர் இவ்வாறு தெரிவித்தார்.
+🟩
+
+Has he cooperated with former President Maithripala Sirisena's resurrection?We have doubts. So if he is a brave political leader, it is my demand that he is openly revealing in the media, ”said Sivanesathurai Chandrakanthan, the Minister of State, Sivanesathurai.
+
+The launch of the Historical Research Celebration of the Easter Massacre by Minister of State C. Chandrakanthan in Batticaloa was held at Anjana Hall on Saturday (23). He later said this to the media.
+
+Former President Maithripala Sirisena said in the media that the survivors were aware of the victims. Former President Maithripala Sirisena speaks like a normal man. He was the head of the country when the blast took place. The leader's responsibility must find and arrest and put them in front of the law.
+
+But he leaves it and now makes a confidential confession. So we have to be cut off that we have brought a funny man to the politics of this country.
 
 ...
 
 [Data](articles/65039cea.json)
+
+[Extended Data](ext_articles/65039cea.ext.json)
 
 ---
 
@@ -61,6 +83,8 @@ Opposition MPs Mano Ganesan and Kavinda Jayawardene today called for the immedia
 ◼️
 
 [Data](articles/8892ba18.json)
+
+[Extended Data](ext_articles/8892ba18.ext.json)
 
 ---
 
@@ -2313,31 +2337,5 @@ The chemotherapy treatment began in late February. The palace says it will not b
 [Data](articles/1c5ae461.json)
 
 [Extended Data](ext_articles/1c5ae461.ext.json)
-
----
-
-### Princess of Wales says she is undergoing cancer treatment
-
-*2024-03-23 00:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Princess-of-Wales-says-she-is-undergoing-cancer-treatment/108-279456) · `en`
-
-(BBC) - The Princess of Wales says she is in the early stages of treatment after cancer was found in tests.
-
-In a video statement, Catherine says it was a "huge shock" after an "incredibly tough couple of months".
-
-But she sent a positive message, saying: "I am well and getting stronger every day."
-
-Details of the cancer have not been disclosed, but Kensington Palace says it is confident the princess will make a full recovery.
-
-The princess's statement explains that when she had abdominal surgery in January, it was not known that there was any cancer.
-
-"However tests after the operation found cancer had been present. My medical team therefore advised that I should undergo a course of preventative chemotherapy and I am now in the early stages of that treatment," said the princess.
-
-The chemotherapy treatment began in late February. The palace says it will not be sharing any further private medical information, including the type of cancer.
-
-...
-
-[Data](articles/d8f33869.json)
-
-[Extended Data](ext_articles/d8f33869.ext.json)
 
 ---

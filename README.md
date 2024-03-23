@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 15:51:24**
+As of **2024-03-23 16:03:05**
 
 ## Newspaper Stats
 
-*Scraped **14,726** Articles*
+*Scraped **14,728** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 792
 economynextcom | 794
 islandlk | 805
 adalk | 1,261
-adaderanalk | 1,768
-tamilmirrorlk | 1,769
+adaderanalk | 1,769
+tamilmirrorlk | 1,770
 virakesarilk | 2,072
 dailymirrorlk | 2,267
 adaderanasinhalalk | 2,349
@@ -26,29 +26,77 @@ adaderanasinhalalk | 2,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,721 (100.0%) of 14,726 articles have been extended.
+14,726 (100.0%) of 14,728 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### கொழும்பில் இருந்து டாக்காவிற்கு நேரடி விமான சேவைகள் அடுத்த மாதம் ஆரம்பம்
+### Direct flights from Colombo to Dhaka will begin next month
 
 *2024-03-23 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179512) · `ta`
 
-ஏப்ரல் மாத்தத்தில் கொழும்பு மற்றும்  பங்களாதேஷ் தலைநகர் டாக்காவிற்கு இடையில்  நேரடி விமான சேவையை அறிமுகப்படுத்துவதில் மகிழ்ச்சியடைவதாக குறைந்த கட்டணத்தில் விமான சேவையை வழங்கும் ஃபிட்ஸ் ஏர் (FitsAir) நிறுவனம் தெரிவித்துள்ளது.
+FitsAir launches direct flights from Colombo to Dhaka on April 16, addressing demand for affordable travel between Sri Lanka and Bangladesh.
 
-இந்த விமான சேவையானது இலங்கைக்கும் பங்களாதேஷுக்கும் இடையில் மலிவு விலையிலான பயண விருப்பங்களுக்கான வளர்ந்து வரும் தேவையை நிவர்த்தி செய்யும் வகையில், பிராந்திய விமானப் போக்குவரத்தில் குறிப்பிடத்தக்க மைல்கல்லாக பிரதிபலிக்கிறது.
+🟩
 
-பங்களாதேஷின் வேகமாக விரிவடைந்துவரும் பொருளாதாரத்தின் வெளிச்சத்தில், இலங்கை வர்த்தகர்களிடமிருந்து ஆர்வத்தை ஈர்க்கும் வகையில், டாக்கா ஒரு பிரபலமான இடமாக உருவாகி வருகிறது.
+FitsAir, a low -cost airline, said it was happy to launch direct flights between Colombo and Bangladesh's capital Dhaka in April.
 
-இந்தப் போக்கை அங்கீகரித்து, வளர்ந்து வரும் இந்த சந்தையின் தேவைகளைப் பூர்த்தி செய்ய குறைந்த கட்டணத்தில், சரியான நேரத்தில் மற்றும் திறமையான விமான இணைப்பை வழங்குவதற்கு ஃபிட்ஸ் ஏர் உறுதிபூண்டுள்ளது.
+The airline reflects a significant milestone in regional air traffic to address the growing demand for affordable travel options between Sri Lanka and Bangladesh.
 
-இந்த விமான சேவை ஏப்ரல் மாதம் 16 ஆம் திகதி ஆரம்பிக்கப்படவுள்ளது. ஆரம்ப கட்டணமாக 74,600 ரூபாவாக அறவிடவுள்ளது.
+In the light of Bangladesh's fastest expanding economy, Dhaka is becoming a popular place to attract interest from Sri Lankan traders.
+
+Fitz Air is committed to providing a low -cost, timely and efficient air connection to meet the needs of this growing market, recognizing this trend.
+
+The airline is scheduled to commence on April 16. The initial fee will be charged at Rs 74,600.
+
+Fitsair is currently offering direct services from Colombo to Dubai, Mali and Chennai.
+
+You can visit the Fitz Lake www.fitsair.com to get more information. In addition, (+94) 117 940 940 can be contacted by the WhatsApp on the number (+94) 777 811 118.
+
+◼️
+
+[Data](articles/8ab9e2ed.json)
+
+[Extended Data](ext_articles/8ab9e2ed.ext.json)
+
+---
+
+### ராமேஸ்வரம் மீனவர்களை விடுதலை செய்ய கோரி வேலை நிறுத்தம்
+
+*2024-03-23 15:28:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமேஸ்வரம்-மீனவர்களை-விடுதலை-செய்ய-கோரி-வேலை-நிறுத்தம்/175-335051) · `ta`
+
+இலங்கைச் சிறையில் உள்ள ராமேஸ்வரம் மீனவர்கள் 37 பேரை உடனடியாக விடுதலை செய்யக் கோரி இன்று(23) முதல் ராமேஸ்வரம் மீனவர்கள் தொடர் வேலை நிறுத்த போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+
+மேலும் மீனவர்களை படகுடன் விடுதலை செய்யாவிட்டால் வரும் மக்களவைத் தேர்தலை புறக்கணிக்க போவதாகவும் மீனவர்கள் தீர்மானம் நிறைவேற்றி உள்ளனர்.
+
+ராமேஸ்வரம் மீன் பிடித்து துறைமுகத்தில் இருந்து கடந்த புதன் கிழமை மீன் பிடிக்க சென்று இலங்கை கடற்படையால் எல்லை தாண்டி மீன் பிடித்ததாக ஐந்து படகையும் அதிலிருந்த 32 மீனவர்கள் கைது செய்யப்பட்டு யாழ்ப்பாணம் சிறையில்  அடைக்கப்பட்டுள்ளனர்.
+
+மேலும் கடந்த பிப்ரவரி மாதம் 16ஆம் தேதி மீன்பிடிக்க  சென்று இலங்கை கடற்படையால் கைது செய்யப்பட்டு சிறையில் உள்ள விசைப்படையின் ஓட்டுநர்கள் ஐந்து பேர் உட்பட 37 மீனவர்களை உடனடியாக விடுதலை செய்ய வலியுறுத்தி ராமேஸ்வரம் மீனவர்கள் இன்று(23) முதல் தொடர் வேலை நிறுத்த போராட்டத்தை தொடங்கியுள்ளனர்.
+
+மேலும் வரும் 8ந் தேதி ராமேஸ்வரம் வட்டாட்சியர் அலுவலகத்தில் மீனவர்கள் தங்களது வாக்காளர் அடையாள அட்டை மற்றும் ஆதார் அட்டை உள்ளிட்டவற்றை ஒப்படைத்து போராட்டம் நடத்த உள்ளனர்.
 
 ...
 
-[Data](articles/8ab9e2ed.json)
+[Data](articles/0211dedf.json)
+
+---
+
+### Russia concert hall attack: Suspected gunmen arrested, death toll rises to 93
+
+*2024-03-23 15:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98152/russia-concert-hall-attack-suspected-gunmen-arrested-death-toll-rises-to-93) · `en`
+
+Russia has arrested 11 people including four suspected gunmen in connection with a shooting rampage that killed 93 people in a concert hall near Moscow, the Kremlin said on Saturday.
+
+It said FSB security service chief Alexander Bortnikov had reported to President Vladimir Putin that those detained included “four terrorists” and that the service was working to identify their accomplices.
+
+Russia’s Investigative Committee said the death toll had leapt to 93 from the attack in which camouflage-clad gunmen opened fire with automatic weapons at concertgoers near the capital on Friday. It said some died from gunshot wounds and others in a huge fire that broke out in the complex.
+
+Interfax quoted the FSB security service as saying the four suspected gunmen had been arrested while heading to the Ukrainian border, and that they had contacts in Ukraine. It said they were being transferred to Moscow.
+
+...
+
+[Data](articles/bc1c34d2.json)
 
 ---
 
@@ -67,6 +115,8 @@ Interfax quoted the FSB security service as saying the four suspected gunmen had
 ...
 
 [Data](articles/cb572b9c.json)
+
+[Extended Data](ext_articles/cb572b9c.ext.json)
 
 ---
 
@@ -132,23 +182,29 @@ Opposition MPs Mano Ganesan and Kavinda Jayawardena today demanded that former P
 
 ---
 
-### මොස්කව් ප්‍රහාරය ලංකාව හෙළා දකියි
+### Sri Lanka condemns Moscow attack
 
 *2024-03-23 14:35:31* · [`adalk`](https://www.ada.lk/breaking_news/මොස්කව්-ප්‍රහාරය-ලංකාව-හෙළා-දකියි/11-408765) · `si`
 
-රුසියාවේ මොස්කව් නුවර ක්‍රොකස් සිටි සාප්පු මධ්‍යස්ථායේදී සිවිල් වැසියන්ගේ ජීවිත හානි හා තුවාල සිදු කරමින් සිදු වූ බිහිසුණු ත්‍රස්ත ප්‍රහාරය ශ්‍රී ලංකාව තරයේ හෙළා දකින බව විදේශ කටයුතු අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසයි.
+Sri Lanka condemns the Moscow attack, deploring home violence against civilians. The Ministry of External Affairs expresses solidarity with the Russian Federation, calling for global condemnation of terrorism and collaboration for peace and security.
 
-එසේම සිවිල් වැසියන්ට එරෙහි මෙවැනි නිවට ප්‍රචණ්ඩ ක්‍රියා පිළිකුල් සහගත බවත් ශිෂ්ට සමාජය තුළ ඒවාට ඉඩක් නොමැති බවත් විදේශ කටයුතු අමාත්‍යාංශය නිකුත් කළ නිවේදනයේ සඳහන් වෙයි.
+🟩
 
-ශ්‍රී ලංකා රජය සහ ජනතාව විපතට පත් වූවන්ගේ පවුල්වලට සහ රුසියානු සමූහාණ්ඩුවේ රජයට  මේ අවස්ථාවේදී හෘදයාගම ශෝකය ප්‍රකාශය බවද විදේශ කටයුතු අමාත්‍යාංශය පවසයි.
+The Ministry of External Affairs says Sri Lanka is strongly condemned at the Crocus City Shop Center in Moscow, Russia.
 
-ත්‍රස්තවාදය එහි සියලු ආකාරවලින් සහ ප්‍රකාශනයන්ගෙන් පැහැදිලිවම හෙළා දැකිය යුතු අතර මුලිනුපුටා දැමිය යුතු බවත් ත්‍රස්තවාදයට එරෙහි ගෝලීය සටන සඳහා ශ්‍රී ලංකාව සිය කැපවීම යලි තහවුරු කරන අතර සාමයට සහ ආරක්ෂාවට ඇති මෙම බරපතල තර්ජනයට මුහුණ දීම සඳහා ජාත්‍යන්තර ප්‍රජාව සමඟ සහයෝගයෙන් කටයුතු කිරීමට සූදානමින් සිටින බවද විදේශ කටයුතු අමාත්‍යාශය පවසයි.
+The Announcement issued by the Ministry of External Affairs states that such home violence is disgusting against civilians.
 
-තුවාල ලැබූ සියලුම දෙනාට ඉක්මන් සුවය ප්‍රාර්ථනා කරන බව විදේශ කටයුතු අමාත්‍යාංශය වැඩිදුරටත් පවසයි.
+The Ministry of External Affairs says that the Government of Sri Lanka and the people of the people of the affected people and the government of the Russian Federation.
+
+Ministry of External Affairs of the Ministry of External Tourism to ensure that terrorism should be clearly condemned by all its ways and publications and to collaborate with the international community to collaborate with peace and security.says.
+
+The Ministry of External Affairs further states that all the injured are a speedy recovery.
 
 ◼️
 
 [Data](articles/b5b8d5af.json)
+
+[Extended Data](ext_articles/b5b8d5af.ext.json)
 
 ---
 
@@ -210,19 +266,25 @@ The injured are young children and the Russian Foreign Ministry said.
 
 ---
 
-### මොස්කව් ප්‍රහාරයෙන් 93ක් මරුට - සැකකරුවන් 4ක් අල්ලයි
+### Muscil attack 93 killed - 4 suspects arrested
 
 *2024-03-23 14:23:41* · [`adalk`](https://www.ada.lk/breaking_news/මොස්කව්-ප්‍රහාරයෙන්-93ක්-මරුට---සැකකරුවන්-4ක්-අල්ලයි/11-408764) · `si`
 
-රුසියාවේ මොස්කව් නුවර රඟහලකට එල්ල වූ අයි.එස්.අයි.එස්. ප්‍රහාරයෙන් ජීවිතක්ෂයට පත්වූ සංඛ්‍යාව 93ක් දක්වා ඉහළ ගොස් ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+Muscil attack in Moscow kills 93, 4 suspects arrested. US informed Russia.
 
-එසේම ප්‍රහාරයට සැකපිට මේ වන විට පුද්ගලයන් 11ක් අත්අඩංගුවට ගෙන ඇති අතර එයින් සිව් දෙනෙකු ප්‍රහාරයට සෘජුවම සම්බන්ධ බව රුසියාව තහවුරු කර තිබේ.
+🟩
 
-මෙවැනි ප්‍රහාරයක් එල්ල විය හැකි රුසියාවට ඇමෙරිකාව විසින් දන්වා තිබුණ බව ධවල මන්දිරය ප්‍රකාශ කරන අතර ප්‍රහාරයට තම රටේ කිසිම සම්බන්ධයක් නොමැති බව රුසියාව සමග මේ වන විට යුද වැදී සිටින යුක්රේනය පවසයි.
+ISIS to a Moscow in Moscow, Russia. International media reports say that the number of people killed in the attack has risen to 93.
+
+The attack has also been arrested on suspicion of the attack and four of them have been directly involved in the attack.
+
+The White House says that the US has informed Russia that he may have been informed.
 
 ◼️
 
 [Data](articles/31f8e886.json)
+
+[Extended Data](ext_articles/31f8e886.ext.json)
 
 ---
 
@@ -1150,23 +1212,29 @@ Police said the driver of the lorry was also injured in the crash.
 
 ---
 
-### රුසියාවේ මොස්කව් නගරයේ වෙඩි ප්‍රහාරයක් 40ක් මරුට
+### 40 killed in Moscow in Moscow, Russia
 
 *2024-03-23 07:59:08* · [`adalk`](https://www.ada.lk/breaking_news/රුසියාවේ-මොස්කව්-නගරයේ-වෙඩි-ප්‍රහාරයක්-40ක්-මරුට/11-408763) · `si`
 
-රුසියාවේ මොස්කව් නගරයේ රංග ශාලාවකට කඩා වැඳුණු ත්‍රස්ත කල්ලියක් විසින් අද (23) අලුයම වෙඩි ප්‍රහාර මාලාවක් එල්ල කර තිබේ.
+In Moscow, Russia, a terrorist attack resulted in 40 deaths. The incident occurred during a dance tournament.
 
-පස් දෙනෙකුගෙන් යුත් කණ්ඩායමක් පැමින මෙම වෙඩි ප්‍රහාරය එල්ල කර ඇති අතර, ප්‍රහාරයෙන් ආසන්න වශයෙන් පුද්ගලයින් 40ක් පමණ මියගොස් 100කට වැඩි පිරිසක් තුවාල ලබා ඇති බව රුසියානු මාධ්‍ය වාර්තා කර තිවේ.
+🟩
 
-කෙසේ වෙතත් ත්‍රස්තවාදීන් කවුරුන්ද යන්න පිළිබඳව මේ දක්වා තොරතුරු වාර්තා කර නොමැත.
+A terrorist group has been shot dead by a terrorist group today (23).
 
-ප්‍රවෘත්ති ඒජන්සි පැවසුවේ, ගිලන්රථ සමඟ 70කගෙන් සමන්විත කාර්ය මණ්ඩලයක් සිද්ධිය සිදු වූ ස්ථානයට මේ වනවිට යවා තිබෙන බවයි.
+The Russian media has reported that approximately 40 people were killed and more than 100 people were killed and more than 100 people were killed and more than 40 people were killed.
 
-මෙම එම ප්‍රහාරය එල්ලවන අවස්ථාවේ එහි නර්තන තරගාවලියක් පැවැත්වෙමින් තිබූ බව සඳහන්
+However, the terrorists have not been reported to date.
+
+News Agencies said the 70-owned staff had been sent to the scene of the incident.
+
+It is said that a dance tournament was held at the time of the attack.
 
 ◼️
 
 [Data](articles/bc2d79dc.json)
+
+[Extended Data](ext_articles/bc2d79dc.ext.json)
 
 ---
 
@@ -2165,39 +2233,5 @@ As the President of the Union of Parliament, Sudarshini Fernandopulle, the Presi
 [Data](articles/27a65f79.json)
 
 [Extended Data](ext_articles/27a65f79.ext.json)
-
----
-
-### Indictment served on eight accused in X-Press Pearl case
-
-*2024-03-22 21:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indictment-served-on-eight-accused-in-X-Press-Pearl-case/108-279426) · `en`
-
-Colombo, Macrh 22 (Daily Mirror) -  The Colombo High Court today served an indictment on eight accused including the Captain of the fire-ravaged container ship MV X-Press Pearl for causing damage to the country's oceanic environment.
-
-The indictment was served on the accused after the High Court and Court of Appeal dismissed the preliminary objections raised by the accused against the indictment.
-
-The eight accused had filed revision applications in the Court of Appeal challenging the Colombo High Court's decision to reject their preliminary objections against the charges. The Court of Appeal decided to dismiss the revision application without the notices being issued to the Attorney General.
-
-The Attorney General filed the indictment against eight accused in the Colombo High Court, charging them on eight counts in terms of section 26(a) of the Marine Pollution Prevention Act No. 35 of 2008.
-
-...
-
-[Data](articles/a48e70df.json)
-
-[Extended Data](ext_articles/a48e70df.ext.json)
-
----
-
-### Stamps, coins exhibition...
-
-*2024-03-22 21:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Stamps-coins-exhibition/110-279402) · `en`
-
-An exhibition of vintage stamps organized by Sri Lanka Independent Philatelic Association was launched today (22) at the Public Library in Colombo. Several rare stamps and other vintage coins are exhibited and sold at this exhibition, which will be held till Saturday (23). Pix by Kushan Pathiraja
-
-◼️
-
-[Data](articles/efd2485c.json)
-
-[Extended Data](ext_articles/efd2485c.ext.json)
 
 ---

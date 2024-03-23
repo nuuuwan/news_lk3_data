@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 14:03:20**
+As of **2024-03-23 14:17:49**
 
 ## Newspaper Stats
 
-*Scraped **14,712** Articles*
+*Scraped **14,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 1,764
 tamilmirrorlk | 1,768
 virakesarilk | 2,071
 dailymirrorlk | 2,265
-adaderanasinhalalk | 2,347
+adaderanasinhalalk | 2,348
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,712 (100.0%) of 14,712 articles have been extended.
+14,712 (100.0%) of 14,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### බංග්ලාදේශ පළමු ඉනිම ලකුණු 188කට සීමා වෙයි
+
+*2024-03-23 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194844) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර පැවැත්වෙන පළමු ටෙස්ට් තරගයේ දෙවන දිනය අදයි (23).
+
+තරගයේ පළමු ඉනිම සඳහා පන්දුවට පහරදෙමින් සිටි බංග්ලාදේශ කණ්ඩායම සියලුදෙනා දැවී ලබාගත්තේ ලකුණු 188ක් පමණි.
+
+පන්දු යැවීමේදී විශ්ව ප්‍රනාන්දු කඩුලු 4ක්, ලහිරු කුමාර සහ කසුන් රාජිත කඩුලු 03 බැගින් බිඳ හෙළීය.
+
+ඒ අනුව බංග්ලාදේශ කණ්ඩායම ශ්‍රී ලංකා පළමු ඉනිමට වඩා ලකුණු 92ක් පිටුපසින් පසුවෙයි.
+
+◼️
+
+[Data](articles/4661a6ab.json)
+
+---
 
 ### Venezuelan national arrested at BIA with suspected cocaine capsules
 
@@ -2187,19 +2205,5 @@ There were no immediate reports of further damage following the latest quake.
 [Data](articles/771a0f5d.json)
 
 [Extended Data](ext_articles/771a0f5d.ext.json)
-
----
-
-### Sri Lanka’s first Prime Minister remembered
-
-*2024-03-22 19:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sri-Lankas-first-Prime-Minister-remembered/110-279408) · `en`
-
-A ceremony was held at Independence Square to mark the 72nd death anniversary of Sri Lanka’s first Prime Minister, the late D. S. Senanayake, today. UNP Deputy Leader and Presidential Advisor Ruwan Wijewardene, Former Speaker Karu Jayasuriya, Venerable Dr. Bandarawela Wimaladharma Thera, university dons, and school children participated in the ceremony. Mr. Wijewardene is seen garlanding the statue of Late Prime Minister during the ceremony. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/1f2f83e0.json)
-
-[Extended Data](ext_articles/1f2f83e0.ext.json)
 
 ---

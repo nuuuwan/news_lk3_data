@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 21:52:07**
+As of **2024-03-23 22:03:34**
 
 ## Newspaper Stats
 
-*Scraped **14,762** Articles*
+*Scraped **14,764** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 794
 islandlk | 805
 adalk | 1,262
 tamilmirrorlk | 1,773
-adaderanalk | 1,776
+adaderanalk | 1,777
 virakesarilk | 2,074
 dailymirrorlk | 2,274
-adaderanasinhalalk | 2,363
+adaderanasinhalalk | 2,364
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,762 (100.0%) of 14,762 articles have been extended.
+14,762 (100.0%) of 14,764 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### අනුමැතියකින් තොරව ගෙවූ ප්‍රසාද දීමනා ගැන අනාවරණයක්
+
+*2024-03-23 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194862) · `si`
+
+ශ්‍රී ලංකා ආයෝජන මණ්ඩලය සේවකයින්ට ප්‍රසාද දීමනා ඇතුළු විවිධ දීමනා ගෙවීමේදී මහා භාණ්ඩාගාරයේ අනුමැතියකින් තොරව මුදල් වැයකර ඇති බවට තොරතුරු අනාවරණය වී තිබේ.
+
+2022 වර්ෂයට අදාළ ජාතික විගණන කාර්යාලය නිකුත් කළ වාර්තාවක ඒ බව සඳහන් වෙයි.
+
+ඒ අනුව අදාළ වර්ෂයේදී මහා භාණ්ඩාගාරයේ අනුමැතියකින් තොරව ශ්‍රී ලංකා ආයෝජන මණ්ඩලය සේවකයින්ට ප්‍රසාද දීමනා ඇතුළු විවිධ දීමනා සඳහා රුපියල් කෝටි 61කට ආසන්න මුදලක් වැය කර ඇති බව ජාතික විගණන කාර්යාලය සඳහන් කර ඇත.
+
+ප්‍රසාද දීමනා ගෙවීම සඳහා රුපියල් කෝටි 07කට ආසන්න මුදලක් සහ වෙනත් දීමනා සඳහා රුපියල් කෝටි 54කට වැඩි මුදලක් වැය කර ඇති බව එම විගණන වාර්තාව මගින් පෙන්වා දී තිබේ.
+
+කෙසේවෙතත් මේ සම්බන්ධයෙන් ආයෝජන මණ්ඩල පාලනාධිකාරිය පවසා ඇත්තේ ඉහත දීමනා සම්බන්ධයෙන් මහා භාණ්ඩාගාරයෙන් අනුමැතිය ඉල්ලු බවය.
+
+එමෙන්ම අදාළ වර්ෂයේදී මුදල් රාජ්‍ය අමාත්‍යවරයා, ආයෝජන ප්‍රවර්ධන රාජ්‍ය  අමාත්‍යවරයා සහ අනෙකුත් නිලධාරීන්ගේ සහභාගීත්වයෙන් සාකච්ඡාවක් පැවැත්වු අවස්ථාවේ දී ආයෝජන මණ්ඩලයේ දීමනා සහ සේවක ප්‍රතිලාභ ගෙවීම් සම්බන්ධයෙන් කැබිනට් අනුමැතිය ලබා ගත යුතු බව යෝජනාවී ඇති බව සඳහන්ය.
+
+◼️
+
+[Data](articles/0b9b78d0.json)
+
+---
+
+### Amid controversy, Maithripala clarifies basis of remarks on Easter attacks’ masterminds
+
+*2024-03-23 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98159/amid-controversy-maithripala-clarifies-basis-of-remarks-on-easter-attacks-masterminds) · `en`
+
+Former President Maithripala Sirisena, who landed himself in hot water after claiming that he was aware of the ‘real perpetrators’ of the Easter Sunday bomb attacks, now says his remarks were based on some information he had received three weeks ago.
+
+The ex-President stated this in response to the allegations leveled against him, following the controversial statement he made on Friday that he has knowledge of the true mastermind of the 2019 Easter Sunday terror attacks and that he was prepared to disclose the information to the judiciary if inquired from him or an order is issued regarding the matter.
+
+“I made that statement yesterday based on information I received three weeks ago regarding the Easter attacks. I am prepared to testify confidentially if ordered by a court”, he said.
+
+...
+
+[Data](articles/c48c9a07.json)
+
+---
 
 ### Toys of our world exported worldwide
 
@@ -2307,53 +2345,5 @@ Colombo, March 23 (Daily Mirror) - A General Election will be held if the member
 [Data](articles/5f4dbc38.json)
 
 [Extended Data](ext_articles/5f4dbc38.ext.json)
-
----
-
-### Sri Lankan driver's license
-
-*2024-03-23 04:36:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டவர்க்கு-இலங்கை-சாரதி-அனுமதிப்பத்திரம்/175-335042) · `ta`
-
-From April 15, foreigners in Sri Lanka can apply for a driver's license at the airport, thanks to arrangements by the Department of Immigration, Air Transport Services Authority, and Ministry of Tourism.
-
-🟩
-
-Transport Minister Lasantha Alagavanna said that the foreigners who are seeking a driver's license in Sri Lanka will be made available to the driver's license as they leave the airport from April 15.
-
-He said this at a press conference held at the Presidential Media Center yesterday. He further stated that
-
-The Department of Immigration, the Air Transport Services Authority and the Ministry of Tourism have made all necessary arrangements to apply at the airport from April 15 to foreigners who wish to obtain a driver's license in Sri Lanka.. (A)
-
-◼️
-
-[Data](articles/a3a1e955.json)
-
-[Extended Data](ext_articles/a3a1e955.ext.json)
-
----
-
-### Funds for paddy purchasing
-
-*2024-03-23 04:33:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்-கொள்வனவிற்காக-நிதி-ஒதுக்கீடு/175-335041) · `ta`
-
-The Paddy Marketing Authority received 1000 million rupees for paddy purchases, with 500 million from the Treasury and 500 million from the Farmers' Trust Fund. Two district warehouses opened for agricultural purchases. In five days, 9.42 million kg of paddy was bought, costing 95 million rupees, with 241 fields in 7 zones placed in the mother's position.
-
-🟩
-
-The Paddy Marketing Authority said that 1000 million rupees has been received for the purchase of paddy.
-
-500 million rupees from the Treasury and 500 million rupees from the Farmers' Trust Fund, the Authority said.
-
-Two warehouses have been opened in each district for agricultural purchases for the majority of paddy
-
-In the last five days, the Paddy Marketing Board has purchased 9 lakhs 4 thousand 202 kg of paddy.
-
-For this purpose, the Paddy Marketing Authority said that 95 million rupees had been spent and 241 paddy fields in 7 zones had been placed in the mother's position.. (A)
-
-◼️
-
-[Data](articles/e4b865ac.json)
-
-[Extended Data](ext_articles/e4b865ac.ext.json)
 
 ---

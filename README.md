@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 14:49:56**
+As of **2024-03-23 15:03:05**
 
 ## Newspaper Stats
 
-*Scraped **14,716** Articles*
+*Scraped **14,718** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 134
+colombotelegraphcom | 135
 bbccomsinhala | 161
 dbsjeyarajcom | 190
 newsfirstlk | 363
@@ -16,7 +16,7 @@ dailyftlk | 792
 economynextcom | 794
 islandlk | 805
 adalk | 1,258
-adaderanalk | 1,764
+adaderanalk | 1,765
 tamilmirrorlk | 1,768
 virakesarilk | 2,071
 dailymirrorlk | 2,267
@@ -26,33 +26,65 @@ adaderanasinhalalk | 2,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,715 (100.0%) of 14,716 articles have been extended.
+14,716 (100.0%) of 14,718 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### රුසියානු ප්‍රහාරයේ සැකකරුවන් 11ක් අත්අඩංගුවට
+### Sri Lanka unequivocally condemns terrorist attack in Moscow
+
+*2024-03-23 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98149/sri-lanka-unequivocally-condemns-terrorist-attack-in-moscow) · `en`
+
+Sri Lanka has strongly condemned the dastardly terrorist attack which occurred at the Crocus City shopping center in Moscow, Russia on Friday (22), causing tragic loss of civilian lives and injury, the Ministry of Foreign Affairs said.
+
+Issuing a statement, the Foreign Ministry stated that such cowardly acts of violence against civilians are abhorrent and have no place in civilized society.
+
+Furthermore, it mentioned that the government and the people of Sri Lanka extend their heartfelt condolences to the families of the victims, the people and the government of the Russian Federation at this time of grief.
+
+“Terrorism in all its forms and manifestations must be unequivocally condemned and eradicated. Sri Lanka reaffirms its commitment to the global fight against terrorism and stands ready to collaborate with the international community to address this grave threat to peace and security”, the Foreign Ministry said.
+
+◼️
+
+[Data](articles/8ec1693d.json)
+
+---
+
+### 11 suspects arrested in Russia
 
 *2024-03-23 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194846) · `si`
 
-රුසියාවේ මොස්කව්හි අගනුවර ආසන්නයේ පිහිටි රඟහලකට එල්ලවූ ත්‍රස්ත ප්‍රහාරය සම්බන්ධයෙන් ප්‍රධාන සැකකරුන් සිව්දෙනා ඇතුළුව සැකකරුන් 11 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව එරට මාධ්‍ය වාර්තා කර තිබේ.
+11 suspects arrested in Russia for a theater attack in Moscow, with over 100 casualties. Russian gov't offers 1M rupees for injured. Attackers in four-dressed, shot grenades during a musical show. The theater, with 6,200 seats, was full. A fire broke out post-attack.
 
-ප්‍රහාරය හේතුවෙන් මියගිය සංඛ්‍යාව මේ වන විට 93 දක්වා ඉහළ ගොස් ඇති බව සඳහන් වන අතර තුවාලකරුවන් ගණන 100 ඉක්මවා තිබේ.
+🟩
 
-මේ අතර, රුසියානු රජය පවසා ඇත්තේ ප්‍රහාරයෙන් මියගිය අයෙකුගේ ඥාතීන්ට එරට මුදලින් රුබල් මිලියන 3ක් සහ තුවාල ලැබූ පිරිස සඳහා එක් අයෙක් වෙනුවෙන් රුබල් මිලියනයක් ලබාදීමට කටයුතු කරන බවය.
+The four suspects have been arrested, including the four major suspects on the theater of the Moscow, Russia's capital.
 
-විදෙස් වාර්තා සඳහන් කළේ ප්‍රහාරයේ වගකීම අයි.එස්. සංවිධානය විසින් බාරගෙන ඇති බවය.
+The number of people died due to the attack, and the number of wound has exceeded 100.
 
-මෙම ප්‍රහාරය සිදු වුයේ රුසියාවේ මොස්කව්හි අගනුවර ආසන්නයේ  ක්‍රස්නොගෝර්ස්ක්හි පිහිටි රංග ශාලාවකදීය.
+Meanwhile, the Russian government has said that the relatives of the attack will be given a million rupees for a million rupees for the injured.
 
-විදෙස් වාර්තා සඳහන් කළේ හමුදා සාමාජිකයින් ට සමාන ඇඳුමින් සැරසුණු ප්‍රහාරකයින් සිව්දෙනෙකු ප්‍රසංගයක් පැවති අදාළ ගොඩනැගිල්ලට කඩා වැදී වෙඩි තබා, අත්බෝම්බ ප්‍රහාරයක් එල්ල කර ඇති බවය.
+Foreign Reports said the responsibility of the attack. The organization has been submitted.
 
-වෙඩි තැබීම සිදුකර තිබුණේ රොක් සංගීත කණ්ඩායමක් පවත්වන සංගීත සංදර්ශනයක් ආරම්භ වීමට මොහොතක් තිබියදීය.
+The attack took place at a theater in Kzanogorsk near Moscow, Russia.
+
+Foreign Vasistes have said that four-dressed attackers have collapsed and shooting a grenade attack.
+
+The shooting was held at a time when a rock band musical show.
+
+The band had taken place a few minutes before the platform and the band was reportedly damaged.
+
+The Theater, which has 6,200 seats, was full of people by the time.
+
+With the attack, a fire broke out at the concert-held hall.
+
+The injured are young children and the Russian Foreign Ministry said.
 
 ...
 
 [Data](articles/dfcce225.json)
+
+[Extended Data](ext_articles/dfcce225.ext.json)
 
 ---
 
@@ -875,6 +907,18 @@ Addressing a press briefing titled “Collective Path to a Stable Country” hel
 [Data](articles/615a3e3c.json)
 
 [Extended Data](ext_articles/615a3e3c.ext.json)
+
+---
+
+### Mr. President, You Plan To Rapidly Transform The Country Into An Export Economy By Passing Two New Laws In April 2024?
+
+*2024-03-23 08:44:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/mr-president-you-plan-to-rapidly-transform-the-country-into-an-export-economy-by-passing-two-new-laws-in-april-2024/) · `en`
+
+The Presidential Media Division and the Daily News released press releases and media news items titled “Country set for rapid transformation into an export economy” quoting remarks made by you at the inauguration ceremony of a historic temple in Kegalle[i]. As a caring citizen I said, “three cheers”, happily thinking that at last, the Country was on the correct governance path focusing on the creation of new strategic leadership options and policy changes to encourage present and new investors to produce tradable goods and engage in external services. I was delighted that the statement began with a reference that Sri Lanka can no longer continue to rely on borrowings (presumably external?) to address the imbalance between imports and exports, which if pursued will inevitably lead to another economic crisis within a decade.
+
+...
+
+[Data](articles/05507519.json)
 
 ---
 
@@ -2173,37 +2217,5 @@ However, the rainy condition of the rainy condition can develop a warm state, th
 [Data](articles/8996b71b.json)
 
 [Extended Data](ext_articles/8996b71b.ext.json)
-
----
-
-### Pan Asia Bank powers ‘Dear Father’
-
-*2024-03-22 20:06:00* · [`islandlk`](http://island.lk/pan-asia-bank-powers-dear-father/) · `en`
-
-As the world celebrated International Women’s Day on 8th March 2024, Pan Asia Bank was pleased to support a national level initiative called ‘Dear Father’, initiated by the Department of Samurdhi Development, Rotary Club of Colombo Uptown and Women’s International Foundation (WIF), promoting meaningful engagement, financial literacy in advancing social empowerment of men, and gender equality and women’s empowerment. The program promoted and facilitated the active participation of fathers while highlighting their crucial role in championing women’s holistic empowerment and accelerating their progress.
-
-...
-
-[Data](articles/3ec56f9b.json)
-
-[Extended Data](ext_articles/3ec56f9b.ext.json)
-
----
-
-### Hayleys Solar powers historic 90th ‘Battle of the Saints’ and 50th Limited Over Encounter
-
-*2024-03-22 20:06:00* · [`islandlk`](http://island.lk/hayleys-solar-powers-historic-90th-battle-of-the-saints-and-50th-limited-over-encounter/) · `en`
-
-Hayleys Solar, a leading provider of solar energy solutions in Sri Lanka, is proud to announce its role as the Platinum Sponsor of the historic 90th ‘Battle of the Saints’ and the 50th Joe-Pete Limited Over Encounter. This prestigious event between St. Joseph’s College and St. Peter’s College, Colombo marks a significant milestone in Sri Lanka’s schools’ cricketing history.
-
-The two-day cricket encounter, known for its exhilarating and competitive spirit, will be held at the prestigious Singhalese Sports Club (SSC) grounds on March 22nd and 23rd, 2024 for the ‘Battle of the Saints’, and April 6th, 2024 for the limited-over encounter.
-
-“Hayleys Solar is committed to supporting the development of sports in Sri Lanka, particularly at the school level. This event is a testament to the rich cricketing tradition of Sri Lanka, and we are proud to play a role in its continued success”, said Roshane Perera, Executive Director and CEO of Hayleys Solar.
-
-...
-
-[Data](articles/6472f613.json)
-
-[Extended Data](ext_articles/6472f613.ext.json)
 
 ---

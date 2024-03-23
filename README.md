@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 16:48:02**
+As of **2024-03-23 17:03:04**
 
 ## Newspaper Stats
 
-*Scraped **14,735** Articles*
+*Scraped **14,739** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ dailyftlk | 792
 economynextcom | 794
 islandlk | 805
 adalk | 1,261
-adaderanalk | 1,769
+adaderanalk | 1,770
 tamilmirrorlk | 1,770
-virakesarilk | 2,072
+virakesarilk | 2,074
 dailymirrorlk | 2,270
-adaderanasinhalalk | 2,353
+adaderanasinhalalk | 2,354
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,732 (100.0%) of 14,735 articles have been extended.
+14,735 (100.0%) of 14,739 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### SJB files complaint against Maithripala’s claims on ‘real masterminds’ behind Easter attacks
+
+*2024-03-23 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98153/sjb-files-complaint-against-maithripalas-claims-on-real-masterminds-behind-easter-attacks) · `en`
+
+The Samagi Jana Balawegaya (SJB) Parliamentarian Kavinda Jayawardena has lodged a complaint with the Criminal Investigation Department (CID) today (23), seeking an expeditious investigation into former President Maithripala Sirisena’s controversial remarks regarding the Easter Sunday terror attacks.
+
+Speaking to the media while leaving the CID premises, the MP stated that an impartial investigation must be launched into the statement made by the former President following his arrest.
+
+“This is not a matter to be kept secret. The people of the country must get to know this”, he added.
+
+On Friday (22), Former President Maithripala Sirisena claimed he was aware of the true mastermind of the 2019 Easter Sunday terror attacks and that he was prepared to disclose the information to the judiciary if inquired from him or issues an order regarding the matter.
+
+...
+
+[Data](articles/0b94191f.json)
+
+---
+
+### අදත් පස්වරුවේ මහ වැස්සක්
+
+*2024-03-23 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194851) · `si`
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් ඉදිරි පැය 36ක කාලය සඳහා කාලගුණ අනාවැකිය අද (23) පස්වරු 4ට නිකුත් කළේය.
+
+එහි දැක්වෙන්නේ රත්නපුර, කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල ඇතැම් ස්ථානවලට මි.මී 75ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවය.
+
+◼️
+
+[Data](articles/9542d399.json)
+
+---
 
 ### Moscow concert attack: Suspects arrested; death toll rises to 115
 
@@ -54,23 +86,69 @@ According to an unverified statement online, militant group Islamic State said i
 
 [Data](articles/272f064e.json)
 
+[Extended Data](ext_articles/272f064e.ext.json)
+
 ---
 
-### රුසියාවට එල්ලකළ ත්‍රස්ත ප්‍රහාරය ශ්‍රී ලංකාව පිළිකුල් කරයි
+### Terror attack on Russia detests Sri Lanka
 
 *2024-03-23 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194850) · `si`
 
-රුසියාවේ මොස්කව් අගනුවරදී සිවිල් වැසියන් ඉලක්ක කර එල්ල කළ ත්‍රස්ත ප්‍රහාරය ශ්‍රී ලංකාව තරයේ හෙළා දකින බව විදේශ අමාත්‍යාංශය පවසයි.
+Sri Lanka condemns terrorist attack in Moscow, expressing disgust and offering condolences to victims.
 
-නිවේදනයක් නිකුත් කරමින් එම අමාත්‍යාංශය සඳහන් කළේ සිවිල් වැසියන්ට එරෙහි මෙවැනි නිවට ප්‍රචණ්ඩ ක්‍රියා පිළිකුල් සහගත වන අතර ශිෂ්ඨ සමාජය තුළ ඊට ඉඩක් නොමැති බවය.
+🟩
 
-එසේම, තුවාල ලැබූ සියලු‍ම දෙනාට ඉක්මන් සුවය ප්‍රාර්ථනා කරන බවද විදේශ අමාත්‍යාංශය පවසයි.
+Sri Lanka strongly condemns the terrorist attack targeting civilians in Moscow capital, Russia.
 
-ශ්‍රී ලංකා රජය සහ ජනතාව විපතට පත් වූවන්ගේ පවුල්වලට, මහජනතාවට සහ රුසියානු සමූහාණ්ඩුවේ රජයට හෘදයාංගම ශෝකය ප්‍රකාශ කරන බවද එම නිවේදනයේ සඳහන් ය.
+In a statement, the Ministry said that such homes were disgusting against civilians and there is no room in the civilian system.
+
+Also, the Ministry of External Affairs says that the injured are a speedy recovery.
+
+The statement states that the government of Sri Lanka and the people of the people affected by the victims of the victims, heartfelt condolences expressed his heartfelt grief.
 
 ◼️
 
 [Data](articles/c8a3c7d7.json)
+
+[Extended Data](ext_articles/c8a3c7d7.ext.json)
+
+---
+
+### வவுனியாவில் காசநோயால் கடந்த வருடம் மூன்று பேர் இறப்பு ; 58 பேர் பாதிப்பு  -  காசநோய் கட்டுப்பாட்டு வைத்திய அதிகாரி
+
+*2024-03-23 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179515) · `ta`
+
+காசநோயினால் வவுனியாவில் கடந்தவருடம் மூன்று பேர் உயிரிழந்துள்ளதுடன், 58 பேர் நோயாளர்களாக இனம் காணப்பட்டுள்ளதாக வவுனியா காசநோய் கட்டுப்பாட்டு வைத்திய அதிகாரி கே.சந்திரகுமார் தெரிவித்தார்.
+
+வவுனியாவில் இன்று சனிக்கிழமை (23) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவித்த போதே அவர் இவ்வாறு தெரிவித்தார்.
+
+இம்முறை “ஆம் எங்களால் காசநோயை முடிவுக்கு கொண்டுவர முடியும்” எனும் தொனிப்பொருளில் உலக காசநோய் தினம் மார்ச் 24 ஆம் திகதி நினைவுகூரப்படுகின்றது.
+
+இருப்பினும் 4 ஆயிரம்பேர் வரை இனம் காணப்படாமல் இருக்கின்றனர். நாட்டில் இறப்பிற்கு காரணமானமூன்றாவது நோயாக இது காணப்படுகின்றது.
+
+கடந்தவருடம் வவுனியா மாவட்டத்தில் 58 நோயாளர்கள் இனம்காணப்பட்டனர். அதில் மூன்றுபேர் உயிர் இழந்துள்ளனர்.
+
+தொடர்ச்சியாக இரு வாரங்களிற்கு மேற்ப்பட்ட இருமல் மாலைநேரத்தில் காய்ச்சல், உணவில் நாட்டம்இன்மை, உடல்நிறை குறைவடைதல், சளியுடன் ரெத்தம் வெளியேறல். இப்படியான அறிகுறிகள் தென்பட்டால் அது காசநோயாக இருக்கலாம்.
+
+...
+
+[Data](articles/84987ffa.json)
+
+---
+
+### முன்னாள் ஜனாதிபதி கோட்டாபய தனது நூலை மல்வத்து மற்றும் அஸ்கிரிய மகாநாயக்க தேரர்களுக்கு  வழங்கினார்
+
+*2024-03-23 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179511) · `ta`
+
+முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷ “ஜனாதிபதி பதவியில்‌ இருந்து என்னை வெளியேற்றியதன் சதி” என்ற தனது நூலை நேற்று (22) மல்வத்து மற்றும் அஸ்கிரிய பீட மகாநாயக்க தேரர்களிடம் வழங்கினார்.
+
+கோட்டாபய ராஜபக்ஷ ஸ்ரீ தலதா மாளிகைக்கு சென்று வழிபாடுகளை நிறைவேற்றிய பின்னர், தலதா மாளிகையின் தியவடன நிலமேவிடம் நூலின் பிரதியொன்றினை வழங்கியிருந்தார். அதனைத் தொடர்ந்து அன்றைய தினமே மல்வத்து விகாரைக்கு சென்று மஹாநாயக்கர் திப்பட்டுவாவே ஸ்ரீ சித்தார்த்த சுமங்கல தேரரின் ஆசீர்வாதத்தைப் பெற்றார்.
+
+பின்னர், அஸ்கிரிய மகா விகாரைக்குச் சென்று நூலை வழங்கி  மகாநாயக்கர் வரகாகொட ஸ்ரீ ஞானரதனவின் ஆசீர்வாதங்களைப் பெற்ற கோட்டாபய ராஜபக்ஷ,  மகாநாயக்க தேரர்களுடன் தனிப்பட்ட கலந்துரையாடலிலும் ஈடுபட்டார்.
+
+◼️
+
+[Data](articles/7ab282d8.json)
 
 ---
 
@@ -2195,71 +2273,5 @@ The recent two events, the online bill and the appointing of IGP, are good examp
 [Data](articles/fe48fc4c.json)
 
 [Extended Data](ext_articles/fe48fc4c.ext.json)
-
----
-
-### Preserve forest to slow down climate change
-
-*2024-03-22 23:29:24* · [`dailyftlk`](https://www.ft.lk/columns/Preserve-forest-to-slow-down-climate-change/4-759834) · `en`
-
-A sustainable future depends on investments in forest protection and restoration
-
-21 March is International Forest Day, a day to celebrate and spread awareness of the value of forests and trees. The theme for this year, “Forest and innovation: New solutions for a better world,” emphasises how critical it is to find creative solutions to the problems that confront our forest areas. A sustainable future depends on investments in forest protection and restoration, which will help with everything from reducing the effects of climate change to protecting biodiversity and assisting human populations.
-
-...
-
-[Data](articles/1afeb965.json)
-
-[Extended Data](ext_articles/1afeb965.ext.json)
-
----
-
-### Preserve forest to slow down climate change
-
-*2024-03-22 23:29:24* · [`dailyftlk`](https://www.ft.lk/opinion/Preserve-forest-to-slow-down-climate-change/14-759834) · `en`
-
-A sustainable future depends on investments in forest protection and restoration
-
-21 March is International Forest Day, a day to celebrate and spread awareness of the value of forests and trees. The theme for this year, “Forest and innovation: New solutions for a better world,” emphasises how critical it is to find creative solutions to the problems that confront our forest areas. A sustainable future depends on investments in forest protection and restoration, which will help with everything from reducing the effects of climate change to protecting biodiversity and assisting human populations.
-
-...
-
-[Data](articles/e1ebe195.json)
-
-[Extended Data](ext_articles/e1ebe195.ext.json)
-
----
-
-### Nature-based solutions: Mangrove ecosystem conservation and climate action
-
-*2024-03-22 23:27:09* · [`dailyftlk`](https://www.ft.lk/columns/Nature-based-solutions-Mangrove-ecosystem-conservation-and-climate-action/4-759833) · `en`
-
-The importance of mangrove forests and their unique characteristics as liminal ecosystems between land and sea has been firmly established through decades of research and field work. Hectare by hectare, mangroves store more carbon than any other forest ecosystem and provide habitats for an astonishing range of terrestrial and marine biodiversity. Furthermore, they also offer protection, livelihood opportunities, and a broad range of ecosystem services to communities along the coastlines of tropical countries, including
-
-...
-
-[Data](articles/0fb6e059.json)
-
-[Extended Data](ext_articles/0fb6e059.ext.json)
-
----
-
-### Russia launches massive air attack on Ukraine’s energy infrastructure
-
-*2024-03-22 23:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98137/russia-launches-massive-air-attack-on-ukraines-energy-infrastructure) · `en`
-
-Russia launched one of its biggest missile and drone barrages on Ukraine’s energy infrastructure overnight into Friday since the start of its full-scale invasion more than two years ago.
-
-Ukrainian officials said at least 10 of the country’s regions were struck in an attack targeting power supplies in multiple towns and cities, including Kharkiv in the east, Odesa on the coast and Kryvyi Rih in the center.
-
-The attacks have left well over 1 million households without electricity Friday morning, according to reports from multiple regional authorities. Only Kyiv and the northwest of the country were spared.
-
-Russia’s Defense Ministry said it had “launched a massive strike” on Ukraine’s “military-industrial complex” in response to recent strikes on Russia’s territory. Ukraine’s military – as well as pro-Ukrainian groups of Russian fighters – have this month targeted Russia’s border regions of Belgorod and Kursk, forcing schools to close and residents to evacuate.
-
-...
-
-[Data](articles/6532244c.json)
-
-[Extended Data](ext_articles/6532244c.ext.json)
 
 ---

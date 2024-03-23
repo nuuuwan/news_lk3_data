@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 06:52:33**
+As of **2024-03-23 07:16:17**
 
 ## Newspaper Stats
 
-*Scraped **14,648** Articles*
+*Scraped **14,653** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,141 @@ economynextcom | 782
 dailyftlk | 791
 islandlk | 805
 adalk | 1,257
-adaderanalk | 1,752
+adaderanalk | 1,754
 tamilmirrorlk | 1,760
-virakesarilk | 2,062
-dailymirrorlk | 2,256
-adaderanasinhalalk | 2,335
+virakesarilk | 2,063
+dailymirrorlk | 2,257
+adaderanasinhalalk | 2,336
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,647 (100.0%) of 14,648 articles have been extended.
+14,648 (100.0%) of 14,653 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### சிகிச்சை பெற்று வந்தவர் கீழே வீழ்ந்து உயிரிழப்பு
+### Heavy rainfall of above 100mm anticipated in some areas today
+
+*2024-03-23 06:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98140/heavy-rainfall-of-above-100mm-anticipated-in-some-areas-today) · `en`
+
+The Meteorology Department says showers or thundershowers are possible at times today in the Eastern and Uva provinces.
+
+Meanwhile, several spells of showers are likely in North-central and Northern provinces.
+
+Showers or thundershowers will occur at several places elsewhere in the island in the afternoon or at night.
+
+Heavy showers above 100mm are expected in parts of the Western and Sabaragamuwa provinces and Galle and Matara districts.
+
+Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces and Galle and Matara districts during the morning.
+
+Members of the public are urged to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+...
+
+[Data](articles/1e8f97d9.json)
+
+---
+
+### பிரிட்டிஸ் இளவரசி கேட்மிடில்டனிற்கு புற்றுநோய் - வீடியோ அறிக்கையில்   விபரங்களை வெளியிட்டார்
+
+*2024-03-23 06:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179472) · `ta`
+
+கடுமையான பல மாதங்களிற்கு பின்னர் இது மிகவும் அதிர்ச்சியை அளித்துள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+
+ஆனால் நான் நன்றாகயிருக்கின்றேன் ஒவ்வொரு நாளும் வலிமை பெற்றுவருகின்றேன் என அவர் தெரிவித்துளளார்.
+
+நோய் பாதிப்பு குறித்த விபரங்கள் முழுமையாக வெளிவராத போதிலும் இளவரசி முழுமையாக குணமடைவார் என கென்சிங்டன் அரண்மணை நம்பிக்கை வெளியிட்டுள்ளது.
+
+நான் வயிற்றில் சத்திரசிகிச்சை செய்துகொண்டவேளை நான் புற்றுநோயினால் பாதிக்கப்பட்டிருக்கின்றேனா என்ற விபரம் தெரியவரவில்லை ஆனால் சத்திரசிகிச்சைக்கு பிந்திய மருத்துவபரிசோதனைகளின் போது நான் பாதிக்கப்பட்டிருப்பது உறுதியானது நான் ஹீமோதெரபி சிகிச்சைக்கு என்னை உட்படுத்தவேண்டியுள்ளது சிகிச்சையின் ஆரம்ப கட்டத்தில் உள்ளேன் என கேட் மிடில்டன் தெரிவித்துள்ளார்.
+
+பெப்ரவரியில் சிகிச்சை ஆரம்பமாகியுள்ளது – நோய் சிகிச்சை குறித்த ஏனைய விபரங்களை  வெளியிடப்போவதில்லை என கென்சிங்டன்அரண்மணை தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/57fd149e.json)
+
+---
+
+### Islamic State claims responsibility for Moscow concert venue attack that killed at least 40
+
+*2024-03-23 06:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98139/islamic-state-claims-responsibility-for-moscow-concert-venue-attack-that-killed-at-least-40) · `en`
+
+At least 40 people were killed and 145 wounded on Friday when camouflage-clad gunmen opened fire on concertgoers near Moscow, with Islamic State claiming responsibility for what was one of the deadliest attacks on Russia in decades.
+
+Several gunmen began shooting civilians who were cowering in the Crocus City Hall just before Soviet-era rock group “Picnic” was about to perform to a full house at the 6,200-seat theatre in a suburb west of Moscow.
+
+Verified video showed people taking their seats in the hall then rushing for the exits as repeated gunfire echoed above screams. Other video showed men shooting at groups of people. Some victims lay motionless in pools of blood.
+
+“Suddenly there were bangs behind us - shots. A burst of firing - I do not know what,” one witness, who asked not to be identified by name, told Reuters.
+
+“A stampede began. Everyone ran to the escalator,” the witness said. “Everyone was screaming; everyone was running.”
+
+...
+
+[Data](articles/0bc602b1.json)
+
+---
+
+### කාලගුණයේ වෙනසක්
+
+*2024-03-23 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194832) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වල විටින් විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එමෙන්ම උතුරු-මැද සහ උතුරු පළාත්වල වැසි වාර කිහිපයක් ඇතිවිය හැකි බව සඳහන් වේ.
+
+දිවයිනේ සෙසු ප්‍රදේශවල ද සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථාන වලට මි. මී. 100ට වැඩි තද වැසි ඇතිවිය හැක.
+
+මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්ක වලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/c9d3f8ed.json)
+
+---
+
+### General Election will be held if MPs want: Presidential Advisor
+
+*2024-03-23 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/General-Election-will-be-held-if-MPs-want-Presidential-Advisor/108-279424) · `en`
+
+Colombo, March 23 (Daily Mirror) - A General Election will be held if the members of Parliament want an early dissolution of Parliament, Senior Presidential Advisor Ashu Marasinghe said yesterday.
+
+“A General Election could be held if the MPs adopt a resolution calling for the dissolution of Parliament,” Professor Marasinghe said in response to a question raised by the journalists on the reports which said former Minister Basil Rajapaksa and President Ranil Wickremesinghe had come to an agreement on elections.
+
+“Only a Presidential Election could be held within this year legally while there is more time for a General Election. A resolution has to be passed calling for the dissolution of Parliament if an early General Election is to be held. One wonders whether MPs would adopt a resolution,” he said.
+
+...
+
+[Data](articles/5f4dbc38.json)
+
+---
+
+### The man who was treated fell down and died
 
 *2024-03-23 04:04:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிகிச்சை-பெற்று-வந்தவர்-கீழே-வீழ்ந்து-உயிரிழப்பு/175-335039) · `ta`
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சை பெற்றுக்கொண்டிருந்தவர் திடீரெனக் கீழே வீழ்ந்து உயிரிழந்துள்ளார். இந்தச் சம்பவம் நேற்று மாலை இடம்பெற்றுள்ளது.
+Panchalingam Dinesh, 44, from Jaffna, died after falling at Jaffna Teaching Hospital. He was admitted for breathing difficulties and fell while being transferred.
 
-யாழ்ப்பாணம், தலையாழி பகுதியைச் சேர்ந்த பஞ்சலிங்கம் தினேஷ் என்ற 44 வயதானவரே இவ்வாறு உயிரிழந்துள்ளார்.
+🟩
 
-குறித்த நபர் மூச்செடுக்கச் சிரமம் என்று வைத்தியசாலையில் சேர்க்கப்பட்ட நிலையில் வேறொரு விடுதிக்கு மாற்றுவதற்கான நடவடிக்கை எடுக்கப்பட்டபோதே நேற்று மாலை வைத்தியசாலையின் பின்பக்க நுழைவாயில் ஊடாகத் திடீரென வெளியேறி சிறிது நேரத்தில் கீழே வீழ்ந்து உயிரிழந்துள்ளார். (a)
+The man who was receiving treatment at the Jaffna Teaching Hospital suddenly fell down and died.. The incident took place last evening.
+
+Panchalingam Dinesh, a 44 -year -old from Thalaiyali, Jaffna, has died.
+
+The person was admitted to the hospital as it was difficult to breathe, and when steps were taken to transfer to another hostel yesterday evening, he suddenly exited the rear entrance of the hospital and fell down shortly.. (A)
 
 ◼️
 
 [Data](articles/ea770171.json)
+
+[Extended Data](ext_articles/ea770171.ext.json)
 
 ---
 
@@ -2081,101 +2187,5 @@ Some locations in some places in the Central, Sabaragamuwa and Uva provinces and
 [Data](articles/05e67b38.json)
 
 [Extended Data](ext_articles/05e67b38.ext.json)
-
----
-
-### The affair with students involved in neighboring schools;Trial
-
-*2024-03-22 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179426) · `ta`
-
-Investigations in Jaffna Kalvi Zone target a school principal for an affair with students from neighboring schools. The incident occurred during a cricket match between the school and a Colombo school, where students and locals celebrated in the streets. The school's chancellor took action against the students and their parents, leading to complaints and further investigations by the Northern Provincial Education Workshop.
-
-🟩
-
-Investigations are being carried out by the Jaffna Kalvi Zone against the famous school principal in Jaffna.
-
-A recent cricket match was held between the school and a school in Colombo.
-
-In the competition, the students enthusiastically play the streets of Bond. During that time, the women in the neighborhood were also celebrating in front of schools.
-
-The Chancellor of the school has received information on this and taken action against the students who have been identified in such celebrations, taking action against the students and taking their parents to school and going to neighboring schools with their children.
-
-A large number of parents went with their children to accept the Chancellor's Workplace and engaged in difficulty in neighboring schools.
-
-The Zonal Education Workshop has carried out investigations after complaints received to the Northern Provincial Education Workshop on the action of the Chancellor.
-
-◼️
-
-[Data](articles/4932cf2f.json)
-
-[Extended Data](ext_articles/4932cf2f.ext.json)
-
----
-
-### Japanese envoy commends Sri Lanka’s anti-corruption initiatives, assures support
-
-*2024-03-22 13:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98126/japanese-envoy-commends-sri-lankas-anti-corruption-initiatives-assures-support) · `en`
-
-The Japanese Ambassador to Sri Lanka, Mizukoshi Hideaki has expressed Japan’s support for the current program aimed at rebuilding the Sri Lankan economy.
-
-Drawing parallels between Japan’s historical journey and Sri Lanka’s current economic challenges, the Ambassador highlighted Japan’s resilience and economic resurgence as a model for Sri Lanka.
-
-These remarks were made during his keynote address at a panel discussion on “Economic Development and Modernization with Lessons from Japan,” chaired by President Ranil Wickremesinghe at the Granbell Hotel in Colombo on Thursday (March 21), organized by the “Geopolitical Cartographer”.
-
-During his keynote speech titled “Japan’s Modernization and Lessons for Sri Lanka’s Economic Recovery and Governance”, the Ambassador shared insights into Japan’s historical challenges, its adaptation to modern changes, and its journey towards rapid development.
-
-...
-
-[Data](articles/fcb5b3e5.json)
-
-[Extended Data](ext_articles/fcb5b3e5.ext.json)
-
----
-
-### Working despite hot weather...
-
-*2024-03-22 13:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Working-despite-hot-weather/110-279399) · `en`
-
-People in urban areas of Colombo engage in their work during daytime despite the hot weather. Some labourers at their workplace in Colombo today during the hot weather conditions. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/151f4b94.json)
-
-[Extended Data](ext_articles/151f4b94.ext.json)
-
----
-
-### The police say 10 in the heathel has been arrested
-
-*2024-03-22 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194814) · `si`
-
-Police arrested 10 underworld members in a repression operation, bringing the total to 27 suspects in the past 3 days.
-
-🟩
-
-Police have arrested 10 underworld members in the Underworld repression operation.
-
-Accordingly, 27 suspects have been arrested in the past 3 days of the underworld repression.
-
-◼️
-
-[Data](articles/fbe447a9.json)
-
-[Extended Data](ext_articles/fbe447a9.ext.json)
-
----
-
-### Increase public, private sector salaries...
-
-*2024-03-22 13:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Increase-public-private-sector-salaries/110-279398) · `en`
-
-Five persons from the People's Struggle Movement staged a protest in front of the Central Bank today demanding an increase in public and private sector salaries compared to the Central Bank salary increase. A large number of security personnel were deployed in the area, though only five persons participated in the protest. Pix by Pradeep Pathirana.
-
-◼️
-
-[Data](articles/f3f4a8c1.json)
-
-[Extended Data](ext_articles/f3f4a8c1.ext.json)
 
 ---

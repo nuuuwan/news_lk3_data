@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 22:50:17**
+As of **2024-03-23 23:03:00**
 
 ## Newspaper Stats
 
-*Scraped **14,767** Articles*
+*Scraped **14,768** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 1,262
 tamilmirrorlk | 1,773
 adaderanalk | 1,780
 virakesarilk | 2,074
-dailymirrorlk | 2,274
+dailymirrorlk | 2,275
 adaderanasinhalalk | 2,364
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,767 (100.0%) of 14,767 articles have been extended.
+14,767 (100.0%) of 14,768 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### Prices of imported goods to be announced on a daily basis
+
+*2024-03-23 22:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prices-of-imported-goods-to-be-announced-on-a-daily-basis/108-279470) · `en`
+
+Colombo, March 23 (Daily Mirror) - In response to mounting concerns over rising prices of essential goods and the devaluation of the Sri Lankan Rupee against the US Dollar, State Minister for Finance Dr. Ranjith Siyambalapitiya has unveiled a new strategy aimed at stabilising the market ahead of the upcoming festive season.
+
+Addressing the media, Siyambalapitiya announced that the prices of imported goods and the Value Added Tax (VAT) will now be disclosed on a daily basis.
+
+This initiative, scheduled to commence next Monday, will be executed by the Consumer Affairs Authority.
+
+The move is intended to provide consumers with real-time information and better control over their spending amidst inflationary pressures.
+
+Furthermore, Dr. Siyambalapitiya affirmed that all necessary arrangements have been made to guarantee an uninterrupted flow of goods, averting any potential shortages that could disrupt during the festive season.
+
+◼️
+
+[Data](articles/a78eaed8.json)
+
+---
 
 ### Moscow massacre: Putin says gunmen tried to escape to Ukraine, death toll hits 133
 
@@ -2317,27 +2337,5 @@ Princess Gate (42), who has said that I am thinking of all those who are sufferi
 [Data](articles/57fd149e.json)
 
 [Extended Data](ext_articles/57fd149e.ext.json)
-
----
-
-### Islamic State claims responsibility for Moscow concert venue attack that killed at least 40
-
-*2024-03-23 06:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98139/islamic-state-claims-responsibility-for-moscow-concert-venue-attack-that-killed-at-least-40) · `en`
-
-At least 40 people were killed and 145 wounded on Friday when camouflage-clad gunmen opened fire on concertgoers near Moscow, with Islamic State claiming responsibility for what was one of the deadliest attacks on Russia in decades.
-
-Several gunmen began shooting civilians who were cowering in the Crocus City Hall just before Soviet-era rock group “Picnic” was about to perform to a full house at the 6,200-seat theatre in a suburb west of Moscow.
-
-Verified video showed people taking their seats in the hall then rushing for the exits as repeated gunfire echoed above screams. Other video showed men shooting at groups of people. Some victims lay motionless in pools of blood.
-
-“Suddenly there were bangs behind us - shots. A burst of firing - I do not know what,” one witness, who asked not to be identified by name, told Reuters.
-
-“A stampede began. Everyone ran to the escalator,” the witness said. “Everyone was screaming; everyone was running.”
-
-...
-
-[Data](articles/0bc602b1.json)
-
-[Extended Data](ext_articles/0bc602b1.ext.json)
 
 ---

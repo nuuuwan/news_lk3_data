@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 14:17:49**
+As of **2024-03-23 14:33:19**
 
 ## Newspaper Stats
 
-*Scraped **14,713** Articles*
+*Scraped **14,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,80 @@ adalk | 1,258
 adaderanalk | 1,764
 tamilmirrorlk | 1,768
 virakesarilk | 2,071
-dailymirrorlk | 2,265
+dailymirrorlk | 2,267
 adaderanasinhalalk | 2,348
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,712 (100.0%) of 14,713 articles have been extended.
+14,713 (100.0%) of 14,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### බංග්ලාදේශ පළමු ඉනිම ලකුණු 188කට සීමා වෙයි
+### Arrest Maithri: Opposition MPs
+
+*2024-03-23 14:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Arrest-Maithri-Opposition-MPs/108-279465) · `en`
+
+Colombo, March 23 (Daily Mirror) - Opposition MPs Mano Ganesan and Kavinda Jayawardene today called for the immediate arrest of former President Maithripala Sirisena and to interrogate him regarding the remark he made on Friday, stating that he is aware of the mastermind behind the Easter Sunday attacks.
+
+"Police should question the former President immediately," MP Ganesan told journalists.
+
+"The whole world is waiting to find out who was behind the Easter Sunday attacks. Therefore, Sirisena should be made to reveal all details," he added.
+
+MP Kavinda Jayawardene said they have already lodged a complaint with the CID against Sirisena.
+
+"We want the former President arrested immediately and produced before courts," he said.
+
+The MPs said they have already discussed the issue with the church leaders in Sri Lanka.
+
+◼️
+
+[Data](articles/7c2e3206.json)
+
+---
+
+### Bangladesh falters, all out for 188 as Sri Lanka takes command in first Test
+
+*2024-03-23 14:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladesh-falters-all-out-for-188-as-Sri-Lanka-takes-command-in-first-Test/108-279464) · `en`
+
+Sylhet , March 23 - Bangladesh lost their final four wickets in the second session for 56 runs to be bundled out for 188 in 51.3 overs, conceding a 92-run first innings lead to Sri Lanka on the second day of the first Test at the Sylhet International Cricket Stadium today.
+
+Khaled Ahmed was the last batter to depart, nicking a ball to the keeper from Vishwa Fernando, after making 22 off 28, an innings that helped Bangladesh bring the deficit below the three-figure mark.
+
+Khaled's wicket ended a disappointing batting performance from the Tigers, where night-watchman Taijul Islam was the standout performer with a fighting 47.
+
+Sri Lanka pace trio of Fernando, Kasum Rajitha and Lahiru Kumara shared the 10 wickets, with Fernando leading the charge with 4 for 48 and Rajitha and Kumara taking three wickets each.
+
+...
+
+[Data](articles/3e2eb92d.json)
+
+---
+
+### Bangladesh first innings limited to 188 runs
 
 *2024-03-23 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194844) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර පැවැත්වෙන පළමු ටෙස්ට් තරගයේ දෙවන දිනය අදයි (23).
+Bangladesh's first innings in the first Test against Sri Lanka ended at 188 runs, with Universal Fernando and Lahiru Kumara each taking three wickets, and Kasun Rajitha two. Sri Lanka leads by 92 runs.
 
-තරගයේ පළමු ඉනිම සඳහා පන්දුවට පහරදෙමින් සිටි බංග්ලාදේශ කණ්ඩායම සියලුදෙනා දැවී ලබාගත්තේ ලකුණු 188ක් පමණි.
+🟩
 
-පන්දු යැවීමේදී විශ්ව ප්‍රනාන්දු කඩුලු 4ක්, ලහිරු කුමාර සහ කසුන් රාජිත කඩුලු 03 බැගින් බිඳ හෙළීය.
+Today is the second day of the first Test match between the Sri Lanka Tourism and Bangladesh.
 
-ඒ අනුව බංග්ලාදේශ කණ්ඩායම ශ්‍රී ලංකා පළමු ඉනිමට වඩා ලකුණු 92ක් පිටුපසින් පසුවෙයි.
+Bangladesh was bowled out for 188 runs for the first innings of the match.
+
+Universal Fernando took 4 wickets, Lahiru Kumara and Kasun Rajitha taken three wickets each.
+
+Accordingly, Bangladesh team is behind 92 runs over the first innings of Sri Lanka.
 
 ◼️
 
 [Data](articles/4661a6ab.json)
+
+[Extended Data](ext_articles/4661a6ab.ext.json)
 
 ---
 
@@ -2149,61 +2195,5 @@ The remaining 100 passengers, who were heading to South Korea for work, have bee
 [Data](articles/a612e7ea.json)
 
 [Extended Data](ext_articles/a612e7ea.ext.json)
-
----
-
-### The Northern President, which is “the largest economy in Sri Lanka”
-
-*2024-03-22 19:52:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இலங்கையில்-பெரிய-பொருளாதாரமாக-உருவெடுக்கும்-வடக்கு-ஜனாதிபதி/71-335024) · `ta`
-
-President Ranil Wickremesinghe announced the completion of the Urumaya National Program by June, aiming to grant legal land rights to all citizens. The program has benefited 408 people in Jaffna, with 235 acres of land distributed for agricultural modernization. The initiative aims to reclaim land seized by the government and distribute it to the public, with a focus on modern agriculture and economic development in the North.
-
-🟩
-
-President Ranil Wickremesinghe said that the authorities have issued a directive to the authorities to complete the 'Urumaya National Program' by June.
-
-He said he wanted to have such rights to be the dream of all citizens to get legal land rights.
-
-President Ranil Wickremesinghe made the above statement during the "Urumaya" land licensing program held on Friday (22) in the Jaffna -camera.
-
-408 people in Jaffna have been given a significant land guarantee by President Ranil Wickremesinghe under the Urumaya program to grant land rights to two million people.
-
-Jaffna is parallel to this. President Ranil Wickremesinghe was held at the Palali Air Force Base today (22).
-
-Jaffna. President Ranil Wickremesinghe handed over the official documents to the President to hand over the land by Major General Chandana Wickremasinghe, the Commander of the Defense Force, and handed over them to Jaffna District Secretary Marudalingam Pradeepan.
-
-...
-
-[Data](articles/2af594ab.json)
-
-[Extended Data](ext_articles/2af594ab.ext.json)
-
----
-
-### Magnitude 6.5 quake strikes off Indonesia’s Java island
-
-*2024-03-22 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Magnitude-6-5-quake-strikes-off-Indonesias-Java-island/108-279412) · `en`
-
-JAKARTA, March 22 (Reuters) - A magnitude 6.5 earthquake struck off the shore of Indonesia's Java island on Friday at a depth of 10km (6.2 miles), Indonesia's geophysics agency (BKMG) said.
-
-The quake followed a 6 magnitude tremor reported more than four hours earlier.
-
-The epicentre was located around 130 km north of Tuban in East Java province, BMKG said.
-
-The tremors were felt strongly in East Java, its capital Surabaya, as well as cities in neighbouring provinces, according to multiple postings by social media users in those areas.
-
-Brief shaking was also felt in the Indonesian capital Jakarta, around 600 km away from the epicentre, according to Reuters witnesses.
-
-The 6.5 quake has no potential to trigger a tsunami, BMKG said.
-
-The earlier quake had caused damage to one house and a community building in the town of Tuban, Indonesia's disaster mitigation agency said.
-
-There were no immediate reports of further damage following the latest quake.
-
-◼️
-
-[Data](articles/771a0f5d.json)
-
-[Extended Data](ext_articles/771a0f5d.ext.json)
 
 ---

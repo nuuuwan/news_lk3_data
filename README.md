@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 15:03:05**
+As of **2024-03-23 15:17:46**
 
 ## Newspaper Stats
 
-*Scraped **14,718** Articles*
+*Scraped **14,719** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 794
 islandlk | 805
 adalk | 1,258
 adaderanalk | 1,765
-tamilmirrorlk | 1,768
+tamilmirrorlk | 1,769
 virakesarilk | 2,071
 dailymirrorlk | 2,267
 adaderanasinhalalk | 2,349
@@ -26,11 +26,23 @@ adaderanasinhalalk | 2,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,716 (100.0%) of 14,718 articles have been extended.
+14,718 (100.0%) of 14,719 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### மைத்திரியை கைது செய்
+
+*2024-03-23 14:37:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியை-கைது-செய்/175-335050) · `ta`
+
+ஈஸ்டர் ஞாயிறு தாக்குதலுக்கு மூளையாக செயல்பட்டவர் யார் என்பது தனக்குத் தெரியும் என்று கூறிய முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவை உடனடியாகக் கைது செய்து விசாரணை நடத்துமாறு எதிர்க்கட்சி எம்.பி.க்களான மனோ கணேசன் மற்றும் காவிந்த ஜயவர்தன ஆகியோர் இன்று கோரிக்கை விடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/572958f2.json)
+
+---
 
 ### Sri Lanka unequivocally condemns terrorist attack in Moscow
 
@@ -47,6 +59,8 @@ Furthermore, it mentioned that the government and the people of Sri Lanka extend
 ◼️
 
 [Data](articles/8ec1693d.json)
+
+[Extended Data](ext_articles/8ec1693d.ext.json)
 
 ---
 
@@ -919,6 +933,8 @@ The Presidential Media Division and the Daily News released press releases and m
 ...
 
 [Data](articles/05507519.json)
+
+[Extended Data](ext_articles/05507519.ext.json)
 
 ---
 
@@ -2179,43 +2195,5 @@ In a bid to strengthen commitment and partnership towards the South Asia region,
 [Data](articles/190f9f03.json)
 
 [Extended Data](ext_articles/190f9f03.ext.json)
-
----
-
-### Leaving a life of heating
-
-*2024-03-22 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194827) · `si`
-
-A person died from a fall during heavy warm weather. The deceased, from Nilijjawila, Akuressa, was identified. El Nino's influence raised body heat. The health sector warned against heating. Rainfall in Mahaoya, Ampara was 133.5mm, but dry weather led to water shortages, prompting water supply to Kalutara, Kurunegala, Kandy, Matale, Nuwara Eliya, Matara, Moneragala, and Ratnapura.
-
-🟩
-
-During heavy warm weather, a person was killed in the fall.
-
-The man had pushed the ground while traveling yesterday (21).
-
-The deceased has been identified as a resident of Nilijjawila area in Akuressa.
-
-With the influence of Elnino, the heat of the body lies at the highest level.
-
-The health sector warned the masses over the past few years to protect against heating heating.
-
-Meanwhile, several areas were rainsured from several areas yesterday (21st) and the rain was down to Colombo.
-
-The highest last 24 hours, Rainfall reported from the Mahaoya, Ampara and 133.5 millimeters.
-
-Water Supply and Drainage Board stated that the water level of a large number of water sources have come down in the face of the dry weather.
-
-As a result, several areas had to be supplied to water.
-
-The water is provided with Kalutara, Kurunegala, Kandy, Matale, Nuwara Eliya, Matara, Matara, Moneragala and Ratnapura.
-
-However, the rainy condition of the rainy condition can develop a warm state, the Met Department said.
-
-◼️
-
-[Data](articles/8996b71b.json)
-
-[Extended Data](ext_articles/8996b71b.ext.json)
 
 ---

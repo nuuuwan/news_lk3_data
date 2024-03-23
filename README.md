@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 20:03:04**
+As of **2024-03-23 20:17:47**
 
 ## Newspaper Stats
 
-*Scraped **14,754** Articles*
+*Scraped **14,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,59 @@ dailyftlk | 792
 economynextcom | 794
 islandlk | 805
 adalk | 1,262
-tamilmirrorlk | 1,772
+tamilmirrorlk | 1,773
 adaderanalk | 1,775
 virakesarilk | 2,074
-dailymirrorlk | 2,271
+dailymirrorlk | 2,272
 adaderanasinhalalk | 2,360
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,753 (100.0%) of 14,754 articles have been extended.
+14,754 (100.0%) of 14,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### පාස්කු ප්‍රහාරය ගැන තමාට තොරතුරු ලැබුණු හැටි මෛත්‍රී හෙළිකරයි
+### Maithri reveals how he received information about the Passover attack
 
 *2024-03-23 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194858) · `si`
 
-පාස්කු ප්‍රහාරය ගැන සති තුනකට පෙර ලැබුණූ තොරතුරක් අනුව ඊයේ (22) තමා විසින් පාස්කු ප්‍රහාරය සම්බන්ධයෙන් එවැනි ප්‍රකාශයක් සිදුකළ බව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පවසයි.
+Maithripala Sirisena claims he received information about the Passover attack three weeks before it happened. He's ready to testify in court, emphasizing the potential consequences of revealing information publicly.
 
-තමාට එල්ලවන චෝදනා සම්බන්ධයෙන් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ප්‍රතිචාර දක්වමින් අද (23) එම ප්‍රකාශය සිදුකළේය.
+🟩
 
-"පාස්කු ප්‍රහාරය සම්බන්ධයෙන් මීට සති තුනකට පෙර මට ලැබුණු තොරතුරක් අනුව තමයි මම ඊයේ ඒ ප්‍රකාශය සිදුකළේ. අධිකරණයකින් මට නියෝගයක් ලැබුණොත් ඇවිල්ලා පෙනී සිටින්න කියලා. මම රහසිගත සාක්ෂියක් දීමට බලාපොරොත්තුවෙන් සිටිනවා. රහසිගතව ප්‍රකාශයක් දෙන්න වෙන හේතුවක් නිසා නෙමෙයි. විවෘත සාක්ෂියක්  දුන්නොත් අධිකරණයේ... මම දන්නවා පැහැදිලිවම මගේ ජීවිතය සහ මගේ දරු පවුල් පවා විනාශ කරන්න පුළුවන්. එක නිසා මේක කිසිදුම දේශපාලන මතවාදී හෝ දේශපාලන වශයෙන් යම් යම් ප්‍රශ්න තියෙන ඒවාට ගැවුණ කාරණයක් නෙමෙයි. මම ඉතාම අවංකව සිදුකරන ප්‍රකාශයක්. "
+Former President Maithripala Sirisena says that he has made such a statement regarding the Passover attack on the Passover attack yesterday (22) according to the Passover attack.
+
+Former President Maithripala Sirisena responded to the allegations leveled against him today (23).
+
+"I made that statement yesterday that I received three weeks before the Passover attack. If I received an order from a court, I can come. I am looking forward to give a secret witness. Not for a reason to give a statement confidential. If an open testimony is given in court.. I know clearly my life and even my childbuilding can be destroyed. Therefore, it is not a matter of political ideologies or political issues. A statement that I am very honestly. "
 
 ◼️
 
 [Data](articles/b0d31794.json)
+
+[Extended Data](ext_articles/b0d31794.ext.json)
+
+---
+
+### சர்ச்சைக்குரிய உடலுறவு சட்டமூலம் மீளப் பெறப்பட்டது
+
+*2024-03-23 19:39:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்ச்சைக்குரிய-உடலுறவு-சட்டமூலம்-மீளப்-பெறப்பட்டது/175-335055) · `ta`
+
+14 வயதுக்கும் 16 வயதுக்கும் இடைப்பட்ட சிறுமிகள் தமது  விருப்பத்துடன் 22 வயதுக்குட்பட்ட ஒருவருடன் உடலுறவு கொண்டால் அதற்கான தண்டனையை குறைக்கும் வகையிலான சட்டமூலம் தொடர்பில் அண்மையில் பெரும் சர்ச்சை ஏற்பட்டது.
+
+இந்த நிலையில், அரசாங்கத்தால் கொண்டுவரப்படவிருந்த குறித்த சட்டமூலத்தை மீளப்பெறுவதாக நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ இன்று (23) தெரிவித்துள்ளார்.
+
+கொழும்பில் இடம்பெற்ற நிகழ்வொன்றின் பின்னர் ஊடகவியலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதில் அளிக்கும் போதே அமைச்சர் இதனைக் குறிப்பிட்டுள்ளார்.
+
+“பெரும்பாலானோர் இந்த சட்டமூலத்தை நிறைவேற்றுவதை இடைநிறுத்துமாறு கோரினார். இது குறித்து தொடர்ந்து கலந்துரையாடப்பட வேண்டும் என அவர்கள் என்னிடம் தெரிவித்தனர். இந்த சட்டமூலம் உயர் நீதிமன்றத்தில் சவாலுக்கு உட்படுத்தப்பட்டுள்ளதால் இதனை முன்னோக்கி கொண்டு செல்ல வேண்டாம் என சட்டமா அதிபருக்கு அறிவித்தேன்.
+
+◼️
+
+[Data](articles/b980d051.json)
 
 ---
 
@@ -875,6 +899,28 @@ The White House says that the US has informed Russia that he may have been infor
 [Data](articles/31f8e886.json)
 
 [Extended Data](ext_articles/31f8e886.ext.json)
+
+---
+
+### Arrest Maithri: Opposition MPs
+
+*2024-03-23 14:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Arrest-Maithri-Opposition-MPs/155-279465) · `en`
+
+Colombo, March 23 (Daily Mirror) - Opposition MPs Mano Ganesan and Kavinda Jayawardene today called for the immediate arrest of former President Maithripala Sirisena and to interrogate him regarding the remark he made on Friday, stating that he is aware of the mastermind behind the Easter Sunday attacks.
+
+"Police should question the former President immediately," MP Ganesan told journalists.
+
+"The whole world is waiting to find out who was behind the Easter Sunday attacks. Therefore, Sirisena should be made to reveal all details," he added.
+
+MP Kavinda Jayawardene said they have already lodged a complaint with the CID against Sirisena.
+
+"We want the former President arrested immediately and produced before courts," he said.
+
+The MPs said they have already discussed the issue with the church leaders in Sri Lanka.
+
+◼️
+
+[Data](articles/0b504a8d.json)
 
 ---
 
@@ -2285,53 +2331,5 @@ Speaking at a press conference in Colombo, Ratnayake emphasised that over the pa
 [Data](articles/9396106d.json)
 
 [Extended Data](ext_articles/9396106d.ext.json)
-
----
-
-### President launches ‘Urumaya’ land ownership program in Jaffna
-
-*2024-03-23 01:09:43* · [`dailyftlk`](https://www.ft.lk/news/President-launches-Urumaya-land-ownership-program-in-Jaffna/56-759849) · `en`
-
-Expedites “Urumaya” freehold deeds program, aiming for completion by June, to ensure land ownership for all citizens
-
-408 land deeds in Jaffna signifies progress towards granting free land rights to 2 m individuals countrywide
-
-Govt. releases 63,000 acres of land, including former military-controlled areas with additional allocations for agricultural purposes in Valikamam North
-
-Emphasises on historical significance of land ownership, commitment to restoring land rights to individuals, ensuring equitable access
-
-Inaugurates agriculture modernisation program in Kopai to boost income opportunities, spearhead economic revival efforts
-
-Broad initiatives include leveraging renewable energy resources, promoting tourism, establishing investment zones to transform North into significant economic hub
-
-President Ranil Wickremesinghe has announced the acceleration of the national ‘Urumaya’ freehold deeds program, with a directive to complete it by June, ensuring legal ownership of land for all citizens.
-
-...
-
-[Data](articles/6d265ab4.json)
-
-[Extended Data](ext_articles/6d265ab4.ext.json)
-
----
-
-### 40 killed and more than 100 wounded in attack on Moscow concert hall
-
-*2024-03-23 00:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98138/40-killed-and-more-than-100-wounded-in-attack-on-moscow-concert-hall) · `en`
-
-UPDATED (1.00 a.m.) - Russia’s Federal Security Service said 40 people died and more than 100 were wounded in an attack Friday at a Moscow concert hall.
-
-The attack, which Russian authorities are investigating as terrorism, is the deadliest in Russia in recent years.
-
-Several gunmen burst into the concert hall on the edge of Moscow and sprayed visitors with automatic gunfire, killing and wounding dozens and starting a massive blaze.
-
-The attack comes days after President Vladimir Putin cemented his grip on the country in a highly orchestrated electoral landslide.
-
-At least a dozen people have been killed and many others wounded in what is being described as the most severe terrorist attack in Russia in last two decades as gunmen dressed in combat fatigues entered a large concert hall in Moscow, opening fire and detonating explosives.
-
-...
-
-[Data](articles/fd2c963d.json)
-
-[Extended Data](ext_articles/fd2c963d.ext.json)
 
 ---

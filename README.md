@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 12:34:09**
+As of **2024-03-23 12:49:46**
 
 ## Newspaper Stats
 
-*Scraped **14,705** Articles*
+*Scraped **14,707** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 805
 adalk | 1,258
 adaderanalk | 1,763
 tamilmirrorlk | 1,767
-virakesarilk | 2,069
+virakesarilk | 2,071
 dailymirrorlk | 2,265
 adaderanasinhalalk | 2,345
 
@@ -26,11 +26,43 @@ adaderanasinhalalk | 2,345
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,691 (99.9%) of 14,705 articles have been extended.
+14,704 (100.0%) of 14,707 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### மின்விசிறி விழுந்து இரு மாணவர்கள் வைத்தியசாலையில் !
+
+*2024-03-23 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179498) · `ta`
+
+கண்டி, அஸ்கிரியவில் உள்ள பாடசாலையொன்றில் நேற்று வெள்ளிக்கிழமை (22) ஐந்தாம் தரத்தில் கல்வி கற்கும் இரு மாணவர்கள் மீது மின்விசிறி வீழ்ந்த சம்பவம் ஒன்று இடம்பெற்றுள்ளது.
+
+ஒரு மாணவனுக்கு கண்ணிலும், மற்றைய மாணவனுக்கு  தலையிலும் காயம் ஏற்பட்டுள்ளதாக  வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+இந்நிலையில், கடந்த சில நாட்களாகவே மின்விசிறி மின் வயரில் சிக்கிய நிலையிலேயே சுழன்றதாகவும், இது குறித்து பாடசாலை நிர்வாகத்திடம் கூறியும்  சரி செய்ய எவரும் நடவடிக்கை எடுக்கவில்லை என  பெற்றோர்கள் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/aab1ed0d.json)
+
+---
+
+### தாய்ப்பால் புரைக்கேறியதில் 28 நாட்களேயான சிசு மரணம்
+
+*2024-03-23 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179499) · `ta`
+
+தாய்ப்பால் புரைக்கேறியதில் பிறந்து 28 நாட்களேயான சிசு ஒன்று நேற்று வெள்ளிக்கிழமை உயிரிழந்துள்ளது.
+
+இதனை தொடர்ந்து உடனடியாக மதியம் 12:30 மணியளவில் யாழ். போதனா வைத்தியசாலைக்கு சிசுவை கொண்டு சென்ற போது சிசு ஏற்கனவே உயிரிழந்து விட்டதாக வைத்தியர்கள் தெரிவித்துள்ளனர்.
+
+இம் மரணம் தொடர்பில் யாழ்.போதனா வைத்தியசாலை திடீர் மரண விசாரணை அதிகாரி நமசிவாயம் பிறேமகுமார் விசாரணைகளை மேற்கொண்டார்.
+
+◼️
+
+[Data](articles/314aa287.json)
+
+---
 
 ### Police detained 38 suspected criminals of underworld gangs
 
@@ -47,6 +79,8 @@ They said the arrested suspects are being detained for further questioning.
 ◼️
 
 [Data](articles/e3c338a5.json)
+
+[Extended Data](ext_articles/e3c338a5.ext.json)
 
 ---
 
@@ -65,6 +99,8 @@ Spending several hours a day on fetching water, coupled with a lack of safe sani
 ...
 
 [Data](articles/c334e0a5.json)
+
+[Extended Data](ext_articles/c334e0a5.ext.json)
 
 ---
 
@@ -183,6 +219,8 @@ Exports to the US, the top buyer of Sri Lanka goods, picked up 8 percent to 249.
 ...
 
 [Data](articles/6fadf9f7.json)
+
+[Extended Data](ext_articles/6fadf9f7.ext.json)
 
 ---
 
@@ -471,6 +509,8 @@ As per the arrangement, 234 acres of land from five Grama Niladhari Divisions in
 ...
 
 [Data](articles/eb75795b.json)
+
+[Extended Data](ext_articles/eb75795b.ext.json)
 
 ---
 
@@ -821,6 +861,8 @@ Islamist suicide bombers targeted Catholics and foreigners in six simultaneous b
 ...
 
 [Data](articles/35fcf394.json)
+
+[Extended Data](ext_articles/35fcf394.ext.json)
 
 ---
 
@@ -2169,51 +2211,5 @@ Kainerugaba has long been viewed as being prepared to take over the presidency f
 [Data](articles/6b610d4a.json)
 
 [Extended Data](ext_articles/6b610d4a.ext.json)
-
----
-
-### Uganda’s president appoints son as military chief
-
-*2024-03-22 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ugandas-president-appoints-son-as-military-chief/108-279411) · `en`
-
-KAMPALA, March 22 (Reuters) - Uganda's President Yoweri Museveni has appointed his son, Muhoozi Kainerugaba, as head of the military, the defence ministry said on Friday.
-
-Muhoozi Kainerugaba, 48, a general in the military, is widely seen as his father's successor in waiting and once stirred controversy by threatening to invade neighbouring Kenya. The ministry said in a statement he replaces Wilson Mbasu Mbadi, who was removed and appointed as a junior minister.
-
-In 2022, Museveni removed his son as commander of Uganda's land forces after he made threats to invade neighbouring Kenya in posts on social media platform X.
-
-In the posts, Kainerugaba also expressed support for Russia's President Vladimir Putin saying: "The majority of mankind (that are non-white) support Russia's stand in Ukraine."
-
-Kainerugaba has long been viewed as being prepared to take over the presidency from his father, 79, who has ruled the east African country for nearly 40 years.
-
-◼️
-
-[Data](articles/6c69db7b.json)
-
-[Extended Data](ext_articles/6c69db7b.ext.json)
-
----
-
-### 90 missiles to Ukraine at night
-
-*2024-03-22 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194825) · `si`
-
-Ukraine's electricity loss due to attacks on the Mantu station. Barketiv, Ukraine's 2nd largest city, faced 15 attacks. Germany's Energy Minister criticized Russia's attempts to disrupt Ukraine's power system. Ukraine's President Volodymyr Zelenskyy claimed Russia launched 90 missiles at Ukraine.
-
-🟩
-
-The loss of electricity in Ukraine has taken place due to the loss of mantu station targeting electricity systems.
-
-The city of Barketiv, the second largest city of the country, has only 15 attacks on the city.
-
-The Minister of Energy Minister Germany had expressed his views that Russia is trying to break the power system in his country.
-
-In the last night Russia, the Ukraine President Wallodimir Celenceky has stated that 90 dictatorship has been launched by Ukraine.
-
-◼️
-
-[Data](articles/8c986702.json)
-
-[Extended Data](ext_articles/8c986702.ext.json)
 
 ---

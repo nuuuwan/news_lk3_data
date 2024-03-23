@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 08:33:35**
+As of **2024-03-23 08:51:35**
 
 ## Newspaper Stats
 
-*Scraped **14,663** Articles*
+*Scraped **14,664** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,57 @@ adaderanalk | 1,756
 tamilmirrorlk | 1,764
 virakesarilk | 2,064
 dailymirrorlk | 2,257
-adaderanasinhalalk | 2,338
+adaderanasinhalalk | 2,339
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,660 (100.0%) of 14,663 articles have been extended.
+14,663 (100.0%) of 14,664 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### தாய் மரணம்; ஆபத்தான நிலையில் இரு பிள்ளைகள்
+### කොළඹ නගරයේ අවදානම් ඉදිකිරීම් 150 ක්
+
+*2024-03-23 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194835) · `si`
+
+කොළඹ නගරයේ අවදානම් ඉදිකිරීම් 150 පමණ මේ වනවිට හඳුනාගෙන ඇති බව කොළඹ නාගරික කොමසාරිස් භද්‍රානි ජයවර්ධන මහත්මිය පවසයි.
+
+ඇය සඳහන් කළේ මේ පිළිබඳ ලේඛනගත කර ඒවා ඉවත් කරන ලෙස අදාළ හිමිකරුවන්ව දැනුවත් කර ඇති බවය.
+
+◼️
+
+[Data](articles/7b897e19.json)
+
+---
+
+### Mother death;Two children in a dangerous condition
 
 *2024-03-23 08:02:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்-மரணம்-ஆபத்தான-நிலையில்-இரு-பிள்ளைகள்/175-335044) · `ta`
 
-புத்தளம் - கொட்டுக்கச்சிய , கல்லகுளம் பகுதியில் நேற்று (22) இடம்பெற்ற விபத்தில் பெண்ணொருவர் உயிரிழந்துள்ளதுடன், மேலும் மூவர் பலத்த காயங்களுடன் புத்தளம் தள வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+In Kallakulam, Puttalam, a mother and her three children were killed in a crash with a lorry. Two children were severely injured. The mother, RM Kusumalada Malkanti, was returning from visiting her father at the Puttalam Base Hospital.
 
-லொறியொன்றும், மோட்டார் சைக்கிள் ஒன்றும் மோதியதில் இந்த விபத்துச் சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-ஆனமடுவ, வேம்புவெவ பகுதியைச் சேர்ந்த ஆர்.எம்.குசுமலதா மல்காந்தி (வயது 43) எனும் மூன்று பிள்ளைகளின் தாயே இவ்வாறு உயிரிழந்துள்ளார்.
+A woman was killed in an accident in Kallakulam, Puttalam - Kottukachiya, Puttalam and three others were admitted to the Puttalam Base Hospital with serious injuries.
 
-புத்தளம் தள வைத்தியசாலையில் சிகிச்சை பெற்று வரும் தனது தந்தையை பார்ப்பதற்காக குறித்த தாய் தனது மூன்று பிள்ளைகளுடன் வருகை தந்த பின், ஆனமடுவ வேம்புவெவ கிராமத்திற்கு திரும்பிக் கொண்டிருந்த போது ஆனமடுவையில் இருந்து வந்த தனியார் வர்த்தக நிறுவனமொன்றுக்கு சொந்தமான லொறியுடன் மோதி விபத்துக்குள்ளானதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Police said the accident occurred when a lorry and a motorcycle crashed.
 
-இந்த விபத்தில் மூன்று பிள்ளைகளின் தாய் ஸ்தலத்திலேயே உயிரிழந்ததாகவும், மோட்டார் சைக்கிளில் தாயுடன் பயணித்த இரண்டு பிள்ளைகள் பலத்த காயங்களுக்கு உள்ளாகியாதாகவும் தெரிவிக்கப்படுகிறது.
+The mother of three children, RM Kusumalada Malkanti (43 years old) from Vembuwewa, Anamaduwa, died.
+
+Police say they crashed into a lorry belonging to a private business company from Anamaduwa when she was returning to the village of Anamaduwa, after visiting her three children to visit her father, who was receiving treatment at the Puttalam Base Hospital.
+
+It is reported that three children were killed in the accident and two children who were traveling with a mother on a motorcycle were severely injured.
+
+Police said the driver of the lorry was also injured in the crash.
 
 ...
 
 [Data](articles/a5c5f481.json)
+
+[Extended Data](ext_articles/a5c5f481.ext.json)
 
 ---
 
@@ -316,23 +338,29 @@ Colombo, March 23 (Daily Mirror) - A General Election will be held if the member
 
 ---
 
-### நெல் கொள்வனவிற்காக நிதி ஒதுக்கீடு
+### Funds for paddy purchasing
 
 *2024-03-23 04:33:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்-கொள்வனவிற்காக-நிதி-ஒதுக்கீடு/175-335041) · `ta`
 
-பெரும்போக நெல் கொள்வனவிற்காக 1000 மில்லியன் ரூபா நிதி கிடைத்துள்ளதாக நெல் சந்தைப்படுத்தல் அதிகார சபை தெரிவித்தது.
+The Paddy Marketing Authority received 1000 million rupees for paddy purchases, with 500 million from the Treasury and 500 million from the Farmers' Trust Fund. Two district warehouses opened for agricultural purchases. In five days, 9.42 million kg of paddy was bought, costing 95 million rupees, with 241 fields in 7 zones placed in the mother's position.
 
-திறைசேரியிலிருந்து 500 மில்லியன் ரூபாவும் விவசாயிகள் நம்பிக்கை நிதியத்திலிருந்து 500 மில்லியன் ரூபாவும் கிடைக்கப்பபெற்றுள்ளதாக அதிகார சபை குறிப்பிட்டுள்ளது.
+🟩
 
-பெரும்போக நெல் கொள்வனவிற்காக வேளாண்மை மேற்கொள்ளப்படும் ஒவ்வொரு மாவட்டத்திலும் இரண்டு களஞ்சிய சாலைகள் திறக்கப்பட்டுள்ளன
+The Paddy Marketing Authority said that 1000 million rupees has been received for the purchase of paddy.
 
-கடந்த ஐந்து நாட்களில் நெல் சந்தைப்படுத்தல் சபையினால் 9 லட்சத்து 4 ஆயிரத்து 202 கிலோ கிராம் நெல் கொள்வனவு செய்யப்பட்டுள்ளது.
+500 million rupees from the Treasury and 500 million rupees from the Farmers' Trust Fund, the Authority said.
 
-இதற்காக, 95 மில்லியன் ரூபா செலவிடப்பட்டுள்ளதாகவும்   7 வலயங்களிலுள்ள 241 நெல் களஞ்சியசாலைகளை நெற்கொள்வனவிற்காக தாயார் நிலையில் வைத்துள்ளதாகவும் நெல் சந்தைப்படுத்தல் அதிகார சபை தெரிவித்துள்ளது. (a)
+Two warehouses have been opened in each district for agricultural purchases for the majority of paddy
+
+In the last five days, the Paddy Marketing Board has purchased 9 lakhs 4 thousand 202 kg of paddy.
+
+For this purpose, the Paddy Marketing Authority said that 95 million rupees had been spent and 241 paddy fields in 7 zones had been placed in the mother's position.. (A)
 
 ◼️
 
 [Data](articles/e4b865ac.json)
+
+[Extended Data](ext_articles/e4b865ac.ext.json)
 
 ---
 
@@ -1320,21 +1348,29 @@ Its chairman Senior Lecturer Udayakumara Amarasinghe said that the informs had b
 
 ---
 
-### වැඩිහිටි ජනගහනයෙන් සියයට 12 කගේ එකම දතක්වත් නැහැ
+### There is no only two percentage of adult population
 
 *2024-03-22 19:23:09* · [`adalk`](https://www.ada.lk/breaking_news/වැඩිහිටි-ජනගහනයෙන්-සියයට-12-කගේ-එකම-දතක්වත්-නැහැ/11-408762) · `si`
 
-ලංකාවේ වැඩිහිටි ජනගහනයෙන් 12% කට  එකම දතක්වත් නැති බවත්, එය විශාල ගැටලුවක් බවට පත්ව තිබෙන බවත්, දත් ආරක්ෂා කර ගැනීම, මුඛ සෞඛ්‍ය ආරක්ෂා කර ගැනීම පිළිබදව දැනුවත්කිරීම පෙර පාසලේ සිටම ආරම්භ විය යුතු බව සෞඛ්‍ය හා කර්මාන්ත අමාත්‍ය වෛද්‍ය  රමේෂ් පතිරණ මහතා අවධාරණය කරයි.
+Dr. Ramesh Pathirana, Health and Industry Minister, highlighted at a Samanala Stadium event that 12% of Sri Lanka's elderly have had dental issues, emphasizing the importance of maintaining good health from early life. The event, organized by the Ministry of Health and the Sri Lanka Dental Association, aimed to educate the public on the harmful effects of tobacco, lime, and leaf, aiming to create good habits and reduce health risks.
 
-අමාත්‍යවරයා මේ බව අවධාරණය කරන ලද්දේ “සතුටු මුවයි-සුවැති සිරුරයි” යන්න තේමා කර ගනිමින්  ලෝක මුඛ සෞඛ්‍ය දිනය වෙනුවෙන් අද දින (22) ගාල්ල සමනල ක්‍රීඩාංගනයේදී පැවති විශේෂ උත්සවයකට සහභාගි වෙමිණි.
+🟩
 
-ලෝක මුඛ සෞඛ්‍ය දිනයට සමගාමීව සෞඛ්‍ය අමාත්‍යාංශය, ශ්‍රී ලංකා දන්ත වෛද්‍ය සංගමය, යුනිලීවර් සමාගම එක්ව සංවිධානය කරන ලද මෙම විශේෂ දන්ත කදවුර මගින් ගාල්ල දිස්ත්‍රික්කයේ පාසල් දරුවන් 2000 අධික පිරිසකගේ මුඛ සෞඛ්‍ය පරීක්ෂාව හා මුඛ සෞඛ්‍ය පිළිබද පෙර පාසල් ගුරුවරුන් දැනුවත්  කිරීමට සැලසුම් කර තිබිණ .
+Health and Industry Minister Dr. Ramesh Pathirana stressed that 12% of the elders of Sri Lanka has had the same for the same.
 
-ලංකාවේ ප්‍රමුඛතම රෝගය බවට දන්ත රෝගය පත්ව තිබෙන බව වෛද්‍යවරුන් හෙලි කල බවත්,  දරුවන් හා මැදිවියේ වයස් ගත වන ජනගහනය අතරෙත් දන්ත රෝග නිසා විශාල පීඩාවකට ලක් වන බවත් ප්‍රකාශ කර සිටියේය..
+The Minister emphasized this to a special event at the Samanala Stadium in the Samanala Stadium in Galle today (22).
+
+The special schools of the Ministry of Health, the Sri Lanka Dental Association organized by the Sri Lanka Dental Association, has been organized by the Ministry of Health, the Sri Lanka Dental Association.
+
+The doctors revealed that the leading disease was the leading disease in Sri Lanka, and the children and the middle age group of children and the population popularized demind.
+
+He said that it is very important to maintain a good health from the early days of life to the end, the minister said that a large number of people in Sri Lanka are suffering from oral canon.
 
 ...
 
 [Data](articles/70c08ede.json)
+
+[Extended Data](ext_articles/70c08ede.ext.json)
 
 ---
 
@@ -2181,31 +2217,5 @@ Kamindu Mendis recorded his wedding tests century.
 [Data](articles/36cd2a01.json)
 
 [Extended Data](ext_articles/36cd2a01.ext.json)
-
----
-
-### Canada to reduce number of temporary residents; first cap set in Sept.
-
-*2024-03-22 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98128/canada-to-reduce-number-of-temporary-residents-first-cap-set-in-sept) · `en`
-
-Canada is planning to set limits on the number of temporary residents it lets in for the first time in its history.
-
-Immigration minister Marc Miller said on Thursday that the number will be reduced over the next three years, with the first cap to be set in September.
-
-It will apply to international students, as well as foreign workers and asylum claimants.
-
-The minister has previously spoken about revising immigration targets due to an affordability and housing crisis.
-
-In his announcement, Mr Miller said that Canada plans to reduce the number of temporary residents to 5% of the population, down from the current 6.2%.
-
-He added that the move is to ensure “sustainable” growth in the number of temporary residents coming into Canada.
-
-In recent years, Mr Miller said Canada has seen a “sharp increase” of temporary residents admitted to the country.
-
-...
-
-[Data](articles/ca3e0aaa.json)
-
-[Extended Data](ext_articles/ca3e0aaa.ext.json)
 
 ---

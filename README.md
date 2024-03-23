@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 18:33:10**
+As of **2024-03-23 18:50:54**
 
 ## Newspaper Stats
 
-*Scraped **14,747** Articles*
+*Scraped **14,748** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,45 +20,75 @@ tamilmirrorlk | 1,770
 adaderanalk | 1,773
 virakesarilk | 2,074
 dailymirrorlk | 2,270
-adaderanasinhalalk | 2,358
+adaderanasinhalalk | 2,359
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,744 (100.0%) of 14,747 articles have been extended.
+14,747 (100.0%) of 14,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### මෛත්‍රීගේ ප්‍රකාශය ගැන පරීක්ෂණ කරන්නැයි පොලිස්පතිට නියෝග
+### මේ වැඩේ කරන්න බැරි අය නිලඇඳුම ගලවලා යන්න - ටිරාන් අලස්
+
+*2024-03-23 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194857) · `si`
+
+ඇතැම් ප්‍රදේශවල සිවිල් ආරක්ෂක කමිටු පිහිටුවීමේදී පොලිස් නිලධාරීන් විසින් වැරදි තොරුතුර ලබාදී ඇතැයි මහජන ආරක්ෂක අමාත්‍ය ටිරන් අලස් මහතා පවසයි.
+
+එහිදී අමාත්‍යවරයා පවසා සිටියේ, එවැනි වැරදි තොරතුර ලබාදුන් නිලධාරීන්ට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගන්නා බවය.
+
+අද (23) රත්නපුර ප්‍රදේශයේ පැවැති උත්සවයකට සහභාගී වෙමින් අමාත්‍යවරයා ඒ බව සඳහන් කළේය.
+
+"යුක්තිය මෙහෙයුම පටන් ගන්න ඉස්සරවෙලා අපි අධ්‍යයනය කරන කාලයේ අපි ප්‍රජා කමිටු පිහිටුවන වැඩේ අලුතින් කෙරුවේ. අපි අලුත් විදිහකට හිතලා... මට මතකයි සැප්තැම්බර් 30 වෙනෙකොට ඒක ඉවර කරන්න කියලා තිබුණේ. ඊට පස්සේ ඔක්තෝම්බර් 10 වෙනතුර කල් ඉල්ලුවා. මම ඔක්තෝම්බර් 10 වෙනකොට ඉවර කරන්න කිව්වා. පොලිස්පතිතුමා කිව්වා වගේ සමහර පැතිවල ඒක හරියට කරලා නැහැ. අපිට බොරු තොරතුරු දිලා තියෙන්නේ. එවැනි පොලිස් නිලධාරීන්ට විරුද්ධව ගන්න පුළුවන් උපරිම ක්‍රියාමාර්ගය මම ගන්නවා. මොකද මේ දේ කරන්න බෑ පොලිස් නිලධාරීන් සියලුදෙනාම එකට එකතු වෙලා මේ වැඩ ටික කෙරුවේ නැත්නම්. කවුරු හරි ඉන්නවා නම් අපිට ඕනේ විදිහට මේ වැඩේ කරන්න බැරි. ඒ අය නිල ඇඳුම ගලවලා යන්න ඕනේ."
+
+◼️
+
+[Data](articles/d91e3df6.json)
+
+---
+
+### IGP ordered to investigate Maithri's statement
 
 *2024-03-23 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194856) · `si`
 
-පාස්කු ඉරිදා බෝම්බ ප්‍රහාරය සම්බන්ධයෙන් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පසුගියදා කළ ප්‍රකාශය සම්බන්ධයෙන් වහාම පරීක්ෂණයක් පවත්වන ලෙස පොලිස්පතිවරයා වෙත නියෝග කර තිබේ.
+Maithripala Sirisena orders IGP to investigate his own statement on the Malfunctional Board, as ordered by People's Defense Minister Tiran Alles.
 
-මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා විසින් පොලිස්පතිවරයා වෙත එලෙස නියෝග කර ඇත.
+🟩
+
+Former President Maithripala Sirisena has ordered an investigation into the statement made by former President Maithripala Sirisena regarding the Malfunctional Board.
+
+Tiran Alles has ordered the IGP by People's Defense Minister Tiran Alles.
 
 ◼️
 
 [Data](articles/33f93cca.json)
 
+[Extended Data](ext_articles/33f93cca.ext.json)
+
 ---
 
-### දෙමටගොඩින් රු කෝටි 2ක අයිස් මත්ද්‍රව්‍ය සොයාගනී
+### Dematagoda discovers ice of ice
 
 *2024-03-23 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194855) · `si`
 
-රුපියල් කෝටි 02කට ආසන්න වටිනාකමක් සහිත අයිස් මත්ද්‍රව්‍ය  තොගයක් සමග සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Dematagoda: Two arrested for ice drugs worth Rs. Near Baseline Road, Colombo. Main suspect captured with 1580 grams of ice.
 
-දෙමටගොඩ බේස්ලයින් පාර සිරිසර උයන මහල් නිවාස සංකීර්ණය අසලදී  කොළඹ අපරාධ කොට්ඨාසය විසින් වැටලීම සිදුකර තිබුණි.
+🟩
 
-ප්‍රධාන සැකකරු සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 1580 ක් පොලිස් භාරයට ගෙන ඇත.
+Two suspects have been arrested along with an ice drugs worth nearly Rs.
+
+The Colombo Crimes Division was raided near Baseline Road, Dematagoda road near the Sirisara Uyana apartment complex.
+
+The main suspect has been taken into custody by 1580 grams of ice narcotics.
 
 ◼️
 
 [Data](articles/19bd8876.json)
+
+[Extended Data](ext_articles/19bd8876.ext.json)
 
 ---
 
@@ -77,6 +107,8 @@ Nevertheless, speaking to the media following an event held in Colombo today (23
 ...
 
 [Data](articles/3c4d3f20.json)
+
+[Extended Data](ext_articles/3c4d3f20.ext.json)
 
 ---
 
@@ -2299,23 +2331,5 @@ American Premium commemorates World Water Day by teaming up with OrphanCare
 [Data](articles/9fb460d1.json)
 
 [Extended Data](ext_articles/9fb460d1.ext.json)
-
----
-
-### ‘Avurudu’ shopping discounts up to 50% at 4,000+ outlets for ComBank cardholders
-
-*2024-03-23 00:13:57* · [`dailyftlk`](https://www.ft.lk/business/Avurudu-shopping-discounts-up-to-50-at-4-000-outlets-for-ComBank-cardholders/34-759840) · `en`
-
-The Commercial Bank of Ceylon is heralding the arrival of the Sinhala and Tamil New Year with the launch of its biggest seasonal shopping promotion of the year for credit and debit card holders.
-
-The Bank has partnered with more than 400 merchants to offer discounts of up to 50% on specified days or periods from 20 March to 30 April 2024 at over 4,000 outlets across the country.
-
-These promotions will add to the good cheer of the Avurudu celebrations by offering cardholders opportunities to shop for clothes for the whole family, buy presents for friends, get a home makeover, try out a new beauty trend, get fit, and even indulge in some much-needed self-love, the Bank said.
-
-...
-
-[Data](articles/3d3a2623.json)
-
-[Extended Data](ext_articles/3d3a2623.ext.json)
 
 ---

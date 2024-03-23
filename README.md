@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 09:52:23**
+As of **2024-03-23 10:03:04**
 
 ## Newspaper Stats
 
-*Scraped **14,668** Articles*
+*Scraped **14,674** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ economynextcom | 782
 dailyftlk | 791
 islandlk | 805
 adalk | 1,258
-adaderanalk | 1,757
+adaderanalk | 1,758
 tamilmirrorlk | 1,765
 virakesarilk | 2,065
-dailymirrorlk | 2,257
-adaderanasinhalalk | 2,340
+dailymirrorlk | 2,261
+adaderanasinhalalk | 2,341
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,668 (100.0%) of 14,668 articles have been extended.
+14,668 (100.0%) of 14,674 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### Digital Public Infrastructure conference organized by Indian HC held next week
+
+*2024-03-23 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98143/digital-public-infrastructure-conference-organized-by-indian-hc-held-next-week) · `en`
+
+The High Commission of India in Colombo, in partnership with Sri Lanka’s Technology Ministry, is organizing a conference on Digital Public Infrastructure (DPI), to be held on 26 March.
+
+The conference will explore the transformative potential of DPI for enabling service delivery, empowering communities by fostering inclusivity and enriching the economy by driving innovation, according to a statement issued by the High Commission.
+
+It will commence with an opening plenary session, where the keynote address will be delivered by President Ranil Wickremesinghe. The opening plenary will be followed by two panel discussions.
+
+Accordingly, the first, ‘Accelerating Digital Sri Lanka’ will focus on how DPI simplifies governance and improves accessibility for the citizens. The second, ‘Unlocking the Digital Stack’ will discuss DPI’s use cases including in the startup domain, marrying technology, markets and governance.
+
+...
+
+[Data](articles/6d8ed719.json)
+
+---
+
+### පස්දෙනෙකුට දිවි අහිමි කළ මාරක අනතුරු
+
+*2024-03-23 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194837) · `si`
+
+දිවයිනේ ප්‍රදේශ කිහිපයකදී සිදු වූ රිය අනතුරු හේතුවෙන් පුද්ගලයින් 5 දෙනෙකුට දිවි අහිමිවී තිබේ.
+
+මෙරොන්තුඩුව, කිරින්ද, පුත්තලම, මාදම්පේ සහ අතුරුගිරිය යන ප්‍රදේශවලදී මෙම මාරක අනතුරු සිදුව ඇති බව පොලිස් මාධ්‍ය අංශය නිවේදනය කළේය.
+
+ඊයේ (22) මොරොන්කුඩුව කළුතර - බණ්ඩාරගම මාර්ගයේ දැල්කඩ ප්‍රදේශයේ දී බණ්ඩාරගම දෙස සිට මොරොන්තුඩුව දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කර ගත නොහැකිවය මාර්ගයෙන් ඉවතට පැන ගසක ගැටී සිදුවූ අනතුරකින් තරුණයෙකු මියගොස් තිබේ.
+
+මේ අතර, තිස්සමහාරාමය කිරින්ද මාර්ගයේ විලමුල්ල හන්දිය අසලදී අතුරු මාර්ගයකින් පැමිනි යතුරුපැදියක් එකවැරම ප්‍රධාන මාර්ගයට පිවිසීමේදී පැදිකරුට වේගය පාලනය කර ගැනීමට නොහැකිව යතුරුපැදිය මාර්ග අසල පිහිටි තාප්පයක ගැටී අනතුරක් සිදුව ඇත.
+
+එහිදී බරපතළ තුවාල ලැබු පැදිකරු මියගොස් ඇති අතර පසුපැදිකරු හම්බන්තොට රෝහලේ ප්‍රතිකාර ලබමින් සිටී.
+
+මේ අතර ඊයේ පුත්තලම කුරුණෑගල මාර්ගයේ ගල්කුලම ප්‍රදේශයේ දී කුරුණෑගල දෙස සිට පුත්තලම දෙසට ධාවනය වූ ලොරි රථයක් විරුද්ධ දිසාවෙන් පැමිණි යතුරුපැදියක ගැටී අනතුරුව එම ලොරි රථය පෙරළී ගොස් අනතුරක් සිදුව තිබේ.
+
+...
+
+[Data](articles/e245d617.json)
+
+---
 
 ### Moscow kilpasses have been tugged
 
@@ -67,6 +107,24 @@ The injured are young children and the Russian Foreign Ministry said.
 [Data](articles/699de2e7.json)
 
 [Extended Data](ext_articles/699de2e7.ext.json)
+
+---
+
+### Indian fishermen strike against Sri Lankan Navy arrests
+
+*2024-03-23 09:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-fishermen-strike-against-Sri-Lankan-Navy-arrests/108-279458) · `en`
+
+Madurei, March 23 (The Hindu) - The fishermen associations in the coastal Ramanathapuram district have announced an indefinite strike with immediate effect condemning the Sri Lankan Navy of arresting the fishermen from Tamil Nadu under ‘false charges’ on Friday.
+
+An emergency meeting was convened in view of the arrest of 32 fishermen from Rameswaram and Thangachimadam on (Thursday) March 21 by the Sri Lankan Navy personnel in Neduntheevu and at Mannar in Palk Straits. All the 32 men were remanded in judicial custody. Five trawlers were also impounded by the Lankan authorities.
+
+Under these circumstances, the fishermen associations met here and discussed the issues.
+
+Many members at the meeting blamed the Union government for not effectively handling the situation. “If the Prime Minister or External Affairs Minister had held talks, the Sri Lankan government would have positively responded and obliged the Indian PM,.” one of them said.
+
+...
+
+[Data](articles/7b7567c6.json)
 
 ---
 
@@ -111,6 +169,42 @@ Alagiyawanna was addressing a press briefing titled “Collective Path to a Stab
 [Data](articles/615a3e3c.json)
 
 [Extended Data](ext_articles/615a3e3c.ext.json)
+
+---
+
+### Gunmen kill more than 60 in concert attack near Moscow, IS claims responsibility
+
+*2024-03-23 08:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Gunmen-kill-more-than-60-in-concert-attack-near-Moscow-IS-claims-responsibility/107-279457) · `en`
+
+MOSCOW, (Reuters) - Camouflage-clad gunmen opened fire at concertgoers with automatic weapons on Friday, killing at least 60 people and injuring 145 more in an attack claimed by Islamic State militants.
+
+In the deadliest attack in Russia since the 2004 Beslan school siege, gunmen sprayed civilians with bullets just before Soviet-era rock group "Picnic" was to perform to a full house at the 6,200-seat the Crocus City Hall just west of Moscow.
+
+Verified video showed people taking their seats in the hall, then rushing for the exits as repeated gunfire echoed above screams. Other video showed men shooting at groups of people. Some victims lay motionless in pools of blood.
+
+"Suddenly there were bangs behind us - shots. A burst of firing - I do not know what," one witness, who asked not to be identified by name, told Reuters.
+
+"A stampede began. Everyone ran to the escalator," the witness said. "Everyone was screaming; everyone was running."
+
+...
+
+[Data](articles/6d12f009.json)
+
+---
+
+### Sri Lanka vigilant on Canada’s genocide allegation while having double-standard on Gaza
+
+*2024-03-23 08:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-vigilant-on-Canadas-genocide-allegation-while-having-double-standard-on-Gaza/108-279430) · `en`
+
+March 23, (Daily Mirror)  - Sri Lanka remains alert whether the Canadian government leaders will repeat what it calls ‘unsubstantiated genocide allegations’ against Sri Lanka this year too while taking an ambivalent position on the humanitarian crisis in Gaza, a top source said.
+
+When Sri Lanka marked its anniversary of war victory last year, Canadian Prime Minister Justin Trudeau on May 18, marked as ‘Tamil Genocide Remembrance Day’ made such allegations despite the Federal government of Canada having communicated a different position.
+
+Last year, Sri Lanka “condemned and rejected outright” the remarks made by the Canadian Prime Minister and urged its leaders to refrain from making pronouncements from Canada which promote hatred, misinformation and extremist views and to cease its unhelpful focus on Sri Lanka based on distorted facts.
+
+...
+
+[Data](articles/5cd395a5.json)
 
 ---
 
@@ -669,6 +763,30 @@ The videos shown in the hall are being founded by three armed dresses, which sho
 [Data](articles/662b51f7.json)
 
 [Extended Data](ext_articles/662b51f7.ext.json)
+
+---
+
+### Princess of Wales says she is undergoing cancer treatment
+
+*2024-03-23 00:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Princess-of-Wales-says-she-is-undergoing-cancer-treatment/107-279456) · `en`
+
+(BBC) - The Princess of Wales says she is in the early stages of treatment after cancer was found in tests.
+
+In a video statement, Catherine says it was a "huge shock" after an "incredibly tough couple of months".
+
+But she sent a positive message, saying: "I am well and getting stronger every day."
+
+Details of the cancer have not been disclosed, but Kensington Palace says it is confident the princess will make a full recovery.
+
+The princess's statement explains that when she had abdominal surgery in January, it was not known that there was any cancer.
+
+"However tests after the operation found cancer had been present. My medical team therefore advised that I should undergo a course of preventative chemotherapy and I am now in the early stages of that treatment," said the princess.
+
+The chemotherapy treatment began in late February. The palace says it will not be sharing any further private medical information, including the type of cancer.
+
+...
+
+[Data](articles/1c5ae461.json)
 
 ---
 
@@ -2105,133 +2223,5 @@ He was the chief guest at the opening of the new mansion of the historical templ
 [Data](articles/12bce114.json)
 
 [Extended Data](ext_articles/12bce114.ext.json)
-
----
-
-### Navy apprehends 32 more Indian fishermen poaching in Sri Lankan waters
-
-*2024-03-22 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98129/navy-apprehends-32-more-indian-fishermen-poaching-in-sri-lankan-waters) · `en`
-
-The Sri Lanka Navy has apprehended 32 Indian fishermen along with 05 trawlers poaching in Sri Lankan waters off Talaimannar and near the Delft Island in two separate operations conducted on Wednesday night.
-
-The Navy continues to conduct regular patrols and operations in Sri Lankan waters to curb illegal fishing practices of foreign fishing trawlers, taking into account the impact of those practices on the livelihood of local fishermen.
-
-As an extension of these operations, the North Central and Northern Naval Commands had deployed their Inshore Petrol Craft and Fast Attack Craft to chase away a cluster of Indian poaching trawlers, having spotted they were engaging in illegal fishing in Sri Lankan waters.
-
-Two Indian poaching trawlers were first impounded along with 07 Indian fishermen off Talaimannar, followed by the seizure of 03 more Indian poaching trawlers with 25 fishermen aboard off the Delft Island.
-
-...
-
-[Data](articles/60e47469.json)
-
-[Extended Data](ext_articles/60e47469.ext.json)
-
----
-
-### Attorney General informs court that Keheliya does not appear to appear
-
-*2024-03-22 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194820) · `si`
-
-The Attorney General informed the court that MP Keheliya Rambukwella, a respondent demanding basic human rights, did not appear. The Supreme Court postponed the petition.
-
-🟩
-
-The Attorney General is not speaking to several respondents, including the MP Keheliya Rambukwella, who has been named as respondents who have been demanding the decision to purchase the basic human rights.22) The Supreme Court was informed.
-
-The General Selicini appearing on behalf of the Attorney General was made informed on behalf of the Attorney General at the time of this petition.
-
-The court also decided to postpone the petition.
-
-◼️
-
-[Data](articles/2588e358.json)
-
-[Extended Data](ext_articles/2588e358.ext.json)
-
----
-
-### JVP, LTTE instrumental for economic crisis: S.M. Chandrasena
-
-*2024-03-22 15:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/JVP-LTTE-instrumental-for-economic-crisis-S-M-Chandrasena/108-279403) · `en`
-
-Colombo, March 22 (Daily Mirror)- The actions of the Janatha Vimukthi Peramuna (JVP) and the LTTE were the main instrumental factors for the current economic crisis, former Minister S.M. Chandrasena said.
-
-He told reporters that if the destruction of property and lives caused by the JVP and the LTTE was evaluated, it would be clear that their actions must have led to the crisis situation the country was facing today.
-
-He said the JVP is now trying to show the country that they are good people by pointing fingers at others for the bankruptcy.
-
-◼️
-
-[Data](articles/5e13f1a7.json)
-
-[Extended Data](ext_articles/5e13f1a7.ext.json)
-
----
-
-### Special holidays for Hatton Zonal Schools
-
-*2024-03-22 15:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/179439) · `ta`
-
-Hatton Zonal Tamil schools in Central Province will observe a special holiday on Monday, April 6, 2024, for the Hatton Sri Manikapillaiar Temple Maha Kumbabisheka.
-
-🟩
-
-The Governor of the Central Province, WMM Madagapola, has confirmed that a special holiday will be granted to Hatton Zonal Tamil schools on Monday (25).
-
-Hatton Sri Manikapillaiar Temple Maha Kumbabisheka has been given this holiday in front of the great festival.
-
-For this purpose, it has been decided to carry out educational activities on 06.04.2024.
-
-◼️
-
-[Data](articles/7cbaf8f8.json)
-
-[Extended Data](ext_articles/7cbaf8f8.ext.json)
-
----
-
-### A massive strike on early April?
-
-*2024-03-22 15:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194819) · `si`
-
-Government Executive Unions plan a strike in early April, following discussions with the University of Examinations. They demand reforms, considering the cost of living and decisions by the State Commission. The strike aims to address professional issues and economic hardship, with proposals to be presented to the Cabinet on March 31.
-
-🟩
-
-The Government Executive Unions have decided to implement an awesome committee of the Government Executive Testing in the first week of April due to the government's reputation by the Government.
-
-The decision was taken after a discussion with the University of Examinations of the Department of Examinations today (22).
-
-They will be demanding the government to demand the government to make the necessary reforms in consultation by considering the cost of the cost of the cost of the cost of living and the arbitrary decisions made by the State Commission.
-
-The committee states that the discussion was requested to resolve the professional issues, including the economic hardship affected by the Prime Minister recently.
-
-The integrated committee of the government executives that the solution proposals are expected to contest the Cabinet at March 31, he said.
-
-...
-
-[Data](articles/505fc037.json)
-
-[Extended Data](ext_articles/505fc037.ext.json)
-
----
-
-### Women Parliamentarians’ Caucus expresses concern on reducing consent age for sex
-
-*2024-03-22 15:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Women-Parliamentarians-Caucus-expresses-concern-on-reducing-consent-age-for-sex/108-279401) · `en`
-
-Parliament, March 22 (Daily Mirror)- The Women Parliamentarians’ Caucus has requested Justice Minister Wijeyadasa Rajapakshe to take steps to withdraw the bill gazetted to amend Chapter 19 of the Penal Code which seeks to reduce the consent age for sex to 14.
-
-"According to the amendments made to the Penal Code in 1995, even if a girl under 16 years of age has sexual relations of her own free will, it is considered rape and the proposed amendment to the Penal Code by the Minister of Justice will lower the age limit to 14 years," the Caucus said.
-
-The Chair of the Women Parliamentarians' Caucus Sudarshini Fernandopulle said that she requested on behalf of the Women Parliamentarians’ Caucus to withdraw the proposed bill to amend Section 364 of the Penal Code.
-
-She also requested to prioritise the protection of women and children and uphold the justice for vulnerable population in Sri Lanka.
-
-...
-
-[Data](articles/aba9e7ee.json)
-
-[Extended Data](ext_articles/aba9e7ee.ext.json)
 
 ---

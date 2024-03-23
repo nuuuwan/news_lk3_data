@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 16:33:13**
+As of **2024-03-23 16:48:02**
 
 ## Newspaper Stats
 
-*Scraped **14,732** Articles*
+*Scraped **14,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ adalk | 1,261
 adaderanalk | 1,769
 tamilmirrorlk | 1,770
 virakesarilk | 2,072
-dailymirrorlk | 2,268
-adaderanasinhalalk | 2,352
+dailymirrorlk | 2,270
+adaderanasinhalalk | 2,353
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,732 (100.0%) of 14,732 articles have been extended.
+14,732 (100.0%) of 14,735 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### Moscow concert attack: Suspects arrested; death toll rises to 115
+
+*2024-03-23 16:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Moscow-concert-attack-Suspects-arrested-death-toll-rises-to-115/155-279467) · `en`
+
+Moscow, March 23 (BBC) - Gunmen have attacked a concert hall on the fringes of Moscow, killing at least 115 people and wounding 100 more, Russian security services say.
+
+Attackers clad in camouflage gear took part in the attack, in the north-western suburb of Krasnogorsk, BBC-verified video shows.
+
+Four men directly involved were among 11 arrested on Saturday, officials say.
+
+Crocus City Hall was about to host a rock concert when the gunmen burst into the foyer and then the theatre itself.
+
+Much of the building was engulfed by fire and part of the roof collapsed.
+
+Children are said to be among the casualties and the Russian foreign ministry has condemned a "terrorist attack".
+
+According to an unverified statement online, militant group Islamic State said it was behind the attack.
+
+...
+
+[Data](articles/272f064e.json)
+
+---
+
+### රුසියාවට එල්ලකළ ත්‍රස්ත ප්‍රහාරය ශ්‍රී ලංකාව පිළිකුල් කරයි
+
+*2024-03-23 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194850) · `si`
+
+රුසියාවේ මොස්කව් අගනුවරදී සිවිල් වැසියන් ඉලක්ක කර එල්ල කළ ත්‍රස්ත ප්‍රහාරය ශ්‍රී ලංකාව තරයේ හෙළා දකින බව විදේශ අමාත්‍යාංශය පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම අමාත්‍යාංශය සඳහන් කළේ සිවිල් වැසියන්ට එරෙහි මෙවැනි නිවට ප්‍රචණ්ඩ ක්‍රියා පිළිකුල් සහගත වන අතර ශිෂ්ඨ සමාජය තුළ ඊට ඉඩක් නොමැති බවය.
+
+එසේම, තුවාල ලැබූ සියලු‍ම දෙනාට ඉක්මන් සුවය ප්‍රාර්ථනා කරන බවද විදේශ අමාත්‍යාංශය පවසයි.
+
+ශ්‍රී ලංකා රජය සහ ජනතාව විපතට පත් වූවන්ගේ පවුල්වලට, මහජනතාවට සහ රුසියානු සමූහාණ්ඩුවේ රජයට හෘදයාංගම ශෝකය ප්‍රකාශ කරන බවද එම නිවේදනයේ සඳහන් ය.
+
+◼️
+
+[Data](articles/c8a3c7d7.json)
+
+---
 
 ### The proposal is withdrawn on sexual relationships
 
@@ -2219,45 +2261,5 @@ Russia’s Defense Ministry said it had “launched a massive strike” on Ukrai
 [Data](articles/6532244c.json)
 
 [Extended Data](ext_articles/6532244c.ext.json)
-
----
-
-### An Elephant Knowledge Walk, tea inspiration and well-being of future generations
-
-*2024-03-22 23:20:35* · [`dailyftlk`](https://www.ft.lk/columns/An-Elephant-Knowledge-Walk-tea-inspiration-and-well-being-of-future-generations/4-759829) · `en`
-
-Elephants are an inspiring species, almost more human than humans; their social structure and bonds of family are admirable. In 2009 we inaugurated the Elephant Information Centre at the Elephant Transit Home in Uda Walawe. It was the first time Sri Lanka’s Department of Wildlife Conservation was able to engage visitors with the story of elephants. Last Saturday, it was thrilling – 15 years later – to do as my son Amrit and I in 2009, building on the success of the unique facility with the renewed Dilmah Conservation ‘Elephant Knowledge Walk’.
-
-The question hung in the 40 degree heat, as renowned Elephant Conservationist Dr. Sumith Pilapitiya explained the significance of elephants, why a tea company should invest in a long-term partnership for the conservation of Sri Lankan elephants in isolated Uda Walawe.
-
-...
-
-[Data](articles/797555f9.json)
-
-[Extended Data](ext_articles/797555f9.ext.json)
-
----
-
-### Sri Lanka among ten countries mostly affected by climate change
-
-*2024-03-22 23:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-among-ten-countries-mostly-affected-by-climate-change/108-279422) · `en`
-
-Colombo, March 22 (Daily Mirror) -  Sri Lanka is among the ten countries which are mostly affected by climate change, the first session of the Sri Lanka Climate Parliament revealed today.
-
-The disclosure was made by Climate Parliament Chairman Eran Wickramaratne and Senior Presidential advisor Ruwan Wijewardene.
-
-MP Wickremesratne stressed that the Sri Lanka Climate Parliament will work with internal bodies and other nations to minimize the effect of climate change.
-
-“We intend to work with UNDP, UNDIO and will also work in line with the government’s road map for hydrogen,” he said.
-
-Rwan Wijewardene also said that climate change will account for one percent loss of Sri Lanka’s GDP by 2050.
-
-“Sri Lanka’s agriculture sector is slated to lose billions of dollars due to climate change,” he added.
-
-...
-
-[Data](articles/75d8414e.json)
-
-[Extended Data](ext_articles/75d8414e.ext.json)
 
 ---

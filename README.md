@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 09:02:59**
+As of **2024-03-23 09:17:44**
 
 ## Newspaper Stats
 
-*Scraped **14,666** Articles*
+*Scraped **14,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 805
 adalk | 1,258
 adaderanalk | 1,757
 tamilmirrorlk | 1,765
-virakesarilk | 2,064
+virakesarilk | 2,065
 dailymirrorlk | 2,257
 adaderanasinhalalk | 2,339
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,339
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,664 (100.0%) of 14,666 articles have been extended.
+14,666 (100.0%) of 14,667 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### நாட்டில் 12 சதவீதமான முதியவர்களுக்கு பற்கள் இல்லையாம்
+
+*2024-03-23 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179475) · `ta`
+
+நாட்டிலுள்ள  12 சதவீதமான முதியவர்கள் அனைத்தை  பற்களையும் இழந்துள்ளதாக சுகாதார அமைச்சர் வைத்தியர் ரமேஷ் பத்திரன தெரிவித்துள்ளார்.
+
+பல் ஆரோக்கியத்தின் முக்கியத்துவத்தை பாடசாலை மட்டத்தில் கற்பிக்க வேண்டும். வாழ்நாள் முழுவதும் வாய் பல் ஆரோக்கியத்தை சரியாக பேணுவது முக்கியம். நாட்டில் இன்று ஏராளமானோர் வாய் புற்றுநோயால் பாதிக்கப்பட்டுள்ளனர் எனக் குறிப்பிட்டுள்ளார்.
+
+இதுபோன்ற நோய்களைத் தடுக்க சரியான சுகாதாரப் பழக்கங்களைப் பின்பற்றுவதன் அவசியம் என வலியுறுத்தியுள்ளார்.
+
+◼️
+
+[Data](articles/9e0f2513.json)
+
+---
 
 ### Sri Lanka to issue on-arrival driving licenses to foreigners starting April 15
 
@@ -49,6 +65,8 @@ Alagiyawanna was addressing a press briefing titled “Collective Path to a Stab
 ...
 
 [Data](articles/615a3e3c.json)
+
+[Extended Data](ext_articles/615a3e3c.ext.json)
 
 ---
 
@@ -364,19 +382,25 @@ Colombo, March 23 (Daily Mirror) - A General Election will be held if the member
 
 ---
 
-### ’வெளிநாட்டவர்க்கு இலங்கை சாரதி அனுமதிப்பத்திரம்’
+### Sri Lankan driver's license
 
 *2024-03-23 04:36:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டவர்க்கு-இலங்கை-சாரதி-அனுமதிப்பத்திரம்/175-335042) · `ta`
 
-இலங்கையில் சாரதி அனுமதிப்பத்திரம் கோரி விண்ணப்பிக்கும் வெளிநாட்டவர்களுக்கு ஏப்ரல் 15 ஆம் திகதி முதல் விமான நிலையத்திலிருந்து வெளியில் வரும்போதே சாரதி அனுமதிப்பத்திரத்தை பெற்றுக்கொடுப்பதற்கான ஏற்பாடுகள் செய்யப்படுமென போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவன்ன தெரிவித்தார்.
+From April 15, foreigners in Sri Lanka can apply for a driver's license at the airport, thanks to arrangements by the Department of Immigration, Air Transport Services Authority, and Ministry of Tourism.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் மாநாட்டிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-குடிவரவுத் திணைக்களம், விமானப் போக்குவரத்து சேவைகள் அதிகார சபை மற்றும் சுற்றுலா அமைச்சு ஆகியன இலங்கையில் சாரதி அனுமதிப்பத்திரத்தைப் பெற விரும்பும் வெளிநாட்டவர்களுக்கு ஏப்ரல் 15 ஆம் திகதி முதல் விமான நிலையத்தில் விண்ணப்பிப்பதற்கும் சாரதி அனுமதிப்பத்திரத்தை வழங்குவதற்கும் தேவையான அனைத்து ஏற்பாடுகளையும் செய்துள்ளது என்றார். (a)
+Transport Minister Lasantha Alagavanna said that the foreigners who are seeking a driver's license in Sri Lanka will be made available to the driver's license as they leave the airport from April 15.
+
+He said this at a press conference held at the Presidential Media Center yesterday. He further stated that
+
+The Department of Immigration, the Air Transport Services Authority and the Ministry of Tourism have made all necessary arrangements to apply at the airport from April 15 to foreigners who wish to obtain a driver's license in Sri Lanka.. (A)
 
 ◼️
 
 [Data](articles/a3a1e955.json)
+
+[Extended Data](ext_articles/a3a1e955.ext.json)
 
 ---
 
@@ -2191,29 +2215,5 @@ Kummindu Mendis and Leader Dhananjaya de Silva took the innings in Sri Lanka.
 [Data](articles/e2474650.json)
 
 [Extended Data](ext_articles/e2474650.ext.json)
-
----
-
-### Shezanti opposes sex for 14 years
-
-*2024-03-22 15:08:58* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-14-ලිංගික-හැසිරීමට-සුදර්ශනිී-විරුද්ධ-වෙයි/11-408758) · `si`
-
-Shezanti opposes sex for 14 years. Parliamentarians request to discontinue Chapter 19 of the Penal Code, citing amendments from 1995 that could classify it as rape. Sudhashani Fernandopulle, a Parliament member, is informed of this.
-
-🟩
-
-Amendments to the amendments to be suspended in Chapter 19
-
-The Parliament of Sri Lanka Parliamentarian for the forum of February 9, 2024, request to the Survey and Constitutional Reforms Minister Wijedasa Rajapakse to discontinue the Chapter 19 of the Penal Code.
-
-According to the amendments to the Penali Code in 1995, despite the amendment of less than 16 years, it will be brought under a rape and will be brought under a rape.
-
-As a chairman of the Parliament Members of Parliament, President (Dr.) is informed of Sudhashani Fernandopulle.
-
-◼️
-
-[Data](articles/00d2a75b.json)
-
-[Extended Data](ext_articles/00d2a75b.ext.json)
 
 ---

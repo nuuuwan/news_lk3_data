@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 12:17:58**
+As of **2024-03-23 12:34:09**
 
 ## Newspaper Stats
 
-*Scraped **14,691** Articles*
+*Scraped **14,705** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,29 +12,65 @@ colombotelegraphcom | 134
 bbccomsinhala | 161
 dbsjeyarajcom | 190
 newsfirstlk | 363
-economynextcom | 782
 dailyftlk | 791
+economynextcom | 794
 islandlk | 805
 adalk | 1,258
-adaderanalk | 1,762
+adaderanalk | 1,763
 tamilmirrorlk | 1,767
 virakesarilk | 2,069
-dailymirrorlk | 2,264
+dailymirrorlk | 2,265
 adaderanasinhalalk | 2,345
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,690 (100.0%) of 14,691 articles have been extended.
+14,691 (99.9%) of 14,705 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
+### Police detained 38 suspected criminals of underworld gangs
+
+*2024-03-23 12:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-detained-38-suspected-criminals-of-underworld-gangs/108-279463) · `en`
+
+Colombo, March 23 (Daily Mirror) - Eleven more suspected criminals of underworld gangs were arrested yesterday during the special operation launched to crack down on organized criminal activities.
+
+The police and the STF launched special operations targeting 20 identified organized criminal gangs in the country under the 'Yukthiya' initiative last Tuesday (19) following the concerning increase in organized criminal activities in the Western and Southern Provinces.
+
+Police said a total of 38 underworld criminals of notorious underworld gangs led by figures such as 'Kudu Anju', Dematagoda Chaminda, Kanjipani Imran, Keselwatte Dinuka, Ladiya and Kosgoda Sujee have been arrested as of yesterday during the operation.
+
+They said the arrested suspects are being detained for further questioning.
+
+◼️
+
+[Data](articles/e3c338a5.json)
+
+---
+
+### 2.2 billion people worldwide lack access to clean drinking water: UN report
+
+*2024-03-23 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98147/22-billion-people-worldwide-lack-access-to-clean-drinking-water-un-report) · `en`
+
+Increasing global water scarcity is fuelling more conflicts and contributing to instability, the United Nations warns in a new report, which says access to clean water is critical to promoting peace.
+
+The UN World Water Development Report 2024, released on Friday, said 2.2 billion people worldwide have no access to clean drinking water and 3.5 billion people lack access to safely managed sanitation.
+
+Girls and women are the first victims of a lack of water, said the report, published by the UN Educational, Scientific and Cultural Organization (UNESCO), especially in rural areas where they have the primary responsibility of collecting supplies.
+
+Spending several hours a day on fetching water, coupled with a lack of safe sanitation, is a contributing factor to girls dropping out of school.
+
+...
+
+[Data](articles/c334e0a5.json)
+
+---
+
 ### Sri Lanka in ten countries that have been affected by climate change
 
-*2024-03-23 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/179479) · `ta`
+*2024-03-23 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179479) · `ta`
 
 Sri Lanka, among 10 countries impacted by climate change, aims to mitigate its effects through international cooperation, focusing on green hydrogen and renewable energy. By 2050, climate change could lead to a 1% GDP loss and significant agricultural losses.
 
@@ -60,21 +96,27 @@ Climate change will lose billions of dollars in Sri Lanka's agriculture sector.
 
 ---
 
-### රිය අනතුරකදී රක්ෂණ වන්දි ගන්න ක්‍රමය අලුත් කරයි
+### The system renews the method of insurance in an accident
 
 *2024-03-23 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194841) · `si`
 
-රිය අනතුරකදී තුන්වන පාර්ශ්වයේ වින්දිතයන්ට අධිකරණ ක්‍රියාමාර්ගයකින් තොරව කඩිනමින් වන්දි ලබාදීමේ වැඩපිළිවෙළ මාර්තු 01 වනදා සිට ආරම්භ කළ බව ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පවසයි.
+The Minister of Transport, Lasantha Alagiyawanna, announced the immediate implementation of third-party accident insurance procedures without legal intervention. Insurance companies can now access their policies from any branch across the island within a year. Additionally, Sri Lanka is preparing to issue driving licenses at airports, starting from April 15, with necessary arrangements in place.
 
-ඒ අනුව අනතුර සිදුවී වසරක් තුළ අදාළ රක්ෂණ ආයතනයට අයදුම් කිරීමෙන් උපරිමය රුපියල් ලක්ෂ 05ක් දක්වා වන වන්දි මුදල එම රක්ෂණ ආයතනයේ දිවයින පුරා පිහිටි ඕනෑම ශාඛාවකින් ලබාගැනීමේ හැකියාව ලැබෙන බවද රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+🟩
 
-ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ඊයේ (22) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Minister of Transport Lasantha Alagiyawanna stated that the prompt proceedings of the third party in an accident have been launched without judicial action.
 
-මේ අතර මෙරට රියදුරු බලපත්‍රය අවශ්‍ය විදේශිකයන්ට අප්‍රේල් 15 වනදා සිට ගුවන් තොටුපළේදීම ඒ සඳහා අයදුම් කර, ගුවන් තොටුපොළෙන් පිටතට පැමිණෙන විට රියදුරු බලපත්‍රය ලබාගැනීමට අවශ්‍ය කටයුතු සූදානම් කර තිබෙන බවද ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පැවසීය.
+Accordingly, applying for the insurance company within a year, the insurance company will be able to obtain the insurance company from any branch island-wide.
+
+Minister of Transport Lasantha Alagiyawanna made this statement participating at a press conference held at the Presidential Media Center yesterday (22).
+
+Meanwhile, the Sri Lanka Driving License has been prepared at the airport on April 15 and the necessary arrangements have been made to obtain the driver's license at the airport.
 
 ◼️
 
 [Data](articles/d858a1f5.json)
+
+[Extended Data](ext_articles/d858a1f5.ext.json)
 
 ---
 
@@ -119,6 +161,28 @@ He said 32 fishermen from Tamil Nadu were caught by the Sri Lankan Navy on March
 [Data](articles/0d5f5ba3.json)
 
 [Extended Data](ext_articles/0d5f5ba3.ext.json)
+
+---
+
+### Sri Lanka exports marginally up in Feb 2024
+
+*2024-03-23 11:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-exports-marginally-up-in-feb-2024-155815/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s merchandise exports rose 0.17 percent from a year ago to 983.7 million US dollars, with the month with apparel exports down 2.0 percent, with a pick up in exports to the US and UK, official data showed.
+
+Agricultural exports from Sri Lanka picked up 11.82 percent to 255.76 million US dollars, but industrial exports fell 3.36 percent to 727.94 million dollars, Sri Lanka’s Export Development Board said.
+
+Tea exports were up 22 percent to 127.7 million US dollars, rubber-based products were up 15.8 percent to 88.73 million US dollars and coconut-based products were up 25 percent to 68.23 million Us dollars.
+
+Electronic components were down 18 percent to 35.16 million US dollars.
+
+Unclassified ‘other’ exports were down 25 percent to 95.39 million US dollars.
+
+Exports to the US, the top buyer of Sri Lanka goods, picked up 8 percent to 249.6 million US dollars.
+
+...
+
+[Data](articles/6fadf9f7.json)
 
 ---
 
@@ -387,6 +451,26 @@ Accordingly, the United Nations emphasizes that there is a risk of conflict in t
 [Data](articles/3d76f7c9.json)
 
 [Extended Data](ext_articles/3d76f7c9.ext.json)
+
+---
+
+### Sri Lanka releases land held by military in North
+
+*2024-03-23 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-releases-land-held-by-military-in-north-155792/) · `en`
+
+ECONOMYNEXT – Lands held by the Jaffna Security Force Headquarters in Jaffna were released to people at a ceremony attended by President Ranil Wickremesinghe, this week.
+
+“Following the end of conflict, a significant portion of land was requisitioned by the military. To date, the government has released approximately 63,000 acres of both government-owned and privately-owned land,” Wickremesinghe said in Ottagapulam, Jaffna.
+
+Jaffna Commander Major General Chandana Wickramasinghe presented the official land release documents to Wickremesinghe who handed over the documents to Jaffna District Governor Maradalingam Pradeepan.
+
+As per the arrangement, 234 acres of land from five Grama Niladhari Divisions in the Valikamam North were returned to the local public.
+
+“Land ownership is a universal aspiration transcending nationality. It is a fundamental right that everyone should possess,” Wickremesinghe was quoted as saying by his media division.
+
+...
+
+[Data](articles/eb75795b.json)
 
 ---
 
@@ -719,6 +803,24 @@ She had revealed this by issuing a special video message.
 [Data](articles/16a919a3.json)
 
 [Extended Data](ext_articles/16a919a3.ext.json)
+
+---
+
+### Sri Lanka’s ex-President Sirisena draws spotlight saying he can reveal Ester bomb plotters
+
+*2024-03-23 07:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-ex-president-sirisena-draws-spotlight-saying-he-can-reveal-ester-bomb-plotters-155803/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s former president Maithripala Sirisena has drawn public attention after his comments to media that he knows the real plotters behind Easter Sunday attack that killed at least 269 people in 2019.
+
+Sirisena, who was asked by the country’s Supreme Court to pay 100 million Sri Lanka rupees for the Easter attack victims for his failure to prevent the carnage, is a legislator now and leading center-left Sri Lanka Freedom Party (SLFP).
+
+Islamist suicide bombers targeted Catholics and foreigners in six simultaneous blasts on April 21, 2019, when Catholic people celebrated the Easter Sunday.
+
+“We know from where the easter attack originated. So far nobody has told the real people behind the Easter Sunday attack. But I know who did that,” Sirisena told reporters after an event in the island nation’s central sacred city of Kandy.
+
+...
+
+[Data](articles/35fcf394.json)
 
 ---
 
@@ -2113,109 +2215,5 @@ In the last night Russia, the Ukraine President Wallodimir Celenceky has stated 
 [Data](articles/8c986702.json)
 
 [Extended Data](ext_articles/8c986702.ext.json)
-
----
-
-### Maithripala claims to be aware of real culprits behind Easter attacks
-
-*2024-03-22 18:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maithripala-claims-to-be-aware-of-real-culprits-behind-Easter-attacks/108-279410) · `en`
-
-Colombo, March 22 (Daily Mirror) - Former President Maithripala Sirisena today disclosed that he is well aware of the true perpetrators behind the Easter Sunday bombings in 2019.
-
-"The suspects who are currently in remand custody in connection with the attacks are minor offenders. The real culprits are still at large. However, I am ready to shed light on the perpetrators of the Easter Sunday attacks and make a special statement if I am summoned to court," he stated.
-
-"I have been keeping this information under wraps, and therefore, it is imperative for the judges also to keep a lid on it,” he added.
-
-◼️
-
-[Data](articles/56077b03.json)
-
-[Extended Data](ext_articles/56077b03.ext.json)
-
----
-
-### Maithripala claims to be aware of real culprits behind Easter attacks
-
-*2024-03-22 18:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Maithripala-claims-to-be-aware-of-real-culprits-behind-Easter-attacks/155-279410) · `en`
-
-Colombo, March 22 (Daily Mirror) - Former President Maithripala Sirisena today disclosed that he is well aware of the true perpetrators behind the Easter Sunday bombings in 2019.
-
-"The suspects who are currently in remand custody in connection with the attacks are minor offenders. The real culprits are still at large. However, I am ready to shed light on the perpetrators of the Easter Sunday attacks and make a special statement if I am summoned to court," he stated.
-
-"I have been keeping this information under wraps, and therefore, it is imperative for the judges also to keep a lid on it,” he added.
-
-◼️
-
-[Data](articles/5d495712.json)
-
-[Extended Data](ext_articles/5d495712.ext.json)
-
----
-
-### AG will not represent ex-Health Minister Keheliya, court told
-
-*2024-03-22 18:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98132/ag-will-not-represent-ex-health-minister-keheliya-court-told) · `en`
-
-The Attorney General has informed the Supreme Court that he would not represent former Minister of Health Keheliya Rambukwella and several other respondents named in a Fundamental Rights (FR) petition.
-
-The petition seeks a ruling determining that fundamental human rights have been violated through the decision taken to purchase medicines from two unregistered Indian companies under the Indian credit line.
-
-Appearing on behalf of the Attorney General, the Deputy Solicitor General communicated the decision to the court when the relevant petition was taken up for consideration today (March 22).
-
-Later, the Supreme Court also ordered that further consideration of the petition be adjourned.
-
-◼️
-
-[Data](articles/4e60d928.json)
-
-[Extended Data](ext_articles/4e60d928.ext.json)
-
----
-
-### Kaminda and Dananjaya leave Sri Lanka
-
-*2024-03-22 17:53:49* · [`adalk`](https://www.ada.lk/sports/කමිඳු-හා-ධනංජය-ලංකාව-ඉදිරියෙන්-තබති/9-408761) · `si`
-
-Kaminda and Dananjaya left Sri Lanka. Sri Lanka won the first Test against Bangladesh, scoring 280 runs. Sri Lanka's innings took 259 runs, with the sixth wicket contributing 202 runs. Bangladesh was bowled out for 259 runs, with the last 4 wickets falling in 21 runs. Bangladesh ended the first day with 32 wickets.
-
-🟩
-
-Sri Lanka won the first Test of the first Test with the Host Bangladesh.
-
-Sri Lanka bowled out for 280 runs first. Sri Lanka's innings took 259 runs for 259 runs in the Sri Lankan wicket with excellent with the sixth wicket of 202 runs for the sixth wicket.
-
-Afterwards, the Komindu Mendis was then burned in 259 and the other 4 wickets were killed in 21 runs.
-
-In reply, Bangladesh team raises 32 wickets when they finish the match for the first day.
-
-◼️
-
-[Data](articles/d48bd3bd.json)
-
-[Extended Data](ext_articles/d48bd3bd.ext.json)
-
----
-
-### Seamers put Sri Lanka in control as Bangladesh chase 280
-
-*2024-03-22 17:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Seamers-put-Sri-Lanka-in-control-as-Bangladesh-chase-280/108-279409) · `en`
-
-Sylhet, Mar. 22 (AFP) - Dhananjaya de Silva and Kamindu Mendis both hit knocks of 102 to help Sri Lanka post 280 in their first innings before their seamers rattled Bangladesh on the opening day of the first Test in Sylhet on Friday.
-
-Bangladesh finished the day 32-3, trailing Sri Lanka by 248 runs, with Vishwa Fernando and Kasun Rajitha striking early in the innings for the visitors.
-
-Fernando trapped opener Zakir Hasan (nine) and Najmul Hossain (five) lbw with identical in-swinging deliveries, while Rajitha got Mominul Haque caught for five.
-
-Opener Mahmudul Hasan survived the day on nine alongside Taijul Islam, who was yet to open scoring.
-
-De Silva and Mendis fought back with their 202-run stand for the fifth wicket, helping Sri Lanka recover from a precarious 57-5 after a pace demolition of their top order.
-
-Khaled Ahmed and Nahid Rana took three wickets apiece for Bangladesh, who opted to bowl first on a green surface.
-
-...
-
-[Data](articles/4278bf72.json)
-
-[Extended Data](ext_articles/4278bf72.ext.json)
 
 ---

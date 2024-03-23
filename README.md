@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 19:50:09**
+As of **2024-03-23 20:03:04**
 
 ## Newspaper Stats
 
-*Scraped **14,753** Articles*
+*Scraped **14,754** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 1,772
 adaderanalk | 1,775
 virakesarilk | 2,074
 dailymirrorlk | 2,271
-adaderanasinhalalk | 2,359
+adaderanasinhalalk | 2,360
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,752 (100.0%) of 14,753 articles have been extended.
+14,753 (100.0%) of 14,754 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### පාස්කු ප්‍රහාරය ගැන තමාට තොරතුරු ලැබුණු හැටි මෛත්‍රී හෙළිකරයි
+
+*2024-03-23 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194858) · `si`
+
+පාස්කු ප්‍රහාරය ගැන සති තුනකට පෙර ලැබුණූ තොරතුරක් අනුව ඊයේ (22) තමා විසින් පාස්කු ප්‍රහාරය සම්බන්ධයෙන් එවැනි ප්‍රකාශයක් සිදුකළ බව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පවසයි.
+
+තමාට එල්ලවන චෝදනා සම්බන්ධයෙන් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ප්‍රතිචාර දක්වමින් අද (23) එම ප්‍රකාශය සිදුකළේය.
+
+"පාස්කු ප්‍රහාරය සම්බන්ධයෙන් මීට සති තුනකට පෙර මට ලැබුණු තොරතුරක් අනුව තමයි මම ඊයේ ඒ ප්‍රකාශය සිදුකළේ. අධිකරණයකින් මට නියෝගයක් ලැබුණොත් ඇවිල්ලා පෙනී සිටින්න කියලා. මම රහසිගත සාක්ෂියක් දීමට බලාපොරොත්තුවෙන් සිටිනවා. රහසිගතව ප්‍රකාශයක් දෙන්න වෙන හේතුවක් නිසා නෙමෙයි. විවෘත සාක්ෂියක්  දුන්නොත් අධිකරණයේ... මම දන්නවා පැහැදිලිවම මගේ ජීවිතය සහ මගේ දරු පවුල් පවා විනාශ කරන්න පුළුවන්. එක නිසා මේක කිසිදුම දේශපාලන මතවාදී හෝ දේශපාලන වශයෙන් යම් යම් ප්‍රශ්න තියෙන ඒවාට ගැවුණ කාරණයක් නෙමෙයි. මම ඉතාම අවංකව සිදුකරන ප්‍රකාශයක්. "
+
+◼️
+
+[Data](articles/b0d31794.json)
+
+---
 
 ### PM Dinesh to visit China next week, will seek to deepen political mutual trust
 
@@ -49,6 +65,8 @@ Emphasizing that China attaches great importance to its relations with Sri Lanka
 ...
 
 [Data](articles/ef3ca20c.json)
+
+[Extended Data](ext_articles/ef3ca20c.ext.json)
 
 ---
 
@@ -2315,27 +2333,5 @@ At least a dozen people have been killed and many others wounded in what is bein
 [Data](articles/fd2c963d.json)
 
 [Extended Data](ext_articles/fd2c963d.ext.json)
-
----
-
-### A terrible terrorist attack on Russia
-
-*2024-03-23 00:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194831) · `si`
-
-A terrorist attack in Moscow, Russia, killed about 40 people. The incident occurred during a dance in a theater, and videos of the event were shared on social media.
-
-🟩
-
-International media reports that approximately 40 people were killed by a terrorist attack on Moscow in Moscow, Russia.
-
-At the time of the attack, a dance in the drama was held at the drama.
-
-The videos shown in the hall are being founded by three armed dresses, which shoots three armed clothes, and circulate social media.
-
-◼️
-
-[Data](articles/662b51f7.json)
-
-[Extended Data](ext_articles/662b51f7.ext.json)
 
 ---

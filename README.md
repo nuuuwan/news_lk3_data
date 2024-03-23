@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 15:33:33**
+As of **2024-03-23 15:51:24**
 
 ## Newspaper Stats
 
-*Scraped **14,721** Articles*
+*Scraped **14,726** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 792
 economynextcom | 794
 islandlk | 805
-adalk | 1,258
-adaderanalk | 1,767
+adalk | 1,261
+adaderanalk | 1,768
 tamilmirrorlk | 1,769
-virakesarilk | 2,071
+virakesarilk | 2,072
 dailymirrorlk | 2,267
 adaderanasinhalalk | 2,349
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 2,349
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,719 (100.0%) of 14,721 articles have been extended.
+14,721 (100.0%) of 14,726 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### கொழும்பில் இருந்து டாக்காவிற்கு நேரடி விமான சேவைகள் அடுத்த மாதம் ஆரம்பம்
+
+*2024-03-23 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179512) · `ta`
+
+ஏப்ரல் மாத்தத்தில் கொழும்பு மற்றும்  பங்களாதேஷ் தலைநகர் டாக்காவிற்கு இடையில்  நேரடி விமான சேவையை அறிமுகப்படுத்துவதில் மகிழ்ச்சியடைவதாக குறைந்த கட்டணத்தில் விமான சேவையை வழங்கும் ஃபிட்ஸ் ஏர் (FitsAir) நிறுவனம் தெரிவித்துள்ளது.
+
+இந்த விமான சேவையானது இலங்கைக்கும் பங்களாதேஷுக்கும் இடையில் மலிவு விலையிலான பயண விருப்பங்களுக்கான வளர்ந்து வரும் தேவையை நிவர்த்தி செய்யும் வகையில், பிராந்திய விமானப் போக்குவரத்தில் குறிப்பிடத்தக்க மைல்கல்லாக பிரதிபலிக்கிறது.
+
+பங்களாதேஷின் வேகமாக விரிவடைந்துவரும் பொருளாதாரத்தின் வெளிச்சத்தில், இலங்கை வர்த்தகர்களிடமிருந்து ஆர்வத்தை ஈர்க்கும் வகையில், டாக்கா ஒரு பிரபலமான இடமாக உருவாகி வருகிறது.
+
+இந்தப் போக்கை அங்கீகரித்து, வளர்ந்து வரும் இந்த சந்தையின் தேவைகளைப் பூர்த்தி செய்ய குறைந்த கட்டணத்தில், சரியான நேரத்தில் மற்றும் திறமையான விமான இணைப்பை வழங்குவதற்கு ஃபிட்ஸ் ஏர் உறுதிபூண்டுள்ளது.
+
+இந்த விமான சேவை ஏப்ரல் மாதம் 16 ஆம் திகதி ஆரம்பிக்கப்படவுள்ளது. ஆரம்ப கட்டணமாக 74,600 ரூபாவாக அறவிடவுள்ளது.
+
+...
+
+[Data](articles/8ab9e2ed.json)
+
+---
+
+### Concert hall attack: Russia arrests suspected gunmen as death toll rises to 93
+
+*2024-03-23 15:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98152/concert-hall-attack-russia-arrests-suspected-gunmen-as-death-toll-rises-to-93) · `en`
+
+Russia has arrested 11 people including four suspected gunmen in connection with a shooting rampage that killed 93 people in a concert hall near Moscow, the Kremlin said on Saturday.
+
+It said FSB security service chief Alexander Bortnikov had reported to President Vladimir Putin that those detained included “four terrorists” and that the service was working to identify their accomplices.
+
+Russia’s Investigative Committee said the death toll had leapt to 93 from the attack in which camouflage-clad gunmen opened fire with automatic weapons at concertgoers near the capital on Friday. It said some died from gunshot wounds and others in a huge fire that broke out in the complex.
+
+Interfax quoted the FSB security service as saying the four suspected gunmen had been arrested while heading to the Ukrainian border, and that they had contacts in Ukraine. It said they were being transferred to Moscow.
+
+...
+
+[Data](articles/cb572b9c.json)
+
+---
 
 ### Man nabbed with Rs. 2mn worth of Kerala cannabis in Kilinochchi
 
@@ -52,6 +90,8 @@ The suspect held in this operation was identified as a resident of Kilinochchi, 
 
 [Data](articles/c37c4b85.json)
 
+[Extended Data](ext_articles/c37c4b85.ext.json)
+
 ---
 
 ### India provides more grants to build houses in Buddhist sacred town of Sri Lanka
@@ -70,6 +110,8 @@ The late Sobhitha Thero was an iconic Buddhist monk in the island nation’s goo
 
 [Data](articles/51981ec5.json)
 
+[Extended Data](ext_articles/51981ec5.ext.json)
+
 ---
 
 ### Arrest
@@ -87,6 +129,26 @@ Opposition MPs Mano Ganesan and Kavinda Jayawardena today demanded that former P
 [Data](articles/572958f2.json)
 
 [Extended Data](ext_articles/572958f2.ext.json)
+
+---
+
+### මොස්කව් ප්‍රහාරය ලංකාව හෙළා දකියි
+
+*2024-03-23 14:35:31* · [`adalk`](https://www.ada.lk/breaking_news/මොස්කව්-ප්‍රහාරය-ලංකාව-හෙළා-දකියි/11-408765) · `si`
+
+රුසියාවේ මොස්කව් නුවර ක්‍රොකස් සිටි සාප්පු මධ්‍යස්ථායේදී සිවිල් වැසියන්ගේ ජීවිත හානි හා තුවාල සිදු කරමින් සිදු වූ බිහිසුණු ත්‍රස්ත ප්‍රහාරය ශ්‍රී ලංකාව තරයේ හෙළා දකින බව විදේශ කටයුතු අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+එසේම සිවිල් වැසියන්ට එරෙහි මෙවැනි නිවට ප්‍රචණ්ඩ ක්‍රියා පිළිකුල් සහගත බවත් ශිෂ්ට සමාජය තුළ ඒවාට ඉඩක් නොමැති බවත් විදේශ කටයුතු අමාත්‍යාංශය නිකුත් කළ නිවේදනයේ සඳහන් වෙයි.
+
+ශ්‍රී ලංකා රජය සහ ජනතාව විපතට පත් වූවන්ගේ පවුල්වලට සහ රුසියානු සමූහාණ්ඩුවේ රජයට  මේ අවස්ථාවේදී හෘදයාගම ශෝකය ප්‍රකාශය බවද විදේශ කටයුතු අමාත්‍යාංශය පවසයි.
+
+ත්‍රස්තවාදය එහි සියලු ආකාරවලින් සහ ප්‍රකාශනයන්ගෙන් පැහැදිලිවම හෙළා දැකිය යුතු අතර මුලිනුපුටා දැමිය යුතු බවත් ත්‍රස්තවාදයට එරෙහි ගෝලීය සටන සඳහා ශ්‍රී ලංකාව සිය කැපවීම යලි තහවුරු කරන අතර සාමයට සහ ආරක්ෂාවට ඇති මෙම බරපතල තර්ජනයට මුහුණ දීම සඳහා ජාත්‍යන්තර ප්‍රජාව සමඟ සහයෝගයෙන් කටයුතු කිරීමට සූදානමින් සිටින බවද විදේශ කටයුතු අමාත්‍යාශය පවසයි.
+
+තුවාල ලැබූ සියලුම දෙනාට ඉක්මන් සුවය ප්‍රාර්ථනා කරන බව විදේශ කටයුතු අමාත්‍යාංශය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/b5b8d5af.json)
 
 ---
 
@@ -145,6 +207,22 @@ The injured are young children and the Russian Foreign Ministry said.
 [Data](articles/dfcce225.json)
 
 [Extended Data](ext_articles/dfcce225.ext.json)
+
+---
+
+### මොස්කව් ප්‍රහාරයෙන් 93ක් මරුට - සැකකරුවන් 4ක් අල්ලයි
+
+*2024-03-23 14:23:41* · [`adalk`](https://www.ada.lk/breaking_news/මොස්කව්-ප්‍රහාරයෙන්-93ක්-මරුට---සැකකරුවන්-4ක්-අල්ලයි/11-408764) · `si`
+
+රුසියාවේ මොස්කව් නුවර රඟහලකට එල්ල වූ අයි.එස්.අයි.එස්. ප්‍රහාරයෙන් ජීවිතක්ෂයට පත්වූ සංඛ්‍යාව 93ක් දක්වා ඉහළ ගොස් ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+එසේම ප්‍රහාරයට සැකපිට මේ වන විට පුද්ගලයන් 11ක් අත්අඩංගුවට ගෙන ඇති අතර එයින් සිව් දෙනෙකු ප්‍රහාරයට සෘජුවම සම්බන්ධ බව රුසියාව තහවුරු කර තිබේ.
+
+මෙවැනි ප්‍රහාරයක් එල්ල විය හැකි රුසියාවට ඇමෙරිකාව විසින් දන්වා තිබුණ බව ධවල මන්දිරය ප්‍රකාශ කරන අතර ප්‍රහාරයට තම රටේ කිසිම සම්බන්ධයක් නොමැති බව රුසියාව සමග මේ වන විට යුද වැදී සිටින යුක්රේනය පවසයි.
+
+◼️
+
+[Data](articles/31f8e886.json)
 
 ---
 
@@ -1069,6 +1147,26 @@ Police said the driver of the lorry was also injured in the crash.
 [Data](articles/a5c5f481.json)
 
 [Extended Data](ext_articles/a5c5f481.ext.json)
+
+---
+
+### රුසියාවේ මොස්කව් නගරයේ වෙඩි ප්‍රහාරයක් 40ක් මරුට
+
+*2024-03-23 07:59:08* · [`adalk`](https://www.ada.lk/breaking_news/රුසියාවේ-මොස්කව්-නගරයේ-වෙඩි-ප්‍රහාරයක්-40ක්-මරුට/11-408763) · `si`
+
+රුසියාවේ මොස්කව් නගරයේ රංග ශාලාවකට කඩා වැඳුණු ත්‍රස්ත කල්ලියක් විසින් අද (23) අලුයම වෙඩි ප්‍රහාර මාලාවක් එල්ල කර තිබේ.
+
+පස් දෙනෙකුගෙන් යුත් කණ්ඩායමක් පැමින මෙම වෙඩි ප්‍රහාරය එල්ල කර ඇති අතර, ප්‍රහාරයෙන් ආසන්න වශයෙන් පුද්ගලයින් 40ක් පමණ මියගොස් 100කට වැඩි පිරිසක් තුවාල ලබා ඇති බව රුසියානු මාධ්‍ය වාර්තා කර තිවේ.
+
+කෙසේ වෙතත් ත්‍රස්තවාදීන් කවුරුන්ද යන්න පිළිබඳව මේ දක්වා තොරතුරු වාර්තා කර නොමැත.
+
+ප්‍රවෘත්ති ඒජන්සි පැවසුවේ, ගිලන්රථ සමඟ 70කගෙන් සමන්විත කාර්ය මණ්ඩලයක් සිද්ධිය සිදු වූ ස්ථානයට මේ වනවිට යවා තිබෙන බවයි.
+
+මෙම එම ප්‍රහාරය එල්ලවන අවස්ථාවේ එහි නර්තන තරගාවලියක් පැවැත්වෙමින් තිබූ බව සඳහන්
+
+◼️
+
+[Data](articles/bc2d79dc.json)
 
 ---
 
@@ -2101,115 +2199,5 @@ An exhibition of vintage stamps organized by Sri Lanka Independent Philatelic As
 [Data](articles/efd2485c.json)
 
 [Extended Data](ext_articles/efd2485c.ext.json)
-
----
-
-### Immediate compensation without going to court;Diplomat
-
-*2024-03-22 21:22:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றம்-செல்லாமலேயே-உடனடி-இழப்பீடு-இராஜாங்க-அமைச்சர்/175-335025) · `ta`
-
-Transport Minister Lasantha Alagavanna announced an immediate compensation program for road accident victims starting March 1, without court proceedings.
-
-🟩
-
-Transport Minister Lasantha Alagavanna said that the immediate compensation program for the victims of the road will be launched from March 01.
-
-According to the Minister of State, the Minister said that the appointment of up to Rs.
-
-He said this at a press conference held at the Presidential Media Center on Friday (22).R
-
-◼️
-
-[Data](articles/2dbe7882.json)
-
-[Extended Data](ext_articles/2dbe7882.ext.json)
-
----
-
-### Immediate compensation for those affected by the accident;Diplomat
-
-*2024-03-22 21:22:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தால்-பாதிக்கப்பட்டடோருக்கு-உடனடி-இழப்பீடு-இராஜாங்க-அமைச்சர்/175-335025) · `ta`
-
-Transport Minister Lasantha Alagavanna announced an immediate compensation program for road accident victims starting March 1.
-
-🟩
-
-Transport Minister Lasantha Alagavanna said that the immediate compensation program for the victims of the road will be launched from March 01.
-
-According to the Minister of State, the Minister said that the appointment of up to Rs.
-
-He said this at a press conference held at the Presidential Media Center on Friday (22).R
-
-◼️
-
-[Data](articles/59534ac7.json)
-
-[Extended Data](ext_articles/59534ac7.ext.json)
-
----
-
-### Specialists ring alarm bells over rapid spread of Tinea skin infection
-
-*2024-03-22 21:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Specialists-ring-alarm-bells-over-rapid-spread-of-Tinea-skin-infection/108-279414) · `en`
-
-Colombo, March 22 (Daily Mirror) - Dermatologists in Sri Lanka have issued a warning regarding the rapid spread of Tinea infections, a contagious skin disease affecting both adults and children across the nation.
-
-According to Dr. Janaka Akarawita, a prominent dermatologist at the National Hospital, Colombo the incidence of Tinea infections is on the rise, manifesting primarily through symptoms such as itching and the development of scaly rashes resembling rings on the skin.
-
-In a media briefing, Dr. Akarawita emphasized that the infection predominantly occurs in the body areas prone to sweating, including the armpits, feet and scalp and can easily spread through direct contact, potentially affecting colleagues and family members.
-
-Meanwhile, Dr. Indira Kahawita, another experienced dermatologist, stressed the importance of seeking timely medical intervention for effective management of the disease.
-
-...
-
-[Data](articles/f2882344.json)
-
-[Extended Data](ext_articles/f2882344.ext.json)
-
----
-
-### Minor growth in exports of commodity
-
-*2024-03-22 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194828) · `si`
-
-In February 2024, Sri Lanka's commodity exports grew by 0.17% from February 2023, reaching $983.7M. Agricultural exports saw a 11.82% increase to $255.76M.
-
-🟩
-
-The Central Bank of Sri Lanka (SLBA) points out that merchandise exports in February 2024 had increased.
-
-Exports of commodities were US $ 983.7 million, a general growth of 0.17% compared to February 2023.
-
-Export performance in February 2024 increased by 1.3% compared to January 2024 compared to January 2024.
-
-As compared to February, 2023, agricultural exports increased significantly to 11.82% significant growth and reached US $ 255.76 million.
-
-◼️
-
-[Data](articles/aefcaae0.json)
-
-[Extended Data](ext_articles/aefcaae0.ext.json)
-
----
-
-### Sri Lanka’s export earnings record ‘modest increase’ in February
-
-*2024-03-22 20:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98135/sri-lankas-export-earnings-record-modest-increase-in-february) · `en`
-
-The merchandise export performance in February 2024 amounted to US$ 983.7 million, recording a modest increase of 0.17 % compared to February 2023, the Export Development Board (EDB) says.
-
-In addition, export performance in February 2024 increased by 1.3% compared to the preceding month, January 2024.
-
-Compared to February 2023, agricultural exports have shown a significant increase of 11.82 %, reaching US$ 255.76 million in February 2024. However, industrial exports experienced a decline of 3.36 % during the same period, dropping to US$ 727.94 million.
-
-The cumulative merchandise exports from January to February 2024 decreased by 0.30 % to US$ 1,954.39 million compared to the corresponding period in 2023.
-
-With respect to Sri Lanka’s performance in its top 15 major export markets, the EDB said the UK, Germany, the Netherlands and France have shown positive growth in both February 2024 and the cumulative period of January to February 2024 compared to the corresponding periods in 2023.
-
-...
-
-[Data](articles/1d235e20.json)
-
-[Extended Data](ext_articles/1d235e20.ext.json)
 
 ---

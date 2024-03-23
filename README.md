@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 20:51:19**
+As of **2024-03-23 21:02:57**
 
 ## Newspaper Stats
 
-*Scraped **14,759** Articles*
+*Scraped **14,761** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,58 @@ adalk | 1,262
 tamilmirrorlk | 1,773
 adaderanalk | 1,776
 virakesarilk | 2,074
-dailymirrorlk | 2,272
+dailymirrorlk | 2,274
 adaderanasinhalalk | 2,362
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,757 (100.0%) of 14,759 articles have been extended.
+14,759 (100.0%) of 14,761 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### අගමැති දිනේෂ් හදිසියේම චීනය ට
+### Prime Minister Dinesh suddenly to China
 
 *2024-03-23 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194860) · `si`
 
-අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා නිල සංචාරයක් සඳහා එළඹෙන සඳුදා (25) චීනය බලා පිටත්ව යෑමට නියමිතව තිබේ.
+Prime Minister Dinesh Gunawardena is visiting China from March 25 to 30, invited by Chinese Prime Minister LI QIANG. He will meet with Chinese President Xi Jinping.
 
-චීන අග්‍රාමාත්‍ය Li Qiang මහතාගේ ආරාධනයකට අනුව අග්‍රාමාත්‍යවරයා එම සංචාරයේ නිරත වේ.
+🟩
 
-අග්‍රාමාත්‍යවරයා මාර්තු 25 සිට 30 දක්වා චීන සංචාරයේ නිරත වන බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Prime Minister Dinesh Gunawardena is scheduled to leave for China on Monday (25) to arrive on an official visit.
 
-එහිදී අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා සහ චීන ජනාධිපති ෂී ජින්පිං මහතා අතර විශේෂ හමුවක් ද පැවැත්වීමට නියමිතය.
+The Prime Minister is on the invitation of Chinese Prime Minister LI QIANG.
+
+Foreign media reports that the Prime Minister is traveling from China from March 25 to 30, foreign media reports say.
+
+A special meeting will be held between Prime Minister Dinesh Gunawardena and Chinese President Xi Ginping.
 
 ◼️
 
 [Data](articles/f2d920f1.json)
+
+[Extended Data](ext_articles/f2d920f1.ext.json)
+
+---
+
+### Government with simple majority not enough to make expected change: Tilvin
+
+*2024-03-23 20:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-with-simple-majority-not-enough-to-make-expected-change-Tilvin/108-279469) · `en`
+
+Puttalam, March 23 (Daily Mirror)- Claiming that a government with a simple majority is not sufficent to make the expected social change and revive the bankrupt economy, NPP General Secretary Tilvin Silva said today that the NPP hopes to form a stronger government.
+
+Speaking at the Puttalam District Women's Convention, he said the NPP must secure strong power to do anything.
+
+"We have already won. But, we think there is no use of forming a government with 113 seats to make the expected social change. We must have stronger power to do whatever we want. Previous governments obtained stronger power to destroy the country. But, we need to obtain stronger power to restore the bankrupt country," he said.
+
+De Silva said they will get together and form the first People's Government in Sri Lanka with massive people's force and trust, which cannot be toppled by rivals through acts of sabotage.
+
+◼️
+
+[Data](articles/16c48d92.json)
 
 ---
 
@@ -65,6 +89,8 @@ The COPF Chairman has meantime recommended that the collective agreement to incr
 ...
 
 [Data](articles/7924fa78.json)
+
+[Extended Data](ext_articles/7924fa78.ext.json)
 
 ---
 
@@ -491,6 +517,30 @@ According to an unverified statement online, militant group Islamic State said i
 [Data](articles/272f064e.json)
 
 [Extended Data](ext_articles/272f064e.ext.json)
+
+---
+
+### Moscow concert attack: Suspects arrested; death toll rises to 115
+
+*2024-03-23 16:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Moscow-concert-attack-Suspects-arrested-death-toll-rises-to-115/108-279467) · `en`
+
+Moscow, March 23 (BBC) - Gunmen have attacked a concert hall on the fringes of Moscow, killing at least 115 people and wounding 100 more, Russian security services say.
+
+Attackers clad in camouflage gear took part in the attack, in the north-western suburb of Krasnogorsk, BBC-verified video shows.
+
+Four men directly involved were among 11 arrested on Saturday, officials say.
+
+Crocus City Hall was about to host a rock concert when the gunmen burst into the foyer and then the theatre itself.
+
+Much of the building was engulfed by fire and part of the roof collapsed.
+
+Children are said to be among the casualties and the Russian foreign ministry has condemned a "terrorist attack".
+
+According to an unverified statement online, militant group Islamic State said it was behind the attack.
+
+...
+
+[Data](articles/a355b448.json)
 
 ---
 
@@ -2297,49 +2347,5 @@ It is reported that the 17 -year -old woman from Ellagawa and a 23 -year -old ar
 [Data](articles/7d610ad2.json)
 
 [Extended Data](ext_articles/7d610ad2.ext.json)
-
----
-
-### The man who was treated fell down and died
-
-*2024-03-23 04:04:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிகிச்சை-பெற்று-வந்தவர்-கீழே-வீழ்ந்து-உயிரிழப்பு/175-335039) · `ta`
-
-Panchalingam Dinesh, 44, from Jaffna, died after falling at Jaffna Teaching Hospital. He was admitted for breathing difficulties and fell while being transferred.
-
-🟩
-
-The man who was receiving treatment at the Jaffna Teaching Hospital suddenly fell down and died.. The incident took place last evening.
-
-Panchalingam Dinesh, a 44 -year -old from Thalaiyali, Jaffna, has died.
-
-The person was admitted to the hospital as it was difficult to breathe, and when steps were taken to transfer to another hostel yesterday evening, he suddenly exited the rear entrance of the hospital and fell down shortly.. (A)
-
-◼️
-
-[Data](articles/ea770171.json)
-
-[Extended Data](ext_articles/ea770171.ext.json)
-
----
-
-### The President opened the emergency department
-
-*2024-03-23 03:55:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவசர-சிகிச்சைப்-பிரிவை-திறந்து-வைத்தார்-ஜனாதிபதி/175-335038) · `ta`
-
-President Ranil Wickremesinghe inaugurated the new emergency department of Point Pedro Hospital, funded by the Netherlands' Menkatan Scheme for Rs 400 crore.
-
-🟩
-
-The new building for the accident and emergency department of the Point Pedro Hospital was inaugurated by President Ranil Wickremesinghe yesterday.
-
-The new building has been constructed under the Netherlands Government's Menkatan Scheme. The new building has been constructed at a cost of Rs 400 crore.
-
-The President, including the President, visited the treatment units after the opening of the new building of the Point Pedro Hospital. (A)
-
-◼️
-
-[Data](articles/d4c07007.json)
-
-[Extended Data](ext_articles/d4c07007.ext.json)
 
 ---

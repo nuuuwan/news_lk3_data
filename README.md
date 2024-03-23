@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 13:17:50**
+As of **2024-03-23 13:33:31**
 
 ## Newspaper Stats
 
-*Scraped **14,707** Articles*
+*Scraped **14,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 794
 islandlk | 805
 adalk | 1,258
 adaderanalk | 1,763
-tamilmirrorlk | 1,767
+tamilmirrorlk | 1,768
 virakesarilk | 2,071
 dailymirrorlk | 2,265
-adaderanasinhalalk | 2,345
+adaderanasinhalalk | 2,346
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,707 (100.0%) of 14,707 articles have been extended.
+14,707 (100.0%) of 14,709 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### மின்விசிறி விழுந்ததால் மாணவர்கள் காயம்
+
+*2024-03-23 13:14:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்விசிறி-விழுந்ததால்-மாணவர்கள்-காயம்/175-335048) · `ta`
+
+மின்விசிறி விழுந்ததால், காயமடைந்த மாணவர்கள் இருவர் கண்டி பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர். நேற்று வெள்ளிக்கிழமை (22), கண்டி, அஸ்கிரியவில் உள்ள பாடசாலையொன்றில், தரம் ஐந்து வகுப்பிலேயே குறித்த விபத்து சம்பவம் இடம்பெற்றுள்ளது.
+
+காயமடைந்த மாணவர்கள் இருவரும் கண்டி பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ள நிலையில், ஒரு மாணவனுக்கு கண்ணிலும், மற்றைய மாணவனுக்கு தலையிலும் காயம் ஏற்பட்டுள்ளதாக  வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+இந்நிலையில், கடந்த சில நாட்களாகவே மின்விசிறி பழுதடைந்த நிலையில் இருந்ததாகவும், இது குறித்து பாடசாலை நிர்வாகத்திடம் தெரிவித்தும், அதற்கான நடவடிக்கை எடுக்கப்படவில்லை என  பெற்றோர்கள் தெரிவித்துள்ளனர். S
+
+◼️
+
+[Data](articles/a6f83c24.json)
+
+---
+
+### මෛත්‍රීව අත්අඩංගුවට ගන්නැයි ඉල්ලා කාවින්ද CID යයි
+
+*2024-03-23 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194842) · `si`
+
+පාස්කු ප්‍රහාරය සිදුකළේ කවුරුන්දැයි තමා දන්නා බවට හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා සිදුකළ ප්‍රකාශය සම්බන්ධයෙන් අද (23) සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී කාවින්ද ජයවර්ධන මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ඉදිරිපත් කළේය.
+
+පැමිණිල්ල ඉදිරිපත් කිරීමෙන් පසු මාධ්‍යයට අදහස් දක්වමින් මන්ත්‍රීවරයා පැවසුවේ එම ප්‍රකාශය සම්බන්ධයෙන් හිටපු ජනාධිපතිවරයා අත්අඩංගුවට ගෙන විමර්ශන සිදුකළ යුතු බවය.
+
+"මේක රහසිගතව තියා ගත යුතු කාරණයක් නෙමෙයි. මේක අනිවාර්යයෙන් රටේ ජනතාව දැනගත යුතුයි. මේ රටේ අහිංසක ජනතාවගේ ජීවිත විනාශ වෙලා තියෙන්නේ."
+
+◼️
+
+[Data](articles/dce7dcf2.json)
+
+---
 
 ### Two students at the hospital
 
@@ -2183,45 +2215,5 @@ There were no immediate reports of further damage following the latest quake.
 [Data](articles/8724daec.json)
 
 [Extended Data](ext_articles/8724daec.ext.json)
-
----
-
-### Ex-President ready to disclose masterminds of Easter Sunday attacks
-
-*2024-03-22 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98133/ex-president-ready-to-disclose-masterminds-of-easter-sunday-attacks-) · `en`
-
-Former President Maithripala Sirisena claims he is aware of the true mastermind of the 2019 Easter Sunday terror attacks and that he is prepared to disclose the information to the judiciary if inquired from him or issues an order regarding the matter.
-
-Commenting to the media in Kandy today (March 22), Sirisena highlighted that he is ready to disclose the relevant information and that at the same time, it is the responsibility of the judges to keep the information strictly confidential.
-
-Speaking further he said, “I have more pain in my heart than frustration. I ran for the election as a common candidate in 2015 with the intention of elevating this country to a truly commendable position. However, I did not receive the opportunity to implement the relevant programs.”
-
-...
-
-[Data](articles/e1fc20be.json)
-
-[Extended Data](ext_articles/e1fc20be.ext.json)
-
----
-
-### Uganda’s president appoints son as military chief
-
-*2024-03-22 18:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Ugandas-president-appoints-son-as-military-chief/107-279411) · `en`
-
-KAMPALA, March 22 (Reuters) - Uganda's President Yoweri Museveni has appointed his son, Muhoozi Kainerugaba, as head of the military, the defence ministry said on Friday.
-
-Muhoozi Kainerugaba, 48, a general in the military, is widely seen as his father's successor in waiting and once stirred controversy by threatening to invade neighbouring Kenya. The ministry said in a statement he replaces Wilson Mbasu Mbadi, who was removed and appointed as a junior minister.
-
-In 2022, Museveni removed his son as commander of Uganda's land forces after he made threats to invade neighbouring Kenya in posts on social media platform X.
-
-In the posts, Kainerugaba also expressed support for Russia's President Vladimir Putin saying: "The majority of mankind (that are non-white) support Russia's stand in Ukraine."
-
-Kainerugaba has long been viewed as being prepared to take over the presidency from his father, 79, who has ruled the east African country for nearly 40 years.
-
-◼️
-
-[Data](articles/6b610d4a.json)
-
-[Extended Data](ext_articles/6b610d4a.ext.json)
 
 ---

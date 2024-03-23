@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 22:03:34**
+As of **2024-03-23 22:18:01**
 
 ## Newspaper Stats
 
-*Scraped **14,764** Articles*
+*Scraped **14,766** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 794
 islandlk | 805
 adalk | 1,262
 tamilmirrorlk | 1,773
-adaderanalk | 1,777
+adaderanalk | 1,779
 virakesarilk | 2,074
 dailymirrorlk | 2,274
 adaderanasinhalalk | 2,364
@@ -26,31 +26,69 @@ adaderanasinhalalk | 2,364
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,762 (100.0%) of 14,764 articles have been extended.
+14,764 (100.0%) of 14,766 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### අනුමැතියකින් තොරව ගෙවූ ප්‍රසාද දීමනා ගැන අනාවරණයක්
+### Moscow massacre: Putin says gunmen tried to escape to Ukraine, death toll hits 133
+
+*2024-03-23 22:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98161/moscow-massacre-putin-says-gunmen-tried-to-escape-to-ukraine-death-toll-hits-133) · `en`
+
+Russian authorities arrested the four men suspected of carrying out the attack on a suburban Moscow concert hall that killed at least 133 people and believe they were headed to Ukraine, President Vladimir Putin said Saturday during an address to the nation.
+
+Kyiv, meanwhile, strongly denied any involvement in Friday’s attack on the Crocus City Hall music venue in Krasnogorsk, which the Islamic State group’s affiliate in Afghanistan claimed responsibility for in a statement posted in social media channels linked to the group. Kyiv accused Putin and other Russian politicians of falsely linking Ukraine to the assault in order to stoke fervor in Russia’s war in Ukraine, which recently entered its third year.
+
+A U.S. intelligence official told The Associated Press that U.S. agencies had confirmed that IS was responsible for the assault and had previously warned Moscow that an attack could be imminent.
+
+...
+
+[Data](articles/0dd927d8.json)
+
+---
+
+### At least 1,000 Sri Lankan workers to reach Israel in March
+
+*2024-03-23 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98160/at-least-1000-sri-lankan-workers-to-reach-israel-in-march) · `en`
+
+The Director General of Israel’s Population and Immigration Authority said that in the month of March about 1,000 workers from Sri Lanka are expected to land in Israel for work in its the agriculture sector, primarily picking citrus fruits.
+
+Since the October 7 Hamas massacre, distress has arisen in the agriculture sector and since then many efforts have been made to reduce the gaps. Among the steps: opening agreements with other countries to recruit foreign workers and meetings with Israeli employers and embassy representatives.
+
+The ministry said the Sri Lankan workers provide an immediate response to the need for working hands in the important industry and in helping to ensure the food security of the State of Israel.
+
+◼️
+
+[Data](articles/09148553.json)
+
+---
+
+### Disclosure of paid bonus without approval
 
 *2024-03-23 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194862) · `si`
 
-ශ්‍රී ලංකා ආයෝජන මණ්ඩලය සේවකයින්ට ප්‍රසාද දීමනා ඇතුළු විවිධ දීමනා ගෙවීමේදී මහා භාණ්ඩාගාරයේ අනුමැතියකින් තොරව මුදල් වැයකර ඇති බවට තොරතුරු අනාවරණය වී තිබේ.
+The Board of Investment of Sri Lanka (BOI) paid unapproved bonuses to employees, totaling Rs., according to a 2022 National Audit Office report. Despite the Treasury's request for approval, the BOI defended the payments.
 
-2022 වර්ෂයට අදාළ ජාතික විගණන කාර්යාලය නිකුත් කළ වාර්තාවක ඒ බව සඳහන් වෙයි.
+🟩
 
-ඒ අනුව අදාළ වර්ෂයේදී මහා භාණ්ඩාගාරයේ අනුමැතියකින් තොරව ශ්‍රී ලංකා ආයෝජන මණ්ඩලය සේවකයින්ට ප්‍රසාද දීමනා ඇතුළු විවිධ දීමනා සඳහා රුපියල් කෝටි 61කට ආසන්න මුදලක් වැය කර ඇති බව ජාතික විගණන කාර්යාලය සඳහන් කර ඇත.
+It has been revealed that the Board of Investment of Sri Lanka (BOI) has spent money on the Treasury to pay various allowances to the employees.
 
-ප්‍රසාද දීමනා ගෙවීම සඳහා රුපියල් කෝටි 07කට ආසන්න මුදලක් සහ වෙනත් දීමනා සඳහා රුපියල් කෝටි 54කට වැඩි මුදලක් වැය කර ඇති බව එම විගණන වාර්තාව මගින් පෙන්වා දී තිබේ.
+In a report issued by the National Audit Office of the year 2022, it is said.
 
-කෙසේවෙතත් මේ සම්බන්ධයෙන් ආයෝජන මණ්ඩල පාලනාධිකාරිය පවසා ඇත්තේ ඉහත දීමනා සම්බන්ධයෙන් මහා භාණ්ඩාගාරයෙන් අනුමැතිය ඉල්ලු බවය.
+Accordingly, the Board of Investment of Sri Lanka has spent Rs.
 
-එමෙන්ම අදාළ වර්ෂයේදී මුදල් රාජ්‍ය අමාත්‍යවරයා, ආයෝජන ප්‍රවර්ධන රාජ්‍ය  අමාත්‍යවරයා සහ අනෙකුත් නිලධාරීන්ගේ සහභාගීත්වයෙන් සාකච්ඡාවක් පැවැත්වු අවස්ථාවේ දී ආයෝජන මණ්ඩලයේ දීමනා සහ සේවක ප්‍රතිලාභ ගෙවීම් සම්බන්ධයෙන් කැබිනට් අනුමැතිය ලබා ගත යුතු බව යෝජනාවී ඇති බව සඳහන්ය.
+The audit report shows that more than Rs.
+
+However, the Board of Management (BOI) has said that the Treasury has requested the approval of the above allowances.
+
+The Minister of Investment was held at the respective year with the participation of the Minister of Investment Promotion and other officials with the participation of the Board of Investment and Employees.
 
 ◼️
 
 [Data](articles/0b9b78d0.json)
+
+[Extended Data](ext_articles/0b9b78d0.ext.json)
 
 ---
 
@@ -67,6 +105,8 @@ The ex-President stated this in response to the allegations leveled against him,
 ...
 
 [Data](articles/c48c9a07.json)
+
+[Extended Data](ext_articles/c48c9a07.ext.json)
 
 ---
 
@@ -2299,51 +2339,5 @@ Verified video showed people taking their seats in the hall, then rushing for th
 [Data](articles/4cbb922e.json)
 
 [Extended Data](ext_articles/4cbb922e.ext.json)
-
----
-
-### A change in the weather
-
-*2024-03-23 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194832) · `si`
-
-Expect showers and thundershowers in the East and Uva provinces, with heavy rains in the Western and Sabaragamuwa Province, Galle, and Matara districts. The Department of Meteorology advises against strong winds and lightning.
-
-🟩
-
-Showers or thundershowers will occur at times in the East and Uva provinces.
-
-Several spells of showers can occur in the North-central and northern provinces.
-
-Thundershowers will develop at several places in the evening or night in the rest of the island.
-
-Some places in the Western and Sabaragamuwa Province and in Galle and Matara districts. Mee. Heavy rains can occur at over 100.
-
-Some locations are expected in the middle of the Central, Sabaragamuwa and Uva provinces and in some places in the Galle and Matara districts.
-
-The Department of Meteorology has informed the people to take necessary steps to reduce temporary strong winds and lightning accidents in thundershowers.
-
-◼️
-
-[Data](articles/c9d3f8ed.json)
-
-[Extended Data](ext_articles/c9d3f8ed.ext.json)
-
----
-
-### General Election will be held if MPs want: Presidential Advisor
-
-*2024-03-23 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/General-Election-will-be-held-if-MPs-want-Presidential-Advisor/108-279424) · `en`
-
-Colombo, March 23 (Daily Mirror) - A General Election will be held if the members of Parliament want an early dissolution of Parliament, Senior Presidential Advisor Ashu Marasinghe said yesterday.
-
-“A General Election could be held if the MPs adopt a resolution calling for the dissolution of Parliament,” Professor Marasinghe said in response to a question raised by the journalists on the reports which said former Minister Basil Rajapaksa and President Ranil Wickremesinghe had come to an agreement on elections.
-
-“Only a Presidential Election could be held within this year legally while there is more time for a General Election. A resolution has to be passed calling for the dissolution of Parliament if an early General Election is to be held. One wonders whether MPs would adopt a resolution,” he said.
-
-...
-
-[Data](articles/5f4dbc38.json)
-
-[Extended Data](ext_articles/5f4dbc38.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 11:02:54**
+As of **2024-03-23 11:18:05**
 
 ## Newspaper Stats
 
-*Scraped **14,681** Articles*
+*Scraped **14,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 1,258
 adaderanalk | 1,760
 tamilmirrorlk | 1,766
 virakesarilk | 2,067
-dailymirrorlk | 2,261
+dailymirrorlk | 2,262
 adaderanasinhalalk | 2,343
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,681 (100.0%) of 14,681 articles have been extended.
+14,681 (100.0%) of 14,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### International dhamma programme tomorrow
+
+*2024-03-23 11:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/International-dhamma-programme-tomorrow/108-279460) · `en`
+
+An international dhamma programme in view of Medin Full Moon Poya Day will be held tomorrow (24) by Ven. Kalubowila Amarathagaveshi Thera.
+
+The live webinar will be held between 6.30 p.m. and 8.00 p.m. tomorrow on "Living with perfect bliss to reach liberation from existance".
+
+◼️
+
+[Data](articles/3042baf0.json)
+
+---
 
 ### Mysterious people shoot in music concert - 60 killed
 
@@ -2221,35 +2235,5 @@ Under the Urumaya National Program to issue 2 million land guarantees, 408 land 
 [Data](articles/1443c80c.json)
 
 [Extended Data](ext_articles/1443c80c.ext.json)
-
----
-
-### Prabhu Deva's 'Muzasi' movie
-
-*2024-03-22 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/179378) · `ta`
-
-"Prabhu Deva's 'Muzasi' movie features 'Starlite' song by Leander Lee Marty, with Prabhu Deva, VTV Ganesh, John Vijay, and others. Directed by Sham Rodrigue, produced by Joy Film Box Entertainment, the film highlights Prabhu Deva's dance, attracting attention for its unique blend of Konnakol and Bharatanatyam."
-
-🟩
-
-The song 'Starlite ..' from the upcoming movie 'Musasi' starring Prabhu Deva has been released.
-
-Prabhu Deva, VTV Ganesh, John Vijay, Master Mahendran, Binu Pappu, Lyona Leisai, directed by debutant director Sham Rodrigue.
-
-Leander Lee Marty has composed the film, which has been recorded by Vignesh Vasu. The film is being produced by Joy Film Box Entertainment, produced by John Brito, which is being prepared in Exan Entertainer Janer.
-
-The song 'Sterlite Clampu Clampu ..' featured in the film has been released.
-
-The song was written by songwriters Vignesh Jayapal, Sham Rodrigue, Avian and Lee, and the playback singers Lee, Christopher Stanley, Silvi Saran, Saru Hariharan and Avian.
-
-Prabhu Deva's dance, 'Michael Jackson of India' in this song, is re -youth.. The attention of dance lovers is attracted.
-
-The song, which is also the rhythm of the top music, has attracted everyone's attention because Konnakol is featured and Prabhu Deva Bharatanatyam is different.
-
-◼️
-
-[Data](articles/a93a6020.json)
-
-[Extended Data](ext_articles/a93a6020.ext.json)
 
 ---

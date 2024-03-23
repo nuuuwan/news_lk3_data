@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 21:02:57**
+As of **2024-03-23 21:17:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,362
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,759 (100.0%) of 14,761 articles have been extended.
+14,761 (100.0%) of 14,761 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,8 @@ De Silva said they will get together and form the first People's Government in S
 ◼️
 
 [Data](articles/16c48d92.json)
+
+[Extended Data](ext_articles/16c48d92.ext.json)
 
 ---
 
@@ -541,6 +543,8 @@ According to an unverified statement online, militant group Islamic State said i
 ...
 
 [Data](articles/a355b448.json)
+
+[Extended Data](ext_articles/a355b448.ext.json)
 
 ---
 

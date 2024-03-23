@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 19:03:06**
+As of **2024-03-23 19:17:49**
 
 ## Newspaper Stats
 
-*Scraped **14,749** Articles*
+*Scraped **14,751** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ dailyftlk | 792
 economynextcom | 794
 islandlk | 805
 adalk | 1,262
-tamilmirrorlk | 1,770
+tamilmirrorlk | 1,771
 adaderanalk | 1,774
 virakesarilk | 2,074
-dailymirrorlk | 2,270
+dailymirrorlk | 2,271
 adaderanasinhalalk | 2,359
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,748 (100.0%) of 14,749 articles have been extended.
+14,749 (100.0%) of 14,751 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### குண்டுவெடிப்புக்கு மைத்திரி ஒத்துழைப்பு?? பிள்ளையான் சந்தேகம்
+
+*2024-03-23 18:53:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/குண்டுவெடிப்புக்கு-மைத்திரி-ஒத்துழைப்பு-பிள்ளையான்-சந்தேகம்/73-335053) · `ta`
+
+முன்னாள் ஜனாதிபதி மைத்திபால சிறிசேன உயிர்த்த ஞாயிறு குண்டுவெடிப்பிற்கு அவர்  ஒத்துழைப்பு வழங்கியிருக்கின்றாரா? என்ற சந்தேகம் எங்களுக்கு  உண்டு. எனவே அவர் துணிந்த  நேர்மையான அரசியல் தலைவராக இருந்தால் அவர் யார் என்பதை வெளிப்படையாக விரைவாக ஊடகங்களில் வெளிப்படுத்த வேண்டும் என்பது எனது கோரிக்கை என பிள்ளையான் என்றழைக்கப்படும் இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திரகாந்தன் தெரிவித்தார்.
+
+மட்டக்களப்பில் இராஜாங்க அமைச்சர் சி.சந்திரகாந்தன் எழுதிய ஈஸ்டர் படுகொலை இனமத நல்லிணக்க அறிதலும் புரிதலும் எனும் வரலாற்று ஆய்வு நூல் வெளியீட்டு விழா இன்று சனிக்கிழமை (23) அஞ்சனா மண்டபத்தில் இடம்பெற்றது. இதன்  பின்னர் ஊடகங்களுக்கு கருத்து  தெரிவிக்கையில் அவர் இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/65039cea.json)
+
+---
+
+### Minister Alles orders IGP to probe remark by former President on Easter Sunday attacks
+
+*2024-03-23 18:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-Alles-orders-IGP-to-probe-remark-by-former-President-on-Easter-Sunday-attacks/108-279468) · `en`
+
+Colombo, March 23 (Daily Mirror) - Public Security Minister Tiran Alles orders IGP Deshabandu Tennakoon to conduct an immediate investigation into the recent remark by former President Maithripala Sirisena on the Easter Sunday bomb attacks.
+
+Former President Maithripala Sirisena yesterday disclosed that he is well aware of the true perpetrators behind the Easter Sunday bombings in 2019.
+
+"The suspects who are currently in remand custody in connection with the attacks are minor offenders. The real culprits are still at large. However, I am ready to shed light on the perpetrators of the Easter Sunday attacks and make a special statement if I am summoned to court," he stated.
+
+Opposition MPs Mano Ganesan and Kavinda Jayawardene today called for the immediate arrest of Maithripala Sirisena and to interrogate him regarding the remark he made on Friday, stating that he is aware of the mastermind behind the Easter Sunday attacks.
+
+◼️
+
+[Data](articles/8892ba18.json)
+
+---
 
 ### Immediate investigation ordered into Maithripala’s claims on Easter attacks’ masterminds
 
@@ -47,6 +79,8 @@ Meanwhile, the Samagi Jana Balawegaya (SJB) Parliamentarian Kavinda Jayawardena 
 ...
 
 [Data](articles/22a4842a.json)
+
+[Extended Data](ext_articles/22a4842a.ext.json)
 
 ---
 
@@ -2305,39 +2339,5 @@ The chemotherapy treatment began in late February. The palace says it will not b
 [Data](articles/d8f33869.json)
 
 [Extended Data](ext_articles/d8f33869.ext.json)
-
----
-
-### Microsoft a copilot to Education Ministry in integrating AI into national curriculum
-
-*2024-03-23 00:16:07* · [`dailyftlk`](https://www.ft.lk/business/Microsoft-a-copilot-to-Education-Ministry-in-integrating-AI-into-national-curriculum/34-759843) · `en`
-
-Representatives from the Ministry of Education, Ministry of Technology, United States
-
-The Ministry of Education (MoE) in Sri Lanka and Microsoft have signed a Memorandum of Understanding (MoU) to usher in a new era of education by enabling the integration of Artificial Intelligence (AI) and Machine Learning (ML) into Sri Lanka’s national school curriculum.
-
-This collaborative effort aims to transform the education system in the country, with the pilot testing phase beginning from grade eight and above. The MoU signing also includes the provision of the Microsoft 365 platform which will serve as a secure communication and collaboration hub for both students and teachers.
-
-...
-
-[Data](articles/1a2f4c02.json)
-
-[Extended Data](ext_articles/1a2f4c02.ext.json)
-
----
-
-### Pendi receives Merit Award for Best Stall Displaying Local Products at Architect 2024 Exhibition
-
-*2024-03-23 00:15:25* · [`dailyftlk`](https://www.ft.lk/business/Pendi-receives-Merit-Award-for-Best-Stall-Displaying-Local-Products-at-Architect-2024-Exhibition/34-759842) · `en`
-
-Pendi, an exhibitor at Architect 2024 – Architect’s Work, Lifestyle, and Trade Exhibition, announces its recent achievement of clinching the Merit Award for Best Stall Displaying Local Products. This is in recognition of Pendi’s commitment to showcasing the essence of local craftsmanship and design excellence.
-
-The Architect 2024 Exhibition, held in February, brought together industry leaders, design enthusiasts, and innovators from across the globe to celebrate the latest trends and advancements in architecture and design. Pendi’s stall stood out for its remarkable display of locally sourced products, reflecting the rich cultural heritage and artistic flair of the region.
-
-...
-
-[Data](articles/61a2e4fc.json)
-
-[Extended Data](ext_articles/61a2e4fc.ext.json)
 
 ---

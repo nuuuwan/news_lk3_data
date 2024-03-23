@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 21:17:45**
+As of **2024-03-23 21:33:32**
 
 ## Newspaper Stats
 
-*Scraped **14,761** Articles*
+*Scraped **14,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 1,773
 adaderanalk | 1,776
 virakesarilk | 2,074
 dailymirrorlk | 2,274
-adaderanasinhalalk | 2,362
+adaderanasinhalalk | 2,363
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,761 (100.0%) of 14,761 articles have been extended.
+14,761 (100.0%) of 14,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### ලොව පුරා අපනයනය කෙරෙන අපේ රටේ නිපදවන සෙල්ලම් බඩු
+
+*2024-03-23 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194861) · `si`
+
+ලෝකය සමග තරග කරන සුවිශේෂී ශ්‍රී ලාංකික ව්‍යාපාරයක් පිළිබඳ අද දෙරණ ට මෙලෙස තොරතුරු වාර්තා වුණි.
+
+එම අයාතනය විසින් රෙදි භාවිතයෙන් සුරතල් බෝනිකන් සහ රබර් භාවිතයෙන් සුරතල් සතුන් නිර්මාණය කර ලොව පුරා අපනයනය කරයි.
+
+ටිකිරි TOYS ප්‍රධාන විධායක නිලධාරී මනෝහරී ෂෙරීෆ් පැවසුවේ සිය ව්‍යාපාරය හරහා වාර්ෂිකව ඩොලර් මිලියන 12ක් උපයන බවය.
+
+"ජර්මනියේදී මෙයාගේ නම මොකක්ද ඇහුවා. නමක් තිබුණේ නැහැ . එකපාරටම මම කිව්වා මීයා කියලා. මීයාට දැන් යාළුවෝ ඉන්නවාද ඇහුවා ? මීයා සහ ඇල්වින් කියලා මම පොතක් ලිව්වා එය භාෂා 12කට පරිවර්තනය වුණා."
+
+◼️
+
+[Data](articles/c80b6998.json)
+
+---
 
 ### Prime Minister Dinesh suddenly to China
 
@@ -2331,25 +2349,5 @@ For this purpose, the Paddy Marketing Authority said that 95 million rupees had 
 [Data](articles/e4b865ac.json)
 
 [Extended Data](ext_articles/e4b865ac.ext.json)
-
----
-
-### Two killed in Kalu Ganga
-
-*2024-03-23 04:06:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களு-கங்கையில்-மூழ்கி-இருவர்-பலி/175-335040) · `ta`
-
-Two drowned in Kalu Ganga, Ellagawa, Ratnapura-Kiriella: 17-year-old woman and 23-year-old army soldier.
-
-🟩
-
-Two people drowned in the Kalu Ganga in the Ellagawa area of Ratnapura - Kiriella.
-
-It is reported that the 17 -year -old woman from Ellagawa and a 23 -year -old army soldier from Horawapothana area died.
-
-◼️
-
-[Data](articles/7d610ad2.json)
-
-[Extended Data](ext_articles/7d610ad2.ext.json)
 
 ---

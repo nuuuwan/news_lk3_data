@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 09:33:40**
+As of **2024-03-23 09:52:23**
 
 ## Newspaper Stats
 
@@ -26,35 +26,47 @@ adaderanasinhalalk | 2,340
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,667 (100.0%) of 14,668 articles have been extended.
+14,668 (100.0%) of 14,668 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### මොස්කව් ඝාතකයෝ පළාගිය හැටි
+### Moscow kilpasses have been tugged
 
 *2024-03-23 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194836) · `si`
 
-රුසියාවේ මොස්කව්හි අගනුවර ආසන්නයේ පිහිටි රඟහලකට එල්ලවූ ත්‍රස්ත ප්‍රහාරයෙන් මේ වනවිට පුද්ගලයින් 60දෙනෙකු මිය ගොස් තවත් 100කට අධික පිරිසක් තුවාල ලබා ඇති බව වාර්තා වේ.
+A terrorist attack in Moscow, Russia, resulted in 60 deaths and over 100 injuries. Four attackers in disguise fired grenades during a theater shooting near Moscow, causing a fire and lasting 15-20 minutes. The attack targeted a rock band concert, injuring young children. The US embassy warned of potential threats to large gatherings.
 
-විදෙස් වාර්තා සඳහන් කළේ ප්‍රහාරයේ වගකීම අයි.එස්. සංවිධානය විසින් බාරගෙන ඇති බවය.
+🟩
 
-රුසියාවේ මොස්කව් නගරය ආසන්නයේ ක්‍රස්නොගෝර්ස්ක්හි පිහිටි රංග ශාලාවක වෙඩි තැබීමක් සිදුකර තිබුණි.
+It is reported that 60 people were killed and over 100 people were either killed in a terrorist attack on Moscow, Russia's capital.
 
-විදෙස් වාර්තා සඳහන් කළේ හමුදා සාමාජිකයින් ට සමාන ඇඳුමින් සැරසුණු ප්‍රහාරකයින් සිව්දෙනෙකු ප්‍රසංගයක් පැවති අදාළ ගොඩනැගිල්ලට කඩා වැදී වෙඩි තබා, අත්බෝම්බ ප්‍රහාරයක් එල්ල කර ඇති බවය.
+Foreign Reports said the responsibility of the attack. The organization has been submitted.
 
-වෙඩි තැබීම සිදුකර තිබුණේ රොක් සංගීත කණ්ඩායමක් පවත්වන සංගීත සංදර්ශනයක් ආරම්භ වීමට මොහොතක් තිබියදීය.
+A shooting of a theater shooting in Kznoogorsk was shooting near Moscow in Russia.
 
-සංගීත කණ්ඩායම වේදිකාවට පැමිණීමට මිනිත්තු කිහිපයකට පෙර ප්‍රහාරය සිදුවූ අතර සංගීත කණ්ඩායමේ සාමාජිකයින්ට ඉන් හානියක් සිදුව නොමැති බව ද වාර්තා වේ.
+Foreign Vasistes have said that four-dressed attackers have collapsed and shooting a grenade attack.
 
-ආසන 6,200කින් සමන්විත රංග ශාලාව ඒ මොහොතවන විට ජනතාවගෙන් පිරී පැවති බව විදෙස් මාධ්‍ය සඳහන් කළේය.
+The shooting was held at a time when a rock band musical show.
 
-ප්‍රහාරයත් සමඟ ප්‍රසංගය පැවති ශාලාව තුළ ගින්නක් ද හටගෙන ගෙන තිබේ.
+The band had taken place a few minutes before the platform and the band was reportedly damaged.
+
+The Theater, which consists of 6,200 seats, was full of people, "foreign media said.
+
+With the attack, a fire has taken place in the concert hall.
+
+Moscow Mayor Sergei Sobianin said that two or five armed people shot the cabbers and shot the audience.
+
+It is reported that the attack had been carried out for 15 minutes or 20 minutes.
+
+The injured are young children and the Russian Foreign Ministry said.
 
 ...
 
 [Data](articles/699de2e7.json)
+
+[Extended Data](ext_articles/699de2e7.ext.json)
 
 ---
 

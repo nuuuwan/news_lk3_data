@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 11:53:29**
+As of **2024-03-23 12:04:30**
 
 ## Newspaper Stats
 
-*Scraped **14,688** Articles*
+*Scraped **14,690** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,63 @@ islandlk | 805
 adalk | 1,258
 adaderanalk | 1,762
 tamilmirrorlk | 1,767
-virakesarilk | 2,068
-dailymirrorlk | 2,263
+virakesarilk | 2,069
+dailymirrorlk | 2,264
 adaderanasinhalalk | 2,344
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,685 (100.0%) of 14,688 articles have been extended.
+14,688 (100.0%) of 14,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### காலநிலை மாற்றத்தால் அதிகம் பாதிக்கப்பட்டுள்ள பத்து நாடுகளில் இலங்கை
+
+*2024-03-23 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179479) · `ta`
+
+காலநிலை மாற்றத்தால் அதிகமாக பாதிக்கப்பட்ட 10 நாடுகளில் இலங்கையும் ஒன்று என தெரியவந்துள்ளது.
+
+இதனை  காநிலை தொடர்பான பாராளுமன்ற குழுவின் தலைவர்  எரான் விக்கிரமரத்ன மற்றும் காலநிலை மாற்றங்கள் தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் ருவன் விஜேவர்தன தெரிவித்துள்ளனர்.
+
+காலநிலை மாற்றத்தின் தாக்கத்தை குறைப்பதற்கு காநிலை தொடர்பான பாராளுமன்ற குழு  ஏனைய நாடுகளுடன் இணைந்து செயற்படும் என பாராளுமன்ற உறுப்பினர் விக்ரமரத்ன வலியுறுத்தினார்.
+
+"நாங்கள் ஐக்கிய நாடுகள் அபிவிருத்தித் திட்டம், ஐக்கிய நாடுகள் கைத்தொழில் அபிவிருத்தி அமைப்பு உடன் இணைந்து பணியாற்ற உத்தேசித்துள்ளோம், மேலும் பசுமை  ஹைட்ரஜனுக்கான அரசாங்கத்தின்  வரைபடத்திற்கு ஏற்ப செயல்படுவோம்," என தெரிவித்துள்ளார்.
+
+2050 ஆம் ஆண்டளவில் காலநிலை மாற்றம் இலங்கையின் மொத்த உள்நாட்டு உற்பத்தியில் ஒரு சதவீத இழப்பை ஏற்படுத்தும் என்றும் ருவான் விஜேவர்தன குறிப்பிட்டுள்ளார்.
+
+காலநிலை மாற்றத்தினால் இலங்கையின் விவசாயத்துறை பில்லியன் கணக்கான டொலர்களை இழக்க நேரிடும் என  தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/22a516d7.json)
+
+---
+
+### Two students hospitalised after ceiling fan collapses on them
+
+*2024-03-23 11:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-students-hospitalised-after-ceiling-fan-collapses-on-them/108-279462) · `en`
+
+Two fifth-grade students of an international school in Asgiriya, Kandy were hospitalised yesterday after a ceiling fan collapsed on them.
+
+The injured students were admitted to the General Hospital, Kandy.
+
+Hospital sources said that the eye of one student and the head of the other student were injured following the incident.
+
+The incident occurred during school yesterday. The parents claimed that the ceiling fan was tangled with its electricity wires and swung during the past few days.
+
+Even though the school administration was informed about the risk to children, no one had taken action to repair the fan.
+
+The parents also claimed that the monthly fee of the school had also been increased to Rs. 5,000, and even the photocopy charges had been increased.
+
+◼️
+
+[Data](articles/02d94e4a.json)
+
+---
 
 ### Ensure release of Indian fishermen detained by Sri Lanka: TN Chief Minister to Jaishankar
 
@@ -48,19 +92,27 @@ He said 32 fishermen from Tamil Nadu were caught by the Sri Lankan Navy on March
 
 [Data](articles/0d5f5ba3.json)
 
+[Extended Data](ext_articles/0d5f5ba3.ext.json)
+
 ---
 
-### இலங்கை கடற்படையை கண்டித்து ராமேஸ்வரம் மீனவர்கள் காலவரையற்ற வேலைநிறுத்தப் போராட்டம்
+### Rameshwaram fishermen condemning the Sri Lankan navy
 
 *2024-03-23 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179491) · `ta`
 
-இலங்கை சிறையில் உள்ள மீனவர்களை விடுவிக்கக்கோரியும் படகுகளை மீட்கக் கோரியும் வேலைநிறுத்தம் நடைபெற்று வருகிறது.
+Rameshwaram fishermen protest Sri Lankan navy, demanding release of jailed fishermen and boats. They threaten to hand over voter and Aadhaar cards on April 8, warning of a government boycott if immediate action isn't taken.
 
-மீனவர்களையும் படகுகளையும் விடுவிக்காதபட்சத்தில் ஏப்ரல்-8ல் வாக்காளர் அட்டை, ஆதார் அட்டைகளை ஒப்படைத்து போராட்டம் நடத்த திட்டமிட்டுள்ளனர். ஒன்றிய அரசு விரைந்து நடவடிக்கை எடுக்காவிடில் தேர்தலை புறக்கணிக்கப் போவதாகவும் மீனவர்கள் எச்சரிக்கை விடுத்துள்ளனர்.
+🟩
+
+The strike is underway to release fishermen in Sri Lankan jails and rescue boats.
+
+If the fishermen and boats are not released, they plan to hand over voter cards and Aadhaar cards on April 8. Fishermen have warned that the union government will boycott the election if it does not take immediate action.
 
 ◼️
 
 [Data](articles/4c391f80.json)
+
+[Extended Data](ext_articles/4c391f80.ext.json)
 
 ---
 
@@ -106,17 +158,23 @@ She mentioned that the relevant constructions have been documented while the own
 
 ---
 
-### கொழும்பில் 100க்கும் மேற்பட்ட அபாயகரமான கட்டடங்கள்
+### More than 100 hazardous buildings in Colombo
 
 *2024-03-23 11:11:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-100க்கும்-மேற்பட்ட-அபாயகரமான-கட்டடங்கள்/175-335047) · `ta`
 
-கொழும்பில் சுமார் 150 அபாயகரமான கட்டடங்கள் அடையாளம் காணப்பட்டுள்ளதாக கொழும்பு மாநகர ஆணையாளர் பத்ராணி ஜயவர்தன தெரிவித்துள்ளார்.
+Colombo Municipal Commissioner Badrani Jayawardena reports 150 hazardous buildings in Colombo, posing danger to many residential areas.
 
-மேலும், பல குடியிருப்பு தொகுதிகளும், அபாயகரமான நிலையில் உள்ளதாக முன்னர் செய்திகள் வெளியாகி இருந்தமை குறிப்பிடத்தக்கது. R
+🟩
+
+Colombo Municipal Commissioner Badrani Jayawardena says about 150 hazardous buildings have been identified in Colombo.
+
+It is also worth noting that many residential constituencies have been in danger.. Remble
 
 ◼️
 
 [Data](articles/67d6a38b.json)
+
+[Extended Data](ext_articles/67d6a38b.ext.json)
 
 ---
 
@@ -2157,55 +2215,5 @@ So I urge the government to withdraw sections 363 and 364 of the Criminal Act.
 [Data](articles/5dd62ca6.json)
 
 [Extended Data](ext_articles/5dd62ca6.ext.json)
-
----
-
-### Know who did the Passover attack
-
-*2024-03-22 17:24:37* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරය-කළේ-කවුද-කියලා-දන්නවා/11-408760) · `si`
-
-Former President Maithripala Sirisena claims to know who orchestrated the Passover attack, but refuses to reveal the identity unless ordered by the judiciary. He criticizes the judiciary for keeping the information secret.
-
-🟩
-
-Former President Maithripala Sirisena says that if the court ordered the Passover attack is a secret statement.
-
-He was speaking to the publication of media reports today (22), however the chief guest at the opening of the new mansion of the amendment of the Historical Temple Vihara Jayamana Viharaya.
-
-"I've been governments for less than five and a half years, without the opposition. The 19th Amendment left my powers. I willingly gave them. But I didn't think they use them wrongly. As a result, both the government and the opposition began attacking me.
-
-The Passover attack came. The Passover attack also know where. The terrorists with these cases are right. I was arrested by a judge's body. No one told them who had done this Passover attack on the other side.
-
-But I know who I did. If the judiciary is demanding or ordered, make a statement about this. I know who was the Passover attack. The unique thing is that the judges are responsible for keeping it in secret
-
-◼️
-
-[Data](articles/58a8ebd3.json)
-
-[Extended Data](ext_articles/58a8ebd3.ext.json)
-
----
-
-### Four persons arrested for interruption with media discussion
-
-*2024-03-22 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194824) · `si`
-
-Four individuals were arrested for disrupting a media discussion organized by the Sri Lanka Administrative Service Association at the Public Library Auditorium in Colombo.
-
-🟩
-
-Four external people have been arrested by the police who interfered with a foreign union discussion held at the Public Library Auditorium in Colombo.
-
-The unions discussed by the Sri Lanka Administrative Service Association organized the media discussion.
-
-During the press conference, a group of people outside the press conference interrupted the press conference.
-
-The hurdles were present at the area and they were chased into the arrest of four of them.
-
-◼️
-
-[Data](articles/d601f45f.json)
-
-[Extended Data](ext_articles/d601f45f.ext.json)
 
 ---

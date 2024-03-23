@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 10:33:43**
+As of **2024-03-23 10:51:16**
 
 ## Newspaper Stats
 
-*Scraped **14,679** Articles*
+*Scraped **14,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 791
 islandlk | 805
 adalk | 1,258
 adaderanalk | 1,760
-tamilmirrorlk | 1,765
-virakesarilk | 2,066
+tamilmirrorlk | 1,766
+virakesarilk | 2,067
 dailymirrorlk | 2,261
 adaderanasinhalalk | 2,343
 
@@ -26,41 +26,89 @@ adaderanasinhalalk | 2,343
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,676 (100.0%) of 14,679 articles have been extended.
+14,679 (100.0%) of 14,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### IPL 2024 - පළමු තරගය චෙන්නායි දිනයි
+### இசை கச்சேரியில் மர்ம நபர்கள் துப்பாக்கிச்சூடு - 60 பேர் பலி
+
+*2024-03-23 10:34:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இசை-கச்சேரியில்-மர்ம-நபர்கள்-துப்பாக்கிச்சூடு-60-பேர்-பலி/50-335045) · `ta`
+
+ரஷ்யாவில் இசை கச்சேரி நடந்த அரங்கில் மர்மநபர்கள் புகுந்து தாக்குதல் நடத்தியுள்ள சம்பவம் பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது. இதில் 60 பேர் சம்பவ இடத்திலேயே கொல்லப்பட்டிருக்கின்றனர்.
+
+நேற்றிரவு ரஷ்ய தலைநகர் மாஸ்கோவில் 'பிக்னிக்' எனும் ராக் இசைக்குழுவினர் கச்சேரியை நடத்தியிருந்தனர். இந்த கச்சேரியில் அடையாளம் தெரியாத 3-5 நபர்கள் கொண்ட குழு உள்ளே புகுந்து துப்பாக்கிச்சூடு நடத்தியிருக்கிறது.
+
+இந்த தாக்குதலில் 60 பேர் கொல்லப்பட்டதுடன் 130 பேர் படுகாயமடைந்துள்ளனர். இதில் உயிரிழந்தவர்கள் எண்ணிக்கை மேலும் அதிகரிக்கலாம் என்று அஞ்சப்படுகிறது.
+
+சம்பவத்தையடுத்து கச்சேரி நடந்த கட்டிடத்தை பாதுகாப்பு அதிகாரிகள் சுற்றி வளைத்துள்ளனர். தற்போது வரை 100 பேர் கட்டிடத்திலிருந்து பத்திரமாக மீட்கப்பட்டிருக்கின்றனர். இரவு முழுவதும் மீட்பு நடந்திருக்கிறது.  R
+
+◼️
+
+[Data](articles/d9e2928c.json)
+
+---
+
+### திருக்கோவில் வைத்தியசாலைக்கு எதிராக ஆர்ப்பாட்டத்தில் ஈடுபட்டு சேதம் விளைவித்த 6 பேர் கைது
+
+*2024-03-23 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/179486) · `ta`
+
+அம்பாறை திருக்கோவில் வைத்தியசாலைக்கு எதிராக ஆர்ப்பாட்டத்தில் ஈடுபட்டு வைத்தியசாலைக்கு  சேதம் விளைவித்த பெண் ஒருவர் உட்பட 6 பேர் கைது  செய்யப்பட்டுள்ளனர்.
+
+இவ்வாறு கைது செய்யப்பட்ட பெண் ஒருவர் உட்பட 6 பேரையும் எதிர்வரும் 4ம் திகதி வரையுமான 14 நாட்கள் விளக்கமறியலில் வைக்குமாறு அக்கரைப்பற்று நீதவான் நீதிமன்ற நீதவான் நேற்று வெள்ளிக்கிழமை (22) உத்தரவிட்டார்.
+
+கடந்த திங்கட்கிழமை 11 ஆம் திகதி திருக்கோவில் மெதடிஸ்த மாகா வித்தியாலயத்தின் வருடாந்த இல்ல விளையாட்டு போட்டியை முன்னிட்டு இடம்பெற்றது. அதில்  மரதன் ஓட்டப் போட்டியில் பங்குபற்றிய திருக்கோவில் 3 ம் பிரிவு துரையப்பா வீதியைச் சேர்ந்த 16 வயதுடைய ஜெயக்குமார் விதுர்ஜன் என்ற மாணவன் மயங்கிவீழந்தார்.
+
+மயங்கி வீழ்ந்த மாணவன் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் மேலதிக சிகிச்சைக்காக அக்கரைப்பற்று ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்ட சிகிச்சை பலனின்றி உயிரிழந்தார்.
+
+...
+
+[Data](articles/f0e633ec.json)
+
+---
+
+### IPL 2024 - The first match wins Chennai
 
 *2024-03-23 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194839) · `si`
 
-මෙවර තරගාවලියේ පළමු තරගය චෙන්නායි සුපර් කිංග්ස් කණ්ඩායම සහ රෝයල් චැලෙන්ජර්ස් බෙන්ගලූරූ කණ්ඩායම අතර පැවැත්වුණි.
+IPL 2024: Chennai Super Kings beat Royal Challengers Bengaluru in the opening match, with CSK scoring 176/4 in 18.4 overs, after RCB's 173/6.
 
-එහිදී පළමුව පන්දුවට පහරදුන් RCB කණ්ඩායම සිය ඉනිම සඳහා කඩුලු 6ක් දැවී ලකුණු 173ක් රැස්කළේය.
+🟩
 
-ඊට පිළිතුරු ලෙස CSK කණ්ඩායම පන්දු ඕවර 18.4කදී කඩුලු 4ක් දැවී ලකුණු 176ක් ලබාගනිමින් තරගය ජයගත්තේය.
+The first match of the tournament was held between Chennai Super Kings and Royal Challengers Bengaluro group.
+
+Batting first, the RCB scored 173 runs for the loss of 6 wickets for their own innings.
+
+In response, the CSK won the match with 176 runs for the loss of 4 wickets in 18.4 overs.
 
 ◼️
 
 [Data](articles/b210bab5.json)
 
+[Extended Data](ext_articles/b210bab5.ext.json)
+
 ---
 
-### வவுனியாவில் பணிபுரியும் இராணுவ வீரர் ஒருவர் கைது
+### A soldier arrested in Vavuniya
 
 *2024-03-23 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/179483) · `ta`
 
-அங்குனுகொலபலஸ்ஸ பொலிஸார் இராணுவ வீரர் ஒருவரின் தனியார் வீட்டின் சமையலறையில் மறைத்து வைக்கப்பட்டிருந்த T-56 துப்பாக்கிகளுக்கு பயன்படுத்தப்பட்ட 235 ரவைகளை கைப்பற்றியுள்ளனர்.
+A soldier in Vavuniya was arrested after 235 T-56 rifles were found hidden in a kitchen. The Angunukolapalasa police discovered these weapons in the Paravagumbuga Valley, where they were hidden in a Corbel's house. The soldier's wife was also arrested with bullets and handed over to the Vavuniya police.
 
-பொலிஸாருக்கு கிடைத்த இரகசிய தகவலையடுத்து நடத்தப்பட்ட தேடுதலின் பின்னர், பரவகும்புக பள்ளத்தாக்கு பகுதியில் வைத்து இந்த துப்பாக்கி ரவைகள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன. இராணுவத்தில் தீவிரமாக கடமையாற்றும் கோப்ரல் ஒருவரின் வீட்டின் மாடி சமையலறையில் உரப்பையில் மறைத்து வைக்கப்பட்டிருந்த இந்த மூட்டைகள் கண்டுபிடிக்கப்பட்டுள்ளன.
+🟩
 
-வீட்டில் இருந்த இராணுவ அதிகாரியின் மனைவி தோட்டாக்களுடன் கைது செய்யப்பட்டதாகவும் இராணுவ கோப்ரல் இராணுவத்தினரால் கைது செய்யப்பட்டு வவுனியா பொலிஸாரிடம் ஒப்படைக்கப்பட்டதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+The Angunukolapalasa police have seized 235 rifles used for T-56 guns hidden in the kitchen of a private home.
+
+Following the search for confidential information received by the police, the gunmen were seized by the police in the Paravagumbuga Valley.. These bundles were found hidden in the fertilizer in the loft's house of a Corbel's house, who are actively serving in the military.
+
+The police said that the wife of the soldier at home was arrested with bullets and was arrested by the Army Corporation and handed over to the Vavuniya police.
 
 ◼️
 
 [Data](articles/011938f3.json)
+
+[Extended Data](ext_articles/011938f3.ext.json)
 
 ---
 
@@ -77,6 +125,8 @@ A key issue was the unusual language that said the Security Council “determine
 ...
 
 [Data](articles/21168793.json)
+
+[Extended Data](ext_articles/21168793.ext.json)
 
 ---
 
@@ -280,7 +330,7 @@ The State Minister mentioned that the program to provide compensation to road ac
 
 The individuals can claim a maximum compensation amount of up to Rs. 500, 000 by submitting an application to the relevant insurance company within one year of the accident. This compensation can be availed from any branch of the insurance company across the island, he explained.
 
-Alagiyawanna was addressing a press briefing titled “Collective Path to a Stable Country” held at the Presidential Media Centre (PMC) on Friday (22).
+Addressing a press briefing titled “Collective Path to a Stable Country” held at the Presidential Media Centre (PMC) on Friday (22), Alagiyawanna​ further commented:
 
 ...
 
@@ -2185,45 +2235,5 @@ The song, which is also the rhythm of the top music, has attracted everyone's at
 [Data](articles/a93a6020.json)
 
 [Extended Data](ext_articles/a93a6020.ext.json)
-
----
-
-### Met. Dept. forecasts rainfall of above 75mm for next 36 hours
-
-*2024-03-22 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98131/met-dept-forecasts-rainfall-of-above-75mm-for-next-36-hours) · `en`
-
-The Department of Meteorology says showers or thundershowers are possible at times in the Eastern and Uva provinces and Hambantota District over the next 36 hours.
-
-Several spells of showers may occur in North-central and Northern provinces. Showers or thundershowers will occur at several places elsewhere on the island in the afternoon or at night.
-
-Meanwhile, fairly heavy showers of above 75mm are likely at some places in Western, Sabaragamuwa, Central and North-western Provinces.
-
-Misty conditions can be expected at some places in the Central, Sabaragamuwa and Uva provinces and Galle and Matara districts in the morning.
-
-The members of the public are advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/6ddc58ca.json)
-
-[Extended Data](ext_articles/6ddc58ca.ext.json)
-
----
-
-### 10 more underworld figures arrested within 24-hours
-
-*2024-03-22 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98130/10-more-underworld-figures-arrested-within-24-hours) · `en`
-
-Police have arrested 10 more members of organized criminal gangs within a 24-hour window, under the operation launched earlier this week to curb the underworld.
-
-The arrested suspects include 02 members of the gang led by notorious criminal “Kudu Anju”, 02 associates of “Dematagoda Chaminda”, one member of “Kanjipani Imran’s” syndicate and a member of the criminal gang of “Kosgoda Sujee”.
-
-Accordingly, a total of 27 suspects have been arrested in the 03 days since the start of the anti-underworld operation, the police said.
-
-◼️
-
-[Data](articles/96e0557e.json)
-
-[Extended Data](ext_articles/96e0557e.ext.json)
 
 ---

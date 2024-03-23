@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 13:51:56**
+As of **2024-03-23 14:03:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,347
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,709 (100.0%) of 14,712 articles have been extended.
+14,712 (100.0%) of 14,712 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,29 @@ The 41-year-old, who arrived in Sri Lanka from Brazil via Dubai, will be handed 
 
 [Data](articles/9854a449.json)
 
+[Extended Data](ext_articles/9854a449.ext.json)
+
 ---
 
-### කටුනායකදී පුද්ගලයෙක් අත්අඩංගුවට - ඔහු සතුව කොකේන් යැයි සැකයක්
+### Man arrested in Katunayake - A suspicion he owned cocaine
 
 *2024-03-23 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194843) · `si`
 
-කොකේන් මත්ද්‍රව්‍ය බවට සැක කෙරෙන කරල් 12 සමග පුද්ගලයෙකු අද (23) උදෑසන කටුනායක ගුවන්තොටුපොළ තුළදී අත්අඩංගුවට ගෙන තිබේ.
+A person was arrested at Katunayake airport for allegedly owning cocaine. The suspect, who flew from Brazil to Dubai, was found with 132 grams of heavy cocaine and will be turned over to the Police Narcotics Bureau.
 
-සැකකරු අද උදෑසන බ්‍රසීලයේ සිට ඩුබායි හරහා කටුනායකට පැමිණ තිබූ අතර එහිදී අත්අඩංගුවට පත් වුණි.
+🟩
 
-ඔහු සතුව තිබී ග්‍රෑම් 132ක් බර කරල් 12ක් සොයාගෙන ඇති අතර ඒවා පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය වෙත භාරදීමට නියමිතය.
+A person has been arrested in Katunayake airport this morning (23).
+
+The suspect had come to Katunayake from Brazil to Dubai this morning and was arrested.
+
+He has recovered 132 grams heavy cords and will be handed over to the Police Narcotics Bureau.
 
 ◼️
 
 [Data](articles/01d57b1b.json)
+
+[Extended Data](ext_articles/01d57b1b.ext.json)
 
 ---
 
@@ -1671,6 +1679,8 @@ A sustainable future depends on investments in forest protection and restoration
 ...
 
 [Data](articles/1afeb965.json)
+
+[Extended Data](ext_articles/1afeb965.ext.json)
 
 ---
 

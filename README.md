@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 14:33:19**
+As of **2024-03-23 14:49:56**
 
 ## Newspaper Stats
 
-*Scraped **14,715** Articles*
+*Scraped **14,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 1,764
 tamilmirrorlk | 1,768
 virakesarilk | 2,071
 dailymirrorlk | 2,267
-adaderanasinhalalk | 2,348
+adaderanasinhalalk | 2,349
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,713 (100.0%) of 14,715 articles have been extended.
+14,715 (100.0%) of 14,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### රුසියානු ප්‍රහාරයේ සැකකරුවන් 11ක් අත්අඩංගුවට
+
+*2024-03-23 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194846) · `si`
+
+රුසියාවේ මොස්කව්හි අගනුවර ආසන්නයේ පිහිටි රඟහලකට එල්ලවූ ත්‍රස්ත ප්‍රහාරය සම්බන්ධයෙන් ප්‍රධාන සැකකරුන් සිව්දෙනා ඇතුළුව සැකකරුන් 11 දෙනෙකු අත්අඩංගුවට ගෙන ඇති බව එරට මාධ්‍ය වාර්තා කර තිබේ.
+
+ප්‍රහාරය හේතුවෙන් මියගිය සංඛ්‍යාව මේ වන විට 93 දක්වා ඉහළ ගොස් ඇති බව සඳහන් වන අතර තුවාලකරුවන් ගණන 100 ඉක්මවා තිබේ.
+
+මේ අතර, රුසියානු රජය පවසා ඇත්තේ ප්‍රහාරයෙන් මියගිය අයෙකුගේ ඥාතීන්ට එරට මුදලින් රුබල් මිලියන 3ක් සහ තුවාල ලැබූ පිරිස සඳහා එක් අයෙක් වෙනුවෙන් රුබල් මිලියනයක් ලබාදීමට කටයුතු කරන බවය.
+
+විදෙස් වාර්තා සඳහන් කළේ ප්‍රහාරයේ වගකීම අයි.එස්. සංවිධානය විසින් බාරගෙන ඇති බවය.
+
+මෙම ප්‍රහාරය සිදු වුයේ රුසියාවේ මොස්කව්හි අගනුවර ආසන්නයේ  ක්‍රස්නොගෝර්ස්ක්හි පිහිටි රංග ශාලාවකදීය.
+
+විදෙස් වාර්තා සඳහන් කළේ හමුදා සාමාජිකයින් ට සමාන ඇඳුමින් සැරසුණු ප්‍රහාරකයින් සිව්දෙනෙකු ප්‍රසංගයක් පැවති අදාළ ගොඩනැගිල්ලට කඩා වැදී වෙඩි තබා, අත්බෝම්බ ප්‍රහාරයක් එල්ල කර ඇති බවය.
+
+වෙඩි තැබීම සිදුකර තිබුණේ රොක් සංගීත කණ්ඩායමක් පවත්වන සංගීත සංදර්ශනයක් ආරම්භ වීමට මොහොතක් තිබියදීය.
+
+...
+
+[Data](articles/dfcce225.json)
+
+---
 
 ### Arrest Maithri: Opposition MPs
 
@@ -52,6 +76,8 @@ The MPs said they have already discussed the issue with the church leaders in Sr
 
 [Data](articles/7c2e3206.json)
 
+[Extended Data](ext_articles/7c2e3206.ext.json)
+
 ---
 
 ### Bangladesh falters, all out for 188 as Sri Lanka takes command in first Test
@@ -69,6 +95,8 @@ Sri Lanka pace trio of Fernando, Kasum Rajitha and Lahiru Kumara shared the 10 w
 ...
 
 [Data](articles/3e2eb92d.json)
+
+[Extended Data](ext_articles/3e2eb92d.ext.json)
 
 ---
 
@@ -2177,23 +2205,5 @@ The two-day cricket encounter, known for its exhilarating and competitive spirit
 [Data](articles/6472f613.json)
 
 [Extended Data](ext_articles/6472f613.ext.json)
-
----
-
-### SriLankan Airlines statement on Flight UL 470
-
-*2024-03-22 20:06:00* · [`islandlk`](http://island.lk/srilankan-airlines-statement-on-flight-ul-470/) · `en`
-
-SriLankan Airlines has made every effort to satisfy the travel requirements of all 217 of its valued passengers who were checked in to travel to Incheon, South Korea on 19 March 2024 on UL 470, when the flight was delayed by approximately 13 hours from the scheduled time of departure due to a technical reason.
-
-Of the passengers, 117 resumed their journey on the same flight once the aircraft was cleared for departure and took off to Incheon, South Korea at 07:23hrs on the next day, 20 March 2024.
-
-The remaining 100 passengers, who were heading to South Korea for work, have been rebooked to travel on Sunday, 24 March 2024. The decision to rebook these passengers was made in consultation with the Human Resources Development Service of Korea (HRD Korea) and the Sri Lanka Bureau of Foreign Employment and the delay is not expected to affect their employment in South Korea.
-
-...
-
-[Data](articles/a612e7ea.json)
-
-[Extended Data](ext_articles/a612e7ea.ext.json)
 
 ---

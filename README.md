@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 18:50:54**
+As of **2024-03-23 19:03:06**
 
 ## Newspaper Stats
 
-*Scraped **14,748** Articles*
+*Scraped **14,749** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 794
 islandlk | 805
 adalk | 1,262
 tamilmirrorlk | 1,770
-adaderanalk | 1,773
+adaderanalk | 1,774
 virakesarilk | 2,074
 dailymirrorlk | 2,270
 adaderanasinhalalk | 2,359
@@ -26,27 +26,51 @@ adaderanasinhalalk | 2,359
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,747 (100.0%) of 14,748 articles have been extended.
+14,748 (100.0%) of 14,749 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### මේ වැඩේ කරන්න බැරි අය නිලඇඳුම ගලවලා යන්න - ටිරාන් අලස්
+### Immediate investigation ordered into Maithripala’s claims on Easter attacks’ masterminds
+
+*2024-03-23 18:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98156/immediate-investigation-ordered-into-maithripalas-claims-on-easter-attacks-masterminds) · `en`
+
+Minister of Public Security Tiran Alles has ordered IGP Deshabandu Tennakoon to conduct an immediate investigation into the recent statement by former President Maithripala Sirisena on the Easter Sunday bomb attacks.
+
+On Friday (22), former President Maithripala Sirisena claimed that he has knowledge of the true mastermind of the 2019 Easter Sunday terror attacks and that he was prepared to disclose the information to the judiciary if inquired from him or issues an order regarding the matter.
+
+Commenting to the media in Kandy, Sirisena highlighted that he is ready to disclose the relevant information and that at the same time, it is the responsibility of the judges to keep the information strictly confidential.
+
+Meanwhile, the Samagi Jana Balawegaya (SJB) Parliamentarian Kavinda Jayawardena lodged a complaint with the Criminal Investigation Department (CID) today (23), seeking an expeditious investigation into the former President’s controversial remarks.
+
+...
+
+[Data](articles/22a4842a.json)
+
+---
+
+### People who cannot do this work be saved - Tiran Alles
 
 *2024-03-23 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194857) · `si`
 
-ඇතැම් ප්‍රදේශවල සිවිල් ආරක්ෂක කමිටු පිහිටුවීමේදී පොලිස් නිලධාරීන් විසින් වැරදි තොරුතුර ලබාදී ඇතැයි මහජන ආරක්ෂක අමාත්‍ය ටිරන් අලස් මහතා පවසයි.
+"Tiran Alles: Misconceptions in civil defense committees led to legal action against police officers. The Minister emphasized the importance of community committees and criticized delays, promising to take action against those who obstruct progress."
 
-එහිදී අමාත්‍යවරයා පවසා සිටියේ, එවැනි වැරදි තොරතුර ලබාදුන් නිලධාරීන්ට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගන්නා බවය.
+🟩
 
-අද (23) රත්නපුර ප්‍රදේශයේ පැවැති උත්සවයකට සහභාගී වෙමින් අමාත්‍යවරයා ඒ බව සඳහන් කළේය.
+In some areas, the police officers have been provided with misconception in the establishment of civil defense committees.
 
-"යුක්තිය මෙහෙයුම පටන් ගන්න ඉස්සරවෙලා අපි අධ්‍යයනය කරන කාලයේ අපි ප්‍රජා කමිටු පිහිටුවන වැඩේ අලුතින් කෙරුවේ. අපි අලුත් විදිහකට හිතලා... මට මතකයි සැප්තැම්බර් 30 වෙනෙකොට ඒක ඉවර කරන්න කියලා තිබුණේ. ඊට පස්සේ ඔක්තෝම්බර් 10 වෙනතුර කල් ඉල්ලුවා. මම ඔක්තෝම්බර් 10 වෙනකොට ඉවර කරන්න කිව්වා. පොලිස්පතිතුමා කිව්වා වගේ සමහර පැතිවල ඒක හරියට කරලා නැහැ. අපිට බොරු තොරතුරු දිලා තියෙන්නේ. එවැනි පොලිස් නිලධාරීන්ට විරුද්ධව ගන්න පුළුවන් උපරිම ක්‍රියාමාර්ගය මම ගන්නවා. මොකද මේ දේ කරන්න බෑ පොලිස් නිලධාරීන් සියලුදෙනාම එකට එකතු වෙලා මේ වැඩ ටික කෙරුවේ නැත්නම්. කවුරු හරි ඉන්නවා නම් අපිට ඕනේ විදිහට මේ වැඩේ කරන්න බැරි. ඒ අය නිල ඇඳුම ගලවලා යන්න ඕනේ."
+The Minister said that legal action will be taken against the officers who gave such misbehavior.
+
+He was speaking at a function in Ratnapura today (23).
+
+"When we study the operation of justice, we were born in the work we set up the community committees. We thought a new way.. I remember Sepu 30 September 30 was to finish it. Then, October 10 demanded lasting time. I was told by October 10. Just as the IGP said, it has not done that in some sides. We have false information. I take the best action against such police officers. Because if all the cops do not do this together, they did not do this work together. If there is anyone, we can't do this work. They must take off the uniform. "
 
 ◼️
 
 [Data](articles/d91e3df6.json)
+
+[Extended Data](ext_articles/d91e3df6.ext.json)
 
 ---
 
@@ -2315,21 +2339,5 @@ The Architect 2024 Exhibition, held in February, brought together industry leade
 [Data](articles/61a2e4fc.json)
 
 [Extended Data](ext_articles/61a2e4fc.ext.json)
-
----
-
-### Make every bottle sold a beacon of hope
-
-*2024-03-23 00:14:50* · [`dailyftlk`](https://www.ft.lk/business/Make-every-bottle-sold-a-beacon-of-hope/34-759841) · `en`
-
-From left: American Premium Service Excellence Senior Manager Radika Lawrance, Business Excellence Senior Manager Nirmala Kolugala, American Group Director/CEO Fayaz Fazal, American Premium Group Chairman Anura Kumarasinghe, Amana Bank Vice President Retail Banking/OrphanCare Management Committee Member Siddeeque Akbar, OrphanCare Deputy Head Marshad Barry, and Head Azad Zaheed
-
-American Premium commemorates World Water Day by teaming up with OrphanCare
-
-...
-
-[Data](articles/9fb460d1.json)
-
-[Extended Data](ext_articles/9fb460d1.ext.json)
 
 ---

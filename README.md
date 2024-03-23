@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 21:33:32**
+As of **2024-03-23 21:52:07**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,363
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,761 (100.0%) of 14,762 articles have been extended.
+14,762 (100.0%) of 14,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### ලොව පුරා අපනයනය කෙරෙන අපේ රටේ නිපදවන සෙල්ලම් බඩු
+### Toys of our world exported worldwide
 
 *2024-03-23 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194861) · `si`
 
-ලෝකය සමග තරග කරන සුවිශේෂී ශ්‍රී ලාංකික ව්‍යාපාරයක් පිළිබඳ අද දෙරණ ට මෙලෙස තොරතුරු වාර්තා වුණි.
+"Derana highlights Tikiri Toys, a Sri Lankan business exporting globally, led by CEO Manoi Sherryf, earning $12M annually. The business uses petbox and rub, exporting these items worldwide. Sherryf has written a book in 12 languages, sparking curiosity about his name in Germany."
 
-එම අයාතනය විසින් රෙදි භාවිතයෙන් සුරතල් බෝනිකන් සහ රබර් භාවිතයෙන් සුරතල් සතුන් නිර්මාණය කර ලොව පුරා අපනයනය කරයි.
+🟩
 
-ටිකිරි TOYS ප්‍රධාන විධායක නිලධාරී මනෝහරී ෂෙරීෆ් පැවසුවේ සිය ව්‍යාපාරය හරහා වාර්ෂිකව ඩොලර් මිලියන 12ක් උපයන බවය.
+The Derana was reported on a unique Sri Lankan business competing with the world.
 
-"ජර්මනියේදී මෙයාගේ නම මොකක්ද ඇහුවා. නමක් තිබුණේ නැහැ . එකපාරටම මම කිව්වා මීයා කියලා. මීයාට දැන් යාළුවෝ ඉන්නවාද ඇහුවා ? මීයා සහ ඇල්වින් කියලා මම පොතක් ලිව්වා එය භාෂා 12කට පරිවර්තනය වුණා."
+The indigenous use of petbox and rub also exports from the use of petbox and rub.
+
+Tikiri Toys CEO Manoi Sherryf said that his business earns $ 12 million annually.
+
+"What's the name of his name in Germany?. There was no name. Suddenly I said the rat. Did the Lord now hear friends?I wrote a book, I wrote a book in 12 languages. "
 
 ◼️
 
 [Data](articles/c80b6998.json)
+
+[Extended Data](ext_articles/c80b6998.ext.json)
 
 ---
 

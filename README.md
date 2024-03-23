@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 20:33:34**
+As of **2024-03-23 20:51:19**
 
 ## Newspaper Stats
 
-*Scraped **14,757** Articles*
+*Scraped **14,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,42 +17,84 @@ economynextcom | 794
 islandlk | 805
 adalk | 1,262
 tamilmirrorlk | 1,773
-adaderanalk | 1,775
+adaderanalk | 1,776
 virakesarilk | 2,074
 dailymirrorlk | 2,272
-adaderanasinhalalk | 2,361
+adaderanasinhalalk | 2,362
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,756 (100.0%) of 14,757 articles have been extended.
+14,757 (100.0%) of 14,759 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### රුසියාවට එල්ල කළ ප්‍රහාරය ගැන සැකකරුවෙක් පාපොච්චාරණය කරයි
+### අගමැති දිනේෂ් හදිසියේම චීනය ට
+
+*2024-03-23 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194860) · `si`
+
+අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා නිල සංචාරයක් සඳහා එළඹෙන සඳුදා (25) චීනය බලා පිටත්ව යෑමට නියමිතව තිබේ.
+
+චීන අග්‍රාමාත්‍ය Li Qiang මහතාගේ ආරාධනයකට අනුව අග්‍රාමාත්‍යවරයා එම සංචාරයේ නිරත වේ.
+
+අග්‍රාමාත්‍යවරයා මාර්තු 25 සිට 30 දක්වා චීන සංචාරයේ නිරත වන බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+එහිදී අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා සහ චීන ජනාධිපති ෂී ජින්පිං මහතා අතර විශේෂ හමුවක් ද පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/f2d920f1.json)
+
+---
+
+### CBSL senior management to revisit recent salary revision
+
+*2024-03-23 20:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98158/cbsl-senior-management-to-revisit-recent-salary-revision) · `en`
+
+The Central Bank of Sri Lanka (CBSL) on Saturday (23) said that a majority of senior management and professionals of CBSL have made a collective decision to consider a revision to their salaries that sparked controversy.
+
+Issuing a statement, the CBSL said that the recent salary revision for the period 2024-2026 made by the Central Bank of Sri Lanka (CBSL), post the collective agreement between the Governing Board and the employee representatives, created much discourse among the public.
+
+Furthermore, the statement mentions that this decision was communicated to the Committee on Public Finance (COPF) on 16th March 2024, prior to and independent of the recommendations made by COPF.
+
+The COPF Chairman has meantime recommended that the collective agreement to increase salaries of CBSL staff be reviewed by an independent committee, entailing revisions across all employee categories of CBSL, it added.
+
+...
+
+[Data](articles/7924fa78.json)
+
+---
+
+### Suspect confesses to Russia's attack
 
 *2024-03-23 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194859) · `si`
 
-රුසියාවේ මොස්කව් නුවර ආසන්නයේ පිහිටි ක්‍රෝකස් නගරයේ සංගීත සංදර්ශනයක් පැවැත්වීමට නියමිතව තිබූ රංග ශාලාවකට එල්ලවූ ත්‍රස්ත ප්‍රහාරයෙන් මේ වනවිට පුද්ගලයින් 150 දෙනෙකු ජීවිතක්ෂයට පත්වී තිබේ.
+A terrorist attack in Moscow's Church of Christ killed 150, with ISIS claiming responsibility. Russian security forces seized the attackers 380 km from the site. The attack was thwarted by 50 fire trucks, and four terrorists were arrested. The incident led to the revocation of support from other countries and the arrest of four Russian security forces involved.
 
-විදෙස් මාධ්‍ය වාර්තා කළේ, ප්‍රහාරයට පෙර අමෙරිකාව සිදුකළ අනතුරු ඇඟවීම් රුසියානු ජනපති ව්ලැද්මීර් පුටින් බැහැර කර ඇති බවය.
+🟩
 
-කෙසේවෙතත් දිනක් ඉක්මවා යන්නටත් පෙර මොස්කව් නුවරින් කිලෝමීටර් 380ක දුරකට ගොස් සිටි ත්‍රස්තවාදීන් අල්ලා ගැනීමට රුසියානු ආරක්ෂක අංශ සමත්වුණි.
+150 persons have been killed in a theater launched by the terrorist attack on the constituent of Church in the Moscow in Moscow, Russia.
 
-මොස්කව් අගනුවර තදාසන්න ක්‍රෝකස් නගර ශාලාවේ ඊයේ (22) රාත්‍රී පැවැත්වීමට නියමිතව තිබූ සංගීත ප්‍රසංගයට ත්‍රස්තවාදීන් ඇතුළුවූයේ ස්වංක්‍රීය ගිනි අවිවලින් වෙඩිතබමින් සහ අත් බෝම්බ  ප්‍රහාර එල්ල කරමිනි.
+Foreign media reports that the US warnings had been excluded Russian President Vladmanir Putin before the attack.
 
-එම අවස්ථාවේදී රංග ශාලාව තුළ 6,200කට ආසන්න පිරිසක් රැස්ව සිටියේ, පික්නික් නැමැති රුසියානු සුප්‍රසිද්ධ රොක් සංගීත කණ්ඩායමේ සංගීතය රසවිඳීම සඳහාය.
+However, before a date beyond a date, the Russian security forces were able to seize the 380 miles [380 km] in Moscow.
 
-"අපි ක්‍රෝකස් නගරයේ ප්‍රසංගයක ඉන්නේ. මෙහි යම් වෙඩි තැබීමක් සිදුවනවා. හැමෝම කෑ ගහනවා. කවුරුහරි වෙඩිතියනවා."
+The concert was to be held at the Moscow City Hall yesterday (22) laid the musical concert held by acquaintance and hand grenade.
 
-සිද්ධියෙන් භීතියට පත්වූවන් වෙඩි සහ බෝම්බ ප්‍රහාරවලින් බේරීමට ආවරණයක් සොයා දිවගිය අයුරු විදෙස් මාධ්‍ය වාර්තා කළේය.
+Nearly 6,200 people gathered in the theater, Picnic's Russian famous Rock band.
+
+"We're in a concert in the city of Church. There is some shooting here. Everyone screams. Someone shot. "
+
+The terrorists have come to seek a cover to survive the shots and bombings. Foreign media reports.
 
 ...
 
 [Data](articles/6898567d.json)
+
+[Extended Data](ext_articles/6898567d.ext.json)
 
 ---
 
@@ -2299,45 +2341,5 @@ The President, including the President, visited the treatment units after the op
 [Data](articles/d4c07007.json)
 
 [Extended Data](ext_articles/d4c07007.ext.json)
-
----
-
-### 12 per cent of elders toothless in Sri Lanka: Minister
-
-*2024-03-23 03:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/12-per-cent-of-elders-toothless-in-Sri-Lanka-Minister/108-279418) · `en`
-
-Colombo, March 22 (Daily Mirror) - Health Minister Dr. Ramesh Pathirana said 12 per cent of the elderly population in Sri Lanka have lost all their teeth, and therefore the importance of dental health should be taught at school level.
-
-Addressing a function to mark World Oral Health Day, the minister said it is important to maintain oral dental health right throughout life. He said a lot of people suffer from oral cancer in the country today.
-
-He stressed the importance of following proper health habits to prevent such diseases.
-
-◼️
-
-[Data](articles/d55164ec.json)
-
-[Extended Data](ext_articles/d55164ec.ext.json)
-
----
-
-### Justice Minister promises to complete OMP investigations by Dec 2025
-
-*2024-03-23 01:11:43* · [`dailyftlk`](https://www.ft.lk/news/Justice-Minister-promises-to-complete-OMP-investigations-by-Dec-2025/56-759851) · `en`
-
-Says one cannot be satisfied with previous performance of the OMP
-
-Claims when he was appointed as Justice Minister he discovered only 62 complaints had been looked into
-
-Notes to date OMP has investigated 5,600 complaints out of total 14,700 received
-
-Justice Minister Dr. Wijeyadasa Rajapakshe on Thursday assured that the investigations conducted by the Office on Missing Persons (OMP) into enforced disappearances will be completed by 31 December 2025.
-
-Rajapakshe made these comments while attending a workshop organised by the OMP at the Sri Lanka Foundation Institute where discussions were held regarding the formulation of guidelines in collaboration with relevant stakeholders.
-
-...
-
-[Data](articles/351d4744.json)
-
-[Extended Data](ext_articles/351d4744.ext.json)
 
 ---

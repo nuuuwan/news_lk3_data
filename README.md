@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 07:31:22**
+As of **2024-03-23 07:54:12**
 
 ## Newspaper Stats
 
-*Scraped **14,657** Articles*
+*Scraped **14,658** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 805
 adalk | 1,257
 adaderanalk | 1,756
 tamilmirrorlk | 1,761
-virakesarilk | 2,063
+virakesarilk | 2,064
 dailymirrorlk | 2,257
 adaderanasinhalalk | 2,337
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 2,337
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,653 (100.0%) of 14,657 articles have been extended.
+14,657 (100.0%) of 14,658 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### බ්‍රිතාන්‍ය රජ කුමරියට පිළිකාවක්
+### British king is cancer
 
 *2024-03-23 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194833) · `si`
 
-විශේෂ වීඩියෝ පණිවුඩයක් නිකුත් කරමින් ඇය විසින් ඒ බව හෙළිකර තිබුණි.
+"British king reveals he has cancer in a video message."
+
+🟩
+
+She had revealed this by issuing a special video message.
 
 ◼️
 
 [Data](articles/16a919a3.json)
+
+[Extended Data](ext_articles/16a919a3.ext.json)
 
 ---
 
@@ -68,6 +74,26 @@ Members of the public are urged to take adequate precautions to minimize damages
 
 ---
 
+### மொஸ்கோ தாக்குதல் - ஐஎஸ் அமைப்பு உரிமை கோரியது
+
+*2024-03-23 06:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179474) · `ta`
+
+மொஸ்கோவின் மிகவும் பிரபலமான இசைநிகழ்ச்சி அரங்கில் இடம்பெற்ற துப்பாக்கி சூட்டு சம்பவத்தில் கொல்லப்பட்டவர்கள் எண்ணிக்கை 60 ஆக அதிகரித்துள்ள அதேவேளை  ஐஎஸ்ஐஎஸ்  அமைப்பு இந்த தாக்குதலிற்கு உரிமை கோரியுள்ளது.
+
+டெலிகிராமில் ஐஎஸ் அமைப்பு தாக்குதலிற்கு உரிமை கோரியுள்ளது எனினும் இந்த தாக்குதலைதான் மேற்கொண்டமைக்காக ஆதாரங்கள் எவற்றையும் அந்த அமைப்பு வெளியிடவில்லை.
+
+இதேவேளை இந்த தாக்குதலை ஐஎஸ் அமைப்பே மேற்கொண்டுள்ளது என்பதை அமெரிக்க புலனாய்வு அமைப்புகள் உறுதி செய்துள்ளன.
+
+ஐஎஸ் அமைப்பு ரஸ்யாவில் தாக்குதலொன்றை மேற்கொள்வதற்கான முயற்சிகளில் ஈடுபட்டுள்ளது என்ற தகவல்கள் நவம்பர் மாதம் முதல் கிடைத்தன என அமெரிக்க புலனாய்வு அமைப்புகளை சேர்ந்தவர்கள் சிபிஎஸ் தொலைக்காட்சிக்கு தெரிவித்துள்ளனர்.
+
+அமெரிக்காவிற்கும் ரஸ்யாவிற்கும் இடையிலான உறவுகள் பாதி;க்கப்பட்டுள்ள போதிலும் அமெரிக்க புலனாய்வு அமைப்புகள் ஐஎஸ்தாக்குதல் குறித்த எச்சரிக்கையை ரஸ்யாவிடம் பகிர்ந்துகொண்டன எனவும் தகவல்கள் வெளியாகியுள்ளன.
+
+...
+
+[Data](articles/3816b733.json)
+
+---
+
 ### Significant rainfall exceeding 100mm expected in some areas today
 
 *2024-03-23 06:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98140/significant-rainfall-exceeding-100mm-expected-in-some-areas-today) · `en`
@@ -87,6 +113,8 @@ Members of the public are urged to take adequate precautions to minimize damages
 ...
 
 [Data](articles/d5f98ea8.json)
+
+[Extended Data](ext_articles/d5f98ea8.ext.json)
 
 ---
 
@@ -158,6 +186,8 @@ Verified video showed people taking their seats in the hall, then rushing for th
 
 [Data](articles/4cbb922e.json)
 
+[Extended Data](ext_articles/4cbb922e.ext.json)
+
 ---
 
 ### A change in the weather
@@ -206,17 +236,23 @@ Colombo, March 23 (Daily Mirror) - A General Election will be held if the member
 
 ---
 
-### களு கங்கையில் மூழ்கி இருவர் பலி
+### Two killed in Kalu Ganga
 
 *2024-03-23 04:06:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களு-கங்கையில்-மூழ்கி-இருவர்-பலி/175-335040) · `ta`
 
-இரத்தினபுரி - கிரியெல்ல, எல்லகாவ பிரதேசத்தில் களு கங்கையில் நீராடச் சென்ற இருவர் நீரில் மூழ்கி உயிரிழந்துள்ளனர்.
+Two drowned in Kalu Ganga, Ellagawa, Ratnapura-Kiriella: 17-year-old woman and 23-year-old army soldier.
 
-எல்லகாவ பிரதேசத்தைச் சேர்ந்த 17 வயதுடைய யுவதியும், ஹொரொவப்பொத்தான பிரதேசத்தைச் சேர்ந்த 23 வயதுடைய இராணுவச் சிப்பாயுமே இவ்வாறு உயிரிழந்துள்ளனர் என்று தெரிவிக்கப்படுகின்றது.
+🟩
+
+Two people drowned in the Kalu Ganga in the Ellagawa area of Ratnapura - Kiriella.
+
+It is reported that the 17 -year -old woman from Ellagawa and a 23 -year -old army soldier from Horawapothana area died.
 
 ◼️
 
 [Data](articles/7d610ad2.json)
+
+[Extended Data](ext_articles/7d610ad2.ext.json)
 
 ---
 
@@ -2175,29 +2211,5 @@ The Massachusetts General Hospital said that the organ transplant took place on 
 [Data](articles/76770bf1.json)
 
 [Extended Data](ext_articles/76770bf1.ext.json)
-
----
-
-### The whole of Sri Lanka burns
-
-*2024-03-22 14:19:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-முழுதும்-எரிகின்றது/175-335021) · `ta`
-
-Sri Lanka is experiencing unusually high temperatures, with the Department of Meteorology reporting a rise of 1-2 degrees Celsius. This heat wave is expected to last until the end of April, with March and April typically being the hottest months.
-
-🟩
-
-The Department of Meteorology said the temperature increased by one or two degrees Celsius these days than the rest of the year.
-
-Deputy Director of the Department of Meteorology, Maril Mendis, said the situation is seen across the country.
-
-He added that the heat is high in March and April every year and the situation will remain until the end of April.
-
-The department also said that the temperature has risen abnormally at this time. Remble
-
-◼️
-
-[Data](articles/5b1f2a74.json)
-
-[Extended Data](ext_articles/5b1f2a74.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 10:17:39**
+As of **2024-03-23 10:33:43**
 
 ## Newspaper Stats
 
-*Scraped **14,676** Articles*
+*Scraped **14,679** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,47 +16,101 @@ economynextcom | 782
 dailyftlk | 791
 islandlk | 805
 adalk | 1,258
-adaderanalk | 1,759
+adaderanalk | 1,760
 tamilmirrorlk | 1,765
-virakesarilk | 2,065
+virakesarilk | 2,066
 dailymirrorlk | 2,261
-adaderanasinhalalk | 2,342
+adaderanasinhalalk | 2,343
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,674 (100.0%) of 14,676 articles have been extended.
+14,676 (100.0%) of 14,679 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### ගෝලීය ජනගහනයෙන් බිලියන 2.2ක් දරුණු ජල හිඟයක
+### IPL 2024 - පළමු තරගය චෙන්නායි දිනයි
+
+*2024-03-23 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194839) · `si`
+
+මෙවර තරගාවලියේ පළමු තරගය චෙන්නායි සුපර් කිංග්ස් කණ්ඩායම සහ රෝයල් චැලෙන්ජර්ස් බෙන්ගලූරූ කණ්ඩායම අතර පැවැත්වුණි.
+
+එහිදී පළමුව පන්දුවට පහරදුන් RCB කණ්ඩායම සිය ඉනිම සඳහා කඩුලු 6ක් දැවී ලකුණු 173ක් රැස්කළේය.
+
+ඊට පිළිතුරු ලෙස CSK කණ්ඩායම පන්දු ඕවර 18.4කදී කඩුලු 4ක් දැවී ලකුණු 176ක් ලබාගනිමින් තරගය ජයගත්තේය.
+
+◼️
+
+[Data](articles/b210bab5.json)
+
+---
+
+### வவுனியாவில் பணிபுரியும் இராணுவ வீரர் ஒருவர் கைது
+
+*2024-03-23 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/179483) · `ta`
+
+அங்குனுகொலபலஸ்ஸ பொலிஸார் இராணுவ வீரர் ஒருவரின் தனியார் வீட்டின் சமையலறையில் மறைத்து வைக்கப்பட்டிருந்த T-56 துப்பாக்கிகளுக்கு பயன்படுத்தப்பட்ட 235 ரவைகளை கைப்பற்றியுள்ளனர்.
+
+பொலிஸாருக்கு கிடைத்த இரகசிய தகவலையடுத்து நடத்தப்பட்ட தேடுதலின் பின்னர், பரவகும்புக பள்ளத்தாக்கு பகுதியில் வைத்து இந்த துப்பாக்கி ரவைகள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன. இராணுவத்தில் தீவிரமாக கடமையாற்றும் கோப்ரல் ஒருவரின் வீட்டின் மாடி சமையலறையில் உரப்பையில் மறைத்து வைக்கப்பட்டிருந்த இந்த மூட்டைகள் கண்டுபிடிக்கப்பட்டுள்ளன.
+
+வீட்டில் இருந்த இராணுவ அதிகாரியின் மனைவி தோட்டாக்களுடன் கைது செய்யப்பட்டதாகவும் இராணுவ கோப்ரல் இராணுவத்தினரால் கைது செய்யப்பட்டு வவுனியா பொலிஸாரிடம் ஒப்படைக்கப்பட்டதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/011938f3.json)
+
+---
+
+### Russia, China veto US resolution calling for immediate cease-fire in Gaza
+
+*2024-03-23 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98144/russia-china-veto-us-resolution-calling-for-immediate-cease-fire-in-gaza) · `en`
+
+Russia and China on Friday vetoed a U.S.-sponsored United Nations resolution supporting “an immediate and sustained cease-fire” in the Israel-Hamas war in Gaza, calling the measure ambiguous and saying it was not the direct demand to end the fighting that much of the world seeks.
+
+The vote in the Security Council became another showdown involving world powers that are locked in tense disputes elsewhere, with the United States taking criticism for not being tough enough against its ally Israel, whose ongoing military offensive has created a dire humanitarian crisis for the 2.3 million Palestinians in Gaza.
+
+A key issue was the unusual language that said the Security Council “determines the imperative of an immediate and sustained cease-fire.” The phrasing was not a straightforward “demand” or “call” to halt hostilities.
+
+...
+
+[Data](articles/21168793.json)
+
+---
+
+### 2.2 billion of the global population
 
 *2024-03-23 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194838) · `si`
 
-ගෝලීය ජනගහනයෙන් බිලියන 2.2ක් දරුණු ජල හිඟයකට මුහුණ දී සිටින බව එක්සත් ජාතීන්ගේ නවතම වාර්තාවකින් අනාවරණ වී තිබේ.
+The global water shortage affects 2.2 billion people, escalating conflicts. UN reports highlight the impact on women, children, and African countries, with only 24 out of 153 countries contracted to use water resources, posing a conflict risk.
 
-එක්සත් ජාතීන් අවධාරණය කරන්නේ ජල හිඟය ලොව පුරා ගැටුම් උත්සන්න වීමට ද හේතුවක් විය හැකි බවය.
+🟩
 
-එමෙන්ම බිලියන 3.5ක පිරිසකට ආරක්ෂිත සනීපාරක්ෂණ පහසුකම් සපයා ගැනීමේ හැකියාව ද නොමැති බව වාර්තාවේ වැඩි දුරටත් දැක්වේ.
+The latest report has revealed that 2.2 billion people are facing a shortage of water in the global population.
 
-බිලියන ගණනකට බලපා ඇති ජල හිඟයෙන් වැඩි බලපෑම් එල්ල වී ඇත්තේ, කාන්තාවන්ට සහ ළමයින් බව එක්සත් ජාතීන්ගේ වාර්තාවේ වැඩි දුරටත් දැක්වේ.
+The United Nations emphasizes that the water shortage may escalate all conflicts around the world.
 
-වාර්තාවට අනුව ගෝලීය ජල හිඟයෙන් වැඩිම බලපෑමක් එල්ල වී ඇත්තේ අප්‍රිකානු කලාපීය රටවලට ය.
+According to the report, it is also possible to obtain safeibration facilities to a group of 3.5 billion people.
 
-ඒ අනුව අප්‍රිකානු රාජ්‍යයන් 22ක් අතුරින් 19ක් ජනතාව ජල හිඟයට මුහුණ දී සිටින බව වාර්තා වේ.
+The United Nations report further states that women and children have been affected by the shortage of billions of water.
 
-ලොව රටවල් 153ක් ජල සම්පත් හවුලේ පරිභෝජනය කරන බව විදෙස් වාර්තා පවසයි.
+According to the report, the greatest effects of global water deficit has been the most affected by African regional countries.
 
-එනමුත් සහයෝගයෙන් ජල සම්පත් පරිභෝජනයට ගිවිසුම් ගත වි ඇත්තේ රටවල් 24ක් පමණී.
+Accordingly, 19 of the 22 African states, 19 people are faced with water shortage.
 
-ඒ අනුව, පවතින තත්ත්වය හමුවේ ලොව පුරා ගැටුම් තීව්‍ර විමේ අවදානමක් ද පවතින බව එක්සත් ජාතීන් අවධාරණය කරයි.
+153 countries in the world consume water resources.
+
+However, there are only 24 countries that have been contracted to consume water resources.
+
+Accordingly, the United Nations emphasizes that there is a risk of conflict in the face of the present situation.
 
 ◼️
 
 [Data](articles/3d76f7c9.json)
+
+[Extended Data](ext_articles/3d76f7c9.ext.json)
 
 ---
 
@@ -75,6 +129,8 @@ Accordingly, the first, ‘Accelerating Digital Sri Lanka’ will focus on how D
 ...
 
 [Data](articles/146e88b7.json)
+
+[Extended Data](ext_articles/146e88b7.ext.json)
 
 ---
 
@@ -2169,73 +2225,5 @@ Accordingly, a total of 27 suspects have been arrested in the 03 days since the 
 [Data](articles/96e0557e.json)
 
 [Extended Data](ext_articles/96e0557e.ext.json)
-
----
-
-### Heavy rains in catchment areas
-
-*2024-03-22 16:27:42* · [`adalk`](https://www.ada.lk/breaking_news/ජල-පෝෂක-ප්‍රදේශවලට-තද-වැසි/11-408759) · `si`
-
-Heavy rains in Castlerero, Boydansa, Hatton, Dickoya, and Norwood areas, ending two-month dry spell, causing severe drinking water shortage.
-
-🟩
-
-Heavy rains demonstrated in the main catchment areas of the Castlerero (22) after the end of nearly two months.
-
-Similarly rain fell in Boydansa, Hatton, Dickoya and Norwood. There was a severe drinking water due to the heavy dry weather.
-
-◼️
-
-[Data](articles/a70897d8.json)
-
-[Extended Data](ext_articles/a70897d8.ext.json)
-
----
-
-### Red light to those on the temporary basis in Canada
-
-*2024-03-22 16:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194822) · `si`
-
-Canada temporarily limits immigration to address housing deficit and service shortages, aiming to reduce 20% of 2.5 million temporary residents by 2023. This includes international students, foreign workers, and refugees, in response to a significant increase in migrant numbers.
-
-🟩
-
-International media reports that Canada has decided to reduce the crowds living in their country on a temporary basis.
-
-Also, the government of Canada is temporarily restricted to limit the history of Canada for the first time in history.
-
-Investigation Minister Mark Miller, Canada, has said that the number of immigrants will be reduced in the three years and its first limitation is launched in September.
-
-They have decided that this decision is said to have a housing deficit and relieve the problems in providing essential services.
-
-It is reported that the increase in the population of some states, especially the crisis in health and education.
-
-By 2023, 2.5 million people were living on a temporary basis in Canada, and the authorities plan to reduce about 20% of them.
-
-He has said that these restrictions apply to international students and foreign workers as well as refugees.
-
-...
-
-[Data](articles/02e4f628.json)
-
-[Extended Data](ext_articles/02e4f628.ext.json)
-
----
-
-### Sri Lanka announces women’s cricket squad for South Africa tour
-
-*2024-03-22 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-announces-womens-cricket-squad-for-South-Africa-tour/108-279406) · `en`
-
-Mar. 22 (SLC) - The Cricket Selection Committee selected the following 17 member national women’s squad to tour South Africa.
-
-The Honorable Minister of Sports and Youth Affairs, Harin Fernando, approved the squad.
-
-The team will leave for South Africa on March 23 and play three T20Is and three ODIs with the South African Women’s National Team. The ODI series is part of the ICC Women’s Championship.
-
-◼️
-
-[Data](articles/53683214.json)
-
-[Extended Data](ext_articles/53683214.ext.json)
 
 ---

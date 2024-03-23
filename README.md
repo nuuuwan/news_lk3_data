@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 11:18:05**
+As of **2024-03-23 11:34:32**
 
 ## Newspaper Stats
 
-*Scraped **14,682** Articles*
+*Scraped **14,685** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ economynextcom | 782
 dailyftlk | 791
 islandlk | 805
 adalk | 1,258
-adaderanalk | 1,760
+adaderanalk | 1,761
 tamilmirrorlk | 1,766
 virakesarilk | 2,067
-dailymirrorlk | 2,262
-adaderanasinhalalk | 2,343
+dailymirrorlk | 2,263
+adaderanasinhalalk | 2,344
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,681 (100.0%) of 14,682 articles have been extended.
+14,682 (100.0%) of 14,685 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### රුසියාවට එල්ලවූ ත්‍රස්ත ප්‍රහාරය ගැන අමෙරිකාවෙන් හෙළිදරව්වක්
+
+*2024-03-23 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194840) · `si`
+
+මාර්තු මාසයේදී රුසියාවේ මොස්කව් හි ත්‍රස්ත ප්‍රහාරයක් සිදුවිය හැකි බවට රුසියානු බලධාරීන් වෙත අනතුරු ඇඟවීමක් සිදුකර තිබූ බව අමෙරිකාව පවසයි.
+
+මොස්කව් හි ඊයේ (22) සිදුවූ ත්‍රස්ත ප්‍රහාරයකින් පුද්ගලයින් 60 දෙනෙකු මියගොස් තවත් 100කට අධික පිරිසක් තුවාල ලැබීය.
+
+කෙසේවෙතත් මොස්කව් ජනතාව වැඩි වශයෙන් එක්රැස්  වන උත්සව හෝ සංදර්ශන ස්ථානයක් ඉලක්ක කර ගනිමින් ත්‍රස්ත ප්‍රහාරයක් එල්ල විය හැකි බවට මෙම මස මුලදී රුසියානු බලධාරීන් වෙත අනතුරු ඇඟවීමක් සිදුකළ බව ධවල මන්දිරය ප්‍රකාශ කර තිබේ.
+
+කෙසේවෙතත් එය අමෙරිකාව වෙනත් අරමුණකින් සිදුකරන ලද ප්‍රකාශයක් ලෙස පවසමින් රුසියාව ඒ පිළිබඳව තැකීමක් සිදුනොකළ බව විදෙස් වාර්තා පෙන්වා දෙයි.
+
+ත්‍රස්ත ප්‍රහාරයක අවදානම සම්බන්ධයෙන් අමෙරිකානු රජය රුසියාවේ රැඳීසිටින අමෙරිකානු ජාතිකයින්ට ද මීට පෙර අනතුරු ඇඟවීමක් සිදුකර තිබු බව ද සඳහන් ය.
+
+◼️
+
+[Data](articles/48b203de.json)
+
+---
+
+### At least 150 dangerous constructions identified in Colombo city
+
+*2024-03-23 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98145/at-least-150-dangerous-constructions-identified-in-colombo-city) · `en`
+
+Nearly 150 dangerous constructions have been identified in Colombo city thus far, says Colombo Municipal Commissioner Mrs. Bhadranie Jayawardhana.
+
+She mentioned that the relevant constructions have been documented while the owners were informed to remove them immediately.
+
+◼️
+
+[Data](articles/aa738191.json)
+
+---
+
+### UK aid to China drops by 90% since 2019 but transparency is falling - watchdog
+
+*2024-03-23 11:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/UK-aid-to-China-drops-by-90-since-2019-but-transparency-is-falling-watchdog/107-279461) · `en`
+
+(Daily Mail) - UK aid to China has fallen by 90% since 2019 – but transparency about how the money is spent is declining, a watchdog has warned.
+
+The Independent Commission for Aid Impact (ICAI) found that engagement with Beijing across all of Government dropped from £80 million at the start of this Parliament to an estimated £8.2 million in 2023-2024.
+
+However, there is only limited information in the public domain on how some aid funding, including the British Council’s to China, is being used, according to a report by the watchdog.
+
+Transparency has further reduced this year with the decision to stop routinely publishing official development assistance (ODA)-eligible administration costs on a country-by-country basis, the ICAI said.
+
+It follows a change in OECD guidelines on donor reporting of such costs, which now requires that donors do not assign them to a specific nation.
+
+...
+
+[Data](articles/3c166f14.json)
+
+---
 
 ### International dhamma programme tomorrow
 
@@ -43,6 +97,8 @@ The live webinar will be held between 6.30 p.m. and 8.00 p.m. tomorrow on "Livin
 ◼️
 
 [Data](articles/3042baf0.json)
+
+[Extended Data](ext_articles/3042baf0.ext.json)
 
 ---
 
@@ -2167,73 +2223,5 @@ Across the rest of the island, scattered showers or thundershowers are anticipat
 [Data](articles/816f00f3.json)
 
 [Extended Data](ext_articles/816f00f3.ext.json)
-
----
-
-### Heavy rainfall above 75mm expected across multiple provinces
-
-*2024-03-22 17:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-rainfall-above-75mm-expected-across-multiple-provinces/108-279407) · `en`
-
-Colombo, March 22 (Daily Mirror) - Residents across the Western, Sabaragamuwa, Central and North-Western Provinces are urged to brace for heavy showers above 75mm during next 36 hours.According to meteorological reports, these regions are likely to experience fairly heavy downpours.
-
-In addition to these areas, intermittent showers or thundershowers are predicted for Eastern and Uva provinces, as well as the Hambanthota district.
-
-Meanwhile, residents in North-central and Northern provinces should anticipate several spells of showers throughout the day.
-
-Across the rest of the island, scattered showers or thundershowers are anticipated during the afternoon or night, indicating a widespread weather pattern impacting various regions.
-
-...
-
-[Data](articles/a6f2a382.json)
-
-[Extended Data](ext_articles/a6f2a382.ext.json)
-
----
-
-### Lunar eclipse that comes after 100 years
-
-*2024-03-22 16:56:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-ஆண்டுகளுக்குப்-பிறகு-வரும்-சந்திர-கிரகணம்/175-335023) · `ta`
-
-The first lunar eclipse of 2024, coinciding with Panguni Uthram and Holi, marks a 100-year cycle since the last one in 1924. It's a significant event in Vedic astrology, occurring from 10.23 am to 03.02 pm. This eclipse, known as the Benumbi eclipse, lasts about 4 hours and benefits certain zodiacs.
-
-🟩
-
-The first lunar eclipse of 2024 will take place on March 25 in four days.
-
-Panguni Uthram is the day of this day, and the same day the Holi festival is celebrated. So this lunar eclipse occurs 100 years later.
-
-According to Vedic astrology, the eclipse of the lunar eclipse on the day of the Holi festival after 100 years is seen as a very important event.
-
-The eclipse will begin at 10.23 am and last till 03.02 pm. Earlier this lunar eclipse occurred in 1924. The first lunar eclipse of this year will be the Benumbi eclipse, which lasts about 4 hours.
-
-Holi and the lunar eclipse will occur overnight, and its benefits will be good for some zodiacs. Moreover, this lunar eclipse is going to occur in the month of Panguni.
-
-Usually the eclipse occurs when the sun, the moon and the earth come in the same line. As the earth comes between the sun and the moon, the lunar eclipse occurs when the sun's direct rays prevent the moon from glowing. Remble
-
-◼️
-
-[Data](articles/471a4eca.json)
-
-[Extended Data](ext_articles/471a4eca.ext.json)
-
----
-
-### 234 acres of land in Jaffna
-
-*2024-03-22 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179429) · `ta`
-
-President Ranil Wickremesinghe handed over 234 acres of land in Jaffna to farmers for cultivation, part of the Urumaya National Program issuing 2 million land guarantees, including 408 in Jaffna.
-
-🟩
-
-Yall. President Ranil Wickremesinghe has been handed over to the farmers for cultivation on Thursday (22).
-
-Under the Urumaya National Program to issue 2 million land guarantees, 408 land guarantees were held at the Jaffna camel, headed by President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/1443c80c.json)
-
-[Extended Data](ext_articles/1443c80c.ext.json)
 
 ---

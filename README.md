@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 10:03:04**
+As of **2024-03-23 10:17:39**
 
 ## Newspaper Stats
 
-*Scraped **14,674** Articles*
+*Scraped **14,676** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ economynextcom | 782
 dailyftlk | 791
 islandlk | 805
 adalk | 1,258
-adaderanalk | 1,758
+adaderanalk | 1,759
 tamilmirrorlk | 1,765
 virakesarilk | 2,065
 dailymirrorlk | 2,261
-adaderanasinhalalk | 2,341
+adaderanasinhalalk | 2,342
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,668 (100.0%) of 14,674 articles have been extended.
+14,674 (100.0%) of 14,676 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### ගෝලීය ජනගහනයෙන් බිලියන 2.2ක් දරුණු ජල හිඟයක
+
+*2024-03-23 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194838) · `si`
+
+ගෝලීය ජනගහනයෙන් බිලියන 2.2ක් දරුණු ජල හිඟයකට මුහුණ දී සිටින බව එක්සත් ජාතීන්ගේ නවතම වාර්තාවකින් අනාවරණ වී තිබේ.
+
+එක්සත් ජාතීන් අවධාරණය කරන්නේ ජල හිඟය ලොව පුරා ගැටුම් උත්සන්න වීමට ද හේතුවක් විය හැකි බවය.
+
+එමෙන්ම බිලියන 3.5ක පිරිසකට ආරක්ෂිත සනීපාරක්ෂණ පහසුකම් සපයා ගැනීමේ හැකියාව ද නොමැති බව වාර්තාවේ වැඩි දුරටත් දැක්වේ.
+
+බිලියන ගණනකට බලපා ඇති ජල හිඟයෙන් වැඩි බලපෑම් එල්ල වී ඇත්තේ, කාන්තාවන්ට සහ ළමයින් බව එක්සත් ජාතීන්ගේ වාර්තාවේ වැඩි දුරටත් දැක්වේ.
+
+වාර්තාවට අනුව ගෝලීය ජල හිඟයෙන් වැඩිම බලපෑමක් එල්ල වී ඇත්තේ අප්‍රිකානු කලාපීය රටවලට ය.
+
+ඒ අනුව අප්‍රිකානු රාජ්‍යයන් 22ක් අතුරින් 19ක් ජනතාව ජල හිඟයට මුහුණ දී සිටින බව වාර්තා වේ.
+
+ලොව රටවල් 153ක් ජල සම්පත් හවුලේ පරිභෝජනය කරන බව විදෙස් වාර්තා පවසයි.
+
+එනමුත් සහයෝගයෙන් ජල සම්පත් පරිභෝජනයට ගිවිසුම් ගත වි ඇත්තේ රටවල් 24ක් පමණී.
+
+ඒ අනුව, පවතින තත්ත්වය හමුවේ ලොව පුරා ගැටුම් තීව්‍ර විමේ අවදානමක් ද පවතින බව එක්සත් ජාතීන් අවධාරණය කරයි.
+
+◼️
+
+[Data](articles/3d76f7c9.json)
+
+---
+
+### Sri Lanka, India to hold Digital Public Infrastructure conference next week
+
+*2024-03-23 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98143/sri-lanka-india-to-hold-digital-public-infrastructure-conference-next-week) · `en`
+
+The High Commission of India in Colombo, in partnership with Sri Lanka’s Technology Ministry, is organizing a conference on Digital Public Infrastructure (DPI), to be held on 26 March.
+
+The conference will explore the transformative potential of DPI for enabling service delivery, empowering communities by fostering inclusivity and enriching the economy by driving innovation, according to a statement issued by the High Commission.
+
+It will commence with an opening plenary session, where the keynote address will be delivered by President Ranil Wickremesinghe. The opening plenary will be followed by two panel discussions.
+
+Accordingly, the first, ‘Accelerating Digital Sri Lanka’ will focus on how DPI simplifies governance and improves accessibility for the citizens. The second, ‘Unlocking the Digital Stack’ will discuss DPI’s use cases including in the startup domain, marrying technology, markets and governance.
+
+...
+
+[Data](articles/146e88b7.json)
+
+---
 
 ### Digital Public Infrastructure conference organized by Indian HC held next week
 
@@ -48,27 +94,41 @@ Accordingly, the first, ‘Accelerating Digital Sri Lanka’ will focus on how D
 
 [Data](articles/6d8ed719.json)
 
+[Extended Data](ext_articles/6d8ed719.ext.json)
+
 ---
 
-### පස්දෙනෙකුට දිවි අහිමි කළ මාරක අනතුරු
+### Five fatal accidents lost to five
 
 *2024-03-23 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194837) · `si`
 
-දිවයිනේ ප්‍රදේශ කිහිපයකදී සිදු වූ රිය අනතුරු හේතුවෙන් පුද්ගලයින් 5 දෙනෙකුට දිවි අහිමිවී තිබේ.
+Five fatal road accidents reported across the island, including a motorcycle crash in Morontuduwa, a lorry flip on Kurunegala road, and a car collision in Marawila.
 
-මෙරොන්තුඩුව, කිරින්ද, පුත්තලම, මාදම්පේ සහ අතුරුගිරිය යන ප්‍රදේශවලදී මෙම මාරක අනතුරු සිදුව ඇති බව පොලිස් මාධ්‍ය අංශය නිවේදනය කළේය.
+🟩
 
-ඊයේ (22) මොරොන්කුඩුව කළුතර - බණ්ඩාරගම මාර්ගයේ දැල්කඩ ප්‍රදේශයේ දී බණ්ඩාරගම දෙස සිට මොරොන්තුඩුව දෙසට ධාවනය වූ යතුරුපැදියක් පැදිකරුට පාලනය කර ගත නොහැකිවය මාර්ගයෙන් ඉවතට පැන ගසක ගැටී සිදුවූ අනතුරකින් තරුණයෙකු මියගොස් තිබේ.
+Five people have been deprived of their lives due to road accidents in several parts of the island.
 
-මේ අතර, තිස්සමහාරාමය කිරින්ද මාර්ගයේ විලමුල්ල හන්දිය අසලදී අතුරු මාර්ගයකින් පැමිනි යතුරුපැදියක් එකවැරම ප්‍රධාන මාර්ගයට පිවිසීමේදී පැදිකරුට වේගය පාලනය කර ගැනීමට නොහැකිව යතුරුපැදිය මාර්ග අසල පිහිටි තාප්පයක ගැටී අනතුරක් සිදුව ඇත.
+The police media unit announced that fatal accidents have been reported in Melor, Morrotgue, Kirinda, Puttalam, Madampe and Athurugiriya.
 
-එහිදී බරපතළ තුවාල ලැබු පැදිකරු මියගොස් ඇති අතර පසුපැදිකරු හම්බන්තොට රෝහලේ ප්‍රතිකාර ලබමින් සිටී.
+A youth was killed after a motorcycle who was unable to control the Morontuduwa road from the Bandaragama road yesterday (22).
 
-මේ අතර ඊයේ පුත්තලම කුරුණෑගල මාර්ගයේ ගල්කුලම ප්‍රදේශයේ දී කුරුණෑගල දෙස සිට පුත්තලම දෙසට ධාවනය වූ ලොරි රථයක් විරුද්ධ දිසාවෙන් පැමිණි යතුරුපැදියක ගැටී අනතුරුව එම ලොරි රථය පෙරළී ගොස් අනතුරක් සිදුව තිබේ.
+Meanwhile, a motorcycle opened by a by road at Villagedara Junction along the Village road on Wilindamuriya Junction on Wilindaram Road.
+
+The victim was dead and the victim is receiving treatment at Hambantota Hospital.
+
+Meanwhile, a lorry that a lorry was traveling from the Galkulama road on Kurunegala road was hit by a motorcycle and flip the lorry.
+
+The motorcyclist and a child and a small child were injured and a small child were injured in admission to the Puttalam Hospital.
+
+The victim was a 47 year old resident of Anamaduwa.
+
+The driver of the lorry is also receiving treatment at the Puttalam Hospital.
 
 ...
 
 [Data](articles/e245d617.json)
+
+[Extended Data](ext_articles/e245d617.ext.json)
 
 ---
 
@@ -125,6 +185,8 @@ Many members at the meeting blamed the Union government for not effectively hand
 ...
 
 [Data](articles/7b7567c6.json)
+
+[Extended Data](ext_articles/7b7567c6.ext.json)
 
 ---
 
@@ -190,6 +252,8 @@ Verified video showed people taking their seats in the hall, then rushing for th
 
 [Data](articles/6d12f009.json)
 
+[Extended Data](ext_articles/6d12f009.ext.json)
+
 ---
 
 ### Sri Lanka vigilant on Canada’s genocide allegation while having double-standard on Gaza
@@ -205,6 +269,8 @@ Last year, Sri Lanka “condemned and rejected outright” the remarks made by t
 ...
 
 [Data](articles/5cd395a5.json)
+
+[Extended Data](ext_articles/5cd395a5.ext.json)
 
 ---
 
@@ -787,6 +853,8 @@ The chemotherapy treatment began in late February. The palace says it will not b
 ...
 
 [Data](articles/1c5ae461.json)
+
+[Extended Data](ext_articles/1c5ae461.ext.json)
 
 ---
 
@@ -2169,59 +2237,5 @@ The team will leave for South Africa on March 23 and play three T20Is and three 
 [Data](articles/53683214.json)
 
 [Extended Data](ext_articles/53683214.ext.json)
-
----
-
-### Minister Douglas pledged food avoidance struggle to abandon!
-
-*2024-03-22 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179438) · `ta`
-
-Minister Douglas Devananda pledged to end the food avoidance struggle and stop Indian fishermen, visiting the protest on the fourth day. He discussed with Tamil Nadu and Pondicherry Chief Ministers on controlling Indian fishermen. Pondicherry's Chief Minister pledged to prevent fishermen from crossing the border, while Tamil Nadu's Chief Minister is ready to send a letter to the Election Commission. Devananda defended the arrest of Indian fishermen crossing the border, stating it's why India views him as an enemy. He promised to support the fishermen if India shows favorable signals.
-
-🟩
-
-The four -day food skipper, demanding the stopping of Indian fishermen, was abandoned by Minister Douglas Devananda's pledge.
-
-Fishermen from the Jaffna district started a four -warfed protest campaign near the Indian Embassy in Jaffna last Tuesday.
-
-Minister Douglas Devananda, who visited the fourth day of the protest today, spoke to the Chief Minister of Tamil Nadu and Pondicherry on the control of the Indian transgressors.
-
-The Chief Minister of Pondicherry has made a written pledge to prevent fishermen crossing the border.
-
-The Chief Minister of Tamil Nadu has said that he is ready to send a letter and sends a letter to the Election Commission with the election.
-
-Indian parties have called on the fisherman's problem. I have told them.
-
-What my position said was that the Indian fishermen crossing the border were arrested and put before the law.
-
-This is why India sees me as an enemy.
-
-Therefore, when the Indian side showed favorable signals, I will stand up for the fishermen's side, ”he added.
-
-...
-
-[Data](articles/a618747c.json)
-
-[Extended Data](ext_articles/a618747c.ext.json)
-
----
-
-### I really know who did the Passover attack ...- Maithri
-
-*2024-03-22 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194821) · `si`
-
-Maithripala Sirisena claims to know who orchestrated the Passover attack, offering to reveal information if ordered by the judiciary. He criticizes the handling of the 19th Amendment and the Passover attack, blaming both government and opposition.
-
-🟩
-
-Former Presidentials MP Maithripala Sirisena says he is ready to reveal information about the Passover attack and all those responsible for the Passover attack and all those responsible if they are ordered.
-
-He was the chief guest at the opening of the new mansion of the historical temple of the King of the Asgiriya Maha Vihara.
-
-...
-
-[Data](articles/12bce114.json)
-
-[Extended Data](ext_articles/12bce114.ext.json)
 
 ---

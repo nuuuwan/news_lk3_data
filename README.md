@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 18:09:12**
+As of **2024-03-23 18:20:32**
 
 ## Newspaper Stats
 
-*Scraped **14,742** Articles*
+*Scraped **14,744** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 792
 economynextcom | 794
 islandlk | 805
 adalk | 1,262
-adaderanalk | 1,770
 tamilmirrorlk | 1,770
+adaderanalk | 1,772
 virakesarilk | 2,074
 dailymirrorlk | 2,270
 adaderanasinhalalk | 2,356
@@ -26,11 +26,45 @@ adaderanasinhalalk | 2,356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,742 (100.0%) of 14,742 articles have been extended.
+14,742 (100.0%) of 14,744 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
+
+### Draft Bill to reduce age of sexual consent to 14 years to be withdrawn
+
+*2024-03-23 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98155/draft-bill-to-reduce-age-of-sexual-consent-to-14-years-to-be-withdrawn) · `en`
+
+The Bill gazetted on 09 February 2024 by the government in order to amend Chapter 19 of the Penal Code regarding the age of a girl to have sexual relations of her own interest, will be withdrawn, says Minister of Justice, Prison Affairs and Constitutional Reform Wijeyadasa Rajapakshe.
+
+According to the amendments made to the Penal Code in 1995, even if a victim under 16 years of age has sexual relations of their own free will, it is considered rape. However, the proposed amendment to the Penal Code by the Justice Minister sought to lower the age of sexual consent to 14 years.
+
+Nevertheless, speaking to the media following an event held in Colombo today (23), Rajapakshe stated that he has informed the Attorney General that the draft would not be proceeded with and that it would be withdrawn from the Parliament.
+
+“Several individuals have approached me requesting the suspension of the passing of this Bill. I have conveyed to them that further discussions must ensue”, the Minister said.
+
+...
+
+[Data](articles/f15cdba3.json)
+
+---
+
+### Integrating modern technology, including AI, crucial for health sector advancement: President
+
+*2024-03-23 17:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98154/integrating-modern-technology-including-ai-crucial-for-health-sector-advancement-president) · `en`
+
+President Ranil Wickremesinghe, raising concerns about the brain drain of medical professionals, said that approximately 30 - 40 out of every 100 doctors or nurses trained in the country opt to leave, a circumstance which he deemed unfavourable for the nation.
+
+Speaking about this concerning trend in the healthcare sector of Sri Lanka, the Head of State stressed that it is incumbent upon all individuals to enhance healthcare services within the nation, which boasts some of the world’s highest standards in medical care, and to actively contribute to the country’s economic prosperity.
+
+Wickremesinghe made these remarks while attending the inauguration ceremony of the accident and emergency care unit of Point Pedro Base Hospital. This facility was constructed as part of the Government of the Netherlands’ Development Related Infrastructure Investment Vehicle (DRIVE), relief loan scheme and officially vested in the public on Friday (March 22).
+
+...
+
+[Data](articles/87e3fce9.json)
+
+---
 
 ### Sri Lanka scored 211 runs
 
@@ -2289,41 +2323,5 @@ The irony of it all is that the Department of Meteorology warned us of the impen
 [Data](articles/72a8e0be.json)
 
 [Extended Data](ext_articles/72a8e0be.ext.json)
-
----
-
-### 2024-03-22 (Friday)
-
-### EU Report: Diversity, equity and inclusion crucial for Sri Lanka’s socio-economic development
-
-*2024-03-22 23:38:47* · [`dailyftlk`](https://www.ft.lk/news/EU-Report-Diversity-equity-and-inclusion-crucial-for-Sri-Lanka-s-socio-economic-development/56-759839) · `en`
-
-Sri Lankan businesses must look beyond the surface to design Diversity, Equity and Inclusion (DEI) strategies that consider broader complexities, if they are to achieve tangible and transformative business results and greater social harmony, says a new landmark report that provides recommendations for businesses to harness the potential of DEI.
-
-...
-
-[Data](articles/72636e46.json)
-
-[Extended Data](ext_articles/72636e46.ext.json)
-
----
-
-### UNDP and the European Union unveil mobile interactive exhibition of women’s empowerment initiatives in Galle
-
-*2024-03-22 23:36:51* · [`dailyftlk`](https://www.ft.lk/news/UNDP-and-the-European-Union-unveil-mobile-interactive-exhibition-of-women-s-empowerment-initiatives-in-Galle/56-759838) · `en`
-
-EU Ambassador to Sri Lanka Carmen Moreno (left) and United Nations Development Program (UNDP) in Sri Lanka Resident Representative Azusa Kubota
-
-Showcasing stories of Sri Lankan women driving change in building gender-equal society
-
-EU Ambassador to Sri Lanka Carmen Moreno and United Nations Development Program (UNDP) in Sri Lanka Resident Representative Azusa Kubota earlier this week inaugurated UNDP’s mobile interactive exhibition, ‘A Journey of Transformation and Women’s Empowerment,’ in Galle. The exhibition at the Galle Municipal Hall, concluded on Thursday.
-
-The exhibition, the 5th stop in Galle, stems from an initiative sparked during last year’s 16 Days of Activism campaign. It was graced by local government and civil society representatives working in the area through a social dialogue.
-
-...
-
-[Data](articles/a2732d47.json)
-
-[Extended Data](ext_articles/a2732d47.ext.json)
 
 ---

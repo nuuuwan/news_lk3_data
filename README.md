@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-23 11:34:32**
+As of **2024-03-23 11:53:29**
 
 ## Newspaper Stats
 
-*Scraped **14,685** Articles*
+*Scraped **14,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 782
 dailyftlk | 791
 islandlk | 805
 adalk | 1,258
-adaderanalk | 1,761
-tamilmirrorlk | 1,766
-virakesarilk | 2,067
+adaderanalk | 1,762
+tamilmirrorlk | 1,767
+virakesarilk | 2,068
 dailymirrorlk | 2,263
 adaderanasinhalalk | 2,344
 
@@ -26,29 +26,67 @@ adaderanasinhalalk | 2,344
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,682 (100.0%) of 14,685 articles have been extended.
+14,685 (100.0%) of 14,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-23 (Saturday)
 
-### රුසියාවට එල්ලවූ ත්‍රස්ත ප්‍රහාරය ගැන අමෙරිකාවෙන් හෙළිදරව්වක්
+### Ensure release of Indian fishermen detained by Sri Lanka: TN Chief Minister to Jaishankar
+
+*2024-03-23 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98146/ensure-release-of-indian-fishermen-detained-by-sri-lanka-tn-chief-minister-to-jaishankar) · `en`
+
+Tamil Nadu Chief Minister MK Stalin on Friday wrote to India’s External Affairs Minister Dr. S. Jaishankar, urging him to secure the immediate release of all detained fishermen and their fishing boats in Sri Lanka and ensure necessary legal assistance for them.
+
+In a letter to Jaishankar, Stalin said there were multiple occurrences of fishermen from India being detained by Sri Lankan authorities, which caused distress and uncertainty among their families.
+
+He said 32 fishermen from Tamil Nadu were caught by the Sri Lankan Navy on March 21 and their five mechanised boats were seized.
+
+“Decisive action must be taken without any further delay to address this festering issue and to ensure the safety and well-being of the affected fishermen. Further legal assistance needs to be provided for the fishermen who have been sentenced by Sri Lankan courts,” he said.
+
+...
+
+[Data](articles/0d5f5ba3.json)
+
+---
+
+### இலங்கை கடற்படையை கண்டித்து ராமேஸ்வரம் மீனவர்கள் காலவரையற்ற வேலைநிறுத்தப் போராட்டம்
+
+*2024-03-23 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179491) · `ta`
+
+இலங்கை சிறையில் உள்ள மீனவர்களை விடுவிக்கக்கோரியும் படகுகளை மீட்கக் கோரியும் வேலைநிறுத்தம் நடைபெற்று வருகிறது.
+
+மீனவர்களையும் படகுகளையும் விடுவிக்காதபட்சத்தில் ஏப்ரல்-8ல் வாக்காளர் அட்டை, ஆதார் அட்டைகளை ஒப்படைத்து போராட்டம் நடத்த திட்டமிட்டுள்ளனர். ஒன்றிய அரசு விரைந்து நடவடிக்கை எடுக்காவிடில் தேர்தலை புறக்கணிக்கப் போவதாகவும் மீனவர்கள் எச்சரிக்கை விடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/4c391f80.json)
+
+---
+
+### US reveals anti-LTTE attack on Russia
 
 *2024-03-23 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194840) · `si`
 
-මාර්තු මාසයේදී රුසියාවේ මොස්කව් හි ත්‍රස්ත ප්‍රහාරයක් සිදුවිය හැකි බවට රුසියානු බලධාරීන් වෙත අනතුරු ඇඟවීමක් සිදුකර තිබූ බව අමෙරිකාව පවසයි.
+US warns of potential terrorist attack on Moscow, following a similar warning from Russia. A terrorist attack in Moscow resulted in 60 deaths and injuries. The White House advises caution for festivals or public displays in Moscow.
 
-මොස්කව් හි ඊයේ (22) සිදුවූ ත්‍රස්ත ප්‍රහාරයකින් පුද්ගලයින් 60 දෙනෙකු මියගොස් තවත් 100කට අධික පිරිසක් තුවාල ලැබීය.
+🟩
 
-කෙසේවෙතත් මොස්කව් ජනතාව වැඩි වශයෙන් එක්රැස්  වන උත්සව හෝ සංදර්ශන ස්ථානයක් ඉලක්ක කර ගනිමින් ත්‍රස්ත ප්‍රහාරයක් එල්ල විය හැකි බවට මෙම මස මුලදී රුසියානු බලධාරීන් වෙත අනතුරු ඇඟවීමක් සිදුකළ බව ධවල මන්දිරය ප්‍රකාශ කර තිබේ.
+The Russian authorities have warned that there could be a terrorist attack on Moscow in March in March, the US had a terrorist attack.
 
-කෙසේවෙතත් එය අමෙරිකාව වෙනත් අරමුණකින් සිදුකරන ලද ප්‍රකාශයක් ලෙස පවසමින් රුසියාව ඒ පිළිබඳව තැකීමක් සිදුනොකළ බව විදෙස් වාර්තා පෙන්වා දෙයි.
+In a terrorist attack on Moscow yesterday, 60 people were killed and more injured were injured.
 
-ත්‍රස්ත ප්‍රහාරයක අවදානම සම්බන්ධයෙන් අමෙරිකානු රජය රුසියාවේ රැඳීසිටින අමෙරිකානු ජාතිකයින්ට ද මීට පෙර අනතුරු ඇඟවීමක් සිදුකර තිබු බව ද සඳහන් ය.
+However, the White House has warned that the people of Moscow could have a terrorist attack targeting the festivals or display of the people.
+
+However, it did not care about the US as a statement made by US as a statement made by Russia.
+
+The US government has previously warned the US government to stay in Russia regarding the risk of a terrorist attack.
 
 ◼️
 
 [Data](articles/48b203de.json)
+
+[Extended Data](ext_articles/48b203de.ext.json)
 
 ---
 
@@ -63,6 +101,22 @@ She mentioned that the relevant constructions have been documented while the own
 ◼️
 
 [Data](articles/aa738191.json)
+
+[Extended Data](ext_articles/aa738191.ext.json)
+
+---
+
+### கொழும்பில் 100க்கும் மேற்பட்ட அபாயகரமான கட்டடங்கள்
+
+*2024-03-23 11:11:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-100க்கும்-மேற்பட்ட-அபாயகரமான-கட்டடங்கள்/175-335047) · `ta`
+
+கொழும்பில் சுமார் 150 அபாயகரமான கட்டடங்கள் அடையாளம் காணப்பட்டுள்ளதாக கொழும்பு மாநகர ஆணையாளர் பத்ராணி ஜயவர்தன தெரிவித்துள்ளார்.
+
+மேலும், பல குடியிருப்பு தொகுதிகளும், அபாயகரமான நிலையில் உள்ளதாக முன்னர் செய்திகள் வெளியாகி இருந்தமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/67d6a38b.json)
 
 ---
 
@@ -83,6 +137,8 @@ It follows a change in OECD guidelines on donor reporting of such costs, which n
 ...
 
 [Data](articles/3c166f14.json)
+
+[Extended Data](ext_articles/3c166f14.ext.json)
 
 ---
 
@@ -2151,77 +2207,5 @@ The hurdles were present at the area and they were chased into the arrest of fou
 [Data](articles/d601f45f.json)
 
 [Extended Data](ext_articles/d601f45f.ext.json)
-
----
-
-### Resurrection Sundays - Maithri says the truth is ready
-
-*2024-03-22 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/179446) · `ta`
-
-Maithripala Sirisena claims knowledge of the lifeblood's masterminds, ready to reveal if court orders. No details released yet, emphasizing judges' confidentiality.
-
-🟩
-
-Former President Maithripala Sirisena has said that he knows the details of those who carried out the lifeblood.
-
-The former president said he was ready to release the truth if the court ordered other requests.
-
-No one has released the details of the real masterminds of the lifeblood of the lifeblood, ”he said.
-
-However, he said the judges should be tightened by the confidentiality of these issues.
-
-◼️
-
-[Data](articles/16e5a852.json)
-
-[Extended Data](ext_articles/16e5a852.ext.json)
-
----
-
-### To benefit first day
-
-*2024-03-22 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194823) · `si`
-
-Sri Lanka won the first Test match against Bangladesh, scoring 280 runs with Dhananjaya de Silva and Kamindu Mendis contributing 102 runs each. Bangladesh scored 32 runs.
-
-🟩
-
-Sri Lanka won the first day of the first Test match between Sri Lanka and Bangladesh.
-
-The host Bangladesh was able to win the coin of the match in Selete.
-
-Accordingly, they invited the Sri Lankan team to bat first.
-
-Sri Lanka scored 280 runs for their first innings.
-
-Leader Dhananjaya de Silva and Kamindu Mendis scored 102 runs for Sri Lanka.
-
-Bangladesh team scored 32 runs for the loss of 3 wickets for their first innings.
-
-◼️
-
-[Data](articles/18c53165.json)
-
-[Extended Data](ext_articles/18c53165.ext.json)
-
----
-
-### Rainfall above 75mm on the cards as heatwave begins to loosen
-
-*2024-03-22 17:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rainfall-above-75mm-on-the-cards-as-heatwave-begins-to-loosen/108-279407) · `en`
-
-Colombo, March 22 (Daily Mirror) - Residents across the Western, Sabaragamuwa, Central and North-Western Provinces are urged to brace for heavy showers above 75mm during next 36 hours.According to meteorological reports, these regions are likely to experience fairly heavy downpours.
-
-In addition to these areas, intermittent showers or thundershowers are predicted for Eastern and Uva provinces, as well as the Hambanthota district.
-
-Meanwhile, residents in North-central and Northern provinces should anticipate several spells of showers throughout the day.
-
-Across the rest of the island, scattered showers or thundershowers are anticipated during the afternoon or night, indicating a widespread weather pattern impacting various regions.
-
-...
-
-[Data](articles/816f00f3.json)
-
-[Extended Data](ext_articles/816f00f3.ext.json)
 
 ---

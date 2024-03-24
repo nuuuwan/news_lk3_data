@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 12:33:38**
+As of **2024-03-24 12:49:20**
 
 ## Newspaper Stats
 
-*Scraped **14,825** Articles*
+*Scraped **14,826** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 792
 economynextcom | 798
 islandlk | 820
 adalk | 1,264
-tamilmirrorlk | 1,785
+tamilmirrorlk | 1,786
 adaderanalk | 1,787
 virakesarilk | 2,077
 dailymirrorlk | 2,278
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,373
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,823 (100.0%) of 14,825 articles have been extended.
+14,825 (100.0%) of 14,826 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### மைத்திரியிடம் சி.ஐ.டி வாக்குமூலம்
+
+*2024-03-24 12:27:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியிடம்-சி-ஐ-டி-வாக்குமூலம்/175-335092) · `ta`
+
+உயிர்த்த ஞாயிறுத்தாக்குதல் தொடர்பில்,  முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்த கருத்து தொடர்பில்,   குற்றப் புலனாய்வுப் பிரிவினர் அவரிடம் இன்று (24) வாக்குமூலம் பெற்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+கண்டியில் கடந்த (22)  இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போது,  , ஈஸ்டர் ஞாயிறு தாக்குதலில் ஈடுபட்டவர்கள் தொடர்பிலான உண்மை தனக்கு தெரியும் என தெரிவித்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/854799bd.json)
+
+---
 
 ### Two arrested with heroin drug
 
@@ -201,6 +215,8 @@ Former President Maithripala Sirisena on Friday disclosed that he is well aware 
 ◼️
 
 [Data](articles/6025bab4.json)
+
+[Extended Data](ext_articles/6025bab4.ext.json)
 
 ---
 
@@ -745,6 +761,8 @@ Trump can be notoriously and dangerously inconsistent. (Someone quipped that the
 ...
 
 [Data](articles/33ab2768.json)
+
+[Extended Data](ext_articles/33ab2768.ext.json)
 
 ---
 
@@ -2203,27 +2221,5 @@ The late Sobhitha Thero was an iconic Buddhist monk in the island nation’s goo
 [Data](articles/51981ec5.json)
 
 [Extended Data](ext_articles/51981ec5.ext.json)
-
----
-
-### Heavy showers tomorrow
-
-*2024-03-23 14:40:20* · [`adalk`](https://www.ada.lk/breaking_news/දිස්ත්‍රික්ක-හතරකට-හෙට-තද-වැසි/11-408766) · `si`
-
-Tomorrow, heavy showers will hit the Eastern and Uva provinces, with thundershowers in Kandy, Sabaraguwa, South, North, and Northwestern provinces. Over 75 millimeters of rain may fall in Ratnapura, Kalutara, Galle & Matara districts.
-
-🟩
-
-The Department of Meteorology says that several showers will occur in the Eastern and Uva provinces tomorrow.
-
-Thundershowers will develop at several places in the Kandy district, Sabaraguwa, South and North and Northwestern provinces.
-
-Also, some places over 75 millisely rains at some places in Ratnapura, Kalutara, Galle & Matara and Matara districts.
-
-◼️
-
-[Data](articles/d2679025.json)
-
-[Extended Data](ext_articles/d2679025.ext.json)
 
 ---

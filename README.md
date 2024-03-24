@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 06:58:05**
+As of **2024-03-24 07:19:23**
 
 ## Newspaper Stats
 
-*Scraped **14,772** Articles*
+*Scraped **14,773** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,61 @@ tamilmirrorlk | 1,775
 adaderanalk | 1,780
 virakesarilk | 2,074
 dailymirrorlk | 2,275
-adaderanasinhalalk | 2,365
+adaderanasinhalalk | 2,366
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,771 (100.0%) of 14,772 articles have been extended.
+14,772 (100.0%) of 14,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවූ වැසි
+### මැදින් පුර පසළොස්වක පොහොය අදයි
+
+*2024-03-24 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194864) · `si`
+
+සම්බුද්ධ ශාසනය තුළ වැදගත් සිදුවීම් රැසක් සිදුවූ දිනයක් ලෙස මැදින් පොහොය දිනය සැලකේ.
+
+බුදුරජාණන් වහන්සේ ඥාතී සංග්‍රහය පිණිස සිය ජන්ම භූමිය වු කිඹුල්වත්පුරයට වැඩම කරවීම ආරම්භ කරනු ලැබුවේ අද (24) වැනි මැදින් පුර පසළොස්වක පොහෝ දිනකය.
+
+බුදුරජාණන් වහන්සේ කිඹුල්වත්පුරයට වැඩම කරවීමෙන් අනතුරුව යමාමහ පෙළහර පෑම, ශුද්ධෝදන රජුට වෙස්සන්තර ජාතකය දේශනා කිරිම, රාහුල කුමරු මහණ කරවීම සහ මහා ප්‍රජාපතී ගෝතමී දේවිය සෝවාන් ඵලයට පත්වීම ද අද වැනි පොහෝ දිනක සිදුවු බව බෞද්ධ ඉතිහාසයේ සඳහන් වේ.
+
+අදට යෙදී තිබෙන මැදින් පුර පසළොස්වක පොහොය දිනය වෙනුවෙන් දිවයින පුරා සෑම විහාරස්ථානයකම ආමිස සහ ප්‍රතිපත්ති පූජා රැසක් සංවිධානය කර තිබේ.
+
+මේ අතර මැදින් පුර පසළොස්වක පොහෝ දිනය නිමිත්තෙන් එෆ්.එම් දෙරණ අසපුව 112 වෙනි පෝදා වැඩසටහන දෙකටන රජහේන ගුණසිරි සදහම් නිකේතනයේ දී පැවැත්වේ.
+
+◼️
+
+[Data](articles/131de0ed.json)
+
+---
+
+### Showers over 75mm
 
 *2024-03-24 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194863) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වල අද (24) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy showers and thundershowers expected in East, Uva, Western, Sabaragamuwa, Southern, Central provinces. High winds and lightning risks.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, දකුණු, මධ්‍යම  සහ වයඹ පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-රත්නපුර, කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල ඇතැම් ස්ථානවලට මි. මී. 75ට වැඩි තරමක තද වැසි ඇතිවේ.
+Several times will occur in the East and Uva provinces today (24).
 
-මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+Thundershowers will develop at several places in the Western, Sabaragamuwa, Southern, Southern, Central, Central and Central provinces.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Some places in Ratnapura, Kalutara, Galle and Matara districts. Mee. Heavy rains experience more than 75.
+
+In some places, in some places in the Central, Sabaragamuwa and Uva provinces, are expected in the Galle and Matara districts.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/c572464f.json)
+
+[Extended Data](ext_articles/c572464f.ext.json)
 
 ---
 
@@ -2301,25 +2327,5 @@ She had revealed this by issuing a special video message.
 [Data](articles/16a919a3.json)
 
 [Extended Data](ext_articles/16a919a3.ext.json)
-
----
-
-### Sri Lanka’s ex-President Sirisena draws spotlight saying he can reveal Ester bomb plotters
-
-*2024-03-23 07:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-ex-president-sirisena-draws-spotlight-saying-he-can-reveal-ester-bomb-plotters-155803/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s former president Maithripala Sirisena has drawn public attention after his comments to media that he knows the real plotters behind Easter Sunday attack that killed at least 269 people in 2019.
-
-Sirisena, who was asked by the country’s Supreme Court to pay 100 million Sri Lanka rupees for the Easter attack victims for his failure to prevent the carnage, is a legislator now and leading center-left Sri Lanka Freedom Party (SLFP).
-
-Islamist suicide bombers targeted Catholics and foreigners in six simultaneous blasts on April 21, 2019, when Catholic people celebrated the Easter Sunday.
-
-“We know from where the easter attack originated. So far nobody has told the real people behind the Easter Sunday attack. But I know who did that,” Sirisena told reporters after an event in the island nation’s central sacred city of Kandy.
-
-...
-
-[Data](articles/35fcf394.json)
-
-[Extended Data](ext_articles/35fcf394.ext.json)
 
 ---

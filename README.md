@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 00:33:18**
+As of **2024-03-25 00:48:46**
 
 ## Newspaper Stats
 
@@ -26,31 +26,43 @@ adaderanasinhalalk | 2,393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,893 (100.0%) of 14,894 articles have been extended.
+14,894 (100.0%) of 14,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### ஐந்து தடவைகள் ஐபிஎல் சம்பியனான மும்பையை 6 ஓட்டங்களால் வீழ்த்தியது குஜராத்
+### Gujarat beat Mumbai by 6 runs five times
 
 *2024-03-25 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179608) · `ta`
 
-அஹமதாபாத் நரேந்த்ர மோடி விளையாட்டரங்கில் இன்று ஞாயிற்றுக்கிழமை (24) நடைபெற்ற மிகவும் பரபரப்பான இண்டியன் பிறீமியர் லீக் கிரிக்கெட் போட்டியில் 5 தடவைகள் சம்பியனான மும்பை இண்டியன்ஸை குஜராத் டைட்டன்ஸ் 6 ஓட்டங்ளால் வெற்ற்றிகொண்டது.
+Gujarat Titans beat Mumbai Indians 5 times in IPL, with Gujarat scoring 168/6. Key performers for Gujarat included Sai Sudarshan, Azmatullah Omerzai, and Shubman Kill. Mumbai lost 9 wickets for 142 runs, with Rohit Sharma and Divold Brevis shining.
 
-மும்பையின் வெற்றிக்கு கடைசி 2 ஓவர்களில் 5 விக்கெட்கள் மீதம் இருக்க 27 ஓட்டங்கள் தேவைப்பட்டது.
+🟩
 
-ஆனால், 19ஆவது ஓவரில் ஸ்பென்சர் ஜோன்சன் 8 ஓட்டங்களை மாத்திரம் கொடுத்து 2 விக்கெட்களைக் கைப்பற்றினார்.
+Gujarat Titans won the Mumbai Indians 5 times in the most exciting Indian Premier League cricket match at Narendra Modi Stadium on Sunday (24).
 
-அடுத்த ஓவரில் 12 ஓட்டங்களைக் கொடுத்த  உமேஷ்  யாதவ், அதிரடி வீரர் அணித் தலைவர் ஹார்திக் பாண்டியாவின் விக்கெட் உட்பட 2 விக்கெட்களை வீழ்த்த குஜராத் டைட்டன்ஸ் அபார வெற்றியீட்டியது.
+Mumbai's victory needed 27 runs to remain 5 wickets in the last 2 overs.
 
-இப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட குஜராத் டைட்டன்ஸ் 20 ஓவர்களில் 6 விக்கெட்களை இழந்து 168 ஓட்டங்களைப் பெற்றது.
+But in the 19th over, Spencer Johnson scored only 8 runs and took 2 wickets.
 
-17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தில் இதுவரை நடைபெற்ற 5 போட்டிகளில் முதலில் துடுப்பெடுத்தாடிய அணி பெற்ற மிகக் குறைந்த மொத்த எண்ணிக்கை இதுவாகும்.
+Umesh Yadav, who scored 12 runs in the next over, won 2 wickets, including the wicket of Action player Hardik Pandya.
+
+Gujarat Titans, who were first invited to bat in the match, scored 168 runs for the loss of six wickets in 20 overs.
+
+This is the lowest total of the team that first won the five -match chapter in the 17th Indian Premier League Chapter.
+
+On behalf of the Gujarat Titans, 6 players scored double digit numbers, but only the trio scored more than 20 runs.
+
+Sai Sudarshan and Azmatullah Omerzai were the best in the Gujarat innings in the 3rd wicket.
+
+Shubman Kill scored 31 runs, Rahul Thevatia 22, Ritiman Saha 19 and Azmatullah Omarzai 17 runs.
 
 ...
 
 [Data](articles/952b9d5a.json)
+
+[Extended Data](ext_articles/952b9d5a.ext.json)
 
 ---
 

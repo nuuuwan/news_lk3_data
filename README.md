@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 21:52:06**
+As of **2024-03-24 22:03:07**
 
 ## Newspaper Stats
 
-*Scraped **14,886** Articles*
+*Scraped **14,889** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 820
 adalk | 1,267
 tamilmirrorlk | 1,792
 adaderanalk | 1,796
-virakesarilk | 2,084
+virakesarilk | 2,087
 dailymirrorlk | 2,293
 adaderanasinhalalk | 2,391
 
@@ -26,11 +26,53 @@ adaderanasinhalalk | 2,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,885 (100.0%) of 14,886 articles have been extended.
+14,886 (100.0%) of 14,889 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### தனஞ்சய, கமிந்து 2 இன்னிங்ஸ்களிலும் சதங்கள் குவித்து சாதனை; வெற்றியின் விளிம்பில் இலங்கை
+
+*2024-03-24 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179606) · `ta`
+
+பங்களாதேஷுக்கு எதிராக சில்ஹெட் சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் நடைபெற்றுவரும் முதலாவது ஐசிசி டெஸ்ட் சம்பியன்ஷிப் கிரிக்கெட் போட்டியில் 2 இன்னிங்ஸ்களிலும் அணித் தலைவர் தனஞ்சய டி சில்வாவும் கமிந்து மெண்டிஸும் சதங்கள் குவித்து சாதனை படைக்க, இலங்கை வெற்றியை அண்மித்துள்ளது.
+
+அதேவேளை, பந்துவீச்சில் விஷ்வா பெர்னாண்டோ, லஹிரு குமார, கசுன் ராஜித்த ஆகியோர் தங்களாலான அதிசிறந்த பங்களிப்பை வழங்கி பங்காதேஷை திணறச் செய்துள்ளனர்.
+
+தனஞ்சய  டி சில்வா, கமிந்து மெண்டிஸ் ஆகிய இருவரும் 2 இன்னிங்ஸ்களிலும் சதங்கள் குவித்ததன் பலனாக பங்களாதேஷின் வெற்றி இலக்கு மிகவும் கடினமான 511 ஓட்டங்களாக நிர்ணயிக்கப்பட்டது.
+
+இந்த வெற்றி இலக்கை நோக்கி மூன்றாம் நாள் கடைசி ஆட்டநேர பகுதியில் இரண்டாவது இன்னிங்ஸை ஆரம்பித்த பங்களாதேஷ் ஆட்ட நேர முடிவில் 5 விக்கெட்களை இழந்து 47 ஓட்டங்களைப் பெற்று படுதோல்வியை எதிர்கொண்டுள்ளது.
+
+விஷ்வா பெர்னாண்டோ 13 ஓட்டங்களுக்கு 3 விக்கெட்களையும் கசுன் ராஜித்த, லஹிரு குமார ஆகியோர் தலா ஒரு விக்கெட்டையும் கைப்பற்றியுள்ளனர்.
+
+...
+
+[Data](articles/8da520f3.json)
+
+---
+
+### சஞ்சு செம்சனின் அபார துடுப்பாட்டத்தால் ராஜஸ்தான் வெற்றி
+
+*2024-03-24 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/179607) · `ta`
+
+லக்னோவ் சுப்பர் ஜயன்ட்ஸ் அணிக்கு எதிராக ஜய்பூர், சவாய் மான்சிங் விளையாட்டரங்கில் இன்று ஞாயிற்றுக்கிழமை (24) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 3ஆவது போட்டியில் அணித் தலைவர் சஞ்சு செம்சன் குவித்த அபார அரைச் சதத்தின் உதவியுடன் ராஜஸ்தான் றோயல்ஸ் 20 ஓட்டங்களால் வெற்றிபெற்றது.
+
+இப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய ராஜஸ்தான் றோயல்ஸ் 20 ஓவர்களில் 4 விக்கெட்களை மாத்திரம் இழந்து 194 ஓட்டங்களைக் குவித்தது.
+
+சஞ்ச செம்சன், ரியான் பரக் ஆகிய இருவரும் 3ஆவது விக்கெட்டில் பகிர்ந்த 93 ஓட்டங்கள் ராஜஸ்தான் றோயல்ஸின் மொத்த எண்ணிக்கைக்கு பலம் சேர்த்தது.
+
+சஞ்சு செம்சன் 52 பந்துகளில் 6 சிக்ஸ்கள், 3 பவுண்டறிகள் உட்பட ஆட்டம் இழக்காமல் 82 ஓட்டங்களைப் பெற்றார்.
+
+ரியான் பரக் 29 பந்துகளில் 3 சிக்ஸ்கள், ஒரு பவுண்டறியுடன் 43 ஒட்டங்களைப் பெற்றார்.
+
+195 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய லக்னோவ் சுப்பர் ஜயன்ட்ஸ் 20 ஓவர்களில் 6 விக்கெட்களை இழந்து 173 ஓட்டங்களைப் பெற்று தோல்வி அடைந்தது.
+
+...
+
+[Data](articles/2ab07aac.json)
+
+---
 
 ### Heat advisory issued warning of increased temperatures
 
@@ -67,6 +109,18 @@ Minister of Education Susil Premajayantha, University Grants Commission Chairman
 [Data](articles/89dfb274.json)
 
 [Extended Data](ext_articles/89dfb274.ext.json)
+
+---
+
+### 'ஹாட்ஸ்பாட் 'தப்பான படம் அல்ல'- இயக்குநர் விளக்கம்
+
+*2024-03-24 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179590) · `ta`
+
+நடிகர் கலையரசன் கதையின் நாயகர்களில் ஒருவராக நடித்திருக்கும் 'ஹாட் ஸ்பாட் ' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியாகி பெரும் சர்ச்சையை ஏற்படுத்தியது. முன்னோட்டத்தில் வளரிளம் பெண் ஒருவர் பாலியல் நடவடிக்கை தொடர்பான வார்த்தையை பெற்றோர்கள் முன்னிலையில் பேசுவது இடம்பெற்றிருந்தது பெரும் அதிர்வை ஏற்படுத்தியது. இந்நிலையில் 'ஹாட்ஸ்பாட்  திரைப்படத்தின் முன்னோட்டத்தை வைத்து குறை கூறாதீர்கள். இந்த படம் வெளியான பிறகு தப்பான படம் அல்ல என்பதை அனைவரும் உணர்ந்து ஆதரிப்பீர்' என இயக்குநர் விளக்கமளித்திருக்கிறார்.
+
+...
+
+[Data](articles/dc96f8ee.json)
 
 ---
 
@@ -756,17 +810,23 @@ The government has allocated 16,600 million rupees directly to the nine provinci
 
 ---
 
-### ප්‍රාථමික අංශයේ පාසල් දරුවන්ට හෙට සිට ආහාර වේලක්
+### Primary sector school children from tomorrow
 
 *2024-03-24 15:49:00* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රාථමික-අංශයේ-පාසල්-දරුවන්ට-හෙට-සිට-ආහාර-වේලක්/11-408771) · `si`
 
-දිවයිනේ  9,134ක ප්‍රාථමික ශ්‍රේණිවල සියලු සිසුන් හා සියයට අඩු සිසුන් සංඛ්‍යාවක් සිටින සියලු පාසල් ආවරණය වන පරිදි පළමු ශ්‍රේණියේ සිට පහ ශ්‍රේණිය දක්වා  දරුවන්ට පෝෂණවේදීන්ගේ නිර්දේශ අනුව ප්‍රධාන ආහාර වේලක් ලබාදීමේ වැඩපිළිවෙල හෙට (25) දිනයේ සිට  ක්‍රියාත්මක කරන  බව අධ්‍යාපන අමාත්‍යංශය සඳහන් කළේය..
+The Ministry of Education will provide major meals to all primary school children in 9,134 grades, sponsored by the World Food Program and the US Department of Agriculture with Rs 16,600 million.
 
-ලෝක ආහාර වැඩසටහන සහ එක්සත් ජනපද කෘෂිකර්ම දෙපාර්තමේන්තුව ඇතුළු සංවිධාන කිහිපයක් අනුග්‍රහය දක්වා ඇති අතර මේ සඳහා රුපියල් මිලියන 16,600ක මුදලක් අයවැය මඟින්  පළාත් සභා  වෙත වෙන්කර ඇති බව අධ්‍යාපන අමාත්‍යාංශය සඳහන් කළේය.
+🟩
+
+The Ministry of Education stated that the program will be implemented to provide a major meal from the recommendation of all students of the country and to provide a major meal in 9,134 primary grades in 9,134 primary grades.
+
+The World Food Program and the US Department of Agriculture have sponsored a sum of Rs 16,600 million to the Provincial Councils.
 
 ◼️
 
 [Data](articles/a03f88f4.json)
+
+[Extended Data](ext_articles/a03f88f4.ext.json)
 
 ---
 
@@ -2153,57 +2213,5 @@ Hundreds of complete TV series and full box sets including the latest shows from
 [Data](articles/6ece61ca.json)
 
 [Extended Data](ext_articles/6ece61ca.ext.json)
-
----
-
-### HNB Assurance Celebrates First Anniversary of Empowering Women with In.She
-
-*2024-03-24 05:11:00* · [`islandlk`](http://island.lk/hnb-assurance-celebrates-first-anniversary-of-empowering-women-with-in-she/) · `en`
-
-HNB Assurance PLC proudly celebrated the first anniversary of its groundbreaking women empowerment program, In.she. This initiative, designed to uplift and support women within both the insurance industry and the company, aims to foster gender equality and diversity.
-
-Launched on March 8th, 2023, in celebration of International Women’s Day, In.she has exemplified HNB Assurance’s commitment to creating an inclusive workplace and empowering women to excel in their careers. The program’s first-year celebration, held at the Royal MAS Arena, set the stage for a continued journey of empowerment and growth.
-
-In recognition of its efforts, HNB Assurance was recognized as one of the female-friendly workplaces to work in 2023, a testament to the company’s support for women’s advancement and well-being.
-
-...
-
-[Data](articles/4ac3566c.json)
-
-[Extended Data](ext_articles/4ac3566c.ext.json)
-
----
-
-### ESOFT launches Doctoral Programmes with renowned universities
-
-*2024-03-24 05:11:00* · [`islandlk`](http://island.lk/esoft-launches-doctoral-programmes-with-renowned-universities/) · `en`
-
-ESOFT Metro Campus celebrated the launch and inauguration of two prestigious doctoral programmes at its premier Campus One branch at One Galle Face Business Tower recently (13). The ceremony marked the introduction of the first and only British PhD programme in Sri Lanka, delivered by Kingston University and the Doctor of Business Administration (DBA) programme offered by Manipal GlobalNXT University in collaboration with ESOFT.
-
-Dr. Dayan Rajapakse, Chairman/ Group Managing Director and founder of ESOFT; Professor Mukesh Limbachiya, Professor of Civil Engineering and Faculty Lead – Apprenticeship and Academic Partnerships at Kingston University; and Sanjiv Kumar, Head of Corporate Engagements and Partnerships of Manipal GlobalNxt University graced the event, including representatives and supervisors from both programmes.
-
-...
-
-[Data](articles/6ddbbdd5.json)
-
-[Extended Data](ext_articles/6ddbbdd5.ext.json)
-
----
-
-### Ex-Pack celebrates IWD
-
-*2024-03-24 05:11:00* · [`islandlk`](http://island.lk/ex-pack-celebrates-iwd/) · `en`
-
-Ex-Pack Corrugated Cartons PLC, a subsidiary of Aberdeen Holdings (Pvt) Ltd, held its “Inspire Inclusion” programme in view of celebrating the International Women’s Day on March 8th, underscoring the company’s unwavering commitment to women’s empowerment, aligning with this year’s global campaign theme.
-
-The day’s highlight was a series of seminars held by Deepthi Perera, a well-known personal trainer who specializes in professional and personal growth, said a release.
-
-It said: Ex-Pack took this opportunity to express its gratitude and support towards its female employees, acknowledging their indispensable contributions to the company and industry that has been traditionally dominated by male. The initiative is part of Ex-Pack’s broader strategy to create an inclusive and equitable work culture to foster a supportive and thriving environment where every individual feels valued and empowered to contribute their best.
-
-...
-
-[Data](articles/9133b534.json)
-
-[Extended Data](ext_articles/9133b534.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 07:42:13**
+As of **2024-03-24 07:54:11**
 
 ## Newspaper Stats
 
-*Scraped **14,773** Articles*
+*Scraped **14,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 190
 newsfirstlk | 363
 dailyftlk | 792
 economynextcom | 795
-islandlk | 805
+islandlk | 820
 adalk | 1,262
 tamilmirrorlk | 1,775
 adaderanalk | 1,780
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,366
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,773 (100.0%) of 14,773 articles have been extended.
+14,773 (99.9%) of 14,788 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -84,6 +84,156 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
+### Union Assurance Launches Groundbreaking Women Empowerment Initiative “GROW”
+
+*2024-03-24 05:23:00* · [`islandlk`](http://island.lk/union-assurance-launches-groundbreaking-women-empowerment-initiative-grow/) · `en`
+
+Union Assurance, marked International Women’s Day with the launch of its groundbreaking women empowerment initiative, “GROW.” The event drew participation from female team members across the organisation, as well as key figures from the Corporate Management Team, the Executive Committee, and esteemed guests.
+
+...
+
+[Data](articles/468c0d24.json)
+
+---
+
+### SLT-MOBITEL powers advancement of nation’s agriculture supporting 2nd phase of Agri Saviya – Marketing Asseweduma
+
+*2024-03-24 05:22:00* · [`islandlk`](http://island.lk/slt-mobitel-powers-advancement-of-nations-agriculture-supporting-2nd-phase-of-agri-saviya-marketing-asseweduma/) · `en`
+
+Contributing to the enrichment of Sri Lanka’s agriculture and strengthening the commitment to Environmental, Social and Governance (ESG), SLT-MOBITEL, the National ICT Solutions Provider, powered the 2nd phase of the Agri Saviya – Marketing Asseweduma initiative recently.
+
+Aimed at transforming farmers into Agripreneur leaders of tomorrow, Agri Saviya acts as the lifeline in nourishing farmers with the right knowledge and technical skills towards building a modern agricultural development in Sri Lanka. In the initial phase, 40 farmers received scholarships for the Certificate in Agri Business and Entrepreneurship (CABE), a first-of-its-kind qualification available in Sri Lanka, offered by the Sri Lanka Institute of Marketing (SLIM).
+
+...
+
+[Data](articles/601c3a3f.json)
+
+---
+
+### Emirates wins ‘Best Inflight Entertainment Award’ globally at the 2024 Airline Excellence Awards
+
+*2024-03-24 05:22:00* · [`islandlk`](http://island.lk/emirates-wins-best-inflight-entertainment-award-globally-at-the-2024-airline-excellence-awards/) · `en`
+
+Dubai, UAE, 22 Mar 2024: This week Emirates was crowned the global winner of the ‘Best Inflight Entertainment Award’ in Airline Ratings 2024 Airline Excellence Awards, announced online.
+
+Emirates scooped the top award for inflight entertainment from an extensive finalist list of global airlines, due to its whopping 6,500 channels of high quality and acclaimed content, the world’s largest entertainment library in the sky – making it a clear winner for the Best Inflight Entertainment award.
+
+Customers enjoying Emirates flights can access a world-class entertainment library of 6,500 channels which includes;
+
+More than 2,000 Hollywood and internationally acclaimed movies including 2024 Academy Award® winning films.
+
+Hundreds of complete TV series and full box sets including the latest shows from leading streaming platforms and media brands such as HBO Max, Discovery+, BBC, Bloomberg Originals and Shahid.
+
+...
+
+[Data](articles/6ece61ca.json)
+
+---
+
+### HNB Assurance Celebrates First Anniversary of Empowering Women with In.She
+
+*2024-03-24 05:11:00* · [`islandlk`](http://island.lk/hnb-assurance-celebrates-first-anniversary-of-empowering-women-with-in-she/) · `en`
+
+HNB Assurance PLC proudly celebrated the first anniversary of its groundbreaking women empowerment program, In.she. This initiative, designed to uplift and support women within both the insurance industry and the company, aims to foster gender equality and diversity.
+
+Launched on March 8th, 2023, in celebration of International Women’s Day, In.she has exemplified HNB Assurance’s commitment to creating an inclusive workplace and empowering women to excel in their careers. The program’s first-year celebration, held at the Royal MAS Arena, set the stage for a continued journey of empowerment and growth.
+
+In recognition of its efforts, HNB Assurance was recognized as one of the female-friendly workplaces to work in 2023, a testament to the company’s support for women’s advancement and well-being.
+
+...
+
+[Data](articles/4ac3566c.json)
+
+---
+
+### ESOFT launches Doctoral Programmes with renowned universities
+
+*2024-03-24 05:11:00* · [`islandlk`](http://island.lk/esoft-launches-doctoral-programmes-with-renowned-universities/) · `en`
+
+ESOFT Metro Campus celebrated the launch and inauguration of two prestigious doctoral programmes at its premier Campus One branch at One Galle Face Business Tower recently (13). The ceremony marked the introduction of the first and only British PhD programme in Sri Lanka, delivered by Kingston University and the Doctor of Business Administration (DBA) programme offered by Manipal GlobalNXT University in collaboration with ESOFT.
+
+Dr. Dayan Rajapakse, Chairman/ Group Managing Director and founder of ESOFT; Professor Mukesh Limbachiya, Professor of Civil Engineering and Faculty Lead – Apprenticeship and Academic Partnerships at Kingston University; and Sanjiv Kumar, Head of Corporate Engagements and Partnerships of Manipal GlobalNxt University graced the event, including representatives and supervisors from both programmes.
+
+...
+
+[Data](articles/6ddbbdd5.json)
+
+---
+
+### Ex-Pack celebrates IWD
+
+*2024-03-24 05:11:00* · [`islandlk`](http://island.lk/ex-pack-celebrates-iwd/) · `en`
+
+Ex-Pack Corrugated Cartons PLC, a subsidiary of Aberdeen Holdings (Pvt) Ltd, held its “Inspire Inclusion” programme in view of celebrating the International Women’s Day on March 8th, underscoring the company’s unwavering commitment to women’s empowerment, aligning with this year’s global campaign theme.
+
+The day’s highlight was a series of seminars held by Deepthi Perera, a well-known personal trainer who specializes in professional and personal growth, said a release.
+
+It said: Ex-Pack took this opportunity to express its gratitude and support towards its female employees, acknowledging their indispensable contributions to the company and industry that has been traditionally dominated by male. The initiative is part of Ex-Pack’s broader strategy to create an inclusive and equitable work culture to foster a supportive and thriving environment where every individual feels valued and empowered to contribute their best.
+
+...
+
+[Data](articles/9133b534.json)
+
+---
+
+### Himalaya re-launches purifying Neem Face Wash
+
+*2024-03-24 05:11:00* · [`islandlk`](http://island.lk/himalaya-re-launches-purifying-neem-face-wash/) · `en`
+
+Himalaya Wellness Company has recently announced the re-launch of Himalaya Purifying Neem Face Wash in Sri Lanka. The product is available in two size variants: 50ml and 100ml packs. It has active ingredients of a combination of neem and turmeric, having strong inherent bacteria-fighting characteristics that kill 99.9% of pimple-creating bacteria and promise pimple prevention action from the first day of use.
+
+Himalaya Purifying Neem Facewash is exclusively distributed in Sri Lanka by the Scan Product Division of C. W. Mackie PLC. In view of the re-launch of the product in Sri Lanka, the Country Manager for Himalaya Wellness Company for Sri Lanka and the Maldives, Ravi Kumar G, commented that “It is of immense pleasure and pride to re-launch one of the most successful products of Himalaya for the consumers of Sri Lanka.
+
+...
+
+[Data](articles/a7f7c21e.json)
+
+---
+
+### Beating cancer helps Lankan Buddhist woman find faith
+
+*2024-03-24 05:01:00* · [`islandlk`](http://island.lk/beating-cancer-helps-lankan-buddhist-woman-find-faith/) · `en`
+
+(UCAN)At 58, Ruwani Mudalige chose to be baptized a Catholic in Sri Lanka after years of keeping away from Catholicism, her mother’s religion.
+
+“I grew up in a house of Buddhists. But my mother was a strong Catholic. I used to attend Sunday Mass with her during my childhood, but I never felt a connection to the Church,” Mudalige said.
+
+She moved further away from Christianity with her marriage to “a devout Buddhist” at the age of 22 in 1988.The family of her husband Aloka Weerathunga was one of the traditional dancers, who attended Buddhist religious festivals and ceremonies across the country.
+
+Mudalige accompanied them as they — her husband, his father and other relatives — performed before temple processions with a decorated elephant in vibrant colors.
+
+During these festivals, her family’s youngsters formed a fire-dancing team, performing outside Buddhist temples as part of the festivities.
+
+...
+
+[Data](articles/a0baa08d.json)
+
+---
+
+### Karlsruhe and the properties of Lorenz
+
+*2024-03-24 04:54:00* · [`islandlk`](http://island.lk/karlsruhe-and-the-properties-of-lorenz/) · `en`
+
+The history of this abode is both historic and tragic concerning the life of Lorenz. The origins of this abode are unknown. Its structure is essentially Dutch but its occupants of various eras have made their additions to its architectural setting. Lorenz had been eyeing this property for some time. Previously, it was owned by Governor Charles McCarthy’s brother. Just like  Elie House, this property opposite the Welikada Prison was situated at a higher elevation in comparison with its surroundings. Originally this property was in two blocks of land covering 11.5 acres. After purchasing this property from Dr. Dickman and Dr. Wambeek, Charles Lorenz, who was mortally ill arrived here in early 1871. Sadly, this would be his final abode as Lorenz passed away in August 1871.
+
+...
+
+[Data](articles/9207bdb2.json)
+
+---
+
+### The Avukana Buddha – a masterpiece of Buddhist art
+
+*2024-03-24 04:47:00* · [`islandlk`](http://island.lk/the-avukana-buddha-a-masterpiece-of-buddhist-art/) · `en`
+
+Some of the outstanding contributions to the Sri Lanka heritage are its Buddhist temple art and architecture, statuary, dagabas, dance forms and water and soil conservation ecosystems. Of Buddha statues, the one at Avukana is certainly a masterpiece; hewn out of solid granite it stands 11.3 meters high and 12.8 meters inclusive of the lotus flower pedestal. There are only four other comparable standing Buddha statues in Sri Lanka; Rasvehera in Anuradhapura, Maligawila and Buduruwagala in Moneragala and Dova in Badulla. Of these the ones at Rasvehera and Avukana are in the open and to the layman’s eye, there are hardly any signs of damage due to exposure to the elements.
+
+...
+
+[Data](articles/ae1f9bc1.json)
+
+---
+
 ### Live Airline Service to Dhaka
 
 *2024-03-24 03:17:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டாக்காவிற்கு-நேரடி-விமான-சேவை/175-335069) · `ta`
@@ -103,6 +253,20 @@ It is noteworthy that Fitz Air currently offers direct services from Colombo to 
 [Data](articles/e24a81f7.json)
 
 [Extended Data](ext_articles/e24a81f7.ext.json)
+
+---
+
+### Sir Andrew Caldecott (1884-1951) Governor of Ceylon with special experience
+
+*2024-03-24 01:37:00* · [`islandlk`](http://island.lk/sir-andrew-caldecott-1884-1951-governor-of-ceylon-with-special-experience/) · `en`
+
+Sir Andrew Caldecott arrived in Ceylon as Governor of the Island seven years ago yesterday. He will be 60 years of age on the 26h of this month. No excuse is therefore necessary for making some attempt to review his career.
+
+The roll of Ceylon’s past Governors includes many remarkable men who made their mark as pioneers, administrators, scholars or writers. Sir Andrew Caldecott will take his place among them on his merits, but also on the suffrage of those peoples among whom he has served. He may not be so brilliant a writer as Clifford, so profound a scholar as Chalmers, so eloquent as West-Ridgeway or so experienced a parliamentarian as Gregory but he combines in his character qualities which made him one of the most successful and popular proconsuls ever to leave England to carry the white man’s burden.
+
+...
+
+[Data](articles/501862d6.json)
 
 ---
 
@@ -129,6 +293,44 @@ The Ministry said that the Sri Lankan embassy in Moscow has confirmed this and h
 [Data](articles/2264a970.json)
 
 [Extended Data](ext_articles/2264a970.ext.json)
+
+---
+
+### When gifts come with strings attached
+
+*2024-03-23 23:10:00* · [`islandlk`](http://island.lk/when-gifts-come-with-strings-attached/) · `en`
+
+At an international maritime security conference in Colombo, the American Ambassador announced that Sri Lanka had sent a ship to join the international coalition against the Houthis in the Red Sea. The surprise announcement contradicted the earlier information in the press that Sri Lanka would not join this coalition, especially given the high cost involved in such an operation at a time of domestic economic crisis in Sri Lanka with national poverty levels rising, unemployment and malnutrition.
+
+...
+
+[Data](articles/70cc0851.json)
+
+---
+
+### The wistful musings of a reluctant émigré
+
+*2024-03-23 22:49:00* · [`islandlk`](http://island.lk/the-wistful-musings-of-a-reluctant-emigre/) · `en`
+
+It has been a cold and wet winter in London. As I snuggle-up in my rocking chair to write my thoughts I can hear the wind howling outside. The raindrops are carried horizontally by the strong south-westerly wind battering the window panes and dripping down in torrents.
+
+I still have grateful memories of a happy 12 years at Wesley College. The school on Karlsruhe Hill was established with missionary zeal and some colonial vigour but it catered for all Ceylonese. The school became the cradle of multiculturalism. Protected from the polarised world outside, it remained secular and was driven by merit. Since the very beginning Wesley has strived hard to become a modern, forward-thinking school. The school has a strong record of academic achievements and a full programme of wider life activities, including the arts and sports.
+
+...
+
+[Data](articles/05b49544.json)
+
+---
+
+### DR. A.M.A. AZEEZ MEMORIAL ORATION BY PROF. M. SORNARAJAH
+
+*2024-03-23 22:39:00* · [`islandlk`](http://island.lk/dr-a-m-a-azeez-memorial-oration-by-prof-m-sornarajah/) · `en`
+
+The Dr. A.M.A. Azeez Commemoration Meeting and Memorial Oration were held on February 17, 2024 at the Ghaffoor Hall, Zahira College, Colombo. The Memorial Oration was delivered by Prof. M. Sornarajah, Emeritus Professor of Law, National University of Singapore, distinguished old boy of Royal College, LL.B (University of Ceylon, First Class Honours), LL.M (Yale Law School, U.S.A.), LL.M, PhD and LL.D (University of London) on the subject of “The Law in the Speeches of Senator Azeez, the Muslim Tamil Leader of Ceylon, and its Present Significance”.
+
+...
+
+[Data](articles/3b4971bb.json)
 
 ---
 
@@ -2001,337 +2203,5 @@ Accordingly, the first, ‘Accelerating Digital Sri Lanka’ will focus on how D
 [Data](articles/6d8ed719.json)
 
 [Extended Data](ext_articles/6d8ed719.ext.json)
-
----
-
-### Five fatal accidents lost to five
-
-*2024-03-23 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194837) · `si`
-
-Five fatal road accidents reported across the island, including a motorcycle crash in Morontuduwa, a lorry flip on Kurunegala road, and a car collision in Marawila.
-
-🟩
-
-Five people have been deprived of their lives due to road accidents in several parts of the island.
-
-The police media unit announced that fatal accidents have been reported in Melor, Morrotgue, Kirinda, Puttalam, Madampe and Athurugiriya.
-
-A youth was killed after a motorcycle who was unable to control the Morontuduwa road from the Bandaragama road yesterday (22).
-
-Meanwhile, a motorcycle opened by a by road at Villagedara Junction along the Village road on Wilindamuriya Junction on Wilindaram Road.
-
-The victim was dead and the victim is receiving treatment at Hambantota Hospital.
-
-Meanwhile, a lorry that a lorry was traveling from the Galkulama road on Kurunegala road was hit by a motorcycle and flip the lorry.
-
-The motorcyclist and a child and a small child were injured and a small child were injured in admission to the Puttalam Hospital.
-
-The victim was a 47 year old resident of Anamaduwa.
-
-The driver of the lorry is also receiving treatment at the Puttalam Hospital.
-
-...
-
-[Data](articles/e245d617.json)
-
-[Extended Data](ext_articles/e245d617.ext.json)
-
----
-
-### Moscow kilpasses have been tugged
-
-*2024-03-23 09:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194836) · `si`
-
-A terrorist attack in Moscow, Russia, resulted in 60 deaths and over 100 injuries. Four attackers in disguise fired grenades during a theater shooting near Moscow, causing a fire and lasting 15-20 minutes. The attack targeted a rock band concert, injuring young children. The US embassy warned of potential threats to large gatherings.
-
-🟩
-
-It is reported that 60 people were killed and over 100 people were either killed in a terrorist attack on Moscow, Russia's capital.
-
-Foreign Reports said the responsibility of the attack. The organization has been submitted.
-
-A shooting of a theater shooting in Kznoogorsk was shooting near Moscow in Russia.
-
-Foreign Vasistes have said that four-dressed attackers have collapsed and shooting a grenade attack.
-
-The shooting was held at a time when a rock band musical show.
-
-The band had taken place a few minutes before the platform and the band was reportedly damaged.
-
-The Theater, which consists of 6,200 seats, was full of people, "foreign media said.
-
-With the attack, a fire has taken place in the concert hall.
-
-Moscow Mayor Sergei Sobianin said that two or five armed people shot the cabbers and shot the audience.
-
-It is reported that the attack had been carried out for 15 minutes or 20 minutes.
-
-The injured are young children and the Russian Foreign Ministry said.
-
-...
-
-[Data](articles/699de2e7.json)
-
-[Extended Data](ext_articles/699de2e7.ext.json)
-
----
-
-### Indian fishermen strike against Sri Lankan Navy arrests
-
-*2024-03-23 09:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-fishermen-strike-against-Sri-Lankan-Navy-arrests/108-279458) · `en`
-
-Madurei, March 23 (The Hindu) - The fishermen associations in the coastal Ramanathapuram district have announced an indefinite strike with immediate effect condemning the Sri Lankan Navy of arresting the fishermen from Tamil Nadu under ‘false charges’ on Friday.
-
-An emergency meeting was convened in view of the arrest of 32 fishermen from Rameswaram and Thangachimadam on (Thursday) March 21 by the Sri Lankan Navy personnel in Neduntheevu and at Mannar in Palk Straits. All the 32 men were remanded in judicial custody. Five trawlers were also impounded by the Lankan authorities.
-
-Under these circumstances, the fishermen associations met here and discussed the issues.
-
-Many members at the meeting blamed the Union government for not effectively handling the situation. “If the Prime Minister or External Affairs Minister had held talks, the Sri Lankan government would have positively responded and obliged the Indian PM,.” one of them said.
-
-...
-
-[Data](articles/7b7567c6.json)
-
-[Extended Data](ext_articles/7b7567c6.ext.json)
-
----
-
-### 12 percent of the elderly in the country have no teeth
-
-*2024-03-23 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179475) · `ta`
-
-Dr. Ramesh Pathirana highlights that 12% of the elderly in the country have lost their teeth, emphasizing the importance of dental health education in schools to prevent oral diseases like cancer.
-
-🟩
-
-Health Minister Dr. Ramesh Pathirana says that 12 percent of the elderly people in the country have lost their teeth.
-
-To teach the importance of dental health at the school level. It is important to maintain a lifetime of mouth tooth health. He noted that many people in the country are suffering from oral cancer today.
-
-He emphasized that it is necessary to follow the right health habits to prevent such diseases.
-
-◼️
-
-[Data](articles/9e0f2513.json)
-
-[Extended Data](ext_articles/9e0f2513.ext.json)
-
----
-
-### Sri Lanka to issue on-arrival driving licenses to foreigners starting April 15
-
-*2024-03-23 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98142/sri-lanka-to-issue-on-arrival-driving-licenses-to-foreigners-starting-april-15) · `en`
-
-State Minister of Transport Lasantha Alagiyawanna revealed that foreign individuals seeking a driving license in Sri Lanka will have the convenience of applying for it directly at the airport from April 15.
-
-Upon exiting the airport, they will be able to obtain their driver’s license swiftly and efficiently.
-
-The State Minister mentioned that the program to provide compensation to road accident victims promptly without judicial action was also started on March 01.
-
-The individuals can claim a maximum compensation amount of up to Rs. 500, 000 by submitting an application to the relevant insurance company within one year of the accident. This compensation can be availed from any branch of the insurance company across the island, he explained.
-
-Addressing a press briefing titled “Collective Path to a Stable Country” held at the Presidential Media Centre (PMC) on Friday (22), Alagiyawanna​ further commented:
-
-...
-
-[Data](articles/615a3e3c.json)
-
-[Extended Data](ext_articles/615a3e3c.ext.json)
-
----
-
-### Mr. President, You Plan To Rapidly Transform The Country Into An Export Economy By Passing Two New Laws In April 2024?
-
-*2024-03-23 08:44:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/mr-president-you-plan-to-rapidly-transform-the-country-into-an-export-economy-by-passing-two-new-laws-in-april-2024/) · `en`
-
-The Presidential Media Division and the Daily News released press releases and media news items titled “Country set for rapid transformation into an export economy” quoting remarks made by you at the inauguration ceremony of a historic temple in Kegalle[i]. As a caring citizen I said, “three cheers”, happily thinking that at last, the Country was on the correct governance path focusing on the creation of new strategic leadership options and policy changes to encourage present and new investors to produce tradable goods and engage in external services. I was delighted that the statement began with a reference that Sri Lanka can no longer continue to rely on borrowings (presumably external?) to address the imbalance between imports and exports, which if pursued will inevitably lead to another economic crisis within a decade.
-
-...
-
-[Data](articles/05507519.json)
-
-[Extended Data](ext_articles/05507519.ext.json)
-
----
-
-### Gunmen kill more than 60 in concert attack near Moscow, IS claims responsibility
-
-*2024-03-23 08:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Gunmen-kill-more-than-60-in-concert-attack-near-Moscow-IS-claims-responsibility/107-279457) · `en`
-
-MOSCOW, (Reuters) - Camouflage-clad gunmen opened fire at concertgoers with automatic weapons on Friday, killing at least 60 people and injuring 145 more in an attack claimed by Islamic State militants.
-
-In the deadliest attack in Russia since the 2004 Beslan school siege, gunmen sprayed civilians with bullets just before Soviet-era rock group "Picnic" was to perform to a full house at the 6,200-seat the Crocus City Hall just west of Moscow.
-
-Verified video showed people taking their seats in the hall, then rushing for the exits as repeated gunfire echoed above screams. Other video showed men shooting at groups of people. Some victims lay motionless in pools of blood.
-
-"Suddenly there were bangs behind us - shots. A burst of firing - I do not know what," one witness, who asked not to be identified by name, told Reuters.
-
-"A stampede began. Everyone ran to the escalator," the witness said. "Everyone was screaming; everyone was running."
-
-...
-
-[Data](articles/6d12f009.json)
-
-[Extended Data](ext_articles/6d12f009.ext.json)
-
----
-
-### Sri Lanka vigilant on Canada’s genocide allegation while having double-standard on Gaza
-
-*2024-03-23 08:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-vigilant-on-Canadas-genocide-allegation-while-having-double-standard-on-Gaza/108-279430) · `en`
-
-March 23, (Daily Mirror)  - Sri Lanka remains alert whether the Canadian government leaders will repeat what it calls ‘unsubstantiated genocide allegations’ against Sri Lanka this year too while taking an ambivalent position on the humanitarian crisis in Gaza, a top source said.
-
-When Sri Lanka marked its anniversary of war victory last year, Canadian Prime Minister Justin Trudeau on May 18, marked as ‘Tamil Genocide Remembrance Day’ made such allegations despite the Federal government of Canada having communicated a different position.
-
-Last year, Sri Lanka “condemned and rejected outright” the remarks made by the Canadian Prime Minister and urged its leaders to refrain from making pronouncements from Canada which promote hatred, misinformation and extremist views and to cease its unhelpful focus on Sri Lanka based on distorted facts.
-
-...
-
-[Data](articles/5cd395a5.json)
-
-[Extended Data](ext_articles/5cd395a5.ext.json)
-
----
-
-### 150 risk constructions of Colombo
-
-*2024-03-23 08:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194835) · `si`
-
-Colombo Municipal Commissioner Badrani Jayawardena reported 150 risk constructions. Owners have been notified to remove them.
-
-🟩
-
-The Colombo Municipal Commissioner Badrani Jayawardena says that about 150 risk constructions in Colombo.
-
-She said that the owners had been informed about this to remove them and remove them.
-
-◼️
-
-[Data](articles/7b897e19.json)
-
-[Extended Data](ext_articles/7b897e19.ext.json)
-
----
-
-### Mother death;Two children in a dangerous condition
-
-*2024-03-23 08:02:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்-மரணம்-ஆபத்தான-நிலையில்-இரு-பிள்ளைகள்/175-335044) · `ta`
-
-In Kallakulam, Puttalam, a mother and her three children were killed in a crash with a lorry. Two children were severely injured. The mother, RM Kusumalada Malkanti, was returning from visiting her father at the Puttalam Base Hospital.
-
-🟩
-
-A woman was killed in an accident in Kallakulam, Puttalam - Kottukachiya, Puttalam and three others were admitted to the Puttalam Base Hospital with serious injuries.
-
-Police said the accident occurred when a lorry and a motorcycle crashed.
-
-The mother of three children, RM Kusumalada Malkanti (43 years old) from Vembuwewa, Anamaduwa, died.
-
-Police say they crashed into a lorry belonging to a private business company from Anamaduwa when she was returning to the village of Anamaduwa, after visiting her three children to visit her father, who was receiving treatment at the Puttalam Base Hospital.
-
-It is reported that three children were killed in the accident and two children who were traveling with a mother on a motorcycle were severely injured.
-
-Police said the driver of the lorry was also injured in the crash.
-
-...
-
-[Data](articles/a5c5f481.json)
-
-[Extended Data](ext_articles/a5c5f481.ext.json)
-
----
-
-### 40 killed in Moscow in Moscow, Russia
-
-*2024-03-23 07:59:08* · [`adalk`](https://www.ada.lk/breaking_news/රුසියාවේ-මොස්කව්-නගරයේ-වෙඩි-ප්‍රහාරයක්-40ක්-මරුට/11-408763) · `si`
-
-In Moscow, Russia, a terrorist attack resulted in 40 deaths. The incident occurred during a dance tournament.
-
-🟩
-
-A terrorist group has been shot dead by a terrorist group today (23).
-
-The Russian media has reported that approximately 40 people were killed and more than 100 people were killed and more than 100 people were killed and more than 40 people were killed.
-
-However, the terrorists have not been reported to date.
-
-News Agencies said the 70-owned staff had been sent to the scene of the incident.
-
-It is said that a dance tournament was held at the time of the attack.
-
-◼️
-
-[Data](articles/bc2d79dc.json)
-
-[Extended Data](ext_articles/bc2d79dc.ext.json)
-
----
-
-### Rainfall in many places
-
-*2024-03-23 07:56:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-இடங்களில்-மழை-பெய்யும்/175-335043) · `ta`
-
-Expect periodic rainfall or thunderstorms in Eastern, Uva, and Hambantota. North Central and Northern Provinces may see rainfall several times. Afternoon or night rainfall or thunderstorms possible in other areas. Heavy rainfall in Western, Sabaragamuwa, Central, and North Western provinces. Morning snow in Central, Sabaragamuwa, Uva, Galle, and Matara. Thundershowers may occur. Take precautions for lightning impacts.
-
-🟩
-
-There is a possibility of periodic rainfall or thunderstorms in the Eastern and Uva provinces and Hambantota district.
-
-Rainfall is expected in the North Central and Northern Provinces several times.
-
-In other parts of the country, there is a possibility of rainfall or thunderstorms in the afternoon or at night.
-
-Heavy rainfall is expected in some parts of the Western, Sabaragamuwa, Central and North Western provinces.
-
-In the morning, the Central, Sabaragamuwa and Uva provinces and Galle and Matara districts are expected to be snowy in the morning.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The public is advised to take necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/f53d1d79.json)
-
-[Extended Data](ext_articles/f53d1d79.ext.json)
-
----
-
-### The new decision taken about drivers violating road laws
-
-*2024-03-23 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194834) · `si`
-
-From April 10, drivers violating road laws will have their license, phone number, and guilt data recorded. Foreigners needing a Sri Lankan driver's license must obtain it at the airport from April 15.
-
-🟩
-
-The State Minister of Lasantha Alagiyawanna stated that from April 10, the State Minister of Lasantha Alagiyawanna said.
-
-He says that the data is inserted into the nature of the guilt, the driver's license and telephone number of the driver's license and telephone number.
-
-Meanwhile, the public is required to obtain the driver's license at the airport from April 15 to the foreigners who need the Sri Lankan driver's license at the airport on April 15.
-
-◼️
-
-[Data](articles/47e9236d.json)
-
-[Extended Data](ext_articles/47e9236d.ext.json)
-
----
-
-### British king is cancer
-
-*2024-03-23 07:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194833) · `si`
-
-"British king reveals he has cancer in a video message."
-
-🟩
-
-She had revealed this by issuing a special video message.
-
-◼️
-
-[Data](articles/16a919a3.json)
-
-[Extended Data](ext_articles/16a919a3.ext.json)
 
 ---

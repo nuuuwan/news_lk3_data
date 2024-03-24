@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 15:18:05**
+As of **2024-03-24 15:33:18**
 
 ## Newspaper Stats
 
-*Scraped **14,848** Articles*
+*Scraped **14,849** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 800
 islandlk | 820
 adalk | 1,265
 tamilmirrorlk | 1,788
-adaderanalk | 1,790
+adaderanalk | 1,791
 virakesarilk | 2,078
 dailymirrorlk | 2,283
 adaderanasinhalalk | 2,381
@@ -26,27 +26,51 @@ adaderanasinhalalk | 2,381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,845 (100.0%) of 14,848 articles have been extended.
+14,848 (100.0%) of 14,849 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### පාසල් සිසුන්ට හෙට සිට ආහාර
+### TTD executive officer to visit Sri Lanka to finalise site for Srivari temple
+
+*2024-03-24 15:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98172/ttd-executive-officer-to-visit-sri-lanka-to-finalise-site-for-srivari-temple) · `en`
+
+Tirumala Tirupati Devasthanams (TTD) executive officer (EO) AV Dharma Reddy is set to visit Sri Lanka to finalise the site where a temple of Lord Venkateswara Swamy will be built. He will leave for the island nation on March 29 and is expected to stay there for four to five days. He will also establish a permanent setup of the temple administration.
+
+According to senior TTD officials, a Sri Lanka-based Trust had approached the Union government through the Government of Sri Lanka, seeking help in the construction of a massive Hindu temple of Lord Venkateswara in their country.
+
+The TTD was apprised of the matter. Subsequently, the Temple Trust approved the construction of the temple in Colombo in a step towards disseminating Hindu dharma.
+
+Dharma Reddy was scheduled to leave for Sri Lanka on March 2, but it was postponed to March 26 and later to March 29, due to some administrative reasons. End of the financial year is often hectic for the Srivari Trust.
+
+...
+
+[Data](articles/58a232e4.json)
+
+---
+
+### Food for school children from tomorrow
 
 *2024-03-24 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194879) · `si`
 
-පළමු ශ්‍රේණියේ සිට පහ ශ්‍රේණිය දක්වා දිවයිනේ සියලු පාසල් දරුවන්ට ප්‍රධාන ආහාර වේලක් ලබාදීමේ වැඩපිළිවෙල හෙට (25) දිනයේ සිට ආරම්භ කරන බව අධ්‍යාපන අමාත්‍යංශය පවසයි.
+The Ministry of Education will launch a program tomorrow to provide a major meal to all school children in grades 1-5, covering 9,134 state and low schools. The initiative, funded by 16.6 billion, includes recommendations from nutritionists and support from organizations like the World Food Program and the US Department of Agriculture.
 
-පෝෂණවේදීන්ගේ නිර්දේශ සැළකිල්ලට ගෙන සිසුන් අධ්‍යාපන කටයුතුවල නිරතවීමට පෙර මෙම ආහාරවේල ලබාදීමට නියමිත බව අධ්‍යාපන අමාත්‍යංශය සඳහන් කළේය.
+🟩
 
-රජයේ පාසල් 9,134ක ප්‍රාථමික ශ්‍රේණිවල සියලු සිසුන් හා සියයට අඩු සිසුන් සංඛ්‍යාවක් සිටින සියලු පාසල් ආවරණය වන පරිදි එම ආහාර වැඩසටහන ක්‍රියාත්මක කිරිමට නියමිතව තිබේ.
+The Ministry of Education says that the main meal of all school children in the country will be launched tomorrow (25) to provide a major meal to all school children in the country from grade 1 to five.
 
-මේ සඳහා රුපියල් මිලියන 16,600ක මුදලක් අයවැය මඟින් සෘජුවම පළාත් සභා 09 වෙත වෙන්කර ඇති අතර ලෝක ආහාර වැඩසටහන සහ එක්සත් ජනපද කෘෂිකර්ම දෙපාර්තමේන්තුව ඇතුළු සංවිධාන කිහිපයක් අනුග්‍රහය දක්වා ඇති බව අධ්‍යාපන අමාත්‍යාංශය සඳහන් කළේය.
+The Ministry of Education stated that these diet is to be provided with the recommendations of the nutritionists.
+
+The program is to be implemented covering all schools in 9,134 state schools and all schools with low schools.
+
+16,600 million has been allocated directly to the Provincial Councils and several organizations including the World Food Program and several organizations including the US Department of Agriculture.
 
 ◼️
 
 [Data](articles/f88cf3ad.json)
+
+[Extended Data](ext_articles/f88cf3ad.ext.json)
 
 ---
 
@@ -85,6 +109,8 @@ The Commercial High Court made this order consequent to a lawsuit filed by McDon
 ...
 
 [Data](articles/35a21649.json)
+
+[Extended Data](ext_articles/35a21649.ext.json)
 
 ---
 
@@ -164,17 +190,23 @@ However, just like the first innings, Sri Lanka skipper Dhananjaya de Silva and 
 
 ---
 
-### මම එනවා - මෛත්‍රී
+### I'm coming - Maithri
 
 *2024-03-24 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194878) · `si`
 
-පාස්කු බෝම්බ ප්‍රහාරය සම්බන්ධයෙන් තමන් කළ අදහස් දැක්වීම පිළිබඳව ප්‍රකාශයක් ලබාදීමටඅපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිටින බව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පොලීසිය වෙත දැනුම්දී තිබේ.
+Maithripala Sirisena notified police that the CID has appeared before the CID, as observed by DIG's Court Attorney Nihal Talduuwa.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා මේ බව පැවසීය.
+🟩
+
+Former President Maithripala Sirisena has informed the police that the CID has appeared before the CID.
+
+Officials of the Police Media Spokesperson DIG's Court Attorney Nihal Talduuwa made this observation.
 
 ◼️
 
 [Data](articles/51743d54.json)
+
+[Extended Data](ext_articles/51743d54.ext.json)
 
 ---
 
@@ -2111,25 +2143,5 @@ Nevertheless, speaking to the media following an event held in Colombo today (23
 [Data](articles/3c4d3f20.json)
 
 [Extended Data](ext_articles/3c4d3f20.ext.json)
-
----
-
-### Draft Bill to reduce age of sexual consent to 14 years to be withdrawn
-
-*2024-03-23 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98155/draft-bill-to-reduce-age-of-sexual-consent-to-14-years-to-be-withdrawn) · `en`
-
-The Bill gazetted on 09 February 2024 by the government in order to amend Chapter 19 of the Penal Code regarding the age of a girl to have sexual relations of her own interest, will be withdrawn, says Minister of Justice, Prison Affairs and Constitutional Reform Wijeyadasa Rajapakshe.
-
-According to the amendments made to the Penal Code in 1995, even if a victim under 16 years of age has sexual relations of their own free will, it is considered rape. However, the proposed amendment to the Penal Code by the Justice Minister sought to lower the age of sexual consent to 14 years.
-
-Nevertheless, speaking to the media following an event held in Colombo today (23), Rajapakshe stated that he has informed the Attorney General that the draft would not be proceeded with and that it would be withdrawn from the Parliament.
-
-“Several individuals have approached me requesting the suspension of the passing of this Bill. I have conveyed to them that further discussions must ensue”, the Minister said.
-
-...
-
-[Data](articles/f15cdba3.json)
-
-[Extended Data](ext_articles/f15cdba3.ext.json)
 
 ---

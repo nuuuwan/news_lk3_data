@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 12:49:20**
+As of **2024-03-24 13:02:59**
 
 ## Newspaper Stats
 
-*Scraped **14,826** Articles*
+*Scraped **14,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,84 @@ economynextcom | 798
 islandlk | 820
 adalk | 1,264
 tamilmirrorlk | 1,786
-adaderanalk | 1,787
+adaderanalk | 1,789
 virakesarilk | 2,077
 dailymirrorlk | 2,278
-adaderanasinhalalk | 2,373
+adaderanasinhalalk | 2,374
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,825 (100.0%) of 14,826 articles have been extended.
+14,826 (100.0%) of 14,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### மைத்திரியிடம் சி.ஐ.டி வாக்குமூலம்
+### Prices of imported milk powder reduced
+
+*2024-03-24 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98170/prices-of-imported-milk-powder-reduced) · `en`
+
+The price of a packet of imported milk powder will be reduced from midnight today (24), Minister of Trade Nalin Fernando said.
+
+Thus, the price of a packet of milk powder weighing will be reduced by Rs. 150  while the 400-gram packet will be reduced by Rs. 60, according to the minister.
+
+◼️
+
+[Data](articles/3029c0d6.json)
+
+---
+
+### කිරිපිටි මිල වෙනස්වෙයි
+
+*2024-03-24 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194872) · `si`
+
+අද මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ආනයනික කිරිපිටි මිල පහළ දැමීමට තීරණය කර ඇති බව වෙළෙඳ අමාත්‍ය නලින් ප්‍රනාන්දු මහතා පවසයි.
+
+ඒ අනුව කිලෝ 1ක ආනයනික කිරිපිටි පැකැට්ටුවක මිල රුපියල් 150 කින් පහළ දැමීමට තීරණය කර ඇත.
+
+එසේම ග්‍රෑම් 400ක ආනයනික කිරිපිටි පැකැට්ටුවක මිල රුපියල් 60කින් පහළ දැමීමට ද තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/9bc2a67d.json)
+
+---
+
+### Man found dead under suspicious circumstances in Haputale
+
+*2024-03-24 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98169/man-found-dead-under-suspicious-circumstances-in-haputale) · `en`
+
+The body of a person who had died under suspicious circumstances has been discovered in a thicket on the roadside in the Pitapola area of Haputale.
+
+The deceased person has been identified as a 33-year-old resident of Idalgashinna area in Bowatta, the police said.
+
+Police mentioned that the body has been placed in the mortuary of Diyathalawa Hospital for the post-mortem examination.
+
+◼️
+
+[Data](articles/9c5c4e29.json)
+
+---
+
+### CIT confession to Maithri
 
 *2024-03-24 12:27:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியிடம்-சி-ஐ-டி-வாக்குமூலம்/175-335092) · `ta`
 
-உயிர்த்த ஞாயிறுத்தாக்குதல் தொடர்பில்,  முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்த கருத்து தொடர்பில்,   குற்றப் புலனாய்வுப் பிரிவினர் அவரிடம் இன்று (24) வாக்குமூலம் பெற்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+"Former President Maithripala Sirisena acknowledges knowledge of the Easter Sunday attack truth, as reported by the CIT, following an event in Kandy."
 
-கண்டியில் கடந்த (22)  இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போது,  , ஈஸ்டர் ஞாயிறு தாக்குதலில் ஈடுபட்டவர்கள் தொடர்பிலான உண்மை தனக்கு தெரியும் என தெரிவித்திருந்தமை குறிப்பிடத்தக்கது.
+🟩
+
+Former President Maithripala Sirisena has reportedly received a statement from the Criminal Investigation Department today (24).
+
+Speaking to the media after attending an event in Kandy (22), he said that he was aware of the truth about the Easter Sunday attack.
 
 ◼️
 
 [Data](articles/854799bd.json)
+
+[Extended Data](ext_articles/854799bd.ext.json)
 
 ---
 
@@ -2141,85 +2193,5 @@ Interfax quoted the FSB security service as saying the four suspected gunmen had
 [Data](articles/cb572b9c.json)
 
 [Extended Data](ext_articles/cb572b9c.ext.json)
-
----
-
-### Investigations into Real Estate Owner of Assault
-
-*2024-03-23 15:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194847) · `si`
-
-The Illegal Asset Investigation Unit is investigating Geean Dhanushka's brother-in-law, who has banned assets. The suspect, who fled Japan, revealed land assets. Two associates of Suda were sentenced to seven years for drug trafficking and illegal possession of luxury vans. Police arrested 11 more criminals, bringing the total to 37.
-
-🟩
-
-The illegal assets have been banned by the illegal assets of the brother-in-law of Geean Dhanushka, the cornataka.
-
-The Illegal Asset Investigation Unit is conducting further investigations into the person's property.
-
-He has revealed that he has a land of Rs.
-
-Accordingly, the land has been banned after the suspect arrested.
-
-In the meantime, the suspect had fled Japan as he had fled to Japan due to the bail.
-
-Meanwhile, two Suda's close associates have been sentenced to seven years of serious jail.
-
-After a committed by the drug trafficking and two luxurious van obtained in illegally earned.
-
-Later, two luxury vans were confiscated by the court yesterday (23).
-
-Meanwhile, police have arrested 11 other organized criminals at the repressive operation.
-
-Accordingly, 37 overall criminals have been arrested.
-
-◼️
-
-[Data](articles/03174319.json)
-
-[Extended Data](ext_articles/03174319.ext.json)
-
----
-
-### Man nabbed with Rs. 2mn worth of Kerala cannabis in Kilinochchi
-
-*2024-03-23 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98151/man-nabbed-with-rs-2mn-worth-of-kerala-cannabis-in-kilinochchi) · `en`
-
-A coordinated operation conducted by the Navy and Police STF in Uruththipuram, Kilinochchi on Friday evening (March 22) has led to the arrest of a suspect and the seizure of over 7kg of Kerala cannabis in his possession.
-
-The combined search operation was carried out by the Naval Deployment Veththalakerni in the Northern Naval Command and Police STF Kilinochchi.
-
-During this operation, a person roaming in the Uruththipuram area was searched on suspicion and 04 parcels of Kerala cannabis were found in his possession.
-
-Accordingly, the suspect and the four parcels containing about 7kg and 25g of Kerala cannabis were taken into custody, while being peddled by the suspect.
-
-The gross street value of seized Kerala cannabis is believed to be over Rs. 2 million.
-
-The suspect held in this operation was identified as a resident of Kilinochchi, aged 29. The accused, along with Kerala cannabis was handed over to the Kilinochchi Police for onward legal action.
-
-◼️
-
-[Data](articles/c37c4b85.json)
-
-[Extended Data](ext_articles/c37c4b85.ext.json)
-
----
-
-### India provides more grants to build houses in Buddhist sacred town of Sri Lanka
-
-*2024-03-23 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98150/india-provides-more-grants-to-build-houses-in-buddhist-sacred-town-of-sri-lanka) · `en`
-
-“India has signed an additional grant of Sri Lanka Rupees (SLR) 150 million to build houses and infrastructure facilities in the Buddhist sacred town of Anuradhapura,” the Indian High Commission has said.
-
-Santosh Jha, the High Commissioner of India, and the relevant Sri Lankan officials on March 21 exchanged letters about the grant to the island nation.
-
-With this, the Indian government’s total commitment to the project currently stands at LKR 450 million for the construction of houses and infrastructure facilities in Sobitha Thero village of Anuradhapura.
-
-The late Sobhitha Thero was an iconic Buddhist monk in the island nation’s good governance movement.
-
-...
-
-[Data](articles/51981ec5.json)
-
-[Extended Data](ext_articles/51981ec5.ext.json)
 
 ---

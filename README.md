@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 01:33:24**
+As of **2024-03-25 01:50:07**
 
 ## Newspaper Stats
 
-*Scraped **14,903** Articles*
+*Scraped **14,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 800
 dailyftlk | 801
 islandlk | 820
 adalk | 1,267
-tamilmirrorlk | 1,792
+tamilmirrorlk | 1,793
 adaderanalk | 1,797
 virakesarilk | 2,088
 dailymirrorlk | 2,294
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,900 (100.0%) of 14,903 articles have been extended.
+14,903 (100.0%) of 14,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### மோட்டார் சைக்கிள்களை திருடிய நால்வர் கைது
+
+*2024-03-25 01:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோட்டார்-சைக்கிள்களை-திருடிய-நால்வர்-கைது/175-335128) · `ta`
+
+தம்புள்ளை – மிரிஸ்கோனியா பகுதியில் மோட்டார் சைக்கிள்களை திருடி பாகங்களாக விற்பனை செய்த 4 பேரை பொலிஸார் கைது செய்துள்ளனர்.
+
+குறித்த பகுதியில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பு நடவடிக்கையின் போதே அங்கு அறுபதுக்கும் மேற்பட்ட மோட்டார் சைக்கிள்கள் மற்றும் இலக்கத் தகடுகள் கைப்பற்றப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+வடமத்திய, வடமேற்கு மற்றும் கிழக்கு மாகாணங்களில் மோட்டார் சைக்கிள்கள் திருடப்பட்டு அந்த பகுதிக்கு கொண்டுவரப்பட்டுள்ளதாக பொலிஸாரின் விசாரணைகளில் தெரியவந்துள்ளது. (a)
+
+◼️
+
+[Data](articles/f653e5cb.json)
+
+---
 
 ### Easter Sunday terror attack: Maithri to appear before CID today
 
@@ -52,6 +68,8 @@ According to Police Spokesperson SSP Nihal Thalduwa, Sirisena has informed the P
 
 [Data](articles/c6ce503f.json)
 
+[Extended Data](ext_articles/c6ce503f.ext.json)
+
 ---
 
 ### President assures free land rights to 2 million by June
@@ -72,6 +90,8 @@ Under the leadership of President Ranil Wickremesinghe, the release of lands pre
 
 [Data](articles/d4413114.json)
 
+[Extended Data](ext_articles/d4413114.ext.json)
+
 ---
 
 ### Pakistan’s National Day celebration in Sri Lanka
@@ -89,6 +109,8 @@ High Commissioner of Pakistan, Major Gen. (R) Faheem-ul-Aziz HI (M), raised the 
 ...
 
 [Data](articles/85492da0.json)
+
+[Extended Data](ext_articles/85492da0.ext.json)
 
 ---
 
@@ -2215,33 +2237,5 @@ Onion prices in some wholesale markets in Maharashtra, the biggest onion-produci
 [Data](articles/de3fa7bf.json)
 
 [Extended Data](ext_articles/de3fa7bf.ext.json)
-
----
-
-### India extends ban on big onion exports
-
-*2024-03-24 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194867) · `si`
-
-India extends ban on big onion exports to control prices and maintain stocks, leading to a decline in domestic prices and an increase in international prices, especially in Sri Lanka.
-
-🟩
-
-The Government of India has decided to extend the ban on India to export big onions to export big onions.
-
-The Indian government has stated that the decision has been taken with the objective of controlling prices and maintaining big onion stocks in the local market.
-
-The Indian government banned big onions last December and was due to end on the 31st of the 31st.
-
-With the banning of big onions exports, the prices of big onion prices have been rapidly declined in the Indian market, reports say.
-
-The prices of big onion in many countries have increased due to this ban on India.
-
-It is reported that India's ban has been the main reason for the rapid increase in big onion prices in Sri Lanka.
-
-◼️
-
-[Data](articles/44560700.json)
-
-[Extended Data](ext_articles/44560700.ext.json)
 
 ---

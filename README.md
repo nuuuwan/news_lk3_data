@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 17:33:59**
+As of **2024-03-24 17:53:44**
 
 ## Newspaper Stats
 
-*Scraped **14,862** Articles*
+*Scraped **14,863** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 800
 islandlk | 820
 adalk | 1,266
 tamilmirrorlk | 1,791
-adaderanalk | 1,792
+adaderanalk | 1,793
 virakesarilk | 2,079
 dailymirrorlk | 2,285
 adaderanasinhalalk | 2,386
@@ -26,71 +26,107 @@ adaderanasinhalalk | 2,386
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,858 (100.0%) of 14,862 articles have been extended.
+14,862 (100.0%) of 14,863 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### அலைபேசி வெடித்தில் 4 குழந்​தைகள் பலி
+### Fire breaks out at clothing store outlet in Wellawatte
 
-*2024-03-24 17:14:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலைபேசி-வெடித்தில்-4-குழந்-தைகள்-பலி/175-335110) · `ta`
+*2024-03-24 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98174/fire-breaks-out-at-clothing-store-outlet-in-wellawatte) · `en`
 
-அலைபேசி வெடித்து சிதறி, தீப்பிடித்த விபத்தில் வீட்டில் இருந்த 4 குழந்தைகள் தீயில் கருகி உயிரிழந்துள்ளனர்.
+A sudden fire has reportedly broken out at a textile store in Colombo 06 this evening (24).
 
-அலைபேசிகளை சார்ஜ் செய்வதற்கு அலைபேசி தயாரிப்பு நிறுவனங்கள் பல்வேறு வழிகாட்டு நெறிமுறைகளை வகுத்துள்ளன.
+The fire brigade of the Colombo Municipal Council has dispatched 06 fire trucks to help extinguish the flames, according to Ada Derana reporter.
 
-இருப்பினும் சில நேரங்களில் அலைபேசிகளை  சார்ஜ் செய்யும் போது ஏற்படும் ஷார்ட் சர்க்யூட் காரணமாக அடிக்கடி அலைபேசிகள் வெடித்து சிதறும் சம்பவங்கள் அதிகரித்து வருகிறது.
+◼️
 
-இந்தநிலையில், இந்தியாவின் உத்தரப் பிரதேசத்தின் மீரட் நகருக்கு அருகே, அலைபேசி வெடித்ததில் ஏற்பட்ட தீ விபத்தில் 4 குழந்தைகள் உயிரிழந்துள்ள சம்பவம் பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
-
-உத்தரப் பிரதேச மாநிலம் மீரட் அருகே உள்ள பல்லவபுரம் பகுதியில் சனிக்கிழமை இரவு (23) ஜானி என்ற கூலித்தொழிலாளி தனது வீட்டில் அலைபேசியை சார்ஜ் போட்டிருந்தார். அப்போது வீட்டில் சரிகா (10), நிகரிகா (8), சன்ஸ்கர் (6), களு (4) ஆகிய 4 குழந்தைகளும் மனைவி பபிதாவும் உறங்கிக் கொண்டிருந்த நிலையில் திடீரென அலைபேசி வெடித்து சிதறியதாக கூறப்படுகிறது.
-
-...
-
-[Data](articles/78ab68b6.json)
+[Data](articles/74620985.json)
 
 ---
 
-### පොලීසියට කොටුවූ යතුරුපැදි හොරු
+### 4 children killed in cell phone explosion
+
+*2024-03-24 17:14:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலைபேசி-வெடித்தில்-4-குழந்-தைகள்-பலி/175-335110) · `ta`
+
+Four children and their mother died in a fire caused by a cell phone explosion in Meerut, India. The incident highlights the risks of charging cell phones without proper guidelines.
+
+🟩
+
+Four children in the house were killed in a fire.
+
+The mobile manufacturers have set a variety of guidelines for charging the mobile phones.
+
+However, sometimes there is an increasing number of incidents of explosion of cell phones due to short circuits when charging cell phones.
+
+In the meantime, the death of four children in a fire broke out near Meerut, India's Uttar Pradesh.
+
+Johnny, a mercenary worker on Saturday night (23) at Pallavapuram near Meerut, Uttar Pradesh. It is said that the four children and his wife Babita were sleeping in the house, Sarika (10), Nikarika (8), Sanskar (6) and Kalu (4).
+
+Due to the spread of the fire, four children have died after being admitted to the hospital, including the injured wife, and the wife is being treated in the intensive care unit and her husband is undergoing minor problems.
+
+◼️
+
+[Data](articles/78ab68b6.json)
+
+[Extended Data](ext_articles/78ab68b6.ext.json)
+
+---
+
+### Motorcycle thieves trapped by the police
 
 *2024-03-24 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194884) · `si`
 
-යතුරුපැදි සොරකම් කර කොටස් කර විකිණීමේ ජාවාරමක නිරතව සිටි සැකකරුවන් සිව්දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Police arrest 4 motorcycle thieves, recover 116 plates. Suspects, aged 29 and 44, from Pitulhayawa, Mirisagonia Junction, and Hindi Moragolla, Anuradhapura, were involved in a 10-year racket. The Anuradhapura Division Investigation Unit led the investigation. The suspects, including a segmenter and two stolen motorcycle Aviva users, were to be produced before the Nochchiyagama Magistrate.
 
-එහිදී ඔවුන් සන්තකයේ තිබී යතුරුපැදි අංක තහඩු 116ක් සොයාගැනීමට පොලීසිය සමත්ව ඇත.
+🟩
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ අනුරාධපුර ශ්‍රාවස්තිපුර, දඹුල්ල කිතුල්හිටියාව, මිරිස්ගෝනියාව හංදිය සහ හීන් මොරගොල්ල යන ප්‍රදේශවල පදිංචි වයස අවුරුදු 29ත් 44ත් හැවිරිදි වියේ පසුවන සැකකරුවන් පිරිසකි.
+Four suspects have been arrested by the police who were engaged in a racket of stock and selling motorbikes.
 
-අනුරාධපුර කොට්ඨාශ විමර්ශන ඒකකය විසින් සිදුකළ විමර්ශනයකදී මෙම පිරිස අත්අඩංගුවට ගෙන ඇත.
+Police have also recovered 116 motorcycle number plates in their possession.
 
-විමර්ශනවලදී වැඩිදුරටත් අනාවරණය වී ඇත්තේ මෙම ජාවාරම වසර 10කට ආසන්න කාලයක් තිස්සේ සිදුකර ඇති බවය.
+The arrested persons have been arrested by the age of 29 and 44 year old residents of Pitulhayawa, Mirisagonia Junction and Hindi Moragolla, Anuradhapura.
 
-අත්අඩංගුවට ගත යතුරුපැදිවල අංක තහඩුවලට අදාළ යතුරුපැදිවල නිත්‍යානුකූල හිමිකරුවන් සොයාගැනීම සඳහා මේ සම්බන්ධයෙන් මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව දැනුවත් කිරීමට නියමිතය.
+The group was arrested following a investigation by the Anuradhapura Division Investigation Unit.
 
-අත්අඩංගුවට ගත් සැකකරුවන් අද (24) නොච්චියාගම මහෙස්ත්‍රාත් හමුවට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
+Investigations have revealed that the racket had been done for nearly 10 years.
 
-මේ අතර යතුරුපැදි සොරකම් කර කොටස්කර අලෙවිකිරීමේ ජාවාරමේ නිරතවූ පුද්ගලයින් තිදෙනෙකු වැලිකඩ පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The Motorphone Transport Department is to be informed of the department of the Motorcyclists in the Motorcyclists in the Motorcyclists arrested.
+
+The suspects were to be produced before the Nochchiyagama Magistrate today (24).
+
+Welikada Police have arrested three persons who had stolen motorbikes and segmented marketing racketeer.
+
+The interrogator made by the arrested person was revealed that the segment was carried out by two stolen motorcycle Aviva.
 
 ...
 
 [Data](articles/478529fc.json)
 
+[Extended Data](ext_articles/478529fc.ext.json)
+
 ---
 
-### බංග්ලාදේශය අසීරු අඩියක
+### Bangladesh's difficulty
 
 *2024-03-24 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194883) · `si`
 
-ශ්‍රී ලංකාවට එරෙහි පළමු ටෙස්ට් තරගයේ තුන්වන දිනය නිමාවන විට බංග්ලාදේශ කණ්ඩායම කඩුලු 5ක් දැවී ලකුණු 47ක් රැස්කරගෙන සිටියේය.
+Bangladesh lost the first Test against Sri Lanka, scoring 47 runs and losing 5 wickets. Universal Fernando took 3 wickets for 13 runs. To win, Bangladesh needs to score 464 runs.
 
-එහිදී අගනා පන්දුයැවීමක නිරත වූ විශ්ව ප්‍රනාන්දු ලකුණු 13කට කඩුලු 3ක් දවාගැනීමට සමත්විය.
+🟩
 
-තරගයේ ජයග්‍රහණය ලැබීමට නම් බංග්ලාදේශයට තවත් ලකුණු 464ක් රැස්කළ යුතු වෙයි.
+By the completion of the first Test against Sri Lanka, Bangladesh scored 47 runs for the loss of 5 wickets.
+
+Universal Fernando took 3 wickets for 13 runs.
+
+Bangladesh should score 464 runs for Bangladesh to be won.
 
 ◼️
 
 [Data](articles/ebf25660.json)
+
+[Extended Data](ext_articles/ebf25660.ext.json)
 
 ---
 
@@ -111,6 +147,8 @@ In light of the development, the CID has summoned the former President to provid
 ◼️
 
 [Data](articles/111eae0e.json)
+
+[Extended Data](ext_articles/111eae0e.ext.json)
 
 ---
 
@@ -2119,25 +2157,5 @@ A special meeting will be held between Prime Minister Dinesh Gunawardena and Chi
 [Data](articles/f2d920f1.json)
 
 [Extended Data](ext_articles/f2d920f1.ext.json)
-
----
-
-### Government with simple majority not enough to make expected change: Tilvin
-
-*2024-03-23 20:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-with-simple-majority-not-enough-to-make-expected-change-Tilvin/108-279469) · `en`
-
-Puttalam, March 23 (Daily Mirror)- Claiming that a government with a simple majority is not sufficent to make the expected social change and revive the bankrupt economy, NPP General Secretary Tilvin Silva said today that the NPP hopes to form a stronger government.
-
-Speaking at the Puttalam District Women's Convention, he said the NPP must secure strong power to do anything.
-
-"We have already won. But, we think there is no use of forming a government with 113 seats to make the expected social change. We must have stronger power to do whatever we want. Previous governments obtained stronger power to destroy the country. But, we need to obtain stronger power to restore the bankrupt country," he said.
-
-De Silva said they will get together and form the first People's Government in Sri Lanka with massive people's force and trust, which cannot be toppled by rivals through acts of sabotage.
-
-◼️
-
-[Data](articles/16c48d92.json)
-
-[Extended Data](ext_articles/16c48d92.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 21:33:30**
+As of **2024-03-24 21:52:06**
 
 ## Newspaper Stats
 
-*Scraped **14,885** Articles*
+*Scraped **14,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 792
 economynextcom | 800
 islandlk | 820
-adalk | 1,266
+adalk | 1,267
 tamilmirrorlk | 1,792
 adaderanalk | 1,796
 virakesarilk | 2,084
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,883 (100.0%) of 14,885 articles have been extended.
+14,885 (100.0%) of 14,886 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -65,6 +65,8 @@ Minister of Education Susil Premajayantha, University Grants Commission Chairman
 ◼️
 
 [Data](articles/89dfb274.json)
+
+[Extended Data](ext_articles/89dfb274.ext.json)
 
 ---
 
@@ -129,6 +131,8 @@ The police said the reasons for his extreme step were not known. CCTV footage fr
 ◼️
 
 [Data](articles/130be54f.json)
+
+[Extended Data](ext_articles/130be54f.ext.json)
 
 ---
 
@@ -749,6 +753,20 @@ The government has allocated 16,600 million rupees directly to the nine provinci
 [Data](articles/a133af9e.json)
 
 [Extended Data](ext_articles/a133af9e.ext.json)
+
+---
+
+### ප්‍රාථමික අංශයේ පාසල් දරුවන්ට හෙට සිට ආහාර වේලක්
+
+*2024-03-24 15:49:00* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රාථමික-අංශයේ-පාසල්-දරුවන්ට-හෙට-සිට-ආහාර-වේලක්/11-408771) · `si`
+
+දිවයිනේ  9,134ක ප්‍රාථමික ශ්‍රේණිවල සියලු සිසුන් හා සියයට අඩු සිසුන් සංඛ්‍යාවක් සිටින සියලු පාසල් ආවරණය වන පරිදි පළමු ශ්‍රේණියේ සිට පහ ශ්‍රේණිය දක්වා  දරුවන්ට පෝෂණවේදීන්ගේ නිර්දේශ අනුව ප්‍රධාන ආහාර වේලක් ලබාදීමේ වැඩපිළිවෙල හෙට (25) දිනයේ සිට  ක්‍රියාත්මක කරන  බව අධ්‍යාපන අමාත්‍යංශය සඳහන් කළේය..
+
+ලෝක ආහාර වැඩසටහන සහ එක්සත් ජනපද කෘෂිකර්ම දෙපාර්තමේන්තුව ඇතුළු සංවිධාන කිහිපයක් අනුග්‍රහය දක්වා ඇති අතර මේ සඳහා රුපියල් මිලියන 16,600ක මුදලක් අයවැය මඟින්  පළාත් සභා  වෙත වෙන්කර ඇති බව අධ්‍යාපන අමාත්‍යාංශය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/a03f88f4.json)
 
 ---
 
@@ -2187,21 +2205,5 @@ It said: Ex-Pack took this opportunity to express its gratitude and support towa
 [Data](articles/9133b534.json)
 
 [Extended Data](ext_articles/9133b534.ext.json)
-
----
-
-### Himalaya re-launches purifying Neem Face Wash
-
-*2024-03-24 05:11:00* · [`islandlk`](http://island.lk/himalaya-re-launches-purifying-neem-face-wash/) · `en`
-
-Himalaya Wellness Company has recently announced the re-launch of Himalaya Purifying Neem Face Wash in Sri Lanka. The product is available in two size variants: 50ml and 100ml packs. It has active ingredients of a combination of neem and turmeric, having strong inherent bacteria-fighting characteristics that kill 99.9% of pimple-creating bacteria and promise pimple prevention action from the first day of use.
-
-Himalaya Purifying Neem Facewash is exclusively distributed in Sri Lanka by the Scan Product Division of C. W. Mackie PLC. In view of the re-launch of the product in Sri Lanka, the Country Manager for Himalaya Wellness Company for Sri Lanka and the Maldives, Ravi Kumar G, commented that “It is of immense pleasure and pride to re-launch one of the most successful products of Himalaya for the consumers of Sri Lanka.
-
-...
-
-[Data](articles/a7f7c21e.json)
-
-[Extended Data](ext_articles/a7f7c21e.ext.json)
 
 ---

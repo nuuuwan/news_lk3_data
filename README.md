@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 03:03:08**
+As of **2024-03-25 03:17:59**
 
 ## Newspaper Stats
 
-*Scraped **14,912** Articles*
+*Scraped **14,914** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 1,267
 tamilmirrorlk | 1,793
 adaderanalk | 1,797
 virakesarilk | 2,090
-dailymirrorlk | 2,294
+dailymirrorlk | 2,296
 adaderanasinhalalk | 2,393
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,911 (100.0%) of 14,912 articles have been extended.
+14,912 (100.0%) of 14,914 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### Human rights in Lanka and oil deposits in Palestine - EDITORIAL
+
+*2024-03-25 02:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Human-rights-in-Lanka-and-oil-deposits-in-Palestine-EDITORIAL/172-279494) · `en`
+
+On September 6, 2023, the report of the United Nations High Commissioner for Human Rights castigated Sri Lanka saying that the country suffers from a continuing accountability deficit- be it for war crime atrocities, more recent human rights violations, corruption, or abuse of power- which must be addressed for the country to move forward.
+
+In Sri Lanka’s near three decade-long civil war, around 40,000 Tamil civilians reportedly died of military attacks. Thousands of others were wounded, while some were critical. Women suffered the most, and it is alleged that rape was used as a weapon of war.
+
+Hundreds of Sinhalese civilians too were killed by armed Tamil militant groups -mainly the Liberation Tigers of Tamil Eelam (LTTE)- during the course of the three decade-long war.
+
+Since the civil war ended, there has been no credible government mechanism set up to apprehend these different merchants of death.
+
+...
+
+[Data](articles/929d200f.json)
+
+---
+
+### Trump: A ‘chaos agent’ in a country at war with itself
+
+*2024-03-25 02:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Trump-A-chaos-agent-in-a-country-at-war-with-itself/172-279493) · `en`
+
+Donald Trump owns the Republican Party, and if elections were held now, Trump would win as no other Republican contender can even come close. Photo (C) The New York Times
+
+In a recent column, I discussed the worsening American economy and dire forecasts of a looming recession. I said too, that there is more to the health of a country than money and economics. In fact, when the going is good and the sun is shining, countries and people get carried away and start making mistakes that lead to their downfall and hard times.
+
+Political analyst Ian Bremmer has much that is enlightening to say about the socio-political malaise that troubles the US. In a YouTube interview with Tom Bilyeu, he said that the biggest threat to the US comes not from Russia or China but from within– the US is waging war against itself.
+
+...
+
+[Data](articles/25ade833.json)
+
+---
 
 ### A time to remember: the therapeutic power of emotion recollected in not-quite tranquillity
 
@@ -2193,49 +2227,5 @@ The full amount of these weapons is paid at the time of a number of weapons were
 [Data](articles/286dfdb3.json)
 
 [Extended Data](ext_articles/286dfdb3.ext.json)
-
----
-
-### New reforms vital for country’s economic recovery - President
-
-*2024-03-24 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98165/new-reforms-vital-for-countrys-economic-recovery-president) · `en`
-
-President Ranil Wickremesinghe emphasized the necessity of a new economic reform program for the country’s economic recovery. He urged collective support from all citizens to prevent the next generation from inheriting the hardships of past economic crises, the President’s Media Division (PMD) said.
-
-The President reminisced about inheriting a country others were reluctant to lead, highlighting that while some focused on their political aspirations, his concerns were committed towards the welfare of the nation’s future.
-
-President Ranil Wickremesinghe made these remarks while participating in a friendly discussion organized by the ‘United Youth Union’ on the theme ‘Future of our Youth’. The event took place yesterday (23) in Polonnaruwa.
-
-...
-
-[Data](articles/b2a36564.json)
-
-[Extended Data](ext_articles/b2a36564.ext.json)
-
----
-
-### Central Bank Compliance to Revise Salary
-
-*2024-03-24 10:40:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளத்-திருத்தம்-செய்ய-மத்திய-வங்கி-இணக்கம்/175-335077) · `ta`
-
-The Central Bank of Sri Lanka (CBSL) is revising salaries following a controversial joint venture between the ruling council and employee representatives. Senior CBSL officials and professionals have decided to correct their salaries, with the General Finance Committee (COPF) set to review the matter. The COPF president suggests an independent committee review the salary increase. CBSL, under the CBSL Act No. 16 of 2023, operates autonomously, focusing on domestic pricing stability and financial system protection.
-
-🟩
-
-The latest salary amendment for the Central Bank of Sri Lanka (CBSL) of the Central Bank of Sri Lanka (CBSL) has created a major controversy among the public following the joint venture between the ruling council and the employee representatives.
-
-In response to this environment, most senior administration and professionals of CBSL made a joint decision to consider the correction of their salary.
-
-The decision was made to the General Finance Committee (COPF) on 16 March 2024 before the recommendations made by COPF.
-
-The COPF president, meanwhile, has suggested that a joint agreement to increase the salary of CBSL employees should be reviewed by an independent committee comprising all staff of CBSL.
-
-Previously, under the Monetary Act No. 58 of 1949 and now under the CBSL Act No. 16 of 2023, the CBSL, the country's supreme financial institution, operates autonomously using its powers.
-
-...
-
-[Data](articles/4b5ef2c6.json)
-
-[Extended Data](ext_articles/4b5ef2c6.ext.json)
 
 ---

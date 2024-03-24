@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 16:49:09**
+As of **2024-03-24 17:02:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,857 (100.0%) of 14,858 articles have been extended.
+14,858 (100.0%) of 14,858 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,13 +36,15 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-03-24 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98173/galle-road-blocked-at-panadura-due-to-protest-against-liquor-shop) · `en`
 
-Vehicular movement on the Galle Road has been blocked from near the Olcott statue in Panadura as a result of a protest by a group, Ada Derana reporter said.
+Vehicular movement on the Galle Road has been blocked from near the Olcott statue in Panadura as a result of a protest by a group including Buddhist monks and laymen, Ada Derana reporter said.
 
 The protest is reportedly being held against the opening of a new liquor shop in the Panadura town.
 
 ◼️
 
 [Data](articles/ef484a88.json)
+
+[Extended Data](ext_articles/ef484a88.ext.json)
 
 ---
 

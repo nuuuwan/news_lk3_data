@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 16:33:29**
+As of **2024-03-24 16:49:09**
 
 ## Newspaper Stats
 
-*Scraped **14,857** Articles*
+*Scraped **14,858** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 800
 islandlk | 820
 adalk | 1,266
 tamilmirrorlk | 1,790
-adaderanalk | 1,791
+adaderanalk | 1,792
 virakesarilk | 2,079
 dailymirrorlk | 2,284
 adaderanasinhalalk | 2,384
@@ -26,23 +26,43 @@ adaderanasinhalalk | 2,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,856 (100.0%) of 14,857 articles have been extended.
+14,857 (100.0%) of 14,858 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### පානදුරෙන් ගාලුපාර අවහිර වෙයි
+### Galle Road blocked at Panadura due to protest against liquor shop
+
+*2024-03-24 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98173/galle-road-blocked-at-panadura-due-to-protest-against-liquor-shop) · `en`
+
+Vehicular movement on the Galle Road has been blocked from near the Olcott statue in Panadura as a result of a protest by a group, Ada Derana reporter said.
+
+The protest is reportedly being held against the opening of a new liquor shop in the Panadura town.
+
+◼️
+
+[Data](articles/ef484a88.json)
+
+---
+
+### Galle Road blocked from Panadura
 
 *2024-03-24 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194882) · `si`
 
-පානදුර ප්‍රදේශයේ පැවැත්වෙන විරෝධතාවයක් හේතුවෙන් ගාලු පාරේ රථවාහන ධාවනයට බාධා එල්ලවී තිබේ.
+Traffic on Galle Road is blocked due to a protest in Panadura against the launch of a new area.
 
-මත්පැන්හලක් ආරම්භ කිරීමට එරෙහිව පානදුර ප්‍රදේශයේ ඉදිකර ඇති ඕල්කට් පිළිරුව ඉදිරිපිට මෙලෙස විරෝධතාවයේ නිරත වෙයි.
+🟩
+
+Traffic on Galle Road has been interrupted due to a protest in Panadura.
+
+Protest in front of the analtt statue built in Panadura area against the launch of an area.
 
 ◼️
 
 [Data](articles/7f99cc13.json)
+
+[Extended Data](ext_articles/7f99cc13.ext.json)
 
 ---
 
@@ -2131,27 +2151,5 @@ The Minister made this statement while responding to questions raised by journal
 [Data](articles/b980d051.json)
 
 [Extended Data](ext_articles/b980d051.ext.json)
-
----
-
-### PM Dinesh to visit China next week, will seek to deepen political mutual trust
-
-*2024-03-23 19:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98157/pm-dinesh-to-visit-china-next-week-will-seek-to-deepen-political-mutual-trust) · `en`
-
-Sri Lanka’s Prime Minister Dinesh Gunawardena will pay an official visit to China from 25 - 30 March at the invitation of Chinese Premier, Li Qiang.
-
-This was announced by Chinese Foreign Ministry Spokesperson Lin Jian, during a regular press conference on Friday (March 22).
-
-During the visit, PM Gunawardena is scheduled to meet with Chinese President Xi Jinping, Premier Li Qiang and the Chairman of Standing Committee of the National People’s Congress, Zhao Leji.
-
-The two sides will exchange in in-depth views on carrying forward traditional friendship, deepening political mutual trust, expanding practical cooperation, and international and regional issues of common interest, Lin told reporters in Beijing.
-
-Emphasizing that China attaches great importance to its relations with Sri Lanka, he said China stands ready to work with Sri Lanka implement the important common understandings reached by leaders of the two countries.
-
-...
-
-[Data](articles/ef3ca20c.json)
-
-[Extended Data](ext_articles/ef3ca20c.ext.json)
 
 ---

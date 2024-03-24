@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 12:17:52**
+As of **2024-03-24 12:33:38**
 
 ## Newspaper Stats
 
-*Scraped **14,823** Articles*
+*Scraped **14,825** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 135
+colombotelegraphcom | 136
 bbccomsinhala | 161
 dbsjeyarajcom | 191
 newsfirstlk | 363
@@ -19,32 +19,38 @@ adalk | 1,264
 tamilmirrorlk | 1,785
 adaderanalk | 1,787
 virakesarilk | 2,077
-dailymirrorlk | 2,277
+dailymirrorlk | 2,278
 adaderanasinhalalk | 2,373
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,818 (100.0%) of 14,823 articles have been extended.
+14,823 (100.0%) of 14,825 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### ஹெரோயின் போதைப்பொருளுடன் இருவர்  கைது!
+### Two arrested with heroin drug
 
 *2024-03-24 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179565) · `ta`
 
-அதுருகிரிய பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட  சுற்றி வளைப்பின்போதே  இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+Two individuals, aged 22 and 41, from Kaduwela and Homagama, were arrested for heroin possession. Police in Athurukiriya seized 7 grams of heroin from each.
 
-கைதான இருவரில் ஒருவரிடமிருந்து  7 கிராம் 100 மில்லி கிராம் ஹெரொயின் போதைப்பொருளும்  மற்றவரிடமிருந்து  7 கிராம் 560 மில்லி கிராம் ஹெரோயின் போதைப் பொருளும்  கைப்பற்றப்பட்டுள்ளன.
+🟩
 
-இவ்வாறு கைது செய்யப்பட்டவர்கள் கடுவலை மற்றும் ஹோமாகம பிரதேசங்களைச் சேர்ந்த 22 மற்றும் 41 வயதுடையவர்களாவர்.
+They have been arrested while the surroundings carried out on the basis of information received by the Athurukiriya police.
+
+7 grams of heroin from one of the two arrested has been seized by 7 grams of heroin and 7 grams of heroin from the other.
+
+The arrested were 22 and 41 years old from Kaduwela and Homagama areas.
 
 ◼️
 
 [Data](articles/da12f5de.json)
+
+[Extended Data](ext_articles/da12f5de.ext.json)
 
 ---
 
@@ -64,25 +70,33 @@ In a televised address, Putin said 11 people had been detained, including the fo
 
 [Data](articles/0f14ce46.json)
 
+[Extended Data](ext_articles/0f14ce46.ext.json)
+
 ---
 
-### இந்தியாவில் பெரிய வெங்காயம் ஏற்றுமதி தடை நீடிப்பு
+### Large onion export ban in India
 
 *2024-03-24 11:48:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவில்-பெரிய-வெங்காயம்-ஏற்றுமதி-தடை-நீடிப்பு/175-335090) · `ta`
 
-பெரிய வெங்காயம் ஏற்றுமதிக்கு இந்தியா விதித்துள்ள தடையை மறு அறிவித்தல் வரை நீடிக்க இந்திய அரசாங்கம் தீர்மானித்துள்ளது.
+India extends ban on big onion exports to control price hike, aiming to keep onions in the country. The decision, initially set to end in December, is now indefinitely extended to curb election impact and maintain prices. India is the world's top onion exporter.
 
-விலைவாசி உயர்வைக் கட்டுப்படுத்தவும், உள்நாட்டில் வெங்காயம் அதிக அளவில் இருப்பில் இருப்பதற்காகவும் இந்த முடிவு எடுக்கப்பட்டுள்ளதாக இந்திய அரசு கூறுகிறது.
+🟩
 
-கடந்த டிசெம்பரில், இந்திய அரசு பெரிய வெங்காய ஏற்றுமதிக்கு தடை விதித்தது, வரும் 31ம் திகதியுடன் இந்த தடை முடிவடைய இருந்தது. பெரிய வெங்காய ஏற்றுமதிக்கு தடை விதிக்கப்பட்டதால், இந்திய சந்தையில், பெரிய வெங்காயத்தின் விலை வேகமாக சரிந்தது. எதிர்வரும் தேர்தலை குறி வைத்து, விலை உயர்வைக் கட்டுப்படுத்தும் நோக்கில் ஏற்றுமதி தடையை நீடிக்க இந்திய அரசு நடவடிக்கை எடுத்துள்ளதாகத் தெரிவிக்கப்படுகிறது.
+The Indian government has decided to extend the ban on India's ban on big onion exports.
 
-உலக அளவில் வெங்காய ஏற்றுமதியில் இந்தியா முதலிடத்தில் உள்ளது.இந்த தடை காரணமாக பல நாடுகளில் வெங்காயத்தின் விலை உயர்ந்துள்ளது.
+The Government of India says that the decision has been taken to control the price hike and to keep the onion at home.
 
-இலங்கையில் பெரிய வெங்காயத்தின் விலை வேகமாக அதிகரித்து வருவதற்கு இந்தியா விதித்துள்ள தடையே பிரதான காரணம் என தெரிவிக்கப்படுகின்றது.
+Last December, the Indian government banned big onion exports, and the ban was to end on the 31st.. In the Indian market, the prices of big onions fell rapidly due to the ban on big onion exports. It is reported that the Government of India has taken steps to extend the export ban to curb the upcoming election and curb the price hike.
+
+India is the number one in the world of onion exports.
+
+The main reason for India's imposition of big onions in Sri Lanka is rapidly rising.
 
 ◼️
 
 [Data](articles/04c60066.json)
+
+[Extended Data](ext_articles/04c60066.ext.json)
 
 ---
 
@@ -150,6 +164,8 @@ However, Minister of Public Security Tiran Alles had ordered IGP Deshabandu Tenn
 
 [Data](articles/2b44ca31.json)
 
+[Extended Data](ext_articles/2b44ca31.ext.json)
+
 ---
 
 ### Sri Lanka’s economy should be main issue in next election - Semasinghe
@@ -165,6 +181,26 @@ Speaking to the media in Anuradhapura yesterday (23), the State Minister said a 
 ◼️
 
 [Data](articles/9d0aba2d.json)
+
+[Extended Data](ext_articles/9d0aba2d.ext.json)
+
+---
+
+### CID to record statement from Maithripala Sirisena over controversial remark
+
+*2024-03-24 11:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-to-record-statement-from-Maithripala-Sirisena-over-controversial-remark/108-279474) · `en`
+
+Colombo, March 24 (Daily Mirror) - The Criminal Investigation Department (CID) will record a statement from former President Maithripala Sirisena tomorrow regarding his recent remark on the Easter Sunday bombings in 2019 where he claimed that he was “well aware” of the true perpetrators.
+
+Public Security Minister Tiran Alles yesterday ordered IGP Deshabandu Tennakoon to conduct an immediate investigation into the recent remark by the former President.
+
+Accordingly, the IGP ordered the CID to launch a probe into the former President's disclosure.
+
+Former President Maithripala Sirisena on Friday disclosed that he is well aware of the true perpetrators behind the Easter Sunday bombings in 2019.
+
+◼️
+
+[Data](articles/6025bab4.json)
 
 ---
 
@@ -695,6 +731,20 @@ Under a new law the agency has got powers to trigger up to 7 percent inflation a
 [Data](articles/491b0a8c.json)
 
 [Extended Data](ext_articles/491b0a8c.ext.json)
+
+---
+
+### Is Trump Likely To Be The Next American President?
+
+*2024-03-24 06:26:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-trump-likely-to-be-the-next-american-president/) · `en`
+
+Trump is not liked by most Americans, including most Republicans who support him because, though they agree that his behaviour is grotesque, he seems to be an election winner. Depending on the outcome of legal wrangles before the courts it is even conceivable that he may be the first person to contest the presidency from behind bars! (Who knows; it may increase his sympathy vote!). On Tuesday 5 March (Super Tuesday) when 15 to 16 states choose their party delegates to back a candidate for nomination both Trump and Biden scored resounding victories as Republican and Democratic nominees, respectively. Trump’s case is more important than Biden’s for reasons I will explain anon.
+
+Trump can be notoriously and dangerously inconsistent. (Someone quipped that the apps for the “Make America Great Again” logo are made in China!). Russia is pulling all stops in supporting him as evident from RT (Russian TV), Kremlin spokesmen and Putin himself. They are going to burn their fingers.
+
+...
+
+[Data](articles/33ab2768.json)
 
 ---
 
@@ -2175,49 +2225,5 @@ Also, some places over 75 millisely rains at some places in Ratnapura, Kalutara,
 [Data](articles/d2679025.json)
 
 [Extended Data](ext_articles/d2679025.ext.json)
-
----
-
-### Arrest
-
-*2024-03-23 14:37:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியை-கைது-செய்/175-335050) · `ta`
-
-Mano Ganesan and Kavinda Jayawardena demand immediate arrest and investigation of the person claiming to know the mastermind behind the Easter Sunday attack, asserting Maithripala Sirisena's responsibility.
-
-🟩
-
-Opposition MPs Mano Ganesan and Kavinda Jayawardena today demanded that former President Maithripala Sirisena immediately arrest and investigate who said he knew who was the brainchild of the Easter Sunday attack.
-
-◼️
-
-[Data](articles/572958f2.json)
-
-[Extended Data](ext_articles/572958f2.ext.json)
-
----
-
-### Sri Lanka condemns Moscow attack
-
-*2024-03-23 14:35:31* · [`adalk`](https://www.ada.lk/breaking_news/මොස්කව්-ප්‍රහාරය-ලංකාව-හෙළා-දකියි/11-408765) · `si`
-
-Sri Lanka condemns the Moscow attack, deploring home violence against civilians. The Ministry of External Affairs expresses solidarity with the Russian Federation, calling for global condemnation of terrorism and collaboration for peace and security.
-
-🟩
-
-The Ministry of External Affairs says Sri Lanka is strongly condemned at the Crocus City Shop Center in Moscow, Russia.
-
-The Announcement issued by the Ministry of External Affairs states that such home violence is disgusting against civilians.
-
-The Ministry of External Affairs says that the Government of Sri Lanka and the people of the people of the affected people and the government of the Russian Federation.
-
-Ministry of External Affairs of the Ministry of External Tourism to ensure that terrorism should be clearly condemned by all its ways and publications and to collaborate with the international community to collaborate with peace and security.says.
-
-The Ministry of External Affairs further states that all the injured are a speedy recovery.
-
-◼️
-
-[Data](articles/b5b8d5af.json)
-
-[Extended Data](ext_articles/b5b8d5af.ext.json)
 
 ---

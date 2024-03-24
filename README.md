@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 16:17:45**
+As of **2024-03-24 16:33:29**
 
 ## Newspaper Stats
 
-*Scraped **14,856** Articles*
+*Scraped **14,857** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ tamilmirrorlk | 1,790
 adaderanalk | 1,791
 virakesarilk | 2,079
 dailymirrorlk | 2,284
-adaderanasinhalalk | 2,383
+adaderanasinhalalk | 2,384
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,855 (100.0%) of 14,856 articles have been extended.
+14,856 (100.0%) of 14,857 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### පානදුරෙන් ගාලුපාර අවහිර වෙයි
+
+*2024-03-24 16:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194882) · `si`
+
+පානදුර ප්‍රදේශයේ පැවැත්වෙන විරෝධතාවයක් හේතුවෙන් ගාලු පාරේ රථවාහන ධාවනයට බාධා එල්ලවී තිබේ.
+
+මත්පැන්හලක් ආරම්භ කිරීමට එරෙහිව පානදුර ප්‍රදේශයේ ඉදිකර ඇති ඕල්කට් පිළිරුව ඉදිරිපිට මෙලෙස විරෝධතාවයේ නිරත වෙයි.
+
+◼️
+
+[Data](articles/7f99cc13.json)
+
+---
 
 ### Men's corpse recovery in Haputhal
 
@@ -84,23 +98,29 @@ Accordingly, Bangladesh scored 511 runs in the first Test.
 
 ---
 
-### நாளை முதல் ஆரம்ப பிரிவு மாணவர்களுக்கு காலை உணவு வழங்கும் திட்டம்!
+### Breakfast for students from tomorrow
 
 *2024-03-24 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/179587) · `ta`
 
-ஆரம்ப பிரிவு முதல் தரம் ஐந்து வரையிலான சிறார்களுக்கு நாளை திங்கட்கிழமை  முதல் பிரதான காலை உணவு வழங்கும் திட்டம் கல்வி அமைச்சினால் ஏற்பாடு செய்யப்பட்டுள்ளது.
+The Ministry of Education will provide breakfast for students from Grade 1 to 5, from 7.30 am to 8.30 am, with 1.6 million students benefiting from 9,134 schools. The government will spend 16.6 billion rupees on this initiative, focusing on nutrition and hygiene.
 
-ஊட்டச்சத்து நிபுணர்களின் ஆலோசனையின் அடிப்படையில் காலை 7.30 மணி முதல் 8.30 மணி வரை காலை உணவு வழங்குவதற்கு ஏற்பாடு செய்யப்பட்டுள்ளது.
+🟩
 
-உணவு வழங்கும் திட்டத்தில் போசாக்கு மற்றும் சுகாதாரம் என்பவற்றில் உணவு முறைமை உயரிய மட்டத்தில் பேணுவதற்கு கல்வி அமைச்சு கவனம் செலுத்தியுள்ளதோடு , அரசாங்கத்தினால் இதற்காக 16.6 பில்லியன் ரூபா தொகை செலவிடப்படவுள்ளது.
+The Ministry of Education has organized the main breakfast for minors from the initial section to the Grade five.
 
-9,134 அரச பாடசாலைகள் மற்றும் 100க்கு குறைவான மாணவர்களைக் கொண்ட அனைத்து பாடசாலைகளினதும் ஆரம்ப வகுப்பு மாணவர்களை உள்ளடக்கிய 1.6 மில்லியன் பாடசாலை மாணவர்கள் இந்த திட்டத்தில் பயனடைவார்கள் என்று கூறப்படுகின்றது.
+Breakfast is arranged for breakfast from 7.30 am to 8.30 pm on the advice of nutritionists.
 
-இந்தச் செயற் திட்டத்திற்காக ஒன்பது மாகாண சபைகளுக்கும் அரசாங்கத்தினால் நேரடியாகவே 16,600 மில்லியன் ரூபா ஒதுக்கீடு செய்யப்பட்டுள்ளது.
+The Ministry of Education is focused on maintaining the food system at nutrition and hygiene in the food scheme and the government will spend 16.6 billion rupees for this.
+
+It is said that 1.6 million schoolchildren will benefit from the primary class students from 9,134 government schools and less than 100 students.
+
+The government has allocated 16,600 million rupees directly to the nine provincial councils for this project.
 
 ◼️
 
 [Data](articles/a133af9e.json)
+
+[Extended Data](ext_articles/a133af9e.ext.json)
 
 ---
 
@@ -2133,23 +2153,5 @@ Emphasizing that China attaches great importance to its relations with Sri Lanka
 [Data](articles/ef3ca20c.json)
 
 [Extended Data](ext_articles/ef3ca20c.ext.json)
-
----
-
-### Order to inquire into Maithriya
-
-*2024-03-23 19:06:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியிடம்-விசாரிக்க-உத்தரவு/175-335054) · `ta`
-
-Sirisena ordered to probe recent Easter Sunday bombing comments.
-
-🟩
-
-Former President Maithripala Sirisena has been ordered to investigate the recent comments on the Easter Sunday bombing.
-
-◼️
-
-[Data](articles/fac0903a.json)
-
-[Extended Data](ext_articles/fac0903a.ext.json)
 
 ---

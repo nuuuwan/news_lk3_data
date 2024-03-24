@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 22:03:07**
+As of **2024-03-24 22:17:59**
 
 ## Newspaper Stats
 
-*Scraped **14,889** Articles*
+*Scraped **14,890** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,57 +20,97 @@ tamilmirrorlk | 1,792
 adaderanalk | 1,796
 virakesarilk | 2,087
 dailymirrorlk | 2,293
-adaderanasinhalalk | 2,391
+adaderanasinhalalk | 2,392
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,886 (100.0%) of 14,889 articles have been extended.
+14,889 (100.0%) of 14,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### தனஞ்சய, கமிந்து 2 இன்னிங்ஸ்களிலும் சதங்கள் குவித்து சாதனை; வெற்றியின் விளிம்பில் இலங்கை
+### Dhananjaya, Commun, a record of centuries in 2 innings;Sri Lanka on the verge of success
 
 *2024-03-24 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179606) · `ta`
 
-பங்களாதேஷுக்கு எதிராக சில்ஹெட் சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் நடைபெற்றுவரும் முதலாவது ஐசிசி டெஸ்ட் சம்பியன்ஷிப் கிரிக்கெட் போட்டியில் 2 இன்னிங்ஸ்களிலும் அணித் தலைவர் தனஞ்சய டி சில்வாவும் கமிந்து மெண்டிஸும் சதங்கள் குவித்து சாதனை படைக்க, இலங்கை வெற்றியை அண்மித்துள்ளது.
+Sri Lanka's Tanjaya de Silva and Kamindu Mendis scored centuries in both innings at the ICC Test Championship, setting a record. Sri Lanka is expected to win, but rain threatens the final day.
 
-அதேவேளை, பந்துவீச்சில் விஷ்வா பெர்னாண்டோ, லஹிரு குமார, கசுன் ராஜித்த ஆகியோர் தங்களாலான அதிசிறந்த பங்களிப்பை வழங்கி பங்காதேஷை திணறச் செய்துள்ளனர்.
+🟩
 
-தனஞ்சய  டி சில்வா, கமிந்து மெண்டிஸ் ஆகிய இருவரும் 2 இன்னிங்ஸ்களிலும் சதங்கள் குவித்ததன் பலனாக பங்களாதேஷின் வெற்றி இலக்கு மிகவும் கடினமான 511 ஓட்டங்களாக நிர்ணயிக்கப்பட்டது.
+Sri Lanka has recently won a record of scoring centuries by team captain Tanjaya de Silva and Kamundu Mendis in 2 innings at the first ICC Test Championship at the Chilhead International Cricket Stadium against Bangladesh.
 
-இந்த வெற்றி இலக்கை நோக்கி மூன்றாம் நாள் கடைசி ஆட்டநேர பகுதியில் இரண்டாவது இன்னிங்ஸை ஆரம்பித்த பங்களாதேஷ் ஆட்ட நேர முடிவில் 5 விக்கெட்களை இழந்து 47 ஓட்டங்களைப் பெற்று படுதோல்வியை எதிர்கொண்டுள்ளது.
+Meanwhile, Vishwa Fernando, Lahiru Kumara and Kasun Rajitha have made their best contribution to Pankadeh in bowling.
 
-விஷ்வா பெர்னாண்டோ 13 ஓட்டங்களுக்கு 3 விக்கெட்களையும் கசுன் ராஜித்த, லஹிரு குமார ஆகியோர் தலா ஒரு விக்கெட்டையும் கைப்பற்றியுள்ளனர்.
+Bangladesh's victory target was set to be the most difficult 511 runs, as both Tanjaya de Silva and Kamindu Mendis scored centuries in both innings.
+
+Bangladesh started the second innings in the last day of the third day in the third day of the match.
+
+Vishwa Fernando took 3 wickets for 13 runs while Kasun Rajitha and Lahiru Kumara took one wicket each.
+
+Sri Lanka is expected to win easily with the remaining two more days. However, it is expected to rain in the daytime on Monday (25), the fourth day of the competition.. Before that, it remains to be seen whether Sri Lanka will win the remaining 5 wickets of Bangladesh.
 
 ...
 
 [Data](articles/8da520f3.json)
 
+[Extended Data](ext_articles/8da520f3.ext.json)
+
 ---
 
-### சஞ்சு செம்சனின் அபார துடுப்பாட்டத்தால் ராஜஸ்தான் வெற்றி
+### රුසියාවම කතාවෙන පුංචි වීරයා මෙන්න
 
-*2024-03-24 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/179607) · `ta`
+*2024-03-24 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194890) · `si`
 
-லக்னோவ் சுப்பர் ஜயன்ட்ஸ் அணிக்கு எதிராக ஜய்பூர், சவாய் மான்சிங் விளையாட்டரங்கில் இன்று ஞாயிற்றுக்கிழமை (24) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 3ஆவது போட்டியில் அணித் தலைவர் சஞ்சு செம்சன் குவித்த அபார அரைச் சதத்தின் உதவியுடன் ராஜஸ்தான் றோயல்ஸ் 20 ஓட்டங்களால் வெற்றிபெற்றது.
+රුසියාවේ ත්‍රස්ත ප්‍රහාරය සිදුවන අවස්ථාවේදී රඟහලේ රැඳී සිටි 100කට අධික පිරිසකට ඉන් පිටතට රැගෙන යාමට සහාය දී ඔවුන්ගේ ජීවිත බේරාගත් 15 හැවිරිදි පාසල් සිසුවෙක් සම්බන්ධයෙන් රුසියානු මාධ්‍ය වාර්තා කර තිබේ.
 
-இப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய ராஜஸ்தான் றோயல்ஸ் 20 ஓவர்களில் 4 விக்கெட்களை மாத்திரம் இழந்து 194 ஓட்டங்களைக் குவித்தது.
+ඉස්ලාම් ඛලිලොව් නම් මෙම පාසල් සිසුවා ප්‍රහාරය එල්ලවූ රඟහලේ අර්ධකාලීන රැකියාවක නිරතව සිටින අතරතුර මෙම සිද්ධියට මුහුණ පා තිබුණි.
 
-சஞ்ச செம்சன், ரியான் பரக் ஆகிய இருவரும் 3ஆவது விக்கெட்டில் பகிர்ந்த 93 ஓட்டங்கள் ராஜஸ்தான் றோயல்ஸின் மொத்த எண்ணிக்கைக்கு பலம் சேர்த்தது.
+ත්‍රස්තවාදීන්ගේ වෙඩි ප්‍රහාර මැද කලබලයට පත්ව දිව ආ ජනතාවට ශාලාවෙන් පිටතට යාමට මෙම පාසල් සිසුවා මඟ පෙන්වීම ප්‍රශංසාවට ලක්වී තිබේ.
 
-சஞ்சு செம்சன் 52 பந்துகளில் 6 சிக்ஸ்கள், 3 பவுண்டறிகள் உட்பட ஆட்டம் இழக்காமல் 82 ஓட்டங்களைப் பெற்றார்.
+මේ අතර මොස්කව් ප්‍රහාරය සම්බන්ධව අමෙරිකානු ඔත්තු සේවා මීට දෙසතියකට පමණ පෙර රුසියාව වෙත තොරතුරු ලබාදුන් බවට පළවන වාර්තා අමෙරිකාවේ රුසියානු තානාපතිවරයා ප්‍රතික්ෂේප කර තිබේ.
 
-ரியான் பரக் 29 பந்துகளில் 3 சிக்ஸ்கள், ஒரு பவுண்டறியுடன் 43 ஒட்டங்களைப் பெற்றார்.
+මේ අතර ප්‍රහාරය කාලයක් පුරා සැලසුම් කර ඇති බවත්, ප්‍රහාරකයන් යුක්‍රේනය දෙසට පලායමින් සිට ඇති බවත් හෙළිවී ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
 
-195 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய லக்னோவ் சுப்பர் ஜயன்ட்ஸ் 20 ஓவர்களில் 6 விக்கெட்களை இழந்து 173 ஓட்டங்களைப் பெற்று தோல்வி அடைந்தது.
+රුසියාවේ මොස්කව් නුවර ආසන්නයේ පිහිටි ක්‍රොකස් නගර ශාලාවේ පැවැති සංගීත ප්‍රසංගයක් ඉලක්ක කර ඊයේ එල්ල වූ ත්‍රස්ත ප්‍රහාරයෙන් 133 දෙනෙකුට දිවි අහිමිවිය.
+
+150කට වැඩි පිරිසක් තුවාල ලබා ඇති අතර මරණ ගණන තවත් ඉහළ යා හැකි බව පැවසෙයි.
 
 ...
 
+[Data](articles/48681506.json)
+
+---
+
+### Rajasthan wins by Sanju Semson
+
+*2024-03-24 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/179607) · `ta`
+
+Rajasthan Royals won by 20 runs against Lucknov Super Giants in the 3rd IPL match, with Sanju Semson's 82 runs and Ryan Barak's 43 runs.
+
+🟩
+
+Rajasthan Royals won by 20 runs with a half -century in the 3rd match of the 17th Indian Premier League chapter held at the Jaipur and Sawai Mansingh Stadium on Sunday (24) against the Lucknov Super Giants.
+
+Rajasthan Royals scored 194 runs for the loss of only 4 wickets in 20 overs.
+
+Sanjam Semshan and Ryan Barak shared 93 runs in the 3rd wicket and added to the total number of Rajasthan Royles.
+
+Sanju Semson scored 82 runs off 52 balls, including 6 sixes and 3 fours.
+
+Ryan Barak scored 3 sixes off 29 balls and 43 runs with a pound.
+
+Lucknov Super Giants lost by 6 wickets in 20 overs and lost 173 runs.
+
+Team Leader KL. Rahul scored 58 runs with 4 pounds, 2 sixes, Nicholas Pooran scored 64 runs in 41 balls and 4 pounds.
+
+◼️
+
 [Data](articles/2ab07aac.json)
+
+[Extended Data](ext_articles/2ab07aac.ext.json)
 
 ---
 
@@ -112,15 +152,25 @@ Minister of Education Susil Premajayantha, University Grants Commission Chairman
 
 ---
 
-### 'ஹாட்ஸ்பாட் 'தப்பான படம் அல்ல'- இயக்குநர் விளக்கம்
+### 'Hotspot' is not a bad movie '- Director's description
 
 *2024-03-24 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179590) · `ta`
 
-நடிகர் கலையரசன் கதையின் நாயகர்களில் ஒருவராக நடித்திருக்கும் 'ஹாட் ஸ்பாட் ' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியாகி பெரும் சர்ச்சையை ஏற்படுத்தியது. முன்னோட்டத்தில் வளரிளம் பெண் ஒருவர் பாலியல் நடவடிக்கை தொடர்பான வார்த்தையை பெற்றோர்கள் முன்னிலையில் பேசுவது இடம்பெற்றிருந்தது பெரும் அதிர்வை ஏற்படுத்தியது. இந்நிலையில் 'ஹாட்ஸ்பாட்  திரைப்படத்தின் முன்னோட்டத்தை வைத்து குறை கூறாதீர்கள். இந்த படம் வெளியான பிறகு தப்பான படம் அல்ல என்பதை அனைவரும் உணர்ந்து ஆதரிப்பீர்' என இயக்குநர் விளக்கமளித்திருக்கிறார்.
+"Hotspot" movie, directed by Vignesh Karthik, sparked controversy with its preview. Despite initial shock, the director clarifies it's not a bad film, aiming to provoke thoughtful reactions. Features music by Satish Raghunathan and Van, filmed by Gokul Pinoyi, co-produced by K Jay Balamani Morban and Sureshkumar. The director hopes the film will inspire positive community discussions.
+
+🟩
+
+The preview of the movie 'Hot Spot' starring actor Kalaiyarasan's story has caused great controversy. The preview was a great shock that a woman was talking about sexual activity in the presence of parents. In this case, do not blame the preview of Hotspot movie. Everyone will realize that the film is not a bad film, 'the director explained.
+
+Directed by director Vignesh Karthik, directed by director Vignesh Karthik, who directed the film 'Enda Thalaila Nanaya Vaikkala', 'Aditya'Have played. Satish Raghunathan and Van have composed the film, which is being recorded by Gokul Pinoyi.. The film was co -produced by producers K Jay Balamani Morban and Sureshkumar on behalf of KJP Talksma and Seven Warrior Films.
+
+The film was held in Chennai. The film crew participated in the event.
 
 ...
 
 [Data](articles/dc96f8ee.json)
+
+[Extended Data](ext_articles/dc96f8ee.ext.json)
 
 ---
 
@@ -2191,27 +2241,5 @@ Aimed at transforming farmers into Agripreneur leaders of tomorrow, Agri Saviya 
 [Data](articles/601c3a3f.json)
 
 [Extended Data](ext_articles/601c3a3f.ext.json)
-
----
-
-### Emirates wins ‘Best Inflight Entertainment Award’ globally at the 2024 Airline Excellence Awards
-
-*2024-03-24 05:22:00* · [`islandlk`](http://island.lk/emirates-wins-best-inflight-entertainment-award-globally-at-the-2024-airline-excellence-awards/) · `en`
-
-Dubai, UAE, 22 Mar 2024: This week Emirates was crowned the global winner of the ‘Best Inflight Entertainment Award’ in Airline Ratings 2024 Airline Excellence Awards, announced online.
-
-Emirates scooped the top award for inflight entertainment from an extensive finalist list of global airlines, due to its whopping 6,500 channels of high quality and acclaimed content, the world’s largest entertainment library in the sky – making it a clear winner for the Best Inflight Entertainment award.
-
-Customers enjoying Emirates flights can access a world-class entertainment library of 6,500 channels which includes;
-
-More than 2,000 Hollywood and internationally acclaimed movies including 2024 Academy Award® winning films.
-
-Hundreds of complete TV series and full box sets including the latest shows from leading streaming platforms and media brands such as HBO Max, Discovery+, BBC, Bloomberg Originals and Shahid.
-
-...
-
-[Data](articles/6ece61ca.json)
-
-[Extended Data](ext_articles/6ece61ca.ext.json)
 
 ---

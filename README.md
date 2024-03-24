@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 08:50:37**
+As of **2024-03-24 09:03:07**
 
 ## Newspaper Stats
 
-*Scraped **14,795** Articles*
+*Scraped **14,796** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 795
 islandlk | 820
 adalk | 1,262
 tamilmirrorlk | 1,778
-adaderanalk | 1,781
+adaderanalk | 1,782
 virakesarilk | 2,075
 dailymirrorlk | 2,275
 adaderanasinhalalk | 2,368
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,368
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,795 (100.0%) of 14,795 articles have been extended.
+14,795 (100.0%) of 14,796 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### Commission appointed to propose electoral reforms given more time
+
+*2024-03-24 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98163/commission-appointed-to-propose-electoral-reforms-given-more-time) · `en`
+
+President Ranil Wickremesinghe has taken steps to extend the time given to the nine-member Commission of Inquiry appointed to prepare proposals for electoral reforms, to submit its final report.
+
+The Commission of Inquiry headed by former Chief Justice Priyasad Dep was appointed by the President in October last year through a special gazette notification issued by the President.
+
+The commission had been tasked with making recommendations to amend election laws to suit current societal needs by conforming with principles of good governance and strengthening representative democracy and also to restore trust and accountability by strengthening the legal framework for registration and operation of political parties.
+
+...
+
+[Data](articles/fc6c94a0.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the island
 
@@ -2219,33 +2235,5 @@ Security officials surrounded the concert building following the incident. Up to
 [Data](articles/d9e2928c.json)
 
 [Extended Data](ext_articles/d9e2928c.ext.json)
-
----
-
-### Six people arrested for protesting against the hospital in Tirukovil
-
-*2024-03-23 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/179486) · `ta`
-
-Six people, including a woman, arrested for protesting against a hospital in Tirukovil. A 16-year-old student died after participating in a marathon race and being treated at the hospital. Protests ensued, leading to the arrest of 50 people, including a woman, for 14 days.
-
-🟩
-
-Six people have been arrested, including a woman who damaged the hospital in Tirukovil, Ampara.
-
-The Akkaraipattu Magistrate's Court on Friday (22) ordered that six persons, including a woman, were arrested for 14 days until the 4th of this month.
-
-The Annual Home Sports Competition of Methodist Maga Vidyalaya in Tirukovil on Monday 11th. 16 -year -old Jayakumar Vidurjan, a student from Duraiyappa Road, Duraiyappa Road, who participated in the Marathon race, fell ill.
-
-After being admitted to the hospital, the fallen student died after being admitted to the Akkaraipattu Base Hospital for further treatment.
-
-Following the incident, civilians gathered in front of the hospital, accusing the student of the death of a resource hospital in Tirukovil.
-
-There was great tension as many mirrors of the building broke into the nation and damaged the hospital's name board in the demonstration.
-
-...
-
-[Data](articles/f0e633ec.json)
-
-[Extended Data](ext_articles/f0e633ec.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 20:49:59**
+As of **2024-03-24 21:03:07**
 
 ## Newspaper Stats
 
-*Scraped **14,880** Articles*
+*Scraped **14,882** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,44 +17,92 @@ economynextcom | 800
 islandlk | 820
 adalk | 1,266
 tamilmirrorlk | 1,792
-adaderanalk | 1,794
+adaderanalk | 1,795
 virakesarilk | 2,084
 dailymirrorlk | 2,291
-adaderanasinhalalk | 2,390
+adaderanasinhalalk | 2,391
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,879 (100.0%) of 14,880 articles have been extended.
+14,880 (100.0%) of 14,882 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### සිංහයින් ක්‍රිකට් වාර්තා පොත අලුත් කරයි
+### IGP responds to calls for Maithripala’s arrest over Easter attacks claims
+
+*2024-03-24 20:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98176/igp-responds-to-calls-for-maithripalas-arrest-over-easter-attacks-claims-) · `en`
+
+IGP Deshabandu Tennakoon has stated that the procedure does not entail the immediate arrest of individuals willing to provide information regarding the perpetrators of the Easter Sunday bomb attacks and instead the focus should be on investigating the information provided to apprehend the suspects.
+
+Tennakoon made these remarks while addressing the media concerning the recent controversial comments made by former President Maithripala Sirisena regarding the Easter Sunday attacks.
+
+However, he emphasized that since a trial is already underway regarding the Easter Sunday bomb attacks in the courts, the police will inform the Attorney General and the courts once a statement is recorded from the former President, in order to proceed with further legal action.
+
+...
+
+[Data](articles/b92b894e.json)
+
+---
+
+### හදිසියේම ලැබුණු ඇරයුම පිළිගත් ජනපති ගිය ගමන
+
+*2024-03-24 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194889) · `si`
+
+නවීන වෛද්‍ය සේවාවන්ට ගැළපෙන පරිදි නව තාක්ෂණය සමඟ අනුගත වෙමින් මෙරට සෞඛ්‍ය සේවාව තුළ සිදුකළ යුතු පරිවර්තනයන් පිළිබඳ පුළුල් සංවාදයක් සිදු කිරීමට අපේක්ෂා කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+යටත් විජිත යුගයේ සිට ගොඩනගාගත් නිදහස් වෛද්‍ය ක්‍රමයක් ශ්‍රී ලංකාව සතු බවත් එය ලෝකයම පිළිගෙන ඇති බවත් පවසන ජනාධිපතිවරයා එම අතීත අත්දැකීම්ද සමඟ ගුණාත්මක සහ ඉහළ ප්‍රමිතියෙන් යුත් සෞඛ්‍ය සේවාවක් රට තුළ සහතික කළ යුතු බව සඳහන් කළේය.
+
+රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය සමඟ පැවති හමුවකදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළකළේය.
+
+එම සංගමය විසින් සංවිධානය කළ වැඩමුළුවක් පෙළොන්නරුවේ දී ආරම්භ වූ අතර එහි පැවති වෙනත් නිල වැඩසටහනකට සහභාගීවීමට පැමිණි සිටි ජනාධිපතිවරයා මුණ ගැසුණු අවස්ථාවේ දී තම වැඩමුළුව පැවැත්වෙන ස්ථානයටද කෙටි වේලාවකට හෝ පැමිණෙන ලෙස රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයෙන් හදිසි ඇරයුමක් සිදුකර තිබේ.
+
+අදාළ ඇරයුම පිළිගත් ජනාධිපතිවරයා එම ස්ථානයට පැමිණ රජයේ වෛද්‍ය නිලධාරින්ගේ සංගමයේ සාමාජිකයන් සමඟ සුහද කතා බහක නිරත වු බව ජනාධිපති මාධ්‍ය අංශය පැවසීය.
+
+...
+
+[Data](articles/bd76dca1.json)
+
+---
+
+### Sinhalese renews cricket records book
 
 *2024-03-24 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194888) · `si`
 
-ටෙස්ට් ක්‍රිකට් ඉතිහාසයේ වාර්තා කිහිපයක් අලුත් කරමින් බංග්ලාදේශය සමඟ පැවැත්වෙන පළමු ටෙස්ට් තරගයේ වැඩි ගෞරව දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායමට අද (24) හැකියාව ලැබුණි.
+Sri Lanka wins first Test against Bangladesh, setting records with Dhanga De Silva and Kimindu Mendis's centuries. Sri Lanka scored 418 runs, leading to a 47-run victory.
 
-ඒ තරගයේ තුන්වන දිනය වූ අද දිනයේ ශ්‍රී ලංකා නායක ධනංජය ද සිල්වා සහ කමිඳු මෙන්ඩිස් වාර්තා කළ විශිෂ්ට ශතක දෙකත් සමගය.
+🟩
 
-තරගයේ තෙවැනි දිනය ආරම්භ කරනවිට සිය දෙවැනි ඉනිම ක්‍රිඩාකරමින් සිටි ශ්‍රී ලංකා කණ්ඩායම කඩුලු 5ක් දැවී රැස්කරගෙන සිටි ලකුණු සංඛ්‍යාව 119කි.
+The Sri Lankan team was able to win the first Test with the first Test with Bangladesh with several reports in Test cricket.
 
-ඊයේ (23) සැඳෑ ආරක්ෂකයා ලෙස පිටියට පිවිසි විශ්ව ප්‍රනාන්දු ලකුණු 4කට දැවී ගියේය.
+Today, Sri Lanka Leader Dhanga De Silva and Kimindu Mendis recorded the third day of the match.
 
-ඉන් අනතුරුව පිටියට පිවිසි කමිඳු මෙන්ඩිස් නායක ධනංජය ද සිල්වා සමඟ එක්ව 7වැනි කඩුල්ලට ලකුණු 173ක සාර්ථක සබඳතාවක් ගොඩනගමින් ශ්‍රී ලංකා ඉනිම ශක්තිමත් කිරීමට සමත්විය.
+When the third day of the match was established, Sri Lanka were bowled out for 59 for the loss of 5 wickets.
 
-එහිදී නායක ධනංජය ද සිල්වා සිය ටෙස්ට් දිවියේ 12වැනි ශතකය වාර්ථා කරමින් ලකුණු 108ක් ලබා ගත්තේය.
+Universal Fernando and 4 runs were bowled out for 4 runs.
 
-ඔහු වාර්තා අතරට එක්වූයේ ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් ටෙස්ට් තරගයක ඉනිම දෙකේදීම ශතක වාර්තා කළ 6වැනි පිතිකරුවා ලෙසටය.
+After that followed by Kumindu Mendis Leader Dananjaya de Silva, with a 173 runs in Sri Lanka to strengthen the Sri Lankan innings.
 
-එලෙස ශ්‍රී ලංකා පිතිකරුවෙකු ටෙස්ට් තරගයක ඉනිම දෙකේදීම ශතක වාර්තා කළේ වසර 10කට පසුව වීමත් විශේෂත්වයකි.
+Leader Dhananjaya de Silva scored 108 runs in their Test.
+
+He was among the records as the 6th batsman who reported to the Sri Lankan team in two cents.
+
+As a Sri Lankan batsmen scored centuries after two years.
+
+Dhananjaya also is the first Sri Lankan Test leader to make such exception.
+
+Kumindu Mendis scored 164 runs in the second century in his Test.
+
+Kamindu Mendis was also the first player who played two cents from the Sri Lankan batsman, playing two Test centuries in the lowest.
 
 ...
 
 [Data](articles/ff85483b.json)
+
+[Extended Data](ext_articles/ff85483b.ext.json)
 
 ---
 
@@ -2141,53 +2189,5 @@ Some of the outstanding contributions to the Sri Lanka heritage are its Buddhist
 [Data](articles/ae1f9bc1.json)
 
 [Extended Data](ext_articles/ae1f9bc1.ext.json)
-
----
-
-### Three arrested for kidnapping cannabis
-
-*2024-03-24 03:27:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-கடத்திய-மூவர்-கைது/175-335073) · `ta`
-
-Three, including two marines, arrested for cannabis smuggling in Karainagar. Arrested person revealed phone numbers of two others, who were then caught trying to collect money for the cannabis.
-
-🟩
-
-Three people, including two marines involved in ganja smuggling. They have been arrested by Kayts police in Karainagar.
-
-While the police had arrested a person, he gave the telephone numbers of the two when he was arrested by the police.. He also said that money for cannabis has not yet been paid. Thus, the person who had the cannabis had to get the money for the cannabis had informed the two distributors on the phone.
-
-When the two men came to rely on telephone information and tried to get the money from the man who had the cannabis, the policemen who had hid the money were folded.
-
-It has been revealed to the police later that the two men who were folded were the Marines. (A)
-
-◼️
-
-[Data](articles/5ff94474.json)
-
-[Extended Data](ext_articles/5ff94474.ext.json)
-
----
-
-### Lunch for students tomorrow
-
-*2024-03-24 03:25:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-நாளை-முதல்-மதிய-உணவு/175-335072) · `ta`
-
-"School launch tomorrow. Education Minister Susil Premajayantha announced Rs 26 billion for 1.7 million students. Event in Kandy."
-
-🟩
-
-Minister of Education Susil Premajayantha said that the school will be launched from tomorrow.
-
-He was speaking to the media at an event in Kandy.
-
-The program is being implemented for 1,700,000 school children in the country.
-
-Education Minister Susil Premajayantha said that Rs 26 billion has been allocated for this program.. (A)
-
-◼️
-
-[Data](articles/2a5e0c2a.json)
-
-[Extended Data](ext_articles/2a5e0c2a.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 13:02:59**
+As of **2024-03-24 13:18:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,374
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,826 (100.0%) of 14,829 articles have been extended.
+14,829 (100.0%) of 14,829 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,21 +44,29 @@ Thus, the price of a packet of milk powder weighing will be reduced by Rs. 150 
 
 [Data](articles/3029c0d6.json)
 
+[Extended Data](ext_articles/3029c0d6.ext.json)
+
 ---
 
-### කිරිපිටි මිල වෙනස්වෙයි
+### The price of milk powder changes
 
 *2024-03-24 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194872) · `si`
 
-අද මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ආනයනික කිරිපිටි මිල පහළ දැමීමට තීරණය කර ඇති බව වෙළෙඳ අමාත්‍ය නලින් ප්‍රනාන්දු මහතා පවසයි.
+Trade Minister Nalin Fernando announces a reduction in the price of imported milk powder, effective from midnight today. The price of 1kg has been reduced, and a 400g packet's price has been cut by Rs 60.
 
-ඒ අනුව කිලෝ 1ක ආනයනික කිරිපිටි පැකැට්ටුවක මිල රුපියල් 150 කින් පහළ දැමීමට තීරණය කර ඇත.
+🟩
 
-එසේම ග්‍රෑම් 400ක ආනයනික කිරිපිටි පැකැට්ටුවක මිල රුපියල් 60කින් පහළ දැමීමට ද තීරණය කර තිබේ.
+Trade Minister Nalin Fernando says that the import milk powder has been reduced to operate from midnight today.
+
+Accordingly, the price of 1kg has decided to reduce the price of Rs.
+
+The price of a packet of 400 grams has been reduced by Rs 60.
 
 ◼️
 
 [Data](articles/9bc2a67d.json)
+
+[Extended Data](ext_articles/9bc2a67d.ext.json)
 
 ---
 
@@ -75,6 +83,8 @@ Police mentioned that the body has been placed in the mortuary of Diyathalawa Ho
 ◼️
 
 [Data](articles/9c5c4e29.json)
+
+[Extended Data](ext_articles/9c5c4e29.ext.json)
 
 ---
 

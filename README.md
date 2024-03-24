@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 22:33:25**
+As of **2024-03-24 22:50:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,890 (100.0%) of 14,892 articles have been extended.
+14,892 (100.0%) of 14,892 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,25 +50,33 @@ The energy ministry said equipment caught fire when a critical energy facility i
 
 [Data](articles/3d0bff00.json)
 
+[Extended Data](ext_articles/3d0bff00.ext.json)
+
 ---
 
-### පුංචි ඉරුදි සුවකරගන්න උදව් ඉල්ලන අම්මයි තාත්තයි
+### Mother and Dad ask for help to heal little Sundi
 
 *2024-03-24 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194891) · `si`
 
-සුභවාදී බලාපොරොත්තුවක් පමණක් ඉතිරිව ජීවිතය දරාගෙන ජීවත්වෙන පවුලක් පිළිබඳව මේ පුවත අපට වාර්තාවූයේ මැදිරිගිරිය ප්‍රදේශයෙනි.
+Mother and Dad seek help for their 1.5-year-old daughter, Sundi, injured in a 2020 accident. Sundi, now unable to move, asks for healing. Her parents, like Sundi's eyes, plead for a Sunday cure.
 
-අවුරුදු එක හමාරක් වයසැති පුංචි දියණිය 2020 වසරේ දෙසැම්බර් මාසේ 31වැනිදා සිදුවූ අවාසනාවන්ත අනතුරකින් බරපතළ තුවාල ලැබීම හේතුවෙන් මෙලෙස එක්තැන් වී තිබේ.
+🟩
 
-අද කිසිවක් කරකියාගත නොහැකි රෝගියෙකු බවට පත්ව ඇති මේ පුංචි ඉරුදි අපිට කියන්නේ ඇයට ආපහු ඇගේ ජීවිතය ලබාගන්න උදවු වෙන්න කියලයි.
+The news we have reported from a family who lives in a life of life that remains alone.
 
-හිසට තමන්ගේම කියලා වහලක් නැතිව, ජීවත්වෙන්න හරි හමන් ස්ථීර රැකියාවක් පවා නැතිව අසරණබවේ අන්තයටම ගිලී හිටියත් ඉරුදිගේ අම්මයි තාත්තයි ඉරුදිව ඇස් දෙක වගේ බලාගන්නේ ඇය සුවකරගන්න තියෙන පුංචිම පුංචි බලාපොරොත්තුවක් නිසයි.
+One and a half-year-old daughter has been injured in a unfortunate accident on December 31, 2020.
 
-ඔවුන් ඉල්ලන්නේ ඉරුදිව සුවකරගතහැකි කුමන හෝ ප්‍රතිකාරයක්, දන්නා කෙනෙකුගේ උපකාරයක් පමණකි.
+These little Sundi, who has become a patient who cannot do anything today, tell us to help her enjoy her life.
+
+Even though heads of hurders, the Sundian's parents, like the two eyes of the Sundi, is like the two eyes of the Sundi.
+
+They ask for only one whose cures that can be healed in Sunday.
 
 ◼️
 
 [Data](articles/68f4acd1.json)
+
+[Extended Data](ext_articles/68f4acd1.ext.json)
 
 ---
 

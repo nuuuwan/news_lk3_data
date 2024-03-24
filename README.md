@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 03:17:59**
+As of **2024-03-25 03:33:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,912 (100.0%) of 14,914 articles have been extended.
+14,914 (100.0%) of 14,914 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Since the civil war ended, there has been no credible government mechanism set u
 
 [Data](articles/929d200f.json)
 
+[Extended Data](ext_articles/929d200f.ext.json)
+
 ---
 
 ### Trump: A ‘chaos agent’ in a country at war with itself
@@ -63,6 +65,8 @@ Political analyst Ian Bremmer has much that is enlightening to say about the soc
 ...
 
 [Data](articles/25ade833.json)
+
+[Extended Data](ext_articles/25ade833.ext.json)
 
 ---
 

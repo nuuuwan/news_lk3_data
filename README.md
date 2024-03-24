@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 14:18:06**
+As of **2024-03-24 14:33:43**
 
 ## Newspaper Stats
 
-*Scraped **14,835** Articles*
+*Scraped **14,837** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,70 @@ economynextcom | 798
 islandlk | 820
 adalk | 1,265
 tamilmirrorlk | 1,786
-adaderanalk | 1,789
+adaderanalk | 1,790
 virakesarilk | 2,077
 dailymirrorlk | 2,279
-adaderanasinhalalk | 2,378
+adaderanasinhalalk | 2,379
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,834 (100.0%) of 14,835 articles have been extended.
+14,835 (100.0%) of 14,837 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### බැරිම තැන ගත් මන්කාඩ් උත්සාහය
+### කමිඳු දෙවන ශතකය වාර්තා කරයි
+
+*2024-03-24 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194877) · `si`
+
+ශ්‍රී ලංකා නවක ක්‍රීඩක කමිඳු මෙන්ඩිස් සිය දෙවන ටෙස්ට් ශතකය වාර්තා කිරීමට සමත්විය.
+
+මෙම තරගයේ පළමු ඉනිමේදී ඔහු සිය මංගල ටෙස්ට් ශතකය රැස්කිරීමට සමත්වීම විශේෂත්වයකි.
+
+එසේම ඔහු ටෙස්ට් තරග 3ක් ඇතුළතදී මෙම දක්ෂතාවය දැක්වීම ද තවත් විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/ab839d7e.json)
+
+---
+
+### Ex-President Maithripala ready to appear before CID
+
+*2024-03-24 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98171/ex-president-maithripala-ready-to-appear-before-cid) · `en`
+
+Former President Maithripala Sirisena has informed the Criminal Investigation Department (CID) that he will appear before them tomorrow (March 25) to make a statement over his comments on the Easter Sunday bomb attacks, Police Media Spokesman DIG Nihal Thalduwa said.
+
+◼️
+
+[Data](articles/33236552.json)
+
+---
+
+### The Munkad made up
 
 *2024-03-24 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194876) · `si`
 
-ශ්‍රී ලංකාව සහ බංග්ලාදේශ කණ්ඩායම අතර පැවැත්වෙන ටෙස්ට් තරගයේදී සිදුවූ සුවිශේෂී සිදුවීමක් දැක්වෙන වීඩියෝවක් මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වෙමින් පවතී.
+A video on social media shows an unsuccessful attempt to dismiss Sri Lanka's rare batsman Missing Myskid in the 62nd innings of a Test match between Sri Lanka and Bangladesh. The ball was caught by the wicketkeeper.
 
-එහි දැක්වෙන්නේ ශ්‍රී ලංකා නවක පිතිකරු කමිඳු මෙන්ඩිස්ව මන්කාඩ් ක්‍රමයට දවාගැනීමට ගත් උත්සාහයක් ව්‍යර්ථ වී යන ආකාරයයි.
+🟩
 
-තරගයේ ශ්‍රී ලංකාවේ දෙවන ඉනිමේ 62 වන පන්දුවාරයේදී ඛාලෙඩ් අහමඩ් විසින් සිය 5 වන පන්දුව යොමුකිරීමේ අවස්ථාවේදී මෙම උත්සාහය ගනු ලැබීය.
+A video showing a unique incident in the Test match between Sri Lanka and Bangladesh is being exchanged via social media.
 
-එහිදී පන්දුව කඩුල්ලේ නොවැදීම හේතුවෙන් ඔහුගේ උත්සාහය ව්‍යර්ථ වූ හැටි පහතින්.
+It states how an attempt to make the Sri Lankan rare batsman Missing Myskid.
+
+The attempt was taken at the 62nd innings of the second innings in the 62nd innings.
+
+His attempt was unsuccessful as the ball was absorbed in the wicket.
 
 ◼️
 
 [Data](articles/ce4309bf.json)
+
+[Extended Data](ext_articles/ce4309bf.ext.json)
 
 ---
 
@@ -2143,49 +2177,5 @@ The disease may be in the body without any symptoms. This pathogen can be avoide
 [Data](articles/84987ffa.json)
 
 [Extended Data](ext_articles/84987ffa.ext.json)
-
----
-
-### Former President Gotabhaya presented his book to Malwatu and Asgiriya Mahanayaka Thera
-
-*2024-03-23 16:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179511) · `ta`
-
-Gotabhaya Rajapaksa presented his book "Conspiracy to expel me from the presidency" to Malwatu and Asgiriya Mahanayaka Thera, after rituals at Sri Dalada House and blessings from Sri Siddhartha Sumangala Thera and Sri Gnanaradana at Malwathu Vihara and Asgiriya Maha Vihara, respectively.
-
-🟩
-
-Former President Gotabhaya Rajapakse presented his book, "Conspiracy to expel me from the presidency," yesterday (22).
-
-Gotabhaya Rajapaksa had given a copy of the book to the Diyadavana Nilame of the Dalada House after he went to the Sri Dalada House and fulfilled the rituals.. Subsequently, the day went to the Malwathu Vihara and received the blessing of Sri Siddhartha Sumangala Thera.
-
-Later, Gotabhaya Rajapaksa, who received the blessings of Sri Gnanaradana, who went to the Asgiriya Maha Vihara and gave the book a book, had a personal discussion with the Mahanayaka Thera.
-
-◼️
-
-[Data](articles/7ab282d8.json)
-
-[Extended Data](ext_articles/7ab282d8.ext.json)
-
----
-
-### The proposal is withdrawn on sexual relationships
-
-*2024-03-23 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194849) · `si`
-
-Minister Wijedasa Rajapakse withdrew the Bill on sexual relationships, aiming to reduce punishment for individuals under 22. This decision follows journalists' questions and the Supreme Court's challenge.
-
-🟩
-
-Minister Wijedasa Rajapakse today (23) stated that the Bill has been withdrawn to the government to ease the punishment given to a person under 22 to the age of 22 years.
-
-It was responding to questions posed by journalists following a function in Colombo.
-
-"Most asked me to suspend the passage of the Bill. Informed that further discussion. When the Supreme Court challenged the Supreme Court, I urged the Attorney General.. That this draft is not being carried forward. Instead of given a discussion to the parties relevant. After the discussion takes a decision. It is withdrawn in Parliament. "
-
-◼️
-
-[Data](articles/31d13aaa.json)
-
-[Extended Data](ext_articles/31d13aaa.ext.json)
 
 ---

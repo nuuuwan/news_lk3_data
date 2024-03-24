@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 08:18:11**
+As of **2024-03-24 08:04:51**
 
 ## Newspaper Stats
 
-*Scraped **14,792** Articles*
+*Scraped **14,791** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 820
 adalk | 1,262
 tamilmirrorlk | 1,777
 adaderanalk | 1,780
-virakesarilk | 2,075
+virakesarilk | 2,074
 dailymirrorlk | 2,275
 adaderanasinhalalk | 2,367
 
@@ -26,29 +26,11 @@ adaderanasinhalalk | 2,367
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,782 (99.9%) of 14,792 articles have been extended.
+14,773 (99.9%) of 14,791 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
-
-### உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில் கருத்து – சிறிசேனவை விசாரணை செய்ய சட்டமா அதிபரின் ஆலோசனையை கோரியது சிஐடி
-
-*2024-03-24 07:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179546) · `ta`
-
-உயிர்த்த ஞாயிறுதாக்குதல் சூத்திரதாரிகள் யார் என்பது தனக்கு தெரியும் என முன்னாள் ஜனாதிபதி மைத்திரிபாலசிறிசேன தெரிவித்திருப்பது தொடர்பில்  அவரை விசாரணைக்கு உட்படுத்துவது குறித்து சிஐடியினர் சட்டமா அதிபரின் ஆலோசனைகளை கோரியுள்ளனர்.
-
-இது தொடர்பான வேண்டுகோளை சட்டமா அதிபர் திணைக்களத்திடம் சமர்ப்பித்துள்ளதாக தெரிவித்துள்ள சிஐடி வட்டாரங்கள் பதிலுக்காக காத்திருப்பதாக தெரிவித்துள்ளன.
-
-விசாரணைகள் எவ்வேளையிலும் ஆரம்பமாகலாம் ஆனால் நாங்கள் இதுவரை விசாரணைகளை ஆரம்பிக்கவில்லை  எங்களுக்கு சட்டமா அதிபர் திணைக்களத்திடமிருந்து உத்தரவு கிடைக்கவேண்டு;ம் என தெரிவித்துள்ளார்.
-
-மைத்திரிபால சிறிசேன வெள்ளிக்கிழமை உயிர்த்த ஞாயிறுதாக்குதல் தொடர்பில் முக்கிய சூத்திரதாரிகள் யார் என்பது தனக்பு தெரியும் என தெரிவித்தமை பெரும் சர்ச்சையை உருவாக்கியுள்ளது.
-
-...
-
-[Data](articles/8d96303f.json)
-
----
 
 ### සැක කටයුතු මරණයක්
 
@@ -130,8 +112,6 @@ Union Assurance, marked International Women’s Day with the launch of its groun
 
 [Data](articles/468c0d24.json)
 
-[Extended Data](ext_articles/468c0d24.ext.json)
-
 ---
 
 ### SLT-MOBITEL powers advancement of nation’s agriculture supporting 2nd phase of Agri Saviya – Marketing Asseweduma
@@ -145,8 +125,6 @@ Aimed at transforming farmers into Agripreneur leaders of tomorrow, Agri Saviya 
 ...
 
 [Data](articles/601c3a3f.json)
-
-[Extended Data](ext_articles/601c3a3f.ext.json)
 
 ---
 
@@ -168,8 +146,6 @@ Hundreds of complete TV series and full box sets including the latest shows from
 
 [Data](articles/6ece61ca.json)
 
-[Extended Data](ext_articles/6ece61ca.ext.json)
-
 ---
 
 ### HNB Assurance Celebrates First Anniversary of Empowering Women with In.She
@@ -186,8 +162,6 @@ In recognition of its efforts, HNB Assurance was recognized as one of the female
 
 [Data](articles/4ac3566c.json)
 
-[Extended Data](ext_articles/4ac3566c.ext.json)
-
 ---
 
 ### ESOFT launches Doctoral Programmes with renowned universities
@@ -201,8 +175,6 @@ Dr. Dayan Rajapakse, Chairman/ Group Managing Director and founder of ESOFT; Pro
 ...
 
 [Data](articles/6ddbbdd5.json)
-
-[Extended Data](ext_articles/6ddbbdd5.ext.json)
 
 ---
 
@@ -220,8 +192,6 @@ It said: Ex-Pack took this opportunity to express its gratitude and support towa
 
 [Data](articles/9133b534.json)
 
-[Extended Data](ext_articles/9133b534.ext.json)
-
 ---
 
 ### Himalaya re-launches purifying Neem Face Wash
@@ -235,8 +205,6 @@ Himalaya Purifying Neem Facewash is exclusively distributed in Sri Lanka by the 
 ...
 
 [Data](articles/a7f7c21e.json)
-
-[Extended Data](ext_articles/a7f7c21e.ext.json)
 
 ---
 
@@ -258,8 +226,6 @@ During these festivals, her family’s youngsters formed a fire-dancing team, pe
 
 [Data](articles/a0baa08d.json)
 
-[Extended Data](ext_articles/a0baa08d.ext.json)
-
 ---
 
 ### Karlsruhe and the properties of Lorenz
@@ -271,8 +237,6 @@ The history of this abode is both historic and tragic concerning the life of Lor
 ...
 
 [Data](articles/9207bdb2.json)
-
-[Extended Data](ext_articles/9207bdb2.ext.json)
 
 ---
 
@@ -2197,5 +2161,39 @@ A key issue was the unusual language that said the Security Council “determine
 [Data](articles/21168793.json)
 
 [Extended Data](ext_articles/21168793.ext.json)
+
+---
+
+### 2.2 billion of the global population
+
+*2024-03-23 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194838) · `si`
+
+The global water shortage affects 2.2 billion people, escalating conflicts. UN reports highlight the impact on women, children, and African countries, with only 24 out of 153 countries contracted to use water resources, posing a conflict risk.
+
+🟩
+
+The latest report has revealed that 2.2 billion people are facing a shortage of water in the global population.
+
+The United Nations emphasizes that the water shortage may escalate all conflicts around the world.
+
+According to the report, it is also possible to obtain safeibration facilities to a group of 3.5 billion people.
+
+The United Nations report further states that women and children have been affected by the shortage of billions of water.
+
+According to the report, the greatest effects of global water deficit has been the most affected by African regional countries.
+
+Accordingly, 19 of the 22 African states, 19 people are faced with water shortage.
+
+153 countries in the world consume water resources.
+
+However, there are only 24 countries that have been contracted to consume water resources.
+
+Accordingly, the United Nations emphasizes that there is a risk of conflict in the face of the present situation.
+
+◼️
+
+[Data](articles/3d76f7c9.json)
+
+[Extended Data](ext_articles/3d76f7c9.ext.json)
 
 ---

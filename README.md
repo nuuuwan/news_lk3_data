@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 01:18:06**
+As of **2024-03-25 01:33:24**
 
 ## Newspaper Stats
 
-*Scraped **14,900** Articles*
+*Scraped **14,903** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 136
 bbccomsinhala | 161
 dbsjeyarajcom | 191
 newsfirstlk | 363
-dailyftlk | 798
 economynextcom | 800
+dailyftlk | 801
 islandlk | 820
 adalk | 1,267
 tamilmirrorlk | 1,792
@@ -26,11 +26,71 @@ adaderanasinhalalk | 2,393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,894 (100.0%) of 14,900 articles have been extended.
+14,900 (100.0%) of 14,903 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### Easter Sunday terror attack: Maithri to appear before CID today
+
+*2024-03-25 01:15:01* · [`dailyftlk`](https://www.ft.lk/news/Easter-Sunday-terror-attack-Maithri-to-appear-before-CID-today/56-759872) · `en`
+
+IGP Deshabandu Tennekoon says it is premature to comment on whether Sirisena will be arrested
+
+Claims special security measures would be implemented to guarantee Sirisena’s safety
+
+Former President Maithripala Sirisena is expected to appear before the Police Criminal Investigations Department (CID) today to provide a statement to investigators regarding his recent contentious remarks concerning the Easter Sunday attack and its masterminds.
+
+On 22 March, Sirisena expressed his readiness to disclose the true masterminds behind the Easter Sunday terror attack of 2019 if directed by the Court. The former President claimed to personally possess this information.
+
+He asserted that he was informed of this information three weeks ago, expressing reluctance to disclose it publicly due to concerns for his safety and that of his family.
+
+According to Police Spokesperson SSP Nihal Thalduwa, Sirisena has informed the Police he will appear before the CID today as requested.
+
+...
+
+[Data](articles/c6ce503f.json)
+
+---
+
+### President assures free land rights to 2 million by June
+
+*2024-03-25 01:12:55* · [`dailyftlk`](https://www.ft.lk/news/President-assures-free-land-rights-to-2-million-by-June/56-759871) · `en`
+
+President Ranil Wickremesinghe instructed officials to expedite the completion of the national “Urumaya” freehold deeds program by June.
+
+The President emphasized that it is the dream of every citizen to attain legal ownership of land, regardless of their background. He firmly believes that everyone should have this fundamental right.
+
+President Ranil Wickremesinghe made these remarks while attending the ‘Urumaya’ Freehold Deeds program held in the Ottagapulam, in Jaffna on Friday.
+
+Accordingly, 408 land deeds were vested with the people of Jaffna as part of the ‘Urumaya’ program, aimed at providing free land rights to 2 million individuals.
+
+Under the leadership of President Ranil Wickremesinghe, the release of lands previously utilized by the Jaffna Security Force Headquarters was undertaken.
+
+...
+
+[Data](articles/d4413114.json)
+
+---
+
+### Pakistan’s National Day celebration in Sri Lanka
+
+*2024-03-25 01:12:11* · [`dailyftlk`](https://www.ft.lk/news/Pakistan-s-National-Day-celebration-in-Sri-Lanka/56-759870) · `en`
+
+A ceremony to mark the National Day of Pakistan was held at the High Commission of the Islamic Republic of Pakistan, Colombo on 23 March 2024.
+
+The event was attended by fellow Pakistani community members based in Sri Lanka. The participants resolved to make Pakistan a strong, vibrant, progressive, and democratic state.
+
+The National Day of Pakistan is celebrated on 23 March every year in remembrance of the historic 1940 Lahore resolution which formed the basis of the creation of Pakistan on 14 August 1947.
+
+High Commissioner of Pakistan, Major Gen. (R) Faheem-ul-Aziz HI (M), raised the Pakistan flag to the tunes of the national anthem of Pakistan in a simple yet graceful ceremony. Special messages by the President and the Prime Minister of Pakistan scripted for the occasion were read out.
+
+...
+
+[Data](articles/85492da0.json)
+
+---
 
 ### IMF warns SL on “knife edge path” must sustain new found virtuous cycle than reverting to vicious phase
 
@@ -52,6 +112,8 @@ The frank assessment was shared by IMF›s Senior Mission Chief for Sri Lanka Pe
 
 [Data](articles/8a398fb7.json)
 
+[Extended Data](ext_articles/8a398fb7.ext.json)
+
 ---
 
 ### Ceylon Chamber celebrates 185 years of unstinted service
@@ -65,6 +127,8 @@ Established in 1839, initially to cater to the needs of the plantation industry,
 ...
 
 [Data](articles/d6972b2b.json)
+
+[Extended Data](ext_articles/d6972b2b.ext.json)
 
 ---
 
@@ -84,6 +148,8 @@ Voted for by Sri Lankan consumers, the win acts as a testament to Dialog’s con
 
 [Data](articles/15ac8f26.json)
 
+[Extended Data](ext_articles/15ac8f26.ext.json)
+
 ---
 
 ### SLFEA appoints JAT as facilitation partner to train painters for overseas employment
@@ -97,6 +163,8 @@ Accordingly, the SLFEA will identify suitable foreign employment opportunities a
 ...
 
 [Data](articles/420a777d.json)
+
+[Extended Data](ext_articles/420a777d.ext.json)
 
 ---
 
@@ -116,6 +184,8 @@ This event is a collaborative effort between the Pathfinder Foundation Sri Lanka
 
 [Data](articles/61296e76.json)
 
+[Extended Data](ext_articles/61296e76.ext.json)
+
 ---
 
 ### Luminex-Puritas JV secures Mallavi Urban Water Supply Scheme contract in Mullaitivu
@@ -133,6 +203,8 @@ The project awarded to the joint venture company is indicative of Luminex’ con
 ◼️
 
 [Data](articles/178f6ba3.json)
+
+[Extended Data](ext_articles/178f6ba3.ext.json)
 
 ---
 
@@ -2171,65 +2243,5 @@ It is reported that India's ban has been the main reason for the rapid increase 
 [Data](articles/44560700.json)
 
 [Extended Data](ext_articles/44560700.ext.json)
-
----
-
-### Commission appointed to propose electoral reforms given more time
-
-*2024-03-24 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98163/commission-appointed-to-propose-electoral-reforms-given-more-time) · `en`
-
-President Ranil Wickremesinghe has taken steps to extend the time given to the nine-member Commission of Inquiry appointed to prepare proposals for electoral reforms, to submit its final report.
-
-The Commission of Inquiry headed by former Chief Justice Priyasad Dep was appointed by the President in October last year through a special gazette notification issued by the President.
-
-The commission had been tasked with making recommendations to amend election laws to suit current societal needs by conforming with principles of good governance and strengthening representative democracy and also to restore trust and accountability by strengthening the legal framework for registration and operation of political parties.
-
-...
-
-[Data](articles/fc6c94a0.json)
-
-[Extended Data](ext_articles/fc6c94a0.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-03-24 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98162/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department forecasts showers or thundershowers will occur at several places in Western, Sabaragamuwa, Southern, Central and North-Western provinces during the afternoon or night.
-
-Several spells of showers will occur in Eastern and Uva provinces, it said.
-
-Fairly heavy showers above 75mm are likely at some places in Rathnapura, Kalutara, Galle and Matara districts.
-
-Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/5275aa73.json)
-
-[Extended Data](ext_articles/5275aa73.ext.json)
-
----
-
-### Sri Lanka police minister orders probe into ex-president’s Easter attack remarks
-
-*2024-03-24 08:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-minister-orders-probe-into-ex-presidents-easter-attack-remarks-155844/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Public Security Minister Tiran Alles, who is in charge of police, has ordered to question former president Maithripala Sirisena over his comments on his knowledge over real plotters behind Easter Sunday attack that killed at least 269 people in 2019.
-
-Sirisena, who had been found guilty by the country’s Supreme Court for his failure to prevent the carnage, on Friday said he knew who carried out the attack and was ready to reveal it confidentially to if there is a request or order from Court.
-
-“Already, there is an ongoing investigation. Some have been charged and there is a trail-at-bar is on the process. If somebody says like this, we have to investigate and he can’t refuse to cooperate,” Minister Alles told EconomyNext.
-
-“A judge will not ask anybody to appear in the court because somebody says in public that he knows something. It must be done through police.”
-
-...
-
-[Data](articles/7e3beb77.json)
-
-[Extended Data](ext_articles/7e3beb77.ext.json)
 
 ---

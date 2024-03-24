@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 08:04:51**
+As of **2024-03-24 08:33:37**
 
 ## Newspaper Stats
 
-*Scraped **14,791** Articles*
+*Scraped **14,795** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,101 @@ dailyftlk | 792
 economynextcom | 795
 islandlk | 820
 adalk | 1,262
-tamilmirrorlk | 1,777
-adaderanalk | 1,780
-virakesarilk | 2,074
+tamilmirrorlk | 1,778
+adaderanalk | 1,781
+virakesarilk | 2,075
 dailymirrorlk | 2,275
-adaderanasinhalalk | 2,367
+adaderanasinhalalk | 2,368
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,773 (99.9%) of 14,791 articles have been extended.
+14,788 (100.0%) of 14,795 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### සැක කටයුතු මරණයක්
+### Fairly heavy showers expected in parts of the island
+
+*2024-03-24 08:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98162/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department forecasts showers or thundershowers will occur at several places in Western, Sabaragamuwa, Southern, Central and North-Western provinces during the afternoon or night.
+
+Several spells of showers will occur in Eastern and Uva provinces, it said.
+
+Fairly heavy showers above 75mm are likely at some places in Rathnapura, Kalutara, Galle and Matara districts.
+
+Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/5275aa73.json)
+
+---
+
+### පරීක්ෂණ කොමිෂන් සභාවක කාලය දීර්ඝ කරේ
+
+*2024-03-24 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194866) · `si`
+
+මැතිවරණ නීති සංශෝධනය කිරීමට අවශ්‍ය නිර්දේශ ඉදිරිපත් කිරීම සඳහා පත්කරන ලද පරීක්ෂණ කොමිෂන් සභාවේ අවසන් වාර්තාව ඉදිරිපත් කිරීමට ලබා දී ඇති කාලය දීර්ඝ කර තිබේ.
+
+පසුගිය ඔක්තෝබර් මස 16 වන දින ප්‍රියසාත් ඩෙප් මහතාගේ ප්‍රධානත්වයෙන් එම පරීක්ෂණ කොමිෂන් සභාව පත්කරනු ලැබීය.
+
+මැතිවරණ නීති රීති පිළිබඳ පරීක්ෂා කර බලා කාලීන අවශ්‍යතාවන්ට ගැලපෙන පරිදි මැතිවරණ නීති සංශෝධනය කිරීමට අදාළ නිර්දේශ ඉදිරිපත් කිරීම එම පරීක්ෂණ කොමිෂන් සභාවට පවරා තිබේ.
+
+කාන්තා හා තරුණ නියෝජනය වැඩි කිරීම, මැතිවරණය ප්‍රකාශයට පත්කළ දින සිට මැතිවරණය පවත්වා ප්‍රතිඵල නිකුත් කරන දින දක්වා කාලය අඩු කිරීම, ඡන්දය භාවිත කිරීමේ දී නවීන තාක්ෂණය යොදා ගනිමින් ඡන්දය භාවිතා කිරීම සඳහා අවස්ථාව සැලසීම, විදෙස් ගත ශ්‍රී ලාංකිකයින්ට ඡන්දය භාවිත කිරීම සඳහා අවශ්‍ය කටයුතු සම්පාදනය කිරීම ඇතුළු කරුණු රැසක් පිළිබඳව අදාළ කමිටුවට නිර්දේශ ඉදිරිපත් කිරීම සඳහා උපදෙස් ලබා දී තිබුණි.
+
+අදාළ නිර්දේශ අප්‍රේල් මස 15 වන දිනට පෙර ලබාදිය යුතු බවට මීට පෙර දැනුම් දී තිබූ අතර එම කාලය තවත් මාස 02කින් දීර්ඝ කිරීමට පියවර ගෙන තිබේ.
+
+...
+
+[Data](articles/c248a6c3.json)
+
+---
+
+### உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில் கருத்து – சிறிசேனவை விசாரணை செய்ய சட்டமா அதிபரின் ஆலோசனையை கோரியது சிஐடி
+
+*2024-03-24 07:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179546) · `ta`
+
+உயிர்த்த ஞாயிறுதாக்குதல் சூத்திரதாரிகள் யார் என்பது தனக்கு தெரியும் என முன்னாள் ஜனாதிபதி மைத்திரிபாலசிறிசேன தெரிவித்திருப்பது தொடர்பில்  அவரை விசாரணைக்கு உட்படுத்துவது குறித்து சிஐடியினர் சட்டமா அதிபரின் ஆலோசனைகளை கோரியுள்ளனர்.
+
+இது தொடர்பான வேண்டுகோளை சட்டமா அதிபர் திணைக்களத்திடம் சமர்ப்பித்துள்ளதாக தெரிவித்துள்ள சிஐடி வட்டாரங்கள் பதிலுக்காக காத்திருப்பதாக தெரிவித்துள்ளன.
+
+விசாரணைகள் எவ்வேளையிலும் ஆரம்பமாகலாம் ஆனால் நாங்கள் இதுவரை விசாரணைகளை ஆரம்பிக்கவில்லை  எங்களுக்கு சட்டமா அதிபர் திணைக்களத்திடமிருந்து உத்தரவு கிடைக்கவேண்டு;ம் என தெரிவித்துள்ளார்.
+
+மைத்திரிபால சிறிசேன வெள்ளிக்கிழமை உயிர்த்த ஞாயிறுதாக்குதல் தொடர்பில் முக்கிய சூத்திரதாரிகள் யார் என்பது தனக்பு தெரியும் என தெரிவித்தமை பெரும் சர்ச்சையை உருவாக்கியுள்ளது.
+
+...
+
+[Data](articles/8d96303f.json)
+
+---
+
+### A suspicious death
 
 *2024-03-24 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194865) · `si`
 
-හපුතලේ, පිටපොළ ප්‍රදේශයේ මාර්ගය අයිනේ ළඳු කැලැවක පුද්ගලයෙකු සැකකටයුකු ලෙස මියගොස් තිබේ.
+A 33-year-old from Bowatha died suspiciously in Haputale, Pitupola. The body is at Diyatalawa hospital for postmortem.
 
-ඊයේ (23) උදෑසන කාලයේදී එම සිද්ධිය වාර්තා වූ බව පොලීසිය පවසයි.
+🟩
 
-එසේ මියගොස් ඇත්තේ, බෝවත්ත, ඉදල්ගස්හින්න ප්‍රදේශයේ පදිංචි 33 හැවිරිදි පුද්ගලයෙකි.
+A person in the Pitutale area in Haputale, Pitupola area has died as a suspicious death.
 
-මෘත ශරීරය මහෙස්ත්‍රාත් පරික්ෂණය සිදුකර පශ්චාත් මරණ පරික්ෂණය සඳහා දියතලාව රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇත.
+The incident was reported yesterday morning, police said.
+
+The deceased has been identified as 33 year old resident of the Anawalgasinna area in Bowatha.
+
+The body of the body has been deposited at the Diyatalawa hospital hospital morgue for postmortemic test.
 
 ◼️
 
 [Data](articles/2ee165d2.json)
+
+[Extended Data](ext_articles/2ee165d2.ext.json)
 
 ---
 
@@ -112,6 +176,8 @@ Union Assurance, marked International Women’s Day with the launch of its groun
 
 [Data](articles/468c0d24.json)
 
+[Extended Data](ext_articles/468c0d24.ext.json)
+
 ---
 
 ### SLT-MOBITEL powers advancement of nation’s agriculture supporting 2nd phase of Agri Saviya – Marketing Asseweduma
@@ -125,6 +191,8 @@ Aimed at transforming farmers into Agripreneur leaders of tomorrow, Agri Saviya 
 ...
 
 [Data](articles/601c3a3f.json)
+
+[Extended Data](ext_articles/601c3a3f.ext.json)
 
 ---
 
@@ -146,6 +214,8 @@ Hundreds of complete TV series and full box sets including the latest shows from
 
 [Data](articles/6ece61ca.json)
 
+[Extended Data](ext_articles/6ece61ca.ext.json)
+
 ---
 
 ### HNB Assurance Celebrates First Anniversary of Empowering Women with In.She
@@ -162,6 +232,8 @@ In recognition of its efforts, HNB Assurance was recognized as one of the female
 
 [Data](articles/4ac3566c.json)
 
+[Extended Data](ext_articles/4ac3566c.ext.json)
+
 ---
 
 ### ESOFT launches Doctoral Programmes with renowned universities
@@ -175,6 +247,8 @@ Dr. Dayan Rajapakse, Chairman/ Group Managing Director and founder of ESOFT; Pro
 ...
 
 [Data](articles/6ddbbdd5.json)
+
+[Extended Data](ext_articles/6ddbbdd5.ext.json)
 
 ---
 
@@ -192,6 +266,8 @@ It said: Ex-Pack took this opportunity to express its gratitude and support towa
 
 [Data](articles/9133b534.json)
 
+[Extended Data](ext_articles/9133b534.ext.json)
+
 ---
 
 ### Himalaya re-launches purifying Neem Face Wash
@@ -205,6 +281,8 @@ Himalaya Purifying Neem Facewash is exclusively distributed in Sri Lanka by the 
 ...
 
 [Data](articles/a7f7c21e.json)
+
+[Extended Data](ext_articles/a7f7c21e.ext.json)
 
 ---
 
@@ -226,6 +304,8 @@ During these festivals, her family’s youngsters formed a fire-dancing team, pe
 
 [Data](articles/a0baa08d.json)
 
+[Extended Data](ext_articles/a0baa08d.ext.json)
+
 ---
 
 ### Karlsruhe and the properties of Lorenz
@@ -237,6 +317,8 @@ The history of this abode is both historic and tragic concerning the life of Lor
 ...
 
 [Data](articles/9207bdb2.json)
+
+[Extended Data](ext_articles/9207bdb2.ext.json)
 
 ---
 
@@ -250,41 +332,73 @@ Some of the outstanding contributions to the Sri Lanka heritage are its Buddhist
 
 [Data](articles/ae1f9bc1.json)
 
+[Extended Data](ext_articles/ae1f9bc1.ext.json)
+
 ---
 
-### ’எஞ்சிய நிதியுதவியை வழங்கும் ஐ.எம்.எப்’
+### மாணவர்களுக்கு நாளை முதல் மதிய உணவு
+
+*2024-03-24 03:25:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-நாளை-முதல்-மதிய-உணவு/175-335072) · `ta`
+
+பாடசாலை மாணவர்களுக்கு மதிய உணவு வழங்கும் வேலைத்திட்டம் நாளை முதல் ஆரம்பிக்கப்படும் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்துள்ளார்.
+
+கண்டியில் இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டு ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு குறிப்பிட்டுள்ளார்.
+
+நாட்டில் உள்ள 1,700,000 பாடசாலை மாணவர்களுக்காக இந்த வேலைத்திட்டம் அமுல்படுத்தப்படுவதாகவும் அமைச்சர் தெரிவித்துள்ளார்.
+
+அத்துடன், இந்த வேலைத்திட்டத்திற்காக 26 பில்லியன் ரூபாய் ஒதுக்கப்பட்டுள்ளதாகவும் கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/2a5e0c2a.json)
+
+---
+
+### IMF, which provides the remaining funding.
 
 *2024-03-24 03:23:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஞ்சிய-நிதியுதவியை-வழங்கும்-ஐ-எம்-எப்/175-335071) · `ta`
 
-எஞ்சிய நிதியுதவியையும் இலங்கைக்கு வழங்க சர்வதேச நாணய நிதியம் இணக்கம் தெரிவித்துள்ளதாக பிரதமர் தினேஷ் குணவர்தன தெரிவித்துள்ளார்.
+IMF agrees to provide remaining funds to Sri Lanka, marking a success in eligibility for next steps. Prime Minister Dinesh Gunawardena highlighted this at the foundation stone laying ceremony for the new Survey Department at Avissawella Hospital.
 
-அவிசாவளை ஆதார வைத்தியசாலையில் புதிய சத்திரசிகிச்சை பிரிவிற்கான அடிக்கல் நாட்டும் நிகழ்வில் கலந்துகொண்ட போதே பிரதமர் இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-சர்வதேச நாணய நிதியத்தின் அடுத்த கட்ட நடவடிக்கைக்கு இலங்கை தகுதி பெற்றிருப்பது வெற்றி எனவும் பிரதமர் தினேஷ் குணவர்தன தெரிவித்துள்ளார்.
+Prime Minister Dinesh Gunawardena has said that the International Monetary Fund has agreed to provide the remaining funds to Sri Lanka.
 
-நாடு வளர்ச்சியை நோக்கிய நிலையான பாதையை அடைந்துள்ளதால், சர்வதேச நாணய நிதிய பிரதிநிதிகள் மகிழ்ச்சியை வெளிப்படுத்தியுள்ளனர் என்றும் அவர் தெரிவித்துள்ளார்.
+The Prime Minister said this while attending the foundation stone laying ceremony for the new Survey Department at the Avissawella Hospital.
 
-இதன்படி, எதிர்கால நிதியுதவியை விரைவில் வழங்க சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகள் இணக்கம் தெரிவித்துள்ளது என பிரதமர் தெரிவித்துள்ளார். (a)
+Prime Minister Dinesh Gunawardena has said that Sri Lanka's eligibility for the next step of the International Monetary Fund is a success.
+
+He added that the IMF representatives have expressed their happiness as the country has reached a sustainable path towards growth.
+
+Accordingly, representatives of the International Monetary Fund have agreed to provide future funding soon, the Prime Minister said that the Prime Minister said. (A)
 
 ◼️
 
 [Data](articles/6df48a75.json)
 
+[Extended Data](ext_articles/6df48a75.ext.json)
+
 ---
 
-### ’கோப்’ உறுப்பினர்களை பெயரிடுமாறு அறிவிப்பு
+### Announced to name members of the telephone number
 
 *2024-03-24 03:21:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோப்-உறுப்பினர்களை-பெயரிடுமாறு-அறிவிப்பு/175-335070) · `ta`
 
-கோப் குழுவில் இருந்து விலகிய உறுப்பினர்களுக்கு பதிலாக வேறு உறுப்பினர்களின் பெயர்களை குறிப்பிடுமாறு அந்தந்த கட்சிகளுக்கு அறிவித்துள்ளதாக பிரதி சபாநாயகர் அஜித் ராஜபக்ஸ தெரிவித்துள்ளார்.
+Deputy Speaker Ajith Rajapaksa informed parties to name other members instead of those who left the COPE group, stating no issues were raised about the withdrawal. This is the first occurrence in the Cobb group.
 
-நியமிக்கப்பட்ட  உறுப்பினர்கள் கோப் குழுவில் இருந்து விலகியமை தொடர்பாக எடுக்கப்படும் நடவடிக்கை குறித்து எவ்வித விடயங்களும் தெரிவிக்கப்படவில்லை எனவும் அவர் தெரிவித்துள்ளார்.
+🟩
 
-கோப் குழுவில் இவ்வாறான சம்பவம் இடம் பெற்றமை இதுவே முதல் தடவை என பிரதி சபாநாயகர் தெரிவித்துள்ளார்.
+Deputy Speaker Ajith Rajapaksa has said that he has informed the respective parties to mention the names of other members instead of the members who left the COPE group.
+
+He added that no issues have been made regarding the action taken regarding the withdrawal of the members of the COPE Committee.
+
+This is the first time that the incident took place in the Cobb group, the Deputy Speaker said.
 
 ◼️
 
 [Data](articles/e866caf1.json)
+
+[Extended Data](ext_articles/e866caf1.ext.json)
 
 ---
 
@@ -321,6 +435,8 @@ The roll of Ceylon’s past Governors includes many remarkable men who made thei
 ...
 
 [Data](articles/501862d6.json)
+
+[Extended Data](ext_articles/501862d6.ext.json)
 
 ---
 
@@ -359,6 +475,8 @@ At an international maritime security conference in Colombo, the American Ambass
 ...
 
 [Data](articles/70cc0851.json)
+
+[Extended Data](ext_articles/70cc0851.ext.json)
 
 ---
 
@@ -2099,101 +2217,5 @@ There was great tension as many mirrors of the building broke into the nation an
 [Data](articles/f0e633ec.json)
 
 [Extended Data](ext_articles/f0e633ec.ext.json)
-
----
-
-### IPL 2024 - The first match wins Chennai
-
-*2024-03-23 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194839) · `si`
-
-IPL 2024: Chennai Super Kings beat Royal Challengers Bengaluru in the opening match, with CSK scoring 176/4 in 18.4 overs, after RCB's 173/6.
-
-🟩
-
-The first match of the tournament was held between Chennai Super Kings and Royal Challengers Bengaluro group.
-
-Batting first, the RCB scored 173 runs for the loss of 6 wickets for their own innings.
-
-In response, the CSK won the match with 176 runs for the loss of 4 wickets in 18.4 overs.
-
-◼️
-
-[Data](articles/b210bab5.json)
-
-[Extended Data](ext_articles/b210bab5.ext.json)
-
----
-
-### A soldier arrested in Vavuniya
-
-*2024-03-23 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/179483) · `ta`
-
-A soldier in Vavuniya was arrested after 235 T-56 rifles were found hidden in a kitchen. The Angunukolapalasa police discovered these weapons in the Paravagumbuga Valley, where they were hidden in a Corbel's house. The soldier's wife was also arrested with bullets and handed over to the Vavuniya police.
-
-🟩
-
-The Angunukolapalasa police have seized 235 rifles used for T-56 guns hidden in the kitchen of a private home.
-
-Following the search for confidential information received by the police, the gunmen were seized by the police in the Paravagumbuga Valley.. These bundles were found hidden in the fertilizer in the loft's house of a Corbel's house, who are actively serving in the military.
-
-The police said that the wife of the soldier at home was arrested with bullets and was arrested by the Army Corporation and handed over to the Vavuniya police.
-
-◼️
-
-[Data](articles/011938f3.json)
-
-[Extended Data](ext_articles/011938f3.ext.json)
-
----
-
-### Russia, China veto US resolution calling for immediate cease-fire in Gaza
-
-*2024-03-23 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/98144/russia-china-veto-us-resolution-calling-for-immediate-cease-fire-in-gaza) · `en`
-
-Russia and China on Friday vetoed a U.S.-sponsored United Nations resolution supporting “an immediate and sustained cease-fire” in the Israel-Hamas war in Gaza, calling the measure ambiguous and saying it was not the direct demand to end the fighting that much of the world seeks.
-
-The vote in the Security Council became another showdown involving world powers that are locked in tense disputes elsewhere, with the United States taking criticism for not being tough enough against its ally Israel, whose ongoing military offensive has created a dire humanitarian crisis for the 2.3 million Palestinians in Gaza.
-
-A key issue was the unusual language that said the Security Council “determines the imperative of an immediate and sustained cease-fire.” The phrasing was not a straightforward “demand” or “call” to halt hostilities.
-
-...
-
-[Data](articles/21168793.json)
-
-[Extended Data](ext_articles/21168793.ext.json)
-
----
-
-### 2.2 billion of the global population
-
-*2024-03-23 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194838) · `si`
-
-The global water shortage affects 2.2 billion people, escalating conflicts. UN reports highlight the impact on women, children, and African countries, with only 24 out of 153 countries contracted to use water resources, posing a conflict risk.
-
-🟩
-
-The latest report has revealed that 2.2 billion people are facing a shortage of water in the global population.
-
-The United Nations emphasizes that the water shortage may escalate all conflicts around the world.
-
-According to the report, it is also possible to obtain safeibration facilities to a group of 3.5 billion people.
-
-The United Nations report further states that women and children have been affected by the shortage of billions of water.
-
-According to the report, the greatest effects of global water deficit has been the most affected by African regional countries.
-
-Accordingly, 19 of the 22 African states, 19 people are faced with water shortage.
-
-153 countries in the world consume water resources.
-
-However, there are only 24 countries that have been contracted to consume water resources.
-
-Accordingly, the United Nations emphasizes that there is a risk of conflict in the face of the present situation.
-
-◼️
-
-[Data](articles/3d76f7c9.json)
-
-[Extended Data](ext_articles/3d76f7c9.ext.json)
 
 ---

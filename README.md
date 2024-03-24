@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 10:03:14**
+As of **2024-03-24 10:17:55**
 
 ## Newspaper Stats
 
-*Scraped **14,803** Articles*
+*Scraped **14,804** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 1,779
 adaderanalk | 1,783
 virakesarilk | 2,075
 dailymirrorlk | 2,276
-adaderanasinhalalk | 2,369
+adaderanasinhalalk | 2,370
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,802 (100.0%) of 14,803 articles have been extended.
+14,803 (100.0%) of 14,804 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### ආර්ථිකය අවදානමෙන් මිදී නැහැ - ශෙහාන්
+
+*2024-03-24 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194868) · `si`
+
+ආර්ථිකමය වශයෙන් රට අවදානම් තත්ත්වයෙන් තවමත් මිදී නොමැති බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+අමාත්‍යවරයා ඒ බව ප්‍රකාශ කළේ ඊයේ (23) අනුරාධපුරයේදී මාධ්‍ය අමතමිනි.
+
+"රටේ ආර්ථිකය තමයි ඊළඟ මැතිවරණය තුළ ප්‍රධානතම කාරණය විය යුත්තේ සහ ආර්ථිකය හැසිරවීමට හැකියාව තියෙන පුද්ගලයා, දර්ශනයක් තියෙන පුද්ගලයා කියන කාරණය තමයි ප්‍රධාන විය යුත්තේ. මොකද අවදානම් සහගත තත්ත්වයෙන් ආර්ථිකය තවම මිදිලා නැහැ."
+
+◼️
+
+[Data](articles/842fd30e.json)
+
+---
 
 ### India extends ban on onion exports indefinitely ahead of general election
 
@@ -47,6 +63,8 @@ However, the government issued an order late on Friday that the ban will remain 
 ...
 
 [Data](articles/362cb5db.json)
+
+[Extended Data](ext_articles/362cb5db.ext.json)
 
 ---
 
@@ -2227,29 +2245,5 @@ He said 32 fishermen from Tamil Nadu were caught by the Sri Lankan Navy on March
 [Data](articles/0d5f5ba3.json)
 
 [Extended Data](ext_articles/0d5f5ba3.ext.json)
-
----
-
-### Sri Lanka exports marginally up in Feb 2024
-
-*2024-03-23 11:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-exports-marginally-up-in-feb-2024-155815/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s merchandise exports rose 0.17 percent from a year ago to 983.7 million US dollars, with the month with apparel exports down 2.0 percent, with a pick up in exports to the US and UK, official data showed.
-
-Agricultural exports from Sri Lanka picked up 11.82 percent to 255.76 million US dollars, but industrial exports fell 3.36 percent to 727.94 million dollars, Sri Lanka’s Export Development Board said.
-
-Tea exports were up 22 percent to 127.7 million US dollars, rubber-based products were up 15.8 percent to 88.73 million US dollars and coconut-based products were up 25 percent to 68.23 million Us dollars.
-
-Electronic components were down 18 percent to 35.16 million US dollars.
-
-Unclassified ‘other’ exports were down 25 percent to 95.39 million US dollars.
-
-Exports to the US, the top buyer of Sri Lanka goods, picked up 8 percent to 249.6 million US dollars.
-
-...
-
-[Data](articles/6fadf9f7.json)
-
-[Extended Data](ext_articles/6fadf9f7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 12:02:57**
+As of **2024-03-24 12:17:52**
 
 ## Newspaper Stats
 
-*Scraped **14,818** Articles*
+*Scraped **14,823** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 792
 economynextcom | 798
 islandlk | 820
 adalk | 1,264
-tamilmirrorlk | 1,784
-adaderanalk | 1,784
-virakesarilk | 2,076
+tamilmirrorlk | 1,785
+adaderanalk | 1,787
+virakesarilk | 2,077
 dailymirrorlk | 2,277
 adaderanasinhalalk | 2,373
 
@@ -26,23 +26,83 @@ adaderanasinhalalk | 2,373
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,816 (100.0%) of 14,818 articles have been extended.
+14,818 (100.0%) of 14,823 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### CIDය මෛත්‍රීගෙන් ප්‍රකාශයක් ගැනීමට සැරසෙයි
+### ஹெரோயின் போதைப்பொருளுடன் இருவர்  கைது!
+
+*2024-03-24 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179565) · `ta`
+
+அதுருகிரிய பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட  சுற்றி வளைப்பின்போதே  இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+கைதான இருவரில் ஒருவரிடமிருந்து  7 கிராம் 100 மில்லி கிராம் ஹெரொயின் போதைப்பொருளும்  மற்றவரிடமிருந்து  7 கிராம் 560 மில்லி கிராம் ஹெரோயின் போதைப் பொருளும்  கைப்பற்றப்பட்டுள்ளன.
+
+இவ்வாறு கைது செய்யப்பட்டவர்கள் கடுவலை மற்றும் ஹோமாகம பிரதேசங்களைச் சேர்ந்த 22 மற்றும் 41 வயதுடையவர்களாவர்.
+
+◼️
+
+[Data](articles/da12f5de.json)
+
+---
+
+### Putin vows to punish those behind Russia concert massacre
+
+*2024-03-24 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98168/putin-vows-to-punish-those-behind-russia-concert-massacre) · `en`
+
+Russia said on Saturday it had arrested all four gunmen suspected of carrying out a shooting massacre in a concert hall near Moscow, and President Vladimir Putin pledged to track down and punish those behind the attack.
+
+Militant Islamist group Islamic State claimed responsibility for Friday’s rampage, but there were indications that Russia was pursuing a Ukrainian link, despite emphatic denials from Ukrainian officials that Kyiv had anything to do with it.
+
+Moscow regional Governor Andrei Vorobyov said 133 bodies had been recovered from the rubble in 24 hours and doctors were “fighting for the lives of 107 people”. State TV editor Margarita Simonyan, without citing a source, had earlier given a toll of 143.
+
+In a televised address, Putin said 11 people had been detained, including the four gunmen. “They tried to hide and moved towards Ukraine, where, according to preliminary data, a window was prepared for them on the Ukrainian side to cross the state border,” he said.
+
+...
+
+[Data](articles/0f14ce46.json)
+
+---
+
+### இந்தியாவில் பெரிய வெங்காயம் ஏற்றுமதி தடை நீடிப்பு
+
+*2024-03-24 11:48:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவில்-பெரிய-வெங்காயம்-ஏற்றுமதி-தடை-நீடிப்பு/175-335090) · `ta`
+
+பெரிய வெங்காயம் ஏற்றுமதிக்கு இந்தியா விதித்துள்ள தடையை மறு அறிவித்தல் வரை நீடிக்க இந்திய அரசாங்கம் தீர்மானித்துள்ளது.
+
+விலைவாசி உயர்வைக் கட்டுப்படுத்தவும், உள்நாட்டில் வெங்காயம் அதிக அளவில் இருப்பில் இருப்பதற்காகவும் இந்த முடிவு எடுக்கப்பட்டுள்ளதாக இந்திய அரசு கூறுகிறது.
+
+கடந்த டிசெம்பரில், இந்திய அரசு பெரிய வெங்காய ஏற்றுமதிக்கு தடை விதித்தது, வரும் 31ம் திகதியுடன் இந்த தடை முடிவடைய இருந்தது. பெரிய வெங்காய ஏற்றுமதிக்கு தடை விதிக்கப்பட்டதால், இந்திய சந்தையில், பெரிய வெங்காயத்தின் விலை வேகமாக சரிந்தது. எதிர்வரும் தேர்தலை குறி வைத்து, விலை உயர்வைக் கட்டுப்படுத்தும் நோக்கில் ஏற்றுமதி தடையை நீடிக்க இந்திய அரசு நடவடிக்கை எடுத்துள்ளதாகத் தெரிவிக்கப்படுகிறது.
+
+உலக அளவில் வெங்காய ஏற்றுமதியில் இந்தியா முதலிடத்தில் உள்ளது.இந்த தடை காரணமாக பல நாடுகளில் வெங்காயத்தின் விலை உயர்ந்துள்ளது.
+
+இலங்கையில் பெரிய வெங்காயத்தின் விலை வேகமாக அதிகரித்து வருவதற்கு இந்தியா விதித்துள்ள தடையே பிரதான காரணம் என தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/04c60066.json)
+
+---
+
+### CID is ready to take a statement from Maithri
 
 *2024-03-24 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194871) · `si`
 
-පාස්කු ප්‍රහාරය සම්බන්ධයෙන් සිදුකළ ප්‍රකාශය පිළිබඳව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගෙන් ප්‍රකාශයක් ලබාගැනීමට නියමිත බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+CID to take statement from Maithri. IGP confirms statement obtained tomorrow.
 
-ඒ අනුව පොලිස්පතිවරයා සඳහන් කළේ ඊට අදාළ ප්‍රකාශය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් හෙට (25) ලබාගන්නා බවය.
+🟩
+
+The Criminal Investigation Department (CID) has to obtain a statement from former President Maithripala Sirisena.
+
+The IGP stated that the statement was obtained by the CID tomorrow (25) by the CID tomorrow.
 
 ◼️
 
 [Data](articles/2341ec4e.json)
+
+[Extended Data](ext_articles/2341ec4e.ext.json)
 
 ---
 
@@ -71,6 +131,40 @@ The President emphasized that the youth of the country should be decided.
 [Data](articles/fa3477ab.json)
 
 [Extended Data](ext_articles/fa3477ab.ext.json)
+
+---
+
+### CID to record statement from ex-President Maithripala over claims on Easter attacks
+
+*2024-03-24 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98167/cid-to-record-statement-from-ex-president-maithripala-over-claims-on-easter-attacks) · `en`
+
+The Criminal Investigation Department (CID) will record a statement tomorrow (March 25) from former President Maithripala Sirisena over the controversial statement he recently made on the Easter Sunday attacks, says IGP Deshabandu Tennakoon.
+
+On Friday (22), former President Maithripala Sirisena had stirred controversy when he claimed he was aware of the true mastermind of the 2019 Easter Sunday terror attacks and that he was prepared to disclose the information to the judiciary if inquired from him or if an order is issued regarding the matter.
+
+Speaking to the media in Kandy, Sirisena said that he is ready to disclose the relevant information and that at the same time, it is the responsibility of the judges to keep the information strictly confidential.
+
+However, Minister of Public Security Tiran Alles had ordered IGP Deshabandu Tennakoon yesterday (23) to conduct an immediate investigation into the statement made by the former President on the Easter Sunday bomb attacks.
+
+...
+
+[Data](articles/2b44ca31.json)
+
+---
+
+### Sri Lanka’s economy should be main issue in next election - Semasinghe
+
+*2024-03-24 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98166/sri-lankas-economy-should-be-main-issue-in-next-election-semasinghe) · `en`
+
+State Minister of Finance Shehan Semasinghe states that the country’s economy is still not out of danger and that this should be the main focus in the upcoming election.
+
+Speaking to the media in Anuradhapura yesterday (23), the State Minister said a person who possesses the ability to manage the economy and have a clear vision should be elected during the coming election.
+
+“The country’s economy should be the primary issue in the upcoming election. Priority should be given to individuals who possess the ability to manage the economy and have a clear vision, as the economy has yet to recover from its precarious state.”
+
+◼️
+
+[Data](articles/9d0aba2d.json)
 
 ---
 
@@ -945,6 +1039,8 @@ In the first article published last w eek(16 March 2024 Daily Mirror  (“Col”
 ...
 
 [Data](articles/baf48e2d.json)
+
+[Extended Data](ext_articles/baf48e2d.ext.json)
 
 ---
 
@@ -2123,133 +2219,5 @@ The Ministry of External Affairs further states that all the injured are a speed
 [Data](articles/b5b8d5af.json)
 
 [Extended Data](ext_articles/b5b8d5af.ext.json)
-
----
-
-### Sri Lanka unequivocally condemns terrorist attack in Moscow
-
-*2024-03-23 14:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98149/sri-lanka-unequivocally-condemns-terrorist-attack-in-moscow) · `en`
-
-Sri Lanka has strongly condemned the dastardly terrorist attack which occurred at the Crocus City shopping center in Moscow, Russia on Friday (22), causing tragic loss of civilian lives and injury, the Ministry of Foreign Affairs said.
-
-Issuing a statement, the Foreign Ministry stated that such cowardly acts of violence against civilians are abhorrent and have no place in civilized society.
-
-Furthermore, it mentioned that the government and the people of Sri Lanka extend their heartfelt condolences to the families of the victims, the people and the government of the Russian Federation at this time of grief.
-
-“Terrorism in all its forms and manifestations must be unequivocally condemned and eradicated. Sri Lanka reaffirms its commitment to the global fight against terrorism and stands ready to collaborate with the international community to address this grave threat to peace and security”, the Foreign Ministry said.
-
-◼️
-
-[Data](articles/8ec1693d.json)
-
-[Extended Data](ext_articles/8ec1693d.ext.json)
-
----
-
-### 11 suspects arrested in Russia
-
-*2024-03-23 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194846) · `si`
-
-11 suspects arrested in Russia for a theater attack in Moscow, with over 100 casualties. Russian gov't offers 1M rupees for injured. Attackers in four-dressed, shot grenades during a musical show. The theater, with 6,200 seats, was full. A fire broke out post-attack.
-
-🟩
-
-The four suspects have been arrested, including the four major suspects on the theater of the Moscow, Russia's capital.
-
-The number of people died due to the attack, and the number of wound has exceeded 100.
-
-Meanwhile, the Russian government has said that the relatives of the attack will be given a million rupees for a million rupees for the injured.
-
-Foreign Reports said the responsibility of the attack. The organization has been submitted.
-
-The attack took place at a theater in Kzanogorsk near Moscow, Russia.
-
-Foreign Vasistes have said that four-dressed attackers have collapsed and shooting a grenade attack.
-
-The shooting was held at a time when a rock band musical show.
-
-The band had taken place a few minutes before the platform and the band was reportedly damaged.
-
-The Theater, which has 6,200 seats, was full of people by the time.
-
-With the attack, a fire broke out at the concert-held hall.
-
-The injured are young children and the Russian Foreign Ministry said.
-
-...
-
-[Data](articles/dfcce225.json)
-
-[Extended Data](ext_articles/dfcce225.ext.json)
-
----
-
-### Muscil attack 93 killed - 4 suspects arrested
-
-*2024-03-23 14:23:41* · [`adalk`](https://www.ada.lk/breaking_news/මොස්කව්-ප්‍රහාරයෙන්-93ක්-මරුට---සැකකරුවන්-4ක්-අල්ලයි/11-408764) · `si`
-
-Muscil attack in Moscow kills 93, 4 suspects arrested. US informed Russia.
-
-🟩
-
-ISIS to a Moscow in Moscow, Russia. International media reports say that the number of people killed in the attack has risen to 93.
-
-The attack has also been arrested on suspicion of the attack and four of them have been directly involved in the attack.
-
-The White House says that the US has informed Russia that he may have been informed.
-
-◼️
-
-[Data](articles/31f8e886.json)
-
-[Extended Data](ext_articles/31f8e886.ext.json)
-
----
-
-### Arrest Maithri: Opposition MPs
-
-*2024-03-23 14:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Arrest-Maithri-Opposition-MPs/155-279465) · `en`
-
-Colombo, March 23 (Daily Mirror) - Opposition MPs Mano Ganesan and Kavinda Jayawardene today called for the immediate arrest of former President Maithripala Sirisena and to interrogate him regarding the remark he made on Friday, stating that he is aware of the mastermind behind the Easter Sunday attacks.
-
-"Police should question the former President immediately," MP Ganesan told journalists.
-
-"The whole world is waiting to find out who was behind the Easter Sunday attacks. Therefore, Sirisena should be made to reveal all details," he added.
-
-MP Kavinda Jayawardene said they have already lodged a complaint with the CID against Sirisena.
-
-"We want the former President arrested immediately and produced before courts," he said.
-
-The MPs said they have already discussed the issue with the church leaders in Sri Lanka.
-
-◼️
-
-[Data](articles/0b504a8d.json)
-
-[Extended Data](ext_articles/0b504a8d.ext.json)
-
----
-
-### Arrest Maithri: Opposition MPs
-
-*2024-03-23 14:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Arrest-Maithri-Opposition-MPs/108-279465) · `en`
-
-Colombo, March 23 (Daily Mirror) - Opposition MPs Mano Ganesan and Kavinda Jayawardene today called for the immediate arrest of former President Maithripala Sirisena and to interrogate him regarding the remark he made on Friday, stating that he is aware of the mastermind behind the Easter Sunday attacks.
-
-"Police should question the former President immediately," MP Ganesan told journalists.
-
-"The whole world is waiting to find out who was behind the Easter Sunday attacks. Therefore, Sirisena should be made to reveal all details," he added.
-
-MP Kavinda Jayawardene said they have already lodged a complaint with the CID against Sirisena.
-
-"We want the former President arrested immediately and produced before courts," he said.
-
-The MPs said they have already discussed the issue with the church leaders in Sri Lanka.
-
-◼️
-
-[Data](articles/7c2e3206.json)
-
-[Extended Data](ext_articles/7c2e3206.ext.json)
 
 ---

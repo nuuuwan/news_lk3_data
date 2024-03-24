@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 02:03:11**
+As of **2024-03-25 02:17:54**
 
 ## Newspaper Stats
 
-*Scraped **14,905** Articles*
+*Scraped **14,909** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 161
 dbsjeyarajcom | 191
 newsfirstlk | 363
 economynextcom | 800
-dailyftlk | 801
+dailyftlk | 804
 islandlk | 820
 adalk | 1,267
 tamilmirrorlk | 1,793
 adaderanalk | 1,797
-virakesarilk | 2,089
+virakesarilk | 2,090
 dailymirrorlk | 2,294
 adaderanasinhalalk | 2,393
 
@@ -26,27 +26,109 @@ adaderanasinhalalk | 2,393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,904 (100.0%) of 14,905 articles have been extended.
+14,905 (100.0%) of 14,909 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### ஈஸ்டர் தாக்குதலுக்கு காரணமானவர்கள் யார் என்று தெரிந்தால் மைத்திரி உடன் வெளிப்படுத்த வேண்டும் -  மஹிந்த
+### ஈஸ்டர் தாக்குதல் தொடர்பில் குற்றப்புலனாய்வு திணைக்களத்தில் வாக்குமூலம் அளிக்க மைத்திரிக்கு அழைப்பு
+
+*2024-03-25 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/179610) · `ta`
+
+ஈஸ்டர் தாக்குதல் தொடர்பில் குற்றப்புலனாய்வு திணைக்களத்தில் வாக்குமூலம் அளிக்க வருமாறு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவுக்கு அறிவிக்கப்பட்டதாகவும் அதற்கு அவர் ஓர் சாதகமான பதிலை வழங்கியதாகவும் பொலிஸ் மா அதிபர் தேஷ்பந்து தென்னகோன் தெரிவித்துள்ளார்.
+
+இது தொடர்பான அறிக்கை ஊடகங்களில் வெளியானதையடுத்து, குற்றப் புலனாய்வுத் திணைக்களம் வழங்கிய அறிவித்தலின் பிரகாரம், இது தொடர்பில் உடனடி விசாரணை நடத்துமாறு பொது பாதுகாப்பு அமைச்சர் திரன் அலஸ் உத்தரவிட்டுள்ளார் எனவும்  இது தொடர்பான அறிக்கையை 48 மணித்தியாலங்களுக்குள் முன்னாள் ஜனாதிபதி வழங்குவார் எனவும் அவர் தெரிவித்துள்ளார்.
+
+ஞாயிற்றுக்கிழமை (24) அஸ்கிரிய பீட பிரதிப் பதிவாளர் நாரங்கபானவே ஆனந்த தேரரின் ஆசிகளைப் பெற்றுக்கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே பொலிஸ் மா அதிபர் மேற்கண்டவாறு தெரிவித்தார்.
+
+முன்னாள் ஜனாதிபதியின் அறிக்கையின் பிரகாரம் குற்றப் புலனாய்வு திணைக்களம் மேலதிக விசாரணைகளை ஆரம்பிக்கும் எனவும் அவர் வலியுறுத்தியுள்ளார்.
+
+...
+
+[Data](articles/ded732aa.json)
+
+---
+
+### All banks in Sri Lanka must collectively adopt a common Code of Ethics
+
+*2024-03-25 02:01:27* · [`dailyftlk`](https://www.ft.lk/columns/All-banks-in-Sri-Lanka-must-collectively-adopt-a-common-Code-of-Ethics/4-759889) · `en`
+
+Transparency, fairness and sound decision-making are the cornerstones of a strong banking business
+
+Application of banking ethics in Sri Lanka – refer: Daily FT dated 21 March 2024 (https://www.ft.lk/columns/Application-of-banking-ethics-in-Sri-Lanka/4-759751) was a brilliant Guest Column by B.G. Wimalarathna Banda ex-banker – subtly classifying the Excellent, Good, Bad, Ugly and Evil Bankers.
+
+...
+
+[Data](articles/c64b063e.json)
+
+---
+
+### ‘IMF program best chance for SL to return to broad-based growth and prosperity’
+
+*2024-03-25 01:51:59* · [`dailyftlk`](https://www.ft.lk/business/IMF-program-best-chance-for-SL-to-return-to-broad-based-growth-and-prosperity/34-759887) · `en`
+
+UK Foreign, Commonwealth and Development Office (FCDO) Deputy Chief Economist Fergus Cumming with British High Commissioner Andrew Patrick (fourth from right)  and members of the Council for Business with Britain
+
+UK’s Foreign, Commonwealth and Development Office Deputy Chief Economist Fergus Cumming shares key insights to future of bilateral ties with Sri Lanka
+
+Regards Sri Lanka as having so much potential despite the near-term challenges
+
+Assures UK will continue to play a role in helping Sri Lanka deliver its full potential
+
+FCDO working on arranging discussions between UK’s tax authority with Sri Lankan counterparts to talk about revenue reform
+
+Working with a number of private sector enterprises on how to make the best of various schemes in place, including the Developing Countries Trading scheme
+
+United Kingdom’s Foreign, Commonwealth and Development Office (FCDO) Deputy Chief Economist Fergus Cumming was in Sri Lanka recently to reaffirm the UK's commitment to Sri Lanka.
+
+...
+
+[Data](articles/7100573a.json)
+
+---
+
+### Economic literacy for youth through puppetry and theatre
+
+*2024-03-25 01:46:25* · [`dailyftlk`](https://www.ft.lk/business/Economic-literacy-for-youth-through-puppetry-and-theatre/34-759886) · `en`
+
+Project partners - Power of Play, Advocata and Sahana Social Development Alliance
+
+Advocata CEO Dhananath Fernando talking Economics with Power of Plays Mahadanamuththa
+
+Power of Play, a company utilising performing arts for advocacy has partnered with Advocata Institute and Sahana Social Development Alliance to provide Sri Lankan youth with an innovative opportunity to increase their economic literacy and communication skills, through performing arts.
+
+This project is a direct response to the disadvantages faced by youth, where traditional education systems fail to foster critical thinking skills so they engage meaningfully with complex socio-political issues. Through a three-phase approach, this project will educate youth on how to inform their decisions with facts (based on verified scientific/statistical evidence) and communicate their opinions effectively using creative, non-violent communication tools to inspire open dialogue for collaborative problem-solving.
+
+...
+
+[Data](articles/8c32aa33.json)
+
+---
+
+### If you know who responsible for the Easter attack, you should reveal with Maithri - Mahinda
 
 *2024-03-25 01:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/179609) · `ta`
 
-ஈஸ்டர் தாக்குதலுக்கு காரணமானவர்கள் யார் என்று தெரிந்தால், நீதிமன்ற உத்தரவுக்கு காத்திருக்காமல் அவர்கள் யார் என்பதை மைத்திரிபால சிறிசேன நாட்டுக்கு வெளிப்படுத்த வேண்டும் என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்துள்ளார்.
+Former President Mahinda Rajapakse urged Maithripala Sirisena to reveal the Easter attack's perpetrators without waiting for a court order. He also suggested holding the general election before the presidential one, benefiting the winning party. Rajapakse criticized reports by Rohitha Abeygunawardena, defending the appointment of a parliament member over an outsider.
 
-இலங்கை கிரிக்கெட் சபையின் நிதி  ஒதுக்கீட்டில் புனரமைக்கப்பட்ட கண்டி வித்யார்த்த வித்தியாலய மைதானத்தை சனிக்கிழமை (23) திறந்து வைக்கும் நிகழ்வில் கலந்து கொண்ட முன்னாள் ஜனாதிபதி ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே இவ்வாறு தெரிவித்தார்.
+🟩
 
-ஜனாதிபதித் தேர்தலுக்கு முன்னர் பொதுத் தேர்தலை நடத்தினால் நல்லது என்றும், ஜனாதிபதித் தேர்தலில் வெற்றிபெறும் கட்சிக்கே அதிக அனுகூலங்கள் கிடைக்கும் என தெரிவித்த முன்னாள் ஜனாதிபதி   ஸ்ரீலங்கா பொதுஜன பெரமுனவின் ஜனாதிபதி வேட்பாளர் யார் ? என்பதை சரியான நேரத்தில் வெளிப்படுத்துவோம் என்றும் அவர் வலியுறுத்தினார்.
+Former President Mahinda Rajapakse has said that Maithripala Sirisena should reveal who they are without waiting for a court order if they know who responsible for the Easter attack.
 
-கோப் குழுவின் தலைவராக ரோஹித அபேகுணவர்தனவை நியமிப்பது தொடர்பில் ஒவ்வொருவரும் வெளியிடும் அறிக்கைகளை நிறுத்த முடியாது, ஆனால் தலைவர் என்பவர்  பாராளுமன்ற உறுப்பினராக மக்களால் நியமிக்கப்பட்டுள்ளார் அன்றி வெளியொருவர் அல்ல. என்றும் கூறினார்.
+He was speaking to the former President of the Sri Lanka Cricket Board on Saturday (23) at the inauguration of the Kandy Vidyarthi Vidyalaya Ground.
+
+Former President Sri Lanka PA's presidential candidate who said that it would be better if the general election was held before the presidential election and that the party that won the presidential election would have more benefits?He also stressed that we will reveal the right time.
+
+Everyone can stop the reports made by Rohitha Abeygunawardena as the chairman of the Cobb group, but the leader has been appointed by the people as a member of the parliament, not an outdoors.. He said.
+
+The former president said he was considering such action to be taken to protect the President for the responsibility of maintaining the public order.
 
 ...
 
 [Data](articles/af3ceba0.json)
+
+[Extended Data](ext_articles/af3ceba0.ext.json)
 
 ---
 
@@ -2157,87 +2239,5 @@ De Silva said, "We will create a government of the first people in Sri Lanka wit
 [Data](articles/e2f351a7.json)
 
 [Extended Data](ext_articles/e2f351a7.ext.json)
-
----
-
-### Observing Medin Poya Day
-
-*2024-03-24 10:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Observing-Medin-Poya-Day/110-279472) · `en`
-
-Devotees are seen engaged in religious activities at the Kelaniya Raja Maha Viharaya to mark the Medin Poya Day, this morning. Pix by Kithsiri De Mel
-
-◼️
-
-[Data](articles/0bc53ac4.json)
-
-[Extended Data](ext_articles/0bc53ac4.ext.json)
-
----
-
-### “Price of goods will be announced daily”
-
-*2024-03-24 10:10:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருட்களின்-விலைகள்-நாளாந்தம்-அறிவிக்கப்படும்/175-335074) · `ta`
-
-Dr. Ranjith Siyambalapitiya announced daily release of imported goods' prices and VAT to stabilize economy amid rising commodity prices and rupee devaluation. This move, starting Monday, aims to provide real-time information and consumer restrictions during inflation. Arrangements are in place for uninterrupted cargo, except for potential shortages during festive season.
-
-🟩
-
-In response to the rising concerns over the rise of essential commodities and the decline in the value of the Sri Lankan rupee against the US dollar, Finance Minister Dr. Ranjith Siyambalapitiya has issued a new strategy in the marketplace for the sake of stabilizing the economy.
-
-Commenting on the media, Siyambalapitiya announced that the price and value of imported goods and value tax (VAT) would be released on a daily basis.
-
-The effort, which is scheduled to begin on Monday, will be passed by the Consumer Affairs Authority.
-
-This action has been taken to provide real -time information and excellent restrictions on consumers amid inflation pressure.
-
-In addition, Siyambalapitiya confirmed that all necessary arrangements have been made to guarantee the uninterrupted cargo, except for the potential shortages that can cause disruption during the festive season.
-
-◼️
-
-[Data](articles/a3d01be7.json)
-
-[Extended Data](ext_articles/a3d01be7.ext.json)
-
----
-
-### The economy is not escaped at risk - Shehan
-
-*2024-03-24 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194868) · `si`
-
-"State Minister Shehan Semasinghe denies economically escalating risk, emphasizing the economy as a key election issue and highlighting the absence of a risky situation."
-
-🟩
-
-State Minister Shehan Semasinghe says that there is no economically escalating risk.
-
-The Minister made this observation at the media yesterday (23).
-
-"The majority of the country's economy is the main point of the next election and the person who has the ability to handle the economy is the key to. Because the risky situation has not yet wine. "
-
-◼️
-
-[Data](articles/842fd30e.json)
-
-[Extended Data](ext_articles/842fd30e.ext.json)
-
----
-
-### India extends ban on onion exports indefinitely ahead of general election
-
-*2024-03-24 09:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/India-extends-ban-on-onion-exports-indefinitely-ahead-of-general-election/107-279471) · `en`
-
-MUMBAI, March 24 (Reuters) - India has extended its ban on onion exports indefinitely - a surprise move that comes ahead of a general election and is set to exacerbate high prices in some overseas markets.
-
-Imposed by India - the world's biggest exporter of the vegetable - in December, the ban was due to expire on March 31. Traders had anticipated it would be lifted as local prices have more than halved since the export restrictions were implemented and this season's crop is yielding fresh supplies.
-
-However, the government issued an order late on Friday that the ban will remain in place until further notice.
-
-"The extension is surprising and completely unnecessary, considering the falling prices with rising supplies from the new season crop," said an executive at a Mumbai-based export firm, who declined to be identified.
-
-...
-
-[Data](articles/362cb5db.json)
-
-[Extended Data](ext_articles/362cb5db.ext.json)
 
 ---

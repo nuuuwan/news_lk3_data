@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 18:51:40**
+As of **2024-03-24 19:03:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,870 (100.0%) of 14,872 articles have been extended.
+14,872 (100.0%) of 14,872 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -85,6 +85,8 @@ Accordingly, six fire engines rushed to the scene to douse the flames.
 ◼️
 
 [Data](articles/78878ca0.json)
+
+[Extended Data](ext_articles/78878ca0.ext.json)
 
 ---
 
@@ -363,6 +365,8 @@ Amidst the bustling tourist scene in Sri Lanka, a heartwarming sight unfolds at 
 ◼️
 
 [Data](articles/82145b43.json)
+
+[Extended Data](ext_articles/82145b43.ext.json)
 
 ---
 

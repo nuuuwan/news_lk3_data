@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 07:54:11**
+As of **2024-03-24 08:04:51**
 
 ## Newspaper Stats
 
-*Scraped **14,788** Articles*
+*Scraped **14,791** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ dailyftlk | 792
 economynextcom | 795
 islandlk | 820
 adalk | 1,262
-tamilmirrorlk | 1,775
+tamilmirrorlk | 1,777
 adaderanalk | 1,780
 virakesarilk | 2,074
 dailymirrorlk | 2,275
-adaderanasinhalalk | 2,366
+adaderanasinhalalk | 2,367
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,773 (99.9%) of 14,788 articles have been extended.
+14,773 (99.9%) of 14,791 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### සැක කටයුතු මරණයක්
+
+*2024-03-24 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194865) · `si`
+
+හපුතලේ, පිටපොළ ප්‍රදේශයේ මාර්ගය අයිනේ ළඳු කැලැවක පුද්ගලයෙකු සැකකටයුකු ලෙස මියගොස් තිබේ.
+
+ඊයේ (23) උදෑසන කාලයේදී එම සිද්ධිය වාර්තා වූ බව පොලීසිය පවසයි.
+
+එසේ මියගොස් ඇත්තේ, බෝවත්ත, ඉදල්ගස්හින්න ප්‍රදේශයේ පදිංචි 33 හැවිරිදි පුද්ගලයෙකි.
+
+මෘත ශරීරය මහෙස්ත්‍රාත් පරික්ෂණය සිදුකර පශ්චාත් මරණ පරික්ෂණය සඳහා දියතලාව රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇත.
+
+◼️
+
+[Data](articles/2ee165d2.json)
+
+---
 
 ### In the middle of the full moon is today
 
@@ -231,6 +249,42 @@ Some of the outstanding contributions to the Sri Lanka heritage are its Buddhist
 ...
 
 [Data](articles/ae1f9bc1.json)
+
+---
+
+### ’எஞ்சிய நிதியுதவியை வழங்கும் ஐ.எம்.எப்’
+
+*2024-03-24 03:23:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஞ்சிய-நிதியுதவியை-வழங்கும்-ஐ-எம்-எப்/175-335071) · `ta`
+
+எஞ்சிய நிதியுதவியையும் இலங்கைக்கு வழங்க சர்வதேச நாணய நிதியம் இணக்கம் தெரிவித்துள்ளதாக பிரதமர் தினேஷ் குணவர்தன தெரிவித்துள்ளார்.
+
+அவிசாவளை ஆதார வைத்தியசாலையில் புதிய சத்திரசிகிச்சை பிரிவிற்கான அடிக்கல் நாட்டும் நிகழ்வில் கலந்துகொண்ட போதே பிரதமர் இவ்வாறு குறிப்பிட்டார்.
+
+சர்வதேச நாணய நிதியத்தின் அடுத்த கட்ட நடவடிக்கைக்கு இலங்கை தகுதி பெற்றிருப்பது வெற்றி எனவும் பிரதமர் தினேஷ் குணவர்தன தெரிவித்துள்ளார்.
+
+நாடு வளர்ச்சியை நோக்கிய நிலையான பாதையை அடைந்துள்ளதால், சர்வதேச நாணய நிதிய பிரதிநிதிகள் மகிழ்ச்சியை வெளிப்படுத்தியுள்ளனர் என்றும் அவர் தெரிவித்துள்ளார்.
+
+இதன்படி, எதிர்கால நிதியுதவியை விரைவில் வழங்க சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகள் இணக்கம் தெரிவித்துள்ளது என பிரதமர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/6df48a75.json)
+
+---
+
+### ’கோப்’ உறுப்பினர்களை பெயரிடுமாறு அறிவிப்பு
+
+*2024-03-24 03:21:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோப்-உறுப்பினர்களை-பெயரிடுமாறு-அறிவிப்பு/175-335070) · `ta`
+
+கோப் குழுவில் இருந்து விலகிய உறுப்பினர்களுக்கு பதிலாக வேறு உறுப்பினர்களின் பெயர்களை குறிப்பிடுமாறு அந்தந்த கட்சிகளுக்கு அறிவித்துள்ளதாக பிரதி சபாநாயகர் அஜித் ராஜபக்ஸ தெரிவித்துள்ளார்.
+
+நியமிக்கப்பட்ட  உறுப்பினர்கள் கோப் குழுவில் இருந்து விலகியமை தொடர்பாக எடுக்கப்படும் நடவடிக்கை குறித்து எவ்வித விடயங்களும் தெரிவிக்கப்படவில்லை எனவும் அவர் தெரிவித்துள்ளார்.
+
+கோப் குழுவில் இவ்வாறான சம்பவம் இடம் பெற்றமை இதுவே முதல் தடவை என பிரதி சபாநாயகர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e866caf1.json)
 
 ---
 
@@ -2141,67 +2195,5 @@ Accordingly, the United Nations emphasizes that there is a risk of conflict in t
 [Data](articles/3d76f7c9.json)
 
 [Extended Data](ext_articles/3d76f7c9.ext.json)
-
----
-
-### Sri Lanka releases land held by military in North
-
-*2024-03-23 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-releases-land-held-by-military-in-north-155792/) · `en`
-
-ECONOMYNEXT – Lands held by the Jaffna Security Force Headquarters in Jaffna were released to people at a ceremony attended by President Ranil Wickremesinghe, this week.
-
-“Following the end of conflict, a significant portion of land was requisitioned by the military. To date, the government has released approximately 63,000 acres of both government-owned and privately-owned land,” Wickremesinghe said in Ottagapulam, Jaffna.
-
-Jaffna Commander Major General Chandana Wickramasinghe presented the official land release documents to Wickremesinghe who handed over the documents to Jaffna District Governor Maradalingam Pradeepan.
-
-As per the arrangement, 234 acres of land from five Grama Niladhari Divisions in the Valikamam North were returned to the local public.
-
-“Land ownership is a universal aspiration transcending nationality. It is a fundamental right that everyone should possess,” Wickremesinghe was quoted as saying by his media division.
-
-...
-
-[Data](articles/eb75795b.json)
-
-[Extended Data](ext_articles/eb75795b.ext.json)
-
----
-
-### Sri Lanka, India to hold Digital Public Infrastructure conference next week
-
-*2024-03-23 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98143/sri-lanka-india-to-hold-digital-public-infrastructure-conference-next-week) · `en`
-
-The High Commission of India in Colombo, in partnership with Sri Lanka’s Technology Ministry, is organizing a conference on Digital Public Infrastructure (DPI), to be held on 26 March.
-
-The conference will explore the transformative potential of DPI for enabling service delivery, empowering communities by fostering inclusivity and enriching the economy by driving innovation, according to a statement issued by the High Commission.
-
-It will commence with an opening plenary session, where the keynote address will be delivered by President Ranil Wickremesinghe. The opening plenary will be followed by two panel discussions.
-
-Accordingly, the first, ‘Accelerating Digital Sri Lanka’ will focus on how DPI simplifies governance and improves accessibility for the citizens. The second, ‘Unlocking the Digital Stack’ will discuss DPI’s use cases including in the startup domain, marrying technology, markets and governance.
-
-...
-
-[Data](articles/146e88b7.json)
-
-[Extended Data](ext_articles/146e88b7.ext.json)
-
----
-
-### Digital Public Infrastructure conference organized by Indian HC held next week
-
-*2024-03-23 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98143/digital-public-infrastructure-conference-organized-by-indian-hc-held-next-week) · `en`
-
-The High Commission of India in Colombo, in partnership with Sri Lanka’s Technology Ministry, is organizing a conference on Digital Public Infrastructure (DPI), to be held on 26 March.
-
-The conference will explore the transformative potential of DPI for enabling service delivery, empowering communities by fostering inclusivity and enriching the economy by driving innovation, according to a statement issued by the High Commission.
-
-It will commence with an opening plenary session, where the keynote address will be delivered by President Ranil Wickremesinghe. The opening plenary will be followed by two panel discussions.
-
-Accordingly, the first, ‘Accelerating Digital Sri Lanka’ will focus on how DPI simplifies governance and improves accessibility for the citizens. The second, ‘Unlocking the Digital Stack’ will discuss DPI’s use cases including in the startup domain, marrying technology, markets and governance.
-
-...
-
-[Data](articles/6d8ed719.json)
-
-[Extended Data](ext_articles/6d8ed719.ext.json)
 
 ---

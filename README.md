@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 03:33:30**
+As of **2024-03-25 03:51:19**
 
 ## Newspaper Stats
 
-*Scraped **14,914** Articles*
+*Scraped **14,915** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,267
 tamilmirrorlk | 1,793
 adaderanalk | 1,797
 virakesarilk | 2,090
-dailymirrorlk | 2,296
+dailymirrorlk | 2,297
 adaderanasinhalalk | 2,393
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,914 (100.0%) of 14,914 articles have been extended.
+14,914 (100.0%) of 14,915 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### Gift of life: Transformative steps in Renal Transplants on World kidney day in Sri Lanka
+
+*2024-03-25 03:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Gift-of-life-Transformative-steps-in-Renal-Transplants-on-World-kidney-day-in-Sri-Lanka/172-279495) · `en`
+
+World Kidney Day provides a platform to raise awareness about the prevalence of kidney diseases, their prevention, and the transformative impact of organ transplantation
+
+Recent statistics reveal that a significant portion of the population is affected
+
+As the world marks World Kidney Day, Sri Lanka takes center stage in the global effort to address kidney health and organ transplantation. Beyond the celebratory atmosphere, this day holds profound significance, drawing attention to the prevalence of Chronic Kidney Disease (CKD) in Sri Lanka and the remarkable strides in renal transplant procedures. This article explores the multifaceted approach in Sri Lanka, covering the prevalence of CKD, organ procurement methods, and the meticulous preoperative assessments that precede life-changing renal transplants.
+
+...
+
+[Data](articles/c5c5aa71.json)
+
+---
 
 ### Human rights in Lanka and oil deposits in Palestine - EDITORIAL
 
@@ -2203,33 +2219,5 @@ Coconut shells stayed the same at 28,000 to 30,000 rupees a metric ton.
 [Data](articles/658a3768.json)
 
 [Extended Data](ext_articles/658a3768.ext.json)
-
----
-
-### Money gifts on firearms
-
-*2024-03-24 10:55:47* · [`adalk`](https://www.ada.lk/breaking_news/ගිනි-අවි-ගැන-ඔත්තුවලට-බරට-මුදල්-තෑගි/11-408768) · `si`
-
-IGP Deshabandu Tennakoon offers cash prizes for information on firearms, with Rs. 500,000 for a revolver, Rs. 250,000 for a hand grenade, and Rs. 200,000 for a gun.
-
-🟩
-
-IGP Deshabandu Tennakoon has decided to provide valuable cash prizes to provide effective cash prizes to provide effective cash prizes to provide effective information to firearms and the ingenuity of firearms.
-
-Accordingly, the police are able to obtain these rewards for the police to provide success for the police over the organizational criminals who have firearms and organized criminals.
-
-50000 rupees will be given to Rs. 500,000 and Rs.. The prize amount of Rs.
-
-The next top amount of Rs.
-
-250,000 rupees, a reconciliation with a revolver or the sum of Rs. 200,000 and Rs.And the gun will only receive Rs.Rs. 500,000 is paid for a hand grenade produced in a foreign country.
-
-The full amount of these weapons is paid at the time of a number of weapons were arrested by the police headquarters.
-
-◼️
-
-[Data](articles/286dfdb3.json)
-
-[Extended Data](ext_articles/286dfdb3.ext.json)
 
 ---

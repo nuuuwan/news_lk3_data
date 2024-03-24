@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 23:03:09**
+As of **2024-03-24 23:17:55**
 
 ## Newspaper Stats
 
-*Scraped **14,892** Articles*
+*Scraped **14,893** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 1,267
 tamilmirrorlk | 1,792
 adaderanalk | 1,797
 virakesarilk | 2,087
-dailymirrorlk | 2,293
+dailymirrorlk | 2,294
 adaderanasinhalalk | 2,393
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,892 (100.0%) of 14,892 articles have been extended.
+14,892 (100.0%) of 14,893 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### NPP will not allow new parliamentary electoral system before Presidential polls: AKD
+
+*2024-03-24 22:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-will-not-allow-new-parliamentary-electoral-system-before-Presidential-polls-AKD/108-279489) · `en`
+
+Toronto, March 24 (Daily Mirror)- The National People's Power (NPP) will not allow the government to implement the proposed Constitutional Amendments to introduce a new parliamentary electoral system before the Presidential polls, NPP leader Anura Kumara Dissanayake said.
+
+Speaking at a meeting with the Sri Lankan community in Toronto, Canada, he said the government was making every effort to evade a national election at this juncture as they are purturbed with the predictions that they are going to lose power.
+
+"They are afraid of transfering power to the people.That is why there has been hesitation on elections.The government has now presented a Cabinet Paper to introduce a new electoral system. We will assure you that we will not allow any opportunity for the government to do it before the Presidential election," he said.
+
+...
+
+[Data](articles/fc1142a8.json)
+
+---
 
 ### Russia stages major airstrike on Ukraine; one missile enters Polish airspace
 
@@ -2241,31 +2257,5 @@ Trump can be notoriously and dangerously inconsistent. (Someone quipped that the
 [Data](articles/33ab2768.json)
 
 [Extended Data](ext_articles/33ab2768.ext.json)
-
----
-
-### Showers over 75mm
-
-*2024-03-24 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194863) · `si`
-
-Heavy showers and thundershowers expected in East, Uva, Western, Sabaragamuwa, Southern, Central provinces. High winds and lightning risks.
-
-🟩
-
-Several times will occur in the East and Uva provinces today (24).
-
-Thundershowers will develop at several places in the Western, Sabaragamuwa, Southern, Southern, Central, Central and Central provinces.
-
-Some places in Ratnapura, Kalutara, Galle and Matara districts. Mee. Heavy rains experience more than 75.
-
-In some places, in some places in the Central, Sabaragamuwa and Uva provinces, are expected in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/c572464f.json)
-
-[Extended Data](ext_articles/c572464f.ext.json)
 
 ---

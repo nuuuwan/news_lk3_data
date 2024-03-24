@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 01:03:03**
+As of **2024-03-25 01:18:06**
 
 ## Newspaper Stats
 
-*Scraped **14,894** Articles*
+*Scraped **14,900** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 136
 bbccomsinhala | 161
 dbsjeyarajcom | 191
 newsfirstlk | 363
-dailyftlk | 792
+dailyftlk | 798
 economynextcom | 800
 islandlk | 820
 adalk | 1,267
@@ -26,11 +26,115 @@ adaderanasinhalalk | 2,393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,894 (100.0%) of 14,894 articles have been extended.
+14,894 (100.0%) of 14,900 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### IMF warns SL on “knife edge path” must sustain new found virtuous cycle than reverting to vicious phase
+
+*2024-03-25 00:55:35* · [`dailyftlk`](https://www.ft.lk/business/IMF-warns-SL-on-knife-edge-path-must-sustain-new-found-virtuous-cycle-than-reverting-to-vicious-phase/34-759868) · `en`
+
+Identifies EFF program was result of robust discussions and well thought out
+
+Says open to alternative suggestions from political parties on how EFF program objectives can be reached but stresses these must be realistic and achievable within the time frame of the program
+
+Emphasises hard-won gains over the last two years must not be unravelled
+
+Urges SL to keep the momentum going to reach debt sustainability and bring growth to a firmer footing on recovery
+
+The International Monetary Fund (IMF) last week said it is witnessing the beginning of a virtuous cycle in Sri Lanka which must be sustained rather than reverting to a “vicious cycle” as the country is on a “knife edge” path.
+
+The frank assessment was shared by IMF›s Senior Mission Chief for Sri Lanka Peter Breuer at the media briefing following the conclusion of the Second Review of the $ 3 billion four year Extended Fund Facility (EFF) program and Article IV consultation.
+
+...
+
+[Data](articles/8a398fb7.json)
+
+---
+
+### Ceylon Chamber celebrates 185 years of unstinted service
+
+*2024-03-25 00:53:17* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-celebrates-185-years-of-unstinted-service/34-759867) · `en`
+
+The Ceylon Chamber of Commerce, the premier representative of Sri Lanka’s private sector, will be marking its 185th anniversary today (March 25).
+
+Established in 1839, initially to cater to the needs of the plantation industry, primarily rubber and coconut, it has evolved into an institution representing a wide sector of industry and commerce. Today, boasting a membership of over 500 members, including some of the largest corporations in Sri Lanka the Ceylon Chamber stands as a pillar of support for businesses across various sectors.
+
+...
+
+[Data](articles/d6972b2b.json)
+
+---
+
+### Sri Lankans vote Dialog as Telecommunication Brand for 13th year
+
+*2024-03-25 00:52:09* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankans-vote-Dialog-as-Telecommunication-Brand-for-13th-year/34-759866) · `en`
+
+“SLIM-Kantar People’s Awards 2024 – Telecommunication Brand of the Year”, accepted by Dialog Axiata Group Chief Marketing Officer Lasantha Theverapperuma
+
+DIALOG Axiata PLC has been voted the ‘Telecommunication Brand of the Year’ for a record 13th year by Sri Lankan consumers at the SLIM-Kantar People’s Awards 2024.
+
+Organised by the Sri Lanka Institute of Marketing (SLIM), the national body for marketing in Sri Lanka, the awards aim to recognise brands that have made a profound impression in the minds of Sri Lankans.
+
+Voted for by Sri Lankan consumers, the win acts as a testament to Dialog’s continued commitment to excellence in service as well as their role in innovation and the country’s digital transformation.
+
+...
+
+[Data](articles/15ac8f26.json)
+
+---
+
+### SLFEA appoints JAT as facilitation partner to train painters for overseas employment
+
+*2024-03-25 00:51:01* · [`dailyftlk`](https://www.ft.lk/business/SLFEA-appoints-JAT-as-facilitation-partner-to-train-painters-for-overseas-employment/34-759865) · `en`
+
+Building on the exceptional success of the JAT Pintharoo Abhiman program, JAT Holdings PLC – Sri Lanka’s market leader in wood coatings and brushes – recently entered into a Memorandum of Cooperation (MoC) with the Sri Lanka Foreign Employment Agency Ltd. (SLFEA). The partnership will allow JAT and SLFEA to collaborate towards identifying qualified Sri Lankan painters and wood craftsmen and equipping them with the training and skills necessary to suit the labour market overseas.
+
+Accordingly, the SLFEA will identify suitable foreign employment opportunities and outline the training and skills requirements for these roles. JAT will facilitate the training process for painters and wood craftsmen, and equip them with other necessary skills required for foreign employment. The two organisations will work together, with SLFEA guiding the entire process in accordance with guidelines laid down by the Sri Lanka Bureau of Foreign Employment.
+
+...
+
+[Data](articles/420a777d.json)
+
+---
+
+### Pathfinder’s webinar on “Sri Lanka’s path to RCEP membership: Unlocking new horizons” on Wednesday
+
+*2024-03-25 00:50:11* · [`dailyftlk`](https://www.ft.lk/business/Pathfinder-s-webinar-on-Sri-Lanka-s-path-to-RCEP-membership-Unlocking-new-horizons-on-Wednesday/34-759864) · `en`
+
+The Government of Sri Lanka has officially submitted a letter of intent to join the Regional Comprehensive Economic Partnership (RCEP), the world’s largest trade bloc.
+
+This strategic step is set to pave the way for broader access to markets, increased trade, and robust economic growth for Sri Lanka amidst the dynamic landscape of global commerce.
+
+To delve deeper into the myriad of opportunities and challenges this accession presents, a webinar titled “Sri Lanka’s Accession to RCEP: Opportunities and Challenges – Learnings from Existing Member Countries” is scheduled for Wednesday, 27 March.
+
+This event is a collaborative effort between the Pathfinder Foundation Sri Lanka and the Institute of South Asian Studies at the National University of Singapore (NUS), alongside APTA CCI.
+
+...
+
+[Data](articles/61296e76.json)
+
+---
+
+### Luminex-Puritas JV secures Mallavi Urban Water Supply Scheme contract in Mullaitivu
+
+*2024-03-25 00:48:13* · [`dailyftlk`](https://www.ft.lk/business/Luminex-Puritas-JV-secures-Mallavi-Urban-Water-Supply-Scheme-contract-in-Mullaitivu/34-759863) · `en`
+
+Luminex PLC, in collaboration with Puritas has signed the contract to execute the project implemented by the Ministry Of Water Supply, Infrastructure Development Water Supply & Sanitation Improvement Project.
+
+This project, the Mallavi Urban Water Supply Scheme in Mullaitivu District, involves water supply and sanitation improvement and is expected to be completed by 30 June, 2025 according to the agreement.
+
+The project awarded to the joint venture company is indicative of Luminex’ continued efforts to expand its business operations and further establish itself as a key player in the construction of water supply projects.
+
+“We believe that this project will contribute positively to our company’s financial performance and enhance shareholder value in the long term. We are committed to providing regular updates on the progress of this project and any material developments that may impact our operations or financial standing,” Luminex said in a filing to the Colombo Stock Exchange.
+
+◼️
+
+[Data](articles/178f6ba3.json)
+
+---
 
 ### Gujarat beat Mumbai by 6 runs five times
 
@@ -2127,157 +2231,5 @@ Sirisena, who had been found guilty by the country’s Supreme Court for his fai
 [Data](articles/7e3beb77.json)
 
 [Extended Data](ext_articles/7e3beb77.ext.json)
-
----
-
-### Extended the time of aquacing commission
-
-*2024-03-24 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194866) · `si`
-
-The Commission's time to submit the final report on revising election laws has been extended to June 15, under Priyasath Dep's patronage. The report includes recommendations for amending election laws, aiming to increase women and youth participation.
-
-🟩
-
-The period has been extended to submit the final report of the Commission appointed to submit the recommendations to submit the recommendations required to revise election laws.
-
-Priyasath Dep for the 16th of October under the patronage of Priyasath Dep.
-
-The Commission has filed the recommendation of the recommendations relating to the election laws amending election laws to be examined and suitable for the needs of election rules.
-
-Increase of women and youth to the date of the election, providing necessary arrangements to vote for electionThe committee was instructed to submit recommendations on several matters.
-
-The recommendations had been made before the 15th of April and the time was extended by another two months.
-
-According to President Ranil Wickremesinghe has taken steps to grant the final report to be submitted to June 15.
-
-◼️
-
-[Data](articles/c248a6c3.json)
-
-[Extended Data](ext_articles/c248a6c3.ext.json)
-
----
-
-### CIT sought the advice of the Attorney General to investigate Sirisena
-
-*2024-03-24 07:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179546) · `ta`
-
-Former President Maithripala Sirisena sought the Attorney General's advice on an investigation into himself, claiming knowledge of the perpetrator of a life-threatening attack. The CIT is awaiting the Attorney General's response.
-
-🟩
-
-Former President Maithripala Sirisena has demanded the advice of the Attorney General on the investigation of the former President Maithripala Sirisena that he knows who is the lifeblood.
-
-CIT sources said they were waiting for the response to the Attorney General's Department.
-
-Investigations may begin at any time but we have not yet begun inquiries.
-
-Maithripala Sirisena's controversy has created a great deal of controversy on Friday's life -threatening Sunday.
-
-No one is still saying the fact that the life of the life of the life of the life of the. But I know who carried out the attacks. Former President Maithripala Sirisena said that if the court ordered me to reveal it, I would release the details.
-
-He said that no one was yet to say the fact that he carried out the fact that he had carried out the survival Sunday, but that he knew who had carried out the attack, and that he would release the court if he had ordered him to reveal it.
-
-...
-
-[Data](articles/8d96303f.json)
-
-[Extended Data](ext_articles/8d96303f.ext.json)
-
----
-
-### IMF sees no problem in Sri Lanka central bank building reserves with fx swaps
-
-*2024-03-24 07:47:00* · [`economynextcom`](https://economynext.com/imf-sees-no-problem-in-sri-lanka-central-bank-building-reserves-with-fx-swaps-155842/) · `en`
-
-ECONOMYNEXT – Entering into foreign exchange swaps, was one of the ways endorsed by the International Monetary Fund for Lanka’s central bank to build reserves, an official said.
-
-Sri Lanka busted all its reserves and also ‘reserves’ borrowed through swaps to suppress interest rates and enforce its bureaucratically decided policy rate during the last currency crisis.
-
-“Rebuilding reserves is a very important component of the IMF supported programs,” Deputy Mission Chief for Sri Lanka Katsiaryna Svirydzenka.
-
-“One, is what we call organic purchases by the central bank in the foreign exchange market.
-
-“The other one is rebuilding reserves for engaging with swaps.
-
-“This can either be swaps with domestic banks, but also swaps with other central banks.  The latter is a very important part of both global and regional financial safety nets.”
-
-...
-
-[Data](articles/04d9ea1c.json)
-
-[Extended Data](ext_articles/04d9ea1c.ext.json)
-
----
-
-### A suspicious death
-
-*2024-03-24 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194865) · `si`
-
-A 33-year-old from Bowatha died suspiciously in Haputale, Pitupola. The body is at Diyatalawa hospital for postmortem.
-
-🟩
-
-A person in the Pitutale area in Haputale, Pitupola area has died as a suspicious death.
-
-The incident was reported yesterday morning, police said.
-
-The deceased has been identified as 33 year old resident of the Anawalgasinna area in Bowatha.
-
-The body of the body has been deposited at the Diyatalawa hospital hospital morgue for postmortemic test.
-
-◼️
-
-[Data](articles/2ee165d2.json)
-
-[Extended Data](ext_articles/2ee165d2.ext.json)
-
----
-
-### In the middle of the full moon is today
-
-*2024-03-24 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194864) · `si`
-
-Today, during the full moon, significant events in the Sambuddha Sasana are celebrated, including the Buddha's encounter with a crocodile. Animation and policy sacrifices are observed nationwide. FM Derana and PM Derana also hold special events.
-
-🟩
-
-The daily powder is considered as a day of important events in the Sambuddha Sasana.
-
-The Buddha began working to the crocodile crocodile in the middle of today (24).
-
-In the Buddhist history, the Prince of Elephant has taken place in a normal day, the Prince of Elephant in the preaching of the Buddha to the crocodile.
-
-Amination and policy sacrifices have been organized in every temple island wide throughout the country today.
-
-Meanwhile, FM Derana disaster is held in the middle of the full moon day of PM Derana.
-
-◼️
-
-[Data](articles/131de0ed.json)
-
-[Extended Data](ext_articles/131de0ed.ext.json)
-
----
-
-### Sri Lanka central bank says senior management decided to review salary hike
-
-*2024-03-24 06:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-says-senior-management-decided-to-review-salary-hike-155837/) · `en`
-
-ECONOMYNEXT – The senior management of the central bank decided to review a steep salary hike made after a currency crisis, a statement said amid legislative and public anger against the move.
-
-The salary hike was initially defended on the basis of central bank independence.
-
-Giving salary hike to offset the inflation created by the agency in the process of enforcing rate cuts by printing money has been a longstanding practice.
-
-However legislators said the independence was only given to the agency to print money (and trigger inflation or currency depreciation) and it did not apply to salaries.
-
-Under a new law the agency has got powers to trigger up to 7 percent inflation a year with no questions asked. Since September 2022, the agency has created lower levels of inflation and has appreciated the currency with deflationary policy.
-
-...
-
-[Data](articles/491b0a8c.json)
-
-[Extended Data](ext_articles/491b0a8c.ext.json)
 
 ---

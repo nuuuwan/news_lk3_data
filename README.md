@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 18:09:41**
+As of **2024-03-24 18:21:09**
 
 ## Newspaper Stats
 
-*Scraped **14,864** Articles*
+*Scraped **14,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 792
 economynextcom | 800
 islandlk | 820
 adalk | 1,266
-tamilmirrorlk | 1,791
+tamilmirrorlk | 1,792
 adaderanalk | 1,793
-virakesarilk | 2,079
+virakesarilk | 2,083
 dailymirrorlk | 2,285
 adaderanasinhalalk | 2,387
 
@@ -26,25 +26,97 @@ adaderanasinhalalk | 2,387
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,863 (100.0%) of 14,864 articles have been extended.
+14,864 (100.0%) of 14,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### කොළඹ නිමි ඇඳුම් අලෙවිසැලක ගින්නක්
+### வெள்ளவத்தை நோ லிமிட்டில் பாரிய  தீ
+
+*2024-03-24 18:07:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளவத்தை-நோ-லிமிட்டில்-பாரிய-தீ/175-335112) · `ta`
+
+அந்த தீயை கட்டுப்பாட்டிற்குள் கொண்டு வருவதற்காக கொழும்பு தீயணைப்பு பிரிவிற்கு சொந்தமான 6 தீயணைப்பு வாகனங்கள் அனுப்பி வைக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/a3a595ab.json)
+
+---
+
+### வெள்ளவத்தை கட்டட தொகுதியில் பாரிய தீ பரவல்!
+
+*2024-03-24 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179603) · `ta`
+
+கொழும்பு வெள்ளவத்தையில் உள்ள பிரபல ஆடை வர்த்தகக் கட்டிடத்தில் பாரிய தீபரவல் சம்பவம் ஞாயிற்றுக்கிழமை (24) பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/89f0658f.json)
+
+---
+
+### Fire at a finished clothes outlet
 
 *2024-03-24 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194885) · `si`
 
-වැල්ලවත්ත ප්‍රදේශයේ නිමි ඇඳුම් අලෙවිසැලක අද පස්වරුවේ හටගත් ගින්න මැඩ පැවැත්වීම සඳහා මේ වනවිට ගිනි නිවීමේ රථ 10ක් යොදවා ඇති බව කොළඹ ගිනි නිවීමේ ඒකකය සඳහන් කළේය.
+A fire broke out at a finished clothes outlet in Wellawatte today, with ten firefighters and six vehicles from the Colombo Fire Fund Unit deployed to extinguish it.
 
-වැල්ලවත්ත ප්‍රදේශයේ නිමි ඇඳුම් අලෙවිසැලක අද පස්වරුවේ ගින්නක් හටගෙන තිබේ.
+🟩
 
-ගින්න මැඩපැවැත්වීම සඳහා කොළඹ ගිනි නිවීමේ ඒකකයේ රථ 6ක් මේ වනවිට එම සථානයට යොමුකර ඇත.
+Ten firefighters have already been deployed to suppress the fire in the Wellawatte area this afternoon.
+
+A fire has erupted this afternoon at a finished clothes outlet in Wellawatte this afternoon.
+
+Six vehicles in the Colombo Fire Fund Unit have been referred to the stride to suppress the fire.
 
 ◼️
 
 [Data](articles/de1865f6.json)
+
+[Extended Data](ext_articles/de1865f6.ext.json)
+
+---
+
+### உதய் கார்த்திக் நடிக்கும் 'ஃபேமிலி படம்'
+
+*2024-03-24 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/179593) · `ta`
+
+'டை நோ சர்ஸ்' எனும் படத்தின் மூலம் அறிமுகமாகி, பிரபலமான நடிகர் உதய் கார்த்திக் கதையின் நாயகனாக நடிக்கும் புதிய படத்திற்கு 'ஃபேமிலி படம்' என பெயரிடப்பட்டு, அதன் தொடக்க விழா சென்னையில் சிறப்பாக நடைபெற்றது. இதன் போது திரையுலகப் பிரபலங்கள் பலர் வருகை தந்து படக்குழுவினருக்கு வாழ்த்து தெரிவித்தனர்.
+
+அறிமுக இயக்குநர் செல்வகுமார் திருமாறன் இயக்கத்தில் உருவாகி வரும் 'ஃபேமிலி படம்' திரைப்படத்தின் உதய் கார்த்திக், சுபிக்ஷா, விவேக் பிரசன்னா, பார்த்திபன், ஸ்ரீஜா, சந்தோஷ், மோகனசுந்தரம், ஆர்.ஜே பிரியங்கா, ஜனனி உள்ளிட்ட பலர் நடிக்கிறார்கள். மெய்யேந்திரன் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு அனிவீ இசையமைக்கிறார். பொழுதுபோக்கு குடும்பச் சித்திரமாக தயாராகும் இந்த திரைப்படத்தை யூ கே கிரியேஷன்ஸ் சார்பின் தயாரிப்பாளர் கே. பாலாஜி தயாரிக்கிறார்.
+
+...
+
+[Data](articles/a60a8dcf.json)
+
+---
+
+### நடனப்புயலுடன் இணையும் இசைப்புயல்
+
+*2024-03-24 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/179594) · `ta`
+
+'இசைப்புயல்' ஏ.ஆர். ரஹ்மானின் இசையில்.. 'நடன புயல்' பிரபுதேவாவின் நடனத்தில்.. வெளியான பாடல்கள் (காதலன், மிஸ்டர் ரோமியோ, மின்சார கனவே, லவ் பேர்ட்ஸ்..) இன்றுவரை இளைய தலைமுறையினருக்கு உற்சாகத்தையும், ஊக்கத்தையும், வியப்பையும் அளித்து வருகிறது. இவர்கள் இருவரும் மீண்டும் பெயரிடப்படாத படத்தில் இணைந்திருக்கிறார்கள். இதற்கான அதிகாரப்பூர்வமான அறிவிப்பு வெளியாகி இருக்கிறது.
+
+அறிமுக இயக்குநர் எ.எஸ். மனோன்ஜ் இயக்கத்தில் உருவாகும் பெயரிடப்படாத திரைப்படத்தில் பிரபுதேவா கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடிக்கிறார். இவருடன் யோகி பாபு, அஜு வர்கீஸ், அர்ஜுன் அசோகன், ரெடின் கிங்ஸ்லி, மொட்டை ராஜேந்திரன், சிங்கம் புலி, லொள்ளு சபா சுவாமிநாதன், லொள்ளு சபா மனோகர், டி எஸ் ஆர் ஸ்ரீனிவாசன், தீபா உள்ளிட்ட பலர் நடிக்கிறார்கள். அனூப் வி. சைலஜா ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு 'இசை புயல்' ஏ. ஆர். ரஹ்மான் இசையமைக்கிறார்.  பிஹைன்வுட்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் என். எஸ். மனோஜ், திவ்யா மனோஜ், டொக்டர் பிரவீன் ஈலாக் ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
+
+...
+
+[Data](articles/d0b59fb5.json)
+
+---
+
+### ஏப்ரலில் வெளியாகும் 'கயல்' ஆனந்தியின் 'வைட் ரோஸ்'
+
+*2024-03-24 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179596) · `ta`
+
+இன்றைய தமிழ் திரையுலகின் நடிகையர் திலகம் என்றும், டிஜிட்டல் சாவித்திரி என்றும் போற்றப்படும் நடிகை 'கயல்' ஆனந்தி கதையின் நாயகியாக நடித்திருக்கும் 'வைட் ரோஸ்' எனும் தமிழ் திரைப்படம் எதிர்வரும் ஏப்ரல் மாதம் ஐந்தாம் திகதியன்று உலகம் முழுவதும் படமாளிகைகளில் வெளியாகும் என படக் குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு உற்சாகத்துடன் தெரிவித்திருக்கிறார்கள்.
+
+அறிமுக இயக்குநர் ராஜசேகர் இயக்கத்தில் உருவாகி இருக்கும் 'வைட் ரோஸ்' எனும் திரைப்படத்தில் ஆர். கே. சுரேஷ், 'கயல்' ஆனந்தி, விஜித், பேபி நட்சத்திரா, சசிலயா, கணேஷ், ராமநாதன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள் இளையராஜா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சுதர்சன் மற்றும் ஜோகன் செவனேஷ் ஆகியோர் இணைந்து இசையமைத்திருக்கிறார்கள். திரில்லர் ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை பூம்பாறை முருகன் புரொடக்ஷன்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் ரஞ்சனி தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/2e2650a6.json)
 
 ---
 
@@ -2045,111 +2117,5 @@ A U.S. intelligence official told The Associated Press that U.S. agencies had co
 [Data](articles/0dd927d8.json)
 
 [Extended Data](ext_articles/0dd927d8.ext.json)
-
----
-
-### Moscow massacre: Putin says gunmen tried to escape to Ukraine, death toll above 130
-
-*2024-03-23 22:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98161/moscow-massacre-putin-says-gunmen-tried-to-escape-to-ukraine-death-toll-above-130) · `en`
-
-Russian authorities arrested the four men suspected of carrying out the attack on a suburban Moscow concert hall that killed at least 133 people and believe they were headed to Ukraine, President Vladimir Putin said Saturday during an address to the nation.
-
-Kyiv, meanwhile, strongly denied any involvement in Friday’s attack on the Crocus City Hall music venue in Krasnogorsk, which the Islamic State group’s affiliate in Afghanistan claimed responsibility for in a statement posted in social media channels linked to the group. Kyiv accused Putin and other Russian politicians of falsely linking Ukraine to the assault in order to stoke fervor in Russia’s war in Ukraine, which recently entered its third year.
-
-A U.S. intelligence official told The Associated Press that U.S. agencies had confirmed that IS was responsible for the assault and had previously warned Moscow that an attack could be imminent.
-
-...
-
-[Data](articles/a82ef7e9.json)
-
-[Extended Data](ext_articles/a82ef7e9.ext.json)
-
----
-
-### At least 1,000 Sri Lankan workers to reach Israel in March
-
-*2024-03-23 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98160/at-least-1000-sri-lankan-workers-to-reach-israel-in-march) · `en`
-
-The Director General of Israel’s Population and Immigration Authority said that in the month of March about 1,000 workers from Sri Lanka are expected to land in Israel for work in its the agriculture sector, primarily picking citrus fruits.
-
-Since the October 7 Hamas massacre, distress has arisen in the agriculture sector and since then many efforts have been made to reduce the gaps. Among the steps: opening agreements with other countries to recruit foreign workers and meetings with Israeli employers and embassy representatives.
-
-The ministry said the Sri Lankan workers provide an immediate response to the need for working hands in the important industry and in helping to ensure the food security of the State of Israel.
-
-◼️
-
-[Data](articles/09148553.json)
-
-[Extended Data](ext_articles/09148553.ext.json)
-
----
-
-### Disclosure of paid bonus without approval
-
-*2024-03-23 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194862) · `si`
-
-The Board of Investment of Sri Lanka (BOI) paid unapproved bonuses to employees, totaling Rs., according to a 2022 National Audit Office report. Despite the Treasury's request for approval, the BOI defended the payments.
-
-🟩
-
-It has been revealed that the Board of Investment of Sri Lanka (BOI) has spent money on the Treasury to pay various allowances to the employees.
-
-In a report issued by the National Audit Office of the year 2022, it is said.
-
-Accordingly, the Board of Investment of Sri Lanka has spent Rs.
-
-The audit report shows that more than Rs.
-
-However, the Board of Management (BOI) has said that the Treasury has requested the approval of the above allowances.
-
-The Minister of Investment was held at the respective year with the participation of the Minister of Investment Promotion and other officials with the participation of the Board of Investment and Employees.
-
-◼️
-
-[Data](articles/0b9b78d0.json)
-
-[Extended Data](ext_articles/0b9b78d0.ext.json)
-
----
-
-### Amid controversy, Maithripala clarifies basis of remarks on Easter attacks’ masterminds
-
-*2024-03-23 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98159/amid-controversy-maithripala-clarifies-basis-of-remarks-on-easter-attacks-masterminds) · `en`
-
-Former President Maithripala Sirisena, who landed himself in hot water after claiming that he was aware of the ‘real perpetrators’ of the Easter Sunday bomb attacks, now says his remarks were based on some information he had received three weeks ago.
-
-The ex-President stated this in response to the allegations leveled against him, following the controversial statement he made on Friday that he has knowledge of the true mastermind of the 2019 Easter Sunday terror attacks and that he was prepared to disclose the information to the judiciary if inquired from him or an order is issued regarding the matter.
-
-“I made that statement yesterday based on information I received three weeks ago regarding the Easter attacks. I am prepared to testify confidentially if ordered by a court”, he said.
-
-...
-
-[Data](articles/c48c9a07.json)
-
-[Extended Data](ext_articles/c48c9a07.ext.json)
-
----
-
-### Toys of our world exported worldwide
-
-*2024-03-23 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194861) · `si`
-
-"Derana highlights Tikiri Toys, a Sri Lankan business exporting globally, led by CEO Manoi Sherryf, earning $12M annually. The business uses petbox and rub, exporting these items worldwide. Sherryf has written a book in 12 languages, sparking curiosity about his name in Germany."
-
-🟩
-
-The Derana was reported on a unique Sri Lankan business competing with the world.
-
-The indigenous use of petbox and rub also exports from the use of petbox and rub.
-
-Tikiri Toys CEO Manoi Sherryf said that his business earns $ 12 million annually.
-
-"What's the name of his name in Germany?. There was no name. Suddenly I said the rat. Did the Lord now hear friends?I wrote a book, I wrote a book in 12 languages. "
-
-◼️
-
-[Data](articles/c80b6998.json)
-
-[Extended Data](ext_articles/c80b6998.ext.json)
 
 ---

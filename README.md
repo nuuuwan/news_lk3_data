@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 14:50:49**
+As of **2024-03-24 15:03:06**
 
 ## Newspaper Stats
 
-*Scraped **14,840** Articles*
+*Scraped **14,845** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,117 @@ dailyftlk | 792
 economynextcom | 800
 islandlk | 820
 adalk | 1,265
-tamilmirrorlk | 1,786
+tamilmirrorlk | 1,788
 adaderanalk | 1,790
 virakesarilk | 2,078
-dailymirrorlk | 2,279
+dailymirrorlk | 2,282
 adaderanasinhalalk | 2,379
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,837 (100.0%) of 14,840 articles have been extended.
+14,840 (100.0%) of 14,845 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### ஹப்புத்தளை காட்டுப்பிரதேசத்தில் ஆணின் சடலம் மீட்பு!
+### McDonald’s உணவகங்கள் இயங்கத் தடை
+
+*2024-03-24 14:48:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/McDonald-s-உணவகங்கள்-இயங்கத்-தடை/175-335099) · `ta`
+
+McDonald's வர்த்தக நாமத்தின் கீழ் கொழும்பு மற்றும் அதன் புறநகர் பகுதிகளில் இயங்கி வரும் 12 உணவகங்கள் இயங்குவதற்கு தடை விதித்து கொழும்பு வர்த்தக மேல் நீதிமன்றம் தடை உத்தரவு பிறப்பித்துள்ளது.
+
+அவர்களது உடன்படிக்கைகளில் ஏற்பட்ட முரண்பாடு தொடர்பில் ஆதார நிறுவனம் முறைப்பாடு செய்ததை அடுத்து இந்த தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+மக்டொனால்ட் உணவகங்கள் மூடப்பட்டுள்ளதாகவும், பெயர் பலகைகள் அகற்றப்பட்டுள்ளதாகவும் சமூக ஊடக பாவனையாளர்கள் பலரும் பதிவிட்டிருந்தமையும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/89746152.json)
+
+---
+
+### Colombo HC prevents Abans using McDonald’s brand name
+
+*2024-03-24 14:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-HC-prevents-Abans-using-McDonalds-brand-name/108-279479) · `en`
+
+Colombo, March 24 (Daily Mirror) - The Colombo Commercial High Court issued an  enjoining order preventing Rusi Pestonjee, Managing Director of Abans PLC or his servants from in any way or manner to use the name McDonald’s or any name in any way or manner similar to the name McDonald’s.
+
+Comercial High Court Judge Sumith Perera further issued an enjoining order preventing Rusi Pestonjee from selling McDonald’s food and menu items in respect of restaurants in Kotahena,  Nugegoda, Kiribathgoda, Battaramulla, Kollupitiya, Rajagiriya, Welisara, Mount Lavinia, Colombo City Centre, Macleod Road restaurant and Shangri-La restaurant.
+
+The Commercial High Court made this order consequent to a lawsuit filed by McDonald’s Corporation, a duly incorporated body in the United States of America  which sought court's jurisdiction under the provisions of the Intellectual Property Act, No. 36 of 2003.
+
+...
+
+[Data](articles/984caf1b.json)
+
+---
+
+### பால்மா விலையில் மாற்றம்
+
+*2024-03-24 14:38:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்மா-விலையில்-மாற்றம்/175-335096) · `ta`
+
+நுகர்வோர் மீதான நிதிச் சுமையைக் குறைக்கும் நோக்கில், இறக்குமதி செய்யப்படும் பால் மாவின் விலையில் கணிசமான அளவு குறைக்கப்படுவதாக வர்த்தக அமைச்சர் நளின் பெர்னாண்டோ அறிவித்தார்.
+
+இதன்படி, ஒரு கிலோ கிராம் எடையுள்ள பால்மா பக்கெட்டுக்கு 150 ரூபாய் குறையவுள்ளதாக அமைச்சர் பெர்னாண்டோ தெரிவித்தார்.
+
+மேலும், 400 கிராம் பக்கெட்டுகளுக்கு ரூ. 60 வீதம் விலை குறையவுள்ளதாக அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/d7a067d2.json)
+
+---
+
+### Men's corpse recovery in Haputhal
 
 *2024-03-24 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179580) · `ta`
 
-ஹப்புதளையின் பிடபொல பிரதேசத்தின் காட்டுப் பகுதியில்  சந்தேகத்திற்கிடமான முறையில் உயிரிழந்த்தாக நம்பபபடும்  ஆண் ஒருவரின் சடலம் பொலிஸாரால் மீட்கப்பட்டுள்ளது.
+Police recover man's body in Haputhalai jungle, believed to have died suspiciously.
+
+🟩
+
+The body of a man who is believed to have died suspiciously in the jungle area of the Hapudalai area has been recovered by police.
 
 ◼️
 
 [Data](articles/951b3ffe.json)
+
+[Extended Data](ext_articles/951b3ffe.ext.json)
+
+---
+
+### Sri Lanka pair achieve rare milestone in Sylhet
+
+*2024-03-24 14:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-pair-achieve-rare-milestone-in-Sylhet/108-279478) · `en`
+
+Sylhet, March 24 (ICC) - Sri Lanka's Dhananjaya de Silva and Kamindu Mendis became just the third pair to partner in two 150-plus run stands in the same Test.
+
+Bangladesh achieved early success on day three of the first Test against Sri Lanka in Sylhet, when they sent back night watchman Vishwa Fernando for merely four.
+
+However, just like the first innings, Sri Lanka skipper Dhananjaya de Silva and Kamindu Mendis came together and helped Sri Lanka out of the trouble. Their positive strokeplay gave the island nation a big advantage in the game, as the lead bloomed past 300 by the 54th over. When their partnership hit the 150-run mark in the 77th over, it was only the third time in the history of the game that two 150-plus stands had been achieved in the same Test by the same pair.
+
+...
+
+[Data](articles/b48c2b5b.json)
+
+---
+
+### Maithripala now contradicting his remark, launch immediate probe: NPP
+
+*2024-03-24 14:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maithripala-now-contradicting-his-remark-launch-immediate-probe-NPP/108-279477) · `en`
+
+Colombo, March 24 (Daily Mirror)- Claiming that former President Maithripala Sirisena is now contradicting his recent statement that he was well aware of the true perpetrators of the Easter Sunday bombings, NPP MP Vijitha Herath today urged the government to launch an immediate probe over the remark as it is a serious statement to have been made by the then Head of State and Minister of Defence.
+
+He told a news conference that the true story behind the Easter Sunday attacks should not be a secret and that the whole country should know it.
+
+"We urge Sirisena to reveal what he knows to the country. The government must also launch an immediate probe into his statement. It is already too late. The statement was made last Friday. They should have acted swiftly and recorded a statement," he said.
+
+...
+
+[Data](articles/fa73bcf2.json)
 
 ---
 
@@ -123,6 +209,8 @@ State Minister for Justice, Anuradha Jayarathne said that prisoners in the Welik
 ◼️
 
 [Data](articles/a6d32fd5.json)
+
+[Extended Data](ext_articles/a6d32fd5.ext.json)
 
 ---
 
@@ -581,6 +669,8 @@ Coconut shells stayed the same at 28,000 to 30,000 rupees a metric ton.
 ◼️
 
 [Data](articles/658a3768.json)
+
+[Extended Data](ext_articles/658a3768.ext.json)
 
 ---
 
@@ -2049,117 +2139,5 @@ Sri Lanka scored 111 runs while Sri Lanka scored 119 runs for the loss of 5 wick
 [Data](articles/01ee54e3.json)
 
 [Extended Data](ext_articles/01ee54e3.ext.json)
-
----
-
-### President speaks of health professionals who leave country
-
-*2024-03-23 16:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194852) · `si`
-
-President Ranil Wickremesinghe highlighted the departure of 30-40 doctors and 100 nurses from Sri Lanka as detrimental, emphasizing the need for quality healthcare. He urged all to improve health services and directed the Sir John Kotelawala Defense University to increase doctor and nursing requirements.
-
-🟩
-
-President Ranil Wickremesinghe says that between 30 and 40 of Sri Lanka's trained doctors or 100 nurses, President Ranil Wickremesinghe says that it is not good for the country.
-
-The President added that it is the responsibility of all to further enhance the health service in the world with quality health care.
-
-President Ranil Wickremesinghe was speaking at the Point Pedro Pedakawa Base Hospital in the Netherlands Government Drive Credit Scheme yesterday (22).
-
-The President also pointed out that he also instructed the Sir John Kotelawala Defense University to enhance the doctor and nursing requirement in Sri Lanka.
-
-The President said that the right to maintain a teaching hospital for the Faculty of Medicine at the Green University.
-
-◼️
-
-[Data](articles/9ff2e797.json)
-
-[Extended Data](ext_articles/9ff2e797.ext.json)
-
----
-
-### High emigration rate of Sri Lanka medical professionals: President
-
-*2024-03-23 16:45:00* · [`economynextcom`](https://economynext.com/high-emigration-rate-of-sri-lanka-medical-professionals-president-155825/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has said the significant emigration rate among trained medical professionals of the country was concerning.
-
-“Approximately 30 to 40 out of every 100 doctors or nurses trained in the country opt to leave, a circumstance unfavourable for the nation,” Wickremesinghe was quoted as saying by his media division at a ceremony to open the improved Accident and Emergency Unit at the Point Pedro Base hospital.
-
-A collective effort was needed to enhance healthcare services, he said, adding that he had instructed the Sir John Kotalawala Defence University to augment its recruitment efforts to fulfil the requirements in medical and nursing fields.
-
-The Cabinet this week approved establishing a Faculty of Medicine at the National School of Business Management (NSBM) Green University, which doctors unions have opposed. Lyceum Campus has expressed interest in this endeavour, the president said.
-
-...
-
-[Data](articles/f9efad75.json)
-
-[Extended Data](ext_articles/f9efad75.ext.json)
-
----
-
-### SJB files complaint against Maithripala’s claims on ‘real masterminds’ behind Easter attacks
-
-*2024-03-23 16:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/98153/sjb-files-complaint-against-maithripalas-claims-on-real-masterminds-behind-easter-attacks) · `en`
-
-The Samagi Jana Balawegaya (SJB) Parliamentarian Kavinda Jayawardena has lodged a complaint with the Criminal Investigation Department (CID) today (23), seeking an expeditious investigation into former President Maithripala Sirisena’s controversial remarks regarding the Easter Sunday terror attacks.
-
-Speaking to the media while leaving the CID premises, the MP stated that an impartial investigation must be launched into the statement made by the former President following his arrest.
-
-“This is not a matter to be kept secret. The people of the country must get to know this”, he added.
-
-On Friday (22), Former President Maithripala Sirisena claimed he was aware of the true mastermind of the 2019 Easter Sunday terror attacks and that he was prepared to disclose the information to the judiciary if inquired from him or issues an order regarding the matter.
-
-...
-
-[Data](articles/0b94191f.json)
-
-[Extended Data](ext_articles/0b94191f.ext.json)
-
----
-
-### Rains today even afternoon
-
-*2024-03-23 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194851) · `si`
-
-"Rains expected in Ratnapura, Kalutara, Galle, and Matara districts today and afternoon."
-
-🟩
-
-The Meteorological Department issued the weather forecast for the next 36 hours today (23).
-
-There are rains during the Ratnapura, Kalutara, Galle and Matara districts.
-
-◼️
-
-[Data](articles/9542d399.json)
-
-[Extended Data](ext_articles/9542d399.ext.json)
-
----
-
-### Moscow concert attack: Suspects arrested; death toll rises to 115
-
-*2024-03-23 16:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Moscow-concert-attack-Suspects-arrested-death-toll-rises-to-115/155-279467) · `en`
-
-Moscow, March 23 (BBC) - Gunmen have attacked a concert hall on the fringes of Moscow, killing at least 115 people and wounding 100 more, Russian security services say.
-
-Attackers clad in camouflage gear took part in the attack, in the north-western suburb of Krasnogorsk, BBC-verified video shows.
-
-Four men directly involved were among 11 arrested on Saturday, officials say.
-
-Crocus City Hall was about to host a rock concert when the gunmen burst into the foyer and then the theatre itself.
-
-Much of the building was engulfed by fire and part of the roof collapsed.
-
-Children are said to be among the casualties and the Russian foreign ministry has condemned a "terrorist attack".
-
-According to an unverified statement online, militant group Islamic State said it was behind the attack.
-
-...
-
-[Data](articles/272f064e.json)
-
-[Extended Data](ext_articles/272f064e.ext.json)
 
 ---

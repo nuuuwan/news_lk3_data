@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 00:18:08**
+As of **2024-03-25 00:33:18**
 
 ## Newspaper Stats
 
-*Scraped **14,893** Articles*
+*Scraped **14,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 820
 adalk | 1,267
 tamilmirrorlk | 1,792
 adaderanalk | 1,797
-virakesarilk | 2,087
+virakesarilk | 2,088
 dailymirrorlk | 2,294
 adaderanasinhalalk | 2,393
 
@@ -26,9 +26,33 @@ adaderanasinhalalk | 2,393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,893 (100.0%) of 14,893 articles have been extended.
+14,893 (100.0%) of 14,894 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-25 (Monday)
+
+### ஐந்து தடவைகள் ஐபிஎல் சம்பியனான மும்பையை 6 ஓட்டங்களால் வீழ்த்தியது குஜராத்
+
+*2024-03-25 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179608) · `ta`
+
+அஹமதாபாத் நரேந்த்ர மோடி விளையாட்டரங்கில் இன்று ஞாயிற்றுக்கிழமை (24) நடைபெற்ற மிகவும் பரபரப்பான இண்டியன் பிறீமியர் லீக் கிரிக்கெட் போட்டியில் 5 தடவைகள் சம்பியனான மும்பை இண்டியன்ஸை குஜராத் டைட்டன்ஸ் 6 ஓட்டங்ளால் வெற்ற்றிகொண்டது.
+
+மும்பையின் வெற்றிக்கு கடைசி 2 ஓவர்களில் 5 விக்கெட்கள் மீதம் இருக்க 27 ஓட்டங்கள் தேவைப்பட்டது.
+
+ஆனால், 19ஆவது ஓவரில் ஸ்பென்சர் ஜோன்சன் 8 ஓட்டங்களை மாத்திரம் கொடுத்து 2 விக்கெட்களைக் கைப்பற்றினார்.
+
+அடுத்த ஓவரில் 12 ஓட்டங்களைக் கொடுத்த  உமேஷ்  யாதவ், அதிரடி வீரர் அணித் தலைவர் ஹார்திக் பாண்டியாவின் விக்கெட் உட்பட 2 விக்கெட்களை வீழ்த்த குஜராத் டைட்டன்ஸ் அபார வெற்றியீட்டியது.
+
+இப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட குஜராத் டைட்டன்ஸ் 20 ஓவர்களில் 6 விக்கெட்களை இழந்து 168 ஓட்டங்களைப் பெற்றது.
+
+17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தில் இதுவரை நடைபெற்ற 5 போட்டிகளில் முதலில் துடுப்பெடுத்தாடிய அணி பெற்ற மிகக் குறைந்த மொத்த எண்ணிக்கை இதுவாகும்.
+
+...
+
+[Data](articles/952b9d5a.json)
+
+---
 
 ### 2024-03-24 (Sunday)
 
@@ -2243,21 +2267,5 @@ Under a new law the agency has got powers to trigger up to 7 percent inflation a
 [Data](articles/491b0a8c.json)
 
 [Extended Data](ext_articles/491b0a8c.ext.json)
-
----
-
-### Is Trump Likely To Be The Next American President?
-
-*2024-03-24 06:26:17* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/is-trump-likely-to-be-the-next-american-president/) · `en`
-
-Trump is not liked by most Americans, including most Republicans who support him because, though they agree that his behaviour is grotesque, he seems to be an election winner. Depending on the outcome of legal wrangles before the courts it is even conceivable that he may be the first person to contest the presidency from behind bars! (Who knows; it may increase his sympathy vote!). On Tuesday 5 March (Super Tuesday) when 15 to 16 states choose their party delegates to back a candidate for nomination both Trump and Biden scored resounding victories as Republican and Democratic nominees, respectively. Trump’s case is more important than Biden’s for reasons I will explain anon.
-
-Trump can be notoriously and dangerously inconsistent. (Someone quipped that the apps for the “Make America Great Again” logo are made in China!). Russia is pulling all stops in supporting him as evident from RT (Russian TV), Kremlin spokesmen and Putin himself. They are going to burn their fingers.
-
-...
-
-[Data](articles/33ab2768.json)
-
-[Extended Data](ext_articles/33ab2768.ext.json)
 
 ---

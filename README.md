@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 11:02:59**
+As of **2024-03-24 11:18:11**
 
 ## Newspaper Stats
 
-*Scraped **14,809** Articles*
+*Scraped **14,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 798
 islandlk | 820
 adalk | 1,262
 tamilmirrorlk | 1,782
-adaderanalk | 1,783
+adaderanalk | 1,784
 virakesarilk | 2,075
 dailymirrorlk | 2,277
 adaderanasinhalalk | 2,371
@@ -26,45 +26,75 @@ adaderanasinhalalk | 2,371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,806 (100.0%) of 14,809 articles have been extended.
+14,809 (100.0%) of 14,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### சம்பளத் திருத்தம் செய்ய மத்திய வங்கி இணக்கம்
+### New reforms vital for country’s economic recovery - President
+
+*2024-03-24 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98165/new-reforms-vital-for-countrys-economic-recovery-president) · `en`
+
+President Ranil Wickremesinghe emphasized the necessity of a new economic reform program for the country’s economic recovery. He urged collective support from all citizens to prevent the next generation from inheriting the hardships of past economic crises, the President’s Media Division (PMD) said.
+
+The President reminisced about inheriting a country others were reluctant to lead, highlighting that while some focused on their political aspirations, his concerns were committed towards the welfare of the nation’s future.
+
+President Ranil Wickremesinghe made these remarks while participating in a friendly discussion organized by the ‘United Youth Union’ on the theme ‘Future of our Youth’. The event took place yesterday (23) in Polonnaruwa.
+
+...
+
+[Data](articles/b2a36564.json)
+
+---
+
+### Central Bank Compliance to Revise Salary
 
 *2024-03-24 10:40:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளத்-திருத்தம்-செய்ய-மத்திய-வங்கி-இணக்கம்/175-335077) · `ta`
 
-ஆளும் சபை மற்றும் ஊழியர் பிரதிநிதிகளுக்கு இடையிலான கூட்டு ஒப்பந்தத்தின் பின்னர் இலங்கை மத்திய வங்கியின் (CBSL) 2024-2026 காலப்பகுதிக்கான சமீபத்திய சம்பளத் திருத்தம், பொதுமக்கள் மத்தியில் அதிக சர்ச்சையை உருவாக்கியது.
+The Central Bank of Sri Lanka (CBSL) is revising salaries following a controversial joint venture between the ruling council and employee representatives. Senior CBSL officials and professionals have decided to correct their salaries, with the General Finance Committee (COPF) set to review the matter. The COPF president suggests an independent committee review the salary increase. CBSL, under the CBSL Act No. 16 of 2023, operates autonomously, focusing on domestic pricing stability and financial system protection.
 
-இந்தச் சூழலுக்கு விடையறுக்கும் வகையில், CBSL இன் பெரும்பாலான மூத்த நிர்வாகம் மற்றும் தொழில் வல்லுநர்கள் தங்கள் சம்பளத்தில் திருத்தம் செய்வதைக் கருத்தில் கொள்ள ஒரு கூட்டு முடிவை எடுத்தனர்.
+🟩
 
-இந்த முடிவு COPF ஆல் செய்யப்பட்ட பரிந்துரைகளுக்கு முன் மற்றும் சுயாதீனமாக 16 மார்ச் 2024 அன்று பொது நிதிக்கான குழுவிற்கு (COPF) தெரிவிக்கப்பட்டது.
+The latest salary amendment for the Central Bank of Sri Lanka (CBSL) of the Central Bank of Sri Lanka (CBSL) has created a major controversy among the public following the joint venture between the ruling council and the employee representatives.
 
-COPF தலைவர் இதற்கிடையில் CBSL ஊழியர்களின் சம்பளத்தை அதிகரிப்பதற்கான கூட்டு ஒப்பந்தம் CBSL இன் அனைத்து ஊழியர் பிரிவுகளிலும் திருத்தங்களை உள்ளடக்கிய ஒரு சுயாதீன குழுவால் மதிப்பாய்வு செய்யப்பட வேண்டும் என்று பரிந்துரைத்துள்ளார்.
+In response to this environment, most senior administration and professionals of CBSL made a joint decision to consider the correction of their salary.
+
+The decision was made to the General Finance Committee (COPF) on 16 March 2024 before the recommendations made by COPF.
+
+The COPF president, meanwhile, has suggested that a joint agreement to increase the salary of CBSL employees should be reviewed by an independent committee comprising all staff of CBSL.
+
+Previously, under the Monetary Act No. 58 of 1949 and now under the CBSL Act No. 16 of 2023, the CBSL, the country's supreme financial institution, operates autonomously using its powers.
 
 ...
 
 [Data](articles/4b5ef2c6.json)
 
+[Extended Data](ext_articles/4b5ef2c6.ext.json)
+
 ---
 
-### කෙන්යාවේ වෛද්‍යවරුන් වැඩ වර්ජනයක
+### Doctors in Kenya on strike
 
 *2024-03-24 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194869) · `si`
 
-ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් කෙන්යාවේ වෛද්‍යවරුන් ඇතුළු සෞඛ්‍ය  ක්ෂේත්‍රයේ වෘත්තිකයින් වැඩ වර්ජනයක් ආරම්භ කර තිබේ.
+Health professionals in Kenya are on strike, demanding wage increases and better service conditions. Protests in Nairobi and disruptions in emergency services have been reported.
 
-ඊට සමගාමීව නයිරෝබි අගනුවර පැවැති විරෝධතාවක් පිළිබඳව විදෙස් මාධ්‍ය වාර්තා කරයි.
+🟩
 
-සිය වැටුප් ඉහළ දමන ලෙස සහ යහපත් සේවා පසුබිමක් සකසා දෙන වෛද්‍යවරුන් රජයෙන් ඉල්ලයි.
+The professionals in the health sector have launched a strike, including several demands.
 
-ඉන් ඇතැම් රෝහල්වල හදිසි ප්‍රතිකාර සේවා අඩපණ වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+Parallel to this, there is a protest in the capital Nairobi, foreign media reports.
+
+The government requests the government to increase their wages and a good service background.
+
+In some hospitals, emergency services have been contradicted, foreign media reports say.
 
 ◼️
 
 [Data](articles/c03a2e66.json)
+
+[Extended Data](ext_articles/c03a2e66.ext.json)
 
 ---
 
@@ -103,6 +133,8 @@ Devotees are seen engaged in religious activities at the Kelaniya Raja Maha Viha
 ◼️
 
 [Data](articles/0bc53ac4.json)
+
+[Extended Data](ext_articles/0bc53ac4.ext.json)
 
 ---
 
@@ -2215,25 +2247,5 @@ Namasivayam Premakumar, the sudden death investigator of the Jaffna Bodhana Hosp
 [Data](articles/314aa287.json)
 
 [Extended Data](ext_articles/314aa287.ext.json)
-
----
-
-### Police detained 38 suspected criminals of underworld gangs
-
-*2024-03-23 12:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-detained-38-suspected-criminals-of-underworld-gangs/108-279463) · `en`
-
-Colombo, March 23 (Daily Mirror) - Eleven more suspected criminals of underworld gangs were arrested yesterday during the special operation launched to crack down on organized criminal activities.
-
-The police and the STF launched special operations targeting 20 identified organized criminal gangs in the country under the 'Yukthiya' initiative last Tuesday (19) following the concerning increase in organized criminal activities in the Western and Southern Provinces.
-
-Police said a total of 38 underworld criminals of notorious underworld gangs led by figures such as 'Kudu Anju', Dematagoda Chaminda, Kanjipani Imran, Keselwatte Dinuka, Ladiya and Kosgoda Sujee have been arrested as of yesterday during the operation.
-
-They said the arrested suspects are being detained for further questioning.
-
-◼️
-
-[Data](articles/e3c338a5.json)
-
-[Extended Data](ext_articles/e3c338a5.ext.json)
 
 ---

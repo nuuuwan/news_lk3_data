@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 02:17:54**
+As of **2024-03-25 02:33:32**
 
 ## Newspaper Stats
 
-*Scraped **14,909** Articles*
+*Scraped **14,910** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 161
 dbsjeyarajcom | 191
 newsfirstlk | 363
 economynextcom | 800
-dailyftlk | 804
+dailyftlk | 805
 islandlk | 820
 adalk | 1,267
 tamilmirrorlk | 1,793
@@ -26,27 +26,49 @@ adaderanasinhalalk | 2,393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,905 (100.0%) of 14,909 articles have been extended.
+14,909 (100.0%) of 14,910 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### ஈஸ்டர் தாக்குதல் தொடர்பில் குற்றப்புலனாய்வு திணைக்களத்தில் வாக்குமூலம் அளிக்க மைத்திரிக்கு அழைப்பு
+### Citizens should be aware of the burden of total Government expenditure
+
+*2024-03-25 02:12:13* · [`dailyftlk`](https://www.ft.lk/columns/Citizens-should-be-aware-of-the-burden-of-total-Government-expenditure/4-759890) · `en`
+
+Higher the Government expenditure, greater the burden being borne by people
+
+American economist William A. Niskanen, writing to the American Economic Review in 1968 (available at: https://sites.socsci.uci.edu/~jkbrueck/course%20readings/Econ%20272B%20readings/niskanen.pdf) presented a model in which the governments and government agencies have incentives to enlarge their budgets. He called this the budget maximising behaviour of bureaus – spending units in the governments – to enhance the personal benefits for themselves rather than for the citizens. This model, further developed by him, was published later in 1971 in book form under the title “Bureaucracy and Representative Government” and in 1973 as a Hobart Paperback edition under the title “Bureaucracy: Servant or Master?”.
+
+...
+
+[Data](articles/12238e0a.json)
+
+---
+
+### Invite Maithri to make a confession at the Criminal Investigation Department regarding Easter attack
 
 *2024-03-25 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/179610) · `ta`
 
-ஈஸ்டர் தாக்குதல் தொடர்பில் குற்றப்புலனாய்வு திணைக்களத்தில் வாக்குமூலம் அளிக்க வருமாறு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவுக்கு அறிவிக்கப்பட்டதாகவும் அதற்கு அவர் ஓர் சாதகமான பதிலை வழங்கியதாகவும் பொலிஸ் மா அதிபர் தேஷ்பந்து தென்னகோன் தெரிவித்துள்ளார்.
+Maithripala Sirisena is invited to confess about the Easter attack at the CID. The CID has responded favorably to the Inspector General of Police. Public Security Minister Thon Alas has ordered an inquiry. The IGP emphasizes further investigations and the possibility of arrest if necessary, based on the former president's report.
 
-இது தொடர்பான அறிக்கை ஊடகங்களில் வெளியானதையடுத்து, குற்றப் புலனாய்வுத் திணைக்களம் வழங்கிய அறிவித்தலின் பிரகாரம், இது தொடர்பில் உடனடி விசாரணை நடத்துமாறு பொது பாதுகாப்பு அமைச்சர் திரன் அலஸ் உத்தரவிட்டுள்ளார் எனவும்  இது தொடர்பான அறிக்கையை 48 மணித்தியாலங்களுக்குள் முன்னாள் ஜனாதிபதி வழங்குவார் எனவும் அவர் தெரிவித்துள்ளார்.
+🟩
 
-ஞாயிற்றுக்கிழமை (24) அஸ்கிரிய பீட பிரதிப் பதிவாளர் நாரங்கபானவே ஆனந்த தேரரின் ஆசிகளைப் பெற்றுக்கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே பொலிஸ் மா அதிபர் மேற்கண்டவாறு தெரிவித்தார்.
+Former President Maithripala Sirisena has been informed that the Criminal Investigation Department has been informed by the Criminal Investigation Department regarding the Easter attack and has given a favorable response to the Inspector General of Police, Deshpandu Tennakoon.
 
-முன்னாள் ஜனாதிபதியின் அறிக்கையின் பிரகாரம் குற்றப் புலனாய்வு திணைக்களம் மேலதிக விசாரணைகளை ஆரம்பிக்கும் எனவும் அவர் வலியுறுத்தியுள்ளார்.
+Following the report in the media, Public Security Minister Thon Alas has ordered an immediate inquiry into the matter, according to the announcement made by the Criminal Investigation Department.
+
+The Inspector General of Police said this while commenting to the media after the blessings of the Asgiriya Faculty Deputy Registrar Narangapana Ananda Thera on Sunday (24).
+
+He also stressed that the Criminal Investigation Department will begin further investigations as per the former president's report.
+
+He also stated that if there is any threat to the security of the former president on the basis of the report, proper action can be taken in consultation with the Minister in charge of the matter.
 
 ...
 
 [Data](articles/ded732aa.json)
+
+[Extended Data](ext_articles/ded732aa.ext.json)
 
 ---
 
@@ -61,6 +83,8 @@ Application of banking ethics in Sri Lanka – refer: Daily FT dated 21 March 20
 ...
 
 [Data](articles/c64b063e.json)
+
+[Extended Data](ext_articles/c64b063e.ext.json)
 
 ---
 
@@ -86,6 +110,8 @@ United Kingdom’s Foreign, Commonwealth and Development Office (FCDO) Deputy Ch
 
 [Data](articles/7100573a.json)
 
+[Extended Data](ext_articles/7100573a.ext.json)
+
 ---
 
 ### Economic literacy for youth through puppetry and theatre
@@ -103,6 +129,8 @@ This project is a direct response to the disadvantages faced by youth, where tra
 ...
 
 [Data](articles/8c32aa33.json)
+
+[Extended Data](ext_articles/8c32aa33.ext.json)
 
 ---
 
@@ -2213,31 +2241,5 @@ In some hospitals, emergency services have been contradicted, foreign media repo
 [Data](articles/c03a2e66.json)
 
 [Extended Data](ext_articles/c03a2e66.ext.json)
-
----
-
-### We have already succeeded
-
-*2024-03-24 10:23:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாங்கள்-ஏற்கனவே-வெற்றி-பெற்றுவிட்டோம்/175-335075) · `ta`
-
-NPP General Secretary Dilvin Silva hopes to form a strong government for social change and economic recovery, emphasizing the need for power beyond the current 113 seats.
-
-🟩
-
-NPP General Secretary Dilvin Silva yesterday said he hoped to form a strong government, saying that a large -scale government was not enough to create an expected social change and restore the bankrupt economy.
-
-Speaking at the Puttalam District Women's Council, she said that NPP should have a strong power to do anything.
-
-“We have already won. But we think there is no use in the rule of 113 seats to make the expected social change.
-
-To have firm strength to do whatever they want. Previous governments gained strong strength to destroy the country. But. To restore the bankrupt country, we have to gain strong power, ”he said.
-
-De Silva said, "We will create a government of the first people in Sri Lanka with the strength and confidence that the rivals cannot bring down the rivals through sabotage."
-
-◼️
-
-[Data](articles/e2f351a7.json)
-
-[Extended Data](ext_articles/e2f351a7.ext.json)
 
 ---

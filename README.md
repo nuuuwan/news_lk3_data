@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 13:52:18**
+As of **2024-03-24 14:03:01**
 
 ## Newspaper Stats
 
-*Scraped **14,831** Articles*
+*Scraped **14,834** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,106 @@ newsfirstlk | 363
 dailyftlk | 792
 economynextcom | 798
 islandlk | 820
-adalk | 1,264
+adalk | 1,265
 tamilmirrorlk | 1,786
 adaderanalk | 1,789
 virakesarilk | 2,077
-dailymirrorlk | 2,278
-adaderanasinhalalk | 2,376
+dailymirrorlk | 2,279
+adaderanasinhalalk | 2,377
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,829 (100.0%) of 14,831 articles have been extended.
+14,831 (100.0%) of 14,834 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### රුසියාවේ අද ශෝක දිනයක්
+### අලුත්ම අවුල ගැන අනුර හෙළිකරයි
+
+*2024-03-24 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194875) · `si`
+
+ඉදිරි මැතිවරණයකදී මෙරට ඉතිහාසයේ පළමුවරට ජනතාවගෙත් පාලකයාගෙත් අපෙක්ෂාවන් එකක් බවට පත්වන ආණ්ඩුවක් බිහිකරන බව ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ඔහු මෙම අදහස් පළකළේ කැනඩාවේ ටොරොන්ටෝ නගරයේදි ඊයේ  (23) එරට සිටින ශ්‍රී ලාංකිකයන් අමතමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක,
+
+"බැසිල් පාර්ලිමේන්තු ඡන්දය කලින් තිබුනොත් හොඳයි කියනවා. ජනාධිපතිවරණයකදී වැඩිම අසීරුතාවයකට මුහුණදෙන්නේ ඔවුන් එක්කෝ රනිල්ට සහාය දෙන්න ඕනේ. රනිල්ට සහය දුන්නොත් පොහොට්ටුව ඉවරයි නැත්නම් වෙනකෙනෙක් දාන්න ඕනේ. වෙන කෙනෙක් දැම්මොත් ඡන්ද ලැබෙන්නේ නැහැ. ගෙදර ගියොත් අඹු නසී - මඟ හිටියොත් තෝ නසී. ඒකයි මහමැතිවරණය කලින් ගන්න හදන්නේ. මහමැතිවරණය කලින් ගන්න පුළුවන් රනිල්ට විතරයි. අද පාර්ලිමේන්තුව විසුරුවාහැරියොත් හෙට රනිල්ගේ බලය ඉවරයි. දැනට දේශපාලන වාතාවරණය අනුව ජනාධිපතිවරණය සැප්තැම්බර් 28 හෝ ඔක්තෝබර් 05 පැවැත්වෙනවා. ඒක වළක්වන්න කාටවත් බැහැ. ජනතාව පීඩාව දරාගෙන ඉන්නේ. මැතිවරණයකදී පාඩමක් උගන්වන්න. රට ගොඩනගන්න අපිත් එක්ක එකතුවෙන්න. ජනතාවගෙත් - පාලකයාගෙත් . අපේක්ෂාව එකක්වෙන ආණ්ඩුවක් අපි හදමු."
+
+◼️
+
+[Data](articles/92d82663.json)
+
+---
+
+### A day of mourning in Russia
 
 *2024-03-24 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194874) · `si`
 
-පුද්ගලයින් 133 දෙනෙකුට මරු කැඳවමින් රුසියාවේ රඟහලකට එල්ල වූ ප්‍රහාරය හේතුවෙන් අද (24) දිනය තුළ රුසියාවට ශෝක දිනයක් ප්‍රකාශයට පත් කර තිබේ.
+Russia mourns 133 lives in terror attack. 13 LTTE cadres, 6,200+ theatergoers, and 11 suspects arrested. Attack condemned globally, including by Sri Lanka's Ministry of External Affairs.
 
-ඒ අනුව, රුසියාව පුරා සහ ශ්‍රී ලංකාව ඇතුළු රටවල් රැසක පිහිටි රුසියානු තානාපති කාර්යාල ඉදිරිපිටට පැමිණි පිරිස් ප්‍රහාරයෙන් මියගිය පිරිස සිහිකර උපහාර දැක්වීමට කටයුතු කර තිබුණි.
+🟩
 
-රුසියාවේ මොස්කව් නුවර ආසන්නයේ පිහිටි ක්‍රෝකස් නගර ශාලාවේ පැවැති සංගීත ප්‍රසංගයක් ඉලක්ක කර ඊයේ එල්ල වූ ත්‍රස්ත ප්‍රහාරයෙන් මේ වනවිට පුද්ගලයින් 133 දෙනෙකුට දිවි අහිමි වී තිබේ.
+Thirteen 133 people have been declared with the attack on Russia today (24).
 
-ප්‍රහාරය එල්ලවන අවස්ථාවේ රඟහල තුළ සිට ඇති පිරිස 6,200කට අධිකය.
+Accordingly, the number of people who were in front of the Russian embassies in Russia and Sri Lanka were also taken into custody.
 
-දශක දෙකකට පසු රුසියාවෙන් වාර්තා වූ දරුණුතම ත්‍රස්ත ප්‍රහාරය මෙය වන අතර එහි වගකීම ඉස්ලාමීය රාජ්‍යය හෙවත් IS සංවිධානය භාරගෙන තිබුණි.
+Thirteen LTTE cadres have lost their lives to a concert held at the Cross Town Hall near Moscow, Russia.
 
-ප්‍රහාරකයින් වෙඩිතබමින් නගර ශාලාවට ඇතුළු වී ප්‍රහාරය එල්ල කළ ආකාරය දැක්වෙන වීඩියෝවක්ද IS සංවිධානය පසුව නිකුත් කර තිබුණි.
+More than 6,200 people from theater from the theater when the attack was hit.
 
-ප්‍රහාරය සම්බන්ධයෙන් පුද්ගලයින් 11 දෙනෙක් අත්අඩංගුවට ගෙන ඇති අතර, රඟහල තුළ වෙඩිතැබීම සිදුකළ පුද්ගලයින් සිව්දෙනා ද ඒ අතරට අයත්ය.
+Two decades later, this is the worst terrorist attack from Russia, and the Islamic state is the Organization of the Islamic Kingdom.
+
+The ISO was later released on a video of the attack and attacked the attack.
+
+11 persons have been arrested in connection with the attack and the four persons who have been shot in the Theater belongs.
+
+Foreign media reports the Russian people have been able to donate blood for the injured.
+
+He emphasized that the suspects were jumping to Ukraine and emphasized that he would be severely punished for responsible.
 
 ...
 
 [Data](articles/93ccfa29.json)
 
+[Extended Data](ext_articles/93ccfa29.ext.json)
+
 ---
 
-### ධනංජයගෙන් තවත් ශතකයක්
+### Price of imported milk powder slashed
+
+*2024-03-24 13:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Price-of-imported-milk-powder-slashed/108-279476) · `en`
+
+Colombo, March 24 (Daily Mirror) - Minister of Trade Nalin Fernando announced a significant reduction in the price of imported milk powder, aimed at alleviating the financial burdens on consumers.
+
+Accordingly, Minister Fernando disclosed that the price adjustment entails a decrease of Rs. 150 for packets weighing a kilogram.
+
+Further, the 400-gram packets will see a reduction of Rs. 60.
+
+◼️
+
+[Data](articles/ec0c18c9.json)
+
+---
+
+### Another century from Dhananjaya
 
 *2024-03-24 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194873) · `si`
 
-ශ්‍රී ලංකා ටෙස්ට් නායක ධනංජය ද සිල්වා බංග්ලාදේශයට එරෙහිව පැවැත්වෙන පළමු ටෙස්ට් තරගයේ මීට සුළු මොහොතකට පෙර සිය 12 වන ටෙස්ට් ශතකය වාර්තා කිරීමට සමත්විය.
+Dhananjaya records his 12th Test century before Bangladesh Test.
+
+🟩
+
+Test leader Dhananjaya records his 12th Test century before the first Test against Bangladesh.
 
 ◼️
 
 [Data](articles/2068d1c9.json)
+
+[Extended Data](ext_articles/2068d1c9.ext.json)
 
 ---
 
@@ -357,6 +407,28 @@ After the telephone number, when all party leaders were reluctant to take up the
 [Data](articles/a0462c6b.json)
 
 [Extended Data](ext_articles/a0462c6b.ext.json)
+
+---
+
+### කෝටි 2 කට ආසන්න වටිනා අයිස් මත්ද්‍රව්‍ය  සමග දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-03-24 11:03:57* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-2-කට-ආසන්න-වටිනා-අයිස්-මත්ද්‍රව්‍ය--සමග-දෙදෙනෙක්-අත්අඩංගුවට/11-408769) · `si`
+
+රුපියල් කෝටි දෙකකට ආසන්න අයිස්මත්ද්‍රව්‍ය  තොගයක්  ත්‍රීරෝද රථයකින් ප්‍රවාහනය කරමින් සිටි පුද්ගලයන් දෙදෙනෙක්  දෙමටගොඩ බේස්ලයින් පාර සිරිසර උයන මහල් නිවාස සංකීර්ණය අසලදී අත්අඩංගුවට ගත් බව කොළඹ අපරාධ කොට්ඨාසය කියයි
+
+අත්අඩංගුවට ගත් ප්‍රධාන සැකකරු ඔරුගොඩවත්ත  චප්පා නමැත්තෙකි.අනෙක් සැකකරු තීරෝද රථයේ රියදුරායි.එම සැකකරු බොරැල්ල සහස්පුර පදිංචිකරුවෙකි.
+
+ප්‍රධාන සැකකරු සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය  ගෑම් 1580 ක් පොලිස් භාරයට ගෙන ඇත
+
+පොලිස්පති දේශබන්දු  තෙන්නකෝන් මහතාගේ නියෝග සහ උපදෙස් පරිදි සංවිධානාත්මක අපරාධ මැඩලීම සඳහා දියත් කරන ලද විශේෂ මෙහෙයුමේදී සංවිධානාත්මක අපරාධ  කණ්ඩායම්වල සාමජිකයන්ගේ නාම ලේඛණයට පරිබාහිරව කොළඹ අපරාධ කොට්ඨාසයට ලද තොරතුරකට අනුව  සැකකරුවන් අත්අඩංගුවට ගෙන ඇත
+
+වයස අවුරුදු 39 හා 41 අතර පසුවන සැකකරුවන් දෙදෙනා අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය
+
+කොළඹ අපරාධ කොට්ඨාසයේ  අධ්‍යක්ෂක සහකාර පොලිස් අධිකාරී නෙවිල්  ද සිල්වා ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක අන්සලම් ද සිල්වා මහත්වරුන්ගේ උපදෙස් මත පොලිස් පරීක්ෂක ප්‍රදීප් මහතා ඇතුළු නිලධාරීන් කණ්ඩායමක් පරීක්ෂණ පවත්වයි
+
+◼️
+
+[Data](articles/9731dd3d.json)
 
 ---
 
@@ -2117,87 +2189,5 @@ The attention of the relevant authorities should be properly referred to this.
 [Data](articles/bd4334e2.json)
 
 [Extended Data](ext_articles/bd4334e2.ext.json)
-
----
-
-### Direct flights from Colombo to Dhaka will begin next month
-
-*2024-03-23 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179512) · `ta`
-
-FitsAir launches direct flights from Colombo to Dhaka on April 16, addressing demand for affordable travel between Sri Lanka and Bangladesh.
-
-🟩
-
-FitsAir, a low -cost airline, said it was happy to launch direct flights between Colombo and Bangladesh's capital Dhaka in April.
-
-The airline reflects a significant milestone in regional air traffic to address the growing demand for affordable travel options between Sri Lanka and Bangladesh.
-
-In the light of Bangladesh's fastest expanding economy, Dhaka is becoming a popular place to attract interest from Sri Lankan traders.
-
-Fitz Air is committed to providing a low -cost, timely and efficient air connection to meet the needs of this growing market, recognizing this trend.
-
-The airline is scheduled to commence on April 16. The initial fee will be charged at Rs 74,600.
-
-Fitsair is currently offering direct services from Colombo to Dubai, Mali and Chennai.
-
-You can visit the Fitz Lake www.fitsair.com to get more information. In addition, (+94) 117 940 940 can be contacted by the WhatsApp on the number (+94) 777 811 118.
-
-◼️
-
-[Data](articles/8ab9e2ed.json)
-
-[Extended Data](ext_articles/8ab9e2ed.ext.json)
-
----
-
-### Non-communicable diseases in Sri Lanka on the rise
-
-*2024-03-23 15:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Non-communicable-diseases-in-Sri-Lanka-on-the-rise/108-279466) · `en`
-
-Colombo, March 23 (Daily Mirror) - Sri Lanka has witnessed a surge in non-communicable diseases, prompting action from the Ministry of Health.
-
-This was revealed by Health Minister Dr. Ramesh Pathirana today (23) at the launching event of the "Suva Udana" mobile health clinic programme in Yakkalamulla, Galle.
-
-The programme, which marks the 14th such initiative this year, seeks to extend healthcare services to rural communities.
-
-Speaking at the event, Minister Pathirana highlighted the increasing prevalence of non-communicable diseases across the country.
-
-The mobile clinic offers a comprehensive range of services, including dental care, laboratory tests, eye clinics and screenings for blood sugar, fat levels, body mass index and blood pressure.
-
-In addition, specialized clinics for kidney disorders, traditional Ayurvedic medicine, and Chinese acupuncture are also available.
-
-...
-
-[Data](articles/85327307.json)
-
-[Extended Data](ext_articles/85327307.ext.json)
-
----
-
-### Rameshwaram is a strike demanding the release of fishermen
-
-*2024-03-23 15:28:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமேஸ்வரம்-மீனவர்களை-விடுதலை-செய்ய-கோரி-வேலை-நிறுத்தம்/175-335051) · `ta`
-
-Rameshwaram fishermen on strike demanding release of 37 arrested fishermen, including 5 navy drivers, for alleged fishing in navy waters. They threaten to boycott Lok Sabha elections if not released. Over 800 boats and 50,000 jobs at risk.
-
-🟩
-
-Rameshwaram fishermen have been on strike since today (23) demanding the immediate release of 37 fishermen in the Sri Lankan jail.
-
-The fishermen have also passed a resolution that the fishermen will boycott the upcoming Lok Sabha elections if they do not release the boat.
-
-Five boat and 32 fishermen have been arrested and taken to Jaffna jail for allegedly fishing in the Sri Lankan navy.
-
-Rameshwaram fishermen have launched a series of strikes today (23) demanding the immediate release of 37 fishermen, including five drivers of the Sri Lankan Navy, who was arrested by the Sri Lankan navy on February 16.
-
-The fishermen will also hold a protest at the Rameswaram Vattakshiar office on the 8th, including their voter ID and Aadhaar card.
-
-Rameshwaram fishermen have decided to boycott the election without voting in the coming Lok Sabha elections if the fishermen are not released with the boat within the upcoming Lok Sabha elections.
-
-...
-
-[Data](articles/0211dedf.json)
-
-[Extended Data](ext_articles/0211dedf.ext.json)
 
 ---

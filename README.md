@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 21:17:45**
+As of **2024-03-24 21:33:30**
 
 ## Newspaper Stats
 
-*Scraped **14,883** Articles*
+*Scraped **14,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,266
 tamilmirrorlk | 1,792
 adaderanalk | 1,796
 virakesarilk | 2,084
-dailymirrorlk | 2,291
+dailymirrorlk | 2,293
 adaderanasinhalalk | 2,391
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,882 (100.0%) of 14,883 articles have been extended.
+14,883 (100.0%) of 14,885 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,24 @@ Thus, the members of the public are advised to stay hydrated, take breaks in the
 ...
 
 [Data](articles/1d830d05.json)
+
+[Extended Data](ext_articles/1d830d05.ext.json)
+
+---
+
+### Badulla Hospital becomes a Teaching Hospital
+
+*2024-03-24 21:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Badulla-Hospital-becomes-a-Teaching-Hospital/108-279486) · `en`
+
+Badulla Hospital has become a Teaching Hospital along with the Faculty of Medicine from yesterday.
+
+A special ceremony was held at the Badulla Library Auditorium to mark the enrollment of new students where the Nimal Siripala de Silva Foundation donated a stethoscope to each of the 50 new medical students.
+
+Minister of Education Susil Premajayantha, University Grants Commission Chairman Sampath Amaratunga, Uva University Chancellor Dr. Jayantha Balawardena, Vice Chancellor Prof. Kolitha Bandara Wijesekera and a group of officials and parents of medical students participated in these events.
+
+◼️
+
+[Data](articles/89dfb274.json)
 
 ---
 
@@ -95,6 +113,22 @@ Specialist Dr. Palitha Mahipala made this statement participating in the Committ
 [Data](articles/bd76dca1.json)
 
 [Extended Data](ext_articles/bd76dca1.ext.json)
+
+---
+
+### Sri Lankan Refugee ends life in Manapparai
+
+*2024-03-24 20:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-Refugee-ends-life-in-Manapparai/108-279487) · `en`
+
+Tamil Nadu, March 24 (The Hindu) - A 45-year-old person residing in the Sri Lankan Refugee Rehabilitation Centre in Thirumayam ended his life in a municipal complex in Manapparai on Saturday.
+
+Antony Fernando, 45, from Thekkattur in Thirumayam Refugee Rehabilitation Centre, came to Manapparai two days ago. On Saturday, he ended his life in the municipal complex on Kovilpatti Road.
+
+The police said the reasons for his extreme step were not known. CCTV footage from nearby shops would be analysed and a detailed investigation would be conducted, the police added.
+
+◼️
+
+[Data](articles/130be54f.json)
 
 ---
 
@@ -2169,41 +2203,5 @@ Himalaya Purifying Neem Facewash is exclusively distributed in Sri Lanka by the 
 [Data](articles/a7f7c21e.json)
 
 [Extended Data](ext_articles/a7f7c21e.ext.json)
-
----
-
-### Beating cancer helps Lankan Buddhist woman find faith
-
-*2024-03-24 05:01:00* · [`islandlk`](http://island.lk/beating-cancer-helps-lankan-buddhist-woman-find-faith/) · `en`
-
-(UCAN)At 58, Ruwani Mudalige chose to be baptized a Catholic in Sri Lanka after years of keeping away from Catholicism, her mother’s religion.
-
-“I grew up in a house of Buddhists. But my mother was a strong Catholic. I used to attend Sunday Mass with her during my childhood, but I never felt a connection to the Church,” Mudalige said.
-
-She moved further away from Christianity with her marriage to “a devout Buddhist” at the age of 22 in 1988.The family of her husband Aloka Weerathunga was one of the traditional dancers, who attended Buddhist religious festivals and ceremonies across the country.
-
-Mudalige accompanied them as they — her husband, his father and other relatives — performed before temple processions with a decorated elephant in vibrant colors.
-
-During these festivals, her family’s youngsters formed a fire-dancing team, performing outside Buddhist temples as part of the festivities.
-
-...
-
-[Data](articles/a0baa08d.json)
-
-[Extended Data](ext_articles/a0baa08d.ext.json)
-
----
-
-### Karlsruhe and the properties of Lorenz
-
-*2024-03-24 04:54:00* · [`islandlk`](http://island.lk/karlsruhe-and-the-properties-of-lorenz/) · `en`
-
-The history of this abode is both historic and tragic concerning the life of Lorenz. The origins of this abode are unknown. Its structure is essentially Dutch but its occupants of various eras have made their additions to its architectural setting. Lorenz had been eyeing this property for some time. Previously, it was owned by Governor Charles McCarthy’s brother. Just like  Elie House, this property opposite the Welikada Prison was situated at a higher elevation in comparison with its surroundings. Originally this property was in two blocks of land covering 11.5 acres. After purchasing this property from Dr. Dickman and Dr. Wambeek, Charles Lorenz, who was mortally ill arrived here in early 1871. Sadly, this would be his final abode as Lorenz passed away in August 1871.
-
-...
-
-[Data](articles/9207bdb2.json)
-
-[Extended Data](ext_articles/9207bdb2.ext.json)
 
 ---

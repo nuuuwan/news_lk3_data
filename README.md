@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 14:03:01**
+As of **2024-03-24 14:18:06**
 
 ## Newspaper Stats
 
-*Scraped **14,834** Articles*
+*Scraped **14,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,55 @@ tamilmirrorlk | 1,786
 adaderanalk | 1,789
 virakesarilk | 2,077
 dailymirrorlk | 2,279
-adaderanasinhalalk | 2,377
+adaderanasinhalalk | 2,378
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,831 (100.0%) of 14,834 articles have been extended.
+14,834 (100.0%) of 14,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### අලුත්ම අවුල ගැන අනුර හෙළිකරයි
+### බැරිම තැන ගත් මන්කාඩ් උත්සාහය
 
-*2024-03-24 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194875) · `si`
+*2024-03-24 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194876) · `si`
 
-ඉදිරි මැතිවරණයකදී මෙරට ඉතිහාසයේ පළමුවරට ජනතාවගෙත් පාලකයාගෙත් අපෙක්ෂාවන් එකක් බවට පත්වන ආණ්ඩුවක් බිහිකරන බව ජාතික ජනබලවේගයේ නායක අනුර කුමාර දිසානායක මහතා පවසයි.
+ශ්‍රී ලංකාව සහ බංග්ලාදේශ කණ්ඩායම අතර පැවැත්වෙන ටෙස්ට් තරගයේදී සිදුවූ සුවිශේෂී සිදුවීමක් දැක්වෙන වීඩියෝවක් මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වෙමින් පවතී.
 
-ඔහු මෙම අදහස් පළකළේ කැනඩාවේ ටොරොන්ටෝ නගරයේදි ඊයේ  (23) එරට සිටින ශ්‍රී ලාංකිකයන් අමතමිනි.
+එහි දැක්වෙන්නේ ශ්‍රී ලංකා නවක පිතිකරු කමිඳු මෙන්ඩිස්ව මන්කාඩ් ක්‍රමයට දවාගැනීමට ගත් උත්සාහයක් ව්‍යර්ථ වී යන ආකාරයයි.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක,
+තරගයේ ශ්‍රී ලංකාවේ දෙවන ඉනිමේ 62 වන පන්දුවාරයේදී ඛාලෙඩ් අහමඩ් විසින් සිය 5 වන පන්දුව යොමුකිරීමේ අවස්ථාවේදී මෙම උත්සාහය ගනු ලැබීය.
 
-"බැසිල් පාර්ලිමේන්තු ඡන්දය කලින් තිබුනොත් හොඳයි කියනවා. ජනාධිපතිවරණයකදී වැඩිම අසීරුතාවයකට මුහුණදෙන්නේ ඔවුන් එක්කෝ රනිල්ට සහාය දෙන්න ඕනේ. රනිල්ට සහය දුන්නොත් පොහොට්ටුව ඉවරයි නැත්නම් වෙනකෙනෙක් දාන්න ඕනේ. වෙන කෙනෙක් දැම්මොත් ඡන්ද ලැබෙන්නේ නැහැ. ගෙදර ගියොත් අඹු නසී - මඟ හිටියොත් තෝ නසී. ඒකයි මහමැතිවරණය කලින් ගන්න හදන්නේ. මහමැතිවරණය කලින් ගන්න පුළුවන් රනිල්ට විතරයි. අද පාර්ලිමේන්තුව විසුරුවාහැරියොත් හෙට රනිල්ගේ බලය ඉවරයි. දැනට දේශපාලන වාතාවරණය අනුව ජනාධිපතිවරණය සැප්තැම්බර් 28 හෝ ඔක්තෝබර් 05 පැවැත්වෙනවා. ඒක වළක්වන්න කාටවත් බැහැ. ජනතාව පීඩාව දරාගෙන ඉන්නේ. මැතිවරණයකදී පාඩමක් උගන්වන්න. රට ගොඩනගන්න අපිත් එක්ක එකතුවෙන්න. ජනතාවගෙත් - පාලකයාගෙත් . අපේක්ෂාව එකක්වෙන ආණ්ඩුවක් අපි හදමු."
+එහිදී පන්දුව කඩුල්ලේ නොවැදීම හේතුවෙන් ඔහුගේ උත්සාහය ව්‍යර්ථ වූ හැටි පහතින්.
 
 ◼️
 
+[Data](articles/ce4309bf.json)
+
+---
+
+### Anura reveals about the latest mess
+
+*2024-03-24 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194875) · `si`
+
+Anura Kumara Dissanayake, leader of the National Power, criticized Basil's parliamentary vote, urging support for Ranil in the presidential election. He warned of dire consequences if Ranil does not support him, suggesting that the general election could be held soon, with the presidential election on September 28 or October.
+
+🟩
+
+Leader of the National Zoology Anura Kumara Dissanayake says that the first time in the history of the country to become one of the first time in the history of the country to be one of the first time in the history of the country.
+
+He made these comments addressing Sri Lankans in Toronto yesterday.
+
+Leader of the National Power Anura Kumara Dissanayake
+
+...
+
 [Data](articles/92d82663.json)
+
+[Extended Data](ext_articles/92d82663.ext.json)
 
 ---
 
@@ -97,6 +119,8 @@ Further, the 400-gram packets will see a reduction of Rs. 60.
 ◼️
 
 [Data](articles/ec0c18c9.json)
+
+[Extended Data](ext_articles/ec0c18c9.ext.json)
 
 ---
 
@@ -410,25 +434,31 @@ After the telephone number, when all party leaders were reluctant to take up the
 
 ---
 
-### කෝටි 2 කට ආසන්න වටිනා අයිස් මත්ද්‍රව්‍ය  සමග දෙදෙනෙක් අත්අඩංගුවට
+### Two arrested with ice drugs worth Rs. 2 million
 
 *2024-03-24 11:03:57* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-2-කට-ආසන්න-වටිනා-අයිස්-මත්ද්‍රව්‍ය--සමග-දෙදෙනෙක්-අත්අඩංගුවට/11-408769) · `si`
 
-රුපියල් කෝටි දෙකකට ආසන්න අයිස්මත්ද්‍රව්‍ය  තොගයක්  ත්‍රීරෝද රථයකින් ප්‍රවාහනය කරමින් සිටි පුද්ගලයන් දෙදෙනෙක්  දෙමටගොඩ බේස්ලයින් පාර සිරිසර උයන මහල් නිවාස සංකීර්ණය අසලදී අත්අඩංගුවට ගත් බව කොළඹ අපරාධ කොට්ඨාසය කියයි
+Two arrested for transporting Rs. 2 million worth of ice drugs. Colombo Crimes Division took 1580 drugs from suspect Orugodawatta Chappa, a driver. Arrests made outside IGP Tennakoon's directives. Suspects, aged 39-41, to face court. Further investigations underway.
 
-අත්අඩංගුවට ගත් ප්‍රධාන සැකකරු ඔරුගොඩවත්ත  චප්පා නමැත්තෙකි.අනෙක් සැකකරු තීරෝද රථයේ රියදුරායි.එම සැකකරු බොරැල්ල සහස්පුර පදිංචිකරුවෙකි.
+🟩
 
-ප්‍රධාන සැකකරු සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය  ගෑම් 1580 ක් පොලිස් භාරයට ගෙන ඇත
+Colombo Crimes Division says two persons who were transporting nearly Rs.
 
-පොලිස්පති දේශබන්දු  තෙන්නකෝන් මහතාගේ නියෝග සහ උපදෙස් පරිදි සංවිධානාත්මක අපරාධ මැඩලීම සඳහා දියත් කරන ලද විශේෂ මෙහෙයුමේදී සංවිධානාත්මක අපරාධ  කණ්ඩායම්වල සාමජිකයන්ගේ නාම ලේඛණයට පරිබාහිරව කොළඹ අපරාධ කොට්ඨාසයට ලද තොරතුරකට අනුව  සැකකරුවන් අත්අඩංගුවට ගෙන ඇත
+The main suspect, Orugodawatta Chappa, a suspect. The suspect is a Suspect's driver.
 
-වයස අවුරුදු 39 හා 41 අතර පසුවන සැකකරුවන් දෙදෙනා අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය
+Police have taken 1580 ice drugs from the main suspect's possession
 
-කොළඹ අපරාධ කොට්ඨාසයේ  අධ්‍යක්ෂක සහකාර පොලිස් අධිකාරී නෙවිල්  ද සිල්වා ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක අන්සලම් ද සිල්වා මහත්වරුන්ගේ උපදෙස් මත පොලිස් පරීක්ෂක ප්‍රදීප් මහතා ඇතුළු නිලධාරීන් කණ්ඩායමක් පරීක්ෂණ පවත්වයි
+The suspects have been arrested following information to the Colombo Criminal Division to the Colombo Crimes Division outside the orders for the provisions of the IGP Deshabandu Tennakoon's directives and instructions.
+
+The two suspects between the ages of 39 and 41 are to be produced before courts
+
+Police Inspector Pradeep and other officials are conducting further investigations on instructions of the Director of the Colombo Crimes Division
 
 ◼️
 
 [Data](articles/9731dd3d.json)
+
+[Extended Data](ext_articles/9731dd3d.ext.json)
 
 ---
 
@@ -2157,37 +2187,5 @@ It was responding to questions posed by journalists following a function in Colo
 [Data](articles/31d13aaa.json)
 
 [Extended Data](ext_articles/31d13aaa.ext.json)
-
----
-
-### Kataragama children who come to the streets
-
-*2024-03-23 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194848) · `si`
-
-Children in Kataragama, aged for school, face exploitation for money. Some attend school, others are sold for alcohol. Parents, police intervene. Pilgrims demand schoolbooks, alcohol. Shops, private lodges involved.
-
-🟩
-
-It is reported that children who are aged in the ages of go to schools will be opened in Kataragama sacred.
-
-The children of Kataragama Devalaya, the Sella Kataragama and Kirihera are the devalamation of these children with their parents.
-
-Some children go to school, and the other majority are children who do not attend school.
-
-Sadly, with the aim of making money, these children are trying to attract.
-
-The parents have taken steps to take these children on several occasions by the Kataragama Police.
-
-Our correspondent said that the pilgrims would be demanding boys to buy school books, claiming to buy pilgrims, to buy alcohol.
-
-In the Kataragama pornography, the sacred Kingdom shops are also seen in private lodges and ornamental cargoes.
-
-The attention of the relevant authorities should be properly referred to this.
-
-◼️
-
-[Data](articles/bd4334e2.json)
-
-[Extended Data](ext_articles/bd4334e2.ext.json)
 
 ---

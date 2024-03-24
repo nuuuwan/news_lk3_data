@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 09:52:22**
+As of **2024-03-24 10:03:14**
 
 ## Newspaper Stats
 
-*Scraped **14,802** Articles*
+*Scraped **14,803** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 1,262
 tamilmirrorlk | 1,779
 adaderanalk | 1,783
 virakesarilk | 2,075
-dailymirrorlk | 2,275
+dailymirrorlk | 2,276
 adaderanasinhalalk | 2,369
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,802 (100.0%) of 14,802 articles have been extended.
+14,802 (100.0%) of 14,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### India extends ban on onion exports indefinitely ahead of general election
+
+*2024-03-24 09:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/India-extends-ban-on-onion-exports-indefinitely-ahead-of-general-election/107-279471) · `en`
+
+MUMBAI, March 24 (Reuters) - India has extended its ban on onion exports indefinitely - a surprise move that comes ahead of a general election and is set to exacerbate high prices in some overseas markets.
+
+Imposed by India - the world's biggest exporter of the vegetable - in December, the ban was due to expire on March 31. Traders had anticipated it would be lifted as local prices have more than halved since the export restrictions were implemented and this season's crop is yielding fresh supplies.
+
+However, the government issued an order late on Friday that the ban will remain in place until further notice.
+
+"The extension is surprising and completely unnecessary, considering the falling prices with rising supplies from the new season crop," said an executive at a Mumbai-based export firm, who declined to be identified.
+
+...
+
+[Data](articles/362cb5db.json)
+
+---
 
 ### India extends ban on onion exports indefinitely ahead of general election
 
@@ -2233,25 +2251,5 @@ Exports to the US, the top buyer of Sri Lanka goods, picked up 8 percent to 249.
 [Data](articles/6fadf9f7.json)
 
 [Extended Data](ext_articles/6fadf9f7.ext.json)
-
----
-
-### Rameshwaram fishermen condemning the Sri Lankan navy
-
-*2024-03-23 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179491) · `ta`
-
-Rameshwaram fishermen protest Sri Lankan navy, demanding release of jailed fishermen and boats. They threaten to hand over voter and Aadhaar cards on April 8, warning of a government boycott if immediate action isn't taken.
-
-🟩
-
-The strike is underway to release fishermen in Sri Lankan jails and rescue boats.
-
-If the fishermen and boats are not released, they plan to hand over voter cards and Aadhaar cards on April 8. Fishermen have warned that the union government will boycott the election if it does not take immediate action.
-
-◼️
-
-[Data](articles/4c391f80.json)
-
-[Extended Data](ext_articles/4c391f80.ext.json)
 
 ---

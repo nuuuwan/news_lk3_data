@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 20:17:56**
+As of **2024-03-24 20:33:46**
 
 ## Newspaper Stats
 
-*Scraped **14,877** Articles*
+*Scraped **14,879** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ islandlk | 820
 adalk | 1,266
 tamilmirrorlk | 1,792
 adaderanalk | 1,794
-virakesarilk | 2,083
-dailymirrorlk | 2,290
+virakesarilk | 2,084
+dailymirrorlk | 2,291
 adaderanasinhalalk | 2,389
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,874 (100.0%) of 14,877 articles have been extended.
+14,877 (100.0%) of 14,879 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### Sri Lanka pushes Bangladesh to brink after de Silva, Mendis score centuries
+
+*2024-03-24 20:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-pushes-Bangladesh-to-brink-after-de-Silva-Mendis-score-centuries/108-279485) · `en`
+
+Mar. 24 (AFP) - Dhananjaya de Silva and Kamindu Mendis both slammed their second century of the match as Sri Lanka set up a 511-run target for Bangladesh before pushing the host to the corner in the first Test today.
+
+The visitor was all out for 418 in its second innings at Sylhet, with Mendis making 164 runs to go with his 102 in the first innings and De Silva, who also scored 102 runs in the first innings, adding 108.
+
+Sri Lankan pacers began the victory push immediately, reducing Bangladesh to 47/5 at stumps, with 464 more needed for an unlikely win.
+
+Vishwa Fernando claimed 3-13, while Kasun Rajitha and Lahiru Kumara each claimed a wicket as Mahmudul Hasan (0), Najmul Hossain Shanto (6), Zakir Hasan (19), Shahadat Hossain (0), and Liton Das (0) all departed.
+
+The sorry display from Bangladesh’s batters came when de Silva and Mendis dominated the bowlers for the better part of the day, becoming only the third pair in Test history to score a century in both innings.
+
+...
+
+[Data](articles/3bd5eb08.json)
+
+---
+
+### இன்று பல மாகாணங்களில் மழை
+
+*2024-03-24 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179605) · `ta`
+
+பல மாகாணங்களில் ஞாயிற்றுக்கிழமை (24) இரவு மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மேல், சப்ரகமுவ, தெற்கு, மத்திய மற்றும் வடமேற்கு மாகாணங்களில் ஞாயிற்றுக்கிழமை (24) இரவு வேளைகளில் இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் மேலும் தெரிவித்துள்ளது.
+
+சில இடங்களில் மழை 75 மில்லிமீற்றருக்கும் அதிகமான பலத்த பெய்யக்கூடும் எனவும் இதேவேளை, கிழக்கு மற்றும் ஊவா மாகாணங்களில் திங்கட்கிழமை (25) மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/901081c9.json)
+
+---
 
 ### Main meal for all children in Grades 1-5 from tomorrow
 
@@ -52,29 +88,41 @@ He said the Ministry has paid more attention to maintaining the food at a high l
 
 [Data](articles/6550243a.json)
 
+[Extended Data](ext_articles/6550243a.ext.json)
+
 ---
 
-### වසර 40කට පසු හඳුනාගත් විශ්වවිද්‍යාල සිසුවියගේ ඝාතකයා‌
+### The killer of university student identified after 40 years
 
 *2024-03-24 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194887) · `si`
 
-වසර 40 ට අධික කාලයක් පුරා සිදුකළ පරීක්ෂණ වල ප්‍රතිඵලයක් ලෙස විශ්වවිද්‍යාල ශිෂ්‍යාවක්ට ලිංගික අතවර කර පහර දී ඝාතනය කළ සැකකරු හඳුනාගැනීමේ පුවතක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+After 40 years, a university student was identified as the killer of Barbara Tucker, a 19-year-old sexually abused and killed in Oregon in 1980. DNA tests revealed the suspect's DNA matched that found on Tucker's body. The suspect, Robert Plympton, was charged with murder but appealed. The final verdict is pending.
 
-අමෙරිකාවේ ඔරිගන් ප්‍රාන්තයේ ජීවත් වූ 19 හැවිරිදි Barbara Tucker නම් විශ්වවිද්‍යාල ශීෂ්‍යාවට ලිංගික අතවර කර පහර දී ඝාතනය කර ඇත්තේ 1980 වසරේ ජනවාරි මස 15 වනදාය.
+🟩
 
-ඝාතනය සම්බන්ධයෙන් නිවැරදි සැකකරු සොයා ගැනීම සඳහා ඇයගේ මරණ පරීක්ෂණයෙන් පසු ඇයගේ සිරුරේ තැවරී තිබූ ශුක්‍රාණු වල DNA පරීක්ෂණ සිදුකර තිබේ.
+Foreign media reports, the suspect has been identified and killed by a university student.
 
-නිවැරදි සැකකරු සොයාගැනීමට අපහසුවීමත් සමග එම සිදුකළ පරීක්ෂණ වාර්තා 2000 වසරේ දී ඔරිගන් ප්‍රාන්ත පොලීසියේ අපරාධ පරීක්ෂණාගාරයේ විශ්ලේෂණය සඳහා යොමුකර තිබේ.
+The 19-year-old Barbara Tucker, who lived in Oregon, in Oregon, was sexually abused and killed January 15, 1980.
 
-ඒ අනුව පොලීසියේ අපරාධ පරීක්ෂණාගාර විශ්ලේෂණයයෙන් හෙළි වී ඇත්තේ එම DNA දත්ත යම් පුද්ගලයෙකුගේ DNA දත්ත සමඟ සමාන වන බවට ය.
+DNA tests of her body have been conducted after her death inspection to find the right suspect in connection with the murder.
 
-පසුව අදාළ පුද්ගලයා පිළිබඳ තොරතුරු සෙවීම සඳහා පොලිස් පර්යේක්ෂකයින් යොදවා ඇත.
+With the difficulty, the investigations were made to analyze at the Origen State Police Criminal Laboratory in 2000 with the discovery of the right suspect.
 
-එහිදී එක් දිනක් සැකකරු හපමින් සිටි චුයින්ගම් එකක් පාරට විසි කර ඇති අතර පොලිස් පර්යේක්ෂකයෙකු විසින් එය රැගෙනවිත් පොලීසියේ අපරාධ පරීක්ෂණාගාරය වෙත තබා දී තිබේ.
+Accordingly, the criminal laboratory laboratory laboratories of the police have revealed that the DNA data is equal to the DNA data of a person.
+
+Subsequently, police were deployed to find information about the person.
+
+One day the suspect had been thrown to the road to the road and placed it to the Criminal Laboratory of the Police.
+
+Accordingly, DNA test data on the cringam is accurately similar to DNA data in the semen of Barbara Tucker's body.
+
+The suspect was identified as the Robert Plympton person.
 
 ...
 
 [Data](articles/a415f470.json)
+
+[Extended Data](ext_articles/a415f470.ext.json)
 
 ---
 
@@ -195,6 +243,8 @@ The cause of the fire has not yet been revealed, and no injuries have been repor
 ◼️
 
 [Data](articles/ca4c30f4.json)
+
+[Extended Data](ext_articles/ca4c30f4.ext.json)
 
 ---
 
@@ -2131,49 +2181,5 @@ Accordingly, representatives of the International Monetary Fund have agreed to p
 [Data](articles/6df48a75.json)
 
 [Extended Data](ext_articles/6df48a75.ext.json)
-
----
-
-### Announced to name members of the telephone number
-
-*2024-03-24 03:21:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோப்-உறுப்பினர்களை-பெயரிடுமாறு-அறிவிப்பு/175-335070) · `ta`
-
-Deputy Speaker Ajith Rajapaksa informed parties to name other members instead of those who left the COPE group, stating no issues were raised about the withdrawal. This is the first occurrence in the Cobb group.
-
-🟩
-
-Deputy Speaker Ajith Rajapaksa has said that he has informed the respective parties to mention the names of other members instead of the members who left the COPE group.
-
-He added that no issues have been made regarding the action taken regarding the withdrawal of the members of the COPE Committee.
-
-This is the first time that the incident took place in the Cobb group, the Deputy Speaker said.
-
-◼️
-
-[Data](articles/e866caf1.json)
-
-[Extended Data](ext_articles/e866caf1.ext.json)
-
----
-
-### Live Airline Service to Dhaka
-
-*2024-03-24 03:17:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டாக்காவிற்கு-நேரடி-விமான-சேவை/175-335069) · `ta`
-
-Fitz Air introduces direct flights from Colombo to Dhaka starting April 16, priced at 74,600 rupees.
-
-🟩
-
-Fitz Air, offering low -cost airlines, said it was happy to introduce direct flights between Colombo and Bangladesh capital Dhaka in April.
-
-The airline is scheduled to commence on April 16. The initial fee will be charged at 74 thousand 600 rupees.
-
-It is noteworthy that Fitz Air currently offers direct services from Colombo to Dubai, Mali and Chennai.(a)
-
-◼️
-
-[Data](articles/e24a81f7.json)
-
-[Extended Data](ext_articles/e24a81f7.ext.json)
 
 ---

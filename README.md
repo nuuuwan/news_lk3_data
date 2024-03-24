@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 09:17:59**
+As of **2024-03-24 09:33:44**
 
 ## Newspaper Stats
 
-*Scraped **14,801** Articles*
+*Scraped **14,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 798
 islandlk | 820
 adalk | 1,262
 tamilmirrorlk | 1,779
-adaderanalk | 1,782
+adaderanalk | 1,783
 virakesarilk | 2,075
 dailymirrorlk | 2,275
 adaderanasinhalalk | 2,369
@@ -26,31 +26,57 @@ adaderanasinhalalk | 2,369
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,796 (100.0%) of 14,801 articles have been extended.
+14,801 (100.0%) of 14,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### ඉන්දියාව ලොකු ලූනු අපනයන තහනම දික් කරයි
+### India extends ban on onion exports indefinitely ahead of general election
+
+*2024-03-24 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98164/india-extends-ban-on-onion-exports-indefinitely-ahead-of-general-election) · `en`
+
+India has extended its ban on onion exports indefinitely - a surprise move that comes ahead of a general election and is set to exacerbate high prices in some overseas markets.
+
+Imposed by India - the world’s biggest exporter of the vegetable - in December, the ban was due to expire on March 31. Traders had anticipated it would be lifted as local prices have more than halved since the export restrictions were implemented and this season’s crop is yielding fresh supplies.
+
+However, the government issued an order late on Friday that the ban will remain in place until further notice.
+
+“The extension is surprising and completely unnecessary, considering the falling prices with rising supplies from the new season crop,” said an executive at a Mumbai-based export firm, who declined to be identified.
+
+Onion prices in some wholesale markets in Maharashtra, the biggest onion-producing state, have fallen to 1,200 rupees ($14) per 100 kg from 4,500 rupees in December, the executive said.
+
+...
+
+[Data](articles/de3fa7bf.json)
+
+---
+
+### India extends ban on big onion exports
 
 *2024-03-24 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194867) · `si`
 
-ලොකු ලූනු අපනයනය කිරීම සඳහා ඉන්දියාව විසින් පනවා ඇති තහනම නැවත දැනුම් දෙන තුරු දීර්ඝ කිරීමට එරට රජය තීරණය කර තිබේ.
+India extends ban on big onion exports to control prices and maintain stocks, leading to a decline in domestic prices and an increase in international prices, especially in Sri Lanka.
 
-මිල ඉහළ යාම පාලනය කිරීමට සහ දේශීය වෙළෙඳපොළ තුළ ලොකු ලූනු තොග පවත්වාගෙන යාමේ අරමුණින් එම තීරණය ගෙන ඇති බව ඉන්දීය රජය ප්‍රකාශ කර ඇත.
+🟩
 
-පසුගිය දෙසැම්බර් මාසයේ ඉන්දීය රජය විසින් ලොකු ලූනු අපනයනය තහනම් කළ අතර එය ලබන 31 වන දිනෙන් අවසන් වීමට නියමිතව තිබුණි.
+The Government of India has decided to extend the ban on India to export big onions to export big onions.
 
-ලොකු ලූනු අපනයනය තහනම් කිරීමත් සමග ඉන්දීය වෙළෙඳපොළ තුළ ලොකු ලූනු මිල සීඝ්‍ර ලෙස පහත වැටුණු අතර ඉදිරි මැතිවරණය ඉලක්ක කරමින් මිල ඉහළ යාම පාලනය කිරීමේ අරමුණින් අපනයනය තවදුරටත් තහනම් කිරීමට ඉන්දීය රජය පියවර ගෙන ඇති බව වාර්තා වෙයි.
+The Indian government has stated that the decision has been taken with the objective of controlling prices and maintaining big onion stocks in the local market.
 
-ඉන්දියාව විසින් පැනවූ මෙම තහනම හේතුවෙන් බොහෝ රටවල ලොකු ලූනු මිල මේ වනවිට ඉහළ ගොස් තිබේ.
+The Indian government banned big onions last December and was due to end on the 31st of the 31st.
 
-ශ්‍රී ලංකාවේ ද ලොකු ලූනු මිල සීඝ්‍ර ලෙස ඉහළ යාමට ඉන්දියාව විසින් පනවා ඇති එම තහනම ප්‍රධානතම හේතුව වී ඇති බව වාර්තා වෙයි.
+With the banning of big onions exports, the prices of big onion prices have been rapidly declined in the Indian market, reports say.
+
+The prices of big onion in many countries have increased due to this ban on India.
+
+It is reported that India's ban has been the main reason for the rapid increase in big onion prices in Sri Lanka.
 
 ◼️
 
 [Data](articles/44560700.json)
+
+[Extended Data](ext_articles/44560700.ext.json)
 
 ---
 
@@ -109,6 +135,8 @@ Sirisena, who had been found guilty by the country’s Supreme Court for his fai
 ...
 
 [Data](articles/7e3beb77.json)
+
+[Extended Data](ext_articles/7e3beb77.ext.json)
 
 ---
 
@@ -188,6 +216,8 @@ Sri Lanka busted all its reserves and also ‘reserves’ borrowed through swaps
 
 [Data](articles/04d9ea1c.json)
 
+[Extended Data](ext_articles/04d9ea1c.ext.json)
+
 ---
 
 ### A suspicious death
@@ -257,6 +287,8 @@ Under a new law the agency has got powers to trigger up to 7 percent inflation a
 ...
 
 [Data](articles/491b0a8c.json)
+
+[Extended Data](ext_articles/491b0a8c.ext.json)
 
 ---
 
@@ -456,21 +488,27 @@ Some of the outstanding contributions to the Sri Lanka heritage are its Buddhist
 
 ---
 
-### கஞ்சா கடத்திய மூவர் கைது
+### Three arrested for kidnapping cannabis
 
 *2024-03-24 03:27:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-கடத்திய-மூவர்-கைது/175-335073) · `ta`
 
-கஞ்சா கடத்தலில் ஈடுபட்ட இரண்டு கடற்படையினர் உள்ளிட்ட மூவர் யாழ். காரைநகர் பகுதியில் வைத்து ஊர்காவற்றுறைப் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்கள்.
+Three, including two marines, arrested for cannabis smuggling in Karainagar. Arrested person revealed phone numbers of two others, who were then caught trying to collect money for the cannabis.
 
-ஒருவரிடம் கஞ்சா இருந்தவேளை பொலிஸார் அவரைக் கைது செய்த சமயம் தனக்குக் கஞ்சா வழங்கியதாக இருவரின் தொலைபேசி இலக்கங்களை அவர் வழங்கியிருந்தார். கஞ்சாவுக்கான பணம் இன்னமும் வழங்கப்படவில்லை என்றும் அவர் தெரிவித்திருந்தார். இதனால் கஞ்சாவுக்கான பணத்தை வந்து பெற்றுக்கொள்ளுமாறு கஞ்சாவை உடமையில் வைத்திருந்தவர் விநியோகித்தர்கள் இருவருக்கும்  தொலைபேசியில் தகவல் வழங்கியிருந்தார்.
+🟩
 
-தொலைபேசித் தகவலை நம்பி அதற்கானப் பணத்தைப் பெற இருவர் வந்து கஞ்சாவை உடமையில் வைத்திருந்தவரிடம் பணத்தைப் பெற முயன்ற சமயம் மறைந்திருந்த பொலிஸார் பணத்தைப் பெற்றுக்கொள்ள சம்பவ இடத்துக்கு வந்த இருவரையும் மடக்கிப் பிடித்தனர்.
+Three people, including two marines involved in ganja smuggling. They have been arrested by Kayts police in Karainagar.
 
-இவ்வாறு மடக்கிப் பிடிக்கப்பட்ட இருவரும் கடற்படையினர் என்பது பின்னர் பொலிஸாருக்குத் தெரியவந்துள்ளது. (a)
+While the police had arrested a person, he gave the telephone numbers of the two when he was arrested by the police.. He also said that money for cannabis has not yet been paid. Thus, the person who had the cannabis had to get the money for the cannabis had informed the two distributors on the phone.
+
+When the two men came to rely on telephone information and tried to get the money from the man who had the cannabis, the policemen who had hid the money were folded.
+
+It has been revealed to the police later that the two men who were folded were the Marines. (A)
 
 ◼️
 
 [Data](articles/5ff94474.json)
+
+[Extended Data](ext_articles/5ff94474.ext.json)
 
 ---
 
@@ -2213,31 +2251,5 @@ If the fishermen and boats are not released, they plan to hand over voter cards 
 [Data](articles/4c391f80.json)
 
 [Extended Data](ext_articles/4c391f80.ext.json)
-
----
-
-### US reveals anti-LTTE attack on Russia
-
-*2024-03-23 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194840) · `si`
-
-US warns of potential terrorist attack on Moscow, following a similar warning from Russia. A terrorist attack in Moscow resulted in 60 deaths and injuries. The White House advises caution for festivals or public displays in Moscow.
-
-🟩
-
-The Russian authorities have warned that there could be a terrorist attack on Moscow in March in March, the US had a terrorist attack.
-
-In a terrorist attack on Moscow yesterday, 60 people were killed and more injured were injured.
-
-However, the White House has warned that the people of Moscow could have a terrorist attack targeting the festivals or display of the people.
-
-However, it did not care about the US as a statement made by US as a statement made by Russia.
-
-The US government has previously warned the US government to stay in Russia regarding the risk of a terrorist attack.
-
-◼️
-
-[Data](articles/48b203de.json)
-
-[Extended Data](ext_articles/48b203de.ext.json)
 
 ---

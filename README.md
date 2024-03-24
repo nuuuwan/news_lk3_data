@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 07:54:11**
+As of **2024-03-24 08:18:11**
 
 ## Newspaper Stats
 
-*Scraped **14,788** Articles*
+*Scraped **14,792** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ dailyftlk | 792
 economynextcom | 795
 islandlk | 820
 adalk | 1,262
-tamilmirrorlk | 1,775
+tamilmirrorlk | 1,777
 adaderanalk | 1,780
-virakesarilk | 2,074
+virakesarilk | 2,075
 dailymirrorlk | 2,275
-adaderanasinhalalk | 2,366
+adaderanasinhalalk | 2,367
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,773 (99.9%) of 14,788 articles have been extended.
+14,782 (99.9%) of 14,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில் கருத்து – சிறிசேனவை விசாரணை செய்ய சட்டமா அதிபரின் ஆலோசனையை கோரியது சிஐடி
+
+*2024-03-24 07:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179546) · `ta`
+
+உயிர்த்த ஞாயிறுதாக்குதல் சூத்திரதாரிகள் யார் என்பது தனக்கு தெரியும் என முன்னாள் ஜனாதிபதி மைத்திரிபாலசிறிசேன தெரிவித்திருப்பது தொடர்பில்  அவரை விசாரணைக்கு உட்படுத்துவது குறித்து சிஐடியினர் சட்டமா அதிபரின் ஆலோசனைகளை கோரியுள்ளனர்.
+
+இது தொடர்பான வேண்டுகோளை சட்டமா அதிபர் திணைக்களத்திடம் சமர்ப்பித்துள்ளதாக தெரிவித்துள்ள சிஐடி வட்டாரங்கள் பதிலுக்காக காத்திருப்பதாக தெரிவித்துள்ளன.
+
+விசாரணைகள் எவ்வேளையிலும் ஆரம்பமாகலாம் ஆனால் நாங்கள் இதுவரை விசாரணைகளை ஆரம்பிக்கவில்லை  எங்களுக்கு சட்டமா அதிபர் திணைக்களத்திடமிருந்து உத்தரவு கிடைக்கவேண்டு;ம் என தெரிவித்துள்ளார்.
+
+மைத்திரிபால சிறிசேன வெள்ளிக்கிழமை உயிர்த்த ஞாயிறுதாக்குதல் தொடர்பில் முக்கிய சூத்திரதாரிகள் யார் என்பது தனக்பு தெரியும் என தெரிவித்தமை பெரும் சர்ச்சையை உருவாக்கியுள்ளது.
+
+...
+
+[Data](articles/8d96303f.json)
+
+---
+
+### සැක කටයුතු මරණයක්
+
+*2024-03-24 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194865) · `si`
+
+හපුතලේ, පිටපොළ ප්‍රදේශයේ මාර්ගය අයිනේ ළඳු කැලැවක පුද්ගලයෙකු සැකකටයුකු ලෙස මියගොස් තිබේ.
+
+ඊයේ (23) උදෑසන කාලයේදී එම සිද්ධිය වාර්තා වූ බව පොලීසිය පවසයි.
+
+එසේ මියගොස් ඇත්තේ, බෝවත්ත, ඉදල්ගස්හින්න ප්‍රදේශයේ පදිංචි 33 හැවිරිදි පුද්ගලයෙකි.
+
+මෘත ශරීරය මහෙස්ත්‍රාත් පරික්ෂණය සිදුකර පශ්චාත් මරණ පරික්ෂණය සඳහා දියතලාව රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇත.
+
+◼️
+
+[Data](articles/2ee165d2.json)
+
+---
 
 ### In the middle of the full moon is today
 
@@ -94,6 +130,8 @@ Union Assurance, marked International Women’s Day with the launch of its groun
 
 [Data](articles/468c0d24.json)
 
+[Extended Data](ext_articles/468c0d24.ext.json)
+
 ---
 
 ### SLT-MOBITEL powers advancement of nation’s agriculture supporting 2nd phase of Agri Saviya – Marketing Asseweduma
@@ -107,6 +145,8 @@ Aimed at transforming farmers into Agripreneur leaders of tomorrow, Agri Saviya 
 ...
 
 [Data](articles/601c3a3f.json)
+
+[Extended Data](ext_articles/601c3a3f.ext.json)
 
 ---
 
@@ -128,6 +168,8 @@ Hundreds of complete TV series and full box sets including the latest shows from
 
 [Data](articles/6ece61ca.json)
 
+[Extended Data](ext_articles/6ece61ca.ext.json)
+
 ---
 
 ### HNB Assurance Celebrates First Anniversary of Empowering Women with In.She
@@ -144,6 +186,8 @@ In recognition of its efforts, HNB Assurance was recognized as one of the female
 
 [Data](articles/4ac3566c.json)
 
+[Extended Data](ext_articles/4ac3566c.ext.json)
+
 ---
 
 ### ESOFT launches Doctoral Programmes with renowned universities
@@ -157,6 +201,8 @@ Dr. Dayan Rajapakse, Chairman/ Group Managing Director and founder of ESOFT; Pro
 ...
 
 [Data](articles/6ddbbdd5.json)
+
+[Extended Data](ext_articles/6ddbbdd5.ext.json)
 
 ---
 
@@ -174,6 +220,8 @@ It said: Ex-Pack took this opportunity to express its gratitude and support towa
 
 [Data](articles/9133b534.json)
 
+[Extended Data](ext_articles/9133b534.ext.json)
+
 ---
 
 ### Himalaya re-launches purifying Neem Face Wash
@@ -187,6 +235,8 @@ Himalaya Purifying Neem Facewash is exclusively distributed in Sri Lanka by the 
 ...
 
 [Data](articles/a7f7c21e.json)
+
+[Extended Data](ext_articles/a7f7c21e.ext.json)
 
 ---
 
@@ -208,6 +258,8 @@ During these festivals, her family’s youngsters formed a fire-dancing team, pe
 
 [Data](articles/a0baa08d.json)
 
+[Extended Data](ext_articles/a0baa08d.ext.json)
+
 ---
 
 ### Karlsruhe and the properties of Lorenz
@@ -220,6 +272,8 @@ The history of this abode is both historic and tragic concerning the life of Lor
 
 [Data](articles/9207bdb2.json)
 
+[Extended Data](ext_articles/9207bdb2.ext.json)
+
 ---
 
 ### The Avukana Buddha – a masterpiece of Buddhist art
@@ -231,6 +285,42 @@ Some of the outstanding contributions to the Sri Lanka heritage are its Buddhist
 ...
 
 [Data](articles/ae1f9bc1.json)
+
+---
+
+### ’எஞ்சிய நிதியுதவியை வழங்கும் ஐ.எம்.எப்’
+
+*2024-03-24 03:23:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஞ்சிய-நிதியுதவியை-வழங்கும்-ஐ-எம்-எப்/175-335071) · `ta`
+
+எஞ்சிய நிதியுதவியையும் இலங்கைக்கு வழங்க சர்வதேச நாணய நிதியம் இணக்கம் தெரிவித்துள்ளதாக பிரதமர் தினேஷ் குணவர்தன தெரிவித்துள்ளார்.
+
+அவிசாவளை ஆதார வைத்தியசாலையில் புதிய சத்திரசிகிச்சை பிரிவிற்கான அடிக்கல் நாட்டும் நிகழ்வில் கலந்துகொண்ட போதே பிரதமர் இவ்வாறு குறிப்பிட்டார்.
+
+சர்வதேச நாணய நிதியத்தின் அடுத்த கட்ட நடவடிக்கைக்கு இலங்கை தகுதி பெற்றிருப்பது வெற்றி எனவும் பிரதமர் தினேஷ் குணவர்தன தெரிவித்துள்ளார்.
+
+நாடு வளர்ச்சியை நோக்கிய நிலையான பாதையை அடைந்துள்ளதால், சர்வதேச நாணய நிதிய பிரதிநிதிகள் மகிழ்ச்சியை வெளிப்படுத்தியுள்ளனர் என்றும் அவர் தெரிவித்துள்ளார்.
+
+இதன்படி, எதிர்கால நிதியுதவியை விரைவில் வழங்க சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகள் இணக்கம் தெரிவித்துள்ளது என பிரதமர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/6df48a75.json)
+
+---
+
+### ’கோப்’ உறுப்பினர்களை பெயரிடுமாறு அறிவிப்பு
+
+*2024-03-24 03:21:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோப்-உறுப்பினர்களை-பெயரிடுமாறு-அறிவிப்பு/175-335070) · `ta`
+
+கோப் குழுவில் இருந்து விலகிய உறுப்பினர்களுக்கு பதிலாக வேறு உறுப்பினர்களின் பெயர்களை குறிப்பிடுமாறு அந்தந்த கட்சிகளுக்கு அறிவித்துள்ளதாக பிரதி சபாநாயகர் அஜித் ராஜபக்ஸ தெரிவித்துள்ளார்.
+
+நியமிக்கப்பட்ட  உறுப்பினர்கள் கோப் குழுவில் இருந்து விலகியமை தொடர்பாக எடுக்கப்படும் நடவடிக்கை குறித்து எவ்வித விடயங்களும் தெரிவிக்கப்படவில்லை எனவும் அவர் தெரிவித்துள்ளார்.
+
+கோப் குழுவில் இவ்வாறான சம்பவம் இடம் பெற்றமை இதுவே முதல் தடவை என பிரதி சபாநாயகர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e866caf1.json)
 
 ---
 
@@ -2107,101 +2197,5 @@ A key issue was the unusual language that said the Security Council “determine
 [Data](articles/21168793.json)
 
 [Extended Data](ext_articles/21168793.ext.json)
-
----
-
-### 2.2 billion of the global population
-
-*2024-03-23 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194838) · `si`
-
-The global water shortage affects 2.2 billion people, escalating conflicts. UN reports highlight the impact on women, children, and African countries, with only 24 out of 153 countries contracted to use water resources, posing a conflict risk.
-
-🟩
-
-The latest report has revealed that 2.2 billion people are facing a shortage of water in the global population.
-
-The United Nations emphasizes that the water shortage may escalate all conflicts around the world.
-
-According to the report, it is also possible to obtain safeibration facilities to a group of 3.5 billion people.
-
-The United Nations report further states that women and children have been affected by the shortage of billions of water.
-
-According to the report, the greatest effects of global water deficit has been the most affected by African regional countries.
-
-Accordingly, 19 of the 22 African states, 19 people are faced with water shortage.
-
-153 countries in the world consume water resources.
-
-However, there are only 24 countries that have been contracted to consume water resources.
-
-Accordingly, the United Nations emphasizes that there is a risk of conflict in the face of the present situation.
-
-◼️
-
-[Data](articles/3d76f7c9.json)
-
-[Extended Data](ext_articles/3d76f7c9.ext.json)
-
----
-
-### Sri Lanka releases land held by military in North
-
-*2024-03-23 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-releases-land-held-by-military-in-north-155792/) · `en`
-
-ECONOMYNEXT – Lands held by the Jaffna Security Force Headquarters in Jaffna were released to people at a ceremony attended by President Ranil Wickremesinghe, this week.
-
-“Following the end of conflict, a significant portion of land was requisitioned by the military. To date, the government has released approximately 63,000 acres of both government-owned and privately-owned land,” Wickremesinghe said in Ottagapulam, Jaffna.
-
-Jaffna Commander Major General Chandana Wickramasinghe presented the official land release documents to Wickremesinghe who handed over the documents to Jaffna District Governor Maradalingam Pradeepan.
-
-As per the arrangement, 234 acres of land from five Grama Niladhari Divisions in the Valikamam North were returned to the local public.
-
-“Land ownership is a universal aspiration transcending nationality. It is a fundamental right that everyone should possess,” Wickremesinghe was quoted as saying by his media division.
-
-...
-
-[Data](articles/eb75795b.json)
-
-[Extended Data](ext_articles/eb75795b.ext.json)
-
----
-
-### Sri Lanka, India to hold Digital Public Infrastructure conference next week
-
-*2024-03-23 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98143/sri-lanka-india-to-hold-digital-public-infrastructure-conference-next-week) · `en`
-
-The High Commission of India in Colombo, in partnership with Sri Lanka’s Technology Ministry, is organizing a conference on Digital Public Infrastructure (DPI), to be held on 26 March.
-
-The conference will explore the transformative potential of DPI for enabling service delivery, empowering communities by fostering inclusivity and enriching the economy by driving innovation, according to a statement issued by the High Commission.
-
-It will commence with an opening plenary session, where the keynote address will be delivered by President Ranil Wickremesinghe. The opening plenary will be followed by two panel discussions.
-
-Accordingly, the first, ‘Accelerating Digital Sri Lanka’ will focus on how DPI simplifies governance and improves accessibility for the citizens. The second, ‘Unlocking the Digital Stack’ will discuss DPI’s use cases including in the startup domain, marrying technology, markets and governance.
-
-...
-
-[Data](articles/146e88b7.json)
-
-[Extended Data](ext_articles/146e88b7.ext.json)
-
----
-
-### Digital Public Infrastructure conference organized by Indian HC held next week
-
-*2024-03-23 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98143/digital-public-infrastructure-conference-organized-by-indian-hc-held-next-week) · `en`
-
-The High Commission of India in Colombo, in partnership with Sri Lanka’s Technology Ministry, is organizing a conference on Digital Public Infrastructure (DPI), to be held on 26 March.
-
-The conference will explore the transformative potential of DPI for enabling service delivery, empowering communities by fostering inclusivity and enriching the economy by driving innovation, according to a statement issued by the High Commission.
-
-It will commence with an opening plenary session, where the keynote address will be delivered by President Ranil Wickremesinghe. The opening plenary will be followed by two panel discussions.
-
-Accordingly, the first, ‘Accelerating Digital Sri Lanka’ will focus on how DPI simplifies governance and improves accessibility for the citizens. The second, ‘Unlocking the Digital Stack’ will discuss DPI’s use cases including in the startup domain, marrying technology, markets and governance.
-
-...
-
-[Data](articles/6d8ed719.json)
-
-[Extended Data](ext_articles/6d8ed719.ext.json)
 
 ---

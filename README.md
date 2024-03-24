@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 10:34:23**
+As of **2024-03-24 10:51:00**
 
 ## Newspaper Stats
 
-*Scraped **14,805** Articles*
+*Scraped **14,806** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 792
 economynextcom | 798
 islandlk | 820
 adalk | 1,262
-tamilmirrorlk | 1,780
+tamilmirrorlk | 1,781
 adaderanalk | 1,783
 virakesarilk | 2,075
 dailymirrorlk | 2,276
@@ -26,27 +26,55 @@ adaderanasinhalalk | 2,370
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,804 (100.0%) of 14,805 articles have been extended.
+14,805 (100.0%) of 14,806 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### ”பொருட்களின் விலைகள் நாளாந்தம் அறிவிக்கப்படும்”
+### ’’நாங்கள் ஏற்கனவே வெற்றி பெற்றுவிட்டோம்’’
+
+*2024-03-24 10:23:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாங்கள்-ஏற்கனவே-வெற்றி-பெற்றுவிட்டோம்/175-335075) · `ta`
+
+எதிர்பார்க்கப்படும் சமூக மாற்றத்தை ஏற்படுத்தவும், திவாலான பொருளாதாரத்தை மீட்டெடுக்கவும் தனிப்பெரும்பான்மை கொண்ட அரசாங்கம் போதாது என்று கூறி, NPP பலமான அரசாங்கத்தை அமைக்க நம்புவதாக NPP இன் பொதுச் செயலாளர் டில்வின் சில்வா நேற்று தெரிவித்தார்.
+
+புத்தளம் மாவட்ட மகளிர் பேரவையில் உரையாற்றிய அவர், எதையும் செய்வதற்கு NPP பலமான சக்தியைப் பெற வேண்டும் என்றார்.
+
+"நாங்கள் ஏற்கனவே வெற்றி பெற்றுவிட்டோம். ஆனால், எதிர்பார்க்கப்படும் சமூக மாற்றத்தை ஏற்படுத்த 113 ஆசனங்களுடன் ஆட்சி அமைப்பதில் எந்தப் பயனும் இல்லை என்று நாங்கள் நினைக்கிறோம்.
+
+எதை வேண்டுமானாலும் செய்ய உறுதியான பலம் இருக்க வேண்டும். முந்தைய அரசாங்கங்கள் நாட்டை அழிக்க பலமான பலத்தைப் பெற்றன. ஆனால். திவாலான நாட்டை மீட்டெடுக்க நாம் வலுவான சக்தியைப் பெற வேண்டும்," என்று அவர் கூறினார்.
+
+நாசவேலைகள் மூலம் போட்டியாளர்களால் வீழ்த்த முடியாத பாரிய மக்கள் பலத்துடனும் நம்பிக்கையுடனும் இலங்கையில் முதலாவது மக்களின் அரசாங்கத்தை உருவாக்குவோம் என்றும் டி சில்வா கூறினார்.
+
+◼️
+
+[Data](articles/e2f351a7.json)
+
+---
+
+### “Price of goods will be announced daily”
 
 *2024-03-24 10:10:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருட்களின்-விலைகள்-நாளாந்தம்-அறிவிக்கப்படும்/175-335074) · `ta`
 
-அத்தியாவசியப் பொருட்களின் விலையேற்றம் மற்றும் அமெரிக்க டொலருக்கு நிகரான இலங்கை ரூபாவின் பெறுமதி வீழ்ச்சி குறித்த அதிகரித்துவரும் கவலைகளுக்கு பதிலளிக்கும் வகையில், நிதி இராஜாங்க அமைச்சர் கலாநிதி ரஞ்சித் சியம்பலாபிட்டிய, பொருளாதாரத்தை ஸ்திரப்படுத்தும் வரும் பண்டிகை காலத்தை முன்னிட்டு சந்தை நோக்கில் புதிய உத்தி ஒன்றை வெளியிட்டுள்ளார்.
+Dr. Ranjith Siyambalapitiya announced daily release of imported goods' prices and VAT to stabilize economy amid rising commodity prices and rupee devaluation. This move, starting Monday, aims to provide real-time information and consumer restrictions during inflation. Arrangements are in place for uninterrupted cargo, except for potential shortages during festive season.
 
-ஊடகங்களுக்கு கருத்து தெரிவித்த சியம்பலாபிட்டிய, இறக்குமதி செய்யப்பட்ட பொருட்களின் விலைகள் மற்றும் பெறுமதி சேர் வரி (VAT) இனி நாளாந்த அடிப்படையில் வெளியிடப்படும் என அறிவித்தார்.
+🟩
 
-எதிர்வரும் திங்கட்கிழமை ஆரம்பிக்க திட்டமிடப்பட்டுள்ள இந்த முயற்சி நுகர்வோர் விவகார அதிகாரசபையால் நிறைவேற்றப்படும்.
+In response to the rising concerns over the rise of essential commodities and the decline in the value of the Sri Lankan rupee against the US dollar, Finance Minister Dr. Ranjith Siyambalapitiya has issued a new strategy in the marketplace for the sake of stabilizing the economy.
 
-பணவீக்க அழுத்தங்களுக்கு மத்தியில் நுகர்வோருக்கு நிகழ்நேரத் தகவல் மற்றும் அவர்களின் செலவினங்களில் சிறந்த கட்டுப்பாட்டை வழங்குவதற்காக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+Commenting on the media, Siyambalapitiya announced that the price and value of imported goods and value tax (VAT) would be released on a daily basis.
 
-...
+The effort, which is scheduled to begin on Monday, will be passed by the Consumer Affairs Authority.
+
+This action has been taken to provide real -time information and excellent restrictions on consumers amid inflation pressure.
+
+In addition, Siyambalapitiya confirmed that all necessary arrangements have been made to guarantee the uninterrupted cargo, except for the potential shortages that can cause disruption during the festive season.
+
+◼️
 
 [Data](articles/a3d01be7.json)
+
+[Extended Data](ext_articles/a3d01be7.ext.json)
 
 ---
 
@@ -2225,29 +2253,5 @@ Meanwhile, the Sri Lanka Driving License has been prepared at the airport on Apr
 [Data](articles/d858a1f5.json)
 
 [Extended Data](ext_articles/d858a1f5.ext.json)
-
----
-
-### Two students hospitalised after ceiling fan collapses on them
-
-*2024-03-23 11:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-students-hospitalised-after-ceiling-fan-collapses-on-them/108-279462) · `en`
-
-Two fifth-grade students of an international school in Asgiriya, Kandy were hospitalised yesterday after a ceiling fan collapsed on them.
-
-The injured students were admitted to the General Hospital, Kandy.
-
-Hospital sources said that the eye of one student and the head of the other student were injured following the incident.
-
-The incident occurred during school yesterday. The parents claimed that the ceiling fan was tangled with its electricity wires and swung during the past few days.
-
-Even though the school administration was informed about the risk to children, no one had taken action to repair the fan.
-
-The parents also claimed that the monthly fee of the school had also been increased to Rs. 5,000, and even the photocopy charges had been increased.
-
-◼️
-
-[Data](articles/02d94e4a.json)
-
-[Extended Data](ext_articles/02d94e4a.ext.json)
 
 ---

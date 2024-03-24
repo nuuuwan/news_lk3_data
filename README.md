@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 11:52:29**
+As of **2024-03-24 12:02:57**
 
 ## Newspaper Stats
 
-*Scraped **14,816** Articles*
+*Scraped **14,818** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 135
 bbccomsinhala | 161
-dbsjeyarajcom | 190
+dbsjeyarajcom | 191
 newsfirstlk | 363
 dailyftlk | 792
 economynextcom | 798
@@ -20,33 +20,57 @@ tamilmirrorlk | 1,784
 adaderanalk | 1,784
 virakesarilk | 2,076
 dailymirrorlk | 2,277
-adaderanasinhalalk | 2,372
+adaderanasinhalalk | 2,373
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,815 (100.0%) of 14,816 articles have been extended.
+14,816 (100.0%) of 14,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### ලොකුම සැලසුම ජනපති හෙළිකරයි
+### CIDය මෛත්‍රීගෙන් ප්‍රකාශයක් ගැනීමට සැරසෙයි
+
+*2024-03-24 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194871) · `si`
+
+පාස්කු ප්‍රහාරය සම්බන්ධයෙන් සිදුකළ ප්‍රකාශය පිළිබඳව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගෙන් ප්‍රකාශයක් ලබාගැනීමට නියමිත බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+
+ඒ අනුව පොලිස්පතිවරයා සඳහන් කළේ ඊට අදාළ ප්‍රකාශය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් හෙට (25) ලබාගන්නා බවය.
+
+◼️
+
+[Data](articles/2341ec4e.json)
+
+---
+
+### President reveals the greatest plan
 
 *2024-03-24 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194870) · `si`
 
-සංචාරක ව්‍යාපාරය ප්‍රවර්ධනය වෙනුවෙන් රජය විශේෂ අවධානයක් යොමු කර තිබෙන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe outlined a comprehensive plan to revitalize the economy, including a new economic repair program, promoting tourism, and modernizing agriculture. He emphasized the importance of youth involvement and the need to transition from an import-based to an export-based economy. The plan also includes developing rural areas, enhancing tourism, and creating investment zones.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ “යුනයිටඩ් යුත් තරුණ එකමුතුව” විසින් “තරුණ අපේ අනාගතය” මැයෙන් ඊයේ (23) පොළොන්නරුවේ දී සංවිධානය කර තිබූ සුහද කථා බහට එක් වෙමිනි.
+🟩
 
-එමෙන්ම මෙරට ආර්ථික ප්‍රකෘතිය උදාකරගත හැක්කේ නව ආර්ථික ප්‍රතිසංස්කරණමය වැඩපිළිවෙළක් තුළින් පමණක් බවත්, පසුගිය ආර්ථික අර්බුදය හමුවේ අප අත්විඳි පීඩාවන් මතු පරපුරට උරුමවීමට ඉඩ නොතබා රජයේ වැඩපිළිවෙළට සහාය ලබාදීම සියලුදෙනාගේ වගකීම බවත් ජනාධිපතිවරයා පැවසීය.
+President Ranil Wickremesinghe said that the government has paid special attention to promote tourism.
 
-එසේම තමා භාරගත්තේ අනෙකුත් දේශපාලනඥයන් භාර ගැනීමට අකමැති වූ රටක් බව සිහිපත් කළ ජනාධිපතිවරයා ඔවුන් තම දේශපාලන අනාගතය පිළිබඳ සිතද්දී තමා සිතුවේ රටේ අනාගතය පිළිබඳව බවද කියා සිටියේය.
+President Ranil Wickremesinghe made this statement participating in a friendly speech organized by the "Youth One of the Youth '" Young Unity "at Polonnaruwa yesterday (23).
+
+The President also provides economic recovery only through a new economic repair program and that the execution of the hardships we have experienced inheritance to the future generation will not support the government program.
+
+He recalled that the President who was reminded of the country that was unwilling to accept other politicians were reluctant to accept their political future.
+
+President Ranil Wickremesinghe said that the benefits of the new economic reform process will be given to the people within a few years. Therefore, on which road should he travel towards themselves and the country and to a better future
+
+The President emphasized that the youth of the country should be decided.
 
 ...
 
 [Data](articles/fa3477ab.json)
+
+[Extended Data](ext_articles/fa3477ab.ext.json)
 
 ---
 
@@ -907,6 +931,20 @@ The roll of Ceylon’s past Governors includes many remarkable men who made thei
 [Data](articles/501862d6.json)
 
 [Extended Data](ext_articles/501862d6.ext.json)
+
+---
+
+### Tiger vs Tiger: How Prabhakaran’s Mainstream LTTE and Karuna’s Eastern Tigers Prepared for Fratricidal Conflict.
+
+*2024-03-24 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83797) · `en`
+
+This  week’s Column   is the second of a series  of articles denoting the 20th anniversary of the revolt headed by former  eastern tiger commander Vinayagamoorthy Muralitharan alias “Karuna Ammaan” against the Liberation Tigers of Tamil Eelam(LTTE) hierarchy. Although the rebellion was crushed, its impact and consequences helped greatly to determine the course of war in favour of the Sri Lankan armed forces.
+
+In the first article published last w eek(16 March 2024 Daily Mirror  (“Col” Karuna’s Eastern Tiger revolt against LTTE 20 years ago) the background and reasons for the Eastern tiger revott were discussed in detail. In this second article the course of events leading to the eruption of  the intra-tiger fratricidal conflict in the aftermath of “Col”Karuna’s rebellion  would be recounted,  relying on some of my earlier writings.
+
+...
+
+[Data](articles/baf48e2d.json)
 
 ---
 
@@ -2213,49 +2251,5 @@ The MPs said they have already discussed the issue with the church leaders in Sr
 [Data](articles/7c2e3206.json)
 
 [Extended Data](ext_articles/7c2e3206.ext.json)
-
----
-
-### Bangladesh falters, all out for 188 as Sri Lanka takes command in first Test
-
-*2024-03-23 14:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bangladesh-falters-all-out-for-188-as-Sri-Lanka-takes-command-in-first-Test/108-279464) · `en`
-
-Sylhet , March 23 - Bangladesh lost their final four wickets in the second session for 56 runs to be bundled out for 188 in 51.3 overs, conceding a 92-run first innings lead to Sri Lanka on the second day of the first Test at the Sylhet International Cricket Stadium today.
-
-Khaled Ahmed was the last batter to depart, nicking a ball to the keeper from Vishwa Fernando, after making 22 off 28, an innings that helped Bangladesh bring the deficit below the three-figure mark.
-
-Khaled's wicket ended a disappointing batting performance from the Tigers, where night-watchman Taijul Islam was the standout performer with a fighting 47.
-
-Sri Lanka pace trio of Fernando, Kasum Rajitha and Lahiru Kumara shared the 10 wickets, with Fernando leading the charge with 4 for 48 and Rajitha and Kumara taking three wickets each.
-
-...
-
-[Data](articles/3e2eb92d.json)
-
-[Extended Data](ext_articles/3e2eb92d.ext.json)
-
----
-
-### Bangladesh first innings limited to 188 runs
-
-*2024-03-23 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194844) · `si`
-
-Bangladesh's first innings in the first Test against Sri Lanka ended at 188 runs, with Universal Fernando and Lahiru Kumara each taking three wickets, and Kasun Rajitha two. Sri Lanka leads by 92 runs.
-
-🟩
-
-Today is the second day of the first Test match between the Sri Lanka Tourism and Bangladesh.
-
-Bangladesh was bowled out for 188 runs for the first innings of the match.
-
-Universal Fernando took 4 wickets, Lahiru Kumara and Kasun Rajitha taken three wickets each.
-
-Accordingly, Bangladesh team is behind 92 runs over the first innings of Sri Lanka.
-
-◼️
-
-[Data](articles/4661a6ab.json)
-
-[Extended Data](ext_articles/4661a6ab.ext.json)
 
 ---

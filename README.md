@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 09:03:07**
+As of **2024-03-24 09:17:59**
 
 ## Newspaper Stats
 
-*Scraped **14,796** Articles*
+*Scraped **14,801** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,46 @@ bbccomsinhala | 161
 dbsjeyarajcom | 190
 newsfirstlk | 363
 dailyftlk | 792
-economynextcom | 795
+economynextcom | 798
 islandlk | 820
 adalk | 1,262
-tamilmirrorlk | 1,778
+tamilmirrorlk | 1,779
 adaderanalk | 1,782
 virakesarilk | 2,075
 dailymirrorlk | 2,275
-adaderanasinhalalk | 2,368
+adaderanasinhalalk | 2,369
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,795 (100.0%) of 14,796 articles have been extended.
+14,796 (100.0%) of 14,801 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### ඉන්දියාව ලොකු ලූනු අපනයන තහනම දික් කරයි
+
+*2024-03-24 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194867) · `si`
+
+ලොකු ලූනු අපනයනය කිරීම සඳහා ඉන්දියාව විසින් පනවා ඇති තහනම නැවත දැනුම් දෙන තුරු දීර්ඝ කිරීමට එරට රජය තීරණය කර තිබේ.
+
+මිල ඉහළ යාම පාලනය කිරීමට සහ දේශීය වෙළෙඳපොළ තුළ ලොකු ලූනු තොග පවත්වාගෙන යාමේ අරමුණින් එම තීරණය ගෙන ඇති බව ඉන්දීය රජය ප්‍රකාශ කර ඇත.
+
+පසුගිය දෙසැම්බර් මාසයේ ඉන්දීය රජය විසින් ලොකු ලූනු අපනයනය තහනම් කළ අතර එය ලබන 31 වන දිනෙන් අවසන් වීමට නියමිතව තිබුණි.
+
+ලොකු ලූනු අපනයනය තහනම් කිරීමත් සමග ඉන්දීය වෙළෙඳපොළ තුළ ලොකු ලූනු මිල සීඝ්‍ර ලෙස පහත වැටුණු අතර ඉදිරි මැතිවරණය ඉලක්ක කරමින් මිල ඉහළ යාම පාලනය කිරීමේ අරමුණින් අපනයනය තවදුරටත් තහනම් කිරීමට ඉන්දීය රජය පියවර ගෙන ඇති බව වාර්තා වෙයි.
+
+ඉන්දියාව විසින් පැනවූ මෙම තහනම හේතුවෙන් බොහෝ රටවල ලොකු ලූනු මිල මේ වනවිට ඉහළ ගොස් තිබේ.
+
+ශ්‍රී ලංකාවේ ද ලොකු ලූනු මිල සීඝ්‍ර ලෙස ඉහළ යාමට ඉන්දියාව විසින් පනවා ඇති එම තහනම ප්‍රධානතම හේතුව වී ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/44560700.json)
+
+---
 
 ### Commission appointed to propose electoral reforms given more time
 
@@ -45,6 +67,8 @@ The commission had been tasked with making recommendations to amend election law
 ...
 
 [Data](articles/fc6c94a0.json)
+
+[Extended Data](ext_articles/fc6c94a0.ext.json)
 
 ---
 
@@ -67,6 +91,24 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/5275aa73.json)
 
 [Extended Data](ext_articles/5275aa73.ext.json)
+
+---
+
+### Sri Lanka police minister orders probe into ex-president’s Easter attack remarks
+
+*2024-03-24 08:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-minister-orders-probe-into-ex-presidents-easter-attack-remarks-155844/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Public Security Minister Tiran Alles, who is in charge of police, has ordered to question former president Maithripala Sirisena over his comments on his knowledge over real plotters behind Easter Sunday attack that killed at least 269 people in 2019.
+
+Sirisena, who had been found guilty by the country’s Supreme Court for his failure to prevent the carnage, on Friday said he knew who carried out the attack and was ready to reveal it confidentially to if there is a request or order from Court.
+
+“Already, there is an ongoing investigation. Some have been charged and there is a trail-at-bar is on the process. If somebody says like this, we have to investigate and he can’t refuse to cooperate,” Minister Alles told EconomyNext.
+
+“A judge will not ask anybody to appear in the court because somebody says in public that he knows something. It must be done through police.”
+
+...
+
+[Data](articles/7e3beb77.json)
 
 ---
 
@@ -126,6 +168,28 @@ He said that no one was yet to say the fact that he carried out the fact that he
 
 ---
 
+### IMF sees no problem in Sri Lanka central bank building reserves with fx swaps
+
+*2024-03-24 07:47:00* · [`economynextcom`](https://economynext.com/imf-sees-no-problem-in-sri-lanka-central-bank-building-reserves-with-fx-swaps-155842/) · `en`
+
+ECONOMYNEXT – Entering into foreign exchange swaps, was one of the ways endorsed by the International Monetary Fund for Lanka’s central bank to build reserves, an official said.
+
+Sri Lanka busted all its reserves and also ‘reserves’ borrowed through swaps to suppress interest rates and enforce its bureaucratically decided policy rate during the last currency crisis.
+
+“Rebuilding reserves is a very important component of the IMF supported programs,” Deputy Mission Chief for Sri Lanka Katsiaryna Svirydzenka.
+
+“One, is what we call organic purchases by the central bank in the foreign exchange market.
+
+“The other one is rebuilding reserves for engaging with swaps.
+
+“This can either be swaps with domestic banks, but also swaps with other central banks.  The latter is a very important part of both global and regional financial safety nets.”
+
+...
+
+[Data](articles/04d9ea1c.json)
+
+---
+
 ### A suspicious death
 
 *2024-03-24 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194865) · `si`
@@ -173,6 +237,26 @@ Meanwhile, FM Derana disaster is held in the middle of the full moon day of PM D
 [Data](articles/131de0ed.json)
 
 [Extended Data](ext_articles/131de0ed.ext.json)
+
+---
+
+### Sri Lanka central bank says senior management decided to review salary hike
+
+*2024-03-24 06:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-says-senior-management-decided-to-review-salary-hike-155837/) · `en`
+
+ECONOMYNEXT – The senior management of the central bank decided to review a steep salary hike made after a currency crisis, a statement said amid legislative and public anger against the move.
+
+The salary hike was initially defended on the basis of central bank independence.
+
+Giving salary hike to offset the inflation created by the agency in the process of enforcing rate cuts by printing money has been a longstanding practice.
+
+However legislators said the independence was only given to the agency to print money (and trigger inflation or currency depreciation) and it did not apply to salaries.
+
+Under a new law the agency has got powers to trigger up to 7 percent inflation a year with no questions asked. Since September 2022, the agency has created lower levels of inflation and has appreciated the currency with deflationary policy.
+
+...
+
+[Data](articles/491b0a8c.json)
 
 ---
 
@@ -369,6 +453,24 @@ Some of the outstanding contributions to the Sri Lanka heritage are its Buddhist
 [Data](articles/ae1f9bc1.json)
 
 [Extended Data](ext_articles/ae1f9bc1.ext.json)
+
+---
+
+### கஞ்சா கடத்திய மூவர் கைது
+
+*2024-03-24 03:27:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சா-கடத்திய-மூவர்-கைது/175-335073) · `ta`
+
+கஞ்சா கடத்தலில் ஈடுபட்ட இரண்டு கடற்படையினர் உள்ளிட்ட மூவர் யாழ். காரைநகர் பகுதியில் வைத்து ஊர்காவற்றுறைப் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்கள்.
+
+ஒருவரிடம் கஞ்சா இருந்தவேளை பொலிஸார் அவரைக் கைது செய்த சமயம் தனக்குக் கஞ்சா வழங்கியதாக இருவரின் தொலைபேசி இலக்கங்களை அவர் வழங்கியிருந்தார். கஞ்சாவுக்கான பணம் இன்னமும் வழங்கப்படவில்லை என்றும் அவர் தெரிவித்திருந்தார். இதனால் கஞ்சாவுக்கான பணத்தை வந்து பெற்றுக்கொள்ளுமாறு கஞ்சாவை உடமையில் வைத்திருந்தவர் விநியோகித்தர்கள் இருவருக்கும்  தொலைபேசியில் தகவல் வழங்கியிருந்தார்.
+
+தொலைபேசித் தகவலை நம்பி அதற்கானப் பணத்தைப் பெற இருவர் வந்து கஞ்சாவை உடமையில் வைத்திருந்தவரிடம் பணத்தைப் பெற முயன்ற சமயம் மறைந்திருந்த பொலிஸார் பணத்தைப் பெற்றுக்கொள்ள சம்பவ இடத்துக்கு வந்த இருவரையும் மடக்கிப் பிடித்தனர்.
+
+இவ்வாறு மடக்கிப் பிடிக்கப்பட்ட இருவரும் கடற்படையினர் என்பது பின்னர் பொலிஸாருக்குத் தெரியவந்துள்ளது. (a)
+
+◼️
+
+[Data](articles/5ff94474.json)
 
 ---
 
@@ -2137,103 +2239,5 @@ The US government has previously warned the US government to stay in Russia rega
 [Data](articles/48b203de.json)
 
 [Extended Data](ext_articles/48b203de.ext.json)
-
----
-
-### At least 150 dangerous constructions identified in Colombo city
-
-*2024-03-23 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98145/at-least-150-dangerous-constructions-identified-in-colombo-city) · `en`
-
-Nearly 150 dangerous constructions have been identified in Colombo city thus far, says Colombo Municipal Commissioner Mrs. Bhadranie Jayawardhana.
-
-She mentioned that the relevant constructions have been documented while the owners were informed to remove them immediately.
-
-◼️
-
-[Data](articles/aa738191.json)
-
-[Extended Data](ext_articles/aa738191.ext.json)
-
----
-
-### More than 100 hazardous buildings in Colombo
-
-*2024-03-23 11:11:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-100க்கும்-மேற்பட்ட-அபாயகரமான-கட்டடங்கள்/175-335047) · `ta`
-
-Colombo Municipal Commissioner Badrani Jayawardena reports 150 hazardous buildings in Colombo, posing danger to many residential areas.
-
-🟩
-
-Colombo Municipal Commissioner Badrani Jayawardena says about 150 hazardous buildings have been identified in Colombo.
-
-It is also worth noting that many residential constituencies have been in danger.. Remble
-
-◼️
-
-[Data](articles/67d6a38b.json)
-
-[Extended Data](ext_articles/67d6a38b.ext.json)
-
----
-
-### UK aid to China drops by 90% since 2019 but transparency is falling - watchdog
-
-*2024-03-23 11:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/UK-aid-to-China-drops-by-90-since-2019-but-transparency-is-falling-watchdog/107-279461) · `en`
-
-(Daily Mail) - UK aid to China has fallen by 90% since 2019 – but transparency about how the money is spent is declining, a watchdog has warned.
-
-The Independent Commission for Aid Impact (ICAI) found that engagement with Beijing across all of Government dropped from £80 million at the start of this Parliament to an estimated £8.2 million in 2023-2024.
-
-However, there is only limited information in the public domain on how some aid funding, including the British Council’s to China, is being used, according to a report by the watchdog.
-
-Transparency has further reduced this year with the decision to stop routinely publishing official development assistance (ODA)-eligible administration costs on a country-by-country basis, the ICAI said.
-
-It follows a change in OECD guidelines on donor reporting of such costs, which now requires that donors do not assign them to a specific nation.
-
-...
-
-[Data](articles/3c166f14.json)
-
-[Extended Data](ext_articles/3c166f14.ext.json)
-
----
-
-### International dhamma programme tomorrow
-
-*2024-03-23 11:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/International-dhamma-programme-tomorrow/108-279460) · `en`
-
-An international dhamma programme in view of Medin Full Moon Poya Day will be held tomorrow (24) by Ven. Kalubowila Amarathagaveshi Thera.
-
-The live webinar will be held between 6.30 p.m. and 8.00 p.m. tomorrow on "Living with perfect bliss to reach liberation from existance".
-
-◼️
-
-[Data](articles/3042baf0.json)
-
-[Extended Data](ext_articles/3042baf0.ext.json)
-
----
-
-### Mysterious people shoot in music concert - 60 killed
-
-*2024-03-23 10:34:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இசை-கச்சேரியில்-மர்ம-நபர்கள்-துப்பாக்கிச்சூடு-60-பேர்-பலி/50-335045) · `ta`
-
-In Russia, 60 killed in a shooting at a 'Picnic' concert in Moscow. 130 injured, with 100 rescued.
-
-🟩
-
-The incident in which mysterious men entered the music concert in Russia. Of these, 60 were killed on the spot.
-
-The rock band of 'Picnic' held a concert in the Russian capital, Moscow last night. A team of unidentified 3-5 people in this concert has entered the shooting.
-
-60 people were killed and 130 injured in the attack. It is feared that the number of casualties may increase further.
-
-Security officials surrounded the concert building following the incident. Up to now 100 people have been safely rescued from the building. Rescue has taken place all night.R
-
-◼️
-
-[Data](articles/d9e2928c.json)
-
-[Extended Data](ext_articles/d9e2928c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 18:21:09**
+As of **2024-03-24 18:33:52**
 
 ## Newspaper Stats
 
-*Scraped **14,869** Articles*
+*Scraped **14,870** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,67 @@ tamilmirrorlk | 1,792
 adaderanalk | 1,793
 virakesarilk | 2,083
 dailymirrorlk | 2,285
-adaderanasinhalalk | 2,387
+adaderanasinhalalk | 2,388
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,864 (100.0%) of 14,869 articles have been extended.
+14,869 (100.0%) of 14,870 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### வெள்ளவத்தை நோ லிமிட்டில் பாரிய  தீ
+### රැකගත්තත් උඩපන්දුවක් බව නොදුටු බංගලි ක්‍රීඩකයෝ
+
+*2024-03-24 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194886) · `si`
+
+ශතකය රැස්කිරීමට ප්‍රථමයෙන් ශ්‍රී ලංකා නායක ධනංජය ද සිල්වා දවාගැනීමට තිබූ අවස්ථාවක් ගිලිහී ගිය අයුරු දැක්වෙන වීඩියෝවක් මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වෙමින් පවතී.
+
+එහි දැක්වෙන්නේ ලකුණු 94ක් රැස්කරගෙන සිටියදී ධනංජය ද සිල්වාගේ අත් ආවරණයේ වැදී ආරක්ෂිතව කඩුලු රකින ක්‍රීඩකයා විසින් රැකගත් ද එය උඩපන්දුවක් බව නොදැන කිසිදු ඉල්ලීමක් නොකර සිටීමය.
+
+එම අවස්ථාවේදී ඔහු ස්ටම්ප් කිරීමක් හරහා ධනංජය දවාගැනීමට උත්සාහ කරන අතර දාස් එම අවධානයෙන් සිටීම හේතුවෙන් ඔහු රැකගත්තේ උඩපන්දුවක් බවට නොදැන සිටින්නට ඇති බවට සිතිය හැකිය.
+
+◼️
+
+[Data](articles/3cfcb088.json)
+
+---
+
+### Massive fire at No Limit Wellawatte
 
 *2024-03-24 18:07:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெள்ளவத்தை-நோ-லிமிட்டில்-பாரிய-தீ/175-335112) · `ta`
 
-அந்த தீயை கட்டுப்பாட்டிற்குள் கொண்டு வருவதற்காக கொழும்பு தீயணைப்பு பிரிவிற்கு சொந்தமான 6 தீயணைப்பு வாகனங்கள் அனுப்பி வைக்கப்பட்டுள்ளன.
+A massive fire broke out at No Limit Wellawatte, with six fire trucks from the Colombo Fire Unit dispatched to control it.
+
+🟩
+
+Six fire trucks belonging to the Colombo Fire Unit have been dispatched to bring the fire under control.
 
 ◼️
 
 [Data](articles/a3a595ab.json)
 
+[Extended Data](ext_articles/a3a595ab.ext.json)
+
 ---
 
-### வெள்ளவத்தை கட்டட தொகுதியில் பாரிய தீ பரவல்!
+### Massive fire spread in Wellawatte building
 
 *2024-03-24 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179603) · `ta`
 
-கொழும்பு வெள்ளவத்தையில் உள்ள பிரபல ஆடை வர்த்தகக் கட்டிடத்தில் பாரிய தீபரவல் சம்பவம் ஞாயிற்றுக்கிழமை (24) பதிவாகியுள்ளது.
+A massive fire broke out in a garment business building in Wellawatte, Colombo, on Sunday.
+
+🟩
+
+The massive firefighting incident was reported on Sunday (24) at a popular garment business building in Wellawatte, Colombo.
 
 ◼️
 
 [Data](articles/89f0658f.json)
+
+[Extended Data](ext_articles/89f0658f.ext.json)
 
 ---
 
@@ -78,45 +106,71 @@ Six vehicles in the Colombo Fire Fund Unit have been referred to the stride to s
 
 ---
 
-### உதய் கார்த்திக் நடிக்கும் 'ஃபேமிலி படம்'
+### Uday Karthik starrer 'Family movie'
 
 *2024-03-24 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/179593) · `ta`
 
-'டை நோ சர்ஸ்' எனும் படத்தின் மூலம் அறிமுகமாகி, பிரபலமான நடிகர் உதய் கார்த்திக் கதையின் நாயகனாக நடிக்கும் புதிய படத்திற்கு 'ஃபேமிலி படம்' என பெயரிடப்பட்டு, அதன் தொடக்க விழா சென்னையில் சிறப்பாக நடைபெற்றது. இதன் போது திரையுலகப் பிரபலங்கள் பலர் வருகை தந்து படக்குழுவினருக்கு வாழ்த்து தெரிவித்தனர்.
+"Uday Karthik stars in 'Family', a debut film directed by Selvakumar Thirumaran, featuring a mix of drama, comedy, and family dynamics. The film, produced by Balaji, is set in Chennai and aims to entertain with its family-centric narrative."
 
-அறிமுக இயக்குநர் செல்வகுமார் திருமாறன் இயக்கத்தில் உருவாகி வரும் 'ஃபேமிலி படம்' திரைப்படத்தின் உதய் கார்த்திக், சுபிக்ஷா, விவேக் பிரசன்னா, பார்த்திபன், ஸ்ரீஜா, சந்தோஷ், மோகனசுந்தரம், ஆர்.ஜே பிரியங்கா, ஜனனி உள்ளிட்ட பலர் நடிக்கிறார்கள். மெய்யேந்திரன் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு அனிவீ இசையமைக்கிறார். பொழுதுபோக்கு குடும்பச் சித்திரமாக தயாராகும் இந்த திரைப்படத்தை யூ கே கிரியேஷன்ஸ் சார்பின் தயாரிப்பாளர் கே. பாலாஜி தயாரிக்கிறார்.
+🟩
 
-...
+The new film, which made his debut with the film 'Tie No Sars', is named 'Family', which is the hero of the famous actor Uday Karthik.. During this time, many of the filmmakers greeted the film crew.
+
+Uday Karthik, Subiksha, Vivek Prasanna, Parthiban, Srija, Santosh, Mohanasundaram, RJ Priyanka, Janani, directed by debutant director Selvakumar Thirumaran.. Anivi is composing the film, which is being recorded by real. The film is ready for entertainment family image. Produced by Balaji.
+
+Commenting on the film, the director said, “There is a family in a family as brother -in -law. All of them struggle to succeed in life. The film is made as a Feel Good Family Entertainment mixed with all the fights, contradictions, love and comedy.. The first shooting of the film is continuing in Chennai. ”
+
+◼️
 
 [Data](articles/a60a8dcf.json)
 
+[Extended Data](ext_articles/a60a8dcf.ext.json)
+
 ---
 
-### நடனப்புயலுடன் இணையும் இசைப்புயல்
+### Tuber
 
 *2024-03-24 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/179594) · `ta`
 
-'இசைப்புயல்' ஏ.ஆர். ரஹ்மானின் இசையில்.. 'நடன புயல்' பிரபுதேவாவின் நடனத்தில்.. வெளியான பாடல்கள் (காதலன், மிஸ்டர் ரோமியோ, மின்சார கனவே, லவ் பேர்ட்ஸ்..) இன்றுவரை இளைய தலைமுறையினருக்கு உற்சாகத்தையும், ஊக்கத்தையும், வியப்பையும் அளித்து வருகிறது. இவர்கள் இருவரும் மீண்டும் பெயரிடப்படாத படத்தில் இணைந்திருக்கிறார்கள். இதற்கான அதிகாரப்பூர்வமான அறிவிப்பு வெளியாகி இருக்கிறது.
+Rahman's music and Prabhu Deva's dance unite in an unnamed film, featuring a star-studded cast including Yogi Babu, Aju Varghese, and more. Directed by Manonj, it's a musical-dance extravaganza with R. Rahman composing. Shooting starts in May, with a multi-language release planned.
 
-அறிமுக இயக்குநர் எ.எஸ். மனோன்ஜ் இயக்கத்தில் உருவாகும் பெயரிடப்படாத திரைப்படத்தில் பிரபுதேவா கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடிக்கிறார். இவருடன் யோகி பாபு, அஜு வர்கீஸ், அர்ஜுன் அசோகன், ரெடின் கிங்ஸ்லி, மொட்டை ராஜேந்திரன், சிங்கம் புலி, லொள்ளு சபா சுவாமிநாதன், லொள்ளு சபா மனோகர், டி எஸ் ஆர் ஸ்ரீனிவாசன், தீபா உள்ளிட்ட பலர் நடிக்கிறார்கள். அனூப் வி. சைலஜா ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு 'இசை புயல்' ஏ. ஆர். ரஹ்மான் இசையமைக்கிறார்.  பிஹைன்வுட்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் என். எஸ். மனோஜ், திவ்யா மனோஜ், டொக்டர் பிரவீன் ஈலாக் ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
+🟩
 
-...
+'Music' AR. In the music of Rahman.. 'Dance Storm' in the dance of Prabhu Deva.. Songs released (lover, Mr. Romeo, Electric Dream, Love Birds.. They are both reunited in the unnamed film. An official announcement has been made.
+
+Introducing Director AS. Prabhu Deva plays the lead role in the unnamed movie directed by Manonj. Yogi Babu, Aju Varghese, Arjun Asokan, Redin Kingsley, Motta Rajendran, Lion Tiger, Lok Saba Swaminathan, Lalu Saba Manohar, TSR Srinivasan, Deepa. Anoub v. 'Music Storm' for the film, which is being recorded by Sailaja. R. Rahman composes music.Producers N.. S.. Manoj, Divya Manoj and Dr. Praveen Elak are co -produced.
+
+'' The film is to be celebrated with Prabhu Deva and AR Rahman. Music- Dance- Songs- Comedy- Comes with entertainment. We start shooting this movie in May. The next year, Ban will be released in Tamil, Telugu, Malayalam and Kannada Hindi. ”
+
+◼️
 
 [Data](articles/d0b59fb5.json)
 
+[Extended Data](ext_articles/d0b59fb5.ext.json)
+
 ---
 
-### ஏப்ரலில் வெளியாகும் 'கயல்' ஆனந்தியின் 'வைட் ரோஸ்'
+### 'Gayal' Anandi's 'White Rose'
 
 *2024-03-24 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179596) · `ta`
 
-இன்றைய தமிழ் திரையுலகின் நடிகையர் திலகம் என்றும், டிஜிட்டல் சாவித்திரி என்றும் போற்றப்படும் நடிகை 'கயல்' ஆனந்தி கதையின் நாயகியாக நடித்திருக்கும் 'வைட் ரோஸ்' எனும் தமிழ் திரைப்படம் எதிர்வரும் ஏப்ரல் மாதம் ஐந்தாம் திகதியன்று உலகம் முழுவதும் படமாளிகைகளில் வெளியாகும் என படக் குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு உற்சாகத்துடன் தெரிவித்திருக்கிறார்கள்.
+"White Rose" stars Gayal Anandi, produced by Ranjani for Poomparai Murugan Productions, directed by Sudarshan and Johan Seventh. Features music by R.R. K. Suresh, Vijith, Baby Star, and others. Aimed to highlight police control centers, it's set for an April release. Despite "Gaduvetti" and "Mangai" not being successful, "White Rose" promises a fresh experience.
 
-அறிமுக இயக்குநர் ராஜசேகர் இயக்கத்தில் உருவாகி இருக்கும் 'வைட் ரோஸ்' எனும் திரைப்படத்தில் ஆர். கே. சுரேஷ், 'கயல்' ஆனந்தி, விஜித், பேபி நட்சத்திரா, சசிலயா, கணேஷ், ராமநாதன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள் இளையராஜா ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சுதர்சன் மற்றும் ஜோகன் செவனேஷ் ஆகியோர் இணைந்து இசையமைத்திருக்கிறார்கள். திரில்லர் ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை பூம்பாறை முருகன் புரொடக்ஷன்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர் ரஞ்சனி தயாரித்திருக்கிறார்.
+🟩
+
+The film 'Wite Ross', the hero of the actress 'Gayal' Anandi story, is the actress of the actor Tilak and the digital Savitri, which is the actor of today's Tamil film industry.
+
+R.R.. K. Suresh, 'Gayal' Anandi, Vijith, Baby Star, Sasilaya, Ganesh, Ramanathan and many others have composed the film by Sudarshan and Johan Seventh.. The film is being produced in the thriller Janer and produced by Ranjani on behalf of Poomparai Murugan Productions.
+
+The shooting of the film is completed and the final phase of the work is going on. The film crew has announced that the film will be released early in April, as the first look of the film has been released.
+
+Commenting on the film, the director said, “The screenplay of the film has been created to highlight the police control center.. We have made the film interesting to bring a completely new experience. ”
 
 ...
 
 [Data](articles/2e2650a6.json)
+
+[Extended Data](ext_articles/2e2650a6.ext.json)
 
 ---
 
@@ -2099,23 +2153,5 @@ Furthermore, Dr. Siyambalapitiya affirmed that all necessary arrangements have b
 [Data](articles/a78eaed8.json)
 
 [Extended Data](ext_articles/a78eaed8.ext.json)
-
----
-
-### Moscow massacre: Putin says gunmen tried to escape to Ukraine, death toll hits 133
-
-*2024-03-23 22:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98161/moscow-massacre-putin-says-gunmen-tried-to-escape-to-ukraine-death-toll-hits-133) · `en`
-
-Russian authorities arrested the four men suspected of carrying out the attack on a suburban Moscow concert hall that killed at least 133 people and believe they were headed to Ukraine, President Vladimir Putin said Saturday during an address to the nation.
-
-Kyiv, meanwhile, strongly denied any involvement in Friday’s attack on the Crocus City Hall music venue in Krasnogorsk, which the Islamic State group’s affiliate in Afghanistan claimed responsibility for in a statement posted in social media channels linked to the group. Kyiv accused Putin and other Russian politicians of falsely linking Ukraine to the assault in order to stoke fervor in Russia’s war in Ukraine, which recently entered its third year.
-
-A U.S. intelligence official told The Associated Press that U.S. agencies had confirmed that IS was responsible for the assault and had previously warned Moscow that an attack could be imminent.
-
-...
-
-[Data](articles/0dd927d8.json)
-
-[Extended Data](ext_articles/0dd927d8.ext.json)
 
 ---

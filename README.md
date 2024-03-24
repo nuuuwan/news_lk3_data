@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 22:50:22**
+As of **2024-03-24 23:03:09**
 
 ## Newspaper Stats
 
@@ -392,7 +392,7 @@ He said the Ministry has paid more attention to maintaining the food at a high l
 
 "Under the theme of fostering a healthy and active generation of children, the school meal programme introduced for 2024 targets several objectives.
 
-"These include diminishing nutritional issues among school students, enhancing daily school attendance rates, instilling positive eating and health practices, promoting educational achievement levels, and supporting local food initiativess," the Minister said.
+"These include diminishing nutritional issues among school students, enhancing daily school attendance rates, instilling positive eating and health practices, promoting educational achievement levels, and supporting local food initiatives," the Minister said.
 
 ...
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 20:33:46**
+As of **2024-03-24 20:49:59**
 
 ## Newspaper Stats
 
-*Scraped **14,879** Articles*
+*Scraped **14,880** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ tamilmirrorlk | 1,792
 adaderanalk | 1,794
 virakesarilk | 2,084
 dailymirrorlk | 2,291
-adaderanasinhalalk | 2,389
+adaderanasinhalalk | 2,390
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,877 (100.0%) of 14,879 articles have been extended.
+14,879 (100.0%) of 14,880 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### සිංහයින් ක්‍රිකට් වාර්තා පොත අලුත් කරයි
+
+*2024-03-24 20:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194888) · `si`
+
+ටෙස්ට් ක්‍රිකට් ඉතිහාසයේ වාර්තා කිහිපයක් අලුත් කරමින් බංග්ලාදේශය සමඟ පැවැත්වෙන පළමු ටෙස්ට් තරගයේ වැඩි ගෞරව දිනා ගැනීමට ශ්‍රී ලංකා කණ්ඩායමට අද (24) හැකියාව ලැබුණි.
+
+ඒ තරගයේ තුන්වන දිනය වූ අද දිනයේ ශ්‍රී ලංකා නායක ධනංජය ද සිල්වා සහ කමිඳු මෙන්ඩිස් වාර්තා කළ විශිෂ්ට ශතක දෙකත් සමගය.
+
+තරගයේ තෙවැනි දිනය ආරම්භ කරනවිට සිය දෙවැනි ඉනිම ක්‍රිඩාකරමින් සිටි ශ්‍රී ලංකා කණ්ඩායම කඩුලු 5ක් දැවී රැස්කරගෙන සිටි ලකුණු සංඛ්‍යාව 119කි.
+
+ඊයේ (23) සැඳෑ ආරක්ෂකයා ලෙස පිටියට පිවිසි විශ්ව ප්‍රනාන්දු ලකුණු 4කට දැවී ගියේය.
+
+ඉන් අනතුරුව පිටියට පිවිසි කමිඳු මෙන්ඩිස් නායක ධනංජය ද සිල්වා සමඟ එක්ව 7වැනි කඩුල්ලට ලකුණු 173ක සාර්ථක සබඳතාවක් ගොඩනගමින් ශ්‍රී ලංකා ඉනිම ශක්තිමත් කිරීමට සමත්විය.
+
+එහිදී නායක ධනංජය ද සිල්වා සිය ටෙස්ට් දිවියේ 12වැනි ශතකය වාර්ථා කරමින් ලකුණු 108ක් ලබා ගත්තේය.
+
+ඔහු වාර්තා අතරට එක්වූයේ ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් ටෙස්ට් තරගයක ඉනිම දෙකේදීම ශතක වාර්තා කළ 6වැනි පිතිකරුවා ලෙසටය.
+
+එලෙස ශ්‍රී ලංකා පිතිකරුවෙකු ටෙස්ට් තරගයක ඉනිම දෙකේදීම ශතක වාර්තා කළේ වසර 10කට පසුව වීමත් විශේෂත්වයකි.
+
+...
+
+[Data](articles/ff85483b.json)
+
+---
 
 ### Sri Lanka pushes Bangladesh to brink after de Silva, Mendis score centuries
 
@@ -50,21 +76,29 @@ The sorry display from Bangladesh’s batters came when de Silva and Mendis domi
 
 [Data](articles/3bd5eb08.json)
 
+[Extended Data](ext_articles/3bd5eb08.ext.json)
+
 ---
 
-### இன்று பல மாகாணங்களில் மழை
+### Rain in many provinces today
 
 *2024-03-24 20:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179605) · `ta`
 
-பல மாகாணங்களில் ஞாயிற்றுக்கிழமை (24) இரவு மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Rain expected in Western, Sabaragamuwa, Southern, Central, and Northwestern provinces tonight, with thundershowers. Rainfall also likely in Eastern and Uva provinces on Monday.
 
-மேல், சப்ரகமுவ, தெற்கு, மத்திய மற்றும் வடமேற்கு மாகாணங்களில் ஞாயிற்றுக்கிழமை (24) இரவு வேளைகளில் இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் மேலும் தெரிவித்துள்ளது.
+🟩
 
-சில இடங்களில் மழை 75 மில்லிமீற்றருக்கும் அதிகமான பலத்த பெய்யக்கூடும் எனவும் இதேவேளை, கிழக்கு மற்றும் ஊவா மாகாணங்களில் திங்கட்கிழமை (25) மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+The Department of Meteorology said that rainfall is expected in several provinces on Sunday (24) night.
+
+Thundershowers will occur on Sunday (24) night in the Western, Sabaragamuwa, Southern, Central and Northwestern provinces, the Department of Meteorology added.
+
+The Department of Meteorology said that rainfall is likely to occur in some places and it will occur in the Eastern and Uva provinces on Monday (25).
 
 ◼️
 
 [Data](articles/901081c9.json)
+
+[Extended Data](ext_articles/901081c9.ext.json)
 
 ---
 
@@ -2155,31 +2189,5 @@ Education Minister Susil Premajayantha said that Rs 26 billion has been allocate
 [Data](articles/2a5e0c2a.json)
 
 [Extended Data](ext_articles/2a5e0c2a.ext.json)
-
----
-
-### IMF, which provides the remaining funding.
-
-*2024-03-24 03:23:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஞ்சிய-நிதியுதவியை-வழங்கும்-ஐ-எம்-எப்/175-335071) · `ta`
-
-IMF agrees to provide remaining funds to Sri Lanka, marking a success in eligibility for next steps. Prime Minister Dinesh Gunawardena highlighted this at the foundation stone laying ceremony for the new Survey Department at Avissawella Hospital.
-
-🟩
-
-Prime Minister Dinesh Gunawardena has said that the International Monetary Fund has agreed to provide the remaining funds to Sri Lanka.
-
-The Prime Minister said this while attending the foundation stone laying ceremony for the new Survey Department at the Avissawella Hospital.
-
-Prime Minister Dinesh Gunawardena has said that Sri Lanka's eligibility for the next step of the International Monetary Fund is a success.
-
-He added that the IMF representatives have expressed their happiness as the country has reached a sustainable path towards growth.
-
-Accordingly, representatives of the International Monetary Fund have agreed to provide future funding soon, the Prime Minister said that the Prime Minister said. (A)
-
-◼️
-
-[Data](articles/6df48a75.json)
-
-[Extended Data](ext_articles/6df48a75.ext.json)
 
 ---

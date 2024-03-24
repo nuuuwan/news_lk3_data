@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 10:51:00**
+As of **2024-03-24 11:02:59**
 
 ## Newspaper Stats
 
-*Scraped **14,806** Articles*
+*Scraped **14,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,93 @@ dailyftlk | 792
 economynextcom | 798
 islandlk | 820
 adalk | 1,262
-tamilmirrorlk | 1,781
+tamilmirrorlk | 1,782
 adaderanalk | 1,783
 virakesarilk | 2,075
-dailymirrorlk | 2,276
-adaderanasinhalalk | 2,370
+dailymirrorlk | 2,277
+adaderanasinhalalk | 2,371
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,805 (100.0%) of 14,806 articles have been extended.
+14,806 (100.0%) of 14,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### ’’நாங்கள் ஏற்கனவே வெற்றி பெற்றுவிட்டோம்’’
+### சம்பளத் திருத்தம் செய்ய மத்திய வங்கி இணக்கம்
+
+*2024-03-24 10:40:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளத்-திருத்தம்-செய்ய-மத்திய-வங்கி-இணக்கம்/175-335077) · `ta`
+
+ஆளும் சபை மற்றும் ஊழியர் பிரதிநிதிகளுக்கு இடையிலான கூட்டு ஒப்பந்தத்தின் பின்னர் இலங்கை மத்திய வங்கியின் (CBSL) 2024-2026 காலப்பகுதிக்கான சமீபத்திய சம்பளத் திருத்தம், பொதுமக்கள் மத்தியில் அதிக சர்ச்சையை உருவாக்கியது.
+
+இந்தச் சூழலுக்கு விடையறுக்கும் வகையில், CBSL இன் பெரும்பாலான மூத்த நிர்வாகம் மற்றும் தொழில் வல்லுநர்கள் தங்கள் சம்பளத்தில் திருத்தம் செய்வதைக் கருத்தில் கொள்ள ஒரு கூட்டு முடிவை எடுத்தனர்.
+
+இந்த முடிவு COPF ஆல் செய்யப்பட்ட பரிந்துரைகளுக்கு முன் மற்றும் சுயாதீனமாக 16 மார்ச் 2024 அன்று பொது நிதிக்கான குழுவிற்கு (COPF) தெரிவிக்கப்பட்டது.
+
+COPF தலைவர் இதற்கிடையில் CBSL ஊழியர்களின் சம்பளத்தை அதிகரிப்பதற்கான கூட்டு ஒப்பந்தம் CBSL இன் அனைத்து ஊழியர் பிரிவுகளிலும் திருத்தங்களை உள்ளடக்கிய ஒரு சுயாதீன குழுவால் மதிப்பாய்வு செய்யப்பட வேண்டும் என்று பரிந்துரைத்துள்ளார்.
+
+...
+
+[Data](articles/4b5ef2c6.json)
+
+---
+
+### කෙන්යාවේ වෛද්‍යවරුන් වැඩ වර්ජනයක
+
+*2024-03-24 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194869) · `si`
+
+ඉල්ලීම් කිහිපයක් මුල් කරගනිමින් කෙන්යාවේ වෛද්‍යවරුන් ඇතුළු සෞඛ්‍ය  ක්ෂේත්‍රයේ වෘත්තිකයින් වැඩ වර්ජනයක් ආරම්භ කර තිබේ.
+
+ඊට සමගාමීව නයිරෝබි අගනුවර පැවැති විරෝධතාවක් පිළිබඳව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+සිය වැටුප් ඉහළ දමන ලෙස සහ යහපත් සේවා පසුබිමක් සකසා දෙන වෛද්‍යවරුන් රජයෙන් ඉල්ලයි.
+
+ඉන් ඇතැම් රෝහල්වල හදිසි ප්‍රතිකාර සේවා අඩපණ වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/c03a2e66.json)
+
+---
+
+### We have already succeeded
 
 *2024-03-24 10:23:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாங்கள்-ஏற்கனவே-வெற்றி-பெற்றுவிட்டோம்/175-335075) · `ta`
 
-எதிர்பார்க்கப்படும் சமூக மாற்றத்தை ஏற்படுத்தவும், திவாலான பொருளாதாரத்தை மீட்டெடுக்கவும் தனிப்பெரும்பான்மை கொண்ட அரசாங்கம் போதாது என்று கூறி, NPP பலமான அரசாங்கத்தை அமைக்க நம்புவதாக NPP இன் பொதுச் செயலாளர் டில்வின் சில்வா நேற்று தெரிவித்தார்.
+NPP General Secretary Dilvin Silva hopes to form a strong government for social change and economic recovery, emphasizing the need for power beyond the current 113 seats.
 
-புத்தளம் மாவட்ட மகளிர் பேரவையில் உரையாற்றிய அவர், எதையும் செய்வதற்கு NPP பலமான சக்தியைப் பெற வேண்டும் என்றார்.
+🟩
 
-"நாங்கள் ஏற்கனவே வெற்றி பெற்றுவிட்டோம். ஆனால், எதிர்பார்க்கப்படும் சமூக மாற்றத்தை ஏற்படுத்த 113 ஆசனங்களுடன் ஆட்சி அமைப்பதில் எந்தப் பயனும் இல்லை என்று நாங்கள் நினைக்கிறோம்.
+NPP General Secretary Dilvin Silva yesterday said he hoped to form a strong government, saying that a large -scale government was not enough to create an expected social change and restore the bankrupt economy.
 
-எதை வேண்டுமானாலும் செய்ய உறுதியான பலம் இருக்க வேண்டும். முந்தைய அரசாங்கங்கள் நாட்டை அழிக்க பலமான பலத்தைப் பெற்றன. ஆனால். திவாலான நாட்டை மீட்டெடுக்க நாம் வலுவான சக்தியைப் பெற வேண்டும்," என்று அவர் கூறினார்.
+Speaking at the Puttalam District Women's Council, she said that NPP should have a strong power to do anything.
 
-நாசவேலைகள் மூலம் போட்டியாளர்களால் வீழ்த்த முடியாத பாரிய மக்கள் பலத்துடனும் நம்பிக்கையுடனும் இலங்கையில் முதலாவது மக்களின் அரசாங்கத்தை உருவாக்குவோம் என்றும் டி சில்வா கூறினார்.
+“We have already won. But we think there is no use in the rule of 113 seats to make the expected social change.
+
+To have firm strength to do whatever they want. Previous governments gained strong strength to destroy the country. But. To restore the bankrupt country, we have to gain strong power, ”he said.
+
+De Silva said, "We will create a government of the first people in Sri Lanka with the strength and confidence that the rivals cannot bring down the rivals through sabotage."
 
 ◼️
 
 [Data](articles/e2f351a7.json)
+
+[Extended Data](ext_articles/e2f351a7.ext.json)
+
+---
+
+### Observing Medin Poya Day
+
+*2024-03-24 10:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Observing-Medin-Poya-Day/110-279472) · `en`
+
+Devotees are seen engaged in religious activities at the Kelaniya Raja Maha Viharaya to mark the Medin Poya Day, this morning. Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/0bc53ac4.json)
 
 ---
 
@@ -2181,77 +2235,5 @@ They said the arrested suspects are being detained for further questioning.
 [Data](articles/e3c338a5.json)
 
 [Extended Data](ext_articles/e3c338a5.ext.json)
-
----
-
-### 2.2 billion people worldwide lack access to clean drinking water: UN report
-
-*2024-03-23 12:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98147/22-billion-people-worldwide-lack-access-to-clean-drinking-water-un-report) · `en`
-
-Increasing global water scarcity is fuelling more conflicts and contributing to instability, the United Nations warns in a new report, which says access to clean water is critical to promoting peace.
-
-The UN World Water Development Report 2024, released on Friday, said 2.2 billion people worldwide have no access to clean drinking water and 3.5 billion people lack access to safely managed sanitation.
-
-Girls and women are the first victims of a lack of water, said the report, published by the UN Educational, Scientific and Cultural Organization (UNESCO), especially in rural areas where they have the primary responsibility of collecting supplies.
-
-Spending several hours a day on fetching water, coupled with a lack of safe sanitation, is a contributing factor to girls dropping out of school.
-
-...
-
-[Data](articles/c334e0a5.json)
-
-[Extended Data](ext_articles/c334e0a5.ext.json)
-
----
-
-### Sri Lanka in ten countries that have been affected by climate change
-
-*2024-03-23 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179479) · `ta`
-
-Sri Lanka, among 10 countries impacted by climate change, aims to mitigate its effects through international cooperation, focusing on green hydrogen and renewable energy. By 2050, climate change could lead to a 1% GDP loss and significant agricultural losses.
-
-🟩
-
-Sri Lanka is one of the 10 countries affected by climate change.
-
-The President of the Parliamentary Committee on the Center, Eran Wickramaratne and the President's Senior Advisor to Climate Changes, Ruwan Wijewardena said.
-
-Parliamentarian Wickramaratne stressed that the parliamentary committee on relaxation will work with other countries to reduce the impact of climate change.
-
-"We intend to work with the United Nations Development Program and the United Nations Industry Development Organization and will work in accordance with the government's map of the Green Hydrogen," he said.
-
-Ruwan Wijewardena has stated that by 2050 climate change will result in one percent loss of Sri Lanka's GDP.
-
-Climate change will lose billions of dollars in Sri Lanka's agriculture sector.
-
-...
-
-[Data](articles/22a516d7.json)
-
-[Extended Data](ext_articles/22a516d7.ext.json)
-
----
-
-### The system renews the method of insurance in an accident
-
-*2024-03-23 11:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194841) · `si`
-
-The Minister of Transport, Lasantha Alagiyawanna, announced the immediate implementation of third-party accident insurance procedures without legal intervention. Insurance companies can now access their policies from any branch across the island within a year. Additionally, Sri Lanka is preparing to issue driving licenses at airports, starting from April 15, with necessary arrangements in place.
-
-🟩
-
-Minister of Transport Lasantha Alagiyawanna stated that the prompt proceedings of the third party in an accident have been launched without judicial action.
-
-Accordingly, applying for the insurance company within a year, the insurance company will be able to obtain the insurance company from any branch island-wide.
-
-Minister of Transport Lasantha Alagiyawanna made this statement participating at a press conference held at the Presidential Media Center yesterday (22).
-
-Meanwhile, the Sri Lanka Driving License has been prepared at the airport on April 15 and the necessary arrangements have been made to obtain the driver's license at the airport.
-
-◼️
-
-[Data](articles/d858a1f5.json)
-
-[Extended Data](ext_articles/d858a1f5.ext.json)
 
 ---

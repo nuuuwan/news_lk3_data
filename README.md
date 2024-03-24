@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 16:02:57**
+As of **2024-03-24 16:17:45**
 
 ## Newspaper Stats
 
-*Scraped **14,855** Articles*
+*Scraped **14,856** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 820
 adalk | 1,266
 tamilmirrorlk | 1,790
 adaderanalk | 1,791
-virakesarilk | 2,078
+virakesarilk | 2,079
 dailymirrorlk | 2,284
 adaderanasinhalalk | 2,383
 
@@ -26,59 +26,109 @@ adaderanasinhalalk | 2,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,852 (100.0%) of 14,855 articles have been extended.
+14,855 (100.0%) of 14,856 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### බංග්ලාදේශයට ලකුණු 511ක ඉලක්කයක්
+### Men's corpse recovery in Haputhal
+
+*2024-03-24 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179580) · `ta`
+
+Police recover man's body in Haputhalai jungle, believed to have died suspiciously.
+
+🟩
+
+The body of a man who is believed to have died suspiciously in the jungle area of the Hapudalai area has been recovered by police.
+
+◼️
+
+[Data](articles/951b3ffe.json)
+
+[Extended Data](ext_articles/951b3ffe.ext.json)
+
+---
+
+### Bangladesh a target of 511 runs
 
 *2024-03-24 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194881) · `si`
 
-බංග්ලාදේශයට එරෙහිව පැවැත්වෙන පළමු ටෙස්ට් තරගයේ දෙවන ඉනිම ක්‍රීඩා කළ ශ්‍රී ලංකා කණ්ඩායම සියලුදෙනා දැවී ලකුණු 418ක් රැස්කරගත්තේය.
+In the first Test, Sri Lanka scored 418 runs, losing all wickets in the second innings. Kamindu Mendis scored 164 runs, and Dhananjaya De Silva scored his 12th Test century with 108 runs. Sri Lanka's first innings total was 280 runs, and Bangladesh scored 188 runs in their first innings, leading to a Bangladesh total of 511 runs.
 
-එහිදී අගනා ඉනිමක් ක්‍රීඩා කළ ශ්‍රී ලංකා නවක ක්‍රීඩක කමිඳු මෙන්ඩිස් ටෙස්ට් දිවියේ දෙවන ශතකය වාර්තා කළේය.
+🟩
 
-හයේ පහර 6ක් සහ හතරේ පහර 16ක් සමග කමිඳු මෙන්ඩිස් ලකුණු 164ක් රැස්කරගත්තේය.
+Sri Lanka scored 418 runs for the loss of all of the second innings in the first Test against Bangladesh.
 
-නායකත්වයේ ඉනිමක් ක්‍රීඩා කළ ධනංජය ද සිල්වා අද සිය 12 වන ටෙස්ට් ශතකය රැස්කරගැනීමට සමත්විය.
+Sri Lankan nineteen women who played a premier innings recorded the second century in Test.
 
-ලකුණු 108 ක් රැස්කරගත් ධනංජය හයේ පහර 2ක් සහ හතරේ පහර 9ක් එල්ලකළේය.
+Kamindu Mendis scored 164 runs with six sixes and 16 fours.
 
-කමිඳු මෙන්ඩිස් සහ ධනංජය සිල්වා විසින් පළමු ඉනිමේදී ද ශතකයක් රැස්කිරීම විශේෂත්වයකි.
+Dhananjaya De Silva, who played a leadership innings, scored his 12th Test century today.
 
-පන්දු යැවීමේදී මෙහිදි හසන් මිරාස් ලකුණු 74කට කඩුලු 4ක් දවාගත්තේය.
+Dhananjaya took 2 sixes and nine fours, which scored 108 runs.
 
-සිය පළමු ඉනිම සඳහා ශ්‍රී ලංකාව සියලුදෙනා දැවී ලකුණු 280ක් රැස්කරගත් අතර බංග්ලාදේශය පළමු ඉනිම සඳහා සියලුදෙනා දැවී රැස්කරගත්තේ ලකුණු 188ක් පමණි.
+Kumindu Mendis and Dananjaya Silva also scored a century in the first innings.
 
-ඒ අනුව පළමු ටෙස්ට් තරගයේ ජයග්‍රහණය සඳහා බංග්ලාදේශයට හිමිවූ ඉලක්කය ලකුණු 511කි.
+During his bowling, Hassan Miras took 4 wickets for 74 runs.
+
+Sri Lanka scored 280 runs for the loss of all bowled out for the first innings, and Bangladesh scored 188 runs for the first innings.
+
+Accordingly, Bangladesh scored 511 runs in the first Test.
 
 ◼️
 
 [Data](articles/7c47ea8a.json)
 
+[Extended Data](ext_articles/7c47ea8a.ext.json)
+
 ---
 
-### පැහැරගත් පාසල් ළමුන් 300කට නිදහස
+### நாளை முதல் ஆரம்ப பிரிவு மாணவர்களுக்கு காலை உணவு வழங்கும் திட்டம்!
+
+*2024-03-24 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/179587) · `ta`
+
+ஆரம்ப பிரிவு முதல் தரம் ஐந்து வரையிலான சிறார்களுக்கு நாளை திங்கட்கிழமை  முதல் பிரதான காலை உணவு வழங்கும் திட்டம் கல்வி அமைச்சினால் ஏற்பாடு செய்யப்பட்டுள்ளது.
+
+ஊட்டச்சத்து நிபுணர்களின் ஆலோசனையின் அடிப்படையில் காலை 7.30 மணி முதல் 8.30 மணி வரை காலை உணவு வழங்குவதற்கு ஏற்பாடு செய்யப்பட்டுள்ளது.
+
+உணவு வழங்கும் திட்டத்தில் போசாக்கு மற்றும் சுகாதாரம் என்பவற்றில் உணவு முறைமை உயரிய மட்டத்தில் பேணுவதற்கு கல்வி அமைச்சு கவனம் செலுத்தியுள்ளதோடு , அரசாங்கத்தினால் இதற்காக 16.6 பில்லியன் ரூபா தொகை செலவிடப்படவுள்ளது.
+
+9,134 அரச பாடசாலைகள் மற்றும் 100க்கு குறைவான மாணவர்களைக் கொண்ட அனைத்து பாடசாலைகளினதும் ஆரம்ப வகுப்பு மாணவர்களை உள்ளடக்கிய 1.6 மில்லியன் பாடசாலை மாணவர்கள் இந்த திட்டத்தில் பயனடைவார்கள் என்று கூறப்படுகின்றது.
+
+இந்தச் செயற் திட்டத்திற்காக ஒன்பது மாகாண சபைகளுக்கும் அரசாங்கத்தினால் நேரடியாகவே 16,600 மில்லியன் ரூபா ஒதுக்கீடு செய்யப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/a133af9e.json)
+
+---
+
+### 300 abducted school children released
 
 *2024-03-24 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194880) · `si`
 
-නයිජීරියාවේ පාසලකින් පැහැරගත් පාසල් ළමුන් 300කට ආසන්න පිරිසක් නිදහස් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Nearly 300 school children in Nigeria released, cited by Governor of Kadanaya. Abducted in March, ransom demands followed.
 
-එරට කඩුනා ප්‍රාන්තයේ ආණ්ඩුකාරවරයා උපුටා දක්වමින් විදෙස් මාද්‍ය මේ බව වාර්තා කර ඇත.
+🟩
 
-එහිදී ආණ්ඩුකාරවරයා වැඩිදුරටත් සඳහන් කර ඇත්තේ දරුවන් පිරිස නිරුපද්‍රිතව නැවත පැමිණ ඇති බවය.
+Foreign media reports that nearly 300 school children have been released from a school in Nigeria.
 
-දරුවන් බේරාගැනීම සඳහා අඛණ්ඩව වෙහෙස වී කටයුතු සිදුකළ එරට ජනාධිපති බෝලා ටිනුබු වෙත ද ආණ්ඩුකාරවරයා X පණිවුඩයක් නිකුත් කරමින් ස්තූතිය පුදකර ඇත.
+This has been reported from citing the Governor of Kadanaya Kadanaya.
 
-මාර්තු මාසයේ ආරම්භයේදී වයඹදිග නයිජීරියාවේ පාසලකදී මෙම සිසුන් පිරිස යතුරුපැදිවලින් පැමිණි අවිගත් කණ්ඩායමක් විසින් පැහැරගෙන ගොස් තිබුණි.
+The Governor added that the children had returned to her.
 
-කප්පම් ලබාගැනීමේ අරමුණ සහිතව පසුගිය කාලසීමාවේදී මෙලෙස පාසල් සිසුන් පැහැරගෙනයාමේ සිදුවීම් කිහිපයක් නයිජීරියාවෙන් වාර්තාවිය.
+The Governor thanked the Governor to Tissanbu, who continued to work hard to save children.
+
+The students had been abducted by a arbitrator who had come from motorbikes at the beginning of March.
+
+A few incidents of knigia have been reported from the last days with the purpose of ransom.
 
 ◼️
 
 [Data](articles/ed9fc6c8.json)
+
+[Extended Data](ext_articles/ed9fc6c8.ext.json)
 
 ---
 
@@ -225,24 +275,6 @@ Also, 400 grams of buckets cost Rs.He added that the price will go down by 60 %.
 [Data](articles/d7a067d2.json)
 
 [Extended Data](ext_articles/d7a067d2.ext.json)
-
----
-
-### Men's corpse recovery in Haputhal
-
-*2024-03-24 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179580) · `ta`
-
-Police recover man's body in Haputhalai jungle, believed to have died suspiciously.
-
-🟩
-
-The body of a man who is believed to have died suspiciously in the jungle area of the Hapudalai area has been recovered by police.
-
-◼️
-
-[Data](articles/951b3ffe.json)
-
-[Extended Data](ext_articles/951b3ffe.ext.json)
 
 ---
 
@@ -408,15 +440,21 @@ Leader of the National Power Anura Kumara Dissanayake
 
 ---
 
-### කිරිපිටි මිලෙහි වෙනසක්
+### Change in milk powder price
 
 *2024-03-24 13:42:50* · [`adalk`](https://www.ada.lk/breaking_news/කිරිපිටි-මිලෙහි-වෙනසක්/11-408770) · `si`
 
-අද මධ්‍යම රාත්‍රියේ සිට ආනයනික කිරිපිටි මිල පහළ දැමීමට තීරණය කර ඇති බව වෙළෙඳ අමාත්‍ය නලින් ප්‍රනාන්දු මහතා පවසයි.  කිලෝ 1ක ආනයනික කිරිපිටි පැකැට්ටුවක මිල රුපියල් 150 කින්ද ග්‍රෑම් 400ක ආනයනික කිරිපිටි පැකැට්ටුවක මිල රුපියල් 60කින්  පහළ දැමීමට තීරණය කර ඇත.
+Trade Minister Nalin Fernando announced that imports of milk powder have been halted from midnight today, affecting the price of milk powder packets.
+
+🟩
+
+Trade Minister Nalin Fernando says that the import milk powder has been declined from midnight today.The price of a packet of Rs.
 
 ◼️
 
 [Data](articles/a91ac64d.json)
+
+[Extended Data](ext_articles/a91ac64d.ext.json)
 
 ---
 
@@ -2113,29 +2151,5 @@ Former President Maithripala Sirisena has been ordered to investigate the recent
 [Data](articles/fac0903a.json)
 
 [Extended Data](ext_articles/fac0903a.ext.json)
-
----
-
-### Maithri cooperation for the blast ??The child is suspicious
-
-*2024-03-23 18:53:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/குண்டுவெடிப்புக்கு-மைத்திரி-ஒத்துழைப்பு-பிள்ளையான்-சந்தேகம்/73-335053) · `ta`
-
-Sivanesathurai Chandrakanthan, Minister of State, questions Maithripala Sirisena's cooperation in the Easter Massacre case, demanding transparency. Sirisena claims survivors knew victims, but Chandrakanthan criticizes the handling of the case, suggesting a lack of leadership and transparency.
-
-🟩
-
-Has he cooperated with former President Maithripala Sirisena's resurrection?We have doubts. So if he is a brave political leader, it is my demand that he is openly revealing in the media, ”said Sivanesathurai Chandrakanthan, the Minister of State, Sivanesathurai.
-
-The launch of the Historical Research Celebration of the Easter Massacre by Minister of State C. Chandrakanthan in Batticaloa was held at Anjana Hall on Saturday (23). He later said this to the media.
-
-Former President Maithripala Sirisena said in the media that the survivors were aware of the victims. Former President Maithripala Sirisena speaks like a normal man. He was the head of the country when the blast took place. The leader's responsibility must find and arrest and put them in front of the law.
-
-But he leaves it and now makes a confidential confession. So we have to be cut off that we have brought a funny man to the politics of this country.
-
-...
-
-[Data](articles/65039cea.json)
-
-[Extended Data](ext_articles/65039cea.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 09:33:44**
+As of **2024-03-24 09:52:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,369
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,801 (100.0%) of 14,802 articles have been extended.
+14,802 (100.0%) of 14,802 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Onion prices in some wholesale markets in Maharashtra, the biggest onion-produci
 ...
 
 [Data](articles/de3fa7bf.json)
+
+[Extended Data](ext_articles/de3fa7bf.ext.json)
 
 ---
 

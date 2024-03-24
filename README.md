@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 21:03:07**
+As of **2024-03-24 21:17:45**
 
 ## Newspaper Stats
 
-*Scraped **14,882** Articles*
+*Scraped **14,883** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 800
 islandlk | 820
 adalk | 1,266
 tamilmirrorlk | 1,792
-adaderanalk | 1,795
+adaderanalk | 1,796
 virakesarilk | 2,084
 dailymirrorlk | 2,291
 adaderanasinhalalk | 2,391
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,391
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,880 (100.0%) of 14,882 articles have been extended.
+14,882 (100.0%) of 14,883 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### Heat advisory issued warning of increased temperatures
+
+*2024-03-24 21:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98177/heat-advisory-issued-warning-of-increased-temperatures) · `en`
+
+The Department of Meteorology has cautioned the people of rising atmospheric temperatures at some places in Western, North-western, Southern provinces and Mannar, Vavuniya and Anuradhapura districts tomorrow.
+
+The advisory, issued at 04.00 p.m. today (24), will be in effect until tomorrow evening (25).
+
+As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity while continuing activity could result in heat cramps.
+
+Thus, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
+
+...
+
+[Data](articles/1d830d05.json)
+
+---
 
 ### IGP responds to calls for Maithripala’s arrest over Easter attacks claims
 
@@ -46,25 +64,37 @@ However, he emphasized that since a trial is already underway regarding the East
 
 [Data](articles/b92b894e.json)
 
+[Extended Data](ext_articles/b92b894e.ext.json)
+
 ---
 
-### හදිසියේම ලැබුණු ඇරයුම පිළිගත් ජනපති ගිය ගමන
+### Lightly accepted president
 
 *2024-03-24 20:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194889) · `si`
 
-නවීන වෛද්‍ය සේවාවන්ට ගැළපෙන පරිදි නව තාක්ෂණය සමඟ අනුගත වෙමින් මෙරට සෞඛ්‍ය සේවාව තුළ සිදුකළ යුතු පරිවර්තනයන් පිළිබඳ පුළුල් සංවාදයක් සිදු කිරීමට අපේක්ෂා කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe discussed leveraging new technology at a Government Medical Officers Association meeting, highlighting Sri Lanka's past experience. Dr. Palitha Mahipala, a specialist, claimed the pharmacy shortage has ended.
 
-යටත් විජිත යුගයේ සිට ගොඩනගාගත් නිදහස් වෛද්‍ය ක්‍රමයක් ශ්‍රී ලංකාව සතු බවත් එය ලෝකයම පිළිගෙන ඇති බවත් පවසන ජනාධිපතිවරයා එම අතීත අත්දැකීම්ද සමඟ ගුණාත්මක සහ ඉහළ ප්‍රමිතියෙන් යුත් සෞඛ්‍ය සේවාවක් රට තුළ සහතික කළ යුතු බව සඳහන් කළේය.
+🟩
 
-රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය සමඟ පැවති හමුවකදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළකළේය.
+President Ranil Wickremesinghe says he is intended to accomplish with the new technology to suit the new technology to suit the new technology.
 
-එම සංගමය විසින් සංවිධානය කළ වැඩමුළුවක් පෙළොන්නරුවේ දී ආරම්භ වූ අතර එහි පැවති වෙනත් නිල වැඩසටහනකට සහභාගීවීමට පැමිණි සිටි ජනාධිපතිවරයා මුණ ගැසුණු අවස්ථාවේ දී තම වැඩමුළුව පැවැත්වෙන ස්ථානයටද කෙටි වේලාවකට හෝ පැමිණෙන ලෙස රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයෙන් හදිසි ඇරයුමක් සිදුකර තිබේ.
+The President said that Sri Lanka has the past experience and recognized the world with the past experience.
 
-අදාළ ඇරයුම පිළිගත් ජනාධිපතිවරයා එම ස්ථානයට පැමිණ රජයේ වෛද්‍ය නිලධාරින්ගේ සංගමයේ සාමාජිකයන් සමඟ සුහද කතා බහක නිරත වු බව ජනාධිපති මාධ්‍ය අංශය පැවසීය.
+President Ranil Wickremesinghe made these comments at a meeting with the Government Medical Officers Association.
+
+The workshop was started in the Treasher when he met the president who visited the president who had come to attend any other official program and had an urgent invitation to a short time at the time of his workshop.
+
+The President who accepted the invitation came to the scene and had a friendly conversation with the members of the Government Medical Officers Association.
+
+Meanwhile, medical Palitha Mahipala said that the shortage of pharmacies in the island has passed away.
+
+Specialist Dr. Palitha Mahipala made this statement participating in the Committee on Public Accounts.
 
 ...
 
 [Data](articles/bd76dca1.json)
+
+[Extended Data](ext_articles/bd76dca1.ext.json)
 
 ---
 
@@ -2175,19 +2205,5 @@ The history of this abode is both historic and tragic concerning the life of Lor
 [Data](articles/9207bdb2.json)
 
 [Extended Data](ext_articles/9207bdb2.ext.json)
-
----
-
-### The Avukana Buddha – a masterpiece of Buddhist art
-
-*2024-03-24 04:47:00* · [`islandlk`](http://island.lk/the-avukana-buddha-a-masterpiece-of-buddhist-art/) · `en`
-
-Some of the outstanding contributions to the Sri Lanka heritage are its Buddhist temple art and architecture, statuary, dagabas, dance forms and water and soil conservation ecosystems. Of Buddha statues, the one at Avukana is certainly a masterpiece; hewn out of solid granite it stands 11.3 meters high and 12.8 meters inclusive of the lotus flower pedestal. There are only four other comparable standing Buddha statues in Sri Lanka; Rasvehera in Anuradhapura, Maligawila and Buduruwagala in Moneragala and Dova in Badulla. Of these the ones at Rasvehera and Avukana are in the open and to the layman’s eye, there are hardly any signs of damage due to exposure to the elements.
-
-...
-
-[Data](articles/ae1f9bc1.json)
-
-[Extended Data](ext_articles/ae1f9bc1.ext.json)
 
 ---

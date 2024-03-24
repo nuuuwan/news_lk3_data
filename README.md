@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 14:33:43**
+As of **2024-03-24 14:50:49**
 
 ## Newspaper Stats
 
-*Scraped **14,837** Articles*
+*Scraped **14,840** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 161
 dbsjeyarajcom | 191
 newsfirstlk | 363
 dailyftlk | 792
-economynextcom | 798
+economynextcom | 800
 islandlk | 820
 adalk | 1,265
 tamilmirrorlk | 1,786
 adaderanalk | 1,790
-virakesarilk | 2,077
+virakesarilk | 2,078
 dailymirrorlk | 2,279
 adaderanasinhalalk | 2,379
 
@@ -26,25 +26,43 @@ adaderanasinhalalk | 2,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,835 (100.0%) of 14,837 articles have been extended.
+14,837 (100.0%) of 14,840 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### කමිඳු දෙවන ශතකය වාර්තා කරයි
+### ஹப்புத்தளை காட்டுப்பிரதேசத்தில் ஆணின் சடலம் மீட்பு!
+
+*2024-03-24 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179580) · `ta`
+
+ஹப்புதளையின் பிடபொல பிரதேசத்தின் காட்டுப் பகுதியில்  சந்தேகத்திற்கிடமான முறையில் உயிரிழந்த்தாக நம்பபபடும்  ஆண் ஒருவரின் சடலம் பொலிஸாரால் மீட்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/951b3ffe.json)
+
+---
+
+### Komit reports the second century
 
 *2024-03-24 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194877) · `si`
 
-ශ්‍රී ලංකා නවක ක්‍රීඩක කමිඳු මෙන්ඩිස් සිය දෙවන ටෙස්ට් ශතකය වාර්තා කිරීමට සමත්විය.
+Komit achieves his second Test century in Sri Lanka, becoming the fastest to do so in three Tests.
 
-මෙම තරගයේ පළමු ඉනිමේදී ඔහු සිය මංගල ටෙස්ට් ශතකය රැස්කිරීමට සමත්වීම විශේෂත්වයකි.
+🟩
 
-එසේම ඔහු ටෙස්ට් තරග 3ක් ඇතුළතදී මෙම දක්ෂතාවය දැක්වීම ද තවත් විශේෂත්වයකි.
+Sri Lankan nineteen players reported their second Test century.
+
+In the first innings of the match, he was able to collect his Mangala Test century.
+
+It is also noteworthy that he is the skill within three Tests.
 
 ◼️
 
 [Data](articles/ab839d7e.json)
+
+[Extended Data](ext_articles/ab839d7e.ext.json)
 
 ---
 
@@ -57,6 +75,8 @@ Former President Maithripala Sirisena has informed the Criminal Investigation De
 ◼️
 
 [Data](articles/33236552.json)
+
+[Extended Data](ext_articles/33236552.ext.json)
 
 ---
 
@@ -81,6 +101,28 @@ His attempt was unsuccessful as the ball was absorbed in the wicket.
 [Data](articles/ce4309bf.json)
 
 [Extended Data](ext_articles/ce4309bf.ext.json)
+
+---
+
+### Sri Lanka prisoners earn cash from work programs
+
+*2024-03-24 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-prisoners-earn-cash-from-work-programs-155849/) · `en`
+
+ECONOMYNEXT – Sri Lankan prisoners on work programs keep earnings of 640 rupees out of their daily wage of 1186 rupees while the rest of the earnings go to the government, Prison Media Spokesman, Gamini Dissanayake said.
+
+“The wages they earn are broken into categories and a daily amount of 640 rupees will be credited to an NSB account,” Dissanayake told EconomyNext.
+
+Dissanayake said that a prisoner is paid of 1180 rupees a day and 1024 rupees if they work out of prison.
+
+Prisoner who worked for “private companies while imprisoned obtained employment more quickly, maintained employment longer, and had lower recidivism rate,” according a US study.
+
+In Sri Lanka private companies have come forward to offer prisoners work opportunities.
+
+State Minister for Justice, Anuradha Jayarathne said that prisoners in the Welikada prison in Colombo are employed by PG Martins while others producing trishaw seats. (Colombo/Mar22/2024)
+
+◼️
+
+[Data](articles/a6d32fd5.json)
 
 ---
 
@@ -515,6 +557,30 @@ The suspect was 36 years old from Akula.
 [Data](articles/578fb613.json)
 
 [Extended Data](ext_articles/578fb613.ext.json)
+
+---
+
+### Sri Lanka coconut prices up 0.79-pct at auction
+
+*2024-03-24 10:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-prices-up-0-79-pct-at-auction-155846/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s average coconut prices rose 0.79 percent to 69,225 per 1,000 nuts at an auction on March 21, data from the Coconut Development Authority shows.
+
+The highest price was 77,300 rupees for 1,000 nuts down from 79,100 rupees a week ago, while the lowest 63,000 was down from 65,000 rupees.
+
+A total of 555,561 coconuts were offered at the auction and 334,246 nuts were sold.
+
+Wholesale prices were 95 to 100 rupees for large nuts and 80 to 85 rupees per small nut in the week to March 21, 2024.
+
+Farmgate prices in Kurunegala stayed the same at 70,000 -75,000 per 1000 nuts.
+
+Coconut oil was 570,000 – 630,000 rupees per metric ton from last week’s 590,000-600,000.
+
+Coconut shells stayed the same at 28,000 to 30,000 rupees a metric ton.
+
+◼️
+
+[Data](articles/658a3768.json)
 
 ---
 
@@ -2095,87 +2161,5 @@ According to an unverified statement online, militant group Islamic State said i
 [Data](articles/272f064e.json)
 
 [Extended Data](ext_articles/272f064e.ext.json)
-
----
-
-### Moscow concert attack: Suspects arrested; death toll rises to 115
-
-*2024-03-23 16:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Moscow-concert-attack-Suspects-arrested-death-toll-rises-to-115/108-279467) · `en`
-
-Moscow, March 23 (BBC) - Gunmen have attacked a concert hall on the fringes of Moscow, killing at least 115 people and wounding 100 more, Russian security services say.
-
-Attackers clad in camouflage gear took part in the attack, in the north-western suburb of Krasnogorsk, BBC-verified video shows.
-
-Four men directly involved were among 11 arrested on Saturday, officials say.
-
-Crocus City Hall was about to host a rock concert when the gunmen burst into the foyer and then the theatre itself.
-
-Much of the building was engulfed by fire and part of the roof collapsed.
-
-Children are said to be among the casualties and the Russian foreign ministry has condemned a "terrorist attack".
-
-According to an unverified statement online, militant group Islamic State said it was behind the attack.
-
-...
-
-[Data](articles/a355b448.json)
-
-[Extended Data](ext_articles/a355b448.ext.json)
-
----
-
-### Terror attack on Russia detests Sri Lanka
-
-*2024-03-23 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194850) · `si`
-
-Sri Lanka condemns terrorist attack in Moscow, expressing disgust and offering condolences to victims.
-
-🟩
-
-Sri Lanka strongly condemns the terrorist attack targeting civilians in Moscow capital, Russia.
-
-In a statement, the Ministry said that such homes were disgusting against civilians and there is no room in the civilian system.
-
-Also, the Ministry of External Affairs says that the injured are a speedy recovery.
-
-The statement states that the government of Sri Lanka and the people of the people affected by the victims of the victims, heartfelt condolences expressed his heartfelt grief.
-
-◼️
-
-[Data](articles/c8a3c7d7.json)
-
-[Extended Data](ext_articles/c8a3c7d7.ext.json)
-
----
-
-### Three people died last year due to tuberculosis in Vavuniya;58 people vulnerable - tuberculosis control officer
-
-*2024-03-23 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179515) · `ta`
-
-In Vavuniya, 3 died from tuberculosis last year, with 58 cases identified. Symptoms include cough, fever, diet, diminishing, and mucus. Tuberculosis can be diagnosed at public hospitals for free. It's curable with direct monitoring treatment for six months.
-
-🟩
-
-Vavuniya Tuberculosis Control Medical Officer K. Chandrakumar said that three people died in Vavuniya last year due to tuberculosis.
-
-He was speaking at a media briefing held in Vavuniya today (23).
-
-World Tuberculosis Day is commemorated on March 24 under the theme "Yes we can end tuberculosis".
-
-However 4 thousand people are not race. It is the third disease of death in the country.
-
-58 patients were found in Vavuniya district last year. Three of them have died.
-
-In the evening, the evening's cough, fever, diet, diminishing, and mucus. If these symptoms are seen, it can be tuberculosis.
-
-If you have the above symptoms, you can find the disease by going to the nearest public hospitals and free of charge.
-
-The disease may be in the body without any symptoms. This pathogen can be avoided, especially for those who are already in touch with people who are infected, or people with chronic disease, immunity, kidney patients, and arthritis.
-
-...
-
-[Data](articles/84987ffa.json)
-
-[Extended Data](ext_articles/84987ffa.ext.json)
 
 ---

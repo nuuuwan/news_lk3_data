@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 06:20:09**
+As of **2024-03-24 06:58:05**
 
 ## Newspaper Stats
 
-*Scraped **14,771** Articles*
+*Scraped **14,772** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 1,775
 adaderanalk | 1,780
 virakesarilk | 2,074
 dailymirrorlk | 2,275
-adaderanasinhalalk | 2,364
+adaderanasinhalalk | 2,365
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,771 (100.0%) of 14,771 articles have been extended.
+14,771 (100.0%) of 14,772 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවූ වැසි
+
+*2024-03-24 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194863) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වල අද (24) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, දකුණු, මධ්‍යම  සහ වයඹ පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+රත්නපුර, කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල ඇතැම් ස්ථානවලට මි. මී. 75ට වැඩි තරමක තද වැසි ඇතිවේ.
+
+මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/c572464f.json)
+
+---
 
 ### Live Airline Service to Dhaka
 
@@ -2301,29 +2321,5 @@ Islamist suicide bombers targeted Catholics and foreigners in six simultaneous b
 [Data](articles/35fcf394.json)
 
 [Extended Data](ext_articles/35fcf394.ext.json)
-
----
-
-### Heavy rainfall of above 100mm anticipated in some areas today
-
-*2024-03-23 06:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98140/heavy-rainfall-of-above-100mm-anticipated-in-some-areas-today) · `en`
-
-The Meteorology Department says showers or thundershowers are possible at times today in the Eastern and Uva provinces.
-
-Meanwhile, several spells of showers are likely in North-central and Northern provinces.
-
-Showers or thundershowers will occur at several places elsewhere in the island in the afternoon or at night.
-
-Heavy showers above 100mm are expected in parts of the Western and Sabaragamuwa provinces and Galle and Matara districts.
-
-Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces and Galle and Matara districts during the morning.
-
-Members of the public are urged to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-...
-
-[Data](articles/1e8f97d9.json)
-
-[Extended Data](ext_articles/1e8f97d9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 13:33:46**
+As of **2024-03-24 13:52:18**
 
 ## Newspaper Stats
 
-*Scraped **14,829** Articles*
+*Scraped **14,831** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ tamilmirrorlk | 1,786
 adaderanalk | 1,789
 virakesarilk | 2,077
 dailymirrorlk | 2,278
-adaderanasinhalalk | 2,374
+adaderanasinhalalk | 2,376
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,829 (100.0%) of 14,829 articles have been extended.
+14,829 (100.0%) of 14,831 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### රුසියාවේ අද ශෝක දිනයක්
+
+*2024-03-24 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194874) · `si`
+
+පුද්ගලයින් 133 දෙනෙකුට මරු කැඳවමින් රුසියාවේ රඟහලකට එල්ල වූ ප්‍රහාරය හේතුවෙන් අද (24) දිනය තුළ රුසියාවට ශෝක දිනයක් ප්‍රකාශයට පත් කර තිබේ.
+
+ඒ අනුව, රුසියාව පුරා සහ ශ්‍රී ලංකාව ඇතුළු රටවල් රැසක පිහිටි රුසියානු තානාපති කාර්යාල ඉදිරිපිටට පැමිණි පිරිස් ප්‍රහාරයෙන් මියගිය පිරිස සිහිකර උපහාර දැක්වීමට කටයුතු කර තිබුණි.
+
+රුසියාවේ මොස්කව් නුවර ආසන්නයේ පිහිටි ක්‍රෝකස් නගර ශාලාවේ පැවැති සංගීත ප්‍රසංගයක් ඉලක්ක කර ඊයේ එල්ල වූ ත්‍රස්ත ප්‍රහාරයෙන් මේ වනවිට පුද්ගලයින් 133 දෙනෙකුට දිවි අහිමි වී තිබේ.
+
+ප්‍රහාරය එල්ලවන අවස්ථාවේ රඟහල තුළ සිට ඇති පිරිස 6,200කට අධිකය.
+
+දශක දෙකකට පසු රුසියාවෙන් වාර්තා වූ දරුණුතම ත්‍රස්ත ප්‍රහාරය මෙය වන අතර එහි වගකීම ඉස්ලාමීය රාජ්‍යය හෙවත් IS සංවිධානය භාරගෙන තිබුණි.
+
+ප්‍රහාරකයින් වෙඩිතබමින් නගර ශාලාවට ඇතුළු වී ප්‍රහාරය එල්ල කළ ආකාරය දැක්වෙන වීඩියෝවක්ද IS සංවිධානය පසුව නිකුත් කර තිබුණි.
+
+ප්‍රහාරය සම්බන්ධයෙන් පුද්ගලයින් 11 දෙනෙක් අත්අඩංගුවට ගෙන ඇති අතර, රඟහල තුළ වෙඩිතැබීම සිදුකළ පුද්ගලයින් සිව්දෙනා ද ඒ අතරට අයත්ය.
+
+...
+
+[Data](articles/93ccfa29.json)
+
+---
+
+### ධනංජයගෙන් තවත් ශතකයක්
+
+*2024-03-24 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194873) · `si`
+
+ශ්‍රී ලංකා ටෙස්ට් නායක ධනංජය ද සිල්වා බංග්ලාදේශයට එරෙහිව පැවැත්වෙන පළමු ටෙස්ට් තරගයේ මීට සුළු මොහොතකට පෙර සිය 12 වන ටෙස්ට් ශතකය වාර්තා කිරීමට සමත්විය.
+
+◼️
+
+[Data](articles/2068d1c9.json)
+
+---
 
 ### Prices of imported milk powder reduced
 
@@ -2163,45 +2199,5 @@ Rameshwaram fishermen have decided to boycott the election without voting in the
 [Data](articles/0211dedf.json)
 
 [Extended Data](ext_articles/0211dedf.ext.json)
-
----
-
-### Russia concert hall attack: Suspected gunmen arrested, death toll rises to 93
-
-*2024-03-23 15:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98152/russia-concert-hall-attack-suspected-gunmen-arrested-death-toll-rises-to-93) · `en`
-
-Russia has arrested 11 people including four suspected gunmen in connection with a shooting rampage that killed 93 people in a concert hall near Moscow, the Kremlin said on Saturday.
-
-It said FSB security service chief Alexander Bortnikov had reported to President Vladimir Putin that those detained included “four terrorists” and that the service was working to identify their accomplices.
-
-Russia’s Investigative Committee said the death toll had leapt to 93 from the attack in which camouflage-clad gunmen opened fire with automatic weapons at concertgoers near the capital on Friday. It said some died from gunshot wounds and others in a huge fire that broke out in the complex.
-
-Interfax quoted the FSB security service as saying the four suspected gunmen had been arrested while heading to the Ukrainian border, and that they had contacts in Ukraine. It said they were being transferred to Moscow.
-
-...
-
-[Data](articles/bc1c34d2.json)
-
-[Extended Data](ext_articles/bc1c34d2.ext.json)
-
----
-
-### Concert hall attack: Russia arrests suspected gunmen as death toll rises to 93
-
-*2024-03-23 15:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98152/concert-hall-attack-russia-arrests-suspected-gunmen-as-death-toll-rises-to-93) · `en`
-
-Russia has arrested 11 people including four suspected gunmen in connection with a shooting rampage that killed 93 people in a concert hall near Moscow, the Kremlin said on Saturday.
-
-It said FSB security service chief Alexander Bortnikov had reported to President Vladimir Putin that those detained included “four terrorists” and that the service was working to identify their accomplices.
-
-Russia’s Investigative Committee said the death toll had leapt to 93 from the attack in which camouflage-clad gunmen opened fire with automatic weapons at concertgoers near the capital on Friday. It said some died from gunshot wounds and others in a huge fire that broke out in the complex.
-
-Interfax quoted the FSB security service as saying the four suspected gunmen had been arrested while heading to the Ukrainian border, and that they had contacts in Ukraine. It said they were being transferred to Moscow.
-
-...
-
-[Data](articles/cb572b9c.json)
-
-[Extended Data](ext_articles/cb572b9c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 15:51:20**
+As of **2024-03-24 16:02:57**
 
 ## Newspaper Stats
 
-*Scraped **14,852** Articles*
+*Scraped **14,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ newsfirstlk | 363
 dailyftlk | 792
 economynextcom | 800
 islandlk | 820
-adalk | 1,265
+adalk | 1,266
 tamilmirrorlk | 1,790
 adaderanalk | 1,791
 virakesarilk | 2,078
 dailymirrorlk | 2,284
-adaderanasinhalalk | 2,381
+adaderanasinhalalk | 2,383
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,849 (100.0%) of 14,852 articles have been extended.
+14,852 (100.0%) of 14,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### බංග්ලාදේශයට ලකුණු 511ක ඉලක්කයක්
+
+*2024-03-24 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194881) · `si`
+
+බංග්ලාදේශයට එරෙහිව පැවැත්වෙන පළමු ටෙස්ට් තරගයේ දෙවන ඉනිම ක්‍රීඩා කළ ශ්‍රී ලංකා කණ්ඩායම සියලුදෙනා දැවී ලකුණු 418ක් රැස්කරගත්තේය.
+
+එහිදී අගනා ඉනිමක් ක්‍රීඩා කළ ශ්‍රී ලංකා නවක ක්‍රීඩක කමිඳු මෙන්ඩිස් ටෙස්ට් දිවියේ දෙවන ශතකය වාර්තා කළේය.
+
+හයේ පහර 6ක් සහ හතරේ පහර 16ක් සමග කමිඳු මෙන්ඩිස් ලකුණු 164ක් රැස්කරගත්තේය.
+
+නායකත්වයේ ඉනිමක් ක්‍රීඩා කළ ධනංජය ද සිල්වා අද සිය 12 වන ටෙස්ට් ශතකය රැස්කරගැනීමට සමත්විය.
+
+ලකුණු 108 ක් රැස්කරගත් ධනංජය හයේ පහර 2ක් සහ හතරේ පහර 9ක් එල්ලකළේය.
+
+කමිඳු මෙන්ඩිස් සහ ධනංජය සිල්වා විසින් පළමු ඉනිමේදී ද ශතකයක් රැස්කිරීම විශේෂත්වයකි.
+
+පන්දු යැවීමේදී මෙහිදි හසන් මිරාස් ලකුණු 74කට කඩුලු 4ක් දවාගත්තේය.
+
+සිය පළමු ඉනිම සඳහා ශ්‍රී ලංකාව සියලුදෙනා දැවී ලකුණු 280ක් රැස්කරගත් අතර බංග්ලාදේශය පළමු ඉනිම සඳහා සියලුදෙනා දැවී රැස්කරගත්තේ ලකුණු 188ක් පමණි.
+
+ඒ අනුව පළමු ටෙස්ට් තරගයේ ජයග්‍රහණය සඳහා බංග්ලාදේශයට හිමිවූ ඉලක්කය ලකුණු 511කි.
+
+◼️
+
+[Data](articles/7c47ea8a.json)
+
+---
+
+### පැහැරගත් පාසල් ළමුන් 300කට නිදහස
+
+*2024-03-24 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194880) · `si`
+
+නයිජීරියාවේ පාසලකින් පැහැරගත් පාසල් ළමුන් 300කට ආසන්න පිරිසක් නිදහස් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+එරට කඩුනා ප්‍රාන්තයේ ආණ්ඩුකාරවරයා උපුටා දක්වමින් විදෙස් මාද්‍ය මේ බව වාර්තා කර ඇත.
+
+එහිදී ආණ්ඩුකාරවරයා වැඩිදුරටත් සඳහන් කර ඇත්තේ දරුවන් පිරිස නිරුපද්‍රිතව නැවත පැමිණ ඇති බවය.
+
+දරුවන් බේරාගැනීම සඳහා අඛණ්ඩව වෙහෙස වී කටයුතු සිදුකළ එරට ජනාධිපති බෝලා ටිනුබු වෙත ද ආණ්ඩුකාරවරයා X පණිවුඩයක් නිකුත් කරමින් ස්තූතිය පුදකර ඇත.
+
+මාර්තු මාසයේ ආරම්භයේදී වයඹදිග නයිජීරියාවේ පාසලකදී මෙම සිසුන් පිරිස යතුරුපැදිවලින් පැමිණි අවිගත් කණ්ඩායමක් විසින් පැහැරගෙන ගොස් තිබුණි.
+
+කප්පම් ලබාගැනීමේ අරමුණ සහිතව පසුගිය කාලසීමාවේදී මෙලෙස පාසල් සිසුන් පැහැරගෙනයාමේ සිදුවීම් කිහිපයක් නයිජීරියාවෙන් වාර්තාවිය.
+
+◼️
+
+[Data](articles/ed9fc6c8.json)
+
+---
 
 ### TTD executive officer to visit Sri Lanka to finalise site for Srivari temple
 
@@ -98,19 +148,25 @@ It is noteworthy that many of the social media users have posted that McDonald's
 
 ---
 
-### McDonald’s இயங்கத் தடை?
+### Mcdonald's prohibition on running?
 
 *2024-03-24 14:48:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/McDonald-s-இயங்கத்-தடை/175-335099) · `ta`
 
-McDonald's வர்த்தக நாமத்தின் கீழ் கொழும்பு மற்றும் அதன் புறநகர் பகுதிகளில் இயங்கி வரும் 12 உணவகங்கள் இயங்குவதற்கு தடை விதித்து கொழும்பு வர்த்தக மேல் நீதிமன்றம் தடை உத்தரவு பிறப்பித்துள்ளது.
+The Colombo Business High Court banned 12 MCDONALD's restaurants in Colombo and suburbs due to a complaint about conflicting agreements. Many restaurants have closed, and name boards have been removed.
 
-அவர்களது உடன்படிக்கைகளில் ஏற்பட்ட முரண்பாடு தொடர்பில் ஆதார நிறுவனம் முறைப்பாடு செய்ததை அடுத்து இந்த தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+🟩
 
-மக்டொனால்ட் உணவகங்கள் மூடப்பட்டுள்ளதாகவும், பெயர் பலகைகள் அகற்றப்பட்டுள்ளதாகவும் சமூக ஊடக பாவனையாளர்கள் பலரும் பதிவிட்டிருந்தமையும் குறிப்பிடத்தக்கது.
+The Colombo Business High Court has issued a ban on 12 restaurants operating in Colombo and its suburbs under the name of MCDONALD's trading.
+
+The ban has been issued following a complaint that the resource company complained about the conflict in their agreements.
+
+It is noteworthy that many of the social media users have posted that McDonald's restaurants have been closed and the name boards have been removed.
 
 ◼️
 
 [Data](articles/b4a899a2.json)
+
+[Extended Data](ext_articles/b4a899a2.ext.json)
 
 ---
 
@@ -352,6 +408,18 @@ Leader of the National Power Anura Kumara Dissanayake
 
 ---
 
+### කිරිපිටි මිලෙහි වෙනසක්
+
+*2024-03-24 13:42:50* · [`adalk`](https://www.ada.lk/breaking_news/කිරිපිටි-මිලෙහි-වෙනසක්/11-408770) · `si`
+
+අද මධ්‍යම රාත්‍රියේ සිට ආනයනික කිරිපිටි මිල පහළ දැමීමට තීරණය කර ඇති බව වෙළෙඳ අමාත්‍ය නලින් ප්‍රනාන්දු මහතා පවසයි.  කිලෝ 1ක ආනයනික කිරිපිටි පැකැට්ටුවක මිල රුපියල් 150 කින්ද ග්‍රෑම් 400ක ආනයනික කිරිපිටි පැකැට්ටුවක මිල රුපියල් 60කින්  පහළ දැමීමට තීරණය කර ඇත.
+
+◼️
+
+[Data](articles/a91ac64d.json)
+
+---
+
 ### A day of mourning in Russia
 
 *2024-03-24 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194874) · `si`
@@ -488,6 +556,8 @@ The ‘Women Plus Bazaar 2024’ exhibition organized with the aim of empowering
 
 [Data](articles/e61bacc2.json)
 
+[Extended Data](ext_articles/e61bacc2.ext.json)
+
 ---
 
 ### CIT confession to Maithri
@@ -510,17 +580,23 @@ Speaking to the media after attending an event in Kandy (22), he said that he wa
 
 ---
 
-### மைத்திரியிடம் சி.ஐ.டி வாக்குமூலம்
+### CIT confession to Maithri
 
 *2024-03-24 12:27:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மைத்திரியிடம்-சி-ஐ-டி-வாக்குமூலம்/150-335092) · `ta`
 
-உயிர்த்த ஞாயிறுத்தாக்குதல் தொடர்பில்,  முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்த கருத்து தொடர்பில்,   குற்றப் புலனாய்வுப் பிரிவினர் அவரிடம் இன்று (24) வாக்குமூலம் பெற்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+"Former President Maithripala Sirisena acknowledges knowledge of the Easter Sunday attack truth, following a statement from the CIT."
 
-கண்டியில் கடந்த (22)  இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போது,  , ஈஸ்டர் ஞாயிறு தாக்குதலில் ஈடுபட்டவர்கள் தொடர்பிலான உண்மை தனக்கு தெரியும் என தெரிவித்திருந்தமை குறிப்பிடத்தக்கது.
+🟩
+
+Former President Maithripala Sirisena has reportedly received a statement from the Criminal Investigation Department today (24).
+
+Speaking to the media after attending an event in Kandy (22), he said that he was aware of the truth about the Easter Sunday attack.
 
 ◼️
 
 [Data](articles/96734be4.json)
+
+[Extended Data](ext_articles/96734be4.ext.json)
 
 ---
 
@@ -2061,69 +2137,5 @@ But he leaves it and now makes a confidential confession. So we have to be cut o
 [Data](articles/65039cea.json)
 
 [Extended Data](ext_articles/65039cea.ext.json)
-
----
-
-### Minister Alles orders IGP to probe remark by former President on Easter Sunday attacks
-
-*2024-03-23 18:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-Alles-orders-IGP-to-probe-remark-by-former-President-on-Easter-Sunday-attacks/108-279468) · `en`
-
-Colombo, March 23 (Daily Mirror) - Public Security Minister Tiran Alles orders IGP Deshabandu Tennakoon to conduct an immediate investigation into the recent remark by former President Maithripala Sirisena on the Easter Sunday bomb attacks.
-
-Former President Maithripala Sirisena yesterday disclosed that he is well aware of the true perpetrators behind the Easter Sunday bombings in 2019.
-
-"The suspects who are currently in remand custody in connection with the attacks are minor offenders. The real culprits are still at large. However, I am ready to shed light on the perpetrators of the Easter Sunday attacks and make a special statement if I am summoned to court," he stated.
-
-Opposition MPs Mano Ganesan and Kavinda Jayawardene today called for the immediate arrest of Maithripala Sirisena and to interrogate him regarding the remark he made on Friday, stating that he is aware of the mastermind behind the Easter Sunday attacks.
-
-◼️
-
-[Data](articles/8892ba18.json)
-
-[Extended Data](ext_articles/8892ba18.ext.json)
-
----
-
-### Immediate investigation ordered into Maithripala’s claims on Easter attacks’ masterminds
-
-*2024-03-23 18:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98156/immediate-investigation-ordered-into-maithripalas-claims-on-easter-attacks-masterminds) · `en`
-
-Minister of Public Security Tiran Alles has ordered IGP Deshabandu Tennakoon to conduct an immediate investigation into the recent statement by former President Maithripala Sirisena on the Easter Sunday bomb attacks.
-
-On Friday (22), former President Maithripala Sirisena claimed that he has knowledge of the true mastermind of the 2019 Easter Sunday terror attacks and that he was prepared to disclose the information to the judiciary if inquired from him or issues an order regarding the matter.
-
-Commenting to the media in Kandy, Sirisena highlighted that he is ready to disclose the relevant information and that at the same time, it is the responsibility of the judges to keep the information strictly confidential.
-
-Meanwhile, the Samagi Jana Balawegaya (SJB) Parliamentarian Kavinda Jayawardena lodged a complaint with the Criminal Investigation Department (CID) today (23), seeking an expeditious investigation into the former President’s controversial remarks.
-
-...
-
-[Data](articles/22a4842a.json)
-
-[Extended Data](ext_articles/22a4842a.ext.json)
-
----
-
-### People who cannot do this work be saved - Tiran Alles
-
-*2024-03-23 18:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194857) · `si`
-
-"Tiran Alles: Misconceptions in civil defense committees led to legal action against police officers. The Minister emphasized the importance of community committees and criticized delays, promising to take action against those who obstruct progress."
-
-🟩
-
-In some areas, the police officers have been provided with misconception in the establishment of civil defense committees.
-
-The Minister said that legal action will be taken against the officers who gave such misbehavior.
-
-He was speaking at a function in Ratnapura today (23).
-
-"When we study the operation of justice, we were born in the work we set up the community committees. We thought a new way.. I remember Sepu 30 September 30 was to finish it. Then, October 10 demanded lasting time. I was told by October 10. Just as the IGP said, it has not done that in some sides. We have false information. I take the best action against such police officers. Because if all the cops do not do this together, they did not do this work together. If there is anyone, we can't do this work. They must take off the uniform. "
-
-◼️
-
-[Data](articles/d91e3df6.json)
-
-[Extended Data](ext_articles/d91e3df6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 17:17:43**
+As of **2024-03-24 17:33:59**
 
 ## Newspaper Stats
 
-*Scraped **14,858** Articles*
+*Scraped **14,862** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,103 @@ dailyftlk | 792
 economynextcom | 800
 islandlk | 820
 adalk | 1,266
-tamilmirrorlk | 1,790
+tamilmirrorlk | 1,791
 adaderanalk | 1,792
 virakesarilk | 2,079
-dailymirrorlk | 2,284
-adaderanasinhalalk | 2,384
+dailymirrorlk | 2,285
+adaderanasinhalalk | 2,386
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,858 (100.0%) of 14,858 articles have been extended.
+14,858 (100.0%) of 14,862 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### அலைபேசி வெடித்தில் 4 குழந்​தைகள் பலி
+
+*2024-03-24 17:14:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலைபேசி-வெடித்தில்-4-குழந்-தைகள்-பலி/175-335110) · `ta`
+
+அலைபேசி வெடித்து சிதறி, தீப்பிடித்த விபத்தில் வீட்டில் இருந்த 4 குழந்தைகள் தீயில் கருகி உயிரிழந்துள்ளனர்.
+
+அலைபேசிகளை சார்ஜ் செய்வதற்கு அலைபேசி தயாரிப்பு நிறுவனங்கள் பல்வேறு வழிகாட்டு நெறிமுறைகளை வகுத்துள்ளன.
+
+இருப்பினும் சில நேரங்களில் அலைபேசிகளை  சார்ஜ் செய்யும் போது ஏற்படும் ஷார்ட் சர்க்யூட் காரணமாக அடிக்கடி அலைபேசிகள் வெடித்து சிதறும் சம்பவங்கள் அதிகரித்து வருகிறது.
+
+இந்தநிலையில், இந்தியாவின் உத்தரப் பிரதேசத்தின் மீரட் நகருக்கு அருகே, அலைபேசி வெடித்ததில் ஏற்பட்ட தீ விபத்தில் 4 குழந்தைகள் உயிரிழந்துள்ள சம்பவம் பெரும் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+
+உத்தரப் பிரதேச மாநிலம் மீரட் அருகே உள்ள பல்லவபுரம் பகுதியில் சனிக்கிழமை இரவு (23) ஜானி என்ற கூலித்தொழிலாளி தனது வீட்டில் அலைபேசியை சார்ஜ் போட்டிருந்தார். அப்போது வீட்டில் சரிகா (10), நிகரிகா (8), சன்ஸ்கர் (6), களு (4) ஆகிய 4 குழந்தைகளும் மனைவி பபிதாவும் உறங்கிக் கொண்டிருந்த நிலையில் திடீரென அலைபேசி வெடித்து சிதறியதாக கூறப்படுகிறது.
+
+...
+
+[Data](articles/78ab68b6.json)
+
+---
+
+### පොලීසියට කොටුවූ යතුරුපැදි හොරු
+
+*2024-03-24 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194884) · `si`
+
+යතුරුපැදි සොරකම් කර කොටස් කර විකිණීමේ ජාවාරමක නිරතව සිටි සැකකරුවන් සිව්දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+එහිදී ඔවුන් සන්තකයේ තිබී යතුරුපැදි අංක තහඩු 116ක් සොයාගැනීමට පොලීසිය සමත්ව ඇත.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ අනුරාධපුර ශ්‍රාවස්තිපුර, දඹුල්ල කිතුල්හිටියාව, මිරිස්ගෝනියාව හංදිය සහ හීන් මොරගොල්ල යන ප්‍රදේශවල පදිංචි වයස අවුරුදු 29ත් 44ත් හැවිරිදි වියේ පසුවන සැකකරුවන් පිරිසකි.
+
+අනුරාධපුර කොට්ඨාශ විමර්ශන ඒකකය විසින් සිදුකළ විමර්ශනයකදී මෙම පිරිස අත්අඩංගුවට ගෙන ඇත.
+
+විමර්ශනවලදී වැඩිදුරටත් අනාවරණය වී ඇත්තේ මෙම ජාවාරම වසර 10කට ආසන්න කාලයක් තිස්සේ සිදුකර ඇති බවය.
+
+අත්අඩංගුවට ගත යතුරුපැදිවල අංක තහඩුවලට අදාළ යතුරුපැදිවල නිත්‍යානුකූල හිමිකරුවන් සොයාගැනීම සඳහා මේ සම්බන්ධයෙන් මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව දැනුවත් කිරීමට නියමිතය.
+
+අත්අඩංගුවට ගත් සැකකරුවන් අද (24) නොච්චියාගම මහෙස්ත්‍රාත් හමුවට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
+
+මේ අතර යතුරුපැදි සොරකම් කර කොටස්කර අලෙවිකිරීමේ ජාවාරමේ නිරතවූ පුද්ගලයින් තිදෙනෙකු වැලිකඩ පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+...
+
+[Data](articles/478529fc.json)
+
+---
+
+### බංග්ලාදේශය අසීරු අඩියක
+
+*2024-03-24 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194883) · `si`
+
+ශ්‍රී ලංකාවට එරෙහි පළමු ටෙස්ට් තරගයේ තුන්වන දිනය නිමාවන විට බංග්ලාදේශ කණ්ඩායම කඩුලු 5ක් දැවී ලකුණු 47ක් රැස්කරගෙන සිටියේය.
+
+එහිදී අගනා පන්දුයැවීමක නිරත වූ විශ්ව ප්‍රනාන්දු ලකුණු 13කට කඩුලු 3ක් දවාගැනීමට සමත්විය.
+
+තරගයේ ජයග්‍රහණය ලැබීමට නම් බංග්ලාදේශයට තවත් ලකුණු 464ක් රැස්කළ යුතු වෙයි.
+
+◼️
+
+[Data](articles/ebf25660.json)
+
+---
+
+### Received crucial information on Easter attacks three weeks ago: Maithripala
+
+*2024-03-24 16:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Received-crucial-information-on-Easter-attacks-three-weeks-ago-Maithripala/108-279482) · `en`
+
+Colombo, March 24 (Daily Mirror) -  In the wake of his controversial statement on the Easter Sunday bomb attacks, former President Maithripala Sirisena said he made that statement based on information he had received only three weeks ago.
+
+Sirisena addressed the media stating, "I made that statement on Firday based on information I had received only three weeks ago regarding the Easter attacks. I am prepared to testify confidentially if ordered by a court."
+
+Expressing concerns for his safety and that of his family, Sirisena emphasized his willingness to provide a confidential statement, stressing its sincerity beyond political implications.
+
+The former President's remarks come amidst ongoing scrutiny and public debate, reigniting discussions on accountability and transparency in the aftermath of the tragic bombings.
+
+In light of the development, the CID has summoned the former President to provide a statement.
+
+◼️
+
+[Data](articles/111eae0e.json)
+
+---
 
 ### Galle Road blocked at Panadura due to protest against liquor shop
 
@@ -2057,101 +2139,5 @@ De Silva said they will get together and form the first People's Government in S
 [Data](articles/16c48d92.json)
 
 [Extended Data](ext_articles/16c48d92.ext.json)
-
----
-
-### CBSL senior management to revisit recent salary revision
-
-*2024-03-23 20:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98158/cbsl-senior-management-to-revisit-recent-salary-revision) · `en`
-
-The Central Bank of Sri Lanka (CBSL) on Saturday (23) said that a majority of senior management and professionals of CBSL have made a collective decision to consider a revision to their salaries that sparked controversy.
-
-Issuing a statement, the CBSL said that the recent salary revision for the period 2024-2026 made by the Central Bank of Sri Lanka (CBSL), post the collective agreement between the Governing Board and the employee representatives, created much discourse among the public.
-
-Furthermore, the statement mentions that this decision was communicated to the Committee on Public Finance (COPF) on 16th March 2024, prior to and independent of the recommendations made by COPF.
-
-The COPF Chairman has meantime recommended that the collective agreement to increase salaries of CBSL staff be reviewed by an independent committee, entailing revisions across all employee categories of CBSL, it added.
-
-...
-
-[Data](articles/7924fa78.json)
-
-[Extended Data](ext_articles/7924fa78.ext.json)
-
----
-
-### Suspect confesses to Russia's attack
-
-*2024-03-23 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194859) · `si`
-
-A terrorist attack in Moscow's Church of Christ killed 150, with ISIS claiming responsibility. Russian security forces seized the attackers 380 km from the site. The attack was thwarted by 50 fire trucks, and four terrorists were arrested. The incident led to the revocation of support from other countries and the arrest of four Russian security forces involved.
-
-🟩
-
-150 persons have been killed in a theater launched by the terrorist attack on the constituent of Church in the Moscow in Moscow, Russia.
-
-Foreign media reports that the US warnings had been excluded Russian President Vladmanir Putin before the attack.
-
-However, before a date beyond a date, the Russian security forces were able to seize the 380 miles [380 km] in Moscow.
-
-The concert was to be held at the Moscow City Hall yesterday (22) laid the musical concert held by acquaintance and hand grenade.
-
-Nearly 6,200 people gathered in the theater, Picnic's Russian famous Rock band.
-
-"We're in a concert in the city of Church. There is some shooting here. Everyone screams. Someone shot. "
-
-The terrorists have come to seek a cover to survive the shots and bombings. Foreign media reports.
-
-...
-
-[Data](articles/6898567d.json)
-
-[Extended Data](ext_articles/6898567d.ext.json)
-
----
-
-### Maithri reveals how he received information about the Passover attack
-
-*2024-03-23 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194858) · `si`
-
-Maithripala Sirisena claims he received information about the Passover attack three weeks before it happened. He's ready to testify in court, emphasizing the potential consequences of revealing information publicly.
-
-🟩
-
-Former President Maithripala Sirisena says that he has made such a statement regarding the Passover attack on the Passover attack yesterday (22) according to the Passover attack.
-
-Former President Maithripala Sirisena responded to the allegations leveled against him today (23).
-
-"I made that statement yesterday that I received three weeks before the Passover attack. If I received an order from a court, I can come. I am looking forward to give a secret witness. Not for a reason to give a statement confidential. If an open testimony is given in court.. I know clearly my life and even my childbuilding can be destroyed. Therefore, it is not a matter of political ideologies or political issues. A statement that I am very honestly. "
-
-◼️
-
-[Data](articles/b0d31794.json)
-
-[Extended Data](ext_articles/b0d31794.ext.json)
-
----
-
-### The controversial intercourse was recovered
-
-*2024-03-23 19:39:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்ச்சைக்குரிய-உடலுறவு-சட்டமூலம்-மீளப்-பெறப்பட்டது/175-335055) · `ta`
-
-Justice Minister Wijeyadasa Rajapaksa announced the government's decision to reconsider a bill that would reduce punishment for girls aged 14-16 engaging in intercourse with someone under 22. The bill faced criticism and legal challenges.
-
-🟩
-
-A recent controversy over the bill to reduce the punishment if girls between the ages of 14 and 16 have intercourse with a person under 22 years of age.
-
-Justice Minister Wijeyadasa Rajapaksa today (23) said that the bill to be brought by the government is being recovered.
-
-The Minister made this statement while responding to questions raised by journalists after an event in Colombo.
-
-“Most asked to suspend the execution of this bill. They told me that this should be discussed. I informed the Attorney General not to bring it forward as the bill was challenged in the High Court.
-
-◼️
-
-[Data](articles/b980d051.json)
-
-[Extended Data](ext_articles/b980d051.ext.json)
 
 ---

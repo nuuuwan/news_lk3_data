@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 15:03:06**
+As of **2024-03-24 15:18:05**
 
 ## Newspaper Stats
 
-*Scraped **14,845** Articles*
+*Scraped **14,848** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,72 @@ adalk | 1,265
 tamilmirrorlk | 1,788
 adaderanalk | 1,790
 virakesarilk | 2,078
-dailymirrorlk | 2,282
-adaderanasinhalalk | 2,379
+dailymirrorlk | 2,283
+adaderanasinhalalk | 2,381
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,840 (100.0%) of 14,845 articles have been extended.
+14,845 (100.0%) of 14,848 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### McDonald’s உணவகங்கள் இயங்கத் தடை
+### පාසල් සිසුන්ට හෙට සිට ආහාර
+
+*2024-03-24 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194879) · `si`
+
+පළමු ශ්‍රේණියේ සිට පහ ශ්‍රේණිය දක්වා දිවයිනේ සියලු පාසල් දරුවන්ට ප්‍රධාන ආහාර වේලක් ලබාදීමේ වැඩපිළිවෙල හෙට (25) දිනයේ සිට ආරම්භ කරන බව අධ්‍යාපන අමාත්‍යංශය පවසයි.
+
+පෝෂණවේදීන්ගේ නිර්දේශ සැළකිල්ලට ගෙන සිසුන් අධ්‍යාපන කටයුතුවල නිරතවීමට පෙර මෙම ආහාරවේල ලබාදීමට නියමිත බව අධ්‍යාපන අමාත්‍යංශය සඳහන් කළේය.
+
+රජයේ පාසල් 9,134ක ප්‍රාථමික ශ්‍රේණිවල සියලු සිසුන් හා සියයට අඩු සිසුන් සංඛ්‍යාවක් සිටින සියලු පාසල් ආවරණය වන පරිදි එම ආහාර වැඩසටහන ක්‍රියාත්මක කිරිමට නියමිතව තිබේ.
+
+මේ සඳහා රුපියල් මිලියන 16,600ක මුදලක් අයවැය මඟින් සෘජුවම පළාත් සභා 09 වෙත වෙන්කර ඇති අතර ලෝක ආහාර වැඩසටහන සහ එක්සත් ජනපද කෘෂිකර්ම දෙපාර්තමේන්තුව ඇතුළු සංවිධාන කිහිපයක් අනුග්‍රහය දක්වා ඇති බව අධ්‍යාපන අමාත්‍යාංශය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/f88cf3ad.json)
+
+---
+
+### Mcdonald's restaurants are prohibited
 
 *2024-03-24 14:48:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/McDonald-s-உணவகங்கள்-இயங்கத்-தடை/175-335099) · `ta`
 
-McDonald's வர்த்தக நாமத்தின் கீழ் கொழும்பு மற்றும் அதன் புறநகர் பகுதிகளில் இயங்கி வரும் 12 உணவகங்கள் இயங்குவதற்கு தடை விதித்து கொழும்பு வர்த்தக மேல் நீதிமன்றம் தடை உத்தரவு பிறப்பித்துள்ளது.
+The Colombo Business High Court banned 12 MCDONALD's restaurants in Colombo and suburbs due to a complaint about conflicting agreements. Many social media users reported the restaurants' closure and removal of name boards.
 
-அவர்களது உடன்படிக்கைகளில் ஏற்பட்ட முரண்பாடு தொடர்பில் ஆதார நிறுவனம் முறைப்பாடு செய்ததை அடுத்து இந்த தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+🟩
 
-மக்டொனால்ட் உணவகங்கள் மூடப்பட்டுள்ளதாகவும், பெயர் பலகைகள் அகற்றப்பட்டுள்ளதாகவும் சமூக ஊடக பாவனையாளர்கள் பலரும் பதிவிட்டிருந்தமையும் குறிப்பிடத்தக்கது.
+The Colombo Business High Court has issued a ban on 12 restaurants operating in Colombo and its suburbs under the name of MCDONALD's trading.
+
+The ban has been issued following a complaint that the resource company complained about the conflict in their agreements.
+
+It is noteworthy that many of the social media users have posted that McDonald's restaurants have been closed and the name boards have been removed.
 
 ◼️
 
 [Data](articles/89746152.json)
+
+[Extended Data](ext_articles/89746152.ext.json)
+
+---
+
+### Colombo HC prevents Abans using McDonald’s brand name
+
+*2024-03-24 14:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Colombo-HC-prevents-Abans-using-McDonalds-brand-name/155-279479) · `en`
+
+Colombo, March 24 (Daily Mirror) - The Colombo Commercial High Court issued an  enjoining order preventing Rusi Pestonjee, Managing Director of Abans PLC or his servants from in any way or manner to use the name McDonald’s or any name in any way or manner similar to the name McDonald’s.
+
+Comercial High Court Judge Sumith Perera further issued an enjoining order preventing Rusi Pestonjee from selling McDonald’s food and menu items in respect of restaurants in Kotahena,  Nugegoda, Kiribathgoda, Battaramulla, Kollupitiya, Rajagiriya, Welisara, Mount Lavinia, Colombo City Centre, Macleod Road restaurant and Shangri-La restaurant.
+
+The Commercial High Court made this order consequent to a lawsuit filed by McDonald’s Corporation, a duly incorporated body in the United States of America  which sought court's jurisdiction under the provisions of the Intellectual Property Act, No. 36 of 2003.
+
+...
+
+[Data](articles/35a21649.json)
 
 ---
 
@@ -62,21 +102,29 @@ The Commercial High Court made this order consequent to a lawsuit filed by McDon
 
 [Data](articles/984caf1b.json)
 
+[Extended Data](ext_articles/984caf1b.ext.json)
+
 ---
 
-### பால்மா விலையில் மாற்றம்
+### Change in the price of milkma
 
 *2024-03-24 14:38:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்மா-விலையில்-மாற்றம்/175-335096) · `ta`
 
-நுகர்வோர் மீதான நிதிச் சுமையைக் குறைக்கும் நோக்கில், இறக்குமதி செய்யப்படும் பால் மாவின் விலையில் கணிசமான அளவு குறைக்கப்படுவதாக வர்த்தக அமைச்சர் நளின் பெர்னாண்டோ அறிவித்தார்.
+Commerce Minister Nalin Fernando announced a 60% reduction in the price of imported milk flour, aiming to lower consumer costs. The Palma Bucket, weighing a kilogram, will cost less than 150 rupees, and 400 grams will be priced at Rs.
 
-இதன்படி, ஒரு கிலோ கிராம் எடையுள்ள பால்மா பக்கெட்டுக்கு 150 ரூபாய் குறையவுள்ளதாக அமைச்சர் பெர்னாண்டோ தெரிவித்தார்.
+🟩
 
-மேலும், 400 கிராம் பக்கெட்டுகளுக்கு ரூ. 60 வீதம் விலை குறையவுள்ளதாக அவர் மேலும் தெரிவித்தார்.
+Commerce Minister Nalin Fernando has announced that it will reduce the cost of imported milk flour in order to reduce the financial burden on consumer.
+
+Accordingly, Minister Fernando said that Palma Bucket, which weighs a kilogram, will be less than 150 rupees.
+
+Also, 400 grams of buckets cost Rs.He added that the price will go down by 60 %.
 
 ◼️
 
 [Data](articles/d7a067d2.json)
+
+[Extended Data](ext_articles/d7a067d2.ext.json)
 
 ---
 
@@ -112,6 +160,22 @@ However, just like the first innings, Sri Lanka skipper Dhananjaya de Silva and 
 
 [Data](articles/b48c2b5b.json)
 
+[Extended Data](ext_articles/b48c2b5b.ext.json)
+
+---
+
+### මම එනවා - මෛත්‍රී
+
+*2024-03-24 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194878) · `si`
+
+පාස්කු බෝම්බ ප්‍රහාරය සම්බන්ධයෙන් තමන් කළ අදහස් දැක්වීම පිළිබඳව ප්‍රකාශයක් ලබාදීමටඅපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිටින බව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පොලීසිය වෙත දැනුම්දී තිබේ.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා මේ බව පැවසීය.
+
+◼️
+
+[Data](articles/51743d54.json)
+
 ---
 
 ### Maithripala now contradicting his remark, launch immediate probe: NPP
@@ -127,6 +191,8 @@ He told a news conference that the true story behind the Easter Sunday attacks s
 ...
 
 [Data](articles/fa73bcf2.json)
+
+[Extended Data](ext_articles/fa73bcf2.ext.json)
 
 ---
 
@@ -2065,79 +2131,5 @@ Nevertheless, speaking to the media following an event held in Colombo today (23
 [Data](articles/f15cdba3.json)
 
 [Extended Data](ext_articles/f15cdba3.ext.json)
-
----
-
-### Integrating modern technology, including AI, crucial for health sector advancement: President
-
-*2024-03-23 17:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98154/integrating-modern-technology-including-ai-crucial-for-health-sector-advancement-president) · `en`
-
-President Ranil Wickremesinghe, raising concerns about the brain drain of medical professionals, said that approximately 30 - 40 out of every 100 doctors or nurses trained in the country opt to leave, a circumstance which he deemed unfavourable for the nation.
-
-Speaking about this concerning trend in the healthcare sector of Sri Lanka, the Head of State stressed that it is incumbent upon all individuals to enhance healthcare services within the nation, which boasts some of the world’s highest standards in medical care, and to actively contribute to the country’s economic prosperity.
-
-Wickremesinghe made these remarks while attending the inauguration ceremony of the accident and emergency care unit of Point Pedro Base Hospital. This facility was constructed as part of the Government of the Netherlands’ Development Related Infrastructure Investment Vehicle (DRIVE), relief loan scheme and officially vested in the public on Friday (March 22).
-
-...
-
-[Data](articles/87e3fce9.json)
-
-[Extended Data](ext_articles/87e3fce9.ext.json)
-
----
-
-### The president can vote
-
-*2024-03-23 17:39:07* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපතිට-වාසි-ඡන්දයක්-තියන්න-පුළුවන්/11-408767) · `si`
-
-Former President Mahinda Rajapaksa said the president has the power to vote and is the beneficiary of the presidential election. He visited Dambulla Opatha's house, where the candidate, former Chairmen, and residents were present.
-
-🟩
-
-The present President has the verdict of the president and the presidential election and that the prosecution is the beneficiary of the president, former President Mahinda Rajapaksa said.
-
-The former President responded to the question raised by two auspicious leaves for the Sinhala New Year.
-
-Former President Mahinda Rajapaksa visited the house of Dambulla Opatha.
-
-Former President Mahinda Rajapaksa came to the house of the candidate and the former Chairmen and the surrounding residents were also present.
-
-He was speaking to journalists when he was attending the resorts to the residence of former city to the residence of the former city in Nayara wonthapura.
-
-◼️
-
-[Data](articles/8eeccb41.json)
-
-[Extended Data](ext_articles/8eeccb41.ext.json)
-
----
-
-### Sri Lanka scored 211 runs
-
-*2024-03-23 17:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194854) · `si`
-
-Sri Lanka won the first Test against Bangladesh, scoring 211 and 119 runs. Bangladesh scored 32 runs in their first innings, losing 3 wickets. Sri Lanka's fast bowler took 6 wickets in 105 runs, limiting Bangladesh to 188 runs in their bowling.
-
-🟩
-
-Tourism Sri Lanka has won the first Test with the Bangled Team.
-
-Sri Lanka scored 119 runs for the loss of 5 wickets at the end of the second day.
-
-Bangladesh scored 32 runs for the loss of 3 wickets in their first innings.
-
-When Bangladesh joined by 21 more than 21 other runs, the first wicket was bowled out as the first wicket.
-
-Sri Lanka's fast bowler scored with the remaining 6 wickets in the innings of Bangladesh in 105 runs.
-
-Accordingly, the first innings were limited to 188 runs in their bowling and 4 wickets and 4 wickets each.
-
-Sri Lanka scored 111 runs while Sri Lanka scored 119 runs for the loss of 5 wickets at the end of the second day.
-
-◼️
-
-[Data](articles/01ee54e3.json)
-
-[Extended Data](ext_articles/01ee54e3.ext.json)
 
 ---

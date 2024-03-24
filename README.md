@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 07:19:23**
+As of **2024-03-24 07:42:13**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 2,366
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,772 (100.0%) of 14,773 articles have been extended.
+14,773 (100.0%) of 14,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### මැදින් පුර පසළොස්වක පොහොය අදයි
+### In the middle of the full moon is today
 
 *2024-03-24 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194864) · `si`
 
-සම්බුද්ධ ශාසනය තුළ වැදගත් සිදුවීම් රැසක් සිදුවූ දිනයක් ලෙස මැදින් පොහොය දිනය සැලකේ.
+Today, during the full moon, significant events in the Sambuddha Sasana are celebrated, including the Buddha's encounter with a crocodile. Animation and policy sacrifices are observed nationwide. FM Derana and PM Derana also hold special events.
 
-බුදුරජාණන් වහන්සේ ඥාතී සංග්‍රහය පිණිස සිය ජන්ම භූමිය වු කිඹුල්වත්පුරයට වැඩම කරවීම ආරම්භ කරනු ලැබුවේ අද (24) වැනි මැදින් පුර පසළොස්වක පොහෝ දිනකය.
+🟩
 
-බුදුරජාණන් වහන්සේ කිඹුල්වත්පුරයට වැඩම කරවීමෙන් අනතුරුව යමාමහ පෙළහර පෑම, ශුද්ධෝදන රජුට වෙස්සන්තර ජාතකය දේශනා කිරිම, රාහුල කුමරු මහණ කරවීම සහ මහා ප්‍රජාපතී ගෝතමී දේවිය සෝවාන් ඵලයට පත්වීම ද අද වැනි පොහෝ දිනක සිදුවු බව බෞද්ධ ඉතිහාසයේ සඳහන් වේ.
+The daily powder is considered as a day of important events in the Sambuddha Sasana.
 
-අදට යෙදී තිබෙන මැදින් පුර පසළොස්වක පොහොය දිනය වෙනුවෙන් දිවයින පුරා සෑම විහාරස්ථානයකම ආමිස සහ ප්‍රතිපත්ති පූජා රැසක් සංවිධානය කර තිබේ.
+The Buddha began working to the crocodile crocodile in the middle of today (24).
 
-මේ අතර මැදින් පුර පසළොස්වක පොහෝ දිනය නිමිත්තෙන් එෆ්.එම් දෙරණ අසපුව 112 වෙනි පෝදා වැඩසටහන දෙකටන රජහේන ගුණසිරි සදහම් නිකේතනයේ දී පැවැත්වේ.
+In the Buddhist history, the Prince of Elephant has taken place in a normal day, the Prince of Elephant in the preaching of the Buddha to the crocodile.
+
+Amination and policy sacrifices have been organized in every temple island wide throughout the country today.
+
+Meanwhile, FM Derana disaster is held in the middle of the full moon day of PM Derana.
 
 ◼️
 
 [Data](articles/131de0ed.json)
+
+[Extended Data](ext_articles/131de0ed.ext.json)
 
 ---
 

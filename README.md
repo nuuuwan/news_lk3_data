@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 19:18:12**
+As of **2024-03-24 19:33:31**
 
 ## Newspaper Stats
 
-*Scraped **14,872** Articles*
+*Scraped **14,873** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 800
 islandlk | 820
 adalk | 1,266
 tamilmirrorlk | 1,792
-adaderanalk | 1,793
+adaderanalk | 1,794
 virakesarilk | 2,083
 dailymirrorlk | 2,287
 adaderanasinhalalk | 2,388
@@ -26,11 +26,33 @@ adaderanasinhalalk | 2,388
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,872 (100.0%) of 14,872 articles have been extended.
+14,872 (100.0%) of 14,873 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### Police bust major motorcycle theft racket; 04 arrested with 116 number plates
+
+*2024-03-24 19:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98175/police-bust-major-motorcycle-theft-racket-04-arrested-with-116-number-plates) · `en`
+
+Police have arrested four suspects involved in a long-running racket of stealing motorcycles, disassembling and selling the parts.
+
+During the operation, police have recovered 116 motorcycle number plates that were found in their possession.
+
+The arrested suspects, aged between 29 and 44, are residents of the Sravasthipura area of Anuradhapura, Kithulhitiyawa, Mirisgoniyawa Junction, and Heen Moragolla areas of Dambulla, according to police.
+
+These arrests have been made following a special investigation conducted by the Anuradhapura Divisional Investigation Unit. Further investigations have revealed that this racket has been carried out for almost 10 years, the police said.
+
+Police mentioned that the Department of Motor Traffic will be informed in this regard to identify the legal owners of the seized motorcycles.
+
+The arrested suspects were scheduled to be produced before the Nochchiyagama Magistrate’s Court today (24), according to police.
+
+...
+
+[Data](articles/a4a54dc3.json)
+
+---
 
 ### Bangali players unattended to be a backfill
 
@@ -2139,21 +2161,5 @@ At an international maritime security conference in Colombo, the American Ambass
 [Data](articles/70cc0851.json)
 
 [Extended Data](ext_articles/70cc0851.ext.json)
-
----
-
-### The wistful musings of a reluctant émigré
-
-*2024-03-23 22:49:00* · [`islandlk`](http://island.lk/the-wistful-musings-of-a-reluctant-emigre/) · `en`
-
-It has been a cold and wet winter in London. As I snuggle-up in my rocking chair to write my thoughts I can hear the wind howling outside. The raindrops are carried horizontally by the strong south-westerly wind battering the window panes and dripping down in torrents.
-
-I still have grateful memories of a happy 12 years at Wesley College. The school on Karlsruhe Hill was established with missionary zeal and some colonial vigour but it catered for all Ceylonese. The school became the cradle of multiculturalism. Protected from the polarised world outside, it remained secular and was driven by merit. Since the very beginning Wesley has strived hard to become a modern, forward-thinking school. The school has a strong record of academic achievements and a full programme of wider life activities, including the arts and sports.
-
-...
-
-[Data](articles/05b49544.json)
-
-[Extended Data](ext_articles/05b49544.ext.json)
 
 ---

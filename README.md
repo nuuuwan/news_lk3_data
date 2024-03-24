@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 17:53:44**
+As of **2024-03-24 18:09:41**
 
 ## Newspaper Stats
 
-*Scraped **14,863** Articles*
+*Scraped **14,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 1,791
 adaderanalk | 1,793
 virakesarilk | 2,079
 dailymirrorlk | 2,285
-adaderanasinhalalk | 2,386
+adaderanasinhalalk | 2,387
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,862 (100.0%) of 14,863 articles have been extended.
+14,863 (100.0%) of 14,864 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### කොළඹ නිමි ඇඳුම් අලෙවිසැලක ගින්නක්
+
+*2024-03-24 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194885) · `si`
+
+වැල්ලවත්ත ප්‍රදේශයේ නිමි ඇඳුම් අලෙවිසැලක අද පස්වරුවේ හටගත් ගින්න මැඩ පැවැත්වීම සඳහා මේ වනවිට ගිනි නිවීමේ රථ 10ක් යොදවා ඇති බව කොළඹ ගිනි නිවීමේ ඒකකය සඳහන් කළේය.
+
+වැල්ලවත්ත ප්‍රදේශයේ නිමි ඇඳුම් අලෙවිසැලක අද පස්වරුවේ ගින්නක් හටගෙන තිබේ.
+
+ගින්න මැඩපැවැත්වීම සඳහා කොළඹ ගිනි නිවීමේ ඒකකයේ රථ 6ක් මේ වනවිට එම සථානයට යොමුකර ඇත.
+
+◼️
+
+[Data](articles/de1865f6.json)
+
+---
 
 ### Fire breaks out at clothing store outlet in Wellawatte
 
@@ -43,6 +59,8 @@ The fire brigade of the Colombo Municipal Council has dispatched 06 fire trucks 
 ◼️
 
 [Data](articles/74620985.json)
+
+[Extended Data](ext_articles/74620985.ext.json)
 
 ---
 
@@ -2133,29 +2151,5 @@ Tikiri Toys CEO Manoi Sherryf said that his business earns $ 12 million annually
 [Data](articles/c80b6998.json)
 
 [Extended Data](ext_articles/c80b6998.ext.json)
-
----
-
-### Prime Minister Dinesh suddenly to China
-
-*2024-03-23 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194860) · `si`
-
-Prime Minister Dinesh Gunawardena is visiting China from March 25 to 30, invited by Chinese Prime Minister LI QIANG. He will meet with Chinese President Xi Jinping.
-
-🟩
-
-Prime Minister Dinesh Gunawardena is scheduled to leave for China on Monday (25) to arrive on an official visit.
-
-The Prime Minister is on the invitation of Chinese Prime Minister LI QIANG.
-
-Foreign media reports that the Prime Minister is traveling from China from March 25 to 30, foreign media reports say.
-
-A special meeting will be held between Prime Minister Dinesh Gunawardena and Chinese President Xi Ginping.
-
-◼️
-
-[Data](articles/f2d920f1.json)
-
-[Extended Data](ext_articles/f2d920f1.ext.json)
 
 ---

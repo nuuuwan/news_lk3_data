@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 22:17:59**
+As of **2024-03-24 22:33:25**
 
 ## Newspaper Stats
 
-*Scraped **14,890** Articles*
+*Scraped **14,892** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 800
 islandlk | 820
 adalk | 1,267
 tamilmirrorlk | 1,792
-adaderanalk | 1,796
+adaderanalk | 1,797
 virakesarilk | 2,087
 dailymirrorlk | 2,293
-adaderanasinhalalk | 2,392
+adaderanasinhalalk | 2,393
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,889 (100.0%) of 14,890 articles have been extended.
+14,890 (100.0%) of 14,892 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### Russia stages major airstrike on Ukraine; one missile enters Polish airspace
+
+*2024-03-24 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98178/russia-stages-major-airstrike-on-ukraine-one-missile-enters-polish-airspace) · `en`
+
+Russia struck critical infrastructure in Ukraine’s western region of Lviv with missiles early on Sunday, Kyiv said, in a major airstrike that saw one Russian cruise missile briefly fly into Polish airspace according to Warsaw.
+
+Moscow launched 57 missiles and drones in the attack that also targeted the capital Kyiv, two days after the largest aerial bombardment of Ukraine’s energy system in more than two years of full-scale war, Kyiv said.
+
+“There were two preliminary hits on the same critical infrastructure facility that the occupiers targeted at night,” Lviv’s regional governor Maksym Kozytskyi wrote on the Telegram messaging app.
+
+The strike used Kinzhal hypersonic missiles, which are harder to shoot down, he added, without identifying the facility.
+
+The energy ministry said equipment caught fire when a critical energy facility in the Lviv region was attacked, causing it to lose power. It was unclear if they were talking about the same facility.
+
+...
+
+[Data](articles/3d0bff00.json)
+
+---
+
+### පුංචි ඉරුදි සුවකරගන්න උදව් ඉල්ලන අම්මයි තාත්තයි
+
+*2024-03-24 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194891) · `si`
+
+සුභවාදී බලාපොරොත්තුවක් පමණක් ඉතිරිව ජීවිතය දරාගෙන ජීවත්වෙන පවුලක් පිළිබඳව මේ පුවත අපට වාර්තාවූයේ මැදිරිගිරිය ප්‍රදේශයෙනි.
+
+අවුරුදු එක හමාරක් වයසැති පුංචි දියණිය 2020 වසරේ දෙසැම්බර් මාසේ 31වැනිදා සිදුවූ අවාසනාවන්ත අනතුරකින් බරපතළ තුවාල ලැබීම හේතුවෙන් මෙලෙස එක්තැන් වී තිබේ.
+
+අද කිසිවක් කරකියාගත නොහැකි රෝගියෙකු බවට පත්ව ඇති මේ පුංචි ඉරුදි අපිට කියන්නේ ඇයට ආපහු ඇගේ ජීවිතය ලබාගන්න උදවු වෙන්න කියලයි.
+
+හිසට තමන්ගේම කියලා වහලක් නැතිව, ජීවත්වෙන්න හරි හමන් ස්ථීර රැකියාවක් පවා නැතිව අසරණබවේ අන්තයටම ගිලී හිටියත් ඉරුදිගේ අම්මයි තාත්තයි ඉරුදිව ඇස් දෙක වගේ බලාගන්නේ ඇය සුවකරගන්න තියෙන පුංචිම පුංචි බලාපොරොත්තුවක් නිසයි.
+
+ඔවුන් ඉල්ලන්නේ ඉරුදිව සුවකරගතහැකි කුමන හෝ ප්‍රතිකාරයක්, දන්නා කෙනෙකුගේ උපකාරයක් පමණකි.
+
+◼️
+
+[Data](articles/68f4acd1.json)
+
+---
 
 ### Dhananjaya, Commun, a record of centuries in 2 innings;Sri Lanka on the verge of success
 
@@ -60,27 +100,35 @@ Sri Lanka is expected to win easily with the remaining two more days. However, i
 
 ---
 
-### රුසියාවම කතාවෙන පුංචි වීරයා මෙන්න
+### Here is the little hero who is speaking in Russia
 
 *2024-03-24 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194890) · `si`
 
-රුසියාවේ ත්‍රස්ත ප්‍රහාරය සිදුවන අවස්ථාවේදී රඟහලේ රැඳී සිටි 100කට අධික පිරිසකට ඉන් පිටතට රැගෙන යාමට සහාය දී ඔවුන්ගේ ජීවිත බේරාගත් 15 හැවිරිදි පාසල් සිසුවෙක් සම්බන්ධයෙන් රුසියානු මාධ්‍ය වාර්තා කර තිබේ.
+A 15-year-old girl, who survived a terrorist attack in a Moscow theater, praised the public's guidance in evacuation. The US Ambassador denied reports of intelligence sharing. The attack, planned for months, targeted a concert, injuring over 150 and potentially causing more deaths. The Islamic State claimed responsibility, marking the worst terrorist attack in Russia in two decades.
 
-ඉස්ලාම් ඛලිලොව් නම් මෙම පාසල් සිසුවා ප්‍රහාරය එල්ලවූ රඟහලේ අර්ධකාලීන රැකියාවක නිරතව සිටින අතරතුර මෙම සිද්ධියට මුහුණ පා තිබුණි.
+🟩
 
-ත්‍රස්තවාදීන්ගේ වෙඩි ප්‍රහාර මැද කලබලයට පත්ව දිව ආ ජනතාවට ශාලාවෙන් පිටතට යාමට මෙම පාසල් සිසුවා මඟ පෙන්වීම ප්‍රශංසාවට ලක්වී තිබේ.
+Russian media has reported to a 15 year old schoolgirl who supported the theater in the theater in the theater where the terrorist attack was taken out of the theater.
 
-මේ අතර මොස්කව් ප්‍රහාරය සම්බන්ධව අමෙරිකානු ඔත්තු සේවා මීට දෙසතියකට පමණ පෙර රුසියාව වෙත තොරතුරු ලබාදුන් බවට පළවන වාර්තා අමෙරිකාවේ රුසියානු තානාපතිවරයා ප්‍රතික්ෂේප කර තිබේ.
+The incident was in the face of a part-time job in the attack of Islam Klillov.
 
-මේ අතර ප්‍රහාරය කාලයක් පුරා සැලසුම් කර ඇති බවත්, ප්‍රහාරකයන් යුක්‍රේනය දෙසට පලායමින් සිට ඇති බවත් හෙළිවී ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+The school student praised the guidance of the people to get out of the hall in the midst of the terrorists.
 
-රුසියාවේ මොස්කව් නුවර ආසන්නයේ පිහිටි ක්‍රොකස් නගර ශාලාවේ පැවැති සංගීත ප්‍රසංගයක් ඉලක්ක කර ඊයේ එල්ල වූ ත්‍රස්ත ප්‍රහාරයෙන් 133 දෙනෙකුට දිවි අහිමිවිය.
+Meanwhile, the US Russian Ambassador has rejected reports that the American intelligence was given to Russia about two weeks ago.
 
-150කට වැඩි පිරිසක් තුවාල ලබා ඇති අතර මරණ ගණන තවත් ඉහළ යා හැකි බව පැවසෙයි.
+Meanwhile, foreign media reports that the attack has been planned for a long time and the attackers have flowed to Ukraine.
 
-...
+Thirteen terrorist attack was aimed at a concert held at Moscow in the Moscow, Russia, a terrorist attack.
+
+More than 150 people were injured and the deaths could be increased.
+
+Two decades later, the Islamic Kingdom has been entrusted with the responsibility of the worst terrorist attack in Russia.
+
+◼️
 
 [Data](articles/48681506.json)
+
+[Extended Data](ext_articles/48681506.ext.json)
 
 ---
 
@@ -2211,35 +2259,5 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/c572464f.json)
 
 [Extended Data](ext_articles/c572464f.ext.json)
-
----
-
-### Union Assurance Launches Groundbreaking Women Empowerment Initiative “GROW”
-
-*2024-03-24 05:23:00* · [`islandlk`](http://island.lk/union-assurance-launches-groundbreaking-women-empowerment-initiative-grow/) · `en`
-
-Union Assurance, marked International Women’s Day with the launch of its groundbreaking women empowerment initiative, “GROW.” The event drew participation from female team members across the organisation, as well as key figures from the Corporate Management Team, the Executive Committee, and esteemed guests.
-
-...
-
-[Data](articles/468c0d24.json)
-
-[Extended Data](ext_articles/468c0d24.ext.json)
-
----
-
-### SLT-MOBITEL powers advancement of nation’s agriculture supporting 2nd phase of Agri Saviya – Marketing Asseweduma
-
-*2024-03-24 05:22:00* · [`islandlk`](http://island.lk/slt-mobitel-powers-advancement-of-nations-agriculture-supporting-2nd-phase-of-agri-saviya-marketing-asseweduma/) · `en`
-
-Contributing to the enrichment of Sri Lanka’s agriculture and strengthening the commitment to Environmental, Social and Governance (ESG), SLT-MOBITEL, the National ICT Solutions Provider, powered the 2nd phase of the Agri Saviya – Marketing Asseweduma initiative recently.
-
-Aimed at transforming farmers into Agripreneur leaders of tomorrow, Agri Saviya acts as the lifeline in nourishing farmers with the right knowledge and technical skills towards building a modern agricultural development in Sri Lanka. In the initial phase, 40 farmers received scholarships for the Certificate in Agri Business and Entrepreneurship (CABE), a first-of-its-kind qualification available in Sri Lanka, offered by the Sri Lanka Institute of Marketing (SLIM).
-
-...
-
-[Data](articles/601c3a3f.json)
-
-[Extended Data](ext_articles/601c3a3f.ext.json)
 
 ---

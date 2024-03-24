@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 02:33:32**
+As of **2024-03-25 02:49:24**
 
 ## Newspaper Stats
 
-*Scraped **14,910** Articles*
+*Scraped **14,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 161
 dbsjeyarajcom | 191
 newsfirstlk | 363
 economynextcom | 800
-dailyftlk | 805
+dailyftlk | 806
 islandlk | 820
 adalk | 1,267
 tamilmirrorlk | 1,793
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,909 (100.0%) of 14,910 articles have been extended.
+14,910 (100.0%) of 14,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### A time to remember: the therapeutic power of emotion recollected in not-quite tranquillity
+
+*2024-03-25 02:23:42* · [`dailyftlk`](https://www.ft.lk/columns/A-time-to-remember-the-therapeutic-power-of-emotion-recollected-in-not-quite-tranquillity/4-759891) · `en`
+
+Beaten, broken and bruised: but carrying on with courage and compassion ‘beyond checkpoints’
+
+In a nation notorious for not remembering many matters of importance beyond the news cycle, remembering right becomes a sacred trust and duty. Sri Lanka has faced many challenges as a country and a people in its chequered history since independence, and forgetfulness must not be added to its woes.
+
+Thus a poignant memoir of episodes still not out of mind comes as a welcome reminder that once upon a time in our erstwhile island paradise, there was ‘something rotten in the state’. It was not a people, political party or government, or even a separatist movement that escalated into terrorism, which were solely to blame for the phenomenon we ironically recall as a ‘civil war’.
+
+...
+
+[Data](articles/9f88d024.json)
+
+---
 
 ### Citizens should be aware of the burden of total Government expenditure
 
@@ -43,6 +59,8 @@ American economist William A. Niskanen, writing to the American Economic Review 
 ...
 
 [Data](articles/12238e0a.json)
+
+[Extended Data](ext_articles/12238e0a.ext.json)
 
 ---
 
@@ -2217,29 +2235,5 @@ Previously, under the Monetary Act No. 58 of 1949 and now under the CBSL Act No.
 [Data](articles/4b5ef2c6.json)
 
 [Extended Data](ext_articles/4b5ef2c6.ext.json)
-
----
-
-### Doctors in Kenya on strike
-
-*2024-03-24 10:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194869) · `si`
-
-Health professionals in Kenya are on strike, demanding wage increases and better service conditions. Protests in Nairobi and disruptions in emergency services have been reported.
-
-🟩
-
-The professionals in the health sector have launched a strike, including several demands.
-
-Parallel to this, there is a protest in the capital Nairobi, foreign media reports.
-
-The government requests the government to increase their wages and a good service background.
-
-In some hospitals, emergency services have been contradicted, foreign media reports say.
-
-◼️
-
-[Data](articles/c03a2e66.json)
-
-[Extended Data](ext_articles/c03a2e66.ext.json)
 
 ---

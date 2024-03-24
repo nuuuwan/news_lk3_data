@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 19:33:31**
+As of **2024-03-24 19:50:11**
 
 ## Newspaper Stats
 
-*Scraped **14,873** Articles*
+*Scraped **14,874** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,266
 tamilmirrorlk | 1,792
 adaderanalk | 1,794
 virakesarilk | 2,083
-dailymirrorlk | 2,287
+dailymirrorlk | 2,288
 adaderanasinhalalk | 2,388
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,872 (100.0%) of 14,873 articles have been extended.
+14,873 (100.0%) of 14,874 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ The arrested suspects were scheduled to be produced before the Nochchiyagama Mag
 ...
 
 [Data](articles/a4a54dc3.json)
+
+[Extended Data](ext_articles/a4a54dc3.ext.json)
 
 ---
 
@@ -109,6 +111,22 @@ Accordingly, six fire engines rushed to the scene to douse the flames.
 [Data](articles/78878ca0.json)
 
 [Extended Data](ext_articles/78878ca0.ext.json)
+
+---
+
+### Fire engulfs NOLIMIT outlet in Wellawatte
+
+*2024-03-24 18:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fire-engulfs-NOLIMIT-outlet-in-Wellawatte/108-279483) · `en`
+
+Colombo, March 24 (Daily Mirror) - A fire was reported from the NOLIMIT Shopping Complex in Wellawatte a short while ago.
+
+The fire quickly engulfed the premises, prompting an urgent response from the local Fire Brigade.
+
+Accordingly, six fire engines rushed to the scene to douse the flames.
+
+◼️
+
+[Data](articles/a2846878.json)
 
 ---
 
@@ -2147,19 +2165,5 @@ The Ministry said that the Sri Lankan embassy in Moscow has confirmed this and h
 [Data](articles/2264a970.json)
 
 [Extended Data](ext_articles/2264a970.ext.json)
-
----
-
-### When gifts come with strings attached
-
-*2024-03-23 23:10:00* · [`islandlk`](http://island.lk/when-gifts-come-with-strings-attached/) · `en`
-
-At an international maritime security conference in Colombo, the American Ambassador announced that Sri Lanka had sent a ship to join the international coalition against the Houthis in the Red Sea. The surprise announcement contradicted the earlier information in the press that Sri Lanka would not join this coalition, especially given the high cost involved in such an operation at a time of domestic economic crisis in Sri Lanka with national poverty levels rising, unemployment and malnutrition.
-
-...
-
-[Data](articles/70cc0851.json)
-
-[Extended Data](ext_articles/70cc0851.ext.json)
 
 ---

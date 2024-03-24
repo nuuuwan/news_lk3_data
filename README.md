@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 10:17:55**
+As of **2024-03-24 10:34:23**
 
 ## Newspaper Stats
 
-*Scraped **14,804** Articles*
+*Scraped **14,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 792
 economynextcom | 798
 islandlk | 820
 adalk | 1,262
-tamilmirrorlk | 1,779
+tamilmirrorlk | 1,780
 adaderanalk | 1,783
 virakesarilk | 2,075
 dailymirrorlk | 2,276
@@ -26,25 +26,49 @@ adaderanasinhalalk | 2,370
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,803 (100.0%) of 14,804 articles have been extended.
+14,804 (100.0%) of 14,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### ආර්ථිකය අවදානමෙන් මිදී නැහැ - ශෙහාන්
+### ”பொருட்களின் விலைகள் நாளாந்தம் அறிவிக்கப்படும்”
+
+*2024-03-24 10:10:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருட்களின்-விலைகள்-நாளாந்தம்-அறிவிக்கப்படும்/175-335074) · `ta`
+
+அத்தியாவசியப் பொருட்களின் விலையேற்றம் மற்றும் அமெரிக்க டொலருக்கு நிகரான இலங்கை ரூபாவின் பெறுமதி வீழ்ச்சி குறித்த அதிகரித்துவரும் கவலைகளுக்கு பதிலளிக்கும் வகையில், நிதி இராஜாங்க அமைச்சர் கலாநிதி ரஞ்சித் சியம்பலாபிட்டிய, பொருளாதாரத்தை ஸ்திரப்படுத்தும் வரும் பண்டிகை காலத்தை முன்னிட்டு சந்தை நோக்கில் புதிய உத்தி ஒன்றை வெளியிட்டுள்ளார்.
+
+ஊடகங்களுக்கு கருத்து தெரிவித்த சியம்பலாபிட்டிய, இறக்குமதி செய்யப்பட்ட பொருட்களின் விலைகள் மற்றும் பெறுமதி சேர் வரி (VAT) இனி நாளாந்த அடிப்படையில் வெளியிடப்படும் என அறிவித்தார்.
+
+எதிர்வரும் திங்கட்கிழமை ஆரம்பிக்க திட்டமிடப்பட்டுள்ள இந்த முயற்சி நுகர்வோர் விவகார அதிகாரசபையால் நிறைவேற்றப்படும்.
+
+பணவீக்க அழுத்தங்களுக்கு மத்தியில் நுகர்வோருக்கு நிகழ்நேரத் தகவல் மற்றும் அவர்களின் செலவினங்களில் சிறந்த கட்டுப்பாட்டை வழங்குவதற்காக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/a3d01be7.json)
+
+---
+
+### The economy is not escaped at risk - Shehan
 
 *2024-03-24 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194868) · `si`
 
-ආර්ථිකමය වශයෙන් රට අවදානම් තත්ත්වයෙන් තවමත් මිදී නොමැති බව මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+"State Minister Shehan Semasinghe denies economically escalating risk, emphasizing the economy as a key election issue and highlighting the absence of a risky situation."
 
-අමාත්‍යවරයා ඒ බව ප්‍රකාශ කළේ ඊයේ (23) අනුරාධපුරයේදී මාධ්‍ය අමතමිනි.
+🟩
 
-"රටේ ආර්ථිකය තමයි ඊළඟ මැතිවරණය තුළ ප්‍රධානතම කාරණය විය යුත්තේ සහ ආර්ථිකය හැසිරවීමට හැකියාව තියෙන පුද්ගලයා, දර්ශනයක් තියෙන පුද්ගලයා කියන කාරණය තමයි ප්‍රධාන විය යුත්තේ. මොකද අවදානම් සහගත තත්ත්වයෙන් ආර්ථිකය තවම මිදිලා නැහැ."
+State Minister Shehan Semasinghe says that there is no economically escalating risk.
+
+The Minister made this observation at the media yesterday (23).
+
+"The majority of the country's economy is the main point of the next election and the person who has the ability to handle the economy is the key to. Because the risky situation has not yet wine. "
 
 ◼️
 
 [Data](articles/842fd30e.json)
+
+[Extended Data](ext_articles/842fd30e.ext.json)
 
 ---
 
@@ -2225,25 +2249,5 @@ The parents also claimed that the monthly fee of the school had also been increa
 [Data](articles/02d94e4a.json)
 
 [Extended Data](ext_articles/02d94e4a.ext.json)
-
----
-
-### Ensure release of Indian fishermen detained by Sri Lanka: TN Chief Minister to Jaishankar
-
-*2024-03-23 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98146/ensure-release-of-indian-fishermen-detained-by-sri-lanka-tn-chief-minister-to-jaishankar) · `en`
-
-Tamil Nadu Chief Minister MK Stalin on Friday wrote to India’s External Affairs Minister Dr. S. Jaishankar, urging him to secure the immediate release of all detained fishermen and their fishing boats in Sri Lanka and ensure necessary legal assistance for them.
-
-In a letter to Jaishankar, Stalin said there were multiple occurrences of fishermen from India being detained by Sri Lankan authorities, which caused distress and uncertainty among their families.
-
-He said 32 fishermen from Tamil Nadu were caught by the Sri Lankan Navy on March 21 and their five mechanised boats were seized.
-
-“Decisive action must be taken without any further delay to address this festering issue and to ensure the safety and well-being of the affected fishermen. Further legal assistance needs to be provided for the fishermen who have been sentenced by Sri Lankan courts,” he said.
-
-...
-
-[Data](articles/0d5f5ba3.json)
-
-[Extended Data](ext_articles/0d5f5ba3.ext.json)
 
 ---

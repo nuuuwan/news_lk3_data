@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 20:02:50**
+As of **2024-03-24 20:17:56**
 
 ## Newspaper Stats
 
-*Scraped **14,874** Articles*
+*Scraped **14,877** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,64 @@ adalk | 1,266
 tamilmirrorlk | 1,792
 adaderanalk | 1,794
 virakesarilk | 2,083
-dailymirrorlk | 2,288
-adaderanasinhalalk | 2,388
+dailymirrorlk | 2,290
+adaderanasinhalalk | 2,389
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,874 (100.0%) of 14,874 articles have been extended.
+14,874 (100.0%) of 14,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
+
+### Main meal for all children in Grades 1-5 from tomorrow
+
+*2024-03-24 19:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Main-meal-for-all-children-in-Grades-1-5-from-tomorrow/108-279484) · `en`
+
+Colombo, March 24 (Daily Mirror) - The Education Ministry has undertaken measures to offer a main meal at school to every student in Grades 1 through 5, starting tomorrow.
+
+The decision was taken into consideration following recommendations from nutritionists.
+
+Minister Susil Premajayantha had given instructions to serve the breakfast between 7.30 a.m. and 8.30 a.m. before the students engage in educational activities.
+
+He said the Ministry has paid more attention to maintaining the food at a high level of nutrition and health.
+
+"Under the theme of fostering a healthy and active generation of children, the school meal programme introduced for 2024 targets several objectives.
+
+"These include diminishing nutritional issues among school students, enhancing daily school attendance rates, instilling positive eating and health practices, promoting educational achievement levels, and supporting local food initiativess," the Minister said.
+
+...
+
+[Data](articles/6550243a.json)
+
+---
+
+### වසර 40කට පසු හඳුනාගත් විශ්වවිද්‍යාල සිසුවියගේ ඝාතකයා‌
+
+*2024-03-24 19:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194887) · `si`
+
+වසර 40 ට අධික කාලයක් පුරා සිදුකළ පරීක්ෂණ වල ප්‍රතිඵලයක් ලෙස විශ්වවිද්‍යාල ශිෂ්‍යාවක්ට ලිංගික අතවර කර පහර දී ඝාතනය කළ සැකකරු හඳුනාගැනීමේ පුවතක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+අමෙරිකාවේ ඔරිගන් ප්‍රාන්තයේ ජීවත් වූ 19 හැවිරිදි Barbara Tucker නම් විශ්වවිද්‍යාල ශීෂ්‍යාවට ලිංගික අතවර කර පහර දී ඝාතනය කර ඇත්තේ 1980 වසරේ ජනවාරි මස 15 වනදාය.
+
+ඝාතනය සම්බන්ධයෙන් නිවැරදි සැකකරු සොයා ගැනීම සඳහා ඇයගේ මරණ පරීක්ෂණයෙන් පසු ඇයගේ සිරුරේ තැවරී තිබූ ශුක්‍රාණු වල DNA පරීක්ෂණ සිදුකර තිබේ.
+
+නිවැරදි සැකකරු සොයාගැනීමට අපහසුවීමත් සමග එම සිදුකළ පරීක්ෂණ වාර්තා 2000 වසරේ දී ඔරිගන් ප්‍රාන්ත පොලීසියේ අපරාධ පරීක්ෂණාගාරයේ විශ්ලේෂණය සඳහා යොමුකර තිබේ.
+
+ඒ අනුව පොලීසියේ අපරාධ පරීක්ෂණාගාර විශ්ලේෂණයයෙන් හෙළි වී ඇත්තේ එම DNA දත්ත යම් පුද්ගලයෙකුගේ DNA දත්ත සමඟ සමාන වන බවට ය.
+
+පසුව අදාළ පුද්ගලයා පිළිබඳ තොරතුරු සෙවීම සඳහා පොලිස් පර්යේක්ෂකයින් යොදවා ඇත.
+
+එහිදී එක් දිනක් සැකකරු හපමින් සිටි චුයින්ගම් එකක් පාරට විසි කර ඇති අතර පොලිස් පර්යේක්ෂකයෙකු විසින් එය රැගෙනවිත් පොලීසියේ අපරාධ පරීක්ෂණාගාරය වෙත තබා දී තිබේ.
+
+...
+
+[Data](articles/a415f470.json)
+
+---
 
 ### Police bust major motorcycle theft racket; 04 arrested with 116 number plates
 
@@ -129,6 +175,26 @@ Accordingly, six fire engines rushed to the scene to douse the flames.
 [Data](articles/a2846878.json)
 
 [Extended Data](ext_articles/a2846878.ext.json)
+
+---
+
+### UPDATE - Fire engulfs NOLIMIT outlet in Wellawatte
+
+*2024-03-24 18:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UPDATE-Fire-engulfs-NOLIMIT-outlet-in-Wellawatte/108-279483) · `en`
+
+Colombo, March 24 (Daily Mirror) - A fire broke out at the NOLIMIT Shopping Complex in Wellawatte this evening, the Colombo Fire Brigade said.
+
+They said a total of eleven fire trucks attached to the Colombo Municipal Council and the Dehiwala-Mount Lavinia Municipal Council were dispatched to douse the fire.
+
+It is reported that the police and people in the area are also helping to control the situation.
+
+Meanwhile, the Fire Brigade said that they could not enter the shop due to the prevailing high temperature.
+
+The cause of the fire has not yet been revealed, and no injuries have been reported so far.
+
+◼️
+
+[Data](articles/ca4c30f4.json)
 
 ---
 
@@ -2109,63 +2175,5 @@ It is noteworthy that Fitz Air currently offers direct services from Colombo to 
 [Data](articles/e24a81f7.json)
 
 [Extended Data](ext_articles/e24a81f7.ext.json)
-
----
-
-### Sir Andrew Caldecott (1884-1951) Governor of Ceylon with special experience
-
-*2024-03-24 01:37:00* · [`islandlk`](http://island.lk/sir-andrew-caldecott-1884-1951-governor-of-ceylon-with-special-experience/) · `en`
-
-Sir Andrew Caldecott arrived in Ceylon as Governor of the Island seven years ago yesterday. He will be 60 years of age on the 26h of this month. No excuse is therefore necessary for making some attempt to review his career.
-
-The roll of Ceylon’s past Governors includes many remarkable men who made their mark as pioneers, administrators, scholars or writers. Sir Andrew Caldecott will take his place among them on his merits, but also on the suffrage of those peoples among whom he has served. He may not be so brilliant a writer as Clifford, so profound a scholar as Chalmers, so eloquent as West-Ridgeway or so experienced a parliamentarian as Gregory but he combines in his character qualities which made him one of the most successful and popular proconsuls ever to leave England to carry the white man’s burden.
-
-...
-
-[Data](articles/501862d6.json)
-
-[Extended Data](ext_articles/501862d6.ext.json)
-
----
-
-### Tiger vs Tiger: How Prabhakaran’s Mainstream LTTE and Karuna’s Eastern Tigers Prepared for Fratricidal Conflict.
-
-*2024-03-24 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83797) · `en`
-
-This  week’s Column   is the second of a series  of articles denoting the 20th anniversary of the revolt headed by former  eastern tiger commander Vinayagamoorthy Muralitharan alias “Karuna Ammaan” against the Liberation Tigers of Tamil Eelam(LTTE) hierarchy. Although the rebellion was crushed, its impact and consequences helped greatly to determine the course of war in favour of the Sri Lankan armed forces.
-
-In the first article published last w eek(16 March 2024 Daily Mirror  (“Col” Karuna’s Eastern Tiger revolt against LTTE 20 years ago) the background and reasons for the Eastern tiger revott were discussed in detail. In this second article the course of events leading to the eruption of  the intra-tiger fratricidal conflict in the aftermath of “Col”Karuna’s rebellion  would be recounted,  relying on some of my earlier writings.
-
-...
-
-[Data](articles/baf48e2d.json)
-
-[Extended Data](ext_articles/baf48e2d.ext.json)
-
----
-
-### 2024-03-23 (Saturday)
-
-### Is Sri Lankans affect the Russian attack?Sri Lanka condemning
-
-*2024-03-23 23:29:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரஷ்ய-தாக்குதலில்-இலங்கையர்களுக்கு-பாதிப்பா-இலங்கை-கண்டனம்/50-335060) · `ta`
-
-Sri Lanka condemns the Moscow stadium attack, expressing readiness to cooperate with the international community against terrorism. No Sri Lankans were affected, and the embassy in Moscow has been advised to avoid public gatherings for 48 hours.
-
-🟩
-
-Sri Lanka has condemned the terrorist attack on a stadium in the suburbs of the Russian capital Moscow.
-
-'Such violence against the public is disgusting. All those involved in the attack should be punished. In a statement issued by the Ministry of External Affairs, the Ministry of External Affairs said that it is ready to cooperate with the international community to face a massive threat to peace and security.
-
-At the same time, the Sri Lankan Foreign Ministry has stated that none of Sri Lankans have been affected by the terrorist attack in Russia.
-
-The Ministry said that the Sri Lankan embassy in Moscow has confirmed this and has been advised to avoid public gatherings in the next 48 hours.. Remble
-
-◼️
-
-[Data](articles/2264a970.json)
-
-[Extended Data](ext_articles/2264a970.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 15:33:18**
+As of **2024-03-24 15:51:20**
 
 ## Newspaper Stats
 
-*Scraped **14,849** Articles*
+*Scraped **14,852** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,17 +16,17 @@ dailyftlk | 792
 economynextcom | 800
 islandlk | 820
 adalk | 1,265
-tamilmirrorlk | 1,788
+tamilmirrorlk | 1,790
 adaderanalk | 1,791
 virakesarilk | 2,078
-dailymirrorlk | 2,283
+dailymirrorlk | 2,284
 adaderanasinhalalk | 2,381
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,848 (100.0%) of 14,849 articles have been extended.
+14,849 (100.0%) of 14,852 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Dharma Reddy was scheduled to leave for Sri Lanka on March 2, but it was postpon
 ...
 
 [Data](articles/58a232e4.json)
+
+[Extended Data](ext_articles/58a232e4.ext.json)
 
 ---
 
@@ -93,6 +95,22 @@ It is noteworthy that many of the social media users have posted that McDonald's
 [Data](articles/89746152.json)
 
 [Extended Data](ext_articles/89746152.ext.json)
+
+---
+
+### McDonald’s இயங்கத் தடை?
+
+*2024-03-24 14:48:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/McDonald-s-இயங்கத்-தடை/175-335099) · `ta`
+
+McDonald's வர்த்தக நாமத்தின் கீழ் கொழும்பு மற்றும் அதன் புறநகர் பகுதிகளில் இயங்கி வரும் 12 உணவகங்கள் இயங்குவதற்கு தடை விதித்து கொழும்பு வர்த்தக மேல் நீதிமன்றம் தடை உத்தரவு பிறப்பித்துள்ளது.
+
+அவர்களது உடன்படிக்கைகளில் ஏற்பட்ட முரண்பாடு தொடர்பில் ஆதார நிறுவனம் முறைப்பாடு செய்ததை அடுத்து இந்த தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+மக்டொனால்ட் உணவகங்கள் மூடப்பட்டுள்ளதாகவும், பெயர் பலகைகள் அகற்றப்பட்டுள்ளதாகவும் சமூக ஊடக பாவனையாளர்கள் பலரும் பதிவிட்டிருந்தமையும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b4a899a2.json)
 
 ---
 
@@ -460,6 +478,18 @@ Police mentioned that the body has been placed in the mortuary of Diyathalawa Ho
 
 ---
 
+### Women Plus Bazaar 2024
+
+*2024-03-24 12:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Women-Plus-Bazaar-2024/110-279475) · `en`
+
+The ‘Women Plus Bazaar 2024’ exhibition organized with the aim of empowering Sri Lankan women at Beira Lake Atrium and L2 Atrium in ONE GALLEFACE has become a center of attraction these days. The event is jointly organized by the Embassy of Egypt in Colombo and One Galle Face. Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/e61bacc2.json)
+
+---
+
 ### CIT confession to Maithri
 
 *2024-03-24 12:27:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியிடம்-சி-ஐ-டி-வாக்குமூலம்/175-335092) · `ta`
@@ -477,6 +507,20 @@ Speaking to the media after attending an event in Kandy (22), he said that he wa
 [Data](articles/854799bd.json)
 
 [Extended Data](ext_articles/854799bd.ext.json)
+
+---
+
+### மைத்திரியிடம் சி.ஐ.டி வாக்குமூலம்
+
+*2024-03-24 12:27:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மைத்திரியிடம்-சி-ஐ-டி-வாக்குமூலம்/150-335092) · `ta`
+
+உயிர்த்த ஞாயிறுத்தாக்குதல் தொடர்பில்,  முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்த கருத்து தொடர்பில்,   குற்றப் புலனாய்வுப் பிரிவினர் அவரிடம் இன்று (24) வாக்குமூலம் பெற்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+கண்டியில் கடந்த (22)  இடம்பெற்ற நிகழ்வொன்றில் கலந்து கொண்டதன் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போது,  , ஈஸ்டர் ஞாயிறு தாக்குதலில் ஈடுபட்டவர்கள் தொடர்பிலான உண்மை தனக்கு தெரியும் என தெரிவித்திருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/96734be4.json)
 
 ---
 
@@ -2081,67 +2125,5 @@ He was speaking at a function in Ratnapura today (23).
 [Data](articles/d91e3df6.json)
 
 [Extended Data](ext_articles/d91e3df6.ext.json)
-
----
-
-### IGP ordered to investigate Maithri's statement
-
-*2024-03-23 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194856) · `si`
-
-Maithripala Sirisena orders IGP to investigate his own statement on the Malfunctional Board, as ordered by People's Defense Minister Tiran Alles.
-
-🟩
-
-Former President Maithripala Sirisena has ordered an investigation into the statement made by former President Maithripala Sirisena regarding the Malfunctional Board.
-
-Tiran Alles has ordered the IGP by People's Defense Minister Tiran Alles.
-
-◼️
-
-[Data](articles/33f93cca.json)
-
-[Extended Data](ext_articles/33f93cca.ext.json)
-
----
-
-### Dematagoda discovers ice of ice
-
-*2024-03-23 18:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194855) · `si`
-
-Dematagoda: Two arrested for ice drugs worth Rs. Near Baseline Road, Colombo. Main suspect captured with 1580 grams of ice.
-
-🟩
-
-Two suspects have been arrested along with an ice drugs worth nearly Rs.
-
-The Colombo Crimes Division was raided near Baseline Road, Dematagoda road near the Sirisara Uyana apartment complex.
-
-The main suspect has been taken into custody by 1580 grams of ice narcotics.
-
-◼️
-
-[Data](articles/19bd8876.json)
-
-[Extended Data](ext_articles/19bd8876.ext.json)
-
----
-
-### Draft Bill to reduce age of sexual consent to 14 years to be withdrawn after outcry
-
-*2024-03-23 18:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98155/draft-bill-to-reduce-age-of-sexual-consent-to-14-years-to-be-withdrawn-after-outcry) · `en`
-
-The Bill gazetted on 09 February 2024 by the government in order to amend Chapter 19 of the Penal Code regarding the age of a girl to have sexual relations of her own interest, will be withdrawn, says Minister of Justice, Prison Affairs and Constitutional Reform Wijeyadasa Rajapakshe.
-
-According to the amendments made to the Penal Code in 1995, even if a victim under 16 years of age has sexual relations of their own free will, it is considered rape. However, the proposed amendment to the Penal Code by the Justice Minister sought to lower the age of sexual consent to 14 years.
-
-Nevertheless, speaking to the media following an event held in Colombo today (23), Rajapakshe stated that he has informed the Attorney General that the draft would not be proceeded with and that it would be withdrawn from the Parliament.
-
-“Several individuals have approached me requesting the suspension of the passing of this Bill. I have conveyed to them that further discussions must ensue”, the Minister said.
-
-...
-
-[Data](articles/3c4d3f20.json)
-
-[Extended Data](ext_articles/3c4d3f20.ext.json)
 
 ---

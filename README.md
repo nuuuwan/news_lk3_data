@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 03:51:19**
+As of **2024-03-25 04:03:06**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,914 (100.0%) of 14,915 articles have been extended.
+14,915 (100.0%) of 14,915 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ As the world marks World Kidney Day, Sri Lanka takes center stage in the global 
 ...
 
 [Data](articles/c5c5aa71.json)
+
+[Extended Data](ext_articles/c5c5aa71.ext.json)
 
 ---
 

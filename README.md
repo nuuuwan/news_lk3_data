@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-24 18:33:52**
+As of **2024-03-24 18:51:40**
 
 ## Newspaper Stats
 
-*Scraped **14,870** Articles*
+*Scraped **14,872** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,38 @@ adalk | 1,266
 tamilmirrorlk | 1,792
 adaderanalk | 1,793
 virakesarilk | 2,083
-dailymirrorlk | 2,285
+dailymirrorlk | 2,287
 adaderanasinhalalk | 2,388
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,869 (100.0%) of 14,870 articles have been extended.
+14,870 (100.0%) of 14,872 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-24 (Sunday)
 
-### රැකගත්තත් උඩපන්දුවක් බව නොදුටු බංගලි ක්‍රීඩකයෝ
+### Bangali players unattended to be a backfill
 
 *2024-03-24 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194886) · `si`
 
-ශතකය රැස්කිරීමට ප්‍රථමයෙන් ශ්‍රී ලංකා නායක ධනංජය ද සිල්වා දවාගැනීමට තිබූ අවස්ථාවක් ගිලිහී ගිය අයුරු දැක්වෙන වීඩියෝවක් මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වෙමින් පවතී.
+Bangladeshi players ignored as backfill. Sri Lanka's Dhangaya de Silva's video is viral. Dananjaya de Silva scored 94 runs, but his dismissal was questionable.
 
-එහි දැක්වෙන්නේ ලකුණු 94ක් රැස්කරගෙන සිටියදී ධනංජය ද සිල්වාගේ අත් ආවරණයේ වැදී ආරක්ෂිතව කඩුලු රකින ක්‍රීඩකයා විසින් රැකගත් ද එය උඩපන්දුවක් බව නොදැන කිසිදු ඉල්ලීමක් නොකර සිටීමය.
+🟩
 
-එම අවස්ථාවේදී ඔහු ස්ටම්ප් කිරීමක් හරහා ධනංජය දවාගැනීමට උත්සාහ කරන අතර දාස් එම අවධානයෙන් සිටීම හේතුවෙන් ඔහු රැකගත්තේ උඩපන්දුවක් බවට නොදැන සිටින්නට ඇති බවට සිතිය හැකිය.
+The video of Sri Lanka Leader Dhangaya de Siljaya de Siljaya de Siljaya de Siljaya de Silva is currently being exchanged through social media.
+
+It is not necessary that the player of Dananjaya de Silva de Silva de Silva's hands while gathering 94 runs.
+
+At that point, he tries to hold Dhananjaya via stump, and Das is probably not aware that he has been inherited into an arrival.
 
 ◼️
 
 [Data](articles/3cfcb088.json)
+
+[Extended Data](ext_articles/3cfcb088.ext.json)
 
 ---
 
@@ -63,6 +69,22 @@ Six fire trucks belonging to the Colombo Fire Unit have been dispatched to bring
 [Data](articles/a3a595ab.json)
 
 [Extended Data](ext_articles/a3a595ab.ext.json)
+
+---
+
+### Fire engulfs apparel outlet in Wellawatte
+
+*2024-03-24 18:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fire-engulfs-apparel-outlet-in-Wellawatte/108-279483) · `en`
+
+Colombo, March 24 (Daily Mirror) - A fire was reported from an apparel outlet in Wellawatte a short while ago.
+
+The fire quickly engulfed the premises, prompting an urgent response from the local Fire Brigade.
+
+Accordingly, six fire engines rushed to the scene to douse the flames.
+
+◼️
+
+[Data](articles/78878ca0.json)
 
 ---
 
@@ -329,6 +351,18 @@ Protest in front of the analtt statue built in Panadura area against the launch 
 [Data](articles/7f99cc13.json)
 
 [Extended Data](ext_articles/7f99cc13.ext.json)
+
+---
+
+### Heartwarming sight...
+
+*2024-03-24 16:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Heartwarming-sight/110-279481) · `en`
+
+Amidst the bustling tourist scene in Sri Lanka, a heartwarming sight unfolds at the Gangaramaya Temple as a tourist feeds an elephant. Pix by Kushan Pathiraja
+
+◼️
+
+[Data](articles/82145b43.json)
 
 ---
 
@@ -2117,41 +2151,5 @@ I still have grateful memories of a happy 12 years at Wesley College. The school
 [Data](articles/05b49544.json)
 
 [Extended Data](ext_articles/05b49544.ext.json)
-
----
-
-### DR. A.M.A. AZEEZ MEMORIAL ORATION BY PROF. M. SORNARAJAH
-
-*2024-03-23 22:39:00* · [`islandlk`](http://island.lk/dr-a-m-a-azeez-memorial-oration-by-prof-m-sornarajah/) · `en`
-
-The Dr. A.M.A. Azeez Commemoration Meeting and Memorial Oration were held on February 17, 2024 at the Ghaffoor Hall, Zahira College, Colombo. The Memorial Oration was delivered by Prof. M. Sornarajah, Emeritus Professor of Law, National University of Singapore, distinguished old boy of Royal College, LL.B (University of Ceylon, First Class Honours), LL.M (Yale Law School, U.S.A.), LL.M, PhD and LL.D (University of London) on the subject of “The Law in the Speeches of Senator Azeez, the Muslim Tamil Leader of Ceylon, and its Present Significance”.
-
-...
-
-[Data](articles/3b4971bb.json)
-
-[Extended Data](ext_articles/3b4971bb.ext.json)
-
----
-
-### Prices of imported goods to be announced on a daily basis
-
-*2024-03-23 22:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prices-of-imported-goods-to-be-announced-on-a-daily-basis/108-279470) · `en`
-
-Colombo, March 23 (Daily Mirror) - In response to mounting concerns over rising prices of essential goods and the devaluation of the Sri Lankan Rupee against the US Dollar, State Minister for Finance Dr. Ranjith Siyambalapitiya has unveiled a new strategy aimed at stabilising the market ahead of the upcoming festive season.
-
-Addressing the media, Siyambalapitiya announced that the prices of imported goods and the Value Added Tax (VAT) will now be disclosed on a daily basis.
-
-This initiative, scheduled to commence next Monday, will be executed by the Consumer Affairs Authority.
-
-The move is intended to provide consumers with real-time information and better control over their spending amidst inflationary pressures.
-
-Furthermore, Dr. Siyambalapitiya affirmed that all necessary arrangements have been made to guarantee an uninterrupted flow of goods, averting any potential shortages that could disrupt during the festive season.
-
-◼️
-
-[Data](articles/a78eaed8.json)
-
-[Extended Data](ext_articles/a78eaed8.ext.json)
 
 ---

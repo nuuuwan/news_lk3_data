@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 21:33:43**
+As of **2024-03-25 21:52:40**
 
 ## Newspaper Stats
 
-*Scraped **15,100** Articles*
+*Scraped **15,102** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 805
 dailyftlk | 806
 islandlk | 831
 adalk | 1,289
-tamilmirrorlk | 1,815
-adaderanalk | 1,816
+tamilmirrorlk | 1,816
+adaderanalk | 1,817
 virakesarilk | 2,124
 dailymirrorlk | 2,334
 adaderanasinhalalk | 2,426
@@ -26,43 +26,99 @@ adaderanasinhalalk | 2,426
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,097 (100.0%) of 15,100 articles have been extended.
+15,100 (100.0%) of 15,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### வெற்றிக்காக 'ஜீனி'யாக நடிக்கும் ஜெயம் ரவி
+### ”நாம் தீர்வு காணும் வரை மாணவர்கள் காத்திருக்க முடியாது”
+
+*2024-03-25 21:36:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாம்-தீர்வு-காணும்-வரை-மாணவர்கள்-காத்திருக்க-முடியாது/175-335182) · `ta`
+
+எமது பிரச்சினைகளுக்கு தீர்வு காணும் வரை பாடசாலை மாணவர்கள் காத்திருக்க முடியாது, அவர்களின் வளர்ச்சியை நிறுத்த முடியாது. இதற்கிடையில் மாற்றுக் கல்வி முறைகளை அவர்கள் தெரிவு செய்யலாம் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+
+நாரஹேன்பிட்டி சுஜாதா மகளிர் கல்லூரியில் இன்று (25) நடைபெற்ற 2024 ஆம் ஆண்டுக்கான பாடசாலை உணவுத் திட்டத்தின் ஆரம்ப நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே, பாடசாலையில் பொருத்தமான கல்வி முறைமை கிடைக்காவிடின் பிள்ளைகள் மாற்று முறைமைகளை நிச்சயம் கண்டுபிடிப்பார்கள் என அமைச்சர் தெரிவித்தார்.
+
+"இன்று நாம் அந்த நிலையை எதிர்கொள்கிறோம். பல குழந்தைகள் நமது அரசுப் பாடசாலைக் கல்வி முறைக்கு விடைபெற்று மாற்றுக் கல்வி முறைகளில் ஈடுபடுகிறார்கள். நமது பிரச்சினைகளை நாம் தீர்க்க வேண்டும், ஆனால் அவர்களின் எதிர்காலத்தை முதலில் உருவாக்க வேண்டும்" என்று அமைச்சர் கூறினார். .
+
+"ஒரு நாட்டின் கல்வித் திட்டங்கள் தொழில்நுட்பத்துடன் இணைந்துள்ளன, பெரும்பாலான நாடுகள் புதிய தொழில்நுட்ப அமைப்புகளுடன் வெகுதூரம் சென்றுள்ளன. நாமும் அவற்றைப் பின்பற்றுகிறோம்," என்று அவர் கூறினார்.
+
+◼️
+
+[Data](articles/e0dc4e7f.json)
+
+---
+
+### Govt prioritizing overhaul of school education and exam systems - President
+
+*2024-03-25 21:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98200/govt-prioritizing-overhaul-of-school-education-and-exam-systems-president) · `en`
+
+President Ranil Wickremesinghe emphasized the importance of holistic education, advocating for a curriculum that includes both academic subjects and nutritional support for children across the country.
+
+He also underscored the necessity of integrating modern technologies like artificial intelligence into the educational framework, highlighting the government’s commitment to reforming the school education and examination systems.
+
+President Wickremesinghe made these remarks during the inauguration of the “2024 School Meal Program” at Sujatha Balika Vidyalaya in Narahenpita this morning (25), the President’s Media Division reported.
+
+The initiative, led by the Ministry of Education, aims to provide nutritious meals to all students in grades 1-5 nationwide. Following the president’s directive, breakfast will be served between 7:30 am and 8:30 am, aligning with expert recommendations on optimal nutrition timing.
+
+...
+
+[Data](articles/3e4d4b6a.json)
+
+---
+
+### Jaime Ravi, who plays 'Genie' for success
 
 *2024-03-25 21:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/179692) · `ta`
 
-தமிழ் திரையுலகை பொருத்தவரை தொடர்ந்து வெற்றி படங்களை வழங்கினால் மட்டுமே ரசிகர்கள் தங்களுடைய விருப்பத்திற்குரிய நட்சத்திரங்களை தலை மேல் வைத்து கொண்டாடுவார்கள்.
+Jaime Ravi stars as 'Genie' in a new film, following the success of 'Siren'. Directed by Arjunan, with cinematography by Mahesh Muthuswamy and music by A.R. Rahman, 'Genie' is a fantasy film produced by Wales Film International. Set for release in multiple languages, it's a significant investment for the Tamil film industry. The first look has been released, showcasing Ravi in a new look and setting expectations high.
 
-இதனால் ரசிகர்களின் விருப்பத்திற்கு ஏற்ப நட்சத்திர நடிகர்களும் வித்யாசமான கதைகளையும், வேடங்களையும் தெரிவு செய்து நடித்து வருகிறார்கள்.
+🟩
 
-அந்த வகையில் கமர்ஷியல் வெற்றிக்காக 'சைரன்' எனும் வெற்றி படத்தை தொடர்ந்து முன்னணி நட்சத்திர நடிகரான ஜெயம் ரவி 'ஜீனி' எனும் குழந்தைகளை கவரும் வேடத்தில் நடித்திருக்கிறார். இப்படத்தின் ஃபர்ஸ்ட் லுக் வெளியாகி பெரும் வரவேற்பை பெற்றிருக்கிறது.
+Fans will only celebrate their favorite stars on the head if they continue to provide success films for the Tamil film industry.
 
-இயக்குநர் மிஷ்கினின் பட்டறையிலிருந்து உருவாகி இருக்கும் அவருடைய உதவியாளர் அர்ஜுனன் இயக்குநராக அறிமுகமாகும் 'ஜீனி' திரைப்படத்தில் ஜெயம் ரவி, கீர்த்தி ஷெட்டி, கல்யாணி பிரியதர்ஷன், வாமிகா கபி, தேவயானி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+As a result of the wishes of the fans, the star actors are choosing the stories and roles.
+
+Following the success of 'Siren' for commercial success, leading star actor Jayam Ravi plays the role of 'Geni'. The first look of the film has been released.
+
+His assistant Arjunan, who is coming from director Mishkin's workshop, will make his directorial debut as director of 'Geni'.
+
+Mahesh Muthuswamy's cinematography by the film 'Music Storm' A. Remble. Rahman has composed the music. The film is being prepared in Fantasy Janer, on behalf of Wales Film International.. Ganesh has produced.
+
+'Geni' is set to be released in Tamil, Telugu, Malayalam, Kannada and Hindi with an investment of Rs 100 crore in India.. The first look of the film is currently being released as the work is going on.. This is 'music' A.. R. Rahman posted on his web page and congratulated the film crew.
 
 ...
 
 [Data](articles/39943301.json)
 
+[Extended Data](ext_articles/39943301.ext.json)
+
 ---
 
-### ’කැලණිය සරසවි සිසුවාට මිය යෑමට  වූයේ බලධාරීන්ගේ ප්‍රමාදයක් නිසයි’
+### 'Delayed from the Kelaniya University student to die because of the delay of the authorities'
 
 *2024-03-25 21:11:58* · [`adalk`](https://www.ada.lk/breaking_news/’කැලණිය-සරසවි-සිසුවාට-මිය-යෑමට--වූයේ-බලධාරීන්ගේ-ප්‍රමාදයක්-නිසයි’/11-408799) · `si`
 
-කැලණිය විශ්ව විද්‍යාලයේ සිසුවෙකු හදිසියේ රෝගිවී මියයාමත් සමග එම විශ්වවිද්‍යාලයේ සිසුන් අද (25දා) අලුයම් කාලයේ සිට විශ්වවිද්‍යාලයට ඇතුළු වන දොරටු වසා දමා ඒ ඉදිරිපිට විරෝධතා පැවැත්වූ අතර උපකුලපතිවරිය සමග සාකච්ඡා කිරීමෙන් පසුව විරෝධතාව අත්හැර දැමූහ.
+A student from the University of Kelaniya died due to a delay in medical assistance. Students protested, demanding an investigation into the incident. The deceased was a Geography student from Moneragala. The protest led to the university's closure, and the Faculty of Science administration was involved.
 
-සිසුන් පැවසුවේ ශිෂ්‍ය නේවාසිකාගාරයේ සිටි සිසුවා රෝගිවී සිටි අවස්ථාවේ පරිපාලනයට දැන්වුවත් වාහනයක් ලබාදීමට විනාඩි හතළිහක පමණ කාලයක් ගතවී ඇති බවය. කෙසේ නමුත් අසාධ්‍ය තත්ත්වයේ පසුවු සිසුවා රෝහලට ඇතුළත් කිරීමේදී මිය ගොස් ඇති බවත්,  සිසුවා කඩිනමින් රැගෙන පැමිණියේ නම් ඔහුගේ ජීවිතය බේරාගත හැකිව තිබූ බවට රෝහලේ වෛද්‍යවරුන් පවසා ඇති බවත් සිසුවෝ පැවසූහ.මේ හේතුවෙන් සිදුවූ ප්‍රමාදයට පරිපාලනය වගකිය යුතු යැයි සිසුවෝ පවසති.
+🟩
 
-සිසුන් විශ්ව විද්‍යාල මාර්ගයේ රැඳී සිටිමින් පරිපාලනයේ ක්‍රියා පිළිවෙතට විරෝධය පළ කිරීම නිසා විශ්වවිද්‍යාලආචාර්යවරු හා අනධ්‍යයන සේවකයෝ සිය රාජකාරි කටයුතු සඳහා විශ්ව විද්‍යාලය තුළට ඇතුළු වීමට නොහැකිව විශ්ව විද්‍යාල මාර්ගයේ රැඳී සිටියහ.
+With the death of a student of the University of Kelaniya, the students were closed and protesting to the university today (25) and protest after discussing the Vice Chancellor.
+
+The students said the student in the student hostel was about forty minutes to give a vehicle nor a vehicle. However, students have said that if the student had died when the student had been admitted to the hospital and had taken his life had been saved.
+
+The university and non-academic workers were unable to enter the university for their duties as students remain in the university road and protesting the policy of administration.
+
+The deceased has been identified as a student of the Geography of the Geography of the Institute of Social Sciences, a resident of Moneragala, Boxesery, Pelani Kumbu.
+
+By the afternoon of the students by the afternoon of the students, the students opened the doors and stopped the protest and engaged in the protest.
 
 ...
 
 [Data](articles/9f6d526e.json)
+
+[Extended Data](ext_articles/9f6d526e.ext.json)
 
 ---
 
@@ -140,19 +196,27 @@ Minister Vijayadasa Rajapaksa made this statement at a media briefing held at th
 
 ---
 
-### හිරු එළියෙන් ක්‍රියාත්මක බීජ වියළීමේ පද්ධතියක්
+### A system of drying seeds operating in sunlight
 
 *2024-03-25 20:07:30* · [`adalk`](https://www.ada.lk/breaking_news/හිරු-එළියෙන්-ක්‍රියාත්මක-බීජ-වියළීමේ-පද්ධතියක්/11-408793) · `si`
 
-100%ක් හිරු එළියෙන් ක්‍රියාත්මක බීජ වියළීමේ නව පද්ධතියක් හඳුන්වා දීමට කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය යටතේ ඇති කෘෂි අංශ නවීකරණ ව්‍යාපෘතිය කටයුතු කර තිබේ.
+The Agriculture Sectional Modernization Project introduces a Solar Tunnel Dryer, a 100% sunlight-operated system for drying seeds like maize, green gram, and peas. It uses solar energy, eliminating electricity costs, and covers a warehouse with glass to capture sunlight. Dr. Rehan Wijekon highlights the risk of cactonoxy in drying water, not caffin.
 
-එම පද්ධතියේ අධ්‍යක්ෂ ආචාර්ය රෙහාන් විජේකොන් මහතා සඳහන් කර සිටියේ මෙරට තුළ ප්‍රථම වතාවට ක්‍රියාත්මක මෙම පද්ධතිය 'Solar Tunnel Dryer' ලෙස හඳුන්වන බවයි.
+🟩
 
-බඩඉරිඟු, වී, මුං ඇට, කව්පි, තල, කුරක්කන් හා උඳු වැනි බීජ සඳහා යොදාගන්නා ධාන්‍ය ආරක්ෂිතව වියළීම සඳහා හඳුන්වා දී ඇති මෙම පද්ධතිය, සම්පූර්ණයෙන් හිරු එළියෙන් ජනනය වන විදුලිබලයෙන් ක්‍රියාත්මක වේ. ඊට අමතරව සමස්ත ගබඩාව වීදුරු ආවරණයකින් ආවරණය කර තිබීම හේතුවෙන් ස්වාභාවික හිරුඑළිය මෙන්ම සූර්ය රශ්මියද අඛණ්ඩවම ලැබේ. එසේම රාත්‍රි කාලයට ද බීජ වියළීම සඳහා අවශ්‍ය ප්‍රශස්ත උෂ්ණත්වය කිසිදු වියදමකින් තොරව සූර්ය බලශක්තිය යොදා ගනිමින් ලබා ගැනීමේ හැකියාව පවතී.
+100% The Agriculture Sectional Modernization Project under the Ministry of Agriculture and Plantation Industries have been carried out by 100% to introduce a new system of sunlight drying.
 
-...
+Director of the system Dr. Rehan Wijekon said that this system is known as Solar Tunnel Dryer.
+
+This system, which has introduced to drying the grain for seeds such as maize, green gram, pea, pea, coem, sea, collapses, and collaterals, are being implemented with the electricity generator. In addition, the entire warehouse is covered with a glass cover, the natural sunlight and solar rushes continue. Also, the optimal temperature required for drying the seeds is available using solar energy without any cost.
+
+Speaking further, the director said that it is a risk of caxtonoxy in drying water, but it is not a risk of caffin, but it is not a risk of such a risk.
+
+◼️
 
 [Data](articles/8acb508f.json)
+
+[Extended Data](ext_articles/8acb508f.ext.json)
 
 ---
 
@@ -2211,45 +2275,5 @@ When the female children of fewer than 16 years of age, girls between the ages o
 [Data](articles/b7fa3886.json)
 
 [Extended Data](ext_articles/b7fa3886.ext.json)
-
----
-
-### Sri Lankan PM arrives in China for official visit
-
-*2024-03-25 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98187/sri-lankan-pm-arrives-in-china-for-official-visit) · `en`
-
-Sri Lankan Prime Minister Dinesh Gunawardena arrived in Beijing on Monday for a six-day official visit to China at the invitation of Chinese Premier Li Qiang.
-
-According to Foreign Ministry spokesperson Lin Jian on Friday, Chinese leaders will have in-depth exchange of views with Gunawardena on continuing China-Sri Lanka traditional friendship, deepening political mutual trust, expanding practical cooperation, as well as international and regional issues of common interest.
-
-China and Sri Lanka are neighboring countries that share traditional friendship. Since the establishment of diplomatic ties in 1957, the two countries have always helped each other, setting a good example of equal treatment and friendly coexistence between countries, Lin said.
-
-...
-
-[Data](articles/6db29b18.json)
-
-[Extended Data](ext_articles/6db29b18.ext.json)
-
----
-
-### "Group Conflict led to a reduction in prices"
-
-*2024-03-25 12:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழு-மோதல்-தான்-விலை-குறைப்புக்கு-வழி-வகுத்தது/175-335147) · `ta`
-
-"Group conflict led to a reduction in milk flour prices, as Harsha de Silva revealed a decrease in prices due to a conflict with milk importers. The Public Finance Committee (COPF) refused to increase taxes on Palma, leading to a decline in prices, with a kilogram now priced at Rs 150."
-
-🟩
-
-Harsha de Silva said today that the prices of milk flour have been reduced due to the conflict of the Public Finance Committee (COPF) with milk importers.
-
-"After the conflict in the group, we refused to increase the tax on Palma, and in the absence of formula, we found out the errors of the regulator because of the lack of formula, so the story has made a completely different turn.
-
-Instead of increasing, now prices have declined. De Silva posted on his X page that a kilogram of Rs 150 has declined.
-
-◼️
-
-[Data](articles/55fa0403.json)
-
-[Extended Data](ext_articles/55fa0403.ext.json)
 
 ---

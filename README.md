@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 10:03:33**
+As of **2024-03-25 10:18:14**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,401
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,951 (99.9%) of 14,960 articles have been extended.
+14,960 (100.0%) of 14,960 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,41 +52,59 @@ He said that this would also help eliminate traffickers and fraudsters from the 
 
 [Data](articles/4010a4e8.json)
 
+[Extended Data](ext_articles/4010a4e8.ext.json)
+
 ---
 
-### மாணவன் திடீர் சுகவீனமடைந்து மரணம் ; களனி பல்கலைக்கழகத்தில் ஆர்ப்பாட்டம்
+### The student is suddenly ill and died;Demonstration at the University of Kelani
 
 *2024-03-25 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179613) · `ta`
 
-களனி பல்கலைக்கழகத்தின் வளாகத்தில் இன்று திங்கட்கிழமை (25)  காலை மாணவர்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ளனர்.
+A student's sudden death led to a protest at the University of Kelaniya.
 
-சக மாணவர் ஒருவர் திடீர் சுகவீனமடைந்து உயிரிழந்தமையையடுத்து எதிர்ப்புத் தெரிவித்து குறித்த மாணவர்கள்  ஆர்ப்பாட்டத்தில் ஈடுப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+🟩
+
+Students staged a demonstration on Monday morning (25) at the campus of the University of Kelaniya.
+
+It is reported that the students have been protesting against the sudden death of a fellow student.
 
 ◼️
 
 [Data](articles/57e6d989.json)
 
+[Extended Data](ext_articles/57e6d989.ext.json)
+
 ---
 
-### ඊශ්‍රායල් රැකියා මවා මුදල් ගැරූ හොර දොස්තර දැලේ
+### Southern doctor arrested for sacrificing Israeli jobs
 
 *2024-03-25 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194900) · `si`
 
-කම්කරු හා විදේශ රැකියා අමාත්‍යාංශයේ ඉහළ නිලධාරීන්ගේ නම් භාවිතා කරමින් ඊශ්‍රායලයේ කෘෂිකාර්මික අංශයේ රැකියා ලබා දෙන බව පවසා මුදල් වංචා කළ පුද්ගලයකු අත්අඩංගුවට ගෙන තිබේ.
+A doctor from Wijerama Mawatha, Colombo, was arrested for defrauding Israeli job seekers. He used the Ministry of Labor and Foreign Employment's names. The Sri Lanka Bureau of Foreign Employment's Special Investigation Division arrested him. His wife, involved in the scheme, is hiding. Manusha Nayakara, Labor and Foreign Employment Minister, has called for preventing such frauds.
 
-ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් එම පුද්ගලයාව අත්අඩංගුවට ගත් බව එම කාර්යාංශය නිවේදනය කරයි.
+🟩
 
-අදාළ පුද්ගලයා කොළඹ 07, විජේරාම මාවතේ පදිංචිකරුවෙකු වන අතර, ඔහු වෛද්‍යවරයෙකු ලෙස ද පෙනී සිට ඇත.
+A person who has been arrested in the Agricultural Sector in Israel using the names of the Ministry of Labor and Foreign Employment.
 
-මුදල් ලබාගැනීම සඳහා සැකකරු නාරාහේන්පිට විදේශ රැකියා අමාත්‍යාංශයට හා විදේශ සේවා නියුක්ති කාර්යාංශයටද පුද්ගලයන් කැඳවා තිබේ.
+The Bureau announced that officials were arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment.
 
-සැකකරු මෙසේ පුද්ගලයන් 9 දෙනෙකුගෙන් රුපියල් 7,650,000ක් වංචා කර ඇති බව විමර්ශනවලදී හෙළි වී ඇති අතර මොහුට මුදල් ලබාදුන් පුද්ගලයකු විසින් කරන ලද පැමිණිල්ලක් අනුව කම්කරු හා විදේශ රැකියා අමාත්‍යාංශයේදී මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබිණි.
+The man is a resident of Wijerama Mawatha, Colombo 07, and he was also a doctor.
 
-සැකකරු කොළඹ අංක 5, මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව අප්‍රේල් මස 03 වෙනිදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට මහෙස්ත්‍රාත්වරයා නියෝග කර තිබේ.
+The suspect has been summoned to the Ministry of Foreign Employment and Foreign Employment to obtain money.
+
+Investigations have revealed that the suspect had defrauded Rs.
+
+The Magistrate ordered that the suspect was produced before the Magistrate's Court and the Magistrate's Court.
+
+His wife, who is supporting the racket, is hiding and hides with her arrest.
+
+Labor and Foreign Employment Minister Manusha Nayakara has requested the Minister of Labor and Foreign Employment to prevent money from providing money from providing employment to employment opportunities between the two countries.
 
 ...
 
 [Data](articles/9376bbb4.json)
+
+[Extended Data](ext_articles/9376bbb4.ext.json)
 
 ---
 
@@ -106,21 +124,29 @@ Accordingly, it is reported that around 150 students have launched a protest in 
 
 [Data](articles/b502d571.json)
 
+[Extended Data](ext_articles/b502d571.ext.json)
+
 ---
 
-### வேலையில்லா பிரச்சினை 4.3 சத வீதமாக குறைவு
+### Unemployment issue is less than 4.3 per cent
 
 *2024-03-25 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179612) · `ta`
 
-நாட்டில் கடந்த ஆண்டின் இறுதி காலாண்டில் வேலையில்லா பிரச்சினை 4.3 சதவீதமாக வீழ்ச்சியடைந்துள்ளது.
+Unemployment fell 4.3% in Q4 last year, three times more than Q3 growth, as the country's GDP expanded from 1.6% to 4.5% in Q3, recovering from a foreign exchange shortage in early 2022.
 
-இது மூன்றாம் காலாண்டு வளர்ச்சியை விட மூன்று மடங்கு அதிகமாகும். சனத்தொகை கணக்கெடுப்பு மற்றும்  தொகைமதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் வெளியிட்டுள்ள தகவல்கள் இவ்வாறு தெரிவிக்கின்றன.
+🟩
 
-2022 ஆம் ஆண்டின் முற்பகுதியில் காணப்பட்ட அந்நிய செலாவணி தட்டுப்பாட்டிலிருந்து நாடு மீண்டு வருவம் நிலையில்,  கடந்த வருடத்தின் மூன்றாம் காலாண்டில் 1.6 சதவீதமாக இருந்த நாட்டின் மொத்த உள்நாட்டு உற்பத்தி கடந்த ஆண்டின் நான்காம் காலாண்டில் 4.5 சதவீதமாக விரிவடைந்துள்ளது.
+The unemployment problem fell 4.3 percent in the last quarter of last year.
+
+This is three times more than the third quarter growth. The report issued by the Department of Census and Competition and Statistics.
+
+With the country recovering from foreign exchange shortage in early 2022, the country's GDP expands from 1.6 percent to 4.5 per cent in the third quarter of last year.
 
 ◼️
 
 [Data](articles/2ef86cc3.json)
+
+[Extended Data](ext_articles/2ef86cc3.ext.json)
 
 ---
 
@@ -137,6 +163,8 @@ Public Security Minister Tiran Alas instructed the Inspector General of Police (
 ◼️
 
 [Data](articles/0dabe194.json)
+
+[Extended Data](ext_articles/0dabe194.ext.json)
 
 ---
 
@@ -181,6 +209,8 @@ The Prime Minister and his group departed from the Bandaranaike International Ai
 ◼️
 
 [Data](articles/ed975317.json)
+
+[Extended Data](ext_articles/ed975317.ext.json)
 
 ---
 
@@ -281,6 +311,8 @@ Wind speed may increase up to 40 kmph at times in the sea areas off the coasts e
 ...
 
 [Data](articles/cfe6db76.json)
+
+[Extended Data](ext_articles/cfe6db76.ext.json)
 
 ---
 
@@ -523,6 +555,8 @@ The IMF which included the latest mission said the authorities are making good p
 ...
 
 [Data](articles/97708919.json)
+
+[Extended Data](ext_articles/97708919.ext.json)
 
 ---
 

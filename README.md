@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 06:55:11**
+As of **2024-03-25 07:17:00**
 
 ## Newspaper Stats
 
-*Scraped **14,916** Articles*
+*Scraped **14,927** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,147 @@ dbsjeyarajcom | 191
 newsfirstlk | 363
 economynextcom | 800
 dailyftlk | 806
-islandlk | 820
+islandlk | 830
 adalk | 1,267
 tamilmirrorlk | 1,794
 adaderanalk | 1,797
 virakesarilk | 2,090
-dailymirrorlk | 2,297
+dailymirrorlk | 2,298
 adaderanasinhalalk | 2,393
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,915 (100.0%) of 14,916 articles have been extended.
+14,916 (99.9%) of 14,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### Govt. to enact law to safeguard IMF programme amid political uncertainty
+
+*2024-03-25 06:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-to-enact-law-to-safeguard-IMF-programme-amid-political-uncertainty/108-279511) · `en`
+
+Colombo, March 25 (Daiy Mirror) - Amid fears that the current programme with the International Monetary Fund (IMF) will be derailed in case of a regime change, the government is planning to enact an economic transformation law to ensure sustainability of the project despite political changes, a minister said yesterday.
+
+The International community, particularly the Western countries, has emphasized the importance of continuity with the the economic reform programme supported by a 4-year Extended Fund Facility (EFF) arrangement.
+
+The EFF arrangement was approved by the IMF Executive Board for a total amount of US$3 billion on March 20, 2023.
+
+The IMF which included the latest mission said the authorities are making good progress in implementing an ambitious reform agenda under the EFF with commendable outcomes, including rapid disinflation, robust reserve accumulation, and initial signs of economic growth while preserving the stability of the financial system.
+
+...
+
+[Data](articles/f8fa08c0.json)
+
+---
+
+### HNB empowering Sri Lanka’s agricultural sector
+
+*2024-03-25 04:52:00* · [`islandlk`](http://island.lk/hnb-empowering-sri-lankas-agricultural-sector/) · `en`
+
+Consolidating its efforts to empower farmers and ensure the nation’s food security, Sri Lanka’s leading private sector bank, HNB PLC, launched a comprehensive support system under the HNB Leasing Govi Saviya campaign.
+
+“We are thrilled to launch the ‘HNB Leasing Govi Saviya’ initiative alongside our partners, reaffirming our commitment to every Sri Lankan, from the individual farmer to the large corporations. With nearly half of our nation’s land dedicated to agriculture yet contributing only 6.5% to the GDP, it’s evident that there’s a vast opportunity for growth.
+
+Many farmers rely on ancient practices with no access to modernization and financial resources. HNB Leasing Govi Saviya aims to bridge this gap and address any challenges they may face with targeted support backed by innovative financial solutions. Our collaboration with microfinance officers and leading agricultural companies is crucial as it allows us to understand and meet unique needs.
+
+...
+
+[Data](articles/8eb84e26.json)
+
+---
+
+### Sunshine Holdings PLC announces new leadership appointments
+
+*2024-03-25 04:51:00* · [`islandlk`](http://island.lk/sunshine-holdings-plc-announces-new-leadership-appointments/) · `en`
+
+Sunshine Holdings PLC (CSE: SUN) announced that Aruna Deepthikumara, Michelle Senanayake, Dr. T. Sayandhan and Shantha Bandara, who are Executive Committee members of the Group, have been appointed as Executive Directors.
+
+Commenting on the appointments, Sunshine Holdings Group CEO Shyam Sathasivam said, “We are excited to announce the elevation of Aruna Deepthikumara, Michelle Senanayake, Dr. T. Sayandhan, and Shantha Bandara to the positions of Executive Directors within our Group.”
+
+Aruna Deepthikumara, the Group Chief Financial Officer, has been appointed to the board of Sunshine Holdings PLC. With over two decades of experience, Aruna has a track record of finance leadership, successful business process improvement and cross-functional team leadership.
+
+...
+
+[Data](articles/b029a499.json)
+
+---
+
+### New ADB partnership strategy for Sri Lanka to foster sustainable recovery, build resilience and revive growth
+
+*2024-03-25 04:50:00* · [`islandlk`](http://island.lk/new-adb-partnership-strategy-for-sri-lanka-to-foster-sustainable-recovery-build-resilience-and-revive-growth/) · `en`
+
+The Asian Development Bank (ADB) has launched a new country partnership strategy (CPS) for Sri Lanka covering the period 2024–2028. The strategy will focus on restoring the country’s macroeconomic stability, reviving growth, and establishing the foundation for sustainable recovery and resilience.
+
+“This new partnership strategy will build on ADB’s ongoing assistance to support the country’s efforts to restore macroeconomic stability, and to achieve green and long-term sustainable growth,” said ADB Country Director for Sri Lanka Takafumi Kadono. “The CPS responds to Sri Lanka’s economic situation by tailoring ADB assistance to address the country’s long-standing macroeconomic imbalances and structural impediments through knowledge solutions, policy advisory support, and priority investments.”
+
+...
+
+[Data](articles/a2a6fe71.json)
+
+---
+
+### IIHS launches new study programmes in Psychology, Nutrition and Paramedic disciplines
+
+*2024-03-25 03:08:00* · [`islandlk`](http://island.lk/iihs-launches-new-study-programmes-in-psychology-nutrition-and-paramedic-disciplines/) · `en`
+
+The International Institute of Health Sciences (IIHS), a pioneer in providing specialised education tailored to the evolving needs of the healthcare sector, has introduced several study programmes in Psychology, Nutrition and Paramedic Disciplines.
+
+BSc. (Hons) in Psychology, BSc. (Hons) in Forensic Psychology and BSc. (Hons) in Sports and Exercise Psychology are some of the newly introduced programmes. Aligning with the evolving needs of the healthcare sector, they not only underscore the commitment of IIHS to stay at the forefront of educational evolution in South Asia but also aim to produce highly skilled professionals ready to meet the demands of the healthcare landscape.
+
+...
+
+[Data](articles/204cb9e2.json)
+
+---
+
+### Hitech Concrete Solutions carving an innovative niche in construction industry
+
+*2024-03-25 03:08:00* · [`islandlk`](http://island.lk/hitech-concrete-solutions-carving-an-innovative-niche-in-construction-industry/) · `en`
+
+Hitech Concrete Solutions Pvt Ltd stands as a pioneering company dedicated to elevating standards and reshaping the landscape of infrastructure development.Established with a vision to redefine waterproofing services, structural rehabilitation, and specialty coatings, the company has emerged as a premier provider of high-quality and sustainable solutions tailored to meet the diverse needs of its clients.
+
+The company has been instrumental in delivering iconic projects across various sectors, including infrastructure, condominiums, tunnels and canals, bridges, and highways. This commitment to excellence was demonstrated in the recent Annual Technical Session held at the Mövenpick Hotel Colombo on March 7th, 2024. The occasion served as a testament to Hitech Concrete Solutions’ dedication to driving progress and fostering collaboration within the industry.
+
+...
+
+[Data](articles/727c9806.json)
+
+---
+
+### Industry pioneers promote highly autonomous networks initiative
+
+*2024-03-25 03:08:00* · [`islandlk`](http://island.lk/industry-pioneers-promote-highly-autonomous-networks-initiative/) · `en`
+
+TM Forum held the Autonomous Networks Summit during the Mobile World Congress (MWC). At the summit, industry leaders including George Glass, the CTO of TM Forum; Li Huidi, the Executive Vice President of China Mobile; Yang Chaobin, Huawei’s Board Member and President of ICT Products & Solutions; Juan Manuel Caro, Telefónica’s director of Autonomous Networks and JV’s Technology; Eduardo Panciera, the VP of Network and Service Technology from Telecom Argentina; Aurelio Nocerino, Accenture’s Managing Director and Accenture CFN – Global Solutions Lead for Comms; and Ye Ouyang, the SVP & CTO of AsiaInfo Technologies, together proposed the Level 4 Autonomous Networks industry initiative to accelerate the evolution toward Highly Autonomous Networks.
+
+...
+
+[Data](articles/7b63bcae.json)
+
+---
+
+### Power purchase agreement signed for 10MW solar project by Apollo
+
+*2024-03-25 03:08:00* · [`islandlk`](http://island.lk/power-purchase-agreement-signed-for-10mw-solar-project-by-apollo/) · `en`
+
+The Ministry of Power and Energy entered into a Power Purchase Agreement (PPA) for the project Apollo, between Ceylon Energy Pte Ltd and the Ceylon Electricity Board.
+
+This agreement is for the construction of a ground-mounted solar plant with a generating capacity of 10MW. Ceylon Energy Pte Ltd, stands at the forefront of this initiative. With a commitment to sustainable energy, Ceylon Energy Pte Ltd’s Chairman, Madusanka Fernando, attended the ceremony along with Gratian Muththukudaarachchi, General Manager. Representing the international collaboration, Cai Weifeng, a representative from Quigdao Hujintong Power Equipment Co. Ltd., (HJT) China- an equity partner of the project was also present.
+
+Neptune Recyclers joins with Elephant House to combat plastic pollution
+
+New ADB partnership strategy for Sri Lanka to foster sustainable recovery, build resilience and revive growth
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+...
+
+[Data](articles/e0d38f90.json)
+
+---
 
 ### Gift of life: Transformative steps in Renal Transplants on World kidney day in Sri Lanka
 
@@ -190,19 +314,25 @@ United Kingdom’s Foreign, Commonwealth and Development Office (FCDO) Deputy Ch
 
 ---
 
-### மாணவர்களுக்கு இன்று முதல் காலை உணவு
+### Breakfast for students today
 
 *2024-03-25 01:46:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-இன்று-முதல்-காலை-உணவு/175-335130) · `ta`
 
-முதலாம் தரம் முதல் ஐந்தாம் தரம் வரையான ஆரம்பப்பிரிவில் கல்வி பயிலும் அனைத்து மாணவர்களுக்கும் காலை உணவு வழங்கும் திட்டம் இன்று (25) ஆரம்பிக்கப்படவுள்ளது.
+Today, primary students from 1st to 5th grade will receive breakfast from 7:30-8:30 am, provided in schools with fewer than 100 students.
 
-காலை 7.30 க்கும் 8.30 க்கும் இடையில் இந்த உணவு வழங்கப்படவுள்ளதாக கல்வி அமைச்சர் சுசில் பிரேமஜயந்த குறிப்பிட்டுள்ளார்.
+🟩
 
-இதனிடையே, நூற்றுக்கும் குறைவான மாணவர்கள் கல்வி பயிலும் பாடசாலைகளில் அனைத்து வகுப்பு மாணவர்களுக்கும் இந்த உணவு வழங்கப்படவுள்ளதாக அமைச்சர் தெரிவித்துள்ளார். (a)
+Breakfast for all students studying in the primary section from the first grade to the fifth grade will be launched today (25).
+
+Minister of Education Susil Premajayantha said that the meal will be provided between 7.30 am and 8.30 am.
+
+Meanwhile, the Minister said that the food will be provided to all class students in schools where fewer than one hundred students are studying.. (A)
 
 ◼️
 
 [Data](articles/f697568b.json)
+
+[Extended Data](ext_articles/f697568b.ext.json)
 
 ---
 
@@ -2033,183 +2163,5 @@ The IGP stated that the statement was obtained by the CID tomorrow (25) by the C
 [Data](articles/2341ec4e.json)
 
 [Extended Data](ext_articles/2341ec4e.ext.json)
-
----
-
-### President reveals the greatest plan
-
-*2024-03-24 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194870) · `si`
-
-President Ranil Wickremesinghe outlined a comprehensive plan to revitalize the economy, including a new economic repair program, promoting tourism, and modernizing agriculture. He emphasized the importance of youth involvement and the need to transition from an import-based to an export-based economy. The plan also includes developing rural areas, enhancing tourism, and creating investment zones.
-
-🟩
-
-President Ranil Wickremesinghe said that the government has paid special attention to promote tourism.
-
-President Ranil Wickremesinghe made this statement participating in a friendly speech organized by the "Youth One of the Youth '" Young Unity "at Polonnaruwa yesterday (23).
-
-The President also provides economic recovery only through a new economic repair program and that the execution of the hardships we have experienced inheritance to the future generation will not support the government program.
-
-He recalled that the President who was reminded of the country that was unwilling to accept other politicians were reluctant to accept their political future.
-
-President Ranil Wickremesinghe said that the benefits of the new economic reform process will be given to the people within a few years. Therefore, on which road should he travel towards themselves and the country and to a better future
-
-The President emphasized that the youth of the country should be decided.
-
-...
-
-[Data](articles/fa3477ab.json)
-
-[Extended Data](ext_articles/fa3477ab.ext.json)
-
----
-
-### CID to record statement from ex-President Maithripala over claims on Easter attacks
-
-*2024-03-24 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98167/cid-to-record-statement-from-ex-president-maithripala-over-claims-on-easter-attacks) · `en`
-
-The Criminal Investigation Department (CID) will record a statement tomorrow (March 25) from former President Maithripala Sirisena over the controversial statement he recently made on the Easter Sunday attacks, says IGP Deshabandu Tennakoon.
-
-On Friday (22), former President Maithripala Sirisena had stirred controversy when he claimed he was aware of the true mastermind of the 2019 Easter Sunday terror attacks and that he was prepared to disclose the information to the judiciary if inquired from him or if an order is issued regarding the matter.
-
-Speaking to the media in Kandy, Sirisena said that he is ready to disclose the relevant information and that at the same time, it is the responsibility of the judges to keep the information strictly confidential.
-
-However, Minister of Public Security Tiran Alles had ordered IGP Deshabandu Tennakoon yesterday (23) to conduct an immediate investigation into the statement made by the former President on the Easter Sunday bomb attacks.
-
-...
-
-[Data](articles/2b44ca31.json)
-
-[Extended Data](ext_articles/2b44ca31.ext.json)
-
----
-
-### Sri Lanka’s economy should be main issue in next election - Semasinghe
-
-*2024-03-24 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98166/sri-lankas-economy-should-be-main-issue-in-next-election-semasinghe) · `en`
-
-State Minister of Finance Shehan Semasinghe states that the country’s economy is still not out of danger and that this should be the main focus in the upcoming election.
-
-Speaking to the media in Anuradhapura yesterday (23), the State Minister said a person who possesses the ability to manage the economy and have a clear vision should be elected during the coming election.
-
-“The country’s economy should be the primary issue in the upcoming election. Priority should be given to individuals who possess the ability to manage the economy and have a clear vision, as the economy has yet to recover from its precarious state.”
-
-◼️
-
-[Data](articles/9d0aba2d.json)
-
-[Extended Data](ext_articles/9d0aba2d.ext.json)
-
----
-
-### CID to record statement from Maithripala Sirisena over controversial remark
-
-*2024-03-24 11:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-to-record-statement-from-Maithripala-Sirisena-over-controversial-remark/108-279474) · `en`
-
-Colombo, March 24 (Daily Mirror) - The Criminal Investigation Department (CID) will record a statement from former President Maithripala Sirisena tomorrow regarding his recent remark on the Easter Sunday bombings in 2019 where he claimed that he was “well aware” of the true perpetrators.
-
-Public Security Minister Tiran Alles yesterday ordered IGP Deshabandu Tennakoon to conduct an immediate investigation into the recent remark by the former President.
-
-Accordingly, the IGP ordered the CID to launch a probe into the former President's disclosure.
-
-Former President Maithripala Sirisena on Friday disclosed that he is well aware of the true perpetrators behind the Easter Sunday bombings in 2019.
-
-◼️
-
-[Data](articles/6025bab4.json)
-
-[Extended Data](ext_articles/6025bab4.ext.json)
-
----
-
-### The period of the Election Legislative Commission
-
-*2024-03-24 11:08:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-சட்ட-ஆணைக்குழுவின்-காலம்-நீடிப்பு/175-335083) · `ta`
-
-The Election Legislative Commission's deadline for submitting a final report to the Inquiry Committee, initially set for April 15, has been extended by two months. The new deadline is June 15.
-
-🟩
-
-The government has extended the deadline for submitting a final report to the Inquiry Committee appointed to make recommendations for amendment to the Election Act.
-
-It was previously stated that the committee's recommendations should be made before April 15. This has extended two more months. Accordingly, the report should be handed over on June 15.
-
-◼️
-
-[Data](articles/d24d9b3d.json)
-
-[Extended Data](ext_articles/d24d9b3d.ext.json)
-
----
-
-### Birthday to President Ranil today
-
-*2024-03-24 11:06:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ரணிலுக்கு-இன்று-பிறந்த-தினம்/175-335082) · `ta`
-
-President Ranil Wickremesinghe, born in 1948, celebrates his birthday today. A long-serving parliamentarian and former Prime Minister, he took on the role of Prime Minister when no other party leader would, marking his 47-year tenure in politics.
-
-🟩
-
-President Ranil Wickremesinghe's birthday is today (March 24). Ranil Wickremesinghe was born in 1948 after independence and graduated from the University of Colombo at Royal College, Colombo.
-
-Ranil Wickremesinghe, who contested the Biyagama election in 1977, has subsequently represented the Parliament for 47 years.. President Wickremesinghe, who held the post of Prime Minister six times in the country, bravely accepted the challenges.
-
-After the telephone number, when all party leaders were reluctant to take up the country's prime minister, he assumed responsibility.
-
-◼️
-
-[Data](articles/a0462c6b.json)
-
-[Extended Data](ext_articles/a0462c6b.ext.json)
-
----
-
-### Two arrested with ice drugs worth Rs. 2 million
-
-*2024-03-24 11:03:57* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-2-කට-ආසන්න-වටිනා-අයිස්-මත්ද්‍රව්‍ය--සමග-දෙදෙනෙක්-අත්අඩංගුවට/11-408769) · `si`
-
-Two arrested for transporting Rs. 2 million worth of ice drugs. Colombo Crimes Division took 1580 drugs from suspect Orugodawatta Chappa, a driver. Arrests made outside IGP Tennakoon's directives. Suspects, aged 39-41, to face court. Further investigations underway.
-
-🟩
-
-Colombo Crimes Division says two persons who were transporting nearly Rs.
-
-The main suspect, Orugodawatta Chappa, a suspect. The suspect is a Suspect's driver.
-
-Police have taken 1580 ice drugs from the main suspect's possession
-
-The suspects have been arrested following information to the Colombo Criminal Division to the Colombo Crimes Division outside the orders for the provisions of the IGP Deshabandu Tennakoon's directives and instructions.
-
-The two suspects between the ages of 39 and 41 are to be produced before courts
-
-Police Inspector Pradeep and other officials are conducting further investigations on instructions of the Director of the Colombo Crimes Division
-
-◼️
-
-[Data](articles/9731dd3d.json)
-
-[Extended Data](ext_articles/9731dd3d.ext.json)
-
----
-
-### Woman arrested with ice drug
-
-*2024-03-24 10:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179558) · `ta`
-
-A 36-year-old woman from Akula was arrested by Thalangama police in Vikramasinghepura for possessing 10 grams of Ice, a drug.
-
-🟩
-
-He was arrested on the basis of information received by the Thalangama police of Vikramasinghepura.
-
-10 grams of 700 milligrams of Ice was seized by the police.
-
-The suspect was 36 years old from Akula.
-
-◼️
-
-[Data](articles/578fb613.json)
-
-[Extended Data](ext_articles/578fb613.ext.json)
 
 ---

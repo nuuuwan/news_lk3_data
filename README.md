@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 18:21:04**
+As of **2024-03-25 18:33:44**
 
 ## Newspaper Stats
 
-*Scraped **15,077** Articles*
+*Scraped **15,080** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ economynextcom | 805
 dailyftlk | 806
 islandlk | 831
 adalk | 1,283
-adaderanalk | 1,814
+adaderanalk | 1,815
 tamilmirrorlk | 1,815
 virakesarilk | 2,122
-dailymirrorlk | 2,329
+dailymirrorlk | 2,331
 adaderanasinhalalk | 2,419
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,067 (99.9%) of 15,077 articles have been extended.
+15,077 (100.0%) of 15,080 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### Three injured in luxury bus accident on Kandy-Mahiyanganaya road
+
+*2024-03-25 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98198/three-injured-in-luxury-bus-accident-on-kandy-mahiyanganaya-road) · `en`
+
+A luxury bus has been involved in an accident at the Medamahanuwara twin bends on the Kandy-Mahiyanganaya main road today.
+
+The driver of the bus, its owner and another person who sustained injuries in the accident have been admitted to the Theldeniya Hospital for treatment and were later referred to Peradeniya Hospital.
+
+It was reported that a ‘Suva Sariya’ ambulance which was travelling on the lower road at the time of the accident, had narrowly escaped the collision.
+
+Despite the ensuing chaos, the same ambulance team had promptly responded and rushed the injured individuals to the hospital for medical care.
+
+Further information has been revealed that the luxury bus which was involved in the accident was being transported to Colombo for sale, when the accident had occurred.
+
+◼️
+
+[Data](articles/24fbfd40.json)
+
+---
+
+### CA quashes PCoL recommendations against Ranil, Anura and others
+
+*2024-03-25 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CA-quashes-PCoL-recommendations-against-Ranil-Anura-and-others/108-279566) · `en`
+
+Colombo, March 25 (Daily Mirror) - The Court of Appeal today issued a writ of certiorari, squashing the report, the findings and the recommendations made by the Presidential Commission on Political Victimisation (PCoI) in respect of incumbent President Ranil Wickremesinghe, JVP leader Anura Kumara Dissanayake and several others.
+
+The Presidential Commission on Political Victimisation (PCoI), commonly known as Upali Abeyratne Commission was appointed by former President Gotabaya Rajapaksa.
+
+Court of Appeal three-judge-bench comprising Justice Nissanka Bandula Karunaratne, Justice M. T. M. Lafar and Justice D.M. Samarakoon unanimously held that the report and the findings of PCoI were beyond the scope of legal authority (ultra vires).
+
+...
+
+[Data](articles/652f6643.json)
+
+---
 
 ### Attorney General objects to Keheliya’s bail request
 
@@ -45,6 +81,8 @@ Filing a revision application, the former Health Minister's daughter Chaminthri 
 ...
 
 [Data](articles/01688345.json)
+
+[Extended Data](ext_articles/01688345.ext.json)
 
 ---
 
@@ -66,39 +104,55 @@ The department also advised the public to remain hydrated and take breaks in the
 
 [Data](articles/c9eb809d.json)
 
+[Extended Data](ext_articles/c9eb809d.ext.json)
+
 ---
 
-### மைத்திரியிடம்   6 மணிநேரம் விசாரணை
+### 6 hours trial to Maithri
 
 *2024-03-25 18:03:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியிடம்-6-மணிநேரம்-விசாரணை/175-335169) · `ta`
 
-2019 ஆம் ஆண்டு ஏப்ரல் 21ஆம் திகதியன்று இடம்பெற்ற உயிர்த்த ஞாயிறு தாக்குதல்களை  நடத்தியது யார் என்பது தனக்கு தெரியுமென முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன வெளியிட்ட கருத்து தொடர்பில், குற்றப்புலனாய்வு (சி.ஐ.டி) பிரிவினர், அவரிடம் வாக்குமூலம் பெற்றுள்ளனர்.
+Maithripala Sirisena, former President, has been investigating for 6 hours at the CIT Headquarters regarding the lifeblood Sunday attacks on April 21, 2019. He claims to know who confessed to the attacks. The CIT has called for an inquiry, involving the police chief and Inspector General of Police. Sirisena criticized the Rajapaksa family and emphasized the importance of confidentiality in the investigation.
 
-சி.ஐ.டி தலைமையகத்துக்கு திங்கட்கிழமை (25) காலை 10.30க்கு அழைக்கப்பட்டார். அதனடிப்படையில், அங்குச் சென்ற மைத்திரிபால சிறிசேனவிடம், சுமார் 6 மணிநேரம் விசாரணைக்கு உட்படுத்தி   வாக்குமூலம் பெற்றுக்கொண்டுள்ளனர்.
+🟩
 
-உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில், மைத்திரிபால சிறிசேனவுக்கு எதிராக ஐக்கிய மக்கள் சக்தியால் செய்யப்பட்ட முறைப்பாடு மற்றும் பொலிஸ் மா அதிபர் தேசபந்து தென்னக்கோன் விடுத்துள்ள கட்டளைக்கு அமையவே, சி.ஐ.டியினர் விசாரணைக்கு அழைத்தனர்.
+Former President Maithripala Sirisena's comments that he knows who carried out the lifeblood Sunday attacks on April 21, 2019, has confessed to him.
 
-கண்டியில், வௌ்ளிக்கிழமை (22) இடம்பெற்ற கூட்டமொன்றில் கலந்துகொண்டு உரையாற்றிய முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன, ராஜபக்ச குடும்பத்தினரே நாட்டைப் பாரிய பிரச்சினைக்கு இட்டுச் சென்றனர் என்றும் உயிர்த்த ஞாயிறு தினத் தாக்குதல் நடத்தப்பட்டமை தொடர்பில் அனைவரும் அறிந்துள்ளனர் என்றும் கூறியிருந்தார்.
+Monday (25) was invited to the CIT Headquarters at 10.30 am. Accordingly, Maithripala Sirisena, who went there, has been investigating for about 6 hours.
 
-...
+The CIT has summoned the United People's Power against the life -threatening Sunday attack and the police chief of the police and the Inspector General of Police, Deshabandu Tennakoon, called for an inquiry.
+
+Speaking at a meeting held in Kandy, former President Maithripala Sirisena said that the Rajapaksa family was leading the country's biggest problem and that everyone was aware of the lifeblood Sunday attack.
+
+It is noteworthy that Maithripala Sirisena pointed out that it was the responsibility of the judges to keep it very confidential when he published the information about the creators of the life of the Sunday Day.
+
+◼️
 
 [Data](articles/19feea91.json)
 
+[Extended Data](ext_articles/19feea91.ext.json)
+
 ---
 
-### புனித வெள்ளிக்கிழமையும்  உயிர்த்த ஞாயிறு தினத்தன்றும் பாதுகாப்பை உறுதிப்படுத்த பொலிஸ் மா அதிபர் உத்தரவு!
+### Police Inspector General ordered to ensure security on Holy Friday and on Sunday Day
 
 *2024-03-25 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179696) · `ta`
 
-புனித வெள்ளிக்கிழமையான 29 ஆம் திகதியும்  உயிர்த்த ஞாயிறு தினமான 31 ஆம் திகதியும்  நாட்டிலுள்ள  அனைத்து கிறிஸ்தவ தேவாலயங்களுக்கும் வரும் யாத்திரீகர்கள் மற்றும் அவர்களது பயணப்பொதிகளை சோதனையிடும் விசேட வேலைத்திட்டம் தொடர்பில் கலந்துரையாடி நடைமுறைப்படுத்துமாறு பொலிஸாருக்கு உத்தரவிடப்பட்டுள்ளது.
+The Police Inspector General has ordered increased security for Holy Friday and Sunday, including special programs to test pilgrims' travel packages to Christian churches nationwide.
 
-அனைத்துப் பொலிஸ் பிரிவுகளுக்கும் பொறுப்பான சிரேஷ்ட பொலிஸ் அத்தியட்சகர்களுக்கு பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் இந்த உத்தரவை பிறப்பித்துள்ளார்.
+🟩
 
-இதன்படி, சமூக பொலிஸ் குழுக்கள், அந்தந்த தேவாலயங்களின் பாதிரிமார்கள் மற்றும் அமைப்பாளர்களுடன் இணைந்து வேலைத்திட்டத்தை நடைமுறைப்படுத்தி பாதுகாப்பை உறுதிப்படுத்துமாறு  பொலிஸ் மா அதிபர் சகல பிரிவுகளுக்கும் பொறுப்பான சிரேஷ்ட பொலிஸ் அத்தியட்சகர்களுக்கு பணிப்புரை விடுத்துள்ளார்.
+The police have been ordered to discuss the special program to test the pilgrims and their travel packages to all Christian churches in the country on the 29th of the Holy Friday and the 31st of the country.
+
+The order was issued to the Senior Superintendent of Police in charge of all police divisions.
+
+Accordingly, the Inspector General of Police has issued a directive to the Senior Superintendent of Police in charge of all sections of the Social Police Groups, the priests and organizers of the respective churches.
 
 ◼️
 
 [Data](articles/49f68274.json)
+
+[Extended Data](ext_articles/49f68274.ext.json)
 
 ---
 
@@ -124,39 +178,53 @@ He also said that because of the tense international situation there was little 
 
 [Data](articles/c38b7971.json)
 
+[Extended Data](ext_articles/c38b7971.ext.json)
+
 ---
 
-### රජයේ සේවකයින්ට සුබ ආරංචියක්
+### Good news for public servants
 
 *2024-03-25 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194919) · `si`
 
-රජයේ සේවකයින්ගේ වැඩිකළ වැටුප එළඹෙන අප්‍රේල් මස 10 වනදාට පෙර ලබාදීමට කටයුතු කරන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+"State Minister Ranjith Siyambalapitiya announced an early April 10 increase in public servants' salaries, from Rs 5,000 to Rs 10,000, aiming to provide salary and pension before April 10."
 
-මාධ්‍ය වෙත අදහස් දක්වමින් මුදල් රාජ්‍ය අමාත්‍යවරයා මෙම අදහස් පළකළේය.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා,
+State Minister Ranjith Siyambalapitiya says that the increased salary of public servants will be given earlier in April 10.
 
-"රජයේ සේවකයින්ට වැටුප් රුපියල් 10,000 කින් වැඩිකළා. අපි 5,000 ගෙවාගෙන ආවා. දැන් 10,000ම අප්‍රේල් වැටුපට එකතුකරලා දෙනවා. මේක අපි අප්‍රේල් මාසයේ 10 වනදාට පෙර වැටුප සහ විශ්‍රාම වැටුප ලබාදීමට සූදානම්."
+Speaking to the media, the Minister of Finance made these comments.
+
+State Minister Ranjith Siyambalapitiya said further
+
+"Wages were increased by Rs 10,000 to public servants. We had paid 5,000. Now 10,000 will be added to the year of April. This is about to provide salary and pension before the 10th of April. "
 
 ◼️
 
 [Data](articles/a0981fc6.json)
 
+[Extended Data](ext_articles/a0981fc6.ext.json)
+
 ---
 
-### அம்பாறையில் இரு வாகனங்கள் விபத்தில் சிக்கி நால்வர் காயம்!
+### Four people injured in an accident in Ampara
 
 *2024-03-25 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179695) · `ta`
 
-அம்பாறை மூவங்கலை வீதியில் கெப் வண்டியும் காரொன்றும் மோதி விபத்துக்குள்ளானதில் நால்வர் காயமடைந்து அம்பாறை பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+In Ampara, a car accident on Moovangalai road injured four, who were admitted to Ampara General Hospital. The car, traveling from Hingurana, crashed into a parked car on the sidewalk due to a tire explosion.
 
-கெப் வண்டி ஹிங்குராணையிலிருந்து அம்பாறை நோக்கிச்  சென்று கொண்டிருந்த நிலையில் அதன்  டயர் ஒன்று வெடித்ததால் அதைக் கட்டுப்படுத்த முடியாமல் வீதி ஓரத்தில் நிறுத்தப்பட்டிருந்த  கார் ஒன்றின் மீது மோதியுள்ளது.
+🟩
 
-இதன்போது  கெப் வண்டியில் பயணித்த நால்வர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Four people were injured and admitted to the Ampara General Hospital after a car collided with a car and a car on Moovangalai road in Ampara, police said.
+
+The car was traveling from Hingurana to Ampara and crashed into a car parked on the sidewalk as a tire exploded.
+
+Four people who were traveling in a cab were injured and admitted to the hospital, police said.
 
 ◼️
 
 [Data](articles/2e7cb64b.json)
+
+[Extended Data](ext_articles/2e7cb64b.ext.json)
 
 ---
 
@@ -173,6 +241,8 @@ Public Security Minister Tiran Alas had earlier instructed the Inspector General
 ◼️
 
 [Data](articles/57662bd2.json)
+
+[Extended Data](ext_articles/57662bd2.ext.json)
 
 ---
 
@@ -224,17 +294,23 @@ Additionally, misty conditions can be expected at some places in Central, Sabara
 
 ---
 
-### குழந்தைகளுக்காக அரசியல் கட்சியை தொடங்கிய யோகி பாபு
+### Yogi Babu started the political party for children
 
 *2024-03-25 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179684) · `ta`
 
-தமிழின் ஒப்பற்ற நகைச்சுவை நட்சத்திர நடிகர்களான செந்தில் மற்றும் யோகி பாபு ஆகிய இருவரும் கதையின் நாயகர்களாக நடிக்கும் புதிய திரைப்படத்திற்கு, 'குழந்தைகள் முன்னேற்ற கழகம்' என பெயரிடப்பட்டு, அதன் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. இதனை நகைச்சுவை நட்சத்திர நடிகரான யோகி பாபு அவருடைய இணைய பக்கத்தில் வெளியிட்டு படக்குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+Yogi Babu, a comedian, started a political party for children. The new movie, 'Children's Progress Corporation', features him and Tamil hero Senthil. Directed by Senthil, it's about children's politics, produced by Arun Kumar and Shankar Dayal. The film's title and first look have excited fans.
 
-'சகுனி' எனும் அரசியல் சார்ந்த திரைப்படத்தை இயக்கிய Director N. Shankar Dayal இயக்கத்தில் உருவாகி வரும் 'குழந்தைகள் முன்னேற்ற கழகம்' எனும் திரைப்படத்தில் செந்தில், யோகி பாபு, சுப்பு பஞ்சு, லிசி ஆண்டனி, அஸ்மிதா, அகல்யா வெங்கடேசன், நன்னன், அத்வைத், சோனியா போஸ், பவா செல்லதுரை உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஜெ. லட்சுமன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'சாதக பறவைகள்' சங்கர் இசையமைத்திருக்கிறார். குழந்தைகளைப் பற்றிய அரசியலை மையப்படுத்தி உருவாகி இருக்கும் இந்த படத்தை மீனாட்சி அம்மன் மூவிஸ் எனும் பட நிறுவனம் சார்பில் தயாரிப்பாளர் அருண்குமார் சம்பந்தம் மற்றும் இயக்குநர் சங்கர் தயாள் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+🟩
+
+The new movie starring the hero of Tamil, Senthil and Yogi Babu, the unique comedian star actors of Tamil, has been named 'Children's Progress Corporation' and its first look has been released.. Comedy star Yogi Babu posted this on his web page and congratulated the film crew.
+
+Directed by Director n. Senthil, Yogi Babu, Chuppu Panchu, Lizzie Antony, Azmita, Akalya Venkatesan, Nannan, Advid, Sonia Bose, Bawa Chelladurai. To be a. The film, which has been recorded by Lakshman, has composed the film 'Prospect Birds' Shankar. The film, which is based on the politics of children, has been produced by producer Arun Kumar and Director Shankar Dayal on behalf of Meenakshi Amman Movies.
 
 ...
 
 [Data](articles/6783838e.json)
+
+[Extended Data](ext_articles/6783838e.ext.json)
 
 ---
 
@@ -588,6 +664,8 @@ He was accompanied by Sri Lankan High Commissioner in Kenya Kana Kananathan, Gen
 
 [Data](articles/c2c6ddd8.json)
 
+[Extended Data](ext_articles/c2c6ddd8.ext.json)
+
 ---
 
 ### Moscow concert that became a massacre of gun raws and panic
@@ -911,6 +989,18 @@ Furthermore, the magistrate had ordered them to be remanded in custody until the
 [Data](articles/d8badfaf.json)
 
 [Extended Data](ext_articles/d8badfaf.ext.json)
+
+---
+
+### Demand for release of arrested protesters
+
+*2024-03-25 15:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Demand-for-release-of-arrested-protesters/110-279556) · `en`
+
+The Joint Trade Union Federation today staged a protest in front of the Fort Railway station calling the authorities to release everyone who were arrested during a previous protest on March 20. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/ef615f3c.json)
 
 ---
 
@@ -2153,79 +2243,5 @@ It was reported that the organizers had taken steps to suspend the tournament.
 [Data](articles/c6dcbe5e.json)
 
 [Extended Data](ext_articles/c6dcbe5e.ext.json)
-
----
-
-### We will not allow the implementation of the new parliamentary election before the presidential election - Anuragumara in Canada
-
-*2024-03-25 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179623) · `ta`
-
-Anuragumara Dissanayake in Canada opposes implementing new parliamentary election rules before the presidential election, fearing government loss of power. He criticizes the government's attempt to avoid national elections, citing a JVP leader's plan to hold parliamentary elections before the presidential election. Dissanayake mentions the constitutional requirement for the President to dissolve Parliament after two and a half years, and the historical timing of presidential elections.
-
-🟩
-
-Anurakumara Dissanayake in Canada says the national people's power will not accept the changes in the parliamentary election before the presidential election.
-
-He said the national people would not allow the government to implement the proposed constitutional reforms for the parliamentary electoral system before the presidential election.
-
-Speaking among the Sri Lankan residents in Canada, he said that the government is in every effort to avoid the national election at this moment, Anuragumara Dissanayake said.
-
-They are doing this because they are afraid that they are going to lose the high level.
-
-The government has now submitted a cabinet paper to introduce the new electoral system in Canada, saying that they are afraid of handing over power into the hands of the people.We are guaranteed that the government will not allow the government to carry out it before the presidential election.
-
-...
-
-[Data](articles/838b1c1d.json)
-
-[Extended Data](ext_articles/838b1c1d.ext.json)
-
----
-
-### Demonstration at the University of Kelaniya
-
-*2024-03-25 10:43:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களனிப்-பல்கலைக்கழகத்தில்-ஆர்ப்பாட்டம்/175-335142) · `ta`
-
-Students at the University of Kelaniya protest the death of a student due to sudden illness, alleging a lack of ambulance or vehicles to transport the victim to the hospital.
-
-🟩
-
-A group of students of the University of Kelaniya are currently protesting in front of the university administration building over the death of a student due to sudden illness.
-
-A total of 150 students gathered in front of the university administration building this morning.
-
-They said that a fourth -year student at the university was admitted to the hospital last night due to sudden illness.
-
-University students allege that the student was delayed at the hospital due to the lack of ambulance or other vehicles on the campus to take the victim to the hospital.
-
-◼️
-
-[Data](articles/9bfc6dd3.json)
-
-[Extended Data](ext_articles/9bfc6dd3.ext.json)
-
----
-
-### Kelani Student Death: Demonstration against
-
-*2024-03-25 10:43:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களனி-மாணவன்-மரணம்-எதிர்த்து-ஆர்ப்பாட்டம்/175-335142) · `ta`
-
-Students at the University of Kelaniya protest the death of a student due to sudden illness, alleging a lack of ambulance service on campus.
-
-🟩
-
-A group of students of the University of Kelaniya are currently protesting in front of the university administration building over the death of a student due to sudden illness.
-
-A total of 150 students gathered in front of the university administration building this morning.
-
-They said that a fourth -year student at the university was admitted to the hospital last night due to sudden illness.
-
-University students allege that the student was delayed at the hospital due to the lack of ambulance or other vehicles on the campus to take the victim to the hospital.
-
-◼️
-
-[Data](articles/fc79be14.json)
-
-[Extended Data](ext_articles/fc79be14.ext.json)
 
 ---

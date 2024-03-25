@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 09:18:00**
+As of **2024-03-25 09:33:37**
 
 ## Newspaper Stats
 
-*Scraped **14,946** Articles*
+*Scraped **14,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 1,797
 adaderanalk | 1,800
 virakesarilk | 2,090
 dailymirrorlk | 2,302
-adaderanasinhalalk | 2,399
+adaderanasinhalalk | 2,400
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,946 (100.0%) of 14,946 articles have been extended.
+14,946 (100.0%) of 14,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### කැලණියේ සරසවි සිසුවෙක් හදිසි අසනීපයකින් මරුට
+
+*2024-03-25 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194899) · `si`
+
+කැලණිය විශ්විවිද්‍යාලයේ සිසුන් පිරිසක් එහි පරිපාලන ගොඩනැගිල්ල ඉදිරිපිට විරෝධතාවක් ආරම්භ කර තිබේ.
+
+කැලණිය විශ්වවිද්‍යාලයේ සිව්වන වසරේ ඉගෙනුම ලබන සිසුවෙකු ඊයේ (24) රාත්‍රි ඇතිවු හදිසි අසනීප තත්ත්වයක් හේතුවෙන් රෝහල්ගත කිරීමෙන් පසු මියගොස් ඇති බව සඳහන්ය.
+
+කෙසේවෙතත් අදාළ සිසුවා රෝහලට ඇතුළත් කිරීම සඳහා අවශ්‍ය ගිලන්රථ පහසුකම හෝ වෙනත් වාහනයක් විශ්වවිද්‍යාලය තුළ නොතිබීම හේතුවෙන් ඔහු රෝහල්ගත වීම ප්‍රමාද වු බවට විශ්වවිද්‍යාල සිසුන් චෝදනා කරයි.
+
+ඒ අනුව මේ වන විට සිසුන් 150 දෙනෙකු පමණ විශ්වවිද්‍යාල පරිපාලන ගොඩනැගිල්ල ඉදිරිපිට විරෝධතාවක් ආරම්භ කර ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/659d81a3.json)
+
+---
 
 ### Four persons arrested for Moscow attack is indictment
 
@@ -2187,23 +2205,5 @@ Officials of the Police Media Spokesperson DIG's Court Attorney Nihal Talduuwa m
 [Data](articles/51743d54.json)
 
 [Extended Data](ext_articles/51743d54.ext.json)
-
----
-
-### Maithripala now contradicting his remark, launch immediate probe: NPP
-
-*2024-03-24 14:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maithripala-now-contradicting-his-remark-launch-immediate-probe-NPP/108-279477) · `en`
-
-Colombo, March 24 (Daily Mirror)- Claiming that former President Maithripala Sirisena is now contradicting his recent statement that he was well aware of the true perpetrators of the Easter Sunday bombings, NPP MP Vijitha Herath today urged the government to launch an immediate probe over the remark as it is a serious statement to have been made by the then Head of State and Minister of Defence.
-
-He told a news conference that the true story behind the Easter Sunday attacks should not be a secret and that the whole country should know it.
-
-"We urge Sirisena to reveal what he knows to the country. The government must also launch an immediate probe into his statement. It is already too late. The statement was made last Friday. They should have acted swiftly and recorded a statement," he said.
-
-...
-
-[Data](articles/fa73bcf2.json)
-
-[Extended Data](ext_articles/fa73bcf2.ext.json)
 
 ---

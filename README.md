@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 13:03:11**
+As of **2024-03-25 13:17:54**
 
 ## Newspaper Stats
 
-*Scraped **14,999** Articles*
+*Scraped **15,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,127 @@ economynextcom | 805
 dailyftlk | 806
 islandlk | 831
 adalk | 1,273
-adaderanalk | 1,805
-tamilmirrorlk | 1,807
+adaderanalk | 1,807
+tamilmirrorlk | 1,809
 virakesarilk | 2,102
 dailymirrorlk | 2,312
-adaderanasinhalalk | 2,405
+adaderanasinhalalk | 2,407
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,998 (100.0%) of 14,999 articles have been extended.
+14,999 (100.0%) of 15,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### මුහුණු පොතෙන් තරුණියකගෙන් ලිංගික අල්ලස් ඉල්ලූ තරුණයා අත්අඩංගුවට
+
+*2024-03-25 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194906) · `si`
+
+ෆේස්බුක් සමාජ මාධ්‍යයේ ව්‍යාජ ගිණුම් නිර්මාණය කරමින් රාගම තරුණියකගෙන් ලිංගික අල්ලස් ඉල්ලූ 21 හැවිරිදි තරුණයෙක් පිළියන්දල පොලීසිය අත්අඩංගුවට ගෙන තිබේ.
+
+සැකකරුට ව්‍යාජ ෆේස්බුක් ගිණුම් 50ක් පමණ ඇති අතර ඒ ඔස්සේ තරුණියන් රැසකගෙන්ම ලිංගික අල්ලස් ඉල්ලා ඇති බව පොලිස් විමර්ශනවලදී අනාවරණ වී ඇත.
+
+රාගම ප්‍රදේශයේ පදිංචිව සිටින 22 හැවිරිදි තරුණියකගේ ෆේස්බුක් ගිණුමේ වසර දෙකක පමණ කාලයක් මිතුරෙකු ලෙස සිටි තරුණයෙක් ඇයට අවස්ථා කිහිපයකදීම ආදර සබඳතාවයක් ආරම්භ කිරීමට යෝජනා කර තිබුණු අතර ඇය එම ආරාධනය ප්‍රතික්ෂේප කර තිබුණි.
+
+මේ අතරවාරයේ එම තරුණිය සිය පෙම්වතා සමග ඔවුන් දෙදෙනාගේ ඡායාරූපද ෆේස්බුක් වෙත එක් කර තිබිණි.
+
+එම ඡායාරූප දැක උරුණ වූ ඇයට කැමැත්තෙන් සිටි තරුණයා, ව්‍යාජ කාන්තා ෆේස්බුක් ගිණුමක් ඔස්සේ තරුණියට පණිවුඩයක් යොමු කර තිබුණේ ඇගේ නිරුවත් ඡායාරූප ඇතුළත් වෙබ් අඩවියක Link එකක් සමගයි.
+
+නමුත් එම Link එක විවෘත නොකළ තරුණිය එය සිය පෙම්වතාට යවා ඇත්තේ එය පරීක්ෂා කර බලන ලෙස ඉල්ලමිනි.
+
+පසුව ඇගේ පෙම්වතා එම Link එක විවෘත කිරීමත් සමග පෙම්වතාගේ ෆේස්බුක් ගිණුමට අනවසරයෙන් ප්‍රවේශ වීමට සැකකාර තරුණයාට අවස්ථාව උදාවී තිබේ.
+
+...
+
+[Data](articles/fb4b6160.json)
+
+---
+
+### Price of a cup of milk tea reduced
+
+*2024-03-25 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98188/price-of-a-cup-of-milk-tea-reduced) · `en`
+
+The price of a cup of milk tea has been reduced by Rs. 10, the All-Island Restaurant Owners’ Association announced today.
+
+This decision has been taken as a result of the government’s decision to reduce the price of imported milk powder with effect from midnight yesterday (24), it said.
+
+On Sunday, Minister of Trade Nalin Fernando said that the price of a packet of milk powder weighing 1 kilogram will be reduced by Rs. 150 while the 400 gram packet will be reduced by Rs. 60.
+
+◼️
+
+[Data](articles/57e4bca6.json)
+
+---
+
+### தேயிலை செடிகளுக்குள் ஓடிய வௌ்ளை கார்
+
+*2024-03-25 12:45:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேயிலை-செடிகளுக்குள்-ஓடிய-வௌ்ளை-கார்/76-335149) · `ta`
+
+அதிவேகமாக வந்த காரொன்று வீதியை விட்டு விலகி தேயிலை செடிகளுக்குள் புகுந்தோடி து விபத்துக்கு உள்ளாகியுள்ளதாக திம்புள்ள- பத்தனை பொலிஸார் தெரிவித்தனர்.
+
+ஹட்டன்- நுவரெலியா பிரதான வீதியில் கொட்டகலை எரிபொருள் நிரப்பு நிலையத்திற்கு அருகில், திங்கட்கிழமை (25) காலை 08 மணியளவில் இந்த சம்பவம் இடம்பெற்றுள்ளது.
+
+கொட்டகலையில் இருந்து ஹட்டன் நோக்கி கார் அதிவேகமாக செலுத்தப்பட்டுள்ளது. அப்போது நாயொன்று  வீதியை கடக்க முட்பட்டுள்ளத, நாயை காப்பாற்றும் முயற்சியால் சாரதியின் கட்டுப்பாட்டை இழந்த கார்  தேயிலை செடிகளுக்குள் சென்றுவிட்டது.
+
+விபத்தின் போது, ​​காரில் நான்கு பேர் இருந்தனர், அவர்களில் யாருக்கும் காயம் ஏற்படவில்லை எனத் தெரிவித் பொலிஸார் கார் பலத்த சேதமடைந்ததுள்ளது என்றனர்.
+
+◼️
+
+[Data](articles/91522cac.json)
+
+---
+
+### කිරි තේ මිල පහළට
+
+*2024-03-25 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194905) · `si`
+
+කිරි තේ එකක මිල රුපියල් 10කින් අඩු කිරීමටද සමස්ත ලංකා ආපනශාලා හිමියන්ගේ සංගමය පියවර ගෙන තිබේ.
+
+ඊයේ (24) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ආනයනික කිරිපිටිවල මිල ගණන් පහළ දැමීමට රජය කටයුතු කිරීම හේතුවෙන් එම තීරණය ගෙන ඇත.
+
+ඒ අනුව ඊයේ මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ආනයනික කිරිපිටි කිලෝග්‍රෑම් 1ක පැකැට්ටුවක මිල රුපියල් 150කින්ද, ග්‍රෑම් 400ක ආනයනික කිරිපිටි පැකැට්ටුවක මිල රුපියල් 60කින්ද පහළ දැමීමට තීරණය කෙරුණි.
+
+◼️
+
+[Data](articles/0300d33f.json)
+
+---
+
+### Sri Lankan PM arrives in China for official visit
+
+*2024-03-25 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98187/sri-lankan-pm-arrives-in-china-for-official-visit) · `en`
+
+Sri Lankan Prime Minister Dinesh Gunawardena arrived in Beijing on Monday for a six-day official visit to China at the invitation of Chinese Premier Li Qiang.
+
+According to Foreign Ministry spokesperson Lin Jian on Friday, Chinese leaders will have in-depth exchange of views with Gunawardena on continuing China-Sri Lanka traditional friendship, deepening political mutual trust, expanding practical cooperation, as well as international and regional issues of common interest.
+
+China and Sri Lanka are neighboring countries that share traditional friendship. Since the establishment of diplomatic ties in 1957, the two countries have always helped each other, setting a good example of equal treatment and friendly coexistence between countries, Lin said.
+
+...
+
+[Data](articles/6db29b18.json)
+
+---
+
+### ”குழு மோதல் தான் விலை குறைப்புக்கு வழி வகுத்தது”
+
+*2024-03-25 12:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழு-மோதல்-தான்-விலை-குறைப்புக்கு-வழி-வகுத்தது/175-335147) · `ta`
+
+பால்மா இறக்குமதியாளர்களுடன் பொது நிதிக் குழுவின் (COPF) மோதலால் பால் மாவின் விலைகள் குறைக்கப்பட்டுள்ளதாக அதன் தலைவர் ஹர்ஷ டி சில்வா இன்று தெரிவித்தார்.
+
+"குழுவில் நடந்த மோதலுக்குப் பிறகு, பால்மா மீதான வரியை அதிகரிக்க நாங்கள் மறுத்துவிட்டோம், மேலும் சூத்திரம் இல்லாத நிலையில் சந்தைப் போட்டியின்மையால் சீராக்கியின் பிழைகளைக் கண்டறிந்தோம், அதனால் கதை முற்றிலும் மாறுபட்ட திருப்பத்தை ஏற்படுத்தியுள்ளது.
+
+அதிகரிப்புக்கு பதிலாக, இப்போது விலைகள் குறைந்துள்ளன. ஒரு கிலோகிராம் ரூபாய் 150இனால் குறைந்துள்ளது என  டி சில்வா தனது X பக்கத்தில் பதிவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/55fa0403.json)
+
+---
 
 ### STF occupies the cell phone concealed Kumara
 
@@ -56,15 +162,21 @@ It is reported that the mobile phone and other matters have been placed in the c
 
 ---
 
-### சீனாவை சென்றடைந்தார் பிரதமர்
+### The Prime Minister reached China
 
 *2024-03-25 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/179641) · `ta`
 
-சீன அரசின்  உத்தியோகபூர்வ அழைப்பையேற்று பிரதமர் தினேஷ் குணவர்தன இன்று திங்கட்கிழமை (25)  காலை  சீனாவின் பீஜிங் நகரை  சென்றடைந்தார்.
+Prime Minister Dinesh Gunawardena arrived in Beijing, China on Monday morning.
+
+🟩
+
+Prime Minister Dinesh Gunawardena arrived in Beijing, China on Monday morning (25).
 
 ◼️
 
 [Data](articles/759b9089.json)
+
+[Extended Data](ext_articles/759b9089.ext.json)
 
 ---
 
@@ -2091,135 +2203,5 @@ Established in 1839, initially to cater to the needs of the plantation industry,
 [Data](articles/d6972b2b.json)
 
 [Extended Data](ext_articles/d6972b2b.ext.json)
-
----
-
-### Sri Lankans vote Dialog as Telecommunication Brand for 13th year
-
-*2024-03-25 00:52:09* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankans-vote-Dialog-as-Telecommunication-Brand-for-13th-year/34-759866) · `en`
-
-“SLIM-Kantar People’s Awards 2024 – Telecommunication Brand of the Year”, accepted by Dialog Axiata Group Chief Marketing Officer Lasantha Theverapperuma
-
-DIALOG Axiata PLC has been voted the ‘Telecommunication Brand of the Year’ for a record 13th year by Sri Lankan consumers at the SLIM-Kantar People’s Awards 2024.
-
-Organised by the Sri Lanka Institute of Marketing (SLIM), the national body for marketing in Sri Lanka, the awards aim to recognise brands that have made a profound impression in the minds of Sri Lankans.
-
-Voted for by Sri Lankan consumers, the win acts as a testament to Dialog’s continued commitment to excellence in service as well as their role in innovation and the country’s digital transformation.
-
-...
-
-[Data](articles/15ac8f26.json)
-
-[Extended Data](ext_articles/15ac8f26.ext.json)
-
----
-
-### SLFEA appoints JAT as facilitation partner to train painters for overseas employment
-
-*2024-03-25 00:51:01* · [`dailyftlk`](https://www.ft.lk/business/SLFEA-appoints-JAT-as-facilitation-partner-to-train-painters-for-overseas-employment/34-759865) · `en`
-
-Building on the exceptional success of the JAT Pintharoo Abhiman program, JAT Holdings PLC – Sri Lanka’s market leader in wood coatings and brushes – recently entered into a Memorandum of Cooperation (MoC) with the Sri Lanka Foreign Employment Agency Ltd. (SLFEA). The partnership will allow JAT and SLFEA to collaborate towards identifying qualified Sri Lankan painters and wood craftsmen and equipping them with the training and skills necessary to suit the labour market overseas.
-
-Accordingly, the SLFEA will identify suitable foreign employment opportunities and outline the training and skills requirements for these roles. JAT will facilitate the training process for painters and wood craftsmen, and equip them with other necessary skills required for foreign employment. The two organisations will work together, with SLFEA guiding the entire process in accordance with guidelines laid down by the Sri Lanka Bureau of Foreign Employment.
-
-...
-
-[Data](articles/420a777d.json)
-
-[Extended Data](ext_articles/420a777d.ext.json)
-
----
-
-### Pathfinder’s webinar on “Sri Lanka’s path to RCEP membership: Unlocking new horizons” on Wednesday
-
-*2024-03-25 00:50:11* · [`dailyftlk`](https://www.ft.lk/business/Pathfinder-s-webinar-on-Sri-Lanka-s-path-to-RCEP-membership-Unlocking-new-horizons-on-Wednesday/34-759864) · `en`
-
-The Government of Sri Lanka has officially submitted a letter of intent to join the Regional Comprehensive Economic Partnership (RCEP), the world’s largest trade bloc.
-
-This strategic step is set to pave the way for broader access to markets, increased trade, and robust economic growth for Sri Lanka amidst the dynamic landscape of global commerce.
-
-To delve deeper into the myriad of opportunities and challenges this accession presents, a webinar titled “Sri Lanka’s Accession to RCEP: Opportunities and Challenges – Learnings from Existing Member Countries” is scheduled for Wednesday, 27 March.
-
-This event is a collaborative effort between the Pathfinder Foundation Sri Lanka and the Institute of South Asian Studies at the National University of Singapore (NUS), alongside APTA CCI.
-
-...
-
-[Data](articles/61296e76.json)
-
-[Extended Data](ext_articles/61296e76.ext.json)
-
----
-
-### Luminex-Puritas JV secures Mallavi Urban Water Supply Scheme contract in Mullaitivu
-
-*2024-03-25 00:48:13* · [`dailyftlk`](https://www.ft.lk/business/Luminex-Puritas-JV-secures-Mallavi-Urban-Water-Supply-Scheme-contract-in-Mullaitivu/34-759863) · `en`
-
-Luminex PLC, in collaboration with Puritas has signed the contract to execute the project implemented by the Ministry Of Water Supply, Infrastructure Development Water Supply & Sanitation Improvement Project.
-
-This project, the Mallavi Urban Water Supply Scheme in Mullaitivu District, involves water supply and sanitation improvement and is expected to be completed by 30 June, 2025 according to the agreement.
-
-The project awarded to the joint venture company is indicative of Luminex’ continued efforts to expand its business operations and further establish itself as a key player in the construction of water supply projects.
-
-“We believe that this project will contribute positively to our company’s financial performance and enhance shareholder value in the long term. We are committed to providing regular updates on the progress of this project and any material developments that may impact our operations or financial standing,” Luminex said in a filing to the Colombo Stock Exchange.
-
-◼️
-
-[Data](articles/178f6ba3.json)
-
-[Extended Data](ext_articles/178f6ba3.ext.json)
-
----
-
-### Central Bank to revisit regulatory sandbox framework
-
-*2024-03-25 00:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-to-revisit-regulatory-sandbox-framework/108-279504) · `en`
-
-The Central Bank (CB) is planning to revisit the framework of its regulatory sandbox, relaxing some of stringent rules, after the initiative failed to gain traction among fintech players over the past four years.
-
-According to CB Payments and Settlements Department Additional Director Manisha Wimalasuriya, about six applications have been received so far and the most recent one was to do with AI.
-
-“We wanted them to come with an audit report and they thought it was too expensive, because they weren’t sure the product would be brought into the market or not. So, we haven’t had any party graduating from sandbox,” Wimalasuriya said while speaking at BankTech Asia 2024: Colombo Series last week.
-
-The CB unveiled the regulatory sandbox to run innovative fintech experiments which can be released to the market after testing and gaining approval.
-
-...
-
-[Data](articles/7c760281.json)
-
-[Extended Data](ext_articles/7c760281.ext.json)
-
----
-
-### Gujarat beat Mumbai by 6 runs five times
-
-*2024-03-25 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179608) · `ta`
-
-Gujarat Titans beat Mumbai Indians 5 times in IPL, with Gujarat scoring 168/6. Key performers for Gujarat included Sai Sudarshan, Azmatullah Omerzai, and Shubman Kill. Mumbai lost 9 wickets for 142 runs, with Rohit Sharma and Divold Brevis shining.
-
-🟩
-
-Gujarat Titans won the Mumbai Indians 5 times in the most exciting Indian Premier League cricket match at Narendra Modi Stadium on Sunday (24).
-
-Mumbai's victory needed 27 runs to remain 5 wickets in the last 2 overs.
-
-But in the 19th over, Spencer Johnson scored only 8 runs and took 2 wickets.
-
-Umesh Yadav, who scored 12 runs in the next over, won 2 wickets, including the wicket of Action player Hardik Pandya.
-
-Gujarat Titans, who were first invited to bat in the match, scored 168 runs for the loss of six wickets in 20 overs.
-
-This is the lowest total of the team that first won the five -match chapter in the 17th Indian Premier League Chapter.
-
-On behalf of the Gujarat Titans, 6 players scored double digit numbers, but only the trio scored more than 20 runs.
-
-Sai Sudarshan and Azmatullah Omerzai were the best in the Gujarat innings in the 3rd wicket.
-
-Shubman Kill scored 31 runs, Rahul Thevatia 22, Ritiman Saha 19 and Azmatullah Omarzai 17 runs.
-
-...
-
-[Data](articles/952b9d5a.json)
-
-[Extended Data](ext_articles/952b9d5a.ext.json)
 
 ---

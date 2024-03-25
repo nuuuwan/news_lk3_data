@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 15:33:22**
+As of **2024-03-25 15:51:44**
 
 ## Newspaper Stats
 
-*Scraped **15,030** Articles*
+*Scraped **15,032** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ adalk | 1,278
 adaderanalk | 1,810
 tamilmirrorlk | 1,811
 virakesarilk | 2,108
-dailymirrorlk | 2,318
-adaderanasinhalalk | 2,410
+dailymirrorlk | 2,319
+adaderanasinhalalk | 2,411
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,029 (100.0%) of 15,030 articles have been extended.
+15,030 (100.0%) of 15,032 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### School meal programme launched
+
+*2024-03-25 15:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/School-meal-programme-launched/110-279555) · `en`
+
+The official event to mark the beginning of the 2024 school meal programme was held today (25) at the Sujatha Girls' College in Narahenpita under the patronage of President Ranil Wickremesinghe and with the participation of Education Minister Susil Premajayantha.
+
+◼️
+
+[Data](articles/59fe336d.json)
+
+---
+
+### හිටපු ඇමති කෙහෙළියට අධිකරණයෙන් ලැබුණු නියෝගය
+
+*2024-03-25 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194910) · `si`
+
+රිමාන්ඩ් බන්ධනාගාරගතකර සිටින හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇප මත මුදාහරින්නැයි ඉල්ලා ගොනුකර තිබූ ප්‍රතිශෝධන පෙත්සමේ නියෝගය අප්‍රේල් මස 03 වනදා ප්‍රකාශයට පත්කරන බව කොළඹ මහාධිකරණය නිවේදනය කර තිබේ.
+
+දීර්ඝ කරුණුවිමසා බැලීමකින් අනතුරුව කොළඹ මහාධිකරණ විනිසුරු සුජීව නිශ්ශංක මහතා මෙම තීන්දුව ලබා දී තිබුණි.
+
+◼️
+
+[Data](articles/18c31c20.json)
+
+---
 
 ### UN chief says there is growing consensus to tell Israel that a ceasefire is needed
 
@@ -43,6 +69,8 @@ U.N. Secretary-General Antonio Guterres said during a visit to Jordan on Monday 
 ◼️
 
 [Data](articles/a377745b.json)
+
+[Extended Data](ext_articles/a377745b.ext.json)
 
 ---
 
@@ -2229,35 +2257,5 @@ Aruna Deepthikumara, the Group Chief Financial Officer, has been appointed to th
 [Data](articles/b029a499.json)
 
 [Extended Data](ext_articles/b029a499.ext.json)
-
----
-
-### New ADB partnership strategy for Sri Lanka to foster sustainable recovery, build resilience and revive growth
-
-*2024-03-25 04:50:00* · [`islandlk`](http://island.lk/new-adb-partnership-strategy-for-sri-lanka-to-foster-sustainable-recovery-build-resilience-and-revive-growth/) · `en`
-
-The Asian Development Bank (ADB) has launched a new country partnership strategy (CPS) for Sri Lanka covering the period 2024–2028. The strategy will focus on restoring the country’s macroeconomic stability, reviving growth, and establishing the foundation for sustainable recovery and resilience.
-
-“This new partnership strategy will build on ADB’s ongoing assistance to support the country’s efforts to restore macroeconomic stability, and to achieve green and long-term sustainable growth,” said ADB Country Director for Sri Lanka Takafumi Kadono. “The CPS responds to Sri Lanka’s economic situation by tailoring ADB assistance to address the country’s long-standing macroeconomic imbalances and structural impediments through knowledge solutions, policy advisory support, and priority investments.”
-
-...
-
-[Data](articles/a2a6fe71.json)
-
-[Extended Data](ext_articles/a2a6fe71.ext.json)
-
----
-
-### Litro ignites spark of fellowship at Scout Jamboree-2024
-
-*2024-03-25 03:09:00* · [`islandlk`](http://island.lk/litro-ignites-spark-of-fellowship-at-scout-jamboree-2024/) · `en`
-
-The recently concluded 10th National Scout Jamboree in Trincomalee, Sri Lanka, not only celebrated international camaraderie but also showcased Litro’s influential role under the visionary leadership of Chairman Muditha Peiris. With a focus on safety, sustainability, and collaboration, Litro’s commitment to national transformation was felt across the event, leaving an indelible mark on the 12,000 scouts from 28 nations.
-
-...
-
-[Data](articles/9cbfa636.json)
-
-[Extended Data](ext_articles/9cbfa636.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 15:18:04**
+As of **2024-03-25 15:33:22**
 
 ## Newspaper Stats
 
-*Scraped **15,029** Articles*
+*Scraped **15,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 805
 dailyftlk | 806
 islandlk | 831
 adalk | 1,278
-adaderanalk | 1,809
+adaderanalk | 1,810
 tamilmirrorlk | 1,811
 virakesarilk | 2,108
 dailymirrorlk | 2,318
@@ -26,11 +26,45 @@ adaderanasinhalalk | 2,410
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,029 (100.0%) of 15,029 articles have been extended.
+15,029 (100.0%) of 15,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### UN chief says there is growing consensus to tell Israel that a ceasefire is needed
+
+*2024-03-25 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98192/un-chief-says-there-is-growing-consensus-to-tell-israel-that-a-ceasefire-is-needed) · `en`
+
+U.N. Secretary-General Antonio Guterres said during a visit to Jordan on Monday that there is growing international consensus to tell Israel that a ceasefire is needed and that an assault on Rafah would cause a humanitarian disaster.
+
+“We see a growing consensus emerging in the international community to tell the Israelis that the ceasefire is needed and I also see a growing consensus, I heard in the U.S., I heard from the European Union, not to mention of course the Muslim world, to tell clearly to Israelis that any ground invasion of Rafah could mean a humanitarian disaster,” Guterres told a news conference.
+
+◼️
+
+[Data](articles/a377745b.json)
+
+---
+
+### The revenue of the Excise Department has increased and production has declined.
+
+*2024-03-25 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179654) · `ta`
+
+Excise Department revenue up, liquor sales income 38.5% higher than Feb 2022, attributed to liquor price increase, leading to alcohol consumption restriction.
+
+🟩
+
+The income earned by liquor sales this year has increased by 38.5 per cent this year compared to February 2022.. J.. Gunasiri mentioned.
+
+He pointed out that the increase in prices of liquor is the reason for the restriction of alcohol consumption
+
+◼️
+
+[Data](articles/eba50991.json)
+
+[Extended Data](ext_articles/eba50991.ext.json)
+
+---
 
 ### Students arrested for stealing laptops
 
@@ -55,26 +89,6 @@ In addition, 12 stolen laptops have been seized by the police as they were hidde
 [Data](articles/305e1360.json)
 
 [Extended Data](ext_articles/305e1360.ext.json)
-
----
-
-### The revenue of the Excise Department has increased and production has declined.
-
-*2024-03-25 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179654) · `ta`
-
-Excise Department revenue up, liquor sales income 38.5% higher than Feb 2022, attributed to liquor price increase, leading to alcohol consumption restriction.
-
-🟩
-
-The income earned by liquor sales this year has increased by 38.5 per cent this year compared to February 2022.. J.. Gunasiri mentioned.
-
-He pointed out that the increase in prices of liquor is the reason for the restriction of alcohol consumption
-
-◼️
-
-[Data](articles/eba50991.json)
-
-[Extended Data](ext_articles/eba50991.ext.json)
 
 ---
 
@@ -427,6 +441,22 @@ He questioned the relevant authorities for not taking action to slash the price 
 [Data](articles/fe91257e.json)
 
 [Extended Data](ext_articles/fe91257e.ext.json)
+
+---
+
+### AKD slams speaker for stuffing his staff with relatives
+
+*2024-03-25 13:13:00* · [`islandlk`](http://island.lk/akd-slams-speaker-for-stuffing-his-staff-with-relatives/) · `en`
+
+The three-day debate on the No-confidence Motion against Speaker Mahinda Yapa Abeywardena offers an insight into the prevailing ‘dump the lot’ public opinion on the incumbent legislature. Listening to what some MPs said (sometimes yelled) during the debate helps understand the present mood in the country that the incumbent legislature has long lost its mandate which must be urgently restored through a general election.
+
+Only a few members presented coherent arguments during the debate. The government relied on its roster of provocative speakers who bellowed the usual rhetoric. Those who spoke sensibly rightly predicted that the government’s numerical advantage would secure the motion’s defeat. However, they cautioned that any victory would be fleeting as they believed the government’s downfall was inevitable.
+
+...
+
+[Data](articles/414b67f5.json)
+
+[Extended Data](ext_articles/414b67f5.ext.json)
 
 ---
 
@@ -2229,49 +2259,5 @@ The recently concluded 10th National Scout Jamboree in Trincomalee, Sri Lanka, 
 [Data](articles/9cbfa636.json)
 
 [Extended Data](ext_articles/9cbfa636.ext.json)
-
----
-
-### Maithripala Sirisena: "Knowing the Passover attacker and cover up information
-
-*2024-03-25 03:08:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czkzg149l4do) · `si`
-
-Former President Maithripala Sirisena claimed knowledge of the Passover attacker, sparking controversy. He accused the judiciary of covering up the truth. The Minister of Defense ordered an investigation into Sirisena's statement. The Criminal Investigation Department is set to question him.
-
-🟩
-
-Maithripala Sirisena: "Knowing the Passover attacker and cover up information
-
-The Passover attack has once again a title in Sri Lanka.
-
-It is not due to the Passover attack on the Passover attack on another few days. Former President Maithripala Sirisena has a controversial statement of former President Maithripala Sirisena.
-
-Maithripala Sirisena, who was constantly testified to various commissions, said he was aware of who was launched by the Passover attack.
-
-"We know where the Passover attack we know. It was right by the terrorists who have arrested those cases. It is the ones whom I am invented by a three-member panel of judges. On the other hand, no one else had known who made the Passover attack truely. But I know who I did. If I demand a court urge or order, I'm ready to make a statement and make it ready, who made this Passover attack. The other thing is that it is the responsibility of the Judges mainly, mainly, "he said.
-
-This statement has already been created.
-
-...
-
-[Data](articles/5dd85f7a.json)
-
-[Extended Data](ext_articles/5dd85f7a.ext.json)
-
----
-
-### IIHS launches new study programmes in Psychology, Nutrition and Paramedic disciplines
-
-*2024-03-25 03:08:00* · [`islandlk`](http://island.lk/iihs-launches-new-study-programmes-in-psychology-nutrition-and-paramedic-disciplines/) · `en`
-
-The International Institute of Health Sciences (IIHS), a pioneer in providing specialised education tailored to the evolving needs of the healthcare sector, has introduced several study programmes in Psychology, Nutrition and Paramedic Disciplines.
-
-BSc. (Hons) in Psychology, BSc. (Hons) in Forensic Psychology and BSc. (Hons) in Sports and Exercise Psychology are some of the newly introduced programmes. Aligning with the evolving needs of the healthcare sector, they not only underscore the commitment of IIHS to stay at the forefront of educational evolution in South Asia but also aim to produce highly skilled professionals ready to meet the demands of the healthcare landscape.
-
-...
-
-[Data](articles/204cb9e2.json)
-
-[Extended Data](ext_articles/204cb9e2.ext.json)
 
 ---

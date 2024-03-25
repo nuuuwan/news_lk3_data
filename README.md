@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 23:52:36**
+As of **2024-03-26 00:17:57**
 
 ## Newspaper Stats
 
-*Scraped **15,127** Articles*
+*Scraped **15,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 831
 adalk | 1,291
 tamilmirrorlk | 1,818
 adaderanalk | 1,819
-virakesarilk | 2,125
+virakesarilk | 2,126
 dailymirrorlk | 2,337
 adaderanasinhalalk | 2,428
 
@@ -26,27 +26,53 @@ adaderanasinhalalk | 2,428
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,113 (99.9%) of 15,127 articles have been extended.
+15,127 (100.0%) of 15,128 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-03-26 (Tuesday)
+
+### ஐ.பி.எல் 2024 : பஞ்சாப் கிங்ஸை வீழ்த்திய ராயல் சேலஞ்சர்ஸ் பெங்களூர் அணி
+
+*2024-03-26 00:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/179703) · `ta`
+
+ராயல் சேலஞ்சர்ஸ் பெங்களூர் அணி மற்றும் பஞ்சாப் கிங்ஸ் அணிக்கு இடையில் நடைபெற்ற 6 ஆவது ஐபிஎல் போட்டியில் ராயல் சேலஞ்சர்ஸ் பெங்களூர் அணி நான்கு விக்கெட் வித்தியாசத்தில் வெற்றி பெற்றது.
+
+முதலில் துடுப்பெடுத்தாடிய பஞ்சாப் கிங்ஸ் அணி அதன் 20 ஓவர் முடிவில் 6 விக்கெட்டுகளை இழந்து 176 ஓட்டங்களைப் பெற்றது.
+
+வெற்றி இலக்காக 177 ஓட்டங்களை பெற துடுபெடுத்தாடிய ராயல் சேலஞ்சர்ஸ் பெங்களூரு அணி, விராட் கோலியின் 77 (49 பந்துகள்) அபாரமான அரை சதம் மற்றும் பின்முனையில் ஆட்டமிழக்காமல் தினேஷ் கார்த்திக்கின் 28 (10 பந்துகள்) ஆட்டத்தினாலும் இவ் வெற்றியை சேலஞ்சர்ஸ் பெங்களூரு அணி பெற்றது.
+
+◼️
+
+[Data](articles/e7aac311.json)
+
+---
+
 ### 2024-03-25 (Monday)
 
-### தேவாலயங்களுக்கு விசேட பாதுகாப்பு ; பொலிஸ்மா அதிபர் அதிரடி
+### Special protection for churches;Inspector General of Action
 
 *2024-03-25 23:09:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேவாலயங்களுக்கு-விசேட-பாதுகாப்பு-பொலிஸ்மா-அதிபர்-அதிரடி/175-335184) · `ta`
 
-கிறிஸ்தவ தேவாலயங்களில் விசேட பாதுகாப்பு வேலைத்திட்டத்தை நடைமுறைப்படுத்துமாறு பொலிஸ் மா அதிபர் தேஸ்பந்து தென்னகோன் அனைத்து பிரிவுகளுக்கும் பொறுப்பான சிரேஷ்ட பொலிஸ் அத்தியட்சகர்களுக்கு பணிப்புரை விடுத்துள்ளார்.
+Inspector General of Police Daspandu Thenkon directs special security for Christian churches, focusing on Holy Silver and Easter Sunday. Churches are advised to prepare security plans for devotees and travel packages, ensuring premises are not disturbed. Police will consult with regional army camp officers for support.
 
-இதன்படி எதிர்வரும் 29ஆம் திகதி புனித வெள்ளி ஆராதனைகளுக்காகவும், 31ஆம் திகதி ஈஸ்டர் ஞாயிறு ஆராதனைகளுக்காகவும் இந்த விசேட பாதுகாப்பு வேலைத்திட்டம் அமுல்படுத்தப்படவுள்ளது.
+🟩
 
-மேலும், மக்கள் அதிகம் வரும் தேவாலயங்களை தேர்வு செய்து, பாதுகாப்பு குறித்து நேரில் சென்று ஆய்வு செய்ய அறிவுறுத்தப்பட்டுள்ளது.
+Inspector General of Police, Daspandu Thenkon, has issued a directive to the Senior Superintendent of Police in charge of all sections of the Christian churches to implement a special security program.
 
-இந்த பாதுகாப்புத் திட்டத்தின் கீழ், தேவ ஆராதனைகள் தொடங்கும் முன், அந்த வளாகத்தை அடியார்களுக்கு தொந்தரவு ஏற்படாத வகையில் ஆய்வு செய்ய வேண்டும், தேவைப்பட்டால், தேவ ஆராதனைக்கு வருபவர்கள் மற்றும் அவர்களின் பயணப் பொதிகளை குறித்த தேவஸ்தானங்களின் பாதிரியார்கள் மற்றும் அதிகாரிகளுடன் கலந்தாலோசித்து  அதற்காக பாதுகாப்பு வேலைத்திட்டமொன்றை தயாரிக்க பொலிஸ்மா அதிபர் ஆலோசனை வழங்கியுள்ளார்.
+Accordingly, this special security program will be implemented for the 29th of this month for the worship of Holy Silver and Easter Sunday.
 
-...
+In addition, it is advised to choose the most popular churches and go to the security of the security.
+
+Under this security program, the police chief has advised the priests and officials of the Devasanas and the authorities to prepare a security program for the safety of the devotees and their travel packages, if needed, if needed, if necessary, the premises should not be disturbed.
+
+In addition, the Inspector General of Police has issued a directive to take action to get their support in consultation with the officers responsible for the regional army camps.. Remble
+
+◼️
 
 [Data](articles/5a7a2596.json)
+
+[Extended Data](ext_articles/5a7a2596.ext.json)
 
 ---
 
@@ -496,6 +522,8 @@ Justice Minister said some of those laws are “almost” drafted now.
 
 [Data](articles/5f8e7098.json)
 
+[Extended Data](ext_articles/5f8e7098.ext.json)
+
 ---
 
 ### Sri Lankans can take to the streets if presidential poll delayed: PAFFREL
@@ -513,6 +541,8 @@ Rajapaksa, the national organiser of the ruling Sri Lanka Podujana Peramuna (SLP
 ...
 
 [Data](articles/7626b669.json)
+
+[Extended Data](ext_articles/7626b669.ext.json)
 
 ---
 
@@ -788,6 +818,8 @@ to protect adolescents from sexual abuse and from the consequences of early sexu
 
 [Data](articles/25b0eb61.json)
 
+[Extended Data](ext_articles/25b0eb61.ext.json)
+
 ---
 
 ### Kamindu Mendis cranks up pressure on Kusal Mendis
@@ -909,6 +941,8 @@ A bond maturing on 01.07.2032 closed at 12.25/50 percent from Thursday’s close
 ◼️
 
 [Data](articles/fec90fdb.json)
+
+[Extended Data](ext_articles/fec90fdb.ext.json)
 
 ---
 
@@ -1274,6 +1308,8 @@ The complete report of the PCoI was presented to the parliament Speaker, Mahinda
 
 [Data](articles/90c2288d.json)
 
+[Extended Data](ext_articles/90c2288d.ext.json)
+
 ---
 
 ### The horrific bus accident
@@ -1351,6 +1387,8 @@ Major contributors to the Index included Sampath Bank Plc (up at 77.70), Hatton 
 ◼️
 
 [Data](articles/17cc9285.json)
+
+[Extended Data](ext_articles/17cc9285.ext.json)
 
 ---
 
@@ -1842,6 +1880,8 @@ Asked why Sirisena waited three weeks to reveal to the public that he had inform
 
 [Data](articles/69b52ec4.json)
 
+[Extended Data](ext_articles/69b52ec4.ext.json)
+
 ---
 
 ### School meal programme launched
@@ -1931,6 +1971,8 @@ Sri Lanka’s current laws also fail to recognize a male as a victim of rape and
 ◼️
 
 [Data](articles/3ca5f2eb.json)
+
+[Extended Data](ext_articles/3ca5f2eb.ext.json)
 
 ---
 
@@ -2216,6 +2258,8 @@ The government will provide 16.6 billion rupees to the nine provincial councils,
 
 [Data](articles/41e4ab88.json)
 
+[Extended Data](ext_articles/41e4ab88.ext.json)
+
 ---
 
 ### Five including two students arrested for stealing laptops from school’s smart classroom
@@ -2235,31 +2279,5 @@ Based on certain information received by the Police Special Task Force (STF) tha
 [Data](articles/d787ee39.json)
 
 [Extended Data](ext_articles/d787ee39.ext.json)
-
----
-
-### A period of time for Sri Lankans who are illegal to predominantly
-
-*2024-03-25 14:24:26* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-නීති-විරෝධිව-සිටින-ලාංකිකයන්ට-එරටින්-පිටවීමට-පොදු-සමා-කාලයක්/11-408785) · `si`
-
-Sri Lankans in Kuwait, without visas, face fines and legal action. The Sri Lankan Ambassador to Kuwait states that about 19,620 Sri Lankans are illegally residing, with fines imposed for not registering with the embassy. Registering with the embassy avoids legal action, but fines are still incurred for not obtaining a residential visa.
-
-🟩
-
-Kuwait, Kuwait, Emir Sheikh Mshal al-Jaba, Kuwait, Kuwait, Kuwait, who is on the country, and fines without leaving the residential visa area for work in Kuwait and fines without legal obstacles.Sri Lankan Ambassador to Kuwait, Kuate, said in a statement saying that the Hon.
-
-This public school will be operated from 06/17 from 03/17. According to official reports, about 19,620 Sri Lankans are registered with the embassy in Kuwait, which is currently reported to be illegally relying without visas.The Ambassador of Sri Lanka said.
-
-If Sri Lanka has to come out of this commonie, they are arrested and imposed on Rs. 650,000.
-
-However, if registering at the Sri Lankan Embassy in Kuwait, but not required to adapt to other legal action.
-
-Also, after paying this fine in this public phrase, it is still waiting for its residential visa without legalizing without legalizing.
-
-...
-
-[Data](articles/24c23d61.json)
-
-[Extended Data](ext_articles/24c23d61.ext.json)
 
 ---

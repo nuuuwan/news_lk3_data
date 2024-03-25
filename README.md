@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 13:52:46**
+As of **2024-03-25 14:03:16**
 
 ## Newspaper Stats
 
-*Scraped **15,012** Articles*
+*Scraped **15,014** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 831
 adalk | 1,273
 adaderanalk | 1,807
 tamilmirrorlk | 1,809
-virakesarilk | 2,104
+virakesarilk | 2,106
 dailymirrorlk | 2,315
 adaderanasinhalalk | 2,409
 
@@ -26,29 +26,69 @@ adaderanasinhalalk | 2,409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,009 (100.0%) of 15,012 articles have been extended.
+15,012 (100.0%) of 15,014 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### ශ්‍රී ලංකාවට සුපිරි ජයක්
+### யாழ். வட்டுக்கோட்டை இளைஞன் படுகொலை ; மேலும் மூவர் கைது
+
+*2024-03-25 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179652) · `ta`
+
+யாழ்ப்பாணம் வட்டுக்கோட்டை இளைஞனை கடத்தி படுகொலை செய்த குற்றச்சாட்டில் ,பிரதான சந்தேக நபர்களில் ஒருவர் உள்ளிட்ட மூவர் கைது செய்யப்பட்டுள்ளனர்.
+
+கடந்த 11ஆம் திகதி காரைநகர் பகுதிக்கு சென்று விட்டு மனைவியுடன், மோட்டார் சைக்கிளில் வீடு திரும்பிக்கொண்டிருந்த இளைஞனை பொன்னாலை பாலத்திற்கு அருகில் உள்ள கடற்படை முகாமிற்கு முன்பாக வன்முறை கும்பல் ஒன்றினால் தம்பதியினர் வாகனத்தில் கடத்தி செல்லப்பட்டு , இளைஞனை சித்திரவதைக்கு உள்ளாக்கி படுகொலை செய்த கும்பல் , மனைவியை சித்தன்கேணி பகுதியில் இறக்கி விட்டு தப்பி சென்று இருந்தது.
+
+சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்து வரும் மாவட்ட குற்றத்தடுப்பு பிரிவு பொலிஸார் ஏற்கனவே ஆறு பேரை கைது செய்து , நீதிமன்றில் முற்படுத்தப்பட்டு 28ஆம் திகதி வரையில் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர். அவர்களில் இருவர் அடையாள அணிவகுப்பின் போது , கொல்லப்பட்ட இளைஞனின் மனைவியால் அடையாளம் காட்டப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/f9fd35df.json)
+
+---
+
+### வெளிநாட்டு வேலைவாய்ப்பு துறையை டிஜிட்டல் மயமாக்க நடவடிக்கை - மனுஷ நாணயக்கார
+
+*2024-03-25 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/179637) · `ta`
+
+அனைத்து வெளிநாட்டு வேலைவாய்ப்புத்துறையையும் டிஜிட்டல் மயமாக்குவதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளதாக தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார தெரிவித்துள்ளார்.
+
+இது விரைவில் நடைமுறைப்படுத்தப்படும். இது வெளிநாட்டு வேலைவாய்ப்பு துறையை கடத்தல்காரர்கள் மற்றும் மோசடி செய்பவர்களின் பிடியில் இருந்து விடுவிக்க உதவும் என்றும், புலம்பெயர்ந்த தொழிலாளர்கள் மற்றும் அதிகாரிகளுக்கு இடையேயான  தொடர்பை மேம்படுத்துவதுடன்,  குறைகளைக் கையாளும் நடைமுறைகளையும் மேம்படுத்தும் என்றும் வலியுறுத்தியுள்ளார்.
+
+மாத்தளையில் நடைபெற்ற ‘ஜெயகமு ஸ்ரீலங்கா’ நிகழ்ச்சியில்  ஊடகவியலாளர்களுடனான  கலந்துரையாடலில் கலந்துகொண்டு உரையாற்றும் போதே அமைச்சர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+
+மேலும், இது வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் மீதான தேவையற்ற தலையீடுகளை தடுக்கவும், சட்டவிரோத நடவடிக்கைகளை நிறுத்தவும் அதிகாரம் அளிக்கும் எனவும் அமைச்சர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/9477637d.json)
+
+---
+
+### Superbid from Sri Lanka
 
 *2024-03-25 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194908) · `si`
 
-ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවති පළමු ටෙස්ට් ක්‍රිකට් තරගය ලකුණු 328කින් ජයගැනීමට ශ්‍රී ලංකා කණ්ඩායම අද (25) සමත් විය.
+Sri Lanka won the first Test against Bangladesh by 328 runs, with Dhananjaya De Silva and Kimindu Mendis scoring centuries. Bangladesh scored 188 in the first innings and 182 in the second, with Kasun Rajitha taking 5 wickets for 56 runs.
 
-තරගය ජය ගැනීම සඳහා ලකුණු 511ක ඉලක්කයක් හඹා ගිය සත්කාරක බංග්ලාදේශ කණ්ඩායම තරගයේ සිව්වැනි දිනයේ දී ලකුණු 182කට දැවී ගියේය.
+🟩
 
-ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් නායක ධනංජය ද සිල්වා (ලකුණු 102 & 108) සහ කමිඳු මෙන්ඩිස් (102 & 164) ඉනිම දෙකේදී ශතක දෙක බැගින් රැස් කිරීම විශේෂත්වයකි.
+Sri Lanka were able to win the first Test match between Sri Lanka and Bangladesh to win 328 runs.
 
-බංග්ලාදේශ කණ්ඩායම සිය පළමු ඉනිමට ලකුණු 188ක් රැස් කළ අතර ඔවුන් දෙවැනි ඉනිම සඳහා රැස් කළේ ලකුණු 182ක් පමණි.
+Chasing a target of 511 runs, the Bangladesh team scored 182 on the fourth day of the match.
 
-පන්දුයැවීමේදී, කසුන් රාජිත ලකුණු 56කට කඩුලු 5ක් දවා ගත් අතර විශ්ව ප්‍රනාන්දු කඩුලු 3ක් සහ ළහිරු කුමාර කඩුලු 2ක් දවා ගත්තේය.
+Leader Dhananjaya De Silva (102 & 108 marks) and Kimindu Mendis (102 & 164) in their innings is a collection of two centuries.
+
+Bangladesh scored 188 runs in their first innings and only 182 runs for the second innings.
+
+Kasun Rajitha took 5 wickets for 56 runs for 56 runs.
 
 ◼️
 
 [Data](articles/90e23629.json)
+
+[Extended Data](ext_articles/90e23629.ext.json)
 
 ---
 
@@ -67,6 +107,8 @@ Several senior police officials, including OIC Udamaluwa Police Post W.C.L.R. K.
 ◼️
 
 [Data](articles/e3c42439.json)
+
+[Extended Data](ext_articles/e3c42439.ext.json)
 
 ---
 
@@ -87,6 +129,8 @@ He questioned the relevant authorities for not taking action to slash the price 
 ...
 
 [Data](articles/fe91257e.json)
+
+[Extended Data](ext_articles/fe91257e.ext.json)
 
 ---
 
@@ -2179,51 +2223,5 @@ Meanwhile, the Minister said that the food will be provided to all class student
 [Data](articles/f697568b.json)
 
 [Extended Data](ext_articles/f697568b.ext.json)
-
----
-
-### Economic literacy for youth through puppetry and theatre
-
-*2024-03-25 01:46:25* · [`dailyftlk`](https://www.ft.lk/business/Economic-literacy-for-youth-through-puppetry-and-theatre/34-759886) · `en`
-
-Project partners - Power of Play, Advocata and Sahana Social Development Alliance
-
-Advocata CEO Dhananath Fernando talking Economics with Power of Plays Mahadanamuththa
-
-Power of Play, a company utilising performing arts for advocacy has partnered with Advocata Institute and Sahana Social Development Alliance to provide Sri Lankan youth with an innovative opportunity to increase their economic literacy and communication skills, through performing arts.
-
-This project is a direct response to the disadvantages faced by youth, where traditional education systems fail to foster critical thinking skills so they engage meaningfully with complex socio-political issues. Through a three-phase approach, this project will educate youth on how to inform their decisions with facts (based on verified scientific/statistical evidence) and communicate their opinions effectively using creative, non-violent communication tools to inspire open dialogue for collaborative problem-solving.
-
-...
-
-[Data](articles/8c32aa33.json)
-
-[Extended Data](ext_articles/8c32aa33.ext.json)
-
----
-
-### If you know who responsible for the Easter attack, you should reveal with Maithri - Mahinda
-
-*2024-03-25 01:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/179609) · `ta`
-
-Former President Mahinda Rajapakse urged Maithripala Sirisena to reveal the Easter attack's perpetrators without waiting for a court order. He also suggested holding the general election before the presidential one, benefiting the winning party. Rajapakse criticized reports by Rohitha Abeygunawardena, defending the appointment of a parliament member over an outsider.
-
-🟩
-
-Former President Mahinda Rajapakse has said that Maithripala Sirisena should reveal who they are without waiting for a court order if they know who responsible for the Easter attack.
-
-He was speaking to the former President of the Sri Lanka Cricket Board on Saturday (23) at the inauguration of the Kandy Vidyarthi Vidyalaya Ground.
-
-Former President Sri Lanka PA's presidential candidate who said that it would be better if the general election was held before the presidential election and that the party that won the presidential election would have more benefits?He also stressed that we will reveal the right time.
-
-Everyone can stop the reports made by Rohitha Abeygunawardena as the chairman of the Cobb group, but the leader has been appointed by the people as a member of the parliament, not an outdoors.. He said.
-
-The former president said he was considering such action to be taken to protect the President for the responsibility of maintaining the public order.
-
-...
-
-[Data](articles/af3ceba0.json)
-
-[Extended Data](ext_articles/af3ceba0.ext.json)
 
 ---

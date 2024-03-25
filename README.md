@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 07:53:55**
+As of **2024-03-25 08:04:41**
 
 ## Newspaper Stats
 
-*Scraped **14,936** Articles*
+*Scraped **14,939** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,52 +17,82 @@ dailyftlk | 806
 islandlk | 830
 adalk | 1,268
 tamilmirrorlk | 1,795
-adaderanalk | 1,798
+adaderanalk | 1,799
 virakesarilk | 2,090
-dailymirrorlk | 2,299
+dailymirrorlk | 2,301
 adaderanasinhalalk | 2,398
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,932 (100.0%) of 14,936 articles have been extended.
+14,936 (100.0%) of 14,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### හිටපු ජනපති මෛත්‍රී අද CIDයට
+### President calls for comprehensive dialogue on healthcare transformation
+
+*2024-03-25 07:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98180/president-calls-for-comprehensive-dialogue-on-healthcare-transformation) · `en`
+
+President Ranil Wickremesinghe outlined his intention to spearhead thorough deliberations concerning healthcare service advancements, emphasizing the incorporation of modern technology to enhance medical facilities.
+
+He highlighted the government’s commitment to empowering individuals for the betterment of society, emphasizing the crucial role of healthcare. The President encouraged input from Medical Officers to shape a new healthcare framework and expressed readiness to revisit for additional discussions on leadership and government engagement.
+
+President Ranil Wickramasinghe emphasized this during a meeting held with the Government Medical Officers Association (GMOA).
+
+The GMOA hosted a one-day workshop on “Leadership and Skills Development” on Saturday (23) at the Sudu Araliya Hotel in Polonnaruwa. While attending a nearby official event, the President received an urgent invitation from the association and briefly visited the workshop venue.
+
+...
+
+[Data](articles/2c1d4f3b.json)
+
+---
+
+### Former President Maithree under CID
 
 *2024-03-25 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194897) · `si`
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා අද (25) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ හමුවේ පෙනී සිටීමට නියමිතව තිබේ.
+Former President Maithripala Sirisena is summoned by CID for allegedly knowing persons involved in the Easter attack. He faces an accelerated inquiry by the IGP. Sirisena has previously provided false information about the Passover attack in Parliament.
 
-පාස්කු ඉරිදා ප්‍රහාරයට සම්බන්ධ පුද්ගලයන් තමා දන්නා බවට මෛත්‍රීපාල සිරිසේන මහතා පසුගිය දා මහනුවර ප්‍රදේශයේදී ප්‍රකාශයක් සිදුකර තිබිණි.
+🟩
 
-අදාළ ප්‍රකාශය සම්බන්ධයෙන් කඩිනම් පරීක්ෂණයක් පවත්වන ලෙස මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා විසින් පොලිස්පතිවරයාට උපදෙස් ලබාදෙනු ලැබීය.
+Former President Maithripala Sirisena is scheduled to appear before the CID today (25).
 
-ඒ අනුව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගෙන් ප්‍රකාශයක් සටහන් කර ගැනීම සඳහා අද පෙරවරු 10.30ට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කැඳවා ඇති බව සඳහන්ය.
+Maithripala Sirisena had made a statement in the Kandy area that he knew persons involved in the Easter attack.
 
-මේ අතර පාස්කු ප්‍රහාරය සම්බන්ධයෙන් පත්කළ පාර්ලිමේන්තු තේරීම් කාරක සභාවේ දී මෛත්‍රීපාල සිරිසේන මහතා අසත්‍ය තොරතුරු පළ කළ බව මහාචාර්ය අශු මාරසිංහ මහතා පවසයි.
+Deputy Minister of Defense Tiran Alles was instructed by the IGP to conduct an accelerated inquiry into the statement.
 
-පාස්කු ප්‍රහාරය සම්බන්ධයෙන් කිසියම් තොරතුරක් දන්නේ නම් ඒ පිළිබඳව දැනුවත් කිරීමට මෛත්‍රීපාල සිරිසේන මහතාට නීතිමය වගකීමක් තිබෙන බව පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය ජී.එල්. පීරිස් මහතා පැවසුවේය.
+Accordingly, former President Maithripala Sirisena has been summoned to the CID at 10.30 am today.
+
+Meanwhile, Maithripala Sirisena has expressed false information in the Parliamentary Select Committee appointed to the Passover attack.
+
+Maithripala Sirisena has a legal responsibility to educate any information about the Passover attack.. Mr. Peiris said.
 
 ◼️
 
 [Data](articles/897bf21b.json)
 
+[Extended Data](ext_articles/897bf21b.ext.json)
+
 ---
 
-### සුරාබදු ආදායම සියයට 38කින් ඉහළට
+### Excise income up by 38 percent
 
 *2024-03-25 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194896) · `si`
 
-සුරාබදු දෙපාර්තමේන්තුව පසුගිය වර්ෂයේ පෙබරවාරි මාසයට සාපේක්ෂව මෙම වර්ෂයේ දී සුරාබදු ආදායම සියයට 38.5කින් වර්ධනය වී ඇති බව සුරාබදු කොමසාරිස් ජනරාල් එම්. ජේ. ගුණසිරි මහතා පවසයි.
+Excise income rose 38% this year, surpassing the February to February year, according to J. Mr. Gunasiri.
+
+🟩
+
+Excise revenue has increased by 38.5 percent in this year compared to February to February year, compared to February year.. J. Mr. Gunasiri says.
 
 ◼️
 
 [Data](articles/46abc0e2.json)
+
+[Extended Data](ext_articles/46abc0e2.ext.json)
 
 ---
 
@@ -81,6 +111,8 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/9219fd0d.json)
+
+[Extended Data](ext_articles/9219fd0d.ext.json)
 
 ---
 
@@ -367,6 +399,22 @@ Political analyst Ian Bremmer has much that is enlightening to say about the soc
 [Data](articles/25ade833.json)
 
 [Extended Data](ext_articles/25ade833.ext.json)
+
+---
+
+### Unemployment rate declines to 4.3% as economy recovers
+
+*2024-03-25 02:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Unemployment-rate-declines-to-4-3-as-economy-recovers/108-279508) · `en`
+
+Sri Lanka’s official unemployment rate slipped to 4.3 percent in the final quarter of last year from 4.7 percent in the quarter before as the economy expanded in the final three months of the year.
+
+This is roughly thrice the pace of the third quarter growth, data released by the Census and Statistics Department showed.
+
+Sri Lanka’s Gross Domestic Product (GDP), the value of total products by an economy, expanded by 4.5 percent in the fourth quarter of last year from 1.6 percent in the third quarter as the country was recovering from the shortage of foreign currency which reached a breaking point in early 2022.
+
+...
+
+[Data](articles/b450d16a.json)
 
 ---
 
@@ -764,6 +812,24 @@ The project awarded to the joint venture company is indicative of Luminex’ con
 
 ---
 
+### Central Bank to revisit regulatory sandbox framework
+
+*2024-03-25 00:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-to-revisit-regulatory-sandbox-framework/108-279504) · `en`
+
+The Central Bank (CB) is planning to revisit the framework of its regulatory sandbox, relaxing some of stringent rules, after the initiative failed to gain traction among fintech players over the past four years.
+
+According to CB Payments and Settlements Department Additional Director Manisha Wimalasuriya, about six applications have been received so far and the most recent one was to do with AI.
+
+“We wanted them to come with an audit report and they thought it was too expensive, because they weren’t sure the product would be brought into the market or not. So, we haven’t had any party graduating from sandbox,” Wimalasuriya said while speaking at BankTech Asia 2024: Colombo Series last week.
+
+The CB unveiled the regulatory sandbox to run innovative fintech experiments which can be released to the market after testing and gaining approval.
+
+...
+
+[Data](articles/7c760281.json)
+
+---
+
 ### Gujarat beat Mumbai by 6 runs five times
 
 *2024-03-25 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179608) · `ta`
@@ -926,23 +992,29 @@ Two decades later, the Islamic Kingdom has been entrusted with the responsibilit
 
 ---
 
-### විදේශිකයන්ට අප්‍රේල් 15දා සිට ගුවන් තොටුපළේදීම මෙරට රියදුරු බලපත්‍රය
+### Sri Lanka driver's license at airport from April 15
 
 *2024-03-24 21:17:45* · [`adalk`](https://www.ada.lk/breaking_news/විදේශිකයන්ට-අප්‍රේල්-15දා-සිට-ගුවන්-තොටුපළේදීම-මෙරට-රියදුරු-බලපත්‍රය/11-408772) · `si`
 
-මෙරට රියදුරු බලපත්‍රය අවශ්‍ය විදේශිකයන්ට අප්‍රේල් 15 වනදා සිට ගුවන් තොටුපළේදීම ඒ සඳහා අයදුම් කර, ගුවන් තොටුපොලෙන් පිටතට පැමිණෙන විට රියදුරු බලපත්‍රය ලබා ගැනීමට අවශ්‍ය කටයුතු සූදානම් කර තිබෙන බව ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පැවසීය.
+From April 15, Sri Lanka will allow obtaining driver's licenses at airports. Minister Lasantha Alagiyawanna announced this, emphasizing efforts to minimize road accidents and improve insurance compensation processes. The government is also preparing for foreigners to apply for licenses at airports, with fees varying based on duration. Road safety awareness is being promoted, including a forum on April 3 involving the Ministry of Education, Transport, and Defense.
 
-රිය අනතුරු වින්දිතයන්ට අධිකරණ ක්‍රියාමාර්ගයකින් තොරව කඩිනමින් වන්දි ලබා දීමේ වැඩපිළිවෙලද මාර්තු 01 වනදා ආරම්භ කළ බව රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+🟩
 
-ඒ අනුව අනතුර සිදු වී වසරක් තුළ අදාළ රක්ෂණ ආයතනයට අයදුම් කිරීමෙන් උපරිමය රුපියල් ලක්ෂ 05ක් දක්වා වන වන්දි මුදල එම රක්ෂණ ආයතනයේ දිවයින පුරා පිහිටි ඕනෑම ශාඛාවකින් ලබා ගැනීමේ හැකියාව ලැබෙන බවද රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+Minister of Transport Lasantha Alagiyawanna stated that necessary arrangements to obtain the driving license at the airport on April 15, applying for the Sri Lankan driver's license at the airport.
 
-ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා ප මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+The police said that the accident had been initiated to compensation with a judicial procedure and without judicial action.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ රාජ්‍ය අමාත්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා මෙසේ ද පැවසීය,
+Accordingly, applying for the insurance company in a year, the insurance company will be able to obtain the insurance company from any branch island-wide.
+
+Minister of Transport Lasantha Alagiyawanna made this statement participating at a press conference held at the Presidential Media Center by one way.
+
+Speaking further Minister Lasantha Alagiyawanna said:
 
 ...
 
 [Data](articles/62ecce67.json)
+
+[Extended Data](ext_articles/62ecce67.ext.json)
 
 ---
 
@@ -2127,57 +2199,5 @@ He emphasized that the suspects were jumping to Ukraine and emphasized that he w
 [Data](articles/93ccfa29.json)
 
 [Extended Data](ext_articles/93ccfa29.ext.json)
-
----
-
-### Price of imported milk powder slashed
-
-*2024-03-24 13:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Price-of-imported-milk-powder-slashed/108-279476) · `en`
-
-Colombo, March 24 (Daily Mirror) - Minister of Trade Nalin Fernando announced a significant reduction in the price of imported milk powder, aimed at alleviating the financial burdens on consumers.
-
-Accordingly, Minister Fernando disclosed that the price adjustment entails a decrease of Rs. 150 for packets weighing a kilogram.
-
-Further, the 400-gram packets will see a reduction of Rs. 60.
-
-◼️
-
-[Data](articles/ec0c18c9.json)
-
-[Extended Data](ext_articles/ec0c18c9.ext.json)
-
----
-
-### Another century from Dhananjaya
-
-*2024-03-24 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194873) · `si`
-
-Dhananjaya records his 12th Test century before Bangladesh Test.
-
-🟩
-
-Test leader Dhananjaya records his 12th Test century before the first Test against Bangladesh.
-
-◼️
-
-[Data](articles/2068d1c9.json)
-
-[Extended Data](ext_articles/2068d1c9.ext.json)
-
----
-
-### Prices of imported milk powder reduced
-
-*2024-03-24 12:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98170/prices-of-imported-milk-powder-reduced) · `en`
-
-The price of a packet of imported milk powder will be reduced from midnight today (24), Minister of Trade Nalin Fernando said.
-
-Thus, the price of a packet of milk powder weighing will be reduced by Rs. 150  while the 400-gram packet will be reduced by Rs. 60, according to the minister.
-
-◼️
-
-[Data](articles/3029c0d6.json)
-
-[Extended Data](ext_articles/3029c0d6.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 18:51:48**
+As of **2024-03-25 19:03:10**
 
 ## Newspaper Stats
 
-*Scraped **15,082** Articles*
+*Scraped **15,083** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 1,815
 tamilmirrorlk | 1,815
 virakesarilk | 2,122
 dailymirrorlk | 2,332
-adaderanasinhalalk | 2,419
+adaderanasinhalalk | 2,420
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,080 (100.0%) of 15,082 articles have been extended.
+15,082 (100.0%) of 15,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### සේල් සේල් - පාරිභෝගිකයින් ට අනතුරු ඇඟවීමක්
+
+*2024-03-25 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194920) · `si`
+
+උත්සව සමයේ ක්‍රියාත්මක "සේල්" නමින් හඳුන්වා භාණ්ඩ අලෙවි කරනු ලබන ස්ථානවලින් භාණ්ඩ මිලදී ගැනීමේ දී පාරිභෝගිකයින් රැවටීම්වලට ලක්වීමට ඉඩ ඇති බව පාරිභෝගික කටයුතු පිළිබද අධිකාරිය පවසයි.
+
+එහි තොරතුරු අධ්‍යක්ෂ අසේල බණ්ඩාර මහතා ප්‍රකාශ කළේ කල් ඉකුත් වීමට ආසන්න භාණ්ඩවල තොරතුරු වෙනස් කර උත්සව සමයේ අලෙවි කිරීම් සිදුවිය හැකි බැවින් ඒ පිළිබඳ අවධානයෙන් පසුවිය යුතු බවයි.
+
+◼️
+
+[Data](articles/0a2d24f6.json)
+
+---
 
 ### School children or their aging will not wait until our issues solved: Minister
 
@@ -47,6 +61,8 @@ While addressing the event marking the beginning of the 2024 school meal program
 ◼️
 
 [Data](articles/2bb49193.json)
+
+[Extended Data](ext_articles/2bb49193.ext.json)
 
 ---
 
@@ -1788,23 +1804,31 @@ Accordingly, a packet of Rs.
 
 ---
 
-### ලිංගිකත්වය සඳහා කැමැත්ත පළ කිරීමේ අවම වයස අඩු කිරීමේ ප්‍රතිවිපාක මොනවා ද?
+### What are the consequences of reducing the lowest age of willingness to sex?
 
 *2024-03-25 12:42:43* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51jg7j9wnxo) · `si`
 
-ලිංගිකත්වය සඳහා කැමැත්ත පළ කිරීමේ අවම වයස අඩු කිරීමේ ප්‍රතිවිපාක මොනවා ද?
+Reducing the lowest age of willingness to sex can lead to statutory rape, child pregnancy risks, and controversy over legal age for marriage. Sri Lanka's law and societal discussions around these issues are complex, involving legal, medical, and ethical considerations.
 
-ශ්‍රී ලංකාවේ පවතින නීති රාමුවට අනුව වයස අවුරුදු 18ට අඩු ඕනෑම අයෙකු සැලකෙන්නේ දරුවෙකු ලෙසයි. වයස අවුරුදු 18ට වඩා අඩු අයට විවාහ වීමට ද අවසර නොමැත.
+🟩
 
-1995 අංක 22 දරණ දණ්ඩ නීති සංග්‍රහ සංශෝධිත පනතට අනුව වසය අවුරුදු 16ට වැඩි ගැහැණු දරුවෙකු සමඟ, ඇගේ එකඟතාවය හෝ කැමත්ත මත යම් පුද්ගලයෙකු විසින් ලිංගිකව හැසිරීම සලකන්නේ ස්ත්‍රී දූෂණයක් ලෙසයි. එය "ව්‍යවස්ථාපිත ස්ත්‍රී දූෂණය" ලෙස හඳුන්වයි. එවැනි සිදුවීමක් වාර්තා වීමේ දී එය ස්ත්‍රී දූෂණයක් ලෙස සලකා දඬුවම් ලබා දීම සිදු විය.
+What are the consequences of reducing the lowest age of willingness to sex?
 
-කෙසේ නමුත් මෙම තත්වය ලිහිල් කිරීමට මේ වන විට අධිකරණ අමාත්‍යාංශය විසින් කෙටුම්පතක් කැබිනට් මණ්ඩලය වෙත යොමු කර තිබේ.
+Anyone under the age of 18 is considered as a child. Those less than 18 years of age are not allowed to marry.
 
-ලංකාවේ නවයොවුන් ගැබ්ගැනීම්: ලිංගික ආශාවන් ස්වභාවික වුණාට සෙක්ස් කරන්න එපා?
+The Penal Code No. 22 of 1995, with a female over 16 years, is considered a rape based on her agreement or begination on her agreement or begining. It is called "Statutory Rape". In the reporting of such an incident, it was punished as a rape.
+
+However, the Ministry of Justice has been referred to the Cabinet so far to relax this situation.
+
+New town pregnancy: Sex Don't Sex?
+
+When the female children of fewer than 16 years of age, girls between the ages of 14 to 16 years old, the girls between the ages of 14 to 16 years old, followed a loose policy regarding the punishment of the punishment as a statutory rapeOn March 20, 2024, a discussion was held on 20 March 2024 on a draft.
 
 ...
 
 [Data](articles/b7fa3886.json)
+
+[Extended Data](ext_articles/b7fa3886.ext.json)
 
 ---
 
@@ -2209,35 +2233,5 @@ The police allowed the police to be interrogated by the police for 48 hours.
 [Data](articles/5591d92f.json)
 
 [Extended Data](ext_articles/5591d92f.ext.json)
-
----
-
-### "Diaspora workers can be integrated with processor"
-
-*2024-03-25 11:01:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலம்பெயர்-தொழிலாளர்களை-செயலி-மூலம்-ஒருங்கிணைக்கலாம்/175-335143) · `ta`
-
-"Labor Minister Manusha Nanayakkara announced the digitalization of foreign employment operations, integrating diaspora workers with a processor to streamline processes, eliminate illegal activities, and improve grievance handling. This move aims to enhance the connection between migrant workers and officers, with a processor on each worker's phone facilitating immediate notifications to the Colombo office for issues. The Sri Lanka Foreign Employment Bureau (SLBFE) Act has been amended to regulate sub-agents, with the amendment soon to be reviewed by Parliament."
-
-🟩
-
-Labor and Foreign Employment Minister Manusha Nanayakkara said yesterday that the entire operations of foreign employment will soon be digitalized and the diaspora can be integrated with a processor.
-
-He said this while participating in the Jayagamu Sri Lanka program held in Matale yesterday.
-
-This will break unnecessary interventions and lead to the Bureau of Foreign Employment to effectively handle illegal activities.
-
-He said this would help eliminate traffickers and fraudsters from the foreign employment sector and improve the connection between migrant workers and officers.
-
-"This process can also improve the process of handling grievances," he said.
-
-“When this sector is digitalized, it will include all the affairs in the embassy, staff and SLBFE recruitment.
-
-“There will be a processor on every migrant worker's phone. The processor, the embassy and the consolidation between the staff will facilitate, "he said;
-
-...
-
-[Data](articles/d10a9b48.json)
-
-[Extended Data](ext_articles/d10a9b48.ext.json)
 
 ---

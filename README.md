@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 16:03:36**
+As of **2024-03-25 16:17:59**
 
 ## Newspaper Stats
 
-*Scraped **15,036** Articles*
+*Scraped **15,040** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ newsfirstlk | 363
 economynextcom | 805
 dailyftlk | 806
 islandlk | 831
-adalk | 1,278
-adaderanalk | 1,811
+adalk | 1,279
+adaderanalk | 1,812
 tamilmirrorlk | 1,812
-virakesarilk | 2,108
+virakesarilk | 2,109
 dailymirrorlk | 2,320
-adaderanasinhalalk | 2,412
+adaderanasinhalalk | 2,413
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,032 (100.0%) of 15,036 articles have been extended.
+15,036 (100.0%) of 15,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### කොටුවූ පාතාලයෝ
+
+*2024-03-25 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194912) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් අත්අඩංගුවට ගැනීම සඳහා පොලිස්පතිවරයාගේ උපදෙස් මත ආරම්භ කළ විශේෂ මෙහෙයුමේදී ඊයේ දිනයේ සැකකරුවන් 07ක් අත්අඩංගුවට ගෙන තිබේ.
+
+එම පිරිස අතර කුඩු සළිඳුගේ කණ්ඩායමේ සාමාජිකයින් දෙදෙනෙක් වන පානදුර ප්‍රදේශයේ පදිංචි ප්‍රසාද් මදුරංග කෝඳාගොඩ සහ මොරටුවේ පදිංචි බලාපුවඩුගේ ට්‍රික්සි යන සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් ද සිටී.
+
+පොලීසිය පවසන්නේ සංවිධානාත්මක අපරාධ කල්ලියක් වන අංජුගේ කණ්ඩායමේ සාමාජිකයෙකු වන මොරටුව ප්‍රදේශයේ පදිංචි පටබැඳිගේ සංජු තාරක නමැති සාමාජිකයාද ඊයේ අත්අඩංගුවට ගෙන ඇති බවය.
+
+මේ අතර ගනේමුල්ල සංජීවගේ කණ්ඩායමේ සාමාජිකයෙකු වන දික්වැල්ල ප්‍රදේශයේ පදිංචි නාවුරුන්පන්නගේ තරිඳු සම්පත් කුමාර නැමැත්තාද ඊයේ මෙහෙයුමේදී අත්අඩංගුවට ගෙන තිබේ.
+
+එසේම දෙමටගොඩ චමින්දගේ කණ්ඩායමේ සාමාජිකයෙකු වන බොරැල්ල ප්‍රදේශයේ පදිංචි අතුකෝරල කංකානම්ගේ දොන් අනිල් රංජිත් නමැති 38 හැවිරිදි  සැකකරුවෙකුද පොලිස් විශේෂ මෙහෙයුමේදී අත්අඩංගුවට ගෙන ඇත.
+
+...
+
+[Data](articles/81bbea3d.json)
+
+---
+
+### Appeals Court quashes findings, recommendations of political victimisation commission
+
+*2024-03-25 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98194/appeals-court-quashes-findings-recommendations-of-political-victimisation-commission) · `en`
+
+The Court of Appeals has issued a writ order quashing the recommendations and findings of the Commission of Inquiry to Investigate Allegations of Political Victimization, against a group of individuals including President Ranil Wickremesinghe and National People’s Power (NPP) leader Anura Kumara Dissanayake.
+
+The relevant order was issued by a three-member judge bench led by the President of the Court of Appeal, Justice Nissanka Bandula Karunaratne.
+
+The three-member Presidential Commission of Inquiry was appointed by then President Gotabaya Rajapaksa on January 20, 2020 in order to inquire into allegations of political victimization in the wake of investigations conducted by the Commission to Investigate Allegations of Bribery or Corruption, FCID, CID and the Special Investigation Unit of the Police from January 8, 2015 to November 16, 2019.
+
+◼️
+
+[Data](articles/01901cef.json)
+
+---
+
+### பாடசாலைக் கல்வி மற்றும் பரீட்சை முறையில் மாற்றம் செய்வது குறித்து அரசாங்கம் கவனம் செலுத்துகிறது :  ஜனாதிபதி
+
+*2024-03-25 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179675) · `ta`
+
+நாட்டின் பிள்ளைகளுக்கு சிறந்த கல்வியை வழங்குவதற்காக அவர்களுக்கு பாடம்  தொடர்பான  அறிவை வழங்கி  பரீட்சைகளுக்கு தயார்படுத்துவதைப் போன்றே அவர்களின் போசாக்கும் பாதுகாக்கப்பட வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க சுட்டிக்காட்டினார்.
+
+அத்துடன் செயற்கை நுண்ணறிவு உள்ளிட்ட நவீன தொழிநுட்ப அறிவை பிள்ளைகளுக்கு வழங்க வேண்டும் என்று தெரிவித்த ஜனாதிபதி, அதற்கமைவாக பாடசாலை கல்வி மற்றும் பரீட்சை முறைகளில் மாற்றம் ஏற்படுத்துவது தொடர்பில் அரசாங்கம் கவனம் செலுத்தியுள்ளதாகவும் குறிப்பிட்டார்.
+
+நாரஹேன்பிட்டி சுஜாதா மகளிர் கல்லூரியில் இன்று (25) முற்பகல் இடம்பெற்ற “2024 பாடசாலை உணவுத் திட்டம்” ஆரம்ப நிகழ்வில் கலந்து கொண்ட ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+நாட்டிலுள்ள தரம் 1-5 வரை உள்ள அனைத்து பாடசாலை மாணவர்களுக்கும் பாடசாலையில்  போசாக்கு உணவு வழங்குவதற்கு கல்வி அமைச்சு நடவடிக்கை எடுத்துள்ளது.
+
+...
+
+[Data](articles/c2b6d431.json)
+
+---
 
 ### CID official who led Easter attack probe to head NPP’s Retired Police Forum: AKD
 
@@ -46,19 +100,27 @@ Speaking at a meeting with the Sri Lankan community in Vancouver, Canada, he sai
 
 [Data](articles/b6901528.json)
 
+[Extended Data](ext_articles/b6901528.ext.json)
+
 ---
 
-### රනිල්, අනුර ඇතුළු පිරිසක් ගැන අභියාචනාධිකරණය නිකුත් කළ රිට් ආඥාව
+### Court of Appeal about Ranil, Anura and several others
 
 *2024-03-25 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194911) · `si`
 
-පසුගිය රජය සමයේ පත්කළ දේශපාලන පළිගැනීම් පිළිබඳව සොයා බැලූ පරීක්ෂණ කොමිසම විසින් ජනාධිපති රනිල් වික්‍රමසිංහ, ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක ඇතුළු පිරිසකට එරෙහිව ඉදිරිපත් කර තිබූ නිර්දේශ හා සොයාගැනීම් බල රහිත කරමින් අභියාචනාධිකරණය රිට් ආඥාවක් නිකුත් කර තිබේ.
+The Court of Appeal issued a writ against Ranil Wickremesinghe and Anura Kumara Dissanayake, decided by Judge Nissankula Karunaratne and a two-member panel.
 
-අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න මහතා ඇතුළු ත්‍රිපුද්ගල අභියාචනාධිකරණ විනිසුරු මඩුලක් විසින් මෙම තීන්දුව ලබා දී තිබේ.
+🟩
+
+The Court of Appeal has issued a writ command by the Presidential Ranil Wickremesinghe and the President of the National Power Anura Kumara Dissanayake.
+
+The decision has been given by a three-member Court of Appeal of the Court of Appeal Judge Nissankula Karunaratne.
 
 ◼️
 
 [Data](articles/8e4ffa27.json)
+
+[Extended Data](ext_articles/8e4ffa27.ext.json)
 
 ---
 
@@ -91,6 +153,8 @@ Furthermore, the magistrate had ordered them to be remanded in custody until the
 ...
 
 [Data](articles/d8badfaf.json)
+
+[Extended Data](ext_articles/d8badfaf.ext.json)
 
 ---
 
@@ -150,21 +214,27 @@ He pointed out that the increase in prices of liquor is the reason for the restr
 
 ---
 
-### தனியார் கல்வி நிறுவனத்தில் மாணவர்கள் குழு மோதல்
+### A group of students clash in private educational institution
 
 *2024-03-25 14:57:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்-கல்வி-நிறுவனத்தில்-மாணவர்கள்-குழு-மோதல்/175-335156) · `ta`
 
-இப்பாகமுவ - பக்மீகொல்ல பிரதேசத்தில் அமைந்துள்ள தனியார் கல்வி நிறுவனமொன்றின் மாணவர்கள் குழுக்களுக்கு இடையில் இடம்பெற்ற மோதலில் 9 பேர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+A clash at a private institute in Pakmuwa-Pakmigolla left nine injured, with three at Kurunegala Teaching Hospital, four at Polgola Divisional Hospital, and the cause is under investigation.
 
-வதிவட தனியார் கல்வி நிறுவனமொன்றில் நேற்று (24) இரவு இந்த மோதல் இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+🟩
 
-03 ஆண் மாணவர்கள் குருநாகல் போதனா வைத்தியசாலையிலும், 04 மாணவிகள் மற்றும் ஒரு மாணவர் பொல்கொல்ல பிரதேச வைத்தியசாலையிலும் அனுமதிக்கப்பட்டுள்ளனர்.
+Nine people have been admitted to the hospital in a clash between students of a private educational institute in the Pakmuwa -Pakmigolla area.
 
-மோதலுக்கான காரணம் இதுவரை கண்டறியப்படவில்லை, கொகரெல்ல பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+It is reported that the clash took place last night (24) at a private private institution.
+
+03 male students have been admitted to the Kurunegala Teaching Hospital, 04 students and a student of Polgola Divisional Hospital.
+
+The cause of the clash has not yet been identified, and the Koralla police are conducting further investigations.
 
 ◼️
 
 [Data](articles/5ce87a7d.json)
+
+[Extended Data](ext_articles/5ce87a7d.ext.json)
 
 ---
 
@@ -431,6 +501,22 @@ The Minister also said that it would empower the Bureau of Foreign Employment Bu
 [Data](articles/9477637d.json)
 
 [Extended Data](ext_articles/9477637d.ext.json)
+
+---
+
+### ශ්‍රී මහා බෝධිය ආරක්ෂාකරන පොලිස් නිලධාරීන්ට නව ඇඳුමක්
+
+*2024-03-25 13:36:12* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-මහා-බෝධිය-ආරක්ෂාකරන-පොලිස්-නිලධාරීන්ට-නව-ඇඳුමක්/11-408783) · `si`
+
+අනුරාධපුර ඓතිහාසික ජය ශ්‍රී මහා බෝධියේ ඇතුල් මළුවේ රාජකාරියේ නිරත පොලිස් නිලධාරීන් සහ නිලධාරිනියන් තිස් දෙනෙකු හට සුදු පැහැති නව පොලිස් නිල ඇඳුමක් හඳුන්වා දීම අද (25දා) සිදු කෙරිණි.
+
+මෙහිදී නව නිල ඇඳුමින් රාජකාරී ආරම්භ කල පොලිස් නිලධාරීන් සහ නිලධාරිනියන් හට, අටමස්ථානාධිපති, පූජ්‍ය පල්ලේගම හේමරතන නාහිමිපාණන් විසින් සෙත් පිරිත් සජ්ඣායනා කර, පිරිත් නූල් බැඳ ආශිර්වාද සිදු කළහ.
+
+අටමස්ථානාධිපති නාහිමිපාණන් විසින් මීට පෙර, මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතාගෙන් සහ පොලිස්පති දේශබන්දු  තෙන්නකෝන් මහතාගෙන් කල ඉල්ලීමකට අනුව, අනුරාධපුර කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී තිලිණ හේවාපතිරණ මහතාගේ ඍජු අධීක්ෂණය යටතේ මෙය සිදු කෙරිණි. මෙම අවස්ථාව සඳහා උඩමළුව පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ඩබ්ලිව්.සී.එල්.ආර්.කේ.බී. වෑත්තෑව මහතා ඇතුළු නිලධාරීහු පිරිසක් එක්ව සිටියහ.
+
+◼️
+
+[Data](articles/a1d92b7e.json)
 
 ---
 
@@ -2159,99 +2245,5 @@ Five groups of other crime under the arrest of organized criminal gang members h
 [Data](articles/e782f391.json)
 
 [Extended Data](ext_articles/e782f391.ext.json)
-
----
-
-### Maithri has decided to call all party members to Colombo
-
-*2024-03-25 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194894) · `si`
-
-Maithripala Sirisena has summoned all SLFP members to Colombo, marking a crucial stage in the party's development. Attendance is mandatory. The new UPFA, aiming to support President Ranil Wickremesinghe, plans to continue political meetings from March, with the alliance ending in April.
-
-🟩
-
-Former President Chairman Maithripala Sirisena has taken steps to call all the members of the Sri Lanka Freedom Party (SLFP) to Colombo.
-
-The SLFP central parties central committee members, the executive committee members, seats and district organizers of the seat and district organizers have been called to the party headquarters.
-
-It is reported that the attendance to the meeting is mandatory and informed to all members.
-
-Political sources said that the Sri Lanka Freedom Party (SLFP) is scheduled to be built in the final stage, political sources said.
-
-Meanwhile, the new alliance is also planning to end in April.
-
-Accordingly, political sources said that the political meetings of the UPFA will continue from March.
-
-The new UPFA is working to support the present President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/74ea2d5d.json)
-
-[Extended Data](ext_articles/74ea2d5d.ext.json)
-
----
-
-### Govt. to enact law to safeguard IMF programme amid political uncertainty
-
-*2024-03-25 06:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Govt-to-enact-law-to-safeguard-IMF-programme-amid-political-uncertainty/155-279511) · `en`
-
-Colombo, March 25 (Daiy Mirror) - Amid fears that the current programme with the International Monetary Fund (IMF) will be derailed in case of a regime change, the government is planning to enact an economic transformation law to ensure sustainability of the project despite political changes, a minister said yesterday.
-
-The International community, particularly the Western countries, has emphasized the importance of continuity with the the economic reform programme supported by a 4-year Extended Fund Facility (EFF) arrangement.
-
-The EFF arrangement was approved by the IMF Executive Board for a total amount of US$3 billion on March 20, 2023.
-
-The IMF which included the latest mission said the authorities are making good progress in implementing an ambitious reform agenda under the EFF with commendable outcomes, including rapid disinflation, robust reserve accumulation, and initial signs of economic growth while preserving the stability of the financial system.
-
-...
-
-[Data](articles/97708919.json)
-
-[Extended Data](ext_articles/97708919.ext.json)
-
----
-
-### Govt. to enact law to safeguard IMF programme amid political uncertainty
-
-*2024-03-25 06:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-to-enact-law-to-safeguard-IMF-programme-amid-political-uncertainty/108-279511) · `en`
-
-Colombo, March 25 (Daiy Mirror) - Amid fears that the current programme with the International Monetary Fund (IMF) will be derailed in case of a regime change, the government is planning to enact an economic transformation law to ensure sustainability of the project despite political changes, a minister said yesterday.
-
-The International community, particularly the Western countries, has emphasized the importance of continuity with the the economic reform programme supported by a 4-year Extended Fund Facility (EFF) arrangement.
-
-The EFF arrangement was approved by the IMF Executive Board for a total amount of US$3 billion on March 20, 2023.
-
-The IMF which included the latest mission said the authorities are making good progress in implementing an ambitious reform agenda under the EFF with commendable outcomes, including rapid disinflation, robust reserve accumulation, and initial signs of economic growth while preserving the stability of the financial system.
-
-...
-
-[Data](articles/f8fa08c0.json)
-
-[Extended Data](ext_articles/f8fa08c0.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-03-25 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194893) · `si`
-
-The Met Department warns of rain and thundershowers in Eastern, Uva, and several other provinces, with strong winds and lightning risks.
-
-🟩
-
-Several spells of rain will occur in the Eastern and Uva provinces, the Met Department said.
-
-Thundershowers will develop at several places in the Western, Sabaragamuwa, Southern, Central, Central and Central and Northwestern provinces.
-
-In some places, in some places in the Central, Sabaragamuwa and Uva provinces, are expected in the Galle and Matara districts.
-
-The Meteorology Department says to the public to take necessary steps to reduce temporary strong winds and lightning accidents due to thunderstorms.
-
-◼️
-
-[Data](articles/df45d3d5.json)
-
-[Extended Data](ext_articles/df45d3d5.ext.json)
 
 ---

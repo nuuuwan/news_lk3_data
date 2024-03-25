@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 10:33:35**
+As of **2024-03-25 10:51:36**
 
 ## Newspaper Stats
 
@@ -26,27 +26,63 @@ adaderanasinhalalk | 2,401
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,960 (100.0%) of 14,965 articles have been extended.
+14,965 (100.0%) of 14,965 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### சிறிசேனவை கைதுசெய்யலாம் - சட்டத்தரணிகள் தெரிவிப்பு
+### Kalmunai North Divisional Secretariat Struggle
 
-*2024-03-25 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179618) · `ta`
+*2024-03-25 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/179617) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திரிபாலசிறிசேனவை கைதுசெய்வதற்கு போதுமான காரணங்கள் உள்ளன என சட்டத்தரணிகள்  தெரிவித்துள்ளனர்.
+Protest in Kalmunai North Divisional Secretariat over civil society demands. Over 50 civilians involved, with continuous resolution efforts. Security provided by Kalmunai Headquarters Police. Previous hunger strike for upgrading the secretariat ended with politicians' promises.
 
-இலங்கையின் குற்றவியல் நடைமுறைச்சட்டம் தண்டனைசட்டம் பயங்கரவாத தடைச்சட்டம் உள்ளிட்டவற்றின் விதிகளை மீறியுள்ளதாக  சுட்டிக்காட்டியுள்ள சட்டத்தரணிகள் ஏன் அவர் இந்த முக்கியமான விடயத்தை மூன்று வாரங்கள் மறைத்துவைத்தார் என கேள்வி எழுப்பியுள்ளனர்.
+🟩
 
-உயிர்த்த ஞாயிறு தாக்குதல்கள் தொடர்பில் மைத்திரிபாலசிறிசேன தெரிவித்துள்ள கருத்துக்கள் குறித்து ஜனநாயகத்திற்கான சட்டத்தரணிகள் சங்கம் முறைப்பாடு செய்துள்ளது.
+A protest has been launched in the arrangement of all civil society demanding a solution to the Kalmunai North Divisional Secretariat issue.
 
-சிஐடியினரும் ஏனைய சம்பந்தப்பட்டதரப்பினரும் உடனடியாக நடவடிக்கை எடுக்காவிட்டால் சட்டமா அதிபரும் சிஐடியினரும் மைத்திரிபால சிறிசேனவின் கூற்றுக்கள் குறித்து விசாரணைகளை மேற்கொள்ளவேண்டும் என கோரும் மனுவை மேல்முறையீட்டுநீதிமன்றத்தில் தாக்கல் செய்ய தயார் என சட்டத்தரணி மனோஜ் நாணயக்கார தெரிவித்துள்ளார்.
+The struggle, which began at the Kalmunai North Divisional Secretariat, on Monday (25), is being released by pamphlets.
+
+More than 50 civilians have now launched a protest in the struggle and the organizers said that the struggle will be resolved continuously.
+
+Kalmunai Headquarters Police are providing security in the area where the protest is taking place. Similarly, the hunger strike for the upgrading of the Kalmunai Tamil Divisional Secretariat in 2019 was to abandon the struggle with the fake promises of many politicians.
+
+A hunger strike was held in front of the Divisional Secretariat demanding the upgrading of the Kalmunai North Divisional Secretariat in the Ampara District.
 
 ...
 
+[Data](articles/2d022eea.json)
+
+[Extended Data](ext_articles/2d022eea.ext.json)
+
+---
+
+### Sirisena can be arrested - lawyers report
+
+*2024-03-25 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179618) · `ta`
+
+Lawyers argue for Sirisena's arrest, citing Criminal Procedure Act violations. They question his silence on the PTA rules for three weeks. The Lawyers Association for Democracy has filed a complaint regarding Sirisena's comments on Sunday attacks. Attorney Manoj Nanayakkara threatens legal action if immediate action isn't taken, demanding an inquiry into Sirisena's claims.
+
+🟩
+
+Attorneys have said that there are sufficient reasons for the arrest of former President Maithripala Sirisena.
+
+Attorneys who have pointed out that the Criminal Procedure Act of Sri Lanka has violated the rules of the PTA, has questioned why he hid this important issue for three weeks.
+
+The Lawyers Association for Democracy has lodged a complaint with the comments made by Maithripala Sirisena on the Sunday attacks.
+
+Attorney Manoj Nanayakkara said that if the CIT and other concerned departments do not take immediate action, the Attorney General and the CITs are ready to file a petition in the Appeal Court seeking inquiries into Maithripala Sirisena's claims.
+
+Sirisena has accused him of the Criminal Procedure Act and should be immediately arrested and investigated.
+
+"We are waiting for Sirisena to be accused and immediately arrested and interrogated."
+
+◼️
+
 [Data](articles/6b6d5f62.json)
+
+[Extended Data](ext_articles/6b6d5f62.ext.json)
 
 ---
 
@@ -92,57 +128,51 @@ It is reported that the students have been protesting against the sudden death o
 
 ---
 
-### கல்முனை வடக்கு பிரதேச செயலக நிர்வாகப் பிரச்சினைக்கு தீர்வு காணுமாறு கோரி போராட்டம்
-
-*2024-03-25 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/179617) · `ta`
-
-கல்முனை வடக்கு பிரதேச செயலக நிர்வாகப் பிரச்சினைக்கு தீர்வு காணுமாறு கோரி அனைத்து சிவில் சமூகம் ஏற்பாட்டில் போராட்டம் ஒன்று ஆரம்பிக்கப்பட்டுள்ளது.
-
-இன்று திங்கட்கிழமை (25) காலை கல்முனை வடக்கு பிரதேச செயலக முன்றலில் ஆரம்பமான குறித்த போராட்டம் பல்வேறு கேள்விகளை துண்டுப்பிரசுரம் ஊடாக வெளியிட்டு நடைபெற்று வருகின்றது.
-
-மேலும் குறித்த போராட்டத்தில் 50 க்கும் மேற்பட்ட பொதுமக்கள் தற்போது இணைந்து போராட்டத்தை முன்னெடுத்துள்ளதுடன் தொடர்ச்சியாக இப்போராட்டம் தீர்வு கிடைக்கும் வரை முன்னெடுக்கப்படவுள்ளதாக ஏற்பாட்டாளர்கள் தெரிவித்தனர்.
-
-குறித்த போராட்டம் இடம்பெற்று வரும் பகுதியில் கல்முனை தலைமையக பொலிஸார் பாதுகாப்பினை வழங்கி வருகின்றனர். இதேபோன்று கடந்த 2019 ஆண்டு  கல்முனை தமிழ் பிரதேச செயலகம் தரம் உயர்த்தப்பட வேண்டும் என்பதற்காக உண்ணாவிரத போராட்டம்  பல அரசியல்வாதிகள் பிரமுகர்களின் போலி வாக்குறுதிகளால் போராட்டத்தை கைவிடும் நிலை ஏற்பட்டிருந்தது.
-
-...
-
-[Data](articles/2d022eea.json)
-
----
-
-### மைத்திரி எடுக்கப்போகும் முடிவு என்ன? அனைவருக்கும் அழைப்பு
+### What is the decision to take Maithri?Call everyone
 
 *2024-03-25 09:51:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-எடுக்கப்போகும்-முடிவு-என்ன-அனைவருக்கும்-அழைப்பு/175-335138) · `ta`
 
-மிக முக்கிய தீர்மானங்களை எடுப்பதற்காக ஸ்ரீலங்கா சுதந்திரக் கட்சியின் அனைத்து உறுப்பினர்களையும் வார இறுதியில் கொழும்புக்கு அழைக்க முன்னாள் ஜனாதிபதி மைத்ரிபால சிறிசேன நடவடிக்கை எடுத்துள்ளார்.
+Maithripala Sirisena invites SLFP members to Colombo for crucial decisions, aiming to form a new coalition.
 
-ஶ்ரீலங்கா சுதந்திரக் கட்சியின் மத்திய குழு உறுப்பினர்கள், செயற்குழு உறுப்பினர்கள், தொகுதி மற்றும் மாவட்ட அமைப்பாளர்கள், கட்சியின் அனைத்து அமைப்புகளின் பொறுப்பாளர்களும், கட்சியின் தலைமையகத்திற்கு அழைக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+🟩
 
-இந்தக் கூட்டத்தில் கலந்து கொள்வது கட்டாயம் என அனைத்து உறுப்பினர்களுக்கும் எழுத்து மூலம் அறிவிக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்படுகிறது.
+Former President Maithripala Sirisena has taken steps to invite all members of the Sri Lanka Freedom Party (SLFP) to Colombo on the weekend to make the most important decisions.
 
-எதிர்வரும் காலங்களில் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைமையில் புதிய கூட்டணி அமைக்கப்படவுள்ளதாகவும், அதன் செயற்பாடுகள் இறுதிக்கட்டத்தை எட்டியுள்ளதாகவும் அரசியல் வட்டாரங்கள் தெரிவிக்கின்றன. R
+The Central Committee of the SLFP, the members of the Sri Lanka Freedom Party, the members of the Executive Committee, the constituency and the district organizers, the responsible people of all the party's organizations have been invited to the party headquarters.
+
+It is reported that all members have been informed in writing that it is mandatory to attend the meeting.
+
+Political sources say that a new coalition will be formed in the future led by the Sri Lanka Freedom Party (SLFP) and its activities have reached its final stage.. Remble
 
 ◼️
 
 [Data](articles/8469c836.json)
 
+[Extended Data](ext_articles/8469c836.ext.json)
+
 ---
 
-### பால் தேநீர் விலையில் மாற்றம்?
+### Change in the price of milk tea?
 
 *2024-03-25 09:47:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்-தேநீர்-விலையில்-மாற்றம்/175-335137) · `ta`
 
-இறக்குமதி செய்யப்படும் பால் மாவின் விலையை குறைக்க அரசாங்கம் நடவடிக்கை எடுத்துள்ள நிலையில், பால் தேநீரின் விலையையும் குறைக்க நடவடிக்கை எடுத்து வருவதாக அகில இலங்கை உணவக உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+The All Ceylon Restaurant Owners Association announced that the government is lowering milk tea prices, which will be adjusted after milk prices stabilize. Milk tea by Tinball is now priced between Rs 60 and Rs 80.
 
-விலை குறைக்கப்பட்ட பால் மா சந்தைக்கு வந்த பின்னர், பால் தேநீரின் விலையில் திருத்தம் மேற்கொள்ளப்படும் என அதன் தலைவர் ஹர்ஷன ருக்ஷான் தெரிவித்துள்ளார்.
+🟩
 
-அதன்படி தற்போது 100 ரூபாயாக உள்ள பால் தேநீரின் விலை 90 ரூபாயாக குறையும்.
+The All Ceylon Restaurant Owners Association has said that the government is taking steps to reduce the prices of milk tea and reduce the price of milk tea.
 
-இதேவேளை, புறக்கோட்டையை அண்மித்த பகுதியில் பால்மா அல்லாமல் டின்பால் பயன்படுத்தி தயாரிக்கப்படும் பால் தேநீர் தற்போது 60 முதல் 80 ரூபாய் வரை உள்ளதாக  அகில இலங்கை உணவக உரிமையாளர்கள் சங்கம் குறிப்பிட்டுள்ளது.
+The prices of milk tea will be amended after the price of milk has come to the market, its leader Harshan Rukshan said.
+
+Accordingly, the price of milk tea at Rs.
+
+Meanwhile, the All Ceylon Restaurant Owners Association has stated that milk tea produced by Tinball is now between Rs 60 and Rs 80.
 
 ◼️
 
 [Data](articles/41dd4400.json)
+
+[Extended Data](ext_articles/41dd4400.ext.json)
 
 ---
 
@@ -212,7 +242,7 @@ It is reported that a fourth year student of the Kelaniya University had passed 
 
 However, the university students allege that the hospitalisation of the student in question was delayed due to the absence of an ambulance facility or other vehicle in the university premises to admit the concerned student to the hospital.
 
-Accordingly, it is reported that around 150 students have launched a protest in front of the university administrative building.
+Accordingly, it is reported that around 150 students have launched a sit down protest in front of the university administrative building accusing that negligence by the university administration had led to the death of the student.
 
 ◼️
 
@@ -222,23 +252,31 @@ Accordingly, it is reported that around 150 students have launched a protest in 
 
 ---
 
-### பறவை கூடுகளுடன் பாடசாலைக்கு வந்த மாணவர்கள்
+### Students who came to school with bird nests
 
 *2024-03-25 09:40:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பறவை-கூடுகளுடன்-பாடசாலைக்கு-வந்த-மாணவர்கள்/175-335135) · `ta`
 
-தம்புத்தேகம கல்வி வலயத்துக்குட்பட்ட ஆரம்பப் பாடசாலை ஆசிரியர் ஒருவர் பாடசாலை மாணவர்களுக்கு பறவைக் கூடு ஒன்றைக் கொண்டு வருமாறு அனுப்பிய வட்ஸ்அப் தகவலுக்கு அமைய மறுநாள் நாற்பது மாணவர்கள் பறவைக் கூடுகளுடன் வகுப்புக்கு வந்ததாகத் தெரிவிக்கப்படுகிறது.
+A primary school in Tambuttegama sent bird nests to students, sparking parental concern over bird nest destruction. Parents opposed this, emphasizing teaching in natural environments. The incident was reported to the Divisional Secretary, and an investigation is underway. Dr. Jagath Gunawardena noted that it's legal to remove birds under the Wildlife and Plants Protection Ordinance.
 
-பறவைக் கூடு கொண்டு வரச் சொல்லி சுமார் அறுபது மாணவர்களுக்கு வட்ஸ்அப் மூலம் ஆசிரியர் செய்தி அனுப்பியுள்ளார்.
+🟩
 
-பறவைக் கூட்டுடன் குழந்தைகளை வகுப்பறைக்கு அழைத்து வந்த பெற்றோர்கள் வகுப்பறையில் ஏராளமான பறவைக் கூடுகளைக் கண்டு ஆசிரியரின் செயலுக்கு கடும் எதிர்ப்பு தெரிவித்துள்ளனர்.
+According to WhatsApp, a teacher of the primary school teacher at the Tambuttegama Educational Zone, a bird's nests were reported to have been sent to the school with a bird nest.
 
-இயற்கைச் சூழலில் பறவைக் கூடுகளை குழந்தைகளுக்குக் கற்றுக்கொடுப்பதற்கு பதிலாக இவ்வாறு பறவைக் கூடுகளை அழிக்கக் கற்றுக் கொடுப்பது குறித்து பெற்றோர்கள் கவலை தெரிவித்துள்ளனர்.
+The teacher has sent a message to about sixty students to bring the bird nest.
 
-சம்பவம் தொடர்பில் தம்புத்தேகம பிரதேச செயலாளருக்கு பெற்றோர்கள் அறிவித்துள்ளனர். தம்புத்தேகம கல்வி வலய ஆரம்பக் கல்வி உதவிப் பணிப்பாளர் உபாலிசேன இது தொடர்பில் ஆராயவுள்ளதாக தெரிவித்துள்ளார்.
+Parents who brought their children to the classroom with a bird joint have strongly opposed the teacher's actions by looking at a large number of birds in the classroom.
 
-...
+Parents are concerned about the destruction of bird nests instead of teaching bird nests in the natural environment.
+
+Parents have announced the incident to the Dambuttegama Divisional Secretary. The Director of the Primary Education of the Thambuttegama Education Zone, Upallisena, said that this will be investigated.
+
+Meanwhile, Senior Attorney -at -Law Dr. Jagath Gunawardena said that it is legal to break, remove and destroy birds under Section 31 of the Wildlife and Plants Protection Ordinance.
+
+◼️
 
 [Data](articles/79286771.json)
+
+[Extended Data](ext_articles/79286771.ext.json)
 
 ---
 

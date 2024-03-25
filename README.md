@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 06:17:59**
+As of **2024-03-25 06:55:11**
 
 ## Newspaper Stats
 
-*Scraped **14,915** Articles*
+*Scraped **14,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 800
 dailyftlk | 806
 islandlk | 820
 adalk | 1,267
-tamilmirrorlk | 1,793
+tamilmirrorlk | 1,794
 adaderanalk | 1,797
 virakesarilk | 2,090
 dailymirrorlk | 2,297
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,915 (100.0%) of 14,915 articles have been extended.
+14,915 (100.0%) of 14,916 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -187,6 +187,22 @@ United Kingdom’s Foreign, Commonwealth and Development Office (FCDO) Deputy Ch
 [Data](articles/7100573a.json)
 
 [Extended Data](ext_articles/7100573a.ext.json)
+
+---
+
+### மாணவர்களுக்கு இன்று முதல் காலை உணவு
+
+*2024-03-25 01:46:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-இன்று-முதல்-காலை-உணவு/175-335130) · `ta`
+
+முதலாம் தரம் முதல் ஐந்தாம் தரம் வரையான ஆரம்பப்பிரிவில் கல்வி பயிலும் அனைத்து மாணவர்களுக்கும் காலை உணவு வழங்கும் திட்டம் இன்று (25) ஆரம்பிக்கப்படவுள்ளது.
+
+காலை 7.30 க்கும் 8.30 க்கும் இடையில் இந்த உணவு வழங்கப்படவுள்ளதாக கல்வி அமைச்சர் சுசில் பிரேமஜயந்த குறிப்பிட்டுள்ளார்.
+
+இதனிடையே, நூற்றுக்கும் குறைவான மாணவர்கள் கல்வி பயிலும் பாடசாலைகளில் அனைத்து வகுப்பு மாணவர்களுக்கும் இந்த உணவு வழங்கப்படவுள்ளதாக அமைச்சர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/f697568b.json)
 
 ---
 
@@ -2195,31 +2211,5 @@ The suspect was 36 years old from Akula.
 [Data](articles/578fb613.json)
 
 [Extended Data](ext_articles/578fb613.ext.json)
-
----
-
-### Sri Lanka coconut prices up 0.79-pct at auction
-
-*2024-03-24 10:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-prices-up-0-79-pct-at-auction-155846/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s average coconut prices rose 0.79 percent to 69,225 per 1,000 nuts at an auction on March 21, data from the Coconut Development Authority shows.
-
-The highest price was 77,300 rupees for 1,000 nuts down from 79,100 rupees a week ago, while the lowest 63,000 was down from 65,000 rupees.
-
-A total of 555,561 coconuts were offered at the auction and 334,246 nuts were sold.
-
-Wholesale prices were 95 to 100 rupees for large nuts and 80 to 85 rupees per small nut in the week to March 21, 2024.
-
-Farmgate prices in Kurunegala stayed the same at 70,000 -75,000 per 1000 nuts.
-
-Coconut oil was 570,000 – 630,000 rupees per metric ton from last week’s 590,000-600,000.
-
-Coconut shells stayed the same at 28,000 to 30,000 rupees a metric ton.
-
-◼️
-
-[Data](articles/658a3768.json)
-
-[Extended Data](ext_articles/658a3768.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 17:53:48**
+As of **2024-03-25 18:09:10**
 
 ## Newspaper Stats
 
-*Scraped **15,065** Articles*
+*Scraped **15,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 805
 dailyftlk | 806
 islandlk | 831
-adalk | 1,281
+adalk | 1,283
 adaderanalk | 1,814
 tamilmirrorlk | 1,814
 virakesarilk | 2,119
@@ -26,29 +26,35 @@ adaderanasinhalalk | 2,418
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,060 (100.0%) of 15,065 articles have been extended.
+15,065 (100.0%) of 15,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### මහ වැස්සක් අත ළඟ
+### A rains at hand
 
 *2024-03-25 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194918) · `si`
 
-හෙට දිනයේ බස්නාහිර, සබරගමුව, දකුණු සහ මධ්‍යම පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Thundershowers expected in Western, Sabaragamuwa, Southern, Central, and North Western Provinces tomorrow, with potential for over 100mm in Moneragala. Public advised to prepare for thunderstorms and lightning.
 
-මේ අතර දකුණු පළාතේත් මොණරාගල දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවලට මිලිමීටර් 100ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවද එහි දැක්වෙයි.
+🟩
 
-මධ්‍යම, සබරගමුව සහ ඌ අ පළාත්වලත් කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බවත් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Thundershowers will develop at several places in the Western, Sabaragamuwa, Southern and Central provinces tomorrow.
 
-එසේම බස්නාහිර, සබරගමුව, දකුණු, මධ්‍යම සහ වයඹ පළාත්වල අද සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Meanwhile, the Southern Province and more than 100 millimeters in the Moneragala district can also occur.
 
-මේ අතර ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවිය හැකි අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටී.
+The Meteorological Department says that in some places in the Kalutara, Sabaragamuwa and Ugt, in parts of Kalutara, Galle and Matara districts, the Met Department.
+
+The Meteorological Department says that showers or night thundershowers will develop at several places in the Western, Sabaragamuwa, Southern, Central and North Western Provinces.
+
+Meanwhile, the public is kindly requested to take necessary steps to reduce possible dangers with thunderstorms and lightning.
 
 ◼️
 
 [Data](articles/2cf72c68.json)
+
+[Extended Data](ext_articles/2cf72c68.ext.json)
 
 ---
 
@@ -70,55 +76,83 @@ Additionally, misty conditions can be expected at some places in Central, Sabara
 
 [Data](articles/e73ac50f.json)
 
+[Extended Data](ext_articles/e73ac50f.ext.json)
+
 ---
 
-### மக்கள் செல்வன்' விஜய் சேதுபதி வெளியிட்ட 'வைஃப்' படத்தின் ஃபர்ஸ்ட் லுக்
+### People's Selvan 'Vijay Sethupathi's first look
 
 *2024-03-25 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179689) · `ta`
 
-தற்போதைய சூழலில் தமிழ் திரையுலகில் கதையின் நாயகனாக அறிமுகமாவது எளிது. இதற்கு இணையதளம் மூலமாகவோ... தொலைக்காட்சி மூலமாகவோ... மக்களுக்கு அறிமுகமாகி, குறைந்தபட்சம் நிகழ்ச்சி தொகுப்பாளராக அறிமுகமாகி.. கலகலப்பாக பேசினால் போதும் என்ற எல்லைக்கோடு வரையப்பட்டிருக்கிறது.
+Vijay Sethupathi, known as 'People's Selvan', makes his debut in the Tamil film industry through the website and television, drawing attention. Sivakarthikeyan, the film's editor, is also famous. The film, 'Wife', features Anjali Nair, a debut director, and is produced by Olympia Movie Company. The shooting is ongoing, and the first look has been released, attracting fans. Vijay's previous roles in comedy and character roles have earned him the love of leading stars in the Tamil film industry.
 
-சின்னத்திரையில் தொகுப்பாளராக இருந்த சிவகார்த்திகேயன், புகழ்.. ஆகியோரைத் தொடர்ந்து ஆர் ஜே விஜய் தற்போது 'வைஃப்' படத்தின் மூலம் கதாநாயகனாக அறிமுகமாகிறார்.  இப்படத்தின் ஃபர்ஸ்ட் லுக்கை 'மக்கள் செல்வன்' விஜய் சேதுபதி வெளியிட்டு, படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+🟩
+
+In the present context, it is easy to introduce the hero of the story in the Tamil film industry. This is through the website ... By television ... Make a public debut and at least introduced the show host.. The boundary is drawn to the riot.
+
+Sivakarthikeyan, the editor of the film, was fame.. Following RJ Vijay, he makes his debut as a hero in the film 'Wife'.'People Selvan' Vijay Sethupathi has congratulated the film crew.
+
+Debut director r. Actress Anjali Nair has acted in the upcoming film 'Waif' directed by Hemanathan in the upcoming film 'Nedunalvadai' and 'Danakkan' as the hero of the story.. The film crew has not officially released details of other star actors starring in the film. K. A.. Jen Martin composes music for the film, which is being recorded by Sakthivel. The film is being produced by the Olympia Movie Company, which is being produced by the producer Jayanthi Ambedkumar on behalf of the Olympia Movie Company.. The film is presented by famous producer Ambedkumar.
 
 ...
 
 [Data](articles/42f0e434.json)
 
+[Extended Data](ext_articles/42f0e434.ext.json)
+
 ---
 
-### 'கொல்லுறாளே கொள்ளை அழகுல ஒருத்தி..'
+### 'Koluralele robbery is a beauty ..'
 
 *2024-03-25 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179691) · `ta`
 
-தமிழ் திரையிசை பாடல்களில் காதல் உணர்வுகளை பிரதிபலிக்கும் பாடலுக்கு இளம் தலைமுறை ரசிகர்களிடத்தில் தனி மவுசு உண்டு.
+"Koluralele robbery's beauty captivates fans. Jibran's 'Kollarale Kallai Kallai Beauty' in 'Studiyan' impresses. Features S. Under. Ssh. Kadir, Palaniappan, and others. Produced by Fortune Studios, M. South, and D. Daniel Christopher. First song and lyrical video released, sung by Chandru and Pradeep Kumar, achieving over a million views."
 
-அதிலும் பாடலின் தொடக்க வரிகள், சரணங்கள் காதல் உணர்வை நுட்பமாகவும், எளிமையாகவும் விவரித்திருந்தால் ரசிகர்களின் மனதில் நீங்கா இடம் பெற்று விடும்.
+🟩
 
-அந்த வகையில் கதிர் நடிப்பில் விரைவில் வெளியாக இருக்கும் 'மாணவன்' எனும் திரைப்படத்தில் இசையமைப்பாளர் ஜிப்ரான் இசையில் இடம்பெற்ற 'கொல்லுறாளே கொள்ளை அழகுல ஒருத்தி.. 'என்ற பாடல் ரசிகர்களின் மனதை கவர்ந்திருக்கிறது.
+The song that reflects romantic feelings in Tamil cinema songs has a separate mouse in younger generation fans.
 
-Director S. L. S. Henryஇயக்கத்தில் உருவாகி இருக்கும் 'மாணவன்' எனும் திரைப்படத்தில் கதிர், இயக்குநரும், நடிகருமான கரு. பழனியப்பன், மாஸ்டர் மகேந்திரன், யுவ லட்சுமி, அன்புதாசன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+If the beginning lines and strings of the song have been described as subtle and simple, you will be in the minds of the fans.
+
+In the film 'Studiyan', which will be released soon, the music composer Jibran's music is 'Kollarale Kallai Kallai Beauty'.. 'The song' has impressed the fans' minds.
+
+Director s. Under. Ssh. Kadir, Director and Actor. Palaniappan, Master Mahendran, Yuva Lakshmi, Anbudasan and many others have been cast.
+
+Jibran has composed the film, which has been recorded by Sridhar. The film is being produced by Fortune Studios. M.. South and D. Daniel Christopher is also a co -producer.
+
+The shooting of the film is over and the final phase of work is going on. In this case, the first song and the lyrical video for the song has been released. The song is sung by songwriter Chandru and sung by background singer Pradeep Kumar.
 
 ...
 
 [Data](articles/1fa9b083.json)
 
+[Extended Data](ext_articles/1fa9b083.ext.json)
+
 ---
 
-### கல்லூரி மாணவர்களை நம்பிய சந்தானம் படக் குழுவினர்
+### Santhanam film crew relying on college students
 
 *2024-03-25 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/179686) · `ta`
 
-தமிழ் திரையுலகில் முன்னணி நட்சத்திர நடிகர்கள் நடிக்கும் திரைப்படத்தை விளம்பரப்படுத்துவதற்காக.. தயாரிப்பு நிறுவனம், தயாரிப்பாளர்கள் உள்ளிட்ட படக்குழுவினர் புதிய அணுகு முறையை பின்பற்ற தொடங்கி இருக்கிறார்கள்.
+The Santhanam film crew is using college students for marketing, focusing on private college students for promotional materials. The film, "Inga I Kingu," features the first song "Mayonay," sung by Jonita Gandhi and Shaun Roldan, but some criticize the male voice's suitability.
 
-படமாளிகைக்கு இளைய தலைமுறையினர் தான் அதிகமாக வருகை தருகிறார்கள் என்ற ஒரு புள்ளி விவர கணக்குப்படி தற்போது முன்னணி நட்சத்திர நடிகர்கள் தங்களது திரைப்படங்களின் ஃபர்ஸ்ட் லுக், டைட்டில் லுக், மோஷன் போஸ்டர், சிங்கிள் ட்ராக், டீசர், ட்ரெய்லர் ஆகியவற்றை வெளியிடுவதற்கு தனியார் கல்லூரியில் பயிலும் மாணவ மாணவிகளை தேடி செல்கிறார்கள்.
+🟩
 
-இங்கு மாணவ மாணவிகள் ஆயிரத்திற்கும் மேற்பட்டவர்கள் திரள்வதாலும், ஆரவாரமான குரலில் வரவேற்பதாலும்.. இத்தகைய போக்கு அதிகரித்து வருகிறது.
+To advertise the movie starring leading star actors in the Tamil film industry.. The film crew, including the production company and the producers, is beginning to adopt a new approach.
 
-இந்நிலையில் சிறிய முதலீட்டு படமாகத் தொடங்கப்பட்ட சந்தானம் நடிப்பில் உருவான 'இங்க நான் தான் கிங்கு' எனும் திரைப்படத்தின் முதல் பாடலை.. சென்னையில் உள்ள தனியார் கல்லூரி வளாகத்தில் சிறப்பு அதிதிகள் யாரும் இல்லாமல் படக்குழுவினரே வெளியிட்டிருக்கிறார்கள்.
+According to a statistical account that the younger generation is most likely to visit the filmmaker, the leading star actors are currently searching for students attending private college to publish their films first look, title look poster, single track, teaser and trailer.
+
+More than a thousand students gather and cheerful voice.. Such a trend is increasing.
+
+In this case, Santhanam starred in a small investment film, 'Inga I Kingu' is the first song.. The film crew has been released on a private college campus in Chennai without any special guests.
+
+Director n. Santhanam, Priyalaya, Thambi Ramaiah, Vivek Prasanna, Bala Saravanan, Muniskant, Maran, Sesu, Swaminathan, Kool Suresh. Om Narayan's cinematography. Iman has composed music.
 
 ...
 
 [Data](articles/c097354d.json)
+
+[Extended Data](ext_articles/c097354d.ext.json)
 
 ---
 
@@ -339,6 +373,22 @@ He made a statement on Monday (25) following an invitation by the Criminal Inves
 [Data](articles/2298783d.json)
 
 [Extended Data](ext_articles/2298783d.ext.json)
+
+---
+
+### වෙනස්වූ පොලිස් නිළ ඇඳුම
+
+*2024-03-25 16:33:54* · [`adalk`](https://www.ada.lk/breaking_news/වෙනස්වූ-පොලිස්-නිළ-ඇඳුම/11-408789) · `si`
+
+අනුරාධපුර ඓතිහාසික ජය ශ්‍රී මහා බෝධියේ ඇතුල් මළුවේ රාජකාරියේ නිරත පොලිස් නිලධාරීන් සහ නිලධාරිනියන් තිස් දෙනෙකු හට සුදු පැහැති නව පොලිස් නිල ඇඳුමක් හඳුන්වා දීම අද 25දා) සිදු කෙරිණි.
+
+මෙහිදී නව නිල ඇඳුමින් රාජකාරී ආරම්භ කල පොලිස් නිලධාරීන් සහ නිලධාරිනියන් හට, අටමස්ථානාධිපති, පූජ්‍ය පල්ලේගම හේමරතන නාහිමිපාණන් විසින් සෙත් පිරිත් සජ්ඣායනා කර, පිරිත් නූල් බැඳ ආශිර්වාද සිදු කළහ.
+
+අටමස්ථානාධිපති නාහිමිපාණන් විසින් මීට පෙර, මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතාගෙන් සහ පොලිස්පති දේශබන්දු  තෙන්නකෝන් මහතාගෙන් කල ඉල්ලීමකට අනුව, අනුරාධපුර කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී තිලිණ හේවාපතිරණ මහතාගේ ඍජු අධීක්ෂණය යටතේ මෙය සිදු කෙරිණි.
+
+◼️
+
+[Data](articles/6f85b4f3.json)
 
 ---
 
@@ -987,6 +1037,20 @@ Based on certain information received by the Police Special Task Force (STF) tha
 [Data](articles/d787ee39.json)
 
 [Extended Data](ext_articles/d787ee39.ext.json)
+
+---
+
+### කුවේටයේ නීති විරෝධිව සිටින ලාංකිකයන්ට එරටින් පිටවීමට පොදු සමා කාලයක්
+
+*2024-03-25 14:24:26* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-නීති-විරෝධිව-සිටින-ලාංකිකයන්ට-එරටින්-පිටවීමට-පොදු-සමා-කාලයක්/11-408785) · `si`
+
+කුවේට් රාජ්‍යයේ රැකියා සදහා ගොස් නේවාසික වීසා කාළය උල්ලංඝනය කරමින් එරට රැදී සිටින සහ තම සේවා ස්ථාන වලින් පළා ගොස් සිටින ශ්‍රී ලාංකිකයන්ට, දඩ ගෙවීමකින් සහ නීතිමය බාධා වලින් තොරව එරටින් පිට වී යාම සදහා පොදු සමා කාළයක් කුවේට් හි එමීර් ෂෙයික් මෙෂාල් අල් - අහමඩ් අල් - ජාබර් මැතිතුමා විසින් ප්‍රකාශයට පත් කර ඇති බව කුවේට් රාජ්‍යයේ ශ්‍රී ලංකා තානාපති කාන්දීපන් බාලසුබ්‍රමනියම් මහතා නිවේදනයක් නිකුත් කරමින් පැවසීය .
+
+මෙම පොදු සමා කාළය ඉකුත් 03/17 දින සිට එළඹෙන 06/17 දක්වා  ක්‍රියාත්මක වීමට නියමිතය. කුවේට් රාජ්‍යය තුළ දැනට  වීසා නොමැතිව නීතිවිරෝධී ලෙස රැදී සිටින ශ්‍රී ලාංකිකයන් 19,620 ක් පමණ සිටින බව නිල වාර්තා අනුව තමන්ට සනාථ වී ඇති බවත් , ඒ අතරින් මේ වනවිට යළි ශ්‍රී ලංකාව වෙත පිටත්ව  යාම සදහා ශ්‍රී ලාංකිකයන් 5,000 ක පමණ පිරිසක් තම තානාපති කාර්යාලයේ ලියාපදිංචි වී සිටින බව ද ශ්‍රී ලංකා තානාපතිවරයා පැවසීය .
+
+...
+
+[Data](articles/24c23d61.json)
 
 ---
 
@@ -2108,7 +2172,7 @@ Accordingly, former President Maithripala Sirisena had summoned to the CID at 10
 
 ---
 
-### Sri Lanka should not give standing facilities as lender of first resort
+### Sri Lanka should not give standing facilities as lender of first resort: Bellwether
 
 *2024-03-25 10:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-not-give-standing-facilities-as-lender-of-first-resort-155924/) · `en`
 
@@ -2203,49 +2267,5 @@ With the country recovering from foreign exchange shortage in early 2022, the co
 [Data](articles/2ef86cc3.json)
 
 [Extended Data](ext_articles/2ef86cc3.ext.json)
-
----
-
-### The student is suddenly ill and died;Demonstration at the University of Kelani
-
-*2024-03-25 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/179613) · `ta`
-
-A student's sudden death led to a protest at the University of Kelaniya.
-
-🟩
-
-Students staged a demonstration on Monday morning (25) at the campus of the University of Kelaniya.
-
-It is reported that the students have been protesting against the sudden death of a fellow student.
-
-◼️
-
-[Data](articles/57e6d989.json)
-
-[Extended Data](ext_articles/57e6d989.ext.json)
-
----
-
-### What is the decision to take Maithri?Call everyone
-
-*2024-03-25 09:51:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரி-எடுக்கப்போகும்-முடிவு-என்ன-அனைவருக்கும்-அழைப்பு/175-335138) · `ta`
-
-Maithripala Sirisena invites SLFP members to Colombo for crucial decisions, aiming to form a new coalition.
-
-🟩
-
-Former President Maithripala Sirisena has taken steps to invite all members of the Sri Lanka Freedom Party (SLFP) to Colombo on the weekend to make the most important decisions.
-
-The Central Committee of the SLFP, the members of the Sri Lanka Freedom Party, the members of the Executive Committee, the constituency and the district organizers, the responsible people of all the party's organizations have been invited to the party headquarters.
-
-It is reported that all members have been informed in writing that it is mandatory to attend the meeting.
-
-Political sources say that a new coalition will be formed in the future led by the Sri Lanka Freedom Party (SLFP) and its activities have reached its final stage.. Remble
-
-◼️
-
-[Data](articles/8469c836.json)
-
-[Extended Data](ext_articles/8469c836.ext.json)
 
 ---

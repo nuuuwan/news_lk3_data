@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 13:35:38**
+As of **2024-03-25 13:52:46**
 
 ## Newspaper Stats
 
-*Scraped **15,009** Articles*
+*Scraped **15,012** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,68 +19,144 @@ adalk | 1,273
 adaderanalk | 1,807
 tamilmirrorlk | 1,809
 virakesarilk | 2,104
-dailymirrorlk | 2,313
-adaderanasinhalalk | 2,408
+dailymirrorlk | 2,315
+adaderanasinhalalk | 2,409
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,005 (100.0%) of 15,009 articles have been extended.
+15,009 (100.0%) of 15,012 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### තම පාසලේම ලැප්ටොප් සොරකම් කළ සිසුන් කොටුවෙයි
+### ශ්‍රී ලංකාවට සුපිරි ජයක්
+
+*2024-03-25 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194908) · `si`
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවති පළමු ටෙස්ට් ක්‍රිකට් තරගය ලකුණු 328කින් ජයගැනීමට ශ්‍රී ලංකා කණ්ඩායම අද (25) සමත් විය.
+
+තරගය ජය ගැනීම සඳහා ලකුණු 511ක ඉලක්කයක් හඹා ගිය සත්කාරක බංග්ලාදේශ කණ්ඩායම තරගයේ සිව්වැනි දිනයේ දී ලකුණු 182කට දැවී ගියේය.
+
+ශ්‍රී ලංකා කණ්ඩායම වෙනුවෙන් නායක ධනංජය ද සිල්වා (ලකුණු 102 & 108) සහ කමිඳු මෙන්ඩිස් (102 & 164) ඉනිම දෙකේදී ශතක දෙක බැගින් රැස් කිරීම විශේෂත්වයකි.
+
+බංග්ලාදේශ කණ්ඩායම සිය පළමු ඉනිමට ලකුණු 188ක් රැස් කළ අතර ඔවුන් දෙවැනි ඉනිම සඳහා රැස් කළේ ලකුණු 182ක් පමණි.
+
+පන්දුයැවීමේදී, කසුන් රාජිත ලකුණු 56කට කඩුලු 5ක් දවා ගත් අතර විශ්ව ප්‍රනාන්දු කඩුලු 3ක් සහ ළහිරු කුමාර කඩුලු 2ක් දවා ගත්තේය.
+
+◼️
+
+[Data](articles/90e23629.json)
+
+---
+
+### New uniform for Sri Maha Bodi police post
+
+*2024-03-25 13:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-uniform-for-Sri-Maha-Bodi-police-post/108-279549) · `en`
+
+Anuradhapura, March 25 (Daily Mirror) - A new style of uniform for the police officers on duty at the upper compound of the Sri Jayasri Maha Bodhi in Anuradhapura was introduced today.
+
+The officers who assumed duties last morning in the new uniform received the blessings of the Mahasangha, including Anuradhapura Atamasthanadipathi Ven. Pallegama Hemarathana Thera, who chanted Seth Pirith.
+
+The new uniform was introduced in response to Ven. Hemarathana Thera’s request to Minister of Public Security Tiran Alles and IGP Deshabandu Thennakoon. The proposal was implemented under the supervision of SSP Anuradhapura Division Thilina Hewapathirana.
+
+Several senior police officials, including OIC Udamaluwa Police Post W.C.L.R. K.B. Wetthewa, were present at the occasion.
+
+◼️
+
+[Data](articles/e3c42439.json)
+
+---
+
+### Pay only Rs. 80 for a cup of tea from today: Asela Sampath
+
+*2024-03-25 13:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pay-only-Rs-80-for-a-cup-of-tea-from-today-Asela-Sampath/108-279547) · `en`
+
+Colombo, March 25 (Daily Mirror) - National Consumer Front Chairman Asela Sampath urges people to limit their expenditure on a cup of tea to Rs. 80 starting today.
+
+Addressing the media, he said even though the imported milk powder prices have been slashed, that benefit will not be given to the people by the restaurant owners.
+
+Therefore, he requested the people not to pay more than Rs. 80 for a cup of milk tea from today. He also requested the Consumer Affairs Authority (CAA) to announce the maximum price for a cup of milk tea as Rs. 80 from today.
+
+Addressing the media, he also requested the restaurant owners take immediate action to provide a cup of milk tea for Rs. 80 to increase their customer base. Sampath requested the owners to prominently display the price.
+
+He questioned the relevant authorities for not taking action to slash the price of locally manufactured milk powder too.
+
+...
+
+[Data](articles/fe91257e.json)
+
+---
+
+### Students arrested in their school laptops
 
 *2024-03-25 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194907) · `si`
 
-බේරුවල ආරියවංශ විදුහලේ සුහුරු පන්ති කාමරය කඩා එහි තිබූ ලැප්ටොප් 12ක් සොරකම් කිරීම සම්බන්ධයෙන් එම පාසලේම සිසුන්  දෙදෙනකු ඇතුළු පස්දෙනෙකු අද (25) අත්අඩංගුවට ගත් බව බේරුවල පොලීසිය පවසයි.
+Five students from Ariyavan Vidyalaya in Beruwala were arrested for selling stolen laptops. Suspects from Panadura and Padukka were involved. 12 stolen laptops were found in Padukka.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ එම පාසලේ ලබන වර්ෂයේ අපොස සාමාන්‍ය පෙළ විභාගයට පෙනී සිටිමට නියමිත 16 හැවිරිදි සිසුන් දෙදෙනෙකු, පානදුර සහ පාදුක්ක ප්‍රදේශයේ පදිංචි පුද්ගලයින් තිදෙනකු බව පොලීසිය කීය.
+🟩
 
-පසුගිය පෙබරවාරි මාසයේ පසළොස්වක පොහොය දින පාසලේ සුහුරු පන්ති  කාමරය කඩා ලැප්ටොප් සොරකම් කර ඇති බවට පැමිණිල්ලක් ලැබී තිබූ බව පොලීසිය පැවසීය.
+Beruwala Police say that five students of the same school have been arrested today about five students and two students of the area regarding the flower classroom of Ariyavan Vidyalaya in Beruwala.
 
-එම පාසලේ සිසුන් දෙදෙනෙකු ලැප්ටොප් යන්ත්‍ර අලෙවි කිරීමට සොයන බවට විශේෂ කාර්යාංශ නිලධාරීන්ට ලද තොරතුරක්  මත එම දෙදෙනාගෙන් ප්‍රශ්න කිරීමේදී , පානදුර සහ පාදුක්ක ප්‍රදේශයේ පුද්ගලයින් තිදෙනෙකු සම්බන්ධ කර ගනිමින් එම ලැප්ටොප් අලෙවි කිරීමට සූදානම් බවට පොලීසිය විසින් තොරතුරු අනාවරණ කරගෙන තිබේ.
+The suspect was three persons from Panadura and Padukka, Panadura and Padukka, Panadura and Padukka.
 
-ඒ අනුව සැකකරුවන් අත්අඩංගුවට ගෙන සොරකම් කරන ලද ලැප්ටොප් 12ක් පාදුක්ක ප්‍රදේශයේ සඟවා තිබියදී සොයාගෙන තිබුණි.
+The complaint has been lodged with the fifteen-Fuit school on the Funeral Year Funeral classroom, police said.
+
+Two students of the school are looking to sell laptops that they are looking to sell laptops, police have revealed that the laptop is ready to marke the laptop in Panadura and Padukka.
+
+Accordingly, the suspects were arrested and 12 stolen laps were found hidden in Padukka.
 
 ◼️
 
 [Data](articles/12e9da4a.json)
 
+[Extended Data](ext_articles/12e9da4a.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-03-25 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179646) · `ta`
 
-இன்று திங்கட்கிழமை (மார்ச் 25) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 298.4579 ஆகவும் விற்பனை விலை ரூபா 307.9921 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+Today's currency exchange rate: US $298.4579. Sales price: 307.9921, based on the Central Bank's rate on March 25.
+
+🟩
+
+The US $ 298.4579 and the sales price were 307.9921 based on the Central Bank's currency exchange rate on Monday (March 25).
 
 ◼️
 
 [Data](articles/048ee784.json)
 
+[Extended Data](ext_articles/048ee784.ext.json)
+
 ---
 
-### யுக்திய நடவடிக்கையில் 862 பேர் கைது!
+### 862 arrested
 
 *2024-03-25 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179643) · `ta`
 
-நாட்டில்  பொலிஸாரினால் மேற்கொண்ட யுக்திய நடவடிக்கையின் போது நேற்று  (24)  841 ஆண் சந்தேக நபர்களும் 21 பெண் சந்தேக நபர்களும் கைது செய்யப்பட்டுள்ளனர்.
+Yesterday, 862 were arrested in a police strategy, with 57 under investigation and 10 sent to rehab. Drugs seized include 142 grams of heroin, 97 grams of ice, and 395 grams of cannabis.
 
-இவர்களுள் 57 சந்தேக நபர்கள் மேலதிக விசாரணைக்காக பொலிஸ் காவலில் வைக்கப்பட்டுள்ளதோடு , 05 சந்தேக  நபர்களின் சொத்துக்கள் தொடர்பான விசாரணைகள் மேற்கொள்ளப்பட்டுள்ளன.
+🟩
 
-அத்தோடு, போதைப்பொருளுக்கு அடிமையாகிய 10 சந்தேக நபர்கள் புனர்வாழ்வு  நிலையங்களுக்கு அனுப்பப்படவுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+841 male suspects and 21 female suspects have been arrested yesterday (24) during a strategy by the police in the country.
 
-மேலும், பொலிஸாரினால் மேல் மாகாணத்தில்  மேற்கொள்ளப்பட்ட யுக்திய நடவடிக்கையின் போது ஹெரோயின் 142 கிராம் , ஐஸ் போதைப் பொருள் 97 கிராம் , கஞ்சா 395 கிராம் போன்ற போதைப்பொருட்கள்  கைப்பற்றப்பட்டுள்ளன.
+Of these, 57 suspects have been placed in police custody for further investigations and investigations have been carried out on the assets of five suspects.
 
-தென் பகுதியில் மேற்கொள்ளப்பட்ட  யுக்திய நடவடிக்கையில்  போதைப்பொருட்கள் கைப்பற்றப்பட்டுள்ளன.  இதன் போதும் 76 ஆண் சந்தேக நபர்களும் , 3 பெண் சந்தேக நபர்களும் கைது செய்யப்பட்டுள்ளனர்.
+In addition, 10 suspects who are addicted to drugs will be sent to rehabilitation centers, police said.
+
+In addition, the police have seized 142 grams of heroin, 97 grams of ice and 395 grams of cannabis during the strategy carried out in the Western Province.
+
+Drugs have been seized in the southern strategy.In spite of this, 76 male suspects and 3 female suspects have been arrested.
 
 ◼️
 
 [Data](articles/621b485f.json)
+
+[Extended Data](ext_articles/621b485f.ext.json)
 
 ---
 
@@ -289,6 +365,8 @@ A protest was held by the Joint Committee of Government Executive Officers in fr
 ◼️
 
 [Data](articles/4db0afa7.json)
+
+[Extended Data](ext_articles/4db0afa7.ext.json)
 
 ---
 
@@ -2147,71 +2225,5 @@ The former president said he was considering such action to be taken to protect 
 [Data](articles/af3ceba0.json)
 
 [Extended Data](ext_articles/af3ceba0.ext.json)
-
----
-
-### Treasury bundles sale
-
-*2024-03-25 01:40:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திறைசேரி-உண்டியல்கள்-ஏல-விற்பனை/175-335129) · `ta`
-
-The Central Bank of Sri Lanka will auction Rs 80,000 million on the 27th, offering Rs 20,000 million, Rs 30,000 million in treasury, and Rs 30,000 million with 364-day maturities.
-
-🟩
-
-The Central Bank of Sri Lanka has announced that it will be provided with auctions worth Rs 80,000 million through auctions on the 27th of this month.
-
-Accordingly, the Central Bank of Sri Lanka has announced that the auctioneer will be offered by the auctions worth 20,000 million rupees, 30,000 million rupees worth of treasury and 30,000 million rupees worth of maturity periods of 364 days.. (A)
-
-◼️
-
-[Data](articles/55bb57d8.json)
-
-[Extended Data](ext_articles/55bb57d8.ext.json)
-
----
-
-### Four persons arrested for stealing motorcycles
-
-*2024-03-25 01:31:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோட்டார்-சைக்கிள்களை-திருடிய-நால்வர்-கைது/175-335128) · `ta`
-
-Police arrested four for stealing motorcycles in Dambulla-Miriskonia, seizing over 60 bikes and plates. The stolen bikes were brought from North Central, Northwest, and Eastern Provinces.
-
-🟩
-
-Police have arrested four people for stealing motorcycles in the Dambulla - Miriskonia area.
-
-More than sixty motorcycles and digit plates have been seized during the raid carried out in the area.
-
-Police investigations have revealed that motorcycles have been stolen and brought to the area in the North Central, Northwest and Eastern Provinces.. (A)
-
-◼️
-
-[Data](articles/f653e5cb.json)
-
-[Extended Data](ext_articles/f653e5cb.ext.json)
-
----
-
-### Easter Sunday terror attack: Maithri to appear before CID today
-
-*2024-03-25 01:15:01* · [`dailyftlk`](https://www.ft.lk/news/Easter-Sunday-terror-attack-Maithri-to-appear-before-CID-today/56-759872) · `en`
-
-IGP Deshabandu Tennekoon says it is premature to comment on whether Sirisena will be arrested
-
-Claims special security measures would be implemented to guarantee Sirisena’s safety
-
-Former President Maithripala Sirisena is expected to appear before the Police Criminal Investigations Department (CID) today to provide a statement to investigators regarding his recent contentious remarks concerning the Easter Sunday attack and its masterminds.
-
-On 22 March, Sirisena expressed his readiness to disclose the true masterminds behind the Easter Sunday terror attack of 2019 if directed by the Court. The former President claimed to personally possess this information.
-
-He asserted that he was informed of this information three weeks ago, expressing reluctance to disclose it publicly due to concerns for his safety and that of his family.
-
-According to Police Spokesperson SSP Nihal Thalduwa, Sirisena has informed the Police he will appear before the CID today as requested.
-
-...
-
-[Data](articles/c6ce503f.json)
-
-[Extended Data](ext_articles/c6ce503f.ext.json)
 
 ---

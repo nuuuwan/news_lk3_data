@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 00:33:49**
+As of **2024-03-26 00:48:23**
 
 ## Newspaper Stats
 
-*Scraped **15,135** Articles*
+*Scraped **15,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 810
 economynextcom | 818
 islandlk | 831
 adalk | 1,291
-tamilmirrorlk | 1,819
 adaderanalk | 1,819
+tamilmirrorlk | 1,820
 virakesarilk | 2,126
 dailymirrorlk | 2,339
 adaderanasinhalalk | 2,428
@@ -26,25 +26,47 @@ adaderanasinhalalk | 2,428
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,128 (100.0%) of 15,135 articles have been extended.
+15,133 (100.0%) of 15,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### இளநீர் ஏற்றுமதி வருமானம் அதிகரிப்பு
+### பதுளையில் பஸ் சாரதிகளுக்கிடையில் மோதல்
+
+*2024-03-26 00:31:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதுளையில்-பஸ்-சாரதிகளுக்கிடையில்-மோதல்/175-335189) · `ta`
+
+பதுளையில் தனியார் பஸ் ஊழியர்களுக்கும் அதே பாதையில் இயங்கும் அரச பஸ் ஊழியர்களுக்கும் இடையில் நேற்று (25) மாலை பதுளை மத்திய பஸ் நிலையத்தில் மோதல் ஏற்பட்டுள்ளது.
+
+இதன்போது, காயமடைந்த அரச ஊழியர்கள் இருவர் பதுளை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டதுடன், தனியார் பஸ் சாரதி மற்றும் உதவியாளர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளதாக பதுளை பொலிஸார் தெரிவித்துள்ளார்.
+
+பஸ் இயங்கும் நேரம் குறித்த வாக்குவாதத்தின் போது, தனியார் பஸ் சாரதி, அரச பஸ் சாரதி மற்றும் நடத்துனரை கத்தியால் குத்தி காயப்படுத்தியுள்ளார் என பொலிஸார் குறிப்பிட்டுள்ளனர். (a)
+
+◼️
+
+[Data](articles/89c534f9.json)
+
+---
+
+### Increase in juvenile export income
 
 *2024-03-26 00:09:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளநீர்-ஏற்றுமதி-வருமானம்-அதிகரிப்பு/175-335186) · `ta`
 
-இலங்கையில் கடந்த பெப்ரவரி மாதத்தில் இளநீர் ஏற்றுமதியின் மூலம் 3, 439 மில்லியன் ரூபாய் வருமானம் ஈட்டப்பட்டுள்ளது.
+Sri Lanka's juvenile export income in February increased by 734 million rupees to 3,439 million rupees, up from 2,705 million rupees in the same month last year.
 
-இதற்கமைய, இந்த வருமானமானது கடந்த வருடத்தின் பெப்ரவரி மாதத்தை விடவும் 734 மில்லியன் ரூபாவினால் அதிகரித்துள்ளதாக தெங்கு ஏற்றுமதி அதிகார சபை தெரிவித்துள்ளது.
+🟩
 
-அதேநேரம் கடந்த வருடத்தின் பெப்ரவரி மாதத்தில் இளநீர் ஏற்றுமதியின் மூலம் 2, 705 ரூபாய் வருமானம் ஈட்டப்பட்டிருந்தமை குறிப்பிடத்தக்கது. (a)
+In Sri Lanka last February, 3, 439 million rupees was earned by juvenile exports.
+
+According to the Coconut Export Authority, the revenue has increased by 734 million rupees in February last year.
+
+At the same time, in February last year, the income was earned by 2, 705 rupees.. (A)
 
 ◼️
 
 [Data](articles/69f69def.json)
+
+[Extended Data](ext_articles/69f69def.ext.json)
 
 ---
 
@@ -82,6 +104,8 @@ In the same week, the International Monetary Fund (IMF), on the advice of which 
 
 [Data](articles/402570a1.json)
 
+[Extended Data](ext_articles/402570a1.ext.json)
+
 ---
 
 ### Impact of parallel and underground economies on Govt. corruption and economic failure
@@ -97,6 +121,8 @@ Corruption plays a critical role in shaping a country’s economic trajectory, s
 ...
 
 [Data](articles/e68adc12.json)
+
+[Extended Data](ext_articles/e68adc12.ext.json)
 
 ---
 
@@ -144,6 +170,8 @@ The 2024 Budget aims to increase tax revenue to Rs. 4 trillion, up from Rs. 3 tr
 
 [Data](articles/6af5e2b8.json)
 
+[Extended Data](ext_articles/6af5e2b8.ext.json)
+
 ---
 
 ### Economic realities and political promises
@@ -157,6 +185,8 @@ After concluding its review on SL’s economic progress during last year and com
 ...
 
 [Data](articles/0a595203.json)
+
+[Extended Data](ext_articles/0a595203.ext.json)
 
 ---
 
@@ -2219,35 +2249,5 @@ President Ranil Wickremesinghe has issued a directive to provide this breakfast 
 [Data](articles/71fd0563.json)
 
 [Extended Data](ext_articles/71fd0563.ext.json)
-
----
-
-### Ginger captures in Dambulla
-
-*2024-03-25 14:47:02* · [`adalk`](https://www.ada.lk/breaking_news/ඉඟුරු-වංචාවක්-දඹුල්ලෙන්-හසුකර-ගනියි/11-408787) · `si`
-
-Dambulla's local ginger is being undermined by cheaper imports. Farmers claim their ginger is between Rs. 1900 and Rs. 1500, but it's unclear who's selling it. The Economic Center in Galewela is suspected of involvement, but the police are investigating.
-
-🟩
-
-Local lights are banned by the raw ginger imported from foreign countries, in submerged overseas, the Dambulla Economic Center is a number of days.
-
-Farmers say that the bulk of the local ginger is between 1900 and Rs. 1500 to Rs.
-
-Overseas from the Dambulla Economic Center and the foreign countries, the foreign countries, were placed in stores.
-
-They were unable to declare a farmer or whom they were given to those anaires.
-
-When inquired from the store owner, the lorry driver was told that he was brought to the economic center of the Galewela area.The farmers were able to take these at several places in the Economic Center to take these in the Economic Center.
-
-These raw ginger has plenty of factors that they can claim that they can say that they can not express their raw ginger in Sri Lanka.
-
-However, it is noteworthy that these ginger is locally or not to reveal the farmers who brought them to marketing businesses
-
-...
-
-[Data](articles/de8ff733.json)
-
-[Extended Data](ext_articles/de8ff733.ext.json)
 
 ---

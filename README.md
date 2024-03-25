@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 18:33:44**
+As of **2024-03-25 18:51:48**
 
 ## Newspaper Stats
 
-*Scraped **15,080** Articles*
+*Scraped **15,082** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 137
-bbccomsinhala | 162
+bbccomsinhala | 163
 dbsjeyarajcom | 191
 newsfirstlk | 363
 economynextcom | 805
@@ -19,18 +19,36 @@ adalk | 1,283
 adaderanalk | 1,815
 tamilmirrorlk | 1,815
 virakesarilk | 2,122
-dailymirrorlk | 2,331
+dailymirrorlk | 2,332
 adaderanasinhalalk | 2,419
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,077 (100.0%) of 15,080 articles have been extended.
+15,080 (100.0%) of 15,082 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### School children or their aging will not wait until our issues solved: Minister
+
+*2024-03-25 18:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/School-children-or-their-aging-will-not-wait-until-our-issues-solved-Minister/108-279561) · `en`
+
+Colombo, March 25 (Daily Mirror) - Schoolchildren cannot wait, and their growth cannot be halted till we address their issues after resolving our own. They may opt for alternative educational systems in the meantime, Education Minister Susil Premajayantha said.
+
+While addressing the event marking the beginning of the 2024 school meal programme held today (25) at the Sujatha Girls’ College in Narahenpita, he said if a suitable education system is not available in school, the children will definitely find alternative systems.
+
+"Today we are facing that situation. Many children say good-bye to our government school education system and engage with alternative education systems. We need to solve our issues, but we need to make their future in the first place," the Minister said.
+
+"The education programmes in a country are joined by technology and most of the countries have gone very far with the new technology systems. We are also following them," he said.
+
+◼️
+
+[Data](articles/2bb49193.json)
+
+---
 
 ### Three injured in luxury bus accident on Kandy-Mahiyanganaya road
 
@@ -50,6 +68,8 @@ Further information has been revealed that the luxury bus which was involved in 
 
 [Data](articles/24fbfd40.json)
 
+[Extended Data](ext_articles/24fbfd40.ext.json)
+
 ---
 
 ### CA quashes PCoL recommendations against Ranil, Anura and others
@@ -65,6 +85,8 @@ Court of Appeal three-judge-bench comprising Justice Nissanka Bandula Karunaratn
 ...
 
 [Data](articles/652f6643.json)
+
+[Extended Data](ext_articles/652f6643.ext.json)
 
 ---
 
@@ -1002,6 +1024,8 @@ The Joint Trade Union Federation today staged a protest in front of the Fort Rai
 
 [Data](articles/ef615f3c.json)
 
+[Extended Data](ext_articles/ef615f3c.ext.json)
+
 ---
 
 ### Former Minister's Kehella court order
@@ -1764,6 +1788,26 @@ Accordingly, a packet of Rs.
 
 ---
 
+### ලිංගිකත්වය සඳහා කැමැත්ත පළ කිරීමේ අවම වයස අඩු කිරීමේ ප්‍රතිවිපාක මොනවා ද?
+
+*2024-03-25 12:42:43* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51jg7j9wnxo) · `si`
+
+ලිංගිකත්වය සඳහා කැමැත්ත පළ කිරීමේ අවම වයස අඩු කිරීමේ ප්‍රතිවිපාක මොනවා ද?
+
+ශ්‍රී ලංකාවේ පවතින නීති රාමුවට අනුව වයස අවුරුදු 18ට අඩු ඕනෑම අයෙකු සැලකෙන්නේ දරුවෙකු ලෙසයි. වයස අවුරුදු 18ට වඩා අඩු අයට විවාහ වීමට ද අවසර නොමැත.
+
+1995 අංක 22 දරණ දණ්ඩ නීති සංග්‍රහ සංශෝධිත පනතට අනුව වසය අවුරුදු 16ට වැඩි ගැහැණු දරුවෙකු සමඟ, ඇගේ එකඟතාවය හෝ කැමත්ත මත යම් පුද්ගලයෙකු විසින් ලිංගිකව හැසිරීම සලකන්නේ ස්ත්‍රී දූෂණයක් ලෙසයි. එය "ව්‍යවස්ථාපිත ස්ත්‍රී දූෂණය" ලෙස හඳුන්වයි. එවැනි සිදුවීමක් වාර්තා වීමේ දී එය ස්ත්‍රී දූෂණයක් ලෙස සලකා දඬුවම් ලබා දීම සිදු විය.
+
+කෙසේ නමුත් මෙම තත්වය ලිහිල් කිරීමට මේ වන විට අධිකරණ අමාත්‍යාංශය විසින් කෙටුම්පතක් කැබිනට් මණ්ඩලය වෙත යොමු කර තිබේ.
+
+ලංකාවේ නවයොවුන් ගැබ්ගැනීම්: ලිංගික ආශාවන් ස්වභාවික වුණාට සෙක්ස් කරන්න එපා?
+
+...
+
+[Data](articles/b7fa3886.json)
+
+---
+
 ### Sri Lankan PM arrives in China for official visit
 
 *2024-03-25 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98187/sri-lankan-pm-arrives-in-china-for-official-visit) · `en`
@@ -2195,53 +2239,5 @@ He said this would help eliminate traffickers and fraudsters from the foreign em
 [Data](articles/d10a9b48.json)
 
 [Extended Data](ext_articles/d10a9b48.ext.json)
-
----
-
-### Maithripala summons all SLFP members to Colombo
-
-*2024-03-25 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98184/maithripala-summons-all-slfp-members-to-colombo) · `en`
-
-The Chairman of Sri Lanka Freedom Party (SLFP), former President Maithripala Sirisena has summoned all members of the party to Colombo for a pivotal meeting scheduled for the weekend.
-
-Political sources revealed that accordingly, the party’s Central Committee members, Executive Committee members, Constituency and District Organizers of the SLFP and all the officials of the affiliated organizations of the party have been called to the party headquarters in order to reach certain crucial decisions.
-
-Furthermore, attendance of all relevant members has been deemed mandatory for this meeting, according to political sources.
-
-A new alliance led by the SLFP will be formed in the near future and it is reported that this process has reached the final stage.
-
-Against this backdrop, a new alliance led by MP Nimal Lanza is set to be formed within April, aiming at supporting the current Head of State Ranil Wickremesinghe, political sources said.
-
-◼️
-
-[Data](articles/b2e400fd.json)
-
-[Extended Data](ext_articles/b2e400fd.ext.json)
-
----
-
-### Four killed in accident during a car tournament
-
-*2024-03-25 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194902) · `si`
-
-In Hungary's car tournament, four died and eight were injured in a track accident. The tournament was suspended, and emergency services were deployed.
-
-🟩
-
-Four persons were killed in a car tour in Hungary's car tournament.
-
-Eight others who were injured in the accident are being treated in the accident.
-
-During a car tournament in Hungary, the track has gone out of the track and collided with visitors.
-
-The ambulances and helicopters were deployed to take the injured.
-
-It was reported that the organizers had taken steps to suspend the tournament.
-
-◼️
-
-[Data](articles/c6dcbe5e.json)
-
-[Extended Data](ext_articles/c6dcbe5e.ext.json)
 
 ---

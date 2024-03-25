@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 00:48:23**
+As of **2024-03-26 01:03:07**
 
 ## Newspaper Stats
 
-*Scraped **15,136** Articles*
+*Scraped **15,137** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 831
 adalk | 1,291
 adaderanalk | 1,819
 tamilmirrorlk | 1,820
-virakesarilk | 2,126
+virakesarilk | 2,127
 dailymirrorlk | 2,339
 adaderanasinhalalk | 2,428
 
@@ -26,25 +26,47 @@ adaderanasinhalalk | 2,428
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,133 (100.0%) of 15,136 articles have been extended.
+15,136 (100.0%) of 15,137 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### பதுளையில் பஸ் சாரதிகளுக்கிடையில் மோதல்
+### பயங்கரவாத தடைச்சட்டத்தின் கீழ் மைத்திரி கைது செய்யப்பட வேண்டும் - உதய கம்மன்பில
+
+*2024-03-26 00:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179704) · `ta`
+
+பயங்கரவாத தடைச் சட்டத்தின் பிரகாரம் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன கைது செய்யப்பட வேண்டும். 7 வருட கால கடூழிய சிறைத்தண்டனைக்குரிய குற்றத்தை புரிந்துள்ளார். அவரை நாங்கள் நன்கு அறிவோம். உண்மைகளை ஒருபோதும் பகிரங்கப்படுத்தமாட்டார் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும், பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+
+கொழும்பில் உள்ள பிவிதுரு ஹெல உறுமய கட்சி காரியாலயத்தில் திங்கட்கிழமை (25) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பயங்கரவாத தாக்குதல் தொடர்பில் தகவல் தெரிந்தும் அதனை மறைத்த முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன கைது செய்யப்பட வேண்டும் என நாங்கள் குறிப்பிட்டது அடிப்படையற்றது,நடைமுறைக்கு சாத்தியமற்றது என பொலிஸ்மா அதிபர் குறிப்பிடுகிறார்.சட்டத்தின் பிரகாரம் அவ்வாறு முடியாது.மைத்திரிபால சிறிசேனவிடம் விசாரணைகளை முன்னெடுத்தததன் பின்னர் அடுத்தக் கட்ட நடவடிக்கைகளை முன்னெடுக்கலாம் என்று குறிப்பிடுவது தவறு,
+
+...
+
+[Data](articles/c9b12745.json)
+
+---
+
+### Bus drivers in Badulla clash
 
 *2024-03-26 00:31:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதுளையில்-பஸ்-சாரதிகளுக்கிடையில்-மோதல்/175-335189) · `ta`
 
-பதுளையில் தனியார் பஸ் ஊழியர்களுக்கும் அதே பாதையில் இயங்கும் அரச பஸ் ஊழியர்களுக்கும் இடையில் நேற்று (25) மாலை பதுளை மத்திய பஸ் நிலையத்தில் மோதல் ஏற்பட்டுள்ளது.
+A clash between private and state bus workers in Badulla led to the death of a private bus driver, state bus driver, and conductor, with two injured civil servants arrested.
 
-இதன்போது, காயமடைந்த அரச ஊழியர்கள் இருவர் பதுளை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டதுடன், தனியார் பஸ் சாரதி மற்றும் உதவியாளர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளதாக பதுளை பொலிஸார் தெரிவித்துள்ளார்.
+🟩
 
-பஸ் இயங்கும் நேரம் குறித்த வாக்குவாதத்தின் போது, தனியார் பஸ் சாரதி, அரச பஸ் சாரதி மற்றும் நடத்துனரை கத்தியால் குத்தி காயப்படுத்தியுள்ளார் என பொலிஸார் குறிப்பிட்டுள்ளனர். (a)
+A clash between private bus workers in Badulla and state bus workers on the same route was clashed at the Badulla Central Bus Station yesterday evening.
+
+The Badulla police said that two injured civil servants have been admitted to the Badulla Teaching Hospital and have been arrested on suspicion of a private bus driver and assistant.
+
+During the argument over the bus run, police said that a private bus driver, the state bus driver and the conductor were stabbed to death with a knife.. (A)
 
 ◼️
 
 [Data](articles/89c534f9.json)
+
+[Extended Data](ext_articles/89c534f9.ext.json)
 
 ---
 
@@ -202,6 +224,8 @@ The Alcohol and Drug Information Centre (ADIC) in a statement recently called on
 
 [Data](articles/b2d20d45.json)
 
+[Extended Data](ext_articles/b2d20d45.ext.json)
+
 ---
 
 ### Call for urgent agreement on international deal to prepare for and prevent future pandemics
@@ -215,6 +239,8 @@ A high-powered intervention by 23 former national Presidents, 22 former Prime Mi
 ...
 
 [Data](articles/33e2f3c1.json)
+
+[Extended Data](ext_articles/33e2f3c1.ext.json)
 
 ---
 
@@ -2223,31 +2249,5 @@ In addition, 12 stolen laptops have been seized by the police as they were hidde
 [Data](articles/305e1360.json)
 
 [Extended Data](ext_articles/305e1360.ext.json)
-
----
-
-### "It is necessary to make a sense of textual knowledge"
-
-*2024-03-25 14:51:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாட-அறிவு-போன்று-போசாக்கும்-அவசியம்/175-335154) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of preparing children for exams and integrating modern technology, including AI, into education. He highlighted the "2024 School Food Program" aimed at providing nutritional food to all primary school students, funded by Rs 16.6 billion, to improve health and dietary habits.
-
-🟩
-
-President Ranil Wickremesinghe pointed out that the children of the country should be preserved as they should be given a lesson and prepared for exams.
-
-The President also said that the children should be given modern technology, including artificial intelligence, and that the government is focused on changing school education and exam systems.
-
-President Ranil Wickremesinghe, who was present at the inauguration of the "2024 School Food Program", which was held on Monday (25) at the Sujatha Women's College, Narahenpitiya.
-
-The Ministry of Education has taken steps to provide nutritional food to all schoolchildren from grade 1-5 in the country.
-
-President Ranil Wickremesinghe has issued a directive to provide this breakfast at the time of 7.30 am and 8.30 am before students engage in educational activities in view of the recommendations of nutrition experts.
-
-...
-
-[Data](articles/71fd0563.json)
-
-[Extended Data](ext_articles/71fd0563.ext.json)
 
 ---

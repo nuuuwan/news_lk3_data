@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 22:04:38**
+As of **2024-03-25 22:18:02**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 2,426
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,102 (100.0%) of 15,107 articles have been extended.
+15,107 (100.0%) of 15,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### பதில் அமைச்சரவை அமைச்சரை நியமித்தார் ஜனாதிபதி
+### President appointed Cabinet Minister
 
 *2024-03-25 21:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-அமைச்சரவை-அமைச்சரை-நியமித்தார்-ஜனாதிபதி/175-335183) · `ta`
 
-மாகாண சபைகள் மற்றும் உள்ளூராட்சிகளுக்கான பதில் அமைச்சரவை அமைச்சராக இராஜாங்க அமைச்சர் ஜானக வக்கம்புர நியமிக்கப்பட்டுள்ளார்.
+President Ranil Wickremesinghe appointed Janaka Wakambura as Cabinet Minister, responding to provincial councils and local governments.
 
-பிரதமர் தினேஷ் குணவர்தன 5 நாள் உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டு நேற்று (24) பிற்பகல் சீனாவுக்குப் புறப்பட்டுச் சென்றதன் காரணமாக ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் இந்த நியமனம் வழங்கப்பட்டுள்ளது.
+🟩
+
+The Minister of State for Minister of State for Cabinet, Janaka Wakambura has been appointed as the Cabinet Minister in response to provincial councils and local governments.
+
+The appointment was made by President Ranil Wickremesinghe as Prime Minister Dinesh Gunawardena made a five -day official visit to China yesterday afternoon.
 
 ◼️
 
 [Data](articles/7dd21cda.json)
+
+[Extended Data](ext_articles/7dd21cda.ext.json)
 
 ---
 
@@ -87,6 +93,8 @@ The Minister said that if it is possible to save the Rs. 300 million in coconuts
 ◼️
 
 [Data](articles/86eb4416.json)
+
+[Extended Data](ext_articles/86eb4416.ext.json)
 
 ---
 
@@ -206,6 +214,8 @@ The time revision was undertaken after obtaining the comments, suggestions as we
 
 [Data](articles/7079c313.json)
 
+[Extended Data](ext_articles/7079c313.ext.json)
+
 ---
 
 ### I don’t blame history; fulfill responsibility to the best: Susil
@@ -219,6 +229,8 @@ While marking the beginning of the 2024 school meal programme held today (25) at
 ...
 
 [Data](articles/50be7614.json)
+
+[Extended Data](ext_articles/50be7614.ext.json)
 
 ---
 
@@ -248,23 +260,33 @@ Police Headquarters have also instructed the local three armed forces in the inc
 
 ---
 
-### හරියටම ගන්නේ මොන අවුරුද නැකත්ද?
+### What doels do you make?
 
 *2024-03-25 20:20:19* · [`adalk`](https://www.ada.lk/breaking_news/හරියටම-ගන්නේ-මොන-අවුරුද-නැකත්ද-/11-408795) · `si`
 
-රාජ්‍ය නැකත් කමිටුව විසින් සකස් කර තිබෙන නැකත් සීට්ටුවට අනුව  සිංහල අලුත් අවුරුදු නැකත් චාරිත්‍ර සිදුකරන ලෙස බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍යාංශය ජනතාවගෙන් ඉල්ලා සිටියි.
+The Ministry of Buddha Sasana, Religious and Cultural Affairs is tasked with preserving Sri Lankan traditions, especially after a group of veteran journalists faced criticism for their actions. The 13th Saturday is observed as the New Year, with a charity period from 3.29 am to 3.29 am. On Saturdays, a fire mortgage mix is prepared for consumption on 13.06 and 11.06 nights, followed by work on 12.06 and eating all the work on Sundays.
 
-මෙම නැකත්  සීට්ටුව ප්‍රවීණ ජෝතීර්වේදීන් විසි දෙදෙනකුගේ කණ්ඩායමක් විසින් සකස් කර තිබෙන බවත්, මෙම කටයුතු සඳහා දායක වූ ජ්‍යෝතිර්වේදියෙකු තවත් සුළු පිරිසක් සමග  සම්බන්ධ වී මෙතෙක්  පැවැති සම්ප්‍රදායට  අභියෝග කරමින්  සමාජ මාධ්‍ය ඔස්සේ නැකත් සීට්ටුව සම්බන්ධයෙන්  විරෝධතා දක්වා තිබෙන බවත් එම අමාත්‍යාංශය පෙන්වා දෙයි.
+🟩
 
-මෙතෙක් සම්ප්‍රදායිකව පැවති ශ්‍රී ලංකීය සංස්කෘතික අන්‍යනතාවට හානි කර තත්වයක් ඇති කිරීම සඳහා මෙම පිරිස්  කටයුතු කරන බවට පැහැදිලිවන බවද සඳහන් කරයි.
+The Ministry of Buddha Sasana, Religious and Cultural Affairs as per the auspicious view of the State auspicious committee are asked the Ministry of Buddha Sasana, Religious and Cultural Affairs.
 
-මේ අනුව 13 වන සෙනසුරාද  දින අපරභාග 9.05ට සිංහල අලුත් අවුරුද්ද උදාවන අතර පුණ්‍ය කාලය  සෙනසුරාදා අපරභාග 2.41 සිට  14 වන දින අලුයම 3.29  දක්වා වේ.
+According to the Ministry of Social Media, a group of veteran three-two veteran three two veteran three-two veteran three two veteran journalists have faced any other traditions.
 
-අහාර පිසීම- 13 වන දින  සෙනසුරාදා රාත්‍රි 11.06 නීල වර්ණවස්ත්‍රාභරණයෙන් සැරසි දකුණු දිසාව බලා  ළිප් බැඳ ගිනි මොලවා තල උක් හකුරු මිශ්‍ර කිරිබතක් පිළියෙළ කර ගනු මැනවි.
+It is said that these personnel are concluded to harm the traditional Sri Lankan cultural contempt.
 
-...
+Accordingly, the 13th Saturday, the 13th Saturday, is the New Year, and the charity period is up to 3.29 am to 3.29 am.
+
+Food Diluted - On Saturdays 13.06 On Saturdays on Saturdays 11.06 Nights, prepare a mix of fire mortgage.
+
+Work on 12.06 That day, and Sunday, Sunday, and Sunday, and Sunday, and Sunday, and eating food, and eat all the work.
+
+Departure for Employment
+
+◼️
 
 [Data](articles/1936deb2.json)
+
+[Extended Data](ext_articles/1936deb2.ext.json)
 
 ---
 

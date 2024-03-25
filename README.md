@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 20:18:16**
+As of **2024-03-25 20:33:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,424
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,092 (100.0%) of 15,093 articles have been extended.
+15,093 (100.0%) of 15,093 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -108,21 +108,27 @@ Meanwhile, police spokesman DIG, Attorney-at-Law Nihal Talduuwa, said that actio
 
 ---
 
-### අගමැතිගේ  ඇමතිධූරවල වැඩ බැලීමට ජනක පත්කරයි
+### Prime Minister's ministerial appointments have been made to see the work
 
 *2024-03-25 19:14:23* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිගේ--ඇමතිධූරවල-වැඩ-බැලීමට-ජනක-පත්කරයි/11-408791) · `si`
 
-රාජ්‍ය අමාත්‍ය සහ රත්නපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ජානක වක්කුඹුර මහතා රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු සහ පළාත් සභා හා පළාත් පාලන අමාත්‍යධුරයේ වැඩබැලීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් පත්කර තිබේ.
+Prime Minister Dinesh Gunawardena appointed President Ranakka Wakkumbura to Public Administration, Home Affairs, and Provincial Councils and Local Government posts, effective until Gunawardena's departure to China's annual conference.
 
-එම ධූර සමග අග්‍රාමාත්‍යධූරය දැරූ දිනේෂ් ගුණවර්ධන මහතා විදෙස්ගතව ආපසු පැමිණෙන තෙක් වක්කුඹුර මහතා එම ධූරවල කටයුතු කිරිමට පත්කර තිබේ.
+🟩
 
-ජානක වක්කුඹුර මහතා පළාත් සභා, පලාත් පාලන සහ පරිසර රාජ්‍ය අමාත්‍යවරයා ලෙස කටයුතු කරයි.
+President Ranakka Wakkumbura has been appointed by the Public Administration, Home Affairs and Provincial Councils and Local Government and Local Government and Local Government.
 
-චීනයේ ප්‍රමුඛතම වාර්ෂික ජාත්‍යන්තර සමුලුව වන බොඅඕ සමලුවේ ප්‍රධාන ආරාධිතයා ලෙස සහභාගිවන චීන රජයෙන් ලද ආරාධනාවක් අනුව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා 24දා චීනය බලා පිටත්විය.
+Wakkumbura has been appointed to the post until the Prime Minister Dinesh Gunawardena, who was with that post.
+
+Janaka Wakkumbura is the Public Minister of Provincial Councils, Local Government and Environment.
+
+Prime Minister Dinesh Gunawardena departed on the 24th of China's leading annual international conference, the leading annual international conference of China.
 
 ◼️
 
 [Data](articles/fc9c3d90.json)
+
+[Extended Data](ext_articles/fc9c3d90.ext.json)
 
 ---
 

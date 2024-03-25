@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 07:40:30**
+As of **2024-03-25 07:53:55**
 
 ## Newspaper Stats
 
-*Scraped **14,932** Articles*
+*Scraped **14,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,120 @@ newsfirstlk | 363
 economynextcom | 800
 dailyftlk | 806
 islandlk | 830
-adalk | 1,267
+adalk | 1,268
 tamilmirrorlk | 1,795
-adaderanalk | 1,797
+adaderanalk | 1,798
 virakesarilk | 2,090
 dailymirrorlk | 2,299
-adaderanasinhalalk | 2,396
+adaderanasinhalalk | 2,398
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,926 (100.0%) of 14,932 articles have been extended.
+14,932 (100.0%) of 14,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### තවත් පාතාලයින් දෙදෙනෙක් කොටුවෙති
+### හිටපු ජනපති මෛත්‍රී අද CIDයට
+
+*2024-03-25 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194897) · `si`
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා අද (25) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ හමුවේ පෙනී සිටීමට නියමිතව තිබේ.
+
+පාස්කු ඉරිදා ප්‍රහාරයට සම්බන්ධ පුද්ගලයන් තමා දන්නා බවට මෛත්‍රීපාල සිරිසේන මහතා පසුගිය දා මහනුවර ප්‍රදේශයේදී ප්‍රකාශයක් සිදුකර තිබිණි.
+
+අදාළ ප්‍රකාශය සම්බන්ධයෙන් කඩිනම් පරීක්ෂණයක් පවත්වන ලෙස මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා විසින් පොලිස්පතිවරයාට උපදෙස් ලබාදෙනු ලැබීය.
+
+ඒ අනුව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගෙන් ප්‍රකාශයක් සටහන් කර ගැනීම සඳහා අද පෙරවරු 10.30ට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කැඳවා ඇති බව සඳහන්ය.
+
+මේ අතර පාස්කු ප්‍රහාරය සම්බන්ධයෙන් පත්කළ පාර්ලිමේන්තු තේරීම් කාරක සභාවේ දී මෛත්‍රීපාල සිරිසේන මහතා අසත්‍ය තොරතුරු පළ කළ බව මහාචාර්ය අශු මාරසිංහ මහතා පවසයි.
+
+පාස්කු ප්‍රහාරය සම්බන්ධයෙන් කිසියම් තොරතුරක් දන්නේ නම් ඒ පිළිබඳව දැනුවත් කිරීමට මෛත්‍රීපාල සිරිසේන මහතාට නීතිමය වගකීමක් තිබෙන බව පාර්ලිමේන්තු මන්ත්‍රී මහාචාර්ය ජී.එල්. පීරිස් මහතා පැවසුවේය.
+
+◼️
+
+[Data](articles/897bf21b.json)
+
+---
+
+### සුරාබදු ආදායම සියයට 38කින් ඉහළට
+
+*2024-03-25 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194896) · `si`
+
+සුරාබදු දෙපාර්තමේන්තුව පසුගිය වර්ෂයේ පෙබරවාරි මාසයට සාපේක්ෂව මෙම වර්ෂයේ දී සුරාබදු ආදායම සියයට 38.5කින් වර්ධනය වී ඇති බව සුරාබදු කොමසාරිස් ජනරාල් එම්. ජේ. ගුණසිරි මහතා පවසයි.
+
+◼️
+
+[Data](articles/46abc0e2.json)
+
+---
+
+### Showers expected in parts of the country
+
+*2024-03-25 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98179/showers-expected-in-parts-of-the-country) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at several places in Western, Sabaragamuwa, Southern and Central provinces during the afternoon or night.
+
+Several spells of showers may occur in Eastern and Uva provinces and in Polonnaruwa district, it said.
+
+Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces and in Kalutara, Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/9219fd0d.json)
+
+---
+
+### Two other underworld is trapped
 
 *2024-03-25 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194895) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් අත්අඩංගුවට ගැනීම සඳහා ක්‍රියාත්මක විශේෂ මෙහෙයුම යටතේ තවත් අපරාධ කල්ලි සාමාජිකයින් පස්දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Five groups of criminals, including an underworld, arrested by organized gang members.
+
+🟩
+
+Five groups of other crime under the arrest of organized criminal gang members have been arrested.
 
 ◼️
 
 [Data](articles/e782f391.json)
 
+[Extended Data](ext_articles/e782f391.ext.json)
+
 ---
 
-### සියලු පක්ෂ සාමාජිකයින් කොළඹට කැඳවන්න මෛත්‍රීගෙන් තීරණයක්
+### Maithri has decided to call all party members to Colombo
 
 *2024-03-25 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194894) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සියලු සාමාජිකයින් සතිඅන්තයේ දී කොළඹට කැඳවීමට පක්ෂ සභාපති හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පියවර ගෙන තිබේ.
+Maithripala Sirisena has summoned all SLFP members to Colombo, marking a crucial stage in the party's development. Attendance is mandatory. The new UPFA, aiming to support President Ranil Wickremesinghe, plans to continue political meetings from March, with the alliance ending in April.
 
-ඉතා වැදගත් තීන්දු තීරණ කිහිපයක් ගැනීම සඳහා ශ්‍රී ලංකා නිදහස් පක්ෂ මධ්‍යම කාරක සභිකයින්, විධායක කාරක සභිකයින්, ආසන සහ දිස්ත්‍රික් සංවිධායකවරුන්, පක්ෂයේ අනුබද්ධ සංවිධානවල සියලු නිලධාරීන් මෙලෙස පක්ෂ මුලස්ථානය වෙත කැඳවා ඇති බව සඳහන්ය.
+🟩
 
-මෙම රැස්වීමට පැමිණීම අනිවාර්ය බවට ද සියලු සාමාජිකයින් වෙත ලිඛිතව දන්වා ඇති බව වාර්තා වේ.
+Former President Chairman Maithripala Sirisena has taken steps to call all the members of the Sri Lanka Freedom Party (SLFP) to Colombo.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂය ප්‍රමුඛ නව සන්ධානයක් ඉදිරියේ දී බිහිවීමට නියමිත අතර එහි කටයුතු ද අවසන් අදියරට පැමිණ ඇති බව දේශපාලන ආරංචි මාර්ග සඳහන් කළේය.
+The SLFP central parties central committee members, the executive committee members, seats and district organizers of the seat and district organizers have been called to the party headquarters.
 
-මේ අතර පාර්ලිමේන්තු මන්ත්‍රී නිමල් ලන්සා මහතාගේ මුලිකත්වයෙන් නිර්මාණය වන නව සන්ධානයේ කටයුතු ද අප්‍රේල් මාසය තුළ අවසන් වීමට ද සැලසුම් කර තිබේ.
+It is reported that the attendance to the meeting is mandatory and informed to all members.
 
-ඒ අනුව එම සන්ධානයේ දේශපාලන රැස්වීම් මාර්තු මාසයේ සිට අඛණ්ඩව සිදුකරන බව දේශපාලන ආරංචි මාර්ග පැවසුවේය.
+Political sources said that the Sri Lanka Freedom Party (SLFP) is scheduled to be built in the final stage, political sources said.
 
-වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහය පළ කිරීම වෙනුවෙන් මෙම නව සන්ධානය ක්‍රියාත්මක වේ.
+Meanwhile, the new alliance is also planning to end in April.
+
+Accordingly, political sources said that the political meetings of the UPFA will continue from March.
+
+The new UPFA is working to support the present President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/74ea2d5d.json)
+
+[Extended Data](ext_articles/74ea2d5d.ext.json)
 
 ---
 
@@ -88,21 +152,27 @@ The IMF which included the latest mission said the authorities are making good p
 
 ---
 
-### අදත් ප්‍රදේශ කිහිපයකට වැසි
+### Showers in several areas
 
 *2024-03-25 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194893) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වල වැසි වාර කිහිපයක් ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Met Department warns of rain and thundershowers in Eastern, Uva, and several other provinces, with strong winds and lightning risks.
 
-බස්නාහිර, සබරගමුව, දකුණු, මධ්‍යම  සහ වයඹ පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+🟩
 
-මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+Several spells of rain will occur in the Eastern and Uva provinces, the Met Department said.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවට පවසයි.
+Thundershowers will develop at several places in the Western, Sabaragamuwa, Southern, Central, Central and Central and Northwestern provinces.
+
+In some places, in some places in the Central, Sabaragamuwa and Uva provinces, are expected in the Galle and Matara districts.
+
+The Meteorology Department says to the public to take necessary steps to reduce temporary strong winds and lightning accidents due to thunderstorms.
 
 ◼️
 
 [Data](articles/df45d3d5.json)
+
+[Extended Data](ext_articles/df45d3d5.ext.json)
 
 ---
 
@@ -119,6 +189,8 @@ The Cabinet had noted that in the commerce sphere related to commercial activiti
 ◼️
 
 [Data](articles/da6a81f1.json)
+
+[Extended Data](ext_articles/da6a81f1.ext.json)
 
 ---
 
@@ -468,17 +540,23 @@ The former president said he was considering such action to be taken to protect 
 
 ---
 
-### திறைசேரி உண்டியல்கள் ஏல விற்பனை
+### Treasury bundles sale
 
 *2024-03-25 01:40:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திறைசேரி-உண்டியல்கள்-ஏல-விற்பனை/175-335129) · `ta`
 
-80,000 மில்லியன் ரூபாய் பெறுமதியான திறைசேரி உண்டியல்கள், எதிர்வரும் 27ஆம் திகதி ஏல விற்பனையின் ஊடாக வழங்கப்படவுள்ளதாக இலங்கை மத்திய வங்கி அறிவித்துள்ளது.
+The Central Bank of Sri Lanka will auction Rs 80,000 million on the 27th, offering Rs 20,000 million, Rs 30,000 million in treasury, and Rs 30,000 million with 364-day maturities.
 
-இதன்படி, 91 நாட்கள் முதிர்வுக் காலத்தைக் கொண்ட 20,000 மில்லியன் ரூபாய் பெறுமதியான திறைசேரி உண்டியல்களும், 182 நாட்கள் முதிர்வுக் காலத்தைக் கொண்ட 30,000 மில்லியன் ரூபாய் பெறுமதியான திறைசேரி உண்டியல்களும், 364 நாட்கள் முதிர்வுக் காலத்தைக் கொண்ட 30,000 மில்லியன் ரூபாய் பெறுமதியான திறைசேரி உண்டியல்களும் ஏல விற்பனையின் ஊடாக வழங்கப்படவுள்ளதாக இலங்கை மத்திய வங்கி அறிவித்துள்ளது. (a)
+🟩
+
+The Central Bank of Sri Lanka has announced that it will be provided with auctions worth Rs 80,000 million through auctions on the 27th of this month.
+
+Accordingly, the Central Bank of Sri Lanka has announced that the auctioneer will be offered by the auctions worth 20,000 million rupees, 30,000 million rupees worth of treasury and 30,000 million rupees worth of maturity periods of 364 days.. (A)
 
 ◼️
 
 [Data](articles/55bb57d8.json)
+
+[Extended Data](ext_articles/55bb57d8.ext.json)
 
 ---
 
@@ -845,6 +923,26 @@ Two decades later, the Islamic Kingdom has been entrusted with the responsibilit
 [Data](articles/48681506.json)
 
 [Extended Data](ext_articles/48681506.ext.json)
+
+---
+
+### විදේශිකයන්ට අප්‍රේල් 15දා සිට ගුවන් තොටුපළේදීම මෙරට රියදුරු බලපත්‍රය
+
+*2024-03-24 21:17:45* · [`adalk`](https://www.ada.lk/breaking_news/විදේශිකයන්ට-අප්‍රේල්-15දා-සිට-ගුවන්-තොටුපළේදීම-මෙරට-රියදුරු-බලපත්‍රය/11-408772) · `si`
+
+මෙරට රියදුරු බලපත්‍රය අවශ්‍ය විදේශිකයන්ට අප්‍රේල් 15 වනදා සිට ගුවන් තොටුපළේදීම ඒ සඳහා අයදුම් කර, ගුවන් තොටුපොලෙන් පිටතට පැමිණෙන විට රියදුරු බලපත්‍රය ලබා ගැනීමට අවශ්‍ය කටයුතු සූදානම් කර තිබෙන බව ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පැවසීය.
+
+රිය අනතුරු වින්දිතයන්ට අධිකරණ ක්‍රියාමාර්ගයකින් තොරව කඩිනමින් වන්දි ලබා දීමේ වැඩපිළිවෙලද මාර්තු 01 වනදා ආරම්භ කළ බව රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+ඒ අනුව අනතුර සිදු වී වසරක් තුළ අදාළ රක්ෂණ ආයතනයට අයදුම් කිරීමෙන් උපරිමය රුපියල් ලක්ෂ 05ක් දක්වා වන වන්දි මුදල එම රක්ෂණ ආයතනයේ දිවයින පුරා පිහිටි ඕනෑම ශාඛාවකින් ලබා ගැනීමේ හැකියාව ලැබෙන බවද රාජ්‍ය අමාත්‍යවරයා පැවසීය.
+
+ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා ප මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ රාජ්‍ය අමාත්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා මෙසේ ද පැවසීය,
+
+...
+
+[Data](articles/62ecce67.json)
 
 ---
 
@@ -2081,79 +2179,5 @@ Thus, the price of a packet of milk powder weighing will be reduced by Rs. 150 
 [Data](articles/3029c0d6.json)
 
 [Extended Data](ext_articles/3029c0d6.ext.json)
-
----
-
-### The price of milk powder changes
-
-*2024-03-24 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194872) · `si`
-
-Trade Minister Nalin Fernando announces a reduction in the price of imported milk powder, effective from midnight today. The price of 1kg has been reduced, and a 400g packet's price has been cut by Rs 60.
-
-🟩
-
-Trade Minister Nalin Fernando says that the import milk powder has been reduced to operate from midnight today.
-
-Accordingly, the price of 1kg has decided to reduce the price of Rs.
-
-The price of a packet of 400 grams has been reduced by Rs 60.
-
-◼️
-
-[Data](articles/9bc2a67d.json)
-
-[Extended Data](ext_articles/9bc2a67d.ext.json)
-
----
-
-### Man found dead under suspicious circumstances in Haputale
-
-*2024-03-24 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98169/man-found-dead-under-suspicious-circumstances-in-haputale) · `en`
-
-The body of a person who had died under suspicious circumstances has been discovered in a thicket on the roadside in the Pitapola area of Haputale.
-
-The deceased person has been identified as a 33-year-old resident of Idalgashinna area in Bowatta, the police said.
-
-Police mentioned that the body has been placed in the mortuary of Diyathalawa Hospital for the post-mortem examination.
-
-◼️
-
-[Data](articles/9c5c4e29.json)
-
-[Extended Data](ext_articles/9c5c4e29.ext.json)
-
----
-
-### Women Plus Bazaar 2024
-
-*2024-03-24 12:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Women-Plus-Bazaar-2024/110-279475) · `en`
-
-The ‘Women Plus Bazaar 2024’ exhibition organized with the aim of empowering Sri Lankan women at Beira Lake Atrium and L2 Atrium in ONE GALLEFACE has become a center of attraction these days. The event is jointly organized by the Embassy of Egypt in Colombo and One Galle Face. Pix by Kithsiri De Mel
-
-◼️
-
-[Data](articles/e61bacc2.json)
-
-[Extended Data](ext_articles/e61bacc2.ext.json)
-
----
-
-### CIT confession to Maithri
-
-*2024-03-24 12:27:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியிடம்-சி-ஐ-டி-வாக்குமூலம்/175-335092) · `ta`
-
-"Former President Maithripala Sirisena acknowledges knowledge of the Easter Sunday attack truth, as reported by the CIT, following an event in Kandy."
-
-🟩
-
-Former President Maithripala Sirisena has reportedly received a statement from the Criminal Investigation Department today (24).
-
-Speaking to the media after attending an event in Kandy (22), he said that he was aware of the truth about the Easter Sunday attack.
-
-◼️
-
-[Data](articles/854799bd.json)
-
-[Extended Data](ext_articles/854799bd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 17:34:09**
+As of **2024-03-25 17:53:48**
 
 ## Newspaper Stats
 
-*Scraped **15,060** Articles*
+*Scraped **15,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,135 @@ economynextcom | 805
 dailyftlk | 806
 islandlk | 831
 adalk | 1,281
-adaderanalk | 1,813
+adaderanalk | 1,814
 tamilmirrorlk | 1,814
-virakesarilk | 2,116
+virakesarilk | 2,119
 dailymirrorlk | 2,324
-adaderanasinhalalk | 2,417
+adaderanasinhalalk | 2,418
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,058 (100.0%) of 15,060 articles have been extended.
+15,060 (100.0%) of 15,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### පාසැල් ක්‍රිකට් සංගමයට වාරණයක්
+### මහ වැස්සක් අත ළඟ
+
+*2024-03-25 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194918) · `si`
+
+හෙට දිනයේ බස්නාහිර, සබරගමුව, දකුණු සහ මධ්‍යම පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේ තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+මේ අතර දකුණු පළාතේත් මොණරාගල දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවලට මිලිමීටර් 100ට වැඩි තරමක තද වැසි ඇතිවිය හැකි බවද එහි දැක්වෙයි.
+
+මධ්‍යම, සබරගමුව සහ ඌ අ පළාත්වලත් කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරන බවත් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එසේම බස්නාහිර, සබරගමුව, දකුණු, මධ්‍යම සහ වයඹ පළාත්වල අද සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවද කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+මේ අතර ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවිය හැකි අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් කාරුණිකව ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/2cf72c68.json)
+
+---
+
+### Heavy showers above 100mm expected in several areas tomorrow
+
+*2024-03-25 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98196/heavy-showers-above-100mm-expected-in-several-areas-tomorrow) · `en`
+
+The Department of Meteorology forecasts that heavy showers above 100 mm are likely at some places in Southern Province and Moneragala District tomorrow (26).
+
+Thus, the general public are requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+The Met. Department, in its latest forecast states that several spells of showers will occur in Eastern and Uva provinces and in Polonnaruwa district tomorrow.
+
+Showers or thundershowers will occur at several places in Western, Sabaragamuwa, Southern and Central provinces during the afternoon or night, it added.
+
+Additionally, misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces and in Kalutara, Galle and Matara districts during the morning, according to the Met. Department.
+
+...
+
+[Data](articles/e73ac50f.json)
+
+---
+
+### மக்கள் செல்வன்' விஜய் சேதுபதி வெளியிட்ட 'வைஃப்' படத்தின் ஃபர்ஸ்ட் லுக்
+
+*2024-03-25 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179689) · `ta`
+
+தற்போதைய சூழலில் தமிழ் திரையுலகில் கதையின் நாயகனாக அறிமுகமாவது எளிது. இதற்கு இணையதளம் மூலமாகவோ... தொலைக்காட்சி மூலமாகவோ... மக்களுக்கு அறிமுகமாகி, குறைந்தபட்சம் நிகழ்ச்சி தொகுப்பாளராக அறிமுகமாகி.. கலகலப்பாக பேசினால் போதும் என்ற எல்லைக்கோடு வரையப்பட்டிருக்கிறது.
+
+சின்னத்திரையில் தொகுப்பாளராக இருந்த சிவகார்த்திகேயன், புகழ்.. ஆகியோரைத் தொடர்ந்து ஆர் ஜே விஜய் தற்போது 'வைஃப்' படத்தின் மூலம் கதாநாயகனாக அறிமுகமாகிறார்.  இப்படத்தின் ஃபர்ஸ்ட் லுக்கை 'மக்கள் செல்வன்' விஜய் சேதுபதி வெளியிட்டு, படக் குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+
+...
+
+[Data](articles/42f0e434.json)
+
+---
+
+### 'கொல்லுறாளே கொள்ளை அழகுல ஒருத்தி..'
+
+*2024-03-25 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179691) · `ta`
+
+தமிழ் திரையிசை பாடல்களில் காதல் உணர்வுகளை பிரதிபலிக்கும் பாடலுக்கு இளம் தலைமுறை ரசிகர்களிடத்தில் தனி மவுசு உண்டு.
+
+அதிலும் பாடலின் தொடக்க வரிகள், சரணங்கள் காதல் உணர்வை நுட்பமாகவும், எளிமையாகவும் விவரித்திருந்தால் ரசிகர்களின் மனதில் நீங்கா இடம் பெற்று விடும்.
+
+அந்த வகையில் கதிர் நடிப்பில் விரைவில் வெளியாக இருக்கும் 'மாணவன்' எனும் திரைப்படத்தில் இசையமைப்பாளர் ஜிப்ரான் இசையில் இடம்பெற்ற 'கொல்லுறாளே கொள்ளை அழகுல ஒருத்தி.. 'என்ற பாடல் ரசிகர்களின் மனதை கவர்ந்திருக்கிறது.
+
+Director S. L. S. Henryஇயக்கத்தில் உருவாகி இருக்கும் 'மாணவன்' எனும் திரைப்படத்தில் கதிர், இயக்குநரும், நடிகருமான கரு. பழனியப்பன், மாஸ்டர் மகேந்திரன், யுவ லட்சுமி, அன்புதாசன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/1fa9b083.json)
+
+---
+
+### கல்லூரி மாணவர்களை நம்பிய சந்தானம் படக் குழுவினர்
+
+*2024-03-25 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/179686) · `ta`
+
+தமிழ் திரையுலகில் முன்னணி நட்சத்திர நடிகர்கள் நடிக்கும் திரைப்படத்தை விளம்பரப்படுத்துவதற்காக.. தயாரிப்பு நிறுவனம், தயாரிப்பாளர்கள் உள்ளிட்ட படக்குழுவினர் புதிய அணுகு முறையை பின்பற்ற தொடங்கி இருக்கிறார்கள்.
+
+படமாளிகைக்கு இளைய தலைமுறையினர் தான் அதிகமாக வருகை தருகிறார்கள் என்ற ஒரு புள்ளி விவர கணக்குப்படி தற்போது முன்னணி நட்சத்திர நடிகர்கள் தங்களது திரைப்படங்களின் ஃபர்ஸ்ட் லுக், டைட்டில் லுக், மோஷன் போஸ்டர், சிங்கிள் ட்ராக், டீசர், ட்ரெய்லர் ஆகியவற்றை வெளியிடுவதற்கு தனியார் கல்லூரியில் பயிலும் மாணவ மாணவிகளை தேடி செல்கிறார்கள்.
+
+இங்கு மாணவ மாணவிகள் ஆயிரத்திற்கும் மேற்பட்டவர்கள் திரள்வதாலும், ஆரவாரமான குரலில் வரவேற்பதாலும்.. இத்தகைய போக்கு அதிகரித்து வருகிறது.
+
+இந்நிலையில் சிறிய முதலீட்டு படமாகத் தொடங்கப்பட்ட சந்தானம் நடிப்பில் உருவான 'இங்க நான் தான் கிங்கு' எனும் திரைப்படத்தின் முதல் பாடலை.. சென்னையில் உள்ள தனியார் கல்லூரி வளாகத்தில் சிறப்பு அதிதிகள் யாரும் இல்லாமல் படக்குழுவினரே வெளியிட்டிருக்கிறார்கள்.
+
+...
+
+[Data](articles/c097354d.json)
+
+---
+
+### Censourated for the School Cricket Association
 
 *2024-03-25 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194917) · `si`
 
-ශ්‍රි ලංකා පාසැල් ක්‍රිකට් සංගමය, 2023-2024 දෙදින තරඟාවලිය සඳහා ක්‍රීඩා කළ පාසල් කණ්ඩායම් හතරක් පහත හෙළීම සඳහා සැලසුම් කර ඇති ක්‍රියාවලිය අසාධාරණ සහ දෝෂ සහිත බවට චෝදනා කරමින් පාසැල් 05ක් විසින් පාසැල් ක්‍රිකට් සංගමයට එරෙහිව පසුගියදා කොළඹ දිසා අධිකරණයේ නඩු පවරා තිබුණි.
+The Colombo District Court has filed a case against the School Cricket Association, involving Ananda College, Colombo Dharmasoka Vass College, Wennappuwa, and Colombo St. Sebastian College, Kandy. The school court demanded that two groups in one category of a tournament be marked as far as two groups in one category. The case was issued in a temporary order for the 2023-24 school organized schools, effective until April 8, with further proceedings pending.
 
-කොළඹ ආනන්ද විද්‍යාලය, අම්බලන්ගොඩ ධර්මාශෝක විද්‍යාලය, වෙන්නප්පුව ජෝෂප් වාස් විද්‍යාලය කටුනේරිය ශාන්ත සෙබස්තියන් විද්‍යාලය සහ මහනුවර ශාන්ත සිල්වෙස්තර විද්‍යාලය එම නඩුව පැවරීය.
+🟩
 
-නඩුව පැනවූ පාසැල් අධිකරණයෙන් ඉල්ලා සිටින්නේ මෙතෙක් පැවති ආකාරයට එක් තරගාවලියකදී එක් කාණ්ඩයකින් කණ්ඩායම් දෙකක් පමණක් පහත දැමීම සහ ඒ සඳහා ලකුණු සටහනේ අවසානයට සිටින කණ්ඩායම් දෙක තෝරාගත යුතු බවට නියෝගයක් නිකුත් කරන ලෙසට ය.
+The Colombo District Court recently had filed a case against the school court against the school cricket Association.
 
-ඒ අනුව අදාළ නඩුව අද කැඳවූ අවස්ථාවේ 2023-24 තරගාවලියේ එක් කාණ්ඩයක ක්‍රීඩා කළ පාසැල් හතරක් පහත දැමීම සඳහා සංවිධාන කර ඇති "පහත දැමීමේ තරග (Relegation matches)" පැවැත්වීම තාවකාලිකව වළක්වමින් කොළඹ දිසා අධිකරණය වාරණ නියෝගයක් නිකුත් කළේය.
+Ananda College, Colombo, Colombo Dharmasoka Vass College, Wennappuwa, Colombo St. Sebastian College, Kandy, Colombo.
 
-අදාළ වාරණ නියෝගය අප්‍රේල් 8 වනදා තෙක් බලපැවැත්වෙන අතර නඩුව එදිනට යළි කැඳවීමට නියමිත ය.
+The school court demanded that the case is as far as two groups in one category in one of the tournaments and issue the two groups in the mark.
+
+The case was issued in the Colombo District Court in a temporary order in the 2023-24 school organized schools.
+
+The injunction order will be effective until April 8 and the case will be taken up again.
 
 ◼️
 
 [Data](articles/6753b0c8.json)
+
+[Extended Data](ext_articles/6753b0c8.ext.json)
 
 ---
 
@@ -70,23 +166,29 @@ Nissan was a pioneer in electric vehicles with its all-battery-powered Leaf but 
 
 ---
 
-### බිහිසුණු බස් අනතුර
+### The horrific bus accident
 
 *2024-03-25 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194916) · `si`
 
-මහියංගනය-මහනුවර ප්‍රධාන මාර්ගයේ මැදමහනුවර වංගු දෙක නමැති ස්ථානයේදී සුඛෝපභෝගී බස් රථයක් අනතුරට ලක්ව තිබේ.
+A horrific bus accident in Medamahauwara on the Mahiyanganaya-Kandy road resulted in the driver, owner, and another person being hospitalized. The bus was reportedly in danger, but it was not. The accident was revealed to be a scam to sell the bus.
 
-අනතුරින් තුවාල ලැබූ බස් රථයේ රියදුරු, එහි හිමිකරු සහ තවත් අයෙක් ප්‍රතිකාර සඳහා තෙල්දෙණිය රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව ප්‍රතිකාර සඳහා පේරාදෙණිය රෝහල වෙත ඇතුළත් කර තිබේ.
+🟩
 
-තොරතුරු වාර්තා වන්නේ බස් රථය අනතුරට ලක්වන අවස්ථාවේ එම ස්ථානයේ පහළ මාර්ගයේ 1990 සුවසැරිය ගිලන් රථයක් ගමන්කරමින් තිබුණද එයට ඉන් අනතුරක් සිදුව නොමැති බවය.
+A luxury bus has been inaugurated at the Medamahauwara area on the Mahiyanganaya-Kandy main road.
 
-පසුව තුවාලකරුවන් එම ගිලන් රථයෙන්ම ප්‍රතිකාර සඳහා රෝහල්ගතකිරීමට පියවර ගෙන තිබේ.
+The driver of the bus, its owner and another was admitted to the Peradeniya Hospital for treatment.
 
-එසේම වැඩිදුරටත් තොරතුරු අනාවරණය වී ඇත්තේ බස් රථය අලෙවි කිරීම සඳහා කොළඹ ප්‍රදේශයට රැඟෙන එමින් තිබියදී මෙම අනතුර සිදුව ඇති බවටය.
+The information is reported that the bus was in danger when the bus was in danger, but it was not a danger.
+
+The injured were later taken to hospital for treatment.
+
+The further information has been revealed that the accident had occurred to sell the bus to sell the bus.
 
 ◼️
 
 [Data](articles/91dd3a33.json)
+
+[Extended Data](ext_articles/91dd3a33.ext.json)
 
 ---
 
@@ -2145,125 +2247,5 @@ Political sources say that a new coalition will be formed in the future led by t
 [Data](articles/8469c836.json)
 
 [Extended Data](ext_articles/8469c836.ext.json)
-
----
-
-### Change in the price of milk tea?
-
-*2024-03-25 09:47:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பால்-தேநீர்-விலையில்-மாற்றம்/175-335137) · `ta`
-
-The All Ceylon Restaurant Owners Association announced that the government is lowering milk tea prices, which will be adjusted after milk prices stabilize. Milk tea by Tinball is now priced between Rs 60 and Rs 80.
-
-🟩
-
-The All Ceylon Restaurant Owners Association has said that the government is taking steps to reduce the prices of milk tea and reduce the price of milk tea.
-
-The prices of milk tea will be amended after the price of milk has come to the market, its leader Harshan Rukshan said.
-
-Accordingly, the price of milk tea at Rs.
-
-Meanwhile, the All Ceylon Restaurant Owners Association has stated that milk tea produced by Tinball is now between Rs 60 and Rs 80.
-
-◼️
-
-[Data](articles/41dd4400.json)
-
-[Extended Data](ext_articles/41dd4400.ext.json)
-
----
-
-### Cabinet approval granted to digitize the foreign employment sector
-
-*2024-03-25 09:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-approval-granted-to-digitize-the-foreign-employment-sector/108-279520) · `en`
-
-Colombo, March 25 (Daily Mirror) - The entire operations of Foreign Employment would be digitized soon, where migrant workers can coordinate via an app, Labour and Foreign Employment Minister Manusha Nanayakkara said yesterday.
-
-He said that cabinet approval has been granted in this regard.
-
-He was speaking to journalists in Matale on the sidelines of the Jayagamu Sri Lanka Programme yesterday.
-
-This would make the Foreign Employment Bureau thwart unnecessary interference and handle illegal activities effectively.
-
-He said that this would also help eliminate traffickers and fraudsters from the foreign employment sector, and would improve communications between migrant workers and authorities.
-
-“When the sector is digitized it will encompass everything from the affairs at the embassy, to the recruitment of employees and the SLBFE.
-
-...
-
-[Data](articles/4010a4e8.json)
-
-[Extended Data](ext_articles/4010a4e8.ext.json)
-
----
-
-### Southern doctor arrested for sacrificing Israeli jobs
-
-*2024-03-25 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194900) · `si`
-
-A doctor from Wijerama Mawatha, Colombo, was arrested for defrauding Israeli job seekers. He used the Ministry of Labor and Foreign Employment's names. The Sri Lanka Bureau of Foreign Employment's Special Investigation Division arrested him. His wife, involved in the scheme, is hiding. Manusha Nayakara, Labor and Foreign Employment Minister, has called for preventing such frauds.
-
-🟩
-
-A person who has been arrested in the Agricultural Sector in Israel using the names of the Ministry of Labor and Foreign Employment.
-
-The Bureau announced that officials were arrested by the Special Investigation Division of the Sri Lanka Bureau of Foreign Employment.
-
-The man is a resident of Wijerama Mawatha, Colombo 07, and he was also a doctor.
-
-The suspect has been summoned to the Ministry of Foreign Employment and Foreign Employment to obtain money.
-
-Investigations have revealed that the suspect had defrauded Rs.
-
-The Magistrate ordered that the suspect was produced before the Magistrate's Court and the Magistrate's Court.
-
-His wife, who is supporting the racket, is hiding and hides with her arrest.
-
-Labor and Foreign Employment Minister Manusha Nayakara has requested the Minister of Labor and Foreign Employment to prevent money from providing money from providing employment to employment opportunities between the two countries.
-
-...
-
-[Data](articles/9376bbb4.json)
-
-[Extended Data](ext_articles/9376bbb4.ext.json)
-
----
-
-### Kelaniya University students stage protest over death of student
-
-*2024-03-25 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98182/kelaniya-university-students-stage-protest-over-death-of-student) · `en`
-
-A group of students at the Kelaniya University are staging a protest in front of the the university administrative building over the death of a student due to a sudden illness.
-
-It is reported that a fourth year student of the Kelaniya University had passed away last night (24) after being hospitalised due to sudden illness.
-
-However, the university students allege that the hospitalisation of the student in question was delayed due to the absence of an ambulance facility or other vehicle in the university premises to admit the concerned student to the hospital.
-
-Accordingly, it is reported that around 150 students have launched a sit down protest in front of the university administrative building accusing that negligence by the university administration had led to the death of the student.
-
-◼️
-
-[Data](articles/b502d571.json)
-
-[Extended Data](ext_articles/b502d571.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 302.80/303.00 to the US dollar
-
-*2024-03-25 09:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-302-80-303-00-to-the-us-dollar-155922/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 302.80/303.00 to the US dollar in the spot forex market on Monday, stronger from 303.30/45 on Friday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 was quoted at 11.20/40 percent from 11.30/38 percent.
-
-A bond maturing on 15.12.2028 was quoted at 12.10/20 percent from 12.10/18 percent.
-
-The Colombo Stock Exchange opened x; the All Share Price Index was up 0.06 percent at 11,268; the S&P SL20 was up 0.17 at 3,231 percent. (Colombo/Mar25/2024)
-
-◼️
-
-[Data](articles/f6d3f006.json)
-
-[Extended Data](ext_articles/f6d3f006.ext.json)
 
 ---

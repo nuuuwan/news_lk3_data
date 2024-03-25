@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 15:03:31**
+As of **2024-03-25 15:18:04**
 
 ## Newspaper Stats
 
@@ -26,61 +26,81 @@ adaderanasinhalalk | 2,410
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,023 (100.0%) of 15,029 articles have been extended.
+15,029 (100.0%) of 15,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### மடிக்கணினிகளை திருடிய மாணவர்கள் கைது
+### Students arrested for stealing laptops
 
 *2024-03-25 14:53:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மடிக்கணினிகளை-திருடிய-மாணவர்கள்-கைது/175-335155) · `ta`
 
-பேருவளை பகுதியில் உள்ள பாடசாலையொன்றின் ஸ்மார்ட் வகுப்பறையை உடைத்து 12 மடிக்கணினிகளைத் திருடிய அதே பாடசாலையைச் சேர்ந்த இரு மாணவர்கள் உட்பட ஐவர் இன்று (25) கைது செய்யப்பட்டுள்ளதாக பேருவளை பொலிஸார் தெரிவித்தனர்.
+Five, including two students, arrested for stealing 12 laptops from a school in Beruwala. Laptops stolen on Boya Day last February.
 
-அடுத்த வருடம் சாதாரணத்தர பரீட்சைக்கு தோற்றவுள்ள 16 வயதுடைய மாணவர்கள் இருவர் மற்றும் பாணந்துறை மற்றும் பாதுக்க பிரதேசங்களில் வசிக்கும் மூவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-கடந்த பெப்ரவரி மாதம் போயா தினத்தன்று மடிக்கணினிகள் திருடப்பட்டுள்ளதாக முறைப்பாடு கிடைத்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Beruwala police said that five persons, including two students from the same school who broke the smart classroom of a school in Beruwala and stole 12 laptops, have been arrested today (25).
 
-குறித்த பாடசாலை மாணவர்கள் இருவர் மடிக்கணினிகளை விற்பனை செய்ய முயற்சிப்பதாக கிடைத்த தகவலை அடுத்து, முன்னெடுக்கப்பட்ட விசாரணைகளின் பின்னர் சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+Two students of 16 -year -old students who are sitting for the GCE Ordinary Level examination next year and three persons living in Panadura and Padukka areas have been arrested, police said.
 
-அத்துடன்,  திருடப்பட்ட 12 மடிக்கணினிகள் பாதுக்க பிரதேசத்தில் மறைத்து வைக்கப்பட்டிருந்த நிலையில் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+Police said that laptops were stolen on Boya Day last February.
+
+The suspects have been arrested after investigations carried out following reports that two schoolchildren were trying to sell laptops.
+
+In addition, 12 stolen laptops have been seized by the police as they were hidden in the Paduka area.
 
 ◼️
 
 [Data](articles/305e1360.json)
 
+[Extended Data](ext_articles/305e1360.ext.json)
+
 ---
 
-### கலால் திணைக்களத்தின் வருவாய் அதிகரித்து உற்பத்தி குறைவடைந்துள்ளது.
+### The revenue of the Excise Department has increased and production has declined.
 
 *2024-03-25 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179654) · `ta`
 
-இந்த ஆண்டின் மதுபான விற்பனை மூலம் கிடைக்கப் பெற்ற  வருமானத்தை 2022 பெப்ரவரி மாதத்துடன்  ஒப்பிடுகையில் இவ்வாண்டு வருமானம்  38.5  சதவீதமாக அதிகரித்துள்ளதாக கலால் ஆணையாளர் நாயகம் எம். ஜே. குணசிறி குறிப்பிட்டுள்ளார்.
+Excise Department revenue up, liquor sales income 38.5% higher than Feb 2022, attributed to liquor price increase, leading to alcohol consumption restriction.
 
-மதுபானத்தின்  விலைகள்  அதிகரித்தமையே, மதுபான நுகர்வை மட்டுப்படுத்தப்படுவதற்கு  காரணம் என அவர் சுட்டிக்காட்டியுள்ளார்
+🟩
+
+The income earned by liquor sales this year has increased by 38.5 per cent this year compared to February 2022.. J.. Gunasiri mentioned.
+
+He pointed out that the increase in prices of liquor is the reason for the restriction of alcohol consumption
 
 ◼️
 
 [Data](articles/eba50991.json)
 
+[Extended Data](ext_articles/eba50991.ext.json)
+
 ---
 
-### “பாட அறிவு போன்று  போசாக்கும் அவசியம்”
+### "It is necessary to make a sense of textual knowledge"
 
 *2024-03-25 14:51:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாட-அறிவு-போன்று-போசாக்கும்-அவசியம்/175-335154) · `ta`
 
-நாட்டின் பிள்ளைகளுக்கு சிறந்த கல்வியை வழங்குவதற்காக அவர்களுக்கு பாடம் தொடர்பான அறிவை வழங்கி பரீட்சைகளுக்கு தயார்படுத்துவதைப் போன்றே அவர்களின் போசாக்கும் பாதுகாக்கப்பட வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க சுட்டிக்காட்டினார்.
+President Ranil Wickremesinghe emphasized the importance of preparing children for exams and integrating modern technology, including AI, into education. He highlighted the "2024 School Food Program" aimed at providing nutritional food to all primary school students, funded by Rs 16.6 billion, to improve health and dietary habits.
 
-அத்துடன் செயற்கை நுண்ணறிவு உள்ளிட்ட நவீன தொழிநுட்ப அறிவை பிள்ளைகளுக்கு வழங்க வேண்டும் என்று தெரிவித்த ஜனாதிபதி, அதற்கமைவாக பாடசாலை கல்வி மற்றும் பரீட்சை முறைகளில் மாற்றம் ஏற்படுத்துவது தொடர்பில் அரசாங்கம் கவனம் செலுத்தியுள்ளதாகவும் குறிப்பிட்டார்.
+🟩
 
-நாரஹேன்பிட்டி சுஜாதா மகளிர் கல்லூரியில் திங்கட்கிழமை (25) முற்பகல் இடம்பெற்ற “2024 பாடசாலை உணவுத் திட்டம்” ஆரம்ப நிகழ்வில் கலந்து கொண்ட ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe pointed out that the children of the country should be preserved as they should be given a lesson and prepared for exams.
 
-நாட்டிலுள்ள தரம் 1-5 வரை உள்ள அனைத்து பாடசாலை மாணவர்களுக்கும் பாடசாலையில் போசாக்கு உணவு வழங்குவதற்கு கல்வி அமைச்சு நடவடிக்கை எடுத்துள்ளது.
+The President also said that the children should be given modern technology, including artificial intelligence, and that the government is focused on changing school education and exam systems.
+
+President Ranil Wickremesinghe, who was present at the inauguration of the "2024 School Food Program", which was held on Monday (25) at the Sujatha Women's College, Narahenpitiya.
+
+The Ministry of Education has taken steps to provide nutritional food to all schoolchildren from grade 1-5 in the country.
+
+President Ranil Wickremesinghe has issued a directive to provide this breakfast at the time of 7.30 am and 8.30 am before students engage in educational activities in view of the recommendations of nutrition experts.
 
 ...
 
 [Data](articles/71fd0563.json)
+
+[Extended Data](ext_articles/71fd0563.ext.json)
 
 ---
 
@@ -98,6 +118,8 @@ Three male students who sustained injuries during the incident have been admitte
 
 [Data](articles/5471fb9f.json)
 
+[Extended Data](ext_articles/5471fb9f.ext.json)
+
 ---
 
 ### Hirunika charged for obstructing police
@@ -114,25 +136,33 @@ The counsel underscored the fact that the suspects had staged a street drama emp
 
 [Data](articles/3c6ad58a.json)
 
+[Extended Data](ext_articles/3c6ad58a.ext.json)
+
 ---
 
-### ලංකාවට ලකුණු 328ක දැවැන්ත ජයක්
+### Sri Lanka wins 328 runs
 
 *2024-03-25 14:36:52* · [`adalk`](https://www.ada.lk/sports/ලංකාවට-ලකුණු-328ක-දැවැන්ත-ජයක්/9-408786) · `si`
 
-සත්කාරක බංග්ලාදේශ කණ්ඩායම ලකුණු 328කින් පරාජයට පත්කරමින් දෙරට අතර පැවැති පළමු ටෙස්ට් තරගයෙන් ලකුණු 328ක ජයක් වාර්තා කිරීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+Sri Lanka defeats Bangladesh by 328 runs in the first Test, scoring 798 runs (280 & 418) to Bangladesh's 182 & 418. Dhananjaya Silva and Komickickin Mendis score centuries for Sri Lanka.
 
-ලකුණු 511ක දැවැන්ත ඉලක්කයක් හඹා යාමට පිටියට පිවිසි බංග්ලාදේශ කණ්ඩායමට සියලු දෙනා දැවී ලබා ගත හැකිවූයේ ලකුණු 182ක් පමණි.
+🟩
 
-ශ්‍රී ලංකා කණ්ඩායම පළමු ඉනිමට ලකුණු 280ක් රැස් කළ අතර පිළිතුරු ඉනිම ක්‍රීඩා කළ බංග්ලාදේශයට රැස්කළ හැකිවූයේ ලකුණු 188ක් පමණි.
+The Sri Lankan team won the first Test match between the two countries by defeating the host Bangladesh by 328 runs.
 
-නැවතත් සිය දෙවැනි ඉනිම ක්‍රීඩා කළ ශ්‍රී ලංකා කණ්ඩායම ලකුණු 418ක් රැස් කළ අතර  බංග්ලාදේශයට රැස්කළ හැකිවූයේ ලකුණු 180ක් පමණි.
+The Bangladesh team was bowled out for 182 in the blow to chase 511 runs.
 
-ශ්‍රී ලංකාව වෙනුවෙන් ඉනිම දෙකේදීම ශතක දෙක බැගින් වාර්තා කිරීමට ධනංජයද සිල්වා හා කමිඳු මෙන්ඩිස් සමත්වූහ. එය වාර්තා කිහිපයක්ම අලුත් කළ ඉනිම්විය.
+Sri Lanka scored 280 runs in their first innings and in reply, only 188 runs in the reputed Bangladesh.
+
+The Sri Lankan team again scored 418 runs while Bangladesh was able to score 418 runs in their second innings.
+
+Dhananjaya Silva and Komickickin Mendis also passed in two centuries for Sri Lanka. It was renewed several reports.
 
 ◼️
 
 [Data](articles/efe42327.json)
+
+[Extended Data](ext_articles/efe42327.ext.json)
 
 ---
 
@@ -397,22 +427,6 @@ He questioned the relevant authorities for not taking action to slash the price 
 [Data](articles/fe91257e.json)
 
 [Extended Data](ext_articles/fe91257e.ext.json)
-
----
-
-### AKD slams speaker for stuffing his staff with relatives
-
-*2024-03-25 13:13:00* · [`islandlk`](http://island.lk/akd-slams-speaker-for-stuffing-his-staff-with-relatives/) · `en`
-
-The three-day debate on the No-confidence Motion against Speaker Mahinda Yapa Abeywardena offers an insight into the prevailing ‘dump the lot’ public opinion on the incumbent legislature. Listening to what some MPs said (sometimes yelled) during the debate helps understand the present mood in the country that the incumbent legislature has long lost its mandate which must be urgently restored through a general election.
-
-Only a few members presented coherent arguments during the debate. The government relied on its roster of provocative speakers who bellowed the usual rhetoric. Those who spoke sensibly rightly predicted that the government’s numerical advantage would secure the motion’s defeat. However, they cautioned that any victory would be fleeting as they believed the government’s downfall was inevitable.
-
-...
-
-[Data](articles/414b67f5.json)
-
-[Extended Data](ext_articles/414b67f5.ext.json)
 
 ---
 
@@ -2243,5 +2257,21 @@ This statement has already been created.
 [Data](articles/5dd85f7a.json)
 
 [Extended Data](ext_articles/5dd85f7a.ext.json)
+
+---
+
+### IIHS launches new study programmes in Psychology, Nutrition and Paramedic disciplines
+
+*2024-03-25 03:08:00* · [`islandlk`](http://island.lk/iihs-launches-new-study-programmes-in-psychology-nutrition-and-paramedic-disciplines/) · `en`
+
+The International Institute of Health Sciences (IIHS), a pioneer in providing specialised education tailored to the evolving needs of the healthcare sector, has introduced several study programmes in Psychology, Nutrition and Paramedic Disciplines.
+
+BSc. (Hons) in Psychology, BSc. (Hons) in Forensic Psychology and BSc. (Hons) in Sports and Exercise Psychology are some of the newly introduced programmes. Aligning with the evolving needs of the healthcare sector, they not only underscore the commitment of IIHS to stay at the forefront of educational evolution in South Asia but also aim to produce highly skilled professionals ready to meet the demands of the healthcare landscape.
+
+...
+
+[Data](articles/204cb9e2.json)
+
+[Extended Data](ext_articles/204cb9e2.ext.json)
 
 ---

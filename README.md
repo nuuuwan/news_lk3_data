@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 18:09:10**
+As of **2024-03-25 18:21:04**
 
 ## Newspaper Stats
 
-*Scraped **15,067** Articles*
+*Scraped **15,077** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,164 @@ dailyftlk | 806
 islandlk | 831
 adalk | 1,283
 adaderanalk | 1,814
-tamilmirrorlk | 1,814
-virakesarilk | 2,119
-dailymirrorlk | 2,324
-adaderanasinhalalk | 2,418
+tamilmirrorlk | 1,815
+virakesarilk | 2,122
+dailymirrorlk | 2,329
+adaderanasinhalalk | 2,419
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,065 (100.0%) of 15,067 articles have been extended.
+15,067 (99.9%) of 15,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### Attorney General objects to Keheliya’s bail request
+
+*2024-03-25 18:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Attorney-General-objects-to-Keheliyas-bail-request/108-279565) · `en`
+
+Colombo, March 25 (Daily Mirror) - The Attorney General today raised objections against the bail application filed on behalf of former Health Minister Keheliya Rambukwella, who is currently held in remand custody in connection with the alleged import of substandard Immunoglobulin injections.
+
+Deputy Solicitor General Lakmini Girihagama appearing for the Attorney General informed the Court that she was raising preliminary objections challenging the maintainability of the revision application filed by the daughter of the former Health Minister.
+
+Filing a revision application, the former Health Minister's daughter Chaminthri Rambukwella is requesting the Colombo High Court that her father be released on whatever bail conditions the court deems fit.
+
+...
+
+[Data](articles/01688345.json)
+
+---
+
+### Despite showers, caution level temperature warning issued for 11 districts
+
+*2024-03-25 18:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Despite-showers-caution-level-temperature-warning-issued-for-11-districts/108-279564) · `en`
+
+Colombo, March 25 (Daily Mirror) - Despite the showers at several places in the country, the National Meteorological Centre today issued a 'caution level' warning that the temperature felt on the human body is expected to increase in eleven districts.
+
+Accordingly, the increase in temperature warnings is expected in the Western, North-Western, and Sabaragamuwa Provinces, as well as Mannar, Vavuniya, Anuradhapura, and Galle districts.
+
+According to the heat index advisory, Mannar, Vavuniya, Anuradhapura, Puttalam, Kurunegala, Gampaha, Kegalle, Colombo, Kalutara, Ratnapura and Galle were mentioned as caution levels.
+
+“People may suffer heat cramps and exhaustion and continuing activity in the heat or sun could lead to heatstroke,” the advisory warns.
+
+The department also advised the public to remain hydrated and take breaks in the shade as often as possible.
+
+...
+
+[Data](articles/c9eb809d.json)
+
+---
+
+### மைத்திரியிடம்   6 மணிநேரம் விசாரணை
+
+*2024-03-25 18:03:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியிடம்-6-மணிநேரம்-விசாரணை/175-335169) · `ta`
+
+2019 ஆம் ஆண்டு ஏப்ரல் 21ஆம் திகதியன்று இடம்பெற்ற உயிர்த்த ஞாயிறு தாக்குதல்களை  நடத்தியது யார் என்பது தனக்கு தெரியுமென முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன வெளியிட்ட கருத்து தொடர்பில், குற்றப்புலனாய்வு (சி.ஐ.டி) பிரிவினர், அவரிடம் வாக்குமூலம் பெற்றுள்ளனர்.
+
+சி.ஐ.டி தலைமையகத்துக்கு திங்கட்கிழமை (25) காலை 10.30க்கு அழைக்கப்பட்டார். அதனடிப்படையில், அங்குச் சென்ற மைத்திரிபால சிறிசேனவிடம், சுமார் 6 மணிநேரம் விசாரணைக்கு உட்படுத்தி   வாக்குமூலம் பெற்றுக்கொண்டுள்ளனர்.
+
+உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில், மைத்திரிபால சிறிசேனவுக்கு எதிராக ஐக்கிய மக்கள் சக்தியால் செய்யப்பட்ட முறைப்பாடு மற்றும் பொலிஸ் மா அதிபர் தேசபந்து தென்னக்கோன் விடுத்துள்ள கட்டளைக்கு அமையவே, சி.ஐ.டியினர் விசாரணைக்கு அழைத்தனர்.
+
+கண்டியில், வௌ்ளிக்கிழமை (22) இடம்பெற்ற கூட்டமொன்றில் கலந்துகொண்டு உரையாற்றிய முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன, ராஜபக்ச குடும்பத்தினரே நாட்டைப் பாரிய பிரச்சினைக்கு இட்டுச் சென்றனர் என்றும் உயிர்த்த ஞாயிறு தினத் தாக்குதல் நடத்தப்பட்டமை தொடர்பில் அனைவரும் அறிந்துள்ளனர் என்றும் கூறியிருந்தார்.
+
+...
+
+[Data](articles/19feea91.json)
+
+---
+
+### புனித வெள்ளிக்கிழமையும்  உயிர்த்த ஞாயிறு தினத்தன்றும் பாதுகாப்பை உறுதிப்படுத்த பொலிஸ் மா அதிபர் உத்தரவு!
+
+*2024-03-25 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179696) · `ta`
+
+புனித வெள்ளிக்கிழமையான 29 ஆம் திகதியும்  உயிர்த்த ஞாயிறு தினமான 31 ஆம் திகதியும்  நாட்டிலுள்ள  அனைத்து கிறிஸ்தவ தேவாலயங்களுக்கும் வரும் யாத்திரீகர்கள் மற்றும் அவர்களது பயணப்பொதிகளை சோதனையிடும் விசேட வேலைத்திட்டம் தொடர்பில் கலந்துரையாடி நடைமுறைப்படுத்துமாறு பொலிஸாருக்கு உத்தரவிடப்பட்டுள்ளது.
+
+அனைத்துப் பொலிஸ் பிரிவுகளுக்கும் பொறுப்பான சிரேஷ்ட பொலிஸ் அத்தியட்சகர்களுக்கு பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் இந்த உத்தரவை பிறப்பித்துள்ளார்.
+
+இதன்படி, சமூக பொலிஸ் குழுக்கள், அந்தந்த தேவாலயங்களின் பாதிரிமார்கள் மற்றும் அமைப்பாளர்களுடன் இணைந்து வேலைத்திட்டத்தை நடைமுறைப்படுத்தி பாதுகாப்பை உறுதிப்படுத்துமாறு  பொலிஸ் மா அதிபர் சகல பிரிவுகளுக்கும் பொறுப்பான சிரேஷ்ட பொலிஸ் அத்தியட்சகர்களுக்கு பணிப்புரை விடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/49f68274.json)
+
+---
+
+### Moscow attack: Russian court charges four men with act of terrorism
+
+*2024-03-25 18:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Moscow-attack-Russian-court-charges-four-men-with-act-of-terrorism/108-279563) · `en`
+
+Russia, March 25 (BBC) - Russia has charged four men it says attacked a Moscow concert hall and killed at least 137 people.
+
+All four appeared to have been beaten and one was brought to court in a wheelchair. They were charged with committing an act of terrorism.
+
+The Islamic State group, or IS, said it carried out Friday's outrage at Crocus City Hall and posted video evidence.
+
+Russian officials have claimed, without evidence, Ukrainian involvement. Kyiv says the claim is "absurd".
+
+The graphic video released by IS, showing attackers firing on the crowd inside the concert hall, has been verified as genuine by the BBC.
+
+However, no Russian official has acknowledged the claim, and Kremlin spokesman Dmitry Peskov said in a news conference on Monday that it was inappropriate to comment on it until the investigation had been completed.
+
+He also said that because of the tense international situation there was little collaboration between countries on fighting terrorism.
+
+...
+
+[Data](articles/c38b7971.json)
+
+---
+
+### රජයේ සේවකයින්ට සුබ ආරංචියක්
+
+*2024-03-25 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194919) · `si`
+
+රජයේ සේවකයින්ගේ වැඩිකළ වැටුප එළඹෙන අප්‍රේල් මස 10 වනදාට පෙර ලබාදීමට කටයුතු කරන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+මාධ්‍ය වෙත අදහස් දක්වමින් මුදල් රාජ්‍ය අමාත්‍යවරයා මෙම අදහස් පළකළේය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා,
+
+"රජයේ සේවකයින්ට වැටුප් රුපියල් 10,000 කින් වැඩිකළා. අපි 5,000 ගෙවාගෙන ආවා. දැන් 10,000ම අප්‍රේල් වැටුපට එකතුකරලා දෙනවා. මේක අපි අප්‍රේල් මාසයේ 10 වනදාට පෙර වැටුප සහ විශ්‍රාම වැටුප ලබාදීමට සූදානම්."
+
+◼️
+
+[Data](articles/a0981fc6.json)
+
+---
+
+### அம்பாறையில் இரு வாகனங்கள் விபத்தில் சிக்கி நால்வர் காயம்!
+
+*2024-03-25 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179695) · `ta`
+
+அம்பாறை மூவங்கலை வீதியில் கெப் வண்டியும் காரொன்றும் மோதி விபத்துக்குள்ளானதில் நால்வர் காயமடைந்து அம்பாறை பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+கெப் வண்டி ஹிங்குராணையிலிருந்து அம்பாறை நோக்கிச்  சென்று கொண்டிருந்த நிலையில் அதன்  டயர் ஒன்று வெடித்ததால் அதைக் கட்டுப்படுத்த முடியாமல் வீதி ஓரத்தில் நிறுத்தப்பட்டிருந்த  கார் ஒன்றின் மீது மோதியுள்ளது.
+
+இதன்போது  கெப் வண்டியில் பயணித்த நால்வர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/2e7cb64b.json)
+
+---
+
+### CID records Maithripala’s statement for nearly 6 hours
+
+*2024-03-25 17:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-records-Maithripalas-statement-for-nearly-6-hours/108-279562) · `en`
+
+Colombo, March 25 (Daily Mirror) - After recording a statement for nearly six hours, former President Maithripala Sirisena left the Criminal Investigation Department (CID).
+
+He appeared before the CID at 10.30 a.m. today over the statement he had made in Kandy.
+
+Public Security Minister Tiran Alas had earlier instructed the Inspector General of Police (IGP) to conduct an urgent investigation into the statement made by the former President in Kandy recently that he knew the people involved in the Easter Sunday bomb attacks on 21 April 2019.
+
+◼️
+
+[Data](articles/57662bd2.json)
+
+---
 
 ### A rains at hand
 
@@ -77,6 +221,20 @@ Additionally, misty conditions can be expected at some places in Central, Sabara
 [Data](articles/e73ac50f.json)
 
 [Extended Data](ext_articles/e73ac50f.ext.json)
+
+---
+
+### குழந்தைகளுக்காக அரசியல் கட்சியை தொடங்கிய யோகி பாபு
+
+*2024-03-25 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179684) · `ta`
+
+தமிழின் ஒப்பற்ற நகைச்சுவை நட்சத்திர நடிகர்களான செந்தில் மற்றும் யோகி பாபு ஆகிய இருவரும் கதையின் நாயகர்களாக நடிக்கும் புதிய திரைப்படத்திற்கு, 'குழந்தைகள் முன்னேற்ற கழகம்' என பெயரிடப்பட்டு, அதன் ஃபர்ஸ்ட் லுக் வெளியிடப்பட்டிருக்கிறது. இதனை நகைச்சுவை நட்சத்திர நடிகரான யோகி பாபு அவருடைய இணைய பக்கத்தில் வெளியிட்டு படக்குழுவினருக்கு வாழ்த்து தெரிவித்திருக்கிறார்.
+
+'சகுனி' எனும் அரசியல் சார்ந்த திரைப்படத்தை இயக்கிய Director N. Shankar Dayal இயக்கத்தில் உருவாகி வரும் 'குழந்தைகள் முன்னேற்ற கழகம்' எனும் திரைப்படத்தில் செந்தில், யோகி பாபு, சுப்பு பஞ்சு, லிசி ஆண்டனி, அஸ்மிதா, அகல்யா வெங்கடேசன், நன்னன், அத்வைத், சோனியா போஸ், பவா செல்லதுரை உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஜெ. லட்சுமன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'சாதக பறவைகள்' சங்கர் இசையமைத்திருக்கிறார். குழந்தைகளைப் பற்றிய அரசியலை மையப்படுத்தி உருவாகி இருக்கும் இந்த படத்தை மீனாட்சி அம்மன் மூவிஸ் எனும் பட நிறுவனம் சார்பில் தயாரிப்பாளர் அருண்குமார் சம்பந்தம் மற்றும் இயக்குநர் சங்கர் தயாள் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/6783838e.json)
 
 ---
 
@@ -376,19 +534,25 @@ He made a statement on Monday (25) following an invitation by the Criminal Inves
 
 ---
 
-### වෙනස්වූ පොලිස් නිළ ඇඳුම
+### Change of Police Officer
 
 *2024-03-25 16:33:54* · [`adalk`](https://www.ada.lk/breaking_news/වෙනස්වූ-පොලිස්-නිළ-ඇඳුම/11-408789) · `si`
 
-අනුරාධපුර ඓතිහාසික ජය ශ්‍රී මහා බෝධියේ ඇතුල් මළුවේ රාජකාරියේ නිරත පොලිස් නිලධාරීන් සහ නිලධාරිනියන් තිස් දෙනෙකු හට සුදු පැහැති නව පොලිස් නිල ඇඳුමක් හඳුන්වා දීම අද 25දා) සිදු කෙරිණි.
+Thirty police officers in Anuradhapura introduced a new white uniform. They blessed the Pallegama Hemarathana Thera and Pirith Arts, led by Hon. Atamastatiadiadia Thera.
 
-මෙහිදී නව නිල ඇඳුමින් රාජකාරී ආරම්භ කල පොලිස් නිලධාරීන් සහ නිලධාරිනියන් හට, අටමස්ථානාධිපති, පූජ්‍ය පල්ලේගම හේමරතන නාහිමිපාණන් විසින් සෙත් පිරිත් සජ්ඣායනා කර, පිරිත් නූල් බැඳ ආශිර්වාද සිදු කළහ.
+🟩
 
-අටමස්ථානාධිපති නාහිමිපාණන් විසින් මීට පෙර, මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතාගෙන් සහ පොලිස්පති දේශබන්දු  තෙන්නකෝන් මහතාගෙන් කල ඉල්ලීමකට අනුව, අනුරාධපුර කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී තිලිණ හේවාපතිරණ මහතාගේ ඍජු අධීක්ෂණය යටතේ මෙය සිදු කෙරිණි.
+Thirty police officers and officers in the courtyard in the inner courtyard of the courtyard of the Wayamba of Anuradhapura was introducing a white new police uniform.
+
+The police officers and officials began working in new uniform and committed the Pallegama Hemarathana Thera and blessed the Pirith Arts.
+
+The Atamastatiadiadia Thera was carried out by Hon.
 
 ◼️
 
 [Data](articles/6f85b4f3.json)
+
+[Extended Data](ext_articles/6f85b4f3.ext.json)
 
 ---
 
@@ -407,6 +571,22 @@ He was accompanied by Sri Lankan High Commissioner in Kenya Kana Kananathan, Gen
 [Data](articles/b2a9b2f0.json)
 
 [Extended Data](ext_articles/b2a9b2f0.ext.json)
+
+---
+
+### Shavendra's visit to Kenya explores defense ties including counterterrorism
+
+*2024-03-25 16:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shavendra-s-visit-to-Kenya-explores-defense-ties-including-counterterrorism/108-279559) · `en`
+
+Chief of Defense Staff General Shavendra Silva of Sri Lanka held talks with Chief of Defense Forces of Kenya General Francis Ogolla in Nairobo and explored cooperation in areas such as counterterrorism.
+
+The visit marks a pivotal moment in the diplomatic ties between the two nations, signifying a mutual commitment to enhancing defense cooperation and strategic partnerships.
+
+He was accompanied by Sri Lankan High Commissioner in Kenya Kana Kananathan, General Silva who engaged in extensive discussions with Kenyan defense officials, focusing on areas of mutual interest and shared security challenges.
+
+...
+
+[Data](articles/c2c6ddd8.json)
 
 ---
 
@@ -1040,17 +1220,29 @@ Based on certain information received by the Police Special Task Force (STF) tha
 
 ---
 
-### කුවේටයේ නීති විරෝධිව සිටින ලාංකිකයන්ට එරටින් පිටවීමට පොදු සමා කාලයක්
+### A period of time for Sri Lankans who are illegal to predominantly
 
 *2024-03-25 14:24:26* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-නීති-විරෝධිව-සිටින-ලාංකිකයන්ට-එරටින්-පිටවීමට-පොදු-සමා-කාලයක්/11-408785) · `si`
 
-කුවේට් රාජ්‍යයේ රැකියා සදහා ගොස් නේවාසික වීසා කාළය උල්ලංඝනය කරමින් එරට රැදී සිටින සහ තම සේවා ස්ථාන වලින් පළා ගොස් සිටින ශ්‍රී ලාංකිකයන්ට, දඩ ගෙවීමකින් සහ නීතිමය බාධා වලින් තොරව එරටින් පිට වී යාම සදහා පොදු සමා කාළයක් කුවේට් හි එමීර් ෂෙයික් මෙෂාල් අල් - අහමඩ් අල් - ජාබර් මැතිතුමා විසින් ප්‍රකාශයට පත් කර ඇති බව කුවේට් රාජ්‍යයේ ශ්‍රී ලංකා තානාපති කාන්දීපන් බාලසුබ්‍රමනියම් මහතා නිවේදනයක් නිකුත් කරමින් පැවසීය .
+Sri Lankans in Kuwait, without visas, face fines and legal action. The Sri Lankan Ambassador to Kuwait states that about 19,620 Sri Lankans are illegally residing, with fines imposed for not registering with the embassy. Registering with the embassy avoids legal action, but fines are still incurred for not obtaining a residential visa.
 
-මෙම පොදු සමා කාළය ඉකුත් 03/17 දින සිට එළඹෙන 06/17 දක්වා  ක්‍රියාත්මක වීමට නියමිතය. කුවේට් රාජ්‍යය තුළ දැනට  වීසා නොමැතිව නීතිවිරෝධී ලෙස රැදී සිටින ශ්‍රී ලාංකිකයන් 19,620 ක් පමණ සිටින බව නිල වාර්තා අනුව තමන්ට සනාථ වී ඇති බවත් , ඒ අතරින් මේ වනවිට යළි ශ්‍රී ලංකාව වෙත පිටත්ව  යාම සදහා ශ්‍රී ලාංකිකයන් 5,000 ක පමණ පිරිසක් තම තානාපති කාර්යාලයේ ලියාපදිංචි වී සිටින බව ද ශ්‍රී ලංකා තානාපතිවරයා පැවසීය .
+🟩
+
+Kuwait, Kuwait, Emir Sheikh Mshal al-Jaba, Kuwait, Kuwait, Kuwait, who is on the country, and fines without leaving the residential visa area for work in Kuwait and fines without legal obstacles.Sri Lankan Ambassador to Kuwait, Kuate, said in a statement saying that the Hon.
+
+This public school will be operated from 06/17 from 03/17. According to official reports, about 19,620 Sri Lankans are registered with the embassy in Kuwait, which is currently reported to be illegally relying without visas.The Ambassador of Sri Lanka said.
+
+If Sri Lanka has to come out of this commonie, they are arrested and imposed on Rs. 650,000.
+
+However, if registering at the Sri Lankan Embassy in Kuwait, but not required to adapt to other legal action.
+
+Also, after paying this fine in this public phrase, it is still waiting for its residential visa without legalizing without legalizing.
 
 ...
 
 [Data](articles/24c23d61.json)
+
+[Extended Data](ext_articles/24c23d61.ext.json)
 
 ---
 
@@ -2035,237 +2227,5 @@ University students allege that the student was delayed at the hospital due to t
 [Data](articles/fc79be14.json)
 
 [Extended Data](ext_articles/fc79be14.ext.json)
-
----
-
-### Allow to use English in court
-
-*2024-03-25 10:41:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தில்-ஆங்கில-மொழியைப்-பயன்படுத்த-அனுமதி/175-335141) · `ta`
-
-Justice Minister Vijayadasa Rajapaksa allows English in trade high courts, citing Article 24 (4) and Cabinet approval. English is used in commercial activities, saving time and cost.
-
-🟩
-
-The Justice Minister has issued a notification that allows the English language to use for all purposes for records and activities in trade high courts.
-
-Justice Minister Vijayadasa Rajapaksa issued the announcement in accordance with Article 24 (4) of the Constitution with the approval of the Cabinet of Ministers.
-
-The Cabinet noted that the English language is mainly used in the business of commercial activities and requires a significant cost and time to translate those contents into Sinhala.
-
-◼️
-
-[Data](articles/e32ef1dd.json)
-
-[Extended Data](ext_articles/e32ef1dd.ext.json)
-
----
-
-### Maithripala appeared in CIT
-
-*2024-03-25 10:40:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிஐடியில்-ஆஜரானார்-மைத்திரிபால/175-335140) · `ta`
-
-Former President Maithripala Sirisena visited the Criminal Investigation Department to record a statement regarding the Easter Sunday attack, following a directive from Public Security Minister Tran Ales.
-
-🟩
-
-Former President Maithripala Sirisena appeared at the Criminal Investigation Department today (25).
-
-Maithripala Sirisena recently commented in Kandy that he was aware of the Easter Sunday attack.
-
-Public Security Minister Tran Ales issued a directive to the Inspector General of Police to investigate the report.
-
-Accordingly, former President Maithripala Sirisena visited the Criminal Investigation Department at 10.30 am today to record a statement.
-
-◼️
-
-[Data](articles/27b54e53.json)
-
-[Extended Data](ext_articles/27b54e53.ext.json)
-
----
-
-### Ex-President Maithripala arrives at CID over Easter attacks statement
-
-*2024-03-25 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98183/ex-president-maithripala-arrives-at-cid-over-easter-attacks-statement) · `en`
-
-Former President Maithripala Sirisena has arrived at the Criminal Investigation Department (CID) to make a statement over his recent comments regarding the Easter Sunday bomb attacks, Ada Derana reporter said.
-
-The CID summoned the former President in order to record a statement over the controversial statement he recently made on the Easter Sunday attacks, after Minister of Public Security Tiran Alles had instructed the IGP to carry out an investigation into Sirisena’s remarks.
-
-On Friday (22), former President Maithripala Sirisena had stirred controversy when he claimed he was aware of the true masterminds of the 2019 Easter Sunday terror attacks and that he was prepared to disclose the information to the judiciary if inquired from him or if an order is issued regarding the matter.
-
-...
-
-[Data](articles/ec6c9dde.json)
-
-[Extended Data](ext_articles/ec6c9dde.ext.json)
-
----
-
-### We are waiting for the action against Maithri
-
-*2024-03-25 10:33:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-எதிரான-நடவடிக்கை-தொடர்பில்-காத்திருக்கிறோம்/175-335139) · `ta`
-
-The CID will investigate former President Maithripala Sirisena for the Easter Sunday blast. The Catholic Church demands his arrest, accusing him of knowing the attacker.
-
-🟩
-
-Former President Maithripala Sirisena has been assured that the Criminal Investigation Department will investigate him in connection with the Easter Sunday blast.
-
-The Catholic Church's Media Spokesperson, Jude Krishantha Fernando, said that the authorities have decided to adopt a waiting policy in this regard.
-
-“Former President Sirisena said last Friday," I know who the cause of the Easter Sunday blast is. "
-
-Subsequently, the Criminal Investigation Department has said that Sirisena is investigating, but he has to wait and see how it will happen. ”
-
-“Former President Sirisena misleads the court saying he knows nothing about the attacks. However, the former president has said that he knows who is behind the Easter Sunday attack. We demand that he be arrested in this situation, ”said Jude Grishantha Fernando.
-
-◼️
-
-[Data](articles/2b34e813.json)
-
-[Extended Data](ext_articles/2b34e813.ext.json)
-
----
-
-### Protest at Kelaniya University over sudden death of student last night
-
-*2024-03-25 10:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Protest-at-Kelaniya-University-over-sudden-death-of-student-last-night/108-279531) · `en`
-
-Colombo, March 25 (Daily Mirror) - A group of students attached to the Kelaniya University is currently protesting in front of the university administrative building over the death of a student due to a sudden illness, a student union said.
-
-They said a total of 150 students gathered in front of the university administrative building this morning.
-
-They claimed that a fourth-year student at the university passed away last night (24) after being hospitalized due to a sudden illness.
-
-The university students allege that the delayed hospitalization of the student in question was a result of the absence of ambulance facilities or other vehicles on the university premises to transport the affected student to the hospital.
-
-◼️
-
-[Data](articles/c94be7dd.json)
-
-[Extended Data](ext_articles/c94be7dd.ext.json)
-
----
-
-### Maithri CID comes under
-
-*2024-03-25 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194901) · `si`
-
-Former President Maithripala Sirisena visited the CID, following his statement about knowing individuals involved in the Easter attack. The Minister of Defense Tiran Alles was tasked with an accelerated inquiry by the IGP.
-
-🟩
-
-Former President Maithripala Sirisena has arrived at the CID for a short period.
-
-Maithripala Sirisena had made a statement in the Kandy area that he knew persons involved in the Easter attack.
-
-The Minister of Defense Tiran Alles was instructed by the IGP to conduct an accelerated inquiry into the statement.
-
-Accordingly, former President Maithripala Sirisena had summoned to the CID at 10.30 am today.
-
-◼️
-
-[Data](articles/69d42c51.json)
-
-[Extended Data](ext_articles/69d42c51.ext.json)
-
----
-
-### Sri Lanka should not give standing facilities as lender of first resort: Bellwether
-
-*2024-03-25 10:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-not-give-standing-facilities-as-lender-of-first-resort-155924/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s recent removal of counterparty limits for access to central banks’ printed money as a standing facility is a mistake which will make banks overtrade and contribute to monetary and financial instability in the future.
-
-Standing facilities should be the last among lender of last resort facilities.
-
-The more liberal the LOLR facilities are, the more unchanging the rate, the more external instability there will be in the future, and more bank bad loans will pile up as stabilization policies are applied.
-
-Essentially, standing facilities, term or permanent injections allow banks to lend without deposits, and trigger forex shortages in a soft-peg or flexible exchange rate.
-
-The UK has a standing facility that prints money at 0.25 percent above the policy rate.
-
-...
-
-[Data](articles/41bd92c8.json)
-
-[Extended Data](ext_articles/41bd92c8.ext.json)
-
----
-
-### Kalmunai North Divisional Secretariat Struggle
-
-*2024-03-25 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/179617) · `ta`
-
-Protest in Kalmunai North Divisional Secretariat over civil society demands. Over 50 civilians involved, with continuous resolution efforts. Security provided by Kalmunai Headquarters Police. Previous hunger strike for upgrading the secretariat ended with politicians' promises.
-
-🟩
-
-A protest has been launched in the arrangement of all civil society demanding a solution to the Kalmunai North Divisional Secretariat issue.
-
-The struggle, which began at the Kalmunai North Divisional Secretariat, on Monday (25), is being released by pamphlets.
-
-More than 50 civilians have now launched a protest in the struggle and the organizers said that the struggle will be resolved continuously.
-
-Kalmunai Headquarters Police are providing security in the area where the protest is taking place. Similarly, the hunger strike for the upgrading of the Kalmunai Tamil Divisional Secretariat in 2019 was to abandon the struggle with the fake promises of many politicians.
-
-A hunger strike was held in front of the Divisional Secretariat demanding the upgrading of the Kalmunai North Divisional Secretariat in the Ampara District.
-
-...
-
-[Data](articles/2d022eea.json)
-
-[Extended Data](ext_articles/2d022eea.ext.json)
-
----
-
-### Sirisena can be arrested - lawyers report
-
-*2024-03-25 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179618) · `ta`
-
-Lawyers argue for Sirisena's arrest, citing Criminal Procedure Act violations. They question his silence on the PTA rules for three weeks. The Lawyers Association for Democracy has filed a complaint regarding Sirisena's comments on Sunday attacks. Attorney Manoj Nanayakkara threatens legal action if immediate action isn't taken, demanding an inquiry into Sirisena's claims.
-
-🟩
-
-Attorneys have said that there are sufficient reasons for the arrest of former President Maithripala Sirisena.
-
-Attorneys who have pointed out that the Criminal Procedure Act of Sri Lanka has violated the rules of the PTA, has questioned why he hid this important issue for three weeks.
-
-The Lawyers Association for Democracy has lodged a complaint with the comments made by Maithripala Sirisena on the Sunday attacks.
-
-Attorney Manoj Nanayakkara said that if the CIT and other concerned departments do not take immediate action, the Attorney General and the CITs are ready to file a petition in the Appeal Court seeking inquiries into Maithripala Sirisena's claims.
-
-Sirisena has accused him of the Criminal Procedure Act and should be immediately arrested and investigated.
-
-"We are waiting for Sirisena to be accused and immediately arrested and interrogated."
-
-◼️
-
-[Data](articles/6b6d5f62.json)
-
-[Extended Data](ext_articles/6b6d5f62.ext.json)
-
----
-
-### Unemployment issue is less than 4.3 per cent
-
-*2024-03-25 10:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/179612) · `ta`
-
-Unemployment fell 4.3% in Q4 last year, three times more than Q3 growth, as the country's GDP expanded from 1.6% to 4.5% in Q3, recovering from a foreign exchange shortage in early 2022.
-
-🟩
-
-The unemployment problem fell 4.3 percent in the last quarter of last year.
-
-This is three times more than the third quarter growth. The report issued by the Department of Census and Competition and Statistics.
-
-With the country recovering from foreign exchange shortage in early 2022, the country's GDP expands from 1.6 percent to 4.5 per cent in the third quarter of last year.
-
-◼️
-
-[Data](articles/2ef86cc3.json)
-
-[Extended Data](ext_articles/2ef86cc3.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 12:49:34**
+As of **2024-03-25 13:03:11**
 
 ## Newspaper Stats
 
-*Scraped **14,998** Articles*
+*Scraped **14,999** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 831
 adalk | 1,273
 adaderanalk | 1,805
 tamilmirrorlk | 1,807
-virakesarilk | 2,101
+virakesarilk | 2,102
 dailymirrorlk | 2,312
 adaderanasinhalalk | 2,405
 
@@ -26,27 +26,45 @@ adaderanasinhalalk | 2,405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,993 (100.0%) of 14,998 articles have been extended.
+14,998 (100.0%) of 14,999 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### රැවුල් කුමාර සඟවා ගෙන සිටි ෆෝන් එක STF භාරයට
+### STF occupies the cell phone concealed Kumara
 
 *2024-03-25 12:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194904) · `si`
 
-බූස්ස අධි ආරක්ෂිත බන්ධනාගාරයේ රඳවා සිටින "රැවුල් කුමාර" නම් සංවිධානාත්මක අපරාධකරු සන්තකයේ තිබී ජංගම දුරකථනයක් පොලිස් වි‍ශේෂ කාර්ය බළකායේ නිලධාරීන් විසින් සොයාගෙන තිබේ.
+STF officials found with Kumara's cell phone in Boossa Prison. Seized SIM, phone, charger, and battery. Items under STF investigation.
 
-විශේෂ කාර්ය බළකායේ නිලධාරීන් කණ්ඩායමක් විසින් ඊයේ (24) දින බූස්ස බන්ධනාගාරයේ විශේෂ අංශය A කොටසේ හදිසි සෝදීසි කිරීමක් සිදුකර ඇත.
+🟩
 
-එහිදී මෙම සැකකරු සතුව තිබී සිම්පතක්, ජංගම දුරකථනයක්, චාජර් හා අමතර බැටරියක් පොලිස් භාරයට ගෙන ඇත.
+Police Special Task Force officials have been found in the possession of the Organization Kumara in the Boossa High Security Prison.
 
-වැඩිදුර විමර්ශන සඳහා එම ජංගම දුරකථනය සහ අනෙකුත් දෑ විශේෂ කාර්ය බළකාය නිලධාරීන් භාරයේ තබා ඇති බව වාර්තා වේ.
+A team of Special Task Force officials has made an emergency seedi in the Boossa Prison yesterday (24).
+
+The suspect was taken into custody by the police, a SIM, a mobile phone, charger and additional battery.
+
+It is reported that the mobile phone and other matters have been placed in the custody of the Special Task Force for further investigations.
 
 ◼️
 
 [Data](articles/ae7a90c2.json)
+
+[Extended Data](ext_articles/ae7a90c2.ext.json)
+
+---
+
+### சீனாவை சென்றடைந்தார் பிரதமர்
+
+*2024-03-25 12:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/179641) · `ta`
+
+சீன அரசின்  உத்தியோகபூர்வ அழைப்பையேற்று பிரதமர் தினேஷ் குணவர்தன இன்று திங்கட்கிழமை (25)  காலை  சீனாவின் பீஜிங் நகரை  சென்றடைந்தார்.
+
+◼️
+
+[Data](articles/759b9089.json)
 
 ---
 
@@ -884,21 +902,27 @@ The Colombo Stock Exchange opened x; the All Share Price Index was up 0.06 perce
 
 ---
 
-### පරිසරය වෙනුවෙන් චීනය ගත් අපූරු තීරණය
+### The wonderful decision of China for the environment
 
 *2024-03-25 09:42:57* · [`adalk`](https://www.ada.lk/breaking_news/පරිසරය-වෙනුවෙන්-චීනය-ගත්-අපූරු-තීරණය/11-408777) · `si`
 
-යැංසි ගංගාවේ දස වසරක මත්ස්‍ය තහනමක් ක්‍රියාවට නැංවීමට අදාළ ව මාර්ගෝපදේශ මාලාවක් නිකුත් කෙරේ. මෙය යැංසි ගංගා ආර්ථික තීරයේ උසස් ගුණාත්මක සංවර්ධනය සහතික කිරීමේ ප්‍රධාන පියවරක් බව චීන රාජ්‍ය මණ්ඩල ප්‍රධාන කාර්යාලය කියයි.
+China's decision to implement a ten-year fish ban in the Yangi River is a significant step towards ensuring high-quality development in the Yangi River economy. This move is part of a series of guidelines aimed at rebuilding the vitality of the Jangasa River, China's mother town. High priority is given to state departments to enforce this ban, emphasizing the importance of coordination, supervision, and monitoring. Additionally, these guidelines aim to improve the conservation of rare and endangered species in the Yangi River.
 
-එසේම, මෙය චීනයේ මවු ගංගාව ලෙස සැලකෙන යැංසි නදියේ ජීව ශක්තිය යළි ගොඩනැගීම සඳහා වන වැදගත් ක්‍රියාමාර්ගයක් වන බව එම කාර්යාලය මගින් නිකුත් කෙරුණු ලේඛනයක දැක්වේ.
+🟩
 
-අදාළ රාජ්‍ය දෙපාර්තමේන්තු මෙම මත්ස්‍ය තහනමට අදාළ ක්‍රියාමාර්ග අනුගමනය කිරීම කෙරෙහි ඉහළ ප්‍රමුඛතාවක් ලබා දිය යුතු බව ද දැනුම් දී ඇත. මෙහිදී සම්බන්ධීකරණ හා අධීක්ෂණ කටයුතුවල මෙන්ම නීතිමය යාන්ත්‍රණයන් හි මනා ක්‍රියාකාරීත්වයක් පවත්වා ගැනීම අත්‍යවශ්‍ය බව ද අවධාරණය කෙරේ.
+A series of guidelines issued to implement a ten-year fish ban in the Yangi River. The Chinese government board head office said that this is a major step to ensure high quality development in the Yangi River economy.
 
-යැංසි ගංගාව ආශ්‍රිතව වෙසෙන, දුර්ලභ සහ වඳ වී යාමේ අවදානමට ලක් ව සිටින ජීව විශේෂ සංරක්ෂණය, සත්ත්ව වාසස්ථාන වැඩිදියුණු කිරීම මෙන්ම පාරිසරික තත්ත්ව වැඩිදියුණු කිරීම සඳහා පියවර ගන්නා ලෙස ද මෙම මාර්ගෝපදේශ මාලාවෙන් ඉල්ලීමක් කෙරේ.
+It is also a document issued by a document for the rebuilding of the vitality of the Jangasa River of the China's mother town.
+
+The relevant State departments have also been given a high priority to provide the prohibition of these fish ban. It is emphasized that it is necessary to maintain a fine function in coordinating and supervision and monitoring.
+
+These guidance will also be requested to improve the rare and extinction of rare and extinction in the Yangi River.
 
 ◼️
 
 [Data](articles/77cc2665.json)
+
+[Extended Data](ext_articles/77cc2665.ext.json)
 
 ---
 
@@ -1228,6 +1252,8 @@ McDoland’s had entered into a Development Agreement with the local franchise o
 
 [Data](articles/3140baa4.json)
 
+[Extended Data](ext_articles/3140baa4.ext.json)
+
 ---
 
 ### Former President Maithree under CID
@@ -1451,6 +1477,8 @@ SOE guaranteed debt by end 2022 was about another 5.62 percent of GDP.
 ...
 
 [Data](articles/b16a182d.json)
+
+[Extended Data](ext_articles/b16a182d.ext.json)
 
 ---
 
@@ -2193,25 +2221,5 @@ Shubman Kill scored 31 runs, Rahul Thevatia 22, Ritiman Saha 19 and Azmatullah O
 [Data](articles/952b9d5a.json)
 
 [Extended Data](ext_articles/952b9d5a.ext.json)
-
----
-
-### 2024-03-24 (Sunday)
-
-### NPP will not allow new parliamentary electoral system before Presidential polls: AKD
-
-*2024-03-24 22:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-will-not-allow-new-parliamentary-electoral-system-before-Presidential-polls-AKD/108-279489) · `en`
-
-Toronto, March 24 (Daily Mirror)- The National People's Power (NPP) will not allow the government to implement the proposed Constitutional Amendments to introduce a new parliamentary electoral system before the Presidential polls, NPP leader Anura Kumara Dissanayake said.
-
-Speaking at a meeting with the Sri Lankan community in Toronto, Canada, he said the government was making every effort to evade a national election at this juncture as they are purturbed with the predictions that they are going to lose power.
-
-"They are afraid of transfering power to the people.That is why there has been hesitation on elections.The government has now presented a Cabinet Paper to introduce a new electoral system. We will assure you that we will not allow any opportunity for the government to do it before the Presidential election," he said.
-
-...
-
-[Data](articles/fc1142a8.json)
-
-[Extended Data](ext_articles/fc1142a8.ext.json)
 
 ---

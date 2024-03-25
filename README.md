@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 08:17:57**
+As of **2024-03-25 08:33:43**
 
 ## Newspaper Stats
 
-*Scraped **14,939** Articles*
+*Scraped **14,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ economynextcom | 800
 dailyftlk | 806
 islandlk | 830
 adalk | 1,268
-tamilmirrorlk | 1,795
-adaderanalk | 1,799
+tamilmirrorlk | 1,796
+adaderanalk | 1,800
 virakesarilk | 2,090
-dailymirrorlk | 2,301
+dailymirrorlk | 2,302
 adaderanasinhalalk | 2,398
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,939 (100.0%) of 14,939 articles have been extended.
+14,939 (100.0%) of 14,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### Lukashenko highlights potential of cooperation between Belarus, Sri Lanka
+
+*2024-03-25 08:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98181/lukashenko-highlights-potential-of-cooperation-between-belarus-sri-lanka) · `en`
+
+Belarusian President Aleksandr Lukashenko has sent greetings to President of Sri Lanka Ranil Wickremesinghe to congratulate him on his 75th birthday, according to the press service of the Belarusian leader.
+
+“Today, Sri Lanka is a good example of economic reforms aimed at improving the quality of life of the population. In this pursuit you can always count on the support of the Republic of Belarus.
+
+“I am convinced that the potential of bilateral cooperation is far from being exhausted and together we will be able to bring the Belarusian-Sri Lankan cooperation to a new level,” the congratulatory message reads.
+
+Aleksandr Lukashenko noted that Belarus has competencies in such sectors as mechanical engineering, metal and wood processing, electric power, petrochemistry, pharmaceuticals, and is ready to assist Sri Lanka in its effort to strengthen food security and to supply agricultural machinery and share technologies.
+
+◼️
+
+[Data](articles/e1ec5da4.json)
+
+---
+
+### Church skeptical on CID questioning Maithri
+
+*2024-03-25 08:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Church-skeptical-on-CID-questioning-Maithri/108-279513) · `en`
+
+Colombo, March 25 (Daily Mirror) - National Catholic Director of Mass Communications Fr. Jude Krishantha yesterday said the church in Sri Lanka has decided to adopt a wait and see policy with regard to action which the authorities would take against former President Maithripala Sirisena despite the assurance given by the CID that it will probe the latter would be questioned on the remark he made on Friday.
+
+Former President Sirisena on Friday said he is aware as to who was behind the Easter Sunday bomb attacks.
+
+“CID has said Mr. Sirisena will be probed but we have to wait and see how it goes,” Fr. Fernando told Daily Mirror.
+
+“Mr Sirisena has actually misled the judiciary as he earlier denied any knowledge about the attacks. However the former President is now saying that he is aware of as to who was behind the Easter Sunday attacks. We call for Sirisena’s arrest,” he said.
+
+◼️
+
+[Data](articles/312cfb17.json)
+
+---
 
 ### President calls for comprehensive dialogue on healthcare transformation
 
@@ -479,6 +515,24 @@ He also stated that if there is any threat to the security of the former preside
 [Data](articles/ded732aa.json)
 
 [Extended Data](ext_articles/ded732aa.ext.json)
+
+---
+
+### ’பொருளாதார மறுமலர்ச்சியை ஏற்படுத்த முடியும்’
+
+*2024-03-25 02:01:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-மறுமலர்ச்சியை-ஏற்படுத்த-முடியும்/175-335131) · `ta`
+
+புதிய மறுசீரமைப்புக்களின் ஊடாக மாத்திரமே பொருளாதார மறுமலர்ச்சியை ஏற்படுத்த முடியும் என்றும், கடந்த காலத்தில் ஏற்பட்ட பொருளாதார நெருக்கடியைப் போல எதிர்காலத்தில் ஏற்படாதிருப்பதை உறுதிசெய்யும் அரசாங்கத்தின் வேலைத் திட்டத்திற்கு ஒத்துழைப்பு வழங்க வேண்டிய பொறுப்பு அனைவருக்கும் உள்ளதென ஜனாதிபதி ரணில் விக்கிரமசிங்க சுட்டிக்காட்டினார்.
+
+ஏனைய அரசியல்வாதிகள் பொறுப்பேற்கத் தயங்கிய நாட்டையே தான் பொறுப்பேற்றதாக சுட்டிக்காட்டிய ஜனாதிபதி, சிலர் தமது அரசியல் எதிர்காலம் பற்றி மட்டுமே சிந்தித்த போதும், தான் நாட்டின் எதிர்காலத்தை பற்றியே சிந்தித்ததாகவும் சுட்டிக்காட்டினார்.
+
+பொலன்னறுவையில் நடைபெற்ற 'யுனைடட் யூத் இளைஞர் ஒன்றியம்' உடனான சிநேகபூர்வ கலந்துரையாடலிலேயே ஜனாதிபதி ரணில் விக்கிரமசிங்க இதனைத் தெரிவித்தார்.
+
+'ஜனாதிபதியுடன் கலந்துரையாடல்' என்ற இச்சந்திப்பில் நாட்டின் எதிர்காலம் மற்றும் தூரநோக்குக் குறித்து இளைஞர்களுடன் கலந்துரையாடிய ஜனாதிபதி, இளையோரின் கேள்விகளுக்கும் பதிலளித்தார். (a)
+
+◼️
+
+[Data](articles/fe9e975f.json)
 
 ---
 
@@ -2131,79 +2185,5 @@ State Minister for Justice, Anuradha Jayarathne said that prisoners in the Welik
 [Data](articles/a6d32fd5.json)
 
 [Extended Data](ext_articles/a6d32fd5.ext.json)
-
----
-
-### Anura reveals about the latest mess
-
-*2024-03-24 13:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194875) · `si`
-
-Anura Kumara Dissanayake, leader of the National Power, criticized Basil's parliamentary vote, urging support for Ranil in the presidential election. He warned of dire consequences if Ranil does not support him, suggesting that the general election could be held soon, with the presidential election on September 28 or October.
-
-🟩
-
-Leader of the National Zoology Anura Kumara Dissanayake says that the first time in the history of the country to become one of the first time in the history of the country to be one of the first time in the history of the country.
-
-He made these comments addressing Sri Lankans in Toronto yesterday.
-
-Leader of the National Power Anura Kumara Dissanayake
-
-...
-
-[Data](articles/92d82663.json)
-
-[Extended Data](ext_articles/92d82663.ext.json)
-
----
-
-### Change in milk powder price
-
-*2024-03-24 13:42:50* · [`adalk`](https://www.ada.lk/breaking_news/කිරිපිටි-මිලෙහි-වෙනසක්/11-408770) · `si`
-
-Trade Minister Nalin Fernando announced that imports of milk powder have been halted from midnight today, affecting the price of milk powder packets.
-
-🟩
-
-Trade Minister Nalin Fernando says that the import milk powder has been declined from midnight today.The price of a packet of Rs.
-
-◼️
-
-[Data](articles/a91ac64d.json)
-
-[Extended Data](ext_articles/a91ac64d.ext.json)
-
----
-
-### A day of mourning in Russia
-
-*2024-03-24 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194874) · `si`
-
-Russia mourns 133 lives in terror attack. 13 LTTE cadres, 6,200+ theatergoers, and 11 suspects arrested. Attack condemned globally, including by Sri Lanka's Ministry of External Affairs.
-
-🟩
-
-Thirteen 133 people have been declared with the attack on Russia today (24).
-
-Accordingly, the number of people who were in front of the Russian embassies in Russia and Sri Lanka were also taken into custody.
-
-Thirteen LTTE cadres have lost their lives to a concert held at the Cross Town Hall near Moscow, Russia.
-
-More than 6,200 people from theater from the theater when the attack was hit.
-
-Two decades later, this is the worst terrorist attack from Russia, and the Islamic state is the Organization of the Islamic Kingdom.
-
-The ISO was later released on a video of the attack and attacked the attack.
-
-11 persons have been arrested in connection with the attack and the four persons who have been shot in the Theater belongs.
-
-Foreign media reports the Russian people have been able to donate blood for the injured.
-
-He emphasized that the suspects were jumping to Ukraine and emphasized that he would be severely punished for responsible.
-
-...
-
-[Data](articles/93ccfa29.json)
-
-[Extended Data](ext_articles/93ccfa29.ext.json)
 
 ---

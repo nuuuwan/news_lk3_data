@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 02:33:30**
+As of **2024-03-26 02:49:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,428
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,140 (100.0%) of 15,145 articles have been extended.
+15,145 (100.0%) of 15,145 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,8 @@ He noted that President Ranil Wickremesinghe has already submitted amendments ai
 
 [Data](articles/b1f038eb.json)
 
+[Extended Data](ext_articles/b1f038eb.ext.json)
+
 ---
 
 ### Marikkar criticises Sirisena’s Easter Sunday claims as political gambit
@@ -76,6 +78,8 @@ On 22 March, Sirisena expressed his readiness to disclose the true masterminds b
 
 [Data](articles/91923421.json)
 
+[Extended Data](ext_articles/91923421.ext.json)
+
 ---
 
 ### Presidential poll expected after 17 July - G.L
@@ -96,6 +100,8 @@ Peiris emphasised that the Presidential election must take place this year and c
 
 [Data](articles/74f1dedc.json)
 
+[Extended Data](ext_articles/74f1dedc.ext.json)
+
 ---
 
 ### Siyambalapitiya assures timely payment to public sector employees
@@ -111,6 +117,8 @@ Highlighting the Government’s efforts to alleviate the financial burden on low
 ...
 
 [Data](articles/4d4d6e0b.json)
+
+[Extended Data](ext_articles/4d4d6e0b.ext.json)
 
 ---
 
@@ -131,6 +139,8 @@ The Minister emphasised that this initiative would empower the Sri Lanka Bureau 
 ...
 
 [Data](articles/429bf79c.json)
+
+[Extended Data](ext_articles/429bf79c.ext.json)
 
 ---
 

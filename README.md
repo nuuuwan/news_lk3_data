@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 11:33:38**
+As of **2024-03-25 11:52:54**
 
 ## Newspaper Stats
 
-*Scraped **14,978** Articles*
+*Scraped **14,980** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,56 +17,94 @@ dailyftlk | 806
 islandlk | 831
 adalk | 1,272
 adaderanalk | 1,802
-tamilmirrorlk | 1,806
+tamilmirrorlk | 1,807
 virakesarilk | 2,097
 dailymirrorlk | 2,308
-adaderanasinhalalk | 2,403
+adaderanasinhalalk | 2,404
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,975 (100.0%) of 14,978 articles have been extended.
+14,978 (100.0%) of 14,980 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### யாழில் ஊடகவியலாளர் என கூறி 43 இலட்ச ரூபாய் மோசடியில் ஈடுபட்ட நபர் கைது
+### A man arrested for allegedly defrauding 43 lakhs of rupees as a journalist in Jaffna
 
 *2024-03-25 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/179628) · `ta`
 
-தன்னை ஊடகவியலாளராக அடையாளப்படுத்திக்கொண்டு மோசடியில் ஈடுபட்டு வந்த நபர் ஒருவர் யாழ்ப்பாணம் பொலிஸாரினால் நேற்று ஞாயிற்றுக்கிழமை கைது செய்யப்பட்டுள்ளார்.
+A journalist in Jaffna was arrested for allegedly defrauding 43 lakhs of rupees. He claimed to be involved in a music event in Canada, but was found to be involved in multiple frauds.
 
-கனடாவில் சந்தோஷ் நாராயணனின் மாபெரும் இசை நிகழ்வொன்று இடம்பெறவுள்ளதாகவும், அதற்காக இலங்கையில் இருந்து சில ஊடகவியலாளர்களை அழைத்து செல்ல உள்ளதாகவும் கூறி, அவ்வாறு அழைத்து செல்லப்படவுள்ள ஊடகவியலாளர்களுடன் ஊடகவியலாளராக உங்களையும் அழைத்து சென்று கனடாவில் இறக்கிவிடுவதாக யாழ்ப்பாண இளைஞன் ஒருவரிடம் கூறியுள்ளார்.
+🟩
 
-அதற்காக சிலருக்கு பணம் கொடுக்க வேண்டும் எனவும், ஊடக நிறுவனம் ஒன்றிடம் இருந்து ஊடகவியலாளர் என அடையாள அட்டையினை பெற்றுக்கொள்ள, அந்நிறுவனத்திற்கு ஒரு தொகை பணம் வழங்க வேண்டும் என இளைஞனிடம் இருந்து 43 இலட்ச ரூபாய் பணத்தினை பெற்று, இளைஞனுக்கு ஊடக நிறுவனம் ஒன்றின் அடையாள அட்டையையும் வழங்கியுள்ளார்.
+A man who identified himself as a journalist was arrested by the Jaffna police on Sunday.
 
-பணத்தினை பெற்று நீண்ட காலமாகியும், கனடாவில் சந்தோஷ் நாராயணனின் இசை நிகழ்வுக்கான ஏற்பாடுகள் எதுவும் நடைபெறுவதாக இளைஞன் அறியாத நிலையில், தனது பணத்தினை மீள தருமாறு கோரிய வேளை , இளைஞனின் தொடர்பை துண்டித்துள்ளார்.
+A Jaffna youth has told a Jaffna youth that he will take you as a journalist with journalists who are going to be taken and unloaded in Canada, saying that Santosh Narayanan's grand music will be held in Canada and some journalists from Sri Lanka are to be taken.
+
+He has issued a sum of Rs.
+
+The young man has not been aware that the money is being made for Santosh Narayanan's music event in Canada for a long time, and the young man has cut off his money when he has asked him to recover his money.
+
+So when the youth lodged a complaint at the Jaffna Police Station, the suspect was reported to be hiding in Vavuniya when police investigated.
+
+At the same time, it was revealed that the man who had defrauded the media company had been conducting a media company when police investigated the media identity card issued to the youth.
 
 ...
 
 [Data](articles/258571e4.json)
 
+[Extended Data](ext_articles/258571e4.ext.json)
+
 ---
 
-### யாழில் கஞ்சாவுடன் கைதான கடற்படையினர் உள்ளிட்ட மூவரை பொலிஸ் தடுப்பு காவலில் வைத்து விசாரணை செய்ய அனுமதி
+### කිසිවෙක් නොසිතූ මොහොතක සරසවි බිමෙන් නොඑන ගමන් ගිය නිරෝෂණ
+
+*2024-03-25 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194903) · `si`
+
+කැලණිය විශ්වවිද්‍යාලයේ නේවාසිකාගාරයේ සිටි සිව්වන වසරේ සිසුවෙකු හදිසි අසනීප තත්ත්වයක් හේතුවෙන් රෝහල්ගත කිරීමේ දී ජීවිතක්ෂයට පත්ව තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, සමාජීය විද්‍යා පීඨයේ භූගෝල විද්‍යා අධ්‍යනාංශයේ සිව්වන වසරේ ඉගෙනුම ලැබූ නිරෝෂණ ලක්මාල් හෙවත් සරසවියේ දී 'මොණරා' යන අනුවර්ථන නාමයෙන් හැඳින්වූ මොනරාගල ප්‍රදේශයේ පදිංචි තරුණයෙකි.
+
+ඊයේ (24) රාත්‍රී 10ට පමණ එම තරුණයාට මීමැස්මොර රෝගී තත්ත්වයක් හට ගෙන ඇති අතර, ඒ පිළිබඳව පාලනාධිකාරිය දැනුවත් කළත් නිරෝෂණව රෝහල්ගත කිරීමට වාහනයක් අදාළ ස්ථානයට පැමිණීමට බොහෝ වේලාවක් ගතවූ බව කැලණිය විශ්වවිද්‍යාලයේ සිසුන් චෝදනා කරයි.
+
+සිසුන් පවසන්නේ සිය මිතුරාව රෝහල්ගත කිරීමට ප්‍රමාද වීම ඔහුගේ ජීවිතය අහිමිවීමට හේතුවූ බවය.
+
+මේ හේතුවෙන් කැලණිය සරසවියේ මහා ශිෂ්‍ය සංගමය පරිපාලන ගොඩනැගිල්ල ඉදිරිපිට බිම වාඩි වී විරෝධය දැක්වූ අතර එයට විශ්වවිද්‍යාල අනධ්‍යයන කාර්ය මණ්ඩලයේ ද සහයෝගය හිමිව තිබෙන අයුරු දක්නට ලැබිණි.
+
+නිරෝෂණ ලක්මාල්ගේ හදිසි වියෝවයෙන කම්පනයට පත්වූ සරසවි සිසුන් ඔවුන්ගේ ෆේස්බුක් පිටුවල තැබූ සංවේදී සටහන් කිහිපයක් පහතින් දැක්වේ.
+
+...
+
+[Data](articles/af93dc33.json)
+
+---
+
+### Allowing three persons, including navy personnel arrested in Jaffna, have been arrested in police custody.
 
 *2024-03-25 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179627) · `ta`
 
-யாழ்ப்பாணம் காரைநகர் பகுதியில் கஞ்சா விற்பனையில் ஈடுபட்ட கடற்படையைச் சேர்ந்த இருவரையும், கஞ்சாவை வாங்க வந்த நபரையும் பொலிஸ் தடுப்பு காவலில் வைத்து விசாரணை செய்ய ஊர்காவற்துறை நீதவான் நீதிமன்று அனுமதி வழங்கியுள்ளது.
+Three, including navy personnel, arrested in Jaffna, are under investigation for cannabis sale. Police acted on confidential info about the sale last Saturday, arresting two navy personnel and a buyer. The Kayts Magistrate's Court granted permission for the investigation, with the suspects to be interrogated for 48 hours.
 
-கடந்த சனிக்கிழமை கஞ்சா விற்பனை நடைபெறுவதாக ஊர்காவற்துறை பொலிஸாருக்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் சம்பவ இடத்திற்கு விரைந்த பொலிஸார் விற்பனையில் ஈடுபட்ட இருவரையும், அதனை வாங்கிய நபரையும் கைது செய்து பொலிஸ் நிலையம் கொண்டு சென்று விசாரணைகளை முன்னெடுத்தனர்.
+🟩
 
-அதன்போது கஞ்சா விற்பனையில் ஈடுபட்ட இருவரும் கடற்படையைச் சேர்ந்தவர்கள் எனவும் மற்றைய நபர் ஊரவர் எனவும் தெரிய வந்துள்ளது.
+The Kayts Magistrate's Justice has granted permission to investigate the police detention of two navy and a person who came to buy cannabis.
 
-இந்நிலையில் நேற்று ஞாயிற்றுக்கிழமை (24) ஊர்காவற்துறை நீதவான் நீதிமன்ற பதில் நீதவான் முன்னிலையில் மூவரையும் முற்படுத்தி, மூவரிடமும் மேலதிக விசாரணைகளை முன்னெடுக்க வேண்டும். அதனால் அவர்களை பொலிஸ் காவலில் தடுத்து வைத்து விசாரணை செய்ய அனுமதி வேண்டும் என கோரி இருந்தனர்.
+On the basis of confidential information received by the Kayts police that the sale of cannabis was taking place last Saturday, the police rushed to the scene and arrested the two men and the person who bought it and carried out investigations.
 
-பொலிஸாரின் கோரிக்கையை ஏற்ற மன்று மூவரையும் 48 மணி நேரம் பொலிஸ் காவலில் வைத்து விசாரணை செய்ய அனுமதித்தது.
+It was revealed that the two of the cannabis were from the Navy and that the other person was the city.
+
+In this backdrop, the Kayts Magistrate's Court on Sunday (24) should present the three men in the presence of the Magistrate's Court.. So they demanded permission to detain them and interrogate them.
+
+The police allowed the police to be interrogated by the police for 48 hours.
 
 ◼️
 
 [Data](articles/5591d92f.json)
+
+[Extended Data](ext_articles/5591d92f.ext.json)
 
 ---
 
@@ -176,6 +214,24 @@ University students allege that the student was delayed at the hospital due to t
 
 ---
 
+### களனி மாணவன் மரணம்: எதிர்த்து ஆர்ப்பாட்டம்
+
+*2024-03-25 10:43:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களனி-மாணவன்-மரணம்-எதிர்த்து-ஆர்ப்பாட்டம்/175-335142) · `ta`
+
+திடீர் சுகவீனத்தினால் மாணவர் ஒருவர் உயிரிழந்தமை தொடர்பில் களனிப் பல்கலைக்கழக மாணவர்கள் குழுவொன்று தற்போது பல்கலைக்கழக நிர்வாகக் கட்டிடத்திற்கு முன்பாக ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ளதாக மாணவர் ஒன்றியம் தெரிவித்துள்ளது.
+
+இன்று காலை மொத்தம் 150 மாணவர்கள் பல்கலைக்கழக நிர்வாக கட்டிடத்தின் முன் திரண்டனர்.
+
+பல்கலைக்கழகத்தில் நான்காம் வருட மாணவர் ஒருவர் திடீர் சுகவீனம் காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்த நிலையில் நேற்று (24) இரவு காலமானதாக அவர்கள் தெரிவித்துள்ளனர்.
+
+பாதிக்கப்பட்ட மாணவனை வைத்தியசாலைக்கு கொண்டு செல்வதற்கு அம்புலன்ஸ் வசதியோ அல்லது ஏனைய வாகனங்களோ பல்கலைக்கழக வளாகத்தில் இல்லாத காரணத்தினால் குறித்த மாணவன் தாமதமாக வைத்தியசாலையில் அனுமதிக்கப்பட்டதாக பல்கலைக்கழக மாணவர்கள் குற்றம் சுமத்துகின்றனர்.
+
+◼️
+
+[Data](articles/fc79be14.json)
+
+---
+
 ### Allow to use English in court
 
 *2024-03-25 10:41:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்தில்-ஆங்கில-மொழியைப்-பயன்படுத்த-அனுமதி/175-335141) · `ta`
@@ -281,6 +337,8 @@ The university students allege that the delayed hospitalization of the student i
 ◼️
 
 [Data](articles/c94be7dd.json)
+
+[Extended Data](ext_articles/c94be7dd.ext.json)
 
 ---
 
@@ -1314,7 +1372,7 @@ Thus a poignant memoir of episodes still not out of mind comes as a welcome remi
 
 Higher the Government expenditure, greater the burden being borne by people
 
-American economist William A. Niskanen, writing to the American Economic Review in 1968 (available at: https://sites.socsci.uci.edu/~jkbrueck/course%20readings/Econ%20272B%20readings/niskanen.pdf) presented a model in which the governments and government agencies have incentives to enlarge their budgets. He called this the budget maximising behaviour of bureaus – spending units in the governments – to enhance the personal benefits for themselves rather than for the citizens. This model, further developed by him, was published later in 1971 in book form under the title “Bureaucracy and Representative Government” and in 1973 as a Hobart Paperback edition under the title “Bureaucracy: Servant or Master?”.
+It is the total Government expenditure that should worry citizens instead of the mere tax payments. The total expenditure of the Government, known as gross government expenditure, is made up of the recurrent or consumption expenditure, expenditure incurred for building the country’s capital stock, and money used for repaying the maturing Government debt. Financing that expenditure, whether it is done through taxes, borrowings, or money printing, or a combination of all the three, is a burden to the people. Taxes force them to bear the burden today, borrowings tomorrow, and inflation today as well as the future
 
 ...
 
@@ -1420,19 +1478,9 @@ Application of banking ethics in Sri Lanka – refer: Daily FT dated 21 March 20
 
 *2024-03-25 01:51:59* · [`dailyftlk`](https://www.ft.lk/business/IMF-program-best-chance-for-SL-to-return-to-broad-based-growth-and-prosperity/34-759887) · `en`
 
+UK Foreign, Commonwealth and Development Office (FCDO) Deputy Chief Economist Fergus Cumming
+
 UK Foreign, Commonwealth and Development Office (FCDO) Deputy Chief Economist Fergus Cumming with British High Commissioner Andrew Patrick (fourth from right)  and members of the Council for Business with Britain
-
-UK’s Foreign, Commonwealth and Development Office Deputy Chief Economist Fergus Cumming shares key insights to future of bilateral ties with Sri Lanka
-
-Regards Sri Lanka as having so much potential despite the near-term challenges
-
-Assures UK will continue to play a role in helping Sri Lanka deliver its full potential
-
-FCDO working on arranging discussions between UK’s tax authority with Sri Lankan counterparts to talk about revenue reform
-
-Working with a number of private sector enterprises on how to make the best of various schemes in place, including the Developing Countries Trading scheme
-
-United Kingdom’s Foreign, Commonwealth and Development Office (FCDO) Deputy Chief Economist Fergus Cumming was in Sri Lanka recently to reaffirm the UK's commitment to Sri Lanka.
 
 ...
 
@@ -2235,51 +2283,5 @@ The suspect was identified as the Robert Plympton person.
 [Data](articles/a415f470.json)
 
 [Extended Data](ext_articles/a415f470.ext.json)
-
----
-
-### Police bust major motorcycle theft racket; 04 arrested with 116 number plates
-
-*2024-03-24 19:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98175/police-bust-major-motorcycle-theft-racket-04-arrested-with-116-number-plates) · `en`
-
-Police have arrested four suspects involved in a long-running racket of stealing motorcycles, disassembling and selling the parts.
-
-During the operation, police have recovered 116 motorcycle number plates that were found in their possession.
-
-The arrested suspects, aged between 29 and 44, are residents of the Sravasthipura area of Anuradhapura, Kithulhitiyawa, Mirisgoniyawa Junction, and Heen Moragolla areas of Dambulla, according to police.
-
-These arrests have been made following a special investigation conducted by the Anuradhapura Divisional Investigation Unit. Further investigations have revealed that this racket has been carried out for almost 10 years, the police said.
-
-Police mentioned that the Department of Motor Traffic will be informed in this regard to identify the legal owners of the seized motorcycles.
-
-The arrested suspects were scheduled to be produced before the Nochchiyagama Magistrate’s Court today (24), according to police.
-
-...
-
-[Data](articles/a4a54dc3.json)
-
-[Extended Data](ext_articles/a4a54dc3.ext.json)
-
----
-
-### Bangali players unattended to be a backfill
-
-*2024-03-24 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194886) · `si`
-
-Bangladeshi players ignored as backfill. Sri Lanka's Dhangaya de Silva's video is viral. Dananjaya de Silva scored 94 runs, but his dismissal was questionable.
-
-🟩
-
-The video of Sri Lanka Leader Dhangaya de Siljaya de Siljaya de Siljaya de Siljaya de Silva is currently being exchanged through social media.
-
-It is not necessary that the player of Dananjaya de Silva de Silva de Silva's hands while gathering 94 runs.
-
-At that point, he tries to hold Dhananjaya via stump, and Das is probably not aware that he has been inherited into an arrival.
-
-◼️
-
-[Data](articles/3cfcb088.json)
-
-[Extended Data](ext_articles/3cfcb088.ext.json)
 
 ---

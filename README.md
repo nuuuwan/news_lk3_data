@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 16:17:59**
+As of **2024-03-25 16:33:31**
 
 ## Newspaper Stats
 
-*Scraped **15,040** Articles*
+*Scraped **15,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,59 @@ adaderanalk | 1,812
 tamilmirrorlk | 1,812
 virakesarilk | 2,109
 dailymirrorlk | 2,320
-adaderanasinhalalk | 2,413
+adaderanasinhalalk | 2,414
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,036 (100.0%) of 15,040 articles have been extended.
+15,040 (100.0%) of 15,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### කොටුවූ පාතාලයෝ
+### මෛත්‍රී CIDයෙන් පිටව යයි
+
+*2024-03-25 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194913) · `si`
+
+ප්‍රකාශයක් ලබාදීම සඳහා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණි හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා මීට සුළු මොහොතකට පෙර ඉන් පිටව ගොස් තිබේ.
+
+පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය සම්බන්ධයෙන් සිදුකළ ආන්දෝලනාත්මක ප්‍රකාශයක් සම්බන්ධයෙන් ප්‍රකාශයක් ලබාදීම සඳහා පැමිණෙන ලෙසට CIDය කළ දැනුම්දීමකට අනුව අද (25) හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා මෙම ප්‍රකාශය ලබාදුනි.
+
+◼️
+
+[Data](articles/8a856a4a.json)
+
+---
+
+### Underworld
 
 *2024-03-25 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194912) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් අත්අඩංගුවට ගැනීම සඳහා පොලිස්පතිවරයාගේ උපදෙස් මත ආරම්භ කළ විශේෂ මෙහෙයුමේදී ඊයේ දිනයේ සැකකරුවන් 07ක් අත්අඩංගුවට ගෙන තිබේ.
+Seven suspects, including members of Kuduleku's, Origi-team, and others, were arrested in a special operation led by the IGP.
 
-එම පිරිස අතර කුඩු සළිඳුගේ කණ්ඩායමේ සාමාජිකයින් දෙදෙනෙක් වන පානදුර ප්‍රදේශයේ පදිංචි ප්‍රසාද් මදුරංග කෝඳාගොඩ සහ මොරටුවේ පදිංචි බලාපුවඩුගේ ට්‍රික්සි යන සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් ද සිටී.
+🟩
 
-පොලීසිය පවසන්නේ සංවිධානාත්මක අපරාධ කල්ලියක් වන අංජුගේ කණ්ඩායමේ සාමාජිකයෙකු වන මොරටුව ප්‍රදේශයේ පදිංචි පටබැඳිගේ සංජු තාරක නමැති සාමාජිකයාද ඊයේ අත්අඩංගුවට ගෙන ඇති බවය.
+Seven suspects have been arrested yesterday at the special operation commenced on the instructions of the IGP to arrest organized criminal gang members.
 
-මේ අතර ගනේමුල්ල සංජීවගේ කණ්ඩායමේ සාමාජිකයෙකු වන දික්වැල්ල ප්‍රදේශයේ පදිංචි නාවුරුන්පන්නගේ තරිඳු සම්පත් කුමාර නැමැත්තාද ඊයේ මෙහෙයුමේදී අත්අඩංගුවට ගෙන තිබේ.
+Among them are two members of the group of Kuduleku's team, a resident of Panadura, Panadura, a resident of Panadura, Kodakoda and Moratuwa.
 
-එසේම දෙමටගොඩ චමින්දගේ කණ්ඩායමේ සාමාජිකයෙකු වන බොරැල්ල ප්‍රදේශයේ පදිංචි අතුකෝරල කංකානම්ගේ දොන් අනිල් රංජිත් නමැති 38 හැවිරිදි  සැකකරුවෙකුද පොලිස් විශේෂ මෙහෙයුමේදී අත්අඩංගුවට ගෙන ඇත.
+Police said that the member of Moratuwa, a member of the Origi-team, an organized crime, was also arrested.
 
-...
+Meanwhile, a member of Sanjeemba's group, Dickwella, a member of Sanjeewa's team, was arrested at the operation yesterday.
+
+A 38-year-old suspect, a 38-year-old suspect, a member of the Borella, is a member of the Borella.
+
+Meanwhile, Mohamed Indauhammed Afhanu, a member of Kajipani Imrane, is a 26-year-old member of Kolonnawa.
+
+Police have also arrested a member of the Tunukudicuwara Premayana, a member of the Poonudickena Premachanna, a member of Kotahena.
+
+◼️
 
 [Data](articles/81bbea3d.json)
+
+[Extended Data](ext_articles/81bbea3d.ext.json)
 
 ---
 
@@ -66,23 +90,33 @@ The three-member Presidential Commission of Inquiry was appointed by then Presid
 
 [Data](articles/01901cef.json)
 
+[Extended Data](ext_articles/01901cef.ext.json)
+
 ---
 
-### பாடசாலைக் கல்வி மற்றும் பரீட்சை முறையில் மாற்றம் செய்வது குறித்து அரசாங்கம் கவனம் செலுத்துகிறது :  ஜனாதிபதி
+### The government focuses on changing school education and exam mode: the President
 
 *2024-03-25 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179675) · `ta`
 
-நாட்டின் பிள்ளைகளுக்கு சிறந்த கல்வியை வழங்குவதற்காக அவர்களுக்கு பாடம்  தொடர்பான  அறிவை வழங்கி  பரீட்சைகளுக்கு தயார்படுத்துவதைப் போன்றே அவர்களின் போசாக்கும் பாதுகாக்கப்பட வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க சுட்டிக்காட்டினார்.
+President Ranil Wickremesinghe emphasized the importance of modern technology, including AI, in education and announced a "2024 School Food Program" to provide nutritional food to all schoolchildren. The program aims to reduce nutrition problems, improve health habits, and strengthen the country's economy by creating jobs.
 
-அத்துடன் செயற்கை நுண்ணறிவு உள்ளிட்ட நவீன தொழிநுட்ப அறிவை பிள்ளைகளுக்கு வழங்க வேண்டும் என்று தெரிவித்த ஜனாதிபதி, அதற்கமைவாக பாடசாலை கல்வி மற்றும் பரீட்சை முறைகளில் மாற்றம் ஏற்படுத்துவது தொடர்பில் அரசாங்கம் கவனம் செலுத்தியுள்ளதாகவும் குறிப்பிட்டார்.
+🟩
 
-நாரஹேன்பிட்டி சுஜாதா மகளிர் கல்லூரியில் இன்று (25) முற்பகல் இடம்பெற்ற “2024 பாடசாலை உணவுத் திட்டம்” ஆரம்ப நிகழ்வில் கலந்து கொண்ட ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe pointed out that the children of the country should be preserved as they should be given a lesson and prepared for exams.
 
-நாட்டிலுள்ள தரம் 1-5 வரை உள்ள அனைத்து பாடசாலை மாணவர்களுக்கும் பாடசாலையில்  போசாக்கு உணவு வழங்குவதற்கு கல்வி அமைச்சு நடவடிக்கை எடுத்துள்ளது.
+The President also said that the children should be given modern technology, including artificial intelligence, and that the government is focused on changing school education and exam systems.
+
+President Ranil Wickremesinghe, who was present at the inauguration of the "2024 School Food Program" held at the Sujatha Ladies' College, Narahenpitiya.
+
+The Ministry of Education has taken steps to provide nutritional food to all schoolchildren from grade 1-5 in the country.
+
+President Ranil Wickremesinghe has issued a directive to provide this breakfast at the time of 7.30 am and 8.30 am before students engage in educational activities in view of the recommendations of nutrition experts.
 
 ...
 
 [Data](articles/c2b6d431.json)
+
+[Extended Data](ext_articles/c2b6d431.ext.json)
 
 ---
 
@@ -504,19 +538,25 @@ The Minister also said that it would empower the Bureau of Foreign Employment Bu
 
 ---
 
-### ශ්‍රී මහා බෝධිය ආරක්ෂාකරන පොලිස් නිලධාරීන්ට නව ඇඳුමක්
+### New dress for police officers protecting Sri Maha Bodhi
 
 *2024-03-25 13:36:12* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-මහා-බෝධිය-ආරක්ෂාකරන-පොලිස්-නිලධාරීන්ට-නව-ඇඳුමක්/11-408783) · `si`
 
-අනුරාධපුර ඓතිහාසික ජය ශ්‍රී මහා බෝධියේ ඇතුල් මළුවේ රාජකාරියේ නිරත පොලිස් නිලධාරීන් සහ නිලධාරිනියන් තිස් දෙනෙකු හට සුදු පැහැති නව පොලිස් නිල ඇඳුමක් හඳුන්වා දීම අද (25දා) සිදු කෙරිණි.
+Thirty police officers in Anuradhapura received new white uniforms, blessed by Pallegama Hemarathana Thera. Defense Minister Tiran Alles and Inspector General of Police (SSP) were present.
 
-මෙහිදී නව නිල ඇඳුමින් රාජකාරී ආරම්භ කල පොලිස් නිලධාරීන් සහ නිලධාරිනියන් හට, අටමස්ථානාධිපති, පූජ්‍ය පල්ලේගම හේමරතන නාහිමිපාණන් විසින් සෙත් පිරිත් සජ්ඣායනා කර, පිරිත් නූල් බැඳ ආශිර්වාද සිදු කළහ.
+🟩
 
-අටමස්ථානාධිපති නාහිමිපාණන් විසින් මීට පෙර, මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතාගෙන් සහ පොලිස්පති දේශබන්දු  තෙන්නකෝන් මහතාගෙන් කල ඉල්ලීමකට අනුව, අනුරාධපුර කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී තිලිණ හේවාපතිරණ මහතාගේ ඍජු අධීක්ෂණය යටතේ මෙය සිදු කෙරිණි. මෙම අවස්ථාව සඳහා උඩමළුව පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ඩබ්ලිව්.සී.එල්.ආර්.කේ.බී. වෑත්තෑව මහතා ඇතුළු නිලධාරීහු පිරිසක් එක්ව සිටියහ.
+Thirty police officers and officers of the courtyard of the Headdance of the Victory in Anuradhapura was introduced to introduce a white new police uniform.
+
+The police officers and officials began working in new uniform and committed the Pallegama Hemarathana Thera and blessed the Pirith Arts.
+
+The Defense Minister Tiran Alles and Inspector General of Police (Sen officer) from the Atamasthanadhipati Minister Tiran Alles and the Inspector General of Police (SSP) was handed over under the direct supervision of Mr. Senior Superintendent of Police.. Udamaluwa Police OIC Chief Inspector of Police W.SLRKB. Mr. Wettewa and several officials were present.
 
 ◼️
 
 [Data](articles/a1d92b7e.json)
+
+[Extended Data](ext_articles/a1d92b7e.ext.json)
 
 ---
 
@@ -2227,23 +2267,5 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/9219fd0d.json)
 
 [Extended Data](ext_articles/9219fd0d.ext.json)
-
----
-
-### Two other underworld is trapped
-
-*2024-03-25 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194895) · `si`
-
-Five groups of criminals, including an underworld, arrested by organized gang members.
-
-🟩
-
-Five groups of other crime under the arrest of organized criminal gang members have been arrested.
-
-◼️
-
-[Data](articles/e782f391.json)
-
-[Extended Data](ext_articles/e782f391.ext.json)
 
 ---

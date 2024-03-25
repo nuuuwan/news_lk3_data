@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 14:50:40**
+As of **2024-03-25 15:03:31**
 
 ## Newspaper Stats
 
-*Scraped **15,023** Articles*
+*Scraped **15,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,126 @@ newsfirstlk | 363
 economynextcom | 805
 dailyftlk | 806
 islandlk | 831
-adalk | 1,277
-adaderanalk | 1,808
-tamilmirrorlk | 1,809
-virakesarilk | 2,107
-dailymirrorlk | 2,317
+adalk | 1,278
+adaderanalk | 1,809
+tamilmirrorlk | 1,811
+virakesarilk | 2,108
+dailymirrorlk | 2,318
 adaderanasinhalalk | 2,410
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,019 (100.0%) of 15,023 articles have been extended.
+15,023 (100.0%) of 15,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### மடிக்கணினிகளை திருடிய மாணவர்கள் கைது
+
+*2024-03-25 14:53:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மடிக்கணினிகளை-திருடிய-மாணவர்கள்-கைது/175-335155) · `ta`
+
+பேருவளை பகுதியில் உள்ள பாடசாலையொன்றின் ஸ்மார்ட் வகுப்பறையை உடைத்து 12 மடிக்கணினிகளைத் திருடிய அதே பாடசாலையைச் சேர்ந்த இரு மாணவர்கள் உட்பட ஐவர் இன்று (25) கைது செய்யப்பட்டுள்ளதாக பேருவளை பொலிஸார் தெரிவித்தனர்.
+
+அடுத்த வருடம் சாதாரணத்தர பரீட்சைக்கு தோற்றவுள்ள 16 வயதுடைய மாணவர்கள் இருவர் மற்றும் பாணந்துறை மற்றும் பாதுக்க பிரதேசங்களில் வசிக்கும் மூவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கடந்த பெப்ரவரி மாதம் போயா தினத்தன்று மடிக்கணினிகள் திருடப்பட்டுள்ளதாக முறைப்பாடு கிடைத்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+குறித்த பாடசாலை மாணவர்கள் இருவர் மடிக்கணினிகளை விற்பனை செய்ய முயற்சிப்பதாக கிடைத்த தகவலை அடுத்து, முன்னெடுக்கப்பட்ட விசாரணைகளின் பின்னர் சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+அத்துடன்,  திருடப்பட்ட 12 மடிக்கணினிகள் பாதுக்க பிரதேசத்தில் மறைத்து வைக்கப்பட்டிருந்த நிலையில் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/305e1360.json)
+
+---
+
+### கலால் திணைக்களத்தின் வருவாய் அதிகரித்து உற்பத்தி குறைவடைந்துள்ளது.
+
+*2024-03-25 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179654) · `ta`
+
+இந்த ஆண்டின் மதுபான விற்பனை மூலம் கிடைக்கப் பெற்ற  வருமானத்தை 2022 பெப்ரவரி மாதத்துடன்  ஒப்பிடுகையில் இவ்வாண்டு வருமானம்  38.5  சதவீதமாக அதிகரித்துள்ளதாக கலால் ஆணையாளர் நாயகம் எம். ஜே. குணசிறி குறிப்பிட்டுள்ளார்.
+
+மதுபானத்தின்  விலைகள்  அதிகரித்தமையே, மதுபான நுகர்வை மட்டுப்படுத்தப்படுவதற்கு  காரணம் என அவர் சுட்டிக்காட்டியுள்ளார்
+
+◼️
+
+[Data](articles/eba50991.json)
+
+---
+
+### “பாட அறிவு போன்று  போசாக்கும் அவசியம்”
+
+*2024-03-25 14:51:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாட-அறிவு-போன்று-போசாக்கும்-அவசியம்/175-335154) · `ta`
+
+நாட்டின் பிள்ளைகளுக்கு சிறந்த கல்வியை வழங்குவதற்காக அவர்களுக்கு பாடம் தொடர்பான அறிவை வழங்கி பரீட்சைகளுக்கு தயார்படுத்துவதைப் போன்றே அவர்களின் போசாக்கும் பாதுகாக்கப்பட வேண்டும் என ஜனாதிபதி ரணில் விக்ரமசிங்க சுட்டிக்காட்டினார்.
+
+அத்துடன் செயற்கை நுண்ணறிவு உள்ளிட்ட நவீன தொழிநுட்ப அறிவை பிள்ளைகளுக்கு வழங்க வேண்டும் என்று தெரிவித்த ஜனாதிபதி, அதற்கமைவாக பாடசாலை கல்வி மற்றும் பரீட்சை முறைகளில் மாற்றம் ஏற்படுத்துவது தொடர்பில் அரசாங்கம் கவனம் செலுத்தியுள்ளதாகவும் குறிப்பிட்டார்.
+
+நாரஹேன்பிட்டி சுஜாதா மகளிர் கல்லூரியில் திங்கட்கிழமை (25) முற்பகல் இடம்பெற்ற “2024 பாடசாலை உணவுத் திட்டம்” ஆரம்ப நிகழ்வில் கலந்து கொண்ட ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+நாட்டிலுள்ள தரம் 1-5 வரை உள்ள அனைத்து பாடசாலை மாணவர்களுக்கும் பாடசாலையில் போசாக்கு உணவு வழங்குவதற்கு கல்வி அமைச்சு நடவடிக்கை எடுத்துள்ளது.
+
+...
+
+[Data](articles/71fd0563.json)
+
+---
+
+### Nine students hospitalized after clash at private education institute
+
+*2024-03-25 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98190/nine-students-hospitalized-after-clash-at-private-education-institute) · `en`
+
+At least 09 students have been injured and hospitalised following a clash that had occurred among two groups of students of a private education institute in the Bakmeegolla area of Ibbagamuwa.
+
+The clash has reportedly taken place among residential students of the private educational institute in question last night (24).
+
+Three male students who sustained injuries during the incident have been admitted to Kurunegala Teaching Hospital while 04 female students and another male student were admitted to Polgolla Hospital, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/5471fb9f.json)
+
+---
+
+### Hirunika charged for obstructing police
+
+*2024-03-25 14:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hirunika-charged-for-obstructing-police/108-279553) · `en`
+
+Colombo, March 25 (Daily Mirror)- The Colombo Chief Magistrate today overruled a request by the Cinnamon Gardens Police to seek the Attorney General’s opinion against the National Organizer of the Samagi Jana Balavegaya Women’s Wing, Hirunika Premachandra and 14 others for participating in a street drama at Torrington Square.
+
+Senior Counsel Athula S. Ranagala appearing for 13 suspects asserted that the Police while performing an unofficial duty had come before the court and made false allegations that the 15 suspects had obstructed the police in performing their official duties.
+
+The counsel underscored the fact that the suspects had staged a street drama emphasizing prominence to the hardships that the women in Sri Lanka are facing today due to the prevailing situation.
+
+...
+
+[Data](articles/3c6ad58a.json)
+
+---
+
+### ලංකාවට ලකුණු 328ක දැවැන්ත ජයක්
+
+*2024-03-25 14:36:52* · [`adalk`](https://www.ada.lk/sports/ලංකාවට-ලකුණු-328ක-දැවැන්ත-ජයක්/9-408786) · `si`
+
+සත්කාරක බංග්ලාදේශ කණ්ඩායම ලකුණු 328කින් පරාජයට පත්කරමින් දෙරට අතර පැවැති පළමු ටෙස්ට් තරගයෙන් ලකුණු 328ක ජයක් වාර්තා කිරීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+
+ලකුණු 511ක දැවැන්ත ඉලක්කයක් හඹා යාමට පිටියට පිවිසි බංග්ලාදේශ කණ්ඩායමට සියලු දෙනා දැවී ලබා ගත හැකිවූයේ ලකුණු 182ක් පමණි.
+
+ශ්‍රී ලංකා කණ්ඩායම පළමු ඉනිමට ලකුණු 280ක් රැස් කළ අතර පිළිතුරු ඉනිම ක්‍රීඩා කළ බංග්ලාදේශයට රැස්කළ හැකිවූයේ ලකුණු 188ක් පමණි.
+
+නැවතත් සිය දෙවැනි ඉනිම ක්‍රීඩා කළ ශ්‍රී ලංකා කණ්ඩායම ලකුණු 418ක් රැස් කළ අතර  බංග්ලාදේශයට රැස්කළ හැකිවූයේ ලකුණු 180ක් පමණි.
+
+ශ්‍රී ලංකාව වෙනුවෙන් ඉනිම දෙකේදීම ශතක දෙක බැගින් වාර්තා කිරීමට ධනංජයද සිල්වා හා කමිඳු මෙන්ඩිස් සමත්වූහ. එය වාර්තා කිහිපයක්ම අලුත් කළ ඉනිම්විය.
+
+◼️
+
+[Data](articles/efe42327.json)
+
+---
 
 ### Two new trains to commemorate Badulla line centenary on April 5
 
@@ -44,23 +148,31 @@ Meanwhile, he said a special tourist train with observation cabins is also to be
 
 [Data](articles/798a191c.json)
 
+[Extended Data](ext_articles/798a191c.ext.json)
+
 ---
 
-### மட்டு.வாழைச்சேனையில் பஸ்ஸுடன் மோட்டார் சைக்கிள் மோதி விபத்து ; இளைஞன் கவலைக்கிடம்!
+### A motorcycle collision with busesThe young man is worried!
 
 *2024-03-25 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/179661) · `ta`
 
-மட்டக்களப்பு வாழைச்சேனை பகுதியில் பஸ்ஸுடன் மோட்டார் சைக்கிள் மோதியதில் இரு இளைஞர்கள் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Two youths hospitalized after a motorcycle crashed into a bus in Batticaloa, Monday at 10:30 am. The bus was carrying passengers to the hospital.
 
-இந்த சம்பவம் இன்று திங்கட்கிழமை (25) காலை 10.30.மணியளவில் வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட மீராவோடை பகுதியில் வைத்து இடம்பெற்றுள்ளது.
+🟩
 
-ஓட்டமாவடி - மீராவோடை ஊடாக மட்டக்களப்பு வைத்தியசாலைக்கு பயணிகளை ஏற்றிச் செல்லும் இலங்கை போக்குவரத்து சபையின் வாழைச்சேனை கிளை பஸ் வண்டியில் மோட்டார் சைக்கிள் மோதி இவ் விபத்து இடம்பெற்றுள்ளது.
+Two youths have been admitted to hospital with a motorcycle collision with a bus in Batticaloa.
 
-குறித்த வீதியால் மூன்று மோட்டார் சைக்கிளில் ஓட்டப்பந்தயத்தில் ஈடுப்பட்ட இளைஞர்களே இவ் விபத்தில் சிக்கியுள்ளனர்.
+The incident took place on Monday (25) at 10.30 am.
+
+The accident occurred when a motorcycle collided with the Sri Lanka Transport Board's Valaichenai branch bus carrying passengers to the Batticaloa hospital via Ottamavadi - Meeravodai.
+
+The youths who were involved in a three -motorcycle run by the road were involved in the crash.
 
 ◼️
 
 [Data](articles/2dffa465.json)
+
+[Extended Data](ext_articles/2dffa465.ext.json)
 
 ---
 
@@ -79,6 +191,8 @@ Based on certain information received by the Police Special Task Force (STF) tha
 ...
 
 [Data](articles/d787ee39.json)
+
+[Extended Data](ext_articles/d787ee39.ext.json)
 
 ---
 
@@ -194,21 +308,27 @@ According to the data security, the National Council on Road Safety Internationa
 
 ---
 
-### ’කුණු මාලු කන්ටේනර්’ 102 සී.අයි.ඩී යයි
+### 'Garbish containers' 102 CID
 
 *2024-03-25 13:26:14* · [`adalk`](https://www.ada.lk/breaking_news/’කුණු-මාලු-කන්ටේනර්’-102-සී-අයි-ඩී-යයි/11-408781) · `si`
 
-නරක් වූ මාළු කන්ටේනර් 102ක් රටතුළට ගැනීමේ සිද්ධියේ ගැටලු රැසක් ඇති බැවින් වහාම අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිලි කරන්න -  කෝපා කමිටුවෙන් මුදල් අමාත්‍යාංශ නිලධාරීන්ට උපදෙස්
+After 102 spoiled fish incidents, the Criminal Investigation Department (CID) was alerted. The Committee on Public Accounts (Capa) complained about the CID's handling of the case, involving spoiled fish from Colombo Port to Thailand. The incident was due to an industrial error, with the fish spoiled by a ship collapse. The Auditor General revealed the error and the importation of the fish, which was prohibited. The containers were used to produce organic fertilizer, with 4 destroyed, 43 used for fertilizer, and 15 remaining. The Auditor General criticized the use of fish for fertilizer, but customs officials defended the practice. The Committee Chairman expressed concern over the environmental and health risks of spoiled fish, leading to a call for a committee to investigate.
 
-ඒ සම්බන්ධයෙන් කඩිනම් විමර්ශන කටයුතු මෙහෙයවන ලෙසට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ඉහළ නිලධාරීන්ටත් දැනුම් දෙයි
+🟩
 
-නරක් වූ මාළු කන්ටේනර් 102ක් රටතුළට ගැනීමේ සිද්ධිය අපරාධමය කාරණාවක් බව පෙනී යන බැවින් ඒ සම්බන්ධව වහාම අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිලි කරන ලෙස රජයේ ගිණුම් පිළිබඳ කාරක සභාව විසින් (කෝපා කමිටුව) මුදල් අමාත්‍යාංශ නිලධාරීන්ට පසුගියදා උපදෙස් ලබා දෙන ලදී. එසේම ඒ සම්බන්ධයෙන් කඩිනමින් විමර්ශන කටයුතු මෙ‍ෙහයවන ලෙසටත් එම අවස්ථාවට සහභාගී වූ  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ඉහළ නිලධාරීන්ට දැනුම් දීම සිදු විය.
+Complaint to the Criminal Investigation Department (CID) Counsel Officers of the Criminal Investigation Committee immediately after 102 spoiled fish incidents
 
-සී ෂෙල්ස් සිට තායිලන්තය දක්වා ගමන් කළ නරක්වූ මාළු බහාලුම් සහිත නැවක් කොළඹ වරායෙන් රට තුළට ගැනීම පිළිබඳව විගණන විමසුමෙන් හෙළිදරව් වූ කරුණු පිළිබඳ පරීක්ෂා කිරීම සදහා රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතාගේ ප්‍රධානත්වයෙන් රජයේ ගිණුම් පිළිබඳ කාරක සභාව පසුගියදා රැස්වූ අවස්ථාවේදී මෙම දැනුම් දීම සිදු කෙරිණි.
+Criminal Investigations Department also informs the top officials to conduct investigations
+
+The Committee on Public Accounts (Capa Committee) was instructed to complain to the Criminal Investigation Department immediately after the criminal inquiry into the Criminal Investigation Department (CPA).. It was also reported to be informed of the investigation into the occasion.
+
+The communicacy was made by the Committee on Public Accounts Lasantha Elagiyawanayake on the patronage of a spoiled fish contained in the Colombo Port to Thailand.
 
 ...
 
 [Data](articles/13877d3a.json)
+
+[Extended Data](ext_articles/13877d3a.ext.json)
 
 ---
 
@@ -2123,111 +2243,5 @@ This statement has already been created.
 [Data](articles/5dd85f7a.json)
 
 [Extended Data](ext_articles/5dd85f7a.ext.json)
-
----
-
-### IIHS launches new study programmes in Psychology, Nutrition and Paramedic disciplines
-
-*2024-03-25 03:08:00* · [`islandlk`](http://island.lk/iihs-launches-new-study-programmes-in-psychology-nutrition-and-paramedic-disciplines/) · `en`
-
-The International Institute of Health Sciences (IIHS), a pioneer in providing specialised education tailored to the evolving needs of the healthcare sector, has introduced several study programmes in Psychology, Nutrition and Paramedic Disciplines.
-
-BSc. (Hons) in Psychology, BSc. (Hons) in Forensic Psychology and BSc. (Hons) in Sports and Exercise Psychology are some of the newly introduced programmes. Aligning with the evolving needs of the healthcare sector, they not only underscore the commitment of IIHS to stay at the forefront of educational evolution in South Asia but also aim to produce highly skilled professionals ready to meet the demands of the healthcare landscape.
-
-...
-
-[Data](articles/204cb9e2.json)
-
-[Extended Data](ext_articles/204cb9e2.ext.json)
-
----
-
-### Hitech Concrete Solutions carving an innovative niche in construction industry
-
-*2024-03-25 03:08:00* · [`islandlk`](http://island.lk/hitech-concrete-solutions-carving-an-innovative-niche-in-construction-industry/) · `en`
-
-Hitech Concrete Solutions Pvt Ltd stands as a pioneering company dedicated to elevating standards and reshaping the landscape of infrastructure development.Established with a vision to redefine waterproofing services, structural rehabilitation, and specialty coatings, the company has emerged as a premier provider of high-quality and sustainable solutions tailored to meet the diverse needs of its clients.
-
-The company has been instrumental in delivering iconic projects across various sectors, including infrastructure, condominiums, tunnels and canals, bridges, and highways. This commitment to excellence was demonstrated in the recent Annual Technical Session held at the Mövenpick Hotel Colombo on March 7th, 2024. The occasion served as a testament to Hitech Concrete Solutions’ dedication to driving progress and fostering collaboration within the industry.
-
-...
-
-[Data](articles/727c9806.json)
-
-[Extended Data](ext_articles/727c9806.ext.json)
-
----
-
-### Industry pioneers promote highly autonomous networks initiative
-
-*2024-03-25 03:08:00* · [`islandlk`](http://island.lk/industry-pioneers-promote-highly-autonomous-networks-initiative/) · `en`
-
-TM Forum held the Autonomous Networks Summit during the Mobile World Congress (MWC). At the summit, industry leaders including George Glass, the CTO of TM Forum; Li Huidi, the Executive Vice President of China Mobile; Yang Chaobin, Huawei’s Board Member and President of ICT Products & Solutions; Juan Manuel Caro, Telefónica’s director of Autonomous Networks and JV’s Technology; Eduardo Panciera, the VP of Network and Service Technology from Telecom Argentina; Aurelio Nocerino, Accenture’s Managing Director and Accenture CFN – Global Solutions Lead for Comms; and Ye Ouyang, the SVP & CTO of AsiaInfo Technologies, together proposed the Level 4 Autonomous Networks industry initiative to accelerate the evolution toward Highly Autonomous Networks.
-
-...
-
-[Data](articles/7b63bcae.json)
-
-[Extended Data](ext_articles/7b63bcae.ext.json)
-
----
-
-### Power purchase agreement signed for 10MW solar project by Apollo
-
-*2024-03-25 03:08:00* · [`islandlk`](http://island.lk/power-purchase-agreement-signed-for-10mw-solar-project-by-apollo/) · `en`
-
-The Ministry of Power and Energy entered into a Power Purchase Agreement (PPA) for the project Apollo, between Ceylon Energy Pte Ltd and the Ceylon Electricity Board.
-
-This agreement is for the construction of a ground-mounted solar plant with a generating capacity of 10MW. Ceylon Energy Pte Ltd, stands at the forefront of this initiative. With a commitment to sustainable energy, Ceylon Energy Pte Ltd’s Chairman, Madusanka Fernando, attended the ceremony along with Gratian Muththukudaarachchi, General Manager. Representing the international collaboration, Cai Weifeng, a representative from Quigdao Hujintong Power Equipment Co. Ltd., (HJT) China- an equity partner of the project was also present.
-
-Neptune Recyclers joins with Elephant House to combat plastic pollution
-
-New ADB partnership strategy for Sri Lanka to foster sustainable recovery, build resilience and revive growth
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-...
-
-[Data](articles/e0d38f90.json)
-
-[Extended Data](ext_articles/e0d38f90.ext.json)
-
----
-
-### Gift of life: Transformative steps in Renal Transplants on World kidney day in Sri Lanka
-
-*2024-03-25 03:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Gift-of-life-Transformative-steps-in-Renal-Transplants-on-World-kidney-day-in-Sri-Lanka/172-279495) · `en`
-
-World Kidney Day provides a platform to raise awareness about the prevalence of kidney diseases, their prevention, and the transformative impact of organ transplantation
-
-Recent statistics reveal that a significant portion of the population is affected
-
-As the world marks World Kidney Day, Sri Lanka takes center stage in the global effort to address kidney health and organ transplantation. Beyond the celebratory atmosphere, this day holds profound significance, drawing attention to the prevalence of Chronic Kidney Disease (CKD) in Sri Lanka and the remarkable strides in renal transplant procedures. This article explores the multifaceted approach in Sri Lanka, covering the prevalence of CKD, organ procurement methods, and the meticulous preoperative assessments that precede life-changing renal transplants.
-
-...
-
-[Data](articles/c5c5aa71.json)
-
-[Extended Data](ext_articles/c5c5aa71.ext.json)
-
----
-
-### Human rights in Lanka and oil deposits in Palestine - EDITORIAL
-
-*2024-03-25 02:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Human-rights-in-Lanka-and-oil-deposits-in-Palestine-EDITORIAL/172-279494) · `en`
-
-On September 6, 2023, the report of the United Nations High Commissioner for Human Rights castigated Sri Lanka saying that the country suffers from a continuing accountability deficit- be it for war crime atrocities, more recent human rights violations, corruption, or abuse of power- which must be addressed for the country to move forward.
-
-In Sri Lanka’s near three decade-long civil war, around 40,000 Tamil civilians reportedly died of military attacks. Thousands of others were wounded, while some were critical. Women suffered the most, and it is alleged that rape was used as a weapon of war.
-
-Hundreds of Sinhalese civilians too were killed by armed Tamil militant groups -mainly the Liberation Tigers of Tamil Eelam (LTTE)- during the course of the three decade-long war.
-
-Since the civil war ended, there has been no credible government mechanism set up to apprehend these different merchants of death.
-
-...
-
-[Data](articles/929d200f.json)
-
-[Extended Data](ext_articles/929d200f.ext.json)
 
 ---

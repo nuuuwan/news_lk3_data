@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 23:03:25**
+As of **2024-03-25 23:18:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,428
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,111 (100.0%) of 15,113 articles have been extended.
+15,113 (100.0%) of 15,113 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,25 +48,37 @@ Both military chiefs highlighted their commitment to ensuring that the two count
 
 [Data](articles/630964c5.json)
 
+[Extended Data](ext_articles/630964c5.ext.json)
+
 ---
 
-### හෙරොයින් සමග කොටුවූ අයියාගේ පැටිකිරිය
+### Arrived Discipley Box with Heroin
 
 *2024-03-25 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194928) · `si`
 
-බන්ධනාගාරගත කර සිටින මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන වසන්ත කුමාර යන අයගේ මුදල් කටයුතු භාර ප්‍රධානියා ලෙස සැලකෙන 'අයියා' නමැති අන්වර්ථ නාමයෙන් හ﻿ඳුන්වන පුද්ගලයා අද (25) වලාන මධ්‍යම දූෂණ ප්‍රහාරක බළකාය මගින් අත්අඩංගුවට ගෙන තිබේ.
+A monk, head of a drug ring, was arrested by the Walana Central Anti-Corruption Brigade, sentenced to 60 years, and released due to penalty remission. He was arrested by the Walana Central Parakaraka Force, with 6430 milligrams of heroin, 10 milligrams, 10 banking cards, and a modern car found. Investigations continue at the Gampaha Police Station.
 
-එම සැකකරු මීට පෙර නඩු 187කට වරදකරු වී වසර 60ක සිරදඬුවම් නියමව බන්ධනාගාරගතව සිට යහපත් කල්ක්‍රියාව හේතුවෙන් එම දඬුවම් කාලය වසර 10කින් අවසන් කර නිදහස්ව සිටි අයෙකි.
+🟩
 
-45 හැවිරිදි සැකකරු අද වලාන මධ්‍යම දූෂණ ප්‍රහාරක බලකාය මගින් අත්අඩංගුවට ගනු ලැබුවේ යුක්තිය මෙහෙයුමට සමගාමීව ගම්පහ ඉඳිගොල්ල ප්‍රදේයේදීය.
+The monk was arrested by the Walana Central Anti-Corruption Brigade today (25), who is the head of the fundamental drug dealer.
 
-සැකකරු මීට මාස 7කට පෙර එම සුඛෝපභෝගි නිවස රු.100,000 ක කුලී පදනම මත ලබා ගෙන ඇත්තේ ව්‍යාපාරිකයෙකු බව හඟවමිනි.
+The suspect had been sentenced to 60 years in prison for 60 years and was released as a result of the release of the penalties.
 
-සැකකරු අත්අඩංගුවට ගන්නා අවස්ථාවේ ඔහු සන්තකයේ තිබී හෙරොයින් මිලිග්‍රෑම් 6430ක්, ඡංගම දුරකථන 8ක්, දුරකථන සිම්පත් 10ක්, බැංකු කාඩ්පත් 7ක් හා නවීන මෝටර් රථයක් වලාන මධ්‍යම දූෂණ ප්‍රහාරක බළකාය භාරයට ගනු ලැබීය.
+The 45-year-old suspect was arrested today by the Walana Central Parakaraka Force in parallel to justice.
 
-...
+The suspect is a businessman for Rs. 100 months ago.
+
+At the time of his arrest, he was taken into custody, 6430 milligrams of heroin, 10 milligrams, 10 banking cards and a modern cars.
+
+It has been revealed that the heroin racket had been led by the racket of the heroin racket.
+
+The suspect is being produced before the Gampaha Police Station, action has been taken to conduct further investigations.
+
+◼️
 
 [Data](articles/44cebd84.json)
+
+[Extended Data](ext_articles/44cebd84.ext.json)
 
 ---
 

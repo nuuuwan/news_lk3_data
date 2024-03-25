@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 02:04:09**
+As of **2024-03-26 02:18:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,428
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,137 (100.0%) of 15,140 articles have been extended.
+15,140 (100.0%) of 15,140 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The Company said this remarkable feat reaffirms Singer’s supremacy in the cons
 
 [Data](articles/5600ff4a.json)
 
+[Extended Data](ext_articles/5600ff4a.ext.json)
+
 ---
 
 ### Orzone Group makes history with drinking water exports to Sydney, Australia
@@ -60,6 +62,8 @@ Their drinking water is in high demand internationally due to hygienic bottling 
 
 [Data](articles/a3f21366.json)
 
+[Extended Data](ext_articles/a3f21366.ext.json)
+
 ---
 
 ### SLPG secures Sri Lanka’s largest rooftop solar project in collaboration with BPTL
@@ -73,6 +77,8 @@ BPTL stands out as a comprehensive textile manufacturer, offering diverse produc
 ...
 
 [Data](articles/4e903fdf.json)
+
+[Extended Data](ext_articles/4e903fdf.ext.json)
 
 ---
 

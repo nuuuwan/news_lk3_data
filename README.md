@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 08:33:43**
+As of **2024-03-25 08:52:22**
 
 ## Newspaper Stats
 
-*Scraped **14,942** Articles*
+*Scraped **14,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,47 @@ dbsjeyarajcom | 191
 newsfirstlk | 363
 economynextcom | 800
 dailyftlk | 806
-islandlk | 830
+islandlk | 831
 adalk | 1,268
 tamilmirrorlk | 1,796
 adaderanalk | 1,800
 virakesarilk | 2,090
 dailymirrorlk | 2,302
-adaderanasinhalalk | 2,398
+adaderanasinhalalk | 2,399
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,939 (100.0%) of 14,942 articles have been extended.
+14,942 (100.0%) of 14,944 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### මොස්කව් ප්‍රහාරයට අත්අඩංගුවට ගත් පිරිසගෙන් සිව්දෙනෙකුට අධිචෝදනා
+
+*2024-03-25 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194898) · `si`
+
+රුසියාවේ මොස්කව් හී සිදු වු ප්‍රහාරය සම්බන්ධයෙන් අත්අඩංගුවට ගත් පිරිස අතරින් සිව්දෙනෙකුට එරෙහිව ත්‍රස්තවාදය සම්බන්ධයෙන් අධිචෝදනා ගොනුකිරීමට පියවර ගෙන තිබේ.
+
+ඒ අනුව ඔවුන් සිව්දෙනාට ජීවිතාන්තය දක්වා සිරදඬුවම් හිමිවිය හැකි බව මොස්කව් දිස්ත්‍රික් අධිකරණයක් උපුටා දක්වමින් විදෙස් වාර්තා සඳහන් කළේය.
+
+පසුගිය සිකුරාදා මොස්කව් අගනුවර රඟහලකට එල්ල වු ප්‍රහාරයෙන් පුද්ගලයින් 137 දෙනෙකු මියගොස් ඇති අතර 200කට ආසන්න පිරිසක් තුවාල ලැබීය.
+
+මේ සම්බන්ධයෙන් පුද්ගලයින් 11 දෙනෙකු අත්අඩංගුවට ගත් අතර ඔවුන්ගෙන් 04 දෙනෙකුට එරෙහිව මෙලෙස අධිචෝදනා ගොනුකර තිබේ.
+
+ඒ අනුව ඔවුන් එරට අධිකරණයක් හමුවට පමුණුවා ඇති අතර මැයි මස 22වන දා දක්වා සැකකරුවන් රඳවා තබාගැනීමට නියෝග කර ඇති බව සඳහන්ය.
+
+කෙසේවෙතත් ඔවුන්ගේ නඩු විභාග දිනය නියමවන දිනය අනුව රඳවා තබා ගැනීමේ කාලය දීර්ඝ වනු ඇත.
+
+එමෙන්ම විත්තිකරුවන් දෙදෙනෙකු මේ වන විට වරද පිළිගෙන ඇති බව ද අධිකරණය උපුටා දක්වමින් විදෙස් වාර්තා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/933a4aa8.json)
+
+---
 
 ### Lukashenko highlights potential of cooperation between Belarus, Sri Lanka
 
@@ -47,6 +71,8 @@ Aleksandr Lukashenko noted that Belarus has competencies in such sectors as mech
 ◼️
 
 [Data](articles/e1ec5da4.json)
+
+[Extended Data](ext_articles/e1ec5da4.ext.json)
 
 ---
 
@@ -65,6 +91,8 @@ Former President Sirisena on Friday said he is aware as to who was behind the Ea
 ◼️
 
 [Data](articles/312cfb17.json)
+
+[Extended Data](ext_articles/312cfb17.ext.json)
 
 ---
 
@@ -316,6 +344,18 @@ The Asian Development Bank (ADB) has launched a new country partnership strategy
 
 ---
 
+### Litro ignites spark of fellowship at Scout Jamboree-2024
+
+*2024-03-25 03:09:00* · [`islandlk`](http://island.lk/litro-ignites-spark-of-fellowship-at-scout-jamboree-2024/) · `en`
+
+The recently concluded 10th National Scout Jamboree in Trincomalee, Sri Lanka, not only celebrated international camaraderie but also showcased Litro’s influential role under the visionary leadership of Chairman Muditha Peiris. With a focus on safety, sustainability, and collaboration, Litro’s commitment to national transformation was felt across the event, leaving an indelible mark on the 12,000 scouts from 28 nations.
+
+...
+
+[Data](articles/9cbfa636.json)
+
+---
+
 ### IIHS launches new study programmes in Psychology, Nutrition and Paramedic disciplines
 
 *2024-03-25 03:08:00* · [`islandlk`](http://island.lk/iihs-launches-new-study-programmes-in-psychology-nutrition-and-paramedic-disciplines/) · `en`
@@ -518,21 +558,27 @@ He also stated that if there is any threat to the security of the former preside
 
 ---
 
-### ’பொருளாதார மறுமலர்ச்சியை ஏற்படுத்த முடியும்’
+### The telephone can cause economic revival
 
 *2024-03-25 02:01:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-மறுமலர்ச்சியை-ஏற்படுத்த-முடியும்/175-335131) · `ta`
 
-புதிய மறுசீரமைப்புக்களின் ஊடாக மாத்திரமே பொருளாதார மறுமலர்ச்சியை ஏற்படுத்த முடியும் என்றும், கடந்த காலத்தில் ஏற்பட்ட பொருளாதார நெருக்கடியைப் போல எதிர்காலத்தில் ஏற்படாதிருப்பதை உறுதிசெய்யும் அரசாங்கத்தின் வேலைத் திட்டத்திற்கு ஒத்துழைப்பு வழங்க வேண்டிய பொறுப்பு அனைவருக்கும் உள்ளதென ஜனாதிபதி ரணில் விக்கிரமசிங்க சுட்டிக்காட்டினார்.
+President Ranil Wickremesinghe emphasized that economic revival depends on new restructuring, not past crises, and takes responsibility for the country's future, addressing youth concerns in Polonnaruwa.
 
-ஏனைய அரசியல்வாதிகள் பொறுப்பேற்கத் தயங்கிய நாட்டையே தான் பொறுப்பேற்றதாக சுட்டிக்காட்டிய ஜனாதிபதி, சிலர் தமது அரசியல் எதிர்காலம் பற்றி மட்டுமே சிந்தித்த போதும், தான் நாட்டின் எதிர்காலத்தை பற்றியே சிந்தித்ததாகவும் சுட்டிக்காட்டினார்.
+🟩
 
-பொலன்னறுவையில் நடைபெற்ற 'யுனைடட் யூத் இளைஞர் ஒன்றியம்' உடனான சிநேகபூர்வ கலந்துரையாடலிலேயே ஜனாதிபதி ரணில் விக்கிரமசிங்க இதனைத் தெரிவித்தார்.
+President Ranil Wickremesinghe pointed out that all the responsibility of cooperation with the government's program to ensure that the economic revival can only be caused by new restructuring and that the economic crisis in the past is not the case in the past.
 
-'ஜனாதிபதியுடன் கலந்துரையாடல்' என்ற இச்சந்திப்பில் நாட்டின் எதிர்காலம் மற்றும் தூரநோக்குக் குறித்து இளைஞர்களுடன் கலந்துரையாடிய ஜனாதிபதி, இளையோரின் கேள்விகளுக்கும் பதிலளித்தார். (a)
+The president pointed out that he was responsible for the country where other politicians were reluctant to take responsibility, but that some had only thought about their political future, but that he was thinking about the future of the country.
+
+President Ranil Wickremesinghe made this statement during a meeting with the 'United Youth Youth Union' held in Polonnaruwa.
+
+The President, who had a meeting with the youth about the country's future and farming in the 'discussion with the president', answered the questions of the younger ones. (A)
 
 ◼️
 
 [Data](articles/fe9e975f.json)
+
+[Extended Data](ext_articles/fe9e975f.ext.json)
 
 ---
 
@@ -2137,53 +2183,5 @@ Former President Maithripala Sirisena has informed the Criminal Investigation De
 [Data](articles/33236552.json)
 
 [Extended Data](ext_articles/33236552.ext.json)
-
----
-
-### The Munkad made up
-
-*2024-03-24 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194876) · `si`
-
-A video on social media shows an unsuccessful attempt to dismiss Sri Lanka's rare batsman Missing Myskid in the 62nd innings of a Test match between Sri Lanka and Bangladesh. The ball was caught by the wicketkeeper.
-
-🟩
-
-A video showing a unique incident in the Test match between Sri Lanka and Bangladesh is being exchanged via social media.
-
-It states how an attempt to make the Sri Lankan rare batsman Missing Myskid.
-
-The attempt was taken at the 62nd innings of the second innings in the 62nd innings.
-
-His attempt was unsuccessful as the ball was absorbed in the wicket.
-
-◼️
-
-[Data](articles/ce4309bf.json)
-
-[Extended Data](ext_articles/ce4309bf.ext.json)
-
----
-
-### Sri Lanka prisoners earn cash from work programs
-
-*2024-03-24 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-prisoners-earn-cash-from-work-programs-155849/) · `en`
-
-ECONOMYNEXT – Sri Lankan prisoners on work programs keep earnings of 640 rupees out of their daily wage of 1186 rupees while the rest of the earnings go to the government, Prison Media Spokesman, Gamini Dissanayake said.
-
-“The wages they earn are broken into categories and a daily amount of 640 rupees will be credited to an NSB account,” Dissanayake told EconomyNext.
-
-Dissanayake said that a prisoner is paid of 1180 rupees a day and 1024 rupees if they work out of prison.
-
-Prisoner who worked for “private companies while imprisoned obtained employment more quickly, maintained employment longer, and had lower recidivism rate,” according a US study.
-
-In Sri Lanka private companies have come forward to offer prisoners work opportunities.
-
-State Minister for Justice, Anuradha Jayarathne said that prisoners in the Welikada prison in Colombo are employed by PG Martins while others producing trishaw seats. (Colombo/Mar22/2024)
-
-◼️
-
-[Data](articles/a6d32fd5.json)
-
-[Extended Data](ext_articles/a6d32fd5.ext.json)
 
 ---

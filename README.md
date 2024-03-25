@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 20:03:02**
+As of **2024-03-25 20:18:16**
 
 ## Newspaper Stats
 
-*Scraped **15,092** Articles*
+*Scraped **15,093** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 economynextcom | 805
 dailyftlk | 806
 islandlk | 831
-adalk | 1,285
+adalk | 1,286
 tamilmirrorlk | 1,815
 adaderanalk | 1,816
 virakesarilk | 2,122
@@ -26,45 +26,57 @@ adaderanasinhalalk | 2,424
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,090 (100.0%) of 15,092 articles have been extended.
+15,092 (100.0%) of 15,093 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### බදුල්ලේ බස් සේවක ගැටුම
+### Bus worker clash in Badulla
 
 *2024-03-25 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194924) · `si`
 
-බදුල්ල -මුත්තෙටුවේගම අතර ධාවනය වන පුද්ගලික බස් රථයක සේවකයන් හා එම මාර්ගයේම ධාවනය වන ලංගම බස්රථයක සේවකයන් අතර අද (25) සවස බදුල්ල මධ්‍යම බස්නැවතුම්පොළේදී ගැටුමක් ඇතිවුණි.
+A clash between private bus employees and SLTB workers in Badulla led to arrests and hospital admissions. The incident began with a heated argument involving a knife, escalating to attacks on SLTB workers by a private bus.
 
-එහිදී තුවාල ලැබූ  ලංගම සේවකයින් දෙදනෙක් බදුල්ල ශික්ෂණ රෝහලට ඇතුළු කළ අතර පහරදීම සම්බන්ධයෙන් සැකපිට පුද්ගලික බස්රථයේ රියදුරු සහ සහායකව අත්අඩංගුවට ගත් බව බදුල්ල පොලීසිය පවසයි.
+🟩
 
-බස්රථ ධාවන වේලාව පිළිබඳ ඇතිවූ බහින්බස්වීමක් සමග පුද්ගලික බස්රථයේ රියදුරු විසින් ලංගම බස්රථයේ රියදුරාට  සහ කොන්දොස්වරයාට පිහියකින් ඇන තුවාල සිදුකර ඇතැයිද පොලීසිය සඳහන් කළේය.
+The employees of a private bus operated between the employees of the road and the SLTB bus operating along the road was a confrontation at the Badulla Central Bus Stand.
 
-මේ සිද්ධියෙන් පසුව ලංගම සේවක පිරිසක් පුද්ගලික බස්රථයක පහරදී අලාභ හානි සිදුකර ඇති අතර මෙහිදී උණුසුම් තත්ත්වයක් ඇතිවී තිබේ.
+Two SLTB employees were admitted to the Badulla Teaching Hospital and arrested the driver and assistant on suspicion of assault.
+
+The driver of the private bus with a heated argument with bus route was a knife with a knife with a knife.
+
+Since this incident, a group of SLTB workers have been attacked and damaged in a private bus.
 
 ◼️
 
 [Data](articles/24d44989.json)
 
+[Extended Data](ext_articles/24d44989.ext.json)
+
 ---
 
-### කෘත්‍රීම බුද්ධිය පාසල් දරුවන්ට ලැබෙන්නේ මෙහෙමයි
+### Artifies intelligence is given this way
 
 *2024-03-25 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194923) · `si`
 
-කෘත්‍රීම බුද්ධිය වැඩසටහන පාසල් දරුවන් වෙත රැගෙන යාම සඳහා රුපියල් මිලියන දාහක මුදලක් රජය විසින් වෙන්කර ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+President Ranil Wickremesinghe announced a new School Food Program and plans to introduce AI programs in schools, aiming for a modern education system by 2030. The government has allocated funds for these initiatives.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ නාරාහේන්පිට සුජාතා බාලිකා විද්‍යාලයේ අද (25) පෙරවරුවේ පැවැති “2024 වර්ෂයේ පාසල් ආහාර වැඩසටහනේ“ සමාරම්භක අවස්ථාවට එක් වෙමිනි.
+🟩
 
-රටේ දරුවන්ට හොඳ අධ්‍යාපනයක් ලබාදීමට නම් විෂය දැනුම ලබාදී විභාගවලට ඉදිරිපත් කිරීම මෙන්ම ඔවුන්ගේ පෝෂණය ද සුරක්ෂිත කළයුතු බවද පාසල් අධ්‍යාපනයේ සහ විභාග ක්‍රමයේ වෙනසක් පිළිබඳ රජයේ අවධානය යොමුව ඇති බවද ජනාධිපතිවරයා එහිදී සඳහන් කළේය.
+President Ranil Wickremesinghe says that the government has allocated Rs.
 
-අද පාසල් ආහාර වැඩසටහන ආරම්භ වනවා. මෙම අවස්ථාව රජයේ එක් අපේක්ෂාවක් ඉටුවන අවස්ථාවක් ලෙස මම දකිනවා. අධ්‍යාපනය සම්පූර්ණ වීමට නම් සිසුන්ට විෂය දැනුම ලබාදී විභාගවලට ඉදිරිපත් කිරීම වගේම ඔවුන්ගේ පෝෂණය ද සුරක්ෂිත කළයුතුයි. ලෝකයේ රටවල් ගණනාවක් මෙම පාසල් ආහාර වැඩසටහන ක්‍රියාත්මක කරනවා.
+President Ranil Wickremesinghe was speaking at the inauguration of the "School Meaning" in 2024 this morning.
+
+The President added that the government is focusing on a change of school and the examination scheme that should be educated in the country's children and submitting the subject knowledge and nutrition.
+
+Today's School Food Program begins. I see this instance as one expectation of the government. In order to complete education, students should be given subject knowledge and submit their nutrition as well as their nutrition. A number of countries in the world, the school food program is implemented.
 
 ...
 
 [Data](articles/df0899f3.json)
+
+[Extended Data](ext_articles/df0899f3.ext.json)
 
 ---
 
@@ -93,6 +105,24 @@ Meanwhile, police spokesman DIG, Attorney-at-Law Nihal Talduuwa, said that actio
 [Data](articles/c426529a.json)
 
 [Extended Data](ext_articles/c426529a.ext.json)
+
+---
+
+### අගමැතිගේ  ඇමතිධූරවල වැඩ බැලීමට ජනක පත්කරයි
+
+*2024-03-25 19:14:23* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිගේ--ඇමතිධූරවල-වැඩ-බැලීමට-ජනක-පත්කරයි/11-408791) · `si`
+
+රාජ්‍ය අමාත්‍ය සහ රත්නපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ජානක වක්කුඹුර මහතා රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු සහ පළාත් සභා හා පළාත් පාලන අමාත්‍යධුරයේ වැඩබැලීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් පත්කර තිබේ.
+
+එම ධූර සමග අග්‍රාමාත්‍යධූරය දැරූ දිනේෂ් ගුණවර්ධන මහතා විදෙස්ගතව ආපසු පැමිණෙන තෙක් වක්කුඹුර මහතා එම ධූරවල කටයුතු කිරිමට පත්කර තිබේ.
+
+ජානක වක්කුඹුර මහතා පළාත් සභා, පලාත් පාලන සහ පරිසර රාජ්‍ය අමාත්‍යවරයා ලෙස කටයුතු කරයි.
+
+චීනයේ ප්‍රමුඛතම වාර්ෂික ජාත්‍යන්තර සමුලුව වන බොඅඕ සමලුවේ ප්‍රධාන ආරාධිතයා ලෙස සහභාගිවන චීන රජයෙන් ලද ආරාධනාවක් අනුව අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා 24දා චීනය බලා පිටත්විය.
+
+◼️
+
+[Data](articles/fc9c3d90.json)
 
 ---
 
@@ -2201,25 +2231,5 @@ Furthermore, the Excise Commissioner General said that special teams have been d
 [Data](articles/f6f8271d.json)
 
 [Extended Data](ext_articles/f6f8271d.ext.json)
-
----
-
-### Police hotline receives over 1,000 complaints on abuse, violence against women and children
-
-*2024-03-25 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98185/police-hotline-receives-over-1000-complaints-on-abuse-violence-against-women-and-children-) · `en`
-
-The special unit established in the Bureau for the Prevention of Abuse of Children and Women of Sri Lanka Police has received a total of 1,077 complaints related to incidents of abuse, violence and harassment against women and children, through the hotline number ‘109’ between 04 January to 10 March 2024.
-
-The Police Media Division said that investigations into 477 of the complaints have been completed and legal action have been initiated with regard to 42 complaints.
-
-Eight other complaints have been forwarded to the Mediation Boards Commission while investigations are currently underway in relation to 550 complaints, it added.
-
-The special unit which is operational round the clock was established in the Bureau for the Prevention of Abuse of Children and Women of Sri Lanka Police with effect from January 04, 2024 in order to receive complaints related to violence against children and women.
-
-...
-
-[Data](articles/5275bd8a.json)
-
-[Extended Data](ext_articles/5275bd8a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 14:33:25**
+As of **2024-03-25 14:50:40**
 
 ## Newspaper Stats
 
-*Scraped **15,019** Articles*
+*Scraped **15,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ newsfirstlk | 363
 economynextcom | 805
 dailyftlk | 806
 islandlk | 831
-adalk | 1,276
-adaderanalk | 1,807
+adalk | 1,277
+adaderanalk | 1,808
 tamilmirrorlk | 1,809
-virakesarilk | 2,106
-dailymirrorlk | 2,316
+virakesarilk | 2,107
+dailymirrorlk | 2,317
 adaderanasinhalalk | 2,410
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,018 (100.0%) of 15,019 articles have been extended.
+15,019 (100.0%) of 15,023 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### Two new trains to commemorate Badulla line centenary on April 5
+
+*2024-03-25 14:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-new-trains-to-commemorate-Badulla-line-centenary-on-April-5/108-279552) · `en`
+
+Colombo, March 25 (Daily Mirror) - Two new trains are expected to be run on April 5 to mark the centenary of a train plying to Badulla, Transport Minister Bandula Gunawardana said.
+
+Meanwhile, he said a special tourist train with observation cabins is also to be started for short-distance travel to tourist attractions in the upcountry areas of Nanuoya.
+
+◼️
+
+[Data](articles/798a191c.json)
+
+---
+
+### மட்டு.வாழைச்சேனையில் பஸ்ஸுடன் மோட்டார் சைக்கிள் மோதி விபத்து ; இளைஞன் கவலைக்கிடம்!
+
+*2024-03-25 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/179661) · `ta`
+
+மட்டக்களப்பு வாழைச்சேனை பகுதியில் பஸ்ஸுடன் மோட்டார் சைக்கிள் மோதியதில் இரு இளைஞர்கள் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+இந்த சம்பவம் இன்று திங்கட்கிழமை (25) காலை 10.30.மணியளவில் வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட மீராவோடை பகுதியில் வைத்து இடம்பெற்றுள்ளது.
+
+ஓட்டமாவடி - மீராவோடை ஊடாக மட்டக்களப்பு வைத்தியசாலைக்கு பயணிகளை ஏற்றிச் செல்லும் இலங்கை போக்குவரத்து சபையின் வாழைச்சேனை கிளை பஸ் வண்டியில் மோட்டார் சைக்கிள் மோதி இவ் விபத்து இடம்பெற்றுள்ளது.
+
+குறித்த வீதியால் மூன்று மோட்டார் சைக்கிளில் ஓட்டப்பந்தயத்தில் ஈடுப்பட்ட இளைஞர்களே இவ் விபத்தில் சிக்கியுள்ளனர்.
+
+◼️
+
+[Data](articles/2dffa465.json)
+
+---
+
+### Five including two students arrested for stealing laptops from school’s smart classroom
+
+*2024-03-25 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98189/five-including-two-students-arrested-for-stealing-laptops-from-schools-smart-classroom) · `en`
+
+Police have arrested five individuals including two students of Ariyawansha Maha Vidyalaya, Beruwala for breaking into the ‘smart classroom’ at the school and stealing 12 laptop computers.
+
+Beruwala Police revealed that the arrested suspects include two 16-year-old students of the same school who were expected to sit for the G.C.E. Ordinary Level examination this year and three other suspects who are residents of Panadura and Padukka areas.
+
+A complaint had been received by Beruwala Police stating that several laptops were stolen by individuals who had broken into the ‘smart classroom’ of the school on February 23, which was a Full Moon Poya Day.
+
+Based on certain information received by the Police Special Task Force (STF) that the two students in question was trying to sell several laptop computers, the officers had interrogated them, and uncovered that they were preparing to sell the stolen laptops with the help of three other persons in Panadura and Padukka areas, police said.
+
+...
+
+[Data](articles/d787ee39.json)
+
+---
 
 ### COPA calls for CID investigation into import of contaminated fish
 
@@ -45,6 +95,8 @@ COPA has given instructions after determining that the import of contaminated fi
 ◼️
 
 [Data](articles/81533653.json)
+
+[Extended Data](ext_articles/81533653.ext.json)
 
 ---
 
@@ -139,6 +191,24 @@ According to the data security, the National Council on Road Safety Internationa
 [Data](articles/495dac85.json)
 
 [Extended Data](ext_articles/495dac85.ext.json)
+
+---
+
+### ’කුණු මාලු කන්ටේනර්’ 102 සී.අයි.ඩී යයි
+
+*2024-03-25 13:26:14* · [`adalk`](https://www.ada.lk/breaking_news/’කුණු-මාලු-කන්ටේනර්’-102-සී-අයි-ඩී-යයි/11-408781) · `si`
+
+නරක් වූ මාළු කන්ටේනර් 102ක් රටතුළට ගැනීමේ සිද්ධියේ ගැටලු රැසක් ඇති බැවින් වහාම අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිලි කරන්න -  කෝපා කමිටුවෙන් මුදල් අමාත්‍යාංශ නිලධාරීන්ට උපදෙස්
+
+ඒ සම්බන්ධයෙන් කඩිනම් විමර්ශන කටයුතු මෙහෙයවන ලෙසට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ඉහළ නිලධාරීන්ටත් දැනුම් දෙයි
+
+නරක් වූ මාළු කන්ටේනර් 102ක් රටතුළට ගැනීමේ සිද්ධිය අපරාධමය කාරණාවක් බව පෙනී යන බැවින් ඒ සම්බන්ධව වහාම අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිලි කරන ලෙස රජයේ ගිණුම් පිළිබඳ කාරක සභාව විසින් (කෝපා කමිටුව) මුදල් අමාත්‍යාංශ නිලධාරීන්ට පසුගියදා උපදෙස් ලබා දෙන ලදී. එසේම ඒ සම්බන්ධයෙන් කඩිනමින් විමර්ශන කටයුතු මෙ‍ෙහයවන ලෙසටත් එම අවස්ථාවට සහභාගී වූ  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ඉහළ නිලධාරීන්ට දැනුම් දීම සිදු විය.
+
+සී ෂෙල්ස් සිට තායිලන්තය දක්වා ගමන් කළ නරක්වූ මාළු බහාලුම් සහිත නැවක් කොළඹ වරායෙන් රට තුළට ගැනීම පිළිබඳව විගණන විමසුමෙන් හෙළිදරව් වූ කරුණු පිළිබඳ පරීක්ෂා කිරීම සදහා රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතාගේ ප්‍රධානත්වයෙන් රජයේ ගිණුම් පිළිබඳ කාරක සභාව පසුගියදා රැස්වූ අවස්ථාවේදී මෙම දැනුම් දීම සිදු කෙරිණි.
+
+...
+
+[Data](articles/13877d3a.json)
 
 ---
 
@@ -2159,75 +2229,5 @@ Since the civil war ended, there has been no credible government mechanism set u
 [Data](articles/929d200f.json)
 
 [Extended Data](ext_articles/929d200f.ext.json)
-
----
-
-### Trump: A ‘chaos agent’ in a country at war with itself
-
-*2024-03-25 02:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Trump-A-chaos-agent-in-a-country-at-war-with-itself/172-279493) · `en`
-
-Donald Trump owns the Republican Party, and if elections were held now, Trump would win as no other Republican contender can even come close. Photo (C) The New York Times
-
-In a recent column, I discussed the worsening American economy and dire forecasts of a looming recession. I said too, that there is more to the health of a country than money and economics. In fact, when the going is good and the sun is shining, countries and people get carried away and start making mistakes that lead to their downfall and hard times.
-
-Political analyst Ian Bremmer has much that is enlightening to say about the socio-political malaise that troubles the US. In a YouTube interview with Tom Bilyeu, he said that the biggest threat to the US comes not from Russia or China but from within– the US is waging war against itself.
-
-...
-
-[Data](articles/25ade833.json)
-
-[Extended Data](ext_articles/25ade833.ext.json)
-
----
-
-### Unemployment rate declines to 4.3% as economy recovers
-
-*2024-03-25 02:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Unemployment-rate-declines-to-4-3-as-economy-recovers/108-279508) · `en`
-
-Sri Lanka’s official unemployment rate slipped to 4.3 percent in the final quarter of last year from 4.7 percent in the quarter before as the economy expanded in the final three months of the year.
-
-This is roughly thrice the pace of the third quarter growth, data released by the Census and Statistics Department showed.
-
-Sri Lanka’s Gross Domestic Product (GDP), the value of total products by an economy, expanded by 4.5 percent in the fourth quarter of last year from 1.6 percent in the third quarter as the country was recovering from the shortage of foreign currency which reached a breaking point in early 2022.
-
-...
-
-[Data](articles/b450d16a.json)
-
-[Extended Data](ext_articles/b450d16a.ext.json)
-
----
-
-### A time to remember: the therapeutic power of emotion recollected in not-quite tranquillity
-
-*2024-03-25 02:23:42* · [`dailyftlk`](https://www.ft.lk/columns/A-time-to-remember-the-therapeutic-power-of-emotion-recollected-in-not-quite-tranquillity/4-759891) · `en`
-
-Beaten, broken and bruised: but carrying on with courage and compassion ‘beyond checkpoints’
-
-In a nation notorious for not remembering many matters of importance beyond the news cycle, remembering right becomes a sacred trust and duty. Sri Lanka has faced many challenges as a country and a people in its chequered history since independence, and forgetfulness must not be added to its woes.
-
-Thus a poignant memoir of episodes still not out of mind comes as a welcome reminder that once upon a time in our erstwhile island paradise, there was ‘something rotten in the state’. It was not a people, political party or government, or even a separatist movement that escalated into terrorism, which were solely to blame for the phenomenon we ironically recall as a ‘civil war’.
-
-...
-
-[Data](articles/9f88d024.json)
-
-[Extended Data](ext_articles/9f88d024.ext.json)
-
----
-
-### Citizens should be aware of the burden of total Government expenditure
-
-*2024-03-25 02:12:13* · [`dailyftlk`](https://www.ft.lk/columns/Citizens-should-be-aware-of-the-burden-of-total-Government-expenditure/4-759890) · `en`
-
-Higher the Government expenditure, greater the burden being borne by people
-
-It is the total Government expenditure that should worry citizens instead of the mere tax payments. The total expenditure of the Government, known as gross government expenditure, is made up of the recurrent or consumption expenditure, expenditure incurred for building the country’s capital stock, and money used for repaying the maturing Government debt. Financing that expenditure, whether it is done through taxes, borrowings, or money printing, or a combination of all the three, is a burden to the people. Taxes force them to bear the burden today, borrowings tomorrow, and inflation today as well as the future
-
-...
-
-[Data](articles/12238e0a.json)
-
-[Extended Data](ext_articles/12238e0a.ext.json)
 
 ---

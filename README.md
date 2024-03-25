@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 22:51:04**
+As of **2024-03-25 23:03:25**
 
 ## Newspaper Stats
 
-*Scraped **15,111** Articles*
+*Scraped **15,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ dailyftlk | 806
 islandlk | 831
 adalk | 1,291
 tamilmirrorlk | 1,817
-adaderanalk | 1,818
+adaderanalk | 1,819
 virakesarilk | 2,125
 dailymirrorlk | 2,337
-adaderanasinhalalk | 2,427
+adaderanasinhalalk | 2,428
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,110 (100.0%) of 15,111 articles have been extended.
+15,111 (100.0%) of 15,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### Sri Lanka’s Chief of Defence Staff visits Kenya’s Defence HQ
+
+*2024-03-25 22:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98202/sri-lankas-chief-of-defence-staff-visits-kenyas-defence-hq) · `en`
+
+The Chief of Defence Staff of Sri Lanka Armed Forces (CDS) General Shavedra Silva visited the Defence Headquarters of Kenya in Nairobi on Monday (25). He was hosted by Kenya’s Chief of Defence Forces (CDF) General Francis Ogolla.
+
+General Silva inspected a Half Guard of Honour mounted by Kenya Air Force personnel, then proceeded to a meeting with the CDF, VCDF, Service Commanders, as well as other KDF General and Senior Officers.
+
+During the talks, several agenda among them strengthening of bilateral military relations between Kenya and Sri Lanka, conduction of joint military trainings, enhancement of military capability, and involvement in Peace Support Operations were addressed.
+
+Both military chiefs highlighted their commitment to ensuring that the two countries continue working cohesively not only in improving their human resource, but also in modernising and streamlining their state of operations.
+
+...
+
+[Data](articles/630964c5.json)
+
+---
+
+### හෙරොයින් සමග කොටුවූ අයියාගේ පැටිකිරිය
+
+*2024-03-25 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194928) · `si`
+
+බන්ධනාගාරගත කර සිටින මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන වසන්ත කුමාර යන අයගේ මුදල් කටයුතු භාර ප්‍රධානියා ලෙස සැලකෙන 'අයියා' නමැති අන්වර්ථ නාමයෙන් හ﻿ඳුන්වන පුද්ගලයා අද (25) වලාන මධ්‍යම දූෂණ ප්‍රහාරක බළකාය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+එම සැකකරු මීට පෙර නඩු 187කට වරදකරු වී වසර 60ක සිරදඬුවම් නියමව බන්ධනාගාරගතව සිට යහපත් කල්ක්‍රියාව හේතුවෙන් එම දඬුවම් කාලය වසර 10කින් අවසන් කර නිදහස්ව සිටි අයෙකි.
+
+45 හැවිරිදි සැකකරු අද වලාන මධ්‍යම දූෂණ ප්‍රහාරක බලකාය මගින් අත්අඩංගුවට ගනු ලැබුවේ යුක්තිය මෙහෙයුමට සමගාමීව ගම්පහ ඉඳිගොල්ල ප්‍රදේයේදීය.
+
+සැකකරු මීට මාස 7කට පෙර එම සුඛෝපභෝගි නිවස රු.100,000 ක කුලී පදනම මත ලබා ගෙන ඇත්තේ ව්‍යාපාරිකයෙකු බව හඟවමිනි.
+
+සැකකරු අත්අඩංගුවට ගන්නා අවස්ථාවේ ඔහු සන්තකයේ තිබී හෙරොයින් මිලිග්‍රෑම් 6430ක්, ඡංගම දුරකථන 8ක්, දුරකථන සිම්පත් 10ක්, බැංකු කාඩ්පත් 7ක් හා නවීන මෝටර් රථයක් වලාන මධ්‍යම දූෂණ ප්‍රහාරක බළකාය භාරයට ගනු ලැබීය.
+
+...
+
+[Data](articles/44cebd84.json)
+
+---
 
 ### COPA instructs officials to immediately report importation of 102 spoiled fish containers to CID
 
@@ -45,6 +83,8 @@ This was notified when the Committee on Public Accounts met recently under the C
 ...
 
 [Data](articles/6cf412ce.json)
+
+[Extended Data](ext_articles/6cf412ce.ext.json)
 
 ---
 
@@ -2233,43 +2273,5 @@ Several senior police officials, including OIC Udamaluwa Police Post W.C.L.R. K.
 [Data](articles/e3c42439.json)
 
 [Extended Data](ext_articles/e3c42439.ext.json)
-
----
-
-### Pay only Rs. 80 for a cup of tea from today: Asela Sampath
-
-*2024-03-25 13:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pay-only-Rs-80-for-a-cup-of-tea-from-today-Asela-Sampath/108-279547) · `en`
-
-Colombo, March 25 (Daily Mirror) - National Consumer Front Chairman Asela Sampath urges people to limit their expenditure on a cup of tea to Rs. 80 starting today.
-
-Addressing the media, he said even though the imported milk powder prices have been slashed, that benefit will not be given to the people by the restaurant owners.
-
-Therefore, he requested the people not to pay more than Rs. 80 for a cup of milk tea from today. He also requested the Consumer Affairs Authority (CAA) to announce the maximum price for a cup of milk tea as Rs. 80 from today.
-
-Addressing the media, he also requested the restaurant owners take immediate action to provide a cup of milk tea for Rs. 80 to increase their customer base. Sampath requested the owners to prominently display the price.
-
-He questioned the relevant authorities for not taking action to slash the price of locally manufactured milk powder too.
-
-...
-
-[Data](articles/fe91257e.json)
-
-[Extended Data](ext_articles/fe91257e.ext.json)
-
----
-
-### AKD slams speaker for stuffing his staff with relatives
-
-*2024-03-25 13:13:00* · [`islandlk`](http://island.lk/akd-slams-speaker-for-stuffing-his-staff-with-relatives/) · `en`
-
-The three-day debate on the No-confidence Motion against Speaker Mahinda Yapa Abeywardena offers an insight into the prevailing ‘dump the lot’ public opinion on the incumbent legislature. Listening to what some MPs said (sometimes yelled) during the debate helps understand the present mood in the country that the incumbent legislature has long lost its mandate which must be urgently restored through a general election.
-
-Only a few members presented coherent arguments during the debate. The government relied on its roster of provocative speakers who bellowed the usual rhetoric. Those who spoke sensibly rightly predicted that the government’s numerical advantage would secure the motion’s defeat. However, they cautioned that any victory would be fleeting as they believed the government’s downfall was inevitable.
-
-...
-
-[Data](articles/414b67f5.json)
-
-[Extended Data](ext_articles/414b67f5.ext.json)
 
 ---

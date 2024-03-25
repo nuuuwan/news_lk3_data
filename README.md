@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 19:33:31**
+As of **2024-03-25 19:51:01**
 
 ## Newspaper Stats
 
-*Scraped **15,089** Articles*
+*Scraped **15,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,44 @@ adalk | 1,285
 tamilmirrorlk | 1,815
 adaderanalk | 1,816
 virakesarilk | 2,122
-dailymirrorlk | 2,333
+dailymirrorlk | 2,334
 adaderanasinhalalk | 2,422
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,084 (100.0%) of 15,089 articles have been extended.
+15,089 (100.0%) of 15,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### CID ආ මෛත්‍රී - ඉදිරි ක්‍රියාමාර්ග ගැනත් හෙළිදරව්වක්
+### CID, Maithri and a revelation
 
 *2024-03-25 19:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194922) · `si`
 
-පාස්කු ප්‍රහාරය සිදුකළේ කවුරුන්ද යන්න තමා දන්නා බවට සිදුකළ ප්‍රකාශය සම්බන්ධයෙන් විමසීම සඳහා කළ දැනුම්දීමකට අනුව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා අද (25) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිටියේය.
+Former President Maithripala Sirisena gave a 5-hour statement to the CID, acknowledging knowledge of an order related to the Passover attack. Defense Minister Tiran Alles directed the CID on this matter. The CID's investigation lasted from 10:30 am to 3:40 pm, with further action pending the Attorney General's instructions.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හිටපු ජනාධිපතිවරයාගෙන් පැය පහක කාලයක් ප්‍රකාශ සටහන් කරගත් බව වාර්තා විය.
+🟩
 
-පාස්කු ප්‍රහාරය සිදුකළේ කවුරුන්ද යන්න තමා දන්නා බවත්, ඒ පිළිබඳ අධිකරණයෙන් නියෝගයක් දෙන්නේ නම් ඒ ගැන කරුණු හෙළි කිරීමට තමන් සූදානම් බවත් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා මාර්තු 22 වනදා මහනුවරදී ප්‍රකාශ කළේය.
+Former President Maithripala Sirisena appeared in the face of the CID today (25).
 
-ඔහුගේ එම ප්‍රකාශය සම්බන්ධයෙන් පාර්ශ්ව කිහිපයක් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිලි ඉදිරිපත් කළ අතර ඒ අනුව ඒ පිළිබඳ වහාම විමර්ශනයක් සිදුකරන ලෙස මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාට නියෝග කර තිබුණි.
+The Criminal Investigation Department (CID) was recorded five hours of statements from the former President.
 
-අද පෙරවරු 10.30ට පමණ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණි හිටපු ජනාධිපතිවරයා පැය 5කට අධික කාලයක් ප්‍රකාශ ලබාදීමෙන් අනතුරුව පස්වරු  3.40ට පමණ අපරාධ පරීක්ණෂ දෙපාර්තමේතුවෙන් පිටව ගියේය.
+Former President Maithripala Sirisena stated that he was aware of the Order who was ordered to be ordered if the Passover attack was ordered.
 
-...
+The Minister of Defense Tiran Alles had ordered the CID regarding the CID regarding his statement.
+
+The Criminal Investigation Department at around 10.30 am today, the Criminal Investigation Department left at around 3.40 pm.
+
+Meanwhile, police spokesman DIG, Attorney-at-Law Nihal Talduuwa, said that action would be investigated and taking further action on the Attorney General's instructions.
+
+◼️
 
 [Data](articles/c426529a.json)
+
+[Extended Data](ext_articles/c426529a.ext.json)
 
 ---
 
@@ -56,11 +64,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-03-25 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98199/buddha-sasana-ministry-issues-statement-over-new-year-auspicious-times) · `en`
 
-The Ministry of Buddha Sasana, Religious and Cultural Affairs has requested the public to follow the official list of auspicious times issued by the State Astrologers’ Committee for the 2024 Sinhala and Tamil New year.
+The Ministry of Buddha Sasana, Religious and Cultural Affairs has requested the public to follow the official list of auspicious times issued by the State Astrologers’ Committee for the 2024 Sinhala and Tamil New Year.
 
-◼️
+Sri Lanka’s 42-member group of astrologers employed by the Cultural Affairs ministry were split for the first time on deciding the best date for New Year (Aluth Aurudu) celebrations with some warning of “disaster” and accusing rivals of misinterpreting the position of stars.
+
+The majority set the dawn of the traditional Sinhala and Tamil New Year on the night of April 13, however, some claim the time was wrong and would lead the country into “disaster.”
+
+However, the Ministry of Buddha Sasana, Religious and Cultural Affairs has today issued a special statement regarding the matter while urging the public to follow the official list of auspicious times issued by the State Astrologers’ Committee.
+
+...
 
 [Data](articles/398829c9.json)
+
+[Extended Data](ext_articles/398829c9.ext.json)
 
 ---
 
@@ -76,23 +92,33 @@ This appointment was made by President Ranil Wickremesinghe due to Prime Ministe
 
 [Data](articles/5fc4831b.json)
 
+[Extended Data](ext_articles/5fc4831b.ext.json)
+
 ---
 
-### නීතිඥවරියකගේ නීතිඥභාවය අහෝසි කරයි
+### The lawyer of a lawyer is undone
 
 *2024-03-25 18:57:58* · [`adalk`](https://www.ada.lk/breaking_news/නීතිඥවරියකගේ-නීතිඥභාවය-අහෝසි-කරයි/11-408790) · `si`
 
-නඩු ගොනුවක ලේඛණයක් කටේ දමා හපා විනාශ කිරීමෙන් නීතිඥ වෘත්තියට නුසුදුසු ආකාරයෙන් හැසිරුණු බවට නීතිඥවරියකට එරෙහි නඩුව අවසන් වනතුරු ඇගේ නිතිඥභාවය අත්හිටුවීමට ශ්‍රේෂ්ඨාධිකරණය අද (25) තීරණය කළේය.
+The Supreme Court suspended a lawyer for 12 years, citing unprofessional conduct. Chief Justice Jayantha Jayasuriya led the decision, following a panel's review of the lawyer's actions.
 
-වසර 12ක කාලයක් නීතිඥවරියක් වශයෙන් වෘත්තියේ යෙදුණු විත්තිකාර නීතිඥවරිය කළ ක්‍රියාව බරපතළ ක්‍රියාවක් වශයෙන් සැලකිය යුතු යැයි නීතීඥවරියගේ නිතිඥභාවය අත්හිටුවමින් අගවිනිසුරු ජයන්ත ජයසූරිය මහතා පැවසීය.
+🟩
 
-වෘත්තීය ආචාර ධර්ම කඩ කිරීම සම්බන්ධයෙන් නීතිඥවරියට එරෙහිව නීතීපතිවරයා පවරා ඇති මෙම නඩුව අගවිනිසුරු ජයන්ත ජයසූරිය ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් ගාමිණී අමරසේකර සහ ඒ.එච්.එම්.ඩී. නවාස් යන මහත්වරුන්ගෙන් සැදුම්ලත් විනිසුරු මඩුල්ලක් හමුවේ සලකා බැලිණි.
+The Supreme Court today (25) decided to suspend her lawyer until the case was not inappropriate to the lawyer.
 
-කැකිරාව මහෙස්ත්‍රාත් අධිකරණයේ රෙජිස්ට්‍රාර් කාර්යාලයේ තිබු නඩු ගොනුවක ලේඛනයක් බලහත්කාරයෙන් රැගෙන එය කටේ දමා හපා විනාශ කිරීමෙන් නීතිඥවරයකුට නුසුදුසු ආකාරයෙන් හැසිරෙන ලදැයි විත්තිකාර නීතිඥවරියට එරෙහිව නීතිපතිවරයා මෙම නඩුව ඉදිරිපත් කර ඇත.
+Chief Justice Jayantha Jayasuriya said Chief Justice Jayantha Jayasuriya said the act of the actor's lawyer was a 12-year-old lawyer.
 
-...
+Chief Justice Jayantha Jayasuriya, Supreme Court Justice, Gamini Amarasekera and AHMD who have been handed over to the lawyer's violence on trade ethics. A panel of judges was considered in the face of Nawaz.
+
+The Attorney General has presented the case against the accused of the accused that the lawyer was inappropriately behaved in a manner inappropriate for a lawyer by the Kekirawa Magistrate's Counter Office.
+
+After considering the case when the case was taken up, the relevant order was also decided to hear the case against the lawyer on April 2.
+
+◼️
 
 [Data](articles/92f3dcf3.json)
+
+[Extended Data](ext_articles/92f3dcf3.ext.json)
 
 ---
 
@@ -133,6 +159,22 @@ Director Asela Bandara said that it should be drawn to the details of the goods 
 [Data](articles/0a2d24f6.json)
 
 [Extended Data](ext_articles/0a2d24f6.ext.json)
+
+---
+
+### Kamindu Mendis cranks up pressure on Kusal Mendis
+
+*2024-03-25 18:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kamindu-Mendis-cranks-up-pressure-on-Kusal-Mendis/108-279568) · `en`
+
+Colombo, March 25 (Daily Mirror) - Kamindu Mendis made a grand comeback to the longest format smashing twin centuries against Bangladesh in the First Test concluded in Sylhet on Monday (25) becoming the first batman to do so batting at number 7 or lower position.
+
+Despite scoring a fifty on his Test debut against Australia in 2022,  Kamindu was not given an opportunity until the first Test against Bangladesh. The former Richmond College star had to regain his spot in the XI the harder way by scoring tons of runs in the domestic tournaments which saw him averaging over 63 in first class cricket after 45 games.
+
+The manner in which the left hander scored runs against Bangladesh on a fairly difficult wicket proves that in Kamindu Sri Lanka has got a very solid  batsman.
+
+...
+
+[Data](articles/734eb8f6.json)
 
 ---
 
@@ -1484,19 +1526,31 @@ COPA has given instructions after determining that the import of contaminated fi
 
 ---
 
-### සංවිධානාත්මකව හොරකම් කළ ගැබිණි කාන්තා කල්ලියක් අල්ලයි
+### Pregnant women gang arrested organized
 
 *2024-03-25 13:59:58* · [`adalk`](https://www.ada.lk/breaking_news/සංවිධානාත්මකව-හොරකම්-කළ-ගැබිණි-කාන්තා-කල්ලියක්-අල්ලයි/11-408784) · `si`
 
-බස් රථවල ගමන් කරන මගීන්ගේ මුදල් පසුම්බි, රන් ආභරණ ඇතුළු දේපල සොරකම් කිරීමේ නිරත, සංවිධානාත්මක ගැබිණි කාන්තා කල්ලියක සාමාජිකාවන් තුන්දෙනෙකු රුපියල් ලක්ෂයකට වැඩි හෙරොයින්  මත්කුඩු , කොල්ලකන ලද ලක්ෂ දෙකකට ආසන්න රන්මාලයක් සහ මුදල්  සමග අත්අඩංගුවට ගත් බව අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි.
+Three members of a pregnant woman gang were arrested in Anuradhapura for drug and robbery. They were found with gold and heroin on a bus from Colombo. The suspects were interrogated and will face charges.
 
-මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ, තඹුත්තේගම කුඩාගම සහ බුලත්සිංහල පාර ඉංගිරිය  යන ප්‍රදේශවල පදිංචි වයස අවුරුදු 20, 23 සහ 30වියේ පසුවන ගැබිණි  කාන්තාවන් දෙදෙනකු ඇතුළු කාන්තාවන් තිදෙනෙකි.
+🟩
 
-කොළඹ සිට අනුරාධපුර දක්වා තඹුත්තේගම  හරහා ධාවනය වූ පෞද්ගලික බස් රථයක ගමන් මගී කාන්තාවක් විසින් තම ගෙල බැඳි රන මාලය බස් රථය තුලදී කවුරුන් හෝ කඩා ගෙන ඇති බවට පැවසීමත් සමග බස් රථය අනුරාධපුර මූලස්ථාන පොලිසිය වෙත ධාවනය කර, එහිදී  සිදු කල පරීක්ෂාවකදී සැකකාරියන්  තිදෙනා අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+The passengers traveling in buses, three members of an organized pregnant woman gang have been arrested with a gold drug and robbery, Anuradhapura, Anuradhapura.
+
+The victim is, Thambuththegama, Kudagama and Bulathsinhala Road In Ingiriya.
+
+A private bus traveling from Colombo to Anuradhapura has been taken to Anuradhapura headquarters police and the three suspects were arrested during a inspection of the bus.Says.
+
+First of the first inspected the bus with suspicious women in the bus, a gold necklace was hidden in the hat of female police, heroin suspected that 2700 milligrams of heroin, the other pregnant woman.Police say Rs. 7820 were found at Rs.
+
+Police say that no suspects were in their own areas regarding areas of residents of the three arrested and interrogated areas of the suspects.
+
+One suspect is not known to heroin, who was found in the hat of one suspect's hat and brought it to the husband of a motorcycle.
 
 ...
 
 [Data](articles/772e7402.json)
+
+[Extended Data](ext_articles/772e7402.ext.json)
 
 ---
 
@@ -2167,27 +2221,5 @@ Colombo, March 25 (Daily Mirror) - The Committee on Public Finance's (COPF) show
 [Data](articles/7db9c287.json)
 
 [Extended Data](ext_articles/7db9c287.ext.json)
-
----
-
-### Yall. An accident in Punguduthivu
-
-*2024-03-25 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179630) · `ta`
-
-In Punguduthivu, Jaffna, a man walking home was hit by a motorcycle and died without treatment. The victim was treated at Jaffna Bodhana Hospital on the 23rd.
-
-🟩
-
-A motorcycle crashed into a man who left the temple in Punguduthivu, Jaffna, who was walking home, has died without treatment.
-
-A motorcycle on the street lost control of a man who was walking towards his house on the 20th of last month.
-
-The victim was receiving treatment at the Jaffna Bodhana Hospital on Saturday (23).
-
-◼️
-
-[Data](articles/881a813e.json)
-
-[Extended Data](ext_articles/881a813e.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 08:04:41**
+As of **2024-03-25 08:17:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,398
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,936 (100.0%) of 14,939 articles have been extended.
+14,939 (100.0%) of 14,939 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The GMOA hosted a one-day workshop on “Leadership and Skills Development” on
 ...
 
 [Data](articles/2c1d4f3b.json)
+
+[Extended Data](ext_articles/2c1d4f3b.ext.json)
 
 ---
 
@@ -415,6 +417,8 @@ Sri Lanka’s Gross Domestic Product (GDP), the value of total products by an ec
 ...
 
 [Data](articles/b450d16a.json)
+
+[Extended Data](ext_articles/b450d16a.ext.json)
 
 ---
 
@@ -827,6 +831,8 @@ The CB unveiled the regulatory sandbox to run innovative fintech experiments whi
 ...
 
 [Data](articles/7c760281.json)
+
+[Extended Data](ext_articles/7c760281.ext.json)
 
 ---
 

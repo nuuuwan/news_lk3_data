@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 00:17:57**
+As of **2024-03-26 00:33:49**
 
 ## Newspaper Stats
 
-*Scraped **15,128** Articles*
+*Scraped **15,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,39 +12,91 @@ colombotelegraphcom | 137
 bbccomsinhala | 163
 dbsjeyarajcom | 191
 newsfirstlk | 363
-dailyftlk | 806
+dailyftlk | 810
 economynextcom | 818
 islandlk | 831
 adalk | 1,291
-tamilmirrorlk | 1,818
+tamilmirrorlk | 1,819
 adaderanalk | 1,819
 virakesarilk | 2,126
-dailymirrorlk | 2,337
+dailymirrorlk | 2,339
 adaderanasinhalalk | 2,428
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,127 (100.0%) of 15,128 articles have been extended.
+15,128 (100.0%) of 15,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### ஐ.பி.எல் 2024 : பஞ்சாப் கிங்ஸை வீழ்த்திய ராயல் சேலஞ்சர்ஸ் பெங்களூர் அணி
+### இளநீர் ஏற்றுமதி வருமானம் அதிகரிப்பு
+
+*2024-03-26 00:09:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளநீர்-ஏற்றுமதி-வருமானம்-அதிகரிப்பு/175-335186) · `ta`
+
+இலங்கையில் கடந்த பெப்ரவரி மாதத்தில் இளநீர் ஏற்றுமதியின் மூலம் 3, 439 மில்லியன் ரூபாய் வருமானம் ஈட்டப்பட்டுள்ளது.
+
+இதற்கமைய, இந்த வருமானமானது கடந்த வருடத்தின் பெப்ரவரி மாதத்தை விடவும் 734 மில்லியன் ரூபாவினால் அதிகரித்துள்ளதாக தெங்கு ஏற்றுமதி அதிகார சபை தெரிவித்துள்ளது.
+
+அதேநேரம் கடந்த வருடத்தின் பெப்ரவரி மாதத்தில் இளநீர் ஏற்றுமதியின் மூலம் 2, 705 ரூபாய் வருமானம் ஈட்டப்பட்டிருந்தமை குறிப்பிடத்தக்கது. (a)
+
+◼️
+
+[Data](articles/69f69def.json)
+
+---
+
+### IPL 2024: Royal Challengers Bangalore team defeated Punjab Kings
 
 *2024-03-26 00:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/179703) · `ta`
 
-ராயல் சேலஞ்சர்ஸ் பெங்களூர் அணி மற்றும் பஞ்சாப் கிங்ஸ் அணிக்கு இடையில் நடைபெற்ற 6 ஆவது ஐபிஎல் போட்டியில் ராயல் சேலஞ்சர்ஸ் பெங்களூர் அணி நான்கு விக்கெட் வித்தியாசத்தில் வெற்றி பெற்றது.
+Royal Challengers Bangalore defeated Punjab Kings by 4 wickets in the 6th IPL match, with Punjab scoring 176/6 and Bangalore 177/2. Virat Kohli's 77 and Dinesh Karthik's 28 were key.
 
-முதலில் துடுப்பெடுத்தாடிய பஞ்சாப் கிங்ஸ் அணி அதன் 20 ஓவர் முடிவில் 6 விக்கெட்டுகளை இழந்து 176 ஓட்டங்களைப் பெற்றது.
+🟩
 
-வெற்றி இலக்காக 177 ஓட்டங்களை பெற துடுபெடுத்தாடிய ராயல் சேலஞ்சர்ஸ் பெங்களூரு அணி, விராட் கோலியின் 77 (49 பந்துகள்) அபாரமான அரை சதம் மற்றும் பின்முனையில் ஆட்டமிழக்காமல் தினேஷ் கார்த்திக்கின் 28 (10 பந்துகள்) ஆட்டத்தினாலும் இவ் வெற்றியை சேலஞ்சர்ஸ் பெங்களூரு அணி பெற்றது.
+Royal Challengers Bangalore won by four wickets in the 6th IPL match between Royal Challengers Bangalore and Punjab Kings.
+
+Punjab Kings scored 176 runs for the loss of 6 wickets in its 20 overs.
+
+The Royal Challengers Bangalore team scored 177 runs and Virat Kohli's 77 (49 balls) and Dinesh Karthik's 28 (10 balls) were unbeaten on the 28 (10 balls) of Virat Kohli.
 
 ◼️
 
 [Data](articles/e7aac311.json)
+
+[Extended Data](ext_articles/e7aac311.ext.json)
+
+---
+
+### Where has that much-touted economic recovery road map gone?
+
+*2024-03-26 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Where-has-that-much-touted-economic-recovery-road-map-gone/172-279573) · `en`
+
+If Sri Lanka continues to rely on borrowing to address the imbalance between imports and exports, the nation will inevitably confront another economic crisis within a decade, says President Ranil Wickremesinghe. He made these remarks during the inauguration ceremony of Bodhigara and Golden Fence, constructed near the historic Mangedara Tempita Viharaya in Kegalle on March 20.
+
+In the same week, the International Monetary Fund (IMF), on the advice of which Sri Lanka is currently running the economy gave a similar warning on the future of the economy. IMF’s Senior Mission Chief for Sri Lanka Peter Breuer at the media briefing following the conclusion of the Second Review of the $3 billion four-year Extended Fund Facility (EFF) programme said “We see some green shoots in the economy, and that’s the beginning of a virtuous cycle and we have to keep it there.  It is a knife edge and could easily go back to a vicious cycle, and that’s what we want to prevent,”
+
+...
+
+[Data](articles/402570a1.json)
+
+---
+
+### Impact of parallel and underground economies on Govt. corruption and economic failure
+
+*2024-03-26 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Impact-of-parallel-and-underground-economies-on-Govt-corruption-and-economic-failure/172-279574) · `en`
+
+This article explores the intricate relationship between political and government corruption and its detrimental impact on a country’s economic health. It delves into the complexities of fiscal deficit, parallel economy, and underground economy, collectively contributing to economic failure.
+
+By shedding light on how corruption infiltrates various sectors, affecting everything from external debt interest to the common man’s basic needs, it also examines its effects on organised crime, antisocial behavior, and anti-national elements.
+
+Corruption plays a critical role in shaping a country’s economic trajectory, steering it towards failure. This section elucidates how corruption permeates various sectors, shedding light on its far-reaching consequences for economic stability.
+
+...
+
+[Data](articles/e68adc12.json)
 
 ---
 
@@ -73,6 +125,66 @@ In addition, the Inspector General of Police has issued a directive to take acti
 [Data](articles/5a7a2596.json)
 
 [Extended Data](ext_articles/5a7a2596.ext.json)
+
+---
+
+### Issues facing Inland Revenue Department in tax collection
+
+*2024-03-25 22:49:10* · [`dailyftlk`](https://www.ft.lk/columns/Issues-facing-Inland-Revenue-Department-in-tax-collection/4-759916) · `en`
+
+The IRD has encountered significant challenges in meeting its tax collection targets. As of October 2023, the IRD collected 82% of the projected revenue, amounting to Rs. 740 billion out of an expected Rs. 908 billion.
+
+The slowdown in collection was particularly noticeable in the second half of the year, attributed to the Central Bank’s interest rate policy directive in August, which impacted corporate tax inflow. Financial institutions, which are major contributors to corporate taxes, have been affected by the monetary policy, leading to a shortfall in Government revenue.
+
+The IRD set ambitious targets for corporate taxes at Rs. 603 billion and non-corporate taxes at Rs. 305 billion for 2023. By October, 77% of the corporate taxes and 91% of the non-corporate taxes were collected.
+
+The 2024 Budget aims to increase tax revenue to Rs. 4 trillion, up from Rs. 3 trillion in 2023, with a significant portion expected from taxes on income and profit.
+
+...
+
+[Data](articles/6af5e2b8.json)
+
+---
+
+### Economic realities and political promises
+
+*2024-03-25 22:45:54* · [`dailyftlk`](https://www.ft.lk/columns/Economic-realities-and-political-promises/4-759915) · `en`
+
+“The first panacea for a mismanaged nation is inflation of the currency; the second is war. Both bring a temporary prosperity; both bring a permanent ruin. But both are the refuge of political and economic opportunists” – Ernest Hemingway
+
+After concluding its review on SL’s economic progress during last year and commending the regime for its “unwavering commitment to the program’s implementation”, the IMF review commission has recommended the release of the next tranche of $ 337 million to bring it to a total $ 1 billion since March 2023, but with a reminder that “sustaining the reform momentum and addressing governance weaknesses and corruption vulnerabilities are critical to put the economy on a path towards lasting recovery and stable and inclusive growth”. What this means is that lasting recovery is not possible unless there is going to be a system change.
+
+...
+
+[Data](articles/0a595203.json)
+
+---
+
+### Regulations must be data-driven; not based on fallacies
+
+*2024-03-25 22:43:17* · [`dailyftlk`](https://www.ft.lk/opinion/Regulations-must-be-data-driven-not-based-on-fallacies/14-759914) · `en`
+
+Claims countries have passed laws banning cigarette filters entirely false
+
+The Alcohol and Drug Information Centre (ADIC) in a statement recently called on the Government to ban cigarette filters citing movements to conserve the environment. Whilst efforts to protect the environment must be lauded, however, the statement added the European Union had agreed on a ban, with Belgium and Netherlands already putting the ban in place. This is a complete misrepresentation of the truth. It once again spotlights organisations lobbying Government for regulatory changes bandying misinformation that ultimately impacts much larger value chains and the public.
+
+...
+
+[Data](articles/b2d20d45.json)
+
+---
+
+### Call for urgent agreement on international deal to prepare for and prevent future pandemics
+
+*2024-03-25 22:42:08* · [`dailyftlk`](https://www.ft.lk/opinion/Call-for-urgent-agreement-on-international-deal-to-prepare-for-and-prevent-future-pandemics/14-759913) · `en`
+
+Call from over 100 pantheon of global leaders for urgent agreement on governments to reach ambitious and equitable international deal to prepare for and prevent future pandemics
+
+A high-powered intervention by 23 former national Presidents, 22 former Prime Ministers, a former UN General Secretary and 3 Nobel Laureates was made last week to press for an urgent agreement from international negotiators on a Pandemic Accord, under the Constitution of the World Health Organisation, to bolster the world’s collective preparedness and response to future pandemics.
+
+...
+
+[Data](articles/33e2f3c1.json)
 
 ---
 
@@ -2137,147 +2249,5 @@ However, it is noteworthy that these ginger is locally or not to reveal the farm
 [Data](articles/de8ff733.json)
 
 [Extended Data](ext_articles/de8ff733.ext.json)
-
----
-
-### Nine students hospitalized after clash at private education institute
-
-*2024-03-25 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98190/nine-students-hospitalized-after-clash-at-private-education-institute) · `en`
-
-At least 09 students have been injured and hospitalised following a clash that had occurred among two groups of students of a private education institute in the Bakmeegolla area of Ibbagamuwa.
-
-The clash has reportedly taken place among residential students of the private educational institute in question last night (24).
-
-Three male students who sustained injuries during the incident have been admitted to Kurunegala Teaching Hospital while 04 female students and another male student were admitted to Polgolla Hospital, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/5471fb9f.json)
-
-[Extended Data](ext_articles/5471fb9f.ext.json)
-
----
-
-### Hirunika charged for obstructing police
-
-*2024-03-25 14:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hirunika-charged-for-obstructing-police/108-279553) · `en`
-
-Colombo, March 25 (Daily Mirror)- The Colombo Chief Magistrate today overruled a request by the Cinnamon Gardens Police to seek the Attorney General’s opinion against the National Organizer of the Samagi Jana Balavegaya Women’s Wing, Hirunika Premachandra and 14 others for participating in a street drama at Torrington Square.
-
-Senior Counsel Athula S. Ranagala appearing for 13 suspects asserted that the Police while performing an unofficial duty had come before the court and made false allegations that the 15 suspects had obstructed the police in performing their official duties.
-
-The counsel underscored the fact that the suspects had staged a street drama emphasizing prominence to the hardships that the women in Sri Lanka are facing today due to the prevailing situation.
-
-...
-
-[Data](articles/3c6ad58a.json)
-
-[Extended Data](ext_articles/3c6ad58a.ext.json)
-
----
-
-### Sri Lanka wins 328 runs
-
-*2024-03-25 14:36:52* · [`adalk`](https://www.ada.lk/sports/ලංකාවට-ලකුණු-328ක-දැවැන්ත-ජයක්/9-408786) · `si`
-
-Sri Lanka defeats Bangladesh by 328 runs in the first Test, scoring 798 runs (280 & 418) to Bangladesh's 182 & 418. Dhananjaya Silva and Komickickin Mendis score centuries for Sri Lanka.
-
-🟩
-
-The Sri Lankan team won the first Test match between the two countries by defeating the host Bangladesh by 328 runs.
-
-The Bangladesh team was bowled out for 182 in the blow to chase 511 runs.
-
-Sri Lanka scored 280 runs in their first innings and in reply, only 188 runs in the reputed Bangladesh.
-
-The Sri Lankan team again scored 418 runs while Bangladesh was able to score 418 runs in their second innings.
-
-Dhananjaya Silva and Komickickin Mendis also passed in two centuries for Sri Lanka. It was renewed several reports.
-
-◼️
-
-[Data](articles/efe42327.json)
-
-[Extended Data](ext_articles/efe42327.ext.json)
-
----
-
-### Two new trains to commemorate Badulla line centenary on April 5
-
-*2024-03-25 14:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-new-trains-to-commemorate-Badulla-line-centenary-on-April-5/108-279552) · `en`
-
-Colombo, March 25 (Daily Mirror) - Two new trains are expected to be run on April 5 to mark the centenary of a train plying to Badulla, Transport Minister Bandula Gunawardana said.
-
-Meanwhile, he said a special tourist train with observation cabins is also to be started for short-distance travel to tourist attractions in the upcountry areas of Nanuoya.
-
-◼️
-
-[Data](articles/798a191c.json)
-
-[Extended Data](ext_articles/798a191c.ext.json)
-
----
-
-### A motorcycle collision with busesThe young man is worried!
-
-*2024-03-25 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/179661) · `ta`
-
-Two youths hospitalized after a motorcycle crashed into a bus in Batticaloa, Monday at 10:30 am. The bus was carrying passengers to the hospital.
-
-🟩
-
-Two youths have been admitted to hospital with a motorcycle collision with a bus in Batticaloa.
-
-The incident took place on Monday (25) at 10.30 am.
-
-The accident occurred when a motorcycle collided with the Sri Lanka Transport Board's Valaichenai branch bus carrying passengers to the Batticaloa hospital via Ottamavadi - Meeravodai.
-
-The youths who were involved in a three -motorcycle run by the road were involved in the crash.
-
-◼️
-
-[Data](articles/2dffa465.json)
-
-[Extended Data](ext_articles/2dffa465.ext.json)
-
----
-
-### Sri Lanka gives free meals to primary schoolchildren to tackle malnutrition
-
-*2024-03-25 14:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-gives-free-meals-to-primary-schoolchildren-to-tackle-malnutrition-155950/) · `en`
-
-ECONOMYNEXT – Sri Lanka has started a school feeding program that would benefit 1.6 million students of primary grades from 9,134 government schools and schools with fewer than 100 students.
-
-The government will provide 16.6 billion rupees to the nine provincial councils, with support from the World Food Program and the United States Department of Agriculture (USDA).
-
-“Malnutrition poses a significant challenge within our borders, transcending income disparities,” President Ranil Wickremesinghe said at the launch of the program at Sujatha Balika Vidyalaya in Narahenpita this morning.
-
-“The root causes extend beyond financial limitations, affecting students of all backgrounds. Many commence their school day before dawn, foregoing breakfast and often lunch, underscoring the universal necessity for school-provided meals.
-
-...
-
-[Data](articles/41e4ab88.json)
-
-[Extended Data](ext_articles/41e4ab88.ext.json)
-
----
-
-### Five including two students arrested for stealing laptops from school’s smart classroom
-
-*2024-03-25 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98189/five-including-two-students-arrested-for-stealing-laptops-from-schools-smart-classroom) · `en`
-
-Police have arrested five individuals including two students of Ariyawansha Maha Vidyalaya, Beruwala for breaking into the ‘smart classroom’ at the school and stealing 12 laptop computers.
-
-Beruwala Police revealed that the arrested suspects include two 16-year-old students of the same school who were expected to sit for the G.C.E. Ordinary Level examination this year and three other suspects who are residents of Panadura and Padukka areas.
-
-A complaint had been received by Beruwala Police stating that several laptops were stolen by individuals who had broken into the ‘smart classroom’ of the school on February 23, which was a Full Moon Poya Day.
-
-Based on certain information received by the Police Special Task Force (STF) that the two students in question was trying to sell several laptop computers, the officers had interrogated them, and uncovered that they were preparing to sell the stolen laptops with the help of three other persons in Panadura and Padukka areas, police said.
-
-...
-
-[Data](articles/d787ee39.json)
-
-[Extended Data](ext_articles/d787ee39.ext.json)
 
 ---

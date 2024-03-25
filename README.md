@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 01:51:25**
+As of **2024-03-26 02:04:09**
 
 ## Newspaper Stats
 
-*Scraped **15,137** Articles*
+*Scraped **15,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 137
 bbccomsinhala | 163
 dbsjeyarajcom | 191
 newsfirstlk | 363
-dailyftlk | 810
+dailyftlk | 813
 economynextcom | 818
 islandlk | 831
 adalk | 1,291
@@ -26,11 +26,55 @@ adaderanasinhalalk | 2,428
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,137 (100.0%) of 15,137 articles have been extended.
+15,137 (100.0%) of 15,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### Singer secures 18th consecutive ‘People’s Brand of the Year’ Award
+
+*2024-03-26 01:48:00* · [`dailyftlk`](https://www.ft.lk/business/Singer-secures-18th-consecutive-People-s-Brand-of-the-Year-Award/34-759943) · `en`
+
+Singer Sri Lanka PLC, has extended its streak of success by clinching the prestigious ‘People’s Brand of the Year’ Award for the 18th consecutive year at the SLIM-Kantar People’s Awards 2024, along with the ‘People’s Durables Brand of the Year’ Award at the ceremony, hosted by the Sri Lanka Institute of Marketing (SLIM).
+
+The Company said this remarkable feat reaffirms Singer’s supremacy in the consumer durables sector and its unwavering popularity across Sri Lanka.
+
+...
+
+[Data](articles/5600ff4a.json)
+
+---
+
+### Orzone Group makes history with drinking water exports to Sydney, Australia
+
+*2024-03-26 01:47:29* · [`dailyftlk`](https://www.ft.lk/business/Orzone-Group-makes-history-with-drinking-water-exports-to-Sydney-Australia/34-759942) · `en`
+
+Orzone Mineral Water Exports Ltd. recently exported 40 High-cube (HQ) containers of 600 millilitre (ml) drinking water bottles to Sydney, Australia, becoming the first ever Sri Lankan company to do so.
+
+The Company has been awarded an order to supply one million 600 ml water bottles to Sydney, Australia, and the recent import marked the initial phase of it. The Company started exporting water bottles to other parts of the world 30 years ago and has commenced exports to Australia with the aim of expanding the business.
+
+Their drinking water is in high demand internationally due to hygienic bottling of water and packaging of the bottles in accordance with local and internationally accepted standards and using latest technology. Over the past, the Company has been able to secure the trust of the international clients by delivering their orders on time.
+
+...
+
+[Data](articles/a3f21366.json)
+
+---
+
+### SLPG secures Sri Lanka’s largest rooftop solar project in collaboration with BPTL
+
+*2024-03-26 01:46:36* · [`dailyftlk`](https://www.ft.lk/business/SLPG-secures-Sri-Lanka-s-largest-rooftop-solar-project-in-collaboration-with-BPTL/34-759941) · `en`
+
+Sino Lanka Power Gen (Pvt) Limited (SLPG), an Orbital Energy company and a dynamic player in Sri Lanka’s renewable energy sector, has achieved a ground-breaking milestone by securing the largest rooftop solar project in the country’s history, for Best Pacific Textiles Lanka (Pvt) Limited (BPTL)., one of the world’s leading textile manufacturers, boasting a capacity of 6.3 MWp. This landmark project not only signifies SLPG’s prowess in the industry but also underscores its commitment to sustainability and cutting-edge technological solutions.
+
+BPTL stands out as a comprehensive textile manufacturer, offering diverse products including synthetic fabric and elastic. With a rich legacy of over 20 years in product and process excellence, BPTL has established itself as a joint venture between Best Pacific International Holdings Ltd and Brandix Lanka Limited.
+
+...
+
+[Data](articles/4e903fdf.json)
+
+---
 
 ### Maithri should be arrested under the Prevention of Terrorism - Udaya Kammanpila
 
@@ -2187,77 +2231,5 @@ He pointed out that the increase in prices of liquor is the reason for the restr
 [Data](articles/eba50991.json)
 
 [Extended Data](ext_articles/eba50991.ext.json)
-
----
-
-### A group of students clash in private educational institution
-
-*2024-03-25 14:57:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்-கல்வி-நிறுவனத்தில்-மாணவர்கள்-குழு-மோதல்/175-335156) · `ta`
-
-A clash at a private institute in Pakmuwa-Pakmigolla left nine injured, with three at Kurunegala Teaching Hospital, four at Polgola Divisional Hospital, and the cause is under investigation.
-
-🟩
-
-Nine people have been admitted to the hospital in a clash between students of a private educational institute in the Pakmuwa -Pakmigolla area.
-
-It is reported that the clash took place last night (24) at a private private institution.
-
-03 male students have been admitted to the Kurunegala Teaching Hospital, 04 students and a student of Polgola Divisional Hospital.
-
-The cause of the clash has not yet been identified, and the Koralla police are conducting further investigations.
-
-◼️
-
-[Data](articles/5ce87a7d.json)
-
-[Extended Data](ext_articles/5ce87a7d.ext.json)
-
----
-
-### Heavy rains exceeding 100 ml miters tomorrow
-
-*2024-03-25 14:54:19* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-මිලි-මිටර්-100-ඉක්මවූ-තද-වැසි/11-408788) · `si`
-
-Tomorrow, heavy rains exceeding 100 ml meters are expected in Polonnaruwa, Uva provinces, and parts of Western, Sabaragamuwa, Southern, and Central provinces. Thundershowers may develop, with a possibility of heavy showers in the Southern Province and Moneragala District.
-
-🟩
-
-The Department of Meteorology says that several showers can occur in the Polonnaruwa District and tomorrow in the Uva provinces.
-
-Thundershowers will develop at several places in the Western, Sabaragamuwa, Southern and Central provinces.
-
-The Department is informed that there is a possibility of heavy showers at more than 100 millisefare at some places in the Southern Province and Moneragala District.
-
-◼️
-
-[Data](articles/62f9fb12.json)
-
-[Extended Data](ext_articles/62f9fb12.ext.json)
-
----
-
-### Students arrested for stealing laptops
-
-*2024-03-25 14:53:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மடிக்கணினிகளை-திருடிய-மாணவர்கள்-கைது/175-335155) · `ta`
-
-Five, including two students, arrested for stealing 12 laptops from a school in Beruwala. Laptops stolen on Boya Day last February.
-
-🟩
-
-Beruwala police said that five persons, including two students from the same school who broke the smart classroom of a school in Beruwala and stole 12 laptops, have been arrested today (25).
-
-Two students of 16 -year -old students who are sitting for the GCE Ordinary Level examination next year and three persons living in Panadura and Padukka areas have been arrested, police said.
-
-Police said that laptops were stolen on Boya Day last February.
-
-The suspects have been arrested after investigations carried out following reports that two schoolchildren were trying to sell laptops.
-
-In addition, 12 stolen laptops have been seized by the police as they were hidden in the Paduka area.
-
-◼️
-
-[Data](articles/305e1360.json)
-
-[Extended Data](ext_articles/305e1360.ext.json)
 
 ---

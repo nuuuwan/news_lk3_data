@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 09:52:48**
+As of **2024-03-25 10:03:33**
 
 ## Newspaper Stats
 
-*Scraped **14,951** Articles*
+*Scraped **14,960** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,54 +17,194 @@ dailyftlk | 806
 islandlk | 831
 adalk | 1,271
 tamilmirrorlk | 1,798
-adaderanalk | 1,800
-virakesarilk | 2,090
-dailymirrorlk | 2,302
-adaderanasinhalalk | 2,400
+adaderanalk | 1,801
+virakesarilk | 2,092
+dailymirrorlk | 2,307
+adaderanasinhalalk | 2,401
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,947 (100.0%) of 14,951 articles have been extended.
+14,951 (99.9%) of 14,960 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### சிஐடியில் இன்று  முன்னிலையாகவுள்ள முன்னாள் ஜனாதிபதி
+### Cabinet approval granted to digitize the foreign employment sector
+
+*2024-03-25 09:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-approval-granted-to-digitize-the-foreign-employment-sector/108-279520) · `en`
+
+Colombo, March 25 (Daily Mirror) - The entire operations of Foreign Employment would be digitized soon, where migrant workers can coordinate via an app, Labour and Foreign Employment Minister Manusha Nanayakkara said yesterday.
+
+He said that cabinet approval has been granted in this regard.
+
+He was speaking to journalists in Matale on the sidelines of the Jayagamu Sri Lanka Programme yesterday.
+
+This would make the Foreign Employment Bureau thwart unnecessary interference and handle illegal activities effectively.
+
+He said that this would also help eliminate traffickers and fraudsters from the foreign employment sector, and would improve communications between migrant workers and authorities.
+
+“When the sector is digitized it will encompass everything from the affairs at the embassy, to the recruitment of employees and the SLBFE.
+
+...
+
+[Data](articles/4010a4e8.json)
+
+---
+
+### மாணவன் திடீர் சுகவீனமடைந்து மரணம் ; களனி பல்கலைக்கழகத்தில் ஆர்ப்பாட்டம்
+
+*2024-03-25 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179613) · `ta`
+
+களனி பல்கலைக்கழகத்தின் வளாகத்தில் இன்று திங்கட்கிழமை (25)  காலை மாணவர்கள் ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ளனர்.
+
+சக மாணவர் ஒருவர் திடீர் சுகவீனமடைந்து உயிரிழந்தமையையடுத்து எதிர்ப்புத் தெரிவித்து குறித்த மாணவர்கள்  ஆர்ப்பாட்டத்தில் ஈடுப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/57e6d989.json)
+
+---
+
+### ඊශ්‍රායල් රැකියා මවා මුදල් ගැරූ හොර දොස්තර දැලේ
+
+*2024-03-25 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194900) · `si`
+
+කම්කරු හා විදේශ රැකියා අමාත්‍යාංශයේ ඉහළ නිලධාරීන්ගේ නම් භාවිතා කරමින් ඊශ්‍රායලයේ කෘෂිකාර්මික අංශයේ රැකියා ලබා දෙන බව පවසා මුදල් වංචා කළ පුද්ගලයකු අත්අඩංගුවට ගෙන තිබේ.
+
+ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිලධාරීන් විසින් එම පුද්ගලයාව අත්අඩංගුවට ගත් බව එම කාර්යාංශය නිවේදනය කරයි.
+
+අදාළ පුද්ගලයා කොළඹ 07, විජේරාම මාවතේ පදිංචිකරුවෙකු වන අතර, ඔහු වෛද්‍යවරයෙකු ලෙස ද පෙනී සිට ඇත.
+
+මුදල් ලබාගැනීම සඳහා සැකකරු නාරාහේන්පිට විදේශ රැකියා අමාත්‍යාංශයට හා විදේශ සේවා නියුක්ති කාර්යාංශයටද පුද්ගලයන් කැඳවා තිබේ.
+
+සැකකරු මෙසේ පුද්ගලයන් 9 දෙනෙකුගෙන් රුපියල් 7,650,000ක් වංචා කර ඇති බව විමර්ශනවලදී හෙළි වී ඇති අතර මොහුට මුදල් ලබාදුන් පුද්ගලයකු විසින් කරන ලද පැමිණිල්ලක් අනුව කම්කරු හා විදේශ රැකියා අමාත්‍යාංශයේදී මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබිණි.
+
+සැකකරු කොළඹ අංක 5, මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව අප්‍රේල් මස 03 වෙනිදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට මහෙස්ත්‍රාත්වරයා නියෝග කර තිබේ.
+
+...
+
+[Data](articles/9376bbb4.json)
+
+---
+
+### Kelaniya University students stage protest over death of student
+
+*2024-03-25 09:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98182/kelaniya-university-students-stage-protest-over-death-of-student) · `en`
+
+A group of students at the Kelaniya University are staging a protest in front of the the university administrative building over the death of a student due to a sudden illness.
+
+It is reported that a fourth year student of the Kelaniya University had passed away last night (24) after being hospitalised due to sudden illness.
+
+However, the university students allege that the hospitalisation of the student in question was delayed due to the absence of an ambulance facility or other vehicle in the university premises to admit the concerned student to the hospital.
+
+Accordingly, it is reported that around 150 students have launched a protest in front of the university administrative building.
+
+◼️
+
+[Data](articles/b502d571.json)
+
+---
+
+### வேலையில்லா பிரச்சினை 4.3 சத வீதமாக குறைவு
+
+*2024-03-25 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179612) · `ta`
+
+நாட்டில் கடந்த ஆண்டின் இறுதி காலாண்டில் வேலையில்லா பிரச்சினை 4.3 சதவீதமாக வீழ்ச்சியடைந்துள்ளது.
+
+இது மூன்றாம் காலாண்டு வளர்ச்சியை விட மூன்று மடங்கு அதிகமாகும். சனத்தொகை கணக்கெடுப்பு மற்றும்  தொகைமதிப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் வெளியிட்டுள்ள தகவல்கள் இவ்வாறு தெரிவிக்கின்றன.
+
+2022 ஆம் ஆண்டின் முற்பகுதியில் காணப்பட்ட அந்நிய செலாவணி தட்டுப்பாட்டிலிருந்து நாடு மீண்டு வருவம் நிலையில்,  கடந்த வருடத்தின் மூன்றாம் காலாண்டில் 1.6 சதவீதமாக இருந்த நாட்டின் மொத்த உள்நாட்டு உற்பத்தி கடந்த ஆண்டின் நான்காம் காலாண்டில் 4.5 சதவீதமாக விரிவடைந்துள்ளது.
+
+◼️
+
+[Data](articles/2ef86cc3.json)
+
+---
+
+### Former President Sirisena to appear before CID today
+
+*2024-03-25 09:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-President-Sirisena-to-appear-before-CID-today/108-279516) · `en`
+
+Colombo, March 25 (Daily Mirror) - Former President Maithripala Sirisena is scheduled to appear before the Criminal Investigation Department today (25).
+
+The former President had been summoned to the Criminal Investigation Department (CID) at 10.30 a.m. today to record a statement.
+
+Public Security Minister Tiran Alas instructed the Inspector General of Police (IGP) to conduct an urgent investigation over the statement made by the former President in Kandy recently that he knew the people involved in the Easter Sunday that took place on 21 April 2019.
+
+◼️
+
+[Data](articles/0dabe194.json)
+
+---
+
+### Former President in CIT today
 
 *2024-03-25 09:29:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிஐடியில்-இன்று-முன்னிலையாகவுள்ள-முன்னாள்-ஜனாதிபதி/175-335134) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன, குற்றப் புலனாய்வு திணைக்களத்தில்  இன்று (25) முன்னிலையாகவுள்ளார்.
+Former President Maithripala Sirisena will testify at the Criminal Investigation Department today, following his awareness of the Easter Sunday attack. Public Security Minister Tran Ales has ordered an emergency inquiry.
 
-ஈஸ்டர் ஞாயிறு தாக்குதலில் ஈடுபட்டவர்கள் தொடர்பில்  தனக்கு தெரியும் என கண்டியில் வைத்து  மைத்திரிபால சிறிசேன அண்மையில் கருத்து வெளியிட்டிருந்தார்.
+🟩
 
-குறித்த அறிக்கை தொடர்பில் அவசர விசாரணைகளை மேற்கொள்ளுமாறு பொது பாதுகாப்பு அமைச்சர் டிரான் அலஸ் பொலிஸ் மா அதிபருக்கு பணிப்புரை விடுத்தார்.
+Former President Maithripala Sirisena will appear before the Criminal Investigation Department today (25).
 
-இதன்படி, வாக்குமூலம் ஒன்றை பதிவு செய்வதற்காக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன இன்று காலை 10.30 மணியளவில் குற்றப் புலனாய்வு திணைக்களத்திற்கு அழைக்கப்பட்டுள்ளார்.
+Maithripala Sirisena recently commented in Kandy that he was aware of the Easter Sunday attack.
+
+Public Security Minister Tran Ales has directed the Inspector General of Police to conduct an emergency inquiry into the report.
+
+Accordingly, former President Maithripala Sirisena has been summoned to the Criminal Investigation Department at 10.30 am today to record a statement.
 
 ◼️
 
 [Data](articles/236a8ee6.json)
 
+[Extended Data](ext_articles/236a8ee6.ext.json)
+
 ---
 
-### තීරණාත්මක සාකච්ඡා කිහිපයකට අගමැති චීනයට
+### Prime Minister leaves for China on five-day official visit
+
+*2024-03-25 09:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prime-Minister-leaves-for-China-on-five-day-official-visit/108-279515) · `en`
+
+Prime Minister Dinesh Gunawardena left for China last night for a five-day official visit, airport sources said.
+
+They said the Prime Minister had agreed to visit the country on the special invitation of the Chinese government.
+
+During this visit, an agreement is to be reached on the restructuring of the loans given to Sri Lanka by China, whose payments have been suspended.
+
+10 other Sri Lankan delegations have joined the Prime Minister for this visit.
+
+The Prime Minister and his group departed from the Bandaranaike International Airport (BIA) on China Eastern Airlines flight MU-232 at 8.20 p.m. last evening.
+
+◼️
+
+[Data](articles/ed975317.json)
+
+---
+
+### Prime Minister to China for crucial discussions
 
 *2024-03-25 09:25:42* · [`adalk`](https://www.ada.lk/breaking_news/තීරණාත්මක-සාකච්ඡා-කිහිපයකට-අගමැති-චීනයට/11-408775) · `si`
 
-අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා පස් දින නිල සංචාරයක් සඳහා චීනය බලා ඊයේ (24දා) රාත්‍රී පිටත්ව ගිය බව කටුනායක ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා පැවසීය.
+Prime Minister Dinesh Gunawardena of Sri Lanka visited China for crucial discussions, including debt restructuring, accompanied by a delegation.
 
-ශ්‍රී ලංකා අග්‍රාමාත්‍යවරයා චීන රජයේ අග්‍රාමාත්‍යවරයාගේ විශේෂ ආරාධනය පරිදි එරට සංචාරය සදහා එක් වී ඇති අතර , මෙම සංචාරය අතරතුර ශ්‍රී ලංකාවට චීනය විසින් ලබා දී ඇති, දැනට ගෙවීම් අත්හිහිටුවා ඇති ණය ප්‍රතිව්‍යුහගත කිරීම පිළිබඳ එකගතා ඇති කර ගැනීමට නියමිතය.
+🟩
 
-අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා සමග ශ්‍රී ලංකා දූත පිරිස ලෙස තවත් 10 දෙනෙකු ද මෙම සංචාරය සඳහා එක් වී සිටින බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා වැඩිදුරටත් පැවසීය.
+Prime Minister Dinesh Gunawardena said that China was traveling on a five-day official visit yesterday (24), Katunayake Airport Officer said.
 
-මෙම ශ්‍රී ලංකා අග්‍රාමාත්‍යවරයා ඇතුළු පිරිස 03/24 දින රාත්‍රී 08.20 ට චයිනා ඊස්ටන් ගුවන් සේවයේ එම්.යූ.- 232 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ සිට චීනය බලා පිටත්ව ගොස් තිබුණි.
+The Prime Minister of Sri Lanka has joined the tour of the Prime Minister of China, and China is due to restructuring the restructuring of the restructuring debt.
+
+The airport work officer said that as the Sri Lankan delegation, as the Sri Lankan delegation with Prime Minister Dinesh Gunawardena, has joined the visit.
+
+The Prime Minister of Sri Lanka (Prime Minister) and the chinahston Airlines at the Chaina Eastern Airlines had left from Katunayake from Katunayake airplane.
 
 ◼️
 
 [Data](articles/dc765805.json)
+
+[Extended Data](ext_articles/dc765805.ext.json)
 
 ---
 
@@ -122,23 +262,51 @@ Two accused have been accepted by the courts.
 
 ---
 
-### මෛත්‍රී අද සී.අයි.ඩීයට
+### Showers expected at several places in the country this evening
+
+*2024-03-25 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Showers-expected-at-several-places-in-the-country-this-evening/108-279514) · `en`
+
+Colombo, March 25 (Daily Mirror) - Showers will occur at several places in the Western, Sabaragamuwa, Southern, and Central Provinces during the afternoon or night, the forecasting division of the National Meteorological Centre said.
+
+Meanwhile, several spells of showers may occur in the Eastern and Uva Provinces and in the Polonnaruwa district.
+
+However, misty conditions can be expected at some places in the Central, Sabaragamuwa and Uva Provinces and in the Kalutara, Galle and Matara districts during the morning.
+
+Moreover, showers will occur at a few places in the sea areas off the coast, extending from Trincomalee to Hambantota via Batticaloa.
+
+Showers or thundershowers may occur at a few places in the sea areas off the coast, extending from Colombo to Hambantota via Galle, during the afternoon or night.
+
+Wind speed may increase up to 40 kmph at times in the sea areas off the coasts extending from Puttalam to Kankesanthurai via Mannar.
+
+...
+
+[Data](articles/cfe6db76.json)
+
+---
+
+### Maithri to CID today
 
 *2024-03-25 08:16:42* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-අද-සී-අයි-ඩීයට/11-408774) · `si`
 
-පාස්කුදා ශ්‍රි ලංකාවට එල්ල වූ මරාගෙන මැරෙන ප්‍රහාර මාලාව සිදුකළ පුද්ගලයන් කවුදැයි තමන් දන්නා බවට හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා සිදුකළ ප්‍රකාශය ගැන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ප්‍රකාශයක් ගැනීමට කටයුතු කර තිබේ.
+Maithripala Sirisena informed CID today about his knowledge of the Paska suicide attacks. Tiran Alles, Defense Minister, is leading an immediate investigation.
 
-ඒ අනුව එම ප්‍රකාශය සටහන් කර ගැනීම සඳහා මෛත්‍රීපාල සිරිසේන මහතාට අද (25) පෙරවරු 10.30  ට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණෙන ලෙස දන්වා තිබේ.
+🟩
 
-පාස්කු ඉරිදා ප්‍රහාරයට සම්බන්ධ පුද්ගලයන් සත්‍ය වශයෙන්ම තමා දන්නා බවට හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ඉකුත් දා (22)  මහනුවරදී පැවැති උත්සවයකට සහභාගිවීමෙන් අනතුරුව මාධ්‍යයට  ප්‍රකාශයක් සිදුකර තිබිණ.
+The Criminal Investigations Department (CID) has made a statement regarding the statement made by former President Maithripala Sirisena that he knew who had committed suicide attacks on Paska.
 
-එම ප්‍රකාශය සම්බන්ධයෙන් වහාම විමර්ශනයක් සිදු කරන්නැයි මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාට  උපදෙස් දී ඇති අතර ඵ්  අනුව පොලිස්පතිවරයා එම ප්‍රකාශය සම්බන්ධයෙන් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගෙන් ප්‍රකාශයක් සටහන් කර ගන්නා ලෙස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට නියෝග කර ඇත.
+Accordingly, Maithripala Sirisena has informed the CID at 10.30 am today.
 
-ඵ් අනුව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා  අද  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පෙනී සිටීමට නියමිතය.
+Former President Maithripala Sirisena had made a statement to the media after he was actually aware of the Easter attack on Easter.
+
+The Minister of Defense Tiran Alles has been instructed to conduct an immediate investigation into the statement.
+
+Former President Maithripala Sirisena is expected to appear in the Criminal Investigation Department today.
 
 ◼️
 
 [Data](articles/21d9fc9e.json)
+
+[Extended Data](ext_articles/21d9fc9e.ext.json)
 
 ---
 
@@ -342,6 +510,24 @@ The new UPFA is working to support the present President Ranil Wickremesinghe.
 
 ### Govt. to enact law to safeguard IMF programme amid political uncertainty
 
+*2024-03-25 06:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Govt-to-enact-law-to-safeguard-IMF-programme-amid-political-uncertainty/155-279511) · `en`
+
+Colombo, March 25 (Daiy Mirror) - Amid fears that the current programme with the International Monetary Fund (IMF) will be derailed in case of a regime change, the government is planning to enact an economic transformation law to ensure sustainability of the project despite political changes, a minister said yesterday.
+
+The International community, particularly the Western countries, has emphasized the importance of continuity with the the economic reform programme supported by a 4-year Extended Fund Facility (EFF) arrangement.
+
+The EFF arrangement was approved by the IMF Executive Board for a total amount of US$3 billion on March 20, 2023.
+
+The IMF which included the latest mission said the authorities are making good progress in implementing an ambitious reform agenda under the EFF with commendable outcomes, including rapid disinflation, robust reserve accumulation, and initial signs of economic growth while preserving the stability of the financial system.
+
+...
+
+[Data](articles/97708919.json)
+
+---
+
+### Govt. to enact law to safeguard IMF programme amid political uncertainty
+
 *2024-03-25 06:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-to-enact-law-to-safeguard-IMF-programme-amid-political-uncertainty/108-279511) · `en`
 
 Colombo, March 25 (Daiy Mirror) - Amid fears that the current programme with the International Monetary Fund (IMF) will be derailed in case of a regime change, the government is planning to enact an economic transformation law to ensure sustainability of the project despite political changes, a minister said yesterday.
@@ -468,21 +654,31 @@ The recently concluded 10th National Scout Jamboree in Trincomalee, Sri Lanka, 
 
 ---
 
-### මෛත්‍රීපාල සිරිසේන: ‘පාස්කු ප්‍රහාරකයින් ගැන දැනගෙන තොරතුරු වසන් කිරීම දඬුවම් ලැබිය යුතු වරදක්’
+### Maithripala Sirisena: "Knowing the Passover attacker and cover up information
 
 *2024-03-25 03:08:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/czkzg149l4do) · `si`
 
-මෛත්‍රීපාල සිරිසේන: ‘පාස්කු ප්‍රහාරකයින් ගැන දැනගෙන තොරතුරු වසන් කිරීම දඬුවම් ලැබිය යුතු වරදක්’
+Former President Maithripala Sirisena claimed knowledge of the Passover attacker, sparking controversy. He accused the judiciary of covering up the truth. The Minister of Defense ordered an investigation into Sirisena's statement. The Criminal Investigation Department is set to question him.
 
-පාස්කු ප්‍රහාරය යළිත් වරක් ශ්‍රී ලංකාව තුළ දැඩි කතාබහකට මාතෘකාවක් වී තිබේ.
+🟩
 
-ඒ, තවත් දින කිහිපයකදී පාස්කු ප්‍රහාරය එල්ල වී වසර 5ක් සම්පූර්ණ වීමට නියමිතව තිබීම හේතුවෙන් නම් නොවේ. සිකුරාදා (මාර්තු 22) හිටපු ජනපති මෛත්‍රීපාල සිරිසේන කළ ආන්දෝලනාත්මක ප්‍රකාශයක් හේතුවෙනි.
+Maithripala Sirisena: "Knowing the Passover attacker and cover up information
 
-වසර ගණනාවක් පුරා විවිධ කොමිෂන් සභාවලට සාක්ෂි දෙමින්, විවිධ නඩු විභාගවලට මුහුණ දෙමින් සිටි මෛත්‍රීපාල සිරිසේන හදිසියේ සිකුරාදා දිනයේ ප්‍රකාශ කළේ, පාස්කු ප්‍රහාරය එල්ල කළේ කවුරුන් ද යන්න තමන් දන්නා බව ය.
+The Passover attack has once again a title in Sri Lanka.
+
+It is not due to the Passover attack on the Passover attack on another few days. Former President Maithripala Sirisena has a controversial statement of former President Maithripala Sirisena.
+
+Maithripala Sirisena, who was constantly testified to various commissions, said he was aware of who was launched by the Passover attack.
+
+"We know where the Passover attack we know. It was right by the terrorists who have arrested those cases. It is the ones whom I am invented by a three-member panel of judges. On the other hand, no one else had known who made the Passover attack truely. But I know who I did. If I demand a court urge or order, I'm ready to make a statement and make it ready, who made this Passover attack. The other thing is that it is the responsibility of the Judges mainly, mainly, "he said.
+
+This statement has already been created.
 
 ...
 
 [Data](articles/5dd85f7a.json)
+
+[Extended Data](ext_articles/5dd85f7a.ext.json)
 
 ---
 
@@ -1993,219 +2189,5 @@ The body of a man who is believed to have died suspiciously in the jungle area o
 [Data](articles/951b3ffe.json)
 
 [Extended Data](ext_articles/951b3ffe.ext.json)
-
----
-
-### Bangladesh a target of 511 runs
-
-*2024-03-24 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194881) · `si`
-
-In the first Test, Sri Lanka scored 418 runs, losing all wickets in the second innings. Kamindu Mendis scored 164 runs, and Dhananjaya De Silva scored his 12th Test century with 108 runs. Sri Lanka's first innings total was 280 runs, and Bangladesh scored 188 runs in their first innings, leading to a Bangladesh total of 511 runs.
-
-🟩
-
-Sri Lanka scored 418 runs for the loss of all of the second innings in the first Test against Bangladesh.
-
-Sri Lankan nineteen women who played a premier innings recorded the second century in Test.
-
-Kamindu Mendis scored 164 runs with six sixes and 16 fours.
-
-Dhananjaya De Silva, who played a leadership innings, scored his 12th Test century today.
-
-Dhananjaya took 2 sixes and nine fours, which scored 108 runs.
-
-Kumindu Mendis and Dananjaya Silva also scored a century in the first innings.
-
-During his bowling, Hassan Miras took 4 wickets for 74 runs.
-
-Sri Lanka scored 280 runs for the loss of all bowled out for the first innings, and Bangladesh scored 188 runs for the first innings.
-
-Accordingly, Bangladesh scored 511 runs in the first Test.
-
-◼️
-
-[Data](articles/7c47ea8a.json)
-
-[Extended Data](ext_articles/7c47ea8a.ext.json)
-
----
-
-### Breakfast for students from tomorrow
-
-*2024-03-24 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/179587) · `ta`
-
-The Ministry of Education will provide breakfast for students from Grade 1 to 5, from 7.30 am to 8.30 am, with 1.6 million students benefiting from 9,134 schools. The government will spend 16.6 billion rupees on this initiative, focusing on nutrition and hygiene.
-
-🟩
-
-The Ministry of Education has organized the main breakfast for minors from the initial section to the Grade five.
-
-Breakfast is arranged for breakfast from 7.30 am to 8.30 pm on the advice of nutritionists.
-
-The Ministry of Education is focused on maintaining the food system at nutrition and hygiene in the food scheme and the government will spend 16.6 billion rupees for this.
-
-It is said that 1.6 million schoolchildren will benefit from the primary class students from 9,134 government schools and less than 100 students.
-
-The government has allocated 16,600 million rupees directly to the nine provincial councils for this project.
-
-◼️
-
-[Data](articles/a133af9e.json)
-
-[Extended Data](ext_articles/a133af9e.ext.json)
-
----
-
-### Primary sector school children from tomorrow
-
-*2024-03-24 15:49:00* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රාථමික-අංශයේ-පාසල්-දරුවන්ට-හෙට-සිට-ආහාර-වේලක්/11-408771) · `si`
-
-The Ministry of Education will provide major meals to all primary school children in 9,134 grades, sponsored by the World Food Program and the US Department of Agriculture with Rs 16,600 million.
-
-🟩
-
-The Ministry of Education stated that the program will be implemented to provide a major meal from the recommendation of all students of the country and to provide a major meal in 9,134 primary grades in 9,134 primary grades.
-
-The World Food Program and the US Department of Agriculture have sponsored a sum of Rs 16,600 million to the Provincial Councils.
-
-◼️
-
-[Data](articles/a03f88f4.json)
-
-[Extended Data](ext_articles/a03f88f4.ext.json)
-
----
-
-### 300 abducted school children released
-
-*2024-03-24 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194880) · `si`
-
-Nearly 300 school children in Nigeria released, cited by Governor of Kadanaya. Abducted in March, ransom demands followed.
-
-🟩
-
-Foreign media reports that nearly 300 school children have been released from a school in Nigeria.
-
-This has been reported from citing the Governor of Kadanaya Kadanaya.
-
-The Governor added that the children had returned to her.
-
-The Governor thanked the Governor to Tissanbu, who continued to work hard to save children.
-
-The students had been abducted by a arbitrator who had come from motorbikes at the beginning of March.
-
-A few incidents of knigia have been reported from the last days with the purpose of ransom.
-
-◼️
-
-[Data](articles/ed9fc6c8.json)
-
-[Extended Data](ext_articles/ed9fc6c8.ext.json)
-
----
-
-### TTD executive officer to visit Sri Lanka to finalise site for Srivari temple
-
-*2024-03-24 15:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98172/ttd-executive-officer-to-visit-sri-lanka-to-finalise-site-for-srivari-temple) · `en`
-
-Tirumala Tirupati Devasthanams (TTD) executive officer (EO) AV Dharma Reddy is set to visit Sri Lanka to finalise the site where a temple of Lord Venkateswara Swamy will be built. He will leave for the island nation on March 29 and is expected to stay there for four to five days. He will also establish a permanent setup of the temple administration.
-
-According to senior TTD officials, a Sri Lanka-based Trust had approached the Union government through the Government of Sri Lanka, seeking help in the construction of a massive Hindu temple of Lord Venkateswara in their country.
-
-The TTD was apprised of the matter. Subsequently, the Temple Trust approved the construction of the temple in Colombo in a step towards disseminating Hindu dharma.
-
-Dharma Reddy was scheduled to leave for Sri Lanka on March 2, but it was postponed to March 26 and later to March 29, due to some administrative reasons. End of the financial year is often hectic for the Srivari Trust.
-
-...
-
-[Data](articles/58a232e4.json)
-
-[Extended Data](ext_articles/58a232e4.ext.json)
-
----
-
-### Food for school children from tomorrow
-
-*2024-03-24 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194879) · `si`
-
-The Ministry of Education will launch a program tomorrow to provide a major meal to all school children in grades 1-5, covering 9,134 state and low schools. The initiative, funded by 16.6 billion, includes recommendations from nutritionists and support from organizations like the World Food Program and the US Department of Agriculture.
-
-🟩
-
-The Ministry of Education says that the main meal of all school children in the country will be launched tomorrow (25) to provide a major meal to all school children in the country from grade 1 to five.
-
-The Ministry of Education stated that these diet is to be provided with the recommendations of the nutritionists.
-
-The program is to be implemented covering all schools in 9,134 state schools and all schools with low schools.
-
-16,600 million has been allocated directly to the Provincial Councils and several organizations including the World Food Program and several organizations including the US Department of Agriculture.
-
-◼️
-
-[Data](articles/f88cf3ad.json)
-
-[Extended Data](ext_articles/f88cf3ad.ext.json)
-
----
-
-### Mcdonald's restaurants are prohibited
-
-*2024-03-24 14:48:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/McDonald-s-உணவகங்கள்-இயங்கத்-தடை/175-335099) · `ta`
-
-The Colombo Business High Court banned 12 MCDONALD's restaurants in Colombo and suburbs due to a complaint about conflicting agreements. Many social media users reported the restaurants' closure and removal of name boards.
-
-🟩
-
-The Colombo Business High Court has issued a ban on 12 restaurants operating in Colombo and its suburbs under the name of MCDONALD's trading.
-
-The ban has been issued following a complaint that the resource company complained about the conflict in their agreements.
-
-It is noteworthy that many of the social media users have posted that McDonald's restaurants have been closed and the name boards have been removed.
-
-◼️
-
-[Data](articles/89746152.json)
-
-[Extended Data](ext_articles/89746152.ext.json)
-
----
-
-### Mcdonald's prohibition on running?
-
-*2024-03-24 14:48:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/McDonald-s-இயங்கத்-தடை/175-335099) · `ta`
-
-The Colombo Business High Court banned 12 MCDONALD's restaurants in Colombo and suburbs due to a complaint about conflicting agreements. Many restaurants have closed, and name boards have been removed.
-
-🟩
-
-The Colombo Business High Court has issued a ban on 12 restaurants operating in Colombo and its suburbs under the name of MCDONALD's trading.
-
-The ban has been issued following a complaint that the resource company complained about the conflict in their agreements.
-
-It is noteworthy that many of the social media users have posted that McDonald's restaurants have been closed and the name boards have been removed.
-
-◼️
-
-[Data](articles/b4a899a2.json)
-
-[Extended Data](ext_articles/b4a899a2.ext.json)
-
----
-
-### Colombo HC prevents Abans using McDonald’s brand name
-
-*2024-03-24 14:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Colombo-HC-prevents-Abans-using-McDonalds-brand-name/155-279479) · `en`
-
-Colombo, March 24 (Daily Mirror) - The Colombo Commercial High Court issued an  enjoining order preventing Rusi Pestonjee, Managing Director of Abans PLC or his servants from in any way or manner to use the name McDonald’s or any name in any way or manner similar to the name McDonald’s.
-
-Comercial High Court Judge Sumith Perera further issued an enjoining order preventing Rusi Pestonjee from selling McDonald’s food and menu items in respect of restaurants in Kotahena,  Nugegoda, Kiribathgoda, Battaramulla, Kollupitiya, Rajagiriya, Welisara, Mount Lavinia, Colombo City Centre, Macleod Road restaurant and Shangri-La restaurant.
-
-The Commercial High Court made this order consequent to a lawsuit filed by McDonald’s Corporation, a duly incorporated body in the United States of America  which sought court's jurisdiction under the provisions of the Intellectual Property Act, No. 36 of 2003.
-
-...
-
-[Data](articles/35a21649.json)
-
-[Extended Data](ext_articles/35a21649.ext.json)
 
 ---

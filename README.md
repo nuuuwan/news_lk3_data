@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 02:18:15**
+As of **2024-03-26 02:33:30**
 
 ## Newspaper Stats
 
-*Scraped **15,140** Articles*
+*Scraped **15,145** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 137
 bbccomsinhala | 163
 dbsjeyarajcom | 191
 newsfirstlk | 363
-dailyftlk | 813
+dailyftlk | 818
 economynextcom | 818
 islandlk | 831
 adalk | 1,291
@@ -26,11 +26,113 @@ adaderanasinhalalk | 2,428
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,140 (100.0%) of 15,140 articles have been extended.
+15,140 (100.0%) of 15,145 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### Justice Minister assures no election postponement amid electoral amendments
+
+*2024-03-26 02:19:44* · [`dailyftlk`](https://www.ft.lk/news/Justice-Minister-assures-no-election-postponement-amid-electoral-amendments/56-759952) · `en`
+
+Says proposed amendments aim to combat corruption, reform electoral system
+
+Points to historical promises since 1994 to address corruption, electoral system reform yet to be fulfilled
+
+Proposes for Senate system to enhance representation in electoral process, draw examples from other countries
+
+Calls on candidates participating in upcoming polls to engage in discussions on proposed amendments for public input
+
+Justice, Prison Affairs and Constitutional Reforms Minister Dr. Wijeyadasa Rajapakshe has reassured the public that the election amendment bills presented to Parliament are not expected to lead to any postponement of elections.
+
+Addressing journalists at the Presidential Media Centre, the Minister highlighted the Government’s commitment to combat corruption and reform the electoral system.
+
+He noted that President Ranil Wickremesinghe has already submitted amendments aimed at tackling corruption and implementing a proportional election system.
+
+...
+
+[Data](articles/b1f038eb.json)
+
+---
+
+### Marikkar criticises Sirisena’s Easter Sunday claims as political gambit
+
+*2024-03-26 02:18:30* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-criticises-Sirisena-s-Easter-Sunday-claims-as-political-gambit/56-759951) · `en`
+
+Raises doubts about timing of the statement with Parliamentary elections on the horizon
+
+Says cannot permit anyone to toy with victim’s lives and stresses leaders have a responsibility to deliver justice
+
+Stresses Sirisena’s statement should not be taken lightly and must be thoroughly investigated
+
+Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday voiced scepticism regarding the recent statement made by former President Maithripala Sirisena regarding the Easter Sunday terror attacks, suggesting it might be a mere political manoeuvre.
+
+Speaking at a press conference in Colombo, Marikkar raised doubts about the timing of the statement, especially with parliamentary elections on the horizon.
+
+On 22 March, Sirisena expressed his readiness to disclose the true masterminds behind the Easter Sunday terror attack of 2019 if directed by the Court. The former President claimed to personally possess this information. He appeared before the CID yesterday to provide a statement regarding his claim.
+
+...
+
+[Data](articles/91923421.json)
+
+---
+
+### Presidential poll expected after 17 July - G.L
+
+*2024-03-26 02:17:30* · [`dailyftlk`](https://www.ft.lk/news/Presidential-poll-expected-after-17-July-G-L/56-759950) · `en`
+
+Says Presidential election must take place this year and cannot be deferred for any reason
+
+Claims constitutional and legislative constraints will not allow alterations or postponements
+
+Dispels any doubts public may have on holding of Presidential polls this year
+
+Freedom People’s Congress (FPC) member Prof. G.L Peiris highlighted yesterday that the Election Commission of Sri Lanka (ECSL) must officially announce the Presidential election after 17 July.  “Following that, the ECSL can accept nominations within a window of 16 to 21 days,” he said during a press conference in Colombo.
+
+Peiris emphasised that the Presidential election must take place this year and cannot be deferred for any reason. According to Peiris, the upcoming Presidential election therefore must be held between 17 September and 17 October.
+
+...
+
+[Data](articles/74f1dedc.json)
+
+---
+
+### Siyambalapitiya assures timely payment to public sector employees
+
+*2024-03-26 02:16:38* · [`dailyftlk`](https://www.ft.lk/news/Siyambalapitiya-assures-timely-payment-to-public-sector-employees/56-759949) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya assured that the Government is committed to ensuring timely salary payments for all public sector employees and implementing relief measures for low-income families.
+
+“The increased sum of Rs. 10,000 for public servants will be incorporated into their April salaries as outlined in the 2024 Budget proposals,” he told Journalists in Ruwanwella.  He said measures are underway to make the payment before 10 April.
+
+Highlighting the Government’s efforts to alleviate the financial burden on low-income families, Siyambalapitiya revealed plans to distribute rice to 2.8 million low-income families during April and May. Each family will receive 10 kilos of rice in both months, providing essential sustenance and relief during challenging times. He assured that 10 kilograms of rice allocated for next month would be distributed before 10 April.
+
+...
+
+[Data](articles/4d4d6e0b.json)
+
+---
+
+### Cabinet approves digitising foreign employment sector: Manusha
+
+*2024-03-26 02:15:28* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-digitising-foreign-employment-sector-Manusha/56-759948) · `en`
+
+Amendments to SLBFE Act now in final phase, soon be tabled in Parliament
+
+Labour and Foreign Employment Minister Manusha Nanayakkara said that the Cabinet of Ministers approved digitising the entire foreign employment sector to streamline the entire process.
+
+He emphasised that the idea would be put into action soon and that it would assist free the foreign job sector from the grip of fraudsters and traffickers. It will also enhance the processes for managing grievances and increase communication between migrant workers and authorities.
+
+He made these remarks on Saturday in a discussion held with Journalists in the Matale district on the sidelines of the ‘Jayagamu Sri Lanka’ program.
+
+The Minister emphasised that this initiative would empower the Sri Lanka Bureau of Foreign Employment (SLBFE) to thwart unnecessary interference and combat illegal activities effectively.
+
+...
+
+[Data](articles/429bf79c.json)
+
+---
 
 ### Singer secures 18th consecutive ‘People’s Brand of the Year’ Award
 
@@ -2143,99 +2245,5 @@ Furthermore, the magistrate had ordered them to be remanded in custody until the
 [Data](articles/d8badfaf.json)
 
 [Extended Data](ext_articles/d8badfaf.ext.json)
-
----
-
-### Demand for release of arrested protesters
-
-*2024-03-25 15:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Demand-for-release-of-arrested-protesters/110-279556) · `en`
-
-The Joint Trade Union Federation today staged a protest in front of the Fort Railway station calling the authorities to release everyone who were arrested during a previous protest on March 20. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/ef615f3c.json)
-
-[Extended Data](ext_articles/ef615f3c.ext.json)
-
----
-
-### Former Minister's Kehella court order
-
-*2024-03-25 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194910) · `si`
-
-The Colombo High Court has released former Minister Keheliya Rambukwella on bail, following a lengthy consideration by Judge Sujeewa Nissanka.
-
-🟩
-
-The Colombo High Court has announced the order of former Minister Keheliya Rambukwella who was remanded to release him on bail.
-
-Colombo High Court Judge Sujeewa Nissanka has been given the verdict after a lengthy consideration.
-
-◼️
-
-[Data](articles/18c31c20.json)
-
-[Extended Data](ext_articles/18c31c20.ext.json)
-
----
-
-### Sri Lanka to criminalize marital rape: Justice Minister
-
-*2024-03-25 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-criminalize-marital-rape-justice-minister-155960/) · `en`
-
-ECONOMYNEXT – Sri Lanka aims to introduce a bill that would criminalize marital rape, Minister of Justice, Wijeyadasa Rajapaksa said.
-
-“Under the law, spouses can only claim that their husband raped them when there is a separation order,” Rajapaksa said. “However, we plan to introduce a bill that would criminalize rape by one’s husband.”
-
-Under the current law, marriage without judicial separation is recognized as an exemption to rape under 363 of the Penal Code.
-
-A 2020 study conducted by the UNFPA found that 9.5 per cent of Sri Lankan men had perpetrated sexual violence against their intimate female partners while 6.7 per cent have caused both physical and sexual violence.
-
-Sri Lanka’s current laws also fail to recognize a male as a victim of rape and a female as a perpetrator.
-
-“We want to gender neutralize this,” Rajajapaksha said. “So that men can be recognized as victims and women as perpetrators.” (Colombo/Mar25/2024)
-
-◼️
-
-[Data](articles/3ca5f2eb.json)
-
-[Extended Data](ext_articles/3ca5f2eb.ext.json)
-
----
-
-### UN chief says there is growing consensus to tell Israel that a ceasefire is needed
-
-*2024-03-25 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98192/un-chief-says-there-is-growing-consensus-to-tell-israel-that-a-ceasefire-is-needed) · `en`
-
-U.N. Secretary-General Antonio Guterres said during a visit to Jordan on Monday that there is growing international consensus to tell Israel that a ceasefire is needed and that an assault on Rafah would cause a humanitarian disaster.
-
-“We see a growing consensus emerging in the international community to tell the Israelis that the ceasefire is needed and I also see a growing consensus, I heard in the U.S., I heard from the European Union, not to mention of course the Muslim world, to tell clearly to Israelis that any ground invasion of Rafah could mean a humanitarian disaster,” Guterres told a news conference.
-
-◼️
-
-[Data](articles/a377745b.json)
-
-[Extended Data](ext_articles/a377745b.ext.json)
-
----
-
-### The revenue of the Excise Department has increased and production has declined.
-
-*2024-03-25 15:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179654) · `ta`
-
-Excise Department revenue up, liquor sales income 38.5% higher than Feb 2022, attributed to liquor price increase, leading to alcohol consumption restriction.
-
-🟩
-
-The income earned by liquor sales this year has increased by 38.5 per cent this year compared to February 2022.. J.. Gunasiri mentioned.
-
-He pointed out that the increase in prices of liquor is the reason for the restriction of alcohol consumption
-
-◼️
-
-[Data](articles/eba50991.json)
-
-[Extended Data](ext_articles/eba50991.ext.json)
 
 ---

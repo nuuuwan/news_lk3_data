@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 19:51:01**
+As of **2024-03-25 20:03:02**
 
 ## Newspaper Stats
 
-*Scraped **15,090** Articles*
+*Scraped **15,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ tamilmirrorlk | 1,815
 adaderanalk | 1,816
 virakesarilk | 2,122
 dailymirrorlk | 2,334
-adaderanasinhalalk | 2,422
+adaderanasinhalalk | 2,424
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,089 (100.0%) of 15,090 articles have been extended.
+15,090 (100.0%) of 15,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### බදුල්ලේ බස් සේවක ගැටුම
+
+*2024-03-25 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194924) · `si`
+
+බදුල්ල -මුත්තෙටුවේගම අතර ධාවනය වන පුද්ගලික බස් රථයක සේවකයන් හා එම මාර්ගයේම ධාවනය වන ලංගම බස්රථයක සේවකයන් අතර අද (25) සවස බදුල්ල මධ්‍යම බස්නැවතුම්පොළේදී ගැටුමක් ඇතිවුණි.
+
+එහිදී තුවාල ලැබූ  ලංගම සේවකයින් දෙදනෙක් බදුල්ල ශික්ෂණ රෝහලට ඇතුළු කළ අතර පහරදීම සම්බන්ධයෙන් සැකපිට පුද්ගලික බස්රථයේ රියදුරු සහ සහායකව අත්අඩංගුවට ගත් බව බදුල්ල පොලීසිය පවසයි.
+
+බස්රථ ධාවන වේලාව පිළිබඳ ඇතිවූ බහින්බස්වීමක් සමග පුද්ගලික බස්රථයේ රියදුරු විසින් ලංගම බස්රථයේ රියදුරාට  සහ කොන්දොස්වරයාට පිහියකින් ඇන තුවාල සිදුකර ඇතැයිද පොලීසිය සඳහන් කළේය.
+
+මේ සිද්ධියෙන් පසුව ලංගම සේවක පිරිසක් පුද්ගලික බස්රථයක පහරදී අලාභ හානි සිදුකර ඇති අතර මෙහිදී උණුසුම් තත්ත්වයක් ඇතිවී තිබේ.
+
+◼️
+
+[Data](articles/24d44989.json)
+
+---
+
+### කෘත්‍රීම බුද්ධිය පාසල් දරුවන්ට ලැබෙන්නේ මෙහෙමයි
+
+*2024-03-25 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194923) · `si`
+
+කෘත්‍රීම බුද්ධිය වැඩසටහන පාසල් දරුවන් වෙත රැගෙන යාම සඳහා රුපියල් මිලියන දාහක මුදලක් රජය විසින් වෙන්කර ඇති බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ නාරාහේන්පිට සුජාතා බාලිකා විද්‍යාලයේ අද (25) පෙරවරුවේ පැවැති “2024 වර්ෂයේ පාසල් ආහාර වැඩසටහනේ“ සමාරම්භක අවස්ථාවට එක් වෙමිනි.
+
+රටේ දරුවන්ට හොඳ අධ්‍යාපනයක් ලබාදීමට නම් විෂය දැනුම ලබාදී විභාගවලට ඉදිරිපත් කිරීම මෙන්ම ඔවුන්ගේ පෝෂණය ද සුරක්ෂිත කළයුතු බවද පාසල් අධ්‍යාපනයේ සහ විභාග ක්‍රමයේ වෙනසක් පිළිබඳ රජයේ අවධානය යොමුව ඇති බවද ජනාධිපතිවරයා එහිදී සඳහන් කළේය.
+
+අද පාසල් ආහාර වැඩසටහන ආරම්භ වනවා. මෙම අවස්ථාව රජයේ එක් අපේක්ෂාවක් ඉටුවන අවස්ථාවක් ලෙස මම දකිනවා. අධ්‍යාපනය සම්පූර්ණ වීමට නම් සිසුන්ට විෂය දැනුම ලබාදී විභාගවලට ඉදිරිපත් කිරීම වගේම ඔවුන්ගේ පෝෂණය ද සුරක්ෂිත කළයුතුයි. ලෝකයේ රටවල් ගණනාවක් මෙම පාසල් ආහාර වැඩසටහන ක්‍රියාත්මක කරනවා.
+
+...
+
+[Data](articles/df0899f3.json)
+
+---
 
 ### CID, Maithri and a revelation
 
@@ -175,6 +211,8 @@ The manner in which the left hander scored runs against Bangladesh on a fairly d
 ...
 
 [Data](articles/734eb8f6.json)
+
+[Extended Data](ext_articles/734eb8f6.ext.json)
 
 ---
 
@@ -2183,43 +2221,5 @@ The special unit which is operational round the clock was established in the Bur
 [Data](articles/5275bd8a.json)
 
 [Extended Data](ext_articles/5275bd8a.ext.json)
-
----
-
-### Inauguration with underworld groups
-
-*2024-03-25 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179634) · `ta`
-
-Police Inspector Deshand Tenkoon has ordered a detailed investigation into officer Hettiarachchi, allegedly linked to the underworld. Soundtracks of conversations between Hettiarachchi and underworld figures in Dubai are circulating on social media. After revealing the officer's underworld contacts, the investigation was transferred to the police Special Investigation Unit by Rohan Premaratne, the then Senior Superintendent of Police.
-
-🟩
-
-Police Inspector Deshand Tenkoon has ordered the Criminal Investigation Department to conduct a detailed investigation against the police station officer Hettiarachchi, who is said to have been supportive of the underworld.
-
-Police say the soundtracks related to the conversation between the chief police inspector Hettiarachchi, who are alleged to belong to the underworld in Dubai, are now spreading on social media.
-
-It is noteworthy that after the underworld contacts of the officer were revealed, Rohan Premaratne, the then Senior Superintendent of Police, handed over the investigation into the police Special Investigation Unit.
-
-◼️
-
-[Data](articles/cc96c264.json)
-
-[Extended Data](ext_articles/cc96c264.ext.json)
-
----
-
-### COPF showdown led to milk powder price slash: Harsha
-
-*2024-03-25 11:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/COPF-showdown-led-to-milk-powder-price-slash-Harsha/108-279543) · `en`
-
-Colombo, March 25 (Daily Mirror) - The Committee on Public Finance's (COPF) showdown with milk powder importers led to the slashing of milk powder prices, its chairman Harsha De Silva said today.
-
-"After the showdown at COPF where we refused to increase tax on milk powder and found fault with the regulator for lack of competition in the absence of the formula, the story has taken a completely different turn. Instead of an increase, now prices have fallen by Rs. 150 a kilogram," de de Silva said in his X message.
-
-◼️
-
-[Data](articles/7db9c287.json)
-
-[Extended Data](ext_articles/7db9c287.ext.json)
 
 ---

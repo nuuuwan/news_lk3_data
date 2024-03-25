@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 15:51:44**
+As of **2024-03-25 16:03:36**
 
 ## Newspaper Stats
 
-*Scraped **15,032** Articles*
+*Scraped **15,036** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,51 @@ economynextcom | 805
 dailyftlk | 806
 islandlk | 831
 adalk | 1,278
-adaderanalk | 1,810
-tamilmirrorlk | 1,811
+adaderanalk | 1,811
+tamilmirrorlk | 1,812
 virakesarilk | 2,108
-dailymirrorlk | 2,319
-adaderanasinhalalk | 2,411
+dailymirrorlk | 2,320
+adaderanasinhalalk | 2,412
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,030 (100.0%) of 15,032 articles have been extended.
+15,032 (100.0%) of 15,036 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### CID official who led Easter attack probe to head NPP’s Retired Police Forum: AKD
+
+*2024-03-25 15:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-official-who-led-Easter-attack-probe-to-head-NPPs-Retired-Police-Forum-AKD/108-279557) · `en`
+
+Colombo, March 25 (Daily Mirror)- Claiming that the CID official who led the investigations into the Easter Sunday attacks will head the National People's Power's (NPP's) Retired Police Forum which is to be launched this May, NPP leader Anura Kumara Dissanayake said they will implement law against those who were responsible for the attacks.
+
+Speaking at a meeting with the Sri Lankan community in Vancouver, Canada, he said there was no need for fresh investigations into the Easter Sunday bombings and that several issues that had arisen through investigations need to be ascertained.
+
+"The CID officials who conducted investigations into the easter Sunady bombings are now retired and working with the NPP. The CID cheif who led the investigations will head the Retired Police Forum which is to be launched this May. We will mete out justice to the victims and bring the culprits to book," he said.
+
+...
+
+[Data](articles/b6901528.json)
+
+---
+
+### රනිල්, අනුර ඇතුළු පිරිසක් ගැන අභියාචනාධිකරණය නිකුත් කළ රිට් ආඥාව
+
+*2024-03-25 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194911) · `si`
+
+පසුගිය රජය සමයේ පත්කළ දේශපාලන පළිගැනීම් පිළිබඳව සොයා බැලූ පරීක්ෂණ කොමිසම විසින් ජනාධිපති රනිල් වික්‍රමසිංහ, ජාතික ජන බලවේගයේ නායක අනුර කුමාර දිසානායක ඇතුළු පිරිසකට එරෙහිව ඉදිරිපත් කර තිබූ නිර්දේශ හා සොයාගැනීම් බල රහිත කරමින් අභියාචනාධිකරණය රිට් ආඥාවක් නිකුත් කර තිබේ.
+
+අභියාචනාධිකරණයේ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න මහතා ඇතුළු ත්‍රිපුද්ගල අභියාචනාධිකරණ විනිසුරු මඩුලක් විසින් මෙම තීන්දුව ලබා දී තිබේ.
+
+◼️
+
+[Data](articles/8e4ffa27.json)
+
+---
 
 ### School meal programme launched
 
@@ -42,19 +72,45 @@ The official event to mark the beginning of the 2024 school meal programme was h
 
 [Data](articles/59fe336d.json)
 
+[Extended Data](ext_articles/59fe336d.ext.json)
+
 ---
 
-### හිටපු ඇමති කෙහෙළියට අධිකරණයෙන් ලැබුණු නියෝගය
+### HC to deliver order on Keheliya’s revision petition seeking bail
+
+*2024-03-25 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98193/hc-to-deliver-order-on-keheliyas-revision-petition-seeking-bail) · `en`
+
+The Colombo High Court has decided to deliver the order over the revision application filed by former Health Minister Keheliya Rambukwella seeking to be released on bail, on April 03 2024.
+
+This order was issued by Colombo High Court judge Sujeewa Nissanka, when the relevant petition was taken up for consideration today (25).
+
+The attorneys representing Rambukwella, who is in remand custody in connection with the substandard human intravenous immunoglobulin (IVIG) procurement, submitted the revision bail application to the Colombo High Court on March 15 after the Maligakanda Magistrate’s Court had rejected bail for the former Health Minister, the former health secretary and 4 other accused in the case.
+
+Furthermore, the magistrate had ordered them to be remanded in custody until the conclusion of the case under the provisions of the Public Property Act and fixed the case to be recalled on March 28.
+
+...
+
+[Data](articles/d8badfaf.json)
+
+---
+
+### Former Minister's Kehella court order
 
 *2024-03-25 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194910) · `si`
 
-රිමාන්ඩ් බන්ධනාගාරගතකර සිටින හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇප මත මුදාහරින්නැයි ඉල්ලා ගොනුකර තිබූ ප්‍රතිශෝධන පෙත්සමේ නියෝගය අප්‍රේල් මස 03 වනදා ප්‍රකාශයට පත්කරන බව කොළඹ මහාධිකරණය නිවේදනය කර තිබේ.
+The Colombo High Court has released former Minister Keheliya Rambukwella on bail, following a lengthy consideration by Judge Sujeewa Nissanka.
 
-දීර්ඝ කරුණුවිමසා බැලීමකින් අනතුරුව කොළඹ මහාධිකරණ විනිසුරු සුජීව නිශ්ශංක මහතා මෙම තීන්දුව ලබා දී තිබුණි.
+🟩
+
+The Colombo High Court has announced the order of former Minister Keheliya Rambukwella who was remanded to release him on bail.
+
+Colombo High Court Judge Sujeewa Nissanka has been given the verdict after a lengthy consideration.
 
 ◼️
 
 [Data](articles/18c31c20.json)
+
+[Extended Data](ext_articles/18c31c20.ext.json)
 
 ---
 
@@ -91,6 +147,24 @@ He pointed out that the increase in prices of liquor is the reason for the restr
 [Data](articles/eba50991.json)
 
 [Extended Data](ext_articles/eba50991.ext.json)
+
+---
+
+### தனியார் கல்வி நிறுவனத்தில் மாணவர்கள் குழு மோதல்
+
+*2024-03-25 14:57:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனியார்-கல்வி-நிறுவனத்தில்-மாணவர்கள்-குழு-மோதல்/175-335156) · `ta`
+
+இப்பாகமுவ - பக்மீகொல்ல பிரதேசத்தில் அமைந்துள்ள தனியார் கல்வி நிறுவனமொன்றின் மாணவர்கள் குழுக்களுக்கு இடையில் இடம்பெற்ற மோதலில் 9 பேர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+வதிவட தனியார் கல்வி நிறுவனமொன்றில் நேற்று (24) இரவு இந்த மோதல் இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+03 ஆண் மாணவர்கள் குருநாகல் போதனா வைத்தியசாலையிலும், 04 மாணவிகள் மற்றும் ஒரு மாணவர் பொல்கொல்ல பிரதேச வைத்தியசாலையிலும் அனுமதிக்கப்பட்டுள்ளனர்.
+
+மோதலுக்கான காரணம் இதுவரை கண்டறியப்படவில்லை, கொகரெல்ல பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/5ce87a7d.json)
 
 ---
 
@@ -2179,83 +2253,5 @@ The Meteorology Department says to the public to take necessary steps to reduce 
 [Data](articles/df45d3d5.json)
 
 [Extended Data](ext_articles/df45d3d5.ext.json)
-
----
-
-### Sri Lanka central govt debt at 105-pct of GDP in Dec 2023: analysis
-
-*2024-03-25 06:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-govt-debt-at-105-pct-of-gdp-in-dec-2023-analysis-155858/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central government debt to gross domestic product was largely unchanged at 105.49 percent by December 2023, compared to 105.45 percent in September, but down from end 2022, an analysis of official data shows.
-
-Central government local and foreign debt was reported at 29,145 billion rupees by December 2023, with the rupee at 323.92 to the US dollar, up from 28,424 billion in September 2023.
-
-Rolling GDP for the four quarters ending in December 2023 was 27,629 trillion rupees, up from 26,636 billion to September as the economy started to recover.
-
-Central government debt was at 115.2 percent of GDP on the same basis at the end of December 2022. The central bank reported central government debt at 113.8 percent of GDP by end 2022 without defaulted loans.
-
-Related Sri Lanka central government debt rises to 115.2-pct of GDP by end 2022: analysis
-
-SOE guaranteed debt by end 2022 was about another 5.62 percent of GDP.
-
-...
-
-[Data](articles/b16a182d.json)
-
-[Extended Data](ext_articles/b16a182d.ext.json)
-
----
-
-### Sri Lanka authorizes English as court language in Commercial High Courts
-
-*2024-03-25 04:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-authorizes-English-as-court-language-in-Commercial-High-Courts/108-279512) · `en`
-
-Colombo, March 25 (Daily Mirror) - The Justice Minister has issued an extraordinary gazette notification permitting to use English language for all purposes of record and proceedings in the Commercial High Courts.
-
-With the approval of the Cabinet of Ministers and in accordance with Article 24(4) of the Constitution, Justice Minister Wijeyadasa Rajapakshe has issued this gazette notification enabling all aspects of litigation to be in English in commercial, company, admiralty and arbitration matters in the Commercial High Court.
-
-The Cabinet had noted that in the commerce sphere related to commercial activities are mainly used in the English language and require a considerable cost and time in translating those contents into the Sinhala language.
-
-◼️
-
-[Data](articles/da6a81f1.json)
-
-[Extended Data](ext_articles/da6a81f1.ext.json)
-
----
-
-### HNB empowering Sri Lanka’s agricultural sector
-
-*2024-03-25 04:52:00* · [`islandlk`](http://island.lk/hnb-empowering-sri-lankas-agricultural-sector/) · `en`
-
-Consolidating its efforts to empower farmers and ensure the nation’s food security, Sri Lanka’s leading private sector bank, HNB PLC, launched a comprehensive support system under the HNB Leasing Govi Saviya campaign.
-
-“We are thrilled to launch the ‘HNB Leasing Govi Saviya’ initiative alongside our partners, reaffirming our commitment to every Sri Lankan, from the individual farmer to the large corporations. With nearly half of our nation’s land dedicated to agriculture yet contributing only 6.5% to the GDP, it’s evident that there’s a vast opportunity for growth.
-
-Many farmers rely on ancient practices with no access to modernization and financial resources. HNB Leasing Govi Saviya aims to bridge this gap and address any challenges they may face with targeted support backed by innovative financial solutions. Our collaboration with microfinance officers and leading agricultural companies is crucial as it allows us to understand and meet unique needs.
-
-...
-
-[Data](articles/8eb84e26.json)
-
-[Extended Data](ext_articles/8eb84e26.ext.json)
-
----
-
-### Sunshine Holdings PLC announces new leadership appointments
-
-*2024-03-25 04:51:00* · [`islandlk`](http://island.lk/sunshine-holdings-plc-announces-new-leadership-appointments/) · `en`
-
-Sunshine Holdings PLC (CSE: SUN) announced that Aruna Deepthikumara, Michelle Senanayake, Dr. T. Sayandhan and Shantha Bandara, who are Executive Committee members of the Group, have been appointed as Executive Directors.
-
-Commenting on the appointments, Sunshine Holdings Group CEO Shyam Sathasivam said, “We are excited to announce the elevation of Aruna Deepthikumara, Michelle Senanayake, Dr. T. Sayandhan, and Shantha Bandara to the positions of Executive Directors within our Group.”
-
-Aruna Deepthikumara, the Group Chief Financial Officer, has been appointed to the board of Sunshine Holdings PLC. With over two decades of experience, Aruna has a track record of finance leadership, successful business process improvement and cross-functional team leadership.
-
-...
-
-[Data](articles/b029a499.json)
-
-[Extended Data](ext_articles/b029a499.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 17:18:01**
+As of **2024-03-25 17:34:09**
 
 ## Newspaper Stats
 
-*Scraped **15,058** Articles*
+*Scraped **15,060** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 1,813
 tamilmirrorlk | 1,814
 virakesarilk | 2,116
 dailymirrorlk | 2,324
-adaderanasinhalalk | 2,415
+adaderanasinhalalk | 2,417
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,051 (100.0%) of 15,058 articles have been extended.
+15,058 (100.0%) of 15,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### පාසැල් ක්‍රිකට් සංගමයට වාරණයක්
+
+*2024-03-25 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194917) · `si`
+
+ශ්‍රි ලංකා පාසැල් ක්‍රිකට් සංගමය, 2023-2024 දෙදින තරඟාවලිය සඳහා ක්‍රීඩා කළ පාසල් කණ්ඩායම් හතරක් පහත හෙළීම සඳහා සැලසුම් කර ඇති ක්‍රියාවලිය අසාධාරණ සහ දෝෂ සහිත බවට චෝදනා කරමින් පාසැල් 05ක් විසින් පාසැල් ක්‍රිකට් සංගමයට එරෙහිව පසුගියදා කොළඹ දිසා අධිකරණයේ නඩු පවරා තිබුණි.
+
+කොළඹ ආනන්ද විද්‍යාලය, අම්බලන්ගොඩ ධර්මාශෝක විද්‍යාලය, වෙන්නප්පුව ජෝෂප් වාස් විද්‍යාලය කටුනේරිය ශාන්ත සෙබස්තියන් විද්‍යාලය සහ මහනුවර ශාන්ත සිල්වෙස්තර විද්‍යාලය එම නඩුව පැවරීය.
+
+නඩුව පැනවූ පාසැල් අධිකරණයෙන් ඉල්ලා සිටින්නේ මෙතෙක් පැවති ආකාරයට එක් තරගාවලියකදී එක් කාණ්ඩයකින් කණ්ඩායම් දෙකක් පමණක් පහත දැමීම සහ ඒ සඳහා ලකුණු සටහනේ අවසානයට සිටින කණ්ඩායම් දෙක තෝරාගත යුතු බවට නියෝගයක් නිකුත් කරන ලෙසට ය.
+
+ඒ අනුව අදාළ නඩුව අද කැඳවූ අවස්ථාවේ 2023-24 තරගාවලියේ එක් කාණ්ඩයක ක්‍රීඩා කළ පාසැල් හතරක් පහත දැමීම සඳහා සංවිධාන කර ඇති "පහත දැමීමේ තරග (Relegation matches)" පැවැත්වීම තාවකාලිකව වළක්වමින් කොළඹ දිසා අධිකරණය වාරණ නියෝගයක් නිකුත් කළේය.
+
+අදාළ වාරණ නියෝගය අප්‍රේල් 8 වනදා තෙක් බලපැවැත්වෙන අතර නඩුව එදිනට යළි කැඳවීමට නියමිත ය.
+
+◼️
+
+[Data](articles/6753b0c8.json)
+
+---
 
 ### Nissan to launch 30 new models by 2027
 
@@ -46,39 +66,79 @@ Nissan was a pioneer in electric vehicles with its all-battery-powered Leaf but 
 
 [Data](articles/238bd65e.json)
 
+[Extended Data](ext_articles/238bd65e.ext.json)
+
 ---
 
-### உயிர்த்தஞாயிறுதாக்குதல் குறித்த விசாரணைகளை மேற்கொண்ட சிஐடி அதிகாரிகள் எங்களுடன்இணைந்து செயற்படுகின்றனர் -அனுரகுமார
+### බිහිසුණු බස් අනතුර
+
+*2024-03-25 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194916) · `si`
+
+මහියංගනය-මහනුවර ප්‍රධාන මාර්ගයේ මැදමහනුවර වංගු දෙක නමැති ස්ථානයේදී සුඛෝපභෝගී බස් රථයක් අනතුරට ලක්ව තිබේ.
+
+අනතුරින් තුවාල ලැබූ බස් රථයේ රියදුරු, එහි හිමිකරු සහ තවත් අයෙක් ප්‍රතිකාර සඳහා තෙල්දෙණිය රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව ප්‍රතිකාර සඳහා පේරාදෙණිය රෝහල වෙත ඇතුළත් කර තිබේ.
+
+තොරතුරු වාර්තා වන්නේ බස් රථය අනතුරට ලක්වන අවස්ථාවේ එම ස්ථානයේ පහළ මාර්ගයේ 1990 සුවසැරිය ගිලන් රථයක් ගමන්කරමින් තිබුණද එයට ඉන් අනතුරක් සිදුව නොමැති බවය.
+
+පසුව තුවාලකරුවන් එම ගිලන් රථයෙන්ම ප්‍රතිකාර සඳහා රෝහල්ගතකිරීමට පියවර ගෙන තිබේ.
+
+එසේම වැඩිදුරටත් තොරතුරු අනාවරණය වී ඇත්තේ බස් රථය අලෙවි කිරීම සඳහා කොළඹ ප්‍රදේශයට රැඟෙන එමින් තිබියදී මෙම අනතුර සිදුව ඇති බවටය.
+
+◼️
+
+[Data](articles/91dd3a33.json)
+
+---
+
+### CIT officials, who are investigating the resurrection, work with us -Anurakumara
 
 *2024-03-25 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179683) · `ta`
 
-உயிர்த்தஞாயிறு தாக்குதல் குறித்த விசாரணைகளை முன்னெடுத்த சிஐடி அதிகாரிகள் தேசிய மக்கள் சக்தியின் ஒய்வுபெற்ற பொலிஸ் உத்தியோகத்தர்கள் மன்றத்திற்கு தலைமைதாங்கவுள்ளனர் என அனுரகுமார திசநாயக்க கனடாவில் தெரிவித்துள்ளார்.
+CIT officials, retired, will lead a new forum on the resurrection attack, starting in May. No new investigations on the Sunday lifeblood. Dissanayake calls for investigations into Sirisena's recent statements.
 
-மேமாதம் இந்த அமைப்பு செயற்பட ஆரம்பிக்கும் என தெரிவித்துள்ள அவர் இந்த தாக்குதலிற்கு காரணமானவர்களிற்கு எதிராக சட்டத்தைஇவர்கள் நடைமுறைப்படுத்துவார்கள் எனவும் குறிப்பிட்டுள்ளார்.
+🟩
 
-உயிர்த்த ஞாயிறுதாக்குதல் குறித்து புதிய விசாரணைகள் அவசியமில்லை ஏற்கனவே இடம்பெற்ற விசாரணைகளின் மூலம் வெளியான பல விடயங்கள் உண்மையானவையா என்பதை உறுதி செய்யவேண்டும் எனவும் அவர் தெரிவித்துள்ளார்.
+CIT officials who are investigating the resurrection attack will head the Forum of the National People's Power, said in Canada.
 
-உயிர்த்தஞாயிறுதாக்குதல் குறித்த விசாரணைகளை மேற்கொண்ட சிஐடி உத்தியோகத்தர்கள் தற்போது ஓய்வுபெற்றுவிட்டனர் அவர்கள் தேசிய மக்கள் சக்தியுடன் இணைந்து பணியாற்றுகின்றனர் என அனுரகுமார திசநாயக்க தெரிவித்துள்ளார்.
+He said that the organization would start operating in May.
 
-...
+He also said that there are no new investigations on the lifeblood of the Sunday, he said.
+
+Anuragumara Dissanayake said that the CIT officials who were investigating the resurrection were now retired.
+
+The CIT president will be heading for the resurrection attack on the retired police officers organization that we will start in May.
+
+Anuragumara Dissanayake has said that investigations should be carried out on the issues made by former President Maithripala Sirisena a few days ago.
+
+The JVP president said that he was in office even after the serious information on the president's defense minister.
+
+◼️
 
 [Data](articles/8d511835.json)
 
+[Extended Data](ext_articles/8d511835.ext.json)
+
 ---
 
-### காரின் மீதேறி கெப் விபத்து: நால்வர் காயம்
+### Car accident on car: four injured
 
 *2024-03-25 16:41:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/காரின்-மீதேறி-கெப்-விபத்து-நால்வர்-காயம்/74-335168) · `ta`
 
-அம்பாறை மூவாங்கலை வீதியில் கெப் வண்டியும் காரொன்றும் மோதி விபத்துக்கு உள்ளானதில் நால்வர் காயமடைந்து அம்பாறை பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Four injured in a car accident on Moovangalai road, Ampara, due to a tire without air. The driver lost control.
 
-கெப் வண்டியின் டயர் ஒன்றில் காற்று இல்லாமற் போய்விட்டது. இதனையடுத்து சாரதியால் கட்டுப்படுத்த முடியாமல் போய், காரின் மேல் ஏற்றிவிட்டார் என அறியமுடிகின்றது.
+🟩
 
-இந்த சம்பவத்தில், கெப் வண்டியில் பயணித்த நால்வர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர் என பொலிஸார் தெரிவிக்கின்றனர்.
+Four people were injured and admitted to the Ampara General Hospital after a car collided with a car and a car on Moovangalai road in Ampara, police said.
+
+The tire of the cab has been left without air. It is later known that the driver was unable to control and loaded up the car.
+
+In the incident, four people who were traveling in a cab were injured and admitted to the hospital, police said.
 
 ◼️
 
 [Data](articles/1b9cd444.json)
+
+[Extended Data](ext_articles/1b9cd444.ext.json)
 
 ---
 
@@ -100,27 +160,39 @@ Colombo, March 25 (Daily Mirror) - Malnutrition has emerged as a significant con
 
 ---
 
-### රුසියාව සලිත කළ ප්‍රහාරය - පුටින් ගේ සැලැස්ම
+### Russia's structure - Putin's plan
 
 *2024-03-25 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194914) · `si`
 
-මොස්කව්හි ක්‍රෝකස් නගර ශාලාවට එල්ල කළ ප්‍රහාරය සම්බන්ධයෙන් අත්අඩංගුවට ගත් ප්‍රධාන සැකකරුවන් සිව්දෙනා මොස්කව්හි අධිකරණයක් හමුවට ඉදිරිපත් කර චෝදනා ගොනුකිරීමට රුසියානු ආරක්ෂක බලධාරීන් තීරණය කර තිබේ.
+Russia's security authorities submitted allegations into Moscow court regarding a terrorist attack at a concert in Moscow, resulting in over 150 injuries and deaths. Four suspects, including three Tajikistan nationals, were arrested and charged. President Putin was honored with a candle, and the people of Moscow expressed their condolences. The attack was the worst in Russia, with 137 killed and 182 injured, including 777 children from a school in Beslan, Northern Ossetia, in 2004. The IS claimed responsibility, but Putin declared the attackers were from Ukraine.
 
-එහිදී ඔවුන්ගේ අනන්‍යතාවද අනාවරණ කර ඇති අතර ඔවුන් සිව්දෙනාම ටජිකිස්තාන ජාතිකයින් බව සඳහන් ය.
+🟩
 
-රුසියාවේ මොස්කව් නුවර ක්‍රෝකස් නගර ශාලාවේ පැවැති සංගීත ප්‍රසංගයකට පැමිණි පිරිසක් ඉලක්කකර ත්‍රස්තවාදී ප්‍රහාරයක් එල්ල වූයේ පසුගිය සිකුරාදා රාත්‍රියේදී ය.
+The Russian security authorities have decided to submit the allegations into the court of Moscow in the incident.
 
-ප්‍රහාරයෙන් සිදුවූ මරණ ගණන 137දෙනෙකු දක්වා ඉහළ ගොස් ඇති අතර, ප්‍රහාරයෙන් තුවාල ලැබූ 150කට වැඩි පිරිසක් තවමත් රෝහල්ගතව පසුවෙති.
+They have also revealed their identity, and four of them are Tajikistana.
 
-එදිනම පස්වරුවේ අත්අඩංගුවට ගත් ප්‍රහාරයේ සැකකරුවන් සිව්දෙනා ඊයේ දිනයේදී මොස්කව් හි අධිකරණයක් හමුවට ඉදිරිපත් කෙරුණි.
+On Friday, a group of terrorist attacks on a complaint that came to a concert at the Moscow in Moscow, Russia, was on Friday night.
 
-සැකකරුවන්ගෙන් තිදෙනෙක් මේ වනවිටත් ප්‍රහාරයේ වගකීම භාරගෙන ඇති අතර සිව්වැන්නා වන 19 හැවිරිදි සැකකරු අධිකරණයට ඉදිරිපත් කෙරුණේ ද රෝද පුටුවක ආධාරයෙනි.
+The number of deaths killed in the attack and more than 150 injured were still in hospital.
 
-සැකකරුවන් සිව්දෙනාම ලබන මැයි මස 22වැනිදා දක්වා බන්ධනාගාරගත කිරීමට අධිකරණය අවසර ලබාදුන් අතර ඉන් පසුව ඔවුන්ට ජීවිතාන්තය දක්වා සිරදඬුවම් හිමිවෙතැයි අපේක්ෂිත ය.
+The four suspects of the assault on the evening were produced before Moscow yesterday.
+
+Three of the suspects have been taken responsible for the attack and the Fourth 19-year-old suspect was produced in court with the help of a wheelchair.
+
+The four suspects were permitted to be remanded until May 22, and then they are expected to be sentenced to life in prison.
+
+Accordingly, President Vladminiri Putin was honored and honored with the candle.
+
+The people of Moscow came to front and condemned their condolences.
+
+People expressed their pain, regret, and anger, and published in floralports.
 
 ...
 
 [Data](articles/c9009027.json)
+
+[Extended Data](ext_articles/c9009027.ext.json)
 
 ---
 
@@ -296,21 +368,27 @@ It is remarkable that these old railway carriages, once unfit for service, have 
 
 ---
 
-### வீதியில் இருந்து வீதியில் விழுந்த பஸ்
+### The bus that fell on the road from the street
 
 *2024-03-25 16:11:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வீதியில்-இருந்து-வீதியில்-விழுந்த-பஸ்/76-335163) · `ta`
 
-தனியார் பஸ்ஸொன்று மேல் வீதியில் இருந்து கீழ் வீதியில் விழுந்து விபத்துக்கு உள்ளான சம்பவமொன்று கண்டியில் இடம்பெற்றுள்ளது.
+A private bus crashed in Kandy, injuring 3 passengers and causing severe damage. It was en route from Bibila to Colombo for sale. Police are investigating.
 
-மெதமஹநுவர பிரதேசத்தில் இரண்டாம் வளைவு பகுதியில் பயணித்துக்கொண்டிருந்த அதிசொகுசு தனியார் பஸ்ஸொன்றே இவ்வாறு விபத்துக்கு உள்ளாகியுள்ளது. பஸ்ஸில் பயணித்த மூவர் படுகாயமடைந்துள்னர். அத்துடன், பஸ்ஸூக்கு பலத்த சேதம் ஏற்பட்டுள்ளது.
+🟩
 
-பிபில பிரதேசத்திலுள்ள ஆடைத்தொழிற்சாலை ஒன்றின் சேவைப் பணிக்காக பயன்படுத்தப்பட்ட இந்த பஸ், கொழும்பு பிரதேசத்தில் உள்ள ஒருவருக்கு விற்பனை செய்வதற்காக கொண்டு செல்லப்பட்ட போது விபத்துக்குள்ளானதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+A private bus crashed into the lower road from the upper road and an accident occurred in Kandy.
 
-உடதும்பர பொலிஸ் நிலைய பிரதான பொலிஸ் பரிசோதகர் துசித தொம்பகம்மன தலைமையில் விசாரணைகள் இடம்பெற்று வருகின்றன.
+A private bus was traveling in the second curve in the Medamahanuwara area.. Three passengers on the bus were injured. Also, the buses have suffered severe damage.
+
+The bus, which was used for service work at a garment factory in Bibila, was taken to a man in Colombo to be sold to a person in Colombo.
+
+Investigations are underway under the leadership of the Chief Inspector of Police Dusitha Tombagammana.
 
 ◼️
 
 [Data](articles/1c692b02.json)
+
+[Extended Data](ext_articles/1c692b02.ext.json)
 
 ---
 
@@ -584,19 +662,25 @@ The cause of the clash has not yet been identified, and the Koralla police are c
 
 ---
 
-### හෙට මිලි මිටර් 100 ඉක්මවූ තද වැසි
+### Heavy rains exceeding 100 ml miters tomorrow
 
 *2024-03-25 14:54:19* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-මිලි-මිටර්-100-ඉක්මවූ-තද-වැසි/11-408788) · `si`
 
-නැහෙනහිර හා ඌව පළාත්වලත් පොලොන්නරුව දිස්ත්‍රික්කයෙත් හෙට දිනයේදී වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Tomorrow, heavy rains exceeding 100 ml meters are expected in Polonnaruwa, Uva provinces, and parts of Western, Sabaragamuwa, Southern, and Central provinces. Thundershowers may develop, with a possibility of heavy showers in the Southern Province and Moneragala District.
 
-බස්නාහිර, සබරගමුව, දකුණු සහ මධ්‍යම පළාත්වල සවස්කාලයේදී යහෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බවද එම දෙපාර්තමේන්තුව දන්වා සිටියි.
+🟩
 
-දකුණු පළාතේ හා මොණරාගල දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවලට මිලි මිටර් 100ට වැඩි තද වැසි ඇතිවීමේ හැකියාවක් ඇති බවද එම දෙපාර්තමේන්තව දන්වා සිටියි.
+The Department of Meteorology says that several showers can occur in the Polonnaruwa District and tomorrow in the Uva provinces.
+
+Thundershowers will develop at several places in the Western, Sabaragamuwa, Southern and Central provinces.
+
+The Department is informed that there is a possibility of heavy showers at more than 100 millisefare at some places in the Southern Province and Moneragala District.
 
 ◼️
 
 [Data](articles/62f9fb12.json)
+
+[Extended Data](ext_articles/62f9fb12.ext.json)
 
 ---
 
@@ -652,21 +736,33 @@ President Ranil Wickremesinghe has issued a directive to provide this breakfast 
 
 ---
 
-### ඉඟුරු වංචාවක් දඹුල්ලෙන් හසුකර ගනියි
+### Ginger captures in Dambulla
 
 *2024-03-25 14:47:02* · [`adalk`](https://www.ada.lk/breaking_news/ඉඟුරු-වංචාවක්-දඹුල්ලෙන්-හසුකර-ගනියි/11-408787) · `si`
 
-දේශීය ඉගුරු අස්වැන්න වෙළඳපලට ලැබෙද්දී විදේශ රටවලින් අමු ඉඟුරු ගෙන්වීම තහනම් කර  තිබියදී ඉතා සූක්ෂම ලෙස විදේශ රටවලින් ගෙන්වූ අමු ඉඟුරු අඩු මිල ගණන් යටතේ දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ අලෙවි කිරීම දින ගණනාවක සිට සිදුවන බව දේශීය ඉඟුරු ගොවීහු  චෝදනා කරති.
+Dambulla's local ginger is being undermined by cheaper imports. Farmers claim their ginger is between Rs. 1900 and Rs. 1500, but it's unclear who's selling it. The Economic Center in Galewela is suspected of involvement, but the police are investigating.
 
-මේ වන විට දේශීය අමු ඉඟුරු කිලෝවක තොග මිල රුපියල් 1900 ත්  1800 අතර වන බවත් විදේශ රටවලින් ගෙන්වූ අමු ඉඟුරු කිලෝව රුපියල්  1500 සිය  සිට රුපියල් 1700 දක්වා වූ විවිධ මිල ගණන් යටතේ දේශීය ඇසුරුම් වලින් බහා ඒවා අලෙවි කිරීම සිදුකරන බව ගොවීන් පවසති
+🟩
 
-දඹුල්ල ආර්ථික මධ්‍යස්ථානය ඇතුළත සහ ආර්ථික මධ්‍යස්ථානයට පිටතින් ඇති විදේශ රටවලින් අල  ලුණු ගෙන්වන ගබඩාවලද මේවා අලෙවි කිරීමට තබා තිබෙන අයුරු දැක ගැනීමට හැකි විය.
+Local lights are banned by the raw ginger imported from foreign countries, in submerged overseas, the Dambulla Economic Center is a number of days.
 
-එම අලවිසැල් වලට ගොස් විමසීමේදී මෙවා  ලබා දුන් ගොවියෙක් හෝ කාගේද යන්න ඔවුන්ට නිසි ලෙස ප්‍රකාශ කර ගැනීමට නොහැකි විය .ආර්ථික මධ්‍යස්ථානයේ ඇතුළත  වෙළඳසැලක විශාල   ප්‍රමාණයක් ලොරි දෙකකින්  ගෙනවිත් එම වෙළෙඳසැලේ තබා අමු ඉඟුරු අලෙවිකරන අයුරු ගොවීන් පෙන්වා දෙන්නට විය
+Farmers say that the bulk of the local ginger is between 1900 and Rs. 1500 to Rs.
+
+Overseas from the Dambulla Economic Center and the foreign countries, the foreign countries, were placed in stores.
+
+They were unable to declare a farmer or whom they were given to those anaires.
+
+When inquired from the store owner, the lorry driver was told that he was brought to the economic center of the Galewela area.The farmers were able to take these at several places in the Economic Center to take these in the Economic Center.
+
+These raw ginger has plenty of factors that they can claim that they can say that they can not express their raw ginger in Sri Lanka.
+
+However, it is noteworthy that these ginger is locally or not to reveal the farmers who brought them to marketing businesses
 
 ...
 
 [Data](articles/de8ff733.json)
+
+[Extended Data](ext_articles/de8ff733.ext.json)
 
 ---
 
@@ -2169,57 +2265,5 @@ The Colombo Stock Exchange opened x; the All Share Price Index was up 0.06 perce
 [Data](articles/f6d3f006.json)
 
 [Extended Data](ext_articles/f6d3f006.ext.json)
-
----
-
-### The wonderful decision of China for the environment
-
-*2024-03-25 09:42:57* · [`adalk`](https://www.ada.lk/breaking_news/පරිසරය-වෙනුවෙන්-චීනය-ගත්-අපූරු-තීරණය/11-408777) · `si`
-
-China's decision to implement a ten-year fish ban in the Yangi River is a significant step towards ensuring high-quality development in the Yangi River economy. This move is part of a series of guidelines aimed at rebuilding the vitality of the Jangasa River, China's mother town. High priority is given to state departments to enforce this ban, emphasizing the importance of coordination, supervision, and monitoring. Additionally, these guidelines aim to improve the conservation of rare and endangered species in the Yangi River.
-
-🟩
-
-A series of guidelines issued to implement a ten-year fish ban in the Yangi River. The Chinese government board head office said that this is a major step to ensure high quality development in the Yangi River economy.
-
-It is also a document issued by a document for the rebuilding of the vitality of the Jangasa River of the China's mother town.
-
-The relevant State departments have also been given a high priority to provide the prohibition of these fish ban. It is emphasized that it is necessary to maintain a fine function in coordinating and supervision and monitoring.
-
-These guidance will also be requested to improve the rare and extinction of rare and extinction in the Yangi River.
-
-◼️
-
-[Data](articles/77cc2665.json)
-
-[Extended Data](ext_articles/77cc2665.ext.json)
-
----
-
-### Students who came to school with bird nests
-
-*2024-03-25 09:40:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பறவை-கூடுகளுடன்-பாடசாலைக்கு-வந்த-மாணவர்கள்/175-335135) · `ta`
-
-A primary school in Tambuttegama sent bird nests to students, sparking parental concern over bird nest destruction. Parents opposed this, emphasizing teaching in natural environments. The incident was reported to the Divisional Secretary, and an investigation is underway. Dr. Jagath Gunawardena noted that it's legal to remove birds under the Wildlife and Plants Protection Ordinance.
-
-🟩
-
-According to WhatsApp, a teacher of the primary school teacher at the Tambuttegama Educational Zone, a bird's nests were reported to have been sent to the school with a bird nest.
-
-The teacher has sent a message to about sixty students to bring the bird nest.
-
-Parents who brought their children to the classroom with a bird joint have strongly opposed the teacher's actions by looking at a large number of birds in the classroom.
-
-Parents are concerned about the destruction of bird nests instead of teaching bird nests in the natural environment.
-
-Parents have announced the incident to the Dambuttegama Divisional Secretary. The Director of the Primary Education of the Thambuttegama Education Zone, Upallisena, said that this will be investigated.
-
-Meanwhile, Senior Attorney -at -Law Dr. Jagath Gunawardena said that it is legal to break, remove and destroy birds under Section 31 of the Wildlife and Plants Protection Ordinance.
-
-◼️
-
-[Data](articles/79286771.json)
-
-[Extended Data](ext_articles/79286771.ext.json)
 
 ---

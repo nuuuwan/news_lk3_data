@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 16:49:35**
+As of **2024-03-25 17:03:13**
 
 ## Newspaper Stats
 
-*Scraped **15,046** Articles*
+*Scraped **15,051** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,71 +16,145 @@ economynextcom | 805
 dailyftlk | 806
 islandlk | 831
 adalk | 1,279
-adaderanalk | 1,812
 tamilmirrorlk | 1,812
-virakesarilk | 2,114
-dailymirrorlk | 2,320
+adaderanalk | 1,813
+virakesarilk | 2,115
+dailymirrorlk | 2,323
 adaderanasinhalalk | 2,414
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,041 (100.0%) of 15,046 articles have been extended.
+15,046 (100.0%) of 15,051 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### துப்பாக்கி ரவைகளும் பீதியும்  படுகொலையாக மாறிய மொஸ்கோ இசைநிகழ்வு
+### Malnutrition emerges as serious issue in Sri Lankan schools
+
+*2024-03-25 16:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Malnutrition-emerges-as-serious-issue-in-Sri-Lankan-schools/108-279558) · `en`
+
+Colombo, March 25 (Daily Mirror) - Malnutrition has emerged as a significant concern in Sri Lanka, affecting schools regardless of income levels, President Ranil Wickremesinghe said while marking the beginning of the 2024 school meal programme held today (25) at the Sujatha Girls’ College in Narahenpita.
+
+"One of our main targets is to prevent malnutrition in the country, and for that, the government has taken a decision to increase the 'Aswesuma' benefits by threefold and to provide a meal in schools.
+
+"Some schoolchildren leave for school at 6 a.m. without taking their breakfast. They are even unable to take their lunch. Therefore, they are trying to take their meals to school. This situation has affected everyone, whether they are higher or lower income families," he said.
+
+...
+
+[Data](articles/155a11e7.json)
+
+---
+
+### Jaffna University's Joint Health Science Faculty Students
+
+*2024-03-25 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179678) · `ta`
+
+Jaffna University students protested for employment, demanding health science graduates' appointments. The rally, organized by the Jaffna University Students Union, aimed to ensure quality services and employment for students.
+
+🟩
+
+A protest campaign was launched in Jaffna to ensure the employment of students.
+
+The rally, which started from the Faculty of Health Studies at the University of Jaffna at 12 noon today (25), was organized by the Jaffna University Students Union to the University's main gateway to the university's main gateway.
+
+The struggle for the demanding the appointment of the affiliated health science graduates to the affiliation of the students, to provide quality service to the people, to provide quality services to the students' employment.
+
+Graduates and university students participated in the event.
+
+◼️
+
+[Data](articles/ed2c743e.json)
+
+[Extended Data](ext_articles/ed2c743e.ext.json)
+
+---
+
+### சிஐடியிலிருந்து வெளியேறினார் மைத்திரிபால சிறிசேன !
+
+*2024-03-25 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/179681) · `ta`
+
+வாக்குமூலம் வழங்குவதற்காக குற்றப் புலனாய்வு திணைக்களத்துக்குச் சென்றிருந்த  முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன,  தனது வாக்குமூலத்தை வழங்கிய பின்னர் அங்கிருந்து வெளியேறியுள்ளார்.
+
+உயிர்த்த ஞாயிறு   தாக்குதல் தொடர்பில்  முன்னாள் ஜனாதிபதி மைத்திரிபால் சிறிசேன வெளியிடப்பட்ட  சர்ச்சைக்குரிய கருத்து தொடர்பில் வாக்குமூலம் வழங்குமாறு குற்றப் புலனாய்வுப் பிரிவினரால் விடுக்கப்பட்ட  அழைப்பையடுத்து  அவர் இன்று திங்கட்கிழமை (25) அங்கு சென்று வாக்குமூலம் வழங்கினார்.
+
+◼️
+
+[Data](articles/2298783d.json)
+
+---
+
+### Shavendra in Kenya explores defence ties in multiple ties including counterterrorism
+
+*2024-03-25 16:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shavendra-in-Kenya-explores-defence-ties-in-multiple-ties-including-counterterrorism/108-279559) · `en`
+
+Chief of Defense Staff General Shavendra Silva of Sri Lanka held talks with Chief of Defense Forces of Kenya General Francis Ogolla in Nairobo and explored cooperation in areas such as counterterrorism.
+
+The visit marks a pivotal moment in the diplomatic ties between the two nations, signifying a mutual commitment to enhancing defense cooperation and strategic partnerships.
+
+He was accompanied by Sri Lankan High Commissioner in Kenya Kana Kananathan, General Silva who engaged in extensive discussions with Kenyan defense officials, focusing on areas of mutual interest and shared security challenges.
+
+...
+
+[Data](articles/b2a9b2f0.json)
+
+---
+
+### Moscow concert that became a massacre of gun raws and panic
 
 *2024-03-25 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179680) · `ta`
 
-இரவு 8 மணியாவதற்கு  சில நிமிடங்களிற்கு முன்னர் குரோகஸ் நகர மண்டபத்திற்கு பொதுமக்கள் பெருமளவிற்கு வரத்தொடங்கியிருந்தனர். அன்றிரவு பிக்னிக் என்ற இசைகுழுவின் நிகழ்வு இடம்பெறவிருந்தது.
+A massacre at Moscow's Crocus City Hall concert, where gunmen indiscriminately killed civilians. Security officers fled, and the attackers fired from multiple directions. The incident involved at least four attackers, and the chaos led to heavy casualties, especially among concert-goers from the north of Moscow.
 
-சிலர்  பிறவுண்நிற ஆடையில் காணப்பட்டனர் அவர்கள் இராணுவத்தினரா பயங்கரவாதிகளா பொதுமக்களா எனத்தெரியவில்லை  வாயில்கதவகளை உடைத்துக்கொண்டு உள்ளே நுழைந்த அவர்கள் பொதுமக்கள் மீது துப்பாக்கி பிரயோகத்தில் ஈடுபட்டனர் என்கின்றார் புகைப்படப்பிடிப்பாளர் டேவோ பிரிமோவ்.
+🟩
 
-துப்பாக்கி ஏந்திய நபர்கள் அரங்கிற்கு வெளியே உள்ள பகுதி ஊடாக நடந்துசென்றனர் கண்மூடித்தனமாக துப்பாக்கி பிரயோகம் செய்தனர் பொதுமக்களை கொன்றனர் காயப்படுத்தினர்.
+A few minutes before the night at 8 pm, the public began to come to the Crocus City Hall. The phenomenon of the band, Picnic, was to take place that night.
 
-தாக்குதல் ஆரம்பித்ததும் அந்த அரங்கின் பாதுகாப்பு உத்தியோகத்தர்கள் தப்பியோட தொடங்கினர் நான்கு பாதுகாப்பு உத்தியோகத்தர்களில் ஒருவர் தனது சகாக்கள் விளம்பர பலகையின் பின்னால் மறைந்திருந்தனர் என தெரிவித்தார்.
+Some people were found in a garment, they did not know that they were military, terrorists or civilians, and they broke into the gate and they were firing on civilians.
 
-தாக்குதலை மேற்கொண்டவர்கள் எங்களை கடந்துசென்றனர் பொதுமக்கள் மீது அவர்கள் கண்மூடித்தனமாக துப்பாக்கி பிரயோகம் செய்ய தொடங்கினார்கள் என அவர் தெரிவித்தார்.
+The gunmen walked through the area outside the stadium, indiscriminately fired and killed civilians.
+
+When the attack began, the security officers of the stadium began to flee. One of the four security officers said that his colleagues were hiding behind the billboard.
+
+The attackers crossed us and they started firing on the public.
+
+No one knew how many people were involved in the attack, but the video shot from the top floor showed four people.
+
+The head of the attack group, who was hiding in the middle of the windows, fired at the firing of the attack group.
+
+Those who visited the concert from areas like Kimki in the north of Moscow were heavily killed.
 
 ...
 
 [Data](articles/5ef8bd6e.json)
 
+[Extended Data](ext_articles/5ef8bd6e.ext.json)
+
 ---
 
-### லண்டனில் இடம்பெற்ற 72 ஆவது வெஸ்மினிஸ்டர் மாநாட்டில் இலங்கை பாராளுமன்ற பிரதிநிதிகள் பங்கேற்பு
+### Sri Lankan parliamentary representatives participated in the 72nd Wesminster Conference held in London
 
 *2024-03-25 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/179657) · `ta`
 
-மார்ச் மாதம் 11ஆம் திகதி முதல் 15ஆம் திகதி வரை இங்கிலாந்தின் லண்டன் நகரில் வெஸ்மின்ஸ்டர் பாராளுமன்றத்தில் நடைபெற்ற 72வது வெஸ்மின்ஸ்டர் மாநாட்டில் இலங்கை பாராளுமன்றத்தைப் பிரதிநிதத்துவப்படுத்தி பிரதி சபாநாயகர் அஜித் ராஜபக்ஷ, பாராளுமன்ற உறுப்பினர் கலாநிதி ஹரினி அமரசூரிய மற்றும் பாராளுமன்றத்தின் பதவியணித் தலைமை அதிகாரியும், பிரதிச் செயலாளர் நாயகமுமான சமிந்த குலரத்ன ஆகியோர் கலந்துகொண்டனர்.
+Sri Lankan parliamentary representatives, including Deputy Speaker Ajith Rajapaksa and Saminda Gularatne, attended the 72nd Wesminster Conference in London, discussing Commonwealth Parliament traditions, MP privileges, and modern technology use.
 
-28 பொதுநலவாய நாடுகளைப் பிரதிநிதித்துவப்படுத்தி அந்தந்த நாடுகளின் பாராளுமன்ற உறுப்பினர்கள் மற்றும் பாராளுமன்றங்களின் அதிகாரிகள் இதில் பங்கெடுத்தனர். பொதுநலவாய நாடுகளினுடைய பாராளுமன்றங்களின் பாரம்பரியம், பாராளுமன்ற உறுப்பினர்களின் சிறப்புரிமை மற்றும் அதிகாரங்கள், அரசியலமைப்புச் சட்ட திட்டங்கள் இயற்றும் முறைகள் மற்றும் அவற்றின் சம்பிரதாயங்கள், நவீன சமூக ஊடகங்கள் மற்றும் தொழில்நுட்பம், ஆய்வு முறைகள் என்பன பாராளுமன்ற உறுப்பினர்கள் என்ற ரீதியில் எவ்வாறு பயன்படுத்துவது போன்ற பல்வேறு விடயங்கள் குறித்து இந்த மாநாட்டில் விரிவாகக் கலந்துரையாடப்பட்டது.
+🟩
 
-...
+Deputy Speaker Ajith Rajapaksa, Deputy Speaker Harini Amarasuriya and Deputy Secretary of Parliament Saminda Gularatne attended the 72nd Wesminster Conference held at the Wesminster Parliament in London, UK from 11th to 15th.
 
-[Data](articles/6014b315.json)
+28 Representatives of the Commonwealth and the officials of the respective countries participated in the event. The conference was discussed in detail on a variety of issues such as the traditions of the Commonwealth Parliament, the privileges and powers of the Members of Parliament, the methods of enforcement of constitutional laws, and their customs, modern social media and technology, and how to use it as MPs.
 
----
+Sri Lankan representatives were given the opportunity to participate in the 75 -year celebration of the British Parliament this year in view of the establishment of the Commonwealth Organization.
 
-### யாழ்ப்பாண பல்கலைக்கழகத்தின் இணைந்த சுகாதார விஞ்ஞான பீட மாணவர்கள் கவனயீர்ப்பு போராட்டத்தில்!
-
-*2024-03-25 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/179678) · `ta`
-
-இணைந்த சுகாதாரக் கற்கைகள் மாணவர்களின் வேலைவாய்ப்பை உறுதி செய்யக்கோரி யாழ்ப்பாணத்தில் கவனயீர்ப்பு போராட்டமொன்று முன்னெடுக்கப்பட்டது.
-
-யாழ்ப்பாணப் பல்கலைக்கழக மாணவர் ஒன்றியத்தின் ஏற்பாட்டில் இன்று திங்கட்கிழமை (25) நண்பகல் 12 மணியளவில் யாழ்.பல்கலைக்கழக இணைந்த சுகாதாரக் கற்கைகள் பீடத்தில் இருந்து ஆரம்பித்த பேரணி பலாலி வீதி ஊடாக பல்கலைக்கழக பிரதான நுழைவாயில் வரை இடம்பெற்று அங்கு கவனயீர்ப்பு போராட்டம் முன்னெடுக்கப்பட்டது.
-
-இணைந்த சுகாதாரக் கற்கைகள் மாணவர்களின் வேலைவாய்ப்பில் அசமந்தமான போக்கினை உடன் நிறுத்தி, தரமான சேவையை மக்களுக்கு வழங்க, இணைந்த சுகாதார விஞ்ஞான பட்டதாரிகளுக்கு நியமனங்களை வழங்கு என கோரியே குறித்த போராட்டம் முன்னெடுக்கப்பட்டது.
-
-இதன்போது இணைந்த சுகாதார கற்கைகள் பட்டதாரிகள், பல்கலைக்கழக மாணவர்கள் என பலரும் கலந்துகொண்டனர்.
+In addition, Maharani Kamila, Prince Williams, Prince Edward and Young people were present on behalf of the royal family as King III King of Britain's King III.
 
 ◼️
 
-[Data](articles/ed2c743e.json)
+[Data](articles/6014b315.json)
+
+[Extended Data](ext_articles/6014b315.ext.json)
 
 ---
 
@@ -104,35 +178,77 @@ Former President Maithripala Sirisena, former President Maithripala Sirisena mad
 
 ---
 
-### அநுராதபுரம் ஜயஸ்ரீ மஹாபோதி பொலிஸாருக்கு புதிய சீருடை
+### Ex-President Maithripala leaves CID after recording statement
+
+*2024-03-25 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98195/ex-president-maithripala-leaves-cid-after-recording-statement) · `en`
+
+Former President Maithripala Sirisena has left the Criminal Investigation Department (CID) premises a short while ago, after a statement was recorded on his recent comments regarding the Easter Sunday attacks, Police Media Spokesman DIG Nihal Thalduwa said.
+
+◼️
+
+[Data](articles/1e2c32f3.json)
+
+---
+
+### Discarded Romanian railway carriages back for tourism
+
+*2024-03-25 16:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Discarded-Romanian-railway-carriages-back-for-tourism/108-279554) · `en`
+
+Colombo, March 25 (Daily Mirror) - With the expenditure of Rs. 5.5 million by the Sri Lanka Railways Department (SLRD), the Chief Mechanical Engineer's Sub Department Ratmalana has renovated several old discarded Romanian railway carriages as tourist railway carriages to attract local and foreign tourists.
+
+While paying an inspection visit to the Chief Mechanical Engineer's Sub Department, Transport Minister Bandula Gunawardana said these old Romanian railway carriages have been modernized and the roof has been removed so that tourists can observe the environment and the railway track more easily.
+
+Another compartment has been renovated completely using wood, so that tourists can observe the environment around the railway line with more comfortable seats.
+
+It is remarkable that these old railway carriages, once unfit for service, have been refurbished by local railway engineers and technicians, adding significant value, the Minister said.
+
+...
+
+[Data](articles/0558c12f.json)
+
+---
+
+### New Uniforms to Anuradhapura Jayasree Mahabodi Police
 
 *2024-03-25 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/179666) · `ta`
 
-அநுராதபுர வரலாற்று சிறப்பு மிக்க ஜயஸ்ரீ மஹாபோதி விகாரையில் கடமையில் ஈடுபட்டுள்ள பொலிஸாருக்கு புதிய சீருடை இன்று திங்கட்கிழமை (25) அறிமுகப்படுத்தப்பட்டது.
+New uniforms introduced to Anuradhapura Jayasree Mahabodi Police. Recited by Pallagama Hemaratna Thera. Presented to Public Security Minister Tran Ales and Inspector General of Police, Deshabandu Tennakoon, by Dr. Pallagama Hemarathana Thera. High-ranking police officers attended.
 
-நேற்று ஞாயிற்றுக்கிழமை (24) காலை புதிய சீருடையில் கடமைகளை பொறுப்பேற்ற அதிகாரிகள் மகாசங்கத்தினரின் ஆசிகளை பெற்றுக்கொண்டனர். அடமஸ்தானதிபதி கலாநிதி அதி வணக்கத்துக்குரிய பல்லேகம ஹேமரத்தன தேரரினால் தர்மோபதேச பிரித் ஓதப்பட்டது.
+🟩
 
-பொது பாதுகாப்பு அமைச்சர் டிரான் அலஸ் மற்றும் பொலிஸ் மா அதிபர் தேசபந்து தென்னக்கோன் ஆகியோரிடம்  அடமஸ்தானதிபதி கலாநிதி அதி வணக்கத்துக்குரிய பல்லேகம ஹேமரத்தன தேரர் விடுத்த வேண்டு கோளுக்கு இணங்க புதிய  சீருடை அறிமுகப்படுத்தப்பட்டது.
+A new uniform was introduced to the police who were on duty at the Anuradhapura historic Jayasree Mahabodhi Viharaya today (25).
 
-உடமலுவ பொலிஸ் நிலையப் பொறுப்பதிகாரி  டபிள்யூ.சி.எல்.ஆர்.கே.பி. வெத்தேவ உட்பட பல உயர் பொலிஸ் அதிகாரிகள் ஆகியோர் இந்நிகழ்வில் கலந்து கொண்டனர்.
+Officers in charge of the new uniforms in the morning (24) morning (24). The Dharmopadeshada was recited by the Pallagama Hemaratna Thera, the worshipers of the Adamasthana President.
+
+The new uniform was introduced to the Public Security Minister Tran Ales and the Inspector General of Police, Deshabandu Tennakoon, in accordance with the request of Dr. Dr. Pallagama Hemarathana Thera.
+
+WCLRKP in charge of Udamaluwa Police Station. Several high -ranking police officers, including Wethewa, attended the event.
 
 ◼️
 
 [Data](articles/1f9ce8cf.json)
 
+[Extended Data](ext_articles/1f9ce8cf.ext.json)
+
 ---
 
-### பதுளை மார்க்கத்தினூடான ரயில் சேவையின் நூற்றாண்டு விழாவை முன்னிட்டு இரு புதிய ரயில் சேவைகள்
+### Two new rail services to celebrate the centenary of the Badulla rail service
 
 *2024-03-25 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179671) · `ta`
 
-பதுளை மார்க்கத்தினூடான ரயில் சேவையின் நூற்றாண்டு விழாவை முன்னிட்டு ஏப்ரல் 5 ஆம் திகதி இரண்டு புதிய ரயில்கள் சேவையில்  இணைக்கப்படும்  என போக்குவரத்து அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+To celebrate the Badulla rail service's centenary, two new trains will be added on April 5, and a special tourist train service will be launched, offering a unique journey through Nanuoya's hill country.
 
-இதேவேளை, நானுஓயாவின் மலையகப் பகுதிகளில் உள்ள சுற்றுலாத் தலங்களுக்கு குறுகிய தூர பயணத்திற்காக காட்சி கூட அறைகளுடன் விசேட சுற்றுலா ரயில் சேவையும் ஆரம்பிக்கப்படவுள்ளதாக அவர் தெரிவித்துள்ளார்.
+🟩
+
+Transport Minister Bandula Gunawardena has said that two new trains will be added to the service on April 5 to celebrate the centenary of the train service through the Badulla railway service.
+
+Meanwhile, a special tourist train service will be launched with rooms for a short distance journey to tourist atmosphere in Nanuoya's hill country.
 
 ◼️
 
 [Data](articles/3f574d12.json)
+
+[Extended Data](ext_articles/3f574d12.ext.json)
 
 ---
 
@@ -2133,115 +2249,5 @@ Two accused have been accepted by the courts.
 [Data](articles/933a4aa8.json)
 
 [Extended Data](ext_articles/933a4aa8.ext.json)
-
----
-
-### Showers expected at several places in the country this evening
-
-*2024-03-25 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Showers-expected-at-several-places-in-the-country-this-evening/108-279514) · `en`
-
-Colombo, March 25 (Daily Mirror) - Showers will occur at several places in the Western, Sabaragamuwa, Southern, and Central Provinces during the afternoon or night, the forecasting division of the National Meteorological Centre said.
-
-Meanwhile, several spells of showers may occur in the Eastern and Uva Provinces and in the Polonnaruwa district.
-
-However, misty conditions can be expected at some places in the Central, Sabaragamuwa and Uva Provinces and in the Kalutara, Galle and Matara districts during the morning.
-
-Moreover, showers will occur at a few places in the sea areas off the coast, extending from Trincomalee to Hambantota via Batticaloa.
-
-Showers or thundershowers may occur at a few places in the sea areas off the coast, extending from Colombo to Hambantota via Galle, during the afternoon or night.
-
-Wind speed may increase up to 40 kmph at times in the sea areas off the coasts extending from Puttalam to Kankesanthurai via Mannar.
-
-...
-
-[Data](articles/cfe6db76.json)
-
-[Extended Data](ext_articles/cfe6db76.ext.json)
-
----
-
-### Maithri to CID today
-
-*2024-03-25 08:16:42* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-අද-සී-අයි-ඩීයට/11-408774) · `si`
-
-Maithripala Sirisena informed CID today about his knowledge of the Paska suicide attacks. Tiran Alles, Defense Minister, is leading an immediate investigation.
-
-🟩
-
-The Criminal Investigations Department (CID) has made a statement regarding the statement made by former President Maithripala Sirisena that he knew who had committed suicide attacks on Paska.
-
-Accordingly, Maithripala Sirisena has informed the CID at 10.30 am today.
-
-Former President Maithripala Sirisena had made a statement to the media after he was actually aware of the Easter attack on Easter.
-
-The Minister of Defense Tiran Alles has been instructed to conduct an immediate investigation into the statement.
-
-Former President Maithripala Sirisena is expected to appear in the Criminal Investigation Department today.
-
-◼️
-
-[Data](articles/21d9fc9e.json)
-
-[Extended Data](ext_articles/21d9fc9e.ext.json)
-
----
-
-### Lukashenko highlights potential of cooperation between Belarus, Sri Lanka
-
-*2024-03-25 08:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98181/lukashenko-highlights-potential-of-cooperation-between-belarus-sri-lanka) · `en`
-
-Belarusian President Aleksandr Lukashenko has sent greetings to President of Sri Lanka Ranil Wickremesinghe to congratulate him on his 75th birthday, according to the press service of the Belarusian leader.
-
-“Today, Sri Lanka is a good example of economic reforms aimed at improving the quality of life of the population. In this pursuit you can always count on the support of the Republic of Belarus.
-
-“I am convinced that the potential of bilateral cooperation is far from being exhausted and together we will be able to bring the Belarusian-Sri Lankan cooperation to a new level,” the congratulatory message reads.
-
-Aleksandr Lukashenko noted that Belarus has competencies in such sectors as mechanical engineering, metal and wood processing, electric power, petrochemistry, pharmaceuticals, and is ready to assist Sri Lanka in its effort to strengthen food security and to supply agricultural machinery and share technologies.
-
-◼️
-
-[Data](articles/e1ec5da4.json)
-
-[Extended Data](ext_articles/e1ec5da4.ext.json)
-
----
-
-### Church skeptical on CID questioning Maithri
-
-*2024-03-25 08:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Church-skeptical-on-CID-questioning-Maithri/108-279513) · `en`
-
-Colombo, March 25 (Daily Mirror) - National Catholic Director of Mass Communications Fr. Jude Krishantha yesterday said the church in Sri Lanka has decided to adopt a wait and see policy with regard to action which the authorities would take against former President Maithripala Sirisena despite the assurance given by the CID that it will probe the latter would be questioned on the remark he made on Friday.
-
-Former President Sirisena on Friday said he is aware as to who was behind the Easter Sunday bomb attacks.
-
-“CID has said Mr. Sirisena will be probed but we have to wait and see how it goes,” Fr. Fernando told Daily Mirror.
-
-“Mr Sirisena has actually misled the judiciary as he earlier denied any knowledge about the attacks. However the former President is now saying that he is aware of as to who was behind the Easter Sunday attacks. We call for Sirisena’s arrest,” he said.
-
-◼️
-
-[Data](articles/312cfb17.json)
-
-[Extended Data](ext_articles/312cfb17.ext.json)
-
----
-
-### President calls for comprehensive dialogue on healthcare transformation
-
-*2024-03-25 07:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98180/president-calls-for-comprehensive-dialogue-on-healthcare-transformation) · `en`
-
-President Ranil Wickremesinghe outlined his intention to spearhead thorough deliberations concerning healthcare service advancements, emphasizing the incorporation of modern technology to enhance medical facilities.
-
-He highlighted the government’s commitment to empowering individuals for the betterment of society, emphasizing the crucial role of healthcare. The President encouraged input from Medical Officers to shape a new healthcare framework and expressed readiness to revisit for additional discussions on leadership and government engagement.
-
-President Ranil Wickramasinghe emphasized this during a meeting held with the Government Medical Officers Association (GMOA).
-
-The GMOA hosted a one-day workshop on “Leadership and Skills Development” on Saturday (23) at the Sudu Araliya Hotel in Polonnaruwa. While attending a nearby official event, the President received an urgent invitation from the association and briefly visited the workshop venue.
-
-...
-
-[Data](articles/2c1d4f3b.json)
-
-[Extended Data](ext_articles/2c1d4f3b.ext.json)
 
 ---

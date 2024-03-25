@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 17:03:13**
+As of **2024-03-25 17:18:01**
 
 ## Newspaper Stats
 
-*Scraped **15,051** Articles*
+*Scraped **15,058** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,72 @@ newsfirstlk | 363
 economynextcom | 805
 dailyftlk | 806
 islandlk | 831
-adalk | 1,279
-tamilmirrorlk | 1,812
+adalk | 1,281
 adaderanalk | 1,813
-virakesarilk | 2,115
-dailymirrorlk | 2,323
-adaderanasinhalalk | 2,414
+tamilmirrorlk | 1,814
+virakesarilk | 2,116
+dailymirrorlk | 2,324
+adaderanasinhalalk | 2,415
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,046 (100.0%) of 15,051 articles have been extended.
+15,051 (100.0%) of 15,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### Nissan to launch 30 new models by 2027
+
+*2024-03-25 17:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nissan-to-launch-30-new-models-by-2027/108-279560) · `en`
+
+Japan, March 25 (Reuters) - Nissan Motor (7201.T), opens new tab said on Monday it would launch 30 new models over the next three years and aim to raise its global sales by 1 million vehicles while cutting costs to improve profitability.
+
+Announcing an update to its medium-term business plan, Japan's third-largest automaker by sales said it would target an operating profit margin of over 6% by end of the financial year to March 2027 and total shareholder returns of more than 30%.
+
+Nissan was a pioneer in electric vehicles with its all-battery-powered Leaf but its EV efforts have been eclipsed by the likes of U.S. rival Tesla (TSLA.O), opens new tab and Chinese leader BYD (002594.SZ), opens new tab, including in the world's biggest car market, China.
+
+...
+
+[Data](articles/238bd65e.json)
+
+---
+
+### உயிர்த்தஞாயிறுதாக்குதல் குறித்த விசாரணைகளை மேற்கொண்ட சிஐடி அதிகாரிகள் எங்களுடன்இணைந்து செயற்படுகின்றனர் -அனுரகுமார
+
+*2024-03-25 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179683) · `ta`
+
+உயிர்த்தஞாயிறு தாக்குதல் குறித்த விசாரணைகளை முன்னெடுத்த சிஐடி அதிகாரிகள் தேசிய மக்கள் சக்தியின் ஒய்வுபெற்ற பொலிஸ் உத்தியோகத்தர்கள் மன்றத்திற்கு தலைமைதாங்கவுள்ளனர் என அனுரகுமார திசநாயக்க கனடாவில் தெரிவித்துள்ளார்.
+
+மேமாதம் இந்த அமைப்பு செயற்பட ஆரம்பிக்கும் என தெரிவித்துள்ள அவர் இந்த தாக்குதலிற்கு காரணமானவர்களிற்கு எதிராக சட்டத்தைஇவர்கள் நடைமுறைப்படுத்துவார்கள் எனவும் குறிப்பிட்டுள்ளார்.
+
+உயிர்த்த ஞாயிறுதாக்குதல் குறித்து புதிய விசாரணைகள் அவசியமில்லை ஏற்கனவே இடம்பெற்ற விசாரணைகளின் மூலம் வெளியான பல விடயங்கள் உண்மையானவையா என்பதை உறுதி செய்யவேண்டும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+உயிர்த்தஞாயிறுதாக்குதல் குறித்த விசாரணைகளை மேற்கொண்ட சிஐடி உத்தியோகத்தர்கள் தற்போது ஓய்வுபெற்றுவிட்டனர் அவர்கள் தேசிய மக்கள் சக்தியுடன் இணைந்து பணியாற்றுகின்றனர் என அனுரகுமார திசநாயக்க தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/8d511835.json)
+
+---
+
+### காரின் மீதேறி கெப் விபத்து: நால்வர் காயம்
+
+*2024-03-25 16:41:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/காரின்-மீதேறி-கெப்-விபத்து-நால்வர்-காயம்/74-335168) · `ta`
+
+அம்பாறை மூவாங்கலை வீதியில் கெப் வண்டியும் காரொன்றும் மோதி விபத்துக்கு உள்ளானதில் நால்வர் காயமடைந்து அம்பாறை பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+கெப் வண்டியின் டயர் ஒன்றில் காற்று இல்லாமற் போய்விட்டது. இதனையடுத்து சாரதியால் கட்டுப்படுத்த முடியாமல் போய், காரின் மேல் ஏற்றிவிட்டார் என அறியமுடிகின்றது.
+
+இந்த சம்பவத்தில், கெப் வண்டியில் பயணித்த நால்வர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர் என பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/1b9cd444.json)
+
+---
 
 ### Malnutrition emerges as serious issue in Sri Lankan schools
 
@@ -45,6 +95,32 @@ Colombo, March 25 (Daily Mirror) - Malnutrition has emerged as a significant con
 ...
 
 [Data](articles/155a11e7.json)
+
+[Extended Data](ext_articles/155a11e7.ext.json)
+
+---
+
+### රුසියාව සලිත කළ ප්‍රහාරය - පුටින් ගේ සැලැස්ම
+
+*2024-03-25 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194914) · `si`
+
+මොස්කව්හි ක්‍රෝකස් නගර ශාලාවට එල්ල කළ ප්‍රහාරය සම්බන්ධයෙන් අත්අඩංගුවට ගත් ප්‍රධාන සැකකරුවන් සිව්දෙනා මොස්කව්හි අධිකරණයක් හමුවට ඉදිරිපත් කර චෝදනා ගොනුකිරීමට රුසියානු ආරක්ෂක බලධාරීන් තීරණය කර තිබේ.
+
+එහිදී ඔවුන්ගේ අනන්‍යතාවද අනාවරණ කර ඇති අතර ඔවුන් සිව්දෙනාම ටජිකිස්තාන ජාතිකයින් බව සඳහන් ය.
+
+රුසියාවේ මොස්කව් නුවර ක්‍රෝකස් නගර ශාලාවේ පැවැති සංගීත ප්‍රසංගයකට පැමිණි පිරිසක් ඉලක්කකර ත්‍රස්තවාදී ප්‍රහාරයක් එල්ල වූයේ පසුගිය සිකුරාදා රාත්‍රියේදී ය.
+
+ප්‍රහාරයෙන් සිදුවූ මරණ ගණන 137දෙනෙකු දක්වා ඉහළ ගොස් ඇති අතර, ප්‍රහාරයෙන් තුවාල ලැබූ 150කට වැඩි පිරිසක් තවමත් රෝහල්ගතව පසුවෙති.
+
+එදිනම පස්වරුවේ අත්අඩංගුවට ගත් ප්‍රහාරයේ සැකකරුවන් සිව්දෙනා ඊයේ දිනයේදී මොස්කව් හි අධිකරණයක් හමුවට ඉදිරිපත් කෙරුණි.
+
+සැකකරුවන්ගෙන් තිදෙනෙක් මේ වනවිටත් ප්‍රහාරයේ වගකීම භාරගෙන ඇති අතර සිව්වැන්නා වන 19 හැවිරිදි සැකකරු අධිකරණයට ඉදිරිපත් කෙරුණේ ද රෝද පුටුවක ආධාරයෙනි.
+
+සැකකරුවන් සිව්දෙනාම ලබන මැයි මස 22වැනිදා දක්වා බන්ධනාගාරගත කිරීමට අධිකරණය අවසර ලබාදුන් අතර ඉන් පසුව ඔවුන්ට ජීවිතාන්තය දක්වා සිරදඬුවම් හිමිවෙතැයි අපේක්ෂිත ය.
+
+...
+
+[Data](articles/c9009027.json)
 
 ---
 
@@ -72,17 +148,23 @@ Graduates and university students participated in the event.
 
 ---
 
-### சிஐடியிலிருந்து வெளியேறினார் மைத்திரிபால சிறிசேன !
+### Maithripala Sirisena leaves CIT!
 
 *2024-03-25 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/179681) · `ta`
 
-வாக்குமூலம் வழங்குவதற்காக குற்றப் புலனாய்வு திணைக்களத்துக்குச் சென்றிருந்த  முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன,  தனது வாக்குமூலத்தை வழங்கிய பின்னர் அங்கிருந்து வெளியேறியுள்ளார்.
+Maithripala Sirisena confessed to CIT, leaving after submitting an affidavit.
 
-உயிர்த்த ஞாயிறு   தாக்குதல் தொடர்பில்  முன்னாள் ஜனாதிபதி மைத்திரிபால் சிறிசேன வெளியிடப்பட்ட  சர்ச்சைக்குரிய கருத்து தொடர்பில் வாக்குமூலம் வழங்குமாறு குற்றப் புலனாய்வுப் பிரிவினரால் விடுக்கப்பட்ட  அழைப்பையடுத்து  அவர் இன்று திங்கட்கிழமை (25) அங்கு சென்று வாக்குமூலம் வழங்கினார்.
+🟩
+
+Former President Maithripala Sirisena, who had gone to the Criminal Investigation Department to make a confession, has left after his affidavit.
+
+He made a statement on Monday (25) following an invitation by the Criminal Investigation Department to make a confession on the controversial comments made by former President Maithripal Sirisena on the Sunday attack.
 
 ◼️
 
 [Data](articles/2298783d.json)
+
+[Extended Data](ext_articles/2298783d.ext.json)
 
 ---
 
@@ -99,6 +181,8 @@ He was accompanied by Sri Lankan High Commissioner in Kenya Kana Kananathan, Gen
 ...
 
 [Data](articles/b2a9b2f0.json)
+
+[Extended Data](ext_articles/b2a9b2f0.ext.json)
 
 ---
 
@@ -188,6 +272,8 @@ Former President Maithripala Sirisena has left the Criminal Investigation Depart
 
 [Data](articles/1e2c32f3.json)
 
+[Extended Data](ext_articles/1e2c32f3.ext.json)
+
 ---
 
 ### Discarded Romanian railway carriages back for tourism
@@ -205,6 +291,26 @@ It is remarkable that these old railway carriages, once unfit for service, have 
 ...
 
 [Data](articles/0558c12f.json)
+
+[Extended Data](ext_articles/0558c12f.ext.json)
+
+---
+
+### வீதியில் இருந்து வீதியில் விழுந்த பஸ்
+
+*2024-03-25 16:11:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வீதியில்-இருந்து-வீதியில்-விழுந்த-பஸ்/76-335163) · `ta`
+
+தனியார் பஸ்ஸொன்று மேல் வீதியில் இருந்து கீழ் வீதியில் விழுந்து விபத்துக்கு உள்ளான சம்பவமொன்று கண்டியில் இடம்பெற்றுள்ளது.
+
+மெதமஹநுவர பிரதேசத்தில் இரண்டாம் வளைவு பகுதியில் பயணித்துக்கொண்டிருந்த அதிசொகுசு தனியார் பஸ்ஸொன்றே இவ்வாறு விபத்துக்கு உள்ளாகியுள்ளது. பஸ்ஸில் பயணித்த மூவர் படுகாயமடைந்துள்னர். அத்துடன், பஸ்ஸூக்கு பலத்த சேதம் ஏற்பட்டுள்ளது.
+
+பிபில பிரதேசத்திலுள்ள ஆடைத்தொழிற்சாலை ஒன்றின் சேவைப் பணிக்காக பயன்படுத்தப்பட்ட இந்த பஸ், கொழும்பு பிரதேசத்தில் உள்ள ஒருவருக்கு விற்பனை செய்வதற்காக கொண்டு செல்லப்பட்ட போது விபத்துக்குள்ளானதாகவும் பொலிஸார் தெரிவிக்கின்றனர்.
+
+உடதும்பர பொலிஸ் நிலைய பிரதான பொலிஸ் பரிசோதகர் துசித தொம்பகம்மன தலைமையில் விசாரணைகள் இடம்பெற்று வருகின்றன.
+
+◼️
+
+[Data](articles/1c692b02.json)
 
 ---
 
@@ -478,6 +584,22 @@ The cause of the clash has not yet been identified, and the Koralla police are c
 
 ---
 
+### හෙට මිලි මිටර් 100 ඉක්මවූ තද වැසි
+
+*2024-03-25 14:54:19* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-මිලි-මිටර්-100-ඉක්මවූ-තද-වැසි/11-408788) · `si`
+
+නැහෙනහිර හා ඌව පළාත්වලත් පොලොන්නරුව දිස්ත්‍රික්කයෙත් හෙට දිනයේදී වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව, දකුණු සහ මධ්‍යම පළාත්වල සවස්කාලයේදී යහෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බවද එම දෙපාර්තමේන්තුව දන්වා සිටියි.
+
+දකුණු පළාතේ හා මොණරාගල දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවලට මිලි මිටර් 100ට වැඩි තද වැසි ඇතිවීමේ හැකියාවක් ඇති බවද එම දෙපාර්තමේන්තව දන්වා සිටියි.
+
+◼️
+
+[Data](articles/62f9fb12.json)
+
+---
+
 ### Students arrested for stealing laptops
 
 *2024-03-25 14:53:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மடிக்கணினிகளை-திருடிய-மாணவர்கள்-கைது/175-335155) · `ta`
@@ -527,6 +649,24 @@ President Ranil Wickremesinghe has issued a directive to provide this breakfast 
 [Data](articles/71fd0563.json)
 
 [Extended Data](ext_articles/71fd0563.ext.json)
+
+---
+
+### ඉඟුරු වංචාවක් දඹුල්ලෙන් හසුකර ගනියි
+
+*2024-03-25 14:47:02* · [`adalk`](https://www.ada.lk/breaking_news/ඉඟුරු-වංචාවක්-දඹුල්ලෙන්-හසුකර-ගනියි/11-408787) · `si`
+
+දේශීය ඉගුරු අස්වැන්න වෙළඳපලට ලැබෙද්දී විදේශ රටවලින් අමු ඉඟුරු ගෙන්වීම තහනම් කර  තිබියදී ඉතා සූක්ෂම ලෙස විදේශ රටවලින් ගෙන්වූ අමු ඉඟුරු අඩු මිල ගණන් යටතේ දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ අලෙවි කිරීම දින ගණනාවක සිට සිදුවන බව දේශීය ඉඟුරු ගොවීහු  චෝදනා කරති.
+
+මේ වන විට දේශීය අමු ඉඟුරු කිලෝවක තොග මිල රුපියල් 1900 ත්  1800 අතර වන බවත් විදේශ රටවලින් ගෙන්වූ අමු ඉඟුරු කිලෝව රුපියල්  1500 සිය  සිට රුපියල් 1700 දක්වා වූ විවිධ මිල ගණන් යටතේ දේශීය ඇසුරුම් වලින් බහා ඒවා අලෙවි කිරීම සිදුකරන බව ගොවීන් පවසති
+
+දඹුල්ල ආර්ථික මධ්‍යස්ථානය ඇතුළත සහ ආර්ථික මධ්‍යස්ථානයට පිටතින් ඇති විදේශ රටවලින් අල  ලුණු ගෙන්වන ගබඩාවලද මේවා අලෙවි කිරීමට තබා තිබෙන අයුරු දැක ගැනීමට හැකි විය.
+
+එම අලවිසැල් වලට ගොස් විමසීමේදී මෙවා  ලබා දුන් ගොවියෙක් හෝ කාගේද යන්න ඔවුන්ට නිසි ලෙස ප්‍රකාශ කර ගැනීමට නොහැකි විය .ආර්ථික මධ්‍යස්ථානයේ ඇතුළත  වෙළඳසැලක විශාල   ප්‍රමාණයක් ලොරි දෙකකින්  ගෙනවිත් එම වෙළෙඳසැලේ තබා අමු ඉඟුරු අලෙවිකරන අයුරු ගොවීන් පෙන්වා දෙන්නට විය
+
+...
+
+[Data](articles/de8ff733.json)
 
 ---
 
@@ -2081,173 +2221,5 @@ Meanwhile, Senior Attorney -at -Law Dr. Jagath Gunawardena said that it is legal
 [Data](articles/79286771.json)
 
 [Extended Data](ext_articles/79286771.ext.json)
-
----
-
-### Doctor arrested for importing the money in Israel
-
-*2024-03-25 09:30:57* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-රැකියා-මවා-මුදල්-ගෑරූ-හොර-දොස්තර-දැලේ/11-408776) · `si`
-
-A doctor was arrested in Sri Lanka for allegedly importing money and cheating 9.65 million people. The suspect, from Wijerama Mawatha, claimed to be a doctor and sought funds from the Ministry of Foreign Employment. The case is under investigation, with the suspect's wife, involved in the scheme, being sought. Labor and Foreign Employment Minister Manusha Nirisha has requested Israel's assistance.
-
-🟩
-
-The Sri Lanka Bureau of Foreign Employment Bureau was arrested by the Sri Lanka Foreign Employment Bureau of the Sri Lanka Bureau of Labor and Foreign Employment.
-
-The suspect, the suspect of the Wijerama Mawatha and the Ministry of Foreign Employment, he has said that he is a doctor and he has said that he is a doctor. He has called for the Ministry of Foreign Employment and the Foreign Employment Bureau to obtain money.
-
-Investigations have revealed that the suspect had cheated on 9,650,000 people and a complaint has been lodged with a person who has given him a complaint by the Ministry of Labor and Foreign Employment.
-
-The suspect was produced before Colombo 5, Magistrate's Court and remanded until April 3.
-
-His wife, who is supporting the racket, is hiding and the investigation is conducted to arrest her.
-
-...
-
-[Data](articles/a81a7b67.json)
-
-[Extended Data](ext_articles/a81a7b67.ext.json)
-
----
-
-### Former President Sirisena to appear before CID today
-
-*2024-03-25 09:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-President-Sirisena-to-appear-before-CID-today/108-279516) · `en`
-
-Colombo, March 25 (Daily Mirror) - Former President Maithripala Sirisena is scheduled to appear before the Criminal Investigation Department today (25).
-
-The former President had been summoned to the Criminal Investigation Department (CID) at 10.30 a.m. today to record a statement.
-
-Public Security Minister Tiran Alas instructed the Inspector General of Police (IGP) to conduct an urgent investigation over the statement made by the former President in Kandy recently that he knew the people involved in the Easter Sunday that took place on 21 April 2019.
-
-◼️
-
-[Data](articles/0dabe194.json)
-
-[Extended Data](ext_articles/0dabe194.ext.json)
-
----
-
-### Former President in CIT today
-
-*2024-03-25 09:29:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிஐடியில்-இன்று-முன்னிலையாகவுள்ள-முன்னாள்-ஜனாதிபதி/175-335134) · `ta`
-
-Former President Maithripala Sirisena will testify at the Criminal Investigation Department today, following his awareness of the Easter Sunday attack. Public Security Minister Tran Ales has ordered an emergency inquiry.
-
-🟩
-
-Former President Maithripala Sirisena will appear before the Criminal Investigation Department today (25).
-
-Maithripala Sirisena recently commented in Kandy that he was aware of the Easter Sunday attack.
-
-Public Security Minister Tran Ales has directed the Inspector General of Police to conduct an emergency inquiry into the report.
-
-Accordingly, former President Maithripala Sirisena has been summoned to the Criminal Investigation Department at 10.30 am today to record a statement.
-
-◼️
-
-[Data](articles/236a8ee6.json)
-
-[Extended Data](ext_articles/236a8ee6.ext.json)
-
----
-
-### Prime Minister leaves for China on five-day official visit
-
-*2024-03-25 09:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Prime-Minister-leaves-for-China-on-five-day-official-visit/108-279515) · `en`
-
-Prime Minister Dinesh Gunawardena left for China last night for a five-day official visit, airport sources said.
-
-They said the Prime Minister had agreed to visit the country on the special invitation of the Chinese government.
-
-During this visit, an agreement is to be reached on the restructuring of the loans given to Sri Lanka by China, whose payments have been suspended.
-
-10 other Sri Lankan delegations have joined the Prime Minister for this visit.
-
-The Prime Minister and his group departed from the Bandaranaike International Airport (BIA) on China Eastern Airlines flight MU-232 at 8.20 p.m. last evening.
-
-◼️
-
-[Data](articles/ed975317.json)
-
-[Extended Data](ext_articles/ed975317.ext.json)
-
----
-
-### Prime Minister to China for crucial discussions
-
-*2024-03-25 09:25:42* · [`adalk`](https://www.ada.lk/breaking_news/තීරණාත්මක-සාකච්ඡා-කිහිපයකට-අගමැති-චීනයට/11-408775) · `si`
-
-Prime Minister Dinesh Gunawardena of Sri Lanka visited China for crucial discussions, including debt restructuring, accompanied by a delegation.
-
-🟩
-
-Prime Minister Dinesh Gunawardena said that China was traveling on a five-day official visit yesterday (24), Katunayake Airport Officer said.
-
-The Prime Minister of Sri Lanka has joined the tour of the Prime Minister of China, and China is due to restructuring the restructuring of the restructuring debt.
-
-The airport work officer said that as the Sri Lankan delegation, as the Sri Lankan delegation with Prime Minister Dinesh Gunawardena, has joined the visit.
-
-The Prime Minister of Sri Lanka (Prime Minister) and the chinahston Airlines at the Chaina Eastern Airlines had left from Katunayake from Katunayake airplane.
-
-◼️
-
-[Data](articles/dc765805.json)
-
-[Extended Data](ext_articles/dc765805.ext.json)
-
----
-
-### University student in Kelaniya dies in sickness
-
-*2024-03-25 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194899) · `si`
-
-A fourth-year student at Kelaniya University died due to delayed ambulance service, leading to a protest by about 150 students in front of the administrative building.
-
-🟩
-
-Students in Kelaniya University have launched a protest in front of its administrative building.
-
-A fourth-year student of the University of Kelaniya has died yesterday (24), he died yesterday.
-
-However, university students complain that he was delayed due to the lack of ambulance facility or other vehicle in the university.
-
-Accordingly, about 150 students have commenced a protest in front of the university administration building.
-
-◼️
-
-[Data](articles/659d81a3.json)
-
-[Extended Data](ext_articles/659d81a3.ext.json)
-
----
-
-### Four persons arrested for Moscow attack is indictment
-
-*2024-03-25 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194898) · `si`
-
-Four suspects in Moscow attack indicted, facing life in prison. 137 killed, 11 arrested. Four handed over to courts, detained until May 22, trial date pending.
-
-🟩
-
-Steps have been taken to file excitement of terrorism against four of the suspects in the Moscow, Russia's attack.
-
-Accordingly, the four persons can be sentenced to life in prison, according to foreign reports.
-
-A total of 137 people were killed in the attack on Moscow capital, last Friday.
-
-Eleven persons were arrested in this regard and four of them have been indicted.
-
-Accordingly, they have been handed over to the courts in the country and has been ordered to be detained until May 22.
-
-However, the retention period will extend the date on which their trial date is subjected to.
-
-Two accused have been accepted by the courts.
-
-◼️
-
-[Data](articles/933a4aa8.json)
-
-[Extended Data](ext_articles/933a4aa8.ext.json)
 
 ---

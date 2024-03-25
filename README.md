@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 22:33:17**
+As of **2024-03-25 22:51:04**
 
 ## Newspaper Stats
 
-*Scraped **15,110** Articles*
+*Scraped **15,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 806
 islandlk | 831
 adalk | 1,291
 tamilmirrorlk | 1,817
-adaderanalk | 1,817
+adaderanalk | 1,818
 virakesarilk | 2,125
 dailymirrorlk | 2,337
 adaderanasinhalalk | 2,427
@@ -26,47 +26,77 @@ adaderanasinhalalk | 2,427
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,107 (100.0%) of 15,110 articles have been extended.
+15,110 (100.0%) of 15,111 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### ஜனாதிபதி தேர்தல் குறித்து தீர்மானம் எடுக்கும் அதிகாரம் ஜனாதிபதிக்கு கிடையாது - ஜீ.எல்.பீரிஸ்
+### COPA instructs officials to immediately report importation of 102 spoiled fish containers to CID
+
+*2024-03-25 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98201/copa-instructs-officials-to-immediately-report-importation-of-102-spoiled-fish-containers-to-cid) · `en`
+
+The Committee on Public Accounts (COPA) has instructed the officials of the Ministry of Finance to immediately report the matter of the importation of 102 spoiled fish containers into the country to the Criminal Investigation Department (CID) as it appears to be a criminal matter.
+
+Furthermore, high officials of the Criminal Investigation Department who were present at the Committee meeting held were informed to expedite the investigation in this regard.
+
+This was notified when the Committee on Public Accounts met recently under the Chairmanship of MP Lasantha Alagiyawanna to examine the facts disclosed by the audit inquiry regarding the entry of a ship which sailed from Seychelles to Thailand with spoiled fish containers, was let into the country from the port of Colombo.
+
+...
+
+[Data](articles/6cf412ce.json)
+
+---
+
+### The president has no power to decide on presidential election - GL Peiris
 
 *2024-03-25 22:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/179702) · `ta`
 
-ஜனாதிபதி தேர்தல் குறித்து தீர்மானம் எடுக்கும் அதிகாரம் ஜனாதிபதிக்கு கிடையாது. பாராளுமன்றத்தைக் கலைப்பதற்கு பொதுஜன பெரமுனவின் ஆலோசனைகளைக் கோர வேண்டியதில்லை. பாராளுமன்றத்தை கலைக்கும் அதிகாரம் ஜனாதிபதிக்கு வழங்கப்பட்டுள்ளது என பாராளுமன்ற உறுப்பினர் பேராசிரியர் ஜீ.எல்.பீரிஸ் தெரிவித்தார்
+GL Peiris states the President has no power to decide on presidential elections, contradicting the President's proposal to dissolve Parliament. The President has the authority to dissolve Parliament and hold a general election, with the election campaign to be held within 42 days, followed by an official announcement.
 
-கொழும்பில் உள்ள சுதந்திர மக்கள் சபை காரியாலயத்தில்  திங்கட்கிழமை (25) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி தேர்தலுக்கு முன்னர் பொதுத்தேர்தல் நடத்தப்பட வேண்டும் என ஸ்ரீ லங்கா பொதுஜன பெரமுன ஜனாதிபதியிடம் முன்வைத்த யோசனையை ஜனாதிபதி நிராகரித்து அரசியலமைப்பின் பிரகாரம் ஜனாதிபதி தேர்தல் நடத்தப்படும் என்று குறிப்பிட்டுள்ளதாகவும் செய்திகள் வெளியாகியுள்ளன.
+The president does not have the authority to decide on presidential election. No need to request the advice of the PA to dissolve Parliament. Parliamentarian Professor GL Peiris said the President has been given the authority to dissolve parliament
 
-பொதுஜன பெரமுன முன்வைத்த யோசனையை ஜனாதிபதி பரிசீலனை செய்வதாகவும் தற்போது குறிப்பிடப்படுகிறது.பாராளுமன்ற தேர்தலை நடத்துவதற்கும், பாராளுமன்றத்தை கலைப்பதற்கும் ஜனாதிபதி பொதுஜன பெரமுனவிடம் ஆலோசனை கோர வேண்டிய அவசியம் கிடையாது. பாராளுமன்றத்தை கலைத்து பொதுத்தேர்தலை நடத்தும் அதிகாரம் ஜனாதிபதிக்கு அரசியலமைப்பால் வழங்கப்பட்டுள்ளது.
+He made this statement during a media briefing held at the Independent People's House office in Colombo on Monday (25).
+
+Reports have surfaced that the presidential election will be held in accordance with the Constitution by rejecting the President's proposal to the President of the Sri Lanka PA.
+
+It is also said that the President is reviewing the proposal proposed by the PA.. The President has been given the power to dissolve parliament and hold a general election.
+
+According to the Constitution, the presidential election should be held from September 17 to October 17.
 
 ...
 
 [Data](articles/02ccfe6a.json)
 
+[Extended Data](ext_articles/02ccfe6a.ext.json)
+
 ---
 
-### ලොවම ආදරේ සුපිරි වීරයාට හදිසි සැත්කමක්
+### The world is an emergency surgery for love superhero
 
 *2024-03-25 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194927) · `si`
 
-ලොවක් ආදරය කරන බටහිර සිනමාවේ සුපිරි වීරයා ආනොල්ඩ් තවත් සැත්කමකට මුහුණ දී ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Annold, a Western cinema superhero, undergoes another surgery, having faced three heart surgeries and being fitted with a Pacemaker. He mentions a similar device and plans to rest.
 
-ඔහු සිය X ගිණුමේ සටහනක් තබමින් මේ සම්බන්ධයෙන් අදහස් පළකර ඇත.
+🟩
 
-එමගින් ඔහු සඳහන් කර ඇත්තේ තමන් හෘද සැත්කම් 3කට මීට පෙර මුහුණ දී ඇති බවත් මේ වනවිට pacemaker උපකරණයක් සවිකර ඇති බවත්ය.
+Foreign media reports that Annold is facing another surgery in Western cinema, who loves a world.
 
-එසේම ඔහු සඳහන් කර ඇත්තේ දැන් තමන් සතුව terminator චරිතයට සමාන ආකාරයේ යන්ත්‍රයක් ඇති බවය.
+He has made a note in his X account, commented on this.
 
-ඔහු එමගින් වැඩිදුරටත් සඳහන් කර ඇත්තේ තමන්ට කායවර්ධනයෙන් විවේක ගැනීමට සිදුවන බවය.
+He said that he had faced three heart surgeries and was fixed by a Pacemaker device.
+
+He also stated that he has a similar type of machine.
+
+He added that he would have to rest from the brink of cohesion.
 
 ◼️
 
 [Data](articles/3533c838.json)
+
+[Extended Data](ext_articles/3533c838.ext.json)
 
 ---
 
@@ -272,21 +302,29 @@ While marking the beginning of the 2024 school meal programme held today (25) at
 
 ---
 
-### මෛත්‍රීගෙන් පැය පහක ප්‍රකාශයක්
+### A five-hour statement from Maithri
 
 *2024-03-25 20:33:43* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීගෙන්-පැය-පහක-ප්‍රකාශයක්/11-408797) · `si`
 
-හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා විසින් පාස්කු ප්‍රහාරය සම්බන්ධයෙන් කළ අදහස් දැක්වීම පිළිබඳව අද (25දා) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පැය පහකට අධික කාලයක් ප්‍රකාශ ලබා ගෙන තිබේ.
+Former President Maithripala Sirisena addressed the Passover attack, lodged a complaint against Kavindripala Sirisena, and provided a statement to the Criminal Investigation Department.
 
-පසුගිය දිනක  මහනුවර ප්‍රදේශයේදී හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා විසින් පාස්කු ඉරු දින ප්‍රහාරය සම්බන්ධයෙන් යම් ප්‍රකාශයක් සිදුකරනු ලැබූ අතර, එම ප්‍රකාශය සම්බන්ධයෙන් සමාජය තුළ විශාල කතා බහක් ඇති විය.
+🟩
 
-සමගි ජනබලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී වෛද්‍ය කාවින්ද ජයවර්ධන මහතා  විසින් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා අත්අඩංගුවට ගෙන මේ සම්බන්ධයෙන්  ප්‍රකාශ ලබා ගන්නා ලෙස ඉල්ලා අපරාධ පරික්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක්ද කර තිබුණි.
+Former President Maithripala Sirisena has been speaking to the Passover attack this morning (25).
 
-මේ අනුව මහනුවරදි සිදුකළ ප්‍රකාශය සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ ප්‍රකාශයක් ලබා දෙන ලෙසට හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට අපරාධ පරික්ෂණ දෙපාර්මේන්තුව විසින් පෙරේදා දැනුම් දී තිබේ.
+Former President Maithripala Sirisena recently made a statement regarding the Passover on the Passover Day and had a huge story in the society.
 
-...
+The Criminal Investigation Department has also lodged a complaint with the Criminal Investigation Department to arrest former President Kavindripala Sirisena, MP Kavindripala Sirisena's arrest and demanding statements.
+
+Former President Maithripala Sirisena has informed the CID to come to the CID and give a statement regarding the statement of the CID.
+
+Maithripala Sirisena has arrived at the Department of Investigation Department to the Department of Criminal Investigations from 10:00 am to 4.30 pm today (25).. The proceedings of the Attorney General's Department will be carried out regarding this statement.
+
+◼️
 
 [Data](articles/03404f60.json)
+
+[Extended Data](ext_articles/03404f60.ext.json)
 
 ---
 
@@ -2233,27 +2271,5 @@ Only a few members presented coherent arguments during the debate. The governmen
 [Data](articles/414b67f5.json)
 
 [Extended Data](ext_articles/414b67f5.ext.json)
-
----
-
-### Udaya says dollar down
-
-*2024-03-25 13:10:21* · [`adalk`](https://www.ada.lk/breaking_news/ඩොලරය-පහළ යන-හැටි-උදය-කියයි/11-408780) · `si`
-
-Udaya, JHU leader, discussed the dollar's fall on March 24, 2024, attributing it to increased export earnings and reduced import expenditure. He highlighted the impact of high production costs and factory closures due to electricity and oil price losses, suggesting a weaker economy despite the dollar's strength.
-
-🟩
-
-Leader of the JHU, Leader of the JHU. He was speaking at a press conference held at the party headquarters today (2024.03.24).. The Leader of the Jattern Hela Urumaya said:
-
-"On January 1, 205, the dollar has fallen to Rs.. Is it true?
-
-According to economics, the dollar's value falls mainly on two reasons.The first reason is the export earnings, tourism income and foreign remittances increased the supply of dollar supply.The second reason is the import reduced by reducing the demand.What's wrong with now?Export earnings in February 2024 have increased by 1%.But the expenditure of import expenditure has been reduced by 18%.Import Imports is that our consumption is reduced and the economy is shrinking.
-
-...
-
-[Data](articles/3eae8fee.json)
-
-[Extended Data](ext_articles/3eae8fee.ext.json)
 
 ---

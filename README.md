@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 21:03:06**
+As of **2024-03-25 21:18:13**
 
 ## Newspaper Stats
 
-*Scraped **15,096** Articles*
+*Scraped **15,097** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 1,815
 adaderanalk | 1,816
 virakesarilk | 2,123
 dailymirrorlk | 2,334
-adaderanasinhalalk | 2,425
+adaderanasinhalalk | 2,426
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,096 (100.0%) of 15,096 articles have been extended.
+15,096 (100.0%) of 15,097 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### මෙහෙම තර්ජනයක් ආවොත් ඔබ කළයුතු දේ මෙන්න
+
+*2024-03-25 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194926) · `si`
+
+අන්තර්ජාලය ඔස්සේ එල්ලවන විවිධ තර්ජනයන් සම්බන්ධයෙන් ඕනෑම අයෙකුට පරිගණක අපරාධ විමර්ශන කොට්ඨාසයට පැමිණිලි කළහැකි බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිතීඥ නිහාල් තල්දූව මහතා පවසයි.
+
+අද දෙරණ වෙත අදහස් දක්වමින් පොලිස් මාධ්‍ය ප්‍රකාශකවරයා මෙම අදහස් පළකළේය.
+
+පොලිස් මාධ්‍ය ප්‍රකාශකවරයා වැඩිදුරටත් සඳහන් කළේ නිවසේ සිටම ඊමේල් මාර්ගයෙන් එම පැමිණිල්ල සිදුකළ හැකි බවය.
+
+මේ සම්බන්ධයෙන් වැඩිදුරටත් අදහස් දැක්වූ පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිතීඥ නිහාල් තල්දූව මහතා,
+
+"පරිගණක අපරාධමය වරදක් සිදුවුණ අවස්ථාවක පරිගණක අපරාධ විමර්ශන කොට්ඨාසයට පැමිණිල්ලක් ඉදිරිපත් කිරීමේ හැකියාවක් තිබෙනවා නිවසේ සිටම. ඒකේ තියෙනවා ඊමේල් ලිපිනයක් dir.ccid@police.gov.lk මේ ඊමේල් ලිපිනයට ලබාදීමේ හැකියාව තියෙනවා. ඒ වගේම 109 දුරකථනය... ළමා හා කාන්තා අපයෝජන නිවාරණ කාර්යාංශය ක්‍රියාත්මක වෙනවා පැය 24 පුරාම."
+
+◼️
+
+[Data](articles/ce68f964.json)
+
+---
 
 ### IGP instructed to conduct a special security program
 
@@ -2237,19 +2257,5 @@ Addressing the event, Director of the Agriculture Sector Modernization Project, 
 [Data](articles/94977340.json)
 
 [Extended Data](ext_articles/94977340.ext.json)
-
----
-
-### Protest to approve promotions...
-
-*2024-03-25 12:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protest-to-approve-promotions/110-279546) · `en`
-
-A protest was held by the Joint Committee of Government Executive Officers in front of the Finance Ministry, demanding the immediate approval of the Cabinet Paper related to the promotion of departmentalized Executive Officers. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/4db0afa7.json)
-
-[Extended Data](ext_articles/4db0afa7.ext.json)
 
 ---

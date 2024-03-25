@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 20:51:30**
+As of **2024-03-25 21:03:06**
 
 ## Newspaper Stats
 
@@ -26,59 +26,81 @@ adaderanasinhalalk | 2,425
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,093 (100.0%) of 15,096 articles have been extended.
+15,096 (100.0%) of 15,096 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### විශේෂ ආරක්ෂක වැඩපිළිවෙලකට පොලිස්පතිගෙන් උපදෙස්
+### IGP instructed to conduct a special security program
 
 *2024-03-25 20:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194925) · `si`
 
-පාස්කු දේව මෙහෙයන් පැවැත්වෙන අවස්ථාවන් සඳහා කිතුණු දේවස්ථාන සඳහා විශේෂ ආරක්ෂක වැඩපිළිවෙලක් ක්‍රියාත්මක කරන ලෙසට පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා සියලුම කොට්ඨාශ භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරීවරුන්ට උපදෙස් ලබා දී තිබේ.
+IGP Deshaband Tennakoon ordered a special security program for Paskoon churches on 29th and 31st Easter services. The Inspector General of Personnel and church Board of Trustees will inspect premises. Local armed forces and police have been alerted for assistance.
 
-ඒ අනුව එළඹෙන 29 වනදාට යෙදෙන මහ සිකුරාදා දිනයට සහ 31 වනදාට යෙදෙන පාස්කු ඉරිදා දේව මෙහෙයන් වෙනුවෙන් මෙම විශේෂ ආරක්ෂක වැඩපිළිවෙල ක්‍රියාත්මක කෙරෙනු ඇත.
+🟩
 
-එසේම බැතිමතුන් වැඩි වශයෙන් පැමිණෙන දේවස්ථාන තෝරාගෙන ඒවා වෙත ගොස් පාස්කු උත්සවය වෙනුවෙන් සිදුකරන දේවමෙහෙයන්ට අදාළ ආරක්ෂක කටයුතු පිළිබඳව පෞද්ගලිකවම සොයාබලන ලෙසටද එමගින් උපදෙස් ලබාදී ඇත.
+IGP Deshaband Tennakoon has instructed the Senior Superintendent of Police to implement a special security measures to implement a special security program for the Paskoon churches.
 
-මෙම ආරක්ෂක සැලැස්ම යටතේ දේව මෙහෙයන් ආරම්භ කිරිමට ප්‍රථමයෙන් එම පරිශ්‍රයන් බැතිමතුන්ට හිරිහැරයක් නොවන පරිදි යම් පරීක්ෂාවකට ලක් කිරීම, දේව මෙහෙයන් සඳහා පැමිණෙන පුද්ගලයින් හා ගමන් මළු පරීක්ෂාවකට ලකිරීමට අවශ්‍ය නම් පියතුමන්ලා සහ එම දේවස්ථානවල භාරකාර මණ්ඩල සමග සාකච්ඡා කොට ඒ සඳහා සුදුසු පරිදි ආරක්ෂක වැඩපිළිවෙලක් සකස් කිරිමටද පොලිස්පතිවරයා උපදෙස් දී තිබේ.
+The special security program will be implemented on the 29th and the 31st Easter services on the 29th.
 
-...
+It also advised them to choose the churches coming to the Passover and find out for the Passover.
+
+The Inspector General of Personnel and the Board of Trustees of the church have to inspect the premises under the operation of the premises under this defense plan, the Inspector General of Goods and TravelsHave been instructed.
+
+Police Headquarters have also instructed the local three armed forces in the incident and to seek assistance to obtain assistance.
+
+◼️
 
 [Data](articles/66d2be34.json)
 
+[Extended Data](ext_articles/66d2be34.ext.json)
+
 ---
 
-### தேர்தல் திருத்தங்கள் மூலம் எந்த தேர்தலும் ஒத்திவைக்கப்பட மாட்டாது - விஜயதாச ராஜபக்ஷ
+### No election will be postponed by election amendments - Vijayadasa Rajapaksa
 
 *2024-03-25 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179701) · `ta`
 
-பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டுள்ள தேர்தல் திருத்தச் சட்டமூலங்களின் ஊடாக எந்தவொரு தேர்தலையும் பிற்போட எதிர்பார்க்கவில்லை என நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் கலாநிதி விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+Dr. Vijayadasa Rajapaksa, Minister of Justice, Prison Affairs, and Constitutional Reforms, stated that no election will be postponed by the Elections amendment filed in Parliament. The amendments aim to fight corruption and amend the electoral system, including introducing a proportional electoral system. The minister also highlighted new laws addressing rape, sexual violence, and punishment for abuse during police custody. Despite protests from social activists and legal challenges, these amendments are part of a four-year study by senior lawyers.
 
-1994ஆம் ஆண்டு முதல் நடைபெற்ற ஜனாதிபதித் தேர்தல்களில் ஊழலுக்கு எதிராக போராடுவதாகவும் தேர்தல் முறைமையில் திருத்தம் செய்வதாகவும் வாக்குறுதிகள் வழங்கப்பட்ட போதிலும் அவை எதுவும் நிறைவேற்றப்படவில்லை என சுட்டிக்காட்டிய அமைச்சர், தற்போதைய ஜனாதிபதி ரணில் விக்ரமசிங்க ஊழலை கட்டுப்படுத்துவதற்கும் விகிதாசார தேர்தல் முறையை அறிமுகப்படுத்துவதற்கும் ஏற்கனவே திருத்தங்களை சமர்ப்பித்துள்ளதாகவும் குறிப்பிட்டுள்ளார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (25) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அமைச்சர் விஜயதாச ராஜபக்ஷ இதனைத் தெரிவித்தார்.
+Minister of Justice, Prison Affairs and Constitutional Reforms Dr. Vijayadasa Rajapakse said that no election is expected to be delayed through the Elections amendment filed in Parliament.
+
+Pointing out that the presidential elections in the presidential elections have been fighting corruption and amendment to the electoral system, the Minister has already submitted amendments to the current President Ranil Wickremesinghe and the introduction of proportional electoral system.
+
+Minister Vijayadasa Rajapaksa made this statement at a media briefing held at the Presidential Media Center on Monday (25).
 
 ...
 
 [Data](articles/90d0ec7b.json)
 
+[Extended Data](ext_articles/90d0ec7b.ext.json)
+
 ---
 
-### ගෝඨාගේ කොමිෂමින් ජනපති රනිල්ට හා අනුරට එරෙහිව දුන් නිර්දේශ බල රහිත කරයි
+### Gota's commissioner recommendations against Ranil and the Katha
 
 *2024-03-25 19:43:17* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාගේ-කොමිෂමින්-ජනපති-රනිල්ට-හා-අනුරට-එරෙහිව-දුන්-නිර්දේශ-බල-රහිත-කරයි/11-408792) · `si`
 
-දේශපාලන පළිගැනීම් සොයා බැලීම සඳහා හිටපු ජනාධිපති ගෝඨාභය රාජපක්‍ෂ මහතා පත් කරන ලද ජනාධිපති කොමිෂම විසින් ජනාධිපති රනිල් වික්‍රමසිංහ, ජවිපෙ නායක අනුර කුමාර දිසානායක ඇතුළු මහත්වරුන් සම්බන්ධයෙන් දෙන ලද නිර්දේශයන් බල රහිත කරමින් අභියාචනාධිකරණය අද (25) රිට් ආඥාවන් නිකුත් කළේය.
+The Court of Appeal, under the President's Commission, has issued a writ order against President Ranil Wickremesinghe and JVP leader Anura Kumara Dissanayake, following recommendations by Gota's commissioner. The court demanded the appointment of a Presidential Commission to issue political commissioners, with a verdict by DMS Nasanka Bandula Karunaratne, Judges, MP Nissanka Bandula Karunaratne, and others. The petitioners had filed petitions for the issuance of writ orders against their recommendations, leading to a lengthy trial and the issuance of writ orders to the President's Counsel Faiz Mustapha and Iraj Silva.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ, ජවිපෙ නායක අනුර කුමාර දිසානායක මහත්වරුන්ට අමතරව රහස් පොලීසියේ හිටපු අධ්‍යක්‍ෂ ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී ශානි අබේසේකර, හිටපු හමුදාපති ෆීල්ඩ් මාර්ෂල් සරත් ෆොන්සේකා,  ජනාධිපති නීතිඥවරුන් වන ජේ.සී වැලිඅමුණ සහ ආචාර්ය ජයම්පති වික්‍රමරත්න යන මහත්වරුන් සම්බන්ධයෙන්ද දේශපාලන පළිගැනීම් සොයා බැලීමේ ජනාධිපති කොමිෂම විසින් කරන ලද නිර්දේශයන්ද බල රහිත කරමින් අභියාචනාධිකරණය අදාළ රිට් ආඥාව නිකුත් කළේය.
+🟩
 
-දේශපාලන පළිගැනීම් සොයා බැලීම සඳහා පත් කරන ලද ජනාධිපති කොමිෂමේ නිර්දේශයන් බල රහිත කරන රිට් ආඥාවන් නිකුත් කරන්නැයි ඉල්ලමින් ඔවුන් විසින් ගොනුකළ පෙත්සම් වල තීන්දුව ප්‍රකාශයට පත් කරමින් අභියාචනාධිකරණය මෙම රිට්අඥාව නිකුත් කළේය.
+The Court of Appeal was issued today (25) by the President's Commission to look into the Presidential Commission of President Ranil Wickremesinghe and JVP leader Anura Kumara Dissanayake, JVP leader Anura Kumara Dissanayake.
+
+President Ranil Wickremesinghe, JVP leader Anura Kumara Dissanayake, Presidential Commission (SSHell Sarath Fonseka, former Army Commander Fishal Fonseka, is commemoratedThe Court of Appeal issued the writ order by the recommendation of the recommendations.
+
+The Court of Appeal issued the secret of the Court of Appeal, demanding the appointment of the Presidential Commission who was appointed to issue political commissioners.
+
+DMS Nasanka Bandula Karunaratne, Judges, MP Nissanka Bandula Karunaratne, was the verdict with DMSamakoon and Laper Thaihir.
 
 ...
 
 [Data](articles/9062f66a.json)
+
+[Extended Data](ext_articles/9062f66a.ext.json)
 
 ---
 

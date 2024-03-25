@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 07:17:00**
+As of **2024-03-25 07:40:30**
 
 ## Newspaper Stats
 
-*Scraped **14,927** Articles*
+*Scraped **14,932** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ economynextcom | 800
 dailyftlk | 806
 islandlk | 830
 adalk | 1,267
-tamilmirrorlk | 1,794
+tamilmirrorlk | 1,795
 adaderanalk | 1,797
 virakesarilk | 2,090
-dailymirrorlk | 2,298
-adaderanasinhalalk | 2,393
+dailymirrorlk | 2,299
+adaderanasinhalalk | 2,396
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,916 (99.9%) of 14,927 articles have been extended.
+14,926 (100.0%) of 14,932 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### තවත් පාතාලයින් දෙදෙනෙක් කොටුවෙති
+
+*2024-03-25 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194895) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් අත්අඩංගුවට ගැනීම සඳහා ක්‍රියාත්මක විශේෂ මෙහෙයුම යටතේ තවත් අපරාධ කල්ලි සාමාජිකයින් පස්දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/e782f391.json)
+
+---
+
+### සියලු පක්ෂ සාමාජිකයින් කොළඹට කැඳවන්න මෛත්‍රීගෙන් තීරණයක්
+
+*2024-03-25 06:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194894) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සියලු සාමාජිකයින් සතිඅන්තයේ දී කොළඹට කැඳවීමට පක්ෂ සභාපති හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා පියවර ගෙන තිබේ.
+
+ඉතා වැදගත් තීන්දු තීරණ කිහිපයක් ගැනීම සඳහා ශ්‍රී ලංකා නිදහස් පක්ෂ මධ්‍යම කාරක සභිකයින්, විධායක කාරක සභිකයින්, ආසන සහ දිස්ත්‍රික් සංවිධායකවරුන්, පක්ෂයේ අනුබද්ධ සංවිධානවල සියලු නිලධාරීන් මෙලෙස පක්ෂ මුලස්ථානය වෙත කැඳවා ඇති බව සඳහන්ය.
+
+මෙම රැස්වීමට පැමිණීම අනිවාර්ය බවට ද සියලු සාමාජිකයින් වෙත ලිඛිතව දන්වා ඇති බව වාර්තා වේ.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂය ප්‍රමුඛ නව සන්ධානයක් ඉදිරියේ දී බිහිවීමට නියමිත අතර එහි කටයුතු ද අවසන් අදියරට පැමිණ ඇති බව දේශපාලන ආරංචි මාර්ග සඳහන් කළේය.
+
+මේ අතර පාර්ලිමේන්තු මන්ත්‍රී නිමල් ලන්සා මහතාගේ මුලිකත්වයෙන් නිර්මාණය වන නව සන්ධානයේ කටයුතු ද අප්‍රේල් මාසය තුළ අවසන් වීමට ද සැලසුම් කර තිබේ.
+
+ඒ අනුව එම සන්ධානයේ දේශපාලන රැස්වීම් මාර්තු මාසයේ සිට අඛණ්ඩව සිදුකරන බව දේශපාලන ආරංචි මාර්ග පැවසුවේය.
+
+වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහය පළ කිරීම වෙනුවෙන් මෙම නව සන්ධානය ක්‍රියාත්මක වේ.
+
+◼️
+
+[Data](articles/74ea2d5d.json)
+
+---
 
 ### Govt. to enact law to safeguard IMF programme amid political uncertainty
 
@@ -48,6 +84,42 @@ The IMF which included the latest mission said the authorities are making good p
 
 [Data](articles/f8fa08c0.json)
 
+[Extended Data](ext_articles/f8fa08c0.ext.json)
+
+---
+
+### අදත් ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-03-25 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194893) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වල වැසි වාර කිහිපයක් ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව, දකුණු, මධ්‍යම  සහ වයඹ පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවට පවසයි.
+
+◼️
+
+[Data](articles/df45d3d5.json)
+
+---
+
+### Sri Lanka authorizes English as court language in Commercial High Courts
+
+*2024-03-25 04:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-authorizes-English-as-court-language-in-Commercial-High-Courts/108-279512) · `en`
+
+Colombo, March 25 (Daily Mirror) - The Justice Minister has issued an extraordinary gazette notification permitting to use English language for all purposes of record and proceedings in the Commercial High Courts.
+
+With the approval of the Cabinet of Ministers and in accordance with Article 24(4) of the Constitution, Justice Minister Wijeyadasa Rajapakshe has issued this gazette notification enabling all aspects of litigation to be in English in commercial, company, admiralty and arbitration matters in the Commercial High Court.
+
+The Cabinet had noted that in the commerce sphere related to commercial activities are mainly used in the English language and require a considerable cost and time in translating those contents into the Sinhala language.
+
+◼️
+
+[Data](articles/da6a81f1.json)
+
 ---
 
 ### HNB empowering Sri Lanka’s agricultural sector
@@ -63,6 +135,8 @@ Many farmers rely on ancient practices with no access to modernization and finan
 ...
 
 [Data](articles/8eb84e26.json)
+
+[Extended Data](ext_articles/8eb84e26.ext.json)
 
 ---
 
@@ -80,6 +154,8 @@ Aruna Deepthikumara, the Group Chief Financial Officer, has been appointed to th
 
 [Data](articles/b029a499.json)
 
+[Extended Data](ext_articles/b029a499.ext.json)
+
 ---
 
 ### New ADB partnership strategy for Sri Lanka to foster sustainable recovery, build resilience and revive growth
@@ -93,6 +169,8 @@ The Asian Development Bank (ADB) has launched a new country partnership strategy
 ...
 
 [Data](articles/a2a6fe71.json)
+
+[Extended Data](ext_articles/a2a6fe71.ext.json)
 
 ---
 
@@ -108,6 +186,8 @@ BSc. (Hons) in Psychology, BSc. (Hons) in Forensic Psychology and BSc. (Hons) in
 
 [Data](articles/204cb9e2.json)
 
+[Extended Data](ext_articles/204cb9e2.ext.json)
+
 ---
 
 ### Hitech Concrete Solutions carving an innovative niche in construction industry
@@ -122,6 +202,8 @@ The company has been instrumental in delivering iconic projects across various s
 
 [Data](articles/727c9806.json)
 
+[Extended Data](ext_articles/727c9806.ext.json)
+
 ---
 
 ### Industry pioneers promote highly autonomous networks initiative
@@ -133,6 +215,8 @@ TM Forum held the Autonomous Networks Summit during the Mobile World Congress (M
 ...
 
 [Data](articles/7b63bcae.json)
+
+[Extended Data](ext_articles/7b63bcae.ext.json)
 
 ---
 
@@ -153,6 +237,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 ...
 
 [Data](articles/e0d38f90.json)
+
+[Extended Data](ext_articles/e0d38f90.ext.json)
 
 ---
 
@@ -379,6 +465,20 @@ The former president said he was considering such action to be taken to protect 
 [Data](articles/af3ceba0.json)
 
 [Extended Data](ext_articles/af3ceba0.ext.json)
+
+---
+
+### திறைசேரி உண்டியல்கள் ஏல விற்பனை
+
+*2024-03-25 01:40:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திறைசேரி-உண்டியல்கள்-ஏல-விற்பனை/175-335129) · `ta`
+
+80,000 மில்லியன் ரூபாய் பெறுமதியான திறைசேரி உண்டியல்கள், எதிர்வரும் 27ஆம் திகதி ஏல விற்பனையின் ஊடாக வழங்கப்படவுள்ளதாக இலங்கை மத்திய வங்கி அறிவித்துள்ளது.
+
+இதன்படி, 91 நாட்கள் முதிர்வுக் காலத்தைக் கொண்ட 20,000 மில்லியன் ரூபாய் பெறுமதியான திறைசேரி உண்டியல்களும், 182 நாட்கள் முதிர்வுக் காலத்தைக் கொண்ட 30,000 மில்லியன் ரூபாய் பெறுமதியான திறைசேரி உண்டியல்களும், 364 நாட்கள் முதிர்வுக் காலத்தைக் கொண்ட 30,000 மில்லியன் ரூபாய் பெறுமதியான திறைசேரி உண்டியல்களும் ஏல விற்பனையின் ஊடாக வழங்கப்படவுள்ளதாக இலங்கை மத்திய வங்கி அறிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/55bb57d8.json)
 
 ---
 
@@ -2055,113 +2155,5 @@ Speaking to the media after attending an event in Kandy (22), he said that he wa
 [Data](articles/854799bd.json)
 
 [Extended Data](ext_articles/854799bd.ext.json)
-
----
-
-### CIT confession to Maithri
-
-*2024-03-24 12:27:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/மைத்திரியிடம்-சி-ஐ-டி-வாக்குமூலம்/150-335092) · `ta`
-
-"Former President Maithripala Sirisena acknowledges knowledge of the Easter Sunday attack truth, following a statement from the CIT."
-
-🟩
-
-Former President Maithripala Sirisena has reportedly received a statement from the Criminal Investigation Department today (24).
-
-Speaking to the media after attending an event in Kandy (22), he said that he was aware of the truth about the Easter Sunday attack.
-
-◼️
-
-[Data](articles/96734be4.json)
-
-[Extended Data](ext_articles/96734be4.ext.json)
-
----
-
-### Two arrested with heroin drug
-
-*2024-03-24 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179565) · `ta`
-
-Two individuals, aged 22 and 41, from Kaduwela and Homagama, were arrested for heroin possession. Police in Athurukiriya seized 7 grams of heroin from each.
-
-🟩
-
-They have been arrested while the surroundings carried out on the basis of information received by the Athurukiriya police.
-
-7 grams of heroin from one of the two arrested has been seized by 7 grams of heroin and 7 grams of heroin from the other.
-
-The arrested were 22 and 41 years old from Kaduwela and Homagama areas.
-
-◼️
-
-[Data](articles/da12f5de.json)
-
-[Extended Data](ext_articles/da12f5de.ext.json)
-
----
-
-### Putin vows to punish those behind Russia concert massacre
-
-*2024-03-24 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98168/putin-vows-to-punish-those-behind-russia-concert-massacre) · `en`
-
-Russia said on Saturday it had arrested all four gunmen suspected of carrying out a shooting massacre in a concert hall near Moscow, and President Vladimir Putin pledged to track down and punish those behind the attack.
-
-Militant Islamist group Islamic State claimed responsibility for Friday’s rampage, but there were indications that Russia was pursuing a Ukrainian link, despite emphatic denials from Ukrainian officials that Kyiv had anything to do with it.
-
-Moscow regional Governor Andrei Vorobyov said 133 bodies had been recovered from the rubble in 24 hours and doctors were “fighting for the lives of 107 people”. State TV editor Margarita Simonyan, without citing a source, had earlier given a toll of 143.
-
-In a televised address, Putin said 11 people had been detained, including the four gunmen. “They tried to hide and moved towards Ukraine, where, according to preliminary data, a window was prepared for them on the Ukrainian side to cross the state border,” he said.
-
-...
-
-[Data](articles/0f14ce46.json)
-
-[Extended Data](ext_articles/0f14ce46.ext.json)
-
----
-
-### Large onion export ban in India
-
-*2024-03-24 11:48:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவில்-பெரிய-வெங்காயம்-ஏற்றுமதி-தடை-நீடிப்பு/175-335090) · `ta`
-
-India extends ban on big onion exports to control price hike, aiming to keep onions in the country. The decision, initially set to end in December, is now indefinitely extended to curb election impact and maintain prices. India is the world's top onion exporter.
-
-🟩
-
-The Indian government has decided to extend the ban on India's ban on big onion exports.
-
-The Government of India says that the decision has been taken to control the price hike and to keep the onion at home.
-
-Last December, the Indian government banned big onion exports, and the ban was to end on the 31st.. In the Indian market, the prices of big onions fell rapidly due to the ban on big onion exports. It is reported that the Government of India has taken steps to extend the export ban to curb the upcoming election and curb the price hike.
-
-India is the number one in the world of onion exports.
-
-The main reason for India's imposition of big onions in Sri Lanka is rapidly rising.
-
-◼️
-
-[Data](articles/04c60066.json)
-
-[Extended Data](ext_articles/04c60066.ext.json)
-
----
-
-### CID is ready to take a statement from Maithri
-
-*2024-03-24 11:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194871) · `si`
-
-CID to take statement from Maithri. IGP confirms statement obtained tomorrow.
-
-🟩
-
-The Criminal Investigation Department (CID) has to obtain a statement from former President Maithripala Sirisena.
-
-The IGP stated that the statement was obtained by the CID tomorrow (25) by the CID tomorrow.
-
-◼️
-
-[Data](articles/2341ec4e.json)
-
-[Extended Data](ext_articles/2341ec4e.ext.json)
 
 ---

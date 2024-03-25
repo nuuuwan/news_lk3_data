@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 23:33:33**
+As of **2024-03-25 23:52:36**
 
 ## Newspaper Stats
 
-*Scraped **15,113** Articles*
+*Scraped **15,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ colombotelegraphcom | 137
 bbccomsinhala | 163
 dbsjeyarajcom | 191
 newsfirstlk | 363
-economynextcom | 805
 dailyftlk | 806
+economynextcom | 818
 islandlk | 831
 adalk | 1,291
-tamilmirrorlk | 1,817
+tamilmirrorlk | 1,818
 adaderanalk | 1,819
 virakesarilk | 2,125
 dailymirrorlk | 2,337
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,428
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,113 (100.0%) of 15,113 articles have been extended.
+15,113 (99.9%) of 15,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### தேவாலயங்களுக்கு விசேட பாதுகாப்பு ; பொலிஸ்மா அதிபர் அதிரடி
+
+*2024-03-25 23:09:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேவாலயங்களுக்கு-விசேட-பாதுகாப்பு-பொலிஸ்மா-அதிபர்-அதிரடி/175-335184) · `ta`
+
+கிறிஸ்தவ தேவாலயங்களில் விசேட பாதுகாப்பு வேலைத்திட்டத்தை நடைமுறைப்படுத்துமாறு பொலிஸ் மா அதிபர் தேஸ்பந்து தென்னகோன் அனைத்து பிரிவுகளுக்கும் பொறுப்பான சிரேஷ்ட பொலிஸ் அத்தியட்சகர்களுக்கு பணிப்புரை விடுத்துள்ளார்.
+
+இதன்படி எதிர்வரும் 29ஆம் திகதி புனித வெள்ளி ஆராதனைகளுக்காகவும், 31ஆம் திகதி ஈஸ்டர் ஞாயிறு ஆராதனைகளுக்காகவும் இந்த விசேட பாதுகாப்பு வேலைத்திட்டம் அமுல்படுத்தப்படவுள்ளது.
+
+மேலும், மக்கள் அதிகம் வரும் தேவாலயங்களை தேர்வு செய்து, பாதுகாப்பு குறித்து நேரில் சென்று ஆய்வு செய்ய அறிவுறுத்தப்பட்டுள்ளது.
+
+இந்த பாதுகாப்புத் திட்டத்தின் கீழ், தேவ ஆராதனைகள் தொடங்கும் முன், அந்த வளாகத்தை அடியார்களுக்கு தொந்தரவு ஏற்படாத வகையில் ஆய்வு செய்ய வேண்டும், தேவைப்பட்டால், தேவ ஆராதனைக்கு வருபவர்கள் மற்றும் அவர்களின் பயணப் பொதிகளை குறித்த தேவஸ்தானங்களின் பாதிரியார்கள் மற்றும் அதிகாரிகளுடன் கலந்தாலோசித்து  அதற்காக பாதுகாப்பு வேலைத்திட்டமொன்றை தயாரிக்க பொலிஸ்மா அதிபர் ஆலோசனை வழங்கியுள்ளார்.
+
+...
+
+[Data](articles/5a7a2596.json)
+
+---
 
 ### Sri Lanka’s Chief of Defence Staff visits Kenya’s Defence HQ
 
@@ -458,6 +476,46 @@ Minister Vijayadasa Rajapaksa made this statement at a media briefing held at th
 
 ---
 
+### Sri Lanka to introduce Port City, Stolen Asset Recovery laws soon: Justice Minister
+
+*2024-03-25 20:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-introduce-port-city-stolen-asset-recovery-laws-soon-justice-minister-156029/) · `en`
+
+ECONOMYNEXT – Sovereign debt defaulted Sri Lanka is in the process of passing key laws including Port City legislation and Proceeds of Crimes which includes provision for recovery of stolen assets, Justice Minister Wijeyadasa Rajapakshe said.
+
+The island nation is in a recovery path with International Monetary Fund-led economic and fiscal reforms, but it has so far failed to instill investor confidence to attract significant foreign inflows.
+
+Many foreign investors in the past have complained about rigid laws that have dragged businesses and dented their confidence in the country.
+
+President Ranil Wickremesinghe’s government has planned to bring in new laws in line with the IMF economic reforms.
+
+Justice Minister said some of those laws are “almost” drafted now.
+
+“There will be a new law for Colombo Port City,” Rajapakshe told reporters at a media briefing in Colombo on Monday (25).
+
+...
+
+[Data](articles/5f8e7098.json)
+
+---
+
+### Sri Lankans can take to the streets if presidential poll delayed: PAFFREL
+
+*2024-03-25 20:12:00* · [`economynextcom`](https://economynext.com/sri-lankans-can-take-to-the-streets-if-presidential-poll-delayed-paffrel-155969/) · `en`
+
+ECONOMYNEXT — Sri Lanka has a civic population that has the capacity to take to the streets if the government violates the constitution to postpone the presidential elections, Chairman of the People’s Action for Free & Fair Elections (PAFFREL) Rohana Hettiarachchi said.
+
+“Elections don’t belong to political parties, governments or political leaders. Elections belong to the people,” Hettiarachchi said speaking to reporters.
+
+“The presidential election must definitely be held between September 17 and October 17. The president cannot change that, nor can the cabinet, nor Basil Rajapaksa,” he said.
+
+Rajapaksa, the national organiser of the ruling Sri Lanka Podujana Peramuna (SLPP), has said it would be advisable to hold the parliamentary elections before the presidential polls.
+
+...
+
+[Data](articles/7626b669.json)
+
+---
+
 ### A system of drying seeds operating in sunlight
 
 *2024-03-25 20:07:30* · [`adalk`](https://www.ada.lk/breaking_news/හිරු-එළියෙන්-ක්‍රියාත්මක-බීජ-වියළීමේ-පද්ධතියක්/11-408793) · `si`
@@ -708,6 +766,30 @@ Director Asela Bandara said that it should be drawn to the details of the goods 
 
 ---
 
+### Sri Lanka warned against 14-year age of consent plan amid lack of sex education: SLMA
+
+*2024-03-25 18:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-warned-against-14-year-age-of-consent-plan-amid-lack-of-sex-education-slma-156017/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s Medical Association has opposed the lowering of the age of consent from 16 to 14 years.
+
+“In a country where Healthy Sexual and Relationship Education is not being taught in schools, a child of 14 years who consents for sex is mostly unaware of the potential repercussions of the sexual act – i.e. early unwanted pregnancy, and exposure to sexually transmitted infections. Hence, the consent given, cannot be taken to imply informed consent.” The Sri Lanka Medical Association (SLMA) statement said on  Monday.
+
+We, a conglomerate of medical professionals advocating for the rights of children of
+
+Sri Lanka, wish to express our gravest concerns regarding the proposed amendments
+
+The minimum age of sexual consent is the age at which someone is deemed capable of
+
+consenting to sexual activity. The objective of the minimum age of sexual consent is
+
+to protect adolescents from sexual abuse and from the consequences of early sexual
+
+...
+
+[Data](articles/25b0eb61.json)
+
+---
+
 ### Kamindu Mendis cranks up pressure on Kusal Mendis
 
 *2024-03-25 18:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kamindu-Mendis-cranks-up-pressure-on-Kusal-Mendis/108-279568) · `en`
@@ -801,6 +883,32 @@ Filing a revision application, the former Health Minister's daughter Chaminthri 
 [Data](articles/01688345.json)
 
 [Extended Data](ext_articles/01688345.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 302.60/70 to the US dollar
+
+*2024-03-25 18:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-302-60-70-to-the-us-dollar-156003/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 302.60/70 to the US dollar in the spot forex market on Monday, stronger from 303.30/45 on Friday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 11.30/40 percent from 11.30/38 percent on Friday.
+
+A bond maturing on 15.09.2027 closed stable at 11.90/95 percent.
+
+A bond maturing on 15.12.2028 closed at 12.10/15 percent from 12.10/18 percent.
+
+A bond maturing on 15.07.2029 closed stable at 12.15/30 percent on Thursday.
+
+A bond maturing on 15.05.2030 closed at 12.10/30 percent after trading at 12.15/30 percent.
+
+A bond maturing on 15.03.2031 closed at 12.10/30 percent from Thursday’s close at 12.10/35 percent.
+
+A bond maturing on 01.07.2032 closed at 12.25/50 percent from Thursday’s close at 12.30/50 percent. (Colombo/Mar25/2024)
+
+◼️
+
+[Data](articles/fec90fdb.json)
 
 ---
 
@@ -1152,6 +1260,22 @@ Nissan was a pioneer in electric vehicles with its all-battery-powered Leaf but 
 
 ---
 
+### Sri Lanka Minister to provide missing Easter attack report pages to Catholic leaders after complaint
+
+*2024-03-25 17:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-to-provide-missing-easter-attack-report-pages-to-catholic-leaders-after-complaint-155985/) · `en`
+
+ECONOMYNEXT – Missing pages in a Presidential Commission of Inquiry (PCoI) report on Sri Lanka’s Easter Sunday attack will be given to the island nation’s Catholic leaders in the near future, Public Security Minister Tiran Alles said after complaints of over 1,500 missing pages in the report.
+
+Despite five years since the incident, Sri Lankan authorities are yet to conclude the investigations into the Easter carnage that killed at least 269 people mainly Catholic devotees on April 21, 2019 and find the mastermind behind the series of six simultaneous suicide attacks carried out by Islamist extremists.
+
+The complete report of the PCoI was presented to the parliament Speaker, Mahinda Yapa Abeywardena, in February 2022, but is yet to be made public citing that they contain sensitive information.
+
+...
+
+[Data](articles/90c2288d.json)
+
+---
+
 ### The horrific bus accident
 
 *2024-03-25 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194916) · `si`
@@ -1205,6 +1329,28 @@ The JVP president said that he was in office even after the serious information 
 [Data](articles/8d511835.json)
 
 [Extended Data](ext_articles/8d511835.ext.json)
+
+---
+
+### Sri Lanka stocks close down, turnover stays above 1bn
+
+*2024-03-25 16:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-stays-above-1bn-155986/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
+
+The broader All Share Index closed down 0.24 percent, or 26.62 points, at 11,234; while the S&P SL20 Index closed down 0.19 percent, or 6.09 points, at 3,220.
+
+Trades in the banks sector contributed the most to the day’s turnover.
+
+Sanasa Development Bank Plc, which saw 177mn worth of shares change hands, was down at 0.70.
+
+Nations Trust Bank Plc which also saw most active volumes, closed flat at 104.50.
+
+Major contributors to the Index included Sampath Bank Plc (up at 77.70), Hatton National Bank Plc (up at 167.00), The Lanka Hospitals Corporation Plc (up at 119.75), Seylan Bank Plc (up at 45.70), and John Keells Holdings Plc (up at 190.50. (Colombo/Mar25/2024)
+
+◼️
+
+[Data](articles/17cc9285.json)
 
 ---
 
@@ -1676,6 +1822,28 @@ The decision has been given by a three-member Court of Appeal of the Court of Ap
 
 ---
 
+### Sirisena gives statement to CID on Sri Lanka Easter bombings claim
+
+*2024-03-25 15:28:00* · [`economynextcom`](https://economynext.com/sirisena-gives-statement-to-cid-on-sri-lanka-easter-bombings-claim-155951/) · `en`
+
+ECONOMYNEXT — Sri Lanka former president Maithripala Sirisena has given a statement to the Criminal Investigations Department on a claim he made that he had information on who was behind the 2019 Easter bombings.
+
+Sri Lanka Freedom Party (SLFP) general secretary Sarathi Dushmantha confirmed reporters gathered outside the CID premises Monday March 25 morning that Sirisena was inside making a statement.
+
+“He will make his statement. Any action going forward will depend on the statement. I don’t believe there is any problem. He has no need to hide anything. He has come directly to the CID to make his statement,” said Dushmantha.
+
+“As a country, I think that’s what everyone expects,” he said.
+
+Dushmantha said Sirisena has “200 percent support” from the SLFP, the party Sirisena leads.
+
+Asked why Sirisena waited three weeks to reveal to the public that he had information on the mastermind behind the attack, Dushmantha said: “He will talk about that in his statement. We don’t know about it.”
+
+...
+
+[Data](articles/69b52ec4.json)
+
+---
+
 ### School meal programme launched
 
 *2024-03-25 15:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/School-meal-programme-launched/110-279555) · `en`
@@ -1741,6 +1909,28 @@ Colombo High Court Judge Sujeewa Nissanka has been given the verdict after a len
 [Data](articles/18c31c20.json)
 
 [Extended Data](ext_articles/18c31c20.ext.json)
+
+---
+
+### Sri Lanka to criminalize marital rape: Justice Minister
+
+*2024-03-25 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-criminalize-marital-rape-justice-minister-155960/) · `en`
+
+ECONOMYNEXT – Sri Lanka aims to introduce a bill that would criminalize marital rape, Minister of Justice, Wijeyadasa Rajapaksa said.
+
+“Under the law, spouses can only claim that their husband raped them when there is a separation order,” Rajapaksa said. “However, we plan to introduce a bill that would criminalize rape by one’s husband.”
+
+Under the current law, marriage without judicial separation is recognized as an exemption to rape under 363 of the Penal Code.
+
+A 2020 study conducted by the UNFPA found that 9.5 per cent of Sri Lankan men had perpetrated sexual violence against their intimate female partners while 6.7 per cent have caused both physical and sexual violence.
+
+Sri Lanka’s current laws also fail to recognize a male as a victim of rape and a female as a perpetrator.
+
+“We want to gender neutralize this,” Rajajapaksha said. “So that men can be recognized as victims and women as perpetrators.” (Colombo/Mar25/2024)
+
+◼️
+
+[Data](articles/3ca5f2eb.json)
 
 ---
 
@@ -2010,6 +2200,24 @@ The youths who were involved in a three -motorcycle run by the road were involve
 
 ---
 
+### Sri Lanka gives free meals to primary schoolchildren to tackle malnutrition
+
+*2024-03-25 14:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-gives-free-meals-to-primary-schoolchildren-to-tackle-malnutrition-155950/) · `en`
+
+ECONOMYNEXT – Sri Lanka has started a school feeding program that would benefit 1.6 million students of primary grades from 9,134 government schools and schools with fewer than 100 students.
+
+The government will provide 16.6 billion rupees to the nine provincial councils, with support from the World Food Program and the United States Department of Agriculture (USDA).
+
+“Malnutrition poses a significant challenge within our borders, transcending income disparities,” President Ranil Wickremesinghe said at the launch of the program at Sujatha Balika Vidyalaya in Narahenpita this morning.
+
+“The root causes extend beyond financial limitations, affecting students of all backgrounds. Many commence their school day before dawn, foregoing breakfast and often lunch, underscoring the universal necessity for school-provided meals.
+
+...
+
+[Data](articles/41e4ab88.json)
+
+---
+
 ### Five including two students arrested for stealing laptops from school’s smart classroom
 
 *2024-03-25 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98189/five-including-two-students-arrested-for-stealing-laptops-from-schools-smart-classroom) · `en`
@@ -2053,237 +2261,5 @@ Also, after paying this fine in this public phrase, it is still waiting for its 
 [Data](articles/24c23d61.json)
 
 [Extended Data](ext_articles/24c23d61.ext.json)
-
----
-
-### COPA calls for CID investigation into import of contaminated fish
-
-*2024-03-25 14:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/COPA-calls-for-CID-investigation-into-import-of-contaminated-fish/108-279551) · `en`
-
-Colombo, March 25 (Daily Mirror) - The Committee on Public Accounts (COPA) called for an investigation into the import of contaminated fish in January this year and has thus advised the Ministry of Finance to refer the matter to CID.
-
-It was revealed at the recent COPA meeting that some 102 containers of contaminated fish had been imported in January this year.
-
-COPA has given instructions after determining that the import of contaminated fish is a criminal act.
-
-◼️
-
-[Data](articles/81533653.json)
-
-[Extended Data](ext_articles/81533653.ext.json)
-
----
-
-### Pregnant women gang arrested organized
-
-*2024-03-25 13:59:58* · [`adalk`](https://www.ada.lk/breaking_news/සංවිධානාත්මකව-හොරකම්-කළ-ගැබිණි-කාන්තා-කල්ලියක්-අල්ලයි/11-408784) · `si`
-
-Three members of a pregnant woman gang were arrested in Anuradhapura for drug and robbery. They were found with gold and heroin on a bus from Colombo. The suspects were interrogated and will face charges.
-
-🟩
-
-The passengers traveling in buses, three members of an organized pregnant woman gang have been arrested with a gold drug and robbery, Anuradhapura, Anuradhapura.
-
-The victim is, Thambuththegama, Kudagama and Bulathsinhala Road In Ingiriya.
-
-A private bus traveling from Colombo to Anuradhapura has been taken to Anuradhapura headquarters police and the three suspects were arrested during a inspection of the bus.Says.
-
-First of the first inspected the bus with suspicious women in the bus, a gold necklace was hidden in the hat of female police, heroin suspected that 2700 milligrams of heroin, the other pregnant woman.Police say Rs. 7820 were found at Rs.
-
-Police say that no suspects were in their own areas regarding areas of residents of the three arrested and interrogated areas of the suspects.
-
-One suspect is not known to heroin, who was found in the hat of one suspect's hat and brought it to the husband of a motorcycle.
-
-...
-
-[Data](articles/772e7402.json)
-
-[Extended Data](ext_articles/772e7402.ext.json)
-
----
-
-### Yall. Vaddukoddai youth assassination;More three arrested
-
-*2024-03-25 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179652) · `ta`
-
-Three suspects, including a main suspect, arrested for kidnapping and murder in Vaddukoddai, Jaffna. Six others arrested, two identified by victim's wife. Police continue investigations, arresting three more, including one in hiding. Further arrests and legal action planned.
-
-🟩
-
-Three persons, including one of the main suspects, have been arrested on charges of kidnapping and murdering a youth in Vaddukoddai in Jaffna.
-
-A gang of violence was abducted by a violent gang in front of a naval camp near the Ponnalai Bridge, leaving the Karainagar area on the 11th of this month, and a gang who killed a young man and killed his wife.
-
-The District Criminal Investigation Division, which is conducting investigations into the incident, has already arrested six people and filed in court and has been remanded until the 28th.. Two of them were identified by the wife of the young man who was killed during the march.
-
-In this backdrop, the district criminal police, which are conducting a series of investigations, have arrested three persons, including one of the main persons who were in hiding in the Vavuniya, Oddusudan and Kilinochchi areas.
-
-The police are conducting further investigations to the arrested persons and have taken steps to appear at the Mallakam Magistrate's Court.
-
-...
-
-[Data](articles/f9fd35df.json)
-
-[Extended Data](ext_articles/f9fd35df.ext.json)
-
----
-
-### A group of students in a private educational institution clash
-
-*2024-03-25 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194909) · `si`
-
-A clash in Bakmagolla, Ibbagamuwa, injured 9 students. Three were hospitalized. Cause unknown. Gokarella Police investigating.
-
-🟩
-
-9 persons were injured in a clash between a group of students in Bakmagolla, Ibbagamuwa area.
-
-It is reported that the clash had occurred in a Residential Education Institute yesterday (24).
-
-Three students and one student have been admitted to Kurunegala buses and one student from the clash.
-
-The cause of the conflict is yet to be ascertained and Gokarella Police are conducting further investigations.
-
-◼️
-
-[Data](articles/44374b7b.json)
-
-[Extended Data](ext_articles/44374b7b.ext.json)
-
----
-
-### Action to digitize foreign employment sector - Manusha Nanayakkara
-
-*2024-03-25 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/179637) · `ta`
-
-Manusha Nanayakkara, Minister of Labor and Foreign Employment, announced the Cabinet's approval for digitizing the foreign employment sector. This move aims to combat trafficking and fraud, enhance communication between migrant workers and officers, and streamline grievance handling. The initiative will empower the Bureau of Foreign Employment to prevent illegal activities and unnecessary interventions.
-
-🟩
-
-The Minister of Labor and Foreign Employment, Manusha Nanayakkara said that the Cabinet has approved the digitalization of all foreign employment sector.
-
-It will soon be implemented. He urged the foreign employment sector to be released from the clutches of the traffickers and fraudsters, and improving the connection between migrant workers and officers and improving the process of dealing with grievances.
-
-The Minister said this while attending a discussion with journalists at the Jayagamu Sri Lanka Telephone event held in Matale.
-
-The Minister also said that it would empower the Bureau of Foreign Employment Bureau to prevent unnecessary interventions and stop illegal activities.
-
-◼️
-
-[Data](articles/9477637d.json)
-
-[Extended Data](ext_articles/9477637d.ext.json)
-
----
-
-### New dress for police officers protecting Sri Maha Bodhi
-
-*2024-03-25 13:36:12* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-මහා-බෝධිය-ආරක්ෂාකරන-පොලිස්-නිලධාරීන්ට-නව-ඇඳුමක්/11-408783) · `si`
-
-Thirty police officers in Anuradhapura received new white uniforms, blessed by Pallegama Hemarathana Thera. Defense Minister Tiran Alles and Inspector General of Police (SSP) were present.
-
-🟩
-
-Thirty police officers and officers of the courtyard of the Headdance of the Victory in Anuradhapura was introduced to introduce a white new police uniform.
-
-The police officers and officials began working in new uniform and committed the Pallegama Hemarathana Thera and blessed the Pirith Arts.
-
-The Defense Minister Tiran Alles and Inspector General of Police (Sen officer) from the Atamasthanadhipati Minister Tiran Alles and the Inspector General of Police (SSP) was handed over under the direct supervision of Mr. Senior Superintendent of Police.. Udamaluwa Police OIC Chief Inspector of Police W.SLRKB. Mr. Wettewa and several officials were present.
-
-◼️
-
-[Data](articles/a1d92b7e.json)
-
-[Extended Data](ext_articles/a1d92b7e.ext.json)
-
----
-
-### Drivers missed after April 10
-
-*2024-03-25 13:27:08* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රේල්-10න්-පසු-වැරදිකලොත්-රියඳුරන්ට-වැඩ-වරදියි/11-408782) · `si`
-
-"Drivers missed after April 10. Minister of Transport to refer data to National Council, including driver's license and telephone license. Mr. Lasantha Alagiyawanna mentioned this recently. Data security concerns highlighted by the National Council on Road Safety."
-
-🟩
-
-Minister of Transport will refer to the data system of the guilt, the relevant police station, the driver's license and telephone license of the Road Safety to the National Council.Mr. Lasantha Alagiyawanna told him recently.
-
-According to the data security, the National Council on Road Safety International Council on the Road Safety to the Telephone Regard
-
-◼️
-
-[Data](articles/495dac85.json)
-
-[Extended Data](ext_articles/495dac85.ext.json)
-
----
-
-### 'Garbish containers' 102 CID
-
-*2024-03-25 13:26:14* · [`adalk`](https://www.ada.lk/breaking_news/’කුණු-මාලු-කන්ටේනර්’-102-සී-අයි-ඩී-යයි/11-408781) · `si`
-
-After 102 spoiled fish incidents, the Criminal Investigation Department (CID) was alerted. The Committee on Public Accounts (Capa) complained about the CID's handling of the case, involving spoiled fish from Colombo Port to Thailand. The incident was due to an industrial error, with the fish spoiled by a ship collapse. The Auditor General revealed the error and the importation of the fish, which was prohibited. The containers were used to produce organic fertilizer, with 4 destroyed, 43 used for fertilizer, and 15 remaining. The Auditor General criticized the use of fish for fertilizer, but customs officials defended the practice. The Committee Chairman expressed concern over the environmental and health risks of spoiled fish, leading to a call for a committee to investigate.
-
-🟩
-
-Complaint to the Criminal Investigation Department (CID) Counsel Officers of the Criminal Investigation Committee immediately after 102 spoiled fish incidents
-
-Criminal Investigations Department also informs the top officials to conduct investigations
-
-The Committee on Public Accounts (Capa Committee) was instructed to complain to the Criminal Investigation Department immediately after the criminal inquiry into the Criminal Investigation Department (CPA).. It was also reported to be informed of the investigation into the occasion.
-
-The communicacy was made by the Committee on Public Accounts Lasantha Elagiyawanayake on the patronage of a spoiled fish contained in the Colombo Port to Thailand.
-
-...
-
-[Data](articles/13877d3a.json)
-
-[Extended Data](ext_articles/13877d3a.ext.json)
-
----
-
-### Superbid from Sri Lanka
-
-*2024-03-25 13:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194908) · `si`
-
-Sri Lanka won the first Test against Bangladesh by 328 runs, with Dhananjaya De Silva and Kimindu Mendis scoring centuries. Bangladesh scored 188 in the first innings and 182 in the second, with Kasun Rajitha taking 5 wickets for 56 runs.
-
-🟩
-
-Sri Lanka were able to win the first Test match between Sri Lanka and Bangladesh to win 328 runs.
-
-Chasing a target of 511 runs, the Bangladesh team scored 182 on the fourth day of the match.
-
-Leader Dhananjaya De Silva (102 & 108 marks) and Kimindu Mendis (102 & 164) in their innings is a collection of two centuries.
-
-Bangladesh scored 188 runs in their first innings and only 182 runs for the second innings.
-
-Kasun Rajitha took 5 wickets for 56 runs for 56 runs.
-
-◼️
-
-[Data](articles/90e23629.json)
-
-[Extended Data](ext_articles/90e23629.ext.json)
-
----
-
-### New uniform for Sri Maha Bodi police post
-
-*2024-03-25 13:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-uniform-for-Sri-Maha-Bodi-police-post/108-279549) · `en`
-
-Anuradhapura, March 25 (Daily Mirror) - A new style of uniform for the police officers on duty at the upper compound of the Sri Jayasri Maha Bodhi in Anuradhapura was introduced today.
-
-The officers who assumed duties last morning in the new uniform received the blessings of the Mahasangha, including Anuradhapura Atamasthanadipathi Ven. Pallegama Hemarathana Thera, who chanted Seth Pirith.
-
-The new uniform was introduced in response to Ven. Hemarathana Thera’s request to Minister of Public Security Tiran Alles and IGP Deshabandu Thennakoon. The proposal was implemented under the supervision of SSP Anuradhapura Division Thilina Hewapathirana.
-
-Several senior police officials, including OIC Udamaluwa Police Post W.C.L.R. K.B. Wetthewa, were present at the occasion.
-
-◼️
-
-[Data](articles/e3c42439.json)
-
-[Extended Data](ext_articles/e3c42439.ext.json)
 
 ---

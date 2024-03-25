@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 13:17:54**
+As of **2024-03-25 13:35:38**
 
 ## Newspaper Stats
 
-*Scraped **15,005** Articles*
+*Scraped **15,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,41 +18,99 @@ islandlk | 831
 adalk | 1,273
 adaderanalk | 1,807
 tamilmirrorlk | 1,809
-virakesarilk | 2,102
-dailymirrorlk | 2,312
-adaderanasinhalalk | 2,407
+virakesarilk | 2,104
+dailymirrorlk | 2,313
+adaderanasinhalalk | 2,408
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,999 (100.0%) of 15,005 articles have been extended.
+15,005 (100.0%) of 15,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### මුහුණු පොතෙන් තරුණියකගෙන් ලිංගික අල්ලස් ඉල්ලූ තරුණයා අත්අඩංගුවට
+### තම පාසලේම ලැප්ටොප් සොරකම් කළ සිසුන් කොටුවෙයි
+
+*2024-03-25 13:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194907) · `si`
+
+බේරුවල ආරියවංශ විදුහලේ සුහුරු පන්ති කාමරය කඩා එහි තිබූ ලැප්ටොප් 12ක් සොරකම් කිරීම සම්බන්ධයෙන් එම පාසලේම සිසුන්  දෙදෙනකු ඇතුළු පස්දෙනෙකු අද (25) අත්අඩංගුවට ගත් බව බේරුවල පොලීසිය පවසයි.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ එම පාසලේ ලබන වර්ෂයේ අපොස සාමාන්‍ය පෙළ විභාගයට පෙනී සිටිමට නියමිත 16 හැවිරිදි සිසුන් දෙදෙනෙකු, පානදුර සහ පාදුක්ක ප්‍රදේශයේ පදිංචි පුද්ගලයින් තිදෙනකු බව පොලීසිය කීය.
+
+පසුගිය පෙබරවාරි මාසයේ පසළොස්වක පොහොය දින පාසලේ සුහුරු පන්ති  කාමරය කඩා ලැප්ටොප් සොරකම් කර ඇති බවට පැමිණිල්ලක් ලැබී තිබූ බව පොලීසිය පැවසීය.
+
+එම පාසලේ සිසුන් දෙදෙනෙකු ලැප්ටොප් යන්ත්‍ර අලෙවි කිරීමට සොයන බවට විශේෂ කාර්යාංශ නිලධාරීන්ට ලද තොරතුරක්  මත එම දෙදෙනාගෙන් ප්‍රශ්න කිරීමේදී , පානදුර සහ පාදුක්ක ප්‍රදේශයේ පුද්ගලයින් තිදෙනෙකු සම්බන්ධ කර ගනිමින් එම ලැප්ටොප් අලෙවි කිරීමට සූදානම් බවට පොලීසිය විසින් තොරතුරු අනාවරණ කරගෙන තිබේ.
+
+ඒ අනුව සැකකරුවන් අත්අඩංගුවට ගෙන සොරකම් කරන ලද ලැප්ටොප් 12ක් පාදුක්ක ප්‍රදේශයේ සඟවා තිබියදී සොයාගෙන තිබුණි.
+
+◼️
+
+[Data](articles/12e9da4a.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-03-25 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179646) · `ta`
+
+இன்று திங்கட்கிழமை (மார்ச் 25) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 298.4579 ஆகவும் விற்பனை விலை ரூபா 307.9921 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/048ee784.json)
+
+---
+
+### யுக்திய நடவடிக்கையில் 862 பேர் கைது!
+
+*2024-03-25 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179643) · `ta`
+
+நாட்டில்  பொலிஸாரினால் மேற்கொண்ட யுக்திய நடவடிக்கையின் போது நேற்று  (24)  841 ஆண் சந்தேக நபர்களும் 21 பெண் சந்தேக நபர்களும் கைது செய்யப்பட்டுள்ளனர்.
+
+இவர்களுள் 57 சந்தேக நபர்கள் மேலதிக விசாரணைக்காக பொலிஸ் காவலில் வைக்கப்பட்டுள்ளதோடு , 05 சந்தேக  நபர்களின் சொத்துக்கள் தொடர்பான விசாரணைகள் மேற்கொள்ளப்பட்டுள்ளன.
+
+அத்தோடு, போதைப்பொருளுக்கு அடிமையாகிய 10 சந்தேக நபர்கள் புனர்வாழ்வு  நிலையங்களுக்கு அனுப்பப்படவுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+மேலும், பொலிஸாரினால் மேல் மாகாணத்தில்  மேற்கொள்ளப்பட்ட யுக்திய நடவடிக்கையின் போது ஹெரோயின் 142 கிராம் , ஐஸ் போதைப் பொருள் 97 கிராம் , கஞ்சா 395 கிராம் போன்ற போதைப்பொருட்கள்  கைப்பற்றப்பட்டுள்ளன.
+
+தென் பகுதியில் மேற்கொள்ளப்பட்ட  யுக்திய நடவடிக்கையில்  போதைப்பொருட்கள் கைப்பற்றப்பட்டுள்ளன.  இதன் போதும் 76 ஆண் சந்தேக நபர்களும் , 3 பெண் சந்தேக நபர்களும் கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/621b485f.json)
+
+---
+
+### Youth demanded from a girl from a girl from a girl
 
 *2024-03-25 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194906) · `si`
 
-ෆේස්බුක් සමාජ මාධ්‍යයේ ව්‍යාජ ගිණුම් නිර්මාණය කරමින් රාගම තරුණියකගෙන් ලිංගික අල්ලස් ඉල්ලූ 21 හැවිරිදි තරුණයෙක් පිළියන්දල පොලීසිය අත්අඩංගුවට ගෙන තිබේ.
+A 21-year-old youth in Piliyandala, Sri Lanka, was arrested for demanding sexual bribes via 50 fake Facebook accounts. He targeted young girls, using photos and false accounts to threaten them. The suspect accessed a boyfriend's Facebook account to share nude photos, leading to his arrest.
 
-සැකකරුට ව්‍යාජ ෆේස්බුක් ගිණුම් 50ක් පමණ ඇති අතර ඒ ඔස්සේ තරුණියන් රැසකගෙන්ම ලිංගික අල්ලස් ඉල්ලා ඇති බව පොලිස් විමර්ශනවලදී අනාවරණ වී ඇත.
+🟩
 
-රාගම ප්‍රදේශයේ පදිංචිව සිටින 22 හැවිරිදි තරුණියකගේ ෆේස්බුක් ගිණුමේ වසර දෙකක පමණ කාලයක් මිතුරෙකු ලෙස සිටි තරුණයෙක් ඇයට අවස්ථා කිහිපයකදීම ආදර සබඳතාවයක් ආරම්භ කිරීමට යෝජනා කර තිබුණු අතර ඇය එම ආරාධනය ප්‍රතික්ෂේප කර තිබුණි.
+The Piliyandala Police have arrested 21, a 21-year-old youth who demanded the bribe of sexual bribes in Face accounts in Facebook social media.
 
-මේ අතරවාරයේ එම තරුණිය සිය පෙම්වතා සමග ඔවුන් දෙදෙනාගේ ඡායාරූපද ෆේස්බුක් වෙත එක් කර තිබිණි.
+Police investigations have revealed that the suspect had some 50 fake Facebook accounts and had asked the bribe from several young girls.
 
-එම ඡායාරූප දැක උරුණ වූ ඇයට කැමැත්තෙන් සිටි තරුණයා, ව්‍යාජ කාන්තා ෆේස්බුක් ගිණුමක් ඔස්සේ තරුණියට පණිවුඩයක් යොමු කර තිබුණේ ඇගේ නිරුවත් ඡායාරූප ඇතුළත් වෙබ් අඩවියක Link එකක් සමගයි.
+A young man who was a two-year-old girl residing in the area of a 22 year old man in Ragama had proposed to start a romantic relationship with a couple of occasions.
 
-නමුත් එම Link එක විවෘත නොකළ තරුණිය එය සිය පෙම්වතාට යවා ඇත්තේ එය පරීක්ෂා කර බලන ලෙස ඉල්ලමිනි.
+In the meantime, the girl had also added photographs of the two of them to Facebook.
 
-පසුව ඇගේ පෙම්වතා එම Link එක විවෘත කිරීමත් සමග පෙම්වතාගේ ෆේස්බුක් ගිණුමට අනවසරයෙන් ප්‍රවේශ වීමට සැකකාර තරුණයාට අවස්ථාව උදාවී තිබේ.
+The young man who was willing to see the photos, a message to the girl with a false women's Facebook account, with a link in a website that includes her nude photos.
+
+But the young woman who did not open the link was sent to her boyfriend, requesting it to check it.
+
+Later, after her boyfriend opens the link, the suspect is the opportunity to access the boyfriend's Facebook account.
 
 ...
 
 [Data](articles/fb4b6160.json)
+
+[Extended Data](ext_articles/fb4b6160.ext.json)
 
 ---
 
@@ -70,39 +128,53 @@ On Sunday, Minister of Trade Nalin Fernando said that the price of a packet of m
 
 [Data](articles/57e4bca6.json)
 
+[Extended Data](ext_articles/57e4bca6.ext.json)
+
 ---
 
-### தேயிலை செடிகளுக்குள் ஓடிய வௌ்ளை கார்
+### The car that ran into the tea plants
 
 *2024-03-25 12:45:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேயிலை-செடிகளுக்குள்-ஓடிய-வௌ்ளை-கார்/76-335149) · `ta`
 
-அதிவேகமாக வந்த காரொன்று வீதியை விட்டு விலகி தேயிலை செடிகளுக்குள் புகுந்தோடி து விபத்துக்கு உள்ளாகியுள்ளதாக திம்புள்ள- பத்தனை பொலிஸார் தெரிவித்தனர்.
+A high-speed car crashed into tea plants near Kotagala Fuel Station, Hatton-Nuwara Eliya road, at 8 am on Monday. The driver lost control trying to save a dog, and despite the accident, no one was injured. The car was severely damaged.
 
-ஹட்டன்- நுவரெலியா பிரதான வீதியில் கொட்டகலை எரிபொருள் நிரப்பு நிலையத்திற்கு அருகில், திங்கட்கிழமை (25) காலை 08 மணியளவில் இந்த சம்பவம் இடம்பெற்றுள்ளது.
+🟩
 
-கொட்டகலையில் இருந்து ஹட்டன் நோக்கி கார் அதிவேகமாக செலுத்தப்பட்டுள்ளது. அப்போது நாயொன்று  வீதியை கடக்க முட்பட்டுள்ளத, நாயை காப்பாற்றும் முயற்சியால் சாரதியின் கட்டுப்பாட்டை இழந்த கார்  தேயிலை செடிகளுக்குள் சென்றுவிட்டது.
+Dimbulla-Pathanam police said that a high-speed car crashed into the tea plants.
 
-விபத்தின் போது, ​​காரில் நான்கு பேர் இருந்தனர், அவர்களில் யாருக்கும் காயம் ஏற்படவில்லை எனத் தெரிவித் பொலிஸார் கார் பலத்த சேதமடைந்ததுள்ளது என்றனர்.
+The incident took place at around 8 am on Monday (25) near the Kotagala Fuel Station on the Hatton-Nuwara Eliya main road.
+
+The car has been exacerbated from the barn to Hatton. At the time, a dog had been forced to cross the road and the driver lost control of the driver's attempt to save the dog and went into the tea plants.
+
+During the accident, there were four people in the car and that none of them were injured, police said the car was severely damaged.
 
 ◼️
 
 [Data](articles/91522cac.json)
 
+[Extended Data](ext_articles/91522cac.ext.json)
+
 ---
 
-### කිරි තේ මිල පහළට
+### Dairy tea prices down
 
 *2024-03-25 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194905) · `si`
 
-කිරි තේ එකක මිල රුපියල් 10කින් අඩු කිරීමටද සමස්ත ලංකා ආපනශාලා හිමියන්ගේ සංගමය පියවර ගෙන තිබේ.
+The All Island Restaurant Owners Association reduced milk tea prices by Rs.10, following the government's decision to lower imported milk prices due to operational issues from midnight yesterday.
 
-ඊයේ (24) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ආනයනික කිරිපිටිවල මිල ගණන් පහළ දැමීමට රජය කටයුතු කිරීම හේතුවෙන් එම තීරණය ගෙන ඇත.
+🟩
 
-ඒ අනුව ඊයේ මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ආනයනික කිරිපිටි කිලෝග්‍රෑම් 1ක පැකැට්ටුවක මිල රුපියල් 150කින්ද, ග්‍රෑම් 400ක ආනයනික කිරිපිටි පැකැට්ටුවක මිල රුපියල් 60කින්ද පහළ දැමීමට තීරණය කෙරුණි.
+The All Island Restaurant Owners Association has also taken steps to reduce the price of a milk tea by Rs.10.
+
+The decision was taken by the government to decline the prices of the imported milk failure to operate from midnight yesterday.
+
+Accordingly, a packet of Rs.
 
 ◼️
 
 [Data](articles/0300d33f.json)
+
+[Extended Data](ext_articles/0300d33f.ext.json)
 
 ---
 
@@ -120,21 +192,29 @@ China and Sri Lanka are neighboring countries that share traditional friendship.
 
 [Data](articles/6db29b18.json)
 
+[Extended Data](ext_articles/6db29b18.ext.json)
+
 ---
 
-### ”குழு மோதல் தான் விலை குறைப்புக்கு வழி வகுத்தது”
+### "Group Conflict led to a reduction in prices"
 
 *2024-03-25 12:39:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குழு-மோதல்-தான்-விலை-குறைப்புக்கு-வழி-வகுத்தது/175-335147) · `ta`
 
-பால்மா இறக்குமதியாளர்களுடன் பொது நிதிக் குழுவின் (COPF) மோதலால் பால் மாவின் விலைகள் குறைக்கப்பட்டுள்ளதாக அதன் தலைவர் ஹர்ஷ டி சில்வா இன்று தெரிவித்தார்.
+"Group conflict led to a reduction in milk flour prices, as Harsha de Silva revealed a decrease in prices due to a conflict with milk importers. The Public Finance Committee (COPF) refused to increase taxes on Palma, leading to a decline in prices, with a kilogram now priced at Rs 150."
 
-"குழுவில் நடந்த மோதலுக்குப் பிறகு, பால்மா மீதான வரியை அதிகரிக்க நாங்கள் மறுத்துவிட்டோம், மேலும் சூத்திரம் இல்லாத நிலையில் சந்தைப் போட்டியின்மையால் சீராக்கியின் பிழைகளைக் கண்டறிந்தோம், அதனால் கதை முற்றிலும் மாறுபட்ட திருப்பத்தை ஏற்படுத்தியுள்ளது.
+🟩
 
-அதிகரிப்புக்கு பதிலாக, இப்போது விலைகள் குறைந்துள்ளன. ஒரு கிலோகிராம் ரூபாய் 150இனால் குறைந்துள்ளது என  டி சில்வா தனது X பக்கத்தில் பதிவிட்டுள்ளார்.
+Harsha de Silva said today that the prices of milk flour have been reduced due to the conflict of the Public Finance Committee (COPF) with milk importers.
+
+"After the conflict in the group, we refused to increase the tax on Palma, and in the absence of formula, we found out the errors of the regulator because of the lack of formula, so the story has made a completely different turn.
+
+Instead of increasing, now prices have declined. De Silva posted on his X page that a kilogram of Rs 150 has declined.
 
 ◼️
 
 [Data](articles/55fa0403.json)
+
+[Extended Data](ext_articles/55fa0403.ext.json)
 
 ---
 
@@ -197,6 +277,18 @@ Addressing the event, Director of the Agriculture Sector Modernization Project, 
 [Data](articles/94977340.json)
 
 [Extended Data](ext_articles/94977340.ext.json)
+
+---
+
+### Protest to approve promotions...
+
+*2024-03-25 12:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Protest-to-approve-promotions/110-279546) · `en`
+
+A protest was held by the Joint Committee of Government Executive Officers in front of the Finance Ministry, demanding the immediate approval of the Cabinet Paper related to the promotion of departmentalized Executive Officers. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/4db0afa7.json)
 
 ---
 
@@ -2121,87 +2213,5 @@ According to Police Spokesperson SSP Nihal Thalduwa, Sirisena has informed the P
 [Data](articles/c6ce503f.json)
 
 [Extended Data](ext_articles/c6ce503f.ext.json)
-
----
-
-### President assures free land rights to 2 million by June
-
-*2024-03-25 01:12:55* · [`dailyftlk`](https://www.ft.lk/news/President-assures-free-land-rights-to-2-million-by-June/56-759871) · `en`
-
-President Ranil Wickremesinghe instructed officials to expedite the completion of the national “Urumaya” freehold deeds program by June.
-
-The President emphasized that it is the dream of every citizen to attain legal ownership of land, regardless of their background. He firmly believes that everyone should have this fundamental right.
-
-President Ranil Wickremesinghe made these remarks while attending the ‘Urumaya’ Freehold Deeds program held in the Ottagapulam, in Jaffna on Friday.
-
-Accordingly, 408 land deeds were vested with the people of Jaffna as part of the ‘Urumaya’ program, aimed at providing free land rights to 2 million individuals.
-
-Under the leadership of President Ranil Wickremesinghe, the release of lands previously utilized by the Jaffna Security Force Headquarters was undertaken.
-
-...
-
-[Data](articles/d4413114.json)
-
-[Extended Data](ext_articles/d4413114.ext.json)
-
----
-
-### Pakistan’s National Day celebration in Sri Lanka
-
-*2024-03-25 01:12:11* · [`dailyftlk`](https://www.ft.lk/news/Pakistan-s-National-Day-celebration-in-Sri-Lanka/56-759870) · `en`
-
-A ceremony to mark the National Day of Pakistan was held at the High Commission of the Islamic Republic of Pakistan, Colombo on 23 March 2024.
-
-The event was attended by fellow Pakistani community members based in Sri Lanka. The participants resolved to make Pakistan a strong, vibrant, progressive, and democratic state.
-
-The National Day of Pakistan is celebrated on 23 March every year in remembrance of the historic 1940 Lahore resolution which formed the basis of the creation of Pakistan on 14 August 1947.
-
-High Commissioner of Pakistan, Major Gen. (R) Faheem-ul-Aziz HI (M), raised the Pakistan flag to the tunes of the national anthem of Pakistan in a simple yet graceful ceremony. Special messages by the President and the Prime Minister of Pakistan scripted for the occasion were read out.
-
-...
-
-[Data](articles/85492da0.json)
-
-[Extended Data](ext_articles/85492da0.ext.json)
-
----
-
-### IMF warns SL on “knife edge path” must sustain new found virtuous cycle than reverting to vicious phase
-
-*2024-03-25 00:55:35* · [`dailyftlk`](https://www.ft.lk/business/IMF-warns-SL-on-knife-edge-path-must-sustain-new-found-virtuous-cycle-than-reverting-to-vicious-phase/34-759868) · `en`
-
-Identifies EFF program was result of robust discussions and well thought out
-
-Says open to alternative suggestions from political parties on how EFF program objectives can be reached but stresses these must be realistic and achievable within the time frame of the program
-
-Emphasises hard-won gains over the last two years must not be unravelled
-
-Urges SL to keep the momentum going to reach debt sustainability and bring growth to a firmer footing on recovery
-
-The International Monetary Fund (IMF) last week said it is witnessing the beginning of a virtuous cycle in Sri Lanka which must be sustained rather than reverting to a “vicious cycle” as the country is on a “knife edge” path.
-
-The frank assessment was shared by IMF›s Senior Mission Chief for Sri Lanka Peter Breuer at the media briefing following the conclusion of the Second Review of the $ 3 billion four year Extended Fund Facility (EFF) program and Article IV consultation.
-
-...
-
-[Data](articles/8a398fb7.json)
-
-[Extended Data](ext_articles/8a398fb7.ext.json)
-
----
-
-### Ceylon Chamber celebrates 185 years of unstinted service
-
-*2024-03-25 00:53:17* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Chamber-celebrates-185-years-of-unstinted-service/34-759867) · `en`
-
-The Ceylon Chamber of Commerce, the premier representative of Sri Lanka’s private sector, will be marking its 185th anniversary today (March 25).
-
-Established in 1839, initially to cater to the needs of the plantation industry, primarily rubber and coconut, it has evolved into an institution representing a wide sector of industry and commerce. Today, boasting a membership of over 500 members, including some of the largest corporations in Sri Lanka the Ceylon Chamber stands as a pillar of support for businesses across various sectors.
-
-...
-
-[Data](articles/d6972b2b.json)
-
-[Extended Data](ext_articles/d6972b2b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 19:03:10**
+As of **2024-03-25 19:17:51**
 
 ## Newspaper Stats
 
-*Scraped **15,083** Articles*
+*Scraped **15,084** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,29 +20,49 @@ adaderanalk | 1,815
 tamilmirrorlk | 1,815
 virakesarilk | 2,122
 dailymirrorlk | 2,332
-adaderanasinhalalk | 2,420
+adaderanasinhalalk | 2,421
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,082 (100.0%) of 15,083 articles have been extended.
+15,083 (100.0%) of 15,084 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### සේල් සේල් - පාරිභෝගිකයින් ට අනතුරු ඇඟවීමක්
+### නැකත් ගැන අලුත්ම නිවේදනය මෙන්න
+
+*2024-03-25 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194921) · `si`
+
+2024 වර්ෂයේ අවුරුදු නැකත් සීට්ටුව සම්බන්ධයෙන් බුද්ධශාසන ආගමික හා සංස්කෘතික කටයුතු අමාත්‍යාංශය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+
+එහි සඳහන් කර ඇත්තේ විවිධ මතිමතාන්තරවලට නොරැවටී රාජ්‍ය නැකත් කමිටුව විසින් සකස්කර ඇති 2024 වර්ෂයේ නැකත් සීට්ටුවට අනුව සිංහල අලුත් අවුරුදු නැකත් චාරිත්‍ර ඉටුකරන ලෙසටය.
+
+◼️
+
+[Data](articles/c7ccf2c0.json)
+
+---
+
+### Sail sail - a warning
 
 *2024-03-25 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194920) · `si`
 
-උත්සව සමයේ ක්‍රියාත්මක "සේල්" නමින් හඳුන්වා භාණ්ඩ අලෙවි කරනු ලබන ස්ථානවලින් භාණ්ඩ මිලදී ගැනීමේ දී පාරිභෝගිකයින් රැවටීම්වලට ලක්වීමට ඉඩ ඇති බව පාරිභෝගික කටයුතු පිළිබද අධිකාරිය පවසයි.
+The Consumer Affairs Authority warns of potential deception in festive season goods purchases. Director Asela Bandara advises consumers to pay attention to product details and marketing tactics.
 
-එහි තොරතුරු අධ්‍යක්ෂ අසේල බණ්ඩාර මහතා ප්‍රකාශ කළේ කල් ඉකුත් වීමට ආසන්න භාණ්ඩවල තොරතුරු වෙනස් කර උත්සව සමයේ අලෙවි කිරීම් සිදුවිය හැකි බැවින් ඒ පිළිබඳ අවධානයෙන් පසුවිය යුතු බවයි.
+🟩
+
+Consumer Affairs Authority says that it is likely to be deceived in purchasing goods, which are introduced by the festive season.
+
+Director Asela Bandara said that it should be drawn to the details of the goods near the expiration and the marketing of the festive season.
 
 ◼️
 
 [Data](articles/0a2d24f6.json)
+
+[Extended Data](ext_articles/0a2d24f6.ext.json)
 
 ---
 
@@ -2207,31 +2227,5 @@ Former President Maithripala Sirisena had made a statement to the media after he
 [Data](articles/bfdc7c0a.json)
 
 [Extended Data](ext_articles/bfdc7c0a.ext.json)
-
----
-
-### Allowing three persons, including navy personnel arrested in Jaffna, have been arrested in police custody.
-
-*2024-03-25 11:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179627) · `ta`
-
-Three, including navy personnel, arrested in Jaffna, are under investigation for cannabis sale. Police acted on confidential info about the sale last Saturday, arresting two navy personnel and a buyer. The Kayts Magistrate's Court granted permission for the investigation, with the suspects to be interrogated for 48 hours.
-
-🟩
-
-The Kayts Magistrate's Justice has granted permission to investigate the police detention of two navy and a person who came to buy cannabis.
-
-On the basis of confidential information received by the Kayts police that the sale of cannabis was taking place last Saturday, the police rushed to the scene and arrested the two men and the person who bought it and carried out investigations.
-
-It was revealed that the two of the cannabis were from the Navy and that the other person was the city.
-
-In this backdrop, the Kayts Magistrate's Court on Sunday (24) should present the three men in the presence of the Magistrate's Court.. So they demanded permission to detain them and interrogate them.
-
-The police allowed the police to be interrogated by the police for 48 hours.
-
-◼️
-
-[Data](articles/5591d92f.json)
-
-[Extended Data](ext_articles/5591d92f.ext.json)
 
 ---

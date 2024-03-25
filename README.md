@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 12:33:37**
+As of **2024-03-25 12:49:34**
 
 ## Newspaper Stats
 
-*Scraped **14,997** Articles*
+*Scraped **14,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 1,805
 tamilmirrorlk | 1,807
 virakesarilk | 2,101
 dailymirrorlk | 2,312
-adaderanasinhalalk | 2,404
+adaderanasinhalalk | 2,405
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,980 (99.9%) of 14,997 articles have been extended.
+14,993 (100.0%) of 14,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### රැවුල් කුමාර සඟවා ගෙන සිටි ෆෝන් එක STF භාරයට
+
+*2024-03-25 12:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194904) · `si`
+
+බූස්ස අධි ආරක්ෂිත බන්ධනාගාරයේ රඳවා සිටින "රැවුල් කුමාර" නම් සංවිධානාත්මක අපරාධකරු සන්තකයේ තිබී ජංගම දුරකථනයක් පොලිස් වි‍ශේෂ කාර්ය බළකායේ නිලධාරීන් විසින් සොයාගෙන තිබේ.
+
+විශේෂ කාර්ය බළකායේ නිලධාරීන් කණ්ඩායමක් විසින් ඊයේ (24) දින බූස්ස බන්ධනාගාරයේ විශේෂ අංශය A කොටසේ හදිසි සෝදීසි කිරීමක් සිදුකර ඇත.
+
+එහිදී මෙම සැකකරු සතුව තිබී සිම්පතක්, ජංගම දුරකථනයක්, චාජර් හා අමතර බැටරියක් පොලිස් භාරයට ගෙන ඇත.
+
+වැඩිදුර විමර්ශන සඳහා එම ජංගම දුරකථනය සහ අනෙකුත් දෑ විශේෂ කාර්ය බළකාය නිලධාරීන් භාරයේ තබා ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/ae7a90c2.json)
+
+---
 
 ### First ever solar tunnel dryer technology in Sri Lanka
 
@@ -48,21 +66,29 @@ Addressing the event, Director of the Agriculture Sector Modernization Project, 
 
 [Data](articles/94977340.json)
 
+[Extended Data](ext_articles/94977340.ext.json)
+
 ---
 
-### ஸ்ரீலங்கா சுதந்திரக் கட்சி முக்கியஸ்தர்களைக் கொழும்புக்கு அழைக்கும் மைத்திரிபால
+### Sri Lanka Freedom Party (SLFP) calls to Colombo
 
 *2024-03-25 12:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/179638) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக்  கட்சியின்  முக்கியஸ்தர்கள் அனைவரையும் வார இறுதியில் கொழும்புக்கு அழைக்க முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன நடவடிக்கை எடுத்துள்ளார்.
+Sri Lanka Freedom Party (SLFP) invites leaders to Colombo for crucial decisions.
 
-ஶ்ரீலங்கா சுதந்திரக் கட்சியின் மத்திய குழு உறுப்பினர்கள், செயற்குழு உறுப்பினர்கள், தொகுதி மற்றும் மாவட்ட அமைப்பாளர்கள் உட்பட அனைவரும் மிக முக்கிய தீர்மானங்களை எடுப்பதற்காக கட்சியின் தலைமையகத்துக்கு  அழைக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+🟩
 
-இந்தக் கூட்டத்தில் கலந்து கொள்வது கட்டாயம் என அனைத்து உறுப்பினர்களுக்கும் எழுத்து மூலம் அறிவிக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்படுகிறது.
+Former President Maithripala Sirisena has taken steps to invite all the leaders of the Sri Lanka Freedom Party (SLFP) to Colombo on the weekend.
+
+It is reported that the Central Committee of the SLFP, the members of the Sri Lanka Freedom Party, the members of the Executive Committee, the constituency and the district organizers have been invited to the party headquarters to make the most important decisions.
+
+It is reported that all members have been informed in writing that it is mandatory to attend the meeting.
 
 ◼️
 
 [Data](articles/80d5b23b.json)
+
+[Extended Data](ext_articles/80d5b23b.ext.json)
 
 ---
 
@@ -80,6 +106,8 @@ The suspect is scheduled to be produced before the Magistrate's court, Kaduwela,
 
 [Data](articles/59493b8b.json)
 
+[Extended Data](ext_articles/59493b8b.ext.json)
+
 ---
 
 ### Excise revenue up by 38.5% in February 2024
@@ -95,6 +123,8 @@ Furthermore, the Excise Commissioner General said that special teams have been d
 ◼️
 
 [Data](articles/f6f8271d.json)
+
+[Extended Data](ext_articles/f6f8271d.ext.json)
 
 ---
 
@@ -114,21 +144,29 @@ The special unit which is operational round the clock was established in the Bur
 
 [Data](articles/5275bd8a.json)
 
+[Extended Data](ext_articles/5275bd8a.ext.json)
+
 ---
 
-### பாதாள உலக  குழுக்களுடன் நெருங்கிய தொடர்பு : அகலவத்தை பொலிஸ் நிலையப் பொறுப்பதிகாரிக்கு எதிராக விசாரணை!
+### Inauguration with underworld groups
 
 *2024-03-25 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179634) · `ta`
 
-பாதாள உலக ஆயுதக் குழுக்களுடன் நெருங்கிய தொடர்புகளை வைத்து அவர்களுக்கு ஆதரவாக செயற்பட்டார் எனக் கூறப்படும் அகலவத்தை பொலிஸ் நிலையப் பொறுப்பதிகாரி ஹெட்டியாராச்சிக்கு எதிராக  விரிவான விசாரணைகளை மேற்கொள்ளுமாறு குற்றப் புலனாய்வுப் பிரிவினருக்கு   பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் உத்தரவிட்டுள்ளார்.
+Police Inspector Deshand Tenkoon has ordered a detailed investigation into officer Hettiarachchi, allegedly linked to the underworld. Soundtracks of conversations between Hettiarachchi and underworld figures in Dubai are circulating on social media. After revealing the officer's underworld contacts, the investigation was transferred to the police Special Investigation Unit by Rohan Premaratne, the then Senior Superintendent of Police.
 
-துபாயில் தலைமறைவாகியுள்ள பாதாள உலகக் குழுவைச் சேர்ந்தவர் எனக் கூறப்படும்  தர்மசிறி  என்பவருக்கும் பிரதான பொலிஸ் பரிசோதகர் ஹெட்டியாராச்சிக்குமிடையில்  இடம்பெற்ற உரையாடல் தொடர்பான ஒலிநாடாக்கள் தற்போது சமூக ஊடகங்களில் பரவி வருவதுடன் இந்த அதிகாரியின் பாதாள உலக தொடர்புகள் அம்பலமாகியுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+🟩
 
-இந்த அதிகாரியின் பாதாள உலக தொடர்புகள் தெரிய வந்ததையடுத்து, அப்போது சிரேஷ்ட பொலிஸ் அத்தியட்சகராக இருந்த ரொஹான் பிரேமரத்ன, அவருக்கு எதிரான விசாரணையை பொலிஸ் விசேட புலனாய்வுப் பிரிவினரிடம் ஒப்படைத்திருந்தமை குறிப்பிடத்தக்கது.
+Police Inspector Deshand Tenkoon has ordered the Criminal Investigation Department to conduct a detailed investigation against the police station officer Hettiarachchi, who is said to have been supportive of the underworld.
+
+Police say the soundtracks related to the conversation between the chief police inspector Hettiarachchi, who are alleged to belong to the underworld in Dubai, are now spreading on social media.
+
+It is noteworthy that after the underworld contacts of the officer were revealed, Rohan Premaratne, the then Senior Superintendent of Police, handed over the investigation into the police Special Investigation Unit.
 
 ◼️
 
 [Data](articles/cc96c264.json)
+
+[Extended Data](ext_articles/cc96c264.ext.json)
 
 ---
 
@@ -144,39 +182,53 @@ Colombo, March 25 (Daily Mirror) - The Committee on Public Finance's (COPF) show
 
 [Data](articles/7db9c287.json)
 
+[Extended Data](ext_articles/7db9c287.ext.json)
+
 ---
 
-### யாழ். புங்குடுதீவில் விபத்து சிக்கியவர் சிகிச்சை பலனின்றி உயிரிழப்பு
+### Yall. An accident in Punguduthivu
 
 *2024-03-25 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179630) · `ta`
 
-யாழ்ப்பாணம் புங்குடுதீவில் ஆலயத்திற்கு சென்று விட்டு, நடந்து வீடு திரும்பி கொண்டிருந்தவர் மீது மோட்டார் சைக்கிள் மோதியதில் படுகாயமடைந்தவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+In Punguduthivu, Jaffna, a man walking home was hit by a motorcycle and died without treatment. The victim was treated at Jaffna Bodhana Hospital on the 23rd.
 
-புங்குடுதீவு பகுதியில் உள்ள ஆலயம் ஒன்றிற்கு கடந்த 20 ஆம் திகதி சென்று விட்டு, தனது வீடு நோக்கி நடந்து சென்று கொண்டிருந்தவர் மீது , வீதியில் வந்த மோட்டார் சைக்கிள் கட்டுப்பாட்டை இழந்து மோதி விபத்துக்கு உள்ளானது.
+🟩
 
-விபத்தில் படுகாயமடைந்தவர் , யாழ்.போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் சனிக்கிழமை(23) சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+A motorcycle crashed into a man who left the temple in Punguduthivu, Jaffna, who was walking home, has died without treatment.
+
+A motorcycle on the street lost control of a man who was walking towards his house on the 20th of last month.
+
+The victim was receiving treatment at the Jaffna Bodhana Hospital on Saturday (23).
 
 ◼️
 
 [Data](articles/881a813e.json)
 
+[Extended Data](ext_articles/881a813e.ext.json)
+
 ---
 
-### தெங்கு பயிர்ச் செய்கை சபையின் முன்னாள் பொது முகாமையாளர் கைது!
+### Former General Manager of Coconut Cultivation Council
 
 *2024-03-25 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179629) · `ta`
 
-ஊழியர் நம்பிக்கை நிதிய பணத்தை மோசடி செய்தமை தொடர்பில் தென்னைப் பயிர்ச் செய்கை சபையின் முன்னாள் பொது முகாமையாளர் சனிக்கிழமை (23)  குற்றப் புலனாய்வு பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+The former General Manager of the Coconut Cultivation Council was arrested for allegedly defrauding over 7 crore seven million rupees from the employee's trust fund. The arrest was made by KT Layanal Dharmasiri, 64, from Udupila, Delgoda, based on a complaint to the Criminal Investigation Department's Finance and Trade Investigation Unit.
 
-இவர் ஏழு கோடியே  எழுபத்தேழு இலட்சம் ரூபாவுக்கும் அதிகமான பணத்தை மோசடி செய்துள்ளார்.
+🟩
 
-தெல்கொட உடுபில பிரதேசத்தைச் சேர்ந்த (64) வயதுடைய  கே.டி.லயனல் தர்மசிறி என்பவரே இவ்வாறு கைது  செய்யப்பட்டுள்ளார்.
+Former General Manager of the Coconut Cultivation Board on Saturday (23) was arrested by the Criminal Investigation Division for allegedly defrauding the employee's trust fund.
 
-குற்றப் புலனாய்வு திணைக்களத்தின் நிதி மற்றும் வர்த்தக குற்றப் புலனாய்வுப் பிரிவினருக்கு கிடைத்த முறைப்பாட்டின் அடிப்படையில் இவர் கைது செய்யப்பட்டுள்ளதோடு இந்த சம்பவம் தொடர்பில் மேலதிக விசாரணைகளையும் மேற்கொண்டுள்ளனர்
+He has defrauded more than 7 crore seven million rupees.
+
+The arrested person has been arrested by KT Layanal Dharmasiri, 64 (64), from Udupila area in Delgoda.
+
+He has been arrested on the basis of a complaint received by the Criminal Investigation Department's Finance and Trade Investigation Unit and further investigations are being carried out in connection with the incident.
 
 ◼️
 
 [Data](articles/066f7828.json)
+
+[Extended Data](ext_articles/066f7828.ext.json)
 
 ---
 
@@ -197,6 +249,8 @@ He also said that there are about 5,000 Sri Lankans who have registered at their
 ...
 
 [Data](articles/14a77f70.json)
+
+[Extended Data](ext_articles/14a77f70.ext.json)
 
 ---
 
@@ -329,6 +383,8 @@ Against this backdrop, a new alliance led by MP Nimal Lanza is set to be formed 
 ◼️
 
 [Data](articles/b2e400fd.json)
+
+[Extended Data](ext_articles/b2e400fd.ext.json)
 
 ---
 
@@ -584,6 +640,8 @@ The UK has a standing facility that prints money at 0.25 percent above the polic
 
 [Data](articles/41bd92c8.json)
 
+[Extended Data](ext_articles/41bd92c8.ext.json)
+
 ---
 
 ### Kalmunai North Divisional Secretariat Struggle
@@ -821,6 +879,8 @@ The Colombo Stock Exchange opened x; the All Share Price Index was up 0.06 perce
 ◼️
 
 [Data](articles/f6d3f006.json)
+
+[Extended Data](ext_articles/f6d3f006.ext.json)
 
 ---
 
@@ -2153,27 +2213,5 @@ Speaking at a meeting with the Sri Lankan community in Toronto, Canada, he said 
 [Data](articles/fc1142a8.json)
 
 [Extended Data](ext_articles/fc1142a8.ext.json)
-
----
-
-### Russia stages major airstrike on Ukraine; one missile enters Polish airspace
-
-*2024-03-24 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98178/russia-stages-major-airstrike-on-ukraine-one-missile-enters-polish-airspace) · `en`
-
-Russia struck critical infrastructure in Ukraine’s western region of Lviv with missiles early on Sunday, Kyiv said, in a major airstrike that saw one Russian cruise missile briefly fly into Polish airspace according to Warsaw.
-
-Moscow launched 57 missiles and drones in the attack that also targeted the capital Kyiv, two days after the largest aerial bombardment of Ukraine’s energy system in more than two years of full-scale war, Kyiv said.
-
-“There were two preliminary hits on the same critical infrastructure facility that the occupiers targeted at night,” Lviv’s regional governor Maksym Kozytskyi wrote on the Telegram messaging app.
-
-The strike used Kinzhal hypersonic missiles, which are harder to shoot down, he added, without identifying the facility.
-
-The energy ministry said equipment caught fire when a critical energy facility in the Lviv region was attacked, causing it to lose power. It was unclear if they were talking about the same facility.
-
-...
-
-[Data](articles/3d0bff00.json)
-
-[Extended Data](ext_articles/3d0bff00.ext.json)
 
 ---

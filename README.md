@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 14:18:12**
+As of **2024-03-25 14:33:25**
 
 ## Newspaper Stats
 
-*Scraped **15,018** Articles*
+*Scraped **15,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,22 +19,38 @@ adalk | 1,276
 adaderanalk | 1,807
 tamilmirrorlk | 1,809
 virakesarilk | 2,106
-dailymirrorlk | 2,315
+dailymirrorlk | 2,316
 adaderanasinhalalk | 2,410
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,014 (100.0%) of 15,018 articles have been extended.
+15,018 (100.0%) of 15,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
+### COPA calls for CID investigation into import of contaminated fish
+
+*2024-03-25 14:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/COPA-calls-for-CID-investigation-into-import-of-contaminated-fish/108-279551) · `en`
+
+Colombo, March 25 (Daily Mirror) - The Committee on Public Accounts (COPA) called for an investigation into the import of contaminated fish in January this year and has thus advised the Ministry of Finance to refer the matter to CID.
+
+It was revealed at the recent COPA meeting that some 102 containers of contaminated fish had been imported in January this year.
+
+COPA has given instructions after determining that the import of contaminated fish is a criminal act.
+
+◼️
+
+[Data](articles/81533653.json)
+
+---
+
 ### Yall. Vaddukoddai youth assassination;More three arrested
 
-*2024-03-25 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179652) · `ta`
+*2024-03-25 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179652) · `ta`
 
 Three suspects, including a main suspect, arrested for kidnapping and murder in Vaddukoddai, Jaffna. Six others arrested, two identified by victim's wife. Police continue investigations, arresting three more, including one in hiding. Further arrests and legal action planned.
 
@@ -58,21 +74,27 @@ The police are conducting further investigations to the arrested persons and hav
 
 ---
 
-### පුද්ගලික අධ්‍යාපන ආයතනයක සිසුන් පිරිසක් ගැටුමක
+### A group of students in a private educational institution clash
 
 *2024-03-25 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194909) · `si`
 
-ඉබ්බාගමුව - බක්මීගොල්ල ප්‍රදේශයේ පිහිටි පුද්ගලික අධ්‍යාපන ආයතනයක සිසුන් පිරිසක් අතර ඇති වු ගැටුමකින් 9 දෙනෙකු තුවාල ලබා රෝහල් ගත කර තිබේ.
+A clash in Bakmagolla, Ibbagamuwa, injured 9 students. Three were hospitalized. Cause unknown. Gokarella Police investigating.
 
-නේවාසික පුද්ගලික අධ්‍යාපන ආයතනයක් තුළ ඊයේ (24) රාත්‍රියේ කාලයේ එම ගැටුම ඇති වී ඇති බව වාර්තා වේ.
+🟩
 
-ගැටුමෙන් තුවාල ලබා සිසුන් 03දෙනෙකු කුරුණෑගල ශික්ෂණ රෝහලටත් සිසුවියන් 04 දෙනෙකු සහ එක් සිසුවෙකු පොල්ගොල්ල ප්‍රාදේශීය රෝහලටත් ඇතුළත් කර තිබේ.
+9 persons were injured in a clash between a group of students in Bakmagolla, Ibbagamuwa area.
 
-ගැටුමට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර ගොකරැල්ල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+It is reported that the clash had occurred in a Residential Education Institute yesterday (24).
+
+Three students and one student have been admitted to Kurunegala buses and one student from the clash.
+
+The cause of the conflict is yet to be ascertained and Gokarella Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/44374b7b.json)
+
+[Extended Data](ext_articles/44374b7b.ext.json)
 
 ---
 
@@ -100,17 +122,23 @@ The Minister also said that it would empower the Bureau of Foreign Employment Bu
 
 ---
 
-### අප්‍රේල් 10න් පසු වැරදිකලොත් රියඳුරන්ට වැඩ වරදියි
+### Drivers missed after April 10
 
 *2024-03-25 13:27:08* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රේල්-10න්-පසු-වැරදිකලොත්-රියඳුරන්ට-වැඩ-වරදියි/11-408782) · `si`
 
-අකුසලතා ලකුණු ලබා දීම ආරම්භ කරන තෙක් අප්‍රේල් 10 වනදා සිට මාර්ග නීති උල්ලංඝණයකදී දඩ මුදල් ගෙවීම් සිදු කරන තැපැල් කාර්යාල මඟින් වරදේ ස්වභාවය, අදාළ පොලිස් ස්ථානය, රියදුරු බලපත්‍රයේ විස්තර සහ දුරකතන අංකය යන තොරතුරු මාර්ග ආරක්ෂාව පිළිබඳ ජාතික සභාවේ දත්ත පද්ධතියට යොමු කරන බව ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පසුගියදා මාධ්‍ය සාකච්ඡාවට එක්වෙමින් පැවසීය.
+"Drivers missed after April 10. Minister of Transport to refer data to National Council, including driver's license and telephone license. Mr. Lasantha Alagiyawanna mentioned this recently. Data security concerns highlighted by the National Council on Road Safety."
 
-එම දත්ත අනුව මාර්ග ආරක්ෂාව පිළිබඳ ජාතික සභාව අදාළ දුරකතන අංකයට අනතුර පිළිබඳ කෙටි පණිවිඩයක් මෙන්ම අනතුරක් සිදුවී ඇත්නම් වට්ස්ඇප් හරහා අදාළ වීඩියෝ පටද යොමු කෙරෙන බව තව දුරටත් කරුණු දක්වමින් ඒ්මහතා පවසා සිටියේය.
+🟩
+
+Minister of Transport will refer to the data system of the guilt, the relevant police station, the driver's license and telephone license of the Road Safety to the National Council.Mr. Lasantha Alagiyawanna told him recently.
+
+According to the data security, the National Council on Road Safety International Council on the Road Safety to the Telephone Regard
 
 ◼️
 
 [Data](articles/495dac85.json)
+
+[Extended Data](ext_articles/495dac85.ext.json)
 
 ---
 
@@ -198,17 +226,25 @@ Only a few members presented coherent arguments during the debate. The governmen
 
 ---
 
-### ඩොලරය පහළ යන හැටි උදය කියයි
+### Udaya says dollar down
 
 *2024-03-25 13:10:21* · [`adalk`](https://www.ada.lk/breaking_news/ඩොලරය-පහළ යන-හැටි-උදය-කියයි/11-408780) · `si`
 
-ඩොලරයේ අගය කඩා වැටෙන්නේ ආණ්ඩුව මෙරට ආර්ථිකය සවිමත් කරන නිසා නොව මෙරට ආර්ථිකය හැකිලෙමින් තිබෙන නිසා බවත් මෙය අහිතකර තත්වයක් බවත් පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි. ඒ මහතා මේ බව සදහන් කරසිටියේ අද දින (2024.03.25) පිවිතුරු හෙළ උරුමය පක්ෂ මූලස්ථානයේ පැවති මාධ්‍ය හමුවකට එක් වෙමිනි. එහිදී පිවිතුරු හෙළ උරුමයේ නායකයා වැඩිදුරටත් මෙසේ අදහස් දැක්වීය.
+Udaya, JHU leader, discussed the dollar's fall on March 24, 2024, attributing it to increased export earnings and reduced import expenditure. He highlighted the impact of high production costs and factory closures due to electricity and oil price losses, suggesting a weaker economy despite the dollar's strength.
 
-"2024 ජනවාරි 1 දා රුපියල් 325ක් වුණු ඩොලරය මාර්තු 22 වන විට රු303 දක්වා පහත වැටී තිබෙනවා.  ඩොලරය කඩා වැටෙන්නේ ඇයි කියන ප්‍රශ්නයට පිලිතුරු බඳින ආණ්ඩුව කියන්නේ ආර්ථිකය සවිමත් වන නිසා ඩොලරය පහත වැටෙන බවයි. ඒක ඇත්තක් ද?
+🟩
+
+Leader of the JHU, Leader of the JHU. He was speaking at a press conference held at the party headquarters today (2024.03.24).. The Leader of the Jattern Hela Urumaya said:
+
+"On January 1, 205, the dollar has fallen to Rs.. Is it true?
+
+According to economics, the dollar's value falls mainly on two reasons.The first reason is the export earnings, tourism income and foreign remittances increased the supply of dollar supply.The second reason is the import reduced by reducing the demand.What's wrong with now?Export earnings in February 2024 have increased by 1%.But the expenditure of import expenditure has been reduced by 18%.Import Imports is that our consumption is reduced and the economy is shrinking.
 
 ...
 
 [Data](articles/3eae8fee.json)
+
+[Extended Data](ext_articles/3eae8fee.ext.json)
 
 ---
 
@@ -732,19 +768,25 @@ Below are some of the sensitive notes that were shocked by Nirosage Lakmal's eme
 
 ---
 
-### මෛත්‍රී CIDයට යයි
+### Maithri to CID
 
 *2024-03-25 11:12:46* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-CIDයට-යයි/11-408778) · `si`
 
-පාස්කුදා ශ්‍රි ලංකාවට එල්ල වූ මරාගෙන මැරෙන ප්‍රහාර මාලාව සිදුකළ පුද්ගලයන් කවුදැයි තමන් දන්නා බවට හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා සිදුකළ ප්‍රකාශය ගැන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ප්‍රකාශයක් ගැනීමට කටයුතු කර තිබේ.
+Maithripala Sirisena visited CID to clarify his knowledge on Paska suicide attacks, following media reports of his awareness of the Easter attack.
 
-ඒ අනුව එම ප්‍රකාශය සටහන් කර ගැනීම සඳහා මෛත්‍රීපාල සිරිසේන මහතා අද (25) පෙරවරු 10.45 ට පමණ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ තිබේ.
+🟩
 
-පාස්කු ඉරිදා ප්‍රහාරයට සම්බන්ධ පුද්ගලයන් සත්‍ය වශයෙන්ම තමා දන්නා බවට හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ඉකුත් දා (22)  මහනුවරදී පැවැති උත්සවයකට සහභාගිවීමෙන් අනතුරුව මාධ්‍යයට  ප්‍රකාශයක් සිදුකර තිබිණ.
+The Criminal Investigations Department (CID) has made a statement regarding the statement made by former President Maithripala Sirisena that he knew who had committed suicide attacks on Paska.
+
+Maithripala Sirisena has arrived at the CID at around 10.45am today to mark the statement.
+
+Former President Maithripala Sirisena had made a statement to the media after he was actually aware of the Easter attack on Easter.
 
 ◼️
 
 [Data](articles/bfdc7c0a.json)
+
+[Extended Data](ext_articles/bfdc7c0a.ext.json)
 
 ---
 
@@ -2187,31 +2229,5 @@ It is the total Government expenditure that should worry citizens instead of the
 [Data](articles/12238e0a.json)
 
 [Extended Data](ext_articles/12238e0a.ext.json)
-
----
-
-### New change in health service is essential
-
-*2024-03-25 02:03:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-சேவையில்-புதிய-மாற்றம்-அவசியம்/175-335132) · `ta`
-
-President Ranil Wickremesinghe emphasized the need for a comprehensive discussion on health service changes, aligning with modern medical technology, at a meeting with the State Medical Officers Association.
-
-🟩
-
-President Ranil Wickremesinghe said he expects a comprehensive discussion on the new changes to be made in the health service of our country in accordance with new technological changes to modern medical services.
-
-President Ranil Wickremesinghe made this statement at a meeting with the State Medical Officers Association yesterday.
-
-The State Medical Officers Association organized the 'leadership and skill development. The one -day workshop began in Polonnaruwa. The President, who had gone to Polonnaruwa to attend an official event, was invited to join the event.
-
-Accordingly, the President went to the spot for a short time and engaged in a speech with members of the State Medical Officers Association.
-
-The President pointed out that the free medical system has been found since the colonial period in Sri Lanka and the entire world has accepted it, and that with those past experiences, quality and high quality health services should be ensured in the country with those past experiences.. (A)
-
-◼️
-
-[Data](articles/d27df962.json)
-
-[Extended Data](ext_articles/d27df962.ext.json)
 
 ---

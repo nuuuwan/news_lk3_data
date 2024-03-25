@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 21:52:40**
+As of **2024-03-25 22:04:38**
 
 ## Newspaper Stats
 
-*Scraped **15,102** Articles*
+*Scraped **15,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,38 +15,78 @@ newsfirstlk | 363
 economynextcom | 805
 dailyftlk | 806
 islandlk | 831
-adalk | 1,289
-tamilmirrorlk | 1,816
+adalk | 1,290
+tamilmirrorlk | 1,817
 adaderanalk | 1,817
 virakesarilk | 2,124
-dailymirrorlk | 2,334
+dailymirrorlk | 2,337
 adaderanasinhalalk | 2,426
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,100 (100.0%) of 15,102 articles have been extended.
+15,102 (100.0%) of 15,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### ”நாம் தீர்வு காணும் வரை மாணவர்கள் காத்திருக்க முடியாது”
+### பதில் அமைச்சரவை அமைச்சரை நியமித்தார் ஜனாதிபதி
+
+*2024-03-25 21:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-அமைச்சரவை-அமைச்சரை-நியமித்தார்-ஜனாதிபதி/175-335183) · `ta`
+
+மாகாண சபைகள் மற்றும் உள்ளூராட்சிகளுக்கான பதில் அமைச்சரவை அமைச்சராக இராஜாங்க அமைச்சர் ஜானக வக்கம்புர நியமிக்கப்பட்டுள்ளார்.
+
+பிரதமர் தினேஷ் குணவர்தன 5 நாள் உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டு நேற்று (24) பிற்பகல் சீனாவுக்குப் புறப்பட்டுச் சென்றதன் காரணமாக ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் இந்த நியமனம் வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/7dd21cda.json)
+
+---
+
+### “Students cannot wait until we find a solution”
 
 *2024-03-25 21:36:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாம்-தீர்வு-காணும்-வரை-மாணவர்கள்-காத்திருக்க-முடியாது/175-335182) · `ta`
 
-எமது பிரச்சினைகளுக்கு தீர்வு காணும் வரை பாடசாலை மாணவர்கள் காத்திருக்க முடியாது, அவர்களின் வளர்ச்சியை நிறுத்த முடியாது. இதற்கிடையில் மாற்றுக் கல்வி முறைகளை அவர்கள் தெரிவு செய்யலாம் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+"Students can't wait for solutions, and Education Minister Susil Premajayantha said they might choose alternative education systems if current ones don't meet their needs. He emphasized the importance of solving problems but also acknowledged the need for students to shape their futures. He noted that educational advancements are driven by technology, and Sri Lanka is following suit."
 
-நாரஹேன்பிட்டி சுஜாதா மகளிர் கல்லூரியில் இன்று (25) நடைபெற்ற 2024 ஆம் ஆண்டுக்கான பாடசாலை உணவுத் திட்டத்தின் ஆரம்ப நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே, பாடசாலையில் பொருத்தமான கல்வி முறைமை கிடைக்காவிடின் பிள்ளைகள் மாற்று முறைமைகளை நிச்சயம் கண்டுபிடிப்பார்கள் என அமைச்சர் தெரிவித்தார்.
+🟩
 
-"இன்று நாம் அந்த நிலையை எதிர்கொள்கிறோம். பல குழந்தைகள் நமது அரசுப் பாடசாலைக் கல்வி முறைக்கு விடைபெற்று மாற்றுக் கல்வி முறைகளில் ஈடுபடுகிறார்கள். நமது பிரச்சினைகளை நாம் தீர்க்க வேண்டும், ஆனால் அவர்களின் எதிர்காலத்தை முதலில் உருவாக்க வேண்டும்" என்று அமைச்சர் கூறினார். .
+School students cannot wait until they solve our problems and stop their growth. Meanwhile, Education Minister Susil Premajayantha said they could select alternative education systems.
 
-"ஒரு நாட்டின் கல்வித் திட்டங்கள் தொழில்நுட்பத்துடன் இணைந்துள்ளன, பெரும்பாலான நாடுகள் புதிய தொழில்நுட்ப அமைப்புகளுடன் வெகுதூரம் சென்றுள்ளன. நாமும் அவற்றைப் பின்பற்றுகிறோம்," என்று அவர் கூறினார்.
+Speaking at the inauguration of the School Food Program for 2024 at the Sujatha Women's College, Narahenpitiya, the Minister said that if the school does not get a suitable education system, the children will definitely find alternatives.
+
+“Today we face that position. Many children are saying goodbye to our government school education system and engage in alternative education systems. We need to solve our problems, but they must first create their future, ”the minister said. .
+
+"A country's educational programs are combined with technology. Most countries have gone far away with new technology systems. We too follow them, ”he said.
 
 ◼️
 
 [Data](articles/e0dc4e7f.json)
+
+[Extended Data](ext_articles/e0dc4e7f.ext.json)
+
+---
+
+### Rs. 3,439 million earned by exporting coconut water
+
+*2024-03-25 21:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rs-3-439-million-earned-by-exporting-coconut-water/108-279575) · `en`
+
+Colombo, March 25 (Daily Mirror) - An income of Rs. 3,439 million was earned in February this year by exporting coconut water from Sri Lanka, the Coconut Development Authority (CDA) said.
+
+According to the data from the CDA, the amount earned by exporting coconut water in February 2023 is Rs. 2,705 million.
+
+There has been an increase in export income of Rs. 734 million by the pre-spring months of this year compared to last year, CDA Chairman Professor Roshan Perera said.
+
+These facts were revealed during a discussion chaired by Agriculture Minister Mahinda Amaraweera this morning (25).
+
+The Minister said that if it is possible to save the Rs. 300 million in coconuts that are lost annually due to damages caused by wildlife, then it will be possible to earn more income, thereby further increasing the income of coconut growers.
+
+◼️
+
+[Data](articles/86eb4416.json)
 
 ---
 
@@ -65,6 +105,8 @@ The initiative, led by the Ministry of Education, aims to provide nutritious mea
 ...
 
 [Data](articles/3e4d4b6a.json)
+
+[Extended Data](ext_articles/3e4d4b6a.ext.json)
 
 ---
 
@@ -148,6 +190,38 @@ Police Media Spokesperson DIG DIG Nihal Talduuwa, Speaking further
 
 ---
 
+### Two-week test runs to revise several train timetables
+
+*2024-03-25 21:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-week-test-runs-to-revise-several-train-timetables/108-279571) · `en`
+
+Colombo, March 25 (Daily Mirror) - The Railway Department has decided to revise several train timetables on the Puttalam line as well as on the main and northern railway lines as per a two-week test run schedule starting today.
+
+Several train timetables have been revised with the objective of preparing the most suitable schedule for the passengers on these routes.
+
+This is being implemented with the aim of revising the train schedules on the Kelani Valley railway line as well as the coastal line.
+
+The time revision was undertaken after obtaining the comments, suggestions as well as complaints from the commuters to provide a more appropriate schedule.
+
+◼️
+
+[Data](articles/7079c313.json)
+
+---
+
+### I don’t blame history; fulfill responsibility to the best: Susil
+
+*2024-03-25 20:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/I-dont-blame-history-fulfill-responsibility-to-the-best-Susil/108-279570) · `en`
+
+Colombo, March 25 (Daily Mirror) - "People in our country have a very short memory. I don't blame history. If we bear the present responsibility, we will fulfill that responsibility to the best of our ability," Education Minister Susil Premajayantha said.
+
+While marking the beginning of the 2024 school meal programme held today (25) at the Sujatha Girls’ College in Narahenpita, the Minister said the majority of the people in the country blame the past. They always claim that nothing had happened during the past 70 years.
+
+...
+
+[Data](articles/50be7614.json)
+
+---
+
 ### IGP instructed to conduct a special security program
 
 *2024-03-25 20:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194925) · `si`
@@ -171,6 +245,26 @@ Police Headquarters have also instructed the local three armed forces in the inc
 [Data](articles/66d2be34.json)
 
 [Extended Data](ext_articles/66d2be34.ext.json)
+
+---
+
+### හරියටම ගන්නේ මොන අවුරුද නැකත්ද?
+
+*2024-03-25 20:20:19* · [`adalk`](https://www.ada.lk/breaking_news/හරියටම-ගන්නේ-මොන-අවුරුද-නැකත්ද-/11-408795) · `si`
+
+රාජ්‍ය නැකත් කමිටුව විසින් සකස් කර තිබෙන නැකත් සීට්ටුවට අනුව  සිංහල අලුත් අවුරුදු නැකත් චාරිත්‍ර සිදුකරන ලෙස බුද්ධශාසන, ආගමික හා සංස්කෘතික කටයුතු අමාත්‍යාංශය ජනතාවගෙන් ඉල්ලා සිටියි.
+
+මෙම නැකත්  සීට්ටුව ප්‍රවීණ ජෝතීර්වේදීන් විසි දෙදෙනකුගේ කණ්ඩායමක් විසින් සකස් කර තිබෙන බවත්, මෙම කටයුතු සඳහා දායක වූ ජ්‍යෝතිර්වේදියෙකු තවත් සුළු පිරිසක් සමග  සම්බන්ධ වී මෙතෙක්  පැවැති සම්ප්‍රදායට  අභියෝග කරමින්  සමාජ මාධ්‍ය ඔස්සේ නැකත් සීට්ටුව සම්බන්ධයෙන්  විරෝධතා දක්වා තිබෙන බවත් එම අමාත්‍යාංශය පෙන්වා දෙයි.
+
+මෙතෙක් සම්ප්‍රදායිකව පැවති ශ්‍රී ලංකීය සංස්කෘතික අන්‍යනතාවට හානි කර තත්වයක් ඇති කිරීම සඳහා මෙම පිරිස්  කටයුතු කරන බවට පැහැදිලිවන බවද සඳහන් කරයි.
+
+මේ අනුව 13 වන සෙනසුරාද  දින අපරභාග 9.05ට සිංහල අලුත් අවුරුද්ද උදාවන අතර පුණ්‍ය කාලය  සෙනසුරාදා අපරභාග 2.41 සිට  14 වන දින අලුයම 3.29  දක්වා වේ.
+
+අහාර පිසීම- 13 වන දින  සෙනසුරාදා රාත්‍රි 11.06 නීල වර්ණවස්ත්‍රාභරණයෙන් සැරසි දකුණු දිසාව බලා  ළිප් බැඳ ගිනි මොලවා තල උක් හකුරු මිශ්‍ර කිරිබතක් පිළියෙළ කර ගනු මැනවි.
+
+...
+
+[Data](articles/1936deb2.json)
 
 ---
 
@@ -2153,127 +2247,5 @@ Drugs have been seized in the southern strategy.In spite of this, 76 male suspec
 [Data](articles/621b485f.json)
 
 [Extended Data](ext_articles/621b485f.ext.json)
-
----
-
-### Youth demanded from a girl from a girl from a girl
-
-*2024-03-25 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194906) · `si`
-
-A 21-year-old youth in Piliyandala, Sri Lanka, was arrested for demanding sexual bribes via 50 fake Facebook accounts. He targeted young girls, using photos and false accounts to threaten them. The suspect accessed a boyfriend's Facebook account to share nude photos, leading to his arrest.
-
-🟩
-
-The Piliyandala Police have arrested 21, a 21-year-old youth who demanded the bribe of sexual bribes in Face accounts in Facebook social media.
-
-Police investigations have revealed that the suspect had some 50 fake Facebook accounts and had asked the bribe from several young girls.
-
-A young man who was a two-year-old girl residing in the area of a 22 year old man in Ragama had proposed to start a romantic relationship with a couple of occasions.
-
-In the meantime, the girl had also added photographs of the two of them to Facebook.
-
-The young man who was willing to see the photos, a message to the girl with a false women's Facebook account, with a link in a website that includes her nude photos.
-
-But the young woman who did not open the link was sent to her boyfriend, requesting it to check it.
-
-Later, after her boyfriend opens the link, the suspect is the opportunity to access the boyfriend's Facebook account.
-
-...
-
-[Data](articles/fb4b6160.json)
-
-[Extended Data](ext_articles/fb4b6160.ext.json)
-
----
-
-### Price of a cup of milk tea reduced
-
-*2024-03-25 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98188/price-of-a-cup-of-milk-tea-reduced) · `en`
-
-The price of a cup of milk tea has been reduced by Rs. 10, the All-Island Restaurant Owners’ Association announced today.
-
-This decision has been taken as a result of the government’s decision to reduce the price of imported milk powder with effect from midnight yesterday (24), it said.
-
-On Sunday, Minister of Trade Nalin Fernando said that the price of a packet of milk powder weighing 1 kilogram will be reduced by Rs. 150 while the 400 gram packet will be reduced by Rs. 60.
-
-◼️
-
-[Data](articles/57e4bca6.json)
-
-[Extended Data](ext_articles/57e4bca6.ext.json)
-
----
-
-### The car that ran into the tea plants
-
-*2024-03-25 12:45:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தேயிலை-செடிகளுக்குள்-ஓடிய-வௌ்ளை-கார்/76-335149) · `ta`
-
-A high-speed car crashed into tea plants near Kotagala Fuel Station, Hatton-Nuwara Eliya road, at 8 am on Monday. The driver lost control trying to save a dog, and despite the accident, no one was injured. The car was severely damaged.
-
-🟩
-
-Dimbulla-Pathanam police said that a high-speed car crashed into the tea plants.
-
-The incident took place at around 8 am on Monday (25) near the Kotagala Fuel Station on the Hatton-Nuwara Eliya main road.
-
-The car has been exacerbated from the barn to Hatton. At the time, a dog had been forced to cross the road and the driver lost control of the driver's attempt to save the dog and went into the tea plants.
-
-During the accident, there were four people in the car and that none of them were injured, police said the car was severely damaged.
-
-◼️
-
-[Data](articles/91522cac.json)
-
-[Extended Data](ext_articles/91522cac.ext.json)
-
----
-
-### Dairy tea prices down
-
-*2024-03-25 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194905) · `si`
-
-The All Island Restaurant Owners Association reduced milk tea prices by Rs.10, following the government's decision to lower imported milk prices due to operational issues from midnight yesterday.
-
-🟩
-
-The All Island Restaurant Owners Association has also taken steps to reduce the price of a milk tea by Rs.10.
-
-The decision was taken by the government to decline the prices of the imported milk failure to operate from midnight yesterday.
-
-Accordingly, a packet of Rs.
-
-◼️
-
-[Data](articles/0300d33f.json)
-
-[Extended Data](ext_articles/0300d33f.ext.json)
-
----
-
-### What are the consequences of reducing the lowest age of willingness to sex?
-
-*2024-03-25 12:42:43* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c51jg7j9wnxo) · `si`
-
-Reducing the lowest age of willingness to sex can lead to statutory rape, child pregnancy risks, and controversy over legal age for marriage. Sri Lanka's law and societal discussions around these issues are complex, involving legal, medical, and ethical considerations.
-
-🟩
-
-What are the consequences of reducing the lowest age of willingness to sex?
-
-Anyone under the age of 18 is considered as a child. Those less than 18 years of age are not allowed to marry.
-
-The Penal Code No. 22 of 1995, with a female over 16 years, is considered a rape based on her agreement or begination on her agreement or begining. It is called "Statutory Rape". In the reporting of such an incident, it was punished as a rape.
-
-However, the Ministry of Justice has been referred to the Cabinet so far to relax this situation.
-
-New town pregnancy: Sex Don't Sex?
-
-When the female children of fewer than 16 years of age, girls between the ages of 14 to 16 years old, the girls between the ages of 14 to 16 years old, followed a loose policy regarding the punishment of the punishment as a statutory rapeOn March 20, 2024, a discussion was held on 20 March 2024 on a draft.
-
-...
-
-[Data](articles/b7fa3886.json)
-
-[Extended Data](ext_articles/b7fa3886.ext.json)
 
 ---

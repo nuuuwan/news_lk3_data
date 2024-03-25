@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 19:17:51**
+As of **2024-03-25 19:33:31**
 
 ## Newspaper Stats
 
-*Scraped **15,084** Articles*
+*Scraped **15,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,104 @@ newsfirstlk | 363
 economynextcom | 805
 dailyftlk | 806
 islandlk | 831
-adalk | 1,283
-adaderanalk | 1,815
+adalk | 1,285
 tamilmirrorlk | 1,815
+adaderanalk | 1,816
 virakesarilk | 2,122
-dailymirrorlk | 2,332
-adaderanasinhalalk | 2,421
+dailymirrorlk | 2,333
+adaderanasinhalalk | 2,422
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,083 (100.0%) of 15,084 articles have been extended.
+15,084 (100.0%) of 15,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### නැකත් ගැන අලුත්ම නිවේදනය මෙන්න
+### CID ආ මෛත්‍රී - ඉදිරි ක්‍රියාමාර්ග ගැනත් හෙළිදරව්වක්
+
+*2024-03-25 19:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194922) · `si`
+
+පාස්කු ප්‍රහාරය සිදුකළේ කවුරුන්ද යන්න තමා දන්නා බවට සිදුකළ ප්‍රකාශය සම්බන්ධයෙන් විමසීම සඳහා කළ දැනුම්දීමකට අනුව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා අද (25) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හමුවේ පෙනී සිටියේය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව හිටපු ජනාධිපතිවරයාගෙන් පැය පහක කාලයක් ප්‍රකාශ සටහන් කරගත් බව වාර්තා විය.
+
+පාස්කු ප්‍රහාරය සිදුකළේ කවුරුන්ද යන්න තමා දන්නා බවත්, ඒ පිළිබඳ අධිකරණයෙන් නියෝගයක් දෙන්නේ නම් ඒ ගැන කරුණු හෙළි කිරීමට තමන් සූදානම් බවත් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා මාර්තු 22 වනදා මහනුවරදී ප්‍රකාශ කළේය.
+
+ඔහුගේ එම ප්‍රකාශය සම්බන්ධයෙන් පාර්ශ්ව කිහිපයක් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිලි ඉදිරිපත් කළ අතර ඒ අනුව ඒ පිළිබඳ වහාම විමර්ශනයක් සිදුකරන ලෙස මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාට නියෝග කර තිබුණි.
+
+අද පෙරවරු 10.30ට පමණ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණි හිටපු ජනාධිපතිවරයා පැය 5කට අධික කාලයක් ප්‍රකාශ ලබාදීමෙන් අනතුරුව පස්වරු  3.40ට පමණ අපරාධ පරීක්ණෂ දෙපාර්තමේතුවෙන් පිටව ගියේය.
+
+...
+
+[Data](articles/c426529a.json)
+
+---
+
+### Buddha Sasana Ministry issues statement over New Year auspicious times
+
+*2024-03-25 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98199/buddha-sasana-ministry-issues-statement-over-new-year-auspicious-times) · `en`
+
+The Ministry of Buddha Sasana, Religious and Cultural Affairs has requested the public to follow the official list of auspicious times issued by the State Astrologers’ Committee for the 2024 Sinhala and Tamil New year.
+
+◼️
+
+[Data](articles/398829c9.json)
+
+---
+
+### President appoints Acting Cabinet Minister
+
+*2024-03-25 18:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-appoints-Acting-Cabinet-Minister/108-279567) · `en`
+
+Colombo, March 25 (Daily Mirror) - State Minister Janaka Wakkambura has been appointed as Acting Cabinet Minister for Provincial Councils and Local Government.
+
+This appointment was made by President Ranil Wickremesinghe due to Prime Minister Dinesh Gunawardena departing for China yesterday afternoon (24) for a five-day official visit.
+
+◼️
+
+[Data](articles/5fc4831b.json)
+
+---
+
+### නීතිඥවරියකගේ නීතිඥභාවය අහෝසි කරයි
+
+*2024-03-25 18:57:58* · [`adalk`](https://www.ada.lk/breaking_news/නීතිඥවරියකගේ-නීතිඥභාවය-අහෝසි-කරයි/11-408790) · `si`
+
+නඩු ගොනුවක ලේඛණයක් කටේ දමා හපා විනාශ කිරීමෙන් නීතිඥ වෘත්තියට නුසුදුසු ආකාරයෙන් හැසිරුණු බවට නීතිඥවරියකට එරෙහි නඩුව අවසන් වනතුරු ඇගේ නිතිඥභාවය අත්හිටුවීමට ශ්‍රේෂ්ඨාධිකරණය අද (25) තීරණය කළේය.
+
+වසර 12ක කාලයක් නීතිඥවරියක් වශයෙන් වෘත්තියේ යෙදුණු විත්තිකාර නීතිඥවරිය කළ ක්‍රියාව බරපතළ ක්‍රියාවක් වශයෙන් සැලකිය යුතු යැයි නීතීඥවරියගේ නිතිඥභාවය අත්හිටුවමින් අගවිනිසුරු ජයන්ත ජයසූරිය මහතා පැවසීය.
+
+වෘත්තීය ආචාර ධර්ම කඩ කිරීම සම්බන්ධයෙන් නීතිඥවරියට එරෙහිව නීතීපතිවරයා පවරා ඇති මෙම නඩුව අගවිනිසුරු ජයන්ත ජයසූරිය ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් ගාමිණී අමරසේකර සහ ඒ.එච්.එම්.ඩී. නවාස් යන මහත්වරුන්ගෙන් සැදුම්ලත් විනිසුරු මඩුල්ලක් හමුවේ සලකා බැලිණි.
+
+කැකිරාව මහෙස්ත්‍රාත් අධිකරණයේ රෙජිස්ට්‍රාර් කාර්යාලයේ තිබු නඩු ගොනුවක ලේඛනයක් බලහත්කාරයෙන් රැගෙන එය කටේ දමා හපා විනාශ කිරීමෙන් නීතිඥවරයකුට නුසුදුසු ආකාරයෙන් හැසිරෙන ලදැයි විත්තිකාර නීතිඥවරියට එරෙහිව නීතිපතිවරයා මෙම නඩුව ඉදිරිපත් කර ඇත.
+
+...
+
+[Data](articles/92f3dcf3.json)
+
+---
+
+### Here's the latest announcement about arousing
 
 *2024-03-25 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194921) · `si`
 
-2024 වර්ෂයේ අවුරුදු නැකත් සීට්ටුව සම්බන්ධයෙන් බුද්ධශාසන ආගමික හා සංස්කෘතික කටයුතු අමාත්‍යාංශය විසින් නිවේදනයක් නිකුත් කර තිබේ.
+The Ministry of Buddha Sasana Religious and Cultural Affairs has announced that the State Prophet Committee, mistakenly led by the State auspicious committee, is preparing for New Year's writing rites in 2024.
 
-එහි සඳහන් කර ඇත්තේ විවිධ මතිමතාන්තරවලට නොරැවටී රාජ්‍ය නැකත් කමිටුව විසින් සකස්කර ඇති 2024 වර්ෂයේ නැකත් සීට්ටුවට අනුව සිංහල අලුත් අවුරුදු නැකත් චාරිත්‍ර ඉටුකරන ලෙසටය.
+🟩
+
+The Ministry of Buddha Sasana Religious and Cultural Affairs has issued a statement regarding the year 2024.
+
+The State Prophet Committee, which was deceived by the State auspicious committee, was prepared by the State Prophet Committee, to meet New Year's writing rites.
 
 ◼️
 
 [Data](articles/c7ccf2c0.json)
+
+[Extended Data](ext_articles/c7ccf2c0.ext.json)
 
 ---
 
@@ -1414,6 +1484,22 @@ COPA has given instructions after determining that the import of contaminated fi
 
 ---
 
+### සංවිධානාත්මකව හොරකම් කළ ගැබිණි කාන්තා කල්ලියක් අල්ලයි
+
+*2024-03-25 13:59:58* · [`adalk`](https://www.ada.lk/breaking_news/සංවිධානාත්මකව-හොරකම්-කළ-ගැබිණි-කාන්තා-කල්ලියක්-අල්ලයි/11-408784) · `si`
+
+බස් රථවල ගමන් කරන මගීන්ගේ මුදල් පසුම්බි, රන් ආභරණ ඇතුළු දේපල සොරකම් කිරීමේ නිරත, සංවිධානාත්මක ගැබිණි කාන්තා කල්ලියක සාමාජිකාවන් තුන්දෙනෙකු රුපියල් ලක්ෂයකට වැඩි හෙරොයින්  මත්කුඩු , කොල්ලකන ලද ලක්ෂ දෙකකට ආසන්න රන්මාලයක් සහ මුදල්  සමග අත්අඩංගුවට ගත් බව අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි.
+
+මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ, තඹුත්තේගම කුඩාගම සහ බුලත්සිංහල පාර ඉංගිරිය  යන ප්‍රදේශවල පදිංචි වයස අවුරුදු 20, 23 සහ 30වියේ පසුවන ගැබිණි  කාන්තාවන් දෙදෙනකු ඇතුළු කාන්තාවන් තිදෙනෙකි.
+
+කොළඹ සිට අනුරාධපුර දක්වා තඹුත්තේගම  හරහා ධාවනය වූ පෞද්ගලික බස් රථයක ගමන් මගී කාන්තාවක් විසින් තම ගෙල බැඳි රන මාලය බස් රථය තුලදී කවුරුන් හෝ කඩා ගෙන ඇති බවට පැවසීමත් සමග බස් රථය අනුරාධපුර මූලස්ථාන පොලිසිය වෙත ධාවනය කර, එහිදී  සිදු කල පරීක්ෂාවකදී සැකකාරියන්  තිදෙනා අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+
+...
+
+[Data](articles/772e7402.json)
+
+---
+
 ### Yall. Vaddukoddai youth assassination;More three arrested
 
 *2024-03-25 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179652) · `ta`
@@ -2103,129 +2189,5 @@ The victim was receiving treatment at the Jaffna Bodhana Hospital on Saturday (2
 [Data](articles/881a813e.json)
 
 [Extended Data](ext_articles/881a813e.ext.json)
-
----
-
-### Former General Manager of Coconut Cultivation Council
-
-*2024-03-25 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179629) · `ta`
-
-The former General Manager of the Coconut Cultivation Council was arrested for allegedly defrauding over 7 crore seven million rupees from the employee's trust fund. The arrest was made by KT Layanal Dharmasiri, 64, from Udupila, Delgoda, based on a complaint to the Criminal Investigation Department's Finance and Trade Investigation Unit.
-
-🟩
-
-Former General Manager of the Coconut Cultivation Board on Saturday (23) was arrested by the Criminal Investigation Division for allegedly defrauding the employee's trust fund.
-
-He has defrauded more than 7 crore seven million rupees.
-
-The arrested person has been arrested by KT Layanal Dharmasiri, 64 (64), from Udupila area in Delgoda.
-
-He has been arrested on the basis of a complaint received by the Criminal Investigation Department's Finance and Trade Investigation Unit and further investigations are being carried out in connection with the incident.
-
-◼️
-
-[Data](articles/066f7828.json)
-
-[Extended Data](ext_articles/066f7828.ext.json)
-
----
-
-### Amnesty offered to illegal Sri Lankan residents in Kuwait
-
-*2024-03-25 11:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Amnesty-offered-to-illegal-Sri-Lankan-residents-in-Kuwait/108-279538) · `en`
-
-Colombo, March25 (Daily Mirror) - The Emir of Kuwait, Sheikh Meshaal Al-Ahmed Al-Jaber, has announced a three-month general amnesty to Sri Lankans who have overstayed their residency visas in the country.
-
-Sri Lankan Ambassador to Kuwait Kandeepan Balasubramaniam said a statement was issued by the Emir saying that the Sri Lankans who arrived for work in Kuwait and those who have fled from their workplaces will get the opportunity to leave the country without paying fines and facing legal obstacles.
-
-This general amnesty period will be effective from March 17 to June 17 2024.
-
-Official reports have confirmed that currently there are 19,620 Sri Lankans illegally staying in Kuwait without visas, the Sri Lankan ambassador said.
-
-He also said that there are about 5,000 Sri Lankans who have registered at their embassy to return to Sri Lanka.
-
-...
-
-[Data](articles/14a77f70.json)
-
-[Extended Data](ext_articles/14a77f70.ext.json)
-
----
-
-### A man arrested for allegedly defrauding 43 lakhs of rupees as a journalist in Jaffna
-
-*2024-03-25 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179628) · `ta`
-
-A journalist in Jaffna was arrested for allegedly defrauding 43 lakhs of rupees. He claimed to be involved in a music event in Canada, but was found to be involved in multiple frauds.
-
-🟩
-
-A man who identified himself as a journalist was arrested by the Jaffna police on Sunday.
-
-A Jaffna youth has told a Jaffna youth that he will take you as a journalist with journalists who are going to be taken and unloaded in Canada, saying that Santosh Narayanan's grand music will be held in Canada and some journalists from Sri Lanka are to be taken.
-
-He has issued a sum of Rs.
-
-The young man has not been aware that the money is being made for Santosh Narayanan's music event in Canada for a long time, and the young man has cut off his money when he has asked him to recover his money.
-
-So when the youth lodged a complaint at the Jaffna Police Station, the suspect was reported to be hiding in Vavuniya when police investigated.
-
-At the same time, it was revealed that the man who had defrauded the media company had been conducting a media company when police investigated the media identity card issued to the youth.
-
-...
-
-[Data](articles/258571e4.json)
-
-[Extended Data](ext_articles/258571e4.ext.json)
-
----
-
-### Niroscosses that were not from university
-
-*2024-03-25 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194903) · `si`
-
-A fourth-year student from Moneragala, known at the University of Kelaniya, died in hospital after a delay in hospitalization. The university is protesting for support for non-academic staff.
-
-🟩
-
-The fourth-year student in the hostel in the University of Kelaniya has died in hospital being hospitalized due to an emergency.
-
-The deceased has been identified as a resident of Moneragala, which was known as 'Moneragala' at the University of the Faculty of Social Sciences.
-
-The young man had caused a paradigm of the young man at around 10 pm yesterday, but the University of Kelaniya alleges that a vehicle had long had a long time to reach the respective vehicle.
-
-The students say that delay in hospitalization of their friend was due to losing his life.
-
-As a result, the University of Kelaniya University sitting in front of the administrative building and protesting how to support the university non-academic staff.
-
-Below are some of the sensitive notes that were shocked by Nirosage Lakmal's emergency delegation.
-
-...
-
-[Data](articles/af93dc33.json)
-
-[Extended Data](ext_articles/af93dc33.ext.json)
-
----
-
-### Maithri to CID
-
-*2024-03-25 11:12:46* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-CIDයට-යයි/11-408778) · `si`
-
-Maithripala Sirisena visited CID to clarify his knowledge on Paska suicide attacks, following media reports of his awareness of the Easter attack.
-
-🟩
-
-The Criminal Investigations Department (CID) has made a statement regarding the statement made by former President Maithripala Sirisena that he knew who had committed suicide attacks on Paska.
-
-Maithripala Sirisena has arrived at the CID at around 10.45am today to mark the statement.
-
-Former President Maithripala Sirisena had made a statement to the media after he was actually aware of the Easter attack on Easter.
-
-◼️
-
-[Data](articles/bfdc7c0a.json)
-
-[Extended Data](ext_articles/bfdc7c0a.ext.json)
 
 ---

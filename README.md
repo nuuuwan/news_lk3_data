@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 14:03:16**
+As of **2024-03-25 14:18:12**
 
 ## Newspaper Stats
 
-*Scraped **15,014** Articles*
+*Scraped **15,018** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,102 @@ newsfirstlk | 363
 economynextcom | 805
 dailyftlk | 806
 islandlk | 831
-adalk | 1,273
+adalk | 1,276
 adaderanalk | 1,807
 tamilmirrorlk | 1,809
 virakesarilk | 2,106
 dailymirrorlk | 2,315
-adaderanasinhalalk | 2,409
+adaderanasinhalalk | 2,410
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,012 (100.0%) of 15,014 articles have been extended.
+15,014 (100.0%) of 15,018 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
 
-### யாழ். வட்டுக்கோட்டை இளைஞன் படுகொலை ; மேலும் மூவர் கைது
+### Yall. Vaddukoddai youth assassination;More three arrested
 
 *2024-03-25 13:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179652) · `ta`
 
-யாழ்ப்பாணம் வட்டுக்கோட்டை இளைஞனை கடத்தி படுகொலை செய்த குற்றச்சாட்டில் ,பிரதான சந்தேக நபர்களில் ஒருவர் உள்ளிட்ட மூவர் கைது செய்யப்பட்டுள்ளனர்.
+Three suspects, including a main suspect, arrested for kidnapping and murder in Vaddukoddai, Jaffna. Six others arrested, two identified by victim's wife. Police continue investigations, arresting three more, including one in hiding. Further arrests and legal action planned.
 
-கடந்த 11ஆம் திகதி காரைநகர் பகுதிக்கு சென்று விட்டு மனைவியுடன், மோட்டார் சைக்கிளில் வீடு திரும்பிக்கொண்டிருந்த இளைஞனை பொன்னாலை பாலத்திற்கு அருகில் உள்ள கடற்படை முகாமிற்கு முன்பாக வன்முறை கும்பல் ஒன்றினால் தம்பதியினர் வாகனத்தில் கடத்தி செல்லப்பட்டு , இளைஞனை சித்திரவதைக்கு உள்ளாக்கி படுகொலை செய்த கும்பல் , மனைவியை சித்தன்கேணி பகுதியில் இறக்கி விட்டு தப்பி சென்று இருந்தது.
+🟩
 
-சம்பவம் தொடர்பில் விசாரணைகளை முன்னெடுத்து வரும் மாவட்ட குற்றத்தடுப்பு பிரிவு பொலிஸார் ஏற்கனவே ஆறு பேரை கைது செய்து , நீதிமன்றில் முற்படுத்தப்பட்டு 28ஆம் திகதி வரையில் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர். அவர்களில் இருவர் அடையாள அணிவகுப்பின் போது , கொல்லப்பட்ட இளைஞனின் மனைவியால் அடையாளம் காட்டப்பட்டுள்ளனர்.
+Three persons, including one of the main suspects, have been arrested on charges of kidnapping and murdering a youth in Vaddukoddai in Jaffna.
+
+A gang of violence was abducted by a violent gang in front of a naval camp near the Ponnalai Bridge, leaving the Karainagar area on the 11th of this month, and a gang who killed a young man and killed his wife.
+
+The District Criminal Investigation Division, which is conducting investigations into the incident, has already arrested six people and filed in court and has been remanded until the 28th.. Two of them were identified by the wife of the young man who was killed during the march.
+
+In this backdrop, the district criminal police, which are conducting a series of investigations, have arrested three persons, including one of the main persons who were in hiding in the Vavuniya, Oddusudan and Kilinochchi areas.
+
+The police are conducting further investigations to the arrested persons and have taken steps to appear at the Mallakam Magistrate's Court.
 
 ...
 
 [Data](articles/f9fd35df.json)
 
+[Extended Data](ext_articles/f9fd35df.ext.json)
+
 ---
 
-### வெளிநாட்டு வேலைவாய்ப்பு துறையை டிஜிட்டல் மயமாக்க நடவடிக்கை - மனுஷ நாணயக்கார
+### පුද්ගලික අධ්‍යාපන ආයතනයක සිසුන් පිරිසක් ගැටුමක
+
+*2024-03-25 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194909) · `si`
+
+ඉබ්බාගමුව - බක්මීගොල්ල ප්‍රදේශයේ පිහිටි පුද්ගලික අධ්‍යාපන ආයතනයක සිසුන් පිරිසක් අතර ඇති වු ගැටුමකින් 9 දෙනෙකු තුවාල ලබා රෝහල් ගත කර තිබේ.
+
+නේවාසික පුද්ගලික අධ්‍යාපන ආයතනයක් තුළ ඊයේ (24) රාත්‍රියේ කාලයේ එම ගැටුම ඇති වී ඇති බව වාර්තා වේ.
+
+ගැටුමෙන් තුවාල ලබා සිසුන් 03දෙනෙකු කුරුණෑගල ශික්ෂණ රෝහලටත් සිසුවියන් 04 දෙනෙකු සහ එක් සිසුවෙකු පොල්ගොල්ල ප්‍රාදේශීය රෝහලටත් ඇතුළත් කර තිබේ.
+
+ගැටුමට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර ගොකරැල්ල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/44374b7b.json)
+
+---
+
+### Action to digitize foreign employment sector - Manusha Nanayakkara
 
 *2024-03-25 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/179637) · `ta`
 
-அனைத்து வெளிநாட்டு வேலைவாய்ப்புத்துறையையும் டிஜிட்டல் மயமாக்குவதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளதாக தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார தெரிவித்துள்ளார்.
+Manusha Nanayakkara, Minister of Labor and Foreign Employment, announced the Cabinet's approval for digitizing the foreign employment sector. This move aims to combat trafficking and fraud, enhance communication between migrant workers and officers, and streamline grievance handling. The initiative will empower the Bureau of Foreign Employment to prevent illegal activities and unnecessary interventions.
 
-இது விரைவில் நடைமுறைப்படுத்தப்படும். இது வெளிநாட்டு வேலைவாய்ப்பு துறையை கடத்தல்காரர்கள் மற்றும் மோசடி செய்பவர்களின் பிடியில் இருந்து விடுவிக்க உதவும் என்றும், புலம்பெயர்ந்த தொழிலாளர்கள் மற்றும் அதிகாரிகளுக்கு இடையேயான  தொடர்பை மேம்படுத்துவதுடன்,  குறைகளைக் கையாளும் நடைமுறைகளையும் மேம்படுத்தும் என்றும் வலியுறுத்தியுள்ளார்.
+🟩
 
-மாத்தளையில் நடைபெற்ற ‘ஜெயகமு ஸ்ரீலங்கா’ நிகழ்ச்சியில்  ஊடகவியலாளர்களுடனான  கலந்துரையாடலில் கலந்துகொண்டு உரையாற்றும் போதே அமைச்சர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+The Minister of Labor and Foreign Employment, Manusha Nanayakkara said that the Cabinet has approved the digitalization of all foreign employment sector.
 
-மேலும், இது வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் மீதான தேவையற்ற தலையீடுகளை தடுக்கவும், சட்டவிரோத நடவடிக்கைகளை நிறுத்தவும் அதிகாரம் அளிக்கும் எனவும் அமைச்சர் தெரிவித்துள்ளார்.
+It will soon be implemented. He urged the foreign employment sector to be released from the clutches of the traffickers and fraudsters, and improving the connection between migrant workers and officers and improving the process of dealing with grievances.
+
+The Minister said this while attending a discussion with journalists at the Jayagamu Sri Lanka Telephone event held in Matale.
+
+The Minister also said that it would empower the Bureau of Foreign Employment Bureau to prevent unnecessary interventions and stop illegal activities.
 
 ◼️
 
 [Data](articles/9477637d.json)
+
+[Extended Data](ext_articles/9477637d.ext.json)
+
+---
+
+### අප්‍රේල් 10න් පසු වැරදිකලොත් රියඳුරන්ට වැඩ වරදියි
+
+*2024-03-25 13:27:08* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රේල්-10න්-පසු-වැරදිකලොත්-රියඳුරන්ට-වැඩ-වරදියි/11-408782) · `si`
+
+අකුසලතා ලකුණු ලබා දීම ආරම්භ කරන තෙක් අප්‍රේල් 10 වනදා සිට මාර්ග නීති උල්ලංඝණයකදී දඩ මුදල් ගෙවීම් සිදු කරන තැපැල් කාර්යාල මඟින් වරදේ ස්වභාවය, අදාළ පොලිස් ස්ථානය, රියදුරු බලපත්‍රයේ විස්තර සහ දුරකතන අංකය යන තොරතුරු මාර්ග ආරක්ෂාව පිළිබඳ ජාතික සභාවේ දත්ත පද්ධතියට යොමු කරන බව ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පසුගියදා මාධ්‍ය සාකච්ඡාවට එක්වෙමින් පැවසීය.
+
+එම දත්ත අනුව මාර්ග ආරක්ෂාව පිළිබඳ ජාතික සභාව අදාළ දුරකතන අංකයට අනතුර පිළිබඳ කෙටි පණිවිඩයක් මෙන්ම අනතුරක් සිදුවී ඇත්නම් වට්ස්ඇප් හරහා අදාළ වීඩියෝ පටද යොමු කෙරෙන බව තව දුරටත් කරුණු දක්වමින් ඒ්මහතා පවසා සිටියේය.
+
+◼️
+
+[Data](articles/495dac85.json)
 
 ---
 
@@ -131,6 +179,36 @@ He questioned the relevant authorities for not taking action to slash the price 
 [Data](articles/fe91257e.json)
 
 [Extended Data](ext_articles/fe91257e.ext.json)
+
+---
+
+### AKD slams speaker for stuffing his staff with relatives
+
+*2024-03-25 13:13:00* · [`islandlk`](http://island.lk/akd-slams-speaker-for-stuffing-his-staff-with-relatives/) · `en`
+
+The three-day debate on the No-confidence Motion against Speaker Mahinda Yapa Abeywardena offers an insight into the prevailing ‘dump the lot’ public opinion on the incumbent legislature. Listening to what some MPs said (sometimes yelled) during the debate helps understand the present mood in the country that the incumbent legislature has long lost its mandate which must be urgently restored through a general election.
+
+Only a few members presented coherent arguments during the debate. The government relied on its roster of provocative speakers who bellowed the usual rhetoric. Those who spoke sensibly rightly predicted that the government’s numerical advantage would secure the motion’s defeat. However, they cautioned that any victory would be fleeting as they believed the government’s downfall was inevitable.
+
+...
+
+[Data](articles/414b67f5.json)
+
+[Extended Data](ext_articles/414b67f5.ext.json)
+
+---
+
+### ඩොලරය පහළ යන හැටි උදය කියයි
+
+*2024-03-25 13:10:21* · [`adalk`](https://www.ada.lk/breaking_news/ඩොලරය-පහළ යන-හැටි-උදය-කියයි/11-408780) · `si`
+
+ඩොලරයේ අගය කඩා වැටෙන්නේ ආණ්ඩුව මෙරට ආර්ථිකය සවිමත් කරන නිසා නොව මෙරට ආර්ථිකය හැකිලෙමින් තිබෙන නිසා බවත් මෙය අහිතකර තත්වයක් බවත් පිවිතුරු හෙළ උරුමයේ නායක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි. ඒ මහතා මේ බව සදහන් කරසිටියේ අද දින (2024.03.25) පිවිතුරු හෙළ උරුමය පක්ෂ මූලස්ථානයේ පැවති මාධ්‍ය හමුවකට එක් වෙමිනි. එහිදී පිවිතුරු හෙළ උරුමයේ නායකයා වැඩිදුරටත් මෙසේ අදහස් දැක්වීය.
+
+"2024 ජනවාරි 1 දා රුපියල් 325ක් වුණු ඩොලරය මාර්තු 22 වන විට රු303 දක්වා පහත වැටී තිබෙනවා.  ඩොලරය කඩා වැටෙන්නේ ඇයි කියන ප්‍රශ්නයට පිලිතුරු බඳින ආණ්ඩුව කියන්නේ ආර්ථිකය සවිමත් වන නිසා ඩොලරය පහත වැටෙන බවයි. ඒක ඇත්තක් ද?
+
+...
+
+[Data](articles/3eae8fee.json)
 
 ---
 
@@ -651,6 +729,22 @@ Below are some of the sensitive notes that were shocked by Nirosage Lakmal's eme
 [Data](articles/af93dc33.json)
 
 [Extended Data](ext_articles/af93dc33.ext.json)
+
+---
+
+### මෛත්‍රී CIDයට යයි
+
+*2024-03-25 11:12:46* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-CIDයට-යයි/11-408778) · `si`
+
+පාස්කුදා ශ්‍රි ලංකාවට එල්ල වූ මරාගෙන මැරෙන ප්‍රහාර මාලාව සිදුකළ පුද්ගලයන් කවුදැයි තමන් දන්නා බවට හිටපු ජනාධිපති මෛත්‍රිපාල සිරිසේන මහතා සිදුකළ ප්‍රකාශය ගැන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ප්‍රකාශයක් ගැනීමට කටයුතු කර තිබේ.
+
+ඒ අනුව එම ප්‍රකාශය සටහන් කර ගැනීම සඳහා මෛත්‍රීපාල සිරිසේන මහතා අද (25) පෙරවරු 10.45 ට පමණ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණ තිබේ.
+
+පාස්කු ඉරිදා ප්‍රහාරයට සම්බන්ධ පුද්ගලයන් සත්‍ය වශයෙන්ම තමා දන්නා බවට හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා ඉකුත් දා (22)  මහනුවරදී පැවැති උත්සවයකට සහභාගිවීමෙන් අනතුරුව මාධ්‍යයට  ප්‍රකාශයක් සිදුකර තිබිණ.
+
+◼️
+
+[Data](articles/bfdc7c0a.json)
 
 ---
 
@@ -2119,109 +2213,5 @@ The President pointed out that the free medical system has been found since the 
 [Data](articles/d27df962.json)
 
 [Extended Data](ext_articles/d27df962.ext.json)
-
----
-
-### Invite Maithri to make a confession at the Criminal Investigation Department regarding Easter attack
-
-*2024-03-25 02:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/179610) · `ta`
-
-Maithripala Sirisena is invited to confess about the Easter attack at the CID. The CID has responded favorably to the Inspector General of Police. Public Security Minister Thon Alas has ordered an inquiry. The IGP emphasizes further investigations and the possibility of arrest if necessary, based on the former president's report.
-
-🟩
-
-Former President Maithripala Sirisena has been informed that the Criminal Investigation Department has been informed by the Criminal Investigation Department regarding the Easter attack and has given a favorable response to the Inspector General of Police, Deshpandu Tennakoon.
-
-Following the report in the media, Public Security Minister Thon Alas has ordered an immediate inquiry into the matter, according to the announcement made by the Criminal Investigation Department.
-
-The Inspector General of Police said this while commenting to the media after the blessings of the Asgiriya Faculty Deputy Registrar Narangapana Ananda Thera on Sunday (24).
-
-He also stressed that the Criminal Investigation Department will begin further investigations as per the former president's report.
-
-He also stated that if there is any threat to the security of the former president on the basis of the report, proper action can be taken in consultation with the Minister in charge of the matter.
-
-...
-
-[Data](articles/ded732aa.json)
-
-[Extended Data](ext_articles/ded732aa.ext.json)
-
----
-
-### The telephone can cause economic revival
-
-*2024-03-25 02:01:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொருளாதார-மறுமலர்ச்சியை-ஏற்படுத்த-முடியும்/175-335131) · `ta`
-
-President Ranil Wickremesinghe emphasized that economic revival depends on new restructuring, not past crises, and takes responsibility for the country's future, addressing youth concerns in Polonnaruwa.
-
-🟩
-
-President Ranil Wickremesinghe pointed out that all the responsibility of cooperation with the government's program to ensure that the economic revival can only be caused by new restructuring and that the economic crisis in the past is not the case in the past.
-
-The president pointed out that he was responsible for the country where other politicians were reluctant to take responsibility, but that some had only thought about their political future, but that he was thinking about the future of the country.
-
-President Ranil Wickremesinghe made this statement during a meeting with the 'United Youth Youth Union' held in Polonnaruwa.
-
-The President, who had a meeting with the youth about the country's future and farming in the 'discussion with the president', answered the questions of the younger ones. (A)
-
-◼️
-
-[Data](articles/fe9e975f.json)
-
-[Extended Data](ext_articles/fe9e975f.ext.json)
-
----
-
-### All banks in Sri Lanka must collectively adopt a common Code of Ethics
-
-*2024-03-25 02:01:27* · [`dailyftlk`](https://www.ft.lk/columns/All-banks-in-Sri-Lanka-must-collectively-adopt-a-common-Code-of-Ethics/4-759889) · `en`
-
-Transparency, fairness and sound decision-making are the cornerstones of a strong banking business
-
-Application of banking ethics in Sri Lanka – refer: Daily FT dated 21 March 2024 (https://www.ft.lk/columns/Application-of-banking-ethics-in-Sri-Lanka/4-759751) was a brilliant Guest Column by B.G. Wimalarathna Banda ex-banker – subtly classifying the Excellent, Good, Bad, Ugly and Evil Bankers.
-
-...
-
-[Data](articles/c64b063e.json)
-
-[Extended Data](ext_articles/c64b063e.ext.json)
-
----
-
-### ‘IMF program best chance for SL to return to broad-based growth and prosperity’
-
-*2024-03-25 01:51:59* · [`dailyftlk`](https://www.ft.lk/business/IMF-program-best-chance-for-SL-to-return-to-broad-based-growth-and-prosperity/34-759887) · `en`
-
-UK Foreign, Commonwealth and Development Office (FCDO) Deputy Chief Economist Fergus Cumming
-
-UK Foreign, Commonwealth and Development Office (FCDO) Deputy Chief Economist Fergus Cumming with British High Commissioner Andrew Patrick (fourth from right)  and members of the Council for Business with Britain
-
-...
-
-[Data](articles/7100573a.json)
-
-[Extended Data](ext_articles/7100573a.ext.json)
-
----
-
-### Breakfast for students today
-
-*2024-03-25 01:46:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-இன்று-முதல்-காலை-உணவு/175-335130) · `ta`
-
-Today, primary students from 1st to 5th grade will receive breakfast from 7:30-8:30 am, provided in schools with fewer than 100 students.
-
-🟩
-
-Breakfast for all students studying in the primary section from the first grade to the fifth grade will be launched today (25).
-
-Minister of Education Susil Premajayantha said that the meal will be provided between 7.30 am and 8.30 am.
-
-Meanwhile, the Minister said that the food will be provided to all class students in schools where fewer than one hundred students are studying.. (A)
-
-◼️
-
-[Data](articles/f697568b.json)
-
-[Extended Data](ext_articles/f697568b.ext.json)
 
 ---

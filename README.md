@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 09:03:12**
+As of **2024-03-25 09:18:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,399
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,944 (100.0%) of 14,946 articles have been extended.
+14,946 (100.0%) of 14,946 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -150,21 +150,27 @@ Maithripala Sirisena has a legal responsibility to educate any information about
 
 ---
 
-### අනාගතය වෙනුවෙන් තෝරා ගන්නේ කුමන මාර්ගයද කියා තරුණයින් සිතිය යුතුයි
+### Young people should think of which way to the future
 
 *2024-03-25 07:37:15* · [`adalk`](https://www.ada.lk/opinion/අනාගතය-වෙනුවෙන්-තෝරා-ගන්නේ-කුමන-මාර්ගයද-කියා-තරුණයින්-සිතිය-යුතුයි/2-408773) · `si`
 
-මෙරට ආර්ථික ප්‍රකෘතිය උදාකරගත හැක්කේ නව ආර්ථික ප්‍රතිසංස්කරණමය වැඩපිළිවෙළක් තුළින් පමණක් බවත්, පසුගිය ආර්ථික අර්බුදය හමුවේ අප අත්විඳී පිඩාවන් මතු පරපුරට උරුම වීමට ඉඩ නොතබා රජයේ වැඩපිළිවෙළට සහාය ලබාදීම සියලුදෙනාගේ වගකීම බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe emphasized the importance of economic recovery and the role of government in addressing the last economic crisis. He highlighted the challenges faced by the country, including the need for economic restructuring and transition from an import-based to an export-based economy. He also discussed plans for agricultural modernization, tourism development, and the establishment of new investment zones.
 
-එසේම තමා භාරගත්තේ අනෙකුත් දේශපාලනඥයන් භාර ගැනීමට අකමැති වු රටක් බව සිහිපත් කළ ජනාධිපතිවරයා ඔවුන් තම දේශපාලන අනාගතය පිළිබඳ සිතද්දි තමා සිතුවේ රටේ අනාගතය පිළිබඳව බවද කියා සිටියේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ “යුනයිටඩ් යුත් තරුණ එකමුතුව” විසින් “තරුණ අපේ අනාගතය” පොළොන්නරුවේ දී සංවිධානය කර තිබූ සුහද කථා බහට එක් වෙමිනි.
+President Ranil Wickremesinghe said that it is only through a new economic recovery and that the last economic crisis will not allow the last economic crisis and the support of the government is responsible for the last economic crisis.
 
-“ජනපති සමඟ කථාබහක්” නමින් පැවැත්වුණු මෙම හමුවේදි රටේ ඉදිරි අනාගතය හා දැක්ම පිළිබඳ ජනාධිපතිවරයා තරුණ තරුණියන් සමඟ සාකච්ඡා කළ අතර ඔවුන් මතුකළ ගැටළු රැසකට ද සාධනීය පිළිතුරු ලබා දුන්නේය.
+He recalled that the President who was reminded was a country that was unwilling to accept other politicians, as they refused to take over their political future, he thought about the future of the country.
+
+President Ranil Wickremesinghe made this statement participating in a friendly speech organized by "Youth Our Future" by "Youth Our Future" by "Youth One of the Young Unity" in Polonnaruwa.
+
+The president of the country discussed the future and vision of the country with the future and the vision of the country, and gave positive answers to many of the problems they raised.
 
 ...
 
 [Data](articles/54f4cd14.json)
+
+[Extended Data](ext_articles/54f4cd14.ext.json)
 
 ---
 
@@ -558,21 +564,29 @@ American economist William A. Niskanen, writing to the American Economic Review 
 
 ---
 
-### ’சுகாதார சேவையில் புதிய மாற்றம் அவசியம்’
+### New change in health service is essential
 
 *2024-03-25 02:03:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-சேவையில்-புதிய-மாற்றம்-அவசியம்/175-335132) · `ta`
 
-நவீன மருத்துவ சேவைகளுக்கு உகந்த வகையில் புதிய தொழில்நுட்ப மாற்றங்களுக்கு அமைய எமது நாட்டின் சுகாதார சேவையில் ஏற்படுத்தப்படவுள்ள புதிய மாற்றங்கள் குறித்து விரிவான கலந்துரையாடலை நடத்த எதிர்பார்ப்பதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe emphasized the need for a comprehensive discussion on health service changes, aligning with modern medical technology, at a meeting with the State Medical Officers Association.
 
-அரச வைத்திய அதிகாரிகள் சங்கத்துடன் நேற்று முன்தினம் நடைபெற்ற சந்திப்பில் ஜனாதிபதி ரணில் விக்கிரமசிங்க இதனைக் குறிப்பிட்டார்.
+🟩
 
-அரச வைத்திய அதிகாரிகள் சங்கத்தின் ஏற்பாட்டில் 'தலைமைத்துவம் மற்றும் திறன் மேம்பாடு. என்ற தலைப்பில் ஒரு நாள் செயலமர்வு பொலன்னறுவையில் ஆரம்பமானது. உத்தியோகபூர்வ நிகழ்வு ஒன்றில் பங்கேற்க பொலன்னறுவைச் சென்றிருந்த ஜனாதிபதிக்கு, இந்நிகழ்வில் இணைந்துகொள்ள திடீர் அழைப்பு விடுக்கப்பட்டது.
+President Ranil Wickremesinghe said he expects a comprehensive discussion on the new changes to be made in the health service of our country in accordance with new technological changes to modern medical services.
 
-அதன்படி, சொற்ப நேரத்திற்கு அவ்விடத்திற்குச் சென்ற ஜனாதிபதி, அரச வைத்திய அதிகாரிகள் சங்க உறுப்பினர்களுடன் சிநேகபூர்வ உரையாடலில் ஈடுபட்டார்.
+President Ranil Wickremesinghe made this statement at a meeting with the State Medical Officers Association yesterday.
 
-...
+The State Medical Officers Association organized the 'leadership and skill development. The one -day workshop began in Polonnaruwa. The President, who had gone to Polonnaruwa to attend an official event, was invited to join the event.
+
+Accordingly, the President went to the spot for a short time and engaged in a speech with members of the State Medical Officers Association.
+
+The President pointed out that the free medical system has been found since the colonial period in Sri Lanka and the entire world has accepted it, and that with those past experiences, quality and high quality health services should be ensured in the country with those past experiences.. (A)
+
+◼️
 
 [Data](articles/d27df962.json)
+
+[Extended Data](ext_articles/d27df962.ext.json)
 
 ---
 

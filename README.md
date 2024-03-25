@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-25 10:51:36**
+As of **2024-03-25 11:02:57**
 
 ## Newspaper Stats
 
-*Scraped **14,965** Articles*
+*Scraped **14,970** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,94 @@ newsfirstlk | 363
 economynextcom | 800
 dailyftlk | 806
 islandlk | 831
-adalk | 1,271
+adalk | 1,272
 tamilmirrorlk | 1,801
-adaderanalk | 1,801
-virakesarilk | 2,094
+adaderanalk | 1,802
+virakesarilk | 2,095
 dailymirrorlk | 2,307
-adaderanasinhalalk | 2,401
+adaderanasinhalalk | 2,403
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-14,965 (100.0%) of 14,965 articles have been extended.
+14,965 (100.0%) of 14,970 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-25 (Monday)
+
+### මෝටර් රථ තරගාවලියක් අතරතුර සිදුවු අනතුරකින් සිව්දෙනෙක් මරුට
+
+*2024-03-25 10:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194902) · `si`
+
+හංගේරියාවේ මෝටර් රථ තරගාවලියක් අතරතුර සිදුවූ අනතුරකින් පුද්ගලයින් සිව්දෙනෙක් මියගොස් තිබේ.
+
+අනතුරින් තුවාල ලැබූ තවත් 8 දෙනෙක් රෝහල්ගතව ප්‍රතිකාර ලබන බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+හංගේරියාවේ පැවති මෝටර් රථ තරගාවලියක් අතරතුර ධාවන පථයෙන් ඉවතට විසිවී ගොස් නරඹන්නන් සිටින ස්ථානයක ගැටී අනතුරක් සිදුව ඇත.
+
+තුවාල ලැබූවන් ඉවතට ගෙන යාමට ගිලන් රථ මෙන්ම හෙලිකොප්ටර් යානා ද යොදවා තිබුණි.
+
+එමෙන්ම තරගාවලිය අත්හිටුවීමට සංවිධායකයින් පියවර ගෙන ඇති බව වාර්තා විය‍.
+
+◼️
+
+[Data](articles/c6dcbe5e.json)
+
+---
+
+### ஜனாதிபதி தேர்தலிற்கு முன்னர்  புதிய நாடாளுமன்ற தேர்தல் முறையை நடைமுறைப்படுத்துவதற்கு அனுமதிக்கமாட்டோம் - கனடாவில் அனுரகுமார
+
+*2024-03-25 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179623) · `ta`
+
+ஜனாதிபதி தேர்தலிற்கு முன்னர் நாடாளுமன்ற தேர்தல் முறையில் மாற்றங்களை மேற்கொள்வதை தேசிய மக்கள் சக்தி ஏற்றுக்கொள்ளாது என  கனடாவில் அனுரகுமார திசநாயக்க தெரிவித்துள்ளார்.
+
+ஜனாதிபதி தேர்தலிற்கு முன்னதாக நாடாளுமன்ற தேர்தல் முறையில்மாற்றங்களை மேற்கொள்வதற்கான உத்தேச அரசமைப்பு சீர்திருத்தங்களை அரசாங்கம் நடைமுறைப்படுத்துவதற்கு தேசிய மக்கள் சக்தி அனுமதிக்காது என அவர் தெரிவித்துள்ளார்.
+
+கனடாவில் இலங்கை வாழ்சமூகத்தினர் மத்தியில் உரையாற்றுகையில் இதனை தெரிவித்துள்ள அவர் இந்த தருணத்தில் தேசிய தேர்தலை தவிர்ப்பதற்கான அனைத்து முயற்சிகளிலும் அரசாங்கம் ஈடுபட்டுள்ளது என அனுரகுமார திசநாயக்க தெரிவித்துள்ளார்.
+
+தாங்கள் அதிhரத்தை இழக்கப்போகின்றோம் என்ற அச்சம் காரணமாகவே அவர்கள் இவ்வாறு செய்கின்றனர் எனவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/838b1c1d.json)
+
+---
+
+### Ex-President Maithripala arrives at CID over Easter attacks statement
+
+*2024-03-25 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98183/ex-president-maithripala-arrives-at-cid-over-easter-attacks-statement) · `en`
+
+Former President Maithripala Sirisena has arrived at the Criminal Investigation Department (CID) to make a statement over his recent comments regarding the Easter Sunday bomb attacks, Ada Derana reporter said.
+
+The CID summoned the former President in order to record a statement over the controversial statement he recently made on the Easter Sunday attacks, after Minister of Public Security Tiran Alles had instructed the IGP to carry out an investigation into Sirisena’s remarks.
+
+On Friday (22), former President Maithripala Sirisena had stirred controversy when he claimed he was aware of the true masterminds of the 2019 Easter Sunday terror attacks and that he was prepared to disclose the information to the judiciary if inquired from him or if an order is issued regarding the matter.
+
+...
+
+[Data](articles/ec6c9dde.json)
+
+---
+
+### මෛත්‍රී CIDයට එයි
+
+*2024-03-25 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194901) · `si`
+
+හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා මීට සුළු වේලාවකට පෙර අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණ තිබේ.
+
+පාස්කු ඉරිදා ප්‍රහාරයට සම්බන්ධ පුද්ගලයන් තමා දන්නා බවට මෛත්‍රීපාල සිරිසේන මහතා පසුගිය දා මහනුවර ප්‍රදේශයේදී ප්‍රකාශයක් සිදුකර තිබිණි.
+
+අදාළ ප්‍රකාශය සම්බන්ධයෙන් කඩිනම් පරීක්ෂණයක් පවත්වන ලෙස මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා විසින් පොලිස්පතිවරයාට උපදෙස් ලබා දී තිබිණි.
+
+ඒ අනුව හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගෙන් ප්‍රකාශයක් සටහන් කර ගැනීම සඳහා අද පෙරවරු 10.30ට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට කැඳවා තිබුණි.
+
+◼️
+
+[Data](articles/69d42c51.json)
+
+---
 
 ### Kalmunai North Divisional Secretariat Struggle
 
@@ -277,6 +349,24 @@ Meanwhile, Senior Attorney -at -Law Dr. Jagath Gunawardena said that it is legal
 [Data](articles/79286771.json)
 
 [Extended Data](ext_articles/79286771.ext.json)
+
+---
+
+### ඊශ්‍රායල් රැකියා මවා මුදල් ගෑරූ හොර දොස්තර දැලේ
+
+*2024-03-25 09:30:57* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-රැකියා-මවා-මුදල්-ගෑරූ-හොර-දොස්තර-දැලේ/11-408776) · `si`
+
+කම්කරු හා විදේශ රැකියා අමාත්‍යාංශයේ ඉහළ නිළධාරීන්ගේ නම් භාවිතා කරමින් ඊශ්‍රායලයේ කෘෂිකාර්මික අංශයේ රැකියා ලබා දෙන බව පවසා මුදල් වංචා කළ පුද්ගලයකු ශ්‍රී ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් අත්අඩංගුවට ගන්නා ලදී.
+
+කොළඹ 07,විජේරාම මාවතේ පදිංචි සැකකරුකම්කරු හා විදේශ රැකියා අමාත්‍යාංශයේ ඉහළ නිලධාරීන්මාර්ගයෙන් විදේශ රැකියා ලබා දිය හැකි බව පවසා ඇති අතර තමන් වෛද්‍යවරයකු බවද මොහු ප්‍රකාශ කර ඇත. මුදල් ලබාගැනීම සඳහා මොහු නාරාහේන්පිට විදේශ රැකියා අමාත්‍යාංශයට හා විදේශ සේවා නියුක්ති කාර්යාංශයටද පුද්ගලයන් කැදවා තිබේ.
+
+සැකකරු මෙසේ පුද්ගලයන් 9 දෙනෙකුගෙන් රුපියල් 7,650,000ක් වංචා කර ඇති බව විමර්ශනවලදී හෙලි වී ඇති අතර මොහුට මුදල් ලබාදුන් පුද්ගලයකු විසින් කරන ලද පැමිණිල්ලක්අනුව කම්කරු හා විදේශ රැකියා අමාත්‍යාංශයේදී මෙම අත්අඩංගුවට ගැනීම සිදු කර තිබේ.
+
+සැකකරු කොළඹ අංක 5, මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව අප්‍රේල් මස 03වෙනිදා දක්වා රක්ශිත බන්ධනාගාර ගත කිරීමට මහේස්ත්‍රාත්වරයා නියෝග කර තිබේ.
+
+...
+
+[Data](articles/a81a7b67.json)
 
 ---
 
@@ -2139,129 +2229,5 @@ Introducing Director AS. Prabhu Deva plays the lead role in the unnamed movie di
 [Data](articles/d0b59fb5.json)
 
 [Extended Data](ext_articles/d0b59fb5.ext.json)
-
----
-
-### 'Gayal' Anandi's 'White Rose'
-
-*2024-03-24 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179596) · `ta`
-
-"White Rose" stars Gayal Anandi, produced by Ranjani for Poomparai Murugan Productions, directed by Sudarshan and Johan Seventh. Features music by R.R. K. Suresh, Vijith, Baby Star, and others. Aimed to highlight police control centers, it's set for an April release. Despite "Gaduvetti" and "Mangai" not being successful, "White Rose" promises a fresh experience.
-
-🟩
-
-The film 'Wite Ross', the hero of the actress 'Gayal' Anandi story, is the actress of the actor Tilak and the digital Savitri, which is the actor of today's Tamil film industry.
-
-R.R.. K. Suresh, 'Gayal' Anandi, Vijith, Baby Star, Sasilaya, Ganesh, Ramanathan and many others have composed the film by Sudarshan and Johan Seventh.. The film is being produced in the thriller Janer and produced by Ranjani on behalf of Poomparai Murugan Productions.
-
-The shooting of the film is completed and the final phase of the work is going on. The film crew has announced that the film will be released early in April, as the first look of the film has been released.
-
-Commenting on the film, the director said, “The screenplay of the film has been created to highlight the police control center.. We have made the film interesting to bring a completely new experience. ”
-
-...
-
-[Data](articles/2e2650a6.json)
-
-[Extended Data](ext_articles/2e2650a6.ext.json)
-
----
-
-### Fire breaks out at clothing store outlet in Wellawatte
-
-*2024-03-24 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98174/fire-breaks-out-at-clothing-store-outlet-in-wellawatte) · `en`
-
-A sudden fire has reportedly broken out at a textile store in Colombo 06 this evening (24).
-
-The fire brigade of the Colombo Municipal Council has dispatched 06 fire trucks to help extinguish the flames, according to Ada Derana reporter.
-
-◼️
-
-[Data](articles/74620985.json)
-
-[Extended Data](ext_articles/74620985.ext.json)
-
----
-
-### 4 children killed in cell phone explosion
-
-*2024-03-24 17:14:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலைபேசி-வெடித்தில்-4-குழந்-தைகள்-பலி/175-335110) · `ta`
-
-Four children and their mother died in a fire caused by a cell phone explosion in Meerut, India. The incident highlights the risks of charging cell phones without proper guidelines.
-
-🟩
-
-Four children in the house were killed in a fire.
-
-The mobile manufacturers have set a variety of guidelines for charging the mobile phones.
-
-However, sometimes there is an increasing number of incidents of explosion of cell phones due to short circuits when charging cell phones.
-
-In the meantime, the death of four children in a fire broke out near Meerut, India's Uttar Pradesh.
-
-Johnny, a mercenary worker on Saturday night (23) at Pallavapuram near Meerut, Uttar Pradesh. It is said that the four children and his wife Babita were sleeping in the house, Sarika (10), Nikarika (8), Sanskar (6) and Kalu (4).
-
-Due to the spread of the fire, four children have died after being admitted to the hospital, including the injured wife, and the wife is being treated in the intensive care unit and her husband is undergoing minor problems.
-
-◼️
-
-[Data](articles/78ab68b6.json)
-
-[Extended Data](ext_articles/78ab68b6.ext.json)
-
----
-
-### Motorcycle thieves trapped by the police
-
-*2024-03-24 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194884) · `si`
-
-Police arrest 4 motorcycle thieves, recover 116 plates. Suspects, aged 29 and 44, from Pitulhayawa, Mirisagonia Junction, and Hindi Moragolla, Anuradhapura, were involved in a 10-year racket. The Anuradhapura Division Investigation Unit led the investigation. The suspects, including a segmenter and two stolen motorcycle Aviva users, were to be produced before the Nochchiyagama Magistrate.
-
-🟩
-
-Four suspects have been arrested by the police who were engaged in a racket of stock and selling motorbikes.
-
-Police have also recovered 116 motorcycle number plates in their possession.
-
-The arrested persons have been arrested by the age of 29 and 44 year old residents of Pitulhayawa, Mirisagonia Junction and Hindi Moragolla, Anuradhapura.
-
-The group was arrested following a investigation by the Anuradhapura Division Investigation Unit.
-
-Investigations have revealed that the racket had been done for nearly 10 years.
-
-The Motorphone Transport Department is to be informed of the department of the Motorcyclists in the Motorcyclists in the Motorcyclists arrested.
-
-The suspects were to be produced before the Nochchiyagama Magistrate today (24).
-
-Welikada Police have arrested three persons who had stolen motorbikes and segmented marketing racketeer.
-
-The interrogator made by the arrested person was revealed that the segment was carried out by two stolen motorcycle Aviva.
-
-...
-
-[Data](articles/478529fc.json)
-
-[Extended Data](ext_articles/478529fc.ext.json)
-
----
-
-### Bangladesh's difficulty
-
-*2024-03-24 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194883) · `si`
-
-Bangladesh lost the first Test against Sri Lanka, scoring 47 runs and losing 5 wickets. Universal Fernando took 3 wickets for 13 runs. To win, Bangladesh needs to score 464 runs.
-
-🟩
-
-By the completion of the first Test against Sri Lanka, Bangladesh scored 47 runs for the loss of 5 wickets.
-
-Universal Fernando took 3 wickets for 13 runs.
-
-Bangladesh should score 464 runs for Bangladesh to be won.
-
-◼️
-
-[Data](articles/ebf25660.json)
-
-[Extended Data](ext_articles/ebf25660.ext.json)
 
 ---

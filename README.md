@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 01:33:36**
+As of **2024-03-27 01:52:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,373 (100.0%) of 15,376 articles have been extended.
+15,376 (100.0%) of 15,376 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -74,6 +74,8 @@ Gina is an Australian entrepreneur who is also the author of the book “The Bel
 
 [Data](articles/921b5eff.json)
 
+[Extended Data](ext_articles/921b5eff.ext.json)
+
 ---
 
 ### Bridging the academic-practitioner gap
@@ -88,6 +90,8 @@ Dr. Trevor, who is a master strategist, pracademic and a distinguished alumni of
 
 [Data](articles/b28fe976.json)
 
+[Extended Data](ext_articles/b28fe976.ext.json)
+
 ---
 
 ### The 1989 war against India by JVP’s militant arm DJV
@@ -99,6 +103,8 @@ In 1989 Kumar Gunaratnam operating under the nom de guerre “Gemunu” led the 
 ...
 
 [Data](articles/fcdd6bc1.json)
+
+[Extended Data](ext_articles/fcdd6bc1.ext.json)
 
 ---
 

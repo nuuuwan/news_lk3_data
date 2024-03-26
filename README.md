@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 23:18:06**
+As of **2024-03-26 23:33:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,353 (100.0%) of 15,355 articles have been extended.
+15,355 (100.0%) of 15,355 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The Prime Ministers of the two countries confirmed that a new chapter in the lon
 
 [Data](articles/e70de30c.json)
 
+[Extended Data](ext_articles/e70de30c.ext.json)
+
 ---
 
 ### No-faith motion on Speaker: Resolution to seek cost from opposition
@@ -67,6 +69,8 @@ The Speaker who made a special statement after the debate on the no faith motion
 ...
 
 [Data](articles/e391717a.json)
+
+[Extended Data](ext_articles/e391717a.ext.json)
 
 ---
 

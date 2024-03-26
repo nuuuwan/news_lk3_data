@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 10:18:21**
+As of **2024-03-26 10:33:26**
 
 ## Newspaper Stats
 
@@ -26,41 +26,55 @@ adaderanasinhalalk | 2,440
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,187 (99.9%) of 15,195 articles have been extended.
+15,195 (100.0%) of 15,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### ප්‍රවීණ ගායන ශිල්පී චන්ද්‍ර කුමාර කඳනාරච්චි අභාවප්‍රාප්ත වෙයි
+### If the government is backing the election, the public will take the streets against it - Pavral
+
+*2024-03-26 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/179712) · `ta`
+
+Rohana Hettiarachchi, Election Monitoring Organization's Executive Director, warns that if the government violates the constitution during the presidential election from September 17 to October 17, the public may protest. He emphasizes the Election Commission's responsibility to ensure fair elections, regardless of political affiliations.
+
+🟩
+
+Executive Director of the Election Monitoring Organization, Rohana Hettiarachchi, said the government would take the people's streets if the government had violated the constitution.
+
+He said that the elections are for the people, no matter the political parties, the government or the political leaders.
+
+The presidential election will be held from September 17 to October 17, he said.
+
+The Powell Organization's Rohana Hettiarachchi said that it is the responsibility of the Election Commission to hold the presidential election during this period.
+
+"If they are able to act in violation of the constitution for some reason, we feel that our people have the strength to take the streets."
+
+The Executive Director of the Powell Organization said that former Finance Minister Basil Rajapaksa had said that the first parliamentary election should be held.
+
+◼️
+
+[Data](articles/33443a4a.json)
+
+[Extended Data](ext_articles/33443a4a.ext.json)
+
+---
+
+### Veteran singer Lunar Kumara has passed away
 
 *2024-03-26 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194941) · `si`
 
-ප්‍රවීණ ගායක චන්ද්‍ර කුමාර කඳනාරච්චි මහතා අද (26) උදෑසන අභාවප්‍රාප්ත වී තිබේ.
+Veteran singer Chandra Kumara Kandanarachchi passed away on 26th.
+
+🟩
+
+Veteran singer Chandra Kumara Kandanarachchi has passed away this morning (26).
 
 ◼️
 
 [Data](articles/64d3a942.json)
 
----
-
-### அரசாங்கம்ஜனாதிபதி தேர்தலை பிற்போட்டால்  அதற்கு எதிராக பொதுமக்கள் வீதிக்கு இறங்ககூடும்  - பவ்ரல்
-
-*2024-03-26 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/179712) · `ta`
-
-அரசாங்கம் அரசமைப்பை மீறி ஜனாதிபதி தேர்தலை பிற்போட்டால் மக்கள் வீதிக்கு இறங்ககூடும் என தேர்தல் கண்காணிப்பு அமைப்பான பவ்ரலின் நிறைவேற்று பணிப்பாளர் ரோகண ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
-
-தேர்தல் அரசியல்கட்சிகளுக்கானதோ அரசாங்கத்திற்கானதோ அல்லது அரசியல் தலைவர்களிற்கானதோ இல்லை தேர்தல்கள் மக்களிற்கானவை என அவர் தெரிவித்துள்ளார்.
-
-ஜனாதிபதி தேர்தல் நிச்சயமாக செப்டம்பர் 17 முதல் ஒக்டோபர் 17ம் திகதிக்குள் நடைபெறவேண்டும் ஜனாதிபதியோ அமைச்சரவையோ பசில்ராஜபக்சவோ அதனை மாற்ற முடியாது என அவர் தெரிவித்துள்ளார்.
-
-இந்த காலப்பகுதியில் ஜனாதிபதி தேர்தலை நடத்தவேண்டியது தேர்தல் ஆணைக்குழுவின் பொறுப்பு கடமை என தெரிவித்துள்ள பவ்ரல் அமைப்பின் ரோகண ஹெட்டியாராச்சி ஜனாதிபதி தேர்தல்கள் தொடர்பில் அரசாங்கம் தீர்மானங்களை எடுக்க முடியாது எனவும் தெரிவித்துள்ளார்.
-
-அவர்கள் ஏதாவது காரணத்திற்காக அரசமைப்பை மீறி செயற்பட முடிந்தால் வீதிக்கு இறங்குவதற்கான வலு எங்கள் மக்களுக்குள்ளது என நாங்கள் கருதுகின்றோம் எனவும் அவர் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/33443a4a.json)
+[Extended Data](ext_articles/64d3a942.ext.json)
 
 ---
 
@@ -82,19 +96,27 @@ Workers’ remittances increased from USD 3.8 billion in 2022 to USD 6 billion i
 
 [Data](articles/213cec7d.json)
 
+[Extended Data](ext_articles/213cec7d.ext.json)
+
 ---
 
-### மாத்தளை - வில்கமுவ பொலிஸ் நிலையத்தில் T-56 ரக துப்பாக்கி மாயம்
+### T -56 rifle magic at Matale - Wilgamuwa Police Station
 
 *2024-03-26 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179711) · `ta`
 
-மாத்தளை மாவட்டத்தில் வில்கமுவ பொலிஸ் நிலையத்தில் இருந்து T-56 ரக துப்பாக்கி காணாமல் போயுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+The T-56 rifle, used at the Wilgamuwa police station's main gate in Matale, has gone missing.
 
-வில்கமுவ பொலிஸ் நிலையத்தில் பிரதான வாயில் பாதுகாப்பு சோதனைச் சாவடியில்  பயன்படுத்தப்பட்ட T-56 துப்பாக்கி காணாமல் போயுள்ளதாக தெரிவிக்கப்படுகிறது.
+🟩
+
+The T-56 rifle has been reported missing from the Wilgamuwa police station in Matale district.
+
+It is reported that the T-56 rifle used at the main gate security checkpoint at the Wilgamuwa police station has disappeared.
 
 ◼️
 
 [Data](articles/2cf2da6d.json)
+
+[Extended Data](ext_articles/2cf2da6d.ext.json)
 
 ---
 
@@ -120,57 +142,75 @@ The Central Bank of Sri Lanka that a large number of tourists have come to the i
 
 ---
 
-### மைத்திரியின் வாக்குமூலம் சட்டமா அதிபருக்கு அனுப்பப்பட்டது
+### Maithri's confession was sent to the Attorney General
 
 *2024-03-26 09:47:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-வாக்குமூலம்-சட்டமா-அதிபருக்கு-அனுப்பப்பட்டது/175-335196) · `ta`
 
-“ஈஸ்டர் ஞாயிறு தாக்குதலை நடத்தியது யார் என்பது எனக்கு தெரியும்” என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்த கருத்து தொடர்பில் குற்றப் புலனாய்வு திணைக்களத்தில் நேற்று முன்வைக்கப்பட்ட வாக்குமூலம் சட்டமா அதிபருக்கு அனுப்பி வைக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+Maithripala Sirisena's confession about knowing the Easter Sunday attack's perpetrator was sent to the Attorney General for legal action.
 
-குற்றப் புலனாய்வு திணைக்கள அதிகாரிகளால் 6 மணித்தியாலங்களுக்கு மேலாக மைத்திரிபால சிறிசேனவிடம் இருந்து பெறப்பட்ட வாக்குமூலம் மேலதிக சட்ட நடவடிக்கைகளுக்காக சட்டமா அதிபருக்கு அனுப்பி வைக்கப்பட்டுள்ளது.
+🟩
 
-2019 ஆம் ஆண்டு ஏப்ரல் 21 ஆம் திகதி ஈஸ்டர் ஞாயிறு தாக்குதலில் ஈடுபட்டவர்கள் தொடர்பில் தமக்குத் தெரியும் என முன்னாள் ஜனாதிபதி கண்டியில் தெரிவித்த கருத்து தொடர்பில் விசாரணை நடத்துமாறு பொது மக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் பொலிஸ் மா அதிபருக்கு பணிப்புரை விடுத்ததை அடுத்து மைத்திரிபால சிறிசேன நேற்று சிஐடியில் ஆஜரானார்.
+Former President Maithripala Sirisena's statement, "I know who carried out the Easter Sunday attack," the Criminal Investigation Department said yesterday that the affidavit was sent to the Attorney General.
+
+The confession from Maithripala Sirisena has been sent to the Attorney General for further legal action by the Criminal Investigation Department officials for more than 6 hours.
+
+Maithripala Sirisena appeared in CIT yesterday after the Public Security Minister Tran Ales issued a directive to the Inspector General of Police to inquire into the former President's comments in Kandy that he was aware of the Easter Sunday attack on April 21, 2019.
 
 ◼️
 
 [Data](articles/0736f34c.json)
 
+[Extended Data](ext_articles/0736f34c.ext.json)
+
 ---
 
-### குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு அரிசி
+### Rice for low -income families
 
 *2024-03-26 09:47:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்த-வருமானம்-பெறும்-குடும்பங்களுக்கு-அரிசி/175-335195) · `ta`
 
-குறைந்த வருமானம் பெறும் 28 இலட்சம் குடும்பங்களுக்கு 20 கிலோகிராம் அரிசி வழங்க அரசாங்கம் தீர்மானித்துள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+The government will distribute 20 kg of rice to 28 lakh low-income families, with 10 kg each in April and May. Public servants' salaries will be paid by April 10th.
 
-ஏப்ரல் மாதத்தில் 10 கிலோகிராம் அரிசியும் மே மாதத்தில் 10 கிலோகிராம் அரிசியும் வழங்க திட்டமிடப்பட்டுள்ளதாக அவர் குறிப்பிட்டார்.
+🟩
 
-"கடந்த ஆண்டு, 28 லட்சம் குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு அரிசி வழங்கினோம். அதேபோல், 28 இலட்சம் குடும்பங்களுக்கு தலா பத்து கிலோகிராம் என இரண்டு தடவைகள் அரிசி வழங்கவுள்ளோம்.
+Finance Minister Ranjith Siyambalapitiya has said that the government has decided to provide 20 kilograms of rice to 28 lakhs of low -income families.
 
-ஏப்ரல் மாதம் புத்தாண்டுக்கு முன் 10 கிலோகிராம் அரிசி வழங்கப்படுவதுடன், மே மாதம் முதல் வாரத்தில் 10 கிலோகிராம் அரிசி வழங்கப்படும்.
+He added that 10 kilograms of rice and 10 kilograms of rice are planned in April.
 
-இதேவேளை, அரச ஊழியர்களின் அதிகரிக்கப்பட்ட சம்பளத்தை எதிர்வரும் ஏப்ரல் மாதம் 10ஆம் திகதிக்கு முன்னர் வழங்க அரசாங்கம் தீர்மானித்துள்ளமை குறிப்பிடத்தக்கது.
+“Last year, we provided rice to 28 lakhs of low -income families. Similarly, we will provide rice to 28 lakh families twice as ten kilograms each.
+
+10 kilograms of rice will be provided before the New Year in April and 10 kilograms of rice will be provided in the first week of May.
+
+Meanwhile, the government has decided to pay the increased salary of public servants before the 10th of April.
 
 ◼️
 
 [Data](articles/615656af.json)
 
+[Extended Data](ext_articles/615656af.ext.json)
+
 ---
 
-### ரயில் பயணிகளுக்கு நல்ல செய்தி
+### Good news for train passengers
 
 *2024-03-26 09:42:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-பயணிகளுக்கு-நல்ல-செய்தி/175-335194) · `ta`
 
-சுற்றுலா பயணிகளை கவரும் வகையில் கொழும்பு கோட்டையில் இருந்து பதுளை வரை விசேட ரயிலை இயக்க நடவடிக்கை எடுக்கப்படும் என போக்குவரத்து அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+Transport Minister Bandula Gunawardena announced a special train from Colombo Fort to Badulla, starting April 5, to attract tourists. The train will run on Fridays, Sundays, Tuesdays, and Thursdays at 6.30 am.
 
-ஏப்ரல் 5 ஆம் திகதி முதல் நானுஓயாவில் இருந்து பதுளை வரை சுற்றுலா பயணிகள் பார்வையிடும் வகையில், விசேட பெட்டியுடன் கூடிய ரயிலும் சேவையில் ஈடுபடவுள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+🟩
 
-அமைச்சர் பந்துல குணவர்தன மேலும் கருத்து தெரிவிக்கையில், "ஏப்ரல் 5 ஆம் திகதி, எல்ல, ஒன்பது ஆர்ச் மற்றும் இந்த சுற்றுலாத்தலங்கள் வழியாக இரண்டு புதிய ரயில்கள் இயக்கப்படும்.
+Transport Minister Bandula Gunawardena has said that a special train will be operated from Colombo Fort to Badulla to attract tourists.
 
-கொழும்பு கோட்டையில் இருந்து பதுளைக்கு தினமும் காலை 6.30 மணிக்கு ஒரு ரயில் மற்றும் வெள்ளி, ஞாயிறு, செவ்வாய் மற்றும் வியாழன் ஆகிய தினங்களில் ஒரு ரயில் இயக்கப்படும்.” என்றார்.
+He added that the train with a special box will be served from April 5 to Nanuoya to Badulla.
+
+Minister Bandula Gunawardena added, “On April 5, two new trains will be operated via El, nine Arch and these tourist destinations.
+
+A train will run from Colombo Fort to Badulla at 6.30 am and a train will run on Friday, Sunday, Tuesday and Thursday. ”said.
 
 ◼️
 
 [Data](articles/02cf2a7b.json)
+
+[Extended Data](ext_articles/02cf2a7b.ext.json)
 
 ---
 
@@ -1732,21 +1772,29 @@ Justice Minister said some of those laws are “almost” drafted now.
 
 ---
 
-### කිතුණු දේවස්ථානවලට විශේෂ ආරක්ෂාවක්
+### Special Protection to Christian Temple
 
 *2024-03-25 20:13:21* · [`adalk`](https://www.ada.lk/breaking_news/කිතුණු-දේවස්ථානවලට-විශේෂ-ආරක්ෂාවක්/11-408794) · `si`
 
-කිතුනුවන්ට විශේෂිත වූ මහ සිකුරාදා දින  සහ පාස්කු දේව මෙහෙයන් වෙනුවෙන් දිවයින පුරා කිතුණු දේවස්ථානයන්හි පොලීසිය සහ ත්‍රිවිධ හමුදාව යොදා විශේෂ ආරක්ෂිත වැඩපිළිවෙළක් ක්‍රියාත්මක කර ඇති බව පොලිස් මූලස්ථානය පවසයි.
+A special security program, involving the Past, Armed Forces, and police, has been activated on the 29th and 31st of this month on the island's Genuians. The Inspector General of Police (IGP) directed the Senior Superintendent of Police to work with church leaders and ordered police stations to monitor incoming churches. The program includes checking church premises and luggage before services.
 
-මෙම මස 29 -යෙදෙන මහ සිකුරාදා දින සහ 31 දිනට යෙදෙන පාස්කු ඉරිදා දිනය වෙනුවෙන්  මෙම විශේෂ ආරක්‍ෂිත වැඩ පිළිවෙළ ක්‍රියාත්මක කර ඇති බවද පොලිස් මූලස්ථානය පවසයි.
+🟩
 
-ප්‍රජා පොලිස් කමිටු මෙන්ම අදාළ දේවස්ථානවල පියතුමන්ලා හා සංවිධායකවරුන් සමග ඒකාබද්ධව මෙම විශේෂ ආරක්ෂිත වැඩ පිළිවෙළ ක්‍රියාත්මක කරන ලෙසට  පොලිස්පතිවරයා විසින් සියලුම කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිවරුන් වෙත උපදෙස් ලබාදී ඇත.
+A special security program has been implemented with the Past on the country and the Armed Forces, the police and the armed forces of the island on the island's Genuians.
 
-අද (26) සහ හෙට (27)  යන දෙදින තුළ පොලිස් ස්ථාන අධීක්ෂණය කරන දිස්ත්‍රික්භාර නිලධාරීන්ද තම දිස්ත්‍රික්කයට අයත් සෑම පොලිස් වසමකම පිහිටි බැතිමතුන් වැඩි වශයෙන් පැමිණෙන දේවස්ථාන තෝරාගෙන ඒවාට  අදාළ ආරක්ෂක කටයුතු පිළිබඳව පුද්ගලිකවම සොයා බලන ලෙසටත් පොලිස්පතිවරයා උපදෙස් ලබා දී ඇත .
+The special security program has been implemented on the 29th Friday and 31st on Friday and 31st on this month.
 
-...
+The Inspector General of Police has instructed the Senior Superintendent of Police to implement this special security program to implement this special security program in conjunction with the father and organizers of the masses.
+
+The Inspector General of Police (IGP) has also instructed the police stations to oversee the incoming churches in every police division today (26) and tomorrow.
+
+The defense program further states that the defense works of the security program will include the defense program, to check the premises and luggage that the premises before commencement of the church premises, police headquo.
+
+◼️
 
 [Data](articles/fa62ac36.json)
+
+[Extended Data](ext_articles/fa62ac36.ext.json)
 
 ---
 
@@ -2028,7 +2076,7 @@ ECONOMYNEXT- Sri Lanka’s Medical Association has opposed the lowering of the a
 
 “In a country where Healthy Sexual and Relationship Education is not being taught in schools, a child of 14 years who consents for sex is mostly unaware of the potential repercussions of the sexual act – i.e. early unwanted pregnancy, and exposure to sexually transmitted infections. Hence, the consent given, cannot be taken to imply informed consent,” the SLMA said in a statement after the Minister of Justice called for the age of consent to be lowered.
 
-In Sri Lanka sexual education is woefully inadequate. Attempts to introduce comprehensive sexual education in the school curriculum have often been met with vocal opposition, mainly from the clergy who claim it damages Sri Lanka’s ‘culture’.
+In Sri Lanka sexual education is woefully inadequate. Attempts to introduce comprehensive sexual education in the school curriculum of lower Grades have often been met with vocal opposition, mainly from the clergy who claim it damages Sri Lanka’s ‘culture’.
 
 ...
 

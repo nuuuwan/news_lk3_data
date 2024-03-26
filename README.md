@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 21:34:09**
+As of **2024-03-26 21:53:04**
 
 ## Newspaper Stats
 
@@ -26,33 +26,39 @@ adaderanasinhalalk | 2,468
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,344 (100.0%) of 15,347 articles have been extended.
+15,347 (100.0%) of 15,347 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### ශ්‍රී ලංකාවට එරෙහි දෙවන තරගයට ශකීබ් ව කැඳවයි
+### Shakuck holds second match against Sri Lanka
 
 *2024-03-26 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194972) · `si`
 
-ශ්‍රී ලංකා කණ්ඩායම සමග පැවැත්වෙන දෙවන ටෙස්ට් තරගය සඳහා බංග්ලාදේශ කණ්ඩායමේ තුන් ඉරියව් ක්‍රිඩක ශකීබ් අල් හසන් ව කැඳවා තිබේ.
+Shakuck, alias al-Hassan, returns to Test cricket against Sri Lanka after a year, having been elected to Parliament. His last Test was in April 2023, and he's been treated for a disorder in Singapore. The second Test starts on March 30.
 
-ඉකුත් දා බංග්ලාදේශ මහ මැතිවරණයෙන් පහසු ජයක් වාර්තා කරමින් පාර්ලිමේන්තු මන්ත්‍රීවරයෙක් ලෙස ද ඔහු තේරී පත්වී තිබුණි.
+🟩
 
-හිටපු නායක ශකීබ් අවසන් වරට ටෙස්ට් තරගයක් ක්‍රීඩා කළේ 2023 අප්‍රේල් මාසයේදීය.
+Shakeb al Hasan al-Hassan al-Hassan aliason al bezan al-Hassan for the second Test with the Sri Lankan team.
 
-ඔහුගේ ඇසක ඇතිවී ඇති ආබාධයක් හේතුවෙන් ටෙස්ට් තරග සඳහා සහභාගී වීමෙන් ඔහු වැළැකී සිටි බව වාර්තා විය.
+He was elected as a Member of Parliament in the Bangladesh general election recently.
 
-අනතුරුව ඔහු එම රෝගී තත්ත්වය සඳහා ප්‍රතිකාර ගැනීමට සිංගප්පූරුවට ද ගොස් තිබුණි.
+Former chief Shakeib, last, played a Test match in April 2023.
 
-ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර දෙවෙනි ටෙස්ට් තරගය මාර්තු 30 වනදා ආරම්භ වෙයි.
+It was reported that he had not abstained from participating in Tests due to a disorder.
 
-ඒ අනුව ශ්‍රී ලංකාවට එරෙහි දෙවෙනි ටෙස්ට් තරගයේ බංග්ලාදේශ සංචිතය වන්නේ,
+He had also gone to Singapore to take treatment for the disease.
+
+The second Test match between Sri Lanka and Bangladesh will commence on March 30.
+
+The Bangladesh squad of the second Test against Sri Lanka is the Bangladesh squad,
 
 ◼️
 
 [Data](articles/866b8414.json)
+
+[Extended Data](ext_articles/866b8414.ext.json)
 
 ---
 
@@ -67,6 +73,8 @@ Organized by the Ministry of Environment in collaboration with the United Nation
 ...
 
 [Data](articles/f73d8516.json)
+
+[Extended Data](ext_articles/f73d8516.ext.json)
 
 ---
 
@@ -226,19 +234,29 @@ Political parties should be responsible for the selection of the best parties in
 
 ---
 
-### පාතාලයට එරෙහිව දුන් නියෝග නිසා මහේස්ත්‍රාත් තිළිණ ගමගේට මරණ තර්ජන
+### Magistrate Thilina Gamage threatens Magistrate Thilina Gamage due to orders against underworld
 
 *2024-03-26 19:42:32* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලයට-එරෙහිව-දුන්-නියෝග-නිසා-මහේස්ත්‍රාත්-තිළිණ-ගමගේට-මරණ-තර්ජන/11-408817) · `si`
 
-පාතාලයට සම්බන්ධකම් කියන සංවිධානාත්මක අපරාධකරුවන් සම්බන්ධයෙන් දුන් නියෝග හේතුවෙන් නාඳුනන තුවක්කුකරුවෙකු විසින් කොටුව මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා ඝාතනය කිරීමට උත්සාහ කිරීමක් පිළිබඳ ලැබුණු තොරතුරකට අනුව තිළිණ ගමගේ මහතාගේ ආරක්‍ෂාව තර කිරීමට පියවර ගෙන ඇත.
+Thilina Gamage, a magistrate, is under threat due to orders against the underworld. An unidentified gun has been used to protect her. Investigations by the CID into an assassination attempt on her life have begun, with preliminary findings indicating a possible shooter within 150 meters.
 
-දුර සිට ග්‍රේනේඩ් විදිනයක් භාවිත කරමින් නන්නාඳුනන තුවක්කුකරුවෙක් විසින් ප්‍රහාරයක් එල්ල කර තිළිණ ගමගේ මහතා ඝාතනය කිරීමට උත්සාහ කර ඇති බවට ලැබුණු තොරතුරකට අනුව මහජන ආරක්ෂක ඇමති ටිරාන් අලස් මහතා විසින් පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාට දුන් උපදෙස්වලට අනුව තිළිණ ගමගේ මහතාගේ ආරක්‍ෂාව තර කිරීමට පියවර ගෙන ඇත.
+🟩
 
-ඔත්තුකරුවකු විසින් මහජන ආරක්ෂක ඇමති ටිරාන් අලස් මහතාට යොමු කළ ලිපියකට අනුව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ නියෝගයක් මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සිද්ධිය සම්බන්ධයෙන් විමර්ශන ආරම්භ කර ඇත.
+According to an unidentified gun, an unidentified gun, has taken steps to promote the security of Thilina Gamage.
 
-...
+According to information that a donid gunist has been attacked by a distance from a distance, Thilina Gamage has attempted to assassinate the murder of Thilina Gamage.
+
+According to a letter to the Minister of Defense Minister Tiran Alles, a letter sent to the Minister of Defense Tiran Alles, the CID has commenced investigations into the incident.
+
+The Criminal Police Officers who initiated the insign from the telephone was to be questioned by the magistrate Thilina Gamage have revealed all the information about the person who had requested the firear.
+
+Preliminary investigations have revealed that a person who is about 150 meters can be launched.
+
+◼️
 
 [Data](articles/d3bf3532.json)
+
+[Extended Data](ext_articles/d3bf3532.ext.json)
 
 ---
 

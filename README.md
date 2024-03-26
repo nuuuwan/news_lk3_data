@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 09:33:34**
+As of **2024-03-26 09:52:27**
 
 ## Newspaper Stats
 
-*Scraped **15,180** Articles*
+*Scraped **15,185** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,117 @@ economynextcom | 818
 dailyftlk | 819
 islandlk | 843
 adalk | 1,292
-tamilmirrorlk | 1,822
-adaderanalk | 1,823
+adaderanalk | 1,824
+tamilmirrorlk | 1,825
 virakesarilk | 2,128
 dailymirrorlk | 2,343
-adaderanasinhalalk | 2,437
+adaderanasinhalalk | 2,438
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,178 (100.0%) of 15,180 articles have been extended.
+15,180 (100.0%) of 15,185 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### யாழ்.மீசாலை ஏ-9 வீதியில் விபத்து - ஒருவர் உயிரிழப்பு
+### மைத்திரியின் வாக்குமூலம்: AG க்கு அனுப்பிவைப்பு
+
+*2024-03-26 09:32:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-வாக்குமூலம்-AG-க்கு-அனுப்பிவைப்பு/175-335193) · `ta`
+
+ஈஸ்டர் ஞாயிறு தாக்குதலை நடத்தியது யார் என்பது தனக்கு தெரியும் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன கூறியிருந்தமை தொடர்பில், குற்றப் புலனாய்வு திணைக்களத்திற்கு வழங்கிய வாக்குமூலம் சட்டமா அதிபருக்கு (Attorney General )அனுப்பி வைக்கப்பட்டுள்ளதாக   தெரிவிக்கப்பட்டுள்ளது.
+
+குற்றப் புலனாய்வு திணைக்கள அதிகாரிகளால் 6 மணித்தியாலங்களுக்கு மேலாக  மைத்திரிபால சிறிசேனவிடம் இருந்து பெறப்பட்ட வாக்குமூலம் மேலதிக சட்ட நடவடிக்கைகளுக்காக சட்டமா அதிபருக்கு அனுப்பி வைக்கப்பட்டுள்ளது. இந்த வாக்குமூலம் திங்கட்கிழமை ​(25) பெற்றுக்கொள்ளப்பட்டமை குறிப்பிடத்தக்கது.
+
+2019 ஆம் ஆண்டு ஏப்ரல் 21 ஆம் திகதி ஈஸ்டர் ஞாயிறு தாக்குதலில் ஈடுபட்டவர்கள் தொடர்பில் தமக்குத் தெரியும் என முன்னாள் ஜனாதிபதி கண்டியில், மார்ச் 22ஆம் திகதியன்று  தெரிவித்த கருத்து தொடர்பில் விசாரணை நடத்துமாறு பொது பாதுகாப்பு அமைச்சர் டிரான் அலஸ்,  பொலிஸ் மா அதிபருக்கு பணிப்புரை விடுத்ததை அடுத்து  மைத்திரிபால சிறிசேன சிஐடியில், திங்கட்கிழமை (25) ஆஜரானார்
+
+◼️
+
+[Data](articles/89cbebc1.json)
+
+---
+
+### 100 மி.மீற்றருக்கு அதிகமான பலத்த மழை பெய்யக்கூடும்
+
+*2024-03-26 09:31:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-மி-மீற்றருக்கு-அதிகமான-பலத்த-மழை-பெய்யக்கூடும்/175-335192) · `ta`
+
+தென் மாகாணம், அம்பாறை மற்றும் மொனராகலை மாவட்டங்களில் இன்று (26) 100 மி.மீற்றருக்கு  மேல் பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மேல், சப்ரகமுவ மற்றும் தென் மத்திய மாகாணங்களில் மாலை அல்லது இரவு வேளைகளில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுவதாக திணைக்களம் குறிப்பிட்டுள்ளது.
+
+கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் பொலன்னறுவை மாவட்டத்திலும் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+மத்திய, சப்ரகமுவ மற்றும் ஊவா மாகாணங்களிலும் களுத்துறை, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் காலை வேளையில் சில இடங்களில் பனிமூட்டமான நிலை எதிர்பார்க்கப்படுகின்றது.
+
+இடியுடன் கூடிய மழையுடன் கூடிய தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது. R
+
+◼️
+
+[Data](articles/983c2ccf.json)
+
+---
+
+### පොලීසියේ ටී - 56 ගිනිඅවියක් අතුරුදන්
+
+*2024-03-26 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194939) · `si`
+
+මාතලේ, විල්ගමුව පොලිස් ස්ථානයේ ප්‍රධාන ගේට්ටුවේ ආරක්ෂිත ස්ථානයේ භාවිත කළ ටී 56 ගිනිඅවිය අතුරුදන්ව ඇති බව වාර්තා වේ.
+
+ගිනිඅවිය අස්ථාන ගතවීම සම්බන්ධයෙන් පොලීසිය මේ වනවිට පරීක්ෂණයක් ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/b230560c.json)
+
+---
+
+### பாணந்துறை விபத்தில் இருவர் பலி: ஒருவர் காயம்
+
+*2024-03-26 09:26:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/பாணந்துறை-விபத்தில்-இருவர்-பலி-ஒருவர்-காயம்/95-335191) · `ta`
+
+பாணந்துறை பின்வத்த பிரதேசத்தில் செவ்வாய்க்கிழமை(26) காலை இடம்பெற்ற வாகன விபத்தில் இருவர் உயிரிழந்துள்ளதுடன் ஒருவர் படுகாயமடைந்துள்ளதாக பின்வத்த பொலிஸார் தெரிவித்தனர்.
+
+விபத்தில் உயிரிழந்தவர்கள் பாணந்துறை மற்றும் பின்வத்த பிரதேசங்களைச் சேர்ந்தவர்கள் என பொலிஸார் தெரிவித்தனர்.
+
+ஒரு மோட்டார் சைக்கிள் வாத்துவாவில் இருந்து வந்து பின்வத்த பிரிவென வீதியில் திரும்ப முற்பட்ட போது மற்றைய மோட்டார் சைக்கிள் பாணந்துறையில் இருந்து வந்து நேருக்கு நேர் மோதியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/52c6c9d1.json)
+
+---
+
+### T-56 firearm reported missing from Wilgamuwa police station
+
+*2024-03-26 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98207/t-56-firearm-reported-missing-from-wilgamuwa-police-station) · `en`
+
+The T-56 firearm used at the main gate security checkpoint of the Wilgamuwa police station in Matale is reported missing, Ada Derana learns.
+
+Police said investigations are underway to recover the missing firearm.
+
+◼️
+
+[Data](articles/dd85492f.json)
+
+---
+
+### Accident on Jaffna Mr. A -9 road
 
 *2024-03-26 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179706) · `ta`
 
-யாழ்ப்பாணம் மீசாலை  ஏ-9 வீதியில்  சொகுசு பஸ்  வீதியில் சென்றவேளை எதிரே வந்த மோட்டார் சைக்கிளை மோதித் தள்ளியதில்  மோட்டார் சைக்கிளில் வந்தவர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
+A motorcycle crashed into a luxury bus on the A-9 road in Jaffna, killing the rider.
+
+🟩
+
+A motorcycle was killed on the spot when a motorcycle crashed into the luxury bus road on the A-9 road in Jaffna.
 
 ◼️
 
 [Data](articles/5b2f02a2.json)
+
+[Extended Data](ext_articles/5b2f02a2.ext.json)
 
 ---
 
@@ -823,6 +909,8 @@ The Alcohol and Drug Information Centre (ADIC) in a statement recently called on
 ...
 
 [Data](articles/68261b1f.json)
+
+[Extended Data](ext_articles/68261b1f.ext.json)
 
 ---
 
@@ -2101,125 +2189,5 @@ Directed by Director n. Senthil, Yogi Babu, Chuppu Panchu, Lizzie Antony, Azmita
 [Data](articles/6783838e.json)
 
 [Extended Data](ext_articles/6783838e.ext.json)
-
----
-
-### People's Selvan 'Vijay Sethupathi's first look
-
-*2024-03-25 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179689) · `ta`
-
-Vijay Sethupathi, known as 'People's Selvan', makes his debut in the Tamil film industry through the website and television, drawing attention. Sivakarthikeyan, the film's editor, is also famous. The film, 'Wife', features Anjali Nair, a debut director, and is produced by Olympia Movie Company. The shooting is ongoing, and the first look has been released, attracting fans. Vijay's previous roles in comedy and character roles have earned him the love of leading stars in the Tamil film industry.
-
-🟩
-
-In the present context, it is easy to introduce the hero of the story in the Tamil film industry. This is through the website ... By television ... Make a public debut and at least introduced the show host.. The boundary is drawn to the riot.
-
-Sivakarthikeyan, the editor of the film, was fame.. Following RJ Vijay, he makes his debut as a hero in the film 'Wife'.'People Selvan' Vijay Sethupathi has congratulated the film crew.
-
-Debut director r. Actress Anjali Nair has acted in the upcoming film 'Waif' directed by Hemanathan in the upcoming film 'Nedunalvadai' and 'Danakkan' as the hero of the story.. The film crew has not officially released details of other star actors starring in the film. K. A.. Jen Martin composes music for the film, which is being recorded by Sakthivel. The film is being produced by the Olympia Movie Company, which is being produced by the producer Jayanthi Ambedkumar on behalf of the Olympia Movie Company.. The film is presented by famous producer Ambedkumar.
-
-...
-
-[Data](articles/42f0e434.json)
-
-[Extended Data](ext_articles/42f0e434.ext.json)
-
----
-
-### 'Koluralele robbery is a beauty ..'
-
-*2024-03-25 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179691) · `ta`
-
-"Koluralele robbery's beauty captivates fans. Jibran's 'Kollarale Kallai Kallai Beauty' in 'Studiyan' impresses. Features S. Under. Ssh. Kadir, Palaniappan, and others. Produced by Fortune Studios, M. South, and D. Daniel Christopher. First song and lyrical video released, sung by Chandru and Pradeep Kumar, achieving over a million views."
-
-🟩
-
-The song that reflects romantic feelings in Tamil cinema songs has a separate mouse in younger generation fans.
-
-If the beginning lines and strings of the song have been described as subtle and simple, you will be in the minds of the fans.
-
-In the film 'Studiyan', which will be released soon, the music composer Jibran's music is 'Kollarale Kallai Kallai Beauty'.. 'The song' has impressed the fans' minds.
-
-Director s. Under. Ssh. Kadir, Director and Actor. Palaniappan, Master Mahendran, Yuva Lakshmi, Anbudasan and many others have been cast.
-
-Jibran has composed the film, which has been recorded by Sridhar. The film is being produced by Fortune Studios. M.. South and D. Daniel Christopher is also a co -producer.
-
-The shooting of the film is over and the final phase of work is going on. In this case, the first song and the lyrical video for the song has been released. The song is sung by songwriter Chandru and sung by background singer Pradeep Kumar.
-
-...
-
-[Data](articles/1fa9b083.json)
-
-[Extended Data](ext_articles/1fa9b083.ext.json)
-
----
-
-### Santhanam film crew relying on college students
-
-*2024-03-25 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/179686) · `ta`
-
-The Santhanam film crew is using college students for marketing, focusing on private college students for promotional materials. The film, "Inga I Kingu," features the first song "Mayonay," sung by Jonita Gandhi and Shaun Roldan, but some criticize the male voice's suitability.
-
-🟩
-
-To advertise the movie starring leading star actors in the Tamil film industry.. The film crew, including the production company and the producers, is beginning to adopt a new approach.
-
-According to a statistical account that the younger generation is most likely to visit the filmmaker, the leading star actors are currently searching for students attending private college to publish their films first look, title look poster, single track, teaser and trailer.
-
-More than a thousand students gather and cheerful voice.. Such a trend is increasing.
-
-In this case, Santhanam starred in a small investment film, 'Inga I Kingu' is the first song.. The film crew has been released on a private college campus in Chennai without any special guests.
-
-Director n. Santhanam, Priyalaya, Thambi Ramaiah, Vivek Prasanna, Bala Saravanan, Muniskant, Maran, Sesu, Swaminathan, Kool Suresh. Om Narayan's cinematography. Iman has composed music.
-
-...
-
-[Data](articles/c097354d.json)
-
-[Extended Data](ext_articles/c097354d.ext.json)
-
----
-
-### Censourated for the School Cricket Association
-
-*2024-03-25 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194917) · `si`
-
-The Colombo District Court has filed a case against the School Cricket Association, involving Ananda College, Colombo Dharmasoka Vass College, Wennappuwa, and Colombo St. Sebastian College, Kandy. The school court demanded that two groups in one category of a tournament be marked as far as two groups in one category. The case was issued in a temporary order for the 2023-24 school organized schools, effective until April 8, with further proceedings pending.
-
-🟩
-
-The Colombo District Court recently had filed a case against the school court against the school cricket Association.
-
-Ananda College, Colombo, Colombo Dharmasoka Vass College, Wennappuwa, Colombo St. Sebastian College, Kandy, Colombo.
-
-The school court demanded that the case is as far as two groups in one category in one of the tournaments and issue the two groups in the mark.
-
-The case was issued in the Colombo District Court in a temporary order in the 2023-24 school organized schools.
-
-The injunction order will be effective until April 8 and the case will be taken up again.
-
-◼️
-
-[Data](articles/6753b0c8.json)
-
-[Extended Data](ext_articles/6753b0c8.ext.json)
-
----
-
-### Nissan to launch 30 new models by 2027
-
-*2024-03-25 17:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nissan-to-launch-30-new-models-by-2027/108-279560) · `en`
-
-Japan, March 25 (Reuters) - Nissan Motor (7201.T), opens new tab said on Monday it would launch 30 new models over the next three years and aim to raise its global sales by 1 million vehicles while cutting costs to improve profitability.
-
-Announcing an update to its medium-term business plan, Japan's third-largest automaker by sales said it would target an operating profit margin of over 6% by end of the financial year to March 2027 and total shareholder returns of more than 30%.
-
-Nissan was a pioneer in electric vehicles with its all-battery-powered Leaf but its EV efforts have been eclipsed by the likes of U.S. rival Tesla (TSLA.O), opens new tab and Chinese leader BYD (002594.SZ), opens new tab, including in the world's biggest car market, China.
-
-...
-
-[Data](articles/238bd65e.json)
-
-[Extended Data](ext_articles/238bd65e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 10:50:54**
+As of **2024-03-26 11:02:56**
 
 ## Newspaper Stats
 
-*Scraped **15,199** Articles*
+*Scraped **15,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,88 @@ newsfirstlk | 363
 economynextcom | 818
 dailyftlk | 819
 islandlk | 843
-adalk | 1,293
+adalk | 1,295
 adaderanalk | 1,826
 tamilmirrorlk | 1,828
-virakesarilk | 2,131
-dailymirrorlk | 2,346
-adaderanasinhalalk | 2,440
+virakesarilk | 2,133
+dailymirrorlk | 2,347
+adaderanasinhalalk | 2,442
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,195 (100.0%) of 15,199 articles have been extended.
+15,199 (100.0%) of 15,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### "මම ඉවත් වෙන්නේ නෑ..."-මහ බැංකු අධිපති
+
+*2024-03-26 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194943) · `si`
+
+තම සේවකයින්ගේ වැටුප් වැඩිකිරීම හේතුවෙන් ඇති වූ අර්බුදකාරී තත්ත්වය හමුවේ තමා මහ බැංකු අධිපති ධුරයෙන් ඉවත් නොවන බව ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+
+◼️
+
+[Data](articles/9bc2506a.json)
+
+---
+
+### மீனுக்கு வீசிய வலையில் தானே சிக்கி உயிரிழந்த இளைஞர்: வாழச்சேனையில் சம்பவம்!
+
+*2024-03-26 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179713) · `ta`
+
+மட்டக்களப்பு வாழச்சேனை,  புனானையில் குளம் ஒன்றில்  மீன் பிடித்துக் கொண்டிருந்த இளைஞர் ஒருவர்  தான் பயன்படுத்திய வலையில் சிக்கி உயிரிழந்துள்ளார்.
+
+சம்பவம் தொடர்பில்,   வாழச்சேனை பொலிஸாரிடம்  உயிரிழந்தவரின் தந்தை நேற்று திங்கட்கிழமையன்று (25) முறைப்பாடு செய்துள்ளார்.
+
+உயிரிழந்தவர் சுகவீனம் காரணமாக வேலையின்றி வீட்டில் இருந்ததாகவும் இந்நிலையில்  நேற்று குளத்தில் மீன்பிடித்துக் கொண்டிருந்த போது  அவர் பயன்படுத்திய மீன்பிடிவலையில் சிக்கி நீரில் மூழ்கி உயிரிழந்துள்ளதாகவும் விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/0d46f0c7.json)
+
+---
+
+### රැඳවියන්ට ආදායමක් ගන්න  බන්ධනාගාරවල නිෂ්පාදන කර්මාන්ත අරඹන්න යයි
+
+*2024-03-26 10:43:42* · [`adalk`](https://www.ada.lk/breaking_news/රැඳවියන්ට-ආදායමක්-ගන්න--බන්ධනාගාරවල-නිෂ්පාදන-කර්මාන්ත-අරඹන්න-යයි/11-408800) · `si`
+
+අධිකරණවලින් දඬුවම් ලබා   බන්ධනාගාරගතව සිටින රැඳවියන් පුනරුත්ථාපනය කර  යහපත් පුරවැසියන් ලෙස සමාජගත කිරීමේ අරමුණෙන් දිවයිනේ අමතර ඉඩ පහසුකම් සහිත බන්ධනාගාරවල රැඳවියන්ගේ ශ්‍රම දායකත්වය ලබාදී  පුද්ගලික ව්‍යවසායකත්වයන් යටතේ  නිෂ්පාදන   කර්මාන්ත ඒකක  ආරම්භ කිරීමට   සැලසුම් කර ඇතැයි බන්ධනාගාර කොමසාරිස් ජගත් වීරසිංහ මහතා පැවසීය.
+
+ඔවුන්ගේ ශ්‍රමය සිරගත නොකොට පලදායී කටයුත්තකට යොදවා ඔවුනට බන්ධනාගාරය තුළදීම ආදායම් මාර්ගයක් සැලසීම මෙම වැඩපිළිවෙළ මගින් අපේක්ෂිත බව ඒ මහතා පැවසීය.
+
+බන්ධනාගාර දෙපාර්තමේන්තුව සහ කර්මාන්ත සංවර්ධන මන්ඩලය අතර ඇතිකරගත් අවබෝධතා  ගිවිසුමකට අනුව මෙම වැඩ  පිළිවෙල ක්‍රියාත්මක කිරීම සඳහා මේ වන විට මෙම මස 31 දක්වා  ආයෝජකයන්ගෙන් ඉල්ලුම්පත් කැඳවා ඇතැයිද බන්ධනාගාර කොමසාරිස්වරයා පැවැසීය.
+
+මෙම වැඩ පිළිවෙලේ මුල් අදියර යටතේ මහර,වටරැක,කුරුවිට,වීරවිල,මීතිරිගල, අනුරාධපුරය,කන්දේවත්ත  ,අඟුණකොලපෑලැස්ස,බදුල්ල තල්දෙන,මීගමුව පල්ලංසේන, සහ  පල්ලෙකැලේ යන බන්ධනාගාර එකොළහ  තුළ කර්මාන්ත ඒකක පිහිටුවීමට යෝජිත ය.
+
+...
+
+[Data](articles/5d9c17b9.json)
+
+---
+
+### சீனா அரசாங்கத்தின் ஆதரவுடன் உலகளாவிய ஹக்கிங் நடவடிக்கை - மில்லியன் கணக்கான அமெரிக்கர்களின் இணைய கணக்குகள்; ஊடுருவப்பட்டன- அமெரிக்கா தெரிவிப்பு
+
+*2024-03-26 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/179717) · `ta`
+
+அமெரிக்காவைசேர்ந்த  மில்லியன் கணக்கானவர்கள் சீனாவின் இணைய வழி ஹக்கிங் நடவடிக்கைகளில் சிக்குண்டமை குறித்த அதிர்ச்சி தகவல்கள் வெளியாகியுள்ளன.
+
+மில்லியன் கணக்கான அமெரிக்கர்களின் இணையவழி கணக்குகள் ஹக்கிங்கில் சிக்குண்டுள்ளதாக எவ்பிஐயும் அமெரிக்க நீதி திணைக்களமும் தெரிவித்துள்ளன.
+
+குற்றச்சாட்டப்பட்டுள்ள ஏழு சீன பிரஜைகளும் 14 வருடங்களிற்கு மேல் இவ்வாறான குற்றசெயலில் ஈடுபட்டனர் என அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+குற்றச்சாட்டு சுமத்தப்பட்டுள்ள ஏழு நபர்கள் குறித்த விபரங்களைதருபவர்களிற்கு 10 மில்லியன் அமெரிக்க டொலர் சன்மானம் வழங்கப்படும் என அமெரிக்கா அறிவித்துள்ளது.
+
+சீனாவை விமர்சனம் செய்யும் அமெரிக்கர்கள் வெளிநாட்டவர்கள் வர்த்தகர்கள் அரசியல்வாதிகளை சீனாவை சேர்ந்தஇந்த நபர்கள் இலக்குவைத்தனர் என அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/7de518af.json)
+
+---
 
 ### Business couple nabbed with live animals at BIA
 
@@ -48,6 +114,8 @@ The young business couple is a resident of the Puwakpitiya area in Avissawella, 
 
 [Data](articles/5a223f42.json)
 
+[Extended Data](ext_articles/5a223f42.ext.json)
+
 ---
 
 ### Veteran singer Chandra Kumara Kandanarachchi passes away
@@ -60,21 +128,51 @@ Veteran Sri Lankan singer Chandra Kumara Kandanarachchi passed away on Tuesday m
 
 [Data](articles/e36bd80d.json)
 
+[Extended Data](ext_articles/e36bd80d.ext.json)
+
 ---
 
-### சீன கால்பந்தாட்டச் சங்கத்தின் முன்னாள் தலைவருக்கு ஆயுள் சிறை
+### Life jail for former president of the Chinese Football Association
 
 *2024-03-26 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179714) · `ta`
 
-சீன கால்பந்தாட்டச் சங்கத்தின் முன்னாள் தலைவர் சென் ஷியுவனுக்கு எதிரான இலஞ்சக் குற்றச்சாட்டு வழக்கில், அவருக்கு ஆயுட்கால சிறைத்தண்டனை விதித்து அந்நாட்டு நீதிமன்றம் தீர்ப்பளித்துள்ளது.
+Former Chinese Football Association president Sen Shywan sentenced to life imprisonment for receiving $11 million in bribes, causing serious consequences in the country's football sector.
 
-11 மில்லியன் டொலர் பெறுமதியான இலஞ்சங்களைப் பெற்றிருந்தார் என ஷியுவான் மீது குற்றம் சுமத்தப்பட்டிருந்தது.
+🟩
 
-ஷியுவன் பெற்ற இலஞ்சங்களின் தொகை மிகப் பெரியது எனவும், அவர் நாட்டின் கால்பந்தாட்டத்துறைக்கு பாரதூரமான பின்விளைவுகளை ஏற்படுத்தியுள்ளார் எனவும்,  சீன கம்யூனிஸ்ட் கட்சியினனால் நடத்தப்படும் பத்திரிகை தெரிவித்துள்ளது.
+The court has sentenced him to life imprisonment in a bribery charges against former Chinese Football Association, Sen Shywan.
+
+Shiwan was accused of receiving bribes worth $ 11 million.
+
+The magazine run by the Chinese Communist Party said that the amount of bribes received by Shiyuan was huge and he had contributed serious consequences to the country's football sector.
 
 ◼️
 
 [Data](articles/c092f596.json)
+
+[Extended Data](ext_articles/c092f596.ext.json)
+
+---
+
+### නීතිඥ වෘත්තීයේ නිරත වීම වළක්වාලමින් නීතිඥවරියකට තහනම් නියෝගයක්
+
+*2024-03-26 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194942) · `si`
+
+අධිකරණ කාර්යාලයේ තිබූ නඩු ගොනුවක ලේඛනයක් බලහත්කාරයෙන් උදුරාගෙන එය සපා කා එය විනාශ කළේ යැයි චෝදනා ලබා සිටින කැකිරාව ප්‍රදේශයේ නීතිඥවරියකට නඩු විභාගය අවසන් වන තෙක් නීතිඥ වෘත්තීයේ නිරත වීම තහනම් කරමින් ශ්‍රේෂ්ඨාධිකරණය විසින් නියෝගයක් නිකුත් කර තිබේ.
+
+එම සිද්ධිය සම්බන්ධයෙන් අදාළ නීතිඥවරියට එරෙහිව ඉදිරිපත් කර තිබූ චෝදනා පත්‍රයක් සලකා බැලීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කෙරුණි.
+
+අගවිනිසුරු ජයන්ත ජයසූරිය, ගාමිණී අමරසේකර සහ ඒ.එච්.එම්.ඩී.නවාස් යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් හමුවේ මෙම චෝදනා පත්‍රය කැඳවනු ලැබීය.
+
+කැකිරාව මහෙස්ත්‍රාත් අධිකරණයේ පැවති නඩුවකට අදාළව උසාවි කාර්ය මණ්ඩලය භාරයේ තිබූ නඩු ගොනුවක ලේඛනයක් බලහත්කාරයෙන් උදුරාගෙන එය සපා කා ඊට හානි කළේ යැයි චෝදනා කරමින් අදාළ නීතිඥවරියට එරෙහිව චෝදනා ගොනුකර තිබිණි.
+
+මේ තුළින් අදාළ නීතිඥවරිය නීතිඥ ආචාර්ය ධර්ම උල්ලංඝනය කර ඇති බවටත් අදාළ චෝදනා පත්‍රය මඟින් චෝදනා නඟා තිබිණි.
+
+මෙම නීතිඥවරියට එල්ල වී තිබෙන චෝදනා ඉතා බරපතළ යැයි පෙන්වා දුන් ත්‍රිපුද්ගල වනිසුරු මඩුල්ල මෙවැනි ක්‍රියා
+
+...
+
+[Data](articles/f19ce1d4.json)
 
 ---
 
@@ -93,6 +191,8 @@ Accordingly, a total of 63 underworld gang members have been arrested so far and
 ◼️
 
 [Data](articles/f1dd32e3.json)
+
+[Extended Data](ext_articles/f1dd32e3.ext.json)
 
 ---
 
@@ -365,6 +465,24 @@ When a motorcycle arrived in Vatuwa and returned to the street, the other motorc
 [Data](articles/52c6c9d1.json)
 
 [Extended Data](ext_articles/52c6c9d1.ext.json)
+
+---
+
+### Customs seize rats among smuggled animals on SriLankan flight
+
+*2024-03-26 09:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Customs-seize-rats-among-smuggled-animals-on-SriLankan-flight/108-279621) · `en`
+
+Katunayake, March 6 (Daily Mirror) - A business couple was arrested last evening at the arrival lounge of the Bandaranaike International Airport (BIA) by Customs officials for attempting to smuggle 88 live animals worth Rs. 4 million into the country.
+
+The animals were imported from Thailand while violating Sri Lanka's Wildlife and Flora Ordinance, Animal Diseases Act and Customs Ordinance.
+
+The suspects were arrested with the live animals following a joint raid conducted by a group of officials from the Revenue Monitoring Division of the Customs, the Biodiversity Unit of the Customs, and the Animal Quarantine Institute of the Department of Agriculture.
+
+The young business couple is a resident of the Puwakpitiya area in Avissawella, and they arrived at the BIA at 4.35 p.m. from Bankok via SriLankan Airlines flight UL-405.
+
+...
+
+[Data](articles/16c0d05b.json)
 
 ---
 
@@ -1734,6 +1852,22 @@ Maithripala Sirisena has arrived at the Department of Investigation Department t
 
 ---
 
+### ඉදිරි ජනපතිවරණය රු. කෝටි 975ක වියදමක්
+
+*2024-03-25 20:29:21* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-ජනපතිවරණය-රු--කෝටි-975ක-වියදමක්/11-408796) · `si`
+
+ඉදිරි ජනාධිපතිවරණය පැවැත්වීම සඳහා රුපියල් කෝටි 975ක වියදමක් දැරීමට සිදුවන බව මැතිවරණ කොමිසම සඳහන් කරයි.අල්ලස දූෂණ නාස්තියට එරෙහි පුරවැසි බලය සංවිධානයේ ජාමුනි කමන්ත තුෂාර මහතා තොරතුරු දැන ගැනීමේ පනත යටතේ කළ ඉල්ලීමකට අනුව මැතිවරණ කොමිසමේ අතිරේක මැතිවරණ කොමසාරිස් සහ එහි තොරතුරු නිලධාරී බී.සී.පී. කුලරත්න මහතා ඒ බව සඳහන් කළේය.
+
+එම මැතිවරණයේ වැඩිම වියදම දැරීමට සිදුව ඇත්තේ කාර්ය මණ්ඩල වැටුප්, අතිකාල සහ ගමන් වියදම් වෙනුවෙන් බවත්, එය රුපියල් කෝටි 27 1/2ක වියදමක් වශයෙන් ඇස්තමේන්තු කොට ඇති බවත් සඳහන් කරන කුලරත්න මහතා වාහන කුලී වෙනුවෙන් රුපියල් කෝටි 15ක වියදමක් දැරීමට සිදුවන බවට ඇස්තමේන්තු කර ඇතැයිද සඳහන් කළේය.
+
+මැතිවරණයේ මුද්‍රණ වියදම් වෙනුවෙන් රුපියල් කෝටි 14 ක වියදමක් දැරීමට සිදුවන බවත්, ලිපි ද්‍රව්‍ය හා කාර්යාල භාණ්ඩ වෙනුවෙන් රුපියල් කෝටි 13ක වියදමක් දැරීමට සිදුවන බවත් අතිරේක මැතිවරණ කොමසාරිස් බී.සී.පී. කුලරත්න මහතා වැඩිදුරටක් සඳහන් කළේය.මැතිවරණ කොමිසම සඳහන් කරන ආකාරයට ඉදිරි ජනාධිපතිවරණය පැවැත්වීම සඳහා වැය වන සම්පූර්ණ වියදම් ඇස්තමේන්තුව මෙසේය.
+
+...
+
+[Data](articles/edb09575.json)
+
+---
+
 ### IGP instructed to conduct a special security program
 
 *2024-03-25 20:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194925) · `si`
@@ -2047,143 +2181,5 @@ However, the Ministry of Buddha Sasana, Religious and Cultural Affairs has today
 [Data](articles/398829c9.json)
 
 [Extended Data](ext_articles/398829c9.ext.json)
-
----
-
-### President appoints Acting Cabinet Minister
-
-*2024-03-25 18:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-appoints-Acting-Cabinet-Minister/108-279567) · `en`
-
-Colombo, March 25 (Daily Mirror) - State Minister Janaka Wakkambura has been appointed as Acting Cabinet Minister for Provincial Councils and Local Government.
-
-This appointment was made by President Ranil Wickremesinghe due to Prime Minister Dinesh Gunawardena departing for China yesterday afternoon (24) for a five-day official visit.
-
-◼️
-
-[Data](articles/5fc4831b.json)
-
-[Extended Data](ext_articles/5fc4831b.ext.json)
-
----
-
-### The lawyer of a lawyer is undone
-
-*2024-03-25 18:57:58* · [`adalk`](https://www.ada.lk/breaking_news/නීතිඥවරියකගේ-නීතිඥභාවය-අහෝසි-කරයි/11-408790) · `si`
-
-The Supreme Court suspended a lawyer for 12 years, citing unprofessional conduct. Chief Justice Jayantha Jayasuriya led the decision, following a panel's review of the lawyer's actions.
-
-🟩
-
-The Supreme Court today (25) decided to suspend her lawyer until the case was not inappropriate to the lawyer.
-
-Chief Justice Jayantha Jayasuriya said Chief Justice Jayantha Jayasuriya said the act of the actor's lawyer was a 12-year-old lawyer.
-
-Chief Justice Jayantha Jayasuriya, Supreme Court Justice, Gamini Amarasekera and AHMD who have been handed over to the lawyer's violence on trade ethics. A panel of judges was considered in the face of Nawaz.
-
-The Attorney General has presented the case against the accused of the accused that the lawyer was inappropriately behaved in a manner inappropriate for a lawyer by the Kekirawa Magistrate's Counter Office.
-
-After considering the case when the case was taken up, the relevant order was also decided to hear the case against the lawyer on April 2.
-
-◼️
-
-[Data](articles/92f3dcf3.json)
-
-[Extended Data](ext_articles/92f3dcf3.ext.json)
-
----
-
-### Here's the latest announcement about arousing
-
-*2024-03-25 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194921) · `si`
-
-The Ministry of Buddha Sasana Religious and Cultural Affairs has announced that the State Prophet Committee, mistakenly led by the State auspicious committee, is preparing for New Year's writing rites in 2024.
-
-🟩
-
-The Ministry of Buddha Sasana Religious and Cultural Affairs has issued a statement regarding the year 2024.
-
-The State Prophet Committee, which was deceived by the State auspicious committee, was prepared by the State Prophet Committee, to meet New Year's writing rites.
-
-◼️
-
-[Data](articles/c7ccf2c0.json)
-
-[Extended Data](ext_articles/c7ccf2c0.ext.json)
-
----
-
-### Sail sail - a warning
-
-*2024-03-25 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194920) · `si`
-
-The Consumer Affairs Authority warns of potential deception in festive season goods purchases. Director Asela Bandara advises consumers to pay attention to product details and marketing tactics.
-
-🟩
-
-Consumer Affairs Authority says that it is likely to be deceived in purchasing goods, which are introduced by the festive season.
-
-Director Asela Bandara said that it should be drawn to the details of the goods near the expiration and the marketing of the festive season.
-
-◼️
-
-[Data](articles/0a2d24f6.json)
-
-[Extended Data](ext_articles/0a2d24f6.ext.json)
-
----
-
-### Sri Lanka warned against 14-year age of consent plan amid lack of sex education: SLMA
-
-*2024-03-25 18:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-warned-against-14-year-age-of-consent-plan-amid-lack-of-sex-education-slma-156017/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s Medical Association has opposed the lowering of the age of consent from 16 to 14 years.
-
-“In a country where Healthy Sexual and Relationship Education is not being taught in schools, a child of 14 years who consents for sex is mostly unaware of the potential repercussions of the sexual act – i.e. early unwanted pregnancy, and exposure to sexually transmitted infections. Hence, the consent given, cannot be taken to imply informed consent,” the SLMA said in a statement after the Minister of Justice called for the age of consent to be lowered.
-
-In Sri Lanka sexual education is woefully inadequate. Attempts to introduce comprehensive sexual education in the school curriculum of lower Grades have often been met with vocal opposition, mainly from the clergy who claim it damages Sri Lanka’s ‘culture’.
-
-...
-
-[Data](articles/25b0eb61.json)
-
-[Extended Data](ext_articles/25b0eb61.ext.json)
-
----
-
-### Kamindu Mendis cranks up pressure on Kusal Mendis
-
-*2024-03-25 18:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kamindu-Mendis-cranks-up-pressure-on-Kusal-Mendis/108-279568) · `en`
-
-Colombo, March 25 (Daily Mirror) - Kamindu Mendis made a grand comeback to the longest format smashing twin centuries against Bangladesh in the First Test concluded in Sylhet on Monday (25) becoming the first batman to do so batting at number 7 or lower position.
-
-Despite scoring a fifty on his Test debut against Australia in 2022,  Kamindu was not given an opportunity until the first Test against Bangladesh. The former Richmond College star had to regain his spot in the XI the harder way by scoring tons of runs in the domestic tournaments which saw him averaging over 63 in first class cricket after 45 games.
-
-The manner in which the left hander scored runs against Bangladesh on a fairly difficult wicket proves that in Kamindu Sri Lanka has got a very solid  batsman.
-
-...
-
-[Data](articles/734eb8f6.json)
-
-[Extended Data](ext_articles/734eb8f6.ext.json)
-
----
-
-### School children or their aging will not wait until our issues solved: Minister
-
-*2024-03-25 18:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/School-children-or-their-aging-will-not-wait-until-our-issues-solved-Minister/108-279561) · `en`
-
-Colombo, March 25 (Daily Mirror) - Schoolchildren cannot wait, and their growth cannot be halted till we address their issues after resolving our own. They may opt for alternative educational systems in the meantime, Education Minister Susil Premajayantha said.
-
-While addressing the event marking the beginning of the 2024 school meal programme held today (25) at the Sujatha Girls’ College in Narahenpita, he said if a suitable education system is not available in school, the children will definitely find alternative systems.
-
-"Today we are facing that situation. Many children say good-bye to our government school education system and engage with alternative education systems. We need to solve our issues, but we need to make their future in the first place," the Minister said.
-
-"The education programmes in a country are joined by technology and most of the countries have gone very far with the new technology systems. We are also following them," he said.
-
-◼️
-
-[Data](articles/2bb49193.json)
-
-[Extended Data](ext_articles/2bb49193.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 11:52:45**
+As of **2024-03-26 12:03:57**
 
 ## Newspaper Stats
 
-*Scraped **15,221** Articles*
+*Scraped **15,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 819
 economynextcom | 821
 islandlk | 843
 adalk | 1,296
-adaderanalk | 1,826
-tamilmirrorlk | 1,830
-virakesarilk | 2,136
+adaderanalk | 1,827
+tamilmirrorlk | 1,832
+virakesarilk | 2,137
 dailymirrorlk | 2,351
 adaderanasinhalalk | 2,444
 
@@ -26,11 +26,81 @@ adaderanasinhalalk | 2,444
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,211 (99.9%) of 15,221 articles have been extended.
+15,221 (100.0%) of 15,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### பொலிஸ் உத்தியோகத்தரின் துப்பாக்கி மாயம்
+
+*2024-03-26 11:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-உத்தியோகத்தரின்-துப்பாக்கி-மாயம்/175-335210) · `ta`
+
+மாத்தளை, வில்கமுவ பொலிஸ் நிலையத்தில் கடமையாற்றும் பொலிஸ் உத்தியோகத்தர் ஒருவரின் T-56 துப்பாக்கி காணாமல் போன சம்பவம் தொடர்பில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+பொலிஸ் உத்தியோகத்தர் பிரதான வாயிலில் கடமையில் ஈடுபட்டிருந்த வேளையில் பாதுகாப்புச் சாவடியில் ஆயுதம் காணாமல் போயுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் DIG நிஹால் தல்துவ தெரிவித்தார்.
+
+குறித்த பொலிஸ் அதிகாரியிடம் வாக்குமூலம் பதிவு செய்யப்பட்டுள்ளதாகவும், துப்பாக்கி திருடப்பட்டதா அல்லது காணாமல் போனதற்கு வேறு காரணங்கள் உள்ளதா என்பது குறித்து விசாரணை நடைபெற்று வருவதாகவும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/908f5d2e.json)
+
+---
+
+### Investigation ordered into ‘assassination attempt’ on Magistrate Thilina Gamage
+
+*2024-03-26 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98210/investigation-ordered-into-assassination-attempt-on-magistrate-thilina-gamage) · `en`
+
+Public Security Minister Tiran Alles has ordered an immediate investigation into an assassination attempt on Colombo Fort Magistrate Thilina Gamage.
+
+Accordingly, Inspector General of Police (IGP) Deshabandu Tennakoon has been instructed to initiate an investigation into an attempt by a gunman to assassinate the magistrate using a Type 81 assault rifle grenade launcher.
+
+The investigation was launched based on a tip-off provided in writing by a government informant who revealed that the gunman in question had made phone calls asking around to get his hands on a Type 81 assault rifle to ‘end’ the magistrate’s life over certain verdicts given by him.
+
+The informant has also provided the investigators with the details of the gunman including the contact number.
+
+Upon receiving the tip-off, the minister ordered that an investigation be immediately launched in this regard as such moves could jeopardize the ongoing ‘Yukthiya’ anti-drug operation and the crackdown on the underworld.
+
+◼️
+
+[Data](articles/e3ac4577.json)
+
+---
+
+### வேலைவாய்ப்பு வழங்கிய போலி மருத்துவர் கைது
+
+*2024-03-26 11:52:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலைவாய்ப்பு-வழங்கிய-போலி-மருத்துவர்-கைது/175-335209) · `ta`
+
+தான் ஒரு மருத்துவர் எனக் கூறி இஸ்ரேலில் விவசாய துறையில் வேலை வாய்ப்புகளை வழங்குவதாகத் தெரிவித்து தொழிலாளர் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சின் உயர் அதிகாரிகளின் பெயர்களை கூறி பணத்தை மோசடி செய்த நபரை இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் (SLFEB) சிறப்பு புலனாய்வு திணைக்கள அதிகாரிகள் நேற்று கைது செய்துள்ளனர்.
+
+கொழும்பு 07, விஜேராம மாவத்தையில் வசிக்கும் சந்தேக நபர், தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சின் உயர் அதிகாரிகள் ஊடாக வெளிநாட்டு வேலைகளை வழங்க முடியும் எனக் கூறியுள்ளதுடன், அவர் ஒரு மருத்துவர் எனவும் அவர் தெரிவித்துள்ளார்.
+
+பணத்தை பெற்றுக் கொள்வதற்காக வெளிநாட்டு வேலைவாய்ப்பு அமைச்சு மற்றும் நாரஹேன்பிட்டியில் உள்ள வெளிநாட்டு வேலைவாய்ப்பு பணியகத்திற்கு ஆட்களை அழைத்துள்ளார்.
+
+சந்தேகநபர் ஒன்பது பேரிடம் இருந்து 7,650,000 ரூபா பணத்தை மோசடி செய்துள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது. அவருக்குப் பணம் வழங்கிய நபர் ஒருவர் செய்த முறைப்பாட்டின் அடிப்படையில் தொழிலாளர் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சில் அவர் கைது செய்யப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/233fe490.json)
+
+---
+
+### இஸ்ரேல் சர்வதேச சமூகத்தின் ஆதரவை இழந்துவருகின்றது - டிரம்ப் எச்சரிக்கை
+
+*2024-03-26 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179727) · `ta`
+
+இஸ்ரேல் சர்வதேசசமூகத்தின் ஆதரவை இழந்துகொண்டிருக்கின்றது என தெரிவித்துள்ள முன்னாள் அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் காசா யுத்தத்தை இஸ்ரேல் விரைவில் முடிக்கவேண்டும் என தெரிவித்துள்ளார்.
+
+ஒக்டோபர் ஏழாம் திகதி தாக்குதலின் பின்னர் இஸ்ரேல் செயற்பட்ட விதத்திலேயே நானும் செயற்பட்டிருப்பேன் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+நீங்கள் யுத்தத்தை விரைவில் முடிக்கவேண்டும் உலகின் ஆதரவை இழந்துவருவதால் இஸ்ரேல் மிகவும் அவதானமாகயிருக்கவேண்டும் என டிரம்ப் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e0f856d1.json)
+
+---
 
 ### T-56 firearm goes missing at Wilgamuwa Police station
 
@@ -46,63 +116,89 @@ He said statements have been recorded from the police officer and an investigati
 
 [Data](articles/61dca45b.json)
 
+[Extended Data](ext_articles/61dca45b.ext.json)
+
 ---
 
-### කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ ඝාතන තැතක්?
+### Fort Magistrate Thilina Gamage a murder
 
 *2024-03-26 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194945) · `si`
 
-කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතාව ඝාතනය කිරීමේ උත්සාහයක් සම්බන්ධයෙන් කඩිනම් විමර්ශනයක් සිදුකරන ලෙස මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා විසින් පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාට උපදෙස් දී තිබේ.
+Deputy Minister Tiran Alles ordered an immediate investigation into the murder of Fort Magistrate Thilina Gamage. A government spy revealed a phone call requesting an assassination.
 
-ඔත්තුකරුවෙක් විසින් යොමු කරන ලද ලිපියකට අනුව අමාත්‍ය ටිරාන් අලස් මහතා එම උපදෙස් ලබා දී ඇත.
+🟩
 
-රාජ්‍ය ඔත්තුකරුවෙකුට ලැබුණු තොරතුරක් අනුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා ඝාතනය කිරීමට යම් පුද්ගලයෙකු විසින් දුරකථන මාර්ගයෙන් ගිනිඅවියක් ඉල්ලා ඇති අතර ඒ අනුව විමර්ශන ආරම්භ කර තිබේ.
+Deputy Minister of Defense Tiran Alles has instructed the Inspector General of Police to conduct an immediate investigation into the killing of Fort Magistrate Thilina Gamage Gamage.
 
-ඔත්තුකරුවා විසින් අදාළ පුද්ගලයාගේ දුරකථන අංක සහිතව විස්තර දක්වා ඇති අතර එම දුරකථන අංක සම්බන්ධයෙන් විමර්ශන සිදුකරන අතර, ගිනිඅවිය ඉල්ලා ඇත්තේ තිළිණ ගමගේ මහතා විසින් පසුගිය කාලයේ දුන් අධිකරණ නියෝග හේතුවෙන් ඔහු ඉවරයක් කළ යුතු බව පවසමිනි.
+According to a letter referred to by a spy, Minister Tiran Alles has been instructed.
 
-අදාළ ඝාතනයෙන් අනතුරුව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා සහ පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් ගෙන යන යුක්තියේ මෙහෙයුම පහරක් වදිනූ ඇති බවත් එය අඬාල කර ඔවුන් අපකීර්තියට පත් කිරීම මෙහි තවත් අරමුණක් බවද එම ඔත්තුකරුවා වැඩිදුරටත් දැනුම් දී තිබේ.
+According to a government spy, a person has asked for a firemark by telephone by a person to assassinate Magistrate Thilina Gamage.
+
+The spy is described with telephone numbers of the person with the telephone numbers of the telephone numbers, saying that Mr. Thilina Gamage has been appointed by Thilina Gamage recently.
+
+The spy has further stated that after the assassination of the Hon.
 
 ◼️
 
 [Data](articles/aecc0800.json)
 
+[Extended Data](ext_articles/aecc0800.ext.json)
+
 ---
 
-### மைத்திரியின் வாக்குமூலம் ; உயிர்த்த ஞாயிறு தாக்குதல்கள் குறித்த முக்கிய விடயத்தினை தனக்கு தெரிவித்தவர் யார் என்பதை சிறிசேன தெரிவிக்கவில்லை
+### Maithri's confession;Sirisena does not give him the key to the life of the Sunday attacks.
 
 *2024-03-26 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179720) · `ta`
 
-சிஐடியினருக்கு வாக்குமூலம் வழங்கியவேளை முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தனக்கு முக்கியமான விடயங்களை தெரிவித்தவர் குறித்து எதனையும் தெரிவிக்கவில்லை என தகவல்கள் வெளியாகியுள்ளன.
+Maithripala Sirisena confessed to knowing the masterminds behind the Sunday attacks but did not reveal their identities. He met with the Criminal Investigation Department for over five hours, facing questions about the incident.
 
-உயிர்த்த ஞாயிறு தாக்குதல் சூத்திரதாரிகள் யார் என்பது தனக்கு தெரியும் என கண்டியில் வெளியிட்டகருத்துக்கள் தொடர்பில் முன்னாள் ஜனாதிபதி நேற்று சிஐடியினரிடம் ஐந்து மணிநேரத்திற்கு மேல்  வாக்குமூலம் வழங்கினார்.
+🟩
 
-காலை பத்தரைமணிக்கு  இலங்கை குற்றப்புலனாய்வு திணைக்களத்திற்கு சென்ற அவர் 3.50 அளவில் அங்கிருந்து வெளியேறினார்.
+According to reports, former President Maithripala Sirisena has not reported anything about the person who has made important things.
 
-முன்வாசல் வழியாக வந்த சிறிசேன வழமையான கேள்விகளை எதிர்கொண்டார் என சிஐடி வட்டாரங்களை மேற்கோள்காட்டி தகவல்கள் வெளியாகியுள்ளன.
+The former president yesterday made a statement to the CITiner for more than five hours regarding the issuance of the Kandy in Kandy, saying he knew who was the lifeblood of the lifeblood.
 
-உதவி பொலிஸ் அத்தியட்சகர் ஒருவரின் கண்காணிப்பில் பொலிஸ் உத்தியோகத்தர் ஒருவர் விசாரணைகளை முன்னெடுத்துள்ளார்.குறுக்கு விசாரணைகளும் இடம்பெற்றுள்ளன.
+He went to the Sri Lanka Criminal Investigation Department for Pattaramani in the morning and left at 3.50.
 
-...
+CIT sources have been cited by CIT sources that Sirisena, who came through the forefront, faced usual questions.
+
+A police officer has carried out investigations under the supervision of a Assistant Superintendent of Police.
+
+During the investigation, Maithripala Sirisena said that he was aware of who the main masterminds of the survival Sunday attacks were revealed three weeks ago.
+
+The police officer who said that the former president would review the issues, "he said.
+
+It is also reported that the CIT is planning to submit the issues of the former president.
+
+◼️
 
 [Data](articles/fe2ba48f.json)
 
+[Extended Data](ext_articles/fe2ba48f.ext.json)
+
 ---
 
-### யாழ். பருத்தித்துறையில் விபத்தினை ஏற்படுத்தி விட்டு தப்பி சென்ற வாகனம் ; பெண் படுகாயம்
+### Yall. A vehicle that escaped from an accident in Point Pedro;Woman injured
 
 *2024-03-26 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179719) · `ta`
 
-யாழ்ப்பாணம் -  பருத்தித்துறை வீதியில் மோட்டார் சைக்கிளில் பயணித்துக்கொண்டிருந்த பெண்ணொருவரை ஹயஸ் ரக வாகனம் ஒன்று மோதி விட்டு தப்பி சென்றுள்ளது.
+A woman, Kumarasamoorthy Vanitha, 51, injured in a motorcycle accident near Ceylon Bank in Mandigai, fled in a Hayas vehicle. Police used surveillance to identify and arrest the driver.
 
-விபத்தில்  துன்னாலை மேற்கை சேர்ந்த குமரேசமூர்த்தி வனிதா (வயது 51) எனும் பெண்ணே காயமடைந்த நிலையில் பருத்தித்துறை  ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+🟩
 
-மந்திகை பகுதியில் அமைந்துள்ள  இலங்கை வங்கி கிளைக்கு அருகில் நேற்று திங்கட்கிழமை குறித்த  விபத்து சம்பவம் இடம்பெற்றுள்ளது.
+A woman who was riding a motorcycle on a motorbike on Jaffna -Point Pedro has fled a Hayas vehicle.
 
-பிரதான வீதிகளில் உள்ள வர்த்தக நிலையங்களில் உள்ள கண்காணிப்பு கமராக்களின் உதவியுடன், விபத்தினை ஏற்படுத்தி விட்டு தப்பி சென்ற ஹயஸ் வாகனத்தை அடையாளம் கண்டுள்ளதாகவும், அதன் சாரதியை கைது செய்வதற்கு நடவடிக்கை எடுத்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+Kumarasamoorthy Vanitha (age 51), a woman from West of Tunnale, has been admitted to the Point Pedro Hospital after being injured.
+
+The accident occurred on Monday near the Ceylon Bank branch located in Mandigai.
+
+With the help of surveillance cameras on the main streets, the police said that the Hayas has identified the vehicle who fled the accident and has taken steps to arrest the driver.
 
 ◼️
 
 [Data](articles/ba635e93.json)
+
+[Extended Data](ext_articles/ba635e93.ext.json)
 
 ---
 
@@ -115,6 +211,8 @@ The Asian Development Bank (ADB) will finance USD 100 million and technical ass
 ◼️
 
 [Data](articles/784bb781.json)
+
+[Extended Data](ext_articles/784bb781.ext.json)
 
 ---
 
@@ -135,6 +233,8 @@ President of the Coconut Development Authority, Roshan Perera, said there had be
 ...
 
 [Data](articles/a1bc4f58.json)
+
+[Extended Data](ext_articles/a1bc4f58.ext.json)
 
 ---
 
@@ -164,23 +264,31 @@ From the 19th and Southern Province, the Western Province and Southern Province 
 
 ---
 
-### இலங்கையின் பாதுகாப்புப் படைகளின் பிரதானி கென்யாவின் பாதுகாப்புத் தலைமையகத்திற்கு விஜயம்
+### Visit to Kenya's Security Headquarters
 
 *2024-03-26 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179708) · `ta`
 
-கென்யாவிற்கு நேற்று திங்கட்கிழமை (25) விஜயம் மேற்கொண்டுள்ள இலங்கையின் பாதுகாப்புப் படைகளின் பிரதானி மேஜர் ஜெனரல் சவேந்திர சில்வா நைரோபியிலுள்ள அந்நாட்டு பாதுகாப்புத் தலைமையகத்திற்கு சென்றுள்ளார்.
+Major General Shavendra Silva, Sri Lanka's security chief, visited Kenya's Security Headquarters, discussing military cooperation, including joint exercises and peace support. He met with Kenya's security forces leaders, emphasizing continued collaboration in modernization and regulation. Silva also toured the Uhuru Gardens National Monument and Museum, and is expected to visit the National Security College and the International Peace Support Training Center.
 
-அங்கு ஜெனரல் சவேந்திர சில்வாவை கென்யாவின் பாதுகாப்புப் படைகளின் தலைவர் ஜெனரல் பிரான்சிஸ் ஒகோல்லா வரவேற்றார்.
+🟩
 
-சவேந்திர சில்வா கென்ய பாதுகாப்பு படையின் தலைவர், பாதுகாப்புப் படையின் துணைத் தலைவர், சேவைத் தளபதிகள் மற்றும் கென்யா பாதுகாப்புப்  படைகளின் ஜெனரல் மற்றும் மூத்த அதிகாரிகளுடன் கலந்துரையாடலை மேற்கொண்டார்.
+Major General Shavendra Silva, the chief of the Sri Lankan security forces, who visited Kenya on Monday (25), visited the Security Headquarters in Nairobi.
 
-கென்யாவுக்கும் இலங்கைக்கும் இடையிலான இருதரப்பு இராணுவ உறவுகளை வலுப்படுத்துதல், கூட்டு இராணுவப் பயிற்சிகளை நடத்துதல், இராணுவத் திறனை மேம்படுத்துதல்  மற்றும் சமாதான ஆதரவு நடவடிக்கைகளில் ஈடுபாடு போன்ற பல விடயங்கள் கலந்துரையாடப்பட்டன.
+General Francis Ogollah welcomed General Shavendra Silva, president of Kenya's security forces.
 
-இரு நாடுகளும் தங்களின் மனித வளத்தை மேம்படுத்துவதில் மட்டும் அல்லாமல், தங்கள் செயல்பாடுகளை நவீனமயமாக்குவதிலும்  நெறிப்படுத்துவதிலும் தொடர்ந்து ஒருங்கிணைந்து செயல்படுவதை உறுதி செய்வதில் இரு இராணுவத் தலைவர்களும் தங்கள்  உறுதிப்பாட்டை எடுத்துரைத்தனர்.
+Shavendra Silva held a discussion with the Kenya Kenya Security Forces, Vice President of the Security Forces, Service Commander and the General of Kenya Security Forces and senior officials.
+
+A number of issues were discussed, such as strengthening bilateral military ties between Kenya and Sri Lanka, conducting joint military exercises, improving military skills and engaging in peace support.
+
+The two military leaders have stated their commitment to ensuring that the two countries continue to work together in modernization and regulation of their activities.
+
+Shavendra Silva visited the Uhuru Gardens National Monument and Museum (UGNM & M). There he was welcomed by Director Colonel Catherine Lakat.
 
 ...
 
 [Data](articles/35a2de0a.json)
+
+[Extended Data](ext_articles/35a2de0a.ext.json)
 
 ---
 
@@ -300,19 +408,25 @@ Several beloved songs that have captured the hearts of fans include Age Sinahawa
 
 ---
 
-### ’’පෙම් බැන්ද සිත් බැන්ද’’  සඳ කුමරු දිවියෙන් සමුගනියි
+### '' Diyanda Wil down '
 
 *2024-03-26 10:48:16* · [`adalk`](https://www.ada.lk/breaking_news/’’පෙම්-බැන්ද-සිත්-බැන්ද’’--සඳ-කුමරු-දිවියෙන්-සමුගනියි/11-408801) · `si`
 
-ප්‍රවීණ ගායන ශිල්පී චන්ද්‍ර කුමාර කඳනාරච්චි මහතා අද (26) උදෑසන අභාවප්‍රාප්ත වී තිබේ.
+"Veteran singer Chandra Kumara Kandanarachchi passed away today, receiving treatment at Maharagama Cancer Hospital. Known for his smile and popularity among lovers of happiness."
 
-මහරගම පිළිකා රෝහලේ ප්‍රතිකාර ලබමින් සිටින අතරතුර ඒ මහතා ජීවිතක්ෂයට පත්ව ඇත.
+🟩
 
-ඇගේ සිනහව තහනම්, පෙම් බැන්ද සිත් බැන්ද, හිතේ සතුට ජීවිතයේ වැනි රසික හදවත් පිනවූ බොහෝමයක් ගීත අතිශය ජනාදරයට ලක්විය.
+Veteran singer Chandra Kumara Kandanarachchi has passed away this morning (26).
+
+He was receiving treatment at the Maharagama Cancer Hospital.
+
+Her smile was banned, lovely, and lovers of happiness and happiness are very popular.
 
 ◼️
 
 [Data](articles/7c33b2fa.json)
+
+[Extended Data](ext_articles/7c33b2fa.ext.json)
 
 ---
 
@@ -471,6 +585,8 @@ The Colombo Stock Exchange opened up: The All Share Price Index was up 0.19 perc
 ◼️
 
 [Data](articles/974ba059.json)
+
+[Extended Data](ext_articles/974ba059.ext.json)
 
 ---
 
@@ -1021,6 +1137,8 @@ Since external monetary stability was restored by the central bank in September 
 ...
 
 [Data](articles/3b5309b5.json)
+
+[Extended Data](ext_articles/3b5309b5.ext.json)
 
 ---
 
@@ -2083,89 +2201,5 @@ By the afternoon of the students by the afternoon of the students, the students 
 [Data](articles/9f6d526e.json)
 
 [Extended Data](ext_articles/9f6d526e.ext.json)
-
----
-
-### Here is what you need to do if you are threatening this way
-
-*2024-03-25 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194926) · `si`
-
-DIG Thaluduwa advises lodging complaints about online dangers with the Computer Criminal Investigation Division via email or phone.
-
-🟩
-
-Police Media Spokesperson DIG Thaluduwa says that anyone can lodge a complaint with the Computer Criminal Investigation Division regarding the dangers of online.
-
-Speaking to Ada Derana, the police spokesman made these comments.
-
-The police media spokesman further stated that the complaint can be carried out by email from home.
-
-Police Media Spokesperson DIG DIG Nihal Talduuwa, Speaking further
-
-"The Computer Criminal Investigation Division a complaint to the Computer Criminal Investigation Division in the event of a computer crime. Its in it has an email address dir.ccid@police.gov.lk. And the 109 Phone.. The Children's and Women's Abuse Prevention Bureau functions 24 hours a day. "
-
-◼️
-
-[Data](articles/ce68f964.json)
-
-[Extended Data](ext_articles/ce68f964.ext.json)
-
----
-
-### Two-week test runs to revise several train timetables
-
-*2024-03-25 21:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-week-test-runs-to-revise-several-train-timetables/108-279571) · `en`
-
-Colombo, March 25 (Daily Mirror) - The Railway Department has decided to revise several train timetables on the Puttalam line as well as on the main and northern railway lines as per a two-week test run schedule starting today.
-
-Several train timetables have been revised with the objective of preparing the most suitable schedule for the passengers on these routes.
-
-This is being implemented with the aim of revising the train schedules on the Kelani Valley railway line as well as the coastal line.
-
-The time revision was undertaken after obtaining the comments, suggestions as well as complaints from the commuters to provide a more appropriate schedule.
-
-◼️
-
-[Data](articles/7079c313.json)
-
-[Extended Data](ext_articles/7079c313.ext.json)
-
----
-
-### I don’t blame history; fulfill responsibility to the best: Susil
-
-*2024-03-25 20:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/I-dont-blame-history-fulfill-responsibility-to-the-best-Susil/108-279570) · `en`
-
-Colombo, March 25 (Daily Mirror) - "People in our country have a very short memory. I don't blame history. If we bear the present responsibility, we will fulfill that responsibility to the best of our ability," Education Minister Susil Premajayantha said.
-
-While marking the beginning of the 2024 school meal programme held today (25) at the Sujatha Girls’ College in Narahenpita, the Minister said the majority of the people in the country blame the past. They always claim that nothing had happened during the past 70 years.
-
-...
-
-[Data](articles/50be7614.json)
-
-[Extended Data](ext_articles/50be7614.ext.json)
-
----
-
-### 10,000 public servants with Rs.
-
-*2024-03-25 20:36:57* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවකයන්-වැඩිළ-රු-10-000-ම-අප්‍රේල්-වැටුප-සමගින්/11-408798) · `si`
-
-State Minister Ranjith Siyambalapitiya announced that all public servants will receive their March salaries by the 10th, with an increase in pensions by Rs. and an additional Rs. 2,500 from April.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya says that the amount of Rs.. He was speaking at the media in the Ruwanwella area today (25th).
-
-Accordingly, the salary of all public servants will pay the salary in March, the salary of the month is ready to pay before the 10th in the month of the budget.Available.
-
-Also, the pensioners increased by Rs. The Minister further stated that 2,500 will also be given from April.
-
-◼️
-
-[Data](articles/acc83337.json)
-
-[Extended Data](ext_articles/acc83337.ext.json)
 
 ---

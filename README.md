@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 01:52:25**
+As of **2024-03-27 02:03:24**
 
 ## Newspaper Stats
 
-*Scraped **15,376** Articles*
+*Scraped **15,378** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 138
 bbccomsinhala | 164
 dbsjeyarajcom | 192
 newsfirstlk | 363
-dailyftlk | 822
+dailyftlk | 824
 economynextcom | 832
 islandlk | 845
 adalk | 1,312
@@ -26,11 +26,41 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,376 (100.0%) of 15,376 articles have been extended.
+15,376 (100.0%) of 15,378 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### Climate change impacts severely impede SDGs, says ADB–UN report
+
+*2024-03-27 01:50:12* · [`dailyftlk`](https://www.ft.lk/opinion/Climate-change-impacts-severely-impede-SDGs-says-ADBUN-report/14-759991) · `en`
+
+The impacts of climate change, including slow and sudden onset weather events, are reducing the ability of countries to meet their Sustainable Development Goals (SDGs), according to a report released today by the Asian Development Bank (ADB), United Nations Economic and Social Commission for Asia and the Pacific (ESCAP), and United Nations Development Program (UNDP).
+
+“The Asia and Pacific region has made steady progress in increasing food security, reducing the prevalence of malnutrition, and making improvements in health and well-being,” said ADB Managing Director General Woochong Um. “However, further gains are being hampered by multiple crises, including the increasing effects of climate change, the lingering impacts of the COVID-19 pandemic, and the cost-of-living crisis.”
+
+...
+
+[Data](articles/49730307.json)
+
+---
+
+### Hayleys Fentons elevates communication and entertainment experiences with cutting-edge audio-visual integrations
+
+*2024-03-27 01:25:59* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fentons-elevates-communication-and-entertainment-experiences-with-cutting-edge-audio-visual-integrations/34-759979) · `en`
+
+Hayleys Fentons, a pillar of Sri Lanka’s engineering landscape for over a century, proudly announces its dynamic expansion into the Audio-Visual (AV) arena.
+
+Leveraging their established expertise in engineering services, Hayleys Fentons now serves as a one-stop shop for all security, communication, and engagement needs, from sleek boardrooms to captivating concert halls.
+
+Powered by top tier global brands including FBT, QSC, Harman, Electro-Voice, ITC, Epson, Panasonic, DSPPA and Blackmagic, the team is now capable of offering seamless collaboration across borders with high-definition video and crystal-clear audio.
+
+...
+
+[Data](articles/1c79dd4c.json)
+
+---
 
 ### Prime Minister will hold a final negotiations in the debt restructuring - Cabinet spokesman
 
@@ -2253,47 +2283,5 @@ The US $ 297.6319 is Rs.
 [Data](articles/5b147162.json)
 
 [Extended Data](ext_articles/5b147162.ext.json)
-
----
-
-### Sirikotha doors open to SJBers including Harsha: Range Bandara
-
-*2024-03-26 14:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sirikotha-doors-open-to-SJBers-including-Harsha-Range-Bandara/108-279633) · `en`
-
-Colombo, March 26 (Daily Mirror) - The doors of UNP headquarters Sirikotha are open at all times to all Samagi Jana Balawegaya (SJB) members, UNP General Secretary Palitha Range Bandara said today.
-
-“Our doors are open to SJBers to join us any time. Therefore, we invite all those who left us over various reasons to re-join us,” Range Bandara told a media briefing.
-
-“SJBers are being sidelined by its leadership. It is not Harsha de Silva who decides the SJB's stand on the economy today but others such as Nalaka Godahewa. Therefore, we invite those such as Harsha to join us. Join us before you perish,” he said.
-
-Also he said SJBers from the grassroots level have already begun coming back to the UNP.
-
-“I had a discussion with some SJBers before I came for this briefing,” he said.
-
-...
-
-[Data](articles/dd5a25f3.json)
-
-[Extended Data](ext_articles/dd5a25f3.ext.json)
-
----
-
-### Major bridge in Baltimore collapses after ship crash
-
-*2024-03-26 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98214/major-bridge-in-baltimore-collapses-after-ship-crash) · `en`
-
-The 1.6-mile (2.57 km) long Francis Scott Key Bridge in Baltimore, Maryland, USA collapsed in the early hours of Tuesday after a container ship hit it, and as many as seven people may be in the water, officials said.
-
-A live video posted on YouTube showed a ship hitting the bridge, after which several of its spans collapsed into the Patapsco River. Unverified videos posted on social media X also showed the impact and collapse. Reuters could not immediately verify the videos.
-
-The Baltimore City Fire Department described the collapse as a mass-casualty incident, and said workers were searching for seven people in the river.
-
-“We received several 911 calls at around 1:30 am, that a vessel struck the Key Bridge in Baltimore, causing the collapse. This is currently a mass casualty incident and we are searching for seven people who are in the river,” Kevin Cartwright, director of communications for the Baltimore Fire Department told Reuters.
-
-...
-
-[Data](articles/1eadb8eb.json)
-
-[Extended Data](ext_articles/1eadb8eb.ext.json)
 
 ---

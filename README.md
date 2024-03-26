@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 09:03:13**
+As of **2024-03-26 09:18:12**
 
 ## Newspaper Stats
 
-*Scraped **15,177** Articles*
+*Scraped **15,178** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 818
 economynextcom | 818
 islandlk | 843
 adalk | 1,292
-adaderanalk | 1,822
 tamilmirrorlk | 1,822
+adaderanalk | 1,823
 virakesarilk | 2,127
 dailymirrorlk | 2,343
 adaderanasinhalalk | 2,437
@@ -26,25 +26,55 @@ adaderanasinhalalk | 2,437
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,173 (100.0%) of 15,177 articles have been extended.
+15,177 (100.0%) of 15,178 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### අඩු ආදායම්ලාභී පවුල්වලට සහල් කිලෝ 20ක්
+### Govt. to provide 10kg of rice to low-income families before Avurudu
+
+*2024-03-26 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98206/govt-to-provide-10kg-of-rice-to-low-income-families-before-avurudu) · `en`
+
+The government has decided to distribute rice to as many as 2.8 million low-income families, Finance State Minister Ranjith Siyambalapitiya says.
+
+Accordingly, it is planned to provide 20kg of rice to each family in April and May.
+
+In the month of April, 10kg of rice will be given before the Sinhala and Tamil New Year, and the remaining 10kg within the first week of May, Siyambalapitiya added.
+
+Speaking further, the state minister said that through this relief program, the government intends to benefit not only low-income families but also paddy farmers and small- and medium-scale rice mill owners.
+
+This relief program, proposed by President Ranil Wickremesinghe, was also green-lighted by the Cabinet of Ministers at its meeting held earlier this month.
+
+The low-income families are planned to be identified through District Secretaries/Government Agents by involving small- and medium-scale mill owners.
+
+◼️
+
+[Data](articles/3588ff34.json)
+
+---
+
+### 20 kg of rice to low income families
 
 *2024-03-26 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194938) · `si`
 
-අඩු ආදායම්ලාභී පවුල් ලක්ෂ 28ක් සඳහා සහල් කිලෝග්‍රෑම් 20 බැගින් ලබාදීමට රජය තීරණය කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+The government will provide 20 kg of rice for Rs. 28 lakhs, with 10 kg in April and May, aiming to support low-income families.
 
-ඔහු ප්‍රකාශ කළේ, අප්‍රේල් මාසයේ දී කිලෝග්‍රෑම් 10ක් ද මැයි මාසයේ කිලෝග්‍රෑම් 10ක් ද ලෙස එම සහල් ලබාදීමට සැලසුම් කර ඇති බවය.
+🟩
 
-"රජය බලාපොරොත්තු වෙන්නේ අපේ රටේ අඩු ආදයම්ලාභී පවුල් ඉන්නවා. පසුගිය අවුරුද්දේ අඩු ආදයම්ලාභී පවුල් හැටියට ලක්ෂ 28කට අපි සහල් බෙදුවා. ඒ විදිහටම දිසාපතිවරුන් හරහා ගණනය කිරීමෙන්, විනිවිඳභාවයකින් යුතුව පවුල් 28 ලක්ෂයකට සහල් කිලෝ 20ක් දෙවතාවකට දෙන්න. අප්‍රේල් මසයේ  කිලෝ 10කුත් මැයි මාසේ කිලෝ 10කුත්. අප්‍රේල් මාසේ කිලෝ 10 සිංහල හින්දු අලුත් අවුරද්දට ඉස්සරවෙලා ලබාදෙන්න. මැයි මාසේ කිලෝ 10 ඊළඟ මාසේ මුල් සතියේ. ඒක තමයි රජයේ උත්සාහය. මේක පුළුල් අරමුණක්. එකක් වී ගොවියාට... ඔවුන්ට ලැබෙන මිල ඉහළ දැමීම පිළිබඳ හොඳ මඟපෙන්වීමක් විවෘත වෙළෙඳපොළ තුළට. අනෙක් පැත්තෙන් කුඩා හා මධ්‍ය පරිමාණ වී මෝල් හිමියාට ආදායමක් ලබාගන්න ක්‍රමවේදයක්. අනෙක් පැත්තෙන් අඩු ආදයම්ලාභී පවුල්වලට සෘජු සහනයක් හැටියට සහල් කිලෝ 20ක් ලබාදෙනවා."
+State Minister Ranjith Siyambalapitiya says that the government has decided to provide 20 kg of rice for Rs. 28 lakhs.
 
-...
+He stated that 10 kilograms in April and to provide the rice to the rice as 10 kilograms of May.
+
+"The government is looking forward to the low-income families in our country. We have distributed rice as low-income families last year. By calculating through the Government Agents, give 20 kg of rice twice with a dependence. 10kg in April, 10 kilograms of May. Give 10 kilograms of Sinhala Hindu New Yiweli. May month month 10 kilograms of month. That's the government's attempt. This is a wide purpose. One to the farmer.. A good guide on the price they receive in the open market. On the other hand, the small and medium scale and gain income for the mill. On the other hand, a direct relief to low income families will be provided with 20 kg of rice. "
+
+Meanwhile, the government has also decided to submit public servants' salary before 10th April.
+
+◼️
 
 [Data](articles/7bd70c43.json)
+
+[Extended Data](ext_articles/7bd70c43.ext.json)
 
 ---
 
@@ -83,6 +113,8 @@ The TPTUA requested the Ministry Secretary to provide their remaining two-thirds
 ...
 
 [Data](articles/f36752f2.json)
+
+[Extended Data](ext_articles/f36752f2.ext.json)
 
 ---
 
@@ -339,6 +371,8 @@ IMF Senior Mission Chief for Sri Lanka Peter Breuer noted that the tax burden, w
 ...
 
 [Data](articles/d0188340.json)
+
+[Extended Data](ext_articles/d0188340.ext.json)
 
 ---
 
@@ -2203,35 +2237,5 @@ The further information has been revealed that the accident had occurred to sell
 [Data](articles/91dd3a33.json)
 
 [Extended Data](ext_articles/91dd3a33.ext.json)
-
----
-
-### CIT officials, who are investigating the resurrection, work with us -Anurakumara
-
-*2024-03-25 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179683) · `ta`
-
-CIT officials, retired, will lead a new forum on the resurrection attack, starting in May. No new investigations on the Sunday lifeblood. Dissanayake calls for investigations into Sirisena's recent statements.
-
-🟩
-
-CIT officials who are investigating the resurrection attack will head the Forum of the National People's Power, said in Canada.
-
-He said that the organization would start operating in May.
-
-He also said that there are no new investigations on the lifeblood of the Sunday, he said.
-
-Anuragumara Dissanayake said that the CIT officials who were investigating the resurrection were now retired.
-
-The CIT president will be heading for the resurrection attack on the retired police officers organization that we will start in May.
-
-Anuragumara Dissanayake has said that investigations should be carried out on the issues made by former President Maithripala Sirisena a few days ago.
-
-The JVP president said that he was in office even after the serious information on the president's defense minister.
-
-◼️
-
-[Data](articles/8d511835.json)
-
-[Extended Data](ext_articles/8d511835.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 11:33:36**
+As of **2024-03-26 11:52:45**
 
 ## Newspaper Stats
 
-*Scraped **15,211** Articles*
+*Scraped **15,221** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,43 +12,175 @@ colombotelegraphcom | 137
 bbccomsinhala | 163
 dbsjeyarajcom | 192
 newsfirstlk | 363
-economynextcom | 818
 dailyftlk | 819
+economynextcom | 821
 islandlk | 843
-adalk | 1,295
+adalk | 1,296
 adaderanalk | 1,826
 tamilmirrorlk | 1,830
-virakesarilk | 2,133
-dailymirrorlk | 2,349
-adaderanasinhalalk | 2,443
+virakesarilk | 2,136
+dailymirrorlk | 2,351
+adaderanasinhalalk | 2,444
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,210 (100.0%) of 15,211 articles have been extended.
+15,211 (99.9%) of 15,221 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### තවත් පාතාල කල්ලි සාමාජිකයින් පිරිසක් කොටු වෙති
+### T-56 firearm goes missing at Wilgamuwa Police station
+
+*2024-03-26 11:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/T-56-firearm-goes-missing-at-Wilgamuwa-Police-station/108-279625) · `en`
+
+Matale, March 26 (Daily Mirror) - An investigation has been launched following the disappearance of a T-56 firearm of a police officer on duty at the Wilgamuwa Police Station in Matale.
+
+Police spokesman DIG Nihal Thalduwa said the weapon went missing at the security post while the police officer was on duty at the main gate.
+
+He said statements have been recorded from the police officer and an investigation is underway to determine whether the firearm was stolen or if there are other reasons behind its disappearance.
+
+◼️
+
+[Data](articles/61dca45b.json)
+
+---
+
+### කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ ඝාතන තැතක්?
+
+*2024-03-26 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194945) · `si`
+
+කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතාව ඝාතනය කිරීමේ උත්සාහයක් සම්බන්ධයෙන් කඩිනම් විමර්ශනයක් සිදුකරන ලෙස මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා විසින් පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාට උපදෙස් දී තිබේ.
+
+ඔත්තුකරුවෙක් විසින් යොමු කරන ලද ලිපියකට අනුව අමාත්‍ය ටිරාන් අලස් මහතා එම උපදෙස් ලබා දී ඇත.
+
+රාජ්‍ය ඔත්තුකරුවෙකුට ලැබුණු තොරතුරක් අනුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා ඝාතනය කිරීමට යම් පුද්ගලයෙකු විසින් දුරකථන මාර්ගයෙන් ගිනිඅවියක් ඉල්ලා ඇති අතර ඒ අනුව විමර්ශන ආරම්භ කර තිබේ.
+
+ඔත්තුකරුවා විසින් අදාළ පුද්ගලයාගේ දුරකථන අංක සහිතව විස්තර දක්වා ඇති අතර එම දුරකථන අංක සම්බන්ධයෙන් විමර්ශන සිදුකරන අතර, ගිනිඅවිය ඉල්ලා ඇත්තේ තිළිණ ගමගේ මහතා විසින් පසුගිය කාලයේ දුන් අධිකරණ නියෝග හේතුවෙන් ඔහු ඉවරයක් කළ යුතු බව පවසමිනි.
+
+අදාළ ඝාතනයෙන් අනතුරුව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා සහ පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් ගෙන යන යුක්තියේ මෙහෙයුම පහරක් වදිනූ ඇති බවත් එය අඬාල කර ඔවුන් අපකීර්තියට පත් කිරීම මෙහි තවත් අරමුණක් බවද එම ඔත්තුකරුවා වැඩිදුරටත් දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/aecc0800.json)
+
+---
+
+### மைத்திரியின் வாக்குமூலம் ; உயிர்த்த ஞாயிறு தாக்குதல்கள் குறித்த முக்கிய விடயத்தினை தனக்கு தெரிவித்தவர் யார் என்பதை சிறிசேன தெரிவிக்கவில்லை
+
+*2024-03-26 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179720) · `ta`
+
+சிஐடியினருக்கு வாக்குமூலம் வழங்கியவேளை முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தனக்கு முக்கியமான விடயங்களை தெரிவித்தவர் குறித்து எதனையும் தெரிவிக்கவில்லை என தகவல்கள் வெளியாகியுள்ளன.
+
+உயிர்த்த ஞாயிறு தாக்குதல் சூத்திரதாரிகள் யார் என்பது தனக்கு தெரியும் என கண்டியில் வெளியிட்டகருத்துக்கள் தொடர்பில் முன்னாள் ஜனாதிபதி நேற்று சிஐடியினரிடம் ஐந்து மணிநேரத்திற்கு மேல்  வாக்குமூலம் வழங்கினார்.
+
+காலை பத்தரைமணிக்கு  இலங்கை குற்றப்புலனாய்வு திணைக்களத்திற்கு சென்ற அவர் 3.50 அளவில் அங்கிருந்து வெளியேறினார்.
+
+முன்வாசல் வழியாக வந்த சிறிசேன வழமையான கேள்விகளை எதிர்கொண்டார் என சிஐடி வட்டாரங்களை மேற்கோள்காட்டி தகவல்கள் வெளியாகியுள்ளன.
+
+உதவி பொலிஸ் அத்தியட்சகர் ஒருவரின் கண்காணிப்பில் பொலிஸ் உத்தியோகத்தர் ஒருவர் விசாரணைகளை முன்னெடுத்துள்ளார்.குறுக்கு விசாரணைகளும் இடம்பெற்றுள்ளன.
+
+...
+
+[Data](articles/fe2ba48f.json)
+
+---
+
+### யாழ். பருத்தித்துறையில் விபத்தினை ஏற்படுத்தி விட்டு தப்பி சென்ற வாகனம் ; பெண் படுகாயம்
+
+*2024-03-26 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179719) · `ta`
+
+யாழ்ப்பாணம் -  பருத்தித்துறை வீதியில் மோட்டார் சைக்கிளில் பயணித்துக்கொண்டிருந்த பெண்ணொருவரை ஹயஸ் ரக வாகனம் ஒன்று மோதி விட்டு தப்பி சென்றுள்ளது.
+
+விபத்தில்  துன்னாலை மேற்கை சேர்ந்த குமரேசமூர்த்தி வனிதா (வயது 51) எனும் பெண்ணே காயமடைந்த நிலையில் பருத்தித்துறை  ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+மந்திகை பகுதியில் அமைந்துள்ள  இலங்கை வங்கி கிளைக்கு அருகில் நேற்று திங்கட்கிழமை குறித்த  விபத்து சம்பவம் இடம்பெற்றுள்ளது.
+
+பிரதான வீதிகளில் உள்ள வர்த்தக நிலையங்களில் உள்ள கண்காணிப்பு கமராக்களின் உதவியுடன், விபத்தினை ஏற்படுத்தி விட்டு தப்பி சென்ற ஹயஸ் வாகனத்தை அடையாளம் கண்டுள்ளதாகவும், அதன் சாரதியை கைது செய்வதற்கு நடவடிக்கை எடுத்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/ba635e93.json)
+
+---
+
+### USD 100 million, technical assistance to boost SMEs
+
+*2024-03-26 11:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/USD-100-million-technical-assistance-to-boost-SMEs/108-279624) · `en`
+
+The Asian Development Bank (ADB) will finance USD 100 million and technical assistance to boost Sri Lankan small and medium-sized enterprises (SMEs), the Finance Ministry, Economic Stabilization and National Policies announced.
+
+◼️
+
+[Data](articles/784bb781.json)
+
+---
+
+### Sri Lanka earns 3.4bn from coconut water export in Feb: Minister
+
+*2024-03-26 11:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-earns-3-4bn-from-coconut-water-export-in-feb-minister-156116/) · `en`
+
+ECONOMYNEXT – Sri Lanka earned 3,439 million rupees in February from the export of coconut water, its Minister of Agriculture and Plantation Industries has said.
+
+“It has been possible to earn an income of 3439 million rupees by February 2024 from exporting coconut water from Sri Lanka,” Minister Mahinda Amaraweera said on social media.
+
+“If not for wildlife eating crops this would have been higher; around 300 million coconuts are lost annually due to wildlife damage,” Amarweera posted on his Facebook page.
+
+In February last year, Sri Lanka earned 2705 million rupees from exporting coconut water, according to Coconut Development Authority data.
+
+President of the Coconut Development Authority, Roshan Perera, said there had been an increase in export income of 734 million rupees by February this year compared to last year.
+
+...
+
+[Data](articles/a1bc4f58.json)
+
+---
+
+### Another underworld gang members are trapped
 
 *2024-03-26 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194944) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් අත්අඩංගුවට ගැනීම සඳහා පොලිස්පතිවරයාගේ උපදෙස් මත ආරම්භ කළ විශේෂ මෙහෙයුමේදී තවත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් 12 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+12 organized crime gang members arrested in a special operation led by the IGP. 63 gangs arrested from the 19th to yesterday. 6 more suspects arrested. 20 special police teams involved.
 
-ඒ අනුව, එම මෙහෙයුම ආරම්භ කරන ලද පසුගිය 19 වනදා සිට ඊයේ (25) දින දක්වා සංවිධානාත්මක අපරාධ කල්ලි සාමජිකයින් 63 දෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-එම සැකකරුවන් රැඳවුම් නියෝග මත රඳවා තබාගෙන වැඩිදුර විමර්ශන සිදුකරන බව පොලීසිය පවසයි.
+Another 12 organized crime gang members have been arrested in the special operation commenced on the instructions of the IGP to arrest organized crime gang members.
 
-විශේෂ මෙහෙයුමේ නිරත නිලධාරීන් විසින් ඉහත සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයන් 12 දෙනා අත්අඩංගුවට ගැනීමට අමතරව ඊයේ සිදුකරන ලද වැටලීම්වලදී තවත් සැකකරුවන් 06 දෙනෙකු ද අත්අඩංගුවට ගෙන ඇත.
+Accordingly, 63 organized crime gangs have been arrested from the 19th to commence yesterday (25).
 
-පසුගිය 19 වනදා සිට බස්නාහිර පළාත හා දකුණු පළාත මූලික කර ගෙන ක්‍රියාත්මක සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් අත්අඩංගුවට ගැනීම සඳහා දිවයිනම ආවරණය වන පරිදි විශේෂ පොලිස් කණ්ඩායම් 20ක් යොදවා මෙහෙයුම් ආරම්භ කරන ලදි.
+The suspects are detained on detention orders and conduct further investigations.
+
+In addition to the arrest of the 12 organized crime gang members, 6 other suspects have also been arrested in the raids conducted by the officers engaged in the above.
+
+From the 19th and Southern Province, the Western Province and Southern Province have been launched and 20 special police teams have been launched.
 
 ◼️
 
 [Data](articles/f6201c4c.json)
+
+[Extended Data](ext_articles/f6201c4c.ext.json)
+
+---
+
+### இலங்கையின் பாதுகாப்புப் படைகளின் பிரதானி கென்யாவின் பாதுகாப்புத் தலைமையகத்திற்கு விஜயம்
+
+*2024-03-26 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179708) · `ta`
+
+கென்யாவிற்கு நேற்று திங்கட்கிழமை (25) விஜயம் மேற்கொண்டுள்ள இலங்கையின் பாதுகாப்புப் படைகளின் பிரதானி மேஜர் ஜெனரல் சவேந்திர சில்வா நைரோபியிலுள்ள அந்நாட்டு பாதுகாப்புத் தலைமையகத்திற்கு சென்றுள்ளார்.
+
+அங்கு ஜெனரல் சவேந்திர சில்வாவை கென்யாவின் பாதுகாப்புப் படைகளின் தலைவர் ஜெனரல் பிரான்சிஸ் ஒகோல்லா வரவேற்றார்.
+
+சவேந்திர சில்வா கென்ய பாதுகாப்பு படையின் தலைவர், பாதுகாப்புப் படையின் துணைத் தலைவர், சேவைத் தளபதிகள் மற்றும் கென்யா பாதுகாப்புப்  படைகளின் ஜெனரல் மற்றும் மூத்த அதிகாரிகளுடன் கலந்துரையாடலை மேற்கொண்டார்.
+
+கென்யாவுக்கும் இலங்கைக்கும் இடையிலான இருதரப்பு இராணுவ உறவுகளை வலுப்படுத்துதல், கூட்டு இராணுவப் பயிற்சிகளை நடத்துதல், இராணுவத் திறனை மேம்படுத்துதல்  மற்றும் சமாதான ஆதரவு நடவடிக்கைகளில் ஈடுபாடு போன்ற பல விடயங்கள் கலந்துரையாடப்பட்டன.
+
+இரு நாடுகளும் தங்களின் மனித வளத்தை மேம்படுத்துவதில் மட்டும் அல்லாமல், தங்கள் செயல்பாடுகளை நவீனமயமாக்குவதிலும்  நெறிப்படுத்துவதிலும் தொடர்ந்து ஒருங்கிணைந்து செயல்படுவதை உறுதி செய்வதில் இரு இராணுவத் தலைவர்களும் தங்கள்  உறுதிப்பாட்டை எடுத்துரைத்தனர்.
+
+...
+
+[Data](articles/35a2de0a.json)
 
 ---
 
@@ -77,6 +209,58 @@ Considering the arguments put forward when the case was taken up, a panel of jud
 [Data](articles/86c8ab11.json)
 
 [Extended Data](ext_articles/86c8ab11.ext.json)
+
+---
+
+### Youth who died in a trap of fish
+
+*2024-03-26 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179713) · `ta`
+
+A young man in Punanai, Batticaloa, died in a fishing trap. His father filed a complaint with the Vazhachanai police. The deceased was unemployed due to illness and trapped while fishing.
+
+🟩
+
+A young man who was fishing in a pond in Punanai, Batticaloa, Batticaloa, died in a trap he used.
+
+The father of the deceased has lodged a complaint with the Vazhachanai police on Monday (25).
+
+Investigations have revealed that the deceased was unemployed at home due to illness and that he was trapped in a fishing in the pond yesterday.
+
+◼️
+
+[Data](articles/0d46f0c7.json)
+
+[Extended Data](ext_articles/0d46f0c7.ext.json)
+
+---
+
+### Global Hucking Action with the support of the China government - the Internet accounts of millions of Americans;Infiltrated- America Report
+
+*2024-03-26 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179717) · `ta`
+
+The US Department of Justice has revealed that millions of American online accounts were hacked by Chinese citizens over 14 years, targeting politicians, foreigners, and businessmen. The US will provide $10 million to the accused.
+
+🟩
+
+Shocking reports have revealed that millions of US -based people have been accompanied by China's internet hacking.
+
+The US Department of Justice has said that millions of American's online accounts have been cooked in Hucking.
+
+The seven Chinese citizens of the accused have been involved in such a crime for more than 14 years, US officials said.
+
+The US has announced that it will provide $ 10 million to those who have been accused of seven persons.
+
+American officials have said that these people from China have targeted politicians, foreigners and businessmen who criticize China.
+
+They sent more than tens of thousands of dangerous emails, resulting in millions of continental people affected by the US, the US Department of Justice said it was a global hackling move with the support of the Chinese government.
+
+Today's announcement has exposed the continuing efforts of China to undermine our country's internet security and target Americans, said UPI's director Kristere Ray.
+
+◼️
+
+[Data](articles/7de518af.json)
+
+[Extended Data](ext_articles/7de518af.ext.json)
 
 ---
 
@@ -116,25 +300,19 @@ Several beloved songs that have captured the hearts of fans include Age Sinahawa
 
 ---
 
-### Youth who died in a trap of fish
+### ’’පෙම් බැන්ද සිත් බැන්ද’’  සඳ කුමරු දිවියෙන් සමුගනියි
 
-*2024-03-26 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179713) · `ta`
+*2024-03-26 10:48:16* · [`adalk`](https://www.ada.lk/breaking_news/’’පෙම්-බැන්ද-සිත්-බැන්ද’’--සඳ-කුමරු-දිවියෙන්-සමුගනියි/11-408801) · `si`
 
-A young man in Punanai, Batticaloa, died in a fishing trap. His father filed a complaint with the Vazhachanai police. The deceased was unemployed due to illness and trapped while fishing.
+ප්‍රවීණ ගායන ශිල්පී චන්ද්‍ර කුමාර කඳනාරච්චි මහතා අද (26) උදෑසන අභාවප්‍රාප්ත වී තිබේ.
 
-🟩
+මහරගම පිළිකා රෝහලේ ප්‍රතිකාර ලබමින් සිටින අතරතුර ඒ මහතා ජීවිතක්ෂයට පත්ව ඇත.
 
-A young man who was fishing in a pond in Punanai, Batticaloa, Batticaloa, died in a trap he used.
-
-The father of the deceased has lodged a complaint with the Vazhachanai police on Monday (25).
-
-Investigations have revealed that the deceased was unemployed at home due to illness and that he was trapped in a fishing in the pond yesterday.
+ඇගේ සිනහව තහනම්, පෙම් බැන්ද සිත් බැන්ද, හිතේ සතුට ජීවිතයේ වැනි රසික හදවත් පිනවූ බොහෝමයක් ගීත අතිශය ජනාදරයට ලක්විය.
 
 ◼️
 
-[Data](articles/0d46f0c7.json)
-
-[Extended Data](ext_articles/0d46f0c7.ext.json)
+[Data](articles/7c33b2fa.json)
 
 ---
 
@@ -161,36 +339,6 @@ Jagath Weerasinghe said that the inmates of the buildings of these prisons are p
 [Data](articles/5d9c17b9.json)
 
 [Extended Data](ext_articles/5d9c17b9.ext.json)
-
----
-
-### Global Hucking Action with the support of the China government - the Internet accounts of millions of Americans;Infiltrated- America Report
-
-*2024-03-26 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/179717) · `ta`
-
-The US Department of Justice has revealed that millions of American online accounts were hacked by Chinese citizens over 14 years, targeting politicians, foreigners, and businessmen. The US will provide $10 million to the accused.
-
-🟩
-
-Shocking reports have revealed that millions of US -based people have been accompanied by China's internet hacking.
-
-The US Department of Justice has said that millions of American's online accounts have been cooked in Hucking.
-
-The seven Chinese citizens of the accused have been involved in such a crime for more than 14 years, US officials said.
-
-The US has announced that it will provide $ 10 million to those who have been accused of seven persons.
-
-American officials have said that these people from China have targeted politicians, foreigners and businessmen who criticize China.
-
-They sent more than tens of thousands of dangerous emails, resulting in millions of continental people affected by the US, the US Department of Justice said it was a global hackling move with the support of the Chinese government.
-
-Today's announcement has exposed the continuing efforts of China to undermine our country's internet security and target Americans, said UPI's director Kristere Ray.
-
-◼️
-
-[Data](articles/7de518af.json)
-
-[Extended Data](ext_articles/7de518af.ext.json)
 
 ---
 
@@ -305,6 +453,24 @@ The Chief Justice had said in response to a question raised by the Chief Justice
 [Data](articles/f19ce1d4.json)
 
 [Extended Data](ext_articles/f19ce1d4.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 301.90/302.00 to the US dollar
+
+*2024-03-26 10:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-301-90-302-00-to-the-us-dollar-156081/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 301.90/302.00 to the US dollar in the spot forex market on Tuesday, stronger from 302.60/70 on Monday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 was quoted at 11.25/32 percent down from 11.30/40 percent on Monday.
+
+A bond maturing on 15.12.2028 was quoted at 12.05/15 percent down from 12.10/15 percent.
+
+The Colombo Stock Exchange opened up: The All Share Price Index was up 0.19 percent at 11,255, and the S&P SL20 was up 0.19 percent at 3,226. (Colombo/Mar26/2024)
+
+◼️
+
+[Data](articles/974ba059.json)
 
 ---
 
@@ -835,6 +1001,26 @@ The Central Bank has decided to further reduce its policy interest rate.
 [Data](articles/6d7be075.json)
 
 [Extended Data](ext_articles/6d7be075.ext.json)
+
+---
+
+### Sri Lanka central bank cuts rates 50 basis points to 9.50-pct
+
+*2024-03-26 07:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-cuts-rates-50-basis-points-to-9-50-pct-156033/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has cut its policy corridor by 50 basis points to 8.50 percent (floor) and 9.50 percent (ceiling) citing stable external conditions and low inflation.
+
+Subdued aggregate demand , the lesser-than-expected impact of the recent SriLanka taxes, cut in electricity prices, well-anchored inflation expectations and the absence of excessive external sector pressures made the rate cut possible, the central bank said in its March monetary policy statement.
+
+The central bank itself by allowing the exchange rate to appreciate in the wake of deflationary policy has helped mitigate the effect of a valued added tax hike on traded goods, and also made possible an electricity price cut, analysts say.
+
+Sri Lanka central bank mainly responsible for electricity price cut: Minister
+
+Since external monetary stability was restored by the central bank in September 2022, index measured inflation in Sri Lanka had increased by only 5.9 percent over 17 months.
+
+...
+
+[Data](articles/3b5309b5.json)
 
 ---
 
@@ -1981,253 +2167,5 @@ Also, the pensioners increased by Rs. The Minister further stated that 2,500 wil
 [Data](articles/acc83337.json)
 
 [Extended Data](ext_articles/acc83337.ext.json)
-
----
-
-### A five-hour statement from Maithri
-
-*2024-03-25 20:33:43* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීගෙන්-පැය-පහක-ප්‍රකාශයක්/11-408797) · `si`
-
-Former President Maithripala Sirisena addressed the Passover attack, lodged a complaint against Kavindripala Sirisena, and provided a statement to the Criminal Investigation Department.
-
-🟩
-
-Former President Maithripala Sirisena has been speaking to the Passover attack this morning (25).
-
-Former President Maithripala Sirisena recently made a statement regarding the Passover on the Passover Day and had a huge story in the society.
-
-The Criminal Investigation Department has also lodged a complaint with the Criminal Investigation Department to arrest former President Kavindripala Sirisena, MP Kavindripala Sirisena's arrest and demanding statements.
-
-Former President Maithripala Sirisena has informed the CID to come to the CID and give a statement regarding the statement of the CID.
-
-Maithripala Sirisena has arrived at the Department of Investigation Department to the Department of Criminal Investigations from 10:00 am to 4.30 pm today (25).. The proceedings of the Attorney General's Department will be carried out regarding this statement.
-
-◼️
-
-[Data](articles/03404f60.json)
-
-[Extended Data](ext_articles/03404f60.ext.json)
-
----
-
-### Five Presidential election. 975 crores
-
-*2024-03-25 20:29:21* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-ජනපතිවරණය-රු--කෝටි-975ක-වියදමක්/11-408796) · `si`
-
-The Elections Commission estimates the next presidential election will cost Rs. 10 billion, with the Additional Commissioner of Elections costing Rs. 4 crores.
-
-🟩
-
-The Elections Commission states that the next presidential election will cost Rs.. Mr. Kularatne said that.
-
-It is estimated that the highest cost of the election is estimated to be estimated at Rs..
-
-The Additional Commissioner of Elections will cost Rs.. Further, Kularatne added that the following estimate is the cost estimate that the next presidential election is said.
-
-Rs. Rs.Rs.10 billion, welfare costs Rs.
-
-Rs.Rs. 4 crores and Rs.
-
-◼️
-
-[Data](articles/edb09575.json)
-
-[Extended Data](ext_articles/edb09575.ext.json)
-
----
-
-### IGP instructed to conduct a special security program
-
-*2024-03-25 20:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194925) · `si`
-
-IGP Deshaband Tennakoon ordered a special security program for Paskoon churches on 29th and 31st Easter services. The Inspector General of Personnel and church Board of Trustees will inspect premises. Local armed forces and police have been alerted for assistance.
-
-🟩
-
-IGP Deshaband Tennakoon has instructed the Senior Superintendent of Police to implement a special security measures to implement a special security program for the Paskoon churches.
-
-The special security program will be implemented on the 29th and the 31st Easter services on the 29th.
-
-It also advised them to choose the churches coming to the Passover and find out for the Passover.
-
-The Inspector General of Personnel and the Board of Trustees of the church have to inspect the premises under the operation of the premises under this defense plan, the Inspector General of Goods and TravelsHave been instructed.
-
-Police Headquarters have also instructed the local three armed forces in the incident and to seek assistance to obtain assistance.
-
-◼️
-
-[Data](articles/66d2be34.json)
-
-[Extended Data](ext_articles/66d2be34.ext.json)
-
----
-
-### What doels do you make?
-
-*2024-03-25 20:20:19* · [`adalk`](https://www.ada.lk/breaking_news/හරියටම-ගන්නේ-මොන-අවුරුද-නැකත්ද-/11-408795) · `si`
-
-The Ministry of Buddha Sasana, Religious and Cultural Affairs is tasked with preserving Sri Lankan traditions, especially after a group of veteran journalists faced criticism for their actions. The 13th Saturday is observed as the New Year, with a charity period from 3.29 am to 3.29 am. On Saturdays, a fire mortgage mix is prepared for consumption on 13.06 and 11.06 nights, followed by work on 12.06 and eating all the work on Sundays.
-
-🟩
-
-The Ministry of Buddha Sasana, Religious and Cultural Affairs as per the auspicious view of the State auspicious committee are asked the Ministry of Buddha Sasana, Religious and Cultural Affairs.
-
-According to the Ministry of Social Media, a group of veteran three-two veteran three two veteran three-two veteran three two veteran journalists have faced any other traditions.
-
-It is said that these personnel are concluded to harm the traditional Sri Lankan cultural contempt.
-
-Accordingly, the 13th Saturday, the 13th Saturday, is the New Year, and the charity period is up to 3.29 am to 3.29 am.
-
-Food Diluted - On Saturdays 13.06 On Saturdays on Saturdays 11.06 Nights, prepare a mix of fire mortgage.
-
-Work on 12.06 That day, and Sunday, Sunday, and Sunday, and Sunday, and Sunday, and eating food, and eat all the work.
-
-Departure for Employment
-
-◼️
-
-[Data](articles/1936deb2.json)
-
-[Extended Data](ext_articles/1936deb2.ext.json)
-
----
-
-### No election will be postponed by election amendments - Vijayadasa Rajapaksa
-
-*2024-03-25 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179701) · `ta`
-
-Dr. Vijayadasa Rajapaksa, Minister of Justice, Prison Affairs, and Constitutional Reforms, stated that no election will be postponed by the Elections amendment filed in Parliament. The amendments aim to fight corruption and amend the electoral system, including introducing a proportional electoral system. The minister also highlighted new laws addressing rape, sexual violence, and punishment for abuse during police custody. Despite protests from social activists and legal challenges, these amendments are part of a four-year study by senior lawyers.
-
-🟩
-
-Minister of Justice, Prison Affairs and Constitutional Reforms Dr. Vijayadasa Rajapakse said that no election is expected to be delayed through the Elections amendment filed in Parliament.
-
-Pointing out that the presidential elections in the presidential elections have been fighting corruption and amendment to the electoral system, the Minister has already submitted amendments to the current President Ranil Wickremesinghe and the introduction of proportional electoral system.
-
-Minister Vijayadasa Rajapaksa made this statement at a media briefing held at the Presidential Media Center on Monday (25).
-
-...
-
-[Data](articles/90d0ec7b.json)
-
-[Extended Data](ext_articles/90d0ec7b.ext.json)
-
----
-
-### Sri Lanka to introduce Port City, Stolen Asset Recovery laws soon: Justice Minister
-
-*2024-03-25 20:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-introduce-port-city-stolen-asset-recovery-laws-soon-justice-minister-156029/) · `en`
-
-ECONOMYNEXT – Sovereign debt defaulted Sri Lanka is in the process of passing key laws including Port City legislation and Proceeds of Crimes which includes provision for recovery of stolen assets, Justice Minister Wijeyadasa Rajapakshe said.
-
-The island nation is in a recovery path with International Monetary Fund-led economic and fiscal reforms, but it has so far failed to instill investor confidence to attract significant foreign inflows.
-
-Many foreign investors in the past have complained about rigid laws that have dragged businesses and dented their confidence in the country.
-
-President Ranil Wickremesinghe’s government has planned to bring in new laws in line with the IMF economic reforms.
-
-Justice Minister said some of those laws are “almost” drafted now.
-
-“There will be a new law for Colombo Port City,” Rajapakshe told reporters at a media briefing in Colombo on Monday (25).
-
-...
-
-[Data](articles/5f8e7098.json)
-
-[Extended Data](ext_articles/5f8e7098.ext.json)
-
----
-
-### Special Protection to Christian Temple
-
-*2024-03-25 20:13:21* · [`adalk`](https://www.ada.lk/breaking_news/කිතුණු-දේවස්ථානවලට-විශේෂ-ආරක්ෂාවක්/11-408794) · `si`
-
-A special security program, involving the Past, Armed Forces, and police, has been activated on the 29th and 31st of this month on the island's Genuians. The Inspector General of Police (IGP) directed the Senior Superintendent of Police to work with church leaders and ordered police stations to monitor incoming churches. The program includes checking church premises and luggage before services.
-
-🟩
-
-A special security program has been implemented with the Past on the country and the Armed Forces, the police and the armed forces of the island on the island's Genuians.
-
-The special security program has been implemented on the 29th Friday and 31st on Friday and 31st on this month.
-
-The Inspector General of Police has instructed the Senior Superintendent of Police to implement this special security program to implement this special security program in conjunction with the father and organizers of the masses.
-
-The Inspector General of Police (IGP) has also instructed the police stations to oversee the incoming churches in every police division today (26) and tomorrow.
-
-The defense program further states that the defense works of the security program will include the defense program, to check the premises and luggage that the premises before commencement of the church premises, police headquo.
-
-◼️
-
-[Data](articles/fa62ac36.json)
-
-[Extended Data](ext_articles/fa62ac36.ext.json)
-
----
-
-### Sri Lankans can take to the streets if presidential poll delayed: PAFFREL
-
-*2024-03-25 20:12:00* · [`economynextcom`](https://economynext.com/sri-lankans-can-take-to-the-streets-if-presidential-poll-delayed-paffrel-155969/) · `en`
-
-ECONOMYNEXT — Sri Lanka has a civic population that has the capacity to take to the streets if the government violates the constitution to postpone the presidential elections, Chairman of the People’s Action for Free & Fair Elections (PAFFREL) Rohana Hettiarachchi said.
-
-“Elections don’t belong to political parties, governments or political leaders. Elections belong to the people,” Hettiarachchi said speaking to reporters.
-
-“The presidential election must definitely be held between September 17 and October 17. The president cannot change that, nor can the cabinet, nor Basil Rajapaksa,” he said.
-
-Rajapaksa, the national organiser of the ruling Sri Lanka Podujana Peramuna (SLPP), has said it would be advisable to hold the parliamentary elections before the presidential polls.
-
-...
-
-[Data](articles/7626b669.json)
-
-[Extended Data](ext_articles/7626b669.ext.json)
-
----
-
-### A system of drying seeds operating in sunlight
-
-*2024-03-25 20:07:30* · [`adalk`](https://www.ada.lk/breaking_news/හිරු-එළියෙන්-ක්‍රියාත්මක-බීජ-වියළීමේ-පද්ධතියක්/11-408793) · `si`
-
-The Agriculture Sectional Modernization Project introduces a Solar Tunnel Dryer, a 100% sunlight-operated system for drying seeds like maize, green gram, and peas. It uses solar energy, eliminating electricity costs, and covers a warehouse with glass to capture sunlight. Dr. Rehan Wijekon highlights the risk of cactonoxy in drying water, not caffin.
-
-🟩
-
-100% The Agriculture Sectional Modernization Project under the Ministry of Agriculture and Plantation Industries have been carried out by 100% to introduce a new system of sunlight drying.
-
-Director of the system Dr. Rehan Wijekon said that this system is known as Solar Tunnel Dryer.
-
-This system, which has introduced to drying the grain for seeds such as maize, green gram, pea, pea, coem, sea, collapses, and collaterals, are being implemented with the electricity generator. In addition, the entire warehouse is covered with a glass cover, the natural sunlight and solar rushes continue. Also, the optimal temperature required for drying the seeds is available using solar energy without any cost.
-
-Speaking further, the director said that it is a risk of caxtonoxy in drying water, but it is not a risk of caffin, but it is not a risk of such a risk.
-
-◼️
-
-[Data](articles/8acb508f.json)
-
-[Extended Data](ext_articles/8acb508f.ext.json)
-
----
-
-### Gota's commissioner recommendations against Ranil and the Katha
-
-*2024-03-25 19:43:17* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාගේ-කොමිෂමින්-ජනපති-රනිල්ට-හා-අනුරට-එරෙහිව-දුන්-නිර්දේශ-බල-රහිත-කරයි/11-408792) · `si`
-
-The Court of Appeal, under the President's Commission, has issued a writ order against President Ranil Wickremesinghe and JVP leader Anura Kumara Dissanayake, following recommendations by Gota's commissioner. The court demanded the appointment of a Presidential Commission to issue political commissioners, with a verdict by DMS Nasanka Bandula Karunaratne, Judges, MP Nissanka Bandula Karunaratne, and others. The petitioners had filed petitions for the issuance of writ orders against their recommendations, leading to a lengthy trial and the issuance of writ orders to the President's Counsel Faiz Mustapha and Iraj Silva.
-
-🟩
-
-The Court of Appeal was issued today (25) by the President's Commission to look into the Presidential Commission of President Ranil Wickremesinghe and JVP leader Anura Kumara Dissanayake, JVP leader Anura Kumara Dissanayake.
-
-President Ranil Wickremesinghe, JVP leader Anura Kumara Dissanayake, Presidential Commission (SSHell Sarath Fonseka, former Army Commander Fishal Fonseka, is commemoratedThe Court of Appeal issued the writ order by the recommendation of the recommendations.
-
-The Court of Appeal issued the secret of the Court of Appeal, demanding the appointment of the Presidential Commission who was appointed to issue political commissioners.
-
-DMS Nasanka Bandula Karunaratne, Judges, MP Nissanka Bandula Karunaratne, was the verdict with DMSamakoon and Laper Thaihir.
-
-...
-
-[Data](articles/9062f66a.json)
-
-[Extended Data](ext_articles/9062f66a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 19:18:10**
+As of **2024-03-26 19:33:26**
 
 ## Newspaper Stats
 
-*Scraped **15,328** Articles*
+*Scraped **15,331** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ islandlk | 845
 adalk | 1,308
 adaderanalk | 1,841
 tamilmirrorlk | 1,842
-virakesarilk | 2,163
-dailymirrorlk | 2,369
+virakesarilk | 2,165
+dailymirrorlk | 2,370
 adaderanasinhalalk | 2,463
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,326 (100.0%) of 15,328 articles have been extended.
+15,328 (100.0%) of 15,331 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### ஐக்கிய மக்கள் சக்தியில் இருந்து கேவலப்படாமல் மீண்டும் எம்முடன் இணைந்துகொள்ளுங்கள் - ரங்கே பண்டார
+
+*2024-03-26 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/179777) · `ta`
+
+ஐக்கிய தேசிய கட்சியில் இருந்து பிரிந்து ஐக்கிய மக்கள் சக்திக்கு சென்றவர்களுக்கு தற்போது அங்கு உரிய இடம் வழங்கப்படுவதில்லை. அதனால்  எமது நண்பர்கள் தொடர்ந்தும் அங்கிருந்து அசிங்கப்படாமல் தங்களின் தாய் வீட்டுக்கு மீண்டும் வருமாறு அழைப்பு விடுக்கிறேன். அவர்களுக்காக ஐக்கிய தேசிய கட்சியின் கதவு எப்போதும் திறந்தே இருக்கும் என ஐக்கிய தேசிய கட்சியின் பொதுச் செயலாளர் பாலித்த ரங்கே பண்டார தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (26) இ்டம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/aca35eb2.json)
+
+---
+
+### Baltimore bridge collapse not an intentional act: Homeland Security secretary
+
+*2024-03-26 19:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Baltimore-bridge-collapse-not-an-intentional-act-Homeland-Security-secretary/108-279647) · `en`
+
+March 26 - The Department of Homeland Security secretary, Alejandro Mayorkas, said the Key Bridge collision does not appear to be an intentional act.
+
+In an update to X, Mayorkas said: “There are no indications this was an intentional act and we are assessing the impacts to the Port of Baltimore.”
+
+Mayorkas added that the US Coast Guard and other agencies are in Baltimore assisting with search and rescue efforts.
+
+◼️
+
+[Data](articles/87e0e41e.json)
+
+---
 
 ### Chinese premier holds talks with Sri Lankan PM; explore cooperation in clean energy and telecom
 
@@ -45,6 +75,8 @@ China is ready to work with Sri Lanka to implement the important consensus reach
 ...
 
 [Data](articles/56d86c5b.json)
+
+[Extended Data](ext_articles/56d86c5b.ext.json)
 
 ---
 
@@ -63,6 +95,8 @@ Thus, the members of the public are advised to stay hydrated, take breaks in the
 ...
 
 [Data](articles/828666e8.json)
+
+[Extended Data](ext_articles/828666e8.ext.json)
 
 ---
 
@@ -85,6 +119,18 @@ Police investigations have revealed that a man who died when he helped a kotanar
 [Data](articles/4fdc016d.json)
 
 [Extended Data](ext_articles/4fdc016d.ext.json)
+
+---
+
+### வட, கிழக்கில் வழிபாட்டுத்தலங்களை இலக்குவைத்து நிகழும் நில அபகரிப்புக்களால் சமூகங்களுக்கு இடையில் பதற்றம் - பிரிட்டனின் பொதுநலவாய, அபிவிருத்தி அலுவலகம் சுட்டிக்காட்டு
+
+*2024-03-26 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/179776) · `ta`
+
+இலங்கையின் மனித உரிமைகள் நிலைவரம் தொடர்ந்தும் கரிசனைக்குரியதாகவே காணப்படுகின்றது. நாட்டின் வட, கிழக்கு மாகாணங்களில் குமுறைகளுக்கும் முகங்கொடுத்துவருகின்றன. அதுமாத்திரமன்றி அப்பகுதிகளில் கரிசனைக்குரிய மட்டத்தில் காணி அபகரிப்புக்கள் அதிகரித்துவருவதுடன், சிலவேளைகளில் அவை மத வழிபாட்டுத்தலங்களை இலக்குவைத்தவையாகக் காணப்படுகின்றன. இவ்வாறான செயற்பாடுகள் சமூகங்களுக்கு இடையில் பதற்றத்தைத் தோற்றுவித்துள்ளன என்று பிரிட்டனின் பொதுநலவாய மற்றும் அபிவிருத்தி அலுவலகம் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/8b3353fd.json)
 
 ---
 
@@ -2233,71 +2279,5 @@ He said the decision was made by the unions for three years by a joint agreement
 [Data](articles/a3deb49b.json)
 
 [Extended Data](ext_articles/a3deb49b.ext.json)
-
----
-
-### The gun magic of the police officer
-
-*2024-03-26 11:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-உத்தியோகத்தரின்-துப்பாக்கி-மாயம்/175-335210) · `ta`
-
-Investigations into the disappearance of a T-56 rifle from a police officer at the Wilgamuwa police station in Matale have begun. The weapon was missing from the security booth while the officer was on duty.
-
-🟩
-
-Investigations have begun in connection with the disappearance of a T-56 rifle of a police officer working at the Wilgamuwa police station in Matale.
-
-Police Media Spokesperson DIG Nihal Talduwa said the weapon was missing at the security booth while the police officer was on duty at the main gate.
-
-He said the affidavit had been registered with the police officer and whether there were other reasons for the disappearance of the gun.
-
-◼️
-
-[Data](articles/908f5d2e.json)
-
-[Extended Data](ext_articles/908f5d2e.ext.json)
-
----
-
-### Investigation ordered into ‘assassination attempt’ on Magistrate Thilina Gamage
-
-*2024-03-26 11:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98210/investigation-ordered-into-assassination-attempt-on-magistrate-thilina-gamage) · `en`
-
-Public Security Minister Tiran Alles has ordered an immediate investigation into an assassination attempt on Colombo Fort Magistrate Thilina Gamage.
-
-Accordingly, Inspector General of Police (IGP) Deshabandu Tennakoon has been instructed to initiate an investigation into an attempt by a gunman to assassinate the magistrate using a Type 81 assault rifle grenade launcher.
-
-The investigation was launched based on a tip-off provided in writing by a government informant who revealed that the gunman in question had made phone calls asking around to get his hands on a Type 81 assault rifle to ‘end’ the magistrate’s life over certain verdicts given by him.
-
-The informant has also provided the investigators with the details of the gunman including the contact number.
-
-Upon receiving the tip-off, the minister ordered that an investigation be immediately launched in this regard as such moves could jeopardize the ongoing ‘Yukthiya’ anti-drug operation and the crackdown on the underworld.
-
-◼️
-
-[Data](articles/e3ac4577.json)
-
-[Extended Data](ext_articles/e3ac4577.ext.json)
-
----
-
-### One arrested with heroin drug
-
-*2024-03-26 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179721) · `ta`
-
-A 24-year-old from Dehiwala was arrested in Kalkissa for possessing heroin. Police in Badovitta seized the drug and are investigating further.
-
-🟩
-
-A suspect has been arrested with heroin drugs on the basis of information received by Kalkissa police in Badovitta area, Kalkissa.
-
-The drug has been seized by the police by the police.
-
-The suspect was the 24 -year -old from Dehiwala area. Kalkissa police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/369eba1e.json)
-
-[Extended Data](ext_articles/369eba1e.ext.json)
 
 ---

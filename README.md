@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 00:48:53**
+As of **2024-03-27 01:03:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,371 (100.0%) of 15,372 articles have been extended.
+15,372 (100.0%) of 15,372 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The North Colombo Centre for Liver Diseases serves as a postgraduate training ce
 ...
 
 [Data](articles/2f2b1753.json)
+
+[Extended Data](ext_articles/2f2b1753.ext.json)
 
 ---
 

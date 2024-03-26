@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 11:02:56**
+As of **2024-03-26 11:18:19**
 
 ## Newspaper Stats
 
-*Scraped **15,206** Articles*
+*Scraped **15,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,84 +17,166 @@ dailyftlk | 819
 islandlk | 843
 adalk | 1,295
 adaderanalk | 1,826
-tamilmirrorlk | 1,828
+tamilmirrorlk | 1,830
 virakesarilk | 2,133
-dailymirrorlk | 2,347
+dailymirrorlk | 2,349
 adaderanasinhalalk | 2,442
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,199 (100.0%) of 15,206 articles have been extended.
+15,206 (100.0%) of 15,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### "මම ඉවත් වෙන්නේ නෑ..."-මහ බැංකු අධිපති
+### மென்று துப்பிய பெண் வழக்கறிஞருக்கு சிக்கல்
+
+*2024-03-26 10:57:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/மென்று-துப்பிய-பெண்-வழக்கறிஞருக்கு-சிக்கல்/94-335204) · `ta`
+
+வழக்கு ஆவணத்தில் உள்ள ஆவணத்தை மென்று அழித்து, வழக்கறிஞர் தொழிலுக்கு ஒவ்வாத வகையில் நடந்து கொண்ட பெண் வழக்கறிஞரை, வழக்கு முடியும் வரை வழக்கறிஞர்  பணியில் இருந்து  இடைநீக்கம் செய்ய உயர் நீதிமன்றம் திங்கட்கிழமை (25) தீர்மானித்துள்ளது.
+
+12 வருடங்களாக சட்டத்தரணியாக கடமையாற்றிய பிரதிவாதி சட்டத்தரணியின் செயற்பாடு பாரதூரமான நடவடிக்கையாக கருதப்பட வேண்டுமென பிரதம நீதியரசர் ஜயந்த ஜயசூரிய தெரிவித்துள்ளார்.
+
+சட்டத்தரணிக்கு எதிராக தொழில் நெறிமுறைகளை மீறிய குற்றச்சாட்டின் பேரில் இந்த வழக்கு தாக்கல்செய்யப்பட்டது.
+
+பிரதம நீதியரசர் ஜயந்த ஜயசூரிய, உயர் நீதிமன்ற நீதியரசர்களான காமினி அமரசேகர மற்றும் ஏ.எச்.எம்.டி., நவாஸ்  ஆகியோர் அடங்கிய நீதிபதிகள் குழு முன்னிலையில் இந்த  மனு பரிசீலிக்கப்பட்டது.
+
+கெக்கிராவ நீதவான் நீதிமன்ற பதிவாளர் காரியாலயத்தில் உள்ள வழக்கு ஆவணமொன்றை வலுக்கட்டாயமாக எடுத்து வாயில் போட்டு அழித்ததன் மூலம் சட்டத்தரணிக்கு தகாத வகையில் நடந்து கொண்ட குற்றச்சாட்டில், பிரதிவாதி சட்டத்தரணிக்கு எதிராக சட்டமா அதிபர் இந்த வழக்கை முன்வைத்துள்ளார்.
+
+...
+
+[Data](articles/86c8ab11.json)
+
+---
+
+### "I won't get out ..." - Central Bank Governor
 
 *2024-03-26 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194943) · `si`
 
-තම සේවකයින්ගේ වැටුප් වැඩිකිරීම හේතුවෙන් ඇති වූ අර්බුදකාරී තත්ත්වය හමුවේ තමා මහ බැංකු අධිපති ධුරයෙන් ඉවත් නොවන බව ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+"Central Bank Governor Dr. Nandalal Weerasinghe remains in position despite crisis, citing employee wage issues as the cause."
+
+🟩
+
+Dr. Nandalal Weerasinghe says he does not remove the central bank governor in the face of the crisis due to the crisis due to the crisis due to the crisis caused by the wages of his employees.
 
 ◼️
 
 [Data](articles/9bc2506a.json)
 
+[Extended Data](ext_articles/9bc2506a.ext.json)
+
 ---
 
-### மீனுக்கு வீசிய வலையில் தானே சிக்கி உயிரிழந்த இளைஞர்: வாழச்சேனையில் சம்பவம்!
+### Singer Chandra Kumara Kandaanarachchi passes away
+
+*2024-03-26 10:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Singer-Chandra-Kumara-Kandaanarachchi-passes-away/108-279623) · `en`
+
+Veteran singer Chandra Kumara Kandaanarachchi has passed away this morning at the age of 76.
+
+He died while receiving treatment at the Apeksha Hospital in Maharagama.
+
+Several beloved songs that have captured the hearts of fans include Age Sinahawa Thahanam, Pem Banda Sith Banda, Ganga Nadee Theerayedi Eda, Gama Mahanuwarai, and Sath Dinakin Obe.
+
+◼️
+
+[Data](articles/4d3dc2ef.json)
+
+---
+
+### Youth who died in a trap of fish
 
 *2024-03-26 10:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179713) · `ta`
 
-மட்டக்களப்பு வாழச்சேனை,  புனானையில் குளம் ஒன்றில்  மீன் பிடித்துக் கொண்டிருந்த இளைஞர் ஒருவர்  தான் பயன்படுத்திய வலையில் சிக்கி உயிரிழந்துள்ளார்.
+A young man in Punanai, Batticaloa, died in a fishing trap. His father filed a complaint with the Vazhachanai police. The deceased was unemployed due to illness and trapped while fishing.
 
-சம்பவம் தொடர்பில்,   வாழச்சேனை பொலிஸாரிடம்  உயிரிழந்தவரின் தந்தை நேற்று திங்கட்கிழமையன்று (25) முறைப்பாடு செய்துள்ளார்.
+🟩
 
-உயிரிழந்தவர் சுகவீனம் காரணமாக வேலையின்றி வீட்டில் இருந்ததாகவும் இந்நிலையில்  நேற்று குளத்தில் மீன்பிடித்துக் கொண்டிருந்த போது  அவர் பயன்படுத்திய மீன்பிடிவலையில் சிக்கி நீரில் மூழ்கி உயிரிழந்துள்ளதாகவும் விசாரணையில் தெரியவந்துள்ளது.
+A young man who was fishing in a pond in Punanai, Batticaloa, Batticaloa, died in a trap he used.
+
+The father of the deceased has lodged a complaint with the Vazhachanai police on Monday (25).
+
+Investigations have revealed that the deceased was unemployed at home due to illness and that he was trapped in a fishing in the pond yesterday.
 
 ◼️
 
 [Data](articles/0d46f0c7.json)
 
+[Extended Data](ext_articles/0d46f0c7.ext.json)
+
 ---
 
-### රැඳවියන්ට ආදායමක් ගන්න  බන්ධනාගාරවල නිෂ්පාදන කර්මාන්ත අරඹන්න යයි
+### Products to begin in prisons to earn income
 
 *2024-03-26 10:43:42* · [`adalk`](https://www.ada.lk/breaking_news/රැඳවියන්ට-ආදායමක්-ගන්න--බන්ධනාගාරවල-නිෂ්පාදන-කර්මාන්ත-අරඹන්න-යයි/11-408800) · `si`
 
-අධිකරණවලින් දඬුවම් ලබා   බන්ධනාගාරගතව සිටින රැඳවියන් පුනරුත්ථාපනය කර  යහපත් පුරවැසියන් ලෙස සමාජගත කිරීමේ අරමුණෙන් දිවයිනේ අමතර ඉඩ පහසුකම් සහිත බන්ධනාගාරවල රැඳවියන්ගේ ශ්‍රම දායකත්වය ලබාදී  පුද්ගලික ව්‍යවසායකත්වයන් යටතේ  නිෂ්පාදන   කර්මාන්ත ඒකක  ආරම්භ කිරීමට   සැලසුම් කර ඇතැයි බන්ධනාගාර කොමසාරිස් ජගත් වීරසිංහ මහතා පැවසීය.
+A program to rehabilitate inmates through work in prisons, aiming to integrate them into society and provide them with productive employment. Applications for industrial units in Thawakayakala, Negombo Palleyana, Kandunaspola, Badulla, and Pallekele are open until the 31st.
 
-ඔවුන්ගේ ශ්‍රමය සිරගත නොකොට පලදායී කටයුත්තකට යොදවා ඔවුනට බන්ධනාගාරය තුළදීම ආදායම් මාර්ගයක් සැලසීම මෙම වැඩපිළිවෙළ මගින් අපේක්ෂිත බව ඒ මහතා පැවසීය.
+🟩
 
-බන්ධනාගාර දෙපාර්තමේන්තුව සහ කර්මාන්ත සංවර්ධන මන්ඩලය අතර ඇතිකරගත් අවබෝධතා  ගිවිසුමකට අනුව මෙම වැඩ  පිළිවෙල ක්‍රියාත්මක කිරීම සඳහා මේ වන විට මෙම මස 31 දක්වා  ආයෝජකයන්ගෙන් ඉල්ලුම්පත් කැඳවා ඇතැයිද බන්ධනාගාර කොමසාරිස්වරයා පැවැසීය.
+Principals have to be established under the purpose of rehabilitating the inmates who are reintegrated into customized and socialized prisoners to rehabilitate the labor of the prisons.
 
-මෙම වැඩ පිළිවෙලේ මුල් අදියර යටතේ මහර,වටරැක,කුරුවිට,වීරවිල,මීතිරිගල, අනුරාධපුරය,කන්දේවත්ත  ,අඟුණකොලපෑලැස්ස,බදුල්ල තල්දෙන,මීගමුව පල්ලංසේන, සහ  පල්ලෙකැලේ යන බන්ධනාගාර එකොළහ  තුළ කර්මාන්ත ඒකක පිහිටුවීමට යෝජිත ය.
+He said that this program is expected to provide their labor to a fruitful work without imprisonment.
 
-...
+According to a Memorandum of MoU and the Department of Prisons and Industrial Development Board, the relevant applications have been called and the applications have been called on 31st of this month.
+
+Under the early stage of this program, the proposed to establish industrial units in Thawakayakala, Negombo Palleyana, Kandunaspola, Badulla, Kandunaspola, Badulla, and Pallekele.
+
+Jagath Weerasinghe said that the inmates of the buildings of these prisons are provided to the establishment of appropriate industrial units.
+
+◼️
 
 [Data](articles/5d9c17b9.json)
 
+[Extended Data](ext_articles/5d9c17b9.ext.json)
+
 ---
 
-### சீனா அரசாங்கத்தின் ஆதரவுடன் உலகளாவிய ஹக்கிங் நடவடிக்கை - மில்லியன் கணக்கான அமெரிக்கர்களின் இணைய கணக்குகள்; ஊடுருவப்பட்டன- அமெரிக்கா தெரிவிப்பு
+### Global Hucking Action with the support of the China government - the Internet accounts of millions of Americans;Infiltrated- America Report
 
 *2024-03-26 10:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/179717) · `ta`
 
-அமெரிக்காவைசேர்ந்த  மில்லியன் கணக்கானவர்கள் சீனாவின் இணைய வழி ஹக்கிங் நடவடிக்கைகளில் சிக்குண்டமை குறித்த அதிர்ச்சி தகவல்கள் வெளியாகியுள்ளன.
+The US Department of Justice has revealed that millions of American online accounts were hacked by Chinese citizens over 14 years, targeting politicians, foreigners, and businessmen. The US will provide $10 million to the accused.
 
-மில்லியன் கணக்கான அமெரிக்கர்களின் இணையவழி கணக்குகள் ஹக்கிங்கில் சிக்குண்டுள்ளதாக எவ்பிஐயும் அமெரிக்க நீதி திணைக்களமும் தெரிவித்துள்ளன.
+🟩
 
-குற்றச்சாட்டப்பட்டுள்ள ஏழு சீன பிரஜைகளும் 14 வருடங்களிற்கு மேல் இவ்வாறான குற்றசெயலில் ஈடுபட்டனர் என அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+Shocking reports have revealed that millions of US -based people have been accompanied by China's internet hacking.
 
-குற்றச்சாட்டு சுமத்தப்பட்டுள்ள ஏழு நபர்கள் குறித்த விபரங்களைதருபவர்களிற்கு 10 மில்லியன் அமெரிக்க டொலர் சன்மானம் வழங்கப்படும் என அமெரிக்கா அறிவித்துள்ளது.
+The US Department of Justice has said that millions of American's online accounts have been cooked in Hucking.
 
-சீனாவை விமர்சனம் செய்யும் அமெரிக்கர்கள் வெளிநாட்டவர்கள் வர்த்தகர்கள் அரசியல்வாதிகளை சீனாவை சேர்ந்தஇந்த நபர்கள் இலக்குவைத்தனர் என அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+The seven Chinese citizens of the accused have been involved in such a crime for more than 14 years, US officials said.
 
-...
+The US has announced that it will provide $ 10 million to those who have been accused of seven persons.
+
+American officials have said that these people from China have targeted politicians, foreigners and businessmen who criticize China.
+
+They sent more than tens of thousands of dangerous emails, resulting in millions of continental people affected by the US, the US Department of Justice said it was a global hackling move with the support of the Chinese government.
+
+Today's announcement has exposed the continuing efforts of China to undermine our country's internet security and target Americans, said UPI's director Kristere Ray.
+
+◼️
 
 [Data](articles/7de518af.json)
+
+[Extended Data](ext_articles/7de518af.ext.json)
+
+---
+
+### குறைந்த சம்பளம் 17,500 ரூபாய்
+
+*2024-03-26 10:39:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்த-சம்பளம்-17-500-ரூபாய்/175-335201) · `ta`
+
+தேசிய குறைந்தபட்ச ஊதியச் சட்டத்தின் விதிகளின்படி, தேசிய குறைந்தபட்ச ஊதியம் 12,500 ரூபாயாக நிர்ணயிக்கப்பட்டுள்ளது.
+
+தேசிய தொழிலாளர் ஆலோசனை சபையின் பரிந்துரையின் பேரில் நியமிக்கப்பட்ட குழு சம்பளத்தை 17,500 ரூபாவாக அதிகரிக்க பரிந்துரை செய்துள்ளது.
+
+அதன்படி, தேசிய குறைந்தபட்ச தினக்கூலியும் 500 ரூபாயில் இருந்து 700 ரூபாயாக அதிகரிக்கப்படும்.
+
+◼️
+
+[Data](articles/c15194fd.json)
 
 ---
 
@@ -122,7 +204,11 @@ The young business couple is a resident of the Puwakpitiya area in Avissawella, 
 
 *2024-03-26 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98209/veteran-singer-chandra-kumara-kandanarachchi-passes-away) · `en`
 
-Veteran Sri Lankan singer Chandra Kumara Kandanarachchi passed away on Tuesday morning (March 26). He was aged 76 at the time of his demise.
+Veteran Sri Lankan singer Chandra Kumara Kandanarachchi passed away on Tuesday morning (March 26).
+
+According to reports, Kandanarachchi has received medical treatment at the Apeksha Hospital in Maharagama for a while.
+
+He was well-known for a number of hit songs including ‘Ege Sinahawa Thahanam’, ‘Pem Benda Sith Benda’, ‘Ganga Nadee Theeraye’, and ‘Hithe Sathuta Jiwithe’.
 
 ◼️
 
@@ -154,25 +240,35 @@ The magazine run by the Chinese Communist Party said that the amount of bribes r
 
 ---
 
-### නීතිඥ වෘත්තීයේ නිරත වීම වළක්වාලමින් නීතිඥවරියකට තහනම් නියෝගයක්
+### Attorney-at-law prejudged a lawyer preventing lawyers
 
 *2024-03-26 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194942) · `si`
 
-අධිකරණ කාර්යාලයේ තිබූ නඩු ගොනුවක ලේඛනයක් බලහත්කාරයෙන් උදුරාගෙන එය සපා කා එය විනාශ කළේ යැයි චෝදනා ලබා සිටින කැකිරාව ප්‍රදේශයේ නීතිඥවරියකට නඩු විභාගය අවසන් වන තෙක් නීතිඥ වෘත්තීයේ නිරත වීම තහනම් කරමින් ශ්‍රේෂ්ඨාධිකරණය විසින් නියෝගයක් නිකුත් කර තිබේ.
+The Supreme Court has banned a lawyer in Kekirawa for allegedly destroying a document and violating lawyer-client confidentiality, following a charge sheet by Chief Justice Jayantha Jayasuriya and others.
 
-එම සිද්ධිය සම්බන්ධයෙන් අදාළ නීතිඥවරියට එරෙහිව ඉදිරිපත් කර තිබූ චෝදනා පත්‍රයක් සලකා බැලීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කෙරුණි.
+🟩
 
-අගවිනිසුරු ජයන්ත ජයසූරිය, ගාමිණී අමරසේකර සහ ඒ.එච්.එම්.ඩී.නවාස් යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් හමුවේ මෙම චෝදනා පත්‍රය කැඳවනු ලැබීය.
+The Supreme Court has issued an order to prohibit the lawyer in Kekirawa area until the case has been accused and destroyed a document in the court office.
 
-කැකිරාව මහෙස්ත්‍රාත් අධිකරණයේ පැවති නඩුවකට අදාළව උසාවි කාර්ය මණ්ඩලය භාරයේ තිබූ නඩු ගොනුවක ලේඛනයක් බලහත්කාරයෙන් උදුරාගෙන එය සපා කා ඊට හානි කළේ යැයි චෝදනා කරමින් අදාළ නීතිඥවරියට එරෙහිව චෝදනා ගොනුකර තිබිණි.
+The order was issued after considering the charge sheet against the lawyer.
 
-මේ තුළින් අදාළ නීතිඥවරිය නීතිඥ ආචාර්ය ධර්ම උල්ලංඝනය කර ඇති බවටත් අදාළ චෝදනා පත්‍රය මඟින් චෝදනා නඟා තිබිණි.
+The charge sheet was called by Chief Justice Jayantha Jayasuriya and Gamini Amarasekera and AHMD Ekanus.
 
-මෙම නීතිඥවරියට එල්ල වී තිබෙන චෝදනා ඉතා බරපතළ යැයි පෙන්වා දුන් ත්‍රිපුද්ගල වනිසුරු මඩුල්ල මෙවැනි ක්‍රියා
+The court staff had been accused of forcefully sanctified a laboratory document in the Kekirawa Magistrate's Court.
 
-...
+The allegation sheet has also been accused of violating the lawyer of lawyer.
+
+Such functions have been made to say that the allegations made by the lawyer
+
+Accordingly, the three-member panel of judges ordered the lawyer to ban the lawyer to ban the lawyer to ban the lawyer until the end of the charges.
+
+The Chief Justice had said in response to a question raised by the Chief Justice at the DUs that the lawyer was about twelve years.
+
+◼️
 
 [Data](articles/f19ce1d4.json)
+
+[Extended Data](ext_articles/f19ce1d4.ext.json)
 
 ---
 
@@ -483,6 +579,8 @@ The young business couple is a resident of the Puwakpitiya area in Avissawella, 
 ...
 
 [Data](articles/16c0d05b.json)
+
+[Extended Data](ext_articles/16c0d05b.ext.json)
 
 ---
 
@@ -1226,6 +1324,28 @@ In the same week, the International Monetary Fund (IMF), on the advice of which 
 
 ---
 
+### Ambitious Sri Lankan jobseekers ‘trafficked into Ukraine war zones’
+
+*2024-03-26 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/Ambitious-Sri-Lankan-jobseekers-trafficked-into-Ukraine-war-zones/131-279572) · `en`
+
+A group of 55 Sri Lankans, comprising former soldiers as well as civilians, had been trafficked to war-torn Ukraine with the promise of securing jobs in Georgia, Poland and Ukraine
+
+Two suspects operating a foreign employment agency in Kadawatha were arrested this month on charges of trafficking a group of 55 Sri Lankans to conflict zones in Ukraine
+
+Many ask the question whether it’s worth risking their lives so much in order to find employment abroad?
+
+Police Spokesperson DIG Attorney-At-Law Nihal Thalduwa urged the public to be cautious of individuals involved in human trafficking
+
+According to Prof. Herath, when people are desperate and are unaware of what is going on in the world, they often fall prey to such rackets
+
+Is the situation in Sri Lanka so grim that locals harbour hope that they could lead a better life in a country that is affected by war?
+
+...
+
+[Data](articles/8f79f1a0.json)
+
+---
+
 ### Impact of parallel and underground economies on Govt. corruption and economic failure
 
 *2024-03-26 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Impact-of-parallel-and-underground-economies-on-Govt-corruption-and-economic-failure/172-279574) · `en`
@@ -1852,19 +1972,29 @@ Maithripala Sirisena has arrived at the Department of Investigation Department t
 
 ---
 
-### ඉදිරි ජනපතිවරණය රු. කෝටි 975ක වියදමක්
+### Five Presidential election. 975 crores
 
 *2024-03-25 20:29:21* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරි-ජනපතිවරණය-රු--කෝටි-975ක-වියදමක්/11-408796) · `si`
 
-ඉදිරි ජනාධිපතිවරණය පැවැත්වීම සඳහා රුපියල් කෝටි 975ක වියදමක් දැරීමට සිදුවන බව මැතිවරණ කොමිසම සඳහන් කරයි.අල්ලස දූෂණ නාස්තියට එරෙහි පුරවැසි බලය සංවිධානයේ ජාමුනි කමන්ත තුෂාර මහතා තොරතුරු දැන ගැනීමේ පනත යටතේ කළ ඉල්ලීමකට අනුව මැතිවරණ කොමිසමේ අතිරේක මැතිවරණ කොමසාරිස් සහ එහි තොරතුරු නිලධාරී බී.සී.පී. කුලරත්න මහතා ඒ බව සඳහන් කළේය.
+The Elections Commission estimates the next presidential election will cost Rs. 10 billion, with the Additional Commissioner of Elections costing Rs. 4 crores.
 
-එම මැතිවරණයේ වැඩිම වියදම දැරීමට සිදුව ඇත්තේ කාර්ය මණ්ඩල වැටුප්, අතිකාල සහ ගමන් වියදම් වෙනුවෙන් බවත්, එය රුපියල් කෝටි 27 1/2ක වියදමක් වශයෙන් ඇස්තමේන්තු කොට ඇති බවත් සඳහන් කරන කුලරත්න මහතා වාහන කුලී වෙනුවෙන් රුපියල් කෝටි 15ක වියදමක් දැරීමට සිදුවන බවට ඇස්තමේන්තු කර ඇතැයිද සඳහන් කළේය.
+🟩
 
-මැතිවරණයේ මුද්‍රණ වියදම් වෙනුවෙන් රුපියල් කෝටි 14 ක වියදමක් දැරීමට සිදුවන බවත්, ලිපි ද්‍රව්‍ය හා කාර්යාල භාණ්ඩ වෙනුවෙන් රුපියල් කෝටි 13ක වියදමක් දැරීමට සිදුවන බවත් අතිරේක මැතිවරණ කොමසාරිස් බී.සී.පී. කුලරත්න මහතා වැඩිදුරටක් සඳහන් කළේය.මැතිවරණ කොමිසම සඳහන් කරන ආකාරයට ඉදිරි ජනාධිපතිවරණය පැවැත්වීම සඳහා වැය වන සම්පූර්ණ වියදම් ඇස්තමේන්තුව මෙසේය.
+The Elections Commission states that the next presidential election will cost Rs.. Mr. Kularatne said that.
 
-...
+It is estimated that the highest cost of the election is estimated to be estimated at Rs..
+
+The Additional Commissioner of Elections will cost Rs.. Further, Kularatne added that the following estimate is the cost estimate that the next presidential election is said.
+
+Rs. Rs.Rs.10 billion, welfare costs Rs.
+
+Rs.Rs. 4 crores and Rs.
+
+◼️
 
 [Data](articles/edb09575.json)
+
+[Extended Data](ext_articles/edb09575.ext.json)
 
 ---
 
@@ -2085,101 +2215,5 @@ Since this incident, a group of SLTB workers have been attacked and damaged in a
 [Data](articles/24d44989.json)
 
 [Extended Data](ext_articles/24d44989.ext.json)
-
----
-
-### Artifies intelligence is given this way
-
-*2024-03-25 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194923) · `si`
-
-President Ranil Wickremesinghe announced a new School Food Program and plans to introduce AI programs in schools, aiming for a modern education system by 2030. The government has allocated funds for these initiatives.
-
-🟩
-
-President Ranil Wickremesinghe says that the government has allocated Rs.
-
-President Ranil Wickremesinghe was speaking at the inauguration of the "School Meaning" in 2024 this morning.
-
-The President added that the government is focusing on a change of school and the examination scheme that should be educated in the country's children and submitting the subject knowledge and nutrition.
-
-Today's School Food Program begins. I see this instance as one expectation of the government. In order to complete education, students should be given subject knowledge and submit their nutrition as well as their nutrition. A number of countries in the world, the school food program is implemented.
-
-...
-
-[Data](articles/df0899f3.json)
-
-[Extended Data](ext_articles/df0899f3.ext.json)
-
----
-
-### CID, Maithri and a revelation
-
-*2024-03-25 19:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194922) · `si`
-
-Former President Maithripala Sirisena gave a 5-hour statement to the CID, acknowledging knowledge of an order related to the Passover attack. Defense Minister Tiran Alles directed the CID on this matter. The CID's investigation lasted from 10:30 am to 3:40 pm, with further action pending the Attorney General's instructions.
-
-🟩
-
-Former President Maithripala Sirisena appeared in the face of the CID today (25).
-
-The Criminal Investigation Department (CID) was recorded five hours of statements from the former President.
-
-Former President Maithripala Sirisena stated that he was aware of the Order who was ordered to be ordered if the Passover attack was ordered.
-
-The Minister of Defense Tiran Alles had ordered the CID regarding the CID regarding his statement.
-
-The Criminal Investigation Department at around 10.30 am today, the Criminal Investigation Department left at around 3.40 pm.
-
-Meanwhile, police spokesman DIG, Attorney-at-Law Nihal Talduuwa, said that action would be investigated and taking further action on the Attorney General's instructions.
-
-◼️
-
-[Data](articles/c426529a.json)
-
-[Extended Data](ext_articles/c426529a.ext.json)
-
----
-
-### Prime Minister's ministerial appointments have been made to see the work
-
-*2024-03-25 19:14:23* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිගේ--ඇමතිධූරවල-වැඩ-බැලීමට-ජනක-පත්කරයි/11-408791) · `si`
-
-Prime Minister Dinesh Gunawardena appointed President Ranakka Wakkumbura to Public Administration, Home Affairs, and Provincial Councils and Local Government posts, effective until Gunawardena's departure to China's annual conference.
-
-🟩
-
-President Ranakka Wakkumbura has been appointed by the Public Administration, Home Affairs and Provincial Councils and Local Government and Local Government and Local Government.
-
-Wakkumbura has been appointed to the post until the Prime Minister Dinesh Gunawardena, who was with that post.
-
-Janaka Wakkumbura is the Public Minister of Provincial Councils, Local Government and Environment.
-
-Prime Minister Dinesh Gunawardena departed on the 24th of China's leading annual international conference, the leading annual international conference of China.
-
-◼️
-
-[Data](articles/fc9c3d90.json)
-
-[Extended Data](ext_articles/fc9c3d90.ext.json)
-
----
-
-### Buddha Sasana Ministry issues statement over New Year auspicious times
-
-*2024-03-25 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/98199/buddha-sasana-ministry-issues-statement-over-new-year-auspicious-times) · `en`
-
-The Ministry of Buddha Sasana, Religious and Cultural Affairs has requested the public to follow the official list of auspicious times issued by the State Astrologers’ Committee for the 2024 Sinhala and Tamil New Year.
-
-Sri Lanka’s 42-member group of astrologers employed by the Cultural Affairs ministry were split for the first time on deciding the best date for New Year (Aluth Aurudu) celebrations with some warning of “disaster” and accusing rivals of misinterpreting the position of stars.
-
-The majority set the dawn of the traditional Sinhala and Tamil New Year on the night of April 13, however, some claim the time was wrong and would lead the country into “disaster.”
-
-However, the Ministry of Buddha Sasana, Religious and Cultural Affairs has today issued a special statement regarding the matter while urging the public to follow the official list of auspicious times issued by the State Astrologers’ Committee.
-
-...
-
-[Data](articles/398829c9.json)
-
-[Extended Data](ext_articles/398829c9.ext.json)
 
 ---

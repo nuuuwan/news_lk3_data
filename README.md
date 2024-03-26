@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 22:50:55**
+As of **2024-03-26 23:03:14**
 
 ## Newspaper Stats
 
-*Scraped **15,352** Articles*
+*Scraped **15,353** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 845
 adalk | 1,312
 adaderanalk | 1,843
 tamilmirrorlk | 1,844
-virakesarilk | 2,168
+virakesarilk | 2,169
 dailymirrorlk | 2,374
 adaderanasinhalalk | 2,469
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,351 (100.0%) of 15,352 articles have been extended.
+15,352 (100.0%) of 15,353 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### பொதுத்தேர்தலை முதலில் நடத்தினால் சிறந்த அரசியல் நிலைமை தோற்றம் பெறும் - சாந்த பண்டார
+
+*2024-03-26 22:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179781) · `ta`
+
+முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் தலைமையில் புதன்கிழமை (27) கூடவுள்ள பொதுஜன பெரமுனவின் நிறைவேற்று சபை கூட்டத்தில் முக்கிய தீர்மானங்கள் எடுக்கப்படும். நாட்டில் அரசியல் நிலைமை நன்மை பயக்கும் வகையில் அமைய வேண்டுமாயின் பொதுத்தேர்தலை முதலில் நடத்த வேண்டும் என ஊடகத்துறை இராஜாங்க அமைச்சர் சாந்த பண்டார தெரிவித்தார்.
+
+பத்தரமுல்லையில் உள்ள ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காரியாலயத்தில் செவ்வாய்க்கிழமை (26) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஸ்ரீ லங்கா பொதுஜன பெரமுனவை பலப்படுத்தும் பணிகள் கட்சியின் தலைவர் மஹிந்த ராஜபக்ஷ, தேசிய அமைப்பாளர் பஷில் ராஜபக்ஷ தலைமையில் முன்னெடுக்கப்படுகிறது. கட்சியின் நிறைவேற்று சபை கூட்டம் புதன்கிழமை (27) கூடவுள்ளது.
+
+நிறைவேற்று சபை கூட்டத்தில் மே தினம், புதிய அரசியல் கூட்டணி உள்ளிட்ட முக்கிய தீர்மானங்கள் எடுக்கப்படும்.மே தின கூட்டத்தை இம்முறை கொழும்பு கெம்பல் மைதானத்தில் நடத்த உத்தேசித்துள்ளோம். காலி முகத்திடல் மைதானத்தில் கூட்டத்தை நடத்த ஆரம்பத்தில் உத்தேசித்திருந்தோம். இருப்பினும் அரசாங்கம் அதற்கு அனுமதி வழங்கவில்லை.
+
+...
+
+[Data](articles/3744845e.json)
+
+---
 
 ### Government vehicles run at Rs. 300 per km, costs additional Rs. 20 bn: Parliamentary Committee
 
@@ -320,25 +338,33 @@ Political parties should be responsible for the selection of the best parties in
 
 ---
 
-### රජයේ වාහන වල කිලෝමීටරයක ධාවන පිරිවැය රු. 300ක් බව හෙළිවෙයි
+### Running costs in government vehicles. It is revealed that 300
 
 *2024-03-26 19:58:38* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-වාහන-වල-කිලෝමීටරයක-ධාවන-පිරිවැය-රු--300ක්-බව-හෙළිවෙයි/11-408818) · `si`
 
-කිලෝමීටරයක් රු.300ක පිරිවැයකින් ධාවනය කරන රාජ්‍ය වාහන කිලෝමීටරයක් රු.100 පිරිවැයකින් ධාවනය කළ හැකි බව බලශක්ති සහ ප්‍රවාහනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේදී අනාවරණය විය.
+The Select Committee on Energy and Transport revealed that state institutions have 82,000 vehicles, with 5,500 non-existent, costing Rs. 300 per kilometer to run. This could save Rs. 20 billion. MP Nalaka Bandara and Kottegoda suggested a Sub-Committee to study the issue.
 
-මිනිස්බල හා රැකීරක්ෂා දෙපාර්තමේන්තුව විසින් රාජ්‍ය සම්පත් කළමනාකරණය සම්බන්ධයෙන් සකස් කරන ලද පර්යේෂණ පත්‍රිකාවකදත්ත අනුව මේ පිළිබඳ අනාවරණය කර ගැනීමට හැකි විය.
+🟩
 
-බලශක්ති සහ ප්‍රවාහනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව පාර්ලිමේන්තු මන්ත්‍රී නාලක බණ්ඩාර කෝට්ටේගොඩ මහතාගේ සභාපතිත්වයෙන් පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදී මෙම කරුණු අනාවරණය කර ගැනුණි.
+The Select Committee of the Sectoral Oversight Committee revealed that a kilometer of Rs.
 
-මෙහිදී අදාළ පර්යේෂණ පත්‍රිකාව මගින් පෙන්වා දුන්නේ 2022 වර්ෂයේ සංඛ්‍යාලේඛන අනුව රාජ්‍ය ආයතන සතුව වාහන 82,000ක් පමණ පවතින බවත් ඉන් 76,000ක් පමණ ධාවන තත්ත්වයේ පවතින බවත්ය.
+The Department of Manpower and Employment was able to disclose this regard as a research sheet prepared in respect of state resource management.
 
-මේ අනුව වාහන 5,500ක් පමණ ධාවන තත්ත්වයේ නොපවතින බවද මෙහිදී අනාවරණය විය.
+These issues were revealed when the Sectoral Oversight Committee on Energy and Transport met with MP Nalaka Bandara at Parliament.
 
-එසේම ධාවන තත්ත්වයේ පවතින එක් වාහනයක් කිලෝමීටරයක් ධාවනය කිරීම සඳහා යන වියදම ආසන්න වශයෙන් රු.300ත් 500ත් අතර වන බවද මෙම පර්යේෂණ පත්‍රිකාව අනුව හඳුනාගෙන තිබුණි.
+The research paper pointed out that state institutions have about 82,000 vehicles and 76,000 of them have around 82,000 vehicles.
+
+It was also revealed that about 5,500 vehicles do not exist.
+
+The expenses of a kilometer of one kilometer are approximately Rs. 300 and the cost of running one kilometer.
+
+However, the research data was identified by the data that could run a kilometer of Rs.. Accordingly, if the system is followed, the process is followed by the removal of the procedure, directly.. It was revealed that about 20 billion public expenditure could be saved.
 
 ...
 
 [Data](articles/466045c0.json)
+
+[Extended Data](ext_articles/466045c0.ext.json)
 
 ---
 
@@ -2245,25 +2271,5 @@ Under this security plan, the church premises would be inspected before the comm
 [Data](articles/2941defa.json)
 
 [Extended Data](ext_articles/2941defa.ext.json)
-
----
-
-### Special security arrangements for Good Friday and Easter Sunday
-
-*2024-03-26 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98212/special-security-arrangements-for-good-friday-and-easter-sunday) · `en`
-
-Sri Lanka Police is organizing a special security plan to be set in place at churches across the country in view of the upcoming Good Friday and Easter Sunday, as per the instructions of Inspector-General of Police (IGP) Deshabandu Tennakoon.
-
-Accordingly, the police chief has given directives to all officers including the Senior Deputy Inspectors General of Police (SDIGs), DIGs and officers in charge (OICs) of police divisions.
-
-The OICs are instructed to meet with the priests and boards of trustees of churches to prepare security plans tailored to each church while the Holy Masses are in progress from 29 - 31 March, Police Spokesman SSP Nihal Thalduwa said commenting on the matter.
-
-Under this security plan, the church premises would be inspected before the commencement of the sermons in a manner that does not disturb the devotees.
-
-...
-
-[Data](articles/ad78f68f.json)
-
-[Extended Data](ext_articles/ad78f68f.ext.json)
 
 ---

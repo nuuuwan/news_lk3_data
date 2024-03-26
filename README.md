@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 18:21:00**
+As of **2024-03-26 18:33:27**
 
 ## Newspaper Stats
 
-*Scraped **15,317** Articles*
+*Scraped **15,319** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,75 @@ adaderanalk | 1,839
 tamilmirrorlk | 1,841
 virakesarilk | 2,163
 dailymirrorlk | 2,366
-adaderanasinhalalk | 2,460
+adaderanasinhalalk | 2,462
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,313 (100.0%) of 15,317 articles have been extended.
+15,317 (100.0%) of 15,319 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### පොහොට්ටු මැයි දින රැළිය කැම්බල් පිටියේ
+### විශ්වවිද්‍යාල පද්ධතියේ වෙනස්කම් රැසක් - ජනපති
+
+*2024-03-26 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194966) · `si`
+
+අරගලය මුවාවෙන් ප්‍රචණ්ඩත්වය වැපිරූ පිරිසගෙන් එදා පාර්ලිමේන්තුව, අග්‍රාමාත්‍ය කාර්යාලය සහ ජනාධිපති කාර්යාලය ඇතුළු රාජ්‍ය දේපළ බේරාගනිමින් රට තුළ නීතිය හා සාමය ස්ථාපිත කිරීමට තමා ගත් පියවර මානව හිමිකම් කඩකිරීමක් ලෙස පෙන්වාදීමට ඇතැමුන් උත්සාහ කරන බව ජනාධිපති පවසයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එහිදී වැඩිදුරටත් පෙන්වා දුන්නේ එදා එම පියවර නොගත්තා නම් අද රට තුළ මෙලෙස ආර්ථික ස්ථාවරත්වයක් ගොඩනැගීමට හැකි නොවනු ඇති බවය.
+
+අසීරු සහ අමිහිරි යුගයක් පසු කර රටක් ලෙස ඉදිරියට යන ගමනේදී නීතිය හා සාමය කඩවීමට ඉඩ නොතැබිය යුතු බව අවධාරණය කළ ජනාධිපතිවරයා සෑම ක්ෂේත්‍රයක් තුළම නීතිය සහ සාමය ආරක්ෂා කිරීමට සියලු පාර්ශ්වයන්ට වගකීමක් පැවරී ඇති බවද පෙන්වා දුන්නේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ විශ්වවිද්‍යාල ආචාර්යවරුන් සමඟ ඊයේ (25) පස්වරුවේ ජනාධිපති කාර්යාලයේ පැවති හමුවේදීය.
+
+රට තුළ වත්මන් ආර්ථික වැඩපිළිවෙළ සහ ඒ සඳහා විශ්වවිද්‍යාල ආචාර්යවරුන්ගේ අදහස් සහ යෝජනා පිළිබඳ සාකච්ඡා කිරීම වෙනුවෙන් හිටපු අධ්‍යාපන අමාත්‍ය අකිල විරාජ් කාරියවසම් මහතා විසින් මෙම හමුව සංවිධානය කර තිබුණි.
+
+...
+
+[Data](articles/519b45ff.json)
+
+---
+
+### කාර් - යතුරුපැදි අනතුරින් දෙදෙනෙක් මරුට
+
+*2024-03-26 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194965) · `si`
+
+මාතලේ සිට වරකාමුර බලා ධාවනය වූ මෝටර් රථයක් කොහොඹිලිවල ප්‍රදේශයේදී ප්‍රතිවිරුද්ධ දිසාවෙන් ධාවනය වූ යතුරුපැදියක මුහුණට මුහුණ ගැටී තිබේ.
+
+ඊයේ (25) රාත්‍රී 8.30ට පමණ සිදුවූ එම රිය අනතුරින් යතුරුපැදියේ ගමන් ගත් තරුණයෙක් සහ තරුණියක් මාතලේ දිස්ත්‍රික් රෝහලට ඇතුළු කිරීමෙන් අනතුරුව මියගොස් තිබේ.
+
+ඉන් මියගිය තරුණයා අවුරුදු 26ක් වයසැති බවත් තරුණිය අවුරුදු 32ක් බවත් පොලීසිය පැවසීය.
+
+අනතුර සිදුවන අවස්ථාවේ මෝටර් රථයේ තරුණයින් දෙදෙනෙක් ගමන්කර තිබූ අතර පොලීසිය ඔවුන්ව අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/5168d91d.json)
+
+---
+
+### Poholes May Day rally on Campbell
 
 *2024-03-26 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194964) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණ මෙවර මැයි දින රැළිය කොළඹ කැම්බල් පිටියේ පවත්වන බව පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතා පවසයි.
+Sri Lanka General Front plans May Day rally on Campbell. MP Mahindananda Aluthgamage mentions uncertainty about presidential election and election commission's decision. Despite this, the Sri Lanka Cran's Front is prepared for any election.
 
-ඔහු තවදුරටත් පැවසුවේ ඉදිරියේදී මුලින් එන්නේ මහ මැතිවරණයක්ද ජනාධිපතිවරණයක්ද කියලා ඔවුන් ට තීරණය කළ නොහැකි බවත් එය තීරණය කළ යුත්තේ රජය හෝ මැතිවරණ කොමිසම බවත් ය.
+🟩
 
-එහෙත් ශ්‍රී ලංකා පොදුජන පෙරමුණ ඕනෑම මැතිවරණයකට සූදානම් බව අලුත්ගමගේ මහතා පැවසීය.
+MP Mahindananda Aluthgamage says that the Sri Lanka General Front will hold the May Day rally on the Colombo Campbach.
+
+He further stated that they cannot decide whether they cannot decide and that they should not decide and determine if it is a presidential election and the election commission.
+
+However, Mr. Aluthgamage said the Sri Lanka Cran's Front is ready for any election.
 
 ◼️
 
 [Data](articles/6338eabc.json)
+
+[Extended Data](ext_articles/6338eabc.ext.json)
 
 ---
 
@@ -63,6 +107,8 @@ In line with the ACC's vision for inclusivity and equality in cricket, the Women
 ◼️
 
 [Data](articles/1fffbdab.json)
+
+[Extended Data](ext_articles/1fffbdab.ext.json)
 
 ---
 
@@ -245,6 +291,8 @@ Comparing the number of tourists who visited Sri Lanka by air in 2023 and 2024, 
 ◼️
 
 [Data](articles/fa9c94db.json)
+
+[Extended Data](ext_articles/fa9c94db.ext.json)
 
 ---
 
@@ -970,19 +1018,27 @@ It was reported that several vehicles have fallen into the river and there are r
 
 ---
 
-### පැෂන් පෘට් නිෂ්පාදන තාක්ෂණික ආදර්ශ උද්‍යානය විවෘත කරයි
+### The passion fruit production is opening technology model park
 
 *2024-03-26 14:48:28* · [`adalk`](https://www.ada.lk/breaking_news/පැෂන්-පෘට්-නිෂ්පාදන-තාක්ෂණික-ආදර්ශ-උද්‍යානය-විවෘත-කරයි/11-408808) · `si`
 
-කිලිනොච්චි අක්කරායන්කුලම් හි අක්කර 100ක පැෂන් පෘට් වගාව ආශ්‍රිතව ස්ථාපිත කළ පැෂන් පෘට් නිෂ්පාදන තාක්ෂණික ආදර්ශ උද්‍යානය හා ශ්‍රී ලංකාවේ පළමු ජම්බෝ රටකජු නිෂ්පාදන ගොවි සමාගම කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතාගේ සුරතින් පසුගියදා  අක්කරායන්කුළම් හි දී විවෘත විය.
+Sri Lanka's first technology model park for passion fruit production was opened by Minister Juma Karweera. It involves 200 farmers, a factory, and aims to boost local and export markets. The project, under the Ministry of Agriculture and Industry, also includes a 2k peanut manufacturing plant. Jumbo peanuts, introduced from India, are now locally grown and used in various products, saving money and promoting local agriculture.
 
-ගොවීන් 200 දෙනෙක් විසින් පැෂන් පෘට් වගාව ආරම්භ කර ඇති අතර එම ගොවීන්ගේ සහභාගිත්වයෙන් පැෂන් පෘට් නිෂ්පාදන ගොවි කර්මාන්ත ශාලාව ද ආරම්භ කර ඇත. අපනයනය මෙන්ම දේශීය වෙළෙඳපල ද ඉළක්ක කර ගනිමින් මෙම පැෂන් පෘට් වගාව සැලසුම් කර තිබේ. නව තාක්ෂණික ක්‍රම උපයෝගී කර ගනිමින් වැඩි අස්වැන්නක් ලබා ගත හැකි වන පරිදි ගොවීන් විසින් මෙම උද්‍යානය තුළ පැෂන් පෘට් වගා කරනු ලබයි.‍ෙ
+🟩
 
-කෘෂිකර්ම හා වැවීලි කර්මාන්ත අමාත්‍යාංශය යටතේ ඇති කෘෂි අංශ නවීකරණ ව්‍යාපෘතිය විසින් හදුන්වාදුන් කිළිනොච්චි අක්කරායන්කුළම් හි අක්කර 100ක පැෂන් පෘට් වගාව ආශ්‍රිතව ක්‍රියාත්මක කර තිබෙන පැෂන් පෘට් නිෂ්පාදන තාක්ෂණික ආදර්ශ උද්‍යානය කටයුතු මේ වනවිට අවසන් කර ඇත.
+Sri Lanka's first Juma Karweera, Minister of Agriculture and Plantation Industries opened the Sri Lanka's first Jumbo Perera, Minister of Agriculture and Plantation Industries.
+
+200 farmers have launched a paced fruit and has also launched a paced fruit factory with the participation of the farmers.. Planning of this passion fruit is designed to ripen the export and local market. The farmers cultivate the park in this park so that more yields can be obtained using new techniques.
+
+The agricultural modernization project under the Ministry of Agriculture and Sturdy Industries have been completed by the Ministry of Agriculture and Structure of the Ministry of Industry.
+
+The 2k of the 2k jumbo peanut manut manut manut manut manut manut manut manufactuing (Pvt) Ltd production factory was also established under the project.
 
 ...
 
 [Data](articles/cc8225f0.json)
+
+[Extended Data](ext_articles/cc8225f0.ext.json)
 
 ---
 
@@ -2235,53 +2291,5 @@ The Asian Development Bank (ADB) will finance USD 100 million and technical ass
 [Data](articles/784bb781.json)
 
 [Extended Data](ext_articles/784bb781.ext.json)
-
----
-
-### Sri Lanka earns 3.4bn from coconut water export in Feb: Minister
-
-*2024-03-26 11:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-earns-3-4bn-from-coconut-water-export-in-feb-minister-156116/) · `en`
-
-ECONOMYNEXT – Sri Lanka earned 3,439 million rupees in February from the export of coconut water, its Minister of Agriculture and Plantation Industries has said.
-
-“It has been possible to earn an income of 3439 million rupees by February 2024 from exporting coconut water from Sri Lanka,” Minister Mahinda Amaraweera said on social media.
-
-“If not for wildlife eating crops this would have been higher; around 300 million coconuts are lost annually due to wildlife damage,” Amarweera posted on his Facebook page.
-
-In February last year, Sri Lanka earned 2705 million rupees from exporting coconut water, according to Coconut Development Authority data.
-
-President of the Coconut Development Authority, Roshan Perera, said there had been an increase in export income of 734 million rupees by February this year compared to last year.
-
-...
-
-[Data](articles/a1bc4f58.json)
-
-[Extended Data](ext_articles/a1bc4f58.ext.json)
-
----
-
-### Another underworld gang members are trapped
-
-*2024-03-26 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194944) · `si`
-
-12 organized crime gang members arrested in a special operation led by the IGP. 63 gangs arrested from the 19th to yesterday. 6 more suspects arrested. 20 special police teams involved.
-
-🟩
-
-Another 12 organized crime gang members have been arrested in the special operation commenced on the instructions of the IGP to arrest organized crime gang members.
-
-Accordingly, 63 organized crime gangs have been arrested from the 19th to commence yesterday (25).
-
-The suspects are detained on detention orders and conduct further investigations.
-
-In addition to the arrest of the 12 organized crime gang members, 6 other suspects have also been arrested in the raids conducted by the officers engaged in the above.
-
-From the 19th and Southern Province, the Western Province and Southern Province have been launched and 20 special police teams have been launched.
-
-◼️
-
-[Data](articles/f6201c4c.json)
-
-[Extended Data](ext_articles/f6201c4c.ext.json)
 
 ---

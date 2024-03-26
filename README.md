@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 17:53:55**
+As of **2024-03-26 18:09:57**
 
 ## Newspaper Stats
 
-*Scraped **15,311** Articles*
+*Scraped **15,313** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,73 @@ islandlk | 845
 adalk | 1,306
 adaderanalk | 1,839
 tamilmirrorlk | 1,841
-virakesarilk | 2,162
+virakesarilk | 2,163
 dailymirrorlk | 2,364
-adaderanasinhalalk | 2,458
+adaderanasinhalalk | 2,459
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,305 (100.0%) of 15,311 articles have been extended.
+15,311 (100.0%) of 15,313 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### யுக்திய நடவடிக்கையில் கைதான மேலும் 20  பேரின்  சொத்துக்கள் தொடர்பில் விசாரணை!
+### පාතාලේ 12ක් කොටුකරගත් මෙහෙයුම
+
+*2024-03-26 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194963) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් අත්අඩංගුවට ගැනීම සඳහා පොලිස්පතිවරයාගේ උපදෙස් මත ආරම්භ කළ විශේෂ මෙහෙයුමේදී ඊයේ දිනයේ සැකකරුවන් 12ක් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ කොළඹ, ගනේමුල්ල, මොරටුව, පානදුර, කළුබෝවිටියන සහ හික්කඩුව යන ප්‍රදේශවල පදිංචි ජාවාරම්කරුවන් 11 දෙනෙක් සහ ජාවාරම්කාරියකි.
+
+මෙම සැකකරුවන් පොඩි ලැසී, රත්ගම විදුර, බොරලහේවගේ ධනුෂ්ක, කුඩු සළිඳු, කුඩු අංජු, කෙසෙල්වත්තේ දිනුක, කංජිපානි ඉම්රාන්, දෙමටගොඩ චමින්ද සහ ගණේමුල්ලේ සංජිව යන සංවිධානාත්මක අපරාධකරුවන්ගේ කණ්ඩායම්වල සාමාජිකයින් බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/fefc7357.json)
+
+---
+
+### பாக்கிஸ்தானில் தற்கொலை குண்டுதாக்குதல் - ஐந்து சீன பிரஜைகள் பலி
+
+*2024-03-26 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/179775) · `ta`
+
+பாக்கிஸ்தானின் வடமேற்கு பகுதியில் சீன பிரஜைகள் பயணித்த வாகனத்தொடரணி மீதுதற்கொலை குண்டுதாரியொருவர் தாக்குதலை மேற்கொண்டார் என இராணுவ அதிகாரியொருவர் தெரிவித்துள்ளார்.
+
+கைபர் பக்துன்வா மாகாணத்தின் டசுவில் உள்ள தங்கள் முகாமிற்கு இஸ்லாமபாத்திலிருந்து சீன பொறியியலாளர்கள் வாகனத்தில் சென்றுகொண்டிருந்தனர் அவ்வேளை தற்கொலை குண்டுதாரி தனது வாகனத்தை அவர்களின் வாகனத்தை நோக்கி செலுத்தி வெடிக்கவைத்தார் என  இராணுவ அதிகாரி தெரிவித்துள்ளார்.
+
+ஐந்து சீன பிரஜைகளும் அவர்களின் வாகனச்சாரதியான பாக்கிஸ்தான் பிரஜையும் கொல்லப்பட்டுள்ளனர் என அவர் குறிப்பிட்டுள்ளார்.
+
+தாசு என்பது முக்கியமான நீர்மின்நிலையத்திற்கான அணையாகும்.இதனை சீன நிறுவனம் உருவாக்கிவருகின்றது இதேவேளை இந்த பகுதியில் கடந்த காலங்களிலும் தாக்குதல்கள் இடம்பெற்றுள்ளன,2021 இல் பேருந்தில் இடம்பெற்ற குண்டுவெடிப்பில் 9 சீன பிரஜைகள் கொல்லப்பட்டனர்.
+
+◼️
+
+[Data](articles/5e40df54.json)
+
+---
+
+### Investigations into the assets of 20 more arrested
 
 *2024-03-26 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179757) · `ta`
 
-பொலிஸாரினால் மேற்கொள்ளப்பட்ட யுக்திய நடவடிக்கையின்போது 830 ஆண் சந்தேக நபர்களும் 9 பெண் சந்தேக நபர்களும் கைது செய்யப்பட்டுள்ளனர்.
+Police arrested 830 males and 9 females, detaining 42 for further investigations. Assets of 20 suspects are under investigation. In the Western Province, 201, 103, and 103 grams of cannabis were seized.
 
-இவர்களுள் 42 சந்தேக நபர்கள் மேலதிக விசாரணைக்காக பொலிஸ் தடுப்புக் காவலில் வைக்கப்பட்டுள்ளதுடன் 20 சந்தேக நபர்களின் சொத்துக்கள் தொடர்பாக விசாரணைகள் மேற்கொள்ளப்பட்டு வருகின்றன.
+🟩
 
-மேலும், மேல் மாகாணத்தில் மேற்கொண்ட யுக்திய நடவடிக்கையின்போது ஹெரோயின் 201 கிராம், ஐஸ் 103 கிராம் , கஞ்சா 103 கிராம் போன்ற போதைப்பொருட்கள் கைப்பற்றப்பட்டுள்ளன.
+830 male suspects and 9 female suspects have been arrested during the strategy carried out by the police.
+
+42 of them have been detained for further investigations and investigations are underway into the assets of 20 suspects.
+
+In addition, in the Western Province, drugs such as 201 grams, 103 grams and 103 grams of cannabis were seized during the strategy in the Western Province.
 
 ◼️
 
 [Data](articles/b711929f.json)
+
+[Extended Data](ext_articles/b711929f.ext.json)
 
 ---
 
@@ -64,53 +104,75 @@ Joining the cricketing powerhouses of India, Pakistan, Sri Lanka, and Bangladesh
 
 [Data](articles/5bc4613a.json)
 
+[Extended Data](ext_articles/5bc4613a.ext.json)
+
 ---
 
-### கடவத்தை எல்தெனிய ஐக்கிய தேசியக் கட்சியின் பிரதான அலுவலகம் மீது கை்குண்டுத் தாக்குதல்!
+### UNP attack on the main office of the UNP
 
 *2024-03-26 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179774) · `ta`
 
-கடவத்தை எல்தெனியவிலுள்ள  ஐக்கிய தேசியக் கட்சியின் பிரதான அலுவலகம் மீது செவ்வாய்க்கிழமை (26) கைக்குண்டுத் தாக்குதல் நடத்தப்பட்டுள்ளதாக  சிரேஷ்ட பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+A hand grenade attack on UNP's Kadawatha office is suspected for political revenge. Police found one hand outside, another inside.
 
-அரசியல் பழிவாங்கல் காரணமாக இந்த கைக்குண்டு தாக்குதல் நடத்தப்பட்டிருக்கலாம் என  பொலிஸார் சந்தேகிக்கின்றனர்.
+🟩
 
-பொலிஸாரால் மேற்கொள்ளப்பட்ட சோதனையின்போது, கட்சி அலுவலகத்துக்கு  முன்பாக உள்ள வீதியில் ஒரு கைக்குண்டும் கட்சி அலுவலகத்துக்குள்  மற்றொரு கைக்குண்டும் கண்டெடுக்கப்பட்டுள்ளது.
+A senior police official said that a hand grenade was attacked on Tuesday (26) on the main office of the United National Party (UNP) in Kadawatha.
+
+Police suspect that the hand grenade may have been carried out due to political revenge.
+
+During a raid carried out by the police, one hand was found on the road in front of the party office and another hand inside the party office.
 
 ◼️
 
 [Data](articles/3af5ebe2.json)
 
+[Extended Data](ext_articles/3af5ebe2.ext.json)
+
 ---
 
-### களுத்துறையில் ஆர்ப்பாட்டக்காரர்கள் - பொலிஸார் மோதல்!
+### Demonstrators in Kalutara - police clash!
 
 *2024-03-26 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179771) · `ta`
 
-களுத்துறை நகரின் மையப் பகுதியில் மக்கள் இயக்கத்தின் ஆர்ப்பாட்டக்காரர்களுக்கும் பொலிஸாருக்குமிடையே இன்று (26) மோதல் நிலைமை ஏற்பட்டது.
+Protesters in Kalutara clashed with police over rising living costs, taxes, and electricity prices. Police reinforcements were deployed in the area.
 
-வாழ்க்கைச் செலவு உயர்வு, வரி அதிகரிப்பு,மின்சாரக் கட்டண உயர்வு பயங்கரவாத தடைச் சட்டத் திருத்தம் சட்டம் , போராட்டத்தில் ஈடுபட்டவர்களைக் கைது செய்தல் உள்ளிட்டவற்றுக்கு எதிர்ப்புத் தெரிவித்து  மக்கள் போராட்ட இயக்கத்தினர் பிரதான பஸ் நிலையம் முன்பாக போராட்டத்தில் ஈடுபட்டார்கள்.
+🟩
 
-காலை முதல் களுத்துறை நகர் மற்றும் களுத்துறை நகர் அண்டிய பிரதேசங்களிலும் பொலிஸாரின் விசேட பாதுகாப்பு பலப்படுத்தப்பட்டிருந்ததோடு போராட்டம் மேற்கொண்ட பகுதியிலும் பொலிஸார் குவிக்கப்பட்டிருந்தனர்.
+The clash between the protesters and the police of the People's Movement in the central part of the city of Kalutara today (26).
+
+The people protesters protested in front of the main bus station in protest of the rise in the cost of living, tax hikes, electricity tariffs, and the arrest of the protesters of terrorism and the arrest of the protesters.
+
+Since the morning, the police have been strengthened in the Kalutara Nagar and Kalutara Nagar neighborhood and the police have been strengthened and the police have been concentrated in the area.
 
 ◼️
 
 [Data](articles/7d01d0b6.json)
 
+[Extended Data](ext_articles/7d01d0b6.ext.json)
+
 ---
 
-### ஜெயம் ரவி நடிக்கும் 'ஜீனி' திரைப்படத்தின் செகண்ட் லுக் போஸ்டர் வெளியீடு
+### Second Look Poster of 'Genini' starring Jayam Ravi
 
 *2024-03-26 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/179772) · `ta`
 
-'சைரன்' படத்தின் வணிக ரீதியான வெற்றிக்குப் பிறகு மீண்டும் நட்சத்திர அந்தஸ்தை பெற்றிருக்கும் முன்னணி நடிகர் ஜெயம் ரவி நடிப்பில் தயாராகி இருக்கும் 'ஜீனி' திரைப்படத்தின் ஃபர்ஸ்ட் லுக் போஸ்டருக்கு எதிர்பார்த்ததை விட கூடுதலாக வரவேற்பு கிடைத்தவுடன் உற்சாகமடைந்த படக் குழு, செகண்ட் லுக் போஸ்டரையும் வெளியிட்டு ரசிகர்களை ஆச்சரியப்படுத்தி இருக்கிறது.
+"Second Look Poster of 'Geni' starring Jayam Ravi, directed by Arjunan, features Vamika Kabi as an angel, Keerthi Shetty, Kalyani Priyadarshan, and Devayani. Produced by Doctor Isari and Ganesh, with cinematography by Mahesh Muthuswamy and music by R. Rahman. Releasing in Tamil, Telugu, and Hindi, it promises to be a hit."
 
-இயக்குநர் அர்ஜுனன் இயக்கத்தில் உருவாகி வரும் 'ஜீனி' திரைப்படத்தில் ஜெயம் ரவி, கீர்த்தி ஷெட்டி, கல்யாணி பிரியதர்ஷன், வாமிகா கபி, தேவயானி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-மகேஷ் முத்துசுவாமி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஏ. ஆர். ரஹ்மான் இசையமைத்திருக்கிறார்.  ஃபேண்டஸி ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை வேல்ஸ் ஃபிலிம் இன்டர்நேஷனல் பட நிறுவனம் சார்பில் தயாரிப்பாளர் டொக்டர் ஐசரி. கே கணேஷ் தயாரித்திருக்கிறார்.
+After the commercial success of 'Siren', the film crew, who is re -starring star starring Jayam Ravi, has been surprised by the release of the film crew and the second look poster of the film 'Geni', which is more than expected than expected.
 
-...
+Directed by director Arjunan, 'Geni' starring Jayam Ravi, Keerthi Shetty, Kalyani Priyadarshan, Vamika Kabi, Devayani and many others.
+
+Mahesh Muthuswamy's cinematography. R. Rahman has composed the music.Producer Doctor Isari on behalf of Wales Film International Photo Company. Ganesh has produced.
+
+The film's second look poster of the film, which is being released in three languages - Tamil, Telugu and Hindi, is the actress Vamika Kabi angel and the king of Geni is the king of the magic, and Devayani and Keerthi Shetty as ordinary people.. Increases interesting about the film.The teaser or single track of the film is expected to be released in Tamil New Year.
+
+◼️
 
 [Data](articles/808a9416.json)
+
+[Extended Data](ext_articles/808a9416.ext.json)
 
 ---
 
@@ -127,6 +189,8 @@ According to the Constitution of Sri Lanka, the Presidential election must occur
 ...
 
 [Data](articles/e3335513.json)
+
+[Extended Data](ext_articles/e3335513.ext.json)
 
 ---
 
@@ -2239,53 +2303,5 @@ Investigations have revealed that the deceased was unemployed at home due to ill
 [Data](articles/0d46f0c7.json)
 
 [Extended Data](ext_articles/0d46f0c7.ext.json)
-
----
-
-### Global Hucking Action with the support of the China government - the Internet accounts of millions of Americans;Infiltrated- America Report
-
-*2024-03-26 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179717) · `ta`
-
-The US Department of Justice has revealed that millions of American online accounts were hacked by Chinese citizens over 14 years, targeting politicians, foreigners, and businessmen. The US will provide $10 million to the accused.
-
-🟩
-
-Shocking reports have revealed that millions of US -based people have been accompanied by China's internet hacking.
-
-The US Department of Justice has said that millions of American's online accounts have been cooked in Hucking.
-
-The seven Chinese citizens of the accused have been involved in such a crime for more than 14 years, US officials said.
-
-The US has announced that it will provide $ 10 million to those who have been accused of seven persons.
-
-American officials have said that these people from China have targeted politicians, foreigners and businessmen who criticize China.
-
-They sent more than tens of thousands of dangerous emails, resulting in millions of continental people affected by the US, the US Department of Justice said it was a global hackling move with the support of the Chinese government.
-
-Today's announcement has exposed the continuing efforts of China to undermine our country's internet security and target Americans, said UPI's director Kristere Ray.
-
-◼️
-
-[Data](articles/7de518af.json)
-
-[Extended Data](ext_articles/7de518af.ext.json)
-
----
-
-### "I won't get out ..." - Central Bank Governor
-
-*2024-03-26 10:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194943) · `si`
-
-"Central Bank Governor Dr. Nandalal Weerasinghe remains in position despite crisis, citing employee wage issues as the cause."
-
-🟩
-
-Dr. Nandalal Weerasinghe says he does not remove the central bank governor in the face of the crisis due to the crisis due to the crisis due to the crisis caused by the wages of his employees.
-
-◼️
-
-[Data](articles/9bc2506a.json)
-
-[Extended Data](ext_articles/9bc2506a.ext.json)
 
 ---

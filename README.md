@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 13:18:15**
+As of **2024-03-26 13:33:47**
 
 ## Newspaper Stats
 
-*Scraped **15,243** Articles*
+*Scraped **15,249** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,105 +16,219 @@ dailyftlk | 819
 economynextcom | 821
 islandlk | 843
 adalk | 1,296
-adaderanalk | 1,829
+adaderanalk | 1,830
 tamilmirrorlk | 1,836
-virakesarilk | 2,145
-dailymirrorlk | 2,351
-adaderanasinhalalk | 2,447
+virakesarilk | 2,146
+dailymirrorlk | 2,353
+adaderanasinhalalk | 2,449
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,237 (100.0%) of 15,243 articles have been extended.
+15,243 (100.0%) of 15,249 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### வத்தளை பகுதியில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபரொருவர்  கைது
+### Mahinda Rajapaksa conveys condolences after Moscow attack
+
+*2024-03-26 13:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Mahinda-Rajapaksa-conveys-condolences-after-Moscow-attack/110-279628) · `en`
+
+Former President Mahinda Rajapaksa visited the Russian Embassy in Colombo today to express his condolences following the recent terrorist attack in Moscow. In a solemn gesture of solidarity and sympathy, he signed the condolence book to convey his deepest condolences to the government and people of Russia.
+
+◼️
+
+[Data](articles/338eeadc.json)
+
+---
+
+### Special security plan in place for Good Friday and Easter Sunday
+
+*2024-03-26 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98212/special-security-plan-in-place-for-good-friday-and-easter-sunday) · `en`
+
+Sri Lanka Police is organizing a special security plan to be set in place at churches across the country in view of the upcoming Good Friday and Easter Sunday, as per the instructions of Inspector-General of Police (IGP) Deshabandu Tennakoon.
+
+Accordingly, the police chief has given directives to all officers including the Senior Deputy Inspectors General of Police (SDIGs), DIGs and officers in charge (OICs) of police divisions.
+
+The OICs are instructed to meet with the priests and boards of trustees of churches to prepare security plans tailored to each church while the Holy Masses are in progress from 29 - 31 March.
+
+Under this security plan, the church premises would be inspected before the commencement of the sermons in a manner that does not disturb the devotees.
+
+...
+
+[Data](articles/2941defa.json)
+
+---
+
+### கோட்டை  நீதிவான் திலின கமகேவை கொலை செய்ய முயற்சி : உடனடி விசாரணைக்கு உத்தரவு!
+
+*2024-03-26 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/179739) · `ta`
+
+கோட்டை நீதிவான் திலின கமகேவை கொலை செய்ய முயற்சித்தமை தொடர்பில்  உடனடியாக  விசாரணைகளை மேற்கொள்ளுமாறு பொதுமக்கள்  பாதுகாப்பு அமைச்சர் டிரான்  அலஸ், பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனுக்கு பணிப்புரை விடுத்துள்ளார்.
+
+உளவாளி ஒருவரால் அனுப்பப்பட்ட கடிதத்தின் பிரகாரம் அமைச்சர் டிரான் அலஸ் இந்த அறிவுறுத்தலை வழங்கியுள்ளார்.
+
+நீதிவான் திலின கமகேவை கொல்வதற்காக ஒருவர் தொலைபேசி ஊடாக துப்பாக்கியை கோரியுள்ளதாக அரச உளவாளி ஒருவருக்கு கிடைத்த தகவலுக்கமையவே இந்த  விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+குறித்த நபரின் தொலைபேசி இலக்கங்களுடன் விபரங்களை  உளவாளி வழங்கியுள்ளதுடன்  அந்த தொலைபேசி இலக்கங்கள் தொடர்பில் விசாரணைகள் மேற்கொள்ளப்பட்டு வருவதாகவும் தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/bc7a212c.json)
+
+---
+
+### කෙහෙළියගේ අල්ලස් නඩුවේ මූලික විරෝධතා ප්‍රතික්ෂේප වෙයි
+
+*2024-03-26 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194951) · `si`
+
+හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු විත්තිකරුවන් දෙදෙනෙකුට එරෙහිව අල්ලස් කොමිසම විසින් ගොනුකර තිබෙන නඩුව පවරා පවත්වාගෙන යාමට නොහැකි බවට විත්තිය විසින් මතු කළ මූලික විරෝධතාවක් කොළඹ මහාධිකරණය අද (26) ප්‍රතික්ෂේප කළේය.
+
+ඒ අනුව හිටපු අමාත්‍යය කෙහෙළිය රඹුක්වැල්ල සහ රාජ්‍ය මුද්‍රණ නීතිගත සංස්ථාවේ හිටපු සභාපති ජයම්පති බණ්ඩාර හීන්කෙන්ද යන මහත්වරුන්ට එරෙහිව අල්ලස් කොමිසම විසින් ගොනුකර තිබෙන නඩුව ඉදිරියටත් පවත්වාගෙන යාමට ද කොළඹ මහාධිකරණ විනිසුරු දමිත් තොටවත්ත මහතා අවසර ලබා දුන්නේය.
+
+ඉන් අනතුරුව නඩු විභාගය ජූලි මස 22 වනදා පැවැත්වීමටද දින නියම වුණි.
+
+මෙම නඩුව කැඳවූ අවස්ථාවේදී රක්ෂිත බන්ධනාගාර ගත කර සිටින හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ද අධිකරණයට ඉදිරිපත් කර තිබිණි.
+
+...
+
+[Data](articles/15ad4a88.json)
+
+---
+
+### හරක් කටා ට සහන ලබාදිය හැකි දැයි සොයාබලන්නැයි නීතිපතිට නියෝග
+
+*2024-03-26 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194950) · `si`
+
+අධිකරණ නියෝග මත තංගල්ල පැරණි බන්ධනාගාරයේ රඳවා සිටින ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන නඳුන් චින්තක වික්‍රමරත්න හෙවත් 'හරක් කටා' නමැත්තා විසින් ඉල්ලා සිටින පහසුකම්  ප්‍රදානය කිරීමට හැකියාවක් තිබේදැයි සොයා බලා අප්‍රේල් මස 08 වනදා අධිකරණය හමුවේ කරුණු දක්වන ලෙස කොළඹ මහාධිකරණය අද (26) නීතිපතිවරයාට නියෝග කළේය.
+
+'හරක් කටා' නමැත්තා විසින් ඉදිරිපත් කළ මෝසමකට අදාළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ මහාධිකරණ විනිසුරු දමිත් තොටවත්ත මහතා විසින් මෙම නියෝගය ලබා දුන්නේය.
+
+විත්තිකාර පාර්ශවය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ සම්පත් මෙන්ඩිස් මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මේ වනවිට රඳවුම් භාරයේ පසුවන තම සේවාදායකයා විසින් පහසුකම් කිහිපයක් ඉල්ලා සිටින බව සඳහන් කළේය.
+
+ඒ අනුව නීතිඥවරු හමුවී උපදෙස් ලබා දීම සඳහා දැනට දිනකට එක් නීතිඥවරයෙකු වෙනුවෙන් ලබා දෙන විනාඩි 15ක් කාලය පැයක් දක්වා වැඩි කරන ලෙසත් විත්තිකරු රඳවා සිටින ස්ථානයේ ආරක්ෂක කැමරා තිබේදැයි වාර්තාවක් ඉදිරිපත් කරන ලෙස නියෝග නිකුත් කරන මෙන් විත්තිකරු ඉල්ලා සිටින බව ජනාධිපති නීතිඥවරයා සඳහන් කළේය.
+
+...
+
+[Data](articles/9e1f4055.json)
+
+---
+
+### Suspect arrested with heroin drug
 
 *2024-03-26 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179729) · `ta`
 
-வத்தளை பிரதேசத்தில் பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில் சோதனை நடவடிக்கையினை மேற்கொண்ட போது போதைப் பொருளுடன் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A person was arrested in Wattala with 400 ml of heroin during a police raid based on received information.
 
-இதன்போது  05 கிராம் 400 மில்லி கிராம் ஹெரொயின் போதைப் பொருள் கைப்பற்றப்பட்டுள்ளது.
+🟩
+
+One person was arrested with drugs while conducting a raid on the basis of information received by the police in the Wattala area.
+
+400 ml of 400 ml of heroin has been seized.
 
 ◼️
 
 [Data](articles/3f582925.json)
 
+[Extended Data](ext_articles/3f582925.ext.json)
+
 ---
 
-### போர் நிறுத்தத்துக்கான பாதுகாப்புச் சபை தீர்மானத்தின் பின்னரும் காஸாவில் மோதல் நீடிக்கிறது
+### The clash in Gaza continues even after the Security Council resolution for the ceasefire
 
 *2024-03-26 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179738) · `ta`
 
-காஸாவில் போர் நிறுத்தம் அமுல்படுத்தப்பட வேண்டுமென ஐ.நா. பாதுகாப்புச் சபையில் தீர்மானம் நிறைவேற்றப்பட்டபோதிலும் காஸாவில் ஹமாஸுக்கு எதிரான இஸ்ரேலின் தாக்குதல்கள் தொடர்கின்றன.
+The UN Security Council passed a resolution for a ceasefire in Gaza, despite Israel's ongoing attacks. The US did not participate, and the resolution was supported by 14 other countries. Hamas welcomed the resolution and is ready for negotiations on hostages. Israel protested, with Netanyahu arguing the resolution would give Hamas confidence. The resolution was also welcomed by the Arab League, EU, Palestinian Authority, Egypt, Qatar, South Africa, Spain, and France. The US stated the ceasefire would begin with hostage release.
 
-ரமழான் காலத்தில் காஸாவில் உடனடியாக போர் நிறுத்தம் அமுல்படுத்தப்பட வேண்டுமென ஐக்கிய நாடுகள் பாதுகாப்புச் சபையில் நேற்று  திங்கட்கிழமை ( தீர்மானம் நிறைவேற்றப்பட்டது.  இது தொடர்பான வாக்கெடுப்பில் அமெரிக்கா பங்குபற்றவில்லை. பாதுகாப்புச் சபையிலுள்ள ஏனைய 14 நாடுகளும் பிரேரணைக்கு ஆதரவாக வாக்களித்தன.
+🟩
 
-கடந்த ஒக்டோபரில் காஸா யுத்தம் ஆரம்பமான பின்னர் காஸாவில் போர் நிறுத்தம் அமுல்படுத்தப்பட வேண்டுமென ஐ.நா. பாதுகாப்புச் சபையில் தீர்மானம் நிறைவேற்றப்பட்டமை இதுவே முதல் தடவையாகும்.
+The UN demanded that the ceasefire be implemented in Gaza. Israel's attacks against Hamas continues in Gaza, despite the resolution passed in the Security Council.
 
-ஹமாஸ் வசமுள்ள பணயக்கைதிகள் அனைவரும் விடுவிக்கப்பட வேண்டுமெனவும் ஐ.நா. பாதுகாப்புச் சபை கோரியுள்ளது.
+The United Nations Security Council (UN Security Council) was passed on Monday (the United Nations Security Council (UN Security) to implement the ceasefire in Gaza during the Ramadan period. The US did not participate in the referendum.. The other 14 countries in the Security Council voted in favor of the proposal.
 
-பாதுகாப்புச் சபையின் இத்தீர்மானத்தை ஹமாஸ் வரவேற்றுள்ளது. பலஸ்தீன கைதிகளுக்கு பதிலாக பணயக்கைதிகளை விடுவிப்பது தொடர்பில் பேச்சுவார்த்தையை ஆரம்பிப்பதற்கு தான் தயார் எனவும் ஹமாஸ் தெரிவித்துள்ளது.
+The UN demanded that the ceasefire be implemented in Gaza after the Gaza War began last October. This is the first time that the resolution was passed in the Security Council.
+
+The UN also demanded that all Hamas be released.. The Security Council has demanded.
+
+Hamas has welcomed the resolution of the Security Council. Hamas also said he was ready to start negotiations on the release of hostages instead of Palestinian prisoners.
 
 ...
 
 [Data](articles/b60a2d64.json)
 
+[Extended Data](ext_articles/b60a2d64.ext.json)
+
 ---
 
-### வெற்றிகரமான கல்வி முறை இல்லாத நாட்டில் அபிவிருத்தியை எதிர்பார்க்க முடியாது : சாகல ரத்நாயக்க
+### In a country with no successful education system, development cannot be expected: Sagala Ratnayake
 
 *2024-03-26 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179735) · `ta`
 
-வெற்றிகரமான கல்வி முறை இல்லாத நாட்டில் அபிவிருத்தியை எதிர்பார்க்க முடியாது என ஜனாதிபதியின் தேசிய பாதுகாப்பு தொடர்பான சிரேஷ்ட ஆலோசகரும் ஜனாதிபதியின் பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க தெரிவித்தார்.
+Sagala Ratnayake, a senior advisor, emphasized that a successful education system is crucial for development. He highlighted the importance of managing human resources for educational reforms to be effective. The event was to hand over a new building for Kodapola Illukpitiya students, constructed with financial assistance from the Royal College Alumni Association and the 12th Army Engineer Service Force. Ratnayake also discussed the need for economic reforms, including the transformation of the Central Bank of Sri Lanka into an independent entity, to improve the country's economy.
 
-எத்தனை கல்விச் சீர்திருத்தங்களைச் தயார் செய்தாலும், அதற்கேற்ப மனித வளங்களை முகாமைத்துவம் செய்யாவிட்டால், கல்விச் சீர்திருத்தங்கள் பலனளிக்காது எனவும் சாகல ரத்நாயக்க சுட்டிக்காட்டினார்.
+🟩
 
-மாத்தறை கொடபொல இலுக்பிடிய கனிஷ்ட  பாடசாலை மாணவர்களுக்காக புதிதாக நிர்மாணிக்கப்பட்ட இரண்டு மாடிக் கட்டிடத்தை மாணவர்களிடம் கையளிக்கும் நிகழ்வில் திங்கட்கிழமை  (25) கலந்துகொண்டபோது, ஜனாதிபதியின் தேசிய பாதுகாப்பு தொடர்பான சிரேஷ்ட ஆலோசகரும் ஜனாதிபதியின் பணிக்குழாம் பிரதானியுமான  சாகல ரத்நாயக்க  இதனைத் தெரிவித்தார்.
+Sagala Ratnayake, a senior advisor to the president's national security and the President's Task Force, said that in a country where there is no successful education system, development cannot be expected.
 
-கொழும்பு றோயல் கல்லூரி பழைய மாணவர் சங்கத்தின் 1981 குழுவின் முழுமையான நிதி உதவியுடனும்  12ஆவது இராணுவப் பொறியியலாளர் சேவைப் படைப்பிரிவின்  பங்களிப்புடனும் இந்தப் புதிய கட்டிடம் நிர்மாணிக்கப்பட்டுள்ளது.
+Sagala Ratnayake pointed out that no matter how many educational reforms are prepared and the human resources are not managed accordingly, the educational reforms will not benefit.
 
-அதனைத் தொடர்ந்து நடைபெற்ற வைபவத்தில் மேலும் உரையாற்றும்  சாகல ரத்நாயக்க மேலும் கூறியதாவது,
+Sagala Ratnayake, a senior consultant on the President's National Security and the President of the President, said this at the event on Monday (25) at the event to hand over the newly constructed two storied building for the students of Kodapola Illukpitiya.
+
+The new building was constructed with the full financial assistance of the 1981 group of the Royal College Alumni Association in Colombo and the participation of the 12th Army Engineer Service Force.
+
+Sagala Ratnayake added that further addressing the event.
 
 ...
 
 [Data](articles/d1db323f.json)
 
+[Extended Data](ext_articles/d1db323f.ext.json)
+
 ---
 
-### பளை - இத்தாவில் பகுதியில் விபத்துக்குள்ளான ரயில் ; சேவை சில மணி நேரம் பாதிப்பு
+### Train crashed in Pali - Itail area;Service is impacting a few hours
 
 *2024-03-26 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179737) · `ta`
 
-கிளிநொச்சி பளை பொலிஸ் பிரிவிற்குட்பட்ட இத்தாவில் பகுதியில் இன்று செவ்வாய்க்கிழமை (26) மாட்டுடன் மோதி ரயில் விபத்துக்குள்ளானது.
+A train crashed into a cow in Pali, Italy, on Tuesday, causing service disruptions for a few hours.
 
-குறித்த விபத்து காரணமாக புகையிரத சேவையில் சில மணி நேரம் பாதிப்பு ஏற்பட்டுள்ளது.
+🟩
+
+A train crashed into a cow on Tuesday (26).
+
+The accident has been affected by the train for a few hours.
 
 ◼️
 
 [Data](articles/672404e0.json)
 
+[Extended Data](ext_articles/672404e0.ext.json)
+
 ---
 
-### யாழில் விபத்து ; ஒருவர் உயிரிழப்பு
+### Accident in Jaffna;Death
 
 *2024-03-26 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179736) · `ta`
 
-யாழ்ப்பாணம் - கொடிகாமம் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் நேற்று திங்கட்கிழமை (25) இரவு இடம்பெற்ற விபத்தில் ஒருவர் உயிரிழந்துள்ளார்.
+In Jaffna, a fatal accident on the Jaffna-Kandy Highway claimed the life of Chinnarasa Sudanraja (41) from Kilinochchi. A luxury bus, traveling from Jaffna to Colombo, collided with a motorcycle near Meesalai Veerasingham College, resulting in the death of the bus driver and conductor.
 
-கிளிநொச்சி விவேகானந்தா நகரை சேர்ந்த சின்னராசா சுதன்ராஜா (வயது 41) என்பவரே உயிரிழந்துள்ளார்.
+🟩
 
-யாழில் இருந்து கொழும்பு நோக்கி பயணித்துக்கொண்டிருந்த சொகுசு பேருந்து, யாழ் - கண்டி நெடுஞ்சாலையில், மீசாலை வீரசிங்கம் கல்லூரி முன்பாக பாதசாரி கடவையில் பிரிதொரு வாகனத்தை முந்தி செல்ல முற்பட்ட வேளை எதிரே வந்த மோட்டார் சைக்கிளை மோதி விபத்தினை ஏற்படுத்தியது.
+One person was killed in an accident on Monday night (25) night in the Jaffna -Kodikamam police division.
 
-விபத்தில் மோட்டார் சைக்கிள் ஓட்டி சம்பவ இடத்திலையே உயிரிழந்த நிலையில், பேருந்தின் சாரதியும் நடத்துனரும், விபத்து நடைபெற்ற இடத்தில் பேருந்தினை கைவிட்டு, அங்கிருந்து தப்பி சென்று, கொடிகாம பொலிஸ் நிலையத்தில் சரண்டைந்துள்ளனர்.
+The deceased is Chinnarasa Sudanraja (age 41) from Vivekananda Nagar, Kilinochchi.
+
+The luxury bus traveling from Jaffna to Colombo, on the Jaffna -Kandy Highway, crashed into a motorcycle in front of a pedestrian crossing in front of Meesalai Veerasingham College.
+
+The driver of the bus and the conductor of the bus, who had been killed in the accident, abandoned the bus at the site of the accident and surrendered to the Kodikama police station.
 
 ◼️
 
 [Data](articles/76e29597.json)
+
+[Extended Data](ext_articles/76e29597.ext.json)
 
 ---
 
@@ -307,6 +421,22 @@ The young man has repeatedly urged the woman to marry her. She then sent a link 
 [Data](articles/a03403f0.json)
 
 [Extended Data](ext_articles/a03403f0.ext.json)
+
+---
+
+### Minimum salary increased to Rs.17,500
+
+*2024-03-26 12:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minimum-salary-increased-to-Rs-17-500/108-279627) · `en`
+
+Colombo, March 26 (Daily Mirror) - According to the provisions of the National Minimum Wages Act, the National Minimum Wage has been set at Rs.12,500 and a committee appointed on the recommendations of the National Labour Advisory Council recommends that the wage be increased to Rs.17,500.
+
+The National Minimum Daily Wage of Rs. 500 will also be increased by Rs. 200 to Rs. 700.
+
+The proposal submitted by the Minister of Labour and Foreign Employment Manusha Nanayakkara to amend the National Minimum Wage Act has been approved.
+
+◼️
+
+[Data](articles/dfc23b16.json)
 
 ---
 
@@ -1578,6 +1708,8 @@ Tamil Nadu Performance in 2014 and 2019 and Forecast for 2024
 
 [Data](articles/b9140681.json)
 
+[Extended Data](ext_articles/b9140681.ext.json)
+
 ---
 
 ### A Security Council proposal passed for first ceasefire in Gaza
@@ -2119,117 +2251,5 @@ Corruption plays a critical role in shaping a country’s economic trajectory, s
 [Data](articles/e68adc12.json)
 
 [Extended Data](ext_articles/e68adc12.ext.json)
-
----
-
-### 2024-03-25 (Monday)
-
-### Special protection for churches;Inspector General of Action
-
-*2024-03-25 23:09:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேவாலயங்களுக்கு-விசேட-பாதுகாப்பு-பொலிஸ்மா-அதிபர்-அதிரடி/175-335184) · `ta`
-
-Inspector General of Police Daspandu Thenkon directs special security for Christian churches, focusing on Holy Silver and Easter Sunday. Churches are advised to prepare security plans for devotees and travel packages, ensuring premises are not disturbed. Police will consult with regional army camp officers for support.
-
-🟩
-
-Inspector General of Police, Daspandu Thenkon, has issued a directive to the Senior Superintendent of Police in charge of all sections of the Christian churches to implement a special security program.
-
-Accordingly, this special security program will be implemented for the 29th of this month for the worship of Holy Silver and Easter Sunday.
-
-In addition, it is advised to choose the most popular churches and go to the security of the security.
-
-Under this security program, the police chief has advised the priests and officials of the Devasanas and the authorities to prepare a security program for the safety of the devotees and their travel packages, if needed, if needed, if necessary, the premises should not be disturbed.
-
-In addition, the Inspector General of Police has issued a directive to take action to get their support in consultation with the officers responsible for the regional army camps.. Remble
-
-◼️
-
-[Data](articles/5a7a2596.json)
-
-[Extended Data](ext_articles/5a7a2596.ext.json)
-
----
-
-### Issues facing Inland Revenue Department in tax collection
-
-*2024-03-25 22:49:10* · [`dailyftlk`](https://www.ft.lk/columns/Issues-facing-Inland-Revenue-Department-in-tax-collection/4-759916) · `en`
-
-The IRD has encountered significant challenges in meeting its tax collection targets. As of October 2023, the IRD collected 82% of the projected revenue, amounting to Rs. 740 billion out of an expected Rs. 908 billion.
-
-The slowdown in collection was particularly noticeable in the second half of the year, attributed to the Central Bank’s interest rate policy directive in August, which impacted corporate tax inflow. Financial institutions, which are major contributors to corporate taxes, have been affected by the monetary policy, leading to a shortfall in Government revenue.
-
-The IRD set ambitious targets for corporate taxes at Rs. 603 billion and non-corporate taxes at Rs. 305 billion for 2023. By October, 77% of the corporate taxes and 91% of the non-corporate taxes were collected.
-
-The 2024 Budget aims to increase tax revenue to Rs. 4 trillion, up from Rs. 3 trillion in 2023, with a significant portion expected from taxes on income and profit.
-
-...
-
-[Data](articles/6af5e2b8.json)
-
-[Extended Data](ext_articles/6af5e2b8.ext.json)
-
----
-
-### Economic realities and political promises
-
-*2024-03-25 22:45:54* · [`dailyftlk`](https://www.ft.lk/columns/Economic-realities-and-political-promises/4-759915) · `en`
-
-“The first panacea for a mismanaged nation is inflation of the currency; the second is war. Both bring a temporary prosperity; both bring a permanent ruin. But both are the refuge of political and economic opportunists” – Ernest Hemingway
-
-After concluding its review on SL’s economic progress during last year and commending the regime for its “unwavering commitment to the program’s implementation”, the IMF review commission has recommended the release of the next tranche of $ 337 million to bring it to a total $ 1 billion since March 2023, but with a reminder that “sustaining the reform momentum and addressing governance weaknesses and corruption vulnerabilities are critical to put the economy on a path towards lasting recovery and stable and inclusive growth”. What this means is that lasting recovery is not possible unless there is going to be a system change.
-
-...
-
-[Data](articles/0a595203.json)
-
-[Extended Data](ext_articles/0a595203.ext.json)
-
----
-
-### Regulations must be data-driven; not based on fallacies
-
-*2024-03-25 22:43:17* · [`dailyftlk`](https://www.ft.lk/columns/Regulations-must-be-data-driven-not-based-on-fallacies/4-759914) · `en`
-
-Claims countries have passed laws banning cigarette filters entirely false
-
-The Alcohol and Drug Information Centre (ADIC) in a statement recently called on the Government to ban cigarette filters citing movements to conserve the environment. Whilst efforts to protect the environment must be lauded, however, the statement added the European Union had agreed on a ban, with Belgium and Netherlands already putting the ban in place. This is a complete misrepresentation of the truth. It once again spotlights organisations lobbying Government for regulatory changes bandying misinformation that ultimately impacts much larger value chains and the public.
-
-...
-
-[Data](articles/68261b1f.json)
-
-[Extended Data](ext_articles/68261b1f.ext.json)
-
----
-
-### Regulations must be data-driven; not based on fallacies
-
-*2024-03-25 22:43:17* · [`dailyftlk`](https://www.ft.lk/opinion/Regulations-must-be-data-driven-not-based-on-fallacies/14-759914) · `en`
-
-Claims countries have passed laws banning cigarette filters entirely false
-
-The Alcohol and Drug Information Centre (ADIC) in a statement recently called on the Government to ban cigarette filters citing movements to conserve the environment. Whilst efforts to protect the environment must be lauded, however, the statement added the European Union had agreed on a ban, with Belgium and Netherlands already putting the ban in place. This is a complete misrepresentation of the truth. It once again spotlights organisations lobbying Government for regulatory changes bandying misinformation that ultimately impacts much larger value chains and the public.
-
-...
-
-[Data](articles/b2d20d45.json)
-
-[Extended Data](ext_articles/b2d20d45.ext.json)
-
----
-
-### Call for urgent agreement on international deal to prepare for and prevent future pandemics
-
-*2024-03-25 22:42:08* · [`dailyftlk`](https://www.ft.lk/opinion/Call-for-urgent-agreement-on-international-deal-to-prepare-for-and-prevent-future-pandemics/14-759913) · `en`
-
-Call from over 100 pantheon of global leaders for urgent agreement on governments to reach ambitious and equitable international deal to prepare for and prevent future pandemics
-
-A high-powered intervention by 23 former national Presidents, 22 former Prime Ministers, a former UN General Secretary and 3 Nobel Laureates was made last week to press for an urgent agreement from international negotiators on a Pandemic Accord, under the Constitution of the World Health Organisation, to bolster the world’s collective preparedness and response to future pandemics.
-
-...
-
-[Data](articles/33e2f3c1.json)
-
-[Extended Data](ext_articles/33e2f3c1.ext.json)
 
 ---

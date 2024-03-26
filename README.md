@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 23:52:35**
+As of **2024-03-27 00:03:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,355 (99.9%) of 15,367 articles have been extended.
+15,367 (100.0%) of 15,367 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ As the preparations begin for the bilateral series, Proteas skipper Laura Wolvaa
 ...
 
 [Data](articles/60453976.json)
+
+[Extended Data](ext_articles/60453976.ext.json)
 
 ---
 
@@ -964,6 +966,8 @@ Senior Deputy Governor Yvette Fernando said revival units will identify business
 
 [Data](articles/c46c8360.json)
 
+[Extended Data](ext_articles/c46c8360.ext.json)
+
 ---
 
 ### Investigations into the assets of 20 more arrested
@@ -1148,6 +1152,8 @@ A bond maturing on 15.12.2028 closed stable at 12.10/15 percent. (Colombo/Mar26/
 
 [Data](articles/259d5f6d.json)
 
+[Extended Data](ext_articles/259d5f6d.ext.json)
+
 ---
 
 ### Sri Lanka to promote registration of ships under its flag
@@ -1192,6 +1198,8 @@ Sri Lanka’s central bank cut its policy corridor by 50 basis points to 8.50 pe
 
 [Data](articles/396d389c.json)
 
+[Extended Data](ext_articles/396d389c.ext.json)
+
 ---
 
 ### Sri Lanka CB urging banks to lower rates for SMEs despite parate suspension
@@ -1211,6 +1219,8 @@ The central bank has provided monetary stability since September 2022 and intere
 ...
 
 [Data](articles/ad2ba3a5.json)
+
+[Extended Data](ext_articles/ad2ba3a5.ext.json)
 
 ---
 
@@ -1608,6 +1618,8 @@ Currency dealers said the rupee would he appreciated further if not for the cent
 
 [Data](articles/9b878393.json)
 
+[Extended Data](ext_articles/9b878393.ext.json)
+
 ---
 
 ### Two persons arrested for allegedly involved in iron theft at Cement Cement Factory
@@ -1717,6 +1729,8 @@ The bill is part of a series of drafted laws that are to reform Sri Lanka’s le
 ◼️
 
 [Data](articles/4c4887bb.json)
+
+[Extended Data](ext_articles/4c4887bb.ext.json)
 
 ---
 

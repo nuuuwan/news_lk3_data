@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 22:18:41**
+As of **2024-03-26 22:33:23**
 
 ## Newspaper Stats
 
-*Scraped **15,350** Articles*
+*Scraped **15,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,56 @@ adalk | 1,311
 adaderanalk | 1,843
 tamilmirrorlk | 1,844
 virakesarilk | 2,168
-dailymirrorlk | 2,373
+dailymirrorlk | 2,374
 adaderanasinhalalk | 2,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,348 (100.0%) of 15,350 articles have been extended.
+15,350 (100.0%) of 15,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் தொடர்பில் மைத்திரிபால சிறிசேனவுக்கு எதிராக  குற்றச்சாட்டுகள் சுமத்தப்பட வேண்டும் - ஐ.தே.க. செயலாளர் ரங்கே பண்டார
+### Government vehicles run at Rs. 300 per km, costs additional Rs. 20 bn: Parliamentary Committee
+
+*2024-03-26 22:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-vehicles-run-at-Rs-300-per-km-costs-additional-Rs-20-bn-Parliamentary-Committee/108-279669) · `en`
+
+Colombo, March 26 (Daily Mirror)- Government vehicles which are running at a cost of Rs. 300 per kilometre can be run at a cost of 100, a research paper submitted to the Sectoral Oversight Committee on Energy and Transport has revealed.
+
+This was revealed according to the data of a research paper prepared by the Department of Manpower and Employment on "Public Resource Management" which was presented at the Sectoral Oversight Committee on Energy and Transport recently.
+
+The research paper revealed that according to the statistics of the year 2022, government institutions own about 82,000 vehicles, of which about 76,000 are in running condition while around 5500 vehicles are not.
+
+...
+
+[Data](articles/b43d1ded.json)
+
+---
+
+### Allegations against Maithripala Sirisena on lifeblood bombing should be charged - the UNP. Secretary Range Bandara
 
 *2024-03-26 22:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179780) · `ta`
 
-உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் சம்பவத்துக்கான பொறுப்பை முன்னாள் ஜனாதிபதி ஏற்றுக்கொள்ள வேண்டும். அரச தலைவராக இருந்து அவர் பொறுப்பைச் சரியான முறையில் நிறைவேற்றத் தவறினாரா அல்லது அவரை அறியாமல் இந்த தாக்குதல் இடம்பெற்றதா என்பதை நீதிமன்றம் விசாரணை செய்து தீர்ப்பு வழங்கும் என நம்புகிறோம்  என ஐக்கிய தேசிய கட்சியின் பொதுச் செயலாளர் பாலித்த ரங்கே பண்டார தெரிவித்தார்.
+UNP's Range Bandara demands Maithripala Sirisena face charges for the lifeblood bombing incident, claiming the former president failed to fulfill his duties. Despite not knowing Sirisena's intentions, Bandara insists Sirisena should take responsibility. The court has ordered Sirisena to pay 100 million rupees for the crime.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (26) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன அண்மையில் தெரிவித்திருந்த கருத்து எந்த நோக்கத்தில் தெரிவித்தார் என்பது எமக்குத் தெரியாது. என்றாலும்  தாக்குதல் இடம்பெற்றபோது அரச தலைவர் என்றவைகையில் அதற்கான பொறுப்பை அவர் ஏற்றுக்கொள்ள வேண்டும் என நான் ஆரம்பத்தில் இருந்தே தெரிவித்து வருகிறேன்.
+The former president must accept responsibility for the survival Sunday bombing incident. UNP General Secretary Palitha Range Bandara said that he failed to properly fulfill his responsibility as the head of state or that the court would investigate and verdict whether the attack took place.
+
+He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (26).
+
+We do not know what aims the former President Maithripala Sirisena recently expressed regarding the lifeblood attack. However, as the head of state at the time of the attack, I have been informed from the beginning that he should take responsibility for it.
+
+This is because he did not invite the former Prime Minister and the former Defense Minister of the Security Council to meet the meetings, and the reasons for the immediate arrival of Singapore during the attack were not confirmed during the investigation.
 
 ...
 
 [Data](articles/09c587aa.json)
+
+[Extended Data](ext_articles/09c587aa.ext.json)
 
 ---
 
@@ -63,6 +87,8 @@ Underlining DPI as a vital enabler for the digitisation of the Sri Lankan econom
 ...
 
 [Data](articles/1f14efe8.json)
+
+[Extended Data](ext_articles/1f14efe8.ext.json)
 
 ---
 
@@ -2239,31 +2265,5 @@ It is reported that the spy has provided details with the person's telephone num
 [Data](articles/bc7a212c.json)
 
 [Extended Data](ext_articles/bc7a212c.ext.json)
-
----
-
-### Keheliya's bribery case rejected
-
-*2024-03-26 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194951) · `si`
-
-The Colombo High Court rejected a preliminary protest against Keheliya Rambukwella and two others, continuing their bribery case. The trial, initially set for July 22, resumed with Rambukwella present.
-
-🟩
-
-The Colombo High Court today rejected a preliminary protest against the accused by the Bribery Commission (Bribery Commission) against former Minister Keheliya Rambukwella and two accused.
-
-Accordingly, Colombo High Court Judge Damith Thatawatte was also given to continue the case filed by former Minister Keheliya Rambukwella and former Minister of State Printing Corporation.
-
-The trial was then held on July 22.
-
-Former Minister Keheliya Rambukwella was produced before court when the case was taken up.
-
-A sum of Rs.The case has been filed against the two defendants by the Commission.
-
-◼️
-
-[Data](articles/15ad4a88.json)
-
-[Extended Data](ext_articles/15ad4a88.ext.json)
 
 ---

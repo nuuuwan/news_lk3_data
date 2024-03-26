@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 12:33:42**
+As of **2024-03-26 12:49:26**
 
 ## Newspaper Stats
 
-*Scraped **15,229** Articles*
+*Scraped **15,236** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,25 +16,109 @@ dailyftlk | 819
 economynextcom | 821
 islandlk | 843
 adalk | 1,296
-adaderanalk | 1,827
-tamilmirrorlk | 1,834
-virakesarilk | 2,139
+adaderanalk | 1,828
+tamilmirrorlk | 1,836
+virakesarilk | 2,140
 dailymirrorlk | 2,351
-adaderanasinhalalk | 2,444
+adaderanasinhalalk | 2,447
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,226 (100.0%) of 15,229 articles have been extended.
+15,229 (100.0%) of 15,236 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### ஒன்லைன் அச்சுறுத்தல்கள்:உதவியை நாடுமாறு கோரிக்கை
+### හමාස් නායකයා ඉරානයට
 
-*2024-03-26 12:16:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-அச்சுறுத்தல்கள்-உதவியை-நாடுமாறு-கோரிக்கை/175-335212) · `ta`
+*2024-03-26 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194949) · `si`
+
+හමාස් නායක ඉස්මයිල් හනියේ අද (26) ඉරානයට යෑමට නියමිත බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+ඉරාන බලධාරීන් සමග සාකච්ඡා පැවැත්වීම සඳහා ඔහු එරටට යන බව සඳහන් වෙයි.
+
+ඔක්තෝබර් 07 වනදා හමාස් - ඊශ්‍රායල ගැටුම් ආරම්භ වීමෙන් අනතුරුව හමාස් නායකයා ඉරානය ට යන දෙවැනි අවස්ථාව මෙය වෙයි.
+
+ගාසා තීරයේ ගැටුම් සඳහා වහාම සටන් විරාමයක් අවශ්‍ය බවට එක්සත් ජාතීන්ගේ ආරක්ෂක කවුන්සිලය ඊයේ සම්මත කළ යෝජනාව සම්බන්ධයෙන් ද හමාස් නායකයා සිය ප්‍රසාදය ප්‍රකාශ කර ඇති බව සඳහන් ය.
+
+◼️
+
+[Data](articles/a0e89a78.json)
+
+---
+
+### ජාතික අවම වැටුප වැඩිකෙරේ
+
+*2024-03-26 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194948) · `si`
+
+ජාතික අවම වැටුප රුපියල් 5000කින් වැඩි කිරීම සඳහා ජාතික අවම වේතන පනත සංශෝධනය කිරීමට කම්කරු හා විදේශ රැකියා අමාත්‍යවරයා විසින් ගෙන ආ යෝජනාවට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+ඒ අනුව මේ වනවිට පවතින ජාතික අවම වැටුප රුපියල් 12,500 සිට රුපියල් 17,500 දක්වා ඉහළ යනු ඇත.
+
+ජාතික අවම දෛනික වැටුප රුපියල් 500 සිට රුපියල් 700 දක්වා රුපියල් 200කින් ඉහළ දැමීමටද හැකිවන පරිදි එම පනත සංශෝධනය කිරීමටද මෙහිදී නිර්දේශ කර ඇත.
+
+ජාතික කම්කරු උපදේශක සභාවේ නිර්දේශ මත පත්කරන ලද කුඩා හා මාධ්‍ය පරිමාණ ව්‍යවසායකයින් නියෝජනය කරන වෘත්තීය සමිති සහ සේවායෝජකයින් ඇතුළත් ත්‍රෛපාර්ශ්වික අනුකමිටුවක් මගින් මෙම වැටුප් ඉහළදැමීම් නිර්දේශ කර තිබේ.
+
+◼️
+
+[Data](articles/e26663da.json)
+
+---
+
+### Monthly basic salary to be increased by Rs. 5,000
+
+*2024-03-26 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98211/monthly-basic-salary-to-be-increased-by-rs-5000) · `en`
+
+The Cabinet of Ministers has given its approval to amend the National Minimum Wage of Workers Act to increase the monthly basic salary and daily wage of workers.
+
+This was recommended by the tripartite sub-committee of trade unions representing Small- and Medium-Sized Enterprises (SMEs) and employees appointed by the National Labour Advisory Council.
+
+The relevant proposal was presented to the Cabinet meeting held on Monday (March 25) by Minister of Labour and Foreign Employment Manusha Nanayakkara.
+
+Accordingly, it is proposed to increase the monthly basic salary by Rs. 5,000, from Rs. 12,500 to Rs. 17,500.
+
+In addition, the minimum daily wage of workers is proposed to be raised from Rs. 500 to Rs. 700.
+
+◼️
+
+[Data](articles/3472c528.json)
+
+---
+
+### கோட்டை நீதவானை கொல்ல சதி
+
+*2024-03-26 12:30:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டை-நீதவானை-கொல்ல-சதி/175-335213) · `ta`
+
+கோட்டை நீதவான் திலின கமகேவை கொலை செய்வதற்கான சதித்திட்டம் தொடர்பில் துரித விசாரணைகளை மேற்கொள்ளுமாறு பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனுக்கு பொது பாதுகாப்பு அமைச்சர் டிரான் அலஸ் பணிப்புரை விடுத்துள்ளார்.
+
+கோட்டை நீதவான் திலின கமகேவை  T81 கிரனேட் லாஞ்சர் மூலம் தாக்குதல். நடத்தி கொலை செய்ய முயற்சிப்பதாக தகவல் வழங்கிய கடிதம் தொடர்பில் பொது பாதுகாப்பு அமைச்சரின் பணிப்புரைக்கு அமைய விரிவான விசாரணைகளை மேற்கொள்ளுமாறு பொலிஸ் மா அதிபரிடம் பணிப்புரை பெற்றுள்ளதாக குற்றப்புலனாய்வு திணைக்களம் தெரிவித்துள்ளது.
+
+நீதவானை கொல்வதற்காக ஒருவர் தொலைபேசி மூலம் இந்தத் துப்பாக்கியைக் கோரியதாக தகவல் கொடுத்தவர் கடிதத்தில் குறிப்பிட்டுள்ளதாக கூறப்படுகிறது. அந்த உளவு கடிதத்தில் துப்பாக்கியை பெற்றுக்கொள்ள அழைப்பு விடுத்த நபரின் தொலைபேசி இலக்கமும் குறிப்பிடப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+◼️
+
+[Data](articles/a07a9a84.json)
+
+---
+
+### இலங்கையின் வருமானத்தில் சுற்றுலாத்துறையின் பங்களிப்பு
+
+*2024-03-26 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179732) · `ta`
+
+இலங்கையின் வருமானத்தில் சுற்றுலாத்துறை மற்றும் வெளிநாட்டு வேலைவாய்ப்பு என்பன பாரிய பங்களிப்பை வழங்கி வருகின்றது. 2018 ஆம் ஆண்டு இலங்கையின் முக்கிய ஏற்றுமதி மூலங்களாகவிருந்த ஆடை, தேயிலை மற்றும் இறப்பர் உற்பத்திகள் ஆகியவற்றுக்கு அதிகமாக சுற்றுலாத்துறையின் மூலம் அதிக வருமானம் பெற்றுக்கொள்ளப்பட்டிருந்தது. 2020 ஆம் ஆண்டுக்குப் பின்னர் இலங்கையில் ஏற்பட்ட கொவிட் தொற்று காரணமாக நாடு முடக்கப்பட்டமை, அரசியல் மற்றும் பொருளாதார நெருக்கடி என்பவற்றினால் இலங்கையின் வருமானம் குறைந்து கடன் தொகை அதிகரிக்கும் நிலை ஏற்பட்டிருந்தது. இந்நிலையில் இலங்கைக்கு வருமானத்தை அதிகரிக்கும் வகையில் சுற்றுலாத்துறையை ஊக்குவிக்கும் செயற்பாடுகள் தற்போது முன்னெடுக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/b51b5b42.json)
+
+---
+
+### ஒன்லைன் அச்சுறுத்தலாயின் உதவியை நாடுங்கள்
+
+*2024-03-26 12:16:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-அச்சுறுத்தலாயின்-உதவியை-நாடுங்கள்/175-335212) · `ta`
 
 இணையம் ஊடாக பல்வேறு அச்சுறுத்தல்களை எதிர்நோக்கும் பொதுமக்கள் பொலிஸ் கணினி குற்றப் புலனாய்வுப் பிரிவின் உதவியை நாடுமாறு கோரப்பட்டுள்ளது.
 
@@ -48,47 +132,107 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ...
 
-[Data](articles/a03403f0.json)
+[Data](articles/7545b1cb.json)
 
 ---
 
-### நாட்டுக் கொண்டு வரப்பட்ட உயிரினங்கள் கைப்பற்று
+### Online Threats: Request to seek help
 
-*2024-03-26 12:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டுக்-கொண்டு-வரப்பட்ட-உயிரினங்கள்-கைப்பற்று/175-335211) · `ta`
+*2024-03-26 12:16:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-அச்சுறுத்தல்கள்-உதவியை-நாடுமாறு-கோரிக்கை/175-335212) · `ta`
 
-தாய்லாந்தில் இருந்து சட்டவிரோதமான முறையில் நாட்டுக்குள் கொண்டுவரப்பட்ட பல உயிரினங்கள் கைப்பற்றப்பட்டுள்ளதுடன் இளம் வர்த்தக தம்பதியினர் கைது செய்யப்பட்டுள்ளனர்.
+The public is urged to report online threats to the Police Computer Criminal Investigation Division. A 21-year-old youth from Hikkaduwa revealed assistance numbers after a man was arrested for harassing a woman on Facebook, infiltrating their conversations and images.
 
-சுமார் நாற்பது இலட்சம் ரூபா பெறுமதியான 88 உயிருள்ள விலங்குகளுடன் இந்த ஜோடி கொழும்பு கட்டுநாயக்க சர்வதேச விமான நிலையத்தின் வருகை முனையத்தில் வைத்து கைது செய்யப்பட்டுள்ளது.
+🟩
 
-குறித்த இருவரும் தாய்லாந்தின் பேங்கொக்கில் இருந்து ஸ்ரீலங்கன் எயார்லைன்ஸ் விமானமான UL-405 இல் கட்டுநாயக்க விமான நிலையத்தை திங்கட்கிழமை (25)  பிற்பகல் 04.35 மணியளவில் வந்தடைந்துள்ளனர்.
+The public, which is facing various threats through the Internet, has been requested to seek the help of the Police Computer Criminal Investigation Division.
 
-சுங்கத்துறையின் பல்லுயிர் பிரிவு மற்றும் வேளாண்மைத் துறையின் கால்நடை தனிமைப்படுத்தல் நிறுவனம் ஆகியவற்றின் அதிகாரிகளின் சோதனையிட்டதையடுத்து குறித்த ஜோடி கைது செய்யப்பட்டுள்ளது.
+Police Media Spokesperson and Deputy Inspector General of Police Nihal Talduwa said that those who face various harassment and threats from individuals via the Internet can lodge a complaint with the Police Computer Criminal Investigation Division.
 
-அவர்கள் கொண்டு வந்த பொதிகளில் தட்டான்கள், தவளைகள், மீன்கள், , அணில்கள், ஆமைகள், பல்லிகள், வெள்ளை எலிகள், பச்சோந்தி மற்றொரு வகை புழுக்கள் மற்றும் எலிகள் நாட்டிற்கு எடுத்து வந்துள்ளனர்.
+He told the media that those who need help can complain via e -mail dir.ccid@police.gov.lk.
+
+He added that complaints can be lodged by the emergency call of the Bureau of the 109 children and women, which operates 24 hours a day.
+
+The 21 -year -old youth from Hikkaduwa revealed these assistant numbers after the arrest of a young man for harassing a woman via Facebook.
+
+The young man has repeatedly urged the woman to marry her. She then sent a link to her, claiming that the girl's photos were uploaded to the Internet, and asked her to send her a link to her boyfriend.
 
 ...
 
-[Data](articles/32310839.json)
+[Data](articles/a03403f0.json)
+
+[Extended Data](ext_articles/a03403f0.ext.json)
 
 ---
 
-### ஊழியர்களுக்குச் சம்பள உயர்வு வழங்கியதனால் ஏற்பட்டுள்ள நெருக்கடிக்காக பதவி விலகப் போவதில்லை : மத்திய வங்கி ஆளுநர்!
+### Seize
+
+*2024-03-26 12:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டுக்-கொண்டு-வரப்பட்ட-உயிரினங்கள்-கைப்பற்று/175-335211) · `ta`
+
+A young couple was arrested at Colombo's Katunayake International Airport for smuggling 88 exotic animals worth 40 lakhs of rupees from Thailand. The animals, including tatanas, frogs, fish, squirrels, turtles, lizards, white rats, chameleon worms, and rats, were seized by customs officials.
+
+🟩
+
+A number of species that have been illegally brought to the country from Thailand have been seized and a young business couple have been arrested.
+
+The pair have been arrested at the Katunayake International Airport in Colombo with 88 living animals worth about forty lakhs of rupees.
+
+The two men arrived at the Katunayake airport on Monday (25) at 04.35 pm on the Sri Lankan Airlines flight from Bangkok, Thailand.
+
+The couple has been arrested following the raid of officials of the Customs Department and the Livestock Institute of the Agriculture Department.
+
+In the packs they brought, the tatanas, frogs, fish,, squirrels, turtles, lizards, white rats, chameleon worms and rats have been brought to the country.
+
+In addition, the couple has been detained by the customs officials and the animals brought in the Katunayake airport have been handed over to the isolation of the animals until the investigation is completed.
+
+◼️
+
+[Data](articles/32310839.json)
+
+[Extended Data](ext_articles/32310839.ext.json)
+
+---
+
+### මත්පැන් මිල ගැන අලුත් ආරංචියක්
+
+*2024-03-26 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194947) · `si`
+
+එළැඹෙන සිංහල හා හින්දු අලුත් අවුරුද්දට පෙර මත්පැන් මිල පහත හෙළීම සඳහා උත්සාහ ගන්නා බව ප්‍රාථමික කර්මාන්ත රාජ්‍ය අමාත්‍ය චාමර සම්පත් දසනායක මහතා පවසයි.
+
+බදුල්ල ප්‍රදේශයේදී මාධ්‍ය වෙත අදහස් දක්වමින් රාජ්‍ය අමාත්‍යවරයා මේ බව පැවසීය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ රාජ්‍ය අමාත්‍ය චාමර සම්පත් දසනායක මහතා,
+
+"මත්පැන් අඩුකරන්න ඕන බඩුමිල අඩුවෙන්න ඕන. හැමදෙයක්ම අඩුවෙන්න ඕන. විශේෂයෙන්ම මත්පැන් මිලත් අවුරුද්දට ඉස්සරවෙලා අඩුකරගන්න තමයි අපි බලාපොරොත්තු වෙන්නේ. අපි ජනප්‍රිය තීන්දු මෙච්චර කල් ගත්තෙත් නෑ ගන්නෙත් නෑ. ජනප්‍රිය තීන්දු ගන්න ගිහිල්ලා තමයි අපි පහුගිය කාලේ ඩොලර් 200ට වැටිලා මේ රට අන්ධපකීර් වෙලා කෙළවගත්ත වෙලාව මතකයි නේ ඔයගොල්ලන්ට. ඒ හින්දා ජනප්‍රිය තීන්දු ගන්නේ නෑ."
+
+◼️
+
+[Data](articles/15e04e27.json)
+
+---
+
+### Central Bank Governor is not resigning for a crisis caused by a pay hike for employees
 
 *2024-03-26 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179731) · `ta`
 
-தனது ஊழியர்களுக்கு சம்பள அதிகரிப்பு வழங்கியதனால்  ஏற்பட்டுள்ள நெருக்கடி நிலைமையைக்  கருத்திற் கொண்டு மத்திய வங்கி ஆளுநர் பதவியிலிருந்து  தான் விலகப் போவதில்லை என கலாநிதி நந்தலால் வீரசிங்க தெரிவித்துள்ளார்.
+Dr. Nandalal Weerasinghe, Central Bank Governor, refuses to resign over a pay hike for employees, stating it's a joint union agreement and his responsibility to raise corporate salaries.
 
-மத்திய வங்கியில் இன்று செவ்வாய்க்கிழமை (26)  இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் ஊடகவியலாளர் ஒருவர் கேட்ட கேள்விக்கு பதிலளிக்கும் போதே மத்திய வங்கியின் ஆளுநர் மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-எனக்குக் கீழ் பணிபுரியும் ஊழியர்களின் சம்பள உயர்வு, மறுபரிசீலனை போன்ற காரணங்களால் நான் வெளியேறமாட்டேன் என்பதை நான் தெளிவாகக் கூறிக்கொள்ள விரும்புகிறேன்.
+Dr. Nandalal Weerasinghe has said that he will not resign from the post of Governor of the Central Bank, considering the crisis of the crisis caused by the salary increase to his employees.
 
-நிறுவனத்தின் தலைவர் என்ற வகையில், நிறுவன ஊழியர்களின் சம்பளத்தை உயர்த்தும் பொறுப்பு எனக்கு உள்ளது. நான் அதை செய்தேன். அதனால் நான் விலகுவதற்கு இதனை  ஒரு காரணமாக பார்க்கவில்லை.
+The Governor of the Central Bank said this while responding to a question asked by a journalist at a media briefing held at the Central Bank on Tuesday (26).
 
-தொழிற்சங்கங்களுடன் பேசியே  மூன்று ஆண்டுகளுக்கு கூட்டு ஒப்பந்தம் மூலம் இந்த முடிவு எடுக்கப்பட்டுள்ளது என்றும் அவர் தெரிவித்துள்ளார்.
+I would like to clearly say that I will not leave for the salary and review of the employees who work under me.
+
+As the head of the company, I have a responsibility to raise the salary of corporate employees. I did that. So I don't see this for a reason.
+
+He said the decision was made by the unions for three years by a joint agreement.
 
 ◼️
 
 [Data](articles/a3deb49b.json)
+
+[Extended Data](ext_articles/a3deb49b.ext.json)
 
 ---
 
@@ -2073,143 +2217,5 @@ Dinesh Weerakkody is a former Chairman of Hatton National Bank PLC and Commercia
 [Data](articles/f1047d1e.json)
 
 [Extended Data](ext_articles/f1047d1e.ext.json)
-
----
-
-### The world is an emergency surgery for love superhero
-
-*2024-03-25 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194927) · `si`
-
-Annold, a Western cinema superhero, undergoes another surgery, having faced three heart surgeries and being fitted with a Pacemaker. He mentions a similar device and plans to rest.
-
-🟩
-
-Foreign media reports that Annold is facing another surgery in Western cinema, who loves a world.
-
-He has made a note in his X account, commented on this.
-
-He said that he had faced three heart surgeries and was fixed by a Pacemaker device.
-
-He also stated that he has a similar type of machine.
-
-He added that he would have to rest from the brink of cohesion.
-
-◼️
-
-[Data](articles/3533c838.json)
-
-[Extended Data](ext_articles/3533c838.ext.json)
-
----
-
-### Nations Trust Bank invites cardmembers to Spark Connections #WithAmex this Avurudu season
-
-*2024-03-25 22:07:00* · [`islandlk`](http://island.lk/nations-trust-bank-invites-cardmembers-to-spark-connections-withamex-this-avurudu-season/) · `en`
-
-As the Avurudu Celebrations draw near, Nations Trust Bank American Express has announced a line-up of benefits and privileges for its Cardmembers. Under the theme, ‘Spark Connections this Avurudu #WithAmex’, Cardmembers are invited to embrace the spirit of togetherness and celebration, to build connections that resonate within their families and friends.
-
-Throughout the festive period, Cardmembers can indulge in a myriad of offerings from 300 merchants islandwide, both online and offline. From gifting to dining experiences, hotel stays, and convenient supermarket purchases, there is something for everyone to enjoy. These activities, enjoyed alongside family and friends during the New Year season, will spark meaningful connections.
-
-...
-
-[Data](articles/7d0db40d.json)
-
-[Extended Data](ext_articles/7d0db40d.ext.json)
-
----
-
-### Opening of Identity College of Higher Education
-
-*2024-03-25 22:05:00* · [`islandlk`](http://island.lk/opening-of-identity-college-of-higher-education/) · `en`
-
-In a significant stride towards providing education and fostering the growth of caregivers, Certis Lanka unveiled its newest venture, the Identity College of Higher Education (ICHE), in a grand opening ceremony on the 12th of March 2024.
-
-With a solemn dedication to nurturing and empowering caregiver students, ICHE marks a pioneering initiative in Sri Lanka’s educational landscape. The inauguration ceremony, held with much fanfare and attended by esteemed guests and dignitaries, showcased the commitment of Certis Lanka to fostering academic excellence and addressing the evolving needs of the community.
-
-Identity College of Higher Education, situated in Colombo, aims to revolutionize caregiver education by offering a comprehensive curriculum tailored to meet the diverse needs of students. The college will provide specialized courses, workshops, and hands-on training programs, equipping learners with practical skills and theoretical knowledge essential for success in caregiving professions.
-
-...
-
-[Data](articles/749f41fd.json)
-
-[Extended Data](ext_articles/749f41fd.ext.json)
-
----
-
-### A revolution in the ComBank annual report reading experience
-
-*2024-03-25 22:04:00* · [`islandlk`](http://island.lk/a-revolution-in-the-combank-annual-report-reading-experience/) · `en`
-
-March 5, 2024, will go down as a red-letter day for the world’s investor relations community. On this day, Commercial Bank of Ceylon PLC, headquartered in Sri Lanka, integrated an AI-powered Annual Report Assistant (AIPARA) to their Annual Report 2023. It is probably the first of its kind.
-
-This innovation addresses a perennial issue and makes reading annual reports a true joy. Gone will be the days when readers had to wade through pages to find information of interest and significance to them. Readers can now simply ask questions from AIPARA and obtain answers.
-
-...
-
-[Data](articles/a7110cd7.json)
-
-[Extended Data](ext_articles/a7110cd7.ext.json)
-
----
-
-### Share market in suspenseful wait over interest rates; selling pressure up
-
-*2024-03-25 22:02:00* · [`islandlk`](http://island.lk/share-market-in-suspenseful-wait-over-interest-rates-selling-pressure-up/) · `en`
-
-The stock market indicated a downward trend yesterday because local and foreign investors are anticipating interest rates to remain unchanged at the Central Bank’s monthly policy review meeting scheduled for today. Consequently, selling pressure was noted and retail participation was relatively low, market analysts said.
-
-Amid those developments mixed reactions in the indices were noted. All Share Price Index went down by 26.62 while S and P SL20 rose by 1.4 points. Turnover stood at Rs 1.28 billion with four crossings.
-
-Those crossings were reported in Sanasa Development Bank, which crossed 4.8 million shares to the tune of Rs 176 million; its shares traded at Rs 36.50, NTB 984,000 shares crossed for Rs 103.4 million; its shares traded at Rs 105, Sampath Bank 700,000 shares crossed for Rs 53.9 million and its shares sold at Rs 77 and Agarapathana Plantations 6.5 million shares crossed to the tune of Rs 49 million; its shares fetched Rs 7.50.
-
-...
-
-[Data](articles/5595bbf1.json)
-
-[Extended Data](ext_articles/5595bbf1.ext.json)
-
----
-
-### President appointed Cabinet Minister
-
-*2024-03-25 21:43:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதில்-அமைச்சரவை-அமைச்சரை-நியமித்தார்-ஜனாதிபதி/175-335183) · `ta`
-
-President Ranil Wickremesinghe appointed Janaka Wakambura as Cabinet Minister, responding to provincial councils and local governments.
-
-🟩
-
-The Minister of State for Minister of State for Cabinet, Janaka Wakambura has been appointed as the Cabinet Minister in response to provincial councils and local governments.
-
-The appointment was made by President Ranil Wickremesinghe as Prime Minister Dinesh Gunawardena made a five -day official visit to China yesterday afternoon.
-
-◼️
-
-[Data](articles/7dd21cda.json)
-
-[Extended Data](ext_articles/7dd21cda.ext.json)
-
----
-
-### “Students cannot wait until we find a solution”
-
-*2024-03-25 21:36:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாம்-தீர்வு-காணும்-வரை-மாணவர்கள்-காத்திருக்க-முடியாது/175-335182) · `ta`
-
-"Students can't wait for solutions, and Education Minister Susil Premajayantha said they might choose alternative education systems if current ones don't meet their needs. He emphasized the importance of solving problems but also acknowledged the need for students to shape their futures. He noted that educational advancements are driven by technology, and Sri Lanka is following suit."
-
-🟩
-
-School students cannot wait until they solve our problems and stop their growth. Meanwhile, Education Minister Susil Premajayantha said they could select alternative education systems.
-
-Speaking at the inauguration of the School Food Program for 2024 at the Sujatha Women's College, Narahenpitiya, the Minister said that if the school does not get a suitable education system, the children will definitely find alternatives.
-
-“Today we face that position. Many children are saying goodbye to our government school education system and engage in alternative education systems. We need to solve our problems, but they must first create their future, ”the minister said. .
-
-"A country's educational programs are combined with technology. Most countries have gone far away with new technology systems. We too follow them, ”he said.
-
-◼️
-
-[Data](articles/e0dc4e7f.json)
-
-[Extended Data](ext_articles/e0dc4e7f.ext.json)
 
 ---

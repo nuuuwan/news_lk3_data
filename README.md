@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 17:03:03**
+As of **2024-03-26 17:17:56**
 
 ## Newspaper Stats
 
-*Scraped **15,297** Articles*
+*Scraped **15,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 192
 newsfirstlk | 363
 dailyftlk | 819
 economynextcom | 821
-islandlk | 844
-adalk | 1,304
-adaderanalk | 1,837
+islandlk | 845
+adalk | 1,306
+adaderanalk | 1,838
 tamilmirrorlk | 1,841
-virakesarilk | 2,156
+virakesarilk | 2,158
 dailymirrorlk | 2,363
 adaderanasinhalalk | 2,456
 
@@ -26,31 +26,115 @@ adaderanasinhalalk | 2,456
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,291 (100.0%) of 15,297 articles have been extended.
+15,297 (100.0%) of 15,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### ප්‍රසන්න රණතුංග දඬුවමට එරෙහි ගොනු කළ පෙත්සම විභාගයට දින දෙයි
+### Sri Lanka to promote registration of ships under its flag
 
-*2024-03-26 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194960) · `si`
+*2024-03-26 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98217/sri-lanka-to-promote-registration-of-ships-under-its-flag) · `en`
 
-අත්හිටවූ සිරදඬුවම් හා දඩ මුදල් නියමවී සිටින අමාත්‍ය ප්‍රසන්න රණතුංග මහතා එම දඬුවමට එරෙහිව ඉදිරිපත් කර තිබෙන අභියාචනා පෙත්සම විභාග කිරීම සඳහා අභියාචනාධිකරණය අද (26) දින ලබාදුනි.
+The government is eyeing to promote the registration of ships under the Sri Lankan flag in a bid to general direct and indirect employment opportunities.
 
-ඒ, කොලොන්නාව, මීතොටමුල්ල ප්‍රදේශයේ ඉඩමක් ගොඩ කිරීමට අවශ්‍ය අනුමැතිය ලබාදීම ඇතුළු කටයුතු ඉටු කරදීම පිළිබඳ සිද්ධියකට අදාළව ව්‍යාපාරිකයෙකුගෙන් රුපියල් මිලියන 64ක මුදලක් ඉල්ලා තර්ජනය කළ බවට චෝදනා එල්ලවී ඇති සිද්ධියක් සම්බන්ධයෙනි.
+As such, the Cabinet of Ministers has green-lighted a proposal, tabled by the Minister of Ports, Shipping and Aviation seeking permission to invite qualified domestic and foreign investors to register ships under the Sri Lankan flag.
 
-මෙම අභියාචනා පෙත්සම අද ඩී. එන්. සමරකෝන් මහතා ප්‍රමුඛ පංච පුද්ගල අභියාචනාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබීය.
+The government will thus call Expressions of Interest (EOIs) and proposals to select the most suitable investor on the recommendation of the Procurement Committee, consequent to the evaluation of the proposals by a Technical Evaluation Committee.
 
-එහිදී දෙපාර්ශ්වයේ නීතිඥවරු අධිකරණය හමුවේ ඉල්ලීමක් කරමින් මෙම පෙත්සම් විභාගය සඳහා දිනයක් නියම කරන ලෙස ඉල්ලා සිටියේය.
+Ship registration is a major source of foreign exchange to the country’s economy and has the potential to generate many direct and indirect employment opportunities, the government said in a statement.
 
-ඒ අනුව අදාළ අභියාචනා පෙත්සම අප්‍රේල් මස 30 වනදා සහ මැයි මස 03 වනදා විභාගයට ගැනීමට අභියාචනාධිකරණය දින නියම කෙරුණි.
+◼️
 
-මෙහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජෙනරල් රොහාන්ත අබේසූරිය මහතා කළ ඉල්ලීමක් පිළිගත්  විනිසුරු මඩුල්ල මෙම සිද්ධියට අදාළ මහාධිකරණ නඩූවේ සාක්ෂි ලෙස ගොනු කර තිබූ පොරොන්දු නෝට්ටු කිහිපයක් අධිකරණය හමුවේ කැදවීමට අවසර ලබා දුනි.
+[Data](articles/98eb4c5d.json)
+
+---
+
+### அமைச்சர் பவித்ரா வன்னியாராச்சியின் பேஸ்புக் பக்கம் மீது சைபர் தாக்குதல்
+
+*2024-03-26 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179763) · `ta`
+
+வனஜீவராசிகள் மற்றும் வனவள பாதுகாப்பு அமைச்சர் பவித்ரா வன்னியாராச்சியின் உத்தியோகபூர்வ பேஸ்புக்  பக்கம் மீது சைபர் தாக்குதல் மேற்கொள்ளப்பட்டுள்ளது.
+
+சைபர் தாக்குதலின் பின்னர் ஹேக்கர்களால் அமைச்சரின்  உத்தியோகபூர்வ பேஸ்புக் பக்கத்தில் இணைய விளையாட்டுக்கள் உட்பட பல்வேறு வகையான வீடியோக்கள் பதிவு செய்யப்பட்டுள்ளன.
+
+நேற்று திங்கட்கிழமை ( 26) மாலை முதல் சைபர் தாக்குதல் மேற்கொள்ளப்பட்டிருக்கலாம் என தெரிவிக்கப்படுகிறது.
+
+சைபர் தாக்குதல் தொடர்பில்  அமைச்சர் தரப்பில் இருந்து இதுவரை எந்தவொரு உத்தியோகபூர்வ அறிவிப்பும் வெளியாகவில்லை.
+
+◼️
+
+[Data](articles/a04fef94.json)
+
+---
+
+### ரஸ்ய - உக்ரைன் போர் களங்களில் பலியாகும் இலங்கை இராணுவவீரர்கள் ;  வறுமையை பிடியிலிருந்து தப்புவதற்காக  ரஸ்யா சென்றவர்கள் மரணத்தின் பிடியில் சிக்கும் பரிதாபம்
+
+*2024-03-26 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179766) · `ta`
+
+டொனொட்ஸ்க் பிராந்தியத்தில் உள்ள ரஸ்ய படையினரின்  பதுங்குழியொன்றின் மீது உக்ரைன் மேற்கொண்டதாக்குதலில்  பலத்த காயமடைந்த   சேனகபண்டார தனது நாட்டை சேர்ந்தவரான நிபுணசில்வாவை அந்த இடத்திலிருந்து பாதுகாப்பாக வெளியேற்ற முயன்றார்.
+
+நிபுணசில்வாவின் நிலைமை அதனை விட மோசமானதாக காணப்பட்டது அவரது நெஞ்சில் காயம் எற்பட்டிருந்தது கையிலும் காலிலும் காயங்கள் காணப்பட்டன என சேனக தெரிவித்தார்.
+
+கடும் தாக்குதல் காரணமாக அந்த இடத்திலிருந்து இரண்டு இலங்கையர்களும் பின்வாங்கியதும் ரஸ்யாவினால்  ஆக்கிரமிக்கப்பட்ட டொனெட்ஸ்க் பகுதியில் உள்ள பதுங்குகுழிகளை  உக்ரைனின் ஆளில்லா விமானங்கள் தாக்கின.
+
+உக்ரைனின் ஆளில்லா விமானங்கள் உக்கிரமான தாக்குதலில் ஈடுபட்டதால் நிபுணவை கைவிட்டுவிட்டு தான் தப்புவதை தவிர வேறு வழியிருக்கவில்லை என தெரிவித்தார் சேனக.
+
+நிபுணவை நான் தூக்கிக்கொண்டுவரும்போது இறுதி பதுங்குகுழி மீது  மீண்டும் உக்ரைனின் ஆளில்லா விமானதாக்குதல் இடம்பெற்றது நிபுண நிலத்தில் வீழ்;ந்தார் என சேனகதெரிவித்தார்.
+
+சேனக கிழக்கு உக்ரைனில் உள்ள டொனெட்ஸ்க்மருத்துவமனையில் சிகிச்சை பெற்றுவரும்வேளையில் அவர் இதனை தெரிவித்தார்.
 
 ...
 
+[Data](articles/7691b74c.json)
+
+---
+
+### එක්සත් ජාතික පක්ෂ කාර්යාලයකට අත් බෝම්බ ප්‍රහාරයක්
+
+*2024-03-26 16:53:51* · [`adalk`](https://www.ada.lk/breaking_news/එක්සත්-ජාතික-පක්ෂ-කාර්යාලයකට-අත්-බෝම්බ-ප්‍රහාරයක්/11-408813) · `si`
+
+කඩවත ප්‍රෙද්ශයේ ඇල්දෙනිය එක්සත් ජාතික පක්ෂ ප්‍රධාන කාර්යාලයට අද 26 අත් බෝම්බ ප්‍රහාරයක් එල්ල කර ඇති බවත් එම බෝම්බය පිපිරි නොමැති අතර සිදුවීමට ගිය විනාශයක් වැළකී ඇති බව උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+පක්ෂ කාර්යාලය ඉදිරියේ ඇති මාර්ගයේ තිබී ජීව අත්බෝම්බයේ කොපුව හමුවී තිබූ අතර එම අත් බෝම්බය පක්ෂ කාර්යාලය තුළ තිබියදී සොයාගෙන තිබේ. මෙම අත් බෝම්බය විදේශ රටක නිශ්පාදිත එකක් බවයි සැක පල කරන්නෙ.
+
+◼️
+
+[Data](articles/b97abab0.json)
+
+---
+
+### Pleasure filed against Prasanna Ranatunga sentenced to examination
+
+*2024-03-26 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194960) · `si`
+
+Prasanna Ranatunga appealed a punishment, with the Court of Appeal to hear on April 30 and May 3. The appeal concerns an incident in Meethotamulla, Kolonnawa. Ranatunga was fined Rs. 25 million and suspended for five years.
+
+🟩
+
+The Court of Appeal was given today (26) to hear the appeals petition filed by Minister Prasanna Ranatunga presented to the punishment against the punishment.
+
+It was with regard to an incident that had been accused of the purpose of carrying out a land of the Meethotamulla area in Kolonnawa.
+
+This appeal petition is today. N. The five-member appellaration of Mr. Samarakoon was called before a panel of judges.
+
+The lawyers of both parties demanded the Petition for the examination.
+
+The Court of Appeal was appointed to hear the appearance petition on April 30 and May 3.
+
+Solicitor General Rahanna Abeyuriya, who appeared for the Attorney General, was permitted to call several promicile notes filed as evidence of the High Courts.
+
+Minister Prasanna Ranatunga was sentenced to a sum of Rs.Had decided to suspend the five.
+
+In addition, the court was fined Rs. 25 million.
+
+The Prasanna Ranatunga had presented the petition in the Court of Appeal asking for the punishment against her by the Colombo High Court.
+
+◼️
+
 [Data](articles/553eec63.json)
+
+[Extended Data](ext_articles/553eec63.ext.json)
 
 ---
 
@@ -69,6 +153,8 @@ Rambukwella, who is currently in remand custody in connection with this alleged 
 ◼️
 
 [Data](articles/dbed7143.json)
+
+[Extended Data](ext_articles/dbed7143.ext.json)
 
 ---
 
@@ -139,6 +225,8 @@ Shakib, who last played a Test in April 2023, comes back at the expense of Tawhi
 ...
 
 [Data](articles/db116c85.json)
+
+[Extended Data](ext_articles/db116c85.ext.json)
 
 ---
 
@@ -225,6 +313,8 @@ Under this plan, church premises will be inspected discreetly before sermons beg
 ...
 
 [Data](articles/638d3963.json)
+
+[Extended Data](ext_articles/638d3963.ext.json)
 
 ---
 
@@ -354,6 +444,8 @@ The Governor also said that he will leave his position only if he fails to fulfi
 
 [Data](articles/8268df27.json)
 
+[Extended Data](ext_articles/8268df27.ext.json)
+
 ---
 
 ### The Court of Appeal of the Special Presidential Commission appointed Gotabhaya
@@ -462,6 +554,8 @@ The Sri Lanka Air Force (SLAF) has initiated a collaborative effort with the Art
 
 [Data](articles/9a2a91be.json)
 
+[Extended Data](ext_articles/9a2a91be.ext.json)
+
 ---
 
 ### A new tax instead of special commodity tax
@@ -505,6 +599,20 @@ During the anatomical examination, it was found that injections were caused by i
 [Data](articles/1c842c6b.json)
 
 [Extended Data](ext_articles/1c842c6b.ext.json)
+
+---
+
+### අධිවේගී මාර්ග සහස්යා ඉන්වෙස්ට්මන්ට් ලිමිටඩ් වෙත පවරයි
+
+*2024-03-26 14:52:00* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගී-මාර්ග-සහස්යා-ඉන්වෙස්ට්මන්ට්-ලිමිටඩ්-වෙත-පවරයි/11-408809) · `si`
+
+මාර්ග සංවර්ධන අධිකාරිය යටතේ දැනට ක්‍රියාත්මක වන අධිවේගී මාර්ග සහස්යා ඉන්වෙස්ට්මන්ට් ලිමිටඩ් වෙත පැවරීම සඳහා, ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය බන්දුල ගුණවර්ධන මහතා ඉදිරිපත් කළ යෝජනාවට කැබිනට් අනුමැතිය හිමිව තිබේ.
+
+අධිවේගී මාර්ග ජාලය , අධිවේගී මාර්ග සතු ඉඩම්,අධිවේගී මාර්ග ණය (දේශිය) සහ අදාළ කාර්යමණ්ඩලය වඩාත් වාණිජමය වශයෙන් කළමනාකරණ කිරීමට හැකි වන පරිදි මාර්ග සංවර්ධන අධිකාරියෙන් වෙන් කොට සහස්යා ඉන්වෙස්ට්මන්ට් ලිමිටඩ් වෙත පැවරීම පිණිස 2023.06.26 දඅන පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී  සහ ඒ් සඳහා වන ක්‍රියාකාරී සැලැස්ම සඳහා 2024.02.05 දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී  අනුමැතිය ලබා දී ඇත.
+
+...
+
+[Data](articles/8bc5bf1d.json)
 
 ---
 
@@ -678,8 +786,6 @@ The Baltimore City Fire Department described the collapse as a mass-casualty inc
 
 *2024-03-26 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98214/major-us-bridge-collapses-after-being-hit-by-colombo-bound-ship) · `en`
 
-The Francis Scott Key Bridge in #US city #Baltimore collapsed on Tue following a ship collision, CNN reported. Traffic is being redirected, and it remains uncertain if there were any injuries.pic.twitter.com/6q5smwGLWD— Global Times (@globaltimesnews) March 26, 2024
-
 Baltimore’s Key Bridge has collapsed after it was hit by a container ship, sending cars that were crossing at the time plunging into the waters of the Patapsco River.
 
 At least seven people are believed to be in the water and rescue efforts are ongoing at the site of the collapse, according to the Baltimore Fire Department.
@@ -687,6 +793,8 @@ At least seven people are believed to be in the water and rescue efforts are ong
 Multiple videos shared on social media showed a large cargo ship ramming into one of the bridge’s support pillars, causing it to come crashing down into the river.
 
 A large portion of the Francis Scott Key Bridge is now under water, as flight tracking website FlightRadar24 showed the Maryland State Police circling the site of the crash in a helicopter.
+
+Kevin Cartwright, director of communications for the fire department, said the city was dealing with a “developing mass casualty incident”.
 
 ...
 
@@ -2173,113 +2281,5 @@ The Colombo Stock Exchange opened up: The All Share Price Index was up 0.19 perc
 [Data](articles/974ba059.json)
 
 [Extended Data](ext_articles/974ba059.ext.json)
-
----
-
-### 12 more underworld gang members arrested
-
-*2024-03-26 10:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/12-more-underworld-gang-members-arrested/108-279619) · `en`
-
-Colombo, March 26 (Daily Mirror) - Twelve more suspected criminals of underworld gangs have been arrested yesterday during the special operation launched to crack down on organized criminal activities.
-
-Police said in addition to the 12 criminals, six more suspects have been arrested during the raid.
-
-In response to a concerning increase in organized criminal activities in the Western and Southern Provinces, a special operation targeting 20 identified organized criminal gangs in the country was launched under the 'Yukthiya' initiative last Tuesday (19).
-
-Accordingly, a total of 63 underworld gang members have been arrested so far and they are being questioned under detention orders.
-
-◼️
-
-[Data](articles/f1dd32e3.json)
-
-[Extended Data](ext_articles/f1dd32e3.ext.json)
-
----
-
-### If the government is backing the election, the public will take the streets against it - Pavral
-
-*2024-03-26 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/179712) · `ta`
-
-Rohana Hettiarachchi, Election Monitoring Organization's Executive Director, warns that if the government violates the constitution during the presidential election from September 17 to October 17, the public may protest. He emphasizes the Election Commission's responsibility to ensure fair elections, regardless of political affiliations.
-
-🟩
-
-Executive Director of the Election Monitoring Organization, Rohana Hettiarachchi, said the government would take the people's streets if the government had violated the constitution.
-
-He said that the elections are for the people, no matter the political parties, the government or the political leaders.
-
-The presidential election will be held from September 17 to October 17, he said.
-
-The Powell Organization's Rohana Hettiarachchi said that it is the responsibility of the Election Commission to hold the presidential election during this period.
-
-"If they are able to act in violation of the constitution for some reason, we feel that our people have the strength to take the streets."
-
-The Executive Director of the Powell Organization said that former Finance Minister Basil Rajapaksa had said that the first parliamentary election should be held.
-
-◼️
-
-[Data](articles/33443a4a.json)
-
-[Extended Data](ext_articles/33443a4a.ext.json)
-
----
-
-### Veteran singer Lunar Kumara has passed away
-
-*2024-03-26 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194941) · `si`
-
-Veteran singer Chandra Kumara Kandanarachchi passed away on 26th.
-
-🟩
-
-Veteran singer Chandra Kumara Kandanarachchi has passed away this morning (26).
-
-◼️
-
-[Data](articles/64d3a942.json)
-
-[Extended Data](ext_articles/64d3a942.ext.json)
-
----
-
-### Workers’ remittances, tourism earnings continuing positive momentum - CBSL
-
-*2024-03-26 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98208/workers-remittances-tourism-earnings-continuing-positive-momentum-cbsl) · `en`
-
-The Central Bank of Sri Lanka (CBSL) says the country’s trade services, mainly earnings from tourism have recovered significantly during the first two months of 2024, while the positive momentum of workers’ remittances also continued.
-
-During the special press briefing convened on Tuesday morning (March 26) to present the second Monetary Policy Review of 2024, CBSL’s Economic Research Director Dr. S. Jegajeevan revealed that workers’ remittances were recorded at USD 964 million from January to February.
-
-Meanwhile, tourism earnings were recorded at USD 687 million during these months.
-
-According to CBSL’s figures, both workers’ remittances and tourism earnings have seen a significant improvement last year as opposed to 2022.
-
-Workers’ remittances increased from USD 3.8 billion in 2022 to USD 6 billion in 2023 while tourism earnings went up from USD 1.1 billion in 2022 to USD 2.1 billion in 2023.
-
-◼️
-
-[Data](articles/213cec7d.json)
-
-[Extended Data](ext_articles/213cec7d.ext.json)
-
----
-
-### T -56 rifle magic at Matale - Wilgamuwa Police Station
-
-*2024-03-26 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179711) · `ta`
-
-The T-56 rifle, used at the Wilgamuwa police station's main gate in Matale, has gone missing.
-
-🟩
-
-The T-56 rifle has been reported missing from the Wilgamuwa police station in Matale district.
-
-It is reported that the T-56 rifle used at the main gate security checkpoint at the Wilgamuwa police station has disappeared.
-
-◼️
-
-[Data](articles/2cf2da6d.json)
-
-[Extended Data](ext_articles/2cf2da6d.ext.json)
 
 ---

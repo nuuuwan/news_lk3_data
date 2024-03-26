@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 01:03:28**
+As of **2024-03-27 01:18:06**
 
 ## Newspaper Stats
 
-*Scraped **15,372** Articles*
+*Scraped **15,373** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 845
 adalk | 1,312
 adaderanalk | 1,845
 tamilmirrorlk | 1,845
-virakesarilk | 2,170
+virakesarilk | 2,171
 dailymirrorlk | 2,378
 adaderanasinhalalk | 2,469
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,372 (100.0%) of 15,372 articles have been extended.
+15,372 (100.0%) of 15,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### கடன் மறுசீரமைப்பு குறத்த இறுதிகட்ட பேச்சுவார்த்தையை சீனாவில் பிரதமர் முன்னெடுப்பார் - அமைச்சரவை பேச்சாளர்
+
+*2024-03-27 00:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179783) · `ta`
+
+சீனாவுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள பிரதமர் தினேஷ் குணவர்தன, அங்கு கடன் மறுசீரமைப்பு தொடர்பான இறுதிகட்ட பேச்சுவார்த்தையை முன்னெடுக்கவுள்ளார். சர்வதேச கடன் மறுசீரமைப்பு தொடர்பான பேச்சுவார்த்தைகள் இறுதிகட்டத்தை எட்டவுள்ள நிலையில், நாணய நிதியத்துடனான ஒப்பந்தம் மாற்றியமைக்கப்படும் என்று சிலர் குறிப்பிடுவது பாரிய அழிவுக்கு இடப்படும் அடித்தளமாகும் என்று அமைச்சரவை பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+
+அமைச்சரவை தீர்மானங்களை அறிவிக்கும் வாராந்த ஊடகவியலாளர் மாநாடு செவ்வாய்கிழமை (26) இடம்பெற்ற போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+சர்வதேச நாணய நிதியத்துடன் தற்போதைய அரசாங்கம் ஏற்படுத்திக் கொண்டுள்ள இணக்கப்பாட்டு ஒப்பந்தத்தை மாற்றுவதற்கு எவரேனும் முயற்சிப்பார்களானால், அவர்களால் இரண்டு வாரங்கள் கூட இந்நாட்டை ஆட்சி செய்ய முடியாது.
+
+நாம் கடன் பெற்றுள்ளதும், பெற்ற கடனை மீளச் செலுத்துவது தொடர்பான கலந்துரையாடல்களை முன்னெடுப்பதும், கடன் ஒப்பந்தத்தை மேற்கொள்வதும் இலங்கை அரசாங்கத்தினாலன்றி, ரணில் விக்கிரமசிங்க என்ற தனிநபராலோ அல்லது பிரிதொரு நபராலோ அல்ல.
+
+...
+
+[Data](articles/f31ceaf6.json)
+
+---
 
 ### New liver care facility of Ragama Teaching Hospital inaugurated
 
@@ -2281,29 +2299,5 @@ Mithrpala, the Meeting of the Meeting Maithripala Sirisena and former Sri Lanka 
 [Data](articles/f9d39c03.json)
 
 [Extended Data](ext_articles/f9d39c03.ext.json)
-
----
-
-### 52 people assassinated in the North last year;129 arrested;38 people bail
-
-*2024-03-26 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/179744) · `ta`
-
-Last year, 52 people were assassinated in the North, with 129 arrests. 38 suspects were granted bail. Murder incidents and arrests varied across police regions, with suspects detained or released based on investigations.
-
-🟩
-
-Police said that 52 people were murdered in the Northern Province last year and 129 were arrested on the basis of investigations carried out in the Northern Province.
-
-There have been 14 murder incidents in areas including the Jaffna Police Region. Based on the investigation, 44 suspects have been arrested and produced in courts and 11 suspects have been allowed to go on bail by the court.. Others are still detained in interrogation.
-
-There have been 05 murder incidents in the area under the Kankesanthurai Police Region. On the basis of investigations, nine suspects have been arrested and produced in courts and five suspects have been allowed to go on bail by the court.. Others are still detained in interrogation.
-
-There have been four murder incidents in the Mannar Police Area areas. Based on the investigation into the matter, 11 suspects have been arrested and tried in courts and six suspects have been allowed to go on bail by the court.. Others are still detained in interrogation.
-
-...
-
-[Data](articles/81e43ef1.json)
-
-[Extended Data](ext_articles/81e43ef1.ext.json)
 
 ---

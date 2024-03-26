@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 20:33:43**
+As of **2024-03-26 20:50:35**
 
 ## Newspaper Stats
 
-*Scraped **15,337** Articles*
+*Scraped **15,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,96 @@ newsfirstlk | 363
 dailyftlk | 819
 economynextcom | 821
 islandlk | 845
-adalk | 1,309
+adalk | 1,310
 adaderanalk | 1,841
 tamilmirrorlk | 1,842
-virakesarilk | 2,166
-dailymirrorlk | 2,371
-adaderanasinhalalk | 2,466
+virakesarilk | 2,167
+dailymirrorlk | 2,372
+adaderanasinhalalk | 2,467
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,336 (100.0%) of 15,337 articles have been extended.
+15,337 (100.0%) of 15,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### ஊழலற்ற அரசியல் கலாசாரத்தை எவ்வாறு தோற்றுவிப்பது? விகாரமாதேவி பூங்காவில் தெளிவுப்படுத்தும் நிகழ்வு - மார்ச் 12 அமைப்பு அழைப்பு
+### ஒக்டோபர் முதல் வாரத்தில் ஜனாதிபதி தேர்தல்; ஜனாதிபதி ரணில் அறிவிப்பு!
+
+*2024-03-26 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179779) · `ta`
+
+இந்த வருடம் ஒக்டோபர் மாதம் முதல் வாரத்தில் அரசியலமைப்பு ரீதியாக ஜனாதிபதி தேர்தல் நடத்தப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+
+அத்துடன், அண்மையில் ஜனாதிபதியினால் நியமிக்கப்பட்ட அரசியல் அமைச்சரவைக்கு இது அறிவிக்கப்பட்டுள்ளதாக அரசாங்கத்தின் உள்ளக வட்டாரங்கள் தெரிவித்துள்ளன.
+
+◼️
+
+[Data](articles/6e2834fa.json)
+
+---
+
+### හිටපු පොලිස් කොස්තාපල් මත්ද්‍රව්‍ය සමග හසුවෙයි
+
+*2024-03-26 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194971) · `si`
+
+හිටපු පොලිස් කොස්තාපල්වරයෙකු අයිස් මත්ද්‍රව්‍ය සමග අද (26) අත්අඩංගුවට ගත් බව කළුතර කොට්ඨාස විෂ මත්ද්‍රව්‍ය වැටලීම්  ඒකකය පවසයි.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ කළුතර බොලොස්සගම ප්‍රදේශයේ පදිංචි 35 හැවිරිදි පුද්ගලයෙකි.
+
+ඔහු අවසන් වරට අරලියගහ මන්දිරයේ රාජකාරී කරමින් සිට දුෂ්චරිත වාර්තා හේතුවෙන් පොලිස් සේවයෙන් ඉවත් කළ අයකු බව උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+සැකකරු අයිස් මත්ද්‍රව්‍ය රැගෙන කුඩා ලොරි රථයකින් යමින් සිටින බවට ලද තොරතුරක් මත උප පොලිස් පරීක්ෂක පී.ආර්. වීරසේන ඇතුළු පොලිස් කණ්ඩායමක් වැටලීම සිදුකර තිබුණි.
+
+කළුතර අල්විස් වත්ත ප්‍රදේශයේදී ලොරි රථය නවතා පරීක්ෂා කිරීමේදී කලිසම් සාක්කුවේ සඟවාගෙන සිටි අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 08කට ආසන්න ප්‍රමාණයක් සහ රුපියල් පනස්දහසක පමණ මුදල් සමග සැකකරුව අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/89a2b4ce.json)
+
+---
+
+### Meethotamulla extortion case: Prasanna’s appeal against sentence fixed for inquiry
+
+*2024-03-26 20:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Meethotamulla-extortion-case-Prasannas-appeal-against-sentence-fixed-for-inquiry/108-279648) · `en`
+
+Colombo, March 26 (Daily Mirror)- An appeal filed by Minister of Urban Development and Housing Prasanna Ranatunga challenging the Colombo High Court’s decision to impose a suspended imprisonment in connection with the Meethotamulla extortion case was today fixed for inquiry by the Court of Appeal.
+
+The Court of Appeal divisional bench headed by Justice D.N. Samarakoon fixed the matter for inquiry on April 30.
+
+Minister Ranatunga was convicted for the thirteenth count out of fifteen by High Court Judge Manjula Tillekaratne over an indictment filed for threatening a businessman over the phone and demanding Rs. 64 million in 2015. Accordingly, he was sentenced to two years rigorous imprisonment suspended for five years by the Colombo High Court.
+
+The Court further ordered the Minister to pay a fine of Rs. 25 million. The thirteenth count had been filed under Section 373 for extortion in order to execute five promissory notes in a dishonest manner after threatening the businessman.
+
+...
+
+[Data](articles/35e2aef7.json)
+
+---
+
+### How to create corrupt political culture?Clear Event at Vikramadevi Park - March 12 System Call
 
 *2024-03-26 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179778) · `ta`
 
-சிறந்த மற்றும் நம்பகத்தன்மையான அரசியல் கலாசாரத்தை தோற்றுவிப்பதற்கு அரசியல் கட்சிகள் பொறுப்புடன் செயற்பட வேண்டும். இந்த ஆண்டு இடம்பெறவுள்ள தேசிய தேர்தல்கள் தீர்மானமிக்கவை. எவ்வாறானவர்களுக்கு வேட்புமனுக்கல் வழங்க வேண்டும் என்பதை அரசியல் கட்சிகளுக்கும், எவ்வாறானவர்களை பிரதிநிதிகளாக தெரிவு செய்ய வேண்டும் என்பதை நாட்டு மக்களுக்கும் தெளிவுப்படுத்தும் நிகழ்வு விகாரமாதேவி பூங்காவில் இடம்பெறவுள்ளது. இந்நிகழ்வில் நாட்டு மக்கள் கலந்துக் கொள்ள வேண்டும் என  மார்ச் 12 அமைப்பு அழைப்பு விடுக்கிறது.
+A special event at Vikramadevi Park on March 12 aims to clarify political party nominations, emphasizing responsible political culture ahead of national elections.
 
-மார்ச் 12 அமைப்பின் ஏற்பாட்டில் வியாழக்கிழமை (28) கொழும்பு விகாரமாதேவி பூங்காவில் விசேட கருத்தாடல் நிகழ்வு இடம்பெறவுள்ளது.இந்நிகழ்வு தொடர்பில் தெளிவுப்படுத்தும் ஊடகவியலாளர் சந்திப்பு செவ்வாய்க்கிழமை (26) இலங்கை மன்றக் கல்லூரியில் இடம்பெற்றது. இதன்போது பெப்ரல் அமைப்பின் நிறைவேற்று பணிப்பாளர் ரோஹன ஹெட்டியராச்சி,ட்ரான்ஸ்பேரன்சி இன்டர்நெஷனல் ஸ்ரீ லங்கா – நிறைவேற்று பணிப்பாளர் நதிஷானி பெரேரா, மார்ச் 12 அமைப்பின் பிரதிநிதிகள் கலந்துக் கொண்டனர்.
+🟩
+
+Political parties must act responsibly to create a better and credible political culture. The national elections to be held this year are decisive. The event will be held at the Vikramadevi Park to clarify to the political parties and the people of the country to choose the nomination papers.. The March 12 organization calls for the people to attend the event.
+
+A special concept event will be held at Vikramadevi Park, Colombo on Thursday (28).. The Executive Director of the February, Rohana Hettiarachchi, Transparency International Sri Lanka - Executive Director Nadishani Perera and representatives of the March 12 organization were present.
+
+The activities of the political parties and the public will be carried out at the Vikramadevi Park in Colombo from 10 am to 8 pm on Thursday (26).
+
+Political parties should be responsible for the selection of the best parties in the elections to be held this year.
 
 ...
 
 [Data](articles/079bc589.json)
+
+[Extended Data](ext_articles/079bc589.ext.json)
 
 ---
 
@@ -73,6 +135,22 @@ An impressive percentage of inflation is expected to maintain a percentage of in
 [Data](articles/1e53c48d.json)
 
 [Extended Data](ext_articles/1e53c48d.ext.json)
+
+---
+
+### කොළඹ එන්න ආපු නැව ඇමෙරිකාවේදී ලොකු අනතුරක
+
+*2024-03-26 19:25:42* · [`adalk`](https://www.ada.lk/picture_story/කොළඹ-එන්න-ආපු-නැව-ඇමෙරිකාවේදී-ලොකු-අනතුරක/10-408816) · `si`
+
+සිංගප්පූරු ධජය සහිතව ශ්‍රී ලංකාවේ කොළඹ බලා ධාවනය වූ බහාලුම් රැගත් නෞකාවක් අද උදෑසන බැල්ටිමෝර් හි යකඩ පාලමක ගැටීමෙන් විශාල හානියක් සිදුව තිබේ.
+
+පාලමේ මධ්‍යම කොටසට යාත්‍රාව ගැටීමෙන් ෆ්‍රැන්සිස් ස්කොට් කී පාලම කඩා වැටෙන මොහොත වීඩියෝවලින්ද පෙනෙන්නට තිබේ.
+
+පාලම කඩා වැටීමෙන් පුද්ගලයන් 9 දෙනෙක් ජලයට වැටී තිබුණ අතර එයින් දෙදෙනෙක් බේරා ගෙන තිබේ. අනෙක් පුද්ගලයන් සොයා සෙවීමේ කටයුතු සිදුවෙමින් පවතී.
+
+◼️
+
+[Data](articles/af8bdfc1.json)
 
 ---
 
@@ -2199,93 +2277,5 @@ According to the Ocean Radar system, it has left Port Bres Harbor to 00.45 00.45
 [Data](articles/d321909a.json)
 
 [Extended Data](ext_articles/d321909a.ext.json)
-
----
-
-### Monthly basic salary to be increased by Rs. 5,000
-
-*2024-03-26 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98211/monthly-basic-salary-to-be-increased-by-rs-5000) · `en`
-
-The Cabinet of Ministers has given its approval to amend the National Minimum Wage of Workers Act to increase the monthly basic salary and daily wage of workers.
-
-This was recommended by the tripartite sub-committee of trade unions representing Small- and Medium-Sized Enterprises (SMEs) and employees appointed by the National Labour Advisory Council.
-
-The relevant proposal was presented to the Cabinet meeting held on Monday (March 25) by Minister of Labour and Foreign Employment Manusha Nanayakkara.
-
-Accordingly, it is proposed to increase the monthly basic salary by Rs. 5,000, from Rs. 12,500 to Rs. 17,500.
-
-In addition, the minimum daily wage of workers is proposed to be raised from Rs. 500 to Rs. 700.
-
-◼️
-
-[Data](articles/3472c528.json)
-
-[Extended Data](ext_articles/3472c528.ext.json)
-
----
-
-### National minimum monthly wage to be increased by Rs. 5,000
-
-*2024-03-26 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98211/national-minimum-monthly-wage-to-be-increased-by-rs-5000) · `en`
-
-The Cabinet of Ministers has given its approval to amend the National Minimum Wage of Workers Act No. 03 of 2016 to increase the minimum monthly wage and daily wage of all workers in any industry.
-
-This was recommended by the tertiary sub-committee of trade unions and employers representing Small- and Medium-Sized Enterprises (SMEs) appointed by the National Labour Advisory Council.
-
-The relevant proposal was presented to the Cabinet meeting held on Monday (March 25) by Minister of Labour and Foreign Employment Manusha Nanayakkara.
-
-Accordingly, it is proposed to increase the minimum monthly wage by Rs. 5,000, to Rs. 17,500.
-
-In addition, the minimum daily wage of workers is proposed to be raised from Rs. 500 to Rs. 700.
-
-◼️
-
-[Data](articles/9d8d6796.json)
-
-[Extended Data](ext_articles/9d8d6796.ext.json)
-
----
-
-### Conspiracy to kill the fort magazine
-
-*2024-03-26 12:30:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டை-நீதவானை-கொல்ல-சதி/175-335213) · `ta`
-
-Public Safety Minister Tran Ales directed the Inspector General of Police to investigate a conspiracy to assassinate Fort Magistrate Thilina Kamage. The Criminal Investigation Department is conducting a detailed inquiry into the matter, including the involvement of a person who reportedly sought a gun to kill the magistrate, as detailed in a letter.
-
-🟩
-
-Public Safety Minister Tran Ales has issued a directive to the Inspector General of Police, Patriot Tenkoon, to investigate the conspiracy to assassinate Fort Magistrate Thilina Kamage.
-
-Attack by Fort Magistrate Thilina Kamage. The Criminal Investigation Department has said that the Inspector General of Police has received a directive to conduct a detailed inquiry into the letter of the Public Security Minister regarding the letter of attempting to kill.
-
-The person who reported that the gun was sought by phone to kill the magistrate is said to have been mentioned in the letter. It is also reported that the telephone number of the person who was invited to get the gun in the spy letter was also mentioned.
-
-◼️
-
-[Data](articles/a07a9a84.json)
-
-[Extended Data](ext_articles/a07a9a84.ext.json)
-
----
-
-### Tourism's contribution to Sri Lanka's income
-
-*2024-03-26 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179732) · `ta`
-
-Tourism significantly boosts Sri Lanka's income, with 2018 earnings peaking at 4380.6 million dollars. However, the COVID-19 pandemic led to a sharp decline in tourism revenue, impacting the country's economy. Despite challenges, the tourism sector is crucial for Sri Lanka's foreign currency income, with a slight recovery observed post-2020.
-
-🟩
-
-Tourism and foreign employment contributes a huge contribution to Sri Lanka's income. In 2018, Sri Lanka's main export sources have earned more income through tourism, tea and rubber products.. Sri Lanka's revenues have been reduced due to the disabbling of the country due to a boom infection in Sri Lanka since 2020.. At this juncture, the tourism industry has now been carried out to increase the income of Sri Lanka.
-
-Based on the data of the Central Bank of Sri Lanka, the tourism industry has seen the development of the 2009 civil war in Sri Lanka.. In 2009, Sri Lanka received $ 349.6 million in revenue in the next five years, with 2431.1 million dollars in 2014.. This is an increase of 5.95 percent.
-
-Since 2009, the Sri Lankan tourism industry has continued to increase. Sri Lanka received a maximum of 4380.6 million dollars in 2018.
-
-...
-
-[Data](articles/b51b5b42.json)
-
-[Extended Data](ext_articles/b51b5b42.ext.json)
 
 ---

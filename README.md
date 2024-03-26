@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 14:33:34**
+As of **2024-03-26 14:50:51**
 
 ## Newspaper Stats
 
-*Scraped **15,265** Articles*
+*Scraped **15,271** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,96 @@ newsfirstlk | 363
 dailyftlk | 819
 economynextcom | 821
 islandlk | 843
-adalk | 1,298
+adalk | 1,299
 adaderanalk | 1,834
-tamilmirrorlk | 1,837
-virakesarilk | 2,149
-dailymirrorlk | 2,357
+tamilmirrorlk | 1,838
+virakesarilk | 2,152
+dailymirrorlk | 2,358
 adaderanasinhalalk | 2,451
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,257 (99.9%) of 15,265 articles have been extended.
+15,265 (100.0%) of 15,271 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### நல்லிணக்கம் பற்றிய கதையளப்புகளுக்கு மத்தியில் வடக்கு, கிழக்கில் அதிகரிக்கும் அதிருப்தி
+
+*2024-03-26 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179749) · `ta`
+
+தங்களை நேர்மையாக நடத்தி தங்களது மனக்குறைகளுக்கு தீர்வுகாண்பதற்கு அரசாங்கம்  தவறியதனால் தமிழ் அரசியல் சமுதாயத்தின் மத்தியில் காணப்படும் அதிருப்தி பாராளுமன்றத்தில் ஒரு புதிய திருப்பத்தை எடுக்கிறது. பெரும்பான்மை வாக்குகளை வைத்திருப்பவர்களுக்கு நியாயத்தை புரியவைக்க இயலாத நிலையில் தமிழ்ப் பாராளுமன்ற உறுப்பினர்கள் பேச்சுக்களுக்கு  பதிலாக அமைதிவழிப் போராட்டத்தில் இறங்குகின்றார்கள்.
+
+...
+
+[Data](articles/1e6f4405.json)
+
+---
+
+### உயிர்த்த ஞாயிறு தாக்குதல்: முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவின் வாக்குமூலம் சட்ட மா அதிபரிடம்!
+
+*2024-03-26 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179747) · `ta`
+
+உயிர்த்த ஞாயிறு தாக்குதலை நடத்தியது யார் என்பது தனக்கு தெரியும் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன குற்றப் புலனாய்வு திணைக்களத்துக்கு வழங்கிய வாக்கு மூலம் சட்டமா அதிபருக்கு அனுப்பி வைக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+குற்றப் புலனாய்வு அதிகாரிகளினால்  முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவிடம் 6 மணித்தியாலயத்துக்கு மேலாக மேற்கொண்ட விசாரணைகளின் மூலம் பெறப்பட்ட  வாக்கு மூலமானது மேலதிக சட்ட நடவடிக்கைகளுக்காக சட்ட மா அதிபருக்கு அனுப்பி வைக்கப்பட்டுள்ளது.
+
+2019 ஆம் ஆண்டு ஏப்ரல் மாதம்  21ஆம் திகதி உயிர்த்த ஞாயிறு தாக்குதலில் ஈடுபட்ட  சூத்திரதாரி  தொடர்பில் தனக்கு தெரியும் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன அண்மையில் கண்டியில் இடம்பெற்ற கூட்டமொன்றில் தெரிவித்த கருத்து தொடர்பில் விசாரணை நடத்துமாறு பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் பொலிஸ் மா அதிபருக்கு பணிப்புரை விடுத்திருந்தார்.
+
+இதனடிப்படையில், நேற்று குற்றப் புலனாய்வு பிரிவினரால்  முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவிடம் வாக்குமூலம் பெறப்பட்டது.
+
+◼️
+
+[Data](articles/6796dc0f.json)
+
+---
+
+### ජාතික අවම වැටුප රු. 5000කින් වැඩි කරයි
+
+*2024-03-26 14:29:16* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-අවම-වැටුප-රු--5000කින්-වැඩි-කරයි/11-408806) · `si`
+
+ජාතික අවම වැටුප රුපියල් 12500 සිට 17500ක් දක්වා රුපියල් 5000කින් හා ජාතික දෙනික අවම වැටුප රුපියල් 500 සිට රුපියල් 700 දක්වා වැඩි කිරීමට කම්කරු අමාත්‍ය මනූෂ නානායක්කාර මහතා ඉදිිරිපත් කළ කැබිනට් පත්‍රිකාවට අනුමැතිය ලැබි තිබේ.
+
+◼️
+
+[Data](articles/6d13b4ba.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-03-26 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/179746) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (மார்ச் 26) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 297.6319 ஆகவும் விற்பனை விலை ரூபா 307.3326 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/5b147162.json)
+
+---
+
+### Sirikotha doors open to SJBers including Harsha: Range Bandara
+
+*2024-03-26 14:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sirikotha-doors-open-to-SJBers-including-Harsha-Range-Bandara/108-279633) · `en`
+
+Colombo, March 26 (Daily Mirror) - The doors of UNP headquarters Sirikotha are open at all times to all Samagi Jana Balawegaya (SJB) members, UNP General Secretary Palitha Range Bandara said today.
+
+“Our doors are open to SJBers to join us any time. Therefore, we invite all those who left us over various reasons to re-join us,” Range Bandara told a media briefing.
+
+“SJBers are being sidelined by its leadership. It is not Harsha de Silva who decides the SJB's stand on the economy today but others such as Nalaka Godahewa. Therefore, we invite those such as Harsha to join us. Join us before you perish,” he said.
+
+Also he said SJBers from the grassroots level have already begun coming back to the UNP.
+
+“I had a discussion with some SJBers before I came for this briefing,” he said.
+
+...
+
+[Data](articles/dd5a25f3.json)
+
+---
 
 ### Major bridge in Baltimore collapses after ship crash
 
@@ -48,19 +122,45 @@ The Baltimore City Fire Department described the collapse as a mass-casualty inc
 
 [Data](articles/1eadb8eb.json)
 
+[Extended Data](ext_articles/1eadb8eb.ext.json)
+
 ---
 
-### வடக்கில் கடந்த ஆண்டு 52 பேர் படுகொலை ; 129 பேர் கைது ; 38 பேருக்கு பிணை
+### 'மைத்திரியின் வாக்குமூலம் குறித்து பொய்யான தகவல்கள்'
+
+*2024-03-26 14:17:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-வாக்குமூலம்-குறித்து-பொய்யான-தகவல்கள்/175-335216) · `ta`
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன நேற்று குற்றப்புலனாய்வு திணைக்களத்துக்கு வழங்கிய வாக்குமூலம் தொடர்பில் பிரதான ஊடகங்களிலும் சமூக ஊடகங்களிலும் பொய்யான மற்றும் திரிபுபடுத்தப்பட்ட தகவல்கள் வெளியாகி வருவதாக ஸ்ரீ லங்கா சுதந்திரக் கட்சி தெரிவித்துள்ளது.
+
+இது போன்ற தவறான மற்றும் திரிபுபடுத்தப்பட்ட அறிக்கைகளை கண்டிப்பதாக அக்கட்சி வெளியிட்டுள்ள அறிக்கையில் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/4380ad2f.json)
+
+---
+
+### 52 people assassinated in the North last year;129 arrested;38 people bail
 
 *2024-03-26 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/179744) · `ta`
 
-வடமாகாணத்தில் கடந்த ஆண்டு 52  பேர் படுகொலை செய்யப்பட்டுள்ளதாகவும், அது தொடர்பில் முன்னெடுக்கப்பட்ட விசாரணைகளின் அடிப்படையில் 129 பேர் இது  வரையில் கைது செய்யப்பட்டுள்ளதாவும், அவர்களில் 38 பேர் நீதிமன்றங்கள் ஊடாக பிணையில் விடுவிக்கப்பட்டுள்ளனர் எனவும் பொலிஸார் தெரிவித்துள்ளனர்.
+Last year, 52 people were assassinated in the North, with 129 arrests. 38 suspects were granted bail. Murder incidents and arrests varied across police regions, with suspects detained or released based on investigations.
 
-யாழ்ப்பாணம் பொலிஸ் பிராந்தியத்திற்கு உட்பட பகுதிகளில் 14  கொலை சம்பவங்கள் இடம்பெற்றுள்ளன. அது தொடர்பில் முன்னெடுக்கப்பட்ட விசாரணைகளின் அடிப்படையில் 44 சந்தேகநபர்கள் கைது செய்யப்பட்டு நீதிமன்றங்களில் முற்படுத்தப்பட்ட நிலையில் , 11 சந்தேகநபர்கள் நீதிமன்றம் மூலம் பிணையில் செல்ல அனுமதிக்கப்பட்டுள்ளனர். ஏனையோர் தொடர்ந்தும் விளக்கமறியலில் தடுத்து வைக்கப்பட்டுள்ளனர்.
+🟩
+
+Police said that 52 people were murdered in the Northern Province last year and 129 were arrested on the basis of investigations carried out in the Northern Province.
+
+There have been 14 murder incidents in areas including the Jaffna Police Region. Based on the investigation, 44 suspects have been arrested and produced in courts and 11 suspects have been allowed to go on bail by the court.. Others are still detained in interrogation.
+
+There have been 05 murder incidents in the area under the Kankesanthurai Police Region. On the basis of investigations, nine suspects have been arrested and produced in courts and five suspects have been allowed to go on bail by the court.. Others are still detained in interrogation.
+
+There have been four murder incidents in the Mannar Police Area areas. Based on the investigation into the matter, 11 suspects have been arrested and tried in courts and six suspects have been allowed to go on bail by the court.. Others are still detained in interrogation.
 
 ...
 
 [Data](articles/81e43ef1.json)
+
+[Extended Data](ext_articles/81e43ef1.ext.json)
 
 ---
 
@@ -79,6 +179,8 @@ The proposal was presented by the Power and Energy Minister to award the contrac
 ◼️
 
 [Data](articles/77566266.json)
+
+[Extended Data](ext_articles/77566266.ext.json)
 
 ---
 
@@ -106,55 +208,73 @@ Nakuleswaram (J/226) and Kankesanthurai (J/233) in the Tellippalai Divisional Se
 
 ---
 
-### கப்பல் மோதியதால் பாலம் இடிந்து, பல வாகனங்கள் ஆற்றில் வீழ்ந்தன: அமெரிக்காவில் சம்பவம்
+### The bridge collapsed and many vehicles fell into the river: In the United States
 
 *2024-03-26 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179741) · `ta`
 
-அமெரிக்காவில் நீண்ட பாலமொன்றின் மீது பாரிய கப்பல் மோதியதால், அப்பாலம் ஆற்றில் இடிந்துவீழ்ந்தது. இதனால் பல வாகனங்களும் ஆற்றில் வீழ்ந்துள்ளன.
+A massive cargo ship crashed into the Francis Scott Key Bridge in Baltimore, Maryland, around 1.35 am, causing it to collapse into the river. At least 20 construction workers were on the bridge.
 
-மேரிலண்ட் மாநிலத்தின் பால்டிமோர் நகரிலுள்ள பிரான்சிஸ் ஸ்கொட் கீ பிரிட்ஜ் எனும் பாலமே இவ்வாறு இடிந்தது.
+🟩
 
-366 மீற்றர் நீளமான பாலத்தின் மீது இன்று அதிகாலை 1.35 மணியளவில் பாரிய சரக்குக் கப்பலொன்று, மோதியதாக அதிகாரி ஒருவர் தெரிவித்துள்ளார்.
+The massive ship crashed into a long bridge in the United States and collapsed in the river. Many vehicles have fallen into the river.
 
-அவ்வேளையில் குறைந்தபட்சம் 20 நிர்மாண ஊழியர்கள் பாலத்தில் இருந்தனர் என அதகாரிகள் தெரிவித்துள்ளனர்.
+The Francis Scott Key Bridge, a bridge in Baltimore, Maryland, was demolished.
+
+A massive cargo ship crashed into a 366m long bridge at around 1.35 am this morning, an official said.
+
+At least 20 construction employees were on the bridge, according to the Adakar.
 
 ◼️
 
 [Data](articles/9407aa95.json)
 
+[Extended Data](ext_articles/9407aa95.ext.json)
+
 ---
 
-### සැතපුම් 1.6ක් දිග පාලමක් කඩා වැටෙයි
+### 1.6 miles long bridge collapses
 
 *2024-03-26 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194954) · `si`
 
-අමෙරිකාවේ බැල්ටිමෝ ප්‍රදේශයේ Patapsco ගංගාව හරහා තිබූ විශාල පාලමක් අද (26) උදෑසන කඩා වැටී තිබේ.
+A 1.6-mile bridge in Baltimore collapsed this morning, with no injuries reported. Videos are circulating on social media.
 
-ජාත්‍යන්තර මාධ්‍ය පවසන්නේ භාණ්ඩ ප්‍රවාහන නෞකාවක් එහි ගැටීම හේතුවෙන් සැතපුම් 1.6ක් දිගැති එම පාලම සම්පූර්ණයෙන්ම කඩා වැටී ඇති බවයි.
+🟩
 
-ඒ අවස්ථාව දැක්වෙන වීඩියෝ මේ වන විට සමාජ මාධ්‍යයෙහි සංසරණය වෙයි.
+A large bridge across the Patapsco River in Baltimo in the Baltimo area in the Baltimo has crashed this morning.
 
-පාලම කඩා වැටීම හේතුවෙන් කිසිවෙක් හෝ තුවාල ලබා ඇතිබව මෙතෙක් වාර්තා වී නැත.
+The International Media says that the 1.6-mile lengthy bridge has fallen completely.
+
+The videos indicating that is now circulate in the social media.
+
+No or has ever been reported to have been injured due to the collapse of the bridge.
 
 ◼️
 
 [Data](articles/35b25733.json)
 
+[Extended Data](ext_articles/35b25733.ext.json)
+
 ---
 
-### காத்தான்குடியில் கைதான 30 பேரும் விடுதலை
+### 30 people arrested in Kattankudi
 
 *2024-03-26 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/179740) · `ta`
 
-காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட பாலமுனை புர்க்கான் பள்ளிவாயல் வீதியிலுள்ள பின்வளவில் இம்மாதம் 2ம் திகதி சீட்டு விளையாடிக்கொண்டிருந்ததாக  காத்தான்குடி பொலிஸாரால் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு வழக்குத் தொடரப்பட்டிருந்த 30 பேரும் நீதவான் நீதிமன்றினால்  இன்று செவ்வாய்க்கிழமை (26) அனைத்து குற்றச்சாட்டுகளில் இருந்து  விடுதலை செய்யப்பட்டனர்.
+30 arrested in Kattankudi, acquitted by Judge M HM Hamza.
 
-குறித்த வழக்கு இன்றையதினம்  நீதிமன்றில் எடுத்துக்கொள்ளப்பட்டபோது சந்தேக நபர்கள் சார்பாக சட்டத்தரணிகளான முகைதீன் சாலி, நௌசர், நிப்ராஸ், அப்றா, றம்சியா ஆகியோர் ஆஜராகி தமது வாதங்களை முன்வைத்தனர்.
+🟩
 
-இந்நிலையில் குறித்த சந்தேகநபர்களை மட்டக்களப்பு நீதிவான் நீதிமன்ற நீதிபதி எம் எச்.எம்.ஹம்ஸா விடுதலை செய்தார்.
+The 30 persons who were arrested and prosecuted by the Kattankudy police were arrested by the Magistrate's Court on Tuesday (26) on Tuesday (26).
+
+When the case was taken up in court today, lawyers Mukheedin Sally, Nauser, Nibras, Abra and Ramsiya appeared on behalf of the suspects and presented their arguments.
+
+Batticaloa Magistrate's Court Judge M HM Hamza acquitted the suspects.
 
 ◼️
 
 [Data](articles/cedf0952.json)
+
+[Extended Data](ext_articles/cedf0952.ext.json)
 
 ---
 
@@ -180,17 +300,23 @@ Minister of Justice, Principal and Constitutional Reforms Minister Dr. Wijayadas
 
 ---
 
-### මාධ්‍යවේදීන්ට බාධාකළ කෙහෙළිය ගේ ආධාරකරුවෝ
+### Keheliya supporters who interfered journalists
 
 *2024-03-26 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194953) · `si`
 
-කොළඹ මහාධිකරණයේ විභාගවෙමින් පවතින අල්ලස් නඩුවක් සඳහා දැනට රක්ෂිත බන්ධනාගාර ගත කර සිටින හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා අද (26) අධිකරණයට රැගෙන ආවේය.
+Keheliya Rambukwella, a former minister, was remanded in court for a bribe case. Supporters allegedly disrupted journalists.
 
-එම අවස්ථාවේදී හිටපු අමාත්‍යවරයාගේ ආධාරකරුවන් බවට සැකකෙරෙන පිරිසක් මාධ්‍යවේදීන්ට බාධා කළ බව අප වාර්තාකරු පැවසීය.
+🟩
+
+Former Minister Keheliya Rambukwella brought to court today (26), remanded for a bribe case being heard in the Colombo High Court today.
+
+A group of people who suspect the supporters of the former minister has interrupted journalists.
 
 ◼️
 
 [Data](articles/dc392660.json)
+
+[Extended Data](ext_articles/dc392660.ext.json)
 
 ---
 
@@ -229,6 +355,8 @@ Responding to media queries, Dr. Weerasinghe underscored that it is the responsi
 ...
 
 [Data](articles/a9976dc6.json)
+
+[Extended Data](ext_articles/a9976dc6.ext.json)
 
 ---
 
@@ -2097,157 +2225,5 @@ Meanwhile, a luxury bus collided with a motorcycle near Kodikamam and Puthur Jun
 [Data](articles/f3c6c546.json)
 
 [Extended Data](ext_articles/f3c6c546.ext.json)
-
----
-
-### Youth killed in fishing net
-
-*2024-03-26 06:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194932) · `si`
-
-A 23-year-old from Upathenna, Newhena, died in a fishing accident in Valachchenai. Investigations are ongoing.
-
-🟩
-
-A young man who had been fishing in the Valachchenai has died in a fish grate of his own fish.
-
-Investigations have commenced investigations by the father of the deceased to the Valachchenai Police Station yesterday.
-
-The deceased is a 23 year old resident of the Upathenna, Newhena.
-
-Investigations have revealed that the deceased was in the house without work and was drowned while he was fishing in the backbone.
-
-The body has been casted at the Valachchenai Hospital while the Valachchena Police are conducting further investigations.
-
-◼️
-
-[Data](articles/bfdec7d5.json)
-
-[Extended Data](ext_articles/bfdec7d5.ext.json)
-
----
-
-### Couple arrested in Katunayake with 88 animals from Thailand
-
-*2024-03-26 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194931) · `si`
-
-A couple was arrested at Katunayake Airport for smuggling 88 animals from Thailand, including frogs, slots, sluices, cutboards, lizards, hamsters, and other pets. Customs officials and the Department of Animal Quarantine Institute are investigating.
-
-🟩
-
-Customs officials have taken over 88 animals from Thailand. Customs officials were taken into custody at the Bandaranaike International Airport.
-
-Customs stated that the suspects were able to take the custody with livingations in conjunction with the officers of the Department of Animal Quarantine Institute of the Department of Agriculture.
-
-The couple of the aircraft from a plane from Bangbon yesterday (25th) were brought to small boxes.
-
-It is among the animals that were illegally brought by the animals, frogs, slots, slots, slopes, sluices, cutboards, lizards, hamsters, sacred and other pops.
-
-The animals have been handed over to the animal quarantine of the airport and has commenced further investigations into the suspects.
-
-◼️
-
-[Data](articles/f50e9199.json)
-
-[Extended Data](ext_articles/f50e9199.ext.json)
-
----
-
-### Presidential Election in October first week
-
-*2024-03-26 06:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Presidential-Election-in-October-first-week/155-279604) · `en`
-
-- Basil loses battle to convince President to hold Parliamentary Polls first
-
-- President hints to cabinet to prepare for Presidential Polls
-
-Colombo, March 26 (Daily Mirror) - President Ranil Wickremesinghe has informed his close associates and hinted to his cabinet that the Presidential Election will be held as scheduled, indicating Basil Rajapaksa's failure in convincing the President to hold the Parliamentary Polls first, the Daily Mirror learns.
-
-A senior political source said that Wickremesinghe had in the past two cabinet meetings discussed the elections and indicated that the Presidential Election would be held as scheduled.
-
-Although the Elections Commission is yet to be notified officially, sources said that the elections will be held in the first week of October.
-
-The three main candidates who will run for the presidency are Ranil Wickremesinghe from the UNP, Sajith Premadasa from the SJB and Anura Kumara Dissanayake from the NPP.
-
-...
-
-[Data](articles/ac32107f.json)
-
-[Extended Data](ext_articles/ac32107f.ext.json)
-
----
-
-### Tax burden likely to remain longer than expected
-
-*2024-03-26 06:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tax-burden-likely-to-remain-longer-than-expected/108-279602) · `en`
-
-IMF Senior Mission Chief says tax is needed to fund essential services that government is providing
-
-Asserts if everybody wants to continue enjoying common goods, then all have to make commensurate contributions
-
-Points out current hardships are due to government running out of money and not having a strong income source
-
-Sri Lanka, coming out of the economic crisis, has significantly taxed businesses and individuals alike and according to the International Monetary Fund (IMF), this burden is here to stay, at least for now.
-
-While several attempts and concerns have been raised in this regard by a diverse section of the economy, the lender implied that it is imperative for Sri Lanka to continue to impose taxes at its current levels, so that the country does not collapse once again.
-
-IMF Senior Mission Chief for Sri Lanka Peter Breuer noted that the tax burden, which is not entirely new to Sri Lanka, is needed, in order to fund the essential services that the government is providing.
-
-...
-
-[Data](articles/d0188340.json)
-
-[Extended Data](ext_articles/d0188340.ext.json)
-
----
-
-### Heavy rains exceeding 100mm
-
-*2024-03-26 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194929) · `si`
-
-Heavy rains exceeding 100mm in Southern Province, Ampara, Moneragala Districts, and thundershowers in Western, Sabaragamuwa, Southern Buddhism at night. Showers expected in Eastern and Uva provinces. Public advised to take precautions against winds and lightning.
-
-🟩
-
-Some places in the Southern Province, Ampara and Moneragala Districts today (26). Mee. Heavy showers that have more than 100 can occur.
-
-Thundershowers will develop at several places in the Western, Sabaragamuwa, Southern Buddhism at the Western, Sabaragamuwa, Southern Buddhism at night or night.
-
-Several showers in the Eastern and Uva provinces and several showers.
-
-Some locations, in some places in the Central, Sabaragamuwa and Uva provinces and in Kalutara, Galle and Matara districts are expected to be met.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/d77e1681.json)
-
-[Extended Data](ext_articles/d77e1681.ext.json)
-
----
-
-### Justice Minister assures no election postponement amid electoral amendments
-
-*2024-03-26 02:19:44* · [`dailyftlk`](https://www.ft.lk/news/Justice-Minister-assures-no-election-postponement-amid-electoral-amendments/56-759952) · `en`
-
-Says proposed amendments aim to combat corruption, reform electoral system
-
-Points to historical promises since 1994 to address corruption, electoral system reform yet to be fulfilled
-
-Proposes for Senate system to enhance representation in electoral process, draw examples from other countries
-
-Calls on candidates participating in upcoming polls to engage in discussions on proposed amendments for public input
-
-Justice, Prison Affairs and Constitutional Reforms Minister Dr. Wijeyadasa Rajapakshe has reassured the public that the election amendment bills presented to Parliament are not expected to lead to any postponement of elections.
-
-Addressing journalists at the Presidential Media Centre, the Minister highlighted the Government’s commitment to combat corruption and reform the electoral system.
-
-He noted that President Ranil Wickremesinghe has already submitted amendments aimed at tackling corruption and implementing a proportional election system.
-
-...
-
-[Data](articles/b1f038eb.json)
-
-[Extended Data](ext_articles/b1f038eb.ext.json)
 
 ---

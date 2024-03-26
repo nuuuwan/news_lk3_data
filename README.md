@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 13:03:05**
+As of **2024-03-26 13:18:15**
 
 ## Newspaper Stats
 
-*Scraped **15,237** Articles*
+*Scraped **15,243** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 137
+colombotelegraphcom | 138
 bbccomsinhala | 163
 dbsjeyarajcom | 192
 newsfirstlk | 363
@@ -18,7 +18,7 @@ islandlk | 843
 adalk | 1,296
 adaderanalk | 1,829
 tamilmirrorlk | 1,836
-virakesarilk | 2,140
+virakesarilk | 2,145
 dailymirrorlk | 2,351
 adaderanasinhalalk | 2,447
 
@@ -26,11 +26,97 @@ adaderanasinhalalk | 2,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,236 (100.0%) of 15,237 articles have been extended.
+15,237 (100.0%) of 15,243 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### வத்தளை பகுதியில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபரொருவர்  கைது
+
+*2024-03-26 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179729) · `ta`
+
+வத்தளை பிரதேசத்தில் பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில் சோதனை நடவடிக்கையினை மேற்கொண்ட போது போதைப் பொருளுடன் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+இதன்போது  05 கிராம் 400 மில்லி கிராம் ஹெரொயின் போதைப் பொருள் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/3f582925.json)
+
+---
+
+### போர் நிறுத்தத்துக்கான பாதுகாப்புச் சபை தீர்மானத்தின் பின்னரும் காஸாவில் மோதல் நீடிக்கிறது
+
+*2024-03-26 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179738) · `ta`
+
+காஸாவில் போர் நிறுத்தம் அமுல்படுத்தப்பட வேண்டுமென ஐ.நா. பாதுகாப்புச் சபையில் தீர்மானம் நிறைவேற்றப்பட்டபோதிலும் காஸாவில் ஹமாஸுக்கு எதிரான இஸ்ரேலின் தாக்குதல்கள் தொடர்கின்றன.
+
+ரமழான் காலத்தில் காஸாவில் உடனடியாக போர் நிறுத்தம் அமுல்படுத்தப்பட வேண்டுமென ஐக்கிய நாடுகள் பாதுகாப்புச் சபையில் நேற்று  திங்கட்கிழமை ( தீர்மானம் நிறைவேற்றப்பட்டது.  இது தொடர்பான வாக்கெடுப்பில் அமெரிக்கா பங்குபற்றவில்லை. பாதுகாப்புச் சபையிலுள்ள ஏனைய 14 நாடுகளும் பிரேரணைக்கு ஆதரவாக வாக்களித்தன.
+
+கடந்த ஒக்டோபரில் காஸா யுத்தம் ஆரம்பமான பின்னர் காஸாவில் போர் நிறுத்தம் அமுல்படுத்தப்பட வேண்டுமென ஐ.நா. பாதுகாப்புச் சபையில் தீர்மானம் நிறைவேற்றப்பட்டமை இதுவே முதல் தடவையாகும்.
+
+ஹமாஸ் வசமுள்ள பணயக்கைதிகள் அனைவரும் விடுவிக்கப்பட வேண்டுமெனவும் ஐ.நா. பாதுகாப்புச் சபை கோரியுள்ளது.
+
+பாதுகாப்புச் சபையின் இத்தீர்மானத்தை ஹமாஸ் வரவேற்றுள்ளது. பலஸ்தீன கைதிகளுக்கு பதிலாக பணயக்கைதிகளை விடுவிப்பது தொடர்பில் பேச்சுவார்த்தையை ஆரம்பிப்பதற்கு தான் தயார் எனவும் ஹமாஸ் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/b60a2d64.json)
+
+---
+
+### வெற்றிகரமான கல்வி முறை இல்லாத நாட்டில் அபிவிருத்தியை எதிர்பார்க்க முடியாது : சாகல ரத்நாயக்க
+
+*2024-03-26 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179735) · `ta`
+
+வெற்றிகரமான கல்வி முறை இல்லாத நாட்டில் அபிவிருத்தியை எதிர்பார்க்க முடியாது என ஜனாதிபதியின் தேசிய பாதுகாப்பு தொடர்பான சிரேஷ்ட ஆலோசகரும் ஜனாதிபதியின் பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க தெரிவித்தார்.
+
+எத்தனை கல்விச் சீர்திருத்தங்களைச் தயார் செய்தாலும், அதற்கேற்ப மனித வளங்களை முகாமைத்துவம் செய்யாவிட்டால், கல்விச் சீர்திருத்தங்கள் பலனளிக்காது எனவும் சாகல ரத்நாயக்க சுட்டிக்காட்டினார்.
+
+மாத்தறை கொடபொல இலுக்பிடிய கனிஷ்ட  பாடசாலை மாணவர்களுக்காக புதிதாக நிர்மாணிக்கப்பட்ட இரண்டு மாடிக் கட்டிடத்தை மாணவர்களிடம் கையளிக்கும் நிகழ்வில் திங்கட்கிழமை  (25) கலந்துகொண்டபோது, ஜனாதிபதியின் தேசிய பாதுகாப்பு தொடர்பான சிரேஷ்ட ஆலோசகரும் ஜனாதிபதியின் பணிக்குழாம் பிரதானியுமான  சாகல ரத்நாயக்க  இதனைத் தெரிவித்தார்.
+
+கொழும்பு றோயல் கல்லூரி பழைய மாணவர் சங்கத்தின் 1981 குழுவின் முழுமையான நிதி உதவியுடனும்  12ஆவது இராணுவப் பொறியியலாளர் சேவைப் படைப்பிரிவின்  பங்களிப்புடனும் இந்தப் புதிய கட்டிடம் நிர்மாணிக்கப்பட்டுள்ளது.
+
+அதனைத் தொடர்ந்து நடைபெற்ற வைபவத்தில் மேலும் உரையாற்றும்  சாகல ரத்நாயக்க மேலும் கூறியதாவது,
+
+...
+
+[Data](articles/d1db323f.json)
+
+---
+
+### பளை - இத்தாவில் பகுதியில் விபத்துக்குள்ளான ரயில் ; சேவை சில மணி நேரம் பாதிப்பு
+
+*2024-03-26 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179737) · `ta`
+
+கிளிநொச்சி பளை பொலிஸ் பிரிவிற்குட்பட்ட இத்தாவில் பகுதியில் இன்று செவ்வாய்க்கிழமை (26) மாட்டுடன் மோதி ரயில் விபத்துக்குள்ளானது.
+
+குறித்த விபத்து காரணமாக புகையிரத சேவையில் சில மணி நேரம் பாதிப்பு ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/672404e0.json)
+
+---
+
+### யாழில் விபத்து ; ஒருவர் உயிரிழப்பு
+
+*2024-03-26 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179736) · `ta`
+
+யாழ்ப்பாணம் - கொடிகாமம் பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் நேற்று திங்கட்கிழமை (25) இரவு இடம்பெற்ற விபத்தில் ஒருவர் உயிரிழந்துள்ளார்.
+
+கிளிநொச்சி விவேகானந்தா நகரை சேர்ந்த சின்னராசா சுதன்ராஜா (வயது 41) என்பவரே உயிரிழந்துள்ளார்.
+
+யாழில் இருந்து கொழும்பு நோக்கி பயணித்துக்கொண்டிருந்த சொகுசு பேருந்து, யாழ் - கண்டி நெடுஞ்சாலையில், மீசாலை வீரசிங்கம் கல்லூரி முன்பாக பாதசாரி கடவையில் பிரிதொரு வாகனத்தை முந்தி செல்ல முற்பட்ட வேளை எதிரே வந்த மோட்டார் சைக்கிளை மோதி விபத்தினை ஏற்படுத்தியது.
+
+விபத்தில் மோட்டார் சைக்கிள் ஓட்டி சம்பவ இடத்திலையே உயிரிழந்த நிலையில், பேருந்தின் சாரதியும் நடத்துனரும், விபத்து நடைபெற்ற இடத்தில் பேருந்தினை கைவிட்டு, அங்கிருந்து தப்பி சென்று, கொடிகாம பொலிஸ் நிலையத்தில் சரண்டைந்துள்ளனர்.
+
+◼️
+
+[Data](articles/76e29597.json)
+
+---
 
 ### Hamas leader to Iran
 
@@ -120,6 +206,8 @@ In addition, the minimum daily wage of workers is proposed to be raised from Rs.
 
 [Data](articles/9d8d6796.json)
 
+[Extended Data](ext_articles/9d8d6796.ext.json)
+
 ---
 
 ### Conspiracy to kill the fort magazine
@@ -146,7 +234,7 @@ The person who reported that the gun was sought by phone to kill the magistrate 
 
 ### Tourism's contribution to Sri Lanka's income
 
-*2024-03-26 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179732) · `ta`
+*2024-03-26 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179732) · `ta`
 
 Tourism significantly boosts Sri Lanka's income, with 2018 earnings peaking at 4380.6 million dollars. However, the COVID-19 pandemic led to a sharp decline in tourism revenue, impacting the country's economy. Despite challenges, the tourism sector is crucial for Sri Lanka's foreign currency income, with a slight recovery observed post-2020.
 
@@ -1478,6 +1566,20 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 ---
 
+### Tamil Nadu’s Day Of Destiny Is Very Close
+
+*2024-03-26 07:29:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/tamil-nadus-day-of-destiny-is-very-close/) · `en`
+
+Tamil Nadu has taken a decade of indefatigable effort of which the last five years were marked by incessant work by both the state and the centre. Even a weighty mass moves with impetus from the leadership. So the King, so the subjects goes a Tamil saying. At the best click of the moment, Modi captured it and Annamalai has moved in tandem. At no point in over a century, have two reputable leaders in Indian politics moved in tandem from the centre and the state as of now.
+
+Tamil Nadu Performance in 2014 and 2019 and Forecast for 2024
+
+...
+
+[Data](articles/b9140681.json)
+
+---
+
 ### A Security Council proposal passed for first ceasefire in Gaza
 
 *2024-03-26 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194934) · `si`
@@ -2129,141 +2231,5 @@ A high-powered intervention by 23 former national Presidents, 22 former Prime Mi
 [Data](articles/33e2f3c1.json)
 
 [Extended Data](ext_articles/33e2f3c1.ext.json)
-
----
-
-### Sri Lanka’s Chief of Defence Staff visits Kenya’s Defence HQ
-
-*2024-03-25 22:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98202/sri-lankas-chief-of-defence-staff-visits-kenyas-defence-hq) · `en`
-
-The Chief of Defence Staff of Sri Lanka Armed Forces (CDS) General Shavedra Silva visited the Defence Headquarters of Kenya in Nairobi on Monday (25). He was hosted by Kenya’s Chief of Defence Forces (CDF) General Francis Ogolla.
-
-General Silva inspected a Half Guard of Honour mounted by Kenya Air Force personnel, then proceeded to a meeting with the CDF, VCDF, Service Commanders, as well as other KDF General and Senior Officers.
-
-During the talks, several agenda among them strengthening of bilateral military relations between Kenya and Sri Lanka, conduction of joint military trainings, enhancement of military capability, and involvement in Peace Support Operations were addressed.
-
-Both military chiefs highlighted their commitment to ensuring that the two countries continue working cohesively not only in improving their human resource, but also in modernising and streamlining their state of operations.
-
-...
-
-[Data](articles/630964c5.json)
-
-[Extended Data](ext_articles/630964c5.ext.json)
-
----
-
-### Arrived Discipley Box with Heroin
-
-*2024-03-25 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194928) · `si`
-
-A monk, head of a drug ring, was arrested by the Walana Central Anti-Corruption Brigade, sentenced to 60 years, and released due to penalty remission. He was arrested by the Walana Central Parakaraka Force, with 6430 milligrams of heroin, 10 milligrams, 10 banking cards, and a modern car found. Investigations continue at the Gampaha Police Station.
-
-🟩
-
-The monk was arrested by the Walana Central Anti-Corruption Brigade today (25), who is the head of the fundamental drug dealer.
-
-The suspect had been sentenced to 60 years in prison for 60 years and was released as a result of the release of the penalties.
-
-The 45-year-old suspect was arrested today by the Walana Central Parakaraka Force in parallel to justice.
-
-The suspect is a businessman for Rs. 100 months ago.
-
-At the time of his arrest, he was taken into custody, 6430 milligrams of heroin, 10 milligrams, 10 banking cards and a modern cars.
-
-It has been revealed that the heroin racket had been led by the racket of the heroin racket.
-
-The suspect is being produced before the Gampaha Police Station, action has been taken to conduct further investigations.
-
-◼️
-
-[Data](articles/44cebd84.json)
-
-[Extended Data](ext_articles/44cebd84.ext.json)
-
----
-
-### UNSTOPPABLE…to prove a point
-
-*2024-03-25 22:36:00* · [`islandlk`](http://island.lk/unstoppableto-prove-a-point/) · `en`
-
-When I was told about The UNSTOPPABLE Band, what first came to mind was UNSTOPPABLE! Why such a name! And then the explanation came my way from the group’s female vocalist, and manager, Nicola Andrea.
-
-She said the members of this outfit, before they teamed up, found the going pretty tough in the scene here. There were obstacles to overcome and when they decided to join forces, as one unit, they were adamant that nothing would STOP them from achieving their goals…and it was Nicola who came up with the name UNSTOPPABLE.
-
-This five-piece outfit comprises Malintha Peiris (lead guitar and leader), Nicola Andrea (vocals and manager), AJ Stefan (rhythm guitar and vocals), Janiru Fernando (drums) and Valenteno Lenora (bass).
-
-...
-
-[Data](articles/d3be49b5.json)
-
-[Extended Data](ext_articles/d3be49b5.ext.json)
-
----
-
-### COPA instructs officials to immediately report importation of 102 spoiled fish containers to CID
-
-*2024-03-25 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98201/copa-instructs-officials-to-immediately-report-importation-of-102-spoiled-fish-containers-to-cid) · `en`
-
-The Committee on Public Accounts (COPA) has instructed the officials of the Ministry of Finance to immediately report the matter of the importation of 102 spoiled fish containers into the country to the Criminal Investigation Department (CID) as it appears to be a criminal matter.
-
-Furthermore, high officials of the Criminal Investigation Department who were present at the Committee meeting held were informed to expedite the investigation in this regard.
-
-This was notified when the Committee on Public Accounts met recently under the Chairmanship of MP Lasantha Alagiyawanna to examine the facts disclosed by the audit inquiry regarding the entry of a ship which sailed from Seychelles to Thailand with spoiled fish containers, was let into the country from the port of Colombo.
-
-...
-
-[Data](articles/6cf412ce.json)
-
-[Extended Data](ext_articles/6cf412ce.ext.json)
-
----
-
-### The president has no power to decide on presidential election - GL Peiris
-
-*2024-03-25 22:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/179702) · `ta`
-
-GL Peiris states the President has no power to decide on presidential elections, contradicting the President's proposal to dissolve Parliament. The President has the authority to dissolve Parliament and hold a general election, with the election campaign to be held within 42 days, followed by an official announcement.
-
-🟩
-
-The president does not have the authority to decide on presidential election. No need to request the advice of the PA to dissolve Parliament. Parliamentarian Professor GL Peiris said the President has been given the authority to dissolve parliament
-
-He made this statement during a media briefing held at the Independent People's House office in Colombo on Monday (25).
-
-Reports have surfaced that the presidential election will be held in accordance with the Constitution by rejecting the President's proposal to the President of the Sri Lanka PA.
-
-It is also said that the President is reviewing the proposal proposed by the PA.. The President has been given the power to dissolve parliament and hold a general election.
-
-According to the Constitution, the presidential election should be held from September 17 to October 17.
-
-...
-
-[Data](articles/02ccfe6a.json)
-
-[Extended Data](ext_articles/02ccfe6a.ext.json)
-
----
-
-### Add a new shimmer to your old jewellery this Avurudhu with exceptional offers from Vogue Jewellers
-
-*2024-03-25 22:10:00* · [`islandlk`](http://island.lk/add-a-new-shimmer-to-your-old-jewellery-this-avurudhu-with-exceptional-offers-from-vogue-jewellers/) · `en`
-
-Transform your old jewellery and create memories that will stay with you forever with Vogue Jewellers’ range of exclusive offers this Avurudhu.
-
-Available from 18th March to 11th April, Enjoy the No Labour charges or Making Charges for Bangles and Chains, enjoy the Buying = Selling Promotion and acquire a collection of 22KT bangles and chains all at the price of the gold only! You can also benefit from a flat 50% off all diamonds and precious stones throughout the promotion period. Plus, if you’re looking to upgrade your existing diamond jewellery, simply exchange it for new and exquisite items from Vogue Jewellers, in keeping with the latest designs and trends.
-
-Share market in suspenseful wait over interest rates; selling pressure up
-
-Vogue Jewellers’ commitment to excellence shines with Lifetime Warranty and Golden Friday Delights
-
-Vogue Gold Fiesta 2023- exclusive jewellery event at their Kiribathgoda branch
-
-Vogue Jewellers makes second donation to WWCT for leopard conservation in Sri Lanka
-
-...
-
-[Data](articles/2c2edc9a.json)
-
-[Extended Data](ext_articles/2c2edc9a.ext.json)
 
 ---

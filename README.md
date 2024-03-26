@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 07:16:26**
+As of **2024-03-26 07:31:36**
 
 ## Newspaper Stats
 
-*Scraped **15,163** Articles*
+*Scraped **15,164** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,55 +20,89 @@ adaderanalk | 1,819
 tamilmirrorlk | 1,821
 virakesarilk | 2,127
 dailymirrorlk | 2,341
-adaderanasinhalalk | 2,431
+adaderanasinhalalk | 2,432
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,158 (100.0%) of 15,163 articles have been extended.
+15,163 (100.0%) of 15,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### මාළු දැලේ පැටලී තරුණයෙක් මරුට
+### ජීවිතයක් බිලිගත් හයිලෙවල් මාර්ගයේ මාරක අනතුර
+
+*2024-03-26 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194933) · `si`
+
+කොට්ටාව, හයිලෙවල් මාර්ගයේදී සිදුවූ රිය අනතුරකින් 19 හැවිරිදි තරුණයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+කොට්ටාව දෙස සිය මාකුඹුර දෙසට ධාවනය වූ වෑන් රථයක් දකුණට හැරවීමට යාමේදී මාකුඹුර දෙස සිය කොට්ටාව දෙසට ධාවනය කළ යතුරුපැදියක ගැටී එම අනතුර සිදුව ඇත.
+
+අනතුරින් පසු යතුරුපැදිය මාර්ගයේ පෙරළී කොට්ටාව දෙස සිය මාකුඹුර දෙසට ධාවනය වූ කැබ් රථයක ගැටී තිබේ.
+
+ඊයේ (25) සිදුවූ එම අනතුරින් මිය ගිය තරුණයා පන්නිපිටිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+අනතුරට සම්බන්ධ වෑන් රථයේ හා කැබ් රථයේ රියදුරන් දෙදෙනා අත්අඩංගුවට ගෙන ඇති අතර කොට්ටාව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+මේ අතර කොඩිකාමම්, පූතුර් හන්දිය අසලදී සුඛෝපබෝගී බස් රථයක් යතුරුපැදියක ගැටී සිදුවූ අනතුරකින් පුද්ගලයෙකු ජීවිත්කෂයට පත්ව තිබේ.
+
+◼️
+
+[Data](articles/f3c6c546.json)
+
+---
+
+### Youth killed in fishing net
 
 *2024-03-26 06:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194932) · `si`
 
-වාලච්චේන, පුනානි වැවේ මසුන් ඇල්ලීමට ගිය තරුණයෙකු ඔහු විසින්ම භාවිත කළ මාළු දැලක පැටලී මියගොස් තිබේ.
+A 23-year-old from Upathenna, Newhena, died in a fishing accident in Valachchenai. Investigations are ongoing.
 
-ඒ සම්බන්ධයෙන් ඊයේ (25) සවස් කාලයේදී මරණකරුගේ පියා විසින් වාලච්චේන පොලිස් ස්ථානයට කරන ලද පැමිණිල්ලක් මත විමර්ශන ආරම්භ කර ඇත.
+🟩
 
-එසේ මියගොස් අත්තේ, මයිලතැන්න, පුනානි ප්‍රදේශයේ පදිංචි 23 හැවිරිදි තරුණයෙකි.
+A young man who had been fishing in the Valachchenai has died in a fish grate of his own fish.
 
-මරණකරු අසනීප තත්ත්වයක් හේතුවෙන් රැකියාවක් නොමැතිව නිවසේ පසුවන අතර ඔහු විසින් මාළු දැලක් රැගෙන පුනානි වැවේ මසුන් ඇල්ලීමට ගොස් සිටියදී මෙලෙස දියේ ගිලී ඇති බව විමර්ශනවලදී ඇති බව අනාවරණය වී ඇත.
+Investigations have commenced investigations by the father of the deceased to the Valachchenai Police Station yesterday.
 
-මෘත ශරීරය මහෙස්ත්‍රාත් පරීක්ෂණය සඳහා වාලච්චේන රෝහලේ නැත්පත් කර ඇති අතර වාලච්චේන පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The deceased is a 23 year old resident of the Upathenna, Newhena.
+
+Investigations have revealed that the deceased was in the house without work and was drowned while he was fishing in the backbone.
+
+The body has been casted at the Valachchenai Hospital while the Valachchena Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/bfdec7d5.json)
 
+[Extended Data](ext_articles/bfdec7d5.ext.json)
+
 ---
 
-### තායිලන්තයෙන් ගෙන් වූ සතුන් 88 දෙනෙකු සමග යුවළක් කටුනායකදී අත්අඩංගුවට
+### Couple arrested in Katunayake with 88 animals from Thailand
 
 *2024-03-26 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194931) · `si`
 
-තායිලන්තයේ සිට මෙරටට ගෙන්වූ සතුන් 88 දෙනෙකු සමග ව්‍යාපාරික යුවළක් කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ දී රේගු නිලධාරීන් භාරයට ගෙන තිබේ.
+A couple was arrested at Katunayake Airport for smuggling 88 animals from Thailand, including frogs, slots, sluices, cutboards, lizards, hamsters, and other pets. Customs officials and the Department of Animal Quarantine Institute are investigating.
 
-කෘෂිකර්ම දෙපාර්තමේන්තුවේ සත්ත්ව නිරෝධායන ආයතනයේ නිලධාරීන් සමග ඒකාබද්ධව සිදුකළ වැටලීමක දී සැකකරුවන් ජීවී සතුන් සමග සිය භාරයට ගැනීමට හැකි වූ බව රේගුව ප්‍රකාශ කළේය.
+🟩
 
-ඊයේ (25) පස්වරුවේ බැංකොන් නුවර සිට පැමිණි ගුවන් යානයකින් පැමිණි අදාළ යුවළ වාතාශ්‍රය ලැබෙන පරිදි සකස් කළ කුඩා පෙට්ටිවල සතුන් රැගෙනවිත් තිබේ.
+Customs officials have taken over 88 animals from Thailand. Customs officials were taken into custody at the Bandaranaike International Airport.
 
-ඉබ්බන්, ගෙම්බන්, ඉත්තෑවන්, ලේනුන්, මත්ස්‍යයින්, කැස්බෑවුන්, කටුස්සන්, හැම්ස්ටර්, සැලමැන්ඩා, මීයන් සහ තවත් පණු විශේෂයක් නීතිවිරෝධී ලෙස රැගෙන ආ සතුන් අතර වේ.
+Customs stated that the suspects were able to take the custody with livingations in conjunction with the officers of the Department of Animal Quarantine Institute of the Department of Agriculture.
 
-එම සතුන් ගුවන් තොටුපොළ සත්ත්ව නිරෝධායන ආයතනය වෙත භාර දී ඇති අතර සැකකරුවන් පිළිබඳ වැඩිදුර විමර්ශන ආරම්භ කර තිබේ.
+The couple of the aircraft from a plane from Bangbon yesterday (25th) were brought to small boxes.
+
+It is among the animals that were illegally brought by the animals, frogs, slots, slots, slopes, sluices, cutboards, lizards, hamsters, sacred and other pops.
+
+The animals have been handed over to the animal quarantine of the airport and has commenced further investigations into the suspects.
 
 ◼️
 
 [Data](articles/f50e9199.json)
+
+[Extended Data](ext_articles/f50e9199.ext.json)
 
 ---
 
@@ -91,6 +125,8 @@ The three main candidates who will run for the presidency are Ranil Wickremesing
 ...
 
 [Data](articles/ac32107f.json)
+
+[Extended Data](ext_articles/ac32107f.ext.json)
 
 ---
 
@@ -330,17 +366,23 @@ During the argument over the bus run, police said that a private bus driver, the
 
 ---
 
-### பெரிய வெங்காயத்தின் விலையை குறைக்க நடவடிக்கை
+### Action to reduce the price of large onions
 
 *2024-03-26 00:15:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரிய-வெங்காயத்தின்-விலையை-குறைக்க-நடவடிக்கை/175-335187) · `ta`
 
-சித்திரை புதுவருட காலத்தில் பெரிய வெங்காயத்தின் விலையை குறைப்பதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளதாக வர்த்தக அமைச்சர் நளின் பெர்னாண்டோ தெரிவித்துள்ளார்.
+Commerce Minister Nalin Fernando announced measures to lower the price of large onions during the New Year, aiming for a price range of 375 to 400 rupees.
 
-பண்டிகை காலத்தில் பெரிய வெங்காயத்தின் விலையை 375 முதல் 400 ரூபாவிற்கு பெற்றுக்கொடுக்க எதிர்பார்ப்படுகின்றது எனவும் அவர் தெரிவித்துள்ளார். (a)
+🟩
+
+Commerce Minister Nalin Fernando said steps have been taken to reduce the price of big onions during the New Year.
+
+He also said that the price of big onions during the festive season is expected to pay 375 to 400 rupees.. (A)
 
 ◼️
 
 [Data](articles/3130c9a3.json)
+
+[Extended Data](ext_articles/3130c9a3.ext.json)
 
 ---
 
@@ -2211,19 +2253,5 @@ Former President Maithripala Sirisena, former President Maithripala Sirisena mad
 [Data](articles/8a856a4a.json)
 
 [Extended Data](ext_articles/8a856a4a.ext.json)
-
----
-
-### Ex-President Maithripala leaves CID after recording statement
-
-*2024-03-25 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98195/ex-president-maithripala-leaves-cid-after-recording-statement) · `en`
-
-Former President Maithripala Sirisena has left the Criminal Investigation Department (CID) premises a short while ago, after a statement was recorded on his recent comments regarding the Easter Sunday attacks, Police Media Spokesman DIG Nihal Thalduwa said.
-
-◼️
-
-[Data](articles/1e2c32f3.json)
-
-[Extended Data](ext_articles/1e2c32f3.ext.json)
 
 ---

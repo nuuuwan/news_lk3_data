@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 06:16:57**
+As of **2024-03-26 06:53:53**
 
 ## Newspaper Stats
 
-*Scraped **15,157** Articles*
+*Scraped **15,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adaderanalk | 1,819
 tamilmirrorlk | 1,820
 virakesarilk | 2,127
 dailymirrorlk | 2,339
-adaderanasinhalalk | 2,428
+adaderanasinhalalk | 2,429
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,145 (99.9%) of 15,157 articles have been extended.
+15,154 (100.0%) of 15,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවූ තද වැසි
+
+*2024-03-26 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194929) · `si`
+
+දකුණු පළාතේත්, අම්පාර සහ මොනරාගල දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට අද (26) මි. මී. 100ට වැඩි තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, දකුණු සහමධ්‍යම පළාත්වලසවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව දිස්ත්‍රික්කයේත් වැසි වාර කිහිපයක් ඇතිවේ.
+
+මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/d77e1681.json)
+
+---
 
 ### Justice Minister assures no election postponement amid electoral amendments
 
@@ -480,6 +500,8 @@ This five-piece outfit comprises Malintha Peiris (lead guitar and leader), Nicol
 
 [Data](articles/d3be49b5.json)
 
+[Extended Data](ext_articles/d3be49b5.ext.json)
+
 ---
 
 ### COPA instructs officials to immediately report importation of 102 spoiled fish containers to CID
@@ -546,6 +568,8 @@ Vogue Jewellers makes second donation to WWCT for leopard conservation in Sri La
 
 [Data](articles/2c2edc9a.json)
 
+[Extended Data](ext_articles/2c2edc9a.ext.json)
+
 ---
 
 ### Union Bank appoints Dinesh Weerakkody to the Board
@@ -559,6 +583,8 @@ Dinesh Weerakkody is a former Chairman of Hatton National Bank PLC and Commercia
 ...
 
 [Data](articles/f1047d1e.json)
+
+[Extended Data](ext_articles/f1047d1e.ext.json)
 
 ---
 
@@ -600,6 +626,8 @@ Throughout the festive period, Cardmembers can indulge in a myriad of offerings 
 
 [Data](articles/7d0db40d.json)
 
+[Extended Data](ext_articles/7d0db40d.ext.json)
+
 ---
 
 ### Opening of Identity College of Higher Education
@@ -616,6 +644,8 @@ Identity College of Higher Education, situated in Colombo, aims to revolutionize
 
 [Data](articles/749f41fd.json)
 
+[Extended Data](ext_articles/749f41fd.ext.json)
+
 ---
 
 ### A revolution in the ComBank annual report reading experience
@@ -629,6 +659,8 @@ This innovation addresses a perennial issue and makes reading annual reports a t
 ...
 
 [Data](articles/a7110cd7.json)
+
+[Extended Data](ext_articles/a7110cd7.ext.json)
 
 ---
 
@@ -645,6 +677,8 @@ Those crossings were reported in Sanasa Development Bank, which crossed 4.8 mill
 ...
 
 [Data](articles/5595bbf1.json)
+
+[Extended Data](ext_articles/5595bbf1.ext.json)
 
 ---
 
@@ -2197,35 +2231,5 @@ Meanwhile, a special tourist train service will be launched with rooms for a sho
 [Data](articles/3f574d12.json)
 
 [Extended Data](ext_articles/3f574d12.ext.json)
-
----
-
-### Underworld
-
-*2024-03-25 15:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194912) · `si`
-
-Seven suspects, including members of Kuduleku's, Origi-team, and others, were arrested in a special operation led by the IGP.
-
-🟩
-
-Seven suspects have been arrested yesterday at the special operation commenced on the instructions of the IGP to arrest organized criminal gang members.
-
-Among them are two members of the group of Kuduleku's team, a resident of Panadura, Panadura, a resident of Panadura, Kodakoda and Moratuwa.
-
-Police said that the member of Moratuwa, a member of the Origi-team, an organized crime, was also arrested.
-
-Meanwhile, a member of Sanjeemba's group, Dickwella, a member of Sanjeewa's team, was arrested at the operation yesterday.
-
-A 38-year-old suspect, a 38-year-old suspect, a member of the Borella, is a member of the Borella.
-
-Meanwhile, Mohamed Indauhammed Afhanu, a member of Kajipani Imrane, is a 26-year-old member of Kolonnawa.
-
-Police have also arrested a member of the Tunukudicuwara Premayana, a member of the Poonudickena Premachanna, a member of Kotahena.
-
-◼️
-
-[Data](articles/81bbea3d.json)
-
-[Extended Data](ext_articles/81bbea3d.ext.json)
 
 ---

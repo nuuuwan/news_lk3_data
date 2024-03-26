@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 14:50:51**
+As of **2024-03-26 15:03:11**
 
 ## Newspaper Stats
 
-*Scraped **15,271** Articles*
+*Scraped **15,272** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 819
 economynextcom | 821
 islandlk | 843
 adalk | 1,299
-adaderanalk | 1,834
+adaderanalk | 1,835
 tamilmirrorlk | 1,838
 virakesarilk | 2,152
 dailymirrorlk | 2,358
@@ -26,63 +26,89 @@ adaderanasinhalalk | 2,451
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,265 (100.0%) of 15,271 articles have been extended.
+15,271 (100.0%) of 15,272 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### நல்லிணக்கம் பற்றிய கதையளப்புகளுக்கு மத்தியில் வடக்கு, கிழக்கில் அதிகரிக்கும் அதிருப்தி
+### Increasing dissatisfaction in the North and East amidst storytelling on reconciliation
 
 *2024-03-26 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179749) · `ta`
 
-தங்களை நேர்மையாக நடத்தி தங்களது மனக்குறைகளுக்கு தீர்வுகாண்பதற்கு அரசாங்கம்  தவறியதனால் தமிழ் அரசியல் சமுதாயத்தின் மத்தியில் காணப்படும் அதிருப்தி பாராளுமன்றத்தில் ஒரு புதிய திருப்பத்தை எடுக்கிறது. பெரும்பான்மை வாக்குகளை வைத்திருப்பவர்களுக்கு நியாயத்தை புரியவைக்க இயலாத நிலையில் தமிழ்ப் பாராளுமன்ற உறுப்பினர்கள் பேச்சுக்களுக்கு  பதிலாக அமைதிவழிப் போராட்டத்தில் இறங்குகின்றார்கள்.
+Growing dissatisfaction in the North and East due to the government's failure to address Tamil grievances. Tamil MPs are protesting peacefully against the government's refusal to address their complaints, including the detention of citizens during a religious ceremony. The opposition leader has called for the release of the detainees and the right to religious freedom. The Archaeological Department has imposed restrictions on visiting Hindu temples, causing confusion and concern among the local population. President Wickremesinghe has been active in addressing land issues and supporting the 13th Amendment, aiming to devolve powers to provincial councils.
+
+🟩
+
+The dissatisfaction among the Tamil political community takes a new twist in Parliament because the government fails to treat themselves honestly and solve their grievances.. Tamil MPs are embarking on a peaceful struggle instead of talks, as it is impossible to understand the majority of votes.
+
+It is rare for political parties that represent ethnic and religious minority communities to confuse parliamentary activities. One reason for this is that their number is inadequate. But the confusion of the council is that the ruling party MPs and the opposition MPs often behave like their privacy.. President Maithripala Sirisena's postponement of Prime Minister Ranil Wickremesinghe in the October 2018 constitutional conspiracy without any precautions
 
 ...
 
 [Data](articles/1e6f4405.json)
 
+[Extended Data](ext_articles/1e6f4405.ext.json)
+
 ---
 
-### உயிர்த்த ஞாயிறு தாக்குதல்: முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவின் வாக்குமூலம் சட்ட மா அதிபரிடம்!
+### Life Sunday attack: Former President Maithripala Sirisena's confession to the Attorney General!
 
 *2024-03-26 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179747) · `ta`
 
-உயிர்த்த ஞாயிறு தாக்குதலை நடத்தியது யார் என்பது தனக்கு தெரியும் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன குற்றப் புலனாய்வு திணைக்களத்துக்கு வழங்கிய வாக்கு மூலம் சட்டமா அதிபருக்கு அனுப்பி வைக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+Former President Maithripala Sirisena confessed to the Attorney General, revealing knowledge of the Lifeblood Sunday attack's perpetrator. He directed police to investigate a meeting in Kandy, where he claimed to have identified the Muttist involved.
 
-குற்றப் புலனாய்வு அதிகாரிகளினால்  முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவிடம் 6 மணித்தியாலயத்துக்கு மேலாக மேற்கொண்ட விசாரணைகளின் மூலம் பெறப்பட்ட  வாக்கு மூலமானது மேலதிக சட்ட நடவடிக்கைகளுக்காக சட்ட மா அதிபருக்கு அனுப்பி வைக்கப்பட்டுள்ளது.
+🟩
 
-2019 ஆம் ஆண்டு ஏப்ரல் மாதம்  21ஆம் திகதி உயிர்த்த ஞாயிறு தாக்குதலில் ஈடுபட்ட  சூத்திரதாரி  தொடர்பில் தனக்கு தெரியும் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன அண்மையில் கண்டியில் இடம்பெற்ற கூட்டமொன்றில் தெரிவித்த கருத்து தொடர்பில் விசாரணை நடத்துமாறு பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் பொலிஸ் மா அதிபருக்கு பணிப்புரை விடுத்திருந்தார்.
+It is reported that former President Maithripala Sirisena has been sent to the Attorney General by voting to the Criminal Investigation Department, saying that he knows who carried out the lifeblood.
 
-இதனடிப்படையில், நேற்று குற்றப் புலனாய்வு பிரிவினரால்  முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவிடம் வாக்குமூலம் பெறப்பட்டது.
+Voting received by former President Maithripala Sirisena by Criminal Investigation Officers for more than 6 hours has been sent to the Attorney General for further legal action.
+
+Former President Maithripala Sirisena had issued a directive to the Inspector General of Police, Tran Ales, to investigate a meeting in Kandy in a recent meeting in Kandy, saying that he was aware of the Muttist who was involved in the Sunday attack on April 21, 2019.
+
+Accordingly, the confession was received by former President Maithripala Sirisena yesterday by the Criminal Investigation Division.
 
 ◼️
 
 [Data](articles/6796dc0f.json)
 
+[Extended Data](ext_articles/6796dc0f.ext.json)
+
 ---
 
-### ජාතික අවම වැටුප රු. 5000කින් වැඩි කරයි
+### National Minimum Salary Rs. Increases by 5000
 
 *2024-03-26 14:29:16* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-අවම-වැටුප-රු--5000කින්-වැඩි-කරයි/11-408806) · `si`
 
-ජාතික අවම වැටුප රුපියල් 12500 සිට 17500ක් දක්වා රුපියල් 5000කින් හා ජාතික දෙනික අවම වැටුප රුපියල් 500 සිට රුපියල් 700 දක්වා වැඩි කිරීමට කම්කරු අමාත්‍ය මනූෂ නානායක්කාර මහතා ඉදිිරිපත් කළ කැබිනට් පත්‍රිකාවට අනුමැතිය ලැබි තිබේ.
+The National Minimum Salary in Sri Lanka has been increased by Rs. 5000, as approved by the Cabinet of Labor Manusha Nanayakkara.
+
+🟩
+
+The National Minimum salary has approved the cabinet paper that the Cabinet of Labor Manusha Nanayakkara has constructed the national minimum Rs.
 
 ◼️
 
 [Data](articles/6d13b4ba.json)
 
+[Extended Data](ext_articles/6d13b4ba.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-03-26 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/179746) · `ta`
 
-இன்று செவ்வாய்க்கிழமை (மார்ச் 26) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 297.6319 ஆகவும் விற்பனை விலை ரூபா 307.3326 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+Today's US $297.6319 is Rs.
+
+🟩
+
+The US $ 297.6319 is Rs.
 
 ◼️
 
 [Data](articles/5b147162.json)
+
+[Extended Data](ext_articles/5b147162.ext.json)
 
 ---
 
@@ -103,6 +129,8 @@ Also he said SJBers from the grassroots level have already begun coming back to 
 ...
 
 [Data](articles/dd5a25f3.json)
+
+[Extended Data](ext_articles/dd5a25f3.ext.json)
 
 ---
 
@@ -126,17 +154,43 @@ The Baltimore City Fire Department described the collapse as a mass-casualty inc
 
 ---
 
-### 'மைத்திரியின் வாக்குமூலம் குறித்து பொய்யான தகவல்கள்'
+### Major US bridge collapses after being hit by ‘Colombo-bound’ ship
+
+*2024-03-26 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98214/major-us-bridge-collapses-after-being-hit-by-colombo-bound-ship) · `en`
+
+The Francis Scott Key Bridge in #US city #Baltimore collapsed on Tue following a ship collision, CNN reported. Traffic is being redirected, and it remains uncertain if there were any injuries.pic.twitter.com/6q5smwGLWD— Global Times (@globaltimesnews) March 26, 2024
+
+Baltimore’s Key Bridge has collapsed after it was hit by a container ship, sending cars that were crossing at the time plunging into the waters of the Patapsco River.
+
+At least seven people are believed to be in the water and rescue efforts are ongoing at the site of the collapse, according to the Baltimore Fire Department.
+
+Multiple videos shared on social media showed a large cargo ship ramming into one of the bridge’s support pillars, causing it to come crashing down into the river.
+
+A large portion of the Francis Scott Key Bridge is now under water, as flight tracking website FlightRadar24 showed the Maryland State Police circling the site of the crash in a helicopter.
+
+...
+
+[Data](articles/7ace61aa.json)
+
+---
+
+### 'False information about Maithri's confession'
 
 *2024-03-26 14:17:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-வாக்குமூலம்-குறித்து-பொய்யான-தகவல்கள்/175-335216) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன நேற்று குற்றப்புலனாய்வு திணைக்களத்துக்கு வழங்கிய வாக்குமூலம் தொடர்பில் பிரதான ஊடகங்களிலும் சமூக ஊடகங்களிலும் பொய்யான மற்றும் திரிபுபடுத்தப்பட்ட தகவல்கள் வெளியாகி வருவதாக ஸ்ரீ லங்கா சுதந்திரக் கட்சி தெரிவித்துள்ளது.
+The Sri Lanka Freedom Party (SLFP) denounces false and distorted reports on Maithripala Sirisena's confession to the Criminal Investigation Department, condemning such misinformation.
 
-இது போன்ற தவறான மற்றும் திரிபுபடுத்தப்பட்ட அறிக்கைகளை கண்டிப்பதாக அக்கட்சி வெளியிட்டுள்ள அறிக்கையில் தெரிவித்துள்ளது.
+🟩
+
+The Sri Lanka Freedom Party (SLFP) has said that the reports of former President Maithripala Sirisena yesterday have been false and distorted on major media and social media regarding the confession of the Criminal Investigation Department.
+
+The party said in a statement that it would condemn such false and distorted statements.
 
 ◼️
 
 [Data](articles/4380ad2f.json)
+
+[Extended Data](ext_articles/4380ad2f.ext.json)
 
 ---
 
@@ -161,6 +215,30 @@ There have been four murder incidents in the Mannar Police Area areas. Based on 
 [Data](articles/81e43ef1.json)
 
 [Extended Data](ext_articles/81e43ef1.ext.json)
+
+---
+
+### The bridge collapsed and many vehicles fell into the river: In the United States
+
+*2024-03-26 14:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/179741) · `ta`
+
+A massive cargo ship crashed into the Francis Scott Key Bridge in Baltimore, Maryland, around 1.35 am, causing it to collapse into the river. At least 20 construction workers were on the bridge.
+
+🟩
+
+The massive ship crashed into a long bridge in the United States and collapsed in the river. Many vehicles have fallen into the river.
+
+The Francis Scott Key Bridge, a bridge in Baltimore, Maryland, was demolished.
+
+A massive cargo ship crashed into a 366m long bridge at around 1.35 am this morning, an official said.
+
+At least 20 construction employees were on the bridge, according to the Adakar.
+
+◼️
+
+[Data](articles/9407aa95.json)
+
+[Extended Data](ext_articles/9407aa95.ext.json)
 
 ---
 
@@ -205,30 +283,6 @@ Nakuleswaram (J/226) and Kankesanthurai (J/233) in the Tellippalai Divisional Se
 [Data](articles/63d33461.json)
 
 [Extended Data](ext_articles/63d33461.ext.json)
-
----
-
-### The bridge collapsed and many vehicles fell into the river: In the United States
-
-*2024-03-26 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179741) · `ta`
-
-A massive cargo ship crashed into the Francis Scott Key Bridge in Baltimore, Maryland, around 1.35 am, causing it to collapse into the river. At least 20 construction workers were on the bridge.
-
-🟩
-
-The massive ship crashed into a long bridge in the United States and collapsed in the river. Many vehicles have fallen into the river.
-
-The Francis Scott Key Bridge, a bridge in Baltimore, Maryland, was demolished.
-
-A massive cargo ship crashed into a 366m long bridge at around 1.35 am this morning, an official said.
-
-At least 20 construction employees were on the bridge, according to the Adakar.
-
-◼️
-
-[Data](articles/9407aa95.json)
-
-[Extended Data](ext_articles/9407aa95.ext.json)
 
 ---
 
@@ -2197,33 +2251,5 @@ However, UN Palestinian Representative Riyadh Mansoor, who accepted this proposa
 [Data](articles/7239cac3.json)
 
 [Extended Data](ext_articles/7239cac3.ext.json)
-
----
-
-### The fatal accident of the High Level road where life is
-
-*2024-03-26 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194933) · `si`
-
-A 19-year-old died in a Kottawa accident involving a motorcycle and a cab. Another accident involved a luxury bus and a motorcycle near Kodikamam.
-
-🟩
-
-A 19-year-old youth has died in an accident on Kottawa and High Level.
-
-The accident occurred at the Makumbura at a motorcycle who was traveling to Kottawa when he was going to turn his Makumbura at Kottawa.
-
-After the accident, the motorcycle rollied in Kottawa and collided with a cab.
-
-The youth is a resident of Pannipitiya yesterday.
-
-The two drivers in the accident and the cab have been arrested and Kottawa Police are conducting further investigations.
-
-Meanwhile, a luxury bus collided with a motorcycle near Kodikamam and Puthur Junction.
-
-◼️
-
-[Data](articles/f3c6c546.json)
-
-[Extended Data](ext_articles/f3c6c546.ext.json)
 
 ---

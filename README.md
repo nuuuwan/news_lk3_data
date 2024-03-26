@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 03:33:30**
+As of **2024-03-27 03:51:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,390 (100.0%) of 15,394 articles have been extended.
+15,394 (100.0%) of 15,394 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Mitrapala said that following Sirisena’s statement to the Criminal Investigati
 
 [Data](articles/0f79dbbc.json)
 
+[Extended Data](ext_articles/0f79dbbc.ext.json)
+
 ---
 
 ### CIABOC case against Keheliya to go ahead
@@ -65,6 +67,8 @@ When the case was called before the Colombo High Court yesterday the defence cou
 ...
 
 [Data](articles/c8affbd8.json)
+
+[Extended Data](ext_articles/c8affbd8.ext.json)
 
 ---
 
@@ -84,6 +88,8 @@ A video circulated online depicted the vessel hitting one of the bridge's centra
 
 [Data](articles/9c2fb435.json)
 
+[Extended Data](ext_articles/9c2fb435.ext.json)
+
 ---
 
 ### Sri Lanka and China premiers witness signing of 9 bilateral agreements
@@ -101,6 +107,8 @@ The Prime Ministers of the two countries confirmed that a new chapter in the lon
 ...
 
 [Data](articles/2d7b5d8a.json)
+
+[Extended Data](ext_articles/2d7b5d8a.ext.json)
 
 ---
 

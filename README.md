@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 02:50:21**
+As of **2024-03-27 03:03:20**
 
 ## Newspaper Stats
 
-*Scraped **15,386** Articles*
+*Scraped **15,390** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 138
 bbccomsinhala | 164
 dbsjeyarajcom | 192
 newsfirstlk | 363
-dailyftlk | 828
+dailyftlk | 831
 economynextcom | 832
 islandlk | 845
 adalk | 1,312
 adaderanalk | 1,845
-tamilmirrorlk | 1,845
+tamilmirrorlk | 1,846
 virakesarilk | 2,175
 dailymirrorlk | 2,378
 adaderanasinhalalk | 2,469
@@ -26,11 +26,59 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,384 (100.0%) of 15,386 articles have been extended.
+15,386 (100.0%) of 15,390 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### Ceylon Institute of Builders meets Urban Development Secretary and CIDA Chairman
+
+*2024-03-27 02:41:52* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Institute-of-Builders-meets-Urban-Development-Secretary-andCIDA-Chairman/34-760005) · `en`
+
+Key industry meeting takes up critical issues faced by construction contractors
+
+The Ceylon Institute of Builders (CIOB) convened a highly constructive meeting with Urban Development, Housing, and Construction Secretary W.S. Sathyananda, along with key officials, Construction Industry Development Authority (CIDA) Chairman and his officials.
+
+The primary objective of the meeting was to address the critical challenges encountered by construction contractors and consultants amidst the impact of pandemic and subsequent economic crisis.
+
+...
+
+[Data](articles/7b808940.json)
+
+---
+
+### Solar Photovoltaic power plants for six grid substations
+
+*2024-03-27 02:37:28* · [`dailyftlk`](https://www.ft.lk/business/Solar-Photovoltaic-power-plants-for-six-grid-substations/34-760004) · `en`
+
+The Cabinet of Ministers approved the awarding of contracts for investors to establish solar photovoltaic power plants for six grid substations in Ampara, Habarana, Kosgama, Kurunegala, Pannala and Veyangoda.
+
+The decision follows the recommendations put forth by the Cabinet-appointed Negotiation Committee, which evaluated the proposals submitted by relevant investors.
+
+On 2 October 2023, the Cabinet approved awarding of contracts to supply 51 MW at five grid substations on build-own-operate (BOO) basis with an operational period of 20 years.
+
+The grids will be developed under the Solar Photovoltaic Power Plant Installation Project for 70 MW with AC capacity ranging from 1-5 in 11 grid substations. It was also noted that proposals have been invited again for supply of 19 ME for the remaining six substations.
+
+◼️
+
+[Data](articles/c9482415.json)
+
+---
+
+### Sri Lanka-Korea Business Council hosts business networking evening
+
+*2024-03-27 02:36:51* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Korea-Business-Council-hosts-business-networking-evening/34-760003) · `en`
+
+The Sri Lanka-Korea Business Council (SLKBC) of the Ceylon Chamber of Commerce recently hosted a networking evening for members of the Council, diplomats, Government officials and industry representatives to foster collaboration and bilateral cooperation.
+
+The Chief Guest Ambassador of the Republic of Korea to Sri Lanka Miyon Lee was accompanied by the Deputy Ambassador, Consul, and Third Secretary of the Embassy. Additionally, Government officials from the Board of Investment (BOI), Export Development Board (EDB), Ministry of Foreign Affairs, and representatives from the Korea Trade-Investment Promotion Agency (KOTRA), Korea International Cooperation Agency (KOICA), Korea Businessmen Association (KBA), and Korea Eximbank also attended the event.
+
+...
+
+[Data](articles/6a2e9afa.json)
+
+---
 
 ### Richard Pieris Group celebrates excellence highlighting achievements; unveils future roadmap
 
@@ -48,6 +96,8 @@ The Richard Pieris Group, led by visionary leader Dr. Sena Yaddehige, has evolve
 
 [Data](articles/7a9a9459.json)
 
+[Extended Data](ext_articles/7a9a9459.ext.json)
+
 ---
 
 ### NEO celebrates fifth anniversary with well-wishers at new office
@@ -59,6 +109,8 @@ NEO the unique boutique security company celebrated its fifth year anniversary b
 ◼️
 
 [Data](articles/5deef612.json)
+
+[Extended Data](ext_articles/5deef612.ext.json)
 
 ---
 
@@ -105,6 +157,20 @@ President Ranil Wickremesinghe further pointed out that the implementation of th
 [Data](articles/98c7540c.json)
 
 [Extended Data](ext_articles/98c7540c.ext.json)
+
+---
+
+### ’ஒக்டோபர் 17 இற்கு முன்னர் ஜனாதிபதி தேர்தல்’
+
+*2024-03-27 02:08:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்டோபர்-17-இற்கு-முன்னர்-ஜனாதிபதி-தேர்தல்/175-335237) · `ta`
+
+ஜனாதிபதி தேர்தல் எதிர்வரும் ஒக்டோபர் 17 ஆம் திகதிக்கு முன்னர் நடத்தப்படும் என ஐக்கிய தேசியக் கட்சியின் தவிசாளர் வஜிர அபேவர்தன தெரிவித்தார்.
+
+அரசியயலமைப்பிற்கு அமைவாக, ஒக்டோபர் 17 ஆம் திகதிக்கு முன்னர் ஜனாதிபதி தேர்தல் நடைபெறும் என அவர் சுட்டிக்காட்டியுள்ளார். (a)
+
+◼️
+
+[Data](articles/965affa6.json)
 
 ---
 
@@ -2213,85 +2279,5 @@ Nakuleswaram (J/226), Kankesanthurai (J/233) under the Tellippalai Divisional Se
 [Data](articles/19239f62.json)
 
 [Extended Data](ext_articles/19239f62.ext.json)
-
----
-
-### SLAF partners with Arthur C Clarke Institute for tech advancement
-
-*2024-03-26 15:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/SLAF-partners-with-Arthur-C-Clarke-Institute-for-tech-advancement/110-279635) · `en`
-
-The Sri Lanka Air Force (SLAF) has initiated a collaborative effort with the Arthur C Clarke Institute for Modern Technologies (ACCIMT) to acquire technical consultancy and cooperation, training, data sharing, joint Research & Development (R&D) collaboration and resource sharing. The signing of a comprehensive Memorandum of Understanding (MoU) between the Commander of the Air Force, Air Marshal Udeni Rajapaksa and Director General and CEO of Arthur C Clarke Institute Eng. Dr. Sanath Panawennage mark the beginning of a partnership focused on enhancing the potential of rapidly evolving applications in the domains of Space Technology, Drone and Unmanned Ariel Vehicles for better execution of the role of SLAF in line with the national defence strategy of Sri Lanka.
-
-◼️
-
-[Data](articles/9a2a91be.json)
-
-[Extended Data](ext_articles/9a2a91be.ext.json)
-
----
-
-### A new tax instead of special commodity tax
-
-*2024-03-26 15:00:40* · [`adalk`](https://www.ada.lk/breaking_news/විශේෂ-වෙළඳ-භාණ්ඩ-බද්ද-වෙනුවට-අලුත්-බද්දක්/11-408810) · `si`
-
-The government has suspended the Special Commodity Tax Act No. 48 of 2007, which imposed taxes on 64 items, to address implementation issues.
-
-🟩
-
-Cabinet approval has been obtained to suspend the Special Commodity Tax Act No. 48 of 2007.
-
-Special commodities have been imposed under the Special Commodity Tax Act No. 48 of 2007 to facilitate the facilitation of 64 items.
-
-The government has identified the need to suspend the Tax Act to instruct the Legal Draftsman for the various issues that arise in the implementation of the grafting.
-
-◼️
-
-[Data](articles/741caeb2.json)
-
-[Extended Data](ext_articles/741caeb2.ext.json)
-
----
-
-### Acupuncture
-
-*2024-03-26 14:59:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஆளைக்-கொன்றது-அக்குபஞ்சர்/71-335217) · `ta`
-
-Gemikam Sakthunarajah, 64, died from infections caused by acupuncture injections at a treatment center in Jaffna.
-
-🟩
-
-Gemikam Sakthunarajah (age 64), who was receiving acupuncture treatment in the eastern part of Jaffna Achuveli, died.
-
-A man who suffered from knee pain has gone to the treatment center under the name of Acupuncture Treatment at the Paravan Road near Jaffna Nagar, relying on social media for treatment.
-
-During the anatomical examination, it was found that injections were caused by infected infections, such as acupuncture therapy, causing death due to spread throughout the body.
-
-◼️
-
-[Data](articles/1c842c6b.json)
-
-[Extended Data](ext_articles/1c842c6b.ext.json)
-
----
-
-### Expressways assigns to investments Limited
-
-*2024-03-26 14:52:00* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගී-මාර්ග-සහස්යා-ඉන්වෙස්ට්මන්ට්-ලිමිටඩ්-වෙත-පවරයි/11-408809) · `si`
-
-Expressways transfers management to Rahaya Investment Limited, approved by Cabinet on 05.02.2012.
-
-🟩
-
-The proposal made by Hon.
-
-At the Cabinet meeting of the Cabinet Meeting and the AW (LGNly) and the Rice Development Authority (Local) and the Road Development Authority (Local) and the Road Development Authority (Local) and the Road Development Authority can be more commercially managed by the Expressway.The plan has been approved at the Cabinet Meeting held on 05.02.2012.
-
-Accordingly, the daily operations and management activities of the Expressways will be handed over to Rahaya Investment Limited under a formal management agreement, the Rasya Investment Limited within six monthsThe Cabinet of Transport and Highways approved the proposal to be transferred to Investment Limited.
-
-◼️
-
-[Data](articles/8bc5bf1d.json)
-
-[Extended Data](ext_articles/8bc5bf1d.ext.json)
 
 ---

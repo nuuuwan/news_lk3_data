@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 21:03:48**
+As of **2024-03-26 21:18:18**
 
 ## Newspaper Stats
 
-*Scraped **15,343** Articles*
+*Scraped **15,344** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 821
 islandlk | 845
 adalk | 1,310
 adaderanalk | 1,842
-tamilmirrorlk | 1,843
+tamilmirrorlk | 1,844
 virakesarilk | 2,167
 dailymirrorlk | 2,372
 adaderanasinhalalk | 2,467
@@ -26,27 +26,49 @@ adaderanasinhalalk | 2,467
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,341 (100.0%) of 15,343 articles have been extended.
+15,343 (100.0%) of 15,344 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### ஐ.தே.கட்சியின் பிரதான அலுவலகம் மீது கைக்குண்டுத் தாக்குதல்
+### மொட்டு கட்சியின் ஜனாதிபதி வேட்பாளர் குறித்த தகவல் வெளியானது
+
+*2024-03-26 20:55:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-கட்சியின்-ஜனாதிபதி-வேட்பாளர்-குறித்த-தகவல்-வெளியானது/175-335235) · `ta`
+
+பொதுஜன பெரமுனவில் தற்போது நான்கு அல்லது ஐந்து ஜனாதிபதி வேட்பாளர்கள் இருப்பதாக பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+
+இதன்படி எதிர்வரும் ஜனாதிபதித் தேர்தலில் வெற்றிபெறும் பொது வேட்பாளரை முன்வைக்க தாம் தயாராக இருப்பதாகவும் அந்த வேட்பாளர் யார் என்பதை கட்சி இன்னும் தீர்மானிக்கவில்லை எனவும் அவர் மேலும் தெரிவித்தார்.
+
+ஹம்பாந்தோட்டையில் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே நாமல் ராஜபக்ஷ மேற்கண்டவாறு தெரிவித்தார். R
+
+◼️
+
+[Data](articles/3e3b38ff.json)
+
+---
+
+### Hand attack on UNP main office
 
 *2024-03-26 20:47:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-கட்சியின்-பிரதான-அலுவலகம்-மீது-கைக்குண்டுத்-தாக்குதல்/175-335234) · `ta`
 
-கடவத்தை எல்தெனியவிலுள்ள  ஐக்கிய தேசியக் கட்சியின் பிரதான அலுவலகத்தின் மீது கைக்குண்டுத் தாக்குதல் நடத்தப்பட்டுள்ளதாக  சிரேஷ்ட பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+A hand grenade was thrown at the UNP office in Kadawatha, suspected for political revenge. Police found one hand outside and another inside the office. The grenade did not explode, avoiding destruction.
 
-அரசியல் பழிவாங்கல் காரணமாக இந்த கைக்குண்டு தாக்குதல் நடத்தப்பட்டிருக்கலாம் என  பொலிஸார் சந்தேகிக்கின்றனர்.
+🟩
 
-பொலிஸாரால் மேற்கொள்ளப்பட்ட சோதனையின்போது, கட்சி அலுவலகத்துக்கு  முன்பாக உள்ள வீதியில் ஒரு கைக்குண்டும் கட்சி அலுவலகத்துக்குள்  மற்றொரு கைக்குண்டும் கண்டெடுக்கப்பட்டுள்ளது.
+A senior police officer said that a hand grenade was attacked on the main office of the United National Party (UNP) in Kadawatha.
 
-வெடிகுண்டு தாக்குதல் நடத்தப்பட்டாலும், வெடிகுண்டு வெடிக்காததால், நடக்கவிருந்த அழிவு தவிர்க்கப்பட்டது என, பொலிஸார் தெரிவித்தனர். R
+Police suspect that the hand grenade may have been carried out due to political revenge.
+
+During a raid carried out by the police, one hand was found on the road in front of the party office and another hand inside the party office.
+
+Despite the bomb attack, the bomb did not explode, the destruction was avoided, police said that the police said that they were avoided.. Remble
 
 ◼️
 
 [Data](articles/b36cce9e.json)
+
+[Extended Data](ext_articles/b36cce9e.ext.json)
 
 ---
 
@@ -65,6 +87,8 @@ These sentiments were expressed during a meeting convened at the Presidential Se
 ...
 
 [Data](articles/ba736303.json)
+
+[Extended Data](ext_articles/ba736303.ext.json)
 
 ---
 
@@ -2249,29 +2273,5 @@ The driver of the bus and the conductor of the bus, who had been killed in the a
 [Data](articles/76e29597.json)
 
 [Extended Data](ext_articles/76e29597.ext.json)
-
----
-
-### Hamas leader to Iran
-
-*2024-03-26 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194949) · `si`
-
-Hamas leader arrives in Iran today for talks with Iranian authorities, marking his second visit since Israeli conflicts began. He expressed views on a UN Security Council resolution on Gaza.
-
-🟩
-
-International media reports that Hamas leader is due to arrive in Iran today (26).
-
-It is said that he is going to Sri Lanka to hold talks with Iranian authorities.
-
-Hamas on October 7, Hamas leader is the second time Hamas leader is on Iran after the commencement of Israeli conflicts.
-
-The Hamas Leader also expressed his views on the proposal to be passed yesterday that the United Nations Security Council was adopted yesterday to clash at Gaza.
-
-◼️
-
-[Data](articles/a0e89a78.json)
-
-[Extended Data](ext_articles/a0e89a78.ext.json)
 
 ---

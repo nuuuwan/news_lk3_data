@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 18:52:07**
+As of **2024-03-26 19:03:10**
 
 ## Newspaper Stats
 
-*Scraped **15,322** Articles*
+*Scraped **15,326** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 138
-bbccomsinhala | 163
+bbccomsinhala | 164
 dbsjeyarajcom | 192
 newsfirstlk | 363
 dailyftlk | 819
@@ -17,34 +17,56 @@ economynextcom | 821
 islandlk | 845
 adalk | 1,308
 adaderanalk | 1,839
-tamilmirrorlk | 1,841
+tamilmirrorlk | 1,842
 virakesarilk | 2,163
-dailymirrorlk | 2,367
+dailymirrorlk | 2,369
 adaderanasinhalalk | 2,463
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,319 (100.0%) of 15,322 articles have been extended.
+15,322 (100.0%) of 15,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### පාකිස්තානයේදී චීන ඉංජිනේරුවන් පිරිසකට මරාගෙන මැරෙන ප්‍රහාරයක්
+### 14 ஆவது மாடியில் இருந்து விழுந்து ஒருவர் பலி
+
+*2024-03-26 18:42:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/14-ஆவது-மாடியில்-இருந்து-விழுந்து-ஒருவர்-பலி/175-335221) · `ta`
+
+பொரளை டி.எஸ்.சேனநாயக்க மாவத்தையில் நிர்மாணிக்கப்பட்டு வரும் கட்டிடத்தின் 14வது மாடியில் இருந்து தவறி விழுந்து ஒருவர் உயிரிழந்துள்ளதாக பொரளை பொலிஸார் தெரிவிக்கின்றனர்.
+
+விபத்தில் உயிரிழந்தவர் பதவிய போகஸ்வெவ, அருணகம, இலக்கம் 63 இல் வசித்து வந்த நளின் சம்பத் பிரேமரத்ன, ஹேரத் முதியன்சேலா என்ற 24 வயதுடைய நபராவார்.
+
+18 மாடிகள் கொண்ட கட்டிடத்தின் 14வது மாடியில் கொத்தனார் ஒருவருக்கு உதவிய போது உயிரிழந்த நபர் வழுக்கி விழுந்து உயிரிழந்துள்ளதாக பொலிஸ் விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/4fdc016d.json)
+
+---
+
+### Suicide attack on Chinese engineers in Pakistan
 
 *2024-03-26 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194967) · `si`
 
-පාකිස්තානයේ වයඹදිග ප්‍රදේශයේ වේල්ලක් ඉදිකිරීමේ ව්‍යාපෘතියක සේවය කරමින් සිටි චීන ඉංජිනේරුවන් පිරිසක් ගමන්කරමින් සිටි රථ පෙළකට මරාගෙන මැරෙන ප්‍රහාරයක් එල්ල කර තිබේ.
+A suicide attack in Pakistan's northwest killed six, including Chinese engineers, marking the third attack on Chinese in a week.
 
-එම ප්‍රහාරයෙන් 6 දෙනෙකු ජීවිතක්ෂයට පත්වී ඇති අතර මෙය සතියක් තුළ පාකිස්තානයේ පිහිටි චීන සම්බන්ධතා සහිත ස්ථාන වලට එල්ලකළ තුන්වැනි ප්‍රහාරය වෙයි.
+🟩
 
-බ්ලොචිස්තාන ප්‍රාන්තයේ වරායකට සහ ගුවන් මූලස්ථානයකට පසුගිය දින කිහිපයේදී ප්‍රහාර එල්ල කළේය.
+A suicide bomber was attacked a vehicle traveling in a north-building project in no northwest of Pakistan.
+
+Six people were killed in the attack and this is the third attack on Chinese connections in Pakistan for a week.
+
+At the past few days at the Blodishana State, a port and aerial headquarters launched.
 
 ◼️
 
 [Data](articles/7e8be84b.json)
+
+[Extended Data](ext_articles/7e8be84b.ext.json)
 
 ---
 
@@ -63,6 +85,8 @@ Therefore, the members of the NFCO gathered in front of the CEB head office in C
 ◼️
 
 [Data](articles/2ea4b28d.json)
+
+[Extended Data](ext_articles/2ea4b28d.ext.json)
 
 ---
 
@@ -844,6 +868,26 @@ The Governor also said that he will leave his position only if he fails to fulfi
 
 ---
 
+### CB governor vows not to resign over salary increase
+
+*2024-03-26 15:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/CB-governor-vows-not-to-resign-over-salary-increase/155-279637) · `en`
+
+Colombo, March 26 (Daily Mirror) - The Governor of the Central Bank of Sri Lanka (CBSL), Dr. Nandalal Weerasinghe today that he will not step down from the post of Governor due to the issues caused by the salary increase.
+
+While addressing the media, he said the crisis situation was caused by the amount of the salary increase at the CBSL.
+
+He also said that he will reconsider the salary increase for the employees working under him.
+
+The Governor also said that he will leave his position only if he fails to fulfill his responsibilities properly, and as the head of the institution, he has a responsibility to pay attention to the salaries of his employees.
+
+"As the governor, I have responsibility for my staff. This salary increase has been done as it has always been done under the existing legal framework.
+
+...
+
+[Data](articles/8fc63f57.json)
+
+---
+
 ### The Court of Appeal of the Special Presidential Commission appointed Gotabhaya
 
 *2024-03-26 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179755) · `ta`
@@ -1088,17 +1132,29 @@ The 2k of the 2k jumbo peanut manut manut manut manut manut manut manut manufact
 
 ---
 
-### කෙහෙළියට එරෙහි තවත් නඩුවකට දින නියම වෙයි
+### Another case against the Keheliya will be appointed
 
 *2024-03-26 14:44:13* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියට-එරෙහි-තවත්-නඩුවකට-දින-නියම-වෙයි/11-408807) · `si`
 
-තමාට නිත්‍යානුකූලව හිමිව තිබූ ජංගම දුරකතන ගාස්තු සීමාව ඉක්මවමින් භාවිතා කොට එම දුරකතන බිල ලෙස රුපියල් ලක්‍ෂ 2 1/4කට අධික මුදලක් රාජ්‍ය මුද්‍රණ නීතීගත සංස්ථාව මඟින් පියවා ගැනීමට කටයුතු කර අල්ලස් පනතේ ‘දූෂණය’ වරද කළ බවට චෝදනා කරමින් සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල සහ රාජ්‍ය මුද්‍රණ නීතීගත සංස්ථාවේ හිටපු සභාපති ජයම්පති බණ්ඩාර හීන්කෙන්ද මහත්වරුන්ට එරෙහි නඩුව පවත්වාගෙන යෑමට නොහැකි බවට විත්ති පාර්ශවය මතු කළ මූලික විරෝධතාවක් ප්‍රතික්ෂේප කළ කොළඹ මහාධිකරණ විනිසුරු දමිත් තොටවත්ත මහතා නඩුව විභාගය ජූලි 22 වැනිදා පැවැත්වීමට දින නියම කළේය.
+Health Minister Keheliya Rambukwella and State Printing Corporation Lillena face bribery charges. Rambukwella, accused of illness, was presented to court officials. The Bribery Commission has accused them of conspiracy and dealing with the corporation. The case was previously prosecuted in the Colombo Chief Magistrate's Court, but the Constitutional Bribery Commission intervened. The second president of the State Printing Corporation, LSD, was also presented to court. The case was postponed to July 22nd.
 
-රෝගී තත්වයෙන් පසුවන බව දැනුම් දෙමින් පසිගිය නඩු දිනයේ අධිකරණයටට ඉදිරිපත් නොකළ විත්තිකාර කෙහෙළිය රඹුක්වැල්ල නමැත්තා අනීවාර්්‍යයෙන් අධිකරණයට ඉදිරිපත් කරන ලෙස බන්ධනාගාර අධිකාරීවරයාට කළ නියෝගයකට අනුව නඩුව කැඳවු අවස්ථාවේදී විත්තිකාර කෙහෙළිය රඹුක්වැල්ල නමැත්තා බන්ධනාගාර නිලධාරීන් විසින් අධිකරණයට ඉදිරිපත් කරන ලදී.
+🟩
+
+Minister of Health Keheliya Rambukwella and State Printing Lillena have accused the bribery bribery by the State Printing Corporation to cover the mobile phone tariff bill.He was rejected by Colombo High Court Judge Dumith Thotawatte to be held on July 22nd
+
+In announcing the accused of illness, the defendant's Keheliya Rambukwella was produced before the Court of Prison officials to be produced before courts.
+
+The first defendant who was serving as Minister of Mass Media and Information from November 22nd to April 14, 2012, the telephone bill was limited by 144,000 / -The Bribery Commission has accused the defendants by conspiring and dealing with the corporation by the corporation.
+
+The allegations are allocated by the former Chairman of the Parliament of Parliament Keheliya Rambukwella and State Printing Corporation.
+
+The Bribery Commission has previously prosecuted the chief magistrate's Court in the Colombo Chief Magistrate's Court.The two were released.
 
 ...
 
 [Data](articles/be5777ee.json)
+
+[Extended Data](ext_articles/be5777ee.ext.json)
 
 ---
 
@@ -1862,6 +1918,30 @@ These salary increments have been recommended by a tripartite sub-committee repr
 
 ---
 
+### ශ්‍රී ලංකාව බලා යාත්‍රා කරමින් තිබූ නෞකාවක් ගැටී ඇමෙරිකාවේ දැවැන්ත පාලමක් සුණුවිසුණු වෙයි
+
+*2024-03-26 12:32:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx9z4577yjyo) · `si`
+
+ශ්‍රී ලංකාව බලා යාත්‍රා කරමින් තිබූ නෞකාවක් ගැටී ඇමෙරිකාවේ දැවැන්ත පාලමක් සුණුවිසුණු වෙයි
+
+මෙහි කිසිවක් අඩංගු නැත.Play video, "ශ්‍රී ලංකාව බලා යාත්‍රා කරමින් තිබූ නෞකාවක් ගැටීමෙන් ඇමරිකාවේ පාලමක් කඩා වැටෙන අයුරු", ධාවන කාලය 1,0301:03වීඩියෝ ශීර්ෂ වැකිය, ශ්‍රී ලංකාව බලා යාත්‍රා කරමින් තිබූ නෞකාවක් ගැටීමෙන් ඇමෙරිකාවේ පාලමක් කඩා වැටෙන අයුරු
+
+භාණ්ඩ ප්‍රවාහන නෞකාවක් ගැටීමෙන් ඇමෙරිකාවේ බැල්ටිමෝර් නගරයේ පිහිටි ෆ්‍රැන්සිස් ස්කොට් කී පාලම (Francis Scott Key Bridge) කඩා වැටී තිබේ.
+
+කිලෝමීටර් 2.6 (සැතපුම් 1.6)ට වඩා දිගින් යුත් එම පාලම හරහා ගමන් කරමින් තිබූ වාහන කිහිපයක් පැටැප්ස්කෝ නදියට ඇද වැටිණි.
+
+බැල්ටිමෝර් ගිනි නිවීම් සේවා දෙපාර්තමේන්තුව පැවසූ පරිදි, පුද්ගලයින් 20 දෙනෙකු පමණ ජලයට වැටී ඇති බවට විශ්වාස කරන බව ය.
+
+හදිසි සහන සේවා නිලධාරීන් කඩිනමින් එම ස්ථානය ගොස් ඇති අතර අනතුරට පත්වූවන් මුදා ගැනීමේ මෙහෙයුම් මේ වන විට ක්‍රියාත්මක වේ.
+
+නාගරික බලධාරීන් පවසන්නේ, දේශීය වේලාවෙන් අලුයම 01:30ට (මෙරට වේලාවෙන් පෙරවරු 11ට) වසර 47ක් පැරණි පාලම මත නෞකාවක් ගැටීමෙන් එය කඩා වැටී ඇති බව ය.
+
+...
+
+[Data](articles/d321909a.json)
+
+---
+
 ### Monthly basic salary to be increased by Rs. 5,000
 
 *2024-03-26 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98211/monthly-basic-salary-to-be-increased-by-rs-5000) · `en`
@@ -2215,71 +2295,5 @@ Further investigations are ongoing as the wife of the suspect who helped the sca
 [Data](articles/233fe490.json)
 
 [Extended Data](ext_articles/233fe490.ext.json)
-
----
-
-### Israel loses the support of international community - Trump alert
-
-*2024-03-26 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179727) · `ta`
-
-Trump advises Israel to quickly end the war, warning of losing global support.
-
-🟩
-
-Former US President Donald Trump Trump has said that Israel should end the war as soon as possible.
-
-He said that I would have acted in the way Israel operated after the attack on the seventh of October.
-
-Trump has said that Israel should be very careful as you have to end the war soon and lose the world's support.
-
-◼️
-
-[Data](articles/e0f856d1.json)
-
-[Extended Data](ext_articles/e0f856d1.ext.json)
-
----
-
-### T-56 firearm goes missing at Wilgamuwa Police station
-
-*2024-03-26 11:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/T-56-firearm-goes-missing-at-Wilgamuwa-Police-station/108-279625) · `en`
-
-Matale, March 26 (Daily Mirror) - An investigation has been launched following the disappearance of a T-56 firearm of a police officer on duty at the Wilgamuwa Police Station in Matale.
-
-Police spokesman DIG Nihal Thalduwa said the weapon went missing at the security post while the police officer was on duty at the main gate.
-
-He said statements have been recorded from the police officer and an investigation is underway to determine whether the firearm was stolen or if there are other reasons behind its disappearance.
-
-◼️
-
-[Data](articles/61dca45b.json)
-
-[Extended Data](ext_articles/61dca45b.ext.json)
-
----
-
-### Fort Magistrate Thilina Gamage a murder
-
-*2024-03-26 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194945) · `si`
-
-Deputy Minister Tiran Alles ordered an immediate investigation into the murder of Fort Magistrate Thilina Gamage. A government spy revealed a phone call requesting an assassination.
-
-🟩
-
-Deputy Minister of Defense Tiran Alles has instructed the Inspector General of Police to conduct an immediate investigation into the killing of Fort Magistrate Thilina Gamage Gamage.
-
-According to a letter referred to by a spy, Minister Tiran Alles has been instructed.
-
-According to a government spy, a person has asked for a firemark by telephone by a person to assassinate Magistrate Thilina Gamage.
-
-The spy is described with telephone numbers of the person with the telephone numbers of the telephone numbers, saying that Mr. Thilina Gamage has been appointed by Thilina Gamage recently.
-
-The spy has further stated that after the assassination of the Hon.
-
-◼️
-
-[Data](articles/aecc0800.json)
-
-[Extended Data](ext_articles/aecc0800.ext.json)
 
 ---

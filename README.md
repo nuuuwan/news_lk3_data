@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 14:18:00**
+As of **2024-03-26 14:33:34**
 
 ## Newspaper Stats
 
-*Scraped **15,257** Articles*
+*Scraped **15,265** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,53 +16,181 @@ dailyftlk | 819
 economynextcom | 821
 islandlk | 843
 adalk | 1,298
-adaderanalk | 1,832
+adaderanalk | 1,834
 tamilmirrorlk | 1,837
-virakesarilk | 2,146
-dailymirrorlk | 2,356
-adaderanasinhalalk | 2,449
+virakesarilk | 2,149
+dailymirrorlk | 2,357
+adaderanasinhalalk | 2,451
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,253 (100.0%) of 15,257 articles have been extended.
+15,257 (99.9%) of 15,265 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### கீரிமலை அளவீடு:  எதிர்ப்பால் கைவிடப்பட்டது
+### Major bridge in Baltimore collapses after ship crash
+
+*2024-03-26 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98214/major-bridge-in-baltimore-collapses-after-ship-crash) · `en`
+
+The 1.6-mile (2.57 km) long Francis Scott Key Bridge in Baltimore, Maryland, USA collapsed in the early hours of Tuesday after a container ship hit it, and as many as seven people may be in the water, officials said.
+
+A live video posted on YouTube showed a ship hitting the bridge, after which several of its spans collapsed into the Patapsco River. Unverified videos posted on social media X also showed the impact and collapse. Reuters could not immediately verify the videos.
+
+The Baltimore City Fire Department described the collapse as a mass-casualty incident, and said workers were searching for seven people in the river.
+
+“We received several 911 calls at around 1:30 am, that a vessel struck the Key Bridge in Baltimore, causing the collapse. This is currently a mass casualty incident and we are searching for seven people who are in the river,” Kevin Cartwright, director of communications for the Baltimore Fire Department told Reuters.
+
+...
+
+[Data](articles/1eadb8eb.json)
+
+---
+
+### வடக்கில் கடந்த ஆண்டு 52 பேர் படுகொலை ; 129 பேர் கைது ; 38 பேருக்கு பிணை
+
+*2024-03-26 14:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/179744) · `ta`
+
+வடமாகாணத்தில் கடந்த ஆண்டு 52  பேர் படுகொலை செய்யப்பட்டுள்ளதாகவும், அது தொடர்பில் முன்னெடுக்கப்பட்ட விசாரணைகளின் அடிப்படையில் 129 பேர் இது  வரையில் கைது செய்யப்பட்டுள்ளதாவும், அவர்களில் 38 பேர் நீதிமன்றங்கள் ஊடாக பிணையில் விடுவிக்கப்பட்டுள்ளனர் எனவும் பொலிஸார் தெரிவித்துள்ளனர்.
+
+யாழ்ப்பாணம் பொலிஸ் பிராந்தியத்திற்கு உட்பட பகுதிகளில் 14  கொலை சம்பவங்கள் இடம்பெற்றுள்ளன. அது தொடர்பில் முன்னெடுக்கப்பட்ட விசாரணைகளின் அடிப்படையில் 44 சந்தேகநபர்கள் கைது செய்யப்பட்டு நீதிமன்றங்களில் முற்படுத்தப்பட்ட நிலையில் , 11 சந்தேகநபர்கள் நீதிமன்றம் மூலம் பிணையில் செல்ல அனுமதிக்கப்பட்டுள்ளனர். ஏனையோர் தொடர்ந்தும் விளக்கமறியலில் தடுத்து வைக்கப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/81e43ef1.json)
+
+---
+
+### Approval granted for 70 MW Solar Photovoltaic Power Plant Installation Project
+
+*2024-03-26 14:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Approval-granted-for-70-MW-Solar-Photovoltaic-Power-Plant-Installation-Project/108-279632) · `en`
+
+Colombo, March 26 (Daily Mirror) - Cabinet approval has been granted for the solar photovoltaic power plant installation project for 70 MW with an AC capacity ranging from 1 to 5 MW in 11 grid sub-stations.
+
+Accordingly, Cabinet approval has been given on October 2, 2023, for the award of contracts relating to the supply of 51 MW at 5 grid sub-stations on a build, own and operate basis with an operational period of 20 years under the Solar Photovoltaic Power Plant Installation Project.
+
+Proposals have been invited again for the supply of 19 MW for the remaining six sub-stations.
+
+The proposal was presented by the Power and Energy Minister to award the contracts for the establishment of solar photovoltaic power plants for the grid substations of Ampara, Habarana, Kosgama, Kurunegala, Pannala and Veyangoda to the relevant investors as per the decision of the Cabinet-appointed Negotiation Committee, which took into consideration the proposals.
+
+◼️
+
+[Data](articles/77566266.json)
+
+---
+
+### Kirimala Measurement: Abandoned by Resistance
 
 *2024-03-26 14:05:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கீரிமலை-அளவீடு-எதிர்ப்பால்-கைவிடப்பட்டது/71-335215) · `ta`
 
-யாழ்ப்பாணம் - கீரிமலை ஜனாதிபதி மாளிகை அமைந்துள்ள பகுதியை நகர அபிவிருத்தி நடவடிக்கைக்காக சுவீகரிக்கும் அடிப்படையில் அளவீடுகள் செய்வதற்கு நில அளவைத்திணைக்கள அதிகாரிகள் செவ்வாய்க்கிழமை (26) காலை 10 மணியளவில் வருகை தந்திருந்தனர்.
+Land Survey Department officials in Jaffna visited the Kirimalai Presidential House for land measurements, facing protests from landowners. After a letter from landowners expressing no interest in the measurements, officials left. The area affected includes Nakuleswaram, Kankesanthurai, and several other locations in the Tellippalai Divisional Secretariat Division.
 
-இதன்போது குறித்த காணி அளவீட்டுக்கு காணி உரிமையாளர்கள் மற்றும் பொதுமக்கள் எதிர்ப்பை வெளியிட்டதுடன் நில அளவைத்திணைக்களத்தின் வாகனத்தையும் இடைமறித்தனர்.
+🟩
 
-காணி உரிமையாளர்களின் நீண்ட நேர எதிர்ப்பினை அடுத்து காணியினை அளவீடு செய்வதற்கு தமக்கு விருப்பம் இல்லை என காணி உரிமையாளர்கள் கடிதம் எழுதி கையொப்பமிட்டு வழங்கியதை அடுத்து நில அளவைத்திணைக்கள அதிகாரிகள் அங்கிருந்து திரும்பிச் சென்றனர்.
+Land Survey Department officials visited the Jaffna -Kirimalai Presidential House on Tuesday (26) at 10 am to make measurements on the basis of the development of the city.
 
-தெல்லிப்பளை பிரதேச செயலக பிரிவின்கீழ் உள்ள நகுலேஸ்வரம் (ஜே/226), காங்கேசன்துறை (ஜே/233) கிராம சேவகர் பிரிவுகளில் உள்ள ஆழ்வான்மலையடி, வேலர்காடு, புண்ணன்புதுக்காடு, பத்திராயான், புதுக்காடு, சோலைசேனாதிராயன் என அழைக்கப்படும் பகுதிகளில் 12.0399 கெக்டேயர் ( 29 ஏக்கர் 3 றூட் 0.20 பேர்ச் ) நிலம் அளவீடு செய்வதற்கு திட்டமிடப்பட்டிருந்தது குறிப்பிடத்தக்கது.
+Land owners and civilians were protesting for the land measurement and intercepting the vehicle's vehicle.
+
+The landlord officials returned from there after the land owners wrote and signed a letter that they had no interest in measurement of the land in the wake of the long -term opposition of the land owners.
+
+Nakuleswaram (J/226) and Kankesanthurai (J/233) in the Tellippalai Divisional Secretariat Division, the Vellarkadu, Punnanpudukkadu, Padiyan, Pudukkadu, Solaisenathirayan (29 acres)Significantly.
 
 ◼️
 
 [Data](articles/63d33461.json)
 
+[Extended Data](ext_articles/63d33461.ext.json)
+
 ---
 
-### මැතිවරණ ක්‍රමය සංශෝධනයෙන් කිසිම මැතිවරණයක් කල් දාන්නේ නෑ
+### கப்பல் மோதியதால் பாலம் இடிந்து, பல வாகனங்கள் ஆற்றில் வீழ்ந்தன: அமெரிக்காவில் சம்பவம்
+
+*2024-03-26 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179741) · `ta`
+
+அமெரிக்காவில் நீண்ட பாலமொன்றின் மீது பாரிய கப்பல் மோதியதால், அப்பாலம் ஆற்றில் இடிந்துவீழ்ந்தது. இதனால் பல வாகனங்களும் ஆற்றில் வீழ்ந்துள்ளன.
+
+மேரிலண்ட் மாநிலத்தின் பால்டிமோர் நகரிலுள்ள பிரான்சிஸ் ஸ்கொட் கீ பிரிட்ஜ் எனும் பாலமே இவ்வாறு இடிந்தது.
+
+366 மீற்றர் நீளமான பாலத்தின் மீது இன்று அதிகாலை 1.35 மணியளவில் பாரிய சரக்குக் கப்பலொன்று, மோதியதாக அதிகாரி ஒருவர் தெரிவித்துள்ளார்.
+
+அவ்வேளையில் குறைந்தபட்சம் 20 நிர்மாண ஊழியர்கள் பாலத்தில் இருந்தனர் என அதகாரிகள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/9407aa95.json)
+
+---
+
+### සැතපුම් 1.6ක් දිග පාලමක් කඩා වැටෙයි
+
+*2024-03-26 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194954) · `si`
+
+අමෙරිකාවේ බැල්ටිමෝ ප්‍රදේශයේ Patapsco ගංගාව හරහා තිබූ විශාල පාලමක් අද (26) උදෑසන කඩා වැටී තිබේ.
+
+ජාත්‍යන්තර මාධ්‍ය පවසන්නේ භාණ්ඩ ප්‍රවාහන නෞකාවක් එහි ගැටීම හේතුවෙන් සැතපුම් 1.6ක් දිගැති එම පාලම සම්පූර්ණයෙන්ම කඩා වැටී ඇති බවයි.
+
+ඒ අවස්ථාව දැක්වෙන වීඩියෝ මේ වන විට සමාජ මාධ්‍යයෙහි සංසරණය වෙයි.
+
+පාලම කඩා වැටීම හේතුවෙන් කිසිවෙක් හෝ තුවාල ලබා ඇතිබව මෙතෙක් වාර්තා වී නැත.
+
+◼️
+
+[Data](articles/35b25733.json)
+
+---
+
+### காத்தான்குடியில் கைதான 30 பேரும் விடுதலை
+
+*2024-03-26 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/179740) · `ta`
+
+காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட பாலமுனை புர்க்கான் பள்ளிவாயல் வீதியிலுள்ள பின்வளவில் இம்மாதம் 2ம் திகதி சீட்டு விளையாடிக்கொண்டிருந்ததாக  காத்தான்குடி பொலிஸாரால் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டு வழக்குத் தொடரப்பட்டிருந்த 30 பேரும் நீதவான் நீதிமன்றினால்  இன்று செவ்வாய்க்கிழமை (26) அனைத்து குற்றச்சாட்டுகளில் இருந்து  விடுதலை செய்யப்பட்டனர்.
+
+குறித்த வழக்கு இன்றையதினம்  நீதிமன்றில் எடுத்துக்கொள்ளப்பட்டபோது சந்தேக நபர்கள் சார்பாக சட்டத்தரணிகளான முகைதீன் சாலி, நௌசர், நிப்ராஸ், அப்றா, றம்சியா ஆகியோர் ஆஜராகி தமது வாதங்களை முன்வைத்தனர்.
+
+இந்நிலையில் குறித்த சந்தேகநபர்களை மட்டக்களப்பு நீதிவான் நீதிமன்ற நீதிபதி எம் எச்.எம்.ஹம்ஸா விடுதலை செய்தார்.
+
+◼️
+
+[Data](articles/cedf0952.json)
+
+---
+
+### The amendment of the electoral system will not postpone any election
 
 *2024-03-26 14:01:43* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-ක්‍රමය-සංශෝධනයෙන්-කිසිම-මැතිවරණයක්-කල්-දාන්නේ-නෑ/11-408804) · `si`
 
-පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන මැතිවරණ සංශෝධන පනත්‍ කෙටුම්පත් හේතුවෙන් කිසිදු මැතිවරණයක් කල් දැමීමට අපේක්ෂා නොකරන බව අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ජනාධිපති නීතීඥ, ආචාර්ය විජයදාස රාජපක්ෂ මහතා පැවසීය.
+Dr. Wijayadasa Rajapaksa, President's Countermant, stated that the amendment of the electoral system will not postpone any election. He highlighted that since 1994, no elections were promised to resist corruption and the electoral system, and President Ranil Wickremesinghe has introduced amendments to corruption and a proportional election system. The amendments aim to treat corruption as a gender-neutral issue and increase punishments for violence. Despite protests and challenges, the amendments were made after a four-year study by senior lawyers. The 19th Amendment reduced the President's powers and introduced a commission against corruption. Rajapaksa also mentioned that the electoral amendment bill has been presented to Parliament, aiming to abolish the executive presidency and cancel the proportional voting system.
 
-1994 සිට ජනාධිපතිවරණවලදි දූෂණයට එරෙහිවීම හා මැතිවරණ ක්‍රමය සංශෝධනය කිරීමට පොරොන්දු ලබාදී ඇති නමුත් ඒ කිසිවක් ඉටු නොකළ බව පෙන්වාදුන් අමාත්‍යවරයා වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා දූෂණයට වැට බැඳීම සහ සමානුපාතික මැතිවරණ ක්‍රමයක් හඳුන්වාදීම වෙනුවෙන් මේ වනවිටත් සංශෝධන ඉදිරිපත් කර තිබෙන බවද සඳහන් කළේය.
+🟩
 
-අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ජනාධිපති නීතිඥ ආචාර්ය විජයදාස රාජපක්ෂ මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+President's Countermant, Dr. Wijayadasa Rajapakse said that the election of election amendments would not be expected to postpone any election due to the election.
+
+Since 1994, the Minister said that none of the elections were promised to resist corruption and the electoral system, said that President Ranil Wickremesinghe has already introduced amendments to corruption and introduce a proportional election system.
+
+Minister of Justice, Principal and Constitutional Reforms Minister Dr. Wijayadasa Rajapaksa made this statement participating at a press conference held by a stable country.
 
 ...
 
 [Data](articles/fbc0b16d.json)
+
+[Extended Data](ext_articles/fbc0b16d.ext.json)
+
+---
+
+### මාධ්‍යවේදීන්ට බාධාකළ කෙහෙළිය ගේ ආධාරකරුවෝ
+
+*2024-03-26 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194953) · `si`
+
+කොළඹ මහාධිකරණයේ විභාගවෙමින් පවතින අල්ලස් නඩුවක් සඳහා දැනට රක්ෂිත බන්ධනාගාර ගත කර සිටින හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා අද (26) අධිකරණයට රැගෙන ආවේය.
+
+එම අවස්ථාවේදී හිටපු අමාත්‍යවරයාගේ ආධාරකරුවන් බවට සැකකෙරෙන පිරිසක් මාධ්‍යවේදීන්ට බාධා කළ බව අප වාර්තාකරු පැවසීය.
+
+◼️
+
+[Data](articles/dc392660.json)
 
 ---
 
@@ -81,6 +209,26 @@ Responding to media queries, Dr. Weerasinghe underscored that it is the responsi
 ...
 
 [Data](articles/2ca5ede7.json)
+
+[Extended Data](ext_articles/2ca5ede7.ext.json)
+
+---
+
+### CBSL governor explains why Parate Law suspension ‘not good’ for credit supply
+
+*2024-03-26 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98213/cbsl-governor-explains-why-parate-law-suspension-not-good-for-credit-supply) · `en`
+
+The Governor of Central Bank of Sri Lanka (CBSL), Dr. Nandalal Weerasinghe on Tuesday (March 26), asserted that he would not resign over the controversy surrounding the salary increase.
+
+During the Q&A session of the special media briefing convened at the CBSL to present the second Monetary Policy Review of 2024, the Governor spoke of his duty towards his employees as the head of the institution.
+
+Speaking further, he commented that the Central Bank’s duty towards the country includes implementation of the monetary policy, and maintaining the stability of the banking system under the CBSL Act, adding that “as the head of the institution, I have a separate duty towards my staff members.”
+
+Responding to media queries, Dr. Weerasinghe underscored that it is the responsibility of institutions, both public and private, to ‘look after’ their employees, within their legal framework and capacity, at times like these.
+
+...
+
+[Data](articles/a9976dc6.json)
 
 ---
 
@@ -978,17 +1126,23 @@ From the 19th and Southern Province, the Western Province and Southern Province 
 
 ---
 
-### පොලීසියේ ටී56 ගිණි අවිය සහ පතුරම් සහිත මැගසීනය අතුරුදන්
+### Missing of T-56 firearm and ammunition
 
 *2024-03-26 11:07:16* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියේ-ටී56-ගිණි-අවිය-සහ-පතුරම්-සහිත-මැගසීනය-අතුරුදන්/11-408802) · `si`
 
-ඊයේ (25) රාත්‍රිෙය් විල්ගමුව පොලිස්ථානයේ අනුයුක්ත රාජකාරියේ යෙදි සිටි නිලධාරියෙකු සතු ටී 56 ගිණි අවිය සහ පතුරම් සහිත මැගසීනය අතුරුදන් වී ඇතැයි පොලිස් මාධ්‍ය කොට්ඨාශය පවසයි.
+T-56 firearm and ammunition missing since 25th; investigations ongoing in several areas.
 
-ගිනි අවිය අතුරුදන් වීම සම්බන්ධයෙන් මේ වන විටත් පැති කිහිපයක් ඔස්සේ පරික්ෂණ පවත්වයි.
+🟩
+
+The T-56 T-56 T-56 T-56 T-56-firearm and ammunition have been disappeared yesterday (25).
+
+Several areas are already conducting investigations into the disappearance of firearm.
 
 ◼️
 
 [Data](articles/64752486.json)
+
+[Extended Data](ext_articles/64752486.ext.json)
 
 ---
 
@@ -2095,167 +2249,5 @@ He noted that President Ranil Wickremesinghe has already submitted amendments ai
 [Data](articles/b1f038eb.json)
 
 [Extended Data](ext_articles/b1f038eb.ext.json)
-
----
-
-### Marikkar criticises Sirisena’s Easter Sunday claims as political gambit
-
-*2024-03-26 02:18:30* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-criticises-Sirisena-s-Easter-Sunday-claims-as-political-gambit/56-759951) · `en`
-
-Raises doubts about timing of the statement with Parliamentary elections on the horizon
-
-Says cannot permit anyone to toy with victim’s lives and stresses leaders have a responsibility to deliver justice
-
-Stresses Sirisena’s statement should not be taken lightly and must be thoroughly investigated
-
-Samagi Jana Balawegaya (SJB) MP S.M. Marikkar yesterday voiced scepticism regarding the recent statement made by former President Maithripala Sirisena regarding the Easter Sunday terror attacks, suggesting it might be a mere political manoeuvre.
-
-Speaking at a press conference in Colombo, Marikkar raised doubts about the timing of the statement, especially with parliamentary elections on the horizon.
-
-On 22 March, Sirisena expressed his readiness to disclose the true masterminds behind the Easter Sunday terror attack of 2019 if directed by the Court. The former President claimed to personally possess this information. He appeared before the CID yesterday to provide a statement regarding his claim.
-
-...
-
-[Data](articles/91923421.json)
-
-[Extended Data](ext_articles/91923421.ext.json)
-
----
-
-### Presidential poll expected after 17 July - G.L
-
-*2024-03-26 02:17:30* · [`dailyftlk`](https://www.ft.lk/news/Presidential-poll-expected-after-17-July-G-L/56-759950) · `en`
-
-Says Presidential election must take place this year and cannot be deferred for any reason
-
-Claims constitutional and legislative constraints will not allow alterations or postponements
-
-Dispels any doubts public may have on holding of Presidential polls this year
-
-Freedom People’s Congress (FPC) member Prof. G.L Peiris highlighted yesterday that the Election Commission of Sri Lanka (ECSL) must officially announce the Presidential election after 17 July.  “Following that, the ECSL can accept nominations within a window of 16 to 21 days,” he said during a press conference in Colombo.
-
-Peiris emphasised that the Presidential election must take place this year and cannot be deferred for any reason. According to Peiris, the upcoming Presidential election therefore must be held between 17 September and 17 October.
-
-...
-
-[Data](articles/74f1dedc.json)
-
-[Extended Data](ext_articles/74f1dedc.ext.json)
-
----
-
-### Siyambalapitiya assures timely payment to public sector employees
-
-*2024-03-26 02:16:38* · [`dailyftlk`](https://www.ft.lk/news/Siyambalapitiya-assures-timely-payment-to-public-sector-employees/56-759949) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya assured that the Government is committed to ensuring timely salary payments for all public sector employees and implementing relief measures for low-income families.
-
-“The increased sum of Rs. 10,000 for public servants will be incorporated into their April salaries as outlined in the 2024 Budget proposals,” he told Journalists in Ruwanwella.  He said measures are underway to make the payment before 10 April.
-
-Highlighting the Government’s efforts to alleviate the financial burden on low-income families, Siyambalapitiya revealed plans to distribute rice to 2.8 million low-income families during April and May. Each family will receive 10 kilos of rice in both months, providing essential sustenance and relief during challenging times. He assured that 10 kilograms of rice allocated for next month would be distributed before 10 April.
-
-...
-
-[Data](articles/4d4d6e0b.json)
-
-[Extended Data](ext_articles/4d4d6e0b.ext.json)
-
----
-
-### Cabinet approves digitising foreign employment sector: Manusha
-
-*2024-03-26 02:15:28* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-approves-digitising-foreign-employment-sector-Manusha/56-759948) · `en`
-
-Amendments to SLBFE Act now in final phase, soon be tabled in Parliament
-
-Labour and Foreign Employment Minister Manusha Nanayakkara said that the Cabinet of Ministers approved digitising the entire foreign employment sector to streamline the entire process.
-
-He emphasised that the idea would be put into action soon and that it would assist free the foreign job sector from the grip of fraudsters and traffickers. It will also enhance the processes for managing grievances and increase communication between migrant workers and authorities.
-
-He made these remarks on Saturday in a discussion held with Journalists in the Matale district on the sidelines of the ‘Jayagamu Sri Lanka’ program.
-
-The Minister emphasised that this initiative would empower the Sri Lanka Bureau of Foreign Employment (SLBFE) to thwart unnecessary interference and combat illegal activities effectively.
-
-...
-
-[Data](articles/429bf79c.json)
-
-[Extended Data](ext_articles/429bf79c.ext.json)
-
----
-
-### Singer secures 18th consecutive ‘People’s Brand of the Year’ Award
-
-*2024-03-26 01:48:00* · [`dailyftlk`](https://www.ft.lk/business/Singer-secures-18th-consecutive-People-s-Brand-of-the-Year-Award/34-759943) · `en`
-
-Singer Sri Lanka PLC, has extended its streak of success by clinching the prestigious ‘People’s Brand of the Year’ Award for the 18th consecutive year at the SLIM-Kantar People’s Awards 2024, along with the ‘People’s Durables Brand of the Year’ Award at the ceremony, hosted by the Sri Lanka Institute of Marketing (SLIM).
-
-The Company said this remarkable feat reaffirms Singer’s supremacy in the consumer durables sector and its unwavering popularity across Sri Lanka.
-
-...
-
-[Data](articles/5600ff4a.json)
-
-[Extended Data](ext_articles/5600ff4a.ext.json)
-
----
-
-### Orzone Group makes history with drinking water exports to Sydney, Australia
-
-*2024-03-26 01:47:29* · [`dailyftlk`](https://www.ft.lk/business/Orzone-Group-makes-history-with-drinking-water-exports-to-Sydney-Australia/34-759942) · `en`
-
-Orzone Mineral Water Exports Ltd. recently exported 40 High-cube (HQ) containers of 600 millilitre (ml) drinking water bottles to Sydney, Australia, becoming the first ever Sri Lankan company to do so.
-
-The Company has been awarded an order to supply one million 600 ml water bottles to Sydney, Australia, and the recent import marked the initial phase of it. The Company started exporting water bottles to other parts of the world 30 years ago and has commenced exports to Australia with the aim of expanding the business.
-
-Their drinking water is in high demand internationally due to hygienic bottling of water and packaging of the bottles in accordance with local and internationally accepted standards and using latest technology. Over the past, the Company has been able to secure the trust of the international clients by delivering their orders on time.
-
-...
-
-[Data](articles/a3f21366.json)
-
-[Extended Data](ext_articles/a3f21366.ext.json)
-
----
-
-### SLPG secures Sri Lanka’s largest rooftop solar project in collaboration with BPTL
-
-*2024-03-26 01:46:36* · [`dailyftlk`](https://www.ft.lk/business/SLPG-secures-Sri-Lanka-s-largest-rooftop-solar-project-in-collaboration-with-BPTL/34-759941) · `en`
-
-Sino Lanka Power Gen (Pvt) Limited (SLPG), an Orbital Energy company and a dynamic player in Sri Lanka’s renewable energy sector, has achieved a ground-breaking milestone by securing the largest rooftop solar project in the country’s history, for Best Pacific Textiles Lanka (Pvt) Limited (BPTL)., one of the world’s leading textile manufacturers, boasting a capacity of 6.3 MWp. This landmark project not only signifies SLPG’s prowess in the industry but also underscores its commitment to sustainability and cutting-edge technological solutions.
-
-BPTL stands out as a comprehensive textile manufacturer, offering diverse products including synthetic fabric and elastic. With a rich legacy of over 20 years in product and process excellence, BPTL has established itself as a joint venture between Best Pacific International Holdings Ltd and Brandix Lanka Limited.
-
-...
-
-[Data](articles/4e903fdf.json)
-
-[Extended Data](ext_articles/4e903fdf.ext.json)
-
----
-
-### Maithri should be arrested under the Prevention of Terrorism - Udaya Kammanpila
-
-*2024-03-26 00:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179704) · `ta`
-
-Udaya Kammanpila, leader of Pivithuru Hela Urumaya, demands Maithripala Sirisena's arrest under the Prevention of Terrorism Act for not reporting a terrorist attack, despite knowing the perpetrator.
-
-🟩
-
-Former President Maithripala Sirisena should be arrested in accordance with the Prevention of Terrorism Act. Has understood the crime of 7 years of rigorous imprisonment. We are well aware of him. Udaya Kammanpila, the leader of the Pivithuru Hela Urumaya (JHU) and Member of Parliament, said he would never make the facts.
-
-He was speaking at a media briefing held at the Pivithuru Hela Urumaya (JHU) office in Colombo on Monday (25).
-
-The police chief notes that we should be arrested for the arrest of former President Maithripala Sirisena, who has been informed of the terrorist attack, and that it is impossible. According to the law.
-
-Maithripala Sirisena has clearly stated that he is well aware of who carried out the bomb blast.
-
-The court must decide whether or not the suspect is guilty of the prosecutor.
-
-...
-
-[Data](articles/c9b12745.json)
-
-[Extended Data](ext_articles/c9b12745.ext.json)
 
 ---

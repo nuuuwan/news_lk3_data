@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 19:03:10**
+As of **2024-03-26 19:18:10**
 
 ## Newspaper Stats
 
-*Scraped **15,326** Articles*
+*Scraped **15,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 819
 economynextcom | 821
 islandlk | 845
 adalk | 1,308
-adaderanalk | 1,839
+adaderanalk | 1,841
 tamilmirrorlk | 1,842
 virakesarilk | 2,163
 dailymirrorlk | 2,369
@@ -26,25 +26,65 @@ adaderanasinhalalk | 2,463
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,322 (100.0%) of 15,326 articles have been extended.
+15,326 (100.0%) of 15,328 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### 14 ஆவது மாடியில் இருந்து விழுந்து ஒருவர் பலி
+### Chinese premier holds talks with Sri Lankan PM; explore cooperation in clean energy and telecom
+
+*2024-03-26 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98220/chinese-premier-holds-talks-with-sri-lankan-pm-explore-cooperation-in-clean-energy-and-telecom) · `en`
+
+Chinese Premier Li Qiang held talks with Sri Lankan Prime Minister Dinesh Gunawardena on Tuesday in Beijing.
+
+Li said China and Sri Lanka are strategic partners of cooperation characterized by sincere mutual assistance and enduring friendship spanning generations. The two countries have always respected each other and enjoyed equality and reciprocal cooperation since the establishment of diplomatic relations 67 years ago, he added.
+
+China is ready to work with Sri Lanka to implement the important consensus reached by the two heads of state during their talks last year, carry forward the tradition of friendship, consolidate political mutual trust, and expand bilateral cooperation in various fields to promote common development, Li noted.
+
+...
+
+[Data](articles/56d86c5b.json)
+
+---
+
+### Heat advisory issued for several provinces, districts
+
+*2024-03-26 18:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98219/heat-advisory-issued-for-several-provinces-districts) · `en`
+
+The Department of Meteorology has issued a heat index advisory effective tomorrow (27) for Western, Sabaragamuwa, North-western, North-Central and Southern provinces and Mannar, Vavuniya, Trincomalee and Monaragala districts.
+
+Heat index, the temperature felt on the human body is expected to increase up to ‘Caution level’ at some places in Western, Sabaragamuwa, North-western, North-Central and Southern provinces and Mannar, Vavuniya, Trincomalee and Monaragala districts, it said.
+
+As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity while continuing activity could result in heat cramps.
+
+Thus, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
+
+...
+
+[Data](articles/828666e8.json)
+
+---
+
+### Kills one by falling off the 14th floor
 
 *2024-03-26 18:42:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/14-ஆவது-மாடியில்-இருந்து-விழுந்து-ஒருவர்-பலி/175-335221) · `ta`
 
-பொரளை டி.எஸ்.சேனநாயக்க மாவத்தையில் நிர்மாணிக்கப்பட்டு வரும் கட்டிடத்தின் 14வது மாடியில் இருந்து தவறி விழுந்து ஒருவர் உயிரிழந்துள்ளதாக பொரளை பொலிஸார் தெரிவிக்கின்றனர்.
+A 24-year-old man died after falling from the 14th floor of a construction site in Borella, Sri Lanka. He was helping a kotanar when the accident occurred.
 
-விபத்தில் உயிரிழந்தவர் பதவிய போகஸ்வெவ, அருணகம, இலக்கம் 63 இல் வசித்து வந்த நளின் சம்பத் பிரேமரத்ன, ஹேரத் முதியன்சேலா என்ற 24 வயதுடைய நபராவார்.
+🟩
 
-18 மாடிகள் கொண்ட கட்டிடத்தின் 14வது மாடியில் கொத்தனார் ஒருவருக்கு உதவிய போது உயிரிழந்த நபர் வழுக்கி விழுந்து உயிரிழந்துள்ளதாக பொலிஸ் விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+According to Borella police, one person has died after falling off the 14th floor of the building which is being constructed at Borella DS Senanayake Mawatha.
+
+Nalin Sampath Premaratne and Herath Mudiyansela, a 24 -year -old man who lived in Arunagama, No. 63, who died in the accident.
+
+Police investigations have revealed that a man who died when he helped a kotanar on the 14th floor of the 18 -storey building.
 
 ◼️
 
 [Data](articles/4fdc016d.json)
+
+[Extended Data](ext_articles/4fdc016d.ext.json)
 
 ---
 
@@ -885,6 +925,8 @@ The Governor also said that he will leave his position only if he fails to fulfi
 ...
 
 [Data](articles/8fc63f57.json)
+
+[Extended Data](ext_articles/8fc63f57.ext.json)
 
 ---
 
@@ -1918,27 +1960,39 @@ These salary increments have been recommended by a tripartite sub-committee repr
 
 ---
 
-### ශ්‍රී ලංකාව බලා යාත්‍රා කරමින් තිබූ නෞකාවක් ගැටී ඇමෙරිකාවේ දැවැන්ත පාලමක් සුණුවිසුණු වෙයි
+### US massive bridge in the US is a massive crash
 
 *2024-03-26 12:32:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx9z4577yjyo) · `si`
 
-ශ්‍රී ලංකාව බලා යාත්‍රා කරමින් තිබූ නෞකාවක් ගැටී ඇමෙරිකාවේ දැවැන්ත පාලමක් සුණුවිසුණු වෙයි
+The Francis Scott Key Bridge in Baltimore collapsed, trapping 20 people in the Pattapsco River. The bridge, over 2.6 miles long, collapsed on its 47th span. A cargo ship named Dali, sailing to Sri Lanka, was among the vehicles involved. Rescue operations are underway, with emergency teams facing challenges due to the bridge's structure.
 
-මෙහි කිසිවක් අඩංගු නැත.Play video, "ශ්‍රී ලංකාව බලා යාත්‍රා කරමින් තිබූ නෞකාවක් ගැටීමෙන් ඇමරිකාවේ පාලමක් කඩා වැටෙන අයුරු", ධාවන කාලය 1,0301:03වීඩියෝ ශීර්ෂ වැකිය, ශ්‍රී ලංකාව බලා යාත්‍රා කරමින් තිබූ නෞකාවක් ගැටීමෙන් ඇමෙරිකාවේ පාලමක් කඩා වැටෙන අයුරු
+🟩
 
-භාණ්ඩ ප්‍රවාහන නෞකාවක් ගැටීමෙන් ඇමෙරිකාවේ බැල්ටිමෝර් නගරයේ පිහිටි ෆ්‍රැන්සිස් ස්කොට් කී පාලම (Francis Scott Key Bridge) කඩා වැටී තිබේ.
+US massive bridge in the US is a massive crash
 
-කිලෝමීටර් 2.6 (සැතපුම් 1.6)ට වඩා දිගින් යුත් එම පාලම හරහා ගමන් කරමින් තිබූ වාහන කිහිපයක් පැටැප්ස්කෝ නදියට ඇද වැටිණි.
+There is nothing here. Play Video
 
-බැල්ටිමෝර් ගිනි නිවීම් සේවා දෙපාර්තමේන්තුව පැවසූ පරිදි, පුද්ගලයින් 20 දෙනෙකු පමණ ජලයට වැටී ඇති බවට විශ්වාස කරන බව ය.
+The Francis Scott Key Bridge has collapsed in Baltimore City in Baltimore, USA.
 
-හදිසි සහන සේවා නිලධාරීන් කඩිනමින් එම ස්ථානය ගොස් ඇති අතර අනතුරට පත්වූවන් මුදා ගැනීමේ මෙහෙයුම් මේ වන විට ක්‍රියාත්මක වේ.
+Several vehicles traveling through the bridge, which is more than 2.6 miles (1.6 miles), have fallen into the Pattapsco.
 
-නාගරික බලධාරීන් පවසන්නේ, දේශීය වේලාවෙන් අලුයම 01:30ට (මෙරට වේලාවෙන් පෙරවරු 11ට) වසර 47ක් පැරණි පාලම මත නෞකාවක් ගැටීමෙන් එය කඩා වැටී ඇති බව ය.
+According to the Baltimore FireSrome Services Department, about 20 people have fallen into the water.
+
+The sudden relief officer has gone to the place, and the release of the victims are currently in operation.
+
+Municipal Authorities say that it has collapsed on the 47th bridge on the 47th bridge over the 47th bridge.
+
+They said several vehicles, including a tractor tractor, "they said.
+
+According to the data reports, the cargo carrier named Dali, with Singapore Flag, was sailing to the Colombo Port in Sri Lanka.
+
+According to the Ocean Radar system, it has left Port Bres Harbor to 00.45 00.45.
 
 ...
 
 [Data](articles/d321909a.json)
+
+[Extended Data](ext_articles/d321909a.ext.json)
 
 ---
 
@@ -2245,55 +2299,5 @@ The suspect was the 24 -year -old from Dehiwala area. Kalkissa police are conduc
 [Data](articles/369eba1e.json)
 
 [Extended Data](ext_articles/369eba1e.ext.json)
-
----
-
-### Life jail for former president of the Chinese Football Association
-
-*2024-03-26 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179714) · `ta`
-
-Former Chinese Football Association president Sen Shywan sentenced to life imprisonment for receiving $11 million in bribes, causing serious consequences in the country's football sector.
-
-🟩
-
-The court has sentenced him to life imprisonment in a bribery charges against former Chinese Football Association, Sen Shywan.
-
-Shiwan was accused of receiving bribes worth $ 11 million.
-
-The magazine run by the Chinese Communist Party said that the amount of bribes received by Shiyuan was huge and he had contributed serious consequences to the country's football sector.
-
-◼️
-
-[Data](articles/c092f596.json)
-
-[Extended Data](ext_articles/c092f596.ext.json)
-
----
-
-### Arresting fake doctor who provided employment
-
-*2024-03-26 11:52:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலைவாய்ப்பு-வழங்கிய-போலி-மருத்துவர்-கைது/175-335209) · `ta`
-
-SLFEB officials arrest a man for defrauding Rs 7.65M by pretending to provide employment in Israel's agricultural sector. He invited victims to the Ministry and Bureau, using the names of top officials. The suspect, from Colombo, has been remanded until April 3. Further investigations are ongoing.
-
-🟩
-
-Special Investigation Department officials of the Sri Lanka Foreign Employment Bureau (SLFEB) have arrested a man who defrauded the names of the top officials of the Labor and Foreign Employment Ministry for allegedly providing employment opportunities in the agricultural sector in Israel.
-
-The suspect living in Wijerama Mawatha, Colombo, Colombo 07, said that he could provide foreign jobs through the Ministry of Labor and Foreign Employment, he said.
-
-He has invited people to the Foreign Employment Ministry and the Foreign Employment Bureau in Narahenpita to get the money.
-
-Investigations have revealed that the suspect has defrauded Rs 7,650,000. He has been arrested in the Labor and Foreign Employment Ministry on the basis of a complaint lodged by a person who paid him.
-
-The suspect has been produced before the Colombo Magistrate's Court and has been ordered to be remanded until April 3.
-
-Further investigations are ongoing as the wife of the suspect who helped the scam has gone into hiding.
-
-...
-
-[Data](articles/233fe490.json)
-
-[Extended Data](ext_articles/233fe490.ext.json)
 
 ---

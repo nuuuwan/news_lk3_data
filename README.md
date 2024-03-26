@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 18:09:57**
+As of **2024-03-26 18:21:00**
 
 ## Newspaper Stats
 
-*Scraped **15,313** Articles*
+*Scraped **15,317** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,54 +15,134 @@ newsfirstlk | 363
 dailyftlk | 819
 economynextcom | 821
 islandlk | 845
-adalk | 1,306
+adalk | 1,307
 adaderanalk | 1,839
 tamilmirrorlk | 1,841
 virakesarilk | 2,163
-dailymirrorlk | 2,364
-adaderanasinhalalk | 2,459
+dailymirrorlk | 2,366
+adaderanasinhalalk | 2,460
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,311 (100.0%) of 15,313 articles have been extended.
+15,313 (100.0%) of 15,317 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### පාතාලේ 12ක් කොටුකරගත් මෙහෙයුම
+### පොහොට්ටු මැයි දින රැළිය කැම්බල් පිටියේ
+
+*2024-03-26 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194964) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණ මෙවර මැයි දින රැළිය කොළඹ කැම්බල් පිටියේ පවත්වන බව පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතා පවසයි.
+
+ඔහු තවදුරටත් පැවසුවේ ඉදිරියේදී මුලින් එන්නේ මහ මැතිවරණයක්ද ජනාධිපතිවරණයක්ද කියලා ඔවුන් ට තීරණය කළ නොහැකි බවත් එය තීරණය කළ යුත්තේ රජය හෝ මැතිවරණ කොමිසම බවත් ය.
+
+එහෙත් ශ්‍රී ලංකා පොදුජන පෙරමුණ ඕනෑම මැතිවරණයකට සූදානම් බව අලුත්ගමගේ මහතා පැවසීය.
+
+◼️
+
+[Data](articles/6338eabc.json)
+
+---
+
+### Women’s Asia Cup 2024 to be held in Dambulla
+
+*2024-03-26 17:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Womens-Asia-Cup-2024-to-be-held-in-Dambulla/108-279645) · `en`
+
+Mar. 26 (SLC) - The Asian Cricket Council (ACC) has announced the upcoming Women's Asia Cup 2024, scheduled to take place in Dambulla, Sri Lanka, from July 19th to July 28th, 2024.
+
+This edition of the tournament will feature eight teams, one more than the previous edition in 2022, indicating the growing interest and participation in women's cricket across Asia.
+
+Joining the cricketing powerhouses of India, Pakistan, Sri Lanka, and Bangladesh will be the semi-finalists of the Women's Premier Cup 2024 - UAE, Malaysia, Nepal, and Thailand. The increased participation promises to make this tournament even more competitive and thrilling for cricket fans across the region.
+
+In line with the ACC's vision for inclusivity and equality in cricket, the Women's Asia Cup 2024 will continue the tradition of having all female referees and umpires, following the successful implementation of the same in the previous edition.
+
+◼️
+
+[Data](articles/1fffbdab.json)
+
+---
+
+### The operation of the 12-style station
 
 *2024-03-26 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194963) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් අත්අඩංගුවට ගැනීම සඳහා පොලිස්පතිවරයාගේ උපදෙස් මත ආරම්භ කළ විශේෂ මෙහෙයුමේදී ඊයේ දිනයේ සැකකරුවන් 12ක් අත්අඩංගුවට ගෙන තිබේ.
+12 suspects, including 11 racketeers, arrested in Colombo, Ganemulla, Moratuwa, Panadura, Kalubowitiyana, and Hikkaduwa. Members of Rathusu, Borahewa, Kajiani, Kajipani, Dematunga, and Sanjiva.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ කොළඹ, ගනේමුල්ල, මොරටුව, පානදුර, කළුබෝවිටියන සහ හික්කඩුව යන ප්‍රදේශවල පදිංචි ජාවාරම්කරුවන් 11 දෙනෙක් සහ ජාවාරම්කාරියකි.
+🟩
 
-මෙම සැකකරුවන් පොඩි ලැසී, රත්ගම විදුර, බොරලහේවගේ ධනුෂ්ක, කුඩු සළිඳු, කුඩු අංජු, කෙසෙල්වත්තේ දිනුක, කංජිපානි ඉම්රාන්, දෙමටගොඩ චමින්ද සහ ගණේමුල්ලේ සංජිව යන සංවිධානාත්මක අපරාධකරුවන්ගේ කණ්ඩායම්වල සාමාජිකයින් බව පොලීසිය පවසයි.
+12 suspects were arrested yesterday at the special operation of the IGP to arrest organized crime gang members.
+
+The arrested persons were 11 racketeers and racketeer in Colombo, Ganemulla, Moratuwa, Panadura, Kalubowitiyana and Hikkaduwa.
+
+The suspects are members of the bunch of these suspects, Rathusu, Borahewa, Borahewa, Kajiani, Kajipani, Dematunga, Dematunga, Dematunga and Sanjiva.
 
 ◼️
 
 [Data](articles/fefc7357.json)
 
+[Extended Data](ext_articles/fefc7357.ext.json)
+
 ---
 
-### பாக்கிஸ்தானில் தற்கொலை குண்டுதாக்குதல் - ஐந்து சீன பிரஜைகள் பலி
+### Russian - Sri Lankan soldiers killed in Ukraine war fields;Russia who went to escape poverty
+
+*2024-03-26 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179766) · `ta`
+
+Sri Lankan soldiers in Ukraine face danger, including attacks by unmanned planes. Senakabandara, injured, was evacuated. He and Silva were working in Russia to escape poverty. Hundreds of Sri Lankans fight for $3,000, with many more seeking employment with the Russian army. Economic downturn and political unrest in Sri Lanka led to widespread poverty, forcing some to join the Russian army for better income.
+
+🟩
+
+Senakabandara, who was seriously injured in the Ukraine attack on a bunker of the Russian soldiers in the Donotsk region, was safely evacuated from the country.
+
+Senaka said that the condition of expert Silva was worse than that.
+
+Ukraine's unmanned planes attacked the bunkers in the Tontsk area occupied by Russia when the two Sri Lankans retreated from the scene due to heavy attacks.
+
+"Ukraine's unmanned planes were involved in a fierce attack," he said.
+
+When I was hanging out, I was once again the unmanned air strike of Ukraine on the final bunker.
+
+He said this while receiving treatment at the Donetsk Hospital in Eastern Ukraine.
+
+He told Al Jazeera that we don't think this would be so dangerous.
+
+He said that Russian authorities had asked them to work on bunkers in Tontsk.
+
+But we did not know that there was an attack. He and his friend described how he and his friend were in Russia's supporting army and sent two months of exercise and then sent to the front.
+
+...
+
+[Data](articles/7691b74c.json)
+
+[Extended Data](ext_articles/7691b74c.ext.json)
+
+---
+
+### Suicide bombing in Pakistan - five Chinese citizens killed
 
 *2024-03-26 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/179775) · `ta`
 
-பாக்கிஸ்தானின் வடமேற்கு பகுதியில் சீன பிரஜைகள் பயணித்த வாகனத்தொடரணி மீதுதற்கொலை குண்டுதாரியொருவர் தாக்குதலை மேற்கொண்டார் என இராணுவ அதிகாரியொருவர் தெரிவித்துள்ளார்.
+A suicide bombing in Pakistan's northwest killed five Chinese citizens and a Pakistani. The attack targeted Chinese engineers traveling from Islamabad to Dasu, Khyber Pakhtunwa. This incident follows a 2021 bus bombing that killed nine Chinese nationals.
 
-கைபர் பக்துன்வா மாகாணத்தின் டசுவில் உள்ள தங்கள் முகாமிற்கு இஸ்லாமபாத்திலிருந்து சீன பொறியியலாளர்கள் வாகனத்தில் சென்றுகொண்டிருந்தனர் அவ்வேளை தற்கொலை குண்டுதாரி தனது வாகனத்தை அவர்களின் வாகனத்தை நோக்கி செலுத்தி வெடிக்கவைத்தார் என  இராணுவ அதிகாரி தெரிவித்துள்ளார்.
+🟩
 
-ஐந்து சீன பிரஜைகளும் அவர்களின் வாகனச்சாரதியான பாக்கிஸ்தான் பிரஜையும் கொல்லப்பட்டுள்ளனர் என அவர் குறிப்பிட்டுள்ளார்.
+A military official said that a murder bomb was attacked on a vehicle that was traveling in Chinese citizens in Pakistan's northwestern part of Pakistan.
 
-தாசு என்பது முக்கியமான நீர்மின்நிலையத்திற்கான அணையாகும்.இதனை சீன நிறுவனம் உருவாக்கிவருகின்றது இதேவேளை இந்த பகுதியில் கடந்த காலங்களிலும் தாக்குதல்கள் இடம்பெற்றுள்ளன,2021 இல் பேருந்தில் இடம்பெற்ற குண்டுவெடிப்பில் 9 சீன பிரஜைகள் கொல்லப்பட்டனர்.
+Chinese engineers were traveling from Islamabad to their camp in Dasu, Khyber Pakhtunwa province, and the suicide bomber drove his vehicle to their vehicle, said an army official.
+
+He noted that five Chinese citizens and their vehicle, Pakistan citizen, have been killed.
+
+Dasu is a dam for the main hydraulic station. The Chinese company has been creating attacks in the past and nine Chinese nationals were killed in a bus bomb in 2021.
 
 ◼️
 
 [Data](articles/5e40df54.json)
+
+[Extended Data](ext_articles/5e40df54.ext.json)
 
 ---
 
@@ -152,6 +232,22 @@ Since the morning, the police have been strengthened in the Kalutara Nagar and K
 
 ---
 
+### Higher passenger and aircraft movements at airports
+
+*2024-03-26 17:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Higher-passenger-and-aircraft-movements-at-airports/108-279643) · `en`
+
+Colombo, March 26 (Daily Mirror) - By the end of February 2024, Sri Lanka airports had recorded 1,602,417 international passenger movements and 8,946 international aircraft movements, Airport and Aviation Services (Sri Lanka) (Pvt) Limited  (AASL) Chairman Eng. Athula Galketiya said.
+
+Compared with the same period in 2023, the growth of the increase in international passenger movements in 2024 is approximately 40.39%, while the increase in international aircraft movements is approximately 30.77 %.
+
+Comparing the number of tourists who visited Sri Lanka by air in 2023 and 2024, the percentage of tourists arriving in 2023 shows an increase of 104.65%, and the total tourist arrivals by air up to the end of February were 425,532.
+
+◼️
+
+[Data](articles/fa9c94db.json)
+
+---
+
 ### Second Look Poster of 'Genini' starring Jayam Ravi
 
 *2024-03-26 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/179772) · `ta`
@@ -211,40 +307,6 @@ The tournament will be held from July 19 to 28 at the Dambulla International Cri
 [Data](articles/3487f72f.json)
 
 [Extended Data](ext_articles/3487f72f.ext.json)
-
----
-
-### Russian - Sri Lankan soldiers killed in Ukraine war fields;Russia who went to escape poverty
-
-*2024-03-26 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179766) · `ta`
-
-Sri Lankan soldiers in Ukraine face danger, including attacks by unmanned planes. Senakabandara, injured, was evacuated. He and Silva were working in Russia to escape poverty. Hundreds of Sri Lankans fight for $3,000, with many more seeking employment with the Russian army. Economic downturn and political unrest in Sri Lanka led to widespread poverty, forcing some to join the Russian army for better income.
-
-🟩
-
-Senakabandara, who was seriously injured in the Ukraine attack on a bunker of the Russian soldiers in the Donotsk region, was safely evacuated from the country.
-
-Senaka said that the condition of expert Silva was worse than that.
-
-Ukraine's unmanned planes attacked the bunkers in the Tontsk area occupied by Russia when the two Sri Lankans retreated from the scene due to heavy attacks.
-
-"Ukraine's unmanned planes were involved in a fierce attack," he said.
-
-When I was hanging out, I was once again the unmanned air strike of Ukraine on the final bunker.
-
-He said this while receiving treatment at the Donetsk Hospital in Eastern Ukraine.
-
-He told Al Jazeera that we don't think this would be so dangerous.
-
-He said that Russian authorities had asked them to work on bunkers in Tontsk.
-
-But we did not know that there was an attack. He and his friend described how he and his friend were in Russia's supporting army and sent two months of exercise and then sent to the front.
-
-...
-
-[Data](articles/7691b74c.json)
-
-[Extended Data](ext_articles/7691b74c.ext.json)
 
 ---
 
@@ -908,6 +970,22 @@ It was reported that several vehicles have fallen into the river and there are r
 
 ---
 
+### පැෂන් පෘට් නිෂ්පාදන තාක්ෂණික ආදර්ශ උද්‍යානය විවෘත කරයි
+
+*2024-03-26 14:48:28* · [`adalk`](https://www.ada.lk/breaking_news/පැෂන්-පෘට්-නිෂ්පාදන-තාක්ෂණික-ආදර්ශ-උද්‍යානය-විවෘත-කරයි/11-408808) · `si`
+
+කිලිනොච්චි අක්කරායන්කුලම් හි අක්කර 100ක පැෂන් පෘට් වගාව ආශ්‍රිතව ස්ථාපිත කළ පැෂන් පෘට් නිෂ්පාදන තාක්ෂණික ආදර්ශ උද්‍යානය හා ශ්‍රී ලංකාවේ පළමු ජම්බෝ රටකජු නිෂ්පාදන ගොවි සමාගම කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතාගේ සුරතින් පසුගියදා  අක්කරායන්කුළම් හි දී විවෘත විය.
+
+ගොවීන් 200 දෙනෙක් විසින් පැෂන් පෘට් වගාව ආරම්භ කර ඇති අතර එම ගොවීන්ගේ සහභාගිත්වයෙන් පැෂන් පෘට් නිෂ්පාදන ගොවි කර්මාන්ත ශාලාව ද ආරම්භ කර ඇත. අපනයනය මෙන්ම දේශීය වෙළෙඳපල ද ඉළක්ක කර ගනිමින් මෙම පැෂන් පෘට් වගාව සැලසුම් කර තිබේ. නව තාක්ෂණික ක්‍රම උපයෝගී කර ගනිමින් වැඩි අස්වැන්නක් ලබා ගත හැකි වන පරිදි ගොවීන් විසින් මෙම උද්‍යානය තුළ පැෂන් පෘට් වගා කරනු ලබයි.‍ෙ
+
+කෘෂිකර්ම හා වැවීලි කර්මාන්ත අමාත්‍යාංශය යටතේ ඇති කෘෂි අංශ නවීකරණ ව්‍යාපෘතිය විසින් හදුන්වාදුන් කිළිනොච්චි අක්කරායන්කුළම් හි අක්කර 100ක පැෂන් පෘට් වගාව ආශ්‍රිතව ක්‍රියාත්මක කර තිබෙන පැෂන් පෘට් නිෂ්පාදන තාක්ෂණික ආදර්ශ උද්‍යානය කටයුතු මේ වනවිට අවසන් කර ඇත.
+
+...
+
+[Data](articles/cc8225f0.json)
+
+---
+
 ### Increasing dissatisfaction in the North and East amidst storytelling on reconciliation
 
 *2024-03-26 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179749) · `ta`
@@ -1034,6 +1112,8 @@ The Baltimore City Fire Department described the collapse as a mass-casualty inc
 
 *2024-03-26 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98214/major-us-bridge-collapses-after-being-hit-by-colombo-bound-ship) · `en`
 
+The Francis Scott Key Bridge in #US city #Baltimore collapsed on Tue following a ship collision, CNN reported. Traffic is being redirected, and it remains uncertain if there were any injuries.pic.twitter.com/6q5smwGLWD— Global Times (@globaltimesnews) March 26, 2024
+
 Baltimore’s Key Bridge has collapsed after it was hit by a container ship, sending cars that were crossing at the time plunging into the waters of the Patapsco River.
 
 At least seven people are believed to be in the water and rescue efforts are ongoing at the site of the collapse, according to the Baltimore Fire Department.
@@ -1041,8 +1121,6 @@ At least seven people are believed to be in the water and rescue efforts are ong
 Multiple videos shared on social media showed a large cargo ship ramming into one of the bridge’s support pillars, causing it to come crashing down into the river.
 
 A large portion of the Francis Scott Key Bridge is now under water, as flight tracking website FlightRadar24 showed the Maryland State Police circling the site of the crash in a helicopter.
-
-Kevin Cartwright, director of communications for the fire department, said the city was dealing with a “developing mass casualty incident”.
 
 ...
 
@@ -2205,103 +2283,5 @@ From the 19th and Southern Province, the Western Province and Southern Province 
 [Data](articles/f6201c4c.json)
 
 [Extended Data](ext_articles/f6201c4c.ext.json)
-
----
-
-### Missing of T-56 firearm and ammunition
-
-*2024-03-26 11:07:16* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියේ-ටී56-ගිණි-අවිය-සහ-පතුරම්-සහිත-මැගසීනය-අතුරුදන්/11-408802) · `si`
-
-T-56 firearm and ammunition missing since 25th; investigations ongoing in several areas.
-
-🟩
-
-The T-56 T-56 T-56 T-56 T-56-firearm and ammunition have been disappeared yesterday (25).
-
-Several areas are already conducting investigations into the disappearance of firearm.
-
-◼️
-
-[Data](articles/64752486.json)
-
-[Extended Data](ext_articles/64752486.ext.json)
-
----
-
-### Visit to Kenya's Security Headquarters
-
-*2024-03-26 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179708) · `ta`
-
-Major General Shavendra Silva, Sri Lanka's security chief, visited Kenya's Security Headquarters, discussing military cooperation, including joint exercises and peace support. He met with Kenya's security forces leaders, emphasizing continued collaboration in modernization and regulation. Silva also toured the Uhuru Gardens National Monument and Museum, and is expected to visit the National Security College and the International Peace Support Training Center.
-
-🟩
-
-Major General Shavendra Silva, the chief of the Sri Lankan security forces, who visited Kenya on Monday (25), visited the Security Headquarters in Nairobi.
-
-General Francis Ogollah welcomed General Shavendra Silva, president of Kenya's security forces.
-
-Shavendra Silva held a discussion with the Kenya Kenya Security Forces, Vice President of the Security Forces, Service Commander and the General of Kenya Security Forces and senior officials.
-
-A number of issues were discussed, such as strengthening bilateral military ties between Kenya and Sri Lanka, conducting joint military exercises, improving military skills and engaging in peace support.
-
-The two military leaders have stated their commitment to ensuring that the two countries continue to work together in modernization and regulation of their activities.
-
-Shavendra Silva visited the Uhuru Gardens National Monument and Museum (UGNM & M). There he was welcomed by Director Colonel Catherine Lakat.
-
-...
-
-[Data](articles/35a2de0a.json)
-
-[Extended Data](ext_articles/35a2de0a.ext.json)
-
----
-
-### Trouble for female lawyer
-
-*2024-03-26 10:57:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/மென்று-துப்பிய-பெண்-வழக்கறிஞருக்கு-சிக்கல்/94-335204) · `ta`
-
-The Supreme Court suspends a female lawyer for 12 years for violating industrial norms, destroying case documents. The case was heard by Chief Justice Jayantha Jayasuriya and other judges. The Attorney General accused her of forcibly destroying a case document.
-
-🟩
-
-The Supreme Court on Monday (25) has decided to suspend the lawyer from the lawyer until the case is over, destroying the document in the case and destroying the lawyer.
-
-Chief Justice Jayantha Jayasuriya has said that the action of the defendant who has been a lawyer for 12 years should be considered a serious measure.
-
-The case was filed on charges of violating industrial norms against the lawyer.
-
-The petition was considered in the presence of a panel of judges comprising Chief Justice Jayantha Jayasuriya, High Court Judges Gamini Amarasekera and AHMD and Nawaz.
-
-The Attorney General has put forward the case against the defendant lawyer on charges of incorporating a lawyer by forcibly destroying a case document in the office of the Kekirawa Magistrate's Court Registrar.
-
-Considering the arguments put forward when the case was taken up, a panel of judges ordered the hearing of the case against the prosecutor on April 2 for violating professional ethics.
-
-◼️
-
-[Data](articles/86c8ab11.json)
-
-[Extended Data](ext_articles/86c8ab11.ext.json)
-
----
-
-### Youth who died in a trap of fish
-
-*2024-03-26 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179713) · `ta`
-
-A young man in Punanai, Batticaloa, died in a fishing trap. His father filed a complaint with the Vazhachanai police. The deceased was unemployed due to illness and trapped while fishing.
-
-🟩
-
-A young man who was fishing in a pond in Punanai, Batticaloa, Batticaloa, died in a trap he used.
-
-The father of the deceased has lodged a complaint with the Vazhachanai police on Monday (25).
-
-Investigations have revealed that the deceased was unemployed at home due to illness and that he was trapped in a fishing in the pond yesterday.
-
-◼️
-
-[Data](articles/0d46f0c7.json)
-
-[Extended Data](ext_articles/0d46f0c7.ext.json)
 
 ---

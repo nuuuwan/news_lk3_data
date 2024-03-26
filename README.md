@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 14:04:11**
+As of **2024-03-26 14:18:00**
 
 ## Newspaper Stats
 
-*Scraped **15,253** Articles*
+*Scraped **15,257** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 819
 economynextcom | 821
 islandlk | 843
-adalk | 1,296
-adaderanalk | 1,831
-tamilmirrorlk | 1,836
+adalk | 1,298
+adaderanalk | 1,832
+tamilmirrorlk | 1,837
 virakesarilk | 2,146
 dailymirrorlk | 2,356
 adaderanasinhalalk | 2,449
@@ -26,11 +26,63 @@ adaderanasinhalalk | 2,449
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,250 (100.0%) of 15,253 articles have been extended.
+15,253 (100.0%) of 15,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### கீரிமலை அளவீடு:  எதிர்ப்பால் கைவிடப்பட்டது
+
+*2024-03-26 14:05:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கீரிமலை-அளவீடு-எதிர்ப்பால்-கைவிடப்பட்டது/71-335215) · `ta`
+
+யாழ்ப்பாணம் - கீரிமலை ஜனாதிபதி மாளிகை அமைந்துள்ள பகுதியை நகர அபிவிருத்தி நடவடிக்கைக்காக சுவீகரிக்கும் அடிப்படையில் அளவீடுகள் செய்வதற்கு நில அளவைத்திணைக்கள அதிகாரிகள் செவ்வாய்க்கிழமை (26) காலை 10 மணியளவில் வருகை தந்திருந்தனர்.
+
+இதன்போது குறித்த காணி அளவீட்டுக்கு காணி உரிமையாளர்கள் மற்றும் பொதுமக்கள் எதிர்ப்பை வெளியிட்டதுடன் நில அளவைத்திணைக்களத்தின் வாகனத்தையும் இடைமறித்தனர்.
+
+காணி உரிமையாளர்களின் நீண்ட நேர எதிர்ப்பினை அடுத்து காணியினை அளவீடு செய்வதற்கு தமக்கு விருப்பம் இல்லை என காணி உரிமையாளர்கள் கடிதம் எழுதி கையொப்பமிட்டு வழங்கியதை அடுத்து நில அளவைத்திணைக்கள அதிகாரிகள் அங்கிருந்து திரும்பிச் சென்றனர்.
+
+தெல்லிப்பளை பிரதேச செயலக பிரிவின்கீழ் உள்ள நகுலேஸ்வரம் (ஜே/226), காங்கேசன்துறை (ஜே/233) கிராம சேவகர் பிரிவுகளில் உள்ள ஆழ்வான்மலையடி, வேலர்காடு, புண்ணன்புதுக்காடு, பத்திராயான், புதுக்காடு, சோலைசேனாதிராயன் என அழைக்கப்படும் பகுதிகளில் 12.0399 கெக்டேயர் ( 29 ஏக்கர் 3 றூட் 0.20 பேர்ச் ) நிலம் அளவீடு செய்வதற்கு திட்டமிடப்பட்டிருந்தது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/63d33461.json)
+
+---
+
+### මැතිවරණ ක්‍රමය සංශෝධනයෙන් කිසිම මැතිවරණයක් කල් දාන්නේ නෑ
+
+*2024-03-26 14:01:43* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-ක්‍රමය-සංශෝධනයෙන්-කිසිම-මැතිවරණයක්-කල්-දාන්නේ-නෑ/11-408804) · `si`
+
+පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන මැතිවරණ සංශෝධන පනත්‍ කෙටුම්පත් හේතුවෙන් කිසිදු මැතිවරණයක් කල් දැමීමට අපේක්ෂා නොකරන බව අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ජනාධිපති නීතීඥ, ආචාර්ය විජයදාස රාජපක්ෂ මහතා පැවසීය.
+
+1994 සිට ජනාධිපතිවරණවලදි දූෂණයට එරෙහිවීම හා මැතිවරණ ක්‍රමය සංශෝධනය කිරීමට පොරොන්දු ලබාදී ඇති නමුත් ඒ කිසිවක් ඉටු නොකළ බව පෙන්වාදුන් අමාත්‍යවරයා වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා දූෂණයට වැට බැඳීම සහ සමානුපාතික මැතිවරණ ක්‍රමයක් හඳුන්වාදීම වෙනුවෙන් මේ වනවිටත් සංශෝධන ඉදිරිපත් කර තිබෙන බවද සඳහන් කළේය.
+
+අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ජනාධිපති නීතිඥ ආචාර්ය විජයදාස රාජපක්ෂ මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+...
+
+[Data](articles/fbc0b16d.json)
+
+---
+
+### CBSL governor explains why Parate Law suspension is ‘not good’
+
+*2024-03-26 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98213/cbsl-governor-explains-why-parate-law-suspension-is-not-good-) · `en`
+
+The Governor of Central Bank of Sri Lanka (CBSL), Dr. Nandalal Weerasinghe on Tuesday (March 26), asserted that he would not resign over the controversy surrounding the salary increase.
+
+During the Q&A session of the special media briefing convened at the CBSL to present the second Monetary Policy Review of 2024, the Governor spoke of his duty towards his employees as the head of the institution.
+
+Speaking further, he commented that the Central Bank’s duty towards the country includes implementation of the monetary policy, and maintaining the stability of the banking system under the CBSL Act, adding that “as the head of the institution, I have a separate duty towards my staff members.”
+
+Responding to media queries, Dr. Weerasinghe underscored that it is the responsibility of institutions, both public and private, to ‘look after’ their employees, within their legal framework and capacity, at times like these.
+
+...
+
+[Data](articles/2ca5ede7.json)
+
+---
 
 ### Shifting of expressway network from RDA to Sahasya Investment Limited approved
 
@@ -47,6 +99,8 @@ Accordingly, the proposal presented by the Transport and Highways Minister is to
 ◼️
 
 [Data](articles/d4ff2835.json)
+
+[Extended Data](ext_articles/d4ff2835.ext.json)
 
 ---
 
@@ -69,6 +123,8 @@ Baltimore City Fire Department’s communications chief Kevin Cartwright has cal
 ◼️
 
 [Data](articles/3324d3a4.json)
+
+[Extended Data](ext_articles/3324d3a4.ext.json)
 
 ---
 
@@ -95,6 +151,8 @@ Former President Mahinda Rajapaksa visited the Russian Embassy in Colombo today 
 ◼️
 
 [Data](articles/43f9a3e1.json)
+
+[Extended Data](ext_articles/43f9a3e1.ext.json)
 
 ---
 
@@ -917,6 +975,20 @@ From the 19th and Southern Province, the Western Province and Southern Province 
 [Data](articles/f6201c4c.json)
 
 [Extended Data](ext_articles/f6201c4c.ext.json)
+
+---
+
+### පොලීසියේ ටී56 ගිණි අවිය සහ පතුරම් සහිත මැගසීනය අතුරුදන්
+
+*2024-03-26 11:07:16* · [`adalk`](https://www.ada.lk/breaking_news/පොලීසියේ-ටී56-ගිණි-අවිය-සහ-පතුරම්-සහිත-මැගසීනය-අතුරුදන්/11-408802) · `si`
+
+ඊයේ (25) රාත්‍රිෙය් විල්ගමුව පොලිස්ථානයේ අනුයුක්ත රාජකාරියේ යෙදි සිටි නිලධාරියෙකු සතු ටී 56 ගිණි අවිය සහ පතුරම් සහිත මැගසීනය අතුරුදන් වී ඇතැයි පොලිස් මාධ්‍ය කොට්ඨාශය පවසයි.
+
+ගිනි අවිය අතුරුදන් වීම සම්බන්ධයෙන් මේ වන විටත් පැති කිහිපයක් ඔස්සේ පරික්ෂණ පවත්වයි.
+
+◼️
+
+[Data](articles/64752486.json)
 
 ---
 
@@ -2185,93 +2257,5 @@ The court must decide whether or not the suspect is guilty of the prosecutor.
 [Data](articles/c9b12745.json)
 
 [Extended Data](ext_articles/c9b12745.ext.json)
-
----
-
-### Bus drivers in Badulla clash
-
-*2024-03-26 00:31:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதுளையில்-பஸ்-சாரதிகளுக்கிடையில்-மோதல்/175-335189) · `ta`
-
-A clash between private and state bus workers in Badulla led to the death of a private bus driver, state bus driver, and conductor, with two injured civil servants arrested.
-
-🟩
-
-A clash between private bus workers in Badulla and state bus workers on the same route was clashed at the Badulla Central Bus Station yesterday evening.
-
-The Badulla police said that two injured civil servants have been admitted to the Badulla Teaching Hospital and have been arrested on suspicion of a private bus driver and assistant.
-
-During the argument over the bus run, police said that a private bus driver, the state bus driver and the conductor were stabbed to death with a knife.. (A)
-
-◼️
-
-[Data](articles/89c534f9.json)
-
-[Extended Data](ext_articles/89c534f9.ext.json)
-
----
-
-### Model election will not be postponed
-
-*2024-03-26 00:21:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-ஒத்திவைக்கப்பட-மாட்டாது/175-335188) · `ta`
-
-Vijayadasa Rajapaksa, Minister of Justice, clarified that the Elections amendment filed in Parliament will not postpone the upcoming elections. Despite community speculation, the amendments are not expected to delay the elections. Two future elections will allow candidates to express their views on the amendment, leaving the public to decide.
-
-🟩
-
-Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapaksa said that no election is expected to be delayed through the Elections amendment filed in Parliament.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
-
-There have been some talks in the community that there is a plan to postpone the election through the election amendments.. But it is important to note that these amendments are not expected to postpone the election.
-
-There will be two elections in the future. At the time, any candidate can make their opinion on this election amendment. He said the public could make their decision on this. (A)
-
-◼️
-
-[Data](articles/0b71859c.json)
-
-[Extended Data](ext_articles/0b71859c.ext.json)
-
----
-
-### Action to reduce the price of large onions
-
-*2024-03-26 00:15:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரிய-வெங்காயத்தின்-விலையை-குறைக்க-நடவடிக்கை/175-335187) · `ta`
-
-Commerce Minister Nalin Fernando announced measures to lower the price of large onions during the New Year, aiming for a price range of 375 to 400 rupees.
-
-🟩
-
-Commerce Minister Nalin Fernando said steps have been taken to reduce the price of big onions during the New Year.
-
-He also said that the price of big onions during the festive season is expected to pay 375 to 400 rupees.. (A)
-
-◼️
-
-[Data](articles/3130c9a3.json)
-
-[Extended Data](ext_articles/3130c9a3.ext.json)
-
----
-
-### Increase in juvenile export income
-
-*2024-03-26 00:09:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளநீர்-ஏற்றுமதி-வருமானம்-அதிகரிப்பு/175-335186) · `ta`
-
-Sri Lanka's juvenile export income in February increased by 734 million rupees to 3,439 million rupees, up from 2,705 million rupees in the same month last year.
-
-🟩
-
-In Sri Lanka last February, 3, 439 million rupees was earned by juvenile exports.
-
-According to the Coconut Export Authority, the revenue has increased by 734 million rupees in February last year.
-
-At the same time, in February last year, the income was earned by 2, 705 rupees.. (A)
-
-◼️
-
-[Data](articles/69f69def.json)
-
-[Extended Data](ext_articles/69f69def.ext.json)
 
 ---

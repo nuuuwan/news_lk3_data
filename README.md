@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 23:33:51**
+As of **2024-03-26 23:52:35**
 
 ## Newspaper Stats
 
-*Scraped **15,355** Articles*
+*Scraped **15,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,42 @@ bbccomsinhala | 164
 dbsjeyarajcom | 192
 newsfirstlk | 363
 dailyftlk | 819
-economynextcom | 821
+economynextcom | 832
 islandlk | 845
 adalk | 1,312
 adaderanalk | 1,843
 tamilmirrorlk | 1,844
 virakesarilk | 2,169
-dailymirrorlk | 2,376
+dailymirrorlk | 2,377
 adaderanasinhalalk | 2,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,355 (100.0%) of 15,355 articles have been extended.
+15,355 (99.9%) of 15,367 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### Eyes on T20 World Cup as South Africa prepare for Sri Lanka series
+
+*2024-03-26 23:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Eyes-on-T20-World-Cup-as-South-Africa-prepare-for-Sri-Lanka-series/108-279675) · `en`
+
+Mar. 26 (ICC) - South Africa Women are prepared to play six limited-overs games against Sri Lanka at home starting Wednesday.
+
+South Africa will host Sri Lanka in a three-match T20I series, followed by as many ODIs, that will also form a part of the ICC Women’s Championship 2022-25 cycle.
+
+As the preparations begin for the bilateral series, Proteas skipper Laura Wolvaardt has insisted that the series is "very crucial" for the hosts in the build up towards the ICC Women's T20 World Cup later this year in Bangladesh.
+
+“We don't have much cricket left as a group before the World Cup, so these three T20Is are very important just to try different combinations and to finalize that starting XI that we'd like to have for the World Cup,” Wolvaardt said in the pre-match press conference.
+
+...
+
+[Data](articles/60453976.json)
+
+---
 
 ### Nine agreements signed on China-Sri Lanka cooperation
 
@@ -926,6 +944,28 @@ Dasu is a dam for the main hydraulic station. The Chinese company has been creat
 
 ---
 
+### Sri Lanka banks to set up business revival units for troubled borrowers: central bank
+
+*2024-03-26 17:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-banks-to-set-up-business-revival-units-for-troubled-borrowers-central-bank-156219/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s banks will be directed to formally set up business revival units that will help re-structure companies whose loans have gone bad, the central bank said.
+
+Business revival units were required to be set up initially during the covid pandemic, but now they will be made a permanent service of banks.
+
+“We hope to issue a directive next month, for banks to set up BRUs which will help guide and strengthen small and medium enterprises,” Governor Weerasinghe told reporters Tuesday.
+
+“The circular will expand the scope of the BRU.” The central bank received technical advice on this from the World Bank, and in keeping with practices in other countries.
+
+Senior Deputy Governor Yvette Fernando said revival units will identify businesses that can be revived.
+
+“There will be some criteria,” companies that fit the criteria will be guided to restructure after “a policy is approved on what type of institutions will be subject to it.”
+
+...
+
+[Data](articles/c46c8360.json)
+
+---
+
 ### Investigations into the assets of 20 more arrested
 
 *2024-03-26 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179757) · `ta`
@@ -1092,6 +1132,24 @@ The tournament will be held from July 19 to 28 at the Dambulla International Cri
 
 ---
 
+### Sri Lanka rupee closes at 301.90/302.00 to the US dollar
+
+*2024-03-26 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-301-90-302-00-to-the-us-dollar-156206/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 301.90/302.00 to the US dollar in the spot forex market on Tuesday, stronger from 302.60/70 on Monday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed stable at 11.30/40 percent.
+
+A bond maturing on 15.09.2027 closed at 11.90/12.05 percent up from 11.90/95 percent.
+
+A bond maturing on 15.12.2028 closed stable at 12.10/15 percent. (Colombo/Mar26/2024)
+
+◼️
+
+[Data](articles/259d5f6d.json)
+
+---
+
 ### Sri Lanka to promote registration of ships under its flag
 
 *2024-03-26 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98217/sri-lanka-to-promote-registration-of-ships-under-its-flag) · `en`
@@ -1109,6 +1167,50 @@ Ship registration is a major source of foreign exchange to the country’s econo
 [Data](articles/98eb4c5d.json)
 
 [Extended Data](ext_articles/98eb4c5d.ext.json)
+
+---
+
+### Sri Lanka stocks close up after interest rate cut
+
+*2024-03-26 16:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-after-interest-rate-cut-156200/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader All Share Index closed up 0.90 percent, or 100.73 points, at 11,335; while the S&P SL20 Index closed down 1.32 percent, or 42.38 points, at 3,262.
+
+Trades in the banks sector (1.2bn) contributed the most to the day’s turnover.
+
+Sampath Bank Plc (up at 78.80) saw 704mn worth of shares change hands.
+
+DFCC Bank Plc which also saw active volumes (280mn), closed up at 71.10.
+
+Major contributors to the Index included Hatton National Bank Plc (up at 174.25), LOLC Holdings Plc (up at 401.50), Browns Investments Plc (up at 5.50), and Commercial Bank of Ceylon Plc (up at 95.60.
+
+Sri Lanka’s central bank cut its policy corridor by 50 basis points to 8.50 percent (floor) and 9.50 percent (ceiling) on Tuesday citing stable external conditions and low inflation. (Colombo/Mar26/2024)
+
+◼️
+
+[Data](articles/396d389c.json)
+
+---
+
+### Sri Lanka CB urging banks to lower rates for SMEs despite parate suspension
+
+*2024-03-26 16:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-urging-banks-to-lower-rates-for-smes-despite-parate-suspension-156196/) · `en`
+
+ECONOMYNEXT – The central bank is urging banks to lower interest rates on loans despite the suspension of foreclosure provisions (parate execution) which makes banks more cautious, Governor Nandalal Weerasinghe said.
+
+Sri Lanka’s Justice Minister Wijedasa Rajapaksa has claimed that parate execution is archaic and hurting SMEs, and the cabinet has proposed a suspension of parate execution for both large and small borrowers.
+
+Banks have warned that it would make them more cautions in lending, and SMEs are likely to have reduced access.
+
+“It hurts small businesses rather than helps,” Governor Weerasinghe told reporters. “It is only for six months and we hope the debt recovery process will be improved.”
+
+The central bank has provided monetary stability since September 2022 and interest rates have started to fall with corrections in the deficit and also state enterprise borrowings.
+
+...
+
+[Data](articles/ad2ba3a5.json)
 
 ---
 
@@ -1486,6 +1588,28 @@ According to doctors, doctors say that although the casualties of the people who
 
 ---
 
+### Sri Lanka CB chief sees end-March FX reserves at “much higher than $4.5 bln”
+
+*2024-03-26 15:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-chief-sees-end-march-fx-reserves-at-much-higher-than-4-5-bln-156191/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s end-march foreign exchange reserves will be much higher than the end February number as the central bank has been heavily buying US dollars from the market, the Central Bank Governor said.
+
+The Gross official reserves improved to $4.5 billion by end February 2024 including a $1.4 billion swap facility from the People’s Bank of China.
+
+The central bank has been buying reserves with excess dollar inflows into the market in the absence of dampened imports and due to the non-repayment of external debts.
+
+“I can say we have been purchasing heavily from the market,” Central Bank Governor Nandalal Weerasinghe told reporters at a media briefing on Tuesday (26) after announcement of 50 basis point reduction in the key monetary policy rates.
+
+“That should be much higher than $4.5 billion,” he said referring to the end-March reserves.
+
+Currency dealers said the rupee would he appreciated further if not for the central bank buying.
+
+...
+
+[Data](articles/9b878393.json)
+
+---
+
 ### Two persons arrested for allegedly involved in iron theft at Cement Cement Factory
 
 *2024-03-26 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179758) · `ta`
@@ -1575,6 +1699,24 @@ On behalf of President Ranil Wickremasinghe and Dr. Jayampathi Wickremaratne, At
 [Data](articles/1e1cb127.json)
 
 [Extended Data](ext_articles/1e1cb127.ext.json)
+
+---
+
+### Sri Lanka economic transformation bill to establish commission, investment zones
+
+*2024-03-26 15:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-economic-transformation-bill-to-establish-commission-investment-zones-156187/) · `en`
+
+ECONOMYNEXT – Sri Lanka is preparing an “Economic Transformation Bill”, to establish an economic commission, investment zones and international trade office, Cabinet spokesman Bandula Gunawardena said.
+
+“The bill contains structural, quantitative, and qualitative changes to support future economic development,” Minister Gunawardena said.
+
+The bill will also establish the Sri Lanka Economics and International Trade Institute and National Productivity Commission, including executing “preliminary objectives” of the national policy on economic transformation.
+
+The bill is part of a series of drafted laws that are to reform Sri Lanka’s legal framework, to meet the requirements for the International Monetary Fund’s Extended Fund Facility program. (Colombo/Mar26/2024)
+
+◼️
+
+[Data](articles/4c4887bb.json)
 
 ---
 
@@ -2141,149 +2283,5 @@ Minister of Justice, Principal and Constitutional Reforms Minister Dr. Wijayadas
 [Data](articles/fbc0b16d.json)
 
 [Extended Data](ext_articles/fbc0b16d.ext.json)
-
----
-
-### Keheliya supporters who interfered journalists
-
-*2024-03-26 13:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194953) · `si`
-
-Keheliya Rambukwella, a former minister, was remanded in court for a bribe case. Supporters allegedly disrupted journalists.
-
-🟩
-
-Former Minister Keheliya Rambukwella brought to court today (26), remanded for a bribe case being heard in the Colombo High Court today.
-
-A group of people who suspect the supporters of the former minister has interrupted journalists.
-
-◼️
-
-[Data](articles/dc392660.json)
-
-[Extended Data](ext_articles/dc392660.ext.json)
-
----
-
-### Three women involved in drug racket from Dubai
-
-*2024-03-26 13:51:39* · [`adalk`](https://www.ada.lk/breaking_news/ඩුබායි-සිට-මෙහෙයවන-මත්ද්‍රව්‍ය-ජාවාරමකට-සම්බන්ධ-කාන්තාවන්-තිදෙනෙක්-අල්ලයි/11-408803) · `si`
-
-Three women from Dubai involved in drug trafficking were arrested in the Western Province of Sri Lanka with over 21370 liters of ice drugs. They are part of an organized criminal network led by Navy Ruwan, a narcotic dealer. The operation revealed more than 10 grams of drugs and a luxurious lifestyle for Navy Ruwan's wife.
-
-🟩
-
-The Western Province, the criminal area of the Western Province says three women who are conducting drug trafficking in the country's drug trafficking in Dubai.
-
-The suspects were taken into custody by 21370 liters of ice drugs in possession.
-
-The arrested persons are an organized criminal and a drug dealer, Navy Ruwan, a narcotic dealer, Navy Ruwan.
-
-Western Province under the operation of the Western Province Western Province, Dunuschka, Chandra, Chandana, Lalith Kannam and Pearl in Sri LankaAngel and Punchi's two suspects in the area of Chintaka Dasanayake who operates the criminal criminal criminal criminal criminal criminal criminal criminal criminal operates the team of 2 units.Have been arrested with more than 10 grams of drugs
-
-After interrogation of the suspects, they were arrested by a telephone order, the woman was arrested by a telephone order with a telephone call and arrested with ice drugs to Malwatta Road, Thalawathugoda.
-
-...
-
-[Data](articles/f0d698b6.json)
-
-[Extended Data](ext_articles/f0d698b6.ext.json)
-
----
-
-### CBSL governor explains why Parate Law suspension is ‘not good’
-
-*2024-03-26 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98213/cbsl-governor-explains-why-parate-law-suspension-is-not-good-) · `en`
-
-The Governor of Central Bank of Sri Lanka (CBSL), Dr. Nandalal Weerasinghe on Tuesday (March 26), asserted that he would not resign over the controversy surrounding the salary increase.
-
-During the Q&A session of the special media briefing convened at the CBSL to present the second Monetary Policy Review of 2024, the Governor spoke of his duty towards his employees as the head of the institution.
-
-Speaking further, he commented that the Central Bank’s duty towards the country includes implementation of the monetary policy, and maintaining the stability of the banking system under the CBSL Act, adding that “as the head of the institution, I have a separate duty towards my staff members.”
-
-Responding to media queries, Dr. Weerasinghe underscored that it is the responsibility of institutions, both public and private, to ‘look after’ their employees, within their legal framework and capacity, at times like these.
-
-...
-
-[Data](articles/2ca5ede7.json)
-
-[Extended Data](ext_articles/2ca5ede7.ext.json)
-
----
-
-### CBSL governor explains why Parate Law suspension ‘not good’ for credit supply
-
-*2024-03-26 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98213/cbsl-governor-explains-why-parate-law-suspension-not-good-for-credit-supply) · `en`
-
-The Governor of Central Bank of Sri Lanka (CBSL), Dr. Nandalal Weerasinghe on Tuesday (March 26), asserted that he would not resign over the controversy surrounding the salary increase.
-
-During the Q&A session of the special media briefing convened at the CBSL to present the second Monetary Policy Review of 2024, the Governor spoke of his duty towards his employees as the head of the institution.
-
-Speaking further, he commented that the Central Bank’s duty towards the country includes implementation of the monetary policy, and maintaining the stability of the banking system under the CBSL Act, adding that “as the head of the institution, I have a separate duty towards my staff members.”
-
-Responding to media queries, Dr. Weerasinghe underscored that it is the responsibility of institutions, both public and private, to ‘look after’ their employees, within their legal framework and capacity, at times like these.
-
-...
-
-[Data](articles/a9976dc6.json)
-
-[Extended Data](ext_articles/a9976dc6.ext.json)
-
----
-
-### Shifting of expressway network from RDA to Sahasya Investment Limited approved
-
-*2024-03-26 13:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shifting-of-expressway-network-from-RDA-to-Sahasya-Investment-Limited-approved/108-279631) · `en`
-
-Colombo, March 26 (Daily Mirror) - Government approval was granted for the shifting of the expressway network from the Road Development Authority (RDA) to Sahasya Investment Limited.
-
-While addressing the media, Cabinet spokesman Minister Bandula Gunawardana said after shifting the expressway network to Sahasya Investment Limited, the land owned by highways, highway loans, and related staff can be managed more commercially.
-
-The respective action plan was approved at the Cabinet meeting held on February 5.
-
-Accordingly, the proposal presented by the Transport and Highways Minister is to shift the daily operations and management of expressways to Sahasya Investment Limited from April 2024 in accordance with a formal management agreement and to transfer all the relevant assets to Sasahasya Investments Limited within six months consequent to a legal and financial feasibility study jointly conducted by the Road Development Authority and Sahasya Investments Limited.
-
-◼️
-
-[Data](articles/d4ff2835.json)
-
-[Extended Data](ext_articles/d4ff2835.ext.json)
-
----
-
-### Francis Scott key Bridge collapses after ship collision en route to Colombo
-
-*2024-03-26 13:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Francis-Scott-key-Bridge-collapses-after-ship-collision-en-route-to-Colombo/108-279630) · `en`
-
-Baltimore, March 26 (New York Post) - A mass casualty event has been declared after a bridge in Baltimore, Md., was struck by a container ship Tuesday morning.
-
-Horror footage shows the moment the Francis Scott Key Bridge crumbled after a vessel crashed into the central part of the structure.
-
-The steel arches then instantly dismantled into the Patapsco River shortly before 1:30 a.m.
-
-It was reported that the Singapore-flagged cargo ship bound for Colombo, Sri Lanka struck the Francis Scott Key Bridge in Baltimore at 1:27AM ET.
-
-It was unclear how many vehicles were on the 1.6 mile-long span but the Baltimore City Fire Department confirmed to that “at least seven people” were in the river.
-
-Baltimore City Fire Department’s communications chief Kevin Cartwright has called the incident a “developing mass casualty event”.
-
-◼️
-
-[Data](articles/3324d3a4.json)
-
-[Extended Data](ext_articles/3324d3a4.ext.json)
-
----
-
-### Mahinda Rajapaksa conveys condolences after Moscow attack
-
-*2024-03-26 13:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Mahinda-Rajapaksa-conveys-condolences-after-Moscow-attack/110-279628) · `en`
-
-Former President Mahinda Rajapaksa visited the Russian Embassy in Colombo today to express his condolences following the recent terrorist attack in Moscow. In a solemn gesture of solidarity and sympathy, he signed the condolence book to convey his deepest condolences to the government and people of Russia.
-
-◼️
-
-[Data](articles/338eeadc.json)
-
-[Extended Data](ext_articles/338eeadc.ext.json)
 
 ---

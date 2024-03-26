@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 18:33:27**
+As of **2024-03-26 18:52:07**
 
 ## Newspaper Stats
 
-*Scraped **15,319** Articles*
+*Scraped **15,322** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,58 +15,104 @@ newsfirstlk | 363
 dailyftlk | 819
 economynextcom | 821
 islandlk | 845
-adalk | 1,307
+adalk | 1,308
 adaderanalk | 1,839
 tamilmirrorlk | 1,841
 virakesarilk | 2,163
-dailymirrorlk | 2,366
-adaderanasinhalalk | 2,462
+dailymirrorlk | 2,367
+adaderanasinhalalk | 2,463
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,317 (100.0%) of 15,319 articles have been extended.
+15,319 (100.0%) of 15,322 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### විශ්වවිද්‍යාල පද්ධතියේ වෙනස්කම් රැසක් - ජනපති
+### පාකිස්තානයේදී චීන ඉංජිනේරුවන් පිරිසකට මරාගෙන මැරෙන ප්‍රහාරයක්
+
+*2024-03-26 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194967) · `si`
+
+පාකිස්තානයේ වයඹදිග ප්‍රදේශයේ වේල්ලක් ඉදිකිරීමේ ව්‍යාපෘතියක සේවය කරමින් සිටි චීන ඉංජිනේරුවන් පිරිසක් ගමන්කරමින් සිටි රථ පෙළකට මරාගෙන මැරෙන ප්‍රහාරයක් එල්ල කර තිබේ.
+
+එම ප්‍රහාරයෙන් 6 දෙනෙකු ජීවිතක්ෂයට පත්වී ඇති අතර මෙය සතියක් තුළ පාකිස්තානයේ පිහිටි චීන සම්බන්ධතා සහිත ස්ථාන වලට එල්ලකළ තුන්වැනි ප්‍රහාරය වෙයි.
+
+බ්ලොචිස්තාන ප්‍රාන්තයේ වරායකට සහ ගුවන් මූලස්ථානයකට පසුගිය දින කිහිපයේදී ප්‍රහාර එල්ල කළේය.
+
+◼️
+
+[Data](articles/7e8be84b.json)
+
+---
+
+### NFCO urges Power Ministry to repay electricity reconnection fees
+
+*2024-03-26 18:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NFCO-urges-Power-Ministry-to-repay-electricity-reconnection-fees/108-279644) · `en`
+
+Colombo, March 26 (Daily Mirror) - The National Front of Civil Organizations (NFCO) today demanded that the Ministry of Power and Energy repay the fees collected as electricity reconnection charges.
+
+NFCO president Priyantha Thilakarathna told the media that Rs. 3,000 is charged from electricity consumers for reconnections at present, but it was not reduced as announced by the Public Utilities Commission of Sri Lanka (PUCSL).
+
+He said that the PUCSL had announced the revised charges for electricity consumers for reconnections, but the Ceylon Electricity Board (CEB) had not taken any decision to revise the reconnection charges.
+
+Therefore, the members of the NFCO gathered in front of the CEB head office in Colombo today, requesting the authority to reveal the total amount of charges collected through the electricity reconnection process via the Right to Information Act.
+
+◼️
+
+[Data](articles/2ea4b28d.json)
+
+---
+
+### University system changes - President
 
 *2024-03-26 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194966) · `si`
 
-අරගලය මුවාවෙන් ප්‍රචණ්ඩත්වය වැපිරූ පිරිසගෙන් එදා පාර්ලිමේන්තුව, අග්‍රාමාත්‍ය කාර්යාලය සහ ජනාධිපති කාර්යාලය ඇතුළු රාජ්‍ය දේපළ බේරාගනිමින් රට තුළ නීතිය හා සාමය ස්ථාපිත කිරීමට තමා ගත් පියවර මානව හිමිකම් කඩකිරීමක් ලෙස පෙන්වාදීමට ඇතැමුන් උත්සාහ කරන බව ජනාධිපති පවසයි.
+President Ranil Wickremesinghe emphasized the importance of law and order, economic stability, and a new education system. He discussed with university lecturers the need for entrepreneurship education, practical curriculum changes, and the role of everyone in regularizing university education.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා එහිදී වැඩිදුරටත් පෙන්වා දුන්නේ එදා එම පියවර නොගත්තා නම් අද රට තුළ මෙලෙස ආර්ථික ස්ථාවරත්වයක් ගොඩනැගීමට හැකි නොවනු ඇති බවය.
+🟩
 
-අසීරු සහ අමිහිරි යුගයක් පසු කර රටක් ලෙස ඉදිරියට යන ගමනේදී නීතිය හා සාමය කඩවීමට ඉඩ නොතැබිය යුතු බව අවධාරණය කළ ජනාධිපතිවරයා සෑම ක්ෂේත්‍රයක් තුළම නීතිය සහ සාමය ආරක්ෂා කිරීමට සියලු පාර්ශ්වයන්ට වගකීමක් පැවරී ඇති බවද පෙන්වා දුන්නේය.
+The president of the struggle, rescue the violence, the parliament, the Prime Minister's Office and the Presidential Secretariat, to rescue the state property and the Presidential Officers to establish law and order in the country.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ විශ්වවිද්‍යාල ආචාර්යවරුන් සමඟ ඊයේ (25) පස්වරුවේ ජනාධිපති කාර්යාලයේ පැවති හමුවේදීය.
+President Ranil Wickremesinghe said that if it was not possible, there would be no economic stability in the country.
 
-රට තුළ වත්මන් ආර්ථික වැඩපිළිවෙළ සහ ඒ සඳහා විශ්වවිද්‍යාල ආචාර්යවරුන්ගේ අදහස් සහ යෝජනා පිළිබඳ සාකච්ඡා කිරීම වෙනුවෙන් හිටපු අධ්‍යාපන අමාත්‍ය අකිල විරාජ් කාරියවසම් මහතා විසින් මෙම හමුව සංවිධානය කර තිබුණි.
+He said that the President emphasized that law and order should not be able to break the law and peace in the way to a country.
+
+President Ranil Wickremesinghe made this statement at the meeting with university lecturers at the Presidential Secretariat yesterday.
+
+Former Minister of Education Akila Viraj Kariyawasam was organized by former Minister of Education Akila Viraj Kariyawasam to discuss the current economic program in the country and the comments and proposals of university teachers.
 
 ...
 
 [Data](articles/519b45ff.json)
 
+[Extended Data](ext_articles/519b45ff.ext.json)
+
 ---
 
-### කාර් - යතුරුපැදි අනතුරින් දෙදෙනෙක් මරුට
+### Cars - Two killed in motorcycle accident
 
 *2024-03-26 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194965) · `si`
 
-මාතලේ සිට වරකාමුර බලා ධාවනය වූ මෝටර් රථයක් කොහොඹිලිවල ප්‍රදේශයේදී ප්‍රතිවිරුද්ධ දිසාවෙන් ධාවනය වූ යතුරුපැදියක මුහුණට මුහුණ ගැටී තිබේ.
+In Kohomballe, a car collided with a motorcycle, killing a 26-year-old man and a 32-year-old woman. The car's occupants were arrested.
 
-ඊයේ (25) රාත්‍රී 8.30ට පමණ සිදුවූ එම රිය අනතුරින් යතුරුපැදියේ ගමන් ගත් තරුණයෙක් සහ තරුණියක් මාතලේ දිස්ත්‍රික් රෝහලට ඇතුළු කිරීමෙන් අනතුරුව මියගොස් තිබේ.
+🟩
 
-ඉන් මියගිය තරුණයා අවුරුදු 26ක් වයසැති බවත් තරුණිය අවුරුදු 32ක් බවත් පොලීසිය පැවසීය.
+A car traveling from Matale to Warakamama has collided with a motorcycle traveling opposite direction in Kohomballe.
 
-අනතුර සිදුවන අවස්ථාවේ මෝටර් රථයේ තරුණයින් දෙදෙනෙක් ගමන්කර තිබූ අතර පොලීසිය ඔවුන්ව අත්අඩංගුවට ගෙන තිබේ.
+A young man and a young girl who was traveling on the motorcycle were admitted to the Matale District Hospital yesterday (25).
+
+The victim was 26 years old and the girl was 32 years.
+
+Two youth in the car had traveled and arrested them.
 
 ◼️
 
 [Data](articles/5168d91d.json)
+
+[Extended Data](ext_articles/5168d91d.ext.json)
 
 ---
 
@@ -1042,6 +1088,20 @@ The 2k of the 2k jumbo peanut manut manut manut manut manut manut manut manufact
 
 ---
 
+### කෙහෙළියට එරෙහි තවත් නඩුවකට දින නියම වෙයි
+
+*2024-03-26 14:44:13* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියට-එරෙහි-තවත්-නඩුවකට-දින-නියම-වෙයි/11-408807) · `si`
+
+තමාට නිත්‍යානුකූලව හිමිව තිබූ ජංගම දුරකතන ගාස්තු සීමාව ඉක්මවමින් භාවිතා කොට එම දුරකතන බිල ලෙස රුපියල් ලක්‍ෂ 2 1/4කට අධික මුදලක් රාජ්‍ය මුද්‍රණ නීතීගත සංස්ථාව මඟින් පියවා ගැනීමට කටයුතු කර අල්ලස් පනතේ ‘දූෂණය’ වරද කළ බවට චෝදනා කරමින් සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල සහ රාජ්‍ය මුද්‍රණ නීතීගත සංස්ථාවේ හිටපු සභාපති ජයම්පති බණ්ඩාර හීන්කෙන්ද මහත්වරුන්ට එරෙහි නඩුව පවත්වාගෙන යෑමට නොහැකි බවට විත්ති පාර්ශවය මතු කළ මූලික විරෝධතාවක් ප්‍රතික්ෂේප කළ කොළඹ මහාධිකරණ විනිසුරු දමිත් තොටවත්ත මහතා නඩුව විභාගය ජූලි 22 වැනිදා පැවැත්වීමට දින නියම කළේය.
+
+රෝගී තත්වයෙන් පසුවන බව දැනුම් දෙමින් පසිගිය නඩු දිනයේ අධිකරණයටට ඉදිරිපත් නොකළ විත්තිකාර කෙහෙළිය රඹුක්වැල්ල නමැත්තා අනීවාර්්‍යයෙන් අධිකරණයට ඉදිරිපත් කරන ලෙස බන්ධනාගාර අධිකාරීවරයාට කළ නියෝගයකට අනුව නඩුව කැඳවු අවස්ථාවේදී විත්තිකාර කෙහෙළිය රඹුක්වැල්ල නමැත්තා බන්ධනාගාර නිලධාරීන් විසින් අධිකරණයට ඉදිරිපත් කරන ලදී.
+
+...
+
+[Data](articles/be5777ee.json)
+
+---
+
 ### Increasing dissatisfaction in the North and East amidst storytelling on reconciliation
 
 *2024-03-26 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179749) · `ta`
@@ -1168,8 +1228,6 @@ The Baltimore City Fire Department described the collapse as a mass-casualty inc
 
 *2024-03-26 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98214/major-us-bridge-collapses-after-being-hit-by-colombo-bound-ship) · `en`
 
-The Francis Scott Key Bridge in #US city #Baltimore collapsed on Tue following a ship collision, CNN reported. Traffic is being redirected, and it remains uncertain if there were any injuries.pic.twitter.com/6q5smwGLWD— Global Times (@globaltimesnews) March 26, 2024
-
 Baltimore’s Key Bridge has collapsed after it was hit by a container ship, sending cars that were crossing at the time plunging into the waters of the Patapsco River.
 
 At least seven people are believed to be in the water and rescue efforts are ongoing at the site of the collapse, according to the Baltimore Fire Department.
@@ -1177,6 +1235,8 @@ At least seven people are believed to be in the water and rescue efforts are ong
 Multiple videos shared on social media showed a large cargo ship ramming into one of the bridge’s support pillars, causing it to come crashing down into the river.
 
 A large portion of the Francis Scott Key Bridge is now under water, as flight tracking website FlightRadar24 showed the Maryland State Police circling the site of the crash in a helicopter.
+
+Kevin Cartwright, director of communications for the fire department, said the city was dealing with a “developing mass casualty incident”.
 
 ...
 
@@ -2221,75 +2281,5 @@ The spy has further stated that after the assassination of the Hon.
 [Data](articles/aecc0800.json)
 
 [Extended Data](ext_articles/aecc0800.ext.json)
-
----
-
-### Maithri's confession;Sirisena does not give him the key to the life of the Sunday attacks.
-
-*2024-03-26 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179720) · `ta`
-
-Maithripala Sirisena confessed to knowing the masterminds behind the Sunday attacks but did not reveal their identities. He met with the Criminal Investigation Department for over five hours, facing questions about the incident.
-
-🟩
-
-According to reports, former President Maithripala Sirisena has not reported anything about the person who has made important things.
-
-The former president yesterday made a statement to the CITiner for more than five hours regarding the issuance of the Kandy in Kandy, saying he knew who was the lifeblood of the lifeblood.
-
-He went to the Sri Lanka Criminal Investigation Department for Pattaramani in the morning and left at 3.50.
-
-CIT sources have been cited by CIT sources that Sirisena, who came through the forefront, faced usual questions.
-
-A police officer has carried out investigations under the supervision of a Assistant Superintendent of Police.
-
-During the investigation, Maithripala Sirisena said that he was aware of who the main masterminds of the survival Sunday attacks were revealed three weeks ago.
-
-The police officer who said that the former president would review the issues, "he said.
-
-It is also reported that the CIT is planning to submit the issues of the former president.
-
-◼️
-
-[Data](articles/fe2ba48f.json)
-
-[Extended Data](ext_articles/fe2ba48f.ext.json)
-
----
-
-### Yall. A vehicle that escaped from an accident in Point Pedro;Woman injured
-
-*2024-03-26 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179719) · `ta`
-
-A woman, Kumarasamoorthy Vanitha, 51, injured in a motorcycle accident near Ceylon Bank in Mandigai, fled in a Hayas vehicle. Police used surveillance to identify and arrest the driver.
-
-🟩
-
-A woman who was riding a motorcycle on a motorbike on Jaffna -Point Pedro has fled a Hayas vehicle.
-
-Kumarasamoorthy Vanitha (age 51), a woman from West of Tunnale, has been admitted to the Point Pedro Hospital after being injured.
-
-The accident occurred on Monday near the Ceylon Bank branch located in Mandigai.
-
-With the help of surveillance cameras on the main streets, the police said that the Hayas has identified the vehicle who fled the accident and has taken steps to arrest the driver.
-
-◼️
-
-[Data](articles/ba635e93.json)
-
-[Extended Data](ext_articles/ba635e93.ext.json)
-
----
-
-### USD 100 million, technical assistance to boost SMEs
-
-*2024-03-26 11:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/USD-100-million-technical-assistance-to-boost-SMEs/108-279624) · `en`
-
-The Asian Development Bank (ADB) will finance USD 100 million and technical assistance to boost Sri Lankan small and medium-sized enterprises (SMEs), the Finance Ministry, Economic Stabilization and National Policies announced.
-
-◼️
-
-[Data](articles/784bb781.json)
-
-[Extended Data](ext_articles/784bb781.ext.json)
 
 ---

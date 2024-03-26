@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 08:04:25**
+As of **2024-03-26 08:17:55**
 
 ## Newspaper Stats
 
-*Scraped **15,170** Articles*
+*Scraped **15,171** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 1,822
 tamilmirrorlk | 1,822
 virakesarilk | 2,127
 dailymirrorlk | 2,341
-adaderanasinhalalk | 2,434
+adaderanasinhalalk | 2,435
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,168 (100.0%) of 15,170 articles have been extended.
+15,170 (100.0%) of 15,171 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### කල්මුණේ ප්‍රාදේශීය සෞඛ්‍ය සේවා කාර්යාලයට අයත් රෝහල්වල වෛද්‍යවරුන් වර්ජනයක
+
+*2024-03-26 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194936) · `si`
+
+සිසුවෙකු මියයෑමේ සිද්ධියක් සම්බන්ධයෙන් තිරුක්කෝවිල් රෝහලට සහ කාර්ය මණ්ඩලයට පහරදීම පිළිබඳ විමර්ශන නිසි ලෙස සිදුනොවන බවට විරෝධය පළකරමින් අද කල්මුනෙයි ප්‍රාදේශීය සෞඛ්‍ය සේවා අධ්‍යක්ෂ කාර්යාලයට අයත් සියලු රෝහල්වල වැඩවර්ජනයක් ක්‍රියාත්මක වේ.
+
+පසුගියදා තිරුක්කෝවිල් ප්‍රදේශයේ පාසලක මැරතන් තරඟයක් අතරතුරදී 17 හැවිරිදි ශිෂ්‍යයෙකු හදිසියේ මරණයට පත් වීමත් සමඟ යම් පිරිසක් නොසන්සුන්කාරි තත්ත්වයක් ඇති කරමින් රෝහලට පහර දී අලාභ හානි සිදුකර රෝහලේ වෛද්‍යවරුන්ට ද තර්ජනය කර තිබිණි.
+
+මෙතෙක් සැකකරුවන් අත්අඩංගුවට නොගැනීම හේතුවෙන් අද (26) පෙරවරු 8.00 සිට එම වෘත්තීය ක්‍රියාමාර්ගය ගන්නා බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ මාධ්‍ය ප්‍රකාශක වෛද්‍ය චමිල් විජේවංශ මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/4f6156f4.json)
+
+---
 
 ### Sri Lanka Central Bank further reduces policy rates
 
@@ -43,6 +59,8 @@ The Board said it arrived at this decision at its meeting held on 25 March 2024 
 ...
 
 [Data](articles/94745cf3.json)
+
+[Extended Data](ext_articles/94745cf3.ext.json)
 
 ---
 
@@ -61,6 +79,8 @@ But amid growing global pressure for a truce in the war that has killed more tha
 ...
 
 [Data](articles/319f1e87.json)
+
+[Extended Data](ext_articles/319f1e87.ext.json)
 
 ---
 
@@ -2233,25 +2253,5 @@ Graduates and university students participated in the event.
 [Data](articles/ed2c743e.json)
 
 [Extended Data](ext_articles/ed2c743e.ext.json)
-
----
-
-### Maithripala Sirisena leaves CIT!
-
-*2024-03-25 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/179681) · `ta`
-
-Maithripala Sirisena confessed to CIT, leaving after submitting an affidavit.
-
-🟩
-
-Former President Maithripala Sirisena, who had gone to the Criminal Investigation Department to make a confession, has left after his affidavit.
-
-He made a statement on Monday (25) following an invitation by the Criminal Investigation Department to make a confession on the controversial comments made by former President Maithripal Sirisena on the Sunday attack.
-
-◼️
-
-[Data](articles/2298783d.json)
-
-[Extended Data](ext_articles/2298783d.ext.json)
 
 ---

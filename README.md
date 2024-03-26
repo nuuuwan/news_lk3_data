@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 03:03:20**
+As of **2024-03-27 03:18:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,386 (100.0%) of 15,390 articles have been extended.
+15,390 (100.0%) of 15,390 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The primary objective of the meeting was to address the critical challenges enco
 
 [Data](articles/7b808940.json)
 
+[Extended Data](ext_articles/7b808940.ext.json)
+
 ---
 
 ### Solar Photovoltaic power plants for six grid substations
@@ -64,6 +66,8 @@ The grids will be developed under the Solar Photovoltaic Power Plant Installatio
 
 [Data](articles/c9482415.json)
 
+[Extended Data](ext_articles/c9482415.ext.json)
+
 ---
 
 ### Sri Lanka-Korea Business Council hosts business networking evening
@@ -77,6 +81,8 @@ The Chief Guest Ambassador of the Republic of Korea to Sri Lanka Miyon Lee was a
 ...
 
 [Data](articles/6a2e9afa.json)
+
+[Extended Data](ext_articles/6a2e9afa.ext.json)
 
 ---
 
@@ -160,17 +166,23 @@ President Ranil Wickremesinghe further pointed out that the implementation of th
 
 ---
 
-### ’ஒக்டோபர் 17 இற்கு முன்னர் ஜனாதிபதி தேர்தல்’
+### President's election before October 17
 
 *2024-03-27 02:08:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்டோபர்-17-இற்கு-முன்னர்-ஜனாதிபதி-தேர்தல்/175-335237) · `ta`
 
-ஜனாதிபதி தேர்தல் எதிர்வரும் ஒக்டோபர் 17 ஆம் திகதிக்கு முன்னர் நடத்தப்படும் என ஐக்கிய தேசியக் கட்சியின் தவிசாளர் வஜிர அபேவர்தன தெரிவித்தார்.
+UNP Chairman Vajira Abeywardena confirmed the presidential election will be held before October 17, as per the Constitution.
 
-அரசியயலமைப்பிற்கு அமைவாக, ஒக்டோபர் 17 ஆம் திகதிக்கு முன்னர் ஜனாதிபதி தேர்தல் நடைபெறும் என அவர் சுட்டிக்காட்டியுள்ளார். (a)
+🟩
+
+United National Party (UNP) Chairman Vajira Abeywardena said the presidential election will be held before October 17.
+
+In accordance with the Constitution, he pointed out that the presidential election will be held before October 17. (A)
 
 ◼️
 
 [Data](articles/965affa6.json)
+
+[Extended Data](ext_articles/965affa6.ext.json)
 
 ---
 

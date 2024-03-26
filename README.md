@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 08:34:22**
+As of **2024-03-26 08:50:43**
 
 ## Newspaper Stats
 
-*Scraped **15,172** Articles*
+*Scraped **15,173** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adaderanalk | 1,822
 tamilmirrorlk | 1,822
 virakesarilk | 2,127
 dailymirrorlk | 2,341
-adaderanasinhalalk | 2,435
+adaderanasinhalalk | 2,436
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,171 (100.0%) of 15,172 articles have been extended.
+15,172 (100.0%) of 15,173 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### දුම්රිය මගීන්ට සුබ පණිවුඩයක්
+
+*2024-03-26 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194937) · `si`
+
+සංචාරක ආකර්ෂණය දිනා ගැනීම සඳහා කොළඹ කොටුවේ සිට බදුල්ල දක්වා විශේෂිත දුම්රියක් ධාවනය කිරීමට පියවර ගන්නා බව ප්‍රවාහන අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+
+ඔහු ප්‍රකාශ කළේ, අප්‍රේල් මස 05 වනදා සිට නානුඔය සිට බදුල්ල දක්වා සංචාරක විශේෂ නැරඹුම් මැදිරියක් සහිත දුම්රියක් ද ධාවනයේ යෙදවීමට නියමිත බවය.
+
+"අප්‍රේල් 5 වෙනිදාට ඇල්ල, නයින් ආච්, මේ සංචාරක ආකර්ෂණය ප්‍රදේශ හරහා නව දුම්රිය දෙකක් ධාවනය කරනවා. එකක් සෑම දිනකම උදෑසන 6.30ට දවසක් ඇර දවසක් සිකුරාදා, ඉරිදා, අඟහරුවාදා සහ බ්‍රහස්පතින්දා ලෙස දවසක් හැර දවසක් දුම්රියක් කොළඹ කොටුවේ සිට බදුල්ල දක්වා ගමන් කරනවා. ඒ අතර කෙටි දුර ප්‍රමාණය සංචාරක නැරඹුම් මැදිරි සහිත තවත් දුම්රියක් අපේ නානුඔයේ සිට බදුල්ල දක්වා හෝ සංචාරකයින්ට කෙටි දුර ධාවනය කළ හැකි වන ආකාරයට නැරඹුම් මැදිරි සහිත විශේෂ සංචාරක දුම්රියකුත් ආරම්භ වෙනවා."
+
+◼️
+
+[Data](articles/08c34f97.json)
+
+---
 
 ### Doctors in hospitals owned by Kalmunai Regional Health Services Office
 
@@ -1168,19 +1184,25 @@ While marking the beginning of the 2024 school meal programme held today (25) at
 
 ---
 
-### රාජ්‍ය සේවකයන් වැඩිළ රු 10 000 ම අප්‍රේල් වැටුප සමගින්
+### 10,000 public servants with Rs.
 
 *2024-03-25 20:36:57* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවකයන්-වැඩිළ-රු-10-000-ම-අප්‍රේල්-වැටුප-සමගින්/11-408798) · `si`
 
-මෙවර අයවැය මගින් රාජ්‍ය සේවකයන් සඳහා වැඩි කළ රුපියල් 10,000ක මුදල ලබන අප්‍රේල් මාසයේ සිට වැටුපට එක් කරන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි. අද (25දා) රුවන්වැල්ල ප්‍රදේශයේදී මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව පවසා තිබේ.
+State Minister Ranjith Siyambalapitiya announced that all public servants will receive their March salaries by the 10th, with an increase in pensions by Rs. and an additional Rs. 2,500 from April.
 
-ඒ අනුව සියලු රාජ්‍ය සේවකයන්ට මාර්තු මාසයේ වැටුප ගෙවීමෙන් අනතුරුව , අප්‍රේල් මාසයේ වැටුපද එම මාසයේ 10 වන දිනට පෙර ගෙවීමට සුදානම් බවත්, අයවැය යෝජනාවල සඳහන් ආකාරයට රාජ්‍ය සේවකයන්ට වැඩි කළ රු.10,000 ම අප්‍රේල් මාසයේ සිට එම වැටුපට එකතුකොට ගෙවීමට කටයුතු කරන බවත් ඔහු එහිදී සඳහන් කර තිබේ.
+🟩
 
-එසේම විශ්‍රාමිකයන් සඳහා වැඩිකළ රු. 2,500 ක මුදල ද අප්‍රේල් මාසයේ සිට ලබාදෙන බවද අමාත්‍යවරයා එහිදී වැඩිදුරටත් පවසා ඇත.
+State Minister Ranjith Siyambalapitiya says that the amount of Rs.. He was speaking at the media in the Ruwanwella area today (25th).
+
+Accordingly, the salary of all public servants will pay the salary in March, the salary of the month is ready to pay before the 10th in the month of the budget.Available.
+
+Also, the pensioners increased by Rs. The Minister further stated that 2,500 will also be given from April.
 
 ◼️
 
 [Data](articles/acc83337.json)
+
+[Extended Data](ext_articles/acc83337.ext.json)
 
 ---
 
@@ -2215,41 +2237,5 @@ Colombo, March 25 (Daily Mirror) - Malnutrition has emerged as a significant con
 [Data](articles/155a11e7.json)
 
 [Extended Data](ext_articles/155a11e7.ext.json)
-
----
-
-### Russia's structure - Putin's plan
-
-*2024-03-25 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194914) · `si`
-
-Russia's security authorities submitted allegations into Moscow court regarding a terrorist attack at a concert in Moscow, resulting in over 150 injuries and deaths. Four suspects, including three Tajikistan nationals, were arrested and charged. President Putin was honored with a candle, and the people of Moscow expressed their condolences. The attack was the worst in Russia, with 137 killed and 182 injured, including 777 children from a school in Beslan, Northern Ossetia, in 2004. The IS claimed responsibility, but Putin declared the attackers were from Ukraine.
-
-🟩
-
-The Russian security authorities have decided to submit the allegations into the court of Moscow in the incident.
-
-They have also revealed their identity, and four of them are Tajikistana.
-
-On Friday, a group of terrorist attacks on a complaint that came to a concert at the Moscow in Moscow, Russia, was on Friday night.
-
-The number of deaths killed in the attack and more than 150 injured were still in hospital.
-
-The four suspects of the assault on the evening were produced before Moscow yesterday.
-
-Three of the suspects have been taken responsible for the attack and the Fourth 19-year-old suspect was produced in court with the help of a wheelchair.
-
-The four suspects were permitted to be remanded until May 22, and then they are expected to be sentenced to life in prison.
-
-Accordingly, President Vladminiri Putin was honored and honored with the candle.
-
-The people of Moscow came to front and condemned their condolences.
-
-People expressed their pain, regret, and anger, and published in floralports.
-
-...
-
-[Data](articles/c9009027.json)
-
-[Extended Data](ext_articles/c9009027.ext.json)
 
 ---

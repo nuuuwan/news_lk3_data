@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 13:33:47**
+As of **2024-03-26 14:04:11**
 
 ## Newspaper Stats
 
-*Scraped **15,249** Articles*
+*Scraped **15,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ dailyftlk | 819
 economynextcom | 821
 islandlk | 843
 adalk | 1,296
-adaderanalk | 1,830
+adaderanalk | 1,831
 tamilmirrorlk | 1,836
 virakesarilk | 2,146
-dailymirrorlk | 2,353
+dailymirrorlk | 2,356
 adaderanasinhalalk | 2,449
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,243 (100.0%) of 15,249 articles have been extended.
+15,250 (100.0%) of 15,253 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### Shifting of expressway network from RDA to Sahasya Investment Limited approved
+
+*2024-03-26 13:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shifting-of-expressway-network-from-RDA-to-Sahasya-Investment-Limited-approved/108-279631) · `en`
+
+Colombo, March 26 (Daily Mirror) - Government approval was granted for the shifting of the expressway network from the Road Development Authority (RDA) to Sahasya Investment Limited.
+
+While addressing the media, Cabinet spokesman Minister Bandula Gunawardana said after shifting the expressway network to Sahasya Investment Limited, the land owned by highways, highway loans, and related staff can be managed more commercially.
+
+The respective action plan was approved at the Cabinet meeting held on February 5.
+
+Accordingly, the proposal presented by the Transport and Highways Minister is to shift the daily operations and management of expressways to Sahasya Investment Limited from April 2024 in accordance with a formal management agreement and to transfer all the relevant assets to Sasahasya Investments Limited within six months consequent to a legal and financial feasibility study jointly conducted by the Road Development Authority and Sahasya Investments Limited.
+
+◼️
+
+[Data](articles/d4ff2835.json)
+
+---
+
+### Francis Scott key Bridge collapses after ship collision en route to Colombo
+
+*2024-03-26 13:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Francis-Scott-key-Bridge-collapses-after-ship-collision-en-route-to-Colombo/108-279630) · `en`
+
+Baltimore, March 26 (New York Post) - A mass casualty event has been declared after a bridge in Baltimore, Md., was struck by a container ship Tuesday morning.
+
+Horror footage shows the moment the Francis Scott Key Bridge crumbled after a vessel crashed into the central part of the structure.
+
+The steel arches then instantly dismantled into the Patapsco River shortly before 1:30 a.m.
+
+It was reported that the Singapore-flagged cargo ship bound for Colombo, Sri Lanka struck the Francis Scott Key Bridge in Baltimore at 1:27AM ET.
+
+It was unclear how many vehicles were on the 1.6 mile-long span but the Baltimore City Fire Department confirmed to that “at least seven people” were in the river.
+
+Baltimore City Fire Department’s communications chief Kevin Cartwright has called the incident a “developing mass casualty event”.
+
+◼️
+
+[Data](articles/3324d3a4.json)
+
+---
 
 ### Mahinda Rajapaksa conveys condolences after Moscow attack
 
@@ -41,6 +81,20 @@ Former President Mahinda Rajapaksa visited the Russian Embassy in Colombo today 
 ◼️
 
 [Data](articles/338eeadc.json)
+
+[Extended Data](ext_articles/338eeadc.ext.json)
+
+---
+
+### Mahinda conveys condolences after Moscow attack
+
+*2024-03-26 13:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Mahinda-conveys-condolences-after-Moscow-attack/110-279628) · `en`
+
+Former President Mahinda Rajapaksa visited the Russian Embassy in Colombo today to express his condolences following the recent terrorist attack in Moscow. In a solemn gesture of solidarity and sympathy, he signed the condolence book to convey his deepest condolences to the government and people of Russia.
+
+◼️
+
+[Data](articles/43f9a3e1.json)
 
 ---
 
@@ -60,59 +114,125 @@ Under this security plan, the church premises would be inspected before the comm
 
 [Data](articles/2941defa.json)
 
+[Extended Data](ext_articles/2941defa.ext.json)
+
 ---
 
-### கோட்டை  நீதிவான் திலின கமகேவை கொலை செய்ய முயற்சி : உடனடி விசாரணைக்கு உத்தரவு!
+### Special security arrangements for Good Friday and Easter Sunday
+
+*2024-03-26 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98212/special-security-arrangements-for-good-friday-and-easter-sunday) · `en`
+
+Sri Lanka Police is organizing a special security plan to be set in place at churches across the country in view of the upcoming Good Friday and Easter Sunday, as per the instructions of Inspector-General of Police (IGP) Deshabandu Tennakoon.
+
+Accordingly, the police chief has given directives to all officers including the Senior Deputy Inspectors General of Police (SDIGs), DIGs and officers in charge (OICs) of police divisions.
+
+The OICs are instructed to meet with the priests and boards of trustees of churches to prepare security plans tailored to each church while the Holy Masses are in progress from 29 - 31 March, Police Spokesman SSP Nihal Thalduwa said commenting on the matter.
+
+Under this security plan, the church premises would be inspected before the commencement of the sermons in a manner that does not disturb the devotees.
+
+...
+
+[Data](articles/ad78f68f.json)
+
+[Extended Data](ext_articles/ad78f68f.ext.json)
+
+---
+
+### Fort Justice Thilina Kamage attempts to kill
 
 *2024-03-26 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/179739) · `ta`
 
-கோட்டை நீதிவான் திலின கமகேவை கொலை செய்ய முயற்சித்தமை தொடர்பில்  உடனடியாக  விசாரணைகளை மேற்கொள்ளுமாறு பொதுமக்கள்  பாதுகாப்பு அமைச்சர் டிரான்  அலஸ், பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனுக்கு பணிப்புரை விடுத்துள்ளார்.
+Public Security Minister Tran Alas directs the Inspector General of Police to investigate Fort Justice Thilina Kamage's trial, following a spy's report of a threat to his life.
 
-உளவாளி ஒருவரால் அனுப்பப்பட்ட கடிதத்தின் பிரகாரம் அமைச்சர் டிரான் அலஸ் இந்த அறிவுறுத்தலை வழங்கியுள்ளார்.
+🟩
 
-நீதிவான் திலின கமகேவை கொல்வதற்காக ஒருவர் தொலைபேசி ஊடாக துப்பாக்கியை கோரியுள்ளதாக அரச உளவாளி ஒருவருக்கு கிடைத்த தகவலுக்கமையவே இந்த  விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+Public Security Minister Tran Ales has issued a directive to the Inspector General of Police Deshabandu Thenkon to investigate the trial of Fort Justice Thilina Kamage.
 
-குறித்த நபரின் தொலைபேசி இலக்கங்களுடன் விபரங்களை  உளவாளி வழங்கியுள்ளதுடன்  அந்த தொலைபேசி இலக்கங்கள் தொடர்பில் விசாரணைகள் மேற்கொள்ளப்பட்டு வருவதாகவும் தெரிவிக்கப்படுகிறது.
+According to a letter sent by a spy, Minister Tran Alas has given this instruction.
+
+The inquiries have been launched on the information received by a state spy that a person has demanded a gun via telephone to kill Justice Thilina Kamage.
+
+It is reported that the spy has provided details with the person's telephone numbers and investigations are underway.
 
 ◼️
 
 [Data](articles/bc7a212c.json)
 
+[Extended Data](ext_articles/bc7a212c.ext.json)
+
 ---
 
-### කෙහෙළියගේ අල්ලස් නඩුවේ මූලික විරෝධතා ප්‍රතික්ෂේප වෙයි
+### Keheliya's bribery case rejected
 
 *2024-03-26 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194951) · `si`
 
-හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු විත්තිකරුවන් දෙදෙනෙකුට එරෙහිව අල්ලස් කොමිසම විසින් ගොනුකර තිබෙන නඩුව පවරා පවත්වාගෙන යාමට නොහැකි බවට විත්තිය විසින් මතු කළ මූලික විරෝධතාවක් කොළඹ මහාධිකරණය අද (26) ප්‍රතික්ෂේප කළේය.
+The Colombo High Court rejected a preliminary protest against Keheliya Rambukwella and two others, continuing their bribery case. The trial, initially set for July 22, resumed with Rambukwella present.
 
-ඒ අනුව හිටපු අමාත්‍යය කෙහෙළිය රඹුක්වැල්ල සහ රාජ්‍ය මුද්‍රණ නීතිගත සංස්ථාවේ හිටපු සභාපති ජයම්පති බණ්ඩාර හීන්කෙන්ද යන මහත්වරුන්ට එරෙහිව අල්ලස් කොමිසම විසින් ගොනුකර තිබෙන නඩුව ඉදිරියටත් පවත්වාගෙන යාමට ද කොළඹ මහාධිකරණ විනිසුරු දමිත් තොටවත්ත මහතා අවසර ලබා දුන්නේය.
+🟩
 
-ඉන් අනතුරුව නඩු විභාගය ජූලි මස 22 වනදා පැවැත්වීමටද දින නියම වුණි.
+The Colombo High Court today rejected a preliminary protest against the accused by the Bribery Commission (Bribery Commission) against former Minister Keheliya Rambukwella and two accused.
 
-මෙම නඩුව කැඳවූ අවස්ථාවේදී රක්ෂිත බන්ධනාගාර ගත කර සිටින හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ද අධිකරණයට ඉදිරිපත් කර තිබිණි.
+Accordingly, Colombo High Court Judge Damith Thatawatte was also given to continue the case filed by former Minister Keheliya Rambukwella and former Minister of State Printing Corporation.
 
-...
+The trial was then held on July 22.
+
+Former Minister Keheliya Rambukwella was produced before court when the case was taken up.
+
+A sum of Rs.The case has been filed against the two defendants by the Commission.
+
+◼️
 
 [Data](articles/15ad4a88.json)
 
+[Extended Data](ext_articles/15ad4a88.ext.json)
+
 ---
 
-### හරක් කටා ට සහන ලබාදිය හැකි දැයි සොයාබලන්නැයි නීතිපතිට නියෝග
+### Train crashed in Pali - Itail area;Service is impacting a few hours
+
+*2024-03-26 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179737) · `ta`
+
+A train crashed into a cow in Pali, Italy, on Tuesday, causing service disruptions for a few hours.
+
+🟩
+
+A train crashed into a cow on Tuesday (26).
+
+The accident has been affected by the train for a few hours.
+
+◼️
+
+[Data](articles/672404e0.json)
+
+[Extended Data](ext_articles/672404e0.ext.json)
+
+---
+
+### Court orders the Attorney General to detect whether heavy relief can be given
 
 *2024-03-26 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194950) · `si`
 
-අධිකරණ නියෝග මත තංගල්ල පැරණි බන්ධනාගාරයේ රඳවා සිටින ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන නඳුන් චින්තක වික්‍රමරත්න හෙවත් 'හරක් කටා' නමැත්තා විසින් ඉල්ලා සිටින පහසුකම්  ප්‍රදානය කිරීමට හැකියාවක් තිබේදැයි සොයා බලා අප්‍රේල් මස 08 වනදා අධිකරණය හමුවේ කරුණු දක්වන ලෙස කොළඹ මහාධිකරණය අද (26) නීතිපතිවරයාට නියෝග කළේය.
+The Colombo High Court ordered the Attorney General to investigate if a powerful drug dealer held in Tangalle Prison can receive heavy relief. The defendant's lawyer requested several facilities, including a report from a Tangalle Hospital member and permission for telephone contact. The President's Counsel also asked for an external food order. The State Counsel is to check the court on April 8th regarding the accused's funds.
 
-'හරක් කටා' නමැත්තා විසින් ඉදිරිපත් කළ මෝසමකට අදාළ කරුණු සලකා බැලීමෙන් අනතුරුව කොළඹ මහාධිකරණ විනිසුරු දමිත් තොටවත්ත මහතා විසින් මෙම නියෝගය ලබා දුන්නේය.
+🟩
 
-විත්තිකාර පාර්ශවය වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ සම්පත් මෙන්ඩිස් මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මේ වනවිට රඳවුම් භාරයේ පසුවන තම සේවාදායකයා විසින් පහසුකම් කිහිපයක් ඉල්ලා සිටින බව සඳහන් කළේය.
+The Colombo High Court today ordered the Attorney General today to find out if a powerful drug dealer who is holding a strong drug dealer in the Tangalle Prison on court orders.
 
-ඒ අනුව නීතිඥවරු හමුවී උපදෙස් ලබා දීම සඳහා දැනට දිනකට එක් නීතිඥවරයෙකු වෙනුවෙන් ලබා දෙන විනාඩි 15ක් කාලය පැයක් දක්වා වැඩි කරන ලෙසත් විත්තිකරු රඳවා සිටින ස්ථානයේ ආරක්ෂක කැමරා තිබේදැයි වාර්තාවක් ඉදිරිපත් කරන ලෙස නියෝග නිකුත් කරන මෙන් විත්තිකරු ඉල්ලා සිටින බව ජනාධිපති නීතිඥවරයා සඳහන් කළේය.
+The order was issued by Mr. Colombo High Court Judge Thatawatte.
+
+Sampath Mendis appearing on behalf of the defendant, Sampath Mendis appeared in the courtroom, said his client asks for several facilities.
+
+According to the President's Counsel, the accused will issue a report to submit a report to the acquittua for 15 minutes to provide a report to a lawyer for advice in the lawyers.
+
+Also, the President's Counsel asked the defendant's mother, father and wife to conclude a report to a member of the Tangalle Hospital and request an order to facilitate telephone with their child.Was.
+
+In addition, the President's Counsel asked the court to issue an order to permit food outside the accused.
 
 ...
 
 [Data](articles/9e1f4055.json)
+
+[Extended Data](ext_articles/9e1f4055.ext.json)
 
 ---
 
@@ -185,26 +305,6 @@ Sagala Ratnayake added that further addressing the event.
 [Data](articles/d1db323f.json)
 
 [Extended Data](ext_articles/d1db323f.ext.json)
-
----
-
-### Train crashed in Pali - Itail area;Service is impacting a few hours
-
-*2024-03-26 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179737) · `ta`
-
-A train crashed into a cow in Pali, Italy, on Tuesday, causing service disruptions for a few hours.
-
-🟩
-
-A train crashed into a cow on Tuesday (26).
-
-The accident has been affected by the train for a few hours.
-
-◼️
-
-[Data](articles/672404e0.json)
-
-[Extended Data](ext_articles/672404e0.ext.json)
 
 ---
 
@@ -437,6 +537,8 @@ The proposal submitted by the Minister of Labour and Foreign Employment Manusha 
 ◼️
 
 [Data](articles/dfc23b16.json)
+
+[Extended Data](ext_articles/dfc23b16.ext.json)
 
 ---
 
@@ -2171,85 +2273,5 @@ At the same time, in February last year, the income was earned by 2, 705 rupees.
 [Data](articles/69f69def.json)
 
 [Extended Data](ext_articles/69f69def.ext.json)
-
----
-
-### IPL 2024: Royal Challengers Bangalore team defeated Punjab Kings
-
-*2024-03-26 00:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/179703) · `ta`
-
-Royal Challengers Bangalore defeated Punjab Kings by 4 wickets in the 6th IPL match, with Punjab scoring 176/6 and Bangalore 177/2. Virat Kohli's 77 and Dinesh Karthik's 28 were key.
-
-🟩
-
-Royal Challengers Bangalore won by four wickets in the 6th IPL match between Royal Challengers Bangalore and Punjab Kings.
-
-Punjab Kings scored 176 runs for the loss of 6 wickets in its 20 overs.
-
-The Royal Challengers Bangalore team scored 177 runs and Virat Kohli's 77 (49 balls) and Dinesh Karthik's 28 (10 balls) were unbeaten on the 28 (10 balls) of Virat Kohli.
-
-◼️
-
-[Data](articles/e7aac311.json)
-
-[Extended Data](ext_articles/e7aac311.ext.json)
-
----
-
-### Where has that much-touted economic recovery road map gone?
-
-*2024-03-26 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Where-has-that-much-touted-economic-recovery-road-map-gone/172-279573) · `en`
-
-If Sri Lanka continues to rely on borrowing to address the imbalance between imports and exports, the nation will inevitably confront another economic crisis within a decade, says President Ranil Wickremesinghe. He made these remarks during the inauguration ceremony of Bodhigara and Golden Fence, constructed near the historic Mangedara Tempita Viharaya in Kegalle on March 20.
-
-In the same week, the International Monetary Fund (IMF), on the advice of which Sri Lanka is currently running the economy gave a similar warning on the future of the economy. IMF’s Senior Mission Chief for Sri Lanka Peter Breuer at the media briefing following the conclusion of the Second Review of the $3 billion four-year Extended Fund Facility (EFF) programme said “We see some green shoots in the economy, and that’s the beginning of a virtuous cycle and we have to keep it there.  It is a knife edge and could easily go back to a vicious cycle, and that’s what we want to prevent,”
-
-...
-
-[Data](articles/402570a1.json)
-
-[Extended Data](ext_articles/402570a1.ext.json)
-
----
-
-### Ambitious Sri Lankan jobseekers ‘trafficked into Ukraine war zones’
-
-*2024-03-26 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/Ambitious-Sri-Lankan-jobseekers-trafficked-into-Ukraine-war-zones/131-279572) · `en`
-
-A group of 55 Sri Lankans, comprising former soldiers as well as civilians, had been trafficked to war-torn Ukraine with the promise of securing jobs in Georgia, Poland and Ukraine
-
-Two suspects operating a foreign employment agency in Kadawatha were arrested this month on charges of trafficking a group of 55 Sri Lankans to conflict zones in Ukraine
-
-Many ask the question whether it’s worth risking their lives so much in order to find employment abroad?
-
-Police Spokesperson DIG Attorney-At-Law Nihal Thalduwa urged the public to be cautious of individuals involved in human trafficking
-
-According to Prof. Herath, when people are desperate and are unaware of what is going on in the world, they often fall prey to such rackets
-
-Is the situation in Sri Lanka so grim that locals harbour hope that they could lead a better life in a country that is affected by war?
-
-...
-
-[Data](articles/8f79f1a0.json)
-
-[Extended Data](ext_articles/8f79f1a0.ext.json)
-
----
-
-### Impact of parallel and underground economies on Govt. corruption and economic failure
-
-*2024-03-26 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Impact-of-parallel-and-underground-economies-on-Govt-corruption-and-economic-failure/172-279574) · `en`
-
-This article explores the intricate relationship between political and government corruption and its detrimental impact on a country’s economic health. It delves into the complexities of fiscal deficit, parallel economy, and underground economy, collectively contributing to economic failure.
-
-By shedding light on how corruption infiltrates various sectors, affecting everything from external debt interest to the common man’s basic needs, it also examines its effects on organised crime, antisocial behavior, and anti-national elements.
-
-Corruption plays a critical role in shaping a country’s economic trajectory, steering it towards failure. This section elucidates how corruption permeates various sectors, shedding light on its far-reaching consequences for economic stability.
-
-...
-
-[Data](articles/e68adc12.json)
-
-[Extended Data](ext_articles/e68adc12.ext.json)
 
 ---

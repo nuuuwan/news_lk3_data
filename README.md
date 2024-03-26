@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 02:17:57**
+As of **2024-03-27 02:33:49**
 
 ## Newspaper Stats
 
-*Scraped **15,378** Articles*
+*Scraped **15,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 138
 bbccomsinhala | 164
 dbsjeyarajcom | 192
 newsfirstlk | 363
-dailyftlk | 824
+dailyftlk | 826
 economynextcom | 832
 islandlk | 845
 adalk | 1,312
 adaderanalk | 1,845
 tamilmirrorlk | 1,845
-virakesarilk | 2,171
+virakesarilk | 2,175
 dailymirrorlk | 2,378
 adaderanasinhalalk | 2,469
 
@@ -26,11 +26,97 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,378 (100.0%) of 15,378 articles have been extended.
+15,378 (100.0%) of 15,384 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### Event Management Association elects new team
+
+*2024-03-27 02:18:43* · [`dailyftlk`](https://www.ft.lk/business/Event-Management-Association-elects-new-team/34-760000) · `en`
+
+From left: Janice Hakel Ranasinghe, R. Abaysinghe, Kosala Sureshchandra, Bathiya Jayakody, Asst. Secretary Uzmaan Ghouse, Secretary Saliya Weerasekara, Vice President Kamesh Malwana, President Nisal Caldera, Advisory Council Member Gerry Jayasinghe, Advisory Council Member Nishan Wasalathanthri, Treasurer Gayan Attanayake, Asst. Treasurer Azmath Jahn, Mahesh Primithilal, Romesh Fernando, Charmanie De Silva.
+
+Absent: Vice President Sajith Kodikara, Kapila Pieris, Advisory Council Member Roshan Wijeyaratne
+
+Renews commitment to enhance professional standards and set industry benchmarks
+
+The Event Management Association (EMA), the only professional industry body in Sri Lanka for event management, with a membership of over 50, sheds light on the often unseen, yet crucial role that professional event managers play in creating and delivering successful events and fostering a thriving industry within the country and the region.
+
+...
+
+[Data](articles/eb67a1c2.json)
+
+---
+
+### டிஜிட்டல் பொருளாதார பரிவர்த்தனைக்கான சட்டம், இந்த வருட நடுப்பகுதியில் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் - ஜனாதிபதி
+
+*2024-03-27 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/179787) · `ta`
+
+டிஜிட்டல்  பரிவர்த்தனைக்கான முகவர் நிலையம் மற்றும் செயற்கை நுண்ணறிவுக்கான மையத்தை (AI) உருவாக்குவதற்கான   சட்டங்கள் இவ்வருட நடுப்பகுதிக்குள் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+துரித டிஜிட்டல் பரிவர்த்தனையின் ஊடாக எமது நாட்டின் பொருளாதாரத்தை இந்து சமுத்திரப் பிராந்தியத்தில் வளர்ந்து வரும் பொருளாதாரமாக மாற்ற முடியும் எனவும்  ஜனாதிபதி நம்பிக்கை தெரிவித்தார்.
+
+கொழும்பு தாஜ் சமுத்ரா ஹோட்டலில் செவ்வாய்க்கிழமை (26) முற்பகல் ஆரம்பமான டிஜிட்டல் பொது உட்கட்டமைப்பு  வசதிகள் மாநாட்டில் பிரதான உரையாற்றிய போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+
+டிஜிட்டல் பொது உள்கட்டமைப்பு  வசதிகள் மற்றும் நிர்வாகம் தொடர்பில்  பல்வேறு துறைகளை பிரதிநிதித்துவப்படுத்தும் அறிவும் அனுபவமும் கொண்ட பல இந்திய மற்றும் இலங்கை நிபுணர்கள் இதில் கலந்து கொண்டனர்.
+
+புதிய சட்டங்களை அமுல்படுத்துவதன் மூலம் ஏற்றுமதியை இலக்காகக் கொண்ட டிஜிட்டல் மற்றும் பசுமைப் பொருளாதாரமாக இலங்கையின் பொருளாதாரத்தை மாற்ற முடியும் என ஜனாதிபதி ரணில் விக்ரமசிங்க மேலும் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/98c7540c.json)
+
+---
+
+### மக்கள் மத்தியில் சஜித் - அனுர முன்னிலையில் விலகிச் சென்றவர்களை மஹிந்த இணைத்துக் கொள்ள வேண்டும் - எஸ்.பி.திஸாநாயக்க
+
+*2024-03-27 02:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/179786) · `ta`
+
+மக்கள் மத்தியில் ஐக்கிய மக்கள் சக்தியும்,மக்கள் விடுதலை முன்னணியும் முன்னிலையில் உள்ளன.ஆகவே பொதுஜன பெரமுனவில் இருந்து விலகிச் சென்றவர்களை மீண்டும் இணைத்துக் கொள்வது அத்தியாவசியமானது என்பதை மஹிந்த ராஜபக்ஷவிடம் பலமுறை வலியுறுத்தியுள்ளேன் என ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் எஸ்.பி திஸாநாயக்க தெரிவித்தார்.
+
+முன்னாள் ஜனாதிபதி கோட்டபய ராஜபக்ஷ அரசியல் ரீதியில் தோல்வி அடைந்து முழு நாட்டையும் பழிகொடுத்தார் என்பதை ஏற்றுக்கொள்ள வேண்டும்.அப்போதைய அரசாங்கத்தை பலவீனப்படுத்த தேசிய மற்றும் சர்வதேச மட்டத்தில் சூழ்ச்சிகள் முன்னெடுக்கப்பட்ட போது அரச தலைவர் என்ற அடிப்படையில் அதனை கோட்டபய ராஜபக்ஷ வெற்றிக் கொள்ளவில்லை.
+
+தற்போதைய அரசியல் நிலையில் ஐக்கிய மக்கள் சக்தியும்,மக்கள் விடுதலை முன்னணியும் முன்னிலையில் உள்ளன.மக்கள் விடுதலை முன்னணிக்கு மக்கள் மத்தியில் செல்வாக்கு அதிகரித்துள்ளது என்பதை ஏற்றுக்கொள்ள வேண்டும்.இருப்பினும் இந்த செல்வாக்கு ஜனாதிபதி தேர்தலில் வெற்றிப் பெறும் அளவுக்கு உயர்வடையாது.
+
+...
+
+[Data](articles/7ee78cdc.json)
+
+---
+
+### NPP’s global outreach: Redefining Sri Lankan political landscape
+
+*2024-03-27 01:52:30* · [`dailyftlk`](https://www.ft.lk/columns/NPP-s-global-outreach-Redefining-Sri-Lankan-political-landscape/4-759992) · `en`
+
+NPP’s foray into global politics heralds a transformative chapter in Sri Lanka’s political narrative
+
+In a bold and unprecedented move, Anura Kumara Dissanayake, the dynamic leader of the National People’s Power (NPP), has embarked on a series of international engagements, effectively internationalising the realm of Sri Lankan politics. Dissanayake’s recent addresses to the Sri Lankan diaspora in Canada, coupled with earlier visits to the United States, Australia, South Korea, and various European nations, mark a significant departure from traditional political strategies. This strategic manoeuvre not only underscores the NPP’s commitment to expanding its influence but also heralds a new era of global engagement for Sri Lankan political entities.
+
+...
+
+[Data](articles/167c7d91.json)
+
+---
+
+### நன்கொடைகளை அடிப்படையாகக் கொண்டு அரசியல் செய்வதை அனுமதிக்க முடியாது - எதிர்க்கட்சி தலைவரின் செயற்பாடு தொடர்பில் அரசாங்கம் விசனம்
+
+*2024-03-27 01:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179785) · `ta`
+
+பாடசாலைகளுக்கு நன்கொடைகளை வழங்குவதை அடிப்படையாகக் கொண்டு அரசியல் செய்வதை அனுமதிக்க முடியாது. எனது தேர்தல் தொகுதியான ஹோமாகமையிலுள்ள பாடசாலையொன்றுக்கு எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச வழங்கிய நன்கொடை அந்த தொகுதியை வெட்கப்படச் செய்துள்ளது என்று அமைச்சரவை பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+
+அமைச்சரவை தீர்மானங்களை அறிவிக்கும் வாராந்த ஊடகவியலாளர் மாநாடு செவ்வாய்கிழமை (26) இடம்பெற்ற போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+பாடசாலைகளில் அரசியல் செயற்பாடுகளில் ஈடுபட முடியாது என்று சில வாரங்களுக்கு முன்னர் அமைச்சரவையில் தீர்மானிக்கப்பட்டுள்ளது. பாடசாலைகளுக்கு எவரொருவருக்கும் நன்கொடைகளை வழங்க முடியும். எவ்வாறிருப்பினும் அதனை அடிப்படையாகக் கொண்டு அரசியல் செய்ய முடியாது.
+
+அதே போன்று அரசியல் நோக்கத்தை அடிப்படையாகக் கொண்டு பாடசாலைகளில் கூட்டங்கள் நடத்தப்படுவதையும் தவிர்த்துக் கொள்ள வேண்டும். அதற்கு இடமளிக்கப்படக் கூடாது என்ற தீர்மானித்துக்கு அமைச்சரவை அங்கீகாரமளித்துள்ளது.
+
+...
+
+[Data](articles/c36ab2cd.json)
+
+---
 
 ### Climate change impacts severely impede SDGs, says ADB–UN report
 
@@ -45,6 +131,28 @@ The impacts of climate change, including slow and sudden onset weather events, a
 [Data](articles/49730307.json)
 
 [Extended Data](ext_articles/49730307.ext.json)
+
+---
+
+### குஜராத்தை வீழ்த்தி இரண்டாவது நேரடி வெற்றியை சுவைத்தது சென்னை
+
+*2024-03-27 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179784) · `ta`
+
+சென்னை, சேப்பாக்கம் எம்.ஏ. சிதம்பரம் விளையாட்டரங்கில் இன்று செவ்வாய்க்கிழமை (26) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக்கின் 7ஆவது போட்டியில் குஜராத்தை 63 ஓட்டங்களால் வீழ்த்திய நடப்பு சம்பியன் சென்னை சுப்பர் கிங்ஸ் இந்த வருடம் தனது 2ஆவது நேரடி வெற்றியை சுவைத்தது.
+
+இப் போட்டியில் முதலில் துடுப்பெடுத்தாட  அழைக்கப்பட்ட சென்னை சுப்பர் கிங்ஸ் மூவரின் அதிரடி துடுப்பாட்டங்களின் உதவியுடன் 20 ஒவர்களில் 6 விக்கெட்களை இழந்து 206 ஓட்டங்களைக் குவித்தது.
+
+அணித் தலைவர் ருத்துராஜ் கய்க்வாட், ரச்சின் ரவிந்த்ரா ஆகிய இருவரும் 32 பந்துகளில் 62 ஓட்டங்களைப் பகிர்ந்து பலமான ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+
+ரச்சின் ரவீந்த்ரா 20 பந்துகளை எதிர்கொண்டு  6 சிக்ஸ்கள், 3 புவுண்டறிகள் உட்பட 46 ஓட்டங்களை விளாசினார்.
+
+அஜின்கியா ரஹானே 12 ஓட்டங்களை மாத்திரம் பெற்ற போதிலும் 2ஆவது விக்கெட்டில் ருத்துராஜ் கய்க்வாட்டுடன் 42 ஓட்டங்களைப் பகிர்ந்தார்.
+
+ரஹானேயைத் தொடர்ந்து ருத்துராஜ் கய்க்வாட் 46 ஓட்டங்களுடன் ஆட்டம் இழந்தார். (127 - 3 விக்.)
+
+...
+
+[Data](articles/edc5721e.json)
 
 ---
 
@@ -2157,135 +2265,5 @@ It was reported that several vehicles have fallen into the river and there are r
 [Data](articles/241368aa.json)
 
 [Extended Data](ext_articles/241368aa.ext.json)
-
----
-
-### The passion fruit production is opening technology model park
-
-*2024-03-26 14:48:28* · [`adalk`](https://www.ada.lk/breaking_news/පැෂන්-පෘට්-නිෂ්පාදන-තාක්ෂණික-ආදර්ශ-උද්‍යානය-විවෘත-කරයි/11-408808) · `si`
-
-Sri Lanka's first technology model park for passion fruit production was opened by Minister Juma Karweera. It involves 200 farmers, a factory, and aims to boost local and export markets. The project, under the Ministry of Agriculture and Industry, also includes a 2k peanut manufacturing plant. Jumbo peanuts, introduced from India, are now locally grown and used in various products, saving money and promoting local agriculture.
-
-🟩
-
-Sri Lanka's first Juma Karweera, Minister of Agriculture and Plantation Industries opened the Sri Lanka's first Jumbo Perera, Minister of Agriculture and Plantation Industries.
-
-200 farmers have launched a paced fruit and has also launched a paced fruit factory with the participation of the farmers.. Planning of this passion fruit is designed to ripen the export and local market. The farmers cultivate the park in this park so that more yields can be obtained using new techniques.
-
-The agricultural modernization project under the Ministry of Agriculture and Sturdy Industries have been completed by the Ministry of Agriculture and Structure of the Ministry of Industry.
-
-The 2k of the 2k jumbo peanut manut manut manut manut manut manut manut manufactuing (Pvt) Ltd production factory was also established under the project.
-
-...
-
-[Data](articles/cc8225f0.json)
-
-[Extended Data](ext_articles/cc8225f0.ext.json)
-
----
-
-### Another case against the Keheliya will be appointed
-
-*2024-03-26 14:44:13* · [`adalk`](https://www.ada.lk/breaking_news/කෙහෙළියට-එරෙහි-තවත්-නඩුවකට-දින-නියම-වෙයි/11-408807) · `si`
-
-Health Minister Keheliya Rambukwella and State Printing Corporation Lillena face bribery charges. Rambukwella, accused of illness, was presented to court officials. The Bribery Commission has accused them of conspiracy and dealing with the corporation. The case was previously prosecuted in the Colombo Chief Magistrate's Court, but the Constitutional Bribery Commission intervened. The second president of the State Printing Corporation, LSD, was also presented to court. The case was postponed to July 22nd.
-
-🟩
-
-Minister of Health Keheliya Rambukwella and State Printing Lillena have accused the bribery bribery by the State Printing Corporation to cover the mobile phone tariff bill.He was rejected by Colombo High Court Judge Dumith Thotawatte to be held on July 22nd
-
-In announcing the accused of illness, the defendant's Keheliya Rambukwella was produced before the Court of Prison officials to be produced before courts.
-
-The first defendant who was serving as Minister of Mass Media and Information from November 22nd to April 14, 2012, the telephone bill was limited by 144,000 / -The Bribery Commission has accused the defendants by conspiring and dealing with the corporation by the corporation.
-
-The allegations are allocated by the former Chairman of the Parliament of Parliament Keheliya Rambukwella and State Printing Corporation.
-
-The Bribery Commission has previously prosecuted the chief magistrate's Court in the Colombo Chief Magistrate's Court.The two were released.
-
-...
-
-[Data](articles/be5777ee.json)
-
-[Extended Data](ext_articles/be5777ee.ext.json)
-
----
-
-### Increasing dissatisfaction in the North and East amidst storytelling on reconciliation
-
-*2024-03-26 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179749) · `ta`
-
-Growing dissatisfaction in the North and East due to the government's failure to address Tamil grievances. Tamil MPs are protesting peacefully against the government's refusal to address their complaints, including the detention of citizens during a religious ceremony. The opposition leader has called for the release of the detainees and the right to religious freedom. The Archaeological Department has imposed restrictions on visiting Hindu temples, causing confusion and concern among the local population. President Wickremesinghe has been active in addressing land issues and supporting the 13th Amendment, aiming to devolve powers to provincial councils.
-
-🟩
-
-The dissatisfaction among the Tamil political community takes a new twist in Parliament because the government fails to treat themselves honestly and solve their grievances.. Tamil MPs are embarking on a peaceful struggle instead of talks, as it is impossible to understand the majority of votes.
-
-It is rare for political parties that represent ethnic and religious minority communities to confuse parliamentary activities. One reason for this is that their number is inadequate. But the confusion of the council is that the ruling party MPs and the opposition MPs often behave like their privacy.. President Maithripala Sirisena's postponement of Prime Minister Ranil Wickremesinghe in the October 2018 constitutional conspiracy without any precautions
-
-...
-
-[Data](articles/1e6f4405.json)
-
-[Extended Data](ext_articles/1e6f4405.ext.json)
-
----
-
-### Life Sunday attack: Former President Maithripala Sirisena's confession to the Attorney General!
-
-*2024-03-26 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179747) · `ta`
-
-Former President Maithripala Sirisena confessed to the Attorney General, revealing knowledge of the Lifeblood Sunday attack's perpetrator. He directed police to investigate a meeting in Kandy, where he claimed to have identified the Muttist involved.
-
-🟩
-
-It is reported that former President Maithripala Sirisena has been sent to the Attorney General by voting to the Criminal Investigation Department, saying that he knows who carried out the lifeblood.
-
-Voting received by former President Maithripala Sirisena by Criminal Investigation Officers for more than 6 hours has been sent to the Attorney General for further legal action.
-
-Former President Maithripala Sirisena had issued a directive to the Inspector General of Police, Tran Ales, to investigate a meeting in Kandy in a recent meeting in Kandy, saying that he was aware of the Muttist who was involved in the Sunday attack on April 21, 2019.
-
-Accordingly, the confession was received by former President Maithripala Sirisena yesterday by the Criminal Investigation Division.
-
-◼️
-
-[Data](articles/6796dc0f.json)
-
-[Extended Data](ext_articles/6796dc0f.ext.json)
-
----
-
-### National Minimum Salary Rs. Increases by 5000
-
-*2024-03-26 14:29:16* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-අවම-වැටුප-රු--5000කින්-වැඩි-කරයි/11-408806) · `si`
-
-The National Minimum Salary in Sri Lanka has been increased by Rs. 5000, as approved by the Cabinet of Labor Manusha Nanayakkara.
-
-🟩
-
-The National Minimum salary has approved the cabinet paper that the Cabinet of Labor Manusha Nanayakkara has constructed the national minimum Rs.
-
-◼️
-
-[Data](articles/6d13b4ba.json)
-
-[Extended Data](ext_articles/6d13b4ba.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-03-26 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/179746) · `ta`
-
-Today's US $297.6319 is Rs.
-
-🟩
-
-The US $ 297.6319 is Rs.
-
-◼️
-
-[Data](articles/5b147162.json)
-
-[Extended Data](ext_articles/5b147162.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 19:51:44**
+As of **2024-03-26 20:03:08**
 
 ## Newspaper Stats
 
@@ -26,33 +26,39 @@ adaderanasinhalalk | 2,466
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,331 (100.0%) of 15,336 articles have been extended.
+15,336 (100.0%) of 15,336 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### මහා බැංකු අධිපතිගෙන් රටටම සුබ පණිවුඩයක්
+### A congratulator for the country to the country of Great Bank
 
 *2024-03-26 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194970) · `si`
 
-ගෙවුණු වසරේ අවසන් කාර්තුවේ සියයට 4.5ක ආර්ථික වර්ධනයක් වාර්තා කිරීමත් සමඟ ඉදිරි මාස 12 තුළ මෙරට ආර්ථිකයේ ධනාත්මක වර්ධනයක් දැක ගත හැකි වනු ඇතැයි ශ්‍රී ලංකා මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා විශ්වාසය පළකරයි.
+Dr. Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, predicts positive economic growth for the next 12 months. The Central Bank has reduced the main deposit facility ratio and the Permanent Credit Facility. By February 2024, Sri Lanka's official asset squad is expected to be US $ 4.5 billion, with foreign scrutiny at US $ 964 million and tourism earnings at US $ 687 million. The rupee has increased by 6.7% against the dollar in 2024, with inflation expected to remain between 4% and 5%. The Central Bank has also reduced the Permanent Deposit Facility Rate and Regular Loan Facility ratios.
 
-ශ්‍රී ලංකා මහ බැංකුව අද විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් ආර්ථිකයේ වත්මන් තත්ත්වය පිළිබඳ කරුණු අනාවරණ කළේය.
+🟩
 
-ලබා ඇති ප්‍රගතිය සැලකිල්ලට ගනිමින් මහ බැංකුවේ නිත්‍ය තැන්පතු පහසුකම් අනුපාතිකය සහ නිත්‍ය ණය පහසුකම් අනුපාතිකය පිළිවෙළින් 8.5% සහ 9.5% දක්වා පදනම් ඒකක 50කින් අඩු කිරීමටද මහ බැංකුව තීරණය කර තිබේ.
+Central Bank Governor Dr. Nandalal Weerasinghe says that the country's economy will be able to achieve a positive growth in the next 12 months with the end of the last quarter of the year.
 
-මහ බැංකු නවතම වාර්තාවන්ට අනුව 2024 පෙබරවාරි මාසය අවසන් වන විට මෙරට නිල වත්කම් සංචිතය අමෙරිකානු ඩොලර් බිලියන 4.5ක්.
+The Central Bank of Sri Lanka has held a special press conference today, revealed facts about the current situation.
 
-වසරේ පළමු මාස දෙක තුළ ශ්‍රී ලංකාවට ලැබී ඇති විදේශ ප්‍රෙෂණ ප්‍රමාණය අමෙරිකානු ඩොලර් මිලියන 964ක් වන අතර, එම මාස 2 තුළ සංචාරක කර්මාන්තයෙන් උපයා ඇති ආදායම අමෙරිකානු ඩොලර් මිලියන 687කි.
+The Central Bank has decided to reduce the main deposit facility ratio of the Central Bank and the Permanent Credit Facility at Rs.
 
-එමෙන්ම රුපියල 2024 වසරේ මේ දක්වා කාලය තුළ ඩොලරයට සාපේක්ෂව 6.7%කින් අධිප්‍රමාණය වී තිබේ.
+According to the latest reports, by the end of February 2024, US $ 4.5 billion was the official asset squad of the country.
 
-4% ත් 5% ත් අතර උද්ධමන ප්‍රතිශතයක් ඉදිරියේදී පවත්වාගෙන යාමට අපේක්ෂිතය.
+Sri Lanka's foreign scrutiny is US $ 964 million in the first two months of the year and the tourism earned from the tourism is US $ 687 million.
+
+The rupee has been increased by 6.7% over the dollar in 2024.
+
+An impressive percentage of inflation is expected to maintain a percentage of inflation between 4% and 5%.
 
 ...
 
 [Data](articles/1e53c48d.json)
+
+[Extended Data](ext_articles/1e53c48d.ext.json)
 
 ---
 
@@ -72,27 +78,37 @@ Offering a seamless travel experience in both its full-flat bed business cabin a
 
 [Data](articles/8a836fb6.json)
 
+[Extended Data](ext_articles/8a836fb6.ext.json)
+
 ---
 
-### මුදල් සොරකමකට බැංකු ලොක්කියක් අත්අඩංගුවට
+### Bank boss arrested for money robbery
 
 *2024-03-26 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194969) · `si`
 
-රුපියල් මිලියන 37කට අධික මුදලක් වංචා කළ මීගමුවේ පෞද්ගලික බැංකුවක සහකාර කළමනාකාරවරියක් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මූල්‍ය හා වාණිජ විමර්ශන ඒකකය මගින් අත්අඩංගුවට ගෙන තිබේ.
+An Assistant Manager at a private bank was arrested for allegedly transferring 2022 million rupees illegally. Investigations revealed the suspect used his husband's account for transactions, including paying electricity bills. The suspect is suspected of defrauding Rs 100 million.
 
-පෞද්ගලික බැංකුවේ විවිධ ගිණුම්වලින් 2022 වසරේ සිට රුපියල් මිලියන 37ක පමණ මුදලක් නීති විරෝධීව පෞද්ගලික බැංකු ගිණුමකට හුවමාරු වී ඇති බවට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මූල්‍ය හා වාණිජ විමර්ශන ඒකකයට පැමිණිල්ලක් ලැබී තිබුණි.
+🟩
 
-ඒ අනුව සිදුකළ විමර්ශනයකින් අනතුරුව හෙළිවී ඇත්තේ එම බැංකුවේ සහකාර කළමනාකාරවරිය විසින් අදාළ නීතිවිරෝධී මුදල් හුවමාරුව සිදුකර ඇති බවය.
+A Assistant Manager of a private bank of the CID and Commerce Investigation Unit has been arrested by the Criminal Investigation Department.
 
-පාරිභෝගිකයින් ලංකා විදුලි පෞද්ගලික සමාගමට විදුලි බිල්පත් සඳහා ගෙවන මුදල් බැරවන ගිණුමකින්ද සැකකාරිය සිය සැමියාගේ ගිණුමට මුදල් බැරකර ඇති බව විමර්ශනවලදී අනාවරණ වී තිබේ.
+The Finance and Commerce Investigation Unit of the Criminal Investigation Unit of the Criminal Investigation Unit has received a complaint that about 2022 million rupees have been illegally from 2022 to a private bank account.
 
-සැකකාරිය මෙලෙස  බැංකුවෙන් රුපියල් මිලියන 100ක පමණ මුදලක් වංචා කර ඇති බවට සැක කරන බව පොලීසිය සඳහන් කළේය.
+Accordingly, after the investigation, it was revealed that the bank has done the illegal money transfer by the Assistant Manager of the Bank.
 
-මෙම වංචාව අනාවරණ වීමත් සමග සැකකාරිය ඔස්ට්‍රේලියාව බලා පලායෑමට උත්සාහා කළ ද එය ව්‍යර්ථවී තිබුණි.
+Investigations have revealed that the suspect is credited to his husband's account from a account that is cash paid to the Ceylon Electricity Bills to Electricity Bills.
+
+The suspect is suspected of defrauding Rs 100 million from the bank.
+
+The suspect was overwhelming to flee in Australia with the revelation of this fraud.
+
+Investigation officials said that she had sent her husband to Australia by spending Rs. 75 lakhs.
 
 ...
 
 [Data](articles/12dea268.json)
+
+[Extended Data](ext_articles/12dea268.ext.json)
 
 ---
 
@@ -118,19 +134,25 @@ I warmly invite our friends to break away from the United National Party and com
 
 ---
 
-### ජනාධිපතිවරණය ඔක්තෝබර් මුල් සතියේ
+### Presidential election October first week
 
 *2024-03-26 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194968) · `si`
 
-ජනාධිපතිවරණය මේ වසරේ ඔක්තෝබර් මුල් සතියේ ව්‍යවස්ථානුකූලව පවත්වන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා දැනුම්දී ඇත.
+President Ranil Wickremesinghe announced the presidential election for the first week of October, following recommendations from the Regional Cabinet.
 
-දේශපාලන ආරංචි මාර්ග සඳහන් කරන්නේ ජනපතිවරයා මේ බව කැබිනට් අමාත්‍යවරුන්ට දැනුම් දී ඇති බවය.
+🟩
 
-එසේම ජනාධිපතිවරයා විසින් පසුගියදා පත්කරනු ලැබූ සියදේශපාලන කැබිනට්ටුවටද එය දැනුම් දී ඇති බව රජයේ අභ්‍යන්තර ආරංචි මාර්ග සඳහන් කළේය.
+President Ranil Wickremesinghe has informed that the presidential election will be constituted to the first week of October this year.
+
+According to political sources, the President has informed Cabinet Ministries.
+
+According to government sources, the recommendation of the Regional Cabinet has been announced by the President.
 
 ◼️
 
 [Data](articles/9c3f1127.json)
+
+[Extended Data](ext_articles/9c3f1127.ext.json)
 
 ---
 
@@ -256,19 +278,27 @@ At the past few days at the Blodishana State, a port and aerial headquarters lau
 
 ---
 
-### මහ බැංකුව ප්‍රතිපත්ති පොලී අනුපාත තවත් පහත දමයි
+### Central Bank policies declines more
 
 *2024-03-26 18:29:51* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකුව-ප්‍රතිපත්ති-පොලී-අනුපාත-තවත්-පහත-දමයි/11-408814) · `si`
 
-මහ බැංකුවේ නිත්‍ය තැන්පතු පහසුකම් අනුපාතිකය (SDFR) සහ නිත්‍ය ණය පහසුකම් අනුපාතිකය (SLFR), පිළිවෙළින්, සියයට 8.50 සහ සියයට 9.50 දක්වා පදනම් අංක 50කින් අඩු කිරීමට ශ්‍රී ලංකා මහ බැංකුවේ මුදල් ප්‍රතිපත්ති මණ්ඩලය 2024 මාර්තු මස 25 වැනි දින පැවති රැස්වීමේදී තීරණය කර තිබේ.
+The Central Bank Monetary Policy Board (SLFR) and related facilities announced on March 25, 2024, to address current and expected macroeconomic trends, including 5% inflation. The board aims to maintain market interest rates, believing inflation risks are manageable. It emphasizes accelerating financial policy measures to boost market interest rates, especially in financial institutions.
 
-ආර්ථිකයට එහි විභව නිමැවුම් මට්ටම කරා ළඟා වීමට සහාය වෙමින්, මැදි කාලීනව උද්ධමනය ඉලක්කගත සියයට 5ක මට්ටමේ පවත්වාගෙන යෑම සඳහා වත්මන් සහ අපේක්ෂිත දේශීය හා ගෝලීය සාර්ව ආර්ථික ප්‍රවණතා පිළිබඳ මනාව සලකා බැලීමෙන් අනතුරුව මුදල් ප්‍රතිපත්ති මණ්ඩලය මෙම තීරණයට එළැඹුණ බව මහ බැංකුව නිවේදනය කරයි.
+🟩
 
-මෙම තීරණයට එළැඹීමේදී, අඩු මට්ටමක පවතින සමස්ත ඉල්ලුම් තත්ත්ව, උද්ධමනය මත බදු ව්‍යුහයේ මෑත කාලීනව සිදු කළ වෙනස්කම්වල බලපෑම අපේක්ෂිත මට්ටමට වඩා අඩු වීම, මෑතකාලීනව විදුලි ගාස්තු අඩු කිරීම හේතුවෙන් හිතකර නුදුරු කාලීන උද්ධමන ප්‍රවණතා, මනාව පාලනය වූ උද්ධමන අපේක්ෂා, විදේශීය අංශයේ අධික පීඩන නොමැති වීම සහ වෙළඳපොළ පොලී අනුපාතිකවල පහළ යෑම අඛණ්ඩව පවත්වාගෙන යෑමේ අවශ්‍යතාව යනාදිය පිළිබඳව මුදල් ප්‍රතිපත්ති මණ්ඩලය අවධානය යොමු කර තිබේ.
+The Central Bank Monetary Policy Board (SLFR), the Central Bank's Permanent Deposit Facility (SDFR) and the Permanent Credit Facility (SLFR) has been decided by the Central Bank Monetary Policy Board on March 25, 2024.
+
+The Finance Policy Board announced that the decision of the current and expected local and global macroeconomic trends to the economy, the current inflation of the current inflation at the level of 5% of the target.
+
+Increasing incurred by the total number of electricity inflationary changes in the tax structure, which is low on the basis of low-time tariffs on the total demand and inflation on inflation, has no greater pressure on favorable inflationary pressure, foreign sector.The Monetary Policy Board has focused on continuing to maintain market interest rates.
+
+The Monetary Policy Board has believed that the risk of rising inflation will not be significant in the face of inflation.
 
 ...
 
 [Data](articles/e81c3b6e.json)
+
+[Extended Data](ext_articles/e81c3b6e.ext.json)
 
 ---
 

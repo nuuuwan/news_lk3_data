@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 12:03:57**
+As of **2024-03-26 12:18:15**
 
 ## Newspaper Stats
 
-*Scraped **15,225** Articles*
+*Scraped **15,226** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 843
 adalk | 1,296
 adaderanalk | 1,827
 tamilmirrorlk | 1,832
-virakesarilk | 2,137
+virakesarilk | 2,138
 dailymirrorlk | 2,351
 adaderanasinhalalk | 2,444
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,444
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,221 (100.0%) of 15,225 articles have been extended.
+15,225 (100.0%) of 15,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### பொலிஸ் உத்தியோகத்தரின் துப்பாக்கி மாயம்
+### The gun magic of the police officer
 
 *2024-03-26 11:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸ்-உத்தியோகத்தரின்-துப்பாக்கி-மாயம்/175-335210) · `ta`
 
-மாத்தளை, வில்கமுவ பொலிஸ் நிலையத்தில் கடமையாற்றும் பொலிஸ் உத்தியோகத்தர் ஒருவரின் T-56 துப்பாக்கி காணாமல் போன சம்பவம் தொடர்பில் விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+Investigations into the disappearance of a T-56 rifle from a police officer at the Wilgamuwa police station in Matale have begun. The weapon was missing from the security booth while the officer was on duty.
 
-பொலிஸ் உத்தியோகத்தர் பிரதான வாயிலில் கடமையில் ஈடுபட்டிருந்த வேளையில் பாதுகாப்புச் சாவடியில் ஆயுதம் காணாமல் போயுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் DIG நிஹால் தல்துவ தெரிவித்தார்.
+🟩
 
-குறித்த பொலிஸ் அதிகாரியிடம் வாக்குமூலம் பதிவு செய்யப்பட்டுள்ளதாகவும், துப்பாக்கி திருடப்பட்டதா அல்லது காணாமல் போனதற்கு வேறு காரணங்கள் உள்ளதா என்பது குறித்து விசாரணை நடைபெற்று வருவதாகவும் அவர் கூறினார்.
+Investigations have begun in connection with the disappearance of a T-56 rifle of a police officer working at the Wilgamuwa police station in Matale.
+
+Police Media Spokesperson DIG Nihal Talduwa said the weapon was missing at the security booth while the police officer was on duty at the main gate.
+
+He said the affidavit had been registered with the police officer and whether there were other reasons for the disappearance of the gun.
 
 ◼️
 
 [Data](articles/908f5d2e.json)
+
+[Extended Data](ext_articles/908f5d2e.ext.json)
 
 ---
 
@@ -66,39 +72,95 @@ Upon receiving the tip-off, the minister ordered that an investigation be immedi
 
 [Data](articles/e3ac4577.json)
 
+[Extended Data](ext_articles/e3ac4577.ext.json)
+
 ---
 
-### வேலைவாய்ப்பு வழங்கிய போலி மருத்துவர் கைது
+### ஹெரோயின் போதைப்பொருளுடன் ஒருவர் கைது!
+
+*2024-03-26 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179721) · `ta`
+
+கல்கிஸ்ஸ , படோவிட்ட பிரதேசத்தில் கல்கிஸ்ஸ பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபரொருவர் கைது செய்யப்பட்டுள்ளார்.
+
+இவரிடமிருந்து 7 கிராம் 300 மில்லி கிராம் ஹெரோயின் போதைப் பொருள் பொலிஸாரினால் கைப்பற்றப்பட்டுள்ளது.
+
+இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபர் தெஹிவளை பிரதேசத்தைச் சேர்ந்த 24 வயதுடயவராவார். இந்த சம்பவம் தொடர்பாக, கல்கிஸ்ஸ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/369eba1e.json)
+
+---
+
+### Life jail for former president of the Chinese Football Association
+
+*2024-03-26 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179714) · `ta`
+
+Former Chinese Football Association president Sen Shywan sentenced to life imprisonment for receiving $11 million in bribes, causing serious consequences in the country's football sector.
+
+🟩
+
+The court has sentenced him to life imprisonment in a bribery charges against former Chinese Football Association, Sen Shywan.
+
+Shiwan was accused of receiving bribes worth $ 11 million.
+
+The magazine run by the Chinese Communist Party said that the amount of bribes received by Shiyuan was huge and he had contributed serious consequences to the country's football sector.
+
+◼️
+
+[Data](articles/c092f596.json)
+
+[Extended Data](ext_articles/c092f596.ext.json)
+
+---
+
+### Arresting fake doctor who provided employment
 
 *2024-03-26 11:52:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேலைவாய்ப்பு-வழங்கிய-போலி-மருத்துவர்-கைது/175-335209) · `ta`
 
-தான் ஒரு மருத்துவர் எனக் கூறி இஸ்ரேலில் விவசாய துறையில் வேலை வாய்ப்புகளை வழங்குவதாகத் தெரிவித்து தொழிலாளர் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சின் உயர் அதிகாரிகளின் பெயர்களை கூறி பணத்தை மோசடி செய்த நபரை இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் (SLFEB) சிறப்பு புலனாய்வு திணைக்கள அதிகாரிகள் நேற்று கைது செய்துள்ளனர்.
+SLFEB officials arrest a man for defrauding Rs 7.65M by pretending to provide employment in Israel's agricultural sector. He invited victims to the Ministry and Bureau, using the names of top officials. The suspect, from Colombo, has been remanded until April 3. Further investigations are ongoing.
 
-கொழும்பு 07, விஜேராம மாவத்தையில் வசிக்கும் சந்தேக நபர், தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சின் உயர் அதிகாரிகள் ஊடாக வெளிநாட்டு வேலைகளை வழங்க முடியும் எனக் கூறியுள்ளதுடன், அவர் ஒரு மருத்துவர் எனவும் அவர் தெரிவித்துள்ளார்.
+🟩
 
-பணத்தை பெற்றுக் கொள்வதற்காக வெளிநாட்டு வேலைவாய்ப்பு அமைச்சு மற்றும் நாரஹேன்பிட்டியில் உள்ள வெளிநாட்டு வேலைவாய்ப்பு பணியகத்திற்கு ஆட்களை அழைத்துள்ளார்.
+Special Investigation Department officials of the Sri Lanka Foreign Employment Bureau (SLFEB) have arrested a man who defrauded the names of the top officials of the Labor and Foreign Employment Ministry for allegedly providing employment opportunities in the agricultural sector in Israel.
 
-சந்தேகநபர் ஒன்பது பேரிடம் இருந்து 7,650,000 ரூபா பணத்தை மோசடி செய்துள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது. அவருக்குப் பணம் வழங்கிய நபர் ஒருவர் செய்த முறைப்பாட்டின் அடிப்படையில் தொழிலாளர் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சில் அவர் கைது செய்யப்பட்டுள்ளார்.
+The suspect living in Wijerama Mawatha, Colombo, Colombo 07, said that he could provide foreign jobs through the Ministry of Labor and Foreign Employment, he said.
+
+He has invited people to the Foreign Employment Ministry and the Foreign Employment Bureau in Narahenpita to get the money.
+
+Investigations have revealed that the suspect has defrauded Rs 7,650,000. He has been arrested in the Labor and Foreign Employment Ministry on the basis of a complaint lodged by a person who paid him.
+
+The suspect has been produced before the Colombo Magistrate's Court and has been ordered to be remanded until April 3.
+
+Further investigations are ongoing as the wife of the suspect who helped the scam has gone into hiding.
 
 ...
 
 [Data](articles/233fe490.json)
 
+[Extended Data](ext_articles/233fe490.ext.json)
+
 ---
 
-### இஸ்ரேல் சர்வதேச சமூகத்தின் ஆதரவை இழந்துவருகின்றது - டிரம்ப் எச்சரிக்கை
+### Israel loses the support of international community - Trump alert
 
 *2024-03-26 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/179727) · `ta`
 
-இஸ்ரேல் சர்வதேசசமூகத்தின் ஆதரவை இழந்துகொண்டிருக்கின்றது என தெரிவித்துள்ள முன்னாள் அமெரிக்க ஜனாதிபதி டொனால்ட் டிரம்ப் காசா யுத்தத்தை இஸ்ரேல் விரைவில் முடிக்கவேண்டும் என தெரிவித்துள்ளார்.
+Trump advises Israel to quickly end the war, warning of losing global support.
 
-ஒக்டோபர் ஏழாம் திகதி தாக்குதலின் பின்னர் இஸ்ரேல் செயற்பட்ட விதத்திலேயே நானும் செயற்பட்டிருப்பேன் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+🟩
 
-நீங்கள் யுத்தத்தை விரைவில் முடிக்கவேண்டும் உலகின் ஆதரவை இழந்துவருவதால் இஸ்ரேல் மிகவும் அவதானமாகயிருக்கவேண்டும் என டிரம்ப் தெரிவித்துள்ளார்.
+Former US President Donald Trump Trump has said that Israel should end the war as soon as possible.
+
+He said that I would have acted in the way Israel operated after the attack on the seventh of October.
+
+Trump has said that Israel should be very careful as you have to end the war soon and lose the world's support.
 
 ◼️
 
 [Data](articles/e0f856d1.json)
+
+[Extended Data](ext_articles/e0f856d1.ext.json)
 
 ---
 
@@ -513,28 +575,6 @@ He was well-known for a number of hit songs including ‘Ege Sinahawa Thahanam�
 [Data](articles/e36bd80d.json)
 
 [Extended Data](ext_articles/e36bd80d.ext.json)
-
----
-
-### Life jail for former president of the Chinese Football Association
-
-*2024-03-26 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179714) · `ta`
-
-Former Chinese Football Association president Sen Shywan sentenced to life imprisonment for receiving $11 million in bribes, causing serious consequences in the country's football sector.
-
-🟩
-
-The court has sentenced him to life imprisonment in a bribery charges against former Chinese Football Association, Sen Shywan.
-
-Shiwan was accused of receiving bribes worth $ 11 million.
-
-The magazine run by the Chinese Communist Party said that the amount of bribes received by Shiyuan was huge and he had contributed serious consequences to the country's football sector.
-
-◼️
-
-[Data](articles/c092f596.json)
-
-[Extended Data](ext_articles/c092f596.ext.json)
 
 ---
 
@@ -2175,31 +2215,5 @@ Mahesh Muthuswamy's cinematography by the film 'Music Storm' A. Remble. Rahman h
 [Data](articles/39943301.json)
 
 [Extended Data](ext_articles/39943301.ext.json)
-
----
-
-### 'Delayed from the Kelaniya University student to die because of the delay of the authorities'
-
-*2024-03-25 21:11:58* · [`adalk`](https://www.ada.lk/breaking_news/’කැලණිය-සරසවි-සිසුවාට-මිය-යෑමට--වූයේ-බලධාරීන්ගේ-ප්‍රමාදයක්-නිසයි’/11-408799) · `si`
-
-A student from the University of Kelaniya died due to a delay in medical assistance. Students protested, demanding an investigation into the incident. The deceased was a Geography student from Moneragala. The protest led to the university's closure, and the Faculty of Science administration was involved.
-
-🟩
-
-With the death of a student of the University of Kelaniya, the students were closed and protesting to the university today (25) and protest after discussing the Vice Chancellor.
-
-The students said the student in the student hostel was about forty minutes to give a vehicle nor a vehicle. However, students have said that if the student had died when the student had been admitted to the hospital and had taken his life had been saved.
-
-The university and non-academic workers were unable to enter the university for their duties as students remain in the university road and protesting the policy of administration.
-
-The deceased has been identified as a student of the Geography of the Geography of the Institute of Social Sciences, a resident of Moneragala, Boxesery, Pelani Kumbu.
-
-By the afternoon of the students by the afternoon of the students, the students opened the doors and stopped the protest and engaged in the protest.
-
-...
-
-[Data](articles/9f6d526e.json)
-
-[Extended Data](ext_articles/9f6d526e.ext.json)
 
 ---

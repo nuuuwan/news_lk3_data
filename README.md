@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 15:03:11**
+As of **2024-03-26 15:18:05**
 
 ## Newspaper Stats
 
-*Scraped **15,272** Articles*
+*Scraped **15,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ adalk | 1,299
 adaderanalk | 1,835
 tamilmirrorlk | 1,838
 virakesarilk | 2,152
-dailymirrorlk | 2,358
-adaderanasinhalalk | 2,451
+dailymirrorlk | 2,359
+adaderanasinhalalk | 2,452
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,271 (100.0%) of 15,272 articles have been extended.
+15,272 (100.0%) of 15,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### Cabinet Paper to reduce electricity charges for Northern Province farmers
+
+*2024-03-26 14:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-Paper-to-reduce-electricity-charges-for-Northern-Province-farmers/108-279634) · `en`
+
+Colombo, March 26 (Daily Mirror) - A Cabinet Paper will be submitted to reduce the electricity charges of farmers in the Northern Province who use electricity for agricultural purposes, Agriculture and Plantation Industries Minister Mahinda Amaraweera said.
+
+He said the decision was taken in consideration of the commitment of the people of the Northern Province to carry out all the work with great effort in the agricultural activities.
+
+The Minister said that the President advised that most of the money allocated to the Ministries should be allocated to the people of the Northern and Eastrn Provinces when implementing development activities.
+
+...
+
+[Data](articles/c1dc2b8c.json)
+
+---
+
+### පාලමේ ගැටී ඇත්තේ ශ්‍රී ලංකාවට එමින් සිටි නැවක්
+
+*2024-03-26 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194955) · `si`
+
+අමෙරිකාවේ බැල්ටිමෝ ප්‍රදේශයේ Patapsco ගංගාව හරහා තිබූ විශාල පාලමේ ගැටී ඇත්තේ ශ්‍රී ලංකාව බලා එමින් සිටි නෞකාවක් බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+Dali නම් එම බහාලුම් ප්‍රවාහන නෞකාව ගැටීම හේතුවෙන් සැතපුම් 1.6ක් දිගැති එම පාලම සම්පූර්ණයෙන්ම කඩා වැටී තිබේ.
+
+ඒ අවස්ථාව දැක්වෙන වීඩියෝ මේ වන විට සමාජ මාධ්‍යයෙහි සංසරණය වෙයි.
+
+පාලම කඩා වැටීම හේතුවෙන් කිසිවෙක් හෝ තුවාල ලබා ඇතිබව මුලදී වාර්තා වී නොතිබුණද මේ වනවිට එම අනතුර හේතුවෙන් 7 දෙනෙක් පමණ අතුරුදන්ව ඇතැයි වාර්තා වෙයි.
+
+වාහන කිහිපයක් ගඟට වැටී ඇතැයි අනුමාන කෙරෙන අතර එම ස්ථානයේ සහන කණ්ඩායම් සිටින බව ද වාර්තා විය.
+
+◼️
+
+[Data](articles/241368aa.json)
+
+---
 
 ### Increasing dissatisfaction in the North and East amidst storytelling on reconciliation
 
@@ -158,8 +194,6 @@ The Baltimore City Fire Department described the collapse as a mass-casualty inc
 
 *2024-03-26 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98214/major-us-bridge-collapses-after-being-hit-by-colombo-bound-ship) · `en`
 
-The Francis Scott Key Bridge in #US city #Baltimore collapsed on Tue following a ship collision, CNN reported. Traffic is being redirected, and it remains uncertain if there were any injuries.pic.twitter.com/6q5smwGLWD— Global Times (@globaltimesnews) March 26, 2024
-
 Baltimore’s Key Bridge has collapsed after it was hit by a container ship, sending cars that were crossing at the time plunging into the waters of the Patapsco River.
 
 At least seven people are believed to be in the water and rescue efforts are ongoing at the site of the collapse, according to the Baltimore Fire Department.
@@ -168,9 +202,13 @@ Multiple videos shared on social media showed a large cargo ship ramming into on
 
 A large portion of the Francis Scott Key Bridge is now under water, as flight tracking website FlightRadar24 showed the Maryland State Police circling the site of the crash in a helicopter.
 
+Kevin Cartwright, director of communications for the fire department, said the city was dealing with a “developing mass casualty incident”.
+
 ...
 
 [Data](articles/7ace61aa.json)
+
+[Extended Data](ext_articles/7ace61aa.ext.json)
 
 ---
 
@@ -2203,53 +2241,5 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/50ef8c4a.json)
 
 [Extended Data](ext_articles/50ef8c4a.ext.json)
-
----
-
-### Tamil Nadu’s Day Of Destiny Is Very Close
-
-*2024-03-26 07:29:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/tamil-nadus-day-of-destiny-is-very-close/) · `en`
-
-Tamil Nadu has taken a decade of indefatigable effort of which the last five years were marked by incessant work by both the state and the centre. Even a weighty mass moves with impetus from the leadership. So the King, so the subjects goes a Tamil saying. At the best click of the moment, Modi captured it and Annamalai has moved in tandem. At no point in over a century, have two reputable leaders in Indian politics moved in tandem from the centre and the state as of now.
-
-Tamil Nadu Performance in 2014 and 2019 and Forecast for 2024
-
-...
-
-[Data](articles/b9140681.json)
-
-[Extended Data](ext_articles/b9140681.ext.json)
-
----
-
-### A Security Council proposal passed for first ceasefire in Gaza
-
-*2024-03-26 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194934) · `si`
-
-The UN Security Council passed a ceasefire proposal for Gaza, with Hamas requesting hostage release. Despite US opposition, Israel's Netanyahu office advocated for change. Critics argue this signals a rift between Israel and the US.
-
-🟩
-
-The United Nations Security Council has passed a proposal to immediately implement a ceasefire at Gaza.
-
-It is reported that the Hamas has also requested the release of unconditional hostages.
-
-After the opening operations in Gaza last year, several proposals to the Defense Council were not passed in the United States, but in the face of the United States.
-
-However, the US has avoided the proposal yesterday (25th) and the US is not used against it.
-
-Israeli Prime Minister Benjamin Netanyahu's office has worked for the change in the United States.
-
-Israel has also taken steps to cancel the discussion on Washington this week.
-
-Critics say that this has received a signal of ancientity between Israel and the US.
-
-However, UN Palestinian Representative Riyadh Mansoor, who accepted this proposal, said that the resolution was delayed when more than 100,000 IDPs were killed.
-
-◼️
-
-[Data](articles/7239cac3.json)
-
-[Extended Data](ext_articles/7239cac3.ext.json)
 
 ---

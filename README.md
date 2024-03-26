@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 00:18:08**
+As of **2024-03-27 00:34:21**
 
 ## Newspaper Stats
 
-*Scraped **15,370** Articles*
+*Scraped **15,371** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,36 @@ adalk | 1,312
 adaderanalk | 1,844
 tamilmirrorlk | 1,845
 virakesarilk | 2,170
-dailymirrorlk | 2,377
+dailymirrorlk | 2,378
 adaderanasinhalalk | 2,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,367 (100.0%) of 15,370 articles have been extended.
+15,370 (100.0%) of 15,371 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-27 (Wednesday)
+
+### Hot air over elections and Commissioner of Elections - EDITORIAL
+
+*2024-03-27 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Hot-air-over-elections-and-Commissioner-of-Elections-EDITORIAL/172-279651) · `en`
+
+The Commissioner of Elections made it clear to all Lankans that the presidential elections would be held in a timely manner in keeping with Constitutional requirements.
+
+To him we owe a vote of thanks. Many a citizen had begun to doubt whether elections -presidential or general elections- would be held at any time in the near future, given the number of elections postponed via sleight of hand over the years.
+
+Even as we pen these lines, our country is going through one of the hottest periods weather-wise. As though this were not bad enough, political party leaders and their followers are also breathing fire at their opponents, adding to the heat.
+
+We continue witnessing intra-party squabbles in the Samagi Jana Balawegaya and dirty linen being washed in public. The ‘National People’s Power is gaining in popularity. But in the past it has not been able to turn this into actual votes.
+
+...
+
+[Data](articles/c0e99e90.json)
+
+---
 
 ### 2024-03-26 (Tuesday)
 
@@ -48,49 +68,65 @@ Bhagwati mentioned that the stock markets in the region are already seeing a pic
 
 [Data](articles/685c15e7.json)
 
+[Extended Data](ext_articles/685c15e7.ext.json)
+
 ---
 
-### கப்பல் மோதி உடைந்து விழுந்த பாலம்; அமெரிக்காவில் அவசர நிலை பிரகடனம்
+### A bridge that collapsed in the ship;Declaration of Emergency in the United States
 
 *2024-03-26 23:50:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கப்பல்-மோதி-உடைந்து-விழுந்த-பாலம்-அமெரிக்காவில்-அவசர-நிலை-பிரகடனம்/50-335236) · `ta`
 
-சிங்கப்பூரில் இருந்து இலங்கை நோக்கி புறப்பட்டு வந்த ராட்சத கப்பல் ஒன்று அமெரிக்காவில்  பாலம் ஒன்றுடன் மோதி விபத்துக்குள்ளான நிலையில், அங்கு அவசர நிலை பிரகடனப்படுத்தப்பட்டு உள்ளது.
+A ship from Singapore to Sri Lanka crashed into the Francis Scott Bridge in the US, causing it to collapse into a river. An emergency was declared for rescue and investigation. The bridge, in Maryland, connects two major cities and was built over a giant river. The ship, carrying Indian crew, was 300 meters long. Over 20 cars fell into the river, and emergency services are responding.
 
-அமெரிக்காவில் கப்பல் மோதி பிரான்சிஸ் ஸ்காட் பாலம் உடைந்த நிலையில், ஆற்றில் விழுந்தவர்களை மீட்பதற்காகவும், இந்த விபத்து குறித்து விசாரிப்பதற்காகவும் உடனடியாக அவசர நிலை  பிரகடனப்படுத்தப்பட்டுள்ளது.
+🟩
 
-அமெரிக்காவின் மேரிலாண்ட் மாகாணத்தில் உள்ளது பல்டிமோர் நகரம். இங்கு பாயும் படப்ஸ்கோ என்ற ராட்சத ஆற்றுக்கு மேலே பிரம்மாண்டமான பாலம் அமைக்கப்பட்டிருந்தது.
+Emergency has been declared as a giant ship from Singapore to Sri Lanka crashed into a bridge in the United States.
 
-பிரான்சிஸ் ஸ்காட் (Francis Scott) என அழைக்கப்படும் இந்த பாலமானது இரண்டு முக்கிய நகரங்களையும் இணைக்கிறது. ஆதலால், அந்த பாலத்தில் எப்போதுமே வாகனங்கள் சென்று கொண்டே இருக்கும்.
+In the United States, the Francis Scott Bridge has broken into a ship, and an immediate state of emergency has been declared to rescue those who fell into the river and investigate the accident.
 
-இந்நிலையில், நேற்று அதிகாலை அந்த பாலத்தின் மீது கப்பல் மோதியது. இதில் அடுத்த நொடியே அந்த பாலம் அப்படியே சரிந்து ஆற்றில் விழுந்தது.
+Taltimore City is in the state of Maryland, USA. The massive bridge was built above the giant river, the giant river.
 
-300 மீட்டம் நீளம் கொண்ட இந்த கப்பல் இலங்கையின் கொழும்பு நோக்கி சென்று கொண்டிருந்தது. அதில் இருந்த மாலுமிகள் உள்பட அனைத்து பணியாளர்களும் இந்தியர்கள் ஆவர்.
+The bridge, also known as Francis Scott, connects two major cities. Therefore, vehicles will always be on the bridge.
 
-...
+In this case, the ship crashed into the bridge early yesterday. The next moment the bridge collapsed and fell into the river.
+
+The ship, which was 300 meters long, was heading to Colombo, Sri Lanka. All the employees, including the sailors, were Indians.
+
+In this, more than 20 cars on the bridge fell into the river. The police and the firefighters are working on the scene.R
+
+◼️
 
 [Data](articles/b973dd41.json)
 
+[Extended Data](ext_articles/b973dd41.ext.json)
+
 ---
 
-### ஐ.பி.எல் 2024 : குஜராத் டைட்டன்ஸ் அணியை வீழ்த்திய சென்னை சூப்பர் கிங்ஸ் அணி
+### IPL 2024: Chennai Super Kings team defeated Gujarat Titans
 
 *2024-03-26 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/179782) · `ta`
 
-சென்னை சூப்பர் கிங்ஸ் அணி மற்றும் குஜராத் டைட்டன்ஸ் அணிகளுக்கு இடையில் நடைபெற்ற 7 ஆவது ஐபிஎல் போட்டியில் சென்னை சூப்பர் கிங்ஸ் அணி 63 ஓட்டங்களால் வெற்றிப்பெற்றுள்ளது.
+Chennai Super Kings lost to Gujarat Titans by 63 runs in IPL 2024. Gujarat won the toss and chose to bat first, losing 8 wickets for 143 runs. Chennai lost 6 wickets for 206 runs, with Shivam Dubey scoring 51.
 
-போட்டியில் நாணய சுழற்சியில் வெற்றிப் பெற்ற குஜராத் அணி முதலில் துடுப்பெடுத்தாடுமாறு சென்னை அணிக்கு அழைப்பு விடுத்தது.
+🟩
 
-அதன்படி, முதலில் துடுப்பெடுத்தாடிய சென்னை அணி நிர்ணயிக்கப்பட்ட 20 ஓவர்கள் முடிவில் 6 விக்கெட்டுக்களை இழந்து 206 ஓட்டங்களைப் பெற்றுக் கொண்டது.
+Chennai Super Kings won by 63 runs in the 7th IPL match between Chennai Super Kings and Gujarat Titans.
 
-சென்னை அணி சார்பில் அதிரடியாக துடுப்பெடுத்தாடிய சிவம் துபே 51 ஓட்டங்களை அதிகபட்சமாக பெற்றுக் கொண்டார்.
+The Gujarat team won the match in the tournament and called for the Chennai team to bat first.
 
-ருதுராஜ் கெய்க்வாட் மற்றும் ரச்சின் ரவீந்திர ஆகியோர் தலா 46 ஓட்டங்களைப் பெற்றுக் கொண்டனர்.
+Accordingly, the Chennai team lost the first 20 overs at the end of the 20 overs, losing 6 wickets and scoring 206 runs.
 
-அதன் படி 207 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய குஜராத் டைட்டன்ஸ் அணி தனது நிர்ணயிக்கப்பட்ட 20 ஓவர்கள் முடிவில் 8 விக்கெட்டுக்களை இழந்து 143 ஓட்டங்களை மாத்திரமே பெற்று இப்போட்டியில் தோல்வியடைந்தது.
+Shivam Dubey scored 51 runs for the Chennai team.
+
+Ruduraj Gaikwad and Rachin Ravindra scored 46 runs each.
+
+Accordingly, the Gujarat Titans lost 8 wickets at the end of their 20 overs and lost only 143 runs.
 
 ◼️
 
 [Data](articles/40a100b6.json)
+
+[Extended Data](ext_articles/40a100b6.ext.json)
 
 ---
 
@@ -2168,6 +2204,8 @@ The Baltimore City Fire Department described the collapse as a mass-casualty inc
 
 *2024-03-26 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98214/major-us-bridge-collapses-after-being-hit-by-colombo-bound-ship) · `en`
 
+The Francis Scott Key Bridge in #US city #Baltimore collapsed on Tue following a ship collision, CNN reported. Traffic is being redirected, and it remains uncertain if there were any injuries.pic.twitter.com/6q5smwGLWD— Global Times (@globaltimesnews) March 26, 2024
+
 Baltimore’s Key Bridge has collapsed after it was hit by a container ship, sending cars that were crossing at the time plunging into the waters of the Patapsco River.
 
 At least seven people are believed to be in the water and rescue efforts are ongoing at the site of the collapse, according to the Baltimore Fire Department.
@@ -2175,8 +2213,6 @@ At least seven people are believed to be in the water and rescue efforts are ong
 Multiple videos shared on social media showed a large cargo ship ramming into one of the bridge’s support pillars, causing it to come crashing down into the river.
 
 A large portion of the Francis Scott Key Bridge is now under water, as flight tracking website FlightRadar24 showed the Maryland State Police circling the site of the crash in a helicopter.
-
-Kevin Cartwright, director of communications for the fire department, said the city was dealing with a “developing mass casualty incident”.
 
 ...
 
@@ -2267,29 +2303,5 @@ The proposal was presented by the Power and Energy Minister to award the contrac
 [Data](articles/77566266.json)
 
 [Extended Data](ext_articles/77566266.ext.json)
-
----
-
-### Kirimala Measurement: Abandoned by Resistance
-
-*2024-03-26 14:05:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கீரிமலை-அளவீடு-எதிர்ப்பால்-கைவிடப்பட்டது/71-335215) · `ta`
-
-Land Survey Department officials in Jaffna visited the Kirimalai Presidential House for land measurements, facing protests from landowners. After a letter from landowners expressing no interest in the measurements, officials left. The area affected includes Nakuleswaram, Kankesanthurai, and several other locations in the Tellippalai Divisional Secretariat Division.
-
-🟩
-
-Land Survey Department officials visited the Jaffna -Kirimalai Presidential House on Tuesday (26) at 10 am to make measurements on the basis of the development of the city.
-
-Land owners and civilians were protesting for the land measurement and intercepting the vehicle's vehicle.
-
-The landlord officials returned from there after the land owners wrote and signed a letter that they had no interest in measurement of the land in the wake of the long -term opposition of the land owners.
-
-Nakuleswaram (J/226) and Kankesanthurai (J/233) in the Tellippalai Divisional Secretariat Division, the Vellarkadu, Punnanpudukkadu, Padiyan, Pudukkadu, Solaisenathirayan (29 acres)Significantly.
-
-◼️
-
-[Data](articles/63d33461.json)
-
-[Extended Data](ext_articles/63d33461.ext.json)
 
 ---

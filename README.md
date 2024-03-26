@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 10:33:26**
+As of **2024-03-26 10:50:54**
 
 ## Newspaper Stats
 
-*Scraped **15,195** Articles*
+*Scraped **15,199** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,85 @@ economynextcom | 818
 dailyftlk | 819
 islandlk | 843
 adalk | 1,293
-adaderanalk | 1,825
+adaderanalk | 1,826
 tamilmirrorlk | 1,828
-virakesarilk | 2,130
-dailymirrorlk | 2,344
+virakesarilk | 2,131
+dailymirrorlk | 2,346
 adaderanasinhalalk | 2,440
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,195 (100.0%) of 15,195 articles have been extended.
+15,195 (100.0%) of 15,199 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### Business couple nabbed with live animals at BIA
+
+*2024-03-26 10:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Business-couple-nabbed-with-live-animals-at-BIA/108-279621) · `en`
+
+Katunayake, March 6 (Daily Mirror) - A business couple was arrested last evening at the arrival lounge of the Bandaranaike International Airport (BIA) by Customs officials for attempting to smuggle 88 live animals worth Rs. 4 million into the country.
+
+The animals were imported from Thailand while violating Sri Lanka's Wildlife and Flora Ordinance, Animal Diseases Act and Customs Ordinance.
+
+The suspects were arrested with the live animals following a joint raid conducted by a group of officials from the Revenue Monitoring Division of the Customs, the Biodiversity Unit of the Customs, and the Animal Quarantine Institute of the Department of Agriculture.
+
+The young business couple is a resident of the Puwakpitiya area in Avissawella, and they arrived at the BIA at 4.35 p.m. from Bankok via SriLankan Airlines flight UL-405.
+
+...
+
+[Data](articles/5a223f42.json)
+
+---
+
+### Veteran singer Chandra Kumara Kandanarachchi passes away
+
+*2024-03-26 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98209/veteran-singer-chandra-kumara-kandanarachchi-passes-away) · `en`
+
+Veteran Sri Lankan singer Chandra Kumara Kandanarachchi passed away on Tuesday morning (March 26). He was aged 76 at the time of his demise.
+
+◼️
+
+[Data](articles/e36bd80d.json)
+
+---
+
+### சீன கால்பந்தாட்டச் சங்கத்தின் முன்னாள் தலைவருக்கு ஆயுள் சிறை
+
+*2024-03-26 10:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179714) · `ta`
+
+சீன கால்பந்தாட்டச் சங்கத்தின் முன்னாள் தலைவர் சென் ஷியுவனுக்கு எதிரான இலஞ்சக் குற்றச்சாட்டு வழக்கில், அவருக்கு ஆயுட்கால சிறைத்தண்டனை விதித்து அந்நாட்டு நீதிமன்றம் தீர்ப்பளித்துள்ளது.
+
+11 மில்லியன் டொலர் பெறுமதியான இலஞ்சங்களைப் பெற்றிருந்தார் என ஷியுவான் மீது குற்றம் சுமத்தப்பட்டிருந்தது.
+
+ஷியுவன் பெற்ற இலஞ்சங்களின் தொகை மிகப் பெரியது எனவும், அவர் நாட்டின் கால்பந்தாட்டத்துறைக்கு பாரதூரமான பின்விளைவுகளை ஏற்படுத்தியுள்ளார் எனவும்,  சீன கம்யூனிஸ்ட் கட்சியினனால் நடத்தப்படும் பத்திரிகை தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/c092f596.json)
+
+---
+
+### 12 more underworld gang members arrested
+
+*2024-03-26 10:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/12-more-underworld-gang-members-arrested/108-279619) · `en`
+
+Colombo, March 26 (Daily Mirror) - Twelve more suspected criminals of underworld gangs have been arrested yesterday during the special operation launched to crack down on organized criminal activities.
+
+Police said in addition to the 12 criminals, six more suspects have been arrested during the raid.
+
+In response to a concerning increase in organized criminal activities in the Western and Southern Provinces, a special operation targeting 20 identified organized criminal gangs in the country was launched under the 'Yukthiya' initiative last Tuesday (19).
+
+Accordingly, a total of 63 underworld gang members have been arrested so far and they are being questioned under detention orders.
+
+◼️
+
+[Data](articles/f1dd32e3.json)
+
+---
 
 ### If the government is backing the election, the public will take the streets against it - Pavral
 
@@ -2121,91 +2185,5 @@ While addressing the event marking the beginning of the 2024 school meal program
 [Data](articles/2bb49193.json)
 
 [Extended Data](ext_articles/2bb49193.ext.json)
-
----
-
-### Three injured in luxury bus accident on Kandy-Mahiyanganaya road
-
-*2024-03-25 18:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98198/three-injured-in-luxury-bus-accident-on-kandy-mahiyanganaya-road) · `en`
-
-A luxury bus has been involved in an accident at the Medamahanuwara twin bends on the Kandy-Mahiyanganaya main road today.
-
-The driver of the bus, its owner and another person who sustained injuries in the accident have been admitted to the Theldeniya Hospital for treatment and were later referred to Peradeniya Hospital.
-
-It was reported that a ‘Suva Sariya’ ambulance which was travelling on the lower road at the time of the accident, had narrowly escaped the collision.
-
-Despite the ensuing chaos, the same ambulance team had promptly responded and rushed the injured individuals to the hospital for medical care.
-
-Further information has been revealed that the luxury bus which was involved in the accident was being transported to Colombo for sale, when the accident had occurred.
-
-◼️
-
-[Data](articles/24fbfd40.json)
-
-[Extended Data](ext_articles/24fbfd40.ext.json)
-
----
-
-### CA quashes PCoL recommendations against Ranil, Anura and others
-
-*2024-03-25 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CA-quashes-PCoL-recommendations-against-Ranil-Anura-and-others/108-279566) · `en`
-
-Colombo, March 25 (Daily Mirror) - The Court of Appeal today issued a writ of certiorari, squashing the report, the findings and the recommendations made by the Presidential Commission on Political Victimisation (PCoI) in respect of incumbent President Ranil Wickremesinghe, JVP leader Anura Kumara Dissanayake and several others.
-
-The Presidential Commission on Political Victimisation (PCoI), commonly known as Upali Abeyratne Commission was appointed by former President Gotabaya Rajapaksa.
-
-Court of Appeal three-judge-bench comprising Justice Nissanka Bandula Karunaratne, Justice M. T. M. Lafar and Justice D.M. Samarakoon unanimously held that the report and the findings of PCoI were beyond the scope of legal authority (ultra vires).
-
-...
-
-[Data](articles/652f6643.json)
-
-[Extended Data](ext_articles/652f6643.ext.json)
-
----
-
-### Attorney General objects to Keheliya’s bail request
-
-*2024-03-25 18:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Attorney-General-objects-to-Keheliyas-bail-request/108-279565) · `en`
-
-Colombo, March 25 (Daily Mirror) - The Attorney General today raised objections against the bail application filed on behalf of former Health Minister Keheliya Rambukwella, who is currently held in remand custody in connection with the alleged import of substandard Immunoglobulin injections.
-
-Deputy Solicitor General Lakmini Girihagama appearing for the Attorney General informed the Court that she was raising preliminary objections challenging the maintainability of the revision application filed by the daughter of the former Health Minister.
-
-Filing a revision application, the former Health Minister's daughter Chaminthri Rambukwella is requesting the Colombo High Court that her father be released on whatever bail conditions the court deems fit.
-
-...
-
-[Data](articles/01688345.json)
-
-[Extended Data](ext_articles/01688345.ext.json)
-
----
-
-### Sri Lanka rupee closes at 302.60/70 to the US dollar
-
-*2024-03-25 18:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-302-60-70-to-the-us-dollar-156003/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 302.60/70 to the US dollar in the spot forex market on Monday, stronger from 303.30/45 on Friday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed at 11.30/40 percent from 11.30/38 percent on Friday.
-
-A bond maturing on 15.09.2027 closed stable at 11.90/95 percent.
-
-A bond maturing on 15.12.2028 closed at 12.10/15 percent from 12.10/18 percent.
-
-A bond maturing on 15.07.2029 closed stable at 12.15/30 percent on Thursday.
-
-A bond maturing on 15.05.2030 closed at 12.10/30 percent after trading at 12.15/30 percent.
-
-A bond maturing on 15.03.2031 closed at 12.10/30 percent from Thursday’s close at 12.10/35 percent.
-
-A bond maturing on 01.07.2032 closed at 12.25/50 percent from Thursday’s close at 12.30/50 percent. (Colombo/Mar25/2024)
-
-◼️
-
-[Data](articles/fec90fdb.json)
-
-[Extended Data](ext_articles/fec90fdb.ext.json)
 
 ---

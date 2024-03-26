@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 22:33:23**
+As of **2024-03-26 22:50:55**
 
 ## Newspaper Stats
 
-*Scraped **15,351** Articles*
+*Scraped **15,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 819
 economynextcom | 821
 islandlk | 845
-adalk | 1,311
+adalk | 1,312
 adaderanalk | 1,843
 tamilmirrorlk | 1,844
 virakesarilk | 2,168
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,350 (100.0%) of 15,351 articles have been extended.
+15,351 (100.0%) of 15,352 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The research paper revealed that according to the statistics of the year 2022, g
 ...
 
 [Data](articles/b43d1ded.json)
+
+[Extended Data](ext_articles/b43d1ded.ext.json)
 
 ---
 
@@ -315,6 +317,28 @@ Political parties should be responsible for the selection of the best parties in
 [Data](articles/079bc589.json)
 
 [Extended Data](ext_articles/079bc589.ext.json)
+
+---
+
+### රජයේ වාහන වල කිලෝමීටරයක ධාවන පිරිවැය රු. 300ක් බව හෙළිවෙයි
+
+*2024-03-26 19:58:38* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-වාහන-වල-කිලෝමීටරයක-ධාවන-පිරිවැය-රු--300ක්-බව-හෙළිවෙයි/11-408818) · `si`
+
+කිලෝමීටරයක් රු.300ක පිරිවැයකින් ධාවනය කරන රාජ්‍ය වාහන කිලෝමීටරයක් රු.100 පිරිවැයකින් ධාවනය කළ හැකි බව බලශක්ති සහ ප්‍රවාහනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේදී අනාවරණය විය.
+
+මිනිස්බල හා රැකීරක්ෂා දෙපාර්තමේන්තුව විසින් රාජ්‍ය සම්පත් කළමනාකරණය සම්බන්ධයෙන් සකස් කරන ලද පර්යේෂණ පත්‍රිකාවකදත්ත අනුව මේ පිළිබඳ අනාවරණය කර ගැනීමට හැකි විය.
+
+බලශක්ති සහ ප්‍රවාහනය පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාව පාර්ලිමේන්තු මන්ත්‍රී නාලක බණ්ඩාර කෝට්ටේගොඩ මහතාගේ සභාපතිත්වයෙන් පාර්ලිමේන්තුවේදී රැස් වූ අවස්ථාවේදී මෙම කරුණු අනාවරණය කර ගැනුණි.
+
+මෙහිදී අදාළ පර්යේෂණ පත්‍රිකාව මගින් පෙන්වා දුන්නේ 2022 වර්ෂයේ සංඛ්‍යාලේඛන අනුව රාජ්‍ය ආයතන සතුව වාහන 82,000ක් පමණ පවතින බවත් ඉන් 76,000ක් පමණ ධාවන තත්ත්වයේ පවතින බවත්ය.
+
+මේ අනුව වාහන 5,500ක් පමණ ධාවන තත්ත්වයේ නොපවතින බවද මෙහිදී අනාවරණය විය.
+
+එසේම ධාවන තත්ත්වයේ පවතින එක් වාහනයක් කිලෝමීටරයක් ධාවනය කිරීම සඳහා යන වියදම ආසන්න වශයෙන් රු.300ත් 500ත් අතර වන බවද මෙම පර්යේෂණ පත්‍රිකාව අනුව හඳුනාගෙන තිබුණි.
+
+...
+
+[Data](articles/466045c0.json)
 
 ---
 
@@ -2241,29 +2265,5 @@ Under this security plan, the church premises would be inspected before the comm
 [Data](articles/ad78f68f.json)
 
 [Extended Data](ext_articles/ad78f68f.ext.json)
-
----
-
-### Fort Justice Thilina Kamage attempts to kill
-
-*2024-03-26 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/179739) · `ta`
-
-Public Security Minister Tran Alas directs the Inspector General of Police to investigate Fort Justice Thilina Kamage's trial, following a spy's report of a threat to his life.
-
-🟩
-
-Public Security Minister Tran Ales has issued a directive to the Inspector General of Police Deshabandu Thenkon to investigate the trial of Fort Justice Thilina Kamage.
-
-According to a letter sent by a spy, Minister Tran Alas has given this instruction.
-
-The inquiries have been launched on the information received by a state spy that a person has demanded a gun via telephone to kill Justice Thilina Kamage.
-
-It is reported that the spy has provided details with the person's telephone numbers and investigations are underway.
-
-◼️
-
-[Data](articles/bc7a212c.json)
-
-[Extended Data](ext_articles/bc7a212c.ext.json)
 
 ---

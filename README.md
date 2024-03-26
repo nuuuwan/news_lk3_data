@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 02:33:49**
+As of **2024-03-27 02:50:21**
 
 ## Newspaper Stats
 
-*Scraped **15,384** Articles*
+*Scraped **15,386** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 138
 bbccomsinhala | 164
 dbsjeyarajcom | 192
 newsfirstlk | 363
-dailyftlk | 826
+dailyftlk | 828
 economynextcom | 832
 islandlk | 845
 adalk | 1,312
@@ -26,11 +26,41 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,378 (100.0%) of 15,384 articles have been extended.
+15,384 (100.0%) of 15,386 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### Richard Pieris Group celebrates excellence highlighting achievements; unveils future roadmap
+
+*2024-03-27 02:30:44* · [`dailyftlk`](https://www.ft.lk/business/Richard-Pieris-Group-celebrates-excellence-highlighting-achievements-unveils-future-roadmap/34-760002) · `en`
+
+Richard Pieris Group Chairman, Managing Director, and CEO Dr. Sena Yaddehige, and dignitaries at the head table during the Business Leaders and Senior Management gathering
+
+Business leaders and senior management of Richard Pieris Group gathered to commemorate the Group’s success
+
+Richard Pieris Group Chairman, Managing Director, and CEO Dr. Sena Yaddehige commends the Group’s performance over the past year and unveils the future roadmap
+
+The Richard Pieris Group, led by visionary leader Dr. Sena Yaddehige, has evolved into one of the largest and most diversified conglomerates in Sri Lanka. With a 91-year legacy, the Group operates across multiple sectors. Today, the Group is an integral part of Sri Lankan lives and a catalyst for economic progress.
+
+...
+
+[Data](articles/7a9a9459.json)
+
+---
+
+### NEO celebrates fifth anniversary with well-wishers at new office
+
+*2024-03-27 02:20:41* · [`dailyftlk`](https://www.ft.lk/business/NEO-celebrates-fifth-anniversary-with-well-wishers-at-new-office/34-760001) · `en`
+
+NEO the unique boutique security company celebrated its fifth year anniversary by shifting to a new office. Many distinguished Guest including Retired Justice Buwaneka Aluwihare, General Milinda Peiris, General Prasad Samarasinghe, Col Manoj Peiris, Major Vijith Welikala, Major Sajith Wijekoon graced the occasion. After the religious ceremony, Rtd Major Tissa Aluwihare addressed the gathering and described how he handed over the company along with shares to the loyal staff and mentioned that he gained great satisfaction seeing his staff evolving into empowered entrepreneurs. Chief Operating Officer Sajeewanie Gamage addressed the gathering and gave a vote of thanks.
+
+◼️
+
+[Data](articles/5deef612.json)
+
+---
 
 ### Event Management Association elects new team
 
@@ -48,41 +78,59 @@ The Event Management Association (EMA), the only professional industry body in S
 
 [Data](articles/eb67a1c2.json)
 
+[Extended Data](ext_articles/eb67a1c2.ext.json)
+
 ---
 
-### டிஜிட்டல் பொருளாதார பரிவர்த்தனைக்கான சட்டம், இந்த வருட நடுப்பகுதியில் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் - ஜனாதிபதி
+### The Act for Digital Economic Transaction will be presented in Parliament in the middle of this year - the President
 
 *2024-03-27 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/179787) · `ta`
 
-டிஜிட்டல்  பரிவர்த்தனைக்கான முகவர் நிலையம் மற்றும் செயற்கை நுண்ணறிவுக்கான மையத்தை (AI) உருவாக்குவதற்கான   சட்டங்கள் இவ்வருட நடுப்பகுதிக்குள் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced the Act for Digital Economic Transaction, aiming to transform Sri Lanka into a digital and green economy. The law will establish a digital transaction agency and AI center, focusing on digital public infrastructure, modern agriculture, poverty reduction, and education reform. A billion rupees from the 2024 budget will be allocated for this initiative. The government plans to strengthen the education system and introduce AI in schools, collaborating with Indian companies and institutions.
 
-துரித டிஜிட்டல் பரிவர்த்தனையின் ஊடாக எமது நாட்டின் பொருளாதாரத்தை இந்து சமுத்திரப் பிராந்தியத்தில் வளர்ந்து வரும் பொருளாதாரமாக மாற்ற முடியும் எனவும்  ஜனாதிபதி நம்பிக்கை தெரிவித்தார்.
+🟩
 
-கொழும்பு தாஜ் சமுத்ரா ஹோட்டலில் செவ்வாய்க்கிழமை (26) முற்பகல் ஆரம்பமான டிஜிட்டல் பொது உட்கட்டமைப்பு  வசதிகள் மாநாட்டில் பிரதான உரையாற்றிய போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார்.
+President Ranil Wickremesinghe said the laws for the creation of a digital transaction agency and artificial intelligence center (AI) will be tabled in Parliament this year.
 
-டிஜிட்டல் பொது உள்கட்டமைப்பு  வசதிகள் மற்றும் நிர்வாகம் தொடர்பில்  பல்வேறு துறைகளை பிரதிநிதித்துவப்படுத்தும் அறிவும் அனுபவமும் கொண்ட பல இந்திய மற்றும் இலங்கை நிபுணர்கள் இதில் கலந்து கொண்டனர்.
+The President also said that through rapid digital transactions, the economy of our country could be transformed into an emerging economy in the Indian Ocean region.
 
-புதிய சட்டங்களை அமுல்படுத்துவதன் மூலம் ஏற்றுமதியை இலக்காகக் கொண்ட டிஜிட்டல் மற்றும் பசுமைப் பொருளாதாரமாக இலங்கையின் பொருளாதாரத்தை மாற்ற முடியும் என ஜனாதிபதி ரணில் விக்ரமசிங்க மேலும் சுட்டிக்காட்டினார்.
+President Ranil Wickremesinghe made this statement while addressing the Digital Infrastructure Conference at the Taj Samudra Hotel in Colombo on Tuesday (26).
+
+A number of Indian and Sri Lankan experts participated in the event with knowledge and experience representing various departments on digital public infrastructure and administration.
+
+President Ranil Wickremesinghe further pointed out that the implementation of the new laws can be transformed into Sri Lanka's economy as a digital and green economy.
 
 ...
 
 [Data](articles/98c7540c.json)
 
+[Extended Data](ext_articles/98c7540c.ext.json)
+
 ---
 
-### மக்கள் மத்தியில் சஜித் - அனுர முன்னிலையில் விலகிச் சென்றவர்களை மஹிந்த இணைத்துக் கொள்ள வேண்டும் - எஸ்.பி.திஸாநாயக்க
+### Mahinda should join those who have resigned in the presence of Sajith - Anura among the people - SP Dissanayake
 
 *2024-03-27 02:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/179786) · `ta`
 
-மக்கள் மத்தியில் ஐக்கிய மக்கள் சக்தியும்,மக்கள் விடுதலை முன்னணியும் முன்னிலையில் உள்ளன.ஆகவே பொதுஜன பெரமுனவில் இருந்து விலகிச் சென்றவர்களை மீண்டும் இணைத்துக் கொள்வது அத்தியாவசியமானது என்பதை மஹிந்த ராஜபக்ஷவிடம் பலமுறை வலியுறுத்தியுள்ளேன் என ஆளும் தரப்பின் பாராளுமன்ற உறுப்பினர் எஸ்.பி திஸாநாயக்க தெரிவித்தார்.
+Mahinda Rajapakse should join those who resigned, like Sajith-Anura, SP Dissanayake, and others. The United People's Power and the People's Liberation Front are now in power. Gotabhaya Rajapakse has been politically defeated, blaming the entire country. The UPFA and Janatha Vimukthi Peramuna are in the current political position. Wimal Weerawansa and Udaya Kammanpila criticized the government led by the Sri Lanka PA. Those who supported Mahinda Rajapakse are now working against various factors.
 
-முன்னாள் ஜனாதிபதி கோட்டபய ராஜபக்ஷ அரசியல் ரீதியில் தோல்வி அடைந்து முழு நாட்டையும் பழிகொடுத்தார் என்பதை ஏற்றுக்கொள்ள வேண்டும்.அப்போதைய அரசாங்கத்தை பலவீனப்படுத்த தேசிய மற்றும் சர்வதேச மட்டத்தில் சூழ்ச்சிகள் முன்னெடுக்கப்பட்ட போது அரச தலைவர் என்ற அடிப்படையில் அதனை கோட்டபய ராஜபக்ஷ வெற்றிக் கொள்ளவில்லை.
+🟩
 
-தற்போதைய அரசியல் நிலையில் ஐக்கிய மக்கள் சக்தியும்,மக்கள் விடுதலை முன்னணியும் முன்னிலையில் உள்ளன.மக்கள் விடுதலை முன்னணிக்கு மக்கள் மத்தியில் செல்வாக்கு அதிகரித்துள்ளது என்பதை ஏற்றுக்கொள்ள வேண்டும்.இருப்பினும் இந்த செல்வாக்கு ஜனாதிபதி தேர்தலில் வெற்றிப் பெறும் அளவுக்கு உயர்வடையாது.
+The United People's Power and the People's Liberation Front are in the presence of the people.
 
-...
+Former President Gotabhaya Rajapakse has been politically defeated and blamed the entire country.
+
+The United People's Power and the Janatha Vimukthi Peramuna (UPFA) are in the present political position.
+
+Wimal Weerawansa and Udaya Kammanpila pointed out the reduction of the government led by the Sri Lanka PA.
+
+Those who were strong for former President Mahinda Rajapakse are working away from various factors today.
+
+◼️
 
 [Data](articles/7ee78cdc.json)
+
+[Extended Data](ext_articles/7ee78cdc.ext.json)
 
 ---
 
@@ -98,23 +146,33 @@ In a bold and unprecedented move, Anura Kumara Dissanayake, the dynamic leader o
 
 [Data](articles/167c7d91.json)
 
+[Extended Data](ext_articles/167c7d91.ext.json)
+
 ---
 
-### நன்கொடைகளை அடிப்படையாகக் கொண்டு அரசியல் செய்வதை அனுமதிக்க முடியாது - எதிர்க்கட்சி தலைவரின் செயற்பாடு தொடர்பில் அரசாங்கம் விசனம்
+### Politics based on donations cannot be allowed -the government is concerned about the action of the opposition leader
 
 *2024-03-27 01:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179785) · `ta`
 
-பாடசாலைகளுக்கு நன்கொடைகளை வழங்குவதை அடிப்படையாகக் கொண்டு அரசியல் செய்வதை அனுமதிக்க முடியாது. எனது தேர்தல் தொகுதியான ஹோமாகமையிலுள்ள பாடசாலையொன்றுக்கு எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச வழங்கிய நன்கொடை அந்த தொகுதியை வெட்கப்படச் செய்துள்ளது என்று அமைச்சரவை பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+The government prohibits politics based on donations, including to schools. Cabinet Spokesperson Minister Bandula Gunawardena criticized opposition leader Sajith Premadasa for donating to a school in Homagama, where he was a Development Committee head. The Cabinet decision prevents schools from engaging in political activities and receiving donations for political purposes.
 
-அமைச்சரவை தீர்மானங்களை அறிவிக்கும் வாராந்த ஊடகவியலாளர் மாநாடு செவ்வாய்கிழமை (26) இடம்பெற்ற போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-பாடசாலைகளில் அரசியல் செயற்பாடுகளில் ஈடுபட முடியாது என்று சில வாரங்களுக்கு முன்னர் அமைச்சரவையில் தீர்மானிக்கப்பட்டுள்ளது. பாடசாலைகளுக்கு எவரொருவருக்கும் நன்கொடைகளை வழங்க முடியும். எவ்வாறிருப்பினும் அதனை அடிப்படையாகக் கொண்டு அரசியல் செய்ய முடியாது.
+Cannot allow politics to do based on donations to schools. Cabinet Spokesperson Minister Bandula Gunawardena said that the donation issued by opposition leader Sajith Premadasa to a school in my electoral constituency, Homagama.
 
-அதே போன்று அரசியல் நோக்கத்தை அடிப்படையாகக் கொண்டு பாடசாலைகளில் கூட்டங்கள் நடத்தப்படுவதையும் தவிர்த்துக் கொள்ள வேண்டும். அதற்கு இடமளிக்கப்படக் கூடாது என்ற தீர்மானித்துக்கு அமைச்சரவை அங்கீகாரமளித்துள்ளது.
+He further stated that the weekly press conference to announce the Cabinet decisions was held on Tuesday (26).
 
-...
+It was decided in the Cabinet a few weeks ago that schools cannot engage in political activities. Can give donations to anybody to schools. However, politics cannot be done based on it.
+
+Similarly, the political purpose is to avoid holding meetings in schools. The Cabinet has approved the decision not to be allowed.
+
+Opposition Leader Sajith Premadasa, I was visited by a school in the Homagama constituency where I was the head of the Development Committee, visited the school and presented one million modern classrooms and held a meeting.. I consider it a shame to our electoral constituency.
+
+◼️
 
 [Data](articles/c36ab2cd.json)
+
+[Extended Data](ext_articles/c36ab2cd.ext.json)
 
 ---
 
@@ -134,25 +192,39 @@ The impacts of climate change, including slow and sudden onset weather events, a
 
 ---
 
-### குஜராத்தை வீழ்த்தி இரண்டாவது நேரடி வெற்றியை சுவைத்தது சென்னை
+### Madras tasted the second direct victory by defeating Gujarat
 
 *2024-03-27 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179784) · `ta`
 
-சென்னை, சேப்பாக்கம் எம்.ஏ. சிதம்பரம் விளையாட்டரங்கில் இன்று செவ்வாய்க்கிழமை (26) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக்கின் 7ஆவது போட்டியில் குஜராத்தை 63 ஓட்டங்களால் வீழ்த்திய நடப்பு சம்பியன் சென்னை சுப்பர் கிங்ஸ் இந்த வருடம் தனது 2ஆவது நேரடி வெற்றியை சுவைத்தது.
+Madras secured its 2nd victory by defeating Gujarat in the 7th IPL match at Chidambaram Stadium. Chennai Super Kings scored 206/6 in 20 overs, with Ruthuraj Gai Kaikwad and Rachin Ravindra sharing 62 runs. Gujarat Giants lost by 8 wickets, scoring 143 runs in 20 overs.
 
-இப் போட்டியில் முதலில் துடுப்பெடுத்தாட  அழைக்கப்பட்ட சென்னை சுப்பர் கிங்ஸ் மூவரின் அதிரடி துடுப்பாட்டங்களின் உதவியுடன் 20 ஒவர்களில் 6 விக்கெட்களை இழந்து 206 ஓட்டங்களைக் குவித்தது.
+🟩
 
-அணித் தலைவர் ருத்துராஜ் கய்க்வாட், ரச்சின் ரவிந்த்ரா ஆகிய இருவரும் 32 பந்துகளில் 62 ஓட்டங்களைப் பகிர்ந்து பலமான ஆரம்பத்தை இட்டுக்கொடுத்தனர்.
+Chennai, Chepakkam MA. In the 7th match of the 17th Indian Premier League held at the Chidambaram Stadium on Tuesday (26), the current champion Chennai Super Kings, who beat Gujarat by 63 runs, tasted its 2nd direct victory this year.
 
-ரச்சின் ரவீந்த்ரா 20 பந்துகளை எதிர்கொண்டு  6 சிக்ஸ்கள், 3 புவுண்டறிகள் உட்பட 46 ஓட்டங்களை விளாசினார்.
+In the match, Chennai Super Kings, who were first invited to bat, scored 206 runs for the loss of 6 wickets in 20 overs.
 
-அஜின்கியா ரஹானே 12 ஓட்டங்களை மாத்திரம் பெற்ற போதிலும் 2ஆவது விக்கெட்டில் ருத்துராஜ் கய்க்வாட்டுடன் 42 ஓட்டங்களைப் பகிர்ந்தார்.
+Team captain Ruthuraj Gai Kaikwad and Rachin Ravindra shared 62 runs off 32 balls.
 
-ரஹானேயைத் தொடர்ந்து ருத்துராஜ் கய்க்வாட் 46 ஓட்டங்களுடன் ஆட்டம் இழந்தார். (127 - 3 விக்.)
+Rachin Ravindra faced 20 balls and scored 46 runs, including 6 sixes and 3 earthquakes.
+
+Although Ajinkia Rahane scored only 12 runs, Rutraj shared 42 runs with Gaygwat in the 2nd wicket.
+
+Rutraj Kaikwad lost 46 runs after Rahane. (127 - 3 wig.)
+
+Shivam Dubey and Tryl Michelle then shared 57 runs in the fourth wicket.
+
+Shivam Dubey faced only 23 balls and scored 51 runs with 5 sixes and 2 pounds.
+
+Sameer Rizvi (14) and Ravindra Jadeja (7) lost the game with low number.
+
+Gujarat Giants lost by 8 wickets in 20 overs and lost 143 runs.
 
 ...
 
 [Data](articles/edc5721e.json)
+
+[Extended Data](ext_articles/edc5721e.ext.json)
 
 ---
 
@@ -2221,49 +2293,5 @@ Accordingly, the daily operations and management activities of the Expressways w
 [Data](articles/8bc5bf1d.json)
 
 [Extended Data](ext_articles/8bc5bf1d.ext.json)
-
----
-
-### Cabinet Paper to reduce electricity charges for Northern Province farmers
-
-*2024-03-26 14:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cabinet-Paper-to-reduce-electricity-charges-for-Northern-Province-farmers/108-279634) · `en`
-
-Colombo, March 26 (Daily Mirror) - A Cabinet Paper will be submitted to reduce the electricity charges of farmers in the Northern Province who use electricity for agricultural purposes, Agriculture and Plantation Industries Minister Mahinda Amaraweera said.
-
-He said the decision was taken in consideration of the commitment of the people of the Northern Province to carry out all the work with great effort in the agricultural activities.
-
-The Minister said that the President advised that most of the money allocated to the Ministries should be allocated to the people of the Northern and Eastrn Provinces when implementing development activities.
-
-...
-
-[Data](articles/c1dc2b8c.json)
-
-[Extended Data](ext_articles/c1dc2b8c.ext.json)
-
----
-
-### Sri Lanka has clashed in the bridge
-
-*2024-03-26 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194955) · `si`
-
-A ship in the Baltimo River, USA, clashed with a bridge, causing a 1.6-meter gap. Videos circulate on social media. No injuries, but 7 missing due to vehicles falling into the river. Relief groups are active.
-
-🟩
-
-International media reports that Sri Lanka was a ship that was in the Baltimo River in Baltimo, USA.
-
-Dali නම් එම බහාලුම් ප්‍රවාහන නෞකාව ගැටීම හේතුවෙන් සැතපුම් 1.6ක් දිගැති එම පාලම සම්පූර්ණයෙන්ම කඩා වැටී තිබේ.
-
-The videos indicating that is now circulate in the social media.
-
-Although no one was injured in the bridge, it was reported that about 7 people have been reported missing due to the accident.
-
-It was reported that several vehicles have fallen into the river and there are relief groups.
-
-◼️
-
-[Data](articles/241368aa.json)
-
-[Extended Data](ext_articles/241368aa.ext.json)
 
 ---

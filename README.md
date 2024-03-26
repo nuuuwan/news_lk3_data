@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 15:33:39**
+As of **2024-03-26 15:52:42**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,453
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,274 (100.0%) of 15,278 articles have been extended.
+15,278 (100.0%) of 15,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### වයස 14 ට අඩු දරුවන් ට සමාජ මාධ්‍ය තහනම් කරමින් නීතියක්
+### A law banned by children under 14 years of age
 
 *2024-03-26 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194957) · `si`
 
-අමෙරිකාවේ ෆ්ලොරිඩා ප්‍රාන්තයේ දරුවන් සඳහා සමාජ මාධ්‍ය තහනම් කිරීමට තීරණය කර තිබේ.
+Florida bans social media for children under 14, with the Governor signing the law. Children must delegate their existing accounts.
 
-ඒ සම්බන්ධ නීතියට ප්‍රාන්ත ආණ්ඩුකාරවරයා විසින් අත්සන් තබා ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+🟩
 
-ඒ අනුව ෆ්ලොරිඩා ප්‍රාන්තයේ වයස අවුරුදු 14 ට අඩු ළමයින් සඳහා සමාජ මාධ්‍ය ගිණුම් තිබීම නීතියෙන් තහනම් වෙයි.
+Social media has decided to ban the social media for children in Florida, USA.
 
-එමෙන්ම අවුරුදු 14 ට අඩු ළමුන් සඳහා දැනට පවතින සමාජ මාධ්‍ය ගිණුම් මාකා දැමීමට අවශ්‍ය පියවර ගන්නා ලෙස ද උපදෙස් ලබාදී තිබේ.
+The State Governor has signed the law to the law. Foreign media reports.
+
+Accordingly, the state of Florida is prohibited to have social media accounts for children under 14 years of age.
+
+Also, children have been instructed to take the necessary measures to delegate existing social media accounts for children under 14 years.
 
 ◼️
 
 [Data](articles/ce3a8681.json)
+
+[Extended Data](ext_articles/ce3a8681.ext.json)
 
 ---
 
@@ -74,37 +80,49 @@ At least 20 construction employees were on the bridge, according to the Adakar.
 
 ---
 
-### யாழ். கீரிமலை ஜனாதிபதி மாளிகை அமைந்துள்ள பகுதி அளவீட்டுப்பணி மக்களின் எதிர்ப்பால் கைவிடப்பட்டது!
+### Yall. The area of the Kirimalai President's House is abandoned by the resistance of the people!
 
 *2024-03-26 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179752) · `ta`
 
-யாழ்ப்பாணம் - கீரிமலை ஜனாதிபதி மாளிகை அமைந்துள்ள பகுதியை நகர அபிவிருத்தி நடவடிக்கைக்காக சுவீகரிக்கும் அடிப்படையில் அளவீடுகள் செய்வதற்கு நில அளவைத்திணைக்கள அதிகாரிகள் இன்று காலை 10 மணியளவில் வருகை தந்திருந்தனர்.
+The Kirimalai President's House area was abandoned by locals due to opposition against land measurement by the Land Survey Department. Landowners and civilians intercepted the officials, leading to a return after a letter of no interest was signed.
 
-இதன்போது குறித்த காணி அளவீட்டுக்கு காணி உரிமையாளர்கள் மற்றும் பொதுமக்கள் எதிர்ப்பை வெளியிட்டதுடன் நில அளவைத்திணைக்களத்தின் வாகனத்தினையும் இடைமறித்தனர்.
+🟩
 
-பின்னர் நீண்ட நேர காணி உரிமையாளர்களின் எதிர்ப்பினை அடுத்து காணியினை அளவீடு செய்வதற்கு தமக்கு விருப்பம் இல்லை என காணி உரிமையாளர்கள் கடிதம் எழுதி கையொப்பமிட்டு வழங்கியதை அடுத்து நில அளவைத்திணைக்கள அதிகாரிகள் அங்கிருந்து திரும்பிச் சென்றனர்.
+Land Survey Department officials were visiting at around 10 am today to make the area where the Jaffna - Kirimalai Presidential House is located on the basis of the development of the city.
 
-தெல்லிப்பளை பிரதேச செயலக பிரிவின்கீழ் உள்ள நகுலேஸ்வரம் (ஜே/226), காங்கேசன்துறை (ஜே/233) கிராம சேவகர் பிரிவுகளில் உள்ள ஆழ்வான்மலையடி, வேலர்காடு, புண்ணன்புதுக்காடு, பத்திராயான், புதுக்காடு, சோலைசேனாதிராயன் என அழைக்கப்படும் பகுதிகளில் 12.0399 ஹெக்டயர் ( 29 ஏக்கர் 3 றூட் 0.20 பேர்ச் ) நிலம் அளவீடு செய்வதற்கு திட்டமிடப்பட்டிருந்தது குறிப்பிடத்தக்கது.
+Land owners and civilians have expressed their opposition to the land measurement and intercepted the vehicle's vehicle.
+
+Later, the landowner officials then returned from there after the land owners wrote and signed a letter that they had no interest in measurement of the land in the wake of the long -term land owners.
+
+Nakuleswaram (J/226), Kankesanthurai (J/233) under the Tellippalai Divisional Secretariat Division, Vellargadu, Punnanpudukadu, Padiyan, Pudukkadu, SolaisenathirayanSignificantly.
 
 ◼️
 
 [Data](articles/19239f62.json)
 
+[Extended Data](ext_articles/19239f62.ext.json)
+
 ---
 
-### ஆளைக் கொன்றது அக்குபஞ்சர்
+### Acupuncture
 
 *2024-03-26 14:59:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஆளைக்-கொன்றது-அக்குபஞ்சர்/71-335217) · `ta`
 
-யாழ் அச்சுவேலி கிழக்கு பகுதியில் அக்குபஞ்சர் சிகிச்சை பெற்றுக்கொண்ட  மாணிக்கம் சற்குணராஜா (வயது 64) என்பவர் உயிரிழந்துள்ளார்.
+Gemikam Sakthunarajah, 64, died from infections caused by acupuncture injections at a treatment center in Jaffna.
 
-முழங்கால் வலியினால் அவதிப்பட்டு வந்தவர் யாழ்.நகர் பகுதியை அண்மித்த பிறவுண் வீதியில் அக்குபஞ்சர் சிகிச்சை நிலையம் என்ற பெயரில் இயங்கி வரும் சிகிச்சை நிலையத்திற்கு  சமூக வலைத்தளங்களில் வந்த விளம்பரங்களை நம்பி சிகிச்சைக்காக சென்றுள்ளார்.
+🟩
 
-உடற்கூற்று பரிசோதனையின் போது , அக்குபஞ்சர் சிகிச்சை என தவறான முறைகளில் செலுத்தப்பட்ட ஊசிகள் மூலம் கிருமி தொற்றுக்கள் ஏற்பட்டு , அவை உடல் முழுவதும் பரவியதால் மரணம் சம்பவித்துள்ளது என கண்டறியப்பட்டுள்ளது.
+Gemikam Sakthunarajah (age 64), who was receiving acupuncture treatment in the eastern part of Jaffna Achuveli, died.
+
+A man who suffered from knee pain has gone to the treatment center under the name of Acupuncture Treatment at the Paravan Road near Jaffna Nagar, relying on social media for treatment.
+
+During the anatomical examination, it was found that injections were caused by infected infections, such as acupuncture therapy, causing death due to spread throughout the body.
 
 ◼️
 
 [Data](articles/1c842c6b.json)
+
+[Extended Data](ext_articles/1c842c6b.ext.json)
 
 ---
 
@@ -472,19 +490,29 @@ A group of people who suspect the supporters of the former minister has interrup
 
 ---
 
-### ඩුබායි සිට මෙහෙයවන මත්ද්‍රව්‍ය ජාවාරමකට සම්බන්ධ කාන්තාවන් තිදෙනෙක් අල්ලයි
+### Three women involved in drug racket from Dubai
 
 *2024-03-26 13:51:39* · [`adalk`](https://www.ada.lk/breaking_news/ඩුබායි-සිට-මෙහෙයවන-මත්ද්‍රව්‍ය-ජාවාරමකට-සම්බන්ධ-කාන්තාවන්-තිදෙනෙක්-අල්ලයි/11-408803) · `si`
 
-ඩුබායි රාජ්‍යයේ තුළ සැඟව සිට මත්ද්‍රව්‍ය ජාවාරම මෙහෙයවන සංවිධානාත්මක අපරාධකරුවන් තිදෙනෙකුගේ  මෙරට මත්ද්‍රව්‍ය ජාවාරම මෙහෙයවන  කාන්තාවන් තිදෙනකු රුපියල්  60000 කට ආසන්න අයිස් මත්ද්‍රව්‍ය  තොගයක් සමඟ අත්අඩංගුවට ගත් බව බස්නාහිර පළාත දකුණ දිසාව අපරාධ කොට්ඨාසය කියයි.
+Three women from Dubai involved in drug trafficking were arrested in the Western Province of Sri Lanka with over 21370 liters of ice drugs. They are part of an organized criminal network led by Navy Ruwan, a narcotic dealer. The operation revealed more than 10 grams of drugs and a luxurious lifestyle for Navy Ruwan's wife.
 
-එම සැකකාරියන් සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය මිලිගෑම්  21370 ක් පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-අත්අඩංගුවට පත් වූවන් අතර සංවිධානාත්මක අපරාධකරුවකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු  වන  නේවි රුවන් නමැත්තාගේ අනියම් බිරිඳ සහ ඒන්ජල් හා පංචාලි යනුවෙන් හඳුන්වන තරුණියන් දෙදෙනාද වන බව පොලිසිය කියයි.
+The Western Province, the criminal area of the Western Province says three women who are conducting drug trafficking in the country's drug trafficking in Dubai.
+
+The suspects were taken into custody by 21370 liters of ice drugs in possession.
+
+The arrested persons are an organized criminal and a drug dealer, Navy Ruwan, a narcotic dealer, Navy Ruwan.
+
+Western Province under the operation of the Western Province Western Province, Dunuschka, Chandra, Chandana, Lalith Kannam and Pearl in Sri LankaAngel and Punchi's two suspects in the area of Chintaka Dasanayake who operates the criminal criminal criminal criminal criminal criminal criminal criminal criminal operates the team of 2 units.Have been arrested with more than 10 grams of drugs
+
+After interrogation of the suspects, they were arrested by a telephone order, the woman was arrested by a telephone order with a telephone call and arrested with ice drugs to Malwatta Road, Thalawathugoda.
 
 ...
 
 [Data](articles/f0d698b6.json)
+
+[Extended Data](ext_articles/f0d698b6.ext.json)
 
 ---
 

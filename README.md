@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 17:34:05**
+As of **2024-03-26 17:53:55**
 
 ## Newspaper Stats
 
-*Scraped **15,305** Articles*
+*Scraped **15,311** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,171 @@ dailyftlk | 819
 economynextcom | 821
 islandlk | 845
 adalk | 1,306
-adaderanalk | 1,838
+adaderanalk | 1,839
 tamilmirrorlk | 1,841
-virakesarilk | 2,158
-dailymirrorlk | 2,363
+virakesarilk | 2,162
+dailymirrorlk | 2,364
 adaderanasinhalalk | 2,458
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,303 (100.0%) of 15,305 articles have been extended.
+15,305 (100.0%) of 15,311 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### ආසියානු කුසලාන කාන්තා ක්‍රිකට් තරගාවලිය ශ්‍රී ලංකාවේ
+### யுக்திய நடவடிக்கையில் கைதான மேலும் 20  பேரின்  சொத்துக்கள் தொடர்பில் விசாரணை!
+
+*2024-03-26 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179757) · `ta`
+
+பொலிஸாரினால் மேற்கொள்ளப்பட்ட யுக்திய நடவடிக்கையின்போது 830 ஆண் சந்தேக நபர்களும் 9 பெண் சந்தேக நபர்களும் கைது செய்யப்பட்டுள்ளனர்.
+
+இவர்களுள் 42 சந்தேக நபர்கள் மேலதிக விசாரணைக்காக பொலிஸ் தடுப்புக் காவலில் வைக்கப்பட்டுள்ளதுடன் 20 சந்தேக நபர்களின் சொத்துக்கள் தொடர்பாக விசாரணைகள் மேற்கொள்ளப்பட்டு வருகின்றன.
+
+மேலும், மேல் மாகாணத்தில் மேற்கொண்ட யுக்திய நடவடிக்கையின்போது ஹெரோயின் 201 கிராம், ஐஸ் 103 கிராம் , கஞ்சா 103 கிராம் போன்ற போதைப்பொருட்கள் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/b711929f.json)
+
+---
+
+### ACC announces Women’s Asia Cup 2024 in Sri Lanka
+
+*2024-03-26 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98218/acc-announces-womens-asia-cup-2024-in-sri-lanka) · `en`
+
+The Asian Cricket Council (ACC) has announced the upcoming Women’s Asia Cup 2024, scheduled to take place in Dambulla, Sri Lanka, from July 19th to July 28th, 2024.
+
+This edition of the tournament will feature eight teams, one more than the previous edition in 2022, indicating the growing interest and participation in women’s cricket across Asia, the ACC said in a statement.
+
+Joining the cricketing powerhouses of India, Pakistan, Sri Lanka, and Bangladesh will be the semi-finalists of the Women’s Premier Cup 2024 - UAE, Malaysia, Nepal, and Thailand.
+
+“The increased participation promises to make this tournament even more competitive and thrilling for cricket fans across the region. In line with the ACC’s vision for inclusivity and equality in cricket, the Women’s Asia Cup 2024 will continue the tradition of having all female referees and umpires, following the successful implementation of the same in the previous edition,” the release said.
+
+...
+
+[Data](articles/5bc4613a.json)
+
+---
+
+### கடவத்தை எல்தெனிய ஐக்கிய தேசியக் கட்சியின் பிரதான அலுவலகம் மீது கை்குண்டுத் தாக்குதல்!
+
+*2024-03-26 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179774) · `ta`
+
+கடவத்தை எல்தெனியவிலுள்ள  ஐக்கிய தேசியக் கட்சியின் பிரதான அலுவலகம் மீது செவ்வாய்க்கிழமை (26) கைக்குண்டுத் தாக்குதல் நடத்தப்பட்டுள்ளதாக  சிரேஷ்ட பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+அரசியல் பழிவாங்கல் காரணமாக இந்த கைக்குண்டு தாக்குதல் நடத்தப்பட்டிருக்கலாம் என  பொலிஸார் சந்தேகிக்கின்றனர்.
+
+பொலிஸாரால் மேற்கொள்ளப்பட்ட சோதனையின்போது, கட்சி அலுவலகத்துக்கு  முன்பாக உள்ள வீதியில் ஒரு கைக்குண்டும் கட்சி அலுவலகத்துக்குள்  மற்றொரு கைக்குண்டும் கண்டெடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/3af5ebe2.json)
+
+---
+
+### களுத்துறையில் ஆர்ப்பாட்டக்காரர்கள் - பொலிஸார் மோதல்!
+
+*2024-03-26 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179771) · `ta`
+
+களுத்துறை நகரின் மையப் பகுதியில் மக்கள் இயக்கத்தின் ஆர்ப்பாட்டக்காரர்களுக்கும் பொலிஸாருக்குமிடையே இன்று (26) மோதல் நிலைமை ஏற்பட்டது.
+
+வாழ்க்கைச் செலவு உயர்வு, வரி அதிகரிப்பு,மின்சாரக் கட்டண உயர்வு பயங்கரவாத தடைச் சட்டத் திருத்தம் சட்டம் , போராட்டத்தில் ஈடுபட்டவர்களைக் கைது செய்தல் உள்ளிட்டவற்றுக்கு எதிர்ப்புத் தெரிவித்து  மக்கள் போராட்ட இயக்கத்தினர் பிரதான பஸ் நிலையம் முன்பாக போராட்டத்தில் ஈடுபட்டார்கள்.
+
+காலை முதல் களுத்துறை நகர் மற்றும் களுத்துறை நகர் அண்டிய பிரதேசங்களிலும் பொலிஸாரின் விசேட பாதுகாப்பு பலப்படுத்தப்பட்டிருந்ததோடு போராட்டம் மேற்கொண்ட பகுதியிலும் பொலிஸார் குவிக்கப்பட்டிருந்தனர்.
+
+◼️
+
+[Data](articles/7d01d0b6.json)
+
+---
+
+### ஜெயம் ரவி நடிக்கும் 'ஜீனி' திரைப்படத்தின் செகண்ட் லுக் போஸ்டர் வெளியீடு
+
+*2024-03-26 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/179772) · `ta`
+
+'சைரன்' படத்தின் வணிக ரீதியான வெற்றிக்குப் பிறகு மீண்டும் நட்சத்திர அந்தஸ்தை பெற்றிருக்கும் முன்னணி நடிகர் ஜெயம் ரவி நடிப்பில் தயாராகி இருக்கும் 'ஜீனி' திரைப்படத்தின் ஃபர்ஸ்ட் லுக் போஸ்டருக்கு எதிர்பார்த்ததை விட கூடுதலாக வரவேற்பு கிடைத்தவுடன் உற்சாகமடைந்த படக் குழு, செகண்ட் லுக் போஸ்டரையும் வெளியிட்டு ரசிகர்களை ஆச்சரியப்படுத்தி இருக்கிறது.
+
+இயக்குநர் அர்ஜுனன் இயக்கத்தில் உருவாகி வரும் 'ஜீனி' திரைப்படத்தில் ஜெயம் ரவி, கீர்த்தி ஷெட்டி, கல்யாணி பிரியதர்ஷன், வாமிகா கபி, தேவயானி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+மகேஷ் முத்துசுவாமி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஏ. ஆர். ரஹ்மான் இசையமைத்திருக்கிறார்.  ஃபேண்டஸி ஜேனரில் தயாராகி இருக்கும் இந்த திரைப்படத்தை வேல்ஸ் ஃபிலிம் இன்டர்நேஷனல் பட நிறுவனம் சார்பில் தயாரிப்பாளர் டொக்டர் ஐசரி. கே கணேஷ் தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/808a9416.json)
+
+---
+
+### ANFREL seeks to monitor Presidential Election in October
+
+*2024-03-26 17:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ANFREL-seeks-to-monitor-Presidential-Election-in-October/108-279642) · `en`
+
+Colombo, March 26 -  The Asian Network for Free Elections (ANFREL) expressed its intent to observe the upcoming 2024 Sri Lankan Presidential Election during a meeting with the Elections Commission of Sri Lanka today, a statement from it said.
+
+ANFREL has observed 12 elections in Sri Lanka since 2001 promoting international principles of democratic elections. ANFREL is a regional election observation group working to defend and protect democratic elections through elections observations, capacity building, and campaign and advocacy.
+
+According to the Constitution of Sri Lanka, the Presidential election must occur no less than one month and no more than two months before the expiration of the presidential term. Consequently, the Presidential election is mandated to take place on or before 17 October 2024, as the current presidential term commenced on 18 November 2019.
+
+...
+
+[Data](articles/e3335513.json)
+
+---
+
+### Sri Lanka Cricket Women's Cricket Tournament
 
 *2024-03-26 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194962) · `si`
 
-ආසියානු කුසලාන කාන්තා ක්‍රිකට් තරගාවලිය ශ්‍රී ලංකාවේ පැවැත්වීමට ආසියානු ක්‍රිකට් කවුන්සිලය තීරණය කර තිබේ.
+The Asian Cup Women's Cricket Tournament will be held in Sri Lanka from July 19 to 28 at the Dambulla International Cricket Stadium.
 
-ඒ අනුව එම තරගාවලිය එළඹෙන ජුලි 19 වනදා සිට 28 වන දින දක්වා දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී පැවැත්වීමට නියමිතය.
+🟩
+
+The Asian Cup Women's Cricket Tournament has been decided to hold the Asia Cricket Tournament in Sri Lanka.
+
+The tournament will be held from July 19 to 28 at the Dambulla International Cricket Stadium.
 
 ◼️
 
 [Data](articles/3487f72f.json)
+
+[Extended Data](ext_articles/3487f72f.ext.json)
+
+---
+
+### Russian - Sri Lankan soldiers killed in Ukraine war fields;Russia who went to escape poverty
+
+*2024-03-26 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179766) · `ta`
+
+Sri Lankan soldiers in Ukraine face danger, including attacks by unmanned planes. Senakabandara, injured, was evacuated. He and Silva were working in Russia to escape poverty. Hundreds of Sri Lankans fight for $3,000, with many more seeking employment with the Russian army. Economic downturn and political unrest in Sri Lanka led to widespread poverty, forcing some to join the Russian army for better income.
+
+🟩
+
+Senakabandara, who was seriously injured in the Ukraine attack on a bunker of the Russian soldiers in the Donotsk region, was safely evacuated from the country.
+
+Senaka said that the condition of expert Silva was worse than that.
+
+Ukraine's unmanned planes attacked the bunkers in the Tontsk area occupied by Russia when the two Sri Lankans retreated from the scene due to heavy attacks.
+
+"Ukraine's unmanned planes were involved in a fierce attack," he said.
+
+When I was hanging out, I was once again the unmanned air strike of Ukraine on the final bunker.
+
+He said this while receiving treatment at the Donetsk Hospital in Eastern Ukraine.
+
+He told Al Jazeera that we don't think this would be so dangerous.
+
+He said that Russian authorities had asked them to work on bunkers in Tontsk.
+
+But we did not know that there was an attack. He and his friend described how he and his friend were in Russia's supporting army and sent two months of exercise and then sent to the front.
+
+...
+
+[Data](articles/7691b74c.json)
+
+[Extended Data](ext_articles/7691b74c.ext.json)
 
 ---
 
@@ -90,63 +228,35 @@ No official announcement has been made from the minister's side regarding the cy
 
 ---
 
-### ලංකාවට එමින් සිටියදී පාලමේ ගැටුණු නැවේ සිටි පිරිස ගැන හෙළිදරව්වක්
+### A revelation of the crowded ship that was hit by Sri Lanka while returning to Sri Lanka
 
 *2024-03-26 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194961) · `si`
 
-අමෙරිකාවේ බැල්ටිමෝ වරායේ සිට ශ්‍රී ලංකාව බලා එමින් සිටියදී පාලමක ගැටුණු නැවේ කාර්ය මණ්ඩලයට කිසිදු අනතුරක් සිදුව නොමැති බව වාර්තා වෙයි.
+A crowded ship, the Baltimo, carrying 22 Indian staff, hit by Sri Lanka, crashed into a river near Singapore. About 20 people are feared dead, with two rescued, one critically. Seven more are trapped in sinking vehicles.
 
-එම නැවෙහි කාර්ය මණ්ඩලය ලෙස ඉන්දීය ජාතිකයින් 22ක් කටයුතු කර ඇති අතර ඔවුන් තවමත් එම නැවෙන් ඉවත්වී නොමැති බව සඳහන් ය.
+🟩
 
-"Dali" නම් සිංගප්පුරු ධජය යටතේ සේවයට යොදවා තිබුණු එම නෞකාව අමෙරිකාවේ වේලාවෙන් උදෑසන 1.30ට පමණ පාලමෙහි ප්‍රධාන කණුවක ගැටුණි.
+It is reported that the ship staff of the Baltim to travel from the Baltimo porting from the Baltimo.
 
-ඒ හේතුවෙන් එම පාලම ගඟට කඩා වැටුණු අතර පාලම මතින් ගමන් කරමින් තිබූ වාහන 7ක් පමණ ගඟට වැටී තිබුණි.
+There were 22 Indian nationals as the staff of the ship and they have not yet left the ship.
 
-ගිනි නිවන දෙපාර්තමේන්තුව පවසන්නේ 20 දෙනෙක් පමණ ගඟට වැටී ඇතැයි අනුමාන කරන බවයි.
+The ship, which was used under the "Dali ', was in front of the Singapore Flag.
 
-ගඟට වැටී සිටි දෙදෙනෙක් සහන කණ්ඩායම් විසින් බේරාගෙන තිබුණු අතර ඉන් එක් අයෙකුගේ තත්ත්වය බරපතළ බව වාර්තා වෙයි.
+As a result, the bridge crashed into the river and about 7 vehicles traveling on the bridge had fallen into the river.
 
-තවත් 7 දෙනෙක් ගිලුණු වාහන තුළ සිටිතැයි අනුමාන කෙරෙන අතර සොනාර් තාක්ෂණය භාවිතයෙන් ඒ බව සහන කණ්ඩායම් විසින් තහවුරු කරගෙන තිබේ.
+The fire department states that about 20 people are guessed to fall into the river.
 
-බැල්ටිමෝ වරාය අමෙරිකාවේ කාර්යබහුලම වරායකි. මේ වනවිට වරාය අසල තදබදයක් වර්ධනය වෙමින් තිබෙන බවද සඳහන් ය.
+Two relief teams were rescued and one of them was serious.
+
+Seven more are inferred to the sinking vehicles and the relief teams have been confirmed using Sonar Technology.
+
+The Baltimo Port is a busy port in America. It is said that the port is growing nearby.
 
 ◼️
 
 [Data](articles/d1c3cff6.json)
 
----
-
-### Russian - Sri Lankan soldiers killed in Ukraine war fields;Russia who went to escape poverty
-
-*2024-03-26 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179766) · `ta`
-
-Sri Lankan soldiers in Ukraine face danger, including attacks by unmanned planes. Senakabandara, injured, was evacuated. He and Silva were working in Russia to escape poverty. Hundreds of Sri Lankans fight for $3,000, with many more seeking employment with the Russian army. Economic downturn and political unrest in Sri Lanka led to widespread poverty, forcing some to join the Russian army for better income.
-
-🟩
-
-Senakabandara, who was seriously injured in the Ukraine attack on a bunker of the Russian soldiers in the Donotsk region, was safely evacuated from the country.
-
-Senaka said that the condition of expert Silva was worse than that.
-
-Ukraine's unmanned planes attacked the bunkers in the Tontsk area occupied by Russia when the two Sri Lankans retreated from the scene due to heavy attacks.
-
-"Ukraine's unmanned planes were involved in a fierce attack," he said.
-
-When I was hanging out, I was once again the unmanned air strike of Ukraine on the final bunker.
-
-He said this while receiving treatment at the Donetsk Hospital in Eastern Ukraine.
-
-He told Al Jazeera that we don't think this would be so dangerous.
-
-He said that Russian authorities had asked them to work on bunkers in Tontsk.
-
-But we did not know that there was an attack. He and his friend described how he and his friend were in Russia's supporting army and sent two months of exercise and then sent to the front.
-
-...
-
-[Data](articles/7691b74c.json)
-
-[Extended Data](ext_articles/7691b74c.ext.json)
+[Extended Data](ext_articles/d1c3cff6.ext.json)
 
 ---
 
@@ -2177,131 +2287,5 @@ Dr. Nandalal Weerasinghe says he does not remove the central bank governor in th
 [Data](articles/9bc2506a.json)
 
 [Extended Data](ext_articles/9bc2506a.ext.json)
-
----
-
-### Singer Chandra Kumara Kandaanarachchi passes away
-
-*2024-03-26 10:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Singer-Chandra-Kumara-Kandaanarachchi-passes-away/108-279623) · `en`
-
-Veteran singer Chandra Kumara Kandaanarachchi has passed away this morning at the age of 76.
-
-He died while receiving treatment at the Apeksha Hospital in Maharagama.
-
-Several beloved songs that have captured the hearts of fans include Age Sinahawa Thahanam, Pem Banda Sith Banda, Ganga Nadee Theerayedi Eda, Gama Mahanuwarai, and Sath Dinakin Obe.
-
-◼️
-
-[Data](articles/4d3dc2ef.json)
-
-[Extended Data](ext_articles/4d3dc2ef.ext.json)
-
----
-
-### '' Diyanda Wil down '
-
-*2024-03-26 10:48:16* · [`adalk`](https://www.ada.lk/breaking_news/’’පෙම්-බැන්ද-සිත්-බැන්ද’’--සඳ-කුමරු-දිවියෙන්-සමුගනියි/11-408801) · `si`
-
-"Veteran singer Chandra Kumara Kandanarachchi passed away today, receiving treatment at Maharagama Cancer Hospital. Known for his smile and popularity among lovers of happiness."
-
-🟩
-
-Veteran singer Chandra Kumara Kandanarachchi has passed away this morning (26).
-
-He was receiving treatment at the Maharagama Cancer Hospital.
-
-Her smile was banned, lovely, and lovers of happiness and happiness are very popular.
-
-◼️
-
-[Data](articles/7c33b2fa.json)
-
-[Extended Data](ext_articles/7c33b2fa.ext.json)
-
----
-
-### Products to begin in prisons to earn income
-
-*2024-03-26 10:43:42* · [`adalk`](https://www.ada.lk/breaking_news/රැඳවියන්ට-ආදායමක්-ගන්න--බන්ධනාගාරවල-නිෂ්පාදන-කර්මාන්ත-අරඹන්න-යයි/11-408800) · `si`
-
-A program to rehabilitate inmates through work in prisons, aiming to integrate them into society and provide them with productive employment. Applications for industrial units in Thawakayakala, Negombo Palleyana, Kandunaspola, Badulla, and Pallekele are open until the 31st.
-
-🟩
-
-Principals have to be established under the purpose of rehabilitating the inmates who are reintegrated into customized and socialized prisoners to rehabilitate the labor of the prisons.
-
-He said that this program is expected to provide their labor to a fruitful work without imprisonment.
-
-According to a Memorandum of MoU and the Department of Prisons and Industrial Development Board, the relevant applications have been called and the applications have been called on 31st of this month.
-
-Under the early stage of this program, the proposed to establish industrial units in Thawakayakala, Negombo Palleyana, Kandunaspola, Badulla, Kandunaspola, Badulla, and Pallekele.
-
-Jagath Weerasinghe said that the inmates of the buildings of these prisons are provided to the establishment of appropriate industrial units.
-
-◼️
-
-[Data](articles/5d9c17b9.json)
-
-[Extended Data](ext_articles/5d9c17b9.ext.json)
-
----
-
-### Low salary 17,500 rupees
-
-*2024-03-26 10:39:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்த-சம்பளம்-17-500-ரூபாய்/175-335201) · `ta`
-
-The National Minimum Wage Act sets the minimum wage at Rs 12,500. The National Labor Advisory Council recommends a salary increase to Rs 17,500, leading to a daily wage rise from Rs 500 to Rs 700.
-
-🟩
-
-According to the rules of the National Minimum Wage Act, the national minimum wage has been fixed at Rs 12,500.
-
-On the recommendation of the National Labor Advisory Council, the committee appointed to increase the salary of Rs 17,500.
-
-Accordingly, the national minimum daily wage will be increased from Rs 500 to Rs 700.
-
-◼️
-
-[Data](articles/c15194fd.json)
-
-[Extended Data](ext_articles/c15194fd.ext.json)
-
----
-
-### Business couple nabbed with live animals at BIA
-
-*2024-03-26 10:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Business-couple-nabbed-with-live-animals-at-BIA/108-279621) · `en`
-
-Katunayake, March 6 (Daily Mirror) - A business couple was arrested last evening at the arrival lounge of the Bandaranaike International Airport (BIA) by Customs officials for attempting to smuggle 88 live animals worth Rs. 4 million into the country.
-
-The animals were imported from Thailand while violating Sri Lanka's Wildlife and Flora Ordinance, Animal Diseases Act and Customs Ordinance.
-
-The suspects were arrested with the live animals following a joint raid conducted by a group of officials from the Revenue Monitoring Division of the Customs, the Biodiversity Unit of the Customs, and the Animal Quarantine Institute of the Department of Agriculture.
-
-The young business couple is a resident of the Puwakpitiya area in Avissawella, and they arrived at the BIA at 4.35 p.m. from Bankok via SriLankan Airlines flight UL-405.
-
-...
-
-[Data](articles/5a223f42.json)
-
-[Extended Data](ext_articles/5a223f42.ext.json)
-
----
-
-### Veteran singer Chandra Kumara Kandanarachchi passes away
-
-*2024-03-26 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98209/veteran-singer-chandra-kumara-kandanarachchi-passes-away) · `en`
-
-Veteran Sri Lankan singer Chandra Kumara Kandanarachchi passed away on Tuesday morning (March 26).
-
-According to reports, Kandanarachchi has received medical treatment at the Apeksha Hospital in Maharagama for a while.
-
-He was well-known for a number of hit songs including ‘Ege Sinahawa Thahanam’, ‘Pem Benda Sith Benda’, ‘Ganga Nadee Theeraye’, and ‘Hithe Sathuta Jiwithe’.
-
-◼️
-
-[Data](articles/e36bd80d.json)
-
-[Extended Data](ext_articles/e36bd80d.ext.json)
 
 ---

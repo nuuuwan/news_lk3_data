@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 21:18:18**
+As of **2024-03-26 21:34:09**
 
 ## Newspaper Stats
 
-*Scraped **15,344** Articles*
+*Scraped **15,347** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,80 @@ newsfirstlk | 363
 dailyftlk | 819
 economynextcom | 821
 islandlk | 845
-adalk | 1,310
+adalk | 1,311
 adaderanalk | 1,842
 tamilmirrorlk | 1,844
 virakesarilk | 2,167
-dailymirrorlk | 2,372
-adaderanasinhalalk | 2,467
+dailymirrorlk | 2,373
+adaderanasinhalalk | 2,468
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,343 (100.0%) of 15,344 articles have been extended.
+15,344 (100.0%) of 15,347 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### மொட்டு கட்சியின் ஜனாதிபதி வேட்பாளர் குறித்த தகவல் வெளியானது
+### ශ්‍රී ලංකාවට එරෙහි දෙවන තරගයට ශකීබ් ව කැඳවයි
+
+*2024-03-26 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194972) · `si`
+
+ශ්‍රී ලංකා කණ්ඩායම සමග පැවැත්වෙන දෙවන ටෙස්ට් තරගය සඳහා බංග්ලාදේශ කණ්ඩායමේ තුන් ඉරියව් ක්‍රිඩක ශකීබ් අල් හසන් ව කැඳවා තිබේ.
+
+ඉකුත් දා බංග්ලාදේශ මහ මැතිවරණයෙන් පහසු ජයක් වාර්තා කරමින් පාර්ලිමේන්තු මන්ත්‍රීවරයෙක් ලෙස ද ඔහු තේරී පත්වී තිබුණි.
+
+හිටපු නායක ශකීබ් අවසන් වරට ටෙස්ට් තරගයක් ක්‍රීඩා කළේ 2023 අප්‍රේල් මාසයේදීය.
+
+ඔහුගේ ඇසක ඇතිවී ඇති ආබාධයක් හේතුවෙන් ටෙස්ට් තරග සඳහා සහභාගී වීමෙන් ඔහු වැළැකී සිටි බව වාර්තා විය.
+
+අනතුරුව ඔහු එම රෝගී තත්ත්වය සඳහා ප්‍රතිකාර ගැනීමට සිංගප්පූරුවට ද ගොස් තිබුණි.
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර දෙවෙනි ටෙස්ට් තරගය මාර්තු 30 වනදා ආරම්භ වෙයි.
+
+ඒ අනුව ශ්‍රී ලංකාවට එරෙහි දෙවෙනි ටෙස්ට් තරගයේ බංග්ලාදේශ සංචිතය වන්නේ,
+
+◼️
+
+[Data](articles/866b8414.json)
+
+---
+
+### Sri Lanka addresses urgent need for gender-responsive climate policies
+
+*2024-03-26 21:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-addresses-urgent-need-for-gender-responsive-climate-policies/108-279657) · `en`
+
+Colombo, March 26 (Daily Mirror) -  The Policy Dialogue on 'Sri Lankan Women and Girls in Climate Action' held on March 26th at the Bandaranaike Memorial International Conference Hall (BMICH) in Colombo brought together key stakeholders to address the pressing need for gender-responsive climate policies in Sri Lanka.
+
+Organized by the Ministry of Environment in collaboration with the United Nations Population Fund (UNFPA), the United Nations Development Programme (UNDP), and SLYCAN Trust, the policy dialogue aimed to explore avenues for enhancing gender-inclusive climate action.
+
+...
+
+[Data](articles/f73d8516.json)
+
+---
+
+### Information on the budget party's presidential candidate
 
 *2024-03-26 20:55:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-கட்சியின்-ஜனாதிபதி-வேட்பாளர்-குறித்த-தகவல்-வெளியானது/175-335235) · `ta`
 
-பொதுஜன பெரமுனவில் தற்போது நான்கு அல்லது ஐந்து ஜனாதிபதி வேட்பாளர்கள் இருப்பதாக பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+Namal Rajapaksa, a parliamentarian, mentioned that the PA has 4-5 presidential candidates, but the party hasn't decided on a general candidate yet.
 
-இதன்படி எதிர்வரும் ஜனாதிபதித் தேர்தலில் வெற்றிபெறும் பொது வேட்பாளரை முன்வைக்க தாம் தயாராக இருப்பதாகவும் அந்த வேட்பாளர் யார் என்பதை கட்சி இன்னும் தீர்மானிக்கவில்லை எனவும் அவர் மேலும் தெரிவித்தார்.
+🟩
 
-ஹம்பாந்தோட்டையில் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே நாமல் ராஜபக்ஷ மேற்கண்டவாறு தெரிவித்தார். R
+Parliamentarian Namal Rajapaksa said there are currently four or five presidential candidates in the PA.
+
+Accordingly, he added that he was ready to present the general candidate who would win the upcoming presidential election and that the party has not yet decided who the candidate is.
+
+Namal Rajapaksa said this while commenting to the media in Hambantota. Remble
 
 ◼️
 
 [Data](articles/3e3b38ff.json)
+
+[Extended Data](ext_articles/3e3b38ff.ext.json)
 
 ---
 
@@ -179,6 +223,22 @@ Political parties should be responsible for the selection of the best parties in
 [Data](articles/079bc589.json)
 
 [Extended Data](ext_articles/079bc589.ext.json)
+
+---
+
+### පාතාලයට එරෙහිව දුන් නියෝග නිසා මහේස්ත්‍රාත් තිළිණ ගමගේට මරණ තර්ජන
+
+*2024-03-26 19:42:32* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලයට-එරෙහිව-දුන්-නියෝග-නිසා-මහේස්ත්‍රාත්-තිළිණ-ගමගේට-මරණ-තර්ජන/11-408817) · `si`
+
+පාතාලයට සම්බන්ධකම් කියන සංවිධානාත්මක අපරාධකරුවන් සම්බන්ධයෙන් දුන් නියෝග හේතුවෙන් නාඳුනන තුවක්කුකරුවෙකු විසින් කොටුව මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා ඝාතනය කිරීමට උත්සාහ කිරීමක් පිළිබඳ ලැබුණු තොරතුරකට අනුව තිළිණ ගමගේ මහතාගේ ආරක්‍ෂාව තර කිරීමට පියවර ගෙන ඇත.
+
+දුර සිට ග්‍රේනේඩ් විදිනයක් භාවිත කරමින් නන්නාඳුනන තුවක්කුකරුවෙක් විසින් ප්‍රහාරයක් එල්ල කර තිළිණ ගමගේ මහතා ඝාතනය කිරීමට උත්සාහ කර ඇති බවට ලැබුණු තොරතුරකට අනුව මහජන ආරක්ෂක ඇමති ටිරාන් අලස් මහතා විසින් පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාට දුන් උපදෙස්වලට අනුව තිළිණ ගමගේ මහතාගේ ආරක්‍ෂාව තර කිරීමට පියවර ගෙන ඇත.
+
+ඔත්තුකරුවකු විසින් මහජන ආරක්ෂක ඇමති ටිරාන් අලස් මහතාට යොමු කළ ලිපියකට අනුව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාගේ නියෝගයක් මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව සිද්ධිය සම්බන්ධයෙන් විමර්ශන ආරම්භ කර ඇත.
+
+...
+
+[Data](articles/d3bf3532.json)
 
 ---
 
@@ -2197,81 +2257,5 @@ One person was arrested with drugs while conducting a raid on the basis of infor
 [Data](articles/3f582925.json)
 
 [Extended Data](ext_articles/3f582925.ext.json)
-
----
-
-### The clash in Gaza continues even after the Security Council resolution for the ceasefire
-
-*2024-03-26 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179738) · `ta`
-
-The UN Security Council passed a resolution for a ceasefire in Gaza, despite Israel's ongoing attacks. The US did not participate, and the resolution was supported by 14 other countries. Hamas welcomed the resolution and is ready for negotiations on hostages. Israel protested, with Netanyahu arguing the resolution would give Hamas confidence. The resolution was also welcomed by the Arab League, EU, Palestinian Authority, Egypt, Qatar, South Africa, Spain, and France. The US stated the ceasefire would begin with hostage release.
-
-🟩
-
-The UN demanded that the ceasefire be implemented in Gaza. Israel's attacks against Hamas continues in Gaza, despite the resolution passed in the Security Council.
-
-The United Nations Security Council (UN Security Council) was passed on Monday (the United Nations Security Council (UN Security) to implement the ceasefire in Gaza during the Ramadan period. The US did not participate in the referendum.. The other 14 countries in the Security Council voted in favor of the proposal.
-
-The UN demanded that the ceasefire be implemented in Gaza after the Gaza War began last October. This is the first time that the resolution was passed in the Security Council.
-
-The UN also demanded that all Hamas be released.. The Security Council has demanded.
-
-Hamas has welcomed the resolution of the Security Council. Hamas also said he was ready to start negotiations on the release of hostages instead of Palestinian prisoners.
-
-...
-
-[Data](articles/b60a2d64.json)
-
-[Extended Data](ext_articles/b60a2d64.ext.json)
-
----
-
-### In a country with no successful education system, development cannot be expected: Sagala Ratnayake
-
-*2024-03-26 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179735) · `ta`
-
-Sagala Ratnayake, a senior advisor, emphasized that a successful education system is crucial for development. He highlighted the importance of managing human resources for educational reforms to be effective. The event was to hand over a new building for Kodapola Illukpitiya students, constructed with financial assistance from the Royal College Alumni Association and the 12th Army Engineer Service Force. Ratnayake also discussed the need for economic reforms, including the transformation of the Central Bank of Sri Lanka into an independent entity, to improve the country's economy.
-
-🟩
-
-Sagala Ratnayake, a senior advisor to the president's national security and the President's Task Force, said that in a country where there is no successful education system, development cannot be expected.
-
-Sagala Ratnayake pointed out that no matter how many educational reforms are prepared and the human resources are not managed accordingly, the educational reforms will not benefit.
-
-Sagala Ratnayake, a senior consultant on the President's National Security and the President of the President, said this at the event on Monday (25) at the event to hand over the newly constructed two storied building for the students of Kodapola Illukpitiya.
-
-The new building was constructed with the full financial assistance of the 1981 group of the Royal College Alumni Association in Colombo and the participation of the 12th Army Engineer Service Force.
-
-Sagala Ratnayake added that further addressing the event.
-
-...
-
-[Data](articles/d1db323f.json)
-
-[Extended Data](ext_articles/d1db323f.ext.json)
-
----
-
-### Accident in Jaffna;Death
-
-*2024-03-26 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179736) · `ta`
-
-In Jaffna, a fatal accident on the Jaffna-Kandy Highway claimed the life of Chinnarasa Sudanraja (41) from Kilinochchi. A luxury bus, traveling from Jaffna to Colombo, collided with a motorcycle near Meesalai Veerasingham College, resulting in the death of the bus driver and conductor.
-
-🟩
-
-One person was killed in an accident on Monday night (25) night in the Jaffna -Kodikamam police division.
-
-The deceased is Chinnarasa Sudanraja (age 41) from Vivekananda Nagar, Kilinochchi.
-
-The luxury bus traveling from Jaffna to Colombo, on the Jaffna -Kandy Highway, crashed into a motorcycle in front of a pedestrian crossing in front of Meesalai Veerasingham College.
-
-The driver of the bus and the conductor of the bus, who had been killed in the accident, abandoned the bus at the site of the accident and surrendered to the Kodikama police station.
-
-◼️
-
-[Data](articles/76e29597.json)
-
-[Extended Data](ext_articles/76e29597.ext.json)
 
 ---

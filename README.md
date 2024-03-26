@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 15:18:05**
+As of **2024-03-26 15:33:39**
 
 ## Newspaper Stats
 
-*Scraped **15,274** Articles*
+*Scraped **15,278** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,98 @@ newsfirstlk | 363
 dailyftlk | 819
 economynextcom | 821
 islandlk | 843
-adalk | 1,299
+adalk | 1,300
 adaderanalk | 1,835
-tamilmirrorlk | 1,838
-virakesarilk | 2,152
+tamilmirrorlk | 1,839
+virakesarilk | 2,153
 dailymirrorlk | 2,359
-adaderanasinhalalk | 2,452
+adaderanasinhalalk | 2,453
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,272 (100.0%) of 15,274 articles have been extended.
+15,274 (100.0%) of 15,278 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### වයස 14 ට අඩු දරුවන් ට සමාජ මාධ්‍ය තහනම් කරමින් නීතියක්
+
+*2024-03-26 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194957) · `si`
+
+අමෙරිකාවේ ෆ්ලොරිඩා ප්‍රාන්තයේ දරුවන් සඳහා සමාජ මාධ්‍ය තහනම් කිරීමට තීරණය කර තිබේ.
+
+ඒ සම්බන්ධ නීතියට ප්‍රාන්ත ආණ්ඩුකාරවරයා විසින් අත්සන් තබා ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ඒ අනුව ෆ්ලොරිඩා ප්‍රාන්තයේ වයස අවුරුදු 14 ට අඩු ළමයින් සඳහා සමාජ මාධ්‍ය ගිණුම් තිබීම නීතියෙන් තහනම් වෙයි.
+
+එමෙන්ම අවුරුදු 14 ට අඩු ළමුන් සඳහා දැනට පවතින සමාජ මාධ්‍ය ගිණුම් මාකා දැමීමට අවශ්‍ය පියවර ගන්නා ලෙස ද උපදෙස් ලබාදී තිබේ.
+
+◼️
+
+[Data](articles/ce3a8681.json)
+
+---
+
+### The bridge collapsed and many vehicles fell into the river: In the United States
+
+*2024-03-26 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179741) · `ta`
+
+A massive cargo ship crashed into the Francis Scott Key Bridge in Baltimore, Maryland, around 1.35 am, causing it to collapse into the river. At least 20 construction workers were on the bridge.
+
+🟩
+
+The massive ship crashed into a long bridge in the United States and collapsed in the river. Many vehicles have fallen into the river.
+
+The Francis Scott Key Bridge, a bridge in Baltimore, Maryland, was demolished.
+
+A massive cargo ship crashed into a 366m long bridge at around 1.35 am this morning, an official said.
+
+At least 20 construction employees were on the bridge, according to the Adakar.
+
+◼️
+
+[Data](articles/9407aa95.json)
+
+[Extended Data](ext_articles/9407aa95.ext.json)
+
+---
+
+### யாழ். கீரிமலை ஜனாதிபதி மாளிகை அமைந்துள்ள பகுதி அளவீட்டுப்பணி மக்களின் எதிர்ப்பால் கைவிடப்பட்டது!
+
+*2024-03-26 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179752) · `ta`
+
+யாழ்ப்பாணம் - கீரிமலை ஜனாதிபதி மாளிகை அமைந்துள்ள பகுதியை நகர அபிவிருத்தி நடவடிக்கைக்காக சுவீகரிக்கும் அடிப்படையில் அளவீடுகள் செய்வதற்கு நில அளவைத்திணைக்கள அதிகாரிகள் இன்று காலை 10 மணியளவில் வருகை தந்திருந்தனர்.
+
+இதன்போது குறித்த காணி அளவீட்டுக்கு காணி உரிமையாளர்கள் மற்றும் பொதுமக்கள் எதிர்ப்பை வெளியிட்டதுடன் நில அளவைத்திணைக்களத்தின் வாகனத்தினையும் இடைமறித்தனர்.
+
+பின்னர் நீண்ட நேர காணி உரிமையாளர்களின் எதிர்ப்பினை அடுத்து காணியினை அளவீடு செய்வதற்கு தமக்கு விருப்பம் இல்லை என காணி உரிமையாளர்கள் கடிதம் எழுதி கையொப்பமிட்டு வழங்கியதை அடுத்து நில அளவைத்திணைக்கள அதிகாரிகள் அங்கிருந்து திரும்பிச் சென்றனர்.
+
+தெல்லிப்பளை பிரதேச செயலக பிரிவின்கீழ் உள்ள நகுலேஸ்வரம் (ஜே/226), காங்கேசன்துறை (ஜே/233) கிராம சேவகர் பிரிவுகளில் உள்ள ஆழ்வான்மலையடி, வேலர்காடு, புண்ணன்புதுக்காடு, பத்திராயான், புதுக்காடு, சோலைசேனாதிராயன் என அழைக்கப்படும் பகுதிகளில் 12.0399 ஹெக்டயர் ( 29 ஏக்கர் 3 றூட் 0.20 பேர்ச் ) நிலம் அளவீடு செய்வதற்கு திட்டமிடப்பட்டிருந்தது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/19239f62.json)
+
+---
+
+### ஆளைக் கொன்றது அக்குபஞ்சர்
+
+*2024-03-26 14:59:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஆளைக்-கொன்றது-அக்குபஞ்சர்/71-335217) · `ta`
+
+யாழ் அச்சுவேலி கிழக்கு பகுதியில் அக்குபஞ்சர் சிகிச்சை பெற்றுக்கொண்ட  மாணிக்கம் சற்குணராஜா (வயது 64) என்பவர் உயிரிழந்துள்ளார்.
+
+முழங்கால் வலியினால் அவதிப்பட்டு வந்தவர் யாழ்.நகர் பகுதியை அண்மித்த பிறவுண் வீதியில் அக்குபஞ்சர் சிகிச்சை நிலையம் என்ற பெயரில் இயங்கி வரும் சிகிச்சை நிலையத்திற்கு  சமூக வலைத்தளங்களில் வந்த விளம்பரங்களை நம்பி சிகிச்சைக்காக சென்றுள்ளார்.
+
+உடற்கூற்று பரிசோதனையின் போது , அக்குபஞ்சர் சிகிச்சை என தவறான முறைகளில் செலுத்தப்பட்ட ஊசிகள் மூலம் கிருமி தொற்றுக்கள் ஏற்பட்டு , அவை உடல் முழுவதும் பரவியதால் மரணம் சம்பவித்துள்ளது என கண்டறியப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/1c842c6b.json)
+
+---
 
 ### Cabinet Paper to reduce electricity charges for Northern Province farmers
 
@@ -46,25 +122,33 @@ The Minister said that the President advised that most of the money allocated to
 
 [Data](articles/c1dc2b8c.json)
 
+[Extended Data](ext_articles/c1dc2b8c.ext.json)
+
 ---
 
-### පාලමේ ගැටී ඇත්තේ ශ්‍රී ලංකාවට එමින් සිටි නැවක්
+### Sri Lanka has clashed in the bridge
 
 *2024-03-26 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194955) · `si`
 
-අමෙරිකාවේ බැල්ටිමෝ ප්‍රදේශයේ Patapsco ගංගාව හරහා තිබූ විශාල පාලමේ ගැටී ඇත්තේ ශ්‍රී ලංකාව බලා එමින් සිටි නෞකාවක් බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+A ship in the Baltimo River, USA, clashed with a bridge, causing a 1.6-meter gap. Videos circulate on social media. No injuries, but 7 missing due to vehicles falling into the river. Relief groups are active.
+
+🟩
+
+International media reports that Sri Lanka was a ship that was in the Baltimo River in Baltimo, USA.
 
 Dali නම් එම බහාලුම් ප්‍රවාහන නෞකාව ගැටීම හේතුවෙන් සැතපුම් 1.6ක් දිගැති එම පාලම සම්පූර්ණයෙන්ම කඩා වැටී තිබේ.
 
-ඒ අවස්ථාව දැක්වෙන වීඩියෝ මේ වන විට සමාජ මාධ්‍යයෙහි සංසරණය වෙයි.
+The videos indicating that is now circulate in the social media.
 
-පාලම කඩා වැටීම හේතුවෙන් කිසිවෙක් හෝ තුවාල ලබා ඇතිබව මුලදී වාර්තා වී නොතිබුණද මේ වනවිට එම අනතුර හේතුවෙන් 7 දෙනෙක් පමණ අතුරුදන්ව ඇතැයි වාර්තා වෙයි.
+Although no one was injured in the bridge, it was reported that about 7 people have been reported missing due to the accident.
 
-වාහන කිහිපයක් ගඟට වැටී ඇතැයි අනුමාන කෙරෙන අතර එම ස්ථානයේ සහන කණ්ඩායම් සිටින බව ද වාර්තා විය.
+It was reported that several vehicles have fallen into the river and there are relief groups.
 
 ◼️
 
 [Data](articles/241368aa.json)
+
+[Extended Data](ext_articles/241368aa.ext.json)
 
 ---
 
@@ -256,30 +340,6 @@ There have been four murder incidents in the Mannar Police Area areas. Based on 
 
 ---
 
-### The bridge collapsed and many vehicles fell into the river: In the United States
-
-*2024-03-26 14:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/179741) · `ta`
-
-A massive cargo ship crashed into the Francis Scott Key Bridge in Baltimore, Maryland, around 1.35 am, causing it to collapse into the river. At least 20 construction workers were on the bridge.
-
-🟩
-
-The massive ship crashed into a long bridge in the United States and collapsed in the river. Many vehicles have fallen into the river.
-
-The Francis Scott Key Bridge, a bridge in Baltimore, Maryland, was demolished.
-
-A massive cargo ship crashed into a 366m long bridge at around 1.35 am this morning, an official said.
-
-At least 20 construction employees were on the bridge, according to the Adakar.
-
-◼️
-
-[Data](articles/9407aa95.json)
-
-[Extended Data](ext_articles/9407aa95.ext.json)
-
----
-
 ### Approval granted for 70 MW Solar Photovoltaic Power Plant Installation Project
 
 *2024-03-26 14:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Approval-granted-for-70-MW-Solar-Photovoltaic-Power-Plant-Installation-Project/108-279632) · `en`
@@ -409,6 +469,22 @@ A group of people who suspect the supporters of the former minister has interrup
 [Data](articles/dc392660.json)
 
 [Extended Data](ext_articles/dc392660.ext.json)
+
+---
+
+### ඩුබායි සිට මෙහෙයවන මත්ද්‍රව්‍ය ජාවාරමකට සම්බන්ධ කාන්තාවන් තිදෙනෙක් අල්ලයි
+
+*2024-03-26 13:51:39* · [`adalk`](https://www.ada.lk/breaking_news/ඩුබායි-සිට-මෙහෙයවන-මත්ද්‍රව්‍ය-ජාවාරමකට-සම්බන්ධ-කාන්තාවන්-තිදෙනෙක්-අල්ලයි/11-408803) · `si`
+
+ඩුබායි රාජ්‍යයේ තුළ සැඟව සිට මත්ද්‍රව්‍ය ජාවාරම මෙහෙයවන සංවිධානාත්මක අපරාධකරුවන් තිදෙනෙකුගේ  මෙරට මත්ද්‍රව්‍ය ජාවාරම මෙහෙයවන  කාන්තාවන් තිදෙනකු රුපියල්  60000 කට ආසන්න අයිස් මත්ද්‍රව්‍ය  තොගයක් සමඟ අත්අඩංගුවට ගත් බව බස්නාහිර පළාත දකුණ දිසාව අපරාධ කොට්ඨාසය කියයි.
+
+එම සැකකාරියන් සන්තකයේ තිබී අයිස් මත්ද්‍රව්‍ය මිලිගෑම්  21370 ක් පොලිස් භාරයට ගෙන ඇත.
+
+අත්අඩංගුවට පත් වූවන් අතර සංවිධානාත්මක අපරාධකරුවකු සහ මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු  වන  නේවි රුවන් නමැත්තාගේ අනියම් බිරිඳ සහ ඒන්ජල් හා පංචාලි යනුවෙන් හඳුන්වන තරුණියන් දෙදෙනාද වන බව පොලිසිය කියයි.
+
+...
+
+[Data](articles/f0d698b6.json)
 
 ---
 
@@ -2159,87 +2235,5 @@ The Board said it arrived at this decision at its meeting held on 25 March 2024 
 [Data](articles/94745cf3.json)
 
 [Extended Data](ext_articles/94745cf3.ext.json)
-
----
-
-### UN Security Council demands immediate ceasefire in Gaza after US abstains
-
-*2024-03-26 07:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98204/un-security-council-demands-immediate-ceasefire-in-gaza-after-us-abstains) · `en`
-
-UNITED NATIONS (Reuters) - The United Nations Security Council on Monday demanded an immediate ceasefire between Israel and Palestinian militants Hamas and the immediate and unconditional release of all hostages after the United States abstained from the vote.
-
-The remaining 14 council members voted for the resolution, which was proposed by the 10 elected members of the body.
-
-Washington had been averse to the word ceasefire earlier in the nearly six-month-old war in the Gaza Strip and had used its veto power to shield U.S. ally Israel as it retaliated against Hamas for an Oct. 7 attack that Israel says killed 1,200 people.
-
-But amid growing global pressure for a truce in the war that has killed more than 32,000 Palestinians, the U.S. abstained from the vote on Monday to allow the Security Council to demand an immediate ceasefire for the month of Muslim fasting month of Ramadan, which ends in two weeks.
-
-...
-
-[Data](articles/319f1e87.json)
-
-[Extended Data](ext_articles/319f1e87.ext.json)
-
----
-
-### Central Bank interest rates further down
-
-*2024-03-26 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194935) · `si`
-
-The Central Bank has reduced its policy interest rate.
-
-🟩
-
-The Central Bank has decided to further reduce its policy interest rate.
-
-◼️
-
-[Data](articles/6d7be075.json)
-
-[Extended Data](ext_articles/6d7be075.ext.json)
-
----
-
-### Sri Lanka central bank cuts rates 50 basis points to 9.50-pct
-
-*2024-03-26 07:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-cuts-rates-50-basis-points-to-9-50-pct-156033/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has cut its policy corridor by 50 basis points to 8.50 percent (floor) and 9.50 percent (ceiling) citing stable external conditions and low inflation.
-
-Subdued aggregate demand , the lesser-than-expected impact of the recent SriLanka taxes, cut in electricity prices, well-anchored inflation expectations and the absence of excessive external sector pressures made the rate cut possible, the central bank said in its March monetary policy statement.
-
-The central bank itself by allowing the exchange rate to appreciate in the wake of deflationary policy has helped mitigate the effect of a valued added tax hike on traded goods, and also made possible an electricity price cut, analysts say.
-
-Sri Lanka central bank mainly responsible for electricity price cut: Minister
-
-Since external monetary stability was restored by the central bank in September 2022, index measured inflation in Sri Lanka had increased by only 5.9 percent over 17 months.
-
-...
-
-[Data](articles/3b5309b5.json)
-
-[Extended Data](ext_articles/3b5309b5.ext.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-03-26 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98203/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says several spells of showers will occur in Eastern and Uva provinces and in Polonnaruwa district.
-
-Showers or thundershowers will occur at several places in Western, Sabaragamuwa, Southern and Central provinces during the afternoon or night.
-
-Heavy showers above 100 mm are likely at some places in Southern province and in Ampara and Monaragala districts, it said.
-
-Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces and in Kalutara, Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/50ef8c4a.json)
-
-[Extended Data](ext_articles/50ef8c4a.ext.json)
 
 ---

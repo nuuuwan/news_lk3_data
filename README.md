@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 17:17:56**
+As of **2024-03-26 17:34:05**
 
 ## Newspaper Stats
 
-*Scraped **15,303** Articles*
+*Scraped **15,305** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 1,838
 tamilmirrorlk | 1,841
 virakesarilk | 2,158
 dailymirrorlk | 2,363
-adaderanasinhalalk | 2,456
+adaderanasinhalalk | 2,458
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,297 (100.0%) of 15,303 articles have been extended.
+15,303 (100.0%) of 15,305 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### ආසියානු කුසලාන කාන්තා ක්‍රිකට් තරගාවලිය ශ්‍රී ලංකාවේ
+
+*2024-03-26 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194962) · `si`
+
+ආසියානු කුසලාන කාන්තා ක්‍රිකට් තරගාවලිය ශ්‍රී ලංකාවේ පැවැත්වීමට ආසියානු ක්‍රිකට් කවුන්සිලය තීරණය කර තිබේ.
+
+ඒ අනුව එම තරගාවලිය එළඹෙන ජුලි 19 වනදා සිට 28 වන දින දක්වා දඹුල්ල ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණයේදී පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/3487f72f.json)
+
+---
 
 ### Sri Lanka to promote registration of ships under its flag
 
@@ -48,59 +62,111 @@ Ship registration is a major source of foreign exchange to the country’s econo
 
 [Data](articles/98eb4c5d.json)
 
+[Extended Data](ext_articles/98eb4c5d.ext.json)
+
 ---
 
-### அமைச்சர் பவித்ரா வன்னியாராச்சியின் பேஸ்புக் பக்கம் மீது சைபர் தாக்குதல்
+### Cyber attack on Minister Pavithra Wanniyarachchi's Facebook page
 
 *2024-03-26 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179763) · `ta`
 
-வனஜீவராசிகள் மற்றும் வனவள பாதுகாப்பு அமைச்சர் பவித்ரா வன்னியாராச்சியின் உத்தியோகபூர்வ பேஸ்புக்  பக்கம் மீது சைபர் தாக்குதல் மேற்கொள்ளப்பட்டுள்ளது.
+Cyber attack on Minister Pavithra Wanniyarachchi's Facebook page. Hackers recorded videos, including internet games, on the minister's official page. The attack reportedly occurred on Monday evening. No official statement from the minister.
 
-சைபர் தாக்குதலின் பின்னர் ஹேக்கர்களால் அமைச்சரின்  உத்தியோகபூர்வ பேஸ்புக் பக்கத்தில் இணைய விளையாட்டுக்கள் உட்பட பல்வேறு வகையான வீடியோக்கள் பதிவு செய்யப்பட்டுள்ளன.
+🟩
 
-நேற்று திங்கட்கிழமை ( 26) மாலை முதல் சைபர் தாக்குதல் மேற்கொள்ளப்பட்டிருக்கலாம் என தெரிவிக்கப்படுகிறது.
+A cyber attack on the official Facebook page of Wildlife and Forest Protection Minister Pavithra Wanniyarachchi has been attacked.
 
-சைபர் தாக்குதல் தொடர்பில்  அமைச்சர் தரப்பில் இருந்து இதுவரை எந்தவொரு உத்தியோகபூர்வ அறிவிப்பும் வெளியாகவில்லை.
+After the cyber attack, hackers have recorded a variety of videos, including internet games on the minister's official Facebook page.
+
+It is reported that a cyber attack may have been carried out on Monday (26) evening.
+
+No official announcement has been made from the minister's side regarding the cyber attack.
 
 ◼️
 
 [Data](articles/a04fef94.json)
 
+[Extended Data](ext_articles/a04fef94.ext.json)
+
 ---
 
-### ரஸ்ய - உக்ரைன் போர் களங்களில் பலியாகும் இலங்கை இராணுவவீரர்கள் ;  வறுமையை பிடியிலிருந்து தப்புவதற்காக  ரஸ்யா சென்றவர்கள் மரணத்தின் பிடியில் சிக்கும் பரிதாபம்
+### ලංකාවට එමින් සිටියදී පාලමේ ගැටුණු නැවේ සිටි පිරිස ගැන හෙළිදරව්වක්
+
+*2024-03-26 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194961) · `si`
+
+අමෙරිකාවේ බැල්ටිමෝ වරායේ සිට ශ්‍රී ලංකාව බලා එමින් සිටියදී පාලමක ගැටුණු නැවේ කාර්ය මණ්ඩලයට කිසිදු අනතුරක් සිදුව නොමැති බව වාර්තා වෙයි.
+
+එම නැවෙහි කාර්ය මණ්ඩලය ලෙස ඉන්දීය ජාතිකයින් 22ක් කටයුතු කර ඇති අතර ඔවුන් තවමත් එම නැවෙන් ඉවත්වී නොමැති බව සඳහන් ය.
+
+"Dali" නම් සිංගප්පුරු ධජය යටතේ සේවයට යොදවා තිබුණු එම නෞකාව අමෙරිකාවේ වේලාවෙන් උදෑසන 1.30ට පමණ පාලමෙහි ප්‍රධාන කණුවක ගැටුණි.
+
+ඒ හේතුවෙන් එම පාලම ගඟට කඩා වැටුණු අතර පාලම මතින් ගමන් කරමින් තිබූ වාහන 7ක් පමණ ගඟට වැටී තිබුණි.
+
+ගිනි නිවන දෙපාර්තමේන්තුව පවසන්නේ 20 දෙනෙක් පමණ ගඟට වැටී ඇතැයි අනුමාන කරන බවයි.
+
+ගඟට වැටී සිටි දෙදෙනෙක් සහන කණ්ඩායම් විසින් බේරාගෙන තිබුණු අතර ඉන් එක් අයෙකුගේ තත්ත්වය බරපතළ බව වාර්තා වෙයි.
+
+තවත් 7 දෙනෙක් ගිලුණු වාහන තුළ සිටිතැයි අනුමාන කෙරෙන අතර සොනාර් තාක්ෂණය භාවිතයෙන් ඒ බව සහන කණ්ඩායම් විසින් තහවුරු කරගෙන තිබේ.
+
+බැල්ටිමෝ වරාය අමෙරිකාවේ කාර්යබහුලම වරායකි. මේ වනවිට වරාය අසල තදබදයක් වර්ධනය වෙමින් තිබෙන බවද සඳහන් ය.
+
+◼️
+
+[Data](articles/d1c3cff6.json)
+
+---
+
+### Russian - Sri Lankan soldiers killed in Ukraine war fields;Russia who went to escape poverty
 
 *2024-03-26 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179766) · `ta`
 
-டொனொட்ஸ்க் பிராந்தியத்தில் உள்ள ரஸ்ய படையினரின்  பதுங்குழியொன்றின் மீது உக்ரைன் மேற்கொண்டதாக்குதலில்  பலத்த காயமடைந்த   சேனகபண்டார தனது நாட்டை சேர்ந்தவரான நிபுணசில்வாவை அந்த இடத்திலிருந்து பாதுகாப்பாக வெளியேற்ற முயன்றார்.
+Sri Lankan soldiers in Ukraine face danger, including attacks by unmanned planes. Senakabandara, injured, was evacuated. He and Silva were working in Russia to escape poverty. Hundreds of Sri Lankans fight for $3,000, with many more seeking employment with the Russian army. Economic downturn and political unrest in Sri Lanka led to widespread poverty, forcing some to join the Russian army for better income.
 
-நிபுணசில்வாவின் நிலைமை அதனை விட மோசமானதாக காணப்பட்டது அவரது நெஞ்சில் காயம் எற்பட்டிருந்தது கையிலும் காலிலும் காயங்கள் காணப்பட்டன என சேனக தெரிவித்தார்.
+🟩
 
-கடும் தாக்குதல் காரணமாக அந்த இடத்திலிருந்து இரண்டு இலங்கையர்களும் பின்வாங்கியதும் ரஸ்யாவினால்  ஆக்கிரமிக்கப்பட்ட டொனெட்ஸ்க் பகுதியில் உள்ள பதுங்குகுழிகளை  உக்ரைனின் ஆளில்லா விமானங்கள் தாக்கின.
+Senakabandara, who was seriously injured in the Ukraine attack on a bunker of the Russian soldiers in the Donotsk region, was safely evacuated from the country.
 
-உக்ரைனின் ஆளில்லா விமானங்கள் உக்கிரமான தாக்குதலில் ஈடுபட்டதால் நிபுணவை கைவிட்டுவிட்டு தான் தப்புவதை தவிர வேறு வழியிருக்கவில்லை என தெரிவித்தார் சேனக.
+Senaka said that the condition of expert Silva was worse than that.
 
-நிபுணவை நான் தூக்கிக்கொண்டுவரும்போது இறுதி பதுங்குகுழி மீது  மீண்டும் உக்ரைனின் ஆளில்லா விமானதாக்குதல் இடம்பெற்றது நிபுண நிலத்தில் வீழ்;ந்தார் என சேனகதெரிவித்தார்.
+Ukraine's unmanned planes attacked the bunkers in the Tontsk area occupied by Russia when the two Sri Lankans retreated from the scene due to heavy attacks.
 
-சேனக கிழக்கு உக்ரைனில் உள்ள டொனெட்ஸ்க்மருத்துவமனையில் சிகிச்சை பெற்றுவரும்வேளையில் அவர் இதனை தெரிவித்தார்.
+"Ukraine's unmanned planes were involved in a fierce attack," he said.
+
+When I was hanging out, I was once again the unmanned air strike of Ukraine on the final bunker.
+
+He said this while receiving treatment at the Donetsk Hospital in Eastern Ukraine.
+
+He told Al Jazeera that we don't think this would be so dangerous.
+
+He said that Russian authorities had asked them to work on bunkers in Tontsk.
+
+But we did not know that there was an attack. He and his friend described how he and his friend were in Russia's supporting army and sent two months of exercise and then sent to the front.
 
 ...
 
 [Data](articles/7691b74c.json)
 
+[Extended Data](ext_articles/7691b74c.ext.json)
+
 ---
 
-### එක්සත් ජාතික පක්ෂ කාර්යාලයකට අත් බෝම්බ ප්‍රහාරයක්
+### A hand grenade attack on UNP office
 
 *2024-03-26 16:53:51* · [`adalk`](https://www.ada.lk/breaking_news/එක්සත්-ජාතික-පක්ෂ-කාර්යාලයකට-අත්-බෝම්බ-ප්‍රහාරයක්/11-408813) · `si`
 
-කඩවත ප්‍රෙද්ශයේ ඇල්දෙනිය එක්සත් ජාතික පක්ෂ ප්‍රධාන කාර්යාලයට අද 26 අත් බෝම්බ ප්‍රහාරයක් එල්ල කර ඇති බවත් එම බෝම්බය පිපිරි නොමැති අතර සිදුවීමට ගිය විනාශයක් වැළකී ඇති බව උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+A hand grenade attack on the UNP office in Nadeniya, Kadawatha, resulted in the death of Wisdom Harmi Kapwa. The grenade was found in the office, and the suspect is believed to be from a foreign country.
 
-පක්ෂ කාර්යාලය ඉදිරියේ ඇති මාර්ගයේ තිබී ජීව අත්බෝම්බයේ කොපුව හමුවී තිබූ අතර එම අත් බෝම්බය පක්ෂ කාර්යාලය තුළ තිබියදී සොයාගෙන තිබේ. මෙම අත් බෝම්බය විදේශ රටක නිශ්පාදිත එකක් බවයි සැක පල කරන්නෙ.
+🟩
+
+The Nadeniya of Kadawatha has been attacked today with a hand grenade today.
+
+The Wisdom Harmi Kapwa was found in the road near the party office, and the hand grenade was found in the party office. The hand grenade suspect is the product of a foreign country.
 
 ◼️
 
 [Data](articles/b97abab0.json)
+
+[Extended Data](ext_articles/b97abab0.ext.json)
 
 ---
 
@@ -602,17 +668,25 @@ During the anatomical examination, it was found that injections were caused by i
 
 ---
 
-### අධිවේගී මාර්ග සහස්යා ඉන්වෙස්ට්මන්ට් ලිමිටඩ් වෙත පවරයි
+### Expressways assigns to investments Limited
 
 *2024-03-26 14:52:00* · [`adalk`](https://www.ada.lk/breaking_news/අධිවේගී-මාර්ග-සහස්යා-ඉන්වෙස්ට්මන්ට්-ලිමිටඩ්-වෙත-පවරයි/11-408809) · `si`
 
-මාර්ග සංවර්ධන අධිකාරිය යටතේ දැනට ක්‍රියාත්මක වන අධිවේගී මාර්ග සහස්යා ඉන්වෙස්ට්මන්ට් ලිමිටඩ් වෙත පැවරීම සඳහා, ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය බන්දුල ගුණවර්ධන මහතා ඉදිරිපත් කළ යෝජනාවට කැබිනට් අනුමැතිය හිමිව තිබේ.
+Expressways transfers management to Rahaya Investment Limited, approved by Cabinet on 05.02.2012.
 
-අධිවේගී මාර්ග ජාලය , අධිවේගී මාර්ග සතු ඉඩම්,අධිවේගී මාර්ග ණය (දේශිය) සහ අදාළ කාර්යමණ්ඩලය වඩාත් වාණිජමය වශයෙන් කළමනාකරණ කිරීමට හැකි වන පරිදි මාර්ග සංවර්ධන අධිකාරියෙන් වෙන් කොට සහස්යා ඉන්වෙස්ට්මන්ට් ලිමිටඩ් වෙත පැවරීම පිණිස 2023.06.26 දඅන පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී  සහ ඒ් සඳහා වන ක්‍රියාකාරී සැලැස්ම සඳහා 2024.02.05 දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී  අනුමැතිය ලබා දී ඇත.
+🟩
 
-...
+The proposal made by Hon.
+
+At the Cabinet meeting of the Cabinet Meeting and the AW (LGNly) and the Rice Development Authority (Local) and the Road Development Authority (Local) and the Road Development Authority (Local) and the Road Development Authority can be more commercially managed by the Expressway.The plan has been approved at the Cabinet Meeting held on 05.02.2012.
+
+Accordingly, the daily operations and management activities of the Expressways will be handed over to Rahaya Investment Limited under a formal management agreement, the Rasya Investment Limited within six monthsThe Cabinet of Transport and Highways approved the proposal to be transferred to Investment Limited.
+
+◼️
 
 [Data](articles/8bc5bf1d.json)
+
+[Extended Data](ext_articles/8bc5bf1d.ext.json)
 
 ---
 
@@ -2229,57 +2303,5 @@ He was well-known for a number of hit songs including ‘Ege Sinahawa Thahanam�
 [Data](articles/e36bd80d.json)
 
 [Extended Data](ext_articles/e36bd80d.ext.json)
-
----
-
-### Attorney-at-law prejudged a lawyer preventing lawyers
-
-*2024-03-26 10:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194942) · `si`
-
-The Supreme Court has banned a lawyer in Kekirawa for allegedly destroying a document and violating lawyer-client confidentiality, following a charge sheet by Chief Justice Jayantha Jayasuriya and others.
-
-🟩
-
-The Supreme Court has issued an order to prohibit the lawyer in Kekirawa area until the case has been accused and destroyed a document in the court office.
-
-The order was issued after considering the charge sheet against the lawyer.
-
-The charge sheet was called by Chief Justice Jayantha Jayasuriya and Gamini Amarasekera and AHMD Ekanus.
-
-The court staff had been accused of forcefully sanctified a laboratory document in the Kekirawa Magistrate's Court.
-
-The allegation sheet has also been accused of violating the lawyer of lawyer.
-
-Such functions have been made to say that the allegations made by the lawyer
-
-Accordingly, the three-member panel of judges ordered the lawyer to ban the lawyer to ban the lawyer to ban the lawyer until the end of the charges.
-
-The Chief Justice had said in response to a question raised by the Chief Justice at the DUs that the lawyer was about twelve years.
-
-◼️
-
-[Data](articles/f19ce1d4.json)
-
-[Extended Data](ext_articles/f19ce1d4.ext.json)
-
----
-
-### Sri Lanka rupee opens at 301.90/302.00 to the US dollar
-
-*2024-03-26 10:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-301-90-302-00-to-the-us-dollar-156081/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 301.90/302.00 to the US dollar in the spot forex market on Tuesday, stronger from 302.60/70 on Monday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 was quoted at 11.25/32 percent down from 11.30/40 percent on Monday.
-
-A bond maturing on 15.12.2028 was quoted at 12.05/15 percent down from 12.10/15 percent.
-
-The Colombo Stock Exchange opened up: The All Share Price Index was up 0.19 percent at 11,255, and the S&P SL20 was up 0.19 percent at 3,226. (Colombo/Mar26/2024)
-
-◼️
-
-[Data](articles/974ba059.json)
-
-[Extended Data](ext_articles/974ba059.ext.json)
 
 ---

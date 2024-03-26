@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 20:18:22**
+As of **2024-03-26 20:33:43**
 
 ## Newspaper Stats
 
-*Scraped **15,336** Articles*
+*Scraped **15,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 845
 adalk | 1,309
 adaderanalk | 1,841
 tamilmirrorlk | 1,842
-virakesarilk | 2,165
+virakesarilk | 2,166
 dailymirrorlk | 2,371
 adaderanasinhalalk | 2,466
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,466
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,336 (100.0%) of 15,336 articles have been extended.
+15,336 (100.0%) of 15,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### ஊழலற்ற அரசியல் கலாசாரத்தை எவ்வாறு தோற்றுவிப்பது? விகாரமாதேவி பூங்காவில் தெளிவுப்படுத்தும் நிகழ்வு - மார்ச் 12 அமைப்பு அழைப்பு
+
+*2024-03-26 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179778) · `ta`
+
+சிறந்த மற்றும் நம்பகத்தன்மையான அரசியல் கலாசாரத்தை தோற்றுவிப்பதற்கு அரசியல் கட்சிகள் பொறுப்புடன் செயற்பட வேண்டும். இந்த ஆண்டு இடம்பெறவுள்ள தேசிய தேர்தல்கள் தீர்மானமிக்கவை. எவ்வாறானவர்களுக்கு வேட்புமனுக்கல் வழங்க வேண்டும் என்பதை அரசியல் கட்சிகளுக்கும், எவ்வாறானவர்களை பிரதிநிதிகளாக தெரிவு செய்ய வேண்டும் என்பதை நாட்டு மக்களுக்கும் தெளிவுப்படுத்தும் நிகழ்வு விகாரமாதேவி பூங்காவில் இடம்பெறவுள்ளது. இந்நிகழ்வில் நாட்டு மக்கள் கலந்துக் கொள்ள வேண்டும் என  மார்ச் 12 அமைப்பு அழைப்பு விடுக்கிறது.
+
+மார்ச் 12 அமைப்பின் ஏற்பாட்டில் வியாழக்கிழமை (28) கொழும்பு விகாரமாதேவி பூங்காவில் விசேட கருத்தாடல் நிகழ்வு இடம்பெறவுள்ளது.இந்நிகழ்வு தொடர்பில் தெளிவுப்படுத்தும் ஊடகவியலாளர் சந்திப்பு செவ்வாய்க்கிழமை (26) இலங்கை மன்றக் கல்லூரியில் இடம்பெற்றது. இதன்போது பெப்ரல் அமைப்பின் நிறைவேற்று பணிப்பாளர் ரோஹன ஹெட்டியராச்சி,ட்ரான்ஸ்பேரன்சி இன்டர்நெஷனல் ஸ்ரீ லங்கா – நிறைவேற்று பணிப்பாளர் நதிஷானி பெரேரா, மார்ச் 12 அமைப்பின் பிரதிநிதிகள் கலந்துக் கொண்டனர்.
+
+...
+
+[Data](articles/079bc589.json)
+
+---
 
 ### A congratulator for the country to the country of Great Bank
 
@@ -1518,6 +1532,8 @@ The Baltimore City Fire Department described the collapse as a mass-casualty inc
 
 *2024-03-26 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98214/major-us-bridge-collapses-after-being-hit-by-colombo-bound-ship) · `en`
 
+The Francis Scott Key Bridge in #US city #Baltimore collapsed on Tue following a ship collision, CNN reported. Traffic is being redirected, and it remains uncertain if there were any injuries.pic.twitter.com/6q5smwGLWD— Global Times (@globaltimesnews) March 26, 2024
+
 Baltimore’s Key Bridge has collapsed after it was hit by a container ship, sending cars that were crossing at the time plunging into the waters of the Patapsco River.
 
 At least seven people are believed to be in the water and rescue efforts are ongoing at the site of the collapse, according to the Baltimore Fire Department.
@@ -1525,8 +1541,6 @@ At least seven people are believed to be in the water and rescue efforts are ong
 Multiple videos shared on social media showed a large cargo ship ramming into one of the bridge’s support pillars, causing it to come crashing down into the river.
 
 A large portion of the Francis Scott Key Bridge is now under water, as flight tracking website FlightRadar24 showed the Maryland State Police circling the site of the crash in a helicopter.
-
-Kevin Cartwright, director of communications for the fire department, said the city was dealing with a “developing mass casualty incident”.
 
 ...
 
@@ -2273,33 +2287,5 @@ Since 2009, the Sri Lankan tourism industry has continued to increase. Sri Lanka
 [Data](articles/b51b5b42.json)
 
 [Extended Data](ext_articles/b51b5b42.ext.json)
-
----
-
-### Seek the help of an online threat
-
-*2024-03-26 12:16:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-அச்சுறுத்தலாயின்-உதவியை-நாடுங்கள்/175-335212) · `ta`
-
-The public is urged to report online threats to the Police Computer Criminal Investigation Division. Complaints can be lodged via email or the emergency call of the Bureau of 109. A 21-year-old from Hikkaduwa was arrested for harassing a woman on Facebook, leading to his arrest.
-
-🟩
-
-The public, which is facing various threats through the Internet, has been requested to seek the help of the Police Computer Criminal Investigation Division.
-
-Police Media Spokesperson and Deputy Inspector General of Police Nihal Talduwa said that those who face various harassment and threats from individuals via the Internet can lodge a complaint with the Police Computer Criminal Investigation Division.
-
-He told the media that those who need help can complain via e -mail dir.ccid@police.gov.lk.
-
-He added that the complaints can be lodged by the emergency call of the Bureau of 109, which operates 24 hours a day.
-
-The 21 -year -old youth from Hikkaduwa was arrested for allegedly harassing a woman via Facebook, police media spokesman revealed these assistant numbers.
-
-The young man has repeatedly urged the woman to marry her. She then sent a link to her, claiming that the girl's photos were uploaded to the Internet, and asked her to send her a link to her boyfriend.
-
-...
-
-[Data](articles/7545b1cb.json)
-
-[Extended Data](ext_articles/7545b1cb.ext.json)
 
 ---

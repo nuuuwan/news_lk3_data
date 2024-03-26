@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 09:52:27**
+As of **2024-03-26 10:03:05**
 
 ## Newspaper Stats
 
-*Scraped **15,185** Articles*
+*Scraped **15,187** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,82 +19,140 @@ adalk | 1,292
 adaderanalk | 1,824
 tamilmirrorlk | 1,825
 virakesarilk | 2,128
-dailymirrorlk | 2,343
-adaderanasinhalalk | 2,438
+dailymirrorlk | 2,344
+adaderanasinhalalk | 2,439
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,180 (100.0%) of 15,185 articles have been extended.
+15,185 (100.0%) of 15,187 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### மைத்திரியின் வாக்குமூலம்: AG க்கு அனுப்பிவைப்பு
+### විදෙස් ප්‍රේෂණ හා සංචාරක ඉපැයිම් ඉහළට
+
+*2024-03-26 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194940) · `si`
+
+මෙරට විදෙස් ප්‍රේෂණ හා සංචාරක ඉපැයිම් ඉහළ මට්ටමක පවතින බව ශ්‍රී ලංකා මහ බැංකුව අවධාරණය කරයි.
+
+ඒ අනුව 2024 වසරේ මේ දක්වා වූ කාලය තුළ විදෙස් ප්‍රේෂණ මිලියන 964ක ප්‍රමාණයක් රටට හිමිව තිබේ.
+
+එමෙන්ම ලක්ෂ 2 ඉක්මවූ සංචාරකයින් පිරිසක් දිවයිනට මේ වනවිට පැමිණෙමින් ඇති බව ද සඳහන් කරන ශ්‍රී ලංකා මහ බැංකුව ඒ තුළින් ගෙවුණු මාස දෙක තුළ සංචාරකයින්ගෙන් ඉපැයු ආදායම මිලියන 687ක් බව ද සඳහන් කරයි.
+
+◼️
+
+[Data](articles/7e78e32e.json)
+
+---
+
+### Maithri's Confession: Send to AG
 
 *2024-03-26 09:32:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-வாக்குமூலம்-AG-க்கு-அனுப்பிவைப்பு/175-335193) · `ta`
 
-ஈஸ்டர் ஞாயிறு தாக்குதலை நடத்தியது யார் என்பது தனக்கு தெரியும் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன கூறியிருந்தமை தொடர்பில், குற்றப் புலனாய்வு திணைக்களத்திற்கு வழங்கிய வாக்குமூலம் சட்டமா அதிபருக்கு (Attorney General )அனுப்பி வைக்கப்பட்டுள்ளதாக   தெரிவிக்கப்பட்டுள்ளது.
+Maithripala Sirisena confessed to AG he knows who attacked on Easter Sunday. CID sent for legal action. Sirisena appeared in CIT on March 22, following a directive to the Inspector General of Police.
 
-குற்றப் புலனாய்வு திணைக்கள அதிகாரிகளால் 6 மணித்தியாலங்களுக்கு மேலாக  மைத்திரிபால சிறிசேனவிடம் இருந்து பெறப்பட்ட வாக்குமூலம் மேலதிக சட்ட நடவடிக்கைகளுக்காக சட்டமா அதிபருக்கு அனுப்பி வைக்கப்பட்டுள்ளது. இந்த வாக்குமூலம் திங்கட்கிழமை ​(25) பெற்றுக்கொள்ளப்பட்டமை குறிப்பிடத்தக்கது.
+🟩
 
-2019 ஆம் ஆண்டு ஏப்ரல் 21 ஆம் திகதி ஈஸ்டர் ஞாயிறு தாக்குதலில் ஈடுபட்டவர்கள் தொடர்பில் தமக்குத் தெரியும் என முன்னாள் ஜனாதிபதி கண்டியில், மார்ச் 22ஆம் திகதியன்று  தெரிவித்த கருத்து தொடர்பில் விசாரணை நடத்துமாறு பொது பாதுகாப்பு அமைச்சர் டிரான் அலஸ்,  பொலிஸ் மா அதிபருக்கு பணிப்புரை விடுத்ததை அடுத்து  மைத்திரிபால சிறிசேன சிஐடியில், திங்கட்கிழமை (25) ஆஜரானார்
+Former President Maithripala Sirisena has sent a statement to the Attorney General of the Attorney General regarding that he knows who carried out the Easter Sunday attack.
+
+The Criminal Investigation Department (CID) has been sent to the Attorney General for further legal action from Maithripala Sirisena for more than 6 hours.. The affidavit was received on Monday (25).
+
+Maithripala Sirisena appeared on Monday (25) in CIT, following a directive to the Inspector General of Police, Tran Ales, in a statement to the Inspector General of Police in Kandy on March 22.
 
 ◼️
 
 [Data](articles/89cbebc1.json)
 
+[Extended Data](ext_articles/89cbebc1.ext.json)
+
 ---
 
-### 100 மி.மீற்றருக்கு அதிகமான பலத்த மழை பெய்யக்கூடும்
+### May experience heavy rainfall over 100 mm
 
 *2024-03-26 09:31:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-மி-மீற்றருக்கு-அதிகமான-பலத்த-மழை-பெய்யக்கூடும்/175-335192) · `ta`
 
-தென் மாகாணம், அம்பாறை மற்றும் மொனராகலை மாவட்டங்களில் இன்று (26) 100 மி.மீற்றருக்கு  மேல் பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Heavy rainfall over 100mm expected in Southern Province, Ampara, Moneragala, Eastern, Uva, and Polonnaruwa districts. Thunderstorms possible in upper, Sabaragamuwa, South Central, and some places in Central, Sabaragamuwa, Uva provinces. Advised to prepare for wind and lightning.
 
-மேல், சப்ரகமுவ மற்றும் தென் மத்திய மாகாணங்களில் மாலை அல்லது இரவு வேளைகளில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுவதாக திணைக்களம் குறிப்பிட்டுள்ளது.
+🟩
 
-கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் பொலன்னறுவை மாவட்டத்திலும் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+The Department of Meteorology said that heavy rains are expected in the Southern Province, Ampara and Moneragala districts today (26).
 
-மத்திய, சப்ரகமுவ மற்றும் ஊவா மாகாணங்களிலும் களுத்துறை, காலி மற்றும் மாத்தறை மாவட்டங்களிலும் காலை வேளையில் சில இடங்களில் பனிமூட்டமான நிலை எதிர்பார்க்கப்படுகின்றது.
+The department said that there is a possibility of rain or thunderstorms in the evening or night in the upper, Sabaragamuwa and South Central Provinces.
 
-இடியுடன் கூடிய மழையுடன் கூடிய தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைத்துக்கொள்ள தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது. R
+Rainfall is expected to occur in the Eastern and Uva provinces and Polonnaruwa district.
+
+The Central, Sabaragamuwa and Uva provinces are expected in some places in the morning and in the Kalutara, Galle and Matara districts.
+
+The Department of Meteorology has urged the people to take necessary steps to reduce the risks of temporary heavy winds and lightning strikes with thunderstorms.. Remble
 
 ◼️
 
 [Data](articles/983c2ccf.json)
 
+[Extended Data](ext_articles/983c2ccf.ext.json)
+
 ---
 
-### පොලීසියේ ටී - 56 ගිනිඅවියක් අතුරුදන්
+### Police T-56 Range disappeared
 
 *2024-03-26 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194939) · `si`
 
-මාතලේ, විල්ගමුව පොලිස් ස්ථානයේ ප්‍රධාන ගේට්ටුවේ ආරක්ෂිත ස්ථානයේ භාවිත කළ ටී 56 ගිනිඅවිය අතුරුදන්ව ඇති බව වාර්තා වේ.
+The T-56 Ranavan reportedly used the T-56 Ranavawa's safety location at the Wilgamuwa Police Station in Matale, leading to an investigation into the disappearance of a firearm.
 
-ගිනිඅවිය අස්ථාන ගතවීම සම්බන්ධයෙන් පොලීසිය මේ වනවිට පරීක්ෂණයක් ආරම්භ කර තිබේ.
+🟩
+
+The T-56 Ranavan has reportedly used the T-56 Ranavawa, who used the safety location of the Wilgamuwa Police Station in Matale.
+
+The police have commenced an investigation into the absence of firearm.
 
 ◼️
 
 [Data](articles/b230560c.json)
 
+[Extended Data](ext_articles/b230560c.ext.json)
+
 ---
 
-### பாணந்துறை விபத்தில் இருவர் பலி: ஒருவர் காயம்
+### Two killed in Panadura accident
 
 *2024-03-26 09:26:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/பாணந்துறை-விபத்தில்-இருவர்-பலி-ஒருவர்-காயம்/95-335191) · `ta`
 
-பாணந்துறை பின்வத்த பிரதேசத்தில் செவ்வாய்க்கிழமை(26) காலை இடம்பெற்ற வாகன விபத்தில் இருவர் உயிரிழந்துள்ளதுடன் ஒருவர் படுகாயமடைந்துள்ளதாக பின்வத்த பொலிஸார் தெரிவித்தனர்.
+Two killed, one injured in Panadura accident. Motorcycles collided head-on in Vatuwa.
 
-விபத்தில் உயிரிழந்தவர்கள் பாணந்துறை மற்றும் பின்வத்த பிரதேசங்களைச் சேர்ந்தவர்கள் என பொலிஸார் தெரிவித்தனர்.
+🟩
 
-ஒரு மோட்டார் சைக்கிள் வாத்துவாவில் இருந்து வந்து பின்வத்த பிரிவென வீதியில் திரும்ப முற்பட்ட போது மற்றைய மோட்டார் சைக்கிள் பாணந்துறையில் இருந்து வந்து நேருக்கு நேர் மோதியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Two persons were killed and one person was injured in a vehicle accident in the area on Tuesday morning (26).
+
+The victims of the accident were from Panadura and the following areas, police said.
+
+When a motorcycle arrived in Vatuwa and returned to the street, the other motorcycle came from Panadura and collided head -on, police said.
 
 ◼️
 
 [Data](articles/52c6c9d1.json)
+
+[Extended Data](ext_articles/52c6c9d1.ext.json)
+
+---
+
+### Fraudulent doctors offering Israeli jobs arrested
+
+*2024-03-26 09:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fraudulent-doctors-offering-Israeli-jobs-arrested/108-279608) · `en`
+
+Colombo, March 26 (Daily Mirror) - The officers of the Special Investigation Department of the Sri Lanka Foreign Employment Bureau (SLFEB) yesterday arrested a person who was defrauding money by using the names of high officials of the Labour and Foreign Employment Ministry, claiming to be a doctor and was offering jobs in the agricultural sector in Israel.
+
+The suspect, who is a resident of Wijerama Mawatha, Colombo 07, has claimed that he can provide foreign jobs through the higher officials of the Labour and Foreign Employment Ministry, and he has also stated that he is a doctor.
+
+In order to obtain money, he has invited people to the Foreign Employment Ministry and the Foreign Employment Bureau in Narahenpita.
+
+Investigations have revealed that the suspect has defrauded Rs. 7,650,000 from nine persons, and he was arrested at the Labour and Foreign Employment Ministry, based on a complaint made by a person who had given him money.
+
+...
+
+[Data](articles/fc2f5535.json)
 
 ---
 
@@ -109,6 +167,8 @@ Police said investigations are underway to recover the missing firearm.
 ◼️
 
 [Data](articles/dd85492f.json)
+
+[Extended Data](ext_articles/dd85492f.ext.json)
 
 ---
 
@@ -2147,47 +2207,5 @@ Meanwhile, the public is kindly requested to take necessary steps to reduce poss
 [Data](articles/2cf72c68.json)
 
 [Extended Data](ext_articles/2cf72c68.ext.json)
-
----
-
-### Heavy showers above 100mm expected in several areas tomorrow
-
-*2024-03-25 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/98196/heavy-showers-above-100mm-expected-in-several-areas-tomorrow) · `en`
-
-The Department of Meteorology forecasts that heavy showers above 100 mm are likely at some places in Southern Province and Moneragala District tomorrow (26).
-
-Thus, the general public are requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-The Met. Department, in its latest forecast states that several spells of showers will occur in Eastern and Uva provinces and in Polonnaruwa district tomorrow.
-
-Showers or thundershowers will occur at several places in Western, Sabaragamuwa, Southern and Central provinces during the afternoon or night, it added.
-
-Additionally, misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces and in Kalutara, Galle and Matara districts during the morning, according to the Met. Department.
-
-...
-
-[Data](articles/e73ac50f.json)
-
-[Extended Data](ext_articles/e73ac50f.ext.json)
-
----
-
-### Yogi Babu started the political party for children
-
-*2024-03-25 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179684) · `ta`
-
-Yogi Babu, a comedian, started a political party for children. The new movie, 'Children's Progress Corporation', features him and Tamil hero Senthil. Directed by Senthil, it's about children's politics, produced by Arun Kumar and Shankar Dayal. The film's title and first look have excited fans.
-
-🟩
-
-The new movie starring the hero of Tamil, Senthil and Yogi Babu, the unique comedian star actors of Tamil, has been named 'Children's Progress Corporation' and its first look has been released.. Comedy star Yogi Babu posted this on his web page and congratulated the film crew.
-
-Directed by Director n. Senthil, Yogi Babu, Chuppu Panchu, Lizzie Antony, Azmita, Akalya Venkatesan, Nannan, Advid, Sonia Bose, Bawa Chelladurai. To be a. The film, which has been recorded by Lakshman, has composed the film 'Prospect Birds' Shankar. The film, which is based on the politics of children, has been produced by producer Arun Kumar and Director Shankar Dayal on behalf of Meenakshi Amman Movies.
-
-...
-
-[Data](articles/6783838e.json)
-
-[Extended Data](ext_articles/6783838e.ext.json)
 
 ---

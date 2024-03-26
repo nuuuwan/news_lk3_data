@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 23:03:14**
+As of **2024-03-26 23:18:06**
 
 ## Newspaper Stats
 
-*Scraped **15,353** Articles*
+*Scraped **15,355** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,78 @@ adalk | 1,312
 adaderanalk | 1,843
 tamilmirrorlk | 1,844
 virakesarilk | 2,169
-dailymirrorlk | 2,374
+dailymirrorlk | 2,376
 adaderanasinhalalk | 2,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,352 (100.0%) of 15,353 articles have been extended.
+15,353 (100.0%) of 15,355 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### பொதுத்தேர்தலை முதலில் நடத்தினால் சிறந்த அரசியல் நிலைமை தோற்றம் பெறும் - சாந்த பண்டார
+### Nine agreements signed on China-Sri Lanka cooperation
+
+*2024-03-26 23:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nine-agreements-signed-on-China-Sri-Lanka-cooperation/108-279674) · `en`
+
+China, March 26 (Daily Mirror) -  The signing of nine new agreements between China and Sri Lanka took place today under the patronage of Chinese Prime Minister Li Qiang and Prime Minister Dinesh Gunawardena.
+
+The Prime Minister today paid floral tributes to the martyred war heroes at the Monument to the People's Heroes at Tiananmen Square, and after receiving the guard of honour from the Chinese military, bilateral discussions commenced.
+
+Later, during the bilateral talks held in the Great Hall in Beijing, more attention was paid to increasing overall cooperation in the social, cultural, educational and agricultural sectors in addition to economic cooperation.
+
+The Prime Ministers of the two countries confirmed that a new chapter in the long-term friendship and cooperation between Sri Lanka and China will begin through the nine memoranda of understanding signed between the two countries.
+
+...
+
+[Data](articles/e70de30c.json)
+
+---
+
+### No-faith motion on Speaker: Resolution to seek cost from opposition
+
+*2024-03-26 22:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-faith-motion-on-Speaker-Resolution-to-seek-cost-from-opposition/108-279673) · `en`
+
+Colombo, March 26 (Daily Mirror)- An idea has been mooted by the ruling party to bring in a resolution to claim expenditure incurred for the three day debate on the no-faith motion which was brought against Speaker Mahinda Yapa Abeywardena, a government MP said.
+
+MP Chamara Sampath Dassanayake told a gathering that the government is looking towards bringing the resolution during the next Parliament session.
+
+“A large sum has been wasted for the three day debate on the no faith motion against the Speaker and we are planning to claim these funds from the opposition,” he said.
+
+“The no faith motion brought against the Speaker was a useless exercise,” he added.
+
+The Speaker who made a special statement after the debate on the no faith motion announced that the three day debate had cost the House Rs 45 million.
+
+...
+
+[Data](articles/e391717a.json)
+
+---
+
+### If the general election first is the best political situation - Santha Bandara
 
 *2024-03-26 22:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179781) · `ta`
 
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் தலைமையில் புதன்கிழமை (27) கூடவுள்ள பொதுஜன பெரமுனவின் நிறைவேற்று சபை கூட்டத்தில் முக்கிய தீர்மானங்கள் எடுக்கப்படும். நாட்டில் அரசியல் நிலைமை நன்மை பயக்கும் வகையில் அமைய வேண்டுமாயின் பொதுத்தேர்தலை முதலில் நடத்த வேண்டும் என ஊடகத்துறை இராஜாங்க அமைச்சர் சாந்த பண்டார தெரிவித்தார்.
+Santha Bandara suggests holding a general election first for political benefit. Mahinda Rajapaksa chairs the PA Executive Council meeting on Wednesday, where major decisions, including a new political alliance, will be discussed. The meeting was initially planned for Galle Face Ground but moved to Gembel Ground due to government restrictions. Basil Rajapakse advocates for a general election before the presidential election, claiming the party is prepared and will win any election this year.
 
-பத்தரமுல்லையில் உள்ள ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காரியாலயத்தில் செவ்வாய்க்கிழமை (26) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-ஸ்ரீ லங்கா பொதுஜன பெரமுனவை பலப்படுத்தும் பணிகள் கட்சியின் தலைவர் மஹிந்த ராஜபக்ஷ, தேசிய அமைப்பாளர் பஷில் ராஜபக்ஷ தலைமையில் முன்னெடுக்கப்படுகிறது. கட்சியின் நிறைவேற்று சபை கூட்டம் புதன்கிழமை (27) கூடவுள்ளது.
+Major decisions will be taken at the Executive Council of the PA, which will be held on Wednesday (27) chaired by former President Mahinda Rajapaksa.. Media Minister Shantha Bandara said that if the political situation in the country is to benefit, the general election should be held first.
 
-நிறைவேற்று சபை கூட்டத்தில் மே தினம், புதிய அரசியல் கூட்டணி உள்ளிட்ட முக்கிய தீர்மானங்கள் எடுக்கப்படும்.மே தின கூட்டத்தை இம்முறை கொழும்பு கெம்பல் மைதானத்தில் நடத்த உத்தேசித்துள்ளோம். காலி முகத்திடல் மைதானத்தில் கூட்டத்தை நடத்த ஆரம்பத்தில் உத்தேசித்திருந்தோம். இருப்பினும் அரசாங்கம் அதற்கு அனுமதி வழங்கவில்லை.
+He was speaking at a media briefing held at the Sri Lanka PA office in Battaramulla on Tuesday (26).
+
+The work to strengthen Sri Lanka PA is being carried out by party leader Mahinda Rajapaksa and National Organizer Basil Rajapaksa. The party's executive council meeting will be held on Wednesday (27).
+
+At the Executive Council meeting, major decisions, including the new political alliance, will be taken at the Gembel Ground this year.. We were initially intended to hold a meeting at the Galle Face Ground. However, the government did not allow it.
 
 ...
 
 [Data](articles/3744845e.json)
+
+[Extended Data](ext_articles/3744845e.ext.json)
 
 ---
 
@@ -2237,39 +2281,5 @@ Former President Mahinda Rajapaksa visited the Russian Embassy in Colombo today 
 [Data](articles/338eeadc.json)
 
 [Extended Data](ext_articles/338eeadc.ext.json)
-
----
-
-### Mahinda conveys condolences after Moscow attack
-
-*2024-03-26 13:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Mahinda-conveys-condolences-after-Moscow-attack/110-279628) · `en`
-
-Former President Mahinda Rajapaksa visited the Russian Embassy in Colombo today to express his condolences following the recent terrorist attack in Moscow. In a solemn gesture of solidarity and sympathy, he signed the condolence book to convey his deepest condolences to the government and people of Russia.
-
-◼️
-
-[Data](articles/43f9a3e1.json)
-
-[Extended Data](ext_articles/43f9a3e1.ext.json)
-
----
-
-### Special security plan in place for Good Friday and Easter Sunday
-
-*2024-03-26 13:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/98212/special-security-plan-in-place-for-good-friday-and-easter-sunday) · `en`
-
-Sri Lanka Police is organizing a special security plan to be set in place at churches across the country in view of the upcoming Good Friday and Easter Sunday, as per the instructions of Inspector-General of Police (IGP) Deshabandu Tennakoon.
-
-Accordingly, the police chief has given directives to all officers including the Senior Deputy Inspectors General of Police (SDIGs), DIGs and officers in charge (OICs) of police divisions.
-
-The OICs are instructed to meet with the priests and boards of trustees of churches to prepare security plans tailored to each church while the Holy Masses are in progress from 29 - 31 March.
-
-Under this security plan, the church premises would be inspected before the commencement of the sermons in a manner that does not disturb the devotees.
-
-...
-
-[Data](articles/2941defa.json)
-
-[Extended Data](ext_articles/2941defa.ext.json)
 
 ---

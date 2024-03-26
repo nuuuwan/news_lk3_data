@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 00:03:11**
+As of **2024-03-27 00:18:08**
 
 ## Newspaper Stats
 
-*Scraped **15,367** Articles*
+*Scraped **15,370** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 819
 economynextcom | 832
 islandlk | 845
 adalk | 1,312
-adaderanalk | 1,843
-tamilmirrorlk | 1,844
-virakesarilk | 2,169
+adaderanalk | 1,844
+tamilmirrorlk | 1,845
+virakesarilk | 2,170
 dailymirrorlk | 2,377
 adaderanasinhalalk | 2,469
 
@@ -26,11 +26,73 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,367 (100.0%) of 15,367 articles have been extended.
+15,367 (100.0%) of 15,370 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### Sri Lanka anticipating private equity deals amounting to $250mn
+
+*2024-03-26 23:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98223/sri-lanka-anticipating-private-equity-deals-amounting-to-250mn) · `en`
+
+The year 2024 is already seeing a turnaround for private equity deals with Sri Lanka expecting deals amounting up to USD 250 million, says the Hong Kong-based merchant banking firm MCM Partners.
+
+Speaking to Bloomberg Markets Asia on Monday (March 25), Managing Director of MCM Partners Jahnavi Bhagwati explained as to why she sees a turnaround for private equity deals in 2024 as opposed to a sluggish 2023.
+
+According to her, countries like India and Sri Lanka, which is a turnaround story, are going to present opportunities in the private space this year after the Bank of Japan raised interest rates in March, ending the country’s historic era of negative interest rates in a move that marked a historic shift in monetary policy.
+
+Bhagwati mentioned that the stock markets in the region are already seeing a pickup as inflation has been curbed, adding that investment activity will spur when rate cuts kick in.
+
+...
+
+[Data](articles/685c15e7.json)
+
+---
+
+### கப்பல் மோதி உடைந்து விழுந்த பாலம்; அமெரிக்காவில் அவசர நிலை பிரகடனம்
+
+*2024-03-26 23:50:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கப்பல்-மோதி-உடைந்து-விழுந்த-பாலம்-அமெரிக்காவில்-அவசர-நிலை-பிரகடனம்/50-335236) · `ta`
+
+சிங்கப்பூரில் இருந்து இலங்கை நோக்கி புறப்பட்டு வந்த ராட்சத கப்பல் ஒன்று அமெரிக்காவில்  பாலம் ஒன்றுடன் மோதி விபத்துக்குள்ளான நிலையில், அங்கு அவசர நிலை பிரகடனப்படுத்தப்பட்டு உள்ளது.
+
+அமெரிக்காவில் கப்பல் மோதி பிரான்சிஸ் ஸ்காட் பாலம் உடைந்த நிலையில், ஆற்றில் விழுந்தவர்களை மீட்பதற்காகவும், இந்த விபத்து குறித்து விசாரிப்பதற்காகவும் உடனடியாக அவசர நிலை  பிரகடனப்படுத்தப்பட்டுள்ளது.
+
+அமெரிக்காவின் மேரிலாண்ட் மாகாணத்தில் உள்ளது பல்டிமோர் நகரம். இங்கு பாயும் படப்ஸ்கோ என்ற ராட்சத ஆற்றுக்கு மேலே பிரம்மாண்டமான பாலம் அமைக்கப்பட்டிருந்தது.
+
+பிரான்சிஸ் ஸ்காட் (Francis Scott) என அழைக்கப்படும் இந்த பாலமானது இரண்டு முக்கிய நகரங்களையும் இணைக்கிறது. ஆதலால், அந்த பாலத்தில் எப்போதுமே வாகனங்கள் சென்று கொண்டே இருக்கும்.
+
+இந்நிலையில், நேற்று அதிகாலை அந்த பாலத்தின் மீது கப்பல் மோதியது. இதில் அடுத்த நொடியே அந்த பாலம் அப்படியே சரிந்து ஆற்றில் விழுந்தது.
+
+300 மீட்டம் நீளம் கொண்ட இந்த கப்பல் இலங்கையின் கொழும்பு நோக்கி சென்று கொண்டிருந்தது. அதில் இருந்த மாலுமிகள் உள்பட அனைத்து பணியாளர்களும் இந்தியர்கள் ஆவர்.
+
+...
+
+[Data](articles/b973dd41.json)
+
+---
+
+### ஐ.பி.எல் 2024 : குஜராத் டைட்டன்ஸ் அணியை வீழ்த்திய சென்னை சூப்பர் கிங்ஸ் அணி
+
+*2024-03-26 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/179782) · `ta`
+
+சென்னை சூப்பர் கிங்ஸ் அணி மற்றும் குஜராத் டைட்டன்ஸ் அணிகளுக்கு இடையில் நடைபெற்ற 7 ஆவது ஐபிஎல் போட்டியில் சென்னை சூப்பர் கிங்ஸ் அணி 63 ஓட்டங்களால் வெற்றிப்பெற்றுள்ளது.
+
+போட்டியில் நாணய சுழற்சியில் வெற்றிப் பெற்ற குஜராத் அணி முதலில் துடுப்பெடுத்தாடுமாறு சென்னை அணிக்கு அழைப்பு விடுத்தது.
+
+அதன்படி, முதலில் துடுப்பெடுத்தாடிய சென்னை அணி நிர்ணயிக்கப்பட்ட 20 ஓவர்கள் முடிவில் 6 விக்கெட்டுக்களை இழந்து 206 ஓட்டங்களைப் பெற்றுக் கொண்டது.
+
+சென்னை அணி சார்பில் அதிரடியாக துடுப்பெடுத்தாடிய சிவம் துபே 51 ஓட்டங்களை அதிகபட்சமாக பெற்றுக் கொண்டார்.
+
+ருதுராஜ் கெய்க்வாட் மற்றும் ரச்சின் ரவீந்திர ஆகியோர் தலா 46 ஓட்டங்களைப் பெற்றுக் கொண்டனர்.
+
+அதன் படி 207 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய குஜராத் டைட்டன்ஸ் அணி தனது நிர்ணயிக்கப்பட்ட 20 ஓவர்கள் முடிவில் 8 விக்கெட்டுக்களை இழந்து 143 ஓட்டங்களை மாத்திரமே பெற்று இப்போட்டியில் தோல்வியடைந்தது.
+
+◼️
+
+[Data](articles/40a100b6.json)
+
+---
 
 ### Eyes on T20 World Cup as South Africa prepare for Sri Lanka series
 
@@ -2229,73 +2291,5 @@ Nakuleswaram (J/226) and Kankesanthurai (J/233) in the Tellippalai Divisional Se
 [Data](articles/63d33461.json)
 
 [Extended Data](ext_articles/63d33461.ext.json)
-
----
-
-### 1.6 miles long bridge collapses
-
-*2024-03-26 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194954) · `si`
-
-A 1.6-mile bridge in Baltimore collapsed this morning, with no injuries reported. Videos are circulating on social media.
-
-🟩
-
-A large bridge across the Patapsco River in Baltimo in the Baltimo area in the Baltimo has crashed this morning.
-
-The International Media says that the 1.6-mile lengthy bridge has fallen completely.
-
-The videos indicating that is now circulate in the social media.
-
-No or has ever been reported to have been injured due to the collapse of the bridge.
-
-◼️
-
-[Data](articles/35b25733.json)
-
-[Extended Data](ext_articles/35b25733.ext.json)
-
----
-
-### 30 people arrested in Kattankudi
-
-*2024-03-26 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/179740) · `ta`
-
-30 arrested in Kattankudi, acquitted by Judge M HM Hamza.
-
-🟩
-
-The 30 persons who were arrested and prosecuted by the Kattankudy police were arrested by the Magistrate's Court on Tuesday (26) on Tuesday (26).
-
-When the case was taken up in court today, lawyers Mukheedin Sally, Nauser, Nibras, Abra and Ramsiya appeared on behalf of the suspects and presented their arguments.
-
-Batticaloa Magistrate's Court Judge M HM Hamza acquitted the suspects.
-
-◼️
-
-[Data](articles/cedf0952.json)
-
-[Extended Data](ext_articles/cedf0952.ext.json)
-
----
-
-### The amendment of the electoral system will not postpone any election
-
-*2024-03-26 14:01:43* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-ක්‍රමය-සංශෝධනයෙන්-කිසිම-මැතිවරණයක්-කල්-දාන්නේ-නෑ/11-408804) · `si`
-
-Dr. Wijayadasa Rajapaksa, President's Countermant, stated that the amendment of the electoral system will not postpone any election. He highlighted that since 1994, no elections were promised to resist corruption and the electoral system, and President Ranil Wickremesinghe has introduced amendments to corruption and a proportional election system. The amendments aim to treat corruption as a gender-neutral issue and increase punishments for violence. Despite protests and challenges, the amendments were made after a four-year study by senior lawyers. The 19th Amendment reduced the President's powers and introduced a commission against corruption. Rajapaksa also mentioned that the electoral amendment bill has been presented to Parliament, aiming to abolish the executive presidency and cancel the proportional voting system.
-
-🟩
-
-President's Countermant, Dr. Wijayadasa Rajapakse said that the election of election amendments would not be expected to postpone any election due to the election.
-
-Since 1994, the Minister said that none of the elections were promised to resist corruption and the electoral system, said that President Ranil Wickremesinghe has already introduced amendments to corruption and introduce a proportional election system.
-
-Minister of Justice, Principal and Constitutional Reforms Minister Dr. Wijayadasa Rajapaksa made this statement participating at a press conference held by a stable country.
-
-...
-
-[Data](articles/fbc0b16d.json)
-
-[Extended Data](ext_articles/fbc0b16d.ext.json)
 
 ---

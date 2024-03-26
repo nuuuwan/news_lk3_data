@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 11:18:19**
+As of **2024-03-26 11:33:36**
 
 ## Newspaper Stats
 
-*Scraped **15,210** Articles*
+*Scraped **15,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,63 @@ adaderanalk | 1,826
 tamilmirrorlk | 1,830
 virakesarilk | 2,133
 dailymirrorlk | 2,349
-adaderanasinhalalk | 2,442
+adaderanasinhalalk | 2,443
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,206 (100.0%) of 15,210 articles have been extended.
+15,210 (100.0%) of 15,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### மென்று துப்பிய பெண் வழக்கறிஞருக்கு சிக்கல்
+### තවත් පාතාල කල්ලි සාමාජිකයින් පිරිසක් කොටු වෙති
+
+*2024-03-26 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194944) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් අත්අඩංගුවට ගැනීම සඳහා පොලිස්පතිවරයාගේ උපදෙස් මත ආරම්භ කළ විශේෂ මෙහෙයුමේදී තවත් සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් 12 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ අනුව, එම මෙහෙයුම ආරම්භ කරන ලද පසුගිය 19 වනදා සිට ඊයේ (25) දින දක්වා සංවිධානාත්මක අපරාධ කල්ලි සාමජිකයින් 63 දෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+
+එම සැකකරුවන් රැඳවුම් නියෝග මත රඳවා තබාගෙන වැඩිදුර විමර්ශන සිදුකරන බව පොලීසිය පවසයි.
+
+විශේෂ මෙහෙයුමේ නිරත නිලධාරීන් විසින් ඉහත සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයන් 12 දෙනා අත්අඩංගුවට ගැනීමට අමතරව ඊයේ සිදුකරන ලද වැටලීම්වලදී තවත් සැකකරුවන් 06 දෙනෙකු ද අත්අඩංගුවට ගෙන ඇත.
+
+පසුගිය 19 වනදා සිට බස්නාහිර පළාත හා දකුණු පළාත මූලික කර ගෙන ක්‍රියාත්මක සංවිධානාත්මක අපරාධ කල්ලි සාමාජිකයින් අත්අඩංගුවට ගැනීම සඳහා දිවයිනම ආවරණය වන පරිදි විශේෂ පොලිස් කණ්ඩායම් 20ක් යොදවා මෙහෙයුම් ආරම්භ කරන ලදි.
+
+◼️
+
+[Data](articles/f6201c4c.json)
+
+---
+
+### Trouble for female lawyer
 
 *2024-03-26 10:57:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/மென்று-துப்பிய-பெண்-வழக்கறிஞருக்கு-சிக்கல்/94-335204) · `ta`
 
-வழக்கு ஆவணத்தில் உள்ள ஆவணத்தை மென்று அழித்து, வழக்கறிஞர் தொழிலுக்கு ஒவ்வாத வகையில் நடந்து கொண்ட பெண் வழக்கறிஞரை, வழக்கு முடியும் வரை வழக்கறிஞர்  பணியில் இருந்து  இடைநீக்கம் செய்ய உயர் நீதிமன்றம் திங்கட்கிழமை (25) தீர்மானித்துள்ளது.
+The Supreme Court suspends a female lawyer for 12 years for violating industrial norms, destroying case documents. The case was heard by Chief Justice Jayantha Jayasuriya and other judges. The Attorney General accused her of forcibly destroying a case document.
 
-12 வருடங்களாக சட்டத்தரணியாக கடமையாற்றிய பிரதிவாதி சட்டத்தரணியின் செயற்பாடு பாரதூரமான நடவடிக்கையாக கருதப்பட வேண்டுமென பிரதம நீதியரசர் ஜயந்த ஜயசூரிய தெரிவித்துள்ளார்.
+🟩
 
-சட்டத்தரணிக்கு எதிராக தொழில் நெறிமுறைகளை மீறிய குற்றச்சாட்டின் பேரில் இந்த வழக்கு தாக்கல்செய்யப்பட்டது.
+The Supreme Court on Monday (25) has decided to suspend the lawyer from the lawyer until the case is over, destroying the document in the case and destroying the lawyer.
 
-பிரதம நீதியரசர் ஜயந்த ஜயசூரிய, உயர் நீதிமன்ற நீதியரசர்களான காமினி அமரசேகர மற்றும் ஏ.எச்.எம்.டி., நவாஸ்  ஆகியோர் அடங்கிய நீதிபதிகள் குழு முன்னிலையில் இந்த  மனு பரிசீலிக்கப்பட்டது.
+Chief Justice Jayantha Jayasuriya has said that the action of the defendant who has been a lawyer for 12 years should be considered a serious measure.
 
-கெக்கிராவ நீதவான் நீதிமன்ற பதிவாளர் காரியாலயத்தில் உள்ள வழக்கு ஆவணமொன்றை வலுக்கட்டாயமாக எடுத்து வாயில் போட்டு அழித்ததன் மூலம் சட்டத்தரணிக்கு தகாத வகையில் நடந்து கொண்ட குற்றச்சாட்டில், பிரதிவாதி சட்டத்தரணிக்கு எதிராக சட்டமா அதிபர் இந்த வழக்கை முன்வைத்துள்ளார்.
+The case was filed on charges of violating industrial norms against the lawyer.
 
-...
+The petition was considered in the presence of a panel of judges comprising Chief Justice Jayantha Jayasuriya, High Court Judges Gamini Amarasekera and AHMD and Nawaz.
+
+The Attorney General has put forward the case against the defendant lawyer on charges of incorporating a lawyer by forcibly destroying a case document in the office of the Kekirawa Magistrate's Court Registrar.
+
+Considering the arguments put forward when the case was taken up, a panel of judges ordered the hearing of the case against the prosecutor on April 2 for violating professional ethics.
+
+◼️
 
 [Data](articles/86c8ab11.json)
+
+[Extended Data](ext_articles/86c8ab11.ext.json)
 
 ---
 
@@ -83,6 +111,8 @@ Several beloved songs that have captured the hearts of fans include Age Sinahawa
 ◼️
 
 [Data](articles/4d3dc2ef.json)
+
+[Extended Data](ext_articles/4d3dc2ef.ext.json)
 
 ---
 
@@ -164,19 +194,25 @@ Today's announcement has exposed the continuing efforts of China to undermine ou
 
 ---
 
-### குறைந்த சம்பளம் 17,500 ரூபாய்
+### Low salary 17,500 rupees
 
 *2024-03-26 10:39:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்த-சம்பளம்-17-500-ரூபாய்/175-335201) · `ta`
 
-தேசிய குறைந்தபட்ச ஊதியச் சட்டத்தின் விதிகளின்படி, தேசிய குறைந்தபட்ச ஊதியம் 12,500 ரூபாயாக நிர்ணயிக்கப்பட்டுள்ளது.
+The National Minimum Wage Act sets the minimum wage at Rs 12,500. The National Labor Advisory Council recommends a salary increase to Rs 17,500, leading to a daily wage rise from Rs 500 to Rs 700.
 
-தேசிய தொழிலாளர் ஆலோசனை சபையின் பரிந்துரையின் பேரில் நியமிக்கப்பட்ட குழு சம்பளத்தை 17,500 ரூபாவாக அதிகரிக்க பரிந்துரை செய்துள்ளது.
+🟩
 
-அதன்படி, தேசிய குறைந்தபட்ச தினக்கூலியும் 500 ரூபாயில் இருந்து 700 ரூபாயாக அதிகரிக்கப்படும்.
+According to the rules of the National Minimum Wage Act, the national minimum wage has been fixed at Rs 12,500.
+
+On the recommendation of the National Labor Advisory Council, the committee appointed to increase the salary of Rs 17,500.
+
+Accordingly, the national minimum daily wage will be increased from Rs 500 to Rs 700.
 
 ◼️
 
 [Data](articles/c15194fd.json)
+
+[Extended Data](ext_articles/c15194fd.ext.json)
 
 ---
 
@@ -1344,6 +1380,8 @@ Is the situation in Sri Lanka so grim that locals harbour hope that they could l
 
 [Data](articles/8f79f1a0.json)
 
+[Extended Data](ext_articles/8f79f1a0.ext.json)
+
 ---
 
 ### Impact of parallel and underground economies on Govt. corruption and economic failure
@@ -2191,29 +2229,5 @@ DMS Nasanka Bandula Karunaratne, Judges, MP Nissanka Bandula Karunaratne, was th
 [Data](articles/9062f66a.json)
 
 [Extended Data](ext_articles/9062f66a.ext.json)
-
----
-
-### Bus worker clash in Badulla
-
-*2024-03-25 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194924) · `si`
-
-A clash between private bus employees and SLTB workers in Badulla led to arrests and hospital admissions. The incident began with a heated argument involving a knife, escalating to attacks on SLTB workers by a private bus.
-
-🟩
-
-The employees of a private bus operated between the employees of the road and the SLTB bus operating along the road was a confrontation at the Badulla Central Bus Stand.
-
-Two SLTB employees were admitted to the Badulla Teaching Hospital and arrested the driver and assistant on suspicion of assault.
-
-The driver of the private bus with a heated argument with bus route was a knife with a knife with a knife.
-
-Since this incident, a group of SLTB workers have been attacked and damaged in a private bus.
-
-◼️
-
-[Data](articles/24d44989.json)
-
-[Extended Data](ext_articles/24d44989.ext.json)
 
 ---

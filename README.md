@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 03:18:45**
+As of **2024-03-27 03:33:30**
 
 ## Newspaper Stats
 
-*Scraped **15,390** Articles*
+*Scraped **15,394** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 138
 bbccomsinhala | 164
 dbsjeyarajcom | 192
 newsfirstlk | 363
-dailyftlk | 831
 economynextcom | 832
+dailyftlk | 835
 islandlk | 845
 adalk | 1,312
 adaderanalk | 1,845
@@ -26,11 +26,83 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,390 (100.0%) of 15,390 articles have been extended.
+15,390 (100.0%) of 15,394 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### SLFP condemns attempts to tarnish party Chairman
+
+*2024-03-27 02:58:59* · [`dailyftlk`](https://www.ft.lk/news/SLFP-condemns-attempts-to-tarnish-party-Chairman/56-760009) · `en`
+
+SLFP General Secretary Sarathi Dushmantha Mitrapala says false and distorted info on Sirisena’s statement to CID are being disseminated
+
+Police Spokesman SSP Nihal Thalduwa says investigations into Sirisena’s statement to CID have commenced
+
+Claims future action will depend on instructions received from AG
+
+In a statement released yesterday, Sri Lanka Freedom Party (SLFP) General Secretary Sarathi Dushmantha Mitrapala strongly condemned recent efforts by various parties to smear the reputation of party Chairman Maithripala Sirisena and the SLFP on mainstream and social media platforms.
+
+Mitrapala said that following Sirisena’s statement to the Criminal Investigations Department (CID) regarding the Easter Sunday terror attack, the political party has observed false and distorted media content being disseminated about the statement on both mainstream and social media platforms.
+
+...
+
+[Data](articles/0f79dbbc.json)
+
+---
+
+### CIABOC case against Keheliya to go ahead
+
+*2024-03-27 02:55:50* · [`dailyftlk`](https://www.ft.lk/news/CIABOC-case-against-Keheliya-to-go-ahead/56-760008) · `en`
+
+The Colombo High Court yesterday dismissed the preliminary objections presented by the counsels representing former Minister Keheliya Rambukwella in a case brought by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) against him for criminal misappropriation of funds during his tenure as the Minister of Mass Media.
+
+The two defendants in the case, including Rambukwella, stand accused of misappropriating Rs. 230948 from the State Printing Corporation to settle Rambukwella’s personal telephone bill during the period from March to April 2012, when he served as the Minister of Mass Media.
+
+When the case was called before the Colombo High Court yesterday the defence counsel argued that the case could not be maintained and therefore requested it to be dismissed. However, Colombo High Court Judge Damith Thotawatte permitted the case against Rambukwella and the former chairman of the State Printing Corporation, Jayampathi Bandara Heenkenda, to proceed.
+
+...
+
+[Data](articles/c8affbd8.json)
+
+---
+
+### Cargo ship en-route to SL collides with bridge in Baltimore
+
+*2024-03-27 02:53:14* · [`dailyftlk`](https://www.ft.lk/news/Cargo-ship-en-route-to-SL-collides-with-bridge-in-Baltimore/56-760007) · `en`
+
+A cargo ship en-route to Colombo Port collided with a major bridge in Baltimore, Maryland in the United States yesterday causing the entire bridge to collapse.
+
+The collision also caused several vehicles on the bridge at the time and at least eight construction workers to plunge into the river below.
+
+According to foreign media reports, the Baltimore fire department officials reported that at least six individuals were still unaccounted for after a 948 Singapore-flagged container ship, departing port en route to Sri Lanka, collided with the Francis Scott Key Bridge. The incident resulted in approximately 20 persons and several vehicles falling into the Patapsco River, prompting authorities to declare it a mass casualty event.
+
+A video circulated online depicted the vessel hitting one of the bridge's central supports, leading to a significant portion of the 2.6 km bridge collapsing and vehicles plummeting into the river.
+
+...
+
+[Data](articles/9c2fb435.json)
+
+---
+
+### Sri Lanka and China premiers witness signing of 9 bilateral agreements
+
+*2024-03-27 02:51:54* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-China-premiers-witness-signing-of-9-bilateral-agreements/56-760006) · `en`
+
+The signing of nine new agreements between China and Sri Lanka took place yesterday under the patronage of Chinese Prime Minister Li Qiang and Prime Minister Dinesh Gunawardena.
+
+The Prime Minister paid floral tributes to the war heroes at the Monument to the People’s Heroes at Tiananmen Square, and after receiving the guard of honour from the Chinese military, bilateral discussions were commenced.
+
+Later, in the bilateral talks held in Great Hall in Beijing, more attention was paid to increasing overall cooperation in the social, cultural, educational, and agricultural sectors in addition to economic cooperation.
+
+The Prime Ministers of the two countries confirmed that a new chapter in the long-term friendship and cooperation between Sri Lanka and China will begin through the nine memorandum of understanding signed between the two countries.
+
+...
+
+[Data](articles/2d7b5d8a.json)
+
+---
 
 ### Ceylon Institute of Builders meets Urban Development Secretary and CIDA Chairman
 
@@ -2199,97 +2271,5 @@ On behalf of President Ranil Wickremasinghe and Dr. Jayampathi Wickremaratne, At
 [Data](articles/1e1cb127.json)
 
 [Extended Data](ext_articles/1e1cb127.ext.json)
-
----
-
-### Sri Lanka economic transformation bill to establish commission, investment zones
-
-*2024-03-26 15:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-economic-transformation-bill-to-establish-commission-investment-zones-156187/) · `en`
-
-ECONOMYNEXT – Sri Lanka is preparing an “Economic Transformation Bill”, to establish an economic commission, investment zones and international trade office, Cabinet spokesman Bandula Gunawardena said.
-
-“The bill contains structural, quantitative, and qualitative changes to support future economic development,” Minister Gunawardena said.
-
-The bill will also establish the Sri Lanka Economics and International Trade Institute and National Productivity Commission, including executing “preliminary objectives” of the national policy on economic transformation.
-
-The bill is part of a series of drafted laws that are to reform Sri Lanka’s legal framework, to meet the requirements for the International Monetary Fund’s Extended Fund Facility program. (Colombo/Mar26/2024)
-
-◼️
-
-[Data](articles/4c4887bb.json)
-
-[Extended Data](ext_articles/4c4887bb.ext.json)
-
----
-
-### A law banned by children under 14 years of age
-
-*2024-03-26 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194957) · `si`
-
-Florida bans social media for children under 14, with the Governor signing the law. Children must delegate their existing accounts.
-
-🟩
-
-Social media has decided to ban the social media for children in Florida, USA.
-
-The State Governor has signed the law to the law. Foreign media reports.
-
-Accordingly, the state of Florida is prohibited to have social media accounts for children under 14 years of age.
-
-Also, children have been instructed to take the necessary measures to delegate existing social media accounts for children under 14 years.
-
-◼️
-
-[Data](articles/ce3a8681.json)
-
-[Extended Data](ext_articles/ce3a8681.ext.json)
-
----
-
-### The bridge collapsed and many vehicles fell into the river: In the United States
-
-*2024-03-26 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179741) · `ta`
-
-A massive cargo ship crashed into the Francis Scott Key Bridge in Baltimore, Maryland, around 1.35 am, causing it to collapse into the river. At least 20 construction workers were on the bridge.
-
-🟩
-
-The massive ship crashed into a long bridge in the United States and collapsed in the river. Many vehicles have fallen into the river.
-
-The Francis Scott Key Bridge, a bridge in Baltimore, Maryland, was demolished.
-
-A massive cargo ship crashed into a 366m long bridge at around 1.35 am this morning, an official said.
-
-At least 20 construction employees were on the bridge, according to the Adakar.
-
-◼️
-
-[Data](articles/9407aa95.json)
-
-[Extended Data](ext_articles/9407aa95.ext.json)
-
----
-
-### Yall. The area of the Kirimalai President's House is abandoned by the resistance of the people!
-
-*2024-03-26 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/179752) · `ta`
-
-The Kirimalai President's House area was abandoned by locals due to opposition against land measurement by the Land Survey Department. Landowners and civilians intercepted the officials, leading to a return after a letter of no interest was signed.
-
-🟩
-
-Land Survey Department officials were visiting at around 10 am today to make the area where the Jaffna - Kirimalai Presidential House is located on the basis of the development of the city.
-
-Land owners and civilians have expressed their opposition to the land measurement and intercepted the vehicle's vehicle.
-
-Later, the landowner officials then returned from there after the land owners wrote and signed a letter that they had no interest in measurement of the land in the wake of the long -term land owners.
-
-Nakuleswaram (J/226), Kankesanthurai (J/233) under the Tellippalai Divisional Secretariat Division, Vellargadu, Punnanpudukadu, Padiyan, Pudukkadu, SolaisenathirayanSignificantly.
-
-◼️
-
-[Data](articles/19239f62.json)
-
-[Extended Data](ext_articles/19239f62.ext.json)
 
 ---

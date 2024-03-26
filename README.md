@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 22:05:02**
+As of **2024-03-26 22:18:41**
 
 ## Newspaper Stats
 
-*Scraped **15,348** Articles*
+*Scraped **15,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 819
 economynextcom | 821
 islandlk | 845
 adalk | 1,311
-adaderanalk | 1,842
+adaderanalk | 1,843
 tamilmirrorlk | 1,844
-virakesarilk | 2,167
+virakesarilk | 2,168
 dailymirrorlk | 2,373
 adaderanasinhalalk | 2,469
 
@@ -26,27 +26,67 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,347 (100.0%) of 15,348 articles have been extended.
+15,348 (100.0%) of 15,350 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### ජීව අත්බෝම්බයක් සොයාගනී
+### உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் தொடர்பில் மைத்திரிபால சிறிசேனவுக்கு எதிராக  குற்றச்சாட்டுகள் சுமத்தப்பட வேண்டும் - ஐ.தே.க. செயலாளர் ரங்கே பண்டார
+
+*2024-03-26 22:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179780) · `ta`
+
+உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் சம்பவத்துக்கான பொறுப்பை முன்னாள் ஜனாதிபதி ஏற்றுக்கொள்ள வேண்டும். அரச தலைவராக இருந்து அவர் பொறுப்பைச் சரியான முறையில் நிறைவேற்றத் தவறினாரா அல்லது அவரை அறியாமல் இந்த தாக்குதல் இடம்பெற்றதா என்பதை நீதிமன்றம் விசாரணை செய்து தீர்ப்பு வழங்கும் என நம்புகிறோம்  என ஐக்கிய தேசிய கட்சியின் பொதுச் செயலாளர் பாலித்த ரங்கே பண்டார தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (26) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன அண்மையில் தெரிவித்திருந்த கருத்து எந்த நோக்கத்தில் தெரிவித்தார் என்பது எமக்குத் தெரியாது. என்றாலும்  தாக்குதல் இடம்பெற்றபோது அரச தலைவர் என்றவைகையில் அதற்கான பொறுப்பை அவர் ஏற்றுக்கொள்ள வேண்டும் என நான் ஆரம்பத்தில் இருந்தே தெரிவித்து வருகிறேன்.
+
+...
+
+[Data](articles/09c587aa.json)
+
+---
+
+### Indian HC organizes conference to explore potential of digital public infrastructure for Sri Lanka
+
+*2024-03-26 21:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98222/indian-hc-organizes-conference-to-explore-potential-of-digital-public-infrastructure-for-sri-lanka) · `en`
+
+The High Commission of India, in partnership with Sri Lanka’s Ministry of Technology organised a conference on Digital Public Infrastructure today in Colombo on Tuesday (March 26).
+
+The conference, through its three sessions and breakout meetings explored the transformative potential of DPI for enabling service delivery, empowering communities by fostering inclusivity and enriching the economy by driving innovation.
+
+The three sessions included an Opening Plenary with the keynote address delivered by President Ranil Wickremesinghe, wherein he applauded the conference for being timely.
+
+Underlining DPI as a vital enabler for the digitisation of the Sri Lankan economy, the president emphasised the need for collaboration with India in this domain, highlighting the potential of fast-tracking growth by adapting India’s successful strategies domestically.
+
+...
+
+[Data](articles/1f14efe8.json)
+
+---
+
+### A living grenade discovers
 
 *2024-03-26 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194973) · `si`
 
-පොලීසිය සඳහන් කළේ දේශපාලන පක්ෂ කාර්යාලයක් ආසන්නයේ තිබී අදාළ ජීව අත්බෝම්බය සොයාගත් බවය.
+A living grenade found near a political party office in a foreign-made device led to police intervention. The Gonahena Police Special Task Force is involved in clearing the situation, with no suspects revealed yet. Kadawatha Police continue investigations.
 
-එය විදෙස් රටක නිෂ්පාදිත එකක් බවද පොලීසිය තවදුරටත් සඳහන් කළේය.
+🟩
 
-පසුව ගෝනහේන පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් පැමිණ අදාළ අත්බෝම්බය නිෂ්ක්‍රීය කිරීමට කටයුතු කර ඇත.
+Police said the police were found near a political party office.
 
-සිද්ධිය සම්බන්ධයෙන් සැකකරුවන් අනාවරණය වී නොමැති අතර කඩවත පොලීසිය විමර්ශන සිදුකරයි.
+It is a manufactured of a foreign country, police added.
+
+Later, Gonahena Police Special Task Force has come to clear the hand grenade.
+
+The suspects have not been revealed in connection with the incident and Kadawatha Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/8f3ecc5e.json)
+
+[Extended Data](ext_articles/8f3ecc5e.ext.json)
 
 ---
 
@@ -2225,53 +2265,5 @@ A sum of Rs.The case has been filed against the two defendants by the Commission
 [Data](articles/15ad4a88.json)
 
 [Extended Data](ext_articles/15ad4a88.ext.json)
-
----
-
-### Train crashed in Pali - Itail area;Service is impacting a few hours
-
-*2024-03-26 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179737) · `ta`
-
-A train crashed into a cow in Pali, Italy, on Tuesday, causing service disruptions for a few hours.
-
-🟩
-
-A train crashed into a cow on Tuesday (26).
-
-The accident has been affected by the train for a few hours.
-
-◼️
-
-[Data](articles/672404e0.json)
-
-[Extended Data](ext_articles/672404e0.ext.json)
-
----
-
-### Court orders the Attorney General to detect whether heavy relief can be given
-
-*2024-03-26 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194950) · `si`
-
-The Colombo High Court ordered the Attorney General to investigate if a powerful drug dealer held in Tangalle Prison can receive heavy relief. The defendant's lawyer requested several facilities, including a report from a Tangalle Hospital member and permission for telephone contact. The President's Counsel also asked for an external food order. The State Counsel is to check the court on April 8th regarding the accused's funds.
-
-🟩
-
-The Colombo High Court today ordered the Attorney General today to find out if a powerful drug dealer who is holding a strong drug dealer in the Tangalle Prison on court orders.
-
-The order was issued by Mr. Colombo High Court Judge Thatawatte.
-
-Sampath Mendis appearing on behalf of the defendant, Sampath Mendis appeared in the courtroom, said his client asks for several facilities.
-
-According to the President's Counsel, the accused will issue a report to submit a report to the acquittua for 15 minutes to provide a report to a lawyer for advice in the lawyers.
-
-Also, the President's Counsel asked the defendant's mother, father and wife to conclude a report to a member of the Tangalle Hospital and request an order to facilitate telephone with their child.Was.
-
-In addition, the President's Counsel asked the court to issue an order to permit food outside the accused.
-
-...
-
-[Data](articles/9e1f4055.json)
-
-[Extended Data](ext_articles/9e1f4055.ext.json)
 
 ---

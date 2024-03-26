@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 08:50:43**
+As of **2024-03-26 09:03:13**
 
 ## Newspaper Stats
 
-*Scraped **15,173** Articles*
+*Scraped **15,177** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 137
 bbccomsinhala | 163
-dbsjeyarajcom | 191
+dbsjeyarajcom | 192
 newsfirstlk | 363
 dailyftlk | 818
 economynextcom | 818
@@ -19,32 +19,70 @@ adalk | 1,292
 adaderanalk | 1,822
 tamilmirrorlk | 1,822
 virakesarilk | 2,127
-dailymirrorlk | 2,341
-adaderanasinhalalk | 2,436
+dailymirrorlk | 2,343
+adaderanasinhalalk | 2,437
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,172 (100.0%) of 15,173 articles have been extended.
+15,173 (100.0%) of 15,177 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### දුම්රිය මගීන්ට සුබ පණිවුඩයක්
+### අඩු ආදායම්ලාභී පවුල්වලට සහල් කිලෝ 20ක්
+
+*2024-03-26 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194938) · `si`
+
+අඩු ආදායම්ලාභී පවුල් ලක්ෂ 28ක් සඳහා සහල් කිලෝග්‍රෑම් 20 බැගින් ලබාදීමට රජය තීරණය කර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+ඔහු ප්‍රකාශ කළේ, අප්‍රේල් මාසයේ දී කිලෝග්‍රෑම් 10ක් ද මැයි මාසයේ කිලෝග්‍රෑම් 10ක් ද ලෙස එම සහල් ලබාදීමට සැලසුම් කර ඇති බවය.
+
+"රජය බලාපොරොත්තු වෙන්නේ අපේ රටේ අඩු ආදයම්ලාභී පවුල් ඉන්නවා. පසුගිය අවුරුද්දේ අඩු ආදයම්ලාභී පවුල් හැටියට ලක්ෂ 28කට අපි සහල් බෙදුවා. ඒ විදිහටම දිසාපතිවරුන් හරහා ගණනය කිරීමෙන්, විනිවිඳභාවයකින් යුතුව පවුල් 28 ලක්ෂයකට සහල් කිලෝ 20ක් දෙවතාවකට දෙන්න. අප්‍රේල් මසයේ  කිලෝ 10කුත් මැයි මාසේ කිලෝ 10කුත්. අප්‍රේල් මාසේ කිලෝ 10 සිංහල හින්දු අලුත් අවුරද්දට ඉස්සරවෙලා ලබාදෙන්න. මැයි මාසේ කිලෝ 10 ඊළඟ මාසේ මුල් සතියේ. ඒක තමයි රජයේ උත්සාහය. මේක පුළුල් අරමුණක්. එකක් වී ගොවියාට... ඔවුන්ට ලැබෙන මිල ඉහළ දැමීම පිළිබඳ හොඳ මඟපෙන්වීමක් විවෘත වෙළෙඳපොළ තුළට. අනෙක් පැත්තෙන් කුඩා හා මධ්‍ය පරිමාණ වී මෝල් හිමියාට ආදායමක් ලබාගන්න ක්‍රමවේදයක්. අනෙක් පැත්තෙන් අඩු ආදයම්ලාභී පවුල්වලට සෘජු සහනයක් හැටියට සහල් කිලෝ 20ක් ලබාදෙනවා."
+
+...
+
+[Data](articles/7bd70c43.json)
+
+---
+
+### Greetings to train passengers
 
 *2024-03-26 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194937) · `si`
 
-සංචාරක ආකර්ෂණය දිනා ගැනීම සඳහා කොළඹ කොටුවේ සිට බදුල්ල දක්වා විශේෂිත දුම්රියක් ධාවනය කිරීමට පියවර ගන්නා බව ප්‍රවාහන අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පවසයි.
+Transport Minister Bandula Gunawardena announced new trains from Colombo Fort to Badulla and Nanu Oya to Badulla, focusing on tourism.
 
-ඔහු ප්‍රකාශ කළේ, අප්‍රේල් මස 05 වනදා සිට නානුඔය සිට බදුල්ල දක්වා සංචාරක විශේෂ නැරඹුම් මැදිරියක් සහිත දුම්රියක් ද ධාවනයේ යෙදවීමට නියමිත බවය.
+🟩
 
-"අප්‍රේල් 5 වෙනිදාට ඇල්ල, නයින් ආච්, මේ සංචාරක ආකර්ෂණය ප්‍රදේශ හරහා නව දුම්රිය දෙකක් ධාවනය කරනවා. එකක් සෑම දිනකම උදෑසන 6.30ට දවසක් ඇර දවසක් සිකුරාදා, ඉරිදා, අඟහරුවාදා සහ බ්‍රහස්පතින්දා ලෙස දවසක් හැර දවසක් දුම්රියක් කොළඹ කොටුවේ සිට බදුල්ල දක්වා ගමන් කරනවා. ඒ අතර කෙටි දුර ප්‍රමාණය සංචාරක නැරඹුම් මැදිරි සහිත තවත් දුම්රියක් අපේ නානුඔයේ සිට බදුල්ල දක්වා හෝ සංචාරකයින්ට කෙටි දුර ධාවනය කළ හැකි වන ආකාරයට නැරඹුම් මැදිරි සහිත විශේෂ සංචාරක දුම්රියකුත් ආරම්භ වෙනවා."
+Minister of Transport Bandula Gunawardena says that steps will be taken to operate a special train from Colombo Fort to Badulla to the Badulla to Badulla.
+
+He also stated that a train with a tour specialist train from Nanu Oya to Badulla and a tourist specialist with a tourist specialist with a tourist specialist with a tourist specialist with a tourist specialist with a tourist special watch.
+
+"Falls, Nine Arch, running two new trains through this tourist attraction. One day at 6.30 am every day, a train was traveling from Colombo Fort from Colombo Friday to Badulla. A short distance of train with a traveling academic area is another tourist train from our Nanu Oya to Badulla or a short distance. "
 
 ◼️
 
 [Data](articles/08c34f97.json)
+
+[Extended Data](ext_articles/08c34f97.ext.json)
+
+---
+
+### Will resort to massive trade union action if demands not met:  Teachers’ principals’ union
+
+*2024-03-26 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-resort-to-massive-trade-union-action-if-demands-not-met-Teachers-principals-union/108-279607) · `en`
+
+Colombo, March 26 (Daily Mirror) - The Teachers' Principals' Trade Union Alliance (TPTUA) yesterday warned the Finance Ministry Secretary that they would resort to severe trade union action if they did not receive any solutions to their demands, including the salary anomaly issues, Ceylon Teachers' Union (CTU) General Secretary Joseph Stalin said.
+
+While issuing a media release yesterday, they said that they went to meet the Finance Ministry Secretary following a written request made by them on March 11.
+
+The TPTUA requested the Ministry Secretary to provide their remaining two-thirds of the payment of their salary anomalies, which were allocated from the 2024 budget and allocations assigned for scrutinizing answer scripts for the 2023 General Certificate of Education (GCE) Ordinary Level (O/L) examinations and examination duties.
+
+...
+
+[Data](articles/f36752f2.json)
 
 ---
 
@@ -279,6 +317,28 @@ The three main candidates who will run for the presidency are Ranil Wickremesing
 [Data](articles/ac32107f.json)
 
 [Extended Data](ext_articles/ac32107f.ext.json)
+
+---
+
+### Tax burden likely to remain longer than expected
+
+*2024-03-26 06:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tax-burden-likely-to-remain-longer-than-expected/108-279602) · `en`
+
+IMF Senior Mission Chief says tax is needed to fund essential services that government is providing
+
+Asserts if everybody wants to continue enjoying common goods, then all have to make commensurate contributions
+
+Points out current hardships are due to government running out of money and not having a strong income source
+
+Sri Lanka, coming out of the economic crisis, has significantly taxed businesses and individuals alike and according to the International Monetary Fund (IMF), this burden is here to stay, at least for now.
+
+While several attempts and concerns have been raised in this regard by a diverse section of the economy, the lender implied that it is imperative for Sri Lanka to continue to impose taxes at its current levels, so that the country does not collapse once again.
+
+IMF Senior Mission Chief for Sri Lanka Peter Breuer noted that the tax burden, which is not entirely new to Sri Lanka, is needed, in order to fund the essential services that the government is providing.
+
+...
+
+[Data](articles/d0188340.json)
 
 ---
 
@@ -2173,69 +2233,5 @@ The JVP president said that he was in office even after the serious information 
 [Data](articles/8d511835.json)
 
 [Extended Data](ext_articles/8d511835.ext.json)
-
----
-
-### Sri Lanka stocks close down, turnover stays above 1bn
-
-*2024-03-25 16:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-stays-above-1bn-155986/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
-
-The broader All Share Index closed down 0.24 percent, or 26.62 points, at 11,234; while the S&P SL20 Index closed down 0.19 percent, or 6.09 points, at 3,220.
-
-Trades in the banks sector contributed the most to the day’s turnover.
-
-Sanasa Development Bank Plc, which saw 177mn worth of shares change hands, was down at 0.70.
-
-Nations Trust Bank Plc which also saw most active volumes, closed flat at 104.50.
-
-Major contributors to the Index included Sampath Bank Plc (up at 77.70), Hatton National Bank Plc (up at 167.00), The Lanka Hospitals Corporation Plc (up at 119.75), Seylan Bank Plc (up at 45.70), and John Keells Holdings Plc (up at 190.50. (Colombo/Mar25/2024)
-
-◼️
-
-[Data](articles/17cc9285.json)
-
-[Extended Data](ext_articles/17cc9285.ext.json)
-
----
-
-### Car accident on car: four injured
-
-*2024-03-25 16:41:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/காரின்-மீதேறி-கெப்-விபத்து-நால்வர்-காயம்/74-335168) · `ta`
-
-Four injured in a car accident on Moovangalai road, Ampara, due to a tire without air. The driver lost control.
-
-🟩
-
-Four people were injured and admitted to the Ampara General Hospital after a car collided with a car and a car on Moovangalai road in Ampara, police said.
-
-The tire of the cab has been left without air. It is later known that the driver was unable to control and loaded up the car.
-
-In the incident, four people who were traveling in a cab were injured and admitted to the hospital, police said.
-
-◼️
-
-[Data](articles/1b9cd444.json)
-
-[Extended Data](ext_articles/1b9cd444.ext.json)
-
----
-
-### Malnutrition emerges as serious issue in Sri Lankan schools
-
-*2024-03-25 16:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Malnutrition-emerges-as-serious-issue-in-Sri-Lankan-schools/108-279558) · `en`
-
-Colombo, March 25 (Daily Mirror) - Malnutrition has emerged as a significant concern in Sri Lanka, affecting schools regardless of income levels, President Ranil Wickremesinghe said while marking the beginning of the 2024 school meal programme held today (25) at the Sujatha Girls’ College in Narahenpita.
-
-"One of our main targets is to prevent malnutrition in the country, and for that, the government has taken a decision to increase the 'Aswesuma' benefits by threefold and to provide a meal in schools.
-
-"Some schoolchildren leave for school at 6 a.m. without taking their breakfast. They are even unable to take their lunch. Therefore, they are trying to take their meals to school. This situation has affected everyone, whether they are higher or lower income families," he said.
-
-...
-
-[Data](articles/155a11e7.json)
-
-[Extended Data](ext_articles/155a11e7.ext.json)
 
 ---

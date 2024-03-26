@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 08:17:55**
+As of **2024-03-26 08:34:22**
 
 ## Newspaper Stats
 
-*Scraped **15,171** Articles*
+*Scraped **15,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 818
 economynextcom | 818
 islandlk | 843
-adalk | 1,291
+adalk | 1,292
 adaderanalk | 1,822
 tamilmirrorlk | 1,822
 virakesarilk | 2,127
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,170 (100.0%) of 15,171 articles have been extended.
+15,171 (100.0%) of 15,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### කල්මුණේ ප්‍රාදේශීය සෞඛ්‍ය සේවා කාර්යාලයට අයත් රෝහල්වල වෛද්‍යවරුන් වර්ජනයක
+### Doctors in hospitals owned by Kalmunai Regional Health Services Office
 
 *2024-03-26 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194936) · `si`
 
-සිසුවෙකු මියයෑමේ සිද්ධියක් සම්බන්ධයෙන් තිරුක්කෝවිල් රෝහලට සහ කාර්ය මණ්ඩලයට පහරදීම පිළිබඳ විමර්ශන නිසි ලෙස සිදුනොවන බවට විරෝධය පළකරමින් අද කල්මුනෙයි ප්‍රාදේශීය සෞඛ්‍ය සේවා අධ්‍යක්ෂ කාර්යාලයට අයත් සියලු රෝහල්වල වැඩවර්ජනයක් ක්‍රියාත්මක වේ.
+Doctors at Kalmunai Regional Health Services Office hospitals are striking against Thirukkovil Hospital, protesting a recent marathon incident where a 17-year-old was killed, and threats against staff. The Government Medical Officers' Association, led by Dr. Chamil Wijewagel, plans to take trade union action starting today due to suspect arrests.
 
-පසුගියදා තිරුක්කෝවිල් ප්‍රදේශයේ පාසලක මැරතන් තරඟයක් අතරතුරදී 17 හැවිරිදි ශිෂ්‍යයෙකු හදිසියේ මරණයට පත් වීමත් සමඟ යම් පිරිසක් නොසන්සුන්කාරි තත්ත්වයක් ඇති කරමින් රෝහලට පහර දී අලාභ හානි සිදුකර රෝහලේ වෛද්‍යවරුන්ට ද තර්ජනය කර තිබිණි.
+🟩
 
-මෙතෙක් සැකකරුවන් අත්අඩංගුවට නොගැනීම හේතුවෙන් අද (26) පෙරවරු 8.00 සිට එම වෘත්තීය ක්‍රියාමාර්ගය ගන්නා බව රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමයේ මාධ්‍ය ප්‍රකාශක වෛද්‍ය චමිල් විජේවංශ මහතා සඳහන් කළේය.
+A strike in all hospitals belonging to the Regional Health Services Director's Office is protesting against the Thirukkovil Hospital and the staff of the student.
+
+A 17-year-old student was killed during a marathon in a school in Thirukkovil area recently, a group of people had been attacked and threatened to suffer injuries.
+
+The Government Medical Officers' Association Dr. Chamil Wijewagel said that the trade union action would be taken from today (26) due to the arrest of the suspects.
 
 ◼️
 
 [Data](articles/4f6156f4.json)
+
+[Extended Data](ext_articles/4f6156f4.ext.json)
 
 ---
 
@@ -1162,6 +1168,22 @@ While marking the beginning of the 2024 school meal programme held today (25) at
 
 ---
 
+### රාජ්‍ය සේවකයන් වැඩිළ රු 10 000 ම අප්‍රේල් වැටුප සමගින්
+
+*2024-03-25 20:36:57* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවකයන්-වැඩිළ-රු-10-000-ම-අප්‍රේල්-වැටුප-සමගින්/11-408798) · `si`
+
+මෙවර අයවැය මගින් රාජ්‍ය සේවකයන් සඳහා වැඩි කළ රුපියල් 10,000ක මුදල ලබන අප්‍රේල් මාසයේ සිට වැටුපට එක් කරන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි. අද (25දා) රුවන්වැල්ල ප්‍රදේශයේදී මාධ්‍ය වෙත අදහස් දක්වමින් ඔහු මේ බව පවසා තිබේ.
+
+ඒ අනුව සියලු රාජ්‍ය සේවකයන්ට මාර්තු මාසයේ වැටුප ගෙවීමෙන් අනතුරුව , අප්‍රේල් මාසයේ වැටුපද එම මාසයේ 10 වන දිනට පෙර ගෙවීමට සුදානම් බවත්, අයවැය යෝජනාවල සඳහන් ආකාරයට රාජ්‍ය සේවකයන්ට වැඩි කළ රු.10,000 ම අප්‍රේල් මාසයේ සිට එම වැටුපට එකතුකොට ගෙවීමට කටයුතු කරන බවත් ඔහු එහිදී සඳහන් කර තිබේ.
+
+එසේම විශ්‍රාමිකයන් සඳහා වැඩිකළ රු. 2,500 ක මුදල ද අප්‍රේල් මාසයේ සිට ලබාදෙන බවද අමාත්‍යවරයා එහිදී වැඩිදුරටත් පවසා ඇත.
+
+◼️
+
+[Data](articles/acc83337.json)
+
+---
+
 ### A five-hour statement from Maithri
 
 *2024-03-25 20:33:43* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීගෙන්-පැය-පහක-ප්‍රකාශයක්/11-408797) · `si`
@@ -2229,29 +2251,5 @@ People expressed their pain, regret, and anger, and published in floralports.
 [Data](articles/c9009027.json)
 
 [Extended Data](ext_articles/c9009027.ext.json)
-
----
-
-### Jaffna University's Joint Health Science Faculty Students
-
-*2024-03-25 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179678) · `ta`
-
-Jaffna University students protested for employment, demanding health science graduates' appointments. The rally, organized by the Jaffna University Students Union, aimed to ensure quality services and employment for students.
-
-🟩
-
-A protest campaign was launched in Jaffna to ensure the employment of students.
-
-The rally, which started from the Faculty of Health Studies at the University of Jaffna at 12 noon today (25), was organized by the Jaffna University Students Union to the University's main gateway to the university's main gateway.
-
-The struggle for the demanding the appointment of the affiliated health science graduates to the affiliation of the students, to provide quality service to the people, to provide quality services to the students' employment.
-
-Graduates and university students participated in the event.
-
-◼️
-
-[Data](articles/ed2c743e.json)
-
-[Extended Data](ext_articles/ed2c743e.ext.json)
 
 ---

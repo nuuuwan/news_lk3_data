@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 10:03:05**
+As of **2024-03-26 10:18:21**
 
 ## Newspaper Stats
 
-*Scraped **15,187** Articles*
+*Scraped **15,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,162 @@ newsfirstlk | 363
 economynextcom | 818
 dailyftlk | 819
 islandlk | 843
-adalk | 1,292
-adaderanalk | 1,824
-tamilmirrorlk | 1,825
-virakesarilk | 2,128
+adalk | 1,293
+adaderanalk | 1,825
+tamilmirrorlk | 1,828
+virakesarilk | 2,130
 dailymirrorlk | 2,344
-adaderanasinhalalk | 2,439
+adaderanasinhalalk | 2,440
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,185 (100.0%) of 15,187 articles have been extended.
+15,187 (99.9%) of 15,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### විදෙස් ප්‍රේෂණ හා සංචාරක ඉපැයිම් ඉහළට
+### ප්‍රවීණ ගායන ශිල්පී චන්ද්‍ර කුමාර කඳනාරච්චි අභාවප්‍රාප්ත වෙයි
+
+*2024-03-26 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194941) · `si`
+
+ප්‍රවීණ ගායක චන්ද්‍ර කුමාර කඳනාරච්චි මහතා අද (26) උදෑසන අභාවප්‍රාප්ත වී තිබේ.
+
+◼️
+
+[Data](articles/64d3a942.json)
+
+---
+
+### அரசாங்கம்ஜனாதிபதி தேர்தலை பிற்போட்டால்  அதற்கு எதிராக பொதுமக்கள் வீதிக்கு இறங்ககூடும்  - பவ்ரல்
+
+*2024-03-26 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/179712) · `ta`
+
+அரசாங்கம் அரசமைப்பை மீறி ஜனாதிபதி தேர்தலை பிற்போட்டால் மக்கள் வீதிக்கு இறங்ககூடும் என தேர்தல் கண்காணிப்பு அமைப்பான பவ்ரலின் நிறைவேற்று பணிப்பாளர் ரோகண ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+
+தேர்தல் அரசியல்கட்சிகளுக்கானதோ அரசாங்கத்திற்கானதோ அல்லது அரசியல் தலைவர்களிற்கானதோ இல்லை தேர்தல்கள் மக்களிற்கானவை என அவர் தெரிவித்துள்ளார்.
+
+ஜனாதிபதி தேர்தல் நிச்சயமாக செப்டம்பர் 17 முதல் ஒக்டோபர் 17ம் திகதிக்குள் நடைபெறவேண்டும் ஜனாதிபதியோ அமைச்சரவையோ பசில்ராஜபக்சவோ அதனை மாற்ற முடியாது என அவர் தெரிவித்துள்ளார்.
+
+இந்த காலப்பகுதியில் ஜனாதிபதி தேர்தலை நடத்தவேண்டியது தேர்தல் ஆணைக்குழுவின் பொறுப்பு கடமை என தெரிவித்துள்ள பவ்ரல் அமைப்பின் ரோகண ஹெட்டியாராச்சி ஜனாதிபதி தேர்தல்கள் தொடர்பில் அரசாங்கம் தீர்மானங்களை எடுக்க முடியாது எனவும் தெரிவித்துள்ளார்.
+
+அவர்கள் ஏதாவது காரணத்திற்காக அரசமைப்பை மீறி செயற்பட முடிந்தால் வீதிக்கு இறங்குவதற்கான வலு எங்கள் மக்களுக்குள்ளது என நாங்கள் கருதுகின்றோம் எனவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/33443a4a.json)
+
+---
+
+### Workers’ remittances, tourism earnings continuing positive momentum - CBSL
+
+*2024-03-26 09:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98208/workers-remittances-tourism-earnings-continuing-positive-momentum-cbsl) · `en`
+
+The Central Bank of Sri Lanka (CBSL) says the country’s trade services, mainly earnings from tourism have recovered significantly during the first two months of 2024, while the positive momentum of workers’ remittances also continued.
+
+During the special press briefing convened on Tuesday morning (March 26) to present the second Monetary Policy Review of 2024, CBSL’s Economic Research Director Dr. S. Jegajeevan revealed that workers’ remittances were recorded at USD 964 million from January to February.
+
+Meanwhile, tourism earnings were recorded at USD 687 million during these months.
+
+According to CBSL’s figures, both workers’ remittances and tourism earnings have seen a significant improvement last year as opposed to 2022.
+
+Workers’ remittances increased from USD 3.8 billion in 2022 to USD 6 billion in 2023 while tourism earnings went up from USD 1.1 billion in 2022 to USD 2.1 billion in 2023.
+
+◼️
+
+[Data](articles/213cec7d.json)
+
+---
+
+### மாத்தளை - வில்கமுவ பொலிஸ் நிலையத்தில் T-56 ரக துப்பாக்கி மாயம்
+
+*2024-03-26 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179711) · `ta`
+
+மாத்தளை மாவட்டத்தில் வில்கமுவ பொலிஸ் நிலையத்தில் இருந்து T-56 ரக துப்பாக்கி காணாமல் போயுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+வில்கமுவ பொலிஸ் நிலையத்தில் பிரதான வாயில் பாதுகாப்பு சோதனைச் சாவடியில்  பயன்படுத்தப்பட்ட T-56 துப்பாக்கி காணாமல் போயுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/2cf2da6d.json)
+
+---
+
+### Foreign remittances and tourist grantm up
 
 *2024-03-26 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194940) · `si`
 
-මෙරට විදෙස් ප්‍රේෂණ හා සංචාරක ඉපැයිම් ඉහළ මට්ටමක පවතින බව ශ්‍රී ලංකා මහ බැංකුව අවධාරණය කරයි.
+The Central Bank of Sri Lanka highlights a significant increase in foreign remittances and tourist grants, with the country receiving 964 million in foreign remittances in 2024.
 
-ඒ අනුව 2024 වසරේ මේ දක්වා වූ කාලය තුළ විදෙස් ප්‍රේෂණ මිලියන 964ක ප්‍රමාණයක් රටට හිමිව තිබේ.
+🟩
 
-එමෙන්ම ලක්ෂ 2 ඉක්මවූ සංචාරකයින් පිරිසක් දිවයිනට මේ වනවිට පැමිණෙමින් ඇති බව ද සඳහන් කරන ශ්‍රී ලංකා මහ බැංකුව ඒ තුළින් ගෙවුණු මාස දෙක තුළ සංචාරකයින්ගෙන් ඉපැයු ආදායම මිලියන 687ක් බව ද සඳහන් කරයි.
+The Central Bank emphasizes that there is a high level of foreign remittances and tourist grains.
+
+Accordingly, the country has received 964 million foreign remittances in 2024.
+
+The Central Bank of Sri Lanka that a large number of tourists have come to the island have been attending the island.
 
 ◼️
 
 [Data](articles/7e78e32e.json)
+
+[Extended Data](ext_articles/7e78e32e.ext.json)
+
+---
+
+### மைத்திரியின் வாக்குமூலம் சட்டமா அதிபருக்கு அனுப்பப்பட்டது
+
+*2024-03-26 09:47:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-வாக்குமூலம்-சட்டமா-அதிபருக்கு-அனுப்பப்பட்டது/175-335196) · `ta`
+
+“ஈஸ்டர் ஞாயிறு தாக்குதலை நடத்தியது யார் என்பது எனக்கு தெரியும்” என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்த கருத்து தொடர்பில் குற்றப் புலனாய்வு திணைக்களத்தில் நேற்று முன்வைக்கப்பட்ட வாக்குமூலம் சட்டமா அதிபருக்கு அனுப்பி வைக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+குற்றப் புலனாய்வு திணைக்கள அதிகாரிகளால் 6 மணித்தியாலங்களுக்கு மேலாக மைத்திரிபால சிறிசேனவிடம் இருந்து பெறப்பட்ட வாக்குமூலம் மேலதிக சட்ட நடவடிக்கைகளுக்காக சட்டமா அதிபருக்கு அனுப்பி வைக்கப்பட்டுள்ளது.
+
+2019 ஆம் ஆண்டு ஏப்ரல் 21 ஆம் திகதி ஈஸ்டர் ஞாயிறு தாக்குதலில் ஈடுபட்டவர்கள் தொடர்பில் தமக்குத் தெரியும் என முன்னாள் ஜனாதிபதி கண்டியில் தெரிவித்த கருத்து தொடர்பில் விசாரணை நடத்துமாறு பொது மக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் பொலிஸ் மா அதிபருக்கு பணிப்புரை விடுத்ததை அடுத்து மைத்திரிபால சிறிசேன நேற்று சிஐடியில் ஆஜரானார்.
+
+◼️
+
+[Data](articles/0736f34c.json)
+
+---
+
+### குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு அரிசி
+
+*2024-03-26 09:47:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்த-வருமானம்-பெறும்-குடும்பங்களுக்கு-அரிசி/175-335195) · `ta`
+
+குறைந்த வருமானம் பெறும் 28 இலட்சம் குடும்பங்களுக்கு 20 கிலோகிராம் அரிசி வழங்க அரசாங்கம் தீர்மானித்துள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+ஏப்ரல் மாதத்தில் 10 கிலோகிராம் அரிசியும் மே மாதத்தில் 10 கிலோகிராம் அரிசியும் வழங்க திட்டமிடப்பட்டுள்ளதாக அவர் குறிப்பிட்டார்.
+
+"கடந்த ஆண்டு, 28 லட்சம் குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு அரிசி வழங்கினோம். அதேபோல், 28 இலட்சம் குடும்பங்களுக்கு தலா பத்து கிலோகிராம் என இரண்டு தடவைகள் அரிசி வழங்கவுள்ளோம்.
+
+ஏப்ரல் மாதம் புத்தாண்டுக்கு முன் 10 கிலோகிராம் அரிசி வழங்கப்படுவதுடன், மே மாதம் முதல் வாரத்தில் 10 கிலோகிராம் அரிசி வழங்கப்படும்.
+
+இதேவேளை, அரச ஊழியர்களின் அதிகரிக்கப்பட்ட சம்பளத்தை எதிர்வரும் ஏப்ரல் மாதம் 10ஆம் திகதிக்கு முன்னர் வழங்க அரசாங்கம் தீர்மானித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/615656af.json)
+
+---
+
+### ரயில் பயணிகளுக்கு நல்ல செய்தி
+
+*2024-03-26 09:42:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-பயணிகளுக்கு-நல்ல-செய்தி/175-335194) · `ta`
+
+சுற்றுலா பயணிகளை கவரும் வகையில் கொழும்பு கோட்டையில் இருந்து பதுளை வரை விசேட ரயிலை இயக்க நடவடிக்கை எடுக்கப்படும் என போக்குவரத்து அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+
+ஏப்ரல் 5 ஆம் திகதி முதல் நானுஓயாவில் இருந்து பதுளை வரை சுற்றுலா பயணிகள் பார்வையிடும் வகையில், விசேட பெட்டியுடன் கூடிய ரயிலும் சேவையில் ஈடுபடவுள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+
+அமைச்சர் பந்துல குணவர்தன மேலும் கருத்து தெரிவிக்கையில், "ஏப்ரல் 5 ஆம் திகதி, எல்ல, ஒன்பது ஆர்ச் மற்றும் இந்த சுற்றுலாத்தலங்கள் வழியாக இரண்டு புதிய ரயில்கள் இயக்கப்படும்.
+
+கொழும்பு கோட்டையில் இருந்து பதுளைக்கு தினமும் காலை 6.30 மணிக்கு ஒரு ரயில் மற்றும் வெள்ளி, ஞாயிறு, செவ்வாய் மற்றும் வியாழன் ஆகிய தினங்களில் ஒரு ரயில் இயக்கப்படும்.” என்றார்.
+
+◼️
+
+[Data](articles/02cf2a7b.json)
 
 ---
 
@@ -154,13 +280,15 @@ Investigations have revealed that the suspect has defrauded Rs. 7,650,000 from n
 
 [Data](articles/fc2f5535.json)
 
+[Extended Data](ext_articles/fc2f5535.ext.json)
+
 ---
 
 ### T-56 firearm reported missing from Wilgamuwa police station
 
 *2024-03-26 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98207/t-56-firearm-reported-missing-from-wilgamuwa-police-station) · `en`
 
-The T-56 firearm used at the main gate security checkpoint of the Wilgamuwa police station in Matale is reported missing, Ada Derana learns.
+The T-56 firearm used by the police officer on duty at the guard room at the entrance to the Wilgamuwa police station in Matale is reported missing, Ada Derana learns.
 
 Police said investigations are underway to recover the missing firearm.
 
@@ -1604,6 +1732,24 @@ Justice Minister said some of those laws are “almost” drafted now.
 
 ---
 
+### කිතුණු දේවස්ථානවලට විශේෂ ආරක්ෂාවක්
+
+*2024-03-25 20:13:21* · [`adalk`](https://www.ada.lk/breaking_news/කිතුණු-දේවස්ථානවලට-විශේෂ-ආරක්ෂාවක්/11-408794) · `si`
+
+කිතුනුවන්ට විශේෂිත වූ මහ සිකුරාදා දින  සහ පාස්කු දේව මෙහෙයන් වෙනුවෙන් දිවයින පුරා කිතුණු දේවස්ථානයන්හි පොලීසිය සහ ත්‍රිවිධ හමුදාව යොදා විශේෂ ආරක්ෂිත වැඩපිළිවෙළක් ක්‍රියාත්මක කර ඇති බව පොලිස් මූලස්ථානය පවසයි.
+
+මෙම මස 29 -යෙදෙන මහ සිකුරාදා දින සහ 31 දිනට යෙදෙන පාස්කු ඉරිදා දිනය වෙනුවෙන්  මෙම විශේෂ ආරක්‍ෂිත වැඩ පිළිවෙළ ක්‍රියාත්මක කර ඇති බවද පොලිස් මූලස්ථානය පවසයි.
+
+ප්‍රජා පොලිස් කමිටු මෙන්ම අදාළ දේවස්ථානවල පියතුමන්ලා හා සංවිධායකවරුන් සමග ඒකාබද්ධව මෙම විශේෂ ආරක්ෂිත වැඩ පිළිවෙළ ක්‍රියාත්මක කරන ලෙසට  පොලිස්පතිවරයා විසින් සියලුම කොට්ඨාස භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරිවරුන් වෙත උපදෙස් ලබාදී ඇත.
+
+අද (26) සහ හෙට (27)  යන දෙදින තුළ පොලිස් ස්ථාන අධීක්ෂණය කරන දිස්ත්‍රික්භාර නිලධාරීන්ද තම දිස්ත්‍රික්කයට අයත් සෑම පොලිස් වසමකම පිහිටි බැතිමතුන් වැඩි වශයෙන් පැමිණෙන දේවස්ථාන තෝරාගෙන ඒවාට  අදාළ ආරක්ෂක කටයුතු පිළිබඳව පුද්ගලිකවම සොයා බලන ලෙසටත් පොලිස්පතිවරයා උපදෙස් ලබා දී ඇත .
+
+...
+
+[Data](articles/fa62ac36.json)
+
+---
+
 ### Sri Lankans can take to the streets if presidential poll delayed: PAFFREL
 
 *2024-03-25 20:12:00* · [`economynextcom`](https://economynext.com/sri-lankans-can-take-to-the-streets-if-presidential-poll-delayed-paffrel-155969/) · `en`
@@ -1880,17 +2026,9 @@ Director Asela Bandara said that it should be drawn to the details of the goods 
 
 ECONOMYNEXT- Sri Lanka’s Medical Association has opposed the lowering of the age of consent from 16 to 14 years.
 
-“In a country where Healthy Sexual and Relationship Education is not being taught in schools, a child of 14 years who consents for sex is mostly unaware of the potential repercussions of the sexual act – i.e. early unwanted pregnancy, and exposure to sexually transmitted infections. Hence, the consent given, cannot be taken to imply informed consent.” The Sri Lanka Medical Association (SLMA) statement said on  Monday.
+“In a country where Healthy Sexual and Relationship Education is not being taught in schools, a child of 14 years who consents for sex is mostly unaware of the potential repercussions of the sexual act – i.e. early unwanted pregnancy, and exposure to sexually transmitted infections. Hence, the consent given, cannot be taken to imply informed consent,” the SLMA said in a statement after the Minister of Justice called for the age of consent to be lowered.
 
-We, a conglomerate of medical professionals advocating for the rights of children of
-
-Sri Lanka, wish to express our gravest concerns regarding the proposed amendments
-
-The minimum age of sexual consent is the age at which someone is deemed capable of
-
-consenting to sexual activity. The objective of the minimum age of sexual consent is
-
-to protect adolescents from sexual abuse and from the consequences of early sexual
+In Sri Lanka sexual education is woefully inadequate. Attempts to introduce comprehensive sexual education in the school curriculum have often been met with vocal opposition, mainly from the clergy who claim it damages Sri Lanka’s ‘culture’.
 
 ...
 
@@ -2021,191 +2159,5 @@ A bond maturing on 01.07.2032 closed at 12.25/50 percent from Thursday’s close
 [Data](articles/fec90fdb.json)
 
 [Extended Data](ext_articles/fec90fdb.ext.json)
-
----
-
-### Despite showers, caution level temperature warning issued for 11 districts
-
-*2024-03-25 18:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Despite-showers-caution-level-temperature-warning-issued-for-11-districts/108-279564) · `en`
-
-Colombo, March 25 (Daily Mirror) - Despite the showers at several places in the country, the National Meteorological Centre today issued a 'caution level' warning that the temperature felt on the human body is expected to increase in eleven districts.
-
-Accordingly, the increase in temperature warnings is expected in the Western, North-Western, and Sabaragamuwa Provinces, as well as Mannar, Vavuniya, Anuradhapura, and Galle districts.
-
-According to the heat index advisory, Mannar, Vavuniya, Anuradhapura, Puttalam, Kurunegala, Gampaha, Kegalle, Colombo, Kalutara, Ratnapura and Galle were mentioned as caution levels.
-
-“People may suffer heat cramps and exhaustion and continuing activity in the heat or sun could lead to heatstroke,” the advisory warns.
-
-The department also advised the public to remain hydrated and take breaks in the shade as often as possible.
-
-...
-
-[Data](articles/c9eb809d.json)
-
-[Extended Data](ext_articles/c9eb809d.ext.json)
-
----
-
-### 6 hours trial to Maithri
-
-*2024-03-25 18:03:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியிடம்-6-மணிநேரம்-விசாரணை/175-335169) · `ta`
-
-Maithripala Sirisena, former President, has been investigating for 6 hours at the CIT Headquarters regarding the lifeblood Sunday attacks on April 21, 2019. He claims to know who confessed to the attacks. The CIT has called for an inquiry, involving the police chief and Inspector General of Police. Sirisena criticized the Rajapaksa family and emphasized the importance of confidentiality in the investigation.
-
-🟩
-
-Former President Maithripala Sirisena's comments that he knows who carried out the lifeblood Sunday attacks on April 21, 2019, has confessed to him.
-
-Monday (25) was invited to the CIT Headquarters at 10.30 am. Accordingly, Maithripala Sirisena, who went there, has been investigating for about 6 hours.
-
-The CIT has summoned the United People's Power against the life -threatening Sunday attack and the police chief of the police and the Inspector General of Police, Deshabandu Tennakoon, called for an inquiry.
-
-Speaking at a meeting held in Kandy, former President Maithripala Sirisena said that the Rajapaksa family was leading the country's biggest problem and that everyone was aware of the lifeblood Sunday attack.
-
-It is noteworthy that Maithripala Sirisena pointed out that it was the responsibility of the judges to keep it very confidential when he published the information about the creators of the life of the Sunday Day.
-
-◼️
-
-[Data](articles/19feea91.json)
-
-[Extended Data](ext_articles/19feea91.ext.json)
-
----
-
-### Police Inspector General ordered to ensure security on Holy Friday and on Sunday Day
-
-*2024-03-25 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179696) · `ta`
-
-The Police Inspector General has ordered increased security for Holy Friday and Sunday, including special programs to test pilgrims' travel packages to Christian churches nationwide.
-
-🟩
-
-The police have been ordered to discuss the special program to test the pilgrims and their travel packages to all Christian churches in the country on the 29th of the Holy Friday and the 31st of the country.
-
-The order was issued to the Senior Superintendent of Police in charge of all police divisions.
-
-Accordingly, the Inspector General of Police has issued a directive to the Senior Superintendent of Police in charge of all sections of the Social Police Groups, the priests and organizers of the respective churches.
-
-◼️
-
-[Data](articles/49f68274.json)
-
-[Extended Data](ext_articles/49f68274.ext.json)
-
----
-
-### Moscow attack: Russian court charges four men with act of terrorism
-
-*2024-03-25 18:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Moscow-attack-Russian-court-charges-four-men-with-act-of-terrorism/108-279563) · `en`
-
-Russia, March 25 (BBC) - Russia has charged four men it says attacked a Moscow concert hall and killed at least 137 people.
-
-All four appeared to have been beaten and one was brought to court in a wheelchair. They were charged with committing an act of terrorism.
-
-The Islamic State group, or IS, said it carried out Friday's outrage at Crocus City Hall and posted video evidence.
-
-Russian officials have claimed, without evidence, Ukrainian involvement. Kyiv says the claim is "absurd".
-
-The graphic video released by IS, showing attackers firing on the crowd inside the concert hall, has been verified as genuine by the BBC.
-
-However, no Russian official has acknowledged the claim, and Kremlin spokesman Dmitry Peskov said in a news conference on Monday that it was inappropriate to comment on it until the investigation had been completed.
-
-He also said that because of the tense international situation there was little collaboration between countries on fighting terrorism.
-
-...
-
-[Data](articles/c38b7971.json)
-
-[Extended Data](ext_articles/c38b7971.ext.json)
-
----
-
-### Good news for public servants
-
-*2024-03-25 18:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194919) · `si`
-
-"State Minister Ranjith Siyambalapitiya announced an early April 10 increase in public servants' salaries, from Rs 5,000 to Rs 10,000, aiming to provide salary and pension before April 10."
-
-🟩
-
-State Minister Ranjith Siyambalapitiya says that the increased salary of public servants will be given earlier in April 10.
-
-Speaking to the media, the Minister of Finance made these comments.
-
-State Minister Ranjith Siyambalapitiya said further
-
-"Wages were increased by Rs 10,000 to public servants. We had paid 5,000. Now 10,000 will be added to the year of April. This is about to provide salary and pension before the 10th of April. "
-
-◼️
-
-[Data](articles/a0981fc6.json)
-
-[Extended Data](ext_articles/a0981fc6.ext.json)
-
----
-
-### Four people injured in an accident in Ampara
-
-*2024-03-25 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179695) · `ta`
-
-In Ampara, a car accident on Moovangalai road injured four, who were admitted to Ampara General Hospital. The car, traveling from Hingurana, crashed into a parked car on the sidewalk due to a tire explosion.
-
-🟩
-
-Four people were injured and admitted to the Ampara General Hospital after a car collided with a car and a car on Moovangalai road in Ampara, police said.
-
-The car was traveling from Hingurana to Ampara and crashed into a car parked on the sidewalk as a tire exploded.
-
-Four people who were traveling in a cab were injured and admitted to the hospital, police said.
-
-◼️
-
-[Data](articles/2e7cb64b.json)
-
-[Extended Data](ext_articles/2e7cb64b.ext.json)
-
----
-
-### CID records Maithripala’s statement for nearly 6 hours
-
-*2024-03-25 17:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-records-Maithripalas-statement-for-nearly-6-hours/108-279562) · `en`
-
-Colombo, March 25 (Daily Mirror) - After recording a statement for nearly six hours, former President Maithripala Sirisena left the Criminal Investigation Department (CID).
-
-He appeared before the CID at 10.30 a.m. today over the statement he had made in Kandy.
-
-Public Security Minister Tiran Alas had earlier instructed the Inspector General of Police (IGP) to conduct an urgent investigation into the statement made by the former President in Kandy recently that he knew the people involved in the Easter Sunday bomb attacks on 21 April 2019.
-
-◼️
-
-[Data](articles/57662bd2.json)
-
-[Extended Data](ext_articles/57662bd2.ext.json)
-
----
-
-### A rains at hand
-
-*2024-03-25 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194918) · `si`
-
-Thundershowers expected in Western, Sabaragamuwa, Southern, Central, and North Western Provinces tomorrow, with potential for over 100mm in Moneragala. Public advised to prepare for thunderstorms and lightning.
-
-🟩
-
-Thundershowers will develop at several places in the Western, Sabaragamuwa, Southern and Central provinces tomorrow.
-
-Meanwhile, the Southern Province and more than 100 millimeters in the Moneragala district can also occur.
-
-The Meteorological Department says that in some places in the Kalutara, Sabaragamuwa and Ugt, in parts of Kalutara, Galle and Matara districts, the Met Department.
-
-The Meteorological Department says that showers or night thundershowers will develop at several places in the Western, Sabaragamuwa, Southern, Central and North Western Provinces.
-
-Meanwhile, the public is kindly requested to take necessary steps to reduce possible dangers with thunderstorms and lightning.
-
-◼️
-
-[Data](articles/2cf72c68.json)
-
-[Extended Data](ext_articles/2cf72c68.ext.json)
 
 ---

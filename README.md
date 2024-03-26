@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 05:37:15**
+As of **2024-03-26 05:56:00**
 
 ## Newspaper Stats
 
-*Scraped **15,145** Articles*
+*Scraped **15,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 191
 newsfirstlk | 363
 dailyftlk | 818
 economynextcom | 818
-islandlk | 831
+islandlk | 843
 adalk | 1,291
 adaderanalk | 1,819
 tamilmirrorlk | 1,820
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,428
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,145 (100.0%) of 15,145 articles have been extended.
+15,145 (99.9%) of 15,157 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -466,6 +466,22 @@ The suspect is being produced before the Gampaha Police Station, action has been
 
 ---
 
+### UNSTOPPABLE…to prove a point
+
+*2024-03-25 22:36:00* · [`islandlk`](http://island.lk/unstoppableto-prove-a-point/) · `en`
+
+When I was told about The UNSTOPPABLE Band, what first came to mind was UNSTOPPABLE! Why such a name! And then the explanation came my way from the group’s female vocalist, and manager, Nicola Andrea.
+
+She said the members of this outfit, before they teamed up, found the going pretty tough in the scene here. There were obstacles to overcome and when they decided to join forces, as one unit, they were adamant that nothing would STOP them from achieving their goals…and it was Nicola who came up with the name UNSTOPPABLE.
+
+This five-piece outfit comprises Malintha Peiris (lead guitar and leader), Nicola Andrea (vocals and manager), AJ Stefan (rhythm guitar and vocals), Janiru Fernando (drums) and Valenteno Lenora (bass).
+
+...
+
+[Data](articles/d3be49b5.json)
+
+---
+
 ### COPA instructs officials to immediately report importation of 102 spoiled fish containers to CID
 
 *2024-03-25 22:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98201/copa-instructs-officials-to-immediately-report-importation-of-102-spoiled-fish-containers-to-cid) · `en`
@@ -510,6 +526,42 @@ According to the Constitution, the presidential election should be held from Sep
 
 ---
 
+### Add a new shimmer to your old jewellery this Avurudhu with exceptional offers from Vogue Jewellers
+
+*2024-03-25 22:10:00* · [`islandlk`](http://island.lk/add-a-new-shimmer-to-your-old-jewellery-this-avurudhu-with-exceptional-offers-from-vogue-jewellers/) · `en`
+
+Transform your old jewellery and create memories that will stay with you forever with Vogue Jewellers’ range of exclusive offers this Avurudhu.
+
+Available from 18th March to 11th April, Enjoy the No Labour charges or Making Charges for Bangles and Chains, enjoy the Buying = Selling Promotion and acquire a collection of 22KT bangles and chains all at the price of the gold only! You can also benefit from a flat 50% off all diamonds and precious stones throughout the promotion period. Plus, if you’re looking to upgrade your existing diamond jewellery, simply exchange it for new and exquisite items from Vogue Jewellers, in keeping with the latest designs and trends.
+
+Share market in suspenseful wait over interest rates; selling pressure up
+
+Vogue Jewellers’ commitment to excellence shines with Lifetime Warranty and Golden Friday Delights
+
+Vogue Gold Fiesta 2023- exclusive jewellery event at their Kiribathgoda branch
+
+Vogue Jewellers makes second donation to WWCT for leopard conservation in Sri Lanka
+
+...
+
+[Data](articles/2c2edc9a.json)
+
+---
+
+### Union Bank appoints Dinesh Weerakkody to the Board
+
+*2024-03-25 22:09:00* · [`islandlk`](http://island.lk/union-bank-appoints-dinesh-weerakkody-to-the-board/) · `en`
+
+The Board of Directors of Union Bank of Colombo PLC announced the appointment of Dinesh Weerakkody a distinguished banker and financial advisor with vast experience as an Independent Non-executive Director, with effect from 01 April 2024.
+
+Dinesh Weerakkody is a former Chairman of Hatton National Bank PLC and Commercial Bank of Ceylon PLC and a Director of DFCC Bank. Mr. Weerakkody is the Vice Chairman of the Employers’ Federation of Ceylon, immediate Past Chairman of the International Chamber of Commerce, Sri Lanka and the Senior Vice Chairman of the Sri Lanka Institute of Directors of Sri Lanka and Director of several companies.
+
+...
+
+[Data](articles/f1047d1e.json)
+
+---
+
 ### The world is an emergency surgery for love superhero
 
 *2024-03-25 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194927) · `si`
@@ -533,6 +585,66 @@ He added that he would have to rest from the brink of cohesion.
 [Data](articles/3533c838.json)
 
 [Extended Data](ext_articles/3533c838.ext.json)
+
+---
+
+### Nations Trust Bank invites cardmembers to Spark Connections #WithAmex this Avurudu season
+
+*2024-03-25 22:07:00* · [`islandlk`](http://island.lk/nations-trust-bank-invites-cardmembers-to-spark-connections-withamex-this-avurudu-season/) · `en`
+
+As the Avurudu Celebrations draw near, Nations Trust Bank American Express has announced a line-up of benefits and privileges for its Cardmembers. Under the theme, ‘Spark Connections this Avurudu #WithAmex’, Cardmembers are invited to embrace the spirit of togetherness and celebration, to build connections that resonate within their families and friends.
+
+Throughout the festive period, Cardmembers can indulge in a myriad of offerings from 300 merchants islandwide, both online and offline. From gifting to dining experiences, hotel stays, and convenient supermarket purchases, there is something for everyone to enjoy. These activities, enjoyed alongside family and friends during the New Year season, will spark meaningful connections.
+
+...
+
+[Data](articles/7d0db40d.json)
+
+---
+
+### Opening of Identity College of Higher Education
+
+*2024-03-25 22:05:00* · [`islandlk`](http://island.lk/opening-of-identity-college-of-higher-education/) · `en`
+
+In a significant stride towards providing education and fostering the growth of caregivers, Certis Lanka unveiled its newest venture, the Identity College of Higher Education (ICHE), in a grand opening ceremony on the 12th of March 2024.
+
+With a solemn dedication to nurturing and empowering caregiver students, ICHE marks a pioneering initiative in Sri Lanka’s educational landscape. The inauguration ceremony, held with much fanfare and attended by esteemed guests and dignitaries, showcased the commitment of Certis Lanka to fostering academic excellence and addressing the evolving needs of the community.
+
+Identity College of Higher Education, situated in Colombo, aims to revolutionize caregiver education by offering a comprehensive curriculum tailored to meet the diverse needs of students. The college will provide specialized courses, workshops, and hands-on training programs, equipping learners with practical skills and theoretical knowledge essential for success in caregiving professions.
+
+...
+
+[Data](articles/749f41fd.json)
+
+---
+
+### A revolution in the ComBank annual report reading experience
+
+*2024-03-25 22:04:00* · [`islandlk`](http://island.lk/a-revolution-in-the-combank-annual-report-reading-experience/) · `en`
+
+March 5, 2024, will go down as a red-letter day for the world’s investor relations community. On this day, Commercial Bank of Ceylon PLC, headquartered in Sri Lanka, integrated an AI-powered Annual Report Assistant (AIPARA) to their Annual Report 2023. It is probably the first of its kind.
+
+This innovation addresses a perennial issue and makes reading annual reports a true joy. Gone will be the days when readers had to wade through pages to find information of interest and significance to them. Readers can now simply ask questions from AIPARA and obtain answers.
+
+...
+
+[Data](articles/a7110cd7.json)
+
+---
+
+### Share market in suspenseful wait over interest rates; selling pressure up
+
+*2024-03-25 22:02:00* · [`islandlk`](http://island.lk/share-market-in-suspenseful-wait-over-interest-rates-selling-pressure-up/) · `en`
+
+The stock market indicated a downward trend yesterday because local and foreign investors are anticipating interest rates to remain unchanged at the Central Bank’s monthly policy review meeting scheduled for today. Consequently, selling pressure was noted and retail participation was relatively low, market analysts said.
+
+Amid those developments mixed reactions in the indices were noted. All Share Price Index went down by 26.62 while S and P SL20 rose by 1.4 points. Turnover stood at Rs 1.28 billion with four crossings.
+
+Those crossings were reported in Sanasa Development Bank, which crossed 4.8 million shares to the tune of Rs 176 million; its shares traded at Rs 36.50, NTB 984,000 shares crossed for Rs 103.4 million; its shares traded at Rs 105, Sampath Bank 700,000 shares crossed for Rs 53.9 million and its shares sold at Rs 77 and Agarapathana Plantations 6.5 million shares crossed to the tune of Rs 49 million; its shares fetched Rs 7.50.
+
+...
+
+[Data](articles/5595bbf1.json)
 
 ---
 
@@ -2115,145 +2227,5 @@ Police have also arrested a member of the Tunukudicuwara Premayana, a member of 
 [Data](articles/81bbea3d.json)
 
 [Extended Data](ext_articles/81bbea3d.ext.json)
-
----
-
-### Appeals Court quashes findings, recommendations of political victimisation commission
-
-*2024-03-25 15:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98194/appeals-court-quashes-findings-recommendations-of-political-victimisation-commission) · `en`
-
-The Court of Appeals has issued a writ order quashing the recommendations and findings of the Commission of Inquiry to Investigate Allegations of Political Victimization, against a group of individuals including President Ranil Wickremesinghe and National People’s Power (NPP) leader Anura Kumara Dissanayake.
-
-The relevant order was issued by a three-member judge bench led by the President of the Court of Appeal, Justice Nissanka Bandula Karunaratne.
-
-The three-member Presidential Commission of Inquiry was appointed by then President Gotabaya Rajapaksa on January 20, 2020 in order to inquire into allegations of political victimization in the wake of investigations conducted by the Commission to Investigate Allegations of Bribery or Corruption, FCID, CID and the Special Investigation Unit of the Police from January 8, 2015 to November 16, 2019.
-
-◼️
-
-[Data](articles/01901cef.json)
-
-[Extended Data](ext_articles/01901cef.ext.json)
-
----
-
-### The government focuses on changing school education and exam mode: the President
-
-*2024-03-25 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179675) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of modern technology, including AI, in education and announced a "2024 School Food Program" to provide nutritional food to all schoolchildren. The program aims to reduce nutrition problems, improve health habits, and strengthen the country's economy by creating jobs.
-
-🟩
-
-President Ranil Wickremesinghe pointed out that the children of the country should be preserved as they should be given a lesson and prepared for exams.
-
-The President also said that the children should be given modern technology, including artificial intelligence, and that the government is focused on changing school education and exam systems.
-
-President Ranil Wickremesinghe, who was present at the inauguration of the "2024 School Food Program" held at the Sujatha Ladies' College, Narahenpitiya.
-
-The Ministry of Education has taken steps to provide nutritional food to all schoolchildren from grade 1-5 in the country.
-
-President Ranil Wickremesinghe has issued a directive to provide this breakfast at the time of 7.30 am and 8.30 am before students engage in educational activities in view of the recommendations of nutrition experts.
-
-...
-
-[Data](articles/c2b6d431.json)
-
-[Extended Data](ext_articles/c2b6d431.ext.json)
-
----
-
-### CID official who led Easter attack probe to head NPP’s Retired Police Forum: AKD
-
-*2024-03-25 15:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-official-who-led-Easter-attack-probe-to-head-NPPs-Retired-Police-Forum-AKD/108-279557) · `en`
-
-Colombo, March 25 (Daily Mirror)- Claiming that the CID official who led the investigations into the Easter Sunday attacks will head the National People's Power's (NPP's) Retired Police Forum which is to be launched this May, NPP leader Anura Kumara Dissanayake said they will implement law against those who were responsible for the attacks.
-
-Speaking at a meeting with the Sri Lankan community in Vancouver, Canada, he said there was no need for fresh investigations into the Easter Sunday bombings and that several issues that had arisen through investigations need to be ascertained.
-
-"The CID officials who conducted investigations into the easter Sunady bombings are now retired and working with the NPP. The CID cheif who led the investigations will head the Retired Police Forum which is to be launched this May. We will mete out justice to the victims and bring the culprits to book," he said.
-
-...
-
-[Data](articles/b6901528.json)
-
-[Extended Data](ext_articles/b6901528.ext.json)
-
----
-
-### Court of Appeal about Ranil, Anura and several others
-
-*2024-03-25 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194911) · `si`
-
-The Court of Appeal issued a writ against Ranil Wickremesinghe and Anura Kumara Dissanayake, decided by Judge Nissankula Karunaratne and a two-member panel.
-
-🟩
-
-The Court of Appeal has issued a writ command by the Presidential Ranil Wickremesinghe and the President of the National Power Anura Kumara Dissanayake.
-
-The decision has been given by a three-member Court of Appeal of the Court of Appeal Judge Nissankula Karunaratne.
-
-◼️
-
-[Data](articles/8e4ffa27.json)
-
-[Extended Data](ext_articles/8e4ffa27.ext.json)
-
----
-
-### Sirisena gives statement to CID on Sri Lanka Easter bombings claim
-
-*2024-03-25 15:28:00* · [`economynextcom`](https://economynext.com/sirisena-gives-statement-to-cid-on-sri-lanka-easter-bombings-claim-155951/) · `en`
-
-ECONOMYNEXT — Sri Lanka former president Maithripala Sirisena has given a statement to the Criminal Investigations Department on a claim he made that he had information on who was behind the 2019 Easter bombings.
-
-Sri Lanka Freedom Party (SLFP) general secretary Sarathi Dushmantha confirmed reporters gathered outside the CID premises Monday March 25 morning that Sirisena was inside making a statement.
-
-“He will make his statement. Any action going forward will depend on the statement. I don’t believe there is any problem. He has no need to hide anything. He has come directly to the CID to make his statement,” said Dushmantha.
-
-“As a country, I think that’s what everyone expects,” he said.
-
-Dushmantha said Sirisena has “200 percent support” from the SLFP, the party Sirisena leads.
-
-Asked why Sirisena waited three weeks to reveal to the public that he had information on the mastermind behind the attack, Dushmantha said: “He will talk about that in his statement. We don’t know about it.”
-
-...
-
-[Data](articles/69b52ec4.json)
-
-[Extended Data](ext_articles/69b52ec4.ext.json)
-
----
-
-### School meal programme launched
-
-*2024-03-25 15:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/School-meal-programme-launched/110-279555) · `en`
-
-The official event to mark the beginning of the 2024 school meal programme was held today (25) at the Sujatha Girls' College in Narahenpita under the patronage of President Ranil Wickremesinghe and with the participation of Education Minister Susil Premajayantha.
-
-◼️
-
-[Data](articles/59fe336d.json)
-
-[Extended Data](ext_articles/59fe336d.ext.json)
-
----
-
-### HC to deliver order on Keheliya’s revision petition seeking bail
-
-*2024-03-25 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/98193/hc-to-deliver-order-on-keheliyas-revision-petition-seeking-bail) · `en`
-
-The Colombo High Court has decided to deliver the order over the revision application filed by former Health Minister Keheliya Rambukwella seeking to be released on bail, on April 03 2024.
-
-This order was issued by Colombo High Court judge Sujeewa Nissanka, when the relevant petition was taken up for consideration today (25).
-
-The attorneys representing Rambukwella, who is in remand custody in connection with the substandard human intravenous immunoglobulin (IVIG) procurement, submitted the revision bail application to the Colombo High Court on March 15 after the Maligakanda Magistrate’s Court had rejected bail for the former Health Minister, the former health secretary and 4 other accused in the case.
-
-Furthermore, the magistrate had ordered them to be remanded in custody until the conclusion of the case under the provisions of the Public Property Act and fixed the case to be recalled on March 28.
-
-...
-
-[Data](articles/d8badfaf.json)
-
-[Extended Data](ext_articles/d8badfaf.ext.json)
 
 ---

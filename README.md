@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 07:56:20**
+As of **2024-03-26 08:04:25**
 
 ## Newspaper Stats
 
-*Scraped **15,168** Articles*
+*Scraped **15,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 818
 economynextcom | 818
 islandlk | 843
 adalk | 1,291
-adaderanalk | 1,820
+adaderanalk | 1,822
 tamilmirrorlk | 1,822
 virakesarilk | 2,127
 dailymirrorlk | 2,341
@@ -26,21 +26,59 @@ adaderanasinhalalk | 2,434
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,164 (100.0%) of 15,168 articles have been extended.
+15,168 (100.0%) of 15,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### මහ බැංකු පොලී අනුපාත තවදුරටත් පහළට
+### Sri Lanka Central Bank further reduces policy rates
+
+*2024-03-26 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98205/sri-lanka-central-bank-further-reduces-policy-rates) · `en`
+
+The Monetary Policy Board of the Central Bank of Sri Lanka (CBSL) has decided to reduce the Standing Deposit Facility Rate (SDFR) and the Standing Lending Facility Rate (SLFR) of the Central Bank by 50 basis points (bps) to 8.50 per cent and 9.50 per cent, respectively.
+
+The Board said it arrived at this decision at its meeting held on 25 March 2024 following a comprehensive assessment of current and expected domestic and international economic developments, to maintain inflation at the targeted level of 5 per cent over the medium term, while enabling the economy to reach its potential.
+
+...
+
+[Data](articles/94745cf3.json)
+
+---
+
+### UN Security Council demands immediate ceasefire in Gaza after US abstains
+
+*2024-03-26 07:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98204/un-security-council-demands-immediate-ceasefire-in-gaza-after-us-abstains) · `en`
+
+UNITED NATIONS (Reuters) - The United Nations Security Council on Monday demanded an immediate ceasefire between Israel and Palestinian militants Hamas and the immediate and unconditional release of all hostages after the United States abstained from the vote.
+
+The remaining 14 council members voted for the resolution, which was proposed by the 10 elected members of the body.
+
+Washington had been averse to the word ceasefire earlier in the nearly six-month-old war in the Gaza Strip and had used its veto power to shield U.S. ally Israel as it retaliated against Hamas for an Oct. 7 attack that Israel says killed 1,200 people.
+
+But amid growing global pressure for a truce in the war that has killed more than 32,000 Palestinians, the U.S. abstained from the vote on Monday to allow the Security Council to demand an immediate ceasefire for the month of Muslim fasting month of Ramadan, which ends in two weeks.
+
+...
+
+[Data](articles/319f1e87.json)
+
+---
+
+### Central Bank interest rates further down
 
 *2024-03-26 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194935) · `si`
 
-ශ්‍රී ලංකා මහ බැංකුව සිය ප්‍රතිපත්ති පොලී අනුපාතිකය තවදුරටත් අඩු කිරීමට තීරණය කර තිබේ.
+The Central Bank has reduced its policy interest rate.
+
+🟩
+
+The Central Bank has decided to further reduce its policy interest rate.
 
 ◼️
 
 [Data](articles/6d7be075.json)
+
+[Extended Data](ext_articles/6d7be075.ext.json)
 
 ---
 
@@ -62,29 +100,39 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 [Data](articles/50ef8c4a.json)
 
+[Extended Data](ext_articles/50ef8c4a.ext.json)
+
 ---
 
-### ගාසා තීරයේ හදිසි සටන් විරාමයක් සඳහා පළමුවරට ආරක්ෂක මණ්ඩල යෝජනාවක් සම්මතයි
+### A Security Council proposal passed for first ceasefire in Gaza
 
 *2024-03-26 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194934) · `si`
 
-ගාසා තීරයේ සටන් විරාමයක් වහාම ක්‍රියාත්මක කිරීම සඳහා එක්සත් ජාතීන්ගේ ආරක්ෂක කවුන්සිලය යෝජනාවක් සම්මත කර තිබේ.
+The UN Security Council passed a ceasefire proposal for Gaza, with Hamas requesting hostage release. Despite US opposition, Israel's Netanyahu office advocated for change. Critics argue this signals a rift between Israel and the US.
 
-කොන්දේසි විරහිතව ප්‍රාණ ඇපකරුවන් නිදහස් කරන ලෙස ද එමඟින් හමාස් සංවිධානයෙන් ඉල්ලීමක් කර ඇති බව වාර්තා වෙයි.
+🟩
 
-පසුගිය වසරේ ඔක්තෝබර් මාසයේ ගාසා තීරයේ මෙහෙයුම් ආරම්භ කිරීමෙන් පසු ආරක්ෂක කවුන්සිලය වෙත යෝජනා කිහිපයක් ඉදිරිපත් වුව ද අමෙරිකාව ඇතුළු රටවල නිෂේද බලය හමුවේ ඒවා සම්මත වූයේ නැහැ.
+The United Nations Security Council has passed a proposal to immediately implement a ceasefire at Gaza.
 
-කෙසේවුවද ඊයේ (25) ඉදිරිපත් වූ යෝජනාවට අමෙරිකාව ඡන්දය දීමෙන් වැළකී සිටි අතර ඊට එරෙහිව නිෂේධ බලය භාවිත නොකිරීම ද විශේෂත්වයක් වේ.
+It is reported that the Hamas has also requested the release of unconditional hostages.
 
-අමෙරිකාවේ ස්ථාවරය වෙනස් වීම සම්බන්ධයෙන් ඊශ්‍රායල අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහුගේ කාර්යාලය කනස්සල්ල පළකර තිබේ.
+After the opening operations in Gaza last year, several proposals to the Defense Council were not passed in the United States, but in the face of the United States.
 
-ඊශ්‍රායල් - අමෙරිකානු නියෝජිතයින් පිරිසක් මේ සතියේ වොෂිංටන්හිදී පැවැත්වීමට නියමිතව තිබූ සාකච්ඡාව අවලංගු කිරීමට ද ඊශ්‍රායලය පියවර ගෙන තිබේ.
+However, the US has avoided the proposal yesterday (25th) and the US is not used against it.
 
-ඊශ්‍රායලය සහ අමෙරිකාව අතර පවතින විරසකභාවය පිළිබඳ සංඥාවක් මෙමඟින් ලැබී ඇති බව විචාරකයින් පවසයි.
+Israeli Prime Minister Benjamin Netanyahu's office has worked for the change in the United States.
 
-...
+Israel has also taken steps to cancel the discussion on Washington this week.
+
+Critics say that this has received a signal of ancientity between Israel and the US.
+
+However, UN Palestinian Representative Riyadh Mansoor, who accepted this proposal, said that the resolution was delayed when more than 100,000 IDPs were killed.
+
+◼️
 
 [Data](articles/7239cac3.json)
+
+[Extended Data](ext_articles/7239cac3.ext.json)
 
 ---
 
@@ -428,21 +476,27 @@ During the argument over the bus run, police said that a private bus driver, the
 
 ---
 
-### ’தேர்தல் ஒத்திவைக்கப்பட மாட்டாது’
+### Model election will not be postponed
 
 *2024-03-26 00:21:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-ஒத்திவைக்கப்பட-மாட்டாது/175-335188) · `ta`
 
-பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டுள்ள தேர்தல் திருத்தச் சட்டமூலங்களின் ஊடாக எந்தவொரு தேர்தலையும் பிற்போட எதிர்பார்க்கவில்லையென நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+Vijayadasa Rajapaksa, Minister of Justice, clarified that the Elections amendment filed in Parliament will not postpone the upcoming elections. Despite community speculation, the amendments are not expected to delay the elections. Two future elections will allow candidates to express their views on the amendment, leaving the public to decide.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-இதுவரையில் முன்வைக்கப்பட்ட தேர்தல் திருத்தங்கள் மூலம் தேர்தலை ஒத்திவைக்கும் திட்டம் இருப்பதாக சமூகத்தில் சில பேச்சுக்கள் எழுந்துள்ளன. ஆனால் இந்தத் திருத்தங்கள் மூலம் தேர்தலை ஒத்திவைக்க எதிர்பார்க்கப்படவில்லை என்பதை கவனத்தில் கொள்ள வேண்டும்.
+Minister of Justice, Prison Affairs and Constitutional Reforms Vijayadasa Rajapaksa said that no election is expected to be delayed through the Elections amendment filed in Parliament.
 
-எதிர்காலத்தில் இரண்டு தேர்தல்கள் நடைபெறவுள்ளன. அதன் போது எந்தவொரு வேட்பாளரும் இந்த தேர்தல் திருத்தம் குறித்து தங்கள் கருத்தை தெரிவிக்கலாம். பொதுமக்களுக்கும் இது தொடர்பாக தமது முடிவை எடுக்க முடியும் என்றார். (a)
+He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
+
+There have been some talks in the community that there is a plan to postpone the election through the election amendments.. But it is important to note that these amendments are not expected to postpone the election.
+
+There will be two elections in the future. At the time, any candidate can make their opinion on this election amendment. He said the public could make their decision on this. (A)
 
 ◼️
 
 [Data](articles/0b71859c.json)
+
+[Extended Data](ext_articles/0b71859c.ext.json)
 
 ---
 
@@ -2199,45 +2253,5 @@ He made a statement on Monday (25) following an invitation by the Criminal Inves
 [Data](articles/2298783d.json)
 
 [Extended Data](ext_articles/2298783d.ext.json)
-
----
-
-### Change of Police Officer
-
-*2024-03-25 16:33:54* · [`adalk`](https://www.ada.lk/breaking_news/වෙනස්වූ-පොලිස්-නිළ-ඇඳුම/11-408789) · `si`
-
-Thirty police officers in Anuradhapura introduced a new white uniform. They blessed the Pallegama Hemarathana Thera and Pirith Arts, led by Hon. Atamastatiadiadia Thera.
-
-🟩
-
-Thirty police officers and officers in the courtyard in the inner courtyard of the courtyard of the Wayamba of Anuradhapura was introducing a white new police uniform.
-
-The police officers and officials began working in new uniform and committed the Pallegama Hemarathana Thera and blessed the Pirith Arts.
-
-The Atamastatiadiadia Thera was carried out by Hon.
-
-◼️
-
-[Data](articles/6f85b4f3.json)
-
-[Extended Data](ext_articles/6f85b4f3.ext.json)
-
----
-
-### Shavendra in Kenya explores defence ties in multiple ties including counterterrorism
-
-*2024-03-25 16:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shavendra-in-Kenya-explores-defence-ties-in-multiple-ties-including-counterterrorism/108-279559) · `en`
-
-Chief of Defense Staff General Shavendra Silva of Sri Lanka held talks with Chief of Defense Forces of Kenya General Francis Ogolla in Nairobo and explored cooperation in areas such as counterterrorism.
-
-The visit marks a pivotal moment in the diplomatic ties between the two nations, signifying a mutual commitment to enhancing defense cooperation and strategic partnerships.
-
-He was accompanied by Sri Lankan High Commissioner in Kenya Kana Kananathan, General Silva who engaged in extensive discussions with Kenyan defense officials, focusing on areas of mutual interest and shared security challenges.
-
-...
-
-[Data](articles/b2a9b2f0.json)
-
-[Extended Data](ext_articles/b2a9b2f0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 12:49:26**
+As of **2024-03-26 13:03:05**
 
 ## Newspaper Stats
 
-*Scraped **15,236** Articles*
+*Scraped **15,237** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 819
 economynextcom | 821
 islandlk | 843
 adalk | 1,296
-adaderanalk | 1,828
+adaderanalk | 1,829
 tamilmirrorlk | 1,836
 virakesarilk | 2,140
 dailymirrorlk | 2,351
@@ -26,45 +26,57 @@ adaderanasinhalalk | 2,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,229 (100.0%) of 15,236 articles have been extended.
+15,236 (100.0%) of 15,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### හමාස් නායකයා ඉරානයට
+### Hamas leader to Iran
 
 *2024-03-26 12:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194949) · `si`
 
-හමාස් නායක ඉස්මයිල් හනියේ අද (26) ඉරානයට යෑමට නියමිත බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+Hamas leader arrives in Iran today for talks with Iranian authorities, marking his second visit since Israeli conflicts began. He expressed views on a UN Security Council resolution on Gaza.
 
-ඉරාන බලධාරීන් සමග සාකච්ඡා පැවැත්වීම සඳහා ඔහු එරටට යන බව සඳහන් වෙයි.
+🟩
 
-ඔක්තෝබර් 07 වනදා හමාස් - ඊශ්‍රායල ගැටුම් ආරම්භ වීමෙන් අනතුරුව හමාස් නායකයා ඉරානය ට යන දෙවැනි අවස්ථාව මෙය වෙයි.
+International media reports that Hamas leader is due to arrive in Iran today (26).
 
-ගාසා තීරයේ ගැටුම් සඳහා වහාම සටන් විරාමයක් අවශ්‍ය බවට එක්සත් ජාතීන්ගේ ආරක්ෂක කවුන්සිලය ඊයේ සම්මත කළ යෝජනාව සම්බන්ධයෙන් ද හමාස් නායකයා සිය ප්‍රසාදය ප්‍රකාශ කර ඇති බව සඳහන් ය.
+It is said that he is going to Sri Lanka to hold talks with Iranian authorities.
+
+Hamas on October 7, Hamas leader is the second time Hamas leader is on Iran after the commencement of Israeli conflicts.
+
+The Hamas Leader also expressed his views on the proposal to be passed yesterday that the United Nations Security Council was adopted yesterday to clash at Gaza.
 
 ◼️
 
 [Data](articles/a0e89a78.json)
 
+[Extended Data](ext_articles/a0e89a78.ext.json)
+
 ---
 
-### ජාතික අවම වැටුප වැඩිකෙරේ
+### National minimum salary grows
 
 *2024-03-26 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194948) · `si`
 
-ජාතික අවම වැටුප රුපියල් 5000කින් වැඩි කිරීම සඳහා ජාතික අවම වේතන පනත සංශෝධනය කිරීමට කම්කරු හා විදේශ රැකියා අමාත්‍යවරයා විසින් ගෙන ආ යෝජනාවට කැබිනට් අනුමැතිය හිමිව තිබේ.
+The Labor and Foreign Employment proposal to increase the National Minimum Salary by Rs 5,000, from Rs 12,500 to Rs 17,500, and revise the National Minimum daily salary from Rs 500 to Rs 700, was recommended by a tripartite sub-committee appointed by the National Labor Advisory Council.
 
-ඒ අනුව මේ වනවිට පවතින ජාතික අවම වැටුප රුපියල් 12,500 සිට රුපියල් 17,500 දක්වා ඉහළ යනු ඇත.
+🟩
 
-ජාතික අවම දෛනික වැටුප රුපියල් 500 සිට රුපියල් 700 දක්වා රුපියල් 200කින් ඉහළ දැමීමටද හැකිවන පරිදි එම පනත සංශෝධනය කිරීමටද මෙහිදී නිර්දේශ කර ඇත.
+The proposal of the Labor and Foreign Employment Aimed at Amendment to the National Minimum Way to increase the National Minimum Relationship by Rs 5,000.
 
-ජාතික කම්කරු උපදේශක සභාවේ නිර්දේශ මත පත්කරන ලද කුඩා හා මාධ්‍ය පරිමාණ ව්‍යවසායකයින් නියෝජනය කරන වෘත්තීය සමිති සහ සේවායෝජකයින් ඇතුළත් ත්‍රෛපාර්ශ්වික අනුකමිටුවක් මගින් මෙම වැටුප් ඉහළදැමීම් නිර්දේශ කර තිබේ.
+Accordingly, the national minimum salary will be increased from Rs.12,500 to Rs.
+
+The National Minimum daily salary is also recommended to revise the National Minimum No. of Rs. 500 to Rs 700 rupees.
+
+These salary increments have been recommended by a tripartite sub-committee representing Small and Employers who have been appointed on the recommendations of the National Labor Advisory Council.
 
 ◼️
 
 [Data](articles/e26663da.json)
+
+[Extended Data](ext_articles/e26663da.ext.json)
 
 ---
 
@@ -86,53 +98,99 @@ In addition, the minimum daily wage of workers is proposed to be raised from Rs.
 
 [Data](articles/3472c528.json)
 
+[Extended Data](ext_articles/3472c528.ext.json)
+
 ---
 
-### கோட்டை நீதவானை கொல்ல சதி
+### National minimum monthly wage to be increased by Rs. 5,000
+
+*2024-03-26 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98211/national-minimum-monthly-wage-to-be-increased-by-rs-5000) · `en`
+
+The Cabinet of Ministers has given its approval to amend the National Minimum Wage of Workers Act No. 03 of 2016 to increase the minimum monthly wage and daily wage of all workers in any industry.
+
+This was recommended by the tripartite sub-committee of trade unions representing Small- and Medium-Sized Enterprises (SMEs) and employees appointed by the National Labour Advisory Council.
+
+The relevant proposal was presented to the Cabinet meeting held on Monday (March 25) by Minister of Labour and Foreign Employment Manusha Nanayakkara.
+
+Accordingly, it is proposed to increase the minimum monthly wage by Rs. 5,000, to Rs. 17,500.
+
+In addition, the minimum daily wage of workers is proposed to be raised from Rs. 500 to Rs. 700.
+
+◼️
+
+[Data](articles/9d8d6796.json)
+
+---
+
+### Conspiracy to kill the fort magazine
 
 *2024-03-26 12:30:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோட்டை-நீதவானை-கொல்ல-சதி/175-335213) · `ta`
 
-கோட்டை நீதவான் திலின கமகேவை கொலை செய்வதற்கான சதித்திட்டம் தொடர்பில் துரித விசாரணைகளை மேற்கொள்ளுமாறு பொலிஸ் மா அதிபர் தேசபந்து தென்னகோனுக்கு பொது பாதுகாப்பு அமைச்சர் டிரான் அலஸ் பணிப்புரை விடுத்துள்ளார்.
+Public Safety Minister Tran Ales directed the Inspector General of Police to investigate a conspiracy to assassinate Fort Magistrate Thilina Kamage. The Criminal Investigation Department is conducting a detailed inquiry into the matter, including the involvement of a person who reportedly sought a gun to kill the magistrate, as detailed in a letter.
 
-கோட்டை நீதவான் திலின கமகேவை  T81 கிரனேட் லாஞ்சர் மூலம் தாக்குதல். நடத்தி கொலை செய்ய முயற்சிப்பதாக தகவல் வழங்கிய கடிதம் தொடர்பில் பொது பாதுகாப்பு அமைச்சரின் பணிப்புரைக்கு அமைய விரிவான விசாரணைகளை மேற்கொள்ளுமாறு பொலிஸ் மா அதிபரிடம் பணிப்புரை பெற்றுள்ளதாக குற்றப்புலனாய்வு திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-நீதவானை கொல்வதற்காக ஒருவர் தொலைபேசி மூலம் இந்தத் துப்பாக்கியைக் கோரியதாக தகவல் கொடுத்தவர் கடிதத்தில் குறிப்பிட்டுள்ளதாக கூறப்படுகிறது. அந்த உளவு கடிதத்தில் துப்பாக்கியை பெற்றுக்கொள்ள அழைப்பு விடுத்த நபரின் தொலைபேசி இலக்கமும் குறிப்பிடப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+Public Safety Minister Tran Ales has issued a directive to the Inspector General of Police, Patriot Tenkoon, to investigate the conspiracy to assassinate Fort Magistrate Thilina Kamage.
+
+Attack by Fort Magistrate Thilina Kamage. The Criminal Investigation Department has said that the Inspector General of Police has received a directive to conduct a detailed inquiry into the letter of the Public Security Minister regarding the letter of attempting to kill.
+
+The person who reported that the gun was sought by phone to kill the magistrate is said to have been mentioned in the letter. It is also reported that the telephone number of the person who was invited to get the gun in the spy letter was also mentioned.
 
 ◼️
 
 [Data](articles/a07a9a84.json)
 
+[Extended Data](ext_articles/a07a9a84.ext.json)
+
 ---
 
-### இலங்கையின் வருமானத்தில் சுற்றுலாத்துறையின் பங்களிப்பு
+### Tourism's contribution to Sri Lanka's income
 
 *2024-03-26 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179732) · `ta`
 
-இலங்கையின் வருமானத்தில் சுற்றுலாத்துறை மற்றும் வெளிநாட்டு வேலைவாய்ப்பு என்பன பாரிய பங்களிப்பை வழங்கி வருகின்றது. 2018 ஆம் ஆண்டு இலங்கையின் முக்கிய ஏற்றுமதி மூலங்களாகவிருந்த ஆடை, தேயிலை மற்றும் இறப்பர் உற்பத்திகள் ஆகியவற்றுக்கு அதிகமாக சுற்றுலாத்துறையின் மூலம் அதிக வருமானம் பெற்றுக்கொள்ளப்பட்டிருந்தது. 2020 ஆம் ஆண்டுக்குப் பின்னர் இலங்கையில் ஏற்பட்ட கொவிட் தொற்று காரணமாக நாடு முடக்கப்பட்டமை, அரசியல் மற்றும் பொருளாதார நெருக்கடி என்பவற்றினால் இலங்கையின் வருமானம் குறைந்து கடன் தொகை அதிகரிக்கும் நிலை ஏற்பட்டிருந்தது. இந்நிலையில் இலங்கைக்கு வருமானத்தை அதிகரிக்கும் வகையில் சுற்றுலாத்துறையை ஊக்குவிக்கும் செயற்பாடுகள் தற்போது முன்னெடுக்கப்பட்டுள்ளன.
+Tourism significantly boosts Sri Lanka's income, with 2018 earnings peaking at 4380.6 million dollars. However, the COVID-19 pandemic led to a sharp decline in tourism revenue, impacting the country's economy. Despite challenges, the tourism sector is crucial for Sri Lanka's foreign currency income, with a slight recovery observed post-2020.
+
+🟩
+
+Tourism and foreign employment contributes a huge contribution to Sri Lanka's income. In 2018, Sri Lanka's main export sources have earned more income through tourism, tea and rubber products.. Sri Lanka's revenues have been reduced due to the disabbling of the country due to a boom infection in Sri Lanka since 2020.. At this juncture, the tourism industry has now been carried out to increase the income of Sri Lanka.
+
+Based on the data of the Central Bank of Sri Lanka, the tourism industry has seen the development of the 2009 civil war in Sri Lanka.. In 2009, Sri Lanka received $ 349.6 million in revenue in the next five years, with 2431.1 million dollars in 2014.. This is an increase of 5.95 percent.
+
+Since 2009, the Sri Lankan tourism industry has continued to increase. Sri Lanka received a maximum of 4380.6 million dollars in 2018.
 
 ...
 
 [Data](articles/b51b5b42.json)
 
+[Extended Data](ext_articles/b51b5b42.ext.json)
+
 ---
 
-### ஒன்லைன் அச்சுறுத்தலாயின் உதவியை நாடுங்கள்
+### Seek the help of an online threat
 
 *2024-03-26 12:16:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-அச்சுறுத்தலாயின்-உதவியை-நாடுங்கள்/175-335212) · `ta`
 
-இணையம் ஊடாக பல்வேறு அச்சுறுத்தல்களை எதிர்நோக்கும் பொதுமக்கள் பொலிஸ் கணினி குற்றப் புலனாய்வுப் பிரிவின் உதவியை நாடுமாறு கோரப்பட்டுள்ளது.
+The public is urged to report online threats to the Police Computer Criminal Investigation Division. Complaints can be lodged via email or the emergency call of the Bureau of 109. A 21-year-old from Hikkaduwa was arrested for harassing a woman on Facebook, leading to his arrest.
 
-இணையம் ஊடாக தனிநபர்களிடமிருந்து பல்வேறு துன்புறுத்தல்கள் மற்றும் அச்சுறுத்தல்களுக்கு முகம் கொடுப்பவர்கள் பொலிஸ் கணினி குற்றப் புலனாய்வுப் பிரிவில் முறைப்பாடு செய்ய முடியும் என பொலிஸ் ஊடகப் பேச்சாளர், பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+🟩
 
-உதவி தேவைப்படுவோர் dir.ccid@police.gov.lk என்ற மின்னஞ்சல் ஊடாக முறைப்பாடு செய்யலாம் என அவர் ஊடகங்களுக்கு கருத்து தெரிவித்தார்.
+The public, which is facing various threats through the Internet, has been requested to seek the help of the Police Computer Criminal Investigation Division.
 
-24 மணி நேரமும் செயல்படும் 109 என்ற சிறுவர் மற்றும் பெண்கள் பணியகத்தின் அவசர அழைப்பு மூலமாகவும் முறைப்பாடுகளை பதிவு செய்யலாம் என்று அவர் மேலும் கூறினார்.
+Police Media Spokesperson and Deputy Inspector General of Police Nihal Talduwa said that those who face various harassment and threats from individuals via the Internet can lodge a complaint with the Police Computer Criminal Investigation Division.
 
-ஹிக்கடுவையைச் சேர்ந்த 21 வயதுடைய இளைஞன் பேஸ்புக் ஊடாக யுவதியொருவரை துன்புறுத்தியதற்காக கைது செய்யப்பட்டதை அடுத்து, பொலிஸ் ஊடகப் பேச்சாளர் இந்த உதவி இலக்கங்களை வெளிப்படுத்தினார்.
+He told the media that those who need help can complain via e -mail dir.ccid@police.gov.lk.
+
+He added that the complaints can be lodged by the emergency call of the Bureau of 109, which operates 24 hours a day.
+
+The 21 -year -old youth from Hikkaduwa was arrested for allegedly harassing a woman via Facebook, police media spokesman revealed these assistant numbers.
+
+The young man has repeatedly urged the woman to marry her. She then sent a link to her, claiming that the girl's photos were uploaded to the Internet, and asked her to send her a link to her boyfriend.
 
 ...
 
 [Data](articles/7545b1cb.json)
+
+[Extended Data](ext_articles/7545b1cb.ext.json)
 
 ---
 
@@ -192,21 +250,27 @@ In addition, the couple has been detained by the customs officials and the anima
 
 ---
 
-### මත්පැන් මිල ගැන අලුත් ආරංචියක්
+### New news for alcohol price
 
 *2024-03-26 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194947) · `si`
 
-එළැඹෙන සිංහල හා හින්දු අලුත් අවුරුද්දට පෙර මත්පැන් මිල පහත හෙළීම සඳහා උත්සාහ ගන්නා බව ප්‍රාථමික කර්මාන්ත රාජ්‍ය අමාත්‍ය චාමර සම්පත් දසනායක මහතා පවසයි.
+Chamara Sampath Dasanayake, Minister of Primary Industries, announced plans to reduce alcohol prices ahead of the Sinhala and Hindu New Year. He expressed hope for a decrease in alcohol consumption, citing a lack of popular support for such measures.
 
-බදුල්ල ප්‍රදේශයේදී මාධ්‍ය වෙත අදහස් දක්වමින් රාජ්‍ය අමාත්‍යවරයා මේ බව පැවසීය.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ රාජ්‍ය අමාත්‍ය චාමර සම්පත් දසනායක මහතා,
+Primary Industries Minister of Primary Industries Chamara Sampath Dasanayake says that alcohol prices are trying to download alcohol prices before the coming Sinhala and Hindu New Year.
 
-"මත්පැන් අඩුකරන්න ඕන බඩුමිල අඩුවෙන්න ඕන. හැමදෙයක්ම අඩුවෙන්න ඕන. විශේෂයෙන්ම මත්පැන් මිලත් අවුරුද්දට ඉස්සරවෙලා අඩුකරගන්න තමයි අපි බලාපොරොත්තු වෙන්නේ. අපි ජනප්‍රිය තීන්දු මෙච්චර කල් ගත්තෙත් නෑ ගන්නෙත් නෑ. ජනප්‍රිය තීන්දු ගන්න ගිහිල්ලා තමයි අපි පහුගිය කාලේ ඩොලර් 200ට වැටිලා මේ රට අන්ධපකීර් වෙලා කෙළවගත්ත වෙලාව මතකයි නේ ඔයගොල්ලන්ට. ඒ හින්දා ජනප්‍රිය තීන්දු ගන්නේ නෑ."
+Speaking to the media in Badulla, the public minister said.
+
+Speaking further, State Minister Chamara Sampath Dasanayake
+
+"The boil should be reduced to reduce alcohol. Everyone wants to reduce. We hope that alcohol too long as the year a year before the year. We don't have popular verbs so far. You have come to get popular decisions and the country is blind to the blind,. That is why there is no popular decisions. "
 
 ◼️
 
 [Data](articles/15e04e27.json)
+
+[Extended Data](ext_articles/15e04e27.ext.json)
 
 ---
 
@@ -2201,21 +2265,5 @@ Vogue Jewellers makes second donation to WWCT for leopard conservation in Sri La
 [Data](articles/2c2edc9a.json)
 
 [Extended Data](ext_articles/2c2edc9a.ext.json)
-
----
-
-### Union Bank appoints Dinesh Weerakkody to the Board
-
-*2024-03-25 22:09:00* · [`islandlk`](http://island.lk/union-bank-appoints-dinesh-weerakkody-to-the-board/) · `en`
-
-The Board of Directors of Union Bank of Colombo PLC announced the appointment of Dinesh Weerakkody a distinguished banker and financial advisor with vast experience as an Independent Non-executive Director, with effect from 01 April 2024.
-
-Dinesh Weerakkody is a former Chairman of Hatton National Bank PLC and Commercial Bank of Ceylon PLC and a Director of DFCC Bank. Mr. Weerakkody is the Vice Chairman of the Employers’ Federation of Ceylon, immediate Past Chairman of the International Chamber of Commerce, Sri Lanka and the Senior Vice Chairman of the Sri Lanka Institute of Directors of Sri Lanka and Director of several companies.
-
-...
-
-[Data](articles/f1047d1e.json)
-
-[Extended Data](ext_articles/f1047d1e.ext.json)
 
 ---

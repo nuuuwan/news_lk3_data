@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 19:33:26**
+As of **2024-03-26 19:51:44**
 
 ## Newspaper Stats
 
-*Scraped **15,331** Articles*
+*Scraped **15,336** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,122 @@ newsfirstlk | 363
 dailyftlk | 819
 economynextcom | 821
 islandlk | 845
-adalk | 1,308
+adalk | 1,309
 adaderanalk | 1,841
 tamilmirrorlk | 1,842
 virakesarilk | 2,165
-dailymirrorlk | 2,370
-adaderanasinhalalk | 2,463
+dailymirrorlk | 2,371
+adaderanasinhalalk | 2,466
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,328 (100.0%) of 15,331 articles have been extended.
+15,331 (100.0%) of 15,336 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### ஐக்கிய மக்கள் சக்தியில் இருந்து கேவலப்படாமல் மீண்டும் எம்முடன் இணைந்துகொள்ளுங்கள் - ரங்கே பண்டார
+### මහා බැංකු අධිපතිගෙන් රටටම සුබ පණිවුඩයක්
+
+*2024-03-26 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194970) · `si`
+
+ගෙවුණු වසරේ අවසන් කාර්තුවේ සියයට 4.5ක ආර්ථික වර්ධනයක් වාර්තා කිරීමත් සමඟ ඉදිරි මාස 12 තුළ මෙරට ආර්ථිකයේ ධනාත්මක වර්ධනයක් දැක ගත හැකි වනු ඇතැයි ශ්‍රී ලංකා මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා විශ්වාසය පළකරයි.
+
+ශ්‍රී ලංකා මහ බැංකුව අද විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් ආර්ථිකයේ වත්මන් තත්ත්වය පිළිබඳ කරුණු අනාවරණ කළේය.
+
+ලබා ඇති ප්‍රගතිය සැලකිල්ලට ගනිමින් මහ බැංකුවේ නිත්‍ය තැන්පතු පහසුකම් අනුපාතිකය සහ නිත්‍ය ණය පහසුකම් අනුපාතිකය පිළිවෙළින් 8.5% සහ 9.5% දක්වා පදනම් ඒකක 50කින් අඩු කිරීමටද මහ බැංකුව තීරණය කර තිබේ.
+
+මහ බැංකු නවතම වාර්තාවන්ට අනුව 2024 පෙබරවාරි මාසය අවසන් වන විට මෙරට නිල වත්කම් සංචිතය අමෙරිකානු ඩොලර් බිලියන 4.5ක්.
+
+වසරේ පළමු මාස දෙක තුළ ශ්‍රී ලංකාවට ලැබී ඇති විදේශ ප්‍රෙෂණ ප්‍රමාණය අමෙරිකානු ඩොලර් මිලියන 964ක් වන අතර, එම මාස 2 තුළ සංචාරක කර්මාන්තයෙන් උපයා ඇති ආදායම අමෙරිකානු ඩොලර් මිලියන 687කි.
+
+එමෙන්ම රුපියල 2024 වසරේ මේ දක්වා කාලය තුළ ඩොලරයට සාපේක්ෂව 6.7%කින් අධිප්‍රමාණය වී තිබේ.
+
+4% ත් 5% ත් අතර උද්ධමන ප්‍රතිශතයක් ඉදිරියේදී පවත්වාගෙන යාමට අපේක්ෂිතය.
+
+...
+
+[Data](articles/1e53c48d.json)
+
+---
+
+### Turkish Airlines increases flights from Istanbul to Colombo
+
+*2024-03-26 19:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Turkish-Airlines-increases-flights-from-Istanbul-to-Colombo/108-279646) · `en`
+
+Colombo, March 26 (Daily Mirror) - Turkish Airlines announced a significant enhancement in its flight services with the addition of its sixth weekly flight between Istanbul and Colombo.
+
+Effective 14th May 2024, Turkish Airlines will be increasing its weekly flights from Istanbul to Colombo, offering passengers more flexibility and convenience in their travel plans.
+
+This strategic decision comes as part of Turkish Airlines’ commitment to meeting the growing demand for air travel between the two destinations and offering the best possible connection to those who are travelling to Istanbul and beyond.
+
+Offering a seamless travel experience in both its full-flat bed business cabin and economy cabin in its wide-body aircraft, Turkish Airlines is known for its unparalleled levels of service excellence and exquisite culinary offerings on board while connecting travellers to 130 countries around the world.
+
+...
+
+[Data](articles/8a836fb6.json)
+
+---
+
+### මුදල් සොරකමකට බැංකු ලොක්කියක් අත්අඩංගුවට
+
+*2024-03-26 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194969) · `si`
+
+රුපියල් මිලියන 37කට අධික මුදලක් වංචා කළ මීගමුවේ පෞද්ගලික බැංකුවක සහකාර කළමනාකාරවරියක් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මූල්‍ය හා වාණිජ විමර්ශන ඒකකය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+පෞද්ගලික බැංකුවේ විවිධ ගිණුම්වලින් 2022 වසරේ සිට රුපියල් මිලියන 37ක පමණ මුදලක් නීති විරෝධීව පෞද්ගලික බැංකු ගිණුමකට හුවමාරු වී ඇති බවට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ මූල්‍ය හා වාණිජ විමර්ශන ඒකකයට පැමිණිල්ලක් ලැබී තිබුණි.
+
+ඒ අනුව සිදුකළ විමර්ශනයකින් අනතුරුව හෙළිවී ඇත්තේ එම බැංකුවේ සහකාර කළමනාකාරවරිය විසින් අදාළ නීතිවිරෝධී මුදල් හුවමාරුව සිදුකර ඇති බවය.
+
+පාරිභෝගිකයින් ලංකා විදුලි පෞද්ගලික සමාගමට විදුලි බිල්පත් සඳහා ගෙවන මුදල් බැරවන ගිණුමකින්ද සැකකාරිය සිය සැමියාගේ ගිණුමට මුදල් බැරකර ඇති බව විමර්ශනවලදී අනාවරණ වී තිබේ.
+
+සැකකාරිය මෙලෙස  බැංකුවෙන් රුපියල් මිලියන 100ක පමණ මුදලක් වංචා කර ඇති බවට සැක කරන බව පොලීසිය සඳහන් කළේය.
+
+මෙම වංචාව අනාවරණ වීමත් සමග සැකකාරිය ඔස්ට්‍රේලියාව බලා පලායෑමට උත්සාහා කළ ද එය ව්‍යර්ථවී තිබුණි.
+
+...
+
+[Data](articles/12dea268.json)
+
+---
+
+### Join us again without being ridiculed from the United People's Power - Range Bandara
 
 *2024-03-26 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/179777) · `ta`
 
-ஐக்கிய தேசிய கட்சியில் இருந்து பிரிந்து ஐக்கிய மக்கள் சக்திக்கு சென்றவர்களுக்கு தற்போது அங்கு உரிய இடம் வழங்கப்படுவதில்லை. அதனால்  எமது நண்பர்கள் தொடர்ந்தும் அங்கிருந்து அசிங்கப்படாமல் தங்களின் தாய் வீட்டுக்கு மீண்டும் வருமாறு அழைப்பு விடுக்கிறேன். அவர்களுக்காக ஐக்கிய தேசிய கட்சியின் கதவு எப்போதும் திறந்தே இருக்கும் என ஐக்கிய தேசிய கட்சியின் பொதுச் செயலாளர் பாலித்த ரங்கே பண்டார தெரிவித்தார்.
+UNP General Secretary Palitha Range Bandara invites former UNP members to return, emphasizing the party's open door. He criticizes the United People's Power for not providing a place for those who left UNP, accusing them of cowardice.
 
-ஐக்கிய தேசிய கட்சி தலைமையகமான சிறிகொத்தவில் செவ்வாய்க்கிழமை (26) இ்டம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
+
+Those who have left the United National Party to the United People's Power are currently not given the right place. So I invite our friends to come back to their mother's house without being ugly from there. UNP General Secretary Palitha Range Bandara said that the door of the United National Party will always be open for them.
+
+He was speaking at a press conference which was held on Tuesday (26) at the UNP headquarters.
+
+I warmly invite our friends to break away from the United National Party and come back to their mother's home. Because they currently have no place in the United People's Power. So since our friends continue to be there, they will be cowardly. As the secretary of the Thai Party, I am responsible for this call. The door of the United National Party is always open for them.
 
 ...
 
 [Data](articles/aca35eb2.json)
+
+[Extended Data](ext_articles/aca35eb2.ext.json)
+
+---
+
+### ජනාධිපතිවරණය ඔක්තෝබර් මුල් සතියේ
+
+*2024-03-26 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194968) · `si`
+
+ජනාධිපතිවරණය මේ වසරේ ඔක්තෝබර් මුල් සතියේ ව්‍යවස්ථානුකූලව පවත්වන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා දැනුම්දී ඇත.
+
+දේශපාලන ආරංචි මාර්ග සඳහන් කරන්නේ ජනපතිවරයා මේ බව කැබිනට් අමාත්‍යවරුන්ට දැනුම් දී ඇති බවය.
+
+එසේම ජනාධිපතිවරයා විසින් පසුගියදා පත්කරනු ලැබූ සියදේශපාලන කැබිනට්ටුවටද එය දැනුම් දී ඇති බව රජයේ අභ්‍යන්තර ආරංචි මාර්ග සඳහන් කළේය.
+
+◼️
+
+[Data](articles/9c3f1127.json)
 
 ---
 
@@ -59,6 +147,8 @@ Mayorkas added that the US Coast Guard and other agencies are in Baltimore assis
 ◼️
 
 [Data](articles/87e0e41e.json)
+
+[Extended Data](ext_articles/87e0e41e.ext.json)
 
 ---
 
@@ -122,15 +212,25 @@ Police investigations have revealed that a man who died when he helped a kotanar
 
 ---
 
-### வட, கிழக்கில் வழிபாட்டுத்தலங்களை இலக்குவைத்து நிகழும் நில அபகரிப்புக்களால் சமூகங்களுக்கு இடையில் பதற்றம் - பிரிட்டனின் பொதுநலவாய, அபிவிருத்தி அலுவலகம் சுட்டிக்காட்டு
+### Tension between communities by land grabbing targeting places of worship in the North and East - Britain's Commonwealth and Development Office
 
 *2024-03-26 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/179776) · `ta`
 
-இலங்கையின் மனித உரிமைகள் நிலைவரம் தொடர்ந்தும் கரிசனைக்குரியதாகவே காணப்படுகின்றது. நாட்டின் வட, கிழக்கு மாகாணங்களில் குமுறைகளுக்கும் முகங்கொடுத்துவருகின்றன. அதுமாத்திரமன்றி அப்பகுதிகளில் கரிசனைக்குரிய மட்டத்தில் காணி அபகரிப்புக்கள் அதிகரித்துவருவதுடன், சிலவேளைகளில் அவை மத வழிபாட்டுத்தலங்களை இலக்குவைத்தவையாகக் காணப்படுகின்றன. இவ்வாறான செயற்பாடுகள் சமூகங்களுக்கு இடையில் பதற்றத்தைத் தோற்றுவித்துள்ளன என்று பிரிட்டனின் பொதுநலவாய மற்றும் அபிவிருத்தி அலுவலகம் தெரிவித்துள்ளது.
+Sri Lanka's human rights situation remains compassionate, but land grabbing, targeting religious places, has increased tensions in the North and East. The British Commonwealth and Development Office's 2022 report highlighted these issues, along with the use of restrictive laws and peaceful protests. Despite calls for improvement, no plans have been issued by June 2023.
+
+🟩
+
+Sri Lanka's human rights situation continues to be compassionate. The country's North and Eastern Provinces are also facing boobs. Land grabbing is increasing at the level of compassion in the area, and sometimes they are aimed at religious places.. The British Commonwealth and Development Office said that such activities have created tension between communities.
+
+The annual Human Rights and Democratic Report for the year 2022 by Britain's Commonwealth and Development Office. The report listed the 32 countries that specifically faced human rights or democratic challenges. Accordingly, the British Commonwealth and Development Office indicated in a renewed report on the human rights and democratic state of the 32 countries over 6 months of January 1, 2023.
+
+In this regard, the issues mentioned in Sri Lanka's human rights and democratic situation are as follows:
 
 ...
 
 [Data](articles/8b3353fd.json)
+
+[Extended Data](ext_articles/8b3353fd.ext.json)
 
 ---
 
@@ -153,6 +253,22 @@ At the past few days at the Blodishana State, a port and aerial headquarters lau
 [Data](articles/7e8be84b.json)
 
 [Extended Data](ext_articles/7e8be84b.ext.json)
+
+---
+
+### මහ බැංකුව ප්‍රතිපත්ති පොලී අනුපාත තවත් පහත දමයි
+
+*2024-03-26 18:29:51* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකුව-ප්‍රතිපත්ති-පොලී-අනුපාත-තවත්-පහත-දමයි/11-408814) · `si`
+
+මහ බැංකුවේ නිත්‍ය තැන්පතු පහසුකම් අනුපාතිකය (SDFR) සහ නිත්‍ය ණය පහසුකම් අනුපාතිකය (SLFR), පිළිවෙළින්, සියයට 8.50 සහ සියයට 9.50 දක්වා පදනම් අංක 50කින් අඩු කිරීමට ශ්‍රී ලංකා මහ බැංකුවේ මුදල් ප්‍රතිපත්ති මණ්ඩලය 2024 මාර්තු මස 25 වැනි දින පැවති රැස්වීමේදී තීරණය කර තිබේ.
+
+ආර්ථිකයට එහි විභව නිමැවුම් මට්ටම කරා ළඟා වීමට සහාය වෙමින්, මැදි කාලීනව උද්ධමනය ඉලක්කගත සියයට 5ක මට්ටමේ පවත්වාගෙන යෑම සඳහා වත්මන් සහ අපේක්ෂිත දේශීය හා ගෝලීය සාර්ව ආර්ථික ප්‍රවණතා පිළිබඳ මනාව සලකා බැලීමෙන් අනතුරුව මුදල් ප්‍රතිපත්ති මණ්ඩලය මෙම තීරණයට එළැඹුණ බව මහ බැංකුව නිවේදනය කරයි.
+
+මෙම තීරණයට එළැඹීමේදී, අඩු මට්ටමක පවතින සමස්ත ඉල්ලුම් තත්ත්ව, උද්ධමනය මත බදු ව්‍යුහයේ මෑත කාලීනව සිදු කළ වෙනස්කම්වල බලපෑම අපේක්ෂිත මට්ටමට වඩා අඩු වීම, මෑතකාලීනව විදුලි ගාස්තු අඩු කිරීම හේතුවෙන් හිතකර නුදුරු කාලීන උද්ධමන ප්‍රවණතා, මනාව පාලනය වූ උද්ධමන අපේක්ෂා, විදේශීය අංශයේ අධික පීඩන නොමැති වීම සහ වෙළඳපොළ පොලී අනුපාතිකවල පහළ යෑම අඛණ්ඩව පවත්වාගෙන යෑමේ අවශ්‍යතාව යනාදිය පිළිබඳව මුදල් ප්‍රතිපත්ති මණ්ඩලය අවධානය යොමු කර තිබේ.
+
+...
+
+[Data](articles/e81c3b6e.json)
 
 ---
 
@@ -2155,129 +2271,5 @@ The young man has repeatedly urged the woman to marry her. She then sent a link 
 [Data](articles/7545b1cb.json)
 
 [Extended Data](ext_articles/7545b1cb.ext.json)
-
----
-
-### Online Threats: Request to seek help
-
-*2024-03-26 12:16:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-அச்சுறுத்தல்கள்-உதவியை-நாடுமாறு-கோரிக்கை/175-335212) · `ta`
-
-The public is urged to report online threats to the Police Computer Criminal Investigation Division. A 21-year-old youth from Hikkaduwa revealed assistance numbers after a man was arrested for harassing a woman on Facebook, infiltrating their conversations and images.
-
-🟩
-
-The public, which is facing various threats through the Internet, has been requested to seek the help of the Police Computer Criminal Investigation Division.
-
-Police Media Spokesperson and Deputy Inspector General of Police Nihal Talduwa said that those who face various harassment and threats from individuals via the Internet can lodge a complaint with the Police Computer Criminal Investigation Division.
-
-He told the media that those who need help can complain via e -mail dir.ccid@police.gov.lk.
-
-He added that complaints can be lodged by the emergency call of the Bureau of the 109 children and women, which operates 24 hours a day.
-
-The 21 -year -old youth from Hikkaduwa revealed these assistant numbers after the arrest of a young man for harassing a woman via Facebook.
-
-The young man has repeatedly urged the woman to marry her. She then sent a link to her, claiming that the girl's photos were uploaded to the Internet, and asked her to send her a link to her boyfriend.
-
-...
-
-[Data](articles/a03403f0.json)
-
-[Extended Data](ext_articles/a03403f0.ext.json)
-
----
-
-### Minimum salary increased to Rs.17,500
-
-*2024-03-26 12:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minimum-salary-increased-to-Rs-17-500/108-279627) · `en`
-
-Colombo, March 26 (Daily Mirror) - According to the provisions of the National Minimum Wages Act, the National Minimum Wage has been set at Rs.12,500 and a committee appointed on the recommendations of the National Labour Advisory Council recommends that the wage be increased to Rs.17,500.
-
-The National Minimum Daily Wage of Rs. 500 will also be increased by Rs. 200 to Rs. 700.
-
-The proposal submitted by the Minister of Labour and Foreign Employment Manusha Nanayakkara to amend the National Minimum Wage Act has been approved.
-
-◼️
-
-[Data](articles/dfc23b16.json)
-
-[Extended Data](ext_articles/dfc23b16.ext.json)
-
----
-
-### Seize
-
-*2024-03-26 12:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டுக்-கொண்டு-வரப்பட்ட-உயிரினங்கள்-கைப்பற்று/175-335211) · `ta`
-
-A young couple was arrested at Colombo's Katunayake International Airport for smuggling 88 exotic animals worth 40 lakhs of rupees from Thailand. The animals, including tatanas, frogs, fish, squirrels, turtles, lizards, white rats, chameleon worms, and rats, were seized by customs officials.
-
-🟩
-
-A number of species that have been illegally brought to the country from Thailand have been seized and a young business couple have been arrested.
-
-The pair have been arrested at the Katunayake International Airport in Colombo with 88 living animals worth about forty lakhs of rupees.
-
-The two men arrived at the Katunayake airport on Monday (25) at 04.35 pm on the Sri Lankan Airlines flight from Bangkok, Thailand.
-
-The couple has been arrested following the raid of officials of the Customs Department and the Livestock Institute of the Agriculture Department.
-
-In the packs they brought, the tatanas, frogs, fish,, squirrels, turtles, lizards, white rats, chameleon worms and rats have been brought to the country.
-
-In addition, the couple has been detained by the customs officials and the animals brought in the Katunayake airport have been handed over to the isolation of the animals until the investigation is completed.
-
-◼️
-
-[Data](articles/32310839.json)
-
-[Extended Data](ext_articles/32310839.ext.json)
-
----
-
-### New news for alcohol price
-
-*2024-03-26 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194947) · `si`
-
-Chamara Sampath Dasanayake, Minister of Primary Industries, announced plans to reduce alcohol prices ahead of the Sinhala and Hindu New Year. He expressed hope for a decrease in alcohol consumption, citing a lack of popular support for such measures.
-
-🟩
-
-Primary Industries Minister of Primary Industries Chamara Sampath Dasanayake says that alcohol prices are trying to download alcohol prices before the coming Sinhala and Hindu New Year.
-
-Speaking to the media in Badulla, the public minister said.
-
-Speaking further, State Minister Chamara Sampath Dasanayake
-
-"The boil should be reduced to reduce alcohol. Everyone wants to reduce. We hope that alcohol too long as the year a year before the year. We don't have popular verbs so far. You have come to get popular decisions and the country is blind to the blind,. That is why there is no popular decisions. "
-
-◼️
-
-[Data](articles/15e04e27.json)
-
-[Extended Data](ext_articles/15e04e27.ext.json)
-
----
-
-### Central Bank Governor is not resigning for a crisis caused by a pay hike for employees
-
-*2024-03-26 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179731) · `ta`
-
-Dr. Nandalal Weerasinghe, Central Bank Governor, refuses to resign over a pay hike for employees, stating it's a joint union agreement and his responsibility to raise corporate salaries.
-
-🟩
-
-Dr. Nandalal Weerasinghe has said that he will not resign from the post of Governor of the Central Bank, considering the crisis of the crisis caused by the salary increase to his employees.
-
-The Governor of the Central Bank said this while responding to a question asked by a journalist at a media briefing held at the Central Bank on Tuesday (26).
-
-I would like to clearly say that I will not leave for the salary and review of the employees who work under me.
-
-As the head of the company, I have a responsibility to raise the salary of corporate employees. I did that. So I don't see this for a reason.
-
-He said the decision was made by the unions for three years by a joint agreement.
-
-◼️
-
-[Data](articles/a3deb49b.json)
-
-[Extended Data](ext_articles/a3deb49b.ext.json)
 
 ---

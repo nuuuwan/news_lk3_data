@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 06:53:53**
+As of **2024-03-26 07:16:26**
 
 ## Newspaper Stats
 
-*Scraped **15,158** Articles*
+*Scraped **15,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,106 @@ economynextcom | 818
 islandlk | 843
 adalk | 1,291
 adaderanalk | 1,819
-tamilmirrorlk | 1,820
+tamilmirrorlk | 1,821
 virakesarilk | 2,127
-dailymirrorlk | 2,339
-adaderanasinhalalk | 2,429
+dailymirrorlk | 2,341
+adaderanasinhalalk | 2,431
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,154 (100.0%) of 15,158 articles have been extended.
+15,158 (100.0%) of 15,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### ප්‍රදේශ කිහිපයකට මි.මී 100 ඉක්මවූ තද වැසි
+### මාළු දැලේ පැටලී තරුණයෙක් මරුට
+
+*2024-03-26 06:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194932) · `si`
+
+වාලච්චේන, පුනානි වැවේ මසුන් ඇල්ලීමට ගිය තරුණයෙකු ඔහු විසින්ම භාවිත කළ මාළු දැලක පැටලී මියගොස් තිබේ.
+
+ඒ සම්බන්ධයෙන් ඊයේ (25) සවස් කාලයේදී මරණකරුගේ පියා විසින් වාලච්චේන පොලිස් ස්ථානයට කරන ලද පැමිණිල්ලක් මත විමර්ශන ආරම්භ කර ඇත.
+
+එසේ මියගොස් අත්තේ, මයිලතැන්න, පුනානි ප්‍රදේශයේ පදිංචි 23 හැවිරිදි තරුණයෙකි.
+
+මරණකරු අසනීප තත්ත්වයක් හේතුවෙන් රැකියාවක් නොමැතිව නිවසේ පසුවන අතර ඔහු විසින් මාළු දැලක් රැගෙන පුනානි වැවේ මසුන් ඇල්ලීමට ගොස් සිටියදී මෙලෙස දියේ ගිලී ඇති බව විමර්ශනවලදී ඇති බව අනාවරණය වී ඇත.
+
+මෘත ශරීරය මහෙස්ත්‍රාත් පරීක්ෂණය සඳහා වාලච්චේන රෝහලේ නැත්පත් කර ඇති අතර වාලච්චේන පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/bfdec7d5.json)
+
+---
+
+### තායිලන්තයෙන් ගෙන් වූ සතුන් 88 දෙනෙකු සමග යුවළක් කටුනායකදී අත්අඩංගුවට
+
+*2024-03-26 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194931) · `si`
+
+තායිලන්තයේ සිට මෙරටට ගෙන්වූ සතුන් 88 දෙනෙකු සමග ව්‍යාපාරික යුවළක් කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ දී රේගු නිලධාරීන් භාරයට ගෙන තිබේ.
+
+කෘෂිකර්ම දෙපාර්තමේන්තුවේ සත්ත්ව නිරෝධායන ආයතනයේ නිලධාරීන් සමග ඒකාබද්ධව සිදුකළ වැටලීමක දී සැකකරුවන් ජීවී සතුන් සමග සිය භාරයට ගැනීමට හැකි වූ බව රේගුව ප්‍රකාශ කළේය.
+
+ඊයේ (25) පස්වරුවේ බැංකොන් නුවර සිට පැමිණි ගුවන් යානයකින් පැමිණි අදාළ යුවළ වාතාශ්‍රය ලැබෙන පරිදි සකස් කළ කුඩා පෙට්ටිවල සතුන් රැගෙනවිත් තිබේ.
+
+ඉබ්බන්, ගෙම්බන්, ඉත්තෑවන්, ලේනුන්, මත්ස්‍යයින්, කැස්බෑවුන්, කටුස්සන්, හැම්ස්ටර්, සැලමැන්ඩා, මීයන් සහ තවත් පණු විශේෂයක් නීතිවිරෝධී ලෙස රැගෙන ආ සතුන් අතර වේ.
+
+එම සතුන් ගුවන් තොටුපොළ සත්ත්ව නිරෝධායන ආයතනය වෙත භාර දී ඇති අතර සැකකරුවන් පිළිබඳ වැඩිදුර විමර්ශන ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/f50e9199.json)
+
+---
+
+### Presidential Election in October first week
+
+*2024-03-26 06:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Presidential-Election-in-October-first-week/155-279604) · `en`
+
+- Basil loses battle to convince President to hold Parliamentary Polls first
+
+- President hints to cabinet to prepare for Presidential Polls
+
+Colombo, March 26 (Daily Mirror) - President Ranil Wickremesinghe has informed his close associates and hinted to his cabinet that the Presidential Election will be held as scheduled, indicating Basil Rajapaksa's failure in convincing the President to hold the Parliamentary Polls first, the Daily Mirror learns.
+
+A senior political source said that Wickremesinghe had in the past two cabinet meetings discussed the elections and indicated that the Presidential Election would be held as scheduled.
+
+Although the Elections Commission is yet to be notified officially, sources said that the elections will be held in the first week of October.
+
+The three main candidates who will run for the presidency are Ranil Wickremesinghe from the UNP, Sajith Premadasa from the SJB and Anura Kumara Dissanayake from the NPP.
+
+...
+
+[Data](articles/ac32107f.json)
+
+---
+
+### Heavy rains exceeding 100mm
 
 *2024-03-26 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194929) · `si`
 
-දකුණු පළාතේත්, අම්පාර සහ මොනරාගල දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට අද (26) මි. මී. 100ට වැඩි තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains exceeding 100mm in Southern Province, Ampara, Moneragala Districts, and thundershowers in Western, Sabaragamuwa, Southern Buddhism at night. Showers expected in Eastern and Uva provinces. Public advised to take precautions against winds and lightning.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, දකුණු සහමධ්‍යම පළාත්වලසවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව දිස්ත්‍රික්කයේත් වැසි වාර කිහිපයක් ඇතිවේ.
+Some places in the Southern Province, Ampara and Moneragala Districts today (26). Mee. Heavy showers that have more than 100 can occur.
 
-මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+Thundershowers will develop at several places in the Western, Sabaragamuwa, Southern Buddhism at the Western, Sabaragamuwa, Southern Buddhism at night or night.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Several showers in the Eastern and Uva provinces and several showers.
+
+Some locations, in some places in the Central, Sabaragamuwa and Uva provinces and in Kalutara, Galle and Matara districts are expected to be met.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/d77e1681.json)
+
+[Extended Data](ext_articles/d77e1681.ext.json)
 
 ---
 
@@ -259,6 +327,20 @@ During the argument over the bus run, police said that a private bus driver, the
 [Data](articles/89c534f9.json)
 
 [Extended Data](ext_articles/89c534f9.ext.json)
+
+---
+
+### பெரிய வெங்காயத்தின் விலையை குறைக்க நடவடிக்கை
+
+*2024-03-26 00:15:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரிய-வெங்காயத்தின்-விலையை-குறைக்க-நடவடிக்கை/175-335187) · `ta`
+
+சித்திரை புதுவருட காலத்தில் பெரிய வெங்காயத்தின் விலையை குறைப்பதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளதாக வர்த்தக அமைச்சர் நளின் பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+பண்டிகை காலத்தில் பெரிய வெங்காயத்தின் விலையை 375 முதல் 400 ரூபாவிற்கு பெற்றுக்கொடுக்க எதிர்பார்ப்படுகின்றது எனவும் அவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/3130c9a3.json)
 
 ---
 
@@ -2143,93 +2225,5 @@ Former President Maithripala Sirisena has left the Criminal Investigation Depart
 [Data](articles/1e2c32f3.json)
 
 [Extended Data](ext_articles/1e2c32f3.ext.json)
-
----
-
-### Discarded Romanian railway carriages back for tourism
-
-*2024-03-25 16:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Discarded-Romanian-railway-carriages-back-for-tourism/108-279554) · `en`
-
-Colombo, March 25 (Daily Mirror) - With the expenditure of Rs. 5.5 million by the Sri Lanka Railways Department (SLRD), the Chief Mechanical Engineer's Sub Department Ratmalana has renovated several old discarded Romanian railway carriages as tourist railway carriages to attract local and foreign tourists.
-
-While paying an inspection visit to the Chief Mechanical Engineer's Sub Department, Transport Minister Bandula Gunawardana said these old Romanian railway carriages have been modernized and the roof has been removed so that tourists can observe the environment and the railway track more easily.
-
-Another compartment has been renovated completely using wood, so that tourists can observe the environment around the railway line with more comfortable seats.
-
-It is remarkable that these old railway carriages, once unfit for service, have been refurbished by local railway engineers and technicians, adding significant value, the Minister said.
-
-...
-
-[Data](articles/0558c12f.json)
-
-[Extended Data](ext_articles/0558c12f.ext.json)
-
----
-
-### The bus that fell on the road from the street
-
-*2024-03-25 16:11:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வீதியில்-இருந்து-வீதியில்-விழுந்த-பஸ்/76-335163) · `ta`
-
-A private bus crashed in Kandy, injuring 3 passengers and causing severe damage. It was en route from Bibila to Colombo for sale. Police are investigating.
-
-🟩
-
-A private bus crashed into the lower road from the upper road and an accident occurred in Kandy.
-
-A private bus was traveling in the second curve in the Medamahanuwara area.. Three passengers on the bus were injured. Also, the buses have suffered severe damage.
-
-The bus, which was used for service work at a garment factory in Bibila, was taken to a man in Colombo to be sold to a person in Colombo.
-
-Investigations are underway under the leadership of the Chief Inspector of Police Dusitha Tombagammana.
-
-◼️
-
-[Data](articles/1c692b02.json)
-
-[Extended Data](ext_articles/1c692b02.ext.json)
-
----
-
-### New Uniforms to Anuradhapura Jayasree Mahabodi Police
-
-*2024-03-25 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/179666) · `ta`
-
-New uniforms introduced to Anuradhapura Jayasree Mahabodi Police. Recited by Pallagama Hemaratna Thera. Presented to Public Security Minister Tran Ales and Inspector General of Police, Deshabandu Tennakoon, by Dr. Pallagama Hemarathana Thera. High-ranking police officers attended.
-
-🟩
-
-A new uniform was introduced to the police who were on duty at the Anuradhapura historic Jayasree Mahabodhi Viharaya today (25).
-
-Officers in charge of the new uniforms in the morning (24) morning (24). The Dharmopadeshada was recited by the Pallagama Hemaratna Thera, the worshipers of the Adamasthana President.
-
-The new uniform was introduced to the Public Security Minister Tran Ales and the Inspector General of Police, Deshabandu Tennakoon, in accordance with the request of Dr. Dr. Pallagama Hemarathana Thera.
-
-WCLRKP in charge of Udamaluwa Police Station. Several high -ranking police officers, including Wethewa, attended the event.
-
-◼️
-
-[Data](articles/1f9ce8cf.json)
-
-[Extended Data](ext_articles/1f9ce8cf.ext.json)
-
----
-
-### Two new rail services to celebrate the centenary of the Badulla rail service
-
-*2024-03-25 16:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179671) · `ta`
-
-To celebrate the Badulla rail service's centenary, two new trains will be added on April 5, and a special tourist train service will be launched, offering a unique journey through Nanuoya's hill country.
-
-🟩
-
-Transport Minister Bandula Gunawardena has said that two new trains will be added to the service on April 5 to celebrate the centenary of the train service through the Badulla railway service.
-
-Meanwhile, a special tourist train service will be launched with rooms for a short distance journey to tourist atmosphere in Nanuoya's hill country.
-
-◼️
-
-[Data](articles/3f574d12.json)
-
-[Extended Data](ext_articles/3f574d12.ext.json)
 
 ---

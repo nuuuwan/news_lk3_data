@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 12:18:15**
+As of **2024-03-26 12:33:42**
 
 ## Newspaper Stats
 
-*Scraped **15,226** Articles*
+*Scraped **15,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 821
 islandlk | 843
 adalk | 1,296
 adaderanalk | 1,827
-tamilmirrorlk | 1,832
-virakesarilk | 2,138
+tamilmirrorlk | 1,834
+virakesarilk | 2,139
 dailymirrorlk | 2,351
 adaderanasinhalalk | 2,444
 
@@ -26,11 +26,71 @@ adaderanasinhalalk | 2,444
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,225 (100.0%) of 15,226 articles have been extended.
+15,226 (100.0%) of 15,229 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### ஒன்லைன் அச்சுறுத்தல்கள்:உதவியை நாடுமாறு கோரிக்கை
+
+*2024-03-26 12:16:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-அச்சுறுத்தல்கள்-உதவியை-நாடுமாறு-கோரிக்கை/175-335212) · `ta`
+
+இணையம் ஊடாக பல்வேறு அச்சுறுத்தல்களை எதிர்நோக்கும் பொதுமக்கள் பொலிஸ் கணினி குற்றப் புலனாய்வுப் பிரிவின் உதவியை நாடுமாறு கோரப்பட்டுள்ளது.
+
+இணையம் ஊடாக தனிநபர்களிடமிருந்து பல்வேறு துன்புறுத்தல்கள் மற்றும் அச்சுறுத்தல்களுக்கு முகம் கொடுப்பவர்கள் பொலிஸ் கணினி குற்றப் புலனாய்வுப் பிரிவில் முறைப்பாடு செய்ய முடியும் என பொலிஸ் ஊடகப் பேச்சாளர், பிரதி பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+
+உதவி தேவைப்படுவோர் dir.ccid@police.gov.lk என்ற மின்னஞ்சல் ஊடாக முறைப்பாடு செய்யலாம் என அவர் ஊடகங்களுக்கு கருத்து தெரிவித்தார்.
+
+24 மணி நேரமும் செயல்படும் 109 என்ற சிறுவர் மற்றும் பெண்கள் பணியகத்தின் அவசர அழைப்பு மூலமாகவும் முறைப்பாடுகளை பதிவு செய்யலாம் என்று அவர் மேலும் கூறினார்.
+
+ஹிக்கடுவையைச் சேர்ந்த 21 வயதுடைய இளைஞன் பேஸ்புக் ஊடாக யுவதியொருவரை துன்புறுத்தியதற்காக கைது செய்யப்பட்டதை அடுத்து, பொலிஸ் ஊடகப் பேச்சாளர் இந்த உதவி இலக்கங்களை வெளிப்படுத்தினார்.
+
+...
+
+[Data](articles/a03403f0.json)
+
+---
+
+### நாட்டுக் கொண்டு வரப்பட்ட உயிரினங்கள் கைப்பற்று
+
+*2024-03-26 12:15:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டுக்-கொண்டு-வரப்பட்ட-உயிரினங்கள்-கைப்பற்று/175-335211) · `ta`
+
+தாய்லாந்தில் இருந்து சட்டவிரோதமான முறையில் நாட்டுக்குள் கொண்டுவரப்பட்ட பல உயிரினங்கள் கைப்பற்றப்பட்டுள்ளதுடன் இளம் வர்த்தக தம்பதியினர் கைது செய்யப்பட்டுள்ளனர்.
+
+சுமார் நாற்பது இலட்சம் ரூபா பெறுமதியான 88 உயிருள்ள விலங்குகளுடன் இந்த ஜோடி கொழும்பு கட்டுநாயக்க சர்வதேச விமான நிலையத்தின் வருகை முனையத்தில் வைத்து கைது செய்யப்பட்டுள்ளது.
+
+குறித்த இருவரும் தாய்லாந்தின் பேங்கொக்கில் இருந்து ஸ்ரீலங்கன் எயார்லைன்ஸ் விமானமான UL-405 இல் கட்டுநாயக்க விமான நிலையத்தை திங்கட்கிழமை (25)  பிற்பகல் 04.35 மணியளவில் வந்தடைந்துள்ளனர்.
+
+சுங்கத்துறையின் பல்லுயிர் பிரிவு மற்றும் வேளாண்மைத் துறையின் கால்நடை தனிமைப்படுத்தல் நிறுவனம் ஆகியவற்றின் அதிகாரிகளின் சோதனையிட்டதையடுத்து குறித்த ஜோடி கைது செய்யப்பட்டுள்ளது.
+
+அவர்கள் கொண்டு வந்த பொதிகளில் தட்டான்கள், தவளைகள், மீன்கள், , அணில்கள், ஆமைகள், பல்லிகள், வெள்ளை எலிகள், பச்சோந்தி மற்றொரு வகை புழுக்கள் மற்றும் எலிகள் நாட்டிற்கு எடுத்து வந்துள்ளனர்.
+
+...
+
+[Data](articles/32310839.json)
+
+---
+
+### ஊழியர்களுக்குச் சம்பள உயர்வு வழங்கியதனால் ஏற்பட்டுள்ள நெருக்கடிக்காக பதவி விலகப் போவதில்லை : மத்திய வங்கி ஆளுநர்!
+
+*2024-03-26 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179731) · `ta`
+
+தனது ஊழியர்களுக்கு சம்பள அதிகரிப்பு வழங்கியதனால்  ஏற்பட்டுள்ள நெருக்கடி நிலைமையைக்  கருத்திற் கொண்டு மத்திய வங்கி ஆளுநர் பதவியிலிருந்து  தான் விலகப் போவதில்லை என கலாநிதி நந்தலால் வீரசிங்க தெரிவித்துள்ளார்.
+
+மத்திய வங்கியில் இன்று செவ்வாய்க்கிழமை (26)  இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் ஊடகவியலாளர் ஒருவர் கேட்ட கேள்விக்கு பதிலளிக்கும் போதே மத்திய வங்கியின் ஆளுநர் மேற்கண்டவாறு தெரிவித்தார்.
+
+எனக்குக் கீழ் பணிபுரியும் ஊழியர்களின் சம்பள உயர்வு, மறுபரிசீலனை போன்ற காரணங்களால் நான் வெளியேறமாட்டேன் என்பதை நான் தெளிவாகக் கூறிக்கொள்ள விரும்புகிறேன்.
+
+நிறுவனத்தின் தலைவர் என்ற வகையில், நிறுவன ஊழியர்களின் சம்பளத்தை உயர்த்தும் பொறுப்பு எனக்கு உள்ளது. நான் அதை செய்தேன். அதனால் நான் விலகுவதற்கு இதனை  ஒரு காரணமாக பார்க்கவில்லை.
+
+தொழிற்சங்கங்களுடன் பேசியே  மூன்று ஆண்டுகளுக்கு கூட்டு ஒப்பந்தம் மூலம் இந்த முடிவு எடுக்கப்பட்டுள்ளது என்றும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a3deb49b.json)
+
+---
 
 ### The gun magic of the police officer
 
@@ -76,19 +136,25 @@ Upon receiving the tip-off, the minister ordered that an investigation be immedi
 
 ---
 
-### ஹெரோயின் போதைப்பொருளுடன் ஒருவர் கைது!
+### One arrested with heroin drug
 
 *2024-03-26 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/179721) · `ta`
 
-கல்கிஸ்ஸ , படோவிட்ட பிரதேசத்தில் கல்கிஸ்ஸ பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபரொருவர் கைது செய்யப்பட்டுள்ளார்.
+A 24-year-old from Dehiwala was arrested in Kalkissa for possessing heroin. Police in Badovitta seized the drug and are investigating further.
 
-இவரிடமிருந்து 7 கிராம் 300 மில்லி கிராம் ஹெரோயின் போதைப் பொருள் பொலிஸாரினால் கைப்பற்றப்பட்டுள்ளது.
+🟩
 
-இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபர் தெஹிவளை பிரதேசத்தைச் சேர்ந்த 24 வயதுடயவராவார். இந்த சம்பவம் தொடர்பாக, கல்கிஸ்ஸ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டுள்ளனர்.
+A suspect has been arrested with heroin drugs on the basis of information received by Kalkissa police in Badovitta area, Kalkissa.
+
+The drug has been seized by the police by the police.
+
+The suspect was the 24 -year -old from Dehiwala area. Kalkissa police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/369eba1e.json)
+
+[Extended Data](ext_articles/369eba1e.ext.json)
 
 ---
 
@@ -2145,75 +2211,5 @@ Speaking at the inauguration of the School Food Program for 2024 at the Sujatha 
 [Data](articles/e0dc4e7f.json)
 
 [Extended Data](ext_articles/e0dc4e7f.ext.json)
-
----
-
-### Rs. 3,439 million earned by exporting coconut water
-
-*2024-03-25 21:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rs-3-439-million-earned-by-exporting-coconut-water/108-279575) · `en`
-
-Colombo, March 25 (Daily Mirror) - An income of Rs. 3,439 million was earned in February this year by exporting coconut water from Sri Lanka, the Coconut Development Authority (CDA) said.
-
-According to the data from the CDA, the amount earned by exporting coconut water in February 2023 is Rs. 2,705 million.
-
-There has been an increase in export income of Rs. 734 million by the pre-spring months of this year compared to last year, CDA Chairman Professor Roshan Perera said.
-
-These facts were revealed during a discussion chaired by Agriculture Minister Mahinda Amaraweera this morning (25).
-
-The Minister said that if it is possible to save the Rs. 300 million in coconuts that are lost annually due to damages caused by wildlife, then it will be possible to earn more income, thereby further increasing the income of coconut growers.
-
-◼️
-
-[Data](articles/86eb4416.json)
-
-[Extended Data](ext_articles/86eb4416.ext.json)
-
----
-
-### Govt prioritizing overhaul of school education and exam systems - President
-
-*2024-03-25 21:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98200/govt-prioritizing-overhaul-of-school-education-and-exam-systems-president) · `en`
-
-President Ranil Wickremesinghe emphasized the importance of holistic education, advocating for a curriculum that includes both academic subjects and nutritional support for children across the country.
-
-He also underscored the necessity of integrating modern technologies like artificial intelligence into the educational framework, highlighting the government’s commitment to reforming the school education and examination systems.
-
-President Wickremesinghe made these remarks during the inauguration of the “2024 School Meal Program” at Sujatha Balika Vidyalaya in Narahenpita this morning (25), the President’s Media Division reported.
-
-The initiative, led by the Ministry of Education, aims to provide nutritious meals to all students in grades 1-5 nationwide. Following the president’s directive, breakfast will be served between 7:30 am and 8:30 am, aligning with expert recommendations on optimal nutrition timing.
-
-...
-
-[Data](articles/3e4d4b6a.json)
-
-[Extended Data](ext_articles/3e4d4b6a.ext.json)
-
----
-
-### Jaime Ravi, who plays 'Genie' for success
-
-*2024-03-25 21:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/179692) · `ta`
-
-Jaime Ravi stars as 'Genie' in a new film, following the success of 'Siren'. Directed by Arjunan, with cinematography by Mahesh Muthuswamy and music by A.R. Rahman, 'Genie' is a fantasy film produced by Wales Film International. Set for release in multiple languages, it's a significant investment for the Tamil film industry. The first look has been released, showcasing Ravi in a new look and setting expectations high.
-
-🟩
-
-Fans will only celebrate their favorite stars on the head if they continue to provide success films for the Tamil film industry.
-
-As a result of the wishes of the fans, the star actors are choosing the stories and roles.
-
-Following the success of 'Siren' for commercial success, leading star actor Jayam Ravi plays the role of 'Geni'. The first look of the film has been released.
-
-His assistant Arjunan, who is coming from director Mishkin's workshop, will make his directorial debut as director of 'Geni'.
-
-Mahesh Muthuswamy's cinematography by the film 'Music Storm' A. Remble. Rahman has composed the music. The film is being prepared in Fantasy Janer, on behalf of Wales Film International.. Ganesh has produced.
-
-'Geni' is set to be released in Tamil, Telugu, Malayalam, Kannada and Hindi with an investment of Rs 100 crore in India.. The first look of the film is currently being released as the work is going on.. This is 'music' A.. R. Rahman posted on his web page and congratulated the film crew.
-
-...
-
-[Data](articles/39943301.json)
-
-[Extended Data](ext_articles/39943301.ext.json)
 
 ---

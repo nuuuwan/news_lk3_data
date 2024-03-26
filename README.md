@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 07:31:36**
+As of **2024-03-26 07:43:25**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 2,432
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,163 (100.0%) of 15,164 articles have been extended.
+15,164 (100.0%) of 15,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### ජීවිතයක් බිලිගත් හයිලෙවල් මාර්ගයේ මාරක අනතුර
+### The fatal accident of the High Level road where life is
 
 *2024-03-26 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194933) · `si`
 
-කොට්ටාව, හයිලෙවල් මාර්ගයේදී සිදුවූ රිය අනතුරකින් 19 හැවිරිදි තරුණයෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+A 19-year-old died in a Kottawa accident involving a motorcycle and a cab. Another accident involved a luxury bus and a motorcycle near Kodikamam.
 
-කොට්ටාව දෙස සිය මාකුඹුර දෙසට ධාවනය වූ වෑන් රථයක් දකුණට හැරවීමට යාමේදී මාකුඹුර දෙස සිය කොට්ටාව දෙසට ධාවනය කළ යතුරුපැදියක ගැටී එම අනතුර සිදුව ඇත.
+🟩
 
-අනතුරින් පසු යතුරුපැදිය මාර්ගයේ පෙරළී කොට්ටාව දෙස සිය මාකුඹුර දෙසට ධාවනය වූ කැබ් රථයක ගැටී තිබේ.
+A 19-year-old youth has died in an accident on Kottawa and High Level.
 
-ඊයේ (25) සිදුවූ එම අනතුරින් මිය ගිය තරුණයා පන්නිපිටිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The accident occurred at the Makumbura at a motorcycle who was traveling to Kottawa when he was going to turn his Makumbura at Kottawa.
 
-අනතුරට සම්බන්ධ වෑන් රථයේ හා කැබ් රථයේ රියදුරන් දෙදෙනා අත්අඩංගුවට ගෙන ඇති අතර කොට්ටාව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+After the accident, the motorcycle rollied in Kottawa and collided with a cab.
 
-මේ අතර කොඩිකාමම්, පූතුර් හන්දිය අසලදී සුඛෝපබෝගී බස් රථයක් යතුරුපැදියක ගැටී සිදුවූ අනතුරකින් පුද්ගලයෙකු ජීවිත්කෂයට පත්ව තිබේ.
+The youth is a resident of Pannipitiya yesterday.
+
+The two drivers in the accident and the cab have been arrested and Kottawa Police are conducting further investigations.
+
+Meanwhile, a luxury bus collided with a motorcycle near Kodikamam and Puthur Junction.
 
 ◼️
 
 [Data](articles/f3c6c546.json)
+
+[Extended Data](ext_articles/f3c6c546.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 16:49:29**
+As of **2024-03-26 17:03:03**
 
 ## Newspaper Stats
 
-*Scraped **15,291** Articles*
+*Scraped **15,297** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,129 @@ dailyftlk | 819
 economynextcom | 821
 islandlk | 844
 adalk | 1,304
-adaderanalk | 1,836
+adaderanalk | 1,837
 tamilmirrorlk | 1,841
 virakesarilk | 2,156
-dailymirrorlk | 2,359
-adaderanasinhalalk | 2,455
+dailymirrorlk | 2,363
+adaderanasinhalalk | 2,456
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,285 (100.0%) of 15,291 articles have been extended.
+15,291 (100.0%) of 15,297 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### ”சம்பளப் பிரச்சினைக்காக பதவி விலக மாட்டேன்”
+### ප්‍රසන්න රණතුංග දඬුවමට එරෙහි ගොනු කළ පෙත්සම විභාගයට දින දෙයි
+
+*2024-03-26 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194960) · `si`
+
+අත්හිටවූ සිරදඬුවම් හා දඩ මුදල් නියමවී සිටින අමාත්‍ය ප්‍රසන්න රණතුංග මහතා එම දඬුවමට එරෙහිව ඉදිරිපත් කර තිබෙන අභියාචනා පෙත්සම විභාග කිරීම සඳහා අභියාචනාධිකරණය අද (26) දින ලබාදුනි.
+
+ඒ, කොලොන්නාව, මීතොටමුල්ල ප්‍රදේශයේ ඉඩමක් ගොඩ කිරීමට අවශ්‍ය අනුමැතිය ලබාදීම ඇතුළු කටයුතු ඉටු කරදීම පිළිබඳ සිද්ධියකට අදාළව ව්‍යාපාරිකයෙකුගෙන් රුපියල් මිලියන 64ක මුදලක් ඉල්ලා තර්ජනය කළ බවට චෝදනා එල්ලවී ඇති සිද්ධියක් සම්බන්ධයෙනි.
+
+මෙම අභියාචනා පෙත්සම අද ඩී. එන්. සමරකෝන් මහතා ප්‍රමුඛ පංච පුද්ගල අභියාචනාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී දෙපාර්ශ්වයේ නීතිඥවරු අධිකරණය හමුවේ ඉල්ලීමක් කරමින් මෙම පෙත්සම් විභාගය සඳහා දිනයක් නියම කරන ලෙස ඉල්ලා සිටියේය.
+
+ඒ අනුව අදාළ අභියාචනා පෙත්සම අප්‍රේල් මස 30 වනදා සහ මැයි මස 03 වනදා විභාගයට ගැනීමට අභියාචනාධිකරණය දින නියම කෙරුණි.
+
+මෙහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජෙනරල් රොහාන්ත අබේසූරිය මහතා කළ ඉල්ලීමක් පිළිගත්  විනිසුරු මඩුල්ල මෙම සිද්ධියට අදාළ මහාධිකරණ නඩූවේ සාක්ෂි ලෙස ගොනු කර තිබූ පොරොන්දු නෝට්ටු කිහිපයක් අධිකරණය හමුවේ කැදවීමට අවසර ලබා දුනි.
+
+...
+
+[Data](articles/553eec63.json)
+
+---
+
+### Court dismisses preliminary objections raised in Keheliya’s misappropriation case
+
+*2024-03-26 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98216/court-dismisses-preliminary-objections-raised-in-keheliyas-misappropriation-case-) · `en`
+
+The Colombo High Court on Tuesday (March 26) dismissed preliminary objections raised by Keheliya Rambukwella and another accused in a misappropriation case, stating that the lawsuit filed by the Bribery Commission could not be maintained.
+
+The duo is accused of allegedly misappropriating the funds belonging to the State Printing Corporation to pay Rambukwella’s personal telephone bill amounting to Rs. 230,000 between March and April 2012, during his tenure as the Mass Media Minister.
+
+When the case was called before Colombo High Court, the defense attorney argued that the case could not be maintained, however, Judge Damith Thotawatta granted leave to proceed with the case filed against Rambukwella and former chairman of the corporation Jayampathi Bandara Heenkenda.
+
+Rambukwella, who is currently in remand custody in connection with this alleged implication in the procurement of substandard human immunoglobulin vials, was also produced for today’s court proceedings.
+
+◼️
+
+[Data](articles/dbed7143.json)
+
+---
+
+### “I will not resign for the salary issue”
 
 *2024-03-26 16:24:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளப்-பிரச்சினைக்காக-பதவி-விலக-மாட்டேன்/175-335220) · `ta`
 
-சம்பள அதிகரிப்பினால் ஏற்பட்டுள்ள பிரச்சினைகளால் ஆளுநர் பதவியில் இருந்து விலகப் போவதில்லை என இலங்கை மத்திய வங்கியின் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க இன்று தெரிவித்துள்ளார்.
+Dr. Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, refuses to resign over salary issues, emphasizing his responsibility to address employee salaries and the collective decision to increase wages, despite the economic crisis.
 
-ஊடகங்களுக்கு கருத்து தெரிவித்த அவர், மத்திய வங்கியின் சம்பள அதிகரிப்பு காரணமாக இந்த நெருக்கடி நிலை ஏற்பட்டுள்ளதாக தெரிவித்தார்.
+🟩
 
-மேலும் தனக்கு கீழ் பணிபுரியும் ஊழியர்களின் சம்பள உயர்வு குறித்து மறுபரிசீலனை செய்வதாகவும் அவர் தெரிவித்தார்.
+Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe today said that the governor will not resign due to the problems caused by the salary increase.
 
-தனது பொறுப்புகளை உரிய முறையில் நிறைவேற்றத் தவறினால் மாத்திரமே பதவியில் இருந்து விலகுவதாகவும், நிறுவனத் தலைவர் என்ற வகையில் ஊழியர்களின் சம்பளம் தொடர்பில் கவனம் செலுத்த வேண்டிய பொறுப்பு தனக்கு இருப்பதாகவும் ஆளுநர் மேலும் தெரிவித்தார்.
+Commenting on the media, he said the crisis was caused by the central bank's salary increase.
 
-“ஆளுநர் என்ற முறையில் எனது ஊழியர்களுக்கு எனக்கு பொறுப்பு உள்ளது. எப்போதும் நடைமுறையில் உள்ள சட்ட கட்டமைப்பின் கீழ் இந்த சம்பள உயர்வு செய்யப்பட்டுள்ளது”.
+He also said that he would review the salary increase of employees under him.
+
+The governor added that he would only resign from office if he failed to fulfill his responsibilities properly and that he had the responsibility to focus on the salaries of the employees as the corporation chairman.
+
+“As the governor, my employees have responsibility for me. This salary has been increased under the existing legal framework. ”
+
+“Not only the central bank but other state agencies and private institutions think about their employees. Everyone has been affected by the crisis. So that the odds cannot be. The decision has been made in speaking to the Finance Council and the trade unions.
 
 ...
 
 [Data](articles/d647331a.json)
 
+[Extended Data](ext_articles/d647331a.ext.json)
+
 ---
 
-### 14 වන මහලින් වැටුණු අයකුට අත්වූ ඉරණම
+### The fate of a 14th floor fate
 
 *2024-03-26 16:23:19* · [`adalk`](https://www.ada.lk/breaking_news/14-වන-මහලින්-වැටුණු-අයකුට-අත්වූ-ඉරණම/11-408812) · `si`
 
-බොරැල්ල ඩි  එස් සේනානායක මාවතේ ඉදිකරමින් පවතින ගොඩනැගිල්ලක 14 වන මහලින් පහළට වැටීමෙන් පුද්ගලයකු මිය ගොස් ඇතැයි බොරැල්ල පොලිසිය පවසයි.
+A victim fell from the 18th to the 14th floor of a building in Borella, Colombo, and was pronounced dead at Colombo National Hospital.
 
-මියගිය පුද්ගලයා තට්ටු  18 කින් යුත් ඉඳිකරමින් පවතින නිවසේ 14 වෙනි මහලේ පෙදෙරේරුවකු සඳහා අත් උදව් දෙමින් සිටියදී පය ලිස්සා පහළට වැටී මෙම අනතුර වී ඇතැයි පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත
+🟩
 
-අනතුරින් බරපතල ලද පුද්ගලයා ඒ මොහොතේම කොළඹ ජාතික රෝහල වෙත ඇතුළත් කර ඇති අතර වෛද්‍යවරුන් පරික්ෂා කර බලා ඔහු මියගොස් ඇති බවට දැනුම් දී ඇත.
+The Borella police states that the 14th floor of a building constructed at Borella de S. Senanayake Mawatha.
+
+Police investigations have revealed that the victim has fallen to the 14th floor of the house of the 18th floor of the house.
+
+The victim of the accident was admitted to the Colombo National Hospital at the time of the event and the doctors have been inspected and told him that he had died.
 
 ◼️
 
 [Data](articles/769bf4ba.json)
+
+[Extended Data](ext_articles/769bf4ba.ext.json)
+
+---
+
+### Shakib Al Hasan returns for second Test against Sri Lanka
+
+*2024-03-26 16:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shakib-Al-Hasan-returns-for-second-Test-against-Sri-Lanka/108-279641) · `en`
+
+Mar. 26 (ICC) - Bangladesh make two changes to their 15-member squad for the second Test against Sri Lanka in Chattogram.
+
+In a big boost to Bangladesh’s hopes of drawing the Test series against Sri Lanka as Shakib Al Hasan makes a comeback to the squad for the second match, starting 30 March.
+
+Shakib returns to international cricket for the first time since the ICC Men’s Cricket World Cup in November 2023. His campaign was cut short ahead of Bangladesh’s last World Cup match against Australia due to a left index finger injury.
+
+Earlier this year in January, he was diagnosed with a retinal condition but the Bangladesh medical team were “optimistic about managing the condition effectively with a conservative approach.”
+
+Shakib, who last played a Test in April 2023, comes back at the expense of Tawhid Hridoy, who was in the 15-member squad for the first match but did not feature in the XI.
+
+...
+
+[Data](articles/db116c85.json)
 
 ---
 
@@ -72,11 +146,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-03-26 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98215/five-member-sc-bench-to-hear-petitions-challenging-online-safety-act) · `en`
 
-A five-member Supreme Court bench has been appointed to consider the fundamental rights (FR) petitions filed challenging the passing of the Online Safety Act in the parliament.
+A five-member Supreme Court bench has been appointed by Chief Justice Jayantha Jayasuriya to consider the fundamental rights (FR) petitions filed challenging the passing of the Online Safety Act in the parliament.
 
 The petitions were called before the judge bench chaired by Supreme Court Justice S. Thurairajah, on Monday (March 25).
 
-Filed by Transparency International and several other parties, the petitions seek a Supreme Court order determining that the passage of the Bill in the parliament and the Speaker’s move to endorse his certificate on the document were unlawful as the amendments recommended by the Supreme Court were excluded in the legislation which seeks to regulate online content.
+Filed by Transparency International and several other parties, the petitions seek a Supreme Court order determining that the passage of the Bill in the parliament and the Speaker’s move to endorse his certificate on the document were unlawful as the amendments recommended by the Supreme Court were excluded in the legislation that seeks to regulate online content.
 
 The petitions have been fixed for July 24 for confirmation of facts.
 
@@ -110,23 +184,47 @@ The couple in the entire country were popular in the entire country over the cou
 
 ---
 
-### வடமாகாண விவசாயிகளின் மின்கட்டணம் குறைக்கப்படும்
+### Northern Province farmers' electricity will be reduced
 
 *2024-03-26 16:12:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடமாகாண-விவசாயிகளின்-மின்கட்டணம்-குறைக்கப்படும்/175-335219) · `ta`
 
-விவசாயத் தேவைகளுக்காக மின்சாரத்தைப் பயன்படுத்தும் வடமாகாண விவசாயிகளின் மின் கட்டணத்தைக் குறைப்பதற்கான அமைச்சரவைப் பத்திரம் சமர்ப்பிக்கப்படும் என விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்தார்.
+The Minister of Agriculture and Plantation Industries, Mahinda Amaraweera, announced plans to reduce electricity tariffs for Northern Province farmers, acknowledging their efforts in agriculture despite the impact of the 30-year war.
 
-விவசாய நடவடிக்கைகளில் பெரும் முயற்சியுடன் அனைத்துப் பணிகளையும் முன்னெடுப்பதற்கு வடமாகாண மக்களின் அர்ப்பணிப்பை கருத்திற்கொண்டு இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக அவர் கூறினார்.
+🟩
 
-அபிவிருத்தி நடவடிக்கைகளை அமுல்படுத்தும் போது அமைச்சுக்களுக்கு ஒதுக்கப்படும் பணத்தின் பெரும்பகுதியை வடக்கு, கிழக்கு மாகாண மக்களுக்கே ஒதுக்க வேண்டும் என ஜனாதிபதி ஆலோசனை வழங்கியதாக அமைச்சர் தெரிவித்தார்.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera said that the Cabinet paper will be submitted to reduce the electricity tariffs of the Northern Province farmers who use electricity for agricultural purposes.
 
-வடமாகாணத்தில் 30 வருடங்களாக இடம்பெற்ற யுத்தத்தினால் மக்கள் பாதிக்கப்பட்டுள்ளனர். ஆனால் அந்த பிரச்சனைகளுக்கு மத்தியிலும் அவர்கள் விவசாயத்தை கைவிடவில்லை.
+He said the decision was taken in view of the commitment of the people of the Northern Province to carry out all the tasks with great efforts in agricultural activities.
 
-எனவே வடமாகாண விவசாயிகள் தமது விவசாய நடவடிக்கைகளுக்கு மின்சாரத்தை பயன்படுத்தும் போது ஓரளவு நிவாரணம் வழங்குமாறு கோரிக்கை விடுத்துள்ளனர்.
+The Minister said that the president had advised the people of the Northern and Eastern Province to allocate most of the money allocated to the ministries when implementing development activities.
+
+People have been affected by the 30 -year war in the Northern Province.But despite those problems, they did not abandon agriculture.
+
+The farmers of the Northern Province have therefore demanded some relief when using electricity for their agricultural activities.
 
 ...
 
 [Data](articles/44ace595.json)
+
+[Extended Data](ext_articles/44ace595.ext.json)
+
+---
+
+### Special security measures in place for Good Friday, Easter Sunday
+
+*2024-03-26 16:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-security-measures-in-place-for-Good-Friday-Easter-Sunday/108-279639) · `en`
+
+(Colombo), March 26 (Daily Mirror) -  Special security measures have been implemented at churches across the country in view of the upcoming Good Friday and Easter Sunday, police said.
+
+Police spokesman DIG Nihal Thalduwa said that Inspector-General of Police (IGP) Deshabandu Tennakoon has directed all officers, including Senior Deputy Inspectors General of Police (SDIGs), DIGs, and officers in charge (OICs) of police divisions to ensure enhanced security.
+
+He said Police OICs have been instructed to collaborate with priests and boards of trustees of churches to develop tailored security plans during Holy Masses from March 29 to 31.
+
+Under this plan, church premises will be inspected discreetly before sermons begin, to avoid disturbing devotees. If necessary, body searches may be conducted after discussions with church authorities.
+
+...
+
+[Data](articles/638d3963.json)
 
 ---
 
@@ -160,25 +258,33 @@ The two drivers in the accident and the cab have been arrested and Kottawa Polic
 
 ---
 
-### කළුතර විරෝධතාකරුවන් සහ පොලිසිය අතර උණුසුම් තත්ත්වයක්
+### There is a warm situation between the Kalutara protesters and the police
 
 *2024-03-26 15:54:52* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-විරෝධතාකරුවන්-සහ-පොලිසිය-අතර-උණුසුම්-තත්ත්වයක්/11-408811) · `si`
 
-කළුතර නගර මධ්‍යයේ අද 26 දහවල් ජනඅරගල ව්‍යාපාරයේ විරෝධතා කරුවන් පිරිසක් සහ පොලීසිය අතර උණුසුම් තත්ත්වයක් ඇති විය.
+Protesters and police in Kalutara have a tense situation. The People's Struggle Movement protested against high taxes, electricity bills, and terrorism, leading to arrests. Police presence was increased, and a conflict occurred when protesters attempted to move a tent. Two individuals were detained for illegal construction.
 
-ජීවන බර, බදු මිල, විදුලි බිල , ත්‍රස්තපනත සහ විරෝධතා කරුවන් අත්අඩංගුවට ගැනීම ඇතුළු ඉල්ලීම් කිහිපයක් මුල් කර ගනිමින් ජන අරගල ව්‍යාපාරය ප්‍රධාන බස් නැවතුම්පළ ඉදිරිපිට විරෝධතාව සිදුකරන ලදී.
+🟩
 
-උදෑසන සිට කළුතර නගරයේ සහ ඒ අවට විශේෂ පොලිස් ආරක්ෂාවක් යොදා තිබු අතර විරෝධතාව පැවැත් වූ ස්ථානය අවට පොලිස් කණ්ඩායම් රැසක් යොදවා තිබූ අයුරු දැකගත හැකි විය.
+In the center of Kalutara, the 26th afternoon, a group of protesters and the police had warmed between the police.
 
-දැඩි අව් රශ්මිය මධ්‍යයේ විරෝධතාවය පවත්වන අතරතුර  විරෝධතා කරුවන් කිහිප දෙනෙකු විරෝධතා පුවරු අතැතිව බිම වාඩි වූ අතර, ඔවුන්ගේ ආධාරකරුවන් දෙදෙනෙකු විරෝධතාකරුවන් වෙනුවෙන් ටෙන්ට් රෙද්දක් රැගෙන එන ලදී.
+The People's Struggle Movement was protesting in front of the main bus stand as the heavy, tax prices, electricity bill, terrorism and protesters were taken into custody.
 
-එසේ රැගෙන ආ ටෙන්ට් රෙද්ද පොලිස් භාරයට ගැනීමට යාමේදී විරෝධතාකරුවන් සහ පොලිසිය අතර උණුසුම් තත්ත්වයක් ඇති විය.
+From the morning to and around Kalutara and surrounding police protection was found and several police teams were deployed in the protest.
 
-පොලිස් නිලධාරීන් විශාල පිරිසක් එක්ව ටෙන්ට් රෙද්ද රැගෙන ආ පුද්ගලයින් සහ ඒ සඳහා සහාය දැක්වූ අය සමග ඇතිවූ උණුසුම් තත්ත්වයකින් පසු ටෙන්ට් රෙද්දි සහ සිව්දෙනෙකු  කළුතර දකුණ පොලිසිය වෙත රැගෙන යන ලදී.
+Several protesters sat on the protest with the protests and two of their supporters were brought to the protesters while protesting.
 
-...
+The protesters and the police had a warm situation when they were going to take the Tent Raddle to the Tent Raddle.
+
+A large number of police officers together with the people who had brought the tender cloth and a hot situation with supporters were taken to the Kalutara South Police.
+
+A senior police officer said two persons were taken into custody for illegal construction.
+
+◼️
 
 [Data](articles/e0b3ff1d.json)
+
+[Extended Data](ext_articles/e0b3ff1d.ext.json)
 
 ---
 
@@ -227,6 +333,26 @@ The arrested persons, their vehicle, and a large amount of iron rods stolen by t
 [Data](articles/efee828b.json)
 
 [Extended Data](ext_articles/efee828b.ext.json)
+
+---
+
+### CB governor vows not to resign over salary increase
+
+*2024-03-26 15:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CB-governor-vows-not-to-resign-over-salary-increase/108-279637) · `en`
+
+Colombo, March 26 (Daily Mirror) - The Governor of the Central Bank of Sri Lanka (CBSL), Dr. Nandalal Weerasinghe today that he will not step down from the post of Governor due to the issues caused by the salary increase.
+
+While addressing the media, he said the crisis situation was caused by the amount of the salary increase at the CBSL.
+
+He also said that he will reconsider the salary increase for the employees working under him.
+
+The Governor also said that he will leave his position only if he fails to fulfill his responsibilities properly, and as the head of the institution, he has a responsibility to pay attention to the salaries of his employees.
+
+"As the governor, I have responsibility for my staff. This salary increase has been done as it has always been done under the existing legal framework.
+
+...
+
+[Data](articles/8268df27.json)
 
 ---
 
@@ -326,19 +452,37 @@ Nakuleswaram (J/226), Kankesanthurai (J/233) under the Tellippalai Divisional Se
 
 ---
 
-### විශේෂ වෙළඳ භාණ්ඩ බද්ද වෙනුවට අලුත් බද්දක්
+### SLAF partners with Arthur C Clarke Institute for tech advancement
+
+*2024-03-26 15:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/SLAF-partners-with-Arthur-C-Clarke-Institute-for-tech-advancement/110-279635) · `en`
+
+The Sri Lanka Air Force (SLAF) has initiated a collaborative effort with the Arthur C Clarke Institute for Modern Technologies (ACCIMT) to acquire technical consultancy and cooperation, training, data sharing, joint Research & Development (R&D) collaboration and resource sharing. The signing of a comprehensive Memorandum of Understanding (MoU) between the Commander of the Air Force, Air Marshal Udeni Rajapaksa and Director General and CEO of Arthur C Clarke Institute Eng. Dr. Sanath Panawennage mark the beginning of a partnership focused on enhancing the potential of rapidly evolving applications in the domains of Space Technology, Drone and Unmanned Ariel Vehicles for better execution of the role of SLAF in line with the national defence strategy of Sri Lanka.
+
+◼️
+
+[Data](articles/9a2a91be.json)
+
+---
+
+### A new tax instead of special commodity tax
 
 *2024-03-26 15:00:40* · [`adalk`](https://www.ada.lk/breaking_news/විශේෂ-වෙළඳ-භාණ්ඩ-බද්ද-වෙනුවට-අලුත්-බද්දක්/11-408810) · `si`
 
-2007 අංක 48 දරණ විශේෂ වෙළෙඳ භාණ්ඩ බදු පනත අත්හිටුවීමට කැබිනට් අනුමැතිය හිමි වී තිබේ.
+The government has suspended the Special Commodity Tax Act No. 48 of 2007, which imposed taxes on 64 items, to address implementation issues.
 
-භාණ්ඩ 64ක් ආනයනය කිරීමේදී පහසුකම් සැලසීම සඳහා තනි සංයුක්ත බද්දක් අය කිරීම පිණිස 2007 අංක 48 දරණ විශේෂ වෙළඳ භාණ්ඩ බදු පනත යටතේ විශේෂ වෙළඳ භාණ්ඩ බද්ද පනවනු ලැබ ඇත.
+🟩
 
-එම බද්ධ ක්‍රියාත්මක කිරීමේදී පැන නැගී ඇති විවිධ ගැටලු හේතුවෙන් එකී බදු පනත අත්හිටුවීමේ අවශ්‍යතාවය හඳුනාගෙන ඇතැයි රජය කියයි.ඒ පනත අතීටුවීම සඳහා නව පනත් කෙටුම්පතක් සකසන ලෙස නීති කෙටුම්පත් සම්පාදකට උපදෙස් දීම සඳහා ජනාධිපතිවරයා ඉදිරිපත් කළ යෝජනාවට කැබිනට් අනුමැතිය ලැබී තිබේ
+Cabinet approval has been obtained to suspend the Special Commodity Tax Act No. 48 of 2007.
+
+Special commodities have been imposed under the Special Commodity Tax Act No. 48 of 2007 to facilitate the facilitation of 64 items.
+
+The government has identified the need to suspend the Tax Act to instruct the Legal Draftsman for the various issues that arise in the implementation of the grafting.
 
 ◼️
 
 [Data](articles/741caeb2.json)
+
+[Extended Data](ext_articles/741caeb2.ext.json)
 
 ---
 
@@ -534,6 +678,8 @@ The Baltimore City Fire Department described the collapse as a mass-casualty inc
 
 *2024-03-26 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98214/major-us-bridge-collapses-after-being-hit-by-colombo-bound-ship) · `en`
 
+The Francis Scott Key Bridge in #US city #Baltimore collapsed on Tue following a ship collision, CNN reported. Traffic is being redirected, and it remains uncertain if there were any injuries.pic.twitter.com/6q5smwGLWD— Global Times (@globaltimesnews) March 26, 2024
+
 Baltimore’s Key Bridge has collapsed after it was hit by a container ship, sending cars that were crossing at the time plunging into the waters of the Patapsco River.
 
 At least seven people are believed to be in the water and rescue efforts are ongoing at the site of the collapse, according to the Baltimore Fire Department.
@@ -541,8 +687,6 @@ At least seven people are believed to be in the water and rescue efforts are ong
 Multiple videos shared on social media showed a large cargo ship ramming into one of the bridge’s support pillars, causing it to come crashing down into the river.
 
 A large portion of the Francis Scott Key Bridge is now under water, as flight tracking website FlightRadar24 showed the Maryland State Police circling the site of the crash in a helicopter.
-
-Kevin Cartwright, director of communications for the fire department, said the city was dealing with a “developing mass casualty incident”.
 
 ...
 
@@ -572,17 +716,23 @@ The party said in a statement that it would condemn such false and distorted sta
 
 ---
 
-### මෛත්‍රී දුන් ප්‍රකාශය වැරදියට පළ කරනවා
+### Maithri gave the statement misleading
 
 *2024-03-26 14:16:48* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-දුන්-ප්‍රකාශය-වැරදියට-පළ-කරනවා/11-408805) · `si`
 
-හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතා පාස්කු ප්‍රහාරය සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ලබාදුන් ප්‍රකාශය විකෘති කරමින් සමාජ මාධ්‍ය තුළ විවිධ තොරතුරු පළවන බව ශ්‍රී ලංකා නිදහස් පක්ෂයේ ප්‍රධාන ලේකම් සාරතී දුෂ්මන්ත මහතා නිවේදනයක් නිකුත් කරමින් පවසයි.
+Sarahy Dreaminna, SLFP General Secretary, accuses Maithripala Sirisena of being misled by the CID in the Easter investigation.
 
-මේ හරහා පක්ෂයේ සභාපතිවරයාද වන හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතා මෙන්ම ශ්‍රි ලංකා නිදහස් පක්ෂයද අපකීර්තියට පත් කිරිමේ උත්සාහයක් පවතින බව මිත්‍රපාල මහතා නිකුත් කළ නිවේදනයේ වැඩිදුරටත් දැක්වෙයි.
+🟩
+
+Sri Lanka Freedom Party (SLFP) General Secretary Sarahy Dreaminna announces that former President Maithripala Sirisena was distorted by the Criminal Investigation Department regarding the Easter investigation Department.
+
+Mithrpala, the Meeting of the Meeting Maithripala Sirisena and former Sri Lanka Freedom Party (SLFP) is also present.
 
 ◼️
 
 [Data](articles/f9d39c03.json)
+
+[Extended Data](ext_articles/f9d39c03.ext.json)
 
 ---
 
@@ -1190,7 +1340,7 @@ In addition, the minimum daily wage of workers is proposed to be raised from Rs.
 
 The Cabinet of Ministers has given its approval to amend the National Minimum Wage of Workers Act No. 03 of 2016 to increase the minimum monthly wage and daily wage of all workers in any industry.
 
-This was recommended by the tripartite sub-committee of trade unions representing Small- and Medium-Sized Enterprises (SMEs) and employees appointed by the National Labour Advisory Council.
+This was recommended by the tertiary sub-committee of trade unions and employers representing Small- and Medium-Sized Enterprises (SMEs) appointed by the National Labour Advisory Council.
 
 The relevant proposal was presented to the Cabinet meeting held on Monday (March 25) by Minister of Labour and Foreign Employment Manusha Nanayakkara.
 
@@ -2131,147 +2281,5 @@ It is reported that the T-56 rifle used at the main gate security checkpoint at 
 [Data](articles/2cf2da6d.json)
 
 [Extended Data](ext_articles/2cf2da6d.ext.json)
-
----
-
-### Foreign remittances and tourist grantm up
-
-*2024-03-26 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194940) · `si`
-
-The Central Bank of Sri Lanka highlights a significant increase in foreign remittances and tourist grants, with the country receiving 964 million in foreign remittances in 2024.
-
-🟩
-
-The Central Bank emphasizes that there is a high level of foreign remittances and tourist grains.
-
-Accordingly, the country has received 964 million foreign remittances in 2024.
-
-The Central Bank of Sri Lanka that a large number of tourists have come to the island have been attending the island.
-
-◼️
-
-[Data](articles/7e78e32e.json)
-
-[Extended Data](ext_articles/7e78e32e.ext.json)
-
----
-
-### Maithri's confession was sent to the Attorney General
-
-*2024-03-26 09:47:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-வாக்குமூலம்-சட்டமா-அதிபருக்கு-அனுப்பப்பட்டது/175-335196) · `ta`
-
-Maithripala Sirisena's confession about knowing the Easter Sunday attack's perpetrator was sent to the Attorney General for legal action.
-
-🟩
-
-Former President Maithripala Sirisena's statement, "I know who carried out the Easter Sunday attack," the Criminal Investigation Department said yesterday that the affidavit was sent to the Attorney General.
-
-The confession from Maithripala Sirisena has been sent to the Attorney General for further legal action by the Criminal Investigation Department officials for more than 6 hours.
-
-Maithripala Sirisena appeared in CIT yesterday after the Public Security Minister Tran Ales issued a directive to the Inspector General of Police to inquire into the former President's comments in Kandy that he was aware of the Easter Sunday attack on April 21, 2019.
-
-◼️
-
-[Data](articles/0736f34c.json)
-
-[Extended Data](ext_articles/0736f34c.ext.json)
-
----
-
-### Rice for low -income families
-
-*2024-03-26 09:47:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறைந்த-வருமானம்-பெறும்-குடும்பங்களுக்கு-அரிசி/175-335195) · `ta`
-
-The government will distribute 20 kg of rice to 28 lakh low-income families, with 10 kg each in April and May. Public servants' salaries will be paid by April 10th.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya has said that the government has decided to provide 20 kilograms of rice to 28 lakhs of low -income families.
-
-He added that 10 kilograms of rice and 10 kilograms of rice are planned in April.
-
-“Last year, we provided rice to 28 lakhs of low -income families. Similarly, we will provide rice to 28 lakh families twice as ten kilograms each.
-
-10 kilograms of rice will be provided before the New Year in April and 10 kilograms of rice will be provided in the first week of May.
-
-Meanwhile, the government has decided to pay the increased salary of public servants before the 10th of April.
-
-◼️
-
-[Data](articles/615656af.json)
-
-[Extended Data](ext_articles/615656af.ext.json)
-
----
-
-### Good news for train passengers
-
-*2024-03-26 09:42:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-பயணிகளுக்கு-நல்ல-செய்தி/175-335194) · `ta`
-
-Transport Minister Bandula Gunawardena announced a special train from Colombo Fort to Badulla, starting April 5, to attract tourists. The train will run on Fridays, Sundays, Tuesdays, and Thursdays at 6.30 am.
-
-🟩
-
-Transport Minister Bandula Gunawardena has said that a special train will be operated from Colombo Fort to Badulla to attract tourists.
-
-He added that the train with a special box will be served from April 5 to Nanuoya to Badulla.
-
-Minister Bandula Gunawardena added, “On April 5, two new trains will be operated via El, nine Arch and these tourist destinations.
-
-A train will run from Colombo Fort to Badulla at 6.30 am and a train will run on Friday, Sunday, Tuesday and Thursday. ”said.
-
-◼️
-
-[Data](articles/02cf2a7b.json)
-
-[Extended Data](ext_articles/02cf2a7b.ext.json)
-
----
-
-### Maithri's Confession: Send to AG
-
-*2024-03-26 09:32:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-வாக்குமூலம்-AG-க்கு-அனுப்பிவைப்பு/175-335193) · `ta`
-
-Maithripala Sirisena confessed to AG he knows who attacked on Easter Sunday. CID sent for legal action. Sirisena appeared in CIT on March 22, following a directive to the Inspector General of Police.
-
-🟩
-
-Former President Maithripala Sirisena has sent a statement to the Attorney General of the Attorney General regarding that he knows who carried out the Easter Sunday attack.
-
-The Criminal Investigation Department (CID) has been sent to the Attorney General for further legal action from Maithripala Sirisena for more than 6 hours.. The affidavit was received on Monday (25).
-
-Maithripala Sirisena appeared on Monday (25) in CIT, following a directive to the Inspector General of Police, Tran Ales, in a statement to the Inspector General of Police in Kandy on March 22.
-
-◼️
-
-[Data](articles/89cbebc1.json)
-
-[Extended Data](ext_articles/89cbebc1.ext.json)
-
----
-
-### May experience heavy rainfall over 100 mm
-
-*2024-03-26 09:31:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-மி-மீற்றருக்கு-அதிகமான-பலத்த-மழை-பெய்யக்கூடும்/175-335192) · `ta`
-
-Heavy rainfall over 100mm expected in Southern Province, Ampara, Moneragala, Eastern, Uva, and Polonnaruwa districts. Thunderstorms possible in upper, Sabaragamuwa, South Central, and some places in Central, Sabaragamuwa, Uva provinces. Advised to prepare for wind and lightning.
-
-🟩
-
-The Department of Meteorology said that heavy rains are expected in the Southern Province, Ampara and Moneragala districts today (26).
-
-The department said that there is a possibility of rain or thunderstorms in the evening or night in the upper, Sabaragamuwa and South Central Provinces.
-
-Rainfall is expected to occur in the Eastern and Uva provinces and Polonnaruwa district.
-
-The Central, Sabaragamuwa and Uva provinces are expected in some places in the morning and in the Kalutara, Galle and Matara districts.
-
-The Department of Meteorology has urged the people to take necessary steps to reduce the risks of temporary heavy winds and lightning strikes with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/983c2ccf.json)
-
-[Extended Data](ext_articles/983c2ccf.ext.json)
 
 ---

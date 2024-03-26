@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 16:17:54**
+As of **2024-03-26 16:34:03**
 
 ## Newspaper Stats
 
-*Scraped **15,282** Articles*
+*Scraped **15,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,71 +16,149 @@ dailyftlk | 819
 economynextcom | 821
 islandlk | 844
 adalk | 1,300
-adaderanalk | 1,835
+adaderanalk | 1,836
 tamilmirrorlk | 1,839
 virakesarilk | 2,156
 dailymirrorlk | 2,359
-adaderanasinhalalk | 2,453
+adaderanasinhalalk | 2,455
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,278 (100.0%) of 15,282 articles have been extended.
+15,282 (100.0%) of 15,285 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### யாழில் தவறான அக்குபஞ்சர் சிகிச்சையால் ஒருவர் உயிரிழப்பு
+### Five-member SC bench to hear petitions challenging Online Safety Act
+
+*2024-03-26 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98215/five-member-sc-bench-to-hear-petitions-challenging-online-safety-act) · `en`
+
+A five-member Supreme Court bench has been appointed to consider the fundamental rights (FR) petitions filed challenging the passing of the Online Safety Act in the parliament.
+
+The petitions were called before the judge bench chaired by Supreme Court Justice S. Thurairajah, on Monday (March 25).
+
+Filed by Transparency International and several other parties, the petitions seek a Supreme Court order determining that the passage of the Bill in the parliament and the Speaker’s move to endorse his certificate on the document were unlawful as the amendments recommended by the Supreme Court were excluded in the legislation which seeks to regulate online content.
+
+The petitions have been fixed for July 24 for confirmation of facts.
+
+...
+
+[Data](articles/7a639c0d.json)
+
+---
+
+### රටම කතා වූ මනාල යුවළ රටින් යන්න කළින් කී කතාව
+
+*2024-03-26 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194959) · `si`
+
+වසර 16 ක ආදර කතාවක සොඳුරුතම දිනය දා ජනප්‍රිය ගායන ශිල්පී අජිත් මුතුකුමාරණ මහතාගේ ගීතයකට අපූරු රංගනයක් සිදුකළ ඒ යුවළ ගැන සමාජ මාධ්‍ය ඔස්සේ දැඩි කතාබහක් ඇතිවිය.
+
+ඇඹිලිපිටිය ප්‍රදේශයේ පදිංචි ඔවුන් සිය විවාහයෙන් පසුව ඉතාලිය බලා පිටත්ව ගොස් තිබේ.
+
+නොසිතූ මොහොතක සමාජ මාධ්‍ය හරහා ප්‍රචාරය වූ වීඩියෝවෙන් එක රැයෙන් මුළු ලංකාවේම ජනප්‍රිය වූ එම යුවළ අද දෙරණට පැවසුවේ මෙවැන්නක්.
+
+◼️
+
+[Data](articles/3d215309.json)
+
+---
+
+### කොට්ටාවේ යතුරුපැදි අනතුරෙන් මියගිය සිසුවාගේ ඛේදවාචකය
+
+*2024-03-26 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194958) · `si`
+
+කොට්ටාව, හයිලෙවල් මාර්ගයේදී ඊයේ (25) සිදුවූ රිය අනතුරකින් 18 හැවිරිදි තරුණයෙකු ජීවිතක්ෂයට පත්වූ අතර එම අනතුර සම්බන්ධයෙන් තවත් තොරතුරු හෙළිවී තිබේ.
+
+මෙම අවාසනාවන්ත සිද්ධියට මුහුණ දී තිබුණේ මෙවර උසස් පෙළට පෙනීසිටී සහන් දිවංත පෙරේරා නම් සිසුවෙකි.
+
+පවුලේ බාලයා වූ සහන් මිතුරෙකුගේ යතුරුපැදියක් රැගෙන එය මවට පෙන්වීම සඳහා ගොස් නැවත පැමිණෙමින් සිටියදී මෙම අනතුරට මුහුණදී තිබුණි.
+
+නවීකරණය කරන ලද එම යතුරුපැදියට දැඩි ආශාවෙන් සිටි සහන් සතුට වැඩිකමට එය මවට පෙන්වීම සඳහා එලෙස රැගෙන ගොස් ඇති බවද වාර්තා විය.
+
+එලෙස මිතුරා ට ආපසු යතුරුපැදිය භාරදීම සඳහා පැමිණෙමින් සිටි සහන්, කොට්ටාව දෙස සිට මාකුඹුර දෙසට ධාවනය වූ වෑන් රථයක් මාර්ගය හරහා දකුණට හැරවීමට යාමේදී (යූ ටර්න්) මාකුඹුර දෙස සිට කොට්ටාව දෙසට ධාවනය කරමින් තිබූ යතුරුපැදිය එහි ගැටී තිබුණි.
+
+එහිදී යතුරුපැදිය මාර්ගයේ පෙරළී කොට්ටාව දෙස සිට මාකුඹුර දෙසට ධාවනය වූ කැබ් රථයක ද ගැටීමෙන් සහන් ට දිවි අහිමිවිය.
+
+අනතුරට සම්බන්ධ වෑන් රථයේ හා කැබ් රථයේ රියදුරන් දෙදෙනා අත්අඩංගුවට ගෙන ඇති අතර කොට්ටාව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/041c84dc.json)
+
+---
+
+### In Jaffna
 
 *2024-03-26 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/179759) · `ta`
 
-முழங்கால் வலியினால் அவதிப்பட்டு வந்தவர் யாழ்.நகர் பகுதியை அண்மித்த பிறவுண் வீதியில் அக்குபஞ்சர் சிகிச்சை நிலையம் என்ற பெயரில் இயங்கி வரும் சிகிச்சை நிலையத்திற்கு  சமூக ஊடகங்களில் வந்த விளம்பரங்களை நம்பி சிகிச்சைக்காக சென்றுள்ளார்.
+A man in Jaffna, seeking acupuncture treatment for knee pain, was admitted to Jaffna Bodhana Hospital after injections caused by infections led to his death. Doctors warn of the dangers of misinformation on social media and the need for legal action against fraudulent practitioners.
 
-சிகிச்சையின் பின்னர் கடுமையான வலிகள் ஏற்பட்டமையால் , யாழ்.போதனா வைத்தியசாலையில் சிகிச்சைக்காக அனுமதிக்கப்பட்டார்.
+🟩
 
-உடற்கூற்று பரிசோதனையின் போது , அக்குபஞ்சர் சிகிச்சை என தவறான முறைகளில் செலுத்தப்பட்ட ஊசிகள் மூலம் கிருமி தொற்றுக்கள் ஏற்பட்டு, அவை உடல் முழுவதும் பரவியதால் மரணம் சம்பவித்துள்ளது என கண்டறியப்பட்டுள்ளது.
+A man who suffered from knee pain has gone to the treatment center under the name of Acupunjer Treatment on the recent birth street in Jaffna Nagar, relying on social media.
 
-சமூக ஊடகங்களில் வெளியாகும் விளம்பரங்களை நம்பி தவறான சிகிச்சை முறைகளை பெற்றுக்கொள்வோர் உயிரிழக்கும் சம்பவங்கள் அதிகரித்து செல்லும் நிலையிலும் , அது தொடர்பிலான விழிப்புணர்வுகள் மக்கள் மத்தியில் போதாமையாக உள்ளதாகவும் , இவ்வாறான போலி மருத்துவர்களுக்கு எதிராக கடுமையான சட்ட நடவடிக்கை எடுப்பதன் ஊடாகவே போலி மருத்துவர்களிடம் இருந்து மக்களை காப்பாற்ற முடியும் என வைத்திய வட்டாரங்கள் தெரிவிக்கின்றன.
+He was admitted to the Jaffna Bodhana Hospital for treatment of severe pains after treatment.
+
+During the anatomical examination, it was found that injections were caused by infections, such as acupuncture therapy, causing the death of the body.
+
+According to doctors, doctors say that although the casualties of the people who are receiving misconceptions on social media are on the rise, the awareness of the issue is inadequate among the people, and that strict legal action against such pseudo doctors can be saved from fake doctors.
 
 ◼️
 
 [Data](articles/4ba77833.json)
 
+[Extended Data](ext_articles/4ba77833.ext.json)
+
 ---
 
-### காங்கேசன்துறை சீமெந்து தொழிற்சாலையில் இரும்பு திருட்டில் ஈடுபட்ட குற்றத்தில் இருவர் கைது
+### Two persons arrested for allegedly involved in iron theft at Cement Cement Factory
 
 *2024-03-26 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179758) · `ta`
 
-யாழ்ப்பாணம் காங்கேசன்துறை சீமெந்து தொழிற்சாலைக்குள் அத்துமீறி நுழைந்து இரும்பு திருட்டில் ஈடுபட்ட குற்றச்சாட்டில் இருவர் இன்று செவ்வாய்க்கிழமை (26) கைது செய்யப்பட்டுள்ளனர்.
+Two individuals were arrested for iron theft at Cement Cement Factory, with the stolen vehicle and iron rods seized.
 
-திருட்டுக்கு பயன்படுத்தப்பட்ட வாகனமும் , ஒரு தொகை இரும்பு கம்பிகளும் பொலிஸாரினால் கைப்பற்றப்பட்டுள்ளது.
+🟩
 
-காங்கேசன்துறை சீமெந்து தொழிற்சாலைக்குள் வாகனம் ஒன்றில் அத்துமீறி நுழைந்து இருவர் இரும்பு திருட்டில் ஈடுபட்டுள்ளதாக பொலிஸ் புலனாய்வு பிரிவினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில்  , அவ்விடத்திற்கு விரைந்த பொலிஸார் திருட்டில் ஈடுபட்ட இருவரையும் கைது செய்தனர்.
+Two persons have been arrested on Tuesday (26) on charges of iron theft.
 
-கைது செய்யப்பட்டவர்களையும் , அவர்களது வாகனத்தையும், அவர்களால் திருடப்பட்ட ஒரு தொகை இரும்பு கம்பிகளையும் மேலதிக சட்ட நடவடிக்கைக்காக காங்கேசன்துறை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளனர்.
+The vehicle used for theft and a sum of iron rods has been seized by the police.
+
+Based on the confidential information received by the Police Intelligence Unit, the police arrested two men involved in the theft.
+
+The arrested persons, their vehicle, and a large amount of iron rods stolen by them have been handed over to the Kankesanthurai police station for further legal action.
 
 ◼️
 
 [Data](articles/efee828b.json)
 
+[Extended Data](ext_articles/efee828b.ext.json)
+
 ---
 
-### கோட்டாபய நியமித்த விசேட ஜனாதிபதி ஆணைக்குழுவின் பரிந்துரைகளை செல்லுபடியற்றதாக்கிய மேன்முறையீட்டு நீதிமன்றம்!
+### The Court of Appeal of the Special Presidential Commission appointed Gotabhaya
 
 *2024-03-26 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179755) · `ta`
 
-நல்லாட்சி ஆட்சிக் காலத்தில் இடம்பெற்றதாகக் கூறப்படும் அரசியல் பழிவாங்கல்கள் தொடர்பில் ஆராய்வதற்காக முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்க்ஷவினால் நியமிக்கப்பட்ட விசேட ஜனாதிபதி ஆணைக்குழுவின் பரிந்துரைகள் அனைத்தும் செல்லுபடியற்றதாக மேன்முறையீட்டு நீதிமன்றம் நேற்று திங்கட்கிழமை (25) தீர்ப்பளித்தது.
+The Court of Appeal upheld all recommendations of the Special Presidential Commission, appointed by former President Gotabhaya Rajapakse, to investigate political revenge from 2015 to 2019. Petitioners sought invalidation, but the court ruled in favor of the commission's findings.
 
-08.01.2015 தொடக்கம் 2019 ஜனாதிபதித் தேர்தல் திகதி வரையில் இடம்பெற்றதாகக் கூறப்படும் அரசியல் பழிவாங்கல்கள் தொடர்பில் ஆராயும் ஜனாதிபதி ஆணைக்குழுவினால் முன்வைக்கப்பட்ட பரிந்துரைகள் பாரதூரமான பாரபட்சத்துக்கு உள்ளாகியுள்ளதால் அவற்றை செல்லுபடியற்றதாக்குமாறு மனுதாரர்கள் மேன்முறையீட்டு நீதிமன்றத்திடம் கோரியிருந்தனர்.
+🟩
 
-ஜனாதிபதி ஆணைக்குழுவின் தலைவராக கடமையாற்றிய ஓய்வுபெற்ற மேல் நீதிமன்ற நீதிபதி உபாலி அபேரத்ன, ஆணைக்குழுவின் உறுப்பினர்கள் மற்றும் ஆணைக்குழுவின் செயலாளர் ஆகியோர் இது தொடர்பான மனுக்களின் பிரதிவாதிகளாக பெயரிட்டப்பட்டிருந்தனர்.
+The Court of Appeal on Monday (Monday) ruled that all the recommendations of the Special Presidential Commission appointed by former President Gotabhaya Rajapakse to investigate the alleged political revenge during the good governance.
 
-...
+The petitioners have requested the Court of Appeal to make them invalid because the recommendations made by the Presidential Commission to investigate the alleged political revenge that have taken place from 08.01.2015 to the 2019 presidential election.
+
+Retired High Court Judge Upali Abeyratne, the members of the Commission and the Secretary of the Commission, were named as the defendants of the petitions.
+
+On behalf of President Ranil Wickremasinghe and Dr. Jayampathi Wickremaratne, Attorney -at -Law Dinesh Vidanapatrana, President's Attorney -at -Law Fais Mustafa and President's Lawyer Eraj de Silva were present.
+
+◼️
 
 [Data](articles/1e1cb127.json)
+
+[Extended Data](ext_articles/1e1cb127.ext.json)
 
 ---
 
@@ -2189,75 +2267,5 @@ A motorcycle was killed on the spot when a motorcycle crashed into the luxury bu
 [Data](articles/5b2f02a2.json)
 
 [Extended Data](ext_articles/5b2f02a2.ext.json)
-
----
-
-### Govt. to provide 10kg of rice to low-income families before Avurudu
-
-*2024-03-26 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98206/govt-to-provide-10kg-of-rice-to-low-income-families-before-avurudu) · `en`
-
-The government has decided to distribute rice to as many as 2.8 million low-income families, Finance State Minister Ranjith Siyambalapitiya says.
-
-Accordingly, it is planned to provide 20kg of rice to each family in April and May.
-
-In the month of April, 10kg of rice will be given before the Sinhala and Tamil New Year, and the remaining 10kg within the first week of May, Siyambalapitiya added.
-
-Speaking further, the state minister said that through this relief program, the government intends to benefit not only low-income families but also paddy farmers and small- and medium-scale rice mill owners.
-
-This relief program, proposed by President Ranil Wickremesinghe, was also green-lighted by the Cabinet of Ministers at its meeting held earlier this month.
-
-The low-income families are planned to be identified through District Secretaries/Government Agents by involving small- and medium-scale mill owners.
-
-◼️
-
-[Data](articles/3588ff34.json)
-
-[Extended Data](ext_articles/3588ff34.ext.json)
-
----
-
-### 20 kg of rice to low income families
-
-*2024-03-26 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194938) · `si`
-
-The government will provide 20 kg of rice for Rs. 28 lakhs, with 10 kg in April and May, aiming to support low-income families.
-
-🟩
-
-State Minister Ranjith Siyambalapitiya says that the government has decided to provide 20 kg of rice for Rs. 28 lakhs.
-
-He stated that 10 kilograms in April and to provide the rice to the rice as 10 kilograms of May.
-
-"The government is looking forward to the low-income families in our country. We have distributed rice as low-income families last year. By calculating through the Government Agents, give 20 kg of rice twice with a dependence. 10kg in April, 10 kilograms of May. Give 10 kilograms of Sinhala Hindu New Yiweli. May month month 10 kilograms of month. That's the government's attempt. This is a wide purpose. One to the farmer.. A good guide on the price they receive in the open market. On the other hand, the small and medium scale and gain income for the mill. On the other hand, a direct relief to low income families will be provided with 20 kg of rice. "
-
-Meanwhile, the government has also decided to submit public servants' salary before 10th April.
-
-◼️
-
-[Data](articles/7bd70c43.json)
-
-[Extended Data](ext_articles/7bd70c43.ext.json)
-
----
-
-### Greetings to train passengers
-
-*2024-03-26 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194937) · `si`
-
-Transport Minister Bandula Gunawardena announced new trains from Colombo Fort to Badulla and Nanu Oya to Badulla, focusing on tourism.
-
-🟩
-
-Minister of Transport Bandula Gunawardena says that steps will be taken to operate a special train from Colombo Fort to Badulla to the Badulla to Badulla.
-
-He also stated that a train with a tour specialist train from Nanu Oya to Badulla and a tourist specialist with a tourist specialist with a tourist specialist with a tourist specialist with a tourist specialist with a tourist special watch.
-
-"Falls, Nine Arch, running two new trains through this tourist attraction. One day at 6.30 am every day, a train was traveling from Colombo Fort from Colombo Friday to Badulla. A short distance of train with a traveling academic area is another tourist train from our Nanu Oya to Badulla or a short distance. "
-
-◼️
-
-[Data](articles/08c34f97.json)
-
-[Extended Data](ext_articles/08c34f97.ext.json)
 
 ---

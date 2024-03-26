@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 20:50:35**
+As of **2024-03-26 21:03:48**
 
 ## Newspaper Stats
 
-*Scraped **15,341** Articles*
+*Scraped **15,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 819
 economynextcom | 821
 islandlk | 845
 adalk | 1,310
-adaderanalk | 1,841
-tamilmirrorlk | 1,842
+adaderanalk | 1,842
+tamilmirrorlk | 1,843
 virakesarilk | 2,167
 dailymirrorlk | 2,372
 adaderanasinhalalk | 2,467
@@ -26,43 +26,91 @@ adaderanasinhalalk | 2,467
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,337 (100.0%) of 15,341 articles have been extended.
+15,341 (100.0%) of 15,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
 
-### ஒக்டோபர் முதல் வாரத்தில் ஜனாதிபதி தேர்தல்; ஜனாதிபதி ரணில் அறிவிப்பு!
+### ஐ.தே.கட்சியின் பிரதான அலுவலகம் மீது கைக்குண்டுத் தாக்குதல்
+
+*2024-03-26 20:47:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-தே-கட்சியின்-பிரதான-அலுவலகம்-மீது-கைக்குண்டுத்-தாக்குதல்/175-335234) · `ta`
+
+கடவத்தை எல்தெனியவிலுள்ள  ஐக்கிய தேசியக் கட்சியின் பிரதான அலுவலகத்தின் மீது கைக்குண்டுத் தாக்குதல் நடத்தப்பட்டுள்ளதாக  சிரேஷ்ட பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+அரசியல் பழிவாங்கல் காரணமாக இந்த கைக்குண்டு தாக்குதல் நடத்தப்பட்டிருக்கலாம் என  பொலிஸார் சந்தேகிக்கின்றனர்.
+
+பொலிஸாரால் மேற்கொள்ளப்பட்ட சோதனையின்போது, கட்சி அலுவலகத்துக்கு  முன்பாக உள்ள வீதியில் ஒரு கைக்குண்டும் கட்சி அலுவலகத்துக்குள்  மற்றொரு கைக்குண்டும் கண்டெடுக்கப்பட்டுள்ளது.
+
+வெடிகுண்டு தாக்குதல் நடத்தப்பட்டாலும், வெடிகுண்டு வெடிக்காததால், நடக்கவிருந்த அழிவு தவிர்க்கப்பட்டது என, பொலிஸார் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/b36cce9e.json)
+
+---
+
+### School education will be revamped by alleviating burden of examinations - President
+
+*2024-03-26 20:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98221/school-education-will-be-revamped-by-alleviating-burden-of-examinations-president) · `en`
+
+President Ranil Wickremesinghe on Tuesday (March 26) said it is necessary to maintain law and order in the country, while highlighting the crucial steps taken to safeguard state properties, including the parliament, the prime minister’s office and the president’s office from “violence orchestrated under the guise of a struggle”.
+
+Despite criticisms labelling these actions as human rights violations, the President asserted that such measures were imperative for preventing economic instability.
+
+Stressing the importance of maintaining law and order, particularly in the aftermath of challenging times, President Wickremesinghe underscored the collective responsibility of all parties in upholding societal order.
+
+These sentiments were expressed during a meeting convened at the Presidential Secretariat, where university lecturers gathered to discuss the nation’s current economic program.
+
+...
+
+[Data](articles/ba736303.json)
+
+---
+
+### Presidential election in the first week of October;President Ranil announces
 
 *2024-03-26 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179779) · `ta`
 
-இந்த வருடம் ஒக்டோபர் மாதம் முதல் வாரத்தில் அரசியலமைப்பு ரீதியாக ஜனாதிபதி தேர்தல் நடத்தப்படும் என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்துள்ளார்.
+President Ranil Wickremesinghe announced a presidential election for the first week of October, informed to the political cabinet.
 
-அத்துடன், அண்மையில் ஜனாதிபதியினால் நியமிக்கப்பட்ட அரசியல் அமைச்சரவைக்கு இது அறிவிக்கப்பட்டுள்ளதாக அரசாங்கத்தின் உள்ளக வட்டாரங்கள் தெரிவித்துள்ளன.
+🟩
+
+President Ranil Wickremesinghe has said that the presidential election will be held in the first week of October this year.
+
+The government's internal sources said that this has been announced to the recently appointed political cabinet.
 
 ◼️
 
 [Data](articles/6e2834fa.json)
 
+[Extended Data](ext_articles/6e2834fa.ext.json)
+
 ---
 
-### හිටපු පොලිස් කොස්තාපල් මත්ද්‍රව්‍ය සමග හසුවෙයි
+### Former police constable is with drugs
 
 *2024-03-26 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194971) · `si`
 
-හිටපු පොලිස් කොස්තාපල්වරයෙකු අයිස් මත්ද්‍රව්‍ය සමග අද (26) අත්අඩංගුවට ගත් බව කළුතර කොට්ඨාස විෂ මත්ද්‍රව්‍ය වැටලීම්  ඒකකය පවසයි.
+A 35-year-old ex-police constable from Kalutara was arrested for drug possession. He was caught by police in Alwis Watta, with money in his pocket.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ කළුතර බොලොස්සගම ප්‍රදේශයේ පදිංචි 35 හැවිරිදි පුද්ගලයෙකි.
+🟩
 
-ඔහු අවසන් වරට අරලියගහ මන්දිරයේ රාජකාරී කරමින් සිට දුෂ්චරිත වාර්තා හේතුවෙන් පොලිස් සේවයෙන් ඉවත් කළ අයකු බව උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+An ex-police constable was arrested today (26) with an ice drugs, said the Kalutara Division poison unit.
 
-සැකකරු අයිස් මත්ද්‍රව්‍ය රැගෙන කුඩා ලොරි රථයකින් යමින් සිටින බවට ලද තොරතුරක් මත උප පොලිස් පරීක්ෂක පී.ආර්. වීරසේන ඇතුළු පොලිස් කණ්ඩායමක් වැටලීම සිදුකර තිබුණි.
+The suspect is a 35 year old resident of the Boxezagama, Kalutara.
 
-කළුතර අල්විස් වත්ත ප්‍රදේශයේදී ලොරි රථය නවතා පරීක්ෂා කිරීමේදී කලිසම් සාක්කුවේ සඟවාගෙන සිටි අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 08කට ආසන්න ප්‍රමාණයක් සහ රුපියල් පනස්දහසක පමණ මුදල් සමග සැකකරුව අත්අඩංගුවට ගෙන තිබේ.
+He was a police officer who was acquitted of the police service due to ache of reports last time.
+
+Sub Inspector PR on information that the suspect is going to be busy with a small lorry. Police including Weerasena and a team of police had raided.
+
+The suspect has been arrested in the Alwis Watta area in Kalutara area and the suspects were arrested with the money of the pants pocket and about Rs.
 
 ◼️
 
 [Data](articles/89a2b4ce.json)
+
+[Extended Data](ext_articles/89a2b4ce.ext.json)
 
 ---
 
@@ -81,6 +129,8 @@ The Court further ordered the Minister to pay a fine of Rs. 25 million. The thir
 ...
 
 [Data](articles/35e2aef7.json)
+
+[Extended Data](ext_articles/35e2aef7.ext.json)
 
 ---
 
@@ -138,19 +188,25 @@ An impressive percentage of inflation is expected to maintain a percentage of in
 
 ---
 
-### කොළඹ එන්න ආපු නැව ඇමෙරිකාවේදී ලොකු අනතුරක
+### Ark that came to Colombo in a big danger in America
 
 *2024-03-26 19:25:42* · [`adalk`](https://www.ada.lk/picture_story/කොළඹ-එන්න-ආපු-නැව-ඇමෙරිකාවේදී-ලොකු-අනතුරක/10-408816) · `si`
 
-සිංගප්පූරු ධජය සහිතව ශ්‍රී ලංකාවේ කොළඹ බලා ධාවනය වූ බහාලුම් රැගත් නෞකාවක් අද උදෑසන බැල්ටිමෝර් හි යකඩ පාලමක ගැටීමෙන් විශාල හානියක් සිදුව තිබේ.
+An Ark from Sri Lanka, carrying Singapore Vidya's containers, collided with the Francis Scott Key Bridge in Baltimore, causing a bridge collapse. Nine people fell into the water, two were rescued, and search for others is ongoing.
 
-පාලමේ මධ්‍යම කොටසට යාත්‍රාව ගැටීමෙන් ෆ්‍රැන්සිස් ස්කොට් කී පාලම කඩා වැටෙන මොහොත වීඩියෝවලින්ද පෙනෙන්නට තිබේ.
+🟩
 
-පාලම කඩා වැටීමෙන් පුද්ගලයන් 9 දෙනෙක් ජලයට වැටී තිබුණ අතර එයින් දෙදෙනෙක් බේරා ගෙන තිබේ. අනෙක් පුද්ගලයන් සොයා සෙවීමේ කටයුතු සිදුවෙමින් පවතී.
+A jacket carried out in Sri Lanka with the Singapore Vidya, Sri Lanka's containers were damaged by a iron bridge in Baltimore this morning.
+
+The video of the catchment of the vessel is collided with the catchment of Francis Scott Bridge.
+
+Nine people had fallen into the water by collapsing the bridge, and two of them rescued. Finding out other people is taking place.
 
 ◼️
 
 [Data](articles/af8bdfc1.json)
+
+[Extended Data](ext_articles/af8bdfc1.ext.json)
 
 ---
 
@@ -1610,8 +1666,6 @@ The Baltimore City Fire Department described the collapse as a mass-casualty inc
 
 *2024-03-26 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98214/major-us-bridge-collapses-after-being-hit-by-colombo-bound-ship) · `en`
 
-The Francis Scott Key Bridge in #US city #Baltimore collapsed on Tue following a ship collision, CNN reported. Traffic is being redirected, and it remains uncertain if there were any injuries.pic.twitter.com/6q5smwGLWD— Global Times (@globaltimesnews) March 26, 2024
-
 Baltimore’s Key Bridge has collapsed after it was hit by a container ship, sending cars that were crossing at the time plunging into the waters of the Patapsco River.
 
 At least seven people are believed to be in the water and rescue efforts are ongoing at the site of the collapse, according to the Baltimore Fire Department.
@@ -1619,6 +1673,8 @@ At least seven people are believed to be in the water and rescue efforts are ong
 Multiple videos shared on social media showed a large cargo ship ramming into one of the bridge’s support pillars, causing it to come crashing down into the river.
 
 A large portion of the Francis Scott Key Bridge is now under water, as flight tracking website FlightRadar24 showed the Maryland State Police circling the site of the crash in a helicopter.
+
+Kevin Cartwright, director of communications for the fire department, said the city was dealing with a “developing mass casualty incident”.
 
 ...
 
@@ -2217,65 +2273,5 @@ The Hamas Leader also expressed his views on the proposal to be passed yesterday
 [Data](articles/a0e89a78.json)
 
 [Extended Data](ext_articles/a0e89a78.ext.json)
-
----
-
-### National minimum salary grows
-
-*2024-03-26 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194948) · `si`
-
-The Labor and Foreign Employment proposal to increase the National Minimum Salary by Rs 5,000, from Rs 12,500 to Rs 17,500, and revise the National Minimum daily salary from Rs 500 to Rs 700, was recommended by a tripartite sub-committee appointed by the National Labor Advisory Council.
-
-🟩
-
-The proposal of the Labor and Foreign Employment Aimed at Amendment to the National Minimum Way to increase the National Minimum Relationship by Rs 5,000.
-
-Accordingly, the national minimum salary will be increased from Rs.12,500 to Rs.
-
-The National Minimum daily salary is also recommended to revise the National Minimum No. of Rs. 500 to Rs 700 rupees.
-
-These salary increments have been recommended by a tripartite sub-committee representing Small and Employers who have been appointed on the recommendations of the National Labor Advisory Council.
-
-◼️
-
-[Data](articles/e26663da.json)
-
-[Extended Data](ext_articles/e26663da.ext.json)
-
----
-
-### US massive bridge in the US is a massive crash
-
-*2024-03-26 12:32:13* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cx9z4577yjyo) · `si`
-
-The Francis Scott Key Bridge in Baltimore collapsed, trapping 20 people in the Pattapsco River. The bridge, over 2.6 miles long, collapsed on its 47th span. A cargo ship named Dali, sailing to Sri Lanka, was among the vehicles involved. Rescue operations are underway, with emergency teams facing challenges due to the bridge's structure.
-
-🟩
-
-US massive bridge in the US is a massive crash
-
-There is nothing here. Play Video
-
-The Francis Scott Key Bridge has collapsed in Baltimore City in Baltimore, USA.
-
-Several vehicles traveling through the bridge, which is more than 2.6 miles (1.6 miles), have fallen into the Pattapsco.
-
-According to the Baltimore FireSrome Services Department, about 20 people have fallen into the water.
-
-The sudden relief officer has gone to the place, and the release of the victims are currently in operation.
-
-Municipal Authorities say that it has collapsed on the 47th bridge on the 47th bridge over the 47th bridge.
-
-They said several vehicles, including a tractor tractor, "they said.
-
-According to the data reports, the cargo carrier named Dali, with Singapore Flag, was sailing to the Colombo Port in Sri Lanka.
-
-According to the Ocean Radar system, it has left Port Bres Harbor to 00.45 00.45.
-
-...
-
-[Data](articles/d321909a.json)
-
-[Extended Data](ext_articles/d321909a.ext.json)
 
 ---

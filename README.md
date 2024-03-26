@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 02:03:24**
+As of **2024-03-27 02:17:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,376 (100.0%) of 15,378 articles have been extended.
+15,378 (100.0%) of 15,378 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The impacts of climate change, including slow and sudden onset weather events, a
 
 [Data](articles/49730307.json)
 
+[Extended Data](ext_articles/49730307.ext.json)
+
 ---
 
 ### Hayleys Fentons elevates communication and entertainment experiences with cutting-edge audio-visual integrations
@@ -59,6 +61,8 @@ Powered by top tier global brands including FBT, QSC, Harman, Electro-Voice, ITC
 ...
 
 [Data](articles/1c79dd4c.json)
+
+[Extended Data](ext_articles/1c79dd4c.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 07:43:25**
+As of **2024-03-26 07:56:20**
 
 ## Newspaper Stats
 
-*Scraped **15,164** Articles*
+*Scraped **15,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ dailyftlk | 818
 economynextcom | 818
 islandlk | 843
 adalk | 1,291
-adaderanalk | 1,819
-tamilmirrorlk | 1,821
+adaderanalk | 1,820
+tamilmirrorlk | 1,822
 virakesarilk | 2,127
 dailymirrorlk | 2,341
-adaderanasinhalalk | 2,432
+adaderanasinhalalk | 2,434
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,164 (100.0%) of 15,164 articles have been extended.
+15,164 (100.0%) of 15,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### මහ බැංකු පොලී අනුපාත තවදුරටත් පහළට
+
+*2024-03-26 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194935) · `si`
+
+ශ්‍රී ලංකා මහ බැංකුව සිය ප්‍රතිපත්ති පොලී අනුපාතිකය තවදුරටත් අඩු කිරීමට තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/6d7be075.json)
+
+---
+
+### Heavy showers expected in parts of the island
+
+*2024-03-26 07:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98203/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says several spells of showers will occur in Eastern and Uva provinces and in Polonnaruwa district.
+
+Showers or thundershowers will occur at several places in Western, Sabaragamuwa, Southern and Central provinces during the afternoon or night.
+
+Heavy showers above 100 mm are likely at some places in Southern province and in Ampara and Monaragala districts, it said.
+
+Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces and in Kalutara, Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/50ef8c4a.json)
+
+---
+
+### ගාසා තීරයේ හදිසි සටන් විරාමයක් සඳහා පළමුවරට ආරක්ෂක මණ්ඩල යෝජනාවක් සම්මතයි
+
+*2024-03-26 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194934) · `si`
+
+ගාසා තීරයේ සටන් විරාමයක් වහාම ක්‍රියාත්මක කිරීම සඳහා එක්සත් ජාතීන්ගේ ආරක්ෂක කවුන්සිලය යෝජනාවක් සම්මත කර තිබේ.
+
+කොන්දේසි විරහිතව ප්‍රාණ ඇපකරුවන් නිදහස් කරන ලෙස ද එමඟින් හමාස් සංවිධානයෙන් ඉල්ලීමක් කර ඇති බව වාර්තා වෙයි.
+
+පසුගිය වසරේ ඔක්තෝබර් මාසයේ ගාසා තීරයේ මෙහෙයුම් ආරම්භ කිරීමෙන් පසු ආරක්ෂක කවුන්සිලය වෙත යෝජනා කිහිපයක් ඉදිරිපත් වුව ද අමෙරිකාව ඇතුළු රටවල නිෂේද බලය හමුවේ ඒවා සම්මත වූයේ නැහැ.
+
+කෙසේවුවද ඊයේ (25) ඉදිරිපත් වූ යෝජනාවට අමෙරිකාව ඡන්දය දීමෙන් වැළකී සිටි අතර ඊට එරෙහිව නිෂේධ බලය භාවිත නොකිරීම ද විශේෂත්වයක් වේ.
+
+අමෙරිකාවේ ස්ථාවරය වෙනස් වීම සම්බන්ධයෙන් ඊශ්‍රායල අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහුගේ කාර්යාලය කනස්සල්ල පළකර තිබේ.
+
+ඊශ්‍රායල් - අමෙරිකානු නියෝජිතයින් පිරිසක් මේ සතියේ වොෂිංටන්හිදී පැවැත්වීමට නියමිතව තිබූ සාකච්ඡාව අවලංගු කිරීමට ද ඊශ්‍රායලය පියවර ගෙන තිබේ.
+
+ඊශ්‍රායලය සහ අමෙරිකාව අතර පවතින විරසකභාවය පිළිබඳ සංඥාවක් මෙමඟින් ලැබී ඇති බව විචාරකයින් පවසයි.
+
+...
+
+[Data](articles/7239cac3.json)
+
+---
 
 ### The fatal accident of the High Level road where life is
 
@@ -369,6 +425,24 @@ During the argument over the bus run, police said that a private bus driver, the
 [Data](articles/89c534f9.json)
 
 [Extended Data](ext_articles/89c534f9.ext.json)
+
+---
+
+### ’தேர்தல் ஒத்திவைக்கப்பட மாட்டாது’
+
+*2024-03-26 00:21:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-ஒத்திவைக்கப்பட-மாட்டாது/175-335188) · `ta`
+
+பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டுள்ள தேர்தல் திருத்தச் சட்டமூலங்களின் ஊடாக எந்தவொரு தேர்தலையும் பிற்போட எதிர்பார்க்கவில்லையென நீதி, சிறைச்சாலைகள் அலுவல்கள் மற்றும் அரசியலமைப்பு மறுசீரமைப்பு அமைச்சர் விஜயதாச ராஜபக்ஷ தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+இதுவரையில் முன்வைக்கப்பட்ட தேர்தல் திருத்தங்கள் மூலம் தேர்தலை ஒத்திவைக்கும் திட்டம் இருப்பதாக சமூகத்தில் சில பேச்சுக்கள் எழுந்துள்ளன. ஆனால் இந்தத் திருத்தங்கள் மூலம் தேர்தலை ஒத்திவைக்க எதிர்பார்க்கப்படவில்லை என்பதை கவனத்தில் கொள்ள வேண்டும்.
+
+எதிர்காலத்தில் இரண்டு தேர்தல்கள் நடைபெறவுள்ளன. அதன் போது எந்தவொரு வேட்பாளரும் இந்த தேர்தல் திருத்தம் குறித்து தங்கள் கருத்தை தெரிவிக்கலாம். பொதுமக்களுக்கும் இது தொடர்பாக தமது முடிவை எடுக்க முடியும் என்றார். (a)
+
+◼️
+
+[Data](articles/0b71859c.json)
 
 ---
 
@@ -2165,99 +2239,5 @@ He was accompanied by Sri Lankan High Commissioner in Kenya Kana Kananathan, Gen
 [Data](articles/b2a9b2f0.json)
 
 [Extended Data](ext_articles/b2a9b2f0.ext.json)
-
----
-
-### Shavendra's visit to Kenya explores defense ties including counterterrorism
-
-*2024-03-25 16:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shavendra-s-visit-to-Kenya-explores-defense-ties-including-counterterrorism/108-279559) · `en`
-
-Chief of Defense Staff General Shavendra Silva of Sri Lanka held talks with Chief of Defense Forces of Kenya General Francis Ogolla in Nairobo and explored cooperation in areas such as counterterrorism.
-
-The visit marks a pivotal moment in the diplomatic ties between the two nations, signifying a mutual commitment to enhancing defense cooperation and strategic partnerships.
-
-He was accompanied by Sri Lankan High Commissioner in Kenya Kana Kananathan, General Silva who engaged in extensive discussions with Kenyan defense officials, focusing on areas of mutual interest and shared security challenges.
-
-...
-
-[Data](articles/c2c6ddd8.json)
-
-[Extended Data](ext_articles/c2c6ddd8.ext.json)
-
----
-
-### Moscow concert that became a massacre of gun raws and panic
-
-*2024-03-25 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179680) · `ta`
-
-A massacre at Moscow's Crocus City Hall concert, where gunmen indiscriminately killed civilians. Security officers fled, and the attackers fired from multiple directions. The incident involved at least four attackers, and the chaos led to heavy casualties, especially among concert-goers from the north of Moscow.
-
-🟩
-
-A few minutes before the night at 8 pm, the public began to come to the Crocus City Hall. The phenomenon of the band, Picnic, was to take place that night.
-
-Some people were found in a garment, they did not know that they were military, terrorists or civilians, and they broke into the gate and they were firing on civilians.
-
-The gunmen walked through the area outside the stadium, indiscriminately fired and killed civilians.
-
-When the attack began, the security officers of the stadium began to flee. One of the four security officers said that his colleagues were hiding behind the billboard.
-
-The attackers crossed us and they started firing on the public.
-
-No one knew how many people were involved in the attack, but the video shot from the top floor showed four people.
-
-The head of the attack group, who was hiding in the middle of the windows, fired at the firing of the attack group.
-
-Those who visited the concert from areas like Kimki in the north of Moscow were heavily killed.
-
-...
-
-[Data](articles/5ef8bd6e.json)
-
-[Extended Data](ext_articles/5ef8bd6e.ext.json)
-
----
-
-### Sri Lankan parliamentary representatives participated in the 72nd Wesminster Conference held in London
-
-*2024-03-25 16:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/179657) · `ta`
-
-Sri Lankan parliamentary representatives, including Deputy Speaker Ajith Rajapaksa and Saminda Gularatne, attended the 72nd Wesminster Conference in London, discussing Commonwealth Parliament traditions, MP privileges, and modern technology use.
-
-🟩
-
-Deputy Speaker Ajith Rajapaksa, Deputy Speaker Harini Amarasuriya and Deputy Secretary of Parliament Saminda Gularatne attended the 72nd Wesminster Conference held at the Wesminster Parliament in London, UK from 11th to 15th.
-
-28 Representatives of the Commonwealth and the officials of the respective countries participated in the event. The conference was discussed in detail on a variety of issues such as the traditions of the Commonwealth Parliament, the privileges and powers of the Members of Parliament, the methods of enforcement of constitutional laws, and their customs, modern social media and technology, and how to use it as MPs.
-
-Sri Lankan representatives were given the opportunity to participate in the 75 -year celebration of the British Parliament this year in view of the establishment of the Commonwealth Organization.
-
-In addition, Maharani Kamila, Prince Williams, Prince Edward and Young people were present on behalf of the royal family as King III King of Britain's King III.
-
-◼️
-
-[Data](articles/6014b315.json)
-
-[Extended Data](ext_articles/6014b315.ext.json)
-
----
-
-### Maithri CID leaves
-
-*2024-03-25 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194913) · `si`
-
-Former President Maithripala Sirisena left the Criminal Investigation Department (CID) today.
-
-🟩
-
-Former President Maithripala Sirisena, who arrived at the Criminal Investigation Department (CID) has left the CID.
-
-Former President Maithripala Sirisena, former President Maithripala Sirisena made this statement today (25).
-
-◼️
-
-[Data](articles/8a856a4a.json)
-
-[Extended Data](ext_articles/8a856a4a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 00:34:21**
+As of **2024-03-27 00:48:53**
 
 ## Newspaper Stats
 
-*Scraped **15,371** Articles*
+*Scraped **15,372** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 819
 economynextcom | 832
 islandlk | 845
 adalk | 1,312
-adaderanalk | 1,844
+adaderanalk | 1,845
 tamilmirrorlk | 1,845
 virakesarilk | 2,170
 dailymirrorlk | 2,378
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,370 (100.0%) of 15,371 articles have been extended.
+15,371 (100.0%) of 15,372 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### New liver care facility of Ragama Teaching Hospital inaugurated
+
+*2024-03-27 00:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98224/new-liver-care-facility-of-ragama-teaching-hospital-inaugurated) · `en`
+
+The ‘M. H. Omar Liver Care Facility’ at the Centre for Liver Diseases in Colombo North Teaching Hospital, Ragama was inaugurated by President Ranil Wickremesinghe on Tuesday (March 26).
+
+Made possible by the generous donation worth Rs. 2.5 billion from the M. H. Omar Foundation, this state-of-the-art facility stands as a beacon of hope for those battling liver ailments, marking a pinnacle of healthcare excellence and philanthropy.
+
+Chronic liver disease is increasingly prevalent among both children and adults in Sri Lanka, with liver transplantation being the sole effective treatment for liver failure. Addressing these complex liver ailments necessitates specialized, expertise and costly equipment.
+
+The North Colombo Centre for Liver Diseases serves as a postgraduate training centre and conducts top-tier research in liver diseases, maintaining Sri Lanka’s largest database of liver cancer treatments.
+
+...
+
+[Data](articles/2f2b1753.json)
+
+---
 
 ### Hot air over elections and Commissioner of Elections - EDITORIAL
 
@@ -47,6 +65,8 @@ We continue witnessing intra-party squabbles in the Samagi Jana Balawegaya and d
 ...
 
 [Data](articles/c0e99e90.json)
+
+[Extended Data](ext_articles/c0e99e90.ext.json)
 
 ---
 
@@ -2204,8 +2224,6 @@ The Baltimore City Fire Department described the collapse as a mass-casualty inc
 
 *2024-03-26 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98214/major-us-bridge-collapses-after-being-hit-by-colombo-bound-ship) · `en`
 
-The Francis Scott Key Bridge in #US city #Baltimore collapsed on Tue following a ship collision, CNN reported. Traffic is being redirected, and it remains uncertain if there were any injuries.pic.twitter.com/6q5smwGLWD— Global Times (@globaltimesnews) March 26, 2024
-
 Baltimore’s Key Bridge has collapsed after it was hit by a container ship, sending cars that were crossing at the time plunging into the waters of the Patapsco River.
 
 At least seven people are believed to be in the water and rescue efforts are ongoing at the site of the collapse, according to the Baltimore Fire Department.
@@ -2213,6 +2231,8 @@ At least seven people are believed to be in the water and rescue efforts are ong
 Multiple videos shared on social media showed a large cargo ship ramming into one of the bridge’s support pillars, causing it to come crashing down into the river.
 
 A large portion of the Francis Scott Key Bridge is now under water, as flight tracking website FlightRadar24 showed the Maryland State Police circling the site of the crash in a helicopter.
+
+Kevin Cartwright, director of communications for the fire department, said the city was dealing with a “developing mass casualty incident”.
 
 ...
 
@@ -2283,25 +2303,5 @@ There have been four murder incidents in the Mannar Police Area areas. Based on 
 [Data](articles/81e43ef1.json)
 
 [Extended Data](ext_articles/81e43ef1.ext.json)
-
----
-
-### Approval granted for 70 MW Solar Photovoltaic Power Plant Installation Project
-
-*2024-03-26 14:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Approval-granted-for-70-MW-Solar-Photovoltaic-Power-Plant-Installation-Project/108-279632) · `en`
-
-Colombo, March 26 (Daily Mirror) - Cabinet approval has been granted for the solar photovoltaic power plant installation project for 70 MW with an AC capacity ranging from 1 to 5 MW in 11 grid sub-stations.
-
-Accordingly, Cabinet approval has been given on October 2, 2023, for the award of contracts relating to the supply of 51 MW at 5 grid sub-stations on a build, own and operate basis with an operational period of 20 years under the Solar Photovoltaic Power Plant Installation Project.
-
-Proposals have been invited again for the supply of 19 MW for the remaining six sub-stations.
-
-The proposal was presented by the Power and Energy Minister to award the contracts for the establishment of solar photovoltaic power plants for the grid substations of Ampara, Habarana, Kosgama, Kurunegala, Pannala and Veyangoda to the relevant investors as per the decision of the Cabinet-appointed Negotiation Committee, which took into consideration the proposals.
-
-◼️
-
-[Data](articles/77566266.json)
-
-[Extended Data](ext_articles/77566266.ext.json)
 
 ---

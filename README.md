@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 21:53:04**
+As of **2024-03-26 22:05:02**
 
 ## Newspaper Stats
 
-*Scraped **15,347** Articles*
+*Scraped **15,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adaderanalk | 1,842
 tamilmirrorlk | 1,844
 virakesarilk | 2,167
 dailymirrorlk | 2,373
-adaderanasinhalalk | 2,468
+adaderanasinhalalk | 2,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,347 (100.0%) of 15,347 articles have been extended.
+15,347 (100.0%) of 15,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### ජීව අත්බෝම්බයක් සොයාගනී
+
+*2024-03-26 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194973) · `si`
+
+පොලීසිය සඳහන් කළේ දේශපාලන පක්ෂ කාර්යාලයක් ආසන්නයේ තිබී අදාළ ජීව අත්බෝම්බය සොයාගත් බවය.
+
+එය විදෙස් රටක නිෂ්පාදිත එකක් බවද පොලීසිය තවදුරටත් සඳහන් කළේය.
+
+පසුව ගෝනහේන පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් පැමිණ අදාළ අත්බෝම්බය නිෂ්ක්‍රීය කිරීමට කටයුතු කර ඇත.
+
+සිද්ධිය සම්බන්ධයෙන් සැකකරුවන් අනාවරණය වී නොමැති අතර කඩවත පොලීසිය විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/8f3ecc5e.json)
+
+---
 
 ### Shakuck holds second match against Sri Lanka
 
@@ -2255,25 +2273,5 @@ In addition, the President's Counsel asked the court to issue an order to permit
 [Data](articles/9e1f4055.json)
 
 [Extended Data](ext_articles/9e1f4055.ext.json)
-
----
-
-### Suspect arrested with heroin drug
-
-*2024-03-26 13:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179729) · `ta`
-
-A person was arrested in Wattala with 400 ml of heroin during a police raid based on received information.
-
-🟩
-
-One person was arrested with drugs while conducting a raid on the basis of information received by the police in the Wattala area.
-
-400 ml of 400 ml of heroin has been seized.
-
-◼️
-
-[Data](articles/3f582925.json)
-
-[Extended Data](ext_articles/3f582925.ext.json)
 
 ---

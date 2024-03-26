@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-26 09:18:12**
+As of **2024-03-26 09:33:34**
 
 ## Newspaper Stats
 
-*Scraped **15,178** Articles*
+*Scraped **15,180** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 137
 bbccomsinhala | 163
 dbsjeyarajcom | 192
 newsfirstlk | 363
-dailyftlk | 818
 economynextcom | 818
+dailyftlk | 819
 islandlk | 843
 adalk | 1,292
 tamilmirrorlk | 1,822
 adaderanalk | 1,823
-virakesarilk | 2,127
+virakesarilk | 2,128
 dailymirrorlk | 2,343
 adaderanasinhalalk | 2,437
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 2,437
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,177 (100.0%) of 15,178 articles have been extended.
+15,178 (100.0%) of 15,180 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-26 (Tuesday)
+
+### யாழ்.மீசாலை ஏ-9 வீதியில் விபத்து - ஒருவர் உயிரிழப்பு
+
+*2024-03-26 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179706) · `ta`
+
+யாழ்ப்பாணம் மீசாலை  ஏ-9 வீதியில்  சொகுசு பஸ்  வீதியில் சென்றவேளை எதிரே வந்த மோட்டார் சைக்கிளை மோதித் தள்ளியதில்  மோட்டார் சைக்கிளில் வந்தவர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/5b2f02a2.json)
+
+---
 
 ### Govt. to provide 10kg of rice to low-income families before Avurudu
 
@@ -51,6 +63,8 @@ The low-income families are planned to be identified through District Secretarie
 ◼️
 
 [Data](articles/3588ff34.json)
+
+[Extended Data](ext_articles/3588ff34.ext.json)
 
 ---
 
@@ -795,6 +809,20 @@ After concluding its review on SL’s economic progress during last year and com
 [Data](articles/0a595203.json)
 
 [Extended Data](ext_articles/0a595203.ext.json)
+
+---
+
+### Regulations must be data-driven; not based on fallacies
+
+*2024-03-25 22:43:17* · [`dailyftlk`](https://www.ft.lk/columns/Regulations-must-be-data-driven-not-based-on-fallacies/4-759914) · `en`
+
+Claims countries have passed laws banning cigarette filters entirely false
+
+The Alcohol and Drug Information Centre (ADIC) in a statement recently called on the Government to ban cigarette filters citing movements to conserve the environment. Whilst efforts to protect the environment must be lauded, however, the statement added the European Union had agreed on a ban, with Belgium and Netherlands already putting the ban in place. This is a complete misrepresentation of the truth. It once again spotlights organisations lobbying Government for regulatory changes bandying misinformation that ultimately impacts much larger value chains and the public.
+
+...
+
+[Data](articles/68261b1f.json)
 
 ---
 
@@ -2193,49 +2221,5 @@ Nissan was a pioneer in electric vehicles with its all-battery-powered Leaf but 
 [Data](articles/238bd65e.json)
 
 [Extended Data](ext_articles/238bd65e.ext.json)
-
----
-
-### Sri Lanka Minister to provide missing Easter attack report pages to Catholic leaders after complaint
-
-*2024-03-25 17:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-to-provide-missing-easter-attack-report-pages-to-catholic-leaders-after-complaint-155985/) · `en`
-
-ECONOMYNEXT – Missing pages in a Presidential Commission of Inquiry (PCoI) report on Sri Lanka’s Easter Sunday attack will be given to the island nation’s Catholic leaders in the near future, Public Security Minister Tiran Alles said after complaints of over 1,500 missing pages in the report.
-
-Despite five years since the incident, Sri Lankan authorities are yet to conclude the investigations into the Easter carnage that killed at least 269 people mainly Catholic devotees on April 21, 2019 and find the mastermind behind the series of six simultaneous suicide attacks carried out by Islamist extremists.
-
-The complete report of the PCoI was presented to the parliament Speaker, Mahinda Yapa Abeywardena, in February 2022, but is yet to be made public citing that they contain sensitive information.
-
-...
-
-[Data](articles/90c2288d.json)
-
-[Extended Data](ext_articles/90c2288d.ext.json)
-
----
-
-### The horrific bus accident
-
-*2024-03-25 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194916) · `si`
-
-A horrific bus accident in Medamahauwara on the Mahiyanganaya-Kandy road resulted in the driver, owner, and another person being hospitalized. The bus was reportedly in danger, but it was not. The accident was revealed to be a scam to sell the bus.
-
-🟩
-
-A luxury bus has been inaugurated at the Medamahauwara area on the Mahiyanganaya-Kandy main road.
-
-The driver of the bus, its owner and another was admitted to the Peradeniya Hospital for treatment.
-
-The information is reported that the bus was in danger when the bus was in danger, but it was not a danger.
-
-The injured were later taken to hospital for treatment.
-
-The further information has been revealed that the accident had occurred to sell the bus to sell the bus.
-
-◼️
-
-[Data](articles/91dd3a33.json)
-
-[Extended Data](ext_articles/91dd3a33.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 01:18:06**
+As of **2024-03-27 01:33:36**
 
 ## Newspaper Stats
 
-*Scraped **15,373** Articles*
+*Scraped **15,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 138
 bbccomsinhala | 164
 dbsjeyarajcom | 192
 newsfirstlk | 363
-dailyftlk | 819
+dailyftlk | 822
 economynextcom | 832
 islandlk | 845
 adalk | 1,312
@@ -26,27 +26,79 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,372 (100.0%) of 15,373 articles have been extended.
+15,373 (100.0%) of 15,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### கடன் மறுசீரமைப்பு குறத்த இறுதிகட்ட பேச்சுவார்த்தையை சீனாவில் பிரதமர் முன்னெடுப்பார் - அமைச்சரவை பேச்சாளர்
+### Prime Minister will hold a final negotiations in the debt restructuring - Cabinet spokesman
 
-*2024-03-27 00:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179783) · `ta`
+*2024-03-27 01:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179783) · `ta`
 
-சீனாவுக்கு உத்தியோகபூர்வ விஜயம் மேற்கொண்டுள்ள பிரதமர் தினேஷ் குணவர்தன, அங்கு கடன் மறுசீரமைப்பு தொடர்பான இறுதிகட்ட பேச்சுவார்த்தையை முன்னெடுக்கவுள்ளார். சர்வதேச கடன் மறுசீரமைப்பு தொடர்பான பேச்சுவார்த்தைகள் இறுதிகட்டத்தை எட்டவுள்ள நிலையில், நாணய நிதியத்துடனான ஒப்பந்தம் மாற்றியமைக்கப்படும் என்று சிலர் குறிப்பிடுவது பாரிய அழிவுக்கு இடப்படும் அடித்தளமாகும் என்று அமைச்சரவை பேச்சாளர் அமைச்சர் பந்துல குணவர்தன தெரிவித்தார்.
+Prime Minister Dinesh Gunawardena, on an official visit to China, will negotiate the final debt restructuring with the Currency Fund. The Cabinet Spokesperson emphasized the importance of adhering to international agreements and legal plans, warning against the consequences of changing the consensus agreement with the International Monetary Fund.
 
-அமைச்சரவை தீர்மானங்களை அறிவிக்கும் வாராந்த ஊடகவியலாளர் மாநாடு செவ்வாய்கிழமை (26) இடம்பெற்ற போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-சர்வதேச நாணய நிதியத்துடன் தற்போதைய அரசாங்கம் ஏற்படுத்திக் கொண்டுள்ள இணக்கப்பாட்டு ஒப்பந்தத்தை மாற்றுவதற்கு எவரேனும் முயற்சிப்பார்களானால், அவர்களால் இரண்டு வாரங்கள் கூட இந்நாட்டை ஆட்சி செய்ய முடியாது.
+Prime Minister Dinesh Gunawardena, who is on an official visit to China, will hold a final negotiation on debt restructuring.. Cabinet Spokesperson Minister Bandula Gunawardena said that the contract with the Currency Fund will be changed as some people say that the negotiations on international debt renovation will reach the final stage.
 
-நாம் கடன் பெற்றுள்ளதும், பெற்ற கடனை மீளச் செலுத்துவது தொடர்பான கலந்துரையாடல்களை முன்னெடுப்பதும், கடன் ஒப்பந்தத்தை மேற்கொள்வதும் இலங்கை அரசாங்கத்தினாலன்றி, ரணில் விக்கிரமசிங்க என்ற தனிநபராலோ அல்லது பிரிதொரு நபராலோ அல்ல.
+He further stated that the weekly press conference to announce the Cabinet decisions was held on Tuesday (26).
+
+If anyone is trying to change the consensus agreement with the current government with the International Monetary Fund, they cannot rule the country for two weeks.
+
+When we have borrowed, we are conducting discussions on repaying the loan and making a debt agreement, not by the Sri Lankan government, Ranil Wickremesinghe is not a person or a separate person.
+
+The Sri Lankan government refers to the current government, just like the current government. Accordingly, the responsibilities of the current government are entitled to the next government.
 
 ...
 
 [Data](articles/f31ceaf6.json)
+
+[Extended Data](ext_articles/f31ceaf6.ext.json)
+
+---
+
+### Airless balloons and passionless employees
+
+*2024-03-27 00:57:41* · [`dailyftlk`](https://www.ft.lk/columns/Airless-balloons-and-passionless-employees/4-759969) · `en`
+
+When one respects the other person’s dream, both the employee and the employer align to one chord and that harmony creates passion and motivation in the working environment
+
+No company could ever drive to its full capacity unless the corporate dream and the personal dream of the employee partners together. One of the main reasons for employee turnover, known as churn rate, is because the employees realise that they cannot achieve their dreams with the company they are working for
+
+This series of articles on “Transformational Leadership Mindset” is penned by me, Dr. Philip Nehri based on the combined analytical thinking of both me and Gina Vangelli, my Australian business partner.
+
+Gina is an Australian entrepreneur who is also the author of the book “The Belief Factor”. She won a world championship in Karate for Australia, and she also became the Australian Apprentice of the Year.
+
+...
+
+[Data](articles/921b5eff.json)
+
+---
+
+### Bridging the academic-practitioner gap
+
+*2024-03-27 00:55:57* · [`dailyftlk`](https://www.ft.lk/columns/Bridging-the-academic-practitioner-gap/4-759968) · `en`
+
+In unique and landmark research published in a Scopus Ranked, British based, Journal of Applied Research and Higher Education, Dr. Trevor Mendis has developed a C-index (Corporate index) for academics to bridge the academic-practitioner gap. This C-Index has been developed based on algorithms from the emerging model which is named as the “Pentagon Model”, from the outcome of the research.
+
+Dr. Trevor, who is a master strategist, pracademic and a distinguished alumni of PIM, is a Senior Management Consultant and a Member of the Board of Study, at the Postgraduate Institute of Management (PIM), University of Sri Jayewardenepura. Being a pracademic with over two decades of local and global exposure in the corporate sector at apex level and over one and half decades of local and global academic exposure in all facets, he is of the view that the C-index developed in this research will re-demarcate the landscapes of the academic sphere across the world.
+
+...
+
+[Data](articles/b28fe976.json)
+
+---
+
+### The 1989 war against India by JVP’s militant arm DJV
+
+*2024-03-27 00:49:25* · [`dailyftlk`](https://www.ft.lk/columns/The-1989-war-against-India-by-JVP-s-militant-arm-DJV/4-759967) · `en`
+
+In 1989 Kumar Gunaratnam operating under the nom de guerre “Gemunu” led the JVP/DJV against the Indian army in the Trincomalee District. Under his command, the DJV-JVP in Trinco accomplished a few military strikes against the Indian Army but these incidents did not gain much publicity due to the concerted efforts of the Sri Lankan and Indian authorities to deliberately suppress information. They did not want the JVP to gain publicity and political credit through these operations. Besides most incidents of that nature in Trincomalee were believed to have been committed by the Tigers then. Although the mass media of the day have not publicised this phase, there is some important material available in books, monographs and research papers
+
+...
+
+[Data](articles/fcdd6bc1.json)
 
 ---
 
@@ -2237,67 +2289,5 @@ The Baltimore City Fire Department described the collapse as a mass-casualty inc
 [Data](articles/1eadb8eb.json)
 
 [Extended Data](ext_articles/1eadb8eb.ext.json)
-
----
-
-### Major US bridge collapses after being hit by ‘Colombo-bound’ ship
-
-*2024-03-26 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98214/major-us-bridge-collapses-after-being-hit-by-colombo-bound-ship) · `en`
-
-Baltimore’s Key Bridge has collapsed after it was hit by a container ship, sending cars that were crossing at the time plunging into the waters of the Patapsco River.
-
-At least seven people are believed to be in the water and rescue efforts are ongoing at the site of the collapse, according to the Baltimore Fire Department.
-
-Multiple videos shared on social media showed a large cargo ship ramming into one of the bridge’s support pillars, causing it to come crashing down into the river.
-
-A large portion of the Francis Scott Key Bridge is now under water, as flight tracking website FlightRadar24 showed the Maryland State Police circling the site of the crash in a helicopter.
-
-Kevin Cartwright, director of communications for the fire department, said the city was dealing with a “developing mass casualty incident”.
-
-...
-
-[Data](articles/7ace61aa.json)
-
-[Extended Data](ext_articles/7ace61aa.ext.json)
-
----
-
-### 'False information about Maithri's confession'
-
-*2024-03-26 14:17:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-வாக்குமூலம்-குறித்து-பொய்யான-தகவல்கள்/175-335216) · `ta`
-
-The Sri Lanka Freedom Party (SLFP) denounces false and distorted reports on Maithripala Sirisena's confession to the Criminal Investigation Department, condemning such misinformation.
-
-🟩
-
-The Sri Lanka Freedom Party (SLFP) has said that the reports of former President Maithripala Sirisena yesterday have been false and distorted on major media and social media regarding the confession of the Criminal Investigation Department.
-
-The party said in a statement that it would condemn such false and distorted statements.
-
-◼️
-
-[Data](articles/4380ad2f.json)
-
-[Extended Data](ext_articles/4380ad2f.ext.json)
-
----
-
-### Maithri gave the statement misleading
-
-*2024-03-26 14:16:48* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රී-දුන්-ප්‍රකාශය-වැරදියට-පළ-කරනවා/11-408805) · `si`
-
-Sarahy Dreaminna, SLFP General Secretary, accuses Maithripala Sirisena of being misled by the CID in the Easter investigation.
-
-🟩
-
-Sri Lanka Freedom Party (SLFP) General Secretary Sarahy Dreaminna announces that former President Maithripala Sirisena was distorted by the Criminal Investigation Department regarding the Easter investigation Department.
-
-Mithrpala, the Meeting of the Meeting Maithripala Sirisena and former Sri Lanka Freedom Party (SLFP) is also present.
-
-◼️
-
-[Data](articles/f9d39c03.json)
-
-[Extended Data](ext_articles/f9d39c03.ext.json)
 
 ---

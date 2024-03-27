@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 01:18:11**
+As of **2024-03-28 01:33:49**
 
 ## Newspaper Stats
 
-*Scraped **15,589** Articles*
+*Scraped **15,591** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 139
+colombotelegraphcom | 141
 bbccomsinhala | 166
 dbsjeyarajcom | 193
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,589 (100.0%) of 15,589 articles have been extended.
+15,589 (100.0%) of 15,591 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -734,6 +734,18 @@ The Chinese President assured China's continuous support to Sri Lanka’s effort
 
 ---
 
+### The Curse Of JRJ Constitution Continues
+
+*2024-03-27 19:32:35* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-curse-of-jrj-constitution-continues/) · `en`
+
+I have repeatedly been writing about the unprecedented damage the 1978 JRJ constitution has done to SL political culture, the economy and to the country. The 1978 JRJ constitution laid the foundation stone for our eventual ruin. How so? Let me mention a few examples. We read a few days ago the police minister Tiran Alles instructed IGP to investigate the comments made by former president Maithripala Sirisena about the Easter Attacks. It does to show that Alles, a political appointee has power over the entire police force of SL via the IGP. This follows that the police is not independent of political interference.
+
+...
+
+[Data](articles/070e5a1f.json)
+
+---
+
 ### The Kashan loses the second Test
 
 *2024-03-27 19:27:53* · [`adalk`](https://www.ada.lk/sports/කසුන්ට-දෙවැනි-ටෙස්ට්-තරගය-අහිමි-වෙයි/9-408835) · `si`
@@ -791,6 +803,18 @@ Four students of Polgaham school who had been bathing in Matale from Kalawala ar
 [Data](articles/735cf65c.json)
 
 [Extended Data](ext_articles/735cf65c.ext.json)
+
+---
+
+### Entertainment & Intellectual Activity In Jaffna – The Ramanathan Lectures
+
+*2024-03-27 19:10:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/entertainment-intellectual-activity-in-jaffna-the-ramanathan-lectures/) · `en`
+
+I have generally complained that Jaffna affords little room for entertainment or cultural expression. Just this week, as reported in the press, 2 lawyers had been arrested and let off on bail for writing land deeds. One Gauthaman had written the same land through three different transactions on the same day. Others about to be charged were out on anticipatory bail. Shocking was that well known lawyers Dr. Kumaravadivel Guruparan (Jaffna University’s former Head/Law), Thirukumaran (the brother of the former Mayor V. Manivannan), Sayanthan (MA Sumanthiran’s junior in Jaffna) and Celestine (a friend) met President Wickremesinghe objecting to these arrests and threatening to subject the police to harsh cross examination should they proceed.
+
+...
+
+[Data](articles/dd2ae733.json)
 
 ---
 
@@ -2219,55 +2243,5 @@ The writ application was put forward requesting that an order be issued to the I
 [Data](articles/003aa12a.json)
 
 [Extended Data](ext_articles/003aa12a.ext.json)
-
----
-
-### Express compensation for victims
-
-*2024-03-27 13:02:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரகலய-வால்-பாதிக்கப்பட்டோருக்கான-இழப்பீட்டை-துரிதப்படுத்தவும்/175-335259) · `ta`
-
-The Government Assessment Department and Compensation Office have been directed to expedite compensation for assets damaged by 'Arakalaya' protesters in Gampaha district. Urban Development Minister Prasanna Ranatunga announced that 33 out of 42 houses have been compensated, and 138 vehicles were affected. He emphasized the need for legal action against those responsible.
-
-🟩
-
-On May 9, 2022, the Government Assessment Department and the Compensation Office have been given a directive to expedite the compensation for the movable and immovable assets set by 'Arakalaya' protesters in the Gampaha district.
-
-Urban Development Minister Prasanna Ranatunga made this instruction during a special meeting held at the Gampaha District Secretariat this morning.
-
-The Minister said that 33 houses of 42 houses in Gampaha district have been compensated by the compensation office.
-
-He said that the incident took place on May 9, including 138 vehicles, including 138 vehicles.
-
-The Minister said that the implementation of the law against those responsible for the incident on May 9 had been in a very recession and that he had issued a directive to the Inspector General of Police to expedite legal action.
-
-◼️
-
-[Data](articles/cbc183c4.json)
-
-[Extended Data](ext_articles/cbc183c4.ext.json)
-
----
-
-### Pat telephone vouchers for students
-
-*2024-03-27 12:53:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவிகளுக்கு-பேட்-வவுச்சர்கள்/175-335257) · `ta`
-
-Dr. Susil Premajayantha, Minister of Education, announced plans to provide vouchers for sanitary napkins for school students in Sri Lanka, aiming to improve health habits. The initiative targets 800,000 students in remote and impoverished areas, with vouchers to be distributed after New Year. The program, budgeted at a billion rupees, aims to support economically disadvantaged girls.
-
-🟩
-
-Minister of Education Dr. Susil Premajayantha said that steps will be taken to provide vouchers for the purchase of sanitary napkins (dam) for school students in Sri Lanka to increase the healthy habits of school students.
-
-He said that it is challenging to get adequate health facilities and said vouchers will be given after the next New Year.
-
-The Minister further said that steps will be taken to distribute sanitary napkins to about 800,000 schoolchildren in hard, hard, isolated areas and poverty schools and that the Cabinet papers have now been submitted for approval.
-
-The Minister stressed that the purpose of the program is about a billion rupees expected to be spent by the government and the value of a voucher card is about Rs 1200, and that the purpose of the program is to support the girls belonging to the economically disadvantaged families.
-
-◼️
-
-[Data](articles/72a5a5c8.json)
-
-[Extended Data](ext_articles/72a5a5c8.ext.json)
 
 ---

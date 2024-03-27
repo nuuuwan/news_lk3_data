@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 09:18:07**
+As of **2024-03-27 09:33:34**
 
 ## Newspaper Stats
 
-*Scraped **15,424** Articles*
+*Scraped **15,427** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 139
 bbccomsinhala | 164
-dbsjeyarajcom | 192
+dbsjeyarajcom | 193
 newsfirstlk | 363
 economynextcom | 832
 dailyftlk | 835
@@ -18,19 +18,57 @@ islandlk | 854
 adalk | 1,313
 adaderanalk | 1,849
 tamilmirrorlk | 1,849
-virakesarilk | 2,175
-dailymirrorlk | 2,382
+virakesarilk | 2,176
+dailymirrorlk | 2,383
 adaderanasinhalalk | 2,477
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,423 (100.0%) of 15,424 articles have been extended.
+15,424 (100.0%) of 15,427 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### Why are foreign envoys making a beeline to  the JVP?
+
+*2024-03-27 12:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Why-are-foreign-envoys-making-a-beeline-to-the-JVP/172-279650) · `en`
+
+The JVP misread the invite as the Indians had acknowledged that the party would be the next government in waiting and Anura Kumara, the prospective president.
+
+These days, the Janatha Vimukthi Peramuna (JVP)/National People’s Power (NPP) Leader Anura Kumara Dissanayake and top-level party stalwarts are busy receiving a beeline of foreign diplomats, who seem eager to know what is going through those elusive minds.
+
+That is an achievement for the party that languished on the sideline. Their luck has changed since the Indians showed a sudden interest and invited the JVP leadership to New Delhi, where they met, among others, Indian Foreign Minister S. Jaishankar and National Security Advisor Ajit Doval, and travelled to Modi’s home turf, Gujarat to learn the Gujarati model of development.
+
+...
+
+[Data](articles/0e95a68b.json)
+
+---
+
+### கொள்ளையர்கள் குழு மீது பொலிஸார் நடத்திய துப்பாக்கிச் சூட்டில் ஒருவர் பலி ; இருவர் தப்பியோட்டம்
+
+*2024-03-27 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/179789) · `ta`
+
+நாரம்மல பகுதியில் கொள்ளையர்கள் குழு மீது பொலிஸார் மேற்கொண்ட துப்பாக்கிச் சூட்டில் ஒருவர் உயிரிழந்துள்ளார்.
+
+குறித்த துப்பாக்கி சூட்டில் மேலும்  இரு கொள்ளையர்கள் சம்பவ இடத்திலிருந்து தப்பிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+ஆப்பிள் ஐபோன் விற்பனை தொடர்பில் பத்திரிகையில் வெளியிட்ட விளம்பரங்களை அடுத்து கையடக்க தொலைபேசிகளை கொள்வனவு செய்ய வந்தவர்களிடம் இருந்து கொள்ளையர்கள் பணத்தை திருட முயற்சித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+குறித்த விளம்பரத்தைப் பார்த்து ருவன்வெல்ல பகுதிக்கு கையடக்கத் தொலைபேசிகளை கொள்வனவு செய்ய வந்தவர்களுக்கு விளம்பரம் தொடர்பில் சந்தேகம்  ஏற்பட்ட நிலையில், பொலிஸாருக்கு அறிவித்து பொலிஸ் அதிகாரிகளுடன் கொள்ளையர்களை சந்திக்கச் சென்றுள்ளனர்.
+
+நாரம்மல பகுதியிலுள்ள இடத்திற்கு வருமாறு கொள்ளையர்கள் தெரிவித்ததோடு,  குறித்த இடத்தை அடைந்ததும் கொள்ளையர்கள் அவர்களது காரை கூரிய ஆயுதங்களால் தாக்கியுள்ளனர்.
+
+இதனையடுத்து பொலிஸ் உத்தியோகத்தர்களுடன் ஏற்பட்ட கைகலப்பின் போது, பொலிஸ் அதிகாரி ஒருவர் கொள்ளையர்களை நோக்கி துப்பாக்கிசூட்டை நடத்தியதாக பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/ee98fddc.json)
+
+---
 
 ### Six killed in suicide attack on Chinese engineers in Pakistan
 
@@ -54,21 +92,27 @@ Dasu is the site of a major dam and the area has been attacked in the past. A bl
 
 ---
 
-### සංචාරකයින් බය කරන දකුණේ පාතාලය
+### The underworld in the South who scared tourists
 
 *2024-03-27 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194982) · `si`
 
-රට තුළ පවතින සාමකාමී වාතවරණය සංචාරක ව්‍යාපාරයට සෘජුව බලපාන බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+IGP Deshabandu Tennakoon highlights the impact of underworld activities in the Southern Province on tourism, emphasizing the need for law enforcement and a favorable environment for visitors.
 
-ඔහු සඳහන් කළේ, දකුණු පළාත තුළ සිදුවන පාතාල ක්‍රියාකාරකම් වෙඩිතැබීම් හේතුවෙන් සංචාරකයින් කම්පනයට පත්වන බව පොලිස්පතිවරයා සඳහන් කළේය.
+🟩
 
-"පාතාල ක්‍රියාකාරකම් වගේ බිහිසුණු දේවල් නිසා, සංචාරකයින් බියට පත්වෙනවා. විශේෂයෙන් දකුණු වෙරළ ආශ්‍රිතව බෙන්තර ප්‍රදේශයේ, අහුංගල්ල, කොස්ගොඩ, රත්ගම හා හික්කඩුව වගේ ප්‍රදේශවල තියෙන සංවිධානාත්මක අපරාධ ක්‍රියාකාරකම්වලින් සංචාරකයෝ කම්පනයට පත්වෙලා තියෙන්නේ. යුරෝපයේ වගේ රටවල්වල මිනිස්සු බොහෝම සාමකාමී පරිසරවල ජීවත් වෙන්න කැමති අය. ඒ මිනිස්සු ඇවිල්ලා මෙහෙ වෙඩි තියෙන ඒවා දකිනකොට ඒ මිනිස්සු කම්පනයට පත්වෙනවා. සදාකාලිකව ඒ මිනිස්සු ආය මෙහෙ එන්නේ නැති වෙයි. ඒ නිසා නීතිය සාමය පවත්වාගෙන යෑමත් සංචාරකයින්ට හිතකර පරිසරයක් නිර්මාණය කිරීමත් ඉතාමත් අවශ්‍යයි."
+IGP Deshabandu Tennakoon says that the peaceful air of the country directly affects tourism.
 
-එමෙන්ම ප්‍රමිතියෙන් තෙරව සිදුකරන සංචාරක කර්මාන්තය ආශ්‍රිත විවිධ ක්‍රියාකාරකම් නියාමනය කිරීමට පියවර ගන්නා බවද පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+He said that tourist arrivals were shocked by underworld activities in the Southern Province due to shooting in the Southern Province.
+
+"Travelers are afraid of terrorism like underworld activities. In the south coast, tourists are shocked by organized criminal activities in Benthara, Ahungalla, Kosgoda, Ratgama and Hikkaduwa areas. People in countries like in Europe like living in many peaceful environments. Those people are shocked when they come and see them here. Eternal people will not come back here. Therefore, it is essential to maintain the law and creating a favorable environment to tourists. "
+
+IGP Deshabandu Tennakoon says steps will be taken to regulate various activities based on quality tourism.
 
 ◼️
 
 [Data](articles/61f00978.json)
+
+[Extended Data](ext_articles/61f00978.ext.json)
 
 ---
 
@@ -1045,6 +1089,20 @@ Accordingly, the Gujarat Titans lost 8 wickets at the end of their 20 overs and 
 [Data](articles/40a100b6.json)
 
 [Extended Data](ext_articles/40a100b6.ext.json)
+
+---
+
+### The growing public disenchantment with Israel, and the mounting protests, is forcing many American, British and European politicians to rethink their unconditional support for Israel’s genocidal war.
+
+*2024-03-26 23:37:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83803) · `en`
+
+“Whether the victims of October 7th in Israel or the ongoing attack on Gaza, all the victims of dehumanisation, how do we resist?” Jonathan Glazer, director of The Zone of Interest (Oscar acceptance speech)
+
+The Pali Canon has the original tale but it’s the version in the commentaries we know. In both stories, she is Kisa Gotami, a thin girl who marries young. Then comes the divergence. In the story we know she loses her baby to illness, refuses to accept his death and rushes from healer to healer, cradling the dead body, seeking life. The Buddha is her final refuge. He tells her to bring a mustard seed from a house into which death hasn’t entered. She walks the length and breadth of the city. In every house someone has died, sometime.
+
+...
+
+[Data](articles/d789009e.json)
 
 ---
 
@@ -2175,69 +2233,5 @@ During a raid carried out by the police, one hand was found on the road in front
 [Data](articles/3af5ebe2.json)
 
 [Extended Data](ext_articles/3af5ebe2.ext.json)
-
----
-
-### Demonstrators in Kalutara - police clash!
-
-*2024-03-26 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179771) · `ta`
-
-Protesters in Kalutara clashed with police over rising living costs, taxes, and electricity prices. Police reinforcements were deployed in the area.
-
-🟩
-
-The clash between the protesters and the police of the People's Movement in the central part of the city of Kalutara today (26).
-
-The people protesters protested in front of the main bus station in protest of the rise in the cost of living, tax hikes, electricity tariffs, and the arrest of the protesters of terrorism and the arrest of the protesters.
-
-Since the morning, the police have been strengthened in the Kalutara Nagar and Kalutara Nagar neighborhood and the police have been strengthened and the police have been concentrated in the area.
-
-◼️
-
-[Data](articles/7d01d0b6.json)
-
-[Extended Data](ext_articles/7d01d0b6.ext.json)
-
----
-
-### Higher passenger and aircraft movements at airports
-
-*2024-03-26 17:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Higher-passenger-and-aircraft-movements-at-airports/108-279643) · `en`
-
-Colombo, March 26 (Daily Mirror) - By the end of February 2024, Sri Lanka airports had recorded 1,602,417 international passenger movements and 8,946 international aircraft movements, Airport and Aviation Services (Sri Lanka) (Pvt) Limited  (AASL) Chairman Eng. Athula Galketiya said.
-
-Compared with the same period in 2023, the growth of the increase in international passenger movements in 2024 is approximately 40.39%, while the increase in international aircraft movements is approximately 30.77 %.
-
-Comparing the number of tourists who visited Sri Lanka by air in 2023 and 2024, the percentage of tourists arriving in 2023 shows an increase of 104.65%, and the total tourist arrivals by air up to the end of February were 425,532.
-
-◼️
-
-[Data](articles/fa9c94db.json)
-
-[Extended Data](ext_articles/fa9c94db.ext.json)
-
----
-
-### Second Look Poster of 'Genini' starring Jayam Ravi
-
-*2024-03-26 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/179772) · `ta`
-
-"Second Look Poster of 'Geni' starring Jayam Ravi, directed by Arjunan, features Vamika Kabi as an angel, Keerthi Shetty, Kalyani Priyadarshan, and Devayani. Produced by Doctor Isari and Ganesh, with cinematography by Mahesh Muthuswamy and music by R. Rahman. Releasing in Tamil, Telugu, and Hindi, it promises to be a hit."
-
-🟩
-
-After the commercial success of 'Siren', the film crew, who is re -starring star starring Jayam Ravi, has been surprised by the release of the film crew and the second look poster of the film 'Geni', which is more than expected than expected.
-
-Directed by director Arjunan, 'Geni' starring Jayam Ravi, Keerthi Shetty, Kalyani Priyadarshan, Vamika Kabi, Devayani and many others.
-
-Mahesh Muthuswamy's cinematography. R. Rahman has composed the music.Producer Doctor Isari on behalf of Wales Film International Photo Company. Ganesh has produced.
-
-The film's second look poster of the film, which is being released in three languages - Tamil, Telugu and Hindi, is the actress Vamika Kabi angel and the king of Geni is the king of the magic, and Devayani and Keerthi Shetty as ordinary people.. Increases interesting about the film.The teaser or single track of the film is expected to be released in Tamil New Year.
-
-◼️
-
-[Data](articles/808a9416.json)
-
-[Extended Data](ext_articles/808a9416.ext.json)
 
 ---

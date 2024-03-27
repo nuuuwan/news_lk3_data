@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 18:51:47**
+As of **2024-03-27 19:03:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,498
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,537 (100.0%) of 15,540 articles have been extended.
+15,540 (100.0%) of 15,540 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Meanwhile. Investigations related to the two large houses owned by the suspect i
 ◼️
 
 [Data](articles/8ff388c2.json)
+
+[Extended Data](ext_articles/8ff388c2.ext.json)
 
 ---
 
@@ -357,6 +359,8 @@ The Azath Salley Foundation today donated 1,000 bags of dry rations to Muslims i
 ◼️
 
 [Data](articles/a251e2a1.json)
+
+[Extended Data](ext_articles/a251e2a1.ext.json)
 
 ---
 
@@ -939,6 +943,8 @@ The Skills College of Technology (SCOT) agreed to take the responsibility and fi
 ◼️
 
 [Data](articles/fc04c76a.json)
+
+[Extended Data](ext_articles/fc04c76a.ext.json)
 
 ---
 

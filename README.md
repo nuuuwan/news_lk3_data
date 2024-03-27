@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 13:33:42**
+As of **2024-03-27 13:52:34**
 
 ## Newspaper Stats
 
-*Scraped **15,483** Articles*
+*Scraped **15,484** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 835
 economynextcom | 836
 islandlk | 854
 adalk | 1,318
-adaderanalk | 1,856
+adaderanalk | 1,857
 tamilmirrorlk | 1,863
 virakesarilk | 2,186
 dailymirrorlk | 2,390
@@ -26,45 +26,77 @@ adaderanasinhalalk | 2,485
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,480 (100.0%) of 15,483 articles have been extended.
+15,483 (100.0%) of 15,484 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### ’அரகலய’வால் பாதிக்கப்பட்டோருக்கான இழப்பீட்டை துரிதப்படுத்தவும்
+### Easter attacks: Petition against Nilantha Jayawardena fixed for consideration
+
+*2024-03-27 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98235/easter-attacks-petition-against-nilantha-jayawardena-fixed-for-consideration) · `en`
+
+The petition filed seeking legal action against the former chief of the State Intelligence Service (SIS) Nilantha Jayawardena with respect to the 2019 Easter Sunday terror attacks has been fixed for consideration by the Court of Appeal on May 28.
+
+It was taken up before a two-member judge bench consisting of Sobhitha Rajakaruna and Dhammika Ganepola on Wednesday morning (27).
+
+The petition was filed by the Centre for Society and Religion (CSR), its director Rev. Fr. Jude Vernon Rohan Silva and a victim of Easter attacks named Devage Surach Nilanga, naming the Inspector-Genral of Police (IGP), SDIG Nilantha Jayawardena and the Attorney General as its respondents.
+
+The writ application was put forward requesting that an order be issued to the IGP and other respondents directing them to take legal action against the former SIS chief, over his failure to prevent the coordinated bombings five years ago, despite receiving intelligence information.
+
+...
+
+[Data](articles/003aa12a.json)
+
+---
+
+### Express compensation for victims
 
 *2024-03-27 13:02:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரகலய-வால்-பாதிக்கப்பட்டோருக்கான-இழப்பீட்டை-துரிதப்படுத்தவும்/175-335259) · `ta`
 
-2022 மே 9 ஆம் திகதி கம்பஹா மாவட்டத்தில் 'அரகலய' போராட்டக்காரர்களால் தீக்கிரையாக்கப்பட்ட அசையும் மற்றும் அசையா சொத்துகளுக்கான இழப்பீட்டு நடவடிக்கையை துரிதப்படுத்துமாறு அரசாங்க மதிப்பீட்டு திணைக்களம் மற்றும் நட்டஈடு அலுவலகத்திற்கு பணிப்புரை வழங்கப்பட்டுள்ளது.
+The Government Assessment Department and Compensation Office have been directed to expedite compensation for assets damaged by 'Arakalaya' protesters in Gampaha district. Urban Development Minister Prasanna Ranatunga announced that 33 out of 42 houses have been compensated, and 138 vehicles were affected. He emphasized the need for legal action against those responsible.
 
-கம்பஹா மாவட்ட செயலகத்தில் இன்று காலை இடம்பெற்ற விசேட கூட்டத்தின் போதே நகர அபிவிருத்தி அமைச்சர் பிரசன்ன ரணதுங்க இந்த அறிவுறுத்தலை வழங்கியுள்ளார்.
+🟩
 
-கம்பஹா மாவட்டத்தில் தீக்கிரையான 42 வீடுகளில் 33 வீடுகளுக்கு இதுவரை நஷ்டஈட்டு அலுவலகம் மூலம் இழப்பீடு வழங்கப்பட்டுள்ளதாக அமைச்சர் தெரிவித்தார்.
+On May 9, 2022, the Government Assessment Department and the Compensation Office have been given a directive to expedite the compensation for the movable and immovable assets set by 'Arakalaya' protesters in the Gampaha district.
 
-மே 9 ஆம் திகதி இடம்பெற்ற சம்பவத்தினால் 138 வாகனங்கள் உட்பட கம்பஹா மாவட்டத்தில் அதிகளவு சேதங்கள் ஏற்பட்டுள்ளதாக அவர் தெரிவித்துள்ளார்.
+Urban Development Minister Prasanna Ranatunga made this instruction during a special meeting held at the Gampaha District Secretariat this morning.
 
-மே 9 ஆம் திகதி இடம்பெற்ற சம்பவத்திற்கு காரணமானவர்களுக்கு எதிரான சட்டத்தை அமுல்படுத்துவது மிகவும் மந்தகதியில் இடம்பெற்றதாக தெரிவித்த அமைச்சர், சட்ட நடவடிக்கைகளை துரிதப்படுத்துமாறு பொலிஸ் மா அதிபருக்கு பணிப்புரை விடுத்துள்ளதாகவும் தெரிவித்தார்.
+The Minister said that 33 houses of 42 houses in Gampaha district have been compensated by the compensation office.
+
+He said that the incident took place on May 9, including 138 vehicles, including 138 vehicles.
+
+The Minister said that the implementation of the law against those responsible for the incident on May 9 had been in a very recession and that he had issued a directive to the Inspector General of Police to expedite legal action.
 
 ◼️
 
 [Data](articles/cbc183c4.json)
 
+[Extended Data](ext_articles/cbc183c4.ext.json)
+
 ---
 
-### மாணவிகளுக்கு ’பேட்’ வவுச்சர்கள்
+### Pat telephone vouchers for students
 
 *2024-03-27 12:53:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவிகளுக்கு-பேட்-வவுச்சர்கள்/175-335257) · `ta`
 
-பாடசாலை மாணவிகளின் சுகாதாரமான பழக்கவழக்கங்களை அதிகரிக்கும் நோக்கில் இலங்கையில் உள்ள பாடசாலை மாணவிகளுக்கு சானிட்டரி நாப்கின்களை (அணையடை ஆடை) (PAD)  கொள்வனவு செய்வதற்கான வவுச்சர்கள் வழங்க நடவடிக்கை எடுக்கப்படும் என கல்வி அமைச்சர் கலாநிதி சுசில் பிறேமஜயந்த தெரிவித்தார்.
+Dr. Susil Premajayantha, Minister of Education, announced plans to provide vouchers for sanitary napkins for school students in Sri Lanka, aiming to improve health habits. The initiative targets 800,000 students in remote and impoverished areas, with vouchers to be distributed after New Year. The program, budgeted at a billion rupees, aims to support economically disadvantaged girls.
 
-போதுமான சுகாதார வசதிகளைப் பெறுவது சவாலானது என்று தெரிவித்துள்ள அவர், எதிர்வரும் புத்தாண்டுக்குப் பின்னர் வவுச்சர்கள் வழங்க நடவடிக்கை எடுக்கப்படும் என்றார்.
+🟩
 
-கடினமான, மிகக் கடினமான, தனிமைப்படுத்தப்பட்ட பிரதேசங்கள் மற்றும் வறுமையைக் கொண்ட பாடசாலைகளில் உள்ள சுமார் 800,000 பாடசாலை மாணவிகளுக்கு சானிட்டரி நாப்கின்களை விநியோகிக்க நடவடிக்கை எடுக்கப்படும் என்றும், அதற்கான அமைச்சரவைப் பத்திரங்கள் தற்போது ஒப்புதலுக்காக சமர்ப்பிக்கப்பட்டுள்ளதாகவும் அமைச்சர் மேலும் தெரிவித்தார்.
+Minister of Education Dr. Susil Premajayantha said that steps will be taken to provide vouchers for the purchase of sanitary napkins (dam) for school students in Sri Lanka to increase the healthy habits of school students.
 
-...
+He said that it is challenging to get adequate health facilities and said vouchers will be given after the next New Year.
+
+The Minister further said that steps will be taken to distribute sanitary napkins to about 800,000 schoolchildren in hard, hard, isolated areas and poverty schools and that the Cabinet papers have now been submitted for approval.
+
+The Minister stressed that the purpose of the program is about a billion rupees expected to be spent by the government and the value of a voucher card is about Rs 1200, and that the purpose of the program is to support the girls belonging to the economically disadvantaged families.
+
+◼️
 
 [Data](articles/72a5a5c8.json)
+
+[Extended Data](ext_articles/72a5a5c8.ext.json)
 
 ---
 
@@ -1536,27 +1568,37 @@ It has been reported that the person who was led by the man who had many crimes 
 
 ---
 
-### රන්සිළු ජයතිලක: 'පුහුණුකරුවෙකු, අනුග්‍රාහකයෙකු නැතිව' රට දිනවූ සවි එසවීමේ ශූරයා
+### Ranasilla Jayatilleke: "Without a trainer, without sponsor"
 
 *2024-03-27 07:16:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv2y3k4mvr9o) · `si`
 
-රන්සිළු ජයතිලක: 'පුහුණුකරුවෙකු, අනුග්‍රාහකයෙකු නැතිව' රට දිනවූ සවි එසවීමේ ශූරයා
+Ranasilla Jayatilleke, a Sri Lankan weightlifter, won 322 kg in the Deadlift event at the Arnold Sports Festival UK, despite facing challenges without a coach or sponsor. He's won over 60 international medals and is aiming for the world championship.
 
-ඔහු ශ්‍රී ලංකාව නියෝජනය කරමින් සවි එසවීමේ ක්‍රීඩාවේ ජාත්‍යන්තර පදක්කම් 60කට අධික සංඛ්‍යාවක් ජයග්‍රහණය කර තිබේ.
+🟩
 
-වයස අවුරුදු 7 සිට ශ්‍රී ලංකාව වෙනුවෙන් සවි එසවීමේ නිරතව සිටිය ද, රන්සිළු ජයතිලක නමැති ක්‍රීඩකයෙකු පිළිබඳව රටේ කතාබහක් ඇති වූයේ, මෑතකදී ය.
+Ranasilla Jayatilleke: "Without a trainer, without sponsor"
 
-ඒ, සවි එසවීමේ ලෝක ශූරයින් තරග වැදුණු ආර්නෝල්ඩ් ස්වොට්සනේගර්ගේ ප්‍රධානත්වයෙන් සංවිධානය කෙරුණු Arnold Sports Festival UK 2024 සවි එසවීමේ තරග ඉසව්වේ ඉහළ ම මට්ටමේ තරගයක (Powerlifting Pro) deadlift තරග ඉසව්වේ ලෝකයේ ම තුන් වන ස්ථානය හිමි කර ගැනීමෙන් පසුව ය.
+He won over 60 international medals in the raising of Sri Lanka.
 
-මෙම තරග ඉසව්වේ සමස්ත ලකුණු සටහන අනුව ඔහුට 9 වන ස්ථානය හිමි වී තිබිණි.
+It was recently engaged in the lifting of Sri Lanka since the age of seven.
 
-එම විශිෂ්ට ජයග්‍රහණය පිළිබඳව ශ්‍රී ලාංකිකයින් මිලියන ගණනක් සතුටු වුව ද, එම තරගයට සහභාගි වීම මෙන් ම ඉන් ජය ගැනීම පසුපස ඇති කතාව සතුටුදායක එකක් නොවේ.
+ARNOLD SPORTS FESTIVAL UK, organized by Arnold Sroups, which was organized by the Fixed World Championship, was organized by the World's Third place in the world's third place.
 
-ඒ පිළිබඳව සවි එසවීමේ ශූර රන්සිළු ජයතිලක බීබීසී සිංහල සේවයට පැහැදිලි කළේ ය.
+The tournament was the 9th place in the event.
+
+Although millions of Sri Lankans are happy with the excellent achievement, the story of the competition is not a satisfactory one.
+
+Ranasilla Jayatilleka explained the lifting championship championship.
+
+"The Meat was in England. I was late to get visas. Finally, Minister Harin Fernando was helping me to get me the passport. Thursday was that. After 23 hours of trip, I went to England. There was a Saturday Meat. I had only 30 minutes to the competition, "Ranasil Jayatilleke said.
+
+He was in the center of many difficulties as he had no coach, an assistant or anyone else.
 
 ...
 
 [Data](articles/eaa80f28.json)
+
+[Extended Data](ext_articles/eaa80f28.ext.json)
 
 ---
 
@@ -2265,27 +2307,5 @@ We continue witnessing intra-party squabbles in the Samagi Jana Balawegaya and d
 [Data](articles/c0e99e90.json)
 
 [Extended Data](ext_articles/c0e99e90.ext.json)
-
----
-
-### 2024-03-26 (Tuesday)
-
-### Sri Lanka anticipating private equity deals amounting to $250mn
-
-*2024-03-26 23:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98223/sri-lanka-anticipating-private-equity-deals-amounting-to-250mn) · `en`
-
-The year 2024 is already seeing a turnaround for private equity deals with Sri Lanka expecting deals amounting up to USD 250 million, says the Hong Kong-based merchant banking firm MCM Partners.
-
-Speaking to Bloomberg Markets Asia on Monday (March 25), Managing Director of MCM Partners Jahnavi Bhagwati explained as to why she sees a turnaround for private equity deals in 2024 as opposed to a sluggish 2023.
-
-According to her, countries like India and Sri Lanka, which is a turnaround story, are going to present opportunities in the private space this year after the Bank of Japan raised interest rates in March, ending the country’s historic era of negative interest rates in a move that marked a historic shift in monetary policy.
-
-Bhagwati mentioned that the stock markets in the region are already seeing a pickup as inflation has been curbed, adding that investment activity will spur when rate cuts kick in.
-
-...
-
-[Data](articles/685c15e7.json)
-
-[Extended Data](ext_articles/685c15e7.ext.json)
 
 ---

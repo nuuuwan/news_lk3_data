@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 15:51:49**
+As of **2024-03-27 16:03:12**
 
 ## Newspaper Stats
 
-*Scraped **15,498** Articles*
+*Scraped **15,509** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,36 +15,206 @@ newsfirstlk | 363
 dailyftlk | 835
 economynextcom | 836
 islandlk | 854
-adalk | 1,321
-adaderanalk | 1,859
-tamilmirrorlk | 1,865
-virakesarilk | 2,188
+adalk | 1,323
+adaderanalk | 1,860
+tamilmirrorlk | 1,866
+virakesarilk | 2,194
 dailymirrorlk | 2,391
-adaderanasinhalalk | 2,489
+adaderanasinhalalk | 2,490
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,496 (100.0%) of 15,498 articles have been extended.
+15,498 (99.9%) of 15,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### மாணவிக்கு வித்தியாசமாக வடிவமைத்த தாத்தா
+### ශ්‍රී ලාංකිකයින් 19,620ක් ගැන කුවේට් රාජ්‍ය ගත් තීරණය
+
+*2024-03-27 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194996) · `si`
+
+කුවේට් රාජ්‍යයේ නීතිවිරෝධි අයුරින් රැඳී සිටින පුද්ගලයින්ට එරටින් පිටවීම සඳහා පොදු සමා කාලයක් එරට අභ්‍යන්තර කටයුතු අමාත්‍යාංශය විසින් හඳුන්වා දී තිබේ.
+
+මෙම පොදු සමා කාලය මාර්තු මස 17 වනදා ආරම්භ වූ අතර, එය ජූනි මස 17 වනදා දක්වා මාස 3 ක කාලයක් ක්‍රියාත්මක වෙයි.
+
+මේ වනවිට ශ්‍රි ලාංකිකයින් 19,620ක පිරිසක් වලංගු වීසා බලපත්‍ර නොමැතිව කුවේටයේ නීතිවිරෝධිව රැඳී සිටින බව තානාපති කාර්යාලය සඳහන් කරයි.
+
+කිසියම් පුද්ගලයෙකු මෙම කාලය තුල එරටින් පිටව යන්නේ නම් දඩ මුදල් අය කිරීමකින් තොරව බැහැරවීමට අවස්ථාව හිමිවන අතර, නැවත කුවේට් රාජ්‍යය වෙත නීත්‍යානුකූලව ඇතුළුවීමටද අවස්ථාව සැලසේ.
+
+මෙම කාල සීමාව තුළ කුවේට් රාජ්‍යයෙන් පිටවීමට අවස්ථාව හිමිවන්නේ 2024.03.14 දිනට පෙර සේවය කළ ස්ථානයෙන් පළාගිය බවට හාම්පුතා විසින් අභ්‍යන්තර කටයුතු අමාත්‍යාංශයේ පැමිණිල්ලක් ගොනුකර ඇති පුද්ගලයින්ට හෝ 2024.03.14 දින තෙක් වීසා නොමැතිව කුවේටයේ රැදි සිටි පුද්ගලයින්ට පමණි.
+
+...
+
+[Data](articles/c963580a.json)
+
+---
+
+### இலங்கையில் தேசியவாதம் தோல்வியடைந்து விட்டது  -கனடா சமூகத்தினை அதன் பன்முகத்தன்மைக்காக நான் நேசிக்கின்றேன் - கனடா ஊடகத்திற்கு அனுரகுமார பேட்டி
+
+*2024-03-27 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179842) · `ta`
+
+இலங்கையில் தேசியவாதம் தோல்வியடைந்து விட்டது என தெரிவிததுள்ள  ஜேவிபியன் தலைவர் அனுரகுமாரதிசநாயக்க கனடா சமூகத்தினை அதன் பன்முகத்தன்மைக்காக நான் விரும்புகின்றேன் எனவும் தெரிவித்துள்ளார்
+
+நிலைமையை மாற்றுவதற்கு தாங்கள் பங்களிப்பினை வழங்க முடியும் என கனடாவில் உள்ள இலங்கையர்கள் நம்புகின்றனர் .
+
+2 இலங்கையின் தற்போதைய அரசாங்கம் உயிர்த்த ஞாயிறு தாக்குதலை அதிகாரத்தை கைப்பற்றுவதற்காக பயன்படுத்தியது எனநீங்கள் கருதுகின்றீர்களா?
+
+பதில்- உயிர்த்தஞாயிறு தாக்குதலை இந்த அரசாங்கம் அதிகாரத்தை கைப்பற்ற பயன்படுத்தியது என சமூகம் நம்புகின்றது.
+
+சமூகம் ஏற்கனவே அரசாங்கத்தை குற்றம்சாட்டுகின்றது இந்த அரசாங்கம் உயிர்த்த ஞாயிறு தொடர்பான உரிய விசாரணைகளை மேற்கொள்ளப்போவதில்லை என சமூகம் நம்புகின்றது.
+
+உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில் மூன்று தனித்தனி விசாரணைகள் இடம்பெற்றுள்ளன -  2018 இல் இரண்டு பொலிஸ் உத்தியோகத்தர்கள் பயங்கரவாத குழுவினால் கொல்லப்பட்டமை தொடர்பான விசாரணைகள் தோல்வியடைந்துள்ளன நீங்கள் தெரிவுசெய்யப்பட்டால் நீதிக்கான தேடலில் கவனம் செலுத்துவீர்கள் என தெரிவித்துள்ளீர்கள்?
+
+...
+
+[Data](articles/80c65c59.json)
+
+---
+
+### கல்முனை வடக்கு பிரதேச செயலக விவகாரம் : 3 ஆவது நாளாக கடும் மழைக்கு மத்தியில் தொடரும் போராட்டம்
+
+*2024-03-27 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/179824) · `ta`
+
+கல்முனை வடக்கு பிரதேச செயலகத்தின் மீதான தொடர்ச்சியாக நிர்வாக அடக்குமுறைகளுக்கு எதிராக அங்குள்ள பொதுமக்கள் 3 ஆவது நாளாக இன்று (27) கடும் மழைக்கு மத்தியில்   கவனயீர்ப்பு  போராட்டத்தை முன்னெடுத்து வருகின்றனர்.
+
+குறித்த  பிரதேச செயலகத்தின் முன்பாக கடந்த திங்கட்கிழமை(25) பொதுமக்கள் பல்வேறு சுலோகங்களை உள்ளடக்கிய  பதாதைகளை தாங்கிய வண்ணம் அமைதி வழியில் ஒன்று கூடி போராட்டம் ஒன்றினை முன்னெடுத்து இருந்தனர்.
+
+அதன் தொடர்ச்சியாக  3 ஆவது நாளான இன்றும் பல்வேறு சுலோகங்களை முன்வைத்து போராட்டத்தை தொடர்ந்து மேற்கொண்டு வருகின்றனர்.
+
+இப்போராட்டத்திற்கு வலு சேர்க்கும் முகமாக இன்று அம்பாறை மாவட்ட தமிழ் தேசிய கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் தவராசா கலையரசன் மற்றும் காரைதீவு பிரதேச சபையின் முன்னாள் தவிசாளர் கிருஸ்னபிள்ளை ஜெயசிறில் ஆகியோர் வருகை தந்திருந்தமை குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/17bab08d.json)
+
+---
+
+### Warning issued for severe lightning in several areas
+
+*2024-03-27 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98239/warning-issued-for-severe-lightning-in-several-areas) · `en`
+
+The Meteorology Department has issued an advisory for severe lightning for several provinces and districts today (27).
+
+Thundershowers accompanied by severe lightning are likely to occur at several places in Western, Central, Sabaragamuwa, Uva and North-western provinces and in Anuradhapura, Mannar, Galle and Matara districts, it said.
+
+There may be temporary localized strong winds during thundershowers. The general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
+
+The advisory states that the risk level is “High” in the aforementioned areas and urges the public to avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms.
+
+The general public is further requested to avoid using wired telephones and connected electric appliances during thunderstorms and to also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
+
+...
+
+[Data](articles/19a204a4.json)
+
+---
+
+### 150 ஸ்பா நிலையங்களுக்கு பூட்டு
+
+*2024-03-27 15:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/150-ஸ்பா-நிலையங்களுக்கு-பூட்டு/175-335267) · `ta`
+
+நீர்கொழும்பிலுள்ள 150  ஸ்பா நிலையங்கள் மூடப்பட்டு அதில் பணிபுரிந்த 137 பெண்கள் கைது செய்யப்பட்டனர்.
+
+குறித்த பகுதியில் திடீர் சோதனை நடிவடிக்கையின் போது ஸ்பா நிலையம் என்ற போர்வையில் விபசார விடுதிகளில் பணிபுரிந்து வந்த 2 பெண்களுக்கு எய்ட்ஸ் தொற்று ஏற்பட்டுள்ளதாக மருத்துவ பரிசோதனையில் தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/c6c30c2b.json)
+
+---
+
+### දැල්කඩ කැපූ ඇලේ තරුණයෙකුගේ නාඳුනන මළ සිරුරක්
+
+*2024-03-27 15:45:48* · [`adalk`](https://www.ada.lk/breaking_news/දැල්කඩ-කැපූ-ඇලේ-තරුණයෙකුගේ-නාඳුනන-මළ-සිරුරක්/11-408830) · `si`
+
+නාඳුනන  පුද්ගලයෙකුගේ මළ සිරුරක්  බණ්ඩාරගම කළුතර මාර්ගයේ ගල්තුඩේ පාලම අසල දැල්කඩ පාරේ බොල්ගොඩ ගඟේ අතුගංගාවක් වන කැපු ඇලේ  පාවෙමින් තිබියදී  ඊයේ (26) රාත්‍රී හමුවූ බව මොරන්තුඩුව පොලිසිය කියයි
+
+මියගිය පුද්ගලයා වයස අවුරුදු 25-30 පමණ සිතිය හැකි අයෙක් බවත්  පොලිසිය සඳහන් කරයි. එම පුද්ගලයාගේ බවට සිතිය හැකි යතුරුපැදියක්  ද ගල්තුඩේ පාලම මත තිබී පොලිස් භාරයට ගෙන ඇත.
+
+එම යතුරුපැදියේ ලියාපදිංචි අංකය අනුව පරික්ෂා කිරීමේදී මොරටුව  පුද්ගලයකුට අයත් එකක් බවට අනාවරණය වූ බවත් එම පුද්ගලයා මීට වසර පහකට පෙරදී වෙනත් පුද්ගලයෙකුට යතුරුපැදිය විකුණූ බවට සනාථ වූ බවත් පොලිසිය ම
+
+එම පුද්ගලයා ද සිටින බවත් ඔහුද මොරටුව ප්‍රදේශයේ අයෙක් බවත් පොලිසිය කියයි
+
+දෙදෙනාටම අද (27)  දින  පොලිසිය වෙත පැමිණ ප්‍රකාශයක් ලබාදෙන ලෙස පැවසීයයි පොලිසිය සඳහන් කරයි
+
+මියගිය අයගේ හැඳ සිටි කලිසමේ මුදල් පසුම්බියේ තිබූ ආදායම් බලපත්‍රයේ එක නමකුත්, රක්ෂණ සහතිකයේ එක නමකුත්, තාවකාලික  රියදුරු බල පත්‍රයේ තවත් නමකුත් තිබූ බව පොලිසිය කියයි. මොරටුව සහ බණ්ඩාරගම ලිපිනයන් එහි සඳහන්ව තිබූ බව පොලිසිය කියයි
+
+...
+
+[Data](articles/f84193b7.json)
+
+---
+
+### ஏப்ரலில் வெளியாகும் சுந்தர் சி யின் 'அரண்மனை 4'
+
+*2024-03-27 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179838) · `ta`
+
+வெற்றி பெற்ற தமிழ்த் திரைப்படங்களின் அடுத்த பாகம் எப்போது வெளியாகும்? என்பது ரசிகர்களின் கேள்வியாக இருக்கும்.
+
+தமிழில் இதுவரை வெற்றி பெற்ற படங்களின் மூன்று பாகங்கள் தொடர்ச்சியாக தயாராகி, பட மாளிகையில் வெளியாகி வெற்றியும் பெற்றிருக்கிறது. 'அரண்மனை' எனும் காமெடி ஹாரர் திரில்லர் ஜேனரில் வெளியான திரைப்படத்திற்கு, ரசிகர்கள் தந்த பேராதரவால் மூன்று பாகங்களாக வெளியாகி வெற்றியை பெற்றன.
+
+தற்போது நான்காவது பாகம் தயாராகி இருக்கிறது. இதன் மூலம் தமிழ் திரையுலகில் நான்காம் பாகமாக வெளியாகும் முதல் திரைப்படம் என்ற சாதனையை 'அரண்மனை 4' திரைப்படம்  படைத்திருக்கிறது.
+
+...
+
+[Data](articles/5915aa63.json)
+
+---
+
+### Grandfather who designed differently to the student
 
 *2024-03-27 15:33:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவிக்கு-வித்தியாசமாக-வடிவமைத்த-தாத்தா/175-335266) · `ta`
 
-பேஷன் டிசைனிங் தொடர்பில் பட்டப்படிப்பை மேற்கொள்ளும் பல்கலைக்கழக மாணவி (வயது 23)  தனக்குத் தேவையான பயிற்சியை பொற்றுக்கொள்வதற்காக, பத்திக் கைத்தொழிற்சாலைக்கு சென்றிருந்த போது அங்கிருந்த 80 வயதானவர் கேட்டுக்கொண்டதற்கு இணங்க, ஒருபிடி சோற்றை, ஊட்டி விட்டுள்ளார். அப்போது, அப்பெண்ணை பாலியல் துன்புறுத்தலுக்கு உட்படுத்த அந்த முதியவர் முயன்றுள்ள சம்பவமொன்று இடம்பெற்றுள்ளது.
+A 23-year-old fashion design student was sexually harassed by an 80-year-old man at Pathika Industries. She escaped and reported to her boyfriend. Investigations revealed she had visited the factory multiple times for information. The man, the factory owner, asked for food, which she provided. He then touched her, and she fled, reporting to the police.
 
-முதியவரின் பிடிக்குள் சிக்கிக்கொள்ளாத அப்பெண், அங்கிருந்து தப்பியோடிவந்து, தன்னுடைய காதலனுடன் வந்து முறைப்பாடு செய்துள்ளார் என்று பிலியந்தலை பொலிஸார் தெரிவித்தனர்.
+🟩
 
-தகவல்களை பெற்றுக்கொள்வதற்காக, அந்த பத்திக் கைத்தொழிற்சாலைக்கு அந்த யுவதி, பல தடவைகள் சென்றுள்ளார் என்பதும் எனினும், தகவல்களை பெற்றுக்கொள்ளாது திரும்பியுள்ளார் என்பதும் விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+The university student (age 23), who graduates in fashion design, was on a man 80 -year -old when she went to the Pathika Industries to practice her own training.. At the time, there was an incident where the elderly man tried to sexually harass her.
+
+Piliyandala police said that the woman, who did not get caught in the old man's grip, had fled from there and lodged a complaint with her boyfriend.
+
+Investigations have been found that the woman has gone to the column industry several times to obtain information and has returned to information.
+
+The young girl, when the incident went to the scene, took the daytime food and ate behind the factory.. The 80 -year -old man, the owner of the factory who arrived at the site, asked, "Daughter, feed me a meal.". The woman from the distant area has fed a rice without any hesitation.
 
 ...
 
 [Data](articles/7a7a7f31.json)
+
+[Extended Data](ext_articles/7a7a7f31.ext.json)
+
+---
+
+### தமது சொந்த காணிகளை விடுவிக்கக் கோரி கேப்பாப்பிலவு இராணுவ படை தலைமையகத்திற்கு முன்பாக கவனயீர்ப்பு போராட்டம்
+
+*2024-03-27 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179835) · `ta`
+
+முல்லைத்தீவு கேப்பாபிலவில் இராணுவத்தினர் வசமுள்ள தமது சொந்த காணிகளை விடுவிக்க கோரி இன்று புதன்கிழமை (27) கேப்பாப்பிலவு இராணுவ படை தலைமையகத்திற்கு முன்பாக கிராம மக்கள் கவனயீர்ப்பு போராட்டம் ஒன்றினை முன்னெடுத்திருந்தனர்.
+
+முல்லைத்தீவு கேப்பாப்பிலவு இராணுவ படை தலைமையகத்திற்கு இலங்கையின் இராணுவ தளபதி முல்லைத்தீவு மாவட்டத்தில் பல்வேறு நிகழ்வுகளில் கலந்து கொள்ள இராணுவ படை தலைமையகத்திற்கு வருகை தந்திருந்தார். அவரிடம் தமது சொந்த காணிகளை விடுவித்து தருமாறு கோரி மகஜர் கையளிக்க  குறித்த இராணுவ தலைமையகத்திற்கு முன்பாக ஒன்று கூடி கவனயீர்ப்பினை வெளிப்படுத்தியிருந்தார்.
+
+எனினும் இராணுவ தளபதியை தற்போது சந்திக்க முடியாதெனவும் இன்றைய தினம் மாலை 3 மணியளவில் 5 நபர்கள் சந்திப்பதற்கு ஏற்பாடு மேற்கொண்டு தருவதாகவும் இராணுவத்தினால் தெரிவிக்கப்பட்டதையடுத்து குறித்த கவனயீர்ப்பினை நிறைவுக்கு கொண்டு வந்திருந்தனர்.
+
+...
+
+[Data](articles/ce766b11.json)
+
+---
+
+### 15 மாவட்டங்களுக்கு இடி, மின்னல் தாக்கம் குறித்து எச்சரிக்கை
+
+*2024-03-27 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179826) · `ta`
+
+நாட்டில் இன்று புதன்கிழமை (27)  மேல், மத்திய, சப்ரகமுவ, ஊவா மற்றும் வடமேல் மாகாணங்களிலும் அநுராதபுரம், மன்னார், காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல இடங்களில் கடுமையான  இடி, மின்னலுடன்  கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+இடியுடன் கூடிய மழையின் போது தற்காலிகமாக பலத்த காற்று வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள போதிய முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் கேட்டுக் கொள்ளப்படுகின்றனர்.
+
+◼️
+
+[Data](articles/db833286.json)
 
 ---
 
@@ -68,6 +238,20 @@ Police had resorted to using tear gas and water cannons to disperse the proteste
 
 ---
 
+### தந்தைக்கு நீதி கோரி மனித உரிமைகள் ஆணைக்குழுவில் முறைப்பாடு செய்த கெஹலியவின் மகள்!
+
+*2024-03-27 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179832) · `ta`
+
+தரமற்ற மருந்து கொள்வனவு விவகாரம் தொடர்பில் குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்ட முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்லவின் மகள் சமித்ரி ரம்புக்வெல்ல இன்று புதன்கிழமை (27) காலை இலங்கை மனித உரிமைகள் ஆணைக்குழுவில் முறைப்பாடு செய்துள்ளார்.
+
+விளக்கமறியலில் வைக்கப்பட்டுள்ள தனது தந்தையின் மனித உரிமைகள் மீறப்பட்டுள்ளதால் உடனடியாக விசாரணை நடத்தி நீதி வழங்குமாறு மனித உரிமைகள் ஆணைக்குழுவிடம் கோரிக்கை விடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/2296cab7.json)
+
+---
+
 ### Keheliya’s daughter complains to HRCSL over father’s arrest
 
 *2024-03-27 15:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliyas-daughter-complains-to-HRCSL-over-fathers-arrest/108-279723) · `en`
@@ -83,6 +267,8 @@ She said she hopes that the HRCSL will look into her complaint and mete out just
 ◼️
 
 [Data](articles/6f06cf52.json)
+
+[Extended Data](ext_articles/6f06cf52.ext.json)
 
 ---
 
@@ -128,9 +314,23 @@ He has asked the Human Rights Commission to immediately investigate and provide 
 
 ---
 
+### කුවේටයේ නීති විරෝධිව රැදී සිටින්නන්ට පොදු සමාකාලයක්
+
+*2024-03-27 14:52:35* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-නීති-විරෝධිව-රැදී-සිටින්නන්ට-පොදු-සමාකාලයක්/11-408827) · `si`
+
+කුවේට් රාජ්‍යයේ නීති විරෝධි අයුරින් රැදි සිටින පුද්ගලයින්ට එරටින් පිටවීම සඳහා පොදු සමාකාලයක් එරට අභ්‍යන්තර කටයුතු අමාත්‍යාංශය විසින් හඳුන්වා දී තිබේ. මෙම පොදු සමා කාලය මාර්තු මස 17 දින ආරම්භ වූ අතර, එය ජූනි මස 17 දින දක්වා මාස 3 ක කාලයක් ක්‍රියාත්මක වේ.
+
+මේ වන විට 19,620 ක ශ්‍රි ලාංකිකයින් පිරිසක් වලංගු වීසා බලපත්‍ර නොමැතිව කුවේටයේ නීතිවිරෝධිව රැදි සිටින බව තානාපති කාර්යාල වාර්තා සඳහන් කරයි. කිසියම් පුද්ගලයෙකු මෙම කාලය තුල එරටින් පිටව යන්නේ නම් දඩ මුදල් අය කිරීමකින් තොරව බැහැරවීමට අවස්ථාව හිමිවන අතර, නැවත කුවේට් රාජ්‍යය වෙත නීත්‍යානුකූලව ඇතුළුවීමටද අවස්ථාව සැලසේ.
+
+...
+
+[Data](articles/dc95d3d9.json)
+
+---
+
 ### 53 massage stations closed in Negombo: 137 women arrested, two for AIDS!
 
-*2024-03-27 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179827) · `ta`
+*2024-03-27 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179827) · `ta`
 
 In Negombo, 53 massage stations were closed after 137 women were arrested, including two diagnosed with HIV AIDS.
 
@@ -2101,233 +2301,5 @@ Although both yields and rates eased thereafter, quite notably the yields showed
 [Data](articles/e14182a5.json)
 
 [Extended Data](ext_articles/e14182a5.ext.json)
-
----
-
-### SLFP condemns attempts to tarnish party Chairman
-
-*2024-03-27 02:58:59* · [`dailyftlk`](https://www.ft.lk/news/SLFP-condemns-attempts-to-tarnish-party-Chairman/56-760009) · `en`
-
-SLFP General Secretary Sarathi Dushmantha Mitrapala says false and distorted info on Sirisena’s statement to CID are being disseminated
-
-Police Spokesman SSP Nihal Thalduwa says investigations into Sirisena’s statement to CID have commenced
-
-Claims future action will depend on instructions received from AG
-
-In a statement released yesterday, Sri Lanka Freedom Party (SLFP) General Secretary Sarathi Dushmantha Mitrapala strongly condemned recent efforts by various parties to smear the reputation of party Chairman Maithripala Sirisena and the SLFP on mainstream and social media platforms.
-
-Mitrapala said that following Sirisena’s statement to the Criminal Investigations Department (CID) regarding the Easter Sunday terror attack, the political party has observed false and distorted media content being disseminated about the statement on both mainstream and social media platforms.
-
-...
-
-[Data](articles/0f79dbbc.json)
-
-[Extended Data](ext_articles/0f79dbbc.ext.json)
-
----
-
-### The establishment of the law is not a violation of human rights
-
-*2024-03-27 02:56:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தை-நிலைநாட்டுவது-மனித-உரிமை-மீறல்-அல்ல/175-335240) · `ta`
-
-The law's establishment is not a human rights violation. President Ranil Wickremesinghe defended the country's actions to maintain law and order, protecting state property. Akhilaviraj Kariyawasam, former Education Minister, led a meeting to discuss the country's economic program and university lecturers' ideas. The government aims to reform the education system, reducing exam loads and changing university structures, with plans to implement these changes post-election. The goal is to enhance the education system by 2035.
-
-🟩
-
-Some people have tried to point out that the actions of the country to uphold law and order in the country by protecting state property, including parliament, prime ministerial office and presidential office, from those who sowed violence under the guise of struggle.. However, President Ranil Wickremesinghe said that if the move was not taken, the economic stability of the country would not have been built today.
-
-Former Education Minister Akhilaviraj Kariyawasam organized the meeting with the aim of discussing the country's current economic program and the ideas and suggestions of university lecturers.
-
-The government is working to introduce a new education system for the country. A committee headed by the Prime Minister's Secretary has been appointed.
-
-The government has focused on the changes to be taken in school education by reducing the exam load. There are many changes in the university structure. The program will be implemented under the new parliament after the upcoming election.
-
-...
-
-[Data](articles/f530e579.json)
-
-[Extended Data](ext_articles/f530e579.ext.json)
-
----
-
-### CIABOC case against Keheliya to go ahead
-
-*2024-03-27 02:55:50* · [`dailyftlk`](https://www.ft.lk/news/CIABOC-case-against-Keheliya-to-go-ahead/56-760008) · `en`
-
-The Colombo High Court yesterday dismissed the preliminary objections presented by the counsels representing former Minister Keheliya Rambukwella in a case brought by the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) against him for criminal misappropriation of funds during his tenure as the Minister of Mass Media.
-
-The two defendants in the case, including Rambukwella, stand accused of misappropriating Rs. 230948 from the State Printing Corporation to settle Rambukwella’s personal telephone bill during the period from March to April 2012, when he served as the Minister of Mass Media.
-
-When the case was called before the Colombo High Court yesterday the defence counsel argued that the case could not be maintained and therefore requested it to be dismissed. However, Colombo High Court Judge Damith Thotawatte permitted the case against Rambukwella and the former chairman of the State Printing Corporation, Jayampathi Bandara Heenkenda, to proceed.
-
-...
-
-[Data](articles/c8affbd8.json)
-
-[Extended Data](ext_articles/c8affbd8.ext.json)
-
----
-
-### Cargo ship en-route to SL collides with bridge in Baltimore
-
-*2024-03-27 02:53:14* · [`dailyftlk`](https://www.ft.lk/news/Cargo-ship-en-route-to-SL-collides-with-bridge-in-Baltimore/56-760007) · `en`
-
-A cargo ship en-route to Colombo Port collided with a major bridge in Baltimore, Maryland in the United States yesterday causing the entire bridge to collapse.
-
-The collision also caused several vehicles on the bridge at the time and at least eight construction workers to plunge into the river below.
-
-According to foreign media reports, the Baltimore fire department officials reported that at least six individuals were still unaccounted for after a 948 Singapore-flagged container ship, departing port en route to Sri Lanka, collided with the Francis Scott Key Bridge. The incident resulted in approximately 20 persons and several vehicles falling into the Patapsco River, prompting authorities to declare it a mass casualty event.
-
-A video circulated online depicted the vessel hitting one of the bridge's central supports, leading to a significant portion of the 2.6 km bridge collapsing and vehicles plummeting into the river.
-
-...
-
-[Data](articles/9c2fb435.json)
-
-[Extended Data](ext_articles/9c2fb435.ext.json)
-
----
-
-### Sri Lanka and China premiers witness signing of 9 bilateral agreements
-
-*2024-03-27 02:51:54* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-and-China-premiers-witness-signing-of-9-bilateral-agreements/56-760006) · `en`
-
-The signing of nine new agreements between China and Sri Lanka took place yesterday under the patronage of Chinese Prime Minister Li Qiang and Prime Minister Dinesh Gunawardena.
-
-The Prime Minister paid floral tributes to the war heroes at the Monument to the People’s Heroes at Tiananmen Square, and after receiving the guard of honour from the Chinese military, bilateral discussions were commenced.
-
-Later, in the bilateral talks held in Great Hall in Beijing, more attention was paid to increasing overall cooperation in the social, cultural, educational, and agricultural sectors in addition to economic cooperation.
-
-The Prime Ministers of the two countries confirmed that a new chapter in the long-term friendship and cooperation between Sri Lanka and China will begin through the nine memorandum of understanding signed between the two countries.
-
-...
-
-[Data](articles/2d7b5d8a.json)
-
-[Extended Data](ext_articles/2d7b5d8a.ext.json)
-
----
-
-### The work of setting up the Higher Education Commission
-
-*2024-03-27 02:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்கல்வி-ஆணைக்குழுவை-அமைக்கும்-பணி-துரிதம்/175-335239) · `ta`
-
-The Higher Education Commission is being established, replacing the University Grants Commission, with a report from a committee led by former Chief Justice K. Sripavan. Dr. Suren Raghavan, Minister of Higher Education, hopes to establish the National Higher Education Development Commission this year, marking a significant change in the university system.
-
-🟩
-
-A report comprising of a committee headed by former Chief Justice K Sripavan has been handed over to the Ministry to set up the National Higher Education Development Commission instead of the University Grants Commission.. Minister of Higher Education Dr. Suren Raghavan said that after reviewing the report, the National Higher Education Development Commission could be established this year.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
-
-The National Higher Education Development Commission is to be set up instead of the University Grants Commission.
-
-In this regard, a report was handed over to the Ministry yesterday, including the committee appointed by former Chief Justice K. Sripavan.
-
-After inspection of the report, I hope to set up the National Higher Education Development Commission within this year. It should be said that this is an essential company for the university system change of the country. (A)
-
-◼️
-
-[Data](articles/1d9936f6.json)
-
-[Extended Data](ext_articles/1d9936f6.ext.json)
-
----
-
-### Ceylon Institute of Builders meets Urban Development Secretary and CIDA Chairman
-
-*2024-03-27 02:41:52* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Institute-of-Builders-meets-Urban-Development-Secretary-andCIDA-Chairman/34-760005) · `en`
-
-Key industry meeting takes up critical issues faced by construction contractors
-
-The Ceylon Institute of Builders (CIOB) convened a highly constructive meeting with Urban Development, Housing, and Construction Secretary W.S. Sathyananda, along with key officials, Construction Industry Development Authority (CIDA) Chairman and his officials.
-
-The primary objective of the meeting was to address the critical challenges encountered by construction contractors and consultants amidst the impact of pandemic and subsequent economic crisis.
-
-...
-
-[Data](articles/7b808940.json)
-
-[Extended Data](ext_articles/7b808940.ext.json)
-
----
-
-### Solar Photovoltaic power plants for six grid substations
-
-*2024-03-27 02:37:28* · [`dailyftlk`](https://www.ft.lk/business/Solar-Photovoltaic-power-plants-for-six-grid-substations/34-760004) · `en`
-
-The Cabinet of Ministers approved the awarding of contracts for investors to establish solar photovoltaic power plants for six grid substations in Ampara, Habarana, Kosgama, Kurunegala, Pannala and Veyangoda.
-
-The decision follows the recommendations put forth by the Cabinet-appointed Negotiation Committee, which evaluated the proposals submitted by relevant investors.
-
-On 2 October 2023, the Cabinet approved awarding of contracts to supply 51 MW at five grid substations on build-own-operate (BOO) basis with an operational period of 20 years.
-
-The grids will be developed under the Solar Photovoltaic Power Plant Installation Project for 70 MW with AC capacity ranging from 1-5 in 11 grid substations. It was also noted that proposals have been invited again for supply of 19 ME for the remaining six substations.
-
-◼️
-
-[Data](articles/c9482415.json)
-
-[Extended Data](ext_articles/c9482415.ext.json)
-
----
-
-### Sri Lanka-Korea Business Council hosts business networking evening
-
-*2024-03-27 02:36:51* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Korea-Business-Council-hosts-business-networking-evening/34-760003) · `en`
-
-The Sri Lanka-Korea Business Council (SLKBC) of the Ceylon Chamber of Commerce recently hosted a networking evening for members of the Council, diplomats, Government officials and industry representatives to foster collaboration and bilateral cooperation.
-
-The Chief Guest Ambassador of the Republic of Korea to Sri Lanka Miyon Lee was accompanied by the Deputy Ambassador, Consul, and Third Secretary of the Embassy. Additionally, Government officials from the Board of Investment (BOI), Export Development Board (EDB), Ministry of Foreign Affairs, and representatives from the Korea Trade-Investment Promotion Agency (KOTRA), Korea International Cooperation Agency (KOICA), Korea Businessmen Association (KBA), and Korea Eximbank also attended the event.
-
-...
-
-[Data](articles/6a2e9afa.json)
-
-[Extended Data](ext_articles/6a2e9afa.ext.json)
-
----
-
-### Digital Economic Transaction Act soon
-
-*2024-03-27 02:34:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-பொருளாதார-பரிவர்த்தனை-சட்டம்-விரைவில்/175-335238) · `ta`
-
-President Ranil Wickremesinghe announced plans to establish a Center for Digital Transaction and Artificial Intelligence, aiming to modernize agriculture, reduce poverty, and reform education. A billion rupees from the 2024 budget will be allocated for this initiative.
-
-🟩
-
-President Ranil Wickremesinghe said the laws for the creation of the Center for Digital Transaction and Artificial Intelligence will be tabled in Parliament by mid -year.
-
-The President made these comments while addressing the Digital Infrastructure Conference held at the Taj Samudra Hotel in Colombo yesterday.
-
-Many Indian and Sri Lankan experts participated in the event with knowledge and experience representing various departments on digital public infrastructure and administration.
-
-We are planning to establish a new company structure to ease the country's economic change plan. The focus is on the creation of the Center for Digital Change Agency Station and Artificial Intelligence. For that, we have taken steps to allocate a billion rupees from the budget of 2024.
-
-...
-
-[Data](articles/ece52596.json)
-
-[Extended Data](ext_articles/ece52596.ext.json)
-
----
-
-### Richard Pieris Group celebrates excellence highlighting achievements; unveils future roadmap
-
-*2024-03-27 02:30:44* · [`dailyftlk`](https://www.ft.lk/business/Richard-Pieris-Group-celebrates-excellence-highlighting-achievements-unveils-future-roadmap/34-760002) · `en`
-
-Richard Pieris Group Chairman, Managing Director, and CEO Dr. Sena Yaddehige, and dignitaries at the head table during the Business Leaders and Senior Management gathering
-
-Business leaders and senior management of Richard Pieris Group gathered to commemorate the Group’s success
-
-Richard Pieris Group Chairman, Managing Director, and CEO Dr. Sena Yaddehige commends the Group’s performance over the past year and unveils the future roadmap
-
-The Richard Pieris Group, led by visionary leader Dr. Sena Yaddehige, has evolved into one of the largest and most diversified conglomerates in Sri Lanka. With a 91-year legacy, the Group operates across multiple sectors. Today, the Group is an integral part of Sri Lankan lives and a catalyst for economic progress.
-
-...
-
-[Data](articles/7a9a9459.json)
-
-[Extended Data](ext_articles/7a9a9459.ext.json)
 
 ---

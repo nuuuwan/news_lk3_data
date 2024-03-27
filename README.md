@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 04:50:28**
+As of **2024-03-28 05:03:10**
 
 ## Newspaper Stats
 
-*Scraped **15,605** Articles*
+*Scraped **15,608** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 141
 bbccomsinhala | 166
 dbsjeyarajcom | 193
 newsfirstlk | 363
-dailyftlk | 839
+dailyftlk | 842
 economynextcom | 849
 islandlk | 854
 adalk | 1,333
@@ -26,11 +26,57 @@ adaderanasinhalalk | 2,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,604 (100.0%) of 15,605 articles have been extended.
+15,605 (100.0%) of 15,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### Enjoy the full bouquet of Dialog Television channels this Avurudu Season and win a family holiday getaway
+
+*2024-03-28 04:54:30* · [`dailyftlk`](https://www.ft.lk/business/Enjoy-the-full-bouquet-of-Dialog-Television-channels-this-Avurudu-Season-and-win-a-family-holiday-getaway/34-760067) · `en`
+
+Dialog Television welcomes customers to celebrate in the festive season with the launch of its exclusive ‘Avurudu Channel Pack’- containing the full bouquet of Dialog Television channels.
+
+Enjoy quality time with the family by activating the full bouquet of Dialog Television channels this April holiday season and stand a chance to win an unforgettable family getaway. With the largest channel offering in the country under its belt, Dialog Television’s Avurudu Channel Pack follows the provider’s continuous efforts to deliver viewers with a rich variety of content, designed to cater to the whole family including HBO, CineMax, Nickelodeon, Cartoon Network, Bloomberg, &flix, AXN, ABC Australia, HITS NOW, BBC Earth, ThePapare TV HD and HITS MOVIES.
+
+...
+
+[Data](articles/ce95b800.json)
+
+---
+
+### Sri Lanka to host International Pepper Community’s Annual Conference 2024
+
+*2024-03-28 04:53:53* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-to-host-International-Pepper-Community-s-Annual-Conference-2024/34-760066) · `en`
+
+Sri Lanka’s vibrant spice sector is poised to take centre stage this year as it prepares to host the International Pepper Community’s Annual International Conference 2024.
+
+The prestigious event not only provides a platform to showcase Sri Lanka’s rich variety of spices but also promises to attract a surge of international visitors, boosting the country’s tourism revenue and supporting stakeholders in the tourism industry.
+
+The Cabinet of Ministers at its meeting on Monday approved the proposal presented by the Agriculture and Plantation Industries Minister to host the International Conference this year in Colombo.
+
+The conference aims to facilitate agreements among member countries on various aspects, including exchanging technical and economic research results related to pepper production, developing and promoting programs for traditional and new markets, and enhancing cooperation in reducing tariff and non-tariff barriers in international trade.
+
+...
+
+[Data](articles/88c26fcc.json)
+
+---
+
+### 90th CIMA President, AICPA Co-Chair Sarah Ghosh shares vision for sustainable future
+
+*2024-03-28 04:43:15* · [`dailyftlk`](https://www.ft.lk/opinion/90th-CIMA-President-AICPA-Co-Chair-Sarah-Ghosh-shares-vision-for-sustainable-future/14-760062) · `en`
+
+CIMA President and AICPA Co-Chair Sarah Ghosh – Pic by Ruwan Walpola
+
+For me, it is all about having meaningful conversations. As I have travelled to different regions, I have noticed disparities, but I see these as opportunities to initiate change. It is crucial to openly discuss with senior leaders how they are encouraging opportunities for women and individuals who are neurodivergent. We need to address diversity in all forms within our organisations. This involves implementing mechanisms to break down barriers and support career progression for everyone. It is also important for men to act as allies and support women throughout their careers
+
+...
+
+[Data](articles/d39cd8be.json)
+
+---
 
 ### The digital road to heaven
 
@@ -47,6 +93,8 @@ It’s the same in 2024. Except the new road that promises a speedy compressed g
 ...
 
 [Data](articles/a90b3249.json)
+
+[Extended Data](ext_articles/a90b3249.ext.json)
 
 ---
 
@@ -2191,65 +2239,5 @@ He has asked the Human Rights Commission to immediately investigate and provide 
 [Data](articles/2296cab7.json)
 
 [Extended Data](ext_articles/2296cab7.ext.json)
-
----
-
-### Keheliya’s daughter complains to HRCSL over father’s arrest
-
-*2024-03-27 15:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliyas-daughter-complains-to-HRCSL-over-fathers-arrest/108-279723) · `en`
-
-Colombo, March 27 (Daily Mirror)- Former Health Minister Keheliya Rambukwella's daughter Chamithri Rambukwella lodged a complaint with the Human Rights Commission of Sri Lanka (HRCSL) today claiming that her father's human rights have been violated due to his arbitrary arrest.
-
-She told reporters outside the HRCSL that according to the legal principle of presumption of innocence, any person accused of any crime is considered innocent until proven guilty.
-
-She said in normal practice, suspects are arrested only after concluding the investigations.
-
-She said she hopes that the HRCSL will look into her complaint and mete out justice.
-
-◼️
-
-[Data](articles/6f06cf52.json)
-
-[Extended Data](ext_articles/6f06cf52.ext.json)
-
----
-
-### School athletics champions meet Education Minister
-
-*2024-03-27 15:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/School-athletics-champions-meet-Education-Minister/110-279731) · `en`
-
-Tarushi Abhishekah and Himansi Dulanjana Pradipani, students who broke the previous records in the 800m and 1,500m events in the under-16 athletics category, met Education Minister Susil Premajayantha today.
-
-The Skills College of Technology (SCOT) agreed to take the responsibility and financial support of providing the necessary training, nutritional needs, medical facilities as well as international competition opportunities for these students. SCOT presenting the relevant promisory certificates to the Minister.
-
-◼️
-
-[Data](articles/fc04c76a.json)
-
-[Extended Data](ext_articles/fc04c76a.ext.json)
-
----
-
-### A Japanese investor to revive the floating shopping complex
-
-*2024-03-27 15:04:04* · [`adalk`](https://www.ada.lk/breaking_news/පාවෙන-වෙළඳ-සංකීර්ණයට-පණ-දෙන්න-ජපන්-ආයෝජකයෙක්/11-408828) · `si`
-
-A Japanese investor plans to revive the Pettah floating shopping complex in Colombo, aiming to lease it for 30 years. The project, which includes a 6-month development phase, aims to attract foreign investors and tourists. The Urban Development Authority (UDA) was criticized for not properly managing the complex, leading to its closure. The complex, opened in 2014, was abandoned under the last government, with maintenance issues and a lack of electric lighting. It was reopened in 2021 with a Rs. 25 million rehabilitation cost.
-
-🟩
-
-Pettah floating shopping complex to be revived again. A Japanese investor has come forward.
-
-Battaramulla, Urban Development Authority (UDA), Chairman of the Urban Development Authority, Niphan Herath, Chairman of the Urban Development Authority (Akira Hirros) was held today (Akira Hiros) to sign the basic MoU.. Accordingly, the management and maintenance of the petty-floating shopping complex is carried out by this Japanese investment.
-
-The Urban Development Authority was accused of allegations that the floating shopping complex was not properly prosecuted. Minister Prasanna Ranatunga was advised to instruct the UDA with the economic problems of the country with the economic problems of the country.
-
-Urban Development Authority invited investors to contest. This Japanese investor came forward. The floating shopping complex is developed as the city of Japan and floating market.
-
-...
-
-[Data](articles/54c4a99f.json)
-
-[Extended Data](ext_articles/54c4a99f.ext.json)
 
 ---

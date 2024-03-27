@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 00:18:04**
+As of **2024-03-28 00:33:39**
 
 ## Newspaper Stats
 
-*Scraped **15,573** Articles*
+*Scraped **15,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 166
 dbsjeyarajcom | 193
 newsfirstlk | 363
 dailyftlk | 835
-economynextcom | 836
+economynextcom | 849
 islandlk | 854
 adalk | 1,333
 adaderanalk | 1,871
-tamilmirrorlk | 1,871
-virakesarilk | 2,202
+tamilmirrorlk | 1,872
+virakesarilk | 2,204
 dailymirrorlk | 2,407
 adaderanasinhalalk | 2,503
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,570 (100.0%) of 15,573 articles have been extended.
+15,573 (99.9%) of 15,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### சாதனைகள் படைக்கப்பட்ட ஐபிஎல் போட்டியில் மும்பையை 31 ஓட்டங்களால் வென்றது ஹைதராபாத்
+
+*2024-03-28 00:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179851) · `ta`
+
+ஹைதராபாத், ராஜீவ் காந்தி சர்வதேச விளையாட்டரங்கில் புதன்கிழமையன்று (27) சாதனைகள் நிலைநாட்டப்பட்ட இண்டியன் பிறீமியர் லீக் கிரிக்கெட் போட்டியில் முன்னாள் சம்பியன் மும்பை இண்டியன்ஸை 31 ஓட்டங்களால் சன்ரைசர்ஸ் ஹைதராபாத் வெற்றிகொண்டது.
+
+பந்துவீச்சாளர்கள் சிதறடிக்கப்பட்ட அப் போட்டியில் சன்ரைசர்ஸ் ஹைதராபாத் குவித்த 277 ஓட்டங்கள் இண்டியன் பிறீமியர் லீக்  கிரிக்கெட் வரலாற்றில் அணி ஒன்று பெற்ற அதிகூடிய மொத்த எண்ணிக்கையாக அமைந்தது.
+
+புனே வொரியர்ஸ் அணிக்கு எதிராக 2013இல் றோயல் செலஞ்சர்ஸ் பெங்களூர் பெற்ற 5 விக்கெட் இழப்புக்கு 263 ஓட்டங்களே இதற்கு முன்னர் ஒரு அணியினால் பெறப்பட்ட அதிகூடிய மொத்த எண்ணிக்கையாக இருந்தது.
+
+அத்துடன் இப் போட்டியில் இரண்டு அணிகளும் மொத்தமாக பெற்ற 523 ஓட்டங்கள் ஐபிஎல் வரலாற்றில் ஒரு போட்டியில் பெறப்பட்ட அதிகூடிய ஒட்டுமொத்த எண்ணிக்கையாகும்.
+
+முன்னைய சாதனை 14 வருடங்களுக்கு முன்னர் சென்னை சுப்பர் கிங்ஸும் ராஜஸ்தான் றோயல்ஸும் இணைந்து பெற்ற 469 ஓட்டங்களாகும்.
+
+...
+
+[Data](articles/813e8efa.json)
+
+---
 
 ### Education reforms: A distant goal for Sri Lanka?
 
@@ -41,6 +61,8 @@ Sri Lanka’s education system has been yearning for reforms following the mille
 ...
 
 [Data](articles/4b41cf30.json)
+
+[Extended Data](ext_articles/4b41cf30.ext.json)
 
 ---
 
@@ -56,9 +78,27 @@ Aswesuma is the most recent welfare benefits programme introduced by the governm
 
 [Data](articles/8c737c20.json)
 
+[Extended Data](ext_articles/8c737c20.ext.json)
+
 ---
 
 ### 2024-03-27 (Wednesday)
+
+### மைத்திரியினுடைய கருத்துக்களின் பின்னணியில் அரசியல் விளையாட்டு விசாரணைகள் நுணுக்கமாக முன்னெடுக்கப்பட வேண்டும் - ஐக்கிய மக்கள் சக்தி வலியுறுத்தல்
+
+*2024-03-27 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179850) · `ta`
+
+உயிர்த்த ஞாயிறு தாக்குதல்கள் தொடர்பில் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்துள்ள கருத்துக்கள், எவரேனுமொருவருடைய அரசியல் நோக்கத்திற்கான எறியப்பட்ட பந்து என்று சந்தேகிப்பதாகத் தெரிவித்த ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் நளின் பண்டார, இது தொடர்பான விசாரணைகள் மிகவும் நுணுக்கமான முறையில் முன்னெடுக்கப்பட வேண்டும் என்றும் வலியுறுத்தினார்.
+
+கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் புதன்கிழமை (27) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+இறுதி மூச்சை பாதுகாத்துக் கொள்வதற்கான முயற்சியை அரசாங்கம் முன்னெடுத்துக் கொண்டிருக்கிறது. கடந்த சில நாட்களுக்கு முன்னர் பொதுஜன பெரமுனவினர் தமது வேட்பாளரொருவர் களமிறக்கப்படுவார் எனக் கூறிக் கொண்டிருந்தனர். ராஜபக்ஷக்களின் சகாக்கள் தவிர ஏனைய அனைத்து பொதுஜன பெரமுனவினரும் ரணில் விக்கிரமசிங்கவுடனேயே இருக்கின்றனர்.
+
+...
+
+[Data](articles/aa6acc7c.json)
+
+---
 
 ### Rumour on slashing liquor prices for Avurudu baseless: Excise Dept.
 
@@ -76,6 +116,8 @@ Therefore, the news on reduction of liquor prices is false and baseless, Excise 
 
 [Data](articles/e6c3ebd7.json)
 
+[Extended Data](ext_articles/e6c3ebd7.ext.json)
+
 ---
 
 ### Nearly 4 tons of cocaine worth over $113 million seized off Colombia
@@ -91,6 +133,28 @@ In a joint operation between the Colombian Navy, the Colombian Air Force and the
 [Data](articles/17955f4a.json)
 
 [Extended Data](ext_articles/17955f4a.ext.json)
+
+---
+
+### நுவரெலியாவில் பதுங்கிய சர்வதேச போதைப்பொருள் கடத்தல்காரர்
+
+*2024-03-27 23:24:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-பதுங்கிய-சர்வதேச-போதைப்பொருள்-கடத்தல்காரர்/76-335286) · `ta`
+
+நுவரெலியாவில் பதுங்கியிருந்த சர்வதேச போதைப்பொருள் கடத்தல்காரர் ஒருவரை பொலிஸ் விசேட அதிரடிப்படை கைது செய்துள்ளது.
+
+நுவரெலியாவில் சர்வதேச போதைப்பொருள் கடத்தல்காரர் என சந்தேகிக்கப்படும் ஒருவர் பதுங்கியிருப்பதாக பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலின் பிரகாரம் விசேட அதிரடிப்படையினர் மேற்கொண்ட சுற்றிவளைப்பிலேயே மேற்படி சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் கஹனவிடகே டொன் நந்தசேன என அடையாளம் காணப்பட்டுள்ளார்.
+
+இவர் தனது மனைனவியுடன் நுவரெலியாவில் தலைமறைவாக இருந்த போதே கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் இலங்கைக்கு திரும்புவதற்கு முன்னர், சிறிது காலம் இந்தியாவில் தலைமறைவாக இருந்துள்ளார்.
+
+அண்மையில் பொலிஸ் விசேட அதிரடிப்படையினரால் கைப்பற்றப்பட்ட 09 கிலோ கிராம் எடையுள்ள ‘ஐஸ்’ போதைப்பொருள் இவர் மூலமே இலங்கைக்குள் கடத்தப்பட்டுள்ளதாகவும் பொலிஸார் சந்தேகிக்கின்றனர். R
+
+◼️
+
+[Data](articles/ea4a5a50.json)
 
 ---
 
@@ -846,6 +910,24 @@ Four school students tragically drowned in the Ma Oya at the Walakumbura area in
 
 ---
 
+### Sri Lanka opens maternity hospital in Galle with Germany’s help
+
+*2024-03-27 17:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-opens-maternity-hospital-in-galle-with-germanys-help-156330/) · `en`
+
+ECONOMYNEXT – The German-Sri Lanka Friendship New Women’s Hospital, a six-story hospital with 640 beds, 6 operating theatres, infant intensive care units, paediatric units, and state-of-the-art facilities was opened in the southern city of Galle.
+
+The German government contributed 25 million euro (3,570 million rupees) to the project, in addition to medical equipment.
+
+Former Chancellor of Germany, Helmut Kohl, made a significant donation towards the construction of the maternity hospital after witnessing the devastation caused by the tsunami to Mahmodara Hospital Galle, during his vacation in December 2004 in Talpe, Habaraduwa.
+
+“The future holds no promise without innovation in education and healthcare. The robustness of our healthcare system is a testament to our medical services,” President Ranil Wickremesinghe said at the inauguration.
+
+...
+
+[Data](articles/4475ac82.json)
+
+---
+
 ### Four school boys drown while bathing in Ma Oya
 
 *2024-03-27 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98246/four-school-boys-drown-while-bathing-in-ma-oya) · `en`
@@ -955,6 +1037,24 @@ The Russian Human Rights Commissioner has expressed his views on this regarding 
 [Data](articles/1e79c3d3.json)
 
 [Extended Data](ext_articles/1e79c3d3.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 300.85/301.00 to the US dollar
+
+*2024-03-27 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-300-85-301-00-to-the-us-dollar-156322/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 300.85/301.00 to the US dollar in the spot forex market on Wednesday, stronger from 301.90/302.00 on Tuesday, dealers said, while bond yields were broadly steady.
+
+Of the liquid maturities; A bond maturing on 15.12.2026 closed at 11.32/38 percent from 11.30/40 percent on Tuesday.
+
+A bond maturing on 15.09.2027 closed at 11.95/12.00 percent from 11.90/12.05 percent.
+
+A bond maturing on 15.12.2028 closed stable at 12.10/15 percent. (Colombo/Mar27/2024)
+
+◼️
+
+[Data](articles/c8b76293.json)
 
 ---
 
@@ -1084,6 +1184,30 @@ The suspect, the suspect, which had spent Rs.
 
 ---
 
+### Sri Lanka stocks close up, diversified financials, banks drive turnover
+
+*2024-03-27 16:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-diversified-financials-banks-drive-turnover-156318/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader All Share Index closed up 0.87 percent, or 98.96 points, at 11,434; while the S&P SL20 Index closed up 1.16 percent, or 37.70 points, at 3,300.
+
+Turnover was at 1.8 billion. Nearly half of this came from trades in the diversified financials (502mn) and banks sectors (404mn).
+
+Hela Apparel Holdings Plc saw the most active volumes (146mn) of the day; the share closed up at 6.00.
+
+Galle Face Capital Partners Plc also saw trade volumes (114mn) and the share closed up at 28.30.
+
+Major contributors to the Index included Hatton National Bank Plc (up at 177.75), DFCC Bank Plc (up at 74.50), Sampath Bank Plc (up at 79.90), and Central Finance Company Plc (up at 110.00).
+
+There was a  net foreign outflow of 25 million. (Colombo/Mar27/2024)
+
+◼️
+
+[Data](articles/c2336bad.json)
+
+---
+
 ### A health strike from Tuesday?
 
 *2024-03-27 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195001) · `si`
@@ -1143,6 +1267,30 @@ Severe traffic congestion has been reported in the area and several connected ro
 [Data](articles/b3aba957.json)
 
 [Extended Data](ext_articles/b3aba957.ext.json)
+
+---
+
+### Sri Lanka to halt midnight border tax amid corruption concerns
+
+*2024-03-27 16:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-halt-midnight-border-tax-amid-corruption-concerns-156291/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers have given approval to draft a bill to suspend the Special Commodity Levy, amid corruption concerns, following a proposal submitted President Ranil Wickremesinghe, spokesman Bandula Gunawardana said.
+
+The SCL is applied as a single tax, instead of the tax-on-tax effect seen when duty, CESS, PAL and VAT are applied on top of food imports in particular.
+
+But SCL is imposed overnight as people are sleeping, without any discussion in parliament, raising serious concerns about its constitutionality as well as discretion and insider knowledge.
+
+“There have been concerns about its mis-use,” Gunawardana said. “When taxes are suddenly changed there have been concerns.”
+
+An International Monetary Find corruption diagnostic report has flagged the midnight tax as a discretionary door opened for corruption.
+
+Similar sudden changes have also been made in an export CESS tax, unsing gazettes.
+
+Sri Lanka’s IMF review will be passed after several ‘pior actions’.
+
+...
+
+[Data](articles/a03107ae.json)
 
 ---
 
@@ -1480,6 +1628,24 @@ Police say that the revenue license in the purse of the deceased has received on
 
 ---
 
+### Review of Sri Lanka noise pollution regulations given to Justice Minister
+
+*2024-03-27 15:45:00* · [`economynextcom`](https://economynext.com/review-of-sri-lanka-noise-pollution-regulations-given-to-justice-minister-156308/) · `en`
+
+ECONOMYNEXT – A review of existing laws and regulations on noise pollution in Sri Lanka has been conducted and a report was handed over to the Minister of Justice.
+
+“The expert committee has prepared the relevant report by studying the laws and regulations related to noise pollution around the world,” a statement by the Department of Government Information said.
+
+The report of the committee appointed to review the existing laws was handed over by its Chairman, Supreme Court Justice Mahinda Samayawardena to the Minister of Justice, Prison Affairs and Constitutional Reforms, Wijeyadasa Rajapakshe at the Ministry.
+
+The team comprised officials from the office of the Solicitor General, Ministry of Justice, Prison Affairs and Constitutional Reform, Ministry of Environment, Central Environment Authority, Police, and lawyers.
+
+...
+
+[Data](articles/e207ab9a.json)
+
+---
+
 ### Sundar C's released in April 'Palace 4'
 
 *2024-03-27 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179838) · `ta`
@@ -1589,6 +1755,24 @@ Can temporarily blow heavy winds during thunderstorms. The public is asked to ta
 [Data](articles/db833286.json)
 
 [Extended Data](ext_articles/db833286.ext.json)
+
+---
+
+### Sri Lanka voters need awareness to prevent another economic crisis: Legislator
+
+*2024-03-27 15:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-voters-need-awareness-to-prevent-another-economic-crisis-legislator-156309/) · `en`
+
+ECONOMYNEXT – Sri Lanka voters need awareness to elect politicians who tell the truth to the public and prevent another economic crisis like in 2022, Parliament MP Wajira Abeywardana said.
+
+President Ranil Wickremesinghe-led center-right United National Party (UNP) was brought down to an unprecedented one seat in the 225-member parliament during 2020 general elections after it put forward the needs for economic reforms.
+
+However, the Sri Lankan voters gave a strong mandate to former president Mahinda Rajapaksa-led Sri Lanka Podujana Peramuna (SLPP) which promised a raft of subsidies and tax concessions. However, the party failed with wrong economic policies.
+
+The SLPP faced public wrath when the economic crisis unfolded in 2022 and later its top leaders including President Gotabaya Rajapaksa were forced to resign in the face of strong mass protests.
+
+...
+
+[Data](articles/74256c67.json)
 
 ---
 
@@ -1800,6 +1984,26 @@ In addition, amendments to the police circulars have been proposed for the polic
 
 ---
 
+### Sri Lanka Catholic Church opposed to any reform in abortion law
+
+*2024-03-27 14:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-catholic-church-opposed-to-any-reform-in-abortion-law-156299/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Catholic Church has not changed its stance on abortion, its representatives said, after the Minister of Justice said that religious leaders were blocking attempts to legalise abortion in some instances.
+
+“No one has the right to take the life of another,” Father Cyril Gamini Fernando told EconomyNext. “Not even the mother. Abortion should be illegal in all cases except to save the life of the mother.”
+
+In Sri Lanka, abortion, except under life-saving circumstances, is criminalized under Section 303 of the Penal Code and is punishable by a fine and/or imprisonment of up to three years.
+
+“When I was the Justice Minister in 2015-2016, we tried to legalize abortion in cases of rape. However, the religious leaders were against it,” Minister of Justice Wijeyadasa Rajapakshe said.
+
+Rajapakshe said that “the Cardinal”, the leader of the Catholic Church in the island, Cardinal Malcom Ranjith, was opposed to any reform in abortion law.
+
+...
+
+[Data](articles/40209fb0.json)
+
+---
+
 ### Rajiv Gandhi assassination case: Three convicts to be deported to Sri Lanka in a week
 
 *2024-03-27 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98236/rajiv-gandhi-assassination-case-three-convicts-to-be-deported-to-sri-lanka-in-a-week) · `en`
@@ -1837,6 +2041,24 @@ The suspects were arrested during the protest held by the People's Struggle Move
 [Data](articles/8d8bcd49.json)
 
 [Extended Data](ext_articles/8d8bcd49.ext.json)
+
+---
+
+### India to facilitate digital public infrastructure for Sri Lanka
+
+*2024-03-27 13:56:00* · [`economynextcom`](https://economynext.com/india-to-facilitate-digital-public-infrastructure-for-sri-lanka-156292/) · `en`
+
+ECONOMYNEXT – India will help expedite a digital public infrastructure for Sri Lanka, Indian High Commissioner to Sri Lanka Santosh Jha has said.
+
+“It is a set of shared digital systems that are secure and interoperable, built on open technologies to deliver equitable access to public and or private services at a societal scale,” Jha said at the Digital Public Infrastructure (DPI) Seminar on Tuesday, at Taj Samudra Hotel, Colombo.
+
+The seminar was co-organized by the High Commission of India in Colombo and the Ministry of Technology, Government of Sri Lanka, to explore the transformative potential of DPI for enabling service delivery, empowering communities by fostering inclusivity and enriching the economy by driving innovation.
+
+“Both our leaders agreed to leverage India’s DPI in accordance with Sri Lanka’s requirements and priorities towards effective and efficient delivery of citizen-centric services to the people of Sri Lanka.
+
+...
+
+[Data](articles/5b5b8a15.json)
 
 ---
 
@@ -2005,271 +2227,5 @@ The Minister stressed that the purpose of the program is about a billion rupees 
 [Data](articles/72a5a5c8.json)
 
 [Extended Data](ext_articles/72a5a5c8.ext.json)
-
----
-
-### Expedite compensation to ’Aragalaya’ victims: Prasanna
-
-*2024-03-27 12:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Expedite-compensation-to-Aragalaya-victims-Prasanna/108-279706) · `en`
-
-Gampaha, March 27 (Daily Mirror)- The Government Valuation Department and the Office for Reparations have been instructed to expedite the compensation process for the movable and immovable property that were set on fire by the 'Aragalaya' protestors in the Gampaha district on May 9, 2022.
-
-The instruction was given by Urban Development Minister Prasanna Ranatunge during a special meeting held at the Gampaha District Secretariat this morning.
-
-The Minister said 33 out of 42 houses that were sent on fire in Gampaha District have been compensated for by the Office for Reparations by now.
-
-He said the most damage was caused in the Gampaha District due to the May 9 incident, which included 138 vehicles.
-
-The Minister said that the implementation of law against those responsible for the May 9 incident was very slow and said he had instructed the IGP to expedite the legal process.
-
-◼️
-
-[Data](articles/b143890b.json)
-
-[Extended Data](ext_articles/b143890b.ext.json)
-
----
-
-### Heavy rains in several provinces after 2.00 pm tomorrow
-
-*2024-03-27 12:45:17* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-දහවල්-2-00-පසු-පලාත්-කිහිපයකට-තද-වැසි/11-408824) · `si`
-
-Heavy rains and thunder showers expected in Western, Sabaragamuwa, Southern, Central, Uva, North Western, and North Central Provinces tomorrow after 2.00 pm.
-
-🟩
-
-As the weather forecast issued by the Department of Meteorology after 12.00 pm today (27)
-
-In the Western, Sabaragamuwa, Southern, Central, Uva, Uva, North Western and North Central Provinces. Showers after 2.00
-
-Or thunder showers. Some places in the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts. Mee. Heavy rains can occur at more than 75.
-
-They have informed that there will be a few showers in the East.
-
-◼️
-
-[Data](articles/88fa49df.json)
-
-[Extended Data](ext_articles/88fa49df.ext.json)
-
----
-
-### Man nabbed with Kerala cannabis worth over Rs. 10mn
-
-*2024-03-27 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98234/man-nabbed-with-kerala-cannabis-worth-over-rs-10mn) · `en`
-
-A coordinated operation conducted by the Navy and Police Special Task Force (STF) in Nikawewa of Weli Oya in the dark hours of Tuesday (26), led to the arrest of a suspect and the seizure of more than 27kg of Kerala cannabis.
-
-The combined search operation was carried out by SLNS Ranweli and SLNS Gotabaya in the Eastern Naval Command with Mullaitivu Police STF in Nikawewa area.
-
-According to the navy, a person roaming in the area had been interrogated on suspicion. This has led to the recovery of 13 parcels of Kerala cannabis from nearby shrubs, based on the information divulged by the suspect.
-
-The Kerala cannabis consignment, which was intended for sale, weighed about 27kg and 185g and its gross street value is believed to be over Rs. 10 million.
-
-The 43-year-old held in this operation was identified as a resident of Nikawewa area. The accused, along with Kerala cannabis was handed over to the Welioya Police for onward legal action.
-
-◼️
-
-[Data](articles/744e39bf.json)
-
-[Extended Data](ext_articles/744e39bf.ext.json)
-
----
-
-### The information we know about the collapse of the Boltimore bridge
-
-*2024-03-27 12:34:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce97lq93l1mo) · `si`
-
-The Boltimore Bridge collapsed in Maryland, USA, on Tuesday, with a container ship nearby. Vehicles fell into the Pattapsco River, killing 6 construction workers. The bridge, opened in 1977, is the third-largest of its kind globally. The ship, named Dalyy, was tied to the bridge's support. The fire department reported the bridge had fallen completely. A search and rescue operation is underway, with two people recovered, one in serious condition. The ship was leased by Maersk under the Synergy Group and was transporting goods to Colombo. The accident's cause is under investigation.
-
-🟩
-
-On Tuesday, a container carrier ship is far from Francis Scott Key Bridge near Boltimore, USA.
-
-Several vehicles traveling across the bridge have fallen into the Pattapsco and liberated between 7 and 20 people who believe in the water.
-
-There are six construction workers among the people who fell into the Pathopsco river, and they all have died.
-
-After the accident, Maryland governor has been declared an urgent situation.
-
-The Boltimore Bridge, as many knows, was opened in 1977 as a poet in Maryland state 'Star Spangled Banner.
-
-The bridge was 8,636 feet (2,632 meters), compared to the Pattameko and Boltimore ports. Patpusco River flows to the Chespake Bay, the largest estuary in the United States.
-
-It is described as a tuse bridge, which is 1,200 feet in the bridge, which extends from one guide to the other, is the third largest bridge from such kinds of bridges in the world.
-
-Videos appear how the ship called Dalyy is tied to the support of the bridge.
-
-...
-
-[Data](articles/9aa57025.json)
-
-[Extended Data](ext_articles/9aa57025.ext.json)
-
----
-
-### The bus that was traveling in Gampola from monthly fire burned fire!
-
-*2024-03-27 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179815) · `ta`
-
-A bus traveling from Gampola to Kurunegala Malkaduwa was engulfed in a fire, sparked by a Sri Lanka Transport Board (SLTB) vehicle. The Kurunegala Fire Division was called to extinguish the flames.
-
-🟩
-
-One of the Sri Lanka Transport Board (SLTB) has suddenly burned a fire in the Kurunegala Malkaduwa area.
-
-The fire broke out in a bus traveling to Gampola from monthly.
-
-Then the Kurunegala Fire Division came there to bring the fire under control.
-
-◼️
-
-[Data](articles/30a8dfc9.json)
-
-[Extended Data](ext_articles/30a8dfc9.ext.json)
-
----
-
-### 53 massage centers closed
-
-*2024-03-27 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194990) · `si`
-
-53 massage centers in Negombo closed due to illegal brothel operations, leading to 137 arrests and 2 HIV cases among the workers.
-
-🟩
-
-In a medical examination, two women employed in the prostitutes employed in the Negombo area under the guise of the centers have revealed HIV.
-
-Speaking at a media briefing held today, police spokesman DIG Taladuuwa said this.
-
-At least 53 centers were closed down and 137 women were arrested in their work.
-
-"In the past few days, a special raid has been carried out on Negombo, Kochchikade and Seeduwa. Intellectual information was reported that they were illegally running as brothels. Maintaining brothels, employing people as prostitutes, have been arrested in charge of managing the place. The suspects were produced before courts and submitted to medical tests. "
-
-...
-
-[Data](articles/9e7612b2.json)
-
-[Extended Data](ext_articles/9e7612b2.ext.json)
-
----
-
-### Testing at cosmetics outlets in Colombo;Seizure
-
-*2024-03-27 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179802) · `ta`
-
-The National Drug Regulatory Authority in Sri Lanka conducted tests at cosmetics outlets in Colombo, seizing over 470 unregistered skin therapeutic drugs, including steroids, from wholesalers. These drugs are not cosmetics but must be sold under doctor's recommendation due to potential skin damage. The operation was prompted by the Sri Lanka Skin Medical Experts Association's warning.
-
-🟩
-
-The Food and Drug Inspectors of the National Drug Regulatory Authority have launched a testing operation at several leading cosmetics stalls in Colombo on Tuesday (26) following a warning issued by the Sri Lanka Skin Medical Experts Association.
-
-A senior official of the National Drug Regulatory Authority said that those who sold these soldiers had purchased unregistered skin therapy in the wholesalers of cosmetics at the Colombo Fort.
-
-Subsequently, more than 470 skin therapeutic drugs were discovered by testing of the total outlet of two cosmetics on Kadirasan Road.
-
-The drugs must be sold only on the recommendation of the doctors. This is not a simple cosmetic material.
-
-Preliminary inquiries revealed that these unregistered drugs would bring local vendors to India and bring it into the country through customs.
-
-Two types of such drugs with three drug additives were seized. Hydroghuvinone, Tretinoin and Momatasone Furoate Cream are 3 chemical compounds. Steroid is one of them.
-
-...
-
-[Data](articles/f9782631.json)
-
-[Extended Data](ext_articles/f9782631.ext.json)
-
----
-
-### Opening of the new Maternity Hospital Hospital in Karapitiya
-
-*2024-03-27 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179812) · `ta`
-
-The German-Sri Lanka Friendship New Maternity Hospital in Karapitiya, Galle, was inaugurated by President Ranil Wickremesinghe. It features 640 beds, 6 surgery units, intensive care, a children's division, and modern facilities, making it the largest maternity hospital in South Asia.
-
-🟩
-
-The German -Sri Lanka Friendship New Maternity Hospital has been opened in Karapitiya, Galle.
-
-President Ranil Wickremesinghe inaugurated this morning on Wednesday morning.
-
-The hospital has 640 beds, 06 surgery units, intensive care, children's division and modern facilities.
-
-The hospital is the largest maternity hospital in South Asia.
-
-◼️
-
-[Data](articles/d354aa72.json)
-
-[Extended Data](ext_articles/d354aa72.ext.json)
-
----
-
-### 12 people killed to rescue aid items that fell into the sea - tragedy continued
-
-*2024-03-27 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/179813) · `ta`
-
-12 people drowned trying to rescue aid items from the sea, amidst fears of hunger due to Israel's military action. Videos show the tragic scene, including a young man being rescued but ultimately succumbing to his injuries. The incident highlights the desperation for food and the failure of humanitarian aid delivery.
-
-🟩
-
-At least 12 people have died in the sea when they tried to take them when they fell into the sea.
-
-The incident took place amid fears that Israel's six -month military action has created huge hunger in cash.
-
-Videos have been revealed that the public is wrapped towards the Benelagia coast in Vadakasa, followed by the public in deep water and their bodies are recovered.
-
-The video shows the video that a young man with a beard is recovered from the sea, but in his eyes, the person is trying to save him and that he is dead.
-
-The video shows a person on the beach that he went to the sea to find food for his children.
-
-He questioned why they should provide humanitarian assistance through the ground.
-
-The Pentagon, who said that the humanitarian aid was thrown by the Parasood in 18 packages, said that they fell into the sea as Parasood was not functioning.
-
-It is customary for some people in the gaza to die of weeds and to eat the bread made from the diet of animals.
-
-◼️
-
-[Data](articles/ec6c0aed.json)
-
-[Extended Data](ext_articles/ec6c0aed.ext.json)
-
----
-
-### Sri Lanka looking to adopt India’s digital model
-
-*2024-03-27 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98233/sri-lanka-looking-to-adopt-indias-digital-model) · `en`
-
-Sri Lanka’s President Ranil Wickremesinghe has expressed admiration for India’s digital achievements, citing it as a model worth emulating. Speaking at a conference on Digital Public Infrastructure (DPI) in Colombo, President Wickremesinghe emphasised the need for collaboration with India, highlighting the potential to save years in development by adopting India’s digital strategies.
-
-“In implementing it, we needed help, and the best place we could get was India. I spoke with PM Modi when I was in India last year, and as part of our integration, we said, we would like to go with India, you have done so much,” stated President Wickremesinghe, underlining the significance of seeking guidance from India’s experience.
-
-...
-
-[Data](articles/f3522d08.json)
-
-[Extended Data](ext_articles/f3522d08.ext.json)
-
----
-
-### Passenger bus burned in fire
-
-*2024-03-27 12:10:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீப்பிடித்து-எரிந்த-பயணிகள்-பஸ்/175-335255) · `ta`
-
-A Sri Lanka Transport Board bus in Malkaduwa, Kurunegala, caught fire while traveling from Madambe to Gampola.
-
-🟩
-
-A bus belonging to the Sri Lanka Transport Board (SLTB) in the Malkaduwa area of Kurunegala has suddenly burned a fire.
-
-The fire broke out in a bus traveling from Madambe to Gampola.
-
-◼️
-
-[Data](articles/5574e914.json)
-
-[Extended Data](ext_articles/5574e914.ext.json)
 
 ---

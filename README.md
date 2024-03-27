@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 00:03:11**
+As of **2024-03-28 00:18:04**
 
 ## Newspaper Stats
 
-*Scraped **15,570** Articles*
+*Scraped **15,573** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,64 @@ adalk | 1,333
 adaderanalk | 1,871
 tamilmirrorlk | 1,871
 virakesarilk | 2,202
-dailymirrorlk | 2,404
+dailymirrorlk | 2,407
 adaderanasinhalalk | 2,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,569 (100.0%) of 15,570 articles have been extended.
+15,570 (100.0%) of 15,573 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-03-28 (Thursday)
+
+### Education reforms: A distant goal for Sri Lanka?
+
+*2024-03-28 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Education-reforms-A-distant-goal-for-Sri-Lanka/172-279738) · `en`
+
+Sri Lanka’s education system has been yearning for reforms following the millennium if one had closely observed the ever-transforming education sectors in developed countries. The discourse to bring about education reforms has continued for decades. As a result, the government has drafted a National Education Policy Framework (NEPF) for a 10-year period from 2023-2033. But, academics observe that this is a loosely drafted document that hasn’t addressed several key areas of concern.
+
+...
+
+[Data](articles/4b41cf30.json)
+
+---
+
+### Aswesuma: Enhancing results by reducing indicators
+
+*2024-03-28 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Aswesuma-Enhancing-results-by-reducing-indicators/172-279739) · `en`
+
+In contrast to the eligibility criteria used by Samurdhi, the Aswesuma criteria reflect greater sensitivity to the multiple interlinked deprivations that constitute and contribute to poverty
+
+Aswesuma is the most recent welfare benefits programme introduced by the government of Sri Lanka. It replaces the Samurdhi scheme and is the result of a necessary condition to be fulfilled by the government of Sri Lanka in the loan agreement with the International Monetary Fund (IMF). Aswesuma provides targeted assistance to vulnerable groups by reducing poverty; its goal is to enhance social welfare
+
+...
+
+[Data](articles/8c737c20.json)
+
+---
+
 ### 2024-03-27 (Wednesday)
+
+### Rumour on slashing liquor prices for Avurudu baseless: Excise Dept.
+
+*2024-03-27 23:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rumour-on-slashing-liquor-prices-for-Avurudu-baseless-Excise-Dept/108-279743) · `en`
+
+Colombo, March 27 (Daily Mirror) - The present widely spread rumour about slashing of liquor prices for the upcoming Sinhala and Tamil New Year has no basis in it, the Department of Excise said today.
+
+Excise Spokesperson Channa Weerakkody said news is currently circulated in the media about the excessive prices of liquor owing to the higher Excise tax imposed on them would be reduced in order to get the prices of liquor slashed.
+
+He said the Excise Department has not received any order or instruction from its competent authority the Ministry of Finance to amend the Excise tax on liquor thus the prices of liquor will not be reduced.
+
+Therefore, the news on reduction of liquor prices is false and baseless, Excise Commissioner Revenue Operations Weerakkody said.
+
+...
+
+[Data](articles/e6c3ebd7.json)
+
+---
 
 ### Nearly 4 tons of cocaine worth over $113 million seized off Colombia
 
@@ -43,6 +89,8 @@ In a joint operation between the Colombian Navy, the Colombian Air Force and the
 ...
 
 [Data](articles/17955f4a.json)
+
+[Extended Data](ext_articles/17955f4a.ext.json)
 
 ---
 
@@ -2223,69 +2271,5 @@ The fire broke out in a bus traveling from Madambe to Gampola.
 [Data](articles/5574e914.json)
 
 [Extended Data](ext_articles/5574e914.ext.json)
-
----
-
-### President inaugurates Sri Lanka’s largest maternity hospital in Galle
-
-*2024-03-27 12:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-inaugurates-Sri-Lankas-largest-maternity-hospital-in-Galle/108-279705) · `en`
-
-Galle, March 27 (Daily Mirror) - President Ranil Wickremesinghe inaugurated Sri Lanka's largest maternity hospital a short while ago.
-
-According to the President's Media Division, the hospital, named the German-Sri Lanka Friendship New Women's Hospital situated in Karapitiya, Galle consists of 640 beds, six operating theaters, emergency units, intensive care units, pediatric units and modern facilities.
-
-They said the inauguration of this hospital marks a significant advancement in Sri Lanka's healthcare.
-
-◼️
-
-[Data](articles/feac543b.json)
-
-[Extended Data](ext_articles/feac543b.ext.json)
-
----
-
-### The world's largest snake was killed
-
-*2024-03-27 12:08:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகின்-மிகப்பெரிய-பாம்பு-கொல்லப்பட்டது/175-335254) · `ta`
-
-The world's largest snake, a 26-foot-long Anaconda named 'Anna Julia', was killed by a group of 15 zoologists. Discovered in February, 'Anna Julia' was confirmed as a northern green anaconda, a new race of Anaconda.
-
-🟩
-
-International media reports that the 26 -foot -long Anaconda has been killed by zoologists as the world's largest snake.
-
-The international group of 15 zoologists led by tribes of the Amazon forests discovered this largest Anaconda on the sub -river of the Amazon River last February. This woman was named 'Anna Julia'.
-
-Anacondas are considered the world's largest snakes. Anacondas. In Anacondas, 'Anna Julia' was considered the largest anaconda. It is noteworthy that scientists have confirmed that 'Anna Julia' is the northern green anaconda, and the northern green anacondas are the new race of Anaconda.
-
-◼️
-
-[Data](articles/0f2a3101.json)
-
-[Extended Data](ext_articles/0f2a3101.ext.json)
-
----
-
-### Schoolgirls to receive vouchers for sanitary napkins after New Year
-
-*2024-03-27 12:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Schoolgirls-to-receive-vouchers-for-sanitary-napkins-after-New-Year/108-279704) · `en`
-
-Colombo, March 27 (Daily Mirror) - After the upcoming Sinhala and Tamil New Year festivals, steps have been taken to provide vouchers to schoolgirls to buy sanitary napkins, Education Minister Susil Premajayantha said.
-
-He said the decision was targeted at increasing the hygiene habits of schoolgirls and providing opportunities for girls who face challenges in getting adequate sanitary facilities.
-
-Accordingly, steps are being taken to distribute sanitary napkins to nearly 800,000 schoolgirls in difficult, extreme, isolated areas and schools with identified poverty.
-
-The Minister further said that a Bill has already been presented to Cabinet for approval.
-
-The expected provision to be spent by the government for this purpose is about Rs. 1 billion, and the value of each voucher is about Rs. 1,200.
-
-The Minister also said that the aim of this programme is to provide support to girls from economically disadvantaged families by strengthening healthy habits among schoolchildren.
-
-◼️
-
-[Data](articles/c5fdd587.json)
-
-[Extended Data](ext_articles/c5fdd587.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 16:03:12**
+As of **2024-03-27 16:17:49**
 
 ## Newspaper Stats
 
@@ -26,69 +26,97 @@ adaderanasinhalalk | 2,490
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,498 (99.9%) of 15,509 articles have been extended.
+15,509 (100.0%) of 15,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### ශ්‍රී ලාංකිකයින් 19,620ක් ගැන කුවේට් රාජ්‍ය ගත් තීරණය
+### Kuwait's decision about 19,620 Sri Lankans
 
 *2024-03-27 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194996) · `si`
 
-කුවේට් රාජ්‍යයේ නීතිවිරෝධි අයුරින් රැඳී සිටින පුද්ගලයින්ට එරටින් පිටවීම සඳහා පොදු සමා කාලයක් එරට අභ්‍යන්තර කටයුතු අමාත්‍යාංශය විසින් හඳුන්වා දී තිබේ.
+Kuwait's Ministry of Internal Affairs has announced a public period from June 17 to September 17 for 19,620 Sri Lankans to leave the country. Those who leave will not be fined and can legally re-enter. Those remaining illegally will face fines for a valid visa. No charges or accusations are expected from police or public. The Sri Lanka Bureau of Foreign Employment encourages awareness.
 
-මෙම පොදු සමා කාලය මාර්තු මස 17 වනදා ආරම්භ වූ අතර, එය ජූනි මස 17 වනදා දක්වා මාස 3 ක කාලයක් ක්‍රියාත්මක වෙයි.
+🟩
 
-මේ වනවිට ශ්‍රි ලාංකිකයින් 19,620ක පිරිසක් වලංගු වීසා බලපත්‍ර නොමැතිව කුවේටයේ නීතිවිරෝධිව රැඳී සිටින බව තානාපති කාර්යාලය සඳහන් කරයි.
+The Ministry of Internal Affairs has been introduced to the people of Kuwait to leave the country.
 
-කිසියම් පුද්ගලයෙකු මෙම කාලය තුල එරටින් පිටව යන්නේ නම් දඩ මුදල් අය කිරීමකින් තොරව බැහැරවීමට අවස්ථාව හිමිවන අතර, නැවත කුවේට් රාජ්‍යය වෙත නීත්‍යානුකූලව ඇතුළුවීමටද අවස්ථාව සැලසේ.
+The public period commenced on March 17, and it will work for three months from June 17.
 
-මෙම කාල සීමාව තුළ කුවේට් රාජ්‍යයෙන් පිටවීමට අවස්ථාව හිමිවන්නේ 2024.03.14 දිනට පෙර සේවය කළ ස්ථානයෙන් පළාගිය බවට හාම්පුතා විසින් අභ්‍යන්තර කටයුතු අමාත්‍යාංශයේ පැමිණිල්ලක් ගොනුකර ඇති පුද්ගලයින්ට හෝ 2024.03.14 දින තෙක් වීසා නොමැතිව කුවේටයේ රැදි සිටි පුද්ගලයින්ට පමණි.
+The embassy said that 19,620 Sri Lankans will remain illegal in Kuwait without valid visa.
+
+If a person leaves the country in this time, the opportunity will be excluded without charging fines and legally enter the Kingdom of Kuwait.
+
+In this period, Kuwait has the opportunity to leave Kuwait to the Ministry of Internal Affairs or the people who have been looked after the Ministry of Internal Affairs.
+
+In addition to these allegations, there is no charge or any other accusation of police stations or other complaints against the relevant person or any other accusation of the police or any other accusations of the public.
+
+If a person who is illegally staying in Kuwait continues to stay in Kuwait, the fines presented by Kuwait will provide a valid visas after the fines presented by Kuwait.
 
 ...
 
 [Data](articles/c963580a.json)
 
+[Extended Data](ext_articles/c963580a.ext.json)
+
 ---
 
-### இலங்கையில் தேசியவாதம் தோல்வியடைந்து விட்டது  -கனடா சமூகத்தினை அதன் பன்முகத்தன்மைக்காக நான் நேசிக்கின்றேன் - கனடா ஊடகத்திற்கு அனுரகுமார பேட்டி
+### Nationalism in Sri Lanka has failed - I love the Canada community for its diversity
 
 *2024-03-27 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179842) · `ta`
 
-இலங்கையில் தேசியவாதம் தோல்வியடைந்து விட்டது என தெரிவிததுள்ள  ஜேவிபியன் தலைவர் அனுரகுமாரதிசநாயக்க கனடா சமூகத்தினை அதன் பன்முகத்தன்மைக்காக நான் விரும்புகின்றேன் எனவும் தெரிவித்துள்ளார்
+Nationalism in Sri Lanka has failed, with JVP leader Anuragumaratisanayake expressing a desire for the Canada community's diversity. The community blames the current Sri Lankan government for the resurrection Sunday attack, despite three investigations. India's role in political violence is debated, with the Canadian Prime Minister accusing India of assassination. Sri Lanka's stance on international agreements, particularly with the IMF, is complex, highlighting the need for self-reliance. The failure to celebrate diversity in Sri Lanka is contrasted with the Canada community's success.
 
-நிலைமையை மாற்றுவதற்கு தாங்கள் பங்களிப்பினை வழங்க முடியும் என கனடாவில் உள்ள இலங்கையர்கள் நம்புகின்றனர் .
+🟩
 
-2 இலங்கையின் தற்போதைய அரசாங்கம் உயிர்த்த ஞாயிறு தாக்குதலை அதிகாரத்தை கைப்பற்றுவதற்காக பயன்படுத்தியது எனநீங்கள் கருதுகின்றீர்களா?
+JVP leader Anuragumaratisanayake said that nationalism has failed in Sri Lanka and I want to be the Canada community for its diversity.
 
-பதில்- உயிர்த்தஞாயிறு தாக்குதலை இந்த அரசாங்கம் அதிகாரத்தை கைப்பற்ற பயன்படுத்தியது என சமூகம் நம்புகின்றது.
+Sri Lankans in Canada hope they can contribute to change the situation.
 
-சமூகம் ஏற்கனவே அரசாங்கத்தை குற்றம்சாட்டுகின்றது இந்த அரசாங்கம் உயிர்த்த ஞாயிறு தொடர்பான உரிய விசாரணைகளை மேற்கொள்ளப்போவதில்லை என சமூகம் நம்புகின்றது.
+2 Do you think that the current government of Sri Lanka used the resurrection Sunday attack to seize power?
 
-உயிர்த்த ஞாயிறு தாக்குதல் தொடர்பில் மூன்று தனித்தனி விசாரணைகள் இடம்பெற்றுள்ளன -  2018 இல் இரண்டு பொலிஸ் உத்தியோகத்தர்கள் பயங்கரவாத குழுவினால் கொல்லப்பட்டமை தொடர்பான விசாரணைகள் தோல்வியடைந்துள்ளன நீங்கள் தெரிவுசெய்யப்பட்டால் நீதிக்கான தேடலில் கவனம் செலுத்துவீர்கள் என தெரிவித்துள்ளீர்கள்?
+Answer: The community believes that this government used this government to seize power.
+
+The community already blames the government.
+
+There have been three separate investigations into the lifeblood of the Sunday attack -In 2018, two police officers have failed to investigate the killing of the terrorist group.
+
+Answer- Yes, you need to find out who is behind the murder of two police officers.
+
+Speaking of Question-Political Violence, our Prime Minister (Canada) has accused India of assassinating a man in Canada.
 
 ...
 
 [Data](articles/80c65c59.json)
 
+[Extended Data](ext_articles/80c65c59.ext.json)
+
 ---
 
-### கல்முனை வடக்கு பிரதேச செயலக விவகாரம் : 3 ஆவது நாளாக கடும் மழைக்கு மத்தியில் தொடரும் போராட்டம்
+### Kalmunai North Divisional Secretariat Affairs
 
 *2024-03-27 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/179824) · `ta`
 
-கல்முனை வடக்கு பிரதேச செயலகத்தின் மீதான தொடர்ச்சியாக நிர்வாக அடக்குமுறைகளுக்கு எதிராக அங்குள்ள பொதுமக்கள் 3 ஆவது நாளாக இன்று (27) கடும் மழைக்கு மத்தியில்   கவனயீர்ப்பு  போராட்டத்தை முன்னெடுத்து வருகின்றனர்.
+Civilians in Kalmunai North protest against administrative repression. MP Tavarasa Kalaiyarasan and others join the struggle. Despite being upgraded to a separate Divisional Secretariat in 1988, continuous repression persists. The peaceful protest continues, with demands for the rights of the Divisional Secretariat to be upheld.
 
-குறித்த  பிரதேச செயலகத்தின் முன்பாக கடந்த திங்கட்கிழமை(25) பொதுமக்கள் பல்வேறு சுலோகங்களை உள்ளடக்கிய  பதாதைகளை தாங்கிய வண்ணம் அமைதி வழியில் ஒன்று கூடி போராட்டம் ஒன்றினை முன்னெடுத்து இருந்தனர்.
+🟩
 
-அதன் தொடர்ச்சியாக  3 ஆவது நாளான இன்றும் பல்வேறு சுலோகங்களை முன்வைத்து போராட்டத்தை தொடர்ந்து மேற்கொண்டு வருகின்றனர்.
+The civilians are carrying out a vigilante protest today (27) for the 3rd day against the continuous administrative repression of the Kalmunai North Divisional Secretariat.
 
-இப்போராட்டத்திற்கு வலு சேர்க்கும் முகமாக இன்று அம்பாறை மாவட்ட தமிழ் தேசிய கூட்டமைப்பின் பாராளுமன்ற உறுப்பினர் தவராசா கலையரசன் மற்றும் காரைதீவு பிரதேச சபையின் முன்னாள் தவிசாளர் கிருஸ்னபிள்ளை ஜெயசிறில் ஆகியோர் வருகை தந்திருந்தமை குறிப்பிடத்தக்கது.
+In front of the Divisional Secretariat on Monday (25), the public gathered together in a peaceful way, carrying out various slogans.
+
+The 3rd day, the 3rd day, is still continuing the struggle with various slogans.
+
+Tavarasa Kalaiyarasan, Member of Parliament of the Ampara District and Karadivu Pradeshiya Sabha, Krisnapillai Jayasiril, arrived today to strengthen the struggle.
+
+They also point out to the media that the Western Divisional Secretariat, which has been the Assistant Government Agent Division in the past, has been upgraded to a separate Divisional Secretariat in 1988 and has been functioning as a separate Divisional Secretariat for the past 30 years.
 
 ...
 
 [Data](articles/17bab08d.json)
+
+[Extended Data](ext_articles/17bab08d.ext.json)
 
 ---
 
@@ -110,57 +138,79 @@ The general public is further requested to avoid using wired telephones and conn
 
 [Data](articles/19a204a4.json)
 
+[Extended Data](ext_articles/19a204a4.ext.json)
+
 ---
 
-### 150 ஸ்பா நிலையங்களுக்கு பூட்டு
+### Lock for 150 spa stations
 
 *2024-03-27 15:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/150-ஸ்பா-நிலையங்களுக்கு-பூட்டு/175-335267) · `ta`
 
-நீர்கொழும்பிலுள்ள 150  ஸ்பா நிலையங்கள் மூடப்பட்டு அதில் பணிபுரிந்த 137 பெண்கள் கைது செய்யப்பட்டனர்.
+150 spa stations in Negombo closed, 137 women arrested. Two women, posing as spa workers, were reported for adultery during a police raid.
 
-குறித்த பகுதியில் திடீர் சோதனை நடிவடிக்கையின் போது ஸ்பா நிலையம் என்ற போர்வையில் விபசார விடுதிகளில் பணிபுரிந்து வந்த 2 பெண்களுக்கு எய்ட்ஸ் தொற்று ஏற்பட்டுள்ளதாக மருத்துவ பரிசோதனையில் தெரியவந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
+
+Over 150 spa stations in Negombo were closed and 137 women were arrested.
+
+Police said that two women who were working in adulterers who were working in adulterers who were working in adulterers in the guise of a spa station during a sudden raid in the area were reported in a medical examination.
 
 ◼️
 
 [Data](articles/c6c30c2b.json)
 
+[Extended Data](ext_articles/c6c30c2b.ext.json)
+
 ---
 
-### දැල්කඩ කැපූ ඇලේ තරුණයෙකුගේ නාඳුනන මළ සිරුරක්
+### Unident dead body of a young man of the lame
 
 *2024-03-27 15:45:48* · [`adalk`](https://www.ada.lk/breaking_news/දැල්කඩ-කැපූ-ඇලේ-තරුණයෙකුගේ-නාඳුනන-මළ-සිරුරක්/11-408830) · `si`
 
-නාඳුනන  පුද්ගලයෙකුගේ මළ සිරුරක්  බණ්ඩාරගම කළුතර මාර්ගයේ ගල්තුඩේ පාලම අසල දැල්කඩ පාරේ බොල්ගොඩ ගඟේ අතුගංගාවක් වන කැපු ඇලේ  පාවෙමින් තිබියදී  ඊයේ (26) රාත්‍රී හමුවූ බව මොරන්තුඩුව පොලිසිය කියයි
+A 25-30 year old man's body was found floating in the Bolgoda River near the Bandaragama Kalutara Bridge. Police found a motorcycle linked to him, which he sold five years ago. The deceased's ID, insurance, and temporary driving license all had different names, with addresses in Moratuwa and Bandaragama.
 
-මියගිය පුද්ගලයා වයස අවුරුදු 25-30 පමණ සිතිය හැකි අයෙක් බවත්  පොලිසිය සඳහන් කරයි. එම පුද්ගලයාගේ බවට සිතිය හැකි යතුරුපැදියක්  ද ගල්තුඩේ පාලම මත තිබී පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-එම යතුරුපැදියේ ලියාපදිංචි අංකය අනුව පරික්ෂා කිරීමේදී මොරටුව  පුද්ගලයකුට අයත් එකක් බවට අනාවරණය වූ බවත් එම පුද්ගලයා මීට වසර පහකට පෙරදී වෙනත් පුද්ගලයෙකුට යතුරුපැදිය විකුණූ බවට සනාථ වූ බවත් පොලිසිය ම
+Moratuwa police say that the body of a dead body was floating at the Bolgoda River on the Bolgoda River on the Bolgoda River on the Bandaragama Kalutara Bridge.
 
-එම පුද්ගලයා ද සිටින බවත් ඔහුද මොරටුව ප්‍රදේශයේ අයෙක් බවත් පොලිසිය කියයි
+The deceased is a man of age of 25-30 years of age. Police have also taken a motorcycle that could think of that person and were taken into police custody.
 
-දෙදෙනාටම අද (27)  දින  පොලිසිය වෙත පැමිණ ප්‍රකාශයක් ලබාදෙන ලෙස පැවසීයයි පොලිසිය සඳහන් කරයි
+Police have revealed that the motorcycle was found to be a man of the Moratuwa and said that the man was proved to sell the motorbake five years ago.
 
-මියගිය අයගේ හැඳ සිටි කලිසමේ මුදල් පසුම්බියේ තිබූ ආදායම් බලපත්‍රයේ එක නමකුත්, රක්ෂණ සහතිකයේ එක නමකුත්, තාවකාලික  රියදුරු බල පත්‍රයේ තවත් නමකුත් තිබූ බව පොලිසිය කියයි. මොරටුව සහ බණ්ඩාරගම ලිපිනයන් එහි සඳහන්ව තිබූ බව පොලිසිය කියයි
+Police say that the person is also a person in Moratuwa area
+
+The police said to visit the police today (27) and gave a statement
+
+Police say that the revenue license in the purse of the deceased has received one name and one name in the insurance certificate and another name in the temporary driving force.. Moratuwa and Bandaragama addresses stated
 
 ...
 
 [Data](articles/f84193b7.json)
 
+[Extended Data](ext_articles/f84193b7.ext.json)
+
 ---
 
-### ஏப்ரலில் வெளியாகும் சுந்தர் சி யின் 'அரண்மனை 4'
+### Sundar C's released in April 'Palace 4'
 
 *2024-03-27 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179838) · `ta`
 
-வெற்றி பெற்ற தமிழ்த் திரைப்படங்களின் அடுத்த பாகம் எப்போது வெளியாகும்? என்பது ரசிகர்களின் கேள்வியாக இருக்கும்.
+"Sundar C's 'Palace 4' released in April, setting a record as the first Tamil film with four parts. Fans eagerly await the next part of the successful 'Palace' series. 'Palace 4' features a mix of comedy, horror, and thriller, produced by Benz Media Private Limited and presented by Avni Cine Max Private Limited. The film's release has sparked excitement among fans, who are eager for the next installment."
 
-தமிழில் இதுவரை வெற்றி பெற்ற படங்களின் மூன்று பாகங்கள் தொடர்ச்சியாக தயாராகி, பட மாளிகையில் வெளியாகி வெற்றியும் பெற்றிருக்கிறது. 'அரண்மனை' எனும் காமெடி ஹாரர் திரில்லர் ஜேனரில் வெளியான திரைப்படத்திற்கு, ரசிகர்கள் தந்த பேராதரவால் மூன்று பாகங்களாக வெளியாகி வெற்றியை பெற்றன.
+🟩
 
-தற்போது நான்காவது பாகம் தயாராகி இருக்கிறது. இதன் மூலம் தமிழ் திரையுலகில் நான்காம் பாகமாக வெளியாகும் முதல் திரைப்படம் என்ற சாதனையை 'அரண்மனை 4' திரைப்படம்  படைத்திருக்கிறது.
+When will the next part of the winning Tamil films release?Is the question of the fans.
+
+Three parts of the films that have been successful in Tamil have been continuously ready and have been released in the film mansion.. 'Palace', a comedy horror thriller Janer, was released in three parts by fans.
+
+Currently the fourth part is ready. 'Palace 4' has set the record for the first film to be released in the fourth part of the Tamil film industry.
+
+Director and actor Sundar. Sundar in the movie 'Palace 4'. C, Tamanna, Rasi Kanna, Santosh Pratap, Ramachandra Raju, Kovai Sarala, Yogi Babu, VTV Ganesh Delhi Ganesh, Motta Rajendran, Lion Tiger. E.. Krishnaswamy has composed the film Hip Hope Adi Tamil. The film is being produced by Benz Media Private Limited on behalf of Benz Media Pvt.. The film is being presented by actress Khushboo on behalf of Avni Cine Max Private Limited.
 
 ...
 
 [Data](articles/5915aa63.json)
+
+[Extended Data](ext_articles/5915aa63.ext.json)
 
 ---
 
@@ -188,33 +238,47 @@ The young girl, when the incident went to the scene, took the daytime food and a
 
 ---
 
-### தமது சொந்த காணிகளை விடுவிக்கக் கோரி கேப்பாப்பிலவு இராணுவ படை தலைமையகத்திற்கு முன்பாக கவனயீர்ப்பு போராட்டம்
+### The protest is in front of the Keppapilavu Army Force Headquarters
 
 *2024-03-27 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179835) · `ta`
 
-முல்லைத்தீவு கேப்பாபிலவில் இராணுவத்தினர் வசமுள்ள தமது சொந்த காணிகளை விடுவிக்க கோரி இன்று புதன்கிழமை (27) கேப்பாப்பிலவு இராணுவ படை தலைமையகத்திற்கு முன்பாக கிராம மக்கள் கவனயீர்ப்பு போராட்டம் ஒன்றினை முன்னெடுத்திருந்தனர்.
+Villagers in Keppapilavu protested for land release, but military was absent. Army Commander visited but did not address the issue. Lands, including homes, schools, and temples, remain under military control. Despite efforts, no decision on land release.
 
-முல்லைத்தீவு கேப்பாப்பிலவு இராணுவ படை தலைமையகத்திற்கு இலங்கையின் இராணுவ தளபதி முல்லைத்தீவு மாவட்டத்தில் பல்வேறு நிகழ்வுகளில் கலந்து கொள்ள இராணுவ படை தலைமையகத்திற்கு வருகை தந்திருந்தார். அவரிடம் தமது சொந்த காணிகளை விடுவித்து தருமாறு கோரி மகஜர் கையளிக்க  குறித்த இராணுவ தலைமையகத்திற்கு முன்பாக ஒன்று கூடி கவனயீர்ப்பினை வெளிப்படுத்தியிருந்தார்.
+🟩
 
-எனினும் இராணுவ தளபதியை தற்போது சந்திக்க முடியாதெனவும் இன்றைய தினம் மாலை 3 மணியளவில் 5 நபர்கள் சந்திப்பதற்கு ஏற்பாடு மேற்கொண்டு தருவதாகவும் இராணுவத்தினால் தெரிவிக்கப்பட்டதையடுத்து குறித்த கவனயீர்ப்பினை நிறைவுக்கு கொண்டு வந்திருந்தனர்.
+The villagers launched a protest protest in front of the Keppapilavu Army forces headquarters on Wednesday (27) demanding the release of their own lands in Keppapila in Mullaitivu.
+
+Sri Lanka's Army Commander visited the Mullaitivu Army Headquarters to attend various events in the Mullaitivu District. He gathered in front of the military headquarters to hand over his own land to the release of his own land.
+
+However, the military was not present at the announcement that the army was not present and that 5 persons were arranged to meet at 3 pm today.
+
+The people of Mullaitivu Keppapilavu handed over a Mahajar to the Mullaitivu District Government Agent on 11.03.2024 to the President and the Mullaitivu District Secretary to release their lands soon. He said that he would send the letter to the relevant parties and get a response in ten days.
 
 ...
 
 [Data](articles/ce766b11.json)
 
+[Extended Data](ext_articles/ce766b11.ext.json)
+
 ---
 
-### 15 மாவட்டங்களுக்கு இடி, மின்னல் தாக்கம் குறித்து எச்சரிக்கை
+### Warning on thunder and lightning impact on 15 districts
 
 *2024-03-27 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179826) · `ta`
 
-நாட்டில் இன்று புதன்கிழமை (27)  மேல், மத்திய, சப்ரகமுவ, ஊவா மற்றும் வடமேல் மாகாணங்களிலும் அநுராதபுரம், மன்னார், காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பல இடங்களில் கடுமையான  இடி, மின்னலுடன்  கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Heavy thunderstorms and lightning expected in 15 districts on Wednesday, causing heavy winds. Public advised to take precautions.
 
-இடியுடன் கூடிய மழையின் போது தற்காலிகமாக பலத்த காற்று வீசக்கூடும். மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள போதிய முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் கேட்டுக் கொள்ளப்படுகின்றனர்.
+🟩
+
+Heavy thunderstorms and lightning are expected in the country, Central, Sabaragamuwa, Uva and North Western Provinces, Anuradhapura, Mannar, Galle and Matara districts on Wednesday (27).
+
+Can temporarily blow heavy winds during thunderstorms. The public is asked to take adequate precautions to reduce the effects of lightning impacts.
 
 ◼️
 
 [Data](articles/db833286.json)
+
+[Extended Data](ext_articles/db833286.ext.json)
 
 ---
 
@@ -238,17 +302,23 @@ Police had resorted to using tear gas and water cannons to disperse the proteste
 
 ---
 
-### தந்தைக்கு நீதி கோரி மனித உரிமைகள் ஆணைக்குழுவில் முறைப்பாடு செய்த கெஹலியவின் மகள்!
+### Keheliya's daughter complained to the Human Rights Commission demanding justice for his father!
 
 *2024-03-27 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179832) · `ta`
 
-தரமற்ற மருந்து கொள்வனவு விவகாரம் தொடர்பில் குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்ட முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்லவின் மகள் சமித்ரி ரம்புக்வெல்ல இன்று புதன்கிழமை (27) காலை இலங்கை மனித உரிமைகள் ஆணைக்குழுவில் முறைப்பாடு செய்துள்ளார்.
+Samitri Rambukwella, daughter of former minister Keheliya Rambukwella, arrested for non-standard drug procurement, lodged a complaint with the Sri Lanka Human Rights Commission, demanding justice for her father's human rights violation.
 
-விளக்கமறியலில் வைக்கப்பட்டுள்ள தனது தந்தையின் மனித உரிமைகள் மீறப்பட்டுள்ளதால் உடனடியாக விசாரணை நடத்தி நீதி வழங்குமாறு மனித உரிமைகள் ஆணைக்குழுவிடம் கோரிக்கை விடுத்துள்ளார்.
+🟩
+
+Samitri Rambukwella, daughter of former minister Keheliya Rambukwella, who was arrested by the Criminal Investigation Division (CID) in connection with the issue of non -standard drug procurement, has lodged a complaint with the Sri Lanka Human Rights Commission on Wednesday morning.
+
+He has asked the Human Rights Commission to immediately investigate and provide justice as his father's human rights have been violated.
 
 ◼️
 
 [Data](articles/2296cab7.json)
+
+[Extended Data](ext_articles/2296cab7.ext.json)
 
 ---
 
@@ -314,17 +384,25 @@ He has asked the Human Rights Commission to immediately investigate and provide 
 
 ---
 
-### කුවේටයේ නීති විරෝධිව රැදී සිටින්නන්ට පොදු සමාකාලයක්
+### Common concture for those who have been illegal
 
 *2024-03-27 14:52:35* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-නීති-විරෝධිව-රැදී-සිටින්නන්ට-පොදු-සමාකාලයක්/11-408827) · `si`
 
-කුවේට් රාජ්‍යයේ නීති විරෝධි අයුරින් රැදි සිටින පුද්ගලයින්ට එරටින් පිටවීම සඳහා පොදු සමාකාලයක් එරට අභ්‍යන්තර කටයුතු අමාත්‍යාංශය විසින් හඳුන්වා දී තිබේ. මෙම පොදු සමා කාලය මාර්තු මස 17 දින ආරම්භ වූ අතර, එය ජූනි මස 17 දින දක්වා මාස 3 ක කාලයක් ක්‍රියාත්මක වේ.
+The Ministry of Internal Affairs in Kuwait introduced a common presence for illegally staying Sri Lankans, valid until June 17, 2024. 19,620 Sri Lankans are affected. Those who leave during this period can re-enter legally without fines. The Sri Lanka Bureau of Foreign Employment advises awareness.
 
-මේ වන විට 19,620 ක ශ්‍රි ලාංකිකයින් පිරිසක් වලංගු වීසා බලපත්‍ර නොමැතිව කුවේටයේ නීතිවිරෝධිව රැදි සිටින බව තානාපති කාර්යාල වාර්තා සඳහන් කරයි. කිසියම් පුද්ගලයෙකු මෙම කාලය තුල එරටින් පිටව යන්නේ නම් දඩ මුදල් අය කිරීමකින් තොරව බැහැරවීමට අවස්ථාව හිමිවන අතර, නැවත කුවේට් රාජ්‍යය වෙත නීත්‍යානුකූලව ඇතුළුවීමටද අවස්ථාව සැලසේ.
+🟩
+
+The Ministry of Internal Affairs has introduced a common presence to people who are illegally to leave Kuwait. This public time was opened on March 17, and it will work for 3 months until June 17.
+
+Embassy reports say that a 19,620 Sri Lankans have been illegal in Kuwait without valid visa. If a person leaves the country in this time, the opportunity will be excluded without charging fines and legally enter the Kingdom of Kuwait.
+
+Employees that the Ministry of Internal Affairs has fled the site of the Ministry of Internal Affairs or on 14.03.2011 without a visit to the Ministry of Internal Affairs, the Ministry of Internal Affairs has fled the site of the Interior 2024.. In addition to these allegations, there is no charge or other complaint of other charges or other complaints of police stations or other complaints against the relevant person.
 
 ...
 
 [Data](articles/dc95d3d9.json)
+
+[Extended Data](ext_articles/dc95d3d9.ext.json)
 
 ---
 

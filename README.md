@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 04:33:40**
+As of **2024-03-28 04:50:28**
 
 ## Newspaper Stats
 
-*Scraped **15,604** Articles*
+*Scraped **15,605** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 141
 bbccomsinhala | 166
 dbsjeyarajcom | 193
 newsfirstlk | 363
-dailyftlk | 838
+dailyftlk | 839
 economynextcom | 849
 islandlk | 854
 adalk | 1,333
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,601 (100.0%) of 15,604 articles have been extended.
+15,604 (100.0%) of 15,605 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### The digital road to heaven
+
+*2024-03-28 04:32:46* · [`dailyftlk`](https://www.ft.lk/columns/The-digital-road-to-heaven/4-760061) · `en`
+
+Developing digital public infrastructure – a critical measure to accelerate economic growth
+
+Infrastructure development is a fundamental for economic growth. Any country seeking to improve its people’s lives must invest in infrastructure to ensure free and speedy movement of goods and services. Trade and commerce and therefore economic growth depend on such developments.
+
+So historically the road to economic heaven has been literally that – building of roads, and other infrastructure for free and easy movement of goods. And this kind of development took years. Sometimes decades before its fruits could be tasted by the common man.
+
+It’s the same in 2024. Except the new road that promises a speedy compressed gateway to economic heaven is also digital. And digital infrastructure building is fast becoming a way of catapulting and accelerating economic development.
+
+...
+
+[Data](articles/a90b3249.json)
+
+---
 
 ### Ad hoc changes to National College of Education admission policy
 
@@ -43,6 +61,8 @@ The admission of students which was hundred percent based on district basis has 
 ...
 
 [Data](articles/60836bb4.json)
+
+[Extended Data](ext_articles/60836bb4.ext.json)
 
 ---
 
@@ -59,6 +79,8 @@ The Asian Development Bank (ADB) has launched a new country partnership strategy
 ...
 
 [Data](articles/5dd62721.json)
+
+[Extended Data](ext_articles/5dd62721.ext.json)
 
 ---
 
@@ -79,6 +101,8 @@ The strategic complexities we have to contend with, as Vietnam does, neighbourin
 ...
 
 [Data](articles/586cd416.json)
+
+[Extended Data](ext_articles/586cd416.ext.json)
 
 ---
 
@@ -2227,27 +2251,5 @@ Urban Development Authority invited investors to contest. This Japanese investor
 [Data](articles/54c4a99f.json)
 
 [Extended Data](ext_articles/54c4a99f.ext.json)
-
----
-
-### Keheliya's daughter to be human rights
-
-*2024-03-27 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194994) · `si`
-
-Chamiti Rambukwella, Keheliya Rambukwella's daughter, filed a complaint with the Human Rights Commission, accusing her father of arbitrary arrest. She asked for an investigation into the Criminal Investigation Department's actions.
-
-🟩
-
-His daughter has lodged a complaint with the Human Rights Commission today that he had made arbitrary arrest of Keheliya Rambukwella.
-
-Mr. Keheliya Rambukwella's daughter, Chamiti Rambukwella has lodged a complaint by Mr. Keheliya Rambukwella.
-
-Speaking to the media, Mrs. Chamiti Rambukwella said that he had asked the Human Rights Commission to investigate the arbitrary of the Criminal Investigation Department and remanded.
-
-◼️
-
-[Data](articles/01319d87.json)
-
-[Extended Data](ext_articles/01319d87.ext.json)
 
 ---

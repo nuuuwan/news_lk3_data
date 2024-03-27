@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 14:17:58**
+As of **2024-03-27 14:33:32**
 
 ## Newspaper Stats
 
-*Scraped **15,489** Articles*
+*Scraped **15,490** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 835
 economynextcom | 836
 islandlk | 854
 adalk | 1,319
-adaderanalk | 1,857
+adaderanalk | 1,858
 tamilmirrorlk | 1,863
 virakesarilk | 2,187
 dailymirrorlk | 2,390
@@ -26,75 +26,117 @@ adaderanasinhalalk | 2,488
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,485 (100.0%) of 15,489 articles have been extended.
+15,489 (100.0%) of 15,490 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### දුමින්ද, ළහිරු ඇතුළු තිදෙනා අප්‍රේල් දක්වා රිමාන්ඩ්
+### Rajiv Gandhi assassination case: Three convicts to be deported to Sri Lanka in a week
+
+*2024-03-27 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98236/rajiv-gandhi-assassination-case-three-convicts-to-be-deported-to-sri-lanka-in-a-week) · `en`
+
+India’s Tamil Nadu government informed Madras High Court on Tuesday that Sri Lankan deputy high commission has issued temporary travel documents to three convicts in the Rajiv Gandhi assassination case - Sriharan alias Murugan, Robert Payas and Jayakumar.
+
+They will be deported to Sri Lanka within a week or once the deportation orders are issued by Foreigners Regional Registration Office (FRRO), additional public prosecutor R Muniyapparaj informed a division bench of Justices R. Sureshkumar and K. Kumaresh Babu.
+
+The submissions were made in response to a plea by Murugan seeking direction to the authorities of foreigners’ camp at Trichy to issue him a photo identity certificate.
+
+...
+
+[Data](articles/d7a02fcf.json)
+
+---
+
+### Duminda, Lahiru, remanded till April
 
 *2024-03-27 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194993) · `si`
 
-දුමින්ද නාගමුව, ළහිරු වීරසේකර සහ රත්කරව්වේ ජිනරතන හිමි අප්‍රේල් මස 03 වනදා දක්වා යළිත් රක්ෂිත බන්ධනාගාරගත කිරීමට අධිකරණය නියෝග කළේය.
+Duminda Lahiru Weerasekera and Rathkarawe Rathmarve were remanded until April 3rd for their arrest during a protest by the People's Struggle Movement on the 20th.
 
-ඒ සැකකරුවන් අද (27) කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුවය.
+🟩
 
-පසුගිය 20 වනදා ජන අරගල ව්‍යාපාරය විසින් කොළඹ පැවැත්වූ විරෝධතාවය අතරතුර සැකකරුවන් අත්අඩංගුවට ගැනුණි.
+Duminda, Lahiru Weerasekera and Rathkarawe, Rathmarve and Rathkarawe were remanded again until April 3.
+
+The suspects were produced before the Fort Magistrate's Court today (27).
+
+The suspects were arrested during the protest held by the People's Struggle Movement on the 20th.
 
 ◼️
 
 [Data](articles/8d8bcd49.json)
 
+[Extended Data](ext_articles/8d8bcd49.ext.json)
+
 ---
 
-### කාලගුණයෙන් බරපතළ අනතුරු ඇඟවීමක්
+### A serious warning of the weather
 
 *2024-03-27 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194992) · `si`
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුවෙන් ප්‍රබල අකුණු පිළිබඳව අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කර තිබේ.
+The Department of Meteorology has issued a strong lightning warning from 1.30 pm to 11.30 pm, affecting Western, Central, Sabaragamuwa, Uva, Matara, Anuradhapura, Mannar, Galle, and Matara districts. Take necessary precautions to reduce lightning damage.
 
-අද පස්වරු 1.30සිට රාත්‍රී 11.30දක්වා වලංගු වන පරිදි ඇම්බර් වර්ණයෙන් යුතුව මෙම අනතුරු ඇඟවීමේ නිවේදනය නිකුත් කර ඇත.
+🟩
 
-ඒ  අනුව කාලගුණ විද්‍යා දෙපාර්තමේන්තුවේ සඳහන් කරන්නේ බස්නාහිර, මධ්‍යම, සබරගමුව, ඌව සහ වයඹ පළාත්වල සහ අනුරාධපුර, මන්නාරම, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතින බවය.
+The Department of Meteorology has issued a strong lightning announcement.
 
-මේ හේතුවෙන් අකුණු මගින් සිදුවිය හැකි අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් වැඩිදුරටත් ඉල්ලා සිටී.
+The warning announcement has been issued with amber colored, with valid from 1.30 pm to 11.30 pm.
+
+Accordingly, the Meteorology Department states that there is an increase in lightning lightning in the Western, Central, Sabaragamuwa, Uva and Matara, Anuradhapura, Mannar, Galle and Matara districts.
+
+As a result, the Department of Meteorology also requests the people to take necessary action to reduce the damages caused by lightning.
 
 ◼️
 
 [Data](articles/0d743eb5.json)
 
+[Extended Data](ext_articles/0d743eb5.ext.json)
+
 ---
 
-### සිඟමන් යදින දරුවෝ 30,000ක්
+### 30,000 children crying
 
 *2024-03-27 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194991) · `si`
 
-දිවයින පුරා සිඟමන් යදින වීථි දරුවන් 20,000ත් - 30,000ත් අතර පිරිසක් සිටින බවට සමීක්ෂණයකින් අනාවරණය වී තිබේ.
+A survey reveals 20,000-30,000 children in Sri Lanka are exploited, with 15,000 potentially by 2019. Senior Professor Wasantha Athukorala and Professor Udaya Amarasinghe highlight the issue, with the police and National Child Protection Authority responsible for addressing it. The IGP Deshabandu Tennakoon points out legal challenges in dealing with beggars, suggesting a solution for their rehabilitation.
 
-පේරාදෙණිය විශ්වවිද්‍යාලයේ සංඛ්‍යා හා දත්ත අධ්‍යයන අංශයේ ජ්‍යේෂ්ඨ මහාචාර්ය වසන්ත අතුකෝරාල මහතා පැවසුවේ, කොවිඩ් වසංගත තත්ත්වයත් සමඟ ඇතිවු ආර්ථික අර්බුදය හේතුවෙන් මෙම තත්ත්වයේ වර්ධනයක් පෙන්නුම් කරන බවය.
+🟩
 
-දරුවන් සිඟමනේ යෙදවීම ව්‍යාපාරයක් බවට පත්ව ඇති බව මේ සම්බන්ධයෙන් "අද දෙරණ" සමඟ අදහස් දක්වමින් ජ්‍යේෂ්ඨ මහාචාර්ය වසන්ත අතුකෝරාල මහතා කියා සිටියේය.
+According to a survey, there are 20,000 to 30,000 people across the country.
 
-"අපි කරපු අධ්‍යයන තුළ පෙනී යනවා 2019 වනවිට 15,000කට ආසන්න ප්‍රමාණයක් මේ තුළ ඉන්නට පුළුවන් කියලා. 2019 පසුව පාස්කු ප්‍රහාරය, කොවිඩ් වසංගතය හා ආර්ථික අර්බුදය යන කාරණා නිසා මේ පිරිස 20,000ත් 30,000ත් අතර ප්‍රමාණයක් මේ තුළ ඉන්නට පුළුවන්. මෙහිදී විවිධ කාණ්ඩයේ දරුවන් ඉන්නවා. මොවුන් බොහෝවිට පූජනීය ස්ථානවල රැදෙනවා. ඒකට හේතුව පූජනීය ස්ථානවලට එන බැතිමතුන් ළමයෙක් දැක්කහම, ළමයෙක් ගේන දෙයක් දැක්කහම මිල දී ගන්න බලනවා. ඔවුන්ට යම් අනුග්‍රහයක් දක්වන්න කැමතියි. ඒ නිසා මේක ව්‍යාපාරයක් බවට පත්වෙලා තියෙන්නේ බොහෝ ප්‍රදේශවල..."
+Senior Professor Wasantha Athukorala said that the growth of the economy of the University of Peradeniya said.
+
+Senior Professor Wasantha Athukorala said that he had become a business to use the children.
+
+"The studies we did show that nearly 15,000 amounts could be in this work by 2019. 2019 The Passover attack, the Colovid Epidemic and Economic Crisis, these group can be between 20,000 and 30,000. There are children in different categories. They are often in sacred places. When a child visible to the sacred places, a kid of devotees, look at what a kid is brought to. They would like to have some favor. So this has become a business in many areas ... "
+
+The Chairman of the National Child Professor, Professor Udaya Amarasinghe said that it is a criminal fault, Professor Udaya Amarasinghe said that the police had the ability to deal with it.
 
 ...
 
 [Data](articles/64fa4e9c.json)
 
+[Extended Data](ext_articles/64fa4e9c.ext.json)
+
 ---
 
-### ஒரு பாலினத் திருமண சட்டமூலம் தாய்லாந்து பாராளுமன்றத்தில் நிறைவேற்றம்
+### A Gender Marriage Bill is passed in Parliament in Thailand
 
 *2024-03-27 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/179821) · `ta`
 
-ஒரு பாலினத் திருமணங்களை சட்டபூர்வமாக்கும் சட்டமூலத்துக்கு தாய்லாந்து பாராளுமன்ற கீழ் சபை இன்று அங்கீகாரம் வழங்கியது.
+Thailand's Parliament passed a Gender Marriage Bill, requiring Senate and King's approval for enactment.
 
-இச்சட்டமூலம் அமலுக்கு வருவதற்கு பாராளுமன்றத்தின் செனட் சபையும் மன்னரும் அங்கீகாரம் வழங்க வேண்டும் என்பது குறிப்பிடத்தக்கது.
+🟩
+
+The House of Parliament today approved the legalization of a gender marriages.
+
+It is noteworthy that the Senate and the King of Parliament should be approved by the Parliament to come into effect.
 
 ◼️
 
 [Data](articles/2b3b99d2.json)
+
+[Extended Data](ext_articles/2b3b99d2.ext.json)
 
 ---
 
@@ -2291,23 +2333,5 @@ Gujarat Giants lost by 8 wickets in 20 overs and lost 143 runs.
 [Data](articles/edc5721e.json)
 
 [Extended Data](ext_articles/edc5721e.ext.json)
-
----
-
-### Hayleys Fentons elevates communication and entertainment experiences with cutting-edge audio-visual integrations
-
-*2024-03-27 01:25:59* · [`dailyftlk`](https://www.ft.lk/business/Hayleys-Fentons-elevates-communication-and-entertainment-experiences-with-cutting-edge-audio-visual-integrations/34-759979) · `en`
-
-Hayleys Fentons, a pillar of Sri Lanka’s engineering landscape for over a century, proudly announces its dynamic expansion into the Audio-Visual (AV) arena.
-
-Leveraging their established expertise in engineering services, Hayleys Fentons now serves as a one-stop shop for all security, communication, and engagement needs, from sleek boardrooms to captivating concert halls.
-
-Powered by top tier global brands including FBT, QSC, Harman, Electro-Voice, ITC, Epson, Panasonic, DSPPA and Blackmagic, the team is now capable of offering seamless collaboration across borders with high-definition video and crystal-clear audio.
-
-...
-
-[Data](articles/1c79dd4c.json)
-
-[Extended Data](ext_articles/1c79dd4c.ext.json)
 
 ---

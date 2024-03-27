@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 20:51:19**
+As of **2024-03-27 21:03:12**
 
 ## Newspaper Stats
 
-*Scraped **15,547** Articles*
+*Scraped **15,554** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,76 @@ newsfirstlk | 363
 dailyftlk | 835
 economynextcom | 836
 islandlk | 854
-adalk | 1,327
-adaderanalk | 1,868
+adalk | 1,332
+adaderanalk | 1,869
 tamilmirrorlk | 1,870
 virakesarilk | 2,196
-dailymirrorlk | 2,400
+dailymirrorlk | 2,401
 adaderanasinhalalk | 2,500
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,546 (100.0%) of 15,547 articles have been extended.
+15,547 (100.0%) of 15,554 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### සහල් සහ ලූනු බදු අඩු කෙරේ
+### Special commodity levy on rice and onions slashed
+
+*2024-03-27 20:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98248/special-commodity-levy-on-rice-and-onions-slashed) · `en`
+
+The government has reduced the special commodity levy on imported onions and rice has been reduced with effect from today (March 27).
+
+Thereby, the Special Commodity Levy of Rs. 65 per 1kg of rice has been dropped to Rs. 1. This will be in place until April 03, 2024.
+
+The President also ordered that the tax levied from imported other onions (Rose Onions) be slashed to Rs. 10 per kilogram until April 30, 2024.
+
+The order was issued by President Ranil Wickremesinghe, pursuant to the powers vested in him under the Special Commodity Levy Act, No. 48 of 2007.
+
+◼️
+
+[Data](articles/6aea2596.json)
+
+---
+
+### Over 53 spas shutdown for operating as brothels in Negombo
+
+*2024-03-27 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-53-spas-shutdown-for-operating-as-brothels-in-Negombo/108-279736) · `en`
+
+Colombo, March 27 (Daily Mirror) - A total of 53 spas and wellness centers posing as brothels were closed down in Negombo, with around 140 women, many engaged in prostitution, taken into custody during a coordinated police operation led by the Officers in Charge (OICs) of three local police stations, police said.
+
+Police spokesman DIG Nihal Thalduwa informed the media that the recent raids in Negombo, Kochchikade, and Seeduwa police areas were conducted over the past few days. These operations were carried out based on information received from police intelligence units.
+
+Upon discovering the spa and wellness centers operating as brothels, the police took immediate action to permanently close down these establishments.
+
+A total of 145 suspects, including 8 men and 137 women, were arrested in connection with these operations. Following their apprehension, all suspects underwent medical tests, revealing that two females were diagnosed to be HIV positive.
+
+◼️
+
+[Data](articles/f2d88577.json)
+
+---
+
+### Rice and onion tax deducted
 
 *2024-03-27 20:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195007) · `si`
 
-සහල් කිලෝවක් සඳහා රුපියල් 65ක විශේෂ වෙළෙඳ භාණ්ඩ බද්ද අද (27) සිට අප්‍රේල් 03 වනදා දක්වා රුපියලක් දක්වා අඩු කර තිබේ.
+The sales levy on rice has been reduced from Rs. 65 to Rs. 0 per kilogram from today until April 3, as announced by the Ministry of Finance.
 
-ලොකු ලූනු (රෝස ලූනු) ආනයනය සඳහා ද එම බද්ද 2024 අප්‍රේල් 30 දක්වා කිලෝවක් සඳහා රුපියල් 10ක් දක්වා අඩු කර ඇති බව මුදල් අමාත්‍යාංශය නිවේදනය කරයි.
+🟩
+
+The sales levy of Rs. 65 per kilogram of rice has been reduced from today to April 3.
+
+The Ministry of Finance announced that the Tax has been reduced to Rs.
 
 ◼️
 
 [Data](articles/1bb5dc40.json)
+
+[Extended Data](ext_articles/1bb5dc40.ext.json)
 
 ---
 
@@ -163,6 +205,48 @@ The Chinese President assured China's continuous support to Sri Lanka’s effort
 [Data](articles/55b92ac4.json)
 
 [Extended Data](ext_articles/55b92ac4.ext.json)
+
+---
+
+### කසුන්ට දෙවැනි ටෙස්ට් තරගය අහිමි වෙයි
+
+*2024-03-27 19:27:53* · [`adalk`](https://www.ada.lk/sports/කසුන්ට-දෙවැනි-ටෙස්ට්-තරගය-අහිමි-වෙයි/9-408835) · `si`
+
+බංගලාදේශයට සමගින් පැවැත්වීමට නියමිත දෙවැනි ටෙස්ට් තරගය ශ්‍රි ලංකා වේග පන්දු යවන ක්‍රීඩක කසුන් රාජිතට අහිමි වී තිබේ. ඒ ඔහුගේ පිට කොන්දේ ඇතිව තිබෙන ආබාධයක් හේතුවෙනි.
+
+තරගය ලබන සෙනසුරාදා ආරම්භ කිරීමට නියමිතව තිබේ. කසුන් රාජිත බංග්ලාදේශය සමගින් පැවැති පළමු ටෙස්ට් තරගයේදී කඩුලු 8ක් දවා ගැනිමට සමත්විය.
+
+කසුන් රාජිත වෙනුවට අසිත ප්‍රනාන්දු සංචිතයට ඇතුළත් කර ඇතත් ශ්‍රී ලංකාව තම කණ්ඩායමේ අවසන් සංයුතිය තවමත් තීරණය කර නොමැත.
+
+පුනරුත්ථාපන කටයුතු ආරම්භ කිරීම සඳහා රාජිත යළි ශ්‍රී ලංකාවට පැමිණෙන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පවසයි.
+
+◼️
+
+[Data](articles/b659dc4a.json)
+
+---
+
+### නාමල්ට පොහොට්ටුවේ ලොකු තනතුරක්
+
+*2024-03-27 19:20:00* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්ට-පොහොට්ටුවේ-ලොකු-තනතුරක්/11-408834) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක ලෙස නාමල් රාජපක්ෂ මහතා පත්කර තිබේ. පක්ෂයේ විධායක කමිටුව විසින් මෙම පත්කිරීම සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/2ab07630.json)
+
+---
+
+### සිසුන් සිවුදෙනෙක් මා ඔයට බිලි
+
+*2024-03-27 19:14:09* · [`adalk`](https://www.ada.lk/breaking_news/සිසුන්-සිවුදෙනෙක්-මා-ඔයට-බිලි/11-408833) · `si`
+
+පොල්ගහවෙළ යාංගල්මෝදර ප්‍රදේශයෙන් මාඔයේ දිය නෑමට ගිය පොල්ගහවෙල් පාසලක සිසුන් සිවු දෙනකු දියේ ගිලි මියගොස් ඇතැයි පොලිසිය කියයි. මියගිය දරුවන් සිවු දෙනාගේ සිරුරු මේ වන විට ගොඩ ගෙන ඇත.
+
+◼️
+
+[Data](articles/735cf65c.json)
 
 ---
 
@@ -521,6 +605,22 @@ The Azath Salley Foundation today donated 1,000 bags of dry rations to Muslims i
 [Data](articles/a251e2a1.json)
 
 [Extended Data](ext_articles/a251e2a1.ext.json)
+
+---
+
+### ඔබේ බැංකු ගිණුමේ මුදලුත් වංචා කර ඇත්ද? මිලියන 84ක් අන්තර්ජාල බැංකු ගනුදෙනු වලින් වංචා කරලා
+
+*2024-03-27 16:47:46* · [`adalk`](https://www.ada.lk/breaking_news/ඔබේ-බැංකු-ගිණුමේ-මුදලුත්-වංචා-කර-ඇත්ද--මිලියන-84ක්-අන්තර්ජාල-බැංකු-ගනුදෙනු-වලින්-වංචා-කරලා/11-408831) · `si`
+
+මීගමුව නගරපේ පිහිටි පුද්ගලික බැංකු ශාඛාවක  එම බැංකු ශාඛාවේ සහකාර කළමනාකාරිය විසින්  මෙම මුදල් වංචාව සිදු කර ඇති බවට හා ඇය විසින් බැංකු ගිණුම් වලින් අන්තර්ජාල බැංකු පහසුකම යටතේ වංචනිකව ඇය‌ගේ සැමියාගේ නමින් වෙනත් පුද්ගලික බැංකු දෙකක පවත්වාගෙන  යනු ලබන ගිණුම් 02 ක් වෙත මුදල් මාරු කර ඇති බවට නිරික්ෂණය වී ඇති බව පොලිසීය පවසයි.
+
+තවද අවස්ථා 16 ක් මගින් හෙලි නොවූ  මුදල් ගනු‌දෙනු සම්බන්දයෙන්  තොරතුරු අණාවරණය වී ඇති අතර සැකකාරිය විසින් රුපියල් මිලියන 33ක් ඉක්මවන මුදලක් ඇයගේ  සැමියාගේ නමින් පවත්වාගෙන යන ගිණුමකට හා රුපියල් මිලියන 13ක මුදලක් සැකකාරිය විසින් පවත්වාගෙන යන ගිණුමකට බැර කර ඇති බවටත් නිරීක්ෂණය වී ඇත.  සැකකාරිය විසින් මේ ආකාරයට වංචාකර ඇති මුදල රුපියල් මිලියන 84 කට අධික බවද පොලිසියට තොරතුරු ලැබී ඇත.
+
+මෙම වංචනික ක්‍රියා මගින් උපයා ගන්නා ලද මුදල් රුපියල් මිලියන 10ක් පමණ වැයකර සැකකාරිය හා ඇයපේ සැමියා ඕස්පේලියාව බලා යාමට සැලසුම් කර තිබූ බව, අනාවරණය වී ඇති අතර ඉහත සැකකාරියගේ සැමියා මේවනවිට ඕස්ට්‍රේලියාව බලා පිටත්ව ඇත.
+
+◼️
+
+[Data](articles/45d099e7.json)
 
 ---
 
@@ -2173,131 +2273,5 @@ The IGP, Senior DIG Nilantha Jayawardena and the Attorney General have been name
 [Data](articles/71512ef7.json)
 
 [Extended Data](ext_articles/71512ef7.ext.json)
-
----
-
-### The largest women's hospital opening
-
-*2024-03-27 11:18:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிகப்பெரிய-பெண்கள்-வைத்தியசாலை-திறப்பு/175-335246) · `ta`
-
-President Ranil Wickremesinghe inaugurated the German-Sri Lankan Friendship Hospital in Galle, Sri Lanka, featuring 640 beds, six surgical halls, and modern facilities.
-
-🟩
-
-President Ranil Wickremesinghe has opened the German-Sri Lankan Friendship Hospital in Galle, Galle, Galle, Sri Lanka and South Asia, the Presidential Media Unit (PMD). .
-
-The hospital has 640 beds, six surgical halls, emergency care units, intensive care, children's division and many modern facilities.
-
-◼️
-
-[Data](articles/fe1f0e7e.json)
-
-[Extended Data](ext_articles/fe1f0e7e.ext.json)
-
----
-
-### Former militant Aravindan arrested
-
-*2024-03-27 11:12:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-போராளி-அரவிந்தன்-கைது/175-335245) · `ta`
-
-Aravindan, former militant and president of the Welfare Association, arrested by the Terrorist Investigation Unit in Colombo, linked to the Liberation Tigers of Tamil Eelam (LTTE).
-
-🟩
-
-Former fighter and president of the Welfare Association. Aravindan has been arrested by the Terrorist Investigation Unit.
-
-Although he was summoned to the Terrorist Investigation Unit in Colombo last week, he was re -invited on Tuesday (26).
-
-He was arrested in support of the Liberation Tigers of Tamil Eelam (LTTE) in Colombo.
-
-◼️
-
-[Data](articles/2168247c.json)
-
-[Extended Data](ext_articles/2168247c.ext.json)
-
----
-
-### Windy Gunathilaka wins best song award for ’Ayo Sami’
-
-*2024-03-27 11:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Windy-Gunathilaka-wins-best-song-award-for-Ayo-Sami/108-279702) · `en`
-
-Colombo, March 27 (Daily Mirror) - Windy Gunathilaka, who sings the Sri Lankan Tamil song "Aiyo Sami", has won the award for the Best Sensational Song of the Year - 2023 at the 16th Edison Awards held in Chennai, South India.
-
-After receiving the award Windy Gunathilaka arrived at the Katunayake International Airport last night aboard SriLankan Air flight UL 218.
-
-This award ceremony is held to evaluate international films and songs, and this year’s award ceremony was held on March 24 in Chennai, India. Pothuvil Azmin who wrote this song and Sanuka Wickramasinghe who composed the music for this song also joined the occasion of receiving these awards.
-
-◼️
-
-[Data](articles/4445ac66.json)
-
-[Extended Data](ext_articles/4445ac66.ext.json)
-
----
-
-### Windy wins International Award due to 'Ayo Sami'
-
-*2024-03-27 11:05:15* · [`adalk`](https://www.ada.lk/breaking_news/’’-අය්යෝ-සාමි-’’-නිසා-වින්ඩිට-ජාත්‍යාන්තර-සම්මානයක්/11-408822) · `si`
-
-Windy wins the International Award for 'Ayo Sami' at the 21st Edison Awards in Chennai, India. The song, written by Pottuvil Askin, was part of the 16th Edison Awards.
-
-🟩
-
-West Seensional Song of The Years of the 16th Edison Awards, South India, the Sri Lankan Tamil song, Surmelly Sing, the 21st Edison Awards presented by the 16th Edison Awards, in Chennai, India (16th)The award was won by the Katunayake Airport on the night of 03/26.
-
-The awards ceremony is conducted to evaluate international films and songs, and this awards ceremony was held in Chennai in India on 24/22.
-
-At the time of receiving these awards, the song was written by Pottuvil Askin and the music for this song.
-
-Also, the parents of Vindi Gunatilleke, the father of Chanduka Wickremasinghe, the father of Chanduka Wickramasinghe, and many of the awards had visited Chennai in Chennai to attend the event.
-
-At the Bandaranaike International Airport, singer Windi Gunatilleke was not forgotten to thank his fans into the top of the international song charts.
-
-◼️
-
-[Data](articles/c2c4084c.json)
-
-[Extended Data](ext_articles/c2c4084c.ext.json)
-
----
-
-### The process of setting up the proposed National Higher Education Development Commission is being accelerated: Q. Report of observations of the Sripavan Group to the Ministry - Suren Raghavan
-
-*2024-03-27 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179803) · `ta`
-
-Dr. Suren Raghavan, Higher Education Minister, accelerates the setup of the National Higher Education Development Commission, replacing the University Grants Commission, with a report from the Sripavan Group. The commission aims to address issues like delayed student enrollment and lack of classroom facilities. Alternative solutions include renovating buildings in Ratmalana and Kelaniya areas.
-
-🟩
-
-Higher Education Minister Dr. Suren Raghavan said that a report containing a committee headed by former Chief Justice K. Sripavan to set up the National Higher Education Development Commission instead of the University Grants Commission was handed over to the Ministry on Tuesday (26).
-
-The Minister of State further stated that the National Higher Education Development Commission could be established this year after reviewing the report.
-
-Higher Education Minister Suren Raghavan made this statement at a media briefing held at the Presidential Media Center on Tuesday.
-
-As of 2021-2022, the high quality students have been registered in 17 universities. But in those years, there are reports that the task of connecting the student as planned in those years. But I have the relevant documents to confirm that all those information is false.
-
-...
-
-[Data](articles/4f383f09.json)
-
-[Extended Data](ext_articles/4f383f09.ext.json)
-
----
-
-### New Women’s Hospital opened in Karapitiya
-
-*2024-03-27 10:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-Womens-Hospital-opened-in-Karapitiya/108-279701) · `en`
-
-Galle, March 27 (Daily Mirror)- The German-Sri Lanka Friendship Women's Hospital in Karapitiya, Galle, the largest maternity hospital in Sri Lanka and South Asia, was inaugurated by President Ranil Wickremesinghe this morning, the Presidential Media Division (PMD) said.
-
-The hospital comprises 640 beds, six operating theatres, emergency units, intensive care, pediatric units and modern facilities.
-
-◼️
-
-[Data](articles/5586e70a.json)
-
-[Extended Data](ext_articles/5586e70a.ext.json)
 
 ---

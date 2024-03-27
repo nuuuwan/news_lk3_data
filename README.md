@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 02:33:40**
+As of **2024-03-28 02:49:08**
 
 ## Newspaper Stats
 
@@ -35,6 +35,10 @@ Extensions include translations and NER (Named Entity Recognition).
 ### The workplace of the hospital doctors in Tirukovil has been abandoned after 15 days
 
 *2024-03-28 02:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/179853) · `ta`
+
+Tirukovil hospital doctors abandoned workplace after 15-day workshop. Jayakumar Vidurjan, 16, hospitalized after Marathon race. Public protested, alleging student's death. Doctors boycotted workplace. Hospital's Emergency Department resumed, other sections to return Thursday. 11 arrested for hospital damage.
+
+🟩
 
 The 15 -day workshop, which was held on Wednesday (27) in Tirukovil, has come to an end on Wednesday (27).
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 02:03:16**
+As of **2024-03-28 02:17:56**
 
 ## Newspaper Stats
 
-*Scraped **15,592** Articles*
+*Scraped **15,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 854
 adalk | 1,333
 adaderanalk | 1,871
 tamilmirrorlk | 1,872
-virakesarilk | 2,205
+virakesarilk | 2,206
 dailymirrorlk | 2,407
 adaderanasinhalalk | 2,503
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,592 (100.0%) of 15,592 articles have been extended.
+15,592 (100.0%) of 15,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### திருக்கோவில் ஆதார வைத்தியசாலை வைத்தியர்களின் பணிப்புறக்கணிப்பு போராட்டம் 15 நாளின் பின்னர் கைவிடப்பட்டுள்ளது
+
+*2024-03-28 02:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/179853) · `ta`
+
+திருக்கோவில் ஆதார வைத்தியசாலை வைத்தியர்களின் 15 நாட்கள்  இடம்பெற்ற பணிப்புறக்கணிப்பு போராட்டம் புதன்கிழமை (27) முடிவுக்கு கொண்டு வந்துள்ளதாகவும்  4 மணி தொடக்கம் அவசர சிகிச்சை பிரிவு ஆரம்பமாகவுள்ளதுடன் ஏனைய பிரிவுகள்  வியாழக்கிழமை (28) வழமைக்கு திரும்பவுள்ளதாக வைத்தியசாலை பணிப்பாளர் தெரிவித்தார்.
+
+கடந்த திங்கட்கிழமை (11) ம் திகதி திருக்கோவில் மெதடிஸ்த மாகா வித்தியாலயத்தின் வருடாந்த இல்ல விளையாட்டு போட்டியை முன்னிட்டு இடம்பெற்ற மரதன் ஓட்டப் போட்டியில் பங்குபற்றிய திருக்கோவில் 3 ம் பிரிவு துரையப்பா வீதியைச் சேர்ந்த 16 வயதுடைய ஜெயக்குமார் விதுர்ஜன்; என்ற மாணவன் மயங்கிவீழந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் மேலதிக சிகிச்சைக்காக அக்கரைப்பற்று ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்ட சிகிச்சை பலனின்றி உயிரிழந்தார்.
+
+...
+
+[Data](articles/a6285f52.json)
+
+---
 
 ### Under 19, women's cricket cricket will help you get the best experiences
 
@@ -2225,33 +2239,5 @@ It is noteworthy that the Senate and the King of Parliament should be approved b
 [Data](articles/2b3b99d2.json)
 
 [Extended Data](ext_articles/2b3b99d2.ext.json)
-
----
-
-### The old landslide landslide of Koslanda
-
-*2024-03-27 13:19:14* · [`adalk`](https://www.ada.lk/breaking_news/කොස්ලන්ද--මීරියබැද්ද-පැරණි-නාය-යාම-යලි-සක්‍රීය-වෙයි/11-408825) · `si`
-
-The Koslanda Meriyabedda landslide, reactivated today, has led to the evacuation of residents from two row houses. The area was previously deemed unsafe by the National Building Research Institute.
-
-🟩
-
-The old landslide landslide of Koslanda Meriyabedda has been re-activated since 27 am today.
-
-The center has been activated, the top of the two 14 Lim row houses, Koslanda Meeriyabedda, No. 14 and 15 Lim row houses.
-
-The place has already been named as an inappropriate place to reside after the National Building Research Institute in the area.
-
-Meriyabedda landslides took place in Sri Lanka 10 years ago.
-
-The landslide has been re-activated with the high race.
-
-The Haldummulla Secretariat said that people from these Linekamara have already been detained in a temporary camp.
-
-◼️
-
-[Data](articles/8b53e154.json)
-
-[Extended Data](ext_articles/8b53e154.ext.json)
 
 ---

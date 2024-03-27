@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 20:18:28**
+As of **2024-03-27 20:33:28**
 
 ## Newspaper Stats
 
-*Scraped **15,545** Articles*
+*Scraped **15,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 836
 islandlk | 854
 adalk | 1,327
 adaderanalk | 1,868
-tamilmirrorlk | 1,869
+tamilmirrorlk | 1,870
 virakesarilk | 2,196
 dailymirrorlk | 2,400
 adaderanasinhalalk | 2,499
@@ -26,27 +26,51 @@ adaderanasinhalalk | 2,499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,544 (100.0%) of 15,545 articles have been extended.
+15,545 (100.0%) of 15,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### 33% சம்பள‌ உயர்வை ஏற்க முடியாது :ஜீவன்
+### SLPP கட்சியின் தேசிய அமைப்பாளரானார் நாமல்
+
+*2024-03-27 20:10:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SLPP-கட்சியின்-தேசிய-அமைப்பாளரானார்-நாமல்/175-335272) · `ta`
+
+அக்கட்சியின் நிறைவேற்று சபை கூட்டம் இன்று பிற்பகல் கொழும்பு விஜேராம மாவத்தையில் உள்ள முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் உத்தியோகபூர்வ இல்லத்தில் நடைபெற்றது.
+
+இந்த கூட்டத்தின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவித்த இராஜாங்க அமைச்சர் டி.வி.சானக்க இதை தெரிவித்தார்.
+
+முன்னதாக, ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளராக முன்னாள் அமைச்சர் பசில் ராஜபக்ச பதவி வகித்தமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/b9f20f92.json)
+
+---
+
+### 33% cannot accept salary increase: Jeevan
 
 *2024-03-27 20:06:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/33-சம்பள-உயர்வை-ஏற்க-முடியாது-ஜீவன்/76-335271) · `ta`
 
-“மலையக பெருந்தோட்டத் தொழிலாளர்களுக்கு 33 சதவீத சம்பள உயர்வை வழங்குவதற்கே பெருந்தோட்ட கம்பனிகள் முன்வந்துள்ளன. இதனை ஏற்கமுடியாது. 1,700 ரூபா அவசியம் என்ற நிலைப்பாட்டில் நாம் உறுதியாக நிற்கின்றோம்.” – என்று இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச்செயலாளரும், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமான் தெரிவித்தார்.
+Jeevan Thondaman, Ceylon Workers Congress leader, rejects a 33% salary hike from plantation companies, demanding 1,700 rupees. A meeting at the Ministry of Labor discussed this, with trade unions and the National Labor Council opposing the hike. The Minister of Labor plans to convene a salary council by April 10 for a permanent solution, emphasizing the need for 1,700 rupees for a family of three to meet their needs, given the average income in plantation areas is 42,000 rupees.
 
-பெருந்தோட்டத் தொழிலாளர்களுக்கான சம்பள உயர்வு தொடர்பான கலந்துரையாடலொன்று தொழில் அமைச்சர் மனுஷ நாணயக்கார தலைமையில் தொழில் அமைச்சில் (27.03.2024) இன்று நடைபெற்றது.
+🟩
 
-தேசிய தொழிலாளர் சபையில் அங்கம் வகிக்கும் தொழிற்சங்கங்கள் மற்றும் கூட்டு ஒப்பந்தத்தில் கைச்சாத்திடும் தொழிற்சங்கங்கள் இச்சந்திப்புக்கு அழைக்கப்பட்டிருந்தன.
+“Plantation companies have come forward to offer a 33 per cent salary hike to hill plantation workers. This is not acceptable. We stand firm in the position that 1,700 rupees is necessary. ”- Jeevan Thondaman, General Secretary of the Ceylon Workers Congress and Minister of Water Supply and Estate Infrastructure Development.
 
-இதன்போது, அமைச்சர்களான மனுஷ நாணயக்கார, ஜீவன் தொண்டமான், இலங்கை தொழிலாளர் காங்கிரஸின் தலைவர் செந்தில் தொண்டமான், இலங்கை தேசிய தோட்டத் தொழிலாளர் சங்கத்தின் தலைவர் வடிவேல் சுரேஷ், பெருந்தோட்ட மனிதவள அபிவிருத்தி நிதியத்தின் தலைவர் பாரத் அருள்சாமி உள்ளிட்ட சிலர் கலந்துக் கொண்டனர்.
+A discussion on Plantation workers was held today at the Ministry of Labor (27.03.2024) headed by Labor Minister Manusha Nanayakkara.
+
+The trade unions and the unions that are part of the National Labor Council and the Joint Agreement were invited to the meeting.
+
+Ministers Manusha Nanayakkara, Jeevan Thondaman, Ceylon Workers Congress President Senthil Thondaman, Sri Lanka National Estate Workers Union President Vadivel Suresh
+
+The proposal on salary increases by plantation companies has been extensively investigated.. However, the unions that sign a joint agreement have rejected the idea put forward by the companies on the salary increase of plantation workers.
 
 ...
 
 [Data](articles/605c21bb.json)
+
+[Extended Data](ext_articles/605c21bb.ext.json)
 
 ---
 
@@ -2273,23 +2297,5 @@ It is understood that this facility is the largest maternity hospital not only i
 [Data](articles/0ae235cb.json)
 
 [Extended Data](ext_articles/0ae235cb.ext.json)
-
----
-
-### South Asia’s largest maternity hospital declared open in Karapitiya
-
-*2024-03-27 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98231/south-asias-largest-maternity-hospital-declared-open-in-karapitiya) · `en`
-
-The German-Sri Lanka Friendship New Women’s Hospital in Karapitiya, Galle was inaugurated by President Ranil Wickremesinghe on Wednesday morning (March 27).
-
-Boasting a total of 640 beds, six operating theatres, emergency units, intensive care, paediatric units and modern facilities, it marks a significant advancement in SL’s healthcare, the President’s Media Division (PMD) said.
-
-It is understood that this facility is the largest maternity hospital not only in Sri Lanka but also in South Asia.
-
-◼️
-
-[Data](articles/29e93f99.json)
-
-[Extended Data](ext_articles/29e93f99.ext.json)
 
 ---

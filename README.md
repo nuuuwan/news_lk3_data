@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 11:52:43**
+As of **2024-03-27 12:03:11**
 
 ## Newspaper Stats
 
-*Scraped **15,453** Articles*
+*Scraped **15,460** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 835
 economynextcom | 836
 islandlk | 854
 adalk | 1,316
-tamilmirrorlk | 1,853
-adaderanalk | 1,853
+adaderanalk | 1,854
+tamilmirrorlk | 1,859
 virakesarilk | 2,179
 dailymirrorlk | 2,386
 adaderanasinhalalk | 2,482
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,482
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,447 (100.0%) of 15,453 articles have been extended.
+15,453 (100.0%) of 15,460 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,29 +50,127 @@ That is an achievement for the party that languished on the sideline. Their luck
 
 ---
 
-### නෞකා අනතුරින් 6ක් අතුරුදන්
+### ராஜிவ் காந்தி கொலை: மூவருக்கு கடவுச்சீட்டு
+
+*2024-03-27 11:47:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜிவ்-காந்தி-கொலை-மூவருக்கு-கடவுச்சீட்டு/175-335253) · `ta`
+
+இந்தியாவின் முன்னாள் பிரதமர் ராஜிவ் காந்தி கொலை வழக்கில் விடுவிக்கப்பட்டுள்ள இலங்கை தமிழர்கள் மூவருக்கும் கடவுச்சீட்டு வழங்கப்பட்டுள்ளதாக தமிழக அரசாங்கம் தெரிவித்துள்ளது.
+
+குறித்த மூவருக்கும் இலங்கை துணை தூதரகத்தினால் கடவுச்சீட்டு வழங்கப்பட்டுள்ளதாகவும் அவர்களை இலங்கைக்கு அனுப்ப அனுமதி கோரி இந்திய மத்திய அரசாங்கத்திற்கு கடிதம் எழுதப்பட்டுள்ளதாகவும் தமிழக அரசாங்கம் சென்னை உயர் நீதிமன்றத்தில் தெரிவித்துள்ளது.
+
+அதற்கமைய, இந்திய மத்திய அரசாங்கத்தின் அனுமதி கிடைத்தவுடன், முருகன், ஜெயக்குமார் மற்றும் ராபர்ட் பயாஸ் ஆகிய மூவரும் ஒரு வாரத்திற்குள் இலங்கைக்கு அனுப்பப்படுவார்கள் என தமிழக அரசாங்கம் நீதிமன்றத்திற்கு அறிவித்துள்ளது.
+
+திருச்சி முகாமில் தங்கவைக்கப்பட்டுள்ள முருகன் தனக்கு அடையாள அட்டை வழங்கக் கோரி சென்னை உயர் நீதிமன்றத்தில் தாக்கல் செய்துள்ள மனு செவ்வாய்க்கிழமை (26) விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போதே தமிழக அரசாங்கம் நீதிமன்றத்தில் இந்த விடயங்களை முன்வைத்துள்ளது.
+
+...
+
+[Data](articles/472ae1d1.json)
+
+---
+
+### Two luxury houses in Beruwala, Dehiwala used for terrorism-related activities - Court hears
+
+*2024-03-27 11:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98232/two-luxury-houses-in-beruwala-dehiwala-used-for-terrorism-related-activities-court-hears) · `en`
+
+The two luxury houses in Dehiwala and Beruwala, seized under the Terrorism Prevention Act (PTA) after the 2019 Easter Sunday bombings, had been used for terrorism-related activities of Al-Qaeda and National Thowheed Jamaath (NTJ), the Attorney General informed the Supreme Court on Tuesday (26).
+
+This was communicated when two fundamental rights (FR) petitions filed by the owners of the two houses were called before Supreme Court Justices Preethi Padman Surasena, Shiran Gunaratna and Mahinda Samayawardhana on Tuesday (27).
+
+After taking into account the submissions made by Senior State Counsel Shaminda Wickreme on behalf of the prosecution, the judge bench ordered that the two petitions, put forward challenging the decision to seize the establishments in question, be revoked. The petitions had been filed by Mohamed Hayatullah and Mohamed Hasim, naming the Attorney General, the IGP, the Terrorism Investigation Division (TID) officers and several others as its respondents.
+
+...
+
+[Data](articles/25615804.json)
+
+---
+
+### சீனா-இலங்கைக்கு இடையில் ஒன்பது புதிய ஒப்பந்தங்கள் கைச்சாத்து
+
+*2024-03-27 11:39:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனா-இலங்கைக்கு-இடையில்-ஒன்பது-புதிய-ஒப்பந்தங்கள்-கைச்சாத்து/175-335250) · `ta`
+
+சீனாவுக்கும் இலங்கைக்கும் இடையில் ஒன்பது புதிய ஒப்பந்தங்கள் கைச்சாத்திடும் நிகழ்வு நேற்று (26) சீனப் பிரதமர் லீ கியாங் மற்றும் இலங்கைப் பிரதமர் தினேஷ் குணவர்தன தலைமையில் இடம்பெற்றது.
+
+தியானன்மென் சதுக்கத்தில் உள்ள மக்கள் மாவீரர் நினைவிடத்தில் பிரதமர் மலர் தூவி அஞ்சலி செலுத்தியதுடன், சீன இராணுவத்தினரின் மரியாதையை பெற்றுக்கொண்ட பின்னர் இருதரப்பு கலந்துரையாடல்களும் ஆரம்பமாகின.
+
+பின்னர், பெய்ஜிங்கில் உள்ள கிரேட் ஹாலில் நடைபெற்ற இருதரப்பு பேச்சுவார்த்தையின் போது, ​​பொருளாதார ஒத்துழைப்புடன் சமூக, கலாச்சார, கல்வி மற்றும் விவசாயத் துறைகளில் ஒட்டுமொத்த ஒத்துழைப்பை அதிகரிப்பது குறித்தும் அதிக கவனம் செலுத்தப்பட்டது.
+
+இரு நாடுகளுக்கும் இடையில் கைச்சாத்திடப்பட்டுள்ள ஒன்பது புரிந்துணர்வு உடன்படிக்கைகளின் ஊடாக இலங்கைக்கும் சீனாவுக்கும் இடையிலான நீண்டகால நட்புறவு மற்றும் ஒத்துழைப்பின் புதிய அத்தியாயம் ஆரம்பிக்கப்படும் என இரு நாட்டு பிரதமர்களும் உறுதிப்படுத்தினர்.
+
+இலங்கையின் சார்பில் பிரதமரின் செயலாளர் அனுர திஸாநாயக்கவும், சீனா சார்பில் ஒன்பது அமைச்சுக்களின் செயலாளர்களும் ஒப்பந்தங்களில் கைச்சாத்திட்டனர்.
+
+...
+
+[Data](articles/6dbd06dd.json)
+
+---
+
+### ஜனாதிபதி தேர்தல் உரிய காலத்தில் நடக்கும் - தேர்தல் ஆணைக்குழு
+
+*2024-03-27 11:38:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தல்-உரிய-காலத்தில்-நடக்கும்-தேர்தல்-ஆணைக்குழு/175-335249) · `ta`
+
+இந்த ஆண்டு பாராளுமன்றத் தேர்தல் நடத்தப்பட வேண்டிய நிலை ஏற்பட்டாலும், செப்டம்பர் 17 முதல் ஒக்டோபர் 17 வரையான காலப்பகுதிக்குள் ஜனாதிபதித் தேர்தல் நடைபெறும் என்று தேர்தல் ஆணைக்குழு அறிவித்துள்ளது.
+
+ஜனாதிபதித் தேர்தலுக்கு முன்னதாக பாராளுமன்றத் தேர்தலை நடத்த வேண்டும் என ஆளும் ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் நாடாளுமன்ற உறுப்பினர்கள் கருத்து வெளியிட்டு வருகின்றனர்.
+
+இது குறித்து கருத்து தெரிவித்த தேர்தல் ஆணைக்குழு தலைவர் ஆர்.எம்.ஏ.எல். ரத்நாயக்க, இந்த வருடம் ஜனாதிபதி பாராளுமன்றத்தை கலைத்தால் பாராளுமன்ற தேர்தலை நடத்துவதை தவிர வேறு வழியில்லை.
+
+எனினும், பாராளுமன்றத் தேர்தலை நடத்த வேண்டியிருந்தால் அது ஜனாதிபதித் தேர்தலில் எந்தப் பாதிப்பையும் ஏற்படுத்தாது எனவும், அதனைத் தொடர்ந்து உரிய நேரத்தில் ஜனாதிபதி தேர்தல் நடத்தப்படும் எனவும் அவர் மேலும் குறிப்பிட்டுள்ளார்.
+
+“இந்த ஆண்டு செப்டம்பர் 17 முதல் அக்டோபர் 17 வரை ஜனாதிபதி தேர்தல் நடத்த திட்டமிடப்பட்டுள்ளது. ஜூலை மாத இறுதியில் அல்லது ஆகஸ்ட் தொடக்கத்தில் வேட்புமனுக்கள் ஏற்றுக்கொள்ளப்படும். தற்போது அதற்கான பணிகளில் ஈடுபட்டுள்ளோம்" என்றார்.
+
+◼️
+
+[Data](articles/785437d4.json)
+
+---
+
+### Six ships go missing in accident
 
 *2024-03-27 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194987) · `si`
 
-කොළඹ වරාය බලා එමින් තිබූ භාණ්ඩ ප්‍රවාහන නෞකාවක් අමෙරිකාවේ බැල්ටිමෝ හි පාලමක ගැටී සිදුවූ අනතුරින් පුද්ගලයින් හය දෙනෙකු අතුරුදන් වී තිබේ.
+Six ships vanish in Colombo Port accident. Power disconnected at Francis Scott Key Bridge 47 years ago. Ship's staff involved, delayed. 22 staff reported missing. All Indian crew safe. Search for missing in debris-filled area. Maintenance workers among missing. Operations hindered by cold weather.
 
-වසර 47ක් පමණ පැරණි "Francis Scott Key" පාලමෙහි නෞකාව ගැටීමට සුළු වේලාවකට පෙර එම නැවෙහි විදුලිය විසන්ධි වී තිබුණි.
+🟩
 
-ඒ සම්බන්ධයෙන් හදිසි දැනුම්දීම් කිරීමට නැවෙහි කාර්ය මණ්ඩලය කටයුතු කර තිබූ අතර ඒ වනවිටත් පමා වී තිබුණි.
+Around the Colombo Port was six people have disappeared in a bridge in Baltimo in Baltimo.
 
-විදෙස් වාර්තා සඳහන් කළේ, අනතුරට ලක්වන අවස්ථාවේදී දී නෞකාවේ කාර්ය මණ්ඩලයේ 22කු එහි සිට ඇති බවය.
+The ship's power was disconnected at the Francis Scott Key Bridge about 47 years ago.
 
-ඉන්දීය ජාතිකයින් වන සියලුදෙනාට කිසිදු අනතුරක් සිදුව නොමැති බව සඳහන්ය.
+The ship's staff had acted in the incident and had already been delayed.
 
-අතුරුදන් වූ පුද්ගලයින් සෙවීම සඳහා නෞකාව අනතුරට ලක්වූ ප්‍රදේශයේ කිමිදුම්කරුවන් විසින් මෙහෙයුම් ආරම්භ කර තිබේ.
+According to foreign reports, the ship 22 of the ship's staff has been in the event.
 
-අතුරුදන් වී ඇත්තේ පාලමේ නඩත්තු කටයුතුවල නිරතවෙමින් සිටි පිරිසක් බව විදෙස් වාර්තා සඳහන් කළේය.
+It is said that all the Indian people had no accident.
 
-අධික ශීත කාලගුණය හා පාලමේ සුන්බුන් අතුරුදන් වූවන් සෙවීමේ මෙහෙයුම්වලට බාධාවක් වී ඇතැයි ද විදෙස් මාධ්‍ය වාර්තා කරයි.
+The ship was crashed in the area where the ship was crashed into searching for missing persons.
+
+The missing were a group of people who were engaged in maintenance work.
+
+Foreign media reports that there is a hindrance to the disappearance operations in the cold weather and the bridge debris.
 
 ◼️
 
 [Data](articles/358c1ff9.json)
+
+[Extended Data](ext_articles/358c1ff9.ext.json)
+
+---
+
+### எடிசன் விருது வென்றது ’ஐயோ சாமி’ பாடல்
+
+*2024-03-27 11:29:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எடிசன்-விருது-வென்றது-ஐயோ-சாமி-பாடல்/175-335248) · `ta`
+
+தென்னிந்தியாவின் சென்னையில் நடைபெற்ற 16வது எடிசன் விருது வழங்கும் விழாவில், "ஐயோ சாமி" என்ற இலங்கைத் தமிழ்ப் பாடலைப் பாடிய விந்தி குணதிலக்க, 2023 ஆம் ஆண்டின் சிறந்த உணர்வுப்பூர்வமான பாடலுக்கான விருதை வென்றுள்ளார்.
+
+விருதினை பெற்றுக் கொண்ட விந்தி குணதிலக்க நேற்று இரவு ஸ்ரீலங்கன் எயார் விமானமான UL 218 இல் கட்டுநாயக்க சர்வதேச விமான நிலையத்தை வந்தடைந்தார்.
+
+இந்த விருது வழங்கும் விழா சர்வதேச திரைப்படங்கள் மற்றும் பாடல்களை மதிப்பிடுவதற்காக நடத்தப்படுகிறது, மேலும் இந்த ஆண்டுக்கான விருது வழங்கும் விழா மார்ச் 24 அன்று இந்தியாவில் சென்னையில் நடைபெற்றது.
+
+இப்பாடலை எழுதிய பொத்துவில் அஸ்மின் மற்றும் இப்பாடலுக்கு இசையமைத்த சனுக விக்ரமசிங்க ஆகியோரும் இவ்விருதுகளை பெற்றுக்கொள்ளும் நிகழ்வில் இணைந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/60997094.json)
 
 ---
 
@@ -126,6 +224,22 @@ The hospital has 640 beds, six surgical halls, emergency care units, intensive c
 
 ---
 
+### முன்னாள் போராளி அரவிந்தன்  கைது
+
+*2024-03-27 11:12:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-போராளி-அரவிந்தன்-கைது/175-335245) · `ta`
+
+முன்னாள் போராளியும் போராளிகள் நலன்புரி சங்க தலைவருமான செ. அரவிந்தன் பயங்கரவாத புலனாய்வு பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+
+கடந்த வாரம் முகப்புத்தக பதிவு தொடர்பில் கொழும்பில் உள்ள பயங்கரவாத புலனாய்வு பிரிவிற்கு அழைக்கப்பட்ட போதிலும் அவர் செல்லாத நிலையில் செவ்வாய்க்கிழமை (26) மீண்டும் அழைக்கப்பட்டிருந்தார்.
+
+இந்நிலையில் அவர் கொழும்பில் உள்ள பயங்கரவாத புலனாய்வு பிரிவுக்கு சென்ற சமயமே விடுதலைப்புளிகளுக்கு ஆதரவாக செயற்பட்டதாக தெரிவித்து கைது செய்யப்பட்டுள்ளதுடன்  அவரை கொழும்பு நீதிமன்றில் ஆஜர்ப்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது .
+
+◼️
+
+[Data](articles/2168247c.json)
+
+---
+
 ### Even though the parliamentary election is held this year, the presidential election is in time- the Commissioner
 
 *2024-03-27 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/179805) · `ta`
@@ -165,6 +279,8 @@ This award ceremony is held to evaluate international films and songs, and this 
 ◼️
 
 [Data](articles/4445ac66.json)
+
+[Extended Data](ext_articles/4445ac66.ext.json)
 
 ---
 
@@ -277,6 +393,8 @@ The Advocata Institute said in a statement on the study that Sri Lanka has been 
 ...
 
 [Data](articles/a1bd86f6.json)
+
+[Extended Data](ext_articles/a1bd86f6.ext.json)
 
 ---
 
@@ -397,6 +515,8 @@ The Colombo Stock Exchange opened up: The All Share Price Index was up 0.81 perc
 ◼️
 
 [Data](articles/00f248ba.json)
+
+[Extended Data](ext_articles/00f248ba.ext.json)
 
 ---
 
@@ -565,6 +685,8 @@ During the last currency crisis and external default, several risk averse banks 
 ...
 
 [Data](articles/5ed4ce3e.json)
+
+[Extended Data](ext_articles/5ed4ce3e.ext.json)
 
 ---
 
@@ -801,6 +923,8 @@ Sri Lanka’s rupee had been allowed to appreciate from March 2023, amid deflati
 ...
 
 [Data](articles/d897dd49.json)
+
+[Extended Data](ext_articles/d897dd49.ext.json)
 
 ---
 
@@ -1604,6 +1728,28 @@ Bhagwati mentioned that the stock markets in the region are already seeing a pic
 
 ---
 
+### கப்பல் மோதி உடைந்து விழுந்த பாலம்; அமெரிக்காவில் அவசர நிலை பிரகடனம் (காணொளி)
+
+*2024-03-26 23:50:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கப்பல்-மோதி-உடைந்து-விழுந்த-பாலம்-அமெரிக்காவில்-அவசர-நிலை-பிரகடனம்-காணொளி/50-335236) · `ta`
+
+சிங்கப்பூரில் இருந்து இலங்கை நோக்கி புறப்பட்டு வந்த ராட்சத கப்பல் ஒன்று அமெரிக்காவில்  பாலம் ஒன்றுடன் மோதி விபத்துக்குள்ளான நிலையில், அங்கு அவசர நிலை பிரகடனப்படுத்தப்பட்டு உள்ளது.
+
+அமெரிக்காவில் கப்பல் மோதி பிரான்சிஸ் ஸ்காட் பாலம் உடைந்த நிலையில், ஆற்றில் விழுந்தவர்களை மீட்பதற்காகவும், இந்த விபத்து குறித்து விசாரிப்பதற்காகவும் உடனடியாக அவசர நிலை  பிரகடனப்படுத்தப்பட்டுள்ளது.
+
+அமெரிக்காவின் மேரிலாண்ட் மாகாணத்தில் உள்ளது பல்டிமோர் நகரம். இங்கு பாயும் படப்ஸ்கோ என்ற ராட்சத ஆற்றுக்கு மேலே பிரம்மாண்டமான பாலம் அமைக்கப்பட்டிருந்தது.
+
+பிரான்சிஸ் ஸ்காட் (Francis Scott) என அழைக்கப்படும் இந்த பாலமானது இரண்டு முக்கிய நகரங்களையும் இணைக்கிறது. ஆதலால், அந்த பாலத்தில் எப்போதுமே வாகனங்கள் சென்று கொண்டே இருக்கும்.
+
+இந்நிலையில், நேற்று அதிகாலை அந்த பாலத்தின் மீது கப்பல் மோதியது. இதில் அடுத்த நொடியே அந்த பாலம் அப்படியே சரிந்து ஆற்றில் விழுந்தது.
+
+300 மீட்டம் நீளம் கொண்ட இந்த கப்பல் இலங்கையின் கொழும்பு நோக்கி சென்று கொண்டிருந்தது. அதில் இருந்த மாலுமிகள் உள்பட அனைத்து பணியாளர்களும் இந்தியர்கள் ஆவர்.
+
+...
+
+[Data](articles/7d813fc0.json)
+
+---
+
 ### A bridge that collapsed in the ship;Declaration of Emergency in the United States
 
 *2024-03-26 23:50:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கப்பல்-மோதி-உடைந்து-விழுந்த-பாலம்-அமெரிக்காவில்-அவசர-நிலை-பிரகடனம்/50-335236) · `ta`
@@ -2067,171 +2213,5 @@ Despite the bomb attack, the bomb did not explode, the destruction was avoided, 
 [Data](articles/b36cce9e.json)
 
 [Extended Data](ext_articles/b36cce9e.ext.json)
-
----
-
-### School education will be revamped by alleviating burden of examinations - President
-
-*2024-03-26 20:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98221/school-education-will-be-revamped-by-alleviating-burden-of-examinations-president) · `en`
-
-President Ranil Wickremesinghe on Tuesday (March 26) said it is necessary to maintain law and order in the country, while highlighting the crucial steps taken to safeguard state properties, including the parliament, the prime minister’s office and the president’s office from “violence orchestrated under the guise of a struggle”.
-
-Despite criticisms labelling these actions as human rights violations, the President asserted that such measures were imperative for preventing economic instability.
-
-Stressing the importance of maintaining law and order, particularly in the aftermath of challenging times, President Wickremesinghe underscored the collective responsibility of all parties in upholding societal order.
-
-These sentiments were expressed during a meeting convened at the Presidential Secretariat, where university lecturers gathered to discuss the nation’s current economic program.
-
-...
-
-[Data](articles/ba736303.json)
-
-[Extended Data](ext_articles/ba736303.ext.json)
-
----
-
-### Presidential election in the first week of October;President Ranil announces
-
-*2024-03-26 20:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179779) · `ta`
-
-President Ranil Wickremesinghe announced a presidential election for the first week of October, informed to the political cabinet.
-
-🟩
-
-President Ranil Wickremesinghe has said that the presidential election will be held in the first week of October this year.
-
-The government's internal sources said that this has been announced to the recently appointed political cabinet.
-
-◼️
-
-[Data](articles/6e2834fa.json)
-
-[Extended Data](ext_articles/6e2834fa.ext.json)
-
----
-
-### Former police constable is with drugs
-
-*2024-03-26 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194971) · `si`
-
-A 35-year-old ex-police constable from Kalutara was arrested for drug possession. He was caught by police in Alwis Watta, with money in his pocket.
-
-🟩
-
-An ex-police constable was arrested today (26) with an ice drugs, said the Kalutara Division poison unit.
-
-The suspect is a 35 year old resident of the Boxezagama, Kalutara.
-
-He was a police officer who was acquitted of the police service due to ache of reports last time.
-
-Sub Inspector PR on information that the suspect is going to be busy with a small lorry. Police including Weerasena and a team of police had raided.
-
-The suspect has been arrested in the Alwis Watta area in Kalutara area and the suspects were arrested with the money of the pants pocket and about Rs.
-
-◼️
-
-[Data](articles/89a2b4ce.json)
-
-[Extended Data](ext_articles/89a2b4ce.ext.json)
-
----
-
-### Meethotamulla extortion case: Prasanna’s appeal against sentence fixed for inquiry
-
-*2024-03-26 20:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Meethotamulla-extortion-case-Prasannas-appeal-against-sentence-fixed-for-inquiry/108-279648) · `en`
-
-Colombo, March 26 (Daily Mirror)- An appeal filed by Minister of Urban Development and Housing Prasanna Ranatunga challenging the Colombo High Court’s decision to impose a suspended imprisonment in connection with the Meethotamulla extortion case was today fixed for inquiry by the Court of Appeal.
-
-The Court of Appeal divisional bench headed by Justice D.N. Samarakoon fixed the matter for inquiry on April 30.
-
-Minister Ranatunga was convicted for the thirteenth count out of fifteen by High Court Judge Manjula Tillekaratne over an indictment filed for threatening a businessman over the phone and demanding Rs. 64 million in 2015. Accordingly, he was sentenced to two years rigorous imprisonment suspended for five years by the Colombo High Court.
-
-The Court further ordered the Minister to pay a fine of Rs. 25 million. The thirteenth count had been filed under Section 373 for extortion in order to execute five promissory notes in a dishonest manner after threatening the businessman.
-
-...
-
-[Data](articles/35e2aef7.json)
-
-[Extended Data](ext_articles/35e2aef7.ext.json)
-
----
-
-### How to create corrupt political culture?Clear Event at Vikramadevi Park - March 12 System Call
-
-*2024-03-26 19:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179778) · `ta`
-
-A special event at Vikramadevi Park on March 12 aims to clarify political party nominations, emphasizing responsible political culture ahead of national elections.
-
-🟩
-
-Political parties must act responsibly to create a better and credible political culture. The national elections to be held this year are decisive. The event will be held at the Vikramadevi Park to clarify to the political parties and the people of the country to choose the nomination papers.. The March 12 organization calls for the people to attend the event.
-
-A special concept event will be held at Vikramadevi Park, Colombo on Thursday (28).. The Executive Director of the February, Rohana Hettiarachchi, Transparency International Sri Lanka - Executive Director Nadishani Perera and representatives of the March 12 organization were present.
-
-The activities of the political parties and the public will be carried out at the Vikramadevi Park in Colombo from 10 am to 8 pm on Thursday (26).
-
-Political parties should be responsible for the selection of the best parties in the elections to be held this year.
-
-...
-
-[Data](articles/079bc589.json)
-
-[Extended Data](ext_articles/079bc589.ext.json)
-
----
-
-### Running costs in government vehicles. It is revealed that 300
-
-*2024-03-26 19:58:38* · [`adalk`](https://www.ada.lk/breaking_news/රජයේ-වාහන-වල-කිලෝමීටරයක-ධාවන-පිරිවැය-රු--300ක්-බව-හෙළිවෙයි/11-408818) · `si`
-
-The Select Committee on Energy and Transport revealed that state institutions have 82,000 vehicles, with 5,500 non-existent, costing Rs. 300 per kilometer to run. This could save Rs. 20 billion. MP Nalaka Bandara and Kottegoda suggested a Sub-Committee to study the issue.
-
-🟩
-
-The Select Committee of the Sectoral Oversight Committee revealed that a kilometer of Rs.
-
-The Department of Manpower and Employment was able to disclose this regard as a research sheet prepared in respect of state resource management.
-
-These issues were revealed when the Sectoral Oversight Committee on Energy and Transport met with MP Nalaka Bandara at Parliament.
-
-The research paper pointed out that state institutions have about 82,000 vehicles and 76,000 of them have around 82,000 vehicles.
-
-It was also revealed that about 5,500 vehicles do not exist.
-
-The expenses of a kilometer of one kilometer are approximately Rs. 300 and the cost of running one kilometer.
-
-However, the research data was identified by the data that could run a kilometer of Rs.. Accordingly, if the system is followed, the process is followed by the removal of the procedure, directly.. It was revealed that about 20 billion public expenditure could be saved.
-
-...
-
-[Data](articles/466045c0.json)
-
-[Extended Data](ext_articles/466045c0.ext.json)
-
----
-
-### Magistrate Thilina Gamage threatens Magistrate Thilina Gamage due to orders against underworld
-
-*2024-03-26 19:42:32* · [`adalk`](https://www.ada.lk/breaking_news/පාතාලයට-එරෙහිව-දුන්-නියෝග-නිසා-මහේස්ත්‍රාත්-තිළිණ-ගමගේට-මරණ-තර්ජන/11-408817) · `si`
-
-Thilina Gamage, a magistrate, is under threat due to orders against the underworld. An unidentified gun has been used to protect her. Investigations by the CID into an assassination attempt on her life have begun, with preliminary findings indicating a possible shooter within 150 meters.
-
-🟩
-
-According to an unidentified gun, an unidentified gun, has taken steps to promote the security of Thilina Gamage.
-
-According to information that a donid gunist has been attacked by a distance from a distance, Thilina Gamage has attempted to assassinate the murder of Thilina Gamage.
-
-According to a letter to the Minister of Defense Minister Tiran Alles, a letter sent to the Minister of Defense Tiran Alles, the CID has commenced investigations into the incident.
-
-The Criminal Police Officers who initiated the insign from the telephone was to be questioned by the magistrate Thilina Gamage have revealed all the information about the person who had requested the firear.
-
-Preliminary investigations have revealed that a person who is about 150 meters can be launched.
-
-◼️
-
-[Data](articles/d3bf3532.json)
-
-[Extended Data](ext_articles/d3bf3532.ext.json)
 
 ---

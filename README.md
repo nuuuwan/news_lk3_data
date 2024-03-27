@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 22:18:04**
+As of **2024-03-27 22:33:56**
 
 ## Newspaper Stats
 
-*Scraped **15,563** Articles*
+*Scraped **15,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ islandlk | 854
 adalk | 1,333
 adaderanalk | 1,870
 tamilmirrorlk | 1,870
-virakesarilk | 2,199
+virakesarilk | 2,200
 dailymirrorlk | 2,403
-adaderanasinhalalk | 2,502
+adaderanasinhalalk | 2,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,561 (100.0%) of 15,563 articles have been extended.
+15,563 (100.0%) of 15,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### இலங்கையில் மகளிர் ரி20 ஆசிய கிண்ண கிரிக்கெட் சுற்றுப் போட்டி
+
+*2024-03-27 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/179847) · `ta`
+
+ஆசிய கிரிக்கெட் பேரவையினால் ஏற்பாடு செய்யப்பட்டுள்ள மகளிர் ரி20 ஆசிய கிண்ண கிரிக்கெட் சுற்றுப் போட்டி இலங்கையின் தம்புள்ளையில் நடைபெறவுள்ளது.
+
+இந்த சுற்றுப் போட்டி 2024 ஜூலை 19ஆம் திகதியிலிருந்து 28ஆம் திகதிவரை நடைபெறும் என ஆசிய கிரிக்கெட் பேரவை அறிவித்துள்ளது.
+
+ஆசியாவில் மகளிர் கிரிக்கெட்டில் ஆர்வம் அதிகரித்துவருவதன் பலனாக இம்முறை எட்டு அணிகள் இந்த சுற்றுப் போட்டியில் பங்குபற்றுவதாக ஆசிய கிரிக்கெட் பேரவை தெரிவித்தது.
+
+கடைசியாக 2022இல் நடைபெற்ற மகளிர் ஆசிய கிண்ண கிரிக்கெட் போட்டியில் 7 அணிகள் பங்குபற்றி இருந்தன.
+
+இந்த வருட மகளிர் ரி20 ஆசிய கிண்ண கிரிக்கெட் போட்டியில் இந்தியா, பாகிஸ்தான், இலங்கை, பங்களாதேஷ் ஆகிய நாடுகளுடன் மகளிர் பிறீமியர் லீக் 2024 அரை இறுதிகளில் விளையாடிய ஐக்கிய அரபு இராச்சியம், மலேசியா, நேபாளம், தாய்லாந்து ஆகிய நாடுகளும் பங்குற்றவுள்ளன.
+
+பங்குபற்றும் நாடுகளின் எண்ணிக்கை அதிகரித்துள்ளதன் மூலம் பிராந்தியத்தில் போட்டித்தன்மையும் கிரிக்கெட் இரசிகர்களின் எண்ணிக்கையும் அதிகரிக்கும் என ஆசிய கிரிக்கெட் பேரவை நம்புகிறது.
+
+...
+
+[Data](articles/838c9fef.json)
+
+---
+
+### මුම්බායි පන්දු යවන්නන් ට දැඩි ප්‍රහාරයක්
+
+*2024-03-27 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195010) · `si`
+
+ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ එක් කණ්ඩායමක් රැස් කළ වැඩිම ලකුණු සංඛ්‍යාව රැස් කිරීමට සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායම අද (27) සමත් විය.
+
+පළමුව පන්දුවට පහරදුන් සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායම නියමිත පන්දුවාර 20 තුළ කඩුලු 03ක් දැවී ලකුණු 277ක් රැස් කළේය.
+
+එය සියලුම ආකාරයේ පිරිමි  T20 තරගවල තෙවැනි ඉහළම ලකුණු සංඛ්‍යාව ද වෙයි.
+
+මෙම තරගය ජයගැනීම සඳහා මුම්බායි ඉන්දියන්ස් කණ්ඩායම 278ක් ලබාගත යුතුව තිබේ.
+
+මීට පෙර ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේදී RCB කණ්ඩායම නියමිත පන්දුවාර 20 තුළ ලකුණු 263ක් රැස්කර තිබුණි.
+
+◼️
+
+[Data](articles/9517f679.json)
+
+---
 
 ### UNP chairman refutes opposition’s allegations of election delay
 
@@ -50,21 +92,33 @@ Addressing a press briefing titled “Collective Path to a Stable Country” hel
 
 [Data](articles/f1cc26c5.json)
 
+[Extended Data](ext_articles/f1cc26c5.ext.json)
+
 ---
 
-### கல்வித்துறைக்கு குறைவாக செலவு செய்யும் நாடுகளின் பட்டியலில் இலங்கை 140 ஆவது இடத்தில் - ஐக்கிய நூற்றாண்டு முன்னணி
+### Sri Lanka is ranked 140th in the list of countries that cost less than education
 
 *2024-03-27 22:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179846) · `ta`
 
-நாட்டின் கல்வி முறைமை மிக மோசமாகப் பாதிக்கப்பட்டுள்ளது.கல்வித்துறைக்கு குறைவாகச் செலவு செய்யும் 141 நாடுகளின் பட்டியலில் இலங்கை 140 ஆவது இடத்தில் உள்ளது. வரவு செலவுத் திட்டத்தில் கல்வித்துறைக்கு 200 பில்லியன் ரூபா ஒதுக்கப்பட்டுள்ள நிலையில் பாதுகாப்பு துறைக்கு 580 பில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளமை முறையற்றது. இந்நிலைமை மாற்றம் பெற வேண்டும் என ஐக்கிய நூற்றாண்டு முன்னணியின் தலைவர் பிரசான் டி விஸர் தெரிவித்தார்.
+Sri Lanka ranks 140th in education costs, with 200 billion rupees allocated to Defense and 580 billion to Education. Prasan de Wiser, leader of the United Central Front, urged change. The education system is under strain, with recommendations for policy improvements, including early childhood education, curriculum reforms, teacher training, equal access, technical integration, and multilingual development.
 
-பம்பலப்பிட்டியில் உள்ள  ஐக்கிய நூற்றாண்டு முன்னணியின் ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-நாட்டின் கல்வி முறைமை மிக மோசமாக பாதிக்கப்பட்டுள்ளது.கல்வித்துறைக்கு குறைவாகச் செலவு செய்யும் 141 நாடுகளின் பட்டியலில் இலங்கை 140 ஆவது இடத்தில் உள்ளது.2024 ஆம் ஆண்டுக்கான வரவு செலவுத் திட்டத்தில் கல்வித்துறைக்கு 200 பில்லியின் ரூபா மாத்திரமே ஒதுக்கப்பட்டுள்ளது.யுத்தம் முடிவடைந்து 14 ஆண்டுகள் நிறைவடைந்துள்ள நிலையிலும் பாதுகாப்பு துறைக்கு 580 பில்லியன் ரூபாவும்,அரச நிர்வாக துறைக்கு 900 பில்லியன் ரூபாவும் ஒதுக்கப்பட்டுள்ளது.
+Sri Lanka is ranked 140th in the list of 141 countries that cost less than the education sector.. The budget has been allocated 200 billion rupees to the Department of Defense, 580 billion rupees.. United Central Front leader Prasan de Wiser said the situation should be changed.
+
+He made the above statement during a media briefing of the United States Front in Bambalapitiya.
+
+The country's education system is badly affected. Sri Lanka is ranked 140th in the list of less than 141 countries. In the budget of 20124, only 200 billion rupees has been allocated to the Department of Education.The rupee is also assigned.
+
+The future of the country is referred to as the younger generation of younger generations. The need for a change of education has been allocated.
+
+We have made a number of important recommendations for the educational policy of the United States of Sri Lanka, recognizing the role of education in social and economic development.
 
 ...
 
 [Data](articles/b8399fe6.json)
+
+[Extended Data](ext_articles/b8399fe6.ext.json)
 
 ---
 
@@ -2225,49 +2279,5 @@ In his petition, Murugan stated that he had to get a visa to go to Britain to li
 [Data](articles/472ae1d1.json)
 
 [Extended Data](ext_articles/472ae1d1.ext.json)
-
----
-
-### Prasanna is demanding a thorough investigation into the abolish -abroad of the staff behind the removal of Kota's post.
-
-*2024-03-27 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179800) · `ta`
-
-Prasanna Ranatunga demands an investigation into the removal of Kota's post, alleging foreign interference. He criticizes silence from all parties on March 21 and the raid on May 9, 2019, lodging a complaint with the Human Rights Commission.
-
-🟩
-
-Minister Prasanna Ranatunga has requested that a thorough investigation be held on the Speaker's statement that foreign powers are in the wake of the removal of former President Gotabhaya Rajapaksa.
-
-Prasanna Ranatunga said this in response to a question raised by the Island newspaper as to why all parties, including the ruling party, have been silent on March 21.
-
-Prasanna Ranatunga, who responded to the question of why parliamentarians, are silent on the issue, demanding an investigation into the raid on Sunday 2019, said that he would question the meeting of political party leaders.
-
-He also noted that he was not satisfied with the attacks on the Sri Lankan Public Public Public Administration, following the attack on the Arakala activists on May 9, 2022.
-
-I have lodged a complaint with the Human Rights Commission.
-
-◼️
-
-[Data](articles/ca3e8050.json)
-
-[Extended Data](ext_articles/ca3e8050.ext.json)
-
----
-
-### Two luxury houses in Beruwala, Dehiwala used for terrorism-related activities - Court hears
-
-*2024-03-27 11:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98232/two-luxury-houses-in-beruwala-dehiwala-used-for-terrorism-related-activities-court-hears) · `en`
-
-The two luxury houses in Dehiwala and Beruwala, seized under the Terrorism Prevention Act (PTA) after the 2019 Easter Sunday bombings, had been used for terrorism-related activities of Al-Qaeda and National Thowheed Jamaath (NTJ), the Attorney General informed the Supreme Court on Tuesday (26).
-
-This was communicated when two fundamental rights (FR) petitions filed by the owners of the two houses were called before Supreme Court Justices Preethi Padman Surasena, Shiran Gunaratna and Mahinda Samayawardhana on Tuesday (27).
-
-After taking into account the submissions made by Senior State Counsel Shaminda Wickreme on behalf of the prosecution, the judge bench ordered that the two petitions, put forward challenging the decision to seize the establishments in question, be revoked. The petitions had been filed by Mohamed Hayatullah and Mohamed Hasim, naming the Attorney General, the IGP, the Terrorism Investigation Division (TID) officers and several others as its respondents.
-
-...
-
-[Data](articles/25615804.json)
-
-[Extended Data](ext_articles/25615804.ext.json)
 
 ---

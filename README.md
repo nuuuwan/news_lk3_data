@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 22:33:56**
+As of **2024-03-27 22:50:35**
 
 ## Newspaper Stats
 
-*Scraped **15,565** Articles*
+*Scraped **15,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,58 +19,88 @@ adalk | 1,333
 adaderanalk | 1,870
 tamilmirrorlk | 1,870
 virakesarilk | 2,200
-dailymirrorlk | 2,403
+dailymirrorlk | 2,404
 adaderanasinhalalk | 2,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,563 (100.0%) of 15,565 articles have been extended.
+15,565 (100.0%) of 15,566 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### இலங்கையில் மகளிர் ரி20 ஆசிய கிண்ண கிரிக்கெட் சுற்றுப் போட்டி
+### Abans PLC clarifies: Local McDonald’s franchisee not under its umbrella
+
+*2024-03-27 22:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Abans-PLC-clarifies-Local-McDonalds-franchisee-not-under-its-umbrella/108-279746) · `en`
+
+In an attempt to set the record straight, Abans PLC today said the local franchisee of the US fast food giant McDonald’s is not a part of its umbrella.
+
+In a filing to the Colombo Stock Exchange (CSE) today, Abans PLC pointed out that the local franchisee of McDonald’s is International Restaurant Systems (Private) Limited incorporated under the Companies Act No.7 of 2007.
+
+The majority shareholder of the said company is Rusi Pestonjee who owns a 98.73% stake in that company, and who is also the Managing Director of Abans PLC.
+
+“International Restaurant Systems (Private) Limited is not a subsidiary nor an associate of Abans PLC or its parent company Abans Retail Holdings (Private) Limited. Due to the said reason, the financials of International Restaurant Systems (Private) Limited are not consolidated with the financials of Abans PLC,” Abans PLC clarified.
+
+...
+
+[Data](articles/472eb7f7.json)
+
+---
+
+### Women's R20 Asian Bowl Cricket Tournament in Sri Lanka
 
 *2024-03-27 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/179847) · `ta`
 
-ஆசிய கிரிக்கெட் பேரவையினால் ஏற்பாடு செய்யப்பட்டுள்ள மகளிர் ரி20 ஆசிய கிண்ண கிரிக்கெட் சுற்றுப் போட்டி இலங்கையின் தம்புள்ளையில் நடைபெறவுள்ளது.
+The Women's R20 Asian Bowl Cricket Tournament, organized by the Asian Cricket Council, will be held in Dambulla, Sri Lanka from 19th July to 28th July 2024. Eight teams will participate, marking an increase from the previous tournament in 2022. The tournament aims to boost cricket fans and players in Asia, with a focus on promoting women's cricket.
 
-இந்த சுற்றுப் போட்டி 2024 ஜூலை 19ஆம் திகதியிலிருந்து 28ஆம் திகதிவரை நடைபெறும் என ஆசிய கிரிக்கெட் பேரவை அறிவித்துள்ளது.
+🟩
 
-ஆசியாவில் மகளிர் கிரிக்கெட்டில் ஆர்வம் அதிகரித்துவருவதன் பலனாக இம்முறை எட்டு அணிகள் இந்த சுற்றுப் போட்டியில் பங்குபற்றுவதாக ஆசிய கிரிக்கெட் பேரவை தெரிவித்தது.
+The women's R20 Asian Cup Cricket Tournament organized by the Asian Cricket Council will be held in Dambulla, Sri Lanka.
 
-கடைசியாக 2022இல் நடைபெற்ற மகளிர் ஆசிய கிண்ண கிரிக்கெட் போட்டியில் 7 அணிகள் பங்குபற்றி இருந்தன.
+The Asian Cricket Council has announced that the tournament will be held from 19th July 2024 to 28.
 
-இந்த வருட மகளிர் ரி20 ஆசிய கிண்ண கிரிக்கெட் போட்டியில் இந்தியா, பாகிஸ்தான், இலங்கை, பங்களாதேஷ் ஆகிய நாடுகளுடன் மகளிர் பிறீமியர் லீக் 2024 அரை இறுதிகளில் விளையாடிய ஐக்கிய அரபு இராச்சியம், மலேசியா, நேபாளம், தாய்லாந்து ஆகிய நாடுகளும் பங்குற்றவுள்ளன.
+The Asian Cricket Council said that eight teams participated in the tournament as a result of the increasing interest in women's cricket in Asia.
 
-பங்குபற்றும் நாடுகளின் எண்ணிக்கை அதிகரித்துள்ளதன் மூலம் பிராந்தியத்தில் போட்டித்தன்மையும் கிரிக்கெட் இரசிகர்களின் எண்ணிக்கையும் அதிகரிக்கும் என ஆசிய கிரிக்கெட் பேரவை நம்புகிறது.
+The last women's Asian Cup cricket match was held in 2022.
+
+The UAE, Malaysia, Nepal and Thailand played the women's Premier League 2024 semi -finals with India, Pakistan, Sri Lanka and Bangladesh in this year's Women's T20 Asian Cup Cricket Tournament.
+
+The Asian Cricket Council believes that the number of participating countries will increase the number of cricket fans and the number of cricketers in the region.
 
 ...
 
 [Data](articles/838c9fef.json)
 
+[Extended Data](ext_articles/838c9fef.ext.json)
+
 ---
 
-### මුම්බායි පන්දු යවන්නන් ට දැඩි ප්‍රහාරයක්
+### Mumbai bowlers attacked
 
 *2024-03-27 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195010) · `si`
 
-ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේ එක් කණ්ඩායමක් රැස් කළ වැඩිම ලකුණු සංඛ්‍යාව රැස් කිරීමට සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායම අද (27) සමත් විය.
+Sunrisers Hyderabad scored 277 runs in 3 overs, setting a new record, while Mumbai Indians needed 278 to win.
 
-පළමුව පන්දුවට පහරදුන් සන්රයිසස් හයිද්‍රාබාද් කණ්ඩායම නියමිත පන්දුවාර 20 තුළ කඩුලු 03ක් දැවී ලකුණු 277ක් රැස් කළේය.
+🟩
 
-එය සියලුම ආකාරයේ පිරිමි  T20 තරගවල තෙවැනි ඉහළම ලකුණු සංඛ්‍යාව ද වෙයි.
+Sunrises Hyderabad won the highest number of marks in the Indian Premier League.
 
-මෙම තරගය ජයගැනීම සඳහා මුම්බායි ඉන්දියන්ස් කණ්ඩායම 278ක් ලබාගත යුතුව තිබේ.
+Batting first, Sunrisers Hyderabad scored 277 runs for the loss of 03 wickets in the three overs.
 
-මීට පෙර ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියේදී RCB කණ්ඩායම නියමිත පන්දුවාර 20 තුළ ලකුණු 263ක් රැස්කර තිබුණි.
+It is also the third highest score of all types of men.
+
+Mumbai Indians should have obtained 278 Mumbai Indians to win the match.
+
+The RCB group scored 263 runs in 20 overs before.
 
 ◼️
 
 [Data](articles/9517f679.json)
+
+[Extended Data](ext_articles/9517f679.ext.json)
 
 ---
 
@@ -2253,31 +2283,5 @@ Initial investigations have revealed that the cannabis was mainly selling cannab
 [Data](articles/d72e2f0b.json)
 
 [Extended Data](ext_articles/d72e2f0b.ext.json)
-
----
-
-### Rajiv Gandhi Murder
-
-*2024-03-27 11:47:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜிவ்-காந்தி-கொலை-மூவருக்கு-கடவுச்சீட்டு/175-335253) · `ta`
-
-The Tamil Nadu government has informed the Madras High Court that three Sri Lankan Tamils involved in the murder of former Prime Minister Rajiv Gandhi have been given passports and will be sent to Sri Lanka with the Central Government's permission. Murugan, Jayakumar, and Robert Bias filed a petition for identity cards, which the court ruled were not necessary for the Sri Lankan embassy. T. Sudendraraja, also known as Shantan, who was released in the same case, died on February 28 last year.
-
-🟩
-
-The Tamil Nadu government has said that three Sri Lankan Tamils who have been released in the murder case of former Prime Minister Rajiv Gandhi have been given passports.
-
-The Tamil Nadu government has informed the Madras High Court that a letter has been written to the Central Government of India seeking permission to send them to Sri Lanka by the Sri Lankan Embassy.
-
-Accordingly, the Tamil Nadu government has informed the court that Murugan, Jayakumar and Robert Bias will be sent to Sri Lanka within a week with the permission of the Central Government of India.
-
-The Tamil Nadu government has presented these issues in court on Tuesday (26) when Murugan, who was staying in the Trichy camp, filed a petition in the Madras High Court seeking to issue a identity card.
-
-In his petition, Murugan stated that he had to get a visa to go to Britain to live with his daughter and that the photo card with the photo is compulsory.
-
-...
-
-[Data](articles/472ae1d1.json)
-
-[Extended Data](ext_articles/472ae1d1.ext.json)
 
 ---

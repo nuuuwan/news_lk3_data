@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 23:52:26**
+As of **2024-03-28 00:03:11**
 
 ## Newspaper Stats
 
-*Scraped **15,569** Articles*
+*Scraped **15,570** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 835
 economynextcom | 836
 islandlk | 854
 adalk | 1,333
-adaderanalk | 1,870
+adaderanalk | 1,871
 tamilmirrorlk | 1,871
 virakesarilk | 2,202
 dailymirrorlk | 2,404
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,569 (100.0%) of 15,569 articles have been extended.
+15,569 (100.0%) of 15,570 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### Nearly 4 tons of cocaine worth over $113 million seized off Colombia
+
+*2024-03-27 23:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98250/nearly-4-tons-of-cocaine-worth-over-113-million-seized-off-colombia) · `en`
+
+Authorities have announced the largest cocaine shipment seizure of the year in the Caribbean Sea off Colombia after military ships and planes chased down a speedboat holding almost four tons of the drug.
+
+In a joint operation between the Colombian Navy, the Colombian Air Force and the Joint Interagency Task Force of the United States Southern Command, authorities seized the cocaine — said to be worth more than $113 million — from the vessel near San Andrés Isla, according to the Colombian Navy. The navy released dramatic aerial video of the chase, during which it said the crew of the suspicious vessel “began evasive actions, throwing packages into the water.”
+
+...
+
+[Data](articles/17955f4a.json)
+
+---
 
 ### Mullaitivu District Health Services Director dies in accident
 
@@ -2273,23 +2287,5 @@ The Minister also said that the aim of this programme is to provide support to g
 [Data](articles/c5fdd587.json)
 
 [Extended Data](ext_articles/c5fdd587.ext.json)
-
----
-
-### Why are foreign envoys making a beeline to  the JVP?
-
-*2024-03-27 12:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Why-are-foreign-envoys-making-a-beeline-to-the-JVP/172-279650) · `en`
-
-The JVP misread the invite as the Indians had acknowledged that the party would be the next government in waiting and Anura Kumara, the prospective president.
-
-These days, the Janatha Vimukthi Peramuna (JVP)/National People’s Power (NPP) Leader Anura Kumara Dissanayake and top-level party stalwarts are busy receiving a beeline of foreign diplomats, who seem eager to know what is going through those elusive minds.
-
-That is an achievement for the party that languished on the sideline. Their luck has changed since the Indians showed a sudden interest and invited the JVP leadership to New Delhi, where they met, among others, Indian Foreign Minister S. Jaishankar and National Security Advisor Ajit Doval, and travelled to Modi’s home turf, Gujarat to learn the Gujarati model of development.
-
-...
-
-[Data](articles/0e95a68b.json)
-
-[Extended Data](ext_articles/0e95a68b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 11:33:40**
+As of **2024-03-27 11:52:43**
 
 ## Newspaper Stats
 
-*Scraped **15,447** Articles*
+*Scraped **15,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,21 +12,21 @@ colombotelegraphcom | 139
 bbccomsinhala | 164
 dbsjeyarajcom | 193
 newsfirstlk | 363
-economynextcom | 832
 dailyftlk | 835
+economynextcom | 836
 islandlk | 854
 adalk | 1,316
 tamilmirrorlk | 1,853
 adaderanalk | 1,853
 virakesarilk | 2,179
-dailymirrorlk | 2,385
-adaderanasinhalalk | 2,481
+dailymirrorlk | 2,386
+adaderanasinhalalk | 2,482
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,439 (99.9%) of 15,447 articles have been extended.
+15,447 (100.0%) of 15,453 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,73 +50,145 @@ That is an achievement for the party that languished on the sideline. Their luck
 
 ---
 
-### නිලන්ත ජයවර්ධනට එරෙහි පෙත්සම සලකා බැලීමට දින දෙයි
+### නෞකා අනතුරින් 6ක් අතුරුදන්
 
-*2024-03-27 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194986) · `si`
+*2024-03-27 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194987) · `si`
 
-පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාර සිද්ධිය සම්බන්ධයෙන් රාජ්‍ය බුද්ධි සේවයේ හිටපු ප්‍රධානී නිලන්ත ජයවර්ධන මහතාට එරෙහිව අපරාධ නීතිය යටතේ නඩු පවරන ලෙසත් ඔහුට එරෙහිව විනය ක්‍රියාමාර්ග ගන්නා ලෙසත් නියෝග නිකුත් කරන්නැයි ඉල්ලා ගොනුකර ඇති පෙත්සමක් සලකා බැලීම සඳහා ලබන මැයි මස 28 වනදා කැඳවන ලෙස අභියාචනාධිකරණය අද (27) නියෝග කළේය.
+කොළඹ වරාය බලා එමින් තිබූ භාණ්ඩ ප්‍රවාහන නෞකාවක් අමෙරිකාවේ බැල්ටිමෝ හි පාලමක ගැටී සිදුවූ අනතුරින් පුද්ගලයින් හය දෙනෙකු අතුරුදන් වී තිබේ.
 
-මෙම පෙත්සම අද සෝභිත රාජකරුණා සහ ධම්මික ගනේපොළ යන මහත්වරුන් ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+වසර 47ක් පමණ පැරණි "Francis Scott Key" පාලමෙහි නෞකාව ගැටීමට සුළු වේලාවකට පෙර එම නැවෙහි විදුලිය විසන්ධි වී තිබුණි.
 
-එම අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරල් ජනක බණ්ඩාර මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම කරුණට අදාළව තවත් රිට් පෙත්සමක් දෙකක් අභියාචනාධිකරණය හමුවේ ගොනුකර තිබෙන බව පැවසුවේය.
+ඒ සම්බන්ධයෙන් හදිසි දැනුම්දීම් කිරීමට නැවෙහි කාර්ය මණ්ඩලය කටයුතු කර තිබූ අතර ඒ වනවිටත් පමා වී තිබුණි.
 
-කෙසේ වෙතත් මෙම පෙත්සම පිළිබඳව අධ්‍යයනය කර කරුණු දැක්වීම සඳහා දිනයක් ලබා දෙන ලෙසත් නියෝජ්‍ය සොලිසිටර් ජෙනරාල්වරයා අධිකරණයෙන් ඉල්ලා සිටියේය.
+විදෙස් වාර්තා සඳහන් කළේ, අනතුරට ලක්වන අවස්ථාවේදී දී නෞකාවේ කාර්ය මණ්ඩලයේ 22කු එහි සිට ඇති බවය.
 
-ඒ අනුව අදාළ පෙත්සම මැයි මස 28 වනදා කැඳවන ලෙස විනිසුරු මඩුල්ල නියෝග කළේය.
+ඉන්දීය ජාතිකයින් වන සියලුදෙනාට කිසිදු අනතුරක් සිදුව නොමැති බව සඳහන්ය.
 
-...
+අතුරුදන් වූ පුද්ගලයින් සෙවීම සඳහා නෞකාව අනතුරට ලක්වූ ප්‍රදේශයේ කිමිදුම්කරුවන් විසින් මෙහෙයුම් ආරම්භ කර තිබේ.
 
-[Data](articles/71512ef7.json)
+අතුරුදන් වී ඇත්තේ පාලමේ නඩත්තු කටයුතුවල නිරතවෙමින් සිටි පිරිසක් බව විදෙස් වාර්තා සඳහන් කළේය.
+
+අධික ශීත කාලගුණය හා පාලමේ සුන්බුන් අතුරුදන් වූවන් සෙවීමේ මෙහෙයුම්වලට බාධාවක් වී ඇතැයි ද විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+◼️
+
+[Data](articles/358c1ff9.json)
 
 ---
 
-### மிகப்பெரிய பெண்கள் வைத்தியசாலை திறப்பு
+### Petition against Nilantha Jayawardena will be considered
+
+*2024-03-27 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194986) · `si`
+
+The Court of Appeal has ordered the petition against Nilantha Jayawardena, former Chief Justice, to be considered. The petition, filed by Sobhitha Rajakaruna and Dhammika Ganepola, is set for review on May 28th.
+
+🟩
+
+Court of Appeal today (27) ordered the former Chief Justice of the State Intelligence Legal against the Criminal Law on the Easter terrorist attack on the terrorist attack.Did.
+
+The petition was called before the Court of Appeal, which is from Sobhitha Rajakaruna and Dhammika Ganepola today.
+
+Deputy Solicitor General Janaka Bandara appearing on behalf of the Attorney General said that another writ was filed in the courts with the Court of Appeal.
+
+However, the Deputy Solicitor General asked the court to study and give a date to study the petition and give a date to study the petition.
+
+The panel of judges ordered that the petition was held on 28th May.
+
+The petition has been presented by the Hon. Jude Vernon Rohan Silva, the Hon.
+
+The IGP, Senior DIG Nilantha Jayawardena and the Attorney General have been named as respondents.
+
+◼️
+
+[Data](articles/71512ef7.json)
+
+[Extended Data](ext_articles/71512ef7.ext.json)
+
+---
+
+### The largest women's hospital opening
 
 *2024-03-27 11:18:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிகப்பெரிய-பெண்கள்-வைத்தியசாலை-திறப்பு/175-335246) · `ta`
 
-இலங்கை மற்றும் தெற்காசியாவிலேயே மிகப் பெரிய மகப்பேறு மருத்துவமனையான காலி, கராப்பிட்டியவில் ஜேர்மன்-இலங்கை நட்புறவு ரீதியிலான பெண்கள் மருத்துவமனை இன்று காலை ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் திறந்து வைக்கப்பட்டதாக ஜனாதிபதி ஊடகப் பிரிவு (PMD) தெரிவித்துள்ளது. .
+President Ranil Wickremesinghe inaugurated the German-Sri Lankan Friendship Hospital in Galle, Sri Lanka, featuring 640 beds, six surgical halls, and modern facilities.
 
-மருத்துவமனையில் 640 படுக்கைகள், ஆறு அறுவை சிகிச்சை அரங்குகள், அவசர சிகிச்சை பிரிவுகள், தீவிர சிகிச்சை, குழந்தைகள் பிரிவு மற்றும் நவீன வசதிகள் பலவும் உள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+President Ranil Wickremesinghe has opened the German-Sri Lankan Friendship Hospital in Galle, Galle, Galle, Sri Lanka and South Asia, the Presidential Media Unit (PMD). .
+
+The hospital has 640 beds, six surgical halls, emergency care units, intensive care, children's division and many modern facilities.
 
 ◼️
 
 [Data](articles/fe1f0e7e.json)
 
+[Extended Data](ext_articles/fe1f0e7e.ext.json)
+
 ---
 
-### நாடாளுமன்ற தேர்தல் இந்த வருடம் நடைபெற்றாலும் ஜனாதிபதி தேர்தல் உரிய காலத்தில்- தேர்தல் ஆணையாளர்
+### Even though the parliamentary election is held this year, the presidential election is in time- the Commissioner
 
 *2024-03-27 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/179805) · `ta`
 
-நாடாளுமன்ற தேர்தல் இந்த வருடம் நடைபெற்றாலும் ஜனாதிபதி தேர்தல் உரிய காலத்தில் அதாவது செப்டம்பர் 17 ம் திகதிக்கும் ஒக்டோபர் 17ம் திகதிக்கும் இடையில் நிச்சயமாக நடைபெறும் என தேர்தல்கள் ஆணையாளர் ஆர்எம்ஏஎல் ரத்நாயக்க தெரிவித்துள்ளார்.
+Despite parliamentary elections this year, the presidential election is scheduled for September 17 to October 17. Commissioner RMAL Ratnayake emphasized the need to hold elections in a timely manner, despite concerns about holding two elections within a few months. He also stated that the parliamentary elections would not impact the presidential election.
 
-ஜனாதிபதி நாடாளுமன்றத்தை கலைத்தால் நாடாளுமன்ற தேர்தலை நடத்துவதை தவிர வேறு வழியில்லை என குறிப்பிட்டுள்ள அவர் நாடாளுமன்ற கலைக்கப்பட்டால் தேர்தலை நடத்த முடியாது என நாங்கள் தெரிவிக்க முடியாது அதனைநடத்தவேண்டும் என அவர் தெரிவித்துள்ளார்.
+🟩
 
-ஒரு சில மாதங்களிற்குள் இரண்டு தேர்தல்களை நடத்துவதில்ஏதேனும் பிரச்சினை உள்ளதா என்ற கேள்விக்கு பிரச்சினைகள் காணப்பட்டாலும் நாங்கள் உரிய விதத்தில் நாங்கள் அவற்றைகையாண்டு தேர்தலை நடத்தவேண்டும் என அவர் குறிப்பிட்டுள்ளார்.
+Elections Commissioner RMAL Ratnayake said that even if the parliamentary elections are held this year, the presidential election will be held between September 17 and October 17.
 
-நாடாளுமன்ற தேர்தலை நடத்தவேண்டியுள்ளதால் ஜனாதிபதி தேர்தலைநடத்துவதில் எந்த தாக்கமும் ஏற்படாது அது உரியநேரத்தில் இடம்பெறும்எனவும் தேர்தல் ஆணையாளர் தெரிவித்துள்ளார்.
+He said that if the president dissolves parliament, there is no choice but to hold a parliamentary election, he said.
 
-...
+He said that even though there are problems with the question of whether there is any problem in holding two elections within a few months, we should hold them in a timely manner.
+
+The Commissioner of Elections also said that there would be no impact on the presidential election as the parliamentary elections were to be held.
+
+He also announced the announcement that the presidential election will be held on September 17 to October 17, at the end of July or in August.
+
+◼️
 
 [Data](articles/e4aaed31.json)
 
+[Extended Data](ext_articles/e4aaed31.ext.json)
+
 ---
 
-### உத்தேச தேசிய உயர்கல்வி அபிவிருத்தி ஆணைக்குழுவை அமைக்கும் பணி துரிதப்படுத்தப்பட்டு வருகிறது : கே. ஸ்ரீபவன் குழுவின் அவதானிப்புகள் அடங்கிய அறிக்கை அமைச்சுக்கு - சுரேன் ராகவன்
+### Windy Gunathilaka wins best song award for ’Ayo Sami’
+
+*2024-03-27 11:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Windy-Gunathilaka-wins-best-song-award-for-Ayo-Sami/108-279702) · `en`
+
+Colombo, March 27 (Daily Mirror) - Windy Gunathilaka, who sings the Sri Lankan Tamil song "Aiyo Sami", has won the award for the Best Sensational Song of the Year - 2023 at the 16th Edison Awards held in Chennai, South India.
+
+After receiving the award Windy Gunathilaka arrived at the Katunayake International Airport last night aboard SriLankan Air flight UL 218.
+
+This award ceremony is held to evaluate international films and songs, and this year’s award ceremony was held on March 24 in Chennai, India. Pothuvil Azmin who wrote this song and Sanuka Wickramasinghe who composed the music for this song also joined the occasion of receiving these awards.
+
+◼️
+
+[Data](articles/4445ac66.json)
+
+---
+
+### The process of setting up the proposed National Higher Education Development Commission is being accelerated: Q. Report of observations of the Sripavan Group to the Ministry - Suren Raghavan
 
 *2024-03-27 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179803) · `ta`
 
-பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவுக்குப் பதிலாக தேசிய உயர்கல்வி அபிவிருத்தி ஆணைக்குழுவை அமைப்பதற்கான, முன்னாள் பிரதம நீதியரசர் கே.ஸ்ரீபவன் தலைமையிலான குழுவின் அவதானிப்புகள் அடங்கிய அறிக்கை அமைச்சிடம்  செவ்வாய்க்கிழமை (26) கையளிக்கப்பட்டதாக உயர்கல்வி இராஜாங்க அமைச்சர் கலாநிதி சுரேன் ராகவன் தெரிவித்தார்.
+Dr. Suren Raghavan, Higher Education Minister, accelerates the setup of the National Higher Education Development Commission, replacing the University Grants Commission, with a report from the Sripavan Group. The commission aims to address issues like delayed student enrollment and lack of classroom facilities. Alternative solutions include renovating buildings in Ratmalana and Kelaniya areas.
 
-அது தொடர்பான அறிக்கையை ஆராய்ந்த பின்னர் தேசிய உயர்கல்வி அபிவிருத்தி ஆணைக்குழுவை இவ்வருடத்தில் நிறுவ முடியும் எனவும் இராஜாங்க அமைச்சர் மேலும் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில்  செவ்வாய்க்கிழமை நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே உயர் கல்வி இராஜாங்க அமைச்சர் சுரேன் ராகவன் இதனைத் தெரிவித்தார்.
+Higher Education Minister Dr. Suren Raghavan said that a report containing a committee headed by former Chief Justice K. Sripavan to set up the National Higher Education Development Commission instead of the University Grants Commission was handed over to the Ministry on Tuesday (26).
 
-2021-2022 ஆம் ஆண்டைப் பொறுத்தவரை, உயர்தரத்தில் சித்தி பெற்ற மாணவர்கள் 17 பல்கலைக்கழகங்களில் பதிவு செய்யப்பட்டுள்ளனர். ஆனால் அந்த வருடங்களில் திட்டமிட்டபடி மாணவரை இணைக்கும் பணி நடக்கவில்லை என தகவல்கள் வெளியாகி வருகின்றன. ஆனால் அந்த தகவல்கள் அனைத்தும் பொய்யானவை என்பதை உறுதிப்படுத்த உரிய ஆவணங்கள் என்னிடம் உள்ளன.
+The Minister of State further stated that the National Higher Education Development Commission could be established this year after reviewing the report.
+
+Higher Education Minister Suren Raghavan made this statement at a media briefing held at the Presidential Media Center on Tuesday.
+
+As of 2021-2022, the high quality students have been registered in 17 universities. But in those years, there are reports that the task of connecting the student as planned in those years. But I have the relevant documents to confirm that all those information is false.
 
 ...
 
 [Data](articles/4f383f09.json)
+
+[Extended Data](ext_articles/4f383f09.ext.json)
 
 ---
 
@@ -192,6 +264,22 @@ The six storied hospital consists of six operating theaters, intensive treatment
 
 ---
 
+### Lack of access to finance major barrier to women’s empowerment in Sri Lanka: study
+
+*2024-03-27 10:49:00* · [`economynextcom`](https://economynext.com/lack-of-access-to-finance-major-barrier-to-womens-empowerment-in-sri-lanka-study-156249/) · `en`
+
+ECONOMYNEXT — Research by free market think tank Advocata has found that persistent disparities in financial and digital literacy are major hindrances to women achieving financial independence in Sri Lanka, a country whose female labour force participation is half of that of men.
+
+The study has found that, despite a commendable literacy rate, disparities in financial and digital literacy hinders access to financial services.
+
+The Advocata Institute said in a statement on the study that Sri Lanka has been struggling with inadequate digital infrastructure and a regulatory environment where vulnerable populations, notably women, face exploitation and marginalisation which contributed to restricting women’s access to finance. Other barriers, which include the lack of digital and financial literacy, drove consumers, especially women, towards informal financial services.
+
+...
+
+[Data](articles/a1bd86f6.json)
+
+---
+
 ### Prasanna is demanding a thorough investigation into the abolish -abroad of the staff behind the removal of Kota's post.
 
 *2024-03-27 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/179800) · `ta`
@@ -218,59 +306,97 @@ I have lodged a complaint with the Human Rights Commission.
 
 ---
 
-### SLPP-யின் முக்கிய கூட்டம் இன்று
+### SLPP's main meeting today
 
 *2024-03-27 10:39:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SLPP-யின்-முக்கிய-கூட்டம்-இன்று/175-335243) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுனவின் நிறைவேற்று சபை இன்று (27) மஹிந்த ராஜபக்ஷவின் உத்தியோகபூர்வ இல்லத்தில் கூடவுள்ளது.
+The Sri Lanka Peoples Alliance (PA) Executive Council meets today at Mahinda Rajapaksa's residence, focusing on political debates and party affairs.
 
-''ஸ்ரீலங்கா பொதுஜன பெரமுனவின் நிறைவேற்று சபையானது கட்சியின் தலைவர் மஹிந்த ராஜபக்ஷவின் உத்தியோகபூர்வ இல்லத்தில் பிற்பகல் 3 மணிக்கு கூடவுள்ளது. பொதுவாக நிறைவேற்று சபையானது அரசியலமைப்பு ரீதியாக அவசியமான சில சூழ்நிலைகளில் கூடும்.
+🟩
 
-அதன்படி இது வழமையான கூட்டமாகும். தற்போதைய அரசியல் நிலவரங்கள் மற்றும் கட்சியின் உள் விவகாரங்கள் குறித்து பல விவாதங்கள் நடைபெறம்'' என தெரிவித்தார். R
+The Executive Council of the Sri Lanka PA will be held today (27) at the official residence of Mahinda Rajapaksa.
+
+“The Executive Council of the Sri Lanka Peoples Alliance (PA) will meet at the official residence of party leader Mahinda Rajapaksa at 3 pm. Generally, the Executive Council may gather in certain circumstances that are constitutionally essential.
+
+Accordingly this is the usual meeting. There will be many debates on the current political situation and the internal affairs of the party. ”. Remble
 
 ◼️
 
 [Data](articles/19e46e27.json)
 
+[Extended Data](ext_articles/19e46e27.ext.json)
+
 ---
 
-### දඹුල්ලේ එළවළු මිල පාලනය යාපනය ගොවීයෝ තම අතට ගනිති
+### The number of people in Jaffna to control the price of vegetable in Dambulla
 
 *2024-03-27 10:26:36* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ලේ-එළවළු-මිල-පාලනය-යාපනය-ගොවීයෝ-තම-අතට-ගනිති/11-408821) · `si`
 
-දඹුල්ල ආර්ථික මධ්යස්ථානයට මේ  දිනවල එළවළු විශාල වශයෙන් ලැබෙමින් පවතිම නිසා  සෑම එළවළුවක්ම තොග මිල 27 දින වන විට විශාල වශයෙන් ‍පහත වැටී ඇතැයි ගොවීහු පෙන්වා දෙති.
+Jaffna's vegetable control impacts Dambulla's prices. Farmers in Dambulla Economic Center report a significant drop in vegetable stock prices, including red onions. The center receives vegetables from Jaffna, affecting retail and wholesale prices.
 
-එමෙන්ම දඹුල්ල ආර්ථික මධ්‍යස්ථානය යාපනය අර්ධද්වීපයෙන් 27දින වන විට විශාල වශයෙන් රතුළූණු තොග  ඇතුළු එලවලු තොග ලැබීමත් සමග මේ තත්වය උදාවී තිබේ.
+🟩
 
-කිලෝවක් රුපියල් 350කට අලෙවි වූ රතුළූණු කිලෝ එක 27 දින වනවිට රුපියල් 110 ත්  රුපියල් 230 දක්වා වූ අඩු මිල ගණන් යටතේ අලෙවිවන බව වෙළද සංගමය කියයි.
+Farmers point out that the stock prices have fallen in large numbers of vegetables at the Dambulla Economic Center.
 
-යාපනය අර්ධද්වීපයෙන් දිනපතා අති විශාල එළවළු තොග ලැබීම දිවයිනේ අනෙකුත් ප්‍රදේශවලින් සිය එළවලු  නිෂ්පාදන විශාල වශයෙන් ලැබෙමින් පැවතීමත් සමඟ සෑම එළවළුවක්ම විශාල වශයෙන් තොග මිල පහත වැටී තිබෙන බව  පෙන්වා දෙන ව්‍යාපාරිකයන් කියා සිටියේ වහාම  එළවළු තොග රැගෙන ගොස් අලෙවි කරන අතරමැදි කණ්ඩායම් සහ සිල්ලරට  අලෙවි කරන කණ්ඩායම්   සාමාන්ය ජනතාවට එහි වාසිය ලබාදීමට පහසු මිල ගණන් යටතේ අලෙවි කිරීමට වග බලා ගත යුතු බවයි.
+The Dambulla Economic Center is to receive vegetables and vegetables, including the shares, including the Reductivity of the Colombo peninsula.
 
-දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ 27 දීන එළවළු කිලෝවක පැවති තොග මිල
+A kilo of red onions sold for Rs.
+
+The businessmen who point out that large vegetables are largely receiving large vegetables daily from the Jaffna Peninsula have said that the large bulk teams and the retail prices have been sold immediately.It should be made sure to be sold at easy prices to provide it.
+
+Wholesale price held at a kilo of Dambulla Economic Center 27
 
 ◼️
 
 [Data](articles/f384a3cb.json)
 
+[Extended Data](ext_articles/f384a3cb.ext.json)
+
 ---
 
-### ලංකාවේ ණය ප්‍රතිව්‍යුහගත කිරීමට චීනයෙන් සුබවාදී පිළිතුරක්
+### China is a positive back in Sri Lanka's credit
 
 *2024-03-27 10:15:41* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-ණය-ප්‍රතිව්‍යුහගත-කිරීමට-චීනයෙන්-සුබවාදී-පිළිතුරක්/11-408820) · `si`
 
-ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලියට චීනය අඛණ්ඩව සහය වන බවත් ශ්‍රී ලංකාවේ ආර්ථිකය දියුණු කිරීමට සහාය වන බවත් චීන අග්‍රාමාත්‍ය ලි කියැන් (Li Qiang) අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතාට සහතික විය.
+China supports Sri Lanka's credit restructuring, economic recovery, and adherence to the 'one China' policy. Prime Minister Dinesh Gunawardena thanked China for its support on independence, sovereignty, and international issues.
 
-2024.03.26 දින බීජිං හි පැවති ඉහළ පෙළේ ද්විපාර්ශ්වික සාකච්ඡාවලදී චීන අග්‍රාමාත්‍යවරයා ආර්ථික පසුබෑමකින් පසු ශ්‍රී ලංකාව අත් කරගත් ආර්ථික ප්‍රගතිය අගය කළේය.
+🟩
 
-"චීනය සහ ශ්‍රී ලංකාව අතර මිත්‍රත්වය ශක්තිමත් කිරීම සඳහා ඔබ සහ ඔබේ පවුලේ අය අඛණ්ඩව කටයුතු කළා" යනුවෙන් පවසමින් අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා වෙත ඔහු සිය කෘතඥතාව පළ කළේය.
+Chinese Prime Minister Dinesh Gunawardena assured that China is supporting the restructuring process of Sri Lanka.
 
-ශ්‍රී ලංකාව ‘එක් චීනයක්’ ප්‍රතිපත්තිය අඛණ්ඩව අනුගමනය කරන බවත් ජාත්‍යන්තර සමුළුවලදී චීනයට සහාය දක්වන බවත් ඔහු පෙන්වා දුන්නේය.
+In the top bilateral talks in Beijing, Top-level bilateral discussions on 26.03.23.2003, the Prime Minister appreciated the economic progress that Sri Lanka had benefited after an economic downturn.
 
-කටුනායක ජාත්‍යන්තර ගුවන්තොටුපළ, හම්බන්තොට වරාය සහ කොළඹ වරාය නගරය සංවර්ධනය කිරීම සඳහා තම රට සහාය දෙන බව අග්‍රාමාත්‍ය ලි කීයැන් පැවසීය.
+"You and your family continued to strengthen the friendship between China and Sri Lanka," he expressed his gratitude to Prime Minister Dinesh Gunawardena.
+
+He pointed out that Sri Lanka continues to follow the 'one China' policy and supports China at international conventions.
+
+The Tamil Indian Airport is supported by the Prime Minister LIKE, the Prime Minister Lihaya said.
+
+Prime Minister Gunawardena thanked China for supporting Sri Lanka's independence, territorial integrity and sovereignty and international political issues or economic problems.
 
 ...
 
 [Data](articles/05954760.json)
+
+[Extended Data](ext_articles/05954760.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 301.00/20 to the US dollar
+
+*2024-03-27 10:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-301-00-20-to-the-us-dollar-156247/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 301.00/20 to the US dollar in the spot forex market on Wednesday, stronger from 301.90/302.00 on Tuesday, dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 was quoted at 11.25/35 percent from 11.30/40 percent.
+
+A bond maturing on 15.12.2028 was quoted at 12.05/10 percent from 12.10/15 percent.
+
+The Colombo Stock Exchange opened up: The All Share Price Index was up 0.81 percent at 11,427, and the S&P SL20 was up 1.09 percent at 3,298. (Colombo/Mar27/2024)
+
+◼️
+
+[Data](articles/00f248ba.json)
 
 ---
 
@@ -419,6 +545,26 @@ It is understood that “Muthuwa”, who operates from overseas, was complicit i
 [Data](articles/b8b0d49f.json)
 
 [Extended Data](ext_articles/b8b0d49f.ext.json)
+
+---
+
+### Sri Lanka to remunerate overnight excess reserves daily from April 01
+
+*2024-03-27 09:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-remunerate-overnight-excess-reserves-daily-from-april-01-156244/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank said it will remove restrictions on paying interest on overnight cash balances of banks through its standing deposit facility (SDF) from April 01.
+
+The standing deposit facility forms a lower policy rate corridor by preventing short-term rates from falling close to zero when dollars a purchased during a balance of payments surplus generated from reduced domestic credit.
+
+“Banks were only given the opportunity to go the standing deposit facility 10 times,” Governor Weerasinghe told reporter in Colombo in Sinhalese.
+
+“With the removal of the restrictions, we expect short term rates to be determined by the market to become normal and improve transmission of monetary policy to be easier.”
+
+During the last currency crisis and external default, several risk averse banks deposited large volume of money in the SDF window instead of lending in the interbank bank due to risk perceptions or buying government bonds as happened during earlier crises.
+
+...
+
+[Data](articles/5ed4ce3e.json)
 
 ---
 
@@ -635,6 +781,26 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/d71a4b9b.json)
 
 [Extended Data](ext_articles/d71a4b9b.ext.json)
+
+---
+
+### Sri Lanka does not look at real effective exchange rate: CB Governor
+
+*2024-03-27 07:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-does-not-look-at-real-effective-exchange-rate-cb-governor-156227/) · `en`
+
+ECONOMYNEXT – Sri Lanka does not look at the real effective exchange rate, but allows the rupee to move on demand and supply, based on the flexible inflation targeting framework, Central Bank Governor Nandalal Weerasinghe said.
+
+Sri Lanka’s rupee had been allowed to appreciate from March 2023, amid deflationary monetary policy, in contrast to earlier stabilization programs, where the depreciated rupee has been prevented from strengthening despite and reserves were collected only at the depreciated rate.
+
+“We do not look at the real effective exchange rate,” Governor Weerasinghe said. “This is market driven, demand and supply.”
+
+“These days there is a lot of supply, as a result we have been building our position.”
+
+“The exchange rate is determined, mostly based on the market, short term demand and supply. And long term mainly on market fundamentals, current account deficit. And the long term is mainly market fundamentals, the current account deficit.
+
+...
+
+[Data](articles/d897dd49.json)
 
 ---
 
@@ -2067,151 +2233,5 @@ Preliminary investigations have revealed that a person who is about 150 meters c
 [Data](articles/d3bf3532.json)
 
 [Extended Data](ext_articles/d3bf3532.ext.json)
-
----
-
-### A congratulator for the country to the country of Great Bank
-
-*2024-03-26 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194970) · `si`
-
-Dr. Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, predicts positive economic growth for the next 12 months. The Central Bank has reduced the main deposit facility ratio and the Permanent Credit Facility. By February 2024, Sri Lanka's official asset squad is expected to be US $ 4.5 billion, with foreign scrutiny at US $ 964 million and tourism earnings at US $ 687 million. The rupee has increased by 6.7% against the dollar in 2024, with inflation expected to remain between 4% and 5%. The Central Bank has also reduced the Permanent Deposit Facility Rate and Regular Loan Facility ratios.
-
-🟩
-
-Central Bank Governor Dr. Nandalal Weerasinghe says that the country's economy will be able to achieve a positive growth in the next 12 months with the end of the last quarter of the year.
-
-The Central Bank of Sri Lanka has held a special press conference today, revealed facts about the current situation.
-
-The Central Bank has decided to reduce the main deposit facility ratio of the Central Bank and the Permanent Credit Facility at Rs.
-
-According to the latest reports, by the end of February 2024, US $ 4.5 billion was the official asset squad of the country.
-
-Sri Lanka's foreign scrutiny is US $ 964 million in the first two months of the year and the tourism earned from the tourism is US $ 687 million.
-
-The rupee has been increased by 6.7% over the dollar in 2024.
-
-An impressive percentage of inflation is expected to maintain a percentage of inflation between 4% and 5%.
-
-...
-
-[Data](articles/1e53c48d.json)
-
-[Extended Data](ext_articles/1e53c48d.ext.json)
-
----
-
-### Ark that came to Colombo in a big danger in America
-
-*2024-03-26 19:25:42* · [`adalk`](https://www.ada.lk/picture_story/කොළඹ-එන්න-ආපු-නැව-ඇමෙරිකාවේදී-ලොකු-අනතුරක/10-408816) · `si`
-
-An Ark from Sri Lanka, carrying Singapore Vidya's containers, collided with the Francis Scott Key Bridge in Baltimore, causing a bridge collapse. Nine people fell into the water, two were rescued, and search for others is ongoing.
-
-🟩
-
-A jacket carried out in Sri Lanka with the Singapore Vidya, Sri Lanka's containers were damaged by a iron bridge in Baltimore this morning.
-
-The video of the catchment of the vessel is collided with the catchment of Francis Scott Bridge.
-
-Nine people had fallen into the water by collapsing the bridge, and two of them rescued. Finding out other people is taking place.
-
-◼️
-
-[Data](articles/af8bdfc1.json)
-
-[Extended Data](ext_articles/af8bdfc1.ext.json)
-
----
-
-### Turkish Airlines increases flights from Istanbul to Colombo
-
-*2024-03-26 19:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Turkish-Airlines-increases-flights-from-Istanbul-to-Colombo/108-279646) · `en`
-
-Colombo, March 26 (Daily Mirror) - Turkish Airlines announced a significant enhancement in its flight services with the addition of its sixth weekly flight between Istanbul and Colombo.
-
-Effective 14th May 2024, Turkish Airlines will be increasing its weekly flights from Istanbul to Colombo, offering passengers more flexibility and convenience in their travel plans.
-
-This strategic decision comes as part of Turkish Airlines’ commitment to meeting the growing demand for air travel between the two destinations and offering the best possible connection to those who are travelling to Istanbul and beyond.
-
-Offering a seamless travel experience in both its full-flat bed business cabin and economy cabin in its wide-body aircraft, Turkish Airlines is known for its unparalleled levels of service excellence and exquisite culinary offerings on board while connecting travellers to 130 countries around the world.
-
-...
-
-[Data](articles/8a836fb6.json)
-
-[Extended Data](ext_articles/8a836fb6.ext.json)
-
----
-
-### Bank boss arrested for money robbery
-
-*2024-03-26 19:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194969) · `si`
-
-An Assistant Manager at a private bank was arrested for allegedly transferring 2022 million rupees illegally. Investigations revealed the suspect used his husband's account for transactions, including paying electricity bills. The suspect is suspected of defrauding Rs 100 million.
-
-🟩
-
-A Assistant Manager of a private bank of the CID and Commerce Investigation Unit has been arrested by the Criminal Investigation Department.
-
-The Finance and Commerce Investigation Unit of the Criminal Investigation Unit of the Criminal Investigation Unit has received a complaint that about 2022 million rupees have been illegally from 2022 to a private bank account.
-
-Accordingly, after the investigation, it was revealed that the bank has done the illegal money transfer by the Assistant Manager of the Bank.
-
-Investigations have revealed that the suspect is credited to his husband's account from a account that is cash paid to the Ceylon Electricity Bills to Electricity Bills.
-
-The suspect is suspected of defrauding Rs 100 million from the bank.
-
-The suspect was overwhelming to flee in Australia with the revelation of this fraud.
-
-Investigation officials said that she had sent her husband to Australia by spending Rs. 75 lakhs.
-
-...
-
-[Data](articles/12dea268.json)
-
-[Extended Data](ext_articles/12dea268.ext.json)
-
----
-
-### Join us again without being ridiculed from the United People's Power - Range Bandara
-
-*2024-03-26 19:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/179777) · `ta`
-
-UNP General Secretary Palitha Range Bandara invites former UNP members to return, emphasizing the party's open door. He criticizes the United People's Power for not providing a place for those who left UNP, accusing them of cowardice.
-
-🟩
-
-Those who have left the United National Party to the United People's Power are currently not given the right place. So I invite our friends to come back to their mother's house without being ugly from there. UNP General Secretary Palitha Range Bandara said that the door of the United National Party will always be open for them.
-
-He was speaking at a press conference which was held on Tuesday (26) at the UNP headquarters.
-
-I warmly invite our friends to break away from the United National Party and come back to their mother's home. Because they currently have no place in the United People's Power. So since our friends continue to be there, they will be cowardly. As the secretary of the Thai Party, I am responsible for this call. The door of the United National Party is always open for them.
-
-...
-
-[Data](articles/aca35eb2.json)
-
-[Extended Data](ext_articles/aca35eb2.ext.json)
-
----
-
-### Presidential election October first week
-
-*2024-03-26 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194968) · `si`
-
-President Ranil Wickremesinghe announced the presidential election for the first week of October, following recommendations from the Regional Cabinet.
-
-🟩
-
-President Ranil Wickremesinghe has informed that the presidential election will be constituted to the first week of October this year.
-
-According to political sources, the President has informed Cabinet Ministries.
-
-According to government sources, the recommendation of the Regional Cabinet has been announced by the President.
-
-◼️
-
-[Data](articles/9c3f1127.json)
-
-[Extended Data](ext_articles/9c3f1127.ext.json)
 
 ---

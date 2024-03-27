@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 22:50:35**
+As of **2024-03-27 23:03:03**
 
 ## Newspaper Stats
 
-*Scraped **15,566** Articles*
+*Scraped **15,567** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 854
 adalk | 1,333
 adaderanalk | 1,870
 tamilmirrorlk | 1,870
-virakesarilk | 2,200
+virakesarilk | 2,201
 dailymirrorlk | 2,404
 adaderanasinhalalk | 2,503
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,565 (100.0%) of 15,566 articles have been extended.
+15,566 (100.0%) of 15,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### சில்ஹெட் டெஸ்டில் தலா 2 சதங்கள் குவித்ததன்மூலம் தரவரிசையில் முன்னேறிய தனஞ்சய, கமிந்து
+
+*2024-03-27 22:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179848) · `ta`
+
+பங்களாதேஷுக்கு எதிராக சில்ஹெட்டில் நடைபெற்ற ஐசிசி உலக டெஸ்ட் சம்பியன்ஷிப் தொடரின் முதல் போட்டியில் தலா இரண்டு சதங்களை விளாசிய இலங்கை அணித் தலைவர் தனஞ்சய டி சில்வாவும் சக வீரர் கமிந்து மெண்டிஸும் ஐசிசி டெஸ்ட் துடுப்பாட்ட தரவரிசையில் முன்னேறியுள்ளனர்.
+
+தனஞ்சய டி சில்வா 15 இடங்கள் முன்னேறி அவரது கிரிக்கெட் வாழ்க்கையில் சிறந்த 14ஆவது இடத்தை அடைந்துள்ளார்.
+
+அதேவேளை, ஐசிசி டெஸ்ட் துடுப்பாட்ட தரவரிசையில் மீண்டும் பிரவெசித்துள்ள கமிந்து மெண்டிஸ் இணை 64ஆவது இடத்தில் உள்ளார்.
+
+இதே டெஸ்ட் போட்டியில் இரண்டாவது இன்னிங்ஸில் அரைச் சதம் குவித்த திமுத் கருணாரட்ன துடுப்பபாட்ட தரவரிசையில் தொடர்ந்தும் 7ஆம் இடத்தில் இருக்கிறார்.
+
+தனஞ்சய டி சில்வாவும் கமிந்து மெண்டிஸும் பங்ளகாதேஷுக்கு எதிரான சில்ஹெட் டெஸ்ட் கிரிக்கெட் போட்டியில் இரண்டு இன்னிங்ஸ்களிலும் சதங்கள் குவித்ததன்  மூலம்  டெஸ்ட் கிரிக்கெட் வரலாற்றில் இரண்டு இன்னிங்ஸ்களிலும்    சதங்கள் குவித்த மூன்றாவது ஜோடியாகினர்.
+
+...
+
+[Data](articles/e65e0a02.json)
+
+---
 
 ### Abans PLC clarifies: Local McDonald’s franchisee not under its umbrella
 
@@ -47,6 +67,8 @@ The majority shareholder of the said company is Rusi Pestonjee who owns a 98.73%
 ...
 
 [Data](articles/472eb7f7.json)
+
+[Extended Data](ext_articles/472eb7f7.ext.json)
 
 ---
 
@@ -2259,29 +2281,5 @@ The fire has been extinguished by the fire extinguisher.
 [Data](articles/61b6b75a.json)
 
 [Extended Data](ext_articles/61b6b75a.ext.json)
-
----
-
-### Two brothers arrested for selling cannabis in two parts of Nuwara Eliya
-
-*2024-03-27 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179809) · `ta`
-
-Two brothers from Badulla, aged 25 and 32, were arrested in Nuwara Eliya for selling cannabis. They were caught with 50 grams during a raid. The cannabis was sold in rental hostels near Nuwara Eliya, with rooms rented for short periods. The police are investigating the drug's source and distribution network.
-
-🟩
-
-Two brothers have been arrested by the Nuwara Eliya Police Criminal in the Nuwara Eliya Police Division and the Nuwara Eliya Police Division and the Nuwara Eliya Police Division and Kalukele have been selling cannabis drugs.
-
-The two men who seized cannabis have been seized and sold at two hotels during a raid search operation conducted yesterday (26) according to confidential information received by the Nuwara Eliya Police Criminal Investigation.
-
-The 25 and 32 -year -olds from the Badulla area have been arrested by the police said that 50 grams of cannabis has been rescued from the suspects.
-
-Initial investigations have revealed that the cannabis was mainly selling cannabis in the other day, with rental hostels near the main city of Nuwara Eliya and that the cannabis was continuously selling cannabis and that the rooms were being rented for two or three days a week for two or three days a week.
-
-...
-
-[Data](articles/d72e2f0b.json)
-
-[Extended Data](ext_articles/d72e2f0b.ext.json)
 
 ---

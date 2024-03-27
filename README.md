@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 17:18:05**
+As of **2024-03-27 17:34:30**
 
 ## Newspaper Stats
 
-*Scraped **15,525** Articles*
+*Scraped **15,527** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,48 +15,82 @@ newsfirstlk | 363
 dailyftlk | 835
 economynextcom | 836
 islandlk | 854
-adalk | 1,326
+adalk | 1,327
 adaderanalk | 1,865
 tamilmirrorlk | 1,867
 virakesarilk | 2,194
 dailymirrorlk | 2,392
-adaderanasinhalalk | 2,496
+adaderanasinhalalk | 2,497
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,520 (100.0%) of 15,525 articles have been extended.
+15,525 (100.0%) of 15,527 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### චීන ජනපතිගෙන් දිනේෂ් ට පොරොන්දුවක්
+### රුසියානු ප්‍රහාරයේ ප්‍රධාන සැකකරුවන් 4දෙනාගේ පවුල්වල සාමාජිකයන්වත් රැගෙන එයි
+
+*2024-03-27 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195004) · `si`
+
+රුසියාවේ මොස්කව් නුවරට ආසන්න ක්‍රෝකස් නගර ශාලා රඟහලට එල්ලවූ ත්‍රස්ත ප්‍රහාරයේ 08 වැනි සැකකරු ද ඊයේ අධිකරණයට ඉදිරිපත් කර රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+දශක දෙකකින් රුසියාවට එල්ල වූ දරුණුතම ත්‍රස්ත ප්‍රහාරය ලෙස සැලකෙන මේ ප්‍රහාරයේදී පුද්ගලයින් 139 දෙනෙකු ජීවිතක්ෂයට පත්වී 182 දෙනෙකු පමණ තුවාල ලැබූ බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ජනාධිපති ව්ලැදිමීර් පුටින් පස්වැනි වරටත් රුසියාවේ බලය තහවුරු කරගැනීමත් සමග එල්ල වූ මෙම ත්‍රස්ත ප්‍රහාරය, ඔහුට එල්ල වූ ප්‍රබලතම අභියෝගයක් ලෙසත් සැලකෙයි.
+
+ප්‍රහාරය ISIS සන්ධානය විසින් එල්ල කළ බවට සාක්ෂි ඇතැයි අමෙරිකාව සහ ප්‍රංශය ප්‍රකාශ කර තිබුණි.
+
+ජනපති පුටින් මෙය ඉස්ලාමීය අන්තවාදීන් එල්ල කළ ප්‍රහාරයක් බව පිළිගත්තද, ඔවුන් මෙහෙයවූයේ කවුරුන්ද යන්න ගැටලුකාරී බව කියා සිටියේය.
+
+ප්‍රහාරය සම්බන්ධයෙන් ඍජුවම සම්බන්ධ සැකකරුවන් 4 දෙනෙකු ඒ පිළිබඳ පාපොච්චාරණය කළ බව රුසියානු බලධාරීන් සඳහන් කරයි.
+
+සැකකරුවන් අධිකරණයට ඉදිරිපත් කිරීමේදී බරපතළ වධ බන්ධනවලට ලක්වී සිටි බව පෙනී ගිය කරුණකි.
+
+එහෙත් ඊයේ අධිකරණයට රැගෙන ආ 8 වැනි සැකකරුගේ කායික තුවාල කිසිවක් දක්නට ලැබී නොමැත.
+
+...
+
+[Data](articles/1e79c3d3.json)
+
+---
+
+### Chinese promise to Dinesh from President
 
 *2024-03-27 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195003) · `si`
 
-චීන ජනාධිපති ෂී ජින්පින් මහතා හා ශ්‍රී ලංකා අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා අතර හමුවක් අද (27) බෙයිජිං හි ග්‍රේට් හෝල්හි දී පැවැත්විණි.
+Chinese President Xi Jinping and Prime Minister Dinesh Gunawardena met, emphasizing peace, mutual respect, and financial support for Sri Lanka's development. Xi assured ongoing support for Sri Lanka's political and socio-economic progress, defending its independence and sovereignty. The Prime Minister thanked Xi for support during economic crises and restructuring facilities, highlighting progress in various fields.
 
-ජාත්‍යන්තර කටයුතුවලදී රටක අභ්‍යන්තර කටයුතුවලට ඇඟිලි නොගසන මිත්‍රත්වය, සාමය, අන්‍යෝන්‍ය ගෞරවය සහ පස්විධ ප්‍රතිපත්ති යටතේ ඉදිරියටත් ක්‍රියාකිරීමට දෙරටම එකඟවිය.
+🟩
 
-ද්විපාර්ශික සබඳතා, රටවල් අතර අන්‍යෝන්‍ය ගෞරවය සහ අන්‍යෝන්‍ය ඵලදායීත්වය මත පැවැත්විය යුතු බව අවධාරණය කරමින් එම ප්‍රතිපත්තිය අනුව ක්‍රියා කිරීම  දෙරටටම හොඳ ආදර්ශයක් සපයන බව මෙහිදී අවධාරණය කෙරිණි.
+Chinese President Xi Ginepin and Prime Minister Dinesh Gunawardena held at Great Hall today (27).
 
-ශ්‍රී ලංකාවේ සංවර්ධනයට අවශ්‍ය යෝජනා ක්‍රම ඉදිරිපත් කළ වහාම ඊට චීනයේ සහයෝගය ලබාදෙන බවද චීන ජනාධිපතිවරයා මෙහිදී සහතික කළේය.
+Internationally, it is agreed to act in the internal affairs of a country, peace, mutual respect, and in the financing.
 
-දේශපාලන සහ සමාජ ආර්ථික ප්‍රගතිය සඳහා ශ්‍රී ලංකාව දරණ ප්‍රයත්නයන්ට චීනයේ අඛණ්ඩ සහයෝගය ලබා දෙන බවට චීන ජනාධිපතිවරයා  සහතික විය.
+It was emphasized that bilateral relations should be a good example for both of the principles to be conducted on mutual respect and mutual effectiveness.
 
-මෙහිදී  චීන ජනාධිපතිවරයා කියා සිටියේ ශ්‍රී ලංකාවේ ස්වාධීනත්වය, භෞමික අඛණ්ඩතාව සහ ස්වෛරී භාවය ආරක්ෂා කරගැනීම වෙනුවෙන් සැම විට ම චීනය පෙනී සිටින බව යි.
+The Chinese President certified that China will be supported by the proposals for the development of Sri Lanka.
+
+The Chinese President assured China's continuing support for Sri Lanka's efforts to political and socio-economic progress.
+
+The President of the Finance President stated that China is always standing for the defending of Sri Lanka's independence, territorial integrity and sovereignty.
+
+The Chinese President has thanked the Chinese President for the assistance of the Prime Minister's father's father.
 
 ...
 
 [Data](articles/c271ea08.json)
 
+[Extended Data](ext_articles/c271ea08.ext.json)
+
 ---
 
-### පාචනය නිසා අඹුසැමි යුවළ මරුට
+### පාචනය නිසා අඹුසැමි යුවළක් මරුට
 
-*2024-03-27 16:55:49* · [`adalk`](https://www.ada.lk/breaking_news/පාචනය-නිසා-අඹුසැමි-යුවළ-මරුට/11-408832) · `si`
+*2024-03-27 16:55:49* · [`adalk`](https://www.ada.lk/breaking_news/පාචනය-නිසා-අඹුසැමි-යුවළක්-මරුට/11-408832) · `si`
 
 අගලවත්ත ප්‍රෙද්ශයේ අඹු සැමි යුවලක් හදිසියේ ඇතිවූ වමනය හා පාචන රෝගී තත්ත්වයක් හේතුවෙන්  මිය ගොස් ඇති බව වාර්තාවේ. සැමියා නිවසේදීත් බිරිඳ  කළුතර නාගොඩ රෝහලට ඇතුළත් කර  ප්‍රතිකාර ලබමින් සිටියදි අද  27 මිය ගොස් ඇතැයි පොලිසිය පවසයි.
 
@@ -64,7 +98,27 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
+[Data](articles/5b1d227f.json)
+
+---
+
+### Couple killed due to diarrhea
+
+*2024-03-27 16:55:49* · [`adalk`](https://www.ada.lk/breaking_news/පාචනය-නිසා-අඹුසැමි-යුවළ-මරුට/11-408832) · `si`
+
+A couple in Agalawatta died from sudden vomiting and disorder. The husband died at home, and the wife was hospitalized in Kalutara.
+
+🟩
+
+Meeting of a couple in Agalawatta area has died due to a sudden vomit and disorder condition. The husband has died in the house at home and his wife was admitted to the Nagoda hospital in Kalutara.
+
+Wanni Arachchige Upali Dias, a resident of Aragalawatta, the police said.
+
+◼️
+
 [Data](articles/865a3599.json)
+
+[Extended Data](ext_articles/865a3599.ext.json)
 
 ---
 
@@ -83,6 +137,8 @@ The National Student Parliament comprises two representatives elected from each 
 ...
 
 [Data](articles/2b81f94b.json)
+
+[Extended Data](ext_articles/2b81f94b.ext.json)
 
 ---
 
@@ -554,17 +610,23 @@ The people of Mullaitivu Keppapilavu handed over a Mahajar to the Mullaitivu Dis
 
 ---
 
-### රන්ජන්ට එරෙහි තවත් නඩුවක තීන්දුව ජුනි 12දා
+### Another case against Ranjan's verdict on June 12
 
 *2024-03-27 15:24:52* · [`adalk`](https://www.ada.lk/breaking_news/රන්ජන්ට-එරෙහි-තවත්-නඩුවක-තීන්දුව-ජුනි-12දා/11-408829) · `si`
 
-මහනුවර ප්‍රදේශයේ තරුණියකට විවාහ පොරොන්දුවක් ලබා දී රුපියල් ලක්ෂ 10 ක මුදලක් වංචා කළ බවට චෝදනා කරමින් හිටපු පාර්ලිමේන්තු මන්ත්‍රී සහ ප්‍රකට චිත්‍රපට නළු රන්ජන් රාමනායක මහතාට එරෙහිව මහනුවර මහේස්ත්‍රාත් අධිකරණයේ පවරා ඇති නඩුවේ තීන්දුව ප්‍රකාශ කිරීම ලබන ජූනි මස 12 වනදාට කල් තබනු ලැබීය.
+Ranjan's verdict on June 12 adjourned in Kandy Magistrate's Court, linked to Anuradhapura Additional Magistrate case.
 
-මහනුවර අතිරේක මහේස්ත්‍රාත් (01) අධිකරණයේදී අද 27 වන දින එම නඩුවේ  කැඳවූ අවස්ථාවේදී නඩුව තව දුරටත් පරිශීලනය කිරිමට අවශ්‍යව ඇති බැවින් තීන්දුව ප්‍රකාශ කිරිම කල් තබන බව මෙහිදී  සඳහන් වු අතර  නඩුවේ  තීන්දුව  ප්‍රකාශයට පත් කිරීම ලබන ජූනි මස 12 වනදා දක්වා කල් ලබනු ලැබීය.
+🟩
+
+The verdict in the Kandy Magistrate's Court has been adjourned at June 12.
+
+It was stated that the verdict was pronounced due to the case in the case of the Anuradhapura Additional Magistrate (01).
 
 ◼️
 
 [Data](articles/d1ce549a.json)
+
+[Extended Data](ext_articles/d1ce549a.ext.json)
 
 ---
 
@@ -648,21 +710,27 @@ She said she hopes that the HRCSL will look into her complaint and mete out just
 
 ---
 
-### පාවෙන වෙළඳ සංකීර්ණයට පණ දෙන්න ජපන් ආයෝජකයෙක්
+### A Japanese investor to revive the floating shopping complex
 
 *2024-03-27 15:04:04* · [`adalk`](https://www.ada.lk/breaking_news/පාවෙන-වෙළඳ-සංකීර්ණයට-පණ-දෙන්න-ජපන්-ආයෝජකයෙක්/11-408828) · `si`
 
-පිටකොටුව පාවෙන වෙළඳ සංකීර්ණය  (Floating Market) යළි පණ ගන්වන්නට යයි. ඒ සඳහා ජපන් ආයෝජකයකු ඉදිරිපත්ව තිබේ.
+A Japanese investor plans to revive the Pettah floating shopping complex in Colombo, aiming to lease it for 30 years. The project, which includes a 6-month development phase, aims to attract foreign investors and tourists. The Urban Development Authority (UDA) was criticized for not properly managing the complex, leading to its closure. The complex, opened in 2014, was abandoned under the last government, with maintenance issues and a lack of electric lighting. It was reopened in 2021 with a Rs. 25 million rehabilitation cost.
 
-ඒ සඳහා වන මූලික අවබෝධතා ගිවිසුම අත්සන් කිරීම නාගරික සංවර්ධන අධිකාරියේ සභාපති නිමේෂ් හේරත් මහතා සහ ජපන් ආයෝජක අකිර හිරෝස් (Akira Hirose) මහතාගේ ප්‍රධානත්වයෙන් බත්තරමුල්ල, නාගරික සංවර්ධන අධිකාරීයේදී අද (27) දින සිදු කෙරුණි. ඒ අනුව පිටකොටුව පාවෙන වෙළඳ සංකීර්ණය කළමනාකරණය හා පවත්වාගෙන යාම මෙම ජපන් ආයෝජනය මඟින් සිදු කෙරේ.
+🟩
 
-මෙම පාවෙන වෙළඳ සංකීර්ණය නිසියාකාරව නඩුත්තු නොවන බවට පසුගිය කාලය පුරාවට නාගරික සංවර්ධන අධිකාරියට විවිධ චෝදනා එල්ල විය. මේ පිළිබඳව අවධානය යොමු කළ විෂයභාර අමාත්‍ය ප්‍රසන්න රණතුංග මහතා නාගරික සංවර්ධන අධිකාරියට උපදෙස් ලබා දුන්නේ දැනට රටේ තිබෙන ආර්ථික ප්‍රශ්නත් සමඟ ආයතනයේ මුදල් යොදවා මෙය සංවර්ධනය කිරීමට අපහසු බැවින් මෙය රාජ්‍ය පෞද්ගලික හවුල්කාරිත්වය යටතේ හෝ සංවර්ධනය කිරීමට කටයුතු කරන ලෙසයි.
+Pettah floating shopping complex to be revived again. A Japanese investor has come forward.
 
-නාගරික සංවර්ධන අධිකාරිය මේ සඳහා ආයෝජකයන්ට ඉදිරිපත් වන ලෙස ආරාධනය කළේය. මෙම ජපන් ආයෝජකයා ඉදිරිපත් වූයේ ඒ අනුවයි. පාවෙන වෙළඳ සංකීර්ණය සංවර්ධනය කෙරෙන්නේ ජපන් නගරය හා පාවෙන වෙළඳපොළ ලෙසයි.
+Battaramulla, Urban Development Authority (UDA), Chairman of the Urban Development Authority, Niphan Herath, Chairman of the Urban Development Authority (Akira Hirros) was held today (Akira Hiros) to sign the basic MoU.. Accordingly, the management and maintenance of the petty-floating shopping complex is carried out by this Japanese investment.
+
+The Urban Development Authority was accused of allegations that the floating shopping complex was not properly prosecuted. Minister Prasanna Ranatunga was advised to instruct the UDA with the economic problems of the country with the economic problems of the country.
+
+Urban Development Authority invited investors to contest. This Japanese investor came forward. The floating shopping complex is developed as the city of Japan and floating market.
 
 ...
 
 [Data](articles/54c4a99f.json)
+
+[Extended Data](ext_articles/54c4a99f.ext.json)
 
 ---
 
@@ -2263,53 +2331,5 @@ IGP Deshabandu Tennakoon says steps will be taken to regulate various activities
 [Data](articles/61f00978.json)
 
 [Extended Data](ext_articles/61f00978.ext.json)
-
----
-
-### Sri Lanka, China sign nine agreements on cooperation
-
-*2024-03-27 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98227/sri-lanka-china-sign-nine-agreements-on-cooperation) · `en`
-
-The signing of nine new agreements between China and Sri Lanka took place on Tuesday (March 26) under the patronage of Chinese Prime Minister Li Qiang and Prime Minister Dinesh Gunawardena.
-
-The Sri Lankan PM paid floral tributes to the martyred war heroes at the Monument to the People’s Heroes at Tiananmen Square, and after receiving the guard of honour from the Chinese military, bilateral talks commenced.
-
-Later, during the discussions held in the Great Hall in Beijing, more attention was paid to increasing overall cooperation in the social, cultural, educational, and agricultural sectors in addition to economic cooperation.
-
-The two prime ministers confirmed that a new chapter in the long-term friendship and cooperation between Sri Lanka and China will begin through the nine Memoranda of Understanding (MoUS) inked on Tuesday.
-
-Secretary to the Prime Minister Anura Dissanayake signed the agreements on behalf of Sri Lanka, and the secretaries of nine ministries signed on behalf of China.
-
-...
-
-[Data](articles/f5deab67.json)
-
-[Extended Data](ext_articles/f5deab67.ext.json)
-
----
-
-### Shall health unions go to strike?
-
-*2024-03-27 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194981) · `si`
-
-Health unions may strike, as their deadline for economic justice has passed. The Health Trade Union Alliance awaits a resolution. Co-convener Chanaka Dharmawickrema explains the situation, highlighting the submission of health staff demands to the Ministry of Finance and the pending decision on a professional procedure.
-
-🟩
-
-The time given to health unions to serve the economic justice is over (27).
-
-However, the Health Trade Union Alliance stated that the time has not yet been solved for his problem.
-
-Accordingly, the Trade Unions in Colombo today is to be decided at the Leadership Council meeting regarding the participation of their demands.
-
-Health Trade Union Alliance Alliance, Co-convener of the UPFA Chanaka Dharmawickrema,
-
-"Over 100,000 health staff at the Ministry of Health in 72 Career Union trade unions, the Ministry of Health has been submitted to the Ministry of Finance to the Ministry of Finance.. The health secretary left the professional procedure to be implemented 18 and 19 and depending on the request of the issue for 10 days for 10 days. That time is over tomorrow. We will decide today's decision after tomorrow. We have already given approval to attend a continuous trade union action at our Representative Conference. Accordingly, we decide today's strike. "
-
-◼️
-
-[Data](articles/d8849a0a.json)
-
-[Extended Data](ext_articles/d8849a0a.ext.json)
 
 ---

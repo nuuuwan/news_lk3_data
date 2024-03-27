@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 15:03:12**
+As of **2024-03-27 15:17:57**
 
 ## Newspaper Stats
 
-*Scraped **15,492** Articles*
+*Scraped **15,495** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,86 @@ economynextcom | 836
 islandlk | 854
 adalk | 1,321
 adaderanalk | 1,858
-tamilmirrorlk | 1,863
-virakesarilk | 2,187
+tamilmirrorlk | 1,864
+virakesarilk | 2,188
 dailymirrorlk | 2,390
-adaderanasinhalalk | 2,488
+adaderanasinhalalk | 2,489
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,490 (100.0%) of 15,492 articles have been extended.
+15,492 (100.0%) of 15,495 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### ශබ්ද දූෂණයට එරෙහි නව නීති ගෙනෙයි
+### කෙහෙළියගේ දියණිය මානව හිමිකම් යයි
+
+*2024-03-27 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194994) · `si`
+
+කෙහෙළිය රඹුක්වැල්ල මහතාව අත්තනෝමතික ලෙස අත්අඩංගුවට ගැනීමක් සිදුකර ඇති බවට ඔහුගේ දියණිය විසින් අද (27) මානව හිමිකම් කොමිෂන් සභාවට පැමිණිල්ලක් ඉදිරිපත් කර තිබේ.
+
+කෙහෙළිය රඹුක්වැල්ල මහතාගේ දියණිය වන චමිත්‍රි රඹුක්වැල්ල මහත්මිය විසින් එම පැමිණිල්ල ඉදිරිපත් කර ඇත.
+
+අදාළ පැමිණිල්ල ඉදිරිපත් කිරීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දැක්වූ චමිත්‍රි රඹුක්වැල්ල මහත්මිය සඳහන් කළේ, තම පියා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්තනෝමතික ලෙස අත්අඩංගුවට ගෙන රිමාන්ඩ් භාරයේ තබාගෙන සිටින බැවින් ඒ පිළිබඳව විමර්ශනයක් කරන ලෙස මානව හිමිකම් කොමිෂන් සභාවෙන් ඉල්ලා සිටි බවය.
+
+◼️
+
+[Data](articles/01319d87.json)
+
+---
+
+### கெஹலியவின் மகள், ஆணைக்குழு சென்றார்
+
+*2024-03-27 14:55:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவின்-மகள்-ஆணைக்குழு-சென்றார்/175-335264) · `ta`
+
+தரம் குறைந்த மருந்துப் பொருட்களை கொள்வனவு செய்தமை தொடர்பில் குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்லவின் மகள் சமித்ரி ரம்புக்வெல்ல இலங்கை மனித உரிமைகள் ஆணைக்குழுவில் புதன்கிழமை(27) காலை முறைப்பாடு செய்துள்ளார்.
+
+விளக்கமறியலில் உள்ள தனது தந்தையின் மனித உரிமைகள் மீறப்பட்டுள்ளதால், உடனடியாக விசாரணை நடத்தி நீதி வழங்குமாறு மனித உரிமைகள் ஆணைக்குழுவிடம் கோரிக்கை விடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/6396c026.json)
+
+---
+
+### நீர்கொழும்பில் 53 மசாஜ் நிலையங்கள் மூடப்பட்டன : 137 பெண்கள் கைது, இருவருக்கு எய்ட்ஸ்!
+
+*2024-03-27 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179827) · `ta`
+
+நீர்கொழும்பில் மசாஜ் நிலையங்கள்  என்ற போர்வையில் இயங்கிய விபசார விடுதிகளில் பணிபுரிந்த இரு பெண்களுக்கு எச்.ஐ.வி எய்ட்ஸ் தொற்று ஏற்பட்டுள்ளதாக வைத்திய பரிசோதனையில் தெரிய வந்துள்ளது.
+
+இதனையடுத்து நீர்கொழும்பு  பிரதேசத்தில் மேற்கொள்ளப்பட்ட சோதனையின்போது 53 மசாஜ்  நிலையங்கள் மூடப்பட்டதாக பொலிஸ்  ஊடகப் பேச்சாளர் பிரதிப் பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்தார்.
+
+◼️
+
+[Data](articles/0d0920e7.json)
+
+---
+
+### Brings new rules against pollution
 
 *2024-03-27 14:45:42* · [`adalk`](https://www.ada.lk/breaking_news/ශබ්ද-දූෂණයට-එරෙහි-නව-නීති-ගෙනෙයි/11-408826) · `si`
 
-ශ්‍රී ලංකාවේ ශබ්ද දුෂණය පිළිබදව පවතින නීති හා රෙගුලාසි සමාලෝචනය කර වාර්තාවක් ඉදිරිපත් කිරීම සදහා අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය, ජනාධිපති නීතිඥ, ආචාර්ය විජයදාස රාජපක්ෂ මහතා විසින් පත් කළ කමිටුවේ  වාර්තාව එහි සභාපති ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මහින්ද සමයවර්ධන මහතා විසින් අධිකරණ අමාත්‍යතුමා වෙත භාරදීම ඊයේ පස්වරුවේ (26) අධිකරණ අමාත්‍යාංශයේදී සිදු විණි.
+The Minister of Justice and Constitutional Reforms, appointed by President's Counsel Dr. Wijayadasa, has introduced new rules against pollution. A report, prepared in two months, proposes legal changes to combat sound corruption in Sri Lanka, including amendments to the Penal Code, Motor Code, and Police Ordinance. The committee also suggests revising regulations for unpaid noise pollution events and empowering the police to handle complaints about sound corruption.
 
-මාස දෙකක් තුළ වාර්තාව සකස් කර  ඇති අතර, ඒ අනුව කමිටුව විසින් ශබ්ද දූෂණය පිළිබඳ ජාත්‍යන්තර ප්‍රමිතීන් හොඳින් විශ්ලේෂණය කරමින් ශ්‍රී ලංකාවේ පවතින ශබ්ද දූෂණය පිළිබඳ නීතිමය රාමුවට වෙනස්කම් කිහිපයක් යෝජනා කර තිබේ.
+🟩
+
+Minister of Justice and Constitutional Reforms, Minister of Justice and Constitutional Reforms appointed by President's Counsel, Dr. Wijayadasa and Constitutional Reforms appointed by President's Counsel to the Hon.He was held at the Ministry of Justice.
+
+The report has been prepared within two months and proposed a few changes to the legal framework of the sound corruption in Sri Lanka by analyzing international standards of sound corruption.
+
+Especially the necessary amendments to the statutes such as the Penal Code, Motor Code and the Police Ordinance to make legal response to sound pollution were proposed. The committee also proposed to revise some regulations to expand their applications for noise pollution events that are not paid.
+
+In addition, amendments to the police circulars have been proposed for the police circulars to empower the police to deal with complaints regarding sound corruption. "
 
 ...
 
 [Data](articles/fbc596af.json)
+
+[Extended Data](ext_articles/fbc596af.ext.json)
 
 ---
 
@@ -156,25 +210,31 @@ It is noteworthy that the Senate and the King of Parliament should be approved b
 
 ---
 
-### කොස්ලන්ද  මීරියබැද්ද පැරණි නාය යාම යලි සක්‍රීය වෙයි
+### The old landslide landslide of Koslanda
 
 *2024-03-27 13:19:14* · [`adalk`](https://www.ada.lk/breaking_news/කොස්ලන්ද--මීරියබැද්ද-පැරණි-නාය-යාම-යලි-සක්‍රීය-වෙයි/11-408825) · `si`
 
-කොස්ලන්ද  මීරියබැද්ද පැරණි නාය යාම අද 27 අලුයම සිට නැවත  සක්‍රිය වී ඇතැයි බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය.
+The Koslanda Meriyabedda landslide, reactivated today, has led to the evacuation of residents from two row houses. The area was previously deemed unsafe by the National Building Research Institute.
 
-කොස්ලන්ද මීරියබැද්ද අංක 14 සහ අංක 15 ලයිම් පේලි නිවාස  දෙකට ඉහළ කන්ද කොටස මෙසේ නායාම නැවත සක්‍රීය  වී තිබෙන බවද එම මධ්‍යස්ථානය පැවසීය.
+🟩
 
-ජාතික   ගොඩනැගිලි පර්යේෂණ ආයතනය එම ප්‍රදේශයේ කළ නිරීක්ෂණයකින් පසුව මෙම ස්ථානය මිනිසුන්ට පදිංචිව සිටීමට නුසුදුසු ස්ථානයක් ලෙස දැනටමත් නම් කර තිබේ.
+The old landslide landslide of Koslanda Meriyabedda has been re-activated since 27 am today.
 
-ශ්‍රී ලංකාවේ විශාලතම නායා යාමක්  ලෙස මීරියබැද්ද  නාය යාම මීට වසර 10 කට පෙර  සිදුවිය.
+The center has been activated, the top of the two 14 Lim row houses, Koslanda Meeriyabedda, No. 14 and 15 Lim row houses.
 
-මේ දිනවල පවතින  අධික වර්ෂාවත් සමග මෙම නාය යාම නැවත  සක්‍රියවී තිබේ.
+The place has already been named as an inappropriate place to reside after the National Building Research Institute in the area.
 
-මේ වන විටත් මෙම ලයින්කාමරවල පදිංචි පිරිස් තාවකාලික කඳවුරක රඳවා තිබෙන බවද හල්දුම්මුල්ල ප්‍රාදේශ ලේකම් කාර්යාලය පැවසීය.
+Meriyabedda landslides took place in Sri Lanka 10 years ago.
+
+The landslide has been re-activated with the high race.
+
+The Haldummulla Secretariat said that people from these Linekamara have already been detained in a temporary camp.
 
 ◼️
 
 [Data](articles/8b53e154.json)
+
+[Extended Data](ext_articles/8b53e154.ext.json)
 
 ---
 
@@ -2251,73 +2311,5 @@ In accordance with the Constitution, he pointed out that the presidential electi
 [Data](articles/965affa6.json)
 
 [Extended Data](ext_articles/965affa6.ext.json)
-
----
-
-### Mahinda should join those who have resigned in the presence of Sajith - Anura among the people - SP Dissanayake
-
-*2024-03-27 02:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/179786) · `ta`
-
-Mahinda Rajapakse should join those who resigned, like Sajith-Anura, SP Dissanayake, and others. The United People's Power and the People's Liberation Front are now in power. Gotabhaya Rajapakse has been politically defeated, blaming the entire country. The UPFA and Janatha Vimukthi Peramuna are in the current political position. Wimal Weerawansa and Udaya Kammanpila criticized the government led by the Sri Lanka PA. Those who supported Mahinda Rajapakse are now working against various factors.
-
-🟩
-
-The United People's Power and the People's Liberation Front are in the presence of the people.
-
-Former President Gotabhaya Rajapakse has been politically defeated and blamed the entire country.
-
-The United People's Power and the Janatha Vimukthi Peramuna (UPFA) are in the present political position.
-
-Wimal Weerawansa and Udaya Kammanpila pointed out the reduction of the government led by the Sri Lanka PA.
-
-Those who were strong for former President Mahinda Rajapakse are working away from various factors today.
-
-◼️
-
-[Data](articles/7ee78cdc.json)
-
-[Extended Data](ext_articles/7ee78cdc.ext.json)
-
----
-
-### NPP’s global outreach: Redefining Sri Lankan political landscape
-
-*2024-03-27 01:52:30* · [`dailyftlk`](https://www.ft.lk/columns/NPP-s-global-outreach-Redefining-Sri-Lankan-political-landscape/4-759992) · `en`
-
-NPP’s foray into global politics heralds a transformative chapter in Sri Lanka’s political narrative
-
-In a bold and unprecedented move, Anura Kumara Dissanayake, the dynamic leader of the National People’s Power (NPP), has embarked on a series of international engagements, effectively internationalising the realm of Sri Lankan politics. Dissanayake’s recent addresses to the Sri Lankan diaspora in Canada, coupled with earlier visits to the United States, Australia, South Korea, and various European nations, mark a significant departure from traditional political strategies. This strategic manoeuvre not only underscores the NPP’s commitment to expanding its influence but also heralds a new era of global engagement for Sri Lankan political entities.
-
-...
-
-[Data](articles/167c7d91.json)
-
-[Extended Data](ext_articles/167c7d91.ext.json)
-
----
-
-### Politics based on donations cannot be allowed -the government is concerned about the action of the opposition leader
-
-*2024-03-27 01:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179785) · `ta`
-
-The government prohibits politics based on donations, including to schools. Cabinet Spokesperson Minister Bandula Gunawardena criticized opposition leader Sajith Premadasa for donating to a school in Homagama, where he was a Development Committee head. The Cabinet decision prevents schools from engaging in political activities and receiving donations for political purposes.
-
-🟩
-
-Cannot allow politics to do based on donations to schools. Cabinet Spokesperson Minister Bandula Gunawardena said that the donation issued by opposition leader Sajith Premadasa to a school in my electoral constituency, Homagama.
-
-He further stated that the weekly press conference to announce the Cabinet decisions was held on Tuesday (26).
-
-It was decided in the Cabinet a few weeks ago that schools cannot engage in political activities. Can give donations to anybody to schools. However, politics cannot be done based on it.
-
-Similarly, the political purpose is to avoid holding meetings in schools. The Cabinet has approved the decision not to be allowed.
-
-Opposition Leader Sajith Premadasa, I was visited by a school in the Homagama constituency where I was the head of the Development Committee, visited the school and presented one million modern classrooms and held a meeting.. I consider it a shame to our electoral constituency.
-
-◼️
-
-[Data](articles/c36ab2cd.json)
-
-[Extended Data](ext_articles/c36ab2cd.ext.json)
 
 ---

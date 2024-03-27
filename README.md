@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 16:48:45**
+As of **2024-03-27 17:03:54**
 
 ## Newspaper Stats
 
-*Scraped **15,519** Articles*
+*Scraped **15,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,55 @@ adaderanalk | 1,864
 tamilmirrorlk | 1,867
 virakesarilk | 2,194
 dailymirrorlk | 2,392
-adaderanasinhalalk | 2,494
+adaderanasinhalalk | 2,495
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,512 (100.0%) of 15,519 articles have been extended.
+15,519 (100.0%) of 15,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### ஜனநாயகத்தை முழுமையாகப் பாதுகாத்த ஒரே நாடு இலங்கை
+### අඟහරුවාදා සිට සෞඛ්‍ය වර්ජනයක්?
+
+*2024-03-27 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195001) · `si`
+
+එළැඹෙන අඟහරුවාදා උදෑසන 6.30 සිට වැඩ වර්ජනයක් ආරම්භ කරන බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය පවසයි.
+
+සෞඛ්‍ය වෘත්තීය සමිති සන්ධානයේ කැඳවුම්කරු රවී කුමුදේශ් අද පස්වරුවේ මාධ්‍ය වෙත අදහස් දක්වමින් මේ බව පැවසීය.
+
+◼️
+
+[Data](articles/1ee51936.json)
+
+---
+
+### Sri Lanka is the only country to defend democracy
 
 *2024-03-27 16:34:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனநாயகத்தை-முழுமையாகப்-பாதுகாத்த-ஒரே-நாடு-இலங்கை/175-335268) · `ta`
 
-ஆளும் கட்சியினால் எதிர்க்கட்சிகளின் செயற்பாடுகளுக்கு எந்தவித பாதிப்பும் ஏற்படாத வகையில் ஜனநாயகத்தை முழுமையாகப் பாதுகாக்கும் ஒரேயொரு ஆசிய நாடு இலங்கை மட்டுமே என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+Sri Lanka is the only Asian country fully defending democracy, ensuring the ruling party doesn't influence opposition activities. President Ranil Wickremesinghe highlighted the importance of the democratic parliamentary system during the inaugural session of Sri Lanka's first national student parliament. The event showcased the country's commitment to democracy, with two members representing the National Student Parliament, elected from 100 zones across the country.
 
-அத்தோடு சகலருக்கும் தமது கருத்துக்களை வெளியிட வாய்ப்புள்ள ஜனநாயக பாராளுமன்ற முறையை பாதுகாப்பதன் முக்கியத்துவத்தையும் ஜனாதிபதி வலியுறுத்தினார்.
+🟩
 
-ஜனாதிபதி அலுவலகத்தில் நேற்று (26) நடைபெற்ற இலங்கையின் முதலாவது தேசிய மாணவர் பாராளுமன்றத்தின் ஆரம்ப அமர்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க மேற்கண்டவாறு தெரிவித்தார்.
+President Ranil Wickremesinghe said that Sri Lanka is the only Asian country that will fully defend democracy so that the ruling party has no effect on the activities of the opposition parties.
 
-நாட்டின் 09 மாகாணங்களையும் உள்ளடக்கும் வகையில் 100 வலயங்களில் நிறுவப்பட்ட அனைத்து வலய மாணவர் பாராளுமன்றங்களிலிருந்தும் அதிக வாக்குகளைப் பெற்ற தலா இரு உறுப்பினர்கள் தேசிய மாணவர் பாராளுமன்றத்தைப் பிரதிநிதித்துவப்படுத்துகின்றனர்.
+The President also emphasized the importance of defending the democratic parliamentary system that is likely to express his views.
+
+President Ranil Wickremesinghe said this while addressing the inaugural session of Sri Lanka's first national student parliament held at the Presidential Office yesterday (26th).
+
+Two members of the country are representing the National Student Parliament, which has the highest number of votes from all the Zonal Student Parliamentarians established in 100 Zones, including the nine provinces of the country.
+
+The National Student Parliamentary Speaker, Prime Minister, Deputy Speaker, 10 Ministers and 10 Deputy Ministers were appointed in the recent elections by the Elections Commission with the Cooperation and Advisory Branch of the Ministry of Education.
 
 ...
 
 [Data](articles/5a75ab44.json)
+
+[Extended Data](ext_articles/5a75ab44.ext.json)
 
 ---
 
@@ -59,6 +81,8 @@ One lane of the road from Punchi Borella towards Maradana has been blocked for t
 ◼️
 
 [Data](articles/b3aba957.json)
+
+[Extended Data](ext_articles/b3aba957.ext.json)
 
 ---
 
@@ -76,37 +100,51 @@ State Minister D.V. Chanaka communicated this to media persons following the mee
 
 [Data](articles/d3d74383.json)
 
+[Extended Data](ext_articles/d3d74383.ext.json)
+
 ---
 
-### නාමල්ට ලොකු තනතුරක්
+### Namal is a big position
 
 *2024-03-27 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194999) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක ධුරයට නාමල් රාජපක්ෂ පත්කර තිබේ.
+Namal Rajapaksa appointed as Sri Lanka General Manager's National Organizer. Meeting held at Mahinda Rajapaksa's residence. Basil Rajapaksa named national organizer of Sri Lanka Civil Appointment.
 
-එම පක්ෂයේ විධායක කමිටු රැස්වීම අද පස්වරුවේ කොළඹ විජේරාම මාවතේ හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ නිල නිවසේදී පැවැත්විණි.
+🟩
 
-එම රැස්වීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දැක්වූ රාජ්‍ය අමාත්‍ය ඩී වී චානක මහතා පැවසුවේ එහිදී මෙම තීරණය ගත් බවය.
+Namal Rajapaksa has been appointed as the National Organizer of the Sri Lanka General Manager.
 
-මීට පෙර ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක ධුරය හෙබවූයේ හිටපු අමාත්‍ය බැසිල් රාජපක්ෂ විසිනි.
+The party's executive committee meeting was held at the official residence of former President Mahinda Rajapaksa at Wijerama Mawatha in Colombo this afternoon.
+
+Speaking to the media after the meeting, he said that this decision was taken.
+
+Former Minister Basil Rajapaksa, who has been appointed as the national organizer of the Sri Lanka Civil Appointment.
 
 ◼️
 
 [Data](articles/8c8cdb80.json)
 
+[Extended Data](ext_articles/8c8cdb80.ext.json)
+
 ---
 
-### විරෝධයක් නිසා බොරැල්ලේ සිට මරදාන දක්වා රථවාහන තදබදයක්
+### Traffic from Borella to Maradana due to objection
 
 *2024-03-27 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195000) · `si`
 
-වෛද්‍ය පීඨ ශිෂ්‍ය ක්‍රියාකාරීන්ගේ විරෝධතා පාගමනක් හේතුවෙන් බොරැල්ලේ සිට මරදාන දක්වා මාර්ගයේ රථවාහන තදබදයක් හටගෙන තිබේ.
+Traffic congestion in Borella due to Medical Faculty student activists' march, affecting one lane from Borella to Maradana.
 
-පොලීසිය සඳහන් කළේ එක් මංතීරුවක මෙලෙස රථවාහන තදබදය හටගෙන ඇති බවය.
+🟩
+
+Traffic in Borella from Borella to Maradana road has taken place due to a march of the Medical Faculty student activists.
+
+Police said the traffic congestion had occurred in one lane.
 
 ◼️
 
 [Data](articles/ac0797b1.json)
+
+[Extended Data](ext_articles/ac0797b1.ext.json)
 
 ---
 
@@ -128,6 +166,8 @@ It is also suspected that the 09 kilograms of ‘ice’ (crystal methamphetamine
 
 [Data](articles/5fb7a976.json)
 
+[Extended Data](ext_articles/5fb7a976.ext.json)
+
 ---
 
 ### Sri Lankan Prime Minister calls on Chinese President Xi Jinping
@@ -143,6 +183,8 @@ PM Gunawardena is accompanied by Finance State Minister Shehan Semasinghe, Home 
 ◼️
 
 [Data](articles/c013bfdc.json)
+
+[Extended Data](ext_articles/c013bfdc.ext.json)
 
 ---
 
@@ -2285,29 +2327,5 @@ Following information, the officials had then raided two main wholesale dealers 
 [Data](articles/43c4ee1b.json)
 
 [Extended Data](ext_articles/43c4ee1b.ext.json)
-
----
-
-### Executive Committee to meet today
-
-*2024-03-27 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194978) · `si`
-
-The Sri Lanka General Front's Executive Committee meets today at Mahinda Rajapaksa's residence, discussing party issues relevant to the current political situation.
-
-🟩
-
-The Executive Committee of the Sri Lanka General Man is scheduled to meet today (27).
-
-The meeting will be held at the official residence of former President Mahinda Rajapaksa this afternoon.
-
-Sanjeewa Eramamanna, Media Statement of Sri Lanka General
-
-"The Executive Committee of the Sri Lanka General Front will meet at the age of 7 in the afternoon of the party. Usually, the Executive Council will meet in the constitutional areas where you need to continue. Accordingly a default meeting. The political situation that is relevant to this moment will be discussed in several issues of the party. "
-
-◼️
-
-[Data](articles/9a174380.json)
-
-[Extended Data](ext_articles/9a174380.ext.json)
 
 ---

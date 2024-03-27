@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 05:03:10**
+As of **2024-03-28 05:17:51**
 
 ## Newspaper Stats
 
-*Scraped **15,608** Articles*
+*Scraped **15,612** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 141
 bbccomsinhala | 166
 dbsjeyarajcom | 193
 newsfirstlk | 363
-dailyftlk | 842
+dailyftlk | 846
 economynextcom | 849
 islandlk | 854
 adalk | 1,333
@@ -26,11 +26,81 @@ adaderanasinhalalk | 2,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,605 (100.0%) of 15,608 articles have been extended.
+15,605 (100.0%) of 15,612 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### EC questioned on Sagala’s dual role as Govt. employee and UNP organiser
+
+*2024-03-28 05:03:57* · [`dailyftlk`](https://www.ft.lk/news/EC-questioned-on-Sagala-s-dual-role-as-Govt-employee-and-UNP-organiser/56-760071) · `en`
+
+Journalist Lasantha Ruhunage has written to the Election Commission of Sri Lanka (ECSL), requesting clarification regarding whether former United National Party (UNP) MP Sagala Ratnayake, presently serving as the President’s Chief of Staff, is eligible to concurrently hold the position of National Organizer within a political party.
+
+In a letter dated 23 March 2024 to ECSL Chairman R. M. A. L. Ratnayake, Ruhunage highlighted that in his current role as the President’s Chief of Staff, Ratnayake is restricted from engaging in political campaigning activities due to his status as a Government employee.
+
+Ruhunage, citing the relevant Constitutional provision, has inquired if a public servant lacking such political rights can simultaneously serve as the National Organizer of the UNP.
+
+Notably Ratnayake was observed delivering a speech at the inaugural UNP rally in Kuliyapitiya earlier this month, marking the commencement of the party’s political campaign leading up to the impending
+
+...
+
+[Data](articles/c4cd070b.json)
+
+---
+
+### Supreme head of Thareeqathul Qadiriya arrives in Sri Lanka
+
+*2024-03-28 05:03:18* · [`dailyftlk`](https://www.ft.lk/news/Supreme-head-of-Thareeqathul-Qadiriya-arrives-in-Sri-Lanka/56-760070) · `en`
+
+Moulana Al-Sheikh Al-Seyed Afeefuddin Al-Jailani arrived in Sri Lanka yesterday bringing blessings to his followers and the nation during this holy month of Ramadhan.
+
+Sheikh Afeefuddin Al-Jailani is the Grand Custodian / Sajda Nasheen of the Shrine of Sheikh Abdul Qader Al Jailani and the Supreme Head of the Thareeqathul Qadiriya World Sufiistic Order consisting over 100 million followers globally.
+
+He is a direct descendent of Sheikh Abdul Qadir Al-Jailani and the family of the Holy Prophet.
+
+He is an internationally recognised and highly respected scholar specialising in the fields of traditional Islamic religious and social sciences.
+
+Sheikh Afeefuddin Al-Jailani continues his good work in propagating inter and intra communal harmony, inclusiveness and tolerance within the traditional Islamic Sufi teachings, traveling across the globe in his endeavour to spread the message of peace and love, adapted and interpreted to suit the needs of this modern age.
+
+...
+
+[Data](articles/927d55b4.json)
+
+---
+
+### Daughter of former Health Minister files HRCSL complaint over arrest
+
+*2024-03-28 05:00:32* · [`dailyftlk`](https://www.ft.lk/news/Daughter-of-former-Health-Minister-files-HRCSL-complaint-over-arrest/56-760069) · `en`
+
+Former Minister of Health Keheliya Rambuwella’s daughter Chamithri Rambukwella filed a complaint with the Human Rights Commission of Sri Lanka (HRCSL) yesterday, alleging that her father’s fundamental rights were violated due to his recent arrest.
+
+Rambukwella was arrested on 2 February over his alleged involvement in the importation of substandard human immunoglobulin IV vials to Sri Lanka.
+
+Addressing the media outside the HRCSL, Chamithri Rambukwella stated that the petition is being filed based on the legal principle of presumption of innocence. She said according to this principle, any individual accused of a crime is considered innocent until proven guilty. However, she noted that this has not been the case for her father.
+
+She remarked that typically, suspects are arrested only after investigations are concluded. “However, my father was arrested before the completion of an investigation, and the investigation is ongoing while he remains in remand custody,” she emphasised.
+
+...
+
+[Data](articles/2f433eac.json)
+
+---
+
+### UK Trade Partnership Program promotes organic standards in Sri Lanka
+
+*2024-03-28 04:58:13* · [`dailyftlk`](https://www.ft.lk/business/UK-Trade-Partnership-Program-promotes-organic-standards-in-Sri-Lanka/34-760068) · `en`
+
+The UK Trade Partnership Program project in Sri Lanka, funded by the UK Government and implemented by the International Trade Centre (ITC), aims to promote exports through facilitating access to markets, providing technical advisory services to SMEs, and strengthening business support organisations.
+
+In this context the ‘Sensitisation training on organic standards for private sector operators’, which took place between 18 and 20 March at the Granbell Hotel in Colombo, raised awareness on the role of organic standards and certification among private sector operators and facilitated the exchange of best practices through a two-day theoretical training workshop and a one-day practical session at an organic coconut farm.
+
+...
+
+[Data](articles/e5b19870.json)
+
+---
 
 ### Enjoy the full bouquet of Dialog Television channels this Avurudu Season and win a family holiday getaway
 
@@ -2159,85 +2229,5 @@ It was stated that the verdict was pronounced due to the case in the case of the
 [Data](articles/d1ce549a.json)
 
 [Extended Data](ext_articles/d1ce549a.ext.json)
-
----
-
-### Warning on thunder and lightning impact on 15 districts
-
-*2024-03-27 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179826) · `ta`
-
-Heavy thunderstorms and lightning expected in 15 districts on Wednesday, causing heavy winds. Public advised to take precautions.
-
-🟩
-
-Heavy thunderstorms and lightning are expected in the country, Central, Sabaragamuwa, Uva and North Western Provinces, Anuradhapura, Mannar, Galle and Matara districts on Wednesday (27).
-
-Can temporarily blow heavy winds during thunderstorms. The public is asked to take adequate precautions to reduce the effects of lightning impacts.
-
-◼️
-
-[Data](articles/db833286.json)
-
-[Extended Data](ext_articles/db833286.ext.json)
-
----
-
-### Sri Lanka voters need awareness to prevent another economic crisis: Legislator
-
-*2024-03-27 15:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-voters-need-awareness-to-prevent-another-economic-crisis-legislator-156309/) · `en`
-
-ECONOMYNEXT – Sri Lanka voters need awareness to elect politicians who tell the truth to the public and prevent another economic crisis like in 2022, Parliament MP Wajira Abeywardana said.
-
-President Ranil Wickremesinghe-led center-right United National Party (UNP) was brought down to an unprecedented one seat in the 225-member parliament during 2020 general elections after it put forward the needs for economic reforms.
-
-However, the Sri Lankan voters gave a strong mandate to former president Mahinda Rajapaksa-led Sri Lanka Podujana Peramuna (SLPP) which promised a raft of subsidies and tax concessions. However, the party failed with wrong economic policies.
-
-The SLPP faced public wrath when the economic crisis unfolded in 2022 and later its top leaders including President Gotabaya Rajapaksa were forced to resign in the face of strong mass protests.
-
-...
-
-[Data](articles/74256c67.json)
-
-[Extended Data](ext_articles/74256c67.ext.json)
-
----
-
-### Duminda Nagamuwa and Lahiru Weerasekara further remanded
-
-*2024-03-27 15:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98238/duminda-nagamuwa-and-lahiru-weerasekara-further-remanded) · `en`
-
-Three activists arrested during a recent protest march organized by the ‘Jana Aragala Vyaparaya’ (People’s Struggle Movement) have been further remanded.
-
-When produced before Colombo Fort Magistrate’s Court earlier today (27), Frontline Socialist Party (FSP) activist Duminda Nagamuwa, youth activist Lahiru Weerasekara, and Ven. Rathkarawwe Jinarathana Thero were ordered to be further remanded until April 03.
-
-The trio was arrested during a demonstration held on March 20 during which at least 05 police officers were injured during the clashes with protesters. It had been organized by the People’s Struggle Movement based on several issues including the soaring cost of living and certain foreign agreements the government intends to sign.
-
-Police had resorted to using tear gas and water cannons to disperse the protesters in Pettah, Colombo.
-
-◼️
-
-[Data](articles/1a9622e9.json)
-
-[Extended Data](ext_articles/1a9622e9.ext.json)
-
----
-
-### Keheliya's daughter complained to the Human Rights Commission demanding justice for his father!
-
-*2024-03-27 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/179832) · `ta`
-
-Samitri Rambukwella, daughter of former minister Keheliya Rambukwella, arrested for non-standard drug procurement, lodged a complaint with the Sri Lanka Human Rights Commission, demanding justice for her father's human rights violation.
-
-🟩
-
-Samitri Rambukwella, daughter of former minister Keheliya Rambukwella, who was arrested by the Criminal Investigation Division (CID) in connection with the issue of non -standard drug procurement, has lodged a complaint with the Sri Lanka Human Rights Commission on Wednesday morning.
-
-He has asked the Human Rights Commission to immediately investigate and provide justice as his father's human rights have been violated.
-
-◼️
-
-[Data](articles/2296cab7.json)
-
-[Extended Data](ext_articles/2296cab7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 04:18:21**
+As of **2024-03-28 04:33:40**
 
 ## Newspaper Stats
 
-*Scraped **15,601** Articles*
+*Scraped **15,604** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 141
 bbccomsinhala | 166
 dbsjeyarajcom | 193
 newsfirstlk | 363
-dailyftlk | 835
+dailyftlk | 838
 economynextcom | 849
 islandlk | 854
 adalk | 1,333
@@ -26,11 +26,61 @@ adaderanasinhalalk | 2,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,601 (100.0%) of 15,601 articles have been extended.
+15,601 (100.0%) of 15,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### Ad hoc changes to National College of Education admission policy
+
+*2024-03-28 04:15:12* · [`dailyftlk`](https://www.ft.lk/columns/Ad-hoc-changes-to-National-College-of-Education-admission-policy/4-760054) · `en`
+
+Applications have been called for the admission of students to National Colleges of Education by Gazette notification dated 15 March 2024. Students who passed the A Level exam in 2021 and 2022 are eligible to apply. This time two important changes have been introduced to the admission policy.
+
+The admission of students which was hundred percent based on district basis has now been made fifty percent based on national level and fifty percent based on district level.
+
+...
+
+[Data](articles/60836bb4.json)
+
+---
+
+### New ADB Partnership Strategy for Sri Lanka to foster sustainable recovery, build resilience, and revive growth
+
+*2024-03-28 04:11:11* · [`dailyftlk`](https://www.ft.lk/opinion/New-ADB-Partnership-Strategy-for-Sri-Lanka-to-foster-sustainable-recovery-build-resilience-and-revive-growth/14-760053) · `en`
+
+The new CPS will support the country’s efforts to tackle the key underlying causes of the crisis. ADB will focus on reforming public financial management system, strengthening governance, accelerating domestic resource mobilisation, and improving fiscal and debt sustainability, as well as measures to improve the performance of state-owned enterprises
+
+The strategy recognises the critical role of the private sector in the country’s recovery and long-term economic growth. Structural reforms to promote greater private sector participation in the economy and diversify the economy with emphasis on green and sustainable growth will be supported under the new strategy
+
+The Asian Development Bank (ADB) has launched a new country partnership strategy (CPS) for Sri Lanka covering the period 2024–2028. The strategy will focus on restoring the country’s macroeconomic stability, reviving growth, and establishing the foundation for sustainable recovery and
+
+...
+
+[Data](articles/5dd62721.json)
+
+---
+
+### Why the JVP-NPP’s moderate leftist ‘pink paradigm’ deserves a chance
+
+*2024-03-28 03:49:40* · [`dailyftlk`](https://www.ft.lk/columns/Why-the-JVP-NPP-s-moderate-leftist-pink-paradigm-deserves-a-chance/4-760051) · `en`
+
+“A. K. Dissanayake increasingly has the demeanour of a national leader…”Prof. Mick Moore, OBE
+
+‘Why Bharat Matters’, matters. The new book by one of the world’s most outstanding and admired foreign ministers, India’s Dr. S. Jaishankar, makes clear the centrality of Ramayana mythology within ‘Bharat’ as BJP’s India and BJP worldview. Cosmology dominates ideology.
+
+In an ambitious exegetical enterprise, Dr. Jaishankar strives to confer the (non-secular) Ramayana a methodological and intellectual status as a strategic text that is implicitly above Kautilya’s (secular) Arthashasthra, a Realist classic. A tough sell, that.
+
+The prism through which the island of Lanka is ineluctably viewed by Bharat;
+
+The strategic complexities we have to contend with, as Vietnam does, neighbouring China.
+
+...
+
+[Data](articles/586cd416.json)
+
+---
 
 ### The President's Workshop should take steps to open the closed national galaxy by the end of this year
 
@@ -2199,67 +2249,5 @@ Speaking to the media, Mrs. Chamiti Rambukwella said that he had asked the Human
 [Data](articles/01319d87.json)
 
 [Extended Data](ext_articles/01319d87.ext.json)
-
----
-
-### The daughter of Keheliya went to the Commission
-
-*2024-03-27 14:55:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவின்-மகள்-ஆணைக்குழு-சென்றார்/175-335264) · `ta`
-
-Samitri Rambukwella, daughter of arrested former minister Keheliya Rambukwella, lodged a complaint with the Sri Lanka Human Rights Commission, seeking immediate investigation into human rights violations against her father.
-
-🟩
-
-Samitri Rambukwella, daughter of former minister Keheliya Rambukwella, who has been arrested and interrogated by the Criminal Investigation Department, has lodged a complaint with the Sri Lanka Human Rights Commission on Wednesday morning.
-
-He has asked the Human Rights Commission to immediately investigate and provide justice as his father's human rights have been violated.
-
-◼️
-
-[Data](articles/6396c026.json)
-
-[Extended Data](ext_articles/6396c026.ext.json)
-
----
-
-### Common concture for those who have been illegal
-
-*2024-03-27 14:52:35* · [`adalk`](https://www.ada.lk/breaking_news/කුවේටයේ-නීති-විරෝධිව-රැදී-සිටින්නන්ට-පොදු-සමාකාලයක්/11-408827) · `si`
-
-The Ministry of Internal Affairs in Kuwait introduced a common presence for illegally staying Sri Lankans, valid until June 17, 2024. 19,620 Sri Lankans are affected. Those who leave during this period can re-enter legally without fines. The Sri Lanka Bureau of Foreign Employment advises awareness.
-
-🟩
-
-The Ministry of Internal Affairs has introduced a common presence to people who are illegally to leave Kuwait. This public time was opened on March 17, and it will work for 3 months until June 17.
-
-Embassy reports say that a 19,620 Sri Lankans have been illegal in Kuwait without valid visa. If a person leaves the country in this time, the opportunity will be excluded without charging fines and legally enter the Kingdom of Kuwait.
-
-Employees that the Ministry of Internal Affairs has fled the site of the Ministry of Internal Affairs or on 14.03.2011 without a visit to the Ministry of Internal Affairs, the Ministry of Internal Affairs has fled the site of the Interior 2024.. In addition to these allegations, there is no charge or other complaint of other charges or other complaints of police stations or other complaints against the relevant person.
-
-...
-
-[Data](articles/dc95d3d9.json)
-
-[Extended Data](ext_articles/dc95d3d9.ext.json)
-
----
-
-### 53 massage stations closed in Negombo: 137 women arrested, two for AIDS!
-
-*2024-03-27 14:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179827) · `ta`
-
-In Negombo, 53 massage stations were closed after 137 women were arrested, including two diagnosed with HIV AIDS.
-
-🟩
-
-A medical examination revealed that two women who worked in adultery hostels under the guise of massage stations in Negombo have suffered HIV AIDS.
-
-Subsequently, 53 massage stations were closed during a raid in the Negombo area, police spokesman Deputy Inspector General of Police Nihal Dalduwa said.
-
-◼️
-
-[Data](articles/0d0920e7.json)
-
-[Extended Data](ext_articles/0d0920e7.ext.json)
 
 ---

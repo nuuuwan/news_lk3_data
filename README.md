@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 12:33:27**
+As of **2024-03-27 12:49:58**
 
 ## Newspaper Stats
 
-*Scraped **15,474** Articles*
+*Scraped **15,478** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,149 @@ dailyftlk | 835
 economynextcom | 836
 islandlk | 854
 adalk | 1,317
-adaderanalk | 1,855
+adaderanalk | 1,856
 tamilmirrorlk | 1,861
-virakesarilk | 2,184
+virakesarilk | 2,186
 dailymirrorlk | 2,389
-adaderanasinhalalk | 2,484
+adaderanasinhalalk | 2,485
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,467 (100.0%) of 15,474 articles have been extended.
+15,474 (100.0%) of 15,478 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### Man nabbed with Kerala cannabis worth over Rs. 10mn
+
+*2024-03-27 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98234/man-nabbed-with-kerala-cannabis-worth-over-rs-10mn) · `en`
+
+A coordinated operation conducted by the Navy and Police Special Task Force (STF) in Nikawewa of Weli Oya in the dark hours of Tuesday (26), led to the arrest of a suspect and the seizure of more than 27kg of Kerala cannabis.
+
+The combined search operation was carried out by SLNS Ranweli and SLNS Gotabaya in the Eastern Naval Command with Mullaitivu Police STF in Nikawewa area.
+
+According to the navy, a person roaming in the area had been interrogated on suspicion. This has led to the recovery of 13 parcels of Kerala cannabis from nearby shrubs, based on the information divulged by the suspect.
+
+The Kerala cannabis consignment, which was intended for sale, weighed about 27kg and 185g and its gross street value is believed to be over Rs. 10 million.
+
+The 43-year-old held in this operation was identified as a resident of Nikawewa area. The accused, along with Kerala cannabis was handed over to the Welioya Police for onward legal action.
+
+◼️
+
+[Data](articles/744e39bf.json)
+
+---
+
+### மாதம்பையிலிருந்து  கம்பளை  சென்று கொண்டிருந்த பஸ் தீப்பிடித்து எரிந்தது!
+
+*2024-03-27 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179815) · `ta`
+
+இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான ஒன்று குருணாகல் மல்கடுவாவ பிரதேசத்தில்  திடீரென தீப்பற்றி எரிந்துள்ளது.
+
+மாதம்பையிலிருந்து கம்பளை நோக்கிச் சென்று கொண்டிருந்த  பஸ்ஸிலேயே இந்த தீ விபத்து ஏற்பட்டுள்ளது.
+
+பின்னர் அங்கு வந்த  குருணாகல் தீயணைப்பு பிரிவினர்  தீயை முழுமையாக கட்டுப்பாட்டுக்குள் கொண்டு வந்தனர்.
+
+◼️
+
+[Data](articles/30a8dfc9.json)
+
+---
+
+### සම්බාහන මධ්‍යස්ථාන 53ක් වසා දමයි
+
+*2024-03-27 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194990) · `si`
+
+සම්භාහන මධ්‍යස්ථාන මුවාවෙන් මීගමුව ප්‍රදේශය ආශ්‍රිතව පවත්වාගෙන ගිය ගණිකා නිවාසවල සේවයේ නිරත වූ කාන්තාවන් දෙදෙනෙකුට HIV ඒඩ්ස් වැලඳී ඇති බවට වෛද්‍ය පරීක්ෂණයකදී අනාවරණය වී තිබේ.
+
+අද පැවති මාධ්‍ය හමුවකට එක්වෙමින් පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තලදූව මහතා මේ බව පැවසීය.
+
+මෙම වැටලීමේදී සම්භාහන මධ්‍යස්ථාන 53ක්  වසා දැමීමට කටයුතු කර ඇති අතර ඒවායේ සේවයේ නිරතව සිටි කාන්තාවන් 137ක් අත්අඩංගුවට ගෙන තිබේ.
+
+"පසුගිය දින කිහිපය තුළ මීගමුව, කොච්චිකඩේ සහ සීදූව කියන පොලිස් වසම්වල විශේෂ වැටලීමක් සිදුකරා. ඒවා නීතිවිරෝධී ලෙස ගණිකා නිවාස ලෙස පවත්වාගෙන යන බවට බුද්ධි තොරතුරු වාර්තා වී තිබුණා. ගණිකා නිවාස පවත්වාගෙන යාම, ගණිකාවන් ලෙස පුද්ගලයින් සේවයේ යෙදවීම ඒවායේ රැඳී සිටීම, එම ස්ථානය කළමනාකරණය කිරීම යන චෝදනා යටතේ පිරිසක් අත්අඩංගුවට ගත්තා. එම සැකකරුවන් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව වෛද්‍ය පරීක්ෂණ සඳහා ඉදිරිපත් කරනු ලැබුවා."
+
+...
+
+[Data](articles/9e7612b2.json)
+
+---
+
+### Testing at cosmetics outlets in Colombo;Seizure
+
+*2024-03-27 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179802) · `ta`
+
+The National Drug Regulatory Authority in Sri Lanka conducted tests at cosmetics outlets in Colombo, seizing over 470 unregistered skin therapeutic drugs, including steroids, from wholesalers. These drugs are not cosmetics but must be sold under doctor's recommendation due to potential skin damage. The operation was prompted by the Sri Lanka Skin Medical Experts Association's warning.
+
+🟩
+
+The Food and Drug Inspectors of the National Drug Regulatory Authority have launched a testing operation at several leading cosmetics stalls in Colombo on Tuesday (26) following a warning issued by the Sri Lanka Skin Medical Experts Association.
+
+A senior official of the National Drug Regulatory Authority said that those who sold these soldiers had purchased unregistered skin therapy in the wholesalers of cosmetics at the Colombo Fort.
+
+Subsequently, more than 470 skin therapeutic drugs were discovered by testing of the total outlet of two cosmetics on Kadirasan Road.
+
+The drugs must be sold only on the recommendation of the doctors. This is not a simple cosmetic material.
+
+Preliminary inquiries revealed that these unregistered drugs would bring local vendors to India and bring it into the country through customs.
+
+Two types of such drugs with three drug additives were seized. Hydroghuvinone, Tretinoin and Momatasone Furoate Cream are 3 chemical compounds. Steroid is one of them.
+
+...
+
+[Data](articles/f9782631.json)
+
+[Extended Data](ext_articles/f9782631.ext.json)
+
+---
+
+### Opening of the new Maternity Hospital Hospital in Karapitiya
+
+*2024-03-27 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179812) · `ta`
+
+The German-Sri Lanka Friendship New Maternity Hospital in Karapitiya, Galle, was inaugurated by President Ranil Wickremesinghe. It features 640 beds, 6 surgery units, intensive care, a children's division, and modern facilities, making it the largest maternity hospital in South Asia.
+
+🟩
+
+The German -Sri Lanka Friendship New Maternity Hospital has been opened in Karapitiya, Galle.
+
+President Ranil Wickremesinghe inaugurated this morning on Wednesday morning.
+
+The hospital has 640 beds, 06 surgery units, intensive care, children's division and modern facilities.
+
+The hospital is the largest maternity hospital in South Asia.
+
+◼️
+
+[Data](articles/d354aa72.json)
+
+[Extended Data](ext_articles/d354aa72.ext.json)
+
+---
+
+### கடலுக்குள் விழுந்த உதவிப்பொருட்களை மீட்க முயன்ற 12 பேர் பலி - காசாவில் தொடரும் துயரம்
+
+*2024-03-27 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/179813) · `ta`
+
+காசாமீது வான்வெளிஊடாக வீசப்பட்ட உதவிப்பொருட்கள் கடலில் விழுந்தவேளை அவற்றை எடுக்க முயன்ற 12 பேர் கடலில்மூழ்கி உயிரிழந்துள்ளனர்.
+
+இஸ்ரேலின் ஆறுமாத இராணுவநடவடிக்கை காரணமாக காசவில் பெரும் பட்டினிநிலை உருவாகியுள்ளது என்ற அச்சத்தின் மத்தியில் இந்த சம்பவம் இடம்பெற்றுள்ளது.
+
+வடகாசாவில் உள்ள பென்லகியா கடற்கரையோரத்தை நோக்கி பொதுமக்கள் ஒடுவதையும் அதன் பின்னர் ஆழமான நீரில் பொதுமக்கள் காணப்படுவதையும் பின்னர் அவர்களின் உடல்கள் மீட்கப்படுவதையும் காண்பிக்கும் வீடியோக்கள் வெளியாகியுள்ளன.
+
+தாடியுடன் காணப்படும்  இளம்வயது நபர் ஒருவரின் உடல் கடலில் இருந்து மீட்கப்படுவதையும் ஆனால்அவரின் கண்களில்அசைவில்லாததையும் நபர் ஒருவர் அவரை காப்பாற்ற முயல்வதையும் அவர் இறந்துவிட்டார் என யாரோ தெரிவிப்பதையும் வீடியோ காண்பித்துள்ளது.
+
+அவர் தனது பிள்ளைகளிற்கு உணவை பெற்றுக்கொள்வதற்காக கடலுக்குள் நீந்தி சென்றார் அவர் தியாகியாக மாறிவிட்டார் என கடற்கரையில் காணப்படும் ஒருவர் தெரிவிப்பதை வீடியோ காண்பித்துள்ளது.
+
+அவர்கள் தரைவழி ஊடாக மனிதாபிமான உதவிகளை வழங்கவேண்டும் ஏன் இப்படி செய்கின்றார்கள் எனஅவர் கேள்விஎழுப்பியுள்ளார்.
+
+...
+
+[Data](articles/ec6c0aed.json)
+
+---
 
 ### Sri Lanka looking to adopt India’s digital model
 
@@ -44,37 +172,27 @@ Sri Lanka’s President Ranil Wickremesinghe has expressed admiration for India�
 
 [Data](articles/f3522d08.json)
 
----
-
-### கராப்பிட்டியவில் புதிய மகப்பேறு வைத்தியசாலை வைத்தியசாலை திறப்பு
-
-*2024-03-27 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/179812) · `ta`
-
-காலி, கராப்பிட்டியவில் ஜேர்மன் – இலங்கை நட்புறவு புதிய மகப்பேறு வைத்தியசாலை திறந்து வைக்கப்பட்டுள்ளது.
-
-இதனை ஜனாதிபதி ரணில் விக்கிரமசிங்க இன்று புதன்கிழமை (27) காலை திறந்து வைத்தார்.
-
-வைத்தியசாலையில் 640 படுக்கைகள், 06 சத்திர  சிகிச்சை பிரிவுகள், தீவிர சிகிச்சை, குழந்தைகள் பிரிவு மற்றும் நவீன வசதிகள் உள்ளன.
-
-இந்த வைத்தியசாலை இலங்கையில் மாத்திரமன்றி தெற்காசியாவிலேயே மிகப் பெரிய மகப்பேறு வைத்தியசாலையாகவும் விளங்குகிறது.
-
-◼️
-
-[Data](articles/d354aa72.json)
+[Extended Data](ext_articles/f3522d08.ext.json)
 
 ---
 
-### தீப்பிடித்து எரிந்த பயணிகள் பஸ்
+### Passenger bus burned in fire
 
 *2024-03-27 12:10:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீப்பிடித்து-எரிந்த-பயணிகள்-பஸ்/175-335255) · `ta`
 
-குருநாகல் மல்கடுவாவ பிரதேசத்தில் இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பஸ் ஒன்று திடீரென தீப்பற்றி எரிந்து விபத்துக்கு உள்ளாகியுள்ளது.
+A Sri Lanka Transport Board bus in Malkaduwa, Kurunegala, caught fire while traveling from Madambe to Gampola.
 
-மாதம்பேயில் இருந்து கம்பளை நோக்கிச் சென்று கொண்டிருந்த பஸ்ஸிலேயே தீ விபத்து ஏற்பட்டுள்ளது.
+🟩
+
+A bus belonging to the Sri Lanka Transport Board (SLTB) in the Malkaduwa area of Kurunegala has suddenly burned a fire.
+
+The fire broke out in a bus traveling from Madambe to Gampola.
 
 ◼️
 
 [Data](articles/5574e914.json)
+
+[Extended Data](ext_articles/5574e914.ext.json)
 
 ---
 
@@ -92,21 +210,29 @@ They said the inauguration of this hospital marks a significant advancement in S
 
 [Data](articles/feac543b.json)
 
+[Extended Data](ext_articles/feac543b.ext.json)
+
 ---
 
-### உலகின் மிகப்பெரிய பாம்பு கொல்லப்பட்டது
+### The world's largest snake was killed
 
 *2024-03-27 12:08:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகின்-மிகப்பெரிய-பாம்பு-கொல்லப்பட்டது/175-335254) · `ta`
 
-உலகின் மிகப்பெரிய பாம்பு என விலங்கியல் வல்லுநர்கள் உலகுக்கு அறிமுகப்படுத்திய 26 அடி நீளமான அனகோண்டா கொல்லப்பட்டுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+The world's largest snake, a 26-foot-long Anaconda named 'Anna Julia', was killed by a group of 15 zoologists. Discovered in February, 'Anna Julia' was confirmed as a northern green anaconda, a new race of Anaconda.
 
-அமேசான் காடுகளின் பழங்குடியினரால் வழிநடத்தப்பட்ட 15 விலங்கியல் வல்லுநர்கள் கொண்ட சர்வதேச குழு, கடந்த பிப்ரவரி மாதம் அமேசான் ஆற்றின் துணை நதியில் இந்த மிகப்பெரிய அனகோண்டாவைக் கண்டுபிடித்தது. இந்த பெண் அனகோண்டாவுக்கு 'அன்னா ஜூலியா' என்று பெயரிடப்பட்டது.
+🟩
 
-அனகோண்டாக்கள் உலகின் மிகப்பெரிய பாம்புகளாக கருதப்படுகின்றன. அனகோண்டாக்கள் மலைப்பாம்பு வகை. அனகோண்டாக்களில், 'அன்னா ஜூலியா' மிகப்பெரிய அனகோண்டாவாகக் கருதப்பட்டது. 'அன்னா ஜூலியா' என்பது வடக்கு பச்சை அனகோண்டா ஆகும், மேலும் வடக்கு பச்சை அனகோண்டாக்கள் அனகோண்டாவின் புதிய இனம் என்பதை விஞ்ஞானிகள் உறுதிப்படுத்தியுள்ளமை குறிப்பிடத்தக்கது.
+International media reports that the 26 -foot -long Anaconda has been killed by zoologists as the world's largest snake.
+
+The international group of 15 zoologists led by tribes of the Amazon forests discovered this largest Anaconda on the sub -river of the Amazon River last February. This woman was named 'Anna Julia'.
+
+Anacondas are considered the world's largest snakes. Anacondas. In Anacondas, 'Anna Julia' was considered the largest anaconda. It is noteworthy that scientists have confirmed that 'Anna Julia' is the northern green anaconda, and the northern green anacondas are the new race of Anaconda.
 
 ◼️
 
 [Data](articles/0f2a3101.json)
+
+[Extended Data](ext_articles/0f2a3101.ext.json)
 
 ---
 
@@ -129,6 +255,8 @@ The Minister also said that the aim of this programme is to provide support to g
 ◼️
 
 [Data](articles/c5fdd587.json)
+
+[Extended Data](ext_articles/c5fdd587.ext.json)
 
 ---
 
@@ -221,34 +349,6 @@ Initial investigations have revealed that the cannabis was mainly selling cannab
 [Data](articles/d72e2f0b.json)
 
 [Extended Data](ext_articles/d72e2f0b.ext.json)
-
----
-
-### Testing at cosmetics outlets in Colombo;Seizure
-
-*2024-03-27 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/179802) · `ta`
-
-The National Drug Regulatory Authority in Sri Lanka conducted tests at cosmetics outlets in Colombo, seizing over 470 unregistered skin therapeutic drugs, including steroids, from wholesalers. These drugs are not cosmetics but must be sold under doctor's recommendation due to potential skin damage. The operation was prompted by the Sri Lanka Skin Medical Experts Association's warning.
-
-🟩
-
-The Food and Drug Inspectors of the National Drug Regulatory Authority have launched a testing operation at several leading cosmetics stalls in Colombo on Tuesday (26) following a warning issued by the Sri Lanka Skin Medical Experts Association.
-
-A senior official of the National Drug Regulatory Authority said that those who sold these soldiers had purchased unregistered skin therapy in the wholesalers of cosmetics at the Colombo Fort.
-
-Subsequently, more than 470 skin therapeutic drugs were discovered by testing of the total outlet of two cosmetics on Kadirasan Road.
-
-The drugs must be sold only on the recommendation of the doctors. This is not a simple cosmetic material.
-
-Preliminary inquiries revealed that these unregistered drugs would bring local vendors to India and bring it into the country through customs.
-
-Two types of such drugs with three drug additives were seized. Hydroghuvinone, Tretinoin and Momatasone Furoate Cream are 3 chemical compounds. Steroid is one of them.
-
-...
-
-[Data](articles/f9782631.json)
-
-[Extended Data](ext_articles/f9782631.ext.json)
 
 ---
 
@@ -1478,6 +1578,8 @@ Furthermore, the breakdown has resulted in a backlog of over 500 patients awaiti
 
 [Data](articles/09f2ecea.json)
 
+[Extended Data](ext_articles/09f2ecea.ext.json)
+
 ---
 
 ### Technical malfunction leaves lives of hundreds of children with cancer at risk
@@ -2173,83 +2275,5 @@ These audacious exploits weren’t just acts of piracy; they were the seeds of n
 [Data](articles/c69f5f9f.json)
 
 [Extended Data](ext_articles/c69f5f9f.ext.json)
-
----
-
-### Eyes on T20 World Cup as South Africa prepare for Sri Lanka series
-
-*2024-03-26 23:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Eyes-on-T20-World-Cup-as-South-Africa-prepare-for-Sri-Lanka-series/108-279675) · `en`
-
-Mar. 26 (ICC) - South Africa Women are prepared to play six limited-overs games against Sri Lanka at home starting Wednesday.
-
-South Africa will host Sri Lanka in a three-match T20I series, followed by as many ODIs, that will also form a part of the ICC Women’s Championship 2022-25 cycle.
-
-As the preparations begin for the bilateral series, Proteas skipper Laura Wolvaardt has insisted that the series is "very crucial" for the hosts in the build up towards the ICC Women's T20 World Cup later this year in Bangladesh.
-
-“We don't have much cricket left as a group before the World Cup, so these three T20Is are very important just to try different combinations and to finalize that starting XI that we'd like to have for the World Cup,” Wolvaardt said in the pre-match press conference.
-
-...
-
-[Data](articles/60453976.json)
-
-[Extended Data](ext_articles/60453976.ext.json)
-
----
-
-### Nine agreements signed on China-Sri Lanka cooperation
-
-*2024-03-26 23:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nine-agreements-signed-on-China-Sri-Lanka-cooperation/108-279674) · `en`
-
-China, March 26 (Daily Mirror) -  The signing of nine new agreements between China and Sri Lanka took place today under the patronage of Chinese Prime Minister Li Qiang and Prime Minister Dinesh Gunawardena.
-
-The Prime Minister today paid floral tributes to the martyred war heroes at the Monument to the People's Heroes at Tiananmen Square, and after receiving the guard of honour from the Chinese military, bilateral discussions commenced.
-
-Later, during the bilateral talks held in the Great Hall in Beijing, more attention was paid to increasing overall cooperation in the social, cultural, educational and agricultural sectors in addition to economic cooperation.
-
-The Prime Ministers of the two countries confirmed that a new chapter in the long-term friendship and cooperation between Sri Lanka and China will begin through the nine memoranda of understanding signed between the two countries.
-
-...
-
-[Data](articles/e70de30c.json)
-
-[Extended Data](ext_articles/e70de30c.ext.json)
-
----
-
-### Ceylon Green Life Plantation enters FMCG market
-
-*2024-03-26 22:46:00* · [`islandlk`](http://island.lk/ceylon-green-life-plantation-enters-fmcg-market/) · `en`
-
-Ceylon Green Life Plantation (Pvt) Ltd, founded by Dr.Marlon Francis Petersay, veteran Entrepreneur and constructor, established his vision in 2022 to bring pride to Mother Sri Lanka through empowering “farming” in the most innovative fashion.
-
-Spanning across the island, he ventured to consumers to invest on lands that cultivates fruits to serve the purpose that he planned out.
-
-...
-
-[Data](articles/177212d3.json)
-
-[Extended Data](ext_articles/177212d3.ext.json)
-
----
-
-### No-faith motion on Speaker: Resolution to seek cost from opposition
-
-*2024-03-26 22:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-faith-motion-on-Speaker-Resolution-to-seek-cost-from-opposition/108-279673) · `en`
-
-Colombo, March 26 (Daily Mirror)- An idea has been mooted by the ruling party to bring in a resolution to claim expenditure incurred for the three day debate on the no-faith motion which was brought against Speaker Mahinda Yapa Abeywardena, a government MP said.
-
-MP Chamara Sampath Dassanayake told a gathering that the government is looking towards bringing the resolution during the next Parliament session.
-
-“A large sum has been wasted for the three day debate on the no faith motion against the Speaker and we are planning to claim these funds from the opposition,” he said.
-
-“The no faith motion brought against the Speaker was a useless exercise,” he added.
-
-The Speaker who made a special statement after the debate on the no faith motion announced that the three day debate had cost the House Rs 45 million.
-
-...
-
-[Data](articles/e391717a.json)
-
-[Extended Data](ext_articles/e391717a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 16:17:49**
+As of **2024-03-27 16:33:25**
 
 ## Newspaper Stats
 
-*Scraped **15,509** Articles*
+*Scraped **15,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 1,323
 adaderanalk | 1,860
 tamilmirrorlk | 1,866
 virakesarilk | 2,194
-dailymirrorlk | 2,391
-adaderanasinhalalk | 2,490
+dailymirrorlk | 2,392
+adaderanasinhalalk | 2,492
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,509 (100.0%) of 15,509 articles have been extended.
+15,509 (100.0%) of 15,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### කලා භවන යළි විවෘත කරන්නැයි ජනපතිගෙන් උපදෙස්
+
+*2024-03-27 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194998) · `si`
+
+වසර 13ක් තිස්සේ නිම කිරීමට අපොහොසත් වී ඇති ජෝන් ද සිල්වා සමරු රඟහල සහ වසා දමා ඇති ජාතික කලා භවන පරිශ්‍රයේ ජනාධිපතිවරයා අද (27) නිරීක්ෂණ චාරිකාවකට එක්විය.
+
+එහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා, මේ වසර අවසානයට පෙර ජාතික කලා භවන විවෘත කිරීම සඳහා පියවර ගන්නා ලෙස නිලධාරීන්ට උපදෙස් දුන්නේය.
+
+ඊට අවශ්‍ය මුල්‍ය ප්‍රතිපාදන ලබාදීමට රජය සූදානම් බවද ජනාධිපතිවරයා පැවසීය.
+
+2011 වසරේ ඉදිකිරීම් ඇරඹුණ ද‍, තවමත් රඟහලෙහි කාර්යයන් අවසන් කරලීමට හැකි වී නොමැත. ජාතික කලා භවනෙහි ප්‍රතිසංස්කරණ කටයුතු ද ඇණහිට තිබේ.
+
+ලුම්බිණි රඟහල සහ නව රඟහල යළිත් නාට්‍ය කලාව වෙනුවෙන් පණ ගැන්වීමේ හැකියාව පිළබඳව සොයා බලන ලෙස දැන්වූ ජනාධිපතිවරයා කොළඹ සුදර්ශී පරිශ්‍රයේ නාට්‍ය රඟහලක් ඉදිකිරීම සඳහා පියවර ගන්නා ලෙස ද අමාත්‍යංශ ලේකම්වරයාට උපදෙස් දුන්නේය.
+
+නෙළුම් පොකුණ‍, ⁣කලාභවන‍, ජෝන් ද සිල්වා සමරු රඟහල‍‍, කෞතුකාගාරය‍ සහ ඒ ආශ්‍රිත පරිශ්‍රයන් එක් කර ගනිමින් ජාතික සංස්කෘතික කලාපයක් නිර්මාණය කරලීම වැදගත් බව පෙන්වා දුන් ජනාධිපතිවරයා ඒ පිළිබඳ පරිපූර්ණ වාර්තාවක් සකස් කරන ලෙස සංස්කෘතික අමාත්‍යංශයේ ලේකම්වරයාට දැන්වීය.
+
+...
+
+[Data](articles/22188cd2.json)
+
+---
+
+### නුවරඑළියේදී කොටුවූ ජාත්‍යන්තර මත්ද්‍රව්‍ය ජාවාරම්කරු
+
+*2024-03-27 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194997) · `si`
+
+ජාත්‍යන්තර මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු නුවරඑළිය ප්‍රදේශයේදී පොලිස් විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඔහු සිය අනියම් බිරිඳ සමග නුවරඑළිය ප්‍රදේශයේ සිටියදී මෙලෙස අත්අඩංගුවට පත්ව ඇත.
+
+ඉන්දියාවේ කලක් සැඟව සිටි සැකකරු මෙරටට පැමිණ සිටියදී මෙලෙස අත්අඩංගුවට පත්ව ඇත.
+
+පසුගියදා පොලිස් විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගත් අයිස් මත්ද්‍රව්‍ය කිලෝ 09ක ප්‍රමාණය ද සැකකරු විසින් මෙරටට ගෙන්වා ඇති බවට සැකපළ කරයි.
+
+◼️
+
+[Data](articles/f6892f1e.json)
+
+---
 
 ### Kuwait's decision about 19,620 Sri Lankans
 
@@ -159,6 +199,22 @@ Police said that two women who were working in adulterers who were working in ad
 [Data](articles/c6c30c2b.json)
 
 [Extended Data](ext_articles/c6c30c2b.ext.json)
+
+---
+
+### Easter Sunday attacks: Writ petition against Nilantha Jayawardane fixed for support
+
+*2024-03-27 15:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Easter-Sunday-attacks-Writ-petition-against-Nilantha-Jayawardane-fixed-for-support/108-279725) · `en`
+
+Colombo, March 27 (Daily Mirror)- A writ petition filed seeking an order to conduct a credible investigation and take appropriate actions against Senior DIG Nilantha Jayawardane for his omission and serious dereliction of duty which led to the Easter Sunday attacks, was today fixed for support by the Court of Appeal.
+
+The Court was informed that two other petitions of a similar nature have been filed before the Court of Appeal. The Court of Appeal two-judge-bench comprising Justices Sobhitha Rajakaruna and Dhammika Ganepola fixed the petition for support on May 28.
+
+The Centre for Society and Religion had filed this writ petition before the Court of Appeal seeking an order to conduct a credible investigation and take appropriate actions against Senior DIG Nilantha Jayawardane for his omission and serious dereliction of duty which led to the Easter Sunday bombing in 2019.
+
+...
+
+[Data](articles/ecc495d5.json)
 
 ---
 
@@ -2313,71 +2369,5 @@ President Ranil Wickremesinghe further pointed out that the implementation of th
 [Data](articles/98c7540c.json)
 
 [Extended Data](ext_articles/98c7540c.ext.json)
-
----
-
-### Technical malfunction leaves lives of hundreds of children with cancer at risk
-
-*2024-03-27 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Technical-malfunction-leaves-lives-of-hundreds-of-children-with-cancer-at-risk/155-279676) · `en`
-
-Colombo, March 27 (Daily Mirror) - The prolonged breakdown of one of the linear accelerators at the Apeksha Hospital, Maharagama, which predominantly treats the pediatric patients has placed hundreds of lives at risk.
-
-Sources familiar with the matter revealed that the linear accelerator, crucial for administering radiotherapy — a vital cancer treatment, has been non-operational since February.
-
-Despite the severity of the situation, the Health Ministry has turned a blind eye by not taking remedial measures to rectify the issue, exacerbating the concerns.
-
-Apeksha Hospital currently houses five linear accelerators, each playing a pivotal role in delivering various treatments. However, the malfunctioning machine holds particular significance for pediatric patients due to its specialized features.
-
-Furthermore, the breakdown has resulted in a backlog of over 500 patients awaiting treatment, plunging many, especially children, into precarious circumstances where their lives hang in the balance.
-
-...
-
-[Data](articles/09f2ecea.json)
-
-[Extended Data](ext_articles/09f2ecea.ext.json)
-
----
-
-### Technical malfunction leaves lives of hundreds of children with cancer at risk
-
-*2024-03-27 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Technical-malfunction-leaves-lives-of-hundreds-of-children-with-cancer-at-risk/108-279676) · `en`
-
-Colombo, March 27 (Daily Mirror) - The prolonged breakdown of one of the linear accelerators at the Apeksha Hospital, Maharagama, which predominantly treats the pediatric patients has placed hundreds of lives at risk.
-
-Sources familiar with the matter revealed that the linear accelerator, crucial for administering radiotherapy — a vital cancer treatment, has been non-operational since February.
-
-Despite the severity of the situation, the Health Ministry has turned a blind eye by not taking remedial measures to rectify the issue, exacerbating the concerns.
-
-Apeksha Hospital currently houses five linear accelerators, each playing a pivotal role in delivering various treatments. However, the malfunctioning machine holds particular significance for pediatric patients due to its specialized features.
-
-Furthermore, the breakdown has resulted in a backlog of over 500 patients awaiting treatment, plunging many, especially children, into precarious circumstances where their lives hang in the balance.
-
-...
-
-[Data](articles/33322b77.json)
-
-[Extended Data](ext_articles/33322b77.ext.json)
-
----
-
-### Central Bank delivers 50bps policy rates cut
-
-*2024-03-27 04:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-delivers-50bps-policy-rates-cut/108-279671) · `en`
-
-Says softer than expected inflation provided space to resume cuts
-
-Expresses confidence of maintaining mid-term inflation at targeted range between 4% to 6%
-
-The Central Bank yesterday resumed cuts by further reducing key policy rates by 50 basis points as inflation remains anchored. The move was also to further ease the financial conditions with a view to support and accelerate the expansion of the economy.
-
-The rates cut came after a four months hiatus since November 22 last year, when the Central Bank said they would pause any more reduction until both, the government securities yields and the lending rates, fall broadly in line with the policy rates.
-
-Although both yields and rates eased thereafter, quite notably the yields showed some reversal in the last four weeks while the softening in lending rates slowed, the Central Bank said.
-
-...
-
-[Data](articles/e14182a5.json)
-
-[Extended Data](ext_articles/e14182a5.ext.json)
 
 ---

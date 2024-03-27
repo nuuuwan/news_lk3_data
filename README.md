@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 11:03:13**
+As of **2024-03-27 11:17:55**
 
 ## Newspaper Stats
 
-*Scraped **15,435** Articles*
+*Scraped **15,439** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,16 +17,16 @@ dailyftlk | 835
 islandlk | 854
 adalk | 1,313
 tamilmirrorlk | 1,851
-adaderanalk | 1,852
+adaderanalk | 1,853
 virakesarilk | 2,177
-dailymirrorlk | 2,383
-adaderanasinhalalk | 2,479
+dailymirrorlk | 2,385
+adaderanasinhalalk | 2,480
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,433 (100.0%) of 15,435 articles have been extended.
+15,435 (100.0%) of 15,439 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,20 @@ That is an achievement for the party that languished on the sideline. Their luck
 
 ---
 
+### New Women’s Hospital opened in Karapitiya
+
+*2024-03-27 10:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-Womens-Hospital-opened-in-Karapitiya/108-279701) · `en`
+
+Galle, March 27 (Daily Mirror)- The German-Sri Lanka Friendship Women's Hospital in Karapitiya, Galle, the largest maternity hospital in Sri Lanka and South Asia, was inaugurated by President Ranil Wickremesinghe this morning, the Presidential Media Division (PMD) said.
+
+The hospital comprises 640 beds, six operating theatres, emergency units, intensive care, pediatric units and modern facilities.
+
+◼️
+
+[Data](articles/5586e70a.json)
+
+---
+
 ### New Women’s Hospital in Karapitiya declared open
 
 *2024-03-27 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98231/new-womens-hospital-in-karapitiya-declared-open) · `en`
@@ -64,21 +78,63 @@ It is understood that this facility is the largest maternity hospital not only i
 
 [Data](articles/0ae235cb.json)
 
+[Extended Data](ext_articles/0ae235cb.ext.json)
+
 ---
 
-### கோட்டா பதவியிலிருந்து அகற்றப்பட்டதன் பின்னணியில் பலம் வாய்;ந்த வெளிநாடு -சபாநாயகர் தெரிவித்திருப்பது குறித்து முழுமையான விசாரணையை கோருகின்றார் பிரசன்ன
+### South Asia’s largest maternity hospital declared open in Karapitiya
+
+*2024-03-27 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98231/south-asias-largest-maternity-hospital-declared-open-in-karapitiya) · `en`
+
+The German-Sri Lanka Friendship New Women’s Hospital in Karapitiya, Galle was inaugurated by President Ranil Wickremesinghe on Wednesday morning (March 27).
+
+Boasting a total of 640 beds, six operating theatres, emergency units, intensive care, paediatric units and modern facilities, it marks a significant advancement in SL’s healthcare, the President’s Media Division (PMD) said.
+
+It is understood that this facility is the largest maternity hospital not only in Sri Lanka but also in South Asia.
+
+◼️
+
+[Data](articles/29e93f99.json)
+
+---
+
+### දකුණු ආසියාවේ විශාලතම මාතෘ රෝහල ජනපති අතින් විවෘත කෙරේ
+
+*2024-03-27 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194985) · `si`
+
+දකුණු ආසියානු කලාපයේ විශාලතම මාතෘ රෝහල ලෙස සැලකෙන ගාල්ල, කරාපිටියේ ඉදිකළ ජර්මන් - ශ්‍රී ලංකා මිත්‍රත්ව නව කාන්තා රෝහල ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් මීට සුළු වේලාවකට පෙර විවෘත කර තිබේ.
+
+මහල් හයකින් යුක්ත මෙම රෝහල ඇඳන් 640කින්, ශල්‍යාගාර හයකින් සමන්විත වන අතර හදිසි ප්‍රතිකාර ඒකක, දැඩි සත්කාර ඒකක, රසායනාගාර, ළදරු දැඩි සත්කාර ඒකක, විශේෂ ළමා ඒකක ඇතුළු සියලුම නවීන වෛද්‍ය පහසුකම්වලින් යුක්තය.
+
+◼️
+
+[Data](articles/2c939496.json)
+
+---
+
+### Prasanna is demanding a thorough investigation into the abolish -abroad of the staff behind the removal of Kota's post.
 
 *2024-03-27 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/179800) · `ta`
 
-முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்சவை பதவியிலிருந்து அகற்றப்பட்டதன் பின்னணியில் வெளிநாட்டு சக்திகள் உள்ளதாக  சபாநாயகர் தெரிவித்துள்ளமை குறித்து முழுமையான விசாரணைகள் இடம்பெறவேண்டும் என அமைச்சர் பிரசன்ன ரணதுங்க வேண்டுகோள் விடுத்துள்ளார்.
+Prasanna Ranatunga demands an investigation into the removal of Kota's post, alleging foreign interference. He criticizes silence from all parties on March 21 and the raid on May 9, 2019, lodging a complaint with the Human Rights Commission.
 
-மார்ச் 21ம் திகதி சபாநாயகர் இது குறித்து பகிரங்கமாக அறிவித்துள்ள போதிலும் ஏன்  ஆளும்கட்சி உட்பட அனைத்து கட்சிகளும் அமைதியாக உள்ளன என ஐலண்ட் நாளிதழ் எழுப்பிய கேள்விக்கு பதிலளிக்கையிலேயே பிரசன்ன ரணதுங்க இதனை தெரிவித்துள்ளார்.
+🟩
 
-2019 ம் ஆண்டு உயிர்த்த ஞாயிறுதாக்குதல் குறித்து விசாரணையை கோரும் அரசியல்கட்சிகள்  நாடாளுமன்ற உறுப்பினர்கள் ஏன் இந்த விடயம் குறித்து அமைதியாக உள்ளனர் என்ற ஐலண்ட் கேள்வி எழுப்பியதற்கு பதிலளித்துள்ள பிரசன்ன ரணதுங்க தான் அரசியல் கட்சி தலைவர்களின் கூட்டத்தில்இது குறித்து கேள்வி எழுப்பவுள்ளதாக தெரிவித்துள்ளார்.
+Minister Prasanna Ranatunga has requested that a thorough investigation be held on the Speaker's statement that foreign powers are in the wake of the removal of former President Gotabhaya Rajapaksa.
 
-...
+Prasanna Ranatunga said this in response to a question raised by the Island newspaper as to why all parties, including the ruling party, have been silent on March 21.
+
+Prasanna Ranatunga, who responded to the question of why parliamentarians, are silent on the issue, demanding an investigation into the raid on Sunday 2019, said that he would question the meeting of political party leaders.
+
+He also noted that he was not satisfied with the attacks on the Sri Lankan Public Public Public Administration, following the attack on the Arakala activists on May 9, 2022.
+
+I have lodged a complaint with the Human Rights Commission.
+
+◼️
 
 [Data](articles/ca3e8050.json)
+
+[Extended Data](ext_articles/ca3e8050.ext.json)
 
 ---
 
@@ -251,6 +307,24 @@ Upul Rohana stated that it is compulsory to obtain medical reports of food manuf
 [Data](articles/16ef2342.json)
 
 [Extended Data](ext_articles/16ef2342.ext.json)
+
+---
+
+### Non-appointment of Bribery Commission DG challenged in SC
+
+*2024-03-27 09:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Non-appointment-of-Bribery-Commission-DG-challenged-in-SC/108-279700) · `en`
+
+Colombo, March 27 (Daily Mirror) - The Commissioner General of Land, Bandula Jayasinghe yesterday challenged an indictment filed by the Bribery Commission against him on the premise that no Director General has been appointed thus far by the President.
+
+When the writ application was taken up for support in the Supreme Court, Counsel Hafeel Farisz appearing for the Commissioner General told court that there was no Director General currently enforced by the Bribery Commission under the Anti-Corruption Act.
+
+Counsel submitted to court that the Anti-Corruption Act completely repealed the previous law and there was no provision for the continuation of the office of the Director General.
+
+He further stated that the person acting as the Director General was appointed under the previous act and that there is no approval by the President and the Constitutional Council for the previous holder to continue in the position of the officer.
+
+...
+
+[Data](articles/11723f9d.json)
 
 ---
 
@@ -2147,97 +2221,5 @@ The Monetary Policy Board has believed that the risk of rising inflation will no
 [Data](articles/e81c3b6e.json)
 
 [Extended Data](ext_articles/e81c3b6e.ext.json)
-
----
-
-### NFCO urges Power Ministry to repay electricity reconnection fees
-
-*2024-03-26 18:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NFCO-urges-Power-Ministry-to-repay-electricity-reconnection-fees/108-279644) · `en`
-
-Colombo, March 26 (Daily Mirror) - The National Front of Civil Organizations (NFCO) today demanded that the Ministry of Power and Energy repay the fees collected as electricity reconnection charges.
-
-NFCO president Priyantha Thilakarathna told the media that Rs. 3,000 is charged from electricity consumers for reconnections at present, but it was not reduced as announced by the Public Utilities Commission of Sri Lanka (PUCSL).
-
-He said that the PUCSL had announced the revised charges for electricity consumers for reconnections, but the Ceylon Electricity Board (CEB) had not taken any decision to revise the reconnection charges.
-
-Therefore, the members of the NFCO gathered in front of the CEB head office in Colombo today, requesting the authority to reveal the total amount of charges collected through the electricity reconnection process via the Right to Information Act.
-
-◼️
-
-[Data](articles/2ea4b28d.json)
-
-[Extended Data](ext_articles/2ea4b28d.ext.json)
-
----
-
-### University system changes - President
-
-*2024-03-26 18:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194966) · `si`
-
-President Ranil Wickremesinghe emphasized the importance of law and order, economic stability, and a new education system. He discussed with university lecturers the need for entrepreneurship education, practical curriculum changes, and the role of everyone in regularizing university education.
-
-🟩
-
-The president of the struggle, rescue the violence, the parliament, the Prime Minister's Office and the Presidential Secretariat, to rescue the state property and the Presidential Officers to establish law and order in the country.
-
-President Ranil Wickremesinghe said that if it was not possible, there would be no economic stability in the country.
-
-He said that the President emphasized that law and order should not be able to break the law and peace in the way to a country.
-
-President Ranil Wickremesinghe made this statement at the meeting with university lecturers at the Presidential Secretariat yesterday.
-
-Former Minister of Education Akila Viraj Kariyawasam was organized by former Minister of Education Akila Viraj Kariyawasam to discuss the current economic program in the country and the comments and proposals of university teachers.
-
-...
-
-[Data](articles/519b45ff.json)
-
-[Extended Data](ext_articles/519b45ff.ext.json)
-
----
-
-### Cars - Two killed in motorcycle accident
-
-*2024-03-26 18:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194965) · `si`
-
-In Kohomballe, a car collided with a motorcycle, killing a 26-year-old man and a 32-year-old woman. The car's occupants were arrested.
-
-🟩
-
-A car traveling from Matale to Warakamama has collided with a motorcycle traveling opposite direction in Kohomballe.
-
-A young man and a young girl who was traveling on the motorcycle were admitted to the Matale District Hospital yesterday (25).
-
-The victim was 26 years old and the girl was 32 years.
-
-Two youth in the car had traveled and arrested them.
-
-◼️
-
-[Data](articles/5168d91d.json)
-
-[Extended Data](ext_articles/5168d91d.ext.json)
-
----
-
-### Poholes May Day rally on Campbell
-
-*2024-03-26 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194964) · `si`
-
-Sri Lanka General Front plans May Day rally on Campbell. MP Mahindananda Aluthgamage mentions uncertainty about presidential election and election commission's decision. Despite this, the Sri Lanka Cran's Front is prepared for any election.
-
-🟩
-
-MP Mahindananda Aluthgamage says that the Sri Lanka General Front will hold the May Day rally on the Colombo Campbach.
-
-He further stated that they cannot decide whether they cannot decide and that they should not decide and determine if it is a presidential election and the election commission.
-
-However, Mr. Aluthgamage said the Sri Lanka Cran's Front is ready for any election.
-
-◼️
-
-[Data](articles/6338eabc.json)
-
-[Extended Data](ext_articles/6338eabc.ext.json)
 
 ---

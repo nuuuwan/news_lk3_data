@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 16:33:25**
+As of **2024-03-27 16:48:45**
 
 ## Newspaper Stats
 
-*Scraped **15,512** Articles*
+*Scraped **15,519** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,59 +16,187 @@ dailyftlk | 835
 economynextcom | 836
 islandlk | 854
 adalk | 1,323
-adaderanalk | 1,860
-tamilmirrorlk | 1,866
+adaderanalk | 1,864
+tamilmirrorlk | 1,867
 virakesarilk | 2,194
 dailymirrorlk | 2,392
-adaderanasinhalalk | 2,492
+adaderanasinhalalk | 2,494
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,509 (100.0%) of 15,512 articles have been extended.
+15,512 (100.0%) of 15,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### කලා භවන යළි විවෘත කරන්නැයි ජනපතිගෙන් උපදෙස්
+### ஜனநாயகத்தை முழுமையாகப் பாதுகாத்த ஒரே நாடு இலங்கை
 
-*2024-03-27 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194998) · `si`
+*2024-03-27 16:34:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனநாயகத்தை-முழுமையாகப்-பாதுகாத்த-ஒரே-நாடு-இலங்கை/175-335268) · `ta`
 
-වසර 13ක් තිස්සේ නිම කිරීමට අපොහොසත් වී ඇති ජෝන් ද සිල්වා සමරු රඟහල සහ වසා දමා ඇති ජාතික කලා භවන පරිශ්‍රයේ ජනාධිපතිවරයා අද (27) නිරීක්ෂණ චාරිකාවකට එක්විය.
+ஆளும் கட்சியினால் எதிர்க்கட்சிகளின் செயற்பாடுகளுக்கு எந்தவித பாதிப்பும் ஏற்படாத வகையில் ஜனநாயகத்தை முழுமையாகப் பாதுகாக்கும் ஒரேயொரு ஆசிய நாடு இலங்கை மட்டுமே என ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
 
-එහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා, මේ වසර අවසානයට පෙර ජාතික කලා භවන විවෘත කිරීම සඳහා පියවර ගන්නා ලෙස නිලධාරීන්ට උපදෙස් දුන්නේය.
+அத்தோடு சகலருக்கும் தமது கருத்துக்களை வெளியிட வாய்ப்புள்ள ஜனநாயக பாராளுமன்ற முறையை பாதுகாப்பதன் முக்கியத்துவத்தையும் ஜனாதிபதி வலியுறுத்தினார்.
 
-ඊට අවශ්‍ය මුල්‍ය ප්‍රතිපාදන ලබාදීමට රජය සූදානම් බවද ජනාධිපතිවරයා පැවසීය.
+ஜனாதிபதி அலுவலகத்தில் நேற்று (26) நடைபெற்ற இலங்கையின் முதலாவது தேசிய மாணவர் பாராளுமன்றத்தின் ஆரம்ப அமர்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க மேற்கண்டவாறு தெரிவித்தார்.
 
-2011 වසරේ ඉදිකිරීම් ඇරඹුණ ද‍, තවමත් රඟහලෙහි කාර්යයන් අවසන් කරලීමට හැකි වී නොමැත. ජාතික කලා භවනෙහි ප්‍රතිසංස්කරණ කටයුතු ද ඇණහිට තිබේ.
-
-ලුම්බිණි රඟහල සහ නව රඟහල යළිත් නාට්‍ය කලාව වෙනුවෙන් පණ ගැන්වීමේ හැකියාව පිළබඳව සොයා බලන ලෙස දැන්වූ ජනාධිපතිවරයා කොළඹ සුදර්ශී පරිශ්‍රයේ නාට්‍ය රඟහලක් ඉදිකිරීම සඳහා පියවර ගන්නා ලෙස ද අමාත්‍යංශ ලේකම්වරයාට උපදෙස් දුන්නේය.
-
-නෙළුම් පොකුණ‍, ⁣කලාභවන‍, ජෝන් ද සිල්වා සමරු රඟහල‍‍, කෞතුකාගාරය‍ සහ ඒ ආශ්‍රිත පරිශ්‍රයන් එක් කර ගනිමින් ජාතික සංස්කෘතික කලාපයක් නිර්මාණය කරලීම වැදගත් බව පෙන්වා දුන් ජනාධිපතිවරයා ඒ පිළිබඳ පරිපූර්ණ වාර්තාවක් සකස් කරන ලෙස සංස්කෘතික අමාත්‍යංශයේ ලේකම්වරයාට දැන්වීය.
+நாட்டின் 09 மாகாணங்களையும் உள்ளடக்கும் வகையில் 100 வலயங்களில் நிறுவப்பட்ட அனைத்து வலய மாணவர் பாராளுமன்றங்களிலிருந்தும் அதிக வாக்குகளைப் பெற்ற தலா இரு உறுப்பினர்கள் தேசிய மாணவர் பாராளுமன்றத்தைப் பிரதிநிதித்துவப்படுத்துகின்றனர்.
 
 ...
 
-[Data](articles/22188cd2.json)
+[Data](articles/5a75ab44.json)
 
 ---
 
-### නුවරඑළියේදී කොටුවූ ජාත්‍යන්තර මත්ද්‍රව්‍ය ජාවාරම්කරු
+### Road blocked in Colombo due to medical students’ protest
+
+*2024-03-27 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98243/road-blocked-in-colombo-due-to-medical-students-protest) · `en`
+
+One lane of the road from Punchi Borella towards Maradana has been blocked for traffic due to a protest by medical students, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/b3aba957.json)
+
+---
+
+### Namal replaces Basil as SLPP’s national organiser
+
+*2024-03-27 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98242/namal-replaces-basil-as-slpps-national-organiser) · `en`
+
+MP Namal Rajapaksa has been unanimously elected as the Sri Lanka Podujana Peramuna’s new national organiser, a post previously held by former Finance Minister Basil Rajapaksa.
+
+The new appointment was during the SLPP’s executive committee meeting convened on Wednesday at former President Mahinda Rajapaksa’s official residence at Wijerama Road in Colombo.
+
+State Minister D.V. Chanaka communicated this to media persons following the meeting.
+
+◼️
+
+[Data](articles/d3d74383.json)
+
+---
+
+### නාමල්ට ලොකු තනතුරක්
+
+*2024-03-27 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194999) · `si`
+
+ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක ධුරයට නාමල් රාජපක්ෂ පත්කර තිබේ.
+
+එම පක්ෂයේ විධායක කමිටු රැස්වීම අද පස්වරුවේ කොළඹ විජේරාම මාවතේ හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ නිල නිවසේදී පැවැත්විණි.
+
+එම රැස්වීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දැක්වූ රාජ්‍ය අමාත්‍ය ඩී වී චානක මහතා පැවසුවේ එහිදී මෙම තීරණය ගත් බවය.
+
+මීට පෙර ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක ධුරය හෙබවූයේ හිටපු අමාත්‍ය බැසිල් රාජපක්ෂ විසිනි.
+
+◼️
+
+[Data](articles/8c8cdb80.json)
+
+---
+
+### විරෝධයක් නිසා බොරැල්ලේ සිට මරදාන දක්වා රථවාහන තදබදයක්
+
+*2024-03-27 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195000) · `si`
+
+වෛද්‍ය පීඨ ශිෂ්‍ය ක්‍රියාකාරීන්ගේ විරෝධතා පාගමනක් හේතුවෙන් බොරැල්ලේ සිට මරදාන දක්වා මාර්ගයේ රථවාහන තදබදයක් හටගෙන තිබේ.
+
+පොලීසිය සඳහන් කළේ එක් මංතීරුවක මෙලෙස රථවාහන තදබදය හටගෙන ඇති බවය.
+
+◼️
+
+[Data](articles/ac0797b1.json)
+
+---
+
+### STF nab international drug trafficker hiding in Nuwara Eliya
+
+*2024-03-27 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98241/stf-nab-international-drug-trafficker-hiding-in-nuwara-eliya) · `en`
+
+The Police Special Task Force (STF) has arrested a suspected international drug trafficker in Nuwara Eliya, police said.
+
+The arrested suspect has been identified as Kahanavitage Don Nandasena.
+
+He had reportedly been arrested while in hiding in the Nuwara Eliya area with his mistress.
+
+The accused is believed to have been in hiding in India for a while before returning back to the island.
+
+It is also suspected that the 09 kilograms of ‘ice’ (crystal methamphetamine) recently taken into custody by the STF had been trafficked into the country by the same suspect.
+
+◼️
+
+[Data](articles/5fb7a976.json)
+
+---
+
+### Sri Lankan Prime Minister calls on Chinese President Xi Jinping
+
+*2024-03-27 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98240/sri-lankan-prime-minister-calls-on-chinese-president-xi-jinping) · `en`
+
+Sri Lankan Prime Minister Dinesh Gunawardena, who is on a state visit to China, called on President Xi Jinping on Wednesday (March 27).
+
+The meeting took place at the Great Hall of the People in Beijing.
+
+PM Gunawardena is accompanied by Finance State Minister Shehan Semasinghe, Home Affairs State Minister Ashoka Priyantha, MP Yadamini Gunawardena, Chinese Ambassador to Sri Lanka Qi Zhenhong and Prime Minister’s Secretary Anura Dissanayake.
+
+◼️
+
+[Data](articles/c013bfdc.json)
+
+---
+
+### President instructs to reopen arts
+
+*2024-03-27 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194998) · `si`
+
+President Ranil Wickremesinghe visited the John de Silva Memorial Theater and the closed National Art Gallery, instructing officials to reopen national arts with financial support. Despite ongoing renovations, he also directed the Ministry of Culture to enhance the Colombo Sudarshi premises and create a report on the Nelum Pokuna, Museum, and Assistant premises, aiming to elevate Sri Lanka's museum system internationally.
+
+🟩
+
+The President visited the John de Silva Memorial Theater and the closed National Art Gallery premises today (27).
+
+President Ranil Wickremesinghe instructed the officials to take action to open the national arts.
+
+The government is ready to provide the necessary financial provisions.
+
+Although the construction of 2011 has begun, the work of the Theater has not been able to end. The renovation work of the National Art Gallery.
+
+The President also instructed the Secretary to the Ministry to take steps to build a playform of the Colombo Sudarshi premises.
+
+The President told the Secretary to the Ministry of Culture to create a perfect report on the Nelum Pokuna, Museum and Assistant premises.
+
+The President also requested the officials to name an advisory country to approach the museum system in Sri Lanka to the international level.
+
+◼️
+
+[Data](articles/22188cd2.json)
+
+[Extended Data](ext_articles/22188cd2.ext.json)
+
+---
+
+### International Drug Abuse Trafficker in Nuwara Eliya
 
 *2024-03-27 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194997) · `si`
 
-ජාත්‍යන්තර මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු නුවරඑළිය ප්‍රදේශයේදී පොලිස් විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The Police Special Task Force in Nuwara Eliya arrested an international drug trafficker and his mistress, seizing 9 kg of Ice drug.
 
-ඔහු සිය අනියම් බිරිඳ සමග නුවරඑළිය ප්‍රදේශයේ සිටියදී මෙලෙස අත්අඩංගුවට පත්ව ඇත.
+🟩
 
-ඉන්දියාවේ කලක් සැඟව සිටි සැකකරු මෙරටට පැමිණ සිටියදී මෙලෙස අත්අඩංගුවට පත්ව ඇත.
+The Police Special Task Force has been arrested by the STF in the Nuwara Eliya area.
 
-පසුගියදා පොලිස් විශේෂ කාර්ය බළකාය විසින් අත්අඩංගුවට ගත් අයිස් මත්ද්‍රව්‍ය කිලෝ 09ක ප්‍රමාණය ද සැකකරු විසින් මෙරටට ගෙන්වා ඇති බවට සැකපළ කරයි.
+He was arrested in Nuwara Eliya with his mistress.
+
+The suspect was in India, the suspect was arrested in India.
+
+The additional 9 Ice drug was arrested by the STF and the number of Ice drug was imported by the suspect.
 
 ◼️
 
 [Data](articles/f6892f1e.json)
+
+[Extended Data](ext_articles/f6892f1e.ext.json)
 
 ---
 
@@ -215,6 +343,8 @@ The Centre for Society and Religion had filed this writ petition before the Cour
 ...
 
 [Data](articles/ecc495d5.json)
+
+[Extended Data](ext_articles/ecc495d5.ext.json)
 
 ---
 
@@ -2179,195 +2309,5 @@ Sanjeewa Eramamanna, Media Statement of Sri Lanka General
 [Data](articles/9a174380.json)
 
 [Extended Data](ext_articles/9a174380.ext.json)
-
----
-
-### A shot of an organized criminal
-
-*2024-03-27 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194977) · `si`
-
-An organized criminal's house in Athuruga was shot at, with 7 shots causing damage but no casualties. The criminal, known for crimes in Athurugiriya and Navagamuwa, was targeted.
-
-🟩
-
-Dankena Amarasinghe alias Athurugathiwa road in Athuruga, which is owned by an international organizing criminal, has been shot at a house in Galvana road today (27).
-
-He said that about 7 shots have been taken home and no casualties have been damaged in the attack.
-
-It is reported that the door windows of the house have been damaged by shooting.
-
-It has been reported that the person who was led by the man who had many crimes in Athurugiriya and Navagamuwa recently.
-
-◼️
-
-[Data](articles/f127df35.json)
-
-[Extended Data](ext_articles/f127df35.ext.json)
-
----
-
-### Ranasilla Jayatilleke: "Without a trainer, without sponsor"
-
-*2024-03-27 07:16:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv2y3k4mvr9o) · `si`
-
-Ranasilla Jayatilleke, a Sri Lankan weightlifter, won 322 kg in the Deadlift event at the Arnold Sports Festival UK, despite facing challenges without a coach or sponsor. He's won over 60 international medals and is aiming for the world championship.
-
-🟩
-
-Ranasilla Jayatilleke: "Without a trainer, without sponsor"
-
-He won over 60 international medals in the raising of Sri Lanka.
-
-It was recently engaged in the lifting of Sri Lanka since the age of seven.
-
-ARNOLD SPORTS FESTIVAL UK, organized by Arnold Sroups, which was organized by the Fixed World Championship, was organized by the World's Third place in the world's third place.
-
-The tournament was the 9th place in the event.
-
-Although millions of Sri Lankans are happy with the excellent achievement, the story of the competition is not a satisfactory one.
-
-Ranasilla Jayatilleka explained the lifting championship championship.
-
-"The Meat was in England. I was late to get visas. Finally, Minister Harin Fernando was helping me to get me the passport. Thursday was that. After 23 hours of trip, I went to England. There was a Saturday Meat. I had only 30 minutes to the competition, "Ranasil Jayatilleke said.
-
-He was in the center of many difficulties as he had no coach, an assistant or anyone else.
-
-...
-
-[Data](articles/eaa80f28.json)
-
-[Extended Data](ext_articles/eaa80f28.ext.json)
-
----
-
-### Police shot dead by police
-
-*2024-03-27 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194976) · `si`
-
-In Narammala, police shot dead a robber during a robbery attempt. Two suspects fled, and one was hospitalized.
-
-🟩
-
-One person was killed in a shooting conducted by the police in Narammala.
-
-According to police, one of three persons who had come to robbery were killed in shooting.
-
-The police said that the robberies have tried to plunder the money of the people who come to buy mobile phones.
-
-According to the answer, a group of people in Ruwanwella had arrived in the area to buy mobile phones, and they had gone to the police with police officers.
-
-The robbers have informed them to come to a place in Narammala and the robbers were attacked with sharp weapons to their car.
-
-Police said that the police officers had shot dead during a rational incident with police officers.
-
-Two robbers have fled and the injured have been killed in hospitalization.
-
-The two suspects were injured and admitted to the Kurunegala Teaching Hospital with injuries due to the robbers.
-
-◼️
-
-[Data](articles/72db95c2.json)
-
-[Extended Data](ext_articles/72db95c2.ext.json)
-
----
-
-### Police open fire at group of robbers; one person dead
-
-*2024-03-27 06:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98225/police-open-fire-at-group-of-robbers-one-person-dead) · `en`
-
-One person has reportedly died after the police opened fire at a group of robbers in the Narammala area. However, two other robbers have fled the scene, according to police.
-
-Police said that the robbers had tried to steal money from the people who came to purchase mobile phones responding to advertisements published by the suspects in newspapers regarding the sale of Apple iPhones.
-
-After seeing the said advertisement, a group of persons had come from the Ruwanwella area to buy mobile phones, and based on their suspicions, they had informed the police about this and had gone to meet them with the police officers.
-
-The robbers had informed them to come to a place in Narammala and upon reaching the said place, the robbers had attacked their car with sharp weapons.
-
-Police said that during a scuffle with the police officers, one of the police officers had shot at the robbers. Two robbers had managed to escape while one of the robbers who was injured in the shooting has later died in hospital.
-
-...
-
-[Data](articles/cd22c2c8.json)
-
-[Extended Data](ext_articles/cd22c2c8.ext.json)
-
----
-
-### Heavy showers above 100 mm likely after 2 p.m. today
-
-*2024-03-27 06:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-showers-above-100-mm-likely-after-2-p-m-today/108-279678) · `en`
-
-Colombo, March 27 (Daily Mirror) - Heavy showers above 100 mm are likely at some places in the Western, Sabaragamuwa, North-Western, and Central Provinces of the island after 2 p.m. today, the Forecasting Division of the National Meteorological Centre said.
-
-They said the atmospheric conditions are getting favorable for afternoon thundershowers in most parts of the island today.
-
-Several spells of showers may occur in the Eastern, Uva and Southern Provinces in the morning.
-
-However, misty conditions can be expected at some places in the Central, Sabaragamuwa, and Uva Provinces and in the Kalutara, Galle and Matara districts during the morning.
-
-Meanwhile, showers will occur in the sea areas off the coast, extending from Trincomalee to Galle via Batticaloa and Hambantota.
-
-Showers may occur at a few places in the sea areas off the coast, extending from Puttalam to Galle via Colombo, during the afternoon or night.
-
-...
-
-[Data](articles/ee28423e.json)
-
-[Extended Data](ext_articles/ee28423e.ext.json)
-
----
-
-### Heavy rains in many parts of the island
-
-*2024-03-27 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194974) · `si`
-
-Heavy rains and thundershowers expected in many island parts, especially in Western, Sabaragamuwa, North Western, Central, East, Uva, and Southern provinces. High winds and lightning risks advised.
-
-🟩
-
-In many parts of the island, there is a favorable atmospheric objective of thundershowers in the evening.
-
-Department of Meteorological Department announced in many parts of the island. Showers or thundershowers will occur at several times after 2.00.
-
-Some places in the Western, Sabaragamuwa, North Western and Central provinces. Mee. Heavy rains may occur at more than 100.
-
-Thundershowers will occur at the East, Uva and Southern provinces.
-
-Some locations, in some places in the Central, Sabaragamuwa and Uva provinces and in Kalutara, Galle and Matara districts are expected to be met.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/527c19dc.json)
-
-[Extended Data](ext_articles/527c19dc.ext.json)
-
----
-
-### The Act for Digital Economic Transaction will be presented in Parliament in the middle of this year - the President
-
-*2024-03-27 06:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179787) · `ta`
-
-President Ranil Wickremesinghe announced the Act for Digital Economic Transaction, aiming to transform Sri Lanka into a digital and green economy. The law will establish a digital transaction agency and AI center, focusing on digital public infrastructure, modern agriculture, poverty reduction, and education reform. A billion rupees from the 2024 budget will be allocated for this initiative. The government plans to strengthen the education system and introduce AI in schools, collaborating with Indian companies and institutions.
-
-🟩
-
-President Ranil Wickremesinghe said the laws for the creation of a digital transaction agency and artificial intelligence center (AI) will be tabled in Parliament this year.
-
-The President also said that through rapid digital transactions, the economy of our country could be transformed into an emerging economy in the Indian Ocean region.
-
-President Ranil Wickremesinghe made this statement while addressing the Digital Infrastructure Conference at the Taj Samudra Hotel in Colombo on Tuesday (26).
-
-A number of Indian and Sri Lankan experts participated in the event with knowledge and experience representing various departments on digital public infrastructure and administration.
-
-President Ranil Wickremesinghe further pointed out that the implementation of the new laws can be transformed into Sri Lanka's economy as a digital and green economy.
-
-...
-
-[Data](articles/98c7540c.json)
-
-[Extended Data](ext_articles/98c7540c.ext.json)
 
 ---

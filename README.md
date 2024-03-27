@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 08:03:01**
+As of **2024-03-27 08:18:00**
 
 ## Newspaper Stats
 
-*Scraped **15,417** Articles*
+*Scraped **15,419** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 economynextcom | 832
 dailyftlk | 835
 islandlk | 854
-adalk | 1,312
+adalk | 1,313
 adaderanalk | 1,847
 tamilmirrorlk | 1,848
 virakesarilk | 2,175
 dailymirrorlk | 2,382
-adaderanasinhalalk | 2,474
+adaderanasinhalalk | 2,475
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,415 (100.0%) of 15,417 articles have been extended.
+15,417 (100.0%) of 15,419 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### බේරුවල හා දෙහිවල නිවාස දෙකක් ත්‍රස්ත ක්‍රියාකාරකම්වලට යොදාගෙන - නීතිපති අධිකරණයට දන්වයි
+
+*2024-03-27 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194980) · `si`
+
+පාස්කු ඉරු දින ත්‍රස්ත ප්‍රහාර සිද්ධියෙන් පසුව ජනාධිපතිවරයාගේ නියෝග මත ත්‍රස්තවදය වැළැක්වීමේ පනත යටතේ පොලීසිය භාරයට ගනු ලැබූ දෙහිවල සහ බේරුවල ප්‍රදේශවල පිහිටි සුඛෝපභෝගී නිවාස දෙක අල් කයිඩා සහ ජාතික තව්හීද් ජමාත් සංවිධානයේ ත්‍රස්ත ක්‍රියාකාරකම් සඳහා යොදාගෙන ඇති බවට කරුණු අනාවරණය වී ඇතැයි නීතිපතිවරයා විසින් ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දී තිබේ.
+
+මීට අදාළව ජ්‍යේෂ්ඨ රජයේ නීතිඥ ශමින්ද වික්‍රම මහතා විසින් ඉදිරිපත් කළ කරුණු සලකා බැලූ ප්‍රීති පද්මන් සූරසේන, ශිරාන් ගුණරත්න සහ මහින්ද සමයවර්ධන යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් අදාළ නිවාස පවරා ගැනීමට ජනාධිපතිවරයා විසින් ගනු ලැබූ තීරණය බලරහිත කිරීමේ නියෝග නිකුත් කරන මෙන් ඉල්ලා එම නිවාසවල හිමිකරුවන් විසින් ගොනුකරනු ලැබූ මූලික අයිතිවාසිකම් පෙත්සම් දෙකක් නිෂ්ප්‍රභ කිරීමටද තින්දු කළේය.
+
+...
+
+[Data](articles/57ad8845.json)
+
+---
 
 ### Heavy showers expected in several provinces
 
@@ -51,6 +65,8 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/d71a4b9b.json)
+
+[Extended Data](ext_articles/d71a4b9b.ext.json)
 
 ---
 
@@ -93,6 +109,8 @@ Following information, the officials had then raided two main wholesale dealers 
 ...
 
 [Data](articles/43c4ee1b.json)
+
+[Extended Data](ext_articles/43c4ee1b.ext.json)
 
 ---
 
@@ -1232,6 +1250,26 @@ Organized by the Ministry of Environment in collaboration with the United Nation
 
 ---
 
+### බදු ඉහළ දැමීම නිසා මත්පැන් භාවිතය අඩුවෙලා
+
+*2024-03-26 21:01:14* · [`adalk`](https://www.ada.lk/breaking_news/බදු-ඉහළ-දැමීම-නිසා-මත්පැන්-භාවිතය-අඩුවෙලා/11-408819) · `si`
+
+සුරාබදු බදු ඉහළ දැමීමත් සමග පසුගිය වසරේ ජනවාරි 01වන දිනෙන් අවසන් වූ වසරක කාලයකට සාපේක්ෂව මේ වසරේ ජනවාරි මාසයෙන් අවසන් වූ වසරක කාලය තුළදී මත්පැන් භාවිතය අඩු වී තිබෙන බව මද්‍යසාර සහ මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය සඳහන් කරයි.
+
+පසුගිය වසර තුළදී අවස්ථා දෙකකදී සුරා බදු ඉහළ දමා තිබෙන බවත් මේ අනුව සුරාබදු ආදායම් 38.5෴කින් ඉහළ ගොස් තිබෙන බවද එම ආයතනයේ විධායක අධ්‍යක්ෂ සම්පත් ද සේරම්මහතා සඳහන් කළේය.
+
+සුරාබදු ආදායම් ඉහළ යාම රජයක් වශයෙන් සුබවාදී බවත් මත්පැන් භාවිතය අඩු වීම හේතුවෙන් මත්පැන් නිසා රෝගී වන ප්‍රමාණය අඩු වී සෞඛ්‍ය වියදම් ප්‍රමාණය අඩු වන බවද පැවසීය.
+
+රජයේ සංඛ්‍යාලේඛනවලට අනුව 2022 වසරට සාපේක්ෂව පසුගිය වසරේදී මත්පැන් ලීටර් හයලක්ෂ පනස් හත්දහසකින් භාවිතය අඩු වී තිබෙන බවද පවසා සිටියේය.
+
+මත්පැන් භාවිතය අඩු වීමත් සමග මත්පැන් පානය කරන පිරිස්වල පවුල්වලට ඇති වී තිබෙන ආර්ථික ගැටලු පවා අඩු වී යන බවත් මීට අමතරව මත්පැන් භාවිතය අඩු වීම තුළින් මත්පැන් නිසා රෝගී වන ප්‍රමාණයත් අඩුවන බවත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/d63393b3.json)
+
+---
+
 ### Information on the budget party's presidential candidate
 
 *2024-03-26 20:55:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொட்டு-கட்சியின்-ஜனாதிபதி-வேட்பாளர்-குறித்த-தகவல்-வெளியானது/175-335235) · `ta`
@@ -2181,51 +2219,5 @@ Sri Lanka’s central bank cut its policy corridor by 50 basis points to 8.50 pe
 [Data](articles/396d389c.json)
 
 [Extended Data](ext_articles/396d389c.ext.json)
-
----
-
-### Sri Lanka CB urging banks to lower rates for SMEs despite parate suspension
-
-*2024-03-26 16:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-urging-banks-to-lower-rates-for-smes-despite-parate-suspension-156196/) · `en`
-
-ECONOMYNEXT – The central bank is urging banks to lower interest rates on loans despite the suspension of foreclosure provisions (parate execution) which makes banks more cautious, Governor Nandalal Weerasinghe said.
-
-Sri Lanka’s Justice Minister Wijedasa Rajapaksa has claimed that parate execution is archaic and hurting SMEs, and the cabinet has proposed a suspension of parate execution for both large and small borrowers.
-
-Banks have warned that it would make them more cautions in lending, and SMEs are likely to have reduced access.
-
-“It hurts small businesses rather than helps,” Governor Weerasinghe told reporters. “It is only for six months and we hope the debt recovery process will be improved.”
-
-The central bank has provided monetary stability since September 2022 and interest rates have started to fall with corrections in the deficit and also state enterprise borrowings.
-
-...
-
-[Data](articles/ad2ba3a5.json)
-
-[Extended Data](ext_articles/ad2ba3a5.ext.json)
-
----
-
-### Cyber attack on Minister Pavithra Wanniyarachchi's Facebook page
-
-*2024-03-26 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179763) · `ta`
-
-Cyber attack on Minister Pavithra Wanniyarachchi's Facebook page. Hackers recorded videos, including internet games, on the minister's official page. The attack reportedly occurred on Monday evening. No official statement from the minister.
-
-🟩
-
-A cyber attack on the official Facebook page of Wildlife and Forest Protection Minister Pavithra Wanniyarachchi has been attacked.
-
-After the cyber attack, hackers have recorded a variety of videos, including internet games on the minister's official Facebook page.
-
-It is reported that a cyber attack may have been carried out on Monday (26) evening.
-
-No official announcement has been made from the minister's side regarding the cyber attack.
-
-◼️
-
-[Data](articles/a04fef94.json)
-
-[Extended Data](ext_articles/a04fef94.ext.json)
 
 ---

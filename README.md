@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 18:10:41**
+As of **2024-03-27 18:22:04**
 
 ## Newspaper Stats
 
-*Scraped **15,533** Articles*
+*Scraped **15,537** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 139
-bbccomsinhala | 165
+bbccomsinhala | 166
 dbsjeyarajcom | 193
 newsfirstlk | 363
 dailyftlk | 835
@@ -18,31 +18,85 @@ islandlk | 854
 adalk | 1,327
 adaderanalk | 1,867
 tamilmirrorlk | 1,868
-virakesarilk | 2,194
-dailymirrorlk | 2,394
+virakesarilk | 2,195
+dailymirrorlk | 2,396
 adaderanasinhalalk | 2,498
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,530 (100.0%) of 15,533 articles have been extended.
+15,533 (100.0%) of 15,537 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### 4 மாணவர்கள் நீரில் மூழ்கி பலி
+### ஜேர்மனியில் பேர்லின் - சூரிச் பஸ் விபத்து : ஐவர் பலி
+
+*2024-03-27 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/179843) · `ta`
+
+ஜேர்மனியில் இன்று இடம்பெற்ற பஸ் விபத்தில் குறைந்தபட்சம் ஐவர் பலியானதுடன் டசின் கணக்கானோர் காயமடைந்துள்ளனர் என பொலிஸார் தெரிவித்துள்ளரன்.
+
+ஜேர்மனியின் பேர்லின் நகரிலிருந்து சுவிட்ஸர்லாந்தின் சூரிச் நகரை நோக்கி இந்த பஸ் சென்றுகொண்டிருந்ததாக பிளிக்ஸ்பஸ் நிறுவனம் தெரிவித்துள்ளது.
+
+மேற்படி பஸ்ஸில் 53 பயணிகளும் இரு சாரதிகளும் இருந்தனர் எனவும் விபத்துக்கான காரணம் தெரியவில்லை எனவும் அந்நிறுவனம் அறிக்கையொன்றில் குறிப்பிட்டுள்ளது.
+
+◼️
+
+[Data](articles/0663b544.json)
+
+---
+
+### School athletics champions Tarushi, Himansi meet Education Minister
+
+*2024-03-27 18:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/School-athletics-champions-Tarushi-Himansi-meet-Education-Minister/110-279731) · `en`
+
+Tarushi Abhishekah and Himansi Dulanjana Pradipani, students who broke the previous records in the 800m and 1,500m events in the under-16 athletics category, met Education Minister Susil Premajayantha today.
+
+The Skills College of Technology (SCOT) agreed to take the responsibility and financial support of providing the necessary training, nutritional needs, medical facilities as well as international competition opportunities for these students. SCOT presenting the relevant promisory certificates to the Minister.
+
+◼️
+
+[Data](articles/39b456df.json)
+
+---
+
+### Kasun Rajitha ruled out of second Bangladesh Test
+
+*2024-03-27 18:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kasun-Rajitha-ruled-out-of-second-Bangladesh-Test/108-279730) · `en`
+
+Sri Lanka suffered an injury setback ahead of the second Test against Bangladesh, starting on Saturday, with fast bowler Kasun Rajitha ruled out with an upper back injury.
+
+Rajitha took eight wickets in Sri Lanka's emphatic 328-run win in the first Test, including a 5 for 56 in Bangladesh's second innings.
+
+Replacing Rajitha in the squad is Asitha Fernando, though Sri Lanka are yet to decide the final composition of their team.
+
+Rajitha will return to Sri Lanka to start rehabilitation work, Sri Lanka Cricket said.
+
+◼️
+
+[Data](articles/cd0f9e9a.json)
+
+---
+
+### 4 students drowning
 
 *2024-03-27 17:50:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-மாணவர்கள்-நீரில்-மூழ்கி-பலி/175-335270) · `ta`
 
-பொல்கஹவெல யாங்கல்மோதர பிரதேசத்தில் இருந்து மாஓயாவில் நீராடச் சென்ற பாடசாலை மாணவர்கள் நால்வர் நீரில் மூழ்கி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Four students drowned in Maoya, Polgahawela.
 
-பொல்கஹவெல பிரதேசத்தைச் சேர்ந்த நான்கு மாணவர்களே உயிரிழந்துள்ளனர். உயிரிழந்த நான்கு மாணவர்களின் சடலங்கள் இதுவரை மீட்கப்பட்டுள்ளன
+🟩
+
+Four school children drowned in Maoya from the Yangalmodara area of Polgahawela, police said.
+
+Four students from the Polgahawela area have died. The bodies of four students who died have been recovered so far
 
 ◼️
 
 [Data](articles/4eb9df64.json)
+
+[Extended Data](ext_articles/4eb9df64.ext.json)
 
 ---
 
@@ -55,6 +109,8 @@ Four school students tragically drowned in the Ma Oya at the Walakumbura area in
 ◼️
 
 [Data](articles/6957fc2e.json)
+
+[Extended Data](ext_articles/6957fc2e.ext.json)
 
 ---
 
@@ -109,6 +165,8 @@ Also, the SLPP appointed its disciplinary   committee and arbitration committe
 ◼️
 
 [Data](articles/968bf972.json)
+
+[Extended Data](ext_articles/968bf972.ext.json)
 
 ---
 
@@ -1234,6 +1292,28 @@ The 43-year-old held in this operation was identified as a resident of Nikawewa 
 
 ---
 
+### බොල්ටිමෝර් පාලම කඩා වැටීම ගැන අප දන්නා තොරතුරු
+
+*2024-03-27 12:34:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce97lq93l1mo) · `si`
+
+අඟහරුවාදා අලුයම බහාලුම් ප්‍රවාහන නෞකාවක් එක්සත් ජනපදයේ බොල්ටිමෝර් නගරයට නුදුරින් පිහිටි ෆ්‍රැන්සිස් ස්කොට් කී පාලමේ ගැටුනේ එහි වැඩි කොටසක් කඩා වැටීමට සලස්වමිනි.
+
+එම අවස්ථාවේ පාලම හරහා ගමන් කරමින් තිබුණු වාහන කිහිපයක් පැටැප්ස්කෝ නදියට ඇද වැටුණු අතර ජලයට වැටී ඇති බවට විශ්වාස කෙරෙන පුද්ගලයින් 7ත් 20ත් අතර සංඛ්‍යාවක් මුදා ගැනීමට ගලවාගැනීමේ කණ්ඩායම් සෝදිසි මෙහෙයුම් දියත් කර තිබේ.
+
+පැටප්ස්කෝ ගඟට වැටුණු පිරිස අතර ඉදිකිරීම් කම්කරුවන් හය දෙනෙක් සිටින අතර ඔවුන් සියල්ලන්ම මිය ගොස් ඇතැයි අනුමාන කෙරේ.
+
+අනතුරින් පසු මේරිලන්ඩ් ආණ්ඩුකාර වෙස් මුවර් විසින් හදිසි තත්ත්වයක් ප්‍රකාශයට පත් කරනු ලැබ ඇත.
+
+බොල්ටිමෝර් පාලම, බොහෝ දෙනා දන්නා පරිදි කී පාලම, 1977 වසරේදී විවෘත කරන ලද්දේ එක්සත් ජනපද ජාතික ගීය වන 'Star Spangled Bannerහි පද රචනා කළ 19 වන සියවසේ මේරිලන්ඩ් ප්‍රාන්තයේ විසූ කවියෙකු වන ෆ්‍රැන්සිස් ස්කොට් කීට ගෞරවයක් වශයෙනි.
+
+මෙම පාලම අඩි 8,636ක් (මීටර් 2,632) දිගින් යුක්ත වූ අතර එය පැටැප්ස්කෝ නදිය සහ බොල්ටිමෝර් වරාය හරහා විහිද ගොස් තිබිණි. පැටැප්ස්කෝ නදිය එක්සත් ජනපදයේ විශාලතම මෝය වන චෙසපීක් බොක්ක වෙත ගලා බසී.
+
+...
+
+[Data](articles/9aa57025.json)
+
+---
+
 ### The bus that was traveling in Gampola from monthly fire burned fire!
 
 *2024-03-27 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179815) · `ta`
@@ -2199,109 +2279,5 @@ With the ship barreling toward the bridge at “a very, very rapid speed,” aut
 [Data](articles/6cc89818.json)
 
 [Extended Data](ext_articles/6cc89818.ext.json)
-
----
-
-### International award for Windy Gunatille
-
-*2024-03-27 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194984) · `si`
-
-Windy Gunatille, a Sri Lankan Tamil singer, won the Best Sensitive Song award at the 16th Edison Ceylon in South India, presented by the Katunayake International Airport. The ceremony, held in India, evaluated international film songs, with Windy's song "Samomi" being recognized.
-
-🟩
-
-Windy Gunatilleke, a Sri Lankan Tamil song, has won the excellent sensitive song at the 16th Edison at the 16th Edison Ceylon in South India.
-
-She won the award from the Katunayake International Airport yesterday.
-
-The awards ceremony was held in India recently to evaluate international film songs.
-
-Painting, composed of songs for the awards ceremony, joined the pot and music directed by its music.
-
-There, Windy Gunatilleke, awarded the best sensitive song, which was presented to Windy Gunatille, who sings the Samomi song.
-
-A large number of people were present at the Katunayake International Airport yesterday.
-
-"For the first time he met international award. Very pleased that it was about to make a pleasure to Sri Lanka. "
-
-◼️
-
-[Data](articles/a6834b60.json)
-
-[Extended Data](ext_articles/a6834b60.ext.json)
-
----
-
-### Police firing - one killed
-
-*2024-03-27 09:52:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸார்-துப்பாக்கி-சூடு-ஒருவர்-பலி/175-335241) · `ta`
-
-A robbery attempt in Ruwanwella led to a police shootout, killing one robber. Two robbers fled, and one died from injuries. Two victims were injured and hospitalized.
-
-🟩
-
-One of the three men who had been robbed of the money had been shot dead, police said.
-
-Police said that the robbers had tried to steal money to those who came to advertise in newspapers for selling apple cell phones.
-
-It is reported that a group of people who had come to buy cell phones to Ruwanwella area had reported to the police on suspicion and went to meet them with the police officers.
-
-The robbers, who were asked to come to the place of Naramala, attacked their car with sharp weapons when they reached the place.
-
-During the confrontation with police officers, police officers opened fire.
-
-Two robbers fled and one of the robbers who were injured in the shooting died after being admitted to the hospital.
-
-In addition, two persons who came to buy cell phones have been admitted to the Kurunegala Teaching Hospital after being injured in the attack of the robbers.
-
-◼️
-
-[Data](articles/13775a3e.json)
-
-[Extended Data](ext_articles/13775a3e.ext.json)
-
----
-
-### Prime Minister will hold a final negotiations in the debt restructuring - Cabinet spokesman
-
-*2024-03-27 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179783) · `ta`
-
-Prime Minister Dinesh Gunawardena, on an official visit to China, will negotiate the final debt restructuring with the Currency Fund. The Cabinet Spokesperson emphasized the importance of adhering to international agreements and legal plans, warning against the consequences of changing the consensus agreement with the International Monetary Fund.
-
-🟩
-
-Prime Minister Dinesh Gunawardena, who is on an official visit to China, will hold a final negotiation on debt restructuring.. Cabinet Spokesperson Minister Bandula Gunawardena said that the contract with the Currency Fund will be changed as some people say that the negotiations on international debt renovation will reach the final stage.
-
-He further stated that the weekly press conference to announce the Cabinet decisions was held on Tuesday (26).
-
-If anyone is trying to change the consensus agreement with the current government with the International Monetary Fund, they cannot rule the country for two weeks.
-
-When we have borrowed, we are conducting discussions on repaying the loan and making a debt agreement, not by the Sri Lankan government, Ranil Wickremesinghe is not a person or a separate person.
-
-The Sri Lankan government refers to the current government, just like the current government. Accordingly, the responsibilities of the current government are entitled to the next government.
-
-...
-
-[Data](articles/f31ceaf6.json)
-
-[Extended Data](ext_articles/f31ceaf6.ext.json)
-
----
-
-### Group of assailants fire shots into house belonging to underworld figure
-
-*2024-03-27 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98229/group-of-assailants-fire-shots-into-house-belonging-to-underworld-figure) · `en`
-
-A group of assailants has fired shots into a house located at Galwarushawa Road in Athurugiriya early this morning (March 27). According to reports, the establishment is owned by a criminal gang member named Manoj Muthukumarana alias “Muthuwa”.
-
-Ada Derana correspondent said no casualties were reported in the incident despite the assailants having fired at least 7 shots into the house.
-
-It is understood that “Muthuwa”, who operates from overseas, was complicit in a number of criminal activities reported in Athurugiriya and Nawagamuwa areas in the recent past.
-
-◼️
-
-[Data](articles/b8b0d49f.json)
-
-[Extended Data](ext_articles/b8b0d49f.ext.json)
 
 ---

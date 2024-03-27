@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 00:33:39**
+As of **2024-03-28 00:48:25**
 
 ## Newspaper Stats
 
@@ -26,29 +26,41 @@ adaderanasinhalalk | 2,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,573 (99.9%) of 15,589 articles have been extended.
+15,587 (100.0%) of 15,589 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### சாதனைகள் படைக்கப்பட்ட ஐபிஎல் போட்டியில் மும்பையை 31 ஓட்டங்களால் வென்றது ஹைதராபாத்
+### Hyderabad won Mumbai by 31 runs
 
 *2024-03-28 00:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179851) · `ta`
 
-ஹைதராபாத், ராஜீவ் காந்தி சர்வதேச விளையாட்டரங்கில் புதன்கிழமையன்று (27) சாதனைகள் நிலைநாட்டப்பட்ட இண்டியன் பிறீமியர் லீக் கிரிக்கெட் போட்டியில் முன்னாள் சம்பியன் மும்பை இண்டியன்ஸை 31 ஓட்டங்களால் சன்ரைசர்ஸ் ஹைதராபாத் வெற்றிகொண்டது.
+Sunrisers Hyderabad won against Mumbai Indians by 31 runs in an IPL match, setting a new record for the highest total runs in IPL history with 523 runs.
 
-பந்துவீச்சாளர்கள் சிதறடிக்கப்பட்ட அப் போட்டியில் சன்ரைசர்ஸ் ஹைதராபாத் குவித்த 277 ஓட்டங்கள் இண்டியன் பிறீமியர் லீக்  கிரிக்கெட் வரலாற்றில் அணி ஒன்று பெற்ற அதிகூடிய மொத்த எண்ணிக்கையாக அமைந்தது.
+🟩
 
-புனே வொரியர்ஸ் அணிக்கு எதிராக 2013இல் றோயல் செலஞ்சர்ஸ் பெங்களூர் பெற்ற 5 விக்கெட் இழப்புக்கு 263 ஓட்டங்களே இதற்கு முன்னர் ஒரு அணியினால் பெறப்பட்ட அதிகூடிய மொத்த எண்ணிக்கையாக இருந்தது.
+Sunrisers Hyderabad won the Indian Premier League cricket match at the Rajiv Gandhi International Stadium in Hyderabad on Wednesday (27).
 
-அத்துடன் இப் போட்டியில் இரண்டு அணிகளும் மொத்தமாக பெற்ற 523 ஓட்டங்கள் ஐபிஎல் வரலாற்றில் ஒரு போட்டியில் பெறப்பட்ட அதிகூடிய ஒட்டுமொத்த எண்ணிக்கையாகும்.
+The 277 runs scored by Sunrisers Hyderabad in the scattered -up match of the bowlers was the highest number of teams in the history of Indian Premier League cricket.
 
-முன்னைய சாதனை 14 வருடங்களுக்கு முன்னர் சென்னை சுப்பர் கிங்ஸும் ராஜஸ்தான் றோயல்ஸும் இணைந்து பெற்ற 469 ஓட்டங்களாகும்.
+Royal Challengers Bangalore in 2013 against the Pune Warriors in 2013 was 263 runs for the loss of 5 wickets.
+
+In addition, the total number of 523 runs scored by the two teams in the match is the highest number of IPL history.
+
+The previous record was 469 runs in Chennai Super Kings and Rajasthan Royals 14 years ago.
+
+Sunrisers Hyderabad, who was first invited to bat in the upting match, scored 277 runs in 20 overs with the help of half a century.
+
+Mayank Agarwal lost only (11) with less runs. (45 - 1 wig.)
+
+Subsequently, the pair, Travis Head and Abhishek Sharma, were bowled out for 68 off 22 balls and strengthened the team.
 
 ...
 
 [Data](articles/813e8efa.json)
+
+[Extended Data](ext_articles/813e8efa.ext.json)
 
 ---
 
@@ -84,19 +96,27 @@ Aswesuma is the most recent welfare benefits programme introduced by the governm
 
 ### 2024-03-27 (Wednesday)
 
-### மைத்திரியினுடைய கருத்துக்களின் பின்னணியில் அரசியல் விளையாட்டு விசாரணைகள் நுணுக்கமாக முன்னெடுக்கப்பட வேண்டும் - ஐக்கிய மக்கள் சக்தி வலியுறுத்தல்
+### Political sports investigations should be carried out in the context of Maithri's ideas -the emphasis on the United People's Power
 
 *2024-03-27 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179850) · `ta`
 
-உயிர்த்த ஞாயிறு தாக்குதல்கள் தொடர்பில் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்துள்ள கருத்துக்கள், எவரேனுமொருவருடைய அரசியல் நோக்கத்திற்கான எறியப்பட்ட பந்து என்று சந்தேகிப்பதாகத் தெரிவித்த ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் நளின் பண்டார, இது தொடர்பான விசாரணைகள் மிகவும் நுணுக்கமான முறையில் முன்னெடுக்கப்பட வேண்டும் என்றும் வலியுறுத்தினார்.
+Maithripala Sirisena emphasizes United People's Power in political sports investigations. He criticizes the government's handling of the Sunday attacks and calls for sophisticated investigations. Sirisena also comments on the PA's support for Ranil Wickremesinghe, excluding the Rajapaksa family, and urges supporters to join the United People's Power. He highlights the need for transparency and accountability in politics, especially regarding corruption and fraud.
 
-கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் புதன்கிழமை (27) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-இறுதி மூச்சை பாதுகாத்துக் கொள்வதற்கான முயற்சியை அரசாங்கம் முன்னெடுத்துக் கொண்டிருக்கிறது. கடந்த சில நாட்களுக்கு முன்னர் பொதுஜன பெரமுனவினர் தமது வேட்பாளரொருவர் களமிறக்கப்படுவார் எனக் கூறிக் கொண்டிருந்தனர். ராஜபக்ஷக்களின் சகாக்கள் தவிர ஏனைய அனைத்து பொதுஜன பெரமுனவினரும் ரணில் விக்கிரமசிங்கவுடனேயே இருக்கின்றனர்.
+The comments made by former President Maithripala Sirisena on the Sunday attacks, United People's Power MP Nalin Bandara, who suspected that he was thrown into a political purpose, urged that investigations should be carried out very sophisticated.
+
+He further stated at a press conference held at the opposition leader's office in Colombo on Wednesday (27).
+
+The government is carrying out an attempt to protect the final breath. A few days ago, the PA had claimed that their candidate would be fielded. Ranil Wickremesinghe is with all the PA, other than the colleagues of the Rajapaksa.
+
+Although PA is with Ranil, the voters are not with him. Ranil Wickremesinghe is the candidate of the PA, including the Rajapaksa family.. Therefore, we call on the remaining 3 lakh supporters to join the United People's Power.
 
 ...
 
 [Data](articles/aa6acc7c.json)
+
+[Extended Data](ext_articles/aa6acc7c.ext.json)
 
 ---
 
@@ -136,25 +156,31 @@ In a joint operation between the Colombian Navy, the Colombian Air Force and the
 
 ---
 
-### நுவரெலியாவில் பதுங்கிய சர்வதேச போதைப்பொருள் கடத்தல்காரர்
+### International drug trafficker in Nuwara Eliya
 
 *2024-03-27 23:24:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-பதுங்கிய-சர்வதேச-போதைப்பொருள்-கடத்தல்காரர்/76-335286) · `ta`
 
-நுவரெலியாவில் பதுங்கியிருந்த சர்வதேச போதைப்பொருள் கடத்தல்காரர் ஒருவரை பொலிஸ் விசேட அதிரடிப்படை கைது செய்துள்ளது.
+An international drug trafficker, Kahanavitake Don Nandasena, was arrested in Nuwara Eliya by a Police Special Task Force. He had been hiding in India before returning to Sri Lanka. The arrest is linked to special information received by the task force.
 
-நுவரெலியாவில் சர்வதேச போதைப்பொருள் கடத்தல்காரர் என சந்தேகிக்கப்படும் ஒருவர் பதுங்கியிருப்பதாக பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலின் பிரகாரம் விசேட அதிரடிப்படையினர் மேற்கொண்ட சுற்றிவளைப்பிலேயே மேற்படி சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபர் கஹனவிடகே டொன் நந்தசேன என அடையாளம் காணப்பட்டுள்ளார்.
+A Police Special Task Force has arrested an international drug trafficker in Nuwara Eliya.
 
-இவர் தனது மனைனவியுடன் நுவரெலியாவில் தலைமறைவாக இருந்த போதே கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+The suspect has been arrested in connection with the special information received by the Special Task Force, according to information available to the police that a person suspected of being an international drug trafficker in Nuwara Eliya is lurking.
 
-கைது செய்யப்பட்ட சந்தேக நபர் இலங்கைக்கு திரும்புவதற்கு முன்னர், சிறிது காலம் இந்தியாவில் தலைமறைவாக இருந்துள்ளார்.
+The arrested suspect has been identified as Kahanavitake Don Nandasena.
 
-அண்மையில் பொலிஸ் விசேட அதிரடிப்படையினரால் கைப்பற்றப்பட்ட 09 கிலோ கிராம் எடையுள்ள ‘ஐஸ்’ போதைப்பொருள் இவர் மூலமே இலங்கைக்குள் கடத்தப்பட்டுள்ளதாகவும் பொலிஸார் சந்தேகிக்கின்றனர். R
+He was arrested while he was in hiding in Nuwara Eliya with his wife, police said.
+
+The arrested suspect has been hiding in India for a while before returning to Sri Lanka.
+
+Police suspect that he was smuggled into Sri Lanka by an ice drug weighing nine kilograms recently seized by the Special Task Force.. Remble
 
 ◼️
 
 [Data](articles/ea4a5a50.json)
+
+[Extended Data](ext_articles/ea4a5a50.ext.json)
 
 ---
 
@@ -926,6 +952,8 @@ Former Chancellor of Germany, Helmut Kohl, made a significant donation towards t
 
 [Data](articles/4475ac82.json)
 
+[Extended Data](ext_articles/4475ac82.ext.json)
+
 ---
 
 ### Four school boys drown while bathing in Ma Oya
@@ -1055,6 +1083,8 @@ A bond maturing on 15.12.2028 closed stable at 12.10/15 percent. (Colombo/Mar27/
 ◼️
 
 [Data](articles/c8b76293.json)
+
+[Extended Data](ext_articles/c8b76293.ext.json)
 
 ---
 
@@ -1206,6 +1236,8 @@ There was a  net foreign outflow of 25 million. (Colombo/Mar27/2024)
 
 [Data](articles/c2336bad.json)
 
+[Extended Data](ext_articles/c2336bad.ext.json)
+
 ---
 
 ### A health strike from Tuesday?
@@ -1291,6 +1323,8 @@ Sri Lanka’s IMF review will be passed after several ‘pior actions’.
 ...
 
 [Data](articles/a03107ae.json)
+
+[Extended Data](ext_articles/a03107ae.ext.json)
 
 ---
 
@@ -1644,6 +1678,8 @@ The team comprised officials from the office of the Solicitor General, Ministry 
 
 [Data](articles/e207ab9a.json)
 
+[Extended Data](ext_articles/e207ab9a.ext.json)
+
 ---
 
 ### Sundar C's released in April 'Palace 4'
@@ -1773,6 +1809,8 @@ The SLPP faced public wrath when the economic crisis unfolded in 2022 and later 
 ...
 
 [Data](articles/74256c67.json)
+
+[Extended Data](ext_articles/74256c67.ext.json)
 
 ---
 
@@ -2002,6 +2040,8 @@ Rajapakshe said that “the Cardinal”, the leader of the Catholic Church in th
 
 [Data](articles/40209fb0.json)
 
+[Extended Data](ext_articles/40209fb0.ext.json)
+
 ---
 
 ### Rajiv Gandhi assassination case: Three convicts to be deported to Sri Lanka in a week
@@ -2059,6 +2099,8 @@ The seminar was co-organized by the High Commission of India in Colombo and the 
 ...
 
 [Data](articles/5b5b8a15.json)
+
+[Extended Data](ext_articles/5b5b8a15.ext.json)
 
 ---
 

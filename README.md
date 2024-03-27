@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 13:18:04**
+As of **2024-03-27 13:33:42**
 
 ## Newspaper Stats
 
-*Scraped **15,480** Articles*
+*Scraped **15,483** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 139
-bbccomsinhala | 164
+bbccomsinhala | 165
 dbsjeyarajcom | 193
 newsfirstlk | 363
 dailyftlk | 835
@@ -17,7 +17,7 @@ economynextcom | 836
 islandlk | 854
 adalk | 1,318
 adaderanalk | 1,856
-tamilmirrorlk | 1,861
+tamilmirrorlk | 1,863
 virakesarilk | 2,186
 dailymirrorlk | 2,390
 adaderanasinhalalk | 2,485
@@ -26,11 +26,47 @@ adaderanasinhalalk | 2,485
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,479 (100.0%) of 15,480 articles have been extended.
+15,480 (100.0%) of 15,483 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### ’அரகலய’வால் பாதிக்கப்பட்டோருக்கான இழப்பீட்டை துரிதப்படுத்தவும்
+
+*2024-03-27 13:02:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரகலய-வால்-பாதிக்கப்பட்டோருக்கான-இழப்பீட்டை-துரிதப்படுத்தவும்/175-335259) · `ta`
+
+2022 மே 9 ஆம் திகதி கம்பஹா மாவட்டத்தில் 'அரகலய' போராட்டக்காரர்களால் தீக்கிரையாக்கப்பட்ட அசையும் மற்றும் அசையா சொத்துகளுக்கான இழப்பீட்டு நடவடிக்கையை துரிதப்படுத்துமாறு அரசாங்க மதிப்பீட்டு திணைக்களம் மற்றும் நட்டஈடு அலுவலகத்திற்கு பணிப்புரை வழங்கப்பட்டுள்ளது.
+
+கம்பஹா மாவட்ட செயலகத்தில் இன்று காலை இடம்பெற்ற விசேட கூட்டத்தின் போதே நகர அபிவிருத்தி அமைச்சர் பிரசன்ன ரணதுங்க இந்த அறிவுறுத்தலை வழங்கியுள்ளார்.
+
+கம்பஹா மாவட்டத்தில் தீக்கிரையான 42 வீடுகளில் 33 வீடுகளுக்கு இதுவரை நஷ்டஈட்டு அலுவலகம் மூலம் இழப்பீடு வழங்கப்பட்டுள்ளதாக அமைச்சர் தெரிவித்தார்.
+
+மே 9 ஆம் திகதி இடம்பெற்ற சம்பவத்தினால் 138 வாகனங்கள் உட்பட கம்பஹா மாவட்டத்தில் அதிகளவு சேதங்கள் ஏற்பட்டுள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+மே 9 ஆம் திகதி இடம்பெற்ற சம்பவத்திற்கு காரணமானவர்களுக்கு எதிரான சட்டத்தை அமுல்படுத்துவது மிகவும் மந்தகதியில் இடம்பெற்றதாக தெரிவித்த அமைச்சர், சட்ட நடவடிக்கைகளை துரிதப்படுத்துமாறு பொலிஸ் மா அதிபருக்கு பணிப்புரை விடுத்துள்ளதாகவும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/cbc183c4.json)
+
+---
+
+### மாணவிகளுக்கு ’பேட்’ வவுச்சர்கள்
+
+*2024-03-27 12:53:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவிகளுக்கு-பேட்-வவுச்சர்கள்/175-335257) · `ta`
+
+பாடசாலை மாணவிகளின் சுகாதாரமான பழக்கவழக்கங்களை அதிகரிக்கும் நோக்கில் இலங்கையில் உள்ள பாடசாலை மாணவிகளுக்கு சானிட்டரி நாப்கின்களை (அணையடை ஆடை) (PAD)  கொள்வனவு செய்வதற்கான வவுச்சர்கள் வழங்க நடவடிக்கை எடுக்கப்படும் என கல்வி அமைச்சர் கலாநிதி சுசில் பிறேமஜயந்த தெரிவித்தார்.
+
+போதுமான சுகாதார வசதிகளைப் பெறுவது சவாலானது என்று தெரிவித்துள்ள அவர், எதிர்வரும் புத்தாண்டுக்குப் பின்னர் வவுச்சர்கள் வழங்க நடவடிக்கை எடுக்கப்படும் என்றார்.
+
+கடினமான, மிகக் கடினமான, தனிமைப்படுத்தப்பட்ட பிரதேசங்கள் மற்றும் வறுமையைக் கொண்ட பாடசாலைகளில் உள்ள சுமார் 800,000 பாடசாலை மாணவிகளுக்கு சானிட்டரி நாப்கின்களை விநியோகிக்க நடவடிக்கை எடுக்கப்படும் என்றும், அதற்கான அமைச்சரவைப் பத்திரங்கள் தற்போது ஒப்புதலுக்காக சமர்ப்பிக்கப்பட்டுள்ளதாகவும் அமைச்சர் மேலும் தெரிவித்தார்.
+
+...
+
+[Data](articles/72a5a5c8.json)
+
+---
 
 ### Expedite compensation to ’Aragalaya’ victims: Prasanna
 
@@ -49,6 +85,8 @@ The Minister said that the implementation of law against those responsible for t
 ◼️
 
 [Data](articles/b143890b.json)
+
+[Extended Data](ext_articles/b143890b.ext.json)
 
 ---
 
@@ -1498,6 +1536,30 @@ It has been reported that the person who was led by the man who had many crimes 
 
 ---
 
+### රන්සිළු ජයතිලක: 'පුහුණුකරුවෙකු, අනුග්‍රාහකයෙකු නැතිව' රට දිනවූ සවි එසවීමේ ශූරයා
+
+*2024-03-27 07:16:09* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv2y3k4mvr9o) · `si`
+
+රන්සිළු ජයතිලක: 'පුහුණුකරුවෙකු, අනුග්‍රාහකයෙකු නැතිව' රට දිනවූ සවි එසවීමේ ශූරයා
+
+ඔහු ශ්‍රී ලංකාව නියෝජනය කරමින් සවි එසවීමේ ක්‍රීඩාවේ ජාත්‍යන්තර පදක්කම් 60කට අධික සංඛ්‍යාවක් ජයග්‍රහණය කර තිබේ.
+
+වයස අවුරුදු 7 සිට ශ්‍රී ලංකාව වෙනුවෙන් සවි එසවීමේ නිරතව සිටිය ද, රන්සිළු ජයතිලක නමැති ක්‍රීඩකයෙකු පිළිබඳව රටේ කතාබහක් ඇති වූයේ, මෑතකදී ය.
+
+ඒ, සවි එසවීමේ ලෝක ශූරයින් තරග වැදුණු ආර්නෝල්ඩ් ස්වොට්සනේගර්ගේ ප්‍රධානත්වයෙන් සංවිධානය කෙරුණු Arnold Sports Festival UK 2024 සවි එසවීමේ තරග ඉසව්වේ ඉහළ ම මට්ටමේ තරගයක (Powerlifting Pro) deadlift තරග ඉසව්වේ ලෝකයේ ම තුන් වන ස්ථානය හිමි කර ගැනීමෙන් පසුව ය.
+
+මෙම තරග ඉසව්වේ සමස්ත ලකුණු සටහන අනුව ඔහුට 9 වන ස්ථානය හිමි වී තිබිණි.
+
+එම විශිෂ්ට ජයග්‍රහණය පිළිබඳව ශ්‍රී ලාංකිකයින් මිලියන ගණනක් සතුටු වුව ද, එම තරගයට සහභාගි වීම මෙන් ම ඉන් ජය ගැනීම පසුපස ඇති කතාව සතුටුදායක එකක් නොවේ.
+
+ඒ පිළිබඳව සවි එසවීමේ ශූර රන්සිළු ජයතිලක බීබීසී සිංහල සේවයට පැහැදිලි කළේ ය.
+
+...
+
+[Data](articles/eaa80f28.json)
+
+---
+
 ### Police shot dead by police
 
 *2024-03-27 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194976) · `si`
@@ -2225,93 +2287,5 @@ Bhagwati mentioned that the stock markets in the region are already seeing a pic
 [Data](articles/685c15e7.json)
 
 [Extended Data](ext_articles/685c15e7.ext.json)
-
----
-
-### A bridge that collapsed in the ship;Emergency Declaration in the United States (Video)
-
-*2024-03-26 23:50:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கப்பல்-மோதி-உடைந்து-விழுந்த-பாலம்-அமெரிக்காவில்-அவசர-நிலை-பிரகடனம்-காணொளி/50-335236) · `ta`
-
-A ship from Singapore to Sri Lanka crashed into the Francis Scott Bridge in Baltimore, Maryland, causing it to collapse into the river. The bridge, connecting two major cities, was built over the Patapsco River. The ship, 300 meters long, with an Indian crew, crashed early yesterday, leading to the collapse. Over 20 cars fell into the river, and emergency services are searching for survivors.
-
-🟩
-
-Emergency has been declared as a giant ship from Singapore to Sri Lanka crashed into a bridge in the United States.
-
-In the United States, the Francis Scott Bridge has broken into a ship, and the immediate emergency has been declared to rescue those who fell into the river and investigate the accident.
-
-The city of Baltimore is in the state of Maryland, USA. The massive bridge was built above the giant river, the flower.
-
-The bridge, also known as Francis Scott, connects two major cities. Therefore, vehicles are always on the bridge.
-
-In this case, the ship crashed into the bridge early yesterday. The next moment the bridge collapsed and fell into the river.
-
-The ship, which was 300 meters long, was heading to Colombo, Sri Lanka. All employees, including sailors, were Indians.
-
-In this, more than 20 cars on the bridge fell into the river. The police and the firefighters are on the scene and are in the search.R
-
-◼️
-
-[Data](articles/7d813fc0.json)
-
-[Extended Data](ext_articles/7d813fc0.ext.json)
-
----
-
-### A bridge that collapsed in the ship;Declaration of Emergency in the United States
-
-*2024-03-26 23:50:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கப்பல்-மோதி-உடைந்து-விழுந்த-பாலம்-அமெரிக்காவில்-அவசர-நிலை-பிரகடனம்/50-335236) · `ta`
-
-A ship from Singapore to Sri Lanka crashed into the Francis Scott Bridge in the US, causing it to collapse into a river. An emergency was declared for rescue and investigation. The bridge, in Maryland, connects two major cities and was built over a giant river. The ship, carrying Indian crew, was 300 meters long. Over 20 cars fell into the river, and emergency services are responding.
-
-🟩
-
-Emergency has been declared as a giant ship from Singapore to Sri Lanka crashed into a bridge in the United States.
-
-In the United States, the Francis Scott Bridge has broken into a ship, and an immediate state of emergency has been declared to rescue those who fell into the river and investigate the accident.
-
-Taltimore City is in the state of Maryland, USA. The massive bridge was built above the giant river, the giant river.
-
-The bridge, also known as Francis Scott, connects two major cities. Therefore, vehicles will always be on the bridge.
-
-In this case, the ship crashed into the bridge early yesterday. The next moment the bridge collapsed and fell into the river.
-
-The ship, which was 300 meters long, was heading to Colombo, Sri Lanka. All the employees, including the sailors, were Indians.
-
-In this, more than 20 cars on the bridge fell into the river. The police and the firefighters are working on the scene.R
-
-◼️
-
-[Data](articles/b973dd41.json)
-
-[Extended Data](ext_articles/b973dd41.ext.json)
-
----
-
-### IPL 2024: Chennai Super Kings team defeated Gujarat Titans
-
-*2024-03-26 23:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/179782) · `ta`
-
-Chennai Super Kings lost to Gujarat Titans by 63 runs in IPL 2024. Gujarat won the toss and chose to bat first, losing 8 wickets for 143 runs. Chennai lost 6 wickets for 206 runs, with Shivam Dubey scoring 51.
-
-🟩
-
-Chennai Super Kings won by 63 runs in the 7th IPL match between Chennai Super Kings and Gujarat Titans.
-
-The Gujarat team won the match in the tournament and called for the Chennai team to bat first.
-
-Accordingly, the Chennai team lost the first 20 overs at the end of the 20 overs, losing 6 wickets and scoring 206 runs.
-
-Shivam Dubey scored 51 runs for the Chennai team.
-
-Ruduraj Gaikwad and Rachin Ravindra scored 46 runs each.
-
-Accordingly, the Gujarat Titans lost 8 wickets at the end of their 20 overs and lost only 143 runs.
-
-◼️
-
-[Data](articles/40a100b6.json)
-
-[Extended Data](ext_articles/40a100b6.ext.json)
 
 ---

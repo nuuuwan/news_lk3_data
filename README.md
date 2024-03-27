@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 07:16:38**
+As of **2024-03-27 07:32:03**
 
 ## Newspaper Stats
 
-*Scraped **15,409** Articles*
+*Scraped **15,410** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 835
 islandlk | 854
 adalk | 1,312
 adaderanalk | 1,846
-tamilmirrorlk | 1,847
+tamilmirrorlk | 1,848
 virakesarilk | 2,175
 dailymirrorlk | 2,381
 adaderanasinhalalk | 2,469
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,404 (100.0%) of 15,409 articles have been extended.
+15,409 (100.0%) of 15,410 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ One person has died after the police opened fire at a group of robbers in the Na
 ◼️
 
 [Data](articles/cd22c2c8.json)
+
+[Extended Data](ext_articles/cd22c2c8.ext.json)
 
 ---
 
@@ -63,6 +65,8 @@ Showers may occur at a few places in the sea areas off the coast, extending from
 ...
 
 [Data](articles/ee28423e.json)
+
+[Extended Data](ext_articles/ee28423e.ext.json)
 
 ---
 
@@ -110,6 +114,8 @@ Furthermore, the breakdown has resulted in a backlog of over 500 patients awaiti
 
 [Data](articles/33322b77.json)
 
+[Extended Data](ext_articles/33322b77.ext.json)
+
 ---
 
 ### Central Bank delivers 50bps policy rates cut
@@ -129,6 +135,8 @@ Although both yields and rates eased thereafter, quite notably the yields showed
 ...
 
 [Data](articles/e14182a5.json)
+
+[Extended Data](ext_articles/e14182a5.ext.json)
 
 ---
 
@@ -212,6 +220,24 @@ The Prime Ministers of the two countries confirmed that a new chapter in the lon
 
 ---
 
+### ’உயர்கல்வி ஆணைக்குழுவை அமைக்கும் பணி துரிதம்’
+
+*2024-03-27 02:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்கல்வி-ஆணைக்குழுவை-அமைக்கும்-பணி-துரிதம்/175-335239) · `ta`
+
+பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவுக்குப் பதிலாக தேசிய உயர்கல்வி அபிவிருத்தி ஆணைக்குழுவை அமைப்பதற்கான, முன்னாள் பிரதம நீதியரசர் கே.ஸ்ரீபவன் தலைமையிலான குழுவின் அவதானிப்புகள் அடங்கிய அறிக்கை அமைச்சிடம் கையளிக்கப்பட்டுள்ளது. அது தொடர்பான அறிக்கையை ஆராய்ந்த பின்னர் தேசிய உயர்கல்வி அபிவிருத்தி ஆணைக்குழுவை இவ்வருடத்தில் நிறுவ முடியும் என்று உயர்கல்வி இராஜாங்க அமைச்சர் கலாநிதி சுரேன் ராகவன் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவிற்குப் பதிலாக தேசிய உயர்கல்வி அபிவிருத்தி ஆணைக்குழுவும் அமைக்கப்பட உள்ளது.
+
+இது தொடர்பில், முன்னாள் பிரதம நீதியரசர் கே.ஸ்ரீபவன் தலைமையில் நியமிக்கப்பட்ட குழுவின் அவதானிப்புகள் அடங்கிய அறிக்கை நேற்று அமைச்சிடம் கையளிக்கப்பட்டது.
+
+...
+
+[Data](articles/1d9936f6.json)
+
+---
+
 ### Ceylon Institute of Builders meets Urban Development Secretary and CIDA Chairman
 
 *2024-03-27 02:41:52* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Institute-of-Builders-meets-Urban-Development-Secretary-andCIDA-Chairman/34-760005) · `en`
@@ -266,21 +292,27 @@ The Chief Guest Ambassador of the Republic of Korea to Sri Lanka Miyon Lee was a
 
 ---
 
-### ’டிஜிட்டல் பொருளாதார பரிவர்த்தனை சட்டம் விரைவில்’
+### Digital Economic Transaction Act soon
 
 *2024-03-27 02:34:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-பொருளாதார-பரிவர்த்தனை-சட்டம்-விரைவில்/175-335238) · `ta`
 
-டிஜிட்டல் பரிவர்த்தனைக்கான முகவர் நிலையம் மற்றும் செயற்கை நுண்ணறிவுக்கான மையத்தை உருவாக்குவதற்கான சட்டங்கள் இந்த வருட நடுப்பகுதிக்குள் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced plans to establish a Center for Digital Transaction and Artificial Intelligence, aiming to modernize agriculture, reduce poverty, and reform education. A billion rupees from the 2024 budget will be allocated for this initiative.
 
-கொழும்பு தாஜ் சமுத்ரா ஹோட்டலில் நேற்று இடம்பெற்ற டிஜிட்டல் பொது உட்கட்டமைப்பு வசதிகள் மாநாட்டில் பிரதான உரையாற்றிய போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-டிஜிட்டல் பொது உள்கட்டமைப்பு வசதிகள் மற்றும் நிர்வாகம் தொடர்பில் பல்வேறு துறைகளை பிரதிநிதித்துவப்படுத்தும் அறிவும் அனுபவமும் கொண்ட பல இந்திய மற்றும் இலங்கை நிபுணர்கள் இதில் கலந்து கொண்டனர்.
+President Ranil Wickremesinghe said the laws for the creation of the Center for Digital Transaction and Artificial Intelligence will be tabled in Parliament by mid -year.
 
-நாட்டின் பொருளாதார மாற்றத் திட்டத்தை இலகுபடுத்தும் வகையில் புதிய நிறுவன கட்டமைப்பொன்றை ஏற்படுத்த திட்டமிட்டுள்ளோம். தகவல் தொழில்நுட்ப சபை போன்ற தற்போதுள்ள கட்டமைப்புகளில் இருந்து விலகி, டிஜிட்டல் மாற்றத்திற்கான முகவர் நிலையம் மற்றும் செயற்கை நுண்ணறிவுக்கான மையத்தை உருவாக்குவதில் கவனம் செலுத்தப்பட்டுள்ளது. அதற்காக 2024 வரவு - செலவுத் திட்டத்தில் இருந்து ஒரு பில்லியன் ரூபாவை ஒதுக்க நடவடிக்கை எடுத்துள்ளோம்.
+The President made these comments while addressing the Digital Infrastructure Conference held at the Taj Samudra Hotel in Colombo yesterday.
+
+Many Indian and Sri Lankan experts participated in the event with knowledge and experience representing various departments on digital public infrastructure and administration.
+
+We are planning to establish a new company structure to ease the country's economic change plan. The focus is on the creation of the Center for Digital Change Agency Station and Artificial Intelligence. For that, we have taken steps to allocate a billion rupees from the budget of 2024.
 
 ...
 
 [Data](articles/ece52596.json)
+
+[Extended Data](ext_articles/ece52596.ext.json)
 
 ---
 
@@ -2185,25 +2217,5 @@ Shakib, who last played a Test in April 2023, comes back at the expense of Tawhi
 [Data](articles/db116c85.json)
 
 [Extended Data](ext_articles/db116c85.ext.json)
-
----
-
-### Five-member SC bench to hear petitions challenging Online Safety Act
-
-*2024-03-26 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98215/five-member-sc-bench-to-hear-petitions-challenging-online-safety-act) · `en`
-
-A five-member Supreme Court bench has been appointed by Chief Justice Jayantha Jayasuriya to consider the fundamental rights (FR) petitions filed challenging the passing of the Online Safety Act in the parliament.
-
-The petitions were called before the judge bench chaired by Supreme Court Justice S. Thurairajah, on Monday (March 25).
-
-Filed by Transparency International and several other parties, the petitions seek a Supreme Court order determining that the passage of the Bill in the parliament and the Speaker’s move to endorse his certificate on the document were unlawful as the amendments recommended by the Supreme Court were excluded in the legislation that seeks to regulate online content.
-
-The petitions have been fixed for July 24 for confirmation of facts.
-
-...
-
-[Data](articles/7a639c0d.json)
-
-[Extended Data](ext_articles/7a639c0d.ext.json)
 
 ---

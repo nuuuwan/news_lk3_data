@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 07:52:40**
+As of **2024-03-27 08:03:01**
 
 ## Newspaper Stats
 
-*Scraped **15,410** Articles*
+*Scraped **15,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,29 +16,181 @@ economynextcom | 832
 dailyftlk | 835
 islandlk | 854
 adalk | 1,312
-adaderanalk | 1,846
+adaderanalk | 1,847
 tamilmirrorlk | 1,848
 virakesarilk | 2,175
-dailymirrorlk | 2,381
-adaderanasinhalalk | 2,469
+dailymirrorlk | 2,382
+adaderanasinhalalk | 2,474
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,410 (100.0%) of 15,410 articles have been extended.
+15,415 (100.0%) of 15,417 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
+### Heavy showers expected in several provinces
+
+*2024-03-27 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98226/heavy-showers-expected-in-several-provinces) · `en`
+
+The Department of Meteorology says atmospheric conditions are getting favorable for afternoon thundershowers in most parts of the island today (27).
+
+Showers or thundershowers will occur in most places of the island after 2.00 p.m.
+
+Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, North-western and Central provinces.
+
+Several spells of showers may occur in Eastern, Uva and southern provinces in the morning too, it said.
+
+Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces and in Kalutara, Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/d71a4b9b.json)
+
+---
+
+### Nine new agreements in China - Sri Lanka
+
+*2024-03-27 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194979) · `si`
+
+Nine new agreements between China and Sri Lanka, under the leadership of Prime Ministers Lee Chwang and Dinesh Gunawardena, focus on social, cultural, education, agriculture, and economic cooperation, marking a new chapter in long-term partnership.
+
+🟩
+
+The agreements have been signed under the patronage of Prime Minister of Prime Minister Lee Chwang and Prime Minister Dinesh Gunawardena.
+
+Prime Minister Dinesh Gunawardena, Prime Minister Dinesh Gunawardena, has taken advance to war heroes in the Ranaviru Member of the Hairuwara.
+
+The bilateral discussions focused on the collaboration of social, cultural, education and agriculture in addition to economic and cooperation.
+
+The Prime Minister of the two countries have confirmed that nine Memorandum of Understanding (MoU) has confirmed a new chapter of long term and cooperation between Sri Lanka and China.
+
+◼️
+
+[Data](articles/033b0125.json)
+
+[Extended Data](ext_articles/033b0125.ext.json)
+
+---
+
+### Skin treatment meds flooding Sri Lankan market as cosmetics has serious health hazards: NMRA
+
+*2024-03-27 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Skin-treatment-meds-flooding-Sri-Lankan-market-as-cosmetics-has-serious-health-hazards-NMRA/108-279677) · `en`
+
+Colombo, March 27 (Daily Mirror) - The National Medicines Regulatory Authority (NMRA) have made a startling recovery that recent flooding of unregistered skin treatment medicines found in the local market as cosmetics could have serious health hazards.
+
+The NMRA Food and Drugs Inspectors following several alerts of the College of Dermatologists searched several leading cosmetic shops in Colombo yesterday to find an unregistered skin treatment medicine being sold by them.
+
+A senior NMRA official told the Daily Mirror the cosmetic shop owners have said that they had purchased the goods from wholesale shops in the Pettah market.
+
+Following information, the officials had then raided two main wholesale dealers of cosmetic goods in Kathiresan Street and found over 470 such skin treatment medicines, which should be sold only with a prescription and not as a simple cosmetic.
+
+...
+
+[Data](articles/43c4ee1b.json)
+
+---
+
+### Executive Committee to meet today
+
+*2024-03-27 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194978) · `si`
+
+The Sri Lanka General Front's Executive Committee meets today at Mahinda Rajapaksa's residence, discussing party issues relevant to the current political situation.
+
+🟩
+
+The Executive Committee of the Sri Lanka General Man is scheduled to meet today (27).
+
+The meeting will be held at the official residence of former President Mahinda Rajapaksa this afternoon.
+
+Sanjeewa Eramamanna, Media Statement of Sri Lanka General
+
+"The Executive Committee of the Sri Lanka General Front will meet at the age of 7 in the afternoon of the party. Usually, the Executive Council will meet in the constitutional areas where you need to continue. Accordingly a default meeting. The political situation that is relevant to this moment will be discussed in several issues of the party. "
+
+◼️
+
+[Data](articles/9a174380.json)
+
+[Extended Data](ext_articles/9a174380.ext.json)
+
+---
+
+### A shot of an organized criminal
+
+*2024-03-27 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194977) · `si`
+
+An organized criminal's house in Athuruga was shot at, with 7 shots causing damage but no casualties. The criminal, known for crimes in Athurugiriya and Navagamuwa, was targeted.
+
+🟩
+
+Dankena Amarasinghe alias Athurugathiwa road in Athuruga, which is owned by an international organizing criminal, has been shot at a house in Galvana road today (27).
+
+He said that about 7 shots have been taken home and no casualties have been damaged in the attack.
+
+It is reported that the door windows of the house have been damaged by shooting.
+
+It has been reported that the person who was led by the man who had many crimes in Athurugiriya and Navagamuwa recently.
+
+◼️
+
+[Data](articles/f127df35.json)
+
+[Extended Data](ext_articles/f127df35.ext.json)
+
+---
+
+### Police shot dead by police
+
+*2024-03-27 06:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194976) · `si`
+
+In Narammala, police shot dead a robber during a robbery attempt. Two suspects fled, and one was hospitalized.
+
+🟩
+
+One person was killed in a shooting conducted by the police in Narammala.
+
+According to police, one of three persons who had come to robbery were killed in shooting.
+
+The police said that the robberies have tried to plunder the money of the people who come to buy mobile phones.
+
+According to the answer, a group of people in Ruwanwella had arrived in the area to buy mobile phones, and they had gone to the police with police officers.
+
+The robbers have informed them to come to a place in Narammala and the robbers were attacked with sharp weapons to their car.
+
+Police said that the police officers had shot dead during a rational incident with police officers.
+
+Two robbers have fled and the injured have been killed in hospitalization.
+
+The two suspects were injured and admitted to the Kurunegala Teaching Hospital with injuries due to the robbers.
+
+◼️
+
+[Data](articles/72db95c2.json)
+
+[Extended Data](ext_articles/72db95c2.ext.json)
+
+---
+
 ### Police open fire at group of robbers; one person dead
 
 *2024-03-27 06:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98225/police-open-fire-at-group-of-robbers-one-person-dead) · `en`
 
-One person has died after the police opened fire at a group of robbers in the Narammala area.
+One person has reportedly died after the police opened fire at a group of robbers in the Narammala area. However, two other robbers have fled the scene, according to police.
 
-◼️
+Police said that the robbers had tried to steal money from the people who came to purchase mobile phones responding to advertisements published by the suspects in newspapers regarding the sale of Apple iPhones.
+
+After seeing the said advertisement, a group of persons had come to the Ruwanwella area to buy mobile phones, and based on their suspicions, they had informed the police about this and had gone to meet them with the police officers.
+
+The robbers had informed them to come to a place in Narammala and upon reaching the said place, the robbers had attacked their car with sharp weapons.
+
+Police said that during a scuffle with the police officers, one of the police officers had shot at the robbers. Two robbers had managed to escape while one of the robbers who was injured in the shooting has later died in hospital.
+
+...
 
 [Data](articles/cd22c2c8.json)
 
@@ -67,6 +219,34 @@ Showers may occur at a few places in the sea areas off the coast, extending from
 [Data](articles/ee28423e.json)
 
 [Extended Data](ext_articles/ee28423e.ext.json)
+
+---
+
+### Heavy rains in many parts of the island
+
+*2024-03-27 06:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194974) · `si`
+
+Heavy rains and thundershowers expected in many island parts, especially in Western, Sabaragamuwa, North Western, Central, East, Uva, and Southern provinces. High winds and lightning risks advised.
+
+🟩
+
+In many parts of the island, there is a favorable atmospheric objective of thundershowers in the evening.
+
+Department of Meteorological Department announced in many parts of the island. Showers or thundershowers will occur at several times after 2.00.
+
+Some places in the Western, Sabaragamuwa, North Western and Central provinces. Mee. Heavy rains may occur at more than 100.
+
+Thundershowers will occur at the East, Uva and Southern provinces.
+
+Some locations, in some places in the Central, Sabaragamuwa and Uva provinces and in Kalutara, Galle and Matara districts are expected to be met.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/527c19dc.json)
+
+[Extended Data](ext_articles/527c19dc.ext.json)
 
 ---
 
@@ -2047,183 +2227,5 @@ No official announcement has been made from the minister's side regarding the cy
 [Data](articles/a04fef94.json)
 
 [Extended Data](ext_articles/a04fef94.ext.json)
-
----
-
-### A revelation of the crowded ship that was hit by Sri Lanka while returning to Sri Lanka
-
-*2024-03-26 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194961) · `si`
-
-A crowded ship, the Baltimo, carrying 22 Indian staff, hit by Sri Lanka, crashed into a river near Singapore. About 20 people are feared dead, with two rescued, one critically. Seven more are trapped in sinking vehicles.
-
-🟩
-
-It is reported that the ship staff of the Baltim to travel from the Baltimo porting from the Baltimo.
-
-There were 22 Indian nationals as the staff of the ship and they have not yet left the ship.
-
-The ship, which was used under the "Dali ', was in front of the Singapore Flag.
-
-As a result, the bridge crashed into the river and about 7 vehicles traveling on the bridge had fallen into the river.
-
-The fire department states that about 20 people are guessed to fall into the river.
-
-Two relief teams were rescued and one of them was serious.
-
-Seven more are inferred to the sinking vehicles and the relief teams have been confirmed using Sonar Technology.
-
-The Baltimo Port is a busy port in America. It is said that the port is growing nearby.
-
-◼️
-
-[Data](articles/d1c3cff6.json)
-
-[Extended Data](ext_articles/d1c3cff6.ext.json)
-
----
-
-### A hand grenade attack on UNP office
-
-*2024-03-26 16:53:51* · [`adalk`](https://www.ada.lk/breaking_news/එක්සත්-ජාතික-පක්ෂ-කාර්යාලයකට-අත්-බෝම්බ-ප්‍රහාරයක්/11-408813) · `si`
-
-A hand grenade attack on the UNP office in Nadeniya, Kadawatha, resulted in the death of Wisdom Harmi Kapwa. The grenade was found in the office, and the suspect is believed to be from a foreign country.
-
-🟩
-
-The Nadeniya of Kadawatha has been attacked today with a hand grenade today.
-
-The Wisdom Harmi Kapwa was found in the road near the party office, and the hand grenade was found in the party office. The hand grenade suspect is the product of a foreign country.
-
-◼️
-
-[Data](articles/b97abab0.json)
-
-[Extended Data](ext_articles/b97abab0.ext.json)
-
----
-
-### Pleasure filed against Prasanna Ranatunga sentenced to examination
-
-*2024-03-26 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194960) · `si`
-
-Prasanna Ranatunga appealed a punishment, with the Court of Appeal to hear on April 30 and May 3. The appeal concerns an incident in Meethotamulla, Kolonnawa. Ranatunga was fined Rs. 25 million and suspended for five years.
-
-🟩
-
-The Court of Appeal was given today (26) to hear the appeals petition filed by Minister Prasanna Ranatunga presented to the punishment against the punishment.
-
-It was with regard to an incident that had been accused of the purpose of carrying out a land of the Meethotamulla area in Kolonnawa.
-
-This appeal petition is today. N. The five-member appellaration of Mr. Samarakoon was called before a panel of judges.
-
-The lawyers of both parties demanded the Petition for the examination.
-
-The Court of Appeal was appointed to hear the appearance petition on April 30 and May 3.
-
-Solicitor General Rahanna Abeyuriya, who appeared for the Attorney General, was permitted to call several promicile notes filed as evidence of the High Courts.
-
-Minister Prasanna Ranatunga was sentenced to a sum of Rs.Had decided to suspend the five.
-
-In addition, the court was fined Rs. 25 million.
-
-The Prasanna Ranatunga had presented the petition in the Court of Appeal asking for the punishment against her by the Colombo High Court.
-
-◼️
-
-[Data](articles/553eec63.json)
-
-[Extended Data](ext_articles/553eec63.ext.json)
-
----
-
-### Court dismisses preliminary objections raised in Keheliya’s misappropriation case
-
-*2024-03-26 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98216/court-dismisses-preliminary-objections-raised-in-keheliyas-misappropriation-case-) · `en`
-
-The Colombo High Court on Tuesday (March 26) dismissed preliminary objections raised by Keheliya Rambukwella and another accused in a misappropriation case, stating that the lawsuit filed by the Bribery Commission could not be maintained.
-
-The duo is accused of allegedly misappropriating the funds belonging to the State Printing Corporation to pay Rambukwella’s personal telephone bill amounting to Rs. 230,000 between March and April 2012, during his tenure as the Mass Media Minister.
-
-When the case was called before Colombo High Court, the defense attorney argued that the case could not be maintained, however, Judge Damith Thotawatta granted leave to proceed with the case filed against Rambukwella and former chairman of the corporation Jayampathi Bandara Heenkenda.
-
-Rambukwella, who is currently in remand custody in connection with this alleged implication in the procurement of substandard human immunoglobulin vials, was also produced for today’s court proceedings.
-
-◼️
-
-[Data](articles/dbed7143.json)
-
-[Extended Data](ext_articles/dbed7143.ext.json)
-
----
-
-### “I will not resign for the salary issue”
-
-*2024-03-26 16:24:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சம்பளப்-பிரச்சினைக்காக-பதவி-விலக-மாட்டேன்/175-335220) · `ta`
-
-Dr. Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, refuses to resign over salary issues, emphasizing his responsibility to address employee salaries and the collective decision to increase wages, despite the economic crisis.
-
-🟩
-
-Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe today said that the governor will not resign due to the problems caused by the salary increase.
-
-Commenting on the media, he said the crisis was caused by the central bank's salary increase.
-
-He also said that he would review the salary increase of employees under him.
-
-The governor added that he would only resign from office if he failed to fulfill his responsibilities properly and that he had the responsibility to focus on the salaries of the employees as the corporation chairman.
-
-“As the governor, my employees have responsibility for me. This salary has been increased under the existing legal framework. ”
-
-“Not only the central bank but other state agencies and private institutions think about their employees. Everyone has been affected by the crisis. So that the odds cannot be. The decision has been made in speaking to the Finance Council and the trade unions.
-
-...
-
-[Data](articles/d647331a.json)
-
-[Extended Data](ext_articles/d647331a.ext.json)
-
----
-
-### The fate of a 14th floor fate
-
-*2024-03-26 16:23:19* · [`adalk`](https://www.ada.lk/breaking_news/14-වන-මහලින්-වැටුණු-අයකුට-අත්වූ-ඉරණම/11-408812) · `si`
-
-A victim fell from the 18th to the 14th floor of a building in Borella, Colombo, and was pronounced dead at Colombo National Hospital.
-
-🟩
-
-The Borella police states that the 14th floor of a building constructed at Borella de S. Senanayake Mawatha.
-
-Police investigations have revealed that the victim has fallen to the 14th floor of the house of the 18th floor of the house.
-
-The victim of the accident was admitted to the Colombo National Hospital at the time of the event and the doctors have been inspected and told him that he had died.
-
-◼️
-
-[Data](articles/769bf4ba.json)
-
-[Extended Data](ext_articles/769bf4ba.ext.json)
-
----
-
-### Shakib Al Hasan returns for second Test against Sri Lanka
-
-*2024-03-26 16:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shakib-Al-Hasan-returns-for-second-Test-against-Sri-Lanka/108-279641) · `en`
-
-Mar. 26 (ICC) - Bangladesh make two changes to their 15-member squad for the second Test against Sri Lanka in Chattogram.
-
-In a big boost to Bangladesh’s hopes of drawing the Test series against Sri Lanka as Shakib Al Hasan makes a comeback to the squad for the second match, starting 30 March.
-
-Shakib returns to international cricket for the first time since the ICC Men’s Cricket World Cup in November 2023. His campaign was cut short ahead of Bangladesh’s last World Cup match against Australia due to a left index finger injury.
-
-Earlier this year in January, he was diagnosed with a retinal condition but the Bangladesh medical team were “optimistic about managing the condition effectively with a conservative approach.”
-
-Shakib, who last played a Test in April 2023, comes back at the expense of Tawhid Hridoy, who was in the 15-member squad for the first match but did not feature in the XI.
-
-...
-
-[Data](articles/db116c85.json)
-
-[Extended Data](ext_articles/db116c85.ext.json)
 
 ---

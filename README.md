@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 21:18:00**
+As of **2024-03-27 21:34:03**
 
 ## Newspaper Stats
 
@@ -26,35 +26,45 @@ adaderanasinhalalk | 2,501
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,554 (100.0%) of 15,556 articles have been extended.
+15,556 (100.0%) of 15,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### මත්ලෝලියාගෙන් එළියට ආ HIV භීතිය
+### HIV terror out of drugs
 
 *2024-03-27 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195008) · `si`
 
-මීගමුව පොලිස් කොට්ඨාසයේ පවත්වාගෙන ගිය සම්බාහන මධ්‍යස්ථාන 53ක් වටලා වහාම ක්‍රියාත්මක වන පරිදි ඒවා වසා දමා තිබේ.
+Negombo Police shut down 53 massage centers, revealing HIV cases and illegal operations. Two men were HIV-positive, and the centers were operating without permission. During the raid, 120 people were detained for medical checks. A 15-year-old girl was involved, and one person was arrested. The police confirmed the centers were unlicensed.
 
-එම සම්භාහන මධ්‍යස්ථානවල සේවිකාවන් අතුරින් දෙදෙනෙකුට එච්.අයි.වී. ආසාදනය වී ඇතැයි තහවුරු වී තිබෙන බව පොලීසිය පැවසීය.
+🟩
 
-එමෙන්ම එම සම්බාහන මධ්‍යස්ථාන නිසි අවසරයකින් තොරව පවත්වාගෙන ගොස් ඇති බවත් හෙළිවී තිබේ.
+53 massage centers operating in the Negombo Police Division and they were closed down immediately.
 
-මීගමුව පොලිස් කොට්ඨාසය තුළ පවත්වාගෙන යන සම්බාහන මධ්‍යස්ථාන 53ක් මීගමුව පොලිසිය විසින් හදිසි පරීක්ෂාවකට ලක්කෙරුණේ පසුගිය සතියක පමණ කාලයක සිට ය.
+Two men of the cenches of the centers are HIV. Police said that he had been infected.
 
-ඒ මීගමුව කොට්ඨාසය භාර නිලධාරී පොලිස් අධිකාරී එරික් පෙරේරා මහතාගේ මෙහෙයවීමෙනි.
+It has been revealed that the massage centers have been maintained without proper permission.
 
-ඔහු එම මෙහෙයුම දියත් කරන්නේ මතට ඇබ්බැහි වූ පුද්ගලයන් වෛද්‍ය සායන සඳහා යොමුකෙරෙන "සවිය වැඩසටහන" අතරතුර එක් මත්ලෝලියෙකු HIV ආසාදිතයෙකු බවට තහවුරුවීමත් ඔහු මීගමුව ප්‍රදේශයේ සම්බාහන මධ්‍යස්ථාන වෙත නිරන්තරයෙන් පැමිණෙන අයෙකු බවට හෙළිවීමත් සමග ය.
+The Negombo Police have taken 53 massage centers in the Negombo police division last week.
 
-ඉන් අනතුරුව මීගමුවේ සම්බාහන මධ්‍යස්ථාන හදිසි පරික්ෂාවට ලක්කිරීමේ මෙහෙයුම ඇරඹුණී.
+That was the leading officer in charge of the Official Superintendent of Police Eric Perera.
 
-එම වැටලීම අතරතුර එම මධ්‍යස්ථානවල සම්බාහන සේවාවල නියුතු තරුණියන් 120 දෙනෙකු පොලිස් භාරයට ගෙන වෛද්‍ය පරීක්ෂණ සඳහා යොමු කර තිබුණි.
+He launches the operation to ensure that a drug addict is a HIV infected in the "Saviya Program" and revealed that he is a person constant to the massage centers in Negombo.
+
+The migratory massage centers in Negombo began to investigate the urgency.
+
+During the raid, 120 people in the centers were taken into custody and directed to medical examinations.
+
+Police said that the police were revealed that two were HIV.
+
+Meanwhile, there was a 15-year-old girl girl, Negombo Police said.
 
 ...
 
 [Data](articles/8cad27ec.json)
+
+[Extended Data](ext_articles/8cad27ec.ext.json)
 
 ---
 
@@ -69,6 +79,8 @@ The guests also witnessed a live demonstration of SBS personnel's combat skills 
 ◼️
 
 [Data](articles/17037dca.json)
+
+[Extended Data](ext_articles/17037dca.ext.json)
 
 ---
 

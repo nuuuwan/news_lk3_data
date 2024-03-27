@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 08:33:49**
+As of **2024-03-27 08:51:54**
 
 ## Newspaper Stats
 
-*Scraped **15,421** Articles*
+*Scraped **15,422** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 832
 dailyftlk | 835
 islandlk | 854
 adalk | 1,313
-adaderanalk | 1,847
+adaderanalk | 1,848
 tamilmirrorlk | 1,849
 virakesarilk | 2,175
 dailymirrorlk | 2,382
@@ -26,27 +26,53 @@ adaderanasinhalalk | 2,476
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,419 (100.0%) of 15,421 articles have been extended.
+15,421 (100.0%) of 15,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### සෞඛ්‍ය වෘත්තීය සමිති වර්ජනයකට යයි ද?
+### Sri Lanka, China sign nine agreements on cooperation
 
-*2024-03-27 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194981) · `si`
+*2024-03-27 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98227/sri-lanka-china-sign-nine-agreements-on-cooperation) · `en`
 
-ආර්ථික යුක්තිය ඉටුකර ගැනීම සඳහා සෞඛ්‍ය වෘත්තීය සමිති ලබා දුන් කාලය අදින් (27) අවසන් වේ.
+The signing of nine new agreements between China and Sri Lanka took place on Tuesday (March 26) under the patronage of Chinese Prime Minister Li Qiang and Prime Minister Dinesh Gunawardena.
 
-කෙසේවෙතත් එම කාලය තුළ සිය ගැටලුව සඳහා මේ දක්වාත් විසඳුම් ලැබී නොමැති බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය සඳහන් කළේය.
+The Prime Minister paid floral tributes to the martyred war heroes at the Monument to the People’s Heroes at Tiananmen Square, and after receiving the guard of honour from the Chinese military, bilateral discussions commenced.
 
-ඒ අනුව සිය ඉල්ලීම් දිනාගැනීම සඳහා අඛණ්ඩ වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වීම සම්බන්ධයෙන් අද කොළඹ දී රැස්වන වෘත්තීය සමිති නායකත්ව මණ්ඩල රැස්වීමේදී තීරණය කිරීමට නියමිතව තිබේ.
+Later, in the bilateral talks held in the Great Hall in Beijing, more attention was paid to increasing overall cooperation in the social, cultural, educational, and agricultural sectors in addition to economic cooperation.
 
-මේ ඒ සම්බන්ධයෙන් අදහස් දක්වන සෞඛ්‍ය වෘත්තීය සමිති සන්ධානයේ සම කැඳවුම්කරු චානක ධර්මවික්‍රම මහතා,
+The Prime Ministers of the two countries confirmed that a new chapter in the long-term friendship and cooperation between Sri Lanka and China will begin through the nine memoranda of understanding signed between the two countries.
 
 ...
 
+[Data](articles/f5deab67.json)
+
+---
+
+### Shall health unions go to strike?
+
+*2024-03-27 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194981) · `si`
+
+Health unions may strike, as their deadline for economic justice has passed. The Health Trade Union Alliance awaits a resolution. Co-convener Chanaka Dharmawickrema explains the situation, highlighting the submission of health staff demands to the Ministry of Finance and the pending decision on a professional procedure.
+
+🟩
+
+The time given to health unions to serve the economic justice is over (27).
+
+However, the Health Trade Union Alliance stated that the time has not yet been solved for his problem.
+
+Accordingly, the Trade Unions in Colombo today is to be decided at the Leadership Council meeting regarding the participation of their demands.
+
+Health Trade Union Alliance Alliance, Co-convener of the UPFA Chanaka Dharmawickrema,
+
+"Over 100,000 health staff at the Ministry of Health in 72 Career Union trade unions, the Ministry of Health has been submitted to the Ministry of Finance to the Ministry of Finance.. The health secretary left the professional procedure to be implemented 18 and 19 and depending on the request of the issue for 10 days for 10 days. That time is over tomorrow. We will decide today's decision after tomorrow. We have already given approval to attend a continuous trade union action at our Representative Conference. Accordingly, we decide today's strike. "
+
+◼️
+
 [Data](articles/d8849a0a.json)
+
+[Extended Data](ext_articles/d8849a0a.ext.json)
 
 ---
 
@@ -386,19 +412,27 @@ Mitrapala said that following Sirisena’s statement to the Criminal Investigati
 
 ---
 
-### ’சட்டத்தை நிலைநாட்டுவது மனித உரிமை மீறல் அல்ல’
+### The establishment of the law is not a violation of human rights
 
 *2024-03-27 02:56:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தை-நிலைநாட்டுவது-மனித-உரிமை-மீறல்-அல்ல/175-335240) · `ta`
 
-போராட்டம் என்ற போர்வையில் வன்முறையை விதைத்தவர்களிடம் இருந்து பாராளுமன்றம், பிரதமர் அலுவலகம், ஜனாதிபதி அலுவலகம் உள்ளிட்ட அரச சொத்துக்களை காப்பாற்றி நாட்டில் சட்டம் ஒழுங்கை நிலைநாட்ட தான் மேற்கொண்ட நடவடிக்கைகளை மனித உரிமை மீறல் என சிலர் சுட்டிக்காட்ட முயன்றனர். இருந்தபோதும், அந்த நடவடிக்கையை அன்று எடுக்காமல் இருந்திருந்தால் இன்று நாட்டில் பொருளாதார ஸ்திரத்தன்மையை கட்டியெழுப்பியிருக்க முடியாது என்று  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+The law's establishment is not a human rights violation. President Ranil Wickremesinghe defended the country's actions to maintain law and order, protecting state property. Akhilaviraj Kariyawasam, former Education Minister, led a meeting to discuss the country's economic program and university lecturers' ideas. The government aims to reform the education system, reducing exam loads and changing university structures, with plans to implement these changes post-election. The goal is to enhance the education system by 2035.
 
-நாட்டின் தற்போதைய பொருளாதார வேலைத்திட்டம் மற்றும் பல்கலைக்கழக விரிவுரையாளர்களின் கருத்துக்கள் மற்றும் ஆலோசனைகள் குறித்து கலந்துரையாடும் நோக்குடன் முன்னாள் கல்வி அமைச்சர் அகிலவிராஜ் காரியவசம் இந்த சந்திப்பை ஏற்பாடு செய்திருந்தார்.
+🟩
 
-நாட்டுக்கு புதிய கல்வி முறையை அறிமுகப்படுத்த அரசாங்கம் செயற்பட்டு வருகின்றது. அதற்காக பிரதமரின் செயலாளர் தலைமையில் குழுவொன்றும் நியமிக்கப்பட்டுள்ளது.
+Some people have tried to point out that the actions of the country to uphold law and order in the country by protecting state property, including parliament, prime ministerial office and presidential office, from those who sowed violence under the guise of struggle.. However, President Ranil Wickremesinghe said that if the move was not taken, the economic stability of the country would not have been built today.
+
+Former Education Minister Akhilaviraj Kariyawasam organized the meeting with the aim of discussing the country's current economic program and the ideas and suggestions of university lecturers.
+
+The government is working to introduce a new education system for the country. A committee headed by the Prime Minister's Secretary has been appointed.
+
+The government has focused on the changes to be taken in school education by reducing the exam load. There are many changes in the university structure. The program will be implemented under the new parliament after the upcoming election.
 
 ...
 
 [Data](articles/f530e579.json)
+
+[Extended Data](ext_articles/f530e579.ext.json)
 
 ---
 
@@ -2201,25 +2235,5 @@ The tournament will be held from July 19 to 28 at the Dambulla International Cri
 [Data](articles/3487f72f.json)
 
 [Extended Data](ext_articles/3487f72f.ext.json)
-
----
-
-### Sri Lanka rupee closes at 301.90/302.00 to the US dollar
-
-*2024-03-26 17:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-301-90-302-00-to-the-us-dollar-156206/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 301.90/302.00 to the US dollar in the spot forex market on Tuesday, stronger from 302.60/70 on Monday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed stable at 11.30/40 percent.
-
-A bond maturing on 15.09.2027 closed at 11.90/12.05 percent up from 11.90/95 percent.
-
-A bond maturing on 15.12.2028 closed stable at 12.10/15 percent. (Colombo/Mar26/2024)
-
-◼️
-
-[Data](articles/259d5f6d.json)
-
-[Extended Data](ext_articles/259d5f6d.ext.json)
 
 ---

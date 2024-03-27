@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 03:17:54**
+As of **2024-03-28 03:33:48**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,593 (100.0%) of 15,594 articles have been extended.
+15,594 (100.0%) of 15,594 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### அரிசி, வெங்காயத்திற்கான வரி குறைப்பு
+### Rice, tax cut for onion
 
 *2024-03-28 02:50:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-வெங்காயத்திற்கான-வரி-குறைப்பு/175-335287) · `ta`
 
-அரிசி மற்றும் பெரிய வெங்காயத்திற்கான விசேட பண்ட வரி இன்று முதல் குறைக்கப்படவுள்ளதாக நிதியமைச்சு அறிவித்துள்ளது.
+The Finance Ministry reduced the special commodity tax on rice to an unspecified amount and on big onions to 10 rupees per kg until April 3024.
 
-அதன்படி ஒரு கிலோ கிராம் அரிசிக்கு 65 ரூபாவாக இருந்த விசேட பண்ட வரி நேற்று  முதல் எதிர்வரும் ஏப்ரல் மாதம் 03 ஆம் திகதி வரை ஒரு ரூபாவாக குறைக்கப்பட்டுள்ளது.
+🟩
 
-அத்துடன் பெரிய வெங்காயத்தின் இறக்குமதிக்கான வரி 2024 ஆம் ஆண்டு ஏப்ரல் மாதம் 30 ஆம் திகதி வரை கிலோ கிராம் ஒன்றுக்கு 10 ரூபாவாக குறைக்கப்பட்டுள்ளதாக நிதியமைச்சு அறிவித்துள்ளது. (a)
+The Finance Ministry has announced that a special commodity tax on rice and big onions will be reduced from today.
+
+Accordingly, the special commodity tax, which was 65 rupees per kilogram of rice, was reduced to Rs.
+
+The Finance Ministry has announced that the tax on the importation of large onions has been reduced to 10 rupees per kg until April 3024.. (A)
 
 ◼️
 
 [Data](articles/f7dacbf3.json)
+
+[Extended Data](ext_articles/f7dacbf3.ext.json)
 
 ---
 

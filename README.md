@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 05:17:50**
+As of **2024-03-27 05:37:31**
 
 ## Newspaper Stats
 
-*Scraped **15,394** Articles*
+*Scraped **15,395** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 138
+colombotelegraphcom | 139
 bbccomsinhala | 164
 dbsjeyarajcom | 192
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,394 (100.0%) of 15,394 articles have been extended.
+15,394 (100.0%) of 15,395 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -597,6 +597,20 @@ Accordingly, the Gujarat Titans lost 8 wickets at the end of their 20 overs and 
 [Data](articles/40a100b6.json)
 
 [Extended Data](ext_articles/40a100b6.ext.json)
+
+---
+
+### The Forgotten Guardians Of The Seas; Reviving Sri Lanka’s Naval Power
+
+*2024-03-26 23:28:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-forgotten-guardians-of-the-seas-reviving-sri-lankas-naval-power/) · `en`
+
+In the annals of history, the figure of Sir Walter Raleigh stands as a beacon of exploration and adventure. Yet, beyond his gallant exploits, lies a deeper narrative of maritime dominance and strategic prowess that shaped nations and empires. During Raleigh’s era, explorers were not mere cartographers, but rather daring adventurers who sailed the seas under state patronage, seizing goods and treasures from maritime trade routes.
+
+These audacious exploits weren’t just acts of piracy; they were the seeds of national wealth and diplomatic influence. By enriching their coffers through maritime plunder, these seafaring knights ascended to diplomatic status, eventually earning knighthood and securing a lasting legacy for their descendants. This narrative, often overshadowed by tales of piracy, underscores the pivotal role of naval power in shaping the course of history.
+
+...
+
+[Data](articles/c69f5f9f.json)
 
 ---
 
@@ -2255,29 +2269,5 @@ The Governor also said that he will leave his position only if he fails to fulfi
 [Data](articles/8fc63f57.json)
 
 [Extended Data](ext_articles/8fc63f57.ext.json)
-
----
-
-### The Court of Appeal of the Special Presidential Commission appointed Gotabhaya
-
-*2024-03-26 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179755) · `ta`
-
-The Court of Appeal upheld all recommendations of the Special Presidential Commission, appointed by former President Gotabhaya Rajapakse, to investigate political revenge from 2015 to 2019. Petitioners sought invalidation, but the court ruled in favor of the commission's findings.
-
-🟩
-
-The Court of Appeal on Monday (Monday) ruled that all the recommendations of the Special Presidential Commission appointed by former President Gotabhaya Rajapakse to investigate the alleged political revenge during the good governance.
-
-The petitioners have requested the Court of Appeal to make them invalid because the recommendations made by the Presidential Commission to investigate the alleged political revenge that have taken place from 08.01.2015 to the 2019 presidential election.
-
-Retired High Court Judge Upali Abeyratne, the members of the Commission and the Secretary of the Commission, were named as the defendants of the petitions.
-
-On behalf of President Ranil Wickremasinghe and Dr. Jayampathi Wickremaratne, Attorney -at -Law Dinesh Vidanapatrana, President's Attorney -at -Law Fais Mustafa and President's Lawyer Eraj de Silva were present.
-
-◼️
-
-[Data](articles/1e1cb127.json)
-
-[Extended Data](ext_articles/1e1cb127.ext.json)
 
 ---

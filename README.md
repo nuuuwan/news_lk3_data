@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 10:51:25**
+As of **2024-03-27 11:03:13**
 
 ## Newspaper Stats
 
-*Scraped **15,433** Articles*
+*Scraped **15,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ dailyftlk | 835
 islandlk | 854
 adalk | 1,313
 tamilmirrorlk | 1,851
-adaderanalk | 1,851
-virakesarilk | 2,176
+adaderanalk | 1,852
+virakesarilk | 2,177
 dailymirrorlk | 2,383
 adaderanasinhalalk | 2,479
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,479
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,433 (100.0%) of 15,433 articles have been extended.
+15,433 (100.0%) of 15,435 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,38 @@ That is an achievement for the party that languished on the sideline. Their luck
 [Data](articles/0e95a68b.json)
 
 [Extended Data](ext_articles/0e95a68b.ext.json)
+
+---
+
+### New Women’s Hospital in Karapitiya declared open
+
+*2024-03-27 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98231/new-womens-hospital-in-karapitiya-declared-open) · `en`
+
+The German-Sri Lanka Friendship New Women’s Hospital in Karapitiya, Galle was inaugurated by President Ranil Wickremesinghe on Wednesday morning (March 27).
+
+Boasting a total of 640 beds, six operating theatres, emergency units, intensive care, paediatric units and modern facilities, it marks a significant advancement in SL’s healthcare, the President’s Media Division (PMD) said.
+
+It is understood that this facility is the largest maternity hospital not only in Sri Lanka but also in South Asia.
+
+◼️
+
+[Data](articles/0ae235cb.json)
+
+---
+
+### கோட்டா பதவியிலிருந்து அகற்றப்பட்டதன் பின்னணியில் பலம் வாய்;ந்த வெளிநாடு -சபாநாயகர் தெரிவித்திருப்பது குறித்து முழுமையான விசாரணையை கோருகின்றார் பிரசன்ன
+
+*2024-03-27 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/179800) · `ta`
+
+முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்சவை பதவியிலிருந்து அகற்றப்பட்டதன் பின்னணியில் வெளிநாட்டு சக்திகள் உள்ளதாக  சபாநாயகர் தெரிவித்துள்ளமை குறித்து முழுமையான விசாரணைகள் இடம்பெறவேண்டும் என அமைச்சர் பிரசன்ன ரணதுங்க வேண்டுகோள் விடுத்துள்ளார்.
+
+மார்ச் 21ம் திகதி சபாநாயகர் இது குறித்து பகிரங்கமாக அறிவித்துள்ள போதிலும் ஏன்  ஆளும்கட்சி உட்பட அனைத்து கட்சிகளும் அமைதியாக உள்ளன என ஐலண்ட் நாளிதழ் எழுப்பிய கேள்விக்கு பதிலளிக்கையிலேயே பிரசன்ன ரணதுங்க இதனை தெரிவித்துள்ளார்.
+
+2019 ம் ஆண்டு உயிர்த்த ஞாயிறுதாக்குதல் குறித்து விசாரணையை கோரும் அரசியல்கட்சிகள்  நாடாளுமன்ற உறுப்பினர்கள் ஏன் இந்த விடயம் குறித்து அமைதியாக உள்ளனர் என்ற ஐலண்ட் கேள்வி எழுப்பியதற்கு பதிலளித்துள்ள பிரசன்ன ரணதுங்க தான் அரசியல் கட்சி தலைவர்களின் கூட்டத்தில்இது குறித்து கேள்வி எழுப்பவுள்ளதாக தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/ca3e8050.json)
 
 ---
 
@@ -2207,47 +2239,5 @@ However, Mr. Aluthgamage said the Sri Lanka Cran's Front is ready for any electi
 [Data](articles/6338eabc.json)
 
 [Extended Data](ext_articles/6338eabc.ext.json)
-
----
-
-### Women’s Asia Cup 2024 to be held in Dambulla
-
-*2024-03-26 17:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Womens-Asia-Cup-2024-to-be-held-in-Dambulla/108-279645) · `en`
-
-Mar. 26 (SLC) - The Asian Cricket Council (ACC) has announced the upcoming Women's Asia Cup 2024, scheduled to take place in Dambulla, Sri Lanka, from July 19th to July 28th, 2024.
-
-This edition of the tournament will feature eight teams, one more than the previous edition in 2022, indicating the growing interest and participation in women's cricket across Asia.
-
-Joining the cricketing powerhouses of India, Pakistan, Sri Lanka, and Bangladesh will be the semi-finalists of the Women's Premier Cup 2024 - UAE, Malaysia, Nepal, and Thailand. The increased participation promises to make this tournament even more competitive and thrilling for cricket fans across the region.
-
-In line with the ACC's vision for inclusivity and equality in cricket, the Women's Asia Cup 2024 will continue the tradition of having all female referees and umpires, following the successful implementation of the same in the previous edition.
-
-◼️
-
-[Data](articles/1fffbdab.json)
-
-[Extended Data](ext_articles/1fffbdab.ext.json)
-
----
-
-### The operation of the 12-style station
-
-*2024-03-26 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194963) · `si`
-
-12 suspects, including 11 racketeers, arrested in Colombo, Ganemulla, Moratuwa, Panadura, Kalubowitiyana, and Hikkaduwa. Members of Rathusu, Borahewa, Kajiani, Kajipani, Dematunga, and Sanjiva.
-
-🟩
-
-12 suspects were arrested yesterday at the special operation of the IGP to arrest organized crime gang members.
-
-The arrested persons were 11 racketeers and racketeer in Colombo, Ganemulla, Moratuwa, Panadura, Kalubowitiyana and Hikkaduwa.
-
-The suspects are members of the bunch of these suspects, Rathusu, Borahewa, Borahewa, Kajiani, Kajipani, Dematunga, Dematunga, Dematunga and Sanjiva.
-
-◼️
-
-[Data](articles/fefc7357.json)
-
-[Extended Data](ext_articles/fefc7357.ext.json)
 
 ---

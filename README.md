@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 21:03:12**
+As of **2024-03-27 21:18:00**
 
 ## Newspaper Stats
 
-*Scraped **15,554** Articles*
+*Scraped **15,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 1,332
 adaderanalk | 1,869
 tamilmirrorlk | 1,870
 virakesarilk | 2,196
-dailymirrorlk | 2,401
-adaderanasinhalalk | 2,500
+dailymirrorlk | 2,402
+adaderanasinhalalk | 2,501
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,547 (100.0%) of 15,554 articles have been extended.
+15,554 (100.0%) of 15,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### මත්ලෝලියාගෙන් එළියට ආ HIV භීතිය
+
+*2024-03-27 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195008) · `si`
+
+මීගමුව පොලිස් කොට්ඨාසයේ පවත්වාගෙන ගිය සම්බාහන මධ්‍යස්ථාන 53ක් වටලා වහාම ක්‍රියාත්මක වන පරිදි ඒවා වසා දමා තිබේ.
+
+එම සම්භාහන මධ්‍යස්ථානවල සේවිකාවන් අතුරින් දෙදෙනෙකුට එච්.අයි.වී. ආසාදනය වී ඇතැයි තහවුරු වී තිබෙන බව පොලීසිය පැවසීය.
+
+එමෙන්ම එම සම්බාහන මධ්‍යස්ථාන නිසි අවසරයකින් තොරව පවත්වාගෙන ගොස් ඇති බවත් හෙළිවී තිබේ.
+
+මීගමුව පොලිස් කොට්ඨාසය තුළ පවත්වාගෙන යන සම්බාහන මධ්‍යස්ථාන 53ක් මීගමුව පොලිසිය විසින් හදිසි පරීක්ෂාවකට ලක්කෙරුණේ පසුගිය සතියක පමණ කාලයක සිට ය.
+
+ඒ මීගමුව කොට්ඨාසය භාර නිලධාරී පොලිස් අධිකාරී එරික් පෙරේරා මහතාගේ මෙහෙයවීමෙනි.
+
+ඔහු එම මෙහෙයුම දියත් කරන්නේ මතට ඇබ්බැහි වූ පුද්ගලයන් වෛද්‍ය සායන සඳහා යොමුකෙරෙන "සවිය වැඩසටහන" අතරතුර එක් මත්ලෝලියෙකු HIV ආසාදිතයෙකු බවට තහවුරුවීමත් ඔහු මීගමුව ප්‍රදේශයේ සම්බාහන මධ්‍යස්ථාන වෙත නිරන්තරයෙන් පැමිණෙන අයෙකු බවට හෙළිවීමත් සමග ය.
+
+ඉන් අනතුරුව මීගමුවේ සම්බාහන මධ්‍යස්ථාන හදිසි පරික්ෂාවට ලක්කිරීමේ මෙහෙයුම ඇරඹුණී.
+
+එම වැටලීම අතරතුර එම මධ්‍යස්ථානවල සම්බාහන සේවාවල නියුතු තරුණියන් 120 දෙනෙකු පොලිස් භාරයට ගෙන වෛද්‍ය පරීක්ෂණ සඳහා යොමු කර තිබුණි.
+
+...
+
+[Data](articles/8cad27ec.json)
+
+---
+
+### Special Boat Squadron holds passing out ceremony in Trincomalee
+
+*2024-03-27 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Special-Boat-Squadron-holds-passing-out-ceremony-in-Trincomalee/110-279737) · `en`
+
+The Special Boat Squadron (SBS) held an insignia awarding and passing out ceremony today to mark the termination of SBS training which was successfully completed by 21 sailors. At the invitation of the Commanding Officer SBS, Commander Dharmasiri Herath, the Commander Eastern Naval Area, Rear Admiral Suresh De Silva, graced the event which was held in a dignified sequence at the SBS Headquarters in the Naval Dockyard, Trincomalee.
+
+The guests also witnessed a live demonstration of SBS personnel's combat skills and special events. The demonstration took place at the SBS Headquarters premises and the Nicholson Cove Sea area. The exercise was enhanced by the participation of a Bell 212 Helicopter from the Sri Lanka Air Force.
+
+◼️
+
+[Data](articles/17037dca.json)
+
+---
 
 ### Special commodity levy on rice and onions slashed
 
@@ -47,6 +87,8 @@ The order was issued by President Ranil Wickremesinghe, pursuant to the powers v
 ◼️
 
 [Data](articles/6aea2596.json)
+
+[Extended Data](ext_articles/6aea2596.ext.json)
 
 ---
 
@@ -65,6 +107,8 @@ A total of 145 suspects, including 8 men and 137 women, were arrested in connect
 ◼️
 
 [Data](articles/f2d88577.json)
+
+[Extended Data](ext_articles/f2d88577.ext.json)
 
 ---
 
@@ -208,21 +252,27 @@ The Chinese President assured China's continuous support to Sri Lanka’s effort
 
 ---
 
-### කසුන්ට දෙවැනි ටෙස්ට් තරගය අහිමි වෙයි
+### The Kashan loses the second Test
 
 *2024-03-27 19:27:53* · [`adalk`](https://www.ada.lk/sports/කසුන්ට-දෙවැනි-ටෙස්ට්-තරගය-අහිමි-වෙයි/9-408835) · `si`
 
-බංගලාදේශයට සමගින් පැවැත්වීමට නියමිත දෙවැනි ටෙස්ට් තරගය ශ්‍රි ලංකා වේග පන්දු යවන ක්‍රීඩක කසුන් රාජිතට අහිමි වී තිබේ. ඒ ඔහුගේ පිට කොන්දේ ඇතිව තිබෙන ආබාධයක් හේතුවෙනි.
+Sri Lanka's Kashan loses the 2nd Test to Bangladesh due to health issues. Kasun Rajitha, with 8 wickets in the 1st Test, is in the Asitha Fernando Reserve for rehabilitation. Match resumes next Saturday.
 
-තරගය ලබන සෙනසුරාදා ආරම්භ කිරීමට නියමිතව තිබේ. කසුන් රාජිත බංග්ලාදේශය සමගින් පැවැති පළමු ටෙස්ට් තරගයේදී කඩුලු 8ක් දවා ගැනිමට සමත්විය.
+🟩
 
-කසුන් රාජිත වෙනුවට අසිත ප්‍රනාන්දු සංචිතයට ඇතුළත් කර ඇතත් ශ්‍රී ලංකාව තම කණ්ඩායමේ අවසන් සංයුතිය තවමත් තීරණය කර නොමැත.
+Sri Lankan fast bowler cars have lost the second Test with Bangladesh. That was because of a disorder with his own conditions.
 
-පුනරුත්ථාපන කටයුතු ආරම්භ කිරීම සඳහා රාජිත යළි ශ්‍රී ලංකාවට පැමිණෙන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පවසයි.
+The match is scheduled to begin next Saturday. Kasun Rajitha had taken eight wickets in the first Test match with Bangladesh.
+
+Kasun has been included in the Asitha Fernando Reserve instead of the Asitha Fernando Pool, but the last composition of its team has not yet been decided.
+
+Sri Lanka Cricket states that Rajitha will return to Sri Lanka to commence rehabilitation activities.
 
 ◼️
 
 [Data](articles/b659dc4a.json)
+
+[Extended Data](ext_articles/b659dc4a.ext.json)
 
 ---
 
@@ -230,23 +280,35 @@ The Chinese President assured China's continuous support to Sri Lanka’s effort
 
 *2024-03-27 19:20:00* · [`adalk`](https://www.ada.lk/breaking_news/නාමල්ට-පොහොට්ටුවේ-ලොකු-තනතුරක්/11-408834) · `si`
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක ලෙස නාමල් රාජපක්ෂ මහතා පත්කර තිබේ. පක්ෂයේ විධායක කමිටුව විසින් මෙම පත්කිරීම සිදුකර තිබේ.
+Namal Rajapaksa appointed as Sri Lanka General Manager's National Organizer by party executive committee.
+
+🟩
+
+Namal Rajapaksa has been appointed as the National Organizer of the Sri Lanka General Manager. The appointment was made by the party executive committee.
 
 ◼️
 
 [Data](articles/2ab07630.json)
 
+[Extended Data](ext_articles/2ab07630.ext.json)
+
 ---
 
-### සිසුන් සිවුදෙනෙක් මා ඔයට බිලි
+### Four students killed me
 
 *2024-03-27 19:14:09* · [`adalk`](https://www.ada.lk/breaking_news/සිසුන්-සිවුදෙනෙක්-මා-ඔයට-බිලි/11-408833) · `si`
 
-පොල්ගහවෙළ යාංගල්මෝදර ප්‍රදේශයෙන් මාඔයේ දිය නෑමට ගිය පොල්ගහවෙල් පාසලක සිසුන් සිවු දෙනකු දියේ ගිලි මියගොස් ඇතැයි පොලිසිය කියයි. මියගිය දරුවන් සිවු දෙනාගේ සිරුරු මේ වන විට ගොඩ ගෙන ඇත.
+Four students from Polgaham school in Matale, Kalawala, drowned. Their bodies were found.
+
+🟩
+
+Four students of Polgaham school who had been bathing in Matale from Kalawala area in Polgahapola. The bodies of four dead children have been recovered.
 
 ◼️
 
 [Data](articles/735cf65c.json)
+
+[Extended Data](ext_articles/735cf65c.ext.json)
 
 ---
 
@@ -608,19 +670,25 @@ The Azath Salley Foundation today donated 1,000 bags of dry rations to Muslims i
 
 ---
 
-### ඔබේ බැංකු ගිණුමේ මුදලුත් වංචා කර ඇත්ද? මිලියන 84ක් අන්තර්ජාල බැංකු ගනුදෙනු වලින් වංචා කරලා
+### Have you cheated on your bank account?84 million has been cheated with Internet bank transactions
 
 *2024-03-27 16:47:46* · [`adalk`](https://www.ada.lk/breaking_news/ඔබේ-බැංකු-ගිණුමේ-මුදලුත්-වංචා-කර-ඇත්ද--මිලියන-84ක්-අන්තර්ජාල-බැංකු-ගනුදෙනු-වලින්-වංචා-කරලා/11-408831) · `si`
 
-මීගමුව නගරපේ පිහිටි පුද්ගලික බැංකු ශාඛාවක  එම බැංකු ශාඛාවේ සහකාර කළමනාකාරිය විසින්  මෙම මුදල් වංචාව සිදු කර ඇති බවට හා ඇය විසින් බැංකු ගිණුම් වලින් අන්තර්ජාල බැංකු පහසුකම යටතේ වංචනිකව ඇය‌ගේ සැමියාගේ නමින් වෙනත් පුද්ගලික බැංකු දෙකක පවත්වාගෙන  යනු ලබන ගිණුම් 02 ක් වෙත මුදල් මාරු කර ඇති බවට නිරික්ෂණය වී ඇති බව පොලිසීය පවසයි.
+84M stolen via internet bank transactions in Negombo. Assistant Manager involved. Suspect, exceeding 33M, cheated on husband.
 
-තවද අවස්ථා 16 ක් මගින් හෙලි නොවූ  මුදල් ගනු‌දෙනු සම්බන්දයෙන්  තොරතුරු අණාවරණය වී ඇති අතර සැකකාරිය විසින් රුපියල් මිලියන 33ක් ඉක්මවන මුදලක් ඇයගේ  සැමියාගේ නමින් පවත්වාගෙන යන ගිණුමකට හා රුපියල් මිලියන 13ක මුදලක් සැකකාරිය විසින් පවත්වාගෙන යන ගිණුමකට බැර කර ඇති බවටත් නිරීක්ෂණය වී ඇත.  සැකකාරිය විසින් මේ ආකාරයට වංචාකර ඇති මුදල රුපියල් මිලියන 84 කට අධික බවද පොලිසියට තොරතුරු ලැබී ඇත.
+🟩
 
-මෙම වංචනික ක්‍රියා මගින් උපයා ගන්නා ලද මුදල් රුපියල් මිලියන 10ක් පමණ වැයකර සැකකාරිය හා ඇයපේ සැමියා ඕස්පේලියාව බලා යාමට සැලසුම් කර තිබූ බව, අනාවරණය වී ඇති අතර ඉහත සැකකාරියගේ සැමියා මේවනවිට ඕස්ට්‍රේලියාව බලා පිටත්ව ඇත.
+It is observed that the money has been fraud by the Assistant Manager of the Bank branch of the branch branch of the branch branch in Negombo.Police say that the police said.
+
+The suspect is also observed by the suspect, which exceeds 33 million of her husband's husband and Rs.. The police have received information that the suspect had been cheated on this way.
+
+The suspect, the suspect, which had spent Rs.
 
 ◼️
 
 [Data](articles/45d099e7.json)
+
+[Extended Data](ext_articles/45d099e7.ext.json)
 
 ---
 
@@ -2221,57 +2289,5 @@ Two persons who were injured in their injuries have been admitted to the Kuruneg
 [Data](articles/71329c6a.json)
 
 [Extended Data](ext_articles/71329c6a.ext.json)
-
----
-
-### Firing on Mithua's house associated with crime
-
-*2024-03-27 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179799) · `ta`
-
-Manoj Muthukumaran, accused of crimes on Kaluvaruzawa road, was shot dead in his house. Damage to windows, doors, and walls reported. The Senior Police Officer of Nugegoda Police Division, who led the Navagamuwa Police Division, was threatened via phone.
-
-🟩
-
-The house of Manoj Muthukumaran, who is allegedly accused of leading the crime of many crimes in the Kaluvaruzawa road, has been shot dead by a unidentified man.The incident took place this morning (27).
-
-Police said the windows, doors and walls of the house were damaged.
-
-The Senior Police Officer of the Nugegoda Police Division said that he has headed the Navagamuwa Police Division and threatened to kill the Navagamuwa police officer through the telephone.
-
-◼️
-
-[Data](articles/9eb61328.json)
-
-[Extended Data](ext_articles/9eb61328.ext.json)
-
----
-
-### Petition against Nilantha Jayawardena will be considered
-
-*2024-03-27 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194986) · `si`
-
-The Court of Appeal has ordered the petition against Nilantha Jayawardena, former Chief Justice, to be considered. The petition, filed by Sobhitha Rajakaruna and Dhammika Ganepola, is set for review on May 28th.
-
-🟩
-
-Court of Appeal today (27) ordered the former Chief Justice of the State Intelligence Legal against the Criminal Law on the Easter terrorist attack on the terrorist attack.Did.
-
-The petition was called before the Court of Appeal, which is from Sobhitha Rajakaruna and Dhammika Ganepola today.
-
-Deputy Solicitor General Janaka Bandara appearing on behalf of the Attorney General said that another writ was filed in the courts with the Court of Appeal.
-
-However, the Deputy Solicitor General asked the court to study and give a date to study the petition and give a date to study the petition.
-
-The panel of judges ordered that the petition was held on 28th May.
-
-The petition has been presented by the Hon. Jude Vernon Rohan Silva, the Hon.
-
-The IGP, Senior DIG Nilantha Jayawardena and the Attorney General have been named as respondents.
-
-◼️
-
-[Data](articles/71512ef7.json)
-
-[Extended Data](ext_articles/71512ef7.ext.json)
 
 ---

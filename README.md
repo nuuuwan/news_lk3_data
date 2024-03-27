@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 09:52:44**
+As of **2024-03-27 10:04:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,478
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,427 (100.0%) of 15,428 articles have been extended.
+15,428 (100.0%) of 15,428 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,53 @@ That is an achievement for the party that languished on the sideline. Their luck
 
 ---
 
-### අවුරුදු කාලේ PHIලා වැඩට බහී
+### Prime Minister will hold a final negotiations in the debt restructuring - Cabinet spokesman
+
+*2024-03-27 09:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179783) · `ta`
+
+Prime Minister Dinesh Gunawardena, on an official visit to China, will negotiate the final debt restructuring with the Currency Fund. The Cabinet Spokesperson emphasized the importance of adhering to international agreements and legal plans, warning against the consequences of changing the consensus agreement with the International Monetary Fund.
+
+🟩
+
+Prime Minister Dinesh Gunawardena, who is on an official visit to China, will hold a final negotiation on debt restructuring.. Cabinet Spokesperson Minister Bandula Gunawardena said that the contract with the Currency Fund will be changed as some people say that the negotiations on international debt renovation will reach the final stage.
+
+He further stated that the weekly press conference to announce the Cabinet decisions was held on Tuesday (26).
+
+If anyone is trying to change the consensus agreement with the current government with the International Monetary Fund, they cannot rule the country for two weeks.
+
+When we have borrowed, we are conducting discussions on repaying the loan and making a debt agreement, not by the Sri Lankan government, Ranil Wickremesinghe is not a person or a separate person.
+
+The Sri Lankan government refers to the current government, just like the current government. Accordingly, the responsibilities of the current government are entitled to the next government.
+
+...
+
+[Data](articles/f31ceaf6.json)
+
+[Extended Data](ext_articles/f31ceaf6.ext.json)
+
+---
+
+### When the New Year hesit up to work
 
 *2024-03-27 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194983) · `si`
 
-උත්සව සමය වෙනුවෙන් වෙළෙඳ සැල් පරීක්ෂා කිරීම සඳහා දිවයිනපුරා මහජන සෞඛ්‍ය පරීක්ෂකවරුන් 3,000ක් යොදවා ඇති බව මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමය පවසයි.
+The Public Health Inspectors Association (CHOGM) has deployed 3,000 inspectors to ensure food safety during the festive season. Inspectors check food items and require medical reports from food manufacturers.
 
-එහි සභාපති උපුල් රෝහණ මහතා පැවසුවේ, සිදුකළ වැටලීම්වලදී උත්සව සමය වෙනුවෙන් සකස් කළ ආහාර ද්‍රව්‍ය සාම්පල් රැසක් රස පරීක්ෂකවරුන් වෙත යොමු කිරීමට පියවර ගෙන ඇති බවය.
+🟩
 
-"මහජනතාව උත්සව සමය වෙනුවෙන් ආහාර මිල දී ගන්න එන අවස්ථාවලදී ඔවුන්ට ආහාර සකස් කර ගැනීමට ලබාදෙන අමුද්‍රව්‍ය ඒ වගේම උත්සව සමය වෙනුවෙන් නිෂ්පාදනය කරන ආහාර හා පලතුරු වර්ග වගේ දේවල් අපි ඉදිරියේ දී පරීක්ෂා කරනවා. අපි මේ වෙද්දි උත්සව සමය වෙනුවෙන් නිෂ්පාදනය කළ ආහාර වර්ග විශාල සංඛ්‍යාවක් රස පරීක්ෂකවරුන්ට යොමු කරන්න කටයුතු කරලා තියෙනවා."
+The Public Health Inspectors Association (CHOGM) says that 3,000 public health inspectors of the country have been deployed to inspect the festive season.
 
-ආහාර නිෂ්පාදන ආයතනවල ආහාර සකස් කරන පුද්ගලයින්ගේ වෛද්‍ය වාර්තා ලබාගැනීම අනිවාර්ය කර ඇති බවද උපුල් රෝහණ මහතා සඳහන් කළේය.
+Chairman Upul Rohana said that the raids conducted has taken steps to send a number of food items prepared for the festive season.
+
+"When the public is buying food for the festive season, they are checked in front of the food and fruit types of food and fruit products they produce for the festive season. We have taken steps to send a large number of foods produced for the festive season. "
+
+Upul Rohana stated that it is compulsory to obtain medical reports of food manufacturing institutions.
 
 ◼️
 
 [Data](articles/16ef2342.json)
+
+[Extended Data](ext_articles/16ef2342.ext.json)
 
 ---
 
@@ -923,32 +955,6 @@ Powered by top tier global brands including FBT, QSC, Harman, Electro-Voice, ITC
 [Data](articles/1c79dd4c.json)
 
 [Extended Data](ext_articles/1c79dd4c.ext.json)
-
----
-
-### Prime Minister will hold a final negotiations in the debt restructuring - Cabinet spokesman
-
-*2024-03-27 01:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179783) · `ta`
-
-Prime Minister Dinesh Gunawardena, on an official visit to China, will negotiate the final debt restructuring with the Currency Fund. The Cabinet Spokesperson emphasized the importance of adhering to international agreements and legal plans, warning against the consequences of changing the consensus agreement with the International Monetary Fund.
-
-🟩
-
-Prime Minister Dinesh Gunawardena, who is on an official visit to China, will hold a final negotiation on debt restructuring.. Cabinet Spokesperson Minister Bandula Gunawardena said that the contract with the Currency Fund will be changed as some people say that the negotiations on international debt renovation will reach the final stage.
-
-He further stated that the weekly press conference to announce the Cabinet decisions was held on Tuesday (26).
-
-If anyone is trying to change the consensus agreement with the current government with the International Monetary Fund, they cannot rule the country for two weeks.
-
-When we have borrowed, we are conducting discussions on repaying the loan and making a debt agreement, not by the Sri Lankan government, Ranil Wickremesinghe is not a person or a separate person.
-
-The Sri Lankan government refers to the current government, just like the current government. Accordingly, the responsibilities of the current government are entitled to the next government.
-
-...
-
-[Data](articles/f31ceaf6.json)
-
-[Extended Data](ext_articles/f31ceaf6.ext.json)
 
 ---
 

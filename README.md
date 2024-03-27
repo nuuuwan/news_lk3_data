@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 08:51:54**
+As of **2024-03-27 09:03:09**
 
 ## Newspaper Stats
 
-*Scraped **15,422** Articles*
+*Scraped **15,423** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 832
 dailyftlk | 835
 islandlk | 854
 adalk | 1,313
-adaderanalk | 1,848
+adaderanalk | 1,849
 tamilmirrorlk | 1,849
 virakesarilk | 2,175
 dailymirrorlk | 2,382
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,476
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,421 (100.0%) of 15,422 articles have been extended.
+15,422 (100.0%) of 15,423 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### Six killed in suicide attack on Chinese engineers in Pakistan
+
+*2024-03-27 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98228/six-killed-in-suicide-attack-on-chinese-engineers-in-pakistan) · `en`
+
+A suicide bomber rammed a vehicle into a convoy of Chinese engineers working on a dam project in northwest Pakistan on Tuesday, killing six people, police said, the third major attack on Chinese interests in the South Asian country in a week.
+
+The first two attacks targeted a Pakistan naval air base and a strategic port used by China in the southwest province of Balochistan where Beijing is investing billions in infrastructure projects.
+
+The engineers were en route from Islamabad to their camp at the dam construction site in Dasu in the province of Khyber Pakhtunkhwa, regional police chief Mohammad Ali Gandapur said.
+
+“Five Chinese nationals and their Pakistani driver were killed in the attack,” Gandapur told Reuters.
+
+Dasu is the site of a major dam and the area has been attacked in the past. A blast on a bus killed 13 people, including nine Chinese nationals, in 2021.
+
+...
+
+[Data](articles/da8354a2.json)
+
+---
 
 ### Sri Lanka, China sign nine agreements on cooperation
 
@@ -47,6 +67,8 @@ The Prime Ministers of the two countries confirmed that a new chapter in the lon
 ...
 
 [Data](articles/f5deab67.json)
+
+[Extended Data](ext_articles/f5deab67.ext.json)
 
 ---
 
@@ -2215,25 +2237,5 @@ According to the Constitution of Sri Lanka, the Presidential election must occur
 [Data](articles/e3335513.json)
 
 [Extended Data](ext_articles/e3335513.ext.json)
-
----
-
-### Sri Lanka Cricket Women's Cricket Tournament
-
-*2024-03-26 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194962) · `si`
-
-The Asian Cup Women's Cricket Tournament will be held in Sri Lanka from July 19 to 28 at the Dambulla International Cricket Stadium.
-
-🟩
-
-The Asian Cup Women's Cricket Tournament has been decided to hold the Asia Cricket Tournament in Sri Lanka.
-
-The tournament will be held from July 19 to 28 at the Dambulla International Cricket Stadium.
-
-◼️
-
-[Data](articles/3487f72f.json)
-
-[Extended Data](ext_articles/3487f72f.ext.json)
 
 ---

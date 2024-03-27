@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 09:03:09**
+As of **2024-03-27 09:18:07**
 
 ## Newspaper Stats
 
-*Scraped **15,423** Articles*
+*Scraped **15,424** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanalk | 1,849
 tamilmirrorlk | 1,849
 virakesarilk | 2,175
 dailymirrorlk | 2,382
-adaderanasinhalalk | 2,476
+adaderanasinhalalk | 2,477
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,422 (100.0%) of 15,423 articles have been extended.
+15,423 (100.0%) of 15,424 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,26 @@ Dasu is the site of a major dam and the area has been attacked in the past. A bl
 ...
 
 [Data](articles/da8354a2.json)
+
+[Extended Data](ext_articles/da8354a2.ext.json)
+
+---
+
+### සංචාරකයින් බය කරන දකුණේ පාතාලය
+
+*2024-03-27 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194982) · `si`
+
+රට තුළ පවතින සාමකාමී වාතවරණය සංචාරක ව්‍යාපාරයට සෘජුව බලපාන බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+
+ඔහු සඳහන් කළේ, දකුණු පළාත තුළ සිදුවන පාතාල ක්‍රියාකාරකම් වෙඩිතැබීම් හේතුවෙන් සංචාරකයින් කම්පනයට පත්වන බව පොලිස්පතිවරයා සඳහන් කළේය.
+
+"පාතාල ක්‍රියාකාරකම් වගේ බිහිසුණු දේවල් නිසා, සංචාරකයින් බියට පත්වෙනවා. විශේෂයෙන් දකුණු වෙරළ ආශ්‍රිතව බෙන්තර ප්‍රදේශයේ, අහුංගල්ල, කොස්ගොඩ, රත්ගම හා හික්කඩුව වගේ ප්‍රදේශවල තියෙන සංවිධානාත්මක අපරාධ ක්‍රියාකාරකම්වලින් සංචාරකයෝ කම්පනයට පත්වෙලා තියෙන්නේ. යුරෝපයේ වගේ රටවල්වල මිනිස්සු බොහෝම සාමකාමී පරිසරවල ජීවත් වෙන්න කැමති අය. ඒ මිනිස්සු ඇවිල්ලා මෙහෙ වෙඩි තියෙන ඒවා දකිනකොට ඒ මිනිස්සු කම්පනයට පත්වෙනවා. සදාකාලිකව ඒ මිනිස්සු ආය මෙහෙ එන්නේ නැති වෙයි. ඒ නිසා නීතිය සාමය පවත්වාගෙන යෑමත් සංචාරකයින්ට හිතකර පරිසරයක් නිර්මාණය කිරීමත් ඉතාමත් අවශ්‍යයි."
+
+එමෙන්ම ප්‍රමිතියෙන් තෙරව සිදුකරන සංචාරක කර්මාන්තය ආශ්‍රිත විවිධ ක්‍රියාකාරකම් නියාමනය කිරීමට පියවර ගන්නා බවද පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+
+◼️
+
+[Data](articles/61f00978.json)
 
 ---
 
@@ -2219,23 +2239,5 @@ The film's second look poster of the film, which is being released in three lang
 [Data](articles/808a9416.json)
 
 [Extended Data](ext_articles/808a9416.ext.json)
-
----
-
-### ANFREL seeks to monitor Presidential Election in October
-
-*2024-03-26 17:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ANFREL-seeks-to-monitor-Presidential-Election-in-October/108-279642) · `en`
-
-Colombo, March 26 -  The Asian Network for Free Elections (ANFREL) expressed its intent to observe the upcoming 2024 Sri Lankan Presidential Election during a meeting with the Elections Commission of Sri Lanka today, a statement from it said.
-
-ANFREL has observed 12 elections in Sri Lanka since 2001 promoting international principles of democratic elections. ANFREL is a regional election observation group working to defend and protect democratic elections through elections observations, capacity building, and campaign and advocacy.
-
-According to the Constitution of Sri Lanka, the Presidential election must occur no less than one month and no more than two months before the expiration of the presidential term. Consequently, the Presidential election is mandated to take place on or before 17 October 2024, as the current presidential term commenced on 18 November 2019.
-
-...
-
-[Data](articles/e3335513.json)
-
-[Extended Data](ext_articles/e3335513.ext.json)
 
 ---

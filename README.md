@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 21:34:03**
+As of **2024-03-27 21:52:55**
 
 ## Newspaper Stats
 
-*Scraped **15,556** Articles*
+*Scraped **15,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,65 @@ islandlk | 854
 adalk | 1,332
 adaderanalk | 1,869
 tamilmirrorlk | 1,870
-virakesarilk | 2,196
+virakesarilk | 2,198
 dailymirrorlk | 2,402
-adaderanasinhalalk | 2,501
+adaderanasinhalalk | 2,502
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,556 (100.0%) of 15,556 articles have been extended.
+15,556 (100.0%) of 15,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### නිවසක් තුළ කාන්තා සිරුරක්
+
+*2024-03-27 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195009) · `si`
+
+කඩුවෙල කොතලාවල ප්‍රදේශයේ නිවසක් තුළ තිබී අද (27) දහවල් කාන්තා මළසිරුරක් සොයාගෙන තිබේ.
+
+කාන්තාව මියගොස් සිටි ස්ථානය අවට ලේ පැල්ලම් කිහිපයක්ම දක්නට ඇති බව පොලීසිය සඳහන් කළේය.
+
+ඇය සාමාන්‍යයෙන් පැළඳ සිටින රන් ආභරණ ඇයගේ ශරීරයේ නොමැති බව ඥාතීන් විසින් පවසා ඇති බැවින් මෙය ඝාතනයක් බවට සැකකරන බවද පොලීසිය පැවසීය.
+
+මෙලෙස මියගොස් ඇත්තේ කඩුවෙල කොතලාවල ප්‍රදේශයේ පදිංචි 54 හැවිරිදි දෙදරු මවක් වන අතර ඇයගේ දියණිය හා පුත්‍රයා රැකියාවට ගොස් සිටි අතරවාරයේ මෙය සිදුවී ඇති බව පැවසෙයි.
+
+◼️
+
+[Data](articles/89a3212a.json)
+
+---
+
+### செயற்கை நுண்ணறிவு தொழில்நுட்பத்தை மையப்படுத்தி உருவாகும் 'இரவின் கண்கள்'
+
+*2024-03-27 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179836) · `ta`
+
+ஆர்ட்டிஃபிஷியல் இன்டெலிஜென்ஸ் எனப்படும் செயற்கை நுண்ணறிவு தொழில்நுட்பம் புதிதாக அறிமுகமாகி ஆதிக்கம் செலுத்தி வருகிறது. இதன் காரணமாக தகவல் தொழில்நுட்பத்துறையில் ஏராளமான இளைஞர்களுக்கு வேலை வாய்ப்பு பறிபோகும் என்ற சூழல் உருவாகி இருக்கிறது. இந்த நிலையில் இந்த செயற்கை நுண்ணறிவு தொழில்நுட்பத்தை மையப்படுத்தி 'இரவின் கண்கள்' எனும் பெயரில் திரைப்படமொன்று தயாராகி இருக்கிறது. இந்த திரைப்படம் எதிர் வரும் ஏப்ரல் மாதம் ஐந்தாம் திகதியன்று உலகம் முழுவதும் படமாளிகையில் வெளியாகிறது.
+
+...
+
+[Data](articles/33e843b9.json)
+
+---
+
+### 'குளோபல் ஸ்டார்' ராம்சரண்நடிக்கும் 'கேம் சேஞ்சர்' படத்தின் ஃபர்ஸ்ட் சிங்கிள் வெளியீடு
+
+*2024-03-27 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179833) · `ta`
+
+'குளோபல் ஸ்டார்' ராம் சரண் கதையின் நாயகனாக நடிக்கும் 'கேம் சேஞ்சர்' எனும் திரைப்படத்தில் இடம்பெற்ற 'ஜரகண்டி' எனத் தொடங்கும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியாகி இருக்கிறது. ராம்சரணின் பிறந்தநாளை முன்னிட்டு வெளியாகி இருக்கும் இந்தப் பாடல் தமிழ், தெலுங்கு, இந்தி ஆகிய மூன்று மொழிகளிலும் வெளியாகி இருக்கிறது.
+
+இந்தியாவின் முன்னணி நட்சத்திர இயக்குநர்களில் ஒருவரான ஷங்கர் இயக்கத்தில் உருவாகி வரும் 'கேம் சேஞ்சர்' திரைப்படத்தில் ராம் சரண், கியாரா அத்வானி, அஞ்சலி, சமுத்திரக்கனி, எஸ். ஜே. சூர்யா, ஸ்ரீகாந்த், சுனில் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். எஸ். திருநாவுக்கரசு ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு எஸ். தமன் இசையமைத்திருக்கிறார்.
+
+அரசியலை குறிப்பாக தேர்தல் அரசியலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை ஸ்ரீ வெங்கடேஸ்வரா கிரியேஷன்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் தில் ராஜு மற்றும் சிரிஷ் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/f5c36d6d.json)
+
+---
 
 ### HIV terror out of drugs
 
@@ -2219,87 +2265,5 @@ He also announced the announcement that the presidential election will be held o
 [Data](articles/e4aaed31.json)
 
 [Extended Data](ext_articles/e4aaed31.ext.json)
-
----
-
-### Six ships go missing in accident
-
-*2024-03-27 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194987) · `si`
-
-Six ships vanish in Colombo Port accident. Power disconnected at Francis Scott Key Bridge 47 years ago. Ship's staff involved, delayed. 22 staff reported missing. All Indian crew safe. Search for missing in debris-filled area. Maintenance workers among missing. Operations hindered by cold weather.
-
-🟩
-
-Around the Colombo Port was six people have disappeared in a bridge in Baltimo in Baltimo.
-
-The ship's power was disconnected at the Francis Scott Key Bridge about 47 years ago.
-
-The ship's staff had acted in the incident and had already been delayed.
-
-According to foreign reports, the ship 22 of the ship's staff has been in the event.
-
-It is said that all the Indian people had no accident.
-
-The ship was crashed in the area where the ship was crashed into searching for missing persons.
-
-The missing were a group of people who were engaged in maintenance work.
-
-Foreign media reports that there is a hindrance to the disappearance operations in the cold weather and the bridge debris.
-
-◼️
-
-[Data](articles/358c1ff9.json)
-
-[Extended Data](ext_articles/358c1ff9.ext.json)
-
----
-
-### Edison Award Winning
-
-*2024-03-27 11:29:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எடிசன்-விருது-வென்றது-ஐயோ-சாமி-பாடல்/175-335248) · `ta`
-
-Vindhya Gunathilaka won the 16th Edison Award for Best Conscious Song of 2023 for "Iyo Sami" at the ceremony in Chennai on March 24. Pottuvil Azmin and Sanuka Wickremasinghe were also present.
-
-🟩
-
-At the 16th Edison Awards ceremony in Chennai, Chennai, Vindhya Gunathilaka, who sang "Iyo Sami", won the award for the Best Conscious Song of 2023.
-
-Vishnu Gunathilaka, who received the award, arrived at the Katunayake International Airport last night at SriLankan Air 218.
-
-The award ceremony will be held to evaluate international films and songs, and this year's awards ceremony was held in Chennai in Chennai on March 24.
-
-Pottuvil Azmin, who wrote the song, and Sanuka Wickremasinghe, who composed the song, joined the event.
-
-◼️
-
-[Data](articles/60997094.json)
-
-[Extended Data](ext_articles/60997094.ext.json)
-
----
-
-### Police shooting telephone marketing
-
-*2024-03-27 11:28:35* · [`adalk`](https://www.ada.lk/breaking_news/දුරකථන-අලෙවිකරණ-බවට-දැන්වීම්-පළ-කර-කොල්ලකන-කල්ලියකට-පොලීසියෙන්-වෙඩි/11-408823) · `si`
-
-In Ruwanwella, robbers attacked a group buying phones, killing two and injuring two more, who were taken to Kurunegala Teaching Hospital. Police shot and killed two robbers.
-
-🟩
-
-The police said that a group of robbers have tried to plunder the money of the people who come to buy phones and buy phones.
-
-According to the answer, a group of people in Ruwanwella had come to buy mobile phones, and they had gone to meet the police with police officers.
-
-The robbers have informed them to come to a place in Narammala and the robbers attacked their car with sharp weapons.
-
-Police officers have shot dead and two robbers have fled and killed two robbers.
-
-Two persons who were injured in their injuries have been admitted to the Kurunegala Teaching Hospital with injuries due to the robbers.
-
-◼️
-
-[Data](articles/71329c6a.json)
-
-[Extended Data](ext_articles/71329c6a.ext.json)
 
 ---

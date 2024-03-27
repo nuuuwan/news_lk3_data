@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 19:18:04**
+As of **2024-03-27 19:35:17**
 
 ## Newspaper Stats
 
-*Scraped **15,540** Articles*
+*Scraped **15,541** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 854
 adalk | 1,327
 adaderanalk | 1,867
 tamilmirrorlk | 1,868
-virakesarilk | 2,195
+virakesarilk | 2,196
 dailymirrorlk | 2,399
 adaderanasinhalalk | 2,498
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,498
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,540 (100.0%) of 15,540 articles have been extended.
+15,540 (100.0%) of 15,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### வான்வழி விநியோகத்தை நிறுத்துமாறு ஹமாஸ் கோரிக்கை: அமெரிக்கா மறுப்பு
+
+*2024-03-27 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179844) · `ta`
+
+காஸாவில் விமானங்களிலிருந்து பரசூட்மூலம் உதவிப்பொருட்களை விநியோகிப்பதை நிறுத்துமாறு ஹமாஸ் அமைப்பு கோரியுள்ளது. எனினும் இதற்கு அமெரிக்கா மறுப்பு தெரிவித்துள்ளது.
+
+காஸாவில் உணவுப் பற்றாக்குறையை எதிர்கொண்டுள்ள மக்களுக்கு நிவாரணம் அளிப்பதற்காக விமானங்களிலிருந்து  பரசூட் மூலம் உதவிப்பொருட்களை விநியோகிக்கும் நடவடிக்கையில் அமெரிக்கா உட்பட பல நாடுகள் ஈடுபட்டுள்ளன.
+
+இதற்கு பதிலாக, தரை வழியாக அதிகளவு விநியோகங்களுக்கு இஸ்ரேல் அனுமதிக்க வேண்டுமெனவும் ஹமாஸ் கோரியுள்ளது.
+
+எனினும், வான் வழியான விநியோகம் என்பது காஸாவிலுளள பலஸ்தீன மக்களுக்கு உதவிகளை விநியோகிப்பதற்காக அமெரிக்கா கையாளும் வழிகளில் ஒன்று எனவும், அதை அமெரிக்கா தொடரும் எனவும் அமெரிக்காவின் தேசிய பாதுகாப்பு பேரவை தெரிவித்துள்ளது.
+
+இதேவேளை, ஒக்டோபர் 7 ஆம் திகதியின்  பின்னர் காஸாவில் உயிரிழந்தோரின் எண்ணிக்கை 32,490 ஆக அதிகரித்துள்ளது என காஸா சுகாதார அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/d79963ee.json)
+
+---
 
 ### STF arrest international drug smuggler in Nuwara Eliya
 
@@ -2261,33 +2281,5 @@ Wholesale price held at a kilo of Dambulla Economic Center 27
 [Data](articles/f384a3cb.json)
 
 [Extended Data](ext_articles/f384a3cb.ext.json)
-
----
-
-### China is a positive back in Sri Lanka's credit
-
-*2024-03-27 10:15:41* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-ණය-ප්‍රතිව්‍යුහගත-කිරීමට-චීනයෙන්-සුබවාදී-පිළිතුරක්/11-408820) · `si`
-
-China supports Sri Lanka's credit restructuring, economic recovery, and adherence to the 'one China' policy. Prime Minister Dinesh Gunawardena thanked China for its support on independence, sovereignty, and international issues.
-
-🟩
-
-Chinese Prime Minister Dinesh Gunawardena assured that China is supporting the restructuring process of Sri Lanka.
-
-In the top bilateral talks in Beijing, Top-level bilateral discussions on 26.03.23.2003, the Prime Minister appreciated the economic progress that Sri Lanka had benefited after an economic downturn.
-
-"You and your family continued to strengthen the friendship between China and Sri Lanka," he expressed his gratitude to Prime Minister Dinesh Gunawardena.
-
-He pointed out that Sri Lanka continues to follow the 'one China' policy and supports China at international conventions.
-
-The Tamil Indian Airport is supported by the Prime Minister LIKE, the Prime Minister Lihaya said.
-
-Prime Minister Gunawardena thanked China for supporting Sri Lanka's independence, territorial integrity and sovereignty and international political issues or economic problems.
-
-...
-
-[Data](articles/05954760.json)
-
-[Extended Data](ext_articles/05954760.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 19:51:01**
+As of **2024-03-27 20:03:07**
 
 ## Newspaper Stats
 
-*Scraped **15,543** Articles*
+*Scraped **15,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 1,868
 tamilmirrorlk | 1,868
 virakesarilk | 2,196
 dailymirrorlk | 2,400
-adaderanasinhalalk | 2,498
+adaderanasinhalalk | 2,499
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,541 (100.0%) of 15,543 articles have been extended.
+15,543 (100.0%) of 15,544 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### ඔබත් සුදු වෙන්න මේ ක්‍රීම් ගෑවාද ?  - උකුස්සාගෙන් හෙළිදරව්වක්
+
+*2024-03-27 19:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195006) · `si`
+
+වෛද්‍ය නිර්දේශ මත පමණක් භාවිත කළයුතු ඖෂධයක් නීතිවිරෝධි ලෙස මෙරටට ගෙන්වා, සම පැහැපත් කිරීමේ ආලේපනයක් ලෙස අලෙවිකරන ජාවාරමක් නීතියේ රැහැනට හසුකරගැනුණි.
+
+සමේ ඇතිවන රෝග සඳහා ඖෂධයක් ලෙස විශේෂඥ වෛද්‍යවරුන්ට පමණක් නිර්දේශ කළ හැකි ඖෂධ වර්ගයක් කොළඹ පිටකොටුවේ සුවඳ විලවුන් හා ක්‍රීම් වර්ග වෙළෙඳසැල්වල අලෙවි කෙරෙන බවට අද දෙරණ උකුස්සාට තොරතුරු අනාවරණ විය.
+
+වැඩිදුරටත් සිදුකළ සොයාබැලීම්වලදී අනාවරණ වුණේ, අදාළ ක්‍රීම් වර්ගය මෙම වෙළෙඳසැල්වලින් මිලදීගන්නා ඇතැමුන් ඒවා සාමන්‍ය ක්‍රීම් වර්ග සමඟ මිශ්‍රකර සම පැහැපත් කරන ඖෂධයක් ලෙස අලෙවි කරන බවයි.
+
+එම ඖෂධය භාවිතයෙන් කෙටි කලක් ඇතුළත සම සුදු පැහැගැන්වෙන බවට මතයක් පැවතීම නිසා ඒවා අලෙවිය වැඩි වශයෙන් සිදුවන බවද උකුස්සා තහවුරු කරගත්තේය.
+
+ඒ අනුව මෙම ඖෂධය සොයා "අද දෙරණ" උකුස්සා සමග ඖෂධ නියාමන අධිකාරියේ ආහාර හා ඖෂධ පරීක්ෂකවරුන් පිටකොටුව ප්‍රදේශයට ගියේය.
+
+එම ඖෂධය සුවඳ විලවුන් හා ක්‍රීම් වර්ග අලෙවි කරන ස්ථානවල ගබඩාකර තිබුණි.
+
+මෙම ඖෂධ මෙරට ලියාපදිංචි නොකළ, නීතිවිරෝධීව මෙරටට ආනයනය කරන ලද ඒවා බව එහිදී තහවුරු විය.
+
+...
+
+[Data](articles/7911edcc.json)
+
+---
 
 ### President instructs to reopen National Art Gallery before year’s end
 
@@ -45,6 +69,8 @@ Additionally, he highlighted the demand for high-standard, affordable theatres i
 ...
 
 [Data](articles/dae75be4.json)
+
+[Extended Data](ext_articles/dae75be4.ext.json)
 
 ---
 
@@ -65,6 +91,8 @@ The Chinese President assured China's continuous support to Sri Lanka’s effort
 ...
 
 [Data](articles/55b92ac4.json)
+
+[Extended Data](ext_articles/55b92ac4.ext.json)
 
 ---
 
@@ -2257,23 +2285,5 @@ The six storied hospital consists of six operating theaters, intensive treatment
 [Data](articles/2c939496.json)
 
 [Extended Data](ext_articles/2c939496.ext.json)
-
----
-
-### Lack of access to finance major barrier to women’s empowerment in Sri Lanka: study
-
-*2024-03-27 10:49:00* · [`economynextcom`](https://economynext.com/lack-of-access-to-finance-major-barrier-to-womens-empowerment-in-sri-lanka-study-156249/) · `en`
-
-ECONOMYNEXT — Research by free market think tank Advocata has found that persistent disparities in financial and digital literacy are major hindrances to women achieving financial independence in Sri Lanka, a country whose female labour force participation is half of that of men.
-
-The study has found that, despite a commendable literacy rate, disparities in financial and digital literacy hinders access to financial services.
-
-The Advocata Institute said in a statement on the study that Sri Lanka has been struggling with inadequate digital infrastructure and a regulatory environment where vulnerable populations, notably women, face exploitation and marginalisation which contributed to restricting women’s access to finance. Other barriers, which include the lack of digital and financial literacy, drove consumers, especially women, towards informal financial services.
-
-...
-
-[Data](articles/a1bd86f6.json)
-
-[Extended Data](ext_articles/a1bd86f6.ext.json)
 
 ---

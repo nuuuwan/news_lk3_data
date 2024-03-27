@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 06:17:18**
+As of **2024-03-27 06:54:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,395 (99.9%) of 15,404 articles have been extended.
+15,404 (100.0%) of 15,404 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -668,6 +668,8 @@ Spanning across the island, he ventured to consumers to invest on lands that cul
 
 [Data](articles/177212d3.json)
 
+[Extended Data](ext_articles/177212d3.ext.json)
+
 ---
 
 ### No-faith motion on Speaker: Resolution to seek cost from opposition
@@ -728,6 +730,8 @@ Heritance Hotels and Resorts, the premier flagship brand of Aitken Spence Hotels
 
 [Data](articles/3b6dcd26.json)
 
+[Extended Data](ext_articles/3b6dcd26.ext.json)
+
 ---
 
 ### ADB loan to bolster financial capability of Lankan SMEs
@@ -750,6 +754,8 @@ Cabinet gives green light to establish a wind power station on Mannar island
 
 [Data](articles/d42c2c71.json)
 
+[Extended Data](ext_articles/d42c2c71.ext.json)
+
 ---
 
 ### Kristofer Quadros appointed Cluster General Manager for three Radisson Hotels in Sri Lanka
@@ -761,6 +767,8 @@ Radisson Hotels, Sri Lanka along with the hotel management company, La Vie Hotel
 ...
 
 [Data](articles/54971242.json)
+
+[Extended Data](ext_articles/54971242.ext.json)
 
 ---
 
@@ -775,6 +783,8 @@ Further, Central Bank Governor Dr Nandalal Weerasinghe’s positive comments on 
 ...
 
 [Data](articles/dbe6c9ab.json)
+
+[Extended Data](ext_articles/dbe6c9ab.ext.json)
 
 ---
 
@@ -2187,6 +2197,8 @@ Related Topics:Cabinet Decisionsdaily operations and management of expresswaysSa
 ...
 
 [Data](articles/241adac4.json)
+
+[Extended Data](ext_articles/241adac4.ext.json)
 
 ---
 

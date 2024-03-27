@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 15:17:57**
+As of **2024-03-27 15:34:07**
 
 ## Newspaper Stats
 
-*Scraped **15,495** Articles*
+*Scraped **15,496** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 835
 economynextcom | 836
 islandlk | 854
 adalk | 1,321
-adaderanalk | 1,858
+adaderanalk | 1,859
 tamilmirrorlk | 1,864
 virakesarilk | 2,188
 dailymirrorlk | 2,390
@@ -26,53 +26,89 @@ adaderanasinhalalk | 2,489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,492 (100.0%) of 15,495 articles have been extended.
+15,495 (100.0%) of 15,496 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### කෙහෙළියගේ දියණිය මානව හිමිකම් යයි
+### Duminda Nagamuwa and Lahiru Weerasekara further remanded
+
+*2024-03-27 15:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/98238/duminda-nagamuwa-and-lahiru-weerasekara-further-remanded) · `en`
+
+Three activists arrested during a recent protest march organized by the ‘Jana Aragala Vyaparaya’ (People’s Struggle Movement) have been further remanded.
+
+When produced before Colombo Fort Magistrate’s Court earlier today (27), Frontline Socialist Party (FSP) activist Duminda Nagamuwa, youth activist Lahiru Weerasekara, and Ven. Rathkarawwe Jinarathana Thero were ordered to be further remanded until April 03.
+
+The trio was arrested during a demonstration held on March 20 during which at least 05 police officers were injured during the clashes with protesters. It had been organized by the People’s Struggle Movement based on several issues including the soaring cost of living and certain foreign agreements the government intends to sign.
+
+Police had resorted to using tear gas and water cannons to disperse the protesters in Pettah, Colombo.
+
+◼️
+
+[Data](articles/1a9622e9.json)
+
+---
+
+### Keheliya's daughter to be human rights
 
 *2024-03-27 14:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194994) · `si`
 
-කෙහෙළිය රඹුක්වැල්ල මහතාව අත්තනෝමතික ලෙස අත්අඩංගුවට ගැනීමක් සිදුකර ඇති බවට ඔහුගේ දියණිය විසින් අද (27) මානව හිමිකම් කොමිෂන් සභාවට පැමිණිල්ලක් ඉදිරිපත් කර තිබේ.
+Chamiti Rambukwella, Keheliya Rambukwella's daughter, filed a complaint with the Human Rights Commission, accusing her father of arbitrary arrest. She asked for an investigation into the Criminal Investigation Department's actions.
 
-කෙහෙළිය රඹුක්වැල්ල මහතාගේ දියණිය වන චමිත්‍රි රඹුක්වැල්ල මහත්මිය විසින් එම පැමිණිල්ල ඉදිරිපත් කර ඇත.
+🟩
 
-අදාළ පැමිණිල්ල ඉදිරිපත් කිරීමෙන් අනතුරුව මාධ්‍ය වෙත අදහස් දැක්වූ චමිත්‍රි රඹුක්වැල්ල මහත්මිය සඳහන් කළේ, තම පියා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්තනෝමතික ලෙස අත්අඩංගුවට ගෙන රිමාන්ඩ් භාරයේ තබාගෙන සිටින බැවින් ඒ පිළිබඳව විමර්ශනයක් කරන ලෙස මානව හිමිකම් කොමිෂන් සභාවෙන් ඉල්ලා සිටි බවය.
+His daughter has lodged a complaint with the Human Rights Commission today that he had made arbitrary arrest of Keheliya Rambukwella.
+
+Mr. Keheliya Rambukwella's daughter, Chamiti Rambukwella has lodged a complaint by Mr. Keheliya Rambukwella.
+
+Speaking to the media, Mrs. Chamiti Rambukwella said that he had asked the Human Rights Commission to investigate the arbitrary of the Criminal Investigation Department and remanded.
 
 ◼️
 
 [Data](articles/01319d87.json)
 
+[Extended Data](ext_articles/01319d87.ext.json)
+
 ---
 
-### கெஹலியவின் மகள், ஆணைக்குழு சென்றார்
+### The daughter of Keheliya went to the Commission
 
 *2024-03-27 14:55:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலியவின்-மகள்-ஆணைக்குழு-சென்றார்/175-335264) · `ta`
 
-தரம் குறைந்த மருந்துப் பொருட்களை கொள்வனவு செய்தமை தொடர்பில் குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்லவின் மகள் சமித்ரி ரம்புக்வெல்ல இலங்கை மனித உரிமைகள் ஆணைக்குழுவில் புதன்கிழமை(27) காலை முறைப்பாடு செய்துள்ளார்.
+Samitri Rambukwella, daughter of arrested former minister Keheliya Rambukwella, lodged a complaint with the Sri Lanka Human Rights Commission, seeking immediate investigation into human rights violations against her father.
 
-விளக்கமறியலில் உள்ள தனது தந்தையின் மனித உரிமைகள் மீறப்பட்டுள்ளதால், உடனடியாக விசாரணை நடத்தி நீதி வழங்குமாறு மனித உரிமைகள் ஆணைக்குழுவிடம் கோரிக்கை விடுத்துள்ளார்.
+🟩
+
+Samitri Rambukwella, daughter of former minister Keheliya Rambukwella, who has been arrested and interrogated by the Criminal Investigation Department, has lodged a complaint with the Sri Lanka Human Rights Commission on Wednesday morning.
+
+He has asked the Human Rights Commission to immediately investigate and provide justice as his father's human rights have been violated.
 
 ◼️
 
 [Data](articles/6396c026.json)
 
+[Extended Data](ext_articles/6396c026.ext.json)
+
 ---
 
-### நீர்கொழும்பில் 53 மசாஜ் நிலையங்கள் மூடப்பட்டன : 137 பெண்கள் கைது, இருவருக்கு எய்ட்ஸ்!
+### 53 massage stations closed in Negombo: 137 women arrested, two for AIDS!
 
 *2024-03-27 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179827) · `ta`
 
-நீர்கொழும்பில் மசாஜ் நிலையங்கள்  என்ற போர்வையில் இயங்கிய விபசார விடுதிகளில் பணிபுரிந்த இரு பெண்களுக்கு எச்.ஐ.வி எய்ட்ஸ் தொற்று ஏற்பட்டுள்ளதாக வைத்திய பரிசோதனையில் தெரிய வந்துள்ளது.
+In Negombo, 53 massage stations were closed after 137 women were arrested, including two diagnosed with HIV AIDS.
 
-இதனையடுத்து நீர்கொழும்பு  பிரதேசத்தில் மேற்கொள்ளப்பட்ட சோதனையின்போது 53 மசாஜ்  நிலையங்கள் மூடப்பட்டதாக பொலிஸ்  ஊடகப் பேச்சாளர் பிரதிப் பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்தார்.
+🟩
+
+A medical examination revealed that two women who worked in adultery hostels under the guise of massage stations in Negombo have suffered HIV AIDS.
+
+Subsequently, 53 massage stations were closed during a raid in the Negombo area, police spokesman Deputy Inspector General of Police Nihal Dalduwa said.
 
 ◼️
 
 [Data](articles/0d0920e7.json)
+
+[Extended Data](ext_articles/0d0920e7.ext.json)
 
 ---
 
@@ -2291,25 +2327,5 @@ The Event Management Association (EMA), the only professional industry body in S
 [Data](articles/eb67a1c2.json)
 
 [Extended Data](ext_articles/eb67a1c2.ext.json)
-
----
-
-### President's election before October 17
-
-*2024-03-27 02:08:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒக்டோபர்-17-இற்கு-முன்னர்-ஜனாதிபதி-தேர்தல்/175-335237) · `ta`
-
-UNP Chairman Vajira Abeywardena confirmed the presidential election will be held before October 17, as per the Constitution.
-
-🟩
-
-United National Party (UNP) Chairman Vajira Abeywardena said the presidential election will be held before October 17.
-
-In accordance with the Constitution, he pointed out that the presidential election will be held before October 17. (A)
-
-◼️
-
-[Data](articles/965affa6.json)
-
-[Extended Data](ext_articles/965affa6.ext.json)
 
 ---

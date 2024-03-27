@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 22:06:05**
+As of **2024-03-27 22:18:04**
 
 ## Newspaper Stats
 
-*Scraped **15,561** Articles*
+*Scraped **15,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 835
 economynextcom | 836
 islandlk | 854
 adalk | 1,333
-adaderanalk | 1,869
+adaderanalk | 1,870
 tamilmirrorlk | 1,870
-virakesarilk | 2,198
+virakesarilk | 2,199
 dailymirrorlk | 2,403
 adaderanasinhalalk | 2,502
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 2,502
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,559 (100.0%) of 15,561 articles have been extended.
+15,561 (100.0%) of 15,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### UNP chairman refutes opposition’s allegations of election delay
+
+*2024-03-27 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98249/unp-chairman-refutes-oppositions-allegations-of-election-delay) · `en`
+
+United National Party (UNP) chairman, MP Wajira Abeywardena has vehemently refuted the claims made by the opposition about the possible delay of the forthcoming elections.
+
+He stressed that the election amendment bills recently tabled in parliament will not impact the prearranged schedule of the elections, which he said are set to duly take place in compliance with constitutional regulations.
+
+Abeywardena alleged that opposition factions lacking clear slogans are resorting to misleading tactics by spreading false propaganda about the intention of the government to postpone elections.
+
+The parliamentarian highlighted that the group led by the President possesses the resilience to confront the upcoming elections with vigour.
+
+Addressing a press briefing titled “Collective Path to a Stable Country” held at the Presidential Media Centre today (27), MP Abeywardena further commented:
+
+...
+
+[Data](articles/f1cc26c5.json)
+
+---
+
+### கல்வித்துறைக்கு குறைவாக செலவு செய்யும் நாடுகளின் பட்டியலில் இலங்கை 140 ஆவது இடத்தில் - ஐக்கிய நூற்றாண்டு முன்னணி
+
+*2024-03-27 22:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179846) · `ta`
+
+நாட்டின் கல்வி முறைமை மிக மோசமாகப் பாதிக்கப்பட்டுள்ளது.கல்வித்துறைக்கு குறைவாகச் செலவு செய்யும் 141 நாடுகளின் பட்டியலில் இலங்கை 140 ஆவது இடத்தில் உள்ளது. வரவு செலவுத் திட்டத்தில் கல்வித்துறைக்கு 200 பில்லியன் ரூபா ஒதுக்கப்பட்டுள்ள நிலையில் பாதுகாப்பு துறைக்கு 580 பில்லியன் ரூபா ஒதுக்கப்பட்டுள்ளமை முறையற்றது. இந்நிலைமை மாற்றம் பெற வேண்டும் என ஐக்கிய நூற்றாண்டு முன்னணியின் தலைவர் பிரசான் டி விஸர் தெரிவித்தார்.
+
+பம்பலப்பிட்டியில் உள்ள  ஐக்கிய நூற்றாண்டு முன்னணியின் ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+நாட்டின் கல்வி முறைமை மிக மோசமாக பாதிக்கப்பட்டுள்ளது.கல்வித்துறைக்கு குறைவாகச் செலவு செய்யும் 141 நாடுகளின் பட்டியலில் இலங்கை 140 ஆவது இடத்தில் உள்ளது.2024 ஆம் ஆண்டுக்கான வரவு செலவுத் திட்டத்தில் கல்வித்துறைக்கு 200 பில்லியின் ரூபா மாத்திரமே ஒதுக்கப்பட்டுள்ளது.யுத்தம் முடிவடைந்து 14 ஆண்டுகள் நிறைவடைந்துள்ள நிலையிலும் பாதுகாப்பு துறைக்கு 580 பில்லியன் ரூபாவும்,அரச நிர்வாக துறைக்கு 900 பில்லியன் ரூபாவும் ஒதுக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/b8399fe6.json)
+
+---
 
 ### A woman's body in a house
 
@@ -71,6 +107,8 @@ However, through informal discussions in those areas, it was suggested that the 
 ...
 
 [Data](articles/8199eb20.json)
+
+[Extended Data](ext_articles/8199eb20.ext.json)
 
 ---
 
@@ -310,21 +348,31 @@ Drug inspectors said that this drug should be used only for a very limited perio
 
 ---
 
-### දකුණු ආසියාවේ විශාලම මාතෘ රෝහල කරාපිටියෙදී විවෘත කරයි
+### Opening of the largest maternity hospital in South Asia
 
 *2024-03-27 19:46:39* · [`adalk`](https://www.ada.lk/picture_story/දකුණු-ආසියාවේ-විශාලම-මාතෘ-රෝහල-කරාපිටියෙදී-විවෘත-කරයි/10-408836) · `si`
 
-අනාගතයට ගැළපෙන පරිදි අධ්‍යාපන හා සෞඛ්‍ය ක්ෂේත්‍ර නවීකරණය නොකර රටේ අනාගතය පිළිබඳ බලාපොරොත්තු තැබිය නොහැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවැසීය.
+President Ranil Wickremesinghe inaugurated the largest maternity hospital in South Asia, emphasizing the need for significant investment in education and health. The hospital, funded by a German loan, is a testament to international cooperation and aims to modernize healthcare in Sri Lanka.
 
-දශක තුනහමාරකට අධික කාලයක් අධ්‍යාපනය හා සෞඛ්‍යය සඳහා ප්‍රමාණවත් ප්‍රාග්ධන වියදම් ලැබී නොමැති බවත් මෙම වසරේ සිට අධ්‍යාපනය හා සෞඛ්‍යය සඳහා වැඩි ප්‍රාග්ධන වියදම් ලබාදීමට සැලසුම් කර තිබෙන බවත් ජනාධිපතිවරයා පැවසීය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ දකුණු ආසියානු කලාපයේ විශාලතම මාතෘ රෝහල ලෙස සැලකෙන ගාල්ල කරාපිටියේ ඉදිකරන ලද “ජර්මන් – ශ්‍රී ලංකා මිත්‍රත්ව නව කාන්තා රෝහල” ජනතා අයිතියට පවරාදීමේ අවස්ථාවට අද (27)  එක් වෙමිනි.
+President Ranil Wickremesinghe said that the future of the country cannot be expected without refurbishing the education and healthcams to the future.
 
-මහල් හයකින් යුත් මෙම රෝහල ඇඳන් 640කින්, ශල්‍යාගාර 6කින්, හදිසි ප්‍රතිකාර ඒකක, දැඩි සත්කාර ඒකක, රසායනාගාර, ළදරු දැඩි සත්කාර ඒකක, විශේෂ ළමා ඒකක, ඇතුළු සියලු නවීන වෛද්‍ය පහසුකම්වලින් සමන්විත අතර අප ජලය පිරිසිදු කර මුදා හැරිමේ ඒකකයකින් ද යුක්ත ය.
+The President said that there have been insufficient capital expenditure for education and health for more than three and a half a half, the President has not received enough capital expenditure on education and health from this year.
+
+President Ranil Wickremesinghe was speaking at the South Women's Hospital in the South Asian region, "German-Sri Lanka Friendship Hospital in Galle. (27).
+
+The six storied hospital with 640 beds, 640 beats, emergency care units, interthobles, infant integrity, special child units, and is also a unit of release.
+
+In December 2004, Germany, Habaraduwa, who had come into a tourist hotel in Talpe, Habaraduwa, was sent to the new maternity hospital after being held in a tourist hotel in Talpe.
+
+The loan assistance given by the German government to construct the hospital is Rs.. (Rs 350 billion)
 
 ...
 
 [Data](articles/9c9590d5.json)
+
+[Extended Data](ext_articles/9c9590d5.ext.json)
 
 ---
 
@@ -2221,57 +2269,5 @@ After taking into account the submissions made by Senior State Counsel Shaminda 
 [Data](articles/25615804.json)
 
 [Extended Data](ext_articles/25615804.ext.json)
-
----
-
-### Nine new agreements between China-Sri Lanka
-
-*2024-03-27 11:39:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனா-இலங்கைக்கு-இடையில்-ஒன்பது-புதிய-ஒப்பந்தங்கள்-கைச்சாத்து/175-335250) · `ta`
-
-China and Sri Lanka signed nine new agreements, focusing on social, cultural, education, and agricultural sectors, under the leadership of Prime Ministers Lee Kiang and Dinesh Gunawardena.
-
-🟩
-
-The signing of nine new agreements between China and Sri Lanka was held yesterday (26) under the patronage of Chinese Prime Minister Lee Kiang and Sri Lankan Prime Minister Dinesh Gunawardena.
-
-The Prime Minister paid tribute to the people's commemoration of the people's Heroes in Diananman Square and the bilateral discussions began after receiving the honor of the Chinese military.
-
-Subsequently, during the bilateral talks at the Great Hall in Beijing, more attention was focused on increasing the overall cooperation in the social, cultural, education and agricultural sectors with economic cooperation.
-
-The two prime ministers have confirmed that a new chapter of long -term friendship and cooperation between Sri Lanka and China will be launched through nine MoU signed between the two countries.
-
-Prime Minister's Secretary Anura Dissanayake on behalf of Sri Lanka and Nine Ministries on behalf of China signed the agreements.
-
-...
-
-[Data](articles/6dbd06dd.json)
-
-[Extended Data](ext_articles/6dbd06dd.ext.json)
-
----
-
-### The presidential election will take place in time - the Election Commission
-
-*2024-03-27 11:38:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தல்-உரிய-காலத்தில்-நடக்கும்-தேர்தல்-ஆணைக்குழு/175-335249) · `ta`
-
-The presidential election in Sri Lanka is set for September 17 to October 17, with parliamentary elections also planned. The Election Commission Chairman, RMAL. Ratnayake, has dissolved the President of Parliament to hold parliamentary elections, ensuring the presidential election proceeds as scheduled.
-
-🟩
-
-The Election Commission has announced that the presidential election will be held within the period of September 17 to October 17, despite the need to hold parliamentary elections this year.
-
-Members of the ruling Sri Lanka PA have been exposed to the parliamentary elections before the presidential election.
-
-Commenting on this, Election Commission Chairman RMAL. Ratnayake has no choice but to hold parliamentary elections this year by dissolving the President of Parliament.
-
-However, he added that if the parliamentary election was to be held, it would not have any effect on the presidential election and that the presidential election would be held in a timely manner.
-
-“The presidential election is scheduled to be held from September 17 to October 17 this year. Candidates will be accepted at the end of July or early August. We are currently working on it. ”
-
-◼️
-
-[Data](articles/785437d4.json)
-
-[Extended Data](ext_articles/785437d4.ext.json)
 
 ---

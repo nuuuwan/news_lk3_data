@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 10:17:50**
+As of **2024-03-27 10:34:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,479
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,428 (100.0%) of 15,433 articles have been extended.
+15,433 (100.0%) of 15,433 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,21 +50,27 @@ That is an achievement for the party that languished on the sideline. Their luck
 
 ---
 
-### சுற்றுலா பயணிகளை பயமுறுத்தும் பாதாள குழுக்கள்
+### Underworld groups that scare tourists
 
 *2024-03-27 09:59:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலா-பயணிகளை-பயமுறுத்தும்-பாதாள-குழுக்கள்/175-335242) · `ta`
 
-தென் மாகாணத்தில் பாதாள உலகக் குழுக்களின் துப்பாக்கிச் சூட்டுச் சம்பவங்களால் சுற்றுலாப் பயணிகள் அதிர்ச்சியடைந்துள்ளதாக பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் தெரிவித்துள்ளார்.
+Tourists in southern Sri Lanka shocked by underworld violence in Ahungalla, Kosgoda, Ratgama, and Hikkaduwa. Police chief Tennakoon emphasizes the need for law and order to attract visitors.
 
-குறிப்பாக தென் கரையோரமான பெந்தர பிரதேசத்தில் அஹுங்கல்ல, கொஸ்கொட, ரத்கம, ஹிக்கடுவ போன்ற பகுதிகளில் ஒழுங்கமைக்கப்பட்ட குற்றச் செயல்களால் சுற்றுலாப் பயணிகள் அதிர்ச்சியடைந்துள்ளனர்.
+🟩
 
-ஐரோப்பா போன்ற நாடுகளில் மக்கள் நிம்மதியாக வாழ விரும்புகின்றனர். அவர்கள் இங்கு வந்து துப்பாக்கிச் சூடு சத்தத்தை கண்டு அதிர்ச்சியடைகிறார்கள்.
+Tourists are shocked by the firing of underworld groups in the southern province, police chief patriot Tennakoon said.
 
-இனி அந்த மக்கள் இங்கு வர விரும்பமாட்டார்கள். எனவே சட்டம் ஒழுங்கை பராமரிக்கவும் சுற்றுலா பயணிகளுக்கு சாதகமான சூழலை உருவாக்குவதும் மிகவும் அவசியம்." என அவர் குறிப்பிட்டுள்ளார்.
+Tourists are shocked by organized crimes in Ahungalla, Kosgoda, Ratgama and Hikkaduwa areas, especially in the southern coast of Bendra.
+
+People in countries like Europe want to live peacefully. They come here and are shocked to see the shooting sound.
+
+No more people would like to come here. Therefore, it is very important to maintain law and order and create a favorable environment for tourists. ”
 
 ◼️
 
 [Data](articles/a650b7e6.json)
+
+[Extended Data](ext_articles/a650b7e6.ext.json)
 
 ---
 
@@ -84,51 +90,67 @@ With the ship barreling toward the bridge at “a very, very rapid speed,” aut
 
 [Data](articles/6cc89818.json)
 
+[Extended Data](ext_articles/6cc89818.ext.json)
+
 ---
 
-### වින්ඩි ගුණතිලකට ජාත්‍යන්තර සම්මානයක්
+### International award for Windy Gunatille
 
 *2024-03-27 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194984) · `si`
 
-ශ්‍රී ලංකික ද්‍රවිඩ ගීතයක්වන "අයියෝ සාමී" ගීතය ගායනා කරන වින්ඩි ගුණතිලක දකුණු ඉන්දියාවේ චෙන්නායි නුවර පැවති 16 වැනි එඩිසන් සම්මාන උළෙලේදී 2023 වසරේ ඉදිරිපත් වූ විශිෂ්ඨතම සංවේදී ගීතයට හිමි සම්මානය දිනාගෙන තිබේ.
+Windy Gunatille, a Sri Lankan Tamil singer, won the Best Sensitive Song award at the 16th Edison Ceylon in South India, presented by the Katunayake International Airport. The ceremony, held in India, evaluated international film songs, with Windy's song "Samomi" being recognized.
 
-මෙම සම්මානය හිමිකර ගත් ඇය ඊයේ (26) කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළෙන් මෙරටට පැමිණියාය.
+🟩
 
-මෙම සම්මාන උළෙල ජාත්‍යන්තර චිත්‍රපට ගීත ඇගයීම සඳහා පසුගියදා ඉන්දියාවේ පැවැත්වුණි.
+Windy Gunatilleke, a Sri Lankan Tamil song, has won the excellent sensitive song at the 16th Edison at the 16th Edison Ceylon in South India.
 
-සම්මාන උළෙල සඳහා ගීතය රචනා කළ පොතුවිල් අස්මින් සහ එහි සංගීත අධ්‍යක්ෂණය කළ සනුක වික්‍රමසිංහ ද එක්වුණි.
+She won the award from the Katunayake International Airport yesterday.
 
-එහිදී අයියෝ සාමි ගීතය ගායනා කරන වින්ඩි ගුණතිලකට 2023 වසරේ ඉදිරිපත් වූ විශිෂ්ඨතම සංවේදී ගීතයට හිමි සම්මානය පිරිනැමුණි.
+The awards ceremony was held in India recently to evaluate international film songs.
 
-ඇයව පිළිගැනීම සඳහා ඊයේ කටුනායක ජාත්‍යන්තර ගුවන් තොටුපොළට විශාල පිරිසක් එක්ව සිටියහ.
+Painting, composed of songs for the awards ceremony, joined the pot and music directed by its music.
 
-"පළමු වතාවට ජාත්‍යන්තර සම්මානයක් හම්බ වුණේ. හරිම සතුටුයි ලංකාවට ප්‍රසන්ට් කරන්න ලැබුණ එක ගැන."
+There, Windy Gunatilleke, awarded the best sensitive song, which was presented to Windy Gunatille, who sings the Samomi song.
+
+A large number of people were present at the Katunayake International Airport yesterday.
+
+"For the first time he met international award. Very pleased that it was about to make a pleasure to Sri Lanka. "
 
 ◼️
 
 [Data](articles/a6834b60.json)
 
+[Extended Data](ext_articles/a6834b60.ext.json)
+
 ---
 
-### பொலிஸார் துப்பாக்கி சூடு - ஒருவர் பலி
+### Police firing - one killed
 
 *2024-03-27 09:52:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸார்-துப்பாக்கி-சூடு-ஒருவர்-பலி/175-335241) · `ta`
 
-பணத்தை கொள்ளையிட  வந்த மூவரில் ஒருவர் இவ்வாறு துப்பாக்கிச் சூட்டுக்கு இலக்காகி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A robbery attempt in Ruwanwella led to a police shootout, killing one robber. Two robbers fled, and one died from injuries. Two victims were injured and hospitalized.
 
-அப்பிள் ரக அலைபேசிகளை விற்பனை செய்வதாக நாளிதழ்களில் விளம்பரம் செய்து கையடக்கத் தொலைபேசிகளை கொள்வனவு செய்ய வந்தவர்களிடம் கொள்ளையர்கள் பணத்தைத் திருட முயற்சித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-ருவன்வெல்ல பிரதேசத்துக்கு அலைபேசிகளை கொள்வனவு செய்ய வந்த குழுவொன்று, சந்தேகத்தின் அடிப்படையில் பொலிஸாருக்கு அறிவித்து, பொலிஸ் அதிகாரிகளுடன் அவர்களைச் சந்திக்கச் சென்றதாக தெரிவிக்கப்பட்டுள்ளது.
+One of the three men who had been robbed of the money had been shot dead, police said.
 
-அவர்களை நாரம்மல பகுதியில் உள்ள இடத்திற்கு வருமாறு கூறிய கொள்ளையர்கள், அந்த இடத்தை அடைந்ததும் கூரிய ஆயுதங்களால் அவர்களது காரை தாக்கியுள்ளனர்.
+Police said that the robbers had tried to steal money to those who came to advertise in newspapers for selling apple cell phones.
 
-இதன்போது, பொலிஸ் அதிகாரிகளுடன் ஏற்பட்ட மோதலின் போது, ​​பொலிஸ் அதிகாரிகள் துப்பாக்கிச் சூடு நடத்தியுள்ளனர்.
+It is reported that a group of people who had come to buy cell phones to Ruwanwella area had reported to the police on suspicion and went to meet them with the police officers.
 
-இரண்டு கொள்ளையர்கள் தப்பியோடியதுடன், துப்பாக்கிச் சூட்டில் காயமடைந்த கொள்ளையர்களில் ஒருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்துள்ளார்.
+The robbers, who were asked to come to the place of Naramala, attacked their car with sharp weapons when they reached the place.
 
-...
+During the confrontation with police officers, police officers opened fire.
+
+Two robbers fled and one of the robbers who were injured in the shooting died after being admitted to the hospital.
+
+In addition, two persons who came to buy cell phones have been admitted to the Kurunegala Teaching Hospital after being injured in the attack of the robbers.
+
+◼️
 
 [Data](articles/13775a3e.json)
+
+[Extended Data](ext_articles/13775a3e.ext.json)
 
 ---
 
@@ -171,6 +193,8 @@ It is understood that “Muthuwa”, who operates from overseas, was complicit i
 ◼️
 
 [Data](articles/b8b0d49f.json)
+
+[Extended Data](ext_articles/b8b0d49f.ext.json)
 
 ---
 
@@ -282,11 +306,13 @@ IGP Deshabandu Tennakoon says steps will be taken to regulate various activities
 
 The signing of nine new agreements between China and Sri Lanka took place on Tuesday (March 26) under the patronage of Chinese Prime Minister Li Qiang and Prime Minister Dinesh Gunawardena.
 
-The Prime Minister paid floral tributes to the martyred war heroes at the Monument to the People’s Heroes at Tiananmen Square, and after receiving the guard of honour from the Chinese military, bilateral discussions commenced.
+The Sri Lankan PM paid floral tributes to the martyred war heroes at the Monument to the People’s Heroes at Tiananmen Square, and after receiving the guard of honour from the Chinese military, bilateral talks commenced.
 
-Later, in the bilateral talks held in the Great Hall in Beijing, more attention was paid to increasing overall cooperation in the social, cultural, educational, and agricultural sectors in addition to economic cooperation.
+Later, during the discussions held in the Great Hall in Beijing, more attention was paid to increasing overall cooperation in the social, cultural, educational, and agricultural sectors in addition to economic cooperation.
 
-The Prime Ministers of the two countries confirmed that a new chapter in the long-term friendship and cooperation between Sri Lanka and China will begin through the nine memoranda of understanding signed between the two countries.
+The two prime ministers confirmed that a new chapter in the long-term friendship and cooperation between Sri Lanka and China will begin through the nine Memoranda of Understanding (MoUS) inked on Tuesday.
+
+Secretary to the Prime Minister Anura Dissanayake signed the agreements on behalf of Sri Lanka, and the secretaries of nine ministries signed on behalf of China.
 
 ...
 

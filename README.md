@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 06:54:22**
+As of **2024-03-27 07:16:38**
 
 ## Newspaper Stats
 
-*Scraped **15,404** Articles*
+*Scraped **15,409** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,121 @@ economynextcom | 832
 dailyftlk | 835
 islandlk | 854
 adalk | 1,312
-adaderanalk | 1,845
-tamilmirrorlk | 1,846
+adaderanalk | 1,846
+tamilmirrorlk | 1,847
 virakesarilk | 2,175
-dailymirrorlk | 2,378
+dailymirrorlk | 2,381
 adaderanasinhalalk | 2,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,404 (100.0%) of 15,404 articles have been extended.
+15,404 (100.0%) of 15,409 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### Police open fire at group of robbers; one person dead
+
+*2024-03-27 06:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98225/police-open-fire-at-group-of-robbers-one-person-dead) · `en`
+
+One person has died after the police opened fire at a group of robbers in the Narammala area.
+
+◼️
+
+[Data](articles/cd22c2c8.json)
+
+---
+
+### Heavy showers above 100 mm likely after 2 p.m. today
+
+*2024-03-27 06:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-showers-above-100-mm-likely-after-2-p-m-today/108-279678) · `en`
+
+Colombo, March 27 (Daily Mirror) - Heavy showers above 100 mm are likely at some places in the Western, Sabaragamuwa, North-Western, and Central Provinces of the island after 2 p.m. today, the Forecasting Division of the National Meteorological Centre said.
+
+They said the atmospheric conditions are getting favorable for afternoon thundershowers in most parts of the island today.
+
+Several spells of showers may occur in the Eastern, Uva and Southern Provinces in the morning.
+
+However, misty conditions can be expected at some places in the Central, Sabaragamuwa, and Uva Provinces and in the Kalutara, Galle and Matara districts during the morning.
+
+Meanwhile, showers will occur in the sea areas off the coast, extending from Trincomalee to Galle via Batticaloa and Hambantota.
+
+Showers may occur at a few places in the sea areas off the coast, extending from Puttalam to Galle via Colombo, during the afternoon or night.
+
+...
+
+[Data](articles/ee28423e.json)
+
+---
+
+### The Act for Digital Economic Transaction will be presented in Parliament in the middle of this year - the President
+
+*2024-03-27 06:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179787) · `ta`
+
+President Ranil Wickremesinghe announced the Act for Digital Economic Transaction, aiming to transform Sri Lanka into a digital and green economy. The law will establish a digital transaction agency and AI center, focusing on digital public infrastructure, modern agriculture, poverty reduction, and education reform. A billion rupees from the 2024 budget will be allocated for this initiative. The government plans to strengthen the education system and introduce AI in schools, collaborating with Indian companies and institutions.
+
+🟩
+
+President Ranil Wickremesinghe said the laws for the creation of a digital transaction agency and artificial intelligence center (AI) will be tabled in Parliament this year.
+
+The President also said that through rapid digital transactions, the economy of our country could be transformed into an emerging economy in the Indian Ocean region.
+
+President Ranil Wickremesinghe made this statement while addressing the Digital Infrastructure Conference at the Taj Samudra Hotel in Colombo on Tuesday (26).
+
+A number of Indian and Sri Lankan experts participated in the event with knowledge and experience representing various departments on digital public infrastructure and administration.
+
+President Ranil Wickremesinghe further pointed out that the implementation of the new laws can be transformed into Sri Lanka's economy as a digital and green economy.
+
+...
+
+[Data](articles/98c7540c.json)
+
+[Extended Data](ext_articles/98c7540c.ext.json)
+
+---
+
+### Technical malfunction leaves lives of hundreds of children with cancer at risk
+
+*2024-03-27 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Technical-malfunction-leaves-lives-of-hundreds-of-children-with-cancer-at-risk/108-279676) · `en`
+
+Colombo, March 27 (Daily Mirror) - The prolonged breakdown of one of the linear accelerators at the Apeksha Hospital, Maharagama, which predominantly treats the pediatric patients has placed hundreds of lives at risk.
+
+Sources familiar with the matter revealed that the linear accelerator, crucial for administering radiotherapy — a vital cancer treatment, has been non-operational since February.
+
+Despite the severity of the situation, the Health Ministry has turned a blind eye by not taking remedial measures to rectify the issue, exacerbating the concerns.
+
+Apeksha Hospital currently houses five linear accelerators, each playing a pivotal role in delivering various treatments. However, the malfunctioning machine holds particular significance for pediatric patients due to its specialized features.
+
+Furthermore, the breakdown has resulted in a backlog of over 500 patients awaiting treatment, plunging many, especially children, into precarious circumstances where their lives hang in the balance.
+
+...
+
+[Data](articles/33322b77.json)
+
+---
+
+### Central Bank delivers 50bps policy rates cut
+
+*2024-03-27 04:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-delivers-50bps-policy-rates-cut/108-279671) · `en`
+
+Says softer than expected inflation provided space to resume cuts
+
+Expresses confidence of maintaining mid-term inflation at targeted range between 4% to 6%
+
+The Central Bank yesterday resumed cuts by further reducing key policy rates by 50 basis points as inflation remains anchored. The move was also to further ease the financial conditions with a view to support and accelerate the expansion of the economy.
+
+The rates cut came after a four months hiatus since November 22 last year, when the Central Bank said they would pause any more reduction until both, the government securities yields and the lending rates, fall broadly in line with the policy rates.
+
+Although both yields and rates eased thereafter, quite notably the yields showed some reversal in the last four weeks while the softening in lending rates slowed, the Central Bank said.
+
+...
+
+[Data](articles/e14182a5.json)
+
+---
 
 ### SLFP condemns attempts to tarnish party Chairman
 
@@ -166,6 +266,24 @@ The Chief Guest Ambassador of the Republic of Korea to Sri Lanka Miyon Lee was a
 
 ---
 
+### ’டிஜிட்டல் பொருளாதார பரிவர்த்தனை சட்டம் விரைவில்’
+
+*2024-03-27 02:34:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிஜிட்டல்-பொருளாதார-பரிவர்த்தனை-சட்டம்-விரைவில்/175-335238) · `ta`
+
+டிஜிட்டல் பரிவர்த்தனைக்கான முகவர் நிலையம் மற்றும் செயற்கை நுண்ணறிவுக்கான மையத்தை உருவாக்குவதற்கான சட்டங்கள் இந்த வருட நடுப்பகுதிக்குள் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+கொழும்பு தாஜ் சமுத்ரா ஹோட்டலில் நேற்று இடம்பெற்ற டிஜிட்டல் பொது உட்கட்டமைப்பு வசதிகள் மாநாட்டில் பிரதான உரையாற்றிய போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+
+டிஜிட்டல் பொது உள்கட்டமைப்பு வசதிகள் மற்றும் நிர்வாகம் தொடர்பில் பல்வேறு துறைகளை பிரதிநிதித்துவப்படுத்தும் அறிவும் அனுபவமும் கொண்ட பல இந்திய மற்றும் இலங்கை நிபுணர்கள் இதில் கலந்து கொண்டனர்.
+
+நாட்டின் பொருளாதார மாற்றத் திட்டத்தை இலகுபடுத்தும் வகையில் புதிய நிறுவன கட்டமைப்பொன்றை ஏற்படுத்த திட்டமிட்டுள்ளோம். தகவல் தொழில்நுட்ப சபை போன்ற தற்போதுள்ள கட்டமைப்புகளில் இருந்து விலகி, டிஜிட்டல் மாற்றத்திற்கான முகவர் நிலையம் மற்றும் செயற்கை நுண்ணறிவுக்கான மையத்தை உருவாக்குவதில் கவனம் செலுத்தப்பட்டுள்ளது. அதற்காக 2024 வரவு - செலவுத் திட்டத்தில் இருந்து ஒரு பில்லியன் ரூபாவை ஒதுக்க நடவடிக்கை எடுத்துள்ளோம்.
+
+...
+
+[Data](articles/ece52596.json)
+
+---
+
 ### Richard Pieris Group celebrates excellence highlighting achievements; unveils future roadmap
 
 *2024-03-27 02:30:44* · [`dailyftlk`](https://www.ft.lk/business/Richard-Pieris-Group-celebrates-excellence-highlighting-achievements-unveils-future-roadmap/34-760002) · `en`
@@ -217,32 +335,6 @@ The Event Management Association (EMA), the only professional industry body in S
 [Data](articles/eb67a1c2.json)
 
 [Extended Data](ext_articles/eb67a1c2.ext.json)
-
----
-
-### The Act for Digital Economic Transaction will be presented in Parliament in the middle of this year - the President
-
-*2024-03-27 02:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/179787) · `ta`
-
-President Ranil Wickremesinghe announced the Act for Digital Economic Transaction, aiming to transform Sri Lanka into a digital and green economy. The law will establish a digital transaction agency and AI center, focusing on digital public infrastructure, modern agriculture, poverty reduction, and education reform. A billion rupees from the 2024 budget will be allocated for this initiative. The government plans to strengthen the education system and introduce AI in schools, collaborating with Indian companies and institutions.
-
-🟩
-
-President Ranil Wickremesinghe said the laws for the creation of a digital transaction agency and artificial intelligence center (AI) will be tabled in Parliament this year.
-
-The President also said that through rapid digital transactions, the economy of our country could be transformed into an emerging economy in the Indian Ocean region.
-
-President Ranil Wickremesinghe made this statement while addressing the Digital Infrastructure Conference at the Taj Samudra Hotel in Colombo on Tuesday (26).
-
-A number of Indian and Sri Lankan experts participated in the event with knowledge and experience representing various departments on digital public infrastructure and administration.
-
-President Ranil Wickremesinghe further pointed out that the implementation of the new laws can be transformed into Sri Lanka's economy as a digital and green economy.
-
-...
-
-[Data](articles/98c7540c.json)
-
-[Extended Data](ext_articles/98c7540c.ext.json)
 
 ---
 
@@ -2113,121 +2205,5 @@ The petitions have been fixed for July 24 for confirmation of facts.
 [Data](articles/7a639c0d.json)
 
 [Extended Data](ext_articles/7a639c0d.ext.json)
-
----
-
-### The story of the solemnchmen who spoke the whole
-
-*2024-03-26 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194959) · `si`
-
-Ajith Muthukumarana and a resident of Embilipitiya, who married and moved to Italy, became a beloved couple nationwide, despite social media challenges.
-
-🟩
-
-The collaboration of the popular singer Ajith Muthukumarana was a heavy performance of the famous day of a 16-year love story.
-
-A resident of Embilipitiya have left for Italy after their marriage.
-
-The couple in the entire country were popular in the entire country over the course of the entire family, at the time of the unstable social media.
-
-◼️
-
-[Data](articles/3d215309.json)
-
-[Extended Data](ext_articles/3d215309.ext.json)
-
----
-
-### Northern Province farmers' electricity will be reduced
-
-*2024-03-26 16:12:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடமாகாண-விவசாயிகளின்-மின்கட்டணம்-குறைக்கப்படும்/175-335219) · `ta`
-
-The Minister of Agriculture and Plantation Industries, Mahinda Amaraweera, announced plans to reduce electricity tariffs for Northern Province farmers, acknowledging their efforts in agriculture despite the impact of the 30-year war.
-
-🟩
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera said that the Cabinet paper will be submitted to reduce the electricity tariffs of the Northern Province farmers who use electricity for agricultural purposes.
-
-He said the decision was taken in view of the commitment of the people of the Northern Province to carry out all the tasks with great efforts in agricultural activities.
-
-The Minister said that the president had advised the people of the Northern and Eastern Province to allocate most of the money allocated to the ministries when implementing development activities.
-
-People have been affected by the 30 -year war in the Northern Province.But despite those problems, they did not abandon agriculture.
-
-The farmers of the Northern Province have therefore demanded some relief when using electricity for their agricultural activities.
-
-...
-
-[Data](articles/44ace595.json)
-
-[Extended Data](ext_articles/44ace595.ext.json)
-
----
-
-### Special security measures in place for Good Friday, Easter Sunday
-
-*2024-03-26 16:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-security-measures-in-place-for-Good-Friday-Easter-Sunday/108-279639) · `en`
-
-(Colombo), March 26 (Daily Mirror) -  Special security measures have been implemented at churches across the country in view of the upcoming Good Friday and Easter Sunday, police said.
-
-Police spokesman DIG Nihal Thalduwa said that Inspector-General of Police (IGP) Deshabandu Tennakoon has directed all officers, including Senior Deputy Inspectors General of Police (SDIGs), DIGs, and officers in charge (OICs) of police divisions to ensure enhanced security.
-
-He said Police OICs have been instructed to collaborate with priests and boards of trustees of churches to develop tailored security plans during Holy Masses from March 29 to 31.
-
-Under this plan, church premises will be inspected discreetly before sermons begin, to avoid disturbing devotees. If necessary, body searches may be conducted after discussions with church authorities.
-
-...
-
-[Data](articles/638d3963.json)
-
-[Extended Data](ext_articles/638d3963.ext.json)
-
----
-
-### Sahasya Investment Limited to operate and manage expressways from 01st April 2024
-
-*2024-03-26 16:11:00* · [`islandlk`](http://island.lk/sahasya-investment-limited-to-operate-and-manage-expressways-from-01st-april-2024/) · `en`
-
-The Cabinet of Ministers approved the proposal presented by the Minister of Transport and Highways to shift the daily operations and management of expressways to Sahasya Investment Limited from 01.04.2024 in accordance with a formal management agreement and to transfer all the relevant assets to Sasahasya Investments Limited within six months consequent to a legal and financial feasibility study jointly conducted by the Road Development Authority and Sahasya Investments Limited.
-
-[At the Cabinet meeting held on 26.06.2023, it had been approved to shift the expressway network from the Road Development Authority to Sahasya Investment Limited so that the land owned by highways, highway loans and related staff can be managed more commercially. The respective action plan has been approved at the Cabinet meeting held on 05.02.2024.]
-
-Related Topics:Cabinet Decisionsdaily operations and management of expresswaysSahasya Investment Limited
-
-...
-
-[Data](articles/241adac4.json)
-
-[Extended Data](ext_articles/241adac4.ext.json)
-
----
-
-### The tragedy of the student who died of motorcycle crash in Kottawa
-
-*2024-03-26 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194958) · `si`
-
-An 18-year-old student died in a motorcycle crash in Kottawa, facing GCE A/L exams. The accident involved a military-style motorcycle, which collided with a van. Both drivers were arrested, and police are investigating.
-
-🟩
-
-An 18-year-old youth was killed in an accident in Kottawa and High Level yesterday and further information has been revealed about the accident.
-
-The unfortunate case was faced with the GCE A / L examination.
-
-The victim was a friend of Hane friend, and was back in the accident.
-
-It was reported that the militarized motorcycle, which was eagerly eagerly eager to, had taken it to show it to a mother.
-
-The motorcycle, which was traveling to the Makumbura on the road to the motorcycle back to the motorcycle, was hit by a van towards Kottawa.
-
-The motorcycle rose to the midwife towards the Makumbura and collided with a cab.
-
-The two drivers in the accident and the cab have been arrested and Kottawa Police are conducting further investigations.
-
-◼️
-
-[Data](articles/041c84dc.json)
-
-[Extended Data](ext_articles/041c84dc.ext.json)
 
 ---

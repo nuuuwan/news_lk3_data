@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 13:03:14**
+As of **2024-03-27 13:18:04**
 
 ## Newspaper Stats
 
-*Scraped **15,479** Articles*
+*Scraped **15,480** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 1,318
 adaderanalk | 1,856
 tamilmirrorlk | 1,861
 virakesarilk | 2,186
-dailymirrorlk | 2,389
+dailymirrorlk | 2,390
 adaderanasinhalalk | 2,485
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,478 (100.0%) of 15,479 articles have been extended.
+15,479 (100.0%) of 15,480 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### Expedite compensation to ’Aragalaya’ victims: Prasanna
+
+*2024-03-27 12:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Expedite-compensation-to-Aragalaya-victims-Prasanna/108-279706) · `en`
+
+Gampaha, March 27 (Daily Mirror)- The Government Valuation Department and the Office for Reparations have been instructed to expedite the compensation process for the movable and immovable property that were set on fire by the 'Aragalaya' protestors in the Gampaha district on May 9, 2022.
+
+The instruction was given by Urban Development Minister Prasanna Ranatunge during a special meeting held at the Gampaha District Secretariat this morning.
+
+The Minister said 33 out of 42 houses that were sent on fire in Gampaha District have been compensated for by the Office for Reparations by now.
+
+He said the most damage was caused in the Gampaha District due to the May 9 incident, which included 138 vehicles.
+
+The Minister said that the implementation of law against those responsible for the May 9 incident was very slow and said he had instructed the IGP to expedite the legal process.
+
+◼️
+
+[Data](articles/b143890b.json)
+
+---
 
 ### Man nabbed with Kerala cannabis worth over Rs. 10mn
 
@@ -604,23 +624,29 @@ Pottuvil Azmin, who wrote the song, and Sanuka Wickremasinghe, who composed the 
 
 ---
 
-### දුරකථන අලෙවිකරණ බවට දැන්වීම් පළ කර කොල්ලකන කල්ලියකට පොලීසියෙන් වෙඩි
+### Police shooting telephone marketing
 
 *2024-03-27 11:28:35* · [`adalk`](https://www.ada.lk/breaking_news/දුරකථන-අලෙවිකරණ-බවට-දැන්වීම්-පළ-කර-කොල්ලකන-කල්ලියකට-පොලීසියෙන්-වෙඩි/11-408823) · `si`
 
-මංකොල්ලකරුවන් පිරිසක්  ජංගම දුරකථන අලෙවිකරණ බවට පුවත්පත් දැන්වීම් පළ කර  දුරකථන මිලදී ගැනීමට පැමිණෙන පුද්ගලයින්ගේ මුදල් කොල්ලකෑමට උත්සාහ දරා ඇති බව පොලීසිය පැවසුවේය.
+In Ruwanwella, robbers attacked a group buying phones, killing two and injuring two more, who were taken to Kurunegala Teaching Hospital. Police shot and killed two robbers.
 
-අදාළ දැන්වීමට අනුව ජංගම දුරකථන මිලදී ගැනීම සඳහා රුවන්වැල්ල ප්‍රදේශයේ පිරිසක් පැමිණ ඇති අතර, ඔවුන්ට සැකයක් ඇති වී ඒ පිළිබඳව පොලීසියට දන්වා පොලිස් නිලධාරීන් සමග ඔවුන් හමුවීමට ගොස් තිබේ.
+🟩
 
-නාරම්මල ප්‍රදේශයේ ස්ථානයකට පැමිණෙන ලෙස කොල්ලකරුවන් පිරිස ඔවුන්ට දන්වා ඇති අතර එම ස්ථානයට පැමිණීමත් සමග කොල්ලකරුවන් ඔවුන්ගේ මෝටර් රථයට තියුණු ආයුධවලින් පහරදී තිබේ.
+The police said that a group of robbers have tried to plunder the money of the people who come to buy phones and buy phones.
 
-එහිදී පොලිස් නිලධාරීන් සමග ඇති වූ පොරබැඳීමක් අතරතුර පොලිස් නිලධාරීන් කොල්ලකරුවන් පිරිසට වෙඩි තබා ඇති අතර එහිදී කොල්ලකරුවන් දෙදෙනෙකු පළා ගොස් එක් කොල්ලකරුවෙකු වෙඩි වැදීමෙන් තුවාල ලැබා රෝහල්ගත කිරීමේදී මිය ගොස් තිබේ.
+According to the answer, a group of people in Ruwanwella had come to buy mobile phones, and they had gone to meet the police with police officers.
 
-එමෙන්ම කොල්ලකරුවන් එල්ල කළ ප්‍රහාරය හේතුවෙන් තුවාල ලැබූ ජංගම දුරකථන මිලදී ගැනීමට පැමිණි දෙදෙනාද තුවාල ලබා කුරුණෑගල ශික්ෂණ රෝහලට ඇතුළත් කර තිබේ.
+The robbers have informed them to come to a place in Narammala and the robbers attacked their car with sharp weapons.
+
+Police officers have shot dead and two robbers have fled and killed two robbers.
+
+Two persons who were injured in their injuries have been admitted to the Kurunegala Teaching Hospital with injuries due to the robbers.
 
 ◼️
 
 [Data](articles/71329c6a.json)
+
+[Extended Data](ext_articles/71329c6a.ext.json)
 
 ---
 
@@ -1512,7 +1538,7 @@ One person has reportedly died after the police opened fire at a group of robber
 
 Police said that the robbers had tried to steal money from the people who came to purchase mobile phones responding to advertisements published by the suspects in newspapers regarding the sale of Apple iPhones.
 
-After seeing the said advertisement, a group of persons had come to the Ruwanwella area to buy mobile phones, and based on their suspicions, they had informed the police about this and had gone to meet them with the police officers.
+After seeing the said advertisement, a group of persons had come from the Ruwanwella area to buy mobile phones, and based on their suspicions, they had informed the police about this and had gone to meet them with the police officers.
 
 The robbers had informed them to come to a place in Narammala and upon reaching the said place, the robbers had attacked their car with sharp weapons.
 
@@ -2287,21 +2313,5 @@ Accordingly, the Gujarat Titans lost 8 wickets at the end of their 20 overs and 
 [Data](articles/40a100b6.json)
 
 [Extended Data](ext_articles/40a100b6.ext.json)
-
----
-
-### The growing public disenchantment with Israel, and the mounting protests, is forcing many American, British and European politicians to rethink their unconditional support for Israel’s genocidal war.
-
-*2024-03-26 23:37:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83803) · `en`
-
-“Whether the victims of October 7th in Israel or the ongoing attack on Gaza, all the victims of dehumanisation, how do we resist?” Jonathan Glazer, director of The Zone of Interest (Oscar acceptance speech)
-
-The Pali Canon has the original tale but it’s the version in the commentaries we know. In both stories, she is Kisa Gotami, a thin girl who marries young. Then comes the divergence. In the story we know she loses her baby to illness, refuses to accept his death and rushes from healer to healer, cradling the dead body, seeking life. The Buddha is her final refuge. He tells her to bring a mustard seed from a house into which death hasn’t entered. She walks the length and breadth of the city. In every house someone has died, sometime.
-
-...
-
-[Data](articles/d789009e.json)
-
-[Extended Data](ext_articles/d789009e.ext.json)
 
 ---

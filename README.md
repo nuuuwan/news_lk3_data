@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 10:04:49**
+As of **2024-03-27 10:17:50**
 
 ## Newspaper Stats
 
-*Scraped **15,428** Articles*
+*Scraped **15,433** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,17 +16,17 @@ economynextcom | 832
 dailyftlk | 835
 islandlk | 854
 adalk | 1,313
-adaderanalk | 1,849
-tamilmirrorlk | 1,849
+tamilmirrorlk | 1,851
+adaderanalk | 1,851
 virakesarilk | 2,176
 dailymirrorlk | 2,383
-adaderanasinhalalk | 2,478
+adaderanasinhalalk | 2,479
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,428 (100.0%) of 15,428 articles have been extended.
+15,428 (100.0%) of 15,433 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,88 @@ That is an achievement for the party that languished on the sideline. Their luck
 [Data](articles/0e95a68b.json)
 
 [Extended Data](ext_articles/0e95a68b.ext.json)
+
+---
+
+### சுற்றுலா பயணிகளை பயமுறுத்தும் பாதாள குழுக்கள்
+
+*2024-03-27 09:59:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலா-பயணிகளை-பயமுறுத்தும்-பாதாள-குழுக்கள்/175-335242) · `ta`
+
+தென் மாகாணத்தில் பாதாள உலகக் குழுக்களின் துப்பாக்கிச் சூட்டுச் சம்பவங்களால் சுற்றுலாப் பயணிகள் அதிர்ச்சியடைந்துள்ளதாக பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் தெரிவித்துள்ளார்.
+
+குறிப்பாக தென் கரையோரமான பெந்தர பிரதேசத்தில் அஹுங்கல்ல, கொஸ்கொட, ரத்கம, ஹிக்கடுவ போன்ற பகுதிகளில் ஒழுங்கமைக்கப்பட்ட குற்றச் செயல்களால் சுற்றுலாப் பயணிகள் அதிர்ச்சியடைந்துள்ளனர்.
+
+ஐரோப்பா போன்ற நாடுகளில் மக்கள் நிம்மதியாக வாழ விரும்புகின்றனர். அவர்கள் இங்கு வந்து துப்பாக்கிச் சூடு சத்தத்தை கண்டு அதிர்ச்சியடைகிறார்கள்.
+
+இனி அந்த மக்கள் இங்கு வர விரும்பமாட்டார்கள். எனவே சட்டம் ஒழுங்கை பராமரிக்கவும் சுற்றுலா பயணிகளுக்கு சாதகமான சூழலை உருவாக்குவதும் மிகவும் அவசியம்." என அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/a650b7e6.json)
+
+---
+
+### Six presumed dead after Colombo-bound ship collides with Baltimore bridge
+
+*2024-03-27 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98230/six-presumed-dead-after-colombo-bound-ship-collides-with-baltimore-bridge) · `en`
+
+A cargo ship lost power and rammed into a major bridge in Baltimore, USA early Tuesday, destroying the span in a matter of seconds and plunging it into the river in a terrifying collapse that could disrupt a vital shipping port for months. Six people were missing and presumed dead, and the search for them was suspended until Wednesday morning.
+
+The ship’s crew issued a mayday call moments before the crash took down the Francis Scott Key Bridge, enabling authorities to limit vehicle traffic on the span, Maryland’s governor said.
+
+As the vessel neared the bridge, puffs of black smoke could be seen as the lights flickered on and off. It struck one of the bridge’s supports, causing the structure to collapse like a toy, and a section of the span came to rest on the bow.
+
+With the ship barreling toward the bridge at “a very, very rapid speed,” authorities had just enough time to stop cars from coming over the bridge, Maryland Gov. Wes Moore said.
+
+...
+
+[Data](articles/6cc89818.json)
+
+---
+
+### වින්ඩි ගුණතිලකට ජාත්‍යන්තර සම්මානයක්
+
+*2024-03-27 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194984) · `si`
+
+ශ්‍රී ලංකික ද්‍රවිඩ ගීතයක්වන "අයියෝ සාමී" ගීතය ගායනා කරන වින්ඩි ගුණතිලක දකුණු ඉන්දියාවේ චෙන්නායි නුවර පැවති 16 වැනි එඩිසන් සම්මාන උළෙලේදී 2023 වසරේ ඉදිරිපත් වූ විශිෂ්ඨතම සංවේදී ගීතයට හිමි සම්මානය දිනාගෙන තිබේ.
+
+මෙම සම්මානය හිමිකර ගත් ඇය ඊයේ (26) කටුනායක ජාත්‍යන්තර ගුවන්තොටුපොළෙන් මෙරටට පැමිණියාය.
+
+මෙම සම්මාන උළෙල ජාත්‍යන්තර චිත්‍රපට ගීත ඇගයීම සඳහා පසුගියදා ඉන්දියාවේ පැවැත්වුණි.
+
+සම්මාන උළෙල සඳහා ගීතය රචනා කළ පොතුවිල් අස්මින් සහ එහි සංගීත අධ්‍යක්ෂණය කළ සනුක වික්‍රමසිංහ ද එක්වුණි.
+
+එහිදී අයියෝ සාමි ගීතය ගායනා කරන වින්ඩි ගුණතිලකට 2023 වසරේ ඉදිරිපත් වූ විශිෂ්ඨතම සංවේදී ගීතයට හිමි සම්මානය පිරිනැමුණි.
+
+ඇයව පිළිගැනීම සඳහා ඊයේ කටුනායක ජාත්‍යන්තර ගුවන් තොටුපොළට විශාල පිරිසක් එක්ව සිටියහ.
+
+"පළමු වතාවට ජාත්‍යන්තර සම්මානයක් හම්බ වුණේ. හරිම සතුටුයි ලංකාවට ප්‍රසන්ට් කරන්න ලැබුණ එක ගැන."
+
+◼️
+
+[Data](articles/a6834b60.json)
+
+---
+
+### பொலிஸார் துப்பாக்கி சூடு - ஒருவர் பலி
+
+*2024-03-27 09:52:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸார்-துப்பாக்கி-சூடு-ஒருவர்-பலி/175-335241) · `ta`
+
+பணத்தை கொள்ளையிட  வந்த மூவரில் ஒருவர் இவ்வாறு துப்பாக்கிச் சூட்டுக்கு இலக்காகி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+அப்பிள் ரக அலைபேசிகளை விற்பனை செய்வதாக நாளிதழ்களில் விளம்பரம் செய்து கையடக்கத் தொலைபேசிகளை கொள்வனவு செய்ய வந்தவர்களிடம் கொள்ளையர்கள் பணத்தைத் திருட முயற்சித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+ருவன்வெல்ல பிரதேசத்துக்கு அலைபேசிகளை கொள்வனவு செய்ய வந்த குழுவொன்று, சந்தேகத்தின் அடிப்படையில் பொலிஸாருக்கு அறிவித்து, பொலிஸ் அதிகாரிகளுடன் அவர்களைச் சந்திக்கச் சென்றதாக தெரிவிக்கப்பட்டுள்ளது.
+
+அவர்களை நாரம்மல பகுதியில் உள்ள இடத்திற்கு வருமாறு கூறிய கொள்ளையர்கள், அந்த இடத்தை அடைந்ததும் கூரிய ஆயுதங்களால் அவர்களது காரை தாக்கியுள்ளனர்.
+
+இதன்போது, பொலிஸ் அதிகாரிகளுடன் ஏற்பட்ட மோதலின் போது, ​​பொலிஸ் அதிகாரிகள் துப்பாக்கிச் சூடு நடத்தியுள்ளனர்.
+
+இரண்டு கொள்ளையர்கள் தப்பியோடியதுடன், துப்பாக்கிச் சூட்டில் காயமடைந்த கொள்ளையர்களில் ஒருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்துள்ளார்.
+
+...
+
+[Data](articles/13775a3e.json)
 
 ---
 
@@ -73,6 +155,22 @@ The Sri Lankan government refers to the current government, just like the curren
 [Data](articles/f31ceaf6.json)
 
 [Extended Data](ext_articles/f31ceaf6.ext.json)
+
+---
+
+### Group of assailants fire shots into house belonging to underworld figure
+
+*2024-03-27 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98229/group-of-assailants-fire-shots-into-house-belonging-to-underworld-figure) · `en`
+
+A group of assailants has fired shots into a house located at Galwarushawa Road in Athurugiriya early this morning (March 27). According to reports, the establishment is owned by a criminal gang member named Manoj Muthukumarana alias “Muthuwa”.
+
+Ada Derana correspondent said no casualties were reported in the incident despite the assailants having fired at least 7 shots into the house.
+
+It is understood that “Muthuwa”, who operates from overseas, was complicit in a number of criminal activities reported in Athurugiriya and Nawagamuwa areas in the recent past.
+
+◼️
+
+[Data](articles/b8b0d49f.json)
 
 ---
 
@@ -2125,129 +2223,5 @@ The suspects are members of the bunch of these suspects, Rathusu, Borahewa, Bora
 [Data](articles/fefc7357.json)
 
 [Extended Data](ext_articles/fefc7357.ext.json)
-
----
-
-### Russian - Sri Lankan soldiers killed in Ukraine war fields;Russia who went to escape poverty
-
-*2024-03-26 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179766) · `ta`
-
-Sri Lankan soldiers in Ukraine face danger, including attacks by unmanned planes. Senakabandara, injured, was evacuated. He and Silva were working in Russia to escape poverty. Hundreds of Sri Lankans fight for $3,000, with many more seeking employment with the Russian army. Economic downturn and political unrest in Sri Lanka led to widespread poverty, forcing some to join the Russian army for better income.
-
-🟩
-
-Senakabandara, who was seriously injured in the Ukraine attack on a bunker of the Russian soldiers in the Donotsk region, was safely evacuated from the country.
-
-Senaka said that the condition of expert Silva was worse than that.
-
-Ukraine's unmanned planes attacked the bunkers in the Tontsk area occupied by Russia when the two Sri Lankans retreated from the scene due to heavy attacks.
-
-"Ukraine's unmanned planes were involved in a fierce attack," he said.
-
-When I was hanging out, I was once again the unmanned air strike of Ukraine on the final bunker.
-
-He said this while receiving treatment at the Donetsk Hospital in Eastern Ukraine.
-
-He told Al Jazeera that we don't think this would be so dangerous.
-
-He said that Russian authorities had asked them to work on bunkers in Tontsk.
-
-But we did not know that there was an attack. He and his friend described how he and his friend were in Russia's supporting army and sent two months of exercise and then sent to the front.
-
-...
-
-[Data](articles/7691b74c.json)
-
-[Extended Data](ext_articles/7691b74c.ext.json)
-
----
-
-### Suicide bombing in Pakistan - five Chinese citizens killed
-
-*2024-03-26 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/179775) · `ta`
-
-A suicide bombing in Pakistan's northwest killed five Chinese citizens and a Pakistani. The attack targeted Chinese engineers traveling from Islamabad to Dasu, Khyber Pakhtunwa. This incident follows a 2021 bus bombing that killed nine Chinese nationals.
-
-🟩
-
-A military official said that a murder bomb was attacked on a vehicle that was traveling in Chinese citizens in Pakistan's northwestern part of Pakistan.
-
-Chinese engineers were traveling from Islamabad to their camp in Dasu, Khyber Pakhtunwa province, and the suicide bomber drove his vehicle to their vehicle, said an army official.
-
-He noted that five Chinese citizens and their vehicle, Pakistan citizen, have been killed.
-
-Dasu is a dam for the main hydraulic station. The Chinese company has been creating attacks in the past and nine Chinese nationals were killed in a bus bomb in 2021.
-
-◼️
-
-[Data](articles/5e40df54.json)
-
-[Extended Data](ext_articles/5e40df54.ext.json)
-
----
-
-### Sri Lanka banks to set up business revival units for troubled borrowers: central bank
-
-*2024-03-26 17:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-banks-to-set-up-business-revival-units-for-troubled-borrowers-central-bank-156219/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s banks will be directed to formally set up business revival units that will help re-structure companies whose loans have gone bad, the central bank said.
-
-Business revival units were required to be set up initially during the covid pandemic, but now they will be made a permanent service of banks.
-
-“We hope to issue a directive next month, for banks to set up BRUs which will help guide and strengthen small and medium enterprises,” Governor Weerasinghe told reporters Tuesday.
-
-“The circular will expand the scope of the BRU.” The central bank received technical advice on this from the World Bank, and in keeping with practices in other countries.
-
-Senior Deputy Governor Yvette Fernando said revival units will identify businesses that can be revived.
-
-“There will be some criteria,” companies that fit the criteria will be guided to restructure after “a policy is approved on what type of institutions will be subject to it.”
-
-...
-
-[Data](articles/c46c8360.json)
-
-[Extended Data](ext_articles/c46c8360.ext.json)
-
----
-
-### Investigations into the assets of 20 more arrested
-
-*2024-03-26 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179757) · `ta`
-
-Police arrested 830 males and 9 females, detaining 42 for further investigations. Assets of 20 suspects are under investigation. In the Western Province, 201, 103, and 103 grams of cannabis were seized.
-
-🟩
-
-830 male suspects and 9 female suspects have been arrested during the strategy carried out by the police.
-
-42 of them have been detained for further investigations and investigations are underway into the assets of 20 suspects.
-
-In addition, in the Western Province, drugs such as 201 grams, 103 grams and 103 grams of cannabis were seized during the strategy in the Western Province.
-
-◼️
-
-[Data](articles/b711929f.json)
-
-[Extended Data](ext_articles/b711929f.ext.json)
-
----
-
-### ACC announces Women’s Asia Cup 2024 in Sri Lanka
-
-*2024-03-26 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98218/acc-announces-womens-asia-cup-2024-in-sri-lanka) · `en`
-
-The Asian Cricket Council (ACC) has announced the upcoming Women’s Asia Cup 2024, scheduled to take place in Dambulla, Sri Lanka, from July 19th to July 28th, 2024.
-
-This edition of the tournament will feature eight teams, one more than the previous edition in 2022, indicating the growing interest and participation in women’s cricket across Asia, the ACC said in a statement.
-
-Joining the cricketing powerhouses of India, Pakistan, Sri Lanka, and Bangladesh will be the semi-finalists of the Women’s Premier Cup 2024 - UAE, Malaysia, Nepal, and Thailand.
-
-“The increased participation promises to make this tournament even more competitive and thrilling for cricket fans across the region. In line with the ACC’s vision for inclusivity and equality in cricket, the Women’s Asia Cup 2024 will continue the tradition of having all female referees and umpires, following the successful implementation of the same in the previous edition,” the release said.
-
-...
-
-[Data](articles/5bc4613a.json)
-
-[Extended Data](ext_articles/5bc4613a.ext.json)
 
 ---

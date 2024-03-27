@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 01:33:49**
+As of **2024-03-28 01:50:27**
 
 ## Newspaper Stats
 
-*Scraped **15,591** Articles*
+*Scraped **15,592** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 854
 adalk | 1,333
 adaderanalk | 1,871
 tamilmirrorlk | 1,872
-virakesarilk | 2,204
+virakesarilk | 2,205
 dailymirrorlk | 2,407
 adaderanasinhalalk | 2,503
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,589 (100.0%) of 15,591 articles have been extended.
+15,591 (100.0%) of 15,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### 19இன் கீழ் மகளிர் மும்முனை கிரிக்கெட் சிறந்த அனுபவங்களைப் பெறுவதற்கு உதவும் என அணித் தலைவிகள் தெரிவிப்பு
+
+*2024-03-28 00:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179852) · `ta`
+
+ஹம்பாந்தோட்டையில் வியாழக்கிழமை (28) ஆரம்பமாகவுள்ள 19 வயதுக்குட்பட்ட மகளிர் மும்முனை கிரிக்கெட் தொடர் சிறந்த அனுபவங்களைப் பெறுவதற்கான வாய்ப்பை ஏற்படுத்தும் என இலங்கை, அவுஸ்திரேலியா, இங்கிலாந்து ஆகிய அணிகளின் தலைவிகள் தெரிவித்தனர்.
+
+19 வயதுக்குட்பட்ட இலங்கை அணித் தலைவி மனூதி நாணயக்கார, அவுஸ்திரேலிய அணித் தலைவி லூசி ஹெமில்டன், இங்கிலாந்து அணித் தலைவி ஜொசி க்ரோவ்ஸ் ஆகியோர் ஹம்பாந்தோட்டையில் இருந்தவாறு மெய்நிகர் ஊடக சந்திப்பில் கலந்துகொண்டு கேள்விகளுக்கு பதில் அளித்தனர்.
+
+ஹம்பாந்தோட்டையில் நிலவும் கடும் உஷ்ணம் போட்டிகளின்போது பெரும் சவாலாக இருக்கும் என அந்த மூவரும் குறிப்பிட்டனர்.
+
+எவ்வாறாயினும் சூழ்நிலைகளுக்கு தங்களைப் பழக்கப்படுத்திக்கொண்டு திறமையாக விளையாட முயற்சிப்பதாக மூன்று அணித் தலைவிகளும் கூறினர்.
+
+அவுஸ்திரேலியா, இங்கிலாந்து ஆகிய தங்களது நாடுகளை விட முற்றிலும் மாறுபட்ட சூழ்நிலையில் விளையாடுவதால் இந்தத் தொடர் தங்களுக்கு பெரும் சவாலாக இருக்கும் என ஜொசி க்ரோவ்ஸ், லூசி ஹெமில்டன் ஆகியோர் தெரிவித்ததுடன் அடுத்த உலகக் கிண்ணத்துக்கு தங்களைத் தயார்படுத்தும் களமாக இது  அமையும் எனவும் குறிப்பிட்டனர்.
+
+...
+
+[Data](articles/19cbb11c.json)
+
+---
 
 ### Hyderabad won Mumbai by 31 runs
 
@@ -744,6 +764,8 @@ I have repeatedly been writing about the unprecedented damage the 1978 JRJ const
 
 [Data](articles/070e5a1f.json)
 
+[Extended Data](ext_articles/070e5a1f.ext.json)
+
 ---
 
 ### The Kashan loses the second Test
@@ -815,6 +837,8 @@ I have generally complained that Jaffna affords little room for entertainment or
 ...
 
 [Data](articles/dd2ae733.json)
+
+[Extended Data](ext_articles/dd2ae733.ext.json)
 
 ---
 
@@ -2223,25 +2247,5 @@ The Haldummulla Secretariat said that people from these Linekamara have already 
 [Data](articles/8b53e154.json)
 
 [Extended Data](ext_articles/8b53e154.ext.json)
-
----
-
-### Easter attacks: Petition against Nilantha Jayawardena fixed for consideration
-
-*2024-03-27 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98235/easter-attacks-petition-against-nilantha-jayawardena-fixed-for-consideration) · `en`
-
-The petition filed seeking legal action against the former chief of the State Intelligence Service (SIS) Nilantha Jayawardena with respect to the 2019 Easter Sunday terror attacks has been fixed for consideration by the Court of Appeal on May 28.
-
-It was taken up before a two-member judge bench consisting of Sobhitha Rajakaruna and Dhammika Ganepola on Wednesday morning (27).
-
-The petition was filed by the Centre for Society and Religion (CSR), its director Rev. Fr. Jude Vernon Rohan Silva and a victim of Easter attacks named Devage Surach Nilanga, naming the Inspector-Genral of Police (IGP), SDIG Nilantha Jayawardena and the Attorney General as its respondents.
-
-The writ application was put forward requesting that an order be issued to the IGP and other respondents directing them to take legal action against the former SIS chief, over his failure to prevent the coordinated bombings five years ago, despite receiving intelligence information.
-
-...
-
-[Data](articles/003aa12a.json)
-
-[Extended Data](ext_articles/003aa12a.ext.json)
 
 ---

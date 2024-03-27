@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 17:03:54**
+As of **2024-03-27 17:18:05**
 
 ## Newspaper Stats
 
-*Scraped **15,520** Articles*
+*Scraped **15,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,94 @@ newsfirstlk | 363
 dailyftlk | 835
 economynextcom | 836
 islandlk | 854
-adalk | 1,323
-adaderanalk | 1,864
+adalk | 1,326
+adaderanalk | 1,865
 tamilmirrorlk | 1,867
 virakesarilk | 2,194
 dailymirrorlk | 2,392
-adaderanasinhalalk | 2,495
+adaderanasinhalalk | 2,496
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,519 (100.0%) of 15,520 articles have been extended.
+15,520 (100.0%) of 15,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### අඟහරුවාදා සිට සෞඛ්‍ය වර්ජනයක්?
+### චීන ජනපතිගෙන් දිනේෂ් ට පොරොන්දුවක්
+
+*2024-03-27 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195003) · `si`
+
+චීන ජනාධිපති ෂී ජින්පින් මහතා හා ශ්‍රී ලංකා අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා අතර හමුවක් අද (27) බෙයිජිං හි ග්‍රේට් හෝල්හි දී පැවැත්විණි.
+
+ජාත්‍යන්තර කටයුතුවලදී රටක අභ්‍යන්තර කටයුතුවලට ඇඟිලි නොගසන මිත්‍රත්වය, සාමය, අන්‍යෝන්‍ය ගෞරවය සහ පස්විධ ප්‍රතිපත්ති යටතේ ඉදිරියටත් ක්‍රියාකිරීමට දෙරටම එකඟවිය.
+
+ද්විපාර්ශික සබඳතා, රටවල් අතර අන්‍යෝන්‍ය ගෞරවය සහ අන්‍යෝන්‍ය ඵලදායීත්වය මත පැවැත්විය යුතු බව අවධාරණය කරමින් එම ප්‍රතිපත්තිය අනුව ක්‍රියා කිරීම  දෙරටටම හොඳ ආදර්ශයක් සපයන බව මෙහිදී අවධාරණය කෙරිණි.
+
+ශ්‍රී ලංකාවේ සංවර්ධනයට අවශ්‍ය යෝජනා ක්‍රම ඉදිරිපත් කළ වහාම ඊට චීනයේ සහයෝගය ලබාදෙන බවද චීන ජනාධිපතිවරයා මෙහිදී සහතික කළේය.
+
+දේශපාලන සහ සමාජ ආර්ථික ප්‍රගතිය සඳහා ශ්‍රී ලංකාව දරණ ප්‍රයත්නයන්ට චීනයේ අඛණ්ඩ සහයෝගය ලබා දෙන බවට චීන ජනාධිපතිවරයා  සහතික විය.
+
+මෙහිදී  චීන ජනාධිපතිවරයා කියා සිටියේ ශ්‍රී ලංකාවේ ස්වාධීනත්වය, භෞමික අඛණ්ඩතාව සහ ස්වෛරී භාවය ආරක්ෂා කරගැනීම වෙනුවෙන් සැම විට ම චීනය පෙනී සිටින බව යි.
+
+...
+
+[Data](articles/c271ea08.json)
+
+---
+
+### පාචනය නිසා අඹුසැමි යුවළ මරුට
+
+*2024-03-27 16:55:49* · [`adalk`](https://www.ada.lk/breaking_news/පාචනය-නිසා-අඹුසැමි-යුවළ-මරුට/11-408832) · `si`
+
+අගලවත්ත ප්‍රෙද්ශයේ අඹු සැමි යුවලක් හදිසියේ ඇතිවූ වමනය හා පාචන රෝගී තත්ත්වයක් හේතුවෙන්  මිය ගොස් ඇති බව වාර්තාවේ. සැමියා නිවසේදීත් බිරිඳ  කළුතර නාගොඩ රෝහලට ඇතුළත් කර  ප්‍රතිකාර ලබමින් සිටියදි අද  27 මිය ගොස් ඇතැයි පොලිසිය පවසයි.
+
+මිය ගොස් ඇත්තේ  අගලවත්ත වදුරබිබ පදිංචිව සිටි වන්නි ආරච්චිගේ උපාලි  ඩයස් වයස අවුරුදු 59 වන  අය හා ඔහුගේ බිරිදවන  චන්ද්‍රිකා  අමරසිංහ යන අයවලුන් බව පොලිසිය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/865a3599.json)
+
+---
+
+### Sri Lanka is the only Asian country where democracy is fully safeguarded - President
+
+*2024-03-27 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98244/sri-lanka-is-the-only-asian-country-where-democracy-is-fully-safeguarded-president) · `en`
+
+President Ranil Wickremesinghe says Sri Lanka stands out as the sole nation in Asia where democracy is fully safeguarded, ensuring that governmental actions do not impede the operations of the opposition.
+
+He also underscored the significance of safeguarding the democratic parliamentary system, ensuring that everyone’s viewpoints are allowed to be heard.
+
+The president delivered these remarks while speaking at the opening session of Sri Lanka’s inaugural National Student Parliament, convened on Tuesday (26) at the Presidential Secretariat.
+
+The National Student Parliament comprises two representatives elected from each of the zonal student parliaments established in 100 regions, spanning across the nine provinces of the island, selected based on receiving the highest number of votes.
+
+...
+
+[Data](articles/2b81f94b.json)
+
+---
+
+### A health strike from Tuesday?
 
 *2024-03-27 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195001) · `si`
 
-එළැඹෙන අඟහරුවාදා උදෑසන 6.30 සිට වැඩ වර්ජනයක් ආරම්භ කරන බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය පවසයි.
+The Health Trade Union UPFA plans a strike starting at 6:30 am Tuesday, according to the Health Trade Union Alliance's convener.
 
-සෞඛ්‍ය වෘත්තීය සමිති සන්ධානයේ කැඳවුම්කරු රවී කුමුදේශ් අද පස්වරුවේ මාධ්‍ය වෙත අදහස් දක්වමින් මේ බව පැවසීය.
+🟩
+
+The Health Trade Union UPFA says that a strike will launch a strike from 6.30 am.
+
+The convener of the Health Trade Union Alliance has told the media this afternoon.
 
 ◼️
 
 [Data](articles/1ee51936.json)
+
+[Extended Data](ext_articles/1ee51936.ext.json)
 
 ---
 
@@ -77,6 +137,8 @@ The National Student Parliamentary Speaker, Prime Minister, Deputy Speaker, 10 M
 *2024-03-27 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98243/road-blocked-in-colombo-due-to-medical-students-protest) · `en`
 
 One lane of the road from Punchi Borella towards Maradana has been blocked for traffic due to a protest by medical students, Ada Derana reporter said.
+
+Severe traffic congestion has been reported in the area and several connected roads owing to the demonstration, he said.
 
 ◼️
 
@@ -176,11 +238,13 @@ It is also suspected that the 09 kilograms of ‘ice’ (crystal methamphetamine
 
 Sri Lankan Prime Minister Dinesh Gunawardena, who is on a state visit to China, called on President Xi Jinping on Wednesday (March 27).
 
-The meeting took place at the Great Hall of the People in Beijing.
+During the discussion, which took place at the Great Hall of the People in Beijing, the two leaders have agreed to continue to act under the friendship, peace, mutual respect and fivefold principle in international affairs that do not interfere in the internal affairs of a country.
 
-PM Gunawardena is accompanied by Finance State Minister Shehan Semasinghe, Home Affairs State Minister Ashoka Priyantha, MP Yadamini Gunawardena, Chinese Ambassador to Sri Lanka Qi Zhenhong and Prime Minister’s Secretary Anura Dissanayake.
+It was emphasized that bilateral relations should be based on mutual respect and mutual productivity between the countries, and acting according to that policy would set a good example for both countries.
 
-◼️
+Assuring continuous support of China to Sri Lanka’s efforts for political and socioeconomic progress, President Xi further asserted that China would always stand for safeguarding the independence, territorial integrity and sovereignty of Sri Lanka.
+
+...
 
 [Data](articles/c013bfdc.json)
 
@@ -490,6 +554,20 @@ The people of Mullaitivu Keppapilavu handed over a Mahajar to the Mullaitivu Dis
 
 ---
 
+### රන්ජන්ට එරෙහි තවත් නඩුවක තීන්දුව ජුනි 12දා
+
+*2024-03-27 15:24:52* · [`adalk`](https://www.ada.lk/breaking_news/රන්ජන්ට-එරෙහි-තවත්-නඩුවක-තීන්දුව-ජුනි-12දා/11-408829) · `si`
+
+මහනුවර ප්‍රදේශයේ තරුණියකට විවාහ පොරොන්දුවක් ලබා දී රුපියල් ලක්ෂ 10 ක මුදලක් වංචා කළ බවට චෝදනා කරමින් හිටපු පාර්ලිමේන්තු මන්ත්‍රී සහ ප්‍රකට චිත්‍රපට නළු රන්ජන් රාමනායක මහතාට එරෙහිව මහනුවර මහේස්ත්‍රාත් අධිකරණයේ පවරා ඇති නඩුවේ තීන්දුව ප්‍රකාශ කිරීම ලබන ජූනි මස 12 වනදාට කල් තබනු ලැබීය.
+
+මහනුවර අතිරේක මහේස්ත්‍රාත් (01) අධිකරණයේදී අද 27 වන දින එම නඩුවේ  කැඳවූ අවස්ථාවේදී නඩුව තව දුරටත් පරිශීලනය කිරිමට අවශ්‍යව ඇති බැවින් තීන්දුව ප්‍රකාශ කිරිම කල් තබන බව මෙහිදී  සඳහන් වු අතර  නඩුවේ  තීන්දුව  ප්‍රකාශයට පත් කිරීම ලබන ජූනි මස 12 වනදා දක්වා කල් ලබනු ලැබීය.
+
+◼️
+
+[Data](articles/d1ce549a.json)
+
+---
+
 ### Warning on thunder and lightning impact on 15 districts
 
 *2024-03-27 15:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179826) · `ta`
@@ -567,6 +645,24 @@ She said she hopes that the HRCSL will look into her complaint and mete out just
 [Data](articles/6f06cf52.json)
 
 [Extended Data](ext_articles/6f06cf52.ext.json)
+
+---
+
+### පාවෙන වෙළඳ සංකීර්ණයට පණ දෙන්න ජපන් ආයෝජකයෙක්
+
+*2024-03-27 15:04:04* · [`adalk`](https://www.ada.lk/breaking_news/පාවෙන-වෙළඳ-සංකීර්ණයට-පණ-දෙන්න-ජපන්-ආයෝජකයෙක්/11-408828) · `si`
+
+පිටකොටුව පාවෙන වෙළඳ සංකීර්ණය  (Floating Market) යළි පණ ගන්වන්නට යයි. ඒ සඳහා ජපන් ආයෝජකයකු ඉදිරිපත්ව තිබේ.
+
+ඒ සඳහා වන මූලික අවබෝධතා ගිවිසුම අත්සන් කිරීම නාගරික සංවර්ධන අධිකාරියේ සභාපති නිමේෂ් හේරත් මහතා සහ ජපන් ආයෝජක අකිර හිරෝස් (Akira Hirose) මහතාගේ ප්‍රධානත්වයෙන් බත්තරමුල්ල, නාගරික සංවර්ධන අධිකාරීයේදී අද (27) දින සිදු කෙරුණි. ඒ අනුව පිටකොටුව පාවෙන වෙළඳ සංකීර්ණය කළමනාකරණය හා පවත්වාගෙන යාම මෙම ජපන් ආයෝජනය මඟින් සිදු කෙරේ.
+
+මෙම පාවෙන වෙළඳ සංකීර්ණය නිසියාකාරව නඩුත්තු නොවන බවට පසුගිය කාලය පුරාවට නාගරික සංවර්ධන අධිකාරියට විවිධ චෝදනා එල්ල විය. මේ පිළිබඳව අවධානය යොමු කළ විෂයභාර අමාත්‍ය ප්‍රසන්න රණතුංග මහතා නාගරික සංවර්ධන අධිකාරියට උපදෙස් ලබා දුන්නේ දැනට රටේ තිබෙන ආර්ථික ප්‍රශ්නත් සමඟ ආයතනයේ මුදල් යොදවා මෙය සංවර්ධනය කිරීමට අපහසු බැවින් මෙය රාජ්‍ය පෞද්ගලික හවුල්කාරිත්වය යටතේ හෝ සංවර්ධනය කිරීමට කටයුතු කරන ලෙසයි.
+
+නාගරික සංවර්ධන අධිකාරිය මේ සඳහා ආයෝජකයන්ට ඉදිරිපත් වන ලෙස ආරාධනය කළේය. මෙම ජපන් ආයෝජකයා ඉදිරිපත් වූයේ ඒ අනුවයි. පාවෙන වෙළඳ සංකීර්ණය සංවර්ධනය කෙරෙන්නේ ජපන් නගරය හා පාවෙන වෙළඳපොළ ලෙසයි.
+
+...
+
+[Data](articles/54c4a99f.json)
 
 ---
 
@@ -2215,117 +2311,5 @@ Health Trade Union Alliance Alliance, Co-convener of the UPFA Chanaka Dharmawick
 [Data](articles/d8849a0a.json)
 
 [Extended Data](ext_articles/d8849a0a.ext.json)
-
----
-
-### Two houses in Beruwala and Dehiwala for the Attorney General are informed to court
-
-*2024-03-27 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194980) · `si`
-
-The Attorney General has taken two luxury houses in Dehiwala and Beruwala into custody under the President's Prevention of Terrorism Act. Senior State Counsel Shaminda Wickrema argued that the houses were used for extremist activities, but President's Counsel Faiz Mustapha disputed this, claiming it was contrary to the law. The three-judge panel dismissed the petitions.
-
-🟩
-
-The Attorney General has revealed that the two luxury houses in Dehiwala and Beruwala areas have been taken into custody under the prevention of the President on the prevention of the President on the prevention of the President.
-
-Considered by Senior State Counsel Shaminda Wickrama, which was presented by the President's Supreme Court judges, the owners of those houses asking the appointment orders of Sri Lanka's decision to issue a three-member Supreme Court order orders.The fundamental rights files filed by the country was conditated.
-
-Senior State Counsel Shaminda Wickrema appearing on behalf of the Attorney General on the occasional information on the Passover Sunday, the police were conducting further investigations into the incident.It was said that the 'Dayarana' court report said.
-
-...
-
-[Data](articles/57ad8845.json)
-
-[Extended Data](ext_articles/57ad8845.ext.json)
-
----
-
-### Heavy showers expected in several provinces
-
-*2024-03-27 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/98226/heavy-showers-expected-in-several-provinces) · `en`
-
-The Department of Meteorology says atmospheric conditions are getting favorable for afternoon thundershowers in most parts of the island today (27).
-
-Showers or thundershowers will occur in most places of the island after 2.00 p.m.
-
-Heavy showers above 100 mm are likely at some places in Western, Sabaragamuwa, North-western and Central provinces.
-
-Several spells of showers may occur in Eastern, Uva and southern provinces in the morning too, it said.
-
-Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces and in Kalutara, Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/d71a4b9b.json)
-
-[Extended Data](ext_articles/d71a4b9b.ext.json)
-
----
-
-### Sri Lanka does not look at real effective exchange rate: CB Governor
-
-*2024-03-27 07:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-does-not-look-at-real-effective-exchange-rate-cb-governor-156227/) · `en`
-
-ECONOMYNEXT – Sri Lanka does not look at the real effective exchange rate, but allows the rupee to move on demand and supply, based on the flexible inflation targeting framework, Central Bank Governor Nandalal Weerasinghe said.
-
-Sri Lanka’s rupee had been allowed to appreciate from March 2023, amid deflationary monetary policy, in contrast to earlier stabilization programs, where the depreciated rupee has been prevented from strengthening despite and reserves were collected only at the depreciated rate.
-
-“We do not look at the real effective exchange rate,” Governor Weerasinghe said. “This is market driven, demand and supply.”
-
-“These days there is a lot of supply, as a result we have been building our position.”
-
-“The exchange rate is determined, mostly based on the market, short term demand and supply. And long term mainly on market fundamentals, current account deficit. And the long term is mainly market fundamentals, the current account deficit.
-
-...
-
-[Data](articles/d897dd49.json)
-
-[Extended Data](ext_articles/d897dd49.ext.json)
-
----
-
-### Nine new agreements in China - Sri Lanka
-
-*2024-03-27 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194979) · `si`
-
-Nine new agreements between China and Sri Lanka, under the leadership of Prime Ministers Lee Chwang and Dinesh Gunawardena, focus on social, cultural, education, agriculture, and economic cooperation, marking a new chapter in long-term partnership.
-
-🟩
-
-The agreements have been signed under the patronage of Prime Minister of Prime Minister Lee Chwang and Prime Minister Dinesh Gunawardena.
-
-Prime Minister Dinesh Gunawardena, Prime Minister Dinesh Gunawardena, has taken advance to war heroes in the Ranaviru Member of the Hairuwara.
-
-The bilateral discussions focused on the collaboration of social, cultural, education and agriculture in addition to economic and cooperation.
-
-The Prime Minister of the two countries have confirmed that nine Memorandum of Understanding (MoU) has confirmed a new chapter of long term and cooperation between Sri Lanka and China.
-
-◼️
-
-[Data](articles/033b0125.json)
-
-[Extended Data](ext_articles/033b0125.ext.json)
-
----
-
-### Skin treatment meds flooding Sri Lankan market as cosmetics has serious health hazards: NMRA
-
-*2024-03-27 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Skin-treatment-meds-flooding-Sri-Lankan-market-as-cosmetics-has-serious-health-hazards-NMRA/108-279677) · `en`
-
-Colombo, March 27 (Daily Mirror) - The National Medicines Regulatory Authority (NMRA) have made a startling recovery that recent flooding of unregistered skin treatment medicines found in the local market as cosmetics could have serious health hazards.
-
-The NMRA Food and Drugs Inspectors following several alerts of the College of Dermatologists searched several leading cosmetic shops in Colombo yesterday to find an unregistered skin treatment medicine being sold by them.
-
-A senior NMRA official told the Daily Mirror the cosmetic shop owners have said that they had purchased the goods from wholesale shops in the Pettah market.
-
-Following information, the officials had then raided two main wholesale dealers of cosmetic goods in Kathiresan Street and found over 470 such skin treatment medicines, which should be sold only with a prescription and not as a simple cosmetic.
-
-...
-
-[Data](articles/43c4ee1b.json)
-
-[Extended Data](ext_articles/43c4ee1b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 14:03:50**
+As of **2024-03-27 14:17:58**
 
 ## Newspaper Stats
 
-*Scraped **15,485** Articles*
+*Scraped **15,489** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,85 @@ islandlk | 854
 adalk | 1,319
 adaderanalk | 1,857
 tamilmirrorlk | 1,863
-virakesarilk | 2,186
+virakesarilk | 2,187
 dailymirrorlk | 2,390
-adaderanasinhalalk | 2,485
+adaderanasinhalalk | 2,488
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,484 (100.0%) of 15,485 articles have been extended.
+15,485 (100.0%) of 15,489 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### දුමින්ද, ළහිරු ඇතුළු තිදෙනා අප්‍රේල් දක්වා රිමාන්ඩ්
+
+*2024-03-27 14:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194993) · `si`
+
+දුමින්ද නාගමුව, ළහිරු වීරසේකර සහ රත්කරව්වේ ජිනරතන හිමි අප්‍රේල් මස 03 වනදා දක්වා යළිත් රක්ෂිත බන්ධනාගාරගත කිරීමට අධිකරණය නියෝග කළේය.
+
+ඒ සැකකරුවන් අද (27) කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුවය.
+
+පසුගිය 20 වනදා ජන අරගල ව්‍යාපාරය විසින් කොළඹ පැවැත්වූ විරෝධතාවය අතරතුර සැකකරුවන් අත්අඩංගුවට ගැනුණි.
+
+◼️
+
+[Data](articles/8d8bcd49.json)
+
+---
+
+### කාලගුණයෙන් බරපතළ අනතුරු ඇඟවීමක්
+
+*2024-03-27 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194992) · `si`
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුවෙන් ප්‍රබල අකුණු පිළිබඳව අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කර තිබේ.
+
+අද පස්වරු 1.30සිට රාත්‍රී 11.30දක්වා වලංගු වන පරිදි ඇම්බර් වර්ණයෙන් යුතුව මෙම අනතුරු ඇඟවීමේ නිවේදනය නිකුත් කර ඇත.
+
+ඒ  අනුව කාලගුණ විද්‍යා දෙපාර්තමේන්තුවේ සඳහන් කරන්නේ බස්නාහිර, මධ්‍යම, සබරගමුව, ඌව සහ වයඹ පළාත්වල සහ අනුරාධපුර, මන්නාරම, ගාල්ල සහ මාතර දිස්ත්‍රික්කවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන ගිගුරුම් සහිත වැසි සමග ප්‍රබල අකුණු ඇතිවීමේ වැඩි හැකියාවක් පවතින බවය.
+
+මේ හේතුවෙන් අකුණු මගින් සිදුවිය හැකි අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් වැඩිදුරටත් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/0d743eb5.json)
+
+---
+
+### සිඟමන් යදින දරුවෝ 30,000ක්
+
+*2024-03-27 13:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194991) · `si`
+
+දිවයින පුරා සිඟමන් යදින වීථි දරුවන් 20,000ත් - 30,000ත් අතර පිරිසක් සිටින බවට සමීක්ෂණයකින් අනාවරණය වී තිබේ.
+
+පේරාදෙණිය විශ්වවිද්‍යාලයේ සංඛ්‍යා හා දත්ත අධ්‍යයන අංශයේ ජ්‍යේෂ්ඨ මහාචාර්ය වසන්ත අතුකෝරාල මහතා පැවසුවේ, කොවිඩ් වසංගත තත්ත්වයත් සමඟ ඇතිවු ආර්ථික අර්බුදය හේතුවෙන් මෙම තත්ත්වයේ වර්ධනයක් පෙන්නුම් කරන බවය.
+
+දරුවන් සිඟමනේ යෙදවීම ව්‍යාපාරයක් බවට පත්ව ඇති බව මේ සම්බන්ධයෙන් "අද දෙරණ" සමඟ අදහස් දක්වමින් ජ්‍යේෂ්ඨ මහාචාර්ය වසන්ත අතුකෝරාල මහතා කියා සිටියේය.
+
+"අපි කරපු අධ්‍යයන තුළ පෙනී යනවා 2019 වනවිට 15,000කට ආසන්න ප්‍රමාණයක් මේ තුළ ඉන්නට පුළුවන් කියලා. 2019 පසුව පාස්කු ප්‍රහාරය, කොවිඩ් වසංගතය හා ආර්ථික අර්බුදය යන කාරණා නිසා මේ පිරිස 20,000ත් 30,000ත් අතර ප්‍රමාණයක් මේ තුළ ඉන්නට පුළුවන්. මෙහිදී විවිධ කාණ්ඩයේ දරුවන් ඉන්නවා. මොවුන් බොහෝවිට පූජනීය ස්ථානවල රැදෙනවා. ඒකට හේතුව පූජනීය ස්ථානවලට එන බැතිමතුන් ළමයෙක් දැක්කහම, ළමයෙක් ගේන දෙයක් දැක්කහම මිල දී ගන්න බලනවා. ඔවුන්ට යම් අනුග්‍රහයක් දක්වන්න කැමතියි. ඒ නිසා මේක ව්‍යාපාරයක් බවට පත්වෙලා තියෙන්නේ බොහෝ ප්‍රදේශවල..."
+
+...
+
+[Data](articles/64fa4e9c.json)
+
+---
+
+### ஒரு பாலினத் திருமண சட்டமூலம் தாய்லாந்து பாராளுமன்றத்தில் நிறைவேற்றம்
+
+*2024-03-27 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/179821) · `ta`
+
+ஒரு பாலினத் திருமணங்களை சட்டபூர்வமாக்கும் சட்டமூலத்துக்கு தாய்லாந்து பாராளுமன்ற கீழ் சபை இன்று அங்கீகாரம் வழங்கியது.
+
+இச்சட்டமூலம் அமலுக்கு வருவதற்கு பாராளுமன்றத்தின் செனட் சபையும் மன்னரும் அங்கீகாரம் வழங்க வேண்டும் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2b3b99d2.json)
+
+---
 
 ### Easter attacks: Petition against Nilantha Jayawardena fixed for consideration
 
@@ -124,21 +190,27 @@ The Minister said that the implementation of law against those responsible for t
 
 ---
 
-### හෙට දහවල් 2.00 පසු පලාත් කිහිපයකට තද වැසි
+### Heavy rains in several provinces after 2.00 pm tomorrow
 
 *2024-03-27 12:45:17* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-දහවල්-2-00-පසු-පලාත්-කිහිපයකට-තද-වැසි/11-408824) · `si`
 
-අද (27) දහවල් 12.00න් පසු කාලගුණ විද්‍ය දෙපාර්ථමේන්තුව විසින් නිකුත්කල කාලගුණ අනාවැකි ලෙස
+Heavy rains and thunder showers expected in Western, Sabaragamuwa, Southern, Central, Uva, North Western, and North Central Provinces tomorrow after 2.00 pm.
 
-බස්නාහිර, සබරගමුව, දකුණ, මධ්‍යම, ඌව, වයඹ සහ උතුරු මැද පළාත්වල ප.ව. 2.00 න් පමණ පසු වැසි
+🟩
 
-හෝ ගිගුරුම් සහිත වැසි ඇතිවේ. බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථාන වලට මි. මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැක.
+As the weather forecast issued by the Department of Meteorology after 12.00 pm today (27)
 
-නැ‌ගෙනහිර පළාත්වලටද  වැසි වාර කිහිපයක් ඇතිවිය හැකි බව ඔබුන් විසින් දන්වා ඇත.
+In the Western, Sabaragamuwa, Southern, Central, Uva, Uva, North Western and North Central Provinces. Showers after 2.00
+
+Or thunder showers. Some places in the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts. Mee. Heavy rains can occur at more than 75.
+
+They have informed that there will be a few showers in the East.
 
 ◼️
 
 [Data](articles/88fa49df.json)
+
+[Extended Data](ext_articles/88fa49df.ext.json)
 
 ---
 
@@ -2237,75 +2309,5 @@ Powered by top tier global brands including FBT, QSC, Harman, Electro-Voice, ITC
 [Data](articles/1c79dd4c.json)
 
 [Extended Data](ext_articles/1c79dd4c.ext.json)
-
----
-
-### Airless balloons and passionless employees
-
-*2024-03-27 00:57:41* · [`dailyftlk`](https://www.ft.lk/columns/Airless-balloons-and-passionless-employees/4-759969) · `en`
-
-When one respects the other person’s dream, both the employee and the employer align to one chord and that harmony creates passion and motivation in the working environment
-
-No company could ever drive to its full capacity unless the corporate dream and the personal dream of the employee partners together. One of the main reasons for employee turnover, known as churn rate, is because the employees realise that they cannot achieve their dreams with the company they are working for
-
-This series of articles on “Transformational Leadership Mindset” is penned by me, Dr. Philip Nehri based on the combined analytical thinking of both me and Gina Vangelli, my Australian business partner.
-
-Gina is an Australian entrepreneur who is also the author of the book “The Belief Factor”. She won a world championship in Karate for Australia, and she also became the Australian Apprentice of the Year.
-
-...
-
-[Data](articles/921b5eff.json)
-
-[Extended Data](ext_articles/921b5eff.ext.json)
-
----
-
-### Bridging the academic-practitioner gap
-
-*2024-03-27 00:55:57* · [`dailyftlk`](https://www.ft.lk/columns/Bridging-the-academic-practitioner-gap/4-759968) · `en`
-
-In unique and landmark research published in a Scopus Ranked, British based, Journal of Applied Research and Higher Education, Dr. Trevor Mendis has developed a C-index (Corporate index) for academics to bridge the academic-practitioner gap. This C-Index has been developed based on algorithms from the emerging model which is named as the “Pentagon Model”, from the outcome of the research.
-
-Dr. Trevor, who is a master strategist, pracademic and a distinguished alumni of PIM, is a Senior Management Consultant and a Member of the Board of Study, at the Postgraduate Institute of Management (PIM), University of Sri Jayewardenepura. Being a pracademic with over two decades of local and global exposure in the corporate sector at apex level and over one and half decades of local and global academic exposure in all facets, he is of the view that the C-index developed in this research will re-demarcate the landscapes of the academic sphere across the world.
-
-...
-
-[Data](articles/b28fe976.json)
-
-[Extended Data](ext_articles/b28fe976.ext.json)
-
----
-
-### The 1989 war against India by JVP’s militant arm DJV
-
-*2024-03-27 00:49:25* · [`dailyftlk`](https://www.ft.lk/columns/The-1989-war-against-India-by-JVP-s-militant-arm-DJV/4-759967) · `en`
-
-In 1989 Kumar Gunaratnam operating under the nom de guerre “Gemunu” led the JVP/DJV against the Indian army in the Trincomalee District. Under his command, the DJV-JVP in Trinco accomplished a few military strikes against the Indian Army but these incidents did not gain much publicity due to the concerted efforts of the Sri Lankan and Indian authorities to deliberately suppress information. They did not want the JVP to gain publicity and political credit through these operations. Besides most incidents of that nature in Trincomalee were believed to have been committed by the Tigers then. Although the mass media of the day have not publicised this phase, there is some important material available in books, monographs and research papers
-
-...
-
-[Data](articles/fcdd6bc1.json)
-
-[Extended Data](ext_articles/fcdd6bc1.ext.json)
-
----
-
-### New liver care facility of Ragama Teaching Hospital inaugurated
-
-*2024-03-27 00:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98224/new-liver-care-facility-of-ragama-teaching-hospital-inaugurated) · `en`
-
-The ‘M. H. Omar Liver Care Facility’ at the Centre for Liver Diseases in Colombo North Teaching Hospital, Ragama was inaugurated by President Ranil Wickremesinghe on Tuesday (March 26).
-
-Made possible by the generous donation worth Rs. 2.5 billion from the M. H. Omar Foundation, this state-of-the-art facility stands as a beacon of hope for those battling liver ailments, marking a pinnacle of healthcare excellence and philanthropy.
-
-Chronic liver disease is increasingly prevalent among both children and adults in Sri Lanka, with liver transplantation being the sole effective treatment for liver failure. Addressing these complex liver ailments necessitates specialized, expertise and costly equipment.
-
-The North Colombo Centre for Liver Diseases serves as a postgraduate training centre and conducts top-tier research in liver diseases, maintaining Sri Lanka’s largest database of liver cancer treatments.
-
-...
-
-[Data](articles/2f2b1753.json)
-
-[Extended Data](ext_articles/2f2b1753.ext.json)
 
 ---

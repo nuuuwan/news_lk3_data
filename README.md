@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 02:17:56**
+As of **2024-03-28 02:33:40**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 2,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,592 (100.0%) of 15,593 articles have been extended.
+15,593 (100.0%) of 15,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### திருக்கோவில் ஆதார வைத்தியசாலை வைத்தியர்களின் பணிப்புறக்கணிப்பு போராட்டம் 15 நாளின் பின்னர் கைவிடப்பட்டுள்ளது
+### The workplace of the hospital doctors in Tirukovil has been abandoned after 15 days
 
 *2024-03-28 02:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/179853) · `ta`
 
-திருக்கோவில் ஆதார வைத்தியசாலை வைத்தியர்களின் 15 நாட்கள்  இடம்பெற்ற பணிப்புறக்கணிப்பு போராட்டம் புதன்கிழமை (27) முடிவுக்கு கொண்டு வந்துள்ளதாகவும்  4 மணி தொடக்கம் அவசர சிகிச்சை பிரிவு ஆரம்பமாகவுள்ளதுடன் ஏனைய பிரிவுகள்  வியாழக்கிழமை (28) வழமைக்கு திரும்பவுள்ளதாக வைத்தியசாலை பணிப்பாளர் தெரிவித்தார்.
+The 15 -day workshop, which was held on Wednesday (27) in Tirukovil, has come to an end on Wednesday (27).
 
-கடந்த திங்கட்கிழமை (11) ம் திகதி திருக்கோவில் மெதடிஸ்த மாகா வித்தியாலயத்தின் வருடாந்த இல்ல விளையாட்டு போட்டியை முன்னிட்டு இடம்பெற்ற மரதன் ஓட்டப் போட்டியில் பங்குபற்றிய திருக்கோவில் 3 ம் பிரிவு துரையப்பா வீதியைச் சேர்ந்த 16 வயதுடைய ஜெயக்குமார் விதுர்ஜன்; என்ற மாணவன் மயங்கிவீழந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் மேலதிக சிகிச்சைக்காக அக்கரைப்பற்று ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்ட சிகிச்சை பலனின்றி உயிரிழந்தார்.
+16 -year -old Jayakumar Vidurjan from Duraiyappa Road, 3rd Duraiyappa Road, Tirukovil, who participated in the Marathon race held at the Methodist Maga Vidyalaya at the Methodist Maga Vidyalaya in Tirukovil on Monday (11).The student was admitted to the hospital after she was admitted to the hospital for further treatment.
+
+Following the incident, a public gathering in front of the hospital alleged that the student had died as a matter of concern at the Tirukovil Hospital, and several mirrors of the building broke into the hospital and broke the hospital's name board.
+
+Subsequently, the doctors of the hospital, Nintavur, Samanthurai Akkaraipattu hospital doctors on Tuesday, in support of them in support of the workplace on the 12th of last month.They engaged in a struggle boycott.
 
 ...
 
 [Data](articles/a6285f52.json)
+
+[Extended Data](ext_articles/a6285f52.ext.json)
 
 ---
 

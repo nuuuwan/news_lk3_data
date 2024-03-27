@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 03:03:10**
+As of **2024-03-28 03:17:54**
 
 ## Newspaper Stats
 
-*Scraped **15,593** Articles*
+*Scraped **15,594** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 849
 islandlk | 854
 adalk | 1,333
 adaderanalk | 1,871
-tamilmirrorlk | 1,872
+tamilmirrorlk | 1,873
 virakesarilk | 2,206
 dailymirrorlk | 2,407
 adaderanasinhalalk | 2,503
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,593 (100.0%) of 15,593 articles have been extended.
+15,593 (100.0%) of 15,594 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### அரிசி, வெங்காயத்திற்கான வரி குறைப்பு
+
+*2024-03-28 02:50:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-வெங்காயத்திற்கான-வரி-குறைப்பு/175-335287) · `ta`
+
+அரிசி மற்றும் பெரிய வெங்காயத்திற்கான விசேட பண்ட வரி இன்று முதல் குறைக்கப்படவுள்ளதாக நிதியமைச்சு அறிவித்துள்ளது.
+
+அதன்படி ஒரு கிலோ கிராம் அரிசிக்கு 65 ரூபாவாக இருந்த விசேட பண்ட வரி நேற்று  முதல் எதிர்வரும் ஏப்ரல் மாதம் 03 ஆம் திகதி வரை ஒரு ரூபாவாக குறைக்கப்பட்டுள்ளது.
+
+அத்துடன் பெரிய வெங்காயத்தின் இறக்குமதிக்கான வரி 2024 ஆம் ஆண்டு ஏப்ரல் மாதம் 30 ஆம் திகதி வரை கிலோ கிராம் ஒன்றுக்கு 10 ரூபாவாக குறைக்கப்பட்டுள்ளதாக நிதியமைச்சு அறிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/f7dacbf3.json)
+
+---
 
 ### The workplace of the hospital doctors in Tirukovil has been abandoned after 15 days
 
@@ -2229,25 +2245,5 @@ The Chairman of the National Child Professor, Professor Udaya Amarasinghe said t
 [Data](articles/64fa4e9c.json)
 
 [Extended Data](ext_articles/64fa4e9c.ext.json)
-
----
-
-### A Gender Marriage Bill is passed in Parliament in Thailand
-
-*2024-03-27 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/179821) · `ta`
-
-Thailand's Parliament passed a Gender Marriage Bill, requiring Senate and King's approval for enactment.
-
-🟩
-
-The House of Parliament today approved the legalization of a gender marriages.
-
-It is noteworthy that the Senate and the King of Parliament should be approved by the Parliament to come into effect.
-
-◼️
-
-[Data](articles/2b3b99d2.json)
-
-[Extended Data](ext_articles/2b3b99d2.ext.json)
 
 ---

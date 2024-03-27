@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 15:34:07**
+As of **2024-03-27 15:51:49**
 
 ## Newspaper Stats
 
-*Scraped **15,496** Articles*
+*Scraped **15,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 836
 islandlk | 854
 adalk | 1,321
 adaderanalk | 1,859
-tamilmirrorlk | 1,864
+tamilmirrorlk | 1,865
 virakesarilk | 2,188
-dailymirrorlk | 2,390
+dailymirrorlk | 2,391
 adaderanasinhalalk | 2,489
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,495 (100.0%) of 15,496 articles have been extended.
+15,496 (100.0%) of 15,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### மாணவிக்கு வித்தியாசமாக வடிவமைத்த தாத்தா
+
+*2024-03-27 15:33:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவிக்கு-வித்தியாசமாக-வடிவமைத்த-தாத்தா/175-335266) · `ta`
+
+பேஷன் டிசைனிங் தொடர்பில் பட்டப்படிப்பை மேற்கொள்ளும் பல்கலைக்கழக மாணவி (வயது 23)  தனக்குத் தேவையான பயிற்சியை பொற்றுக்கொள்வதற்காக, பத்திக் கைத்தொழிற்சாலைக்கு சென்றிருந்த போது அங்கிருந்த 80 வயதானவர் கேட்டுக்கொண்டதற்கு இணங்க, ஒருபிடி சோற்றை, ஊட்டி விட்டுள்ளார். அப்போது, அப்பெண்ணை பாலியல் துன்புறுத்தலுக்கு உட்படுத்த அந்த முதியவர் முயன்றுள்ள சம்பவமொன்று இடம்பெற்றுள்ளது.
+
+முதியவரின் பிடிக்குள் சிக்கிக்கொள்ளாத அப்பெண், அங்கிருந்து தப்பியோடிவந்து, தன்னுடைய காதலனுடன் வந்து முறைப்பாடு செய்துள்ளார் என்று பிலியந்தலை பொலிஸார் தெரிவித்தனர்.
+
+தகவல்களை பெற்றுக்கொள்வதற்காக, அந்த பத்திக் கைத்தொழிற்சாலைக்கு அந்த யுவதி, பல தடவைகள் சென்றுள்ளார் என்பதும் எனினும், தகவல்களை பெற்றுக்கொள்ளாது திரும்பியுள்ளார் என்பதும் விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+
+...
+
+[Data](articles/7a7a7f31.json)
+
+---
 
 ### Duminda Nagamuwa and Lahiru Weerasekara further remanded
 
@@ -47,6 +63,26 @@ Police had resorted to using tear gas and water cannons to disperse the proteste
 ◼️
 
 [Data](articles/1a9622e9.json)
+
+[Extended Data](ext_articles/1a9622e9.ext.json)
+
+---
+
+### Keheliya’s daughter complains to HRCSL over father’s arrest
+
+*2024-03-27 15:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Keheliyas-daughter-complains-to-HRCSL-over-fathers-arrest/108-279723) · `en`
+
+Colombo, March 27 (Daily Mirror)- Former Health Minister Keheliya Rambukwella's daughter Chamithri Rambukwella lodged a complaint with the Human Rights Commission of Sri Lanka (HRCSL) today claiming that her father's human rights have been violated due to his arbitrary arrest.
+
+She told reporters outside the HRCSL that according to the legal principle of presumption of innocence, any person accused of any crime is considered innocent until proven guilty.
+
+She said in normal practice, suspects are arrested only after concluding the investigations.
+
+She said she hopes that the HRCSL will look into her complaint and mete out justice.
+
+◼️
+
+[Data](articles/6f06cf52.json)
 
 ---
 
@@ -2293,39 +2329,5 @@ The Richard Pieris Group, led by visionary leader Dr. Sena Yaddehige, has evolve
 [Data](articles/7a9a9459.json)
 
 [Extended Data](ext_articles/7a9a9459.ext.json)
-
----
-
-### NEO celebrates fifth anniversary with well-wishers at new office
-
-*2024-03-27 02:20:41* · [`dailyftlk`](https://www.ft.lk/business/NEO-celebrates-fifth-anniversary-with-well-wishers-at-new-office/34-760001) · `en`
-
-NEO the unique boutique security company celebrated its fifth year anniversary by shifting to a new office. Many distinguished Guest including Retired Justice Buwaneka Aluwihare, General Milinda Peiris, General Prasad Samarasinghe, Col Manoj Peiris, Major Vijith Welikala, Major Sajith Wijekoon graced the occasion. After the religious ceremony, Rtd Major Tissa Aluwihare addressed the gathering and described how he handed over the company along with shares to the loyal staff and mentioned that he gained great satisfaction seeing his staff evolving into empowered entrepreneurs. Chief Operating Officer Sajeewanie Gamage addressed the gathering and gave a vote of thanks.
-
-◼️
-
-[Data](articles/5deef612.json)
-
-[Extended Data](ext_articles/5deef612.ext.json)
-
----
-
-### Event Management Association elects new team
-
-*2024-03-27 02:18:43* · [`dailyftlk`](https://www.ft.lk/business/Event-Management-Association-elects-new-team/34-760000) · `en`
-
-From left: Janice Hakel Ranasinghe, R. Abaysinghe, Kosala Sureshchandra, Bathiya Jayakody, Asst. Secretary Uzmaan Ghouse, Secretary Saliya Weerasekara, Vice President Kamesh Malwana, President Nisal Caldera, Advisory Council Member Gerry Jayasinghe, Advisory Council Member Nishan Wasalathanthri, Treasurer Gayan Attanayake, Asst. Treasurer Azmath Jahn, Mahesh Primithilal, Romesh Fernando, Charmanie De Silva.
-
-Absent: Vice President Sajith Kodikara, Kapila Pieris, Advisory Council Member Roshan Wijeyaratne
-
-Renews commitment to enhance professional standards and set industry benchmarks
-
-The Event Management Association (EMA), the only professional industry body in Sri Lanka for event management, with a membership of over 50, sheds light on the often unseen, yet crucial role that professional event managers play in creating and delivering successful events and fostering a thriving industry within the country and the region.
-
-...
-
-[Data](articles/eb67a1c2.json)
-
-[Extended Data](ext_articles/eb67a1c2.ext.json)
 
 ---

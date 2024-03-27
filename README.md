@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 14:51:10**
+As of **2024-03-27 15:03:12**
 
 ## Newspaper Stats
 
-*Scraped **15,490** Articles*
+*Scraped **15,492** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 835
 economynextcom | 836
 islandlk | 854
-adalk | 1,319
+adalk | 1,321
 adaderanalk | 1,858
 tamilmirrorlk | 1,863
 virakesarilk | 2,187
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,488
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,490 (100.0%) of 15,490 articles have been extended.
+15,490 (100.0%) of 15,492 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### ශබ්ද දූෂණයට එරෙහි නව නීති ගෙනෙයි
+
+*2024-03-27 14:45:42* · [`adalk`](https://www.ada.lk/breaking_news/ශබ්ද-දූෂණයට-එරෙහි-නව-නීති-ගෙනෙයි/11-408826) · `si`
+
+ශ්‍රී ලංකාවේ ශබ්ද දුෂණය පිළිබදව පවතින නීති හා රෙගුලාසි සමාලෝචනය කර වාර්තාවක් ඉදිරිපත් කිරීම සදහා අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය, ජනාධිපති නීතිඥ, ආචාර්ය විජයදාස රාජපක්ෂ මහතා විසින් පත් කළ කමිටුවේ  වාර්තාව එහි සභාපති ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මහින්ද සමයවර්ධන මහතා විසින් අධිකරණ අමාත්‍යතුමා වෙත භාරදීම ඊයේ පස්වරුවේ (26) අධිකරණ අමාත්‍යාංශයේදී සිදු විණි.
+
+මාස දෙකක් තුළ වාර්තාව සකස් කර  ඇති අතර, ඒ අනුව කමිටුව විසින් ශබ්ද දූෂණය පිළිබඳ ජාත්‍යන්තර ප්‍රමිතීන් හොඳින් විශ්ලේෂණය කරමින් ශ්‍රී ලංකාවේ පවතින ශබ්ද දූෂණය පිළිබඳ නීතිමය රාමුවට වෙනස්කම් කිහිපයක් යෝජනා කර තිබේ.
+
+...
+
+[Data](articles/fbc596af.json)
+
+---
 
 ### Rajiv Gandhi assassination case: Three convicts to be deported to Sri Lanka in a week
 
@@ -139,6 +153,28 @@ It is noteworthy that the Senate and the King of Parliament should be approved b
 [Data](articles/2b3b99d2.json)
 
 [Extended Data](ext_articles/2b3b99d2.ext.json)
+
+---
+
+### කොස්ලන්ද  මීරියබැද්ද පැරණි නාය යාම යලි සක්‍රීය වෙයි
+
+*2024-03-27 13:19:14* · [`adalk`](https://www.ada.lk/breaking_news/කොස්ලන්ද--මීරියබැද්ද-පැරණි-නාය-යාම-යලි-සක්‍රීය-වෙයි/11-408825) · `si`
+
+කොස්ලන්ද  මීරියබැද්ද පැරණි නාය යාම අද 27 අලුයම සිට නැවත  සක්‍රිය වී ඇතැයි බදුල්ල ආපදා කළමනාකරණ මධ්‍යස්ථානය පැවසීය.
+
+කොස්ලන්ද මීරියබැද්ද අංක 14 සහ අංක 15 ලයිම් පේලි නිවාස  දෙකට ඉහළ කන්ද කොටස මෙසේ නායාම නැවත සක්‍රීය  වී තිබෙන බවද එම මධ්‍යස්ථානය පැවසීය.
+
+ජාතික   ගොඩනැගිලි පර්යේෂණ ආයතනය එම ප්‍රදේශයේ කළ නිරීක්ෂණයකින් පසුව මෙම ස්ථානය මිනිසුන්ට පදිංචිව සිටීමට නුසුදුසු ස්ථානයක් ලෙස දැනටමත් නම් කර තිබේ.
+
+ශ්‍රී ලංකාවේ විශාලතම නායා යාමක්  ලෙස මීරියබැද්ද  නාය යාම මීට වසර 10 කට පෙර  සිදුවිය.
+
+මේ දිනවල පවතින  අධික වර්ෂාවත් සමග මෙම නාය යාම නැවත  සක්‍රියවී තිබේ.
+
+මේ වන විටත් මෙම ලයින්කාමරවල පදිංචි පිරිස් තාවකාලික කඳවුරක රඳවා තිබෙන බවද හල්දුම්මුල්ල ප්‍රාදේශ ලේකම් කාර්යාලය පැවසීය.
+
+◼️
+
+[Data](articles/8b53e154.json)
 
 ---
 
@@ -2283,57 +2319,5 @@ Opposition Leader Sajith Premadasa, I was visited by a school in the Homagama co
 [Data](articles/c36ab2cd.json)
 
 [Extended Data](ext_articles/c36ab2cd.ext.json)
-
----
-
-### Climate change impacts severely impede SDGs, says ADB–UN report
-
-*2024-03-27 01:50:12* · [`dailyftlk`](https://www.ft.lk/opinion/Climate-change-impacts-severely-impede-SDGs-says-ADBUN-report/14-759991) · `en`
-
-The impacts of climate change, including slow and sudden onset weather events, are reducing the ability of countries to meet their Sustainable Development Goals (SDGs), according to a report released today by the Asian Development Bank (ADB), United Nations Economic and Social Commission for Asia and the Pacific (ESCAP), and United Nations Development Program (UNDP).
-
-“The Asia and Pacific region has made steady progress in increasing food security, reducing the prevalence of malnutrition, and making improvements in health and well-being,” said ADB Managing Director General Woochong Um. “However, further gains are being hampered by multiple crises, including the increasing effects of climate change, the lingering impacts of the COVID-19 pandemic, and the cost-of-living crisis.”
-
-...
-
-[Data](articles/49730307.json)
-
-[Extended Data](ext_articles/49730307.ext.json)
-
----
-
-### Madras tasted the second direct victory by defeating Gujarat
-
-*2024-03-27 01:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/179784) · `ta`
-
-Madras secured its 2nd victory by defeating Gujarat in the 7th IPL match at Chidambaram Stadium. Chennai Super Kings scored 206/6 in 20 overs, with Ruthuraj Gai Kaikwad and Rachin Ravindra sharing 62 runs. Gujarat Giants lost by 8 wickets, scoring 143 runs in 20 overs.
-
-🟩
-
-Chennai, Chepakkam MA. In the 7th match of the 17th Indian Premier League held at the Chidambaram Stadium on Tuesday (26), the current champion Chennai Super Kings, who beat Gujarat by 63 runs, tasted its 2nd direct victory this year.
-
-In the match, Chennai Super Kings, who were first invited to bat, scored 206 runs for the loss of 6 wickets in 20 overs.
-
-Team captain Ruthuraj Gai Kaikwad and Rachin Ravindra shared 62 runs off 32 balls.
-
-Rachin Ravindra faced 20 balls and scored 46 runs, including 6 sixes and 3 earthquakes.
-
-Although Ajinkia Rahane scored only 12 runs, Rutraj shared 42 runs with Gaygwat in the 2nd wicket.
-
-Rutraj Kaikwad lost 46 runs after Rahane. (127 - 3 wig.)
-
-Shivam Dubey and Tryl Michelle then shared 57 runs in the fourth wicket.
-
-Shivam Dubey faced only 23 balls and scored 51 runs with 5 sixes and 2 pounds.
-
-Sameer Rizvi (14) and Ravindra Jadeja (7) lost the game with low number.
-
-Gujarat Giants lost by 8 wickets in 20 overs and lost 143 runs.
-
-...
-
-[Data](articles/edc5721e.json)
-
-[Extended Data](ext_articles/edc5721e.ext.json)
 
 ---

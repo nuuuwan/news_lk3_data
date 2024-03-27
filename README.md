@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 18:33:50**
+As of **2024-03-27 18:51:47**
 
 ## Newspaper Stats
 
-*Scraped **15,537** Articles*
+*Scraped **15,540** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,40 @@ adalk | 1,327
 adaderanalk | 1,867
 tamilmirrorlk | 1,868
 virakesarilk | 2,195
-dailymirrorlk | 2,396
+dailymirrorlk | 2,399
 adaderanasinhalalk | 2,498
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,537 (100.0%) of 15,537 articles have been extended.
+15,537 (100.0%) of 15,540 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### STF arrest international drug smuggler in Nuwara Eliya
+
+*2024-03-27 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/STF-arrest-international-drug-smuggler-in-Nuwara-Eliya/108-279732) · `en`
+
+Kahanavitage Don Nandasena, an international drug smuggler was arrested by the Police Special Task Force (STF) while hiding in Nuwara Eliya.
+
+Police said the suspect was arrested during a special operation conducted under the instructions of STF Commandant Senior DIG Waruna Jayasundara under the Yukthiya operation.
+
+Investigations have revealed that the suspect is the main trafficker who had brought 9 kgs of ice or methamphetamine into Sri Lanka which was siezed by the Special Task Force officers in Kiribathgoda and Katunayake police areas on March 2, 2024.
+
+Police said his brother known as  'Bandu', is also a large-scale drug trafficker.
+
+The arrested trafficker had returned to Sri Lanka on 29.02.2024 from hiding in India and was arrested by the Special Task Force while hiding in Nuwara Eliya with his second wife.
+
+Meanwhile. Investigations related to the two large houses owned by the suspect in Wattala and Ganemulla areas have been started by the Criminal Investigation Department.
+
+◼️
+
+[Data](articles/8ff388c2.json)
+
+---
 
 ### Berlin in Germany - Zurich bus accident
 
@@ -323,6 +345,18 @@ The National Student Parliament comprises two representatives elected from each 
 [Data](articles/2b81f94b.json)
 
 [Extended Data](ext_articles/2b81f94b.ext.json)
+
+---
+
+### For Muslims engaged in Ramadan fast
+
+*2024-03-27 16:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/For-Muslims-engaged-in-Ramadan-fast/110-279726) · `en`
+
+The Azath Salley Foundation today donated 1,000 bags of dry rations to Muslims in Sri Lanka. These bags were given to Muslims who are engaged in the Ramadan fasting. Pix by Pradeep Pathirana.
+
+◼️
+
+[Data](articles/a251e2a1.json)
 
 ---
 
@@ -891,6 +925,20 @@ She said she hopes that the HRCSL will look into her complaint and mete out just
 [Data](articles/6f06cf52.json)
 
 [Extended Data](ext_articles/6f06cf52.ext.json)
+
+---
+
+### School athletics champions meet Education Minister
+
+*2024-03-27 15:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/School-athletics-champions-meet-Education-Minister/110-279731) · `en`
+
+Tarushi Abhishekah and Himansi Dulanjana Pradipani, students who broke the previous records in the 800m and 1,500m events in the under-16 athletics category, met Education Minister Susil Premajayantha today.
+
+The Skills College of Technology (SCOT) agreed to take the responsibility and financial support of providing the necessary training, nutritional needs, medical facilities as well as international competition opportunities for these students. SCOT presenting the relevant promisory certificates to the Minister.
+
+◼️
+
+[Data](articles/fc04c76a.json)
 
 ---
 
@@ -2235,69 +2283,5 @@ Prime Minister Gunawardena thanked China for supporting Sri Lanka's independence
 [Data](articles/05954760.json)
 
 [Extended Data](ext_articles/05954760.ext.json)
-
----
-
-### Sri Lanka rupee opens at 301.00/20 to the US dollar
-
-*2024-03-27 10:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-301-00-20-to-the-us-dollar-156247/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 301.00/20 to the US dollar in the spot forex market on Wednesday, stronger from 301.90/302.00 on Tuesday, dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 was quoted at 11.25/35 percent from 11.30/40 percent.
-
-A bond maturing on 15.12.2028 was quoted at 12.05/10 percent from 12.10/15 percent.
-
-The Colombo Stock Exchange opened up: The All Share Price Index was up 0.81 percent at 11,427, and the S&P SL20 was up 1.09 percent at 3,298. (Colombo/Mar27/2024)
-
-◼️
-
-[Data](articles/00f248ba.json)
-
-[Extended Data](ext_articles/00f248ba.ext.json)
-
----
-
-### Underworld groups that scare tourists
-
-*2024-03-27 09:59:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுற்றுலா-பயணிகளை-பயமுறுத்தும்-பாதாள-குழுக்கள்/175-335242) · `ta`
-
-Tourists in southern Sri Lanka shocked by underworld violence in Ahungalla, Kosgoda, Ratgama, and Hikkaduwa. Police chief Tennakoon emphasizes the need for law and order to attract visitors.
-
-🟩
-
-Tourists are shocked by the firing of underworld groups in the southern province, police chief patriot Tennakoon said.
-
-Tourists are shocked by organized crimes in Ahungalla, Kosgoda, Ratgama and Hikkaduwa areas, especially in the southern coast of Bendra.
-
-People in countries like Europe want to live peacefully. They come here and are shocked to see the shooting sound.
-
-No more people would like to come here. Therefore, it is very important to maintain law and order and create a favorable environment for tourists. ”
-
-◼️
-
-[Data](articles/a650b7e6.json)
-
-[Extended Data](ext_articles/a650b7e6.ext.json)
-
----
-
-### Six presumed dead after Colombo-bound ship collides with Baltimore bridge
-
-*2024-03-27 09:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98230/six-presumed-dead-after-colombo-bound-ship-collides-with-baltimore-bridge) · `en`
-
-A cargo ship lost power and rammed into a major bridge in Baltimore, USA early Tuesday, destroying the span in a matter of seconds and plunging it into the river in a terrifying collapse that could disrupt a vital shipping port for months. Six people were missing and presumed dead, and the search for them was suspended until Wednesday morning.
-
-The ship’s crew issued a mayday call moments before the crash took down the Francis Scott Key Bridge, enabling authorities to limit vehicle traffic on the span, Maryland’s governor said.
-
-As the vessel neared the bridge, puffs of black smoke could be seen as the lights flickered on and off. It struck one of the bridge’s supports, causing the structure to collapse like a toy, and a section of the span came to rest on the bow.
-
-With the ship barreling toward the bridge at “a very, very rapid speed,” authorities had just enough time to stop cars from coming over the bridge, Maryland Gov. Wes Moore said.
-
-...
-
-[Data](articles/6cc89818.json)
-
-[Extended Data](ext_articles/6cc89818.ext.json)
 
 ---

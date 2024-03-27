@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 20:33:28**
+As of **2024-03-27 20:51:19**
 
 ## Newspaper Stats
 
-*Scraped **15,546** Articles*
+*Scraped **15,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,51 @@ adaderanalk | 1,868
 tamilmirrorlk | 1,870
 virakesarilk | 2,196
 dailymirrorlk | 2,400
-adaderanasinhalalk | 2,499
+adaderanasinhalalk | 2,500
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,545 (100.0%) of 15,546 articles have been extended.
+15,546 (100.0%) of 15,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### SLPP கட்சியின் தேசிய அமைப்பாளரானார் நாமல்
+### සහල් සහ ලූනු බදු අඩු කෙරේ
+
+*2024-03-27 20:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195007) · `si`
+
+සහල් කිලෝවක් සඳහා රුපියල් 65ක විශේෂ වෙළෙඳ භාණ්ඩ බද්ද අද (27) සිට අප්‍රේල් 03 වනදා දක්වා රුපියලක් දක්වා අඩු කර තිබේ.
+
+ලොකු ලූනු (රෝස ලූනු) ආනයනය සඳහා ද එම බද්ද 2024 අප්‍රේල් 30 දක්වා කිලෝවක් සඳහා රුපියල් 10ක් දක්වා අඩු කර ඇති බව මුදල් අමාත්‍යාංශය නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/1bb5dc40.json)
+
+---
+
+### Namal became the national organizer of the SLPP party
 
 *2024-03-27 20:10:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SLPP-கட்சியின்-தேசிய-அமைப்பாளரானார்-நாமல்/175-335272) · `ta`
 
-அக்கட்சியின் நிறைவேற்று சபை கூட்டம் இன்று பிற்பகல் கொழும்பு விஜேராம மாவத்தையில் உள்ள முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் உத்தியோகபூர்வ இல்லத்தில் நடைபெற்றது.
+Namal is now the national organizer of the SLPP, succeeding Basil Rajapaksa. The meeting was held at Mahinda Rajapaksa's residence in Colombo.
 
-இந்த கூட்டத்தின் பின்னர் ஊடகங்களுக்கு கருத்து தெரிவித்த இராஜாங்க அமைச்சர் டி.வி.சானக்க இதை தெரிவித்தார்.
+🟩
 
-முன்னதாக, ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளராக முன்னாள் அமைச்சர் பசில் ராஜபக்ச பதவி வகித்தமை குறிப்பிடத்தக்கது. R
+The executive council meeting of the party was held this afternoon at the official residence of former President Mahinda Rajapaksa in Wijerama Mawatha, Colombo.
+
+State Minister DV Sanaka said this to the media after the meeting.
+
+Earlier, former Minister Basil Rajapaksa was the national organizer of the Sri Lanka PA. Remble
 
 ◼️
 
 [Data](articles/b9f20f92.json)
+
+[Extended Data](ext_articles/b9f20f92.ext.json)
 
 ---
 
@@ -2279,23 +2299,5 @@ The hospital comprises 640 beds, six operating theatres, emergency units, intens
 [Data](articles/5586e70a.json)
 
 [Extended Data](ext_articles/5586e70a.ext.json)
-
----
-
-### New Women’s Hospital in Karapitiya declared open
-
-*2024-03-27 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98231/new-womens-hospital-in-karapitiya-declared-open) · `en`
-
-The German-Sri Lanka Friendship New Women’s Hospital in Karapitiya, Galle was inaugurated by President Ranil Wickremesinghe on Wednesday morning (March 27).
-
-Boasting a total of 640 beds, six operating theatres, emergency units, intensive care, paediatric units and modern facilities, it marks a significant advancement in SL’s healthcare, the President’s Media Division (PMD) said.
-
-It is understood that this facility is the largest maternity hospital not only in Sri Lanka but also in South Asia.
-
-◼️
-
-[Data](articles/0ae235cb.json)
-
-[Extended Data](ext_articles/0ae235cb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 21:52:55**
+As of **2024-03-27 22:06:05**
 
 ## Newspaper Stats
 
-*Scraped **15,559** Articles*
+*Scraped **15,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,66 +15,106 @@ newsfirstlk | 363
 dailyftlk | 835
 economynextcom | 836
 islandlk | 854
-adalk | 1,332
+adalk | 1,333
 adaderanalk | 1,869
 tamilmirrorlk | 1,870
 virakesarilk | 2,198
-dailymirrorlk | 2,402
+dailymirrorlk | 2,403
 adaderanasinhalalk | 2,502
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,556 (100.0%) of 15,559 articles have been extended.
+15,559 (100.0%) of 15,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### නිවසක් තුළ කාන්තා සිරුරක්
+### A woman's body in a house
 
 *2024-03-27 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195009) · `si`
 
-කඩුවෙල කොතලාවල ප්‍රදේශයේ නිවසක් තුළ තිබී අද (27) දහවල් කාන්තා මළසිරුරක් සොයාගෙන තිබේ.
+In Kotelawala, Kaduwela, a 54-year-old woman's body was found with blood spots. Her relatives claim she's missing, and two suspects are in custody.
 
-කාන්තාව මියගොස් සිටි ස්ථානය අවට ලේ පැල්ලම් කිහිපයක්ම දක්නට ඇති බව පොලීසිය සඳහන් කළේය.
+🟩
 
-ඇය සාමාන්‍යයෙන් පැළඳ සිටින රන් ආභරණ ඇයගේ ශරීරයේ නොමැති බව ඥාතීන් විසින් පවසා ඇති බැවින් මෙය ඝාතනයක් බවට සැකකරන බවද පොලීසිය පැවසීය.
+A bodies of women have been found in a house in Kotelawala, Kaduwela today (27).
 
-මෙලෙස මියගොස් ඇත්තේ කඩුවෙල කොතලාවල ප්‍රදේශයේ පදිංචි 54 හැවිරිදි දෙදරු මවක් වන අතර ඇයගේ දියණිය හා පුත්‍රයා රැකියාවට ගොස් සිටි අතරවාරයේ මෙය සිදුවී ඇති බව පැවසෙයි.
+The police said that several blood spots on the place where the woman was dead.
+
+The relatives have said that the relatives have stated that she is usually not in her body that they are not in her body.
+
+The deceased is a 54 year old mother of two two-year-old two suspects in Kotelawala, Kaduwela and her daughter and son had taken place.
 
 ◼️
 
 [Data](articles/89a3212a.json)
 
+[Extended Data](ext_articles/89a3212a.ext.json)
+
 ---
 
-### செயற்கை நுண்ணறிவு தொழில்நுட்பத்தை மையப்படுத்தி உருவாகும் 'இரவின் கண்கள்'
+### Nearly 30,000 underage street children begging around the country: Study reveals
+
+*2024-03-27 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nearly-30-000-underage-street-children-begging-around-the-country-Study-reveals/108-279735) · `en`
+
+Colombo, March 27 (Daily Mirror) - A study revealed that the number of underage street children begging all around the country is between 20,000 and 30,000.
+
+Senior Professor (Professor in Economics) Wasantha Athukorala from the Statistics and Data Studies Department of Peradeniya University conducted a study in Kurunegala, Anuradhapura, Ampara, and Kandy to inform authorities about the current situation of underage street children across the country.
+
+He told the Daily Mirror that the estimated figure was determined through informal discussions held in those areas, drawing from previous surveys conducted by a specific non-governmental organization (NGO) in 2019. He noted that, according to the data from these surveys, approximately 15,000 underage street children were identified across the country.
+
+However, through informal discussions in those areas, it was suggested that the number of underage street children may have doubled compared to the figure reported in 2019.
+
+...
+
+[Data](articles/8199eb20.json)
+
+---
+
+### 'Eyes of the night' that focuses on artificial intelligence technology
 
 *2024-03-27 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179836) · `ta`
 
-ஆர்ட்டிஃபிஷியல் இன்டெலிஜென்ஸ் எனப்படும் செயற்கை நுண்ணறிவு தொழில்நுட்பம் புதிதாக அறிமுகமாகி ஆதிக்கம் செலுத்தி வருகிறது. இதன் காரணமாக தகவல் தொழில்நுட்பத்துறையில் ஏராளமான இளைஞர்களுக்கு வேலை வாய்ப்பு பறிபோகும் என்ற சூழல் உருவாகி இருக்கிறது. இந்த நிலையில் இந்த செயற்கை நுண்ணறிவு தொழில்நுட்பத்தை மையப்படுத்தி 'இரவின் கண்கள்' எனும் பெயரில் திரைப்படமொன்று தயாராகி இருக்கிறது. இந்த திரைப்படம் எதிர் வரும் ஏப்ரல் மாதம் ஐந்தாம் திகதியன்று உலகம் முழுவதும் படமாளிகையில் வெளியாகிறது.
+"Eyes of the Night" explores AI's impact on employment, featuring a thriller set in Bangalore. A man's life intertwines with an AI named Iris, leading to unexpected challenges. The film, produced by Pratap, stars Pope Suresh, Dali Aishwarya, and others, with music by Charles Tana. Releasing on April 5th, it aims to offer a unique screenplay experience.
+
+🟩
+
+Artificial Intelligence known as artificial intelligence technology is being introduced and dominated. As a result, there is an environment for a large number of young people in the IT industry to lose employment. In this case, a movie is ready for the 'Eyes of the Night', focusing on this artificial intelligence technology. The film will be released worldwide on the fifth of April.
+
+Pope Suresh, Dali Aishwarya, Giri Dwarakesh, Selva, Selva, Dandapani, Kumaran and many others in the film 'Night's Eyes', which is being developed in artificial intelligence technology.. Charles Tana has composed the film, which has been recorded by Geeta Karan. MK is a film that is ready in thriller janer. Producer Pratap has produced on behalf of Entertainment film company.The music and preview launch of the film was held in Chennai. Tamil Nadu Film Directors Association President. V.. Udayakumar, Director Empire and actor Prajin participated as special guests.
 
 ...
 
 [Data](articles/33e843b9.json)
 
+[Extended Data](ext_articles/33e843b9.ext.json)
+
 ---
 
-### 'குளோபல் ஸ்டார்' ராம்சரண்நடிக்கும் 'கேம் சேஞ்சர்' படத்தின் ஃபர்ஸ்ட் சிங்கிள் வெளியீடு
+### First Single release of 'Global Star'
 
 *2024-03-27 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179833) · `ta`
 
-'குளோபல் ஸ்டார்' ராம் சரண் கதையின் நாயகனாக நடிக்கும் 'கேம் சேஞ்சர்' எனும் திரைப்படத்தில் இடம்பெற்ற 'ஜரகண்டி' எனத் தொடங்கும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியாகி இருக்கிறது. ராம்சரணின் பிறந்தநாளை முன்னிட்டு வெளியாகி இருக்கும் இந்தப் பாடல் தமிழ், தெலுங்கு, இந்தி ஆகிய மூன்று மொழிகளிலும் வெளியாகி இருக்கிறது.
+"First single 'Jarakandi' from 'Gam Changer', featuring Ram Charan, released in Tamil, Telugu, and Hindi. Directed by Shankar, it stars Ram Saran, Kiara Advani, and others. Produced by Sri Venkateswara Creations, it's the first look of the film. The song, written by Vivek and sung by Thaler Mehndi and Pooja Venkat, is expected to reach 100 million views."
 
-இந்தியாவின் முன்னணி நட்சத்திர இயக்குநர்களில் ஒருவரான ஷங்கர் இயக்கத்தில் உருவாகி வரும் 'கேம் சேஞ்சர்' திரைப்படத்தில் ராம் சரண், கியாரா அத்வானி, அஞ்சலி, சமுத்திரக்கனி, எஸ். ஜே. சூர்யா, ஸ்ரீகாந்த், சுனில் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். எஸ். திருநாவுக்கரசு ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு எஸ். தமன் இசையமைத்திருக்கிறார்.
+🟩
 
-அரசியலை குறிப்பாக தேர்தல் அரசியலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை ஸ்ரீ வெங்கடேஸ்வரா கிரியேஷன்ஸ் பட நிறுவனம் சார்பில் தயாரிப்பாளர்கள் தில் ராஜு மற்றும் சிரிஷ் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+The song 'Jarakandi', which is featured in the film 'Gam Changer' starring the hero of 'Global Star' Ram Charan, has been released.. The song, which is released on Ramsaran's birthday, has been released in all three languages - Tamil, Telugu and Hindi.
+
+Ram Saran, Kiara Advani, Anjali, Samudrakani, S Shankar, one of India's leading star directors, Shankar.. J.. Surya, Srikanth, Sunil and many others have played. S.. The film has been recorded by Thirunavukkarasu. Taman has composed music.
+
+The film is being produced by Sri Venkateswara Creations, producers Dil Raju and Sirish, on behalf of Sri Venkateswara Creations.
+
+The film has been released as the first look and the song 'Jarakandi', which has been released in his exclusive dance, has been released on the birthday of the hero of the film, Ram Saran's birthday.
 
 ...
 
 [Data](articles/f5c36d6d.json)
+
+[Extended Data](ext_articles/f5c36d6d.ext.json)
 
 ---
 
@@ -267,6 +307,24 @@ Drug inspectors said that this drug should be used only for a very limited perio
 [Data](articles/7911edcc.json)
 
 [Extended Data](ext_articles/7911edcc.ext.json)
+
+---
+
+### දකුණු ආසියාවේ විශාලම මාතෘ රෝහල කරාපිටියෙදී විවෘත කරයි
+
+*2024-03-27 19:46:39* · [`adalk`](https://www.ada.lk/picture_story/දකුණු-ආසියාවේ-විශාලම-මාතෘ-රෝහල-කරාපිටියෙදී-විවෘත-කරයි/10-408836) · `si`
+
+අනාගතයට ගැළපෙන පරිදි අධ්‍යාපන හා සෞඛ්‍ය ක්ෂේත්‍ර නවීකරණය නොකර රටේ අනාගතය පිළිබඳ බලාපොරොත්තු තැබිය නොහැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවැසීය.
+
+දශක තුනහමාරකට අධික කාලයක් අධ්‍යාපනය හා සෞඛ්‍යය සඳහා ප්‍රමාණවත් ප්‍රාග්ධන වියදම් ලැබී නොමැති බවත් මෙම වසරේ සිට අධ්‍යාපනය හා සෞඛ්‍යය සඳහා වැඩි ප්‍රාග්ධන වියදම් ලබාදීමට සැලසුම් කර තිබෙන බවත් ජනාධිපතිවරයා පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ දකුණු ආසියානු කලාපයේ විශාලතම මාතෘ රෝහල ලෙස සැලකෙන ගාල්ල කරාපිටියේ ඉදිකරන ලද “ජර්මන් – ශ්‍රී ලංකා මිත්‍රත්ව නව කාන්තා රෝහල” ජනතා අයිතියට පවරාදීමේ අවස්ථාවට අද (27)  එක් වෙමිනි.
+
+මහල් හයකින් යුත් මෙම රෝහල ඇඳන් 640කින්, ශල්‍යාගාර 6කින්, හදිසි ප්‍රතිකාර ඒකක, දැඩි සත්කාර ඒකක, රසායනාගාර, ළදරු දැඩි සත්කාර ඒකක, විශේෂ ළමා ඒකක, ඇතුළු සියලු නවීන වෛද්‍ය පහසුකම්වලින් සමන්විත අතර අප ජලය පිරිසිදු කර මුදා හැරිමේ ඒකකයකින් ද යුක්ත ය.
+
+...
+
+[Data](articles/9c9590d5.json)
 
 ---
 
@@ -2215,55 +2273,5 @@ However, he added that if the parliamentary election was to be held, it would no
 [Data](articles/785437d4.json)
 
 [Extended Data](ext_articles/785437d4.ext.json)
-
----
-
-### China supports Sri Lankan Prime Minister
-
-*2024-03-27 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179808) · `ta`
-
-China's Prime Minister Likiang supports Sri Lanka's economic development, praises PM Dinesh Gunawardena, and commits to further development of Colombo's infrastructure.
-
-🟩
-
-During a meeting with Sri Lankan Prime Minister Dinesh Gunawardena, Chinese Prime Minister Likiang said that China will continue to help Sri Lanka's economic development and continue to help Sri Lanka's economic development.
-
-The Chinese Prime Minister has praised the Prime Minister Dinesh Gunawardena and his family that China has continuously worked to strengthen Sri Lanka.
-
-The Chinese prime minister said that Sri Lanka continues to follow a Chinese policy and support the international stage.
-
-He said that China will continue to develop the Colombo Airport Port and the Colombo port.
-
-◼️
-
-[Data](articles/546be232.json)
-
-[Extended Data](ext_articles/546be232.ext.json)
-
----
-
-### Even though the parliamentary election is held this year, the presidential election is in time- the Commissioner
-
-*2024-03-27 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179805) · `ta`
-
-Despite parliamentary elections this year, the presidential election is scheduled for September 17 to October 17. Commissioner RMAL Ratnayake emphasized the need to hold elections in a timely manner, despite concerns about holding two elections within a few months. He also stated that the parliamentary elections would not impact the presidential election.
-
-🟩
-
-Elections Commissioner RMAL Ratnayake said that even if the parliamentary elections are held this year, the presidential election will be held between September 17 and October 17.
-
-He said that if the president dissolves parliament, there is no choice but to hold a parliamentary election, he said.
-
-He said that even though there are problems with the question of whether there is any problem in holding two elections within a few months, we should hold them in a timely manner.
-
-The Commissioner of Elections also said that there would be no impact on the presidential election as the parliamentary elections were to be held.
-
-He also announced the announcement that the presidential election will be held on September 17 to October 17, at the end of July or in August.
-
-◼️
-
-[Data](articles/e4aaed31.json)
-
-[Extended Data](ext_articles/e4aaed31.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 17:53:58**
+As of **2024-03-27 18:10:41**
 
 ## Newspaper Stats
 
-*Scraped **15,530** Articles*
+*Scraped **15,533** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,46 @@ economynextcom | 836
 islandlk | 854
 adalk | 1,327
 adaderanalk | 1,867
-tamilmirrorlk | 1,867
+tamilmirrorlk | 1,868
 virakesarilk | 2,194
-dailymirrorlk | 2,392
+dailymirrorlk | 2,394
 adaderanasinhalalk | 2,498
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,527 (100.0%) of 15,530 articles have been extended.
+15,530 (100.0%) of 15,533 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### 4 மாணவர்கள் நீரில் மூழ்கி பலி
+
+*2024-03-27 17:50:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-மாணவர்கள்-நீரில்-மூழ்கி-பலி/175-335270) · `ta`
+
+பொல்கஹவெல யாங்கல்மோதர பிரதேசத்தில் இருந்து மாஓயாவில் நீராடச் சென்ற பாடசாலை மாணவர்கள் நால்வர் நீரில் மூழ்கி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+பொல்கஹவெல பிரதேசத்தைச் சேர்ந்த நான்கு மாணவர்களே உயிரிழந்துள்ளனர். உயிரிழந்த நான்கு மாணவர்களின் சடலங்கள் இதுவரை மீட்கப்பட்டுள்ளன
+
+◼️
+
+[Data](articles/4eb9df64.json)
+
+---
+
+### Four students drowned in Ma Oya
+
+*2024-03-27 17:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Four-students-drowned-in-Ma-Oya/108-279729) · `en`
+
+Four school students tragically drowned in the Ma Oya at the Walakumbura area in Alawwa.
+
+◼️
+
+[Data](articles/6957fc2e.json)
+
+---
 
 ### Four school boys drown while bathing in Ma Oya
 
@@ -38,9 +64,17 @@ Extensions include translations and NER (Named Entity Recognition).
 
 Four school boys have reportedly drowned while bathing in the Ma Oya in Alwwa while another student has been rescued and hospitalised.
 
+Police Spokesman DIG Nihal Thalduwa said a group of five boys were bathing in the river when the incident occurred.
+
+One of the boys has been rescued by residents in the area and admitted to hospital, however, the other four have been pronounced dead.
+
+The drowning victims are Grade 09 students of a school in the Polgahawala area, police said.
+
 ◼️
 
 [Data](articles/42c4e921.json)
+
+[Extended Data](ext_articles/42c4e921.ext.json)
 
 ---
 
@@ -60,21 +94,43 @@ The Health Trade Union Alliance claims that all officials who neglect the respon
 
 [Data](articles/45f4cdf3.json)
 
+[Extended Data](ext_articles/45f4cdf3.ext.json)
+
 ---
 
-### පාසල් සිසුන් 4ක් දියේ ගිලී මරුට
+### Namal appointed SLPP National Organizer
+
+*2024-03-27 17:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Namal-appointed-SLPP-National-Organizer/108-279728) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP), at its Executive Committee meeting, appointed MP Namal Rajapaksa as the national organizer of the party.
+
+Also, the SLPP appointed its disciplinary   committee and arbitration committee at the same meeting.
+
+◼️
+
+[Data](articles/968bf972.json)
+
+---
+
+### Four school children drowned
 
 *2024-03-27 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195005) · `si`
 
-අලව්ව ප්‍රදේශයේදී මා ඔයේ දිය නෑමට ගිය පාසල් සිසුන් සිව්දෙනෙකු දියේ ගිලී මියගොස් තිබේ.
+Four schoolgirls drowned in Alawwa; a group of five students involved.
 
-පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දුව මහතා පැවසුවේ සිසුන් පස්දෙනෙකුගෙන් යුත් කණ්ඩායමක් ඔයේ දිය නෑමට ගොස් සිටියදී මෙලෙස අනතුරට ලක්වී ඇති බවය.
+🟩
 
-මෙලෙස අනතුරට ලක්වී තිබුණේ පොල්ගහවෙල ප්‍රදේශයේ පාසලක 9 වන ශ්‍රේණියේ ඉගෙනුම ලබමින් සිටි සිසුන් පිරිසකි.
+Four schoolgirls were drowned in Alawwa area.
+
+Police Media Spokesperson DIG's DIG'sary, lawyer, said Nihal Thaluda said that a group of five students had been involved in the accident.
+
+The victims were a group of students in a school in a school in Polgahawela area.
 
 ◼️
 
 [Data](articles/c2a761a4.json)
+
+[Extended Data](ext_articles/c2a761a4.ext.json)
 
 ---
 
@@ -2247,71 +2303,5 @@ It is understood that “Muthuwa”, who operates from overseas, was complicit i
 [Data](articles/b8b0d49f.json)
 
 [Extended Data](ext_articles/b8b0d49f.ext.json)
-
----
-
-### Sri Lanka to remunerate overnight excess reserves daily from April 01
-
-*2024-03-27 09:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-remunerate-overnight-excess-reserves-daily-from-april-01-156244/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank said it will remove restrictions on paying interest on overnight cash balances of banks through its standing deposit facility (SDF) from April 01.
-
-The standing deposit facility forms a lower policy rate corridor by preventing short-term rates from falling close to zero when dollars a purchased during a balance of payments surplus generated from reduced domestic credit.
-
-“Banks were only given the opportunity to go the standing deposit facility 10 times,” Governor Weerasinghe told reporter in Colombo in Sinhalese.
-
-“With the removal of the restrictions, we expect short term rates to be determined by the market to become normal and improve transmission of monetary policy to be easier.”
-
-During the last currency crisis and external default, several risk averse banks deposited large volume of money in the SDF window instead of lending in the interbank bank due to risk perceptions or buying government bonds as happened during earlier crises.
-
-...
-
-[Data](articles/5ed4ce3e.json)
-
-[Extended Data](ext_articles/5ed4ce3e.ext.json)
-
----
-
-### When the New Year hesit up to work
-
-*2024-03-27 09:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194983) · `si`
-
-The Public Health Inspectors Association (CHOGM) has deployed 3,000 inspectors to ensure food safety during the festive season. Inspectors check food items and require medical reports from food manufacturers.
-
-🟩
-
-The Public Health Inspectors Association (CHOGM) says that 3,000 public health inspectors of the country have been deployed to inspect the festive season.
-
-Chairman Upul Rohana said that the raids conducted has taken steps to send a number of food items prepared for the festive season.
-
-"When the public is buying food for the festive season, they are checked in front of the food and fruit types of food and fruit products they produce for the festive season. We have taken steps to send a large number of foods produced for the festive season. "
-
-Upul Rohana stated that it is compulsory to obtain medical reports of food manufacturing institutions.
-
-◼️
-
-[Data](articles/16ef2342.json)
-
-[Extended Data](ext_articles/16ef2342.ext.json)
-
----
-
-### Non-appointment of Bribery Commission DG challenged in SC
-
-*2024-03-27 09:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Non-appointment-of-Bribery-Commission-DG-challenged-in-SC/108-279700) · `en`
-
-Colombo, March 27 (Daily Mirror) - The Commissioner General of Land, Bandula Jayasinghe yesterday challenged an indictment filed by the Bribery Commission against him on the premise that no Director General has been appointed thus far by the President.
-
-When the writ application was taken up for support in the Supreme Court, Counsel Hafeel Farisz appearing for the Commissioner General told court that there was no Director General currently enforced by the Bribery Commission under the Anti-Corruption Act.
-
-Counsel submitted to court that the Anti-Corruption Act completely repealed the previous law and there was no provision for the continuation of the office of the Director General.
-
-He further stated that the person acting as the Director General was appointed under the previous act and that there is no approval by the President and the Constitutional Council for the previous holder to continue in the position of the officer.
-
-...
-
-[Data](articles/11723f9d.json)
-
-[Extended Data](ext_articles/11723f9d.ext.json)
 
 ---

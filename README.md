@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 07:32:03**
+As of **2024-03-27 07:52:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,409 (100.0%) of 15,410 articles have been extended.
+15,410 (100.0%) of 15,410 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -220,21 +220,29 @@ The Prime Ministers of the two countries confirmed that a new chapter in the lon
 
 ---
 
-### ’உயர்கல்வி ஆணைக்குழுவை அமைக்கும் பணி துரிதம்’
+### The work of setting up the Higher Education Commission
 
 *2024-03-27 02:48:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்கல்வி-ஆணைக்குழுவை-அமைக்கும்-பணி-துரிதம்/175-335239) · `ta`
 
-பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவுக்குப் பதிலாக தேசிய உயர்கல்வி அபிவிருத்தி ஆணைக்குழுவை அமைப்பதற்கான, முன்னாள் பிரதம நீதியரசர் கே.ஸ்ரீபவன் தலைமையிலான குழுவின் அவதானிப்புகள் அடங்கிய அறிக்கை அமைச்சிடம் கையளிக்கப்பட்டுள்ளது. அது தொடர்பான அறிக்கையை ஆராய்ந்த பின்னர் தேசிய உயர்கல்வி அபிவிருத்தி ஆணைக்குழுவை இவ்வருடத்தில் நிறுவ முடியும் என்று உயர்கல்வி இராஜாங்க அமைச்சர் கலாநிதி சுரேன் ராகவன் தெரிவித்தார்.
+The Higher Education Commission is being established, replacing the University Grants Commission, with a report from a committee led by former Chief Justice K. Sripavan. Dr. Suren Raghavan, Minister of Higher Education, hopes to establish the National Higher Education Development Commission this year, marking a significant change in the university system.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-பல்கலைக்கழக மானியங்கள் ஆணைக்குழுவிற்குப் பதிலாக தேசிய உயர்கல்வி அபிவிருத்தி ஆணைக்குழுவும் அமைக்கப்பட உள்ளது.
+A report comprising of a committee headed by former Chief Justice K Sripavan has been handed over to the Ministry to set up the National Higher Education Development Commission instead of the University Grants Commission.. Minister of Higher Education Dr. Suren Raghavan said that after reviewing the report, the National Higher Education Development Commission could be established this year.
 
-இது தொடர்பில், முன்னாள் பிரதம நீதியரசர் கே.ஸ்ரீபவன் தலைமையில் நியமிக்கப்பட்ட குழுவின் அவதானிப்புகள் அடங்கிய அறிக்கை நேற்று அமைச்சிடம் கையளிக்கப்பட்டது.
+He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
 
-...
+The National Higher Education Development Commission is to be set up instead of the University Grants Commission.
+
+In this regard, a report was handed over to the Ministry yesterday, including the committee appointed by former Chief Justice K. Sripavan.
+
+After inspection of the report, I hope to set up the National Higher Education Development Commission within this year. It should be said that this is an essential company for the university system change of the country. (A)
+
+◼️
 
 [Data](articles/1d9936f6.json)
+
+[Extended Data](ext_articles/1d9936f6.ext.json)
 
 ---
 

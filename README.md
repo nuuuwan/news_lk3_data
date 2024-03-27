@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 08:18:00**
+As of **2024-03-27 08:33:49**
 
 ## Newspaper Stats
 
-*Scraped **15,419** Articles*
+*Scraped **15,421** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,58 @@ dailyftlk | 835
 islandlk | 854
 adalk | 1,313
 adaderanalk | 1,847
-tamilmirrorlk | 1,848
+tamilmirrorlk | 1,849
 virakesarilk | 2,175
 dailymirrorlk | 2,382
-adaderanasinhalalk | 2,475
+adaderanasinhalalk | 2,476
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,417 (100.0%) of 15,419 articles have been extended.
+15,419 (100.0%) of 15,421 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### බේරුවල හා දෙහිවල නිවාස දෙකක් ත්‍රස්ත ක්‍රියාකාරකම්වලට යොදාගෙන - නීතිපති අධිකරණයට දන්වයි
+### සෞඛ්‍ය වෘත්තීය සමිති වර්ජනයකට යයි ද?
+
+*2024-03-27 08:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194981) · `si`
+
+ආර්ථික යුක්තිය ඉටුකර ගැනීම සඳහා සෞඛ්‍ය වෘත්තීය සමිති ලබා දුන් කාලය අදින් (27) අවසන් වේ.
+
+කෙසේවෙතත් එම කාලය තුළ සිය ගැටලුව සඳහා මේ දක්වාත් විසඳුම් ලැබී නොමැති බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය සඳහන් කළේය.
+
+ඒ අනුව සිය ඉල්ලීම් දිනාගැනීම සඳහා අඛණ්ඩ වෘත්තීය සමිති ක්‍රියාමාර්ගයක නිරත වීම සම්බන්ධයෙන් අද කොළඹ දී රැස්වන වෘත්තීය සමිති නායකත්ව මණ්ඩල රැස්වීමේදී තීරණය කිරීමට නියමිතව තිබේ.
+
+මේ ඒ සම්බන්ධයෙන් අදහස් දක්වන සෞඛ්‍ය වෘත්තීය සමිති සන්ධානයේ සම කැඳවුම්කරු චානක ධර්මවික්‍රම මහතා,
+
+...
+
+[Data](articles/d8849a0a.json)
+
+---
+
+### Two houses in Beruwala and Dehiwala for the Attorney General are informed to court
 
 *2024-03-27 07:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194980) · `si`
 
-පාස්කු ඉරු දින ත්‍රස්ත ප්‍රහාර සිද්ධියෙන් පසුව ජනාධිපතිවරයාගේ නියෝග මත ත්‍රස්තවදය වැළැක්වීමේ පනත යටතේ පොලීසිය භාරයට ගනු ලැබූ දෙහිවල සහ බේරුවල ප්‍රදේශවල පිහිටි සුඛෝපභෝගී නිවාස දෙක අල් කයිඩා සහ ජාතික තව්හීද් ජමාත් සංවිධානයේ ත්‍රස්ත ක්‍රියාකාරකම් සඳහා යොදාගෙන ඇති බවට කරුණු අනාවරණය වී ඇතැයි නීතිපතිවරයා විසින් ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දී තිබේ.
+The Attorney General has taken two luxury houses in Dehiwala and Beruwala into custody under the President's Prevention of Terrorism Act. Senior State Counsel Shaminda Wickrema argued that the houses were used for extremist activities, but President's Counsel Faiz Mustapha disputed this, claiming it was contrary to the law. The three-judge panel dismissed the petitions.
 
-මීට අදාළව ජ්‍යේෂ්ඨ රජයේ නීතිඥ ශමින්ද වික්‍රම මහතා විසින් ඉදිරිපත් කළ කරුණු සලකා බැලූ ප්‍රීති පද්මන් සූරසේන, ශිරාන් ගුණරත්න සහ මහින්ද සමයවර්ධන යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් විසින් අදාළ නිවාස පවරා ගැනීමට ජනාධිපතිවරයා විසින් ගනු ලැබූ තීරණය බලරහිත කිරීමේ නියෝග නිකුත් කරන මෙන් ඉල්ලා එම නිවාසවල හිමිකරුවන් විසින් ගොනුකරනු ලැබූ මූලික අයිතිවාසිකම් පෙත්සම් දෙකක් නිෂ්ප්‍රභ කිරීමටද තින්දු කළේය.
+🟩
+
+The Attorney General has revealed that the two luxury houses in Dehiwala and Beruwala areas have been taken into custody under the prevention of the President on the prevention of the President on the prevention of the President.
+
+Considered by Senior State Counsel Shaminda Wickrama, which was presented by the President's Supreme Court judges, the owners of those houses asking the appointment orders of Sri Lanka's decision to issue a three-member Supreme Court order orders.The fundamental rights files filed by the country was conditated.
+
+Senior State Counsel Shaminda Wickrema appearing on behalf of the Attorney General on the occasional information on the Passover Sunday, the police were conducting further investigations into the incident.It was said that the 'Dayarana' court report said.
 
 ...
 
 [Data](articles/57ad8845.json)
+
+[Extended Data](ext_articles/57ad8845.ext.json)
 
 ---
 
@@ -357,6 +383,22 @@ Mitrapala said that following Sirisena’s statement to the Criminal Investigati
 [Data](articles/0f79dbbc.json)
 
 [Extended Data](ext_articles/0f79dbbc.ext.json)
+
+---
+
+### ’சட்டத்தை நிலைநாட்டுவது மனித உரிமை மீறல் அல்ல’
+
+*2024-03-27 02:56:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்தை-நிலைநாட்டுவது-மனித-உரிமை-மீறல்-அல்ல/175-335240) · `ta`
+
+போராட்டம் என்ற போர்வையில் வன்முறையை விதைத்தவர்களிடம் இருந்து பாராளுமன்றம், பிரதமர் அலுவலகம், ஜனாதிபதி அலுவலகம் உள்ளிட்ட அரச சொத்துக்களை காப்பாற்றி நாட்டில் சட்டம் ஒழுங்கை நிலைநாட்ட தான் மேற்கொண்ட நடவடிக்கைகளை மனித உரிமை மீறல் என சிலர் சுட்டிக்காட்ட முயன்றனர். இருந்தபோதும், அந்த நடவடிக்கையை அன்று எடுக்காமல் இருந்திருந்தால் இன்று நாட்டில் பொருளாதார ஸ்திரத்தன்மையை கட்டியெழுப்பியிருக்க முடியாது என்று  ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+
+நாட்டின் தற்போதைய பொருளாதார வேலைத்திட்டம் மற்றும் பல்கலைக்கழக விரிவுரையாளர்களின் கருத்துக்கள் மற்றும் ஆலோசனைகள் குறித்து கலந்துரையாடும் நோக்குடன் முன்னாள் கல்வி அமைச்சர் அகிலவிராஜ் காரியவசம் இந்த சந்திப்பை ஏற்பாடு செய்திருந்தார்.
+
+நாட்டுக்கு புதிய கல்வி முறையை அறிமுகப்படுத்த அரசாங்கம் செயற்பட்டு வருகின்றது. அதற்காக பிரதமரின் செயலாளர் தலைமையில் குழுவொன்றும் நியமிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/f530e579.json)
 
 ---
 
@@ -1250,23 +1292,29 @@ Organized by the Ministry of Environment in collaboration with the United Nation
 
 ---
 
-### බදු ඉහළ දැමීම නිසා මත්පැන් භාවිතය අඩුවෙලා
+### Liquor use has been reduced due to the increase in taxes
 
 *2024-03-26 21:01:14* · [`adalk`](https://www.ada.lk/breaking_news/බදු-ඉහළ-දැමීම-නිසා-මත්පැන්-භාවිතය-අඩුවෙලා/11-408819) · `si`
 
-සුරාබදු බදු ඉහළ දැමීමත් සමග පසුගිය වසරේ ජනවාරි 01වන දිනෙන් අවසන් වූ වසරක කාලයකට සාපේක්ෂව මේ වසරේ ජනවාරි මාසයෙන් අවසන් වූ වසරක කාලය තුළදී මත්පැන් භාවිතය අඩු වී තිබෙන බව මද්‍යසාර සහ මත්ද්‍රව්‍ය තොරතුරු මධ්‍යස්ථානය සඳහන් කරයි.
+Tax increases led to a 6M liters reduction in alcohol use in 2022, with excise revenues rising twice, benefiting health expenses.
 
-පසුගිය වසර තුළදී අවස්ථා දෙකකදී සුරා බදු ඉහළ දමා තිබෙන බවත් මේ අනුව සුරාබදු ආදායම් 38.5෴කින් ඉහළ ගොස් තිබෙන බවද එම ආයතනයේ විධායක අධ්‍යක්ෂ සම්පත් ද සේරම්මහතා සඳහන් කළේය.
+🟩
 
-සුරාබදු ආදායම් ඉහළ යාම රජයක් වශයෙන් සුබවාදී බවත් මත්පැන් භාවිතය අඩු වීම හේතුවෙන් මත්පැන් නිසා රෝගී වන ප්‍රමාණය අඩු වී සෞඛ්‍ය වියදම් ප්‍රමාණය අඩු වන බවද පැවසීය.
+Alcohol and Drugs Information Center states that alcohol use has reduced the reduction in the use of excise tax on January 1 last year.
 
-රජයේ සංඛ්‍යාලේඛනවලට අනුව 2022 වසරට සාපේක්ෂව පසුගිය වසරේදී මත්පැන් ලීටර් හයලක්ෂ පනස් හත්දහසකින් භාවිතය අඩු වී තිබෙන බවද පවසා සිටියේය.
+The Executive Director of the Institute also said that the excise revenues have been increased in two occasions over the past year.
 
-මත්පැන් භාවිතය අඩු වීමත් සමග මත්පැන් පානය කරන පිරිස්වල පවුල්වලට ඇති වී තිබෙන ආර්ථික ගැටලු පවා අඩු වී යන බවත් මීට අමතරව මත්පැන් භාවිතය අඩු වීම තුළින් මත්පැන් නිසා රෝගී වන ප්‍රමාණයත් අඩුවන බවත් සඳහන් කළේය.
+The increase in excise revenue is optimistic as a government and the amount of health is reduced and reducing health expenses.
+
+According to government statistics, the use of alcohol has reduced the use of 6,000,000 liters of alcohol over the year 2022.
+
+In addition, the reduction of liquor use of alcoholism, the reduction of alcohol use is reduced to the decrease.
 
 ◼️
 
 [Data](articles/d63393b3.json)
+
+[Extended Data](ext_articles/d63393b3.ext.json)
 
 ---
 
@@ -2173,51 +2221,5 @@ A bond maturing on 15.12.2028 closed stable at 12.10/15 percent. (Colombo/Mar26/
 [Data](articles/259d5f6d.json)
 
 [Extended Data](ext_articles/259d5f6d.ext.json)
-
----
-
-### Sri Lanka to promote registration of ships under its flag
-
-*2024-03-26 17:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/98217/sri-lanka-to-promote-registration-of-ships-under-its-flag) · `en`
-
-The government is eyeing to promote the registration of ships under the Sri Lankan flag in a bid to general direct and indirect employment opportunities.
-
-As such, the Cabinet of Ministers has green-lighted a proposal, tabled by the Minister of Ports, Shipping and Aviation seeking permission to invite qualified domestic and foreign investors to register ships under the Sri Lankan flag.
-
-The government will thus call Expressions of Interest (EOIs) and proposals to select the most suitable investor on the recommendation of the Procurement Committee, consequent to the evaluation of the proposals by a Technical Evaluation Committee.
-
-Ship registration is a major source of foreign exchange to the country’s economy and has the potential to generate many direct and indirect employment opportunities, the government said in a statement.
-
-◼️
-
-[Data](articles/98eb4c5d.json)
-
-[Extended Data](ext_articles/98eb4c5d.ext.json)
-
----
-
-### Sri Lanka stocks close up after interest rate cut
-
-*2024-03-26 16:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-after-interest-rate-cut-156200/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader All Share Index closed up 0.90 percent, or 100.73 points, at 11,335; while the S&P SL20 Index closed down 1.32 percent, or 42.38 points, at 3,262.
-
-Trades in the banks sector (1.2bn) contributed the most to the day’s turnover.
-
-Sampath Bank Plc (up at 78.80) saw 704mn worth of shares change hands.
-
-DFCC Bank Plc which also saw active volumes (280mn), closed up at 71.10.
-
-Major contributors to the Index included Hatton National Bank Plc (up at 174.25), LOLC Holdings Plc (up at 401.50), Browns Investments Plc (up at 5.50), and Commercial Bank of Ceylon Plc (up at 95.60.
-
-Sri Lanka’s central bank cut its policy corridor by 50 basis points to 8.50 percent (floor) and 9.50 percent (ceiling) on Tuesday citing stable external conditions and low inflation. (Colombo/Mar26/2024)
-
-◼️
-
-[Data](articles/396d389c.json)
-
-[Extended Data](ext_articles/396d389c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 05:37:31**
+As of **2024-03-27 05:56:07**
 
 ## Newspaper Stats
 
-*Scraped **15,395** Articles*
+*Scraped **15,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 192
 newsfirstlk | 363
 economynextcom | 832
 dailyftlk | 835
-islandlk | 845
+islandlk | 854
 adalk | 1,312
 adaderanalk | 1,845
 tamilmirrorlk | 1,846
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,394 (100.0%) of 15,395 articles have been extended.
+15,395 (99.9%) of 15,404 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -612,6 +612,8 @@ These audacious exploits weren’t just acts of piracy; they were the seeds of n
 
 [Data](articles/c69f5f9f.json)
 
+[Extended Data](ext_articles/c69f5f9f.ext.json)
+
 ---
 
 ### Eyes on T20 World Cup as South Africa prepare for Sri Lanka series
@@ -651,6 +653,20 @@ The Prime Ministers of the two countries confirmed that a new chapter in the lon
 [Data](articles/e70de30c.json)
 
 [Extended Data](ext_articles/e70de30c.ext.json)
+
+---
+
+### Ceylon Green Life Plantation enters FMCG market
+
+*2024-03-26 22:46:00* · [`islandlk`](http://island.lk/ceylon-green-life-plantation-enters-fmcg-market/) · `en`
+
+Ceylon Green Life Plantation (Pvt) Ltd, founded by Dr.Marlon Francis Petersay, veteran Entrepreneur and constructor, established his vision in 2022 to bring pride to Mother Sri Lanka through empowering “farming” in the most innovative fashion.
+
+Spanning across the island, he ventured to consumers to invest on lands that cultivates fruits to serve the purpose that he planned out.
+
+...
+
+[Data](articles/177212d3.json)
 
 ---
 
@@ -697,6 +713,68 @@ At the Executive Council meeting, major decisions, including the new political a
 [Data](articles/3744845e.json)
 
 [Extended Data](ext_articles/3744845e.ext.json)
+
+---
+
+### Much more than a summer stay: An immersive journey with Heritance Hotels and Resorts
+
+*2024-03-26 22:45:00* · [`islandlk`](http://island.lk/much-more-than-a-summer-stay-an-immersive-journey-with-heritance-hotels-and-resorts/) · `en`
+
+Ranked fourth among Forbes’ Top Solo Travel Destinations for the year, Sri Lanka beckons discerning travellers seeking more than just a summer escape. The island nation promises diverse and immersive experiences awaiting exploration.
+
+Heritance Hotels and Resorts, the premier flagship brand of Aitken Spence Hotels, unveiled its Summer Campaign for the year, inviting explorers to immerse themselves in a myriad of experiences across the hill country, the coast, and lush greenery. Every stay at Heritance Hotels and Resorts guarantees an immersive experience, making every getaway so much more than a stay.
+
+...
+
+[Data](articles/3b6dcd26.json)
+
+---
+
+### ADB loan to bolster financial capability of Lankan SMEs
+
+*2024-03-26 22:43:00* · [`islandlk`](http://island.lk/adb-loan-to-bolster-financial-capability-of-lankan-smes/) · `en`
+
+The Asian Development Bank (ADB) and the government of Sri Lanka signed on March 25, a loan agreement totaling US$100 million, out of which $50 million is to provide small and medium-sized enterprises (SMEs) in Sri Lanka more access to finance and build their resilience to external shocks, such as the economic crisis and climate change, while $50 million will be used to issue partial credit guarantees through the National Credit Guarantee Institution.
+
+K.M. Mahinda Siriwardana, Secretary to the Treasury, Ministry of Finance signed on behalf of the government of Sri Lanka and Utsav Kumar, Deputy Country Director, ADB, Sri Lanka Resident Mission signed on behalf of ADB.
+
+Kristofer Quadros appointed Cluster General Manager for three Radisson Hotels in Sri Lanka
+
+Rate reduction by Central Bank exerts rejuvenating impact on CSE
+
+ADB country chief hopes Lanka could sustain policy reforms despite elections
+
+Cabinet gives green light to establish a wind power station on Mannar island
+
+...
+
+[Data](articles/d42c2c71.json)
+
+---
+
+### Kristofer Quadros appointed Cluster General Manager for three Radisson Hotels in Sri Lanka
+
+*2024-03-26 22:42:00* · [`islandlk`](http://island.lk/kristofer-quadros-appointed-cluster-general-manager-for-three-radisson-hotels-in-sri-lanka/) · `en`
+
+Radisson Hotels, Sri Lanka along with the hotel management company, La Vie Hotels & Resorts is pleased to announce the appointment of Kristofer Quadros as the Cluster General Manager for the three esteemed Radisson properties in Sri Lanka: Radisson Hotel Colombo, Radisson Hotel Kandy, and Radisson Blu Resort Galle. With over 25 years of international experience, serving in the hospitality sector Kristofer brings a wealth of expertise to his new role.
+
+...
+
+[Data](articles/54971242.json)
+
+---
+
+### Rate reduction by Central Bank exerts rejuvenating impact on CSE
+
+*2024-03-26 22:38:00* · [`islandlk`](http://island.lk/rate-reduction-by-central-bank-exerts-rejuvenating-impact-on-cse/) · `en`
+
+The stock market yesterday was extremely bullish on account of the Central Bank decision to reduce the Standing Deposit Facility Rate and the Standing Lending Facility Rate by 50 basis points. It was a major surprise for stock market investors.
+
+Further, Central Bank Governor Dr Nandalal Weerasinghe’s positive comments on the national economy and its way forward lifted the spirits of local and foreign investors, market analysts said.
+
+...
+
+[Data](articles/dbe6c9ab.json)
 
 ---
 
@@ -2096,6 +2174,22 @@ Under this plan, church premises will be inspected discreetly before sermons beg
 
 ---
 
+### Sahasya Investment Limited to operate and manage expressways from 01st April 2024
+
+*2024-03-26 16:11:00* · [`islandlk`](http://island.lk/sahasya-investment-limited-to-operate-and-manage-expressways-from-01st-april-2024/) · `en`
+
+The Cabinet of Ministers approved the proposal presented by the Minister of Transport and Highways to shift the daily operations and management of expressways to Sahasya Investment Limited from 01.04.2024 in accordance with a formal management agreement and to transfer all the relevant assets to Sasahasya Investments Limited within six months consequent to a legal and financial feasibility study jointly conducted by the Road Development Authority and Sahasya Investments Limited.
+
+[At the Cabinet meeting held on 26.06.2023, it had been approved to shift the expressway network from the Road Development Authority to Sahasya Investment Limited so that the land owned by highways, highway loans and related staff can be managed more commercially. The respective action plan has been approved at the Cabinet meeting held on 05.02.2024.]
+
+Related Topics:Cabinet Decisionsdaily operations and management of expresswaysSahasya Investment Limited
+
+...
+
+[Data](articles/241adac4.json)
+
+---
+
 ### The tragedy of the student who died of motorcycle crash in Kottawa
 
 *2024-03-26 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194958) · `si`
@@ -2123,151 +2217,5 @@ The two drivers in the accident and the cab have been arrested and Kottawa Polic
 [Data](articles/041c84dc.json)
 
 [Extended Data](ext_articles/041c84dc.ext.json)
-
----
-
-### There is a warm situation between the Kalutara protesters and the police
-
-*2024-03-26 15:54:52* · [`adalk`](https://www.ada.lk/breaking_news/කළුතර-විරෝධතාකරුවන්-සහ-පොලිසිය-අතර-උණුසුම්-තත්ත්වයක්/11-408811) · `si`
-
-Protesters and police in Kalutara have a tense situation. The People's Struggle Movement protested against high taxes, electricity bills, and terrorism, leading to arrests. Police presence was increased, and a conflict occurred when protesters attempted to move a tent. Two individuals were detained for illegal construction.
-
-🟩
-
-In the center of Kalutara, the 26th afternoon, a group of protesters and the police had warmed between the police.
-
-The People's Struggle Movement was protesting in front of the main bus stand as the heavy, tax prices, electricity bill, terrorism and protesters were taken into custody.
-
-From the morning to and around Kalutara and surrounding police protection was found and several police teams were deployed in the protest.
-
-Several protesters sat on the protest with the protests and two of their supporters were brought to the protesters while protesting.
-
-The protesters and the police had a warm situation when they were going to take the Tent Raddle to the Tent Raddle.
-
-A large number of police officers together with the people who had brought the tender cloth and a hot situation with supporters were taken to the Kalutara South Police.
-
-A senior police officer said two persons were taken into custody for illegal construction.
-
-◼️
-
-[Data](articles/e0b3ff1d.json)
-
-[Extended Data](ext_articles/e0b3ff1d.ext.json)
-
----
-
-### In Jaffna
-
-*2024-03-26 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/179759) · `ta`
-
-A man in Jaffna, seeking acupuncture treatment for knee pain, was admitted to Jaffna Bodhana Hospital after injections caused by infections led to his death. Doctors warn of the dangers of misinformation on social media and the need for legal action against fraudulent practitioners.
-
-🟩
-
-A man who suffered from knee pain has gone to the treatment center under the name of Acupunjer Treatment on the recent birth street in Jaffna Nagar, relying on social media.
-
-He was admitted to the Jaffna Bodhana Hospital for treatment of severe pains after treatment.
-
-During the anatomical examination, it was found that injections were caused by infections, such as acupuncture therapy, causing the death of the body.
-
-According to doctors, doctors say that although the casualties of the people who are receiving misconceptions on social media are on the rise, the awareness of the issue is inadequate among the people, and that strict legal action against such pseudo doctors can be saved from fake doctors.
-
-◼️
-
-[Data](articles/4ba77833.json)
-
-[Extended Data](ext_articles/4ba77833.ext.json)
-
----
-
-### Sri Lanka CB chief sees end-March FX reserves at “much higher than $4.5 bln”
-
-*2024-03-26 15:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-chief-sees-end-march-fx-reserves-at-much-higher-than-4-5-bln-156191/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s end-march foreign exchange reserves will be much higher than the end February number as the central bank has been heavily buying US dollars from the market, the Central Bank Governor said.
-
-The Gross official reserves improved to $4.5 billion by end February 2024 including a $1.4 billion swap facility from the People’s Bank of China.
-
-The central bank has been buying reserves with excess dollar inflows into the market in the absence of dampened imports and due to the non-repayment of external debts.
-
-“I can say we have been purchasing heavily from the market,” Central Bank Governor Nandalal Weerasinghe told reporters at a media briefing on Tuesday (26) after announcement of 50 basis point reduction in the key monetary policy rates.
-
-“That should be much higher than $4.5 billion,” he said referring to the end-March reserves.
-
-Currency dealers said the rupee would he appreciated further if not for the central bank buying.
-
-...
-
-[Data](articles/9b878393.json)
-
-[Extended Data](ext_articles/9b878393.ext.json)
-
----
-
-### Two persons arrested for allegedly involved in iron theft at Cement Cement Factory
-
-*2024-03-26 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179758) · `ta`
-
-Two individuals were arrested for iron theft at Cement Cement Factory, with the stolen vehicle and iron rods seized.
-
-🟩
-
-Two persons have been arrested on Tuesday (26) on charges of iron theft.
-
-The vehicle used for theft and a sum of iron rods has been seized by the police.
-
-Based on the confidential information received by the Police Intelligence Unit, the police arrested two men involved in the theft.
-
-The arrested persons, their vehicle, and a large amount of iron rods stolen by them have been handed over to the Kankesanthurai police station for further legal action.
-
-◼️
-
-[Data](articles/efee828b.json)
-
-[Extended Data](ext_articles/efee828b.ext.json)
-
----
-
-### CB governor vows not to resign over salary increase
-
-*2024-03-26 15:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CB-governor-vows-not-to-resign-over-salary-increase/108-279637) · `en`
-
-Colombo, March 26 (Daily Mirror) - The Governor of the Central Bank of Sri Lanka (CBSL), Dr. Nandalal Weerasinghe today that he will not step down from the post of Governor due to the issues caused by the salary increase.
-
-While addressing the media, he said the crisis situation was caused by the amount of the salary increase at the CBSL.
-
-He also said that he will reconsider the salary increase for the employees working under him.
-
-The Governor also said that he will leave his position only if he fails to fulfill his responsibilities properly, and as the head of the institution, he has a responsibility to pay attention to the salaries of his employees.
-
-"As the governor, I have responsibility for my staff. This salary increase has been done as it has always been done under the existing legal framework.
-
-...
-
-[Data](articles/8268df27.json)
-
-[Extended Data](ext_articles/8268df27.ext.json)
-
----
-
-### CB governor vows not to resign over salary increase
-
-*2024-03-26 15:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/CB-governor-vows-not-to-resign-over-salary-increase/155-279637) · `en`
-
-Colombo, March 26 (Daily Mirror) - The Governor of the Central Bank of Sri Lanka (CBSL), Dr. Nandalal Weerasinghe today that he will not step down from the post of Governor due to the issues caused by the salary increase.
-
-While addressing the media, he said the crisis situation was caused by the amount of the salary increase at the CBSL.
-
-He also said that he will reconsider the salary increase for the employees working under him.
-
-The Governor also said that he will leave his position only if he fails to fulfill his responsibilities properly, and as the head of the institution, he has a responsibility to pay attention to the salaries of his employees.
-
-"As the governor, I have responsibility for my staff. This salary increase has been done as it has always been done under the existing legal framework.
-
-...
-
-[Data](articles/8fc63f57.json)
-
-[Extended Data](ext_articles/8fc63f57.ext.json)
 
 ---

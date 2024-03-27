@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 17:34:30**
+As of **2024-03-27 17:53:58**
 
 ## Newspaper Stats
 
-*Scraped **15,527** Articles*
+*Scraped **15,530** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,45 +16,99 @@ dailyftlk | 835
 economynextcom | 836
 islandlk | 854
 adalk | 1,327
-adaderanalk | 1,865
+adaderanalk | 1,867
 tamilmirrorlk | 1,867
 virakesarilk | 2,194
 dailymirrorlk | 2,392
-adaderanasinhalalk | 2,497
+adaderanasinhalalk | 2,498
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,525 (100.0%) of 15,527 articles have been extended.
+15,527 (100.0%) of 15,530 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### රුසියානු ප්‍රහාරයේ ප්‍රධාන සැකකරුවන් 4දෙනාගේ පවුල්වල සාමාජිකයන්වත් රැගෙන එයි
+### Four school boys drown while bathing in Ma Oya
+
+*2024-03-27 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98246/four-school-boys-drown-while-bathing-in-ma-oya) · `en`
+
+Four school boys have reportedly drowned while bathing in the Ma Oya in Alwwa while another student has been rescued and hospitalised.
+
+◼️
+
+[Data](articles/42c4e921.json)
+
+---
+
+### Health sector trade unions to launch strike on Tuesday
+
+*2024-03-27 17:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98245/health-sector-trade-unions-to-launch-strike-on-tuesday) · `en`
+
+The Health Trade Union Alliance says that 72 health sector trade unions will launch an indefinite strike from 6.30 a.m. on Tuesday (April 02).
+
+Co-convenor of the alliance, Chanaka Dharmawickrama stated that the decision was taken at the leadership committee meeting held today.
+
+He stated that during the talks they held with the Health Secretary on March 18 the latter had requested for 10 days to resolve their issues and that this period comes to an end tomorrow (28).
+
+The Health Trade Union Alliance claims that all officials who neglect the responsibility of resolving their grievances will be held responsible for the serious breakdowns in the health service and all the inconvenience caused to the patients.
+
+◼️
+
+[Data](articles/45f4cdf3.json)
+
+---
+
+### පාසල් සිසුන් 4ක් දියේ ගිලී මරුට
+
+*2024-03-27 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195005) · `si`
+
+අලව්ව ප්‍රදේශයේදී මා ඔයේ දිය නෑමට ගිය පාසල් සිසුන් සිව්දෙනෙකු දියේ ගිලී මියගොස් තිබේ.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දුව මහතා පැවසුවේ සිසුන් පස්දෙනෙකුගෙන් යුත් කණ්ඩායමක් ඔයේ දිය නෑමට ගොස් සිටියදී මෙලෙස අනතුරට ලක්වී ඇති බවය.
+
+මෙලෙස අනතුරට ලක්වී තිබුණේ පොල්ගහවෙල ප්‍රදේශයේ පාසලක 9 වන ශ්‍රේණියේ ඉගෙනුම ලබමින් සිටි සිසුන් පිරිසකි.
+
+◼️
+
+[Data](articles/c2a761a4.json)
+
+---
+
+### The families of the 4 main suspects of the Russian attack carry the families of families
 
 *2024-03-27 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195004) · `si`
 
-රුසියාවේ මොස්කව් නුවරට ආසන්න ක්‍රෝකස් නගර ශාලා රඟහලට එල්ලවූ ත්‍රස්ත ප්‍රහාරයේ 08 වැනි සැකකරු ද ඊයේ අධිකරණයට ඉදිරිපත් කර රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+The Russian attack, considered the worst in 20 years, resulted in 139 deaths and 189 injuries. The 8th suspect, from Central Asian Kyrgyzstan, was remanded yesterday. The US and France blame ISIS. Despite President Putin's claim, Russian authorities say four suspects confessed. The 8th suspect showed no physical injuries.
 
-දශක දෙකකින් රුසියාවට එල්ල වූ දරුණුතම ත්‍රස්ත ප්‍රහාරය ලෙස සැලකෙන මේ ප්‍රහාරයේදී පුද්ගලයින් 139 දෙනෙකු ජීවිතක්ෂයට පත්වී 182 දෙනෙකු පමණ තුවාල ලැබූ බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-ජනාධිපති ව්ලැදිමීර් පුටින් පස්වැනි වරටත් රුසියාවේ බලය තහවුරු කරගැනීමත් සමග එල්ල වූ මෙම ත්‍රස්ත ප්‍රහාරය, ඔහුට එල්ල වූ ප්‍රබලතම අභියෝගයක් ලෙසත් සැලකෙයි.
+The 8th suspect of the Troops of the Troops of Sri Lanka, the terrorist attack was remanded yesterday.
 
-ප්‍රහාරය ISIS සන්ධානය විසින් එල්ල කළ බවට සාක්ෂි ඇතැයි අමෙරිකාව සහ ප්‍රංශය ප්‍රකාශ කර තිබුණි.
+Foreign media reports that 139 people were killed and 189 people were injured in the attack, who was considered the worst attack on Russia in two decades.
 
-ජනපති පුටින් මෙය ඉස්ලාමීය අන්තවාදීන් එල්ල කළ ප්‍රහාරයක් බව පිළිගත්තද, ඔවුන් මෙහෙයවූයේ කවුරුන්ද යන්න ගැටලුකාරී බව කියා සිටියේය.
+The terrorist attack consolidating Russian power for the fifth time of President Vladimir Putin, this terrorist attack is also considered a major challenge to him.
 
-ප්‍රහාරය සම්බන්ධයෙන් ඍජුවම සම්බන්ධ සැකකරුවන් 4 දෙනෙකු ඒ පිළිබඳ පාපොච්චාරණය කළ බව රුසියානු බලධාරීන් සඳහන් කරයි.
+The United States and France have stated that the attack was carried out by the ISIS alliance.
 
-සැකකරුවන් අධිකරණයට ඉදිරිපත් කිරීමේදී බරපතළ වධ බන්ධනවලට ලක්වී සිටි බව පෙනී ගිය කරුණකි.
+Despite the President of Poutin, this is a problem with Islamic extremists, but he said he was the case.
 
-එහෙත් ඊයේ අධිකරණයට රැගෙන ආ 8 වැනි සැකකරුගේ කායික තුවාල කිසිවක් දක්නට ලැබී නොමැත.
+The Russian authorities states that four directly involved in the attack were confessed to the attack.
+
+It appeared that the suspects were seriously tormented in the court.
+
+However, there was no physical injuries to the 8th suspect he was brought to court yesterday.
+
+The Russian Human Rights Commissioner has expressed his views on this regarding the law should be complied with the law.
 
 ...
 
 [Data](articles/1e79c3d3.json)
+
+[Extended Data](ext_articles/1e79c3d3.ext.json)
 
 ---
 
@@ -88,17 +142,23 @@ The Chinese President has thanked the Chinese President for the assistance of th
 
 ---
 
-### පාචනය නිසා අඹුසැමි යුවළක් මරුට
+### Couple killed due to diarrhea
 
 *2024-03-27 16:55:49* · [`adalk`](https://www.ada.lk/breaking_news/පාචනය-නිසා-අඹුසැමි-යුවළක්-මරුට/11-408832) · `si`
 
-අගලවත්ත ප්‍රෙද්ශයේ අඹු සැමි යුවලක් හදිසියේ ඇතිවූ වමනය හා පාචන රෝගී තත්ත්වයක් හේතුවෙන්  මිය ගොස් ඇති බව වාර්තාවේ. සැමියා නිවසේදීත් බිරිඳ  කළුතර නාගොඩ රෝහලට ඇතුළත් කර  ප්‍රතිකාර ලබමින් සිටියදි අද  27 මිය ගොස් ඇතැයි පොලිසිය පවසයි.
+A couple in Agalawatta died from sudden vomiting and diarrhea. The husband died at home, and the wife was hospitalized in Kalutara.
 
-මිය ගොස් ඇත්තේ  අගලවත්ත වදුරබිබ පදිංචිව සිටි වන්නි ආරච්චිගේ උපාලි  ඩයස් වයස අවුරුදු 59 වන  අය හා ඔහුගේ බිරිදවන  චන්ද්‍රිකා  අමරසිංහ යන අයවලුන් බව පොලිසිය සඳහන් කරයි.
+🟩
+
+Meeting of a couple in Agalawatta area has died due to a sudden vomit and disorder condition. The husband has died in the house at home and his wife was admitted to the Nagoda hospital in Kalutara.
+
+Wanni Arachchige Upali Dias, a resident of Aragalawatta, the police said.
 
 ◼️
 
 [Data](articles/5b1d227f.json)
+
+[Extended Data](ext_articles/5b1d227f.ext.json)
 
 ---
 
@@ -2253,83 +2313,5 @@ He further stated that the person acting as the Director General was appointed u
 [Data](articles/11723f9d.json)
 
 [Extended Data](ext_articles/11723f9d.ext.json)
-
----
-
-### One person was killed in police firing on a group of robbers;Two escapes
-
-*2024-03-27 09:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/179789) · `ta`
-
-In Naramala, a robber was killed by police during a robbery attempt on mobile phone buyers. Two robbers escaped. The victims were injured and admitted to Kurunegala Teaching Hospital.
-
-🟩
-
-One person was killed in police firing on a group of robbers in Naramala area.
-
-Two more robbers fled the scene, police said.
-
-Police said the robbers had tried to steal money from those who had come to buy mobile phones in the aftermath of the commercials issued by the newspaper on Apple iPhone sales.
-
-Seeing the advertisement, those who came to buy mobile phones to the Ruwanwella area were suspicious of the publicity, they went to meet the robbers with the police.
-
-The robbers told them to come to the place of Narammala and the robbers attacked their car with sharp weapons.
-
-The police said that a police officer fired at the robbers during a melee with police officers.
-
-A robber died after being admitted to the hospital. Two robbers have escaped.
-
-Meanwhile, two persons who came to buy mobile phones have been admitted to the Kurunegala Teaching Hospital after being injured in the attack of the robbers.
-
-◼️
-
-[Data](articles/ee98fddc.json)
-
-[Extended Data](ext_articles/ee98fddc.ext.json)
-
----
-
-### Six killed in suicide attack on Chinese engineers in Pakistan
-
-*2024-03-27 08:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98228/six-killed-in-suicide-attack-on-chinese-engineers-in-pakistan) · `en`
-
-A suicide bomber rammed a vehicle into a convoy of Chinese engineers working on a dam project in northwest Pakistan on Tuesday, killing six people, police said, the third major attack on Chinese interests in the South Asian country in a week.
-
-The first two attacks targeted a Pakistan naval air base and a strategic port used by China in the southwest province of Balochistan where Beijing is investing billions in infrastructure projects.
-
-The engineers were en route from Islamabad to their camp at the dam construction site in Dasu in the province of Khyber Pakhtunkhwa, regional police chief Mohammad Ali Gandapur said.
-
-“Five Chinese nationals and their Pakistani driver were killed in the attack,” Gandapur told Reuters.
-
-Dasu is the site of a major dam and the area has been attacked in the past. A blast on a bus killed 13 people, including nine Chinese nationals, in 2021.
-
-...
-
-[Data](articles/da8354a2.json)
-
-[Extended Data](ext_articles/da8354a2.ext.json)
-
----
-
-### The underworld in the South who scared tourists
-
-*2024-03-27 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194982) · `si`
-
-IGP Deshabandu Tennakoon highlights the impact of underworld activities in the Southern Province on tourism, emphasizing the need for law enforcement and a favorable environment for visitors.
-
-🟩
-
-IGP Deshabandu Tennakoon says that the peaceful air of the country directly affects tourism.
-
-He said that tourist arrivals were shocked by underworld activities in the Southern Province due to shooting in the Southern Province.
-
-"Travelers are afraid of terrorism like underworld activities. In the south coast, tourists are shocked by organized criminal activities in Benthara, Ahungalla, Kosgoda, Ratgama and Hikkaduwa areas. People in countries like in Europe like living in many peaceful environments. Those people are shocked when they come and see them here. Eternal people will not come back here. Therefore, it is essential to maintain the law and creating a favorable environment to tourists. "
-
-IGP Deshabandu Tennakoon says steps will be taken to regulate various activities based on quality tourism.
-
-◼️
-
-[Data](articles/61f00978.json)
-
-[Extended Data](ext_articles/61f00978.ext.json)
 
 ---

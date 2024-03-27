@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 18:22:04**
+As of **2024-03-27 18:33:50**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,498
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,533 (100.0%) of 15,537 articles have been extended.
+15,537 (100.0%) of 15,537 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### ஜேர்மனியில் பேர்லின் - சூரிச் பஸ் விபத்து : ஐவர் பலி
+### Berlin in Germany - Zurich bus accident
 
 *2024-03-27 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/179843) · `ta`
 
-ஜேர்மனியில் இன்று இடம்பெற்ற பஸ் விபத்தில் குறைந்தபட்சம் ஐவர் பலியானதுடன் டசின் கணக்கானோர் காயமடைந்துள்ளனர் என பொலிஸார் தெரிவித்துள்ளரன்.
+A bus accident on the route from Berlin, Germany to Zurich, Switzerland, resulted in at least five deaths and numerous injuries. The bus, operated by Flixbus, carried 53 passengers and two drivers. The cause of the accident is still under investigation.
 
-ஜேர்மனியின் பேர்லின் நகரிலிருந்து சுவிட்ஸர்லாந்தின் சூரிச் நகரை நோக்கி இந்த பஸ் சென்றுகொண்டிருந்ததாக பிளிக்ஸ்பஸ் நிறுவனம் தெரிவித்துள்ளது.
+🟩
 
-மேற்படி பஸ்ஸில் 53 பயணிகளும் இரு சாரதிகளும் இருந்தனர் எனவும் விபத்துக்கான காரணம் தெரியவில்லை எனவும் அந்நிறுவனம் அறிக்கையொன்றில் குறிப்பிட்டுள்ளது.
+At least five people were killed in a bus accident in Germany today, and many people were injured, police said.
+
+The bus was heading from Berlin, Germany to Zurich, Switzerland, Flixbus said.
+
+The company said in a statement that there were 53 passengers and two drivers on the bus and the cause of the accident was unknown.
 
 ◼️
 
 [Data](articles/0663b544.json)
+
+[Extended Data](ext_articles/0663b544.ext.json)
 
 ---
 
@@ -59,6 +65,8 @@ The Skills College of Technology (SCOT) agreed to take the responsibility and fi
 ◼️
 
 [Data](articles/39b456df.json)
+
+[Extended Data](ext_articles/39b456df.ext.json)
 
 ---
 
@@ -77,6 +85,8 @@ Rajitha will return to Sri Lanka to start rehabilitation work, Sri Lanka Cricket
 ◼️
 
 [Data](articles/cd0f9e9a.json)
+
+[Extended Data](ext_articles/cd0f9e9a.ext.json)
 
 ---
 
@@ -1292,25 +1302,35 @@ The 43-year-old held in this operation was identified as a resident of Nikawewa 
 
 ---
 
-### බොල්ටිමෝර් පාලම කඩා වැටීම ගැන අප දන්නා තොරතුරු
+### The information we know about the collapse of the Boltimore bridge
 
 *2024-03-27 12:34:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce97lq93l1mo) · `si`
 
-අඟහරුවාදා අලුයම බහාලුම් ප්‍රවාහන නෞකාවක් එක්සත් ජනපදයේ බොල්ටිමෝර් නගරයට නුදුරින් පිහිටි ෆ්‍රැන්සිස් ස්කොට් කී පාලමේ ගැටුනේ එහි වැඩි කොටසක් කඩා වැටීමට සලස්වමිනි.
+The Boltimore Bridge collapsed in Maryland, USA, on Tuesday, with a container ship nearby. Vehicles fell into the Pattapsco River, killing 6 construction workers. The bridge, opened in 1977, is the third-largest of its kind globally. The ship, named Dalyy, was tied to the bridge's support. The fire department reported the bridge had fallen completely. A search and rescue operation is underway, with two people recovered, one in serious condition. The ship was leased by Maersk under the Synergy Group and was transporting goods to Colombo. The accident's cause is under investigation.
 
-එම අවස්ථාවේ පාලම හරහා ගමන් කරමින් තිබුණු වාහන කිහිපයක් පැටැප්ස්කෝ නදියට ඇද වැටුණු අතර ජලයට වැටී ඇති බවට විශ්වාස කෙරෙන පුද්ගලයින් 7ත් 20ත් අතර සංඛ්‍යාවක් මුදා ගැනීමට ගලවාගැනීමේ කණ්ඩායම් සෝදිසි මෙහෙයුම් දියත් කර තිබේ.
+🟩
 
-පැටප්ස්කෝ ගඟට වැටුණු පිරිස අතර ඉදිකිරීම් කම්කරුවන් හය දෙනෙක් සිටින අතර ඔවුන් සියල්ලන්ම මිය ගොස් ඇතැයි අනුමාන කෙරේ.
+On Tuesday, a container carrier ship is far from Francis Scott Key Bridge near Boltimore, USA.
 
-අනතුරින් පසු මේරිලන්ඩ් ආණ්ඩුකාර වෙස් මුවර් විසින් හදිසි තත්ත්වයක් ප්‍රකාශයට පත් කරනු ලැබ ඇත.
+Several vehicles traveling across the bridge have fallen into the Pattapsco and liberated between 7 and 20 people who believe in the water.
 
-බොල්ටිමෝර් පාලම, බොහෝ දෙනා දන්නා පරිදි කී පාලම, 1977 වසරේදී විවෘත කරන ලද්දේ එක්සත් ජනපද ජාතික ගීය වන 'Star Spangled Bannerහි පද රචනා කළ 19 වන සියවසේ මේරිලන්ඩ් ප්‍රාන්තයේ විසූ කවියෙකු වන ෆ්‍රැන්සිස් ස්කොට් කීට ගෞරවයක් වශයෙනි.
+There are six construction workers among the people who fell into the Pathopsco river, and they all have died.
 
-මෙම පාලම අඩි 8,636ක් (මීටර් 2,632) දිගින් යුක්ත වූ අතර එය පැටැප්ස්කෝ නදිය සහ බොල්ටිමෝර් වරාය හරහා විහිද ගොස් තිබිණි. පැටැප්ස්කෝ නදිය එක්සත් ජනපදයේ විශාලතම මෝය වන චෙසපීක් බොක්ක වෙත ගලා බසී.
+After the accident, Maryland governor has been declared an urgent situation.
+
+The Boltimore Bridge, as many knows, was opened in 1977 as a poet in Maryland state 'Star Spangled Banner.
+
+The bridge was 8,636 feet (2,632 meters), compared to the Pattameko and Boltimore ports. Patpusco River flows to the Chespake Bay, the largest estuary in the United States.
+
+It is described as a tuse bridge, which is 1,200 feet in the bridge, which extends from one guide to the other, is the third largest bridge from such kinds of bridges in the world.
+
+Videos appear how the ship called Dalyy is tied to the support of the bridge.
 
 ...
 
 [Data](articles/9aa57025.json)
+
+[Extended Data](ext_articles/9aa57025.ext.json)
 
 ---
 

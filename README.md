@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 13:52:34**
+As of **2024-03-27 14:03:50**
 
 ## Newspaper Stats
 
-*Scraped **15,484** Articles*
+*Scraped **15,485** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 835
 economynextcom | 836
 islandlk | 854
-adalk | 1,318
+adalk | 1,319
 adaderanalk | 1,857
 tamilmirrorlk | 1,863
 virakesarilk | 2,186
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,485
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,483 (100.0%) of 15,484 articles have been extended.
+15,484 (100.0%) of 15,485 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The writ application was put forward requesting that an order be issued to the I
 ...
 
 [Data](articles/003aa12a.json)
+
+[Extended Data](ext_articles/003aa12a.ext.json)
 
 ---
 
@@ -119,6 +121,24 @@ The Minister said that the implementation of law against those responsible for t
 [Data](articles/b143890b.json)
 
 [Extended Data](ext_articles/b143890b.ext.json)
+
+---
+
+### හෙට දහවල් 2.00 පසු පලාත් කිහිපයකට තද වැසි
+
+*2024-03-27 12:45:17* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-දහවල්-2-00-පසු-පලාත්-කිහිපයකට-තද-වැසි/11-408824) · `si`
+
+අද (27) දහවල් 12.00න් පසු කාලගුණ විද්‍ය දෙපාර්ථමේන්තුව විසින් නිකුත්කල කාලගුණ අනාවැකි ලෙස
+
+බස්නාහිර, සබරගමුව, දකුණ, මධ්‍යම, ඌව, වයඹ සහ උතුරු මැද පළාත්වල ප.ව. 2.00 න් පමණ පසු වැසි
+
+හෝ ගිගුරුම් සහිත වැසි ඇතිවේ. බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථාන වලට මි. මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැක.
+
+නැ‌ගෙනහිර පළාත්වලටද  වැසි වාර කිහිපයක් ඇතිවිය හැකි බව ඔබුන් විසින් දන්වා ඇත.
+
+◼️
+
+[Data](articles/88fa49df.json)
 
 ---
 
@@ -2287,25 +2307,5 @@ The North Colombo Centre for Liver Diseases serves as a postgraduate training ce
 [Data](articles/2f2b1753.json)
 
 [Extended Data](ext_articles/2f2b1753.ext.json)
-
----
-
-### Hot air over elections and Commissioner of Elections - EDITORIAL
-
-*2024-03-27 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Hot-air-over-elections-and-Commissioner-of-Elections-EDITORIAL/172-279651) · `en`
-
-The Commissioner of Elections made it clear to all Lankans that the presidential elections would be held in a timely manner in keeping with Constitutional requirements.
-
-To him we owe a vote of thanks. Many a citizen had begun to doubt whether elections -presidential or general elections- would be held at any time in the near future, given the number of elections postponed via sleight of hand over the years.
-
-Even as we pen these lines, our country is going through one of the hottest periods weather-wise. As though this were not bad enough, political party leaders and their followers are also breathing fire at their opponents, adding to the heat.
-
-We continue witnessing intra-party squabbles in the Samagi Jana Balawegaya and dirty linen being washed in public. The ‘National People’s Power is gaining in popularity. But in the past it has not been able to turn this into actual votes.
-
-...
-
-[Data](articles/c0e99e90.json)
-
-[Extended Data](ext_articles/c0e99e90.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 12:49:58**
+As of **2024-03-27 13:03:14**
 
 ## Newspaper Stats
 
-*Scraped **15,478** Articles*
+*Scraped **15,479** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 835
 economynextcom | 836
 islandlk | 854
-adalk | 1,317
+adalk | 1,318
 adaderanalk | 1,856
 tamilmirrorlk | 1,861
 virakesarilk | 2,186
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,485
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,474 (100.0%) of 15,478 articles have been extended.
+15,478 (100.0%) of 15,479 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,39 +50,53 @@ The 43-year-old held in this operation was identified as a resident of Nikawewa 
 
 [Data](articles/744e39bf.json)
 
+[Extended Data](ext_articles/744e39bf.ext.json)
+
 ---
 
-### மாதம்பையிலிருந்து  கம்பளை  சென்று கொண்டிருந்த பஸ் தீப்பிடித்து எரிந்தது!
+### The bus that was traveling in Gampola from monthly fire burned fire!
 
 *2024-03-27 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/179815) · `ta`
 
-இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான ஒன்று குருணாகல் மல்கடுவாவ பிரதேசத்தில்  திடீரென தீப்பற்றி எரிந்துள்ளது.
+A bus traveling from Gampola to Kurunegala Malkaduwa was engulfed in a fire, sparked by a Sri Lanka Transport Board (SLTB) vehicle. The Kurunegala Fire Division was called to extinguish the flames.
 
-மாதம்பையிலிருந்து கம்பளை நோக்கிச் சென்று கொண்டிருந்த  பஸ்ஸிலேயே இந்த தீ விபத்து ஏற்பட்டுள்ளது.
+🟩
 
-பின்னர் அங்கு வந்த  குருணாகல் தீயணைப்பு பிரிவினர்  தீயை முழுமையாக கட்டுப்பாட்டுக்குள் கொண்டு வந்தனர்.
+One of the Sri Lanka Transport Board (SLTB) has suddenly burned a fire in the Kurunegala Malkaduwa area.
+
+The fire broke out in a bus traveling to Gampola from monthly.
+
+Then the Kurunegala Fire Division came there to bring the fire under control.
 
 ◼️
 
 [Data](articles/30a8dfc9.json)
 
+[Extended Data](ext_articles/30a8dfc9.ext.json)
+
 ---
 
-### සම්බාහන මධ්‍යස්ථාන 53ක් වසා දමයි
+### 53 massage centers closed
 
 *2024-03-27 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194990) · `si`
 
-සම්භාහන මධ්‍යස්ථාන මුවාවෙන් මීගමුව ප්‍රදේශය ආශ්‍රිතව පවත්වාගෙන ගිය ගණිකා නිවාසවල සේවයේ නිරත වූ කාන්තාවන් දෙදෙනෙකුට HIV ඒඩ්ස් වැලඳී ඇති බවට වෛද්‍ය පරීක්ෂණයකදී අනාවරණය වී තිබේ.
+53 massage centers in Negombo closed due to illegal brothel operations, leading to 137 arrests and 2 HIV cases among the workers.
 
-අද පැවති මාධ්‍ය හමුවකට එක්වෙමින් පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තලදූව මහතා මේ බව පැවසීය.
+🟩
 
-මෙම වැටලීමේදී සම්භාහන මධ්‍යස්ථාන 53ක්  වසා දැමීමට කටයුතු කර ඇති අතර ඒවායේ සේවයේ නිරතව සිටි කාන්තාවන් 137ක් අත්අඩංගුවට ගෙන තිබේ.
+In a medical examination, two women employed in the prostitutes employed in the Negombo area under the guise of the centers have revealed HIV.
 
-"පසුගිය දින කිහිපය තුළ මීගමුව, කොච්චිකඩේ සහ සීදූව කියන පොලිස් වසම්වල විශේෂ වැටලීමක් සිදුකරා. ඒවා නීතිවිරෝධී ලෙස ගණිකා නිවාස ලෙස පවත්වාගෙන යන බවට බුද්ධි තොරතුරු වාර්තා වී තිබුණා. ගණිකා නිවාස පවත්වාගෙන යාම, ගණිකාවන් ලෙස පුද්ගලයින් සේවයේ යෙදවීම ඒවායේ රැඳී සිටීම, එම ස්ථානය කළමනාකරණය කිරීම යන චෝදනා යටතේ පිරිසක් අත්අඩංගුවට ගත්තා. එම සැකකරුවන් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව වෛද්‍ය පරීක්ෂණ සඳහා ඉදිරිපත් කරනු ලැබුවා."
+Speaking at a media briefing held today, police spokesman DIG Taladuuwa said this.
+
+At least 53 centers were closed down and 137 women were arrested in their work.
+
+"In the past few days, a special raid has been carried out on Negombo, Kochchikade and Seeduwa. Intellectual information was reported that they were illegally running as brothels. Maintaining brothels, employing people as prostitutes, have been arrested in charge of managing the place. The suspects were produced before courts and submitted to medical tests. "
 
 ...
 
 [Data](articles/9e7612b2.json)
+
+[Extended Data](ext_articles/9e7612b2.ext.json)
 
 ---
 
@@ -138,25 +152,35 @@ The hospital is the largest maternity hospital in South Asia.
 
 ---
 
-### கடலுக்குள் விழுந்த உதவிப்பொருட்களை மீட்க முயன்ற 12 பேர் பலி - காசாவில் தொடரும் துயரம்
+### 12 people killed to rescue aid items that fell into the sea - tragedy continued
 
 *2024-03-27 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/179813) · `ta`
 
-காசாமீது வான்வெளிஊடாக வீசப்பட்ட உதவிப்பொருட்கள் கடலில் விழுந்தவேளை அவற்றை எடுக்க முயன்ற 12 பேர் கடலில்மூழ்கி உயிரிழந்துள்ளனர்.
+12 people drowned trying to rescue aid items from the sea, amidst fears of hunger due to Israel's military action. Videos show the tragic scene, including a young man being rescued but ultimately succumbing to his injuries. The incident highlights the desperation for food and the failure of humanitarian aid delivery.
 
-இஸ்ரேலின் ஆறுமாத இராணுவநடவடிக்கை காரணமாக காசவில் பெரும் பட்டினிநிலை உருவாகியுள்ளது என்ற அச்சத்தின் மத்தியில் இந்த சம்பவம் இடம்பெற்றுள்ளது.
+🟩
 
-வடகாசாவில் உள்ள பென்லகியா கடற்கரையோரத்தை நோக்கி பொதுமக்கள் ஒடுவதையும் அதன் பின்னர் ஆழமான நீரில் பொதுமக்கள் காணப்படுவதையும் பின்னர் அவர்களின் உடல்கள் மீட்கப்படுவதையும் காண்பிக்கும் வீடியோக்கள் வெளியாகியுள்ளன.
+At least 12 people have died in the sea when they tried to take them when they fell into the sea.
 
-தாடியுடன் காணப்படும்  இளம்வயது நபர் ஒருவரின் உடல் கடலில் இருந்து மீட்கப்படுவதையும் ஆனால்அவரின் கண்களில்அசைவில்லாததையும் நபர் ஒருவர் அவரை காப்பாற்ற முயல்வதையும் அவர் இறந்துவிட்டார் என யாரோ தெரிவிப்பதையும் வீடியோ காண்பித்துள்ளது.
+The incident took place amid fears that Israel's six -month military action has created huge hunger in cash.
 
-அவர் தனது பிள்ளைகளிற்கு உணவை பெற்றுக்கொள்வதற்காக கடலுக்குள் நீந்தி சென்றார் அவர் தியாகியாக மாறிவிட்டார் என கடற்கரையில் காணப்படும் ஒருவர் தெரிவிப்பதை வீடியோ காண்பித்துள்ளது.
+Videos have been revealed that the public is wrapped towards the Benelagia coast in Vadakasa, followed by the public in deep water and their bodies are recovered.
 
-அவர்கள் தரைவழி ஊடாக மனிதாபிமான உதவிகளை வழங்கவேண்டும் ஏன் இப்படி செய்கின்றார்கள் எனஅவர் கேள்விஎழுப்பியுள்ளார்.
+The video shows the video that a young man with a beard is recovered from the sea, but in his eyes, the person is trying to save him and that he is dead.
 
-...
+The video shows a person on the beach that he went to the sea to find food for his children.
+
+He questioned why they should provide humanitarian assistance through the ground.
+
+The Pentagon, who said that the humanitarian aid was thrown by the Parasood in 18 packages, said that they fell into the sea as Parasood was not functioning.
+
+It is customary for some people in the gaza to die of weeds and to eat the bread made from the diet of animals.
+
+◼️
 
 [Data](articles/ec6c0aed.json)
+
+[Extended Data](ext_articles/ec6c0aed.ext.json)
 
 ---
 
@@ -577,6 +601,26 @@ Pottuvil Azmin, who wrote the song, and Sanuka Wickremasinghe, who composed the 
 [Data](articles/60997094.json)
 
 [Extended Data](ext_articles/60997094.ext.json)
+
+---
+
+### දුරකථන අලෙවිකරණ බවට දැන්වීම් පළ කර කොල්ලකන කල්ලියකට පොලීසියෙන් වෙඩි
+
+*2024-03-27 11:28:35* · [`adalk`](https://www.ada.lk/breaking_news/දුරකථන-අලෙවිකරණ-බවට-දැන්වීම්-පළ-කර-කොල්ලකන-කල්ලියකට-පොලීසියෙන්-වෙඩි/11-408823) · `si`
+
+මංකොල්ලකරුවන් පිරිසක්  ජංගම දුරකථන අලෙවිකරණ බවට පුවත්පත් දැන්වීම් පළ කර  දුරකථන මිලදී ගැනීමට පැමිණෙන පුද්ගලයින්ගේ මුදල් කොල්ලකෑමට උත්සාහ දරා ඇති බව පොලීසිය පැවසුවේය.
+
+අදාළ දැන්වීමට අනුව ජංගම දුරකථන මිලදී ගැනීම සඳහා රුවන්වැල්ල ප්‍රදේශයේ පිරිසක් පැමිණ ඇති අතර, ඔවුන්ට සැකයක් ඇති වී ඒ පිළිබඳව පොලීසියට දන්වා පොලිස් නිලධාරීන් සමග ඔවුන් හමුවීමට ගොස් තිබේ.
+
+නාරම්මල ප්‍රදේශයේ ස්ථානයකට පැමිණෙන ලෙස කොල්ලකරුවන් පිරිස ඔවුන්ට දන්වා ඇති අතර එම ස්ථානයට පැමිණීමත් සමග කොල්ලකරුවන් ඔවුන්ගේ මෝටර් රථයට තියුණු ආයුධවලින් පහරදී තිබේ.
+
+එහිදී පොලිස් නිලධාරීන් සමග ඇති වූ පොරබැඳීමක් අතරතුර පොලිස් නිලධාරීන් කොල්ලකරුවන් පිරිසට වෙඩි තබා ඇති අතර එහිදී කොල්ලකරුවන් දෙදෙනෙකු පළා ගොස් එක් කොල්ලකරුවෙකු වෙඩි වැදීමෙන් තුවාල ලැබා රෝහල්ගත කිරීමේදී මිය ගොස් තිබේ.
+
+එමෙන්ම කොල්ලකරුවන් එල්ල කළ ප්‍රහාරය හේතුවෙන් තුවාල ලැබූ ජංගම දුරකථන මිලදී ගැනීමට පැමිණි දෙදෙනාද තුවාල ලබා කුරුණෑගල ශික්ෂණ රෝහලට ඇතුළත් කර තිබේ.
+
+◼️
+
+[Data](articles/71329c6a.json)
 
 ---
 
@@ -2259,21 +2303,5 @@ The Pali Canon has the original tale but it’s the version in the commentaries 
 [Data](articles/d789009e.json)
 
 [Extended Data](ext_articles/d789009e.ext.json)
-
----
-
-### The Forgotten Guardians Of The Seas; Reviving Sri Lanka’s Naval Power
-
-*2024-03-26 23:28:45* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-forgotten-guardians-of-the-seas-reviving-sri-lankas-naval-power/) · `en`
-
-In the annals of history, the figure of Sir Walter Raleigh stands as a beacon of exploration and adventure. Yet, beyond his gallant exploits, lies a deeper narrative of maritime dominance and strategic prowess that shaped nations and empires. During Raleigh’s era, explorers were not mere cartographers, but rather daring adventurers who sailed the seas under state patronage, seizing goods and treasures from maritime trade routes.
-
-These audacious exploits weren’t just acts of piracy; they were the seeds of national wealth and diplomatic influence. By enriching their coffers through maritime plunder, these seafaring knights ascended to diplomatic status, eventually earning knighthood and securing a lasting legacy for their descendants. This narrative, often overshadowed by tales of piracy, underscores the pivotal role of naval power in shaping the course of history.
-
-...
-
-[Data](articles/c69f5f9f.json)
-
-[Extended Data](ext_articles/c69f5f9f.ext.json)
 
 ---

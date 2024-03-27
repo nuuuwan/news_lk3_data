@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 12:17:56**
+As of **2024-03-27 12:33:27**
 
 ## Newspaper Stats
 
-*Scraped **15,467** Articles*
+*Scraped **15,474** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,121 @@ dailyftlk | 835
 economynextcom | 836
 islandlk | 854
 adalk | 1,317
-adaderanalk | 1,854
-tamilmirrorlk | 1,859
-virakesarilk | 2,183
-dailymirrorlk | 2,386
+adaderanalk | 1,855
+tamilmirrorlk | 1,861
+virakesarilk | 2,184
+dailymirrorlk | 2,389
 adaderanasinhalalk | 2,484
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,460 (100.0%) of 15,467 articles have been extended.
+15,467 (100.0%) of 15,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
+
+### Sri Lanka looking to adopt India’s digital model
+
+*2024-03-27 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/98233/sri-lanka-looking-to-adopt-indias-digital-model) · `en`
+
+Sri Lanka’s President Ranil Wickremesinghe has expressed admiration for India’s digital achievements, citing it as a model worth emulating. Speaking at a conference on Digital Public Infrastructure (DPI) in Colombo, President Wickremesinghe emphasised the need for collaboration with India, highlighting the potential to save years in development by adopting India’s digital strategies.
+
+“In implementing it, we needed help, and the best place we could get was India. I spoke with PM Modi when I was in India last year, and as part of our integration, we said, we would like to go with India, you have done so much,” stated President Wickremesinghe, underlining the significance of seeking guidance from India’s experience.
+
+...
+
+[Data](articles/f3522d08.json)
+
+---
+
+### கராப்பிட்டியவில் புதிய மகப்பேறு வைத்தியசாலை வைத்தியசாலை திறப்பு
+
+*2024-03-27 12:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/179812) · `ta`
+
+காலி, கராப்பிட்டியவில் ஜேர்மன் – இலங்கை நட்புறவு புதிய மகப்பேறு வைத்தியசாலை திறந்து வைக்கப்பட்டுள்ளது.
+
+இதனை ஜனாதிபதி ரணில் விக்கிரமசிங்க இன்று புதன்கிழமை (27) காலை திறந்து வைத்தார்.
+
+வைத்தியசாலையில் 640 படுக்கைகள், 06 சத்திர  சிகிச்சை பிரிவுகள், தீவிர சிகிச்சை, குழந்தைகள் பிரிவு மற்றும் நவீன வசதிகள் உள்ளன.
+
+இந்த வைத்தியசாலை இலங்கையில் மாத்திரமன்றி தெற்காசியாவிலேயே மிகப் பெரிய மகப்பேறு வைத்தியசாலையாகவும் விளங்குகிறது.
+
+◼️
+
+[Data](articles/d354aa72.json)
+
+---
+
+### தீப்பிடித்து எரிந்த பயணிகள் பஸ்
+
+*2024-03-27 12:10:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீப்பிடித்து-எரிந்த-பயணிகள்-பஸ்/175-335255) · `ta`
+
+குருநாகல் மல்கடுவாவ பிரதேசத்தில் இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பஸ் ஒன்று திடீரென தீப்பற்றி எரிந்து விபத்துக்கு உள்ளாகியுள்ளது.
+
+மாதம்பேயில் இருந்து கம்பளை நோக்கிச் சென்று கொண்டிருந்த பஸ்ஸிலேயே தீ விபத்து ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/5574e914.json)
+
+---
+
+### President inaugurates Sri Lanka’s largest maternity hospital in Galle
+
+*2024-03-27 12:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-inaugurates-Sri-Lankas-largest-maternity-hospital-in-Galle/108-279705) · `en`
+
+Galle, March 27 (Daily Mirror) - President Ranil Wickremesinghe inaugurated Sri Lanka's largest maternity hospital a short while ago.
+
+According to the President's Media Division, the hospital, named the German-Sri Lanka Friendship New Women's Hospital situated in Karapitiya, Galle consists of 640 beds, six operating theaters, emergency units, intensive care units, pediatric units and modern facilities.
+
+They said the inauguration of this hospital marks a significant advancement in Sri Lanka's healthcare.
+
+◼️
+
+[Data](articles/feac543b.json)
+
+---
+
+### உலகின் மிகப்பெரிய பாம்பு கொல்லப்பட்டது
+
+*2024-03-27 12:08:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உலகின்-மிகப்பெரிய-பாம்பு-கொல்லப்பட்டது/175-335254) · `ta`
+
+உலகின் மிகப்பெரிய பாம்பு என விலங்கியல் வல்லுநர்கள் உலகுக்கு அறிமுகப்படுத்திய 26 அடி நீளமான அனகோண்டா கொல்லப்பட்டுள்ளதாக சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+அமேசான் காடுகளின் பழங்குடியினரால் வழிநடத்தப்பட்ட 15 விலங்கியல் வல்லுநர்கள் கொண்ட சர்வதேச குழு, கடந்த பிப்ரவரி மாதம் அமேசான் ஆற்றின் துணை நதியில் இந்த மிகப்பெரிய அனகோண்டாவைக் கண்டுபிடித்தது. இந்த பெண் அனகோண்டாவுக்கு 'அன்னா ஜூலியா' என்று பெயரிடப்பட்டது.
+
+அனகோண்டாக்கள் உலகின் மிகப்பெரிய பாம்புகளாக கருதப்படுகின்றன. அனகோண்டாக்கள் மலைப்பாம்பு வகை. அனகோண்டாக்களில், 'அன்னா ஜூலியா' மிகப்பெரிய அனகோண்டாவாகக் கருதப்பட்டது. 'அன்னா ஜூலியா' என்பது வடக்கு பச்சை அனகோண்டா ஆகும், மேலும் வடக்கு பச்சை அனகோண்டாக்கள் அனகோண்டாவின் புதிய இனம் என்பதை விஞ்ஞானிகள் உறுதிப்படுத்தியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0f2a3101.json)
+
+---
+
+### Schoolgirls to receive vouchers for sanitary napkins after New Year
+
+*2024-03-27 12:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Schoolgirls-to-receive-vouchers-for-sanitary-napkins-after-New-Year/108-279704) · `en`
+
+Colombo, March 27 (Daily Mirror) - After the upcoming Sinhala and Tamil New Year festivals, steps have been taken to provide vouchers to schoolgirls to buy sanitary napkins, Education Minister Susil Premajayantha said.
+
+He said the decision was targeted at increasing the hygiene habits of schoolgirls and providing opportunities for girls who face challenges in getting adequate sanitary facilities.
+
+Accordingly, steps are being taken to distribute sanitary napkins to nearly 800,000 schoolgirls in difficult, extreme, isolated areas and schools with identified poverty.
+
+The Minister further said that a Bill has already been presented to Cabinet for approval.
+
+The expected provision to be spent by the government for this purpose is about Rs. 1 billion, and the value of each voucher is about Rs. 1,200.
+
+The Minister also said that the aim of this programme is to provide support to girls from economically disadvantaged families by strengthening healthy habits among schoolchildren.
+
+◼️
+
+[Data](articles/c5fdd587.json)
+
+---
 
 ### Why are foreign envoys making a beeline to  the JVP?
 
@@ -50,75 +150,105 @@ That is an achievement for the party that languished on the sideline. Their luck
 
 ---
 
-### මුදල් කොල්ලයකට ආ පුද්ගලයින් ගැන පොලීසිය සැකයක්
+### Police suspect of persons who came to a robbery
 
 *2024-03-27 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194989) · `si`
 
-මුදල් කොල්ලයකට කොල්ලකරුවන් කණ්ඩායමක් අත්අඩංගුවට ගැනීමට යෑමේදී පොලීසිය සමග සිදු වූ පොරබැදීමකින් කොල්ලකරුවකු මියගොස් තිබුණි.
+Police suspect two individuals involved in a robbery that led to the death of a 23-year-old man. The victims were identified as Dinesh Dulera from Weragala. Two suspects fled the scene, and police are investigating a case of buying phones at a low price. Officers met with suspects, who were hiding in a car, but a confrontation resulted in a shootout, leaving one suspect dead. Two teenagers were injured in the incident.
 
-එලෙස මියගොස් ඇත්තේ, 23 හැවිරිදි දිනේෂ් දුලාර නැමති වේරගල ප්‍රදේශයේ පදිංචිකරුවෙකි.
+🟩
 
-ඒ සමග සැකකරුවන් දෙදෙනෙකු පළාගොස් ඇති බව ද පොලීසිය සඳහන් කළේය.
+A robber killed had been killed while investigating a group of robbers into a cash robbery.
 
-වැඩි වටිනාකමකින් යුත් ජංගම දුරකථන අඩු මිලකට ලබා දෙන බවට සමාජ මාධ්‍ය ඔස්සේ දැන්වීම පළකර එලෙස දුරකථන මිලදී ගැනීමට පැමිණෙන පුද්ගලයින් මංකොල්ලකන කණ්ඩායමක් පිළිබඳව පොල්ගහවෙල පොලීසියට ඊයේ (26) පැමිණිල්ලක් ලැබී තිබිණි.
+The victims were a resident of Weragala, a 23 year old Dinesh Dulera.
 
-ඒ අනුව අදාළ ජාවාරම්කරුන් පිරිස අත්අඩංගුවට ගැනීමට පොලිස් නිලධාරීන් තිදෙනෙකු අදාළ පැමිණිලිකරුවන් සමග ඔවුන් හමුවීමට ගොස් තිබෙනවා සිවිල් පුද්ගලයන් තිදෙනෙකු මෝටර් රථයක් තුළ සැඟවී ගොස් තිබේ.
+Two suspects have fled the police, police said.
+
+Polgahawela Police had lodged a complaint with a robbery team to buy telephones to be purchased at a low-price mobile phone.
+
+Accordingly, 3 police officers have gone to meet the racketeers with the relevant complaints with the relevant complaints with three civilians hiding in a car.
 
 ...
 
 [Data](articles/ab09752d.json)
 
+[Extended Data](ext_articles/ab09752d.ext.json)
+
 ---
 
-### ලංගම බස් රථයක් ගිනිගනී
+### SLTB buses fire
 
 *2024-03-27 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194988) · `si`
 
-කුරුණෑගල මල්කඩුවාව ප්‍රදේශයේදී ලංගම බස් රථයකට එක්වරම ගිනි ඇවිලීමෙන් අනතුරක් සිදුව තිබේ.
+A SLTB bus in Malkaduwawa, traveling from Madampe to Gampola, caught fire, damaging the bus. Residents helped extinguish the fire.
 
-මෙලෙස ගිනි ඇවිලී ඇත්තේ මාදම්පේ සිට ගම්පොළ බලා ධාවනය වෙමින් තිබූ ලංගම බස් රථයකටය.
+🟩
 
-ගින්න හේතුවෙන් බස් රථයට හානි සිදුව ඇති අතර ප්‍රදේශවාසීන් එක්ව ගින්න පාලනය කර තිබුණි.
+The SLTB bus in the Malkaduwawa area in Kalkadduwa area was associated with a crash.
 
-පසුව කුරුණෑගල ගිනි නිවීමේ ඒකකයෙන් පැමිණ ගින්න සමපූර්ණයෙන්ම නිවා දමා ඇත.
+The fire was traveling from Madampe to Gampola, a SLTB bus.
+
+The bus was damaged due to the fire and the residents of the area had controlled the fire.
+
+The fire has been extinguished by the fire extinguisher.
 
 ◼️
 
 [Data](articles/61b6b75a.json)
 
+[Extended Data](ext_articles/61b6b75a.ext.json)
+
 ---
 
-### நுவரெலியாவில் இருவேறு பகுதிகளில் கஞ்சா விற்பனை செய்த சகோதரர்கள் இருவர் கைது!
+### Two brothers arrested for selling cannabis in two parts of Nuwara Eliya
 
 *2024-03-27 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179809) · `ta`
 
-நுவரெலியா பொலிஸ் பிரிவிற்குட்பட்ட நுவரெலியா கட்டுமானை மற்றும் கலுகெலே ஆகிய பகுதிகளில் மூடப்பட்டிருந்த வாடகை விடுதிகளில் கஞ்சா போதைப்பொருளை சூட்சுமமான முறையில் மறைத்து வைத்து விற்பனையில் ஈடுபட்ட இரு சகோதரர்கள்  நுவரெலியா பொலிஸ் குற்றப்பிரிவினரால் கைது செய்யப்பட்டுள்ளனர்.
+Two brothers from Badulla, aged 25 and 32, were arrested in Nuwara Eliya for selling cannabis. They were caught with 50 grams during a raid. The cannabis was sold in rental hostels near Nuwara Eliya, with rooms rented for short periods. The police are investigating the drug's source and distribution network.
 
-நுவரெலியா பொலிஸ் குற்றப்பிரிவினருக்கு கிடைத்த இரகசிய தகவலுக்கு அமைய நேற்று செவ்வாய்க்கிழமை (26) மேற்கொள்ளப்பட்ட சுற்றிவளைப்பு தேடுதல் நடவடிக்கையின் போதே குறித்த இரண்டு விடுதியிலும் கஞ்சா போதைப்பொருள் கைப்பற்றப்பட்டதோடு விற்பனை செய்த இருவரையும் கைது செய்துள்ளனர்.
+🟩
 
-இதன்போது சந்தேகநபர்களிடமிருந்து 50 கிராம் கஞ்சா மீட்கப்பட்டுள்ளதாகவும் கைது செய்யப்பட்ட இருவரும் சகோதரர்கள் எனவும் பதுளை பகுதியைச் சேர்ந்த 25 மற்றும் 32 வயதான நபர்களே இவ்வாறு கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Two brothers have been arrested by the Nuwara Eliya Police Criminal in the Nuwara Eliya Police Division and the Nuwara Eliya Police Division and the Nuwara Eliya Police Division and Kalukele have been selling cannabis drugs.
+
+The two men who seized cannabis have been seized and sold at two hotels during a raid search operation conducted yesterday (26) according to confidential information received by the Nuwara Eliya Police Criminal Investigation.
+
+The 25 and 32 -year -olds from the Badulla area have been arrested by the police said that 50 grams of cannabis has been rescued from the suspects.
+
+Initial investigations have revealed that the cannabis was mainly selling cannabis in the other day, with rental hostels near the main city of Nuwara Eliya and that the cannabis was continuously selling cannabis and that the rooms were being rented for two or three days a week for two or three days a week.
 
 ...
 
 [Data](articles/d72e2f0b.json)
 
+[Extended Data](ext_articles/d72e2f0b.ext.json)
+
 ---
 
-### கொழும்பிலுள்ள அழகு சாதனப் பொருட்கள் விற்பனை நிலையங்களில் சோதனை  ; பதிவு செய்யப்படாத தோல் சிகிச்சை மருந்துகள் கைப்பற்றல்
+### Testing at cosmetics outlets in Colombo;Seizure
 
 *2024-03-27 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/179802) · `ta`
 
-இலங்கை தோல் வைத்திய நிபுணர்களின் சங்கம் விடுத்த எச்சரிக்கையை அடுத்து செவ்வாய்க்கிழமை (26) கொழும்பில் உள்ள பல முன்னணி அழகு சாதன பொருட்களின் விற்பனை நிலையங்களில் தேசிய மருந்துகள் ஒழுங்குமுறைப்படுத்தும் அதிகார சபையின் உணவு மற்றும் மருந்துகள் பரிசோதகர்கள் சோதனை நடவடிக்கையை முன்னெடுத்துள்ளனர்.
+The National Drug Regulatory Authority in Sri Lanka conducted tests at cosmetics outlets in Colombo, seizing over 470 unregistered skin therapeutic drugs, including steroids, from wholesalers. These drugs are not cosmetics but must be sold under doctor's recommendation due to potential skin damage. The operation was prompted by the Sri Lanka Skin Medical Experts Association's warning.
 
-இவ்வாறு விற்பனை செய்தவர்கள் கொழும்பு புறக்கோட்டையில் அழகு சாதன பொருட்களின் மொத்த விற்பனை நிலையங்களில் பதிவு செய்யப்படாத தோல் சிகிச்சை மருந்துகளை கொள்வனவு செய்ததாக  தெரிவித்ததாக தேசிய மருந்துகள் ஒழுங்குமுறைப்படுத்தும் அதிகாரசபையின் மூத்த அதிகாரி ஒருவர் தெரிவித்துள்ளார்.
+🟩
 
-இதனையடுத்து கதிரேசன் வீதியில் உள்ள இரண்டு அழகுசாதனப் பொருட்களின் மொத்த விற்பனை நிலையங்களை சோதனை செய்ததில் 470 க்கும் மேற்பட்ட தோல் சிகிச்சை மருந்துகளைக் கண்டுபிடித்தனர்.
+The Food and Drug Inspectors of the National Drug Regulatory Authority have launched a testing operation at several leading cosmetics stalls in Colombo on Tuesday (26) following a warning issued by the Sri Lanka Skin Medical Experts Association.
 
-குறித்த மருந்துகள் வைத்தியர்களின் பரிந்துரையில் மட்டுமே விற்பனை செய்யப்பட வேண்டும். இது ஒரு எளிமையான அழகுசாதனப் பொருள் அல்ல.
+A senior official of the National Drug Regulatory Authority said that those who sold these soldiers had purchased unregistered skin therapy in the wholesalers of cosmetics at the Colombo Fort.
+
+Subsequently, more than 470 skin therapeutic drugs were discovered by testing of the total outlet of two cosmetics on Kadirasan Road.
+
+The drugs must be sold only on the recommendation of the doctors. This is not a simple cosmetic material.
+
+Preliminary inquiries revealed that these unregistered drugs would bring local vendors to India and bring it into the country through customs.
+
+Two types of such drugs with three drug additives were seized. Hydroghuvinone, Tretinoin and Momatasone Furoate Cream are 3 chemical compounds. Steroid is one of them.
 
 ...
 
 [Data](articles/f9782631.json)
+
+[Extended Data](ext_articles/f9782631.ext.json)
 
 ---
 
@@ -244,21 +374,27 @@ However, he added that if the parliamentary election was to be held, it would no
 
 ---
 
-### இலங்கையின் கடன்மறுசீரமைப்பு நடவடிக்கைகளிற்கு சீனா ஆதரவு- இலங்கை பிரதமரிடம் சீன பிரதமர்
+### China supports Sri Lankan Prime Minister
 
 *2024-03-27 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/179808) · `ta`
 
-சீனாவிற்கு விஜயம் மேற்கொண்டுள்ள  இலங்கை பிரதமர் தினேஸ் குணவர்த்தனவுடனான சந்திப்பின்போது சீன பிரதமர் லிகியாங் இலங்கையின் கடன்மறுசீரமைப்பு நடவடிக்கைகளிற்கு சீனா தொடர்ந்தும் உதவும்  இலங்கையின் பொருளாதார அபிவிருத்திக்கு தொடர்ந்தும் உதவும் என தெரிவித்துள்ளார்.
+China's Prime Minister Likiang supports Sri Lanka's economic development, praises PM Dinesh Gunawardena, and commits to further development of Colombo's infrastructure.
 
-பிரதமர் தினேஸ்குணவர்த்தனவும் அவரது குடும்பத்தினரும் சீனா இலங்கைஉறவுகளை வலுப்படுத்துவதற்காக தொடர்ச்சியாக பாடுபட்டுள்ளதாக சீன பிரதமர் பாராட்டியுள்ளார்.
+🟩
 
-இலங்கை தொடர்ச்சியாக ஒருசீன கொள்கையை பின்பற்றிவருகின்றது சர்வதேச அரங்கில்  ஆதரவளித்துவருகின்றது என சீன பிரதமர் தெரிவித்துள்ளார்.
+During a meeting with Sri Lankan Prime Minister Dinesh Gunawardena, Chinese Prime Minister Likiang said that China will continue to help Sri Lanka's economic development and continue to help Sri Lanka's economic development.
 
-கொழும்பு விமானநிலையம் அம்பாந்தோட்டை துறைமுகம் மற்றும் கொழும்புதுறைமுகம் ஆகியவற்றை அபிவிருத்திசெய்வதற்கு சீனா தொடர்ந்தும் உதவும் எனவும் அவர் தெரிவித்துள்ளார்.
+The Chinese Prime Minister has praised the Prime Minister Dinesh Gunawardena and his family that China has continuously worked to strengthen Sri Lanka.
+
+The Chinese prime minister said that Sri Lanka continues to follow a Chinese policy and support the international stage.
+
+He said that China will continue to develop the Colombo Airport Port and the Colombo port.
 
 ◼️
 
 [Data](articles/546be232.json)
+
+[Extended Data](ext_articles/546be232.ext.json)
 
 ---
 
@@ -344,19 +480,25 @@ Pottuvil Azmin, who wrote the song, and Sanuka Wickremasinghe, who composed the 
 
 ---
 
-### குற்றச் செயல்களுடன் தொடர்புடைய மிதுவாவின் வீட்டின் மீது துப்பாக்கிப் பிரயோகம்!
+### Firing on Mithua's house associated with crime
 
 *2024-03-27 11:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179799) · `ta`
 
-அதுருகிரிய கல்வருசாவ வீதி பகுதியின் பல குற்றச் செயல்களுக்கு தலைமை தாங்கிய  குற்றவாளி என கூறப்படும்  ”மிதுவா” என அழைக்கப்படும் மனோஜ் முத்துகுமாரன என்பவரின் வீட்டின் மீது இனந்தெரியாதேரால்  துப்பாக்கி பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது. இந்தச் சம்பவம் இன்று (27)  அதிகாலை இடம்பெற்றுள்ளது.
+Manoj Muthukumaran, accused of crimes on Kaluvaruzawa road, was shot dead in his house. Damage to windows, doors, and walls reported. The Senior Police Officer of Nugegoda Police Division, who led the Navagamuwa Police Division, was threatened via phone.
 
-இந்தச் சம்பவத்தில் எவருக்கும் பாதிப்பும் ஏற்படவில்லை எனவும் வீட்டின் ஜன்னல்கள் ,கதவுகள் மற்றும் சுவர்கள் சேதமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-மேலும், இவர் நவகமுவ பொலிஸ் பிரிவுக்கு உட்பட்ட  பல குற்றச் செயல்களுக்கு தலைமைத் தாங்கியுள்ளதாகவும், நவகமுவ பொலிஸ் அதிகாரிக்கு தொலைப்பேசி  ஊடாக கொலை மிரட்டல் விடுத்துள்ளதாகவும்  நுகேகொடை பொலிஸ் பிரிவின் சிரேஷ்ட பொலிஸ் அதிகாரி தெரிவித்துள்ளார்.
+The house of Manoj Muthukumaran, who is allegedly accused of leading the crime of many crimes in the Kaluvaruzawa road, has been shot dead by a unidentified man.The incident took place this morning (27).
+
+Police said the windows, doors and walls of the house were damaged.
+
+The Senior Police Officer of the Nugegoda Police Division said that he has headed the Navagamuwa Police Division and threatened to kill the Navagamuwa police officer through the telephone.
 
 ◼️
 
 [Data](articles/9eb61328.json)
+
+[Extended Data](ext_articles/9eb61328.ext.json)
 
 ---
 
@@ -450,21 +592,29 @@ This award ceremony is held to evaluate international films and songs, and this 
 
 ---
 
-### ’’ අය්යෝ සාමි ’’ නිසා වින්ඩිට ජාත්‍යාන්තර සම්මානයක්
+### Windy wins International Award due to 'Ayo Sami'
 
 *2024-03-27 11:05:15* · [`adalk`](https://www.ada.lk/breaking_news/’’-අය්යෝ-සාමි-’’-නිසා-වින්ඩිට-ජාත්‍යාන්තර-සම්මානයක්/11-408822) · `si`
 
-ශ්‍රී ලාංකික ද්‍රවිඩ ගීතයක් වන " අය්යෝ සාමිනේ " ගීතය ගායනා කරන වින්ඩි ගුණතිලක , දකුණු ඉන්දියාවේ චෙන්නායි නුවර පැවති 16 වන එඩිසන් සම්මාන උළෙලේ දී ( 16 th Edison Awards ) 2023 වසරේ ඉදිරිපත් වූ විශිෂ්ඨතම සංවේදී ගීතයට (Best Sensational Song of the Year - 2023 ) හිමි සම්මානය හිමි කර ගෙන 03/26 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියාය .
+Windy wins the International Award for 'Ayo Sami' at the 21st Edison Awards in Chennai, India. The song, written by Pottuvil Askin, was part of the 16th Edison Awards.
 
-මෙම සම්මාන උළෙල ජාත්‍යන්තර චිත්‍රපට සහ ගීත ඇගැයීම සදහා පවත්වනු ලබන අතර , මෙම සම්මාන උළෙල  ඉකුත් 03/24 දින ඉන්දියාවේ චෙන්නායි නුවර පවත්වා තිබුණි .
+🟩
 
-මෙම සම්මාන ලබා ගන්නා අවස්ථාවට මෙම ගීතය රචනා කළ පොතුවිල් අස්මින් සහ මෙම ගීතය සදහා සංගීත‍ය නිර්මාණය කළ සනුක වික්‍රමසිංහ ද එක් වී සිටියහ .
+West Seensional Song of The Years of the 16th Edison Awards, South India, the Sri Lankan Tamil song, Surmelly Sing, the 21st Edison Awards presented by the 16th Edison Awards, in Chennai, India (16th)The award was won by the Katunayake Airport on the night of 03/26.
 
-එසේම වින්ඩි ගුණතිලකගේ දෙමාපියන් වන රූකාන්ත ගුණතිලක, චන්ද්‍රලේඛා පෙරේරා ද සනුක වික්‍රමසිංහගේ පියා වන සංගීත් වික්‍රමසිංහ ඇතුළු විශාල පිරිසක් මෙම සම්මාන ලබා ගන්නා අවස්ථාවට සහභාගී වීම සදහා ඉන්දියාවේ චෙන්නායි නුවර වෙත ගොස් තිබුණි.
+The awards ceremony is conducted to evaluate international films and songs, and this awards ceremony was held in Chennai in India on 24/22.
 
-...
+At the time of receiving these awards, the song was written by Pottuvil Askin and the music for this song.
+
+Also, the parents of Vindi Gunatilleke, the father of Chanduka Wickremasinghe, the father of Chanduka Wickramasinghe, and many of the awards had visited Chennai in Chennai to attend the event.
+
+At the Bandaranaike International Airport, singer Windi Gunatilleke was not forgotten to thank his fans into the top of the international song charts.
+
+◼️
 
 [Data](articles/c2c4084c.json)
+
+[Extended Data](ext_articles/c2c4084c.ext.json)
 
 ---
 
@@ -1312,6 +1462,26 @@ President Ranil Wickremesinghe further pointed out that the implementation of th
 
 ### Technical malfunction leaves lives of hundreds of children with cancer at risk
 
+*2024-03-27 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Technical-malfunction-leaves-lives-of-hundreds-of-children-with-cancer-at-risk/155-279676) · `en`
+
+Colombo, March 27 (Daily Mirror) - The prolonged breakdown of one of the linear accelerators at the Apeksha Hospital, Maharagama, which predominantly treats the pediatric patients has placed hundreds of lives at risk.
+
+Sources familiar with the matter revealed that the linear accelerator, crucial for administering radiotherapy — a vital cancer treatment, has been non-operational since February.
+
+Despite the severity of the situation, the Health Ministry has turned a blind eye by not taking remedial measures to rectify the issue, exacerbating the concerns.
+
+Apeksha Hospital currently houses five linear accelerators, each playing a pivotal role in delivering various treatments. However, the malfunctioning machine holds particular significance for pediatric patients due to its specialized features.
+
+Furthermore, the breakdown has resulted in a backlog of over 500 patients awaiting treatment, plunging many, especially children, into precarious circumstances where their lives hang in the balance.
+
+...
+
+[Data](articles/09f2ecea.json)
+
+---
+
+### Technical malfunction leaves lives of hundreds of children with cancer at risk
+
 *2024-03-27 06:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Technical-malfunction-leaves-lives-of-hundreds-of-children-with-cancer-at-risk/108-279676) · `en`
 
 Colombo, March 27 (Daily Mirror) - The prolonged breakdown of one of the linear accelerators at the Apeksha Hospital, Maharagama, which predominantly treats the pediatric patients has placed hundreds of lives at risk.
@@ -2081,141 +2251,5 @@ The Speaker who made a special statement after the debate on the no faith motion
 [Data](articles/e391717a.json)
 
 [Extended Data](ext_articles/e391717a.ext.json)
-
----
-
-### If the general election first is the best political situation - Santha Bandara
-
-*2024-03-26 22:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179781) · `ta`
-
-Santha Bandara suggests holding a general election first for political benefit. Mahinda Rajapaksa chairs the PA Executive Council meeting on Wednesday, where major decisions, including a new political alliance, will be discussed. The meeting was initially planned for Galle Face Ground but moved to Gembel Ground due to government restrictions. Basil Rajapakse advocates for a general election before the presidential election, claiming the party is prepared and will win any election this year.
-
-🟩
-
-Major decisions will be taken at the Executive Council of the PA, which will be held on Wednesday (27) chaired by former President Mahinda Rajapaksa.. Media Minister Shantha Bandara said that if the political situation in the country is to benefit, the general election should be held first.
-
-He was speaking at a media briefing held at the Sri Lanka PA office in Battaramulla on Tuesday (26).
-
-The work to strengthen Sri Lanka PA is being carried out by party leader Mahinda Rajapaksa and National Organizer Basil Rajapaksa. The party's executive council meeting will be held on Wednesday (27).
-
-At the Executive Council meeting, major decisions, including the new political alliance, will be taken at the Gembel Ground this year.. We were initially intended to hold a meeting at the Galle Face Ground. However, the government did not allow it.
-
-...
-
-[Data](articles/3744845e.json)
-
-[Extended Data](ext_articles/3744845e.ext.json)
-
----
-
-### Much more than a summer stay: An immersive journey with Heritance Hotels and Resorts
-
-*2024-03-26 22:45:00* · [`islandlk`](http://island.lk/much-more-than-a-summer-stay-an-immersive-journey-with-heritance-hotels-and-resorts/) · `en`
-
-Ranked fourth among Forbes’ Top Solo Travel Destinations for the year, Sri Lanka beckons discerning travellers seeking more than just a summer escape. The island nation promises diverse and immersive experiences awaiting exploration.
-
-Heritance Hotels and Resorts, the premier flagship brand of Aitken Spence Hotels, unveiled its Summer Campaign for the year, inviting explorers to immerse themselves in a myriad of experiences across the hill country, the coast, and lush greenery. Every stay at Heritance Hotels and Resorts guarantees an immersive experience, making every getaway so much more than a stay.
-
-...
-
-[Data](articles/3b6dcd26.json)
-
-[Extended Data](ext_articles/3b6dcd26.ext.json)
-
----
-
-### ADB loan to bolster financial capability of Lankan SMEs
-
-*2024-03-26 22:43:00* · [`islandlk`](http://island.lk/adb-loan-to-bolster-financial-capability-of-lankan-smes/) · `en`
-
-The Asian Development Bank (ADB) and the government of Sri Lanka signed on March 25, a loan agreement totaling US$100 million, out of which $50 million is to provide small and medium-sized enterprises (SMEs) in Sri Lanka more access to finance and build their resilience to external shocks, such as the economic crisis and climate change, while $50 million will be used to issue partial credit guarantees through the National Credit Guarantee Institution.
-
-K.M. Mahinda Siriwardana, Secretary to the Treasury, Ministry of Finance signed on behalf of the government of Sri Lanka and Utsav Kumar, Deputy Country Director, ADB, Sri Lanka Resident Mission signed on behalf of ADB.
-
-Kristofer Quadros appointed Cluster General Manager for three Radisson Hotels in Sri Lanka
-
-Rate reduction by Central Bank exerts rejuvenating impact on CSE
-
-ADB country chief hopes Lanka could sustain policy reforms despite elections
-
-Cabinet gives green light to establish a wind power station on Mannar island
-
-...
-
-[Data](articles/d42c2c71.json)
-
-[Extended Data](ext_articles/d42c2c71.ext.json)
-
----
-
-### Kristofer Quadros appointed Cluster General Manager for three Radisson Hotels in Sri Lanka
-
-*2024-03-26 22:42:00* · [`islandlk`](http://island.lk/kristofer-quadros-appointed-cluster-general-manager-for-three-radisson-hotels-in-sri-lanka/) · `en`
-
-Radisson Hotels, Sri Lanka along with the hotel management company, La Vie Hotels & Resorts is pleased to announce the appointment of Kristofer Quadros as the Cluster General Manager for the three esteemed Radisson properties in Sri Lanka: Radisson Hotel Colombo, Radisson Hotel Kandy, and Radisson Blu Resort Galle. With over 25 years of international experience, serving in the hospitality sector Kristofer brings a wealth of expertise to his new role.
-
-...
-
-[Data](articles/54971242.json)
-
-[Extended Data](ext_articles/54971242.ext.json)
-
----
-
-### Rate reduction by Central Bank exerts rejuvenating impact on CSE
-
-*2024-03-26 22:38:00* · [`islandlk`](http://island.lk/rate-reduction-by-central-bank-exerts-rejuvenating-impact-on-cse/) · `en`
-
-The stock market yesterday was extremely bullish on account of the Central Bank decision to reduce the Standing Deposit Facility Rate and the Standing Lending Facility Rate by 50 basis points. It was a major surprise for stock market investors.
-
-Further, Central Bank Governor Dr Nandalal Weerasinghe’s positive comments on the national economy and its way forward lifted the spirits of local and foreign investors, market analysts said.
-
-...
-
-[Data](articles/dbe6c9ab.json)
-
-[Extended Data](ext_articles/dbe6c9ab.ext.json)
-
----
-
-### Government vehicles run at Rs. 300 per km, costs additional Rs. 20 bn: Parliamentary Committee
-
-*2024-03-26 22:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-vehicles-run-at-Rs-300-per-km-costs-additional-Rs-20-bn-Parliamentary-Committee/108-279669) · `en`
-
-Colombo, March 26 (Daily Mirror)- Government vehicles which are running at a cost of Rs. 300 per kilometre can be run at a cost of 100, a research paper submitted to the Sectoral Oversight Committee on Energy and Transport has revealed.
-
-This was revealed according to the data of a research paper prepared by the Department of Manpower and Employment on "Public Resource Management" which was presented at the Sectoral Oversight Committee on Energy and Transport recently.
-
-The research paper revealed that according to the statistics of the year 2022, government institutions own about 82,000 vehicles, of which about 76,000 are in running condition while around 5500 vehicles are not.
-
-...
-
-[Data](articles/b43d1ded.json)
-
-[Extended Data](ext_articles/b43d1ded.ext.json)
-
----
-
-### Allegations against Maithripala Sirisena on lifeblood bombing should be charged - the UNP. Secretary Range Bandara
-
-*2024-03-26 22:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179780) · `ta`
-
-UNP's Range Bandara demands Maithripala Sirisena face charges for the lifeblood bombing incident, claiming the former president failed to fulfill his duties. Despite not knowing Sirisena's intentions, Bandara insists Sirisena should take responsibility. The court has ordered Sirisena to pay 100 million rupees for the crime.
-
-🟩
-
-The former president must accept responsibility for the survival Sunday bombing incident. UNP General Secretary Palitha Range Bandara said that he failed to properly fulfill his responsibility as the head of state or that the court would investigate and verdict whether the attack took place.
-
-He was speaking at a press conference held at the UNP headquarters in Sirikotha on Tuesday (26).
-
-We do not know what aims the former President Maithripala Sirisena recently expressed regarding the lifeblood attack. However, as the head of state at the time of the attack, I have been informed from the beginning that he should take responsibility for it.
-
-This is because he did not invite the former Prime Minister and the former Defense Minister of the Security Council to meet the meetings, and the reasons for the immediate arrival of Singapore during the attack were not confirmed during the investigation.
-
-...
-
-[Data](articles/09c587aa.json)
-
-[Extended Data](ext_articles/09c587aa.ext.json)
 
 ---

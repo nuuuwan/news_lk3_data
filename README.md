@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-27 19:35:17**
+As of **2024-03-27 19:51:01**
 
 ## Newspaper Stats
 
-*Scraped **15,541** Articles*
+*Scraped **15,543** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,81 @@ dailyftlk | 835
 economynextcom | 836
 islandlk | 854
 adalk | 1,327
-adaderanalk | 1,867
+adaderanalk | 1,868
 tamilmirrorlk | 1,868
 virakesarilk | 2,196
-dailymirrorlk | 2,399
+dailymirrorlk | 2,400
 adaderanasinhalalk | 2,498
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,540 (100.0%) of 15,541 articles have been extended.
+15,541 (100.0%) of 15,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-27 (Wednesday)
 
-### வான்வழி விநியோகத்தை நிறுத்துமாறு ஹமாஸ் கோரிக்கை: அமெரிக்கா மறுப்பு
+### President instructs to reopen National Art Gallery before year’s end
+
+*2024-03-27 19:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98247/president-instructs-to-reopen-national-art-gallery-before-years-end) · `en`
+
+President Ranil Wickremesinghe, during an inspection tour, visited the John de Silva Memorial Theatre and the long-delayed National Art Gallery. Despite construction commencing in 2011, both projects remain incomplete, the President’s Media Division reported.
+
+President Wickremesinghe instructed officials to expedite the opening of the National Art Gallery before the year’s end, emphasizing the need for consensus among artists and architects. He also pledged government support for financial allocations.
+
+Additionally, he highlighted the demand for high-standard, affordable theatres in Colombo, questioning if such facilities could be provided following the completion of the John de Silva Theatre.
+
+...
+
+[Data](articles/dae75be4.json)
+
+---
+
+### Sri Lankan PM meets Chinese President Xi Jinping
+
+*2024-03-27 19:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-PM-meets-Chinese-President-Xi-Jinping/108-279733) · `en`
+
+China, March 27 (Daily Mirror) - A meeting between Chinese President Xi Jinping and Sri Lankan Prime Minister Dinesh Gunawardena was held today at The Great Hall in Beijing.
+
+Both countries agreed to continue to act under the friendship, peace, mutual respect and fivefold principle in international affairs that do not interfere in the internal affairs of any country.
+
+It was emphasized that bilateral relations should be based on mutual respect and mutual productivity between the countries, and acting according to that policy would set a good example for both countries.
+
+The Chinese President also assured that China will support the schemes necessary for the development of Sri Lanka as soon as they are presented.
+
+The Chinese President assured China's continuous support to Sri Lanka’s efforts for political and socioe-conomic progress.
+
+...
+
+[Data](articles/55b92ac4.json)
+
+---
+
+### Hamas request to stop airborne delivery: US refusal
 
 *2024-03-27 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179844) · `ta`
 
-காஸாவில் விமானங்களிலிருந்து பரசூட்மூலம் உதவிப்பொருட்களை விநியோகிப்பதை நிறுத்துமாறு ஹமாஸ் அமைப்பு கோரியுள்ளது. எனினும் இதற்கு அமெரிக்கா மறுப்பு தெரிவித்துள்ளது.
+Hamas demands halt to airborne aid, US refuses. Despite US aid, Hamas seeks more ground distribution from Israel. US cites its distribution as part of relief efforts. Casualties in Gaza rise to 32,490 since Oct 7.
 
-காஸாவில் உணவுப் பற்றாக்குறையை எதிர்கொண்டுள்ள மக்களுக்கு நிவாரணம் அளிப்பதற்காக விமானங்களிலிருந்து  பரசூட் மூலம் உதவிப்பொருட்களை விநியோகிக்கும் நடவடிக்கையில் அமெரிக்கா உட்பட பல நாடுகள் ஈடுபட்டுள்ளன.
+🟩
 
-இதற்கு பதிலாக, தரை வழியாக அதிகளவு விநியோகங்களுக்கு இஸ்ரேல் அனுமதிக்க வேண்டுமெனவும் ஹமாஸ் கோரியுள்ளது.
+Hamas organization has demanded that Parasood from aircraft in Gaza stops supplying assistance. However, the US has denied this.
 
-எனினும், வான் வழியான விநியோகம் என்பது காஸாவிலுளள பலஸ்தீன மக்களுக்கு உதவிகளை விநியோகிப்பதற்காக அமெரிக்கா கையாளும் வழிகளில் ஒன்று எனவும், அதை அமெரிக்கா தொடரும் எனவும் அமெரிக்காவின் தேசிய பாதுகாப்பு பேரவை தெரிவித்துள்ளது.
+Many countries, including the United States, are engaged in the supply of assistance from aircraft from aircraft to provide relief to people who are facing food shortages in Gaza.
 
-இதேவேளை, ஒக்டோபர் 7 ஆம் திகதியின்  பின்னர் காஸாவில் உயிரிழந்தோரின் எண்ணிக்கை 32,490 ஆக அதிகரித்துள்ளது என காஸா சுகாதார அமைச்சு தெரிவித்துள்ளது.
+Instead, Hamas also demanded that Israel be allowed to distribute more distribution through the ground.
+
+However, the National Security Council of the United States has said that the US distribution is one of the ways the United States is handling the Palestinian people in Gaza.
+
+Meanwhile, the number of casualties in Gaza has increased to 32,490 since October 7, the Gaza Health Ministry said.
 
 ◼️
 
 [Data](articles/d79963ee.json)
+
+[Extended Data](ext_articles/d79963ee.ext.json)
 
 ---
 
@@ -2233,53 +2275,5 @@ The Advocata Institute said in a statement on the study that Sri Lanka has been 
 [Data](articles/a1bd86f6.json)
 
 [Extended Data](ext_articles/a1bd86f6.ext.json)
-
----
-
-### SLPP's main meeting today
-
-*2024-03-27 10:39:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SLPP-யின்-முக்கிய-கூட்டம்-இன்று/175-335243) · `ta`
-
-The Sri Lanka Peoples Alliance (PA) Executive Council meets today at Mahinda Rajapaksa's residence, focusing on political debates and party affairs.
-
-🟩
-
-The Executive Council of the Sri Lanka PA will be held today (27) at the official residence of Mahinda Rajapaksa.
-
-“The Executive Council of the Sri Lanka Peoples Alliance (PA) will meet at the official residence of party leader Mahinda Rajapaksa at 3 pm. Generally, the Executive Council may gather in certain circumstances that are constitutionally essential.
-
-Accordingly this is the usual meeting. There will be many debates on the current political situation and the internal affairs of the party. ”. Remble
-
-◼️
-
-[Data](articles/19e46e27.json)
-
-[Extended Data](ext_articles/19e46e27.ext.json)
-
----
-
-### The number of people in Jaffna to control the price of vegetable in Dambulla
-
-*2024-03-27 10:26:36* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ලේ-එළවළු-මිල-පාලනය-යාපනය-ගොවීයෝ-තම-අතට-ගනිති/11-408821) · `si`
-
-Jaffna's vegetable control impacts Dambulla's prices. Farmers in Dambulla Economic Center report a significant drop in vegetable stock prices, including red onions. The center receives vegetables from Jaffna, affecting retail and wholesale prices.
-
-🟩
-
-Farmers point out that the stock prices have fallen in large numbers of vegetables at the Dambulla Economic Center.
-
-The Dambulla Economic Center is to receive vegetables and vegetables, including the shares, including the Reductivity of the Colombo peninsula.
-
-A kilo of red onions sold for Rs.
-
-The businessmen who point out that large vegetables are largely receiving large vegetables daily from the Jaffna Peninsula have said that the large bulk teams and the retail prices have been sold immediately.It should be made sure to be sold at easy prices to provide it.
-
-Wholesale price held at a kilo of Dambulla Economic Center 27
-
-◼️
-
-[Data](articles/f384a3cb.json)
-
-[Extended Data](ext_articles/f384a3cb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 19:03:10**
+As of **2024-03-28 19:18:18**
 
 ## Newspaper Stats
 
-*Scraped **15,765** Articles*
+*Scraped **15,767** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,71 @@ islandlk | 868
 adalk | 1,339
 adaderanalk | 1,891
 tamilmirrorlk | 1,892
-virakesarilk | 2,228
+virakesarilk | 2,229
 dailymirrorlk | 2,433
-adaderanasinhalalk | 2,531
+adaderanasinhalalk | 2,532
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,763 (100.0%) of 15,765 articles have been extended.
+15,765 (100.0%) of 15,767 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### கெஹலிய உள்ளிட்டோருக்கு மீண்டும் விளக்கமறியல்
+### ඒ දෙන්නා විවාහ වෙලා
+
+*2024-03-28 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195043) · `si`
+
+Abby and Brittany නම් සිරුරෙන් බද්ධ වූ නිවුන් සොහොයුරියන් ලෝකයේ අතිශය ජනප්‍රියත්වයට පත්විය.
+
+විදෙස් මාධ්‍ය මේ වනවිට වාර්තා කර ඇත්තේ Abby and Brittany විවාහ දිවියට එළඹ ඇති බවය.
+
+එම වාර්තා පෙන්වා දෙන්නේ 2021 වර්ෂයේදී අප්‍රසිද්ධ ලෙස ඔවුන් විවාහ දිවියට එළඹ ඇති බවය.
+
+◼️
+
+[Data](articles/b290afe9.json)
+
+---
+
+### தடுப்பூசி போடப்பட்ட மாணவ குழுவில் 10 பேர் வைத்தியசாலையில் அனுமதி ; களுத்துறையில் சம்பவம்
+
+*2024-03-28 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179931) · `ta`
+
+தடுப்பூசி செலுத்தப்பட்டதன் பின்னர் ஏற்பட்ட சுகயீனம் காரணமாக 10 பேர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக நாகொட வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+
+இதில் 12வயது மற்றும் 13 வயதையுடைய மாணவர்கள் குழுவே அனுமதிக்கப்பட்டுள்ளதாக மேலும் தகவல்கள் தெரிவிக்கின்றன.
+
+மேலும் வைத்தியசாலை அனுமதிக்கப்பட்ட மாணவர்களுக்கு மயக்கம் மற்றும் மூச்சு விடுவதில் சிரமம் இருப்பதனாலேயே குறித்த 10 பேரும் அனுமதிக்கப்பட்டுள்ளதாக வைத்தியசாலையிலிருந்து தகவல்கள் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/339f3a19.json)
+
+---
+
+### Re -explanation for Keheliya and others
 
 *2024-03-28 18:37:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-உள்ளிட்டோருக்கு-மீண்டும்-விளக்கமறியல்/175-335315) · `ta`
 
-கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட சந்தேகநபர்கள் 9 பேருக்கும் விளக்கமறியல் நீடிக்கப்பட்டுள்ளது.
+Keheliya Rambukwella and 8 others face charges of importing substandard drugs, detained until April 8th.
 
-இதன்படி அனைவரும், ஏப்ரல் மாதம் 8 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+🟩
 
-தரமற்ற மனித இம்யூனோகுளோபுலின் மருந்துகளை இறக்குமதி செய்த குற்றச்சாட்டில் இவர்கள் கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+Nine suspects, including former health minister Keheliya Rambukwella, have been extended.
+
+Accordingly, everyone has been kept in detention until the 8th of April.
+
+It is noteworthy that they have been arrested on charges of importing substandard human immunoglobulin drugs. Remble
 
 ◼️
 
 [Data](articles/5a888bc3.json)
+
+[Extended Data](ext_articles/5a888bc3.ext.json)
 
 ---
 
@@ -119,6 +157,8 @@ In addition , the Rs. 500 bribe amount was ordered to be recovered as a penalty.
 ◼️
 
 [Data](articles/3f1729f0.json)
+
+[Extended Data](ext_articles/3f1729f0.ext.json)
 
 ---
 
@@ -2281,61 +2321,5 @@ Meanwhile, Chinese Prime Minister Lee Kiang has assured Prime Minister Dinesh Gu
 [Data](articles/774419c9.json)
 
 [Extended Data](ext_articles/774419c9.ext.json)
-
----
-
-### Information on the cost of living of the individual's monthly life
-
-*2024-03-28 09:35:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனி-நபரின்-மாதாந்த-வாழ்க்கை-செலவு-தொடர்பில்-வெளியான-தகவல்/175-335293) · `ta`
-
-The Census and Statistics Department reports an increase in the monthly cost of living, with an average of Rs 17,014 needed to meet basic needs. Costs vary by district, with Colombo at Rs 18,350, Gampaha at Rs 18,256, and Nuwara Eliya at Rs 17,892. Moneragala has the lowest at Rs 16,268.
-
-🟩
-
-The Census and Statistics Department said that the monthly cost of an individual has increased.
-
-The department has pointed out that the minimum monthly cost to meet their basic needs in January this year has increased to an average of Rs 17,014.
-
-It has been noted that the monthly cost has been calculated at the district level to meet the basic needs of a person and the people living in the Colombo district have to carry more expenses.
-
-Accordingly, the cost of individual monthly in the Colombo district is 18,350 rupees, Rs 18,256 in Gampaha district and Rs 17,892 in Nuwara Eliya district.
-
-According to a report by the Department of Population and Statistics, the lowest personal expenses from the Moneragala district have been reported and it is 16,268.
-
-The official poverty line is adjusted by the National and District level prices, according to the National Consumer Price Index.
-
-◼️
-
-[Data](articles/4b5b607f.json)
-
-[Extended Data](ext_articles/4b5b607f.ext.json)
-
----
-
-### Increase in the cost of living in the individual's monthly life
-
-*2024-03-28 09:35:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனி-நபரின்-மாதாந்த-வாழ்க்கை-செலவு-அதிகரிப்பு/175-335293) · `ta`
-
-The cost of living has risen, with the average monthly expense for basic needs now at 17,014 rupees. Colombo, Gampaha, and Nuwara Eliya districts have higher costs, while Moneragala has the lowest at 16,268 rupees.
-
-🟩
-
-The census and statistics department said the monthly cost of an individual has increased.
-
-The department has pointed out that the minimum monthly cost to meet their basic needs in January this year has increased to an average of 17,014 rupees.
-
-It has been noted that the monthly cost has been calculated at the district level to meet the basic needs of a person and the people living in the Colombo district have to carry more expenses.
-
-Accordingly, the private cost of the Colombo district is 18,350 rupees, Rs 18,256 in the Gampaha district and Rs 17,892 in Nuwara Eliya district.
-
-According to a report by the Department of Population and Statistics, the lowest personal expenses from the Moneragala district have been reported and it is 16,268.
-
-The official poverty line is adjusted by the National and District level prices, according to the National Consumer Price Index.
-
-◼️
-
-[Data](articles/60f0faac.json)
-
-[Extended Data](ext_articles/60f0faac.ext.json)
 
 ---

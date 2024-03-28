@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 21:34:07**
+As of **2024-03-28 21:52:22**
 
 ## Newspaper Stats
 
@@ -294,9 +294,15 @@ Under the French parliament, the two voted in favor of the law in support of the
 
 *2024-03-28 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98270/easter-attack-claims-maithripala-ordered-to-make-statement-in-court) · `en`
 
-The Maligakanda Magistrate’s Court today ordered former President Maithripala Sirisena to make a statement in court on 04 April on his recent comments over the Easter Sunday bomb attacks.
+The Maligakanda Magistrate’s Court has ordered former President Maithripala Sirisena to make a statement in court on 04 April on his recent comments over the Easter Sunday bomb attacks.
 
-◼️
+The order was issued today (28) after the Criminal Investigation Department (CID) had reported the relevant facts to the court, on the instructions of the Attorney General.
+
+Sirisena had recorded a statement for around five-hours with the CID on Monday (05) over his recent comments regarding the Easter Sunday bomb attacks.
+
+The CID had summoned the former President in order to record a statement over the controversial statement he recently made on the Easter Sunday attacks, after Minister of Public Security Tiran Alles had instructed the IGP to carry out an investigation into Sirisena’s remarks.
+
+...
 
 [Data](articles/7922d864.json)
 

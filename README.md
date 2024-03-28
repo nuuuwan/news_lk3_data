@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 19:18:18**
+As of **2024-03-28 19:33:39**
 
 ## Newspaper Stats
 
-*Scraped **15,767** Articles*
+*Scraped **15,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,48 +19,112 @@ adalk | 1,339
 adaderanalk | 1,891
 tamilmirrorlk | 1,892
 virakesarilk | 2,229
-dailymirrorlk | 2,433
-adaderanasinhalalk | 2,532
+dailymirrorlk | 2,434
+adaderanasinhalalk | 2,534
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,765 (100.0%) of 15,767 articles have been extended.
+15,767 (100.0%) of 15,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### ඒ දෙන්නා විවාහ වෙලා
+### 18-member squad for Asian U-20 Meet
+
+*2024-03-28 19:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/18-member-squad-for-Asian-U-20-Meet/108-279776) · `en`
+
+Mar. 28 (Daily Mirror) - Sri Lanka Athletic (SLA) will field an 18-member contingent for the 21st Asian Under-20 Junior Athletic Championship, conducted by the Asian Athletic and to be held from April 24 to 27 in Dubai, United Arab Emirates.
+
+Top competitors from over 40 Asian countries are set to participate in this tournament.
+
+The Sri Lankan contingent will include 12 Men and six Women, SLA President Major General (Retired) Palitha Fernando told the Daily Mirror. The selected 18-member Sri Lankan contingent is yet to be approved by the sports minister.
+
+Sri Lanka will be targeting more than five medals at this meet including success in the long jump (Women’s), 4X400m Relay (Men’s), 4X100m Relay (Men’s), 4X400m Relay (Women’s) and 4X400m (Mixed Relay).
+
+...
+
+[Data](articles/5eef1cec.json)
+
+---
+
+### මෛත්‍රීට අධිකරණයෙන් හදිසි නියෝගයක්
+
+*2024-03-28 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195045) · `si`
+
+පාස්කු දින ප්‍රහාරයට අදාළව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ලබාදුන් ප්‍රකාශය සම්බන්ධයෙන් අප්‍රේල් මස 4 වනදා ප්‍රකාශයක් ලබාදෙන ලෙස මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට නියෝග කර තිබේ.
+
+නීතිපති උපදෙස් මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අද එම අධිකරණයට කරුණු වාර්තා කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී ඇත.
+
+◼️
+
+[Data](articles/0b51e698.json)
+
+---
+
+### නදීම් බාෂික් ව අත්අඩංගුවට ගැනීමට එරෙහි අතුරු තහනම් නියෝගය දීර්ඝ කෙරේ
+
+*2024-03-28 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195044) · `si`
+
+පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශය විසින් නදිම් බාෂික් නමැත්තකු අත්අඩංගුවට ගැනීම වළක්වාලමින් නිකුත්කර තිබෙන අතුරු තහනම් නියෝගය අප්‍රේල් 29 වනදා දක්වා තවදුරටත් දීර්ඝ කරන ලෙස අභියාචනාධිකරණය අද (28) නියෝග කළේය.
+
+පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශය විසින් තමන්ව අත්අඩංගුවට ගැනීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා නදීම් බාෂික් විසින් ගොනුකළ රිට් පෙත්සමක් කැඳවනු ලැබූ අවස්ථාවේදී අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් මහතා මෙම නියෝගය නිකුත් කළේය.
+
+පෙත්සම්කරු කියා සිටින්නේ පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශයේ නිලධාරීන් පිරිසක් විසින් තමන්ව අසාධාරණ ලෙස අත්අඩංගුවට ගැනීමට සූදානම් වන බවයි.
+
+මීට අදාළ ව මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට කරුණු වාර්තා කර තිබෙන බවත් පෙත්සම්කරු කියා සිටියේය.
+
+ප්‍රමාණවත් සාක්ෂි නොමැතිව අසාධාරණ ලෙස තමන්ව අත්අඩංගුවට ගැනීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ඔහු මෙම පෙත්සම ඉදිරිපත් කර තිබේ.
+
+◼️
+
+[Data](articles/65dfe477.json)
+
+---
+
+### They were married
 
 *2024-03-28 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195043) · `si`
 
-Abby and Brittany නම් සිරුරෙන් බද්ධ වූ නිවුන් සොහොයුරියන් ලෝකයේ අතිශය ජනප්‍රියත්වයට පත්විය.
+Abby and Britain, twins from the body, are reportedly married in 2021, making them the most popular worldwide.
 
-විදෙස් මාධ්‍ය මේ වනවිට වාර්තා කර ඇත්තේ Abby and Brittany විවාහ දිවියට එළඹ ඇති බවය.
+🟩
 
-එම වාර්තා පෙන්වා දෙන්නේ 2021 වර්ෂයේදී අප්‍රසිද්ධ ලෙස ඔවුන් විවාහ දිවියට එළඹ ඇති බවය.
+If Abby and Britain, the twins transplanted from the body were the most popular world.
+
+Foreign media has reportedly reported that abby and brittany has been married.
+
+These reports indicate that they had come to the 2021 to marry.
 
 ◼️
 
 [Data](articles/b290afe9.json)
 
+[Extended Data](ext_articles/b290afe9.ext.json)
+
 ---
 
-### தடுப்பூசி போடப்பட்ட மாணவ குழுவில் 10 பேர் வைத்தியசாலையில் அனுமதி ; களுத்துறையில் சம்பவம்
+### 10 of the student of the vaccine student admitted to the hospital;Incident in the field
 
 *2024-03-28 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179931) · `ta`
 
-தடுப்பூசி செலுத்தப்பட்டதன் பின்னர் ஏற்பட்ட சுகயீனம் காரணமாக 10 பேர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக நாகொட வைத்தியசாலை வட்டாரங்கள் தெரிவிக்கின்றன.
+10 students, aged 12-13, admitted to Nagoda hospital due to vaccine-related illnesses, including difficulty breathing.
 
-இதில் 12வயது மற்றும் 13 வயதையுடைய மாணவர்கள் குழுவே அனுமதிக்கப்பட்டுள்ளதாக மேலும் தகவல்கள் தெரிவிக்கின்றன.
+🟩
 
-மேலும் வைத்தியசாலை அனுமதிக்கப்பட்ட மாணவர்களுக்கு மயக்கம் மற்றும் மூச்சு விடுவதில் சிரமம் இருப்பதனாலேயே குறித்த 10 பேரும் அனுமதிக்கப்பட்டுள்ளதாக வைத்தியசாலையிலிருந்து தகவல்கள் தெரிவிக்கப்பட்டுள்ளது.
+Nagoda hospital sources say that 10 people have been admitted to the hospital due to illness after the vaccine.
+
+A group of students aged 12 and 13 are admitted, according to further reports.
+
+In addition, 10 students have been admitted to the hospital due to the difficulty of breathing and breathing students.
 
 ◼️
 
 [Data](articles/339f3a19.json)
+
+[Extended Data](ext_articles/339f3a19.ext.json)
 
 ---
 
@@ -2241,85 +2305,5 @@ Senaka*, 36, was bleeding from his legs and hands. Nipuna’s condition was wors
 [Data](articles/07aa8aaf.json)
 
 [Extended Data](ext_articles/07aa8aaf.ext.json)
-
----
-
-### Baltimo tragedy - two bodies carrying out two bodies
-
-*2024-03-28 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195020) · `si`
-
-In BalTtim, Sri Lanka, a ship collision with a bridge led to the death of 8 employees, 2 rescued and hospitalized. 4 bodies identified, 2 missing.
-
-🟩
-
-Last Tuesday (26) Sri Lanka was found in BalTtim in BalTotoon, a ship in BalTotoon and a ship found in a bridge.
-
-However, the relief teams say they are difficult to remove more than 4 bodies in the river.
-
-The reason is that the bridge is scattered at the bottom of the bridge and concrete.
-
-It is reported that the disappearance of others who are missing.
-
-When the ship clashed in the bridge, it fell into the river and 8 employees in the river.
-
-Two of them were relief to rescued and hospitalized.
-
-Four of the six disappeared have been revealed by Maryland.
-
-The bodies have been recovered by Alaeyro Harnendus Fues (1-year-old - 35-year-old) and Durlipa Ronial (26).
-
-Miguwel Lutana (El Salvador) and Meanor Savors have been identified as Honduras. The two of them are missing.
-
-◼️
-
-[Data](articles/386a80e5.json)
-
-[Extended Data](ext_articles/386a80e5.ext.json)
-
----
-
-### NCPA to work with UK-based global charity to remove online content of child sexual abuse
-
-*2024-03-28 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98254/ncpa-to-work-with-uk-based-global-charity-to-remove-online-content-of-child-sexual-abuse) · `en`
-
-A new method will be introduced starting Thursday (28) to submit complaints concerning any online records of child sexual abuse, the National Child Protection Authority (NCPA) says.
-
-According to NCPA chairman Senior Lecturer Udayakumara Amarasinghe, the complaints can now be lodged online via the official website of the regulatory government authority responsible for the protection of children.
-
-The complaints received by the NCPA will be directly reported to the UK-based Internet Watch Foundation (IWF), a global charity working to hunt down and remove videos and images of child sexual abuse shared online.
-
-Each report received by the IWF will subsequently be manually assessed by its highly trained analysts and necessary measures will be taken to remove online images and videos of child sexual abuse victims.
-
-...
-
-[Data](articles/f7b36152.json)
-
-[Extended Data](ext_articles/f7b36152.ext.json)
-
----
-
-### China's cooperation to Sri Lanka continues - Chinese President announces Prime Minister Dinesh
-
-*2024-03-28 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/179866) · `ta`
-
-Chinese President Xi Jinping and Prime Minister Dinesh Gunawardena discuss cooperation on Sri Lanka's debt restructuring and economic development. China's Exim Bank and Development Bank will support Sri Lanka.
-
-🟩
-
-Chinese President Sea Jinping said China continues to cooperate with Sri Lanka's debt restructuring and improve the economy.
-
-The Chinese President made this statement during a bilateral discussion between Prime Minister Dinesh Gunawardena and Chinese President Se Jinping in Beijing.
-
-The Chinese president added that China will continue to support Sri Lanka, along with China's Exim Bank and the Chinese Development Bank.
-
-Prime Minister Dinesh Gunawardena, who has made an official state visit to China, met with the President of the People's Republic See Sinbing and Chinese Prime Minister Lee Kiang.
-
-Meanwhile, Chinese Prime Minister Lee Kiang has assured Prime Minister Dinesh Gunawardena that China will continue to support Sri Lanka's debt restructuring process and will help Sri Lanka's economic development.
-
-◼️
-
-[Data](articles/774419c9.json)
-
-[Extended Data](ext_articles/774419c9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 17:18:13**
+As of **2024-03-28 17:35:25**
 
 ## Newspaper Stats
 
-*Scraped **15,742** Articles*
+*Scraped **15,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,45 +20,39 @@ adaderanalk | 1,890
 tamilmirrorlk | 1,891
 virakesarilk | 2,227
 dailymirrorlk | 2,429
-adaderanasinhalalk | 2,525
+adaderanasinhalalk | 2,526
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,741 (100.0%) of 15,742 articles have been extended.
+15,742 (100.0%) of 15,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### ව්‍යාජ පැමිණිල්ල අතේ පත්තුවෙයි
+### එන්නත් දුන් පාසල් සිසුන් පිරිසක් රෝහල්ගතකරයි
 
-*2024-03-28 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195035) · `si`
+*2024-03-28 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195036) · `si`
 
-ව්‍යාජ පැමිණිල්ලක් සිදුකළ බ්‍රිතාන්‍ය ජාතිකයෙකු පිළිබඳව පුවතක් අලවතුගොඩ ප්‍රදේශයෙන් වාර්තාවෙයි.
+එන්නතක් ලබාදීමෙන් පසුව ඇති වූ බව කියන රෝගී තත්ත්වයක් හේතුවෙන් කළුතර ප්‍රදේශයේ පාසලක සිසුන් පිරිසක් රෝහල්ගතකර ඇත.
 
-සැකකාර බ්‍රිතාන්‍ය ජාතිකයා අලවතුගොඩ ප්‍රදේශයේ සංචාරක හෝටලයක නවාතැන්ගෙන සිට ඇත.
+නාගොඩ රෝහල් ආරංචි මාර්ග සඳහන් කරන්නේ සිසුන් 10 දෙනෙකු මෙලෙස රෝහල්ගතකර ඇති බවය.
 
-එහිදී තමන් නවාතැන්ගෙන සිටි කාමරයේ දොරගුළු කඩා එහි තිබූ රුපියල් ලක්ෂ 5කට ආසන්න වටිනාකමකින් යුතු මුදල් ඇතුළු භාණ්ඩ තොගයක් සොරාගෙන ගොස් ඇති බවට පොලීසියට පැමිණිල්ලක් කර ඇත.
+වයස අවුරුදු 12 සහ 13 හැවිරිදි වියේ පසුවන පාසල් සිසුන් පිරිසක් මෙලෙස රෝහල්ගතකර ඇති බව එම ආරංචි මාර්ග වැඩිදුරටත් සඳහන් කරයි.
 
-ඔහු එම පැමිණිල්ලෙන් සඳහන් කර තිබී ඇත්තේ රුපියල් 90,000ක මුදලක්, අත් ඔරලෝසු දෙකක්, කැමරාවක් මෙලෙස සොරාගෙන ගොස් ඇති බවය.
-
-ඒ අනුව පොලීසිය වැඩිදුර විමර්ශන ආරම්භ කිරීමේදී සැකකාර විදේශිකයා සඳහන් කර ඇත්තේ පරීක්ෂණ අනවශ්‍ය බවත් රක්ෂණ වන්දිය ලබාගැනීම සඳහා ලියවිල්ලක් පමණක් ප්‍රමාණවත් බවත්ය.
-
-සැකකාර විදේශිකයා මෙලෙස ප්‍රකාශ කිරීම පිළිබඳව සැකසිතී පොලීසිය වැඩිදුර විමර්ශන සිදුකිරීමේදී අනාවරණය වී ඇත්තේ එම කාමරයේ දොරගුළු ඇතුළතින් කඩා ඇති බවය.
-
-ඒ අනුව මේ වනවිට සැකකාර විදේශිකයා පොලීසිය මගහැර එම ප්‍රදේශයෙන් පළාගොස් ඇත.
+මෙලෙස රෝහල්ගතකර ඇති සිසුන් ක්ලාන්ත ගතියක් සහ ශ්වසන අපහසුතා වැනි ලක්ෂණ පෙන්නුම් කරන බවටද වාර්තා වී තිබේ.
 
 ◼️
 
-[Data](articles/0ead3977.json)
+[Data](articles/ac6be30c.json)
 
 ---
 
 ### 14 Days of Explanation for the Woman
 
-*2024-03-28 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/179916) · `ta`
+*2024-03-28 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179916) · `ta`
 
 The Kalmunai Magistrate postponed the case to April 10, involving the supervisor of Nunnatha school, implicated in a boy's death. The supervisor, arrested, will reappear on Wednesday.
 
@@ -75,6 +69,36 @@ The applications of the police and the defendant's lawyer have been investigated
 [Data](articles/54a5231c.json)
 
 [Extended Data](ext_articles/54a5231c.ext.json)
+
+---
+
+### Fake complaint on the hand
+
+*2024-03-28 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195035) · `si`
+
+A British national in Alawatugoda reportedly lodged a fake complaint, claiming theft of Rs. 90,000, wrists, and a camera. The suspect, staying at a local hotel, fled after the police investigated.
+
+🟩
+
+A British national has been reported from Alawatugoda area on a fake complaint.
+
+The suspect is staying at a tourist hotel in Alawatugoda area.
+
+The police have lodged a complaint with the police that he had stolen a stock of items including money, including the money worth of Rs.
+
+He had stated that he had stolen Rs. 90,000, two wrists, a camera.
+
+Accordingly, the suspect foreigner has stated that the suspect is not necessary and that the insurance prosecution is sufficient.
+
+The suspect's exploitation is revealed in this room, and the doebodies of the room have been demonstrated in the hospital.
+
+Accordingly, the suspect has already fled the area from the police.
+
+◼️
+
+[Data](articles/0ead3977.json)
+
+[Extended Data](ext_articles/0ead3977.ext.json)
 
 ---
 
@@ -2293,27 +2317,5 @@ The public is kindly requested to take steps to reduce temporary winds and light
 [Data](articles/e730c844.json)
 
 [Extended Data](ext_articles/e730c844.ext.json)
-
----
-
-### SLPP members barred from expressing personal views on Presidential candidacy
-
-*2024-03-28 05:08:40* · [`dailyftlk`](https://www.ft.lk/news/SLPP-members-barred-from-expressing-personal-views-on-Presidential-candidacy/56-760072) · `en`
-
-SLPP General Secretary  Sagara Kariyawasam reveals party leader Mahinda Rajapaksa has directed members to not express personal views until a formal decision is reached
-
-SLPP MP Namal Rajapaksa is appointed as party National Organiser ahead of polls
-
-Sri Lanka Podujana Peramuna (SLPP) General Secretary Sagara Kariyawasam yesterday disclosed that party members have been directed by party leader Mahinda Rajapaksa to abstain from expressing their personal opinions regarding the party’s presidential candidacy and potential candidates.
-
-“He explicitly requested that party members refrain from publicly expressing their personal opinions on the Presidential candidacy until the party’s  executive council and politburo convene and reach a formal decision,” he said.
-
-Kariyawasam disclosed this while responding to questions from the media regarding the party’s presidential candidacy subsequent to a SLPP executive committee meeting held at the party headquarters yesterday.
-
-...
-
-[Data](articles/a211e507.json)
-
-[Extended Data](ext_articles/a211e507.ext.json)
 
 ---

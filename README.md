@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 21:52:22**
+As of **2024-03-28 22:04:06**
 
 ## Newspaper Stats
 
-*Scraped **15,783** Articles*
+*Scraped **15,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,98 @@ economynextcom | 867
 islandlk | 868
 adalk | 1,339
 tamilmirrorlk | 1,893
-adaderanalk | 1,894
-virakesarilk | 2,232
+adaderanalk | 1,895
+virakesarilk | 2,234
 dailymirrorlk | 2,436
-adaderanasinhalalk | 2,538
+adaderanasinhalalk | 2,540
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,783 (100.0%) of 15,783 articles have been extended.
+15,783 (100.0%) of 15,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### ක්‍රිප්ටො රජු සිරගෙට
+
+*2024-03-28 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195051) · `si`
+
+ක්‍රිප්ටො රජු ලෙස සැළකෙන සෑම් බෑන්ක්මන් ෆ්‍රයිඩ් හට වසර 25ක සිරදඬුවමක් නියම කර තිබේ.
+
+ඒ ක්‍රිප්ටො කරන්සි හුවමාරු සමාගම හරහා තම සේවාදායකයින්ගේ ඩොලර් බිලියන ගණනක් වංචා කළ බවට ඔහු වරදකරු හේතුවෙනි.
+
+◼️
+
+[Data](articles/7625de86.json)
+
+---
+
+### உண்மை, ஒற்றுமை, நல்லிணக்க ஆணைக்குழு சட்டமூலத்தை நன்கு ஆராய்ந்ததன் பின்னரே பரிந்துரைகளை முன்வைப்போம் - அஸ்கிரிய பீடம் தெரிவிப்பு
+
+*2024-03-28 21:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179935) · `ta`
+
+உத்தேச உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலம் தொடர்பில் தமது கரிசனைகளை வெளியிடுவதற்கு முன்பதாக, அச்சட்டமூலத்தை தாம் நன்கு ஆராய்ந்து, அதுபற்றி தமது பீடத்தின் சங்க சபை தேரர்களுடன் கலந்துரையாட வேண்டியிருப்பதாக அஸ்கிரிய பீடம் தெரிவித்துள்ளது.
+
+உண்மை மற்றும் நல்லிணக்கப் பொறிமுறை தொடர்பான இடைக்கால செயலகத்தினால் கடந்த மாதம் உத்தேச உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலத்தின் பிரதிகள் அஸ்கிரிய மற்றும் மல்வத்துபீட மகாநாயக்க தேரர்களிடம் கையளிக்கப்பட்டன.
+
+அதனையடுத்து அவ்விரு பீடங்களும் இணைந்து அச்சட்டமூலத்தை ஆராய்ந்து, தமது அவதானிப்புக்கள் மற்றும் நிலைப்பாடுகளை அறியத்தருவதாக மல்வத்துபீடத்தின் திப்பட்டுவாவே ஸ்ரீ சித்தார்த்த சுமங்கல தேரர் மற்றும் அஸ்கிரியபீடத்தின் வரகாகொட ஸ்ரீ ஞானரத்ன தேரர் ஆகியோர் உறுதியளித்தனர்.
+
+...
+
+[Data](articles/58beb0fd.json)
+
+---
+
+### UK will continue to keep Sri Lanka travel advice under close review – Lord Ahmad
+
+*2024-03-28 21:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98272/uk-will-continue-to-keep-sri-lanka-travel-advice-under-close-review-lord-ahmad) · `en`
+
+Amidst growing pressure to amend its travel advice to Sri Lanka which was deemed “overly harsh”, the United Kingdom (UK) has defended its decision and said it would continue to keep the island nation’s travel advise under close review.
+
+UK’s Minister of State for the Middle East, South Asia, Commonwealth Lord Tariq Ahmad of Wimbledon made this remark in the UK Parliament responding to a question raised on plans to update the travel advice to Sri Lanka to reflect the security situation in the country.
+
+He defended the move, saying that the safety of British people is the main factor when determining UK’s travel advice for all countries, including Sri Lanka.
+
+“Our advice is designed to help British people make informed decisions about foreign travel and remains under constant review to ensure it reflects our latest assessment of risks when travelling abroad.
+
+...
+
+[Data](articles/d23e9c8c.json)
+
+---
+
+### මහරගම බෝ ගසේ අත්තක් කඩා වැටී සිදුවූ අනතුරේ නවතම තත්ත්වය
+
+*2024-03-28 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195050) · `si`
+
+මහරගම බෝ ගසේ අත්තක් කඩා වැටීමෙන් සිදුවූ අනතුරින් පුද්ගලයින් දෙදෙනෙකු සුළු තුවාල ලබා ඇති බව පොලීසිය පවසයි.
+
+අද පස්වරු 7.30ට පමණ බෝ ගසේ අත්තක් කඩාවැටීමේ හේතුවෙන් මහරගම හයිලෙවල් මාර්ගයේ රථ වාහන ධාවනයට බාධා එල්ලවිය.
+
+එම අනතුරින් යතුරුපැදියකට, ත්‍රිරෝද රථ දෙකකට සහ මෝටර් රථයකට හානි සිදුව ඇති බව පොලීසිය වැඩිදුරටත් සඳහන් කරයි.
+
+පොලීසිය වැඩිදුරටත් සඳහන් කළේ මේ වනවිට කඩා වැටුණු බෝ ගසේ අත්ත එම ස්ථානයෙන් ඉවත්කර ඇති බවය.
+
+◼️
+
+[Data](articles/61e33f4f.json)
+
+---
+
+### பொலிஸாரால் யாழ் - நெல்லியடியில் கசிப்புக் குகை முற்றுகை
+
+*2024-03-28 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179914) · `ta`
+
+600 லீற்றருக்கும் மேற்பட்ட கோடாவும் கசிப்பு காய்ச்சுவதற்கான உபகரணங்களும் இதன்போது பொலிஸாரால் மீட்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/6c05e7f3.json)
+
+---
 
 ### Development Lottery Board recorded recorded profit
 
@@ -2189,123 +2267,5 @@ Earlier Bangladesh won the three-match ODI series by 2-1 before losing the T20 s
 [Data](articles/04080e4b.json)
 
 [Extended Data](ext_articles/04080e4b.ext.json)
-
----
-
-### The Court of Appeal confirms the death penalty given to the mum and son
-
-*2024-03-28 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195023) · `si`
-
-The Court of Appeal upheld the death sentence for a mother and son convicted in Bandaranaya, Colombo, 16 years ago. The accused appealed their conviction, arguing unfair trial, but the Court of Appeal found the High Court's decision justified.
-
-🟩
-
-Sixteen years ago, a mother and son were convicted of the allegation of a mother and son in Bandaranaya, Colombo.. it. The Court of Appeal was held yesterday (27) by the death sentence imposed by the Colombo High Court.
-
-Judge Menkara Kaluarachchi was given by the Court of Appeal Judge Manaka Wijesundara after hearing a appeal to acquitted by the accused by the punishment.
-
-On October 13, 2008, the Attorney General had filed a case before the Colombo High Court against the murder of Dinesh Prasanna and her son Dinesh Prasanna.
-
-After a long trial, the conquered High Court judge sentenced him to death.
-
-The Court of Appeal then presented a appeal to the Court of Appeal to acquit himself and release him.
-
-On the Court of Appeal, the defendant had stated that he had not had a fair trial in the High Court.
-
-The High Court Judge had not taken regarded to the proof of the evidence that he had favorable and his defendant and that the High Court judge was also accused of considering his decision.
-
-...
-
-[Data](articles/5609ad46.json)
-
-[Extended Data](ext_articles/5609ad46.ext.json)
-
----
-
-### Assassination
-
-*2024-03-28 11:07:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூரிய-ஆயுதத்தால்-தாக்கி-ஒருவர்-கொலை/175-335299) · `ta`
-
-In Lunugamvehera, Southern Province, a 32-year-old man was assassinated near a shop. Police believe the murder was due to a long-standing dispute.
-
-🟩
-
-The Senior Deputy Inspector General of Police of the Southern Province said that a man was assassinated with a sharp weapon near a shop in Lunugamvevehara, Hambantota.
-
-A 32 -year -old man, Kelum Dushara Hevat Ilwad, from Lunugamvehera, died in the incident.
-
-Police suspect that the murder may have been caused by a long -standing dispute between another man from the same area.
-
-◼️
-
-[Data](articles/e97122ea.json)
-
-[Extended Data](ext_articles/e97122ea.ext.json)
-
----
-
-### Galagoda Ate Gnanasara Thera sentenced to 4 years in prison
-
-*2024-03-28 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179881) · `ta`
-
-Galagoda Ate Gnanasara Thera, a Buddhist monk, was sentenced to 4 years in prison by Colombo High Court Judge Aditya Pattabendi for making comments on the Kuragala School, which the Attorney General declared contributed to national and religious reconciliation.
-
-🟩
-
-Colombo High Court Judge Aditya Pattabendi sentenced Galagoda Ate Gnanasara Thera to four years rigorous imprisonment and a fine of Rs.
-
-The Attorney General was declared guilty of both charges against Gnanasara Thera.
-
-The case was filed at a press conference in Colombo in 2016 and said that the comment on the Kuragala School was contributed to national and religious reconciliation.
-
-◼️
-
-[Data](articles/b86c4199.json)
-
-[Extended Data](ext_articles/b86c4199.ext.json)
-
----
-
-### A student killed in accident
-
-*2024-03-28 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/179879) · `ta`
-
-A 16-year-old student died in a motorbike accident in Periyakallar, Batticaloa, while another was injured. Both were GCE Ordinary Level candidates.
-
-🟩
-
-A student who was sitting for the GCE Ordinary Level examination was killed and one person was injured in an accident that took place last night (27) night in Periyakallar area of the Kaluwanchikudi police division of the Batticaloa district.
-
-Kaluwanchikudi police said that the two students on the Periyakallar Maya road were unable to control the speed as they were on a motorbike.
-
-Chandrakanthan Chatusan, a 16 -year -old student from Periyakallar II, has died on the spot and a student has been admitted to the Periyakallar District Hospital and taken to the Batticaloa Teaching Hospital for further treatment.
-
-The two students who went on the motorcycle will appear for the GCE Ordinary Level Examination this time, the residents of the area said.
-
-◼️
-
-[Data](articles/04b421b3.json)
-
-[Extended Data](ext_articles/04b421b3.ext.json)
-
----
-
-### Bribery Commission files legal action against former CB Governor and four others
-
-*2024-03-28 10:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bribery-Commission-files-legal-action-against-former-CB-Governor-and-four-others/108-279768) · `en`
-
-Colombo, March 28 (Daily Mirror) - The Commission to Investigate Allegations of Bribery or Corruption has taken legal action against former Governor of the Central Bank Ajith Nivard Cabraal and four others for causing a loss of Rs. 1,843.3 million to the government through the purchase of Treasury Bills.
-
-The Commission said it has filed a case before the Colombo High Court yesterday following investigations into a complaint lodged by former Parliamentarian Sujeewa Senasinghe.
-
-The complaint pertains to the purchase of Treasury Bills issued by the Government of Greece during the country's financial crisis in 2012.
-
-The complaint alleges that the purchase of these Treasury Bills, conducted with prior knowledge of the crisis resulted in a loss of Rs. 1,843,267,595 to the Government.
-
-...
-
-[Data](articles/c9b539cf.json)
-
-[Extended Data](ext_articles/c9b539cf.ext.json)
 
 ---

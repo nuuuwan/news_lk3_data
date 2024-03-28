@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 18:51:43**
+As of **2024-03-28 19:03:10**
 
 ## Newspaper Stats
 
-*Scraped **15,763** Articles*
+*Scraped **15,765** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,42 +17,64 @@ economynextcom | 867
 islandlk | 868
 adalk | 1,339
 adaderanalk | 1,891
-tamilmirrorlk | 1,891
+tamilmirrorlk | 1,892
 virakesarilk | 2,228
-dailymirrorlk | 2,432
+dailymirrorlk | 2,433
 adaderanasinhalalk | 2,531
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,762 (100.0%) of 15,763 articles have been extended.
+15,763 (100.0%) of 15,765 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### 500ක අල්ලසක් ගත් පොලිස් සැරයන්ට අධිකරණය දුන් දඬුවම
+### கெஹலிய உள்ளிட்டோருக்கு மீண்டும் விளக்கமறியல்
+
+*2024-03-28 18:37:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-உள்ளிட்டோருக்கு-மீண்டும்-விளக்கமறியல்/175-335315) · `ta`
+
+கைது செய்யப்பட்டு விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல உள்ளிட்ட சந்தேகநபர்கள் 9 பேருக்கும் விளக்கமறியல் நீடிக்கப்பட்டுள்ளது.
+
+இதன்படி அனைவரும், ஏப்ரல் மாதம் 8 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+தரமற்ற மனித இம்யூனோகுளோபுலின் மருந்துகளை இறக்குமதி செய்த குற்றச்சாட்டில் இவர்கள் கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/5a888bc3.json)
+
+---
+
+### Punishment of police sticks for 500 bribery
 
 *2024-03-28 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195042) · `si`
 
-ත්‍රිරෝද රථ රියදුරෙකුගෙන් අල්ලස් මුදලක් ලබාගත් පොලිස් සැරයන්වරයෙකුට කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද සිර දඬුවම් නියම කර තිබේ.
+A police sergeant was sentenced to 16 years in prison and fined Rs. 20,000 for accepting a bribe from a three-wheeler driver to avoid legal action for a traffic offense.
 
-සැකකාර පොලිස් සැරයන්වරයා විසින් රථවාහන වරදක් සම්බන්ධයෙන් නීතිමය වශයෙන් කටයුතු නොකර සිටීමට ත්‍රිරෝද රථ රියදුරෙකුගෙන් රුපියල් 500ක ලබාගැනීමේ චෝදනාවට ඔහු වරදකරු කර ඇත.
+🟩
 
-අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාව විසින් ඔහුට විරුද්ධව චෝදනා 4ක් යටතේ අධිකරණය වෙත කරුණු වාර්තා කර තිබුණි.
+The Colombo Magistrate's Court today has been sentenced to a police sergeant who had obtained a bribe from a three-wheeler driver.
 
-ඒ අනුව මහෙස්ත්‍රාත් අධිකරණ විනිසුරු ප්‍රසන්න අල්විස් මහතා විසින් සැකකාර සැරයන්වරයා එම චෝදනා 4ටම වරදකරු ලෙස තීරණය කර ඇත.
+The suspect the police sergeant has been convicted of a three-wheeler driver to avoid legal action against a traffic offense.
 
-ඒ අනුව එක් එක් චෝදනාව සඳහා වසර බැගින් වසර 4ක සිර දඬුවම් නියම කර ඇති අතර එකී සිර දඬුවම් එකවර ගෙවී යායුතු බවට නියම කර ඇත.
+The Bribery Investigation Commission (Investigation Investigation Commission had reported to the court on four charges against him.
 
-එසේම සැකකාර සැරයන්වරයාට රුපියල් 5000 බැගින් චෝදනා සඳහා රුපියල් 20,000ක දඩයක් ද අධිකරණය නියම කර තිබේ.
+Accordingly, Magistrate Judicial Prasanna Alwis has decided to be guilty of 4 charges.
 
-එසේම අල්ලස් වශයෙන් ගත් රුපියල් 500 ද මුදල් දණ්ඩනයක් වශයෙන් අයකරගැනීමට අධිකරණය වැඩිදුරටත් නියෝග කර තිබේ.
+Accordingly, each charge has been sentenced to four years in prison for 4 years and sentenced to pay the prison simultaneously.
+
+The suspects also fined Rs. 20,000 for charges of the suspect sergeant.
+
+The Court has also ordered the recovery of Rs. 500 and as a cash penal.
 
 ◼️
 
 [Data](articles/767f3d3d.json)
+
+[Extended Data](ext_articles/767f3d3d.ext.json)
 
 ---
 
@@ -73,6 +95,30 @@ On a previous occasion, former Convenor of Inter University Students' Federation
 [Data](articles/b667a5a6.json)
 
 [Extended Data](ext_articles/b667a5a6.ext.json)
+
+---
+
+### Cop sentenced to four years for accepting bribe of Rs. 500
+
+*2024-03-28 18:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cop-sentenced-to-four-years-for-accepting-bribe-of-Rs-500/108-279787) · `en`
+
+Colombo, March 28 - The Colombo Chief Magistrate's Court sentenced a police sergeant to four years' imprisonment for accepting a bribe of Rs. 500, the Commission to Investigate Allegations of Bribery or Corruption said.
+
+The Commission said the police sergeant was charged with accepting the bribe from a three-wheeler driver to avoid legal action over a traffic offence.
+
+Following a notification from the Traffic DIG to the Commission to Investigate Allegations of Bribery or Corruption regarding the bribe, an open investigation was conducted.
+
+The Commission then reported the findings to the Magistrate's Court, leading to the filing of a case with four charges.
+
+After a lengthy trial, Judge Prasanna Alwis found the accused guilty on all four counts.
+
+As a result, the police sergeant was sentenced to four years' imprisonment and ordered to pay a fine of Rs. 20,000 (Rs. 5,000 for each charge).
+
+In addition , the Rs. 500 bribe amount was ordered to be recovered as a penalty.
+
+◼️
+
+[Data](articles/3f1729f0.json)
 
 ---
 
@@ -2291,61 +2337,5 @@ The official poverty line is adjusted by the National and District level prices,
 [Data](articles/60f0faac.json)
 
 [Extended Data](ext_articles/60f0faac.ext.json)
-
----
-
-### New method to get complaints about nude photos
-
-*2024-03-28 09:29:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாண-புகைப்படங்கள்-பற்றிய-முறைப்பாடுகளை-பெற-புதிய-முறை/175-335292) · `ta`
-
-The National Child Protection Authority introduces a new system to report complaints about children's nude photos and porn videos online. Complaints are reported to the International Monitoring Foundation in the UK, and legal action will be taken to remove obscene content and identify the perpetrators.
-
-🟩
-
-The National Child Protection Authority has said that a new system will be introduced to obtain complaints relating to uploading children's porn videos and naked photos on the Internet.
-
-Udaya Kumara Amarasinghe, Chairman of the National Child Protection Authority, will be given the opportunity to make complaints from today.
-
-Complaints received by this organization are directly reported to the "International Monitoring Foundation" in the UK.
-
-Through this, the National Child Protection Authority has stated that steps will be taken to remove the accompanying obscene videos and naked photos.
-
-In addition, legal action will be taken by the International Police to investigate the complaints and find out who the concerned parties are.
-
-It has been reported that in the past, there have been many complaints regarding the publication of children's obscene videos and naked photos on the Internet.
-
-◼️
-
-[Data](articles/8ccdc9a7.json)
-
-[Extended Data](ext_articles/8ccdc9a7.ext.json)
-
----
-
-### A tooth of a person's lung
-
-*2024-03-28 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195019) · `si`
-
-A 49-year-old man died at Piyahahla University Hospital, Balangoda, after a kidney disease. The Judicial Medical Officer found a tooth in his lung during a post-mortem. The deceased, identified as Karunaratne from Balangoda, was an alcoholic and died of pneumonia.
-
-🟩
-
-A 49-year-old man was found in the Piyahahla University of the Balangoda Balangoda hospital yesterday (27).
-
-The man had been deployed from a time from a time of the kidney disease.
-
-Judicial Medical Officer of Balangoda Balangoda. Pathathndra Wijetilleke stated that the Patathu Understanding was found in the Patunual when the post mortem examination was conducted by Chainha Truth.
-
-The deceased has been identified as the resident resident of Balangoda Police Balaboda. Karunaratne is Karunaratne.
-
-It was reported that the person was an alcohol, a drinking and the death of pneumonia.
-
-It is reported that a two-year ago in his mouth was suspected to be trapped in the lung.
-
-◼️
-
-[Data](articles/f840c785.json)
-
-[Extended Data](ext_articles/f840c785.ext.json)
 
 ---

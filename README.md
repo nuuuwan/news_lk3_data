@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 18:33:46**
+As of **2024-03-28 18:51:43**
 
 ## Newspaper Stats
 
-*Scraped **15,762** Articles*
+*Scraped **15,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adaderanalk | 1,891
 tamilmirrorlk | 1,891
 virakesarilk | 2,228
 dailymirrorlk | 2,432
-adaderanasinhalalk | 2,530
+adaderanasinhalalk | 2,531
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,751 (99.9%) of 15,762 articles have been extended.
+15,762 (100.0%) of 15,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### 500ක අල්ලසක් ගත් පොලිස් සැරයන්ට අධිකරණය දුන් දඬුවම
+
+*2024-03-28 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195042) · `si`
+
+ත්‍රිරෝද රථ රියදුරෙකුගෙන් අල්ලස් මුදලක් ලබාගත් පොලිස් සැරයන්වරයෙකුට කොළඹ මහෙස්ත්‍රාත් අධිකරණය අද සිර දඬුවම් නියම කර තිබේ.
+
+සැකකාර පොලිස් සැරයන්වරයා විසින් රථවාහන වරදක් සම්බන්ධයෙන් නීතිමය වශයෙන් කටයුතු නොකර සිටීමට ත්‍රිරෝද රථ රියදුරෙකුගෙන් රුපියල් 500ක ලබාගැනීමේ චෝදනාවට ඔහු වරදකරු කර ඇත.
+
+අල්ලස් හෝ දූෂණ විමර්ශන කොමිෂන් සභාව විසින් ඔහුට විරුද්ධව චෝදනා 4ක් යටතේ අධිකරණය වෙත කරුණු වාර්තා කර තිබුණි.
+
+ඒ අනුව මහෙස්ත්‍රාත් අධිකරණ විනිසුරු ප්‍රසන්න අල්විස් මහතා විසින් සැකකාර සැරයන්වරයා එම චෝදනා 4ටම වරදකරු ලෙස තීරණය කර ඇත.
+
+ඒ අනුව එක් එක් චෝදනාව සඳහා වසර බැගින් වසර 4ක සිර දඬුවම් නියම කර ඇති අතර එකී සිර දඬුවම් එකවර ගෙවී යායුතු බවට නියම කර ඇත.
+
+එසේම සැකකාර සැරයන්වරයාට රුපියල් 5000 බැගින් චෝදනා සඳහා රුපියල් 20,000ක දඩයක් ද අධිකරණය නියම කර තිබේ.
+
+එසේම අල්ලස් වශයෙන් ගත් රුපියල් 500 ද මුදල් දණ්ඩනයක් වශයෙන් අයකරගැනීමට අධිකරණය වැඩිදුරටත් නියෝග කර තිබේ.
+
+◼️
+
+[Data](articles/767f3d3d.json)
+
+---
 
 ### Ven. Siridhamma Thera released from PTA charges
 
@@ -47,6 +71,8 @@ On a previous occasion, former Convenor of Inter University Students' Federation
 ...
 
 [Data](articles/b667a5a6.json)
+
+[Extended Data](ext_articles/b667a5a6.ext.json)
 
 ---
 
@@ -270,6 +296,8 @@ Development Lotteries Board is one of the state-owned enterprises to be register
 
 [Data](articles/a4a61d53.json)
 
+[Extended Data](ext_articles/a4a61d53.ext.json)
+
 ---
 
 ### Sri Lanka Abans says McDonald’s local franchisee mainly owned by its MD, not subsidiary
@@ -289,6 +317,8 @@ Local reports said McDonald’s Corporation had sought an order preventing Abans
 ...
 
 [Data](articles/1e3d556f.json)
+
+[Extended Data](ext_articles/1e3d556f.ext.json)
 
 ---
 
@@ -383,6 +413,8 @@ A bond maturing on 15.12.2028 closed at 12.10/20 percent from 12.10/15 percent. 
 ◼️
 
 [Data](articles/5f2f3ba4.json)
+
+[Extended Data](ext_articles/5f2f3ba4.ext.json)
 
 ---
 
@@ -519,6 +551,8 @@ From March 2023 the central bank had allowed the exchange rate to appreciate, ar
 ◼️
 
 [Data](articles/f97f8245.json)
+
+[Extended Data](ext_articles/f97f8245.ext.json)
 
 ---
 
@@ -662,6 +696,8 @@ Major contributors to the Index included Commercial Bank of Ceylon Plc (up at 97
 
 [Data](articles/dd304470.json)
 
+[Extended Data](ext_articles/dd304470.ext.json)
+
 ---
 
 ### Patali says willing to run for Sri Lanka president if invited by new alliance
@@ -683,6 +719,8 @@ Titled “A Step Forward with Unity for Our Nation”, the 32-page document cont
 ...
 
 [Data](articles/9462eb89.json)
+
+[Extended Data](ext_articles/9462eb89.ext.json)
 
 ---
 
@@ -804,6 +842,8 @@ The February estimates are provisional and are associated with a margin of error
 
 [Data](articles/7ef78ccc.json)
 
+[Extended Data](ext_articles/7ef78ccc.ext.json)
+
 ---
 
 ### Fire erupts at tyre shop in Colombo
@@ -891,6 +931,8 @@ Malintha Gajanayake, Head of Corporate Affairs & Export Promotions at the Delega
 ...
 
 [Data](articles/64bf8d4e.json)
+
+[Extended Data](ext_articles/64bf8d4e.ext.json)
 
 ---
 
@@ -1306,6 +1348,8 @@ However, the Department of Agriculture said that 75,000 kilos of big onion bulbs
 
 [Data](articles/21c54179.json)
 
+[Extended Data](ext_articles/21c54179.ext.json)
+
 ---
 
 ### Ramadan Shopping Festival
@@ -1337,6 +1381,8 @@ Rose Onion is a large onion similar to the big onions imported and consumed in S
 ◼️
 
 [Data](articles/b6e2284e.json)
+
+[Extended Data](ext_articles/b6e2284e.ext.json)
 
 ---
 
@@ -2301,23 +2347,5 @@ It is reported that a two-year ago in his mouth was suspected to be trapped in t
 [Data](articles/f840c785.json)
 
 [Extended Data](ext_articles/f840c785.ext.json)
-
----
-
-### General Shavendra Silva joins Sri Lankan Iftar in Kenya
-
-*2024-03-28 09:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/General-Shavendra-Silva-joins-Sri-Lankan-Iftar-in-Kenya/110-279764) · `en`
-
-Demonstrating a gesture of solidarity and inclusiveness, Sri Lankan High Commissioner to Kenya, Kana Kananathan, hosted an Iftar ceremony followed by a lavish dinner for the Sri Lankan Muslim community residing in Kenya. This auspicious event was held yesterday evening.
-
-The Iftar dinner unfolded amidst the plush ambiance of a posh restaurant nestled in Nairobi's suburban expanse, providing an elegant backdrop for the gathering.
-
-Attended by distinguished figures, including General Shavendra Silva, the Chief of Defense Staff of Sri Lanka presently on an official visit to Kenya, the occasion exemplified the significance of community engagement and cultural interchange. General Silva's presence underscored the government's commitment to embracing diversity and fortifying ties with its overseas citizens.
-
-...
-
-[Data](articles/cc6fb81f.json)
-
-[Extended Data](ext_articles/cc6fb81f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 14:03:06**
+As of **2024-03-28 14:18:18**
 
 ## Newspaper Stats
 
-*Scraped **15,706** Articles*
+*Scraped **15,707** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 848
 economynextcom | 857
 islandlk | 867
 adalk | 1,336
-adaderanalk | 1,883
+adaderanalk | 1,884
 tamilmirrorlk | 1,887
 virakesarilk | 2,222
 dailymirrorlk | 2,421
@@ -26,47 +26,63 @@ adaderanasinhalalk | 2,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,702 (100.0%) of 15,706 articles have been extended.
+15,706 (100.0%) of 15,707 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### කබ්රාල්ට එරෙහිව අල්ලස් කොමිසමෙන් නඩු පවරයි
+### Bribery Commission sues Cabraal
 
 *2024-03-28 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195027) · `si`
 
-2012 වසරේදී ග්‍රීක රජය විසින් නිකුත් කරන ලද භාණ්ඩාගාර බැඳුම්කර මිලදී ගෙන රජයට පාඩුවක් සිදුකිරීමේ චෝදනාවට හිටපු මහ බැංකු අධිපති අජිත් නිවාඩ් කබ්රාල් ඇතුළු පුද්ගලයින් පස් දෙනෙකුට එරෙහිව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් කොළඹ මහාධිකරණයේ නඩු පවරා තිබේ.
+The Bribery Commission sues former Central Bank Governor Ajith Nivard Cabraal for alleged bribery or corruption related to the purchase of Greek government bonds in 2012, following a complaint by former MP Zeji Senasinghe.
 
-හිටපු පාර්ලිමේන්තු මන්ත්‍රී සූජිව සේනසිංහ මහතා විසින් සිදුකරන ලද පැමිණිල්ලකට අදාළව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව සිදුකළ විමර්ශනවලින් අනතුරුව මෙම නඩු පැවරීම සිදුකර ඇත.
+🟩
 
-ග්‍රීසිය දැඩි ආර්ථික අර්බුදයට ලක්වී සිටියදී ඒ බව දැන දැනම එරට රජය විසින් නිකුත් කරන ලද භාණ්ඩාගාර බැඳුම්කර මිලදී ගැනීමෙන් රජයට රුපියල් 1,843 267,595ක පාඩුවක් සිදුකර ඇති බවට අදාළ පැමිණිල්ලේ සඳහන් ය.
+Former Central Bank Governor Ajith Normad Cabraal, former Central Bank Governor Ajith Nivard Cabraal, has filed a case against five persons including the Greek government bonds issued by the Greek government in 2012.
 
-එම පැමිණිල්ල සම්බන්ධයෙන් සිදුකළ විමර්ශනවලින් අනතුරුව හිටපු මහ බැංකු අධිපති අජිත් නිවාඩ් කබ්රාල් මහතා ඇතුළු පුද්ගලයින් පස් දෙනෙකුට එරෙහිව කොළඹ මහාධිකරණය හමුවේ නඩු පැවරීම සිදුකළ බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව සඳහන් කළේය.
+The prosecution had been carried out following the investigation of bribery or corruption in connection with the complaint lodged by former MP Zeji Senasinghe.
+
+The complaint was made by the government to purchase Treasury Bonds issued by the Government of the Government of Greece when Greece was in a heavy economic crisis.
+
+Investigations carried out regarding the complaint, the Bribery Commission said that the former Central Bank Governor Ajith Nivard Cabraal was filed against the Colombo High Court against five persons.
 
 ◼️
 
 [Data](articles/72041f8c.json)
 
+[Extended Data](ext_articles/72041f8c.ext.json)
+
 ---
 
-### மாதமொன்றுக்கு 6 இலட்சம் கோழி முட்டைகள் உற்பத்தி : டிசம்பர் வரை விலை அதிகரிக்கப்படாது - அகில இலங்கை முட்டை உற்பத்தியாளர் சங்கம்
+### Production of 6 lakhs of chicken eggs per month
 
 *2024-03-28 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/179898) · `ta`
 
-நாட்டில் மாதமொன்றுக்கு 6 இலட்சம் கோழி முட்டைகள் உற்பத்தி செய்யப்பட்டு வருகின்றன. அத்தோடு, முட்டையின் விலை எதிர்வரும் டிசம்பர் மாதம் வரை அதிகரிக்கப்படமாட்டாது என அகில இலங்கை முட்டை உற்பத்தியாளர் சங்கத்தின் செயலாளர் ரத்னஸ்ரீ அழககோன் தெரிவித்துள்ளார்.
+The country produces 6 lakh chicken eggs monthly, with prices expected to remain stable until December. Despite a 2022 downturn, recovery is underway, with egg production increasing to 6 lakh per month. The price of eggs could drop to 30 rupees, potentially harming the industry. The government has been asked to investigate egg exports. Poultry fodder prices have fallen to 180 rupees, benefiting farmers. If egg prices drop to 35 rupees, small and medium manufacturers may struggle. More chickens are being imported, leading to an increase in eggs and chicks by early 2025.
 
-அடுக்கு கோழி வளர்ப்பில் 2022இல் வீழ்ச்சி ஏற்பட்ட போதிலும் நாடு தற்போது அதிலிருந்து மீண்டு, 2023ஆம் ஆண்டின் பிற்பகுதியில் இருந்து, மாதமொன்றுக்கு 6 இலட்சம் என்றளவில் முட்டை உற்பத்தி அதிகரித்து வருகிறது.
+🟩
 
-உண்மையிலேயே, முட்டையின் விலை 30 ரூபாயாக குறையும் நிலை கூட உண்டாகும். இது எமது தொழில் துறையில் பாரியதொரு வீழ்ச்சியை ஏற்படுத்தக்கூடும்.
+6 lakh chicken eggs are being produced per month in the country. The price of eggs will not be increased till December, said Ratnasree Alagoon, Secretary of the All Ceylon Egg Manufacturers Association.
 
-மதிய உணவுத் திட்டத்தில் முட்டையை சேர்க்க வேண்டும் என்பதோடு, முட்டைகளை ஏற்றுமதி செய்வது தொடர்பில் ஆராயும்படி அரசாங்க தரப்பிடம் கோரியுள்ளோம் என்றார்.
+Despite the fall in 2022, the country is now recovering from the late 2023 and the increase in egg production to 6 lakhs per month.
 
-இதேவேளை, தற்போது கோழித் தீவனத்தின் விலை 180 ரூபாயாக குறைந்துள்ளது என அகில இலங்கை முட்டை உற்பத்தியாளர் சங்கத்தின் தலைவர் ஆர்.எம்.சரத் ரத்நாயக்க கூறியுள்ளார்.
+In fact, the price of eggs can be reduced to 30 rupees. This can cause a massive decline in our industry.
+
+"We have requested the government to investigate the export of eggs to the lunch plan and export the eggs."
+
+Meanwhile, the price of poultry fodder has fallen to 180 rupees, said RM Sarath Ratnayake, president of the All Ceylon Egg Manufacturers Association.
+
+The price of a kilo of poultry, which was sold for 240 rupees in 2022, has now fallen to 180 rupees. Therefore, if the farmers get 40 rupees, we can continue this business.
+
+Small and medium egg manufacturers face severe difficulties if the price of eggs falls to Rs 35.
 
 ...
 
 [Data](articles/09583173.json)
+
+[Extended Data](ext_articles/09583173.ext.json)
 
 ---
 
@@ -320,6 +336,24 @@ In his complaint, Senasinghe alleged that the purchase was made despite the know
 
 ---
 
+### Legal action against Cabraal over 2012 Greek treasury bonds purchase
+
+*2024-03-28 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98257/legal-action-against-cabraal-over-2012-greek-treasury-bonds-purchase) · `en`
+
+Legal action has been instituted against five individuals including former Governor of Central Bank of Sri Lanka (CBSL) Ajith Nivard Cabraal, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) says.
+
+Accordingly, the Bribery Commission on March 26 instituted legal action in the Colombo High Court under Case No. HCB 271/2024 after concluding its investigations into a complaint filed by former MP Sujeewa Senasinghe.
+
+The complaint had been put forward against the Central Bank’s purchase of Treasury Bonds issued by the Government of Greece in 2012 when the southeastern European country was experiencing a severe financial crisis.
+
+In his complaint, Senasinghe alleged that the purchase was made despite the knowledge of the financial crisis faced by Greece, and caused a loss of more than Rs. 1.84 billion to the Government of Sri Lanka.
+
+...
+
+[Data](articles/824b1efc.json)
+
+---
+
 ### DCS reveals Sri Lanka’s minimum monthly expenditure per person
 
 *2024-03-28 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98256/dcs-reveals-sri-lankas-minimum-monthly-expenditure-per-person) · `en`
@@ -340,19 +374,25 @@ Meanwhile, Monaragala District has reported the lowest minimum monthly expenditu
 
 ---
 
-### ඥාණසාර හිමිට වසර 4ක බරපතල වැඩ සහිත සිරදඬුවමක්
+### Gnanasara Thera was sentenced to four years in prison
 
 *2024-03-28 11:32:34* · [`adalk`](https://www.ada.lk/breaking_news/ඥාණසාර-හිමිට-වසර-4ක-බරපතල-වැඩ-සහිත-සිරදඬුවමක්/11-408839) · `si`
 
-ගලබොඩඅත්තේ ඥාණසාර හිමියන්ට වසර 4ක බරපතල වැඩ සහිත සිරදඬුවමක් නියමකිරීමට කොළඹ මහාධිකරණය අද පෙරවරුවේ තීරණය කර තිබේ.
+Gnanasara Thera sentenced to 4 years in prison for harming national and religious reconciliation.
 
-2016 වසරේ කොළඹදී පැවැති ප්‍රසිද්ධ මාධ්‍ය හමුවකදී සිදුකළ ප්‍රකාශය මගින් ජාතික හා ආගමික සංහිඳියාවට හානියක් සිදුකිරීම සම්බන්ධයෙන් පැවැත්වුණු නඩු තීන්දුවකට අදාලව මෙම ඳඩුවම නිම කර තිබේ. මීට අමතරව රුපියල් ලක්ෂයක දඩයක් නියමකර ඇත.
+🟩
 
-නීතිපතිවරයා විසින් පනවා තිබූ නඩුවක අධි චෝධනා දෙකටම වරදකරු කරමින් කොළඹ මහාධිකරණය විසින් මෙම නඩුතීන්දුව ලබාදී ඇත.
+The Colombo High Court today has decided to be sentenced to four years in prison to Galaboda Attara Gnanasara Thera.
+
+The statement made at a public media briefing in Colombo in 2016 was completed by a verdict on suspicion of harming national and religious reconciliation.. In addition, a fine of Rs.
+
+The Colombo High Court has been convicted by the Attorney General's executive.
 
 ◼️
 
 [Data](articles/c78f53aa.json)
+
+[Extended Data](ext_articles/c78f53aa.ext.json)
 
 ---
 
@@ -1708,6 +1748,8 @@ For me, it is all about having meaningful conversations. As I have travelled to 
 
 [Data](articles/c4666460.json)
 
+[Extended Data](ext_articles/c4666460.ext.json)
+
 ---
 
 ### 90th CIMA President, AICPA Co-Chair Sarah Ghosh shares vision for sustainable future
@@ -2249,31 +2291,5 @@ More than 750,000 cars and vehicles passed through Baltimore in the last year, h
 [Data](articles/dc38461b.json)
 
 [Extended Data](ext_articles/dc38461b.ext.json)
-
----
-
-### 2024-03-27 (Wednesday)
-
-### Political sports investigations should be carried out in the context of Maithri's ideas -the emphasis on the United People's Power
-
-*2024-03-27 23:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179850) · `ta`
-
-Maithripala Sirisena emphasizes United People's Power in political sports investigations. He criticizes the government's handling of the Sunday attacks and calls for sophisticated investigations. Sirisena also comments on the PA's support for Ranil Wickremesinghe, excluding the Rajapaksa family, and urges supporters to join the United People's Power. He highlights the need for transparency and accountability in politics, especially regarding corruption and fraud.
-
-🟩
-
-The comments made by former President Maithripala Sirisena on the Sunday attacks, United People's Power MP Nalin Bandara, who suspected that he was thrown into a political purpose, urged that investigations should be carried out very sophisticated.
-
-He further stated at a press conference held at the opposition leader's office in Colombo on Wednesday (27).
-
-The government is carrying out an attempt to protect the final breath. A few days ago, the PA had claimed that their candidate would be fielded. Ranil Wickremesinghe is with all the PA, other than the colleagues of the Rajapaksa.
-
-Although PA is with Ranil, the voters are not with him. Ranil Wickremesinghe is the candidate of the PA, including the Rajapaksa family.. Therefore, we call on the remaining 3 lakh supporters to join the United People's Power.
-
-...
-
-[Data](articles/aa6acc7c.json)
-
-[Extended Data](ext_articles/aa6acc7c.ext.json)
 
 ---

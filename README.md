@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 15:17:56**
+As of **2024-03-28 15:33:40**
 
 ## Newspaper Stats
 
-*Scraped **15,721** Articles*
+*Scraped **15,723** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,69 @@ dailyftlk | 848
 economynextcom | 857
 islandlk | 868
 adalk | 1,337
-adaderanalk | 1,886
+adaderanalk | 1,887
 tamilmirrorlk | 1,890
 virakesarilk | 2,223
-dailymirrorlk | 2,425
+dailymirrorlk | 2,426
 adaderanasinhalalk | 2,520
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,715 (100.0%) of 15,721 articles have been extended.
+15,721 (100.0%) of 15,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### கிராண்ட்பாஸ் பகுதியில் தீ பரவல்
+### Fire breaks out at tyre shop in Grandpass
+
+*2024-03-28 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98264/fire-breaks-out-at-tyre-shop-in-grandpass) · `en`
+
+A fire has reportedly broken out at a tyre shop located near Armour Street in Grandpass, Colombo.
+
+The Colombo Municipal Council (CMC) fire brigade had dispatched 05 fire engines to help douse the flames.
+
+Ada Derana reporter said traffic along Armour Street has been restricted to one lane towards Negombo.
+
+Meanwhile, severe traffic congestion has been reported in the area owing to this.
+
+◼️
+
+[Data](articles/95955947.json)
+
+---
+
+### Fire erupts at tyre shop in Colombo
+
+*2024-03-28 15:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fire-erupts-at-tyre-shop-in-Colombo/108-279779) · `en`
+
+Colombo, March 28 (Daily Mirror) - A fire has broken out in a tyre shop located on Armour Street in Colombo.
+
+Police said several fire trucks from the Colombo Municipal Council have been dispatched to extinguish the flames.
+
+◼️
+
+[Data](articles/f97810c2.json)
+
+---
+
+### Fire spreading in the Grandpass area
 
 *2024-03-28 15:01:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/கிராண்ட்பாஸ்-பகுதியில்-தீ-பரவல்/46-335311) · `ta`
 
-கொழும்பு-14, கிராண்ட்பாஸ் பகுதியில் கட்டடமொன்றில் தீ பரவியுள்ளது. தீயைக் கட்டுப்பாட்டுக்குள் கொண்டுவருவதற்காக தீயணைப்பு வாகனங்கள் ஸ்தலத்துக்கு சென்றுக்கொண்டிருகின்றன.
+A fire in a Colombo-14 building in Grandpass is under control with fire trucks on site.
+
+🟩
+
+A fire broke out in a building in Colombo-14, Grandpass. Fire trucks are going to the site to bring the fire under control.
 
 ◼️
 
 [Data](articles/62b9d17a.json)
+
+[Extended Data](ext_articles/62b9d17a.ext.json)
 
 ---
 
@@ -59,6 +97,8 @@ Stoinis is joined by fellow all-rounder Ashton Agar, opening batter Marcus Harri
 ...
 
 [Data](articles/e66a16bc.json)
+
+[Extended Data](ext_articles/e66a16bc.ext.json)
 
 ---
 
@@ -79,6 +119,8 @@ On 29 February, Rambukwella’s attorneys also filed a Fundamental Rights (FR) p
 ◼️
 
 [Data](articles/14d83d9a.json)
+
+[Extended Data](ext_articles/14d83d9a.ext.json)
 
 ---
 
@@ -115,6 +157,8 @@ Semasinghe also said Chinese leader Xi Jinping pledged during “very productive
 ...
 
 [Data](articles/3d1a6f6a.json)
+
+[Extended Data](ext_articles/3d1a6f6a.ext.json)
 
 ---
 
@@ -302,21 +346,29 @@ Investigations carried out regarding the complaint, the Bribery Commission said 
 
 ---
 
-### දින 7ට පාතාල සාමාජිකයන් 35 ක්  සිසිඩි අත්අඩංගුවේ
+### Sischey arrested for 7 pmers
 
 *2024-03-28 13:41:32* · [`adalk`](https://www.ada.lk/breaking_news/දින-7ට-පාතාල-සාමාජිකයන්-35-ක්--සිසිඩි-අත්අඩංගුවේ/11-408840) · `si`
 
-පොලිස්පති දේශබන්දු  තෙන්නකෝන් මහතාගේ උපදෙස් මත ක්‍රියාත්මක   සංවිධානාත්මක අපරාධ කල්ලි මැඩලීමේ විශේෂ මෙහෙයුමේදී ප්‍රබල සංවිධානාත්මක අපරාධකරුවන් සිව් දෙනකුගේ සමීපතම සමාජිකයන් 35 කු දින 7 ක් තුළ දි  අත්අඩංගුවට ගත් බව කොළඹ අපරාධ කොට්ඨාසය කියයි.
+The Colombo Crimes Division arrested 35 large organizational criminals, including powerful drug dealers, in a special operation. Sharp weapons were seized. Inspector of the Organized Criminal Investigation Division led the operation, focusing on criminal gangs.
 
-එම අපරාධකරුවන් සමග තියුණු ආයුධ අත්බෝම්බ සහ මත්ද්‍රව්‍ය  පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරුවන් සංවිධානාත්මක අපරාධ සහ ප්‍රබල මත්ද්‍රව්‍ය  ජාවාරම්කරුවන් වන කෙසෙල්වත්තේ ධනුක,කංජිපානි ඉම්රාන්,දෙමටගොඩ චමින්ද හා පූකුඩුකන්නාගේ සමීපතම ගෝල බාලයන් වන බව පොලිසිය කියයි
+The Colombo Crimes Division (CID) says that 35 large organizational criminals have been arrested in the special operation of organized criminal criminal criminal criminal criminal criminal criminals.
 
-කොළඹ අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ විමර්ශන ඒකකයේ වැඩ බලන ස්ථානාධිපති උප පොලිස් පරීක්ෂක ආර් එම් ආර් චතුරංග මහතාගේ ප්‍රධානත්වයෙන් යුත් කණ්ඩායමක් මෙන්ම  තවත් උප පොලිස් පරීක්ෂකවරුන් දෙදෙනෙකුගේ සහ පොලිස් පරීක්ෂකවරුන් දෙදෙනෙකුගෙන් යුත් කණ්ඩායම් හතරක්  විශේෂ කාර්ය බලකායේ නිලධාරීන්ද සමගින් කණ්ඩායම් පහක්  අපරාධ  කල්ලි මැඩලීමේ මෙහෙයුම සඳහා යොදවා ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය
+Sharp weapons with those criminals have been taken into custody.
 
-...
+Police say that the suspects are organized criminal and powerful drug dealers, Dematagoda Chaminda and Poulthakara and Poulthakara.
+
+Acting October Assistant Investigation Ass Inspector of the Organized Criminal Investigation Division of the Colombo Crimes Division has been deployed for five groups of criminal gangs.Said an officer
+
+Long investigations are carried out to arrest the other underworld activists by detaining several suspects with detaining suspects and interrogated
+
+◼️
 
 [Data](articles/e6af0c00.json)
+
+[Extended Data](ext_articles/e6af0c00.ext.json)
 
 ---
 
@@ -423,6 +475,8 @@ The Ramadan and Sinhala New Year Festival was launched today at the Sri Lanka Ex
 ◼️
 
 [Data](articles/45eea4de.json)
+
+[Extended Data](ext_articles/45eea4de.ext.json)
 
 ---
 
@@ -1044,13 +1098,17 @@ It is noteworthy that 60 percent of the world's cocaine drug is produced in Colo
 
 *2024-03-28 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98255/gnanasara-thero-sentenced-to-4-years-ri) · `en`
 
-Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thero has been sentenced to four years of rigorous imprisonment for the defamatory comments made against Islam 8 years ago.
+Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thero has been sentenced to four years of rigorous imprisonment for the defamatory comments made against Islam in late 2016.
 
 The verdict was delivered by Colombo High Court Judge Aditya Patabendige on Thursday (March 28) while imposing a fine of Rs. 100,000 on the monk.
 
-Gnanasara Thero is accused of making defamatory comments against Islam during a 2016 media briefing convened on the Kuragala ancient Buddhist monastery, causing damage to national and religious harmony.
+Gnanasara Thero is accused of making defamatory comments against Islam during a 2016 media briefing convened on the Kuragala Buddhist monastery, causing damage to national and religious harmony.
 
-◼️
+The judge found the monk guilty of the two indictments filed by the Attorney General under the Penal Code. Accordingly, the accused was sentenced to two years of rigorous imprisonment for each indictment and was imposed two fines of Rs. 50,000 each. He also ordered that the two sentences be served separately.
+
+Gnanasara Thero’s prison sentence will be extended by two more years in the event of his failure to pay the fine.
+
+...
 
 [Data](articles/7d233ef9.json)
 
@@ -2213,47 +2271,5 @@ It is still implemented in Parliament. The national policy is mentioned in the l
 [Data](articles/88e6b13a.json)
 
 [Extended Data](ext_articles/88e6b13a.ext.json)
-
----
-
-### Rocket
-
-*2024-03-28 03:02:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிகப்-பெரிய-மகப்பேற்று-வைத்தியசாலை/175-335289) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of modernizing education and health, highlighting insufficient investments for over 35 years. He spoke at the inauguration of a new women's hospital in Galle Karapitiya, funded by the German government with 25 million euros, showcasing advanced medical facilities.
-
-🟩
-
-President Ranil Wickremesinghe said that the future of the country cannot be rely on the future of the country without modernizing the future of education and health and that there have been insufficient capital expenses for education and health for more than three and a half decades.
-
-The President said this while addressing the inauguration of the German -Sri Lankan friendly new women's hospital in Galle Karapitiya, which is considered to be the largest maternity hospital in the South Asian Zone yesterday.
-
-The six -storey hospital has all the modern medical facilities including 640 beds, 6 surgery stations, emergency care units, intensive care units, laboratory, infant intensive care units, special child departments, special child units.. The sewage sector is also set up here.
-
-The German government provided 25 million euros (about Rs 357 crore) to build the hospital. One part of the hospital expenses is donated and the other is a lighter loan.
-
-...
-
-[Data](articles/8ea4edb6.json)
-
-[Extended Data](ext_articles/8ea4edb6.ext.json)
-
----
-
-### Jan. credit dip linked to strong rupee, post-festive settlements
-
-*2024-03-28 03:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jan-credit-dip-linked-to-strong-rupee-post-festive-settlements/108-279756) · `en`
-
-Visible appetite for credit, as rates have come to levels palatable to borrowers
-
-The Central Bank has been caught off guard by the break in the months-long expansion seen in the private sector credit in January and considered it to be a one-off development and attributed it to the appreciation of the rupee and after-season settlement of facilities by the borrowers.
-
-The seven-month-long streak in the continuous growth in the credit offered to the private sector from the licensed commercial banks (LCBs) broke down in January, when the net credit to the private sector contracted by Rs.52.2 billion, after growing by slightly over Rs.100 billion in December 2023.
-
-...
-
-[Data](articles/b918cfba.json)
-
-[Extended Data](ext_articles/b918cfba.ext.json)
 
 ---

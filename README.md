@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 10:18:08**
+As of **2024-03-28 10:33:56**
 
 ## Newspaper Stats
 
-*Scraped **15,658** Articles*
+*Scraped **15,659** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 142
-bbccomsinhala | 166
+bbccomsinhala | 167
 dbsjeyarajcom | 194
 newsfirstlk | 363
 dailyftlk | 847
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,512
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,656 (100.0%) of 15,658 articles have been extended.
+15,658 (100.0%) of 15,659 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Senaka*, 36, was bleeding from his legs and hands. Nipuna’s condition was wors
 ...
 
 [Data](articles/07aa8aaf.json)
+
+[Extended Data](ext_articles/07aa8aaf.ext.json)
 
 ---
 
@@ -199,6 +201,8 @@ Attended by distinguished figures, including General Shavendra Silva, the Chief 
 ...
 
 [Data](articles/cc6fb81f.json)
+
+[Extended Data](ext_articles/cc6fb81f.ext.json)
 
 ---
 

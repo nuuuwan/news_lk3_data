@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 20:18:02**
+As of **2024-03-28 20:36:09**
 
 ## Newspaper Stats
 
-*Scraped **15,777** Articles*
+*Scraped **15,779** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,75 @@ dailyftlk | 848
 economynextcom | 867
 islandlk | 868
 adalk | 1,339
-tamilmirrorlk | 1,892
+tamilmirrorlk | 1,893
 adaderanalk | 1,893
 virakesarilk | 2,231
 dailymirrorlk | 2,435
-adaderanasinhalalk | 2,536
+adaderanasinhalalk | 2,537
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,775 (100.0%) of 15,777 articles have been extended.
+15,777 (100.0%) of 15,779 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### කෙහෙළිය කැබිනට්ටුව ඇන්දුවාද? අධිකරණයේදී හෙළිවූ දේ
+### මහරගම බෝ ගසේ අත්තක් කඩා වැටෙයි
+
+*2024-03-28 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195048) · `si`
+
+මහරගම බෝ ගසේ අත්තක් කඩාවැටීම හේතුවෙන් මෙලෙස එම රථවාහන තදබදය ඇතිවී ඇත.
+
+◼️
+
+[Data](articles/0068fc2a.json)
+
+---
+
+### மைத்திரிக்கு நீதிமன்றம் அதிரடி உத்தரவு
+
+*2024-03-28 20:05:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-நீதிமன்றம்-அதிரடி-உத்தரவு/175-335316) · `ta`
+
+எதிர்வரும் ஏப்ரல் மாதம் 4 ஆம் திகதி நீதிமன்றத்தில் வாக்குமூலம் வழங்குமாறு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவிற்கு மாளிகாகந்த நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+சட்டமா அதிபரின் பணிப்புரையின் பேரில், குற்றப் புலனாய்வு திணைக்களம் நீதிமன்றத்தில் இன்று (28) கருத்துக்களை அறிக்கையிட்டதன் பின்னர் இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+ஈஸ்டர் தாக்குதல் சம்பவம் தொடர்பில் குற்றப்புலனாய்வு திணைக்களத்திடம் வழங்கிய வாக்குமூலம் தொடர்பிலேயே இவ்வறிவித்தல் மைத்திரிக்கு வழங்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/1abb1061.json)
+
+---
+
+### Did the Keheliya Cabinet overthrow the cabinet?What was revealed in court
 
 *2024-03-28 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195047) · `si`
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් සිද්ධියට අදාළව හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 9දෙනා අප්‍රේල් මස 8 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාරගත කිරීමට මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය අද (28) නියෝග කළේය.
+Keheliya Rambukwella and nine suspects were remanded until April 8. The Deputy Solicitor General accused the Cabinet of misleading. The case involved questionable drug purchases. Investigations revealed 317 drugs were already supplied, contradicting claims of shortages. The court requested lists of patients and medicines from hospitals, post-mortem examinations, and a report from the Ministry of Health.
 
-මෙහීදී කරුණු දක්වමින් රජයේ නියෝජ්‍ය සොලිසිටර් ජනරාල්වරිය ප්‍රකාශ කළේ ඖෂධ රට තුළ අවශ්‍ය ප්‍රමාණයට පැවතියද තුන්වන ලැයිස්තුවක් ඉදිරිපත් කරමින් කෙහෙළිය රඹුක්වැල්ල අමාත්‍යවරයා ඖෂධ හිඟයක් ඇතැයි කැබිනට් මණ්ඩලය නොමඟ යවා ඇති බවයි.
+🟩
 
-ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධියට අදාළ නඩුව අද යළි මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය හමුවේ විභාගයට ගැනුණි.
+Former Health Minister Keheliya Rambukwella and the nine suspects were remanded until April 8 today (28).
 
-මෙම නඩුවට අදාළව මේ වනවිට රක්ෂිත බන්ධානාගාර ගත කර සිටින හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 9දෙනාද එම අවස්ථාවේදි අධිකරණයට ඉදිරිපත් කෙරුණි.
+The Deputy Selicitor General of the government stated that the Cabinet has misled the Cabinet that Minister Keheliya Rambukwella has been misled by Minister Keheliya Rambukwella.
 
-නඩුව ආරම්භයේදි, මෙතෙක් සිදුකරන ලද විමර්ශනවල ප්‍රගතිය හා සාක්ෂි සම්පිණ්ඩන වාර්තාව රජයේ නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණි ගිරිහාගම මෙනෙවිය විවෘත අධිකරණය හමුවේ ඉදිරිපත් කළාය.
+The case was taken up again in the Maligakkanda Magistrate's Court today to the purchase of quality.
+
+The former Health Minister Keheliya Rambukwella and the 9 suspects were produced before the court.
+
+At the beginning of the case, the report of the Government Solicitor General Lakhaji Girihagama presented the report of the progress and testimony of investigations.
+
+"Lord, three lists have been filed in court regarding the purchase of these questionable drugs.. The first is 182 drugs, but the second is on 285 drugs, on a list of 317 drugs.. Investigations on lists and two includes report to court. The investigation report on the list of 317 with 317 is:
 
 ...
 
 [Data](articles/4ff61000.json)
+
+[Extended Data](ext_articles/4ff61000.ext.json)
 
 ---
 
@@ -65,6 +101,8 @@ Shakib, who had been suffering from an eye problem and initially opted out of th
 ...
 
 [Data](articles/30eeb3c8.json)
+
+[Extended Data](ext_articles/30eeb3c8.ext.json)
 
 ---
 
@@ -2261,51 +2299,5 @@ The police headquarters said he would be suspended on the basis of the facts tha
 [Data](articles/9919d918.json)
 
 [Extended Data](ext_articles/9919d918.ext.json)
-
----
-
-### Gnanasara Thera sentenced to 4 years in prison for defaming Islam
-
-*2024-03-28 10:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/GnanasaraThera-sentenced-to-4-years-in-prison-for-defaming-Islam/155-279767) · `en`
-
-Colombo, March 28 (Daily Mirror) - Bodu Bala Sena (BBS) General Secretary Ven. Galaboda Atte Gnanasara Thera was today sentenced to four-year-rigorous imprisonment for making a hate speech against the Islamic religion on Kuragala Temple.
-
-Colombo High Court Judge Adithya Patabendige further ordered Gnanasara Thera to pay a fine of Rs.100,000 for making hate speech on Kuragala Temple during a press conference held in Colombo.
-
-The Attorney General had filed indictment against Gnanasara Thera for making a deliberate and malicious statement between November 1, 2016 and December 16, 2016 at Kirulapone, which intended to outrage Islamic religious feelings, by insulting Islamic religious beliefs.
-
-◼️
-
-[Data](articles/05253f9d.json)
-
-[Extended Data](ext_articles/05253f9d.ext.json)
-
----
-
-### Coconne seizure of US $ 11 crore 30 lakhs in Colombia
-
-*2024-03-28 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/179873) · `ta`
-
-Colombian forces, with US assistance, seized 4 tons of cocaine valued at $11 crore 30 lakhs in the Mediterranean Sea, the largest haul in the Caribbean this year. The operation involved chasing a high-speed boat near San Andres Isla, resulting in the arrest of three Colombian, one Honduran, and one Venezuelan citizen.
-
-🟩
-
-The military has seized a 4 -ton -weighing cocaine drug, chasing a high -speed boat in the Mediterranean Sea in Colombia.
-
-This is the largest Cocaine Drug captured in the Caribbean this year. Its value is $ 11 crore 30 lakhs.
-
-The Colombian Navy, the Colombian Navy, the Colombian Air Force, and the Joint Intermediate Task Force of the United States, have seized the narcotics of a hook that was abducted in a boat near San Andres Isla.
-
-A video of the Colombian soldiers chased at another boat at lightning and captured the boat and seized the drug.
-
-Three Colombian citizens, Honduras citizen and Venezuelan citizen have been arrested in the incident.
-
-It is noteworthy that 60 percent of the world's cocaine drug is produced in Colombia.
-
-◼️
-
-[Data](articles/a2814c76.json)
-
-[Extended Data](ext_articles/a2814c76.ext.json)
 
 ---

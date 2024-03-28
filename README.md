@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 05:17:51**
+As of **2024-03-28 05:37:50**
 
 ## Newspaper Stats
 
-*Scraped **15,612** Articles*
+*Scraped **15,613** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 141
 bbccomsinhala | 166
 dbsjeyarajcom | 193
 newsfirstlk | 363
-dailyftlk | 846
+dailyftlk | 847
 economynextcom | 849
 islandlk | 854
 adalk | 1,333
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,605 (100.0%) of 15,612 articles have been extended.
+15,612 (100.0%) of 15,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### SLPP members barred from expressing personal views on Presidential candidacy
+
+*2024-03-28 05:08:40* · [`dailyftlk`](https://www.ft.lk/news/SLPP-members-barred-from-expressing-personal-views-on-Presidential-candidacy/56-760072) · `en`
+
+SLPP General Secretary  Sagara Kariyawasam reveals party leader Mahinda Rajapaksa has directed members to not express personal views until a formal decision is reached
+
+SLPP MP Namal Rajapaksa is appointed as party National Organiser ahead of polls
+
+Sri Lanka Podujana Peramuna (SLPP) General Secretary Sagara Kariyawasam yesterday disclosed that party members have been directed by party leader Mahinda Rajapaksa to abstain from expressing their personal opinions regarding the party’s presidential candidacy and potential candidates.
+
+“He explicitly requested that party members refrain from publicly expressing their personal opinions on the Presidential candidacy until the party’s  executive council and politburo convene and reach a formal decision,” he said.
+
+Kariyawasam disclosed this while responding to questions from the media regarding the party’s presidential candidacy subsequent to a SLPP executive committee meeting held at the party headquarters yesterday.
+
+...
+
+[Data](articles/a211e507.json)
+
+---
 
 ### EC questioned on Sagala’s dual role as Govt. employee and UNP organiser
 
@@ -47,6 +67,8 @@ Notably Ratnayake was observed delivering a speech at the inaugural UNP rally in
 ...
 
 [Data](articles/c4cd070b.json)
+
+[Extended Data](ext_articles/c4cd070b.ext.json)
 
 ---
 
@@ -68,6 +90,8 @@ Sheikh Afeefuddin Al-Jailani continues his good work in propagating inter and in
 
 [Data](articles/927d55b4.json)
 
+[Extended Data](ext_articles/927d55b4.ext.json)
+
 ---
 
 ### Daughter of former Health Minister files HRCSL complaint over arrest
@@ -86,6 +110,8 @@ She remarked that typically, suspects are arrested only after investigations are
 
 [Data](articles/2f433eac.json)
 
+[Extended Data](ext_articles/2f433eac.ext.json)
+
 ---
 
 ### UK Trade Partnership Program promotes organic standards in Sri Lanka
@@ -100,6 +126,8 @@ In this context the ‘Sensitisation training on organic standards for private s
 
 [Data](articles/e5b19870.json)
 
+[Extended Data](ext_articles/e5b19870.ext.json)
+
 ---
 
 ### Enjoy the full bouquet of Dialog Television channels this Avurudu Season and win a family holiday getaway
@@ -113,6 +141,8 @@ Enjoy quality time with the family by activating the full bouquet of Dialog Tele
 ...
 
 [Data](articles/ce95b800.json)
+
+[Extended Data](ext_articles/ce95b800.ext.json)
 
 ---
 
@@ -132,6 +162,8 @@ The conference aims to facilitate agreements among member countries on various a
 
 [Data](articles/88c26fcc.json)
 
+[Extended Data](ext_articles/88c26fcc.ext.json)
+
 ---
 
 ### 90th CIMA President, AICPA Co-Chair Sarah Ghosh shares vision for sustainable future
@@ -145,6 +177,8 @@ For me, it is all about having meaningful conversations. As I have travelled to 
 ...
 
 [Data](articles/d39cd8be.json)
+
+[Extended Data](ext_articles/d39cd8be.ext.json)
 
 ---
 
@@ -2209,25 +2243,5 @@ The people of Mullaitivu Keppapilavu handed over a Mahajar to the Mullaitivu Dis
 [Data](articles/ce766b11.json)
 
 [Extended Data](ext_articles/ce766b11.ext.json)
-
----
-
-### Another case against Ranjan's verdict on June 12
-
-*2024-03-27 15:24:52* · [`adalk`](https://www.ada.lk/breaking_news/රන්ජන්ට-එරෙහි-තවත්-නඩුවක-තීන්දුව-ජුනි-12දා/11-408829) · `si`
-
-Ranjan's verdict on June 12 adjourned in Kandy Magistrate's Court, linked to Anuradhapura Additional Magistrate case.
-
-🟩
-
-The verdict in the Kandy Magistrate's Court has been adjourned at June 12.
-
-It was stated that the verdict was pronounced due to the case in the case of the Anuradhapura Additional Magistrate (01).
-
-◼️
-
-[Data](articles/d1ce549a.json)
-
-[Extended Data](ext_articles/d1ce549a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 21:03:58**
+As of **2024-03-28 21:18:08**
 
 ## Newspaper Stats
 
-*Scraped **15,782** Articles*
+*Scraped **15,783** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,56 @@ adalk | 1,339
 tamilmirrorlk | 1,893
 adaderanalk | 1,894
 virakesarilk | 2,232
-dailymirrorlk | 2,435
+dailymirrorlk | 2,436
 adaderanasinhalalk | 2,538
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,781 (100.0%) of 15,782 articles have been extended.
+15,782 (100.0%) of 15,783 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### සංවර්ධන ලොතරැයි මණ්ඩලයෙන් වාර්තාගත ලාභයක්
+### Development Lottery Board recorded recorded profit
 
 *2024-03-28 20:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195049) · `si`
 
-සංවර්ධන ලොතරැයි මණ්ඩලය විසින් ජනාධිපති අරමුදලට ලබාදුන් දායකත්වය පෙර වසරට සාපේක්ෂව 13%ක ප්‍රතිශතයකින් ඉහළ දමමින් රු. 3,622,506,725/-ක අගයක් සහිතව බිලියන 03ක ඉලක්කය ඉක්මවා ඇති බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+The Development Lotteries Board's profit increased by 13%, with the government's contribution rising by 6%, marking the highest profit in 40 years.
 
-ඒ සමඟම රජයට පිරිනැමෙන දායකත්වය 6%කින් ඉහළ දමමින් රු. 5,193,833,721 අගයක් බවට පත්ව ඇත.
+🟩
 
-ඒ අනුව සංවර්ධන ලොතරැයි මණ්ඩලය සිය වසර 40ක ඉතිහාසයේ වාර්තා කර ඇති වැඩිම ලාභය මෙයයි.
+The contribution made by the Development Lotteries Board has increased by 13% over the previous year by Rs.. The Presidential Media Unit said that the target of 3,622,506,725 /725 / 0725 / -, the Presidential Media Unit said.
+
+At the same time, the government's contribution increased by 6% by Rs. 5,193,833,721 has become a value.
+
+This is the highest profit of the development Lotteries Board in 40 years.
 
 ◼️
 
 [Data](articles/fde41b52.json)
+
+[Extended Data](ext_articles/fde41b52.ext.json)
+
+---
+
+### Maithripala noticed to appear before Court on April 4
+
+*2024-03-28 20:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maithripala-noticed-to-appear-before-Court-on-April-4/108-279789) · `en`
+
+Colombo, March 28 (Daily Mirror) - The Maligakanda Magistrate's Court issued a notice directing former President Maithripala Sirisena to appear before Court and provide a statement regarding his recent controversial revelation regarding the Easter Sunday attacks.
+
+The Court issued a notice directing the former President to appear before Court on April 4 following a request made by the Criminal Investigations Department (CID).
+
+The CID filed a facts report before the Maligakanda Magistrate's Court regarding the statement the former President had made recently.
+
+Minister of Public Security Tiran Alas had instructed the Inspector General of Police to conduct a comprehensive investigation into the statement made by former President Maithripala  Sirisena in Kandy that he knew the people involved in the Easter Sunday bomb attacks on 21 April 2019.
+
+◼️
+
+[Data](articles/978fd156.json)
 
 ---
 
@@ -52,7 +76,9 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-03-28 20:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98271/heavy-traffic-on-high-level-road-due-to-fallen-tree-branch) · `en`
 
-A broken branch of the Bo tree at Wattegedara in Maharagama has reportedly fallen on the road causing traffic congestion on the High-Level Road.
+A broken branch of the ‘Bo’ tree at Wattegedara in Maharagama has reportedly fallen on the road causing traffic congestion on the High-Level Road.
+
+Motorists are advised to use alternate routes as severe traffic congestion is reported in the area.
 
 ◼️
 
@@ -2273,31 +2299,5 @@ The complaint alleges that the purchase of these Treasury Bills, conducted with 
 [Data](articles/c9b539cf.json)
 
 [Extended Data](ext_articles/c9b539cf.ext.json)
-
----
-
-### Mcdonald's is not a company under our umbrella; Abbans
-
-*2024-03-28 10:53:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/McDonald-s-எமது-குடையின்-கீழுள்ள-நிறுவனமல்ல-அபான்ஸ்/175-335296) · `ta`
-
-Abbans PLC clarified that McDonald's local rights are now with Limited Lower, not under Abbans, as per the 2007 Companies Act. Taste Bestonji, owning 98.73% of Abbans shares, is the managing director. International Restaurant Systems (Pvt) Limited is not a subsidiary of Abbans PLC. This information is shared for goodwill under Article 8 of the Colombo Stock Exchange Rules.
-
-🟩
-
-The local company of the US fast food company, McDonald, is no longer under his umbrella, the Apans private company said today.
-
-The Apans PLC, who reported to the Colombo Stock Exchange (CSE) today, points out that McDonald's local rights are in the Limited Lower, which is attached to the 2007 Companies Act of 2007.
-
-Taste Bestonji, who owns 98.73% of the company's shares, is also the managing director of Abans PLC.
-
-“International Restaurant Systems (Pvt) Limited, Apans PLC or its Thai company, Abons Reedayl Holdings (Private) Limited, is not a subsidiary or co -company. Because of the stated, the Funds of International Restaurant Systems (Pvt) Limited were not integrated with the funds of Abbans PLC, ”Abbns made it clear.
-
-The ABANS PLC has announced that this information is provided for the purposes of goodwill based on Article 8 of the Colombo Stock Exchange Rules.
-
-◼️
-
-[Data](articles/209efcee.json)
-
-[Extended Data](ext_articles/209efcee.ext.json)
 
 ---

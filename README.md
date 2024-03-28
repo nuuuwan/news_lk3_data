@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 07:32:42**
+As of **2024-03-28 07:53:49**
 
 ## Newspaper Stats
 
-*Scraped **15,633** Articles*
+*Scraped **15,635** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 141
 bbccomsinhala | 166
-dbsjeyarajcom | 193
+dbsjeyarajcom | 194
 newsfirstlk | 363
 dailyftlk | 847
 economynextcom | 849
@@ -20,31 +20,59 @@ adaderanalk | 1,871
 tamilmirrorlk | 1,875
 virakesarilk | 2,213
 dailymirrorlk | 2,409
-adaderanasinhalalk | 2,506
+adaderanasinhalalk | 2,507
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,628 (100.0%) of 15,633 articles have been extended.
+15,633 (100.0%) of 15,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### සමාජ මාධ්‍ය යෙදවුම් හරහා පුද්ගල තොරතුරු ලබාගැනීමේ සිද්ධි ඉහළට
+### ළමා අසභ්‍ය වීඩියෝ සහ නිරුවත් ඡායාරූප පැමිණිලි භාරගැනීමට නව ක්‍රමවේදයක්
+
+*2024-03-28 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195015) · `si`
+
+ළමුන්ගේ අසභ්‍ය වීඩියෝ සහ නිරුවත් ඡායාරූප අන්තර්ජාලයට එක් කිරීම සම්බන්ධ පැමිණිලි භාරගැනීම සඳහා නව ක්‍රමවේදයක් හඳුන්වාදීමට කටයුතු කරන බව ජාතික ළමා ආරක්ෂක අධිකාරිය පවසයි.
+
+එහි සභාපති ජ්‍යෙෂ්ඨ කථිකාචාර්ය උදය කුමාර අමරසිංහ මහතා සඳහන් කළේ, ජාතික ළමා ආරක්ෂක අධිකාරියේ වෙබ් අඩවිය හරහා අදාළ පැමිණිලි සිදුකිරීමට අද දිනයේ සිට අවස්ථාව හිමිවනු ඇති බවය.
+
+මෙම ක්‍රමවේදය හරහා ලැබෙන පැමිණිලි සෘජුවම එංගලන්තයේ  “ඉන්ටනැෂනල් වොච් ෆවුන්ඩේෂන් නමැති ආයතනය වෙත වාර්තා කිරීම සිදු වෙයි.
+
+අනතුරුව එම ආයතනය මගින් අදාළ අසභ්‍ය වීඩියෝ සහ නිරුවත් ඡායාරූප ඉවත් කිරීමට කටයුතු කරනු ඇති බව ජාතික ළමා ආරක්ෂක අධිකාරිය සඳහන් කළේය.
+
+එමෙන්ම පැමිණිලි පිළිබඳ විමර්ශනය සිදුකර ඊට සම්බන්ධ පාර්ශ්වයන් කවුරුන්ද යන්න සොයා බලා නීතිමය ක්‍රියාමාර්ග ගැනීම ද අන්තර්ජාතික පොලීසිය හරහා සිදුකිරීමට නියමිතය.
+
+පසුගිය කාලය තුළ ද ළමුන්ගේ අසභ්‍ය වීඩියෝ දර්ශන සහ නිරුවත් ඡායාරූප අන්තර්ජාලය වෙත මුදාහැරීම් සම්බන්ධයෙන් පැමිණිලි බොහෝ සංඛ්‍යාවත් ලැබී ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/ebb3e291.json)
+
+---
+
+### Events to obtain personal information through social media inputs
 
 *2024-03-28 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195014) · `si`
 
-උත්සව සමය තුළ ප්‍රසිද්ධ සමාගම්වල සන්නාම භාවිත කරමින් සමාජ මාධ්‍ය යෙදවුම් හරහා පුද්ගලයන්ගේ තොරතුරු ලබාගැනීමේ සිදුවීම් ඉහළ ගොස් ඇති බව ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදය පවසයි.
+The Sri Lanka Computer Emergency Response Team reports a rise in personal information theft via social media during the festive season, with over 200 complaints in January and February. Engineers Charulek and Charuka Dhammapapa highlight the use of SMS scams claiming free gifts as a method.
 
-එහි ජ්‍යෙෂ්ඨ තොරතුරු ආරක්ෂණ ඉංජිනේරු චාරුක ධම්මපොල මහතා සඳහන් කළේ නොමිලේ ත්‍යාග හිමිවන බවට පවසමින් ජංගම දුරකථනවලට කෙටි පණිවුඩ යොමුකරමින් අදාළ දත්ත ලබාගැනීම සිදුවන බවය.
+🟩
 
-මේ වසරේ ජනවාරි සහ පෙබරවාරි මාසවල පමණක් ඒ සම්බන්ධ පැමිණිලි 200කට අධික සංඛ්‍යාවක් ලැබී ඇති බව ජ්‍යෙෂ්ඨ තොරතුරු ආරක්ෂණ ඉංජිනේරු චාරුක ධම්මපොල මහතා පැවසීය.
+The Sri Lanka Computer Emergency Response Team says that incidents of persons have increased through social media inputs in the festive season.
+
+Senior Information Security Engineers Charulek Dhammapapa said that the data will be obtained from SMS on mobile phones, claiming to be paid free gifts.
+
+Senior Information Security Engineers Charuka Dhammapapa said that over 200 complaints have been received in January and February this year alone.
 
 ◼️
 
 [Data](articles/939ac51c.json)
+
+[Extended Data](ext_articles/939ac51c.ext.json)
 
 ---
 
@@ -66,33 +94,45 @@ However, as reported by the Daily Mirror, the President affirmed to the Cabinet 
 
 ---
 
-### කතුරකින් ඇන පුද්ගලයෙකු ඝාතනය කරයි
+### A person who states is murdered
 
 *2024-03-28 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195013) · `si`
 
-කතුරකින් පහරදී පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියක් ග්‍රෑන්ඩ්පාස් ප්‍රදේශයෙන් වාර්තා විය.
+A person was murdered in the Grandpass area.
+
+🟩
+
+The Grandpass was reported from the Grandpass area to attack and kill a person.
 
 ◼️
 
 [Data](articles/997f6de6.json)
 
+[Extended Data](ext_articles/997f6de6.ext.json)
+
 ---
 
-### අද 2න් පසු තද වැසි
+### Heavy rains after today
 
 *2024-03-28 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195011) · `si`
 
-අද (28) දිනයේ බස්නාහිර, දකුණ, සබරගමුව, මධ්‍යම, ඌව සහ වයඹ පළාත්වල සවස 2න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains and thundershowers expected in Western, Southern, Sabaragamuwa, Central, Uva, and Northwestern provinces. High winds and lightning risks.
 
-බස්නාහිර, දකුණ සහ සබරගමුව පළාත්වල ඇතැම් ස්ථානවලට මි. මී. 75 ට වැඩි තරමක තද වැසි ද ඇතිවිය හැකිය.
+🟩
 
-මධ්‍යම, සබරගමුව, ඌව සහ බස්නාහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+Showers or thundershowers will develop at several places in the Western, Southern, Sabaragamuwa, Central, Uva and Northwestern provinces.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් කාරුණිකව ඉල්ලීමක් ද කරයි.
+Some places in the Western, Southern and Sabaragamuwa provinces. Mee. Heavy rains can also occur in more than 75.
+
+In some places in the Galle, Sabaragamuwa, Uva and Western provinces, are expected to be methaved in the Galle and Matara districts.
+
+The public is kindly requested to take steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/e730c844.json)
+
+[Extended Data](ext_articles/e730c844.ext.json)
 
 ---
 
@@ -400,19 +440,27 @@ He came to Sri Lanka for a vacation in December 2004 and stayed at a tourist hot
 
 ---
 
-### மிகப் பெரிய மகப்பேற்று வைத்தியசாலை
+### Rocket
 
 *2024-03-28 03:02:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிகப்-பெரிய-மகப்பேற்று-வைத்தியசாலை/175-335289) · `ta`
 
-:கல்வி மற்றும் சுகாதாரத் துறைகளை எதிர்காலத்திற்கு ஏற்ற வகையில் நவீனமயப்படுத்தாமல் நாட்டின் எதிர்காலம் குறித்து நம்பிக்கை வைக்க முடியாது எனவும் மூன்றரை தசாப்தங்களுக்கு மேலாக கல்வி மற்றும் சுகாதாரத்திற்காக போதிய மூலதனச் செலவுகள் வழங்கப்படவில்லை என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe emphasized the importance of modernizing education and health, highlighting insufficient investments for over 35 years. He spoke at the inauguration of a new women's hospital in Galle Karapitiya, funded by the German government with 25 million euros, showcasing advanced medical facilities.
 
-தெற்காசிய வலயத்தின் மிகப் பெரிய மகப்பேற்று வைத்தியசாலையாகக் கருதப்படும் காலி கராபிட்டியவில் நிர்மாணிக்கப்பட்ட  ஜேர்மன் – இலங்கை நட்புறவு புதிய பெண்கள் வைத்தியசாலையை மக்களின் பாவனைக்காக நேற்று திறந்துவைத்து உரையாற்றும்போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-ஆறு மாடிகளைக் கொண்ட இந்த வைத்தியசாலை 640 படுக்கைகள், 6 அறுவை சிகிச்சை நிலையங்கள், அவசர சிகிச்சை பிரிவுகள், தீவிர சிகிச்சை பிரிவுகள், ஆய்வகங்கள், சிசு தீவிர சிகிச்சை பிரிவுகள், விசேட குழந்தை பிரிவுகள் உள்ளிட்ட அனைத்து நவீன மருத்துவ வசதிகளையும் கொண்டுள்ளன. கழிவுநீரைச் சுத்திகரித்து வெளியேற்றும் பிரிவும் இங்கு அமைக்கப்பட்டுள்ளது.
+President Ranil Wickremesinghe said that the future of the country cannot be rely on the future of the country without modernizing the future of education and health and that there have been insufficient capital expenses for education and health for more than three and a half decades.
+
+The President said this while addressing the inauguration of the German -Sri Lankan friendly new women's hospital in Galle Karapitiya, which is considered to be the largest maternity hospital in the South Asian Zone yesterday.
+
+The six -storey hospital has all the modern medical facilities including 640 beds, 6 surgery stations, emergency care units, intensive care units, laboratory, infant intensive care units, special child departments, special child units.. The sewage sector is also set up here.
+
+The German government provided 25 million euros (about Rs 357 crore) to build the hospital. One part of the hospital expenses is donated and the other is a lighter loan.
 
 ...
 
 [Data](articles/8ea4edb6.json)
+
+[Extended Data](ext_articles/8ea4edb6.ext.json)
 
 ---
 
@@ -1576,6 +1624,22 @@ Meanwhile. Investigations related to the two large houses owned by the suspect i
 
 ---
 
+### How FSP Leader Kumar Gunaratnam Fought the Indian Army in 1989 as the Trincomalee  JVP Commander “Gemunu”
+
+*2024-03-27 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83808) · `en`
+
+The Janatha Vimukthi Peramuna (Peoples  Liberation Front) led Jathika Jana Balawegaya ( National People’s Power is a left-leaning, working class-oriented broad front consisting of the JVP and 27 other organisations. These entities comprise small parties, trade unions, rights groups, Women,  student and youth organisations.
+
+The JVP is the pivotal, pre-eminent force in the NPP. The JVP as well as the NPP are led by Anura Kumara Dissanayake MP. A.K. Dissanayake is perceived as a front runner in the forthcoming Presidential race.
+
+AK Dissanayake contested the 2019 Presidential elections and finished a poor third with 418,553 votes (3.16%). At the 2020 Parliamentary polls, the JVP-led NPP contesting under the compass symbol got only three MPs comprising two elected and one appointed from the national list .
+
+...
+
+[Data](articles/93836f95.json)
+
+---
+
 ### Berlin in Germany - Zurich bus accident
 
 *2024-03-27 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/179843) · `ta`
@@ -2119,47 +2183,5 @@ Police said the traffic congestion had occurred in one lane.
 [Data](articles/ac0797b1.json)
 
 [Extended Data](ext_articles/ac0797b1.ext.json)
-
----
-
-### STF nab international drug trafficker hiding in Nuwara Eliya
-
-*2024-03-27 16:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98241/stf-nab-international-drug-trafficker-hiding-in-nuwara-eliya) · `en`
-
-The Police Special Task Force (STF) has arrested a suspected international drug trafficker in Nuwara Eliya, police said.
-
-The arrested suspect has been identified as Kahanavitage Don Nandasena.
-
-He had reportedly been arrested while in hiding in the Nuwara Eliya area with his mistress.
-
-The accused is believed to have been in hiding in India for a while before returning back to the island.
-
-It is also suspected that the 09 kilograms of ‘ice’ (crystal methamphetamine) recently taken into custody by the STF had been trafficked into the country by the same suspect.
-
-◼️
-
-[Data](articles/5fb7a976.json)
-
-[Extended Data](ext_articles/5fb7a976.ext.json)
-
----
-
-### Sri Lankan Prime Minister calls on Chinese President Xi Jinping
-
-*2024-03-27 16:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98240/sri-lankan-prime-minister-calls-on-chinese-president-xi-jinping) · `en`
-
-Sri Lankan Prime Minister Dinesh Gunawardena, who is on a state visit to China, called on President Xi Jinping on Wednesday (March 27).
-
-During the discussion, which took place at the Great Hall of the People in Beijing, the two leaders have agreed to continue to act under the friendship, peace, mutual respect and fivefold principle in international affairs that do not interfere in the internal affairs of a country.
-
-It was emphasized that bilateral relations should be based on mutual respect and mutual productivity between the countries, and acting according to that policy would set a good example for both countries.
-
-Assuring continuous support of China to Sri Lanka’s efforts for political and socioeconomic progress, President Xi further asserted that China would always stand for safeguarding the independence, territorial integrity and sovereignty of Sri Lanka.
-
-...
-
-[Data](articles/c013bfdc.json)
-
-[Extended Data](ext_articles/c013bfdc.ext.json)
 
 ---

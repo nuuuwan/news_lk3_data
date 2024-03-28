@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 20:36:09**
+As of **2024-03-28 20:51:30**
 
 ## Newspaper Stats
 
-*Scraped **15,779** Articles*
+*Scraped **15,781** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 867
 islandlk | 868
 adalk | 1,339
 tamilmirrorlk | 1,893
-adaderanalk | 1,893
-virakesarilk | 2,231
+adaderanalk | 1,894
+virakesarilk | 2,232
 dailymirrorlk | 2,435
 adaderanasinhalalk | 2,537
 
@@ -26,37 +26,85 @@ adaderanasinhalalk | 2,537
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,777 (100.0%) of 15,779 articles have been extended.
+15,779 (100.0%) of 15,781 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### මහරගම බෝ ගසේ අත්තක් කඩා වැටෙයි
+### Heavy traffic on High-Level Road due to fallen tree branch
+
+*2024-03-28 20:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98271/heavy-traffic-on-high-level-road-due-to-fallen-tree-branch) · `en`
+
+A broken branch of the Bo tree at Wattegedara in Maharagama has reportedly fallen on the road causing traffic congestion on the High-Level Road.
+
+◼️
+
+[Data](articles/613342ba.json)
+
+---
+
+### At a branch in Maharagama collapses
 
 *2024-03-28 20:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195048) · `si`
 
-මහරගම බෝ ගසේ අත්තක් කඩාවැටීම හේතුවෙන් මෙලෙස එම රථවාහන තදබදය ඇතිවී ඇත.
+A branch in Maharagama collapsed, causing traffic congestion.
+
+🟩
+
+The traffic congestion has occurred due to the collapse of a branch in the Maharagama.
 
 ◼️
 
 [Data](articles/0068fc2a.json)
 
+[Extended Data](ext_articles/0068fc2a.ext.json)
+
 ---
 
-### மைத்திரிக்கு நீதிமன்றம் அதிரடி உத்தரவு
+### Court order for Maithri
 
 *2024-03-28 20:05:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரிக்கு-நீதிமன்றம்-அதிரடி-உத்தரவு/175-335316) · `ta`
 
-எதிர்வரும் ஏப்ரல் மாதம் 4 ஆம் திகதி நீதிமன்றத்தில் வாக்குமூலம் வழங்குமாறு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவிற்கு மாளிகாகந்த நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+Maithripala Sirisena ordered to make a statement on April 4 regarding the Easter attack incident, following a directive from the Attorney General.
 
-சட்டமா அதிபரின் பணிப்புரையின் பேரில், குற்றப் புலனாய்வு திணைக்களம் நீதிமன்றத்தில் இன்று (28) கருத்துக்களை அறிக்கையிட்டதன் பின்னர் இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+🟩
 
-ஈஸ்டர் தாக்குதல் சம்பவம் தொடர்பில் குற்றப்புலனாய்வு திணைக்களத்திடம் வழங்கிய வாக்குமூலம் தொடர்பிலேயே இவ்வறிவித்தல் மைத்திரிக்கு வழங்கப்பட்டுள்ளது. R
+Former President Maithripala Sirisena has been ordered to make a statement to the court on April 4.
+
+The order was issued after the Criminal Investigation Department (CID) issued a statement today (28) on the directive of the Attorney General.
+
+The announcement was made to the Maithri in connection with the Criminal Investigation Department regarding the Easter attack incident.. Remble
 
 ◼️
 
 [Data](articles/1abb1061.json)
+
+[Extended Data](ext_articles/1abb1061.ext.json)
+
+---
+
+### 19 வயதின் கீழ் ஆஸி. அணியை 7 ஓட்டங்களால் 19 வயதின் கீழ் இலங்கை அணி வெற்றிகொண்டது
+
+*2024-03-28 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179934) · `ta`
+
+ஹம்பாந்தோட்டை மஹிந்த ராஜபக்ஷ சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் வியாழக்கிழமை (28) நடைபெற்ற 19 வயதுக்குட்பட்ட மகளிர் ரி20 மும்முனை தொடரின் ஆரம்பப் போட்டியில் அவுஸ்திரேலியாவை 7 ஓட்டங்களால் வரவேற்பு நாடான இலங்கை வெற்றிகொண்டது.
+
+இந்தப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த இலங்கை யுவதிகள் அணி 20 ஓவர்களில் 6 விக்கெட்களை இழந்து 117 ஓட்டங்களைப் பெற்றது.
+
+19 வயதுக்குட்பட்ட மகளிர் ரி20 கிரிக்கெட் போட்டி ஒன்றில் 117 ஓட்டங்கள் என்பது சிறந்த ஒரு மொத்த எண்ணிக்கையாகும்.
+
+தெவ்மி விஜேரத்னவும் சஞ்சனா காவிந்தியும் நிதானத்துடன் துடுப்பெடுத்தாடி ஆரம்ப விக்கெட்டில் 23 ஓட்டங்களைப் பகிர்ந்தனர்.
+
+அடுத்து களம் நுழைந்த நெத்மி பூர்ணா 2 ஓட்டங்களை மட்டும் பெற்றபோதிலும் 2ஆவது விக்கெட்டில் சஞ்சனாவுடன் 20 ஓட்டங்களைப் பகிர்ந்தார்.
+
+திறமையாகத் துடுப்பெடுத்தாடிய சஞ்சனா 4 பவுண்டறிகள், ஒரு சிக்ஸுடன் 28 ஓட்டங்களைப் பெற்றார்.
+
+அடுத்து ஜோடி சேர்ந்த அணித் தலைவி மானுதி நாணயக்காரவும் ரஷ்மி நேத்ராஞ்சலியும் 4ஆவது விக்கெட்டில் 32 ஓட்டங்களைப் பகிர்ந்தனர். இது இலங்கை அணியில் சிறந்த இணைப்பாட்டமாக இருந்தது.
+
+...
+
+[Data](articles/97ce4054.json)
 
 ---
 
@@ -2247,57 +2295,5 @@ The ABANS PLC has announced that this information is provided for the purposes o
 [Data](articles/f12f304d.json)
 
 [Extended Data](ext_articles/f12f304d.ext.json)
-
----
-
-### This is the right time for 19,620 Sri Lankans to return to the country
-
-*2024-03-28 10:52:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/19-620-இலங்கையர்கள்-நாடு-திரும்ப-இதுதான்-சரியான-நேரம்/175-335295) · `ta`
-
-The Ministry of Home Affairs in Sri Lanka has declared a 3-month amnesty period from March 17 to June 17, allowing 19,620 Sri Lankans illegally in Kuwait to return without fines.
-
-🟩
-
-The Ministry of Home Affairs has issued a public amnesty period for those who are illegally staying in Kuwait.
-
-The amnesty period is expected to be in effect for 3 months from March 17 to June 17.
-
-The embassy said that 19,620 Sri Lankans are currently staying illegally without a valid visa in Kuwait.
-
-If one leaves the country during this period, he will be allowed to leave the country without being fined and is allowed to re -enter Kuwait.
-
-The Sri Lankan Foreign Employment Bureau has requested the public to announce it if this opportunity is a great opportunity for people who are illegally staying in Kuwait, and if they are illegally staying in Kuwait.. Remble
-
-◼️
-
-[Data](articles/471d3423.json)
-
-[Extended Data](ext_articles/471d3423.ext.json)
-
----
-
-### Decision to interfere with police officer in favor of the underworld
-
-*2024-03-28 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179874) · `ta`
-
-A police officer suspected of receiving bribes from the underworld, Alto Dharma, has been suspended. The Inspector General of Police recommended suspension, which was forwarded to the National Police Commission. The Police Special Bureau is investigating the allegations, including an audio recording. The police headquarters confirmed the suspension based on the revealed facts.
-
-🟩
-
-Steps have been taken to suspend the police station officer who allegedly received money from the underworld of the underworld, Alto Dharma.
-
-A letter recommended on the suspension has been forwarded to the National Police Commission with the signature of the Inspector General of Police Deshabandu Thenkon.
-
-The Police Special Bureau is investigating the allegations leveled against the police station officer.
-
-An investigation has been carried out on an audio of the police officer in charge of allegedly acting in favor of the underworld.
-
-The police headquarters said he would be suspended on the basis of the facts that were revealed.
-
-◼️
-
-[Data](articles/9919d918.json)
-
-[Extended Data](ext_articles/9919d918.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 10:33:56**
+As of **2024-03-28 10:52:00**
 
 ## Newspaper Stats
 
-*Scraped **15,659** Articles*
+*Scraped **15,663** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ dailyftlk | 847
 economynextcom | 849
 islandlk | 867
 adalk | 1,334
-adaderanalk | 1,876
-tamilmirrorlk | 1,878
+adaderanalk | 1,877
+tamilmirrorlk | 1,880
 virakesarilk | 2,214
 dailymirrorlk | 2,416
-adaderanasinhalalk | 2,512
+adaderanasinhalalk | 2,513
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,658 (100.0%) of 15,659 articles have been extended.
+15,659 (100.0%) of 15,663 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### Gnanasara Thero sentenced to 4 years RI
+
+*2024-03-28 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98255/gnanasara-thero-sentenced-to-4-years-ri) · `en`
+
+Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thera has been sentenced to four years of rigorous imprisonment for making defamatory comments against Islam.
+
+◼️
+
+[Data](articles/7d233ef9.json)
+
+---
+
+### புத்தாண்டை முன்னிட்டு மதுபான விலைகள் குறைப்பு?
+
+*2024-03-28 10:35:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டை-முன்னிட்டு-மதுபான-விலைகள்-குறைப்பு/175-335294) · `ta`
+
+எதிர்வரும் சிங்கள மற்றும் தமிழ் புத்தாண்டை முன்னிட்டு மதுபானங்களின் விலைகள் குறைக்கப்படும் என தற்போது பரவலாகப் பரவி வரும் வதந்திகளில் எந்த உண்மையும் இல்லை என கலால் திணைக்களம் இன்று தெரிவித்துள்ளது.
+
+மதுபானங்களின் விலையை குறைக்கும் நோக்கில் மதுபானங்களுக்கு விதிக்கப்பட்டுள்ள அதிகபட்ச மதுபான விலைகள் குறைக்கப்படும் என ஊடகங்களில் தற்போது செய்திகள் வெளியாகி வருவதாக கலால் திணைக்கள பேச்சாளர் சன்ன வீரக்கொடி தெரிவித்துள்ளார்.
+
+மதுபானங்கள் மீதான கலால் வரியை திருத்தியமைக்க கலால் திணைக்களம் அதன் தகுதியான அதிகாரமான நிதியமைச்சகத்திடம் இருந்து எந்த உத்தரவும் அல்லது அறிவுறுத்தலும் பெறவில்லை, எனவே மதுபானங்களின் விலை குறைக்கப்படாது என்றார்.
+
+எனவே மதுபானங்களின் விலை குறைப்பு குறித்த செய்திகள் பொய்யானதும், அடிப்படை ஆதாரமற்றதுமாகும் என அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/4fc2a9f5.json)
+
+---
+
+### ඥානසාර හිමියන්ට වසර 4ක බරපතළ වැඩසහිත සිරදඬුවමක්
+
+*2024-03-28 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195022) · `si`
+
+ගලබොඩ අත්තේ ඥානසාර හිමියන්ට කොළඹ මහාධිකරණ විනිසුරු ආදිත්‍ය පටබැඳිගේ මහතා විසින් වසර 4ක බරපතළ වැඩසහිත සිරදඬුවම් සහ රුපියල් ලක්ෂයක දඩයක් නියම කළේය.
+
+ඒ ඥානසාර හිමිට එරෙහිව නීතිපතිවරයා විසින් පනවා තිබූ නඩුවක අධි චෝදනා දෙකටම වරදකරු කරමිනි.
+
+2016 වසරේ කොළඹදී පැවැති ප්‍රසිද්ධ මාධ්‍ය හමුවකදී කූරගල විහාරස්ථානය සම්බන්ධයෙන් සිදුකළ ප්‍රකාශය මගින් ජාතික හා ආගමික සංහිඳියාවට හානියක් සිදුකිරීම සම්බන්ධයෙන් මෙම නඩුව පැවැත්වුණි.
+
+◼️
+
+[Data](articles/c762983f.json)
+
+---
 
 ### Sri Lankan soldier among latest victims in Ukraine-Russia conflict: Report
 
@@ -129,6 +175,28 @@ Meanwhile, Chinese Prime Minister Lee Kiang has assured Prime Minister Dinesh Gu
 [Data](articles/774419c9.json)
 
 [Extended Data](ext_articles/774419c9.ext.json)
+
+---
+
+### தனி நபரின் மாதாந்த வாழ்க்கை செலவு தொடர்பில் வெளியான தகவல்
+
+*2024-03-28 09:35:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனி-நபரின்-மாதாந்த-வாழ்க்கை-செலவு-தொடர்பில்-வெளியான-தகவல்/175-335293) · `ta`
+
+தனிநபர் ஒருவரின் மாதாந்த செலவு அதிகரித்துள்ளதாக மக்கள் தொகை கணக்கெடுப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் தெரிவித்துள்ளது.
+
+இவ்வருடம் ஜனவரி மாதத்தில் ஒருவருக்கு தமது அடிப்படைத் தேவைகளைப் பூர்த்தி செய்வதற்குத் தேவையான குறைந்தபட்ச மாதாந்தச் செலவு சராசரியாக 17,014 ரூபாயாக அதிகரித்துள்ளதாக திணைக்களம் சுட்டிக்காட்டியுள்ளது.
+
+ஒரு நபரின் அடிப்படைத் தேவைகளைப் பூர்த்தி செய்வதற்காக மாவட்ட மட்டத்தில் மாதாந்தச் செலவு கணக்கிடப்பட்டுள்ளதாகவும், கொழும்பு மாவட்டத்தில் வாழும் மக்களே அதிக செலவினங்களைச் சுமக்க வேண்டியுள்ளதாகவும் குறிப்பிடப்பட்டுள்ளது.
+
+இதன்படி, கொழும்பு மாவட்டத்தில் தனிநபர் மாதாந்தச் செலவு 18,350 ரூபாயாகவும், கம்பஹா மாவட்டத்தில் 18,256 ரூபாயாகவும், நுவரெலியா மாவட்டத்தில் 17,892 ரூபாயாகவும் உள்ளது.
+
+சனத்தொகை மற்றும் புள்ளிவிவரத் திணைக்களத்தின் அறிக்கையின்படி, மொனராகலை மாவட்டத்திலிருந்து மிகக் குறைந்த தனிநபர் செலவீனம் பதிவாகியுள்ளதுடன் அது 16,268 ஆகும்.
+
+உத்தியோகபூர்வ வறுமைக் கோடு தேசிய நுகர்வோர் விலைக் குறியீட்டின்படி தேசிய மற்றும் மாவட்ட அளவில் விலை மாற்றங்களைக் கணக்கில் கொண்டு சரிசெய்யப்படுகிறது.
+
+◼️
+
+[Data](articles/4b5b607f.json)
 
 ---
 
@@ -2149,81 +2217,5 @@ Meanwhile. Investigations related to the two large houses owned by the suspect i
 [Data](articles/8ff388c2.json)
 
 [Extended Data](ext_articles/8ff388c2.ext.json)
-
----
-
-### How FSP Leader Kumar Gunaratnam Fought the Indian Army in 1989 as the Trincomalee  JVP Commander “Gemunu”
-
-*2024-03-27 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83808) · `en`
-
-The Janatha Vimukthi Peramuna (Peoples  Liberation Front) led Jathika Jana Balawegaya ( National People’s Power is a left-leaning, working class-oriented broad front consisting of the JVP and 27 other organisations. These entities comprise small parties, trade unions, rights groups, Women,  student and youth organisations.
-
-The JVP is the pivotal, pre-eminent force in the NPP. The JVP as well as the NPP are led by Anura Kumara Dissanayake MP. A.K. Dissanayake is perceived as a front runner in the forthcoming Presidential race.
-
-AK Dissanayake contested the 2019 Presidential elections and finished a poor third with 418,553 votes (3.16%). At the 2020 Parliamentary polls, the JVP-led NPP contesting under the compass symbol got only three MPs comprising two elected and one appointed from the national list .
-
-...
-
-[Data](articles/93836f95.json)
-
-[Extended Data](ext_articles/93836f95.ext.json)
-
----
-
-### Berlin in Germany - Zurich bus accident
-
-*2024-03-27 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/179843) · `ta`
-
-A bus accident on the route from Berlin, Germany to Zurich, Switzerland, resulted in at least five deaths and numerous injuries. The bus, operated by Flixbus, carried 53 passengers and two drivers. The cause of the accident is still under investigation.
-
-🟩
-
-At least five people were killed in a bus accident in Germany today, and many people were injured, police said.
-
-The bus was heading from Berlin, Germany to Zurich, Switzerland, Flixbus said.
-
-The company said in a statement that there were 53 passengers and two drivers on the bus and the cause of the accident was unknown.
-
-◼️
-
-[Data](articles/0663b544.json)
-
-[Extended Data](ext_articles/0663b544.ext.json)
-
----
-
-### School athletics champions Tarushi, Himansi meet Education Minister
-
-*2024-03-27 18:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/School-athletics-champions-Tarushi-Himansi-meet-Education-Minister/110-279731) · `en`
-
-Tarushi Abhishekah and Himansi Dulanjana Pradipani, students who broke the previous records in the 800m and 1,500m events in the under-16 athletics category, met Education Minister Susil Premajayantha today.
-
-The Skills College of Technology (SCOT) agreed to take the responsibility and financial support of providing the necessary training, nutritional needs, medical facilities as well as international competition opportunities for these students. SCOT presenting the relevant promisory certificates to the Minister.
-
-◼️
-
-[Data](articles/39b456df.json)
-
-[Extended Data](ext_articles/39b456df.ext.json)
-
----
-
-### Kasun Rajitha ruled out of second Bangladesh Test
-
-*2024-03-27 18:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Kasun-Rajitha-ruled-out-of-second-Bangladesh-Test/108-279730) · `en`
-
-Sri Lanka suffered an injury setback ahead of the second Test against Bangladesh, starting on Saturday, with fast bowler Kasun Rajitha ruled out with an upper back injury.
-
-Rajitha took eight wickets in Sri Lanka's emphatic 328-run win in the first Test, including a 5 for 56 in Bangladesh's second innings.
-
-Replacing Rajitha in the squad is Asitha Fernando, though Sri Lanka are yet to decide the final composition of their team.
-
-Rajitha will return to Sri Lanka to start rehabilitation work, Sri Lanka Cricket said.
-
-◼️
-
-[Data](articles/cd0f9e9a.json)
-
-[Extended Data](ext_articles/cd0f9e9a.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 09:03:16**
+As of **2024-03-28 09:17:59**
 
 ## Newspaper Stats
 
-*Scraped **15,648** Articles*
+*Scraped **15,650** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 141
+colombotelegraphcom | 142
 bbccomsinhala | 166
 dbsjeyarajcom | 194
 newsfirstlk | 363
@@ -17,7 +17,7 @@ economynextcom | 849
 islandlk | 867
 adalk | 1,334
 adaderanalk | 1,875
-tamilmirrorlk | 1,876
+tamilmirrorlk | 1,877
 virakesarilk | 2,213
 dailymirrorlk | 2,413
 adaderanasinhalalk | 2,510
@@ -26,33 +26,57 @@ adaderanasinhalalk | 2,510
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,643 (100.0%) of 15,648 articles have been extended.
+15,648 (100.0%) of 15,650 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### එක් පුද්ගලයෙකුගේ මාසික වියදම හෙළිවෙයි
+### 2 மணிக்குப் பின் காலநிலையில் மாற்றம்
+
+*2024-03-28 08:48:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-மணிக்குப்-பின்-காலநிலையில்-மாற்றம்/175-335291) · `ta`
+
+மேல், தென், சப்ரகமுவ, மத்திய, ஊவா மற்றும் வடமேல் மாகாணங்களில் இன்று (28) பிற்பகல் 2.00 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மேற்கு, தெற்கு மற்றும் சப்ரகமுவ மாகாணங்களில் சில இடங்களில் 75 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழை பெய்யக்கூடும் எனவும் தெரிவித்துள்ளது.
+
+மத்திய, சப்ரகமுவ, ஊவா மற்றும் மேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை எதிர்பார்க்கப்படுகிறது.
+
+இடியுடன் கூடிய மழையுடன், தற்காலிக பலத்த காற்று மற்றும் மின்னலினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை எடுக்குமாறும் வளிமண்டலவியல் திணைக்களம், பொது மக்களிடம் கோரியுள்ளது. R
+
+◼️
+
+[Data](articles/3ed0813b.json)
+
+---
+
+### One person's monthly cost revealed
 
 *2024-03-28 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195018) · `si`
 
-නිල දරිද්‍රතා රේඛාව අනුව එක් පුද්ගලයෙකුගේ මාසික වියදම ඉහළ ගොස් ඇති බව ජනලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුව පවසයි.
+The Department of Census and Statistics reports a monthly expenditure increase for individuals, with the lowest recorded at Rs. 16,524 in December. The Colombo district has the highest cost of living, with per capita expenditure at Rs. 18,256, while Nuwara Eliya is at Rs. 17,256. Moneragala has the lowest at Rs. 16,268. These figures adjust the official poverty line considering national and district changes.
 
-එම දෙපාර්තමේන්තුව පෙන්වා දෙන්නේ මේ වසරේ ජනවාරි මාසය තුළ එක් පුද්ගලයෙකුට සිය මූලික අවශ්‍යතා සපුරාලීම සඳහා මසකට අවශ්‍ය අවම වියදම සාමාන්‍යයෙන් රුපියල් 17,014ක් ලෙස ඉහළ ගොස් ඇති බවය.
+🟩
 
-පසුගිය වසරේ දෙසැම්බර් මාසයේදී එහි අගය 16,524ක් ලෙස සටහන්වී තිබුණි.
+According to the official poverty, the monthly expenditure of one person has increased, the Department of Census and Statistics.
 
-එක් පුද්ගලයෙකුට තම මූලික අවශ්‍යතා සපුරාගැනීම සඳහා මසකට වැය වන මුදල දිස්ත්‍රික් මට්ටමින් ගණන් බලා ඇති අතර වැඩිම වියදමක් දැරීමට සිදුව ඇත්තේ කොළඹ දිස්ත්‍රික්කය තුළ ජීවත් වන පුද්ගලයින්ට බවද එහි සඳහන් ය.
+The department points out that the minimum expenditure per month has increased by Rs.
 
-ඒ අනුව කොළඹ දිස්ත්‍රික්කයේ ඒක පුද්ගල මාසික වියදම රුපියල් 18,350ක් වන අතර ගම්පහ දිස්ත්‍රික්කයේ 18,256ක්, නුවරඑළිය දිස්ත්‍රික්කයේ 17,892ක් ලෙස සටහන්වී තිබේ.
+In December last year, its value was recorded as 16,524.
 
-අවම ඒක පුද්ගල වියදම මොනරාගල දිස්ත්‍රික්කයෙන් වාර්තා වන අතර එය 16,268ක් බව ජනලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුව පවසයි.
+It is estimated that one person is estimated at the district level and the highest cost of living in the Colombo district.
 
-නිල දරිද්‍රතා රේඛාව ජාතික පාරිභෝගික මිල දර්ශකයට අනුව ජාතික හා දිස්ත්‍රික් මට්ටම්වල මිල වෙනස්වීම් සැලකිල්ලට ගනිමින් සකස් කරනු ලබයි.
+Accordingly, the per capita expenditure of the Colombo District is Rs. 18,256 and 17,256 in the Nuwara Eliya district.
+
+The minimum per capita expenditure is reported from the Moneragala district, which is 16,268, says the Department of Census and Statistics.
+
+The official poverty line is adjusted to the National Institute of Consumer Price Index considering the national and district level changes.
 
 ◼️
 
 [Data](articles/95d582e1.json)
+
+[Extended Data](ext_articles/95d582e1.ext.json)
 
 ---
 
@@ -75,6 +99,8 @@ At a press conference on Wednesday, Maryland State Police identified Alejandro H
 ...
 
 [Data](articles/7deac523.json)
+
+[Extended Data](ext_articles/7deac523.ext.json)
 
 ---
 
@@ -118,31 +144,43 @@ The Sri Lankan Prime Minister had called on President Xi Jinping on Wednesday (M
 
 ---
 
-### ජනාධිපති අපේක්ෂකත්වය පාඨලී ප්‍රතික්ෂේප නොකරයි
+### Patali does not deny the presidential candidate
 
 *2024-03-28 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195017) · `si`
 
-ඉදිරියේදී නිර්මාණය කරනු ලබන නව සන්ධානය යටතේ ජනාධිපති මැතිවරණයේ අපේක්ෂකත්වය තමන්ට ලබාදුනහොත් එය ප්‍රතික්ෂේප නොකරන බව පාර්ලිමේන්තු මන්ත්‍රී පාඨලි චම්පික රණවක මහතා පවසයි.
+Champika Ranawaka, a parliamentarian, indicates that if a presidential candidate is presented by the UPFA, it won't be rejected. He also mentions the formation of a new alliance with political parties is in progress.
 
-ඔහු පවසන්නේ රට ගොඩනැගීමේ අරමුණින් දේශපාලන පක්ෂ සමග නව සන්ධානයක් ගොඩනැගීමේ කටයුතු මේ වනවිට සිදුකෙරෙමින් පවතින බවය.
+🟩
+
+Parliamentarian Champika Ranawaka says that if the presidential election candidate is given under the upcoming UPFA, it will not be rejected.
+
+He says that the construction of a new alliance with political parties is currently underway.
 
 ◼️
 
 [Data](articles/dad41f12.json)
 
+[Extended Data](ext_articles/dad41f12.ext.json)
+
 ---
 
-### චීනයෙන් ශ්‍රී ලංකාවට පොරොන්දුවක්
+### China promises to Sri Lanka
 
 *2024-03-28 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195016) · `si`
 
-ශ්‍රී ලංකාවේ ආර්ථික ස්ථාවරත්වය ශක්තිමත් කිරීමට සහ ණය තිරසාරභාවය යථා තත්ත්වයට පත් කිරීමට චීනය ජාත්‍යන්තර මූල්‍ය අරමුදල සමග ධනාත්මක මැදිහත්වීම් දිගටම කරගෙන යන බව පවසා ඇත.
+China pledges continued support to Sri Lanka's economy, aiming to restore debt sustainability, with President Xi Jinping discussing bilateral relations with Prime Minister Dinesh Gunawardena.
 
-ඔහු වැඩිදුරටත් සඳහන් කළේ, ජනාධිපති ෂී ජින්පින් සහ අගමැති දිනේෂ් ගුණවර්ධන අතර බෙයිජිං නුවර පැවති ද්විපාර්ශ්වික සාකච්ඡාවලදී චීන ජනාධිපති ෂී ජින්පින් මහතා ඒ බව පවසා ඇති බවය.
+🟩
+
+China has said that China continues to continue positive intervention with the International Monetary Fund to strengthen the economic stability of Sri Lanka and restore the debt sustainability.
+
+He further stated that Chinese President Xi Ginepin had said that the President was among the bilateral discussions held between President Xi Ginking and Prime Minister Dinesh Gunawardena.
 
 ◼️
 
 [Data](articles/9a772110.json)
+
+[Extended Data](ext_articles/9a772110.ext.json)
 
 ---
 
@@ -685,6 +723,18 @@ The seven-month-long streak in the continuous growth in the credit offered to th
 [Data](articles/b918cfba.json)
 
 [Extended Data](ext_articles/b918cfba.ext.json)
+
+---
+
+### What Is Wrong With Sri Lanka?
+
+*2024-03-28 02:56:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/what-is-wrong-with-sri-lanka/) · `en`
+
+It is not the country per se, but the politicians and the people who are wrong. While politicians should take 70 percent responsibility, the people also should take the rest or 30 percent. It is true that these wrongs on the part of the politicians or the people are not limited to Sri Lanka. Even in a country like Australia where I now live, there are intermittent corruption, crime, gender abuse, killing, and misguided politics. However, the difference is extremely vast. Sri Lanka’s wrongs are perhaps 50 times higher than a country like Australia.
+
+...
+
+[Data](articles/ba6e2d34.json)
 
 ---
 
@@ -1362,21 +1412,27 @@ We have made a number of important recommendations for the educational policy of
 
 ---
 
-### ලංකාවේ සහායට චිනය ඉන්නා බව චීන ජනපති කියයි
+### Chinese President says Sri Lanka's support is China
 
 *2024-03-27 21:40:05* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සහායට-චිනය-ඉන්නා-බව-චීන-ජනපති-කියයි/11-408837) · `si`
 
-චීන ජනාධිපති ෂී ජින්පින් මහතා හා ශ්‍රී ලංකා අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා අතර හමුවක් අද (2024.03.27) බෙයිජිං හි ග්‍රේට් හෝල්හි දී පැවැත්විණි.
+Chinese President Xi Jinping and Sri Lanka's Prime Minister Dinesh Gunawardena met in Beijing, emphasizing mutual respect and support for Sri Lanka's development. Xi assured continued support for Sri Lanka's political, social, and economic progress, defending its independence and sovereignty.
 
-ජාත්‍යන්තර කටයුතුවලදී රටක අභ්‍යන්තර කටයුතුවලට ඇඟිලි නොගසන මිත්‍රත්වය, සාමය, අන්‍යෝන්‍ය ගෞරවය සහ පස්විධ ප්‍රතිපත්ති යටතේ ඉදිරියටත් ක්‍රියාකිරීමට දෙරටම එකඟවිය. ද්විපාර්ශික සබඳතා, රටවල් අතර අන්‍යෝන්‍ය ගෞරවය සහ අන්‍යෝන්‍ය ඵලදායීත්වය මත පැවැත්විය යුතු බව අවධාරණය කරමින් එම ප්‍රතිපත්තිය අනුව ක්‍රියා කිරීම  දෙරටටම හොඳ ආදර්ශයක් සපයන බව මෙහිදී අවධාරණය කෙරිණි.
+🟩
 
-ශ්‍රී ලංකාවේ සංවර්ධනයට අවශ්‍ය යෝජනා ක්‍රම ඉදිරිපත් කළ වහාම ඊට චීනයේ සහයෝගය ලබාදෙන බවද චීන ජනාධිපතිවරයා මෙහිදී සහතික කළේය.
+President Xi Ginepin and Prime Minister Dinesh Gunawardena held at Great Hall in Beijing today (2024.03.20).
 
-දේශපාලන සහ සමාජ ආර්ථික ප්‍රගතිය සඳහා ශ්‍රී ලංකාව දරණ ප්‍රයත්නයන්ට චීනයේ අඛණ්ඩ සහයෝගය ලබා දෙන බවට චීන ජනාධිපතිවරයා  සහතික විය. මෙහිදී  චීන ජනාධිපතිවරයා කියා සිටියේ ශ්‍රී ලංකාවේ ස්වාධීනත්වය, භෞමික අඛණ්ඩතාව සහ ස්වෛරී භාවය ආරක්ෂා කරගැනීම වෙනුවෙන් සැම විට ම චීනය පෙනී සිටින බව යි.
+Internationally, the internal affairs of a country in international affairs, peace, mutual respect and continued to act in the financing. It was emphasized that bilateral relations should be a good example for both of the principles to be conducted on mutual respect and mutual effectiveness.
+
+The Chinese President certified that China will be supported by the proposals for the development of Sri Lanka.
+
+The Chinese President assured China's continued support to Sri Lanka's efforts to political and social economic progress. The President of the Finance President stated that China is always standing for the defending of Sri Lanka's independence, territorial integrity and sovereignty.
 
 ...
 
 [Data](articles/a122ad52.json)
+
+[Extended Data](ext_articles/a122ad52.ext.json)
 
 ---
 
@@ -2129,55 +2185,5 @@ The Russian Human Rights Commissioner has expressed his views on this regarding 
 [Data](articles/1e79c3d3.json)
 
 [Extended Data](ext_articles/1e79c3d3.ext.json)
-
----
-
-### Sri Lanka rupee closes at 300.85/301.00 to the US dollar
-
-*2024-03-27 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-300-85-301-00-to-the-us-dollar-156322/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 300.85/301.00 to the US dollar in the spot forex market on Wednesday, stronger from 301.90/302.00 on Tuesday, dealers said, while bond yields were broadly steady.
-
-Of the liquid maturities; A bond maturing on 15.12.2026 closed at 11.32/38 percent from 11.30/40 percent on Tuesday.
-
-A bond maturing on 15.09.2027 closed at 11.95/12.00 percent from 11.90/12.05 percent.
-
-A bond maturing on 15.12.2028 closed stable at 12.10/15 percent. (Colombo/Mar27/2024)
-
-◼️
-
-[Data](articles/c8b76293.json)
-
-[Extended Data](ext_articles/c8b76293.ext.json)
-
----
-
-### Chinese promise to Dinesh from President
-
-*2024-03-27 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195003) · `si`
-
-Chinese President Xi Jinping and Prime Minister Dinesh Gunawardena met, emphasizing peace, mutual respect, and financial support for Sri Lanka's development. Xi assured ongoing support for Sri Lanka's political and socio-economic progress, defending its independence and sovereignty. The Prime Minister thanked Xi for support during economic crises and restructuring facilities, highlighting progress in various fields.
-
-🟩
-
-Chinese President Xi Ginepin and Prime Minister Dinesh Gunawardena held at Great Hall today (27).
-
-Internationally, it is agreed to act in the internal affairs of a country, peace, mutual respect, and in the financing.
-
-It was emphasized that bilateral relations should be a good example for both of the principles to be conducted on mutual respect and mutual effectiveness.
-
-The Chinese President certified that China will be supported by the proposals for the development of Sri Lanka.
-
-The Chinese President assured China's continuing support for Sri Lanka's efforts to political and socio-economic progress.
-
-The President of the Finance President stated that China is always standing for the defending of Sri Lanka's independence, territorial integrity and sovereignty.
-
-The Chinese President has thanked the Chinese President for the assistance of the Prime Minister's father's father.
-
-...
-
-[Data](articles/c271ea08.json)
-
-[Extended Data](ext_articles/c271ea08.ext.json)
 
 ---

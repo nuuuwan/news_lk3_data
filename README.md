@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 10:03:04**
+As of **2024-03-28 10:18:08**
 
 ## Newspaper Stats
 
-*Scraped **15,656** Articles*
+*Scraped **15,658** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,44 +19,68 @@ adalk | 1,334
 adaderanalk | 1,876
 tamilmirrorlk | 1,878
 virakesarilk | 2,214
-dailymirrorlk | 2,414
+dailymirrorlk | 2,416
 adaderanasinhalalk | 2,512
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,654 (100.0%) of 15,656 articles have been extended.
+15,656 (100.0%) of 15,658 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### බැල්ටිමෝ ඛේදවාචකය - සිරුරු දෙකක් ගොඩගනී
+### Sri Lankan soldier among latest victims in Ukraine-Russia conflict: Report
+
+*2024-03-28 09:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-soldier-among-latest-victims-in-Ukraine-Russia-conflict-Report/108-279765) · `en`
+
+Al Jazeera - At least five Sri Lankan have reportedly been  killed so far while fighting in the Ukraine Russia war, according to the Al Jazeera. In the latest incident, Nipuna Silva, a Sri Lankan soldier who quit his army to fight for Russia in Ukraine because of better pay, is believed to have been killed on the front line in Ukraine.
+
+The media reported that at least two Sri Lankans have been killed fighting for Russia in Ukraine, and three on the Ukrainian side. But many more are willing to join the war amid desperate economic conditions at home.
+
+Badly wounded from a Ukrainian attack on a Russian bunker in the Donetsk region, Sri Lankan fighter Senaka Bandara* tried to carry his fellow countryman, Nipuna Silva*, to safety.
+
+Senaka*, 36, was bleeding from his legs and hands. Nipuna’s condition was worse – he had sustained injuries to his chest, hands and legs, according to Senaka.
+
+...
+
+[Data](articles/07aa8aaf.json)
+
+---
+
+### Baltimo tragedy - two bodies carrying out two bodies
 
 *2024-03-28 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195020) · `si`
 
-පසුගිය අඟහරුවාදා (26) අමෙරිකාවේ බැල්ටිමෝ ප්‍රදේශයේදී ශ්‍රී ලංකාව බලා එමින් තිබූ නෞකාවක් පාලමක ගැටී සිදුවූ අනතුර හේතුවෙන් අතුරුදන්ව සිටි දෙදෙනෙක්ගේ සිරුරු සහන කණ්ඩායම් විසින් සොයාගෙන තිබේ.
+In BalTtim, Sri Lanka, a ship collision with a bridge led to the death of 8 employees, 2 rescued and hospitalized. 4 bodies identified, 2 missing.
 
-නමුත් ගඟ තුළ තවත් සිරුරු 4ක් ඇති බවට සැලකෙන අතර ඒවා ඉවත් කිරීම අපහසු කාර්යක් බව සහන කණ්ඩායම් පවසයි.
+🟩
 
-ඊට හේතුවී ඇත්තේ පාලමෙහි යකඩ සහ කොන්ක්‍රීට් ගං පතුලේ විසිරී තිබීම යි.
+Last Tuesday (26) Sri Lanka was found in BalTtim in BalTotoon, a ship in BalTotoon and a ship found in a bridge.
 
-එබැවින් අතුරුදන්ව සිටින අනෙක් අයගේ සිරුරු සොයාගැනීම කල්ගත විය හැකි බව වාර්තා වෙයි.
+However, the relief teams say they are difficult to remove more than 4 bodies in the river.
 
-නෞකාව පාලමෙහි ගැටීමත් සමගම එය ගඟට කඩා වැටුණු අතර ඒ අවස්ථාවේ පාලමේ නඩත්තු කටයුතු කරමින් සිටි සේවකයින් 8 දෙනෙක් ගඟට වැටී තිබුණි.
+The reason is that the bridge is scattered at the bottom of the bridge and concrete.
 
-ඉන් දෙදෙනෙක් බේරාගෙන රෝහල් ගත කිරීමට සහන සේවකයින් කටයුතු කළේය.
+It is reported that the disappearance of others who are missing.
 
-අතුරුදන් ව සිටි 6 දෙනාගෙන් සිව් දෙනෙකුගේ තොරතුරු මේරිලන්ඩ් ප්‍රාන්ත බලධාරීන් විසින් හෙළිදරව් කර ඇත.
+When the ship clashed in the bridge, it fell into the river and 8 employees in the river.
 
-මේ වන විට සිරුරු සොයාගෙන ඇත්තේ ඇලෙයැන්ද්‍රෝ හර්නැන්දස් ෆුයෙන්ටස් (35 හැවිරිදි - මෙක්සිකෝව) සහ ඩොර්ලියන් රෝනියල් (26 හැවිදිරි - ග්වාතමාලා) යන දෙදෙනාගේය.
+Two of them were relief to rescued and hospitalized.
 
-මිගුවෙල් ලුනා (එල් සැල්වදෝරය) සහ මෙනොර් සුවාසෝ (හොන්ඩුරාස්) ලෙස හඳුනාගෙන ඇත. ඔවුන් දෙදෙනා ද අතුරුදන් ය.
+Four of the six disappeared have been revealed by Maryland.
+
+The bodies have been recovered by Alaeyro Harnendus Fues (1-year-old - 35-year-old) and Durlipa Ronial (26).
+
+Miguwel Lutana (El Salvador) and Meanor Savors have been identified as Honduras. The two of them are missing.
 
 ◼️
 
 [Data](articles/386a80e5.json)
+
+[Extended Data](ext_articles/386a80e5.ext.json)
 
 ---
 
@@ -76,11 +100,13 @@ Each report received by the IWF will subsequently be manually assessed by its hi
 
 [Data](articles/f7b36152.json)
 
+[Extended Data](ext_articles/f7b36152.ext.json)
+
 ---
 
 ### China's cooperation to Sri Lanka continues - Chinese President announces Prime Minister Dinesh
 
-*2024-03-28 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179866) · `ta`
+*2024-03-28 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/179866) · `ta`
 
 Chinese President Xi Jinping and Prime Minister Dinesh Gunawardena discuss cooperation on Sri Lanka's debt restructuring and economic development. China's Exim Bank and Development Bank will support Sri Lanka.
 
@@ -157,6 +183,22 @@ It is reported that a two-year ago in his mouth was suspected to be trapped in t
 [Data](articles/f840c785.json)
 
 [Extended Data](ext_articles/f840c785.ext.json)
+
+---
+
+### General Shavendra Silva joins Sri Lankan Iftar in Kenya
+
+*2024-03-28 09:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/General-Shavendra-Silva-joins-Sri-Lankan-Iftar-in-Kenya/110-279764) · `en`
+
+Demonstrating a gesture of solidarity and inclusiveness, Sri Lankan High Commissioner to Kenya, Kana Kananathan, hosted an Iftar ceremony followed by a lavish dinner for the Sri Lankan Muslim community residing in Kenya. This auspicious event was held yesterday evening.
+
+The Iftar dinner unfolded amidst the plush ambiance of a posh restaurant nestled in Nairobi's suburban expanse, providing an elegant backdrop for the gathering.
+
+Attended by distinguished figures, including General Shavendra Silva, the Chief of Defense Staff of Sri Lanka presently on an official visit to Kenya, the occasion exemplified the significance of community engagement and cultural interchange. General Silva's presence underscored the government's commitment to embracing diversity and fortifying ties with its overseas citizens.
+
+...
+
+[Data](articles/cc6fb81f.json)
 
 ---
 
@@ -2179,39 +2221,5 @@ Rajitha will return to Sri Lanka to start rehabilitation work, Sri Lanka Cricket
 [Data](articles/cd0f9e9a.json)
 
 [Extended Data](ext_articles/cd0f9e9a.ext.json)
-
----
-
-### 4 students drowning
-
-*2024-03-27 17:50:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-மாணவர்கள்-நீரில்-மூழ்கி-பலி/175-335270) · `ta`
-
-Four students drowned in Maoya, Polgahawela.
-
-🟩
-
-Four school children drowned in Maoya from the Yangalmodara area of Polgahawela, police said.
-
-Four students from the Polgahawela area have died. The bodies of four students who died have been recovered so far
-
-◼️
-
-[Data](articles/4eb9df64.json)
-
-[Extended Data](ext_articles/4eb9df64.ext.json)
-
----
-
-### Four students drowned in Ma Oya
-
-*2024-03-27 17:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Four-students-drowned-in-Ma-Oya/108-279729) · `en`
-
-Four school students tragically drowned in the Ma Oya at the Walakumbura area in Alawwa.
-
-◼️
-
-[Data](articles/6957fc2e.json)
-
-[Extended Data](ext_articles/6957fc2e.ext.json)
 
 ---

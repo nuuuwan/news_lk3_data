@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 13:52:17**
+As of **2024-03-28 14:03:06**
 
 ## Newspaper Stats
 
-*Scraped **15,702** Articles*
+*Scraped **15,706** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,63 @@ colombotelegraphcom | 142
 bbccomsinhala | 168
 dbsjeyarajcom | 194
 newsfirstlk | 363
-dailyftlk | 847
+dailyftlk | 848
 economynextcom | 857
 islandlk | 867
-adalk | 1,335
+adalk | 1,336
 adaderanalk | 1,883
 tamilmirrorlk | 1,887
-virakesarilk | 2,221
+virakesarilk | 2,222
 dailymirrorlk | 2,421
-adaderanasinhalalk | 2,517
+adaderanasinhalalk | 2,518
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,700 (100.0%) of 15,702 articles have been extended.
+15,702 (100.0%) of 15,706 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### කබ්රාල්ට එරෙහිව අල්ලස් කොමිසමෙන් නඩු පවරයි
+
+*2024-03-28 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195027) · `si`
+
+2012 වසරේදී ග්‍රීක රජය විසින් නිකුත් කරන ලද භාණ්ඩාගාර බැඳුම්කර මිලදී ගෙන රජයට පාඩුවක් සිදුකිරීමේ චෝදනාවට හිටපු මහ බැංකු අධිපති අජිත් නිවාඩ් කබ්රාල් ඇතුළු පුද්ගලයින් පස් දෙනෙකුට එරෙහිව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව විසින් කොළඹ මහාධිකරණයේ නඩු පවරා තිබේ.
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රී සූජිව සේනසිංහ මහතා විසින් සිදුකරන ලද පැමිණිල්ලකට අදාළව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව සිදුකළ විමර්ශනවලින් අනතුරුව මෙම නඩු පැවරීම සිදුකර ඇත.
+
+ග්‍රීසිය දැඩි ආර්ථික අර්බුදයට ලක්වී සිටියදී ඒ බව දැන දැනම එරට රජය විසින් නිකුත් කරන ලද භාණ්ඩාගාර බැඳුම්කර මිලදී ගැනීමෙන් රජයට රුපියල් 1,843 267,595ක පාඩුවක් සිදුකර ඇති බවට අදාළ පැමිණිල්ලේ සඳහන් ය.
+
+එම පැමිණිල්ල සම්බන්ධයෙන් සිදුකළ විමර්ශනවලින් අනතුරුව හිටපු මහ බැංකු අධිපති අජිත් නිවාඩ් කබ්රාල් මහතා ඇතුළු පුද්ගලයින් පස් දෙනෙකුට එරෙහිව කොළඹ මහාධිකරණය හමුවේ නඩු පැවරීම සිදුකළ බව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/72041f8c.json)
+
+---
+
+### மாதமொன்றுக்கு 6 இலட்சம் கோழி முட்டைகள் உற்பத்தி : டிசம்பர் வரை விலை அதிகரிக்கப்படாது - அகில இலங்கை முட்டை உற்பத்தியாளர் சங்கம்
+
+*2024-03-28 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/179898) · `ta`
+
+நாட்டில் மாதமொன்றுக்கு 6 இலட்சம் கோழி முட்டைகள் உற்பத்தி செய்யப்பட்டு வருகின்றன. அத்தோடு, முட்டையின் விலை எதிர்வரும் டிசம்பர் மாதம் வரை அதிகரிக்கப்படமாட்டாது என அகில இலங்கை முட்டை உற்பத்தியாளர் சங்கத்தின் செயலாளர் ரத்னஸ்ரீ அழககோன் தெரிவித்துள்ளார்.
+
+அடுக்கு கோழி வளர்ப்பில் 2022இல் வீழ்ச்சி ஏற்பட்ட போதிலும் நாடு தற்போது அதிலிருந்து மீண்டு, 2023ஆம் ஆண்டின் பிற்பகுதியில் இருந்து, மாதமொன்றுக்கு 6 இலட்சம் என்றளவில் முட்டை உற்பத்தி அதிகரித்து வருகிறது.
+
+உண்மையிலேயே, முட்டையின் விலை 30 ரூபாயாக குறையும் நிலை கூட உண்டாகும். இது எமது தொழில் துறையில் பாரியதொரு வீழ்ச்சியை ஏற்படுத்தக்கூடும்.
+
+மதிய உணவுத் திட்டத்தில் முட்டையை சேர்க்க வேண்டும் என்பதோடு, முட்டைகளை ஏற்றுமதி செய்வது தொடர்பில் ஆராயும்படி அரசாங்க தரப்பிடம் கோரியுள்ளோம் என்றார்.
+
+இதேவேளை, தற்போது கோழித் தீவனத்தின் விலை 180 ரூபாயாக குறைந்துள்ளது என அகில இலங்கை முட்டை உற்பத்தியாளர் சங்கத்தின் தலைவர் ஆர்.எம்.சரத் ரத்நாயக்க கூறியுள்ளார்.
+
+...
+
+[Data](articles/09583173.json)
+
+---
 
 ### Nearly 100 people still missing after Moscow attack, Russian news site says
 
@@ -48,29 +86,37 @@ Russian investigators said the attack was carried out by four shooters using Kal
 
 [Data](articles/eef1e0c1.json)
 
+[Extended Data](ext_articles/eef1e0c1.ext.json)
+
 ---
 
-### නිවසකට පැන එල්ල කළ ප්‍රහාරයේදී T56 පත්තු නොවෙයි
+### T56 is not light in the attack, arising at home
 
 *2024-03-28 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195026) · `si`
 
-මහබාගේ මත්තුමගල ප්‍රදේශයේදී පුද්ගලයෙකු වෙඩි තබා ඝාතනය කිරීමට ගත් උත්සාහයක් ව්‍යාර්ථ වී තිබේ.
+In Mahabage, a man was shot dead by a T-56 rifle, but the shooter's magazine fell, leading to a struggle. The victim was taken to Ragama Teaching Hospital.
 
-ඒ අපරාධයට පැමිණි පිරිස රැගෙන ආ ගිනි අවිය ක්‍රියාත්මක නොවීම හේතුවෙනි.
+🟩
 
-අද (28) උදෑසන 7.45ට පමණ මහබාගේ, මත්තුමගල ප්‍රදේශයේ නිවසකට යතුරුපැදියකින් පුද්ගලයන් දෙදෙනෙකු පැමිණ තිබුණි.
+An attempt to shoot a man shot dead in Mahabage's Maturagala has been futile.
 
-පොලීසිය පැවසුවේ එහිදී යතුරුපැදියේ පැමිණි අයෙක් අදාළ නිවසේ සිටි පුද්ගලයෙකුට ටී 56 වර්ගයේ ගිනි අවියකින් වෙඩි තැබීමට උත්සහා දරා ඇති බවය.
+The firearm that brought the crime was not implemented.
 
-නමුත් එම අවස්ථාවේදී ගිනි අවියේ මැගසින් කොටස අවියෙන් ගැලවී බිම වැටී තිබේ.
+Two persons were present at a motorbike to a house in Mahabage, Mahabage, around 7.45 am today.
 
-ඒ සමග නිවැසියා වෙඩික්කරු සමග පොරබදා ඇති අතර වෙඩිකරු යතුරුපැදියේ නැගී පළාගොස් තිබුණේ ඔහුගේ හෙල්මටය සහ ගිනිඅවියේ මැගසිනයද අත්හැර දමමිනි.
+The police said that a person from the motorcycl had attempted shooting from a T-56 rifle.
 
-පොරබැදීමෙන් සුළු තුවාල ලැබූ නිවැසියා ප්‍රතිකාර සඳහා රාගම ශික්ෂණ රෝහලට ඇතුළත් කර තිබේ.
+But at that time the magazine section of the firearm has escaped and fell to the ground.
+
+At the time, the householder was struggled with the shooter, and the Wedak had emerged on the motorcycle and abandoned his helmet and firearm magazine.
+
+The victim was admitted to the Ragama Teaching Hospital for treatment.
 
 ◼️
 
 [Data](articles/53caf52b.json)
+
+[Extended Data](ext_articles/53caf52b.ext.json)
 
 ---
 
@@ -200,6 +246,8 @@ Hela, an apparel manufacturer, has factories across Africa and design facilities
 
 In January the company said it acquired Focus Brands, a UK based brand licensing house, which is involved in design, sourcing, distribution and promotion of sports fashion and lifestyle apparel brands.
 
+A Hela Apparel Holdings Plc share was trading up at 6.20. (Colombo/March28/2024)
+
 ◼️
 
 [Data](articles/009ad44d.json)
@@ -289,6 +337,22 @@ Meanwhile, Monaragala District has reported the lowest minimum monthly expenditu
 [Data](articles/4cfd4f72.json)
 
 [Extended Data](ext_articles/4cfd4f72.ext.json)
+
+---
+
+### ඥාණසාර හිමිට වසර 4ක බරපතල වැඩ සහිත සිරදඬුවමක්
+
+*2024-03-28 11:32:34* · [`adalk`](https://www.ada.lk/breaking_news/ඥාණසාර-හිමිට-වසර-4ක-බරපතල-වැඩ-සහිත-සිරදඬුවමක්/11-408839) · `si`
+
+ගලබොඩඅත්තේ ඥාණසාර හිමියන්ට වසර 4ක බරපතල වැඩ සහිත සිරදඬුවමක් නියමකිරීමට කොළඹ මහාධිකරණය අද පෙරවරුවේ තීරණය කර තිබේ.
+
+2016 වසරේ කොළඹදී පැවැති ප්‍රසිද්ධ මාධ්‍ය හමුවකදී සිදුකළ ප්‍රකාශය මගින් ජාතික හා ආගමික සංහිඳියාවට හානියක් සිදුකිරීම සම්බන්ධයෙන් පැවැත්වුණු නඩු තීන්දුවකට අදාලව මෙම ඳඩුවම නිම කර තිබේ. මීට අමතරව රුපියල් ලක්ෂයක දඩයක් නියමකර ඇත.
+
+නීතිපතිවරයා විසින් පනවා තිබූ නඩුවක අධි චෝධනා දෙකටම වරදකරු කරමින් කොළඹ මහාධිකරණය විසින් මෙම නඩුතීන්දුව ලබාදී ඇත.
+
+◼️
+
+[Data](articles/c78f53aa.json)
 
 ---
 
@@ -648,9 +712,9 @@ The police headquarters said he would be suspended on the basis of the facts tha
 
 Colombo, March 28 (Daily Mirror) - Bodu Bala Sena (BBS) General Secretary Ven. Galaboda Atte Gnanasara Thera was today sentenced to four-year-rigorous imprisonment for making a hate speech against the Islamic religion on Kuragala Temple.
 
-Colombo High Court Judge Adithya Patabendige further ordered Gnanasara Thera to pay a fine of Rs.100,000.
+Colombo High Court Judge Adithya Patabendige further ordered Gnanasara Thera to pay a fine of Rs.100,000 for making hate speech on Kuragala Temple during a press conference held in Colombo.
 
-The Attorney General had filed the case against the BBS General Secretary on charges of causing religious and racial disunity in Sri Lanka over remarks made by him on Kuragala Temple during a media briefing held on 30 March 2016.
+The Attorney General had filed indictment against Gnanasara Thera for making a deliberate and malicious statement between November 1, 2016 and December 16, 2016 at Kirulapone, which intended to outrage Islamic religious feelings, by insulting Islamic religious beliefs.
 
 ◼️
 
@@ -1634,6 +1698,18 @@ The conference aims to facilitate agreements among member countries on various a
 
 ---
 
+### The 90th CIMA President, Co-Chair of the Association of International Certified Professional Accountants,Sarah Ghosh, shares vision for a sustainable future
+
+*2024-03-28 04:43:15* · [`dailyftlk`](https://www.ft.lk/opinion/The-90thCIMAPresident-Co-Chair-of-the-Association-of-International-Certified-Professional-Accountants-Sarah-Ghosh-shares-vision-for-a-sustainable-future/14-760062) · `en`
+
+For me, it is all about having meaningful conversations. As I have travelled to different regions, I have noticed disparities, but I see these as opportunities to initiate change. It is crucial to openly discuss with senior leaders how they are encouraging opportunities for women and individuals who are neurodivergent. We need to address diversity in all forms within our organisations. This involves implementing mechanisms to break down barriers and support career progression for everyone. It is also important for men to act as allies and support women throughout their careers
+
+...
+
+[Data](articles/c4666460.json)
+
+---
+
 ### 90th CIMA President, AICPA Co-Chair Sarah Ghosh shares vision for sustainable future
 
 *2024-03-28 04:43:15* · [`dailyftlk`](https://www.ft.lk/opinion/90th-CIMA-President-AICPA-Co-Chair-Sarah-Ghosh-shares-vision-for-sustainable-future/14-760062) · `en`
@@ -2199,95 +2275,5 @@ Although PA is with Ranil, the voters are not with him. Ranil Wickremesinghe is 
 [Data](articles/aa6acc7c.json)
 
 [Extended Data](ext_articles/aa6acc7c.ext.json)
-
----
-
-### Rumour on slashing liquor prices for Avurudu baseless: Excise Dept.
-
-*2024-03-27 23:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rumour-on-slashing-liquor-prices-for-Avurudu-baseless-Excise-Dept/108-279743) · `en`
-
-Colombo, March 27 (Daily Mirror) - The present widely spread rumour about slashing of liquor prices for the upcoming Sinhala and Tamil New Year has no basis in it, the Department of Excise said today.
-
-Excise Spokesperson Channa Weerakkody said news is currently circulated in the media about the excessive prices of liquor owing to the higher Excise tax imposed on them would be reduced in order to get the prices of liquor slashed.
-
-He said the Excise Department has not received any order or instruction from its competent authority the Ministry of Finance to amend the Excise tax on liquor thus the prices of liquor will not be reduced.
-
-Therefore, the news on reduction of liquor prices is false and baseless, Excise Commissioner Revenue Operations Weerakkody said.
-
-...
-
-[Data](articles/e6c3ebd7.json)
-
-[Extended Data](ext_articles/e6c3ebd7.ext.json)
-
----
-
-### Nearly 4 tons of cocaine worth over $113 million seized off Colombia
-
-*2024-03-27 23:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/98250/nearly-4-tons-of-cocaine-worth-over-113-million-seized-off-colombia) · `en`
-
-Authorities have announced the largest cocaine shipment seizure of the year in the Caribbean Sea off Colombia after military ships and planes chased down a speedboat holding almost four tons of the drug.
-
-In a joint operation between the Colombian Navy, the Colombian Air Force and the Joint Interagency Task Force of the United States Southern Command, authorities seized the cocaine — said to be worth more than $113 million — from the vessel near San Andrés Isla, according to the Colombian Navy. The navy released dramatic aerial video of the chase, during which it said the crew of the suspicious vessel “began evasive actions, throwing packages into the water.”
-
-...
-
-[Data](articles/17955f4a.json)
-
-[Extended Data](ext_articles/17955f4a.ext.json)
-
----
-
-### International drug trafficker in Nuwara Eliya
-
-*2024-03-27 23:24:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-பதுங்கிய-சர்வதேச-போதைப்பொருள்-கடத்தல்காரர்/76-335286) · `ta`
-
-An international drug trafficker, Kahanavitake Don Nandasena, was arrested in Nuwara Eliya by a Police Special Task Force. He had been hiding in India before returning to Sri Lanka. The arrest is linked to special information received by the task force.
-
-🟩
-
-A Police Special Task Force has arrested an international drug trafficker in Nuwara Eliya.
-
-The suspect has been arrested in connection with the special information received by the Special Task Force, according to information available to the police that a person suspected of being an international drug trafficker in Nuwara Eliya is lurking.
-
-The arrested suspect has been identified as Kahanavitake Don Nandasena.
-
-He was arrested while he was in hiding in Nuwara Eliya with his wife, police said.
-
-The arrested suspect has been hiding in India for a while before returning to Sri Lanka.
-
-Police suspect that he was smuggled into Sri Lanka by an ice drug weighing nine kilograms recently seized by the Special Task Force.. Remble
-
-◼️
-
-[Data](articles/ea4a5a50.json)
-
-[Extended Data](ext_articles/ea4a5a50.ext.json)
-
----
-
-### Mullaitivu District Health Services Director dies in accident
-
-*2024-03-27 23:06:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/முல்லைத்தீவு-மாவட்ட-சுகாதார-சேவைகள்-பணிப்பாளர்-விபத்தில்-மரணம்/71-335285) · `ta`
-
-Dr. Akilandran, Director of Mullaitivu District Health Services, died in an accident on the A9 road in Vavuniya, Omanthai. His vehicle crashed with a tipper vehicle, and he was admitted to Vavuniya Hospital, where he passed away without treatment.
-
-🟩
-
-The Director of the Mullaitivu District Regional Health Services Department has died in an accident this evening on the A9 road in Vavuniya, Omanthai police said.
-
-The vehicle of the Director of the Regional Health Services Department, which was traveling from Mullaitivu to Vavuniya, crashed into a tipper vehicle when he was traveling in Vavuniya, Omanthai and Kallikkulam junction.
-
-The three -wheeler, who was traveling in the same direction in front of the tipper vehicle, lost control and left the street.
-
-The vehicle he was traveling in the accident was severely damaged and he was admitted to the Vavuniya Hospital after being admitted to the Vavuniya Hospital and he died without treatment.
-
-Dr. Akilandran, a former Director of Vavuniya District General Hospital and Director of the Mullaitivu District Regional Health Services Department, died.
-
-◼️
-
-[Data](articles/dad657ab.json)
-
-[Extended Data](ext_articles/dad657ab.ext.json)
 
 ---

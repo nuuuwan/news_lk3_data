@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 00:18:08**
+As of **2024-03-29 00:33:57**
 
 ## Newspaper Stats
 
-*Scraped **15,795** Articles*
+*Scraped **15,799** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,17 +18,89 @@ islandlk | 868
 adalk | 1,339
 tamilmirrorlk | 1,895
 adaderanalk | 1,897
-virakesarilk | 2,234
-dailymirrorlk | 2,437
+virakesarilk | 2,236
+dailymirrorlk | 2,439
 adaderanasinhalalk | 2,542
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,795 (100.0%) of 15,795 articles have been extended.
+15,795 (100.0%) of 15,799 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-29 (Friday)
+
+### அஜித் நிவாட் கப்ரால் உள்ளிட்ட ஐவருக்கு எதிராக இலஞ்ச, ஊழல் விசாரணை ஆணைக்குழு வழக்குத்தாக்கல்
+
+*2024-03-29 00:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179937) · `ta`
+
+திறைசேரி உண்டியல் கொள்வனவின் ஊடாக அரசாங்கத்துக்கு 1,843.3 மில்லியன் ரூபா நட்டம் ஏற்படுத்தியமைக்காக இலங்கை மத்திய வங்கியின் முன்னாள் ஆளுநர் அஜித் நிவாட் கப்ரால் உள்ளடங்கலாக ஐவருக்கு எதிராக இலஞ்ச, ஊழல் விசாரணை ஆணைக்குழுவினால் சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+இவ்விடயம் தொடர்பில் முன்னாள் பாராளுமன்ற உறுப்பினர் சுஜீவ சேனசிங்கவினால் அளிக்கப்பட்ட முறைப்பாடு குறித்து மேற்கொள்ளப்பட்ட விசாரணைகளுக்கு அமைய தாம் இதுபற்றி கொழும்பு மேல் நீதிமன்றத்தில் வழக்குத்தாக்கல் செய்திருப்பதாக இலஞ்ச, ஊழல் விசாரணை ஆணைக்குழு தெரிவித்துள்ளது.
+
+இம்முறைப்பாடானது கடந்த 2012 ஆம் ஆண்டு கிரீஸ் பொருளாதார நெருக்கடிக்கு முகங்கொடுத்திருந்த வேளையில் அந்நாட்டு அரசாங்கத்தினால் விநியோகிக்கப்பட்ட திறைசேரி உண்டியல்களைக் கொள்வனவு செய்த சம்பவத்தை அடிப்படையாகக் கொண்டதாகும்.
+
+கிரீஸினால் விநியோகிக்கப்பட்ட திறைசேரி உண்டியல்களைக் கொள்வனவு செய்ததன் விளைவாக அரசாங்கத்துக்கு 1,843,267,595 ரூபா நட்டம் ஏற்பட்டதாக அம்முறைப்பாட்டில் சுட்டிக்காட்டப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/9794cc08.json)
+
+---
+
+### தேர்தலை தீர்மானிக்க பஷில் ராஜபக்ஷ தேர்தல் ஆணையாளரல்ல - சாமர சம்பத்
+
+*2024-03-29 00:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/179936) · `ta`
+
+பொதுஜன பெரமுனவின் ஸ்தாபகர் பஷில் ராஜபக்ஷ தேர்தல் ஆணையாளரல்ல,எந்த தேர்தலை நடத்த வேண்டும் என்று அவர் தீர்மானிக்க வேண்டிய அவசியமில்லை.அரசியலமைப்பின் பிரகாரம் ஜனாதிபதி தேர்தல் இடம்பெறும் என கைத்தொழில் இராஜாங்க அமைச்சர் சாமர சம்பத் தெரிவித்தார்.
+
+கொழும்பில் வியாழக்கிழமை (28) இடம்பெற்ற நிகழ்வில் கலந்து கொண்டதன் பின்னர் ஊடகங்களுக்குக் கருத்து தெரிவிக்கையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தலைமைத்துவத்தில் நாடு பாரிய நெருக்கடிக்கடியில் இருந்து மீண்டுள்ளது என்பதை ஏற்றுக்கொள்ள வேண்டும்.அரசாங்கத்தை தற்போது பொறுப்பேற்க தயார் என குறிப்பிடும் தரப்பினர் 2022 ஆம் ஆண்டு ஓடி ஒளிந்ததை மறந்து விடக் கூடாது.
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையிலான அரசாங்கத்தை நாங்கள் தோற்றுவிப்போம்.அவரையே ஜனாதிபதி வேட்பாளராக களமிறக்குவோம்.ஐக்கிய மக்கள் சக்தியினரும் ஜனாதிபதிக்கு ஆதரவு வழங்குவார்கள்.
+
+எந்த தேர்தலை முதலில் நடத்த வேண்டும் என்பதை தீர்மானிப்பதற்கு பஷில் ராஜபக்ஷ தேர்தல்கள் ஆணையாளரல்ல,அரசியலமைப்பின் பிரகாரம் முதலில் ஜனாதிபதி தேர்தல் நடத்தப்படும்.
+
+...
+
+[Data](articles/1b15f48e.json)
+
+---
+
+### Getting back to that peaceful Easter Sunday - EDITORIAL
+
+*2024-03-29 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Getting-back-to-that-peaceful-Easter-Sunday-EDITORIAL/172-279813) · `en`
+
+Easter Sunday is an important day in the Sri Lankan calendar as this day has become the talking point as never before due to the  2019 ‘Easter Sunday bombings’.
+
+Christians would never compare man’s sufferings with the agony Jesus went through on the cross. According to Rev. Frs. Sanjeewa Mendis and Sriyananda Fernando-who spoke on the meaning and message of Easter on ITN’s Pini Viyana programme on March 28-the message conveyed by the Son of God is to spread ‘love’ even during the toughest of times.
+
+Sri Lankan Christians also conveyed a similar and strong message when their kith and kin were brutally blown to pieces inside three churches chose to stay calm and collected as a community. They had forgiven the assailants, but demanded justice for the affected families. This calmness was preserved largely due to the instructions issued by the head of the Catholic Church, Malcolm Cardinal Ranjith.
+
+...
+
+[Data](articles/56102d10.json)
+
+---
+
+### Gaza genocide, ISIS and the tailpiece of Moscow terror
+
+*2024-03-29 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Gaza-genocide-ISIS-and-the-tailpiece-of-Moscow-terror/172-279812) · `en`
+
+An injured man is helped outside Ahli Arab Hospital in Gaza City: The United Nations says the Gaza Strip’s health system is collapsing. AFP
+
+The Moscow terror attack, conveniently claimed by the so-called Islamic State, a.k.a. ISIS, and the diplomatic circus at the United Nations Security Council on Tuesday in passing a Gaza ceasefire resolution may appear disconnected at first glance. But there is enough interconnection between the two tragedies.
+
+First, let’s discuss the ISIS connection. The Friday evening terror attack at the Crocus City Hall on the outskirts of Moscow has revealed the mercenary character of ISIS. Questions have always lingered about the Islamic credentials of ISIS since its birth from the ashes of Abu Musab al-Zarqawi’s Al-Qaeda in Iraq (AQI) in 2011.
+
+...
+
+[Data](articles/987230e0.json)
+
+---
 
 ### 2024-03-28 (Thursday)
 
@@ -2209,89 +2281,5 @@ A Hela Apparel Holdings Plc share was trading up at 6.20. (Colombo/March28/2024)
 [Data](articles/009ad44d.json)
 
 [Extended Data](ext_articles/009ad44d.ext.json)
-
----
-
-### The Japanese spacecraft awakened by the 2nd lunar night
-
-*2024-03-28 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/179891) · `ta`
-
-Japan's SLIM spacecraft, the 5th to land on the Moon, successfully completed its second lunar night on February 25, sending new pictures to Earth.
-
-🟩
-
-The spacecraft sent to the Moon, the second lunar night, has been woke up again after successfully attacking and sent new pictures to Earth.
-
-SLIM, a unmanned spacecraft sent by Japan, landed on the ground on the moon on January 19. Japan became the 5th country that made this debate.
-
-After a successful moon -day night, the spacecraft woke up on February 25 and started operating again.One night in Chandaran is the equivalent of 14 days of the earth.
-
-The Japanese Space Agency said that the second lunar night was successful and the spacecraft was awakened again on Thursday.
-
-◼️
-
-[Data](articles/1880a704.json)
-
-[Extended Data](ext_articles/1880a704.ext.json)
-
----
-
-### Bribery Commission institutes legal action against five including Cabraal
-
-*2024-03-28 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98257/bribery-commission-institutes-legal-action-against-five-including-cabraal) · `en`
-
-Legal action has been instituted against five individuals including former Governor of Central Bank of Sri Lanka (CBSL) Ajith Nivard Cabraal, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) says.
-
-Accordingly, the Bribery Commission on March 26 instituted legal action in the Colombo High Court under Case No. HCB 271/2024 after concluding its investigations into a complaint filed by former MP Sujeewa Senasinghe.
-
-The complaint had been put forward against the Central Bank’s purchase of Treasury Bills issued by the Government of Greece in 2012 when the southeastern European country was experiencing a severe financial crisis.
-
-In his complaint, Senasinghe alleged that the purchase was made despite the knowledge of the financial crisis faced by Greece, and caused a loss of more than Rs. 1.84 billion to the Government of Sri Lanka.
-
-...
-
-[Data](articles/0b4bab51.json)
-
-[Extended Data](ext_articles/0b4bab51.ext.json)
-
----
-
-### Bribery Commission files case against Cabraal over 2012 Greek T-Bills purchase
-
-*2024-03-28 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98257/bribery-commission-files-case-against-cabraal-over-2012-greek-t-bills-purchase) · `en`
-
-Legal action has been instituted against five individuals including former Governor of Central Bank of Sri Lanka (CBSL) Ajith Nivard Cabraal, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) says.
-
-Accordingly, the Bribery Commission on March 26 instituted legal action in the Colombo High Court under Case No. HCB 271/2024 after concluding its investigations into a complaint filed by former MP Sujeewa Senasinghe.
-
-The complaint had been put forward against the Central Bank’s purchase of Treasury Bills issued by the Government of Greece in 2012 when the southeastern European country was experiencing a severe financial crisis.
-
-In his complaint, Senasinghe alleged that the purchase was made despite the knowledge of the financial crisis faced by Greece, and caused a loss of more than Rs. 1.84 billion to the Government of Sri Lanka.
-
-...
-
-[Data](articles/413fee07.json)
-
-[Extended Data](ext_articles/413fee07.ext.json)
-
----
-
-### Legal action against Cabraal over 2012 Greek treasury bonds purchase
-
-*2024-03-28 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98257/legal-action-against-cabraal-over-2012-greek-treasury-bonds-purchase) · `en`
-
-Legal action has been instituted against five individuals including former Governor of Central Bank of Sri Lanka (CBSL) Ajith Nivard Cabraal, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) says.
-
-Accordingly, the Bribery Commission on March 26 instituted legal action in the Colombo High Court under Case No. HCB 271/2024 after concluding its investigations into a complaint filed by former MP Sujeewa Senasinghe.
-
-The complaint had been put forward against the Central Bank’s purchase of Treasury Bonds issued by the Government of Greece in 2012 when the southeastern European country was experiencing a severe financial crisis.
-
-In his complaint, Senasinghe alleged that the purchase was made despite the knowledge of the financial crisis faced by Greece, and caused a loss of more than Rs. 1.84 billion to the Government of Sri Lanka.
-
-...
-
-[Data](articles/824b1efc.json)
-
-[Extended Data](ext_articles/824b1efc.ext.json)
 
 ---

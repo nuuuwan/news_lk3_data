@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 14:50:59**
+As of **2024-03-28 15:04:02**
 
 ## Newspaper Stats
 
-*Scraped **15,713** Articles*
+*Scraped **15,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adaderanalk | 1,884
 tamilmirrorlk | 1,889
 virakesarilk | 2,223
 dailymirrorlk | 2,423
-adaderanasinhalalk | 2,518
+adaderanasinhalalk | 2,520
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,710 (100.0%) of 15,713 articles have been extended.
+15,713 (100.0%) of 15,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### කොළඹ ගින්නක්
+
+*2024-03-28 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195030) · `si`
+
+ග්‍රෑන්ඩ්පාස් පොලිස් වසමේ වේල්ස් කුමාර මාවතේ ටයර් කඩයක ගින්නක් හටගෙන තිබේ.
+
+ගින්න මැඩපැවැත්වීම සඳහා කොළඹ ගිනි නිවීමේ ඒකකයෙන් මේ වනවිට ගිනි නිවීමේ රථ 5ක් යොදවා ඇත.
+
+◼️
+
+[Data](articles/f6114cae.json)
+
+---
 
 ### ’Ibba’ hacked to death
 
@@ -47,6 +61,8 @@ Lunugamvehera police are conducting further investigations on the instructions o
 ◼️
 
 [Data](articles/ca2a0012.json)
+
+[Extended Data](ext_articles/ca2a0012.ext.json)
 
 ---
 
@@ -68,6 +84,8 @@ The coconut yield also increased due to the rain that followed a prolonged droug
 
 [Data](articles/e0324433.json)
 
+[Extended Data](ext_articles/e0324433.ext.json)
+
 ---
 
 ### Keheliya brought to court
@@ -88,27 +106,45 @@ Former Minister Keheliya Rambukwella, who has been interrogated, has been produc
 
 ---
 
-### சுவீடனில் குர்ஆனை எரித்தவர் நோர்வேயில் புகலிடம் கோர முயற்சி
+### කෙහෙළියව අධිකරණයට රැගෙන එයි
+
+*2024-03-28 14:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195029) · `si`
+
+රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාව අද (28) මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර තිබේ.
+
+◼️
+
+[Data](articles/84caa6fa.json)
+
+---
+
+### The man who burned the Quran in Sweden tried to demand asylum in Norway
 
 *2024-03-28 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/179895) · `ta`
 
-சுவீடனில் புனித குர்ஆனை எரித்து சர்ச்சை ஏற்படுத்திய நபர், ஈராக்குக்கு நாடு கடத்தப்படவுள்ள நிலையில் நோர்வேயில் புகலிடம் கோருவதற்கு முயற்சிக்கிறார்.
+Iraqi Salwan Momika, who burned the Quran in Sweden, sought asylum in Norway after being deported to Iraq. His residency permit was canceled in October, leading to a temporary postponement of deportation due to safety concerns. Momika's new temporary license expires on April 16, and he plans to seek asylum in Norway.
 
-ஈராக்கியரான சல்வான் மோமிகா எனும் இந்நபர், 2021 ஆம் ஆண்டில் சுவீடனில் வதிவிட உரிமை பெற்றவர்.
+🟩
 
-கடந்த பல வருடங்களில் அவர் பல தடவைகள் குர்ஆனை எரித்து சர்ச்சை ஏற்படுத்தினார்.
+A person who burned the Holy Quran in Sweden and tried to seek asylum in Norway as it was deported to Iraq.
 
-கடந்த ஒக்டோபர் மாதம் அவரின் வதிவிட அனுமதி இரத்துச் செய்யப்பட்டது. வதிவிட அனுமதி கோரிக்கைக்கான விண்ணப்பத்தில் தவறான தகவல்களை அளித்திருந்தமை இதற்கு காரணம் என சுவீடன் அதிகாரிகள் தெரிவித்திருந்தனர்.
+The Iraqi Salwan Momika, a native of 2021, was a resident of Sweden in 2021.
 
-எனினும், ஈராக்கில் தனது உயிருக்கு ஆபத்துள்ளதாக மோமிகா தெரிவித்ததையடுத்து நாடு கடத்தல் தற்காலிகமாக ஒத்திவைக்கப்பட்டது.
+In the last several years, he has caused controversy over the Quran several times.
 
-அவருக்கு வழங்கப்பட்டிருந்த புதிய தற்காலிக அனுமதிப்பத்திரம் எதிர்வரும் ஏப்ரல் 16 ஆம் திகதியுடன் காலவாதியாகிறது.
+Her residency permit was canceled last October. Sweden officials said that this was the reason for the false information in the application for the residency permit request.
 
-இந்நிலையில், தான் நோர்வேயில் புகலிடம் கோரவுள்ளதாக சுவீடன் ஊடகமொன்றுக்கு அளித்த செவ்வியில் மோமிகா தெரிவித்துள்ளார்.
+However, deportation was temporarily postponed after Momika reported that her life was in danger in Iraq.
+
+The new temporary license issued to him will be a deadline on April 16.
+
+In this case, Momika told a Swedish media that she would seek asylum in Norway.
 
 ◼️
 
 [Data](articles/609ce107.json)
+
+[Extended Data](ext_articles/609ce107.ext.json)
 
 ---
 
@@ -2237,51 +2273,5 @@ Members of Parliament who represents Tamil political parties, S. Siritharan, Sel
 [Data](articles/169b0583.json)
 
 [Extended Data](ext_articles/169b0583.ext.json)
-
----
-
-### Namal Rajapaksa appointed as the National Organizer of PA
-
-*2024-03-28 02:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179855) · `ta`
-
-Namal Rajapaksa elected as Sri Lanka PA's National Organizer.
-
-🟩
-
-Parliamentarian Namal Rajapaksa has been unanimously elected as the National Organizer of the Sri Lanka PA.
-
-Sri Lanka PA's President Mahinda Rajapaksa, National Organizer Basil Rajapaksa and General Secretary Sakara Kariyawasam, General Secretary Sakara Kariyawasam commenced on Wednesday evening at the residence of former President Mahinda Rajapaksa in Wijeera Mawatha.
-
-The May Day meeting at the Executive Council meeting is currently being discussed on the party's strengthening and the presidential election.
-
-◼️
-
-[Data](articles/034d830a.json)
-
-[Extended Data](ext_articles/034d830a.ext.json)
-
----
-
-### The workplace of the hospital doctors in Tirukovil has been abandoned after 15 days
-
-*2024-03-28 02:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/179853) · `ta`
-
-Tirukovil hospital doctors abandoned workplace after 15-day workshop. Jayakumar Vidurjan, 16, hospitalized after Marathon race. Public protested, alleging student's death. Doctors boycotted workplace. Hospital's Emergency Department resumed, other sections to return Thursday. 11 arrested for hospital damage.
-
-🟩
-
-The 15 -day workshop, which was held on Wednesday (27) in Tirukovil, has come to an end on Wednesday (27).
-
-16 -year -old Jayakumar Vidurjan from Duraiyappa Road, 3rd Duraiyappa Road, Tirukovil, who participated in the Marathon race held at the Methodist Maga Vidyalaya at the Methodist Maga Vidyalaya in Tirukovil on Monday (11).The student was admitted to the hospital after she was admitted to the hospital for further treatment.
-
-Following the incident, a public gathering in front of the hospital alleged that the student had died as a matter of concern at the Tirukovil Hospital, and several mirrors of the building broke into the hospital and broke the hospital's name board.
-
-Subsequently, the doctors of the hospital, Nintavur, Samanthurai Akkaraipattu hospital doctors on Tuesday, in support of them in support of the workplace on the 12th of last month.They engaged in a struggle boycott.
-
-...
-
-[Data](articles/a6285f52.json)
-
-[Extended Data](ext_articles/a6285f52.ext.json)
 
 ---

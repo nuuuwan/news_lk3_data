@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 16:49:38**
+As of **2024-03-28 17:03:14**
 
 ## Newspaper Stats
 
-*Scraped **15,738** Articles*
+*Scraped **15,741** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 142
 bbccomsinhala | 168
-dbsjeyarajcom | 194
+dbsjeyarajcom | 195
 newsfirstlk | 363
 dailyftlk | 848
 economynextcom | 857
@@ -18,33 +18,77 @@ islandlk | 868
 adalk | 1,339
 adaderanalk | 1,890
 tamilmirrorlk | 1,891
-virakesarilk | 2,226
+virakesarilk | 2,227
 dailymirrorlk | 2,429
-adaderanasinhalalk | 2,523
+adaderanasinhalalk | 2,524
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,734 (100.0%) of 15,738 articles have been extended.
+15,738 (100.0%) of 15,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### பாராளுமன்றம் ஏப்ரல் 01ஆம் திகதி மற்றும் 02ஆம் திகதிகளில் கூடும்
+### நன்னடத்தை பாடசாலை மேற்பார்வையாளர் பெண்ணிற்கு மீண்டும் 14 நாட்கள் விளக்கமறியல்
+
+*2024-03-28 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/179916) · `ta`
+
+நன்னடத்தை பாடசாலையில்  உயிரிழந்த சிறுவனின் மரணம் தொடர்பில் கைதான அப்பாடசாலையின் மேற்பார்வையாளரான பெண்ணை 14 நாட்கள் விளக்கமறியலில்   வைக்குமாறும் அது  தொடர்பான  வழக்கு எதிர்வரும் ஏப்ரல்   மாதம் 10 ஆம்  திகதி வரை மறு விசாரணைக்காக ஒத்தி  வைக்குமாறு கல்முனை நீதிவான் நீதிமன்று உத்தரவிட்டுள்ளது.
+
+அம்பாறை மாவட்டம்  கல்முனை தலைமையக   பொலிஸ் பிரிவிற்குட்பட்ட சிறுவர் நன்னடத்தை பாடசாலையில் தங்க வைக்கப்பட்ட நிலையில் உயிரிழந்த சிறுவனின் மரணம் தொடர்பில் அப்பாடசாலையின் மேற்பார்வையாளரான பெண்  சந்தேகத்தில் கல்முனை தலைமையக பொலிஸாரால்  கைது செய்யப்பட்ட பின்னர் புதன்கிழமை (27)   மீண்டும் கல்முனை நீதிமன்ற நீதிவான் எம்.எஸ்.எம் சம்சுதீன் முன்னிலையில் ஆஜர்படுத்தப்பட்ட போதே மேற்கண்டவாறு உத்தரவிட்டார்.
+
+குறித்த வழக்கு விசாரணைக்கு   எடுத்து கொள்ளப்பட்ட நிலையில்    பொலிஸார் மற்றும் பிரதிவாதியின் சட்டத்தரணி ஆகியோரின்   விண்ணப்பங்கள் ஆராயப்பட்டு    28 வயதுடைய  குறித்த பாடசாலையின் மேற்பார்வையாளரை  மீண்டும்  விளக்கமறியலில் வைக்குமாறு உத்தரவிடப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/54a5231c.json)
+
+---
+
+### කඩේ යනවා නම් මේක දැනගෙන යන්න
+
+*2024-03-28 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195034) · `si`
+
+වෙළෙඳසැල්වලින් භාණ්ඩ මිලදී ගැනීමේදී ලබාදෙන ෂොපින් බෑග් සඳහා මුදල් අය කිරීම තහනම් කරමින් පාරිභෝගික කටයුතු අධිකාරිය විසින් නිකුත් කර තිබෙන ගැසට් නිවේදනය ඉවත් කරගන්නා බව නීතිපතිවරයා අද (28) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දී තිබේ.
+
+අදාළ ගැසට් නිවේදනයට අභියෝගයට ලක් කරමින් පරිසර යුක්ති කේන්ද්‍රය විසින් ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සමක් අද කැඳවනු ලැබූ අවස්ථාවේදී  නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි රජයේ නියෝජ්‍ය සොලිසිටර් ජෙනරාල් අවන්ති පෙරේරා මහත්මිය විසින් මෙම දැනුම් දීම සිදුකළාය.
+
+මෙම පෙත්සම අද එස්.තුරෙයි රාජා, ඒ.එච්.එම්.ඩී. නවාස් සහ අර්ජුන ඔබේසේකර යන මහත්වරුන්ගේ සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+පරිසර යුක්ති කේන්ද්‍රය සිය පෙත්සමින් සඳහන් කර තිබුණේ භාණ්ඩ මිලදී ගැනීමේදී පාරිභෝගිකයින් සඳහා වෙළෙඳසැල්වලින් ලබාදෙන ෂොපින් බෑග් හේතුවෙන් විශාල පාරිසරික හානියක් සිදුවන බවය.
+
+එම මලු සඳහා මුදලක් අය කළහොත් ඒවා භාවිතය අධෛර්යමත් වනු ඇතැයි සඳහන් කරන පෙත්සම්කාර සංවිධානය ඒ හරහා පරිසර හානිය අවම කර ගැනීමට හැකි වනු ඇති බවත් සඳහන් කළේය.
+
+...
+
+[Data](articles/c888a2bd.json)
+
+---
+
+### Parliament will meet on April 01 and 02
 
 *2024-03-28 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179912) · `ta`
 
-பாராளுமன்றத்தை எதிர்வரும் ஏப்ரல் 01ஆம் திகதி மற்றும் 02ஆம் திகதிகளில் கூட்டுவதற்குத் தீர்மானிக்கப்பட்டிருப்பதாக பாராளுமன்ற பதில் செயலாளர் நாயகம் சமிந்த குலரத்ன தெரிவித்தார்.
+Parliament meets April 1-2. Ayurvedic Act debated April 1, followed by International Terava Institute Bill presentation. Banking Industry Amendment Bill debated April 2.
 
-சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் கடந்த மார்ச் 22 ஆம் திகதி நடைபெற்ற பாராளுமன்ற அலுவர்கள் பற்றிய குழுக் கூட்டத்தில் இத்தீர்மானம் எடுக்கப்பட்டது.
+🟩
 
-இதற்கு அமைய ஏப்ரல் 01ஆம் திகதி திங்கட்கிழமை, மு.ப 9.30 மணிக்குப் பாராளுமன்றம் கூடவிருப்பதுடன், மு.ப 9.30 மணி முதல் பி.ப 4.30 மணி வரை 2024.03.19ஆம் திகதி பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்ட ஆயுர்வேத சட்டத்தின் கீழ் ஒழுங்குவிதிகள் விவாதத்துக்கு எடுத்துக்கொள்ளப்படவுள்ளன. (இது தொடர்பான பிரேரணை 2024.04.01ஆம் திகதிய 14ஆம் இலக்க பாராளுமன்ற ஒழுங்குப் பத்திரத்தில் உள்ளடக்கப்பட்டுள்ளது). இதனைத் தொடர்ந்து பி.ப 4.30 மணிக்கு தனிநபர் சட்டமூலமான சர்வதேச தேரவாத நிறுவனம்  (கூட்டிணைத்தல்) சட்டமூலம் இரண்டாவது மதிப்பீட்டின் பின்னர் சட்டவாக்க நிலையியற் குழுவுக்கு ஆற்றுப்படுத்தப்படும்.
+Parliamentary Secretary General Saminda Kularatne said that the Parliament will be convened on April 01 and 02.
+
+The decision was taken at a meeting of Parliamentary Officers held on March 22, chaired by Speaker Mahinda Yapa Abeywardena.
+
+Accordingly, the Parliament will be held on Monday, April 01, and the regulations will be taken up for debate under the Ayurvedic Act, which was submitted to Parliament on 19.30 pm to 4.30 pm.. (The proposal is included in the Parliamentary Registry No. 14, 2024.04.04). Following this, at 4.30 pm, the International Terava Institute (Compliance) Bill will be presented to the Legal Standing Committee after the second assessment.
+
+Thereafter, the debate on the proposal will be held from 4.30 pm to 5.30 pm.
 
 ...
 
 [Data](articles/30c5f2d8.json)
+
+[Extended Data](ext_articles/30c5f2d8.ext.json)
 
 ---
 
@@ -70,23 +114,31 @@ The decline in the decline in the month of March, the non-food category inflatio
 
 ---
 
-### பெருந்தோட்ட கம்பனிகள் சமர்ப்பித்த முன்மொழிவை நிராகரித்த இ.தொ.கா தலைவர் செந்தில் தொண்டமான்!
+### CWC leader Senthil Thondaman rejected the proposal submitted by plantation companies!
 
 *2024-03-28 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/179910) · `ta`
 
-பெருந்தோட்ட தொழிலாளர்களின் சம்பள உயர்வை இலங்கை தொழிலாளர் காங்கிரஸ் வலியுறுத்திவரும் பின்புலத்தில் நேற்று புதன்கிழமை தொழிலாளர் அமைச்சின் ஊடாக பெருந்தோட்ட கம்பனிகள் சமர்ப்பித்த முன்மொழிவை கிழக்கு மாகாண ஆளுநரும் இதொகாவின்  தலைவருமான செந்தில் தொண்டமான் கடுமையாக நிராகரித்துள்ளார்.
+Senthil Thondaman, CWC leader, rejects plantation companies' proposal, emphasizing need for salary increase, not incentives. He expects fair salary hike through Salary Council. Minister Manusha Nanayakkara congratulates workers on their efforts. Government plans a 1700 rupee salary hike for plantation workers.
 
-"தொழில் அமைச்சில் இடம்பெற்ற இந்த பேச்சுவார்த்தையில் RPC நிறுவனம் முன்மொழிந்த புதிய திட்டமானது தொழிலாளர்களை விட RPC நிறுவனத்திற்கு அதிக பயன் தரும் ஊக்கத் திட்டமாக  மட்டுமே அமையும்.
+🟩
 
-தொழிலார்களுக்கு நாம் ஊக்க தொகையை கோரவில்லை மாறாக சம்பள  உயர்வையே கோரினோம்." என இதன்போது செந்தில் தொண்டமான் சுட்டிக்காட்டினார்.
+Senthil Thondaman, the governor of the Eastern Province and the President of the Eastern Province, has strongly rejected the proposal submitted by the Plantation Companies through the Ministry of Labor on Wednesday, urging the Ceylon Workers Congress to insist on the pay rise of plantation workers.
 
-அத்துடன் சம்பள நிர்ணய சபையின் ஊடாக நியாயமான சம்பள உயர்வை எதிர்பார்க்கின்றோம் என அமைச்சர்  மனுஷ நாணயக்காரவுக்கும்  செந்தில்  தொண்டமான் எடுத்துரைத்தார்.
+“In the negotiations in the Ministry of Labor, the new project proposed by RPC is only a more beneficial program for RPC than workers.
 
-இதேவேளை அமைச்சர் மனுஷ நாணயக்கார, தொழிலாளர்களுக்கு சம்பள உயர்வைப் பெற்றுத்தர  தொடர்ச்சியான முயற்சிகளுக்கு பாராட்டுகளையும் தெரிவித்தார்.
+We did not request the incentives for workers but rather salary. ”Senthil Thondaman pointed out.
 
-...
+Senthil Thondaman also said to Minister Manusha Nanayakkara, that we are expecting a fair salary increase through the Salary Council.
+
+Meanwhile, Minister Manusha Nanayakkara congratulated the workers for a series of efforts to get a pay hike.
+
+It is also worth noting that the government's decision to pay a 1700 rupee salary hike to plantation workers is taking place.
+
+◼️
 
 [Data](articles/a9d5fadb.json)
+
+[Extended Data](ext_articles/a9d5fadb.ext.json)
 
 ---
 
@@ -108,25 +160,33 @@ According to the DCS report, the year-on-year inflation of Food Group was record
 
 ---
 
-### லாவோஸில் 54 பேருக்கு அந்த்ராக்ஸ் தொற்று: தாய்லாந்திலும் எச்சரிக்கை
+### Anthrax infection for 54 people in Laos: Warning in Thailand in Thailand
 
 *2024-03-28 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179907) · `ta`
 
-லாவோஸில் 54 பேருக்கு அந்த்ராக்ஸ் தொற்று ஏற்பட்டுள்ளதால், அயல்நாடான தாய்லாந்தில் இது தொடர்பாக உயர் விழிப்பு நிலையில் இருக்குமாறு அதிகாரிகளுக்கு உத்தரவிடப்பட்டுள்ளது.
+Laos reports 54 anthrax infections, prompting Thailand to raise awareness. The disease, spreading in cattle, can be fatal. Laos has killed many cows and infected humans. The government aims to stop the spread to Thailand. Prime Minister Shreta Tawasin has ordered Thai Health Minister to monitor the situation, especially near the border. Advised not to report or touch dead animals. No human infections in Thailand since 2001.
 
-கால்நடைகளில் வேகமாக பரவக்கூடிய அந்த்ராக்ஸ் நோயானது மனிதர்களுக்கும் தொற்றக்கூடியதாகும். இதனால் சிலவேளை மரணங்களும் ஏற்படலாம்.
+🟩
 
-இந்நிலையில், லாவோஸில் இம்மாதம் அந்த்ராக்ஸினால் பல மாடுகள் உயிரிழந்ததுடன், குறைந்தபட்சம் 54 மனிதர்களுக்கும் அந்த்ராக்ஸ் தொற்று ஏற்பட்டுள்ளது.
+Officials have been ordered to remain in high awareness in neighboring Thailand, as 54 people have been infected with 54 people in Laos.
 
-இந்நோய் லாவோஸின் அயல்நாடான தாய்லாந்திலும் பரவுவதை தடுப்பதற்கான முயற்சிகளில் அந்நாட்டு அரசாங்கம் ஈடுபட்டுள்ளது.
+Antrax disease that is rapidly spreading in cattle is infectious for humans. This can sometimes cause deaths.
 
-நிலைமையை உன்னிப்பாக கண்காணிக்குமாறும், குறிப்பாக லாவோஸுடனான எல்லைப்பிரதேசங்களில் தடுப்பு நடவடிக்கைகளை அதிகரிக்குமாறும் தாய்லாந்து சுகாதார அமைச்சருக்கு பிரதமர் ஸ்ரேத்தா தவசின் பணிப்புரை விடுத்துள்ளார்.
+In Laos, many cows were killed by Antrox this month and at least 54 humans were infected.
 
-அசாதாரணமான முறையில் மாடுகள், எருமைகள் போன்ற விலங்குகள் உயிரிந்தால் அதிகாரிகளுக்கு தகவல் தெரிவிக்க வேண்டும் எனவும், இவ்வாறு இறந்த  மிருகங்களின் உடல்களை தொட வேண்டாம் என மக்களுக்கு அறிவுறுத்தல் விடுக்கப்பட்டுள்ளது.
+The government is trying to prevent the spread of the disease from the spread of Laos, Thailand.
 
-...
+Prime Minister Shreta Tawasin has issued a directive to the Thai Health Minister to monitor the situation, especially in the border areas with Laos.
+
+People have been advised not to inform the authorities in an extraordinary manner and not to touch the bodies of the dead animals.
+
+It has not been reported that humans have been infected in Thailand since 2001.
+
+◼️
 
 [Data](articles/33b963d2.json)
+
+[Extended Data](ext_articles/33b963d2.ext.json)
 
 ---
 
@@ -196,6 +256,8 @@ In its petition, the Centre for Environmental Justice had stated that the plasti
 
 [Data](articles/23dc95b0.json)
 
+[Extended Data](ext_articles/23dc95b0.ext.json)
+
 ---
 
 ### No suitable presidential candidate for SLPP now; Namal has another 5 to 10 years: Prasanna
@@ -220,9 +282,15 @@ Minister Ranatunga told reporters in Colombo that he stressed the need to go for
 
 *2024-03-28 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98265/keheliya-rambukwella-further-remanded) · `en`
 
-The nine accused including former Health Minister Keheliya Rambukwella have been further remanded until April 08 in connection with the substandard human intravenous immunoglobulin (IVIG) vials procurement scandal.
+Former Health Minister Keheliya Rambukwella has been further remanded until April 08 in connection the substandard human intravenous immunoglobulin (IVIG) vials procurement scandal.
 
-◼️
+He was produced before the Maligakanda Magistrate’s Court on Thursday afternoon (March 28).
+
+The other accused in the case are former Health Secretary Janaka Chandragupta, Additional Health Secretary Dr. Saman Ratnayake, Director of the Medical Supplies Division (MSD) Kapila Wickremenayake, Deputy Director of MSD Thusitha Sudarshana, Assistant MSD Director Devashantha Soloman, MSD Accountant (Supplies) Neran Dhananjaya, MSD Stock Controller Sujith Kumara and the owner of the company which is said to have supplied the substandard batch of IVIG vials.
+
+The Criminal Investigation Department (CID) arrested Rambukwella on 02 February over his alleged complicity in the procurement of substandard IVIG vials.
+
+...
 
 [Data](articles/a2c6155d.json)
 
@@ -301,6 +369,8 @@ The Colombo Municipal Council (CMC) fire brigade had dispatched 05 fire engines 
 Ada Derana reporter said traffic along Armour Street has been restricted to one lane towards Negombo.
 
 Meanwhile, severe traffic congestion has been reported in the area owing to this.
+
+UPDATE: Traffic movement along both directions on Sirimavo Bandaranaike Mawatha in Colombo from Armour Street has been blocked due to the fire.
 
 ◼️
 
@@ -2227,47 +2297,5 @@ Notably Ratnayake was observed delivering a speech at the inaugural UNP rally in
 [Data](articles/c4cd070b.json)
 
 [Extended Data](ext_articles/c4cd070b.ext.json)
-
----
-
-### Supreme head of Thareeqathul Qadiriya arrives in Sri Lanka
-
-*2024-03-28 05:03:18* · [`dailyftlk`](https://www.ft.lk/news/Supreme-head-of-Thareeqathul-Qadiriya-arrives-in-Sri-Lanka/56-760070) · `en`
-
-Moulana Al-Sheikh Al-Seyed Afeefuddin Al-Jailani arrived in Sri Lanka yesterday bringing blessings to his followers and the nation during this holy month of Ramadhan.
-
-Sheikh Afeefuddin Al-Jailani is the Grand Custodian / Sajda Nasheen of the Shrine of Sheikh Abdul Qader Al Jailani and the Supreme Head of the Thareeqathul Qadiriya World Sufiistic Order consisting over 100 million followers globally.
-
-He is a direct descendent of Sheikh Abdul Qadir Al-Jailani and the family of the Holy Prophet.
-
-He is an internationally recognised and highly respected scholar specialising in the fields of traditional Islamic religious and social sciences.
-
-Sheikh Afeefuddin Al-Jailani continues his good work in propagating inter and intra communal harmony, inclusiveness and tolerance within the traditional Islamic Sufi teachings, traveling across the globe in his endeavour to spread the message of peace and love, adapted and interpreted to suit the needs of this modern age.
-
-...
-
-[Data](articles/927d55b4.json)
-
-[Extended Data](ext_articles/927d55b4.ext.json)
-
----
-
-### Daughter of former Health Minister files HRCSL complaint over arrest
-
-*2024-03-28 05:00:32* · [`dailyftlk`](https://www.ft.lk/news/Daughter-of-former-Health-Minister-files-HRCSL-complaint-over-arrest/56-760069) · `en`
-
-Former Minister of Health Keheliya Rambuwella’s daughter Chamithri Rambukwella filed a complaint with the Human Rights Commission of Sri Lanka (HRCSL) yesterday, alleging that her father’s fundamental rights were violated due to his recent arrest.
-
-Rambukwella was arrested on 2 February over his alleged involvement in the importation of substandard human immunoglobulin IV vials to Sri Lanka.
-
-Addressing the media outside the HRCSL, Chamithri Rambukwella stated that the petition is being filed based on the legal principle of presumption of innocence. She said according to this principle, any individual accused of a crime is considered innocent until proven guilty. However, she noted that this has not been the case for her father.
-
-She remarked that typically, suspects are arrested only after investigations are concluded. “However, my father was arrested before the completion of an investigation, and the investigation is ongoing while he remains in remand custody,” she emphasised.
-
-...
-
-[Data](articles/2f433eac.json)
-
-[Extended Data](ext_articles/2f433eac.ext.json)
 
 ---

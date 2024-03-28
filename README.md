@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 12:33:37**
+As of **2024-03-28 12:49:16**
 
 ## Newspaper Stats
 
-*Scraped **15,692** Articles*
+*Scraped **15,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 857
 islandlk | 867
 adalk | 1,335
 adaderanalk | 1,879
-tamilmirrorlk | 1,886
+tamilmirrorlk | 1,887
 virakesarilk | 2,221
-dailymirrorlk | 2,419
+dailymirrorlk | 2,421
 adaderanasinhalalk | 2,515
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,683 (99.9%) of 15,692 articles have been extended.
+15,692 (100.0%) of 15,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### “ஜூலியனுக்கு மரண தண்டனை விதிக்க கூடாது”
+
+*2024-03-28 12:29:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜூலியனுக்கு-மரண-தண்டனை-விதிக்க-கூடாது/50-335305) · `ta`
+
+விக்கிலீக்ஸ் நிறுவனர் ஜூலியன் அசாஞ்சேவுக்கு மரண தண்டனை விதிக்கப்படாது என்று அமெரிக்க அரசு உத்தரவாதம் அளிக்குமா என பிரிட்டிஷ் உயர் நீதிமன்றம் கேள்வி எழுப்பி உள்ளது. இதுகுறித்து 3 வாரங்களுக்குள் பதில் அளிக்க நீதிபதி டேமி விக்டோரியா ஷார்ப் உத்தரவிட்டுள்ளார்.
+
+ஆஸ்திரேலியாவை சேர்ந்த செய்தியாளர் ஜுலியன் அசாஞ்சே (52) கடந்த 2006-ம் ஆண்டில் விக்கிலீக்ஸ் என்ற இணையதளத்தை தொடங்கினார். கடந்த 2010-ல் ஆப்கானிஸ்தான், ஈராக் போர் தொடர்பான ரகசிய ஆவணங்கள் இந்த இணையதளத்தில் வெளியாகின. இதில் அமெரிக்க இராணுவத்தின் பல்வேறு ரகசியங்கள் அம்பலப்படுத்தப்பட்டன.
+
+இந்த சூழலில் பாலியல் வன்கொடுமை வழக்கில் ஜூலியன் அசாஞ்சேவை கைது செய்ய கடந்த 2010-ம் ஆண்டு நவம்பரில் சுவீடன் நீதிமன்றம் வாரண்ட் பிறப்பித்தது. கைது நடவடிக்கையில் இருந்து தப்பிக்க கடந்த 2012-ம் ஆண்டில் பிரிட்டிஷ் தலைநகர் லண்டனில் உள்ள ஈகுவடார் தூதரகத்தில் அவர் தஞ்சமடைந்தார்.
+
+...
+
+[Data](articles/cbea81c8.json)
+
+---
+
+### Catholic Bishops Conference calls for change of governing system
+
+*2024-03-28 12:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Catholic-Bishops-Conference-calls-for-change-of-governing-system/108-279771) · `en`
+
+Colombo, March 28 (Daily Mirror)- The Catholic Bishops Conference in its Easter message called for a change of the governing system in Sri Lanka in order to find solutions to the social, economic and political crisis faced by the nation.
+
+"Easter is being cebrated at a time when the country is facing a severe social, political and economical crisis. It is essential to bring in a major change to the country's governing system to ease the people's suffering. It is the responsibility of all citizens to work towards bringing this change," the message said.
+
+"We celebrate Easter at a time when the country is facing a crisis which it had never faced before.
+
+...
+
+[Data](articles/4fa6dbc9.json)
+
+---
 
 ### Sinopec to double capacity of new refinery in Sri Lanka’s Hambantota
 
@@ -49,6 +81,8 @@ Discussions regarding the water supply, power supply, land allocation and BOI fa
 ◼️
 
 [Data](articles/0038671d.json)
+
+[Extended Data](ext_articles/0038671d.ext.json)
 
 ---
 
@@ -72,23 +106,31 @@ In January the company said it acquired Focus Brands, a UK based brand licensing
 
 [Data](articles/009ad44d.json)
 
+[Extended Data](ext_articles/009ad44d.ext.json)
+
 ---
 
-### 2 ஆவது சந்திர இரவை கடந்து விழித்தெழுந்த ஜப்பானிய விண்கலம்
+### The Japanese spacecraft awakened by the 2nd lunar night
 
 *2024-03-28 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/179891) · `ta`
 
-சந்திரனுக்கு ஜப்பான் அனுப்பிய விண்கலம், இரண்டாவது சந்திர இரவிலும் வெற்றிகரமாக தாக்குப்பிடித்தபின் மீண்டும் விழித்தெழுந்துள்ளதுடன் பூமிக்கு புதிய படங்களையும் அனுப்பியுள்ளது.
+Japan's SLIM spacecraft, the 5th to land on the Moon, successfully completed its second lunar night on February 25, sending new pictures to Earth.
 
-ஜப்பான் அனுப்பிய SLIM எனும் ஆளில்லா விண்கலம் கடந்த ஜனவரி 19 ஆம் திகதி, சந்திரனில் தரையில் வெற்றிரகமாக தரையிறங்கியது. இதன் மூலம் இச்சாதனையைப் புரிந்த 5 ஆவது நாடாகியது ஜப்பான்.
+🟩
 
-கடும் குளிரான சந்திரமண்டல இரவுக்காலத்தை வெற்றிரமாக கடந்த பின்னர் கடந்த பெப்ரவரி 25 ஆம் திகதி இவ்விண்கலம் விழித்தெழுந்து மீண்டும் இயங்கத் தொடங்கியது.  சந்தரனில் ஓர் இரவு என்பது பூமியின் 14 நாட்களுக்கு சமமான காலமாகும்.
+The spacecraft sent to the Moon, the second lunar night, has been woke up again after successfully attacking and sent new pictures to Earth.
 
-பின்னர் இரண்டாவது சந்திர இரவையும் வெற்றிரமாக கடந்த பின்னர் இன்று வியாழக்கிழமை மீண்டும் அவ்விண்கலம் விழித்தெழுந்ததுடன் பூமிக்கு புதிய படங்களை அபுப்pயயுள்ளதாக ஜப்பானிய விண்வெளி முகவரகம் தெரிவித்துள்ளது.
+SLIM, a unmanned spacecraft sent by Japan, landed on the ground on the moon on January 19. Japan became the 5th country that made this debate.
+
+After a successful moon -day night, the spacecraft woke up on February 25 and started operating again.One night in Chandaran is the equivalent of 14 days of the earth.
+
+The Japanese Space Agency said that the second lunar night was successful and the spacecraft was awakened again on Thursday.
 
 ◼️
 
 [Data](articles/1880a704.json)
+
+[Extended Data](ext_articles/1880a704.ext.json)
 
 ---
 
@@ -202,6 +244,8 @@ The firebrand monk has been accused of promoting Islamophobia in Sri Lanka.
 
 [Data](articles/f3149a87.json)
 
+[Extended Data](ext_articles/f3149a87.ext.json)
+
 ---
 
 ### A group of international doctors who are shocked by the experience of Gaza -
@@ -231,6 +275,28 @@ Tanya Haj Hasan, a doctor for children from Jordan, shared these details with th
 [Data](articles/26c45477.json)
 
 [Extended Data](ext_articles/26c45477.ext.json)
+
+---
+
+### Hathurusinghe to miss 2nd Test against Sri Lanka
+
+*2024-03-28 11:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hathurusinghe-to-miss-2nd-Test-against-Sri-Lanka/108-279769) · `en`
+
+DHAKA, March 28, (BSS) - Bangladesh head coach Chandika Hathurusinghe will not be present during the upcoming second and final Test against Sri Lanka, scheduled to commence on March 30 in Chattogram.
+
+The head coach will be traveling to Australia due to personal reasons, necessitating his immediate departure, a BCB press release stating without providing the details what prompted him to leave the team in the midst of an important series.
+
+In his absence, assistant coach Nic Pothas will be assuming the responsibilities of the head coach for the duration of the second Test.
+
+The BCB however requested all stakeholders to accord Hathurusinghe the privacy and understanding he requires during this period.
+
+Bangladesh lost the first Test by 328 runs after failing to go past 200 runs in the both of the innings.
+
+Earlier Bangladesh won the three-match ODI series by 2-1 before losing the T20 series by same margin.
+
+◼️
+
+[Data](articles/04080e4b.json)
 
 ---
 
@@ -566,6 +632,8 @@ Silva said corruption needed two parties and members of the business community s
 
 [Data](articles/793c0bb3.json)
 
+[Extended Data](ext_articles/793c0bb3.ext.json)
+
 ---
 
 ### Gnanasara Thero 4 years seriously worked in jail
@@ -629,6 +697,8 @@ The Colombo Stock Exchange opened up: ASPI up 0.59 percent at 11,501.54, and S&P
 ◼️
 
 [Data](articles/f71c8218.json)
+
+[Extended Data](ext_articles/f71c8218.ext.json)
 
 ---
 
@@ -875,6 +945,8 @@ Prime Minister Gunawardena’s six-day official visit to China comes after Beiji
 ...
 
 [Data](articles/f4a43042.json)
+
+[Extended Data](ext_articles/f4a43042.ext.json)
 
 ---
 
@@ -1141,6 +1213,8 @@ As a result of the rupee collapsing from 200 to 363 after money printing and fla
 ...
 
 [Data](articles/4c366208.json)
+
+[Extended Data](ext_articles/4c366208.ext.json)
 
 ---
 
@@ -2193,61 +2267,5 @@ The top performing Passenger agents in order of highest achievement were present
 [Data](articles/49548cdc.json)
 
 [Extended Data](ext_articles/49548cdc.ext.json)
-
----
-
-### Abans PLC clarifies: Local McDonald’s franchisee not under its umbrella
-
-*2024-03-27 22:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Abans-PLC-clarifies-Local-McDonalds-franchisee-not-under-its-umbrella/108-279746) · `en`
-
-In an attempt to set the record straight, Abans PLC today said the local franchisee of the US fast food giant McDonald’s is not a part of its umbrella.
-
-In a filing to the Colombo Stock Exchange (CSE) today, Abans PLC pointed out that the local franchisee of McDonald’s is International Restaurant Systems (Private) Limited incorporated under the Companies Act No.7 of 2007.
-
-The majority shareholder of the said company is Rusi Pestonjee who owns a 98.73% stake in that company, and who is also the Managing Director of Abans PLC.
-
-“International Restaurant Systems (Private) Limited is not a subsidiary nor an associate of Abans PLC or its parent company Abans Retail Holdings (Private) Limited. Due to the said reason, the financials of International Restaurant Systems (Private) Limited are not consolidated with the financials of Abans PLC,” Abans PLC clarified.
-
-...
-
-[Data](articles/472eb7f7.json)
-
-[Extended Data](ext_articles/472eb7f7.ext.json)
-
----
-
-### Abans PLC clarifies: Local McDonald’s franchisee not under its umbrella
-
-*2024-03-27 22:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Abans-PLC-clarifies-Local-McDonalds-franchisee-not-under-its-umbrella/155-279746) · `en`
-
-In an attempt to set the record straight, Abans PLC today said the local franchisee of the US fast food giant McDonald’s is not a part of its umbrella.
-
-In a filing to the Colombo Stock Exchange (CSE) today, Abans PLC pointed out that the local franchisee of McDonald’s is International Restaurant Systems (Private) Limited incorporated under the Companies Act No.7 of 2007.
-
-The majority shareholder of the said company is Rusi Pestonjee who owns a 98.73% stake in that company, and who is also the Managing Director of Abans PLC.
-
-“International Restaurant Systems (Private) Limited is not a subsidiary nor an associate of Abans PLC or its parent company Abans Retail Holdings (Private) Limited. Due to the said reason, the financials of International Restaurant Systems (Private) Limited are not consolidated with the financials of Abans PLC,” Abans PLC clarified.
-
-...
-
-[Data](articles/fd7294f0.json)
-
-[Extended Data](ext_articles/fd7294f0.ext.json)
-
----
-
-### Happy trends continue to buoy bourse
-
-*2024-03-27 22:16:00* · [`islandlk`](http://island.lk/happy-trends-continue-to-buoy-bourse/) · `en`
-
-Stock market activities yesterday were satisfactory in the wake of Tuesday’s CBSL decisions on interest rates. Both indices moved upwards. The All Share Price Index went up by 95.38 points while S and P SL 20 rose by 39.44 points.
-
-Amid those developments the turnover stood at Rs 1.8 billion with two crossings. Those crossings were reported in Gall Face Capital Partners where 3.9 million shares crossed to the tune of Rs 111 million; its shares traded at Rs. 28 and JKH 285,000 shares crossed for Rs 54.5 million; its shares sold at Rs 191.
-
-...
-
-[Data](articles/887692cd.json)
-
-[Extended Data](ext_articles/887692cd.ext.json)
 
 ---

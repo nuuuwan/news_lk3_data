@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 10:52:00**
+As of **2024-03-28 11:03:28**
 
 ## Newspaper Stats
 
-*Scraped **15,663** Articles*
+*Scraped **15,665** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,62 +19,116 @@ adalk | 1,334
 adaderanalk | 1,877
 tamilmirrorlk | 1,880
 virakesarilk | 2,214
-dailymirrorlk | 2,416
+dailymirrorlk | 2,418
 adaderanasinhalalk | 2,513
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,659 (100.0%) of 15,663 articles have been extended.
+15,663 (100.0%) of 15,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
+### Gnanasara Thera sentenced to 4 years in prison for defaming Islam
+
+*2024-03-28 10:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/GnanasaraThera-sentenced-to-4-years-in-prison-for-defaming-Islam/155-279767) · `en`
+
+Colombo, March 28 (Daily Mirror) - Bodu Bala Sena (BBS) General Secretary Ven. Galaboda Atte Gnanasara Thera was today sentenced to four-year-rigorous imprisonment for making a hate speech against the Islamic religion on Kuragala Temple.
+
+Colombo High Court Judge Adithya Patabendige further ordered Gnanasara Thera to pay a fine of Rs.100,000.
+
+The Attorney General had filed the case against the BBS General Secretary on charges of causing religious and racial disunity in Sri Lanka over remarks made by him on Kuragala Temple during a media briefing held on 30 March 2016.
+
+◼️
+
+[Data](articles/05253f9d.json)
+
+---
+
 ### Gnanasara Thero sentenced to 4 years RI
 
 *2024-03-28 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98255/gnanasara-thero-sentenced-to-4-years-ri) · `en`
 
-Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thera has been sentenced to four years of rigorous imprisonment for making defamatory comments against Islam.
+Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thero has been sentenced to four years of rigorous imprisonment for making defamatory comments against Islam.
+
+The verdict was delivered by Colombo High Court Judge Aditya Patabendige on Thursday (March 28).
 
 ◼️
 
 [Data](articles/7d233ef9.json)
 
+[Extended Data](ext_articles/7d233ef9.ext.json)
+
 ---
 
-### புத்தாண்டை முன்னிட்டு மதுபான விலைகள் குறைப்பு?
+### A reduction in liquor prices ahead of the New Year?
 
 *2024-03-28 10:35:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டை-முன்னிட்டு-மதுபான-விலைகள்-குறைப்பு/175-335294) · `ta`
 
-எதிர்வரும் சிங்கள மற்றும் தமிழ் புத்தாண்டை முன்னிட்டு மதுபானங்களின் விலைகள் குறைக்கப்படும் என தற்போது பரவலாகப் பரவி வரும் வதந்திகளில் எந்த உண்மையும் இல்லை என கலால் திணைக்களம் இன்று தெரிவித்துள்ளது.
+The Department of Excise denies rumors of liquor price reductions for New Year. No directive from the finance ministry to lower excise tax on liquor has been received, so prices will remain unchanged.
 
-மதுபானங்களின் விலையை குறைக்கும் நோக்கில் மதுபானங்களுக்கு விதிக்கப்பட்டுள்ள அதிகபட்ச மதுபான விலைகள் குறைக்கப்படும் என ஊடகங்களில் தற்போது செய்திகள் வெளியாகி வருவதாக கலால் திணைக்கள பேச்சாளர் சன்ன வீரக்கொடி தெரிவித்துள்ளார்.
+🟩
 
-மதுபானங்கள் மீதான கலால் வரியை திருத்தியமைக்க கலால் திணைக்களம் அதன் தகுதியான அதிகாரமான நிதியமைச்சகத்திடம் இருந்து எந்த உத்தரவும் அல்லது அறிவுறுத்தலும் பெறவில்லை, எனவே மதுபானங்களின் விலை குறைக்கப்படாது என்றார்.
+The Department of Excise today said that there is no truth in the rumors that the prices of liquor will be reduced ahead of the upcoming Sinhala and Tamil New Year.
 
-எனவே மதுபானங்களின் விலை குறைப்பு குறித்த செய்திகள் பொய்யானதும், அடிப்படை ஆதாரமற்றதுமாகும் என அவர் தெரிவித்துள்ளார்.
+The media spokesman Sanna Weerakkody said that there are reports in the media that the maximum liquor prices imposed on liquor will be reduced to reduce the prices of liquor.
+
+The Excise Department has not received any directive or instruction from its qualified finance ministry to revise the excise tax on liquor, so the price of liquor will not be reduced.
+
+Therefore, news about the reduction in the price of liquor is false and baseless, he said.
+
+MJ Gunasiri, the chief of the Department of Excise last week, commented to the Daily Mirror, "The use of liquor in the country has been reduced significantly.. He said the department has been given a new annual target of Rs 232 billion by the end of this year.
 
 ...
 
 [Data](articles/4fc2a9f5.json)
 
+[Extended Data](ext_articles/4fc2a9f5.ext.json)
+
 ---
 
-### ඥානසාර හිමියන්ට වසර 4ක බරපතළ වැඩසහිත සිරදඬුවමක්
+### Gnanasara Thero 4 years seriously worked in jail
 
 *2024-03-28 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195022) · `si`
 
-ගලබොඩ අත්තේ ඥානසාර හිමියන්ට කොළඹ මහාධිකරණ විනිසුරු ආදිත්‍ය පටබැඳිගේ මහතා විසින් වසර 4ක බරපතළ වැඩසහිත සිරදඬුවම් සහ රුපියල් ලක්ෂයක දඩයක් නියම කළේය.
+Gnanasara Thero, a Buddhist monk, was sentenced to 4 years in prison and fined for his role in a case related to national and religious reconciliation, highlighted in 2016.
 
-ඒ ඥානසාර හිමිට එරෙහිව නීතිපතිවරයා විසින් පනවා තිබූ නඩුවක අධි චෝදනා දෙකටම වරදකරු කරමිනි.
+🟩
 
-2016 වසරේ කොළඹදී පැවැති ප්‍රසිද්ධ මාධ්‍ය හමුවකදී කූරගල විහාරස්ථානය සම්බන්ධයෙන් සිදුකළ ප්‍රකාශය මගින් ජාතික හා ආගමික සංහිඳියාවට හානියක් සිදුකිරීම සම්බන්ධයෙන් මෙම නඩුව පැවැත්වුණි.
+The Colombo High Court Judge Adadan Pandasonage to Gnanasara Thera was sentenced to 4 years of serious seriously and a fine of Rs.
+
+The Attorney General was convicted by the Attorney General's case by the Attorney General's case.
+
+At the year 2016, the case was taken up with regard to national and religious reconciliation at a public media briefing in Colombo.
 
 ◼️
 
 [Data](articles/c762983f.json)
+
+[Extended Data](ext_articles/c762983f.ext.json)
+
+---
+
+### Mullaitivu Health Services Director killed in road accident in Omanthai
+
+*2024-03-28 10:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mullaitivu-Health-Services-Director-killed-in-road-accident-in-Omanthai/108-279766) · `en`
+
+Omanthai , March 28 (Daily Mirror) - The Director of Health Services in Mullaitivu Dr. K. Akilendran died in a fatal road accident in Omanthai yesterday.
+
+Initial police investigations revealed that Dr. Akilendran was traveling from Mullaitivu to Vavuniya in a cab when a tipper, traveling from Vavuniya to Kilinochchi, collided head-on with the cab.
+
+Police suspect that the accident occurred when the tipper attempted to overtake a three-wheeler ahead of it.
+
+The doctor sustained serious injuries and was rushed to Vavuniya General Hospital, where he succumbed to his injuries upon admission.
+
+Following the accident, the tipper driver, who suffered minor injuries, was hospitalized and subsequently arrested.
+
+◼️
+
+[Data](articles/255ea53c.json)
 
 ---
 
@@ -178,25 +232,31 @@ Meanwhile, Chinese Prime Minister Lee Kiang has assured Prime Minister Dinesh Gu
 
 ---
 
-### தனி நபரின் மாதாந்த வாழ்க்கை செலவு தொடர்பில் வெளியான தகவல்
+### Information on the cost of living of the individual's monthly life
 
 *2024-03-28 09:35:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனி-நபரின்-மாதாந்த-வாழ்க்கை-செலவு-தொடர்பில்-வெளியான-தகவல்/175-335293) · `ta`
 
-தனிநபர் ஒருவரின் மாதாந்த செலவு அதிகரித்துள்ளதாக மக்கள் தொகை கணக்கெடுப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் தெரிவித்துள்ளது.
+The Census and Statistics Department reports an increase in the monthly cost of living, with an average of Rs 17,014 needed to meet basic needs. Costs vary by district, with Colombo at Rs 18,350, Gampaha at Rs 18,256, and Nuwara Eliya at Rs 17,892. Moneragala has the lowest at Rs 16,268.
 
-இவ்வருடம் ஜனவரி மாதத்தில் ஒருவருக்கு தமது அடிப்படைத் தேவைகளைப் பூர்த்தி செய்வதற்குத் தேவையான குறைந்தபட்ச மாதாந்தச் செலவு சராசரியாக 17,014 ரூபாயாக அதிகரித்துள்ளதாக திணைக்களம் சுட்டிக்காட்டியுள்ளது.
+🟩
 
-ஒரு நபரின் அடிப்படைத் தேவைகளைப் பூர்த்தி செய்வதற்காக மாவட்ட மட்டத்தில் மாதாந்தச் செலவு கணக்கிடப்பட்டுள்ளதாகவும், கொழும்பு மாவட்டத்தில் வாழும் மக்களே அதிக செலவினங்களைச் சுமக்க வேண்டியுள்ளதாகவும் குறிப்பிடப்பட்டுள்ளது.
+The Census and Statistics Department said that the monthly cost of an individual has increased.
 
-இதன்படி, கொழும்பு மாவட்டத்தில் தனிநபர் மாதாந்தச் செலவு 18,350 ரூபாயாகவும், கம்பஹா மாவட்டத்தில் 18,256 ரூபாயாகவும், நுவரெலியா மாவட்டத்தில் 17,892 ரூபாயாகவும் உள்ளது.
+The department has pointed out that the minimum monthly cost to meet their basic needs in January this year has increased to an average of Rs 17,014.
 
-சனத்தொகை மற்றும் புள்ளிவிவரத் திணைக்களத்தின் அறிக்கையின்படி, மொனராகலை மாவட்டத்திலிருந்து மிகக் குறைந்த தனிநபர் செலவீனம் பதிவாகியுள்ளதுடன் அது 16,268 ஆகும்.
+It has been noted that the monthly cost has been calculated at the district level to meet the basic needs of a person and the people living in the Colombo district have to carry more expenses.
 
-உத்தியோகபூர்வ வறுமைக் கோடு தேசிய நுகர்வோர் விலைக் குறியீட்டின்படி தேசிய மற்றும் மாவட்ட அளவில் விலை மாற்றங்களைக் கணக்கில் கொண்டு சரிசெய்யப்படுகிறது.
+Accordingly, the cost of individual monthly in the Colombo district is 18,350 rupees, Rs 18,256 in Gampaha district and Rs 17,892 in Nuwara Eliya district.
+
+According to a report by the Department of Population and Statistics, the lowest personal expenses from the Moneragala district have been reported and it is 16,268.
+
+The official poverty line is adjusted by the National and District level prices, according to the National Consumer Price Index.
 
 ◼️
 
 [Data](articles/4b5b607f.json)
+
+[Extended Data](ext_articles/4b5b607f.ext.json)
 
 ---
 
@@ -2167,55 +2227,5 @@ I have generally complained that Jaffna affords little room for entertainment or
 [Data](articles/dd2ae733.json)
 
 [Extended Data](ext_articles/dd2ae733.ext.json)
-
----
-
-### Hamas request to stop airborne delivery: US refusal
-
-*2024-03-27 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179844) · `ta`
-
-Hamas demands halt to airborne aid, US refuses. Despite US aid, Hamas seeks more ground distribution from Israel. US cites its distribution as part of relief efforts. Casualties in Gaza rise to 32,490 since Oct 7.
-
-🟩
-
-Hamas organization has demanded that Parasood from aircraft in Gaza stops supplying assistance. However, the US has denied this.
-
-Many countries, including the United States, are engaged in the supply of assistance from aircraft from aircraft to provide relief to people who are facing food shortages in Gaza.
-
-Instead, Hamas also demanded that Israel be allowed to distribute more distribution through the ground.
-
-However, the National Security Council of the United States has said that the US distribution is one of the ways the United States is handling the Palestinian people in Gaza.
-
-Meanwhile, the number of casualties in Gaza has increased to 32,490 since October 7, the Gaza Health Ministry said.
-
-◼️
-
-[Data](articles/d79963ee.json)
-
-[Extended Data](ext_articles/d79963ee.ext.json)
-
----
-
-### STF arrest international drug smuggler in Nuwara Eliya
-
-*2024-03-27 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/STF-arrest-international-drug-smuggler-in-Nuwara-Eliya/108-279732) · `en`
-
-Kahanavitage Don Nandasena, an international drug smuggler was arrested by the Police Special Task Force (STF) while hiding in Nuwara Eliya.
-
-Police said the suspect was arrested during a special operation conducted under the instructions of STF Commandant Senior DIG Waruna Jayasundara under the Yukthiya operation.
-
-Investigations have revealed that the suspect is the main trafficker who had brought 9 kgs of ice or methamphetamine into Sri Lanka which was siezed by the Special Task Force officers in Kiribathgoda and Katunayake police areas on March 2, 2024.
-
-Police said his brother known as  'Bandu', is also a large-scale drug trafficker.
-
-The arrested trafficker had returned to Sri Lanka on 29.02.2024 from hiding in India and was arrested by the Special Task Force while hiding in Nuwara Eliya with his second wife.
-
-Meanwhile. Investigations related to the two large houses owned by the suspect in Wattala and Ganemulla areas have been started by the Criminal Investigation Department.
-
-◼️
-
-[Data](articles/8ff388c2.json)
-
-[Extended Data](ext_articles/8ff388c2.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 02:33:50**
+As of **2024-03-29 02:50:00**
 
 ## Newspaper Stats
 
@@ -26,95 +26,137 @@ adaderanasinhalalk | 2,542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,800 (100.0%) of 15,805 articles have been extended.
+15,805 (100.0%) of 15,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### தோட்டத் தொழிலாளர்களுக்கு அடிப்படை நாட்சம்பளமாக 2000 ரூபாவை வழங்க நடவடிக்கை எடுக்க வேண்டும் - கிட்ணண் செல்வராஜ்
+### Steps should be taken to provide 2000 rupees as a base for plantation workers - Kidnan Selvaraj
 
 *2024-03-29 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179943) · `ta`
 
-1700 ரூபா எனும் வசனத்தை ஒதுக்கி வைத்துவிட்டு தோட்டத் தொழிலாளர்களுக்கு அடிப்படை நாட்சம்பளமாக 2000 ரூபாவை வழங்க நடவடிக்கை எடுக்க வேண்டுமென அகில இலங்கை தோட்டத் தொழிலாளர் சங்கத்தின் தலைவர் கிட்ணண் செல்வராஜ் தெரிவித்தார்.
+Kidnan Selvaraj, president of the All Ceylon Plantation Workers Union, advocates for a basic salary of 2000 rupees for plantation workers, challenging the current 1700 rupees.
 
-சம்பள விவகாரம் தொடர்பில் பெருந்தோட்டத்  தொழிலாளர்களை தெளிவூட்டும் வகையில் இன்று வியாழக்கிழமை (28) ஹப்புத்தளை பிட்டரத்தமலையில் துண்டு பிரசுரங்கள் விநியோகிக்கப்பட்டன. அகில இலங்கை தோட்டத் தொழிலாளர் சங்கம் இதனை ஏற்பாடு செய்திருந்தது.
+🟩
 
-இதன்போதே அகில இலங்கைத் தோட்டத் தொழிலாளர் சங்கத்தின் தலைவர் கிட்ணன் செல்வராஜ் மேற்கண்டவாறு தெரிவித்தார். அவர் அங்கு மேலும் தெரிவிக்கையில்,
+The President of the All Ceylon Plantation Workers Union, Kidnan Selvaraj, said that the verse 1700 rupees should be taken to provide 2000 rupees to the plantation workers.
 
-“சம்பள நிர்ணய சபைக்கு 2000 ரூபா அடிப்படை சம்பளத்தை வழங்குவதற்கு ஏதுவான பிரேரணை கொண்டுசெல்லப்பட வேண்டும். அவ்வாறு கொண்டு செல்லும் பொழுது அகில இலங்கை தோட்டத் தொழிலாளர் சங்கமாகிய நாங்கள் முழுமையான ஆதரவினை தருவோம். அதைவிடுத்து 1700 ரூபாவுக்குள் தோட்டத் தொழிலாளர்களின் சம்பளத்தை வரையறுக்கக் கூடாது.
+Plantation workers were distributed today (28) at Pittarathamalai, Haputtala. This was organized by the All Ceylon Plantation Workers Union.
+
+Meanwhile, Kidnan Selvaraj, president of the All Ceylon Plantation Workers Union, said the above.. He said more,
+
+“The proposal should be brought to the salary council to provide a basic salary of 2000 rupees. As we do so, we, the All Ceylon Plantation Workers Union, will give you full support. The salaries of plantation workers should not be defined within 1700 rupees.
 
 ...
 
 [Data](articles/98a6c87d.json)
 
+[Extended Data](ext_articles/98a6c87d.ext.json)
+
 ---
 
-### இணையவழி சிறுவர் துஷ்பிரயோகங்களை அறிக்கையிடும் புதிய அணுகுமுறை - ஜனாதிபதி
+### New approach to report egalitarian child abuse - President
 
 *2024-03-29 01:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179942) · `ta`
 
-இணையத்தில் பதிவேற்றப்படும் சிறுவர்களின் நிர்வாண புகைப்படங்கள் மற்றும் ஆபாசமான காணொளிகளை உடனடியாக நீக்குவதற்கான இணைய வழி முறைமை வியாழக்கிழமை (28) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் அறிமுகப்படுத்தப்பட்டது.
+President Ranil Wickremesinghe introduced a system to immediately remove children's naked photos and obscene videos from the internet, in partnership with the UK's Internet Watch Foundation. This system allows the National Child Protection Authority to lodge complaints and take legal action against suspects. The President emphasized the need for child protection measures, including establishing a section for children and women in police stations and introducing a new bill for their protection.
 
-சிறுவர் துஷ்பிரயோக சம்பவங்கள் அல்லது சிறுவர்களை சிக்கிக்கொள்ளக்கூடிய இணைய பக்கங்கள், புகைப்படங்கள், காணொளிகள் உள்ளிட்ட காரணங்களால் சிறுவர்கள் பெருமளவில் சைபர் வலையப்பிற்குள் பாதிப்புக்கு ஆளாகின்றனர்.
+🟩
 
-தேசிய சிறுவர்  பாதுகாப்பு அதிகாரசபை, உலகின் முன்னணி இணைய சிறுவர் பாதுகாப்பு உறுதிப்படுத்தல் நிறுவனங்களில் ஒன்றான ஐக்கிய ராஜ்ஜியத்தின் Internet Watch Foundation - IWF உடன் இணைந்து இந்த வேலைத்திட்டம் முன்னெடுக்கப்படுவதோடு, Save the Children & Child அதற்கான நிதி உதவியை வழங்கியுள்ளது.
+The Internet system for immediate removal of children's naked photos and obscene videos uploaded on the Internet was introduced on Thursday (28) at the Presidential Office headed by President Ranil Wickremesinghe.
+
+Children are affected by the cyber web site due to children's abuse incidents or the web pages, photos and videos that can be trapped in children.
+
+The National Child Protection Authority, one of the world's leading Internet Child Protection Confirmation Institutions, is being carried out in partnership with the United Kingdom's Internet Watch Foundation - Save the Children & Child.
+
+After the introduction of this internet system, the National Child Protection Authority can lodge a complaint with the National Child Protection Authority with the help of the National Child Protection Authority www.childprotection.gov.lk.. The company will then remove the video from the Internet and take legal action against the suspects.
 
 ...
 
 [Data](articles/0ccb2f23.json)
 
+[Extended Data](ext_articles/0ccb2f23.ext.json)
+
 ---
 
-### பழுதடைந்த உருளைக்கிழங்கு விவகாரம் : மாகாண விசாரணைக்குழு - கஜேந்திரனின் கோரிக்கைக்கு ஆளுநர் இணக்கம்
+### Damaged potato affair: Provincial Investigation Committee - Governor's Compliance with Gajendran's request
 
 *2024-03-29 01:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179941) · `ta`
 
-யாழ்ப்பாண மாவட்டத்தில் உள்ள தெரிவு செய்யப்பட்ட விவசாயிகளுக்கு வழங்கப்பட இருந்த சுமார் ஒரு கோடியே 50 இலட்சம் ரூபா பெறுமதியான உருளைக்கிழங்கு பழுதடைந்த விவகாரம் தொடர்பில் மாகாண மற்ற விசாரணை குழுவை அமைக்குமாறு பாராளுமன்ற உறுப்பினர் செல்வராஜா கஜேந்திரனின் கோரிக்கையை வடமாகாண ஆளுநர்  ஏற்றுக்கொண்டார்.
+The Governor of Northern Province accepted a request to form a provincial inquiry committee on potato issues, following a discovery of seed potatoes infected with dangerous microorganisms. Parliamentarian Selvarajah Gajendran questioned the investigation process and the cost of importing potatoes to Colombo. The Assistant Director of Agricultural Modern People's Action Program denied receiving the ministry's inquiry report, prompting Gajendran to demand a provincial-level inquiry. Governor Kilinochchi responded that only a few need to work with them, and the Northern Provincial Ministry of Agriculture issued a directive for a provincial inquiry report.
 
-குறித்த விடயம்  தெரிய வருவதாவது, கடந்த டிசம்பர் மாதம் உலக வங்கியால் விவசாய நவீனமாக செயல் திட்டத்தின் கீழ் யாழ்ப்பாண மாவட்ட தேர்வு செய்யப்பட்ட உருளைக்கிழங்கு செய்கையாளர்களுக்கு வழங்கப்பட இருந்த விதை உருளைக்கிழங்கு கிருமித் தொற்றுக்கு உள்ளாகிய நிலையில் கண்டுபிடிக்கப்பட்டது.
+🟩
 
-இந்நிலையில் அப்போதைய யாழ்ப்பாண மாவட்ட அரசாங்க அதிபராக இருந்த அம்பலவாணர் சிவபால சுந்தரன் குறித்த விடயம்  தொடர்பில் உயர்மட்ட கலந்துரையாடலை மேற்கொண்டார்.
+The Governor of the Northern Province accepted the request of Parliamentarian Selvarajah Gajendran to set up a provincial inquiry committee on the issue of potatoes worth Rs.
 
-குறித்த கலந்துரையாடலில் மனிதனுக்குத் தீங்கை விளைவிக்கக் கூடிய ஆபத்தான நுண்ணங்கிகள் காணப்படுவதாக அதிகாரிகள் உறுதிப்படுத்திய நிலையில் உருளைக்கிழங்கை மண்ணுக்குள் புதைத்தால் ஆபத்து ஏற்பாடு எனக் கூறிய நிலையில் எரியூட்டப்பட்டது
+It was found that the seed of the Jaffna district selected potatoes under the Agricultural Action Scheme last December was discovered by the seed potato infected.
+
+In this case, Ambalavanar, the then Jaffna District Government Agent, held a high -level discussion on the issue of Sivapala Sundaran.
+
+Officials confirmed that there were dangerous microorganisms that could be harmful to the man during the discussion, and the potatoes were buried in the soil as a risk arrangement.
+
+Parliamentarian Selvarajah Gajendran Anganan Ramanathan raised questions about the dilapidated potato affair at the Jaffna District Development Committee meeting.
+
+Officials responded that the authorities were raised by questions about who was imported to Colombo at a cost of Rs.
+
+In this case
 
 ...
 
 [Data](articles/c4f2b5ea.json)
 
+[Extended Data](ext_articles/c4f2b5ea.ext.json)
+
 ---
 
-### இரண்டு மாதங்களில் 983.7 மில்லியன் ரூபா ஏற்றுமதி வருமானம் கிடைத்துள்ளது - பிரசன்ன ரணவீர
+### 983.7 million rupees in two months
 
 *2024-03-29 01:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/179940) · `ta`
 
-கடந்த இரண்டு மாதங்களில் மாத்திரம் இலங்கை 983.7 மில்லியன் ரூபா ஏற்றுமதி வருமானத்தைப் பெற்றுள்ளதுடன், நாடு தற்போது சரியான பொருளாதாரப் பாதையில் செல்வதை, அது உறுதிப்படுத்துவதாக சிறிய மற்றும் நடுத்தர தொழில்முயற்சி அபிவிருத்தி இராஜாங்க அமைச்சர் பிரசன்ன ரணவீர தெரிவித்தார்.
+Sri Lanka earned Rs 983.7 million in exports in two months, with 500,000 tourists visiting and 3% increase in entrepreneurs. The government supports entrepreneurship, including issuing diploma certificates to 500 children in apparel and weaving. A welfare program for 240,000 low-income families was launched, and exports to Italy, Canada, and Germany were promoted.
 
-பாடசாலைக் காலத்திலேயே தொழில்முயற்சி சூழலுக்குள் ஈர்த்தெடுப்பது அவர்களை எதிர்காலத்தில் தொழில்முனைவோராக உருவாக்க வழிவகுக்கும் என்று இராஜாங்க அமைச்சர் குறிப்பிட்டார்.
+🟩
 
-ஜனாதிபதி ஊடக மையத்தில் வியாழக்கிழமை (28) நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே இராஜாங்க அமைச்சர் பிரசன்ன ரணவீர இதனைத் தெரிவித்தார்.
+Minister of Small and Medium Entrepreneurship Development Prasanna Ranweera said Sri Lanka has earned an export income of Rs 983.7 million in the last two months and that the country is currently on the right economic path.
 
-கடந்த காலத்தில் நாட்டில் ஏற்பட்ட பொருளாதார நெருக்கடியைத் தீர்த்து ஒரு நாடாக குறிப்பிடத்தக்களவு சாதனைகளை நாம் அடைந்துள்ளோம். கடந்த இரண்டு மாதங்களில் மாத்திரம் 983.7 மில்லியன் ரூபா ஏற்றுமதி வருமானம் கிடைத்துள்ளது.
+The Minister of State has stated that attraction of the entrepreneurship environment will lead to the creation of entrepreneurs in the future.
+
+State Minister Prasanna Ranawira made this statement at a media briefing held at the Presidential Media Center on Thursday (28).
+
+We have achieved significant achievements as a country to resolve the economic crisis in the country in the past. In the last two months alone, the export income of 983.7 million has been earned.
+
+About 05 lakh tourists visit the country during the two months of January and February. Moreover, the number of entrepreneurs in our country has been increased to 3%. These data confirms that the country is currently on the right economic path.
 
 ...
 
 [Data](articles/99750451.json)
 
+[Extended Data](ext_articles/99750451.ext.json)
+
 ---
 
-### இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திரகாந்தன் கிளிநொச்சி விஜயம்
+### State Minister Sivanesathurai Chandrakanthan visits Kilinochchi
 
 *2024-03-29 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/179939) · `ta`
 
-கிராமிய வீதிகள் அபிவிருத்தி இராஜாங்க அமைச்சின் நிதி ஒதுக்கீட்டின் கீழ் கிளிநொச்சி பாரதிபுர செபஸ்ரியார் வீதியின் பாலம் புனரமைத்தலுக்கான அடிக்கல் நாட்டு விழா வியாழக்கிழமை (28) இடம்பெற்றிருந்தது.
+State Minister Sivanesathurai Chandrakanthan laid the foundation stone for the Kilinochchi Bharathipura Sebasriyar Road reconstruction, funded by the Rural Roads Development Ministry. He also announced bridge renovation and road rehabilitation in the Kalmadu Nagar area.
 
-குறித்த நிகழ்வில்  கிராமிய வீதிகள் அபிவிருத்தி இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திரகாந்தன், யாழ்ப்பாண மாவட்ட பாராளுமன்ற உறுப்பினர் அங்கஜன் இராமநாதன், வன்னி பாராளுமன்ற உறுப்பினர் திலீபன், ஒப்பந்ததாரர்கள், பிரதேச செயலாளர்கள், கிராம மக்கள் மற்றும் வீதி அதிகார சபை உத்தியோகத்தர்கள் என பலரும் கலந்து கொண்டிருந்தனர்.
+🟩
 
-இந்நிகழ்வில் கிராமிய வீதிகள் அபிவிருத்தி இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திரகாந்தன் அவர்களினால் பாலம் புனரமைப்புக்கான திரைநீக்கம் செய்யப்பட்டு பின் பால புனரைப்புக்கான அடிக்கல்லும் நாட்டி வைத்தார்.குறித்த பாலமானது 15,329,888.18 நிதி பங்களிப்பில் 90நாட்கள் ஒப்பந்த அடிப்படையில் ஆரம்பிக்கப்பட்டுள்ளது.
+The foundation stone for the reconstruction of the Kilinochchi Bharathipura Sebasriyar Road was held on Thursday (28) under the funding of the Rural Roads Development Ministry.
 
-...
+Rural Roads Development Minister Sivanesathurai Chandrakanthan, Jaffna District Parliamentarian Anganjan Ramanathan, Wanni Parliamentarian Dileepan, Contractors, Divisional Secretaries, Village People and Road Authority Officers were also present.
+
+The Rural Roads Development Minister Sivanesathurai Chandrakanthan presented the launch of the bridge renovation and then laid down the bridge renovation.
+
+In addition, the main road in the Kalmadu Nagar area, which belongs to the Kandawala Divisional Secretariat Division, said that the main road in the Kalmadu Nagar area and the fundamental action would be taken to provide the relevant authorities to take immediate action to rehabilitate several small bridges.
+
+◼️
 
 [Data](articles/b7109c71.json)
+
+[Extended Data](ext_articles/b7109c71.ext.json)
 
 ---
 

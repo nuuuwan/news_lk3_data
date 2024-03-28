@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 16:33:24**
+As of **2024-03-28 16:49:38**
 
 ## Newspaper Stats
 
-*Scraped **15,734** Articles*
+*Scraped **15,738** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 848
 economynextcom | 857
 islandlk | 868
 adalk | 1,339
-adaderanalk | 1,889
+adaderanalk | 1,890
 tamilmirrorlk | 1,891
-virakesarilk | 2,223
+virakesarilk | 2,226
 dailymirrorlk | 2,429
 adaderanasinhalalk | 2,523
 
@@ -26,25 +26,67 @@ adaderanasinhalalk | 2,523
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,730 (100.0%) of 15,734 articles have been extended.
+15,734 (100.0%) of 15,738 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### උද්ධමනය අඩුවෙයි
+### பாராளுமன்றம் ஏப்ரல் 01ஆம் திகதி மற்றும் 02ஆம் திகதிகளில் கூடும்
+
+*2024-03-28 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179912) · `ta`
+
+பாராளுமன்றத்தை எதிர்வரும் ஏப்ரல் 01ஆம் திகதி மற்றும் 02ஆம் திகதிகளில் கூட்டுவதற்குத் தீர்மானிக்கப்பட்டிருப்பதாக பாராளுமன்ற பதில் செயலாளர் நாயகம் சமிந்த குலரத்ன தெரிவித்தார்.
+
+சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் கடந்த மார்ச் 22 ஆம் திகதி நடைபெற்ற பாராளுமன்ற அலுவர்கள் பற்றிய குழுக் கூட்டத்தில் இத்தீர்மானம் எடுக்கப்பட்டது.
+
+இதற்கு அமைய ஏப்ரல் 01ஆம் திகதி திங்கட்கிழமை, மு.ப 9.30 மணிக்குப் பாராளுமன்றம் கூடவிருப்பதுடன், மு.ப 9.30 மணி முதல் பி.ப 4.30 மணி வரை 2024.03.19ஆம் திகதி பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்ட ஆயுர்வேத சட்டத்தின் கீழ் ஒழுங்குவிதிகள் விவாதத்துக்கு எடுத்துக்கொள்ளப்படவுள்ளன. (இது தொடர்பான பிரேரணை 2024.04.01ஆம் திகதிய 14ஆம் இலக்க பாராளுமன்ற ஒழுங்குப் பத்திரத்தில் உள்ளடக்கப்பட்டுள்ளது). இதனைத் தொடர்ந்து பி.ப 4.30 மணிக்கு தனிநபர் சட்டமூலமான சர்வதேச தேரவாத நிறுவனம்  (கூட்டிணைத்தல்) சட்டமூலம் இரண்டாவது மதிப்பீட்டின் பின்னர் சட்டவாக்க நிலையியற் குழுவுக்கு ஆற்றுப்படுத்தப்படும்.
+
+...
+
+[Data](articles/30c5f2d8.json)
+
+---
+
+### Inflation is reduced
 
 *2024-03-28 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195033) · `si`
 
-කොළඹ පාරිභෝගික මිල දර්ශකය මත පදනම් වූ මෙරට උද්ධමනය මාර්තු මාසයේදී සියයට දශම 09 දක්වා කැපී පෙනෙන ලෙස පහත වැටී තිබේ.
+Sri Lanka's inflation fell to 9% in March, with food inflation rising to 3.5% from 3.5% in February. Non-food inflation dropped from 7% to 0.5%.
 
-එසේ නමුත් ආහාර උද්ධමනය පෙබරවාරි මාසයේ පැවති සියයට 3.5ක අගයක සිට සියයට 3.8 දක්වා ඉහළගොස් තිබුණි.
+🟩
 
-මාර්තු මාසයේ උද්ධමනය පහත වැටීමට හේතුවී ඇත්තේ ආහාර නොවන කාණ්ඩයේ උද්ධමනය පෙබරවාරි මාසයේ පැවති සියයට 7ක අගයක සිට මාර්තු මාසයේ දී සියයට සෘණ 0.5දක්වා පහත වැටීම ය.
+The Colombo Consumer Price Index, Sri Lanka's inflation has fallen to 9 percent in March.
+
+However, food inflation was up to 3.5 percent from 3.5 percent in February.
+
+The decline in the decline in the month of March, the non-food category inflation drops from 7 percent in February to 0.5 percent in March.
 
 ◼️
 
 [Data](articles/e1d3b0cc.json)
+
+[Extended Data](ext_articles/e1d3b0cc.ext.json)
+
+---
+
+### பெருந்தோட்ட கம்பனிகள் சமர்ப்பித்த முன்மொழிவை நிராகரித்த இ.தொ.கா தலைவர் செந்தில் தொண்டமான்!
+
+*2024-03-28 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/179910) · `ta`
+
+பெருந்தோட்ட தொழிலாளர்களின் சம்பள உயர்வை இலங்கை தொழிலாளர் காங்கிரஸ் வலியுறுத்திவரும் பின்புலத்தில் நேற்று புதன்கிழமை தொழிலாளர் அமைச்சின் ஊடாக பெருந்தோட்ட கம்பனிகள் சமர்ப்பித்த முன்மொழிவை கிழக்கு மாகாண ஆளுநரும் இதொகாவின்  தலைவருமான செந்தில் தொண்டமான் கடுமையாக நிராகரித்துள்ளார்.
+
+"தொழில் அமைச்சில் இடம்பெற்ற இந்த பேச்சுவார்த்தையில் RPC நிறுவனம் முன்மொழிந்த புதிய திட்டமானது தொழிலாளர்களை விட RPC நிறுவனத்திற்கு அதிக பயன் தரும் ஊக்கத் திட்டமாக  மட்டுமே அமையும்.
+
+தொழிலார்களுக்கு நாம் ஊக்க தொகையை கோரவில்லை மாறாக சம்பள  உயர்வையே கோரினோம்." என இதன்போது செந்தில் தொண்டமான் சுட்டிக்காட்டினார்.
+
+அத்துடன் சம்பள நிர்ணய சபையின் ஊடாக நியாயமான சம்பள உயர்வை எதிர்பார்க்கின்றோம் என அமைச்சர்  மனுஷ நாணயக்காரவுக்கும்  செந்தில்  தொண்டமான் எடுத்துரைத்தார்.
+
+இதேவேளை அமைச்சர் மனுஷ நாணயக்கார, தொழிலாளர்களுக்கு சம்பள உயர்வைப் பெற்றுத்தர  தொடர்ச்சியான முயற்சிகளுக்கு பாராட்டுகளையும் தெரிவித்தார்.
+
+...
+
+[Data](articles/a9d5fadb.json)
 
 ---
 
@@ -56,11 +98,35 @@ The overall rate of inflation as measured by the Colombo Consumer Price Index (C
 
 The CCPI-based inflation was calculated as 5.9% for the month of February.
 
-According to the DCS report, the year-on-year inflation of Food Group was recorded at 3.8% in March, showing a minor increase from the 3.8% recorded in February, while the inflation of Non-Food Group decreased to 0.5% in March from 7.0% in February.
+According to the DCS report, the year-on-year inflation of Food Group was recorded at 3.8% in March, showing a minor increase from the 3.8% recorded in February, while the inflation of Non-Food Group decreased to -0.5% in March from 7.0% in February.
 
 ...
 
 [Data](articles/e1cdcc3d.json)
+
+[Extended Data](ext_articles/e1cdcc3d.ext.json)
+
+---
+
+### லாவோஸில் 54 பேருக்கு அந்த்ராக்ஸ் தொற்று: தாய்லாந்திலும் எச்சரிக்கை
+
+*2024-03-28 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179907) · `ta`
+
+லாவோஸில் 54 பேருக்கு அந்த்ராக்ஸ் தொற்று ஏற்பட்டுள்ளதால், அயல்நாடான தாய்லாந்தில் இது தொடர்பாக உயர் விழிப்பு நிலையில் இருக்குமாறு அதிகாரிகளுக்கு உத்தரவிடப்பட்டுள்ளது.
+
+கால்நடைகளில் வேகமாக பரவக்கூடிய அந்த்ராக்ஸ் நோயானது மனிதர்களுக்கும் தொற்றக்கூடியதாகும். இதனால் சிலவேளை மரணங்களும் ஏற்படலாம்.
+
+இந்நிலையில், லாவோஸில் இம்மாதம் அந்த்ராக்ஸினால் பல மாடுகள் உயிரிழந்ததுடன், குறைந்தபட்சம் 54 மனிதர்களுக்கும் அந்த்ராக்ஸ் தொற்று ஏற்பட்டுள்ளது.
+
+இந்நோய் லாவோஸின் அயல்நாடான தாய்லாந்திலும் பரவுவதை தடுப்பதற்கான முயற்சிகளில் அந்நாட்டு அரசாங்கம் ஈடுபட்டுள்ளது.
+
+நிலைமையை உன்னிப்பாக கண்காணிக்குமாறும், குறிப்பாக லாவோஸுடனான எல்லைப்பிரதேசங்களில் தடுப்பு நடவடிக்கைகளை அதிகரிக்குமாறும் தாய்லாந்து சுகாதார அமைச்சருக்கு பிரதமர் ஸ்ரேத்தா தவசின் பணிப்புரை விடுத்துள்ளார்.
+
+அசாதாரணமான முறையில் மாடுகள், எருமைகள் போன்ற விலங்குகள் உயிரிந்தால் அதிகாரிகளுக்கு தகவல் தெரிவிக்க வேண்டும் எனவும், இவ்வாறு இறந்த  மிருகங்களின் உடல்களை தொட வேண்டாம் என மக்களுக்கு அறிவுறுத்தல் விடுக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/33b963d2.json)
 
 ---
 
@@ -88,23 +154,47 @@ The tax on special products on rice has been reduced from 65 rupees to Rs.. The 
 
 ---
 
-### පොලිස් නිලධාරිනියගේ දුක්ගැනවිල්ලට පොලිස්පති දුන් විසඳුම
+### IGP gave the solution to the grievance of the police officer
 
 *2024-03-28 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195032) · `si`
 
-අඹන්පොළ පොලිස් ස්ථානයට අනුයුක්තව රාජකාරි කරනු ලබන කාන්තා පොලිස් නිලධාරිනියකගේ දුක්ගැනවිල්ලකට කඩිනම් විසඳුමක් ලබාදීමට පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා කටයුතු කර තිබේ.
+IGP Tennakoon resolved a police officer's grievance by transferring her to Mahawa Division, where she and her husband live. However, the IGP faced accusations from senior officials over the officer's grievances.
 
-අදාළ නිලධාරිනියගේ ස්වාමි පුරුෂයා විසින් පොලිස්පතිවරයා වෙත දුරකථන කෙටි පණිවිඩයක් මගින් නිලධාරිනියට මුහුණදී ඇති අපහසුතා සඳහන් කරමින් දුක්ගැනවිල්ලක් යොමු කර තිබුණි.
+🟩
 
-මේ සම්බන්ධයෙන් පොලිස්පතිවරයා විසින් වහාම ක්‍රියාත්මක වෙමින් මෙම පොලිස් සැරියන්වරිය ට ඇය පදිංචි මහව පොලිස් වසම වෙත වහාම ක්‍රියාත්මක වන පරිදි ස්ථාන මාරුවක් ලබාදී ඇත.
+IGP Deshabandu Tennakoon has been appointed to a grievance of a female police officer attached to the Ambanpola Police Station.
 
-මෙම නිලධාරිනිය, කුඩා දරුවන් තිදෙනා හා ස්වාමිපුරුෂයා සමග මහව පොලිස් වසමේ පදිංචිව සිටින අතර, දෛනිකව රාජකාරි සඳහා අඹන්පොළ පොලිස් ස්ථානයට පැමිණෙන බවට වැඩිදුරටත් සඳහන් විය.
+The husband of the relevant officer had directed a grievance to report the difficulty at the IGP.
 
-කෙසේ වෙතත්, නිලධාරීනියගේ දුක්ගැනවිල්ල සම්බන්ධයෙන් නිසි විසඳුම් ලබානොදීම පිළිබඳව අඹන්පොල ස්ථානාධිපති සහ අදාළ ප්‍රදේශය භාර ජ්‍යෙෂ්ඨ නිලධාරීන් වෙත පොලිස්පතිවරයා දොස් පවරා ඇති බවද පොලිස් ආරංචිමාර්ග සඳහන් කරයි.
+The IGP has immediately implemented the police and has been transferred to the Mahawa Police Division to the Mahawa Police Division.
+
+The officer is residing in the Mahawa Division and the Mahawa Police Division with the husband and the husband is living in the Mahawa Police Division.
+
+However, the Inspector General of Police (IGP) has been accused to senior officials in charge of the officer and the relevant area regarding the suffering of the officer's grievances.
 
 ◼️
 
 [Data](articles/0a6bba75.json)
+
+[Extended Data](ext_articles/0a6bba75.ext.json)
+
+---
+
+### CAA to withdraw gazette banning shops from charging for polythene bags
+
+*2024-03-28 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98266/caa-to-withdraw-gazette-banning-shops-from-charging-for-polythene-bags) · `en`
+
+The Attorney General informed the Supreme Court today that the Consumer Affairs Authority (CAA) will withdraw the gazette notification issued prohibiting supermarkets and shops from levying charges for polythene bags provided when purchasing goods.
+
+This was informed to the court by Deputy Solicitor General, Avanti Perera, who appeared on behalf of the Attorney General, when a fundamental rights petition filed by the Centre for Environmental Justice challenging the relevant gazette notification was taken up today (28).
+
+The FR petition was taken up before a three-member judge bench comprised of Justices S. Thurairaja, A.H.M.D Nawaz and Arjuna Obeysekera.
+
+In its petition, the Centre for Environmental Justice had stated that the plastic bags (shopping bags) provided by the stores to consumers when purchasing goods causes serious harm to the environment.
+
+...
+
+[Data](articles/23dc95b0.json)
 
 ---
 
@@ -121,6 +211,8 @@ Minister Ranatunga told reporters in Colombo that he stressed the need to go for
 ...
 
 [Data](articles/8fd1451f.json)
+
+[Extended Data](ext_articles/8fd1451f.ext.json)
 
 ---
 
@@ -2177,79 +2269,5 @@ She remarked that typically, suspects are arrested only after investigations are
 [Data](articles/2f433eac.json)
 
 [Extended Data](ext_articles/2f433eac.ext.json)
-
----
-
-### Sri Lanka must explore options to reduce prices of local graphite: Industry
-
-*2024-03-28 05:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-must-explore-options-to-reduce-prices-of-local-graphite-Industry/108-279752) · `en`
-
-The current prices of Sri Lankan graphite are significantly high; key avenues can be explored to bring them down and one such is by reducing the depth of operation.
-
-The industry representatives stress that the high prices of local graphite are due to the depth of the deposits in the few operational mines within
-
-“Reducing the depth of operation to 10-20m from the surface could considerably lower the cost of mining, which can be done by expanding mining operations to new mines, provided adequate regulations are in place,” said Bogala Graphite PLC CEO Amila Jayasinghe.
-
-He shared his views during a discussion facilitated by the Institute of Policy Studies (IPS) that highlighted the challenges and opportunities in Sri Lanka’s graphite industry.
-
-He noted that the challenges such as the transparency of the process to obtain mining permissions from the relevant authorities deter the potential foreign investment.
-
-...
-
-[Data](articles/17cf9e0d.json)
-
-[Extended Data](ext_articles/17cf9e0d.ext.json)
-
----
-
-### UK Trade Partnership Program promotes organic standards in Sri Lanka
-
-*2024-03-28 04:58:13* · [`dailyftlk`](https://www.ft.lk/business/UK-Trade-Partnership-Program-promotes-organic-standards-in-Sri-Lanka/34-760068) · `en`
-
-The UK Trade Partnership Program project in Sri Lanka, funded by the UK Government and implemented by the International Trade Centre (ITC), aims to promote exports through facilitating access to markets, providing technical advisory services to SMEs, and strengthening business support organisations.
-
-In this context the ‘Sensitisation training on organic standards for private sector operators’, which took place between 18 and 20 March at the Granbell Hotel in Colombo, raised awareness on the role of organic standards and certification among private sector operators and facilitated the exchange of best practices through a two-day theoretical training workshop and a one-day practical session at an organic coconut farm.
-
-...
-
-[Data](articles/e5b19870.json)
-
-[Extended Data](ext_articles/e5b19870.ext.json)
-
----
-
-### Enjoy the full bouquet of Dialog Television channels this Avurudu Season and win a family holiday getaway
-
-*2024-03-28 04:54:30* · [`dailyftlk`](https://www.ft.lk/business/Enjoy-the-full-bouquet-of-Dialog-Television-channels-this-Avurudu-Season-and-win-a-family-holiday-getaway/34-760067) · `en`
-
-Dialog Television welcomes customers to celebrate in the festive season with the launch of its exclusive ‘Avurudu Channel Pack’- containing the full bouquet of Dialog Television channels.
-
-Enjoy quality time with the family by activating the full bouquet of Dialog Television channels this April holiday season and stand a chance to win an unforgettable family getaway. With the largest channel offering in the country under its belt, Dialog Television’s Avurudu Channel Pack follows the provider’s continuous efforts to deliver viewers with a rich variety of content, designed to cater to the whole family including HBO, CineMax, Nickelodeon, Cartoon Network, Bloomberg, &flix, AXN, ABC Australia, HITS NOW, BBC Earth, ThePapare TV HD and HITS MOVIES.
-
-...
-
-[Data](articles/ce95b800.json)
-
-[Extended Data](ext_articles/ce95b800.ext.json)
-
----
-
-### Sri Lanka to host International Pepper Community’s Annual Conference 2024
-
-*2024-03-28 04:53:53* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-to-host-International-Pepper-Community-s-Annual-Conference-2024/34-760066) · `en`
-
-Sri Lanka’s vibrant spice sector is poised to take centre stage this year as it prepares to host the International Pepper Community’s Annual International Conference 2024.
-
-The prestigious event not only provides a platform to showcase Sri Lanka’s rich variety of spices but also promises to attract a surge of international visitors, boosting the country’s tourism revenue and supporting stakeholders in the tourism industry.
-
-The Cabinet of Ministers at its meeting on Monday approved the proposal presented by the Agriculture and Plantation Industries Minister to host the International Conference this year in Colombo.
-
-The conference aims to facilitate agreements among member countries on various aspects, including exchanging technical and economic research results related to pepper production, developing and promoting programs for traditional and new markets, and enhancing cooperation in reducing tariff and non-tariff barriers in international trade.
-
-...
-
-[Data](articles/88c26fcc.json)
-
-[Extended Data](ext_articles/88c26fcc.ext.json)
 
 ---

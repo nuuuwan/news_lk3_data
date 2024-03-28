@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 18:09:53**
+As of **2024-03-28 18:21:22**
 
 ## Newspaper Stats
 
-*Scraped **15,749** Articles*
+*Scraped **15,751** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,59 @@ islandlk | 868
 adalk | 1,339
 adaderanalk | 1,891
 tamilmirrorlk | 1,891
-virakesarilk | 2,227
+virakesarilk | 2,228
 dailymirrorlk | 2,431
-adaderanasinhalalk | 2,529
+adaderanasinhalalk | 2,530
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,745 (100.0%) of 15,749 articles have been extended.
+15,749 (100.0%) of 15,751 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### පෙත්සම සලකා බැලීමෙන් තවත් විනිසුරුවරයෙකු ඉවත් වෙයි
+### වෛරය සිව් පුද්ගල ඝාතනයකින් කෙළවර වෙයි
+
+*2024-03-28 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195040) · `si`
+
+අමෙරිකාවේ ඉලිනෝයි ප්‍රාන්තයේ රොක්ෆර්ඩ් ප්‍රදේශයේ සිදුකළ පිහි ඇනුමකින් සිව් දෙනෙක් මියගොස් තවත් 5 දෙනෙක් තුවාල ලබා ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+බදාදා නිවසකට බලහත්කාරයෙන් ඇතුළු වීමේ සිද්ධියකින් අනතුරුව මෙම පිහි ඇනුම කර තිබුණි.
+
+එහිදී මියගොස් ඇත්තේ වයස අවුරුදු 15ක ගැහැණු ළමයෙක්, 63 හැවිරිදි කාන්තාවක්, 49 හැවිරිදි පුද්ගලයෙක් සහ 22 හැවිරිදි තරුණයෙකි.
+
+◼️
+
+[Data](articles/3903370b.json)
+
+---
+
+### Another judge leaves by considering the petition
 
 *2024-03-28 17:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195039) · `si`
 
-අභියාචනාධිකරණ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න මහතා ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරයෙකු වශයෙන් පත් කිරීම සඳහා ජනාධිපතිවරයා විසින්  ඉදිරිපත් කරනු ලැබූ නිර්දේශය ප්‍රතික්‍ෂේප කිරීමට ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාව ගත් තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා නීතිඥ බී. පී. එස්. එම්. පතිරත්න මහතා ගොනුකර ඇති පෙත්සම සලකා බලන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලේ තවත් විනිසුරුවරයෙකු අද (28) ඉවත් විය.
+Court of Appeal, Judge Nissanka Bandula Karunaratne to appoint the recommendation of the President as a Supreme Court judge. P. S. M. Another judge from the Supreme Court Bench, who has been tabled in the petition, has been resigned today (28).
 
-මෙම පෙත්සම අද එස්. තුරෙයිරාජා, ඒ. එච්. එම්. ඩී. නවාස් සහ අර්ජුන ඔබේසේකර යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+This petition is today. Turairaja, A. H. M. D. The three-member judges with Nawaz and Arjuna Oyajuna Obeysekere.
 
-එම අවස්ථාවේදී ත්‍රිපුද්ගල විනිසුරු මඩුල්ලේ සාමාජික විනිසුරු අර්ජුන ඔබේසේකර මහතා සඳහන් කළේ අදාළ පෙත්සම සලකා බැලීමේ කටයුතුවලින් පෞද්ගලික හේතූන් මත තමා ඉවත් වන බවයි.
+The three-member panel of judges Judge Arjuna Obeysekere said that the petition would be withdrawn due to personal reasons.
 
-මෙම පෙත්සම ඉකුත්දා සලකා බැලීම සඳහා කැඳවූ අවස්ථාවේදී අගවිනිසුරු ජයන්ත ජයසූරිය මහතාද එය සලකා බැලීමේ කටයුතුවලින් ඉවත්වීමට තීරණය කර තිබුණි.
+Chief Justice Jayantha Jayasuriya was also decided to resign from the activities of the activities of the matter when the petition was taken up recently.
 
-ඒ අනුව මෙම පෙත්සම සලකා බැලීමේ කටයුතුවලින් මේ වන විට විනිසුරුවරු දෙදෙනෙක් ඉවත් වී සිටිති.
+Accordingly, two judges have been withdrawn from the activities of the petition.
+
+Accordingly, the court sentenced to consider this petition in front of another judge's bag.
+
+President's Counsel Faizer Mustapha appeared in the courts at the time of the petitioner, the case was asked to set the date for considering the case as a sudden legal action.
 
 ...
 
 [Data](articles/5fcd4832.json)
+
+[Extended Data](ext_articles/5fcd4832.ext.json)
 
 ---
 
@@ -69,6 +91,26 @@ However, the tourist fled from the hotel while investigations were ongoing.
 ◼️
 
 [Data](articles/2c89718e.json)
+
+[Extended Data](ext_articles/2c89718e.ext.json)
+
+---
+
+### இலங்கை கால்பந்தாட்ட அணி, ஜனாதிபதியை சந்தித்தது
+
+*2024-03-28 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/179925) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் இலங்கை தேசிய கால்பந்தாட்ட அணிக்கும் இடையிலான சந்திப்பு செவ்வாய்க்கிழமை (26) ஜனாதிபதி அலுவலகத்தில்  நடைபெற்றது.
+
+கொழும்பு  குதிரைப் பந்தயத் திடலில் நடைபெற்ற நான்கு நாடுகளுக்கு இடையிலான கால்பந்தாட்டப் போட்டியில் பூட்டானுக்கு எதிராக இலங்கை கால்பந்தாட்ட அணி அபார வெற்றியீட்டியதோடு வெற்றியீட்டிய இலங்கை அணி வீரர்களுக்கு  ஜனாதிபதி வாழ்த்துக்களை தெரிவித்தார்.
+
+அடுத்த வருடம் நடைபெறவுள்ள தெற்காசிய கால்பந்தாட்டப் போட்டியில் (SAFF)  வெற்றிபெறுவதற்கு இலங்கை  கால்பந்தாட்ட அணியை ஊக்குவித்த ஜனாதிபதி, கால்பந்தாட்டத்திற்கு தேவையான உட்கட்டமைப்பு வசதிகளை அபிவிருத்தி செய்வதற்கு தேவையான ஒத்துழைப்பை வழங்குவதாக உறுதியளித்தார்.
+
+கடந்த சில மாதங்களாக இலங்கையில் கால்பந்தாட்டத்தில்  முன்னேற்றம் ஏற்பட்டுள்ள தோடு இலங்கை  கால்பந்தாட்ட சம்மேளனம் (FFSL) தற்போது உலகின் பல்வேறு நாடுகளில்  தொழில்முறை போட்டிகளில் விளையாடும் இலங்கை வீரர்களைக் கொண்டு வலுவான தேசிய அணியை உருவாக்கியுள்ளது.
+
+...
+
+[Data](articles/d86a8b67.json)
 
 ---
 
@@ -91,6 +133,8 @@ Sri Lanka’s cabinet approved the project in November, an investment that Wijes
 ...
 
 [Data](articles/0d026e2e.json)
+
+[Extended Data](ext_articles/0d026e2e.ext.json)
 
 ---
 
@@ -165,6 +209,8 @@ The President's Media Division (PMD) said this initiative, implemented by the Na
 ◼️
 
 [Data](articles/9bf36c2b.json)
+
+[Extended Data](ext_articles/9bf36c2b.ext.json)
 
 ---
 
@@ -2279,51 +2325,5 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/28eee7a9.json)
 
 [Extended Data](ext_articles/28eee7a9.ext.json)
-
----
-
-### Britain stands firm on Sri Lanka travel advisory amidst calls for reform
-
-*2024-03-28 07:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Britain-stands-firm-on-Sri-Lanka-travel-advisory-amidst-calls-for-reform/108-279758) · `en`
-
-Despite growing pressure to reform the travel Advisory on Sri Lanka, Britain on Tuesday said that its travel advice assessments are made by drawing on expert sources of information available to the government and that they 'continue to keep Sri Lanka travel advise under close review.'
-
-“The safety of British people is the main factor when determining our travel advice for all countries, including Sri Lanka. Our advice is designed to help British people make informed decisions about foreign travel and remains under constant review to ensure it reflects our latest assessment of risks when travelling abroad,” Lord Ahmad of Wimbledon Minister of State-Foreign, Commonwealth and Development Office, said in UK Parliament.
-
-He was responding to the question, whether the UK government has any plans to update the travel advice to Sri Lanka to reflect the security situation in that country.
-
-...
-
-[Data](articles/61add69e.json)
-
-[Extended Data](ext_articles/61add69e.ext.json)
-
----
-
-### New method to accept child pornography video and nude photo complaints
-
-*2024-03-28 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195015) · `si`
-
-The National Child Protection Authority (NKA) is launching a new system to report child pornography and nude photos online. Complaints will be submitted via the NKA's website and forwarded to the International Watch Foundation Institute for removal. Legal action will be taken against those involved.
-
-🟩
-
-The National Child Protection Authority says that the National Child Protection Authority (NKA) will introduce a new system to accept children's obscene video and nude photos to the Internet.
-
-Its chairman Senior Lecturer, Udaya Kumara Amarasinghe, said that the complaints will be held today through the website of the National Child Protection Authority.
-
-The complaints from this methodology is directly recorded to the International Watch Foundation Institute.
-
-The Institute will then remove the relevant obscene video and nude photos, said the National Child Protection Authority said.
-
-The International Police will also take legal action and take legal action to investigate complaints and investigating the parties involved.
-
-It is reported that many complaints have been received regarding releases of children and naked photos of children in the recent past.
-
-◼️
-
-[Data](articles/ebb3e291.json)
-
-[Extended Data](ext_articles/ebb3e291.ext.json)
 
 ---

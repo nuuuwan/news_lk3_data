@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 13:03:19**
+As of **2024-03-28 13:17:50**
 
 ## Newspaper Stats
 
-*Scraped **15,697** Articles*
+*Scraped **15,699** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ dailyftlk | 847
 economynextcom | 857
 islandlk | 867
 adalk | 1,335
-adaderanalk | 1,881
+adaderanalk | 1,882
 tamilmirrorlk | 1,887
 virakesarilk | 2,221
 dailymirrorlk | 2,421
-adaderanasinhalalk | 2,515
+adaderanasinhalalk | 2,516
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,695 (100.0%) of 15,697 articles have been extended.
+15,697 (100.0%) of 15,699 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### පෘථිවි භ්‍රමණ වේගය වැඩිවී වේලාව වෙනස් වෙයි
+
+*2024-03-28 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195025) · `si`
+
+ගෝලීය උණුසුම ඉහළයාමත් සමග ධ්‍රැවීය අයිස් තට්ටු වේගයෙන් දියවෙමින් පවතී.
+
+ඝන අයිස් දියවීමත් සමග පෘථිවියේ හරයේ සිදුවන වෙනස්කම් හේතුවෙන් පෘථිවි භ්‍රමණ වේගය ඉහළ ගොස් එමගින් පෘථිවියේ වේලාව වෙනස් කරන බව වාර්තා වෙයි.
+
+මේ අනුව විද්‍යාඥයින් දැනටමත් පුරෝකථනය කරන්නේ තවත් වසර කිහිපයකින් පෘථිවියේ කාලය දිනකට තත්ත්පරය බැගින් අඩු වන බවය.
+
+එය තත්ත්පරයක සුළු කාලයක් පමණක් වුවත් පරිගණක භාවිතයේදී වැඩි බලපෑමක් එල්ල වනු ඇති බවද ඔවුන්ගේ මතයය.
+
+◼️
+
+[Data](articles/8080d3d4.json)
+
+---
+
+### President promises to improve football infrastructure in Sri Lanka
+
+*2024-03-28 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98258/president-promises-to-improve-football-infrastructure-in-sri-lanka) · `en`
+
+President Ranil Wickremesinghe has met with the Sri Lankan national football team at the Presidential Secretariat and commended the efforts in their recent triumph over Bhutan, marking the first win in a decade.
+
+The President expressed his support for the football team’s aspiration to claim the South Asian Championship (SAFF) next year, pledging his commitment to advancing football infrastructure in the near future.
+
+Popularity of football has surged in Sri Lanka in recent months, with the Football Federation of Sri Lanka (FFSL) assembling a formidable national team comprising talented players of Sri Lankan descent from various professional leagues worldwide. Sri Lanka’s national team secured victory against Bhutan in the recently concluded FIFA Series 2024.
+
+During the visit, FFSL President Jaswar Umar, Head Coach Andy Morrison, and the entire national team had the opportunity to meet with the President and pose for photographs.
+
+...
+
+[Data](articles/854079da.json)
+
+---
 
 ### “Julian should not be sentenced to death”
 
@@ -181,6 +217,8 @@ In his complaint, Senasinghe alleged that the purchase was made despite the know
 ...
 
 [Data](articles/413fee07.json)
+
+[Extended Data](ext_articles/413fee07.ext.json)
 
 ---
 
@@ -434,7 +472,7 @@ The two students who went on the motorcycle will appear for the GCE Ordinary Lev
 
 *2024-03-28 10:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Bribery-Commission-files-legal-action-against-former-CB-Governor-and-four-others/108-279768) · `en`
 
-Colombo, March 28 (Daily Mirror) - The Commission to Investigate Allegations of Bribery or Corruption has taken legal action against former Governor of the Central Bank Ajith Nivard Cabraal and four others for causing a loss of Rs. 1,843.3 million loss to the government through the purchase of Treasury Bills.
+Colombo, March 28 (Daily Mirror) - The Commission to Investigate Allegations of Bribery or Corruption has taken legal action against former Governor of the Central Bank Ajith Nivard Cabraal and four others for causing a loss of Rs. 1,843.3 million to the government through the purchase of Treasury Bills.
 
 The Commission said it has filed a case before the Colombo High Court yesterday following investigations into a complaint lodged by former Parliamentarian Sujeewa Senasinghe.
 
@@ -1079,6 +1117,8 @@ At a press conference on Wednesday, Maryland State Police identified Alejandro H
 ...
 
 [Data](articles/a13257df.json)
+
+[Extended Data](ext_articles/a13257df.ext.json)
 
 ---
 
@@ -2231,53 +2271,5 @@ Pineapple and mango are both rich sources of Vitamin C. Vitamin C is essential f
 [Data](articles/f8eaf170.json)
 
 [Extended Data](ext_articles/f8eaf170.ext.json)
-
----
-
-### Powering the Future: Innovations driving the Electric Vehicle revolution
-
-*2024-03-27 22:23:00* · [`islandlk`](http://island.lk/powering-the-future-innovations-driving-the-electric-vehicle-revolution/) · `en`
-
-New Energy Vehicles (NEV) are no longer a futuristic vision; they’re rapidly transforming the automotive landscape. This shift wouldn’t be possible without ground-breaking innovations that have addressed key challenges and made NEVs more efficient, safer, and sustainable. Leading the charge in these advancements is BYD, a company proving that electric mobility is not just feasible but the future.
-
-Lithium Iron Phosphate (LFP) Batteries: A Safer, Longer-Lasting Power Source
-
-One of the biggest hurdles EVs faced was battery technology. Traditional Lithium-ion (Li-ion) batteries, while effective, carried concerns about potential thermal runaway (overheating). BYD emerged as a pioneer in LFP batteries, a Li-ion variant offering several advantages. LFP batteries boast superior thermal and chemical stability, significantly reducing the risk of fire. Additionally, they offer a longer lifespan and better tolerance for extreme temperatures, making them ideal for diverse climates.
-
-...
-
-[Data](articles/ff097722.json)
-
-[Extended Data](ext_articles/ff097722.ext.json)
-
----
-
-### Dhananjaya, who advanced in the ranking by scoring 2 centuries in the Silhead Test
-
-*2024-03-27 22:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179848) · `ta`
-
-Dhananjaya scored 2 centuries in the Silhead Test, advancing in the ICC Test rankings. Tanjaya de Silva jumped 15 places to 14th, while Kamindu Mendis is 64th. Dimuth Karunaratne remains 7th. Tanjaya and Kamindu were the third pair to score centuries in both innings in Test cricket history. Kasun Rajitha improved in Test bowling rankings, jumping 6 places to 38th. Sri Lanka moved up three places in the ICC World Test championship teams, winning against Pakistan and Bangladesh.
-
-🟩
-
-Sri Lanka captain Tanjaya de Silva and fellow player Kamindu Mendis have advanced to the ICC Test rankings in the first match of the ICC World Test Championships in Silhead against Bangladesh.
-
-Tananjaya de Silva has jumped 15 places and has reached the top 14th place in his cricket career.
-
-Meanwhile, Kamindu Mendis is ranked 64th in the ICC Test rankings.
-
-Dimuth Karunaratne, who scored half a century in the second innings in the same Test match, continues to be 7th in the rankings.
-
-Tanjaya de Silva and Kamindu Mendis were the third pair of centuries in two innings in Test cricket history by scoring centuries and centuries in the Chilhead Test cricket match against Banglaghadesh.
-
-Australia's Ian Zeppel - Grec Zeppel pair in Wellington, Pakistan's Misbah -ul -Haq -Azar Ali pair in Pakistan's Misba -ul -Haq -Azar Ali Abu Dabi in 2014 against Australia's Test against Australia.
-
-Kasun Rajitha and Vishwa Fernando have also improved significantly in the Test bowling rankings.
-
-...
-
-[Data](articles/e65e0a02.json)
-
-[Extended Data](ext_articles/e65e0a02.ext.json)
 
 ---

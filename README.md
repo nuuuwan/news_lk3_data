@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 14:18:18**
+As of **2024-03-28 14:33:37**
 
 ## Newspaper Stats
 
-*Scraped **15,707** Articles*
+*Scraped **15,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 194
 newsfirstlk | 363
 dailyftlk | 848
 economynextcom | 857
-islandlk | 867
+islandlk | 868
 adalk | 1,336
 adaderanalk | 1,884
-tamilmirrorlk | 1,887
+tamilmirrorlk | 1,889
 virakesarilk | 2,222
 dailymirrorlk | 2,421
 adaderanasinhalalk | 2,518
@@ -26,11 +26,39 @@ adaderanasinhalalk | 2,518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,706 (100.0%) of 15,707 articles have been extended.
+15,707 (100.0%) of 15,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### நீதிமன்றத்துக்கு அழைத்து வரப்பட்ட கெஹலிய
+
+*2024-03-28 14:14:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்துக்கு-அழைத்து-வரப்பட்ட-கெஹலிய/175-335310) · `ta`
+
+விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்ல, இன்று (28) மாளிகாகந்த நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/fe54eec5.json)
+
+---
+
+### பெண்ணுடன் இருந்த பிக்கு கைது
+
+*2024-03-28 13:58:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பெண்ணுடன்-இருந்த-பிக்கு-கைது/76-335309) · `ta`
+
+தியத்தலாவ பிரதேசத்தில் உள்ள விடுதி ஒன்றில் பெண்ணொருவருடன்  இருந்த பிக்குவே  தியத்தலாவ பொலிஸ் குழுவினால் விசாரணைக்காக கைது செய்யப்பட்டுள்ளார்.
+
+அந்த பிக்கு, பொரலந்த பிரதேசத்தில் உள்ள ஒரு விகாரையைச் சேர்ந்த 45 வயதானவர் என்றும்,  அந்தப் பெண் அதே பகுதியில் வசிக்கும் திருமணமான நாற்பது வயதான பெண்ணாவர்.
+
+பெண்ணொருவர் மாற்றுப்பெயருடன் விடுதிக்கு வந்துள்ளதாக கிடைத்த இரகசிய தகவலையடுத்து இந்த சுற்றிவளைப்பு நடத்தப்பட்டு இருவரும் கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/85bda456.json)
+
+---
 
 ### Bribery Commission sues Cabraal
 
@@ -351,6 +379,8 @@ In his complaint, Senasinghe alleged that the purchase was made despite the know
 ...
 
 [Data](articles/824b1efc.json)
+
+[Extended Data](ext_articles/824b1efc.ext.json)
 
 ---
 
@@ -2251,45 +2281,5 @@ Sri Lanka’s education system has been yearning for reforms following the mille
 [Data](articles/4b41cf30.json)
 
 [Extended Data](ext_articles/4b41cf30.ext.json)
-
----
-
-### Aswesuma: Enhancing results by reducing indicators
-
-*2024-03-28 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Aswesuma-Enhancing-results-by-reducing-indicators/172-279739) · `en`
-
-In contrast to the eligibility criteria used by Samurdhi, the Aswesuma criteria reflect greater sensitivity to the multiple interlinked deprivations that constitute and contribute to poverty
-
-Aswesuma is the most recent welfare benefits programme introduced by the government of Sri Lanka. It replaces the Samurdhi scheme and is the result of a necessary condition to be fulfilled by the government of Sri Lanka in the loan agreement with the International Monetary Fund (IMF). Aswesuma provides targeted assistance to vulnerable groups by reducing poverty; its goal is to enhance social welfare
-
-...
-
-[Data](articles/8c737c20.json)
-
-[Extended Data](ext_articles/8c737c20.ext.json)
-
----
-
-### Baltimore bridge crash causes supply chain concerns
-
-*2024-03-28 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Baltimore-bridge-crash-causes-supply-chain-concerns/107-279753) · `en`
-
-BBC: Concerns have been raised of a “ripple effect” on global supply chains after a container ship, that was heading towards Sri Lanka, crashed into a bridge in the US city of Baltimore.
-
-The ship, named the Dali, hit a support column of the Francis Scott Key Bridge in the early hours of Tuesday morning, causing it to collapse.
-
-The bridge spanned the entrance to the Port of Baltimore, the busiest port in the US for car exports and the ninth-busiest overall.
-
-Officials have said that maritime traffic through the port - which last year amounted to more than 47 million tonnes of foreign cargo - will be suspended “until further notice”.
-
-The suspension could have a “significant ripple effect on global supply chains”, Marco Forgione, Director General at The Institute of Export and International Trade, told the BBC.
-
-More than 750,000 cars and vehicles passed through Baltimore in the last year, he told Radio 4’s The World Tonight.
-
-...
-
-[Data](articles/dc38461b.json)
-
-[Extended Data](ext_articles/dc38461b.ext.json)
 
 ---

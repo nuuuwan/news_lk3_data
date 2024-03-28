@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 06:54:12**
+As of **2024-03-28 07:16:59**
 
 ## Newspaper Stats
 
-*Scraped **15,627** Articles*
+*Scraped **15,629** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 849
 islandlk | 867
 adalk | 1,333
 adaderanalk | 1,871
-tamilmirrorlk | 1,873
+tamilmirrorlk | 1,874
 virakesarilk | 2,213
-dailymirrorlk | 2,408
+dailymirrorlk | 2,409
 adaderanasinhalalk | 2,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,613 (99.9%) of 15,627 articles have been extended.
+15,621 (99.9%) of 15,629 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### MPs rally for snap general election amidst President’s push for Presidential poll
+
+*2024-03-28 06:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MPs-rally-for-snap-general-election-amidst-Presidents-push-for-Presidential-poll/108-279757) · `en`
+
+Colombo, March 28 (Daily Mirror) - Following the exclusive revelation by the Daily Mirror on Tuesday that the presidential election will be conducted in the first week of October, MPs from across the divide - except those from the National People’s Power (NPP) - have ramped up efforts to prevail upon President Ranil Wickremesinghe to declare a snap general election as early as possible.
+
+Earlier, Basil Rajapaksa of the Sri Lanka Podujana Peramuna (SLPP), requested the President in his one on one meeting that the parliamentary election should precede the presidential election. In his calculation, a parliamentary election at this juncture is more advantageous to his party than a presidential election which is slated to be conducted before October 17.
+
+However, as reported by the Daily Mirror, the President affirmed to the Cabinet of Ministers that he would not call for any snap general election ahead of the presidential election which is on schedule in terms of the Constitution.
+
+...
+
+[Data](articles/8099f737.json)
+
+---
 
 ### SLPP members barred from expressing personal views on Presidential candidacy
 
@@ -333,6 +349,22 @@ He came to Sri Lanka for a vacation in December 2004 and stayed at a tourist hot
 [Data](articles/7ee4f850.json)
 
 [Extended Data](ext_articles/7ee4f850.ext.json)
+
+---
+
+### ’இலங்கையின் அபிவிருத்திகளுக்கு ஆதரவு’
+
+*2024-03-28 02:55:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-அபிவிருத்திகளுக்கு-ஆதரவு/175-335288) · `ta`
+
+இலங்கையின் சுயாதீனத்தன்மை, ஒருமைப்பாடு, இறைமையின் பாதுகாப்பிற்காக சீனா எப்போதும் முன்னிற்கும் என சீன ஜனாதிபதி ஷி ஜின்பிங் தெரிவித்துள்ளார்.
+
+சீனாவிற்கு விஜயம் செய்துள்ள பிரதமர் தினேஷ் குணவர்தனவை பெய்ஜிங்கில் நேற்று சந்தித்த போதே சீன ஜனாதிபதி இவ்வாறு  தெரிவித்துள்ளார்.
+
+ஒரு நாட்டின் உள்விவகாரங்களில் தலையிடாமல் நட்புறவு, அமைதி, பரஸ்பர மரியாதை உள்ளிட்ட கொள்கைகளின் கீழ் தொடர்ந்து செயற்பட இரு நாடுகளுக்கும் இடையில் இணக்கம் காணப்பட்டதாக பிரதமரின் ஊடகப் பிரிவு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/9122eb04.json)
 
 ---
 
@@ -712,6 +744,8 @@ With all these fears, the relief and the promise are cancers occur less frequent
 
 [Data](articles/e09a9940.json)
 
+[Extended Data](ext_articles/e09a9940.ext.json)
+
 ---
 
 ### Tropical Hydration Smoothie
@@ -734,6 +768,8 @@ Pineapple and mango are both rich sources of Vitamin C. Vitamin C is essential f
 
 [Data](articles/f8eaf170.json)
 
+[Extended Data](ext_articles/f8eaf170.ext.json)
+
 ---
 
 ### Powering the Future: Innovations driving the Electric Vehicle revolution
@@ -749,6 +785,8 @@ One of the biggest hurdles EVs faced was battery technology. Traditional Lithium
 ...
 
 [Data](articles/ff097722.json)
+
+[Extended Data](ext_articles/ff097722.ext.json)
 
 ---
 
@@ -800,6 +838,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/03e4d084.json)
 
+[Extended Data](ext_articles/03e4d084.ext.json)
+
 ---
 
 ### Gulf Air Sri Lanka felicitates its outstanding Passenger and Cargo agents
@@ -817,6 +857,8 @@ The top performing Passenger agents in order of highest achievement were present
 ...
 
 [Data](articles/49548cdc.json)
+
+[Extended Data](ext_articles/49548cdc.ext.json)
 
 ---
 
@@ -856,6 +898,8 @@ The majority shareholder of the said company is Rusi Pestonjee who owns a 98.73%
 
 [Data](articles/fd7294f0.json)
 
+[Extended Data](ext_articles/fd7294f0.ext.json)
+
 ---
 
 ### Happy trends continue to buoy bourse
@@ -869,6 +913,8 @@ Amid those developments the turnover stood at Rs 1.8 billion with two crossings.
 ...
 
 [Data](articles/887692cd.json)
+
+[Extended Data](ext_articles/887692cd.ext.json)
 
 ---
 
@@ -2161,53 +2207,5 @@ Speaking of Question-Political Violence, our Prime Minister (Canada) has accused
 [Data](articles/80c65c59.json)
 
 [Extended Data](ext_articles/80c65c59.ext.json)
-
----
-
-### Kalmunai North Divisional Secretariat Affairs
-
-*2024-03-27 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/179824) · `ta`
-
-Civilians in Kalmunai North protest against administrative repression. MP Tavarasa Kalaiyarasan and others join the struggle. Despite being upgraded to a separate Divisional Secretariat in 1988, continuous repression persists. The peaceful protest continues, with demands for the rights of the Divisional Secretariat to be upheld.
-
-🟩
-
-The civilians are carrying out a vigilante protest today (27) for the 3rd day against the continuous administrative repression of the Kalmunai North Divisional Secretariat.
-
-In front of the Divisional Secretariat on Monday (25), the public gathered together in a peaceful way, carrying out various slogans.
-
-The 3rd day, the 3rd day, is still continuing the struggle with various slogans.
-
-Tavarasa Kalaiyarasan, Member of Parliament of the Ampara District and Karadivu Pradeshiya Sabha, Krisnapillai Jayasiril, arrived today to strengthen the struggle.
-
-They also point out to the media that the Western Divisional Secretariat, which has been the Assistant Government Agent Division in the past, has been upgraded to a separate Divisional Secretariat in 1988 and has been functioning as a separate Divisional Secretariat for the past 30 years.
-
-...
-
-[Data](articles/17bab08d.json)
-
-[Extended Data](ext_articles/17bab08d.ext.json)
-
----
-
-### Warning issued for severe lightning in several areas
-
-*2024-03-27 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98239/warning-issued-for-severe-lightning-in-several-areas) · `en`
-
-The Meteorology Department has issued an advisory for severe lightning for several provinces and districts today (27).
-
-Thundershowers accompanied by severe lightning are likely to occur at several places in Western, Central, Sabaragamuwa, Uva and North-western provinces and in Anuradhapura, Mannar, Galle and Matara districts, it said.
-
-There may be temporary localized strong winds during thundershowers. The general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
-
-The advisory states that the risk level is “High” in the aforementioned areas and urges the public to avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms.
-
-The general public is further requested to avoid using wired telephones and connected electric appliances during thunderstorms and to also avoid using open vehicles, such as bicycles, tractors, boats etc. and to beware of fallen trees and power lines.
-
-...
-
-[Data](articles/19a204a4.json)
-
-[Extended Data](ext_articles/19a204a4.ext.json)
 
 ---

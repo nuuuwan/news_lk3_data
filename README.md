@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 08:33:38**
+As of **2024-03-28 08:51:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,507
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,640 (100.0%) of 15,643 articles have been extended.
+15,643 (100.0%) of 15,643 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The Sri Lankan Prime Minister had called on President Xi Jinping on Wednesday (M
 ...
 
 [Data](articles/0a88f360.json)
+
+[Extended Data](ext_articles/0a88f360.ext.json)
 
 ---
 
@@ -546,21 +548,27 @@ He came to Sri Lanka for a vacation in December 2004 and stayed at a tourist hot
 
 ---
 
-### ’எதிர்க்கட்சிகள் பெய் குற்றச்சாட்டுகளை முன்வைக்கின்றன’
+### Opposition parties make allegations
 
 *2024-03-28 03:12:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சிகள்-பெய்-குற்றச்சாட்டுகளை-முன்வைக்கின்றன/175-335290) · `ta`
 
-பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டுள்ள தேர்தல் திருத்தச் சட்டமூலங்களால் எதிர்வரும் தேர்தல்கள் பிற்போடப்படும் என எதிர்க்கட்சிகள் முன்வைக்கும் குற்றச்சாட்டை அரசாங்கம் முழுமையாக நிராகரிக்கின்றது. அரசியலமைப்பின்படி உரிய நேரத்தில் தேர்தல் நடைபெறும் என்று ஐக்கிய தேசியக் கட்சியின் தவிசாளரும் பாராளுமன்ற உறுப்பினருமான வஜிர அபேவர்தன தெரிவித்தார்.
+The government denies opposition allegations in Election Amendment bills. UNP and MP Vajira Abeywardena affirm timely elections. President Ranil Wickremesinghe calls for national unity on policies, emphasizing the implementation of national policies in Parliament and the passing of powerful financial control laws to prevent corruption.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+🟩
 
-நாம் சண்டை பிடித்துக்கொண்டது போதும். நாம் அனைவரும் ஒன்றிணைந்து கருத்து வேறுபாடுகளை களைந்து தேசியக் கொள்கைகளுக்காக ஒன்றுபட வேண்டும் என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க பரிந்துரையொன்றை முன்வைத்தார்.
+The government completely rejects the allegation that the opposition parties put in the upcoming elections by the Election Amendment bills presented in Parliament. United National Party (UNP) and Member of Parliament Vajira Abeywardena said that the election will be held in a timely manner.
 
-இப்போதும் அது பாராளுமன்றத்தில் நடைமுறைப்படுத்தப்படுகிறது. ஜனாதிபதியால் முன்வைக்கப்பட்ட சட்ட மூலங்களில் தேசிய கொள்கை குறிப்பிடப்பட்டுள்ளது. ஊழல் மற்றும் முறைகேடுகளைத் தடுப்பதற்காக ஆசியாவிலேயே மிகவும் சக்திவாய்ந்த நிதிக் கட்டுப்பாட்டு சட்ட மூலங்கள் பாராளுமன்றத்தில் நிறைவேற்றப்பட்டு சட்டமாக்கப்பட்டுள்ளன என்றார். (a)
+He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
+
+Enough to get caught up in the fight. President Ranil Wickremesinghe made a recommendation that we should all unite and unite for national policies.
+
+It is still implemented in Parliament. The national policy is mentioned in the legal sources presented by the president. He said that the most powerful financial control legal sources in Asia were passed in Parliament to prevent corruption and irregularities.. (A)
 
 ◼️
 
 [Data](articles/091ae306.json)
+
+[Extended Data](ext_articles/091ae306.ext.json)
 
 ---
 
@@ -1459,6 +1467,8 @@ Upon discovering the brothels are being operated as spas and wellness centers, t
 ...
 
 [Data](articles/c612b913.json)
+
+[Extended Data](ext_articles/c612b913.ext.json)
 
 ---
 

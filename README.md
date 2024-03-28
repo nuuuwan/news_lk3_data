@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 09:17:59**
+As of **2024-03-28 09:33:29**
 
 ## Newspaper Stats
 
-*Scraped **15,650** Articles*
+*Scraped **15,652** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,62 @@ adalk | 1,334
 adaderanalk | 1,875
 tamilmirrorlk | 1,877
 virakesarilk | 2,213
-dailymirrorlk | 2,413
-adaderanasinhalalk | 2,510
+dailymirrorlk | 2,414
+adaderanasinhalalk | 2,511
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,648 (100.0%) of 15,650 articles have been extended.
+15,650 (100.0%) of 15,652 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### 2 மணிக்குப் பின் காலநிலையில் மாற்றம்
+### පුද්ගලයෙකුගේ පෙණහල්ලේ දතක්
+
+*2024-03-28 09:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195019) · `si`
+
+බලන්ගොඩ මූලික රෝහලේ මෘත ශරීරාගාරයේ පැවැති පශ්චාත් මරණ පරීක්ෂණයකදී 59 හැවිරිදි පුද්ගලයකුගේ පෙණහල්ලේ තිබී දතක් හමුවූ පුවතක් ඊයේ (27) වාර්තා විය.
+
+මෙම පුද්ගලයා කලක සිට නිව්මෝනියා සහ වකුගඩු රෝගී තත්ත්වයන්ගෙන් පෙළෙමින් සිට තිබුණි.
+
+බලන්ගොඩ මූලික රෝහලේ අධිකරණ වෛද්‍ය නිලධාරිනී ඩී. චේති සත්‍ය විසින් පශ්චාත් මරණ පරීක්ෂණය සිදුකළ අවස්ථාවේදී දතක් පෙණහල්ලේ තිබී හමුවූ බව බලන්ගොඩ හදිසි මරණ පරීක්ෂක පත්මේන්ද්‍ර විජේතිලක ප්‍රකාශ කළේය.
+
+මෙසේ මියගොස් ඇත්තේ බලන්ගොඩ පින්නවල පොලිස් බල ප්‍රදේශයේ වලේබොඩ පදිංචි එස්. කරුණාරත්න නමැති අයෙකි.
+
+මෙම පුද්ගලයා මත්පැන් පානයට ඇබ්බැහි වූවෙකු බවත් නිව්මෝනියාව උත්සන්නවීම හේතුවෙන් මරණය සිදුවී ඇති බවත් වාර්තා වී තිබුණි.
+
+වැඩිදුරටත් වාර්තා වෙන්නේ මීට වසර කිහිපයකට පෙර ඔහුගේ මුඛයේ දතක් ගැලවී ගොස් පෙණහැල්ලේ සිරවී ඇති බවට සැක කෙරෙන බවය.
+
+◼️
+
+[Data](articles/f840c785.json)
+
+---
+
+### Change in climate after 2 o'clock
 
 *2024-03-28 08:48:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-மணிக்குப்-பின்-காலநிலையில்-மாற்றம்/175-335291) · `ta`
 
-மேல், தென், சப்ரகமுவ, மத்திய, ஊவா மற்றும் வடமேல் மாகாணங்களில் இன்று (28) பிற்பகல் 2.00 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+"Rain or thunderstorms expected in Western, South, Sabaragamuwa, Central, Uva, and North Western Provinces after 2 pm today. Heavy rains up to 75mm in some areas. Snow in Central, Sabaragamuwa, Uva, Western Provinces, Galle, and Matara districts. Public advised to prepare for heavy winds and lightning."
 
-மேற்கு, தெற்கு மற்றும் சப்ரகமுவ மாகாணங்களில் சில இடங்களில் 75 மில்லி மீற்றருக்கும் அதிகளவான பலத்த மழை பெய்யக்கூடும் எனவும் தெரிவித்துள்ளது.
+🟩
 
-மத்திய, சப்ரகமுவ, ஊவா மற்றும் மேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை எதிர்பார்க்கப்படுகிறது.
+The Department of Meteorology said that rain or thunderstorms will occur in the Western, South, Sabaragamuwa, Central, Central, Uva and North Western Provinces after 2.00 pm today.
 
-இடியுடன் கூடிய மழையுடன், தற்காலிக பலத்த காற்று மற்றும் மின்னலினால் ஏற்படக்கூடிய ஆபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை எடுக்குமாறும் வளிமண்டலவியல் திணைக்களம், பொது மக்களிடம் கோரியுள்ளது. R
+Heavy rains are expected to be 75 millimeters in some places in the Western, South and Sabaragamuwa provinces.
+
+In the morning, the snow is expected in some places in the Central, Sabaragamuwa, Uva and Western Provinces and Galle and Matara districts.
+
+The Department of Meteorology has requested the general public to take necessary steps to reduce the dangers of temporary heavy winds and lightning with thunderstorms.. Remble
 
 ◼️
 
 [Data](articles/3ed0813b.json)
+
+[Extended Data](ext_articles/3ed0813b.ext.json)
 
 ---
 
@@ -736,6 +764,8 @@ It is not the country per se, but the politicians and the people who are wrong. 
 
 [Data](articles/ba6e2d34.json)
 
+[Extended Data](ext_articles/ba6e2d34.ext.json)
+
 ---
 
 ### Exchange support for Sri Lanka's developments
@@ -981,6 +1011,28 @@ Aswesuma is the most recent welfare benefits programme introduced by the governm
 [Data](articles/8c737c20.json)
 
 [Extended Data](ext_articles/8c737c20.ext.json)
+
+---
+
+### Baltimore bridge crash causes supply chain concerns
+
+*2024-03-28 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Baltimore-bridge-crash-causes-supply-chain-concerns/107-279753) · `en`
+
+BBC: Concerns have been raised of a “ripple effect” on global supply chains after a container ship, that was heading towards Sri Lanka, crashed into a bridge in the US city of Baltimore.
+
+The ship, named the Dali, hit a support column of the Francis Scott Key Bridge in the early hours of Tuesday morning, causing it to collapse.
+
+The bridge spanned the entrance to the Port of Baltimore, the busiest port in the US for car exports and the ninth-busiest overall.
+
+Officials have said that maritime traffic through the port - which last year amounted to more than 47 million tonnes of foreign cargo - will be suspended “until further notice”.
+
+The suspension could have a “significant ripple effect on global supply chains”, Marco Forgione, Director General at The Institute of Export and International Trade, told the BBC.
+
+More than 750,000 cars and vehicles passed through Baltimore in the last year, he told Radio 4’s The World Tonight.
+
+...
+
+[Data](articles/dc38461b.json)
 
 ---
 
@@ -2129,61 +2181,5 @@ Also, the SLPP appointed its disciplinary   committee and arbitration committe
 [Data](articles/968bf972.json)
 
 [Extended Data](ext_articles/968bf972.ext.json)
-
----
-
-### Four school children drowned
-
-*2024-03-27 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195005) · `si`
-
-Four schoolgirls drowned in Alawwa; a group of five students involved.
-
-🟩
-
-Four schoolgirls were drowned in Alawwa area.
-
-Police Media Spokesperson DIG's DIG'sary, lawyer, said Nihal Thaluda said that a group of five students had been involved in the accident.
-
-The victims were a group of students in a school in a school in Polgahawela area.
-
-◼️
-
-[Data](articles/c2a761a4.json)
-
-[Extended Data](ext_articles/c2a761a4.ext.json)
-
----
-
-### The families of the 4 main suspects of the Russian attack carry the families of families
-
-*2024-03-27 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195004) · `si`
-
-The Russian attack, considered the worst in 20 years, resulted in 139 deaths and 189 injuries. The 8th suspect, from Central Asian Kyrgyzstan, was remanded yesterday. The US and France blame ISIS. Despite President Putin's claim, Russian authorities say four suspects confessed. The 8th suspect showed no physical injuries.
-
-🟩
-
-The 8th suspect of the Troops of the Troops of Sri Lanka, the terrorist attack was remanded yesterday.
-
-Foreign media reports that 139 people were killed and 189 people were injured in the attack, who was considered the worst attack on Russia in two decades.
-
-The terrorist attack consolidating Russian power for the fifth time of President Vladimir Putin, this terrorist attack is also considered a major challenge to him.
-
-The United States and France have stated that the attack was carried out by the ISIS alliance.
-
-Despite the President of Poutin, this is a problem with Islamic extremists, but he said he was the case.
-
-The Russian authorities states that four directly involved in the attack were confessed to the attack.
-
-It appeared that the suspects were seriously tormented in the court.
-
-However, there was no physical injuries to the 8th suspect he was brought to court yesterday.
-
-The Russian Human Rights Commissioner has expressed his views on this regarding the law should be complied with the law.
-
-...
-
-[Data](articles/1e79c3d3.json)
-
-[Extended Data](ext_articles/1e79c3d3.ext.json)
 
 ---

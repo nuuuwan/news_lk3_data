@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 07:16:59**
+As of **2024-03-28 07:32:42**
 
 ## Newspaper Stats
 
-*Scraped **15,629** Articles*
+*Scraped **15,633** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 849
 islandlk | 867
 adalk | 1,333
 adaderanalk | 1,871
-tamilmirrorlk | 1,874
+tamilmirrorlk | 1,875
 virakesarilk | 2,213
 dailymirrorlk | 2,409
-adaderanasinhalalk | 2,503
+adaderanasinhalalk | 2,506
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,621 (99.9%) of 15,629 articles have been extended.
+15,628 (100.0%) of 15,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### සමාජ මාධ්‍ය යෙදවුම් හරහා පුද්ගල තොරතුරු ලබාගැනීමේ සිද්ධි ඉහළට
+
+*2024-03-28 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195014) · `si`
+
+උත්සව සමය තුළ ප්‍රසිද්ධ සමාගම්වල සන්නාම භාවිත කරමින් සමාජ මාධ්‍ය යෙදවුම් හරහා පුද්ගලයන්ගේ තොරතුරු ලබාගැනීමේ සිදුවීම් ඉහළ ගොස් ඇති බව ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදය පවසයි.
+
+එහි ජ්‍යෙෂ්ඨ තොරතුරු ආරක්ෂණ ඉංජිනේරු චාරුක ධම්මපොල මහතා සඳහන් කළේ නොමිලේ ත්‍යාග හිමිවන බවට පවසමින් ජංගම දුරකථනවලට කෙටි පණිවුඩ යොමුකරමින් අදාළ දත්ත ලබාගැනීම සිදුවන බවය.
+
+මේ වසරේ ජනවාරි සහ පෙබරවාරි මාසවල පමණක් ඒ සම්බන්ධ පැමිණිලි 200කට අධික සංඛ්‍යාවක් ලැබී ඇති බව ජ්‍යෙෂ්ඨ තොරතුරු ආරක්ෂණ ඉංජිනේරු චාරුක ධම්මපොල මහතා පැවසීය.
+
+◼️
+
+[Data](articles/939ac51c.json)
+
+---
 
 ### MPs rally for snap general election amidst President’s push for Presidential poll
 
@@ -45,6 +61,38 @@ However, as reported by the Daily Mirror, the President affirmed to the Cabinet 
 ...
 
 [Data](articles/8099f737.json)
+
+[Extended Data](ext_articles/8099f737.ext.json)
+
+---
+
+### කතුරකින් ඇන පුද්ගලයෙකු ඝාතනය කරයි
+
+*2024-03-28 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195013) · `si`
+
+කතුරකින් පහරදී පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියක් ග්‍රෑන්ඩ්පාස් ප්‍රදේශයෙන් වාර්තා විය.
+
+◼️
+
+[Data](articles/997f6de6.json)
+
+---
+
+### අද 2න් පසු තද වැසි
+
+*2024-03-28 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195011) · `si`
+
+අද (28) දිනයේ බස්නාහිර, දකුණ, සබරගමුව, මධ්‍යම, ඌව සහ වයඹ පළාත්වල සවස 2න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, දකුණ සහ සබරගමුව පළාත්වල ඇතැම් ස්ථානවලට මි. මී. 75 ට වැඩි තරමක තද වැසි ද ඇතිවිය හැකිය.
+
+මධ්‍යම, සබරගමුව, ඌව සහ බස්නාහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් කාරුණිකව ඉල්ලීමක් ද කරයි.
+
+◼️
+
+[Data](articles/e730c844.json)
 
 ---
 
@@ -352,19 +400,41 @@ He came to Sri Lanka for a vacation in December 2004 and stayed at a tourist hot
 
 ---
 
-### ’இலங்கையின் அபிவிருத்திகளுக்கு ஆதரவு’
+### மிகப் பெரிய மகப்பேற்று வைத்தியசாலை
+
+*2024-03-28 03:02:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிகப்-பெரிய-மகப்பேற்று-வைத்தியசாலை/175-335289) · `ta`
+
+:கல்வி மற்றும் சுகாதாரத் துறைகளை எதிர்காலத்திற்கு ஏற்ற வகையில் நவீனமயப்படுத்தாமல் நாட்டின் எதிர்காலம் குறித்து நம்பிக்கை வைக்க முடியாது எனவும் மூன்றரை தசாப்தங்களுக்கு மேலாக கல்வி மற்றும் சுகாதாரத்திற்காக போதிய மூலதனச் செலவுகள் வழங்கப்படவில்லை என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+தெற்காசிய வலயத்தின் மிகப் பெரிய மகப்பேற்று வைத்தியசாலையாகக் கருதப்படும் காலி கராபிட்டியவில் நிர்மாணிக்கப்பட்ட  ஜேர்மன் – இலங்கை நட்புறவு புதிய பெண்கள் வைத்தியசாலையை மக்களின் பாவனைக்காக நேற்று திறந்துவைத்து உரையாற்றும்போதே ஜனாதிபதி இவ்வாறு குறிப்பிட்டார்.
+
+ஆறு மாடிகளைக் கொண்ட இந்த வைத்தியசாலை 640 படுக்கைகள், 6 அறுவை சிகிச்சை நிலையங்கள், அவசர சிகிச்சை பிரிவுகள், தீவிர சிகிச்சை பிரிவுகள், ஆய்வகங்கள், சிசு தீவிர சிகிச்சை பிரிவுகள், விசேட குழந்தை பிரிவுகள் உள்ளிட்ட அனைத்து நவீன மருத்துவ வசதிகளையும் கொண்டுள்ளன. கழிவுநீரைச் சுத்திகரித்து வெளியேற்றும் பிரிவும் இங்கு அமைக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/8ea4edb6.json)
+
+---
+
+### Exchange support for Sri Lanka's developments
 
 *2024-03-28 02:55:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-அபிவிருத்திகளுக்கு-ஆதரவு/175-335288) · `ta`
 
-இலங்கையின் சுயாதீனத்தன்மை, ஒருமைப்பாடு, இறைமையின் பாதுகாப்பிற்காக சீனா எப்போதும் முன்னிற்கும் என சீன ஜனாதிபதி ஷி ஜின்பிங் தெரிவித்துள்ளார்.
+Chinese President Shi Jinping affirmed China's support for Sri Lanka's independence, integrity, and sovereignty, meeting with Prime Minister Dinesh Gunawardena in Beijing. The meeting emphasized friendship, peace, and mutual respect, with no interference in internal affairs.
 
-சீனாவிற்கு விஜயம் செய்துள்ள பிரதமர் தினேஷ் குணவர்தனவை பெய்ஜிங்கில் நேற்று சந்தித்த போதே சீன ஜனாதிபதி இவ்வாறு  தெரிவித்துள்ளார்.
+🟩
 
-ஒரு நாட்டின் உள்விவகாரங்களில் தலையிடாமல் நட்புறவு, அமைதி, பரஸ்பர மரியாதை உள்ளிட்ட கொள்கைகளின் கீழ் தொடர்ந்து செயற்பட இரு நாடுகளுக்கும் இடையில் இணக்கம் காணப்பட்டதாக பிரதமரின் ஊடகப் பிரிவு தெரிவித்துள்ளது. (a)
+Chinese President Shi Jinping has said that China has always been the forerunner of Sri Lanka's independence, integrity and safety of sovereignty.
+
+The Chinese President made this statement when he met Prime Minister Dinesh Gunawardena, who visited China yesterday in Beijing.
+
+The Prime Minister's Media Unit said that the two countries were compliant with the policies of friendship, peace and mutual respect, not interfering with the internal affairs of a country.. (A)
 
 ◼️
 
 [Data](articles/9122eb04.json)
+
+[Extended Data](ext_articles/9122eb04.ext.json)
 
 ---
 
@@ -2091,121 +2161,5 @@ Assuring continuous support of China to Sri Lanka’s efforts for political and 
 [Data](articles/c013bfdc.json)
 
 [Extended Data](ext_articles/c013bfdc.ext.json)
-
----
-
-### President instructs to reopen arts
-
-*2024-03-27 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194998) · `si`
-
-President Ranil Wickremesinghe visited the John de Silva Memorial Theater and the closed National Art Gallery, instructing officials to reopen national arts with financial support. Despite ongoing renovations, he also directed the Ministry of Culture to enhance the Colombo Sudarshi premises and create a report on the Nelum Pokuna, Museum, and Assistant premises, aiming to elevate Sri Lanka's museum system internationally.
-
-🟩
-
-The President visited the John de Silva Memorial Theater and the closed National Art Gallery premises today (27).
-
-President Ranil Wickremesinghe instructed the officials to take action to open the national arts.
-
-The government is ready to provide the necessary financial provisions.
-
-Although the construction of 2011 has begun, the work of the Theater has not been able to end. The renovation work of the National Art Gallery.
-
-The President also instructed the Secretary to the Ministry to take steps to build a playform of the Colombo Sudarshi premises.
-
-The President told the Secretary to the Ministry of Culture to create a perfect report on the Nelum Pokuna, Museum and Assistant premises.
-
-The President also requested the officials to name an advisory country to approach the museum system in Sri Lanka to the international level.
-
-◼️
-
-[Data](articles/22188cd2.json)
-
-[Extended Data](ext_articles/22188cd2.ext.json)
-
----
-
-### International Drug Abuse Trafficker in Nuwara Eliya
-
-*2024-03-27 16:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194997) · `si`
-
-The Police Special Task Force in Nuwara Eliya arrested an international drug trafficker and his mistress, seizing 9 kg of Ice drug.
-
-🟩
-
-The Police Special Task Force has been arrested by the STF in the Nuwara Eliya area.
-
-He was arrested in Nuwara Eliya with his mistress.
-
-The suspect was in India, the suspect was arrested in India.
-
-The additional 9 Ice drug was arrested by the STF and the number of Ice drug was imported by the suspect.
-
-◼️
-
-[Data](articles/f6892f1e.json)
-
-[Extended Data](ext_articles/f6892f1e.ext.json)
-
----
-
-### Kuwait's decision about 19,620 Sri Lankans
-
-*2024-03-27 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194996) · `si`
-
-Kuwait's Ministry of Internal Affairs has announced a public period from June 17 to September 17 for 19,620 Sri Lankans to leave the country. Those who leave will not be fined and can legally re-enter. Those remaining illegally will face fines for a valid visa. No charges or accusations are expected from police or public. The Sri Lanka Bureau of Foreign Employment encourages awareness.
-
-🟩
-
-The Ministry of Internal Affairs has been introduced to the people of Kuwait to leave the country.
-
-The public period commenced on March 17, and it will work for three months from June 17.
-
-The embassy said that 19,620 Sri Lankans will remain illegal in Kuwait without valid visa.
-
-If a person leaves the country in this time, the opportunity will be excluded without charging fines and legally enter the Kingdom of Kuwait.
-
-In this period, Kuwait has the opportunity to leave Kuwait to the Ministry of Internal Affairs or the people who have been looked after the Ministry of Internal Affairs.
-
-In addition to these allegations, there is no charge or any other accusation of police stations or other complaints against the relevant person or any other accusation of the police or any other accusations of the public.
-
-If a person who is illegally staying in Kuwait continues to stay in Kuwait, the fines presented by Kuwait will provide a valid visas after the fines presented by Kuwait.
-
-...
-
-[Data](articles/c963580a.json)
-
-[Extended Data](ext_articles/c963580a.ext.json)
-
----
-
-### Nationalism in Sri Lanka has failed - I love the Canada community for its diversity
-
-*2024-03-27 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179842) · `ta`
-
-Nationalism in Sri Lanka has failed, with JVP leader Anuragumaratisanayake expressing a desire for the Canada community's diversity. The community blames the current Sri Lankan government for the resurrection Sunday attack, despite three investigations. India's role in political violence is debated, with the Canadian Prime Minister accusing India of assassination. Sri Lanka's stance on international agreements, particularly with the IMF, is complex, highlighting the need for self-reliance. The failure to celebrate diversity in Sri Lanka is contrasted with the Canada community's success.
-
-🟩
-
-JVP leader Anuragumaratisanayake said that nationalism has failed in Sri Lanka and I want to be the Canada community for its diversity.
-
-Sri Lankans in Canada hope they can contribute to change the situation.
-
-2 Do you think that the current government of Sri Lanka used the resurrection Sunday attack to seize power?
-
-Answer: The community believes that this government used this government to seize power.
-
-The community already blames the government.
-
-There have been three separate investigations into the lifeblood of the Sunday attack -In 2018, two police officers have failed to investigate the killing of the terrorist group.
-
-Answer- Yes, you need to find out who is behind the murder of two police officers.
-
-Speaking of Question-Political Violence, our Prime Minister (Canada) has accused India of assassinating a man in Canada.
-
-...
-
-[Data](articles/80c65c59.json)
-
-[Extended Data](ext_articles/80c65c59.ext.json)
 
 ---

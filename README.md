@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 09:52:28**
+As of **2024-03-28 10:03:04**
 
 ## Newspaper Stats
 
-*Scraped **15,654** Articles*
+*Scraped **15,656** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,59 +16,119 @@ dailyftlk | 847
 economynextcom | 849
 islandlk | 867
 adalk | 1,334
-adaderanalk | 1,875
+adaderanalk | 1,876
 tamilmirrorlk | 1,878
 virakesarilk | 2,214
 dailymirrorlk | 2,414
-adaderanasinhalalk | 2,511
+adaderanasinhalalk | 2,512
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,652 (100.0%) of 15,654 articles have been extended.
+15,654 (100.0%) of 15,656 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### இலங்கைக்கான சீனாவின் ஒத்துழைப்பு தொடரும் - பிரதமர் தினேஷிடம் சீன ஜனாதிபதி தெரிவிப்பு !
+### බැල්ටිමෝ ඛේදවාචකය - සිරුරු දෙකක් ගොඩගනී
+
+*2024-03-28 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195020) · `si`
+
+පසුගිය අඟහරුවාදා (26) අමෙරිකාවේ බැල්ටිමෝ ප්‍රදේශයේදී ශ්‍රී ලංකාව බලා එමින් තිබූ නෞකාවක් පාලමක ගැටී සිදුවූ අනතුර හේතුවෙන් අතුරුදන්ව සිටි දෙදෙනෙක්ගේ සිරුරු සහන කණ්ඩායම් විසින් සොයාගෙන තිබේ.
+
+නමුත් ගඟ තුළ තවත් සිරුරු 4ක් ඇති බවට සැලකෙන අතර ඒවා ඉවත් කිරීම අපහසු කාර්යක් බව සහන කණ්ඩායම් පවසයි.
+
+ඊට හේතුවී ඇත්තේ පාලමෙහි යකඩ සහ කොන්ක්‍රීට් ගං පතුලේ විසිරී තිබීම යි.
+
+එබැවින් අතුරුදන්ව සිටින අනෙක් අයගේ සිරුරු සොයාගැනීම කල්ගත විය හැකි බව වාර්තා වෙයි.
+
+නෞකාව පාලමෙහි ගැටීමත් සමගම එය ගඟට කඩා වැටුණු අතර ඒ අවස්ථාවේ පාලමේ නඩත්තු කටයුතු කරමින් සිටි සේවකයින් 8 දෙනෙක් ගඟට වැටී තිබුණි.
+
+ඉන් දෙදෙනෙක් බේරාගෙන රෝහල් ගත කිරීමට සහන සේවකයින් කටයුතු කළේය.
+
+අතුරුදන් ව සිටි 6 දෙනාගෙන් සිව් දෙනෙකුගේ තොරතුරු මේරිලන්ඩ් ප්‍රාන්ත බලධාරීන් විසින් හෙළිදරව් කර ඇත.
+
+මේ වන විට සිරුරු සොයාගෙන ඇත්තේ ඇලෙයැන්ද්‍රෝ හර්නැන්දස් ෆුයෙන්ටස් (35 හැවිරිදි - මෙක්සිකෝව) සහ ඩොර්ලියන් රෝනියල් (26 හැවිදිරි - ග්වාතමාලා) යන දෙදෙනාගේය.
+
+මිගුවෙල් ලුනා (එල් සැල්වදෝරය) සහ මෙනොර් සුවාසෝ (හොන්ඩුරාස්) ලෙස හඳුනාගෙන ඇත. ඔවුන් දෙදෙනා ද අතුරුදන් ය.
+
+◼️
+
+[Data](articles/386a80e5.json)
+
+---
+
+### NCPA to work with UK-based global charity to remove online content of child sexual abuse
+
+*2024-03-28 09:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/98254/ncpa-to-work-with-uk-based-global-charity-to-remove-online-content-of-child-sexual-abuse) · `en`
+
+A new method will be introduced starting Thursday (28) to submit complaints concerning any online records of child sexual abuse, the National Child Protection Authority (NCPA) says.
+
+According to NCPA chairman Senior Lecturer Udayakumara Amarasinghe, the complaints can now be lodged online via the official website of the regulatory government authority responsible for the protection of children.
+
+The complaints received by the NCPA will be directly reported to the UK-based Internet Watch Foundation (IWF), a global charity working to hunt down and remove videos and images of child sexual abuse shared online.
+
+Each report received by the IWF will subsequently be manually assessed by its highly trained analysts and necessary measures will be taken to remove online images and videos of child sexual abuse victims.
+
+...
+
+[Data](articles/f7b36152.json)
+
+---
+
+### China's cooperation to Sri Lanka continues - Chinese President announces Prime Minister Dinesh
 
 *2024-03-28 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179866) · `ta`
 
-இலங்கையின் கடன் மறுசீரமைப்புச் செயற்பாடுகளுக்கு சீனா தொடர்ச்சியாக ஒத்துழைப்பு வழங்குவதுடன் பொருளாதாரத்தை மேம்படுத்தவும் உதவும் என சீன ஜனாதிபதி சீ ஜின்பிங் தெரிவித்துள்ளார்.
+Chinese President Xi Jinping and Prime Minister Dinesh Gunawardena discuss cooperation on Sri Lanka's debt restructuring and economic development. China's Exim Bank and Development Bank will support Sri Lanka.
 
-பெய்ஜிங்கில் பிரதமர் தினேஷ் குணவர்தனவுக்கும் சீன ஜனாதிபதி சீ ஜிங்பிங்கிற்கும் இடையில் இடம்பெற்ற இருதரப்பு கலந்துரையாடலின் போதே சீன ஜனாதிபதி இவ்வாறு தெரிவித்துள்ளார்.
+🟩
 
-சீனாவின் எக்ஸிம் வங்கி மற்றும் சீன அபிவிருத்தி வங்கியுடன் இணைந்து இலங்கைக்கு சீனா தொடர்ச்சியான ஆதரவை வழங்கும் என சீன ஜனாதிபதி மேலும் தெரிவித்துள்ளார்.
+Chinese President Sea Jinping said China continues to cooperate with Sri Lanka's debt restructuring and improve the economy.
 
-சீனாவுக்கான உத்தியோகபூர்வ அரசமுறை விஜயத்தை மேற்கொண்டுள்ள பிரதமர் தினேஷ் குணவர்தன, சீன மக்கள் குடியரசின் அரசுத்தலைவர் சீ சின்பிங் மற்றும் சீன பிரதமர் லீ கியாங் ஆகியோரை சந்தித்து பேச்சு நடத்தியிருந்தார்.
+The Chinese President made this statement during a bilateral discussion between Prime Minister Dinesh Gunawardena and Chinese President Se Jinping in Beijing.
 
-இதேவேளை, இலங்கையின் கடன் மறுசீரமைப்பு செயற்பாடுகளுக்கு சீனா தொடர்ந்தும் ஆதரவளிக்கும் என்றும் இலங்கையின் பொருளாதார அபிவிருத்திக்கு உதவும் என்றும் சீன பிரதமர் லீ கியாங் பிரதமர் தினேஷ் குணவர்தனவிடம் உறுதியளித்திருந்தமை குறிப்பிடத்தக்கது.
+The Chinese president added that China will continue to support Sri Lanka, along with China's Exim Bank and the Chinese Development Bank.
+
+Prime Minister Dinesh Gunawardena, who has made an official state visit to China, met with the President of the People's Republic See Sinbing and Chinese Prime Minister Lee Kiang.
+
+Meanwhile, Chinese Prime Minister Lee Kiang has assured Prime Minister Dinesh Gunawardena that China will continue to support Sri Lanka's debt restructuring process and will help Sri Lanka's economic development.
 
 ◼️
 
 [Data](articles/774419c9.json)
 
+[Extended Data](ext_articles/774419c9.ext.json)
+
 ---
 
-### நிர்வாண புகைப்படங்கள் பற்றிய முறைப்பாடுகளை பெற புதிய முறை
+### New method to get complaints about nude photos
 
 *2024-03-28 09:29:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாண-புகைப்படங்கள்-பற்றிய-முறைப்பாடுகளை-பெற-புதிய-முறை/175-335292) · `ta`
 
-சிறுவர்களின் ஆபாச காணொளிகள் மற்றும் நிர்வாண புகைப்படங்களை இணையத்தில் பதிவேற்றுவது தொடர்பான முறைப்பாடுகளைப் பெறுவதற்கு புதிய முறைமையொன்றை அறிமுகப்படுத்தவுள்ளதாக தேசிய சிறுவர் பாதுகாப்பு அதிகார சபை தெரிவித்துள்ளது.
+The National Child Protection Authority introduces a new system to report complaints about children's nude photos and porn videos online. Complaints are reported to the International Monitoring Foundation in the UK, and legal action will be taken to remove obscene content and identify the perpetrators.
 
-தேசிய சிறுவர் பாதுகாப்பு அதிகார சபையின் இணையத்தளத்தினூடாக இன்று முதல் இது தொடர்பான முறைப்பாடுகளை மேற்கொள்ள சந்தர்ப்பம் வழங்கப்படும் என அதன் தலைவர் சிரேஷ்ட விரிவுரையாளர் உதய குமார அமரசிங்க தெரிவித்துள்ளார்.
+🟩
 
-இந்த அமைப்பின் மூலம் பெறப்படும் புகார்கள் நேரடியாக இங்கிலாந்தில் உள்ள "சர்வதேச கண்காணிப்பு அறக்கட்டளைக்கு" தெரிவிக்கப்படுகின்றன.
+The National Child Protection Authority has said that a new system will be introduced to obtain complaints relating to uploading children's porn videos and naked photos on the Internet.
 
-இதன் ஊடாக, தேசிய சிறுவர் பாதுகாப்பு அதிகாரசபையானது, அதனுடன் தொடர்புடைய ஆபாசமான காணொளிகள் மற்றும் நிர்வாண புகைப்படங்களை அகற்றுவதற்கு நடவடிக்கை எடுக்கப்படும் என குறிப்பிட்டுள்ளது.
+Udaya Kumara Amarasinghe, Chairman of the National Child Protection Authority, will be given the opportunity to make complaints from today.
 
-மேலும், புகார்களை விசாரித்து, சம்பந்தப்பட்ட தரப்பினர் யார் என்பதை கண்டறிந்து, சர்வதேச பொலிஸார் மூலமாகவும் சட்ட நடவடிக்கை எடுக்கப்படும்.
+Complaints received by this organization are directly reported to the "International Monitoring Foundation" in the UK.
 
-...
+Through this, the National Child Protection Authority has stated that steps will be taken to remove the accompanying obscene videos and naked photos.
+
+In addition, legal action will be taken by the International Police to investigate the complaints and find out who the concerned parties are.
+
+It has been reported that in the past, there have been many complaints regarding the publication of children's obscene videos and naked photos on the Internet.
+
+◼️
 
 [Data](articles/8ccdc9a7.json)
+
+[Extended Data](ext_articles/8ccdc9a7.ext.json)
 
 ---
 
@@ -2153,45 +2213,5 @@ Four school students tragically drowned in the Ma Oya at the Walakumbura area in
 [Data](articles/6957fc2e.json)
 
 [Extended Data](ext_articles/6957fc2e.ext.json)
-
----
-
-### Sri Lanka opens maternity hospital in Galle with Germany’s help
-
-*2024-03-27 17:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-opens-maternity-hospital-in-galle-with-germanys-help-156330/) · `en`
-
-ECONOMYNEXT – The German-Sri Lanka Friendship New Women’s Hospital, a six-story hospital with 640 beds, 6 operating theatres, infant intensive care units, paediatric units, and state-of-the-art facilities was opened in the southern city of Galle.
-
-The German government contributed 25 million euro (3,570 million rupees) to the project, in addition to medical equipment.
-
-Former Chancellor of Germany, Helmut Kohl, made a significant donation towards the construction of the maternity hospital after witnessing the devastation caused by the tsunami to Mahmodara Hospital Galle, during his vacation in December 2004 in Talpe, Habaraduwa.
-
-“The future holds no promise without innovation in education and healthcare. The robustness of our healthcare system is a testament to our medical services,” President Ranil Wickremesinghe said at the inauguration.
-
-...
-
-[Data](articles/4475ac82.json)
-
-[Extended Data](ext_articles/4475ac82.ext.json)
-
----
-
-### Four school boys drown while bathing in Ma Oya
-
-*2024-03-27 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98246/four-school-boys-drown-while-bathing-in-ma-oya) · `en`
-
-Four school boys have reportedly drowned while bathing in the Ma Oya in Alwwa while another student has been rescued and hospitalised.
-
-Police Spokesman DIG Nihal Thalduwa said a group of five boys were bathing in the river when the incident occurred.
-
-One of the boys has been rescued by residents in the area and admitted to hospital, however, the other four have been pronounced dead.
-
-The drowning victims are Grade 09 students of a school in the Polgahawala area, police said.
-
-◼️
-
-[Data](articles/42c4e921.json)
-
-[Extended Data](ext_articles/42c4e921.ext.json)
 
 ---

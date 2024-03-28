@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 20:51:30**
+As of **2024-03-28 21:03:58**
 
 ## Newspaper Stats
 
-*Scraped **15,781** Articles*
+*Scraped **15,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 1,893
 adaderanalk | 1,894
 virakesarilk | 2,232
 dailymirrorlk | 2,435
-adaderanasinhalalk | 2,537
+adaderanasinhalalk | 2,538
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,779 (100.0%) of 15,781 articles have been extended.
+15,781 (100.0%) of 15,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### සංවර්ධන ලොතරැයි මණ්ඩලයෙන් වාර්තාගත ලාභයක්
+
+*2024-03-28 20:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195049) · `si`
+
+සංවර්ධන ලොතරැයි මණ්ඩලය විසින් ජනාධිපති අරමුදලට ලබාදුන් දායකත්වය පෙර වසරට සාපේක්ෂව 13%ක ප්‍රතිශතයකින් ඉහළ දමමින් රු. 3,622,506,725/-ක අගයක් සහිතව බිලියන 03ක ඉලක්කය ඉක්මවා ඇති බව ජනාධිපති මාධ්‍ය අංශය පවසයි.
+
+ඒ සමඟම රජයට පිරිනැමෙන දායකත්වය 6%කින් ඉහළ දමමින් රු. 5,193,833,721 අගයක් බවට පත්ව ඇත.
+
+ඒ අනුව සංවර්ධන ලොතරැයි මණ්ඩලය සිය වසර 40ක ඉතිහාසයේ වාර්තා කර ඇති වැඩිම ලාභය මෙයයි.
+
+◼️
+
+[Data](articles/fde41b52.json)
+
+---
 
 ### Heavy traffic on High-Level Road due to fallen tree branch
 
@@ -41,6 +57,8 @@ A broken branch of the Bo tree at Wattegedara in Maharagama has reportedly falle
 ◼️
 
 [Data](articles/613342ba.json)
+
+[Extended Data](ext_articles/613342ba.ext.json)
 
 ---
 
@@ -84,27 +102,39 @@ The announcement was made to the Maithri in connection with the Criminal Investi
 
 ---
 
-### 19 வயதின் கீழ் ஆஸி. அணியை 7 ஓட்டங்களால் 19 வயதின் கீழ் இலங்கை அணி வெற்றிகொண்டது
+### Aussie under the age of 19. Sri Lanka won the team under the age of 19 by 7 runs
 
 *2024-03-28 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179934) · `ta`
 
-ஹம்பாந்தோட்டை மஹிந்த ராஜபக்ஷ சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் வியாழக்கிழமை (28) நடைபெற்ற 19 வயதுக்குட்பட்ட மகளிர் ரி20 மும்முனை தொடரின் ஆரம்பப் போட்டியில் அவுஸ்திரேலியாவை 7 ஓட்டங்களால் வரவேற்பு நாடான இலங்கை வெற்றிகொண்டது.
+Sri Lanka's under-19 women's T20 team won against Australia by 7 runs in Hambantota, thanks to a 117-run score. Key performances included 23 runs by Thevmi Wijeratne and Sanjana Kavindi, 28 runs by Sanjana, and 32 runs by Manuti Nanayakkara and Rashmi Netrajali. Australia lost 110 runs in 20 overs, with notable contributions from Eleino Larosa and Lucy Hamilton.
 
-இந்தப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த இலங்கை யுவதிகள் அணி 20 ஓவர்களில் 6 விக்கெட்களை இழந்து 117 ஓட்டங்களைப் பெற்றது.
+🟩
 
-19 வயதுக்குட்பட்ட மகளிர் ரி20 கிரிக்கெட் போட்டி ஒன்றில் 117 ஓட்டங்கள் என்பது சிறந்த ஒரு மொத்த எண்ணிக்கையாகும்.
+Sri Lanka won Australia by 7 runs in the 19 -year -old women's T20 series in Mahinda Rajapaksa's International Cricket Stadium in Hambantota on Thursday (28).
 
-தெவ்மி விஜேரத்னவும் சஞ்சனா காவிந்தியும் நிதானத்துடன் துடுப்பெடுத்தாடி ஆரம்ப விக்கெட்டில் 23 ஓட்டங்களைப் பகிர்ந்தனர்.
+The Sri Lankan women, who decided to bat first in the match, scored 117 runs for the loss of six wickets in 20 overs.
 
-அடுத்து களம் நுழைந்த நெத்மி பூர்ணா 2 ஓட்டங்களை மட்டும் பெற்றபோதிலும் 2ஆவது விக்கெட்டில் சஞ்சனாவுடன் 20 ஓட்டங்களைப் பகிர்ந்தார்.
+117 runs in a women's T20 cricket match under the age of 19 is one of the best.
 
-திறமையாகத் துடுப்பெடுத்தாடிய சஞ்சனா 4 பவுண்டறிகள், ஒரு சிக்ஸுடன் 28 ஓட்டங்களைப் பெற்றார்.
+Thevmi Wijeratne and Sanjana Kavindi played 23 runs in the opening wicket.
 
-அடுத்து ஜோடி சேர்ந்த அணித் தலைவி மானுதி நாணயக்காரவும் ரஷ்மி நேத்ராஞ்சலியும் 4ஆவது விக்கெட்டில் 32 ஓட்டங்களைப் பகிர்ந்தனர். இது இலங்கை அணியில் சிறந்த இணைப்பாட்டமாக இருந்தது.
+Next, Netmi Poorna, who entered the field, shared 20 runs with Sanjana in the 2nd wicket.
+
+Sanjana scored 28 runs with 4 pounds and a six.
+
+Next, the captain of the pair, Manuti Nanayakkara and Rashmi Netrajali shared 32 runs in the 4th wicket.. This was the best link to the Sri Lankan team.
+
+Rashmi lost 14 runs and Manuti Nanayakkara with 16 runs.
+
+Sumudu Nissanchala, who paired up with Rashmika in a 6th wicket, shared 28 runs and scored 19 runs.
+
+Rashmika did not play with her 12 runs and Hiruni Hansika with a run.
 
 ...
 
 [Data](articles/97ce4054.json)
+
+[Extended Data](ext_articles/97ce4054.ext.json)
 
 ---
 
@@ -2269,31 +2299,5 @@ The ABANS PLC has announced that this information is provided for the purposes o
 [Data](articles/209efcee.json)
 
 [Extended Data](ext_articles/209efcee.ext.json)
-
----
-
-### Mcdonald's not under our umbrella: Abbans
-
-*2024-03-28 10:53:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/McDonald-s-எமது-குடையின்-கீழ்-இல்லை-அபான்ஸ்/175-335296) · `ta`
-
-McDonald's local rights in Sri Lanka are now with Limited Limited (Pvt) Limited, not under Abbans PLC, as reported by the company. Taste Bestonji, owner of 98.73% of Abbans, clarified that International Restaurant Systems (Pvt) Limited is not a subsidiary or co-company, and its funds are separate from Abbans PLC. This change is for good governance and goodwill.
-
-🟩
-
-The local company of the US fast food company, McDonald, is no longer under his umbrella, the Apans private company said today.
-
-The Apans PLC, which reported to the Colombo Stock Exchange (CSE) today, points out that McDonald's local rights are in the Limited Limited (Pvt) Limited, which is attached to the 2007 Companies Act of 2007.
-
-Taste Bestonji, who owns 98.73% of the company, is also the managing director of Abans PLC.
-
-“International Restaurant Systems (Pvt) Limited, Apans PLC or its Thai company, Abons Reedayl Holdings (Private) Limited, is not a subsidiary or co -company. Because of the stated, the Funds of International Restaurant Systems (Pvt) Limited were not integrated with the funds of Abbans PLC, ”Abbns made it clear.
-
-The ABANS PLC has announced that this information is provided for the purposes of goodwill and for good governance.
-
-◼️
-
-[Data](articles/f12f304d.json)
-
-[Extended Data](ext_articles/f12f304d.ext.json)
 
 ---

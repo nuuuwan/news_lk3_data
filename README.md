@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 15:51:43**
+As of **2024-03-28 16:04:36**
 
 ## Newspaper Stats
 
-*Scraped **15,723** Articles*
+*Scraped **15,727** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ dailyftlk | 848
 economynextcom | 857
 islandlk | 868
 adalk | 1,337
-adaderanalk | 1,887
+adaderanalk | 1,888
 tamilmirrorlk | 1,890
 virakesarilk | 2,223
-dailymirrorlk | 2,426
-adaderanasinhalalk | 2,520
+dailymirrorlk | 2,428
+adaderanasinhalalk | 2,521
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,723 (100.0%) of 15,723 articles have been extended.
+15,723 (100.0%) of 15,727 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### Keheliya Rambukwella further remanded
+
+*2024-03-28 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98265/keheliya-rambukwella-further-remanded) · `en`
+
+The nine accused including former Health Minister Keheliya Rambukwella have been further remanded until April 08 in connection with the substandard human intravenous immunoglobulin (IVIG) vials procurement scandal.
+
+◼️
+
+[Data](articles/a2c6155d.json)
+
+---
+
+### කෙහෙළියට ලැබුණු නියෝගය
+
+*2024-03-28 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195031) · `si`
+
+ව්‍යාජ එන්නත් සිද්ධියට අත්අඩංගුවට ගෙන රිමාන්ඩ් බන්ධනාගාරගතකර සිටි හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු සැකකරුවන් 9 දෙනා අප්‍රේල් මස 08 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+
+◼️
+
+[Data](articles/b4a32b2d.json)
+
+---
+
+### Reduction of Special Commodity Levy on rice will not lead to imports: Siyambalapitiya
+
+*2024-03-28 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Reduction-of-Special-Commodity-Levy-on-rice-will-not-lead-to-imports-Siyambalapitiya/108-279780) · `en`
+
+Colombo, March 28 (Daily Mirror)- The special commodity levy on rice was reduced not to allow import of rice but to clear a stock of rice currently stuck with the Customs, State Minister of Finance Ranjith Siyambalapitiya said today.
+
+He told reporters that a stock of Keeri Samba rice was imported in January to control the escalating prices and shortage in the market and that a part of that imported stock of rice was stuck with the Customs due to a delay in receiving the stock.
+
+He said the special commodity levy on rice was reduced from Rs. 65 to Rs. 1 for a period of one week to facilitate the importers to get that rice stock cleared from the Customs.
+
+"This move will not lead to import of new rice stocks as the reduction will be effective only for a week. The importers must clear the rice stock stuck with the Customs within a week," he said.
+
+...
+
+[Data](articles/77330561.json)
+
+---
 
 ### Fire breaks out at tyre shop in Grandpass
 
@@ -65,6 +107,18 @@ Police said several fire trucks from the Colombo Municipal Council have been dis
 [Data](articles/f97810c2.json)
 
 [Extended Data](ext_articles/f97810c2.ext.json)
+
+---
+
+### Ven. Gnanasara Thera sentenced to 4 years in prison
+
+*2024-03-28 15:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ven-Gnanasara-Thera-sentenced-to-4-years-in-prison/110-279778) · `en`
+
+Bodu Bala Sena (BBS) General Secretary Ven. Galaboda Atte Gnanasara Thera was today sentenced to four-year-rigorous imprisonment for making a hate speech against the Islamic religion on Kuragala Temple. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/2abbc97e.json)
 
 ---
 
@@ -2177,103 +2231,5 @@ The President pointed out that the city of Colombo today is a low -quality movie
 [Data](articles/3cf936b5.json)
 
 [Extended Data](ext_articles/3cf936b5.ext.json)
-
----
-
-### Sri Lanka - President
-
-*2024-03-28 03:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/179860) · `ta`
-
-Sri Lanka's President Ranil Wickremesinghe emphasized the country's commitment to democracy, highlighting its unique position in Asia. He addressed the inaugural session of the first national student parliament, where two members from the country were elected. The event also included visits to key areas in Colombo by school students, underlining the President's initiative to engage with the youth.
-
-🟩
-
-President Ranil Wickremesinghe said Sri Lanka was the only Asia country that would fully defend democracy so that the ruling party would not harm the activities of the opposition parties.
-
-The President also emphasized the importance of defending the democratic parliamentary system that is likely to express his views.
-
-President Ranil Wickremesinghe said this while addressing the inaugural session of Sri Lanka's first national student parliament held on Tuesday (26).
-
-Two members of the country are representing the National Student Parliament, which has the highest number of votes from all the Zonal Student Parliamentarians established in 100 Zones, including the nine provinces of the country.
-
-The National Student Parliamentary Speaker, Prime Minister, Deputy Speaker, 10 Ministers and 10 Deputy Ministers were appointed in the recent elections by the Elections Commission with the Cooperation and Advisory Branch of the Ministry of Education.
-
-...
-
-[Data](articles/f33727f8.json)
-
-[Extended Data](ext_articles/f33727f8.ext.json)
-
----
-
-### Can't rely on the future of the country without modernizing education and health sectors - President
-
-*2024-03-28 03:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/179859) · `ta`
-
-President Ranil Wickremesinghe emphasized the importance of modernizing education and health sectors for Sri Lanka's future. He highlighted the construction of the "German - Sri Lanka Friendship New Women's Hospital" in Galle Karapitiya, the largest maternity hospital in the South Asian Zone, funded by the German government. He also discussed the challenges of the health sector, including the increase in elderly people and various diseases, and the need for significant investment in education and health.
-
-🟩
-
-President Ranil Wickremesinghe said he could not rely on the future of the country without modernization of education and health sectors.
-
-President Ranil Wickremesinghe said this while addressing the public on Wednesday morning (27), the "German - Sri Lanka Friendship New Women's Hospital" constructed in Galle Karapitiya, which is considered to be the largest maternity hospital in the South Asian Zone, on Wednesday morning.
-
-The six -storey hospital has all the modern medical facilities including 640 beds, 6 surgical centers, emergency care units, intensive care units, laboratory, infant intensive care units and special child units.. The sewage sector is also located here.
-
-He came to Sri Lanka for a vacation in December 2004 and stayed at a tourist hotel in Habaraduwa Talbay area, where he came to the Galle Mahamodha Hospital, the largest maternity hospital in the southern province due to the tsunami disaster.
-
-...
-
-[Data](articles/7ee4f850.json)
-
-[Extended Data](ext_articles/7ee4f850.ext.json)
-
----
-
-### Opposition parties make allegations
-
-*2024-03-28 03:12:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சிகள்-பெய்-குற்றச்சாட்டுகளை-முன்வைக்கின்றன/175-335290) · `ta`
-
-The government denies opposition allegations in Election Amendment bills. UNP and MP Vajira Abeywardena affirm timely elections. President Ranil Wickremesinghe calls for national unity on policies, emphasizing the implementation of national policies in Parliament and the passing of powerful financial control laws to prevent corruption.
-
-🟩
-
-The government completely rejects the allegation that the opposition parties put in the upcoming elections by the Election Amendment bills presented in Parliament. United National Party (UNP) and Member of Parliament Vajira Abeywardena said that the election will be held in a timely manner.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
-
-Enough to get caught up in the fight. President Ranil Wickremesinghe made a recommendation that we should all unite and unite for national policies.
-
-It is still implemented in Parliament. The national policy is mentioned in the legal sources presented by the president. He said that the most powerful financial control legal sources in Asia were passed in Parliament to prevent corruption and irregularities.. (A)
-
-◼️
-
-[Data](articles/091ae306.json)
-
-[Extended Data](ext_articles/091ae306.ext.json)
-
----
-
-### Opposition parties make false accusations
-
-*2024-03-28 03:12:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சிகள்-பொய்-குற்றச்சாட்டுகளை-முன்வைக்கின்றன/175-335290) · `ta`
-
-The government denies opposition accusations in upcoming elections. UNP and MP Vajira Abeywardena affirm timely elections. President Ranil Wickremesinghe calls for national unity on policies, emphasizing the implementation of national policy in Parliament and the passing of powerful financial control laws to prevent corruption.
-
-🟩
-
-The government completely rejects the allegation that the opposition parties put in the upcoming elections by the Election Amendment bills presented in Parliament. United National Party (UNP) and Member of Parliament Vajira Abeywardena said that the election will be held in a timely manner.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
-
-Enough to get caught up in the fight. President Ranil Wickremesinghe made a recommendation that we should all unite and unite for national policies.
-
-It is still implemented in Parliament. The national policy is mentioned in the legal sources presented by the president. He said that the most powerful financial control legal sources in Asia were passed in Parliament to prevent corruption and irregularities.. (A)
-
-◼️
-
-[Data](articles/88e6b13a.json)
-
-[Extended Data](ext_articles/88e6b13a.ext.json)
 
 ---

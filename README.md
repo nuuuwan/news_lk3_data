@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 00:03:10**
+As of **2024-03-29 00:18:08**
 
 ## Newspaper Stats
 
@@ -26,43 +26,57 @@ adaderanasinhalalk | 2,542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,793 (100.0%) of 15,795 articles have been extended.
+15,795 (100.0%) of 15,795 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### ஜனாதிபதி தேர்தலில் நாமல் போட்டி?
+### Namal contest in presidential election?
 
 *2024-03-28 23:49:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-நாமல்-போட்டி/175-335330) · `ta`
 
-நாமலுக்கு இன்னும் ஐந்திலிருந்து பத்து வருடங்களில்  ஜனாதிபதித் தேர்தலில் போட்டியிடும் வாய்ப்பு கிடைக்கலாம் என நினைக்கிறேன் என்று ஆளுங்கட்சியின் பிரதான அமைப்பாளரும், நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சருமான பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+Prasanna Ranatunga, Sri Lanka's Minister of Urban Development and Housing, suggests that a presidential candidate with experience from 5-10 years ago could bring a fresh perspective to the election. He also denies knowing any presidential candidate in the Sri Lanka PA.
 
-இன்னும் ஐந்திலிருந்து பத்து வருடங்களில் அவர் போட்டியில் கலந்துகொள்ளும் அனுபவத்தைப் பெறலாம். அப்போது இந்த நிலையை புரிந்துகொண்டு தேர்தல் பணிகளைத் தொடங்கி புதிய பின்னணியை உருவாக்க அவருக்கு வாய்ப்பு கிடைத்துள்ளது.
+🟩
 
-அந்த சவாலை ஏற்று அதை எதிர்பார்க்கலாம் என்றால், அந்தப் பொறுப்பை ஏற்று அதைச் செய்வது சரிதான் என்றார்.
+Prasanna Ranatunga, the chief organizer of the ruling party and the Minister of Urban Development and Housing, said,
 
-மேலும், ஸ்ரீலங்கா பொதுஜன பெரமுனவில் தற்போது ஜனாதிபதி வேட்பாள் ஒருவரின் பெயரைக் குறிப்பிடுவதற்கு எனக்கு தெரியவில்லை என்றும் ஊடகங்களுக்கு அறிவித்துள்ளார். R
+He may have the experience of participating in the competition in the fifth to ten years. At that time, he had the opportunity to start the election and create a new background.
+
+If you can accept that challenge and expect it, it is okay to accept that responsibility.
+
+He also informed the media that I do not know the name of a presidential candidate in the Sri Lanka PA. Remble
 
 ◼️
 
 [Data](articles/32f51bb3.json)
 
+[Extended Data](ext_articles/32f51bb3.ext.json)
+
 ---
 
-### சிறுவர்களின் ஆபாச படங்கள், காணொளிகளை உடனடியாக நீக்கும் வழி முறை
+### Pornography of boys' pornographic and videos
 
 *2024-03-28 23:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களின்-ஆபாச-படங்கள்-காணொளிகளை-உடனடியாக-நீக்கும்-வழி-முறை/175-335329) · `ta`
 
-இணையத்தில் பதிவேற்றப்படும் சிறுவர்களின் நிர்வாண புகைப்படங்கள் மற்றும் ஆபாசமான காணொளிகளை உடனடியாக நீக்குவதற்கான இணைய வழி முறைமை இன்று (28) ஜனாதிபதி அலுவலகத்தில் ஜனாதிபதி ரணில் விக்ரமசிங்க தலைமையில் அறிமுகப்படுத்தப்பட்டது.
+President Ranil Wickremesinghe launched a cyber safety initiative to protect children from online abuse, partnering with the National Child Protection Authority and the UK's Internet Watch Foundation. The initiative aims to remove harmful content and take legal action against perpetrators.
 
-சிறுவர் துஷ்பிரயோக சம்பவங்கள் அல்லது சிறுவர்களை சிக்கிக்கொள்ளக்கூடிய இணைய பக்கங்கள், புகைப்படங்கள், காணொளிகள் உள்ளிட்ட காரணங்களால் சிறுவர்கள் பெருமளவில் சைபர் வலையப்பிற்குள் பாதிப்புக்கு ஆளாகின்றனர்.
+🟩
 
-தேசிய சிறுவர் பாதுகாப்பு அதிகாரசபை, உலகின் முன்னணி இணைய சிறுவர் பாதுகாப்பு உறுதிப்படுத்தல் நிறுவனங்களில் ஒன்றான ஐக்கிய ராஜ்ஜியத்தின் Internet Watch Foundation - IWF உடன் இணைந்து இந்த வேலைத்திட்டம் முன்னெடுக்கப்படுவதோடு, Save the Children & Child அதற்கான நிதி உதவியை வழங்கியுள்ளது
+President Ranil Wickremesinghe was launched today (28) at the Presidential Office headed by President Ranil Wickremesinghe.
+
+Children are affected by the cyber web site due to children's abuse incidents or the web pages, photos and videos that can be trapped in children.
+
+The National Child Protection Authority, one of the world's leading Internet Child Protection Confirmation Institutions, the United Kingdom Internet Watch Foundation - The program is being carried out with the IWF and provided the Save the Children & Child its financial assistance.
+
+After the introduction of this internet system, the National Child Protection Authority can lodge a complaint with the National Child Protection Authority with the help of the National Child Protection Authority www.childprotection.gov.lk.. The company will then remove the video from the Internet and take legal action against the suspects.
 
 ...
 
 [Data](articles/a3021ed6.json)
+
+[Extended Data](ext_articles/a3021ed6.ext.json)
 
 ---
 

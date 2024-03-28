@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 16:18:07**
+As of **2024-03-28 16:33:24**
 
 ## Newspaper Stats
 
-*Scraped **15,730** Articles*
+*Scraped **15,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,111 @@ dailyftlk | 848
 economynextcom | 857
 islandlk | 868
 adalk | 1,339
-adaderanalk | 1,888
+adaderanalk | 1,889
 tamilmirrorlk | 1,891
 virakesarilk | 2,223
-dailymirrorlk | 2,428
-adaderanasinhalalk | 2,521
+dailymirrorlk | 2,429
+adaderanasinhalalk | 2,523
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,727 (100.0%) of 15,730 articles have been extended.
+15,730 (100.0%) of 15,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### ”வரி குறைக்கப்பட்டது இறக்குமதியை அதிகரிக்க அல்ல”
+### උද්ධමනය අඩුවෙයි
+
+*2024-03-28 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195033) · `si`
+
+කොළඹ පාරිභෝගික මිල දර්ශකය මත පදනම් වූ මෙරට උද්ධමනය මාර්තු මාසයේදී සියයට දශම 09 දක්වා කැපී පෙනෙන ලෙස පහත වැටී තිබේ.
+
+එසේ නමුත් ආහාර උද්ධමනය පෙබරවාරි මාසයේ පැවති සියයට 3.5ක අගයක සිට සියයට 3.8 දක්වා ඉහළගොස් තිබුණි.
+
+මාර්තු මාසයේ උද්ධමනය පහත වැටීමට හේතුවී ඇත්තේ ආහාර නොවන කාණ්ඩයේ උද්ධමනය පෙබරවාරි මාසයේ පැවති සියයට 7ක අගයක සිට මාර්තු මාසයේ දී සියයට සෘණ 0.5දක්වා පහත වැටීම ය.
+
+◼️
+
+[Data](articles/e1d3b0cc.json)
+
+---
+
+### Colombo consumer price inflation drops to 0.9% in March
+
+*2024-03-28 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98267/colombo-consumer-price-inflation-drops-to-09-in-march) · `en`
+
+The overall rate of inflation as measured by the Colombo Consumer Price Index (CCPI) on year-on-year basis has recorded a significant decrease in the month of March 2024, according to the most recent figures published by the Department of Census and Statistics (DCS).
+
+The CCPI-based inflation was calculated as 5.9% for the month of February.
+
+According to the DCS report, the year-on-year inflation of Food Group was recorded at 3.8% in March, showing a minor increase from the 3.8% recorded in February, while the inflation of Non-Food Group decreased to 0.5% in March from 7.0% in February.
+
+...
+
+[Data](articles/e1cdcc3d.json)
+
+---
+
+### “Reduced tax is not to increase imports”
 
 *2024-03-28 16:08:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-குறைக்கப்பட்டது-இறக்குமதியை-அதிகரிக்க-அல்ல/175-335313) · `ta`
 
-அரிசி இறக்குமதியை அனுமதிப்பதற்காக அல்ல, தற்போது சுங்கத்தில் சிக்கியுள்ள அரிசியை அகற்றுவதற்காக அரிசி மீதான விஷேட பொருட்கள் வரி குறைக்கப்பட்டுள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய இன்று தெரிவித்தார்.
+Finance Minister Ranjith Siyambalapitiya reduced tax on special rice products to clear trapped rice in customs, not to encourage imports. This move was to control rising prices and scarcity, with a stockpile of Keeri Samba imported in January. The tax reduction is temporary, lasting a week, to facilitate importers.
 
-சந்தையில் அதிகரித்து வரும் விலை மற்றும் தட்டுப்பாட்டைக் கட்டுப்படுத்த ஜனவரி மாதம் கீரி சம்பா அரிசியின் ஒரு கையிருப்பு இறக்குமதி செய்யப்பட்டதாகவும், இறக்குமதி செய்யப்பட்ட அரிசியின் ஒரு பகுதி கையிருப்பு பெறுவதில் தாமதம் ஏற்பட்டதால் சுங்கத்தில் சிக்கியுள்ளதாகவும் அவர் செய்தியாளர்களிடம் தெரிவித்தார்.
+🟩
 
-அரிசி மீதான விஷேட பொருட்களுக்கான வரி 65 ரூபாயில் இருந்து 1 ரூபாயாக குறைக்கப்பட்டுள்ளதாக அவர் தெரிவித்துள்ளார். ஒரு வார காலத்திற்கு இறக்குமதியாளர்களுக்கு அந்த அரிசி இருப்பை சுங்கத்திலிருந்து அகற்றுவதற்கு வசதியாக இருக்கும்.
+Finance Minister Ranjith Siyambalapitiya today said that the special products on rice have been reduced to remove the rice that is currently being trapped in the customs, not to allow rice imports.
 
-"இந்த நடவடிக்கை புதிய அரிசி கையிருப்புகளை இறக்குமதி செய்ய வழிவகுக்காது, ஏனெனில் குறைப்பு ஒரு வாரத்திற்கு மட்டுமே அமலில் இருக்கும். இறக்குமதியாளர்கள் ஒரு வாரத்திற்குள் சுங்கத்தில் உள்ள அரிசி கையிருப்பை அகற்ற வேண்டும்," என்று அவர் கூறினார்.
+He told reporters that a stockpile of Keeri Samba was imported in January to control the rising prices and scarcity in the market and that a portion of the imported rice was delayed.
+
+The tax on special products on rice has been reduced from 65 rupees to Rs.. The rice presence will be convenient for importers for a week for a week.
+
+"This action does not lead to importing new rice stockings because the reduction will only be in force for a week. Importers should remove the rice stockpile in the customs within a week, ”he said.
 
 ◼️
 
 [Data](articles/02c35dc3.json)
+
+[Extended Data](ext_articles/02c35dc3.ext.json)
+
+---
+
+### පොලිස් නිලධාරිනියගේ දුක්ගැනවිල්ලට පොලිස්පති දුන් විසඳුම
+
+*2024-03-28 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195032) · `si`
+
+අඹන්පොළ පොලිස් ස්ථානයට අනුයුක්තව රාජකාරි කරනු ලබන කාන්තා පොලිස් නිලධාරිනියකගේ දුක්ගැනවිල්ලකට කඩිනම් විසඳුමක් ලබාදීමට පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා කටයුතු කර තිබේ.
+
+අදාළ නිලධාරිනියගේ ස්වාමි පුරුෂයා විසින් පොලිස්පතිවරයා වෙත දුරකථන කෙටි පණිවිඩයක් මගින් නිලධාරිනියට මුහුණදී ඇති අපහසුතා සඳහන් කරමින් දුක්ගැනවිල්ලක් යොමු කර තිබුණි.
+
+මේ සම්බන්ධයෙන් පොලිස්පතිවරයා විසින් වහාම ක්‍රියාත්මක වෙමින් මෙම පොලිස් සැරියන්වරිය ට ඇය පදිංචි මහව පොලිස් වසම වෙත වහාම ක්‍රියාත්මක වන පරිදි ස්ථාන මාරුවක් ලබාදී ඇත.
+
+මෙම නිලධාරිනිය, කුඩා දරුවන් තිදෙනා හා ස්වාමිපුරුෂයා සමග මහව පොලිස් වසමේ පදිංචිව සිටින අතර, දෛනිකව රාජකාරි සඳහා අඹන්පොළ පොලිස් ස්ථානයට පැමිණෙන බවට වැඩිදුරටත් සඳහන් විය.
+
+කෙසේ වෙතත්, නිලධාරීනියගේ දුක්ගැනවිල්ල සම්බන්ධයෙන් නිසි විසඳුම් ලබානොදීම පිළිබඳව අඹන්පොල ස්ථානාධිපති සහ අදාළ ප්‍රදේශය භාර ජ්‍යෙෂ්ඨ නිලධාරීන් වෙත පොලිස්පතිවරයා දොස් පවරා ඇති බවද පොලිස් ආරංචිමාර්ග සඳහන් කරයි.
+
+◼️
+
+[Data](articles/0a6bba75.json)
+
+---
+
+### No suitable presidential candidate for SLPP now; Namal has another 5 to 10 years: Prasanna
+
+*2024-03-28 16:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-suitable-presidential-candidate-for-SLPP-now-Namal-has-another-5-to-10-years-Prasanna/108-279781) · `en`
+
+Colombo, March 28 (Daily Mirror)-  Claiming that the Sri Lanka Podujana Peramuna (SLPP) has no suitable Presidential candidate at the moment, Minister Prasanna Ranatunga said Namal Rajapaksa can contest for Presidency only after another five to ten years’ time.
+
+"My stance is that we need to go for a Presidential election first and Ranil Wickremesinghe, who can take up the challenges and who revived the economy, should win," he said.
+
+Minister Ranatunga told reporters in Colombo that he stressed the need to go for a Presidential election first as no one will be able to form a stable government after a parliamentary election which could lead to anarchy in the country similar to that in Pakistan.
+
+...
+
+[Data](articles/8fd1451f.json)
 
 ---
 
@@ -64,19 +138,25 @@ The nine accused including former Health Minister Keheliya Rambukwella have been
 
 ---
 
-### ග්‍රීක බැඳුම්කරවල ආයෝජනය කර කබ්රාල් ඇතුළු පහක් රජයට රු. මිලියන 1843ක් පාඩු කරලා
+### Investing on Greek bonds and five including Cabraal and five. 1843 million incurred
 
 *2024-03-28 15:49:08* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රීක-බැඳුම්කරවල-ආයෝජනය-කර-කබ්රාල්-ඇතුළු-පහක්-රජයට-රු--මිලියන-1843ක්-පාඩු-කරලා/11-408843) · `si`
 
-ග්‍රීසිය දැඩි ආර්ථික අර්බුදයකට ලක්ව තිබියදි එරට බැඳුම්කර වල ආයෝජනය කිරිමෙන් රජයට රුපියල් මිලියන 1843.2ක මුදලක් පාඩු කළ බවට සඳහන් කරමින් හිටපු මහ බැංකු අධිපති අජිත් නිවාඩ් කබ්රාල් මහතා ඇතුළු පස්දෙනෙකුට අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂම මගින් නඩු පවරා තිබේ.
+Ajith Nivard Cabraal, a former Central Bank Governor, and others invested in Greek bonds in 2012, totaling 1843 million. Cabraal was accused of bribery or corruption by the Commission. Sujee Senasinghe, a former Parliamentarian, is prosecuting the case.
 
-මෙම බැඳුම්කරවල ආයෝජනය 2012 වසරේදී සිදුකර තිබේ. හිටපු පාර්ලිමේන්තු මන්ත්‍රී සූජීව සේනසිංහ මහතා අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවට කරන ලද පැමිණිල්ලකින් අනතුරුව සිදුකළ විමර්ශනය අනුව මහාධිකරණයෙන් නඩු පැවැරීමට තීරණය කර තිබේ.
+🟩
 
-අජිත් නිවාඩ් කබ්රාල් මහතාට අමතරව ධර්මසේන ධීරසිංහ, වසන්ත ආනන්ද සිල්වා, චන්ද්‍රසිරි ජයසිංහ හා ඒ. කරුණාරත්න යන පුද්ගලයන්ට එරෙහිව මෙම නඩු පැවැරීම සිදුකර තිබේ.
+Former Central Bank Governor Ajith Nivard Cabraal, who was invested in the bonds of Greece, had filed a bribery or corruption by the Commission.
+
+Investment in these bonds have been carried out in 2012. Former Parliamentarian Sujee Senasinghe has decided to prosecute the hearing of bribery or corruption to the Commission to Investigate Allegations.
+
+In addition to Ajith Nivard Cabraal, Dharmasena Dheerasinghe, Wasantha Ananda Silva, Chandrasiri Jayasinghe and A. The cases have been carried out against persons Karunaratne.
 
 ◼️
 
 [Data](articles/353b139d.json)
+
+[Extended Data](ext_articles/353b139d.ext.json)
 
 ---
 
@@ -248,23 +328,29 @@ Fire lands have already been deployed by the Colombo Fire Brigade to suppress th
 
 ---
 
-### පුද්ගලයකුගේ පෙනහැල්ලෙන් දතක් සොයාගනී
+### A person finds a tooth for the sake of a person
 
 *2024-03-28 14:46:51* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගලයකුගේ-පෙනහැල්ලෙන්-දතක්-සොයාගනී/11-408841) · `si`
 
-නිව්මෝනියාව සහ වකුගඩු රෝගී තත්ත්වයන් පෙළෙමින් සිට මියගිය පුද්ගලයකුගේ සිරුර සම්බන්ධයෙන් බලන්ගොඩ මූලික රෝහලේදී ඊයේ 27දා සිදුකළ පශ්චාත් මරණ පරීක්ෂණයේදී පෙණහැල්ලේ තිබී දතක් හමුවී තිබේ.
+A 59-year-old man from Balangoda, suffering from pneumonia and kidney diseases, died after a post-mortem at Balangoda Base Hospital revealed a tooth in his lung, a condition he had been suspended for two years ago.
 
-මෘතදේහය සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණය බලන්ගොඩ මූලික රෝහලේ අධිකරණ වෛද්‍ය නිලධාරිනි ඩී.චේතිසත්‍යා මෙනෙවිය විසින් සිදුකළ අවස්ථාවේදී එම දත පෙණහැල්ලේ තිබී හමුවූ බව බලන්ගොඩ හදිසි මරණ පරීක්ෂක පත්මේන්ද්‍ර විජේතිලක මහතා පැවසීය.
+🟩
 
-බලන්ගොඩ වලේබොඩ ප්‍රදේශයේ පදිංචිව අවුරුදු 59 පුද්ගලයකුගේ පශ්චාත් මරණ පරීක්ෂණයේදී මෙලෙස හමුවී තිබුණි.
+A two-mortem have been found in the Balangoda Base Hospital on the Balangoda Bala Hospital yesterday at the Balangoda Base Hospital on behalf of a person who died of pneumonia and kidney diseases.
 
-මොහු අධික ලෙස මත්පැන් පානය කරන්නෙකු බවත් කාලයක් තිස්සේ නිව්මෝනියාව සහ වකුගඩු රෝගී තත්ත්වයන් පෙළෙමින් සිට ඇති බවත් නිව්මෝනියාව උත්සන්න වීම හේතුවෙන් මියගොස් ඇති බවට පශ්චාත් මරණ පරීක්ෂණයේදී අනාවරණය වූ බව විජේතිලක මහතා සඳහන් කළේය.
+Balangoda Emergency Inspector Paathndra Wijetilake said that the post mortem examination was found in the temple medical officer at the Balangoda Hospital.
 
-නමුත් මීට වසර කිහිපයකට පෙර එම දතක් ගැලවී ගොස් පෙණහැල්ලේ සිරවී ඇති බවට සැකකෙරෙන බවත්, තමන්ගේ සිරුර සම්බන්ධයෙන්වත් මොහු සැලකිල්ලක් දක්වා නොමැති බවද පත්මේන්ද්‍ර විජේතිලක මහතා පැවසීය.
+A 59-year-old man who was residing in the Walaboda area in Balangoda had been found in the post mortem.
+
+He said that he was an overwhelming alcohol and had been alcohol and had been suffering from pneumonia and kidney conditions and had died due to commemoration of pure model.
+
+However, he said that two years ago was suspended and suspected that the tooth was trapped in the lung.
 
 ◼️
 
 [Data](articles/914f87bf.json)
+
+[Extended Data](ext_articles/914f87bf.ext.json)
 
 ---
 
@@ -2165,71 +2251,5 @@ The conference aims to facilitate agreements among member countries on various a
 [Data](articles/88c26fcc.json)
 
 [Extended Data](ext_articles/88c26fcc.ext.json)
-
----
-
-### The 90th CIMA President, Co-Chair of the Association of International Certified Professional Accountants,Sarah Ghosh, shares vision for a sustainable future
-
-*2024-03-28 04:43:15* · [`dailyftlk`](https://www.ft.lk/opinion/The-90thCIMAPresident-Co-Chair-of-the-Association-of-International-Certified-Professional-Accountants-Sarah-Ghosh-shares-vision-for-a-sustainable-future/14-760062) · `en`
-
-For me, it is all about having meaningful conversations. As I have travelled to different regions, I have noticed disparities, but I see these as opportunities to initiate change. It is crucial to openly discuss with senior leaders how they are encouraging opportunities for women and individuals who are neurodivergent. We need to address diversity in all forms within our organisations. This involves implementing mechanisms to break down barriers and support career progression for everyone. It is also important for men to act as allies and support women throughout their careers
-
-...
-
-[Data](articles/c4666460.json)
-
-[Extended Data](ext_articles/c4666460.ext.json)
-
----
-
-### 90th CIMA President, AICPA Co-Chair Sarah Ghosh shares vision for sustainable future
-
-*2024-03-28 04:43:15* · [`dailyftlk`](https://www.ft.lk/opinion/90th-CIMA-President-AICPA-Co-Chair-Sarah-Ghosh-shares-vision-for-sustainable-future/14-760062) · `en`
-
-CIMA President and AICPA Co-Chair Sarah Ghosh – Pic by Ruwan Walpola
-
-For me, it is all about having meaningful conversations. As I have travelled to different regions, I have noticed disparities, but I see these as opportunities to initiate change. It is crucial to openly discuss with senior leaders how they are encouraging opportunities for women and individuals who are neurodivergent. We need to address diversity in all forms within our organisations. This involves implementing mechanisms to break down barriers and support career progression for everyone. It is also important for men to act as allies and support women throughout their careers
-
-...
-
-[Data](articles/d39cd8be.json)
-
-[Extended Data](ext_articles/d39cd8be.ext.json)
-
----
-
-### The digital road to heaven
-
-*2024-03-28 04:32:46* · [`dailyftlk`](https://www.ft.lk/columns/The-digital-road-to-heaven/4-760061) · `en`
-
-Developing digital public infrastructure – a critical measure to accelerate economic growth
-
-Infrastructure development is a fundamental for economic growth. Any country seeking to improve its people’s lives must invest in infrastructure to ensure free and speedy movement of goods and services. Trade and commerce and therefore economic growth depend on such developments.
-
-So historically the road to economic heaven has been literally that – building of roads, and other infrastructure for free and easy movement of goods. And this kind of development took years. Sometimes decades before its fruits could be tasted by the common man.
-
-It’s the same in 2024. Except the new road that promises a speedy compressed gateway to economic heaven is also digital. And digital infrastructure building is fast becoming a way of catapulting and accelerating economic development.
-
-...
-
-[Data](articles/a90b3249.json)
-
-[Extended Data](ext_articles/a90b3249.ext.json)
-
----
-
-### Ad hoc changes to National College of Education admission policy
-
-*2024-03-28 04:15:12* · [`dailyftlk`](https://www.ft.lk/columns/Ad-hoc-changes-to-National-College-of-Education-admission-policy/4-760054) · `en`
-
-Applications have been called for the admission of students to National Colleges of Education by Gazette notification dated 15 March 2024. Students who passed the A Level exam in 2021 and 2022 are eligible to apply. This time two important changes have been introduced to the admission policy.
-
-The admission of students which was hundred percent based on district basis has now been made fifty percent based on national level and fifty percent based on district level.
-
-...
-
-[Data](articles/60836bb4.json)
-
-[Extended Data](ext_articles/60836bb4.ext.json)
 
 ---

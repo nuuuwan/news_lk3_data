@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 23:03:24**
+As of **2024-03-28 23:18:15**
 
 ## Newspaper Stats
 
-*Scraped **15,792** Articles*
+*Scraped **15,793** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 867
 islandlk | 868
 adalk | 1,339
 tamilmirrorlk | 1,893
-adaderanalk | 1,896
+adaderanalk | 1,897
 virakesarilk | 2,234
 dailymirrorlk | 2,437
 adaderanasinhalalk | 2,542
@@ -26,25 +26,51 @@ adaderanasinhalalk | 2,542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,791 (100.0%) of 15,792 articles have been extended.
+15,792 (100.0%) of 15,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### ළමුන්ගේ සහ කාන්තාවන්ගේ ආරක්ෂාවට නව නීති
+### PM Dinesh urges Asian countries to rededicate to eradicate poverty
+
+*2024-03-28 22:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98274/pm-dinesh-urges-asian-countries-to-rededicate-to-eradicate-poverty) · `en`
+
+Sri Lanka’s Prime Minister Dinesh Gunawardena on Thursday called upon the Asian countries to rededicate themselves to building an Asia, free from poverty where prosperity is equitably shared.
+
+Addressing the BOAO Forum for Asia Annual Conference 2024 in Hainan in China, he praised China’s “miraculous success story of lifting millions of people from poverty to a higher living standard under the able leadership of President Xi Jinping,” and added that concept provides a pathway for other countries faced with the problem of poverty.
+
+The Prime Minister called for new initiatives to ensure agricultural growth and food security, as it would not only ensure poverty eradication but also social harmony and peace. He emphasised the imperative need for harnessing renewable energy resources.
+
+...
+
+[Data](articles/58cc9cef.json)
+
+---
+
+### New rules for children and women's safety
 
 *2024-03-28 22:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195053) · `si`
 
-අන්තර්ජාලය වෙත යොමුකර ඇති හා සමාජ මාධ්‍ය ජාලා මඟින් හුවමාරුවන ළමයින්ගේ නිරුවත් ඡායාරූප හා අසභ්‍ය වීඩියෝ දර්ශන කඩිනමින් ඉවත් කිරීමේ මාර්ගගත ප්‍රවේශය එළිදැක්වීම අද (28) පස්වරුවේ ජනාධිපති කාර්යාලයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් සිදුකර තිබේ.
+President Ranil Wickremesinghe introduced new safety measures for children and women, partnering with the Internet Watch Foundation and the National Child Protection Authority. Reports can be made online, and video evidence is shared with police. A committee has been formed to study child protection, with recommendations for immediate implementation. The President emphasized the need for commitment from all sectors to protect children and women.
 
-ළමා ලිංගික අපයෝජන සිදුවීම් අඩංගු හෝ අඩංගු විය හැකි වෙබ් අඩවි, ඡායාරූප සහ වීඩියෝ දර්ශන හේතුවන් ළමුන් සයිබර් අවකාශය තුළ හිංසනයට ලක්වීම වර්තමානයේ විශාල ගැටළුවක්ව පවතී.
+🟩
 
-ජාතික ළමා ආරක්ෂක අධිකාරිය විසින් ලෝකයේ ප්‍රමුඛතම අන්තර්ජාල ළමා ආරක්ෂාව තහවුරු කිරීමේ ආයතනයක් වන එක්සත් රාජධානියේ ඉන්ටර්නෙට් වොච් ෆවුන්ඩේෂන් ( Internet Watch Foundation – IWF) ආයතනය සමඟ එක්ව මෙම වැඩසටහන ක්‍රියාත්මක කර තිබෙන අතර මෙහි මූල්‍ය අනුග්‍රාහකත්වය Save the Children සහ Child Fund යන ආයතන විසින් සපයනු ලබයි.
+President Ranil Wickremesinghe has been launched by President Ranil Wickremesinghe at the Presidential Secretariat today (28) at the presidency.
+
+Web sites, photos and videos of websites, containing or containing child sexual abuse incidents are being violent in cyber space at present.
+
+The National Child Protection Authority has implemented the program with Internet Watch Foundation - IWF, the ICT, the Financial Sponsorship of the International Sponsorship.
+
+After introducing this online method, anyone can report on to www.childProtection.gov.lk to visit www.CHldProtection.gov.lk and the IWF in coordination of the National Child Protection Authority.Videos are provided to the institutions that appear to the police stations on the Internet and the accurate information on the suspects.
+
+More information on this is available on 011 - 2 77891 long numbers (269) Long Number (269) Long Number (269).
 
 ...
 
 [Data](articles/a539014f.json)
+
+[Extended Data](ext_articles/a539014f.ext.json)
 
 ---
 
@@ -2259,33 +2285,5 @@ The Colombo High Court has been convicted by the Attorney General's executive.
 [Data](articles/c78f53aa.json)
 
 [Extended Data](ext_articles/c78f53aa.ext.json)
-
----
-
-### Keppapulavu People's Landscape
-
-*2024-03-28 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179884) · `ta`
-
-Keppapulavu people demand land release. Army commander met with them, discussing land near camp. Talks continued till 7.45 pm, with officials stating government has set up costs and maps, offering alternatives. People left unsatisfied, needing land and a decision.
-
-🟩
-
-The 59.5 acres of land belonging to the Keppapulavu people in the Mullaitivu district have been launched to release the land.
-
-In this backdrop, the people of Keppapulavu, demanding the release of their lands on Wednesday, were speaking out in front of the Keppapulavu Army Headquarters.
-
-The Sri Lankan army commander who traveled to the Mullaitivu district yesterday expressed his request in front of the Keppapulavu Commander, saying that the military investigators had arranged the opportunity to meet the military commander.
-
-Accordingly, it is time to meet with the military commander at 3 pm and continue to take care of the names of the 5 persons and the identity card number.
-
-At 5 pm, the Army Commander was able to see the army commander's departure from the Keppapulavu army camp and took the protesters to meet the army commander.
-
-There, a top official of the Vanni region met them. The meeting was held till 7.45 pm.
-
-...
-
-[Data](articles/b86aa0c3.json)
-
-[Extended Data](ext_articles/b86aa0c3.ext.json)
 
 ---

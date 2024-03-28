@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 12:49:16**
+As of **2024-03-28 13:03:19**
 
 ## Newspaper Stats
 
-*Scraped **15,695** Articles*
+*Scraped **15,697** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 847
 economynextcom | 857
 islandlk | 867
 adalk | 1,335
-adaderanalk | 1,879
+adaderanalk | 1,881
 tamilmirrorlk | 1,887
 virakesarilk | 2,221
 dailymirrorlk | 2,421
@@ -26,25 +26,35 @@ adaderanasinhalalk | 2,515
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,692 (100.0%) of 15,695 articles have been extended.
+15,695 (100.0%) of 15,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### “ஜூலியனுக்கு மரண தண்டனை விதிக்க கூடாது”
+### “Julian should not be sentenced to death”
 
 *2024-03-28 12:29:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஜூலியனுக்கு-மரண-தண்டனை-விதிக்க-கூடாது/50-335305) · `ta`
 
-விக்கிலீக்ஸ் நிறுவனர் ஜூலியன் அசாஞ்சேவுக்கு மரண தண்டனை விதிக்கப்படாது என்று அமெரிக்க அரசு உத்தரவாதம் அளிக்குமா என பிரிட்டிஷ் உயர் நீதிமன்றம் கேள்வி எழுப்பி உள்ளது. இதுகுறித்து 3 வாரங்களுக்குள் பதில் அளிக்க நீதிபதி டேமி விக்டோரியா ஷார்ப் உத்தரவிட்டுள்ளார்.
+"Judge Tami Victoria Sharp questions if the US would guarantee Julian Assange's safety from death sentence. Assange, founder of WikiLeaks, has been imprisoned in London since 2019. The British High Court is pending on the case."
 
-ஆஸ்திரேலியாவை சேர்ந்த செய்தியாளர் ஜுலியன் அசாஞ்சே (52) கடந்த 2006-ம் ஆண்டில் விக்கிலீக்ஸ் என்ற இணையதளத்தை தொடங்கினார். கடந்த 2010-ல் ஆப்கானிஸ்தான், ஈராக் போர் தொடர்பான ரகசிய ஆவணங்கள் இந்த இணையதளத்தில் வெளியாகின. இதில் அமெரிக்க இராணுவத்தின் பல்வேறு ரகசியங்கள் அம்பலப்படுத்தப்பட்டன.
+🟩
 
-இந்த சூழலில் பாலியல் வன்கொடுமை வழக்கில் ஜூலியன் அசாஞ்சேவை கைது செய்ய கடந்த 2010-ம் ஆண்டு நவம்பரில் சுவீடன் நீதிமன்றம் வாரண்ட் பிறப்பித்தது. கைது நடவடிக்கையில் இருந்து தப்பிக்க கடந்த 2012-ம் ஆண்டில் பிரிட்டிஷ் தலைநகர் லண்டனில் உள்ள ஈகுவடார் தூதரகத்தில் அவர் தஞ்சமடைந்தார்.
+The British High Court has questioned whether the US government would guarantee that WikiLeaks founder Julian Assange would not be sentenced to death. Judge Tami Victoria Sharp has ordered to respond within 3 weeks.
+
+Australia-based journalist Julian Assange (52) launched WikiLeaks website in 2006. In 2010. Various secrets of the US military were exposed.
+
+In November 2010, the Swedish court issued a warrant for the arrest of Julian Assange in case of sexual abuse. In 2012, he sought refuge at the Ecuadorian embassy in London, the British capital, to escape his arrest.
+
+The Ecuadorian government withdrew the refuge in 2019. Following this, the British police arrested Julian Assange. He has been imprisoned in South London for the past 5 years.
+
+The state government has imposed 17 allegations, including the spying of the United States and the stealing military secrets.. In June 2022, the British Home Ministry approved the deportation of the United States.
 
 ...
 
 [Data](articles/cbea81c8.json)
+
+[Extended Data](ext_articles/cbea81c8.ext.json)
 
 ---
 
@@ -61,6 +71,8 @@ Colombo, March 28 (Daily Mirror)- The Catholic Bishops Conference in its Easter 
 ...
 
 [Data](articles/4fa6dbc9.json)
+
+[Extended Data](ext_articles/4fa6dbc9.ext.json)
 
 ---
 
@@ -151,6 +163,24 @@ In his complaint, Senasinghe alleged that the purchase was made despite the know
 [Data](articles/0b4bab51.json)
 
 [Extended Data](ext_articles/0b4bab51.ext.json)
+
+---
+
+### Bribery Commission files case against Cabraal over 2012 Greek T-Bills purchase
+
+*2024-03-28 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98257/bribery-commission-files-case-against-cabraal-over-2012-greek-t-bills-purchase) · `en`
+
+Legal action has been instituted against five individuals including former Governor of Central Bank of Sri Lanka (CBSL) Ajith Nivard Cabraal, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) says.
+
+Accordingly, the Bribery Commission on March 26 instituted legal action in the Colombo High Court under Case No. HCB 271/2024 after concluding its investigations into a complaint filed by former MP Sujeewa Senasinghe.
+
+The complaint had been put forward against the Central Bank’s purchase of Treasury Bills issued by the Government of Greece in 2012 when the southeastern European country was experiencing a severe financial crisis.
+
+In his complaint, Senasinghe alleged that the purchase was made despite the knowledge of the financial crisis faced by Greece, and caused a loss of more than Rs. 1.84 billion to the Government of Sri Lanka.
+
+...
+
+[Data](articles/413fee07.json)
 
 ---
 
@@ -297,6 +327,8 @@ Earlier Bangladesh won the three-match ODI series by 2-1 before losing the T20 s
 ◼️
 
 [Data](articles/04080e4b.json)
+
+[Extended Data](ext_articles/04080e4b.ext.json)
 
 ---
 
@@ -1025,6 +1057,28 @@ At a press conference on Wednesday, Maryland State Police identified Alejandro H
 [Data](articles/7deac523.json)
 
 [Extended Data](ext_articles/7deac523.ext.json)
+
+---
+
+### Baltimore bridge collapse: Two bodies recovered from underwater wreckage
+
+*2024-03-28 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98253/baltimore-bridge-collapse-two-bodies-recovered-from-underwater-wreckage) · `en`
+
+The bodies of two people have been recovered from a red pickup truck, which was submerged under the water where the Baltimore Bridge collapsed.
+
+Eight construction workers were on the bridge when a ship struck it, plunging them into the waters below.
+
+Two of the workers were rescued on the day, but the search continues for the other four - all presumed dead.
+
+Salvage crews are working to address hazardous materials and accident investigators are on the scene.
+
+Four of the six victims of the bridge collapse have been named so far.
+
+At a press conference on Wednesday, Maryland State Police identified Alejandro Hernandez Fuentes, 35, and Dorlian Ronial Castillo Cabrera, 26, as the two workers recovered by divers from inside the truck. Mr Fuentes is originally from Mexico and Mr Cabrera is from Guatemala.
+
+...
+
+[Data](articles/a13257df.json)
 
 ---
 
@@ -2225,47 +2279,5 @@ Kasun Rajitha and Vishwa Fernando have also improved significantly in the Test b
 [Data](articles/e65e0a02.json)
 
 [Extended Data](ext_articles/e65e0a02.ext.json)
-
----
-
-### EY GDS Sri Lanka celebrates two years of growth and success
-
-*2024-03-27 22:21:00* · [`islandlk`](http://island.lk/ey-gds-sri-lanka-celebrates-two-years-of-growth-and-success/) · `en`
-
-Unveiling expansion strategies and continued commitment to cultivating local talent
-
-EY Global Delivery Services (GDS) proudly celebrates its second successful year in Sri Lanka. EY GDS is a globally integrated and dynamic network of over 75,000 professionals across 10 countries dedicated to providing innovative business solutions to EY member firms to support EY clients worldwide.
-
-Related Topics:EY GDS Sri LankaEY GDS Sri Lanka celebrates two years of growth and success
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/03e4d084.json)
-
-[Extended Data](ext_articles/03e4d084.ext.json)
-
----
-
-### Gulf Air Sri Lanka felicitates its outstanding Passenger and Cargo agents
-
-*2024-03-27 22:19:00* · [`islandlk`](http://island.lk/gulf-air-sri-lanka-felicitates-its-outstanding-passenger-and-cargo-agents/) · `en`
-
-Gulf Air recently hosted an awards night to recognize their top-performing passenger and cargo agents in Sri Lanka for their continuous support that ensured its success in 2023.
-
-The awards ceremony, held at the Spice Room, Shangri-la, Colombo on March 1st, was graced by the presence of the Sri Lanka team along with the Country Manager, Senior Sales Manager Rashid Abdulrahman AlGaoud from Head office, and the dedicated Passenger and Cargo teams who presented the well-deserved awards to the local agents.
-
-The event’s highlight was celebrating the longstanding partnership with top agents from the passenger and cargo sector.
-
-The top performing Passenger agents in order of highest achievement were presented to Inqbaytor Group (Pvt) Ltd, 2nd Chance (Pvt) Ltd, and Classic Travel (Pvt) Ltd.
-
-...
-
-[Data](articles/49548cdc.json)
-
-[Extended Data](ext_articles/49548cdc.ext.json)
 
 ---

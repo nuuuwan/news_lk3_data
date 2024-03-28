@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 12:03:18**
+As of **2024-03-28 12:18:16**
 
 ## Newspaper Stats
 
-*Scraped **15,682** Articles*
+*Scraped **15,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 847
 economynextcom | 849
 islandlk | 867
 adalk | 1,335
-adaderanalk | 1,878
+adaderanalk | 1,879
 tamilmirrorlk | 1,886
 virakesarilk | 2,220
 dailymirrorlk | 2,419
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,515
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,680 (100.0%) of 15,682 articles have been extended.
+15,682 (100.0%) of 15,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### Bribery Commission institutes legal action against five including Cabraal
+
+*2024-03-28 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98257/bribery-commission-institutes-legal-action-against-five-including-cabraal) · `en`
+
+Legal action has been instituted against five individuals including former Central Bank Governor Ajith Nivard Cabraal, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) says.
+
+Accordingly, the Bribery Commission has instituted legal action in the Colombo High Court under Case No. HCB 271/2024 on March 26 after concluding its investigations into a complaint filed by former MP Sujeewa Senasinghe.
+
+The complaint had been put forward against the Central Bank’s purchase of Treasury Bills issued by the Government of Greece in 2012 when the country was experiencing a severe financial crisis.
+
+In his complaint, Senasinghe alleged that the purchase, which was done despite the knowledge of the financial crisis faced by Greece, caused a loss of more than Rs. 1.84 billion to the Government of Sri Lanka.
+
+...
+
+[Data](articles/0b4bab51.json)
+
+---
 
 ### DCS reveals Sri Lanka’s minimum monthly expenditure per person
 
@@ -48,33 +66,13 @@ Meanwhile, Monaragala District has reported the lowest minimum monthly expenditu
 
 [Data](articles/4cfd4f72.json)
 
----
-
-### Mullaitivu Regional Superintendent killed in accident
-
-*2024-03-28 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195024) · `si`
-
-Mullaitivu Regional Superintendent Akilagendran killed in a collision between two tippers. Kindurus, the Health Medical Superintendent, seriously injured.
-
-🟩
-
-Mullaitivu District Regional Authority has died in a fatal accident.
-
-The police said that a tipper from Vavuniya to Jaffna and a tipper from Mullaitivu to Vavuniya, the Health Medical Superintendent of Health Sciences has collided.
-
-Mullaittivu district Regional Medical Superintendent Kindurus who was seriously injured in the accident. Akilagendran has been killed in that place.
-
-◼️
-
-[Data](articles/52008e57.json)
-
-[Extended Data](ext_articles/52008e57.ext.json)
+[Extended Data](ext_articles/4cfd4f72.ext.json)
 
 ---
 
 ### Keppapulavu People's Landscape
 
-*2024-03-28 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179884) · `ta`
+*2024-03-28 11:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/179884) · `ta`
 
 Keppapulavu people demand land release. Army commander met with them, discussing land near camp. Talks continued till 7.45 pm, with officials stating government has set up costs and maps, offering alternatives. People left unsatisfied, needing land and a decision.
 
@@ -97,6 +95,28 @@ There, a top official of the Vanni region met them. The meeting was held till 7.
 [Data](articles/b86aa0c3.json)
 
 [Extended Data](ext_articles/b86aa0c3.ext.json)
+
+---
+
+### Mullaitivu Regional Superintendent killed in accident
+
+*2024-03-28 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195024) · `si`
+
+Mullaitivu Regional Superintendent Akilagendran killed in a collision between two tippers. Kindurus, the Health Medical Superintendent, seriously injured.
+
+🟩
+
+Mullaitivu District Regional Authority has died in a fatal accident.
+
+The police said that a tipper from Vavuniya to Jaffna and a tipper from Mullaitivu to Vavuniya, the Health Medical Superintendent of Health Sciences has collided.
+
+Mullaittivu district Regional Medical Superintendent Kindurus who was seriously injured in the accident. Akilagendran has been killed in that place.
+
+◼️
+
+[Data](articles/52008e57.json)
+
+[Extended Data](ext_articles/52008e57.ext.json)
 
 ---
 
@@ -614,25 +634,31 @@ The official poverty line is adjusted by the National and District level prices,
 
 ---
 
-### தனி நபரின் மாதாந்த வாழ்க்கை செலவு  அதிகரிப்பு
+### Increase in the cost of living in the individual's monthly life
 
 *2024-03-28 09:35:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனி-நபரின்-மாதாந்த-வாழ்க்கை-செலவு-அதிகரிப்பு/175-335293) · `ta`
 
-தனிநபர் ஒருவரின் மாதாந்த செலவு அதிகரித்துள்ளதாக மக்கள் தொகை கணக்கெடுப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் தெரிவித்துள்ளது.
+The cost of living has risen, with the average monthly expense for basic needs now at 17,014 rupees. Colombo, Gampaha, and Nuwara Eliya districts have higher costs, while Moneragala has the lowest at 16,268 rupees.
 
-இவ்வருடம் ஜனவரி மாதத்தில் ஒருவருக்கு தமது அடிப்படைத் தேவைகளைப் பூர்த்தி செய்வதற்குத் தேவையான குறைந்தபட்ச மாதாந்தச் செலவு சராசரியாக 17,014 ரூபாயாக அதிகரித்துள்ளதாக திணைக்களம் சுட்டிக்காட்டியுள்ளது.
+🟩
 
-ஒரு நபரின் அடிப்படைத் தேவைகளைப் பூர்த்தி செய்வதற்காக மாவட்ட மட்டத்தில் மாதாந்தச் செலவு கணக்கிடப்பட்டுள்ளதாகவும், கொழும்பு மாவட்டத்தில் வாழும் மக்களே அதிக செலவினங்களைச் சுமக்க வேண்டியுள்ளதாகவும் குறிப்பிடப்பட்டுள்ளது.
+The census and statistics department said the monthly cost of an individual has increased.
 
-இதன்படி, கொழும்பு மாவட்டத்தில் தனிநபர் மாதாந்தச் செலவு 18,350 ரூபாயாகவும், கம்பஹா மாவட்டத்தில் 18,256 ரூபாயாகவும், நுவரெலியா மாவட்டத்தில் 17,892 ரூபாயாகவும் உள்ளது.
+The department has pointed out that the minimum monthly cost to meet their basic needs in January this year has increased to an average of 17,014 rupees.
 
-சனத்தொகை மற்றும் புள்ளிவிவரத் திணைக்களத்தின் அறிக்கையின்படி, மொனராகலை மாவட்டத்திலிருந்து மிகக் குறைந்த தனிநபர் செலவீனம் பதிவாகியுள்ளதுடன் அது 16,268 ஆகும்.
+It has been noted that the monthly cost has been calculated at the district level to meet the basic needs of a person and the people living in the Colombo district have to carry more expenses.
 
-உத்தியோகபூர்வ வறுமைக் கோடு தேசிய நுகர்வோர் விலைக் குறியீட்டின்படி தேசிய மற்றும் மாவட்ட அளவில் விலை மாற்றங்களைக் கணக்கில் கொண்டு சரிசெய்யப்படுகிறது.
+Accordingly, the private cost of the Colombo district is 18,350 rupees, Rs 18,256 in the Gampaha district and Rs 17,892 in Nuwara Eliya district.
+
+According to a report by the Department of Population and Statistics, the lowest personal expenses from the Moneragala district have been reported and it is 16,268.
+
+The official poverty line is adjusted by the National and District level prices, according to the National Consumer Price Index.
 
 ◼️
 
 [Data](articles/60f0faac.json)
+
+[Extended Data](ext_articles/60f0faac.ext.json)
 
 ---
 
@@ -2253,29 +2279,5 @@ Pope Suresh, Dali Aishwarya, Giri Dwarakesh, Selva, Selva, Dandapani, Kumaran an
 [Data](articles/33e843b9.json)
 
 [Extended Data](ext_articles/33e843b9.ext.json)
-
----
-
-### First Single release of 'Global Star'
-
-*2024-03-27 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179833) · `ta`
-
-"First single 'Jarakandi' from 'Gam Changer', featuring Ram Charan, released in Tamil, Telugu, and Hindi. Directed by Shankar, it stars Ram Saran, Kiara Advani, and others. Produced by Sri Venkateswara Creations, it's the first look of the film. The song, written by Vivek and sung by Thaler Mehndi and Pooja Venkat, is expected to reach 100 million views."
-
-🟩
-
-The song 'Jarakandi', which is featured in the film 'Gam Changer' starring the hero of 'Global Star' Ram Charan, has been released.. The song, which is released on Ramsaran's birthday, has been released in all three languages - Tamil, Telugu and Hindi.
-
-Ram Saran, Kiara Advani, Anjali, Samudrakani, S Shankar, one of India's leading star directors, Shankar.. J.. Surya, Srikanth, Sunil and many others have played. S.. The film has been recorded by Thirunavukkarasu. Taman has composed music.
-
-The film is being produced by Sri Venkateswara Creations, producers Dil Raju and Sirish, on behalf of Sri Venkateswara Creations.
-
-The film has been released as the first look and the song 'Jarakandi', which has been released in his exclusive dance, has been released on the birthday of the hero of the film, Ram Saran's birthday.
-
-...
-
-[Data](articles/f5c36d6d.json)
-
-[Extended Data](ext_articles/f5c36d6d.ext.json)
 
 ---

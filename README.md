@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 13:33:44**
+As of **2024-03-28 13:52:17**
 
 ## Newspaper Stats
 
-*Scraped **15,700** Articles*
+*Scraped **15,702** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ dailyftlk | 847
 economynextcom | 857
 islandlk | 867
 adalk | 1,335
-adaderanalk | 1,882
+adaderanalk | 1,883
 tamilmirrorlk | 1,887
 virakesarilk | 2,221
 dailymirrorlk | 2,421
-adaderanasinhalalk | 2,516
+adaderanasinhalalk | 2,517
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,699 (100.0%) of 15,700 articles have been extended.
+15,700 (100.0%) of 15,702 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### Nearly 100 people still missing after Moscow attack, Russian news site says
+
+*2024-03-28 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98260/nearly-100-people-still-missing-after-moscow-attack-russian-news-site-says) · `en`
+
+As many as 95 people are still missing after last week’s attack near Moscow when gunmen sprayed concertgoers with automatic weapons and set the venue on fire, a Russian news outlet reported on Wednesday.
+
+The official toll from the attack on Crocus City Hall now stands at 140 dead and 182 wounded. But the Baza news service, which has good contacts in Russian security and law enforcement, said 95 more people appeared in lists compiled by the emergency services based on appeals from people about missing relatives.
+
+“These lists include people with whom relatives have not been able to get in touch since the terrorist attack, but who are not on the lists of wounded and dead,” Baza said. “Some of these people died, but have not yet been identified.”
+
+Russian investigators said the attack was carried out by four shooters using Kalashnikov automatic weapons. More than 500 rounds were found at the scene.
+
+...
+
+[Data](articles/eef1e0c1.json)
+
+---
+
+### නිවසකට පැන එල්ල කළ ප්‍රහාරයේදී T56 පත්තු නොවෙයි
+
+*2024-03-28 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195026) · `si`
+
+මහබාගේ මත්තුමගල ප්‍රදේශයේදී පුද්ගලයෙකු වෙඩි තබා ඝාතනය කිරීමට ගත් උත්සාහයක් ව්‍යාර්ථ වී තිබේ.
+
+ඒ අපරාධයට පැමිණි පිරිස රැගෙන ආ ගිනි අවිය ක්‍රියාත්මක නොවීම හේතුවෙනි.
+
+අද (28) උදෑසන 7.45ට පමණ මහබාගේ, මත්තුමගල ප්‍රදේශයේ නිවසකට යතුරුපැදියකින් පුද්ගලයන් දෙදෙනෙකු පැමිණ තිබුණි.
+
+පොලීසිය පැවසුවේ එහිදී යතුරුපැදියේ පැමිණි අයෙක් අදාළ නිවසේ සිටි පුද්ගලයෙකුට ටී 56 වර්ගයේ ගිනි අවියකින් වෙඩි තැබීමට උත්සහා දරා ඇති බවය.
+
+නමුත් එම අවස්ථාවේදී ගිනි අවියේ මැගසින් කොටස අවියෙන් ගැලවී බිම වැටී තිබේ.
+
+ඒ සමග නිවැසියා වෙඩික්කරු සමග පොරබදා ඇති අතර වෙඩිකරු යතුරුපැදියේ නැගී පළාගොස් තිබුණේ ඔහුගේ හෙල්මටය සහ ගිනිඅවියේ මැගසිනයද අත්හැර දමමිනි.
+
+පොරබැදීමෙන් සුළු තුවාල ලැබූ නිවැසියා ප්‍රතිකාර සඳහා රාගම ශික්ෂණ රෝහලට ඇතුළත් කර තිබේ.
+
+◼️
+
+[Data](articles/53caf52b.json)
+
+---
 
 ### Earth rotation rate changes
 
@@ -1378,25 +1420,35 @@ The Grandpass was reported from the Grandpass area to attack and kill a person.
 
 ---
 
-### ඥානසාර හිමිට බරපතල වැඩ සහිත වසර 4ක සිරදඬුවම්
+### Gnanasara Thero sentenced to four years in prison with serious work
 
 *2024-03-28 06:18:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd1vp024y22o) · `si`
 
-කූරගල විහාරස්ථානය සම්බන්ධයෙන් පැවති මාධ්‍ය සාකච්ඡාවකදී ආගම් අතර සමගිය කඩවන ආකාරයෙන්, ඉස්ලාම් දහමට අපහාසාත්මක වන ප්‍රකාශයක් කිරීමේ චෝදනාවට වරදකරු කෙරුණු  පුජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන්ට කොළඹ මහාධිකරණය විසින් අද (මාර්තු 28 වැනිදා) බරපතල වැඩ සහිත වසර 4 ක සිර දඬුවම් නියම කරනු ලැබීය
+Gnanasara Thero, sentenced to 4 years in prison for making a statement under Section 295 of the Penal Code, was also fined Rs. 500,000. The case was filed by former MP Mujibar Rahman and Azad Salley.
 
-මෙම සිද්ධියට අදාළව ඥානසාර හිමියන්ට එරෙහිව නීතිපතිවරයා විසින් දණ්ඩ නිති සංග්‍රහයේ 295 වන වගන්තිය යටතේ චෝදනා දෙකක් ඉදිරිපත් කරනු ලැබ තිබුණි.
+🟩
 
-ඉන් අනතුරුව එක් එක් චෝදනාවට වසර දෙක බැගින් සිර දඬුවම් නියම කළ මහාධිකරණ විනිසුරු ආදිත්‍ය පටබැඳිගේ එම දඬුවම් වෙන් වෙන් වශයෙන් ගෙවී යා යුතු බවත් නියෝග කළේය.
+The Colombo High Court today (28th March), the Colombo High Court today (28th March) has been sentenced to a 4 year-long-up-to-day sentenced to death
 
-ඒ අනුව ඥානසාර හිමියන්ට බරපතළ වැඩ සහිත වසර හතරක සිර දඬුවම් හිමිවනු ඇත.
+The Attorney General was submitted under Section 295 of the Penal Code against Gnanasara Thera.
 
-ඊට අමතරව එක් එක් චෝදනාවට රුපියල් 50000 බැගින් රුපියල් ලක්ෂයක දඩයක්ද විනිසුරුවරයා විසින් නියම කරනු ලැබීය.
+The High Court Judge Adadi Paneendi's punishment should be paid separately separately.
 
-එම දඩ මුදල් ගෙවීම පැහැර හරිනු ලැබුවොත් අමතරව වසර දෙකක සිර දඬුවම් නියම කරන බවත් නියෝගයේ සඳහන් විය.
+Gnanasara Thero will be sentenced to four years of prison sentences.
+
+In addition, the judge also was sentenced to Rs. 500,000 to each charge.
+
+The order was stated in two years of prison in addition to the default payment of the fine.
+
+At a press conference on March 30, 2016, the Attorney General was filed by the Attorney General with a statement made by a statement in the Kuragala Viharaya.
+
+The lawyer who appeared before the punishment before the punishment was stated that the Gnanasara Thera made the statement based on the atmosphere of the country.
 
 ...
 
 [Data](articles/ddbe04b9.json)
+
+[Extended Data](ext_articles/ddbe04b9.ext.json)
 
 ---
 
@@ -2237,45 +2289,5 @@ Dr. Akilandran, a former Director of Vavuniya District General Hospital and Dire
 [Data](articles/dad657ab.json)
 
 [Extended Data](ext_articles/dad657ab.ext.json)
-
----
-
-### Due to the abolition of the Senate System to cause ethnic problem in the country -Justice Minister Wijeyadasa Rajapaksa
-
-*2024-03-27 22:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179849) · `ta`
-
-Justice Minister Wijeyadasa Rajapaksa argues that the 1972 Constitution's abolition of the Senate system led to ethnic problems. He suggests discussing its reinstatement, citing the need for a system like the Senate to foster ethnic harmony.
-
-🟩
-
-In the 1972 Constitution, the Senate system was canceled in our country.Senate's abolition was a reason for the ethnic problem. Minister of Justice Wijeyadasa Rajapaksa said that the Senate should be discussed.
-
-He was speaking at a discussion held in Colombo yesterday evening on the new election amendment.
-
-The existing electoral system in the country must be changed. 994, 2015 elections and many other occasions were recommended to change this election system. It has been proposed to elect 160 MPs in the new electoral system and 65 MPs under the proportional system.
-
-The Regulatory Act on Election Costs is currently permitted. The authority to implement it belongs to the Election Commission. At the same time, some say that the comment on changing the electoral system is to retrose the election. This electoral system is not going to take any election in any way. All party leaders should discuss and decide on electoral change.
-
-...
-
-[Data](articles/268d4abd.json)
-
-[Extended Data](ext_articles/268d4abd.ext.json)
-
----
-
-### Has evolution found ways to prevent cancer and halt progression to old age?
-
-*2024-03-27 22:56:00* · [`islandlk`](http://island.lk/has-evolution-found-ways-to-prevent-cancer-and-halt-progression-to-old-age/) · `en`
-
-The high incidence of cancer alarms us. Around six percent of the human population worldwide suffers from cancer. It is the most challenging health issue to resolve and the leading cause of death, only second to cardiovascular disease. More than 10 million people die of cancer every year. In some regions, cancer deaths exceed heart disease mortality because of the availability of more successful preventive and curative measures for the latter.
-
-With all these fears, the relief and the promise are cancers occur less frequently than expected. Many live beyond 100 years without contracting cancer but die because of other natural causes. Animals also get cancer, but there are species exceptionally resistant to it. And evolution has found solutions to suppress malignancy. Following them would be a hopeful avenue to prevent and cure this dreadful malady.
-
-...
-
-[Data](articles/e09a9940.json)
-
-[Extended Data](ext_articles/e09a9940.ext.json)
 
 ---

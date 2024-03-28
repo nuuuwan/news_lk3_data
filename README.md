@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 22:18:09**
+As of **2024-03-28 22:33:28**
 
 ## Newspaper Stats
 
-*Scraped **15,788** Articles*
+*Scraped **15,791** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,84 @@ economynextcom | 867
 islandlk | 868
 adalk | 1,339
 tamilmirrorlk | 1,893
-adaderanalk | 1,895
+adaderanalk | 1,896
 virakesarilk | 2,234
-dailymirrorlk | 2,436
-adaderanasinhalalk | 2,540
+dailymirrorlk | 2,437
+adaderanasinhalalk | 2,541
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,788 (100.0%) of 15,788 articles have been extended.
+15,788 (100.0%) of 15,791 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### Sri Lanka calls for debt-restructuring proposals from dealer managers
+
+*2024-03-28 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98273/sri-lanka-calls-for-debt-restructuring-proposals-from-dealer-managers) · `en`
+
+(Reuters) - Sri Lanka has called for proposals from dealer managers to support its restructuring of some $12 billion of international bonds, the Finance Ministry said on Thursday, in a fresh sign that the island nation is closing in on finalizing its debt rework.
+
+Sri Lanka defaulted on its foreign debt in May 2022 as the economy sank into its deepest financial crisis in decades due to a severe shortfall of dollars. The government was expected to start formal restructuring talks with bondholders this week.
+
+“In the context of the restructuring of its International Sovereign Bonds (ISBs), the Government of Sri Lanka is working towards launching an invitation to exchange its existing ISBs denominated in United States Dollars for new ISBs in the same currency,” the notice posted on the Finance Ministry’s website said.
+
+...
+
+[Data](articles/e3baf2e6.json)
+
+---
+
+### Fallen ’Crypto King’ Sam Bankman-Fried gets for 25 years for fraud
+
+*2024-03-28 22:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fallen-Crypto-King-Sam-Bankman-Fried-gets-for-25-years-for-fraud/108-279790) · `en`
+
+Sam Bankman-Fried, co-founder of the failed crypto exchange FTX, has been sentenced to 25 years in prison for defrauding customers and investors of his now-bankrupt firm.
+
+The ruling cements the downfall of the former billionaire, who emerged as a high profile champion of crypto before his firm's dramatic collapse in 2022.
+
+The 32-year-old was later found to have stolen billions from customers of the exchange ahead of its implosion.
+
+But he was convicted by a New York jury in November on charges including multiple counts of wire fraud and conspiracy to commit money laundering.
+
+During the sentencing hearing on Thursday, Judge Lewis Kaplan provided a harsh assessment, saying it was clear Bankman-Fried was motivated by a drive to be politically influential.
+
+Despite "protestations of sorrow" about customer losses, Judge Kaplan said, Bankman-Friend had expressed "never a word of remorse for the commission of terrible crimes".
+
+...
+
+[Data](articles/03a05a09.json)
+
+---
+
+### මා ඔයේ සැඟවුණු දරුවන්ගේ දේහයන් නිවෙස්වලට
+
+*2024-03-28 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195052) · `si`
+
+මා ඔයේ දියනෑමට ගොස් ඊයේ (27) දියේ ගිලී ජීවිතක්ෂයට පත්වූ පාසල් සිසුන් සිව්දෙනාගේ මෘත දේහ සම්බන්ධ පශ්චාත් මරණ පරීක්ෂණ අද (28) සිදුකර තිබූ අතර එම දේහයන් නිවෙස් වෙත රැගෙනවිත් තිබුණි.
+
+පාසල නිමවී සිසුන් 11 දෙනෙක් මිතුරෙකුගේ නිවසකට ගොස් පසුව දිය නෑමට ගිය අවස්ථාවේදී ඔවුන් මෙම අනතුරට මුහුණ පා තිබුණි.
+
+අනතුරට මුහුණ පා ඇත්තේ පොල්ගහවෙළ ශාන්ත බර්නාදෙත් විද්‍යාලයේ 9 වැනි ශ්‍රේණියේ දරුවන් පිරිසකි.
+
+අනතුරින් මිය ගිය අලව්ව පහළ වලකුඹුර ප්‍රදේශයේ පදිංචි 14 හැවිරිදි වියේ පසුවූ  කලණ ලක්ෂිත අමරසිංහ දරුවන් දෙදෙනෙකුගෙන් යුත් පවුලේ වැඩිමල් දරුවා වන අතර ඔහුට බාල නැගණියක් සිටී.
+
+ඔහු 15න් පහළ පාසල් ක්‍රිකට් කණ්ඩායමේ නායකයා ලෙසද කටයුතු කර තිබුණි.
+
+අනතුරින් මියගිය එම ප්‍රදේශයේම පදිංචි 14 හැවිරිදි විදස් දෙවිමිණත් පවුලේ වැඩිමල් දරුවා වන අතර ඔහුට බාල සොහොයුරෙක් සිටි.
+
+කවීන් තෙනුර පොල්ගහවෙල මැද්දලන්ද ප්‍රදේශයේ පදිංචිකරුවෙක් වන අතර ඔහුත් දරුවන් දෙදෙනෙකුගෙන් යුත් පවුලේ වැඩිමල් දරුවාය.
+
+පොල්ගහවෙල පිදිවිල්ල තලවත්තේගෙදර පදිංචි රවිදු රන්මිණ පිරිමි දරුවන් දෙදෙනෙකුගෙන් යුත් පවුලේ දෙවැනි දරුවාය.
+
+...
+
+[Data](articles/ba8b54b3.json)
+
+---
 
 ### King Chipto
 
@@ -2217,83 +2281,5 @@ Mullaittivu district Regional Medical Superintendent Kindurus who was seriously 
 [Data](articles/52008e57.json)
 
 [Extended Data](ext_articles/52008e57.ext.json)
-
----
-
-### Sri Lanka Buddhist monk Gnansara thero sentenced to four years RI: report
-
-*2024-03-28 11:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-buddhist-monk-gnansara-thero-sentenced-to-four-years-ri-report-156391/) · `en`
-
-ECONOMYNEXT — General Secretary of the Bodu Bala Sena (BBS) Galagodaaththe Gnanasara Thero has been sentenced to four years of rigorous imprisonment over an allegedly defamatory comment made in 2016, a media report said.
-
-The privately owned Ada Derana news network reported on its website that the verdict was delivered by Colombo High Court Judge Aditya Patabendige on Thursday March 28.
-
-Other reports said the controversial monk was sentenced over a comment against Islam at the Kuragala Buddhist temple.
-
-The monk has also been ordered to pay a fine of 100,000 rupees.
-
-The Attorney General had filed the case against Gnanasara thero on charges of causing religious and racial disunity in Sri Lanka in the form of remarks he had made at a press conference held on March 30, 2016, reports said.
-
-The firebrand monk has been accused of promoting Islamophobia in Sri Lanka.
-
-...
-
-[Data](articles/f3149a87.json)
-
-[Extended Data](ext_articles/f3149a87.ext.json)
-
----
-
-### A group of international doctors who are shocked by the experience of Gaza -
-
-*2024-03-28 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179880) · `ta`
-
-International doctors shocked by Gaza's war impact, including a baby's death from a brain injury and a child with severe facial injuries. Medical field in Gaza severely damaged, with only a few hospitals operational.
-
-🟩
-
-The international team, which has visited Gaza's hospital, has been shocked by the worst effects of Palestinian children due to the war.
-
-While planning to visit Gaza's main hospital, a group of international doctors was ready to face the worst experiences, although Israel's war against Hamas has been shocked by the impact of the children.
-
-Israel's attack caused a baby to death by a brain injury, causing an explosion in its skull.
-
-Another child, his cousin, is facing serious injuries in the same attack and has caused a major injury on its face.
-
-A ten -year -old boy is crying in pain without knowing that his parents were killed in Israel's attack.
-
-His sister was allowed near him but the boy was unable to identify the sister because the sister's body was suffering from burning.
-
-Tanya Haj Hasan, a doctor for children from Jordan, shared these details with the Associated Campaign.
-
-...
-
-[Data](articles/26c45477.json)
-
-[Extended Data](ext_articles/26c45477.ext.json)
-
----
-
-### Hathurusinghe to miss 2nd Test against Sri Lanka
-
-*2024-03-28 11:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hathurusinghe-to-miss-2nd-Test-against-Sri-Lanka/108-279769) · `en`
-
-DHAKA, March 28, (BSS) - Bangladesh head coach Chandika Hathurusinghe will not be present during the upcoming second and final Test against Sri Lanka, scheduled to commence on March 30 in Chattogram.
-
-The head coach will be traveling to Australia due to personal reasons, necessitating his immediate departure, a BCB press release stating without providing the details what prompted him to leave the team in the midst of an important series.
-
-In his absence, assistant coach Nic Pothas will be assuming the responsibilities of the head coach for the duration of the second Test.
-
-The BCB however requested all stakeholders to accord Hathurusinghe the privacy and understanding he requires during this period.
-
-Bangladesh lost the first Test by 328 runs after failing to go past 200 runs in the both of the innings.
-
-Earlier Bangladesh won the three-match ODI series by 2-1 before losing the T20 series by same margin.
-
-◼️
-
-[Data](articles/04080e4b.json)
-
-[Extended Data](ext_articles/04080e4b.ext.json)
 
 ---

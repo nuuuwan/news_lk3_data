@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 12:18:16**
+As of **2024-03-28 12:33:37**
 
 ## Newspaper Stats
 
-*Scraped **15,683** Articles*
+*Scraped **15,692** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 167
 dbsjeyarajcom | 194
 newsfirstlk | 363
 dailyftlk | 847
-economynextcom | 849
+economynextcom | 857
 islandlk | 867
 adalk | 1,335
 adaderanalk | 1,879
 tamilmirrorlk | 1,886
-virakesarilk | 2,220
+virakesarilk | 2,221
 dailymirrorlk | 2,419
 adaderanasinhalalk | 2,515
 
@@ -26,27 +26,89 @@ adaderanasinhalalk | 2,515
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,682 (100.0%) of 15,683 articles have been extended.
+15,683 (99.9%) of 15,692 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
+### Sinopec to double capacity of new refinery in Sri Lanka’s Hambantota
+
+*2024-03-28 12:16:00* · [`economynextcom`](https://economynext.com/sinopec-to-double-capacity-of-new-refinery-in-sri-lankas-hambantota-156432/) · `en`
+
+ECONOMYNEXT – Sinopec has decided to double the capacity of the new refinery in Hambantota from the original proposal and investment, Energy Minister Kanchana Wijesekera said.
+
+Officials of Sinopec Overseas Investment Holding Pvt Ltd (SOIHL) visited the Ministry of Power and Energy on Wednesday.
+
+“The officials indicated that the management of Sinopec has decided to double the capacity of the Refinery form the original proposal and the Investment. They intend to sign the agreements for the project and commence work by June 2024,” Wijesekera said on social media platform X (twitter).
+
+“The officials led by Vice President of SOIHL, updated on the progress of the negotiations with stakeholders for the construction of the Proposed New Refinery in Hambantota.”
+
+Discussions regarding the water supply, power supply, land allocation and BOI facilities will take place today with the relevant authorities, the minister said. (Colombo/Mar28/2024)
+
+◼️
+
+[Data](articles/0038671d.json)
+
+---
+
+### Sri Lanka’s Hela Apparel Holdings to directly own Mauritius unit
+
+*2024-03-28 12:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-hela-apparel-holdings-to-directly-own-mauritius-unit-156407/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hela Apparel Holdings Plc said it would buy 99,000 shares for one dollar each in a Mauritius incorporated company called Hela Brands Limited.
+
+This is subject to the approval of the Department of Foreign Exchange of the Central Bank of Sri Lanka.
+
+After the investment Hela Apparel will directly hold 99.9 percent in Hela Brands Limited, the firm said in a stock exchange filing.
+
+The remaining 0.01 shareholding would be held Hela Clothing (Private) Limited, a subsidiary company.
+
+Hela, an apparel manufacturer, has factories across Africa and design facilities in Europe.
+
+In January the company said it acquired Focus Brands, a UK based brand licensing house, which is involved in design, sourcing, distribution and promotion of sports fashion and lifestyle apparel brands.
+
+◼️
+
+[Data](articles/009ad44d.json)
+
+---
+
+### 2 ஆவது சந்திர இரவை கடந்து விழித்தெழுந்த ஜப்பானிய விண்கலம்
+
+*2024-03-28 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/179891) · `ta`
+
+சந்திரனுக்கு ஜப்பான் அனுப்பிய விண்கலம், இரண்டாவது சந்திர இரவிலும் வெற்றிகரமாக தாக்குப்பிடித்தபின் மீண்டும் விழித்தெழுந்துள்ளதுடன் பூமிக்கு புதிய படங்களையும் அனுப்பியுள்ளது.
+
+ஜப்பான் அனுப்பிய SLIM எனும் ஆளில்லா விண்கலம் கடந்த ஜனவரி 19 ஆம் திகதி, சந்திரனில் தரையில் வெற்றிரகமாக தரையிறங்கியது. இதன் மூலம் இச்சாதனையைப் புரிந்த 5 ஆவது நாடாகியது ஜப்பான்.
+
+கடும் குளிரான சந்திரமண்டல இரவுக்காலத்தை வெற்றிரமாக கடந்த பின்னர் கடந்த பெப்ரவரி 25 ஆம் திகதி இவ்விண்கலம் விழித்தெழுந்து மீண்டும் இயங்கத் தொடங்கியது.  சந்தரனில் ஓர் இரவு என்பது பூமியின் 14 நாட்களுக்கு சமமான காலமாகும்.
+
+பின்னர் இரண்டாவது சந்திர இரவையும் வெற்றிரமாக கடந்த பின்னர் இன்று வியாழக்கிழமை மீண்டும் அவ்விண்கலம் விழித்தெழுந்ததுடன் பூமிக்கு புதிய படங்களை அபுப்pயயுள்ளதாக ஜப்பானிய விண்வெளி முகவரகம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/1880a704.json)
+
+---
+
 ### Bribery Commission institutes legal action against five including Cabraal
 
 *2024-03-28 11:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98257/bribery-commission-institutes-legal-action-against-five-including-cabraal) · `en`
 
-Legal action has been instituted against five individuals including former Central Bank Governor Ajith Nivard Cabraal, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) says.
+Legal action has been instituted against five individuals including former Governor of Central Bank of Sri Lanka (CBSL) Ajith Nivard Cabraal, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) says.
 
-Accordingly, the Bribery Commission has instituted legal action in the Colombo High Court under Case No. HCB 271/2024 on March 26 after concluding its investigations into a complaint filed by former MP Sujeewa Senasinghe.
+Accordingly, the Bribery Commission on March 26 instituted legal action in the Colombo High Court under Case No. HCB 271/2024 after concluding its investigations into a complaint filed by former MP Sujeewa Senasinghe.
 
-The complaint had been put forward against the Central Bank’s purchase of Treasury Bills issued by the Government of Greece in 2012 when the country was experiencing a severe financial crisis.
+The complaint had been put forward against the Central Bank’s purchase of Treasury Bills issued by the Government of Greece in 2012 when the southeastern European country was experiencing a severe financial crisis.
 
-In his complaint, Senasinghe alleged that the purchase, which was done despite the knowledge of the financial crisis faced by Greece, caused a loss of more than Rs. 1.84 billion to the Government of Sri Lanka.
+In his complaint, Senasinghe alleged that the purchase was made despite the knowledge of the financial crisis faced by Greece, and caused a loss of more than Rs. 1.84 billion to the Government of Sri Lanka.
 
 ...
 
 [Data](articles/0b4bab51.json)
+
+[Extended Data](ext_articles/0b4bab51.ext.json)
 
 ---
 
@@ -117,6 +179,28 @@ Mullaittivu district Regional Medical Superintendent Kindurus who was seriously 
 [Data](articles/52008e57.json)
 
 [Extended Data](ext_articles/52008e57.ext.json)
+
+---
+
+### Sri Lanka Buddhist monk Gnansara thero sentenced to four years RI: report
+
+*2024-03-28 11:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-buddhist-monk-gnansara-thero-sentenced-to-four-years-ri-report-156391/) · `en`
+
+ECONOMYNEXT — General Secretary of the Bodu Bala Sena (BBS) Galagodaaththe Gnanasara Thero has been sentenced to four years of rigorous imprisonment over an allegedly defamatory comment made in 2016, a media report said.
+
+The privately owned Ada Derana news network reported on its website that the verdict was delivered by Colombo High Court Judge Aditya Patabendige on Thursday March 28.
+
+Other reports said the controversial monk was sentenced over a comment against Islam at the Kuragala Buddhist temple.
+
+The monk has also been ordered to pay a fine of 100,000 rupees.
+
+The Attorney General had filed the case against Gnanasara thero on charges of causing religious and racial disunity in Sri Lanka in the form of remarks he had made at a press conference held on March 30, 2016, reports said.
+
+The firebrand monk has been accused of promoting Islamophobia in Sri Lanka.
+
+...
+
+[Data](articles/f3149a87.json)
 
 ---
 
@@ -462,6 +546,28 @@ MJ Gunasiri, the chief of the Department of Excise last week, commented to the D
 
 ---
 
+### Sri Lanka Customs sets up internal affairs unit, detects bribery
+
+*2024-03-28 10:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-sets-up-internal-affairs-unit-detects-bribery-156380/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Department of Customs has set up an internal affairs unit, and two staff members have been detained over a bribery allegations, Additional Director General of Customs Sudatta Silva said.
+
+The two staffers have already been detained following a complaint by person from whom a bribe was demanded, he said.
+
+After a detection is made, the suspects would either face internal disciplinary action taken or in the case of a criminal matter like bribery, referred to the Bribery Commission, Silva told a business forum at the Ceylon Chamber of Commerce.
+
+The International Monetary Fund has flagged the problem and Sri Lanka Customs was taking counter action, he said.
+
+Sri Lanka’s high and multiple import taxes and import bans and regulations were promoting rule-breaking.
+
+Silva said corruption needed two parties and members of the business community should refrain from engaging in wrong practice and they could now complain to the Director General of Customs if a bribe is solicited.
+
+...
+
+[Data](articles/793c0bb3.json)
+
+---
+
 ### Gnanasara Thero 4 years seriously worked in jail
 
 *2024-03-28 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195022) · `si`
@@ -503,6 +609,26 @@ Following the accident, the tipper driver, who suffered minor injuries, was hosp
 [Data](articles/255ea53c.json)
 
 [Extended Data](ext_articles/255ea53c.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 300.00/40 to the US dollar
+
+*2024-03-28 10:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-300-00-40-to-the-us-dollar-156382/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 300.00/40 to the US dollar in the spot forex market on Thursday, stronger from 300.85/301.00 on Wednesday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 was quoted at 11.35/40 percent from 11.32/38 percent.
+
+A bond maturing on 15.09.2027 was quoted at 11.90/12.05 percent from 11.95/12.00 percent.
+
+A bond maturing on 15.12.2028 was quoted stable at 12.10/15 percent.
+
+The Colombo Stock Exchange opened up: ASPI up 0.59 percent at 11,501.54, and S&P SL20 up 0.89 percent at 3,329. (Colombo/Mar28/2024)
+
+◼️
+
+[Data](articles/f71c8218.json)
 
 ---
 
@@ -733,6 +859,22 @@ Attended by distinguished figures, including General Shavendra Silva, the Chief 
 [Data](articles/cc6fb81f.json)
 
 [Extended Data](ext_articles/cc6fb81f.ext.json)
+
+---
+
+### Xi meets Sri Lanka PM as China eyes main Colombo airport development
+
+*2024-03-28 09:04:00* · [`economynextcom`](https://economynext.com/xi-meets-sri-lanka-pm-as-china-eyes-main-colombo-airport-development-156370/) · `en`
+
+ECONOMYNEXT – Chinese President Xi Jinping met Sri Lanka Prime Minister Dinesh Gunawardena on Wednesday while Beijing expressed its intertest in developing the island nation’s main Bandaranaike International Airport (BIA) where Japan has pledged the second terminal while Indian firm is to be given management.
+
+Prime Minister Gunawardena’s six-day official visit to China comes after Beijing raised concerns over Sri Lanka’s decision to ban its research vessels before allowing a German research ship for replenishment early this month.
+
+“Both countries agreed to continue to act under the friendship, peace, mutual respect and fivefold principle in international affairs that do not interfere in the internal affairs of a country,” Prime Minister Gunawardena’s office said in a statement on the meeting with the Chinese President Xi.
+
+...
+
+[Data](articles/f4a43042.json)
 
 ---
 
@@ -981,6 +1123,24 @@ It is reported that many complaints have been received regarding releases of chi
 [Data](articles/ebb3e291.json)
 
 [Extended Data](ext_articles/ebb3e291.ext.json)
+
+---
+
+### Sri Lanka EPF gets US$1.85bn in value back as central bank strengthens rupee
+
+*2024-03-28 07:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-epf-gets-us1-85bn-in-value-back-as-central-bank-strengthens-rupee-156351/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has restored about 1.85 billion US dollars’ worth of lost value to the Employees Provident Fund in a currency collapse, as it appreciated the rupee from March 2022, an analysis of data shows.
+
+Sri Lanka’s central bank engineered a balance of payments surplus from around September 2022, with deflationary monetary policy, and ended a surrender rule in March 2023, allowing the currency to appreciate.
+
+The end-2022 value of the EPF fund which was 3,459 billion rupees (with interest earnings and net contributions) up from 3,166 billion in 2021.
+
+As a result of the rupee collapsing from 200 to 363 after money printing and flawed exchange rate policy (a surrender rule with an attempted float) the dollar value of the fund fell to 9.53 billion US dollar equivalent by end 2022, from 15.80 billion in the previous year, despite the earnings and net contributions.
+
+...
+
+[Data](articles/4c366208.json)
 
 ---
 
@@ -2089,195 +2249,5 @@ Amid those developments the turnover stood at Rs 1.8 billion with two crossings.
 [Data](articles/887692cd.json)
 
 [Extended Data](ext_articles/887692cd.ext.json)
-
----
-
-### Women's R20 Asian Bowl Cricket Tournament in Sri Lanka
-
-*2024-03-27 22:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/179847) · `ta`
-
-The Women's R20 Asian Bowl Cricket Tournament, organized by the Asian Cricket Council, will be held in Dambulla, Sri Lanka from 19th July to 28th July 2024. Eight teams will participate, marking an increase from the previous tournament in 2022. The tournament aims to boost cricket fans and players in Asia, with a focus on promoting women's cricket.
-
-🟩
-
-The women's R20 Asian Cup Cricket Tournament organized by the Asian Cricket Council will be held in Dambulla, Sri Lanka.
-
-The Asian Cricket Council has announced that the tournament will be held from 19th July 2024 to 28.
-
-The Asian Cricket Council said that eight teams participated in the tournament as a result of the increasing interest in women's cricket in Asia.
-
-The last women's Asian Cup cricket match was held in 2022.
-
-The UAE, Malaysia, Nepal and Thailand played the women's Premier League 2024 semi -finals with India, Pakistan, Sri Lanka and Bangladesh in this year's Women's T20 Asian Cup Cricket Tournament.
-
-The Asian Cricket Council believes that the number of participating countries will increase the number of cricket fans and the number of cricketers in the region.
-
-...
-
-[Data](articles/838c9fef.json)
-
-[Extended Data](ext_articles/838c9fef.ext.json)
-
----
-
-### Mumbai bowlers attacked
-
-*2024-03-27 22:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195010) · `si`
-
-Sunrisers Hyderabad scored 277 runs in 3 overs, setting a new record, while Mumbai Indians needed 278 to win.
-
-🟩
-
-Sunrises Hyderabad won the highest number of marks in the Indian Premier League.
-
-Batting first, Sunrisers Hyderabad scored 277 runs for the loss of 03 wickets in the three overs.
-
-It is also the third highest score of all types of men.
-
-Mumbai Indians should have obtained 278 Mumbai Indians to win the match.
-
-The RCB group scored 263 runs in 20 overs before.
-
-◼️
-
-[Data](articles/9517f679.json)
-
-[Extended Data](ext_articles/9517f679.ext.json)
-
----
-
-### UNP chairman refutes opposition’s allegations of election delay
-
-*2024-03-27 22:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98249/unp-chairman-refutes-oppositions-allegations-of-election-delay) · `en`
-
-United National Party (UNP) chairman, MP Wajira Abeywardena has vehemently refuted the claims made by the opposition about the possible delay of the forthcoming elections.
-
-He stressed that the election amendment bills recently tabled in parliament will not impact the prearranged schedule of the elections, which he said are set to duly take place in compliance with constitutional regulations.
-
-Abeywardena alleged that opposition factions lacking clear slogans are resorting to misleading tactics by spreading false propaganda about the intention of the government to postpone elections.
-
-The parliamentarian highlighted that the group led by the President possesses the resilience to confront the upcoming elections with vigour.
-
-Addressing a press briefing titled “Collective Path to a Stable Country” held at the Presidential Media Centre today (27), MP Abeywardena further commented:
-
-...
-
-[Data](articles/f1cc26c5.json)
-
-[Extended Data](ext_articles/f1cc26c5.ext.json)
-
----
-
-### Sri Lanka is ranked 140th in the list of countries that cost less than education
-
-*2024-03-27 22:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/179846) · `ta`
-
-Sri Lanka ranks 140th in education costs, with 200 billion rupees allocated to Defense and 580 billion to Education. Prasan de Wiser, leader of the United Central Front, urged change. The education system is under strain, with recommendations for policy improvements, including early childhood education, curriculum reforms, teacher training, equal access, technical integration, and multilingual development.
-
-🟩
-
-Sri Lanka is ranked 140th in the list of 141 countries that cost less than the education sector.. The budget has been allocated 200 billion rupees to the Department of Defense, 580 billion rupees.. United Central Front leader Prasan de Wiser said the situation should be changed.
-
-He made the above statement during a media briefing of the United States Front in Bambalapitiya.
-
-The country's education system is badly affected. Sri Lanka is ranked 140th in the list of less than 141 countries. In the budget of 20124, only 200 billion rupees has been allocated to the Department of Education.The rupee is also assigned.
-
-The future of the country is referred to as the younger generation of younger generations. The need for a change of education has been allocated.
-
-We have made a number of important recommendations for the educational policy of the United States of Sri Lanka, recognizing the role of education in social and economic development.
-
-...
-
-[Data](articles/b8399fe6.json)
-
-[Extended Data](ext_articles/b8399fe6.ext.json)
-
----
-
-### Chinese President says Sri Lanka's support is China
-
-*2024-03-27 21:40:05* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සහායට-චිනය-ඉන්නා-බව-චීන-ජනපති-කියයි/11-408837) · `si`
-
-Chinese President Xi Jinping and Sri Lanka's Prime Minister Dinesh Gunawardena met in Beijing, emphasizing mutual respect and support for Sri Lanka's development. Xi assured continued support for Sri Lanka's political, social, and economic progress, defending its independence and sovereignty.
-
-🟩
-
-President Xi Ginepin and Prime Minister Dinesh Gunawardena held at Great Hall in Beijing today (2024.03.20).
-
-Internationally, the internal affairs of a country in international affairs, peace, mutual respect and continued to act in the financing. It was emphasized that bilateral relations should be a good example for both of the principles to be conducted on mutual respect and mutual effectiveness.
-
-The Chinese President certified that China will be supported by the proposals for the development of Sri Lanka.
-
-The Chinese President assured China's continued support to Sri Lanka's efforts to political and social economic progress. The President of the Finance President stated that China is always standing for the defending of Sri Lanka's independence, territorial integrity and sovereignty.
-
-...
-
-[Data](articles/a122ad52.json)
-
-[Extended Data](ext_articles/a122ad52.ext.json)
-
----
-
-### A woman's body in a house
-
-*2024-03-27 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195009) · `si`
-
-In Kotelawala, Kaduwela, a 54-year-old woman's body was found with blood spots. Her relatives claim she's missing, and two suspects are in custody.
-
-🟩
-
-A bodies of women have been found in a house in Kotelawala, Kaduwela today (27).
-
-The police said that several blood spots on the place where the woman was dead.
-
-The relatives have said that the relatives have stated that she is usually not in her body that they are not in her body.
-
-The deceased is a 54 year old mother of two two-year-old two suspects in Kotelawala, Kaduwela and her daughter and son had taken place.
-
-◼️
-
-[Data](articles/89a3212a.json)
-
-[Extended Data](ext_articles/89a3212a.ext.json)
-
----
-
-### Nearly 30,000 underage street children begging around the country: Study reveals
-
-*2024-03-27 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nearly-30-000-underage-street-children-begging-around-the-country-Study-reveals/108-279735) · `en`
-
-Colombo, March 27 (Daily Mirror) - A study revealed that the number of underage street children begging all around the country is between 20,000 and 30,000.
-
-Senior Professor (Professor in Economics) Wasantha Athukorala from the Statistics and Data Studies Department of Peradeniya University conducted a study in Kurunegala, Anuradhapura, Ampara, and Kandy to inform authorities about the current situation of underage street children across the country.
-
-He told the Daily Mirror that the estimated figure was determined through informal discussions held in those areas, drawing from previous surveys conducted by a specific non-governmental organization (NGO) in 2019. He noted that, according to the data from these surveys, approximately 15,000 underage street children were identified across the country.
-
-However, through informal discussions in those areas, it was suggested that the number of underage street children may have doubled compared to the figure reported in 2019.
-
-...
-
-[Data](articles/8199eb20.json)
-
-[Extended Data](ext_articles/8199eb20.ext.json)
-
----
-
-### 'Eyes of the night' that focuses on artificial intelligence technology
-
-*2024-03-27 21:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179836) · `ta`
-
-"Eyes of the Night" explores AI's impact on employment, featuring a thriller set in Bangalore. A man's life intertwines with an AI named Iris, leading to unexpected challenges. The film, produced by Pratap, stars Pope Suresh, Dali Aishwarya, and others, with music by Charles Tana. Releasing on April 5th, it aims to offer a unique screenplay experience.
-
-🟩
-
-Artificial Intelligence known as artificial intelligence technology is being introduced and dominated. As a result, there is an environment for a large number of young people in the IT industry to lose employment. In this case, a movie is ready for the 'Eyes of the Night', focusing on this artificial intelligence technology. The film will be released worldwide on the fifth of April.
-
-Pope Suresh, Dali Aishwarya, Giri Dwarakesh, Selva, Selva, Dandapani, Kumaran and many others in the film 'Night's Eyes', which is being developed in artificial intelligence technology.. Charles Tana has composed the film, which has been recorded by Geeta Karan. MK is a film that is ready in thriller janer. Producer Pratap has produced on behalf of Entertainment film company.The music and preview launch of the film was held in Chennai. Tamil Nadu Film Directors Association President. V.. Udayakumar, Director Empire and actor Prajin participated as special guests.
-
-...
-
-[Data](articles/33e843b9.json)
-
-[Extended Data](ext_articles/33e843b9.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 22:04:06**
+As of **2024-03-28 22:18:09**
 
 ## Newspaper Stats
 
@@ -26,39 +26,53 @@ adaderanasinhalalk | 2,540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,783 (100.0%) of 15,788 articles have been extended.
+15,788 (100.0%) of 15,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### ක්‍රිප්ටො රජු සිරගෙට
+### King Chipto
 
 *2024-03-28 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195051) · `si`
 
-ක්‍රිප්ටො රජු ලෙස සැළකෙන සෑම් බෑන්ක්මන් ෆ්‍රයිඩ් හට වසර 25ක සිරදඬුවමක් නියම කර තිබේ.
+King Chipto, also known as Sam Bankman, was sentenced to 25 years in prison for defrauding billions of clients through the Crimptoczi Exchange Company.
 
-ඒ ක්‍රිප්ටො කරන්සි හුවමාරු සමාගම හරහා තම සේවාදායකයින්ගේ ඩොලර් බිලියන ගණනක් වංචා කළ බවට ඔහු වරදකරු හේතුවෙනි.
+🟩
+
+Sam Bankman Fried for 25 years in prison, as King Cricuto.
+
+He was convicted of billions of clients that billions of clients were cheated through the Crimptoczi Exchange Company.
 
 ◼️
 
 [Data](articles/7625de86.json)
 
+[Extended Data](ext_articles/7625de86.ext.json)
+
 ---
 
-### உண்மை, ஒற்றுமை, நல்லிணக்க ஆணைக்குழு சட்டமூலத்தை நன்கு ஆராய்ந்ததன் பின்னரே பரிந்துரைகளை முன்வைப்போம் - அஸ்கிரிய பீடம் தெரிவிப்பு
+### We will present the recommendations only after reviewing the Truth, Unity and Reconciliation Commission Bill - the Asgiriya Faculty
 
 *2024-03-28 21:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179935) · `ta`
 
-உத்தேச உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலம் தொடர்பில் தமது கரிசனைகளை வெளியிடுவதற்கு முன்பதாக, அச்சட்டமூலத்தை தாம் நன்கு ஆராய்ந்து, அதுபற்றி தமது பீடத்தின் சங்க சபை தேரர்களுடன் கலந்துரையாட வேண்டியிருப்பதாக அஸ்கிரிய பீடம் தெரிவித்துள்ளது.
+The Asgiriya Faculty will review the Truth, Unity and Reconciliation Commission Bill before expressing their stance. They've received the bill from the Interim Secretariat on Truth and Reconciliation and are in discussion with the Sangam council. Dr. Medagama Tammananda Thera, Secretary of the Asgiriya Mahavikara Sangam Sangam, supports the bill's positive impact on reconciliation.
 
-உண்மை மற்றும் நல்லிணக்கப் பொறிமுறை தொடர்பான இடைக்கால செயலகத்தினால் கடந்த மாதம் உத்தேச உண்மை, ஒற்றுமை மற்றும் நல்லிணக்க ஆணைக்குழு சட்டமூலத்தின் பிரதிகள் அஸ்கிரிய மற்றும் மல்வத்துபீட மகாநாயக்க தேரர்களிடம் கையளிக்கப்பட்டன.
+🟩
 
-அதனையடுத்து அவ்விரு பீடங்களும் இணைந்து அச்சட்டமூலத்தை ஆராய்ந்து, தமது அவதானிப்புக்கள் மற்றும் நிலைப்பாடுகளை அறியத்தருவதாக மல்வத்துபீடத்தின் திப்பட்டுவாவே ஸ்ரீ சித்தார்த்த சுமங்கல தேரர் மற்றும் அஸ்கிரியபீடத்தின் வரகாகொட ஸ்ரீ ஞானரத்ன தேரர் ஆகியோர் உறுதியளித்தனர்.
+The Asgiriya Faculty has stated that they will have to analyze the piracy and discuss it with the Sangam council of their faculty, before they express their compassion on the proposed fact, unity and reconciliation commission.
+
+Last month, copies of the proposed Truth, Unity and Reconciliation Commission Bill were handed over to the Asgiriya and Malwathupita Mahanayaka Thera by the Interim Secretariat on Truth and Reconciliation.
+
+Subsequently, Sri Siddhartha Sumangala Thera of the Malwathuppadam and Sri Gnanaratne Thera of the Asgiriyapadam assured that the two faculties were jointly exploring and aware of their observations and positions.
+
+Accordingly, the Secretary of the Asgiriya Mahavikara Sangam Sangam, Dr. Medagama Tammananda Thera said that the proposed Bill would have a positive impact on the reconciliation system.. He urged the government to work tirelessly to continue the process of reconciliation, although many such efforts have been made in the history of our country.
 
 ...
 
 [Data](articles/58beb0fd.json)
+
+[Extended Data](ext_articles/58beb0fd.ext.json)
 
 ---
 
@@ -78,35 +92,49 @@ He defended the move, saying that the safety of British people is the main facto
 
 [Data](articles/d23e9c8c.json)
 
+[Extended Data](ext_articles/d23e9c8c.ext.json)
+
 ---
 
-### මහරගම බෝ ගසේ අත්තක් කඩා වැටී සිදුවූ අනතුරේ නවතම තත්ත්වය
+### Latest situation in the Maharagama Bath tree collapsed
 
 *2024-03-28 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195050) · `si`
 
-මහරගම බෝ ගසේ අත්තක් කඩා වැටීමෙන් සිදුවූ අනතුරින් පුද්ගලයින් දෙදෙනෙකු සුළු තුවාල ලබා ඇති බව පොලීසිය පවසයි.
+The Maharagama Bath tree collapsed, injuring two. A branch fell around 7:30 am, blocking the Maharagama High Level Road. Two three-wheelers and a car damaged a motorcycle in the accident. The fallen branch was removed.
 
-අද පස්වරු 7.30ට පමණ බෝ ගසේ අත්තක් කඩාවැටීමේ හේතුවෙන් මහරගම හයිලෙවල් මාර්ගයේ රථ වාහන ධාවනයට බාධා එල්ලවිය.
+🟩
 
-එම අනතුරින් යතුරුපැදියකට, ත්‍රිරෝද රථ දෙකකට සහ මෝටර් රථයකට හානි සිදුව ඇති බව පොලීසිය වැඩිදුරටත් සඳහන් කරයි.
+Two persons were injured in the accident in the Maharagama Bath tree, police said.
 
-පොලීසිය වැඩිදුරටත් සඳහන් කළේ මේ වනවිට කඩා වැටුණු බෝ ගසේ අත්ත එම ස්ථානයෙන් ඉවත්කර ඇති බවය.
+The breakage of a branch of the breeding tree around 7.30 am was interrupted by the Maharagama High Level Road.
+
+Two three wheelers and car damaged a motorcycle in the accident.
+
+Police said the branch of the collapsed in the collapse had been removed from the area.
 
 ◼️
 
 [Data](articles/61e33f4f.json)
 
+[Extended Data](ext_articles/61e33f4f.ext.json)
+
 ---
 
-### பொலிஸாரால் யாழ் - நெல்லியடியில் கசிப்புக் குகை முற்றுகை
+### Jaffna - Nelliyadi leaky cave blockade by police
 
 *2024-03-28 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179914) · `ta`
 
-600 லீற்றருக்கும் மேற்பட்ட கோடாவும் கசிப்பு காய்ச்சுவதற்கான உபகரணங்களும் இதன்போது பொலிஸாரால் மீட்கப்பட்டுள்ளது.
+Police in Jaffna recovered over 600 koda and equipment from a leaky cave blockade at Nelliyadi.
+
+🟩
+
+More than 600 koda and the equipment for leakage have been recovered by the police.
 
 ◼️
 
 [Data](articles/6c05e7f3.json)
+
+[Extended Data](ext_articles/6c05e7f3.ext.json)
 
 ---
 

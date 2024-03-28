@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 01:03:04**
+As of **2024-03-29 01:17:58**
 
 ## Newspaper Stats
 
-*Scraped **15,799** Articles*
+*Scraped **15,800** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 868
 adalk | 1,339
 tamilmirrorlk | 1,895
 adaderanalk | 1,897
-virakesarilk | 2,236
+virakesarilk | 2,237
 dailymirrorlk | 2,439
 adaderanasinhalalk | 2,542
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 2,542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,799 (100.0%) of 15,799 articles have been extended.
+15,799 (100.0%) of 15,800 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### ரியான் பரக்கின் அதிரடி ராஜஸ்தானை வெற்றிபெறச் செய்தது
+
+*2024-03-29 00:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179938) · `ta`
+
+ஜெய்பூர், சவாய் மான்சிங் விளையாட்டரங்கில் வியாழக்கிழமை (28) நடைபெற்ற மிகவும் பரபரப்பான இண்டியன் பிறீமியர் லீக் 9ஆவது போட்டியில் டெல்ஹி கெப்பிட்டல்ஸ் அணியை 12 ஓட்டங்களால் ராஜஸ்தான் றோயல்ஸ்  அணி  வெற்றிகொண்டது.
+
+ரியான் பரக் அதிரடியாகக் குவித்த அரைச் சதமே ராஜஸ்தான் றோயல்ஸ் அணியின் வெற்றியில் பிரதான பங்காற்றியிருந்தது.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட ராஜஸ்தான் றோயல்ஸ் 20 ஓவர்களில் 5 விக்கெட்களை இழந்து 185 ஓட்டங்களைக் குவித்தது.
+
+இளம் அதிரடி ஆட்டக்காரர் யஷஸ்வி ஜய்ஸ்வால் (5), அணித் தலைவர் சஞ்சு செம்சன் (15), ஜொஸ் பட்லர் (11) ஆகிய மூவரும் ஆட்டம் இழக்க 8ஆவது ஓவரில் ராஜஸ்தான் றோயல்ஸின் மொத்த எண்ணிக்கை 36 ஓட்டங்களாக இருந்தது.
+
+எனினும் ரியான் பரக் மூன்று சிறப்பான இணைப்பாட்டங்களில் பங்காற்றி அணியை பலமான நிலையில் இட்டார்.
+
+ரவிச்சந்திரன் அஷ்வினுடன் 4ஆவது விக்கெட்டில் 37 பந்துகளில் 54 ஓட்டங்களையும் த்ருவ் ஜுரெலுடன் 5ஆவது விக்கெட்டில்  23 பந்துகளில் 52 ஓட்டங்களையும் ஷிம்ரன் ஹெட்மியருடன் பிரிக்கப்படாத 6ஆவது விக்கெட்டில் 16 பந்துகளில் 43 ஓட்டங்களையும் ரியான் பரக் பகிர்ந்தார்.
+
+...
+
+[Data](articles/349e8c65.json)
+
+---
 
 ### Bribery and Corruption Investigation Commission
 
@@ -2273,31 +2295,5 @@ Discussions regarding the water supply, power supply, land allocation and BOI fa
 [Data](articles/0038671d.json)
 
 [Extended Data](ext_articles/0038671d.ext.json)
-
----
-
-### Sri Lanka’s Hela Apparel Holdings to directly own Mauritius unit
-
-*2024-03-28 12:15:00* · [`economynextcom`](https://economynext.com/sri-lankas-hela-apparel-holdings-to-directly-own-mauritius-unit-156407/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hela Apparel Holdings Plc said it would buy 99,000 shares for one dollar each in a Mauritius incorporated company called Hela Brands Limited.
-
-This is subject to the approval of the Department of Foreign Exchange of the Central Bank of Sri Lanka.
-
-After the investment Hela Apparel will directly hold 99.9 percent in Hela Brands Limited, the firm said in a stock exchange filing.
-
-The remaining 0.01 shareholding would be held Hela Clothing (Private) Limited, a subsidiary company.
-
-Hela, an apparel manufacturer, has factories across Africa and design facilities in Europe.
-
-In January the company said it acquired Focus Brands, a UK based brand licensing house, which is involved in design, sourcing, distribution and promotion of sports fashion and lifestyle apparel brands.
-
-A Hela Apparel Holdings Plc share was trading up at 6.20. (Colombo/March28/2024)
-
-◼️
-
-[Data](articles/009ad44d.json)
-
-[Extended Data](ext_articles/009ad44d.ext.json)
 
 ---

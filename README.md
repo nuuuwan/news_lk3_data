@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 21:18:08**
+As of **2024-03-28 21:34:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,538
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,782 (100.0%) of 15,783 articles have been extended.
+15,783 (100.0%) of 15,783 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -69,6 +69,8 @@ Minister of Public Security Tiran Alas had instructed the Inspector General of P
 ◼️
 
 [Data](articles/978fd156.json)
+
+[Extended Data](ext_articles/978fd156.ext.json)
 
 ---
 

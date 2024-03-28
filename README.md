@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 11:53:13**
+As of **2024-03-28 12:03:18**
 
 ## Newspaper Stats
 
-*Scraped **15,680** Articles*
+*Scraped **15,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 847
 economynextcom | 849
 islandlk | 867
 adalk | 1,335
-adaderanalk | 1,877
-tamilmirrorlk | 1,885
+adaderanalk | 1,878
+tamilmirrorlk | 1,886
 virakesarilk | 2,220
 dailymirrorlk | 2,419
 adaderanasinhalalk | 2,515
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,515
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,679 (100.0%) of 15,680 articles have been extended.
+15,680 (100.0%) of 15,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### DCS reveals Sri Lanka’s minimum monthly expenditure per person
+
+*2024-03-28 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98256/dcs-reveals-sri-lankas-minimum-monthly-expenditure-per-person) · `en`
+
+The Department of Census and Statistics (DCS) says the official poverty line has increased due to the higher National Consumer Price Index (NCPI) value reported in January 2024 compared to the preceding month.
+
+The minimum monthly expenditure per person to fulfil the basic needs was recorded at Rs. 17,014 in January 2024, as opposed to Rs. 16,524 in December 2023.
+
+As per the official poverty line by district, Colombo recorded the highest minimum monthly expenditure per person in January, which was at Rs. 18,350. It was followed by the Gampaha and Nuwara-Eliya districts with an estimation of Rs. 18,256 and Rs. 17,892, respectively.
+
+Meanwhile, Monaragala District has reported the lowest minimum monthly expenditure per person in January, which was at Rs. 16,268.
+
+◼️
+
+[Data](articles/4cfd4f72.json)
+
+---
 
 ### Mullaitivu Regional Superintendent killed in accident
 
@@ -596,6 +614,28 @@ The official poverty line is adjusted by the National and District level prices,
 
 ---
 
+### தனி நபரின் மாதாந்த வாழ்க்கை செலவு  அதிகரிப்பு
+
+*2024-03-28 09:35:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனி-நபரின்-மாதாந்த-வாழ்க்கை-செலவு-அதிகரிப்பு/175-335293) · `ta`
+
+தனிநபர் ஒருவரின் மாதாந்த செலவு அதிகரித்துள்ளதாக மக்கள் தொகை கணக்கெடுப்பு மற்றும் புள்ளிவிபரத் திணைக்களம் தெரிவித்துள்ளது.
+
+இவ்வருடம் ஜனவரி மாதத்தில் ஒருவருக்கு தமது அடிப்படைத் தேவைகளைப் பூர்த்தி செய்வதற்குத் தேவையான குறைந்தபட்ச மாதாந்தச் செலவு சராசரியாக 17,014 ரூபாயாக அதிகரித்துள்ளதாக திணைக்களம் சுட்டிக்காட்டியுள்ளது.
+
+ஒரு நபரின் அடிப்படைத் தேவைகளைப் பூர்த்தி செய்வதற்காக மாவட்ட மட்டத்தில் மாதாந்தச் செலவு கணக்கிடப்பட்டுள்ளதாகவும், கொழும்பு மாவட்டத்தில் வாழும் மக்களே அதிக செலவினங்களைச் சுமக்க வேண்டியுள்ளதாகவும் குறிப்பிடப்பட்டுள்ளது.
+
+இதன்படி, கொழும்பு மாவட்டத்தில் தனிநபர் மாதாந்தச் செலவு 18,350 ரூபாயாகவும், கம்பஹா மாவட்டத்தில் 18,256 ரூபாயாகவும், நுவரெலியா மாவட்டத்தில் 17,892 ரூபாயாகவும் உள்ளது.
+
+சனத்தொகை மற்றும் புள்ளிவிவரத் திணைக்களத்தின் அறிக்கையின்படி, மொனராகலை மாவட்டத்திலிருந்து மிகக் குறைந்த தனிநபர் செலவீனம் பதிவாகியுள்ளதுடன் அது 16,268 ஆகும்.
+
+உத்தியோகபூர்வ வறுமைக் கோடு தேசிய நுகர்வோர் விலைக் குறியீட்டின்படி தேசிய மற்றும் மாவட்ட அளவில் விலை மாற்றங்களைக் கணக்கில் கொண்டு சரிசெய்யப்படுகிறது.
+
+◼️
+
+[Data](articles/60f0faac.json)
+
+---
+
 ### New method to get complaints about nude photos
 
 *2024-03-28 09:29:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாண-புகைப்படங்கள்-பற்றிய-முறைப்பாடுகளை-பெற-புதிய-முறை/175-335292) · `ta`
@@ -748,19 +788,25 @@ At a press conference on Wednesday, Maryland State Police identified Alejandro H
 
 ---
 
-### දේශීය සහල් වෙළඳපොලට එද්දී ආනයනික සහල් බද්ද රුපියලක් දක්වා අඩු කරයි
+### The local rice market reduces the imported rice to a rupee
 
 *2024-03-28 08:35:04* · [`adalk`](https://www.ada.lk/breaking_news/දේශීය-සහල්-වෙළඳපොලට-එද්දී-ආනයනික-සහල්-බද්ද-රුපියලක්-දක්වා-අඩු-කරයි/11-408838) · `si`
 
-ආනයනික සහල් සහ ලොකු ලූණු සඳහා පනවා ඇති විශේෂ වෙළෙඳ භාණ්ඩ බද්ද ඊයේ (27) සිට පහළ දැමීමට මුදල් අමාත්‍යාංශය රජය පියවර ගෙන තිබේ.
+The local rice market lowers imported rice prices, and the Ministry of Finance decreases the Special Commodity Levy on rice and big onions. This aims to make these items more affordable during the Sinhala and Tamil New Year, without reducing product availability.
 
-ඒ අනුව ආනයනික සහල් කිලෝවක් සඳහා පනවා ඇති රුපියල් 65 ක විශේෂ වෙළෙඳ භාණ්ඩ බද්ද ඊයේ (27) සිට අප්‍රේල් මස 3 වැනිදා දක්වා රුපියලක් දක්වා ද, ආනයනික ලොකු ලූණු කිලෝවක් සඳහා විශේෂ වෙළෙඳ භාණ්ඩ බද්ද අප්‍රේල් මස 30 දක්වා රුපියල් 10 ක් දක්වා ද අඩු කර තිබේ.
+🟩
 
-එළඹෙන සිංහල සහ දෙමළ අලුත් අවුරුදු සමයේ ජනතාවට පහසු මිලට සහල් සහ ලූණු මිලදී ගැනීමේ අවස්ථාව දීමට සහ එම ඵම භාණ්ඩ හිඟයකින් තොරව වෙළෙඳපොල තුළ පවත්වා ගැනීම මෙම බදු අඩු කිරීමේ අරමුණ වෙයි.
+The Ministry of Finance has taken steps to reduce the Special Commodity Levy on imported rice and big onions.
+
+Accordingly, the Special Commodity Tax of Rs..
+
+The objective of reducing the rice and onion to the people during the coming Sinhala and Tamil New Year season is the objective of reducing these taxes without any lack of product.
 
 ◼️
 
 [Data](articles/46376541.json)
+
+[Extended Data](ext_articles/46376541.ext.json)
 
 ---
 
@@ -2231,57 +2277,5 @@ The film has been released as the first look and the song 'Jarakandi', which has
 [Data](articles/f5c36d6d.json)
 
 [Extended Data](ext_articles/f5c36d6d.ext.json)
-
----
-
-### HIV terror out of drugs
-
-*2024-03-27 20:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195008) · `si`
-
-Negombo Police shut down 53 massage centers, revealing HIV cases and illegal operations. Two men were HIV-positive, and the centers were operating without permission. During the raid, 120 people were detained for medical checks. A 15-year-old girl was involved, and one person was arrested. The police confirmed the centers were unlicensed.
-
-🟩
-
-53 massage centers operating in the Negombo Police Division and they were closed down immediately.
-
-Two men of the cenches of the centers are HIV. Police said that he had been infected.
-
-It has been revealed that the massage centers have been maintained without proper permission.
-
-The Negombo Police have taken 53 massage centers in the Negombo police division last week.
-
-That was the leading officer in charge of the Official Superintendent of Police Eric Perera.
-
-He launches the operation to ensure that a drug addict is a HIV infected in the "Saviya Program" and revealed that he is a person constant to the massage centers in Negombo.
-
-The migratory massage centers in Negombo began to investigate the urgency.
-
-During the raid, 120 people in the centers were taken into custody and directed to medical examinations.
-
-Police said that the police were revealed that two were HIV.
-
-Meanwhile, there was a 15-year-old girl girl, Negombo Police said.
-
-...
-
-[Data](articles/8cad27ec.json)
-
-[Extended Data](ext_articles/8cad27ec.ext.json)
-
----
-
-### Special Boat Squadron holds passing out ceremony in Trincomalee
-
-*2024-03-27 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Special-Boat-Squadron-holds-passing-out-ceremony-in-Trincomalee/110-279737) · `en`
-
-The Special Boat Squadron (SBS) held an insignia awarding and passing out ceremony today to mark the termination of SBS training which was successfully completed by 21 sailors. At the invitation of the Commanding Officer SBS, Commander Dharmasiri Herath, the Commander Eastern Naval Area, Rear Admiral Suresh De Silva, graced the event which was held in a dignified sequence at the SBS Headquarters in the Naval Dockyard, Trincomalee.
-
-The guests also witnessed a live demonstration of SBS personnel's combat skills and special events. The demonstration took place at the SBS Headquarters premises and the Nicholson Cove Sea area. The exercise was enhanced by the participation of a Bell 212 Helicopter from the Sri Lanka Air Force.
-
-◼️
-
-[Data](articles/17037dca.json)
-
-[Extended Data](ext_articles/17037dca.ext.json)
 
 ---

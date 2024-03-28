@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 15:33:40**
+As of **2024-03-28 15:51:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,520
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,721 (100.0%) of 15,723 articles have been extended.
+15,723 (100.0%) of 15,723 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Meanwhile, severe traffic congestion has been reported in the area owing to this
 
 [Data](articles/95955947.json)
 
+[Extended Data](ext_articles/95955947.ext.json)
+
 ---
 
 ### Fire erupts at tyre shop in Colombo
@@ -61,6 +63,8 @@ Police said several fire trucks from the Colombo Municipal Council have been dis
 ◼️
 
 [Data](articles/f97810c2.json)
+
+[Extended Data](ext_articles/f97810c2.ext.json)
 
 ---
 

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 13:17:50**
+As of **2024-03-28 13:33:44**
 
 ## Newspaper Stats
 
-*Scraped **15,699** Articles*
+*Scraped **15,700** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 142
-bbccomsinhala | 167
+bbccomsinhala | 168
 dbsjeyarajcom | 194
 newsfirstlk | 363
 dailyftlk | 847
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,516
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,697 (100.0%) of 15,699 articles have been extended.
+15,699 (100.0%) of 15,700 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### පෘථිවි භ්‍රමණ වේගය වැඩිවී වේලාව වෙනස් වෙයි
+### Earth rotation rate changes
 
 *2024-03-28 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195025) · `si`
 
-ගෝලීය උණුසුම ඉහළයාමත් සමග ධ්‍රැවීය අයිස් තට්ටු වේගයෙන් දියවෙමින් පවතී.
+Due to global warming, Earth's rotation speed is predicted to increase, reducing the day's length. This change, though minimal, could impact computers.
 
-ඝන අයිස් දියවීමත් සමග පෘථිවියේ හරයේ සිදුවන වෙනස්කම් හේතුවෙන් පෘථිවි භ්‍රමණ වේගය ඉහළ ගොස් එමගින් පෘථිවියේ වේලාව වෙනස් කරන බව වාර්තා වෙයි.
+🟩
 
-මේ අනුව විද්‍යාඥයින් දැනටමත් පුරෝකථනය කරන්නේ තවත් වසර කිහිපයකින් පෘථිවියේ කාලය දිනකට තත්ත්පරය බැගින් අඩු වන බවය.
+The polar iceberg is in a speed of polar ice, with global warming.
 
-එය තත්ත්පරයක සුළු කාලයක් පමණක් වුවත් පරිගණක භාවිතයේදී වැඩි බලපෑමක් එල්ල වනු ඇති බවද ඔවුන්ගේ මතයය.
+It is reported that the earth's rotational speed will increase due to the melting of solid ice.
+
+Accordingly, scientists are already predicting that the Earth's time is reduced per day every day.
+
+It is their opinion that even though it is only a second period of time, it will be more impact on computers.
 
 ◼️
 
 [Data](articles/8080d3d4.json)
+
+[Extended Data](ext_articles/8080d3d4.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ During the visit, FFSL President Jaswar Umar, Head Coach Andy Morrison, and the 
 ...
 
 [Data](articles/854079da.json)
+
+[Extended Data](ext_articles/854079da.ext.json)
 
 ---
 
@@ -1370,6 +1378,28 @@ The Grandpass was reported from the Grandpass area to attack and kill a person.
 
 ---
 
+### ඥානසාර හිමිට බරපතල වැඩ සහිත වසර 4ක සිරදඬුවම්
+
+*2024-03-28 06:18:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd1vp024y22o) · `si`
+
+කූරගල විහාරස්ථානය සම්බන්ධයෙන් පැවති මාධ්‍ය සාකච්ඡාවකදී ආගම් අතර සමගිය කඩවන ආකාරයෙන්, ඉස්ලාම් දහමට අපහාසාත්මක වන ප්‍රකාශයක් කිරීමේ චෝදනාවට වරදකරු කෙරුණු  පුජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන්ට කොළඹ මහාධිකරණය විසින් අද (මාර්තු 28 වැනිදා) බරපතල වැඩ සහිත වසර 4 ක සිර දඬුවම් නියම කරනු ලැබීය
+
+මෙම සිද්ධියට අදාළව ඥානසාර හිමියන්ට එරෙහිව නීතිපතිවරයා විසින් දණ්ඩ නිති සංග්‍රහයේ 295 වන වගන්තිය යටතේ චෝදනා දෙකක් ඉදිරිපත් කරනු ලැබ තිබුණි.
+
+ඉන් අනතුරුව එක් එක් චෝදනාවට වසර දෙක බැගින් සිර දඬුවම් නියම කළ මහාධිකරණ විනිසුරු ආදිත්‍ය පටබැඳිගේ එම දඬුවම් වෙන් වෙන් වශයෙන් ගෙවී යා යුතු බවත් නියෝග කළේය.
+
+ඒ අනුව ඥානසාර හිමියන්ට බරපතළ වැඩ සහිත වසර හතරක සිර දඬුවම් හිමිවනු ඇත.
+
+ඊට අමතරව එක් එක් චෝදනාවට රුපියල් 50000 බැගින් රුපියල් ලක්ෂයක දඩයක්ද විනිසුරුවරයා විසින් නියම කරනු ලැබීය.
+
+එම දඩ මුදල් ගෙවීම පැහැර හරිනු ලැබුවොත් අමතරව වසර දෙකක සිර දඬුවම් නියම කරන බවත් නියෝගයේ සඳහන් විය.
+
+...
+
+[Data](articles/ddbe04b9.json)
+
+---
+
 ### Heavy rains after today
 
 *2024-03-28 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195011) · `si`
@@ -2247,29 +2277,5 @@ With all these fears, the relief and the promise are cancers occur less frequent
 [Data](articles/e09a9940.json)
 
 [Extended Data](ext_articles/e09a9940.ext.json)
-
----
-
-### Tropical Hydration Smoothie
-
-*2024-03-27 22:52:00* · [`islandlk`](http://island.lk/tropical-hydration-smoothie/) · `en`
-
-Phew! The heat! Yes, that’s what everyone keeps saying these days. And the heat is awful, indeed.
-
-With the heat situation hardly showing signs of improving, I thought of giving my readers something different this week.
-
-Now place the pineapple chunks, mango chunks, banana, and coconut water in a blender. (If you are using spinach, add the handful of spinach as that would give an extra nutritional boost.)
-
-Blend all ingredients, on high speed, until you achieve a smooth consistency. If the smoothie is too thick, you can add more coconut water to reach your desired thickness.
-
-This smoothie is excellent for keeping your body hydrated, especially during this hot weather. Coconut water is rich in electrolytes, which help maintain hydration levels.
-
-Pineapple and mango are both rich sources of Vitamin C. Vitamin C is essential for collagen production, which is crucial for maintaining skin elasticity and promoting skin repair.
-
-...
-
-[Data](articles/f8eaf170.json)
-
-[Extended Data](ext_articles/f8eaf170.ext.json)
 
 ---

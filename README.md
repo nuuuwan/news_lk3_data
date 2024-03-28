@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 07:53:49**
+As of **2024-03-28 08:17:47**
 
 ## Newspaper Stats
 
-*Scraped **15,635** Articles*
+*Scraped **15,638** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,41 +16,69 @@ dailyftlk | 847
 economynextcom | 849
 islandlk | 867
 adalk | 1,333
-adaderanalk | 1,871
+adaderanalk | 1,872
 tamilmirrorlk | 1,875
 virakesarilk | 2,213
-dailymirrorlk | 2,409
+dailymirrorlk | 2,411
 adaderanasinhalalk | 2,507
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,633 (100.0%) of 15,635 articles have been extended.
+15,638 (100.0%) of 15,638 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### ළමා අසභ්‍ය වීඩියෝ සහ නිරුවත් ඡායාරූප පැමිණිලි භාරගැනීමට නව ක්‍රමවේදයක්
+### Fairly heavy showers expected in parts of the island
+
+*2024-03-28 07:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98251/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur inWestern, Southern, Sabaragamuwa, Central, Uva, and North-western provinces after 2.00 p.m.
+
+Fairly heavy showers above 75 mm are likely at some places in Western, Southern and Sabaragamuwa provinces.
+
+Several spells of showers may occur in Eastern province, it said.
+
+Misty conditions can be expected at some places in Central, Sabaragamuwa, Uva and Western provinces and in Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/28eee7a9.json)
+
+[Extended Data](ext_articles/28eee7a9.ext.json)
+
+---
+
+### New method to accept child pornography video and nude photo complaints
 
 *2024-03-28 07:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195015) · `si`
 
-ළමුන්ගේ අසභ්‍ය වීඩියෝ සහ නිරුවත් ඡායාරූප අන්තර්ජාලයට එක් කිරීම සම්බන්ධ පැමිණිලි භාරගැනීම සඳහා නව ක්‍රමවේදයක් හඳුන්වාදීමට කටයුතු කරන බව ජාතික ළමා ආරක්ෂක අධිකාරිය පවසයි.
+The National Child Protection Authority (NKA) is launching a new system to report child pornography and nude photos online. Complaints will be submitted via the NKA's website and forwarded to the International Watch Foundation Institute for removal. Legal action will be taken against those involved.
 
-එහි සභාපති ජ්‍යෙෂ්ඨ කථිකාචාර්ය උදය කුමාර අමරසිංහ මහතා සඳහන් කළේ, ජාතික ළමා ආරක්ෂක අධිකාරියේ වෙබ් අඩවිය හරහා අදාළ පැමිණිලි සිදුකිරීමට අද දිනයේ සිට අවස්ථාව හිමිවනු ඇති බවය.
+🟩
 
-මෙම ක්‍රමවේදය හරහා ලැබෙන පැමිණිලි සෘජුවම එංගලන්තයේ  “ඉන්ටනැෂනල් වොච් ෆවුන්ඩේෂන් නමැති ආයතනය වෙත වාර්තා කිරීම සිදු වෙයි.
+The National Child Protection Authority says that the National Child Protection Authority (NKA) will introduce a new system to accept children's obscene video and nude photos to the Internet.
 
-අනතුරුව එම ආයතනය මගින් අදාළ අසභ්‍ය වීඩියෝ සහ නිරුවත් ඡායාරූප ඉවත් කිරීමට කටයුතු කරනු ඇති බව ජාතික ළමා ආරක්ෂක අධිකාරිය සඳහන් කළේය.
+Its chairman Senior Lecturer, Udaya Kumara Amarasinghe, said that the complaints will be held today through the website of the National Child Protection Authority.
 
-එමෙන්ම පැමිණිලි පිළිබඳ විමර්ශනය සිදුකර ඊට සම්බන්ධ පාර්ශ්වයන් කවුරුන්ද යන්න සොයා බලා නීතිමය ක්‍රියාමාර්ග ගැනීම ද අන්තර්ජාතික පොලීසිය හරහා සිදුකිරීමට නියමිතය.
+The complaints from this methodology is directly recorded to the International Watch Foundation Institute.
 
-පසුගිය කාලය තුළ ද ළමුන්ගේ අසභ්‍ය වීඩියෝ දර්ශන සහ නිරුවත් ඡායාරූප අන්තර්ජාලය වෙත මුදාහැරීම් සම්බන්ධයෙන් පැමිණිලි බොහෝ සංඛ්‍යාවත් ලැබී ඇති බව වාර්තා වෙයි.
+The Institute will then remove the relevant obscene video and nude photos, said the National Child Protection Authority said.
+
+The International Police will also take legal action and take legal action to investigate complaints and investigating the parties involved.
+
+It is reported that many complaints have been received regarding releases of children and naked photos of children in the recent past.
 
 ◼️
 
 [Data](articles/ebb3e291.json)
+
+[Extended Data](ext_articles/ebb3e291.ext.json)
 
 ---
 
@@ -217,6 +245,28 @@ She remarked that typically, suspects are arrested only after investigations are
 [Data](articles/2f433eac.json)
 
 [Extended Data](ext_articles/2f433eac.ext.json)
+
+---
+
+### Sri Lanka must explore options to reduce prices of local graphite: Industry
+
+*2024-03-28 05:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-must-explore-options-to-reduce-prices-of-local-graphite-Industry/108-279752) · `en`
+
+The current prices of Sri Lankan graphite are significantly high; key avenues can be explored to bring them down and one such is by reducing the depth of operation.
+
+The industry representatives stress that the high prices of local graphite are due to the depth of the deposits in the few operational mines within
+
+“Reducing the depth of operation to 10-20m from the surface could considerably lower the cost of mining, which can be done by expanding mining operations to new mines, provided adequate regulations are in place,” said Bogala Graphite PLC CEO Amila Jayasinghe.
+
+He shared his views during a discussion facilitated by the Institute of Policy Studies (IPS) that highlighted the challenges and opportunities in Sri Lanka’s graphite industry.
+
+He noted that the challenges such as the transparency of the process to obtain mining permissions from the relevant authorities deter the potential foreign investment.
+
+...
+
+[Data](articles/17cf9e0d.json)
+
+[Extended Data](ext_articles/17cf9e0d.ext.json)
 
 ---
 
@@ -461,6 +511,24 @@ The German government provided 25 million euros (about Rs 357 crore) to build th
 [Data](articles/8ea4edb6.json)
 
 [Extended Data](ext_articles/8ea4edb6.ext.json)
+
+---
+
+### Jan. credit dip linked to strong rupee, post-festive settlements
+
+*2024-03-28 03:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jan-credit-dip-linked-to-strong-rupee-post-festive-settlements/108-279756) · `en`
+
+Visible appetite for credit, as rates have come to levels palatable to borrowers
+
+The Central Bank has been caught off guard by the break in the months-long expansion seen in the private sector credit in January and considered it to be a one-off development and attributed it to the appreciation of the rupee and after-season settlement of facilities by the borrowers.
+
+The seven-month-long streak in the continuous growth in the credit offered to the private sector from the licensed commercial banks (LCBs) broke down in January, when the net credit to the private sector contracted by Rs.52.2 billion, after growing by slightly over Rs.100 billion in December 2023.
+
+...
+
+[Data](articles/b918cfba.json)
+
+[Extended Data](ext_articles/b918cfba.ext.json)
 
 ---
 
@@ -1638,6 +1706,8 @@ AK Dissanayake contested the 2019 Presidential elections and finished a poor thi
 
 [Data](articles/93836f95.json)
 
+[Extended Data](ext_articles/93836f95.ext.json)
+
 ---
 
 ### Berlin in Germany - Zurich bus accident
@@ -2121,67 +2191,5 @@ Sri Lanka’s IMF review will be passed after several ‘pior actions’.
 [Data](articles/a03107ae.json)
 
 [Extended Data](ext_articles/a03107ae.ext.json)
-
----
-
-### Namal replaces Basil as SLPP’s national organiser
-
-*2024-03-27 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98242/namal-replaces-basil-as-slpps-national-organiser) · `en`
-
-MP Namal Rajapaksa has been unanimously elected as the Sri Lanka Podujana Peramuna’s new national organiser, a post previously held by former Finance Minister Basil Rajapaksa.
-
-The new appointment was during the SLPP’s executive committee meeting convened on Wednesday at former President Mahinda Rajapaksa’s official residence at Wijerama Road in Colombo.
-
-State Minister D.V. Chanaka communicated this to media persons following the meeting.
-
-◼️
-
-[Data](articles/d3d74383.json)
-
-[Extended Data](ext_articles/d3d74383.ext.json)
-
----
-
-### Namal is a big position
-
-*2024-03-27 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/194999) · `si`
-
-Namal Rajapaksa appointed as Sri Lanka General Manager's National Organizer. Meeting held at Mahinda Rajapaksa's residence. Basil Rajapaksa named national organizer of Sri Lanka Civil Appointment.
-
-🟩
-
-Namal Rajapaksa has been appointed as the National Organizer of the Sri Lanka General Manager.
-
-The party's executive committee meeting was held at the official residence of former President Mahinda Rajapaksa at Wijerama Mawatha in Colombo this afternoon.
-
-Speaking to the media after the meeting, he said that this decision was taken.
-
-Former Minister Basil Rajapaksa, who has been appointed as the national organizer of the Sri Lanka Civil Appointment.
-
-◼️
-
-[Data](articles/8c8cdb80.json)
-
-[Extended Data](ext_articles/8c8cdb80.ext.json)
-
----
-
-### Traffic from Borella to Maradana due to objection
-
-*2024-03-27 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195000) · `si`
-
-Traffic congestion in Borella due to Medical Faculty student activists' march, affecting one lane from Borella to Maradana.
-
-🟩
-
-Traffic in Borella from Borella to Maradana road has taken place due to a march of the Medical Faculty student activists.
-
-Police said the traffic congestion had occurred in one lane.
-
-◼️
-
-[Data](articles/ac0797b1.json)
-
-[Extended Data](ext_articles/ac0797b1.ext.json)
 
 ---

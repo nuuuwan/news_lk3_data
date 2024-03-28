@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 08:17:47**
+As of **2024-03-28 08:33:38**
 
 ## Newspaper Stats
 
-*Scraped **15,638** Articles*
+*Scraped **15,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ dailyftlk | 847
 economynextcom | 849
 islandlk | 867
 adalk | 1,333
-adaderanalk | 1,872
-tamilmirrorlk | 1,875
+adaderanalk | 1,874
+tamilmirrorlk | 1,876
 virakesarilk | 2,213
-dailymirrorlk | 2,411
+dailymirrorlk | 2,413
 adaderanasinhalalk | 2,507
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,638 (100.0%) of 15,638 articles have been extended.
+15,640 (100.0%) of 15,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### China to continue positive engagements with IMF to restore debt sustainability in Sri Lanka – President Xi
+
+*2024-03-28 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98252/china-to-continue-positive-engagements-with-imf-to-restore-debt-sustainability-in-sri-lanka-president-xi) · `en`
+
+During the bilateral discussion held with Sri Lankan Premier Dinesh Gunawardana in Beijing, President Xi Jinping expressed China’s continued support to Sri Lanka together with EXIM Bank of China and China Development Bank, says State Minister of Finance Shehan Semasinghe.
+
+It was further stated that China will continue positive engagements with the International Monetary Fund (IMF) to strengthen economic stability and restore debt sustainability in Sri Lanka, the state minister said in a post on ‘X’ (formerly Twitter).
+
+Semasinghe is part of the Sri Lankan delegation accompanying Prime Minister Gunawardana during his five-day state visit to China.
+
+The Sri Lankan Prime Minister had called on President Xi Jinping on Wednesday (March 27).
+
+...
+
+[Data](articles/0a88f360.json)
+
+---
+
+### China will continue positive engagements with IMF to restore debt sustainability in Sri Lanka – President Xi
+
+*2024-03-28 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98252/china-will-continue-positive-engagements-with-imf-to-restore-debt-sustainability-in-sri-lanka-president-xi) · `en`
+
+During the bilateral discussion held with Sri Lankan Premier Dinesh Gunawardana in Beijing, President Xi Jinping expressed China’s continued support to Sri Lanka together with EXIM Bank of China and China Development Bank, says State Minister of Finance Shehan Semasinghe.
+
+It was further stated that China will continue positive engagements with the International Monetary Fund (IMF) to strengthen economic stability and restore debt sustainability in Sri Lanka, the state minister said in a post on ‘X’ (formerly Twitter).
+
+Semasinghe is part of the Sri Lankan delegation accompanying Prime Minister Gunawardana during his five-day state visit to China.
+
+The Sri Lankan Prime Minister had called on President Xi Jinping on Wednesday (March 27).
+
+...
+
+[Data](articles/8d9bbe95.json)
+
+[Extended Data](ext_articles/8d9bbe95.ext.json)
+
+---
 
 ### Fairly heavy showers expected in parts of the island
 
@@ -51,6 +89,24 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/28eee7a9.json)
 
 [Extended Data](ext_articles/28eee7a9.ext.json)
+
+---
+
+### Britain stands firm on Sri Lanka travel advisory amidst calls for reform
+
+*2024-03-28 07:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Britain-stands-firm-on-Sri-Lanka-travel-advisory-amidst-calls-for-reform/108-279758) · `en`
+
+Despite growing pressure to reform the travel Advisory on Sri Lanka, Britain on Tuesday said that its travel advice assessments are made by drawing on expert sources of information available to the government and that they 'continue to keep Sri Lanka travel advise under close review.'
+
+“The safety of British people is the main factor when determining our travel advice for all countries, including Sri Lanka. Our advice is designed to help British people make informed decisions about foreign travel and remains under constant review to ensure it reflects our latest assessment of risks when travelling abroad,” Lord Ahmad of Wimbledon Minister of State-Foreign, Commonwealth and Development Office, said in UK Parliament.
+
+He was responding to the question, whether the UK government has any plans to update the travel advice to Sri Lanka to reflect the security situation in that country.
+
+...
+
+[Data](articles/61add69e.json)
+
+[Extended Data](ext_articles/61add69e.ext.json)
 
 ---
 
@@ -487,6 +543,24 @@ He came to Sri Lanka for a vacation in December 2004 and stayed at a tourist hot
 [Data](articles/7ee4f850.json)
 
 [Extended Data](ext_articles/7ee4f850.ext.json)
+
+---
+
+### ’எதிர்க்கட்சிகள் பெய் குற்றச்சாட்டுகளை முன்வைக்கின்றன’
+
+*2024-03-28 03:12:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சிகள்-பெய்-குற்றச்சாட்டுகளை-முன்வைக்கின்றன/175-335290) · `ta`
+
+பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டுள்ள தேர்தல் திருத்தச் சட்டமூலங்களால் எதிர்வரும் தேர்தல்கள் பிற்போடப்படும் என எதிர்க்கட்சிகள் முன்வைக்கும் குற்றச்சாட்டை அரசாங்கம் முழுமையாக நிராகரிக்கின்றது. அரசியலமைப்பின்படி உரிய நேரத்தில் தேர்தல் நடைபெறும் என்று ஐக்கிய தேசியக் கட்சியின் தவிசாளரும் பாராளுமன்ற உறுப்பினருமான வஜிர அபேவர்தன தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் இவ்வாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+நாம் சண்டை பிடித்துக்கொண்டது போதும். நாம் அனைவரும் ஒன்றிணைந்து கருத்து வேறுபாடுகளை களைந்து தேசியக் கொள்கைகளுக்காக ஒன்றுபட வேண்டும் என்றும் ஜனாதிபதி ரணில் விக்கிரமசிங்க பரிந்துரையொன்றை முன்வைத்தார்.
+
+இப்போதும் அது பாராளுமன்றத்தில் நடைமுறைப்படுத்தப்படுகிறது. ஜனாதிபதியால் முன்வைக்கப்பட்ட சட்ட மூலங்களில் தேசிய கொள்கை குறிப்பிடப்பட்டுள்ளது. ஊழல் மற்றும் முறைகேடுகளைத் தடுப்பதற்காக ஆசியாவிலேயே மிகவும் சக்திவாய்ந்த நிதிக் கட்டுப்பாட்டு சட்ட மூலங்கள் பாராளுமன்றத்தில் நிறைவேற்றப்பட்டு சட்டமாக்கப்பட்டுள்ளன என்றார். (a)
+
+◼️
+
+[Data](articles/091ae306.json)
 
 ---
 
@@ -1366,6 +1440,28 @@ The order was issued by President Ranil Wickremesinghe, pursuant to the powers v
 
 ---
 
+### Over 53 brothels shutdown for operating as Spa in Negombo
+
+*2024-03-27 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-53-brothels-shutdown-for-operating-as-Spa-in-Negombo/108-279736) · `en`
+
+Colombo, March 27 (Daily Mirror) - A total of 53 brothels, which being operated as spas and wellness centers posing were sealed in Negombo during a coordinated Police operation led by the Officers in Charge (OICs) of three local police stations, the Police said yesterday.
+
+“About 140 women, had been taken into custody for engaging in prostitution,” a Police Officer said.
+
+Police Spokesman DIG Nihal Thalduwa informed the media that the recent raids in Negombo, Kochchikade, and Seeduwa Police areas were conducted over the past few days.
+
+These operations were carried out based on information received from Police Intelligence units.
+
+Upon discovering the brothels are being operated as spas and wellness centers, the Police took immediate action to permanently close down these establishments.
+
+“A total of 145 suspects, including 8 men and 137 women, were arrested in connection with these operations,” DIG Thalduwa said.
+
+...
+
+[Data](articles/c612b913.json)
+
+---
+
 ### Over 53 spas shutdown for operating as brothels in Negombo
 
 *2024-03-27 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-53-spas-shutdown-for-operating-as-brothels-in-Negombo/108-279736) · `en`
@@ -2077,119 +2173,5 @@ The suspect, the suspect, which had spent Rs.
 [Data](articles/45d099e7.json)
 
 [Extended Data](ext_articles/45d099e7.ext.json)
-
----
-
-### Sri Lanka stocks close up, diversified financials, banks drive turnover
-
-*2024-03-27 16:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-diversified-financials-banks-drive-turnover-156318/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader All Share Index closed up 0.87 percent, or 98.96 points, at 11,434; while the S&P SL20 Index closed up 1.16 percent, or 37.70 points, at 3,300.
-
-Turnover was at 1.8 billion. Nearly half of this came from trades in the diversified financials (502mn) and banks sectors (404mn).
-
-Hela Apparel Holdings Plc saw the most active volumes (146mn) of the day; the share closed up at 6.00.
-
-Galle Face Capital Partners Plc also saw trade volumes (114mn) and the share closed up at 28.30.
-
-Major contributors to the Index included Hatton National Bank Plc (up at 177.75), DFCC Bank Plc (up at 74.50), Sampath Bank Plc (up at 79.90), and Central Finance Company Plc (up at 110.00).
-
-There was a  net foreign outflow of 25 million. (Colombo/Mar27/2024)
-
-◼️
-
-[Data](articles/c2336bad.json)
-
-[Extended Data](ext_articles/c2336bad.ext.json)
-
----
-
-### A health strike from Tuesday?
-
-*2024-03-27 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195001) · `si`
-
-The Health Trade Union UPFA plans a strike starting at 6:30 am Tuesday, according to the Health Trade Union Alliance's convener.
-
-🟩
-
-The Health Trade Union UPFA says that a strike will launch a strike from 6.30 am.
-
-The convener of the Health Trade Union Alliance has told the media this afternoon.
-
-◼️
-
-[Data](articles/1ee51936.json)
-
-[Extended Data](ext_articles/1ee51936.ext.json)
-
----
-
-### Sri Lanka is the only country to defend democracy
-
-*2024-03-27 16:34:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனநாயகத்தை-முழுமையாகப்-பாதுகாத்த-ஒரே-நாடு-இலங்கை/175-335268) · `ta`
-
-Sri Lanka is the only Asian country fully defending democracy, ensuring the ruling party doesn't influence opposition activities. President Ranil Wickremesinghe highlighted the importance of the democratic parliamentary system during the inaugural session of Sri Lanka's first national student parliament. The event showcased the country's commitment to democracy, with two members representing the National Student Parliament, elected from 100 zones across the country.
-
-🟩
-
-President Ranil Wickremesinghe said that Sri Lanka is the only Asian country that will fully defend democracy so that the ruling party has no effect on the activities of the opposition parties.
-
-The President also emphasized the importance of defending the democratic parliamentary system that is likely to express his views.
-
-President Ranil Wickremesinghe said this while addressing the inaugural session of Sri Lanka's first national student parliament held at the Presidential Office yesterday (26th).
-
-Two members of the country are representing the National Student Parliament, which has the highest number of votes from all the Zonal Student Parliamentarians established in 100 Zones, including the nine provinces of the country.
-
-The National Student Parliamentary Speaker, Prime Minister, Deputy Speaker, 10 Ministers and 10 Deputy Ministers were appointed in the recent elections by the Elections Commission with the Cooperation and Advisory Branch of the Ministry of Education.
-
-...
-
-[Data](articles/5a75ab44.json)
-
-[Extended Data](ext_articles/5a75ab44.ext.json)
-
----
-
-### Road blocked in Colombo due to medical students’ protest
-
-*2024-03-27 16:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98243/road-blocked-in-colombo-due-to-medical-students-protest) · `en`
-
-One lane of the road from Punchi Borella towards Maradana has been blocked for traffic due to a protest by medical students, Ada Derana reporter said.
-
-Severe traffic congestion has been reported in the area and several connected roads owing to the demonstration, he said.
-
-◼️
-
-[Data](articles/b3aba957.json)
-
-[Extended Data](ext_articles/b3aba957.ext.json)
-
----
-
-### Sri Lanka to halt midnight border tax amid corruption concerns
-
-*2024-03-27 16:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-halt-midnight-border-tax-amid-corruption-concerns-156291/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers have given approval to draft a bill to suspend the Special Commodity Levy, amid corruption concerns, following a proposal submitted President Ranil Wickremesinghe, spokesman Bandula Gunawardana said.
-
-The SCL is applied as a single tax, instead of the tax-on-tax effect seen when duty, CESS, PAL and VAT are applied on top of food imports in particular.
-
-But SCL is imposed overnight as people are sleeping, without any discussion in parliament, raising serious concerns about its constitutionality as well as discretion and insider knowledge.
-
-“There have been concerns about its mis-use,” Gunawardana said. “When taxes are suddenly changed there have been concerns.”
-
-An International Monetary Find corruption diagnostic report has flagged the midnight tax as a discretionary door opened for corruption.
-
-Similar sudden changes have also been made in an export CESS tax, unsing gazettes.
-
-Sri Lanka’s IMF review will be passed after several ‘pior actions’.
-
-...
-
-[Data](articles/a03107ae.json)
-
-[Extended Data](ext_articles/a03107ae.ext.json)
 
 ---

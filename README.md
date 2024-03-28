@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 22:51:25**
+As of **2024-03-28 23:03:24**
 
 ## Newspaper Stats
 
-*Scraped **15,791** Articles*
+*Scraped **15,792** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 1,893
 adaderanalk | 1,896
 virakesarilk | 2,234
 dailymirrorlk | 2,437
-adaderanasinhalalk | 2,541
+adaderanasinhalalk | 2,542
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,791 (100.0%) of 15,791 articles have been extended.
+15,791 (100.0%) of 15,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### ළමුන්ගේ සහ කාන්තාවන්ගේ ආරක්ෂාවට නව නීති
+
+*2024-03-28 22:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195053) · `si`
+
+අන්තර්ජාලය වෙත යොමුකර ඇති හා සමාජ මාධ්‍ය ජාලා මඟින් හුවමාරුවන ළමයින්ගේ නිරුවත් ඡායාරූප හා අසභ්‍ය වීඩියෝ දර්ශන කඩිනමින් ඉවත් කිරීමේ මාර්ගගත ප්‍රවේශය එළිදැක්වීම අද (28) පස්වරුවේ ජනාධිපති කාර්යාලයේ දී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් සිදුකර තිබේ.
+
+ළමා ලිංගික අපයෝජන සිදුවීම් අඩංගු හෝ අඩංගු විය හැකි වෙබ් අඩවි, ඡායාරූප සහ වීඩියෝ දර්ශන හේතුවන් ළමුන් සයිබර් අවකාශය තුළ හිංසනයට ලක්වීම වර්තමානයේ විශාල ගැටළුවක්ව පවතී.
+
+ජාතික ළමා ආරක්ෂක අධිකාරිය විසින් ලෝකයේ ප්‍රමුඛතම අන්තර්ජාල ළමා ආරක්ෂාව තහවුරු කිරීමේ ආයතනයක් වන එක්සත් රාජධානියේ ඉන්ටර්නෙට් වොච් ෆවුන්ඩේෂන් ( Internet Watch Foundation – IWF) ආයතනය සමඟ එක්ව මෙම වැඩසටහන ක්‍රියාත්මක කර තිබෙන අතර මෙහි මූල්‍ය අනුග්‍රාහකත්වය Save the Children සහ Child Fund යන ආයතන විසින් සපයනු ලබයි.
+
+...
+
+[Data](articles/a539014f.json)
+
+---
 
 ### Sri Lanka calls for debt-restructuring proposals from dealer managers
 
@@ -2271,27 +2287,5 @@ There, a top official of the Vanni region met them. The meeting was held till 7.
 [Data](articles/b86aa0c3.json)
 
 [Extended Data](ext_articles/b86aa0c3.ext.json)
-
----
-
-### Mullaitivu Regional Superintendent killed in accident
-
-*2024-03-28 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195024) · `si`
-
-Mullaitivu Regional Superintendent Akilagendran killed in a collision between two tippers. Kindurus, the Health Medical Superintendent, seriously injured.
-
-🟩
-
-Mullaitivu District Regional Authority has died in a fatal accident.
-
-The police said that a tipper from Vavuniya to Jaffna and a tipper from Mullaitivu to Vavuniya, the Health Medical Superintendent of Health Sciences has collided.
-
-Mullaittivu district Regional Medical Superintendent Kindurus who was seriously injured in the accident. Akilagendran has been killed in that place.
-
-◼️
-
-[Data](articles/52008e57.json)
-
-[Extended Data](ext_articles/52008e57.ext.json)
 
 ---

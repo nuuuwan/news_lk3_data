@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 19:33:39**
+As of **2024-03-28 19:51:56**
 
 ## Newspaper Stats
 
-*Scraped **15,770** Articles*
+*Scraped **15,773** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ dailyftlk | 848
 economynextcom | 867
 islandlk | 868
 adalk | 1,339
-adaderanalk | 1,891
 tamilmirrorlk | 1,892
+adaderanalk | 1,893
 virakesarilk | 2,229
 dailymirrorlk | 2,434
-adaderanasinhalalk | 2,534
+adaderanasinhalalk | 2,535
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,767 (100.0%) of 15,770 articles have been extended.
+15,770 (100.0%) of 15,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### ඥානසාර හිමිට ලබාදුන් දඬුවමට එරෙහිව අභියාචනයක්
+
+*2024-03-28 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195046) · `si`
+
+පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන්ට කොළඹ මහාධිකරණය ලබාදුන් දඬුවමට එරෙහිව අභියාචනයක් ඉදිරිපත් කළ බව රාවණා බලය සංවිධානයේ මහලේකම් පූජ්‍ය ඉත්තෑකන්දේ සද්ධාතිස්ස හිමි පවසති.
+
+කූරගල විහාරස්ථානය සම්බන්ධයෙන් 2016 වසරේ ප්‍රවෘත්ති සාකච්ඡාවකදී කළ ප්‍රකාශයකින් ආගම් අතර අසමගිය ඇතිවන ආකාරයෙන් කටයුතු කළ බවට පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන්ට චෝදනා එල්ල වී තිබුණි.
+
+ඒ, හිටපු ආණ්ඩුකාර අසාද් සාලි සහ හිටපු පාර්ලිමේන්තු මන්ත්‍රී මුජිබර් රහුමාන් යන මහත්වරු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට සහ පොලිස්පතිවරයාට කරන ලද පැමිණිලිවලට අනුව ය.
+
+ඒ අනුව දණ්ඩ නීති සංග්‍රහයේ 295 වන වගන්තිය යටතේ නීතිපතිවරයා උන්වහන්සේට එරෙහිව චෝදනා 2ක් යටතේ අධිචෝදනා ගොනු කළේය.
+
+නඩුව අද (28) කැඳවූ අවස්ථාවේදී ඥානසාර හිමියන් වෙනුවෙන් පෙනී සිටි නීතිඥවරයා සඳහන් කළේ මෙම සිද්ධිය වූ වකවානුවේ රටේ පැවති වාතාවරණය පදනම් කරගෙන උන්වහන්සේ අදාළ ප්‍රකාශය සිදුකළ බවයි.
+
+...
+
+[Data](articles/4494f299.json)
+
+---
+
+### Easter attack claims: Maithripala ordered to make statement in court
+
+*2024-03-28 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98270/easter-attack-claims-maithripala-ordered-to-make-statement-in-court) · `en`
+
+The Maligakanda Magistrate’s Court today ordered former President Maithripala Sirisena to make a statement in court on 04 April on his recent comments over the Easter Sunday bomb attacks.
+
+◼️
+
+[Data](articles/7922d864.json)
+
+---
+
+### DLB records highest-ever profit in 2023
+
+*2024-03-28 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98269/dlb-records-highest-ever-profit-in-2023) · `en`
+
+The Development Lotteries Board (DLB) has recorded its highest-ever profit of Rs. 3.6 billion in 2023 and a significant portion of Rs. 3.6 billion goes to the President’s Fund, the President’s Media Division said.
+
+In 2023, the Development Lotteries Board (DLB) achieved it’s highest-ever profit in its 40-year history. This marked a significant milestone as the DLB recorded a profit margin of 32% for the fiscal year 2022-2023, double the previous year’s figure, the PMD said a statement.
+
+Consequently, contributions to both the President’s Fund and the government saw notable increases, with a 13% rise for the former, surpassing the target, and a 6% increase for the latter. Mr. Ajith Gunaratne Narangala, Chairman and CEO of the Development Lotteries Board, attributed this success to strategic measures aimed at mitigating the country’s economic challenges, with special guidance from President Ranil Wickremesinghe, who also serves as the Minister of Finance.
+
+...
+
+[Data](articles/e0abb71d.json)
+
+---
 
 ### 18-member squad for Asian U-20 Meet
 
@@ -48,39 +96,53 @@ Sri Lanka will be targeting more than five medals at this meet including success
 
 [Data](articles/5eef1cec.json)
 
+[Extended Data](ext_articles/5eef1cec.ext.json)
+
 ---
 
-### මෛත්‍රීට අධිකරණයෙන් හදිසි නියෝගයක්
+### Emergency order for Maithri
 
 *2024-03-28 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195045) · `si`
 
-පාස්කු දින ප්‍රහාරයට අදාළව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ලබාදුන් ප්‍රකාශය සම්බන්ධයෙන් අප්‍රේල් මස 4 වනදා ප්‍රකාශයක් ලබාදෙන ලෙස මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාට නියෝග කර තිබේ.
+The Maligakanda Magistrate's Court ordered the Criminal Investigation Department (CID) on April 4, following the CID's report to the court today.
 
-නීතිපති උපදෙස් මත අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අද එම අධිකරණයට කරුණු වාර්තා කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී ඇත.
+🟩
+
+The Maligakanda Magistrate's Court has ordered the Criminal Investigation Department on April 4.
+
+The Criminal Investigation Department (CID) has issued this order since the CID has reported to the court today on advice.
 
 ◼️
 
 [Data](articles/0b51e698.json)
 
+[Extended Data](ext_articles/0b51e698.ext.json)
+
 ---
 
-### නදීම් බාෂික් ව අත්අඩංගුවට ගැනීමට එරෙහි අතුරු තහනම් නියෝගය දීර්ඝ කෙරේ
+### Interim to be extended against arrests arrest arrest
 
 *2024-03-28 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195044) · `si`
 
-පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශය විසින් නදිම් බාෂික් නමැත්තකු අත්අඩංගුවට ගැනීම වළක්වාලමින් නිකුත්කර තිබෙන අතුරු තහනම් නියෝගය අප්‍රේල් 29 වනදා දක්වා තවදුරටත් දීර්ඝ කරන ලෙස අභියාචනාධිකරණය අද (28) නියෝග කළේය.
+The Court of Appeal extended an interim injunction against unjust arrests by police officers in Narurebeek Basshak, following a petition by Nadem Bashik. The petitioner alleges that the Maligakanda Magistrate reportedly issued an unfair arrest order without sufficient evidence.
 
-පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශය විසින් තමන්ව අත්අඩංගුවට ගැනීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන මෙන් ඉල්ලා නදීම් බාෂික් විසින් ගොනුකළ රිට් පෙත්සමක් කැඳවනු ලැබූ අවස්ථාවේදී අභියාචනාධිකරණ විනිසුරු ඩී. එන්. සමරකෝන් මහතා මෙම නියෝගය නිකුත් කළේය.
+🟩
 
-පෙත්සම්කරු කියා සිටින්නේ පොලිස් මත්ද්‍රව්‍යනාශක කාර්යාංශයේ නිලධාරීන් පිරිසක් විසින් තමන්ව අසාධාරණ ලෙස අත්අඩංගුවට ගැනීමට සූදානම් වන බවයි.
+The Court of Appeal today (28) ordered the interim injunction order issued by the Police Narurebeek Basshak.
 
-මීට අදාළ ව මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණයට කරුණු වාර්තා කර තිබෙන බවත් පෙත්සම්කරු කියා සිටියේය.
+Court of Appeal Court Delivery Court as a Rad petition filed by Nadem Bashik to issue a order to issue a prevention of the police.. N. Mr. Samarakoon issued the order.
 
-ප්‍රමාණවත් සාක්ෂි නොමැතිව අසාධාරණ ලෙස තමන්ව අත්අඩංගුවට ගැනීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා ඔහු මෙම පෙත්සම ඉදිරිපත් කර තිබේ.
+The petitioner says that a group of police officers of the Police Naruree Bureau are preparing to be unjust.
+
+The petitioner said that the Maligakanda Magistrate had reportedly reported the court.
+
+He has presented the petition to issue an order to issue an order to issue an order unfair arrest without adequate evidence.
 
 ◼️
 
 [Data](articles/65dfe477.json)
+
+[Extended Data](ext_articles/65dfe477.ext.json)
 
 ---
 
@@ -2241,69 +2303,5 @@ At the year 2016, the case was taken up with regard to national and religious re
 [Data](articles/c762983f.json)
 
 [Extended Data](ext_articles/c762983f.ext.json)
-
----
-
-### Mullaitivu Health Services Director killed in road accident in Omanthai
-
-*2024-03-28 10:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mullaitivu-Health-Services-Director-killed-in-road-accident-in-Omanthai/108-279766) · `en`
-
-Omanthai , March 28 (Daily Mirror) - The Director of Health Services in Mullaitivu Dr. K. Akilendran died in a fatal road accident in Omanthai yesterday.
-
-Initial police investigations revealed that Dr. Akilendran was traveling from Mullaitivu to Vavuniya in a cab when a tipper, traveling from Vavuniya to Kilinochchi, collided head-on with the cab.
-
-Police suspect that the accident occurred when the tipper attempted to overtake a three-wheeler ahead of it.
-
-The doctor sustained serious injuries and was rushed to Vavuniya General Hospital, where he succumbed to his injuries upon admission.
-
-Following the accident, the tipper driver, who suffered minor injuries, was hospitalized and subsequently arrested.
-
-◼️
-
-[Data](articles/255ea53c.json)
-
-[Extended Data](ext_articles/255ea53c.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 300.00/40 to the US dollar
-
-*2024-03-28 10:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-300-00-40-to-the-us-dollar-156382/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 300.00/40 to the US dollar in the spot forex market on Thursday, stronger from 300.85/301.00 on Wednesday, dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 was quoted at 11.35/40 percent from 11.32/38 percent.
-
-A bond maturing on 15.09.2027 was quoted at 11.90/12.05 percent from 11.95/12.00 percent.
-
-A bond maturing on 15.12.2028 was quoted stable at 12.10/15 percent.
-
-The Colombo Stock Exchange opened up: ASPI up 0.59 percent at 11,501.54, and S&P SL20 up 0.89 percent at 3,329. (Colombo/Mar28/2024)
-
-◼️
-
-[Data](articles/f71c8218.json)
-
-[Extended Data](ext_articles/f71c8218.ext.json)
-
----
-
-### Sri Lankan soldier among latest victims in Ukraine-Russia conflict: Report
-
-*2024-03-28 09:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-soldier-among-latest-victims-in-Ukraine-Russia-conflict-Report/108-279765) · `en`
-
-Al Jazeera - At least five Sri Lankan have reportedly been  killed so far while fighting in the Ukraine Russia war, according to the Al Jazeera. In the latest incident, Nipuna Silva, a Sri Lankan soldier who quit his army to fight for Russia in Ukraine because of better pay, is believed to have been killed on the front line in Ukraine.
-
-The media reported that at least two Sri Lankans have been killed fighting for Russia in Ukraine, and three on the Ukrainian side. But many more are willing to join the war amid desperate economic conditions at home.
-
-Badly wounded from a Ukrainian attack on a Russian bunker in the Donetsk region, Sri Lankan fighter Senaka Bandara* tried to carry his fellow countryman, Nipuna Silva*, to safety.
-
-Senaka*, 36, was bleeding from his legs and hands. Nipuna’s condition was worse – he had sustained injuries to his chest, hands and legs, according to Senaka.
-
-...
-
-[Data](articles/07aa8aaf.json)
-
-[Extended Data](ext_articles/07aa8aaf.ext.json)
 
 ---

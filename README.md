@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 14:33:37**
+As of **2024-03-28 14:50:59**
 
 ## Newspaper Stats
 
-*Scraped **15,710** Articles*
+*Scraped **15,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,75 +18,125 @@ islandlk | 868
 adalk | 1,336
 adaderanalk | 1,884
 tamilmirrorlk | 1,889
-virakesarilk | 2,222
-dailymirrorlk | 2,421
+virakesarilk | 2,223
+dailymirrorlk | 2,423
 adaderanasinhalalk | 2,518
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,707 (100.0%) of 15,710 articles have been extended.
+15,710 (100.0%) of 15,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### நீதிமன்றத்துக்கு அழைத்து வரப்பட்ட கெஹலிய
+### ’Ibba’ hacked to death
+
+*2024-03-28 14:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ibba-hacked-to-death/108-279775) · `en`
+
+A 32 year old man of the Fisheries Village in Lunugamvehera was hacked to death during the early hours of this morning.
+
+Police said the victim Kelum Thushara alias “Ibba” had received serious cut injuries and one of his upper limbs had been severed from his body. They believe that a previous animosity between two parties would have resuled in the killing.
+
+The Thissamaharama magistrate who visited the scene and held the preliminary magesterial inquiry ordered police to refer the body to  the JMO for a postmortem examination.
+
+Lunugamvehera police are conducting further investigations on the instructions of SSP Tangalle Division K.B. Kirthiratna.
+
+◼️
+
+[Data](articles/ca2a0012.json)
+
+---
+
+### Coconut milk exports earn Rs. 2,971 million in February
+
+*2024-03-28 14:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Coconut-milk-exports-earn-Rs-2-971-million-in-February/108-279773) · `en`
+
+Colombo, Matrch 28 (Daily Mirror) - The Coconut Development Authority (CDA) today said that a total of Rs. 2,971 million was earned in the month of February 2024 by exporting coconut milk.
+
+They said in 2023, when coconut milk was exported, 4,366 metric tons were exported in February and an income of Rs. 2,401 million was earned.
+
+According to the report on exports issued by the Central Bank of Sri Lanka on a monthly basis, the income earned by exporting 6,739 metric tons of coconut milk in February 2024 is Rs. 2,971 million.
+
+In terms of the amount of coconut milk exported, it increased by 2,373 metric tons in February 2024 compared to 2023, and the income from exports has also increased by Rs. 570 million.
+
+The coconut yield also increased due to the rain that followed a prolonged drought last year. Also, from last November until now, coconut production has shown high growth every month.
+
+...
+
+[Data](articles/e0324433.json)
+
+---
+
+### Keheliya brought to court
 
 *2024-03-28 14:14:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்துக்கு-அழைத்து-வரப்பட்ட-கெஹலிய/175-335310) · `ta`
 
-விளக்கமறியலில் வைக்கப்பட்டுள்ள முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்ல, இன்று (28) மாளிகாகந்த நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டுள்ளார்.
+Keheliya Rambukwella, a former minister, was interrogated and brought to court today.
+
+🟩
+
+Former Minister Keheliya Rambukwella, who has been interrogated, has been produced before the Magistrate's Court today (28).
 
 ◼️
 
 [Data](articles/fe54eec5.json)
 
+[Extended Data](ext_articles/fe54eec5.ext.json)
+
 ---
 
-### பெண்ணுடன் இருந்த பிக்கு கைது
+### சுவீடனில் குர்ஆனை எரித்தவர் நோர்வேயில் புகலிடம் கோர முயற்சி
+
+*2024-03-28 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/179895) · `ta`
+
+சுவீடனில் புனித குர்ஆனை எரித்து சர்ச்சை ஏற்படுத்திய நபர், ஈராக்குக்கு நாடு கடத்தப்படவுள்ள நிலையில் நோர்வேயில் புகலிடம் கோருவதற்கு முயற்சிக்கிறார்.
+
+ஈராக்கியரான சல்வான் மோமிகா எனும் இந்நபர், 2021 ஆம் ஆண்டில் சுவீடனில் வதிவிட உரிமை பெற்றவர்.
+
+கடந்த பல வருடங்களில் அவர் பல தடவைகள் குர்ஆனை எரித்து சர்ச்சை ஏற்படுத்தினார்.
+
+கடந்த ஒக்டோபர் மாதம் அவரின் வதிவிட அனுமதி இரத்துச் செய்யப்பட்டது. வதிவிட அனுமதி கோரிக்கைக்கான விண்ணப்பத்தில் தவறான தகவல்களை அளித்திருந்தமை இதற்கு காரணம் என சுவீடன் அதிகாரிகள் தெரிவித்திருந்தனர்.
+
+எனினும், ஈராக்கில் தனது உயிருக்கு ஆபத்துள்ளதாக மோமிகா தெரிவித்ததையடுத்து நாடு கடத்தல் தற்காலிகமாக ஒத்திவைக்கப்பட்டது.
+
+அவருக்கு வழங்கப்பட்டிருந்த புதிய தற்காலிக அனுமதிப்பத்திரம் எதிர்வரும் ஏப்ரல் 16 ஆம் திகதியுடன் காலவாதியாகிறது.
+
+இந்நிலையில், தான் நோர்வேயில் புகலிடம் கோரவுள்ளதாக சுவீடன் ஊடகமொன்றுக்கு அளித்த செவ்வியில் மோமிகா தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/609ce107.json)
+
+---
+
+### Biku arrested with woman
 
 *2024-03-28 13:58:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பெண்ணுடன்-இருந்த-பிக்கு-கைது/76-335309) · `ta`
 
-தியத்தலாவ பிரதேசத்தில் உள்ள விடுதி ஒன்றில் பெண்ணொருவருடன்  இருந்த பிக்குவே  தியத்தலாவ பொலிஸ் குழுவினால் விசாரணைக்காக கைது செய்யப்பட்டுள்ளார்.
+Biku, 45, and a woman, 40, from Boralanda, arrested by Pikuwe Diyathalawa police for investigation.
 
-அந்த பிக்கு, பொரலந்த பிரதேசத்தில் உள்ள ஒரு விகாரையைச் சேர்ந்த 45 வயதானவர் என்றும்,  அந்தப் பெண் அதே பகுதியில் வசிக்கும் திருமணமான நாற்பது வயதான பெண்ணாவர்.
+🟩
 
-பெண்ணொருவர் மாற்றுப்பெயருடன் விடுதிக்கு வந்துள்ளதாக கிடைத்த இரகசிய தகவலையடுத்து இந்த சுற்றிவளைப்பு நடத்தப்பட்டு இருவரும் கைது செய்யப்பட்டுள்ளனர்.
+Pikuwe Diyathalawa police team, who was with a woman at a hostel in Diyathalawa, has been arrested for investigation.
+
+The 45 -year -old is a 45 -year -old woman from a stranger in Boralanda area and the woman is a forty -year -old woman living in the same area.
+
+The two have been arrested and the two have been arrested following confidential information that a woman had come to the hostel with an alternative name.
 
 ◼️
 
 [Data](articles/85bda456.json)
 
----
-
-### Bribery Commission sues Cabraal
-
-*2024-03-28 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195027) · `si`
-
-The Bribery Commission sues former Central Bank Governor Ajith Nivard Cabraal for alleged bribery or corruption related to the purchase of Greek government bonds in 2012, following a complaint by former MP Zeji Senasinghe.
-
-🟩
-
-Former Central Bank Governor Ajith Normad Cabraal, former Central Bank Governor Ajith Nivard Cabraal, has filed a case against five persons including the Greek government bonds issued by the Greek government in 2012.
-
-The prosecution had been carried out following the investigation of bribery or corruption in connection with the complaint lodged by former MP Zeji Senasinghe.
-
-The complaint was made by the government to purchase Treasury Bonds issued by the Government of the Government of Greece when Greece was in a heavy economic crisis.
-
-Investigations carried out regarding the complaint, the Bribery Commission said that the former Central Bank Governor Ajith Nivard Cabraal was filed against the Colombo High Court against five persons.
-
-◼️
-
-[Data](articles/72041f8c.json)
-
-[Extended Data](ext_articles/72041f8c.ext.json)
+[Extended Data](ext_articles/85bda456.ext.json)
 
 ---
 
 ### Production of 6 lakhs of chicken eggs per month
 
-*2024-03-28 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/179898) · `ta`
+*2024-03-28 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179898) · `ta`
 
 The country produces 6 lakh chicken eggs monthly, with prices expected to remain stable until December. Despite a 2022 downturn, recovery is underway, with egg production increasing to 6 lakh per month. The price of eggs could drop to 30 rupees, potentially harming the industry. The government has been asked to investigate egg exports. Poultry fodder prices have fallen to 180 rupees, benefiting farmers. If egg prices drop to 35 rupees, small and medium manufacturers may struggle. More chickens are being imported, leading to an increase in eggs and chicks by early 2025.
 
@@ -111,6 +161,30 @@ Small and medium egg manufacturers face severe difficulties if the price of eggs
 [Data](articles/09583173.json)
 
 [Extended Data](ext_articles/09583173.ext.json)
+
+---
+
+### Bribery Commission sues Cabraal
+
+*2024-03-28 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195027) · `si`
+
+The Bribery Commission sues former Central Bank Governor Ajith Nivard Cabraal for alleged bribery or corruption related to the purchase of Greek government bonds in 2012, following a complaint by former MP Zeji Senasinghe.
+
+🟩
+
+Former Central Bank Governor Ajith Normad Cabraal, former Central Bank Governor Ajith Nivard Cabraal, has filed a case against five persons including the Greek government bonds issued by the Greek government in 2012.
+
+The prosecution had been carried out following the investigation of bribery or corruption in connection with the complaint lodged by former MP Zeji Senasinghe.
+
+The complaint was made by the government to purchase Treasury Bonds issued by the Government of the Government of Greece when Greece was in a heavy economic crisis.
+
+Investigations carried out regarding the complaint, the Bribery Commission said that the former Central Bank Governor Ajith Nivard Cabraal was filed against the Colombo High Court against five persons.
+
+◼️
+
+[Data](articles/72041f8c.json)
+
+[Extended Data](ext_articles/72041f8c.ext.json)
 
 ---
 
@@ -2209,77 +2283,5 @@ Subsequently, the doctors of the hospital, Nintavur, Samanthurai Akkaraipattu ho
 [Data](articles/a6285f52.json)
 
 [Extended Data](ext_articles/a6285f52.ext.json)
-
----
-
-### Under 19, women's cricket cricket will help you get the best experiences
-
-*2024-03-28 00:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179852) · `ta`
-
-Under-19 women's cricket series in Hambantota, featuring Sri Lanka, Australia, and England, promises challenging but rewarding experiences. Team leaders highlight the unique opportunity to improve skills in heavy heat conditions.
-
-🟩
-
-Leaders of Sri Lanka, Australia and England have said that the under -19 women's cricket series will have the opportunity to get better experiences in Hambantota on Thursday (28).
-
-Sri Lankan captain Manudhi Nanayakkara, Australian captain Lucy Hamilton and England captain Josi Groves participated in the virtual media briefing in Hambantota.
-
-The trio said that it would be a huge challenge during the heavy heat in Hambantota.
-
-The three team leaders, however, said they were trying to get accustomed to the circumstances and try to play efficiently.
-
-Josi Groves and Lucy Hamilton said the series would be a major challenge because Australia and England were playing in a different situation than their countries.
-
-...
-
-[Data](articles/19cbb11c.json)
-
-[Extended Data](ext_articles/19cbb11c.ext.json)
-
----
-
-### Hyderabad won Mumbai by 31 runs
-
-*2024-03-28 00:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179851) · `ta`
-
-Sunrisers Hyderabad won against Mumbai Indians by 31 runs in an IPL match, setting a new record for the highest total runs in IPL history with 523 runs.
-
-🟩
-
-Sunrisers Hyderabad won the Indian Premier League cricket match at the Rajiv Gandhi International Stadium in Hyderabad on Wednesday (27).
-
-The 277 runs scored by Sunrisers Hyderabad in the scattered -up match of the bowlers was the highest number of teams in the history of Indian Premier League cricket.
-
-Royal Challengers Bangalore in 2013 against the Pune Warriors in 2013 was 263 runs for the loss of 5 wickets.
-
-In addition, the total number of 523 runs scored by the two teams in the match is the highest number of IPL history.
-
-The previous record was 469 runs in Chennai Super Kings and Rajasthan Royals 14 years ago.
-
-Sunrisers Hyderabad, who was first invited to bat in the upting match, scored 277 runs in 20 overs with the help of half a century.
-
-Mayank Agarwal lost only (11) with less runs. (45 - 1 wig.)
-
-Subsequently, the pair, Travis Head and Abhishek Sharma, were bowled out for 68 off 22 balls and strengthened the team.
-
-...
-
-[Data](articles/813e8efa.json)
-
-[Extended Data](ext_articles/813e8efa.ext.json)
-
----
-
-### Education reforms: A distant goal for Sri Lanka?
-
-*2024-03-28 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Education-reforms-A-distant-goal-for-Sri-Lanka/172-279738) · `en`
-
-Sri Lanka’s education system has been yearning for reforms following the millennium if one had closely observed the ever-transforming education sectors in developed countries. The discourse to bring about education reforms has continued for decades. As a result, the government has drafted a National Education Policy Framework (NEPF) for a 10-year period from 2023-2033. But, academics observe that this is a loosely drafted document that hasn’t addressed several key areas of concern.
-
-...
-
-[Data](articles/4b41cf30.json)
-
-[Extended Data](ext_articles/4b41cf30.ext.json)
 
 ---

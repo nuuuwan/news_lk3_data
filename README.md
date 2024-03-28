@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 08:51:59**
+As of **2024-03-28 09:03:16**
 
 ## Newspaper Stats
 
-*Scraped **15,643** Articles*
+*Scraped **15,648** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,68 @@ newsfirstlk | 363
 dailyftlk | 847
 economynextcom | 849
 islandlk | 867
-adalk | 1,333
-adaderanalk | 1,874
+adalk | 1,334
+adaderanalk | 1,875
 tamilmirrorlk | 1,876
 virakesarilk | 2,213
 dailymirrorlk | 2,413
-adaderanasinhalalk | 2,507
+adaderanasinhalalk | 2,510
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,643 (100.0%) of 15,643 articles have been extended.
+15,643 (100.0%) of 15,648 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### එක් පුද්ගලයෙකුගේ මාසික වියදම හෙළිවෙයි
+
+*2024-03-28 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195018) · `si`
+
+නිල දරිද්‍රතා රේඛාව අනුව එක් පුද්ගලයෙකුගේ මාසික වියදම ඉහළ ගොස් ඇති බව ජනලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව පෙන්වා දෙන්නේ මේ වසරේ ජනවාරි මාසය තුළ එක් පුද්ගලයෙකුට සිය මූලික අවශ්‍යතා සපුරාලීම සඳහා මසකට අවශ්‍ය අවම වියදම සාමාන්‍යයෙන් රුපියල් 17,014ක් ලෙස ඉහළ ගොස් ඇති බවය.
+
+පසුගිය වසරේ දෙසැම්බර් මාසයේදී එහි අගය 16,524ක් ලෙස සටහන්වී තිබුණි.
+
+එක් පුද්ගලයෙකුට තම මූලික අවශ්‍යතා සපුරාගැනීම සඳහා මසකට වැය වන මුදල දිස්ත්‍රික් මට්ටමින් ගණන් බලා ඇති අතර වැඩිම වියදමක් දැරීමට සිදුව ඇත්තේ කොළඹ දිස්ත්‍රික්කය තුළ ජීවත් වන පුද්ගලයින්ට බවද එහි සඳහන් ය.
+
+ඒ අනුව කොළඹ දිස්ත්‍රික්කයේ ඒක පුද්ගල මාසික වියදම රුපියල් 18,350ක් වන අතර ගම්පහ දිස්ත්‍රික්කයේ 18,256ක්, නුවරඑළිය දිස්ත්‍රික්කයේ 17,892ක් ලෙස සටහන්වී තිබේ.
+
+අවම ඒක පුද්ගල වියදම මොනරාගල දිස්ත්‍රික්කයෙන් වාර්තා වන අතර එය 16,268ක් බව ජනලේඛන හා සංඛ්‍යා ලේඛන දෙපාර්තමේන්තුව පවසයි.
+
+නිල දරිද්‍රතා රේඛාව ජාතික පාරිභෝගික මිල දර්ශකයට අනුව ජාතික හා දිස්ත්‍රික් මට්ටම්වල මිල වෙනස්වීම් සැලකිල්ලට ගනිමින් සකස් කරනු ලබයි.
+
+◼️
+
+[Data](articles/95d582e1.json)
+
+---
+
+### Baltimore bridge collapse: Two bodies recovered from underworld wreckage
+
+*2024-03-28 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98253/baltimore-bridge-collapse-two-bodies-recovered-from-underworld-wreckage) · `en`
+
+The bodies of two people have been recovered from a red pickup truck, which was submerged under the water where the Baltimore Bridge collapsed.
+
+Eight construction workers were on the bridge when a ship struck it, plunging them into the waters below.
+
+Two of the workers were rescued on the day, but the search continues for the other four - all presumed dead.
+
+Salvage crews are working to address hazardous materials and accident investigators are on the scene.
+
+Four of the six victims of the bridge collapse have been named so far.
+
+At a press conference on Wednesday, Maryland State Police identified Alejandro Hernandez Fuentes, 35, and Dorlian Ronial Castillo Cabrera, 26, as the two workers recovered by divers from inside the truck. Mr Fuentes is originally from Mexico and Mr Cabrera is from Guatemala.
+
+...
+
+[Data](articles/7deac523.json)
+
+---
 
 ### China to continue positive engagements with IMF to restore debt sustainability in Sri Lanka – President Xi
 
@@ -69,6 +115,34 @@ The Sri Lankan Prime Minister had called on President Xi Jinping on Wednesday (M
 [Data](articles/8d9bbe95.json)
 
 [Extended Data](ext_articles/8d9bbe95.ext.json)
+
+---
+
+### ජනාධිපති අපේක්ෂකත්වය පාඨලී ප්‍රතික්ෂේප නොකරයි
+
+*2024-03-28 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195017) · `si`
+
+ඉදිරියේදී නිර්මාණය කරනු ලබන නව සන්ධානය යටතේ ජනාධිපති මැතිවරණයේ අපේක්ෂකත්වය තමන්ට ලබාදුනහොත් එය ප්‍රතික්ෂේප නොකරන බව පාර්ලිමේන්තු මන්ත්‍රී පාඨලි චම්පික රණවක මහතා පවසයි.
+
+ඔහු පවසන්නේ රට ගොඩනැගීමේ අරමුණින් දේශපාලන පක්ෂ සමග නව සන්ධානයක් ගොඩනැගීමේ කටයුතු මේ වනවිට සිදුකෙරෙමින් පවතින බවය.
+
+◼️
+
+[Data](articles/dad41f12.json)
+
+---
+
+### චීනයෙන් ශ්‍රී ලංකාවට පොරොන්දුවක්
+
+*2024-03-28 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195016) · `si`
+
+ශ්‍රී ලංකාවේ ආර්ථික ස්ථාවරත්වය ශක්තිමත් කිරීමට සහ ණය තිරසාරභාවය යථා තත්ත්වයට පත් කිරීමට චීනය ජාත්‍යන්තර මූල්‍ය අරමුදල සමග ධනාත්මක මැදිහත්වීම් දිගටම කරගෙන යන බව පවසා ඇත.
+
+ඔහු වැඩිදුරටත් සඳහන් කළේ, ජනාධිපති ෂී ජින්පින් සහ අගමැති දිනේෂ් ගුණවර්ධන අතර බෙයිජිං නුවර පැවති ද්විපාර්ශ්වික සාකච්ඡාවලදී චීන ජනාධිපති ෂී ජින්පින් මහතා ඒ බව පවසා ඇති බවය.
+
+◼️
+
+[Data](articles/9a772110.json)
 
 ---
 
@@ -1288,6 +1362,24 @@ We have made a number of important recommendations for the educational policy of
 
 ---
 
+### ලංකාවේ සහායට චිනය ඉන්නා බව චීන ජනපති කියයි
+
+*2024-03-27 21:40:05* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සහායට-චිනය-ඉන්නා-බව-චීන-ජනපති-කියයි/11-408837) · `si`
+
+චීන ජනාධිපති ෂී ජින්පින් මහතා හා ශ්‍රී ලංකා අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා අතර හමුවක් අද (2024.03.27) බෙයිජිං හි ග්‍රේට් හෝල්හි දී පැවැත්විණි.
+
+ජාත්‍යන්තර කටයුතුවලදී රටක අභ්‍යන්තර කටයුතුවලට ඇඟිලි නොගසන මිත්‍රත්වය, සාමය, අන්‍යෝන්‍ය ගෞරවය සහ පස්විධ ප්‍රතිපත්ති යටතේ ඉදිරියටත් ක්‍රියාකිරීමට දෙරටම එකඟවිය. ද්විපාර්ශික සබඳතා, රටවල් අතර අන්‍යෝන්‍ය ගෞරවය සහ අන්‍යෝන්‍ය ඵලදායීත්වය මත පැවැත්විය යුතු බව අවධාරණය කරමින් එම ප්‍රතිපත්තිය අනුව ක්‍රියා කිරීම  දෙරටටම හොඳ ආදර්ශයක් සපයන බව මෙහිදී අවධාරණය කෙරිණි.
+
+ශ්‍රී ලංකාවේ සංවර්ධනයට අවශ්‍ය යෝජනා ක්‍රම ඉදිරිපත් කළ වහාම ඊට චීනයේ සහයෝගය ලබාදෙන බවද චීන ජනාධිපතිවරයා මෙහිදී සහතික කළේය.
+
+දේශපාලන සහ සමාජ ආර්ථික ප්‍රගතිය සඳහා ශ්‍රී ලංකාව දරණ ප්‍රයත්නයන්ට චීනයේ අඛණ්ඩ සහයෝගය ලබා දෙන බවට චීන ජනාධිපතිවරයා  සහතික විය. මෙහිදී  චීන ජනාධිපතිවරයා කියා සිටියේ ශ්‍රී ලංකාවේ ස්වාධීනත්වය, භෞමික අඛණ්ඩතාව සහ ස්වෛරී භාවය ආරක්ෂා කරගැනීම වෙනුවෙන් සැම විට ම චීනය පෙනී සිටින බව යි.
+
+...
+
+[Data](articles/a122ad52.json)
+
+---
+
 ### A woman's body in a house
 
 *2024-03-27 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195009) · `si`
@@ -2087,101 +2179,5 @@ The Chinese President has thanked the Chinese President for the assistance of th
 [Data](articles/c271ea08.json)
 
 [Extended Data](ext_articles/c271ea08.ext.json)
-
----
-
-### Couple killed due to diarrhea
-
-*2024-03-27 16:55:49* · [`adalk`](https://www.ada.lk/breaking_news/පාචනය-නිසා-අඹුසැමි-යුවළක්-මරුට/11-408832) · `si`
-
-A couple in Agalawatta died from sudden vomiting and diarrhea. The husband died at home, and the wife was hospitalized in Kalutara.
-
-🟩
-
-Meeting of a couple in Agalawatta area has died due to a sudden vomit and disorder condition. The husband has died in the house at home and his wife was admitted to the Nagoda hospital in Kalutara.
-
-Wanni Arachchige Upali Dias, a resident of Aragalawatta, the police said.
-
-◼️
-
-[Data](articles/5b1d227f.json)
-
-[Extended Data](ext_articles/5b1d227f.ext.json)
-
----
-
-### Couple killed due to diarrhea
-
-*2024-03-27 16:55:49* · [`adalk`](https://www.ada.lk/breaking_news/පාචනය-නිසා-අඹුසැමි-යුවළ-මරුට/11-408832) · `si`
-
-A couple in Agalawatta died from sudden vomiting and disorder. The husband died at home, and the wife was hospitalized in Kalutara.
-
-🟩
-
-Meeting of a couple in Agalawatta area has died due to a sudden vomit and disorder condition. The husband has died in the house at home and his wife was admitted to the Nagoda hospital in Kalutara.
-
-Wanni Arachchige Upali Dias, a resident of Aragalawatta, the police said.
-
-◼️
-
-[Data](articles/865a3599.json)
-
-[Extended Data](ext_articles/865a3599.ext.json)
-
----
-
-### Sri Lanka is the only Asian country where democracy is fully safeguarded - President
-
-*2024-03-27 16:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/98244/sri-lanka-is-the-only-asian-country-where-democracy-is-fully-safeguarded-president) · `en`
-
-President Ranil Wickremesinghe says Sri Lanka stands out as the sole nation in Asia where democracy is fully safeguarded, ensuring that governmental actions do not impede the operations of the opposition.
-
-He also underscored the significance of safeguarding the democratic parliamentary system, ensuring that everyone’s viewpoints are allowed to be heard.
-
-The president delivered these remarks while speaking at the opening session of Sri Lanka’s inaugural National Student Parliament, convened on Tuesday (26) at the Presidential Secretariat.
-
-The National Student Parliament comprises two representatives elected from each of the zonal student parliaments established in 100 regions, spanning across the nine provinces of the island, selected based on receiving the highest number of votes.
-
-...
-
-[Data](articles/2b81f94b.json)
-
-[Extended Data](ext_articles/2b81f94b.ext.json)
-
----
-
-### For Muslims engaged in Ramadan fast
-
-*2024-03-27 16:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/For-Muslims-engaged-in-Ramadan-fast/110-279726) · `en`
-
-The Azath Salley Foundation today donated 1,000 bags of dry rations to Muslims in Sri Lanka. These bags were given to Muslims who are engaged in the Ramadan fasting. Pix by Pradeep Pathirana.
-
-◼️
-
-[Data](articles/a251e2a1.json)
-
-[Extended Data](ext_articles/a251e2a1.ext.json)
-
----
-
-### Have you cheated on your bank account?84 million has been cheated with Internet bank transactions
-
-*2024-03-27 16:47:46* · [`adalk`](https://www.ada.lk/breaking_news/ඔබේ-බැංකු-ගිණුමේ-මුදලුත්-වංචා-කර-ඇත්ද--මිලියන-84ක්-අන්තර්ජාල-බැංකු-ගනුදෙනු-වලින්-වංචා-කරලා/11-408831) · `si`
-
-84M stolen via internet bank transactions in Negombo. Assistant Manager involved. Suspect, exceeding 33M, cheated on husband.
-
-🟩
-
-It is observed that the money has been fraud by the Assistant Manager of the Bank branch of the branch branch of the branch branch in Negombo.Police say that the police said.
-
-The suspect is also observed by the suspect, which exceeds 33 million of her husband's husband and Rs.. The police have received information that the suspect had been cheated on this way.
-
-The suspect, the suspect, which had spent Rs.
-
-◼️
-
-[Data](articles/45d099e7.json)
-
-[Extended Data](ext_articles/45d099e7.ext.json)
 
 ---

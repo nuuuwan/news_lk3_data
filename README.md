@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 19:51:56**
+As of **2024-03-28 20:03:04**
 
 ## Newspaper Stats
 
-*Scraped **15,773** Articles*
+*Scraped **15,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 868
 adalk | 1,339
 tamilmirrorlk | 1,892
 adaderanalk | 1,893
-virakesarilk | 2,229
+virakesarilk | 2,231
 dailymirrorlk | 2,434
 adaderanasinhalalk | 2,535
 
@@ -26,29 +26,75 @@ adaderanasinhalalk | 2,535
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,770 (100.0%) of 15,773 articles have been extended.
+15,773 (100.0%) of 15,775 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### ඥානසාර හිමිට ලබාදුන් දඬුවමට එරෙහිව අභියාචනයක්
+### ஈஸ்டர் தாக்குதல் சம்பவம் தொடர்பில் மைத்திரிக்கு நீதிமன்றம் வழங்கிய உத்தரவு
+
+*2024-03-28 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/179933) · `ta`
+
+ஈஸ்டர் தாக்குதல் சம்பவம் தொடர்பில் குற்றப்புலனாய்வு திணைக்களத்திடம் வாக்குமூலம் ஒன்றை முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன வழங்கியிருந்தார்.
+
+அது தொடர்பில் எதிர்வரும் ஏப்ரல் மாதம் 4ஆம் திகதி வாக்குமூலம் வழங்குமாறு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவிற்கு மாளிகாகந்த நீதவான் நீதிமன்றம் வியாழக்கிழமை (28) உத்தரவிட்டுள்ளது.
+
+சட்டமா அதிபரின் பணிப்புரையின் பேரில், குற்றப் புலனாய்வு திணைக்களம் நீதிமன்றத்தில் வியாழக்கிழமை (28) கருத்துக்களை அறிக்கையிட்டதன் பின்னர் இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/2a258d49.json)
+
+---
+
+### Appeal against Gnanasara Thero
 
 *2024-03-28 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195046) · `si`
 
-පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන්ට කොළඹ මහාධිකරණය ලබාදුන් දඬුවමට එරෙහිව අභියාචනයක් ඉදිරිපත් කළ බව රාවණා බලය සංවිධානයේ මහලේකම් පූජ්‍ය ඉත්තෑකන්දේ සද්ධාතිස්ස හිමි පවසති.
+Rev. Galagodaatte Gnanasara Thero was convicted for a 2016 statement, accused by former Governor Azad Sally and the CID. Sentenced to 4 years in prison and fined Rs. 50,000 per charge.
 
-කූරගල විහාරස්ථානය සම්බන්ධයෙන් 2016 වසරේ ප්‍රවෘත්ති සාකච්ඡාවකදී කළ ප්‍රකාශයකින් ආගම් අතර අසමගිය ඇතිවන ආකාරයෙන් කටයුතු කළ බවට පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන්ට චෝදනා එල්ල වී තිබුණි.
+🟩
 
-ඒ, හිටපු ආණ්ඩුකාර අසාද් සාලි සහ හිටපු පාර්ලිමේන්තු මන්ත්‍රී මුජිබර් රහුමාන් යන මහත්වරු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට සහ පොලිස්පතිවරයාට කරන ලද පැමිණිලිවලට අනුව ය.
+Ravana Balaya Organization Secretary General of the Rawana Palace Ven.
 
-ඒ අනුව දණ්ඩ නීති සංග්‍රහයේ 295 වන වගන්තිය යටතේ නීතිපතිවරයා උන්වහන්සේට එරෙහිව චෝදනා 2ක් යටතේ අධිචෝදනා ගොනු කළේය.
+Rev. Galagodaatte Gnanasara Thero was accused of a statement made by a statement in a 2016 briefing in the Kuragala Viharaya.
 
-නඩුව අද (28) කැඳවූ අවස්ථාවේදී ඥානසාර හිමියන් වෙනුවෙන් පෙනී සිටි නීතිඥවරයා සඳහන් කළේ මෙම සිද්ධිය වූ වකවානුවේ රටේ පැවති වාතාවරණය පදනම් කරගෙන උන්වහන්සේ අදාළ ප්‍රකාශය සිදුකළ බවයි.
+It is the former Govern Governor Azad Sally and the complaints made to the CID and the IGP.
+
+Accordingly, the Attorney General filed indictments under Section 295 of the Penal Code.
+
+When the case was taken up today (28), the lawyer appearing on behalf of Gnanasara Thera said that the monk was made based on the atmosphere of the country.
+
+The High Court Judge Adaddan Paranati stated that this questionable statement could not be taken by the accused and that the accused was concluded.
+
+The judge also stated that the defendant monk had taken the responsibility of protecting a religious leader.
+
+Accordingly, the complaints made by the complaint against the defendant bhikkhum have proved beyond a reasonable doubt that Gnanasara Thera was convicted of both charges.
 
 ...
 
 [Data](articles/4494f299.json)
+
+[Extended Data](ext_articles/4494f299.ext.json)
+
+---
+
+### தலைமுடி அடிப்படையிலான பாரபட்சங்களுக்கு தடை: பிரெஞ்சு எம்.பிகள் ஆதரவு
+
+*2024-03-28 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/179932) · `ta`
+
+வேலைத்தளங்களில் ஊழியர்களின் தலைமுடியின் தன்மை, சிகை அலங்காரங்கள் அடிப்படையிலான பாரபட்சங்களுக்கு தடை விதிக்கும் சட்டமூலமொன்றுக்கு ஆதரவாக பிரெஞ்சு பாராளுமன்றத்தின் கீழ் சபை இன்று வாக்களித்தது,
+
+இத்தகைய பாரபட்சங்களால் அதிகமாக கறுப்பினப் பெண்கள் பாதிக்கப்படுகின்றனர் என இச்சட்டத்துக்கு ஆதரவானோர் தெரிவிக்கின்றனர்.
+
+இசச்சட்டத்தின்படி, வேலைத்தளங்களில் தலைமுடியின் தன்மை, நீளம், தலைமுடியின் நிறம், சிகையலங்காரம் ஆகிவற்றின் அடிப்படையில் பாரபட்சம் காட்டுவது குற்றமாகும் என இச்சட்டமூலத்தை முன்வைத்த ஒலிவியர் சேர்வா கூறியுள்ளார்.
+
+பிரெஞ்சு பாராளுமன்றத்தின் கீழ் சபையில் இச்சட்டமூலத்துக்கு ஆதரவாக 44 பேரும் எதிராக இருவரும் வாக்களித்தனர்.
+
+◼️
+
+[Data](articles/212839d5.json)
 
 ---
 
@@ -61,6 +107,8 @@ The Maligakanda Magistrate’s Court today ordered former President Maithripala 
 ◼️
 
 [Data](articles/7922d864.json)
+
+[Extended Data](ext_articles/7922d864.ext.json)
 
 ---
 
@@ -77,6 +125,8 @@ Consequently, contributions to both the President’s Fund and the government sa
 ...
 
 [Data](articles/e0abb71d.json)
+
+[Extended Data](ext_articles/e0abb71d.ext.json)
 
 ---
 
@@ -2257,51 +2307,5 @@ MJ Gunasiri, the chief of the Department of Excise last week, commented to the D
 [Data](articles/4fc2a9f5.json)
 
 [Extended Data](ext_articles/4fc2a9f5.ext.json)
-
----
-
-### Sri Lanka Customs sets up internal affairs unit, detects bribery
-
-*2024-03-28 10:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-sets-up-internal-affairs-unit-detects-bribery-156380/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Department of Customs has set up an internal affairs unit, and two staff members have been detained over a bribery allegations, Additional Director General of Customs Sudatta Silva said.
-
-The two staffers have already been detained following a complaint by person from whom a bribe was demanded, he said.
-
-After a detection is made, the suspects would either face internal disciplinary action taken or in the case of a criminal matter like bribery, referred to the Bribery Commission, Silva told a business forum at the Ceylon Chamber of Commerce.
-
-The International Monetary Fund has flagged the problem and Sri Lanka Customs was taking counter action, he said.
-
-Sri Lanka’s high and multiple import taxes and import bans and regulations were promoting rule-breaking.
-
-Silva said corruption needed two parties and members of the business community should refrain from engaging in wrong practice and they could now complain to the Director General of Customs if a bribe is solicited.
-
-...
-
-[Data](articles/793c0bb3.json)
-
-[Extended Data](ext_articles/793c0bb3.ext.json)
-
----
-
-### Gnanasara Thero 4 years seriously worked in jail
-
-*2024-03-28 10:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195022) · `si`
-
-Gnanasara Thero, a Buddhist monk, was sentenced to 4 years in prison and fined for his role in a case related to national and religious reconciliation, highlighted in 2016.
-
-🟩
-
-The Colombo High Court Judge Adadan Pandasonage to Gnanasara Thera was sentenced to 4 years of serious seriously and a fine of Rs.
-
-The Attorney General was convicted by the Attorney General's case by the Attorney General's case.
-
-At the year 2016, the case was taken up with regard to national and religious reconciliation at a public media briefing in Colombo.
-
-◼️
-
-[Data](articles/c762983f.json)
-
-[Extended Data](ext_articles/c762983f.ext.json)
 
 ---

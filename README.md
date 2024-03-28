@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 15:04:02**
+As of **2024-03-28 15:17:56**
 
 ## Newspaper Stats
 
-*Scraped **15,715** Articles*
+*Scraped **15,721** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,34 +15,106 @@ newsfirstlk | 363
 dailyftlk | 848
 economynextcom | 857
 islandlk | 868
-adalk | 1,336
-adaderanalk | 1,884
-tamilmirrorlk | 1,889
+adalk | 1,337
+adaderanalk | 1,886
+tamilmirrorlk | 1,890
 virakesarilk | 2,223
-dailymirrorlk | 2,423
+dailymirrorlk | 2,425
 adaderanasinhalalk | 2,520
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,713 (100.0%) of 15,715 articles have been extended.
+15,715 (100.0%) of 15,721 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### කොළඹ ගින්නක්
+### கிராண்ட்பாஸ் பகுதியில் தீ பரவல்
+
+*2024-03-28 15:01:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/கிராண்ட்பாஸ்-பகுதியில்-தீ-பரவல்/46-335311) · `ta`
+
+கொழும்பு-14, கிராண்ட்பாஸ் பகுதியில் கட்டடமொன்றில் தீ பரவியுள்ளது. தீயைக் கட்டுப்பாட்டுக்குள் கொண்டுவருவதற்காக தீயணைப்பு வாகனங்கள் ஸ்தலத்துக்கு சென்றுக்கொண்டிருகின்றன.
+
+◼️
+
+[Data](articles/62b9d17a.json)
+
+---
+
+### Big names miss out as Australia announce men’s players to win new contracts
+
+*2024-03-28 14:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Big-names-miss-out-as-Australia-announce-mens-players-to-win-new-contracts/108-279777) · `en`
+
+Mar. 28 (ICC) - A quartet of experienced performers have missed out as Australia announced their list of men’s players to be offered national contracts for 2024-25.
+
+Cricket Australia (CA) released the names of the 23 players that have won new contracts on Thursday, with veteran all-rounder Marcus Stoinis the biggest name to miss out on a new deal.
+
+Stoinis has battled back injuries in recent times, but was part of Australia's winning ICC Men's Cricket World Cup winning squad last year and remains firmly in their selection thoughts for June's ICC Men's T20 World Cup.
+
+Stoinis is joined by fellow all-rounder Ashton Agar, opening batter Marcus Harris, pacer Michael Neser and recently retired star David Warner as players to miss out on fresh contracts, with CA instead opting to provide deals to a handful of new faces.
+
+...
+
+[Data](articles/e66a16bc.json)
+
+---
+
+### Ex-Health Minister Keheliya brought to court
+
+*2024-03-28 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98262/ex-health-minister-keheliya-brought-to-court) · `en`
+
+Former Health Minister Keheliya Rambukwella was brought to the Maligakanda Magistrate’s Court on Thursday afternoon for the proceedings of the case in connection with the substandard human intravenous immunoglobulin (IVIG) vials procurement.
+
+When the former minister was produced before the court on March 14, the magistrate refused to release him on bail and ordered that he be further remanded until the conclusion of the case filed under the provisions of the Public Property Act.
+
+The Criminal Investigation Department (CID) arrested Rambukwella on 02 February over his alleged complicity in the procurement of substandard IVIG vials.
+
+The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
+
+On 29 February, Rambukwella’s attorneys also filed a Fundamental Rights (FR) petition challenging his arrest by the CID and demanding Rs. 100 million in compensation.
+
+◼️
+
+[Data](articles/14d83d9a.json)
+
+---
+
+### Fire in Colombo
 
 *2024-03-28 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195030) · `si`
 
-ග්‍රෑන්ඩ්පාස් පොලිස් වසමේ වේල්ස් කුමාර මාවතේ ටයර් කඩයක ගින්නක් හටගෙන තිබේ.
+A fire at a tire shop in Grandpass Skin Kumara Mawathagama, Colombo, was extinguished by the Colombo Fire Brigade.
 
-ගින්න මැඩපැවැත්වීම සඳහා කොළඹ ගිනි නිවීමේ ඒකකයෙන් මේ වනවිට ගිනි නිවීමේ රථ 5ක් යොදවා ඇත.
+🟩
+
+A fire broke out at a tire shop in the Grandpass Skin Kumara Mawathagama.
+
+Fire lands have already been deployed by the Colombo Fire Brigade to suppress the fire.
 
 ◼️
 
 [Data](articles/f6114cae.json)
+
+[Extended Data](ext_articles/f6114cae.ext.json)
+
+---
+
+### Sri Lanka confident of meeting conditions for IMF funding soon - report
+
+*2024-03-28 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98261/sri-lanka-confident-of-meeting-conditions-for-imf-funding-soon-report) · `en`
+
+(Bloomberg) -- Sri Lanka is hopeful it can resolve debt restructuring issues in the second quarter so it can get financing from the International Monetary Fund because external creditors are all engaging “positively,” according to the South Asian nation’s junior finance minister.
+
+“We are looking forward to a positive outcome” of discussions taking place in London with Sri Lanka’s bondholders, Shehan Semasinghe said Thursday on the sidelines of the Boao Forum in the southern Chinese province of Hainan. “Unlocking access to the tranche is very important to Sri Lanka,” he added.
+
+Semasinghe also said Chinese leader Xi Jinping pledged during “very productive bilateral discussion” this week with Prime Minister Dinesh Gunawardena in Beijing to reinforce links between Sri Lankan authorities and Export Import Bank of China and China Development Bank.
+
+...
+
+[Data](articles/3d1a6f6a.json)
 
 ---
 
@@ -106,15 +178,21 @@ Former Minister Keheliya Rambukwella, who has been interrogated, has been produc
 
 ---
 
-### කෙහෙළියව අධිකරණයට රැගෙන එයි
+### Keheliya takes to court
 
 *2024-03-28 14:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195029) · `si`
 
-රක්ෂිත බන්ධනාගාරගත කර සිටින හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාව අද (28) මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර තිබේ.
+Keheliya Rambukwella, former Minister, is in court today.
+
+🟩
+
+Former Minister Keheliya Rambukwella has been produced before the Maligakanda Magistrate today (28).
 
 ◼️
 
 [Data](articles/84caa6fa.json)
+
+[Extended Data](ext_articles/84caa6fa.ext.json)
 
 ---
 
@@ -224,6 +302,24 @@ Investigations carried out regarding the complaint, the Bribery Commission said 
 
 ---
 
+### දින 7ට පාතාල සාමාජිකයන් 35 ක්  සිසිඩි අත්අඩංගුවේ
+
+*2024-03-28 13:41:32* · [`adalk`](https://www.ada.lk/breaking_news/දින-7ට-පාතාල-සාමාජිකයන්-35-ක්--සිසිඩි-අත්අඩංගුවේ/11-408840) · `si`
+
+පොලිස්පති දේශබන්දු  තෙන්නකෝන් මහතාගේ උපදෙස් මත ක්‍රියාත්මක   සංවිධානාත්මක අපරාධ කල්ලි මැඩලීමේ විශේෂ මෙහෙයුමේදී ප්‍රබල සංවිධානාත්මක අපරාධකරුවන් සිව් දෙනකුගේ සමීපතම සමාජිකයන් 35 කු දින 7 ක් තුළ දි  අත්අඩංගුවට ගත් බව කොළඹ අපරාධ කොට්ඨාසය කියයි.
+
+එම අපරාධකරුවන් සමග තියුණු ආයුධ අත්බෝම්බ සහ මත්ද්‍රව්‍ය  පොලිස් භාරයට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරුවන් සංවිධානාත්මක අපරාධ සහ ප්‍රබල මත්ද්‍රව්‍ය  ජාවාරම්කරුවන් වන කෙසෙල්වත්තේ ධනුක,කංජිපානි ඉම්රාන්,දෙමටගොඩ චමින්ද හා පූකුඩුකන්නාගේ සමීපතම ගෝල බාලයන් වන බව පොලිසිය කියයි
+
+කොළඹ අපරාධ කොට්ඨාසයේ සංවිධානාත්මක අපරාධ විමර්ශන ඒකකයේ වැඩ බලන ස්ථානාධිපති උප පොලිස් පරීක්ෂක ආර් එම් ආර් චතුරංග මහතාගේ ප්‍රධානත්වයෙන් යුත් කණ්ඩායමක් මෙන්ම  තවත් උප පොලිස් පරීක්ෂකවරුන් දෙදෙනෙකුගේ සහ පොලිස් පරීක්ෂකවරුන් දෙදෙනෙකුගෙන් යුත් කණ්ඩායම් හතරක්  විශේෂ කාර්ය බලකායේ නිලධාරීන්ද සමගින් කණ්ඩායම් පහක්  අපරාධ  කල්ලි මැඩලීමේ මෙහෙයුම සඳහා යොදවා ඇතැයි උසස් පොලිස් නිලධාරියෙක් පැවසීය
+
+...
+
+[Data](articles/e6af0c00.json)
+
+---
+
 ### Nearly 100 people still missing after Moscow attack, Russian news site says
 
 *2024-03-28 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98260/nearly-100-people-still-missing-after-moscow-attack-russian-news-site-says) · `en`
@@ -315,6 +411,18 @@ During the visit, FFSL President Jaswar Umar, Head Coach Andy Morrison, and the 
 [Data](articles/854079da.json)
 
 [Extended Data](ext_articles/854079da.ext.json)
+
+---
+
+### Ramadan Shopping Festival
+
+*2024-03-28 12:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ramadan-Shopping-Festival/110-279772) · `en`
+
+The Ramadan and Sinhala New Year Festival was launched today at the Sri Lanka Exhibition & Convention Centre (SLECC), Colombo. It will be held till April 11 from 11 a.m to 11 p.m. The event features a wide range of products, including textiles, footwear, gifts and sweets, at affordable prices. Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/45eea4de.json)
 
 ---
 
@@ -2147,131 +2255,5 @@ The seven-month-long streak in the continuous growth in the credit offered to th
 [Data](articles/b918cfba.json)
 
 [Extended Data](ext_articles/b918cfba.ext.json)
-
----
-
-### What Is Wrong With Sri Lanka?
-
-*2024-03-28 02:56:56* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/what-is-wrong-with-sri-lanka/) · `en`
-
-It is not the country per se, but the politicians and the people who are wrong. While politicians should take 70 percent responsibility, the people also should take the rest or 30 percent. It is true that these wrongs on the part of the politicians or the people are not limited to Sri Lanka. Even in a country like Australia where I now live, there are intermittent corruption, crime, gender abuse, killing, and misguided politics. However, the difference is extremely vast. Sri Lanka’s wrongs are perhaps 50 times higher than a country like Australia.
-
-...
-
-[Data](articles/ba6e2d34.json)
-
-[Extended Data](ext_articles/ba6e2d34.ext.json)
-
----
-
-### Exchange support for Sri Lanka's developments
-
-*2024-03-28 02:55:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-அபிவிருத்திகளுக்கு-ஆதரவு/175-335288) · `ta`
-
-Chinese President Shi Jinping affirmed China's support for Sri Lanka's independence, integrity, and sovereignty, meeting with Prime Minister Dinesh Gunawardena in Beijing. The meeting emphasized friendship, peace, and mutual respect, with no interference in internal affairs.
-
-🟩
-
-Chinese President Shi Jinping has said that China has always been the forerunner of Sri Lanka's independence, integrity and safety of sovereignty.
-
-The Chinese President made this statement when he met Prime Minister Dinesh Gunawardena, who visited China yesterday in Beijing.
-
-The Prime Minister's Media Unit said that the two countries were compliant with the policies of friendship, peace and mutual respect, not interfering with the internal affairs of a country.. (A)
-
-◼️
-
-[Data](articles/9122eb04.json)
-
-[Extended Data](ext_articles/9122eb04.ext.json)
-
----
-
-### Rice, tax cut for onion
-
-*2024-03-28 02:50:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-வெங்காயத்திற்கான-வரி-குறைப்பு/175-335287) · `ta`
-
-The Finance Ministry reduced the special commodity tax on rice to an unspecified amount and on big onions to 10 rupees per kg until April 3024.
-
-🟩
-
-The Finance Ministry has announced that a special commodity tax on rice and big onions will be reduced from today.
-
-Accordingly, the special commodity tax, which was 65 rupees per kilogram of rice, was reduced to Rs.
-
-The Finance Ministry has announced that the tax on the importation of large onions has been reduced to 10 rupees per kg until April 3024.. (A)
-
-◼️
-
-[Data](articles/f7dacbf3.json)
-
-[Extended Data](ext_articles/f7dacbf3.ext.json)
-
----
-
-### Three Indian fishermen33 people released
-
-*2024-03-28 02:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/179858) · `ta`
-
-33 of 36 Indian fishermen arrested in Sri Lankan waters released, with 18 months in prison for 5 years. Two sailors sentenced to six months in prison.
-
-🟩
-
-Of the 36 Indian fishermen arrested by the Navy on two occasions in the Sri Lankan waters, 33 have been released.
-
-The case was taken up for hearing on Wednesday (27) in the presence of Kayts Magistrate J. Gajanidipalan.
-
-The 33 fishermen have been released on condition of 18 months in prison for 5 years.
-
-Meanwhile, Kayts Magistrate J. Gajanidipalan ordered the two sailors to be sentenced to six months in prison for a second time, and for a second time in Sri Lanka.
-
-The magistrate has ordered the government to nationalize because the owner of the third boat was on the boat.
-
-◼️
-
-[Data](articles/a6db9960.json)
-
-[Extended Data](ext_articles/a6db9960.ext.json)
-
----
-
-### Japanese Floating Market Development Program in Japan Investment - Urban Development Authority
-
-*2024-03-28 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179857) · `ta`
-
-A Japanese investor, Akira Hiros, and the Urban Development Authority (UDA) signed a Memorandum to revive the floating market. The project aims to address past management issues and develop it into a Japanese-style tourist city, leased for 30 years. Minister Prasanna Ranatunga advises UDA to use private contributions for economic development.
-
-🟩
-
-A Japanese investor has come forward to carry out a program to revive the floating market. The Preliminary Memorandum of Understanding (Memorandum) was signed by the Urban Development Authority (UDA) Chairman Nimesh Herath and Japanese investor Akira Hiros on Wednesday (27).
-
-Accordingly, the management and activities of the floating market on the outskirts will be carried out through this Japanese investment.. In the past, various allegations have been made against the Urban Development Authority that the floating market complex was not properly managed.
-
-Minister Prasanna Ranatunga, who is in charge of the matter, has now advised the Urban Development Authority to develop the funds under the private contribution to develop it with economic issues in the country.
-
-...
-
-[Data](articles/2f6e8cce.json)
-
-[Extended Data](ext_articles/2f6e8cce.ext.json)
-
----
-
-### Tamil National Political Parties letter to Tamil Nadu Chief Minister to release Robert Paes, Jayakumar and Murugan from a special camp
-
-*2024-03-28 02:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/179856) · `ta`
-
-Tamil political parties appeal to Tamil Nadu CM to release Robert Paes, Jayakumar, and Murugan from a special camp, where they've been detained since November 2022. They were arrested for the assassination of Rajiv Gandhi and have been denied basic amenities. The letter highlights their health issues and requests for release to reunite with families in Tamil Nadu and Sri Lanka.
-
-🟩
-
-Robert Paes, Jayakumar and Murugan have approached the plight of the three Eelam Tamils, spent most of their prison in prison, and in the rest of the last time they were to live with their families to liberate them from the Trichy special camp and register themselves as refugees..The Stalin has jointly appealed by letter.
-
-Members of Parliament who represents Tamil political parties, S. Siritharan, Selvam Adakkalanathan, Charles Nirmalanathan, Gajendrakumar Ponnambalam, Selvarasa Gajendran, Vinnoharathalingam, CV Vigneswaran, Govindan KarunagaramThe letter sent to the Chief Minister of Tamil Nadu has further stated:
-
-...
-
-[Data](articles/169b0583.json)
-
-[Extended Data](ext_articles/169b0583.ext.json)
 
 ---

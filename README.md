@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 16:04:36**
+As of **2024-03-28 16:18:07**
 
 ## Newspaper Stats
 
-*Scraped **15,727** Articles*
+*Scraped **15,730** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 848
 economynextcom | 857
 islandlk | 868
-adalk | 1,337
+adalk | 1,339
 adaderanalk | 1,888
-tamilmirrorlk | 1,890
+tamilmirrorlk | 1,891
 virakesarilk | 2,223
 dailymirrorlk | 2,428
 adaderanasinhalalk | 2,521
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,521
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,723 (100.0%) of 15,727 articles have been extended.
+15,727 (100.0%) of 15,730 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
+
+### ”வரி குறைக்கப்பட்டது இறக்குமதியை அதிகரிக்க அல்ல”
+
+*2024-03-28 16:08:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-குறைக்கப்பட்டது-இறக்குமதியை-அதிகரிக்க-அல்ல/175-335313) · `ta`
+
+அரிசி இறக்குமதியை அனுமதிப்பதற்காக அல்ல, தற்போது சுங்கத்தில் சிக்கியுள்ள அரிசியை அகற்றுவதற்காக அரிசி மீதான விஷேட பொருட்கள் வரி குறைக்கப்பட்டுள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய இன்று தெரிவித்தார்.
+
+சந்தையில் அதிகரித்து வரும் விலை மற்றும் தட்டுப்பாட்டைக் கட்டுப்படுத்த ஜனவரி மாதம் கீரி சம்பா அரிசியின் ஒரு கையிருப்பு இறக்குமதி செய்யப்பட்டதாகவும், இறக்குமதி செய்யப்பட்ட அரிசியின் ஒரு பகுதி கையிருப்பு பெறுவதில் தாமதம் ஏற்பட்டதால் சுங்கத்தில் சிக்கியுள்ளதாகவும் அவர் செய்தியாளர்களிடம் தெரிவித்தார்.
+
+அரிசி மீதான விஷேட பொருட்களுக்கான வரி 65 ரூபாயில் இருந்து 1 ரூபாயாக குறைக்கப்பட்டுள்ளதாக அவர் தெரிவித்துள்ளார். ஒரு வார காலத்திற்கு இறக்குமதியாளர்களுக்கு அந்த அரிசி இருப்பை சுங்கத்திலிருந்து அகற்றுவதற்கு வசதியாக இருக்கும்.
+
+"இந்த நடவடிக்கை புதிய அரிசி கையிருப்புகளை இறக்குமதி செய்ய வழிவகுக்காது, ஏனெனில் குறைப்பு ஒரு வாரத்திற்கு மட்டுமே அமலில் இருக்கும். இறக்குமதியாளர்கள் ஒரு வாரத்திற்குள் சுங்கத்தில் உள்ள அரிசி கையிருப்பை அகற்ற வேண்டும்," என்று அவர் கூறினார்.
+
+◼️
+
+[Data](articles/02c35dc3.json)
+
+---
 
 ### Keheliya Rambukwella further remanded
 
@@ -42,17 +60,41 @@ The nine accused including former Health Minister Keheliya Rambukwella have been
 
 [Data](articles/a2c6155d.json)
 
+[Extended Data](ext_articles/a2c6155d.ext.json)
+
 ---
 
-### කෙහෙළියට ලැබුණු නියෝගය
+### ග්‍රීක බැඳුම්කරවල ආයෝජනය කර කබ්රාල් ඇතුළු පහක් රජයට රු. මිලියන 1843ක් පාඩු කරලා
+
+*2024-03-28 15:49:08* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රීක-බැඳුම්කරවල-ආයෝජනය-කර-කබ්රාල්-ඇතුළු-පහක්-රජයට-රු--මිලියන-1843ක්-පාඩු-කරලා/11-408843) · `si`
+
+ග්‍රීසිය දැඩි ආර්ථික අර්බුදයකට ලක්ව තිබියදි එරට බැඳුම්කර වල ආයෝජනය කිරිමෙන් රජයට රුපියල් මිලියන 1843.2ක මුදලක් පාඩු කළ බවට සඳහන් කරමින් හිටපු මහ බැංකු අධිපති අජිත් නිවාඩ් කබ්රාල් මහතා ඇතුළු පස්දෙනෙකුට අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂම මගින් නඩු පවරා තිබේ.
+
+මෙම බැඳුම්කරවල ආයෝජනය 2012 වසරේදී සිදුකර තිබේ. හිටපු පාර්ලිමේන්තු මන්ත්‍රී සූජීව සේනසිංහ මහතා අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවට කරන ලද පැමිණිල්ලකින් අනතුරුව සිදුකළ විමර්ශනය අනුව මහාධිකරණයෙන් නඩු පැවැරීමට තීරණය කර තිබේ.
+
+අජිත් නිවාඩ් කබ්රාල් මහතාට අමතරව ධර්මසේන ධීරසිංහ, වසන්ත ආනන්ද සිල්වා, චන්ද්‍රසිරි ජයසිංහ හා ඒ. කරුණාරත්න යන පුද්ගලයන්ට එරෙහිව මෙම නඩු පැවැරීම සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/353b139d.json)
+
+---
+
+### Order to the Kehela
 
 *2024-03-28 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195031) · `si`
 
-ව්‍යාජ එන්නත් සිද්ධියට අත්අඩංගුවට ගෙන රිමාන්ඩ් බන්ධනාගාරගතකර සිටි හිටපු අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඇතුළු සැකකරුවන් 9 දෙනා අප්‍රේල් මස 08 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+Kehela orders Keheliya Rambukwella and nine suspects to be remanded until April 8.
+
+🟩
+
+Former Minister Keheliya Rambukwella and the nine suspects were remanded until April 8.
 
 ◼️
 
 [Data](articles/b4a32b2d.json)
+
+[Extended Data](ext_articles/b4a32b2d.ext.json)
 
 ---
 
@@ -71,6 +113,8 @@ He said the special commodity levy on rice was reduced from Rs. 65 to Rs. 1 for 
 ...
 
 [Data](articles/77330561.json)
+
+[Extended Data](ext_articles/77330561.ext.json)
 
 ---
 
@@ -119,6 +163,8 @@ Bodu Bala Sena (BBS) General Secretary Ven. Galaboda Atte Gnanasara Thera was to
 ◼️
 
 [Data](articles/2abbc97e.json)
+
+[Extended Data](ext_articles/2abbc97e.ext.json)
 
 ---
 
@@ -199,6 +245,26 @@ Fire lands have already been deployed by the Colombo Fire Brigade to suppress th
 [Data](articles/f6114cae.json)
 
 [Extended Data](ext_articles/f6114cae.ext.json)
+
+---
+
+### පුද්ගලයකුගේ පෙනහැල්ලෙන් දතක් සොයාගනී
+
+*2024-03-28 14:46:51* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගලයකුගේ-පෙනහැල්ලෙන්-දතක්-සොයාගනී/11-408841) · `si`
+
+නිව්මෝනියාව සහ වකුගඩු රෝගී තත්ත්වයන් පෙළෙමින් සිට මියගිය පුද්ගලයකුගේ සිරුර සම්බන්ධයෙන් බලන්ගොඩ මූලික රෝහලේදී ඊයේ 27දා සිදුකළ පශ්චාත් මරණ පරීක්ෂණයේදී පෙණහැල්ලේ තිබී දතක් හමුවී තිබේ.
+
+මෘතදේහය සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණය බලන්ගොඩ මූලික රෝහලේ අධිකරණ වෛද්‍ය නිලධාරිනි ඩී.චේතිසත්‍යා මෙනෙවිය විසින් සිදුකළ අවස්ථාවේදී එම දත පෙණහැල්ලේ තිබී හමුවූ බව බලන්ගොඩ හදිසි මරණ පරීක්ෂක පත්මේන්ද්‍ර විජේතිලක මහතා පැවසීය.
+
+බලන්ගොඩ වලේබොඩ ප්‍රදේශයේ පදිංචිව අවුරුදු 59 පුද්ගලයකුගේ පශ්චාත් මරණ පරීක්ෂණයේදී මෙලෙස හමුවී තිබුණි.
+
+මොහු අධික ලෙස මත්පැන් පානය කරන්නෙකු බවත් කාලයක් තිස්සේ නිව්මෝනියාව සහ වකුගඩු රෝගී තත්ත්වයන් පෙළෙමින් සිට ඇති බවත් නිව්මෝනියාව උත්සන්න වීම හේතුවෙන් මියගොස් ඇති බවට පශ්චාත් මරණ පරීක්ෂණයේදී අනාවරණය වූ බව විජේතිලක මහතා සඳහන් කළේය.
+
+නමුත් මීට වසර කිහිපයකට පෙර එම දතක් ගැලවී ගොස් පෙණහැල්ලේ සිරවී ඇති බවට සැකකෙරෙන බවත්, තමන්ගේ සිරුර සම්බන්ධයෙන්වත් මොහු සැලකිල්ලක් දක්වා නොමැති බවද පත්මේන්ද්‍ර විජේතිලක මහතා පැවසීය.
+
+◼️
+
+[Data](articles/914f87bf.json)
 
 ---
 
@@ -2165,71 +2231,5 @@ The admission of students which was hundred percent based on district basis has 
 [Data](articles/60836bb4.json)
 
 [Extended Data](ext_articles/60836bb4.ext.json)
-
----
-
-### New ADB Partnership Strategy for Sri Lanka to foster sustainable recovery, build resilience, and revive growth
-
-*2024-03-28 04:11:11* · [`dailyftlk`](https://www.ft.lk/opinion/New-ADB-Partnership-Strategy-for-Sri-Lanka-to-foster-sustainable-recovery-build-resilience-and-revive-growth/14-760053) · `en`
-
-The new CPS will support the country’s efforts to tackle the key underlying causes of the crisis. ADB will focus on reforming public financial management system, strengthening governance, accelerating domestic resource mobilisation, and improving fiscal and debt sustainability, as well as measures to improve the performance of state-owned enterprises
-
-The strategy recognises the critical role of the private sector in the country’s recovery and long-term economic growth. Structural reforms to promote greater private sector participation in the economy and diversify the economy with emphasis on green and sustainable growth will be supported under the new strategy
-
-The Asian Development Bank (ADB) has launched a new country partnership strategy (CPS) for Sri Lanka covering the period 2024–2028. The strategy will focus on restoring the country’s macroeconomic stability, reviving growth, and establishing the foundation for sustainable recovery and
-
-...
-
-[Data](articles/5dd62721.json)
-
-[Extended Data](ext_articles/5dd62721.ext.json)
-
----
-
-### Why the JVP-NPP’s moderate leftist ‘pink paradigm’ deserves a chance
-
-*2024-03-28 03:49:40* · [`dailyftlk`](https://www.ft.lk/columns/Why-the-JVP-NPP-s-moderate-leftist-pink-paradigm-deserves-a-chance/4-760051) · `en`
-
-“A. K. Dissanayake increasingly has the demeanour of a national leader…”Prof. Mick Moore, OBE
-
-‘Why Bharat Matters’, matters. The new book by one of the world’s most outstanding and admired foreign ministers, India’s Dr. S. Jaishankar, makes clear the centrality of Ramayana mythology within ‘Bharat’ as BJP’s India and BJP worldview. Cosmology dominates ideology.
-
-In an ambitious exegetical enterprise, Dr. Jaishankar strives to confer the (non-secular) Ramayana a methodological and intellectual status as a strategic text that is implicitly above Kautilya’s (secular) Arthashasthra, a Realist classic. A tough sell, that.
-
-The prism through which the island of Lanka is ineluctably viewed by Bharat;
-
-The strategic complexities we have to contend with, as Vietnam does, neighbouring China.
-
-...
-
-[Data](articles/586cd416.json)
-
-[Extended Data](ext_articles/586cd416.ext.json)
-
----
-
-### The President's Workshop should take steps to open the closed national galaxy by the end of this year
-
-*2024-03-28 03:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/179861) · `ta`
-
-President Ranil Wickremesinghe urges completion of the closed National Galapavana Complex by year-end, despite ongoing construction. He emphasizes reaching an agreement on Galabhavanam and discussing construction with artists. The government is ready to fund, and Wickremesinghe suggests discussing theater construction with John de Silva.
-
-🟩
-
-President Ranil Wickremesinghe, who has been on a surveillance visit to the closed National Galapavana Complex, which has not been completed for thirteen years, has called for the authorities to take steps to open the national galaxy by the end of this year.
-
-Despite the ongoing construction work in 2011, the work of the art gallery has not yet been completed. The reconstruction of the national galaxy has also been paralyzed.
-
-President Wickremesinghe, who listened to the disagreements between artists and architects in relation to Galabhavanam, emphasized the need to reach a common agreement on it.
-
-The President said that by the end of this year, the President said that by the end of this year. The President also stressed that the government is ready to provide the necessary funds.
-
-The President pointed out that the city of Colombo today is a low -quality movie theaters, and asked if John de Silva could provide theaters at the same time after the construction of the theater.
-
-...
-
-[Data](articles/3cf936b5.json)
-
-[Extended Data](ext_articles/3cf936b5.ext.json)
 
 ---

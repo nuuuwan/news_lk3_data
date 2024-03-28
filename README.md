@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 20:03:04**
+As of **2024-03-28 20:18:02**
 
 ## Newspaper Stats
 
-*Scraped **15,775** Articles*
+*Scraped **15,777** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,74 @@ adalk | 1,339
 tamilmirrorlk | 1,892
 adaderanalk | 1,893
 virakesarilk | 2,231
-dailymirrorlk | 2,434
-adaderanasinhalalk | 2,535
+dailymirrorlk | 2,435
+adaderanasinhalalk | 2,536
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,773 (100.0%) of 15,775 articles have been extended.
+15,775 (100.0%) of 15,777 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### ஈஸ்டர் தாக்குதல் சம்பவம் தொடர்பில் மைத்திரிக்கு நீதிமன்றம் வழங்கிய உத்தரவு
+### කෙහෙළිය කැබිනට්ටුව ඇන්දුවාද? අධිකරණයේදී හෙළිවූ දේ
+
+*2024-03-28 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195047) · `si`
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් සිද්ධියට අදාළව හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 9දෙනා අප්‍රේල් මස 8 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාරගත කිරීමට මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය අද (28) නියෝග කළේය.
+
+මෙහීදී කරුණු දක්වමින් රජයේ නියෝජ්‍ය සොලිසිටර් ජනරාල්වරිය ප්‍රකාශ කළේ ඖෂධ රට තුළ අවශ්‍ය ප්‍රමාණයට පැවතියද තුන්වන ලැයිස්තුවක් ඉදිරිපත් කරමින් කෙහෙළිය රඹුක්වැල්ල අමාත්‍යවරයා ඖෂධ හිඟයක් ඇතැයි කැබිනට් මණ්ඩලය නොමඟ යවා ඇති බවයි.
+
+ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධියට අදාළ නඩුව අද යළි මාලිගාකන්ද මහෙස්ත්‍රාත් අධිකරණය හමුවේ විභාගයට ගැනුණි.
+
+මෙම නඩුවට අදාළව මේ වනවිට රක්ෂිත බන්ධානාගාර ගත කර සිටින හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල ඇතුළු සැකකරුවන් 9දෙනාද එම අවස්ථාවේදි අධිකරණයට ඉදිරිපත් කෙරුණි.
+
+නඩුව ආරම්භයේදි, මෙතෙක් සිදුකරන ලද විමර්ශනවල ප්‍රගතිය හා සාක්ෂි සම්පිණ්ඩන වාර්තාව රජයේ නියෝජ්‍ය සොලිසිටර් ජනරාල් ලක්මිණි ගිරිහාගම මෙනෙවිය විවෘත අධිකරණය හමුවේ ඉදිරිපත් කළාය.
+
+...
+
+[Data](articles/4ff61000.json)
+
+---
+
+### 'We should win': Shakib before joining Tigers ahead of second SL Test
+
+*2024-03-28 20:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/We-should-win-Shakib-before-joining-Tigers-ahead-of-second-SL-Test/108-279788) · `en`
+
+Mar. 28 (thedailystar) - Former Bangladesh skipper Shakib Al Hasan said that he believes the Tigers have the capability to do well and even win their upcoming Test against Sri Lanka.
+
+Bangladesh, led by Najmul Hossain Shanto, suffered a 328-run hammering at the hands of the Lankans in the first of the two-Test series in Sylhet. The Tigers now gear up to face the same opposition in the second Test in Chattogram, starting from March 30.
+
+Shakib, who had been suffering from an eye problem and initially opted out of the Sri Lanka series, expressed his desire to get back in the red-ball format and the Bangladesh Cricket Board (BCB) did not hesitate to add him to the squad for the Chattogram Test.
+
+...
+
+[Data](articles/30eeb3c8.json)
+
+---
+
+### Maithri's court order in connection with the Easter attack incident
 
 *2024-03-28 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/179933) · `ta`
 
-ஈஸ்டர் தாக்குதல் சம்பவம் தொடர்பில் குற்றப்புலனாய்வு திணைக்களத்திடம் வாக்குமூலம் ஒன்றை முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன வழங்கியிருந்தார்.
+Maithripala Sirisena ordered to make a statement on April 4 by the Magistrate's Court, following the CID's directive from the Attorney General, regarding the Easter attack.
 
-அது தொடர்பில் எதிர்வரும் ஏப்ரல் மாதம் 4ஆம் திகதி வாக்குமூலம் வழங்குமாறு முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவிற்கு மாளிகாகந்த நீதவான் நீதிமன்றம் வியாழக்கிழமை (28) உத்தரவிட்டுள்ளது.
+🟩
 
-சட்டமா அதிபரின் பணிப்புரையின் பேரில், குற்றப் புலனாய்வு திணைக்களம் நீதிமன்றத்தில் வியாழக்கிழமை (28) கருத்துக்களை அறிக்கையிட்டதன் பின்னர் இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+Former President Maithripala Sirisena had made a statement to the Criminal Investigation Department regarding the Easter attack.
+
+The Magistrate's Court on Thursday (28) ordered the former President Maithripala Sirisena to make a statement on April 4.
+
+The order was issued after the Criminal Investigation Department (CID) issued a statement on Thursday (28) on the directive of the Attorney General.
 
 ◼️
 
 [Data](articles/2a258d49.json)
+
+[Extended Data](ext_articles/2a258d49.ext.json)
 
 ---
 
@@ -80,21 +122,27 @@ Accordingly, the complaints made by the complaint against the defendant bhikkhum
 
 ---
 
-### தலைமுடி அடிப்படையிலான பாரபட்சங்களுக்கு தடை: பிரெஞ்சு எம்.பிகள் ஆதரவு
+### Hair -based prejudice: French MPs support
 
 *2024-03-28 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/179932) · `ta`
 
-வேலைத்தளங்களில் ஊழியர்களின் தலைமுடியின் தன்மை, சிகை அலங்காரங்கள் அடிப்படையிலான பாரபட்சங்களுக்கு தடை விதிக்கும் சட்டமூலமொன்றுக்கு ஆதரவாக பிரெஞ்சு பாராளுமன்றத்தின் கீழ் சபை இன்று வாக்களித்தது,
+French MPs voted to prohibit workplace hair discrimination, supporting a law that protects against prejudices based on hair, length, color, and hairstyle, with Olivier Serwa highlighting the impact on black women.
 
-இத்தகைய பாரபட்சங்களால் அதிகமாக கறுப்பினப் பெண்கள் பாதிக்கப்படுகின்றனர் என இச்சட்டத்துக்கு ஆதரவானோர் தெரிவிக்கின்றனர்.
+🟩
 
-இசச்சட்டத்தின்படி, வேலைத்தளங்களில் தலைமுடியின் தன்மை, நீளம், தலைமுடியின் நிறம், சிகையலங்காரம் ஆகிவற்றின் அடிப்படையில் பாரபட்சம் காட்டுவது குற்றமாகும் என இச்சட்டமூலத்தை முன்வைத்த ஒலிவியர் சேர்வா கூறியுள்ளார்.
+The House today voted under the French Parliament in favor of a Bill that prohibits discrimination of staff's hair and hairstyles based on hairstyles.
 
-பிரெஞ்சு பாராளுமன்றத்தின் கீழ் சபையில் இச்சட்டமூலத்துக்கு ஆதரவாக 44 பேரும் எதிராக இருவரும் வாக்களித்தனர்.
+Supporters of the law say that black women suffer from such prejudices.
+
+According to the law, Olivier Serwa said that it is a crime to discriminate against the nature of the hair, the length, the color of the hair and the hairdresser in the workplace.
+
+Under the French parliament, the two voted in favor of the law in support of the law.
 
 ◼️
 
 [Data](articles/212839d5.json)
+
+[Extended Data](ext_articles/212839d5.ext.json)
 
 ---
 
@@ -2259,53 +2307,5 @@ It is noteworthy that 60 percent of the world's cocaine drug is produced in Colo
 [Data](articles/a2814c76.json)
 
 [Extended Data](ext_articles/a2814c76.ext.json)
-
----
-
-### Gnanasara Thero sentenced to 4 years RI
-
-*2024-03-28 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98255/gnanasara-thero-sentenced-to-4-years-ri) · `en`
-
-Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thero has been sentenced to four years of rigorous imprisonment for the defamatory comments made against Islam in late 2016.
-
-The verdict was delivered by Colombo High Court Judge Aditya Patabendige on Thursday (March 28) while imposing a fine of Rs. 100,000 on the monk.
-
-Gnanasara Thero is accused of making defamatory comments against Islam during a 2016 media briefing convened on the Kuragala Buddhist monastery, causing damage to national and religious harmony.
-
-The judge found the monk guilty of the two indictments filed by the Attorney General under the Penal Code. Accordingly, the accused was sentenced to two years of rigorous imprisonment for each indictment and was imposed two fines of Rs. 50,000 each. He also ordered that the two sentences be served separately.
-
-Gnanasara Thero’s prison sentence will be extended by two more years in the event of his failure to pay the fine.
-
-...
-
-[Data](articles/7d233ef9.json)
-
-[Extended Data](ext_articles/7d233ef9.ext.json)
-
----
-
-### A reduction in liquor prices ahead of the New Year?
-
-*2024-03-28 10:35:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தாண்டை-முன்னிட்டு-மதுபான-விலைகள்-குறைப்பு/175-335294) · `ta`
-
-The Department of Excise denies rumors of liquor price reductions for New Year. No directive from the finance ministry to lower excise tax on liquor has been received, so prices will remain unchanged.
-
-🟩
-
-The Department of Excise today said that there is no truth in the rumors that the prices of liquor will be reduced ahead of the upcoming Sinhala and Tamil New Year.
-
-The media spokesman Sanna Weerakkody said that there are reports in the media that the maximum liquor prices imposed on liquor will be reduced to reduce the prices of liquor.
-
-The Excise Department has not received any directive or instruction from its qualified finance ministry to revise the excise tax on liquor, so the price of liquor will not be reduced.
-
-Therefore, news about the reduction in the price of liquor is false and baseless, he said.
-
-MJ Gunasiri, the chief of the Department of Excise last week, commented to the Daily Mirror, "The use of liquor in the country has been reduced significantly.. He said the department has been given a new annual target of Rs 232 billion by the end of this year.
-
-...
-
-[Data](articles/4fc2a9f5.json)
-
-[Extended Data](ext_articles/4fc2a9f5.ext.json)
 
 ---

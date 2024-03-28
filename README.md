@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 22:33:28**
+As of **2024-03-28 22:51:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,541
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,788 (100.0%) of 15,791 articles have been extended.
+15,791 (100.0%) of 15,791 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Sri Lanka defaulted on its foreign debt in May 2022 as the economy sank into its
 ...
 
 [Data](articles/e3baf2e6.json)
+
+[Extended Data](ext_articles/e3baf2e6.ext.json)
 
 ---
 
@@ -68,31 +70,41 @@ Despite "protestations of sorrow" about customer losses, Judge Kaplan said, Bank
 
 [Data](articles/03a05a09.json)
 
+[Extended Data](ext_articles/03a05a09.ext.json)
+
 ---
 
-### මා ඔයේ සැඟවුණු දරුවන්ගේ දේහයන් නිවෙස්වලට
+### The bodies of the hidden children of the Oya to homes
 
 *2024-03-28 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195052) · `si`
 
-මා ඔයේ දියනෑමට ගොස් ඊයේ (27) දියේ ගිලී ජීවිතක්ෂයට පත්වූ පාසල් සිසුන් සිව්දෙනාගේ මෘත දේහ සම්බන්ධ පශ්චාත් මරණ පරීක්ෂණ අද (28) සිදුකර තිබූ අතර එම දේහයන් නිවෙස් වෙත රැගෙනවිත් තිබුණි.
+Four school children drowned in Polgahawela; post-mortem at Polgahawela Hospital. Accident occurred during bathing at a friend's house. Victims: eldest son of a Ulawwa Lastuwa family, eldest son of a Vidasi Devmini family, and two others from Polgahawela.
 
-පාසල නිමවී සිසුන් 11 දෙනෙක් මිතුරෙකුගේ නිවසකට ගොස් පසුව දිය නෑමට ගිය අවස්ථාවේදී ඔවුන් මෙම අනතුරට මුහුණ පා තිබුණි.
+🟩
 
-අනතුරට මුහුණ පා ඇත්තේ පොල්ගහවෙළ ශාන්ත බර්නාදෙත් විද්‍යාලයේ 9 වැනි ශ්‍රේණියේ දරුවන් පිරිසකි.
+The post mortem examination of the remains of the four school children who were drowned yesterday (28) had been brought to the homes.
 
-අනතුරින් මිය ගිය අලව්ව පහළ වලකුඹුර ප්‍රදේශයේ පදිංචි 14 හැවිරිදි වියේ පසුවූ  කලණ ලක්ෂිත අමරසිංහ දරුවන් දෙදෙනෙකුගෙන් යුත් පවුලේ වැඩිමල් දරුවා වන අතර ඔහුට බාල නැගණියක් සිටී.
+They had the accident when 11 students went to a friend's house and was bathing.
 
-ඔහු 15න් පහළ පාසල් ක්‍රිකට් කණ්ඩායමේ නායකයා ලෙසද කටයුතු කර තිබුණි.
+The accident is a 9th grade group of St. Bernatth College of Polgahawela.
 
-අනතුරින් මියගිය එම ප්‍රදේශයේම පදිංචි 14 හැවිරිදි විදස් දෙවිමිණත් පවුලේ වැඩිමල් දරුවා වන අතර ඔහුට බාල සොහොයුරෙක් සිටි.
+The eldest is the eldest child of two children, a resident of the Ulawwa Lastuwa, the dead in Parakumbura Walakumbura, and he has a younger child.
 
-කවීන් තෙනුර පොල්ගහවෙල මැද්දලන්ද ප්‍රදේශයේ පදිංචිකරුවෙක් වන අතර ඔහුත් දරුවන් දෙදෙනෙකුගෙන් යුත් පවුලේ වැඩිමල් දරුවාය.
+He was also the leader of the Under-15 school cricket team.
 
-පොල්ගහවෙල පිදිවිල්ල තලවත්තේගෙදර පදිංචි රවිදු රන්මිණ පිරිමි දරුවන් දෙදෙනෙකුගෙන් යුත් පවුලේ දෙවැනි දරුවාය.
+The eldest child of Vidasi Devmini, a resident of the area, is the eldest of the family.
 
-...
+Canene is a resident of Maddigahawela area in Thinura, and he is the eldest child of the family of two children.
+
+Polgahawela Padwilla Ranagilla, a resident of Talawattegedara in Talawatte, the second child of two boys of two cases of two children.
+
+The post mortem examination on the dead students were held at the Polgahawela Hospital this afternoon.
+
+◼️
 
 [Data](articles/ba8b54b3.json)
+
+[Extended Data](ext_articles/ba8b54b3.ext.json)
 
 ---
 

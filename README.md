@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 17:35:25**
+As of **2024-03-28 17:53:58**
 
 ## Newspaper Stats
 
-*Scraped **15,743** Articles*
+*Scraped **15,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,85 @@ adaderanalk | 1,890
 tamilmirrorlk | 1,891
 virakesarilk | 2,227
 dailymirrorlk | 2,429
-adaderanasinhalalk | 2,526
+adaderanasinhalalk | 2,528
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,742 (100.0%) of 15,743 articles have been extended.
+15,743 (100.0%) of 15,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### එන්නත් දුන් පාසල් සිසුන් පිරිසක් රෝහල්ගතකරයි
+### චීනයෙන් හම්බන්තොට ට ඉන්ධන පිරිපහදුවක්
+
+*2024-03-28 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195038) · `si`
+
+චීනයේ සයිනොපෙක් සමාගම විසින් මෙරට ඉදිකිරීමට නියමිත ඉන්ධන පිරිපහදුවේ ඉදිකිරීම් කටයුතු කඩිනමින් ආරම්භ කිරීමට කැමැත්ත ප්‍රකාශ කර තිබේ.
+
+සයිනොපෙක් සමාගමේ නියෝජිතයින් පිරිසක් තමාට ඒ බව දැන්වූ බව විදුලි බල හා බලශක්ති අමාත්‍ය කාංචන විජේසේකර මහතා X පණිවුඩයක් නිකුත් කරමින් පැවසීය.
+
+නව පිරිපහදුව හම්බන්තොට ස්ථාපනය කිරීමට නියමිත අතර ඊට අදාළ එකඟතා ගිවිසුම් කඩිනමින් අත්සන් කිරීමට සයිනොපෙක් සමාගම එකඟ වී තිබුණි.
+
+එම ව්‍යාපෘතිය සඳහා ආයෝජනය වැඩි කිරීමටත් පිරිපහදුවේ ධාරිතාවය වැඩි කිරීමටත් එකඟ වී ඇති අතර ව්‍යාපෘතිය ජූනි මාසයේදී ආරම්භ කිරීමට නියමිතය.
+
+එම ව්‍යාපෘතිය සඳහා පසුගිය නොවැම්බර් මාසයේදී කැබිනට් අනුමැතිය හිමිවූ අතර එහි ආයෝජනය සඳහන් වූයේ ඩොලර් බිලියන 4.5ක් ලෙසට ය.
+
+◼️
+
+[Data](articles/ce989685.json)
+
+---
+
+### ඩොලර් ට්‍රිලියන 3ක ආදායම් උපයන ජාවාරම් කල්ලිය
+
+*2024-03-28 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195037) · `si`
+
+අග්නිදිග ආසියානු කලාපය මිනිස් ජාවාරම සහ සයිබර් අපරාධ සම්බන්ධ සංවිධානාත්මක අපරාධ සම්බන්ධයෙන් කුප්‍රකට කලාපයකි.
+
+පසුගිය සමයේ අවස්ථා කිහිපයකදී මියන්මාරය, කාම්බෝජය වැනි රටවලින් මෙවැනි සයිබර් අපරාධ කල්ලි සහ ජාල සම්බන්ධ පුවත් රැසක් ද වාර්තා වී තිබුණි.
+
+විචාරකයින්ට අනුව අග්නිදිග ආසියානු කලාපය තුළ මෙම ජාවාරම වඩාත් ව්‍යාප්ත වී ඇත්තේ කොවිඩ් වසංගත කාලය තුළදී ය.
+
+ඒ මාර්ගගත ක්‍රමවේද සඳහාජනතාව වඩාත් නැඹුරුවීම සහ කොවිඩ් කාලය තුළ මිනිසුන් ඒවාට හුරුවීම හේතුවෙනි.
+
+අග්නිදිග ආසියාවට පමණක් අනන්‍ය වූ මෙම ජාවාරම දැන් ගෝලීය වශයෙන් ව්‍යාප්ත වෙමින් පවතින බව ජාත්‍යන්තර පොලීසිය අනාවරණ කර තිබේ.
+
+ඒ අනුව දැනටමත් මෙම සංවිධානාත්මක අපරාධ ජාලය වාර්ෂිකව අමෙරිකානු ඩොලර් ට්‍රිලියන 3ක ආදායමක් උපයන ව්‍යාපාරයක් වී ඇති බව ජාත්‍යන්තර පොලීසිය පවසයි.
+
+මෙම ජාවාරම සඳහා විශාල වශයෙන් පිරිස් එක්වෙමින් සිටින බවත් එම ජාවාරම්වලට දැනටමත් මිලියන සංඛ්‍යාත පිරිසක් රැවටී ඇති බවත් ජාත්‍යන්තර පොලීසිය පවසා ඇත.
+
+මෑතකදී බිහිවූ මෙම නව අපරාධ මේ වන විට ලොව රටවල් රැසකට හිසරදයක් ව පවතී.
+
+...
+
+[Data](articles/07f4ddf8.json)
+
+---
+
+### A group of people injected schools hospitalized
 
 *2024-03-28 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195036) · `si`
 
-එන්නතක් ලබාදීමෙන් පසුව ඇති වූ බව කියන රෝගී තත්ත්වයක් හේතුවෙන් කළුතර ප්‍රදේශයේ පාසලක සිසුන් පිරිසක් රෝහල්ගතකර ඇත.
+In Kalutara, 10 students aged 12-13 were hospitalized after a vaccine caused fainting and respiratory discomfort.
 
-නාගොඩ රෝහල් ආරංචි මාර්ග සඳහන් කරන්නේ සිසුන් 10 දෙනෙකු මෙලෙස රෝහල්ගතකර ඇති බවය.
+🟩
 
-වයස අවුරුදු 12 සහ 13 හැවිරිදි වියේ පසුවන පාසල් සිසුන් පිරිසක් මෙලෙස රෝහල්ගතකර ඇති බව එම ආරංචි මාර්ග වැඩිදුරටත් සඳහන් කරයි.
+A group of students of a school in Kalutara area have been hospitalized due to a serious illness that occurred after a vaccine.
 
-මෙලෙස රෝහල්ගතකර ඇති සිසුන් ක්ලාන්ත ගතියක් සහ ශ්වසන අපහසුතා වැනි ලක්ෂණ පෙන්නුම් කරන බවටද වාර්තා වී තිබේ.
+Roads sources said that 10 students have been hospitalized.
+
+According to the sources, a group of students aged 12 and 13 years old, have been hospitalized.
+
+It has been reported that students hospitalized are a fainting and respiratory discomfort.
 
 ◼️
 
 [Data](articles/ac6be30c.json)
+
+[Extended Data](ext_articles/ac6be30c.ext.json)
 
 ---
 
@@ -2261,61 +2313,5 @@ The Grandpass was reported from the Grandpass area to attack and kill a person.
 [Data](articles/997f6de6.json)
 
 [Extended Data](ext_articles/997f6de6.ext.json)
-
----
-
-### Gnanasara Thero sentenced to four years in prison with serious work
-
-*2024-03-28 06:18:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd1vp024y22o) · `si`
-
-Gnanasara Thero, sentenced to 4 years in prison for making a statement under Section 295 of the Penal Code, was also fined Rs. 500,000. The case was filed by former MP Mujibar Rahman and Azad Salley.
-
-🟩
-
-The Colombo High Court today (28th March), the Colombo High Court today (28th March) has been sentenced to a 4 year-long-up-to-day sentenced to death
-
-The Attorney General was submitted under Section 295 of the Penal Code against Gnanasara Thera.
-
-The High Court Judge Adadi Paneendi's punishment should be paid separately separately.
-
-Gnanasara Thero will be sentenced to four years of prison sentences.
-
-In addition, the judge also was sentenced to Rs. 500,000 to each charge.
-
-The order was stated in two years of prison in addition to the default payment of the fine.
-
-At a press conference on March 30, 2016, the Attorney General was filed by the Attorney General with a statement made by a statement in the Kuragala Viharaya.
-
-The lawyer who appeared before the punishment before the punishment was stated that the Gnanasara Thera made the statement based on the atmosphere of the country.
-
-...
-
-[Data](articles/ddbe04b9.json)
-
-[Extended Data](ext_articles/ddbe04b9.ext.json)
-
----
-
-### Heavy rains after today
-
-*2024-03-28 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195011) · `si`
-
-Heavy rains and thundershowers expected in Western, Southern, Sabaragamuwa, Central, Uva, and Northwestern provinces. High winds and lightning risks.
-
-🟩
-
-Showers or thundershowers will develop at several places in the Western, Southern, Sabaragamuwa, Central, Uva and Northwestern provinces.
-
-Some places in the Western, Southern and Sabaragamuwa provinces. Mee. Heavy rains can also occur in more than 75.
-
-In some places in the Galle, Sabaragamuwa, Uva and Western provinces, are expected to be methaved in the Galle and Matara districts.
-
-The public is kindly requested to take steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/e730c844.json)
-
-[Extended Data](ext_articles/e730c844.ext.json)
 
 ---

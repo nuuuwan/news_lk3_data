@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 06:17:05**
+As of **2024-03-28 06:54:12**
 
 ## Newspaper Stats
 
-*Scraped **15,613** Articles*
+*Scraped **15,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,19 +14,19 @@ dbsjeyarajcom | 193
 newsfirstlk | 363
 dailyftlk | 847
 economynextcom | 849
-islandlk | 854
+islandlk | 867
 adalk | 1,333
 adaderanalk | 1,871
 tamilmirrorlk | 1,873
 virakesarilk | 2,213
-dailymirrorlk | 2,407
+dailymirrorlk | 2,408
 adaderanasinhalalk | 2,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,613 (100.0%) of 15,613 articles have been extended.
+15,613 (99.9%) of 15,627 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -700,6 +700,58 @@ The Regulatory Act on Election Costs is currently permitted. The authority to im
 
 ---
 
+### Has evolution found ways to prevent cancer and halt progression to old age?
+
+*2024-03-27 22:56:00* · [`islandlk`](http://island.lk/has-evolution-found-ways-to-prevent-cancer-and-halt-progression-to-old-age/) · `en`
+
+The high incidence of cancer alarms us. Around six percent of the human population worldwide suffers from cancer. It is the most challenging health issue to resolve and the leading cause of death, only second to cardiovascular disease. More than 10 million people die of cancer every year. In some regions, cancer deaths exceed heart disease mortality because of the availability of more successful preventive and curative measures for the latter.
+
+With all these fears, the relief and the promise are cancers occur less frequently than expected. Many live beyond 100 years without contracting cancer but die because of other natural causes. Animals also get cancer, but there are species exceptionally resistant to it. And evolution has found solutions to suppress malignancy. Following them would be a hopeful avenue to prevent and cure this dreadful malady.
+
+...
+
+[Data](articles/e09a9940.json)
+
+---
+
+### Tropical Hydration Smoothie
+
+*2024-03-27 22:52:00* · [`islandlk`](http://island.lk/tropical-hydration-smoothie/) · `en`
+
+Phew! The heat! Yes, that’s what everyone keeps saying these days. And the heat is awful, indeed.
+
+With the heat situation hardly showing signs of improving, I thought of giving my readers something different this week.
+
+Now place the pineapple chunks, mango chunks, banana, and coconut water in a blender. (If you are using spinach, add the handful of spinach as that would give an extra nutritional boost.)
+
+Blend all ingredients, on high speed, until you achieve a smooth consistency. If the smoothie is too thick, you can add more coconut water to reach your desired thickness.
+
+This smoothie is excellent for keeping your body hydrated, especially during this hot weather. Coconut water is rich in electrolytes, which help maintain hydration levels.
+
+Pineapple and mango are both rich sources of Vitamin C. Vitamin C is essential for collagen production, which is crucial for maintaining skin elasticity and promoting skin repair.
+
+...
+
+[Data](articles/f8eaf170.json)
+
+---
+
+### Powering the Future: Innovations driving the Electric Vehicle revolution
+
+*2024-03-27 22:23:00* · [`islandlk`](http://island.lk/powering-the-future-innovations-driving-the-electric-vehicle-revolution/) · `en`
+
+New Energy Vehicles (NEV) are no longer a futuristic vision; they’re rapidly transforming the automotive landscape. This shift wouldn’t be possible without ground-breaking innovations that have addressed key challenges and made NEVs more efficient, safer, and sustainable. Leading the charge in these advancements is BYD, a company proving that electric mobility is not just feasible but the future.
+
+Lithium Iron Phosphate (LFP) Batteries: A Safer, Longer-Lasting Power Source
+
+One of the biggest hurdles EVs faced was battery technology. Traditional Lithium-ion (Li-ion) batteries, while effective, carried concerns about potential thermal runaway (overheating). BYD emerged as a pioneer in LFP batteries, a Li-ion variant offering several advantages. LFP batteries boast superior thermal and chemical stability, significantly reducing the risk of fire. Additionally, they offer a longer lifespan and better tolerance for extreme temperatures, making them ideal for diverse climates.
+
+...
+
+[Data](articles/ff097722.json)
+
+---
+
 ### Dhananjaya, who advanced in the ranking by scoring 2 centuries in the Silhead Test
 
 *2024-03-27 22:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179848) · `ta`
@@ -730,6 +782,44 @@ Kasun Rajitha and Vishwa Fernando have also improved significantly in the Test b
 
 ---
 
+### EY GDS Sri Lanka celebrates two years of growth and success
+
+*2024-03-27 22:21:00* · [`islandlk`](http://island.lk/ey-gds-sri-lanka-celebrates-two-years-of-growth-and-success/) · `en`
+
+Unveiling expansion strategies and continued commitment to cultivating local talent
+
+EY Global Delivery Services (GDS) proudly celebrates its second successful year in Sri Lanka. EY GDS is a globally integrated and dynamic network of over 75,000 professionals across 10 countries dedicated to providing innovative business solutions to EY member firms to support EY clients worldwide.
+
+Related Topics:EY GDS Sri LankaEY GDS Sri Lanka celebrates two years of growth and success
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/03e4d084.json)
+
+---
+
+### Gulf Air Sri Lanka felicitates its outstanding Passenger and Cargo agents
+
+*2024-03-27 22:19:00* · [`islandlk`](http://island.lk/gulf-air-sri-lanka-felicitates-its-outstanding-passenger-and-cargo-agents/) · `en`
+
+Gulf Air recently hosted an awards night to recognize their top-performing passenger and cargo agents in Sri Lanka for their continuous support that ensured its success in 2023.
+
+The awards ceremony, held at the Spice Room, Shangri-la, Colombo on March 1st, was graced by the presence of the Sri Lanka team along with the Country Manager, Senior Sales Manager Rashid Abdulrahman AlGaoud from Head office, and the dedicated Passenger and Cargo teams who presented the well-deserved awards to the local agents.
+
+The event’s highlight was celebrating the longstanding partnership with top agents from the passenger and cargo sector.
+
+The top performing Passenger agents in order of highest achievement were presented to Inqbaytor Group (Pvt) Ltd, 2nd Chance (Pvt) Ltd, and Classic Travel (Pvt) Ltd.
+
+...
+
+[Data](articles/49548cdc.json)
+
+---
+
 ### Abans PLC clarifies: Local McDonald’s franchisee not under its umbrella
 
 *2024-03-27 22:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Abans-PLC-clarifies-Local-McDonalds-franchisee-not-under-its-umbrella/108-279746) · `en`
@@ -747,6 +837,38 @@ The majority shareholder of the said company is Rusi Pestonjee who owns a 98.73%
 [Data](articles/472eb7f7.json)
 
 [Extended Data](ext_articles/472eb7f7.ext.json)
+
+---
+
+### Abans PLC clarifies: Local McDonald’s franchisee not under its umbrella
+
+*2024-03-27 22:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Abans-PLC-clarifies-Local-McDonalds-franchisee-not-under-its-umbrella/155-279746) · `en`
+
+In an attempt to set the record straight, Abans PLC today said the local franchisee of the US fast food giant McDonald’s is not a part of its umbrella.
+
+In a filing to the Colombo Stock Exchange (CSE) today, Abans PLC pointed out that the local franchisee of McDonald’s is International Restaurant Systems (Private) Limited incorporated under the Companies Act No.7 of 2007.
+
+The majority shareholder of the said company is Rusi Pestonjee who owns a 98.73% stake in that company, and who is also the Managing Director of Abans PLC.
+
+“International Restaurant Systems (Private) Limited is not a subsidiary nor an associate of Abans PLC or its parent company Abans Retail Holdings (Private) Limited. Due to the said reason, the financials of International Restaurant Systems (Private) Limited are not consolidated with the financials of Abans PLC,” Abans PLC clarified.
+
+...
+
+[Data](articles/fd7294f0.json)
+
+---
+
+### Happy trends continue to buoy bourse
+
+*2024-03-27 22:16:00* · [`islandlk`](http://island.lk/happy-trends-continue-to-buoy-bourse/) · `en`
+
+Stock market activities yesterday were satisfactory in the wake of Tuesday’s CBSL decisions on interest rates. Both indices moved upwards. The All Share Price Index went up by 95.38 points while S and P SL 20 rose by 39.44 points.
+
+Amid those developments the turnover stood at Rs 1.8 billion with two crossings. Those crossings were reported in Gall Face Capital Partners where 3.9 million shares crossed to the tune of Rs 111 million; its shares traded at Rs. 28 and JKH 285,000 shares crossed for Rs 54.5 million; its shares sold at Rs 191.
+
+...
+
+[Data](articles/887692cd.json)
 
 ---
 
@@ -2087,163 +2209,5 @@ The general public is further requested to avoid using wired telephones and conn
 [Data](articles/19a204a4.json)
 
 [Extended Data](ext_articles/19a204a4.ext.json)
-
----
-
-### Lock for 150 spa stations
-
-*2024-03-27 15:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/150-ஸ்பா-நிலையங்களுக்கு-பூட்டு/175-335267) · `ta`
-
-150 spa stations in Negombo closed, 137 women arrested. Two women, posing as spa workers, were reported for adultery during a police raid.
-
-🟩
-
-Over 150 spa stations in Negombo were closed and 137 women were arrested.
-
-Police said that two women who were working in adulterers who were working in adulterers who were working in adulterers in the guise of a spa station during a sudden raid in the area were reported in a medical examination.
-
-◼️
-
-[Data](articles/c6c30c2b.json)
-
-[Extended Data](ext_articles/c6c30c2b.ext.json)
-
----
-
-### Easter Sunday attacks: Writ petition against Nilantha Jayawardane fixed for support
-
-*2024-03-27 15:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Easter-Sunday-attacks-Writ-petition-against-Nilantha-Jayawardane-fixed-for-support/108-279725) · `en`
-
-Colombo, March 27 (Daily Mirror)- A writ petition filed seeking an order to conduct a credible investigation and take appropriate actions against Senior DIG Nilantha Jayawardane for his omission and serious dereliction of duty which led to the Easter Sunday attacks, was today fixed for support by the Court of Appeal.
-
-The Court was informed that two other petitions of a similar nature have been filed before the Court of Appeal. The Court of Appeal two-judge-bench comprising Justices Sobhitha Rajakaruna and Dhammika Ganepola fixed the petition for support on May 28.
-
-The Centre for Society and Religion had filed this writ petition before the Court of Appeal seeking an order to conduct a credible investigation and take appropriate actions against Senior DIG Nilantha Jayawardane for his omission and serious dereliction of duty which led to the Easter Sunday bombing in 2019.
-
-...
-
-[Data](articles/ecc495d5.json)
-
-[Extended Data](ext_articles/ecc495d5.ext.json)
-
----
-
-### Unident dead body of a young man of the lame
-
-*2024-03-27 15:45:48* · [`adalk`](https://www.ada.lk/breaking_news/දැල්කඩ-කැපූ-ඇලේ-තරුණයෙකුගේ-නාඳුනන-මළ-සිරුරක්/11-408830) · `si`
-
-A 25-30 year old man's body was found floating in the Bolgoda River near the Bandaragama Kalutara Bridge. Police found a motorcycle linked to him, which he sold five years ago. The deceased's ID, insurance, and temporary driving license all had different names, with addresses in Moratuwa and Bandaragama.
-
-🟩
-
-Moratuwa police say that the body of a dead body was floating at the Bolgoda River on the Bolgoda River on the Bolgoda River on the Bandaragama Kalutara Bridge.
-
-The deceased is a man of age of 25-30 years of age. Police have also taken a motorcycle that could think of that person and were taken into police custody.
-
-Police have revealed that the motorcycle was found to be a man of the Moratuwa and said that the man was proved to sell the motorbake five years ago.
-
-Police say that the person is also a person in Moratuwa area
-
-The police said to visit the police today (27) and gave a statement
-
-Police say that the revenue license in the purse of the deceased has received one name and one name in the insurance certificate and another name in the temporary driving force.. Moratuwa and Bandaragama addresses stated
-
-...
-
-[Data](articles/f84193b7.json)
-
-[Extended Data](ext_articles/f84193b7.ext.json)
-
----
-
-### Review of Sri Lanka noise pollution regulations given to Justice Minister
-
-*2024-03-27 15:45:00* · [`economynextcom`](https://economynext.com/review-of-sri-lanka-noise-pollution-regulations-given-to-justice-minister-156308/) · `en`
-
-ECONOMYNEXT – A review of existing laws and regulations on noise pollution in Sri Lanka has been conducted and a report was handed over to the Minister of Justice.
-
-“The expert committee has prepared the relevant report by studying the laws and regulations related to noise pollution around the world,” a statement by the Department of Government Information said.
-
-The report of the committee appointed to review the existing laws was handed over by its Chairman, Supreme Court Justice Mahinda Samayawardena to the Minister of Justice, Prison Affairs and Constitutional Reforms, Wijeyadasa Rajapakshe at the Ministry.
-
-The team comprised officials from the office of the Solicitor General, Ministry of Justice, Prison Affairs and Constitutional Reform, Ministry of Environment, Central Environment Authority, Police, and lawyers.
-
-...
-
-[Data](articles/e207ab9a.json)
-
-[Extended Data](ext_articles/e207ab9a.ext.json)
-
----
-
-### Sundar C's released in April 'Palace 4'
-
-*2024-03-27 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179838) · `ta`
-
-"Sundar C's 'Palace 4' released in April, setting a record as the first Tamil film with four parts. Fans eagerly await the next part of the successful 'Palace' series. 'Palace 4' features a mix of comedy, horror, and thriller, produced by Benz Media Private Limited and presented by Avni Cine Max Private Limited. The film's release has sparked excitement among fans, who are eager for the next installment."
-
-🟩
-
-When will the next part of the winning Tamil films release?Is the question of the fans.
-
-Three parts of the films that have been successful in Tamil have been continuously ready and have been released in the film mansion.. 'Palace', a comedy horror thriller Janer, was released in three parts by fans.
-
-Currently the fourth part is ready. 'Palace 4' has set the record for the first film to be released in the fourth part of the Tamil film industry.
-
-Director and actor Sundar. Sundar in the movie 'Palace 4'. C, Tamanna, Rasi Kanna, Santosh Pratap, Ramachandra Raju, Kovai Sarala, Yogi Babu, VTV Ganesh Delhi Ganesh, Motta Rajendran, Lion Tiger. E.. Krishnaswamy has composed the film Hip Hope Adi Tamil. The film is being produced by Benz Media Private Limited on behalf of Benz Media Pvt.. The film is being presented by actress Khushboo on behalf of Avni Cine Max Private Limited.
-
-...
-
-[Data](articles/5915aa63.json)
-
-[Extended Data](ext_articles/5915aa63.ext.json)
-
----
-
-### Grandfather who designed differently to the student
-
-*2024-03-27 15:33:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவிக்கு-வித்தியாசமாக-வடிவமைத்த-தாத்தா/175-335266) · `ta`
-
-A 23-year-old fashion design student was sexually harassed by an 80-year-old man at Pathika Industries. She escaped and reported to her boyfriend. Investigations revealed she had visited the factory multiple times for information. The man, the factory owner, asked for food, which she provided. He then touched her, and she fled, reporting to the police.
-
-🟩
-
-The university student (age 23), who graduates in fashion design, was on a man 80 -year -old when she went to the Pathika Industries to practice her own training.. At the time, there was an incident where the elderly man tried to sexually harass her.
-
-Piliyandala police said that the woman, who did not get caught in the old man's grip, had fled from there and lodged a complaint with her boyfriend.
-
-Investigations have been found that the woman has gone to the column industry several times to obtain information and has returned to information.
-
-The young girl, when the incident went to the scene, took the daytime food and ate behind the factory.. The 80 -year -old man, the owner of the factory who arrived at the site, asked, "Daughter, feed me a meal.". The woman from the distant area has fed a rice without any hesitation.
-
-...
-
-[Data](articles/7a7a7f31.json)
-
-[Extended Data](ext_articles/7a7a7f31.ext.json)
-
----
-
-### The protest is in front of the Keppapilavu Army Force Headquarters
-
-*2024-03-27 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179835) · `ta`
-
-Villagers in Keppapilavu protested for land release, but military was absent. Army Commander visited but did not address the issue. Lands, including homes, schools, and temples, remain under military control. Despite efforts, no decision on land release.
-
-🟩
-
-The villagers launched a protest protest in front of the Keppapilavu Army forces headquarters on Wednesday (27) demanding the release of their own lands in Keppapila in Mullaitivu.
-
-Sri Lanka's Army Commander visited the Mullaitivu Army Headquarters to attend various events in the Mullaitivu District. He gathered in front of the military headquarters to hand over his own land to the release of his own land.
-
-However, the military was not present at the announcement that the army was not present and that 5 persons were arranged to meet at 3 pm today.
-
-The people of Mullaitivu Keppapilavu handed over a Mahajar to the Mullaitivu District Government Agent on 11.03.2024 to the President and the Mullaitivu District Secretary to release their lands soon. He said that he would send the letter to the relevant parties and get a response in ten days.
-
-...
-
-[Data](articles/ce766b11.json)
-
-[Extended Data](ext_articles/ce766b11.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 18:21:22**
+As of **2024-03-28 18:33:46**
 
 ## Newspaper Stats
 
-*Scraped **15,751** Articles*
+*Scraped **15,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,44 +13,72 @@ bbccomsinhala | 168
 dbsjeyarajcom | 195
 newsfirstlk | 363
 dailyftlk | 848
-economynextcom | 857
+economynextcom | 867
 islandlk | 868
 adalk | 1,339
 adaderanalk | 1,891
 tamilmirrorlk | 1,891
 virakesarilk | 2,228
-dailymirrorlk | 2,431
+dailymirrorlk | 2,432
 adaderanasinhalalk | 2,530
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,749 (100.0%) of 15,751 articles have been extended.
+15,751 (99.9%) of 15,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### වෛරය සිව් පුද්ගල ඝාතනයකින් කෙළවර වෙයි
+### Ven. Siridhamma Thera released from PTA charges
+
+*2024-03-28 18:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ven-Siridhamma-Thera-released-from-PTA-charges/108-279785) · `en`
+
+Colombo, March 28 (Daily Mirror) - The Colombo Chief Magistrate today ordered to release former Convenor of Inter University Bhikku Federation (IUBF) Ven. Galwewa Siridhamma Thera from a case filed for allegedly committing offences under the Prevention of Terrorism Act (PTA) during the Aragalaya protests in 2022.
+
+Colombo Chief Magistrate Prasanna Alwis made this order considering the insufficient evidence against the suspect for charges under the PTA.
+
+Ven. Siridhamma Thera was produced before court on November 23, 2022 after being detained under the Prevention of Terrorism Act (PTA) for 89 days.
+
+On a previous occasion, former Convenor of Inter University Students' Federation (IUSF) Wasantha Mudalige was also released from the case filed against him over similar allegations. He was ordered to be released from the case after spending five months in prison.
+
+...
+
+[Data](articles/b667a5a6.json)
+
+---
+
+### Four people end in murder
 
 *2024-03-28 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195040) · `si`
 
-අමෙරිකාවේ ඉලිනෝයි ප්‍රාන්තයේ රොක්ෆර්ඩ් ප්‍රදේශයේ සිදුකළ පිහි ඇනුමකින් සිව් දෙනෙක් මියගොස් තවත් 5 දෙනෙක් තුවාල ලබා ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+In Rockeford, Independence State, USA, a knife attack resulted in four deaths and five injuries. The victims were a 15-year-old girl, a 63-year-old woman, a 49-year-old man, and a 22-year-old man.
 
-බදාදා නිවසකට බලහත්කාරයෙන් ඇතුළු වීමේ සිද්ධියකින් අනතුරුව මෙම පිහි ඇනුම කර තිබුණි.
+🟩
 
-එහිදී මියගොස් ඇත්තේ වයස අවුරුදු 15ක ගැහැණු ළමයෙක්, 63 හැවිරිදි කාන්තාවක්, 49 හැවිරිදි පුද්ගලයෙක් සහ 22 හැවිරිදි තරුණයෙකි.
+Four persons were killed and 5 others were injured in a knife in the Rockeford area in the Independence State of the Ilaninoi, USA.
+
+Wednesday had been stacked after a forced home event.
+
+The deceased has been identified as a 15 year old girl, a 63-year-old woman, a 49-year-old man and a 22 year old youth.
 
 ◼️
 
 [Data](articles/3903370b.json)
+
+[Extended Data](ext_articles/3903370b.ext.json)
 
 ---
 
 ### Another judge leaves by considering the petition
 
 *2024-03-28 17:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195039) · `si`
+
+Judge Nissanka Bandula Karunaratne of the Court of Appeal is to appoint the President's recommendation as a Supreme Court judge. Two judges, including Turairaja, A. H. M. D., have resigned due to personal reasons. The petition is to be considered by another judge.
+
+🟩
 
 Court of Appeal, Judge Nissanka Bandula Karunaratne to appoint the recommendation of the President as a Supreme Court judge. P. S. M. Another judge from the Supreme Court Bench, who has been tabled in the petition, has been resigned today (28).
 
@@ -96,21 +124,31 @@ However, the tourist fled from the hotel while investigations were ongoing.
 
 ---
 
-### இலங்கை கால்பந்தாட்ட அணி, ஜனாதிபதியை சந்தித்தது
+### The Sri Lankan football team met the president
 
 *2024-03-28 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/179925) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் இலங்கை தேசிய கால்பந்தாட்ட அணிக்கும் இடையிலான சந்திப்பு செவ்வாய்க்கிழமை (26) ஜனாதிபதி அலுவலகத்தில்  நடைபெற்றது.
+President Ranil Wickremesinghe congratulated the Sri Lankan football team for their victory against Bhutan and encouraged them to win the upcoming SAFF. He also pledged support for infrastructure development.
 
-கொழும்பு  குதிரைப் பந்தயத் திடலில் நடைபெற்ற நான்கு நாடுகளுக்கு இடையிலான கால்பந்தாட்டப் போட்டியில் பூட்டானுக்கு எதிராக இலங்கை கால்பந்தாட்ட அணி அபார வெற்றியீட்டியதோடு வெற்றியீட்டிய இலங்கை அணி வீரர்களுக்கு  ஜனாதிபதி வாழ்த்துக்களை தெரிவித்தார்.
+🟩
 
-அடுத்த வருடம் நடைபெறவுள்ள தெற்காசிய கால்பந்தாட்டப் போட்டியில் (SAFF)  வெற்றிபெறுவதற்கு இலங்கை  கால்பந்தாட்ட அணியை ஊக்குவித்த ஜனாதிபதி, கால்பந்தாட்டத்திற்கு தேவையான உட்கட்டமைப்பு வசதிகளை அபிவிருத்தி செய்வதற்கு தேவையான ஒத்துழைப்பை வழங்குவதாக உறுதியளித்தார்.
+The meeting between President Ranil Wickremesinghe and the Sri Lanka National Football Team was held on Tuesday (26) at the Presidential Office.
 
-கடந்த சில மாதங்களாக இலங்கையில் கால்பந்தாட்டத்தில்  முன்னேற்றம் ஏற்பட்டுள்ள தோடு இலங்கை  கால்பந்தாட்ட சம்மேளனம் (FFSL) தற்போது உலகின் பல்வேறு நாடுகளில்  தொழில்முறை போட்டிகளில் விளையாடும் இலங்கை வீரர்களைக் கொண்டு வலுவான தேசிய அணியை உருவாக்கியுள்ளது.
+The President congratulated the Sri Lankan football team against Bhutan against Bhutan in the four -nation -running football match at the Colombo Horse Racing Stadium.
 
-...
+The President promoted the Sri Lankan football team to win next year's South Asian Football Tournament (SAFF) and promised to cooperate with the development of the infrastructure required for football.
+
+The Sri Lanka Football Federation (FFSL), which has improved in Sri Lanka for the past few months, has now formed a strong national team with Sri Lankan players playing in professional competitions in various countries of the world.
+
+The president was photographed with the players with the players. At this time, Jaswar Umar, president of the Sri Lanka Football Federation, presented a souvenir.
+
+Sri Lanka National Football Team Endi Morrisonan also attended the event.
+
+◼️
 
 [Data](articles/d86a8b67.json)
+
+[Extended Data](ext_articles/d86a8b67.ext.json)
 
 ---
 
@@ -214,6 +252,46 @@ The President's Media Division (PMD) said this initiative, implemented by the Na
 
 ---
 
+### Development Lotteries Board to introduce digital lottery tickets
+
+*2024-03-28 17:31:00* · [`economynextcom`](https://economynext.com/development-lotteries-board-to-introduce-digital-lottery-tickets-156493/) · `en`
+
+ECONOMYNEXT – The Development Lotteries Board will introduce lottery tickets via digital technology, its Chairman and CEO Ajith Gunaratne Narangala has said.
+
+“The board has initiated the introduction of lottery tickets via digital technology, aiming to provide consumers in the country with a novel experience,” Narangala was quoted in a statement by the president’s media division.
+
+“Measures have been implemented to boost the prize money for both regular and newly introduced special lottery tickets of the Development Lotteries Board.”
+
+DLB, a state-owned enterprise that is part of a lottery oligopoly, posted the highest profit in its 40-year history of 3.6 billion rupees in 2023. “The DLB recorded a profit margin of 32% for the fiscal year 2022-2023, double the previous year’s figure.”
+
+Development Lotteries Board is one of the state-owned enterprises to be registered under the Companies Act No 07 of 2007 and transferred to a holding company. (Colombo/Mar28/2024)
+
+◼️
+
+[Data](articles/a4a61d53.json)
+
+---
+
+### Sri Lanka Abans says McDonald’s local franchisee mainly owned by its MD, not subsidiary
+
+*2024-03-28 17:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-abans-says-mcdonalds-local-franchisee-mainly-owned-by-its-md-not-subsidiary-156486/) · `en`
+
+ECONOMYNEXT –  The local franchisee of U.S. brand McDonald’s is not a subsidiary of Abans PLC as widely claimed by local media but majority of its stake is owned by the company’s managing director, the Sri Lankan listed company said.
+
+Sri Lanka’s Colombo Commercial High Court last week issued an order preventing the island’s McDonald’s restaurant franchisee from using the brand.
+
+Local reports said McDonald’s Corporation had sought an order preventing Abans Plc from selling McDonald’s food items in Sri Lanka.
+
+“The local franchisee of McDonald’s is International Restaurant Systems (Private) Limited incorporated under the Companies Act No 7 of 2007,” Abans said in a statement to the Colombo Stock Exchange, dissociating itself form the court case.
+
+“The majority shareholder of the said company is Mr. Rusi Pestonjee who owns a 98.73% stake in that company, and who is also the Managing Director of Abans PLC.”
+
+...
+
+[Data](articles/1e3d556f.json)
+
+---
+
 ### A group of people injected schools hospitalized
 
 *2024-03-28 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195036) · `si`
@@ -287,6 +365,24 @@ Accordingly, the suspect has already fled the area from the police.
 [Data](articles/0ead3977.json)
 
 [Extended Data](ext_articles/0ead3977.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 300.40/50 to the US dollar
+
+*2024-03-28 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-300-40-50-to-the-us-dollar-156487/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 300.40/50 to the US dollar in the spot forex market on Thursday, stronger from 300.85/301.00 on Wednesday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 11.30/40 percent up from 11.32/38 percent.
+
+A bond maturing on 15.09.2027 closed at 11.90/95 percent down from 11.95/12.00 percent.
+
+A bond maturing on 15.12.2028 closed at 12.10/20 percent from 12.10/15 percent. (Colombo/Mar28/2024)
+
+◼️
+
+[Data](articles/5f2f3ba4.json)
 
 ---
 
@@ -410,6 +506,22 @@ According to the DCS report, the year-on-year inflation of Food Group was record
 
 ---
 
+### Sri Lanka inflation 0.9-pct in March, prices up 4.3-pct over 18-months
+
+*2024-03-28 16:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-inflation-0-9-pct-in-march-prices-up-4-3-pct-over-18-months-156483/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s inflation slowed to 0.9 percent in the 12-months to March 2024, measured the by the widely watched Colombo Consumer Price Index, down from 5.9 percent in February data from the state debt office showed.
+
+Sri Lanka’s central bank has created only 4.23 percent in the 18-months since September 2024, when its deflationary policy showed up in the balance of payments.
+
+From March 2023 the central bank had allowed the exchange rate to appreciate, arresting the full passthrough of inflation from the earlier inflationary policy and reversing traded goods prices including food and energy.
+
+◼️
+
+[Data](articles/f97f8245.json)
+
+---
+
 ### Anthrax infection for 54 people in Laos: Warning in Thailand in Thailand
 
 *2024-03-28 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179907) · `ta`
@@ -528,6 +640,52 @@ Minister Ranatunga told reporters in Colombo that he stressed the need to go for
 
 ---
 
+### Sri Lanka stocks close up, 2.9bn turnover driven by banks
+
+*2024-03-28 16:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-2-9bn-turnover-driven-by-banks-156479/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
+
+The broader All Share Index closed up 0.09 percent, or 9.89 points, at 11,444; while the S&P SL20 Index closed up 0.53 percent, or 17.35 points, at 3,317.
+
+Turnover was at 2.9 billion. 1.3 billion of this came from trades in the banks sector.
+
+Hatton National Bank Plc saw the most active volumes traded in the day (411mn), and the share closed up at 180.00.
+
+National Development Bank Plc followed with 238mn in turnover; the share closed up at 68.00.
+
+Sampath Bank Plc also saw high turnover (230mn), and the share close up at 80.00.
+
+Major contributors to the Index included Commercial Bank of Ceylon Plc (up at 97.70), John Keells Holdings Plc (up at 194.00), Melstacorp Plc (up at 88.00), and DFCC Bank Plc (up at 76.00).
+
+...
+
+[Data](articles/dd304470.json)
+
+---
+
+### Patali says willing to run for Sri Lanka president if invited by new alliance
+
+*2024-03-28 15:59:00* · [`economynextcom`](https://economynext.com/patali-says-willing-to-run-for-sri-lanka-president-if-invited-by-new-alliance-156477/) · `en`
+
+ECONOMYNEXT — If invited to contest Sri Lanka’s upcoming presidential election by a newly formed alliance, opposition MP Patali Champika Ranawaka will accept it, the MP said.
+
+Speaking to reporters, Ranawaka said he is confident of his capacity to run the country.
+
+“We will form an alliance to develop the country in the future. That alliance will decide who should contest the parliamentary elections, the presidential election,” the MP said.
+
+“If I’m invited to accept the candidacy for the presidency, I will take it. I’m quite confident that I can build this country,” he said.
+
+In February, Ranawaka presented a ‘common minimum progamme’ to President Ranil Wickremesinghe and representatives of the main opposition Samagi Jana Balawegaya (SJB), with a proposal to trim the executive powers of the president’s office to 2015 levels.
+
+Titled “A Step Forward with Unity for Our Nation”, the 32-page document contains proposed short and long term solutions to Sri Lanka’s ongoing issues.
+
+...
+
+[Data](articles/9462eb89.json)
+
+---
+
 ### Keheliya Rambukwella further remanded
 
 *2024-03-28 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98265/keheliya-rambukwella-further-remanded) · `en`
@@ -630,6 +788,24 @@ UPDATE: Traffic movement along both directions on Sirimavo Bandaranaike Mawatha 
 
 ---
 
+### Sri Lanka’s opposition parties make modest gains in voting intent poll
+
+*2024-03-28 15:14:00* · [`economynextcom`](https://economynext.com/sri-lankas-opposition-parties-make-modest-gains-in-voting-intent-poll-156469/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s leftist National People’s Power (NPP) and main opposition Samagi Jana Balawegaya (SJB) gained modest increases in support in February, a survey showed.
+
+The Institute for Health Policy (IHP) which carried out the survey said support for President Ranil Wickremesinghe’s United National Party (UNP) and other parties have weakened in February.
+
+“The latest estimates from IHP’s SLOTS MRP model (revised 01/2024) show modest increases in support for NPP/JVP and SJB, with weakening support for the UNP and ‘Other’ parties, continuing trends since July 2023. NPP/JVP lead with 44% (+2) support of Sri Lankan adult voters, followed by SJB with 30% (+1), the SLPP at 9% (+1), the UNP at 4% (-1), and ITAK at
+
+The February estimates are provisional and are associated with a margin of error of 1–3% for the four leading parties. Compared to IHP’s February release, IHP estimates of NPP/JVP and SJB support in January 2024 were revised +2 and -1 points.
+
+...
+
+[Data](articles/7ef78ccc.json)
+
+---
+
 ### Fire erupts at tyre shop in Colombo
 
 *2024-03-28 15:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fire-erupts-at-tyre-shop-in-Colombo/108-279779) · `en`
@@ -695,6 +871,26 @@ Stoinis is joined by fellow all-rounder Ashton Agar, opening batter Marcus Harri
 [Data](articles/e66a16bc.json)
 
 [Extended Data](ext_articles/e66a16bc.ext.json)
+
+---
+
+### Sri Lanka agri officials, food firms learn cutting edge tech in Germany
+
+*2024-03-28 14:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-agri-officials-food-firms-learn-cutting-edge-tech-in-germany-156470/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s agriculture ministry officials and representatives of private companies had visited a technology fair in Germany to learn about the latest advances in the food sector, a statement said.
+
+Anuga FoodTec trade fair in Köln, Germany, showcases cutting edge technology in food production, processing, packaging, and storage, AHK Sri Lanka, representing the German Chamber Network said.
+
+A delegation madeMinistry of Agriculture, Elpitiya Plantation, Eastern & Allied Agencies Limited, and Hettigoda Industries (PVT) Ltd had visited Anuga FoodTec trade fair earlier this month.
+
+Malintha Gajanayake, Head of Corporate Affairs & Export Promotions at the Delegation of German Industry and Commerce in Sri Lanka, will help boost Sri Lanka’s competitiveness in the global market.
+
+“During their visit, the Sri Lankan delegates were introduced to cutting-edge technologies in various facets of food processing, including harvesting, supply chain management, packaging, and labeling,” AHK said.
+
+...
+
+[Data](articles/64bf8d4e.json)
 
 ---
 
@@ -1088,6 +1284,30 @@ During the visit, FFSL President Jaswar Umar, Head Coach Andy Morrison, and the 
 
 ---
 
+### Sri Lanka to import onions from China after India export ban: Minister
+
+*2024-03-28 12:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-import-onions-from-china-after-india-export-ban-minister-156443/) · `en`
+
+ECONOMYNEXT – Sri Lanka will import onions from China after an export ban by India and Pakistan pushed up domestic prices, Trade Minister Nalin Fernando said.
+
+“Big onions, there is a shortage in India and Pakistan,” Fernando said. “Now we are importing from China.”
+
+Fernando had previously said that a variety called Rose Onion will be imported instead of big onions due to rising onion prices.
+
+Sri Lanka grows onions under import tax protection and domestic production is seasonal and imports supplement demand.
+
+3,500 hectares of onions were planted in the 2023 yala season, but crops were destroyed by unusually heavy rains before harvesting, the Department of Agriculture said.
+
+Demand remains high ahead of several religious and cultural festivals.
+
+However, the Department of Agriculture said that 75,000 kilos of big onion bulbs were vernalized for planting in the 2024 yala season.
+
+...
+
+[Data](articles/21c54179.json)
+
+---
+
 ### Ramadan Shopping Festival
 
 *2024-03-28 12:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ramadan-Shopping-Festival/110-279772) · `en`
@@ -1099,6 +1319,24 @@ The Ramadan and Sinhala New Year Festival was launched today at the Sri Lanka Ex
 [Data](articles/45eea4de.json)
 
 [Extended Data](ext_articles/45eea4de.ext.json)
+
+---
+
+### Sri Lanka cuts onion protectionist tax by Rs70 after India export ban
+
+*2024-03-28 12:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-onion-protectionist-tax-by-rs70-after-india-export-ban-156445/) · `en`
+
+ECONOMYNEXT – Sri Lanka has cut a protectionist 80 rupee a kilo tax on big onions to 10 rupees after India banned the export of b-onion allowing ‘rose onions’ to be imported, State Minister for Finance, Ranjith Siyambalapitiya said.
+
+The domestic price of big onions has risen steeply after India banned the export of onions and the tax cut will not reduce the profits of farmers, Minister Siyambalapitiya said.
+
+The taxes were cut through a gazette notice issued at midnight through a Special Commodity Levy Act.
+
+Rose Onion is a large onion similar to the big onions imported and consumed in Sri Lanka, he said. (Colombo/Mar28/2024)
+
+◼️
+
+[Data](articles/b6e2284e.json)
 
 ---
 
@@ -2081,249 +2319,5 @@ Attended by distinguished figures, including General Shavendra Silva, the Chief 
 [Data](articles/cc6fb81f.json)
 
 [Extended Data](ext_articles/cc6fb81f.ext.json)
-
----
-
-### Xi meets Sri Lanka PM as China eyes main Colombo airport development
-
-*2024-03-28 09:04:00* · [`economynextcom`](https://economynext.com/xi-meets-sri-lanka-pm-as-china-eyes-main-colombo-airport-development-156370/) · `en`
-
-ECONOMYNEXT – Chinese President Xi Jinping met Sri Lanka Prime Minister Dinesh Gunawardena on Wednesday while Beijing expressed its intertest in developing the island nation’s main Bandaranaike International Airport (BIA) where Japan has pledged the second terminal while Indian firm is to be given management.
-
-Prime Minister Gunawardena’s six-day official visit to China comes after Beijing raised concerns over Sri Lanka’s decision to ban its research vessels before allowing a German research ship for replenishment early this month.
-
-“Both countries agreed to continue to act under the friendship, peace, mutual respect and fivefold principle in international affairs that do not interfere in the internal affairs of a country,” Prime Minister Gunawardena’s office said in a statement on the meeting with the Chinese President Xi.
-
-...
-
-[Data](articles/f4a43042.json)
-
-[Extended Data](ext_articles/f4a43042.ext.json)
-
----
-
-### Change in climate after 2 o'clock
-
-*2024-03-28 08:48:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-மணிக்குப்-பின்-காலநிலையில்-மாற்றம்/175-335291) · `ta`
-
-"Rain or thunderstorms expected in Western, South, Sabaragamuwa, Central, Uva, and North Western Provinces after 2 pm today. Heavy rains up to 75mm in some areas. Snow in Central, Sabaragamuwa, Uva, Western Provinces, Galle, and Matara districts. Public advised to prepare for heavy winds and lightning."
-
-🟩
-
-The Department of Meteorology said that rain or thunderstorms will occur in the Western, South, Sabaragamuwa, Central, Central, Uva and North Western Provinces after 2.00 pm today.
-
-Heavy rains are expected to be 75 millimeters in some places in the Western, South and Sabaragamuwa provinces.
-
-In the morning, the snow is expected in some places in the Central, Sabaragamuwa, Uva and Western Provinces and Galle and Matara districts.
-
-The Department of Meteorology has requested the general public to take necessary steps to reduce the dangers of temporary heavy winds and lightning with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/3ed0813b.json)
-
-[Extended Data](ext_articles/3ed0813b.ext.json)
-
----
-
-### One person's monthly cost revealed
-
-*2024-03-28 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195018) · `si`
-
-The Department of Census and Statistics reports a monthly expenditure increase for individuals, with the lowest recorded at Rs. 16,524 in December. The Colombo district has the highest cost of living, with per capita expenditure at Rs. 18,256, while Nuwara Eliya is at Rs. 17,256. Moneragala has the lowest at Rs. 16,268. These figures adjust the official poverty line considering national and district changes.
-
-🟩
-
-According to the official poverty, the monthly expenditure of one person has increased, the Department of Census and Statistics.
-
-The department points out that the minimum expenditure per month has increased by Rs.
-
-In December last year, its value was recorded as 16,524.
-
-It is estimated that one person is estimated at the district level and the highest cost of living in the Colombo district.
-
-Accordingly, the per capita expenditure of the Colombo District is Rs. 18,256 and 17,256 in the Nuwara Eliya district.
-
-The minimum per capita expenditure is reported from the Moneragala district, which is 16,268, says the Department of Census and Statistics.
-
-The official poverty line is adjusted to the National Institute of Consumer Price Index considering the national and district level changes.
-
-◼️
-
-[Data](articles/95d582e1.json)
-
-[Extended Data](ext_articles/95d582e1.ext.json)
-
----
-
-### Baltimore bridge collapse: Two bodies recovered from underworld wreckage
-
-*2024-03-28 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98253/baltimore-bridge-collapse-two-bodies-recovered-from-underworld-wreckage) · `en`
-
-The bodies of two people have been recovered from a red pickup truck, which was submerged under the water where the Baltimore Bridge collapsed.
-
-Eight construction workers were on the bridge when a ship struck it, plunging them into the waters below.
-
-Two of the workers were rescued on the day, but the search continues for the other four - all presumed dead.
-
-Salvage crews are working to address hazardous materials and accident investigators are on the scene.
-
-Four of the six victims of the bridge collapse have been named so far.
-
-At a press conference on Wednesday, Maryland State Police identified Alejandro Hernandez Fuentes, 35, and Dorlian Ronial Castillo Cabrera, 26, as the two workers recovered by divers from inside the truck. Mr Fuentes is originally from Mexico and Mr Cabrera is from Guatemala.
-
-...
-
-[Data](articles/7deac523.json)
-
-[Extended Data](ext_articles/7deac523.ext.json)
-
----
-
-### Baltimore bridge collapse: Two bodies recovered from underwater wreckage
-
-*2024-03-28 08:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98253/baltimore-bridge-collapse-two-bodies-recovered-from-underwater-wreckage) · `en`
-
-The bodies of two people have been recovered from a red pickup truck, which was submerged under the water where the Baltimore Bridge collapsed.
-
-Eight construction workers were on the bridge when a ship struck it, plunging them into the waters below.
-
-Two of the workers were rescued on the day, but the search continues for the other four - all presumed dead.
-
-Salvage crews are working to address hazardous materials and accident investigators are on the scene.
-
-Four of the six victims of the bridge collapse have been named so far.
-
-At a press conference on Wednesday, Maryland State Police identified Alejandro Hernandez Fuentes, 35, and Dorlian Ronial Castillo Cabrera, 26, as the two workers recovered by divers from inside the truck. Mr Fuentes is originally from Mexico and Mr Cabrera is from Guatemala.
-
-...
-
-[Data](articles/a13257df.json)
-
-[Extended Data](ext_articles/a13257df.ext.json)
-
----
-
-### The local rice market reduces the imported rice to a rupee
-
-*2024-03-28 08:35:04* · [`adalk`](https://www.ada.lk/breaking_news/දේශීය-සහල්-වෙළඳපොලට-එද්දී-ආනයනික-සහල්-බද්ද-රුපියලක්-දක්වා-අඩු-කරයි/11-408838) · `si`
-
-The local rice market lowers imported rice prices, and the Ministry of Finance decreases the Special Commodity Levy on rice and big onions. This aims to make these items more affordable during the Sinhala and Tamil New Year, without reducing product availability.
-
-🟩
-
-The Ministry of Finance has taken steps to reduce the Special Commodity Levy on imported rice and big onions.
-
-Accordingly, the Special Commodity Tax of Rs..
-
-The objective of reducing the rice and onion to the people during the coming Sinhala and Tamil New Year season is the objective of reducing these taxes without any lack of product.
-
-◼️
-
-[Data](articles/46376541.json)
-
-[Extended Data](ext_articles/46376541.ext.json)
-
----
-
-### China to continue positive engagements with IMF to restore debt sustainability in Sri Lanka – President Xi
-
-*2024-03-28 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98252/china-to-continue-positive-engagements-with-imf-to-restore-debt-sustainability-in-sri-lanka-president-xi) · `en`
-
-During the bilateral discussion held with Sri Lankan Premier Dinesh Gunawardana in Beijing, President Xi Jinping expressed China’s continued support to Sri Lanka together with EXIM Bank of China and China Development Bank, says State Minister of Finance Shehan Semasinghe.
-
-It was further stated that China will continue positive engagements with the International Monetary Fund (IMF) to strengthen economic stability and restore debt sustainability in Sri Lanka, the state minister said in a post on ‘X’ (formerly Twitter).
-
-Semasinghe is part of the Sri Lankan delegation accompanying Prime Minister Gunawardana during his five-day state visit to China.
-
-The Sri Lankan Prime Minister had called on President Xi Jinping on Wednesday (March 27).
-
-...
-
-[Data](articles/0a88f360.json)
-
-[Extended Data](ext_articles/0a88f360.ext.json)
-
----
-
-### China will continue positive engagements with IMF to restore debt sustainability in Sri Lanka – President Xi
-
-*2024-03-28 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98252/china-will-continue-positive-engagements-with-imf-to-restore-debt-sustainability-in-sri-lanka-president-xi) · `en`
-
-During the bilateral discussion held with Sri Lankan Premier Dinesh Gunawardana in Beijing, President Xi Jinping expressed China’s continued support to Sri Lanka together with EXIM Bank of China and China Development Bank, says State Minister of Finance Shehan Semasinghe.
-
-It was further stated that China will continue positive engagements with the International Monetary Fund (IMF) to strengthen economic stability and restore debt sustainability in Sri Lanka, the state minister said in a post on ‘X’ (formerly Twitter).
-
-Semasinghe is part of the Sri Lankan delegation accompanying Prime Minister Gunawardana during his five-day state visit to China.
-
-The Sri Lankan Prime Minister had called on President Xi Jinping on Wednesday (March 27).
-
-...
-
-[Data](articles/8d9bbe95.json)
-
-[Extended Data](ext_articles/8d9bbe95.ext.json)
-
----
-
-### Patali does not deny the presidential candidate
-
-*2024-03-28 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195017) · `si`
-
-Champika Ranawaka, a parliamentarian, indicates that if a presidential candidate is presented by the UPFA, it won't be rejected. He also mentions the formation of a new alliance with political parties is in progress.
-
-🟩
-
-Parliamentarian Champika Ranawaka says that if the presidential election candidate is given under the upcoming UPFA, it will not be rejected.
-
-He says that the construction of a new alliance with political parties is currently underway.
-
-◼️
-
-[Data](articles/dad41f12.json)
-
-[Extended Data](ext_articles/dad41f12.ext.json)
-
----
-
-### China promises to Sri Lanka
-
-*2024-03-28 07:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195016) · `si`
-
-China pledges continued support to Sri Lanka's economy, aiming to restore debt sustainability, with President Xi Jinping discussing bilateral relations with Prime Minister Dinesh Gunawardena.
-
-🟩
-
-China has said that China continues to continue positive intervention with the International Monetary Fund to strengthen the economic stability of Sri Lanka and restore the debt sustainability.
-
-He further stated that Chinese President Xi Ginepin had said that the President was among the bilateral discussions held between President Xi Ginking and Prime Minister Dinesh Gunawardena.
-
-◼️
-
-[Data](articles/9a772110.json)
-
-[Extended Data](ext_articles/9a772110.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-03-28 07:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/98251/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur inWestern, Southern, Sabaragamuwa, Central, Uva, and North-western provinces after 2.00 p.m.
-
-Fairly heavy showers above 75 mm are likely at some places in Western, Southern and Sabaragamuwa provinces.
-
-Several spells of showers may occur in Eastern province, it said.
-
-Misty conditions can be expected at some places in Central, Sabaragamuwa, Uva and Western provinces and in Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/28eee7a9.json)
-
-[Extended Data](ext_articles/28eee7a9.ext.json)
 
 ---

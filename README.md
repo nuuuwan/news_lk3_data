@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-28 17:53:58**
+As of **2024-03-28 18:09:53**
 
 ## Newspaper Stats
 
-*Scraped **15,745** Articles*
+*Scraped **15,749** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,65 +16,155 @@ dailyftlk | 848
 economynextcom | 857
 islandlk | 868
 adalk | 1,339
-adaderanalk | 1,890
+adaderanalk | 1,891
 tamilmirrorlk | 1,891
 virakesarilk | 2,227
-dailymirrorlk | 2,429
-adaderanasinhalalk | 2,528
+dailymirrorlk | 2,431
+adaderanasinhalalk | 2,529
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,743 (100.0%) of 15,745 articles have been extended.
+15,745 (100.0%) of 15,749 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-28 (Thursday)
 
-### චීනයෙන් හම්බන්තොට ට ඉන්ධන පිරිපහදුවක්
+### පෙත්සම සලකා බැලීමෙන් තවත් විනිසුරුවරයෙකු ඉවත් වෙයි
+
+*2024-03-28 17:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195039) · `si`
+
+අභියාචනාධිකරණ සභාපති විනිසුරු නිශ්ශංක බන්දුල කරුණාරත්න මහතා ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරයෙකු වශයෙන් පත් කිරීම සඳහා ජනාධිපතිවරයා විසින්  ඉදිරිපත් කරනු ලැබූ නිර්දේශය ප්‍රතික්‍ෂේප කිරීමට ආණ්ඩුක්‍රම ව්‍යවස්ථාදායක සභාව ගත් තීරණය බලරහිත කිරීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා නීතිඥ බී. පී. එස්. එම්. පතිරත්න මහතා ගොනුකර ඇති පෙත්සම සලකා බලන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලේ තවත් විනිසුරුවරයෙකු අද (28) ඉවත් විය.
+
+මෙම පෙත්සම අද එස්. තුරෙයිරාජා, ඒ. එච්. එම්. ඩී. නවාස් සහ අර්ජුන ඔබේසේකර යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එම අවස්ථාවේදී ත්‍රිපුද්ගල විනිසුරු මඩුල්ලේ සාමාජික විනිසුරු අර්ජුන ඔබේසේකර මහතා සඳහන් කළේ අදාළ පෙත්සම සලකා බැලීමේ කටයුතුවලින් පෞද්ගලික හේතූන් මත තමා ඉවත් වන බවයි.
+
+මෙම පෙත්සම ඉකුත්දා සලකා බැලීම සඳහා කැඳවූ අවස්ථාවේදී අගවිනිසුරු ජයන්ත ජයසූරිය මහතාද එය සලකා බැලීමේ කටයුතුවලින් ඉවත්වීමට තීරණය කර තිබුණි.
+
+ඒ අනුව මෙම පෙත්සම සලකා බැලීමේ කටයුතුවලින් මේ වන විට විනිසුරුවරු දෙදෙනෙක් ඉවත් වී සිටිති.
+
+...
+
+[Data](articles/5fcd4832.json)
+
+---
+
+### British tourist flees hotel after false theft complaint
+
+*2024-03-28 17:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/British-tourist-flees-hotel-after-false-theft-complaint/108-279784) · `en`
+
+Alawathugoda, March 28 (Daily Mirror) - A British tourist, who allegedly made a false complaint about cash and belongings being stolen, is said to have fled from the hotel upon realizing that the police suspected the authenticity of the complaint.
+
+The tourist, staying at a hotel in Rittandeniya, Alawathugoda reported to the Alawathugoda police that Rs. 477,884 in cash, two wrist watches and two cameras were stolen while he was dining on Wednesday night (27).
+
+He claimed that the thief had broken the door lock to gain entry.
+
+Upon investigation, the police discovered that the door lock was actually broken from the inside using a bottle opener. When the tourist insisted on filing a police report to claim insurance before a thorough investigation, police became suspicious of the complaint's credibility and pointed out the door lock's tampering.
+
+However, the tourist fled from the hotel while investigations were ongoing.
+
+◼️
+
+[Data](articles/2c89718e.json)
+
+---
+
+### Sinopec to start work on Sri Lanka refinery by June
+
+*2024-03-28 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98268/sinopec-to-start-work-on-sri-lanka-refinery-by-june) · `en`
+
+(Reuters) - The world’s largest refiner, China’s Sinopec plans to start work on a refinery in Sri Lanka by June, the power minister said on Thursday, advancing a project earmarked as the biggest investment in the crisis-hit island nation.
+
+Sri Lanka is looking to attract investment in the battle to stabilise its economy and return to growth following a financial crisis caused by a severe shortfall of dollars in 2022 that led the economy to contract 2.3% last year.
+
+Officials of Sinopec Overseas Investment Holding are visiting Colombo for talks with Sri Lankan authorities.
+
+“The officials indicated that the management of Sinopec has decided to double the capacity of the refinery from the original proposal,” the minister, Kanchana Wijesekera, wrote on social media platform X.
+
+“They intend to sign the agreements for the project and commence work by June 2024.”
+
+Sri Lanka’s cabinet approved the project in November, an investment that Wijesekera has earlier tagged at $4.5 billion.
+
+...
+
+[Data](articles/0d026e2e.json)
+
+---
+
+### Fuel refinery to Hambantota from China
 
 *2024-03-28 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195038) · `si`
 
-චීනයේ සයිනොපෙක් සමාගම විසින් මෙරට ඉදිකිරීමට නියමිත ඉන්ධන පිරිපහදුවේ ඉදිකිරීම් කටයුතු කඩිනමින් ආරම්භ කිරීමට කැමැත්ත ප්‍රකාශ කර තිබේ.
+China's Syopech to build a $4.5B fuel refinery in Hambantota, Sri Lanka, starting in June.
 
-සයිනොපෙක් සමාගමේ නියෝජිතයින් පිරිසක් තමාට ඒ බව දැන්වූ බව විදුලි බල හා බලශක්ති අමාත්‍ය කාංචන විජේසේකර මහතා X පණිවුඩයක් නිකුත් කරමින් පැවසීය.
+🟩
 
-නව පිරිපහදුව හම්බන්තොට ස්ථාපනය කිරීමට නියමිත අතර ඊට අදාළ එකඟතා ගිවිසුම් කඩිනමින් අත්සන් කිරීමට සයිනොපෙක් සමාගම එකඟ වී තිබුණි.
+China's Syopech, China, has agreed to start the construction work of fuel refinery in the country.
 
-එම ව්‍යාපෘතිය සඳහා ආයෝජනය වැඩි කිරීමටත් පිරිපහදුවේ ධාරිතාවය වැඩි කිරීමටත් එකඟ වී ඇති අතර ව්‍යාපෘතිය ජූනි මාසයේදී ආරම්භ කිරීමට නියමිතය.
+Kanchana Wijesica, Minister of Power and Energy, told him that a group of people of Syhoppi had told him that.
 
-එම ව්‍යාපෘතිය සඳහා පසුගිය නොවැම්බර් මාසයේදී කැබිනට් අනුමැතිය හිමිවූ අතර එහි ආයෝජනය සඳහන් වූයේ ඩොලර් බිලියන 4.5ක් ලෙසට ය.
+The new refinery is to be established in Hambantota and has agreed to sign agreements.
+
+The project has agreed to increase investment and increase the capacity of the refinery and the project is to commence in June.
+
+The project was approved by the Cabinet last November and the investment was $ 4.5 billion.
 
 ◼️
 
 [Data](articles/ce989685.json)
 
+[Extended Data](ext_articles/ce989685.ext.json)
+
 ---
 
-### ඩොලර් ට්‍රිලියන 3ක ආදායම් උපයන ජාවාරම් කල්ලිය
+### 3-trillion revenue earns
 
 *2024-03-28 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195037) · `si`
 
-අග්නිදිග ආසියානු කලාපය මිනිස් ජාවාරම සහ සයිබර් අපරාධ සම්බන්ධ සංවිධානාත්මක අපරාධ සම්බන්ධයෙන් කුප්‍රකට කලාපයකි.
+The Southeast Asian region is a hub for organized crimes, including human trafficking and cybercrimes, with a global impact. Cybercrime networks have reportedly earned $3 trillion annually, deceiving millions. These crimes are now a major concern for many countries. The main source of income worldwide is drug trafficking, with cyber fraud centers exploiting young, low-income individuals for higher salaries, diversifying the drug racket. Despite this, drug trafficking still earns 40-70% of total income. Cyber fraud centers contribute significantly to global illegal human smuggles, with notable cases in Cambodia and Myanmar.
 
-පසුගිය සමයේ අවස්ථා කිහිපයකදී මියන්මාරය, කාම්බෝජය වැනි රටවලින් මෙවැනි සයිබර් අපරාධ කල්ලි සහ ජාල සම්බන්ධ පුවත් රැසක් ද වාර්තා වී තිබුණි.
+🟩
 
-විචාරකයින්ට අනුව අග්නිදිග ආසියානු කලාපය තුළ මෙම ජාවාරම වඩාත් ව්‍යාප්ත වී ඇත්තේ කොවිඩ් වසංගත කාලය තුළදී ය.
+Southeast Asian region is notorious for organized crimes on human trafficking and cyber crimes.
 
-ඒ මාර්ගගත ක්‍රමවේද සඳහාජනතාව වඩාත් නැඹුරුවීම සහ කොවිඩ් කාලය තුළ මිනිසුන් ඒවාට හුරුවීම හේතුවෙනි.
+There have been several cyber criminal groups and networks in several occasions during the past few occasions.
 
-අග්නිදිග ආසියාවට පමණක් අනන්‍ය වූ මෙම ජාවාරම දැන් ගෝලීය වශයෙන් ව්‍යාප්ත වෙමින් පවතින බව ජාත්‍යන්තර පොලීසිය අනාවරණ කර තිබේ.
+According to commentators, the racket has expanded in the Southeast Asian region.
 
-ඒ අනුව දැනටමත් මෙම සංවිධානාත්මක අපරාධ ජාලය වාර්ෂිකව අමෙරිකානු ඩොලර් ට්‍රිලියන 3ක ආදායමක් උපයන ව්‍යාපාරයක් වී ඇති බව ජාත්‍යන්තර පොලීසිය පවසයි.
+That online mechanism is the most refinement and the covard periodically, when people adopted.
 
-මෙම ජාවාරම සඳහා විශාල වශයෙන් පිරිස් එක්වෙමින් සිටින බවත් එම ජාවාරම්වලට දැනටමත් මිලියන සංඛ්‍යාත පිරිසක් රැවටී ඇති බවත් ජාත්‍යන්තර පොලීසිය පවසා ඇත.
+The International Police has revealed that the unique trafficking of the unique in Southeast Asia is now spreading globally.
 
-මෑතකදී බිහිවූ මෙම නව අපරාධ මේ වන විට ලොව රටවල් රැසකට හිසරදයක් ව පවතී.
+According to the International Police, the organized crime network has already earned US $ 3 trillion annually.
+
+The International Police have said that millions of people have already been deceived by the racket.
+
+Recently, these new crimes have a headache for many countries in many countries.
+
+According to the international police, the main source of income in the world is the main source of income world is the drug racket.
 
 ...
 
 [Data](articles/07f4ddf8.json)
+
+[Extended Data](ext_articles/07f4ddf8.ext.json)
+
+---
+
+### New online reporting system launched for child sexual abuse
+
+*2024-03-28 17:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-online-reporting-system-launched-for-child-sexual-abuse/108-279783) · `en`
+
+A new online reporting system for child sexual abuse was launched today under the leadership of President Ranil Wickremesinghe.
+
+The President's Media Division (PMD) said this initiative, implemented by the National Child Protection Authority (NCPA) in collaboration with the Internet Watch Foundation and sponsored by Save the Children & Child Fund, aims to swiftly remove any harmful content from the Internet.
+
+◼️
+
+[Data](articles/9bf36c2b.json)
 
 ---
 
@@ -2235,83 +2325,5 @@ It is reported that many complaints have been received regarding releases of chi
 [Data](articles/ebb3e291.json)
 
 [Extended Data](ext_articles/ebb3e291.ext.json)
-
----
-
-### Sri Lanka EPF gets US$1.85bn in value back as central bank strengthens rupee
-
-*2024-03-28 07:11:00* · [`economynextcom`](https://economynext.com/sri-lanka-epf-gets-us1-85bn-in-value-back-as-central-bank-strengthens-rupee-156351/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has restored about 1.85 billion US dollars’ worth of lost value to the Employees Provident Fund in a currency collapse, as it appreciated the rupee from March 2022, an analysis of data shows.
-
-Sri Lanka’s central bank engineered a balance of payments surplus from around September 2022, with deflationary monetary policy, and ended a surrender rule in March 2023, allowing the currency to appreciate.
-
-The end-2022 value of the EPF fund which was 3,459 billion rupees (with interest earnings and net contributions) up from 3,166 billion in 2021.
-
-As a result of the rupee collapsing from 200 to 363 after money printing and flawed exchange rate policy (a surrender rule with an attempted float) the dollar value of the fund fell to 9.53 billion US dollar equivalent by end 2022, from 15.80 billion in the previous year, despite the earnings and net contributions.
-
-...
-
-[Data](articles/4c366208.json)
-
-[Extended Data](ext_articles/4c366208.ext.json)
-
----
-
-### Events to obtain personal information through social media inputs
-
-*2024-03-28 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195014) · `si`
-
-The Sri Lanka Computer Emergency Response Team reports a rise in personal information theft via social media during the festive season, with over 200 complaints in January and February. Engineers Charulek and Charuka Dhammapapa highlight the use of SMS scams claiming free gifts as a method.
-
-🟩
-
-The Sri Lanka Computer Emergency Response Team says that incidents of persons have increased through social media inputs in the festive season.
-
-Senior Information Security Engineers Charulek Dhammapapa said that the data will be obtained from SMS on mobile phones, claiming to be paid free gifts.
-
-Senior Information Security Engineers Charuka Dhammapapa said that over 200 complaints have been received in January and February this year alone.
-
-◼️
-
-[Data](articles/939ac51c.json)
-
-[Extended Data](ext_articles/939ac51c.ext.json)
-
----
-
-### MPs rally for snap general election amidst President’s push for Presidential poll
-
-*2024-03-28 06:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MPs-rally-for-snap-general-election-amidst-Presidents-push-for-Presidential-poll/108-279757) · `en`
-
-Colombo, March 28 (Daily Mirror) - Following the exclusive revelation by the Daily Mirror on Tuesday that the presidential election will be conducted in the first week of October, MPs from across the divide - except those from the National People’s Power (NPP) - have ramped up efforts to prevail upon President Ranil Wickremesinghe to declare a snap general election as early as possible.
-
-Earlier, Basil Rajapaksa of the Sri Lanka Podujana Peramuna (SLPP), requested the President in his one on one meeting that the parliamentary election should precede the presidential election. In his calculation, a parliamentary election at this juncture is more advantageous to his party than a presidential election which is slated to be conducted before October 17.
-
-However, as reported by the Daily Mirror, the President affirmed to the Cabinet of Ministers that he would not call for any snap general election ahead of the presidential election which is on schedule in terms of the Constitution.
-
-...
-
-[Data](articles/8099f737.json)
-
-[Extended Data](ext_articles/8099f737.ext.json)
-
----
-
-### A person who states is murdered
-
-*2024-03-28 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195013) · `si`
-
-A person was murdered in the Grandpass area.
-
-🟩
-
-The Grandpass was reported from the Grandpass area to attack and kill a person.
-
-◼️
-
-[Data](articles/997f6de6.json)
-
-[Extended Data](ext_articles/997f6de6.ext.json)
 
 ---

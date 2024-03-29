@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 10:33:41**
+As of **2024-03-29 10:51:08**
 
 ## Newspaper Stats
 
-*Scraped **15,867** Articles*
+*Scraped **15,869** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,42 +19,96 @@ adalk | 1,340
 tamilmirrorlk | 1,901
 adaderanalk | 1,902
 virakesarilk | 2,247
-dailymirrorlk | 2,448
-adaderanasinhalalk | 2,548
+dailymirrorlk | 2,449
+adaderanasinhalalk | 2,549
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,862 (100.0%) of 15,867 articles have been extended.
+15,867 (100.0%) of 15,869 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### கூரிய ஆயுதத்தால் தாக்கப்பட்டு ஒருவர் படுகொலை
+### Girl, 8, only survivor as 45 killed in bus crash in South Africa
+
+*2024-03-29 10:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Girl-8-only-survivor-as-45-killed-in-bus-crash-in-South-Africa/108-279822) · `en`
+
+South Africa, March 29 (BBC) - Forty-five people have died in South Africa after the bus they were in plunged some 50m (165ft) off a bridge into a ravine, authorities say.
+
+An eight-year-old girl, the only survivor, was taken to hospital with serious injuries.
+
+The bus crashed through a barrier and caught fire when it hit the ground in the north-eastern Limpopo province.
+
+The passengers were pilgrims travelling from Botswana's capital Gaborone to an Easter service in the town of Moria.
+
+The vehicle lost control and went off a bridge on the Mmamatlakala mountain pass between Mokopane and Marken, around 300km (190 miles) north of Johannesburg, according to South African public broadcaster SABC.
+
+Rescue operations went on late into Thursday evening, with some of those killed reportedly hard to reach amid the debris.
+
+Transport Minister Sindisiwe Chikunga, who went to the scene of the incident, extended her "heartfelt condolences to the families affected by the tragic bus crash".
+
+...
+
+[Data](articles/51bf2d84.json)
+
+---
+
+### අද සිට අනිද්දා දක්වා දුම්රිය ප්‍රමාදයක්
+
+*2024-03-29 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195061) · `si`
+
+අද (29) සිට අනිද්දා (31) දක්වා මුහුදුබඩ මාර්ගයේ දුම්රිය ධාවනයේ යම් ප්‍රමාදයක් සිදුවිය හැකි බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+වැල්ලවත්ත සහ කොටුව අතර දුම්රිය ධාවනය එක් මන්තීරුවකට සීමා කිරීම මීට හේතුවී ඇති බව එම දෙපාර්තමේන්තුව පැවසීය.
+
+නාගරික සංවර්ධන අධිකාරිය විසින් වැල්ලවත්ත සහ බම්බලපිටිය දුම්රිය ස්ථාන අතර ඇති නල මාර්ගයක සිදුකරන නඩත්තු කටයුත්තක් හේතුවෙන් මෙම පියවර ගැනීමට සිදුවී තිබේ.
+
+කෙසේවෙතත් එළඹෙන ඉරිදා රාත්‍රියෙන් පසු දුම්රිය ධාවනය යථා තත්ත්වයට පත්වනු ඇති බව දුම්රිය දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/59a19cf3.json)
+
+---
+
+### Assassination
 
 *2024-03-29 10:05:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூரிய-ஆயுதத்தால்-தாக்கப்பட்டு-ஒருவர்-படுகொலை/175-335338) · `ta`
 
-கூரிய ஆயுதத்தால் தாக்கப்பட்டதில் 31 வயதுடைய நபர் ஒருவர் நேற்று (28) காலை உயிரிழந்துள்ளார்.
+A 31-year-old man died after being attacked with a sharp weapon yesterday morning.
+
+🟩
+
+A 31 -year -old man died yesterday morning (28) after being attacked by a sharp weapon.
 
 ◼️
 
 [Data](articles/e577d1d2.json)
 
+[Extended Data](ext_articles/e577d1d2.ext.json)
+
 ---
 
-### எச்ஐவி தொற்றாளர் எண்ணிக்கை உயர்வு
+### HIV infected number rises
 
 *2024-03-29 10:04:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எச்ஐவி-தொற்றாளர்-எண்ணிக்கை-உயர்வு/175-335337) · `ta`
 
-நாட்டில் எச்ஐவி தொற்றுக்கு உள்ளானவர்களின் எண்ணிக்கையில் அதிகரிப்பு ஏற்பட்டுள்ளதாக இலங்கையின் தேசிய எயிட்ஸ் தடுப்பு திட்டத்தின் பணிப்பாளர் டாக்டர் ஜானகி விதானபத்திரன தெரிவித்துள்ளார்.
+Dr. Janaki Vidhanapatrana, Sri Lanka's National AIDS Prevention Program Director, reported a rise in HIV infections, especially among 20-30-year-olds.
 
-20 முதல் 30 வயதுக்குட்பட்டவர்கள் இந்த தொற்றாளர் பாதிக்கப்படும் ஆபத்தில் உள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+🟩
+
+Dr. Janaki Vidhanapatrana, Director of the National AIDS Prevention Program of Sri Lanka, said that the number of HIV infections in the country has increased.
+
+He noted that people between the ages of 20 and 30 are in danger of being affected.
 
 ◼️
 
 [Data](articles/90a2a816.json)
+
+[Extended Data](ext_articles/90a2a816.ext.json)
 
 ---
 
@@ -139,6 +193,8 @@ Easter Sunday is immediately preceded by Holy Week (Passion Week) which begins w
 ...
 
 [Data](articles/8b4a35b9.json)
+
+[Extended Data](ext_articles/8b4a35b9.ext.json)
 
 ---
 
@@ -682,6 +738,8 @@ Former President Gotabaya Rajapaksa’s book titled “Conspiracy to oust me fro
 
 [Data](articles/106b0140.json)
 
+[Extended Data](ext_articles/106b0140.ext.json)
+
 ---
 
 ### No mea culpa
@@ -715,6 +773,8 @@ In recent times, there is a massive campaign launched in Sri Lanka to eliminate 
 ...
 
 [Data](articles/4d3de007.json)
+
+[Extended Data](ext_articles/4d3de007.ext.json)
 
 ---
 
@@ -2183,55 +2243,5 @@ President's Counsel Faizer Mustapha appeared in the courts at the time of the pe
 [Data](articles/5fcd4832.json)
 
 [Extended Data](ext_articles/5fcd4832.ext.json)
-
----
-
-### British tourist flees hotel after false theft complaint
-
-*2024-03-28 17:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/British-tourist-flees-hotel-after-false-theft-complaint/108-279784) · `en`
-
-Alawathugoda, March 28 (Daily Mirror) - A British tourist, who allegedly made a false complaint about cash and belongings being stolen, is said to have fled from the hotel upon realizing that the police suspected the authenticity of the complaint.
-
-The tourist, staying at a hotel in Rittandeniya, Alawathugoda reported to the Alawathugoda police that Rs. 477,884 in cash, two wrist watches and two cameras were stolen while he was dining on Wednesday night (27).
-
-He claimed that the thief had broken the door lock to gain entry.
-
-Upon investigation, the police discovered that the door lock was actually broken from the inside using a bottle opener. When the tourist insisted on filing a police report to claim insurance before a thorough investigation, police became suspicious of the complaint's credibility and pointed out the door lock's tampering.
-
-However, the tourist fled from the hotel while investigations were ongoing.
-
-◼️
-
-[Data](articles/2c89718e.json)
-
-[Extended Data](ext_articles/2c89718e.ext.json)
-
----
-
-### The Sri Lankan football team met the president
-
-*2024-03-28 17:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/179925) · `ta`
-
-President Ranil Wickremesinghe congratulated the Sri Lankan football team for their victory against Bhutan and encouraged them to win the upcoming SAFF. He also pledged support for infrastructure development.
-
-🟩
-
-The meeting between President Ranil Wickremesinghe and the Sri Lanka National Football Team was held on Tuesday (26) at the Presidential Office.
-
-The President congratulated the Sri Lankan football team against Bhutan against Bhutan in the four -nation -running football match at the Colombo Horse Racing Stadium.
-
-The President promoted the Sri Lankan football team to win next year's South Asian Football Tournament (SAFF) and promised to cooperate with the development of the infrastructure required for football.
-
-The Sri Lanka Football Federation (FFSL), which has improved in Sri Lanka for the past few months, has now formed a strong national team with Sri Lankan players playing in professional competitions in various countries of the world.
-
-The president was photographed with the players with the players. At this time, Jaswar Umar, president of the Sri Lanka Football Federation, presented a souvenir.
-
-Sri Lanka National Football Team Endi Morrisonan also attended the event.
-
-◼️
-
-[Data](articles/d86a8b67.json)
-
-[Extended Data](ext_articles/d86a8b67.ext.json)
 
 ---

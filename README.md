@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 08:33:52**
+As of **2024-03-29 08:50:59**
 
 ## Newspaper Stats
 
-*Scraped **15,844** Articles*
+*Scraped **15,848** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,57 @@ dailyftlk | 860
 economynextcom | 869
 islandlk | 879
 adalk | 1,339
-adaderanalk | 1,897
+adaderanalk | 1,899
 tamilmirrorlk | 1,899
 virakesarilk | 2,242
-dailymirrorlk | 2,445
-adaderanasinhalalk | 2,545
+dailymirrorlk | 2,446
+adaderanasinhalalk | 2,546
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,843 (100.0%) of 15,844 articles have been extended.
+15,844 (100.0%) of 15,848 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### SLPP heading for split
+
+*2024-03-29 08:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-heading-for-split/108-279817) · `en`
+
+Colombo, March 29 (Daily Mirror) - Sri Lanka Podujana Peramuna (SLPP) is heading for a split with one section insisting on fielding its candidate at the presidential election and the other advocating support for the candidacy of President Ranil Wickremesinghe, Daily Mirror learns.
+
+The SLPP faction which is loyal to the Rajapaksa family has firmed up its position that the party should participate in the election by fielding its candidate. When the party’s executive committee met, such an idea emerged, but further discussion did not take place on the matter since the election has not yet been declared.
+
+However, the party’s MPs who currently hold positions in the government openly back the candidacy of the President.
+
+...
+
+[Data](articles/f0a4c619.json)
+
+---
+
+### South Africa bus crash kills 45 Easter pilgrims; 8-year-old survives
+
+*2024-03-29 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98276/south-africa-bus-crash-kills-45-easter-pilgrims-8-year-old-survives) · `en`
+
+A tragic crash involving a passenger bus in Limpopo, South Africa has left 45 people dead and one person seriously injured, the country’s Department of Transport said in a statement on Thursday (28).
+
+The bus had been transporting a group of Easter pilgrims from Botswana, a landlocked country in southern Africa, to Moria, a town in Limpopo.
+
+According to the department’s statement, the driver lost control and collided with barriers on a bridge near Mamatlakala, causing the bus to go over the bridge and hit the ground, catching fire.
+
+Only an 8-year-old survived the crash and was receiving medical attention at a nearby hospital, Limpopo’s Department of Transport and Community Safety said in a separate statement.
+
+Some bodies were burned beyond recognition and others were trapped inside the debris or scattered on the scene, the provincial department said further.
+
+...
+
+[Data](articles/b11b1d07.json)
+
+---
 
 ### 100mm of rain today
 
@@ -49,6 +85,22 @@ According to the southern province, some of the districts of Ampara and Moneraga
 [Data](articles/a5bd4242.json)
 
 [Extended Data](ext_articles/a5bd4242.ext.json)
+
+---
+
+### HIV ආසාදිතයින් වාර්තාවීම ඉහළ ගිහින්
+
+*2024-03-29 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195058) · `si`
+
+පසුගිය වසරට සාපේක්ෂව මෙරට තුළ HIV ආසාදිතයින් වාර්තා වීමේ ප්‍රතිශතයේ යම් ඉහළ යාමක් නිරීක්ෂණය වන බව ශ්‍රී ලංකා ජාතික ලිංගාශ්‍රිත රෝග හා ඒඩ්ස් මර්දන වැඩසටහනේ අධ්‍යක්ෂ ප්‍රජා සෞඛ්‍ය විශේෂඥ වෛද්‍ය ජානකී විදානපතිරණ මහත්මිය පවසන්නීය.
+
+ලිංගිකව සක්‍රීය වයසේ පසුවන අවුරුදු 20ත් 30ත් අතර වයස් කණ්ඩයේ පසුවන පිරිස් ඊට ගොදුරු වීමේ අවදානම ඉහළ ගොස් ඇති බව ඇය ප්‍රකාශ කළාය.
+
+කොළඹ පැවැති මාධ්‍ය හමුවකට එක්වෙමින් විශේෂඥ වෛද්‍ය ජානකී විදානපතිරණ මහත්මිය මේ බව සඳහන් කළාය.
+
+◼️
+
+[Data](articles/bed03932.json)
 
 ---
 
@@ -215,6 +267,24 @@ The public requests the public to take steps to reduce the damages caused by tem
 [Data](articles/9f50540d.json)
 
 [Extended Data](ext_articles/9f50540d.ext.json)
+
+---
+
+### Evening thundershowers expected in several provinces including Western
+
+*2024-03-29 06:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98275/evening-thundershowers-expected-in-several-provinces-including-western) · `en`
+
+The Meteorology Department says Showers or thundershowers can be expected in parts of Western, Southern, Sabaragamuwa, Central, Uva and North-western provinces after 2.00 p.m. on Friday (29).
+
+Fairly heavy showers above 50mm are likely at some places in Sabaragamuwa and Western provinces and Galle and Matara districts.
+
+Misty conditions can be expected in Central, Sabaragamuwa, Uva and Western provinces and Galle and Matara districts in the morning.
+
+The members of the public are advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/b7b771aa.json)
 
 ---
 
@@ -544,21 +614,29 @@ The contribution of inflation by food commodities was 1.19 percent while the con
 
 ---
 
-### ආර්ථික අර්බුදය මැද හැමෝම ඉගෙන ගන්න රට යන්නේ කොහොම ද?
+### How does everyone learn the country in the face of the economic crisis?
 
 *2024-03-29 02:09:27* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7205xkkj0jo) · `si`
 
-"ලංකාවට ඇවිල්ලා තේරුමක් තියෙනවාද කියන ප්‍රශ්නේ තියෙනවා, රටේ තියෙන ආර්ථික, දේශපාලන ප්‍රශ්න එක්ක රට ගොඩ යයිද කියන ප්‍රශ්නේ තියෙනවා. ඒක නිසා මෙහේ සෙටල් වෙන්න තමයි බලන්නේ.”
+Sri Lankans face economic crisis by seeking foreign education, residency, or citizenship. Many use brokers for visas, with some offering cashback schemes. Despite challenges, some manage to secure higher education abroad.
 
-හිරුණි විදේශගත වුයේ ඇයගේ උසස් අධ්‍යාපනය සඳහා පමණක්ම නොවේ. මෙරට තුළ යහපත් අනාගතයක් නැතැයි සිතන ඇයගේ තවත් එක් අරමුණක් වන්නේ විදෙස් රටක ස්ථිර පදිංචිය හෝ පුරවැසි භාවය ලබා ගැනීම ය.
+🟩
 
-අපගේ කතා නායිකාව ඇය වන අතර ඇය මෙන්ම බොහෝ දෙනෙකු උසස් අධ්‍යාපනයට යැයි පවසා විදේශ ගතවී ඇත.තවත් බොහෝ දෙනෙකු කෙසේ හෝ විදේශ රටකට යාමට අපේක්ෂාවෙන් පසුවෙයි.
+"There is question that Sri Lanka's coming to Sri Lanka and explain whether the country will land with the economic and political issues of the country. So it's been to be a castle. "
 
-ශ්‍රී ලංකාව දැඩි ආර්ථික අර්බුදයක ගිලි තිබෙන අවස්ථාවක විදෙස් ගතවීමට ඒ සෑම දෙනා අතේම මුදල් තිබේ ද? ඒ සඳහා ඔවුන් කරන්නේ කුමක් ද? මේ බීබීසී සිංහල ඒ පිළිබඳව කළ සොයා බැලිමකි.
+Hirunu gone abroad not only for her higher education. One other purpose in Sri Lanka has no good future is a foreign residency or citizenship of a foreign country.
+
+She is our speech and many have been abroad as many as many people, claiming to be available to higher education.
+
+Is there any money on the occasion to take Sri Lanka in a severe economic crisis?What are they doing for it?This BBC is looking into the matter.
+
+"I went to go to Finland first, but the money was not a problem and did not have visas. Then I was working to come to England. Disoberese that they really have a big rot, but there was no money. It was then that I left the job. It was the work of Shaw of Shaw, all the work was done through it. "
 
 ...
 
 [Data](articles/256b4afc.json)
+
+[Extended Data](ext_articles/256b4afc.ext.json)
 
 ---
 
@@ -2195,93 +2273,5 @@ It has not been reported that humans have been infected in Thailand since 2001.
 [Data](articles/33b963d2.json)
 
 [Extended Data](ext_articles/33b963d2.ext.json)
-
----
-
-### “Reduced tax is not to increase imports”
-
-*2024-03-28 16:08:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரி-குறைக்கப்பட்டது-இறக்குமதியை-அதிகரிக்க-அல்ல/175-335313) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya reduced tax on special rice products to clear trapped rice in customs, not to encourage imports. This move was to control rising prices and scarcity, with a stockpile of Keeri Samba imported in January. The tax reduction is temporary, lasting a week, to facilitate importers.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya today said that the special products on rice have been reduced to remove the rice that is currently being trapped in the customs, not to allow rice imports.
-
-He told reporters that a stockpile of Keeri Samba was imported in January to control the rising prices and scarcity in the market and that a portion of the imported rice was delayed.
-
-The tax on special products on rice has been reduced from 65 rupees to Rs.. The rice presence will be convenient for importers for a week for a week.
-
-"This action does not lead to importing new rice stockings because the reduction will only be in force for a week. Importers should remove the rice stockpile in the customs within a week, ”he said.
-
-◼️
-
-[Data](articles/02c35dc3.json)
-
-[Extended Data](ext_articles/02c35dc3.ext.json)
-
----
-
-### IGP gave the solution to the grievance of the police officer
-
-*2024-03-28 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195032) · `si`
-
-IGP Tennakoon resolved a police officer's grievance by transferring her to Mahawa Division, where she and her husband live. However, the IGP faced accusations from senior officials over the officer's grievances.
-
-🟩
-
-IGP Deshabandu Tennakoon has been appointed to a grievance of a female police officer attached to the Ambanpola Police Station.
-
-The husband of the relevant officer had directed a grievance to report the difficulty at the IGP.
-
-The IGP has immediately implemented the police and has been transferred to the Mahawa Police Division to the Mahawa Police Division.
-
-The officer is residing in the Mahawa Division and the Mahawa Police Division with the husband and the husband is living in the Mahawa Police Division.
-
-However, the Inspector General of Police (IGP) has been accused to senior officials in charge of the officer and the relevant area regarding the suffering of the officer's grievances.
-
-◼️
-
-[Data](articles/0a6bba75.json)
-
-[Extended Data](ext_articles/0a6bba75.ext.json)
-
----
-
-### CAA to withdraw gazette banning shops from charging for polythene bags
-
-*2024-03-28 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98266/caa-to-withdraw-gazette-banning-shops-from-charging-for-polythene-bags) · `en`
-
-The Attorney General informed the Supreme Court today that the Consumer Affairs Authority (CAA) will withdraw the gazette notification issued prohibiting supermarkets and shops from levying charges for polythene bags provided when purchasing goods.
-
-This was informed to the court by Deputy Solicitor General, Avanti Perera, who appeared on behalf of the Attorney General, when a fundamental rights petition filed by the Centre for Environmental Justice challenging the relevant gazette notification was taken up today (28).
-
-The FR petition was taken up before a three-member judge bench comprised of Justices S. Thurairaja, A.H.M.D Nawaz and Arjuna Obeysekera.
-
-In its petition, the Centre for Environmental Justice had stated that the plastic bags (shopping bags) provided by the stores to consumers when purchasing goods causes serious harm to the environment.
-
-...
-
-[Data](articles/23dc95b0.json)
-
-[Extended Data](ext_articles/23dc95b0.ext.json)
-
----
-
-### No suitable presidential candidate for SLPP now; Namal has another 5 to 10 years: Prasanna
-
-*2024-03-28 16:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-suitable-presidential-candidate-for-SLPP-now-Namal-has-another-5-to-10-years-Prasanna/108-279781) · `en`
-
-Colombo, March 28 (Daily Mirror)-  Claiming that the Sri Lanka Podujana Peramuna (SLPP) has no suitable Presidential candidate at the moment, Minister Prasanna Ranatunga said Namal Rajapaksa can contest for Presidency only after another five to ten years’ time.
-
-"My stance is that we need to go for a Presidential election first and Ranil Wickremesinghe, who can take up the challenges and who revived the economy, should win," he said.
-
-Minister Ranatunga told reporters in Colombo that he stressed the need to go for a Presidential election first as no one will be able to form a stable government after a parliamentary election which could lead to anarchy in the country similar to that in Pakistan.
-
-...
-
-[Data](articles/8fd1451f.json)
-
-[Extended Data](ext_articles/8fd1451f.ext.json)
 
 ---

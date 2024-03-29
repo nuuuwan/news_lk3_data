@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 19:50:37**
+As of **2024-03-29 20:03:06**
 
 ## Newspaper Stats
 
-*Scraped **15,944** Articles*
+*Scraped **15,946** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ islandlk | 879
 adalk | 1,342
 tamilmirrorlk | 1,907
 adaderanalk | 1,916
-virakesarilk | 2,263
+virakesarilk | 2,264
 dailymirrorlk | 2,460
-adaderanasinhalalk | 2,566
+adaderanasinhalalk | 2,567
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,943 (100.0%) of 15,944 articles have been extended.
+15,944 (100.0%) of 15,946 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### තහනම් කළ කුඩු නෝනිගේ දේපොළ
+
+*2024-03-29 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195082) · `si`
+
+වසර 30ක පමණ කාලයක සිට අහුංගල්ල ප්‍රදේශයේ  මත්ද්‍රව්‍ය ජාවාරමේ නිරත වූ බවට සැක කෙරෙන අනෝමා ශාන්ති නොහොත් කුඩු නෝනි නමැත්තියට අයත් රුපියල් ලක්ෂ 1,103කට අධික වටිනාකමකින් යුත් වාහන සහ දේපොළ රැසක් අද (29) තහනම් කෙරුණි.
+
+ගාල්ල ධීවර වරායේ නවතා තිබූ බහුදින ධීවර යාත්‍රා දෙකක් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසය විසින් තහනම් කර එයද සිය භාරයට ගනු ලැබීය.
+
+ඒ එම යාත්‍රා, වසර 30කට ආසන්න කාලයක් අහුංගල්ල ප්‍රදේශයේ මත්ද්‍රව්‍ය ජාවාරමේ නිරත වී ඇති බවට සැකකෙරෙන එම කාන්තාව මත්ද්‍රව්‍ය අලෙවියෙන් උපයාගත් මුදලින් මිලදීගත් ඒවා බව හෙළිවීමෙන් පසුව ය.
+
+ඇය එම යාත්‍රා සිය ඥාතීන්ගේ නමට මිලදී ගෙන ඇති බව පොලීසිය පවසයි.
+
+මෙම බහුදින ධීවර යාත්‍රා නිරීක්ෂණය කිරීම සඳහා පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ගාල්ල ධීවර වරාය වෙත අද පෙරවරුවේ පැමිණියේය.
+
+මේ අතර මෙම සැකකාරියට අයත් අහුංගල්ල ප්‍රදේශයේ පිහිටි නිවාස 03ක්, කඩ කාමරයක් හා ඉඩම් 05 ක් ද නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසය මගින් සිය භාරයට ගත් අතර එම දේපොළ නිරීක්ෂණයට ද පොලිස්පතිවරයා එක් විය.
+
+...
+
+[Data](articles/b9e81f43.json)
+
+---
+
+### தண்டனைச்சட்டக்கோவையின் 363, 364 ஆம் பிரிவுகளைத் திருத்துவதற்கான சட்ட மசோதா: தமது பரிந்துரைகளை உள்ளடக்கி மனித உரிமைகள் ஆணைக்குழு அமைச்சர் விஜயதாஸவுக்கு கடிதம்
+
+*2024-03-29 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179984) · `ta`
+
+அண்மையில் கடும் சர்ச்சைக்கு உள்ளாகியிருந்த தண்டனைச்சட்டக்கோவையின் 363 மற்றும் 364 ஆம் பிரிவுகளைத் திருத்துவதற்கான சட்ட மசோதா தொடர்பில் தமது அவதானிப்புக்கள் மற்றும் பரிந்துரைகளை இலங்கை மனித உரிமைகள் ஆணைக்குழு நீதியமைச்சர் விஜயதாஸ ராஜபக்ஷவுக்கு கடிதம் மூலம் தெரியப்படுத்தியுள்ளது.
+
+தண்டனைச்சட்டக்கோவையின் 363 மற்றும் 364 ஆம் பிரிவுகளைத் திருத்துவதற்கான சட்ட மசோதா குறித்து பல்வேறு தரப்பினராலும் கடும் எதிர்ப்பு வெளிப்படுத்தப்பட்டதையடுத்து, அச்சட்டமூலம் தொடர்பில் ஆலோசனை கலந்துரையாடல்களை முன்னெடுக்கவிருப்பதாக நீதியமைச்சர் விஜயதாஸ ராஜபக்ஷ அறிவித்துள்ளார்.
+
+...
+
+[Data](articles/f11cf9fa.json)
+
+---
 
 ### President Ranil advocates for keeping politics and sports separate
 
@@ -313,6 +349,8 @@ During this Ramadan festival, along with experiencing the vibrant culture and tr
 ◼️
 
 [Data](articles/940845d7.json)
+
+[Extended Data](ext_articles/940845d7.ext.json)
 
 ---
 
@@ -2265,51 +2303,5 @@ Accordingly, the contribution made by the Development Lottery Board to the Presi
 [Data](articles/73d51645.json)
 
 [Extended Data](ext_articles/73d51645.ext.json)
-
----
-
-### Heavy rains today
-
-*2024-03-29 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195054) · `si`
-
-Heavy rains today with showers or thundershowers in Western, Southern, Sabaragamuwa, Central, Uva, and Northwestern provinces. Heavy showers over 50mm in Galle and Matara. Public advised to prepare for strong winds and lightning.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Western, Southern, Sabaragamuwa and Central provinces since 2 pm today.
-
-In the Uva and Northwestern province of a few places. Showers or thundershowers will occur after 2.
-
-Heavy showers over 50 mm in the Galle and Matara districts and more than 50mm.
-
-In some places in the Galle, Sabaragamuwa, Uva and Western provinces, are expected to be methaved in the Galle and Matara districts.
-
-The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/9f50540d.json)
-
-[Extended Data](ext_articles/9f50540d.ext.json)
-
----
-
-### Evening thundershowers expected in several provinces including Western
-
-*2024-03-29 06:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98275/evening-thundershowers-expected-in-several-provinces-including-western) · `en`
-
-The Meteorology Department says Showers or thundershowers can be expected in parts of Western, Southern, Sabaragamuwa, Central, Uva and North-western provinces after 2.00 p.m. on Friday (29).
-
-Fairly heavy showers above 50mm are likely at some places in Sabaragamuwa and Western provinces and Galle and Matara districts.
-
-Misty conditions can be expected in Central, Sabaragamuwa, Uva and Western provinces and Galle and Matara districts in the morning.
-
-The members of the public are advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/b7b771aa.json)
-
-[Extended Data](ext_articles/b7b771aa.ext.json)
 
 ---

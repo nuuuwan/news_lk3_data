@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 12:03:45**
+As of **2024-03-29 12:18:08**
 
 ## Newspaper Stats
 
-*Scraped **15,883** Articles*
+*Scraped **15,887** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 169
 dbsjeyarajcom | 197
 newsfirstlk | 363
 dailyftlk | 862
-economynextcom | 871
+economynextcom | 872
 islandlk | 879
 adalk | 1,340
 tamilmirrorlk | 1,904
-adaderanalk | 1,905
-virakesarilk | 2,248
+adaderanalk | 1,906
+virakesarilk | 2,250
 dailymirrorlk | 2,451
 adaderanasinhalalk | 2,552
 
@@ -26,29 +26,105 @@ adaderanasinhalalk | 2,552
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,879 (100.0%) of 15,883 articles have been extended.
+15,883 (100.0%) of 15,887 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### හෙල්මටයත් අතහැර පැනගිය මහබාගේ වෙඩික්කරු
+### இரு மாணவர்கள் மின்சாரம் தாக்கி வைத்தியசாலையில் அனுமதி
+
+*2024-03-29 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/179955) · `ta`
+
+தெனியாய பிரதேச பாடசாலையொன்றில் வருடாந்த இல்ல விளையாட்டு போட்டிக்காக விளையாட்டு இல்லங்கள் தாயார் செய்வதற்காக மூங்கில் மரங்களை வெட்டச் சென்ற இரு மாணவர்களுக்கு மின்சாரம் தாக்கியுள்ளது.
+
+குறித்த விளையாட்டுப்போட்டி நேற்று வியாழக்கிழமை (28)  இடம்பெறவிருந்த நிலையில், இரவுவேளை பாடசாலை மைதானத்தின் அருகில் மூங்கில் மரங்களை வெட்டச் சென்ற போதே மின்சாரம் தாக்கியுள்ளது.
+
+மேலும், மூங்கில் மரங்களிற்கு அருகிலிருந்த  பாரிய மின்கடத்தியில் பொருத்தப்பட்டிருந்த அதிசக்தி வாய்ந்த மின் கம்பிகள் எரிந்ததன் காரணமாகவே மின்சாரம் தாக்கியுள்ளது.
+
+மின்சார தாக்கத்திற்குள்ளான மாணவர்கள் தெனியாய ஆரம்ப வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்தோடு, அவர்களில் ஒருவர் மாத்தறை வைத்தியசாலைக்கு மாற்றப்படவுள்ளார்.
+
+◼️
+
+[Data](articles/08297ae9.json)
+
+---
+
+### Sri Lanka needs to cultivate entreprenurial spirit in schools: Minister
+
+*2024-03-29 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-to-cultivate-entreprenurial-spirit-in-schools-minister-156538/) · `en`
+
+ECONOMYNEXT – Fostering an entrepreneurial environment within schools will nurture individuals to become successful entrepreneurs, Small and Medium Enterprises Development State Minister has said.
+
+“Cultivating an entrepreneurial atmosphere within schools greatly aids in fostering future entrepreneurs,” Prasanna Ranaweera said. “This initiative is pivotal in laying the foundation for a robust manufacturing economy within the country.”
+
+Ranaweera said that the Sri Lanka Institute of Textile and Apparel had recently awarded diploma course certificates to nearly 500 students.
+
+“Furthermore, in collaboration with the Industrial Development Board (IDB), we have successfully established school entrepreneurial circles and assessed the students’ potential.” (Colombo/Mar29/2024)
+
+◼️
+
+[Data](articles/9644ede4.json)
+
+---
+
+### கரையோர மார்க்கத்தில் ரயில் சேவை தாமதமடையும் - ரயில் திணைக்களம்
+
+*2024-03-29 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179960) · `ta`
+
+கரையோர மார்க்கத்தில் இன்று, நாளை மற்றும் நாளை மறுதினம் ரயில் சேவையில்  தாமதம் ஏற்படலாம் என ரயில் திணைக்களம் தெரிவித்துள்ளது.
+
+பம்பலப்பிட்டி புரயில் நிலையத்திற்கு அருகில் மேற்கொள்ளப்பட்டுவரும் திருத்தப் பணிகளே இதற்கு காரணம் என ரயில் பிரதிப் பொது முகாமையாளர் என்.ஜே.இந்திபோலகே தெரிவித்துள்ளார்.
+
+இதன் காரணமாக கொழும்பில் இருந்து வெள்ளவத்தை வரையான ரயில் போக்குவரத்து நடவடிக்கைகள் ஒரே வழியில் மேற்கொள்ளப்படவுள்ளதாகவும், சில சமயங்களில் ரயில் சேவைகள் இரத்து செய்ய நேரிடலாம் எனவும் பிரதி பொது முகாமையாளர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/689db6d8.json)
+
+---
+
+### Mahabage's shotgun that has led to Hellma
 
 *2024-03-29 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195065) · `si`
 
-ඊයේ මහබාගේ, මත්තුමගල ප්‍රදේශයේ නිවසකට T - 56 අවියකින් වෙඩි තැබීමට පැමිණි සැකකරුවන් හඳුනාගැනීම සඳහා පරීක්ෂණ සිදුකෙරෙන බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති, නීතිඥ නිහාල් තල්දුව මහතා පවසයි.
+In Mahabage, a man fought off a gunman on a motorbike, leading to a chase and the suspect's escape. Police are using CCTV to identify the shooter, who fled after the incident.
 
-යතුරුපැදියකින් අදාළ නිවසට පැමිණි තුවක්කුකරු සමග එම නිවසේ සිටි පුද්ගලයෙක් පොරබදා ඇති අතර එහිදී ගිනි අවියේ මැගසීනය බිම වැටී ඇති අතර තුවක්කුකරුගේ හිස් ආවරණය  ගැලවී ගොස් තිබුණි.
+🟩
 
-එහිදී කලබල වූ වෙඩික්කරු එම ස්ථානයෙන් කඳාන දෙසට පළාගොස් ඇති බව සඳහන් ය.
+Police Media Spokesperson DIG Thameda says that investigations are being conducted to identify the suspects to shoot at a house in Mahabage, Mahabage, Mahabage, Maturagala.
 
-ප්‍රදේශයේ සවිකර ඇති CCTV දර්ශන භාවිතයෙන් සැකකරුවන් හඳුනා ගැනීමට කටයුතු කරන බවත් නීතිඥ නිහාල් තල්දුව මහතා පැවසීය.
+A man was struggled with a gunman from a motorbike with the gunman and the bridge of the firearm had fallen to the ground and the gunman's head cover was raped.
 
-එසේම තුවක්කුකරු සමග පොරබැදූ පුද්ගලයා සාමකාමී පුද්ගලයෙක් බවත් වෙඩික්කරුවන් වෙනත් පුද්ගලයෙක් සොයා පැමිණෙන්නට ඇතැයි පොලීසිය අනුමාන කරන බව ඔහු කීය.
+The upset shooter said that the shooter had fled the center from the area.
+
+Attorney official said, Attorney-Nihal Talduwa said that the suspects would be identified using CCTV scenes in the area.
+
+The police also guess that the person who struggled with the gunman has been peacemakers and shotters have come to find another person.
 
 ◼️
 
 [Data](articles/3fe5c4d4.json)
+
+[Extended Data](ext_articles/3fe5c4d4.ext.json)
+
+---
+
+### Special Commodity Levy Act to be suspended from Jan. 2025
+
+*2024-03-29 11:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98282/special-commodity-levy-act-to-be-suspended-from-jan-2025) · `en`
+
+The Cabinet of Ministers has accepted the proposal to suspend the Special Commodity Levy Act from 01 January 2025, says Finance State Minister Ranjith Siyambalapitiya.
+
+Speaking to the media in Ruwanwella on Friday morning (29), the lawmaker said the government intends to introduce new legislation aimed at safeguarding both consumers and local manufacturers.
+
+At its meeting held on Monday (25), the Cabinet of Ministers gave the nod to instruct the Legal Draftsman to prepare a Draft Bill to suspend the Special Commodity Levy Act, No. 48 of 2007 as the government has identified the need to suspend the legislation due to the various challenges encountered during its implementation.
+
+Under the Special Commodity Levy Act, a tax is imposed on a total of 64 commodities categorized under 210 HS Codes to facilitate the importation of these goods.
+
+◼️
+
+[Data](articles/4427023c.json)
 
 ---
 
@@ -92,23 +168,29 @@ However, the train operations on the Coastal Line will be restored after Sunday 
 
 ---
 
-### இஸ்ரேலின் தாக்குதலில் 36 சிரிய இராணுவத்தினர் பலி
+### 36 Syrian soldiers killed in Israel's attack
 
 *2024-03-29 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179958) · `ta`
 
-சிரியாவின் அலேப்போ மாகாணத்தில் இஸ்ரேல் இன்று நடத்திய வான்வழித் தாக்குதலில் சிரிய சிப்பாய்கள்  36 பேர் உயிரிழந்துள்ளனர் என போர் கண்காணிப்பாளர்கள் தெரிவித்துள்ளனர்.
+36 Syrian soldiers killed in Israel's attack near Aleppo's Hizbullah rocket weapon. British Syrian Watch for Human Rights reported. The incident occurred near Aleppo International Airport, causing civilian and military casualties.
 
-ஹிஸ்புல்லா இயக்கத்தின் ரொக்கெட் ஆயுதக்களஞ்சியம் ஒன்று அமைக்கப்பட்டுள்ள பகுதிக்கு அருகில் இத்தாக்குதல் நடத்தப்பட்டதாக பிரிட்டனைத் தளமாகக் கொண்ட, மனித உரிமைகளுக்கான சிரிய கண்காணிப்பகம் எனும் அமைப்பு தெரிவித்துள்ளது.
+🟩
 
-இச்சம்பவத்தில் குறைந்தபட்சம் 36 சிப்பாய்கள் பலியாகினர் எனவும் டசின் கணக்கானோர் காயமடைந்துள்ளனர் எனவும் அவ்வமைப்பு தெரிவித்துள்ளது.
+36 Syrian soldiers have been killed in the Airbow province of Aleppo, Syria.
 
-தாக்குதல் நடைபெற்ற பகுதியானது அலேப்போ சர்வதேச விமான நிலையத்துக்கு அருகில் அமைந்துள்ளதாகவும் அவ்வமைப்பு தெரிவித்துள்ளது.
+The British -based Syrian Watch for Human Rights said the attack was carried out near the Hizbullah movement's rocket weapon.
 
-இதேவேளை, இன்று அதிகாலை இஸ்ரேலிய எதிரி நடத்திய தாக்குதலில்  பொதுமக்களும் இராணுவத்தினரும் உயிரிழந்தனர் எனவும் பலர் காயமடைந்துள்ளனர் எனவும் சிரிய இராணுவ வட்டாரமொன்று தெரிவித்துள்ளது.
+At least 36 soldiers were killed in the incident and dozin were injured.
+
+The area said that the area was located near the Aleppo International Airport.
+
+Meanwhile, Syrian military sources said that civilians and military were killed and many were injured in an Israeli enemy attack this morning.
 
 ◼️
 
 [Data](articles/c5c4371b.json)
+
+[Extended Data](ext_articles/c5c4371b.ext.json)
 
 ---
 
@@ -1758,6 +1840,8 @@ Despite "protestations of sorrow" about customer losses, Judge Kaplan said, Bank
 
 [Data](articles/289f3d5a.json)
 
+[Extended Data](ext_articles/289f3d5a.ext.json)
+
 ---
 
 ### The bodies of the hidden children of the Oya to homes
@@ -2129,103 +2213,5 @@ Shakib, who had been suffering from an eye problem and initially opted out of th
 [Data](articles/30eeb3c8.json)
 
 [Extended Data](ext_articles/30eeb3c8.ext.json)
-
----
-
-### Maithri's court order in connection with the Easter attack incident
-
-*2024-03-28 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/179933) · `ta`
-
-Maithripala Sirisena ordered to make a statement on April 4 by the Magistrate's Court, following the CID's directive from the Attorney General, regarding the Easter attack.
-
-🟩
-
-Former President Maithripala Sirisena had made a statement to the Criminal Investigation Department regarding the Easter attack.
-
-The Magistrate's Court on Thursday (28) ordered the former President Maithripala Sirisena to make a statement on April 4.
-
-The order was issued after the Criminal Investigation Department (CID) issued a statement on Thursday (28) on the directive of the Attorney General.
-
-◼️
-
-[Data](articles/2a258d49.json)
-
-[Extended Data](ext_articles/2a258d49.ext.json)
-
----
-
-### Appeal against Gnanasara Thero
-
-*2024-03-28 19:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195046) · `si`
-
-Rev. Galagodaatte Gnanasara Thero was convicted for a 2016 statement, accused by former Governor Azad Sally and the CID. Sentenced to 4 years in prison and fined Rs. 50,000 per charge.
-
-🟩
-
-Ravana Balaya Organization Secretary General of the Rawana Palace Ven.
-
-Rev. Galagodaatte Gnanasara Thero was accused of a statement made by a statement in a 2016 briefing in the Kuragala Viharaya.
-
-It is the former Govern Governor Azad Sally and the complaints made to the CID and the IGP.
-
-Accordingly, the Attorney General filed indictments under Section 295 of the Penal Code.
-
-When the case was taken up today (28), the lawyer appearing on behalf of Gnanasara Thera said that the monk was made based on the atmosphere of the country.
-
-The High Court Judge Adaddan Paranati stated that this questionable statement could not be taken by the accused and that the accused was concluded.
-
-The judge also stated that the defendant monk had taken the responsibility of protecting a religious leader.
-
-Accordingly, the complaints made by the complaint against the defendant bhikkhum have proved beyond a reasonable doubt that Gnanasara Thera was convicted of both charges.
-
-...
-
-[Data](articles/4494f299.json)
-
-[Extended Data](ext_articles/4494f299.ext.json)
-
----
-
-### Hair -based prejudice: French MPs support
-
-*2024-03-28 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/179932) · `ta`
-
-French MPs voted to prohibit workplace hair discrimination, supporting a law that protects against prejudices based on hair, length, color, and hairstyle, with Olivier Serwa highlighting the impact on black women.
-
-🟩
-
-The House today voted under the French Parliament in favor of a Bill that prohibits discrimination of staff's hair and hairstyles based on hairstyles.
-
-Supporters of the law say that black women suffer from such prejudices.
-
-According to the law, Olivier Serwa said that it is a crime to discriminate against the nature of the hair, the length, the color of the hair and the hairdresser in the workplace.
-
-Under the French parliament, the two voted in favor of the law in support of the law.
-
-◼️
-
-[Data](articles/212839d5.json)
-
-[Extended Data](ext_articles/212839d5.ext.json)
-
----
-
-### Easter attack claims: Maithripala ordered to make statement in court
-
-*2024-03-28 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98270/easter-attack-claims-maithripala-ordered-to-make-statement-in-court) · `en`
-
-The Maligakanda Magistrate’s Court has ordered former President Maithripala Sirisena to make a statement in court on 04 April on his recent comments over the Easter Sunday bomb attacks.
-
-The order was issued today (28) after the Criminal Investigation Department (CID) had reported the relevant facts to the court, on the instructions of the Attorney General.
-
-Sirisena had recorded a statement for around five-hours with the CID on Monday (05) over his recent comments regarding the Easter Sunday bomb attacks.
-
-The CID had summoned the former President in order to record a statement over the controversial statement he recently made on the Easter Sunday attacks, after Minister of Public Security Tiran Alles had instructed the IGP to carry out an investigation into Sirisena’s remarks.
-
-...
-
-[Data](articles/7922d864.json)
-
-[Extended Data](ext_articles/7922d864.ext.json)
 
 ---

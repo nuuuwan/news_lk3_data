@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 11:33:54**
+As of **2024-03-29 11:52:27**
 
 ## Newspaper Stats
 
-*Scraped **15,875** Articles*
+*Scraped **15,879** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ dailyftlk | 862
 economynextcom | 871
 islandlk | 879
 adalk | 1,340
-tamilmirrorlk | 1,902
-adaderanalk | 1,904
+tamilmirrorlk | 1,904
+adaderanalk | 1,905
 virakesarilk | 2,247
 dailymirrorlk | 2,450
-adaderanasinhalalk | 2,550
+adaderanasinhalalk | 2,551
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,873 (100.0%) of 15,875 articles have been extended.
+15,875 (100.0%) of 15,879 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### අපරාධ කල්ලිවලට අයත් තවත් 10ක් අත්අඩංගුවට
+
+*2024-03-29 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195064) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලිවලට අයත් තවත් සාමාජිකයින් 10 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+ඔවුන් සමග විවිධ සම්බන්ධතා පවත්වමින් අපරාධවලට සහාය වූ බවට සැක කෙරෙන පුද්ගලයන් 05 දෙනෙකු ද එහිදී පොලිස් භාරයට ගෙන ඇත.
+
+ඉකුත් 19 වනදා සිට මේ දක්වා සිදුකළ මෙහෙයුම්වලදී සැකකරුවන් හා සැකකාරියන් 186 දෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/0ccc54bf.json)
+
+---
+
+### Trains on Coastal Line facing delays until March 31
+
+*2024-03-29 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98281/trains-on-coastal-line-facing-delays-until-march-31) · `en`
+
+The railway operations on the Coastal Line are experiencing delays on Friday (29), Saturday (30) and Sunday (31), the Department of Railways said.
+
+The department attributed the delays to the railway operations being limited to a single track between Wellawatte and Colombo Fort railway stations due to a pipeline maintenance activity carried out by the Urban Development Authority (UDA).
+
+However, the train operations on the Coastal Line will be restored after Sunday night (31), according to the Department of Railways.
+
+◼️
+
+[Data](articles/1dfe17c9.json)
+
+---
+
+### நாடளாவிய ரீதியில் அதிகரிக்கப்பட்டுள்ள பாதுகாப்பு
+
+*2024-03-29 11:16:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-ரீதியில்-அதிகரிக்கப்பட்டுள்ள-பாதுகாப்பு/175-335340) · `ta`
+
+நாடளாவிய ரீதியில் உள்ள கத்தோலிக்க மற்றும் கிறிஸ்தவ தேவாலயங்களில் இன்று (29) பலத்த பாதுகாப்பு வழங்கப்பட்டுள்ளது.
+
+உலகளாவிய கத்தோலிக்க மற்றும் கிறிஸ்தவ மக்கள் இன்று, புனித வெள்ளியை அனுஸ்டிப்பதுடன் எதிர்வரும் ஞாயிற்றுக் கிழமை ஈஸ்டர் தினத்தை கொண்டாட உள்ளனர்.
+
+இந்த நிலையில், இலங்கையில் உள்ள கத்தோலிக்க மற்றும் கிறிஸ்தவ தேவாலயங்களுக்கு பலத்த பாதுகாப்பு வழங்குமாறு, காவல்துறை மா அதிபர் தேசபந்து தென்னக்கோன் பணிப்புரை விடுத்துள்ளார். R
+
+◼️
+
+[Data](articles/e3396b8b.json)
+
+---
 
 ### 31-year-old hacked to death with sharp weapons
 
@@ -47,6 +95,8 @@ Police have arrested a suspect in relation to the incident, Ada Derana reporter 
 ◼️
 
 [Data](articles/c41ed33e.json)
+
+[Extended Data](ext_articles/c41ed33e.ext.json)
 
 ---
 
@@ -109,6 +159,24 @@ Plenty of seconds have been added over the years. But after a long trend of slow
 [Data](articles/b7d0bc85.json)
 
 [Extended Data](ext_articles/b7d0bc85.ext.json)
+
+---
+
+### இன்று முதல் நாளை மறுநாள் வரை ரயில் தாமதம்
+
+*2024-03-29 10:46:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-நாளை-மறுநாள்-வரை-ரயில்-தாமதம்/175-335339) · `ta`
+
+இன்று (29) முதல் நாளை மறுநாள் (31) வரை கரையோரப் பாதையில் ரயில்களை இயக்குவதில் சிறிது தாமதம் ஏற்படக்கூடும் என ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+வெள்ளவத்தைக்கும் கோட்டைக்கும் இடையில் ரயில் சேவை ஒரு தண்டவாளத்துக்கு மட்டுப்படுத்தப்பட்டுள்ளதாக திணைக்களம் தெரிவித்துள்ளது.
+
+நகர அபிவிருத்தி அதிகார சபையினால் வெள்ளவத்தை மற்றும் பம்பலப்பிட்டி ரயில் நிலையங்களுக்கு இடையில் குழாய் ஒன்றின் பராமரிப்பு காரணமாக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+எவ்வாறாயினும், எதிர்வரும் ஞாயிற்றுக்கிழமை இரவுக்குப் பின்னர் ரயில் சேவை வழமைக்குத் திரும்பும் என ரயில் திணைக்களம் மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/c996bf5a.json)
 
 ---
 
@@ -2135,97 +2203,5 @@ The Criminal Investigation Department (CID) has issued this order since the CID 
 [Data](articles/0b51e698.json)
 
 [Extended Data](ext_articles/0b51e698.ext.json)
-
----
-
-### Interim to be extended against arrests arrest arrest
-
-*2024-03-28 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195044) · `si`
-
-The Court of Appeal extended an interim injunction against unjust arrests by police officers in Narurebeek Basshak, following a petition by Nadem Bashik. The petitioner alleges that the Maligakanda Magistrate reportedly issued an unfair arrest order without sufficient evidence.
-
-🟩
-
-The Court of Appeal today (28) ordered the interim injunction order issued by the Police Narurebeek Basshak.
-
-Court of Appeal Court Delivery Court as a Rad petition filed by Nadem Bashik to issue a order to issue a prevention of the police.. N. Mr. Samarakoon issued the order.
-
-The petitioner says that a group of police officers of the Police Naruree Bureau are preparing to be unjust.
-
-The petitioner said that the Maligakanda Magistrate had reportedly reported the court.
-
-He has presented the petition to issue an order to issue an order to issue an order unfair arrest without adequate evidence.
-
-◼️
-
-[Data](articles/65dfe477.json)
-
-[Extended Data](ext_articles/65dfe477.ext.json)
-
----
-
-### They were married
-
-*2024-03-28 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195043) · `si`
-
-Abby and Britain, twins from the body, are reportedly married in 2021, making them the most popular worldwide.
-
-🟩
-
-If Abby and Britain, the twins transplanted from the body were the most popular world.
-
-Foreign media has reportedly reported that abby and brittany has been married.
-
-These reports indicate that they had come to the 2021 to marry.
-
-◼️
-
-[Data](articles/b290afe9.json)
-
-[Extended Data](ext_articles/b290afe9.ext.json)
-
----
-
-### 10 of the student of the vaccine student admitted to the hospital;Incident in the field
-
-*2024-03-28 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179931) · `ta`
-
-10 students, aged 12-13, admitted to Nagoda hospital due to vaccine-related illnesses, including difficulty breathing.
-
-🟩
-
-Nagoda hospital sources say that 10 people have been admitted to the hospital due to illness after the vaccine.
-
-A group of students aged 12 and 13 are admitted, according to further reports.
-
-In addition, 10 students have been admitted to the hospital due to the difficulty of breathing and breathing students.
-
-◼️
-
-[Data](articles/339f3a19.json)
-
-[Extended Data](ext_articles/339f3a19.ext.json)
-
----
-
-### Re -explanation for Keheliya and others
-
-*2024-03-28 18:37:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கெஹலிய-உள்ளிட்டோருக்கு-மீண்டும்-விளக்கமறியல்/175-335315) · `ta`
-
-Keheliya Rambukwella and 8 others face charges of importing substandard drugs, detained until April 8th.
-
-🟩
-
-Nine suspects, including former health minister Keheliya Rambukwella, have been extended.
-
-Accordingly, everyone has been kept in detention until the 8th of April.
-
-It is noteworthy that they have been arrested on charges of importing substandard human immunoglobulin drugs. Remble
-
-◼️
-
-[Data](articles/5a888bc3.json)
-
-[Extended Data](ext_articles/5a888bc3.ext.json)
 
 ---

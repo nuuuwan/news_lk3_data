@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 15:18:04**
+As of **2024-03-29 15:33:32**
 
 ## Newspaper Stats
 
-*Scraped **15,913** Articles*
+*Scraped **15,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 874
 islandlk | 879
 adalk | 1,342
 tamilmirrorlk | 1,905
-adaderanalk | 1,910
+adaderanalk | 1,911
 virakesarilk | 2,256
-dailymirrorlk | 2,454
-adaderanasinhalalk | 2,559
+dailymirrorlk | 2,456
+adaderanasinhalalk | 2,560
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,913 (100.0%) of 15,913 articles have been extended.
+15,913 (100.0%) of 15,917 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### ටෙස්ලා ට අභියෝග කරන චීන මෝටර් රථය
+
+*2024-03-29 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195073) · `si`
+
+චීනයේ ශ්‍යව්මි සමාගම නිෂ්පාදනය කර ඇති විද්‍යුත් මෝටර් රථ සඳහා ඇණවුම් ලබාගැනීම ආරම්භ කර තිබේ.
+
+එම මෝටර් රථයේ SU7 නමැති මොඩලය ඩොලර් 29,872ක් (යුආන් 215,900) ලෙස මිල සඳහන් කර ඇත.
+
+ලෝක වෙළෙඳපොළෙහි විද්‍යුත් මෝටර් රථ සඳහා ඇති ඉල්ලුම පහත බසිමින් තිබෙන අවස්ථාවක ශ්‍යව්මි සමාගම සිය නිෂ්පාදනය වෙළෙඳපොළට නිකුත් කර ඇති බව විචාරකයෝ පවසති.
+
+එමගින් වෙළෙඳපොළ තුළ මිල සඳහා ඇති තරගය තවත් දැඩි වෙතැයි අනුමාන කෙරේ.
+
+ටෙස්ලා සමාගම චීන වෙළෙඳපොළට මෙම මොඩලය හා සමානම විද්‍යුත් මෝටර් රථයක් නිකුත් කර ඇති අතර එහි මිල යුආන් 245,000කි.
+
+◼️
+
+[Data](articles/d24c0e11.json)
+
+---
+
+### Tourist rescued after falling down Sri Pada precipice
+
+*2024-03-29 15:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-rescued-after-falling-down-Sri-Pada-precipice/108-279832) · `en`
+
+Ratnapura, March 29 (Daily Mirror)- An Indian tourist who fell down a more than 100 metre precipice at the Ehela Kanuwa, Ratnapura-Sri Pada route in the early hours of this morning was rescued by a team from the Maskeliya Police Special Task Force (STF) camp.
+
+Police said the tourist Bharath Chandradas (25) from Mumbai Maharastra had been trekking to Sri Pada along the Ratnapura route with several others when he fell off the protective fence down the precipice at about 5.00 am today.
+
+On information from the Udamaluwa police post, the STF rushed to the scene and rescued the tourist and provided first aid.
+
+Later, he was carried to Nallathanniya and from there admitted to hospital.
+
+PC 76216 Pathmasiri, PC 99695 Prathish and PC 102687 Ajith of the STF carried out the rescue operation.
+
+◼️
+
+[Data](articles/f3411249.json)
+
+---
 
 ### The struggle of clothing factory staff in Nuwara Eliya continues as the third day
 
@@ -53,6 +93,24 @@ Following more allowance at the garment factory. Kovit - 19 has not been paid on
 [Data](articles/39cfaa50.json)
 
 [Extended Data](ext_articles/39cfaa50.ext.json)
+
+---
+
+### Two inmates at A’pura open prison camp escape
+
+*2024-03-29 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98288/two-inmates-at-apura-open-prison-camp-escape) · `en`
+
+Two inmates held at the open Prison Camp in Anuradhapura have escaped the facility on Friday afternoon (29). According to sources, the duo had been working at the prison canteen open for visitors.
+
+Reportedly, the duo had discarded their prison uniforms and donned civilian clothing to escape.
+
+Anuradhapura police and prison officials have launched a joint operation to apprehend the two escapees.
+
+It is understood that one inmate was originally from Sravasthipura in Anuradhapura and the other, from Kelaniya.
+
+◼️
+
+[Data](articles/a01b4de4.json)
 
 ---
 
@@ -107,6 +165,24 @@ These have been seized by the police officers of the Investigation Unit of Polic
 [Data](articles/8dcefd3f.json)
 
 [Extended Data](ext_articles/8dcefd3f.ext.json)
+
+---
+
+### Police confiscate vehicles, property worth over Rs. 110 mn
+
+*2024-03-29 14:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-confiscate-vehicles-property-worth-over-Rs-110-mn/108-279829) · `en`
+
+Colombo, March 29 (Daily Mirror)- A fleet of vehicles and property worth over Rs. 110 million have been confiscated by the Police Illegal Assets and Property Investigation Unit today.
+
+Police said a freezer truck, two motorbikes, two three-wheelers, a van, a backhoe and three fishing trawlers are among the vehicles that were confiscated.
+
+The vehicles and property had been taken into custody on January 21, 26 and March 27.
+
+They were confiscated under Clause 7(01) of the Money Laundering Act.
+
+◼️
+
+[Data](articles/dde04983.json)
 
 ---
 
@@ -416,11 +492,11 @@ South Africa's parliamentary general election will be held on May 29.
 
 *2024-03-29 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98286/rs-100mn-worth-of-assets-owned-by-underworld-figures-confiscated) · `en`
 
-Assets worth more than Rs. 100 million – including multi-day fishing craft, three-wheelers, motorcycles and plots of land – owned by underworld figures have been confiscated.
+Assets worth more than Rs. 100 million – including multi-day fishing craft, three-wheelers, motorcycles and plots of land – owned by underworld figures have been confiscated, the police said.
 
-These assets were impounded by the ‘Illegal Assets and Properties Investigation Division’ of Sri Lanka Police in Galle, Ambalangoda, and Ahungalla, under the ongoing ‘Yukthiya’ operation.
+These assets were impounded by the Illegal Assets and Properties Investigation Division of Sri Lanka Police in Galle, Ambalangoda, and Ahungalla, under the ongoing ‘Yukthiya’ operation.
 
-Police launched the special island-wide operation in December 2023 to crack down on drug peddling and organized crimes in the country.
+This special island-wide operation was launched in December 2023 to crack down on drug peddling and organized crimes in the country.
 
 10. IMUL-A-0810-GLE fishing vessel under production – Rs. 5.2 million (paid for production)
 
@@ -2175,93 +2251,5 @@ Ryan Barak, who started the batting with relaxation, scored 26 runs off the firs
 [Data](articles/349e8c65.json)
 
 [Extended Data](ext_articles/349e8c65.ext.json)
-
----
-
-### Bribery and Corruption Investigation Commission
-
-*2024-03-29 00:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/179937) · `ta`
-
-The Bribery and Corruption Investigation Commission has initiated legal action against former Central Bank Governor Ajith Nivad Kabral for a Rs 1,843.3 million loss to the government due to a Treasury Underlier purchase, linked to a complaint by former parliamentarian Sujeewa Senasinghe. This case stems from the economic crisis Greece faced in 2012.
-
-🟩
-
-Legal action has been taken by the Bribery and Corruption Commission, including former Governor of the Central Bank of Sri Lanka, Ajith Nivad Kabral, for the loss of Rs 1,843.3 million to the government through the Treasury Undelier purchase.
-
-The Bribery and Corruption Investigation Commission said that he had filed a case in the Colombo High Court in connection with the complaint filed by former parliamentarian Sujeewa Senasinghe.
-
-This is based on the incident in which the Greece was in the face of the economic crisis in 2012.
-
-It is noteworthy that the government had suffered a loss of 1,843,267,595 rupees as a result of the purchase of treasury bundles distributed by Greece.
-
-◼️
-
-[Data](articles/9794cc08.json)
-
-[Extended Data](ext_articles/9794cc08.ext.json)
-
----
-
-### Basil Rajapaksa is not the Commissioner of Elections - Samara Sampath to decide the election
-
-*2024-03-29 00:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/179936) · `ta`
-
-Basil Rajapaksa isn't the Election Commissioner, deciding elections. Samara Sampath will. PA founder doesn't decide elections. Country recovers under President Ranil Wickremesinghe. A government led by him will be formed, with him as presidential candidate.
-
-🟩
-
-The founder of the PA is not the Election Commissioner of the Elections Commissioner, but he does not have to decide which elections to be held.
-
-He was speaking to the media after attending a function held in Colombo on Thursday (28).
-
-It must be acknowledged that the country has recovered under the leadership of President Ranil Wickremesinghe.
-
-We will create a government led by President Ranil Wickremesinghe. He will field him as the presidential candidate.
-
-Basil Rajapaksa is not the Commissioner of Elections to determine which elections should be held first.
-
-Former President Maithripala Sirisena has nothing to talk about.
-
-◼️
-
-[Data](articles/1b15f48e.json)
-
-[Extended Data](ext_articles/1b15f48e.ext.json)
-
----
-
-### Getting back to that peaceful Easter Sunday - EDITORIAL
-
-*2024-03-29 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Getting-back-to-that-peaceful-Easter-Sunday-EDITORIAL/172-279813) · `en`
-
-Easter Sunday is an important day in the Sri Lankan calendar as this day has become the talking point as never before due to the  2019 ‘Easter Sunday bombings’.
-
-Christians would never compare man’s sufferings with the agony Jesus went through on the cross. According to Rev. Frs. Sanjeewa Mendis and Sriyananda Fernando-who spoke on the meaning and message of Easter on ITN’s Pini Viyana programme on March 28-the message conveyed by the Son of God is to spread ‘love’ even during the toughest of times.
-
-Sri Lankan Christians also conveyed a similar and strong message when their kith and kin were brutally blown to pieces inside three churches chose to stay calm and collected as a community. They had forgiven the assailants, but demanded justice for the affected families. This calmness was preserved largely due to the instructions issued by the head of the Catholic Church, Malcolm Cardinal Ranjith.
-
-...
-
-[Data](articles/56102d10.json)
-
-[Extended Data](ext_articles/56102d10.ext.json)
-
----
-
-### Gaza genocide, ISIS and the tailpiece of Moscow terror
-
-*2024-03-29 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Gaza-genocide-ISIS-and-the-tailpiece-of-Moscow-terror/172-279812) · `en`
-
-An injured man is helped outside Ahli Arab Hospital in Gaza City: The United Nations says the Gaza Strip’s health system is collapsing. AFP
-
-The Moscow terror attack, conveniently claimed by the so-called Islamic State, a.k.a. ISIS, and the diplomatic circus at the United Nations Security Council on Tuesday in passing a Gaza ceasefire resolution may appear disconnected at first glance. But there is enough interconnection between the two tragedies.
-
-First, let’s discuss the ISIS connection. The Friday evening terror attack at the Crocus City Hall on the outskirts of Moscow has revealed the mercenary character of ISIS. Questions have always lingered about the Islamic credentials of ISIS since its birth from the ashes of Abu Musab al-Zarqawi’s Al-Qaeda in Iraq (AQI) in 2011.
-
-...
-
-[Data](articles/987230e0.json)
-
-[Extended Data](ext_articles/987230e0.ext.json)
 
 ---

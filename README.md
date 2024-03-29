@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 21:33:26**
+As of **2024-03-29 21:52:40**
 
 ## Newspaper Stats
 
-*Scraped **15,953** Articles*
+*Scraped **15,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,98 @@ economynextcom | 877
 islandlk | 879
 adalk | 1,342
 tamilmirrorlk | 1,907
-adaderanalk | 1,916
+adaderanalk | 1,917
 virakesarilk | 2,265
-dailymirrorlk | 2,464
+dailymirrorlk | 2,466
 adaderanasinhalalk | 2,569
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,949 (100.0%) of 15,953 articles have been extended.
+15,953 (100.0%) of 15,956 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### බංගලි මාධ්‍යයට ධනංජයගෙන් සැර පිළිතුරක්
+### Confident SL eye series win over Bangladesh
+
+*2024-03-29 21:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Confident-SL-eye-series-win-over-Bangladesh/108-279839) · `en`
+
+Colombo, Mar. 29 (Daily Mirror) - After convincingly defeating Bangladesh in the first Test, Sri Lanka will be determined to clinch victory in the two-Test series when the two teams clash in the second Test starting at Chattogram tomorrow.
+
+Sri Lanka currently leads the series 1-0 following their impressive 328-run win in the first Test in Sylhet.
+
+The standout performers for Sri Lanka were Skipper Dhananjaya de Silva and batter Kamindu Mendis, who played pivotal roles in clinching victory with their exceptional centuries.
+
+Both players scored 102 runs each in the first innings and went on to achieve scores of 108 and 164 in the second innings.
+
+However, Sri Lanka faced a setback ahead of the second and final Test as Kasun Rajitha was sidelined due to an upper back injury, forcing him to return home for rehabilitation.
+
+...
+
+[Data](articles/78643a35.json)
+
+---
+
+### Philippines’ Catholic devotees nailed to crosses to re-enact crucifixion
+
+*2024-03-29 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98294/philippines-catholic-devotees-nailed-to-crosses-to-re-enact-crucifixion) · `en`
+
+Catholic devotees were nailed to crosses in sweltering heat north of the Philippines capital Manila on Good Friday in a re-enactment of Jesus Christ’s crucifixion.
+
+Around 20,000 Filipino and foreign tourists flocked to San Pedro Cutud village in Pampanga province to witness this annual display of devotion, which the Roman Catholic Church in the Philippines frowns upon.
+
+Actors dressed as Roman soldiers whipped devotees carrying crosses and hammered three-inch nails through the hands and feet of three people led by Ruben Enaje, 63, who was crucified for the 35th time.
+
+“While I was walking, all I was thinking about was how Jesus felt while he was carrying his cross up until he was crucified,” Enaje told reporters. “I can’t tell for how long I can do this since my body is also getting old.”
+
+Seven more Filipinos were nailed to crosses in other villages in Pampanga.
+
+...
+
+[Data](articles/e28a2da1.json)
+
+---
+
+### Single-track operations on coastal line between Colombo Fort and Wellawatta till Sunday
+
+*2024-03-29 21:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Single-track-operations-on-coastal-line-between-Colombo-Fort-and-Wellawatta-till-Sunday/108-279844) · `en`
+
+Colombo, March  29 (Daily Mirror) - The train operations on the coastal line will run on a single track between Colombo Fort and Wellawatta railway stations until Sunday (31), the Railways Department said.
+
+They said the decision was taken due to the development work to be carried out by the Colombo Municipal Council near the Bambalapitiya railway station.
+
+Accordingly, arrangements have been made to cancel several train services on these days, and some trains will be delayed, the department said.
+
+◼️
+
+[Data](articles/398d1465.json)
+
+---
+
+### Dhananjaya is a harsh reputation for Bangali media
 
 *2024-03-29 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195083) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර දෙවන සහ අවසන් ටෙස්ට් ක්‍රිකට් තරගය චැටොග්‍රෑම් හිදි හෙට (30)ආරම්භ වීමට නියමිතය.
+Dhananjaya criticizes Bangladesh's media. Sri Lanka leads in the Test series, with the second match starting tomorrow. Shakub Allaya returns to Bangladesh.
 
-තරග 2කින් සමන්විත මෙම තරගාවලියේ 1ට බින්දුවක් ලෙස ශ්‍රී ලංකා කණ්ඩායම පෙරමුණ ගෙන සිටින්නේ පළමු ටෙස්ට් තරගය ලකුණු 328 ක විශිෂ්ට ජයක් හිමිකරගනිමින්.
+🟩
 
-දෙවන ටෙස්ට් තරගය සඳහා ශකීබ් අල්හසන් යළි බංග්ලාදේශය පිලට කැඳවීම සම්බන්ධයෙන් අද (29) පැවැති ප්‍රවෘත්ති සාකච්ඡාවේදී මාධ්‍යවේදියෙකු නැගූ ප්‍රශ්නයකට ධනංජය ද සිල්වා ලබාදුන්නේ මෙවන් පිළිතුරකි.
+The second and last Test match between the Sri Lanka Tourism and Bangladesh will commence tomorrow (30).
 
-ධනංජය ද සිල්වා - "මම මොකටද කියන්නේ? එයා මගේ කණ්ඩායමේ නෙමෙයි. බංග්ලාදේශ කණ්ඩායමෙන් තමයි අහන්න ඕනේ."
+The Sri Lanka team takes the lead in the first Test win by 328 runs.
+
+Shakub also offered that Shakub Allaya today for the second Test crowd to be brought back to Bangladesh today (29).
+
+Dhananjaya De Silva - "Why do I say? He's not my team. The Bangladesh team should ask. "
 
 ◼️
 
 [Data](articles/5d3d4f48.json)
+
+[Extended Data](ext_articles/5d3d4f48.ext.json)
 
 ---
 
@@ -54,7 +116,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-03-29 21:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ven-Gnanasara-Thera-admitted-to-Prison-Hospital/108-279843) · `en`
 
-Colombo, March 29 (Daily Mirror) - Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thera who was sentenced to four years of rigorous imprisonment has been admitted to the Prison Hospital, Prisons Spokesman Gamini Dissanayake said.
+Colombo, March 29 (Daily Mirror) - Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thera who was sentenced to four years of rigorous imprisonment, has been admitted to the Prison Hospital, Prisons Spokesman Gamini Dissanayake said.
 
 The Colombo High Court Judge Aditya Patabendige handed down the sentence on Thursday (March 28), following Ven. Gnanasara Thera's defamatory comments against Islam made in late 2016.
 
@@ -63,6 +125,8 @@ It was reported that Ven. Gnanasara Thera had been undergoing medical treatment 
 ◼️
 
 [Data](articles/fc8e22bc.json)
+
+[Extended Data](ext_articles/fc8e22bc.ext.json)
 
 ---
 
@@ -342,6 +406,8 @@ Security has been beefed up at all churches in view of Good Friday and Easter Su
 
 [Data](articles/560c380f.json)
 
+[Extended Data](ext_articles/560c380f.ext.json)
+
 ---
 
 ### Gnanasara Thera suddenly admitted to the Prison Hospital
@@ -617,6 +683,8 @@ Hardik Pandya received a hostile reception from the crowd in Ahmedabad and Hyder
 ...
 
 [Data](articles/50db6ab9.json)
+
+[Extended Data](ext_articles/50db6ab9.ext.json)
 
 ---
 
@@ -2241,69 +2309,5 @@ However, the party’s MPs who currently hold positions in the government openly
 [Data](articles/f0a4c619.json)
 
 [Extended Data](ext_articles/f0a4c619.ext.json)
-
----
-
-### South Africa bus crash kills 45 Easter pilgrims; 8-year-old survives
-
-*2024-03-29 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98276/south-africa-bus-crash-kills-45-easter-pilgrims-8-year-old-survives) · `en`
-
-A tragic crash involving a passenger bus in Limpopo, South Africa has left 45 people dead and one person seriously injured, the country’s Department of Transport said in a statement on Thursday (28).
-
-The bus had been transporting a group of Easter pilgrims from Botswana, a landlocked country in southern Africa, to Moria, a town in Limpopo.
-
-According to the department’s statement, the driver lost control and collided with barriers on a bridge near Mamatlakala, causing the bus to go over the bridge and hit the ground, catching fire.
-
-Only an 8-year-old survived the crash and was receiving medical attention at a nearby hospital, Limpopo’s Department of Transport and Community Safety said in a separate statement.
-
-Some bodies were burned beyond recognition and others were trapped inside the debris or scattered on the scene, the provincial department said further.
-
-...
-
-[Data](articles/b11b1d07.json)
-
-[Extended Data](ext_articles/b11b1d07.ext.json)
-
----
-
-### 100mm of rain today
-
-*2024-03-29 07:56:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-100-மில்லி-மீற்றர்-மழை/175-335334) · `ta`
-
-Heavy rainfall of 100mm expected in parts of the country today, especially in Ampara and Moneragala districts.
-
-🟩
-
-The Department of Meteorology has predicted heavy rainfall of 100 millimeters in some parts of the country today.
-
-According to the southern province, some of the districts of Ampara and Moneragala districts are expected to occur at 100 millimeters.. (A)
-
-◼️
-
-[Data](articles/a5bd4242.json)
-
-[Extended Data](ext_articles/a5bd4242.ext.json)
-
----
-
-### Reporting of HIV infected persons
-
-*2024-03-29 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195058) · `si`
-
-Dr. Janaki Vidanathirana, Director of the Sri Lanka Institute of STDs and AIDS, reported that HIV infection rates in Sri Lanka are being observed, with a notable increase in the risk among the 20-30 age group.
-
-🟩
-
-Community Dr. Janaki Vidanathirana, Director of the Sri Lanka Institute of STDs and AIDS Contradicates, says that the percentage of HIV infections will be observed in Sri Lanka compared to last year.
-
-She said that the risk of the age group of 20 to 30 years old, she had risen the risk of the victim.
-
-Specialist mediation Dr. Janaki Vidanathirana stated this while participating at a media briefing in Colombo.
-
-◼️
-
-[Data](articles/bed03932.json)
-
-[Extended Data](ext_articles/bed03932.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 20:18:02**
+As of **2024-03-29 20:33:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,568
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,946 (100.0%) of 15,947 articles have been extended.
+15,947 (100.0%) of 15,947 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -64,29 +64,35 @@ Meanwhile, an illegal asset converting division has also taken over a multi-day 
 
 ---
 
-### ප්‍රමිතියක් නැති ලංකාවේ බීච්
+### Beach in Sri Lanka without standard
 
 *2024-03-29 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195081) · `si`
 
-අපේ රට රමණීය හා ආකර්ෂණීය වෙරළ තීරයකින් සමන්විත වුණත්, ඒ කිසිදු වෙරළක් ජාත්‍යන්තර ප්‍රමිතීන් සපුරා නොමැති බව අනාවරණ වේ.
+Sri Lanka's beaches lack Blue Flag certification, despite 51 countries having it. The Blue Flag program, monitored by 77 countries, aims to improve coastal standards. Sri Lanka's beaches, including those in the Indian Ocean, have not met these standards. The program includes displaying water quality, local ecosystems, and safety measures. Despite criticism, some beaches are adapting to Blue Flag standards.
 
-කෙසේවෙතත් අසල්වැසි ඉන්දියාව ඇතුළු රටවල් 51ක් මේ වනවිටත් වෙරළ ප්‍රමිතියට අදාළ ජාත්‍යන්තර බ්ලූ ෆ්ලෑග් සහතිකය ලබාගෙන අවසන්ය.
+🟩
 
-සංචාරකයින් නිරන්තරයෙන් ගැවසෙන වෙරළ තීර ප්‍රමිතියෙන් යුතුව පවත්වාගෙන යාම "පාරිසරික අධ්‍යාපනය සඳහා පදනමට'' අනුව රීතියකි.
+Although our country has a beautiful and attractive beaches, it is revealed that no coast will have met any coast.
 
-රටවල් 77ක් සාමාජිකත්වය දරන එම පදනම ලොවපුරා වෙරළ තීරයන්හි ප්‍රමිතිය සම්බන්ධයෙන් බ්ලූ ෆ්ලෑග් සහතිකකරණය සඳහා අධීක්ෂණය කරයි.
+However, 51 countries, however, have already received the international Blue Flag certificate related to the coastal standard.
 
-ඒ යටතේ ලොව රටවල් 51ක වෙරළ තීර සහ මරීනා 5,038ක් මේ වනවිට බ්ලූ ෆ්ලෑග් සහතිකය ලබාගෙන අවසන්ය.
+Traveling coastal standards is a rule according to the "foundation for environmental education".
 
-ඒ අතුරින් අසල්වැසි ඉන්දියාව සතු බ්ලූ ෆ්ලෑග් සහතික ලත් වෙරළ තීර ගණන 17කි.
+The base of 77 countries is a member monitors to Blue Flag certification regarding the standard of coastal roots world.
 
-කෙසේවෙතත් ඉන්දියන් සාගරයෙන් වටවූ ශ්‍රී ලංකාවේ කිසිදු වෙරළ තීරයක් මෙතෙක් බ්ලූ ෆ්ලෑග් සහතිකය ලබාගැනීමට තරම් ප්‍රමිතියකට ළඟාවී නැහැ.
+The Blue Flag certificate has been obtained from 51 countries and 5,038 marina.
 
-ඒ අනුව බ්ලූ ෆ්ලෑග් වැඩසටහන පිළිබඳ තොරතුරු ප්‍රදර්ශනය කළ යුතු අතර වෙරළේ පිරිසිදුකම පවත්වාගෙන යාම අනිවාර්ය අංගයකි.
+The neighboring India's Blue Flag Certified Beachs have 17.
+
+However, no coastal in Sri Lanka surrounded by the Indian Ocean, no beach has ever reached a standard to obtain the Blue Flag certificate.
+
+Accordingly, the information on the Blue Flag program should be displayed and the beach is an integral part of the beach.
 
 ...
 
 [Data](articles/7123b0a2.json)
+
+[Extended Data](ext_articles/7123b0a2.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 22:18:14**
+As of **2024-03-29 22:33:28**
 
 ## Newspaper Stats
 
-*Scraped **15,958** Articles*
+*Scraped **15,961** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 862
 economynextcom | 877
 islandlk | 879
 adalk | 1,342
-tamilmirrorlk | 1,907
-adaderanalk | 1,917
-virakesarilk | 2,266
+tamilmirrorlk | 1,908
+adaderanalk | 1,918
+virakesarilk | 2,267
 dailymirrorlk | 2,466
 adaderanasinhalalk | 2,570
 
@@ -26,31 +26,73 @@ adaderanasinhalalk | 2,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,957 (100.0%) of 15,958 articles have been extended.
+15,958 (100.0%) of 15,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### යුක්තියේ අවසානය ගැන පොලිස්පතිගෙන් ප්‍රකාශයක්
+### சிவனொளிபாத மலையிலிருந்து விழுந்த இந்தியர்
+
+*2024-03-29 22:16:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவனொளிபாத-மலையிலிருந்து-விழுந்த-இந்தியர்/175-335356) · `ta`
+
+சிவனொளிபாத மலைக்கு சென்ற இந்திய சுற்றுலாப் பயணி ஒருவர் பள்ளத்தாக்கில் விழுந்த நிலையில் மீட்கப்பட்டுள்ளார்.
+
+மும்பையிலிருந்து வருகை தந்த 25 வயதுடைய சுற்றுலாப் பயணி ஒருவரே இவ்வாறு விழுந்து கிடந்துள்ளார்.
+
+அவர் இரத்தினபுரி பகுதியில் இருந்து சிவனொளிபாத மலைக்கு சென்று கொண்டிருந்த போது இன்று அதிகாலை மலை விளிம்பிலுள்ள பாதுகாப்பு வேலியில் இருந்து கீழே விழுந்துள்ளார்.
+
+இந்நிலையில், உடமலுவ பொலிஸ் நிலையத்திற்கு கிடைத்த தகவலின் அடிப்படையில் சம்பவ இடத்திற்கு விரைந்து சென்ற விசேட அதிரடிப்படையினர் சுற்றுலாப் பயணியை மீட்டு முதலுதவி சிகிச்சை அளித்துள்ளனர். R
+
+◼️
+
+[Data](articles/23e6952f.json)
+
+---
+
+### குடும்பத்தவர்களுடன் முரண்பட்டு தனியாக வசித்து வந்த குடும்பஸ்தர் உயிரிழப்பு - யாழ்ப்பாணத்தில் சம்பவம்!
+
+*2024-03-29 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/179987) · `ta`
+
+இளவாலை - வசந்தபுரம் பகுதியில் தனியாக வசித்து வந்து குடும்பஸ்தர் வெற்றுக் காணியில் இருந்து வெள்ளிக்கிழமை (29) சடலமாக மீட்கப்பட்டுள்ளது. இதன்போது புதிய கொலனி, கீரிமலை பகுதியைச் சேர்ந்த ஐயங்கன் சிவானந்தராஜா (வயது 47) என்பவரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
+
+குறித்த நபர், அவரது குடும்பத்தவர்களுடன் ஏற்பட்ட முரண்பாடு காரணமாக இரண்டு மாதங்களுக்கு முன்னர் அவர்களை பிரிந்து வந்து இளவாலை - வசந்தபுரம் பகுதியில் உள்ள காணியில் குடிசை ஒன்றை அமைத்து தனியாக வசித்து வந்துள்ளார்.
+
+இந்நிலையில் அவர் வெள்ளிக்கிழமை (29), அவரது குடிசைக்கு அருகாமையில் உள்ள வெற்றுக் காணி ஒன்றிலிருந்து சடலமாக மீட்கப்பட்டார். இவ்வாறு மீட்கப்பட்டவரது சடலம் மீது மேற்கொள்ளப்பட்ட பிரேதப் பரிசோதனைகளின் அடிப்படையில் அவர் அதிக மதுப் பாவனை காரணமாக நுரையீரல் பாதிக்கப்பட்டு உயிரிழந்ததாக தெரிவிக்கப்படுகிறது.
+
+அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் அவர்கள் மேற்கொண்டார். உடற்கூற்றுப் பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/e0f4352b.json)
+
+---
+
+### Inspector General of Justice
 
 *2024-03-29 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195084) · `si`
 
-යුක්තියේ මෙහෙයුම අවසන් වන්නේ, පාතාලය සහ මත්ද්‍රව්‍ය ජාවාරම් මෙරටින් තුරන් වී ඇති බවට මහජනතාවට හැගුණ දවසට බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+Inspector General of Justice Tennakoon claims public has eradicated drug trafficking and underworld, vowing to take serious measures against police officers involved. He emphasizes the ongoing fight against drug and underworld, stating it won't return once stopped. He also mentions taking strict actions against police officers, including suspending and legal action.
 
-මෙහෙයුම් අතර මැද නවතා දැමුවහොත් නැවතත් තිබූ තත්ත්වයට පත් විය හැකි බවත් ඒ සම්බන්ධයෙන් නිවැරදි අවබෝධයකින් කටයුතු කරන බවත් පොලිස්පතිවරයා අද (29) මාධ්‍ය වෙත අදහස් දක්වමින් කියා සිටියේය.
+🟩
 
-එමෙන්ම පාතාලය සමග සම්බන්ධතා පවත්වන පොලිස් නිලධාරීන් සම්බන්ධයෙන්ද දැඩි ක්‍රියාමාර්ග ගන්නා බව ද පොලිස්පතිවරයා වැඩිදුරටත් පැවසීය.
+The operation of justice is ends, the IGP Deshabandu Tennakoon says that the public has eradicated the underworld and drug trafficking.
 
-ප්‍රශ්නය - යුක්තියේ මෙහෙයුම දැන් දිගටම ක්‍රියාත්මක වෙනවා. ජනතාව බලාපොරොත්තු වෙනවා මොන කාලෙක මේක ඉවරවෙයි ද කියලා?
+The IGP told the media this (29) that if stopped the middle of the midst of operations, he said.
 
-"එය ඉවර ‍වන දවස තමයි මේ රටේ මත්ද්‍රව්‍ය සහ පාතාලය ඉවරයි කියලා මේ රටේ මහජනතාවට හැගෙන දවසට තමයි මේක ඉවර කරන්නේ. එතෙක් මේක අපිට කරන්න ‍වෙනවා. මොකද හේතුව භාගෙට ඉවර කරලා මේක නැවැත් වුවහොත් එහෙම මේක තිබූ තැනට ආපසු වැටෙන්න වැඩි කාලයක් යන්නේ නෑ. හොඳ අවබෝධයක් අපිට ඒ ගැන තියෙනවා."
+The IGP also added that he will take serious measures regarding the police officers with the underworld.
 
-ප්‍රශ්නය - දැන් හඬපට නිකුත් වෙලා තියෙනවා පොලීසියේ නිලධාරීන් පාතලේ අය සමග කතා කරනවා?
+Q. The operation of justice continues. People expect the time when this is over?
+
+"The day of the country is over the day that the country's drug and underworld is over the country's drug and underworld is over.. Until then, this has to do this. Because the reason for the habitat and if it stops, it will not go back to the place where it was. We have a good understanding. "
+
+Q: The voice has been released now the police officers talking to the stress?
 
 ...
 
 [Data](articles/766ec02b.json)
+
+[Extended Data](ext_articles/766ec02b.ext.json)
 
 ---
 
@@ -105,6 +147,22 @@ However, Sri Lanka faced a setback ahead of the second and final Test as Kasun R
 [Data](articles/78643a35.json)
 
 [Extended Data](ext_articles/78643a35.ext.json)
+
+---
+
+### Crucifixion reenactment: Filipino villager nailed to cross for 35th time on Good Friday
+
+*2024-03-29 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98294/crucifixion-reenactment-filipino-villager-nailed-to-cross-for-35th-time-on-good-friday) · `en`
+
+A Filipino villager has been nailed to a wooden cross for the 35th time to reenact Jesus Christ’s suffering in a brutal Good Friday tradition he said he would devote to pray for peace in Ukraine, Gaza and the disputed South China Sea.
+
+On Friday, over a hundred people watched on as 10 devotees were nailed to wooden crosses, among them Ruben Enaje, a 63-year-old carpenter and sign painter. The real-life crucifixions have become an annual religious spectacle that draws tourists in three rural communities in Pampanga province, north of Manila.
+
+The gory ritual resumed last year after a three-year pause due to the coronavirus pandemic. It has turned Enaje into a village celebrity for his role as the “Christ” in the Lenten reenactment of the Way of the Cross.
+
+...
+
+[Data](articles/d828b9fc.json)
 
 ---
 
@@ -2263,73 +2321,5 @@ Asanka Lakmal is struggled with people who have come to shoot.. At the same time
 [Data](articles/28bd6882.json)
 
 [Extended Data](ext_articles/28bd6882.ext.json)
-
----
-
-### Another murder
-
-*2024-03-29 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195060) · `si`
-
-A 31-year-old man was murdered with a sharp object, dying on hospital admission. Police suspect ancient resentment as the motive.
-
-🟩
-
-A 31-year-old man was assaulted by a sharp object.
-
-The victim died on admission to the Lunugamvehera Hospital.
-
-Preliminary police investigations have revealed that the murder had been committed due to an ancient resentment.
-
-◼️
-
-[Data](articles/0f2259ec.json)
-
-[Extended Data](ext_articles/0f2259ec.ext.json)
-
----
-
-### ’Spas’ face imminent closure amid HIV scare
-
-*2024-03-29 08:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Spas-face-imminent-closure-amid-HIV-scare/155-279820) · `en`
-
-Colombo, March 29 (Daily Mirror) - On the heels of the massive raid conducted on 'Spas' in the Negombo area resulting in the detection of two HIV cases, illegal spas and Ayurvedic spas that secretly offer prostitution services are facing imminent closure in many parts of the island, Daily Mirror learns.
-
-Sources familiar with the matter told Daily Mirror that the women employed in brothels operating under the guise of spas have begun to vacate in fear of HIV.
-
-The spas operating in the vicinity of Nugegoda and Thalawathugoda are the worst to have been affected by this development as a significant portion of them secretly offer prostitution.
-
-This follows the large scale raid that Police personnel in Negombo carried out seizing 53 spas and wellness centres masquerading as brothels, resulting in the detainment of approximately 140 women, many of whom were involved in prostitution.
-
-...
-
-[Data](articles/890ef522.json)
-
-[Extended Data](ext_articles/890ef522.ext.json)
-
----
-
-### Prime Minister reminds of projects in China
-
-*2024-03-29 08:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195059) · `si`
-
-Prime Minister Dinesh Gunawardena attended the Boao Forum for Asia, discussing poverty reduction, agricultural growth, and highlighting the Colombo and Hambantota ports.
-
-🟩
-
-Prime Minister Dinesh Gunawardena has participated in the Annual Symposium of the Boao Forum for Asia.
-
-The Prime Minister's office said that the Prime Minister's office was appointed to the seminar in Hynean, China.
-
-Reasonable in income. Prime Minister Dinesh Gunawardena has requested all Asian countries to commit to build a poverty.
-
-The Prime Minister of the Prime Minister said that new terms were needed to ensure agricultural growth and food security.
-
-The Prime Minister's office also stated that the Prime Minister also said that the Colombo Port, Hambantota port as well as the Colombo Port.
-
-◼️
-
-[Data](articles/afc01bfd.json)
-
-[Extended Data](ext_articles/afc01bfd.ext.json)
 
 ---

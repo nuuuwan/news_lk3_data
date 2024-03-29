@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 21:03:26**
+As of **2024-03-29 21:18:18**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 2,568
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,947 (100.0%) of 15,949 articles have been extended.
+15,949 (100.0%) of 15,949 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### இலங்கை கிரிக்கெட்டை உலகில் தலைசிறந்ததாக மீண்டும் காண்பதே எதிர்பார்ப்பாகும்; அரசியலையும் விளையாட்டையும் தனித்தனியாக பேண வேண்டும் - ஜனாதிபதி
+### The expectation is to see Sri Lanka cricket again in the world;Politics and sport should be maintained separately -the president
 
 *2024-03-29 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/179985) · `ta`
 
-இலங்கை கிரிக்கெட்டை உலகில் தலைசிறந்தாக மீண்டும் காண்பதே எதிர்பார்க்கும் என்றும் அதற்கு அவசியமாக அனைத்து ஒத்துழைப்புக்களையும் அரசாங்கம் பெற்றுக்கொடுக்கும் எனவும் ஜனாதிபதி ரணில் விக்ரமசிங்க உறுதியளித்தார்.
+President Ranil Wickremesinghe emphasized Sri Lanka's cricket's global return and the importance of keeping politics and sports separate. He highlighted the Sinhala Sports Club's role in promoting Sri Lankan identity and sports growth, with a billion rupees allocated for cricket development.
 
-அத்துடன், அரசியலையும் விளையாட்டையும் தனித்தனியாக பேண வேண்டியதன் முக்கியத்துவத்தை வலியுறுத்திய ஜனாதிபதி, அரசியல்வாதிகள்  விளையாட்டுக் கழகங்களில் உயர் பதவிகளை வகிப்பதை தடுக்க முடியுமானால் சிறந்தது என்றும் கூறினார்.
+🟩
 
-கொழும்பு ஷங்ரீலா ஹோட்டலில் வியாழக்கிழமை (28) நடைபெற்ற சிங்கள விளையாட்டுக் கழகத்தின் (SSC)125ஆவது ஆண்டு பூர்த்தி விழாவிலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் தெரிவித்தார்.
+President Ranil Wickremesinghe has promised that Sri Lanka's cricket will be expected to re -see the world and that the government will gain all cooperation.
 
-சிங்கள விளையாட்டுக் கழகத்தின் 125 வருட வரலாற்றைக் குறிக்கும் வகையில் புத்தகமும் முத்திரையொன்றும் வெளியிடப்பட்டது.
+In addition, the president stressed the importance of maintaining politics and sports separately, saying that politicians could be able to prevent them from holding high positions in sports clubs.
 
-சர்வதேச கிரிக்கட் களத்தில் இலங்கை அணியை வழிநடத்திய SSC வீரர்களை ஜனாதிபதி ரணில் விக்ரமசிங்க இதன்போது பாராட்டியதுடன், அவர்களுடன் குழு புகைப்படமும் எடுத்துக் கொண்டார்.
+President Ranil Wickremesinghe said this at the 125th anniversary of the Sinhala Sports Club (SSC) held on Thursday (28) at the Shankreela Hotel in Colombo.
+
+A book and a stamp was published to mark the 125 years of history of the Sinhala Sports Club.
+
+President Ranil Wickremesinghe praised the SSC players who led the Sri Lankan team in the international cricket field and took a photo with them.
+
+"Royal, Sen. All those who have joined the cricket from schools including Thomas and Wesley have come here and have confirmed their identity with the Sinhala Sports Club.
 
 ...
 
 [Data](articles/07ebfd33.json)
+
+[Extended Data](ext_articles/07ebfd33.ext.json)
 
 ---
 
@@ -131,6 +139,8 @@ Ms. Karunaratne said the Official Poverty Line has gone up during the last four 
 ...
 
 [Data](articles/0bf2a7c5.json)
+
+[Extended Data](ext_articles/0bf2a7c5.ext.json)
 
 ---
 

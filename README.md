@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 18:21:20**
+As of **2024-03-29 18:33:36**
 
 ## Newspaper Stats
 
-*Scraped **15,936** Articles*
+*Scraped **15,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 877
 islandlk | 879
 adalk | 1,342
 tamilmirrorlk | 1,907
-adaderanalk | 1,914
-virakesarilk | 2,261
+adaderanalk | 1,915
+virakesarilk | 2,262
 dailymirrorlk | 2,458
 adaderanasinhalalk | 2,564
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 2,564
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,936 (100.0%) of 15,936 articles have been extended.
+15,936 (100.0%) of 15,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### Cocoa prices rise to fresh records: Will we run out of chocolate?
+
+*2024-03-29 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98292/cocoa-prices-rise-to-fresh-records-will-we-run-out-of-chocolate) · `en`
+
+Cocoa prices briefly surged to all-time highs on Tuesday, touching over $10,000 (€9,234.3) per ton, before settling back at $9,622 per ton on Wednesday morning, following disappointing harvests in key cocoa-producing countries such as Ghana and Ivory Coast. Cameroon, another cocoa-producing nation, has also been seeing much of the same conditions.
+
+The crop also saw a 19.8% gain in the past week, as well as a 42.4% rise this month. In the past year, cocoa prices have jumped about 231%.
+
+Cocoa is widely used in a number of chocolate products and confectioneries, with by-products such as cocoa nibs, cocoa butter, cocoa pod husks and pulp also being used for soft drinks, alcohol, vinegar, cosmetics, health supplements, fragrances and more.
+
+However, due to chocolate being by far the most common cocoa product, the rising cocoa prices have led to more worries about higher chocolate prices, as well as a chocolate shortage.
+
+...
+
+[Data](articles/14fe72f1.json)
+
+---
+
+### ஞானசார தேரர் திடீரென சிறைச்சாலை வைத்தியசாலையில் அனுமதி
+
+*2024-03-29 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/179981) · `ta`
+
+4 வருட கடூழிய சிறைத்தண்டனை விதிக்கப்பட்ட  கலகொட அத்தே ஞானசார தேரர் சுகவீனம் காரணமாக சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக ராவணா பலய அமைப்பின் செயலாளர் நாயகம் இத்தேகந்தே சத்தாதிஸ்ஸ தேரர் தெரிவித்துள்ளார்.
+
+ஞானசார தேரர் இதற்கு முன்னரும் சுகவீனம் காரணமாக சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்தார் என அவர் மேலும் தெரிவித்தார்.
+
+இதேவேளை, கொழும்பு மேல் நீதிமன்றம் வழங்கிய தண்டனைக்கு எதிராக கலகொட அத்தே ஞானசார தேரர் மேன்முறையீடு செய்துள்ளார் என குறிப்பிட்டுள்ளார்.
+
+கலகொட அத்தே ஞானசார தேரருக்கு கொழும்பு மேல் நீதிமன்றம் நான்கு வருட கடூழியச் சிறைத்தண்டனை விதித்துள்ளது.
+
+இஸ்லாம் மதத்தை இழிவுபடுத்தியமைக்காக கலகொடஅத்தே ஞானசார தேரருக்கு இந்த தண்டனை வழங்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ec328f7b.json)
+
+---
 
 ### Special trade tax deletion;When do you know?
 
@@ -2253,39 +2291,5 @@ In recent times, there is a massive campaign launched in Sri Lanka to eliminate 
 [Data](articles/7911a275.json)
 
 [Extended Data](ext_articles/7911a275.ext.json)
-
----
-
-### “Ye are the light of the world”: A mystical approach to Easter
-
-*2024-03-29 05:41:28* · [`dailyftlk`](https://www.ft.lk/opinion/Ye-are-the-light-of-the-world-A-mystical-approach-to-Easter/14-760102) · `en`
-
-Our purpose in this world is to choose the resurrection where we join with Christ and seek his power of thought to restore our minds to its original glory
-
-Birth and death have no special merit except that they both re-enact and perpetuate the separation notwithstanding the entry into or the exit of the lower state of vibration. Life in the physical plane manifests as though thought has no power or causal effect. We are buffeted and bruised by everything external and the impact of them is experienced by the body where it “perceptually” witnesses to this schema. Thus, from a state of mindfulness to a state of mindlessness, the descent which reflects the separation from God, the body becomes the hallmark of all who “have sinned and come short of his glory.” But the resurrection, on the other hand, is one of great importance since it restores the function of Causation to cause in the mind
-
-...
-
-[Data](articles/5ce4453f.json)
-
-[Extended Data](ext_articles/5ce4453f.ext.json)
-
----
-
-### South Asia’s largest water research institute opens at Peradeniya Uni.
-
-*2024-03-29 05:29:54* · [`dailyftlk`](https://www.ft.lk/news/South-Asia-s-largest-water-research-institute-opens-at-Peradeniya-Uni/56-760098) · `en`
-
-The China-Sri Lanka Joint Research and Demonstration Centre for Water Technology, the largest water research institute in South Asia, was inaugurated at the University of Peradeniya on Tuesday.
-
-The opening ceremony was attended by Chinese Academy of Science Deputy President Yaping Zhang and Peradeniya University Vice Chancellor Prof. D. M. Lamahewa .
-
-This state-of-the-art institute is furnished with advanced technology and machinery to detect harmful substances in drinking water, which are responsible for numerous ailments such as Chronic Kidney diseases which is rapidly spreading in the agricultural zones in the country. This institute is a gift from the People’s Republic of China.
-
-...
-
-[Data](articles/00864e9a.json)
-
-[Extended Data](ext_articles/00864e9a.ext.json)
 
 ---

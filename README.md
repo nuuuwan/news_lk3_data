@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 10:51:08**
+As of **2024-03-29 11:03:11**
 
 ## Newspaper Stats
 
-*Scraped **15,869** Articles*
+*Scraped **15,872** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ dailyftlk | 862
 economynextcom | 871
 islandlk | 879
 adalk | 1,340
-tamilmirrorlk | 1,901
-adaderanalk | 1,902
+tamilmirrorlk | 1,902
+adaderanalk | 1,903
 virakesarilk | 2,247
-dailymirrorlk | 2,449
+dailymirrorlk | 2,450
 adaderanasinhalalk | 2,549
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,867 (100.0%) of 15,869 articles have been extended.
+15,869 (100.0%) of 15,872 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### Significant increase of HIV infections in Sri Lanka
+
+*2024-03-29 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/98279/significant-increase-of-hiv-infections-in-sri-lanka) · `en`
+
+The National STD/AIDS Control Programme says that there is a significant increase in the percentage of HIV (human immunodeficiency virus) infections in Sri Lanka compared to last year.
+
+Director of the National STD/AIDS Control Programme Dr. Janaki Vidanapathirana mentioned that sexually active individuals in the age group of 20 to 30 years are at increased risk.
+
+Dr. Vidanapathirana made these remarks while joining a press briefing held in Colombo.
+
+◼️
+
+[Data](articles/bf386b69.json)
+
+---
+
+### Polar ice is melting and changing Earth’s rotation
+
+*2024-03-29 10:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Polar-ice-is-melting-and-changing-Earths-rotation/108-279823) · `en`
+
+CNN - One day in the next couple of years, everyone in the world will lose a second of their time. Exactly when that will happen is being influenced by humans, according to a new study, as melting polar ice alters the Earth’s rotation and changes time itself.
+
+The hours and minutes that dictate our days are determined by Earth’s rotation. But that rotation is not constant; it can change ever so slightly, depending on what’s happening on Earth’s surface and in its molten core.
+
+These nearly imperceptible changes occasionally mean the world’s clocks need to be adjusted by a “leap second,” which may sound tiny but can have a big impact on computing systems.
+
+Plenty of seconds have been added over the years. But after a long trend of slowing, the Earth’s rotation is now speeding up because of changes in its core. For the first time ever, a second will need to be taken off.
+
+...
+
+[Data](articles/b7d0bc85.json)
+
+---
+
+### இன்று முதல் நாளை வரை ரயில் தாமதம்
+
+*2024-03-29 10:46:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-நாளை-வரை-ரயில்-தாமதம்/175-335339) · `ta`
+
+இன்று (29) முதல் நாளை மறுநாள் (31) வரை கரையோரப் பாதையில் ரயில்களை இயக்குவதில் சிறிது தாமதம் ஏற்படக்கூடும் என ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+வெள்ளவத்தைக்கும் கோட்டைக்கும் இடையில் ரயில் சேவை ஒரு தண்டவாளத்துக்கு மட்டுப்படுத்தப்பட்டுள்ளதாக திணைக்களம் தெரிவித்துள்ளது.
+
+நகர அபிவிருத்தி அதிகார சபையினால் வெள்ளவத்தை மற்றும் பம்பலப்பிட்டி ரயில் நிலையங்களுக்கு இடையில் குழாய் ஒன்றின் பராமரிப்பு காரணமாக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+எவ்வாறாயினும், எதிர்வரும் ஞாயிற்றுக்கிழமை இரவுக்குப் பின்னர் ரயில் சேவை வழமைக்குத் திரும்பும் என ரயில் திணைக்களம் மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/cdba0c8a.json)
+
+---
 
 ### Girl, 8, only survivor as 45 killed in bus crash in South Africa
 
@@ -54,23 +106,31 @@ Transport Minister Sindisiwe Chikunga, who went to the scene of the incident, ex
 
 [Data](articles/51bf2d84.json)
 
+[Extended Data](ext_articles/51bf2d84.ext.json)
+
 ---
 
-### අද සිට අනිද්දා දක්වා දුම්රිය ප්‍රමාදයක්
+### Railway delay from today
 
 *2024-03-29 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195061) · `si`
 
-අද (29) සිට අනිද්දා (31) දක්වා මුහුදුබඩ මාර්ගයේ දුම්රිය ධාවනයේ යම් ප්‍රමාදයක් සිදුවිය හැකි බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+Railway delay from today due to maintenance between Wellawatte and Fort, restored after next Sunday night.
 
-වැල්ලවත්ත සහ කොටුව අතර දුම්රිය ධාවනය එක් මන්තීරුවකට සීමා කිරීම මීට හේතුවී ඇති බව එම දෙපාර්තමේන්තුව පැවසීය.
+🟩
 
-නාගරික සංවර්ධන අධිකාරිය විසින් වැල්ලවත්ත සහ බම්බලපිටිය දුම්රිය ස්ථාන අතර ඇති නල මාර්ගයක සිදුකරන නඩත්තු කටයුත්තක් හේතුවෙන් මෙම පියවර ගැනීමට සිදුවී තිබේ.
+The Railway Department says that a delay in the railway operation can be held from today (29).
 
-කෙසේවෙතත් එළඹෙන ඉරිදා රාත්‍රියෙන් පසු දුම්රිය ධාවනය යථා තත්ත්වයට පත්වනු ඇති බව දුම්රිය දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසීය.
+The Department said that this has been limited to one committee between Wellawatte and Fort.
+
+The move has taken place due to a maintenance work on the pipeline between Wellawatte and Bambalapitiya railway stations.
+
+However, the train will be restored after the next Sunday night, the Railway Department said.
 
 ◼️
 
 [Data](articles/59a19cf3.json)
+
+[Extended Data](ext_articles/59a19cf3.ext.json)
 
 ---
 
@@ -2165,83 +2225,5 @@ On a previous occasion, former Convenor of Inter University Students' Federation
 [Data](articles/b667a5a6.json)
 
 [Extended Data](ext_articles/b667a5a6.ext.json)
-
----
-
-### Cop sentenced to four years for accepting bribe of Rs. 500
-
-*2024-03-28 18:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cop-sentenced-to-four-years-for-accepting-bribe-of-Rs-500/108-279787) · `en`
-
-Colombo, March 28 - The Colombo Chief Magistrate's Court sentenced a police sergeant to four years' imprisonment for accepting a bribe of Rs. 500, the Commission to Investigate Allegations of Bribery or Corruption said.
-
-The Commission said the police sergeant was charged with accepting the bribe from a three-wheeler driver to avoid legal action over a traffic offence.
-
-Following a notification from the Traffic DIG to the Commission to Investigate Allegations of Bribery or Corruption regarding the bribe, an open investigation was conducted.
-
-The Commission then reported the findings to the Magistrate's Court, leading to the filing of a case with four charges.
-
-After a lengthy trial, Judge Prasanna Alwis found the accused guilty on all four counts.
-
-As a result, the police sergeant was sentenced to four years' imprisonment and ordered to pay a fine of Rs. 20,000 (Rs. 5,000 for each charge).
-
-In addition , the Rs. 500 bribe amount was ordered to be recovered as a penalty.
-
-◼️
-
-[Data](articles/3f1729f0.json)
-
-[Extended Data](ext_articles/3f1729f0.ext.json)
-
----
-
-### Four people end in murder
-
-*2024-03-28 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195040) · `si`
-
-In Rockeford, Independence State, USA, a knife attack resulted in four deaths and five injuries. The victims were a 15-year-old girl, a 63-year-old woman, a 49-year-old man, and a 22-year-old man.
-
-🟩
-
-Four persons were killed and 5 others were injured in a knife in the Rockeford area in the Independence State of the Ilaninoi, USA.
-
-Wednesday had been stacked after a forced home event.
-
-The deceased has been identified as a 15 year old girl, a 63-year-old woman, a 49-year-old man and a 22 year old youth.
-
-◼️
-
-[Data](articles/3903370b.json)
-
-[Extended Data](ext_articles/3903370b.ext.json)
-
----
-
-### Another judge leaves by considering the petition
-
-*2024-03-28 17:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195039) · `si`
-
-Judge Nissanka Bandula Karunaratne of the Court of Appeal is to appoint the President's recommendation as a Supreme Court judge. Two judges, including Turairaja, A. H. M. D., have resigned due to personal reasons. The petition is to be considered by another judge.
-
-🟩
-
-Court of Appeal, Judge Nissanka Bandula Karunaratne to appoint the recommendation of the President as a Supreme Court judge. P. S. M. Another judge from the Supreme Court Bench, who has been tabled in the petition, has been resigned today (28).
-
-This petition is today. Turairaja, A. H. M. D. The three-member judges with Nawaz and Arjuna Oyajuna Obeysekere.
-
-The three-member panel of judges Judge Arjuna Obeysekere said that the petition would be withdrawn due to personal reasons.
-
-Chief Justice Jayantha Jayasuriya was also decided to resign from the activities of the activities of the matter when the petition was taken up recently.
-
-Accordingly, two judges have been withdrawn from the activities of the petition.
-
-Accordingly, the court sentenced to consider this petition in front of another judge's bag.
-
-President's Counsel Faizer Mustapha appeared in the courts at the time of the petitioner, the case was asked to set the date for considering the case as a sudden legal action.
-
-...
-
-[Data](articles/5fcd4832.json)
-
-[Extended Data](ext_articles/5fcd4832.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 16:18:03**
+As of **2024-03-29 16:33:56**
 
 ## Newspaper Stats
 
-*Scraped **15,920** Articles*
+*Scraped **15,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 1,905
 adaderanalk | 1,913
 virakesarilk | 2,256
 dailymirrorlk | 2,456
-adaderanasinhalalk | 2,561
+adaderanasinhalalk | 2,562
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,919 (100.0%) of 15,920 articles have been extended.
+15,920 (100.0%) of 15,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### කාන්තාවන්ට එරෙහිව තලෙයිබාන් පාලනයෙන් දැඩි තීරණයක්
+
+*2024-03-29 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195075) · `si`
+
+අනාචාරයේ හැසිරෙන කාන්තාවන් ප්‍රසිද්ධියේ ගල් ගසා මරණයට පත්කිරීමේ දඬුවම යළි ක්‍රියාත්මක කිරීමට ඇෆ්ගනිස්තානයේ තලෙයිබාන් පාලනය තීරණය කර තිබේ.
+
+ඒ සම්බන්ධයෙන් තලෙයිබාන් උත්තරීතර නායක මුල්ලා හිබතුල්ලා අකුන්සාදා විසින් නිල නිවේදනයක් නිකුත් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ඇෆ්ගනිස්තානයේ පාලනය ලබාගැනීමෙන් පමණක් තලෙයිබාන් සංවිධානයේ කටයුතු අවසන් නොවන බව ද සිය තීරණය නිවේදනය කරමින් තලෙයිබාන් උත්තරීතර නායකයා ප්‍රකාශ කර තිබේ.
+
+2021 වසරේ දී ඇෆ්ගනිස්තානයේ පාලනය අත්පත් කරගැනීමෙන් පසු අධ්‍යාපන, රැකියා ඇතුළු ක්ෂේත්‍ර කිහිපයක් සම්බන්ධයෙන් කාන්තාවන්ට දැඩි සීමා පනවනු ලැබීය.
+
+ඇෆ්ගනිස්තානයේ කාන්තාවන් හා දැරියන් සම්බන්ධයෙන් පවතින කොන්දේසි, ගෝලීය වශයෙන් ඉතා දරුණු තත්ත්වයක පවතින බවට එක්සත් ජාතීන්ගේ සංවිධානය ද පෙන්වාදී තිබිණි.
+
+◼️
+
+[Data](articles/1527ab39.json)
+
+---
 
 ### Foreigner injured after falling down precipice while climbing Sri Pada
 
@@ -51,6 +71,8 @@ The group accompanying the injured Indian national has been escorted to Nallatha
 ◼️
 
 [Data](articles/1eefba74.json)
+
+[Extended Data](ext_articles/1eefba74.ext.json)
 
 ---
 
@@ -2229,35 +2251,5 @@ After the introduction of this internet system, the National Child Protection Au
 [Data](articles/0ccb2f23.json)
 
 [Extended Data](ext_articles/0ccb2f23.ext.json)
-
----
-
-### Damaged potato affair: Provincial Investigation Committee - Governor's Compliance with Gajendran's request
-
-*2024-03-29 01:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/179941) · `ta`
-
-The Governor of Northern Province accepted a request to form a provincial inquiry committee on potato issues, following a discovery of seed potatoes infected with dangerous microorganisms. Parliamentarian Selvarajah Gajendran questioned the investigation process and the cost of importing potatoes to Colombo. The Assistant Director of Agricultural Modern People's Action Program denied receiving the ministry's inquiry report, prompting Gajendran to demand a provincial-level inquiry. Governor Kilinochchi responded that only a few need to work with them, and the Northern Provincial Ministry of Agriculture issued a directive for a provincial inquiry report.
-
-🟩
-
-The Governor of the Northern Province accepted the request of Parliamentarian Selvarajah Gajendran to set up a provincial inquiry committee on the issue of potatoes worth Rs.
-
-It was found that the seed of the Jaffna district selected potatoes under the Agricultural Action Scheme last December was discovered by the seed potato infected.
-
-In this case, Ambalavanar, the then Jaffna District Government Agent, held a high -level discussion on the issue of Sivapala Sundaran.
-
-Officials confirmed that there were dangerous microorganisms that could be harmful to the man during the discussion, and the potatoes were buried in the soil as a risk arrangement.
-
-Parliamentarian Selvarajah Gajendran Anganan Ramanathan raised questions about the dilapidated potato affair at the Jaffna District Development Committee meeting.
-
-Officials responded that the authorities were raised by questions about who was imported to Colombo at a cost of Rs.
-
-In this case
-
-...
-
-[Data](articles/c4f2b5ea.json)
-
-[Extended Data](ext_articles/c4f2b5ea.ext.json)
 
 ---

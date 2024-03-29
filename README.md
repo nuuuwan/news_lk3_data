@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 22:04:39**
+As of **2024-03-29 22:18:14**
 
 ## Newspaper Stats
 
-*Scraped **15,957** Articles*
+*Scraped **15,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,69 @@ tamilmirrorlk | 1,907
 adaderanalk | 1,917
 virakesarilk | 2,266
 dailymirrorlk | 2,466
-adaderanasinhalalk | 2,569
+adaderanasinhalalk | 2,570
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,956 (100.0%) of 15,957 articles have been extended.
+15,957 (100.0%) of 15,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### 19 வயதின் கீழ் மகளிர் ரி20 மும்முனை கிரிக்கெட்டில் ஆஸி.யை 35 ஓட்டங்களால் வென்றது இங்கிலாந்து
+### යුක්තියේ අවසානය ගැන පොලිස්පතිගෙන් ප්‍රකාශයක්
+
+*2024-03-29 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195084) · `si`
+
+යුක්තියේ මෙහෙයුම අවසන් වන්නේ, පාතාලය සහ මත්ද්‍රව්‍ය ජාවාරම් මෙරටින් තුරන් වී ඇති බවට මහජනතාවට හැගුණ දවසට බව පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+
+මෙහෙයුම් අතර මැද නවතා දැමුවහොත් නැවතත් තිබූ තත්ත්වයට පත් විය හැකි බවත් ඒ සම්බන්ධයෙන් නිවැරදි අවබෝධයකින් කටයුතු කරන බවත් පොලිස්පතිවරයා අද (29) මාධ්‍ය වෙත අදහස් දක්වමින් කියා සිටියේය.
+
+එමෙන්ම පාතාලය සමග සම්බන්ධතා පවත්වන පොලිස් නිලධාරීන් සම්බන්ධයෙන්ද දැඩි ක්‍රියාමාර්ග ගන්නා බව ද පොලිස්පතිවරයා වැඩිදුරටත් පැවසීය.
+
+ප්‍රශ්නය - යුක්තියේ මෙහෙයුම දැන් දිගටම ක්‍රියාත්මක වෙනවා. ජනතාව බලාපොරොත්තු වෙනවා මොන කාලෙක මේක ඉවරවෙයි ද කියලා?
+
+"එය ඉවර ‍වන දවස තමයි මේ රටේ මත්ද්‍රව්‍ය සහ පාතාලය ඉවරයි කියලා මේ රටේ මහජනතාවට හැගෙන දවසට තමයි මේක ඉවර කරන්නේ. එතෙක් මේක අපිට කරන්න ‍වෙනවා. මොකද හේතුව භාගෙට ඉවර කරලා මේක නැවැත් වුවහොත් එහෙම මේක තිබූ තැනට ආපසු වැටෙන්න වැඩි කාලයක් යන්නේ නෑ. හොඳ අවබෝධයක් අපිට ඒ ගැන තියෙනවා."
+
+ප්‍රශ්නය - දැන් හඬපට නිකුත් වෙලා තියෙනවා පොලීසියේ නිලධාරීන් පාතලේ අය සමග කතා කරනවා?
+
+...
+
+[Data](articles/766ec02b.json)
+
+---
+
+### Under the age of 19, UK beat Aussie by 35 runs
 
 *2024-03-29 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179986) · `ta`
 
-ஹம்பாந்தோட்டை, மஹிந்த ராஜபக்ஷ விளையாட்டரங்கில் வெள்ளிக்கிழமை (29) நடைபெற்ற 19 வயதுக்குட்பட்ட மகளிர் ரி20 மும்முனை கிரிக்கெட் தொடரின் இரண்டாவது போட்டியில் அவுஸ்திரேலியாவை 35 ஓட்டங்களால் இங்கிலாந்து வெற்றிகொண்டது.
+England's U19 women beat Australia by 35 runs in the R20 series at Mahinda Rajapaksa Stadium, Hambantota. England scored 146/19.3, with Jodi Krukok and Josi Groves sharing 90 runs. England's bowlers took 9 wickets for 57 runs. Australia lost 5 wickets in 20 overs for 111 runs.
 
-வியாழக்கிழமை (29) நடைபெற்ற ஆரம்பப் போட்டியில் இலங்கையிடம் அடைந்த தோல்வியைத் தொடர்ந்து அவுஸ்திரேலியா எதிர்கொண்ட இரண்டாவது தொடர்ச்சியான தோல்வி இதுவாகும்.
+🟩
 
-இப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய 19 வயதுக்குட்பட்ட இங்கிலாந்து மகளிர் அணி 19.3 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 146 ஓட்டங்களைப் பெற்றது.
+England won Australia by 35 runs in the under -19 women's R20 cricket series held at the Mahinda Rajapaksa Stadium in Hambantota on Friday (29).
 
-டாவினா பெரின் (10), ஏரின் தொமஸ் (6), சரிஸ் பவ்லி (1), அலெக்ஸி ஸ்டோன்ஹவுஸ் (0) ஆகிய நான்கு வீராங்கனைகள் பவர் ப்ளே நிறைவுக்கு முன்னர் சீரான இடைவெளியில் ஆட்டம் இழக்க மொத்த எண்ணிக்கை 5.3 ஓவர்களில் 30 ஓட்டங்களாக இருந்தது.
+This is the second consecutive defeat of Australia following the defeat of Sri Lanka in the opening match on Thursday (29).
 
-இந் நிலையில் ஜொடி க்றூகொக், அணித் தலைவி ஜொசி க்ரோவ்ஸ் ஆகிய இருவரும் 5ஆவது விக்கெட்டில் ஜோடி சேர்ந்து 90 ஓட்டங்களைப் பகிர்ந்து மொத்த எண்ணிக்கையை 120 ஓட்டங்களாக உயர்த்தினர்.
+Under the age of 19, the England women's team scored 146 runs for the loss of all wickets in 19.3 overs.
 
-ஜொடி க்றூகொக் 3 பவுண்டறிகள், ஒரு சிக்ஸ் உட்பட 31 ஓட்டங்களைப் பெற்றார்.
+The total number to lose the game at a steady intervals before the Power Play was completed before the Power Play was completed by the four players, Davina Perin (10), Erine Thomas (6), and Alexi Stonehouse (0).
+
+In this case, Jodi Krukok and the captain Josi Groves, in the 5th wicket, shared 90 runs and raised the total number to 120 runs.
+
+Jodi Krukok scored 31 runs, including 3 pounds and one six.
+
+Josi Groves, who lost the last game, faced 41 balls and scored 57 runs with 6 pounds and 2 sixes.
+
+The total number of England's total number of wits was 29 runs.
 
 ...
 
 [Data](articles/e284752b.json)
+
+[Extended Data](ext_articles/e284752b.ext.json)
 
 ---
 
@@ -2299,25 +2331,5 @@ The Prime Minister's office also stated that the Prime Minister also said that t
 [Data](articles/afc01bfd.json)
 
 [Extended Data](ext_articles/afc01bfd.ext.json)
-
----
-
-### New online reporting system launched for child sexual abuse complaints
-
-*2024-03-29 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98277/new-online-reporting-system-launched-for-child-sexual-abuse-complaints) · `en`
-
-An online platform was launched on Thursday (28), enabling the swift removal of websites, photos, and videos containing or potentially containing instances of child sexual abuse at the Presidential Secretariat under the patronage of President Ranil Wickremesinghe.
-
-Recognizing the urgency of addressing child abuse in cyberspace, this initiative targets the dissemination of nude photos and indecent videos of children through the internet and social media channels.
-
-Implemented by the National Child Protection Authority (NCPA) in collaboration with the Internet Watch Foundation (IWF), renowned for its expertise in internet child safety enforcement, this program receives financial support from Save the Children and Child Fund.
-
-Following the implementation of this online system, individuals can now visit the website of the National Child Protection Authority at www.childprotection.gov.lk to report incidents of indecent photos and videos of children exchanged online.
-
-...
-
-[Data](articles/f9119765.json)
-
-[Extended Data](ext_articles/f9119765.ext.json)
 
 ---

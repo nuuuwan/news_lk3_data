@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 00:04:17**
+As of **2024-03-30 00:18:02**
 
 ## Newspaper Stats
 
-*Scraped **15,968** Articles*
+*Scraped **15,970** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 879
 islandlk | 879
 adalk | 1,342
 tamilmirrorlk | 1,909
-adaderanalk | 1,919
+adaderanalk | 1,921
 virakesarilk | 2,269
 dailymirrorlk | 2,467
 adaderanasinhalalk | 2,570
@@ -26,25 +26,67 @@ adaderanasinhalalk | 2,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,965 (100.0%) of 15,968 articles have been extended.
+15,968 (100.0%) of 15,970 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### வலி.வடக்கில் வீடுகளை உடைக்கும் கொள்ளையர்கள்
+### Another massive setback for Afghan women as Taliban vows to publicly stone them to death
+
+*2024-03-29 23:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98296/another-massive-setback-for-afghan-women-as-taliban-vows-to-publicly-stone-them-to-death) · `en`
+
+The plight of women in Afghanistan is expected to get worse. The Taliban regime has vowed to “start public stoning of women to death”, an act that the group’s Supreme Leader, Hibatullah Akhundzada, claims is “in the name of God”.
+
+Taliban, who took control of the country in 2021, have already been carrying out public floggings and executions. These brutal punishments are doled out even for crimes like thefts and robberies.
+
+Now, Akhundzada, in an audio message, has said that women committing adultery will be stoned to death. In the message, released by the Taliban-run state media, he addresses the West, saying, “We will soon implement the punishment for adultery. We will flog women in public. We will stone them to death in public. These are all against your democracy, but we will continue doing it.”
+
+According to The Telegraph, he compared the West with the Devil and said, “We both say we defend human rights – we do it as God’s representative and you as the Devil’s.”
+
+...
+
+[Data](articles/4984492f.json)
+
+---
+
+### Pain.Door robbers who break homes in the north
 
 *2024-03-29 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179989) · `ta`
 
-யாழ்ப்பாணம் வலி வடக்கு பகுதியில் கடந்த 33 வருடங்களாக இராணுவ முகாம் அமைக்கப்பட்டிருந்த தனியாரின் காணிகள் அண்மையில் காணி உரிமையாளர்களிடம் மீள கையளிக்கப்பட்டது.
+In Jaffna's North, private lands, once military camps, are now owned by absentee landlords. Robbers exploit this, breaking homes, stealing iron, doors, and door conditions. Residents, noticing no action, have alerted security forces and police.
 
-பெரும்பாலான காணி உரிமையாளர்கள் வெளி பிரதேசங்கள் மற்றும் வெளிநாடுகளில் வசித்து வருவதால் அவர்களால் உடனேயே அக்காணிகளுக்குள் குடியமர முடியவில்லை. அதனை தமக்கு சாதகமாக பயன்படுத்திக் கொண்டுள்ள கொள்ளையர்கள், அந்த காணிகளுக்குள் புகுந்து வீடுகளை உடைத்து இரும்புகள், கதவுகள், கதவு நிலைகள் என்பவற்றை களவாடி செல்கின்றனர்.
+🟩
 
-இது தொடர்பில் பாதுகாப்பு தரப்பு மற்றும் பொலிசாரிடம் அறிவித்தும் கொள்ளையர்களைக் கட்டுப்படுத்த எந்த நடவடிக்கையும் இல்லை என அப்பகுதி மக்கள் கவலை தெரிவிக்கின்றனர்.
+In the North of Jaffna, Jaffna has recently been handed over to the land owners of private lands that have been set up for a military camp for the past 33 years.
+
+Most land owners live in outer and abroad, and they are unable to settle in the area immediately. The robbers who have taken advantage of it, enter the land and break the houses and stole iron, doors and door conditions.
+
+Residents in the area are concerned that there is no action to control the robbers who have notified the security forces and the police in this regard.
 
 ◼️
 
 [Data](articles/f5c757ea.json)
+
+[Extended Data](ext_articles/f5c757ea.ext.json)
+
+---
+
+### Shanghai Mayor agrees to establish strong relationship with Colombo, Hambantota
+
+*2024-03-29 23:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98295/shanghai-mayor-agrees-to-establish-strong-relationship-with-colombo-hambantota) · `en`
+
+Prime Minister Dinesh Gunawardena had a long discussion with Gong Seng, Mayor of Shanghai, on Friday (29) in Shanghai, China.
+
+It was agreed to establish a strong relationship between Shanghai, China, which is ranked first among the world’s port cities, and the cities of Colombo and Hambantota, which have been planned to be developed as a maritime hub in the East and West shipping routes in the future.
+
+A long time has passed since the Sister City Agreement between Colombo and Shanghai was signed, and the Prime Minister pointed out that further work can be carried out under this agreement, which was signed when his brother Prasanna Gunawardena was holding the post of Mayor.
+
+It was emphasised that the city of Shanghai has handled 49.5 million containers in terms of cargo transportation, and last year it ranked first in cargo transportation in the world, and there are many lessons that can be learnt by Sri Lanka in the said sector.
+
+...
+
+[Data](articles/e467b5c3.json)
 
 ---
 
@@ -401,6 +443,8 @@ Sujeewa Rajapakse, the Chairman of People’s Bank said he was pleased with the 
 ...
 
 [Data](articles/6b429555.json)
+
+[Extended Data](ext_articles/6b429555.ext.json)
 
 ---
 
@@ -1930,6 +1974,8 @@ Ranaweera said that the Sri Lanka Institute of Textile and Apparel had recently 
 
 [Data](articles/fde0a080.json)
 
+[Extended Data](ext_articles/fde0a080.ext.json)
+
 ---
 
 ### Mahabage's shotgun that has led to Hellma
@@ -2261,43 +2307,5 @@ A 31 -year -old man died yesterday morning (28) after being attacked by a sharp 
 [Data](articles/e577d1d2.json)
 
 [Extended Data](ext_articles/e577d1d2.ext.json)
-
----
-
-### HIV infected number rises
-
-*2024-03-29 10:04:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எச்ஐவி-தொற்றாளர்-எண்ணிக்கை-உயர்வு/175-335337) · `ta`
-
-Dr. Janaki Vidhanapatrana, Sri Lanka's National AIDS Prevention Program Director, reported a rise in HIV infections, especially among 20-30-year-olds.
-
-🟩
-
-Dr. Janaki Vidhanapatrana, Director of the National AIDS Prevention Program of Sri Lanka, said that the number of HIV infections in the country has increased.
-
-He noted that people between the ages of 20 and 30 are in danger of being affected.
-
-◼️
-
-[Data](articles/90a2a816.json)
-
-[Extended Data](ext_articles/90a2a816.ext.json)
-
----
-
-### Sri Lanka launches online child sexual abuse reporting portal
-
-*2024-03-29 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-launches-online-child-sexual-abuse-reporting-portal-156531/) · `en`
-
-ECONOMYNEXT – An international reporting portal for child sexual abuse material (CSAM) was launched in Sri Lanka jointly by the National Child Protection Authority (NCPA), Internet Watch Foundation (IWF), Save the Children and ChildFund Sri Lanka.
-
-“The IWF reporting portal will play a crucial role in reporting and taking down online child sexual abuse imagery for countries that do not currently have this facility,” Save the Children said in a statement.
-
-Each report processed by the reporting portal will be manually assessed by IWF highly trained analysts using technical internet tracing techniques to locate criminal content, to trace and determine the geographical location of the server on which the content is hosted at the time of assessment.
-
-...
-
-[Data](articles/25d4059c.json)
-
-[Extended Data](ext_articles/25d4059c.ext.json)
 
 ---

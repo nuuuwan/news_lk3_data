@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 08:04:25**
+As of **2024-03-29 08:18:04**
 
 ## Newspaper Stats
 
-*Scraped **15,842** Articles*
+*Scraped **15,843** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 869
 islandlk | 879
 adalk | 1,339
 adaderanalk | 1,897
-tamilmirrorlk | 1,898
+tamilmirrorlk | 1,899
 virakesarilk | 2,242
 dailymirrorlk | 2,445
 adaderanasinhalalk | 2,545
@@ -26,11 +26,25 @@ adaderanasinhalalk | 2,545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,841 (100.0%) of 15,842 articles have been extended.
+15,842 (100.0%) of 15,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### இன்று 100 மில்லி மீற்றர் மழை
+
+*2024-03-29 07:56:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-100-மில்லி-மீற்றர்-மழை/175-335334) · `ta`
+
+நாட்டின் சில பகுதிகளில் இன்று 100 மில்லி மீற்றர் அளவில் பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
+
+இதன்படி, தென் மாகாணத்திலும் அம்பாறை மற்றும் மொனராகலை ஆகிய மாவட்டங்களின் சில இடங்களிலும் 100 மில்லி மீற்றர் அளவில் மழை பெய்யக்கூடும் என தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/a5bd4242.json)
+
+---
 
 ### Friday today
 
@@ -2271,29 +2285,5 @@ Major contributors to the Index included Commercial Bank of Ceylon Plc (up at 97
 [Data](articles/dd304470.json)
 
 [Extended Data](ext_articles/dd304470.ext.json)
-
----
-
-### Patali says willing to run for Sri Lanka president if invited by new alliance
-
-*2024-03-28 15:59:00* · [`economynextcom`](https://economynext.com/patali-says-willing-to-run-for-sri-lanka-president-if-invited-by-new-alliance-156477/) · `en`
-
-ECONOMYNEXT — If invited to contest Sri Lanka’s upcoming presidential election by a newly formed alliance, opposition MP Patali Champika Ranawaka will accept it, the MP said.
-
-Speaking to reporters, Ranawaka said he is confident of his capacity to run the country.
-
-“We will form an alliance to develop the country in the future. That alliance will decide who should contest the parliamentary elections, the presidential election,” the MP said.
-
-“If I’m invited to accept the candidacy for the presidency, I will take it. I’m quite confident that I can build this country,” he said.
-
-In February, Ranawaka presented a ‘common minimum progamme’ to President Ranil Wickremesinghe and representatives of the main opposition Samagi Jana Balawegaya (SJB), with a proposal to trim the executive powers of the president’s office to 2015 levels.
-
-Titled “A Step Forward with Unity for Our Nation”, the 32-page document contains proposed short and long term solutions to Sri Lanka’s ongoing issues.
-
-...
-
-[Data](articles/9462eb89.json)
-
-[Extended Data](ext_articles/9462eb89.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 00:18:02**
+As of **2024-03-30 00:33:21**
 
 ## Newspaper Stats
 
-*Scraped **15,970** Articles*
+*Scraped **15,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 879
 islandlk | 879
 adalk | 1,342
 tamilmirrorlk | 1,909
-adaderanalk | 1,921
+adaderanalk | 1,922
 virakesarilk | 2,269
-dailymirrorlk | 2,467
+dailymirrorlk | 2,468
 adaderanasinhalalk | 2,570
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,968 (100.0%) of 15,970 articles have been extended.
+15,970 (100.0%) of 15,972 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-03-30 (Saturday)
+
+### Hypocrisy, double standards and Lanka’s burgeoning spa industry
+
+*2024-03-30 00:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Hypocrisy-double-standards-and-Lankas-burgeoning-spa-industry/172-279867) · `en`
+
+Yesterday, Police spokesman Nihal Thalduwa informed the media that in the police divisions of Negombo, Kochchikade and Seeduwa, police raided 53 spas. According to the spokesperson, 145 suspects including 137 women and eight men were taken into custody.
+
+If this statement is correct, it would appear that many men do not frequent these establishments of alleged ill-fame. Only eight men were found in the 53 spas which were raided. It also makes the lords and ladies who run these establishments philanthropists for keeping over a hundred idle women on their payroll!
+
+The police spokesman went on to add that raids were carried out on information  received from police intelligence reports.
+
+...
+
+[Data](articles/77746c9e.json)
+
+---
+
 ### 2024-03-29 (Friday)
+
+### Massive setback for Afghan women: Taliban vows to publicly stone them to death for adultery
+
+*2024-03-29 23:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98296/massive-setback-for-afghan-women-taliban-vows-to-publicly-stone-them-to-death-for-adultery) · `en`
+
+The plight of women in Afghanistan is expected to get worse. The Taliban regime has vowed to “start public stoning of women to death”, an act that the group’s Supreme Leader, Hibatullah Akhundzada, claims is “in the name of God”.
+
+Taliban, who took control of the country in 2021, have already been carrying out public floggings and executions. These brutal punishments are doled out even for crimes like thefts and robberies.
+
+Now, Akhundzada, in an audio message, has said that women committing adultery will be stoned to death. In the message, released by the Taliban-run state media, he addresses the West, saying, “We will soon implement the punishment for adultery. We will flog women in public. We will stone them to death in public. These are all against your democracy, but we will continue doing it.”
+
+According to The Telegraph, he compared the West with the Devil and said, “We both say we defend human rights – we do it as God’s representative and you as the Devil’s.”
+
+...
+
+[Data](articles/42ed81a9.json)
+
+---
 
 ### Another massive setback for Afghan women as Taliban vows to publicly stone them to death
 
@@ -47,6 +83,8 @@ According to The Telegraph, he compared the West with the Devil and said, “We 
 ...
 
 [Data](articles/4984492f.json)
+
+[Extended Data](ext_articles/4984492f.ext.json)
 
 ---
 
@@ -87,6 +125,8 @@ It was emphasised that the city of Shanghai has handled 49.5 million containers 
 ...
 
 [Data](articles/e467b5c3.json)
+
+[Extended Data](ext_articles/e467b5c3.ext.json)
 
 ---
 
@@ -2265,47 +2305,5 @@ Transport Minister Sindisiwe Chikunga, who went to the scene of the incident, ex
 [Data](articles/51bf2d84.json)
 
 [Extended Data](ext_articles/51bf2d84.ext.json)
-
----
-
-### Railway delay from today
-
-*2024-03-29 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195061) · `si`
-
-Railway delay from today due to maintenance between Wellawatte and Fort, restored after next Sunday night.
-
-🟩
-
-The Railway Department says that a delay in the railway operation can be held from today (29).
-
-The Department said that this has been limited to one committee between Wellawatte and Fort.
-
-The move has taken place due to a maintenance work on the pipeline between Wellawatte and Bambalapitiya railway stations.
-
-However, the train will be restored after the next Sunday night, the Railway Department said.
-
-◼️
-
-[Data](articles/59a19cf3.json)
-
-[Extended Data](ext_articles/59a19cf3.ext.json)
-
----
-
-### Assassination
-
-*2024-03-29 10:05:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூரிய-ஆயுதத்தால்-தாக்கப்பட்டு-ஒருவர்-படுகொலை/175-335338) · `ta`
-
-A 31-year-old man died after being attacked with a sharp weapon yesterday morning.
-
-🟩
-
-A 31 -year -old man died yesterday morning (28) after being attacked by a sharp weapon.
-
-◼️
-
-[Data](articles/e577d1d2.json)
-
-[Extended Data](ext_articles/e577d1d2.ext.json)
 
 ---

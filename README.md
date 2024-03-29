@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 20:50:55**
+As of **2024-03-29 21:03:26**
 
 ## Newspaper Stats
 
-*Scraped **15,947** Articles*
+*Scraped **15,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,39 @@ islandlk | 879
 adalk | 1,342
 tamilmirrorlk | 1,907
 adaderanalk | 1,916
-virakesarilk | 2,264
-dailymirrorlk | 2,460
+virakesarilk | 2,265
+dailymirrorlk | 2,461
 adaderanasinhalalk | 2,568
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,947 (100.0%) of 15,947 articles have been extended.
+15,947 (100.0%) of 15,949 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### இலங்கை கிரிக்கெட்டை உலகில் தலைசிறந்ததாக மீண்டும் காண்பதே எதிர்பார்ப்பாகும்; அரசியலையும் விளையாட்டையும் தனித்தனியாக பேண வேண்டும் - ஜனாதிபதி
+
+*2024-03-29 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/179985) · `ta`
+
+இலங்கை கிரிக்கெட்டை உலகில் தலைசிறந்தாக மீண்டும் காண்பதே எதிர்பார்க்கும் என்றும் அதற்கு அவசியமாக அனைத்து ஒத்துழைப்புக்களையும் அரசாங்கம் பெற்றுக்கொடுக்கும் எனவும் ஜனாதிபதி ரணில் விக்ரமசிங்க உறுதியளித்தார்.
+
+அத்துடன், அரசியலையும் விளையாட்டையும் தனித்தனியாக பேண வேண்டியதன் முக்கியத்துவத்தை வலியுறுத்திய ஜனாதிபதி, அரசியல்வாதிகள்  விளையாட்டுக் கழகங்களில் உயர் பதவிகளை வகிப்பதை தடுக்க முடியுமானால் சிறந்தது என்றும் கூறினார்.
+
+கொழும்பு ஷங்ரீலா ஹோட்டலில் வியாழக்கிழமை (28) நடைபெற்ற சிங்கள விளையாட்டுக் கழகத்தின் (SSC)125ஆவது ஆண்டு பூர்த்தி விழாவிலேயே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் தெரிவித்தார்.
+
+சிங்கள விளையாட்டுக் கழகத்தின் 125 வருட வரலாற்றைக் குறிக்கும் வகையில் புத்தகமும் முத்திரையொன்றும் வெளியிடப்பட்டது.
+
+சர்வதேச கிரிக்கட் களத்தில் இலங்கை அணியை வழிநடத்திய SSC வீரர்களை ஜனாதிபதி ரணில் விக்ரமசிங்க இதன்போது பாராட்டியதுடன், அவர்களுடன் குழு புகைப்படமும் எடுத்துக் கொண்டார்.
+
+...
+
+[Data](articles/07ebfd33.json)
+
+---
 
 ### Property of banned powder Noky
 
@@ -93,6 +113,24 @@ Accordingly, the information on the Blue Flag program should be displayed and th
 [Data](articles/7123b0a2.json)
 
 [Extended Data](ext_articles/7123b0a2.ext.json)
+
+---
+
+### Minimum monthly expenditure per person gone up by 144% compared to 2019:DCS
+
+*2024-03-29 19:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minimum-monthly-expenditure-per-person-gone-up-by-144-compared-to-2019DCS/108-279837) · `en`
+
+Colombo, March 29 (Daily Mirror)- The minimum expenditure required by a person to fulfill the basic needs for a month has gone up by 144 per cent in January, 2024 when compared to 2019, the Official Poverty Line declared by the Department of Census and Statistics (DCS) has revealed.
+
+Additional Director General (Statistics) of the Department Shyamalie Karunaratne said a person to fulfill the basic needs required only Rs. 6966 per month in 2019 whereas a person to fulfill the same needs now require Rs. 17,014.
+
+She said a family of four members need Rs. 68,056 to fulfill the basic needs as per the Official Poverty Line calculated based on statistics of the Household Income and Expenditure survey.
+
+Ms. Karunaratne said the Official Poverty Line has gone up during the last four years due to the drastic increase in inflation.
+
+...
+
+[Data](articles/0bf2a7c5.json)
 
 ---
 
@@ -2285,51 +2323,5 @@ Clicking on those fraudulent links will lead to breaching of personnel details s
 [Data](articles/650dc67b.json)
 
 [Extended Data](ext_articles/650dc67b.ext.json)
-
----
-
-### 983.7 million rupees
-
-*2024-03-29 07:04:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/983-7-மில்லியன்-ரூபா-ஏற்றுமதி-வருமானம்/175-335333) · `ta`
-
-Sri Lanka earned Rs 983.7 million in exports last two months, on track for economic recovery. Tourism saw a surge, and entrepreneurship rates rose, indicating a positive economic path.
-
-🟩
-
-Sri Lanka has earned an export income of Rs 983.7 million in the last two months and the country is currently on the right economic path, said the Minister of Small and Medium Entrepreneurship Development Prasanna Ranweera.
-
-He said this at a media briefing held at the Presidential Media Center yesterday. He further stated that
-
-We have achieved significant achievements as a country to resolve the economic crisis in the country in the past. In the last two months alone, the export income of 983.7 million has been earned.
-
-About 05 lakh tourists visit the country during the two months of January and February. Moreover, the number of entrepreneurs from 2.5 percent in our country has been able to increase to 3 percent. He said the data confirms that the country is currently on the right economic path. (A)
-
-◼️
-
-[Data](articles/3adbd2c0.json)
-
-[Extended Data](ext_articles/3adbd2c0.ext.json)
-
----
-
-### Meeting football team with president
-
-*2024-03-29 07:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியுடன்-கால்பந்தாட்ட-அணி-சந்திப்பு/175-335332) · `ta`
-
-President Ranil Wickremesinghe met the Sri Lanka National Football Team, congratulated them on their victory against Bhutan, and pledged support for their success in the South Asian Football Tournament and infrastructure development.
-
-🟩
-
-The meeting between President Ranil Wickremesinghe and the Sri Lanka National Football Team took place at the Presidential Office.
-
-The President congratulated the Sri Lankan football team against Bhutan against Bhutan in the four -nation -running football match at the Colombo Horse Racing Stadium.
-
-The President promoted the Sri Lankan football team to win the South Asian Football Tournament next year and promised to cooperate to develop the infrastructure for football.
-
-◼️
-
-[Data](articles/de58180f.json)
-
-[Extended Data](ext_articles/de58180f.ext.json)
 
 ---

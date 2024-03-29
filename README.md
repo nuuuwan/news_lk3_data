@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 14:18:08**
+As of **2024-03-29 14:33:36**
 
 ## Newspaper Stats
 
-*Scraped **15,903** Articles*
+*Scraped **15,905** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 170
 dbsjeyarajcom | 197
 newsfirstlk | 363
 dailyftlk | 862
-economynextcom | 872
+economynextcom | 874
 islandlk | 879
 adalk | 1,341
 tamilmirrorlk | 1,905
@@ -26,31 +26,53 @@ adaderanasinhalalk | 2,557
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,901 (100.0%) of 15,903 articles have been extended.
+15,903 (100.0%) of 15,905 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### සිරිපා කරුණා කරන්න ආ විදේශිකයා අඩි 100ක ප්‍රපාතයකට වැටෙයි
+### The foreigner who was married to Sirippa
 
 *2024-03-29 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195070) · `si`
 
-රත්නපුර - ශ්‍රී පාද මාර්ගයේ ඇහැලකණුව ප්‍රදේශයේදී ආරක්ෂිත වැටෙන් මිටර් 100ක පමණ ප්‍රපාතයට විදෙස් ජාතිකයෙක් ඇද වැටී තිබේ.
+A foreigner, a 25-year-old from Mumbai, fell into a precipice on the Ratnapura-Sri Pada road, Sri Pada Road, Ratnapura-Sri Pada. The Maskeliya Police Special Task Force rescued and hospitalized the victim. The incident occurred on 29th at 4.45 am.
 
-ඉන්දීය ජාතිකයෙකු වූ අදාළ විදේශිකයා පසුව එම ස්ථානයෙන් මුදාගෙන රෝහල්ගත කිරීමට මස්කෙළිය පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් පියවර ගෙන ඇත.
+🟩
 
-මෙසේ තුවාල ලබා ඇත්තේ, ඉන්දියාවේ මුම්බායි, මහාරාෂ්ට්‍ර හි පදිංචි භාරත් චන්ද්‍රදාස් නැමති 25 හැවිරිදි තරුණයෙකි.
+In the Ratnapura-Sri Pada, Sri Pada Road, a collaborative person has fallen into the precipice.
 
-තුවාලකරු තවත් පිරිසක් සමග රත්නපුර - ශ්‍රී පාද මාර්ගය ඔස්සේ ශ්‍රී පාද උඩමළුව වෙත ගමන් කරමින් සිටිය දී අද (29) අලුයම 4.45ට පමණ මෙම අනතුරට මුහුණදී තිබිණි.
+Maskeliya Police Special Task Force has taken steps to rescue and hospitalized the foreigner.
 
-ඒ අනුව වහාම ක්‍රියාත්මක වු ශ්‍රී පාද උඩ මළුව පොලිස් මුරපොලේ නිලධාරින් විසින් පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරින් දැනුවත් කිරීමෙන් පසු මහත් පරිශ්‍රමයක් දරා ප්‍රපාතයට වැටී සිටි තරුණයා බේරාගැනීමට සමත්ව ඇත.
+The injured were a 25 year old youth, a resident of Maumbai, Jarzhtra, India.
 
-සිද්ධිය සම්බන්ධයෙන් නල්ලතන්නිය පොලිස් ස්ථානය දැනුවත් කර තුවාලකරු සමග පැමිණි පිරිස නල්ලතන්නිය දක්වා රැගෙන යෑමට කටයුතු කර තිබේ.
+The victim was traveling to the Sri Pada Udamuel along the Ratnapura-Sri Pada road today (29) at around 4.45 am today.
+
+Accordingly, officials of the Police Add Statistic Officers who were immediately implemented by the police office officials, the young man who had taken an induced the precipitate.
+
+Nallathaniya police station and the casual was taken to the Nalluthaniya.
 
 ◼️
 
 [Data](articles/3e32d1f1.json)
+
+[Extended Data](ext_articles/3e32d1f1.ext.json)
+
+---
+
+### In the political arena, South Asian women face similar hurdles
+
+*2024-03-29 14:00:00* · [`economynextcom`](https://economynext.com/in-the-political-arena-south-asian-women-face-similar-hurdles-156527/) · `en`
+
+ECONOMYNEXT – In South Asia, women face similar hurdles when breaking into the male-dominated political arena, a webinar on Empowering Voices: Exploring the Political Landscape for Women in South Asia heard.
+
+Across the region, more often than not, women are nominated to fill a seat falling vacant by the death of a male family member, as the party leadership made up of men is confident of winning on the ‘sympathy vote,’ or simply to fill a quota, and not for their qualifications and capabilities.
+
+In Sri Lanka, despite a hard-won battle for a 25 per cent quota for women at the Local Government level six years ago, the drive to have more women at decision making levels continues. It is yet to be seen if the new electoral system at the provincial level will yield the results women seek. Representation of women in the Sri Lankan Parliament is a dismal 5.3 per cent (only 12 of the 225 MPs are women), Dr Sudharshani Fernandopulle, MP pointed out.
+
+...
+
+[Data](articles/bdb0f3d4.json)
 
 ---
 
@@ -71,6 +93,8 @@ The suggestions and issues raised by the development agencies and stakeholders h
 ...
 
 [Data](articles/4d6c0bc7.json)
+
+[Extended Data](ext_articles/4d6c0bc7.ext.json)
 
 ---
 
@@ -143,6 +167,24 @@ After the police sergeant proved guilty of all four charges, he was sentenced to
 [Data](articles/060865dc.json)
 
 [Extended Data](ext_articles/060865dc.ext.json)
+
+---
+
+### Sri Lanka president to be common, independent candidate at poll: UNP
+
+*2024-03-29 13:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-be-common-independent-candidate-at-poll-unp-156562/) · `en`
+
+ECONOMYNEXT — President Ranil Wickremesinghe will contest Sri Lanka’s upcoming presidential election as an independent candidate backed by a broad alliance, according to Labour Minister Manusha Nanayakkara.
+
+The minister said speaking at an event that Wickremesinghe’s candidacy will be a neutral one not representing any one party.
+
+“President Wickremesinghe will contest as an independent national candidate on a common platform where people representing all parties, ethnicities and religions as well as people with diverse views can come together, and once again become president of this country,” said Nanayakkara.
+
+Former parliamentarian P Harrison, a spokesman for Wickremesinghe’s United National Party (UNP), made the bold claim that he will get 10 million votes at the presidential poll due to be held between September 17 and October 17.
+
+...
+
+[Data](articles/6d44b0bc.json)
 
 ---
 
@@ -2225,63 +2267,5 @@ Despite "protestations of sorrow" about customer losses, Judge Kaplan said, Bank
 [Data](articles/03a05a09.json)
 
 [Extended Data](ext_articles/03a05a09.ext.json)
-
----
-
-### Fallen ’Crypto King’ Sam Bankman-Fried gets 25 years for fraud
-
-*2024-03-28 22:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fallen-Crypto-King-Sam-Bankman-Fried-gets-25-years-for-fraud/108-279790) · `en`
-
-Sam Bankman-Fried, co-founder of the failed crypto exchange FTX, has been sentenced to 25 years in prison for defrauding customers and investors of his now-bankrupt firm.
-
-The ruling cements the downfall of the former billionaire, who emerged as a high profile champion of crypto before his firm's dramatic collapse in 2022.
-
-The 32-year-old was later found to have stolen billions from customers of the exchange ahead of its implosion.
-
-But he was convicted by a New York jury in November on charges including multiple counts of wire fraud and conspiracy to commit money laundering.
-
-During the sentencing hearing on Thursday, Judge Lewis Kaplan provided a harsh assessment, saying it was clear Bankman-Fried was motivated by a drive to be politically influential.
-
-Despite "protestations of sorrow" about customer losses, Judge Kaplan said, Bankman-Friend had expressed "never a word of remorse for the commission of terrible crimes".
-
-...
-
-[Data](articles/289f3d5a.json)
-
-[Extended Data](ext_articles/289f3d5a.ext.json)
-
----
-
-### The bodies of the hidden children of the Oya to homes
-
-*2024-03-28 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195052) · `si`
-
-Four school children drowned in Polgahawela; post-mortem at Polgahawela Hospital. Accident occurred during bathing at a friend's house. Victims: eldest son of a Ulawwa Lastuwa family, eldest son of a Vidasi Devmini family, and two others from Polgahawela.
-
-🟩
-
-The post mortem examination of the remains of the four school children who were drowned yesterday (28) had been brought to the homes.
-
-They had the accident when 11 students went to a friend's house and was bathing.
-
-The accident is a 9th grade group of St. Bernatth College of Polgahawela.
-
-The eldest is the eldest child of two children, a resident of the Ulawwa Lastuwa, the dead in Parakumbura Walakumbura, and he has a younger child.
-
-He was also the leader of the Under-15 school cricket team.
-
-The eldest child of Vidasi Devmini, a resident of the area, is the eldest of the family.
-
-Canene is a resident of Maddigahawela area in Thinura, and he is the eldest child of the family of two children.
-
-Polgahawela Padwilla Ranagilla, a resident of Talawattegedara in Talawatte, the second child of two boys of two cases of two children.
-
-The post mortem examination on the dead students were held at the Polgahawela Hospital this afternoon.
-
-◼️
-
-[Data](articles/ba8b54b3.json)
-
-[Extended Data](ext_articles/ba8b54b3.ext.json)
 
 ---

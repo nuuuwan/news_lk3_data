@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 02:18:02**
+As of **2024-03-30 02:33:28**
 
 ## Newspaper Stats
 
-*Scraped **15,980** Articles*
+*Scraped **15,981** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 142
+colombotelegraphcom | 143
 bbccomsinhala | 170
 dbsjeyarajcom | 197
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,980 (100.0%) of 15,980 articles have been extended.
+15,980 (100.0%) of 15,981 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -629,6 +629,18 @@ It was reported that Ven. Gnanasara Thera had been undergoing medical treatment 
 [Data](articles/fc8e22bc.json)
 
 [Extended Data](ext_articles/fc8e22bc.ext.json)
+
+---
+
+### Rewriting Sri Lanka History Based On Scientific Findings
+
+*2024-03-29 20:39:29* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rewriting-sri-lanka-history-based-on-scientific-findings/) · `en`
+
+Mahawamsa which was first written by Bhikku Mahanama, has documented the history of Sri Lanka since the 3rd century CE. Though the record has been accepted as correct in most instances, there were discrepancies in para-history and protohistory. The concept of origin of Sinhala race as a result of union of a male lion with female human which is not biologically possible, is not acceptable. Also, the narrative regarding Lord Buddha making three unaided flying visits to Sri Lanka which is not feasible, is not tenable. This makes the early part of Mahavamsa text prone to be challenged. As for protohistory, Mahawamsa is largely silent. It does not say about the people who inhabited the land and their civilisation. Modern advances have exposed data contrary to entrenched beliefs.
+
+...
+
+[Data](articles/fb174afb.json)
 
 ---
 
@@ -2291,31 +2303,5 @@ However, the train operations on the Coastal Line will be restored after Sunday 
 [Data](articles/1dfe17c9.json)
 
 [Extended Data](ext_articles/1dfe17c9.ext.json)
-
----
-
-### 36 Syrian soldiers killed in Israel's attack
-
-*2024-03-29 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179958) · `ta`
-
-36 Syrian soldiers killed in Israel's attack near Aleppo's Hizbullah rocket weapon. British Syrian Watch for Human Rights reported. The incident occurred near Aleppo International Airport, causing civilian and military casualties.
-
-🟩
-
-36 Syrian soldiers have been killed in the Airbow province of Aleppo, Syria.
-
-The British -based Syrian Watch for Human Rights said the attack was carried out near the Hizbullah movement's rocket weapon.
-
-At least 36 soldiers were killed in the incident and dozin were injured.
-
-The area said that the area was located near the Aleppo International Airport.
-
-Meanwhile, Syrian military sources said that civilians and military were killed and many were injured in an Israeli enemy attack this morning.
-
-◼️
-
-[Data](articles/c5c4371b.json)
-
-[Extended Data](ext_articles/c5c4371b.ext.json)
 
 ---

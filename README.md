@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 13:34:09**
+As of **2024-03-29 13:52:27**
 
 ## Newspaper Stats
 
-*Scraped **15,898** Articles*
+*Scraped **15,901** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,78 @@ economynextcom | 872
 islandlk | 879
 adalk | 1,341
 tamilmirrorlk | 1,905
-adaderanalk | 1,908
-virakesarilk | 2,253
+adaderanalk | 1,909
+virakesarilk | 2,254
 dailymirrorlk | 2,451
-adaderanasinhalalk | 2,555
+adaderanasinhalalk | 2,556
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,897 (100.0%) of 15,898 articles have been extended.
+15,898 (100.0%) of 15,901 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### පාතාලයේ රුපියල් කෝටි 10ක වත්කම් පොලිස් භාරයට
+### 119, 118 සහ 1927 ඔස්සේ පොලීසියට තොරතුරු දෙන්න
+
+*2024-03-29 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195069) · `si`
+
+ජේසුස් ක්‍රිස්තුස් වහන්සේගේ දුක්ප්‍රාප්තිය සහ කුරුස ගසේ දිවි පිදීම සිහි කරන්නාවූ මහා සිකුරාදා දිනය අදට (29) යෙදී තිබේ.
+
+මහ සිකුරාදා සහ පාස්කු ඉරිදා දේව මෙහෙයන් පැවැත්වෙන දේවස්ථාන සඳහා විශේෂ පොලිස් ආරක්ෂාවක් යෙදවීමට පොලිස්පති දේශබන්දු තෙන්නකොන් මහතා පොලිස් ස්ථානාධිපතිවරුන් වෙත උපදෙස් ලබාදී තිබුණි.
+
+දිවයින පුරා පිහිටි කිතුණු දේවස්ථාන 2,978 කින් දේවස්ථාන 2,230ක පාස්කු දේව මෙහෙයන් පැවැත්වෙන අතර ඊට ආරක්ෂාව සපයන්නේ පොලීසිය, පොලිස් විශේෂ කාර්ය බළකාය සහ ත්‍රිවිධ හමුදාව ඒකාබද්ධවය.
+
+ඒ සඳහා පොලිස් නිලධාරීන් 6,837ක්, පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් 464 ක් සහ ත්‍රිවිධ හමුදා නිලධාරීන් 2,882 ක් යොදවා තිබෙනවා.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේ, "මොනවා හරි සැකකටයුතු දෙයක් නම් ඉක්මනින් පොලීසියට දැනුම්දෙන්න. විශේෂ දැනුම්දීමක් සිදුකරනවා නම් 119, 118 සහ 1927 අංක වෙත අමතන්න."
+
+◼️
+
+[Data](articles/1793db19.json)
+
+---
+
+### Underworld's re-seized
 
 *2024-03-29 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195068) · `si`
 
-ගාල්ල, අම්බලන්ගොඩ සහ අහුන්ගල්ල යන ප්‍රදේශවලදී පාතාල සැකකරුවන්ට අයත් බවට පැවසෙන රුපියල් කෝටි 10කට අධික වටිනාකමින් යුත් දේපොළ පොලිස් භාරයට ගෙන තිබේ.
+Underworld's property seized by police, including fishing vessels, motorbikes, and land.
 
-පොලීසිය සඳහන් කළේ ඒ් අතරට බහුදින ධීවර යාත්‍රා 02ක්, ත්‍රිරෝද රථ, යතුරුපැදි සහ ඉඩම් අයත් බවය.
+🟩
+
+The property has been taken into custody over Rs.
+
+The police said that two multi-day fishing vessels, three-month-old fishing vessels, three-wheeler, motorbikes and land.
 
 ◼️
 
 [Data](articles/acdb1efe.json)
+
+[Extended Data](ext_articles/acdb1efe.ext.json)
+
+---
+
+### 500 ரூபாய் இலஞ்சம் பெற்ற பொலிஸ் சார்ஜன்டுக்கு சிறைத்தண்டனை
+
+*2024-03-29 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/179964) · `ta`
+
+500 ரூபாய் இலஞ்சம் பெற்ற பொலிஸ் சார்ஜன்ட் ஒருவருக்கு நான்கு வருட சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
+
+இலஞ்சம் மற்றும் ஊழல் குற்றச்சாட்டுகளை விசாரணை செய்யும் ஆணைக்குழுவின் பிரகாரம், பொலிஸ் அதிகாரிக்கு கொழும்பு பிரதான நீதவான் நீதிமன்றினால் தண்டனை விதிக்கப்பட்டுள்ளது.
+
+போக்குவரத்து விதிமீறல் தொடர்பான சட்ட நடவடிக்கையை தாக்கல் செய்வதைத் தவிர்ப்பதற்காக முச்சக்கர வண்டி சாரதியிடம் பொலிஸ் சார்ஜன்ட்  500 ரூபாவை இலஞ்சமாகப் பெற்றதாகத் தெரிவிக்கப்படுகிறது.
+
+போக்குவரத்து பிரதி பொலிஸ் மா அதிபரின் அறிவிப்பின் அடிப்படையில் விசாரணை ஆரம்பிக்கப்பட்டு அதன் பிறகு நான்கு குற்றச்சாட்டுகளுடன் வழக்கு பதிவு செய்யப்பட்டது.
+
+நான்கு குற்றச்சாட்டுக்களிலும் பொலிஸ் சார்ஜன்ட் குற்றவாளி என நிரூபிக்கப்பட்டதை அடுத்து, அவருக்கு நான்கு வருட சிறைத்தண்டனை விதிக்கப்பட்டதுடன், 20,000 ரூபாய் அபராதமும், இலஞ்சமாக பெற்ற 500 ரூபாவை திருப்பிக்கொடுக்குமாறும் உத்தரவிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/060865dc.json)
 
 ---
 
@@ -101,6 +147,26 @@ South Africa's parliamentary general election will be held on May 29.
 [Data](articles/42ca7e66.json)
 
 [Extended Data](ext_articles/42ca7e66.ext.json)
+
+---
+
+### Rs. 100mn worth of assets owned by underworld figures confiscated
+
+*2024-03-29 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98286/rs-100mn-worth-of-assets-owned-by-underworld-figures-confiscated) · `en`
+
+Assets worth more than Rs. 100 million – including multi-day fishing craft, three-wheelers, motorcycles and plots of land – owned by underworld figures have been confiscated.
+
+These assets were impounded by the Illegal Assets and Properties Investigation Division of Sri Lanka Police in Galle, Ambalangoda, and Ahungalla, under the ongoing ‘Yukthiya’ operation.
+
+Police launched the special island-wide operation in December 2023 to crack down on drug peddling and organized crimes in the country.
+
+10. IMUL-A-0810-GLE fishing vessel under production – Rs. 5.2 million (paid for production)
+
+11. Three houses, one storage room and five land plots – Rs. 53 million
+
+◼️
+
+[Data](articles/d0d61fa6.json)
 
 ---
 
@@ -2197,73 +2263,5 @@ He was convicted of billions of clients that billions of clients were cheated th
 [Data](articles/7625de86.json)
 
 [Extended Data](ext_articles/7625de86.ext.json)
-
----
-
-### We will present the recommendations only after reviewing the Truth, Unity and Reconciliation Commission Bill - the Asgiriya Faculty
-
-*2024-03-28 21:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179935) · `ta`
-
-The Asgiriya Faculty will review the Truth, Unity and Reconciliation Commission Bill before expressing their stance. They've received the bill from the Interim Secretariat on Truth and Reconciliation and are in discussion with the Sangam council. Dr. Medagama Tammananda Thera, Secretary of the Asgiriya Mahavikara Sangam Sangam, supports the bill's positive impact on reconciliation.
-
-🟩
-
-The Asgiriya Faculty has stated that they will have to analyze the piracy and discuss it with the Sangam council of their faculty, before they express their compassion on the proposed fact, unity and reconciliation commission.
-
-Last month, copies of the proposed Truth, Unity and Reconciliation Commission Bill were handed over to the Asgiriya and Malwathupita Mahanayaka Thera by the Interim Secretariat on Truth and Reconciliation.
-
-Subsequently, Sri Siddhartha Sumangala Thera of the Malwathuppadam and Sri Gnanaratne Thera of the Asgiriyapadam assured that the two faculties were jointly exploring and aware of their observations and positions.
-
-Accordingly, the Secretary of the Asgiriya Mahavikara Sangam Sangam, Dr. Medagama Tammananda Thera said that the proposed Bill would have a positive impact on the reconciliation system.. He urged the government to work tirelessly to continue the process of reconciliation, although many such efforts have been made in the history of our country.
-
-...
-
-[Data](articles/58beb0fd.json)
-
-[Extended Data](ext_articles/58beb0fd.ext.json)
-
----
-
-### UK will continue to keep Sri Lanka travel advice under close review – Lord Ahmad
-
-*2024-03-28 21:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/98272/uk-will-continue-to-keep-sri-lanka-travel-advice-under-close-review-lord-ahmad) · `en`
-
-Amidst growing pressure to amend its travel advice to Sri Lanka which was deemed “overly harsh”, the United Kingdom (UK) has defended its decision and said it would continue to keep the island nation’s travel advise under close review.
-
-UK’s Minister of State for the Middle East, South Asia, Commonwealth Lord Tariq Ahmad of Wimbledon made this remark in the UK Parliament responding to a question raised on plans to update the travel advice to Sri Lanka to reflect the security situation in the country.
-
-He defended the move, saying that the safety of British people is the main factor when determining UK’s travel advice for all countries, including Sri Lanka.
-
-“Our advice is designed to help British people make informed decisions about foreign travel and remains under constant review to ensure it reflects our latest assessment of risks when travelling abroad.
-
-...
-
-[Data](articles/d23e9c8c.json)
-
-[Extended Data](ext_articles/d23e9c8c.ext.json)
-
----
-
-### Latest situation in the Maharagama Bath tree collapsed
-
-*2024-03-28 21:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195050) · `si`
-
-The Maharagama Bath tree collapsed, injuring two. A branch fell around 7:30 am, blocking the Maharagama High Level Road. Two three-wheelers and a car damaged a motorcycle in the accident. The fallen branch was removed.
-
-🟩
-
-Two persons were injured in the accident in the Maharagama Bath tree, police said.
-
-The breakage of a branch of the breeding tree around 7.30 am was interrupted by the Maharagama High Level Road.
-
-Two three wheelers and car damaged a motorcycle in the accident.
-
-Police said the branch of the collapsed in the collapse had been removed from the area.
-
-◼️
-
-[Data](articles/61e33f4f.json)
-
-[Extended Data](ext_articles/61e33f4f.ext.json)
 
 ---

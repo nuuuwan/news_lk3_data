@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 13:17:56**
+As of **2024-03-29 13:34:09**
 
 ## Newspaper Stats
 
-*Scraped **15,897** Articles*
+*Scraped **15,898** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,39 +20,59 @@ tamilmirrorlk | 1,905
 adaderanalk | 1,908
 virakesarilk | 2,253
 dailymirrorlk | 2,451
-adaderanasinhalalk | 2,554
+adaderanasinhalalk | 2,555
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,894 (100.0%) of 15,897 articles have been extended.
+15,897 (100.0%) of 15,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### PHI ඝාතන විමර්ශන CIDයට
+### පාතාලයේ රුපියල් කෝටි 10ක වත්කම් පොලිස් භාරයට
+
+*2024-03-29 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195068) · `si`
+
+ගාල්ල, අම්බලන්ගොඩ සහ අහුන්ගල්ල යන ප්‍රදේශවලදී පාතාල සැකකරුවන්ට අයත් බවට පැවසෙන රුපියල් කෝටි 10කට අධික වටිනාකමින් යුත් දේපොළ පොලිස් භාරයට ගෙන තිබේ.
+
+පොලීසිය සඳහන් කළේ ඒ් අතරට බහුදින ධීවර යාත්‍රා 02ක්, ත්‍රිරෝද රථ, යතුරුපැදි සහ ඉඩම් අයත් බවය.
+
+◼️
+
+[Data](articles/acdb1efe.json)
+
+---
+
+### Under the CID of PHI
 
 *2024-03-29 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195067) · `si`
 
-ඇල්පිටිය ප්‍රදේශයේදී  PHI නිලධාරියෙකු වෙඩිතබා ඝාතනය කිරීම සම්බන්ධයෙන් යම් යම් තොරතුරු ලැබෙමින් පවතින බව පොලීසිය පවසයි.
+A PHI official is receiving information on the murder of Treasurer Roshara in Elpitiya. The case is under investigation by the Department of Investigations. CCTV footage has been found.
 
-නියෝජ්‍ය පොලිස්පති, පොලිස් මාධ්‍ය ප්‍රකාශක නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේ අදාළ තොරතුරු තහවුරු කරගනිමින් සිටින බවය.
+🟩
 
-මේ සම්බන්ධයෙන් විමර්ශන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට භාරදී ඇති බවද ඔහු පැවසීය.
+Police say that a pHI official is receiving some information regarding the killing of shot in Elpitiya.
 
-ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරික රොෂන් කුමාර මහතා ඉකුත් පෙබරවාරි 26 වනදා උදෑසන වෙඩිතබා ඝාතනය කර සැකකරුවන් පළාගොස් තිබුණි.
+Deputy Inspector General of Police, Spokesperson Leaving Nihal Talduuwa said that the information is being established.
 
-වෙඩික්කරුවන් යතුරුපැදියකින් පළා යන අයුරු දැක්වෙන CCTV රූපරාමු පෙළක් ද විමර්ශකයින් පසුව සොයා ගත්තේය.
+He said the investigating crimes have been handed over to the Department of Investigations.
 
-ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරික ලෙස කටයුතු කළ W. D රොෂාන් කුමාර මහතා ඇල්පිටිය, කරුඳුගහහැතැක්ම ප්‍රදේශයේ ඔහුගේ නිවසේදීම ඝාතනයට ලක්විය.
+Treasurer Roshara of the Sri Lanka Public Health Inspectors Association was shot dead on the 26th of February.
 
-නඩු කටයුතු නිසා මෙම ඝාතනය සිදුකර ඇති බවට මෙතෙක් කළ විමර්ශනවලදී ස්ථිර ලෙසම තහවුරු කරගැනීමක් සිදුවී නොමැති බවද පොලිස් මාධ්‍ය ප්‍රකාශකවරයා තවදුරටත් පැවසීය.
+Investigators also found a CCTV footage in a motorcycle with a motorcycle.
+
+Treasurer of the Sri Lanka Public Health Inspectors Association w. D Roshan Kumara was assassinated at his residence in Elpitiya, Karaindugahahack.
+
+The Police Media Spokesperson further stated that investigations have not been permanently established in recent investigations due to the cases.
 
 ◼️
 
 [Data](articles/58cc1899.json)
+
+[Extended Data](ext_articles/58cc1899.ext.json)
 
 ---
 
@@ -200,21 +220,27 @@ According to S&P Global Commodity Insights, the demand spike, estimated to be ov
 
 ---
 
-### பிளவை நோக்கிச் செல்லும் ஸ்ரீலங்கா பொதுஜனபெரமுன
+### Sri Lanka PA
 
 *2024-03-29 12:09:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிளவை-நோக்கிச்-செல்லும்-ஸ்ரீலங்கா-பொதுஜனபெரமுன/175-335341) · `ta`
 
-ஜனாதிபதி தேர்தலில்  கட்சியின் வேட்பாளரை நிறுத்தவேண்டும் என ஒரு தரப்பினரும் ஜனாதபதி ரணில் விக்ரமசிங்கவிற்கு ஆதரவளிக்கவேண்டும் என மற்றைய தரப்பினரும்  உறுதியாக நிற்பதன் காரணமாக ஸ்ரீலங்கா பொதுஜனபெரமுன பிளவுபடும் நிலை உருவாகியுள்ளதாக டெய்லிமிரர் செய்தி வெளியிட்டுள்ளது.
+Sri Lanka PA's internal conflict over presidential candidate. Rajapaksa faction urges party to support Wickremesinghe. Executive committee meeting highlights tension. MPs, in government, insist on Wickremesinghe's backing if he runs.
 
-ஸ்ரீலங்கா பொதுஜனபெரமுனவின் ராஜபக்ச குடும்பத்திற்கு ஆதரவான தரப்பினர் கட்சி தனது சொந்தவேட்பாளரை நிறுத்தி தேர்தலில் போட்டியிடவேண்டும் என  தெரிவித்துள்ளனர்.
+🟩
 
-கட்சியின் நிறைவேற்றுகுழுவின் கூட்டத்தில் இந்த கருத்து வெளியாகியுள்ளது - எனினும் தேர்தல் திகதி அறிவிக்கப்படாததால் இது குறித்து கட்சி இன்னமும் தீவிரமாக ஆராயவில்லை.
+The Sri Lankan PA has been in a state of disrepair due to the firmness of the party and other parties that the party should field a candidate in the presidential election and other parties to support President Ranil Wickremesinghe.
 
-இதேவேளை அரசாங்கத்தில் அமைச்சரவை பதவிகளை வகிக்கும்  பொதுஜனபெரமுனவின் பாராளுமன்ற உறுப்பினர்கள் ஜனாதிபதி ரணில் விக்ரமசிங்க தேர்தலில் போட்டியிடும் பட்சத்தில் அவருக்கே ஆதரவளிக்கவேண்டும் என்ற உறுதியான நிலைப்பாட்டை கொண்டுள்ளனர். R
+The party in favor of the Rajapaksa family of the Sri Lanka PA has said that the party should stop its own candidate and contest the election.
+
+The comment has been made at the meeting of the party's executive committee - however, the party has not yet been seriously investigated as the election date has not been announced.
+
+Meanwhile, MPs of the PA, who holds cabinet posts in the government, have a firm position that President Ranil Wickremesinghe should support him if he contests the election.. Remble
 
 ◼️
 
 [Data](articles/b167a3c0.json)
+
+[Extended Data](ext_articles/b167a3c0.ext.json)
 
 ---
 
@@ -832,19 +858,25 @@ Further investigations are being carried out at the Mullaitivu Magistrate's Cour
 
 ---
 
-### පී.එච්.අයිට. වෙඩි තැබීමේ තැත වරදියි
+### PH Ai. The shooting attempt is sins
 
 *2024-03-29 09:02:42* · [`adalk`](https://www.ada.lk/breaking_news/පී-එච්-අයිට--වෙඩි-තැබීමේ-තැත-වරදියි/11-408844) · `si`
 
-මහභාගේ පොලිස් වසමේ දී මහජන සෞඛ්‍ය පරීක්ෂක සහයකකුට 27 දින උදෑසන යතුරු පැදියකින් පැමිණි පුද්ලයන් දෙදෙනකු වෙඩි තැබීමට ගත් උත්සහය ව්‍යර්ථව ගිය බව පොලීසිය පවසයි.
+In Mahagama, a shooting attempt on two stakeholders in a motorcycle on the 27th was thwarted by Asanka Lakmal, who was trying to shoot with a 56-caliber firearm. The shooters fled, and police are investigating the incident.
 
-අංක 481 රජයේ ඉඩම මත්තුමගල රාගම පදිංචි  පි. අසංක ලක්මාල් නැමති අයගේ නිවසට 27 දා උදෑසන පල්සර් වර්ගයේ යතුරු පැදියකින් පැමිණ ඇති පුත්ගලයන් දෙදෙනකු ටී. 56 වර්ගයේ ගිණි අවියකින් අසංක ලක්මාල්ට වෙඩි තැබීමට උත්සහ දරා තිබේ.
+🟩
 
-වෙඩි තැබීමට පැමිණි පුද්ගලයන් සමග අසංක ලක්මාල් පොරබදා තිබෙන අතර එම අවස්ථාවේදී ගිණි අවියේ උණ්ඩ මැගසිනය බිම් වැටි තිබේ. ඒ සමගම වෙඩි තැබීමට පැමිණි පුද්ගලයන් පලා ගොස් ඇත. වෙඩි තැබීමට හේතුව අනාවරණය වී නොමැති බව ද පොලීසිය පවසයි. සිද්ධිය සම්බන්ධයෙන් වැඩි දුර පරීක්ෂණ කටයුතු රාගම පොලීසිය විසින් සිදු කරයි.
+Police say that the attempt to shoot two stakeholders who had arrived in a motorcycle on the 27th morning of 27 days in the Mahagama Police Division.
+
+State Land - State Land, Delegation in Ragama Rama. Two tanks arrived at a motorcycle on Pabarr motorcycle on the 27th. Asanka Lakmal has been trying to shoot at Lakmal with a 56 bircle fire.
+
+Asanka Lakmal is struggled with people who have come to shoot.. At the same time, the people who had come to shoot had fled. Police say the cause of the shooting has not been revealed. Ragama Police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/28bd6882.json)
+
+[Extended Data](ext_articles/28bd6882.ext.json)
 
 ---
 
@@ -2233,23 +2265,5 @@ Police said the branch of the collapsed in the collapse had been removed from th
 [Data](articles/61e33f4f.json)
 
 [Extended Data](ext_articles/61e33f4f.ext.json)
-
----
-
-### Jaffna - Nelliyadi leaky cave blockade by police
-
-*2024-03-28 21:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179914) · `ta`
-
-Police in Jaffna recovered over 600 koda and equipment from a leaky cave blockade at Nelliyadi.
-
-🟩
-
-More than 600 koda and the equipment for leakage have been recovered by the police.
-
-◼️
-
-[Data](articles/6c05e7f3.json)
-
-[Extended Data](ext_articles/6c05e7f3.ext.json)
 
 ---

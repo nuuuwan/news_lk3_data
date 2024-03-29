@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 10:03:38**
+As of **2024-03-29 10:18:06**
 
 ## Newspaper Stats
 
-*Scraped **15,858** Articles*
+*Scraped **15,862** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 169
 dbsjeyarajcom | 195
 newsfirstlk | 363
 dailyftlk | 860
-economynextcom | 869
+economynextcom | 871
 islandlk | 879
 adalk | 1,340
 tamilmirrorlk | 1,899
-adaderanalk | 1,900
-virakesarilk | 2,246
+adaderanalk | 1,901
+virakesarilk | 2,247
 dailymirrorlk | 2,448
 adaderanasinhalalk | 2,548
 
@@ -26,47 +26,115 @@ adaderanasinhalalk | 2,548
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,856 (100.0%) of 15,858 articles have been extended.
+15,858 (100.0%) of 15,862 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### இன்று பெரிய வெள்ளி
+### Sri Lanka launches online child sexual abuse reporting portal
+
+*2024-03-29 10:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-launches-online-child-sexual-abuse-reporting-portal-156531/) · `en`
+
+ECONOMYNEXT – An international reporting portal for child sexual abuse material (CSAM) was launched in Sri Lanka jointly by the National Child Protection Authority (NCPA), Internet Watch Foundation (IWF), Save the Children and ChildFund Sri Lanka.
+
+“The IWF reporting portal will play a crucial role in reporting and taking down online child sexual abuse imagery for countries that do not currently have this facility,” Save the Children said in a statement.
+
+Each report processed by the reporting portal will be manually assessed by IWF highly trained analysts using technical internet tracing techniques to locate criminal content, to trace and determine the geographical location of the server on which the content is hosted at the time of assessment.
+
+...
+
+[Data](articles/25d4059c.json)
+
+---
+
+### பிளவை நோக்கி பொதுஜனபெரமுன- டெய்லிமிரர்
+
+*2024-03-29 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179951) · `ta`
+
+ஜனாதிபதி தேர்தலில்  கட்சியின் வேட்பாளரை நிறுத்தவேண்டும் என ஒரு தரப்பினரும் ஜனாதபதி ரணில்விக்கிரமசிங்கவிற்கு ஆதரவளிக்கவேண்டும் என மற்றைய தரப்பினரும்  உறுதியாக நிற்பதன் காரணமாக இந்த நிலையேற்பட்டுள்ளது என டெய்லிமிரர் தெரிவித்துள்ளது.
+
+ஸ்ரீலங்கா பொதுஜனபெரமுனவின் ராஜபக்ச குடும்பத்திற்கு ஆதரவான தரப்பினர் கட்சி தனது சொந்தவேட்பாளரை நிறுத்தி தேர்தலில் போட்டியிடவேண்டும் என  தெரிவித்துள்ளனர்.
+
+கட்சியின் நிறைவேற்றுகுழுவின் கூட்டத்தில் இந்த கருத்து வெளியாகியுள்ளது - எனினும் தேர்தல் திகதி அறிவிக்கப்படாததால் இது குறித்து கட்சி இன்னமும் தீவிரமாக ஆராயவில்லை.
+
+இதேவேளை அரசாங்கத்தில் அமைச்சரவை பதவிகளை வகிக்கும்  பொதுஜனபெரமுனவின் நாடாளுமன்ற உறுப்பினர்கள் ஜனாதிபதி ரணில்விக்கிரமசிங்க தேர்தலில் போட்டியிடும் பட்சத்தில் அவருக்கே ஆதரவளிக்கவேண்டும் என்ற உறுதியான நிலைப்பாட்டை கொண்டுள்ளனர்.
+
+இதேவேளை ஜனாதிபதி தேர்தலில் வெற்றிபெறக்கூடிய திறமையுடைய எவரும் கட்சியில் இல்லை  என தெரிவித்துள்ள பிரசன்ன ரணதுங்க இதன் காரணமாக கட்சி தனது வேட்பாளரை நிறுத்தக்கூடாது  என தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/f4cea25b.json)
+
+---
+
+### Good Friday commemorated today; Special security plans in place in Sri Lanka
+
+*2024-03-29 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98278/good-friday-commemorated-today-special-security-plans-in-place-in-sri-lanka) · `en`
+
+Good Friday is a significant Christian and Catholic religious observance that marks the crucifixion of Jesus Christ and his death at Calvary. This year, Good Friday is commemorated today (29).
+
+According to the New Testament, Jesus Christ was crucified on a Friday. As such, Good Friday is observed on the Friday preceding Easter Sunday which marks the resurrection of Jesus Christ from the dead on the third day of his burial.
+
+In the Christian Liturgical Calendar, Easter follows Lent, the 40-day period (excluding Sundays) before Easter which traditionally is observed by acts of penance and fasting.
+
+Easter Sunday is immediately preceded by Holy Week (Passion Week) which begins with Palm Sunday, the day Jesus Christ entered the city of Jerusalem. Holy Thursday marks the Last supper of Jesus Christ, during which he established the sacrament of Holy Communion prior to being arrest.
+
+...
+
+[Data](articles/567032bd.json)
+
+---
+
+### Today's big silver
 
 *2024-03-29 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179948) · `ta`
 
-உலகில் வாழும் கிறிஸ்தவர்கள் இன்று யேசுக்கிறிஸ்துவின் பாடுகள், மரணத்தை நினைவு கூர்ந்து புனித வெள்ளியை அனுஷ்டித்து வருகின்றனர்.
+Today marks Holy Friday, commemorating Jesus' suffering and death, leading to Easter Sunday. Christians recall Jesus' life, death, and resurrection, celebrating Good Friday as a day of humanity's benefits. Despite Jesus' death, Christians remember the day as Good Friday, a day of fearlessness and freedom from death's power.
 
-இயேசுவின் மறைவு புனித வெள்ளியாக இன்று அனுசரிக்கப்படுகிறது. அவர் உயிர்த்தெழுந்த நாள் 'ஈஸ்டர்' ஞாயிறாக அனுஷ்டிக்கப்படுகின்றது.
+🟩
 
-யேசுக்கிறிஸ்து இறந்தது துக்க நிகழ்வு என்றாலும், அதனால் மனித குலத்திற்கு விளைந்த நன்மைகளை வைத்தே 'புனித வெள்ளி' என்றழைக்கின்றனர் கிறிஸ்தவர்கள்.
+Christians living in the world today recall the suffering of Jesus Christ and celebrate the death of Holy Friday.
 
-வரலாற்றில் முக்கிய நிகழ்வான இயேசு கிறிஸ்துவின் பாடுகள், மரணம், உயிர்ப்பை உலகளவில் கிறிஸ்தவர்கள் நினைவு கூர்ந்து வருகின்றனர். அந்தவகையில் இயேசு கிறிஸ்து உயிர்விட்ட நாளை இன்று உலகிலுள்ள அனைத்து கிறிஸ்தவர்களும் இன்று 'பெரிய வெள்ளி'யாக நினைவு கூருகின்றனர்.
+The demise of Jesus is observed today as Holy Friday. The day of his resurrection is celebrated as 'Easter' on Sunday.
+
+Although Jesus Christ died, Christians are called 'Good Friday', which has the benefits of humanity.
+
+Christians are recalling the suffering, death and life of Jesus Christ, the main event in history. All Christians in the world today remember the 'Great Friday' today.
+
+Jesus' death comes to the memory of the people of the world, when it comes to the Great Friday, Good Friday, Good Friday. The adults or ancestors have been correctly named for that day. Good Friday, Good Friday, All Fridays are the most appropriately named. But if you ask if the day is observed based on those names.
 
 ...
 
 [Data](articles/1ff8451e.json)
 
+[Extended Data](ext_articles/1ff8451e.ext.json)
+
 ---
 
-### எந்த தேர்தலில் முதலில் நடைபெறவேண்டும் என்பதை நீங்களே தீர்மானித்துக்கொள்ளுங்கள் - பொதுஜனபெரமுனவிடம் பசில்
+### Decide for yourself which election should be held first - Basil to the PA
 
 *2024-03-29 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/179949) · `ta`
 
-எந்த தேர்தல் முதலில் நடைபெற வேண்டும் என்பதை நீங்களே தீர்மானித்துக்கொள்ளுங்கள் என முன்னாள் நிதியமைச்சர் பசில்ராஜபக்ச ஸ்ரீலங்கா பொதுஜனபெரமுனவின் நிறைவேற்றுக்குழுவிடம் தெரிவித்துள்ளார்.
+Basilrajapaksa advises Sri Lanka PA to decide on the order of elections, suggesting a parliamentary election before the presidential one.
 
-ஜனாதிபதி தேர்தலிற்கு முன்னர் நாடாளுமன்ற தேர்தலை நடத்துங்கள் என என்னுடைய தனிப்பட்ட கருத்தினையே நான் ஜனாதிபதியிடம் தெரிவித்தேன் என பசில்ராஜபக்ச தெரிவித்துள்ளார்.
+🟩
 
-முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்சவின் இல்லத்தில் இடம்பெற்ற ஸ்ரீலங்கா பொதுஜனபெரமுனவின்  நிறைவேற்றுகுழுவின் கூட்டத்தில் கருத்து தெரிவிக்கையில் பசில் ராஜபக்ச இதனை தெரிவித்துள்ளார்.
+Former Finance Minister Basilrajapaksa told the Sri Lanka PA's executive committee, "You should decide for yourself which election should be held first."
 
-நாடாளுமன்ற தேர்தலே முதலில் இடம்பெறவேண்டும் என்பது எனது தனிப்பட்ட கருத்து என பசில் ராஜபக்ச தெரிவித்தார் என கட்சியின் பொதுச்செயலாளர் சாகரகாரியவசம் தெரிவித்துள்ளார்.
+Basilrajapaksa said that I had informed the President that I had to hold a parliamentary election before the presidential election.
 
-நாடாளுமன்ற தேர்தலை முதலில் நடத்தவேண்டும் என்பது எனது  தனிப்பட்ட கருத்து அவர் அது தனது தனிப்பட்ட கருத்து கட்சியின் கருத்து என்பதை ஜனாதிபதியிடமும் தெரிவித்துள்ளார் என குறிப்பிட்டுள்ள சாகரகாரியவசம் கட்சி இது குறித்து மேலும் ஆராய்ந்து தீர்மானிக்கலாம் எனவும் பசில்ராஜபக்ச தெரிவித்துள்ளார் எனவும் குறிப்பிட்டுள்ளார்.
+Basil Rajapaksa made this statement at a meeting of the Sri Lanka PA executive committee held at the residence of former President Mahinda Rajapaksa.
+
+The general secretary of the party, Sagarakariyawasam, said that Basil Rajapaksa said that it was my personal opinion that the parliamentary election should be held first.
+
+My personal opinion is that the first parliamentary election should be held, and that the party has also said to the President that it is his personal opinion party.
 
 ◼️
 
 [Data](articles/6ff6bf5a.json)
+
+[Extended Data](ext_articles/6ff6bf5a.ext.json)
 
 ---
 
@@ -320,6 +388,26 @@ The Police Headquarters also obtained the assistance of STF personnel, intellige
 
 ---
 
+### Sri Lanka trade deficit up 77-pct to Feb, imports surge, rupee appreciates
+
+*2024-03-29 07:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-deficit-up-77-pct-to-feb-imports-surge-rupee-appreciates-156552/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s trade deficit widened 817 percent to 319 million dollars in February 2024, from 39 million dollars and imports rose 35 percent, official data showed, while the rupee was allowed to appreciate amid deflationary monetary policy.
+
+In February merchandise exports went up 7.9 percent to 1,059 million dollars, and imports surged 35 percent to 1378 million US dollars, central bank data showed.
+
+In the two months to February 2024, exports to went up 3.6 percent to 2,030 million US dollars, imports went up 18.2 percent to 2,890 million dollars.
+
+The trade deficit widened 77 percent to 860 million dollars in the two months from 484 million dollars last year.
+
+The rupee was allowed to appreciate to 310 to the US dollar by end February from 323 to the US dollar by in December 2024 as the central bank operated deflationary policy and mopped up liquidity from dollar purchases.
+
+...
+
+[Data](articles/707ff73d.json)
+
+---
+
 ### South Africa fatal bus accident
 
 *2024-03-29 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195056) · `si`
@@ -564,7 +652,7 @@ In recent times, there is a massive campaign launched in Sri Lanka to eliminate 
 
 Our purpose in this world is to choose the resurrection where we join with Christ and seek his power of thought to restore our minds to its original glory
 
-The resurrection of Christ is the corner stone of Christian mystical thought. As such, there are no neutral or idle thoughts for the spiritual seeker. In this way, all thought produces form at some level but they are either true or false. For the spiritual aspirant, the resurrection, correctly speaking, is the highest level of thought; for it acknowledges that there is no thought but God.
+Birth and death have no special merit except that they both re-enact and perpetuate the separation notwithstanding the entry into or the exit of the lower state of vibration. Life in the physical plane manifests as though thought has no power or causal effect. We are buffeted and bruised by everything external and the impact of them is experienced by the body where it “perceptually” witnesses to this schema. Thus, from a state of mindfulness to a state of mindlessness, the descent which reflects the separation from God, the body becomes the hallmark of all who “have sinned and come short of his glory.” But the resurrection, on the other hand, is one of great importance since it restores the function of Causation to cause in the mind
 
 ...
 
@@ -2179,103 +2267,5 @@ Development Lotteries Board is one of the state-owned enterprises to be register
 [Data](articles/a4a61d53.json)
 
 [Extended Data](ext_articles/a4a61d53.ext.json)
-
----
-
-### Sri Lanka Abans says McDonald’s local franchisee mainly owned by its MD, not subsidiary
-
-*2024-03-28 17:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-abans-says-mcdonalds-local-franchisee-mainly-owned-by-its-md-not-subsidiary-156486/) · `en`
-
-ECONOMYNEXT –  The local franchisee of U.S. brand McDonald’s is not a subsidiary of Abans PLC as widely claimed by local media but majority of its stake is owned by the company’s managing director, the Sri Lankan listed company said.
-
-Sri Lanka’s Colombo Commercial High Court last week issued an order preventing the island’s McDonald’s restaurant franchisee from using the brand.
-
-Local reports said McDonald’s Corporation had sought an order preventing Abans Plc from selling McDonald’s food items in Sri Lanka.
-
-“The local franchisee of McDonald’s is International Restaurant Systems (Private) Limited incorporated under the Companies Act No 7 of 2007,” Abans said in a statement to the Colombo Stock Exchange, dissociating itself form the court case.
-
-“The majority shareholder of the said company is Mr. Rusi Pestonjee who owns a 98.73% stake in that company, and who is also the Managing Director of Abans PLC.”
-
-...
-
-[Data](articles/1e3d556f.json)
-
-[Extended Data](ext_articles/1e3d556f.ext.json)
-
----
-
-### A group of people injected schools hospitalized
-
-*2024-03-28 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195036) · `si`
-
-In Kalutara, 10 students aged 12-13 were hospitalized after a vaccine caused fainting and respiratory discomfort.
-
-🟩
-
-A group of students of a school in Kalutara area have been hospitalized due to a serious illness that occurred after a vaccine.
-
-Roads sources said that 10 students have been hospitalized.
-
-According to the sources, a group of students aged 12 and 13 years old, have been hospitalized.
-
-It has been reported that students hospitalized are a fainting and respiratory discomfort.
-
-◼️
-
-[Data](articles/ac6be30c.json)
-
-[Extended Data](ext_articles/ac6be30c.ext.json)
-
----
-
-### 14 Days of Explanation for the Woman
-
-*2024-03-28 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179916) · `ta`
-
-The Kalmunai Magistrate postponed the case to April 10, involving the supervisor of Nunnatha school, implicated in a boy's death. The supervisor, arrested, will reappear on Wednesday.
-
-🟩
-
-The Kalmunai Magistrate has ordered the postponement of the case to be postponed for a re -election till April 10, with the supervisor of the school, the superintendent of the school who was arrested in connection with the death of a boy who died at the Nunnatha school.
-
-Kalmunai Magistrate MSM Samsudheen was again ordered to appear again on Wednesday (27) after the suspect was arrested by the headquarters of the Kalmunai headquarters in connection with the death of a boy who was placed in the Children's Probation School in the Kalmunai Headquarters Division of the Ampara District.
-
-The applications of the police and the defendant's lawyer have been investigated and the supervisor of the 28 -year -old has been ordered to be remanded again.
-
-◼️
-
-[Data](articles/54a5231c.json)
-
-[Extended Data](ext_articles/54a5231c.ext.json)
-
----
-
-### Fake complaint on the hand
-
-*2024-03-28 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195035) · `si`
-
-A British national in Alawatugoda reportedly lodged a fake complaint, claiming theft of Rs. 90,000, wrists, and a camera. The suspect, staying at a local hotel, fled after the police investigated.
-
-🟩
-
-A British national has been reported from Alawatugoda area on a fake complaint.
-
-The suspect is staying at a tourist hotel in Alawatugoda area.
-
-The police have lodged a complaint with the police that he had stolen a stock of items including money, including the money worth of Rs.
-
-He had stated that he had stolen Rs. 90,000, two wrists, a camera.
-
-Accordingly, the suspect foreigner has stated that the suspect is not necessary and that the insurance prosecution is sufficient.
-
-The suspect's exploitation is revealed in this room, and the doebodies of the room have been demonstrated in the hospital.
-
-Accordingly, the suspect has already fled the area from the police.
-
-◼️
-
-[Data](articles/0ead3977.json)
-
-[Extended Data](ext_articles/0ead3977.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 12:18:08**
+As of **2024-03-29 12:34:22**
 
 ## Newspaper Stats
 
-*Scraped **15,887** Articles*
+*Scraped **15,888** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 872
 islandlk | 879
 adalk | 1,340
 tamilmirrorlk | 1,904
-adaderanalk | 1,906
+adaderanalk | 1,907
 virakesarilk | 2,250
 dailymirrorlk | 2,451
 adaderanasinhalalk | 2,552
@@ -26,27 +26,47 @@ adaderanasinhalalk | 2,552
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,883 (100.0%) of 15,887 articles have been extended.
+15,887 (100.0%) of 15,888 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### இரு மாணவர்கள் மின்சாரம் தாக்கி வைத்தியசாலையில் அனுமதி
+### Bunker demand surges in Sri Lankan ports as India grapples with supply shortages
+
+*2024-03-29 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98285/bunker-demand-surges-in-sri-lankan-ports-as-india-grapples-with-supply-shortages) · `en`
+
+In the wake of vessel re-routings aimed at avoiding the Red Sea, bunker demand across ports in both India and Sri Lanka has witnessed a significant surge, highlighting a growing challenge for the maritime industry. While India contends with supply shortages, Sri Lankan ports are experiencing a notable increase in activity.
+
+According to S&P Global Commodity Insights, the demand spike, estimated to be over 30 per cent in ports across India and Sri Lanka, has been primarily attributed to longer voyages undertaken by ship owners and charters to circumvent the Red Sea region. Consequently, ports on India’s west coast, particularly Kochi and Mumbai, are grappling with disrupted VLSFO (Very Low Sulfur Fuel Oil) supplies, exacerbating the situation.
+
+...
+
+[Data](articles/094641f5.json)
+
+---
+
+### Two students are admitted to the hospital
 
 *2024-03-29 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/179955) · `ta`
 
-தெனியாய பிரதேச பாடசாலையொன்றில் வருடாந்த இல்ல விளையாட்டு போட்டிக்காக விளையாட்டு இல்லங்கள் தாயார் செய்வதற்காக மூங்கில் மரங்களை வெட்டச் சென்ற இரு மாணவர்களுக்கு மின்சாரம் தாக்கியுள்ளது.
+Two students injured by falling bamboo trees were hit by the mother of the Annual Home Sports Competition organizer at Deniyaya Divisional School. They were admitted to Deniyaya Primary Hospital, with one being transferred to Matara Hospital.
 
-குறித்த விளையாட்டுப்போட்டி நேற்று வியாழக்கிழமை (28)  இடம்பெறவிருந்த நிலையில், இரவுவேளை பாடசாலை மைதானத்தின் அருகில் மூங்கில் மரங்களை வெட்டச் சென்ற போதே மின்சாரம் தாக்கியுள்ளது.
+🟩
 
-மேலும், மூங்கில் மரங்களிற்கு அருகிலிருந்த  பாரிய மின்கடத்தியில் பொருத்தப்பட்டிருந்த அதிசக்தி வாய்ந்த மின் கம்பிகள் எரிந்ததன் காரணமாகவே மின்சாரம் தாக்கியுள்ளது.
+Two students who have been cut off bamboo trees have been hit by the mother of the mother of the Annual Home Sports Competition at a Deniyaya Divisional School.
 
-மின்சார தாக்கத்திற்குள்ளான மாணவர்கள் தெனியாய ஆரம்ப வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்தோடு, அவர்களில் ஒருவர் மாத்தறை வைத்தியசாலைக்கு மாற்றப்படவுள்ளார்.
+The game was due to take place on Thursday (28) yesterday (28th).
+
+In addition, electricity has been hit by the burning of the miraculous power lines that were mounted on a massive dielectric near the bamboo trees.
+
+Students who have been affected by the electrical impact have been admitted to the Deniyaya Primary Hospital and one of them will be transferred to the Matara Hospital.
 
 ◼️
 
 [Data](articles/08297ae9.json)
+
+[Extended Data](ext_articles/08297ae9.ext.json)
 
 ---
 
@@ -66,21 +86,29 @@ Ranaweera said that the Sri Lanka Institute of Textile and Apparel had recently 
 
 [Data](articles/9644ede4.json)
 
+[Extended Data](ext_articles/9644ede4.ext.json)
+
 ---
 
-### கரையோர மார்க்கத்தில் ரயில் சேவை தாமதமடையும் - ரயில் திணைக்களம்
+### Railway service delayed on coastal route - Railway Department
 
 *2024-03-29 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179960) · `ta`
 
-கரையோர மார்க்கத்தில் இன்று, நாளை மற்றும் நாளை மறுதினம் ரயில் சேவையில்  தாமதம் ஏற்படலாம் என ரயில் திணைக்களம் தெரிவித்துள்ளது.
+Railway service delayed on coastal route due to revision work near Bambalapitiya Puri Station, affecting Colombo to Wellawatte route. Services may be canceled.
 
-பம்பலப்பிட்டி புரயில் நிலையத்திற்கு அருகில் மேற்கொள்ளப்பட்டுவரும் திருத்தப் பணிகளே இதற்கு காரணம் என ரயில் பிரதிப் பொது முகாமையாளர் என்.ஜே.இந்திபோலகே தெரிவித்துள்ளார்.
+🟩
 
-இதன் காரணமாக கொழும்பில் இருந்து வெள்ளவத்தை வரையான ரயில் போக்குவரத்து நடவடிக்கைகள் ஒரே வழியில் மேற்கொள்ளப்படவுள்ளதாகவும், சில சமயங்களில் ரயில் சேவைகள் இரத்து செய்ய நேரிடலாம் எனவும் பிரதி பொது முகாமையாளர் தெரிவித்துள்ளார்.
+The Railway Department said that there is a delay in the train service today, tomorrow and tomorrow.
+
+Railway Deputy General Manager NJ Indipolake said that this is due to the revision work being carried out near the Bambalapitiya Puri Station.
+
+Due to this, the Deputy General Manager said that railway traffic from Colombo to Wellawatte will be carried out in the same way and sometimes the rail services may be canceled.
 
 ◼️
 
 [Data](articles/689db6d8.json)
+
+[Extended Data](ext_articles/689db6d8.ext.json)
 
 ---
 
@@ -125,6 +153,8 @@ Under the Special Commodity Levy Act, a tax is imposed on a total of 64 commodit
 ◼️
 
 [Data](articles/4427023c.json)
+
+[Extended Data](ext_articles/4427023c.ext.json)
 
 ---
 
@@ -2195,23 +2225,5 @@ At the beginning of the case, the report of the Government Solicitor General Lak
 [Data](articles/4ff61000.json)
 
 [Extended Data](ext_articles/4ff61000.ext.json)
-
----
-
-### 'We should win': Shakib before joining Tigers ahead of second SL Test
-
-*2024-03-28 20:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/We-should-win-Shakib-before-joining-Tigers-ahead-of-second-SL-Test/108-279788) · `en`
-
-Mar. 28 (thedailystar) - Former Bangladesh skipper Shakib Al Hasan said that he believes the Tigers have the capability to do well and even win their upcoming Test against Sri Lanka.
-
-Bangladesh, led by Najmul Hossain Shanto, suffered a 328-run hammering at the hands of the Lankans in the first of the two-Test series in Sylhet. The Tigers now gear up to face the same opposition in the second Test in Chattogram, starting from March 30.
-
-Shakib, who had been suffering from an eye problem and initially opted out of the Sri Lanka series, expressed his desire to get back in the red-ball format and the Bangladesh Cricket Board (BCB) did not hesitate to add him to the squad for the Chattogram Test.
-
-...
-
-[Data](articles/30eeb3c8.json)
-
-[Extended Data](ext_articles/30eeb3c8.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 13:03:09**
+As of **2024-03-29 13:17:56**
 
 ## Newspaper Stats
 
-*Scraped **15,894** Articles*
+*Scraped **15,897** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,72 @@ newsfirstlk | 363
 dailyftlk | 862
 economynextcom | 872
 islandlk | 879
-adalk | 1,340
-tamilmirrorlk | 1,904
+adalk | 1,341
+tamilmirrorlk | 1,905
 adaderanalk | 1,908
 virakesarilk | 2,253
 dailymirrorlk | 2,451
-adaderanasinhalalk | 2,553
+adaderanasinhalalk | 2,554
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,890 (100.0%) of 15,894 articles have been extended.
+15,894 (100.0%) of 15,897 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### தென் ஆபிரிக்க முன்னாள் ஜனாதிபதி ஸுமா தேர்தலில் போட்டியிட தடை
+### PHI ඝාතන විමර්ශන CIDයට
 
-*2024-03-29 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/179962) · `ta`
+*2024-03-29 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195067) · `si`
 
-தென் ஆபிரிக்காவின் முன்னாள் ஜனாதிபதி ஜேக்கப் ஸுமா எதிர்வரும் பொதுத் தேர்தலில் போட்டியிடுவதற்கு அந்நாட்டு தேர்தல்கள் ஆணைக்குழு தடை விதித்துள்ளது.
+ඇල්පිටිය ප්‍රදේශයේදී  PHI නිලධාරියෙකු වෙඩිතබා ඝාතනය කිරීම සම්බන්ධයෙන් යම් යම් තොරතුරු ලැබෙමින් පවතින බව පොලීසිය පවසයි.
 
-இத்தடைக்கான காரணம் பகிரங்கப்படுத்தப்படவில்லை. எனினும், அவர் போட்டியிடுவதற்கு எதிராக முன்வைக்கப்பட்ட ஆட்சேபனை ஏற்றுக்கொள்ளப்பட்டுள்ளதாக அவ்வாணைக்குழு தெரிவித்துள்ளது.
+නියෝජ්‍ය පොලිස්පති, පොලිස් මාධ්‍ය ප්‍රකාශක නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේ අදාළ තොරතුරු තහවුරු කරගනිමින් සිටින බවය.
 
-ஊழல் குற்றச்சாட்டுகள் காரணமாக 2021 ஆம் ஆண்டில் அவருக்கு 15 மாத சிறைத்தண்டனை விதிக்கப்பட்டமை இத்தகுதி நீக்கத்துக்கு காரணமாக இருக்கலாம் எனக் கருதப்படுகிறது.
+මේ සම්බන්ධයෙන් විමර්ශන අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට භාරදී ඇති බවද ඔහු පැවසීය.
 
-இத்தடைக்கு எதிராக ஏப்ரல் 2 ஆம் திகதிக்கு ஸுமா (81) மேன்முறையீடு செய்ய முடியும்.
+ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරික රොෂන් කුමාර මහතා ඉකුත් පෙබරවාරි 26 වනදා උදෑසන වෙඩිතබා ඝාතනය කර සැකකරුවන් පළාගොස් තිබුණි.
 
-2009 முதல் ஜனாதிபதியாக பதவி வகித்த ஜேக்கப் ஸுமா ஊழல் குற்றச்சாட்டுகள் காரணமாக 2018 ஆம் ஆண்டு பதவியிலிருந்து விலக நிர்ப்பந்திக்கப்பட்டார்.
+වෙඩික්කරුවන් යතුරුපැදියකින් පළා යන අයුරු දැක්වෙන CCTV රූපරාමු පෙළක් ද විමර්ශකයින් පසුව සොයා ගත්තේය.
 
-தென் ஆபிரிக்காவின் பாராளுமன்ற பொதுத் தேர்தல் எதிர்வரும் மே 29 ஆம் திகதி நடைபெறவுள்ளது.
+ශ්‍රී ලංකා මහජන සෞඛ්‍ය පරීක්ෂකවරුන්ගේ සංගමයේ භාණ්ඩාගාරික ලෙස කටයුතු කළ W. D රොෂාන් කුමාර මහතා ඇල්පිටිය, කරුඳුගහහැතැක්ම ප්‍රදේශයේ ඔහුගේ නිවසේදීම ඝාතනයට ලක්විය.
+
+නඩු කටයුතු නිසා මෙම ඝාතනය සිදුකර ඇති බවට මෙතෙක් කළ විමර්ශනවලදී ස්ථිර ලෙසම තහවුරු කරගැනීමක් සිදුවී නොමැති බවද පොලිස් මාධ්‍ය ප්‍රකාශකවරයා තවදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/58cc1899.json)
+
+---
+
+### Former South African president Zuma prohibits contesting elections
+
+*2024-03-29 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/179962) · `ta`
+
+Jacob Zuma, South Africa's former president, is banned from contesting the May 29 general election by the Elections Commission, reportedly due to corruption allegations. Zuma, who resigned in 2018, can appeal the ban on April 2.
+
+🟩
+
+The Elections Commission has banned South Africa's former President Jacob Zuma from contesting the upcoming general election.
+
+The cause of this restriction is not made public. However, the committee said it was accepted by the objections put forward against his contest.
+
+It is thought that the area was deleted in 2021 due to corruption allegations.
+
+Suma (81) can appeal against the ban on April 2.
+
+Jacob Zuma, who has been the president since 2009, has been forced to resign in 2018 due to corruption allegations.
+
+South Africa's parliamentary general election will be held on May 29.
 
 ◼️
 
 [Data](articles/42ca7e66.json)
+
+[Extended Data](ext_articles/42ca7e66.ext.json)
 
 ---
 
@@ -67,6 +97,8 @@ Police launched the special island-wide operation in December 2023 to crack down
 ◼️
 
 [Data](articles/f76645cc.json)
+
+[Extended Data](ext_articles/f76645cc.ext.json)
 
 ---
 
@@ -96,21 +128,59 @@ But Israel said that he would refuse the accusations that prevent them from supp
 
 ---
 
-### அமைப்பு முறை மாற்றம் ஏற்பட்டால் மாத்திரமே உயிர்த்த ஞாயிறு தாக்குதல் குறித்த உண்மைகள் வெளிவரும் - அருட்தந்தை சிறில் காமினி பெர்ணான்டோ
+### Bus accident in South Africa
+
+*2024-03-29 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179945) · `ta`
+
+A bus accident in Limbobo, South Africa, killed 45 people, including an 8-year-old girl who survived. The bus, carrying pilgrims from Botswana, lost control on a mountain pass, collapsing in a valley. Some bodies were trapped in the wreckage, and others were caught in a fire. South African President Cyril Ramaposa condoled the victims.
+
+🟩
+
+45 people were killed and one of the victims of a Chennai bus accident in the northern province of South Africa, Limbobo, said the Department of Transport on Thursday (28).
+
+A bus carrying a group of pilgrims from Botswana to Moria in Botswana in South Africa
+
+The bus lost control of the driver on the Mamatlagala mountain pass and collapsed in a nearby valley.
+
+45 people died on the spot. Fortunately, Limbobo's Transport and Social Security Department said that only an 8 -year -old girl survived and is being treated at a nearby hospital.
+
+Some bodies have been caught in a fire, and other bodies have been trapped in the wreckage and scattered on the spot.
+
+South African President Cyril Ramaposa has condoled the victims of a bus accident in Botswana.
+
+◼️
+
+[Data](articles/42d08d44.json)
+
+[Extended Data](ext_articles/42d08d44.ext.json)
+
+---
+
+### Facts about the survival Sunday attack will only reveal when the system changes - Gamini Fernando
 
 *2024-03-29 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179961) · `ta`
 
-உயிர்த்த ஞாயிறு தாக்குதலின் பின்னணியில் உள்ள விடயங்களை கண்டுபிடிப்பதற்கான முக்கிய தடையாக முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்சவே காணப்படுகின்றார் என கத்தோலிக்க திருச்சபையின்  பேச்சாளர் அருட்தந்தை சிறில் காமினி பெர்ணான்டோ தெரிவித்துள்ளார்.
+Gamini Fernando, a Catholic Church spokesman, claims that former President Gotabhaya Rajapaksa is obstructing the truth behind the Survival Sunday attack. He suggests reappointing the Shani Abhayasekera-led Commission and conducting an international investigation. Fernando also warns of a potential political crisis if deceitful politicians remain in power, emphasizing the need for a system change to reveal the truth.
 
-உயிர்த்த ஞாயிறு தாக்குதல் இடம்பெற்று  பலமாதங்ளின் பின்னர் ஜனாதிபதியான பின்னர் கோட்டாபய ராஜபக்ச செய்த எடுத்த முதல் நடவடிக்கை உயிர்த்தஞாயிறு தாக்குதல் குறித்து விசாரணைகளை மேற்கொண்ட உண்மையை கண்டறியும் ஆணைக்குழுவை செயல்இழக்கச்செய்ததே என அவர் குறிப்பிட்டுள்ளார்.
+🟩
 
-உயிர்த்தஞாயிறுதாக்குதல் சூத்திரதாரிகள்யார்  என்பது யார் தனக்கு தெரியும் என முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்திருப்பது குறித்து கருத்து தெரிவித்துள்ள  அருட்தந்தை  சுயாதீன ஆணைக்குழுவை நியமித்தால் மாத்திரமே உண்மை வெளிவரும் என குறிப்பிட்டுள்ளார்.
+Former President Gotabhaya Rajapaksa is the main obstacle to the discovery of matters behind the survival Sunday attack, said Catholic Church spokesman Aruttantha Cyril Gamini Fernando.
 
-ஷானி அபயசேகர தலைமையிலான ஆணைக்குழுவை மீண்டும் நியமிக்கவேண்டும் சர்வதேசஅளவில் விசாரணை இடம்பெறவேண்டும் எனவும் அவர் தெரிவித்துள்ளார்.
+He noted that Gotabhaya Rajapaksa's first action after the president after the death of a Sunday attack was an act of investigating the truth of the residents of the residents.
+
+Commenting on the former President Maithripala Sirisena's comment on what he knows is that the resurrection is the mastermind.
+
+He said that the Shani Abhayasekera -led Commission should be re -appointed and an international investigation should be held.
+
+If you do this, Maithripalasirisena can appear in its presence and tell the truth of who the sutra is.
+
+When you ask Gotabhaya Rajapaksa as the mastermind, the question is that the blessing is a clear thing.
 
 ...
 
 [Data](articles/b367aeb7.json)
+
+[Extended Data](ext_articles/b367aeb7.ext.json)
 
 ---
 
@@ -130,23 +200,75 @@ According to S&P Global Commodity Insights, the demand spike, estimated to be ov
 
 ---
 
-### மக்களே அவதானமாக இருங்கள் ; சமூக ஊடகங்களில் பகிரப்படும் இணைப்புகளைக் கிளிக் செய்ய வேண்டாம்
+### பிளவை நோக்கிச் செல்லும் ஸ்ரீலங்கா பொதுஜனபெரமுன
+
+*2024-03-29 12:09:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிளவை-நோக்கிச்-செல்லும்-ஸ்ரீலங்கா-பொதுஜனபெரமுன/175-335341) · `ta`
+
+ஜனாதிபதி தேர்தலில்  கட்சியின் வேட்பாளரை நிறுத்தவேண்டும் என ஒரு தரப்பினரும் ஜனாதபதி ரணில் விக்ரமசிங்கவிற்கு ஆதரவளிக்கவேண்டும் என மற்றைய தரப்பினரும்  உறுதியாக நிற்பதன் காரணமாக ஸ்ரீலங்கா பொதுஜனபெரமுன பிளவுபடும் நிலை உருவாகியுள்ளதாக டெய்லிமிரர் செய்தி வெளியிட்டுள்ளது.
+
+ஸ்ரீலங்கா பொதுஜனபெரமுனவின் ராஜபக்ச குடும்பத்திற்கு ஆதரவான தரப்பினர் கட்சி தனது சொந்தவேட்பாளரை நிறுத்தி தேர்தலில் போட்டியிடவேண்டும் என  தெரிவித்துள்ளனர்.
+
+கட்சியின் நிறைவேற்றுகுழுவின் கூட்டத்தில் இந்த கருத்து வெளியாகியுள்ளது - எனினும் தேர்தல் திகதி அறிவிக்கப்படாததால் இது குறித்து கட்சி இன்னமும் தீவிரமாக ஆராயவில்லை.
+
+இதேவேளை அரசாங்கத்தில் அமைச்சரவை பதவிகளை வகிக்கும்  பொதுஜனபெரமுனவின் பாராளுமன்ற உறுப்பினர்கள் ஜனாதிபதி ரணில் விக்ரமசிங்க தேர்தலில் போட்டியிடும் பட்சத்தில் அவருக்கே ஆதரவளிக்கவேண்டும் என்ற உறுதியான நிலைப்பாட்டை கொண்டுள்ளனர். R
+
+◼️
+
+[Data](articles/b167a3c0.json)
+
+---
+
+### Be careful with people;Do not click on links shared on social media
 
 *2024-03-29 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/179956) · `ta`
 
-பிரபல வர்த்தக நாமங்கள் மற்றும் அவர்களின் வர்த்தக முத்திரைகளை பயன்படுத்தி பரிசுகள் வழங்கப்படும் எனக் கூறி  சமூக ஊடகங்களில் பகிரப்படும் இணைப்புகளை கிளிக் செய்ய வேண்டாம் என இலங்கை கணினி அவசரநிலை தயார்நிலைக் குழு (SLCERT) மக்களைக் கேட்டுக் கொண்டுள்ளது.
+SLCERT warns against clicking on social media links, as they may lead to identity theft. Links can steal personal details like NIC, bank info, and more. Always verify credibility before clicking.
 
-இது குறித்து இலங்கை கணினி அவசர நடவடிக்கை பிரிவின் சிரேஷ்ட தகவல் பாதுகாப்பு பொறியியலாளர் சாருக தமுனுபொல  தெரிவித்துள்ளதாவது,
+🟩
 
-குறித்த இணைப்புகள் குறுஞ்செய்தி, வட்ஸ்அப், எக்ஸ் (ட்விட்டர்) மற்றும் பேஸ்புக் மற்றும் கையடக்க தொலைபேசியில் பெறப்பட்ட அழைப்பு ஆகியவற்றினூடாக பகிரப்படுகிறது.
+The Sri Lanka System Emergency Ready Committee (SLCERT) has asked the people not to click on the links shared on social media, claiming that gifts will be provided using popular trade names and their trade stamps.
 
-எனவே இவ்வாறான இணைப்புகள் வந்தால்  கிளிக் செய்யவதற்கு முன்பு அவற்றின் நம்பகத்தன்மையை முதலில் உறுதிப்படுத்திக் கொள்ளுங்கள். இதுபோன்ற இணைப்புகளை உங்கள் நண்பர்கள் வட்டாரத்தில் இருந்து உங்களுக்கு வரலாம்.
+Senior Information Safety Engineer of the Sri Lanka Computer Emergency Division, Saruka Tamunubola said,
 
-சில சமூக ஊடகங்களில் பகிரப்படும் இவ்வாறான இணைப்புகளை கிளிக் செய்வதால் தனிப்பட்ட தரவுகளை திருடப்படலாம்.
+The links are shared with SMS, WhatsApp, X (Twitter) and a call from Facebook and handheld phone.
 
-...
+So if these links come up, first confirm their credibility before clicking. You can come from your friends circle like this.
+
+Click on these links shared on some social media can be stolen.
+
+In addition, you will get the details such as your National Identity Card number (NIC), Driver's Permit, Bank Account Details, OTP (OTP), a once -used password and working details.
+
+Sometimes the links can be downloaded on the third -party mobile phone and stole the details of the mobile phone.
+
+Therefore, they may not be affected, so they should not share those links with others.
+
+◼️
 
 [Data](articles/f457a195.json)
+
+[Extended Data](ext_articles/f457a195.ext.json)
+
+---
+
+### Railway service delayed on coastal route - Railway Department
+
+*2024-03-29 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/179960) · `ta`
+
+Railway service delayed on coastal route due to revision work near Bambalapitiya Puri Station, affecting Colombo to Wellawatte route. Services may be canceled.
+
+🟩
+
+The Railway Department said that there is a delay in the train service today, tomorrow and tomorrow.
+
+Railway Deputy General Manager NJ Indipolake said that this is due to the revision work being carried out near the Bambalapitiya Puri Station.
+
+Due to this, the Deputy General Manager said that railway traffic from Colombo to Wellawatte will be carried out in the same way and sometimes the rail services may be canceled.
+
+◼️
+
+[Data](articles/689db6d8.json)
+
+[Extended Data](ext_articles/689db6d8.ext.json)
 
 ---
 
@@ -191,28 +313,6 @@ Ranaweera said that the Sri Lanka Institute of Textile and Apparel had recently 
 [Data](articles/9644ede4.json)
 
 [Extended Data](ext_articles/9644ede4.ext.json)
-
----
-
-### Railway service delayed on coastal route - Railway Department
-
-*2024-03-29 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/179960) · `ta`
-
-Railway service delayed on coastal route due to revision work near Bambalapitiya Puri Station, affecting Colombo to Wellawatte route. Services may be canceled.
-
-🟩
-
-The Railway Department said that there is a delay in the train service today, tomorrow and tomorrow.
-
-Railway Deputy General Manager NJ Indipolake said that this is due to the revision work being carried out near the Bambalapitiya Puri Station.
-
-Due to this, the Deputy General Manager said that railway traffic from Colombo to Wellawatte will be carried out in the same way and sometimes the rail services may be canceled.
-
-◼️
-
-[Data](articles/689db6d8.json)
-
-[Extended Data](ext_articles/689db6d8.ext.json)
 
 ---
 
@@ -732,31 +832,19 @@ Further investigations are being carried out at the Mullaitivu Magistrate's Cour
 
 ---
 
-### Bus accident in South Africa
+### පී.එච්.අයිට. වෙඩි තැබීමේ තැත වරදියි
 
-*2024-03-29 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/179945) · `ta`
+*2024-03-29 09:02:42* · [`adalk`](https://www.ada.lk/breaking_news/පී-එච්-අයිට--වෙඩි-තැබීමේ-තැත-වරදියි/11-408844) · `si`
 
-A bus accident in Limbobo, South Africa, killed 45 people, including an 8-year-old girl who survived. The bus, carrying pilgrims from Botswana, lost control on a mountain pass, collapsing in a valley. Some bodies were trapped in the wreckage, and others were caught in a fire. South African President Cyril Ramaposa condoled the victims.
+මහභාගේ පොලිස් වසමේ දී මහජන සෞඛ්‍ය පරීක්ෂක සහයකකුට 27 දින උදෑසන යතුරු පැදියකින් පැමිණි පුද්ලයන් දෙදෙනකු වෙඩි තැබීමට ගත් උත්සහය ව්‍යර්ථව ගිය බව පොලීසිය පවසයි.
 
-🟩
+අංක 481 රජයේ ඉඩම මත්තුමගල රාගම පදිංචි  පි. අසංක ලක්මාල් නැමති අයගේ නිවසට 27 දා උදෑසන පල්සර් වර්ගයේ යතුරු පැදියකින් පැමිණ ඇති පුත්ගලයන් දෙදෙනකු ටී. 56 වර්ගයේ ගිණි අවියකින් අසංක ලක්මාල්ට වෙඩි තැබීමට උත්සහ දරා තිබේ.
 
-45 people were killed and one of the victims of a Chennai bus accident in the northern province of South Africa, Limbobo, said the Department of Transport on Thursday (28).
-
-A bus carrying a group of pilgrims from Botswana to Moria in Botswana in South Africa
-
-The bus lost control of the driver on the Mamatlagala mountain pass and collapsed in a nearby valley.
-
-45 people died on the spot. Fortunately, Limbobo's Transport and Social Security Department said that only an 8 -year -old girl survived and is being treated at a nearby hospital.
-
-Some bodies have been caught in a fire, and other bodies have been trapped in the wreckage and scattered on the spot.
-
-South African President Cyril Ramaposa has condoled the victims of a bus accident in Botswana.
+වෙඩි තැබීමට පැමිණි පුද්ගලයන් සමග අසංක ලක්මාල් පොරබදා තිබෙන අතර එම අවස්ථාවේදී ගිණි අවියේ උණ්ඩ මැගසිනය බිම් වැටි තිබේ. ඒ සමගම වෙඩි තැබීමට පැමිණි පුද්ගලයන් පලා ගොස් ඇත. වෙඩි තැබීමට හේතුව අනාවරණය වී නොමැති බව ද පොලීසිය පවසයි. සිද්ධිය සම්බන්ධයෙන් වැඩි දුර පරීක්ෂණ කටයුතු රාගම පොලීසිය විසින් සිදු කරයි.
 
 ◼️
 
-[Data](articles/42d08d44.json)
-
-[Extended Data](ext_articles/42d08d44.ext.json)
+[Data](articles/28bd6882.json)
 
 ---
 
@@ -2163,63 +2251,5 @@ More than 600 koda and the equipment for leakage have been recovered by the poli
 [Data](articles/6c05e7f3.json)
 
 [Extended Data](ext_articles/6c05e7f3.ext.json)
-
----
-
-### Profit-takings slow CSE’s initial bull-run
-
-*2024-03-28 21:32:00* · [`islandlk`](http://island.lk/profit-takings-slow-cses-initial-bull-run/) · `en`
-
-The Colombo stock market kicked off on a bullish note yesterday but later slowed down somewhat due to profit takings in certain counters.However, the market was also in a mood of optimism due to positive reactions by the Chinese government to Sri Lanka’s debt restructuring exercise, analysts said.
-
-Consequently, both indices moved in positive directions. The All Share Price Index closed up 0.09 percent, or 9.89 points, at 11,444; while the S&P SL20 Index closed up 0.53 percent, or 17.35 points, at 3,317.
-
-Turnover was Rs. 2.9 billion. 1.3 billion of this came from trades in the banking sector. Nine crossings were note during the day.Hatton National Bank saw the most active volumes traded during the day (411mn) and the shares closed up at Rs. 180.00.
-
-National Development Bank followed with Rs. 238mn in turnover; shares closed up at Rs. 68.00.Sampath Bank also saw high turnover (230mn), and the share closed up at Rs. 80.00.
-
-...
-
-[Data](articles/749f9b29.json)
-
-[Extended Data](ext_articles/749f9b29.ext.json)
-
----
-
-### World’s first successful conversion of Hummer EV SUV to right-hand drive by a team of Sri Lankans at Global Conversions
-
-*2024-03-28 21:30:00* · [`islandlk`](http://island.lk/worlds-first-successful-conversion-of-hummer-ev-suv-to-right-hand-drive-by-a-team-of-sri-lankans-at-global-conversions/) · `en`
-
-Global Conversions, a leading Sri Lankan-owned company specializing in automobile re-engineering, has achieved a remarkable milestone in the automotive industry with successful conversion of the world’s first Hummer EV SUV to right-hand drive. This groundbreaking achievement exemplifies Global Conversions’ commitment to innovation and excellence in the field of vehicle conversions.
-
-Global Conversions has been at the forefront of automobile re-engineering, specializing in converting American left-hand drive vehicles such as GMC, Ford, Lincoln, Dodge, Chevrolet, Cadillac, as well as North American Toyota and Nissan, to right-hand drive. The successful conversion of the Hummer EV SUV adds to their list of prestigious achievements.
-
-...
-
-[Data](articles/afaadffd.json)
-
-[Extended Data](ext_articles/afaadffd.ext.json)
-
----
-
-### Development Lottery Board recorded recorded profit
-
-*2024-03-28 20:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195049) · `si`
-
-The Development Lotteries Board's profit increased by 13%, with the government's contribution rising by 6%, marking the highest profit in 40 years.
-
-🟩
-
-The contribution made by the Development Lotteries Board has increased by 13% over the previous year by Rs.. The Presidential Media Unit said that the target of 3,622,506,725 /725 / 0725 / -, the Presidential Media Unit said.
-
-At the same time, the government's contribution increased by 6% by Rs. 5,193,833,721 has become a value.
-
-This is the highest profit of the development Lotteries Board in 40 years.
-
-◼️
-
-[Data](articles/fde41b52.json)
-
-[Extended Data](ext_articles/fde41b52.ext.json)
 
 ---

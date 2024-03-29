@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 07:31:29**
+As of **2024-03-29 07:54:40**
 
 ## Newspaper Stats
 
-*Scraped **15,828** Articles*
+*Scraped **15,841** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,134 @@ bbccomsinhala | 168
 dbsjeyarajcom | 195
 newsfirstlk | 363
 dailyftlk | 859
-economynextcom | 867
+economynextcom | 869
 islandlk | 879
 adalk | 1,339
-tamilmirrorlk | 1,895
 adaderanalk | 1,897
+tamilmirrorlk | 1,898
 virakesarilk | 2,242
-dailymirrorlk | 2,439
-adaderanasinhalalk | 2,543
+dailymirrorlk | 2,445
+adaderanasinhalalk | 2,545
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,828 (100.0%) of 15,828 articles have been extended.
+15,836 (100.0%) of 15,841 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### මහ සිකුරාදා අද
+
+*2024-03-29 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195057) · `si`
+
+ජේසුස් ක්‍රිස්තුස් වහන්සේ කුරුසිය මත දිවි පිදීමේ යාගය සිහිපත් කෙරෙන මහ සිකුරාදා දිනය ලොව පුරා කිතුණු බැතිමතුන් අද (29) සමරනු ලබයි.
+
+අළු බදාදා දිනයෙන් ආරම්භ වූ චතාරික සමය තුළ යැදුම්, උපවාස, පුණ්‍ය ක්‍රියා සිදුකරමින් එය භක්තියෙන් මෙනෙහි කරනු ලබන කිතුණු බැතිමතුන් අද දිනයේදී දෙව් මැදුරුවල පැවැත්වෙන සුවිශේෂී දේව මෙහෙයන්ට එක්වීමට නියමිතය.
+
+ඒ අනුව ජේසුස් ක්‍රිස්තුස් වහන්සේ කුරුසය මත දිවිපිදීම අද දිනයේදී සිහිපත් කරන අතර උන්වහන්සේ මරණයෙන් උත්ථානය වීම සිහිපත් කිරීම හෙවත් පාස්කු ඉරිදා දින එළැඹෙන ඉරිදාට යෙදී තිබේ.
+
+මේ අතර අද දිනය සහ පාස්කු ඉරිදා දිනය වෙනුවෙන් කිතුණු දේවස්ථානයන්හි පැවැත්වෙන දේව මෙහෙයන් සහ උත්සව වෙනුවෙන් එම දේවස්ථාන ආශ්‍රිතව විශේෂ ආරක්ෂක වැඩපිළිවෙළක් ක්‍රියාත්මක කර ඇති බව පොලිස් දෙපාර්තමේන්තුව පැවසීය.
+
+මේ සඳහා පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන්, බුද්ධි නිලධාරීන් සහ ත්‍රිවිඩ හමුදා නිලධාරීන්ගේ ද සහාය ලබාගැනීමට නියමිත බව පොලිස් මුලස්ථානය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/b96de243.json)
+
+---
+
+### දකුණු අප්‍රිකාවේ මාරක බස් අනතුරක්
+
+*2024-03-29 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195056) · `si`
+
+පාස්කු දේවමෙහෙයක් සඳහා සහභාගීවීමේ අරමුණින් ගමන් කරමින් සිටි පිරිසක් රැගත් බස් රථයක් දකුණු අප්‍රිකාවේදී අනතුරට ලක්වීමෙන් එහි ගමන්ගත් පුද්ගලයින් 45 දෙනෙකු මියගොස් තිබේ.
+
+ඊසාන දිග ලිම්පෝපෝ කලාපයේ මොරියා නගරයේ පැවැත්වෙන දේවමෙහෙය සඳහා සහභාගීවීමට අදාළ පිරිස ගැබරොන් සිට ගමන් කර ඇති බව වාර්තා විය.
+
+බස් රථයේ වේගය පාලනය කරගත නොහැකිව පාලමකින් ඉවතට පැන මීටර් 50ක පමණ ප්‍රපාතයකට ඇදවැටී අනතුර සිදුවී තිබේ.
+
+එම අනතුරින් 8 හැවිරිදි දැරියක් පමණක් දිවි බේරාගෙන ඇති අතර ඇය බරපතළ තුවාල ලබා රෝහල්ගත කර ඇති බව වාර්තා විය.
+
+◼️
+
+[Data](articles/3d05e1aa.json)
+
+---
+
+### Do not click on links shared on social media platforms: SLCERT
+
+*2024-03-29 07:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Do-not-click-on-links-shared-on-social-media-platforms-SLCERT/108-279815) · `en`
+
+Colombo, March 28 (Daily Mirror) - Sri Lanka Computer Emergency Readiness Team (SLCERT) requested people not to click on links shared on social media platforms claiming to receive presents given by popular brand names and their trade marks.
+
+SLCERT Senior Information Security Engineer Charuka Damunupola said those links may be received via SMS, WhatsApp, X formerly known as Twitter, Facebook now known as Meta and as a call received on their mobile phone.
+
+Damunupola requests the public to first confirm the authenticity of the requests before responding to them. These kinds of links can be received through your friend groups, he said.
+
+The SLCERT investigations revealed that clicking on certain social media links can lead to privacy breaches.
+
+Clicking on those fraudulent links will lead to breaching of personnel details such as your National Identity Card (NIC), driving licence, bank account details, One Time Password (OTP), workplace details.
+
+...
+
+[Data](articles/650dc67b.json)
+
+[Extended Data](ext_articles/650dc67b.ext.json)
+
+---
+
+### 983.7 மில்லியன் ரூபா ஏற்றுமதி வருமானம்
+
+*2024-03-29 07:04:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/983-7-மில்லியன்-ரூபா-ஏற்றுமதி-வருமானம்/175-335333) · `ta`
+
+கடந்த இரண்டு மாதங்களில் மாத்திரம் இலங்கை 983.7 மில்லியன் ரூபா ஏற்றுமதி வருமானத்தைப் பெற்றுள்ளதுடன், நாடு தற்போது சரியான பொருளாதாரப் பாதையில் செல்வதை, அது உறுதிப்படுத்துகிறது என சிறிய மற்றும் நடுத்தர தொழில்முயற்சி அபிவிருத்தி இராஜாங்க அமைச்சர் பிரசன்ன ரணவீர தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடகவியலாளர் சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+கடந்த காலத்தில் நாட்டில் ஏற்பட்ட பொருளாதார நெருக்கடியைத் தீர்த்து ஒரு நாடாக குறிப்பிடத்தக்களவு சாதனைகளை நாம் அடைந்துள்ளோம். கடந்த இரண்டு மாதங்களில் மாத்திரம் 983.7 மில்லியன் ரூபா ஏற்றுமதி வருமானம் கிடைத்துள்ளது.
+
+ஜனவரி மற்றும் பெப்ரவரி ஆகிய இரண்டு மாதங்களில் சுமார் 05 இலட்சம் சுற்றுலாப் பயணிகள் நாட்டுக்கு வருகை தந்துள்ளனர். மேலும், நம் நாட்டில் 2.5 வீதமாக இருந்த தொழில்முயற்சியாளர்களின் எண்ணிக்கையை 3 வீதமாக  அதிகரிக்க முடிந்துள்ளது. நாடு தற்போது சரியான பொருளாதாரப் பாதையில் செல்வதை இந்தத் தரவுகள் உறுதிப்படுத்துகிறது என்றார். (a)
+
+◼️
+
+[Data](articles/3adbd2c0.json)
+
+---
+
+### ஜனாதிபதியுடன் கால்பந்தாட்ட அணி சந்திப்பு
+
+*2024-03-29 07:00:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியுடன்-கால்பந்தாட்ட-அணி-சந்திப்பு/175-335332) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் இலங்கை தேசிய கால்பந்தாட்ட அணிக்கும் இடையிலான சந்திப்பு ஜனாதிபதி அலுவலகத்தில் நடைபெற்றுள்ளது .
+
+கொழும்பு குதிரைப் பந்தயத் திடலில் நடைபெற்ற நான்கு நாடுகளுக்கு இடையிலான கால்பந்தாட்டப் போட்டியில் பூட்டானுக்கு எதிராக இலங்கை கால்பந்தாட்ட அணி அபார வெற்றியீட்டியதோடு வெற்றியீட்டிய இலங்கை அணி வீரர்களுக்கு ஜனாதிபதி வாழ்த்துக்களை தெரிவித்தார்.
+
+அடுத்த வருடம் நடைபெறவுள்ள தெற்காசிய கால்பந்தாட்டப் போட்டியில் வெற்றிபெறுவதற்கு இலங்கை கால்பந்தாட்ட அணியை ஊக்குவித்த ஜனாதிபதி, கால்பந்தாட்டத்திற்கு தேவையான உட்கட்டமைப்பு வசதிகளை அபிவிருத்தி செய்வதற்கு தேவையான ஒத்துழைப்பை வழங்குவதாக உறுதியளித்தார்.
+
+◼️
+
+[Data](articles/de58180f.json)
+
+---
+
+### லொத்தர் சபையின் பங்களிப்பு அதிகரிப்பு
+
+*2024-03-29 06:54:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொத்தர்-சபையின்-பங்களிப்பு-அதிகரிப்பு/175-335331) · `ta`
+
+அபிவிருத்தி லொத்தர் சபை அதன் 40 வருட வரலாற்றில் 2023 இல் அதிகூடிய இலாபத்தை பதிவு செய்துள்ளது.
+
+இதன்படி, அபிவிருத்தி லொத்தர் சபையானது 2022 - 2023 ஆம் ஆண்டில் 32 வீத இலாபமீட்டி புதிய சாதனையை படைத்துள்ளது, இது 2022 இல் பெற்ற இலாபத்தின் இருமடங்காகும்.
+
+இதன்படி, ஜனாதிபதி நிதியத்திற்கு அபிவிருத்தி லொத்தர் சபையினால் வழங்கப்பட்ட பங்களிப்பு கடந்த வருடத்துடன் ஒப்பிடும் போது 13 வீதத்தால் அதிகரிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/73d51645.json)
+
+---
 
 ### Heavy rains today
 
@@ -55,6 +165,48 @@ The public requests the public to take steps to reduce the damages caused by tem
 [Data](articles/9f50540d.json)
 
 [Extended Data](ext_articles/9f50540d.ext.json)
+
+---
+
+### Sri Lanka electricity sector reforms bill to be gazetted
+
+*2024-03-29 06:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-sector-reforms-bill-to-be-gazetted-156543/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Attorney General has issued certification to proceed with the new draft bill on electricity sector reforms, Power and Energy Minister Kanchana Wijesekera said.
+
+“Accordingly the new electricity reforms bill will be gazetted in the next two weeks and presented to the Parliament during the last week of April,” Wijesekera said on social media platform X (twitter.)
+
+A progress review of the electricity sector reforms was held at the Ministry of Power and Energy with officials of the Reforms Secretariat Wijesekera said.
+
+“Suggestions and issues raised by the development agencies and stakeholders were incorporated as amendments to the draft bill that was gazetted in December by the Legal Draftsman’s office and the inconsistencies in the Sinhala and Tamil translations were also fixed.”
+
+...
+
+[Data](articles/bcfa1dcb.json)
+
+[Extended Data](ext_articles/bcfa1dcb.ext.json)
+
+---
+
+### Rise in hand-foot-and-mouth disease among children
+
+*2024-03-29 05:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rise-in-hand-foot-and-mouth-disease-among-children/108-279814) · `en`
+
+Colombo, March 29 (Daily Mirror) - Lady Ridgeway Hospital (LRH) Consultant Pediatrician Dr. Deepal Perera said today that there is an increase in the spread of hand-foot-and-mouth disease (HFMD) among schoolchildren these days.
+
+He said this disease spreads every year, especially between March and April.
+
+If children have symptoms like small, oval, red or white blisters on the palms and soles of the feet, as well as in the mouth, if there is a red skin rash with a brown scale on it, or if the rash appears on the outer arms, then parents should keep in mind not to send their children to schools, daycare centres or public places.
+
+HFMD is most commonly caused by the Coxsackie virus. The main way HFMD spreads is through contact with the fluid from inside the blisters or with the droplets spread from sneezing and coughing.
+
+The virus can also be present in bowel movements (excrement) for up to several weeks after the person has recovered.
+
+...
+
+[Data](articles/8f8ab2d0.json)
+
+[Extended Data](ext_articles/8f8ab2d0.ext.json)
 
 ---
 
@@ -277,6 +429,68 @@ Easter, the cornerstone of the Christian faith, is universally described as a ce
 [Data](articles/eb3e7095.json)
 
 [Extended Data](ext_articles/eb3e7095.ext.json)
+
+---
+
+### Colombo Hospital staffers refuse uniforms despite allowance
+
+*2024-03-29 04:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-Hospital-staffers-refuse-uniforms-despite-allowance/108-279816) · `en`
+
+Colombo, March 29 (Daily Mirror) - Minor staffers at the National Hospital Colombo (NHC) have chosen not to wear their uniforms, despite receiving an annual allowance for them, according to an official from the hospital.
+
+These staffers,both male and female, are provided with specific white uniforms for their duties at the hospital to make them easily identifiable. However, instead of wearing these uniforms they allegedly opt for casual attire and behave more like clerical staff or office assistants.
+
+Although they receive an annual uniform allowance of Rs.9,500, they claim this allowance and continue to wear casual clothes. Many of these staffers argue that they cannot perform their duties effectively while wearing uniforms and have reportedly informed the hospital's management about their concerns.
+
+Furthermore, they claim to have received a letter granting permission to wear casual attire while on duty at the hospital.
+
+...
+
+[Data](articles/489c3d61.json)
+
+[Extended Data](ext_articles/489c3d61.ext.json)
+
+---
+
+### CAA to withdraw gazette which prevents traders charging for polyethylene bags
+
+*2024-03-29 02:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CAA-to-withdraw-gazette-which-prevents-traders-charging-for-polyethylene-bags/108-279818) · `en`
+
+Colombo, March 29 (Daily Mirror) - The Attorney General today informed Supreme Court that the Consumers Affairs Authority would withdraw its gazette notification issued directing all traders not to charge for polyethylene bags issued to consumers when they are purchasing goods.
+
+The Attorney General made these remarks when the fundamental rights petition filed by Centre for Environmental Justice was called before Supreme Court.
+
+The petitioner is seeking an order directing the authorities to formulate practical procedures for minimizing the manufacturing by producers and use of polythene and single-use plastics by the
+
+The petitioner stated that plastic bags or polythene has resulted in many detrimental environmental effects including animal choking, pollution, blockage of channels, rivers, and streams, and landscape disfigurement.
+
+...
+
+[Data](articles/c8d61f14.json)
+
+[Extended Data](ext_articles/c8d61f14.ext.json)
+
+---
+
+### March headline inflation drops substantially to 0.9%
+
+*2024-03-29 02:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/March-headline-inflation-drops-substantially-to-0-9/108-279804) · `en`
+
+Soaring prices in the past couple of months led to a fall in demand for vegetables. Pic by Kithsiri de Mel
+
+Headline Inflation, as measured by the Colombo Consumer Price Index (CCPI), dropped to 0.9 percent in March 2024 from 5.9 percent in February, data from the Department of Census and Statistics (DCS) showed.
+
+The CCPI for all items for March 2024 was 196.7, which is a decrease of 3.9 index points compared to February 2024, for which the index was 200.6. The expenditure value decreased by Rs. 3,576 in the ‘Market Basket’.
+
+The Year-on-Year (YoY) inflation of Food Group increased to 3.8 percent in March 2024 from 3.5 percent in February 2024 and the Y-on-Y inflation of Non Food Group decreased to 0.5 percent in March 2024 from 7.0 percent in February 2024.
+
+The contribution of inflation by food commodities was 1.19 percent while the contribution of Non-Food items was -0.32 percent.
+
+...
+
+[Data](articles/e514b783.json)
+
+[Extended Data](ext_articles/e514b783.ext.json)
 
 ---
 
@@ -526,7 +740,55 @@ First, let’s discuss the ISIS connection. The Friday evening terror attack at 
 
 ---
 
+### Short term parate suspension will not significantly impact financial sector: CB
+
+*2024-03-29 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Short-term-parate-suspension-will-not-significantly-impact-financial-sector-CB/108-279800) · `en`
+
+The Central Bank this week noted that the government’s move to suspend the rights of banks to exercise parate execution will not have severe implications on the financial sector since it is a short term measure.
+
+While concerns have been raised in this regard by both, the banks and borrowers, Central Bank Governor Dr. Nandalal Weerasinghe said there is no need to worry as yet.
+
+“The government’s decision is to suspend only for six months. I don’t think that will have a significant impact,” said Dr. Weerasinghe responding to a question raised at the Monetary Policy briefing held this week.
+
+Despite repeated warnings by banks, the Cabinet approved the draft Recovery of Loans By Banks (Special Provisions, Amended) Act to suspend parate rights of banks until 15th of December this year.
+
+...
+
+[Data](articles/fb2ed5ed.json)
+
+[Extended Data](ext_articles/fb2ed5ed.ext.json)
+
+---
+
 ### 2024-03-28 (Thursday)
+
+### Sri Lanka seeks manager to exchange restructured ISBs as talks begin
+
+*2024-03-28 23:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-manager-to-exchange-restructured-isbs-as-talks-begin-156524/) · `en`
+
+ECONOMYNEXT- Sri Lanka has requested proposals from banks to manage an exchange restructured bonds as the Indian Ocean island begings talks to re-structure international sovereign bonds this week.
+
+The firm should have experience being a “Dealer Manager or similar in sovereign bond exchange
+
+offers, consent solicitations and other liability management exercises in relation to
+
+sovereign bonds” within the last five years, a notice posted on the Finance Ministry website said.
+
+Applications should submit a proposed execution strategies for the Exchange Offer, including proposed execution timeline and strategy for maximizing the chances of success of the Exchange Offer.
+
+Sri Lanka is starting discussions with bondholders this week in London to restructure bonds.
+
+Related Sri Lanka team to Europe to begin negotiations with bondholders: President
+
+According to previous information as least a 30 percent hair cut and cuts in coupons are requested.
+
+...
+
+[Data](articles/80c5b471.json)
+
+[Extended Data](ext_articles/80c5b471.ext.json)
+
+---
 
 ### Namal contest in presidential election?
 
@@ -2003,259 +2265,5 @@ Titled “A Step Forward with Unity for Our Nation”, the 32-page document cont
 [Data](articles/9462eb89.json)
 
 [Extended Data](ext_articles/9462eb89.ext.json)
-
----
-
-### Keheliya Rambukwella further remanded
-
-*2024-03-28 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98265/keheliya-rambukwella-further-remanded) · `en`
-
-Former Health Minister Keheliya Rambukwella has been further remanded until April 08 in connection the substandard human intravenous immunoglobulin (IVIG) vials procurement scandal.
-
-He was produced before the Maligakanda Magistrate’s Court on Thursday afternoon (March 28).
-
-The other accused in the case are former Health Secretary Janaka Chandragupta, Additional Health Secretary Dr. Saman Ratnayake, Director of the Medical Supplies Division (MSD) Kapila Wickremenayake, Deputy Director of MSD Thusitha Sudarshana, Assistant MSD Director Devashantha Soloman, MSD Accountant (Supplies) Neran Dhananjaya, MSD Stock Controller Sujith Kumara and the owner of the company which is said to have supplied the substandard batch of IVIG vials.
-
-The Criminal Investigation Department (CID) arrested Rambukwella on 02 February over his alleged complicity in the procurement of substandard IVIG vials.
-
-...
-
-[Data](articles/a2c6155d.json)
-
-[Extended Data](ext_articles/a2c6155d.ext.json)
-
----
-
-### Investing on Greek bonds and five including Cabraal and five. 1843 million incurred
-
-*2024-03-28 15:49:08* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රීක-බැඳුම්කරවල-ආයෝජනය-කර-කබ්රාල්-ඇතුළු-පහක්-රජයට-රු--මිලියන-1843ක්-පාඩු-කරලා/11-408843) · `si`
-
-Ajith Nivard Cabraal, a former Central Bank Governor, and others invested in Greek bonds in 2012, totaling 1843 million. Cabraal was accused of bribery or corruption by the Commission. Sujee Senasinghe, a former Parliamentarian, is prosecuting the case.
-
-🟩
-
-Former Central Bank Governor Ajith Nivard Cabraal, who was invested in the bonds of Greece, had filed a bribery or corruption by the Commission.
-
-Investment in these bonds have been carried out in 2012. Former Parliamentarian Sujee Senasinghe has decided to prosecute the hearing of bribery or corruption to the Commission to Investigate Allegations.
-
-In addition to Ajith Nivard Cabraal, Dharmasena Dheerasinghe, Wasantha Ananda Silva, Chandrasiri Jayasinghe and A. The cases have been carried out against persons Karunaratne.
-
-◼️
-
-[Data](articles/353b139d.json)
-
-[Extended Data](ext_articles/353b139d.ext.json)
-
----
-
-### Order to the Kehela
-
-*2024-03-28 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195031) · `si`
-
-Kehela orders Keheliya Rambukwella and nine suspects to be remanded until April 8.
-
-🟩
-
-Former Minister Keheliya Rambukwella and the nine suspects were remanded until April 8.
-
-◼️
-
-[Data](articles/b4a32b2d.json)
-
-[Extended Data](ext_articles/b4a32b2d.ext.json)
-
----
-
-### Reduction of Special Commodity Levy on rice will not lead to imports: Siyambalapitiya
-
-*2024-03-28 15:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Reduction-of-Special-Commodity-Levy-on-rice-will-not-lead-to-imports-Siyambalapitiya/108-279780) · `en`
-
-Colombo, March 28 (Daily Mirror)- The special commodity levy on rice was reduced not to allow import of rice but to clear a stock of rice currently stuck with the Customs, State Minister of Finance Ranjith Siyambalapitiya said today.
-
-He told reporters that a stock of Keeri Samba rice was imported in January to control the escalating prices and shortage in the market and that a part of that imported stock of rice was stuck with the Customs due to a delay in receiving the stock.
-
-He said the special commodity levy on rice was reduced from Rs. 65 to Rs. 1 for a period of one week to facilitate the importers to get that rice stock cleared from the Customs.
-
-"This move will not lead to import of new rice stocks as the reduction will be effective only for a week. The importers must clear the rice stock stuck with the Customs within a week," he said.
-
-...
-
-[Data](articles/77330561.json)
-
-[Extended Data](ext_articles/77330561.ext.json)
-
----
-
-### Fire breaks out at tyre shop in Grandpass
-
-*2024-03-28 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98264/fire-breaks-out-at-tyre-shop-in-grandpass) · `en`
-
-A fire has reportedly broken out at a tyre shop located near Armour Street in Grandpass, Colombo.
-
-The Colombo Municipal Council (CMC) fire brigade had dispatched 05 fire engines to help douse the flames.
-
-Ada Derana reporter said traffic along Armour Street has been restricted to one lane towards Negombo.
-
-Meanwhile, severe traffic congestion has been reported in the area owing to this.
-
-UPDATE: Traffic movement along both directions on Sirimavo Bandaranaike Mawatha in Colombo from Armour Street has been blocked due to the fire.
-
-◼️
-
-[Data](articles/95955947.json)
-
-[Extended Data](ext_articles/95955947.ext.json)
-
----
-
-### Sri Lanka’s opposition parties make modest gains in voting intent poll
-
-*2024-03-28 15:14:00* · [`economynextcom`](https://economynext.com/sri-lankas-opposition-parties-make-modest-gains-in-voting-intent-poll-156469/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s leftist National People’s Power (NPP) and main opposition Samagi Jana Balawegaya (SJB) gained modest increases in support in February, a survey showed.
-
-The Institute for Health Policy (IHP) which carried out the survey said support for President Ranil Wickremesinghe’s United National Party (UNP) and other parties have weakened in February.
-
-“The latest estimates from IHP’s SLOTS MRP model (revised 01/2024) show modest increases in support for NPP/JVP and SJB, with weakening support for the UNP and ‘Other’ parties, continuing trends since July 2023. NPP/JVP lead with 44% (+2) support of Sri Lankan adult voters, followed by SJB with 30% (+1), the SLPP at 9% (+1), the UNP at 4% (-1), and ITAK at
-
-The February estimates are provisional and are associated with a margin of error of 1–3% for the four leading parties. Compared to IHP’s February release, IHP estimates of NPP/JVP and SJB support in January 2024 were revised +2 and -1 points.
-
-...
-
-[Data](articles/7ef78ccc.json)
-
-[Extended Data](ext_articles/7ef78ccc.ext.json)
-
----
-
-### Fire erupts at tyre shop in Colombo
-
-*2024-03-28 15:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fire-erupts-at-tyre-shop-in-Colombo/108-279779) · `en`
-
-Colombo, March 28 (Daily Mirror) - A fire has broken out in a tyre shop located on Armour Street in Colombo.
-
-Police said several fire trucks from the Colombo Municipal Council have been dispatched to extinguish the flames.
-
-◼️
-
-[Data](articles/f97810c2.json)
-
-[Extended Data](ext_articles/f97810c2.ext.json)
-
----
-
-### Ven. Gnanasara Thera sentenced to 4 years in prison
-
-*2024-03-28 15:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ven-Gnanasara-Thera-sentenced-to-4-years-in-prison/110-279778) · `en`
-
-Bodu Bala Sena (BBS) General Secretary Ven. Galaboda Atte Gnanasara Thera was today sentenced to four-year-rigorous imprisonment for making a hate speech against the Islamic religion on Kuragala Temple. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/2abbc97e.json)
-
-[Extended Data](ext_articles/2abbc97e.ext.json)
-
----
-
-### Fire spreading in the Grandpass area
-
-*2024-03-28 15:01:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/கிராண்ட்பாஸ்-பகுதியில்-தீ-பரவல்/46-335311) · `ta`
-
-A fire in a Colombo-14 building in Grandpass is under control with fire trucks on site.
-
-🟩
-
-A fire broke out in a building in Colombo-14, Grandpass. Fire trucks are going to the site to bring the fire under control.
-
-◼️
-
-[Data](articles/62b9d17a.json)
-
-[Extended Data](ext_articles/62b9d17a.ext.json)
-
----
-
-### Big names miss out as Australia announce men’s players to win new contracts
-
-*2024-03-28 14:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Big-names-miss-out-as-Australia-announce-mens-players-to-win-new-contracts/108-279777) · `en`
-
-Mar. 28 (ICC) - A quartet of experienced performers have missed out as Australia announced their list of men’s players to be offered national contracts for 2024-25.
-
-Cricket Australia (CA) released the names of the 23 players that have won new contracts on Thursday, with veteran all-rounder Marcus Stoinis the biggest name to miss out on a new deal.
-
-Stoinis has battled back injuries in recent times, but was part of Australia's winning ICC Men's Cricket World Cup winning squad last year and remains firmly in their selection thoughts for June's ICC Men's T20 World Cup.
-
-Stoinis is joined by fellow all-rounder Ashton Agar, opening batter Marcus Harris, pacer Michael Neser and recently retired star David Warner as players to miss out on fresh contracts, with CA instead opting to provide deals to a handful of new faces.
-
-...
-
-[Data](articles/e66a16bc.json)
-
-[Extended Data](ext_articles/e66a16bc.ext.json)
-
----
-
-### Sri Lanka agri officials, food firms learn cutting edge tech in Germany
-
-*2024-03-28 14:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-agri-officials-food-firms-learn-cutting-edge-tech-in-germany-156470/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s agriculture ministry officials and representatives of private companies had visited a technology fair in Germany to learn about the latest advances in the food sector, a statement said.
-
-Anuga FoodTec trade fair in Köln, Germany, showcases cutting edge technology in food production, processing, packaging, and storage, AHK Sri Lanka, representing the German Chamber Network said.
-
-A delegation madeMinistry of Agriculture, Elpitiya Plantation, Eastern & Allied Agencies Limited, and Hettigoda Industries (PVT) Ltd had visited Anuga FoodTec trade fair earlier this month.
-
-Malintha Gajanayake, Head of Corporate Affairs & Export Promotions at the Delegation of German Industry and Commerce in Sri Lanka, will help boost Sri Lanka’s competitiveness in the global market.
-
-“During their visit, the Sri Lankan delegates were introduced to cutting-edge technologies in various facets of food processing, including harvesting, supply chain management, packaging, and labeling,” AHK said.
-
-...
-
-[Data](articles/64bf8d4e.json)
-
-[Extended Data](ext_articles/64bf8d4e.ext.json)
-
----
-
-### Ex-Health Minister Keheliya brought to court
-
-*2024-03-28 14:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/98262/ex-health-minister-keheliya-brought-to-court) · `en`
-
-Former Health Minister Keheliya Rambukwella was brought to the Maligakanda Magistrate’s Court on Thursday afternoon for the proceedings of the case in connection with the substandard human intravenous immunoglobulin (IVIG) vials procurement.
-
-When the former minister was produced before the court on March 14, the magistrate refused to release him on bail and ordered that he be further remanded until the conclusion of the case filed under the provisions of the Public Property Act.
-
-The Criminal Investigation Department (CID) arrested Rambukwella on 02 February over his alleged complicity in the procurement of substandard IVIG vials.
-
-The arrest came hot on the heels of pressure from civil society activists and health sector trade unionists, who called for the immediate apprehension of the lawmaker.
-
-On 29 February, Rambukwella’s attorneys also filed a Fundamental Rights (FR) petition challenging his arrest by the CID and demanding Rs. 100 million in compensation.
-
-◼️
-
-[Data](articles/14d83d9a.json)
-
-[Extended Data](ext_articles/14d83d9a.ext.json)
-
----
-
-### Fire in Colombo
-
-*2024-03-28 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195030) · `si`
-
-A fire at a tire shop in Grandpass Skin Kumara Mawathagama, Colombo, was extinguished by the Colombo Fire Brigade.
-
-🟩
-
-A fire broke out at a tire shop in the Grandpass Skin Kumara Mawathagama.
-
-Fire lands have already been deployed by the Colombo Fire Brigade to suppress the fire.
-
-◼️
-
-[Data](articles/f6114cae.json)
-
-[Extended Data](ext_articles/f6114cae.ext.json)
 
 ---

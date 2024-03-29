@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 07:16:31**
+As of **2024-03-29 07:31:29**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 2,543
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,822 (100.0%) of 15,828 articles have been extended.
+15,828 (100.0%) of 15,828 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### අදත් තද වැසි
+### Heavy rains today
 
 *2024-03-29 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195054) · `si`
 
-අද (29) සවස 2න් පමණ පසු බස්නාහිර, දකුණ, සබරගමුව සහ මධ්‍යම පළාත්වල තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains today with showers or thundershowers in Western, Southern, Sabaragamuwa, Central, Uva, and Northwestern provinces. Heavy showers over 50mm in Galle and Matara. Public advised to prepare for strong winds and lightning.
 
-ඌව සහ වයඹ පළාත්වලත් ස්ථාන ස්වල්පයක ප.ව. 2න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+🟩
 
-සබරගමුව සහ බස්නාහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී 50ට වැඩි තරමක තද වැසි ඇති වෙයි.
+Showers or thundershowers will occur at several places in the Western, Southern, Sabaragamuwa and Central provinces since 2 pm today.
 
-මධ්‍යම, සබරගමුව, ඌව සහ බස්නාහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+In the Uva and Northwestern province of a few places. Showers or thundershowers will occur after 2.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+Heavy showers over 50 mm in the Galle and Matara districts and more than 50mm.
+
+In some places in the Galle, Sabaragamuwa, Uva and Western provinces, are expected to be methaved in the Galle and Matara districts.
+
+The public requests the public to take steps to reduce the damages caused by temporary strong winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/9f50540d.json)
+
+[Extended Data](ext_articles/9f50540d.ext.json)
 
 ---
 
@@ -843,6 +849,8 @@ Global Conversions has been at the forefront of automobile re-engineering, speci
 ...
 
 [Data](articles/afaadffd.json)
+
+[Extended Data](ext_articles/afaadffd.ext.json)
 
 ---
 

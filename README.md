@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 16:33:56**
+As of **2024-03-29 16:50:08**
 
 ## Newspaper Stats
 
-*Scraped **15,921** Articles*
+*Scraped **15,927** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,42 +13,68 @@ bbccomsinhala | 170
 dbsjeyarajcom | 197
 newsfirstlk | 363
 dailyftlk | 862
-economynextcom | 874
+economynextcom | 876
 islandlk | 879
 adalk | 1,342
 tamilmirrorlk | 1,905
 adaderanalk | 1,913
-virakesarilk | 2,256
-dailymirrorlk | 2,456
+virakesarilk | 2,259
+dailymirrorlk | 2,457
 adaderanasinhalalk | 2,562
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,920 (100.0%) of 15,921 articles have been extended.
+15,921 (100.0%) of 15,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### කාන්තාවන්ට එරෙහිව තලෙයිබාන් පාලනයෙන් දැඩි තීරණයක්
+### Taliban's control against women
 
 *2024-03-29 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195075) · `si`
 
-අනාචාරයේ හැසිරෙන කාන්තාවන් ප්‍රසිද්ධියේ ගල් ගසා මරණයට පත්කිරීමේ දඬුවම යළි ක්‍රියාත්මක කිරීමට ඇෆ්ගනිස්තානයේ තලෙයිබාන් පාලනය තීරණය කර තිබේ.
+The Taliban, post-2021 takeover, reinstates public adultery punishments, limiting women's rights, education, and jobs. Mullah Hihikulata, the supreme leader, claims the Taliban's rule is not solely Afghanistan's responsibility. The UN reports worsening conditions for women and girls in Afghanistan.
 
-ඒ සම්බන්ධයෙන් තලෙයිබාන් උත්තරීතර නායක මුල්ලා හිබතුල්ලා අකුන්සාදා විසින් නිල නිවේදනයක් නිකුත් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+🟩
 
-ඇෆ්ගනිස්තානයේ පාලනය ලබාගැනීමෙන් පමණක් තලෙයිබාන් සංවිධානයේ කටයුතු අවසන් නොවන බව ද සිය තීරණය නිවේදනය කරමින් තලෙයිබාන් උත්තරීතර නායකයා ප්‍රකාශ කර තිබේ.
+The Taliban administration of Afghanistan has decided to restore the punishment of committing adultery in publicity.
 
-2021 වසරේ දී ඇෆ්ගනිස්තානයේ පාලනය අත්පත් කරගැනීමෙන් පසු අධ්‍යාපන, රැකියා ඇතුළු ක්ෂේත්‍ර කිහිපයක් සම්බන්ධයෙන් කාන්තාවන්ට දැඩි සීමා පනවනු ලැබීය.
+According to foreign media reports, Taliban's supremacy leader Mullah Hihikulata has issued an official statement.
 
-ඇෆ්ගනිස්තානයේ කාන්තාවන් හා දැරියන් සම්බන්ධයෙන් පවතින කොන්දේසි, ගෝලීය වශයෙන් ඉතා දරුණු තත්ත්වයක පවතින බවට එක්සත් ජාතීන්ගේ සංවිධානය ද පෙන්වාදී තිබිණි.
+The Taliban's supreme leader has said that the Taliban is not only due to the administration of Afghanistan.
+
+After the acquisition of Afghanistan in 2021, women were restricted to women, including educational, jobs.
+
+The United Nations has also shown that the conditions of women and girls in Afghanistan are very bad.
 
 ◼️
 
 [Data](articles/1527ab39.json)
+
+[Extended Data](ext_articles/1527ab39.ext.json)
+
+---
+
+### MI skipper Pandya shoves off Malinga after losing to SRH, netizens slam his behaviour
+
+*2024-03-29 16:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MI-skipper-Pandya-shoves-off-Malinga-after-losing-to-SRH-netizens-slam-his-behaviour/108-279833) · `en`
+
+Mar. 29 (FPJ) - Hardik Pandya received a hostile reception from the crowd in Ahmedabad and Hyderabad as he was booed during the toss and also subjected to jeers throughout the match.
+
+Mumbai Indians skipper Hardik Pandya has been in the news for all the wrong reasons ever since the start of the team's campaign in the Indian Premier League (IPL) 2024. Pandya faced a backlash from MI fans for replacing Rohit Sharma as a captain.
+
+Does Hardik Pandya kicked Lasith Malinga? His hands, face reaction same story.
+
+Not a good way to treat legend like Lasith Malinga. #HardikPandya #SRHvMI pic.twitter.com/Yg5a5hNRTE
+
+Hardik Pandya received a hostile reception from the crowd in Ahmedabad and Hyderabad as he was booed during the toss and also subjected to jeers throughout the match. To make it worse, the all-rounder didn't have a good start to start to his captaincy debut with Mumbai Indians as the five-time IPL champions lost to two back to back of the ongoing IPL season.
+
+...
+
+[Data](articles/f634a540.json)
 
 ---
 
@@ -73,6 +99,60 @@ The group accompanying the injured Indian national has been escorted to Nallatha
 [Data](articles/1eefba74.json)
 
 [Extended Data](ext_articles/1eefba74.ext.json)
+
+---
+
+### Cinnamon’s Colombo-focused tourism to bring high-end tourists to Sri Lanka
+
+*2024-03-29 16:00:00* · [`economynextcom`](https://economynext.com/cinnamons-colombo-focused-tourism-to-bring-high-end-tourists-to-sri-lanka-156565/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cinnamon Grand Colombo is introducing curated eco excursions of Colombo, which seeks to reposition the city as more than just a transit destination to international travellers, and bring in high-spending tourists to the country.
+
+“The more discerning traveler is looking for these niche-experiences and they are willing to pay an additional amount for this,” Area Vice President and General Manager of Cinnamon Grand Colombo, Kamal Munasinghe told EconomyNext.
+
+Cinnamon Nature Trails’ Colombo edition promises to provide unique insights into Colombo’s ecological wonders and  consists of urban eco-tourism ventures such as birdwatching in the Diyawanna wetlands, volunteering at the zoo, looking for rare and valuable flora, exploring religious sites, and street photography, and is currently available for in-house guests of Cinnamon Hotels.
+
+...
+
+[Data](articles/27012b22.json)
+
+---
+
+### அநுராதபுரம் திறந்தவெளி சிறைச்சாலையில் இரு கைதிகள் தப்பியோட்டம்
+
+*2024-03-29 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179973) · `ta`
+
+அநுராதபுரம்  திறந்தவெளி சிறைச்சாலையில் இருந்த இரு கைதிகள் இன்று வெள்ளிக்கிழமை (29)  தப்பிச் சென்றுள்ளனர்.
+
+இந்த இரு கைதிகளும் பார்வையாளர்களுக்காக திறக்கப்பட்ட சிறைச்சாலை சிற்றூண்டிச்சாலையில் வேலை செய்து வந்துள்ளனர்.
+
+இருவரும் தங்களின் சிறைச் சீருடைகளை களைந்துவிட்டு சிவில் உடைகளில் தப்பிச் சென்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+தப்பிச் சென்ற இருவரையும் கைது செய்ய அநுராதபுரம் பொலிஸாரும் சிறைச்சாலை அதிகாரிகளும் இணைந்து நடவடிக்கை மேற்கொண்டுள்ளனர்.
+
+தப்பியோடிய கைதிகளில் ஒரு கைதி அநுராதபுரத்திலுள்ள ஸ்ரவஸ்திபுரயைச் சேர்ந்தவர் எனவும் மற்றைய கைதி  களனியையும் சேர்ந்தவர் எனவும் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/bc911229.json)
+
+---
+
+### அதிகார பகிர்வினால் மாத்திரமே பொருளாதார வளர்ச்சி சாத்தியம் என்பதை சிங்கள மக்கள் புரிந்துகொள்ளவேண்டும் - அரசியல் செயற்பாட்டாளர் ரஜீவ்காந்
+
+*2024-03-29 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179972) · `ta`
+
+அதிகாரபகிர்வு உரிய முறையில் சரியான விதத்தில் இடம்பெற்றால்தான் பொருளாதார வளர்ச்சி சாத்தியம் என்பதை சிங்கள மக்கள் புரிந்துகொள்ளவேண்டும் என அரசியல் செயற்பாட்டாளர் ராஜ்குமார் ரஜீவ்காந்  வேண்டுகோள் விடுத்துள்ளார்.
+
+கொழும்பில் தூய்மையான அரசியல் கலாச்சாரத்தை ஏற்படுத்துவதற்காக மார்ச் 12 இயக்கம் ஏற்பாடு செய்திருந்த தூய்மையான அரசியலுக்காக ஒன்றிணைவோம் என்ற நிகழ்வில் உரையாற்றுகையில் அவர் இதனை தெரிவித்தார்.
+
+தூய்மையான ஒரு எதிர்காலத்தினை  தூய்மையான அரசியலிற்கான ஒரு தேவைப்பாட்டினை அரசிடமிருந்து மக்கள் நீண்டகாலமாக  எதிர்பார்க்கின்றனர்.
+
+இலங்கைதொடர்ந்து பல வருடங்களாக பொருளாதார ரீதியில் பின்னடைவுகளை சந்தித்துவந்தாலும் 2022ம் ஆண்டு மிக மோசமான அடியை சந்தித்தது 2022 பொருளாதார பிரச்சினை என்பது வெறுமனே 2022 ம் ஆண்டு வந்தது அல்ல இது மிகநீண்டகாலமாக தீர்க்கவேண்டிய பிரச்சினைகளை தீர்க்காமல் அந்த பிரச்சினைகளை மையமாக வைத்து அதன் ஊடாக அரசியல் இலாபம் தேடிக்கொண்டிருந்தவர்களால் எடுத்துக்கொண்டுவரப்பட்டு பின்னர் அது ஒரு பூகம்பமாக வெடித்தது.
+
+...
+
+[Data](articles/fa9900f3.json)
 
 ---
 
@@ -127,6 +207,40 @@ The International Cocoa is predicted by 10.4 percent to 4.45 million tonnes of G
 [Data](articles/968dadde.json)
 
 [Extended Data](ext_articles/968dadde.ext.json)
+
+---
+
+### அம்பாந்தோட்டையில் புதிய சுத்திகரிப்பு நிலையம் சினொபெக் அரசாங்கத்துடன் பேச்சுவார்த்தை
+
+*2024-03-29 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179970) · `ta`
+
+அம்பாந்தோட்டையில் உத்தேச புதிய சுத்திகரிப்பு நிலையத்தை நிர்மாணிப்பதற்கான பங்குதாரர்களுடனான பேச்சுவார்த்தைகளின் முன்னேற்றம் குறித்து சினொபெக் நிறுவனம் அரசாங்கத்துக்கு விளக்கமளித்துள்ளது.
+
+சினொபெக் வெளிநாட்டு முதலீட்டு நிறுவவனத்தின் அதிகாரிகளுக்கும், மின்சக்தி மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகரவுக்கும் இடையில் நேற்று வியாழக்கிழமை (18) இடம்பெற்ற சந்திப்பின் போதே இவ்விடயம் தொடர்பில் அவதானம் செலுத்தப்பட்டுள்ளது.
+
+சினோபெக்கின் நிர்வாகம் அசல் முன்மொழிவு மற்றும் முதலீட்டில் சுத்திகரிப்பு நிலையத்தின் திறனை இரட்டிப்பாக்க முடிவு செய்துள்ளதாக அதிகாரிகள் இதன் போது சுட்டிக்காட்டியுள்ளனர்.
+
+அவர்கள் திட்டத்துக்கான ஒப்பந்தங்களில் கையெழுத்திட்டு எதிர்வரும் ஜூன் மாதத்துக்குள் பணிகளைத் தொடங்க உள்ளனர். நீர் வழங்கல், மின்சாரம், நில ஒதுக்கீடு உள்ளிட்ட வசதிகள் தொடர்பிலும் இதன் போது கலந்துரையாடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c03ebc11.json)
+
+---
+
+### Sri Lanka’s voters will be overjoyed by NPP govt’s first cabinet decision: ex MP
+
+*2024-03-29 15:20:00* · [`economynextcom`](https://economynext.com/sri-lankas-voters-will-be-overjoyed-by-npp-govts-first-cabinet-decision-ex-mp-156578/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s voters watching the evening news on the first day of a National People’s Power (NPP) government will be overjoyed to the point of dropping their dinner upon hearing the first ever cabinet decision of the new government, a spokesman said.
+
+Former parliamentarian and NPP executive member Samatnha Vidyaratne told a crowd of supporters that the first decision taken at an NPP government’s inaugural cabinet meeting will be to suspend pensions and official residences given to former presidents.
+
+“Once we have formed a government through your vote, you can learn on the evening news about the decisions taken at the first cabinet meeting. If you’re sitting down with your plate of rice, be careful, because you’ll be so overjoyed you might drop your plate,” said Vaidyaratne.
+
+...
+
+[Data](articles/586a8f40.json)
 
 ---
 
@@ -2115,141 +2229,5 @@ Easter, the cornerstone of the Christian faith, is universally described as a ce
 [Data](articles/eb3e7095.json)
 
 [Extended Data](ext_articles/eb3e7095.ext.json)
-
----
-
-### Colombo Hospital staffers refuse uniforms despite allowance
-
-*2024-03-29 04:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-Hospital-staffers-refuse-uniforms-despite-allowance/108-279816) · `en`
-
-Colombo, March 29 (Daily Mirror) - Minor staffers at the National Hospital Colombo (NHC) have chosen not to wear their uniforms, despite receiving an annual allowance for them, according to an official from the hospital.
-
-These staffers,both male and female, are provided with specific white uniforms for their duties at the hospital to make them easily identifiable. However, instead of wearing these uniforms they allegedly opt for casual attire and behave more like clerical staff or office assistants.
-
-Although they receive an annual uniform allowance of Rs.9,500, they claim this allowance and continue to wear casual clothes. Many of these staffers argue that they cannot perform their duties effectively while wearing uniforms and have reportedly informed the hospital's management about their concerns.
-
-Furthermore, they claim to have received a letter granting permission to wear casual attire while on duty at the hospital.
-
-...
-
-[Data](articles/489c3d61.json)
-
-[Extended Data](ext_articles/489c3d61.ext.json)
-
----
-
-### CAA to withdraw gazette which prevents traders charging for polyethylene bags
-
-*2024-03-29 02:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CAA-to-withdraw-gazette-which-prevents-traders-charging-for-polyethylene-bags/108-279818) · `en`
-
-Colombo, March 29 (Daily Mirror) - The Attorney General today informed Supreme Court that the Consumers Affairs Authority would withdraw its gazette notification issued directing all traders not to charge for polyethylene bags issued to consumers when they are purchasing goods.
-
-The Attorney General made these remarks when the fundamental rights petition filed by Centre for Environmental Justice was called before Supreme Court.
-
-The petitioner is seeking an order directing the authorities to formulate practical procedures for minimizing the manufacturing by producers and use of polythene and single-use plastics by the
-
-The petitioner stated that plastic bags or polythene has resulted in many detrimental environmental effects including animal choking, pollution, blockage of channels, rivers, and streams, and landscape disfigurement.
-
-...
-
-[Data](articles/c8d61f14.json)
-
-[Extended Data](ext_articles/c8d61f14.ext.json)
-
----
-
-### March headline inflation drops substantially to 0.9%
-
-*2024-03-29 02:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/March-headline-inflation-drops-substantially-to-0-9/108-279804) · `en`
-
-Soaring prices in the past couple of months led to a fall in demand for vegetables. Pic by Kithsiri de Mel
-
-Headline Inflation, as measured by the Colombo Consumer Price Index (CCPI), dropped to 0.9 percent in March 2024 from 5.9 percent in February, data from the Department of Census and Statistics (DCS) showed.
-
-The CCPI for all items for March 2024 was 196.7, which is a decrease of 3.9 index points compared to February 2024, for which the index was 200.6. The expenditure value decreased by Rs. 3,576 in the ‘Market Basket’.
-
-The Year-on-Year (YoY) inflation of Food Group increased to 3.8 percent in March 2024 from 3.5 percent in February 2024 and the Y-on-Y inflation of Non Food Group decreased to 0.5 percent in March 2024 from 7.0 percent in February 2024.
-
-The contribution of inflation by food commodities was 1.19 percent while the contribution of Non-Food items was -0.32 percent.
-
-...
-
-[Data](articles/e514b783.json)
-
-[Extended Data](ext_articles/e514b783.ext.json)
-
----
-
-### How does everyone learn the country in the face of the economic crisis?
-
-*2024-03-29 02:09:27* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7205xkkj0jo) · `si`
-
-Sri Lankans face economic crisis by seeking foreign education, residency, or citizenship. Many use brokers for visas, with some offering cashback schemes. Despite challenges, some manage to secure higher education abroad.
-
-🟩
-
-"There is question that Sri Lanka's coming to Sri Lanka and explain whether the country will land with the economic and political issues of the country. So it's been to be a castle. "
-
-Hirunu gone abroad not only for her higher education. One other purpose in Sri Lanka has no good future is a foreign residency or citizenship of a foreign country.
-
-She is our speech and many have been abroad as many as many people, claiming to be available to higher education.
-
-Is there any money on the occasion to take Sri Lanka in a severe economic crisis?What are they doing for it?This BBC is looking into the matter.
-
-"I went to go to Finland first, but the money was not a problem and did not have visas. Then I was working to come to England. Disoberese that they really have a big rot, but there was no money. It was then that I left the job. It was the work of Shaw of Shaw, all the work was done through it. "
-
-...
-
-[Data](articles/256b4afc.json)
-
-[Extended Data](ext_articles/256b4afc.ext.json)
-
----
-
-### Steps should be taken to provide 2000 rupees as a base for plantation workers - Kidnan Selvaraj
-
-*2024-03-29 01:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179943) · `ta`
-
-Kidnan Selvaraj, president of the All Ceylon Plantation Workers Union, advocates for a basic salary of 2000 rupees for plantation workers, challenging the current 1700 rupees.
-
-🟩
-
-The President of the All Ceylon Plantation Workers Union, Kidnan Selvaraj, said that the verse 1700 rupees should be taken to provide 2000 rupees to the plantation workers.
-
-Plantation workers were distributed today (28) at Pittarathamalai, Haputtala. This was organized by the All Ceylon Plantation Workers Union.
-
-Meanwhile, Kidnan Selvaraj, president of the All Ceylon Plantation Workers Union, said the above.. He said more,
-
-“The proposal should be brought to the salary council to provide a basic salary of 2000 rupees. As we do so, we, the All Ceylon Plantation Workers Union, will give you full support. The salaries of plantation workers should not be defined within 1700 rupees.
-
-...
-
-[Data](articles/98a6c87d.json)
-
-[Extended Data](ext_articles/98a6c87d.ext.json)
-
----
-
-### New approach to report egalitarian child abuse - President
-
-*2024-03-29 01:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179942) · `ta`
-
-President Ranil Wickremesinghe introduced a system to immediately remove children's naked photos and obscene videos from the internet, in partnership with the UK's Internet Watch Foundation. This system allows the National Child Protection Authority to lodge complaints and take legal action against suspects. The President emphasized the need for child protection measures, including establishing a section for children and women in police stations and introducing a new bill for their protection.
-
-🟩
-
-The Internet system for immediate removal of children's naked photos and obscene videos uploaded on the Internet was introduced on Thursday (28) at the Presidential Office headed by President Ranil Wickremesinghe.
-
-Children are affected by the cyber web site due to children's abuse incidents or the web pages, photos and videos that can be trapped in children.
-
-The National Child Protection Authority, one of the world's leading Internet Child Protection Confirmation Institutions, is being carried out in partnership with the United Kingdom's Internet Watch Foundation - Save the Children & Child.
-
-After the introduction of this internet system, the National Child Protection Authority can lodge a complaint with the National Child Protection Authority with the help of the National Child Protection Authority www.childprotection.gov.lk.. The company will then remove the video from the Internet and take legal action against the suspects.
-
-...
-
-[Data](articles/0ccb2f23.json)
-
-[Extended Data](ext_articles/0ccb2f23.ext.json)
 
 ---

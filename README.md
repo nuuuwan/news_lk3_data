@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 15:51:52**
+As of **2024-03-29 16:03:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,561
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,917 (100.0%) of 15,919 articles have been extended.
+15,919 (100.0%) of 15,919 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,33 +46,43 @@ Thursday’s order came after South Africa sought more provisional measures, inc
 
 [Data](articles/fc1ea9b7.json)
 
+[Extended Data](ext_articles/fc1ea9b7.ext.json)
+
 ---
 
-### ලෝක චොක්ලට් කර්මාන්තය දැඩි අවදානමක
+### World chaklet industry at strict risk
 
 *2024-03-29 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195074) · `si`
 
-ඒ චොක්ලට් සඳහා වන ඉල්ලුම් ඉහළ ගියත් කෙකෝවා සැපයුම අඛණ්ඩව පවත්වා ගෙන යාමට සැපයුම්කරුවන් අපොහොසත් වීම හේතුවෙනි.
+The global chocolate industry faces severe risks due to a 90% reduction in cocoa supply, primarily from Ivory Coast, Alnaroon, and Nigeria. Temperature changes have affected cocoa production, leading to the closure of 8 cocoa seed cabs. Ivory Coast and Ghana contribute 60% of global cocoa production. Experts predict a 10.4% decrease in global cocoa supply this season. Chocolate manufacturers prioritize cost savings over government prices, affecting cocoa availability. This situation has led to a focus on cocoa in chocolate production, with high-quality cocoa production doubling since last year, impacting global chocolate supply.
 
-ලෝකයේ කොකෝවා බීජ වගාවේ සියයට 90ක් පමණ සිදුවන්නේ හෙක්ටයාර 2කටත් අඩු භූමි ප්‍රමාණ තුළය.
+🟩
 
-ලොව සමස්ත කොකෝවා නිෂ්පාදනයෙන් සියයට 75ක් පමණ සපයන්නේ අයිවරි කෝස්ට්, ඝානා, කැමරූන්, සහ නයිජීරියාව  යන රටවල්ය.
+The proportion of chocolate increasing the demand for chocolate is due to the failure of suppliers to continue the supply of cachbo.
 
-බටහිර අප්‍රිකාවේ මිලියන ගණනක් වන ගොවීන් කොකෝවා නිෂ්පාදනය දුගී බවෙන් මිදීමට ඇති එකම මාර්ගය ලෙස සලකයි.
+About 90 percent of the world's cocoa seed cultivation occurring within less land sizes.
 
-කෙසේ වුව ද වසර 3ක් අඛණ්ඩව ලොව කොකෝවා නිෂ්පාදනය පහළ ගොස් තිබේ.
+About 75 percent of the world's total cocoa production provides the countries of Ivory Coast, Alnaroon, and Nigeria.
 
-විශේෂඥයින් මත පළකරන්නේ සිව්වන වසරටත් කොකෝවා නිෂ්පාදනය වාර්තාගත අන්දමින් පහළ යාමේ අවදානමක් උද්ගතව ඇති බවය.
+Millions of people in West Africa view cocoa production as the only way to get rid of poverty.
 
-ලෝකය මුහුණ දී සිටින කාලගුණ විපර්යාසවල බලපෑමෙන් උෂ්ණත්වය ඉහළ යාම නිසා කොකෝවා අස්වැන්නට එල්ල වී ඇති බලපෑම මෙම තත්ත්වයට හේතු වී තිබේ.
+However, the cocoa manufacturing of the world has been consected for three years.
 
-ඒ අනුව, ඝානාවේ කොකෝවා බීජ නිෂ්පාදනාගාර 8ක් පමණ මේ වනවිට වසා දමා ඇත.
+Experts are posted on the fourth year of cocoa for the fourth year of cocoa.
 
-කොකෝවා සැකසුම් කිරීම සීමා කර ඇති අයිවරි කොස්ට් සහ ඝානාව ලොව කොකෝවා නිෂ්පාදනයේ 60%කටම දායක වේ.
+The impact of temperature has increased due to the influence of the world with the impact of the world due to the influence of temperature.
+
+Accordingly, about 8 cocoa seed cab have been closed down.
+
+The Ivory Coast and Ghana, which is restricted to cocoa process, contributes to 60% of Cocoa production.
+
+The International Cocoa is predicted by 10.4 percent to 4.45 million tonnes of Global Cocoa ends in this season.
 
 ...
 
 [Data](articles/968dadde.json)
+
+[Extended Data](ext_articles/968dadde.ext.json)
 
 ---
 

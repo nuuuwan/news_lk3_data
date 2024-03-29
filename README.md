@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 23:03:17**
+As of **2024-03-29 23:18:03**
 
 ## Newspaper Stats
 
-*Scraped **15,964** Articles*
+*Scraped **15,965** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 877
 islandlk | 879
 adalk | 1,342
 tamilmirrorlk | 1,909
-adaderanalk | 1,918
+adaderanalk | 1,919
 virakesarilk | 2,268
 dailymirrorlk | 2,467
 adaderanasinhalalk | 2,570
@@ -26,25 +26,49 @@ adaderanasinhalalk | 2,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,963 (100.0%) of 15,964 articles have been extended.
+15,964 (100.0%) of 15,965 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### வெப்பம் குளிர் மழை - விமர்சனம்
+### Colombo and Shanghai to establish a strong relationship
+
+*2024-03-29 23:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98295/colombo-and-shanghai-to-establish-a-strong-relationship) · `en`
+
+Prime Minister Dinesh Gunawardena had a long discussion with Gong Seng, Mayor of Shanghai, on Friday (29) in Shanghai, China.
+
+It was agreed to establish a strong relationship between Shanghai, China, which is ranked first among the world’s port cities, and the cities of Colombo and Hambantota, which have been planned to be developed as a maritime hub in the East and West shipping routes in the future.
+
+A long time has passed since the Sister City Agreement between Colombo and Shanghai was signed, and the Prime Minister pointed out that further work can be carried out under this agreement, which was signed when his brother Prasanna Gunawardena was holding the post of Mayor.
+
+It was emphasised that the city of Shanghai has handled 49.5 million containers in terms of cargo transportation, and last year it ranked first in cargo transportation in the world, and there are many lessons that can be learnt by Sri Lanka in the said sector.
+
+...
+
+[Data](articles/f2c12daa.json)
+
+---
+
+### Heat cold rain - Review
 
 *2024-03-29 22:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179988) · `ta`
 
-இன்றும் பாரம்பரிய கலாச்சாரமும், பண்பாடும் கெடாமல் இருக்கும் தமிழக கிராமிய பகுதிகளில் செயன்முறை கருத்தரிப்பின் மூலம் பிறக்கும் குழந்தைகளுக்கும், அவர்களது பெற்றோர்களுக்கும் இடையேயான உறவினை விவரிக்க முயன்றிருக்கும் 'வெப்பம் குளிர் மழை' எனும் திரைப்படம்.. அனைத்து தரப்பு ரசிகர்களுக்கும் இயக்குநரின் விழிப்புணர்வு முயற்சி எட்டியதா? இல்லையா? என்பதனை தொடர்ந்து காண்போம்.
+"Heat Cold Rain" explores the traditional vs. modern relationship dynamics in Tamil Nadu, focusing on a couple's struggle for a child. Despite initial resistance, they consider IVF, leading to a complex emotional journey. The film, directed by Betha Perumal, delves into themes of love, sacrifice, and the pursuit of a child's privilege.
 
-பெத்த பெருமாள் ( திரவ்) - பாண்டி ( இஸ்மத் பானு) இவர்கள் இருவரும் மனமொத்த தம்பதிகள். இவர்களுக்கு திருமணமாகி ஐந்து ஆண்டுகளுக்குப் பிறகும் வாரிசு இல்லை. குழந்தை பாக்கியம் குறித்து தம்பதிகளின் நண்பர்கள் ஐ வி எஃப் எனப்படும் செயன்முறை கருத்தரிப்பு குறித்த விடயங்களை விவரித்த போதும்,, அதனை பெத்த பெருமாள் ஏற்க மறுக்கிறார்.
+🟩
 
-குழந்தை பாக்கியம் என்பது ஆண்டவனின் அருளால் இயற்கையாக நடைபெற வேண்டும் என்பதில் பெத்த பெருமாள் உறுதியாக இருக்கிறார். ஆனால் பெத்த பெருமாளின் தாயார் தங்களுடைய குடும்பத்திற்கு வாரிசு ஒன்று வேண்டும் என்றும், இதற்காக வேறொரு திருமணத்தை செய்து கொள்ள வேண்டும் என்றும் மகனிடமும், மருமகளிடமும் வற்புறுத்துகிறார்.
+The film is a film called 'Heat Cold Rain', which has tried to describe the relationship between children and their parents born through the process of traditional culture and culture in the rural areas of Tamil Nadu.. Has the director's awareness effort for all fans?Or not?We will continue to see.
+
+Betha Perumal (Drav) - Pandi (Ismat Banu). They have no heir five years after their marriage. While the couple's friends of the couple have described the IVF, the child's privilege, despite the fact that Beta Perumal refuses to accept it.
+
+Betha Perumal is sure that the child's privilege is to be held naturally by the grace of the Lord. But Betha Perumal urges her son and daughter -in -law that their family needs a heir and another marriage.
 
 ...
 
 [Data](articles/b67ed0f7.json)
+
+[Extended Data](ext_articles/b67ed0f7.ext.json)
 
 ---
 
@@ -2291,31 +2315,5 @@ Easter Sunday is immediately preceded by Holy Week (Passion Week) which begins w
 [Data](articles/8b4a35b9.json)
 
 [Extended Data](ext_articles/8b4a35b9.ext.json)
-
----
-
-### Today's big silver
-
-*2024-03-29 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/179948) · `ta`
-
-Today marks Holy Friday, commemorating Jesus' suffering and death, leading to Easter Sunday. Christians recall Jesus' life, death, and resurrection, celebrating Good Friday as a day of humanity's benefits. Despite Jesus' death, Christians remember the day as Good Friday, a day of fearlessness and freedom from death's power.
-
-🟩
-
-Christians living in the world today recall the suffering of Jesus Christ and celebrate the death of Holy Friday.
-
-The demise of Jesus is observed today as Holy Friday. The day of his resurrection is celebrated as 'Easter' on Sunday.
-
-Although Jesus Christ died, Christians are called 'Good Friday', which has the benefits of humanity.
-
-Christians are recalling the suffering, death and life of Jesus Christ, the main event in history. All Christians in the world today remember the 'Great Friday' today.
-
-Jesus' death comes to the memory of the people of the world, when it comes to the Great Friday, Good Friday, Good Friday. The adults or ancestors have been correctly named for that day. Good Friday, Good Friday, All Fridays are the most appropriately named. But if you ask if the day is observed based on those names.
-
-...
-
-[Data](articles/1ff8451e.json)
-
-[Extended Data](ext_articles/1ff8451e.ext.json)
 
 ---

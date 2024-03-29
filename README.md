@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 23:52:24**
+As of **2024-03-30 00:04:17**
 
 ## Newspaper Stats
 
-*Scraped **15,965** Articles*
+*Scraped **15,968** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 170
 dbsjeyarajcom | 197
 newsfirstlk | 363
 dailyftlk | 862
-economynextcom | 877
+economynextcom | 879
 islandlk | 879
 adalk | 1,342
 tamilmirrorlk | 1,909
 adaderanalk | 1,919
-virakesarilk | 2,268
+virakesarilk | 2,269
 dailymirrorlk | 2,467
 adaderanasinhalalk | 2,570
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,965 (100.0%) of 15,965 articles have been extended.
+15,965 (100.0%) of 15,968 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### வலி.வடக்கில் வீடுகளை உடைக்கும் கொள்ளையர்கள்
+
+*2024-03-29 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179989) · `ta`
+
+யாழ்ப்பாணம் வலி வடக்கு பகுதியில் கடந்த 33 வருடங்களாக இராணுவ முகாம் அமைக்கப்பட்டிருந்த தனியாரின் காணிகள் அண்மையில் காணி உரிமையாளர்களிடம் மீள கையளிக்கப்பட்டது.
+
+பெரும்பாலான காணி உரிமையாளர்கள் வெளி பிரதேசங்கள் மற்றும் வெளிநாடுகளில் வசித்து வருவதால் அவர்களால் உடனேயே அக்காணிகளுக்குள் குடியமர முடியவில்லை. அதனை தமக்கு சாதகமாக பயன்படுத்திக் கொண்டுள்ள கொள்ளையர்கள், அந்த காணிகளுக்குள் புகுந்து வீடுகளை உடைத்து இரும்புகள், கதவுகள், கதவு நிலைகள் என்பவற்றை களவாடி செல்கின்றனர்.
+
+இது தொடர்பில் பாதுகாப்பு தரப்பு மற்றும் பொலிசாரிடம் அறிவித்தும் கொள்ளையர்களைக் கட்டுப்படுத்த எந்த நடவடிக்கையும் இல்லை என அப்பகுதி மக்கள் கவலை தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/f5c757ea.json)
+
+---
 
 ### Colombo and Shanghai to establish a strong relationship
 
@@ -369,6 +385,22 @@ President Ranil Wickremesinghe praised the SSC players who led the Sri Lankan te
 [Data](articles/07ebfd33.json)
 
 [Extended Data](ext_articles/07ebfd33.ext.json)
+
+---
+
+### Sri Lanka’s state-owned People’s Bank posts Rs. 96.8 bln income, Rs. 19.3 bln pre-tax profit
+
+*2024-03-29 20:02:00* · [`economynextcom`](https://economynext.com/sri-lankas-state-owned-peoples-bank-posts-rs-96-8-bln-income-rs-19-3-bln-pre-tax-profit-156599/) · `en`
+
+ECONOMYNEXT – People’s Bank, Sri Lanka’s second largest state bank by assets, posted 96.8 rupees consolidated operating income and 19.3 billion rupees of pre-tax profit for the financial year ended December 31, 2023, the Bank said in a statement.
+
+The net interest income, however, slipped to 67.8 billion rupees during the year from the previous year’s 91 billion rupees, reflecting high interest costs on term deposit funding due to the high interest rate environment prevailed in 2022 and early 2023 as well as significant interest concessions extended to the customers, it said.
+
+Sujeewa Rajapakse, the Chairman of People’s Bank said he was pleased with the Bank’s overall performance on both quantitative and qualitative front considering the added burden shouldered as a State Bank – amid the most challenging set of circumstances over the past four years.
+
+...
+
+[Data](articles/6b429555.json)
 
 ---
 
@@ -1882,6 +1914,24 @@ Ranaweera said that the Sri Lanka Institute of Textile and Apparel had recently 
 
 ---
 
+### Sri Lanka needs to cultivate entrepreneurial spirit in schools: Minister
+
+*2024-03-29 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-to-cultivate-entrepreneurial-spirit-in-schools-minister-156538/) · `en`
+
+ECONOMYNEXT – Fostering an entrepreneurial environment within schools will nurture individuals to become successful entrepreneurs, Small and Medium Enterprises Development State Minister has said.
+
+“Cultivating an entrepreneurial atmosphere within schools greatly aids in fostering future entrepreneurs,” Prasanna Ranaweera said. “This initiative is pivotal in laying the foundation for a robust manufacturing economy within the country.”
+
+Ranaweera said that the Sri Lanka Institute of Textile and Apparel had recently awarded diploma course certificates to nearly 500 students.
+
+“Furthermore, in collaboration with the Industrial Development Board (IDB), we have successfully established school entrepreneurial circles and assessed the students’ potential.” (Colombo/Mar29/2024)
+
+◼️
+
+[Data](articles/fde0a080.json)
+
+---
+
 ### Mahabage's shotgun that has led to Hellma
 
 *2024-03-29 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195065) · `si`
@@ -2249,73 +2299,5 @@ Each report processed by the reporting portal will be manually assessed by IWF h
 [Data](articles/25d4059c.json)
 
 [Extended Data](ext_articles/25d4059c.ext.json)
-
----
-
-### PA Towards the Division- DailyMirr
-
-*2024-03-29 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179951) · `ta`
-
-DailyMirr suggests PA should support President Wickremesinghe, while Rajapaksa family urges party to back its candidate. PA's executive committee hasn't been seriously investigated yet. MPs, including cabinet members, support Wickremesinghe. Prasanna Ranatunga criticizes Basil Rajapaksa's appointment, suggesting no party member can win the presidential election.
-
-🟩
-
-DailyMirr has said that one party should stand for the presidential election and other parties to support President Ranil Wickremesinghe.
-
-The party in favor of the Rajapaksa family of the Sri Lanka PA has said that the party should stop its own candidate and contest the election.
-
-The comment has been made at the meeting of the party's executive committee - however, the party has not yet been seriously investigated as the election date has not been announced.
-
-Meanwhile, MPs of the PA, who holds cabinet posts in the government, have a firm position that President Ranil Wickremesinghe should support him in the event of contesting the election.
-
-Meanwhile, Prasanna Ranatunga has said that there is no one in the party who is capable of winning the presidential election.
-
-He has openly criticized Basil Rajapaksa's appointment as the national organizer and said that the post should be given to Basil Rajapaksa.
-
-◼️
-
-[Data](articles/f4cea25b.json)
-
-[Extended Data](ext_articles/f4cea25b.ext.json)
-
----
-
-### Good Friday commemorated today; Special security plans in place in Sri Lanka
-
-*2024-03-29 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98278/good-friday-commemorated-today-special-security-plans-in-place-in-sri-lanka) · `en`
-
-Good Friday is a significant Christian and Catholic religious observance that marks the crucifixion of Jesus Christ and his death at Calvary. This year, Good Friday is commemorated today (29).
-
-According to the New Testament, Jesus Christ was crucified on a Friday. As such, Good Friday is observed on the Friday preceding Easter Sunday which marks the resurrection of Jesus Christ from the dead on the third day of his burial.
-
-In the Christian Liturgical Calendar, Easter follows Lent, the 40-day period (excluding Sundays) before Easter which traditionally is observed by acts of penance and fasting.
-
-Easter Sunday is immediately preceded by Holy Week (Passion Week) which begins with Palm Sunday, the day Jesus Christ entered the city of Jerusalem. Holy Thursday marks the Last supper of Jesus Christ, during which he established the sacrament of Holy Communion prior to being arrest.
-
-...
-
-[Data](articles/567032bd.json)
-
-[Extended Data](ext_articles/567032bd.ext.json)
-
----
-
-### Good Friday commemorated today; Sri Lanka implements special security plans
-
-*2024-03-29 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98278/good-friday-commemorated-today-sri-lanka-implements-special-security-plans) · `en`
-
-Good Friday is a significant Christian and Catholic religious observance that marks the crucifixion of Jesus Christ and his death at Calvary. This year, Good Friday is commemorated today (29).
-
-According to the New Testament, Jesus Christ was crucified on a Friday. As such, Good Friday is observed on the Friday preceding Easter Sunday which marks the resurrection of Jesus Christ from the dead on the third day of his burial.
-
-In the Christian Liturgical Calendar, Easter follows Lent, the 40-day period (excluding Sundays) before Easter which traditionally is observed by acts of penance and fasting.
-
-Easter Sunday is immediately preceded by Holy Week (Passion Week) which begins with Palm Sunday, the day Jesus Christ entered the city of Jerusalem. The week continues with Holy Thursday and it marks the Last supper of Jesus Christ, during which he established the sacrament of Holy Communion prior to being arrest.
-
-...
-
-[Data](articles/8b4a35b9.json)
-
-[Extended Data](ext_articles/8b4a35b9.ext.json)
 
 ---

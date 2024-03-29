@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 19:33:43**
+As of **2024-03-29 19:50:37**
 
 ## Newspaper Stats
 
-*Scraped **15,943** Articles*
+*Scraped **15,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,342
 tamilmirrorlk | 1,907
 adaderanalk | 1,916
 virakesarilk | 2,263
-dailymirrorlk | 2,459
+dailymirrorlk | 2,460
 adaderanasinhalalk | 2,566
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,941 (100.0%) of 15,943 articles have been extended.
+15,943 (100.0%) of 15,944 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,27 +46,35 @@ During the celebration, a commemorative book documenting the 125-year history of
 
 [Data](articles/9b92c5b9.json)
 
+[Extended Data](ext_articles/9b92c5b9.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාව යළිත් ක්‍රිකට් ක්‍රීඩාවෙන් ලොව ප්‍රමුඛයෙකු වනු දැකීම අපේක්ෂාවයි - ජනපති
+### Sri Lanka is to be a leader in cricket again - President
 
 *2024-03-29 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195080) · `si`
 
-ශ්‍රී ලංකාව යළිත් ක්‍රිකට් ක්‍රීඩාවෙන් ලොව ප්‍රමුඛයෙකු බවට පත්වනු දැකීම තම අපේක්ෂාව බවත් ඒ වෙනුවෙන් රජයෙන් ලබාදිය හැකි සියලු දායකත්වය ලබාදෙන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe highlighted Sri Lanka's cricket leadership, emphasizing government support and the importance of sports clubs in preserving Sri Lankan identity. He also mentioned the government's Rs. 1 billion allocation for cricket development, aiming to improve cricket in rural areas and create a broad national team.
 
-එසේම දේශපාලනය සහ ක්‍රීඩාව වෙන්කර තබා ගැනීමේ වැදගත්කම පෙන්වා දුන් ජනාධිපතිවරයා දේශපාලනඥයන්ට ක්‍රීඩා සමාජවල ඉහළ තනතුරු ලබාදීමෙන් වැළකි සිටිය හැකි නම් එය යහපත් තත්ත්වයක් වනු ඇතැයි තමා විශ්වාස කරන බවද සඳහන් කළේය.
+🟩
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ඊයේ (28) පස්වරුවේ කොළඹ පැවති සිංහල ක්‍රීඩා සමාජයේ (SSC) 125 වන සංවත්සර සැමරුමට එක් වෙමිනි.
+President Ranil Wickremesinghe said that Sri Lanka is a leading leader in cricket again and that the government will contribute to the government.
 
-සිංහල ක්‍රීඩා සමාජයේ වසර 125ක ඉතිහාසය සටහන් කෙරුණු සුවිශේෂී ග්‍රන්ථයක් එළිදැක්වීම ද මෙහිදී සිදු කෙරුණු අතර එයට සමගාමීව තැපැල් මුද්දරයක් සහ මුල්දින කවරයක් ද නිකුත් කෙරිණි.
+The President also said that he believed that if the President could avoid delivering the high positions of sports clubs in the sports clubs.
 
-ජාත්‍යන්තර ක්‍රිකට් පිටියේ එදා මෙදාතුර ශ්‍රී ලංකා පිලට නායකත්වය දුන් එස්එස්සී ක්‍රීඩකයන් ඇගයීමට ලක් කිරීම ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් සිදු වූ අතර ජනාධිපතිවරයා ඔවුන් සමඟ සමූහ ඡායාරූපයකටද එක් විය.
+President Ranil Wickremesinghe was speaking to the 125th Anniversary of the Sinhala sports club (SSC) held in Colombo yesterday.
 
-මෙම උත්සව සභාව ඇමතූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් මෙසේද පැවසීය,
+The 125 year history of the Sinhala sports club was also launched.
+
+President Ranil Wickremesinghe assessed SSS players who led the SSS of the Sri Lanka SC at the international cricket at the international cricket.
+
+Addressing the House, President Ranil Wickremesinghe further added:
 
 ...
 
 [Data](articles/407b38de.json)
+
+[Extended Data](ext_articles/407b38de.ext.json)
 
 ---
 
@@ -293,6 +301,18 @@ Maskeliya Police Special Task Force Police Officer 76216 Padmasiri, Police Offic
 [Data](articles/b39cfe0a.json)
 
 [Extended Data](ext_articles/b39cfe0a.ext.json)
+
+---
+
+### For Ramadan Festival...
+
+*2024-03-29 16:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/For-Ramadan-Festival/110-279834) · `en`
+
+During this Ramadan festival, along with experiencing the vibrant culture and traditional crafts of Pakistan, the trade fair ’’Ramadan Festival’’ will be held at the Excitation Ground at Baladaksha Mawatha, Colombo, where textiles, home appliances and food items will be available. It will be held from noon to midnight till March 31. Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/940845d7.json)
 
 ---
 
@@ -2291,25 +2311,5 @@ The members of the public are advised to take adequate precautions to minimize d
 [Data](articles/b7b771aa.json)
 
 [Extended Data](ext_articles/b7b771aa.ext.json)
-
----
-
-### Sri Lanka electricity sector reforms bill to be gazetted
-
-*2024-03-29 06:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-electricity-sector-reforms-bill-to-be-gazetted-156543/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Attorney General has issued certification to proceed with the new draft bill on electricity sector reforms, Power and Energy Minister Kanchana Wijesekera said.
-
-“Accordingly the new electricity reforms bill will be gazetted in the next two weeks and presented to the Parliament during the last week of April,” Wijesekera said on social media platform X (twitter.)
-
-A progress review of the electricity sector reforms was held at the Ministry of Power and Energy with officials of the Reforms Secretariat Wijesekera said.
-
-“Suggestions and issues raised by the development agencies and stakeholders were incorporated as amendments to the draft bill that was gazetted in December by the Legal Draftsman’s office and the inconsistencies in the Sinhala and Tamil translations were also fixed.”
-
-...
-
-[Data](articles/bcfa1dcb.json)
-
-[Extended Data](ext_articles/bcfa1dcb.ext.json)
 
 ---

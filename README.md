@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 02:33:28**
+As of **2024-03-30 02:49:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,980 (100.0%) of 15,981 articles have been extended.
+15,981 (100.0%) of 15,981 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -641,6 +641,8 @@ Mahawamsa which was first written by Bhikku Mahanama, has documented the history
 ...
 
 [Data](articles/fb174afb.json)
+
+[Extended Data](ext_articles/fb174afb.ext.json)
 
 ---
 

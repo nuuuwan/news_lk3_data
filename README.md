@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 08:50:59**
+As of **2024-03-29 09:03:11**
 
 ## Newspaper Stats
 
-*Scraped **15,848** Articles*
+*Scraped **15,849** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 860
 economynextcom | 869
 islandlk | 879
 adalk | 1,339
-adaderanalk | 1,899
 tamilmirrorlk | 1,899
+adaderanalk | 1,900
 virakesarilk | 2,242
 dailymirrorlk | 2,446
 adaderanasinhalalk | 2,546
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,546
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,844 (100.0%) of 15,848 articles have been extended.
+15,848 (100.0%) of 15,849 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### New online reporting system launched for child sexual abuse complaints
+
+*2024-03-29 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98277/new-online-reporting-system-launched-for-child-sexual-abuse-complaints) · `en`
+
+An online platform was launched on Thursday (28), enabling the swift removal of websites, photos, and videos containing or potentially containing instances of child sexual abuse at the Presidential Secretariat under the patronage of President Ranil Wickremesinghe.
+
+Recognizing the urgency of addressing child abuse in cyberspace, this initiative targets the dissemination of nude photos and indecent videos of children through the internet and social media channels.
+
+Implemented by the National Child Protection Authority (NCPA) in collaboration with the Internet Watch Foundation (IWF), renowned for its expertise in internet child safety enforcement, this program receives financial support from Save the Children and Child Fund.
+
+Following the implementation of this online system, individuals can now visit the website of the National Child Protection Authority at www.childprotection.gov.lk to report incidents of indecent photos and videos of children exchanged online.
+
+...
+
+[Data](articles/f9119765.json)
+
+---
 
 ### SLPP heading for split
 
@@ -45,6 +63,8 @@ However, the party’s MPs who currently hold positions in the government openly
 ...
 
 [Data](articles/f0a4c619.json)
+
+[Extended Data](ext_articles/f0a4c619.ext.json)
 
 ---
 
@@ -65,6 +85,8 @@ Some bodies were burned beyond recognition and others were trapped inside the de
 ...
 
 [Data](articles/b11b1d07.json)
+
+[Extended Data](ext_articles/b11b1d07.ext.json)
 
 ---
 
@@ -88,19 +110,25 @@ According to the southern province, some of the districts of Ampara and Moneraga
 
 ---
 
-### HIV ආසාදිතයින් වාර්තාවීම ඉහළ ගිහින්
+### Reporting of HIV infected persons
 
 *2024-03-29 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195058) · `si`
 
-පසුගිය වසරට සාපේක්ෂව මෙරට තුළ HIV ආසාදිතයින් වාර්තා වීමේ ප්‍රතිශතයේ යම් ඉහළ යාමක් නිරීක්ෂණය වන බව ශ්‍රී ලංකා ජාතික ලිංගාශ්‍රිත රෝග හා ඒඩ්ස් මර්දන වැඩසටහනේ අධ්‍යක්ෂ ප්‍රජා සෞඛ්‍ය විශේෂඥ වෛද්‍ය ජානකී විදානපතිරණ මහත්මිය පවසන්නීය.
+Dr. Janaki Vidanathirana, Director of the Sri Lanka Institute of STDs and AIDS, reported that HIV infection rates in Sri Lanka are being observed, with a notable increase in the risk among the 20-30 age group.
 
-ලිංගිකව සක්‍රීය වයසේ පසුවන අවුරුදු 20ත් 30ත් අතර වයස් කණ්ඩයේ පසුවන පිරිස් ඊට ගොදුරු වීමේ අවදානම ඉහළ ගොස් ඇති බව ඇය ප්‍රකාශ කළාය.
+🟩
 
-කොළඹ පැවැති මාධ්‍ය හමුවකට එක්වෙමින් විශේෂඥ වෛද්‍ය ජානකී විදානපතිරණ මහත්මිය මේ බව සඳහන් කළාය.
+Community Dr. Janaki Vidanathirana, Director of the Sri Lanka Institute of STDs and AIDS Contradicates, says that the percentage of HIV infections will be observed in Sri Lanka compared to last year.
+
+She said that the risk of the age group of 20 to 30 years old, she had risen the risk of the victim.
+
+Specialist mediation Dr. Janaki Vidanathirana stated this while participating at a media briefing in Colombo.
 
 ◼️
 
 [Data](articles/bed03932.json)
+
+[Extended Data](ext_articles/bed03932.ext.json)
 
 ---
 
@@ -285,6 +313,8 @@ The members of the public are advised to take adequate precautions to minimize d
 ◼️
 
 [Data](articles/b7b771aa.json)
+
+[Extended Data](ext_articles/b7b771aa.ext.json)
 
 ---
 
@@ -2243,35 +2273,5 @@ From March 2023 the central bank had allowed the exchange rate to appreciate, ar
 [Data](articles/f97f8245.json)
 
 [Extended Data](ext_articles/f97f8245.ext.json)
-
----
-
-### Anthrax infection for 54 people in Laos: Warning in Thailand in Thailand
-
-*2024-03-28 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/179907) · `ta`
-
-Laos reports 54 anthrax infections, prompting Thailand to raise awareness. The disease, spreading in cattle, can be fatal. Laos has killed many cows and infected humans. The government aims to stop the spread to Thailand. Prime Minister Shreta Tawasin has ordered Thai Health Minister to monitor the situation, especially near the border. Advised not to report or touch dead animals. No human infections in Thailand since 2001.
-
-🟩
-
-Officials have been ordered to remain in high awareness in neighboring Thailand, as 54 people have been infected with 54 people in Laos.
-
-Antrax disease that is rapidly spreading in cattle is infectious for humans. This can sometimes cause deaths.
-
-In Laos, many cows were killed by Antrox this month and at least 54 humans were infected.
-
-The government is trying to prevent the spread of the disease from the spread of Laos, Thailand.
-
-Prime Minister Shreta Tawasin has issued a directive to the Thai Health Minister to monitor the situation, especially in the border areas with Laos.
-
-People have been advised not to inform the authorities in an extraordinary manner and not to touch the bodies of the dead animals.
-
-It has not been reported that humans have been infected in Thailand since 2001.
-
-◼️
-
-[Data](articles/33b963d2.json)
-
-[Extended Data](ext_articles/33b963d2.ext.json)
 
 ---

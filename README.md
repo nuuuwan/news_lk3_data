@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 22:50:37**
+As of **2024-03-29 23:03:17**
 
 ## Newspaper Stats
 
-*Scraped **15,963** Articles*
+*Scraped **15,964** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 879
 adalk | 1,342
 tamilmirrorlk | 1,909
 adaderanalk | 1,918
-virakesarilk | 2,267
+virakesarilk | 2,268
 dailymirrorlk | 2,467
 adaderanasinhalalk | 2,570
 
@@ -26,25 +26,47 @@ adaderanasinhalalk | 2,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,961 (100.0%) of 15,963 articles have been extended.
+15,963 (100.0%) of 15,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### கைதிகள் தப்பி ஓட்டம்
+### வெப்பம் குளிர் மழை - விமர்சனம்
+
+*2024-03-29 22:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179988) · `ta`
+
+இன்றும் பாரம்பரிய கலாச்சாரமும், பண்பாடும் கெடாமல் இருக்கும் தமிழக கிராமிய பகுதிகளில் செயன்முறை கருத்தரிப்பின் மூலம் பிறக்கும் குழந்தைகளுக்கும், அவர்களது பெற்றோர்களுக்கும் இடையேயான உறவினை விவரிக்க முயன்றிருக்கும் 'வெப்பம் குளிர் மழை' எனும் திரைப்படம்.. அனைத்து தரப்பு ரசிகர்களுக்கும் இயக்குநரின் விழிப்புணர்வு முயற்சி எட்டியதா? இல்லையா? என்பதனை தொடர்ந்து காண்போம்.
+
+பெத்த பெருமாள் ( திரவ்) - பாண்டி ( இஸ்மத் பானு) இவர்கள் இருவரும் மனமொத்த தம்பதிகள். இவர்களுக்கு திருமணமாகி ஐந்து ஆண்டுகளுக்குப் பிறகும் வாரிசு இல்லை. குழந்தை பாக்கியம் குறித்து தம்பதிகளின் நண்பர்கள் ஐ வி எஃப் எனப்படும் செயன்முறை கருத்தரிப்பு குறித்த விடயங்களை விவரித்த போதும்,, அதனை பெத்த பெருமாள் ஏற்க மறுக்கிறார்.
+
+குழந்தை பாக்கியம் என்பது ஆண்டவனின் அருளால் இயற்கையாக நடைபெற வேண்டும் என்பதில் பெத்த பெருமாள் உறுதியாக இருக்கிறார். ஆனால் பெத்த பெருமாளின் தாயார் தங்களுடைய குடும்பத்திற்கு வாரிசு ஒன்று வேண்டும் என்றும், இதற்காக வேறொரு திருமணத்தை செய்து கொள்ள வேண்டும் என்றும் மகனிடமும், மருமகளிடமும் வற்புறுத்துகிறார்.
+
+...
+
+[Data](articles/b67ed0f7.json)
+
+---
+
+### The prisoners escaped
 
 *2024-03-29 22:32:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகள்-தப்பி-ஓட்டம்/175-335357) · `ta`
 
-அனுராதபுரம் திறந்தவெளி சிறைச்சாலையில் இருந்து இரு கைதிகள் தப்பிச் சென்றுள்ளனர் என சிறைச்சாலைகள் ஊடகப் பேச்சாளர் காமினி திஸாநாயக்க தெரிவித்துள்ளார்.
+Two prisoners from Anuradhapura Open Prison escaped, reportedly from the snack area. They are from Anuradhapura - Gravastipura and Kelani areas.
 
-திறந்தவெளி சிறைச்சாலையின் சிற்றுண்டிச்சாலையில் பணியாற்றிய இரண்டு கைதிகளே, இவ்வாறு தப்பிச் சென்றுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-அவர்கள் அனுராதபுரம் - கிரவஸ்திபுர மற்றும் களனி ஆகிய பகுதிகளை சேர்ந்தவர்கள் என   ஊடகப் பேச்சாளர் குறிப்பிட்டுள்ளார்.
+Prisons Media Spokesperson Gamini Dissanayake says two prisoners have fled from the Anuradhapura Open Prison.
+
+Two prisoners who worked at the Open Prison's snack were reported to have escaped.
+
+They belong to the Anuradhapura - Gravastipura and Kelani areas, the media spokesman said.
 
 ◼️
 
 [Data](articles/45362e7d.json)
+
+[Extended Data](ext_articles/45362e7d.ext.json)
 
 ---
 
@@ -61,6 +83,8 @@ Surprisingly, there are no records available documenting the cleaning schedule o
 ...
 
 [Data](articles/56819326.json)
+
+[Extended Data](ext_articles/56819326.ext.json)
 
 ---
 
@@ -90,7 +114,7 @@ According to information received by the Udamaluwa Police Station, the Special T
 
 ### In Jaffna
 
-*2024-03-29 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/179987) · `ta`
+*2024-03-29 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/179987) · `ta`
 
 A man found dead in Jaffna's Kudyakkadal land, reportedly due to excessive alcohol use, was discovered by Iyengan Sivanandarajah. The man had left his family two months ago and lived alone in the Ilavalai-Vasanthapuram area. Autopsy by A. Jayapalasingham revealed the cause of death.
 
@@ -2293,31 +2317,5 @@ Jesus' death comes to the memory of the people of the world, when it comes to th
 [Data](articles/1ff8451e.json)
 
 [Extended Data](ext_articles/1ff8451e.ext.json)
-
----
-
-### Decide for yourself which election should be held first - Basil to the PA
-
-*2024-03-29 09:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/179949) · `ta`
-
-Basilrajapaksa advises Sri Lanka PA to decide on the order of elections, suggesting a parliamentary election before the presidential one.
-
-🟩
-
-Former Finance Minister Basilrajapaksa told the Sri Lanka PA's executive committee, "You should decide for yourself which election should be held first."
-
-Basilrajapaksa said that I had informed the President that I had to hold a parliamentary election before the presidential election.
-
-Basil Rajapaksa made this statement at a meeting of the Sri Lanka PA executive committee held at the residence of former President Mahinda Rajapaksa.
-
-The general secretary of the party, Sagarakariyawasam, said that Basil Rajapaksa said that it was my personal opinion that the parliamentary election should be held first.
-
-My personal opinion is that the first parliamentary election should be held, and that the party has also said to the President that it is his personal opinion party.
-
-◼️
-
-[Data](articles/6ff6bf5a.json)
-
-[Extended Data](ext_articles/6ff6bf5a.ext.json)
 
 ---

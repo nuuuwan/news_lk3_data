@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 06:17:22**
+As of **2024-03-29 06:54:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,808 (99.9%) of 15,827 articles have been extended.
+15,813 (99.9%) of 15,827 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ That statement is typical of the way Gotabaya Rajapaksa (GR) ruled the country. 
 
 [Data](articles/8c11deea.json)
 
+[Extended Data](ext_articles/8c11deea.ext.json)
+
 ---
 
 ### Values mixed up?
@@ -62,6 +64,8 @@ In recent times, there is a massive campaign launched in Sri Lanka to eliminate 
 
 [Data](articles/7911a275.json)
 
+[Extended Data](ext_articles/7911a275.ext.json)
+
 ---
 
 ### “Ye are the light of the world”: A mystical approach to Easter
@@ -75,6 +79,8 @@ The resurrection of Christ is the corner stone of Christian mystical thought. As
 ...
 
 [Data](articles/5ce4453f.json)
+
+[Extended Data](ext_articles/5ce4453f.ext.json)
 
 ---
 
@@ -92,6 +98,8 @@ This state-of-the-art institute is furnished with advanced technology and machin
 
 [Data](articles/00864e9a.json)
 
+[Extended Data](ext_articles/00864e9a.ext.json)
+
 ---
 
 ### Parliamentary delegation participates in 72nd Westminster Conference
@@ -107,6 +115,8 @@ Representatives from about 28 Commonwealth member States, including MPs and Parl
 ...
 
 [Data](articles/5870520a.json)
+
+[Extended Data](ext_articles/5870520a.ext.json)
 
 ---
 

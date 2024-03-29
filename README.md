@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 11:18:05**
+As of **2024-03-29 11:33:54**
 
 ## Newspaper Stats
 
-*Scraped **15,873** Articles*
+*Scraped **15,875** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 142
 bbccomsinhala | 169
-dbsjeyarajcom | 195
+dbsjeyarajcom | 196
 newsfirstlk | 363
 dailyftlk | 862
 economynextcom | 871
 islandlk | 879
 adalk | 1,340
 tamilmirrorlk | 1,902
-adaderanalk | 1,903
+adaderanalk | 1,904
 virakesarilk | 2,247
 dailymirrorlk | 2,450
 adaderanasinhalalk | 2,550
@@ -26,27 +26,51 @@ adaderanasinhalalk | 2,550
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,872 (100.0%) of 15,873 articles have been extended.
+15,873 (100.0%) of 15,875 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### විශේෂ වෙළෙඳ භාණ්ඩ බද්ද වෙනුවට අලුත් බද්දක්
+### 31-year-old hacked to death with sharp weapons
+
+*2024-03-29 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98280/31-year-old-hacked-to-death-with-sharp-weapons) · `en`
+
+A 31-year-old has been hacked to death with sharp weapons in the Lunugamwehera area on Thursday (28).
+
+The victim, who sustained critical injuries during the attack, was pronounced dead upon admission to the hospital.
+
+Preliminary police investigations have uncovered that the crime was committed over a personal dispute.
+
+Police have arrested a suspect in relation to the incident, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/c41ed33e.json)
+
+---
+
+### New tax instead of special commodity tax
 
 *2024-03-29 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195063) · `si`
 
-විශේෂ වෙළෙඳ භාණ්ඩ බද්ද ලබන ජනවාරි මාසයේ සිට අහෝසි කිරීමට සිදුකළ යෝජනාව කැබිනට් මණ්ඩලය පිළිගත් බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+The Cabinet has approved the abolition of the Special Trade Tax starting January, aiming to protect consumers and simplify import taxes, according to State Minister Ranjith Siyambalapitiya.
 
-ඔහු පෙන්වා දෙන්නේ දේශීය නිෂ්පාදකයා ආරක්ෂා කිරීමට සහ පාරිභෝගිකයා ආරක්ෂා කිරීමට නව බද්දක් හඳුන්වා දෙන බවය.
+🟩
 
-අද (29) උදෑසන රුවන්වැල්ල ප්‍රදේශයේදී මාධ්‍ය වෙත අදහස් දක්වමින් රාජ්‍ය අමාත්‍යවරයා මේ බව පැවසීය.
+State Minister Ranjith Siyambalapitiya says the Cabinet has accepted the proposal to abolish the Special Trade Tax from next January.
 
-ආනයන අපනයන බදු සරල කිරීම මෙම තීරණය ගැනීමට එක් හේතුවක් බවද ඔහු සඳහන් කළේය.
+He points out that the local manufacturer is introduced to protect and protect the consumer.
+
+The State Minister was speaking at the Ruwanwella area this morning (29).
+
+He added that the simplification of import taxes are one of the reasons for the decision.
 
 ◼️
 
 [Data](articles/c314622a.json)
+
+[Extended Data](ext_articles/c314622a.ext.json)
 
 ---
 
@@ -2203,35 +2227,5 @@ It is noteworthy that they have been arrested on charges of importing substandar
 [Data](articles/5a888bc3.json)
 
 [Extended Data](ext_articles/5a888bc3.ext.json)
-
----
-
-### Punishment of police sticks for 500 bribery
-
-*2024-03-28 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195042) · `si`
-
-A police sergeant was sentenced to 16 years in prison and fined Rs. 20,000 for accepting a bribe from a three-wheeler driver to avoid legal action for a traffic offense.
-
-🟩
-
-The Colombo Magistrate's Court today has been sentenced to a police sergeant who had obtained a bribe from a three-wheeler driver.
-
-The suspect the police sergeant has been convicted of a three-wheeler driver to avoid legal action against a traffic offense.
-
-The Bribery Investigation Commission (Investigation Investigation Commission had reported to the court on four charges against him.
-
-Accordingly, Magistrate Judicial Prasanna Alwis has decided to be guilty of 4 charges.
-
-Accordingly, each charge has been sentenced to four years in prison for 4 years and sentenced to pay the prison simultaneously.
-
-The suspects also fined Rs. 20,000 for charges of the suspect sergeant.
-
-The Court has also ordered the recovery of Rs. 500 and as a cash penal.
-
-◼️
-
-[Data](articles/767f3d3d.json)
-
-[Extended Data](ext_articles/767f3d3d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 09:03:11**
+As of **2024-03-29 09:17:58**
 
 ## Newspaper Stats
 
-*Scraped **15,849** Articles*
+*Scraped **15,854** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ newsfirstlk | 363
 dailyftlk | 860
 economynextcom | 869
 islandlk | 879
-adalk | 1,339
+adalk | 1,340
 tamilmirrorlk | 1,899
 adaderanalk | 1,900
 virakesarilk | 2,242
-dailymirrorlk | 2,446
-adaderanasinhalalk | 2,546
+dailymirrorlk | 2,448
+adaderanasinhalalk | 2,548
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,848 (100.0%) of 15,849 articles have been extended.
+15,849 (100.0%) of 15,854 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### තවත් පුද්ගල ඝාතනයක්
+
+*2024-03-29 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195060) · `si`
+
+තියුණු ආයුධයකින් පහරදී 31 හැවිරිදි පුද්ගලයෙකුව ඊයේ (28) අලුයම් කාලයේදී ඝාතනය කර තිබේ.
+
+සිද්ධියෙන් බරපතළ තුවාල ලද අදාළ පුද්ගලයා ලුණුගම්වෙහෙර රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
+
+මූලික පොලිස් විමර්ශනවලදී හෙළිවී ඇත්තේ පැරණි අමනාපයක් හේතුවෙන් මෙම ඝාතනය සිදුකර ඇති බවය.
+
+◼️
+
+[Data](articles/0f2259ec.json)
+
+---
+
+### ’Spas’ face imminent closure amid HIV scare
+
+*2024-03-29 08:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Spas-face-imminent-closure-amid-HIV-scare/155-279820) · `en`
+
+Colombo, March 29 (Daily Mirror) - On the heels of the massive raid conducted on 'Spas' in the Negombo area resulting in the detection of two HIV cases, illegal spas and Ayurvedic spas that secretly offer prostitution services are facing imminent closure in many parts of the island, Daily Mirror learns.
+
+Sources familiar with the matter told Daily Mirror that the women employed in brothels operating under the guise of spas have begun to vacate in fear of HIV.
+
+The spas operating in the vicinity of Nugegoda and Thalawathugoda are the worst to have been affected by this development as a significant portion of them secretly offer prostitution.
+
+This follows the large scale raid that Police personnel in Negombo carried out seizing 53 spas and wellness centres masquerading as brothels, resulting in the detainment of approximately 140 women, many of whom were involved in prostitution.
+
+...
+
+[Data](articles/890ef522.json)
+
+---
+
+### අගමැති චීනයේදී මෙරට ව්‍යාපෘති ගැන මතක් කරයි
+
+*2024-03-29 08:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195059) · `si`
+
+ආසියාව සඳහා වූ බොආඕ සංසදයේ වාර්ෂික සම්මන්ත්‍රණය සඳහා අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා සහභාගීවී තිබේ.
+
+චීනයේ හයිනන් නුවර පැවැති මෙම සම්මන්ත්‍රණයට එක්වු අග්‍රාමාත්‍යවරයා එහිදී විශේෂ ආමන්ත්‍රණයක් සිදුකළ බව අග්‍රාමාත්‍ය කාර්යාලය පැවසීය.
+
+ආදායම සාධාරණ ලෙස බෙදීයන... දිළිඳුකමින් තොර ආසියාවක් ගොඩනැඟීමට කැපවන ලෙස අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා මෙහිදී සියලු ආසියානු රටවලින් ඉල්ලීමක් සිදු තිබේ.
+
+කෘෂිකාර්මික වර්ධනය සහ ආහාර සුරක්ෂිතතාව සහතික කිරීම සඳහා නව මුල්පිරීම් අවශ්‍ය බව එහිදී පෙන්වාදී ඇති අග්‍රාමාත්‍යවරයා ප්‍රකාශ කර ඇත්තේ එමඟින් දිළිඳුකම තුරන් කිරීම පමණක් නොව සමාජ සහජීවනය සහ සාමය ද සහතික වන බවය.
+
+කොළඹ වරාය, හම්බන්තොට වරාය මෙන්ම කොළඹ වරාය නගරය පුළුල් කිරීම පිළිබඳව ද අග්‍රාමාත්‍යවරයා මෙම සම්මන්ත්‍රණය අමතමින් පැහැදිලි කිරිමක් සිදුකළ බව අග්‍රාමාත්‍ය කාර්යාලය වැඩිදුරටත් සදහන් කළේය.
+
+◼️
+
+[Data](articles/afc01bfd.json)
+
+---
 
 ### New online reporting system launched for child sexual abuse complaints
 
@@ -47,6 +101,8 @@ Following the implementation of this online system, individuals can now visit th
 ...
 
 [Data](articles/f9119765.json)
+
+[Extended Data](ext_articles/f9119765.ext.json)
 
 ---
 
@@ -2209,69 +2265,5 @@ The decline in the decline in the month of March, the non-food category inflatio
 [Data](articles/e1d3b0cc.json)
 
 [Extended Data](ext_articles/e1d3b0cc.ext.json)
-
----
-
-### CWC leader Senthil Thondaman rejected the proposal submitted by plantation companies!
-
-*2024-03-28 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/179910) · `ta`
-
-Senthil Thondaman, CWC leader, rejects plantation companies' proposal, emphasizing need for salary increase, not incentives. He expects fair salary hike through Salary Council. Minister Manusha Nanayakkara congratulates workers on their efforts. Government plans a 1700 rupee salary hike for plantation workers.
-
-🟩
-
-Senthil Thondaman, the governor of the Eastern Province and the President of the Eastern Province, has strongly rejected the proposal submitted by the Plantation Companies through the Ministry of Labor on Wednesday, urging the Ceylon Workers Congress to insist on the pay rise of plantation workers.
-
-“In the negotiations in the Ministry of Labor, the new project proposed by RPC is only a more beneficial program for RPC than workers.
-
-We did not request the incentives for workers but rather salary. ”Senthil Thondaman pointed out.
-
-Senthil Thondaman also said to Minister Manusha Nanayakkara, that we are expecting a fair salary increase through the Salary Council.
-
-Meanwhile, Minister Manusha Nanayakkara congratulated the workers for a series of efforts to get a pay hike.
-
-It is also worth noting that the government's decision to pay a 1700 rupee salary hike to plantation workers is taking place.
-
-◼️
-
-[Data](articles/a9d5fadb.json)
-
-[Extended Data](ext_articles/a9d5fadb.ext.json)
-
----
-
-### Colombo consumer price inflation drops to 0.9% in March
-
-*2024-03-28 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/98267/colombo-consumer-price-inflation-drops-to-09-in-march) · `en`
-
-The overall rate of inflation as measured by the Colombo Consumer Price Index (CCPI) on year-on-year basis has recorded a significant decrease in the month of March 2024, according to the most recent figures published by the Department of Census and Statistics (DCS).
-
-The CCPI-based inflation was calculated as 5.9% for the month of February.
-
-According to the DCS report, the year-on-year inflation of Food Group was recorded at 3.8% in March, showing a minor increase from the 3.8% recorded in February, while the inflation of Non-Food Group decreased to -0.5% in March from 7.0% in February.
-
-...
-
-[Data](articles/e1cdcc3d.json)
-
-[Extended Data](ext_articles/e1cdcc3d.ext.json)
-
----
-
-### Sri Lanka inflation 0.9-pct in March, prices up 4.3-pct over 18-months
-
-*2024-03-28 16:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-inflation-0-9-pct-in-march-prices-up-4-3-pct-over-18-months-156483/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s inflation slowed to 0.9 percent in the 12-months to March 2024, measured the by the widely watched Colombo Consumer Price Index, down from 5.9 percent in February data from the state debt office showed.
-
-Sri Lanka’s central bank has created only 4.23 percent in the 18-months since September 2024, when its deflationary policy showed up in the balance of payments.
-
-From March 2023 the central bank had allowed the exchange rate to appreciate, arresting the full passthrough of inflation from the earlier inflationary policy and reversing traded goods prices including food and energy.
-
-◼️
-
-[Data](articles/f97f8245.json)
-
-[Extended Data](ext_articles/f97f8245.ext.json)
 
 ---

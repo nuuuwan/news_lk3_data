@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 17:53:53**
+As of **2024-03-29 18:09:56**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,564
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,935 (100.0%) of 15,936 articles have been extended.
+15,936 (100.0%) of 15,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### விசேட வர்த்தக வரி நீக்கம்; எப்போது தெரியுமா?
+### Special trade tax deletion;When do you know?
 
 *2024-03-29 17:30:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-வர்த்தக-வரி-நீக்கம்-எப்போது-தெரியுமா/175-335343) · `ta`
 
-எதிர்வரும் வருடம் ஜனவரி மாதம் முதல் விசேட வர்த்தக வரியை நீக்குவதற்கான யோசனையை அமைச்சரவை ஏற்றுக்கொண்டுள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+Finance Minister Ranjith Siyambalapitiya announced the removal of the special trade tax starting January next year, following the simplification of import and export taxes. This new tax aims to protect local manufacturers and consumers.
 
-இன்று (29) காலை ருவன்வெல்ல பிரதேசத்தில் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே இராஜாங்க அமைச்சர் இதனை தெரிவித்தார்.
+🟩
 
-இறக்குமதி மற்றும் ஏற்றுமதி வரிகளை எளிமையாக்கியதும் இந்த முடிவை எடுத்ததற்கு ஒரு காரணம் என்றும் குறிப்பிட்ட அவர், உள்ளூர் உற்பத்தியாளரைப் பாதுகாக்கவும் நுகர்வோரைப் பாதுகாக்கவும் புதிய வரி அறிமுகப்படுத்தப்படும் என சுட்டிக்காட்டியுள்ளார்.
+Finance Minister Ranjith Siyambalapitiya has said that the Cabinet has accepted the idea of removing the special trade tax from January next year.
+
+The Minister of State made this statement while addressing the media in Ruwanwella area this morning.
+
+He pointed out that the decision was made after the import and export taxes were simplified, and that the new tax would be introduced to protect the local manufacturer and protect consumers.
 
 ◼️
 
 [Data](articles/1ba13a23.json)
+
+[Extended Data](ext_articles/1ba13a23.ext.json)
 
 ---
 

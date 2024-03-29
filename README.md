@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 15:03:29**
+As of **2024-03-29 15:18:04**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 2,559
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,908 (100.0%) of 15,913 articles have been extended.
+15,913 (100.0%) of 15,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### நுவரெலியாவில் ஆடை தொழிற்சாலை ஊழியர்களின் போராட்டம் மூன்றாவது நாளாகவும் தொடர்கிறது
+### The struggle of clothing factory staff in Nuwara Eliya continues as the third day
 
 *2024-03-29 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179969) · `ta`
 
-நுவரெலியா - உடப்புசல்லாவ பிரதான வீதியில் ஹாவா எலிய பகுதியில் இயங்கி வரும் தனியார் ஆடை தொழிற்சாலையில் பணியாற்றும் ஊழியர்கள் வருடாந்தம் ஏப்ரல் மாதம் வழங்கப்படும் மேலதிக கொடுப்பனவை கேட்டு கடந்த புதன்கிழமை (27) தொடக்கம் இன்று வெள்ளிக்கிழமை  (29) வரை தொடர்ந்து எதிர்ப்பு ஆர்ப்பாட்டத்தில் ஈடுபட்டு வருதோடு, அத்துடன் வேலை நிறுத்தமும் மேற்கொண்டு வருகின்றனர்.
+Nuwara Eliya garment factory staff protest for annual pay increase, citing insufficient salaries and canceled benefits. Despite Kovit-19, no additional allowances were paid, leading to the current protest.
 
-குறித்த ஆடைத் தொழிற்சாலையில் 900க்கும் மேற்பட்ட ஊழியர்கள் பணியாற்றுகின்றனர். வருடாந்தம் தங்களுக்கு வழங்கப்படும்  மேலதிக கொடுப்பனவு பணத்தினை வழங்கவேண்டும் என வலியுறுத்தியே மேற்படி போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+🟩
 
-இரண்டாவது நாள் முதல் பிரதான வீதியோரம் அமர்ந்து எதிர்ப்பு வசனங்கள் எழுதப்பட்ட பதாதைகளை ஏந்தியவாறு கோஷங்களை எழுப்பி ஊழியர்கள் போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+Employees working at the private garment factory in Hawa Eliya area on the Nuwara Eliya -Udappusallawa main road have continued to protest and continue the protest from Wednesday (27) to Friday (29).
+
+There are over 900 employees at the garment factory. They are engaged in the protest, urging them to provide additional payments to them annually.
+
+Since the second day, the employees have been protesting, chanting slogans, carrying anti -verses, sitting on the main street.
+
+Following more allowance at the garment factory. Kovit - 19 has not been paid only during the period of infection, and that it is said to be a full additional allowance for all while working early this year but now no additional allowance. The protesters said that there was no salary for employment in the end.
 
 ...
 
 [Data](articles/39cfaa50.json)
+
+[Extended Data](ext_articles/39cfaa50.ext.json)
 
 ---
 
@@ -117,6 +125,8 @@ They were confiscated under Clause 7(01) of the Money Laundering Act.
 ◼️
 
 [Data](articles/ed0c582b.json)
+
+[Extended Data](ext_articles/ed0c582b.ext.json)
 
 ---
 
@@ -248,6 +258,8 @@ Future Harvest - EXPO 2024 exhibition was hosted at the Bandaranaike Memorial In
 
 [Data](articles/a2b63624.json)
 
+[Extended Data](ext_articles/a2b63624.ext.json)
+
 ---
 
 ### Underworld's re-seized
@@ -316,23 +328,29 @@ Former parliamentarian P Harrison, a spokesman for Wickremesinghe’s United Nat
 
 ---
 
-### ඇහැලකණුවේ මීටර් 100ක ප්‍රපාතයකට විදේශිකයෙකු ඇදවැටෙයි
+### A foreigner falls to a lord 100m precipice
 
 *2024-03-29 13:05:11* · [`adalk`](https://www.ada.lk/breaking_news/ඇහැලකණුවේ-මීටර්-100ක-ප්‍රපාතයකට-විදේශිකයෙකු-ඇදවැටෙයි/11-408845) · `si`
 
-රත්නපුර ශ්‍රි පාද මාර්ගයේ ඇහැලකණුව ප්‍රදේශයේදි ආරක්ෂිත වැටෙන් ඉවතට වැටි මිටර් 100ක  පමණ ප්‍රපාතයට ඇද වැටි සිටි ඉන්දිය ජාතික තරුණයෙකු ඉන් මුදවාගෙන ප්‍රතිකාර ලබා දි රෝහල් ගත කිරිමට මස්කෙලිය පොලිස් විශේෂ කාර්ය බලකායේ නිලධාරින් පියවර ගෙන ඇත.
+A foreigner from Mumbai, India, fell 100m into a precipice near Sri Pada, Ratnapura. The Maskeliya Police Special Task Force rescued the injured and hospitalized them at the Nallathaniya police station.
 
-මෙසේ තුවාල ලබා ඇත්තේ ඉන්දියාවේ මුම්බායි මහාරාට්‍රහි පදිංචි 25 හැවිරි තරුණයෙකි.
+🟩
 
-මෙම තරුණයා තවත් පිරිසක් සමග රත්නපුර ශ්‍රි පාද මාර්ගය ඔස්සේ ශ්‍රි පාද උඩ මළුව වෙත ගමන්කරන අතර තුර අද  (29) දින අලුයම 4ට පමණ මෙම සිදුවීම වී ඇත.
+The Maskeliya Police Special Task Force officials have taken steps to hospital with the rescue of a 100-memory surface in Ehethakanda, Ratnapura.
 
-සිදුවිම සම්බන්ධයෙන් ශ්‍රි පාද උඩ මළුව පොලිස් මුරපොලේ නිලධාරින් පොලිස් විශේෂ කාර්ය බලකායේ නිලධාරින් දැනුවත් කිරිමෙන් පසු වහාම ක්‍රියාත්මක වු පොලිස් විශේෂ කාර්ය බලකායේ නිලධාරින් දැඩි පරිශ්‍රමයක් දරා ප්‍රපාතයට වැටි සිටි තරුණයා ඉන් මුදවාගෙන ශ්‍රි පාද උඩ මළුව වෙත රැගෙන ගොස් ප්‍රතිකාර ඒකකයෙන් ප්‍රතිකාර ලබා දි ඇත.
+The injured were a 25-resident of Mumbai, India.
 
-සිද්ධිය සම්බන්ධයෙන් නල්ලතන්නිය පොලිස් ස්ථානය දැනුවත් කර තුවාලකරු සමග ඉන්දියාවේ සිට ශ්‍රි පාදයේ පැමිණි පිරිස සමග රෝහල් ගත කිරිමට නල්ලතන්නිය දක්වා රැගෙන යාමට කටයුතු කර ඇත.
+The youth was with the Sri Lankan Sri Pada road along the Sri Lankan Sri Paharawarda along the Sri Pada road.
+
+Police Special Task Force officials were rescued by the officers of the Police Special Task Force officials, who were immediately rescued by the police staff officials.
+
+The Nallathaniya has been taken to take up the Nallathaniya police station and hospitalized with the casualty to the Nalluthaniya with the casualties.
 
 ◼️
 
 [Data](articles/f0fcdc2a.json)
+
+[Extended Data](ext_articles/f0fcdc2a.ext.json)
 
 ---
 
@@ -597,6 +615,8 @@ The Wellapalliya parish of Elakanda Watthala Christians are seen carrying the cr
 ◼️
 
 [Data](articles/c0469bf2.json)
+
+[Extended Data](ext_articles/c0469bf2.ext.json)
 
 ---
 

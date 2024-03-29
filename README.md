@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 20:03:06**
+As of **2024-03-29 20:18:02**
 
 ## Newspaper Stats
 
-*Scraped **15,946** Articles*
+*Scraped **15,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,51 +20,95 @@ tamilmirrorlk | 1,907
 adaderanalk | 1,916
 virakesarilk | 2,264
 dailymirrorlk | 2,460
-adaderanasinhalalk | 2,567
+adaderanasinhalalk | 2,568
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,944 (100.0%) of 15,946 articles have been extended.
+15,946 (100.0%) of 15,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### තහනම් කළ කුඩු නෝනිගේ දේපොළ
+### Property of banned powder Noky
 
 *2024-03-29 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195082) · `si`
 
-වසර 30ක පමණ කාලයක සිට අහුංගල්ල ප්‍රදේශයේ  මත්ද්‍රව්‍ය ජාවාරමේ නිරත වූ බවට සැක කෙරෙන අනෝමා ශාන්ති නොහොත් කුඩු නෝනි නමැත්තියට අයත් රුපියල් ලක්ෂ 1,103කට අධික වටිනාකමකින් යුත් වාහන සහ දේපොළ රැසක් අද (29) තහනම් කෙරුණි.
+Kudu Shanthi, alias Sugarmon Loku, suspected in drug trafficking in Ahungalla, faces bans on two vessels and property seizures. IGP Tennakoon monitors the situation.
 
-ගාල්ල ධීවර වරායේ නවතා තිබූ බහුදින ධීවර යාත්‍රා දෙකක් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසය විසින් තහනම් කර එයද සිය භාරයට ගනු ලැබීය.
+🟩
 
-ඒ එම යාත්‍රා, වසර 30කට ආසන්න කාලයක් අහුංගල්ල ප්‍රදේශයේ මත්ද්‍රව්‍ය ජාවාරමේ නිරත වී ඇති බවට සැකකෙරෙන එම කාන්තාව මත්ද්‍රව්‍ය අලෙවියෙන් උපයාගත් මුදලින් මිලදීගත් ඒවා බව හෙළිවීමෙන් පසුව ය.
+Anoma Shanthi alias Kudu Shanthi, Sugarmon Loku, was suspected to have been suspected to be involved in the drug trafficking in Ahungalla area.
 
-ඇය එම යාත්‍රා සිය ඥාතීන්ගේ නමට මිලදී ගෙන ඇති බව පොලීසිය පවසයි.
+Two multi-day engineers launched at the Galle Fisheries Harbor have been banned by the Illegal Asset Division of the Criminal Investigation Department.
 
-මෙම බහුදින ධීවර යාත්‍රා නිරීක්ෂණය කිරීම සඳහා පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා ගාල්ල ධීවර වරාය වෙත අද පෙරවරුවේ පැමිණියේය.
+The vessels have been suspected to have been involved in drug trafficking in Ahungalla for nearly 30 years.
 
-මේ අතර මෙම සැකකාරියට අයත් අහුංගල්ල ප්‍රදේශයේ පිහිටි නිවාස 03ක්, කඩ කාමරයක් හා ඉඩම් 05 ක් ද නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසය මගින් සිය භාරයට ගත් අතර එම දේපොළ නිරීක්ෂණයට ද පොලිස්පතිවරයා එක් විය.
+She has bought the vessels into the name of their relatives.
+
+IGP Deshaband Tennakoon arrived at the Galle Fisheries Harbor to monitor the multi-day vessels.
+
+Meanwhile, three houses, a shop in Ahungalla, who belongs to the suspect, was taken into custody by the Illegal Assets Divisional Secretariat and the IGP also visited the property.
+
+The IGP also inspected a lorry, two motorcycle, backhoes, two wheelers and two three wheelers.
+
+Meanwhile, an illegal asset converting division has also taken over a multi-day fishing vessel to pay Rs.
 
 ...
 
 [Data](articles/b9e81f43.json)
 
+[Extended Data](ext_articles/b9e81f43.ext.json)
+
 ---
 
-### தண்டனைச்சட்டக்கோவையின் 363, 364 ஆம் பிரிவுகளைத் திருத்துவதற்கான சட்ட மசோதா: தமது பரிந்துரைகளை உள்ளடக்கி மனித உரிமைகள் ஆணைக்குழு அமைச்சர் விஜயதாஸவுக்கு கடிதம்
+### ප්‍රමිතියක් නැති ලංකාවේ බීච්
+
+*2024-03-29 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195081) · `si`
+
+අපේ රට රමණීය හා ආකර්ෂණීය වෙරළ තීරයකින් සමන්විත වුණත්, ඒ කිසිදු වෙරළක් ජාත්‍යන්තර ප්‍රමිතීන් සපුරා නොමැති බව අනාවරණ වේ.
+
+කෙසේවෙතත් අසල්වැසි ඉන්දියාව ඇතුළු රටවල් 51ක් මේ වනවිටත් වෙරළ ප්‍රමිතියට අදාළ ජාත්‍යන්තර බ්ලූ ෆ්ලෑග් සහතිකය ලබාගෙන අවසන්ය.
+
+සංචාරකයින් නිරන්තරයෙන් ගැවසෙන වෙරළ තීර ප්‍රමිතියෙන් යුතුව පවත්වාගෙන යාම "පාරිසරික අධ්‍යාපනය සඳහා පදනමට'' අනුව රීතියකි.
+
+රටවල් 77ක් සාමාජිකත්වය දරන එම පදනම ලොවපුරා වෙරළ තීරයන්හි ප්‍රමිතිය සම්බන්ධයෙන් බ්ලූ ෆ්ලෑග් සහතිකකරණය සඳහා අධීක්ෂණය කරයි.
+
+ඒ යටතේ ලොව රටවල් 51ක වෙරළ තීර සහ මරීනා 5,038ක් මේ වනවිට බ්ලූ ෆ්ලෑග් සහතිකය ලබාගෙන අවසන්ය.
+
+ඒ අතුරින් අසල්වැසි ඉන්දියාව සතු බ්ලූ ෆ්ලෑග් සහතික ලත් වෙරළ තීර ගණන 17කි.
+
+කෙසේවෙතත් ඉන්දියන් සාගරයෙන් වටවූ ශ්‍රී ලංකාවේ කිසිදු වෙරළ තීරයක් මෙතෙක් බ්ලූ ෆ්ලෑග් සහතිකය ලබාගැනීමට තරම් ප්‍රමිතියකට ළඟාවී නැහැ.
+
+ඒ අනුව බ්ලූ ෆ්ලෑග් වැඩසටහන පිළිබඳ තොරතුරු ප්‍රදර්ශනය කළ යුතු අතර වෙරළේ පිරිසිදුකම පවත්වාගෙන යාම අනිවාර්ය අංගයකි.
+
+...
+
+[Data](articles/7123b0a2.json)
+
+---
+
+### Bill to amend Section 363 and 364 of the Penal Code: Human Rights Commission Minister Vijayadasa
 
 *2024-03-29 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179984) · `ta`
 
-அண்மையில் கடும் சர்ச்சைக்கு உள்ளாகியிருந்த தண்டனைச்சட்டக்கோவையின் 363 மற்றும் 364 ஆம் பிரிவுகளைத் திருத்துவதற்கான சட்ட மசோதா தொடர்பில் தமது அவதானிப்புக்கள் மற்றும் பரிந்துரைகளை இலங்கை மனித உரிமைகள் ஆணைக்குழு நீதியமைச்சர் விஜயதாஸ ராஜபக்ஷவுக்கு கடிதம் மூலம் தெரியப்படுத்தியுள்ளது.
+The Human Rights Commission of Sri Lanka has informed Justice Minister Vijayadasa Rajapaksa about a bill to amend sections 363 and 364 of the Penal Code, proposing to lower the age of consent and qualification for sexual harassment cases. The minister will consult on the issue, with opposition from various parties. The commission recommends maintaining the age of 18 for criminal age and not increasing it to 22, emphasizing the importance of protecting children from sexual violations.
 
-தண்டனைச்சட்டக்கோவையின் 363 மற்றும் 364 ஆம் பிரிவுகளைத் திருத்துவதற்கான சட்ட மசோதா குறித்து பல்வேறு தரப்பினராலும் கடும் எதிர்ப்பு வெளிப்படுத்தப்பட்டதையடுத்து, அச்சட்டமூலம் தொடர்பில் ஆலோசனை கலந்துரையாடல்களை முன்னெடுக்கவிருப்பதாக நீதியமைச்சர் விஜயதாஸ ராஜபக்ஷ அறிவித்துள்ளார்.
+🟩
+
+The Human Rights Commission of Sri Lanka has informed the Minister of Justice Vijayadasa Rajapaksa on the bill to amend section 363 and 364 of the recent controversy.
+
+Justice Minister Vijayadasa Rajapakse has announced that he will hold consultations on the issue, after various parties have expressed their opposition to the Bill to amend Article 363 and 364 of the Penal Code.
+
+The law proposes that a person who is not 18 years of age has been able to reduce the qualification age from 16 to 14.. Similarly, if the person involved in sexual harassment is under the age of 22 (under the age of 18), he also gives the chance to get away from punishment.. According to a letter sent to Justice Minister Vijayadasa Rajapaksa by the Human Rights Commission of Sri Lanka, including their observations and recommendations on the law, said:
 
 ...
 
 [Data](articles/f11cf9fa.json)
+
+[Extended Data](ext_articles/f11cf9fa.ext.json)
 
 ---
 
@@ -2281,27 +2325,5 @@ The President promoted the Sri Lankan football team to win the South Asian Footb
 [Data](articles/de58180f.json)
 
 [Extended Data](ext_articles/de58180f.ext.json)
-
----
-
-### Increase in the contribution of Lotter congregation
-
-*2024-03-29 06:54:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொத்தர்-சபையின்-பங்களிப்பு-அதிகரிப்பு/175-335331) · `ta`
-
-The Development Lotteri Council's 2023 profit was its highest ever, with the Development Lotteri Sabha contributing 32% of the profit in 2022-2023, up from 16% in 2022. The Development Lottery Board's contribution to the President's Fund increased by 13% from the previous year.
-
-🟩
-
-The Development Lotteri Council recorded the highest profit in its 40 -year history in 2023.
-
-Accordingly, the Development Lotteri Sabha set a new record of 32 percent of the profit in 2022 - 2023, which is doubled in 2022.
-
-Accordingly, the contribution made by the Development Lottery Board to the President's Fund has been increased by 13 percent compared to last year.. (A)
-
-◼️
-
-[Data](articles/73d51645.json)
-
-[Extended Data](ext_articles/73d51645.ext.json)
 
 ---

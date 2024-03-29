@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 05:38:00**
+As of **2024-03-29 06:17:22**
 
 ## Newspaper Stats
 
-*Scraped **15,808** Articles*
+*Scraped **15,827** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ colombotelegraphcom | 142
 bbccomsinhala | 168
 dbsjeyarajcom | 195
 newsfirstlk | 363
-dailyftlk | 848
+dailyftlk | 859
 economynextcom | 867
-islandlk | 871
+islandlk | 879
 adalk | 1,339
 tamilmirrorlk | 1,895
 adaderanalk | 1,897
@@ -26,11 +26,209 @@ adaderanasinhalalk | 2,542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,805 (100.0%) of 15,808 articles have been extended.
+15,808 (99.9%) of 15,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### No mea culpa
+
+*2024-03-29 05:45:56* · [`dailyftlk`](https://www.ft.lk/opinion/No-mea-culpa/14-760104) · `en`
+
+It’s almost comedic in its simple-minded analysis of complicated issues
+
+Former President Gotabaya Rajapaksa’s book titled “Conspiracy to oust me from the presidency” does in no way live up to its title. If anyone thinks this is a page turner that gives a blow by blow about how a conspiracy unfolded to destroy his presidency, don’t waste your time or your money on the work.
+
+The former president merely insults those who don’t believe there was a conspiracy to get rid of him. This writer read the Sinhala version of the book. The author writes that only the extremely naïve, ‘bolanda’, would believe that there wasn’t a foreign conspiracy to oust him.
+
+That statement is typical of the way Gotabaya Rajapaksa (GR) ruled the country. He seemed to be so aloof that he was constantly seen to be out of touch when in power. Added to that was his rather supercilious attitude which seemed to make him think he knew more than the rabble he ruled over.
+
+...
+
+[Data](articles/8c11deea.json)
+
+---
+
+### Values mixed up?
+
+*2024-03-29 05:43:22* · [`dailyftlk`](https://www.ft.lk/opinion/Values-mixed-up/14-760103) · `en`
+
+Those who possess drugs are in custody, while those who enabled these persons to possess the drugs are walking free and continuing to bring more drugs into the country
+
+In recent times, there is a massive campaign launched in Sri Lanka to eliminate drugs in the country. It is an excellent objective. But who are those being caught and disciplined? Those who are in possession of drugs. But has it ever occurred to these knights in shining armour, who go after those who possess drugs, that there is another group on whom no drugs are found or will ever be found, who are nevertheless, the masterminds of the drug trade?
+
+...
+
+[Data](articles/7911a275.json)
+
+---
+
+### “Ye are the light of the world”: A mystical approach to Easter
+
+*2024-03-29 05:41:28* · [`dailyftlk`](https://www.ft.lk/opinion/Ye-are-the-light-of-the-world-A-mystical-approach-to-Easter/14-760102) · `en`
+
+Our purpose in this world is to choose the resurrection where we join with Christ and seek his power of thought to restore our minds to its original glory
+
+The resurrection of Christ is the corner stone of Christian mystical thought. As such, there are no neutral or idle thoughts for the spiritual seeker. In this way, all thought produces form at some level but they are either true or false. For the spiritual aspirant, the resurrection, correctly speaking, is the highest level of thought; for it acknowledges that there is no thought but God.
+
+...
+
+[Data](articles/5ce4453f.json)
+
+---
+
+### South Asia’s largest water research institute opens at Peradeniya Uni.
+
+*2024-03-29 05:29:54* · [`dailyftlk`](https://www.ft.lk/news/South-Asia-s-largest-water-research-institute-opens-at-Peradeniya-Uni/56-760098) · `en`
+
+The China-Sri Lanka Joint Research and Demonstration Centre for Water Technology, the largest water research institute in South Asia, was inaugurated at the University of Peradeniya on Tuesday.
+
+The opening ceremony was attended by Chinese Academy of Science Deputy President Yaping Zhang and Peradeniya University Vice Chancellor Prof. D. M. Lamahewa .
+
+This state-of-the-art institute is furnished with advanced technology and machinery to detect harmful substances in drinking water, which are responsible for numerous ailments such as Chronic Kidney diseases which is rapidly spreading in the agricultural zones in the country. This institute is a gift from the People’s Republic of China.
+
+...
+
+[Data](articles/00864e9a.json)
+
+---
+
+### Parliamentary delegation participates in 72nd Westminster Conference
+
+*2024-03-29 05:28:19* · [`dailyftlk`](https://www.ft.lk/news/Parliamentary-delegation-participates-in-72nd-Westminster-Conference/56-760097) · `en`
+
+A three-member delegation from Sri Lanka’s Parliament attended the 72nd Westminster Conference, which took place from 11 to 15 March at the British Parliament in London.
+
+Deputy Speaker of House Ajith Rajapaksa, MP Dr. Harini Amarasuriya, Parliament Deputy Secretary General and Chief of Staff Chaminda Kularatna represented Sri Lanka’s Parliament.
+
+Representatives from about 28 Commonwealth member States, including MPs and Parliamentary Secretaries attended this year’s conference. Parliamentary traditions of Commonwealth countries, MPs’ rights and powers, the committee system, means of adopting constitutional orders and their traditions, current social media and technology, and how research techniques applied in MPs’ roles were all explored.
+
+...
+
+[Data](articles/5870520a.json)
+
+---
+
+### SLIM Dialog Brand Week 2024 concludes in grand style
+
+*2024-03-29 05:25:56* · [`dailyftlk`](https://www.ft.lk/business/SLIM-Dialog-Brand-Week-2024-concludes-in-grand-style/34-760096) · `en`
+
+Sri Lanka’s biggest marketing event of the year, SLIM Dialog Brand Week 2024 concluded in style recently, amidst active participation from across industries, with all sessions being sold out.
+
+The 3-day symposium, held from 13 to 15 March at Waters Edge, SLIM Dialog Brand Week 2024 was no doubt the most anticipated marketing event in Sri Lanka’s marketing calendar. This flagship event, organised by the Sri Lanka Institute of Marketing (SLIM) in collaboration with Dialog Axiata, surpassed all expectations, solidifying its reputation as the preeminent gathering of marketing minds in the country.
+
+...
+
+[Data](articles/62c538e2.json)
+
+---
+
+### Sri Lankan microfinance bank LOLC opens new branch in Islamabad
+
+*2024-03-29 05:23:20* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-microfinance-bank-LOLC-opens-new-branch-in-Islamabad/34-760095) · `en`
+
+The LOLC Microfinance Bank inaugurated its latest branch in the Blue Area of Islamabad recently.
+
+The High Commissioner of Sri Lanka to Pakistan Admiral Ravindra C. Wijegunaratne graced the opening ceremony as the Chief Guest.
+
+Addressing the gathering, the High Commissioner emphasised the significance of promoting financial inclusion and acknowledged the pivotal role played by the LOLC Holdings in this endeavour.
+
+LOLC Holdings President and CEO Farooq Rashid highlighted the bank’s strategic vision aimed at extending its presence to deliver financial services to a wider demographic and contributing significantly to the financial empowerment of the society. The event was attended by several distinguished guests, including top bankers.
+
+...
+
+[Data](articles/a8d9fdd6.json)
+
+---
+
+### Fitch assigns Abans proposed debentures AA- amid challenging environment
+
+*2024-03-29 05:18:58* · [`dailyftlk`](https://www.ft.lk/business/Fitch-assigns-Abans-proposed-debentures-AA-amid-challenging-environment/34-760094) · `en`
+
+In a recent development, Fitch Ratings has assigned a ‘AA- (lka)’ National Long-Term Rating to Sri Lanka-based consumer electronics retailer Abans PLC’s (AA-(lka)/Stable) proposed senior unsecured redeemable debentures.
+
+This rating reflects Abans strong financial position and underscores Abans’ robust position in the domestic market for consumer electronics, underpinned by its extensive distribution network and strong portfolio of established brands. Notably, this rating places Abans ahead of its competitors, highlighting its resilience and stability in the industry.
+
+...
+
+[Data](articles/1b4a503a.json)
+
+---
+
+### Catholic Bishops Conference calls for governance reform in Easter Message
+
+*2024-03-29 05:16:51* · [`dailyftlk`](https://www.ft.lk/news/Catholic-Bishops-Conference-calls-for-governance-reform-in-Easter-Message/56-760093) · `en`
+
+Notes Easter is being celebrated during a period of severe turmoil
+
+Emphasises urgency of reforming SL’s governance to alleviate suffering of its people
+
+Urges authorities to deliver justice to Easter Sunday terror attack victims
+
+The Catholic Bishops Conference in its Easter message has called for a change in Sri Lanka’s governing system to address the many social, economic, and political crises gripping the nation.
+
+The message noted that Easter is being celebrated during a period of severe turmoil and emphasised the urgency of reforming the country’s governance to alleviate the suffering of its people. They urged all citizens to unite in pursuit of this change.
+
+“It is essential to bring in a major change to the country’s governing system to ease the people’s suffering. It is the responsibility of all citizens to work towards bringing this change,” the message said.
+
+...
+
+[Data](articles/ebe541f5.json)
+
+---
+
+### International reporting portal debuts in SL to combat online violence against children
+
+*2024-03-29 05:16:16* · [`dailyftlk`](https://www.ft.lk/news/International-reporting-portal-debuts-in-SL-to-combat-online-violence-against-children/56-760092) · `en`
+
+The International Reporting Portal for Child Sexual Abuse Material (CSAM) for Sri Lanka was officially launched by President Ranil Wickremesinghe yesterday alongside the National Child Protection Authority (NCPA), Internet Watch Foundation (IWF), Save the Children and ChildFund Sri Lanka.
+
+Online violence against children in Sri Lanka has soared over the past decade, with recent research by Save the Children indicating that 3 out of 10 children who are internet users in urban and semi urban areas in Sri Lanka are being victimized by online perpetrators.
+
+The NCPA has been actively combating online violence against children, noting growing trends of illegal activities against children online such as luring children for sexual abuse, sexual harassment, sexual exploitation, sextortion, and threats leading to blackmail.
+
+...
+
+[Data](articles/ba3ebbaa.json)
+
+---
+
+### Prasanna advocates holding Presidential election over a Parliamentary poll
+
+*2024-03-29 05:14:44* · [`dailyftlk`](https://www.ft.lk/news/Prasanna-advocates-holding-Presidential-election-over-a-Parliamentary-poll/56-760091) · `en`
+
+Chief Government Whip and Urban Development and Housing Minister Prasanna Ranatunga
+
+Cites potential benefits in ensuring a stable Govt. amid challenges
+
+Credits President Ranil Wickremesinghe economic stability, urges continuity under his leadership
+
+Voices his preference for SLPP founder Basil Rajapaksa as National Organiser given his experience, while congratulating Namal Rajapaksa in new post
+
+Hints at Namal Rajapaksa’s potential suitability for Presidential candidacy in future
+
+Chief Government Whip and Urban Development and Housing Minister Prasanna Ranatunga said holding the Presidential election would be more beneficial than a Parliamentary poll, stressing the need for a stable Government to steer Sri Lanka out of its current challenges.
+
+Speaking to journalists at the Sri Lanka Podujana Peramuna (SLPP) office at Nelum Mawatha, Ranatunga highlighted the importance of stability in addressing the country’s economic and political issues.
+
+...
+
+[Data](articles/5a214c2e.json)
+
+---
+
+### Easter and the Roman Centurion: A Symphony of Redemption
+
+*2024-03-29 04:30:00* · [`islandlk`](http://island.lk/easter-and-the-roman-centurion-a-symphony-of-redemption/) · `en`
+
+Easter, the cornerstone of the Christian faith, is universally described as a celebration of penance, hope, renewal, and the triumph of life over death. Central to this profound narrative in history is the sacrificial death of Jesus Christ, a pivotal moment that unfolded on the cross; an instrument known, and well-recognised, as an emblem of condemnation, retribution, and shame. However, on that fateful day of the crucifixion, amidst the anguish and agony of the execution of the Son of God, one figure emerges from the pages of history; the Roman Centurion who stood at the foot of the cross. His coincidental encounter with divinity and spirituality transformed a moment of despair into a guiding light of redemption.
+
+...
+
+[Data](articles/eb3e7095.json)
+
+---
 
 ### Steps should be taken to provide 2000 rupees as a base for plantation workers - Kidnan Selvaraj
 
@@ -448,6 +646,20 @@ The post mortem examination on the dead students were held at the Polgahawela Ho
 
 ---
 
+### HSBC Ceylon Literary & Art Festival collaborates with Dilmah Ceylon Tea to launch Youth Future Writers Program
+
+*2024-03-28 22:04:00* · [`islandlk`](http://island.lk/hsbc-ceylon-literary-art-festival-collaborates-with-dilmah-ceylon-tea-to-launch-youth-future-writers-program/) · `en`
+
+The HSBC Ceylon Literary & Art Festival in collaboration with Dilmah Ceylon Tea opened its inaugural edition in Kandy announcing the launch of the Future Writers Program. Dedicated to nurturing the creative talents of young individuals, this competition underscores the festival’s commitment to fostering youth development and grooming the creative thinking, enhancing its focus on empowering the next generation.
+
+Incorporating platforms such as these serves to underscore the cultural fabric of a society, thereby augmenting the intrinsic value of a nation. Such initiatives foster a sense of purpose among the younger generation, instilling pride and potentially mitigating the phenomenon of brain drain. The platform further establishes an ecosystem that actively engages and fosters creative entrepreneurial endeavors and projects, thereby cultivating a vibrant and dynamic creative culture.
+
+...
+
+[Data](articles/8b7c4458.json)
+
+---
+
 ### King Chipto
 
 *2024-03-28 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195051) · `si`
@@ -551,6 +763,38 @@ More than 600 koda and the equipment for leakage have been recovered by the poli
 [Data](articles/6c05e7f3.json)
 
 [Extended Data](ext_articles/6c05e7f3.ext.json)
+
+---
+
+### Profit-takings slow CSE’s initial bull-run
+
+*2024-03-28 21:32:00* · [`islandlk`](http://island.lk/profit-takings-slow-cses-initial-bull-run/) · `en`
+
+The Colombo stock market kicked off on a bullish note yesterday but later slowed down somewhat due to profit takings in certain counters.However, the market was also in a mood of optimism due to positive reactions by the Chinese government to Sri Lanka’s debt restructuring exercise, analysts said.
+
+Consequently, both indices moved in positive directions. The All Share Price Index closed up 0.09 percent, or 9.89 points, at 11,444; while the S&P SL20 Index closed up 0.53 percent, or 17.35 points, at 3,317.
+
+Turnover was Rs. 2.9 billion. 1.3 billion of this came from trades in the banking sector. Nine crossings were note during the day.Hatton National Bank saw the most active volumes traded during the day (411mn) and the shares closed up at Rs. 180.00.
+
+National Development Bank followed with Rs. 238mn in turnover; shares closed up at Rs. 68.00.Sampath Bank also saw high turnover (230mn), and the share closed up at Rs. 80.00.
+
+...
+
+[Data](articles/749f9b29.json)
+
+---
+
+### World’s first successful conversion of Hummer EV SUV to right-hand drive by a team of Sri Lankans at Global Conversions
+
+*2024-03-28 21:30:00* · [`islandlk`](http://island.lk/worlds-first-successful-conversion-of-hummer-ev-suv-to-right-hand-drive-by-a-team-of-sri-lankans-at-global-conversions/) · `en`
+
+Global Conversions, a leading Sri Lankan-owned company specializing in automobile re-engineering, has achieved a remarkable milestone in the automotive industry with successful conversion of the world’s first Hummer EV SUV to right-hand drive. This groundbreaking achievement exemplifies Global Conversions’ commitment to innovation and excellence in the field of vehicle conversions.
+
+Global Conversions has been at the forefront of automobile re-engineering, specializing in converting American left-hand drive vehicles such as GMC, Ford, Lincoln, Dodge, Chevrolet, Cadillac, as well as North American Toyota and Nissan, to right-hand drive. The successful conversion of the Hummer EV SUV adds to their list of prestigious achievements.
+
+...
+
+[Data](articles/afaadffd.json)
 
 ---
 
@@ -1983,353 +2227,5 @@ However, he said that two years ago was suspended and suspected that the tooth w
 [Data](articles/914f87bf.json)
 
 [Extended Data](ext_articles/914f87bf.ext.json)
-
----
-
-### Sri Lanka confident of meeting conditions for IMF funding soon - report
-
-*2024-03-28 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98261/sri-lanka-confident-of-meeting-conditions-for-imf-funding-soon-report) · `en`
-
-(Bloomberg) -- Sri Lanka is hopeful it can resolve debt restructuring issues in the second quarter so it can get financing from the International Monetary Fund because external creditors are all engaging “positively,” according to the South Asian nation’s junior finance minister.
-
-“We are looking forward to a positive outcome” of discussions taking place in London with Sri Lanka’s bondholders, Shehan Semasinghe said Thursday on the sidelines of the Boao Forum in the southern Chinese province of Hainan. “Unlocking access to the tranche is very important to Sri Lanka,” he added.
-
-Semasinghe also said Chinese leader Xi Jinping pledged during “very productive bilateral discussion” this week with Prime Minister Dinesh Gunawardena in Beijing to reinforce links between Sri Lankan authorities and Export Import Bank of China and China Development Bank.
-
-...
-
-[Data](articles/3d1a6f6a.json)
-
-[Extended Data](ext_articles/3d1a6f6a.ext.json)
-
----
-
-### ’Ibba’ hacked to death
-
-*2024-03-28 14:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ibba-hacked-to-death/108-279775) · `en`
-
-A 32 year old man of the Fisheries Village in Lunugamvehera was hacked to death during the early hours of this morning.
-
-Police said the victim Kelum Thushara alias “Ibba” had received serious cut injuries and one of his upper limbs had been severed from his body. They believe that a previous animosity between two parties would have resuled in the killing.
-
-The Thissamaharama magistrate who visited the scene and held the preliminary magesterial inquiry ordered police to refer the body to  the JMO for a postmortem examination.
-
-Lunugamvehera police are conducting further investigations on the instructions of SSP Tangalle Division K.B. Kirthiratna.
-
-◼️
-
-[Data](articles/ca2a0012.json)
-
-[Extended Data](ext_articles/ca2a0012.ext.json)
-
----
-
-### Coconut milk exports earn Rs. 2,971 million in February
-
-*2024-03-28 14:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Coconut-milk-exports-earn-Rs-2-971-million-in-February/108-279773) · `en`
-
-Colombo, Matrch 28 (Daily Mirror) - The Coconut Development Authority (CDA) today said that a total of Rs. 2,971 million was earned in the month of February 2024 by exporting coconut milk.
-
-They said in 2023, when coconut milk was exported, 4,366 metric tons were exported in February and an income of Rs. 2,401 million was earned.
-
-According to the report on exports issued by the Central Bank of Sri Lanka on a monthly basis, the income earned by exporting 6,739 metric tons of coconut milk in February 2024 is Rs. 2,971 million.
-
-In terms of the amount of coconut milk exported, it increased by 2,373 metric tons in February 2024 compared to 2023, and the income from exports has also increased by Rs. 570 million.
-
-The coconut yield also increased due to the rain that followed a prolonged drought last year. Also, from last November until now, coconut production has shown high growth every month.
-
-...
-
-[Data](articles/e0324433.json)
-
-[Extended Data](ext_articles/e0324433.ext.json)
-
----
-
-### Keheliya brought to court
-
-*2024-03-28 14:14:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றத்துக்கு-அழைத்து-வரப்பட்ட-கெஹலிய/175-335310) · `ta`
-
-Keheliya Rambukwella, a former minister, was interrogated and brought to court today.
-
-🟩
-
-Former Minister Keheliya Rambukwella, who has been interrogated, has been produced before the Magistrate's Court today (28).
-
-◼️
-
-[Data](articles/fe54eec5.json)
-
-[Extended Data](ext_articles/fe54eec5.ext.json)
-
----
-
-### Keheliya takes to court
-
-*2024-03-28 14:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195029) · `si`
-
-Keheliya Rambukwella, former Minister, is in court today.
-
-🟩
-
-Former Minister Keheliya Rambukwella has been produced before the Maligakanda Magistrate today (28).
-
-◼️
-
-[Data](articles/84caa6fa.json)
-
-[Extended Data](ext_articles/84caa6fa.ext.json)
-
----
-
-### The man who burned the Quran in Sweden tried to demand asylum in Norway
-
-*2024-03-28 14:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/179895) · `ta`
-
-Iraqi Salwan Momika, who burned the Quran in Sweden, sought asylum in Norway after being deported to Iraq. His residency permit was canceled in October, leading to a temporary postponement of deportation due to safety concerns. Momika's new temporary license expires on April 16, and he plans to seek asylum in Norway.
-
-🟩
-
-A person who burned the Holy Quran in Sweden and tried to seek asylum in Norway as it was deported to Iraq.
-
-The Iraqi Salwan Momika, a native of 2021, was a resident of Sweden in 2021.
-
-In the last several years, he has caused controversy over the Quran several times.
-
-Her residency permit was canceled last October. Sweden officials said that this was the reason for the false information in the application for the residency permit request.
-
-However, deportation was temporarily postponed after Momika reported that her life was in danger in Iraq.
-
-The new temporary license issued to him will be a deadline on April 16.
-
-In this case, Momika told a Swedish media that she would seek asylum in Norway.
-
-◼️
-
-[Data](articles/609ce107.json)
-
-[Extended Data](ext_articles/609ce107.ext.json)
-
----
-
-### Biku arrested with woman
-
-*2024-03-28 13:58:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பெண்ணுடன்-இருந்த-பிக்கு-கைது/76-335309) · `ta`
-
-Biku, 45, and a woman, 40, from Boralanda, arrested by Pikuwe Diyathalawa police for investigation.
-
-🟩
-
-Pikuwe Diyathalawa police team, who was with a woman at a hostel in Diyathalawa, has been arrested for investigation.
-
-The 45 -year -old is a 45 -year -old woman from a stranger in Boralanda area and the woman is a forty -year -old woman living in the same area.
-
-The two have been arrested and the two have been arrested following confidential information that a woman had come to the hostel with an alternative name.
-
-◼️
-
-[Data](articles/85bda456.json)
-
-[Extended Data](ext_articles/85bda456.ext.json)
-
----
-
-### Production of 6 lakhs of chicken eggs per month
-
-*2024-03-28 13:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/179898) · `ta`
-
-The country produces 6 lakh chicken eggs monthly, with prices expected to remain stable until December. Despite a 2022 downturn, recovery is underway, with egg production increasing to 6 lakh per month. The price of eggs could drop to 30 rupees, potentially harming the industry. The government has been asked to investigate egg exports. Poultry fodder prices have fallen to 180 rupees, benefiting farmers. If egg prices drop to 35 rupees, small and medium manufacturers may struggle. More chickens are being imported, leading to an increase in eggs and chicks by early 2025.
-
-🟩
-
-6 lakh chicken eggs are being produced per month in the country. The price of eggs will not be increased till December, said Ratnasree Alagoon, Secretary of the All Ceylon Egg Manufacturers Association.
-
-Despite the fall in 2022, the country is now recovering from the late 2023 and the increase in egg production to 6 lakhs per month.
-
-In fact, the price of eggs can be reduced to 30 rupees. This can cause a massive decline in our industry.
-
-"We have requested the government to investigate the export of eggs to the lunch plan and export the eggs."
-
-Meanwhile, the price of poultry fodder has fallen to 180 rupees, said RM Sarath Ratnayake, president of the All Ceylon Egg Manufacturers Association.
-
-The price of a kilo of poultry, which was sold for 240 rupees in 2022, has now fallen to 180 rupees. Therefore, if the farmers get 40 rupees, we can continue this business.
-
-Small and medium egg manufacturers face severe difficulties if the price of eggs falls to Rs 35.
-
-...
-
-[Data](articles/09583173.json)
-
-[Extended Data](ext_articles/09583173.ext.json)
-
----
-
-### Bribery Commission sues Cabraal
-
-*2024-03-28 13:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195027) · `si`
-
-The Bribery Commission sues former Central Bank Governor Ajith Nivard Cabraal for alleged bribery or corruption related to the purchase of Greek government bonds in 2012, following a complaint by former MP Zeji Senasinghe.
-
-🟩
-
-Former Central Bank Governor Ajith Normad Cabraal, former Central Bank Governor Ajith Nivard Cabraal, has filed a case against five persons including the Greek government bonds issued by the Greek government in 2012.
-
-The prosecution had been carried out following the investigation of bribery or corruption in connection with the complaint lodged by former MP Zeji Senasinghe.
-
-The complaint was made by the government to purchase Treasury Bonds issued by the Government of the Government of Greece when Greece was in a heavy economic crisis.
-
-Investigations carried out regarding the complaint, the Bribery Commission said that the former Central Bank Governor Ajith Nivard Cabraal was filed against the Colombo High Court against five persons.
-
-◼️
-
-[Data](articles/72041f8c.json)
-
-[Extended Data](ext_articles/72041f8c.ext.json)
-
----
-
-### Sischey arrested for 7 pmers
-
-*2024-03-28 13:41:32* · [`adalk`](https://www.ada.lk/breaking_news/දින-7ට-පාතාල-සාමාජිකයන්-35-ක්--සිසිඩි-අත්අඩංගුවේ/11-408840) · `si`
-
-The Colombo Crimes Division arrested 35 large organizational criminals, including powerful drug dealers, in a special operation. Sharp weapons were seized. Inspector of the Organized Criminal Investigation Division led the operation, focusing on criminal gangs.
-
-🟩
-
-The Colombo Crimes Division (CID) says that 35 large organizational criminals have been arrested in the special operation of organized criminal criminal criminal criminal criminal criminal criminals.
-
-Sharp weapons with those criminals have been taken into custody.
-
-Police say that the suspects are organized criminal and powerful drug dealers, Dematagoda Chaminda and Poulthakara and Poulthakara.
-
-Acting October Assistant Investigation Ass Inspector of the Organized Criminal Investigation Division of the Colombo Crimes Division has been deployed for five groups of criminal gangs.Said an officer
-
-Long investigations are carried out to arrest the other underworld activists by detaining several suspects with detaining suspects and interrogated
-
-◼️
-
-[Data](articles/e6af0c00.json)
-
-[Extended Data](ext_articles/e6af0c00.ext.json)
-
----
-
-### Nearly 100 people still missing after Moscow attack, Russian news site says
-
-*2024-03-28 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98260/nearly-100-people-still-missing-after-moscow-attack-russian-news-site-says) · `en`
-
-As many as 95 people are still missing after last week’s attack near Moscow when gunmen sprayed concertgoers with automatic weapons and set the venue on fire, a Russian news outlet reported on Wednesday.
-
-The official toll from the attack on Crocus City Hall now stands at 140 dead and 182 wounded. But the Baza news service, which has good contacts in Russian security and law enforcement, said 95 more people appeared in lists compiled by the emergency services based on appeals from people about missing relatives.
-
-“These lists include people with whom relatives have not been able to get in touch since the terrorist attack, but who are not on the lists of wounded and dead,” Baza said. “Some of these people died, but have not yet been identified.”
-
-Russian investigators said the attack was carried out by four shooters using Kalashnikov automatic weapons. More than 500 rounds were found at the scene.
-
-...
-
-[Data](articles/eef1e0c1.json)
-
-[Extended Data](ext_articles/eef1e0c1.ext.json)
-
----
-
-### T56 is not light in the attack, arising at home
-
-*2024-03-28 13:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195026) · `si`
-
-In Mahabage, a man was shot dead by a T-56 rifle, but the shooter's magazine fell, leading to a struggle. The victim was taken to Ragama Teaching Hospital.
-
-🟩
-
-An attempt to shoot a man shot dead in Mahabage's Maturagala has been futile.
-
-The firearm that brought the crime was not implemented.
-
-Two persons were present at a motorbike to a house in Mahabage, Mahabage, around 7.45 am today.
-
-The police said that a person from the motorcycl had attempted shooting from a T-56 rifle.
-
-But at that time the magazine section of the firearm has escaped and fell to the ground.
-
-At the time, the householder was struggled with the shooter, and the Wedak had emerged on the motorcycle and abandoned his helmet and firearm magazine.
-
-The victim was admitted to the Ragama Teaching Hospital for treatment.
-
-◼️
-
-[Data](articles/53caf52b.json)
-
-[Extended Data](ext_articles/53caf52b.ext.json)
-
----
-
-### Earth rotation rate changes
-
-*2024-03-28 13:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195025) · `si`
-
-Due to global warming, Earth's rotation speed is predicted to increase, reducing the day's length. This change, though minimal, could impact computers.
-
-🟩
-
-The polar iceberg is in a speed of polar ice, with global warming.
-
-It is reported that the earth's rotational speed will increase due to the melting of solid ice.
-
-Accordingly, scientists are already predicting that the Earth's time is reduced per day every day.
-
-It is their opinion that even though it is only a second period of time, it will be more impact on computers.
-
-◼️
-
-[Data](articles/8080d3d4.json)
-
-[Extended Data](ext_articles/8080d3d4.ext.json)
-
----
-
-### President promises to improve football infrastructure in Sri Lanka
-
-*2024-03-28 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98258/president-promises-to-improve-football-infrastructure-in-sri-lanka) · `en`
-
-President Ranil Wickremesinghe has met with the Sri Lankan national football team at the Presidential Secretariat and commended the efforts in their recent triumph over Bhutan, marking the first win in a decade.
-
-The President expressed his support for the football team’s aspiration to claim the South Asian Championship (SAFF) next year, pledging his commitment to advancing football infrastructure in the near future.
-
-Popularity of football has surged in Sri Lanka in recent months, with the Football Federation of Sri Lanka (FFSL) assembling a formidable national team comprising talented players of Sri Lankan descent from various professional leagues worldwide. Sri Lanka’s national team secured victory against Bhutan in the recently concluded FIFA Series 2024.
-
-During the visit, FFSL President Jaswar Umar, Head Coach Andy Morrison, and the entire national team had the opportunity to meet with the President and pose for photographs.
-
-...
-
-[Data](articles/854079da.json)
-
-[Extended Data](ext_articles/854079da.ext.json)
-
----
-
-### Sri Lanka to import onions from China after India export ban: Minister
-
-*2024-03-28 12:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-import-onions-from-china-after-india-export-ban-minister-156443/) · `en`
-
-ECONOMYNEXT – Sri Lanka will import onions from China after an export ban by India and Pakistan pushed up domestic prices, Trade Minister Nalin Fernando said.
-
-“Big onions, there is a shortage in India and Pakistan,” Fernando said. “Now we are importing from China.”
-
-Fernando had previously said that a variety called Rose Onion will be imported instead of big onions due to rising onion prices.
-
-Sri Lanka grows onions under import tax protection and domestic production is seasonal and imports supplement demand.
-
-3,500 hectares of onions were planted in the 2023 yala season, but crops were destroyed by unusually heavy rains before harvesting, the Department of Agriculture said.
-
-Demand remains high ahead of several religious and cultural festivals.
-
-However, the Department of Agriculture said that 75,000 kilos of big onion bulbs were vernalized for planting in the 2024 yala season.
-
-...
-
-[Data](articles/21c54179.json)
-
-[Extended Data](ext_articles/21c54179.ext.json)
 
 ---

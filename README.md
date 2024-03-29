@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 01:03:02**
+As of **2024-03-30 01:18:04**
 
 ## Newspaper Stats
 
-*Scraped **15,972** Articles*
+*Scraped **15,974** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adalk | 1,342
 tamilmirrorlk | 1,909
 adaderanalk | 1,922
 virakesarilk | 2,269
-dailymirrorlk | 2,468
+dailymirrorlk | 2,470
 adaderanasinhalalk | 2,570
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,972 (100.0%) of 15,972 articles have been extended.
+15,972 (100.0%) of 15,974 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### How LTTE’s ‘Good Friday’ attack crushed Karuna’s  Eastern revolt
+
+*2024-03-30 00:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/How-LTTEs-Good-Friday-attack-crushed-Karunas-Eastern-revolt/172-279869) · `en`
+
+Karuna had other troubles facing him on the military front. Of the 5,700  cadres in the East, around 2,000 were young and inexperienced. The  greater part of them were recruited or conscripted after the ceasefire  and had not seen battle.
+
+The LTTE was split vertically and horizontally as a result and gradually weakened. By 2007 the LTTE ceased  having territorial control in the Eastern province
+
+As stated in the previous articles, Karuna  after the split had concentrated the bulk of his forces in the Koralaipattru division of north Batticaloa. He expected an invasion across the Verugal River, which demarcates the border between the Batticaloa and Trincomalee districts. Karuna set up lines of defence to the south of the river
+
+...
+
+[Data](articles/34100edd.json)
+
+---
+
+### Electoral reforms while elections are  on doorstep
+
+*2024-03-30 00:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Electoral-reforms-while-elections-are-on-doorstep/172-279868) · `en`
+
+The Cabinet on March 18 approved a proposal to reform the electoral system that will see a hybrid system for parliamentary representation where 160 members would be appointed by the First Past-The-Post system while 65 members would be elected under the Proportional Representation (PR) system.
+
+A statement issued by the Government Information Department said that the proposal made by the Minister of Justice, Prison Affairs and Constitutional Reforms to instruct the Legal Draftsman to draft legislation to amend the electoral system was approved by the Cabinet.
+
+Interestingly, the statement claims that “it has been found necessary to change the existing electoral system to achieve the objectives of the Regulations of Election Expenditure Act No. 3 of 2023...” whereas the hybrid or mixed electoral system of First-Past-the-Post system (FPP) and the Proportional Representation (PR) system had been recommended by three Parliamentary Select Committees (PSCs) since 2001.
+
+...
+
+[Data](articles/255d2139.json)
+
+---
 
 ### Hypocrisy, double standards and Lanka’s burgeoning spa industry
 
@@ -2259,55 +2291,5 @@ However, the Railway Department further stated that the train service will retur
 [Data](articles/c996bf5a.json)
 
 [Extended Data](ext_articles/c996bf5a.ext.json)
-
----
-
-### The train delayed from today to tomorrow
-
-*2024-03-29 10:46:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-நாளை-வரை-ரயில்-தாமதம்/175-335339) · `ta`
-
-Train service between Wellawatte and Fort delayed from today to tomorrow due to pipe maintenance. Service limited to a single rail. Normal service expected after next Sunday night.
-
-🟩
-
-The Railway Department said that there would be some delay in running trains on the coastal road from today (29) to the next day (31).
-
-The department said that the train service between Wellawatte and the Fort has been limited to a rails.
-
-The action has been taken by the Urban Development Authority due to the maintenance of a pipe between Wellawatte and Bambalapitiya railway stations.
-
-However, the Railway Department further stated that the train service will return to normal after next Sunday night.
-
-◼️
-
-[Data](articles/cdba0c8a.json)
-
-[Extended Data](ext_articles/cdba0c8a.ext.json)
-
----
-
-### Girl, 8, only survivor as 45 killed in bus crash in South Africa
-
-*2024-03-29 10:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Girl-8-only-survivor-as-45-killed-in-bus-crash-in-South-Africa/108-279822) · `en`
-
-South Africa, March 29 (BBC) - Forty-five people have died in South Africa after the bus they were in plunged some 50m (165ft) off a bridge into a ravine, authorities say.
-
-An eight-year-old girl, the only survivor, was taken to hospital with serious injuries.
-
-The bus crashed through a barrier and caught fire when it hit the ground in the north-eastern Limpopo province.
-
-The passengers were pilgrims travelling from Botswana's capital Gaborone to an Easter service in the town of Moria.
-
-The vehicle lost control and went off a bridge on the Mmamatlakala mountain pass between Mokopane and Marken, around 300km (190 miles) north of Johannesburg, according to South African public broadcaster SABC.
-
-Rescue operations went on late into Thursday evening, with some of those killed reportedly hard to reach amid the debris.
-
-Transport Minister Sindisiwe Chikunga, who went to the scene of the incident, extended her "heartfelt condolences to the families affected by the tragic bus crash".
-
-...
-
-[Data](articles/51bf2d84.json)
-
-[Extended Data](ext_articles/51bf2d84.ext.json)
 
 ---

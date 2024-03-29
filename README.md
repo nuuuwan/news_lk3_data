@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 17:03:32**
+As of **2024-03-29 17:18:12**
 
 ## Newspaper Stats
 
-*Scraped **15,929** Articles*
+*Scraped **15,932** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,62 @@ bbccomsinhala | 170
 dbsjeyarajcom | 197
 newsfirstlk | 363
 dailyftlk | 862
-economynextcom | 876
+economynextcom | 877
 islandlk | 879
 adalk | 1,342
 tamilmirrorlk | 1,905
 adaderanalk | 1,914
 virakesarilk | 2,259
-dailymirrorlk | 2,457
-adaderanasinhalalk | 2,563
+dailymirrorlk | 2,458
+adaderanasinhalalk | 2,564
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,927 (100.0%) of 15,929 articles have been extended.
+15,929 (100.0%) of 15,932 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### Two prisoners escape from Anuradhapura open prison
+
+*2024-03-29 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-prisoners-escape-from-Anuradhapura-open-prison/108-279835) · `en`
+
+Anuradhapura, march 29 (daily Mirror)- Two inmates detained in the Anuradhapura open prison escaped this afternoon, sources said.
+
+One of them is from Shravastipura and the other from the Kelaniya area. They had been detailed to work in the public canteen at Jayanthi Mawatha in the open prison camp.
+
+However, they had changed their clothes and fled from the prison camp.
+
+Anuradhapura police and the prison officials have initiated investigations to track down the two prison escapees.
+
+◼️
+
+[Data](articles/8f6ced37.json)
+
+---
+
+### ඥානසාර හිමි බන්ධනාගාර රෝහලට
+
+*2024-03-29 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195078) · `si`
+
+වසර 4ක බරපතළ වැඩසහිත සිරදඬුවම් නියම වී බන්ධනාගාරගත කර සිටින පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන් අසනීප තත්ත්වයක් හේතුවෙන් බන්ධනාගාර රෝහල වෙත ඇතුළත් කර ඇතැයි වාර්තා වේ.
+
+ඥානසාර හිමිගේ සුවදුක් බැලීමට පැමිණි රාවණා බලය සංවිධානයේ මහලේකම් පූජ්‍ය ඉත්තෑකන්දේ සද්ධාතිස්ස හිමි මේ බව පැවසූහ.
+
+ඥානසාර හිමියන් මීට පෙර සිටම අසනීප තත්ත්වයෙන් පසුවු බවත්, එම තත්ත්වයට ප්‍රතිකාර ගැනීම සඳහා බන්ධනාගාර රෝහල වෙත යොමු කර ඇති බවත් සද්ධාතිස්ස හිමියන් සඳහන් කළේය.
+
+මේ අතර, පූජ්‍ය ගලගොඩඅත්තේ ඥානසාර හිමියන්ට කොළඹ මහාධිකරණය ලබාදුන් දඬුවමට එරෙහිව අභියාචනයක් ඉදිරිපත් කළ බව ද සද්ධාතිස්ස හිමියන් පැවසීය.
+
+"උන්වහන්සේ ඇත්තටම අපිට වැරදි නෑ. නමුත් අපි දන්නේ නෑ සමාජයට කොහොමද කියලා. අපි නීතියට ගරු කරන නිසා නීතියෙන් දෙන ඕනෑම දෙයක් අපි භාරගන්නවා."
+
+◼️
+
+[Data](articles/160bb8b0.json)
+
+---
 
 ### Sri Lankan delegation attends Assembly of Inter-Parliamentary Union in Geneva
 
@@ -46,29 +84,37 @@ Addressing the General Debate under the theme “Parliamentary diplomacy: Buildi
 
 [Data](articles/5a1963de.json)
 
+[Extended Data](ext_articles/5a1963de.ext.json)
+
 ---
 
-### රුසියාවෙන් දැඩි ප්‍රතිචාර
+### Intense responses from Russia
 
 *2024-03-29 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195077) · `si`
 
-රුසියාවේ මොස්කව් නුවර ක්‍රෝකස් නගර ශාලාවට එල්ලකළ ත්‍රස්ත ප්‍රහාරය සම්බන්ධයෙන් තවත් පිරිසක් අත්අඩංගුවට ගැනීමට තජිකිස්තානය කටයුතු කර තිබේ.
+Russia arrests 143+ in terrorist attack on Moscow, involving IIQ Organization. Four arrested in Crocas town.
 
-ජාත්‍යන්තර මාධ්‍ය සඳහන් කළේ එරට ජාතික ආරක්ෂක කමිටුව විසින් එම ප්‍රහාරයට සම්බන්ධ බවට සැකකෙරෙන 9 දෙනෙක්ව අත්අඩංගුවට ගෙන ඇති බවයි.
+🟩
 
-එම පුද්ගලයින් අයි එස් අයි එස් සංවිධානය ට සම්බන්ධ බවට ද සැක කෙරෙයි.
+Tjikizan has arrest others regarding the terrorist attack on the Moscow in Moscow, Russia.
 
-තජිකිස්තානයේ වක්දාත් නම් නගරයේදී ඔවුන් ව අත්අඩංගුවට ගෙන ඇති අතර එම සැකකරුවන්ව එරට අගනුවර වන දුෂාන්බේ වෙත රැගෙනවිත් තිබේ.
+The International Media was arrested by the National Security Committee of the National Security Committee.
 
-පසුගිය සිකුරාදා සවස එල්ලකළ ප්‍රහාරයෙන් මේ වනවිට 143 දෙනෙක් පමණ මියගොස් ඇති අතර තවත් පිරිසක් තවමත් අතුරුදන් ය.
+Those people are also involved in the IIQ Organization.
 
-ක්‍රෝකස් නගර ශාලාවට එල්ලකළ ත්‍රස්ත ප්‍රහාරය සම්බන්ධයෙන් සිව් දෙනෙක් ඉරිදා අත්අඩංගුවට ගත් අතර ඔවුන් වෙඩික්කරුවන් බව රුසියාව පැවසීය.
+They were arrested in Vakadu, Vajikistan, Ven.
 
-මෙම ප්‍රහාරට සම්බන්ධ සියලුදෙනාට දඬුවම් ලබාදෙන බව පවසන රුසියානු බලධාරීන් තවත් සැකකරුවන් සොයා පරීක්ෂණ පුළුල් කර තිබේ.
+About 143 people were killed in the attack on Friday evening.
+
+Four Sunday was arrested on the terrorist attack on Crocas town and the terrorists, Russia said that they were shooters.
+
+The Russian authorities who claim to be punished for all attacks have been expanded into other suspects.
 
 ◼️
 
 [Data](articles/f6084891.json)
+
+[Extended Data](ext_articles/f6084891.ext.json)
 
 ---
 
@@ -120,6 +166,24 @@ Hardik Pandya received a hostile reception from the crowd in Ahmedabad and Hyder
 
 ---
 
+### Sri Lanka president must priortise debt restructuring, stability over Rajpaksas: Patali
+
+*2024-03-29 16:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-must-priortise-debt-restructuring-stability-over-rajpaksas-patali-156581/) · `en`
+
+ECONOMYNEXT — President Ranil Wickremesinghe must decide between sending the Rajapaksas back to parliament and restructuring debt by June to stabilise the country for the next decade, opposition MP Patali Champika Ranawaka said.
+
+Speaking to reporters, Ranawaka said Basil Rajapaksa, the ideologue of the ruling Sri Lanka Podujana Peramuna (SLPP), is well aware that his party cannot come into power through the presidential due to be held between September 17 and October 17 this year.
+
+“Basil knows the Rajapaksas can’t come into power again through this election, so he’s trying to see if they can somehow hold a general election before that and enter parliament,” said Ranawaka.
+
+“The president must decide what’s important, whether to send five Rajapaksas to parliament or to speak to our creditors and restructure our external debt by June and stabilise the country for the next decade,” he said.
+
+...
+
+[Data](articles/b83619d0.json)
+
+---
+
 ### Foreigner injured after falling down precipice while climbing Sri Pada
 
 *2024-03-29 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98290/foreigner-injured-after-falling-down-precipice-while-climbing-sri-pada) · `en`
@@ -152,7 +216,7 @@ ECONOMYNEXT – Sri Lanka’s Cinnamon Grand Colombo is introducing curated eco 
 
 “The more discerning traveler is looking for these niche-experiences and they are willing to pay an additional amount for this,” Area Vice President and General Manager of Cinnamon Grand Colombo, Kamal Munasinghe told EconomyNext.
 
-Cinnamon Nature Trails’ Colombo edition promises to provide unique insights into Colombo’s ecological wonders and  consists of urban eco-tourism ventures such as birdwatching in the Diyawanna wetlands, volunteering at the zoo, looking for rare and valuable flora, exploring religious sites, and street photography, and is currently available for in-house guests of Cinnamon Hotels.
+Cinnamon Nature Trails’ Colombo edition promises to provide unique insights into Colombo’s ecological wonders and consists of urban eco-tourism ventures such as birdwatching in the Diyawanna wetlands, volunteering at the zoo, looking for rare and valuable flora, exploring religious sites, and street photography, and is currently available for in-house guests of Cinnamon Hotels.
 
 ...
 
@@ -2187,79 +2251,5 @@ This rating reflects Abans strong financial position and underscores Abans’ ro
 [Data](articles/1b4a503a.json)
 
 [Extended Data](ext_articles/1b4a503a.ext.json)
-
----
-
-### Catholic Bishops Conference calls for governance reform in Easter Message
-
-*2024-03-29 05:16:51* · [`dailyftlk`](https://www.ft.lk/news/Catholic-Bishops-Conference-calls-for-governance-reform-in-Easter-Message/56-760093) · `en`
-
-Notes Easter is being celebrated during a period of severe turmoil
-
-Emphasises urgency of reforming SL’s governance to alleviate suffering of its people
-
-Urges authorities to deliver justice to Easter Sunday terror attack victims
-
-The Catholic Bishops Conference in its Easter message has called for a change in Sri Lanka’s governing system to address the many social, economic, and political crises gripping the nation.
-
-The message noted that Easter is being celebrated during a period of severe turmoil and emphasised the urgency of reforming the country’s governance to alleviate the suffering of its people. They urged all citizens to unite in pursuit of this change.
-
-“It is essential to bring in a major change to the country’s governing system to ease the people’s suffering. It is the responsibility of all citizens to work towards bringing this change,” the message said.
-
-...
-
-[Data](articles/ebe541f5.json)
-
-[Extended Data](ext_articles/ebe541f5.ext.json)
-
----
-
-### International reporting portal debuts in SL to combat online violence against children
-
-*2024-03-29 05:16:16* · [`dailyftlk`](https://www.ft.lk/news/International-reporting-portal-debuts-in-SL-to-combat-online-violence-against-children/56-760092) · `en`
-
-The International Reporting Portal for Child Sexual Abuse Material (CSAM) for Sri Lanka was officially launched by President Ranil Wickremesinghe yesterday alongside the National Child Protection Authority (NCPA), Internet Watch Foundation (IWF), Save the Children and ChildFund Sri Lanka.
-
-Online violence against children in Sri Lanka has soared over the past decade, with recent research by Save the Children indicating that 3 out of 10 children who are internet users in urban and semi urban areas in Sri Lanka are being victimized by online perpetrators.
-
-The NCPA has been actively combating online violence against children, noting growing trends of illegal activities against children online such as luring children for sexual abuse, sexual harassment, sexual exploitation, sextortion, and threats leading to blackmail.
-
-...
-
-[Data](articles/ba3ebbaa.json)
-
-[Extended Data](ext_articles/ba3ebbaa.ext.json)
-
----
-
-### How I Write I write: Aruna Premaratne
-
-*2024-03-29 05:16:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn0dpz1x39ro) · `si`
-
-Aruna Premaratne, a renowned Sinhala writer, shares his writing process, emphasizing the importance of mental preparation and interaction with an imaginary reader. He discusses the gap between his mental creation and the final novel, highlighting the changes and adjustments made to satisfy the reader. Premaratne also reflects on the influence of his work in teledrama and literature, and the satisfaction derived from writing without market constraints.
-
-🟩
-
-Aruna Premaratne is most popular in the 'Flag of Flags' as the writer of Teledrama, but the 'star lifeline' and a three-day story contributed to Sinhala literature.
-
-He cannot also forget that he has played its literature access to its literature as a translator.
-
-I talk to him as a novelist as a noteworthy person with the objective of understanding the emotions and writing he felt as a dominant.
-
-The questions I hear in this discussion is currently published by I have expressed the 'history of Nimna' (2019) and the novels of this secret wind.
-
-It is well known for all writer's writing process.
-
-Where wrote, write and write cups of coffee, which drink, and write, is like writing, when writing, writing, and write.
-
-The conversation is seeking to pointer to that secret site of the newcomers.
-
-The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
-
-...
-
-[Data](articles/1aad4435.json)
-
-[Extended Data](ext_articles/1aad4435.ext.json)
 
 ---

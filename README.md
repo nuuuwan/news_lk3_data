@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 14:33:36**
+As of **2024-03-29 14:51:02**
 
 ## Newspaper Stats
 
-*Scraped **15,905** Articles*
+*Scraped **15,908** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,77 @@ islandlk | 879
 adalk | 1,341
 tamilmirrorlk | 1,905
 adaderanalk | 1,910
-virakesarilk | 2,254
+virakesarilk | 2,255
 dailymirrorlk | 2,451
-adaderanasinhalalk | 2,557
+adaderanasinhalalk | 2,559
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,903 (100.0%) of 15,905 articles have been extended.
+15,905 (100.0%) of 15,908 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### වතුපාසල් සඳහා ගුරු සහායක පත්වීම් 2,535ක්
+
+*2024-03-29 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195072) · `si`
+
+ඉදිරි සති කිහිපය ඇතුළත වතු පාසල් සඳහා ගුරු සහායකින් 2,535ක් සඳහා අයදුම්පත් කැඳවීමට අදාළ ගැසට් නිවේදනය පළ කිරීමට අපේක්ෂා කරන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+
+එළඹෙන මැයි මාසය වන විට ඒ අනුව එම පිරිස බඳවා ගැනීමට සහ මූලික පුහුණුවක් ලබා දී පාසල් වෙත යොමු කිරීමට අපේක්ෂිත බවද තවදුරටත් කරුණු දක්වමින් අමාත්‍යවරයා කියා සිටියේය.
+
+වතු පාසල්වල විශාල ගුරු හිඟයක් තවමත් පවත්නා බවත් අධ්‍යාපන විද්‍යාපීඨවලට පවා සුදුසුකම් සපුරන සිසුන් ඉතා අඩු බවත් උපාධිධාරීන් සිටින්නේද අතලොස්සක් බවත් පෙන්වා දුන් අමාත්‍යවරයා ඒ සඳහා විසඳුම් වශයෙන් දැනට ඌව සහ මධ්‍යම පළාතේ සිටින උපාධිධාරීන් වෙත ගුරු පත්වීම් ලබාදීමට පියවර ගන්නා ලෙස අදාළ පළාත් බලධාරීන්ගෙන් තමා ඉල්ලා සිටි බවද පැවසීය.
+
+ගුරු සේවා ව්‍යවස්ථාව අනුව සුදුසුකම් ඇති ගුරු සහායකයින් පන්සියයක් බඳවා ගැනීමට රාජ්‍ය සේවා කොමිෂන් සභාවෙන් අධ්‍යාපන අමාත්‍යාංශයට අවසර ලබා දී ඇති බවත් ඔවුන් වසර තුනක් ඇතුළත ගුරු මධ්‍යස්ථාන මඟින් ඩිප්ලෝමා මට්ටමින් පුහුණු කර පාසල් වෙත යොමු කිරීමට කටයුතු යොදන බවත් අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+...
+
+[Data](articles/419c7fd5.json)
+
+---
+
+### ‘யுக்திய’ நடவடிக்கை : இதுவரை பாதாள உலக குழுவைச் சேர்ந்த 186 பேர் கைது
+
+*2024-03-29 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/179967) · `ta`
+
+நாடளாவிய ரீதியில் போதைப்பொருள் வர்த்தகர்கள் மற்றும் விநியோகிக்கும் வலையமைப்பை கட்டுப்படுத்தும் நோக்கில், முன்னெடுக்கப்படும் ‘யுக்திய’ விசேட சோதனை சுற்றிவளைப்புகளில் பாதாள உலகக் கும்பலுடன் தொடர்புடைய 186 பேர் கைது செய்யப்பட்டுள்ளனர்.
+
+மார்ச் 19 ஆம் திகதி முதல் 28 அம் திகதி வரை மேற்கொள்ளப்பட்ட விசேட சுற்றிவளைப்பின் போது சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+இந்நிலையில், நேற்றைய தினம் மேற்கொள்ளப்பட்ட சுற்றிவளைப்புகளின் போது பாதாள உலக குழுக்களுடன் தொடர்புடைய 10 சந்தேக நபர்களும், அவர்களுக்கு உதவியதாக சந்தேகிக்கப்படும் 05 நபர்களும் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+இதேவேளை, பாதாள உலக குழுவைச் சேர்ந்தவர்களின் 10 கோடிக்கும் அதிகமான சொத்துகள் பொலிஸ் சட்டவிரோத சொத்துக்கள் விசாரணைப் பிரிவினரால் கைப்பற்றப்பட்டுள்ளன.
+
+சட்டவிரோதமான சொத்துக்களில் 02 இழுவை படகுகள், முச்சக்கர வண்டிகள், மோட்டார் சைக்கிள்கள் மற்றும் காணிகள் உள்ளடங்குவதாக பொலிஸார் தெரிவித்தனர்.
+
+காலி, அம்பலாங்கொட மற்றும் அஹுங்கல்ல ஆகிய இடங்களில் உள்ள பொலிஸ் சட்டவிரோத சொத்துக்கள் விசாரணைப் பிரிவின் அதிகாரிகளினால் இவை கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/8dcefd3f.json)
+
+---
+
+### අනුරාධපුර බන්ධනාගාරයේ සිරකරුවන් දෙදෙනෙකු පළා යයි
+
+*2024-03-29 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195071) · `si`
+
+අනුරාධපුර බන්ධනාගාරයේ එළිමහන් සිරකඳවුරෙහි මහජනතාවට විවෘත කර ඇති ආපනශාලාවේ සේවය කළ සිරකරුවන් දෙදෙනෙකු අද (29) දහවල් එම ස්ථානයෙන් පළා ගොස් තිබේ.
+
+එම එක් සැකකරුවකු අනුරාධපුර ශ්‍රාවස්තිපුර ප්‍රදේශයේ හා අනෙක් සැකකරු කැලණිය ප්‍රදේශයේ පදිංචිකරුවන් බව බන්ධනාගාර ආරංචි මාර්ග පවසයි.
+
+මොවුන් දෙදෙනා පැළඳ සිටි බන්ධනාගාර ඇඳුම් ඉවත් කොට වෙනත් ඇඳුම් ඇදගෙන මෙසේ පළා ගොස් ඇතැයි වාර්තා වේ.
+
+පළා ගිය සිරකරුවන් සොයා අනුරාධපුර බන්ධනාගාර නිලධාරීන් සහ පොලීසිය මෙහෙයුමක් ආරම්භ කර බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/d80d99c0.json)
+
+---
 
 ### The foreigner who was married to Sirippa
 
@@ -73,6 +131,8 @@ In Sri Lanka, despite a hard-won battle for a 25 per cent quota for women at the
 ...
 
 [Data](articles/bdb0f3d4.json)
+
+[Extended Data](ext_articles/bdb0f3d4.ext.json)
 
 ---
 
@@ -185,6 +245,8 @@ Former parliamentarian P Harrison, a spokesman for Wickremesinghe’s United Nat
 ...
 
 [Data](articles/6d44b0bc.json)
+
+[Extended Data](ext_articles/6d44b0bc.ext.json)
 
 ---
 
@@ -2199,73 +2261,5 @@ The Prime Minister called for new initiatives to ensure agricultural growth and 
 [Data](articles/58cc9cef.json)
 
 [Extended Data](ext_articles/58cc9cef.ext.json)
-
----
-
-### New rules for children and women's safety
-
-*2024-03-28 22:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195053) · `si`
-
-President Ranil Wickremesinghe introduced new safety measures for children and women, partnering with the Internet Watch Foundation and the National Child Protection Authority. Reports can be made online, and video evidence is shared with police. A committee has been formed to study child protection, with recommendations for immediate implementation. The President emphasized the need for commitment from all sectors to protect children and women.
-
-🟩
-
-President Ranil Wickremesinghe has been launched by President Ranil Wickremesinghe at the Presidential Secretariat today (28) at the presidency.
-
-Web sites, photos and videos of websites, containing or containing child sexual abuse incidents are being violent in cyber space at present.
-
-The National Child Protection Authority has implemented the program with Internet Watch Foundation - IWF, the ICT, the Financial Sponsorship of the International Sponsorship.
-
-After introducing this online method, anyone can report on to www.childProtection.gov.lk to visit www.CHldProtection.gov.lk and the IWF in coordination of the National Child Protection Authority.Videos are provided to the institutions that appear to the police stations on the Internet and the accurate information on the suspects.
-
-More information on this is available on 011 - 2 77891 long numbers (269) Long Number (269) Long Number (269).
-
-...
-
-[Data](articles/a539014f.json)
-
-[Extended Data](ext_articles/a539014f.ext.json)
-
----
-
-### Sri Lanka calls for debt-restructuring proposals from dealer managers
-
-*2024-03-28 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98273/sri-lanka-calls-for-debt-restructuring-proposals-from-dealer-managers) · `en`
-
-(Reuters) - Sri Lanka has called for proposals from dealer managers to support its restructuring of some $12 billion of international bonds, the Finance Ministry said on Thursday, in a fresh sign that the island nation is closing in on finalizing its debt rework.
-
-Sri Lanka defaulted on its foreign debt in May 2022 as the economy sank into its deepest financial crisis in decades due to a severe shortfall of dollars. The government was expected to start formal restructuring talks with bondholders this week.
-
-“In the context of the restructuring of its International Sovereign Bonds (ISBs), the Government of Sri Lanka is working towards launching an invitation to exchange its existing ISBs denominated in United States Dollars for new ISBs in the same currency,” the notice posted on the Finance Ministry’s website said.
-
-...
-
-[Data](articles/e3baf2e6.json)
-
-[Extended Data](ext_articles/e3baf2e6.ext.json)
-
----
-
-### Fallen ’Crypto King’ Sam Bankman-Fried gets for 25 years for fraud
-
-*2024-03-28 22:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fallen-Crypto-King-Sam-Bankman-Fried-gets-for-25-years-for-fraud/108-279790) · `en`
-
-Sam Bankman-Fried, co-founder of the failed crypto exchange FTX, has been sentenced to 25 years in prison for defrauding customers and investors of his now-bankrupt firm.
-
-The ruling cements the downfall of the former billionaire, who emerged as a high profile champion of crypto before his firm's dramatic collapse in 2022.
-
-The 32-year-old was later found to have stolen billions from customers of the exchange ahead of its implosion.
-
-But he was convicted by a New York jury in November on charges including multiple counts of wire fraud and conspiracy to commit money laundering.
-
-During the sentencing hearing on Thursday, Judge Lewis Kaplan provided a harsh assessment, saying it was clear Bankman-Fried was motivated by a drive to be politically influential.
-
-Despite "protestations of sorrow" about customer losses, Judge Kaplan said, Bankman-Friend had expressed "never a word of remorse for the commission of terrible crimes".
-
-...
-
-[Data](articles/03a05a09.json)
-
-[Extended Data](ext_articles/03a05a09.ext.json)
 
 ---

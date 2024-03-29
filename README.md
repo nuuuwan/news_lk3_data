@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 23:18:03**
+As of **2024-03-29 23:33:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,964 (100.0%) of 15,965 articles have been extended.
+15,965 (100.0%) of 15,965 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ It was emphasised that the city of Shanghai has handled 49.5 million containers 
 ...
 
 [Data](articles/f2c12daa.json)
+
+[Extended Data](ext_articles/f2c12daa.ext.json)
 
 ---
 

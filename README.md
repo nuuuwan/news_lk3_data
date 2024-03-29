@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 19:18:04**
+As of **2024-03-29 19:33:43**
 
 ## Newspaper Stats
 
-*Scraped **15,941** Articles*
+*Scraped **15,943** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 877
 islandlk | 879
 adalk | 1,342
 tamilmirrorlk | 1,907
-adaderanalk | 1,915
+adaderanalk | 1,916
 virakesarilk | 2,263
 dailymirrorlk | 2,459
-adaderanasinhalalk | 2,565
+adaderanasinhalalk | 2,566
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,941 (100.0%) of 15,941 articles have been extended.
+15,941 (100.0%) of 15,943 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### President Ranil advocates for keeping politics and sports separate
+
+*2024-03-29 19:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98293/president-ranil-advocates-for-keeping-politics-and-sports-separate) · `en`
+
+President Ranil Wickremesinghe expressed his aspirations for Sri Lanka to reclaim its position as the champion of cricket, highlighting the government’s commitment to providing all necessary support to achieve this goal.
+
+Speaking at the 125th anniversary celebration of the Sinhalese Sports Club (SSC) at the Shangri-La Hotel Colombo yesterday (28), the President emphasized the importance of maintaining a separation between politics and sports. He suggested that preventing politicians from assuming high positions in sports clubs could contribute to a healthier sporting environment.
+
+During the celebration, a commemorative book documenting the 125-year history of the Sinhalese Sports Club was unveiled, accompanied by the release of a postage stamp and a first-day cover.
+
+...
+
+[Data](articles/9b92c5b9.json)
+
+---
+
+### ශ්‍රී ලංකාව යළිත් ක්‍රිකට් ක්‍රීඩාවෙන් ලොව ප්‍රමුඛයෙකු වනු දැකීම අපේක්ෂාවයි - ජනපති
+
+*2024-03-29 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195080) · `si`
+
+ශ්‍රී ලංකාව යළිත් ක්‍රිකට් ක්‍රීඩාවෙන් ලොව ප්‍රමුඛයෙකු බවට පත්වනු දැකීම තම අපේක්ෂාව බවත් ඒ වෙනුවෙන් රජයෙන් ලබාදිය හැකි සියලු දායකත්වය ලබාදෙන බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+එසේම දේශපාලනය සහ ක්‍රීඩාව වෙන්කර තබා ගැනීමේ වැදගත්කම පෙන්වා දුන් ජනාධිපතිවරයා දේශපාලනඥයන්ට ක්‍රීඩා සමාජවල ඉහළ තනතුරු ලබාදීමෙන් වැළකි සිටිය හැකි නම් එය යහපත් තත්ත්වයක් වනු ඇතැයි තමා විශ්වාස කරන බවද සඳහන් කළේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ඊයේ (28) පස්වරුවේ කොළඹ පැවති සිංහල ක්‍රීඩා සමාජයේ (SSC) 125 වන සංවත්සර සැමරුමට එක් වෙමිනි.
+
+සිංහල ක්‍රීඩා සමාජයේ වසර 125ක ඉතිහාසය සටහන් කෙරුණු සුවිශේෂී ග්‍රන්ථයක් එළිදැක්වීම ද මෙහිදී සිදු කෙරුණු අතර එයට සමගාමීව තැපැල් මුද්දරයක් සහ මුල්දින කවරයක් ද නිකුත් කෙරිණි.
+
+ජාත්‍යන්තර ක්‍රිකට් පිටියේ එදා මෙදාතුර ශ්‍රී ලංකා පිලට නායකත්වය දුන් එස්එස්සී ක්‍රීඩකයන් ඇගයීමට ලක් කිරීම ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අතින් සිදු වූ අතර ජනාධිපතිවරයා ඔවුන් සමඟ සමූහ ඡායාරූපයකටද එක් විය.
+
+මෙම උත්සව සභාව ඇමතූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් මෙසේද පැවසීය,
+
+...
+
+[Data](articles/407b38de.json)
+
+---
 
 ### Jacob suffers to Zumara accident
 
@@ -1320,7 +1358,7 @@ Students who have been affected by the electrical impact have been admitted to t
 
 ---
 
-### Sri Lanka needs to cultivate entreprenurial spirit in schools: Minister
+### Sri Lanka needs to cultivate entrepreneurial spirit in schools: Minister
 
 *2024-03-29 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-to-cultivate-entreprenurial-spirit-in-schools-minister-156538/) · `en`
 
@@ -2273,45 +2311,5 @@ A progress review of the electricity sector reforms was held at the Ministry of 
 [Data](articles/bcfa1dcb.json)
 
 [Extended Data](ext_articles/bcfa1dcb.ext.json)
-
----
-
-### Rise in hand-foot-and-mouth disease among children
-
-*2024-03-29 05:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rise-in-hand-foot-and-mouth-disease-among-children/108-279814) · `en`
-
-Colombo, March 29 (Daily Mirror) - Lady Ridgeway Hospital (LRH) Consultant Pediatrician Dr. Deepal Perera said today that there is an increase in the spread of hand-foot-and-mouth disease (HFMD) among schoolchildren these days.
-
-He said this disease spreads every year, especially between March and April.
-
-If children have symptoms like small, oval, red or white blisters on the palms and soles of the feet, as well as in the mouth, if there is a red skin rash with a brown scale on it, or if the rash appears on the outer arms, then parents should keep in mind not to send their children to schools, daycare centres or public places.
-
-HFMD is most commonly caused by the Coxsackie virus. The main way HFMD spreads is through contact with the fluid from inside the blisters or with the droplets spread from sneezing and coughing.
-
-The virus can also be present in bowel movements (excrement) for up to several weeks after the person has recovered.
-
-...
-
-[Data](articles/8f8ab2d0.json)
-
-[Extended Data](ext_articles/8f8ab2d0.ext.json)
-
----
-
-### No mea culpa
-
-*2024-03-29 05:45:56* · [`dailyftlk`](https://www.ft.lk/columns/No-mea-culpa/4-760104) · `en`
-
-It’s almost comedic in its simple-minded analysis of complicated issues
-
-In the end there was no conspiracy. The book proves once more that GR is a person so naïve and so completely out his depth in either running a country, or writing a book. Alas, it’s the truth though he may have had success as defence secretary once upon a time. There may have been others who may or may not have conspired against him, but certainly it wasn’t a foreign power and the book he trots out to prove otherwise is the greatest testimony underlining the fact that he had to leave because of his own folly, and not due to the machinations of some sinister foreign force. Folly, to be sure, seems to be his calling card
-
-Former President Gotabaya Rajapaksa’s book titled “Conspiracy to oust me from the presidency” does in no way live up to its title. If anyone thinks this is a page turner that gives a blow by blow about how a conspiracy unfolded to destroy his presidency, don’t waste your time or your money on the work.
-
-...
-
-[Data](articles/106b0140.json)
-
-[Extended Data](ext_articles/106b0140.ext.json)
 
 ---

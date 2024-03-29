@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 16:50:08**
+As of **2024-03-29 17:03:32**
 
 ## Newspaper Stats
 
-*Scraped **15,927** Articles*
+*Scraped **15,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 876
 islandlk | 879
 adalk | 1,342
 tamilmirrorlk | 1,905
-adaderanalk | 1,913
+adaderanalk | 1,914
 virakesarilk | 2,259
 dailymirrorlk | 2,457
-adaderanasinhalalk | 2,562
+adaderanasinhalalk | 2,563
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,921 (100.0%) of 15,927 articles have been extended.
+15,927 (100.0%) of 15,929 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### Sri Lankan delegation attends Assembly of Inter-Parliamentary Union in Geneva
+
+*2024-03-29 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98291/sri-lankan-delegation-attends-assembly-of-inter-parliamentary-union-in-geneva-) · `en`
+
+A delegation of the Parliament of Sri Lanka led by the Speaker Mahinda Yapa Abeywardena attended the 148th Assembly of Inter-Parliamentary Union held in Geneva from 23-27 March.
+
+The delegation comprised MPs Ranjith Madduma Bandara, Ashok Abeysinghe, Sumith Udukumbura, Manjula Dissanayake, as well as Secretary General of Parliament Kushani Rohanadeera.
+
+Addressing the General Debate under the theme “Parliamentary diplomacy: Building bridges for peace and understanding” Abeywardena has pointed out that parliamentary diplomacy acts as a bridge between governments and citizens, ensuring that the concerns and perspectives of the people are taken into account in the formulation of foreign policies.
+
+...
+
+[Data](articles/5a1963de.json)
+
+---
+
+### රුසියාවෙන් දැඩි ප්‍රතිචාර
+
+*2024-03-29 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195077) · `si`
+
+රුසියාවේ මොස්කව් නුවර ක්‍රෝකස් නගර ශාලාවට එල්ලකළ ත්‍රස්ත ප්‍රහාරය සම්බන්ධයෙන් තවත් පිරිසක් අත්අඩංගුවට ගැනීමට තජිකිස්තානය කටයුතු කර තිබේ.
+
+ජාත්‍යන්තර මාධ්‍ය සඳහන් කළේ එරට ජාතික ආරක්ෂක කමිටුව විසින් එම ප්‍රහාරයට සම්බන්ධ බවට සැකකෙරෙන 9 දෙනෙක්ව අත්අඩංගුවට ගෙන ඇති බවයි.
+
+එම පුද්ගලයින් අයි එස් අයි එස් සංවිධානය ට සම්බන්ධ බවට ද සැක කෙරෙයි.
+
+තජිකිස්තානයේ වක්දාත් නම් නගරයේදී ඔවුන් ව අත්අඩංගුවට ගෙන ඇති අතර එම සැකකරුවන්ව එරට අගනුවර වන දුෂාන්බේ වෙත රැගෙනවිත් තිබේ.
+
+පසුගිය සිකුරාදා සවස එල්ලකළ ප්‍රහාරයෙන් මේ වනවිට 143 දෙනෙක් පමණ මියගොස් ඇති අතර තවත් පිරිසක් තවමත් අතුරුදන් ය.
+
+ක්‍රෝකස් නගර ශාලාවට එල්ලකළ ත්‍රස්ත ප්‍රහාරය සම්බන්ධයෙන් සිව් දෙනෙක් ඉරිදා අත්අඩංගුවට ගත් අතර ඔවුන් වෙඩික්කරුවන් බව රුසියාව පැවසීය.
+
+මෙම ප්‍රහාරට සම්බන්ධ සියලුදෙනාට දඬුවම් ලබාදෙන බව පවසන රුසියානු බලධාරීන් තවත් සැකකරුවන් සොයා පරීක්ෂණ පුළුල් කර තිබේ.
+
+◼️
+
+[Data](articles/f6084891.json)
+
+---
 
 ### Taliban's control against women
 
@@ -76,6 +116,8 @@ Hardik Pandya received a hostile reception from the crowd in Ahmedabad and Hyder
 
 [Data](articles/f634a540.json)
 
+[Extended Data](ext_articles/f634a540.ext.json)
+
 ---
 
 ### Foreigner injured after falling down precipice while climbing Sri Pada
@@ -116,43 +158,65 @@ Cinnamon Nature Trails’ Colombo edition promises to provide unique insights in
 
 [Data](articles/27012b22.json)
 
+[Extended Data](ext_articles/27012b22.ext.json)
+
 ---
 
-### அநுராதபுரம் திறந்தவெளி சிறைச்சாலையில் இரு கைதிகள் தப்பியோட்டம்
+### Two prisoners escaped at the Anuradhapura Open Prison
 
 *2024-03-29 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179973) · `ta`
 
-அநுராதபுரம்  திறந்தவெளி சிறைச்சாலையில் இருந்த இரு கைதிகள் இன்று வெள்ளிக்கிழமை (29)  தப்பிச் சென்றுள்ளனர்.
+Two prisoners escaped from Anuradhapura Open Prison, one from Sravastipuri and the other from Kelaniya, after changing into civilian clothes. Prison officials and police are searching for them.
 
-இந்த இரு கைதிகளும் பார்வையாளர்களுக்காக திறக்கப்பட்ட சிறைச்சாலை சிற்றூண்டிச்சாலையில் வேலை செய்து வந்துள்ளனர்.
+🟩
 
-இருவரும் தங்களின் சிறைச் சீருடைகளை களைந்துவிட்டு சிவில் உடைகளில் தப்பிச் சென்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+Two prisoners at the Anuradhapura Open Prison escaped today (29).
 
-தப்பிச் சென்ற இருவரையும் கைது செய்ய அநுராதபுரம் பொலிஸாரும் சிறைச்சாலை அதிகாரிகளும் இணைந்து நடவடிக்கை மேற்கொண்டுள்ளனர்.
+The two prisoners have been working at the Prison Cross, which opened for the audience.
 
-தப்பியோடிய கைதிகளில் ஒரு கைதி அநுராதபுரத்திலுள்ள ஸ்ரவஸ்திபுரயைச் சேர்ந்தவர் எனவும் மற்றைய கைதி  களனியையும் சேர்ந்தவர் எனவும் தெரியவந்துள்ளது.
+It is reported that the two have fled their dresses after weeding their uniforms.
+
+Anuradhapura Police and Prison officials have taken action to arrest the two escaped.
+
+One of the prisoners who fled is from Sravastipuri in Anuradhapura and the other prisoner belonged to Kelaniya.
 
 ◼️
 
 [Data](articles/bc911229.json)
 
+[Extended Data](ext_articles/bc911229.ext.json)
+
 ---
 
-### அதிகார பகிர்வினால் மாத்திரமே பொருளாதார வளர்ச்சி சாத்தியம் என்பதை சிங்கள மக்கள் புரிந்துகொள்ளவேண்டும் - அரசியல் செயற்பாட்டாளர் ரஜீவ்காந்
+### Sinhalese people should understand that economic growth is only possible by devolution - political activist Rajiv Khan
 
 *2024-03-29 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179972) · `ta`
 
-அதிகாரபகிர்வு உரிய முறையில் சரியான விதத்தில் இடம்பெற்றால்தான் பொருளாதார வளர்ச்சி சாத்தியம் என்பதை சிங்கள மக்கள் புரிந்துகொள்ளவேண்டும் என அரசியல் செயற்பாட்டாளர் ராஜ்குமார் ரஜீவ்காந்  வேண்டுகோள் விடுத்துள்ளார்.
+Rajiv Khan, a political activist, emphasizes that economic growth in Sri Lanka hinges on proper devolution. He criticizes the lack of recovery from economic setbacks, including the 2022 crisis, and highlights issues like inequality and the marginalization of minority communities.
 
-கொழும்பில் தூய்மையான அரசியல் கலாச்சாரத்தை ஏற்படுத்துவதற்காக மார்ச் 12 இயக்கம் ஏற்பாடு செய்திருந்த தூய்மையான அரசியலுக்காக ஒன்றிணைவோம் என்ற நிகழ்வில் உரையாற்றுகையில் அவர் இதனை தெரிவித்தார்.
+🟩
 
-தூய்மையான ஒரு எதிர்காலத்தினை  தூய்மையான அரசியலிற்கான ஒரு தேவைப்பாட்டினை அரசிடமிருந்து மக்கள் நீண்டகாலமாக  எதிர்பார்க்கின்றனர்.
+Political activist Rajkumar Rajeevkan has appealed to the Sinhalese people to understand that economic growth is possible only if the devolution is done properly.
 
-இலங்கைதொடர்ந்து பல வருடங்களாக பொருளாதார ரீதியில் பின்னடைவுகளை சந்தித்துவந்தாலும் 2022ம் ஆண்டு மிக மோசமான அடியை சந்தித்தது 2022 பொருளாதார பிரச்சினை என்பது வெறுமனே 2022 ம் ஆண்டு வந்தது அல்ல இது மிகநீண்டகாலமாக தீர்க்கவேண்டிய பிரச்சினைகளை தீர்க்காமல் அந்த பிரச்சினைகளை மையமாக வைத்து அதன் ஊடாக அரசியல் இலாபம் தேடிக்கொண்டிருந்தவர்களால் எடுத்துக்கொண்டுவரப்பட்டு பின்னர் அது ஒரு பூகம்பமாக வெடித்தது.
+He said this while addressing the March 12 movement for the pure politics of the March 12 to establish a clean political culture in Colombo.
+
+People from the state have long been looking for a need for a pure future.
+
+Although Sri Lanka has suffered economic setbacks for many years, the worst blow in 2022 was the 2022 economic problem, but it was not simply in 2022.
+
+Even though some say that we have reached the recovery later, we have not reached the real recovery.
+
+With the word equality, we can identify the entire problem of Sri Lanka.
+
+Free education in Sri Lanka will be achieved by a rich student through this free education;There is a huge difference between the character and the manner in which the poor student reaches.
+
+The underlying people face so many difficulties and why they have to face such economic crisis.
 
 ...
 
 [Data](articles/fa9900f3.json)
+
+[Extended Data](ext_articles/fa9900f3.ext.json)
 
 ---
 
@@ -210,21 +274,27 @@ The International Cocoa is predicted by 10.4 percent to 4.45 million tonnes of G
 
 ---
 
-### அம்பாந்தோட்டையில் புதிய சுத்திகரிப்பு நிலையம் சினொபெக் அரசாங்கத்துடன் பேச்சுவார்த்தை
+### The new refinery in Hambantota is negotiating with the government
 
 *2024-03-29 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179970) · `ta`
 
-அம்பாந்தோட்டையில் உத்தேச புதிய சுத்திகரிப்பு நிலையத்தை நிர்மாணிப்பதற்கான பங்குதாரர்களுடனான பேச்சுவார்த்தைகளின் முன்னேற்றம் குறித்து சினொபெக் நிறுவனம் அரசாங்கத்துக்கு விளக்கமளித்துள்ளது.
+Sinobek is negotiating with the government for a new refinery in Hambantota, aiming to double the original proposal's efficiency. They plan to sign contracts and start work by June, discussing water supply, electricity, and land allocation.
 
-சினொபெக் வெளிநாட்டு முதலீட்டு நிறுவவனத்தின் அதிகாரிகளுக்கும், மின்சக்தி மற்றும் வலுசக்தி அமைச்சர் காஞ்சன விஜேசேகரவுக்கும் இடையில் நேற்று வியாழக்கிழமை (18) இடம்பெற்ற சந்திப்பின் போதே இவ்விடயம் தொடர்பில் அவதானம் செலுத்தப்பட்டுள்ளது.
+🟩
 
-சினோபெக்கின் நிர்வாகம் அசல் முன்மொழிவு மற்றும் முதலீட்டில் சுத்திகரிப்பு நிலையத்தின் திறனை இரட்டிப்பாக்க முடிவு செய்துள்ளதாக அதிகாரிகள் இதன் போது சுட்டிக்காட்டியுள்ளனர்.
+Sinobek has explained to the government on the progress of negotiations with shareholders to construct a new refinery in Hambantota.
 
-அவர்கள் திட்டத்துக்கான ஒப்பந்தங்களில் கையெழுத்திட்டு எதிர்வரும் ஜூன் மாதத்துக்குள் பணிகளைத் தொடங்க உள்ளனர். நீர் வழங்கல், மின்சாரம், நில ஒதுக்கீடு உள்ளிட்ட வசதிகள் தொடர்பிலும் இதன் போது கலந்துரையாடப்பட்டுள்ளது.
+The matter was held at a meeting held on Thursday (18) between the officials of the Sinobac Foreign Investment Institute and the Minister of Power and Power and Power Kanjana Wijeshekara on Thursday (18).
+
+Officials pointed out that the administration of Sinobek has decided to double the efficiency of the original proposal and investment.
+
+They will sign the contracts for the project and begin work by June. Discussions have also been discussed on water supply, electricity and land allocation.
 
 ◼️
 
 [Data](articles/c03ebc11.json)
+
+[Extended Data](ext_articles/c03ebc11.ext.json)
 
 ---
 
@@ -241,6 +311,8 @@ Former parliamentarian and NPP executive member Samatnha Vidyaratne told a crowd
 ...
 
 [Data](articles/586a8f40.json)
+
+[Extended Data](ext_articles/586a8f40.ext.json)
 
 ---
 
@@ -2189,45 +2261,5 @@ The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariy
 [Data](articles/1aad4435.json)
 
 [Extended Data](ext_articles/1aad4435.ext.json)
-
----
-
-### Prasanna advocates holding Presidential election over a Parliamentary poll
-
-*2024-03-29 05:14:44* · [`dailyftlk`](https://www.ft.lk/news/Prasanna-advocates-holding-Presidential-election-over-a-Parliamentary-poll/56-760091) · `en`
-
-Chief Government Whip and Urban Development and Housing Minister Prasanna Ranatunga
-
-Cites potential benefits in ensuring a stable Govt. amid challenges
-
-Credits President Ranil Wickremesinghe economic stability, urges continuity under his leadership
-
-Voices his preference for SLPP founder Basil Rajapaksa as National Organiser given his experience, while congratulating Namal Rajapaksa in new post
-
-Hints at Namal Rajapaksa’s potential suitability for Presidential candidacy in future
-
-Chief Government Whip and Urban Development and Housing Minister Prasanna Ranatunga said holding the Presidential election would be more beneficial than a Parliamentary poll, stressing the need for a stable Government to steer Sri Lanka out of its current challenges.
-
-Speaking to journalists at the Sri Lanka Podujana Peramuna (SLPP) office at Nelum Mawatha, Ranatunga highlighted the importance of stability in addressing the country’s economic and political issues.
-
-...
-
-[Data](articles/5a214c2e.json)
-
-[Extended Data](ext_articles/5a214c2e.ext.json)
-
----
-
-### Easter and the Roman Centurion: A Symphony of Redemption
-
-*2024-03-29 04:30:00* · [`islandlk`](http://island.lk/easter-and-the-roman-centurion-a-symphony-of-redemption/) · `en`
-
-Easter, the cornerstone of the Christian faith, is universally described as a celebration of penance, hope, renewal, and the triumph of life over death. Central to this profound narrative in history is the sacrificial death of Jesus Christ, a pivotal moment that unfolded on the cross; an instrument known, and well-recognised, as an emblem of condemnation, retribution, and shame. However, on that fateful day of the crucifixion, amidst the anguish and agony of the execution of the Son of God, one figure emerges from the pages of history; the Roman Centurion who stood at the foot of the cross. His coincidental encounter with divinity and spirituality transformed a moment of despair into a guiding light of redemption.
-
-...
-
-[Data](articles/eb3e7095.json)
-
-[Extended Data](ext_articles/eb3e7095.ext.json)
 
 ---

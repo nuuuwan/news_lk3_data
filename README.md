@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 14:03:04**
+As of **2024-03-29 14:18:08**
 
 ## Newspaper Stats
 
-*Scraped **15,901** Articles*
+*Scraped **15,903** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 872
 islandlk | 879
 adalk | 1,341
 tamilmirrorlk | 1,905
-adaderanalk | 1,909
+adaderanalk | 1,910
 virakesarilk | 2,254
 dailymirrorlk | 2,451
-adaderanasinhalalk | 2,556
+adaderanasinhalalk | 2,557
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,901 (100.0%) of 15,901 articles have been extended.
+15,901 (100.0%) of 15,903 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### සිරිපා කරුණා කරන්න ආ විදේශිකයා අඩි 100ක ප්‍රපාතයකට වැටෙයි
+
+*2024-03-29 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195070) · `si`
+
+රත්නපුර - ශ්‍රී පාද මාර්ගයේ ඇහැලකණුව ප්‍රදේශයේදී ආරක්ෂිත වැටෙන් මිටර් 100ක පමණ ප්‍රපාතයට විදෙස් ජාතිකයෙක් ඇද වැටී තිබේ.
+
+ඉන්දීය ජාතිකයෙකු වූ අදාළ විදේශිකයා පසුව එම ස්ථානයෙන් මුදාගෙන රෝහල්ගත කිරීමට මස්කෙළිය පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් පියවර ගෙන ඇත.
+
+මෙසේ තුවාල ලබා ඇත්තේ, ඉන්දියාවේ මුම්බායි, මහාරාෂ්ට්‍ර හි පදිංචි භාරත් චන්ද්‍රදාස් නැමති 25 හැවිරිදි තරුණයෙකි.
+
+තුවාලකරු තවත් පිරිසක් සමග රත්නපුර - ශ්‍රී පාද මාර්ගය ඔස්සේ ශ්‍රී පාද උඩමළුව වෙත ගමන් කරමින් සිටිය දී අද (29) අලුයම 4.45ට පමණ මෙම අනතුරට මුහුණදී තිබිණි.
+
+ඒ අනුව වහාම ක්‍රියාත්මක වු ශ්‍රී පාද උඩ මළුව පොලිස් මුරපොලේ නිලධාරින් විසින් පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරින් දැනුවත් කිරීමෙන් පසු මහත් පරිශ්‍රමයක් දරා ප්‍රපාතයට වැටී සිටි තරුණයා බේරාගැනීමට සමත්ව ඇත.
+
+සිද්ධිය සම්බන්ධයෙන් නල්ලතන්නිය පොලිස් ස්ථානය දැනුවත් කර තුවාලකරු සමග පැමිණි පිරිස නල්ලතන්නිය දක්වා රැගෙන යෑමට කටයුතු කර තිබේ.
+
+◼️
+
+[Data](articles/3e32d1f1.json)
+
+---
+
+### New Electricity Reforms Bill to be gazetted in 2 weeks
+
+*2024-03-29 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98287/new-electricity-reforms-bill-to-be-gazetted-in-2-weeks) · `en`
+
+The new Bill on electricity sector reforms will be gazetted in the next two weeks, Minister of Power and Energy Kanchana Wijesekera said.
+
+Subsequently, the new bill will be presented to the Parliament during the last week of April, according to the Minister.
+
+Taking to X (formerly Twitter) to announce this, Wijesekera stated that after reviewing, the certification to proceed with the new draft bill was issued by the Attorney General last Monday.
+
+Thus, the Energy Minister highlighted that the stakeholders or any interested individuals will have at least two weeks to review the gazetted Bill and two more weeks from the day of presentation to the Parliament to challenge the Bill’s legality.
+
+The suggestions and issues raised by the development agencies and stakeholders have been incorporated as amendments to the draft Bill that was gazetted in December by the Legal Draftsman’s Department and the inconsistencies in the Sinhala and Tamil translations were also fixed, Wijesekera added.
+
+...
+
+[Data](articles/4d6c0bc7.json)
+
+---
 
 ### Give police information on 119, 118 and 1927
 
@@ -168,7 +210,7 @@ South Africa's parliamentary general election will be held on May 29.
 
 Assets worth more than Rs. 100 million – including multi-day fishing craft, three-wheelers, motorcycles and plots of land – owned by underworld figures have been confiscated.
 
-These assets were impounded by the Illegal Assets and Properties Investigation Division of Sri Lanka Police in Galle, Ambalangoda, and Ahungalla, under the ongoing ‘Yukthiya’ operation.
+These assets were impounded by the ‘Illegal Assets and Properties Investigation Division’ of Sri Lanka Police in Galle, Ambalangoda, and Ahungalla, under the ongoing ‘Yukthiya’ operation.
 
 Police launched the special island-wide operation in December 2023 to crack down on drug peddling and organized crimes in the country.
 
@@ -2241,41 +2283,5 @@ The post mortem examination on the dead students were held at the Polgahawela Ho
 [Data](articles/ba8b54b3.json)
 
 [Extended Data](ext_articles/ba8b54b3.ext.json)
-
----
-
-### HSBC Ceylon Literary & Art Festival collaborates with Dilmah Ceylon Tea to launch Youth Future Writers Program
-
-*2024-03-28 22:04:00* · [`islandlk`](http://island.lk/hsbc-ceylon-literary-art-festival-collaborates-with-dilmah-ceylon-tea-to-launch-youth-future-writers-program/) · `en`
-
-The HSBC Ceylon Literary & Art Festival in collaboration with Dilmah Ceylon Tea opened its inaugural edition in Kandy announcing the launch of the Future Writers Program. Dedicated to nurturing the creative talents of young individuals, this competition underscores the festival’s commitment to fostering youth development and grooming the creative thinking, enhancing its focus on empowering the next generation.
-
-Incorporating platforms such as these serves to underscore the cultural fabric of a society, thereby augmenting the intrinsic value of a nation. Such initiatives foster a sense of purpose among the younger generation, instilling pride and potentially mitigating the phenomenon of brain drain. The platform further establishes an ecosystem that actively engages and fosters creative entrepreneurial endeavors and projects, thereby cultivating a vibrant and dynamic creative culture.
-
-...
-
-[Data](articles/8b7c4458.json)
-
-[Extended Data](ext_articles/8b7c4458.ext.json)
-
----
-
-### King Chipto
-
-*2024-03-28 21:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195051) · `si`
-
-King Chipto, also known as Sam Bankman, was sentenced to 25 years in prison for defrauding billions of clients through the Crimptoczi Exchange Company.
-
-🟩
-
-Sam Bankman Fried for 25 years in prison, as King Cricuto.
-
-He was convicted of billions of clients that billions of clients were cheated through the Crimptoczi Exchange Company.
-
-◼️
-
-[Data](articles/7625de86.json)
-
-[Extended Data](ext_articles/7625de86.ext.json)
 
 ---

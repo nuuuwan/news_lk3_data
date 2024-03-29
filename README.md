@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 16:03:13**
+As of **2024-03-29 16:18:03**
 
 ## Newspaper Stats
 
-*Scraped **15,919** Articles*
+*Scraped **15,920** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 874
 islandlk | 879
 adalk | 1,342
 tamilmirrorlk | 1,905
-adaderanalk | 1,912
+adaderanalk | 1,913
 virakesarilk | 2,256
 dailymirrorlk | 2,456
 adaderanasinhalalk | 2,561
@@ -26,11 +26,33 @@ adaderanasinhalalk | 2,561
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,919 (100.0%) of 15,919 articles have been extended.
+15,919 (100.0%) of 15,920 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### Foreigner injured after falling down precipice while climbing Sri Pada
+
+*2024-03-29 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98290/foreigner-injured-after-falling-down-precipice-while-climbing-sri-pada) · `en`
+
+A foreigner has been injured after falling down 100 metres off the side railings along the Ratnapura - Sri Pada road in the Ehelakanuwa area.
+
+The officers of Police Special Task Force (STF) in Maskeliya have rescued the Indian national and rushed him to the hospital.
+
+The 25-year-old has been identified as Bharath Chandradas, a resident of Mumbai in the Indian state of Maharashtra.
+
+The injured person has been traveling from Ratnapura to Sri Pada with another group of pilgrims when the accident occurred at around 4.45 a.m. this morning (29), the police said.
+
+Accordingly, the officers of the Sri Pada Udamaluwa Police Post had taken steps to notify the STF of the incident, after which injured youth was brought to safety.
+
+The group accompanying the injured Indian national has been escorted to Nallathanniya, after the incident was informed to Nallathanniya Police Station.
+
+◼️
+
+[Data](articles/1eefba74.json)
+
+---
 
 ### UN top court orders Israel to open more land crossings for aid into Gaza
 
@@ -2237,31 +2259,5 @@ In this case
 [Data](articles/c4f2b5ea.json)
 
 [Extended Data](ext_articles/c4f2b5ea.ext.json)
-
----
-
-### 983.7 million rupees in two months
-
-*2024-03-29 01:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/179940) · `ta`
-
-Sri Lanka earned Rs 983.7 million in exports in two months, with 500,000 tourists visiting and 3% increase in entrepreneurs. The government supports entrepreneurship, including issuing diploma certificates to 500 children in apparel and weaving. A welfare program for 240,000 low-income families was launched, and exports to Italy, Canada, and Germany were promoted.
-
-🟩
-
-Minister of Small and Medium Entrepreneurship Development Prasanna Ranweera said Sri Lanka has earned an export income of Rs 983.7 million in the last two months and that the country is currently on the right economic path.
-
-The Minister of State has stated that attraction of the entrepreneurship environment will lead to the creation of entrepreneurs in the future.
-
-State Minister Prasanna Ranawira made this statement at a media briefing held at the Presidential Media Center on Thursday (28).
-
-We have achieved significant achievements as a country to resolve the economic crisis in the country in the past. In the last two months alone, the export income of 983.7 million has been earned.
-
-About 05 lakh tourists visit the country during the two months of January and February. Moreover, the number of entrepreneurs in our country has been increased to 3%. These data confirms that the country is currently on the right economic path.
-
-...
-
-[Data](articles/99750451.json)
-
-[Extended Data](ext_articles/99750451.ext.json)
 
 ---

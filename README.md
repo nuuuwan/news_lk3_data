@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 06:54:40**
+As of **2024-03-29 07:16:31**
 
 ## Newspaper Stats
 
-*Scraped **15,827** Articles*
+*Scraped **15,828** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 1,895
 adaderanalk | 1,897
 virakesarilk | 2,242
 dailymirrorlk | 2,439
-adaderanasinhalalk | 2,542
+adaderanasinhalalk | 2,543
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,813 (99.9%) of 15,827 articles have been extended.
+15,822 (100.0%) of 15,828 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### අදත් තද වැසි
+
+*2024-03-29 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195054) · `si`
+
+අද (29) සවස 2න් පමණ පසු බස්නාහිර, දකුණ, සබරගමුව සහ මධ්‍යම පළාත්වල තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඌව සහ වයඹ පළාත්වලත් ස්ථාන ස්වල්පයක ප.ව. 2න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+සබරගමුව සහ බස්නාහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී 50ට වැඩි තරමක තද වැසි ඇති වෙයි.
+
+මධ්‍යම, සබරගමුව, ඌව සහ බස්නාහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+◼️
+
+[Data](articles/9f50540d.json)
+
+---
 
 ### No mea culpa
 
@@ -132,6 +152,8 @@ The 3-day symposium, held from 13 to 15 March at Waters Edge, SLIM Dialog Brand 
 
 [Data](articles/62c538e2.json)
 
+[Extended Data](ext_articles/62c538e2.ext.json)
+
 ---
 
 ### Sri Lankan microfinance bank LOLC opens new branch in Islamabad
@@ -150,6 +172,8 @@ LOLC Holdings President and CEO Farooq Rashid highlighted the bank’s strategic
 
 [Data](articles/a8d9fdd6.json)
 
+[Extended Data](ext_articles/a8d9fdd6.ext.json)
+
 ---
 
 ### Fitch assigns Abans proposed debentures AA- amid challenging environment
@@ -163,6 +187,8 @@ This rating reflects Abans strong financial position and underscores Abans’ ro
 ...
 
 [Data](articles/1b4a503a.json)
+
+[Extended Data](ext_articles/1b4a503a.ext.json)
 
 ---
 
@@ -186,6 +212,8 @@ The message noted that Easter is being celebrated during a period of severe turm
 
 [Data](articles/ebe541f5.json)
 
+[Extended Data](ext_articles/ebe541f5.ext.json)
+
 ---
 
 ### International reporting portal debuts in SL to combat online violence against children
@@ -201,6 +229,8 @@ The NCPA has been actively combating online violence against children, noting gr
 ...
 
 [Data](articles/ba3ebbaa.json)
+
+[Extended Data](ext_articles/ba3ebbaa.ext.json)
 
 ---
 
@@ -226,6 +256,8 @@ Speaking to journalists at the Sri Lanka Podujana Peramuna (SLPP) office at Nelu
 
 [Data](articles/5a214c2e.json)
 
+[Extended Data](ext_articles/5a214c2e.ext.json)
+
 ---
 
 ### Easter and the Roman Centurion: A Symphony of Redemption
@@ -237,6 +269,8 @@ Easter, the cornerstone of the Christian faith, is universally described as a ce
 ...
 
 [Data](articles/eb3e7095.json)
+
+[Extended Data](ext_articles/eb3e7095.ext.json)
 
 ---
 
@@ -668,6 +702,8 @@ Incorporating platforms such as these serves to underscore the cultural fabric o
 
 [Data](articles/8b7c4458.json)
 
+[Extended Data](ext_articles/8b7c4458.ext.json)
+
 ---
 
 ### King Chipto
@@ -791,6 +827,8 @@ National Development Bank followed with Rs. 238mn in turnover; shares closed up 
 ...
 
 [Data](articles/749f9b29.json)
+
+[Extended Data](ext_articles/749f9b29.ext.json)
 
 ---
 
@@ -2211,31 +2249,5 @@ Fire lands have already been deployed by the Colombo Fire Brigade to suppress th
 [Data](articles/f6114cae.json)
 
 [Extended Data](ext_articles/f6114cae.ext.json)
-
----
-
-### A person finds a tooth for the sake of a person
-
-*2024-03-28 14:46:51* · [`adalk`](https://www.ada.lk/breaking_news/පුද්ගලයකුගේ-පෙනහැල්ලෙන්-දතක්-සොයාගනී/11-408841) · `si`
-
-A 59-year-old man from Balangoda, suffering from pneumonia and kidney diseases, died after a post-mortem at Balangoda Base Hospital revealed a tooth in his lung, a condition he had been suspended for two years ago.
-
-🟩
-
-A two-mortem have been found in the Balangoda Base Hospital on the Balangoda Bala Hospital yesterday at the Balangoda Base Hospital on behalf of a person who died of pneumonia and kidney diseases.
-
-Balangoda Emergency Inspector Paathndra Wijetilake said that the post mortem examination was found in the temple medical officer at the Balangoda Hospital.
-
-A 59-year-old man who was residing in the Walaboda area in Balangoda had been found in the post mortem.
-
-He said that he was an overwhelming alcohol and had been alcohol and had been suffering from pneumonia and kidney conditions and had died due to commemoration of pure model.
-
-However, he said that two years ago was suspended and suspected that the tooth was trapped in the lung.
-
-◼️
-
-[Data](articles/914f87bf.json)
-
-[Extended Data](ext_articles/914f87bf.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 11:52:27**
+As of **2024-03-29 12:03:45**
 
 ## Newspaper Stats
 
-*Scraped **15,879** Articles*
+*Scraped **15,883** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 142
 bbccomsinhala | 169
-dbsjeyarajcom | 196
+dbsjeyarajcom | 197
 newsfirstlk | 363
 dailyftlk | 862
 economynextcom | 871
@@ -18,33 +18,59 @@ islandlk | 879
 adalk | 1,340
 tamilmirrorlk | 1,904
 adaderanalk | 1,905
-virakesarilk | 2,247
-dailymirrorlk | 2,450
-adaderanasinhalalk | 2,551
+virakesarilk | 2,248
+dailymirrorlk | 2,451
+adaderanasinhalalk | 2,552
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,875 (100.0%) of 15,879 articles have been extended.
+15,879 (100.0%) of 15,883 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### අපරාධ කල්ලිවලට අයත් තවත් 10ක් අත්අඩංගුවට
+### හෙල්මටයත් අතහැර පැනගිය මහබාගේ වෙඩික්කරු
+
+*2024-03-29 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195065) · `si`
+
+ඊයේ මහබාගේ, මත්තුමගල ප්‍රදේශයේ නිවසකට T - 56 අවියකින් වෙඩි තැබීමට පැමිණි සැකකරුවන් හඳුනාගැනීම සඳහා පරීක්ෂණ සිදුකෙරෙන බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති, නීතිඥ නිහාල් තල්දුව මහතා පවසයි.
+
+යතුරුපැදියකින් අදාළ නිවසට පැමිණි තුවක්කුකරු සමග එම නිවසේ සිටි පුද්ගලයෙක් පොරබදා ඇති අතර එහිදී ගිනි අවියේ මැගසීනය බිම වැටී ඇති අතර තුවක්කුකරුගේ හිස් ආවරණය  ගැලවී ගොස් තිබුණි.
+
+එහිදී කලබල වූ වෙඩික්කරු එම ස්ථානයෙන් කඳාන දෙසට පළාගොස් ඇති බව සඳහන් ය.
+
+ප්‍රදේශයේ සවිකර ඇති CCTV දර්ශන භාවිතයෙන් සැකකරුවන් හඳුනා ගැනීමට කටයුතු කරන බවත් නීතිඥ නිහාල් තල්දුව මහතා පැවසීය.
+
+එසේම තුවක්කුකරු සමග පොරබැදූ පුද්ගලයා සාමකාමී පුද්ගලයෙක් බවත් වෙඩික්කරුවන් වෙනත් පුද්ගලයෙක් සොයා පැමිණෙන්නට ඇතැයි පොලීසිය අනුමාන කරන බව ඔහු කීය.
+
+◼️
+
+[Data](articles/3fe5c4d4.json)
+
+---
+
+### 10 others belonging to crime gangs arrested
 
 *2024-03-29 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195064) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලිවලට අයත් තවත් සාමාජිකයින් 10 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+Police arrested 10 members of organized crime and seized five suspected supporters.
 
-ඔවුන් සමග විවිධ සම්බන්ධතා පවත්වමින් අපරාධවලට සහාය වූ බවට සැක කෙරෙන පුද්ගලයන් 05 දෙනෙකු ද එහිදී පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-ඉකුත් 19 වනදා සිට මේ දක්වා සිදුකළ මෙහෙයුම්වලදී සැකකරුවන් හා සැකකාරියන් 186 දෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+Ten other members of organized crime were arrested, police said.
+
+Police have also seized five persons who were suspected to support the crime with them.
+
+An 186 suspects and several suspects have been arrested in operations from the 19th.
 
 ◼️
 
 [Data](articles/0ccc54bf.json)
+
+[Extended Data](ext_articles/0ccc54bf.ext.json)
 
 ---
 
@@ -62,21 +88,49 @@ However, the train operations on the Coastal Line will be restored after Sunday 
 
 [Data](articles/1dfe17c9.json)
 
+[Extended Data](ext_articles/1dfe17c9.ext.json)
+
 ---
 
-### நாடளாவிய ரீதியில் அதிகரிக்கப்பட்டுள்ள பாதுகாப்பு
+### இஸ்ரேலின் தாக்குதலில் 36 சிரிய இராணுவத்தினர் பலி
+
+*2024-03-29 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179958) · `ta`
+
+சிரியாவின் அலேப்போ மாகாணத்தில் இஸ்ரேல் இன்று நடத்திய வான்வழித் தாக்குதலில் சிரிய சிப்பாய்கள்  36 பேர் உயிரிழந்துள்ளனர் என போர் கண்காணிப்பாளர்கள் தெரிவித்துள்ளனர்.
+
+ஹிஸ்புல்லா இயக்கத்தின் ரொக்கெட் ஆயுதக்களஞ்சியம் ஒன்று அமைக்கப்பட்டுள்ள பகுதிக்கு அருகில் இத்தாக்குதல் நடத்தப்பட்டதாக பிரிட்டனைத் தளமாகக் கொண்ட, மனித உரிமைகளுக்கான சிரிய கண்காணிப்பகம் எனும் அமைப்பு தெரிவித்துள்ளது.
+
+இச்சம்பவத்தில் குறைந்தபட்சம் 36 சிப்பாய்கள் பலியாகினர் எனவும் டசின் கணக்கானோர் காயமடைந்துள்ளனர் எனவும் அவ்வமைப்பு தெரிவித்துள்ளது.
+
+தாக்குதல் நடைபெற்ற பகுதியானது அலேப்போ சர்வதேச விமான நிலையத்துக்கு அருகில் அமைந்துள்ளதாகவும் அவ்வமைப்பு தெரிவித்துள்ளது.
+
+இதேவேளை, இன்று அதிகாலை இஸ்ரேலிய எதிரி நடத்திய தாக்குதலில்  பொதுமக்களும் இராணுவத்தினரும் உயிரிழந்தனர் எனவும் பலர் காயமடைந்துள்ளனர் எனவும் சிரிய இராணுவ வட்டாரமொன்று தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/c5c4371b.json)
+
+---
+
+### Nationwide
 
 *2024-03-29 11:16:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-ரீதியில்-அதிகரிக்கப்பட்டுள்ள-பாதுகாப்பு/175-335340) · `ta`
 
-நாடளாவிய ரீதியில் உள்ள கத்தோலிக்க மற்றும் கிறிஸ்தவ தேவாலயங்களில் இன்று (29) பலத்த பாதுகாப்பு வழங்கப்பட்டுள்ளது.
+Today, Catholic and Christian churches in Sri Lanka receive enhanced security, marking Easter Day. Deshabandu Tennakoon, the Chief Minister of Police, issued the directive.
 
-உலகளாவிய கத்தோலிக்க மற்றும் கிறிஸ்தவ மக்கள் இன்று, புனித வெள்ளியை அனுஸ்டிப்பதுடன் எதிர்வரும் ஞாயிற்றுக் கிழமை ஈஸ்டர் தினத்தை கொண்டாட உள்ளனர்.
+🟩
 
-இந்த நிலையில், இலங்கையில் உள்ள கத்தோலிக்க மற்றும் கிறிஸ்தவ தேவாலயங்களுக்கு பலத்த பாதுகாப்பு வழங்குமாறு, காவல்துறை மா அதிபர் தேசபந்து தென்னக்கோன் பணிப்புரை விடுத்துள்ளார். R
+Catholic and Christian churches across the country today (29) have been provided with strong security.
+
+The global Catholic and Christian people today celebrate the Easter Day on Sunday.
+
+In this context, the Chief Minister of Police Deshabandu Tennakoon has issued a directive to provide strong security to Catholic and Christian churches in Sri Lanka.. Remble
 
 ◼️
 
 [Data](articles/e3396b8b.json)
+
+[Extended Data](ext_articles/e3396b8b.ext.json)
 
 ---
 
@@ -162,21 +216,27 @@ Plenty of seconds have been added over the years. But after a long trend of slow
 
 ---
 
-### இன்று முதல் நாளை மறுநாள் வரை ரயில் தாமதம்
+### The train delayed from today to the next day
 
 *2024-03-29 10:46:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-நாளை-மறுநாள்-வரை-ரயில்-தாமதம்/175-335339) · `ta`
 
-இன்று (29) முதல் நாளை மறுநாள் (31) வரை கரையோரப் பாதையில் ரயில்களை இயக்குவதில் சிறிது தாமதம் ஏற்படக்கூடும் என ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+Train service between Wellawatte and Fort delayed from 29 to 31 due to pipe maintenance, limited to a single rail. Normal service resumes after next Sunday night.
 
-வெள்ளவத்தைக்கும் கோட்டைக்கும் இடையில் ரயில் சேவை ஒரு தண்டவாளத்துக்கு மட்டுப்படுத்தப்பட்டுள்ளதாக திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-நகர அபிவிருத்தி அதிகார சபையினால் வெள்ளவத்தை மற்றும் பம்பலப்பிட்டி ரயில் நிலையங்களுக்கு இடையில் குழாய் ஒன்றின் பராமரிப்பு காரணமாக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+The Railway Department said that there would be some delay in operating trains on the coastal road from today (29) to the next day (31).
 
-எவ்வாறாயினும், எதிர்வரும் ஞாயிற்றுக்கிழமை இரவுக்குப் பின்னர் ரயில் சேவை வழமைக்குத் திரும்பும் என ரயில் திணைக்களம் மேலும் தெரிவித்துள்ளது.
+The department said that the train service between Wellawatte and the Fort has been limited to a rails.
+
+The action has been taken by the Urban Development Authority due to the maintenance of a pipe between Wellawatte and Bambalapitiya railway stations.
+
+However, the Railway Department further stated that the train service will return to normal after next Sunday night.
 
 ◼️
 
 [Data](articles/c996bf5a.json)
+
+[Extended Data](ext_articles/c996bf5a.ext.json)
 
 ---
 
@@ -1678,6 +1738,28 @@ Despite "protestations of sorrow" about customer losses, Judge Kaplan said, Bank
 
 ---
 
+### Fallen ’Crypto King’ Sam Bankman-Fried gets 25 years for fraud
+
+*2024-03-28 22:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fallen-Crypto-King-Sam-Bankman-Fried-gets-25-years-for-fraud/108-279790) · `en`
+
+Sam Bankman-Fried, co-founder of the failed crypto exchange FTX, has been sentenced to 25 years in prison for defrauding customers and investors of his now-bankrupt firm.
+
+The ruling cements the downfall of the former billionaire, who emerged as a high profile champion of crypto before his firm's dramatic collapse in 2022.
+
+The 32-year-old was later found to have stolen billions from customers of the exchange ahead of its implosion.
+
+But he was convicted by a New York jury in November on charges including multiple counts of wire fraud and conspiracy to commit money laundering.
+
+During the sentencing hearing on Thursday, Judge Lewis Kaplan provided a harsh assessment, saying it was clear Bankman-Fried was motivated by a drive to be politically influential.
+
+Despite "protestations of sorrow" about customer losses, Judge Kaplan said, Bankman-Friend had expressed "never a word of remorse for the commission of terrible crimes".
+
+...
+
+[Data](articles/289f3d5a.json)
+
+---
+
 ### The bodies of the hidden children of the Oya to homes
 
 *2024-03-28 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195052) · `si`
@@ -2145,63 +2227,5 @@ The CID had summoned the former President in order to record a statement over th
 [Data](articles/7922d864.json)
 
 [Extended Data](ext_articles/7922d864.ext.json)
-
----
-
-### DLB records highest-ever profit in 2023
-
-*2024-03-28 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98269/dlb-records-highest-ever-profit-in-2023) · `en`
-
-The Development Lotteries Board (DLB) has recorded its highest-ever profit of Rs. 3.6 billion in 2023 and a significant portion of Rs. 3.6 billion goes to the President’s Fund, the President’s Media Division said.
-
-In 2023, the Development Lotteries Board (DLB) achieved it’s highest-ever profit in its 40-year history. This marked a significant milestone as the DLB recorded a profit margin of 32% for the fiscal year 2022-2023, double the previous year’s figure, the PMD said a statement.
-
-Consequently, contributions to both the President’s Fund and the government saw notable increases, with a 13% rise for the former, surpassing the target, and a 6% increase for the latter. Mr. Ajith Gunaratne Narangala, Chairman and CEO of the Development Lotteries Board, attributed this success to strategic measures aimed at mitigating the country’s economic challenges, with special guidance from President Ranil Wickremesinghe, who also serves as the Minister of Finance.
-
-...
-
-[Data](articles/e0abb71d.json)
-
-[Extended Data](ext_articles/e0abb71d.ext.json)
-
----
-
-### 18-member squad for Asian U-20 Meet
-
-*2024-03-28 19:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/18-member-squad-for-Asian-U-20-Meet/108-279776) · `en`
-
-Mar. 28 (Daily Mirror) - Sri Lanka Athletic (SLA) will field an 18-member contingent for the 21st Asian Under-20 Junior Athletic Championship, conducted by the Asian Athletic and to be held from April 24 to 27 in Dubai, United Arab Emirates.
-
-Top competitors from over 40 Asian countries are set to participate in this tournament.
-
-The Sri Lankan contingent will include 12 Men and six Women, SLA President Major General (Retired) Palitha Fernando told the Daily Mirror. The selected 18-member Sri Lankan contingent is yet to be approved by the sports minister.
-
-Sri Lanka will be targeting more than five medals at this meet including success in the long jump (Women’s), 4X400m Relay (Men’s), 4X100m Relay (Men’s), 4X400m Relay (Women’s) and 4X400m (Mixed Relay).
-
-...
-
-[Data](articles/5eef1cec.json)
-
-[Extended Data](ext_articles/5eef1cec.ext.json)
-
----
-
-### Emergency order for Maithri
-
-*2024-03-28 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195045) · `si`
-
-The Maligakanda Magistrate's Court ordered the Criminal Investigation Department (CID) on April 4, following the CID's report to the court today.
-
-🟩
-
-The Maligakanda Magistrate's Court has ordered the Criminal Investigation Department on April 4.
-
-The Criminal Investigation Department (CID) has issued this order since the CID has reported to the court today on advice.
-
-◼️
-
-[Data](articles/0b51e698.json)
-
-[Extended Data](ext_articles/0b51e698.ext.json)
 
 ---

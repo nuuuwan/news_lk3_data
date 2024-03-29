@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 08:18:04**
+As of **2024-03-29 08:33:52**
 
 ## Newspaper Stats
 
-*Scraped **15,843** Articles*
+*Scraped **15,844** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 142
-bbccomsinhala | 168
+bbccomsinhala | 169
 dbsjeyarajcom | 195
 newsfirstlk | 363
 dailyftlk | 860
@@ -26,23 +26,29 @@ adaderanasinhalalk | 2,545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,842 (100.0%) of 15,843 articles have been extended.
+15,843 (100.0%) of 15,844 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### இன்று 100 மில்லி மீற்றர் மழை
+### 100mm of rain today
 
 *2024-03-29 07:56:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-100-மில்லி-மீற்றர்-மழை/175-335334) · `ta`
 
-நாட்டின் சில பகுதிகளில் இன்று 100 மில்லி மீற்றர் அளவில் பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வுகூறியுள்ளது.
+Heavy rainfall of 100mm expected in parts of the country today, especially in Ampara and Moneragala districts.
 
-இதன்படி, தென் மாகாணத்திலும் அம்பாறை மற்றும் மொனராகலை ஆகிய மாவட்டங்களின் சில இடங்களிலும் 100 மில்லி மீற்றர் அளவில் மழை பெய்யக்கூடும் என தெரிவிக்கப்பட்டுள்ளது. (a)
+🟩
+
+The Department of Meteorology has predicted heavy rainfall of 100 millimeters in some parts of the country today.
+
+According to the southern province, some of the districts of Ampara and Moneragala districts are expected to occur at 100 millimeters.. (A)
 
 ◼️
 
 [Data](articles/a5bd4242.json)
+
+[Extended Data](ext_articles/a5bd4242.ext.json)
 
 ---
 
@@ -535,6 +541,24 @@ The contribution of inflation by food commodities was 1.19 percent while the con
 [Data](articles/e514b783.json)
 
 [Extended Data](ext_articles/e514b783.ext.json)
+
+---
+
+### ආර්ථික අර්බුදය මැද හැමෝම ඉගෙන ගන්න රට යන්නේ කොහොම ද?
+
+*2024-03-29 02:09:27* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7205xkkj0jo) · `si`
+
+"ලංකාවට ඇවිල්ලා තේරුමක් තියෙනවාද කියන ප්‍රශ්නේ තියෙනවා, රටේ තියෙන ආර්ථික, දේශපාලන ප්‍රශ්න එක්ක රට ගොඩ යයිද කියන ප්‍රශ්නේ තියෙනවා. ඒක නිසා මෙහේ සෙටල් වෙන්න තමයි බලන්නේ.”
+
+හිරුණි විදේශගත වුයේ ඇයගේ උසස් අධ්‍යාපනය සඳහා පමණක්ම නොවේ. මෙරට තුළ යහපත් අනාගතයක් නැතැයි සිතන ඇයගේ තවත් එක් අරමුණක් වන්නේ විදෙස් රටක ස්ථිර පදිංචිය හෝ පුරවැසි භාවය ලබා ගැනීම ය.
+
+අපගේ කතා නායිකාව ඇය වන අතර ඇය මෙන්ම බොහෝ දෙනෙකු උසස් අධ්‍යාපනයට යැයි පවසා විදේශ ගතවී ඇත.තවත් බොහෝ දෙනෙකු කෙසේ හෝ විදේශ රටකට යාමට අපේක්ෂාවෙන් පසුවෙයි.
+
+ශ්‍රී ලංකාව දැඩි ආර්ථික අර්බුදයක ගිලි තිබෙන අවස්ථාවක විදෙස් ගතවීමට ඒ සෑම දෙනා අතේම මුදල් තිබේ ද? ඒ සඳහා ඔවුන් කරන්නේ කුමක් ද? මේ බීබීසී සිංහල ඒ පිළිබඳව කළ සොයා බැලිමකි.
+
+...
+
+[Data](articles/256b4afc.json)
 
 ---
 
@@ -2259,31 +2283,5 @@ Minister Ranatunga told reporters in Colombo that he stressed the need to go for
 [Data](articles/8fd1451f.json)
 
 [Extended Data](ext_articles/8fd1451f.ext.json)
-
----
-
-### Sri Lanka stocks close up, 2.9bn turnover driven by banks
-
-*2024-03-28 16:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-2-9bn-turnover-driven-by-banks-156479/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Thursday, data on its site showed.
-
-The broader All Share Index closed up 0.09 percent, or 9.89 points, at 11,444; while the S&P SL20 Index closed up 0.53 percent, or 17.35 points, at 3,317.
-
-Turnover was at 2.9 billion. 1.3 billion of this came from trades in the banks sector.
-
-Hatton National Bank Plc saw the most active volumes traded in the day (411mn), and the share closed up at 180.00.
-
-National Development Bank Plc followed with 238mn in turnover; the share closed up at 68.00.
-
-Sampath Bank Plc also saw high turnover (230mn), and the share close up at 80.00.
-
-Major contributors to the Index included Commercial Bank of Ceylon Plc (up at 97.70), John Keells Holdings Plc (up at 194.00), Melstacorp Plc (up at 88.00), and DFCC Bank Plc (up at 76.00).
-
-...
-
-[Data](articles/dd304470.json)
-
-[Extended Data](ext_articles/dd304470.ext.json)
 
 ---

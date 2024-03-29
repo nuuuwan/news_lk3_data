@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 22:33:28**
+As of **2024-03-29 22:50:37**
 
 ## Newspaper Stats
 
-*Scraped **15,961** Articles*
+*Scraped **15,963** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,99 @@ dailyftlk | 862
 economynextcom | 877
 islandlk | 879
 adalk | 1,342
-tamilmirrorlk | 1,908
+tamilmirrorlk | 1,909
 adaderanalk | 1,918
 virakesarilk | 2,267
-dailymirrorlk | 2,466
+dailymirrorlk | 2,467
 adaderanasinhalalk | 2,570
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,958 (100.0%) of 15,961 articles have been extended.
+15,961 (100.0%) of 15,963 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### சிவனொளிபாத மலையிலிருந்து விழுந்த இந்தியர்
+### கைதிகள் தப்பி ஓட்டம்
+
+*2024-03-29 22:32:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகள்-தப்பி-ஓட்டம்/175-335357) · `ta`
+
+அனுராதபுரம் திறந்தவெளி சிறைச்சாலையில் இருந்து இரு கைதிகள் தப்பிச் சென்றுள்ளனர் என சிறைச்சாலைகள் ஊடகப் பேச்சாளர் காமினி திஸாநாயக்க தெரிவித்துள்ளார்.
+
+திறந்தவெளி சிறைச்சாலையின் சிற்றுண்டிச்சாலையில் பணியாற்றிய இரண்டு கைதிகளே, இவ்வாறு தப்பிச் சென்றுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+அவர்கள் அனுராதபுரம் - கிரவஸ்திபுர மற்றும் களனி ஆகிய பகுதிகளை சேர்ந்தவர்கள் என   ஊடகப் பேச்சாளர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/45362e7d.json)
+
+---
+
+### National Hospital Colombo water tanks untouched for 20 years: Dr. Bellana
+
+*2024-03-29 22:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/National-Hospital-Colombo-water-tanks-untouched-for-20-years-Dr-Bellana/108-279845) · `en`
+
+Colombo, March 29 (Daily Mirror) - The National Hospital Colombo (NHC) Deputy Director Dr. Rukshan Bellana, said today that the hospital's main water tank tower and other water storage tanks have not been cleaned in the past 20 years.
+
+Speaking to the media, he revealed that the hospital currently has approximately 161 water storage tanks, including the main water tank tower.
+
+Surprisingly, there are no records available documenting the cleaning schedule or installation dates for these tanks, said Dr. Bellana adding that according to standard protocols, water storage tanks should be cleaned at least once every three months. However, shockingly, these tanks have not been cleaned for the past 20 years.
+
+...
+
+[Data](articles/56819326.json)
+
+---
+
+### Indian
 
 *2024-03-29 22:16:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவனொளிபாத-மலையிலிருந்து-விழுந்த-இந்தியர்/175-335356) · `ta`
 
-சிவனொளிபாத மலைக்கு சென்ற இந்திய சுற்றுலாப் பயணி ஒருவர் பள்ளத்தாக்கில் விழுந்த நிலையில் மீட்கப்பட்டுள்ளார்.
+An Indian tourist from Mumbai, 25, rescued from Sivanolipada hill after falling. Traveling from Ratnapura, he was saved by the Special Task Force and given first aid.
 
-மும்பையிலிருந்து வருகை தந்த 25 வயதுடைய சுற்றுலாப் பயணி ஒருவரே இவ்வாறு விழுந்து கிடந்துள்ளார்.
+🟩
 
-அவர் இரத்தினபுரி பகுதியில் இருந்து சிவனொளிபாத மலைக்கு சென்று கொண்டிருந்த போது இன்று அதிகாலை மலை விளிம்பிலுள்ள பாதுகாப்பு வேலியில் இருந்து கீழே விழுந்துள்ளார்.
+An Indian tourist who went to Sivanolipada hill has been rescued after falling into the valley.
 
-இந்நிலையில், உடமலுவ பொலிஸ் நிலையத்திற்கு கிடைத்த தகவலின் அடிப்படையில் சம்பவ இடத்திற்கு விரைந்து சென்ற விசேட அதிரடிப்படையினர் சுற்றுலாப் பயணியை மீட்டு முதலுதவி சிகிச்சை அளித்துள்ளனர். R
+The 25 -year -old tourist who came from Mumbai has fallen.
+
+He was traveling from the Ratnapura area to the Sivanolipada hill this morning.
+
+According to information received by the Udamaluwa Police Station, the Special Task Force rushed to the scene and rescued the tourist and provided first aid.. Remble
 
 ◼️
 
 [Data](articles/23e6952f.json)
 
+[Extended Data](ext_articles/23e6952f.ext.json)
+
 ---
 
-### குடும்பத்தவர்களுடன் முரண்பட்டு தனியாக வசித்து வந்த குடும்பஸ்தர் உயிரிழப்பு - யாழ்ப்பாணத்தில் சம்பவம்!
+### In Jaffna
 
 *2024-03-29 22:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/179987) · `ta`
 
-இளவாலை - வசந்தபுரம் பகுதியில் தனியாக வசித்து வந்து குடும்பஸ்தர் வெற்றுக் காணியில் இருந்து வெள்ளிக்கிழமை (29) சடலமாக மீட்கப்பட்டுள்ளது. இதன்போது புதிய கொலனி, கீரிமலை பகுதியைச் சேர்ந்த ஐயங்கன் சிவானந்தராஜா (வயது 47) என்பவரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
+A man found dead in Jaffna's Kudyakkadal land, reportedly due to excessive alcohol use, was discovered by Iyengan Sivanandarajah. The man had left his family two months ago and lived alone in the Ilavalai-Vasanthapuram area. Autopsy by A. Jayapalasingham revealed the cause of death.
 
-குறித்த நபர், அவரது குடும்பத்தவர்களுடன் ஏற்பட்ட முரண்பாடு காரணமாக இரண்டு மாதங்களுக்கு முன்னர் அவர்களை பிரிந்து வந்து இளவாலை - வசந்தபுரம் பகுதியில் உள்ள காணியில் குடிசை ஒன்றை அமைத்து தனியாக வசித்து வந்துள்ளார்.
+🟩
 
-இந்நிலையில் அவர் வெள்ளிக்கிழமை (29), அவரது குடிசைக்கு அருகாமையில் உள்ள வெற்றுக் காணி ஒன்றிலிருந்து சடலமாக மீட்கப்பட்டார். இவ்வாறு மீட்கப்பட்டவரது சடலம் மீது மேற்கொள்ளப்பட்ட பிரேதப் பரிசோதனைகளின் அடிப்படையில் அவர் அதிக மதுப் பாவனை காரணமாக நுரையீரல் பாதிக்கப்பட்டு உயிரிழந்ததாக தெரிவிக்கப்படுகிறது.
+The body was recovered from the Kudyakkadal land on Friday (29) who lived alone in Vasanthapuram area. The body was recovered by Iyengan Sivanandarajah (47 years old) from the new Colony, Girimalai area.
 
-அவரது சடலம் மீதான மரண விசாரணைகளை திடீர் மரண விசாரணை அதிகாரி ஆ.ஜெயபாலசிங்கம் அவர்கள் மேற்கொண்டார். உடற்கூற்றுப் பரிசோதனைகளின் பின்னர் சடலம் உறவினர்களிடம் ஒப்படைக்கப்பட்டது.
+The man has left them two months ago due to the conflict with his family and lived alone in a land in the Ilavalai - Vasanthapuram area.
+
+He was found dead on Friday (29), a body of a blank land near his hut. According to autopsy on the body of the recovery, he is reported to have died of lungs due to excessive alcohol use.
+
+The death investigation into his body was carried out by A. Jayapalasingham. The body was handed over to relatives after anatomical examination.
 
 ◼️
 
 [Data](articles/e0f4352b.json)
+
+[Extended Data](ext_articles/e0f4352b.ext.json)
 
 ---
 
@@ -163,6 +207,8 @@ The gory ritual resumed last year after a three-year pause due to the coronaviru
 ...
 
 [Data](articles/d828b9fc.json)
+
+[Extended Data](ext_articles/d828b9fc.ext.json)
 
 ---
 
@@ -2273,53 +2319,5 @@ My personal opinion is that the first parliamentary election should be held, and
 [Data](articles/6ff6bf5a.json)
 
 [Extended Data](ext_articles/6ff6bf5a.ext.json)
-
----
-
-### Siege of leakage plant at Pudukkudiyiruppu in Mullaitivu;Young man arrested
-
-*2024-03-29 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/179946) · `ta`
-
-A 23-year-old was arrested for illegal leakage at Pudukkudiyiruppu Udaiyarkattu pond in Mullaitivu, with 56,000 liters of water and equipment.
-
-🟩
-
-A youth who was involved in illegal leakage was arrested on Thursday (28), with equipment used for leakage in the Pudukkudiyiruppu Udaiyarkattu pond in Mullaitivu.
-
-The arrest of the arrest that took place at 8 pm yesterday
-
-Pudukkudiyiruppu Police Sergery (70537), 750996, 750996, 750996, 750996, 75096, 75096, 75096, police officer in charge of the Pudukkudiyiruppu Police Station after a confidential information received by Pudukkudiyiruppu Police Kostapile Pradeepan claiming that leakage is being produced in the nearby area of the Pudukkudiyiruppu Udaiyarkattu pond.) The police team was arrested by Pradeepan.
-
-A 23 -year -old suspect from the southern bamboo area of Udaiyarkadu has been arrested with 56,000 milliliters of liters, 75,000 millimeters burnt and equipment used to produce leaks.
-
-Further investigations are being carried out at the Mullaitivu Magistrate's Court after further investigations, police said.
-
-◼️
-
-[Data](articles/20ad6175.json)
-
-[Extended Data](ext_articles/20ad6175.ext.json)
-
----
-
-### PH Ai. The shooting attempt is sins
-
-*2024-03-29 09:02:42* · [`adalk`](https://www.ada.lk/breaking_news/පී-එච්-අයිට--වෙඩි-තැබීමේ-තැත-වරදියි/11-408844) · `si`
-
-In Mahagama, a shooting attempt on two stakeholders in a motorcycle on the 27th was thwarted by Asanka Lakmal, who was trying to shoot with a 56-caliber firearm. The shooters fled, and police are investigating the incident.
-
-🟩
-
-Police say that the attempt to shoot two stakeholders who had arrived in a motorcycle on the 27th morning of 27 days in the Mahagama Police Division.
-
-State Land - State Land, Delegation in Ragama Rama. Two tanks arrived at a motorcycle on Pabarr motorcycle on the 27th. Asanka Lakmal has been trying to shoot at Lakmal with a 56 bircle fire.
-
-Asanka Lakmal is struggled with people who have come to shoot.. At the same time, the people who had come to shoot had fled. Police say the cause of the shooting has not been revealed. Ragama Police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/28bd6882.json)
-
-[Extended Data](ext_articles/28bd6882.ext.json)
 
 ---

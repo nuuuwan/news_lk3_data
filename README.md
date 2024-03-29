@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 01:18:04**
+As of **2024-03-30 01:33:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,972 (100.0%) of 15,974 articles have been extended.
+15,974 (100.0%) of 15,974 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ As stated in the previous articles, Karuna  after the split had concentrated th
 
 [Data](articles/34100edd.json)
 
+[Extended Data](ext_articles/34100edd.ext.json)
+
 ---
 
 ### Electoral reforms while elections are  on doorstep
@@ -61,6 +63,8 @@ Interestingly, the statement claims that “it has been found necessary to chang
 ...
 
 [Data](articles/255d2139.json)
+
+[Extended Data](ext_articles/255d2139.ext.json)
 
 ---
 

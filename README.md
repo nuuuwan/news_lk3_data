@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 12:34:22**
+As of **2024-03-29 12:50:22**
 
 ## Newspaper Stats
 
-*Scraped **15,888** Articles*
+*Scraped **15,890** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 142
-bbccomsinhala | 169
+bbccomsinhala | 170
 dbsjeyarajcom | 197
 newsfirstlk | 363
 dailyftlk | 862
@@ -20,17 +20,37 @@ tamilmirrorlk | 1,904
 adaderanalk | 1,907
 virakesarilk | 2,250
 dailymirrorlk | 2,451
-adaderanasinhalalk | 2,552
+adaderanasinhalalk | 2,553
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,887 (100.0%) of 15,888 articles have been extended.
+15,888 (100.0%) of 15,890 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### ගාසා සාගතයක් අභියස
+
+*2024-03-29 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195066) · `si`
+
+සාගතයක් ඇතිවීම වැලැක්වීම සඳහා ගාසා තීරයට බාධාවකින් තොරව ආධාර ලබාදීමට ඉඩදිය යුතු බව එක්සත් ජාතීන්ගේ ප්‍රධානම අධිකරණය ඊශ්‍රායලයට නියෝග කර තිබේ.
+
+හේග් හි පිහිටි ජාත්‍යන්තර අධිකරණය මගින් ඒකමතික තීරණයක් ලෙස එම නියෝගය නිකුත් කර ඇත.
+
+එම නියෝගයේ දැක්වෙන්නේ "ප්‍රමාදයකින් තොරව" අත්‍යවශ්‍ය මූලික සේවා සහ මානුෂීය ආධාර ගාසා වැසියන් ට ලැබීමට ඊශ්‍රායලය ඉඩදිය යුතු බවයි.
+
+සති කිහිපයක් තුළ ගාසා තීරයේ සාගතයක් ඇතිවිය හැකි බවට සිදුකර ඇති අනතුරු ඇඟවීම් වලින් අනතුරුව මෙම නියෝගය නිකුත් කර තිබුණි.
+
+නමුත් තමන් ගාසා තීරයට ආධාර යෑම වළක්වන බවට කෙරෙන චෝදනා ප්‍රතික්ෂේප කරන බව ඊශ්‍රායලය පැවසීය.
+
+◼️
+
+[Data](articles/b892c648.json)
+
+---
 
 ### Bunker demand surges in Sri Lankan ports as India grapples with supply shortages
 
@@ -43,6 +63,8 @@ According to S&P Global Commodity Insights, the demand spike, estimated to be ov
 ...
 
 [Data](articles/094641f5.json)
+
+[Extended Data](ext_articles/094641f5.ext.json)
 
 ---
 
@@ -1292,6 +1314,30 @@ The NCPA has been actively combating online violence against children, noting gr
 
 ---
 
+### 'මම ලියන හැටි' : අරුණ ප්‍රේමරත්න
+
+*2024-03-29 05:16:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn0dpz1x39ro) · `si`
+
+පසුගිය දිනවල අරුණ ප්‍රේමරත්න වඩාත් ජනප්‍රිය වන්නේ ‘කොඩි ගහ යට’ ටෙලිනාට්‍යයේ රචකයා ලෙස වුවත් ඔහු මේ වන විට පාඨක විචාරක සම්භාවනාවට පාත්‍ර වූ නවකතා දෙකක් ‘තරු විසුළ රැය' සහ ‘දවස් තුනක කතාවක්’ සිංහල සාහිත්‍යයට දායක කර ඇත.
+
+එසේම පරිවර්තකයෙක් ලෙස සිය සාහිත්‍ය ප්‍රවේශය සළකුණු  කරන ඔහු අතින් විශ්ව සාහිත්‍යය තුළ වැදගත් කෘතීන් සිංහල පාඨකයාට හඳුන්වා දී ඇති බව ද අමතක කල නොහැකිය.
+
+මා ඔහු සමග කතාබහක යෙදෙන්නේ නවකතාකරුවෙකු ලෙස ඔහු ලේඛනයේ යෙදෙන විට ඔහුට දැනෙන හැඟීම් සහ ලිවීම සමග බැඳුණු  ඔහුට ම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් ය.
+
+මේ සාකච්ඡාව තුළ  මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළකර ඇති ‘නිම්නාගේ ඉතිහාසය’ (2019) සහ ‘මේ රහස් කවුලුවෙන් එබෙන්න’ (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුණු ඒවා ය.
+
+හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේ ම වූ ආකාරයකටය යන්න ප්‍රකට කරුණකි.
+
+ලියන තැන, ලියන විදිහ, ලියන විට බොන කෝපි කෝප්ප ගනන, ලිවීම තමන්ම විඳින හැටි, වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියට ය.
+
+මේ සංවාද මාලාව උත්සාහ කරන්නේ නවකතාකරුවන්ගේ එම රහස් අඩවිය වෙත එබී බැලීමට ය.
+
+...
+
+[Data](articles/1aad4435.json)
+
+---
+
 ### Prasanna advocates holding Presidential election over a Parliamentary poll
 
 *2024-03-29 05:14:44* · [`dailyftlk`](https://www.ft.lk/news/Prasanna-advocates-holding-Presidential-election-over-a-Parliamentary-poll/56-760091) · `en`
@@ -2161,69 +2207,5 @@ The announcement was made to the Maithri in connection with the Criminal Investi
 [Data](articles/1abb1061.json)
 
 [Extended Data](ext_articles/1abb1061.ext.json)
-
----
-
-### Aussie under the age of 19. Sri Lanka won the team under the age of 19 by 7 runs
-
-*2024-03-28 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/179934) · `ta`
-
-Sri Lanka's under-19 women's T20 team won against Australia by 7 runs in Hambantota, thanks to a 117-run score. Key performances included 23 runs by Thevmi Wijeratne and Sanjana Kavindi, 28 runs by Sanjana, and 32 runs by Manuti Nanayakkara and Rashmi Netrajali. Australia lost 110 runs in 20 overs, with notable contributions from Eleino Larosa and Lucy Hamilton.
-
-🟩
-
-Sri Lanka won Australia by 7 runs in the 19 -year -old women's T20 series in Mahinda Rajapaksa's International Cricket Stadium in Hambantota on Thursday (28).
-
-The Sri Lankan women, who decided to bat first in the match, scored 117 runs for the loss of six wickets in 20 overs.
-
-117 runs in a women's T20 cricket match under the age of 19 is one of the best.
-
-Thevmi Wijeratne and Sanjana Kavindi played 23 runs in the opening wicket.
-
-Next, Netmi Poorna, who entered the field, shared 20 runs with Sanjana in the 2nd wicket.
-
-Sanjana scored 28 runs with 4 pounds and a six.
-
-Next, the captain of the pair, Manuti Nanayakkara and Rashmi Netrajali shared 32 runs in the 4th wicket.. This was the best link to the Sri Lankan team.
-
-Rashmi lost 14 runs and Manuti Nanayakkara with 16 runs.
-
-Sumudu Nissanchala, who paired up with Rashmika in a 6th wicket, shared 28 runs and scored 19 runs.
-
-Rashmika did not play with her 12 runs and Hiruni Hansika with a run.
-
-...
-
-[Data](articles/97ce4054.json)
-
-[Extended Data](ext_articles/97ce4054.ext.json)
-
----
-
-### Did the Keheliya Cabinet overthrow the cabinet?What was revealed in court
-
-*2024-03-28 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195047) · `si`
-
-Keheliya Rambukwella and nine suspects were remanded until April 8. The Deputy Solicitor General accused the Cabinet of misleading. The case involved questionable drug purchases. Investigations revealed 317 drugs were already supplied, contradicting claims of shortages. The court requested lists of patients and medicines from hospitals, post-mortem examinations, and a report from the Ministry of Health.
-
-🟩
-
-Former Health Minister Keheliya Rambukwella and the nine suspects were remanded until April 8 today (28).
-
-The Deputy Selicitor General of the government stated that the Cabinet has misled the Cabinet that Minister Keheliya Rambukwella has been misled by Minister Keheliya Rambukwella.
-
-The case was taken up again in the Maligakkanda Magistrate's Court today to the purchase of quality.
-
-The former Health Minister Keheliya Rambukwella and the 9 suspects were produced before the court.
-
-At the beginning of the case, the report of the Government Solicitor General Lakhaji Girihagama presented the report of the progress and testimony of investigations.
-
-"Lord, three lists have been filed in court regarding the purchase of these questionable drugs.. The first is 182 drugs, but the second is on 285 drugs, on a list of 317 drugs.. Investigations on lists and two includes report to court. The investigation report on the list of 317 with 317 is:
-
-...
-
-[Data](articles/4ff61000.json)
-
-[Extended Data](ext_articles/4ff61000.ext.json)
 
 ---

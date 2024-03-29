@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 01:51:37**
+As of **2024-03-30 02:03:27**
 
 ## Newspaper Stats
 
@@ -26,107 +26,159 @@ adaderanasinhalalk | 2,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,974 (100.0%) of 15,980 articles have been extended.
+15,980 (100.0%) of 15,980 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### இடி மின்னல் காதல் - விமர்சனம்
+### Thunder Lightning Love - Review
 
 *2024-03-30 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179995) · `ta`
 
-பி. வாசு மற்றும் மிஷ்கின் ஆகியோரிடம் திரை மொழியை கற்ற அறிமுக இயக்குநர் பாலாஜி மாதவன்,  எதிர்பாராமல் நடைபெறும் விபத்தில் ஒன்றின் பின்னணியில் சுவாரசியமான அம்சம் ஒன்றினை சொல்லி இயக்கியிருக்கும் 'இடி மின்னல் காதல்' எனும் திரைப்படம் அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+"Thunder Lightning Love" is a debut film by Balaji Madhavan, featuring a love story between a psychologist and a businessman's daughter set against the backdrop of an accident. The film explores themes of love, guilt, and psychological trauma. Despite interesting turns and a compelling storyline, it struggles with a lack of comedy and a villain character that feels underdeveloped. The film's success hinges on its unique angle and realistic portrayal of its characters.
 
-இளம் உளவியல் சிகிச்சை மருத்துவராகப் பணியாற்றும் நாயகனுக்கும், தொழிலதிபர் ஒருவரின் மகளான நாயகிக்கும் இடையே காதல் ஏற்படுகிறது. இவர்கள் காதலிக்கும் போது... ஒரு இரவு நேரத்தில்... மழை பெய்யும் தருணத்தில்... சென்னை மாநகரின் போக்குவரத்து குறைந்த பகுதியில்.. எதிர்பாராத விதமாக இவர்கள் பயணிக்கும் வாகனம் விபத்தை ஏற்படுத்துகிறது. இதனால் முகம் தெரியாத ஒருவர் சம்பவ இடத்திலேயே இறந்து போகிறார்.
+🟩
+
+B.. Balaji Madhavan, the debut director of Vasu and Mishkin, who has learned the screen language, has directed an interesting feature in the backdrop of an unexpected accident?Or not?We will continue to see.
+
+Love occurs between a young man who works as a young psychology physician and the daughter of a businessman. When they love ... In a night ... In the moment of rain ... In the lower part of the transport of the city of Chennai.. Unexpectedly causes the vehicle they are traveling in. Thus, a faceless person dies on the spot.
+
+Because the man of the psychologist caused the accident.. He wants to surrender to the police department. But for the hero from India to abroad in a few more days to face many opposition and win love.. The heroine says that there should be no restrictions.
 
 ...
 
 [Data](articles/802f9c2b.json)
 
+[Extended Data](ext_articles/802f9c2b.ext.json)
+
 ---
 
-### நேற்று இந்த நேரம் - விமர்சனம்
+### This time yesterday - review
 
 *2024-03-30 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/179994) · `ta`
 
-அறிமுக இயக்குநர் சாய் ரோஷன்-  இன்றைய இளம் தலைமுறையினர் காதல் விடயங்களில் எம்மாதிரியான முடிவை மேற்கொள்கிறார்கள் என்பதை விவரிக்க உருவாக்கி இருக்கும் 'நேற்று இந்த நேரம்' எனும் கிரைம் திரில்லர் ஜேனரிலான திரைப்படம் அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+"Crime Thriller Janer explores love, murder, and societal issues through a complex narrative involving Nikhil, Ritika, and their friends. The film, starring Sharik Hassan, Monica Ramesh, and Divakar Kumar, delves into themes of love, betrayal, and the consequences of one's actions. Despite its ambitious premise, the film's execution and pacing leave viewers divided."
 
-நிகில் ( ஷாரிக ஹஸன்) எனும் இளைஞரை சுற்றி கதை நடைபெறுகிறது. நிகிலின் பெற்றோர்கள் விவாகரத்து செய்து கொள்கிறார்கள். அதன் பிறகு நிகிலின் தாய் வேறொரு ஆணை மணந்து கொண்டு வெளிநாட்டிற்கு சென்று விடுகிறார். அவருடைய தந்தை மணமுறிவை ஏற்க மனமில்லாமல் மன அழுத்தத்திற்கு ஆளாகி இறக்கிறார்.
+🟩
 
-இதனால் நிகில் திருமணம் என்ற பந்தத்திற்குள் சிக்கிக் கொள்ள விரும்பவில்லை. மூன்று ஆண்டுகளாக ரித்திகா எனும் பெண்ணை காதலிக்கும் நிகில், அவள் திருமணம் செய்து கொள்ளுமாறு கேட்க.. நிகில் திருமண வேண்டாம். ஆனால் லீவ் இன் உறவில் நீடிக்கலாம் என சொல்கிறார்.
+Crime Thriller Janer, a crime thriller film, has attracted all the fans of the film, which is created to describe how today's younger generation is making a decision on love matters?Or not?We will continue to see.
+
+The story takes place around Nikhil (Sharika Hassan). Nikhil's parents are divorced. Nikhil's mother then marries another order and goes abroad. His father is unwilling to accept the marriage and dies.
+
+Thus Nikhil does not want to get caught in the marriage. Nikhil, who has been in love with a woman named Rithika for three years, ask her to get married.. Nikhil do not marry. But Leave says he can last in the relationship.
+
+Ritika refuses to accept this. In this case, Ritika -led friends decide to kill Nikil, who caused a hurricane in the lives of her friends. They also plan to blame the murder on a faceless man who has been continuously committing murder in a mountain area.. Did their plan benefit?Or not?That is the story of the film.
 
 ...
 
 [Data](articles/e3f4f465.json)
 
+[Extended Data](ext_articles/e3f4f465.ext.json)
+
 ---
 
-### ஹாட் ஸ்பாட் - விமர்சனம்
+### Hot Spot - Review
 
 *2024-03-30 01:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/179993) · `ta`
 
-'திட்டம் இரண்டு', 'அடியே' என இரண்டு படைப்புகளை வழங்கி, ரசிகர்களின் கவனத்தை ஈர்த்த இயக்குநர் விக்னேஷ் கார்த்திக் இயக்கத்தில் உருவாகி இருக்கும் 'ஹாட் ஸ்பாட் 'எனும் திரைப்படத்தின் முன்னோட்டம் வெளியாகி, பெரும் சர்ச்சையும், அதிர்வையும் ஏற்படுத்தியது. இதனால் கலாச்சார காவலர்கள் என்று சொல்லிக் கொள்ளும் பலரின் எதிர்பார்ப்பை எகிற வைத்த இந்த திரைப்படம்.. அவர்களின் ஆதரவை பெற்றதா? அல்லது அவர்களின் கண்டனங்களுக்கு ஆளானதா ? என்பதனை தொடர்ந்து காண்போம்.
+"Hot Spot," directed by Vignesh Karthik, explores four stories within a film, each with its unique narrative and themes, despite facing criticism. The film's narrative style and themes, including marriage, relationships, and societal norms, are presented through a visual language. Despite some creative flaws, the film's unique approach and performances, especially by Kalaiyarasan, are highlighted.
 
-ஒரு இளைஞன் தான் காதலித்த பெண்ணை திருமணம் செய்து கொள்ள... திரைப்பட தயாரிப்பாளராக இருக்கும் அவருடைய தந்தையை சந்திக்கிறார். அவரை சந்தித்து திரைப்படத்தை இயக்குவதற்கான வாய்ப்பைக் கேட்கிறார். வித்தியாசமான பாணியில் கதையை சொன்னால் தயாரிக்கிறேன் என அவரும் சொல்கிறார்.
+🟩
+
+The film 'Hot Spot', directed by director Vignesh Karthik, who has attracted the attention of the fans, has been awarded the controversy and controversy, which has attracted the attention of the fans with two works 'two' and 'Adiye'.. This is the film, which is the expectation of many who claim to be cultural guards.. Received their support?Or is it for their condemnation?We will continue to see.
+
+A young man to marry a woman who loved ... Meets his father who is a filmmaker. Asks him the opportunity to meet him and run the movie. He also says that if I tell the story in a different style, I will make.
+
+The young man told four stories.. Choose one of these. All the four stories are caught by the producer and gives him the opportunity to run the movie. Will I marry your daughter after that?Asking as. What does the filmmaker's father respond to this?That is the story of the film.
 
 ...
 
 [Data](articles/b7097473.json)
 
+[Extended Data](ext_articles/b7097473.ext.json)
+
 ---
 
-### சுப்பர் ஸ்டார் ரஜினிகாந்த்தின் 'தலைவர் 171' பட அப்டேட்
+### Super Star Rajinikanth's 'Chairman 171'
 
 *2024-03-30 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179992) · `ta`
 
-சுப்பர் ஸ்டார் ரஜினிகாந்த் நடிப்பில் தயாராகும் 'தலைவர் 171' படத்தின் அப்டேட்டை படத்தினை தயாரிக்கும் தயாரிப்பு நிறுவனம் அதிகாரப்பூர்வமாக வெளியிட்டிருக்கிறது.
+"Super Star Rajinikanth's 'Chairman 171' is directed by Lokesh Kanakaraj, produced by Dr. Maran, and features music by Anirudh. The film's video and title will be released on April 22, coinciding with the end of voting registration in Tamil Nadu for the Indian Lok Sabha elections on April 19."
 
-இயக்குநரும், 'இனிமேல்' மூலம் நடிகருமான லோகேஷ் கனகராஜ் இயக்கத்தில் உருவாகும் 'தலைவர் 171' படத்தில் சுப்பர் ஸ்டார் ரஜினிகாந்த் கதையின் நாயகனாக நடிக்கிறார். இப்படத்திற்கு அனிருத் இசையமைக்கிறார். சன் பிக்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் கலாநிதி மாறன் தயாரிக்கிறார். இப்படத்தினைப் பற்றிய புதிய தகவல்கள் வெளியாகி இருக்கிறது. இப்படத்தின் டைட்டில் மற்றும் டைட்டில் லுக்கிற்கான காணொளி எதிர்வரும் ஏப்ரல் மாதம் 22 ஆம் திகதியன்று வெளியாகும் என அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+🟩
 
-இந்திய மக்களவை தேர்தலின் முதல் கட்ட வாக்குபதிவு ஏப்ரல் 19ஆம் திகதியன்று நடைபெறுகிறது. தமிழகத்தில் வாக்கு பதிவு நிறைவு பெற்றதும்..சுப்பர் ஸ்டார் ரஜினிகாந்த் படத்தின் அப்டேட் வெளியாவதாலும்,  லோகேஷ் கனகராஜ் -சுப்பர் ஸ்டார் ரஜினிகாந்த் முதன் முறையாக கூட்டணி அமைத்திருப்பதாலும் 'தலைவர் 171' படத்திற்கு ரசிகர்களிடத்தில் பெரும் எதிர்பார்ப்பு ஏற்பட்டிருக்கிறது.
+Super Star Rajinikanth's upcoming film 'Chairman 171' has officially released the production company that produces update.
+
+Super Star Rajinikanth plays the hero of the story of the director and director Lokesh Kanakaraj directed by Lokesh Kanakaraj. Anirudh composes the film. Producer Dr. Maran produces on behalf of Sun Pictures Company. New information about the film has been released. It has been officially announced that the video for the film and the title of the film will be released on April 22.
+
+The first phase of the Indian Lok Sabha elections takes place on April 19. After the voting registration in Tamil Nadu is over.
 
 ◼️
 
 [Data](articles/5231ce1b.json)
 
+[Extended Data](ext_articles/5231ce1b.ext.json)
+
 ---
 
-### கடும்போக்குக்கு கடும்போக்கு, அமைத்திக்கு அமைதி; பங்களாதேஷ் ஊடகத்திற்கு தனஞ்சய பதில்
+### The silence of the toughness, the silence of the set;Reply to Bangladesh Media
 
 *2024-03-30 01:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179991) · `ta`
 
-அவர்கள் (பங்களாதேஷ்) கடும்போக்கைக் கடைப்பிடித்தால் நாங்களும் கடும்போக்கை கையாள்வோம். அவர்கள் அமைதியைக் கடைப்பிடித்தால் நாங்களும் அமைதியைப் பேணுவோம் என ஊடகவியலாளர்களிடம் இலங்கை அணித் தலைவர் தனஞ்சய டி சில்வா தெரிவித்தார்.
+Sri Lanka's Tanjaya de Silva said if Bangladesh maintains peace, Sri Lanka will too. Dhananjaya D Silva criticized questions about Shakib al-Hasan. He praised the Sri Lankan fast bowlers and the pitch's suitability for spin. Sri Lanka won the first Test by 328 runs, aiming to win the series. The pitch in Chatogram favors spin, prompting a change in the Sri Lankan team. The final squad includes Nishan Madushka, Timuth Karunaratne, and others, with Shakib Al Hasan in Bangladesh's lineup.
 
-சட்டோக்ராமில் சனிக்கிழமை ஆரம்பமாகவுள்ள இலங்கை - பங்களாதேஷ் அணிகளுக்கு இடையிலான 2ஆவதும் கடைசியுமான டெஸ்ட் போட்டிக்கு முன்னர் வெள்ளிக்கிழமை நடைபெற்ற ஊடக சந்திப்பில் பங்களாதேஷ் ஊடகவியலாளர் ஒருவரால் எழுப்பப்பட்ட கேள்விக்கு பதிலளிக்கையில் தனஞ்சய டி சில்வா இதனைக் குறிப்பிட்டார்.
+🟩
 
-பங்களாதேஷ் அணியில் மீண்டும் இடம்பிடித்துள்ள ஷக்கிப் அல் ஹசனுக்கென ஏதாவது திட்டம் உள்ளதா? அவரைப்பற்றி என்ன கருதுகிறீர்கள்? என தனஞ்சய டி சில்வாவிடம் கேட்கப்பட்டபோது, 'திட்டங்கள் பற்றி இப்போது என்னால் கூறமுடியாது. அத்துடன் அவர் எனது அணியில் இல்லாததால் அவர் பற்றி பேச வேண்டிய அவசியம் எனக்கு இல்லை. அவரைப் பற்றி பங்களாதேஷ் அணியிடம் தான் கெட்கவேண்டும். எனக்கு அது பொருத்தமான கேள்வி அல்ல. தவறாக என்னிடம் கேட்கிறீர்கள்' என பதிலளித்தார்.
+If they (Bangladesh) adhere to the toughness we will deal with the hardship. Sri Lankan team captain Tanjaya de Silva told the media that if they maintain peace, we too will maintain peace.
+
+Responding to a question raised by a Bangladeshi journalist at a media briefing held on Friday ahead of the 2nd and last Test match between Sri Lanka and Bangladesh, which begins on Saturday in Chatochram, Tanjaya de Silva said this.
+
+Shakib al -Hasan has any plan for the Bangladesh team again?What do you think about him?When Dhananjaya D Silva was asked, 'I can't tell you about the projects now. And I don't need to talk about him because he is not in my team. The Bangladesh team should be bad about him. It is not the appropriate question for me. You are wrongly asking me. '
+
+Asked what he thinks about the Fernando group, which Kasun was in a state of affairs.
 
 ...
 
 [Data](articles/78ca8077.json)
 
+[Extended Data](ext_articles/78ca8077.ext.json)
+
 ---
 
-### கோஹ்லியின் அதிரடி அரைச் சதம் வீண்போனது; RCBயை 7 விக்கெட்களால் வென்றது KKR
+### Kohli's action was half a century;KKR won RCB by 7 wickets
 
 *2024-03-30 01:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/179990) · `ta`
 
-றோயல் செலஞ்சர்ஸ் பெங்களூர் (RCB) அணிக்கு எதிராக பெங்களூரு எம். சின்னஸ்வாமி விளையாட்டரங்கில் வெள்ளிக்கிழமை (29) நடைபெற்ற 17ஆவது இண்டியன் பிறீமியர் லீக் அத்தியாயத்தின் 10ஆவது போட்டியில் 7 விக்கெட்களால் மிக இலகுவாக கொல்கத்தா நைட் ரைடர்ஸ் (KKR) வெற்றியீட்டியது.
+KKR won RCB by 7 wickets in IPL 17, with KKR losing 3 wickets for 186 runs. Sunil Narain and Phil Sold scored 85 runs in Power Play. Virat Kohli scored a half-century for RCB.
 
-183 என்ற சற்று கடினமான வெற்றி இலக்கை நோக்கி பதிலுக்கு துடுப்பெடுத்தாடிய கொல்கத்தா நைட் ரைடர்ஸ் 16.5 ஓவர்களில் 3 விக்கெட்களை இழந்து 186 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+🟩
 
-சுனில் நரேன், ஃபில் சோல்ட், வெங்கடேஷ் ஐயர், அணித் தலைவர் ஷ்ரேயாஸ் ஐயர் ஆகியோரது அதிரடித் துடுப்பாட்டங்கள் கொல்கத்தா நைட் ரைடர்ஸின் வெற்றியை இலகுவாக்கின.
+Bangalore M. Kolkata Knight Riders (KKR) won by 7 wickets in the 10th match of the 17th Indian Premier League chapter held on Friday (29) at the Chinnaswamy Stadium.
 
-அத்துடன் இப் போட்டியில் றோயல் செலஞ்சர்ஸ் பெங்களூர் சார்பாக விராத் கோஹ்லி குவித்த அதிரடி அரைச் சதம் வீண்போனது.
+Kolkata Knight Riders lost 3 wickets in 16.5 overs with 186 runs.
 
-சுனில் நரேன் மற்றும் பில் சோல்ட் ஆகிய இருவரும் அதிரடியில் இறங்கி பவர் ப்ளேயில் விக்கெட் இழப்பின்றி 85 ஓட்டங்களைக் குவித்து கொல்கத்தா நைட் ரைடர்ஸுக்கு ஸ்திரமான ஆரம்பத்தை  இட்டுக்கொடுத்தனர்.
+Sunil Narain, Phil Sold, Venkatesh Iyer and team captain Shreyas Iyer's actions made the victory of Kolkata Knight Riders.
 
-அவர்கள் இருவரும் முதலாவது விக்கெட்டில் 86 ஓட்டங்களைப் பகிர்ந்திருந்தபோது சுனில் நரேன் ஆட்டம் இழந்தார்.
+In the match, Virat Kohli's action on behalf of Royal Challengers Bangalore was a half -century.
+
+Both Sunil Narain and Bill Sold got into action and scored 85 runs without a wicket in Power Play.
+
+Sunil Narain lost the game while both of them shared 86 runs in the first wicket.
+
+Sunil Narain, who faced only 22 balls, scored 47 runs with 5 sixes and 2 pounds.
+
+When the total number was 92 runs, the other batsman, Fil Sold, lost 30 runs off 20 balls.
+
+Following this, Venkatesh Iyer and Shreyas Iyer were bowled out for a stunning and shared 75 runs in 44 balls in the 3rd wicket.
+
+Venkatesh Iyer lost 50 runs off 30 balls with 4 sixes and 3 pounds.
 
 ...
 
 [Data](articles/63c4c234.json)
+
+[Extended Data](ext_articles/63c4c234.ext.json)
 
 ---
 

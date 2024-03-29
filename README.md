@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 19:03:10**
+As of **2024-03-29 19:18:04**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,565
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,939 (100.0%) of 15,941 articles have been extended.
+15,941 (100.0%) of 15,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### ජේකොබ් සූමා රිය අනතුරකට ලක්වෙයි
+### Jacob suffers to Zumara accident
 
 *2024-03-29 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195079) · `si`
 
-දකුණු අප්‍රිකානු හිටපු ජනාධිපති ජේකොබ් සූමා රිය අනතුරකට ලක්ව තිබේ.
+Jacob Zuma, former South African president, was involved in an accident with a drunk driver, but he was unharmed. Senior Agents accused of involvement. Zuma, 81, announced he won't run in next election.
 
-බීමත් රියදුරෙකු විසින් ධාවනය කරන ලද මෝටර් රථයක් හිටපු ජනාධිපතිවරයාගේ මෝටර් රථයේ ගැටීමෙන් අනතුර සිදුව ඇති නමුත් ඉන් ඔහුට අනතුරක් සිදුව නොමැති බව විදෙස් මාධ්‍ය වාර්තා පවසයි.
+🟩
 
-මෙම අනතුර හදිසි අනතුරක් ලෙස වාර්තා වුව ද එය කිසියම් සැලසුමක් අනුව ක්‍රියාත්මක වූවක් බවට සූමාගේ එම්කේ පක්ෂ ජ්‍යේෂ්ඨ නියෝජිතයින් චෝදනා කර ඇත.
+South African President Jacob Zuma has been in accident.
 
-2009 වසරේ සිට 2018 වසර දක්වා දකුණු අප්‍රිකානු ජනාධිපති ධුරයේ කටයුතු කළ 81 හැවිරිදි ජේකොබ් සූමා, ඉදිරි මහ මැතිවරණයට තරග කිරීමට සැලසුම් කර තිබුණ ද ඔහුට ඒ සඳහා ඉදිරිපත් විය නොහැකි බවට එරට මැතිවරණ කොමිසම ඊයේ (28) නිවේදනය කර තිබුණි.
+The accident had occurred when a drunk driver collided with the former president's car, but he had no accident.
+
+Senior Agents Senior Representatives have been accused of working as a result of the accident.
+
+The 81-year-old Jackan Sama of South African president from 2009 to 2018, the 81-year-old Jacob Zuma had announced that he could not contest the next general election.
 
 ◼️
 
 [Data](articles/a8025ab5.json)
+
+[Extended Data](ext_articles/a8025ab5.ext.json)
 
 ---
 
@@ -107,6 +113,8 @@ The Minister said the decision to scrap the Special Commodity Levy was taken as 
 ...
 
 [Data](articles/756f2a8f.json)
+
+[Extended Data](ext_articles/756f2a8f.ext.json)
 
 ---
 

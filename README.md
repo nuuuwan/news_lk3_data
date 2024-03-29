@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 15:33:32**
+As of **2024-03-29 15:51:52**
 
 ## Newspaper Stats
 
-*Scraped **15,917** Articles*
+*Scraped **15,919** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,88 @@ economynextcom | 874
 islandlk | 879
 adalk | 1,342
 tamilmirrorlk | 1,905
-adaderanalk | 1,911
+adaderanalk | 1,912
 virakesarilk | 2,256
 dailymirrorlk | 2,456
-adaderanasinhalalk | 2,560
+adaderanasinhalalk | 2,561
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,913 (100.0%) of 15,917 articles have been extended.
+15,917 (100.0%) of 15,919 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### ටෙස්ලා ට අභියෝග කරන චීන මෝටර් රථය
+### UN top court orders Israel to open more land crossings for aid into Gaza
+
+*2024-03-29 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98289/un-top-court-orders-israel-to-open-more-land-crossings-for-aid-into-gaza) · `en`
+
+The top United Nations court on Thursday ordered Israel to take measures to improve the humanitarian situation in Gaza, including opening more land crossings to allow food, water, fuel and other supplies into the war-ravaged enclave.
+
+The International Court of Justice issued two new so-called provisional measures in a case brought by South Africa accusing Israel of acts of genocide in its military campaign launched after the Oct. 7 attacks by Hamas. Israel denies it is committing genocide and accused South Africa of trying to ‘undermine Israel’s inherent right and obligation to defend its citizens.’
+
+Thursday’s order came after South Africa sought more provisional measures, including a cease-fire, citing starvation in Gaza. Israel, which had urged the court not to issue new orders, said it places no limits on aid entering Gaza and vowed to ‘promote new initiatives’ to bring in even more assistance.
+
+...
+
+[Data](articles/fc1ea9b7.json)
+
+---
+
+### ලෝක චොක්ලට් කර්මාන්තය දැඩි අවදානමක
+
+*2024-03-29 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195074) · `si`
+
+ඒ චොක්ලට් සඳහා වන ඉල්ලුම් ඉහළ ගියත් කෙකෝවා සැපයුම අඛණ්ඩව පවත්වා ගෙන යාමට සැපයුම්කරුවන් අපොහොසත් වීම හේතුවෙනි.
+
+ලෝකයේ කොකෝවා බීජ වගාවේ සියයට 90ක් පමණ සිදුවන්නේ හෙක්ටයාර 2කටත් අඩු භූමි ප්‍රමාණ තුළය.
+
+ලොව සමස්ත කොකෝවා නිෂ්පාදනයෙන් සියයට 75ක් පමණ සපයන්නේ අයිවරි කෝස්ට්, ඝානා, කැමරූන්, සහ නයිජීරියාව  යන රටවල්ය.
+
+බටහිර අප්‍රිකාවේ මිලියන ගණනක් වන ගොවීන් කොකෝවා නිෂ්පාදනය දුගී බවෙන් මිදීමට ඇති එකම මාර්ගය ලෙස සලකයි.
+
+කෙසේ වුව ද වසර 3ක් අඛණ්ඩව ලොව කොකෝවා නිෂ්පාදනය පහළ ගොස් තිබේ.
+
+විශේෂඥයින් මත පළකරන්නේ සිව්වන වසරටත් කොකෝවා නිෂ්පාදනය වාර්තාගත අන්දමින් පහළ යාමේ අවදානමක් උද්ගතව ඇති බවය.
+
+ලෝකය මුහුණ දී සිටින කාලගුණ විපර්යාසවල බලපෑමෙන් උෂ්ණත්වය ඉහළ යාම නිසා කොකෝවා අස්වැන්නට එල්ල වී ඇති බලපෑම මෙම තත්ත්වයට හේතු වී තිබේ.
+
+ඒ අනුව, ඝානාවේ කොකෝවා බීජ නිෂ්පාදනාගාර 8ක් පමණ මේ වනවිට වසා දමා ඇත.
+
+කොකෝවා සැකසුම් කිරීම සීමා කර ඇති අයිවරි කොස්ට් සහ ඝානාව ලොව කොකෝවා නිෂ්පාදනයේ 60%කටම දායක වේ.
+
+...
+
+[Data](articles/968dadde.json)
+
+---
+
+### Chinese car that challenges Tesla
 
 *2024-03-29 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195073) · `si`
 
-චීනයේ ශ්‍යව්මි සමාගම නිෂ්පාදනය කර ඇති විද්‍යුත් මෝටර් රථ සඳහා ඇණවුම් ලබාගැනීම ආරම්භ කර තිබේ.
+A Chinese electric car, priced at $29,872 (Yuan 215,900), challenges Tesla's market dominance. Critics argue the global demand for electric cars has decreased, but this model competes on price. Tesla's similar model in China is priced at 245,000 yuc.
 
-එම මෝටර් රථයේ SU7 නමැති මොඩලය ඩොලර් 29,872ක් (යුආන් 215,900) ලෙස මිල සඳහන් කර ඇත.
+🟩
 
-ලෝක වෙළෙඳපොළෙහි විද්‍යුත් මෝටර් රථ සඳහා ඇති ඉල්ලුම පහත බසිමින් තිබෙන අවස්ථාවක ශ්‍යව්මි සමාගම සිය නිෂ්පාදනය වෙළෙඳපොළට නිකුත් කර ඇති බව විචාරකයෝ පවසති.
+The electronic cars of China in China have begun orders.
 
-එමගින් වෙළෙඳපොළ තුළ මිල සඳහා ඇති තරගය තවත් දැඩි වෙතැයි අනුමාන කෙරේ.
+The model of the car has been mentioned as $ 29,872 (Yuan 215,900).
 
-ටෙස්ලා සමාගම චීන වෙළෙඳපොළට මෙම මොඩලය හා සමානම විද්‍යුත් මෝටර් රථයක් නිකුත් කර ඇති අතර එහි මිල යුආන් 245,000කි.
+Critics say that the demand for electrical cars in the world market was reduced to the market.
+
+It preserves the match for the price of the price in the market.
+
+Tesla has issued a similar electronic car to the Chinese market, which is the price of 245,000 yuc.
 
 ◼️
 
 [Data](articles/d24c0e11.json)
+
+[Extended Data](ext_articles/d24c0e11.ext.json)
 
 ---
 
@@ -69,6 +119,8 @@ PC 76216 Pathmasiri, PC 99695 Prathish and PC 102687 Ajith of the STF carried ou
 ◼️
 
 [Data](articles/f3411249.json)
+
+[Extended Data](ext_articles/f3411249.ext.json)
 
 ---
 
@@ -111,6 +163,8 @@ It is understood that one inmate was originally from Sravasthipura in Anuradhapu
 ◼️
 
 [Data](articles/a01b4de4.json)
+
+[Extended Data](ext_articles/a01b4de4.ext.json)
 
 ---
 
@@ -183,6 +237,8 @@ They were confiscated under Clause 7(01) of the Money Laundering Act.
 ◼️
 
 [Data](articles/dde04983.json)
+
+[Extended Data](ext_articles/dde04983.ext.json)
 
 ---
 
@@ -2197,59 +2253,5 @@ About 05 lakh tourists visit the country during the two months of January and Fe
 [Data](articles/99750451.json)
 
 [Extended Data](ext_articles/99750451.ext.json)
-
----
-
-### State Minister Sivanesathurai Chandrakanthan visits Kilinochchi
-
-*2024-03-29 01:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/179939) · `ta`
-
-State Minister Sivanesathurai Chandrakanthan laid the foundation stone for the Kilinochchi Bharathipura Sebasriyar Road reconstruction, funded by the Rural Roads Development Ministry. He also announced bridge renovation and road rehabilitation in the Kalmadu Nagar area.
-
-🟩
-
-The foundation stone for the reconstruction of the Kilinochchi Bharathipura Sebasriyar Road was held on Thursday (28) under the funding of the Rural Roads Development Ministry.
-
-Rural Roads Development Minister Sivanesathurai Chandrakanthan, Jaffna District Parliamentarian Anganjan Ramanathan, Wanni Parliamentarian Dileepan, Contractors, Divisional Secretaries, Village People and Road Authority Officers were also present.
-
-The Rural Roads Development Minister Sivanesathurai Chandrakanthan presented the launch of the bridge renovation and then laid down the bridge renovation.
-
-In addition, the main road in the Kalmadu Nagar area, which belongs to the Kandawala Divisional Secretariat Division, said that the main road in the Kalmadu Nagar area and the fundamental action would be taken to provide the relevant authorities to take immediate action to rehabilitate several small bridges.
-
-◼️
-
-[Data](articles/b7109c71.json)
-
-[Extended Data](ext_articles/b7109c71.ext.json)
-
----
-
-### Ryan Parak's Action Makes Rajasthan
-
-*2024-03-29 00:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179938) · `ta`
-
-Rajasthan Royals beat Telhi Capitles by 12 runs in Jaipur, thanks to Ryan Parak's 58 runs off 19 balls.
-
-🟩
-
-Rajasthan Royals won the Telhi Capitles by 12 runs in the most exciting Indian Premier League in the Sawai Mansingh Stadium in Jaipur on Thursday (28).
-
-Rajasthan Royals played a major role in the success of Ryan Barak.
-
-Rajasthan Royals, who were first invited to bat in the upting match, scored 185 runs for the loss of 5 wickets in 20 overs.
-
-The total number of Rajasthan Royals was 36 runs in the 8th over losing the match by the young player Yaswvi Jayeswal (5), team captain Sanju Semsan (15) and Jos Butler (11).
-
-However, Ryan Barak contributed to the three excellent merger and made the team strong.
-
-Ryan Parak shared with Ravichandran Ashwin with 54 runs in 37 balls, 52 runs in 23 balls with 23 balls with 23 balls and 43 runs in 16 balls in 6th wicket.
-
-Ryan Barak, who started the batting with relaxation, scored 26 runs off the first 26 balls he faced. But, he scored 58 runs off the next 19 balls. Ryan Barack did not lose 45 balls with 7 pounds and 6 sixes, with 25 runs in the last over.
-
-...
-
-[Data](articles/349e8c65.json)
-
-[Extended Data](ext_articles/349e8c65.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 11:03:11**
+As of **2024-03-29 11:18:05**
 
 ## Newspaper Stats
 
-*Scraped **15,872** Articles*
+*Scraped **15,873** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ tamilmirrorlk | 1,902
 adaderanalk | 1,903
 virakesarilk | 2,247
 dailymirrorlk | 2,450
-adaderanasinhalalk | 2,549
+adaderanasinhalalk | 2,550
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,869 (100.0%) of 15,872 articles have been extended.
+15,872 (100.0%) of 15,873 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### විශේෂ වෙළෙඳ භාණ්ඩ බද්ද වෙනුවට අලුත් බද්දක්
+
+*2024-03-29 11:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195063) · `si`
+
+විශේෂ වෙළෙඳ භාණ්ඩ බද්ද ලබන ජනවාරි මාසයේ සිට අහෝසි කිරීමට සිදුකළ යෝජනාව කැබිනට් මණ්ඩලය පිළිගත් බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ දේශීය නිෂ්පාදකයා ආරක්ෂා කිරීමට සහ පාරිභෝගිකයා ආරක්ෂා කිරීමට නව බද්දක් හඳුන්වා දෙන බවය.
+
+අද (29) උදෑසන රුවන්වැල්ල ප්‍රදේශයේදී මාධ්‍ය වෙත අදහස් දක්වමින් රාජ්‍ය අමාත්‍යවරයා මේ බව පැවසීය.
+
+ආනයන අපනයන බදු සරල කිරීම මෙම තීරණය ගැනීමට එක් හේතුවක් බවද ඔහු සඳහන් කළේය.
+
+◼️
+
+[Data](articles/c314622a.json)
+
+---
 
 ### Significant increase of HIV infections in Sri Lanka
 
@@ -45,6 +63,8 @@ Dr. Vidanapathirana made these remarks while joining a press briefing held in Co
 ◼️
 
 [Data](articles/bf386b69.json)
+
+[Extended Data](ext_articles/bf386b69.ext.json)
 
 ---
 
@@ -64,23 +84,31 @@ Plenty of seconds have been added over the years. But after a long trend of slow
 
 [Data](articles/b7d0bc85.json)
 
+[Extended Data](ext_articles/b7d0bc85.ext.json)
+
 ---
 
-### இன்று முதல் நாளை வரை ரயில் தாமதம்
+### The train delayed from today to tomorrow
 
 *2024-03-29 10:46:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-நாளை-வரை-ரயில்-தாமதம்/175-335339) · `ta`
 
-இன்று (29) முதல் நாளை மறுநாள் (31) வரை கரையோரப் பாதையில் ரயில்களை இயக்குவதில் சிறிது தாமதம் ஏற்படக்கூடும் என ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+Train service between Wellawatte and Fort delayed from today to tomorrow due to pipe maintenance. Service limited to a single rail. Normal service expected after next Sunday night.
 
-வெள்ளவத்தைக்கும் கோட்டைக்கும் இடையில் ரயில் சேவை ஒரு தண்டவாளத்துக்கு மட்டுப்படுத்தப்பட்டுள்ளதாக திணைக்களம் தெரிவித்துள்ளது.
+🟩
 
-நகர அபிவிருத்தி அதிகார சபையினால் வெள்ளவத்தை மற்றும் பம்பலப்பிட்டி ரயில் நிலையங்களுக்கு இடையில் குழாய் ஒன்றின் பராமரிப்பு காரணமாக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+The Railway Department said that there would be some delay in running trains on the coastal road from today (29) to the next day (31).
 
-எவ்வாறாயினும், எதிர்வரும் ஞாயிற்றுக்கிழமை இரவுக்குப் பின்னர் ரயில் சேவை வழமைக்குத் திரும்பும் என ரயில் திணைக்களம் மேலும் தெரிவித்துள்ளது.
+The department said that the train service between Wellawatte and the Fort has been limited to a rails.
+
+The action has been taken by the Urban Development Authority due to the maintenance of a pipe between Wellawatte and Bambalapitiya railway stations.
+
+However, the Railway Department further stated that the train service will return to normal after next Sunday night.
 
 ◼️
 
 [Data](articles/cdba0c8a.json)
+
+[Extended Data](ext_articles/cdba0c8a.ext.json)
 
 ---
 
@@ -2205,25 +2233,5 @@ The Court has also ordered the recovery of Rs. 500 and as a cash penal.
 [Data](articles/767f3d3d.json)
 
 [Extended Data](ext_articles/767f3d3d.ext.json)
-
----
-
-### Ven. Siridhamma Thera released from PTA charges
-
-*2024-03-28 18:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ven-Siridhamma-Thera-released-from-PTA-charges/108-279785) · `en`
-
-Colombo, March 28 (Daily Mirror) - The Colombo Chief Magistrate today ordered to release former Convenor of Inter University Bhikku Federation (IUBF) Ven. Galwewa Siridhamma Thera from a case filed for allegedly committing offences under the Prevention of Terrorism Act (PTA) during the Aragalaya protests in 2022.
-
-Colombo Chief Magistrate Prasanna Alwis made this order considering the insufficient evidence against the suspect for charges under the PTA.
-
-Ven. Siridhamma Thera was produced before court on November 23, 2022 after being detained under the Prevention of Terrorism Act (PTA) for 89 days.
-
-On a previous occasion, former Convenor of Inter University Students' Federation (IUSF) Wasantha Mudalige was also released from the case filed against him over similar allegations. He was ordered to be released from the case after spending five months in prison.
-
-...
-
-[Data](articles/b667a5a6.json)
-
-[Extended Data](ext_articles/b667a5a6.ext.json)
 
 ---

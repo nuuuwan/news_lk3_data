@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 21:18:18**
+As of **2024-03-29 21:33:26**
 
 ## Newspaper Stats
 
-*Scraped **15,949** Articles*
+*Scraped **15,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 1,342
 tamilmirrorlk | 1,907
 adaderanalk | 1,916
 virakesarilk | 2,265
-dailymirrorlk | 2,461
-adaderanasinhalalk | 2,568
+dailymirrorlk | 2,464
+adaderanasinhalalk | 2,569
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,949 (100.0%) of 15,949 articles have been extended.
+15,949 (100.0%) of 15,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### බංගලි මාධ්‍යයට ධනංජයගෙන් සැර පිළිතුරක්
+
+*2024-03-29 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195083) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර දෙවන සහ අවසන් ටෙස්ට් ක්‍රිකට් තරගය චැටොග්‍රෑම් හිදි හෙට (30)ආරම්භ වීමට නියමිතය.
+
+තරග 2කින් සමන්විත මෙම තරගාවලියේ 1ට බින්දුවක් ලෙස ශ්‍රී ලංකා කණ්ඩායම පෙරමුණ ගෙන සිටින්නේ පළමු ටෙස්ට් තරගය ලකුණු 328 ක විශිෂ්ට ජයක් හිමිකරගනිමින්.
+
+දෙවන ටෙස්ට් තරගය සඳහා ශකීබ් අල්හසන් යළි බංග්ලාදේශය පිලට කැඳවීම සම්බන්ධයෙන් අද (29) පැවැති ප්‍රවෘත්ති සාකච්ඡාවේදී මාධ්‍යවේදියෙකු නැගූ ප්‍රශ්නයකට ධනංජය ද සිල්වා ලබාදුන්නේ මෙවන් පිළිතුරකි.
+
+ධනංජය ද සිල්වා - "මම මොකටද කියන්නේ? එයා මගේ කණ්ඩායමේ නෙමෙයි. බංග්ලාදේශ කණ්ඩායමෙන් තමයි අහන්න ඕනේ."
+
+◼️
+
+[Data](articles/5d3d4f48.json)
+
+---
+
+### Ven. Gnanasara Thera admitted to Prison Hospital
+
+*2024-03-29 21:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ven-Gnanasara-Thera-admitted-to-Prison-Hospital/108-279843) · `en`
+
+Colombo, March 29 (Daily Mirror) - Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thera who was sentenced to four years of rigorous imprisonment has been admitted to the Prison Hospital, Prisons Spokesman Gamini Dissanayake said.
+
+The Colombo High Court Judge Aditya Patabendige handed down the sentence on Thursday (March 28), following Ven. Gnanasara Thera's defamatory comments against Islam made in late 2016.
+
+It was reported that Ven. Gnanasara Thera had been undergoing medical treatment prior to his sentencing and hence was referred to the Prison Hospital for treatment.
+
+◼️
+
+[Data](articles/fc8e22bc.json)
+
+---
 
 ### The expectation is to see Sri Lanka cricket again in the world;Politics and sport should be maintained separately -the president
 
@@ -298,6 +332,18 @@ The Minister said the decision to scrap the Special Commodity Levy was taken as 
 
 ---
 
+### Easter security beefed up...
+
+*2024-03-29 18:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Easter-security-beefed-up/110-279838) · `en`
+
+Security has been beefed up at all churches in view of Good Friday and Easter Sunday. The IGP has instructed the OICs to meet with the priests and boards of trustees of churches to prepare security plans that will be tailored according to the needs of each church while the Holy Masses are in progress today and tomorrow. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/560c380f.json)
+
+---
+
 ### Gnanasara Thera suddenly admitted to the Prison Hospital
 
 *2024-03-29 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/179981) · `ta`
@@ -551,6 +597,26 @@ The United Nations has also shown that the conditions of women and girls in Afgh
 [Data](articles/1527ab39.json)
 
 [Extended Data](ext_articles/1527ab39.ext.json)
+
+---
+
+### MI skipper Pandya shoves off Malinga after losing to SRH, netizens slam his behaviour
+
+*2024-03-29 16:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/MI-skipper-Pandya-shoves-off-Malinga-after-losing-to-SRH-netizens-slam-his-behaviour/155-279833) · `en`
+
+Mar. 29 (FPJ) - Hardik Pandya received a hostile reception from the crowd in Ahmedabad and Hyderabad as he was booed during the toss and also subjected to jeers throughout the match.
+
+Mumbai Indians skipper Hardik Pandya has been in the news for all the wrong reasons ever since the start of the team's campaign in the Indian Premier League (IPL) 2024. Pandya faced a backlash from MI fans for replacing Rohit Sharma as a captain.
+
+Does Hardik Pandya kicked Lasith Malinga? His hands, face reaction same story.
+
+Not a good way to treat legend like Lasith Malinga. #HardikPandya #SRHvMI pic.twitter.com/Yg5a5hNRTE
+
+Hardik Pandya received a hostile reception from the crowd in Ahmedabad and Hyderabad as he was booed during the toss and also subjected to jeers throughout the match. To make it worse, the all-rounder didn't have a good start to start to his captaincy debut with Mumbai Indians as the five-time IPL champions lost to two back to back of the ongoing IPL season.
+
+...
+
+[Data](articles/50db6ab9.json)
 
 ---
 
@@ -2239,99 +2305,5 @@ Specialist mediation Dr. Janaki Vidanathirana stated this while participating at
 [Data](articles/bed03932.json)
 
 [Extended Data](ext_articles/bed03932.ext.json)
-
----
-
-### Friday today
-
-*2024-03-29 07:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195057) · `si`
-
-Today, Christians worldwide celebrate Good Friday (29), focusing on meditation, fasting, and devotion. Jesus Christ's crucifixion is remembered, and special security measures are in place for church services and Easter ceremonies, with assistance from STF personnel and intelligence officers.
-
-🟩
-
-The world's guests around the world are celebrated today (29).
-
-Christians who meditate in the film, fasting, fasting, and devotion to devotion to the devotion to the devotion of the devotees, will be held today.
-
-Thus, Jesus Christ is remembered on the cross on the cross today, and he is released on Sunday, or on Sunday.
-
-Meanwhile, a special security program has been implemented in the church services and ceremonies held in the churches held in the churches in the church today and the Easter.
-
-The Police Headquarters also obtained the assistance of STF personnel, intelligence officers, intelligence officers and stage officers.
-
-◼️
-
-[Data](articles/b96de243.json)
-
-[Extended Data](ext_articles/b96de243.ext.json)
-
----
-
-### Sri Lanka trade deficit up 77-pct to Feb, imports surge, rupee appreciates
-
-*2024-03-29 07:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-deficit-up-77-pct-to-feb-imports-surge-rupee-appreciates-156552/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s trade deficit widened 817 percent to 319 million dollars in February 2024, from 39 million dollars and imports rose 35 percent, official data showed, while the rupee was allowed to appreciate amid deflationary monetary policy.
-
-In February merchandise exports went up 7.9 percent to 1,059 million dollars, and imports surged 35 percent to 1378 million US dollars, central bank data showed.
-
-In the two months to February 2024, exports to went up 3.6 percent to 2,030 million US dollars, imports went up 18.2 percent to 2,890 million dollars.
-
-The trade deficit widened 77 percent to 860 million dollars in the two months from 484 million dollars last year.
-
-The rupee was allowed to appreciate to 310 to the US dollar by end February from 323 to the US dollar by in December 2024 as the central bank operated deflationary policy and mopped up liquidity from dollar purchases.
-
-...
-
-[Data](articles/707ff73d.json)
-
-[Extended Data](ext_articles/707ff73d.ext.json)
-
----
-
-### South Africa fatal bus accident
-
-*2024-03-29 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195056) · `si`
-
-A fatal bus accident in South Africa killed 45 people traveling to Passover. The bus fell from a bridge into another, with only an 8-year-old girl surviving, seriously injured.
-
-🟩
-
-A bus carrying a group of people who were traveling to participate in the Passover service, 45 people were killed in crashing in South Africa.
-
-It was reported that the group had traveled from Gaborron to participate in the incom of church in Moraiya Limpitiya.
-
-The bus has fallen away from a bridge and fell into a bridge in a bridge.
-
-Only 8-year-old girl has survived and has been hospitalized and hospitalized was seriously injured.
-
-◼️
-
-[Data](articles/3d05e1aa.json)
-
-[Extended Data](ext_articles/3d05e1aa.ext.json)
-
----
-
-### Do not click on links shared on social media platforms: SLCERT
-
-*2024-03-29 07:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Do-not-click-on-links-shared-on-social-media-platforms-SLCERT/108-279815) · `en`
-
-Colombo, March 28 (Daily Mirror) - Sri Lanka Computer Emergency Readiness Team (SLCERT) requested people not to click on links shared on social media platforms claiming to receive presents given by popular brand names and their trade marks.
-
-SLCERT Senior Information Security Engineer Charuka Damunupola said those links may be received via SMS, WhatsApp, X formerly known as Twitter, Facebook now known as Meta and as a call received on their mobile phone.
-
-Damunupola requests the public to first confirm the authenticity of the requests before responding to them. These kinds of links can be received through your friend groups, he said.
-
-The SLCERT investigations revealed that clicking on certain social media links can lead to privacy breaches.
-
-Clicking on those fraudulent links will lead to breaching of personnel details such as your National Identity Card (NIC), driving licence, bank account details, One Time Password (OTP), workplace details.
-
-...
-
-[Data](articles/650dc67b.json)
-
-[Extended Data](ext_articles/650dc67b.ext.json)
 
 ---

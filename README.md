@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 14:51:02**
+As of **2024-03-29 15:03:29**
 
 ## Newspaper Stats
 
-*Scraped **15,908** Articles*
+*Scraped **15,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,78 +15,132 @@ newsfirstlk | 363
 dailyftlk | 862
 economynextcom | 874
 islandlk | 879
-adalk | 1,341
+adalk | 1,342
 tamilmirrorlk | 1,905
 adaderanalk | 1,910
-virakesarilk | 2,255
-dailymirrorlk | 2,451
+virakesarilk | 2,256
+dailymirrorlk | 2,454
 adaderanasinhalalk | 2,559
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,905 (100.0%) of 15,908 articles have been extended.
+15,908 (100.0%) of 15,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### වතුපාසල් සඳහා ගුරු සහායක පත්වීම් 2,535ක්
+### நுவரெலியாவில் ஆடை தொழிற்சாலை ஊழியர்களின் போராட்டம் மூன்றாவது நாளாகவும் தொடர்கிறது
 
-*2024-03-29 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195072) · `si`
+*2024-03-29 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179969) · `ta`
 
-ඉදිරි සති කිහිපය ඇතුළත වතු පාසල් සඳහා ගුරු සහායකින් 2,535ක් සඳහා අයදුම්පත් කැඳවීමට අදාළ ගැසට් නිවේදනය පළ කිරීමට අපේක්ෂා කරන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+நுவரெலியா - உடப்புசல்லாவ பிரதான வீதியில் ஹாவா எலிய பகுதியில் இயங்கி வரும் தனியார் ஆடை தொழிற்சாலையில் பணியாற்றும் ஊழியர்கள் வருடாந்தம் ஏப்ரல் மாதம் வழங்கப்படும் மேலதிக கொடுப்பனவை கேட்டு கடந்த புதன்கிழமை (27) தொடக்கம் இன்று வெள்ளிக்கிழமை  (29) வரை தொடர்ந்து எதிர்ப்பு ஆர்ப்பாட்டத்தில் ஈடுபட்டு வருதோடு, அத்துடன் வேலை நிறுத்தமும் மேற்கொண்டு வருகின்றனர்.
 
-එළඹෙන මැයි මාසය වන විට ඒ අනුව එම පිරිස බඳවා ගැනීමට සහ මූලික පුහුණුවක් ලබා දී පාසල් වෙත යොමු කිරීමට අපේක්ෂිත බවද තවදුරටත් කරුණු දක්වමින් අමාත්‍යවරයා කියා සිටියේය.
+குறித்த ஆடைத் தொழிற்சாலையில் 900க்கும் மேற்பட்ட ஊழியர்கள் பணியாற்றுகின்றனர். வருடாந்தம் தங்களுக்கு வழங்கப்படும்  மேலதிக கொடுப்பனவு பணத்தினை வழங்கவேண்டும் என வலியுறுத்தியே மேற்படி போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
 
-වතු පාසල්වල විශාල ගුරු හිඟයක් තවමත් පවත්නා බවත් අධ්‍යාපන විද්‍යාපීඨවලට පවා සුදුසුකම් සපුරන සිසුන් ඉතා අඩු බවත් උපාධිධාරීන් සිටින්නේද අතලොස්සක් බවත් පෙන්වා දුන් අමාත්‍යවරයා ඒ සඳහා විසඳුම් වශයෙන් දැනට ඌව සහ මධ්‍යම පළාතේ සිටින උපාධිධාරීන් වෙත ගුරු පත්වීම් ලබාදීමට පියවර ගන්නා ලෙස අදාළ පළාත් බලධාරීන්ගෙන් තමා ඉල්ලා සිටි බවද පැවසීය.
-
-ගුරු සේවා ව්‍යවස්ථාව අනුව සුදුසුකම් ඇති ගුරු සහායකයින් පන්සියයක් බඳවා ගැනීමට රාජ්‍ය සේවා කොමිෂන් සභාවෙන් අධ්‍යාපන අමාත්‍යාංශයට අවසර ලබා දී ඇති බවත් ඔවුන් වසර තුනක් ඇතුළත ගුරු මධ්‍යස්ථාන මඟින් ඩිප්ලෝමා මට්ටමින් පුහුණු කර පාසල් වෙත යොමු කිරීමට කටයුතු යොදන බවත් අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේය.
+இரண்டாவது நாள் முதல் பிரதான வீதியோரம் அமர்ந்து எதிர்ப்பு வசனங்கள் எழுதப்பட்ட பதாதைகளை ஏந்தியவாறு கோஷங்களை எழுப்பி ஊழியர்கள் போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
 
 ...
 
-[Data](articles/419c7fd5.json)
+[Data](articles/39cfaa50.json)
 
 ---
 
-### ‘யுக்திய’ நடவடிக்கை : இதுவரை பாதாள உலக குழுவைச் சேர்ந்த 186 பேர் கைது
+### 2,535 Teachers' Assistant appointments for estate estates
+
+*2024-03-29 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195072) · `si`
+
+The Minister of Education, Susil Premajayantha, announced the recruitment of 2,535 teachers' assistants for estate schools, with the first recruits expected by May. This move aims to address the shortage of teachers in these schools, particularly in the Uva and Central provinces. The Ministry has received permission from the Public Service Commission to recruit these assistants, ensuring they meet the teacher service constitution's qualifications.
+
+🟩
+
+Minister of Education Susil Premajayantha says that the gazette notification is expected to be recruited to the call for 2,535 teachers' support for estate schools within the next few weeks.
+
+The Minister said that the public will be recruited and paid to schools by the coming May.
+
+The Minister said that a large number of teachers in estate schools is still available and the students who are eligible to meet the graduates in the Uva and Central provinces..
+
+The Minister further stated that the Ministry of Education has granted permission from the Public Service Commission to recruit five hundred teacher assistants who have qualified according to the teacher service constitution.
+
+Minister of Education Susil Premajayantha says he is expected to continue through alternative solutions or continuing the education system when it is a challenge.
+
+◼️
+
+[Data](articles/419c7fd5.json)
+
+[Extended Data](ext_articles/419c7fd5.ext.json)
+
+---
+
+### 186 arrested in the underworld group
 
 *2024-03-29 14:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/179967) · `ta`
 
-நாடளாவிய ரீதியில் போதைப்பொருள் வர்த்தகர்கள் மற்றும் விநியோகிக்கும் வலையமைப்பை கட்டுப்படுத்தும் நோக்கில், முன்னெடுக்கப்படும் ‘யுக்திய’ விசேட சோதனை சுற்றிவளைப்புகளில் பாதாள உலகக் கும்பலுடன் தொடர்புடைய 186 பேர் கைது செய்யப்பட்டுள்ளனர்.
+186 arrested in underworld group's largest drug trade roundup, March 19-28. 10 more suspects arrested yesterday. Over 10 crore assets seized, including 2 boats, 3 three-wheelers, motorcycles, and land.
 
-மார்ச் 19 ஆம் திகதி முதல் 28 அம் திகதி வரை மேற்கொள்ளப்பட்ட விசேட சுற்றிவளைப்பின் போது சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-இந்நிலையில், நேற்றைய தினம் மேற்கொள்ளப்பட்ட சுற்றிவளைப்புகளின் போது பாதாள உலக குழுக்களுடன் தொடர்புடைய 10 சந்தேக நபர்களும், அவர்களுக்கு உதவியதாக சந்தேகிக்கப்படும் 05 நபர்களும் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+A total of 186 people have been arrested in connection with the underworld gang in the special test rounds of the largest number of drug traders and distribution traders nationwide.
 
-இதேவேளை, பாதாள உலக குழுவைச் சேர்ந்தவர்களின் 10 கோடிக்கும் அதிகமான சொத்துகள் பொலிஸ் சட்டவிரோத சொத்துக்கள் விசாரணைப் பிரிவினரால் கைப்பற்றப்பட்டுள்ளன.
+The suspects have been arrested during a special roundup, which was carried out from March 19 to 28.
 
-சட்டவிரோதமான சொத்துக்களில் 02 இழுவை படகுகள், முச்சக்கர வண்டிகள், மோட்டார் சைக்கிள்கள் மற்றும் காணிகள் உள்ளடங்குவதாக பொலிஸார் தெரிவித்தனர்.
+In the meantime, 10 suspects in connection with the underworld groups have been arrested by the police during yesterday's rounds of raids.
 
-காலி, அம்பலாங்கொட மற்றும் அஹுங்கல்ல ஆகிய இடங்களில் உள்ள பொலிஸ் சட்டவிரோத சொத்துக்கள் விசாரணைப் பிரிவின் அதிகாரிகளினால் இவை கைப்பற்றப்பட்டுள்ளன.
+Meanwhile, more than 10 crore assets of the underworld group have been seized by the police illegal assets.
+
+Illegal assets include 2 boats, three -wheelers, motorcycles and land, police said.
+
+These have been seized by the police officers of the Investigation Unit of Police in Galle, Ambalangoda and Ahungalla.
 
 ◼️
 
 [Data](articles/8dcefd3f.json)
 
+[Extended Data](ext_articles/8dcefd3f.ext.json)
+
 ---
 
-### අනුරාධපුර බන්ධනාගාරයේ සිරකරුවන් දෙදෙනෙකු පළා යයි
+### Police confiscate vehicles, property worth over Rs. 1,100 mn
+
+*2024-03-29 14:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-confiscate-vehicles-property-worth-over-Rs-1-100-mn/108-279829) · `en`
+
+Colombo, March 29 (Daily Mirror)- A fleet of vehicles and property worth over Rs. 1,100 million have been confiscated by the Police Illegal Assets and Property Investigation Unit today.
+
+Police said a freezer truck, two motorbikes, two three-wheelers, a van, a backhoe and three fishing trawlers are among the vehicles that were confiscated.
+
+The vehicles and property had been taken into custody on January 21, 26 and March 27.
+
+They were confiscated under Clause 7(01) of the Money Laundering Act.
+
+◼️
+
+[Data](articles/ed0c582b.json)
+
+---
+
+### Two prisoners in Anuradhapura prison
 
 *2024-03-29 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195071) · `si`
 
-අනුරාධපුර බන්ධනාගාරයේ එළිමහන් සිරකඳවුරෙහි මහජනතාවට විවෘත කර ඇති ආපනශාලාවේ සේවය කළ සිරකරුවන් දෙදෙනෙකු අද (29) දහවල් එම ස්ථානයෙන් පළා ගොස් තිබේ.
+Two prisoners from Anuradhapura Prison escaped today. One from Sravasthipura, the other from Kelaniya. They changed clothes and are being searched for by prison officers and police.
 
-එම එක් සැකකරුවකු අනුරාධපුර ශ්‍රාවස්තිපුර ප්‍රදේශයේ හා අනෙක් සැකකරු කැලණිය ප්‍රදේශයේ පදිංචිකරුවන් බව බන්ධනාගාර ආරංචි මාර්ග පවසයි.
+🟩
 
-මොවුන් දෙදෙනා පැළඳ සිටි බන්ධනාගාර ඇඳුම් ඉවත් කොට වෙනත් ඇඳුම් ඇදගෙන මෙසේ පළා ගොස් ඇතැයි වාර්තා වේ.
+Two prisoners served at the cafeteria opened at the Anuradhapura Prison have fled the area today (29).
 
-පළා ගිය සිරකරුවන් සොයා අනුරාධපුර බන්ධනාගාර නිලධාරීන් සහ පොලීසිය මෙහෙයුමක් ආරම්භ කර බව වාර්තා වේ.
+The suspect is residents of Sravasthipura area in Anuradhapura and the other suspect in the Kelaniya.
+
+It is reported that the two prison clothes were removed and other clothes were pulled.
+
+It is reported that the Anuradhapura Prison officers and the police have launched an operation in search of prisoners.
 
 ◼️
 
 [Data](articles/d80d99c0.json)
+
+[Extended Data](ext_articles/d80d99c0.ext.json)
 
 ---
 
@@ -184,6 +238,18 @@ Police Media Spokesman, DIG's Court Attorney Nihal Talduuwa said. If you do a sp
 
 ---
 
+### Future Harvest Expo 2024
+
+*2024-03-29 13:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Future-Harvest-Expo-2024/110-279827) · `en`
+
+Future Harvest - EXPO 2024 exhibition was hosted at the Bandaranaike Memorial International Conference Hall (BMICH) today. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/a2b63624.json)
+
+---
+
 ### Underworld's re-seized
 
 *2024-03-29 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195068) · `si`
@@ -247,6 +313,26 @@ Former parliamentarian P Harrison, a spokesman for Wickremesinghe’s United Nat
 [Data](articles/6d44b0bc.json)
 
 [Extended Data](ext_articles/6d44b0bc.ext.json)
+
+---
+
+### ඇහැලකණුවේ මීටර් 100ක ප්‍රපාතයකට විදේශිකයෙකු ඇදවැටෙයි
+
+*2024-03-29 13:05:11* · [`adalk`](https://www.ada.lk/breaking_news/ඇහැලකණුවේ-මීටර්-100ක-ප්‍රපාතයකට-විදේශිකයෙකු-ඇදවැටෙයි/11-408845) · `si`
+
+රත්නපුර ශ්‍රි පාද මාර්ගයේ ඇහැලකණුව ප්‍රදේශයේදි ආරක්ෂිත වැටෙන් ඉවතට වැටි මිටර් 100ක  පමණ ප්‍රපාතයට ඇද වැටි සිටි ඉන්දිය ජාතික තරුණයෙකු ඉන් මුදවාගෙන ප්‍රතිකාර ලබා දි රෝහල් ගත කිරිමට මස්කෙලිය පොලිස් විශේෂ කාර්ය බලකායේ නිලධාරින් පියවර ගෙන ඇත.
+
+මෙසේ තුවාල ලබා ඇත්තේ ඉන්දියාවේ මුම්බායි මහාරාට්‍රහි පදිංචි 25 හැවිරි තරුණයෙකි.
+
+මෙම තරුණයා තවත් පිරිසක් සමග රත්නපුර ශ්‍රි පාද මාර්ගය ඔස්සේ ශ්‍රි පාද උඩ මළුව වෙත ගමන්කරන අතර තුර අද  (29) දින අලුයම 4ට පමණ මෙම සිදුවීම වී ඇත.
+
+සිදුවිම සම්බන්ධයෙන් ශ්‍රි පාද උඩ මළුව පොලිස් මුරපොලේ නිලධාරින් පොලිස් විශේෂ කාර්ය බලකායේ නිලධාරින් දැනුවත් කිරිමෙන් පසු වහාම ක්‍රියාත්මක වු පොලිස් විශේෂ කාර්ය බලකායේ නිලධාරින් දැඩි පරිශ්‍රමයක් දරා ප්‍රපාතයට වැටි සිටි තරුණයා ඉන් මුදවාගෙන ශ්‍රි පාද උඩ මළුව වෙත රැගෙන ගොස් ප්‍රතිකාර ඒකකයෙන් ප්‍රතිකාර ලබා දි ඇත.
+
+සිද්ධිය සම්බන්ධයෙන් නල්ලතන්නිය පොලිස් ස්ථානය දැනුවත් කර තුවාලකරු සමග ඉන්දියාවේ සිට ශ්‍රි පාදයේ පැමිණි පිරිස සමග රෝහල් ගත කිරිමට නල්ලතන්නිය දක්වා රැගෙන යාමට කටයුතු කර ඇත.
+
+◼️
+
+[Data](articles/f0fcdc2a.json)
 
 ---
 
@@ -499,6 +585,18 @@ Therefore, they may not be affected, so they should not share those links with o
 [Data](articles/f457a195.json)
 
 [Extended Data](ext_articles/f457a195.ext.json)
+
+---
+
+### Good Friday!
+
+*2024-03-29 12:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Good-Friday/110-279825) · `en`
+
+The Wellapalliya parish of Elakanda Watthala Christians are seen carrying the cross in their traditional way to mark the Good Friday in which Christians commemorate the death of Jesus Christ who was crucified at Calvary 2024 years ago. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/c0469bf2.json)
 
 ---
 
@@ -2136,7 +2234,7 @@ Sri Lankan Christians also conveyed a similar and strong message when their kith
 
 An injured man is helped outside Ahli Arab Hospital in Gaza City: The United Nations says the Gaza Strip’s health system is collapsing. AFP
 
-The Moscow terror attack, conveniently claimed by the so-called Islamic State, a.k.a. ISIS, and the diplomatic circus at the United Nations Security Council on Tuesday in passing a Gaza ceasefire resolution may appear disconnected at first glance. But there is enough interconnection between the two tragedies.
+The Moscow terror attack, conveniently claimed by the so-called Islamic State, a.k.a. ISIS, and the diplomatic circus at the United Nations Security Council on Tuesday in passing a Gaza ceasefire resolution may appear disconnected at first glance. But there is enough interconnection between the two tragedies.
 
 First, let’s discuss the ISIS connection. The Friday evening terror attack at the Crocus City Hall on the outskirts of Moscow has revealed the mercenary character of ISIS. Questions have always lingered about the Islamic credentials of ISIS since its birth from the ashes of Abu Musab al-Zarqawi’s Al-Qaeda in Iraq (AQI) in 2011.
 
@@ -2145,121 +2243,5 @@ First, let’s discuss the ISIS connection. The Friday evening terror attack at 
 [Data](articles/987230e0.json)
 
 [Extended Data](ext_articles/987230e0.ext.json)
-
----
-
-### Short term parate suspension will not significantly impact financial sector: CB
-
-*2024-03-29 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Short-term-parate-suspension-will-not-significantly-impact-financial-sector-CB/108-279800) · `en`
-
-The Central Bank this week noted that the government’s move to suspend the rights of banks to exercise parate execution will not have severe implications on the financial sector since it is a short term measure.
-
-While concerns have been raised in this regard by both, the banks and borrowers, Central Bank Governor Dr. Nandalal Weerasinghe said there is no need to worry as yet.
-
-“The government’s decision is to suspend only for six months. I don’t think that will have a significant impact,” said Dr. Weerasinghe responding to a question raised at the Monetary Policy briefing held this week.
-
-Despite repeated warnings by banks, the Cabinet approved the draft Recovery of Loans By Banks (Special Provisions, Amended) Act to suspend parate rights of banks until 15th of December this year.
-
-...
-
-[Data](articles/fb2ed5ed.json)
-
-[Extended Data](ext_articles/fb2ed5ed.ext.json)
-
----
-
-### 2024-03-28 (Thursday)
-
-### Sri Lanka seeks manager to exchange restructured ISBs as talks begin
-
-*2024-03-28 23:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-manager-to-exchange-restructured-isbs-as-talks-begin-156524/) · `en`
-
-ECONOMYNEXT- Sri Lanka has requested proposals from banks to manage an exchange restructured bonds as the Indian Ocean island begings talks to re-structure international sovereign bonds this week.
-
-The firm should have experience being a “Dealer Manager or similar in sovereign bond exchange
-
-offers, consent solicitations and other liability management exercises in relation to
-
-sovereign bonds” within the last five years, a notice posted on the Finance Ministry website said.
-
-Applications should submit a proposed execution strategies for the Exchange Offer, including proposed execution timeline and strategy for maximizing the chances of success of the Exchange Offer.
-
-Sri Lanka is starting discussions with bondholders this week in London to restructure bonds.
-
-Related Sri Lanka team to Europe to begin negotiations with bondholders: President
-
-According to previous information as least a 30 percent hair cut and cuts in coupons are requested.
-
-...
-
-[Data](articles/80c5b471.json)
-
-[Extended Data](ext_articles/80c5b471.ext.json)
-
----
-
-### Namal contest in presidential election?
-
-*2024-03-28 23:49:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலில்-நாமல்-போட்டி/175-335330) · `ta`
-
-Prasanna Ranatunga, Sri Lanka's Minister of Urban Development and Housing, suggests that a presidential candidate with experience from 5-10 years ago could bring a fresh perspective to the election. He also denies knowing any presidential candidate in the Sri Lanka PA.
-
-🟩
-
-Prasanna Ranatunga, the chief organizer of the ruling party and the Minister of Urban Development and Housing, said,
-
-He may have the experience of participating in the competition in the fifth to ten years. At that time, he had the opportunity to start the election and create a new background.
-
-If you can accept that challenge and expect it, it is okay to accept that responsibility.
-
-He also informed the media that I do not know the name of a presidential candidate in the Sri Lanka PA. Remble
-
-◼️
-
-[Data](articles/32f51bb3.json)
-
-[Extended Data](ext_articles/32f51bb3.ext.json)
-
----
-
-### Pornography of boys' pornographic and videos
-
-*2024-03-28 23:41:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களின்-ஆபாச-படங்கள்-காணொளிகளை-உடனடியாக-நீக்கும்-வழி-முறை/175-335329) · `ta`
-
-President Ranil Wickremesinghe launched a cyber safety initiative to protect children from online abuse, partnering with the National Child Protection Authority and the UK's Internet Watch Foundation. The initiative aims to remove harmful content and take legal action against perpetrators.
-
-🟩
-
-President Ranil Wickremesinghe was launched today (28) at the Presidential Office headed by President Ranil Wickremesinghe.
-
-Children are affected by the cyber web site due to children's abuse incidents or the web pages, photos and videos that can be trapped in children.
-
-The National Child Protection Authority, one of the world's leading Internet Child Protection Confirmation Institutions, the United Kingdom Internet Watch Foundation - The program is being carried out with the IWF and provided the Save the Children & Child its financial assistance.
-
-After the introduction of this internet system, the National Child Protection Authority can lodge a complaint with the National Child Protection Authority with the help of the National Child Protection Authority www.childprotection.gov.lk.. The company will then remove the video from the Internet and take legal action against the suspects.
-
-...
-
-[Data](articles/a3021ed6.json)
-
-[Extended Data](ext_articles/a3021ed6.ext.json)
-
----
-
-### PM Dinesh urges Asian countries to rededicate to eradicate poverty
-
-*2024-03-28 22:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98274/pm-dinesh-urges-asian-countries-to-rededicate-to-eradicate-poverty) · `en`
-
-Sri Lanka’s Prime Minister Dinesh Gunawardena on Thursday called upon the Asian countries to rededicate themselves to building an Asia, free from poverty where prosperity is equitably shared.
-
-Addressing the BOAO Forum for Asia Annual Conference 2024 in Hainan in China, he praised China’s “miraculous success story of lifting millions of people from poverty to a higher living standard under the able leadership of President Xi Jinping,” and added that concept provides a pathway for other countries faced with the problem of poverty.
-
-The Prime Minister called for new initiatives to ensure agricultural growth and food security, as it would not only ensure poverty eradication but also social harmony and peace. He emphasised the imperative need for harnessing renewable energy resources.
-
-...
-
-[Data](articles/58cc9cef.json)
-
-[Extended Data](ext_articles/58cc9cef.ext.json)
 
 ---

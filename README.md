@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 18:51:48**
+As of **2024-03-29 19:03:10**
 
 ## Newspaper Stats
 
-*Scraped **15,939** Articles*
+*Scraped **15,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,56 @@ adalk | 1,342
 tamilmirrorlk | 1,907
 adaderanalk | 1,915
 virakesarilk | 2,263
-dailymirrorlk | 2,458
-adaderanasinhalalk | 2,564
+dailymirrorlk | 2,459
+adaderanasinhalalk | 2,565
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,938 (100.0%) of 15,939 articles have been extended.
+15,939 (100.0%) of 15,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
 
-### பொதுத் தேர்தல் இடம்பெற்றால் எந்த கட்சிக்கும் பெரும்பான்மை கிடைக்கப்போவதில்லை - ஐ.தே.க பிரதித் தலைவர் ருவன் விஜேவர்த்தன
+### ජේකොබ් සූමා රිය අනතුරකට ලක්වෙයි
+
+*2024-03-29 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195079) · `si`
+
+දකුණු අප්‍රිකානු හිටපු ජනාධිපති ජේකොබ් සූමා රිය අනතුරකට ලක්ව තිබේ.
+
+බීමත් රියදුරෙකු විසින් ධාවනය කරන ලද මෝටර් රථයක් හිටපු ජනාධිපතිවරයාගේ මෝටර් රථයේ ගැටීමෙන් අනතුර සිදුව ඇති නමුත් ඉන් ඔහුට අනතුරක් සිදුව නොමැති බව විදෙස් මාධ්‍ය වාර්තා පවසයි.
+
+මෙම අනතුර හදිසි අනතුරක් ලෙස වාර්තා වුව ද එය කිසියම් සැලසුමක් අනුව ක්‍රියාත්මක වූවක් බවට සූමාගේ එම්කේ පක්ෂ ජ්‍යේෂ්ඨ නියෝජිතයින් චෝදනා කර ඇත.
+
+2009 වසරේ සිට 2018 වසර දක්වා දකුණු අප්‍රිකානු ජනාධිපති ධුරයේ කටයුතු කළ 81 හැවිරිදි ජේකොබ් සූමා, ඉදිරි මහ මැතිවරණයට තරග කිරීමට සැලසුම් කර තිබුණ ද ඔහුට ඒ සඳහා ඉදිරිපත් විය නොහැකි බවට එරට මැතිවරණ කොමිසම ඊයේ (28) නිවේදනය කර තිබුණි.
+
+◼️
+
+[Data](articles/a8025ab5.json)
+
+---
+
+### If the general election is held, no party will get a majority -UNP Deputy Leader Ruwan Wijewarden
 
 *2024-03-29 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179983) · `ta`
 
-நாட்டின் தற்போதைய நிலையில் பொதுத் தேர்தல் இடம்பெற்றால் எந்த ஒரு கட்சிக்கும் பெரும்பான்மை கிடைக்கப்போவதில்லை. அவ்வாறான நிலை ஏற்பட்டால் நாடு மீண்டும் பொருளாதார ரீதியில் வீழ்ச்சியடைவதுடன் நாட்டில் அரசியல் ஸ்திரத்தன்மை இல்லாமல் போகும். அதனால் ஆரம்பாக ஜனாதிபதி தேர்தலை நடத்துவதே பொருத்தமாகும் என ஐக்கிய தேசிய கட்சியின் பிரதித் தலைவர் ருவன் விஜேவர்த்தன தெரிவித்தார்.
+Ruwan Wijewardena, UNP Deputy Leader, warns that a general election in the current state would lead to economic and political instability, with no party gaining a majority. He advocates for holding the presidential election first, believing Ranil Wickremesinghe will win and can establish a stable government.
 
-மல்வத்து மற்றும் அஸ்கிரி மஹாநாயக்க தேரர்களிடம் வெள்ளிக்கிழமை (29) ஆசிர்வாதம் பெற்றுக்கொண்ட பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-அரசியலமைப்பின் பிரகாரம் ஜனாதிபதி தேர்தல் எதிர்வரும் செப்டெம்பர், ஒக்டோபர் காலப்பகுதிக்குள் நடத்த வேண்டும். அதன் பிரகாரம் ஜனாதிபதி தேர்தல் இடம்பெறும். என்றாலும் ஜனாதிபதி தேர்தலுக்கு முன்னர் பொதுத் தேர்தலை நடத்துமாறு பொதுஜன பெரமுன உள்ளிட்ட மேலும் சில கட்சிகள் கோரி வருகின்றன. ஆனால் நாட்டின் தற்போதைய நிலையில் பொதுத தேர்தல் இடம்பெற்றால் எந்தவொரு கட்சிக்கும் தனித்து ஆட்சி அமைப்பதற்கு போதுமான பெரும்பான்மை கிடைக்கப்போவதில்லை.
+If the general election is held in the country's current state, no party will get a majority. In the event of such a situation, the country will again fall economically and the political stability in the country. UNP Deputy Leader Ruwan Wijewardena said that it is appropriate to hold the presidential election in the beginning.
+
+He was speaking to the media after receiving the blessings of the Malwathu and Asgiri Mahanayaka Thera on Friday (29).
+
+According to the Constitution, the presidential election should be held in September and October. The presidential election will be held accordingly. However, some parties, including the PA, are demanding the general election before the presidential election. But if the general election is held in the country, no party will get enough majority to rule.
 
 ...
 
 [Data](articles/27e37f83.json)
+
+[Extended Data](ext_articles/27e37f83.ext.json)
 
 ---
 
@@ -65,6 +89,24 @@ However, due to chocolate being by far the most common cocoa product, the rising
 [Data](articles/14fe72f1.json)
 
 [Extended Data](ext_articles/14fe72f1.ext.json)
+
+---
+
+### Special Commodity Levy to be scrapped from next year: Siyambalapitiya
+
+*2024-03-29 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-Commodity-Levy-to-be-scrapped-from-next-year-Siyambalapitiya/108-279836) · `en`
+
+Colombo, March 29 (Daily Mirror)- The Special Commodity Levy that was imposed to protect the local famers and producers will be scrapped from January, next year and a new tax system based on seasons will be introduced, State Minister of Finance Ranjith Siyambalapitiya said today.
+
+The Minister said a new tax based on seasons will be introduced to protect the local farmers and producers from next year.
+
+He said the seasonal tax which is connected to the Customs duty will be introduced after identifying the period when the local produce come to the market just as in other developed countries.
+
+The Minister said the decision to scrap the Special Commodity Levy was taken as the benefit of the Levy did not pass to the consumers at most times as the prices of goods were not reduced even when the Levy was reduced just as in the famous case of the sugar fraud.
+
+...
+
+[Data](articles/756f2a8f.json)
 
 ---
 
@@ -2263,41 +2305,5 @@ Former President Gotabaya Rajapaksa’s book titled “Conspiracy to oust me fro
 [Data](articles/106b0140.json)
 
 [Extended Data](ext_articles/106b0140.ext.json)
-
----
-
-### No mea culpa
-
-*2024-03-29 05:45:56* · [`dailyftlk`](https://www.ft.lk/opinion/No-mea-culpa/14-760104) · `en`
-
-It’s almost comedic in its simple-minded analysis of complicated issues
-
-Former President Gotabaya Rajapaksa’s book titled “Conspiracy to oust me from the presidency” does in no way live up to its title. If anyone thinks this is a page turner that gives a blow by blow about how a conspiracy unfolded to destroy his presidency, don’t waste your time or your money on the work.
-
-The former president merely insults those who don’t believe there was a conspiracy to get rid of him. This writer read the Sinhala version of the book. The author writes that only the extremely naïve, ‘bolanda’, would believe that there wasn’t a foreign conspiracy to oust him.
-
-That statement is typical of the way Gotabaya Rajapaksa (GR) ruled the country. He seemed to be so aloof that he was constantly seen to be out of touch when in power. Added to that was his rather supercilious attitude which seemed to make him think he knew more than the rabble he ruled over.
-
-...
-
-[Data](articles/8c11deea.json)
-
-[Extended Data](ext_articles/8c11deea.ext.json)
-
----
-
-### Values mixed up?
-
-*2024-03-29 05:43:22* · [`dailyftlk`](https://www.ft.lk/columns/Values-mixed-up/4-760103) · `en`
-
-Those who possess drugs are in custody, while those who enabled these persons to possess the drugs are walking free and continuing to bring more drugs into the country
-
-In recent times, there is a massive campaign launched in Sri Lanka to eliminate drugs in the country. It is an excellent objective. But who are those being caught and disciplined? Those who are in possession of drugs. But has it ever occurred to these knights in shining armour, who go after those who possess drugs, that there is another group on whom no drugs are found or will ever be found, who are nevertheless, the masterminds of the drug trade?
-
-...
-
-[Data](articles/4d3de007.json)
-
-[Extended Data](ext_articles/4d3de007.ext.json)
 
 ---

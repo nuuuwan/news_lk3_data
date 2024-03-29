@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 21:52:40**
+As of **2024-03-29 22:04:39**
 
 ## Newspaper Stats
 
-*Scraped **15,956** Articles*
+*Scraped **15,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 879
 adalk | 1,342
 tamilmirrorlk | 1,907
 adaderanalk | 1,917
-virakesarilk | 2,265
+virakesarilk | 2,266
 dailymirrorlk | 2,466
 adaderanasinhalalk | 2,569
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 2,569
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,953 (100.0%) of 15,956 articles have been extended.
+15,956 (100.0%) of 15,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### 19 வயதின் கீழ் மகளிர் ரி20 மும்முனை கிரிக்கெட்டில் ஆஸி.யை 35 ஓட்டங்களால் வென்றது இங்கிலாந்து
+
+*2024-03-29 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179986) · `ta`
+
+ஹம்பாந்தோட்டை, மஹிந்த ராஜபக்ஷ விளையாட்டரங்கில் வெள்ளிக்கிழமை (29) நடைபெற்ற 19 வயதுக்குட்பட்ட மகளிர் ரி20 மும்முனை கிரிக்கெட் தொடரின் இரண்டாவது போட்டியில் அவுஸ்திரேலியாவை 35 ஓட்டங்களால் இங்கிலாந்து வெற்றிகொண்டது.
+
+வியாழக்கிழமை (29) நடைபெற்ற ஆரம்பப் போட்டியில் இலங்கையிடம் அடைந்த தோல்வியைத் தொடர்ந்து அவுஸ்திரேலியா எதிர்கொண்ட இரண்டாவது தொடர்ச்சியான தோல்வி இதுவாகும்.
+
+இப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய 19 வயதுக்குட்பட்ட இங்கிலாந்து மகளிர் அணி 19.3 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 146 ஓட்டங்களைப் பெற்றது.
+
+டாவினா பெரின் (10), ஏரின் தொமஸ் (6), சரிஸ் பவ்லி (1), அலெக்ஸி ஸ்டோன்ஹவுஸ் (0) ஆகிய நான்கு வீராங்கனைகள் பவர் ப்ளே நிறைவுக்கு முன்னர் சீரான இடைவெளியில் ஆட்டம் இழக்க மொத்த எண்ணிக்கை 5.3 ஓவர்களில் 30 ஓட்டங்களாக இருந்தது.
+
+இந் நிலையில் ஜொடி க்றூகொக், அணித் தலைவி ஜொசி க்ரோவ்ஸ் ஆகிய இருவரும் 5ஆவது விக்கெட்டில் ஜோடி சேர்ந்து 90 ஓட்டங்களைப் பகிர்ந்து மொத்த எண்ணிக்கையை 120 ஓட்டங்களாக உயர்த்தினர்.
+
+ஜொடி க்றூகொக் 3 பவுண்டறிகள், ஒரு சிக்ஸ் உட்பட 31 ஓட்டங்களைப் பெற்றார்.
+
+...
+
+[Data](articles/e284752b.json)
+
+---
 
 ### Confident SL eye series win over Bangladesh
 
@@ -49,6 +71,8 @@ However, Sri Lanka faced a setback ahead of the second and final Test as Kasun R
 ...
 
 [Data](articles/78643a35.json)
+
+[Extended Data](ext_articles/78643a35.ext.json)
 
 ---
 
@@ -70,6 +94,8 @@ Seven more Filipinos were nailed to crosses in other villages in Pampanga.
 
 [Data](articles/e28a2da1.json)
 
+[Extended Data](ext_articles/e28a2da1.ext.json)
+
 ---
 
 ### Single-track operations on coastal line between Colombo Fort and Wellawatta till Sunday
@@ -85,6 +111,8 @@ Accordingly, arrangements have been made to cancel several train services on the
 ◼️
 
 [Data](articles/398d1465.json)
+
+[Extended Data](ext_articles/398d1465.ext.json)
 
 ---
 
@@ -2291,23 +2319,5 @@ Following the implementation of this online system, individuals can now visit th
 [Data](articles/f9119765.json)
 
 [Extended Data](ext_articles/f9119765.ext.json)
-
----
-
-### SLPP heading for split
-
-*2024-03-29 08:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SLPP-heading-for-split/108-279817) · `en`
-
-Colombo, March 29 (Daily Mirror) - Sri Lanka Podujana Peramuna (SLPP) is heading for a split with one section insisting on fielding its candidate at the presidential election and the other advocating support for the candidacy of President Ranil Wickremesinghe, Daily Mirror learns.
-
-The SLPP faction which is loyal to the Rajapaksa family has firmed up its position that the party should participate in the election by fielding its candidate. When the party’s executive committee met, such an idea emerged, but further discussion did not take place on the matter since the election has not yet been declared.
-
-However, the party’s MPs who currently hold positions in the government openly back the candidacy of the President.
-
-...
-
-[Data](articles/f0a4c619.json)
-
-[Extended Data](ext_articles/f0a4c619.ext.json)
 
 ---

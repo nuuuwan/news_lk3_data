@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-29 10:18:06**
+As of **2024-03-29 10:33:41**
 
 ## Newspaper Stats
 
-*Scraped **15,862** Articles*
+*Scraped **15,867** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 142
 bbccomsinhala | 169
 dbsjeyarajcom | 195
 newsfirstlk | 363
-dailyftlk | 860
+dailyftlk | 862
 economynextcom | 871
 islandlk | 879
 adalk | 1,340
-tamilmirrorlk | 1,899
-adaderanalk | 1,901
+tamilmirrorlk | 1,901
+adaderanalk | 1,902
 virakesarilk | 2,247
 dailymirrorlk | 2,448
 adaderanasinhalalk | 2,548
@@ -26,11 +26,37 @@ adaderanasinhalalk | 2,548
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,858 (100.0%) of 15,862 articles have been extended.
+15,862 (100.0%) of 15,867 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-29 (Friday)
+
+### கூரிய ஆயுதத்தால் தாக்கப்பட்டு ஒருவர் படுகொலை
+
+*2024-03-29 10:05:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூரிய-ஆயுதத்தால்-தாக்கப்பட்டு-ஒருவர்-படுகொலை/175-335338) · `ta`
+
+கூரிய ஆயுதத்தால் தாக்கப்பட்டதில் 31 வயதுடைய நபர் ஒருவர் நேற்று (28) காலை உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/e577d1d2.json)
+
+---
+
+### எச்ஐவி தொற்றாளர் எண்ணிக்கை உயர்வு
+
+*2024-03-29 10:04:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எச்ஐவி-தொற்றாளர்-எண்ணிக்கை-உயர்வு/175-335337) · `ta`
+
+நாட்டில் எச்ஐவி தொற்றுக்கு உள்ளானவர்களின் எண்ணிக்கையில் அதிகரிப்பு ஏற்பட்டுள்ளதாக இலங்கையின் தேசிய எயிட்ஸ் தடுப்பு திட்டத்தின் பணிப்பாளர் டாக்டர் ஜானகி விதானபத்திரன தெரிவித்துள்ளார்.
+
+20 முதல் 30 வயதுக்குட்பட்டவர்கள் இந்த தொற்றாளர் பாதிக்கப்படும் ஆபத்தில் உள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/90a2a816.json)
+
+---
 
 ### Sri Lanka launches online child sexual abuse reporting portal
 
@@ -46,25 +72,35 @@ Each report processed by the reporting portal will be manually assessed by IWF h
 
 [Data](articles/25d4059c.json)
 
+[Extended Data](ext_articles/25d4059c.ext.json)
+
 ---
 
-### பிளவை நோக்கி பொதுஜனபெரமுன- டெய்லிமிரர்
+### PA Towards the Division- DailyMirr
 
 *2024-03-29 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/179951) · `ta`
 
-ஜனாதிபதி தேர்தலில்  கட்சியின் வேட்பாளரை நிறுத்தவேண்டும் என ஒரு தரப்பினரும் ஜனாதபதி ரணில்விக்கிரமசிங்கவிற்கு ஆதரவளிக்கவேண்டும் என மற்றைய தரப்பினரும்  உறுதியாக நிற்பதன் காரணமாக இந்த நிலையேற்பட்டுள்ளது என டெய்லிமிரர் தெரிவித்துள்ளது.
+DailyMirr suggests PA should support President Wickremesinghe, while Rajapaksa family urges party to back its candidate. PA's executive committee hasn't been seriously investigated yet. MPs, including cabinet members, support Wickremesinghe. Prasanna Ranatunga criticizes Basil Rajapaksa's appointment, suggesting no party member can win the presidential election.
 
-ஸ்ரீலங்கா பொதுஜனபெரமுனவின் ராஜபக்ச குடும்பத்திற்கு ஆதரவான தரப்பினர் கட்சி தனது சொந்தவேட்பாளரை நிறுத்தி தேர்தலில் போட்டியிடவேண்டும் என  தெரிவித்துள்ளனர்.
+🟩
 
-கட்சியின் நிறைவேற்றுகுழுவின் கூட்டத்தில் இந்த கருத்து வெளியாகியுள்ளது - எனினும் தேர்தல் திகதி அறிவிக்கப்படாததால் இது குறித்து கட்சி இன்னமும் தீவிரமாக ஆராயவில்லை.
+DailyMirr has said that one party should stand for the presidential election and other parties to support President Ranil Wickremesinghe.
 
-இதேவேளை அரசாங்கத்தில் அமைச்சரவை பதவிகளை வகிக்கும்  பொதுஜனபெரமுனவின் நாடாளுமன்ற உறுப்பினர்கள் ஜனாதிபதி ரணில்விக்கிரமசிங்க தேர்தலில் போட்டியிடும் பட்சத்தில் அவருக்கே ஆதரவளிக்கவேண்டும் என்ற உறுதியான நிலைப்பாட்டை கொண்டுள்ளனர்.
+The party in favor of the Rajapaksa family of the Sri Lanka PA has said that the party should stop its own candidate and contest the election.
 
-இதேவேளை ஜனாதிபதி தேர்தலில் வெற்றிபெறக்கூடிய திறமையுடைய எவரும் கட்சியில் இல்லை  என தெரிவித்துள்ள பிரசன்ன ரணதுங்க இதன் காரணமாக கட்சி தனது வேட்பாளரை நிறுத்தக்கூடாது  என தெரிவித்துள்ளார்.
+The comment has been made at the meeting of the party's executive committee - however, the party has not yet been seriously investigated as the election date has not been announced.
 
-...
+Meanwhile, MPs of the PA, who holds cabinet posts in the government, have a firm position that President Ranil Wickremesinghe should support him in the event of contesting the election.
+
+Meanwhile, Prasanna Ranatunga has said that there is no one in the party who is capable of winning the presidential election.
+
+He has openly criticized Basil Rajapaksa's appointment as the national organizer and said that the post should be given to Basil Rajapaksa.
+
+◼️
 
 [Data](articles/f4cea25b.json)
+
+[Extended Data](ext_articles/f4cea25b.ext.json)
 
 ---
 
@@ -83,6 +119,26 @@ Easter Sunday is immediately preceded by Holy Week (Passion Week) which begins w
 ...
 
 [Data](articles/567032bd.json)
+
+[Extended Data](ext_articles/567032bd.ext.json)
+
+---
+
+### Good Friday commemorated today; Sri Lanka implements special security plans
+
+*2024-03-29 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/98278/good-friday-commemorated-today-sri-lanka-implements-special-security-plans) · `en`
+
+Good Friday is a significant Christian and Catholic religious observance that marks the crucifixion of Jesus Christ and his death at Calvary. This year, Good Friday is commemorated today (29).
+
+According to the New Testament, Jesus Christ was crucified on a Friday. As such, Good Friday is observed on the Friday preceding Easter Sunday which marks the resurrection of Jesus Christ from the dead on the third day of his burial.
+
+In the Christian Liturgical Calendar, Easter follows Lent, the 40-day period (excluding Sundays) before Easter which traditionally is observed by acts of penance and fasting.
+
+Easter Sunday is immediately preceded by Holy Week (Passion Week) which begins with Palm Sunday, the day Jesus Christ entered the city of Jerusalem. The week continues with Holy Thursday and it marks the Last supper of Jesus Christ, during which he established the sacrament of Holy Communion prior to being arrest.
+
+...
+
+[Data](articles/8b4a35b9.json)
 
 ---
 
@@ -406,6 +462,8 @@ The rupee was allowed to appreciate to 310 to the US dollar by end February from
 
 [Data](articles/707ff73d.json)
 
+[Extended Data](ext_articles/707ff73d.ext.json)
+
 ---
 
 ### South Africa fatal bus accident
@@ -612,6 +670,22 @@ The virus can also be present in bowel movements (excrement) for up to several w
 
 ### No mea culpa
 
+*2024-03-29 05:45:56* · [`dailyftlk`](https://www.ft.lk/columns/No-mea-culpa/4-760104) · `en`
+
+It’s almost comedic in its simple-minded analysis of complicated issues
+
+In the end there was no conspiracy. The book proves once more that GR is a person so naïve and so completely out his depth in either running a country, or writing a book. Alas, it’s the truth though he may have had success as defence secretary once upon a time. There may have been others who may or may not have conspired against him, but certainly it wasn’t a foreign power and the book he trots out to prove otherwise is the greatest testimony underlining the fact that he had to leave because of his own folly, and not due to the machinations of some sinister foreign force. Folly, to be sure, seems to be his calling card
+
+Former President Gotabaya Rajapaksa’s book titled “Conspiracy to oust me from the presidency” does in no way live up to its title. If anyone thinks this is a page turner that gives a blow by blow about how a conspiracy unfolded to destroy his presidency, don’t waste your time or your money on the work.
+
+...
+
+[Data](articles/106b0140.json)
+
+---
+
+### No mea culpa
+
 *2024-03-29 05:45:56* · [`dailyftlk`](https://www.ft.lk/opinion/No-mea-culpa/14-760104) · `en`
 
 It’s almost comedic in its simple-minded analysis of complicated issues
@@ -627,6 +701,20 @@ That statement is typical of the way Gotabaya Rajapaksa (GR) ruled the country. 
 [Data](articles/8c11deea.json)
 
 [Extended Data](ext_articles/8c11deea.ext.json)
+
+---
+
+### Values mixed up?
+
+*2024-03-29 05:43:22* · [`dailyftlk`](https://www.ft.lk/columns/Values-mixed-up/4-760103) · `en`
+
+Those who possess drugs are in custody, while those who enabled these persons to possess the drugs are walking free and continuing to bring more drugs into the country
+
+In recent times, there is a massive campaign launched in Sri Lanka to eliminate drugs in the country. It is an excellent objective. But who are those being caught and disciplined? Those who are in possession of drugs. But has it ever occurred to these knights in shining armour, who go after those who possess drugs, that there is another group on whom no drugs are found or will ever be found, who are nevertheless, the masterminds of the drug trade?
+
+...
+
+[Data](articles/4d3de007.json)
 
 ---
 
@@ -2145,127 +2233,5 @@ Sri Lanka National Football Team Endi Morrisonan also attended the event.
 [Data](articles/d86a8b67.json)
 
 [Extended Data](ext_articles/d86a8b67.ext.json)
-
----
-
-### Sinopec to start work on Sri Lanka refinery by June
-
-*2024-03-28 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98268/sinopec-to-start-work-on-sri-lanka-refinery-by-june) · `en`
-
-(Reuters) - The world’s largest refiner, China’s Sinopec plans to start work on a refinery in Sri Lanka by June, the power minister said on Thursday, advancing a project earmarked as the biggest investment in the crisis-hit island nation.
-
-Sri Lanka is looking to attract investment in the battle to stabilise its economy and return to growth following a financial crisis caused by a severe shortfall of dollars in 2022 that led the economy to contract 2.3% last year.
-
-Officials of Sinopec Overseas Investment Holding are visiting Colombo for talks with Sri Lankan authorities.
-
-“The officials indicated that the management of Sinopec has decided to double the capacity of the refinery from the original proposal,” the minister, Kanchana Wijesekera, wrote on social media platform X.
-
-“They intend to sign the agreements for the project and commence work by June 2024.”
-
-Sri Lanka’s cabinet approved the project in November, an investment that Wijesekera has earlier tagged at $4.5 billion.
-
-...
-
-[Data](articles/0d026e2e.json)
-
-[Extended Data](ext_articles/0d026e2e.ext.json)
-
----
-
-### Fuel refinery to Hambantota from China
-
-*2024-03-28 17:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195038) · `si`
-
-China's Syopech to build a $4.5B fuel refinery in Hambantota, Sri Lanka, starting in June.
-
-🟩
-
-China's Syopech, China, has agreed to start the construction work of fuel refinery in the country.
-
-Kanchana Wijesica, Minister of Power and Energy, told him that a group of people of Syhoppi had told him that.
-
-The new refinery is to be established in Hambantota and has agreed to sign agreements.
-
-The project has agreed to increase investment and increase the capacity of the refinery and the project is to commence in June.
-
-The project was approved by the Cabinet last November and the investment was $ 4.5 billion.
-
-◼️
-
-[Data](articles/ce989685.json)
-
-[Extended Data](ext_articles/ce989685.ext.json)
-
----
-
-### 3-trillion revenue earns
-
-*2024-03-28 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195037) · `si`
-
-The Southeast Asian region is a hub for organized crimes, including human trafficking and cybercrimes, with a global impact. Cybercrime networks have reportedly earned $3 trillion annually, deceiving millions. These crimes are now a major concern for many countries. The main source of income worldwide is drug trafficking, with cyber fraud centers exploiting young, low-income individuals for higher salaries, diversifying the drug racket. Despite this, drug trafficking still earns 40-70% of total income. Cyber fraud centers contribute significantly to global illegal human smuggles, with notable cases in Cambodia and Myanmar.
-
-🟩
-
-Southeast Asian region is notorious for organized crimes on human trafficking and cyber crimes.
-
-There have been several cyber criminal groups and networks in several occasions during the past few occasions.
-
-According to commentators, the racket has expanded in the Southeast Asian region.
-
-That online mechanism is the most refinement and the covard periodically, when people adopted.
-
-The International Police has revealed that the unique trafficking of the unique in Southeast Asia is now spreading globally.
-
-According to the International Police, the organized crime network has already earned US $ 3 trillion annually.
-
-The International Police have said that millions of people have already been deceived by the racket.
-
-Recently, these new crimes have a headache for many countries in many countries.
-
-According to the international police, the main source of income in the world is the main source of income world is the drug racket.
-
-...
-
-[Data](articles/07f4ddf8.json)
-
-[Extended Data](ext_articles/07f4ddf8.ext.json)
-
----
-
-### New online reporting system launched for child sexual abuse
-
-*2024-03-28 17:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-online-reporting-system-launched-for-child-sexual-abuse/108-279783) · `en`
-
-A new online reporting system for child sexual abuse was launched today under the leadership of President Ranil Wickremesinghe.
-
-The President's Media Division (PMD) said this initiative, implemented by the National Child Protection Authority (NCPA) in collaboration with the Internet Watch Foundation and sponsored by Save the Children & Child Fund, aims to swiftly remove any harmful content from the Internet.
-
-◼️
-
-[Data](articles/9bf36c2b.json)
-
-[Extended Data](ext_articles/9bf36c2b.ext.json)
-
----
-
-### Development Lotteries Board to introduce digital lottery tickets
-
-*2024-03-28 17:31:00* · [`economynextcom`](https://economynext.com/development-lotteries-board-to-introduce-digital-lottery-tickets-156493/) · `en`
-
-ECONOMYNEXT – The Development Lotteries Board will introduce lottery tickets via digital technology, its Chairman and CEO Ajith Gunaratne Narangala has said.
-
-“The board has initiated the introduction of lottery tickets via digital technology, aiming to provide consumers in the country with a novel experience,” Narangala was quoted in a statement by the president’s media division.
-
-“Measures have been implemented to boost the prize money for both regular and newly introduced special lottery tickets of the Development Lotteries Board.”
-
-DLB, a state-owned enterprise that is part of a lottery oligopoly, posted the highest profit in its 40-year history of 3.6 billion rupees in 2023. “The DLB recorded a profit margin of 32% for the fiscal year 2022-2023, double the previous year’s figure.”
-
-Development Lotteries Board is one of the state-owned enterprises to be registered under the Companies Act No 07 of 2007 and transferred to a holding company. (Colombo/Mar28/2024)
-
-◼️
-
-[Data](articles/a4a61d53.json)
-
-[Extended Data](ext_articles/a4a61d53.ext.json)
 
 ---

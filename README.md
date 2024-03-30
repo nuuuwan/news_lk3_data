@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 00:17:52**
+As of **2024-03-31 00:33:20**
 
 ## Newspaper Stats
 
-*Scraped **16,087** Articles*
+*Scraped **16,088** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 143
+colombotelegraphcom | 144
 bbccomsinhala | 170
 dbsjeyarajcom | 199
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,086 (100.0%) of 16,087 articles have been extended.
+16,087 (100.0%) of 16,088 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Egypt has already floated the pound and sharply increased the main interest rate
 ...
 
 [Data](articles/f9d86cf8.json)
+
+[Extended Data](ext_articles/f9d86cf8.ext.json)
 
 ---
 
@@ -333,6 +335,18 @@ In the meantime, the Best Teledrama Singer of the Year award was won by Piyumi B
 [Data](articles/b911d1e7.json)
 
 [Extended Data](ext_articles/b911d1e7.ext.json)
+
+---
+
+### Russian Presidential Election Results
+
+*2024-03-30 18:39:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/russian-presidential-election-results/) · `en`
+
+Russia is exultant about the outcome of the Presidential election. The poll was 77% of the electorate and Putin secured 87% of the votes cast; a landslide on both counts. The voting was not rigged; why upset the show when you have this kind of triumph to your credit? To what extent Russia is democratic is a separate matter that I will discuss later on. Russians are enjoying themselves mocking America and the West: “When has your President ever won 87% of the vote in a poll where 77% of the electorate participated?” Actually, never since 1904 has the turnout at a US election exceeded 66% and, in any case direct comparison in not possible because of the American “Electoral College System”.
+
+...
+
+[Data](articles/0ad3ff19.json)
 
 ---
 
@@ -2239,27 +2253,5 @@ On September 6th 1977, Lalith Athulathmudali, then Minister of Trade said in Par
 [Data](articles/00854be8.json)
 
 [Extended Data](ext_articles/00854be8.ext.json)
-
----
-
-### Thunder Lightning Love - Review
-
-*2024-03-30 01:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179995) · `ta`
-
-"Thunder Lightning Love" is a debut film by Balaji Madhavan, featuring a love story between a psychologist and a businessman's daughter set against the backdrop of an accident. The film explores themes of love, guilt, and psychological trauma. Despite interesting turns and a compelling storyline, it struggles with a lack of comedy and a villain character that feels underdeveloped. The film's success hinges on its unique angle and realistic portrayal of its characters.
-
-🟩
-
-B.. Balaji Madhavan, the debut director of Vasu and Mishkin, who has learned the screen language, has directed an interesting feature in the backdrop of an unexpected accident?Or not?We will continue to see.
-
-Love occurs between a young man who works as a young psychology physician and the daughter of a businessman. When they love ... In a night ... In the moment of rain ... In the lower part of the transport of the city of Chennai.. Unexpectedly causes the vehicle they are traveling in. Thus, a faceless person dies on the spot.
-
-Because the man of the psychologist caused the accident.. He wants to surrender to the police department. But for the hero from India to abroad in a few more days to face many opposition and win love.. The heroine says that there should be no restrictions.
-
-...
-
-[Data](articles/802f9c2b.json)
-
-[Extended Data](ext_articles/802f9c2b.ext.json)
 
 ---

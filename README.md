@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 19:50:02**
+As of **2024-03-30 20:03:03**
 
 ## Newspaper Stats
 
-*Scraped **16,073** Articles*
+*Scraped **16,075** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,69 @@ tamilmirrorlk | 1,921
 adaderanalk | 1,940
 virakesarilk | 2,286
 dailymirrorlk | 2,483
-adaderanasinhalalk | 2,593
+adaderanasinhalalk | 2,595
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,072 (100.0%) of 16,073 articles have been extended.
+16,073 (100.0%) of 16,075 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
+### රයිගම් ටෙලීස් - අද දෙරණ සම්මානවලින් පිදුම් ලබයි
+
+*2024-03-30 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195113) · `si`
+
+2023 රයිගම් ටෙලීස් සම්මාන උළෙල මේ වනවිට කොළඹ ෂැංග්‍රිලා හෝටලයේදී උත්කර්ෂවත් අයුරින් පැවැත්වෙයි.
+
+මෙහිදී 'අද දෙරණ' වසන්ති නානායක්කාර විසින් නිෂ්පාදනය කරන ලද "සුරකිමු බුදු සසුන" වාර්තාමය වැඩසටහන ජූරියේ විශේෂ සම්මානය දිනා ගත්තේය.
+
+මේ අතර මෙවර රයිගම් ටෙලි සම්මාන උළෙලේ දී වසරේ විශිෂ්ටතම රූපවාහිනී අධ්‍යාපන වැඩසහන ලෙස K.C සාරංග විසින් නිෂ්පාදනය කරන ලද අද දෙරණ Kids Academy සම්මානයට පාත්‍ර විය.
+
+මෙහිදී ජුරියේ කුසලතා සහතිකයක් දිනාගැනීමට TV දෙරණ ඔස්සේ විකාශනය වූ 'හේල්‍යන්' ටෙලිනාට්‍යයේ පිංකිගේ චරියට රඟ පෑ සිඳගනා කුරේ සමත් වූවාය.
+
+◼️
+
+[Data](articles/4ad32fb7.json)
+
+---
+
+### අප්‍රේල් 8 වනදා පූර්ණ සූර්ය ග්‍රහණයක්
+
+*2024-03-30 19:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195112) · `si`
+
+අප්‍රේල් මස 8වන සඳුදා පූර්ණ සූර්ය ග්‍රහණයක් සිදුවීමට නියමිත බව අමෙරිකාවේ නාසා ආයතනය පවසයි.
+
+මෙක්සිකෝව, කැනඩාව සහ අමෙරිකාවේ ඇතැම් ප්‍රාන්තවල වැසියන්ට එම සූර්ය ග්‍රහණය හොඳින් දැකබලා ගැනීමට අවස්ථාව හිමි වෙයි.
+
+නාසා වාර්තා අනුව මීළඟ පූර්ණ සූර්ය ග්‍රහණයක් සිදුවන්නේ 2044 වසරේදීය.
+
+◼️
+
+[Data](articles/11d29573.json)
+
+---
+
 ### TV Derana picks up top awards at Raigam Tele’es 2023
 
 *2024-03-30 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98313/tv-derana-picks-up-top-awards-at-raigam-telees-2023) · `en`
 
-Derana media network picked up multiple top awards at the Raigam Tele’es 2023 – The Nation’s Tele Awards taking place at the Shangri-La Hotel in Colombo on Saturday (30).
+TV Derana bagged many top awards at the Raigam Tele’es 2023 awards ceremony currently taking place at the Shangri-La Hotel in Colombo on Saturday (30).
 
-“Kids Academy” program on Ada Derana 24 produced by K. C. Saranga won the Best Education Programme award.
+Accordingly, ‘Surakimu Budhu Sasuna’ a documentary programme on Ada Derana 24, produced by Wasanthi Nanayakkara, won the Special Jury Award.
 
-Meanwhile, ‘Surakimu Budhu Sasuna’ a documentary programme on Ada Derana 24, produced by Wasanthi Nanayakkara, picked up the Special Jury Award.
+Meanwhile, “Ada Derana Kids Academy” program on Ada Derana 24 produced by K. C. Saranga picked up award for the Best Television Educational Programme.
+
+Child actress Sindagana Cooray also won a Certificate of Jury Merit for her performance in the “Helyan” teledrama aired on TV Derana.
 
 ◼️
 
 [Data](articles/72fb760f.json)
+
+[Extended Data](ext_articles/72fb760f.ext.json)
 
 ---
 
@@ -2213,45 +2251,5 @@ Residents in the area are concerned that there is no action to control the robbe
 [Data](articles/f5c757ea.json)
 
 [Extended Data](ext_articles/f5c757ea.ext.json)
-
----
-
-### Shanghai Mayor agrees to establish strong relationship with Colombo, Hambantota
-
-*2024-03-29 23:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98295/shanghai-mayor-agrees-to-establish-strong-relationship-with-colombo-hambantota) · `en`
-
-Prime Minister Dinesh Gunawardena had a long discussion with Gong Seng, Mayor of Shanghai, on Friday (29) in Shanghai, China.
-
-It was agreed to establish a strong relationship between Shanghai, China, which is ranked first among the world’s port cities, and the cities of Colombo and Hambantota, which have been planned to be developed as a maritime hub in the East and West shipping routes in the future.
-
-A long time has passed since the Sister City Agreement between Colombo and Shanghai was signed, and the Prime Minister pointed out that further work can be carried out under this agreement, which was signed when his brother Prasanna Gunawardena was holding the post of Mayor.
-
-It was emphasised that the city of Shanghai has handled 49.5 million containers in terms of cargo transportation, and last year it ranked first in cargo transportation in the world, and there are many lessons that can be learnt by Sri Lanka in the said sector.
-
-...
-
-[Data](articles/e467b5c3.json)
-
-[Extended Data](ext_articles/e467b5c3.ext.json)
-
----
-
-### Colombo and Shanghai to establish a strong relationship
-
-*2024-03-29 23:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/98295/colombo-and-shanghai-to-establish-a-strong-relationship) · `en`
-
-Prime Minister Dinesh Gunawardena had a long discussion with Gong Seng, Mayor of Shanghai, on Friday (29) in Shanghai, China.
-
-It was agreed to establish a strong relationship between Shanghai, China, which is ranked first among the world’s port cities, and the cities of Colombo and Hambantota, which have been planned to be developed as a maritime hub in the East and West shipping routes in the future.
-
-A long time has passed since the Sister City Agreement between Colombo and Shanghai was signed, and the Prime Minister pointed out that further work can be carried out under this agreement, which was signed when his brother Prasanna Gunawardena was holding the post of Mayor.
-
-It was emphasised that the city of Shanghai has handled 49.5 million containers in terms of cargo transportation, and last year it ranked first in cargo transportation in the world, and there are many lessons that can be learnt by Sri Lanka in the said sector.
-
-...
-
-[Data](articles/f2c12daa.json)
-
-[Extended Data](ext_articles/f2c12daa.ext.json)
 
 ---

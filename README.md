@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 18:51:43**
+As of **2024-03-30 19:03:17**
 
 ## Newspaper Stats
 
-*Scraped **16,070** Articles*
+*Scraped **16,071** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 882
 islandlk | 887
 adalk | 1,342
 tamilmirrorlk | 1,921
-adaderanalk | 1,937
+adaderanalk | 1,938
 virakesarilk | 2,286
 dailymirrorlk | 2,483
 adaderanasinhalalk | 2,593
@@ -26,51 +26,83 @@ adaderanasinhalalk | 2,593
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,068 (100.0%) of 16,070 articles have been extended.
+16,070 (100.0%) of 16,071 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### මැතිවරණ කොමිසම ඡන්දෙට සූදානම් වෙයි
+### Ragama Hospital patient dies after vaccine administration; investigations underway
 
-*2024-03-30 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195111) · `si`
+*2024-03-30 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98311/ragama-hospital-patient-dies-after-vaccine-administration-investigations-underway) · `en`
 
-ජනාධිපතිවරණය පැවැත්වීම සඳහා මේ වනවිට මූලික කටයුතු සුදානම් කර අවසන් බව මැතිවරණ කොමිසම පවසයි.
+The Ministry of Health has initiated an investigation into the death of a 50-year-old patient at Ragama Teaching Hospital after being administered a vaccine.
 
-මෙම වසරේ අඟ භාගයේදී ජනාධිපතිවරණය පැවැත්වීමට ව්‍යවස්ථානුකූලව නියමිත අතර ඒ සඳහා කොමිසම සුදානමින් පසුවන බව "අද දෙරණ" කළ විමසීමකට පිළිතුරු දෙමින් එහි අධ්‍යක්ෂ ජනරාල් සමන් ශ්‍රී රත්නායක මහතා සඳහන් කළේය.
+The hospital’s director, Dr. Sampath Ranaweera said that another internal probe is underway at the hospital level regarding the incident.
 
-ජනාධිපතිවරණය සඳහා රුපියල් කෝටි දහසක මුදලක් පසුගිය අයවැයෙන් වෙන්කර ඇති අතර අවශ්‍ය වුවහොත් තවත් මුදල් ලබා ගැනීම සඳහා හැකි බවද ඔහු පැවසීය.
+The patient, who was admitted to the hospital on 22 March due to a medical condition concerning his ear, reportedly died after being administered ‘co-amoxiclav’ vaccine, an antibiotic prescribed for treating bacterial infections.
 
-එමෙන්ම මැතිවරණය පැවැත්වීම සඳහා සිදුකෙරෙන කටයුතු පිළිබඳව සියලු සහකාර මැතිවරණ කොමසාරිස්වරුන් දැනුවත් කිරීමට ද පියවර ගෙන තිබේ.
+However, it was not immediately clear whether the cause of death was an allergic reaction to the vaccine.
 
-අවශ්‍යකරන ලිපිද්‍රව්‍ය ඇතුලු භාණ්ඩ මිලදී ගැනීමට කොමිසම මේ වන විටත් කටයුතු කරමින් සිටන බව සඳහන් ය.
+◼️
 
-මේ අතර ජනාධිපතිවරණය ප්‍රථමයෙන් පවත්වන බවට ජනාධිපතිවරයා විසින් ප්‍රකාශ කළ ද ආණ්ඩුවේ ප්‍රධානතම හවුල්කාර පක්ෂය වන ශ්‍රී ලංකා පොදුජන පෙරමුණේ ඇතැම් පාර්ශ්ව මහමැතිවරණයක් පැවැත්වීමට කටයුතු කරන ලෙස ද ජනාධිපතිවරයාගෙන් ඉල්ලීමක් කර ඇති බව වාර්තා වෙයි.
-
-...
-
-[Data](articles/881dbdb0.json)
+[Data](articles/6bb531f3.json)
 
 ---
 
-### ஸ்ரீ.சு.கட்சியின் முக்கிய பதவிகளில் மாற்றம்
+### The Election Commission is preparing for the election
+
+*2024-03-30 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195111) · `si`
+
+The Election Commission is preparing for the presidential election, with preliminary arrangements made and steps taken to inform Assistant Election Commissioners. The Commission is also purchasing goods. The President has asked for a general election in the Sri Lanka General Assembly party. MP Patali Champika Ranawaka warns of problems if the election is held in June.
+
+🟩
+
+The Elections Commission states that the preliminary arrangements have been prepared for the presidential election.
+
+The presidential election is scheduled to be constituent in the afternoon of this year and is responding to Ada Derana that the Commission is prepared to be prepared for this purpose.
+
+He said that a sum of Rs.
+
+Steps have also been taken to inform all Assistant Election Commissioners regarding the activities of the election.
+
+The Commission states that the Commission is already acting in the process of purchasing goods.
+
+Meanwhile, it is reported that the President has asked the President to hold a general election in the Sri Lanka General Assembly party, the Presidential election.
+
+Addressing a gathering in Galle, MP Patali Champika Ranawaka said that if a correspondence was held in June, there would be problems.
+
+◼️
+
+[Data](articles/881dbdb0.json)
+
+[Extended Data](ext_articles/881dbdb0.ext.json)
+
+---
+
+### Change in key positions of the SLFP
 
 *2024-03-30 18:24:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீ-சு-கட்சியின்-முக்கிய-பதவிகளில்-மாற்றம்/175-335370) · `ta`
 
-பாராளுமன்ற உறுப்பினர்களான துமிந்த திஸாநாயக்க, லசந்த அலகியவண்ண மற்றும் மஹிந்த அமரவீர ஆகியோர் ஶ்ரீலங்கா சுதந்திர கட்சியின் முக்கிய பதவிகளில் இருந்து நீக்கப்பட்டுள்ளனர் என தெரிவிக்கப்படுகின்றது.
+MPs Duminda Dissanayake, Lasantha Alaiyawanna, and Mahinda Amaraweera have been removed from the Sri Lanka Freedom Party (SLFP). KP Gunawardena and Hector Bethmage have been appointed to replace them.
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் அனைத்து தொகுதி அமைப்பாளர்கள் மற்றும் செயற்குழு உறுப்பினர்கள் இன்று (30) கட்சித் தலைமையகத்திற்கு அழைக்கப்பட்டிருந்த நிலையில், செயற்குழுவில் இந்த தீர்மானங்கள் எடுக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+🟩
 
-அதன்படி, கட்சியின் தேசிய அமைப்பாளர் பதவியில் இருந்து  துமிந்த திஸாநாயக்க நீக்கப்பட்டு குறித்த பதவிக்கு  கே.பி.குணவர்தன நியமிக்கப்பட்டுள்ளார்.
+It is reported that MPs Duminda Dissanayake, Lasantha Alaiyawanna and Mahinda Amaraweera have been sacked from the Sri Lanka Freedom Party.
 
-மேலும், லசந்த அலகியவண்ண பொருளாளர் பதவியில் இருந்து நீக்கப்பட்டு குறித்த பதவிக்கு ஹெக்டர் பெத்மகே நியமிக்கப்பட்டுள்ளார்.
+The decisions have been taken at the Executive Committee as all the organizers of the Sri Lanka Freedom Party (SLFP) and members of the Sri Lanka Freedom Party (SLFP) have been invited to the party headquarters today.
 
-அதேபோல், மஹிந்த அமரவீர சிரேஷ்ட உப தலைவர் பதவியில் இருந்தும் நீக்கப்பட்டுள்ள நிலையில் சரத் ஏக்கநாயக்க அப்பதவிக்கு நியமிக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது. R
+Accordingly, KP Gunawardena has been appointed for the removal of Duminda Dissanayake from the post of party's national organizer.
+
+In addition, Hector Bethmage has been appointed to the post of Lasantha Alagiyavanna Treasurer.
+
+Similarly, Mahinda Amaraweera has been removed from the post of Senior Vice President Sarath Ekanayake.. Remble
 
 ◼️
 
 [Data](articles/90ee4ab9.json)
+
+[Extended Data](ext_articles/90ee4ab9.ext.json)
 
 ---
 
@@ -2233,23 +2265,5 @@ They belong to the Anuradhapura - Gravastipura and Kelani areas, the media spoke
 [Data](articles/45362e7d.json)
 
 [Extended Data](ext_articles/45362e7d.ext.json)
-
----
-
-### National Hospital Colombo water tanks untouched for 20 years: Dr. Bellana
-
-*2024-03-29 22:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/National-Hospital-Colombo-water-tanks-untouched-for-20-years-Dr-Bellana/108-279845) · `en`
-
-Colombo, March 29 (Daily Mirror) - The National Hospital Colombo (NHC) Deputy Director Dr. Rukshan Bellana, said today that the hospital's main water tank tower and other water storage tanks have not been cleaned in the past 20 years.
-
-Speaking to the media, he revealed that the hospital currently has approximately 161 water storage tanks, including the main water tank tower.
-
-Surprisingly, there are no records available documenting the cleaning schedule or installation dates for these tanks, said Dr. Bellana adding that according to standard protocols, water storage tanks should be cleaned at least once every three months. However, shockingly, these tanks have not been cleaned for the past 20 years.
-
-...
-
-[Data](articles/56819326.json)
-
-[Extended Data](ext_articles/56819326.ext.json)
 
 ---

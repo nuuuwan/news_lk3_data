@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 07:15:38**
+As of **2024-03-30 07:29:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,571
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,990 (100.0%) of 15,991 articles have been extended.
+15,991 (100.0%) of 15,991 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,21 +56,27 @@ In a letter to US Secretary of State Antony Blinken, US Congress members Donald 
 
 ---
 
-### ප්‍රදේශ කිහිපයකට වැසි
+### Showers in several areas
 
 *2024-03-30 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195085) · `si`
 
-බස්නාහිර, දකුණ, සබරගමුව සහ මධ්‍යම පළාත්වල ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers and thundershowers expected in Western, Southern, Sabaragamuwa, Central, North Central, Uva, and Northwestern provinces. Some areas in Galle, Sabaragamuwa, Uva, and Western provinces may be affected. Prepare for winds and landslides.
 
-උතුරුමැද, ඌව සහ වයඹ පළාත්වල ස්ථාන ස්වල්පයක ප.ව. 2.00 න් පමණ පසුවැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+🟩
 
-මධ්‍යම, සබරගමුව, ඌව සහ බස්නාහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+Western, Southern, Sabaragamuwa and Central provinces. Showers or thundershowers will occur at several places, about 2.00.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට දැනුම් දී තිබේ.
+In the North Central, Uva and Northwestern provinces. Showers and thundershowers will occur at 2.00.
+
+In some places in the Galle, Sabaragamuwa, Uva and Western provinces, are expected to be methaved in the Galle and Matara districts.
+
+The Department of Meteorology has informed the people to take steps to take necessary arbitrary winds and landslides with thunderstorms.
 
 ◼️
 
 [Data](articles/ac2eeb14.json)
+
+[Extended Data](ext_articles/ac2eeb14.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 07:29:50**
+As of **2024-03-30 07:52:17**
 
 ## Newspaper Stats
 
-*Scraped **15,991** Articles*
+*Scraped **15,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ tamilmirrorlk | 1,909
 adaderanalk | 1,922
 virakesarilk | 2,276
 dailymirrorlk | 2,470
-adaderanasinhalalk | 2,571
+adaderanasinhalalk | 2,572
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,991 (100.0%) of 15,991 articles have been extended.
+15,991 (100.0%) of 15,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### මුහුදුබඩ මාර්ගයේ දුම්රිය ප්‍රමාදය තවමත් - මගීන්ට දැනුම්දීමක්
+
+*2024-03-30 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195086) · `si`
+
+අද (30) සහ හෙට (31) දිනයේ ද මුහුදුබඩ මාර්ගයේ දුම්රිය ධාවනයේ යම් ප්‍රමාදයක් සිදුවිය හැකි බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කළේ වැල්ලවත්ත සහ කොටුව අතර දුම්රිය ධාවනය එක් මන්තීරුවකට සීමා කිරීම මීට හේතුවී ඇති බවය.
+
+නාගරික සංවර්ධන අධිකාරිය විසින් වැල්ලවත්ත සහ බම්බලපිටිය දුම්රිය ස්ථාන අතර ඇති නල මාර්ගයක සිදුකරන නඩත්තු කටයුත්තක් හේතුවෙන් මෙම තත්ත්වය මතුව තිබේ.
+
+අද දිනයේ මේ හේතුවෙන් මුහුදුබඩ මාර්ගයේ දුම්රිය ගමන්වාර 25ක් අවලංගු වනු ඇති බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+කෙසේවෙතත් එළඹෙන ඉරිදා රාත්‍රියෙන් පසු දුම්රිය ධාවනය යථා තත්ත්වයට පත්වනු ඇති බව එම දෙපාර්තමේන්තුව වැඩිදුරටත් පැවසුවේය.
+
+මේ අතර දුම්රිය ප්‍රවේශපත්‍ර මාර්ගගත ක්‍රමවේදය ඔස්සේ වෙන්කිරීමේ ක්‍රියාවලිය විධිමත් පරිදි සිදුකිරීමට ප්‍රවාහන බලධාරීන් මේවන තෙක් පියවර ගෙන නොමැති බවට දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය චෝදනා කරයි.
+
+එහි සභාපති සුමේධ සෝමරත්න මහතා සඳහන් කළේ, එළැඹෙන සඳුදා දිනයේ ඒ පිළිබඳ පැවැත්වෙන සාකච්ඡාවේදී තම සංගමයේ යෝජනා ඉදිරිපත් කිරීමට නියමිත බවය.
+
+◼️
+
+[Data](articles/8f5ec820.json)
+
+---
 
 ### US to support the self -determination of Eelam Tamils: UN reconciliation efforts in Sri Lanka have failed
 
@@ -2245,37 +2269,5 @@ Meanwhile, MPs of the PA, who holds cabinet posts in the government, have a firm
 [Data](articles/b167a3c0.json)
 
 [Extended Data](ext_articles/b167a3c0.ext.json)
-
----
-
-### Be careful with people;Do not click on links shared on social media
-
-*2024-03-29 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/179956) · `ta`
-
-SLCERT warns against clicking on social media links, as they may lead to identity theft. Links can steal personal details like NIC, bank info, and more. Always verify credibility before clicking.
-
-🟩
-
-The Sri Lanka System Emergency Ready Committee (SLCERT) has asked the people not to click on the links shared on social media, claiming that gifts will be provided using popular trade names and their trade stamps.
-
-Senior Information Safety Engineer of the Sri Lanka Computer Emergency Division, Saruka Tamunubola said,
-
-The links are shared with SMS, WhatsApp, X (Twitter) and a call from Facebook and handheld phone.
-
-So if these links come up, first confirm their credibility before clicking. You can come from your friends circle like this.
-
-Click on these links shared on some social media can be stolen.
-
-In addition, you will get the details such as your National Identity Card number (NIC), Driver's Permit, Bank Account Details, OTP (OTP), a once -used password and working details.
-
-Sometimes the links can be downloaded on the third -party mobile phone and stole the details of the mobile phone.
-
-Therefore, they may not be affected, so they should not share those links with others.
-
-◼️
-
-[Data](articles/f457a195.json)
-
-[Extended Data](ext_articles/f457a195.ext.json)
 
 ---

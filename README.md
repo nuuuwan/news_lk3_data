@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 08:52:26**
+As of **2024-03-30 09:03:04**
 
 ## Newspaper Stats
 
-*Scraped **15,998** Articles*
+*Scraped **16,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,44 +13,106 @@ bbccomsinhala | 170
 dbsjeyarajcom | 197
 newsfirstlk | 363
 dailyftlk | 862
-economynextcom | 879
+economynextcom | 880
 islandlk | 887
 adalk | 1,342
-tamilmirrorlk | 1,911
+tamilmirrorlk | 1,912
 adaderanalk | 1,923
 virakesarilk | 2,276
-dailymirrorlk | 2,470
+dailymirrorlk | 2,475
 adaderanasinhalalk | 2,575
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,996 (100.0%) of 15,998 articles have been extended.
+15,998 (100.0%) of 16,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### ගුල්ලෝ ගැසූ කෝටි 15ක් වටිනා පාන්පිටි සහ පරිප්පු තොගයක් ගබඩාවක
+### அக்கரைப்பற்று - கொழும்பு பஸ் விபத்து: பலர் காயம்
 
-*2024-03-30 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195089) · `si`
+*2024-03-30 08:39:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அக்கரைப்பற்று-கொழும்பு-பஸ்-விபத்து-பலர்-காயம்/175-335360) · `ta`
 
-මිනිස් පරිභෝජනයට නුසුදුසු රුපියල් කෝටි 15ක් පමණ වටිනා පාන්පිටි ඇතුළු පාරිභෝගික භාණ්ඩ තොගයක් ගනේවල්පොළ ප්‍රදේශයේ ගබඩාවක සඟවා තිබියදී සොයාගත් බව කැකිරාව සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලය පවසයි.
+கொழும்பில் இருந்து அக்கரைப்பற்று நோக்கி பயணிகளை ஏற்றி சென்ற அதிசொகுசு பஸ் இன்று (30) அதிகாலை, மட்டக்களப்பு ஆரையம்பதி 4 ஆம் கட்டை பகுதியில் விபத்துக்குள்ளாகியுள்ளது
 
-එහි ප්‍රකාශකයෙකු සඳහන් ක‍ළේ, මෙම භාණ්ඩ වෙළෙඳපොළට නිකුත් කිරීමට සූදානම් කර තිබු බවය.
+இந்த விபத்தில் சிக்கி, பலருக்கு காயம் ஏற்பட்டுள்ளதோடு, சில வர்த்தக நிலையங்கள் பெரும் சேதத்திற்குள்ளாகியுள்ளன.
 
-එහි කිලෝ 25 සහ 50 පාන් පිටි ඇසුරුම් 10,000කට අධික ප්‍රමාණයක් තිබී සොයාගත් බව එම ප්‍රකාශකයා වැඩිදුරටත් සඳහන් කළේය.
+மட்டக்களப்பு காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட ஆரையம்பதி 4 ஆம் கட்டை பகுதியிலே இச்சம்பவம் ஏற்பட்டுள்ளது.
 
-ඊට අමතරව මිනිස් පරිභෝජනයට නුසුදුසු පරිප්පු තොගයක්ද එහි තිබී සොයාගෙන තිබේ.
+கொழும்பிலிருந்து கல்முனை நோக்கி பயணித்துக் கொண்டிருந்த சொகுசு பஸ் அதிகாலை 3.30 மணியளவில் 4 ஆம் கட்டை பகுதியில் வேகக்கட்டுப்பாட்டை இழந்த நிலையில் வீதியை விட்டு விலகி அருகிலுள்ள வர்த்தக நிலையங்கள் பலவற்றை உடைத்தெறிந்துள்ளது.
 
-කැකිරාව සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලයට ලද තොරතුරක් මත එහි නිලධාරීන් සිදුකළ ක්ෂණික වැටලීමකදී මෙම භාණ්ඩ තොගය සොයා ගෙන තිබේ.
+இந்த விபத்துச் சம்பவத்தின் போது சாரதி உட்பட்ட பலர் பலத்த காயமடைந்த நிலையில் மேலதிக சிகிச்சைகளுக்காக காத்தான்குடி மற்றும் ஆரையம்பதி வைத்தியசாலைகளுக்கு அழைத்துச் செல்லப்பட்டுள்ளனர். சாரதியின் தூக்கக் கலக்கமே விபத்துக்கு காரணம் என பொதுமக்கள் தெரிவிக்கின்றனர்.
 
-පාන් පිටි තොගයට  මෙම ස්ථානයේදී විෂ ද්‍රව්‍ය යොදා එහි සිටි ගුල්ලන් මර්දනය කර යළි සකසා කල් ඉකුත්වීමේ දින වෙනස් කර  අලුතින් මුද්‍රණය කර  නව ඇසුරුම්වල නැවත අසුරා යළි බෙදා හැරීමට සූදානම්ව තිබී ඇති බව සෞඛ්‍ය බලධාරීන් සිදුකළ විමර්ශනවලදී අනාවරණය වී ඇත.
+◼️
+
+[Data](articles/89b962a4.json)
+
+---
+
+### Singaporean authority accuses Colombo Port of inaction in X-Press Pearl disaster
+
+*2024-03-30 08:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Singaporean-authority-accuses-Colombo-Port-of-inaction-in-X-Press-Pearl-disaster/108-279872) · `en`
+
+Colombo, March 30 (Daily Mirror)- A Singaporean authority has made a serious accusation against Colombo Port over the X- Press Pearl disaster saying that to assist was deemed limited and there was no follow-up after a team of firemen had assessed the situation onboard XP.
+
+The report which has been released to the public domain has been compiled by the Transport Safety Investigation Bureau (TSIB) which is the air, marine and rail accidents and incidents investigation authority in Singapore. It says the tugs sent for firefighting had various limitations which did not offer continuous firefighting support.
+
+“The Master did not receive answer from Colombo Port Control on the several requests made for urgent berthing before the fire went out of control,” the report says.
 
 ...
 
+[Data](articles/bb618790.json)
+
+---
+
+### A stock of breads and lentils worth Rs. 15 crores worth Rs
+
+*2024-03-30 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195089) · `si`
+
+Health authorities in Kakirawa recovered Rs. 15 crores worth of breads and lentils, including over 25 kilograms of bread flour and inappropriate lentils, from 25,000 papers. The goods were prepared for release but were seized due to expiry date manipulation. A person was taken action against in the Kandy area.
+
+🟩
+
+The office of the Health Medical Officer of Health Kakirawa Health Medical Officer's Office, the Kekirawa Health Medical Officer's Office said.
+
+A spokesman said that these goods were prepared to be released to the market.
+
+The spokesperson added that over 25 kilograms of bread flour were found in the past 25,000 papers.
+
+In addition, there was also a stock of lentils inappropriate for human consumption.
+
+The goods were recovered following information on information received by the Kekirawa Health Medical Officer of Health.
+
+Investigations have revealed that the health authorities have been prepared to repress and re-distribute the expiry date and re-distributing the expiry date and re-distributing the date of expiration date.
+
+The spokesman of the Ministry of Health said that a person was running against the Kandy area and had taken action against another person in the Kandy.
+
+◼️
+
 [Data](articles/f66071d5.json)
+
+[Extended Data](ext_articles/f66071d5.ext.json)
+
+---
+
+### Sri Lanka earmarks Rs1bn for cricket development
+
+*2024-03-30 08:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-earmarks-rs1bn-for-cricket-development-156598/) · `en`
+
+ECONOMYNEXT – Preventing politicians from assuming high positions in sports clubs could contribute to a healthier sporting environment, President Ranil Wickremesinghe has said, pledging one billion rupees for cricket development.
+
+“It is important to maintain a clear distinction between politics and sports,” Wickremesinghe said advocating for the exclusion of politicians from high-ranking positions within sports clubs.
+
+This did not signify a disengagement from sports, he said. “The government has earmarked one billion rupees for cricket development this year, with plans for additional funding in the following year,” Wickremesinghe was speaking at the 125th anniversary celebration of the Sinhalese Sports Club (SSC) at the Shangri-La Hotel Colombo.
+
+This investment will be managed by a trust overseen by Sidath Wettamuni. The funds will be utilized to enhance cricket programs in rural schools, organize cricket matches and foster the growth of cricket at the grassroots level.
+
+...
+
+[Data](articles/859a9e7b.json)
 
 ---
 
@@ -71,6 +133,8 @@ Temporarily strong gusty winds and very rough seas can be expected during thunde
 ◼️
 
 [Data](articles/86f07164.json)
+
+[Extended Data](ext_articles/86f07164.ext.json)
 
 ---
 
@@ -164,6 +228,20 @@ Chairman of the President Asiri Walisundara said that nearly four million import
 
 ---
 
+### Abolition of corporal punishment problematic in Sri Lanka: NCPA
+
+*2024-03-30 07:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Abolition-of-corporal-punishment-problematic-in-Sri-Lanka-NCPA/108-279870) · `en`
+
+Colombo, March 30 (Daily Mirror)- Abolition of corporal punishment in Sri Lanka is problematic because of the attitude of children, parents and the teachers, said the National Child Protection Authority (NCPA).
+
+NCPA Chairman Channaka Udaya Kumara Amarasinghe told Daily Mirror that the main issue in Sri Lanka is the attitude of children, parents and the teachers with regard to the implementation of the ban.
+
+...
+
+[Data](articles/d13371c0.json)
+
+---
+
 ### Train delay still on the coastal road still informed of passengers
 
 *2024-03-30 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195086) · `si`
@@ -239,6 +317,24 @@ The Department of Meteorology has informed the people to take steps to take nece
 [Data](articles/ac2eeb14.json)
 
 [Extended Data](ext_articles/ac2eeb14.ext.json)
+
+---
+
+### Karuna decides to back Ranil at Presidential Election
+
+*2024-03-30 06:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Karuna-decides-to-back-Ranil-at-Presidential-Election/108-279873) · `en`
+
+Colombo, March 30 (Daily Mirror) - The Tamil United Freedom Front, the political party led by one time LTTE commander turned politician Vinayagamurthi Muralitharan alias Karuna Amman, decided to support President Ranil Wickremesinghe if he contests the presidential election.
+
+Mr. Muralitharan who once served as the Deputy Minister of Rehabilitation in the Mahinda Rajapaksa government, supported Mr. Gotabaya Rajapaksa at the 2019 presidential election.
+
+“The President has turned around the economy.the rupee is appreciating against the US dollar.
+
+It is a clear sign of our economy getting back on track,” he told Daily Mirror. He said the Central Committee of his party met in Batticaloa yesterday and decided to support the President.
+
+...
+
+[Data](articles/a98b4d61.json)
 
 ---
 
@@ -1093,6 +1189,24 @@ Ms. Karunaratne said the Official Poverty Line has gone up during the last four 
 [Data](articles/0bf2a7c5.json)
 
 [Extended Data](ext_articles/0bf2a7c5.ext.json)
+
+---
+
+### Minimum monthly expenditure per person gone up by 144% compared to 2019:DCS
+
+*2024-03-29 19:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Minimum-monthly-expenditure-per-person-gone-up-by-144-compared-to-2019DCS/155-279837) · `en`
+
+Colombo, March 29 (Daily Mirror)- The minimum expenditure required by a person to fulfill the basic needs for a month has gone up by 144 per cent in January, 2024 when compared to 2019, the Official Poverty Line declared by the Department of Census and Statistics (DCS) has revealed.
+
+Additional Director General (Statistics) of the Department Shyamalie Karunaratne said a person to fulfill the basic needs required only Rs. 6966 per month in 2019 whereas a person to fulfill the same needs now require Rs. 17,014.
+
+She said a family of four members need Rs. 68,056 to fulfill the basic needs as per the Official Poverty Line calculated based on statistics of the Household Income and Expenditure survey.
+
+Ms. Karunaratne said the Official Poverty Line has gone up during the last four years due to the drastic increase in inflation.
+
+...
+
+[Data](articles/b6aec70e.json)
 
 ---
 
@@ -2115,157 +2229,5 @@ The police said that two multi-day fishing vessels, three-month-old fishing vess
 [Data](articles/acdb1efe.json)
 
 [Extended Data](ext_articles/acdb1efe.ext.json)
-
----
-
-### 500 rupees bribed police sergeant jailed
-
-*2024-03-29 13:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/179964) · `ta`
-
-A police sergeant bribed a 500-rupee three-wheeler driver to avoid legal action, leading to a four-year prison sentence and a fine of Rs 20,000.
-
-🟩
-
-A police sergeant who bribed 500 rupees has been sentenced to four years in prison.
-
-According to the Commission to Investigate Bribery and Corruption, the police officer has been sentenced to the Chief Magistrate's Court of Colombo.
-
-The three -wheeler driver is reportedly bribed by the police sergeant 500 rupees to avoid filing legal action on traffic violation.
-
-Based on the announcement of the Deputy Inspector General of Police, the investigation was launched and the case was filed with four charges.
-
-After the police sergeant proved guilty of all four charges, he was sentenced to four years in prison and was ordered to pay a fine of Rs 20,000 and a bribe of 500 rupees.
-
-◼️
-
-[Data](articles/060865dc.json)
-
-[Extended Data](ext_articles/060865dc.ext.json)
-
----
-
-### Sri Lanka president to be common, independent candidate at poll: UNP
-
-*2024-03-29 13:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-be-common-independent-candidate-at-poll-unp-156562/) · `en`
-
-ECONOMYNEXT — President Ranil Wickremesinghe will contest Sri Lanka’s upcoming presidential election as an independent candidate backed by a broad alliance, according to Labour Minister Manusha Nanayakkara.
-
-The minister said speaking at an event that Wickremesinghe’s candidacy will be a neutral one not representing any one party.
-
-“President Wickremesinghe will contest as an independent national candidate on a common platform where people representing all parties, ethnicities and religions as well as people with diverse views can come together, and once again become president of this country,” said Nanayakkara.
-
-Former parliamentarian P Harrison, a spokesman for Wickremesinghe’s United National Party (UNP), made the bold claim that he will get 10 million votes at the presidential poll due to be held between September 17 and October 17.
-
-...
-
-[Data](articles/6d44b0bc.json)
-
-[Extended Data](ext_articles/6d44b0bc.ext.json)
-
----
-
-### A foreigner falls to a lord 100m precipice
-
-*2024-03-29 13:05:11* · [`adalk`](https://www.ada.lk/breaking_news/ඇහැලකණුවේ-මීටර්-100ක-ප්‍රපාතයකට-විදේශිකයෙකු-ඇදවැටෙයි/11-408845) · `si`
-
-A foreigner from Mumbai, India, fell 100m into a precipice near Sri Pada, Ratnapura. The Maskeliya Police Special Task Force rescued the injured and hospitalized them at the Nallathaniya police station.
-
-🟩
-
-The Maskeliya Police Special Task Force officials have taken steps to hospital with the rescue of a 100-memory surface in Ehethakanda, Ratnapura.
-
-The injured were a 25-resident of Mumbai, India.
-
-The youth was with the Sri Lankan Sri Pada road along the Sri Lankan Sri Paharawarda along the Sri Pada road.
-
-Police Special Task Force officials were rescued by the officers of the Police Special Task Force officials, who were immediately rescued by the police staff officials.
-
-The Nallathaniya has been taken to take up the Nallathaniya police station and hospitalized with the casualty to the Nalluthaniya with the casualties.
-
-◼️
-
-[Data](articles/f0fcdc2a.json)
-
-[Extended Data](ext_articles/f0fcdc2a.ext.json)
-
----
-
-### Under the CID of PHI
-
-*2024-03-29 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195067) · `si`
-
-A PHI official is receiving information on the murder of Treasurer Roshara in Elpitiya. The case is under investigation by the Department of Investigations. CCTV footage has been found.
-
-🟩
-
-Police say that a pHI official is receiving some information regarding the killing of shot in Elpitiya.
-
-Deputy Inspector General of Police, Spokesperson Leaving Nihal Talduuwa said that the information is being established.
-
-He said the investigating crimes have been handed over to the Department of Investigations.
-
-Treasurer Roshara of the Sri Lanka Public Health Inspectors Association was shot dead on the 26th of February.
-
-Investigators also found a CCTV footage in a motorcycle with a motorcycle.
-
-Treasurer of the Sri Lanka Public Health Inspectors Association w. D Roshan Kumara was assassinated at his residence in Elpitiya, Karaindugahahack.
-
-The Police Media Spokesperson further stated that investigations have not been permanently established in recent investigations due to the cases.
-
-◼️
-
-[Data](articles/58cc1899.json)
-
-[Extended Data](ext_articles/58cc1899.ext.json)
-
----
-
-### Former South African president Zuma prohibits contesting elections
-
-*2024-03-29 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/179962) · `ta`
-
-Jacob Zuma, South Africa's former president, is banned from contesting the May 29 general election by the Elections Commission, reportedly due to corruption allegations. Zuma, who resigned in 2018, can appeal the ban on April 2.
-
-🟩
-
-The Elections Commission has banned South Africa's former President Jacob Zuma from contesting the upcoming general election.
-
-The cause of this restriction is not made public. However, the committee said it was accepted by the objections put forward against his contest.
-
-It is thought that the area was deleted in 2021 due to corruption allegations.
-
-Suma (81) can appeal against the ban on April 2.
-
-Jacob Zuma, who has been the president since 2009, has been forced to resign in 2018 due to corruption allegations.
-
-South Africa's parliamentary general election will be held on May 29.
-
-◼️
-
-[Data](articles/42ca7e66.json)
-
-[Extended Data](ext_articles/42ca7e66.ext.json)
-
----
-
-### Rs. 100mn worth of assets owned by underworld figures confiscated
-
-*2024-03-29 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98286/rs-100mn-worth-of-assets-owned-by-underworld-figures-confiscated) · `en`
-
-Assets worth more than Rs. 100 million – including multi-day fishing craft, three-wheelers, motorcycles and plots of land – owned by underworld figures have been confiscated, the police said.
-
-These assets were impounded by the Illegal Assets and Properties Investigation Division of Sri Lanka Police in Galle, Ambalangoda, and Ahungalla, under the ongoing ‘Yukthiya’ operation.
-
-This special island-wide operation was launched in December 2023 to crack down on drug peddling and organized crimes in the country.
-
-10. IMUL-A-0810-GLE fishing vessel under production – Rs. 5.2 million (paid for production)
-
-11. Three houses, one storage room and five land plots – Rs. 53 million
-
-◼️
-
-[Data](articles/d0d61fa6.json)
-
-[Extended Data](ext_articles/d0d61fa6.ext.json)
 
 ---

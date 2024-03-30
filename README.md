@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 22:03:43**
+As of **2024-03-30 22:17:49**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,081 (100.0%) of 16,082 articles have been extended.
+16,082 (100.0%) of 16,082 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### හෙට ආරක්ෂාව දැඩි කෙරේ
+### The security of tomorrow is intensified
 
 *2024-03-30 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195115) · `si`
 
-පාස්කු ඉරුදින දේව මෙහෙයන් පැවැත්වෙන හෙට (31) දිනයේ සියලු කිතුනු දේවස්ථාන ආශ්‍රිතව විශේෂ ආරක්ෂක වැඩපිළිවෙළක් ක්‍රියාත්මක කිරීමට පොලීසිය පියවර ගෙන තිබේ.
+Tomorrow, police will intensify security in Christian churches, a special program running from the GCE to Great Friday. Measures will be in place from afternoon until the end of the Minister's service.
 
-දේව මෙහෙය අවසන් වී සියලු බැතිමතුන් සිය නිවෙස් වෙත ගමන් කෙරෙන තෙක් හෙට පස්වරුව දක්වාම මෙම ආරක්ෂක වැඩපිළිවෙළ ක්‍රියාත්මක කරන බව පොලිස් මූලස්ථානය සඳහන් කළේය.
+🟩
 
-ඊයේ දිනට යෙදී තිබූ මහා සිකුරාදා දින දේව මෙහෙයන් ආරම්භයේ සිටම එම ආරක්ෂක වැඩපිළිවෙළ ක්‍රියාත්මක වූ අතර එය හෙට දිනයේ දී තවත් තීව්‍ර කර තිබේ.
+Police have taken measures to implement a special security program in all Christians in all Christian churches tomorrow (31).
+
+The security measures will be implemented tomorrow afternoon until the end of the Minister's service.
+
+The security plan was operating since the inception of the GCE to the Great Friday of the GCE Oya Day yesterday.
 
 ◼️
 
 [Data](articles/6d2a8e74.json)
+
+[Extended Data](ext_articles/6d2a8e74.ext.json)
 
 ---
 

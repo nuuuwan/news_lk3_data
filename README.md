@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 17:03:02**
+As of **2024-03-30 17:18:07**
 
 ## Newspaper Stats
 
-*Scraped **16,064** Articles*
+*Scraped **16,066** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ dailyftlk | 864
 economynextcom | 882
 islandlk | 887
 adalk | 1,342
-tamilmirrorlk | 1,919
+tamilmirrorlk | 1,920
 adaderanalk | 1,936
 virakesarilk | 2,286
 dailymirrorlk | 2,483
-adaderanasinhalalk | 2,590
+adaderanasinhalalk | 2,591
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,059 (100.0%) of 16,064 articles have been extended.
+16,064 (100.0%) of 16,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### விசித்திர உடையில் வீதிக்கு இறங்கிய பொலிஸார்
+
+*2024-03-30 17:08:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசித்திர-உடையில்-வீதிக்கு-இறங்கிய-பொலிஸார்/175-335369) · `ta`
+
+மஹியங்கனை - கண்டி பிரதான வீதியில் மகாவலி பாலத்திற்கு அருகில் இன்று (30) சோதனையில் ஈடுபட்ட பொலிஸ் அதிகாரிகளின் உடை அனைவராலும் பேசப்படுகின்றது.
+
+காலை 8.00 மணி முதல் மதியம் 12.00 மணி வரை வழக்கமாக மக்கள் பார்க்காத வகையிலான ஆடைகளை அணிந்து கொண்டு சிறப்பு போக்குவரத்து சோதனை அமுல்படுத்தப்பட்டது.
+
+மஹியங்கனை மாபாகடவெவ பொலிஸ் பயிற்சிப் பாடசாலையில் பயிற்சி பெற்று வரும் 240 தொழிற்பயிற்சி பொலிஸ் உத்தியோகத்தர்கள் "யுக்திய" நடவடிக்கையுடன் இணைந்து போதைப்பொருள் சோதனைகளுக்காக போக்குவரத்தையும் பொதுமக்களையும் சோதனை செய்ய இவ்வாறு ஒன்றிணைந்தனர்.
+
+ரிதிமாலியத்த, எகிரியன் கும்புர, லொக்கலோயா, தம்பான 51 மைல்கல், வெரகந்தோட்டை பாலத்திற்கு அருகில், சொரபொர சந்தி ஆகிய 06 இடங்களில் இந்த சோதனைகள் இடம்பெற்றன.
+
+பயிற்சி பெறும் அதிகாரிகளுக்கு ஆய்வுகளின் நடைமுறை அனுபவத்தை வழங்குவதே இதன் நோக்கமாகும். R
+
+◼️
+
+[Data](articles/1491df54.json)
+
+---
+
+### කාලගුණයෙන් ජනතාවට හදිසි දැනුම්දීමක්
+
+*2024-03-30 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195109) · `si`
+
+රට පුරා ප්‍රදේශ රැසක හෙට (31) දිනයේ මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමු කළ යුතු මට්ටමක පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/851d6061.json)
+
+---
 
 ### Audit report recommends CAA to increase raids against MRP violations
 
@@ -48,6 +80,8 @@ It was also observed that it took more than 2 years to file cases for 3,616 raid
 
 [Data](articles/bf13c7bb.json)
 
+[Extended Data](ext_articles/bf13c7bb.ext.json)
+
 ---
 
 ### On the Path to Excellence
@@ -62,21 +96,29 @@ ACE Apparels and Aitken Spence Garments stand at the forefront of industry recog
 
 [Data](articles/ae1f89f5.json)
 
+[Extended Data](ext_articles/ae1f89f5.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාව කඩුලු 4ක් බිඳවැටී ලකුණු 314යි
+### Sri Lanka collapses for 4 runs
 
 *2024-03-30 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195108) · `si`
 
-ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර දෙවැනි සහ අවසන් ටෙස්ට් තරගය අද (30) බංග්ලාදේශයේ චට්ටෝග්‍රෑම් හිදී ආරම්භ වුණි.
+Sri Lanka collapsed to 4 runs in the second Test against Bangladesh, after winning the toss and scoring 314 runs.
 
-කාසියේ වාසිය දිනූ ශ්‍රී ලංකා කණ්ඩායම පළමුවෙන් පන්දුවට පහර දීමට තීරණය කළේය.
+🟩
 
-ඒ අනුව අද දිනට තරගය නතර කරන විට කඩුලු 04ක් බිඳවැටී ලකුණු 314ක් රැස් කරගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+The second and final Test match between Sri Lanka and Bangladesh began at the Chartogram in Bangladesh today.
+
+Sri Lanka won the toss and decided to bat first.
+
+Sri Lanka scored four wickets in scope and scored 314 runs in the event.
 
 ◼️
 
 [Data](articles/b42a33c4.json)
+
+[Extended Data](ext_articles/b42a33c4.ext.json)
 
 ---
 
@@ -121,6 +163,8 @@ The country's official reserves also stood at USD 2.2 billion in February 2023, 
 ◼️
 
 [Data](articles/109338b7.json)
+
+[Extended Data](ext_articles/109338b7.ext.json)
 
 ---
 
@@ -2116,6 +2160,8 @@ Surprisingly, there are no records available documenting the cleaning schedule o
 
 [Data](articles/dbf872e8.json)
 
+[Extended Data](ext_articles/dbf872e8.ext.json)
+
 ---
 
 ### Indian
@@ -2191,59 +2237,5 @@ Q: The voice has been released now the police officers talking to the stress?
 [Data](articles/766ec02b.json)
 
 [Extended Data](ext_articles/766ec02b.ext.json)
-
----
-
-### Under the age of 19, UK beat Aussie by 35 runs
-
-*2024-03-29 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/179986) · `ta`
-
-England's U19 women beat Australia by 35 runs in the R20 series at Mahinda Rajapaksa Stadium, Hambantota. England scored 146/19.3, with Jodi Krukok and Josi Groves sharing 90 runs. England's bowlers took 9 wickets for 57 runs. Australia lost 5 wickets in 20 overs for 111 runs.
-
-🟩
-
-England won Australia by 35 runs in the under -19 women's R20 cricket series held at the Mahinda Rajapaksa Stadium in Hambantota on Friday (29).
-
-This is the second consecutive defeat of Australia following the defeat of Sri Lanka in the opening match on Thursday (29).
-
-Under the age of 19, the England women's team scored 146 runs for the loss of all wickets in 19.3 overs.
-
-The total number to lose the game at a steady intervals before the Power Play was completed before the Power Play was completed by the four players, Davina Perin (10), Erine Thomas (6), and Alexi Stonehouse (0).
-
-In this case, Jodi Krukok and the captain Josi Groves, in the 5th wicket, shared 90 runs and raised the total number to 120 runs.
-
-Jodi Krukok scored 31 runs, including 3 pounds and one six.
-
-Josi Groves, who lost the last game, faced 41 balls and scored 57 runs with 6 pounds and 2 sixes.
-
-The total number of England's total number of wits was 29 runs.
-
-...
-
-[Data](articles/e284752b.json)
-
-[Extended Data](ext_articles/e284752b.ext.json)
-
----
-
-### Confident SL eye series win over Bangladesh
-
-*2024-03-29 21:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Confident-SL-eye-series-win-over-Bangladesh/108-279839) · `en`
-
-Colombo, Mar. 29 (Daily Mirror) - After convincingly defeating Bangladesh in the first Test, Sri Lanka will be determined to clinch victory in the two-Test series when the two teams clash in the second Test starting at Chattogram tomorrow.
-
-Sri Lanka currently leads the series 1-0 following their impressive 328-run win in the first Test in Sylhet.
-
-The standout performers for Sri Lanka were Skipper Dhananjaya de Silva and batter Kamindu Mendis, who played pivotal roles in clinching victory with their exceptional centuries.
-
-Both players scored 102 runs each in the first innings and went on to achieve scores of 108 and 164 in the second innings.
-
-However, Sri Lanka faced a setback ahead of the second and final Test as Kasun Rajitha was sidelined due to an upper back injury, forcing him to return home for rehabilitation.
-
-...
-
-[Data](articles/78643a35.json)
-
-[Extended Data](ext_articles/78643a35.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 00:03:03**
+As of **2024-03-31 00:17:52**
 
 ## Newspaper Stats
 
-*Scraped **16,086** Articles*
+*Scraped **16,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 884
 islandlk | 887
 adalk | 1,345
 tamilmirrorlk | 1,923
-adaderanalk | 1,942
+adaderanalk | 1,943
 virakesarilk | 2,286
 dailymirrorlk | 2,483
 adaderanasinhalalk | 2,597
@@ -26,31 +26,57 @@ adaderanasinhalalk | 2,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,085 (100.0%) of 16,086 articles have been extended.
+16,086 (100.0%) of 16,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### ஜனாதிபதி தேர்தலில் தமிழர் தரப்பிலிருந்து பொது வேட்பாளர்?
+### IMF confirms increasing Egypt’s bailout loan to $8 billion
+
+*2024-03-30 23:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98315/imf-confirms-increasing-egypts-bailout-loan-to-8-billion) · `en`
+
+The executive board of the International Monetary Fund confirmed a deal with Egypt to increase its bailout loan from $3 billion to $8 billion, in a move that is meant to shore up the Arab country’s economy which is hit by a staggering shortage of foreign currency and soaring inflation.
+
+In a statement late Friday, the board said its decision would enable Egypt to immediately receive about $820 million as part of the deal which was announced earlier this month.
+
+The deal was achieved after Egypt agreed with the IMF on a reform plan that is centered on floating the local currency, reducing public investment and allowing the private sector to become the engine of growth, the statement said.
+
+Egypt has already floated the pound and sharply increased the main interest rate. Commercial banks are now trading the U.S. currency at more than 47 pounds, up from about 31 pounds. The measures are meant to combat ballooning inflation and attract foreign investment.
+
+...
+
+[Data](articles/f9d86cf8.json)
+
+---
+
+### General candidate from Tamil Nadu in the presidential election?
 
 *2024-03-30 23:41:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஜனாதிபதி-தேர்தலில்-தமிழர்-தரப்பிலிருந்து-பொது-வேட்பாளர்/71-335385) · `ta`
 
-மக்கள் ஆணையற்ற ஜனாதிபதியே தற்போது நாட்டில் இருக்கிறார். எனவே  சட்டத்தின் பிரகாரம் ஜனாதிபதி தேர்தல் நடாத்தப்பட வேண்டியது அவசியம்.
+MA Sumanthiran demands early dissolution of parliament for presidential election, citing law. TNA yet to decide on a common candidate, emphasizing election announcement first. UNP's Ravi Karunanayake supports Ranil Wickremesinghe, while National People's Power seeks support.
 
-அத்தோடு தற்போது உள்ள, மக்கள் ஆணையில்லாத பாராளுமன்றம் வெகு விரைவில் கலைக்கப்பட்டு தேர்தல் நடாத்தப்பட வேண்டும் எனவும் எம்.ஏ.சுமந்திரன் கோரியுள்ளார்.
+🟩
 
-யாழ்ப்பாணத்தில் இன்று நடாத்திய ஊடகவியலாளர் சந்திப்பின் போதே  எம்.ஏ.சுமந்திரன் இவ்வாறு தெரிவித்தார். இதன் போது அவர் மேலும் தெரிவித்ததாவது..
+The people are currently in the country in the country. Therefore, it is necessary to hold the presidential election according to the law.
 
-ஜனாதிபதி சொல்வது ஒன்று செய்வது இன்னொன்றாக இருக்கிறது. எனவே நடத்த வேண்டிய தேர்தல்களை கூட நடத்தாமல் இருக்கிற இந்த ஜனாதிபதி இனியும் தாதமிக்காது ஜனாதிபதித் தேர்தல் மற்றும் பொதுத் தேர்தலை உடனடியாக நடத்த வேண்டுமென்றார்.
+MA Sumanthiran has also demanded that the existing people's unimaginable parliament be dissolved soon and the election should be held.
 
-ஜனாதிபதி தேர்தலில் தமிழர் தரப்பிலிருந்து பொது வேட்பாளராக ஒருவரை நிறுத்துவதற்கு பேசப்பட்டு வருவது தொடர்பில் கேள்வி எழுப்பிய போது,
+MA Sumanthiran said this during a media briefing held in Jaffna today. He added that ..
 
-தமிழரசுக் கட்சி இதைப்பற்றி இன்னமும் கலந்துரையாடவில்லை எனவும் தேர்தல் அறிவிக்கப்படுகிற போது இது சம்மந்தமாக கலந்துரையாடி முடிவெடுப்போம் என பதிலளித்துள்ளார்.
+The president says one thing to do. Therefore, the president, who did not even hold the elections, would no longer be able to hold the presidential and general election immediately.
+
+When questioned about the presidential candidate in the presidential election, a common candidate was spoken of
+
+He replied that the TNA has not yet discussed this and that when the election is announced, it will take a decision.
+
+And the right to the general candidate or a separate candidate is the right to anyone. Anyone can contest the election. No one has the right to say that no one should compete.
 
 ...
 
 [Data](articles/0e3d7b97.json)
+
+[Extended Data](ext_articles/0e3d7b97.ext.json)
 
 ---
 
@@ -2235,29 +2261,5 @@ Because the man of the psychologist caused the accident.. He wants to surrender 
 [Data](articles/802f9c2b.json)
 
 [Extended Data](ext_articles/802f9c2b.ext.json)
-
----
-
-### This time yesterday - review
-
-*2024-03-30 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/179994) · `ta`
-
-"Crime Thriller Janer explores love, murder, and societal issues through a complex narrative involving Nikhil, Ritika, and their friends. The film, starring Sharik Hassan, Monica Ramesh, and Divakar Kumar, delves into themes of love, betrayal, and the consequences of one's actions. Despite its ambitious premise, the film's execution and pacing leave viewers divided."
-
-🟩
-
-Crime Thriller Janer, a crime thriller film, has attracted all the fans of the film, which is created to describe how today's younger generation is making a decision on love matters?Or not?We will continue to see.
-
-The story takes place around Nikhil (Sharika Hassan). Nikhil's parents are divorced. Nikhil's mother then marries another order and goes abroad. His father is unwilling to accept the marriage and dies.
-
-Thus Nikhil does not want to get caught in the marriage. Nikhil, who has been in love with a woman named Rithika for three years, ask her to get married.. Nikhil do not marry. But Leave says he can last in the relationship.
-
-Ritika refuses to accept this. In this case, Ritika -led friends decide to kill Nikil, who caused a hurricane in the lives of her friends. They also plan to blame the murder on a faceless man who has been continuously committing murder in a mountain area.. Did their plan benefit?Or not?That is the story of the film.
-
-...
-
-[Data](articles/e3f4f465.json)
-
-[Extended Data](ext_articles/e3f4f465.ext.json)
 
 ---

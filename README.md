@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 14:33:37**
+As of **2024-03-30 14:49:26**
 
 ## Newspaper Stats
 
-*Scraped **16,049** Articles*
+*Scraped **16,051** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,52 +17,106 @@ economynextcom | 882
 islandlk | 887
 adalk | 1,342
 tamilmirrorlk | 1,918
-adaderanalk | 1,932
+adaderanalk | 1,933
 virakesarilk | 2,286
 dailymirrorlk | 2,480
-adaderanasinhalalk | 2,584
+adaderanasinhalalk | 2,585
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,047 (100.0%) of 16,049 articles have been extended.
+16,049 (100.0%) of 16,051 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### මෛත්‍රීගේ සාකච්ඡාවට අධිකරණ ඇමති එයි
+### ඉවත් කිරීමට එරෙහිව අමරවීර, ලසන්ත සහ දුමින්ද නීති මගට
 
-*2024-03-30 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195099) · `si`
+*2024-03-30 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195100) · `si`
 
-පාස්කු ප්‍රහාරය සිදුකළේ කවුරුන්ද යන්න තමා දන්නා බවට සිදුකළ ප්‍රකාශය සම්බන්ධයෙන් පැහැදිලි කිරීම් සිදුකිරීම සඳහා හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා අද (30) ශ්‍රී ලංකා නිදහස් පක්ෂයේ සියලු ආසන සංවිධායකවරුන් සහ විධායක කමිටු සාමාජිකයින් පක්ෂ මූලස්ථානය වෙත කැඳවා තිබුණි.
+දුමින්ද දිසානායක, ලසන්ත අලගියවන්න සහ තමාව ශ්‍රී ලංකා නිදහස් පක්ෂයේ තනතුරුවලින් ඉවත් කිරීමට අද (30) ගත් තීරණයට එරෙහිව නීති මාර්ගයෙන් කටයුතු කරන බව අමාත්‍ය මහින්ද අමරවීර මහතා පවසයි.
 
-අද පෙරවරුවේ ආරම්භ වූ එම රැස්වීම සඳහා අධිකරණ අමාත්‍ය ආචාර්ය විජේදාස රාජපක්ෂ මහතාද එක්වී සිටියේය.
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභාව අද (30) පක්ෂ මූලස්ථානයේදී රැස්වූ අතර එහිදී මෙම තීරණ ගෙන තිබුණි.
 
-පාස්කු දින ප්‍රහාරය සිදුකළේ කවුරුන්ද යන්න තමා දන්නා බවත්, ඒ පිළිබඳ අධිකරණයෙන් නියෝගයක් දෙන්නේ නම් ඒ පිළිබඳ කරුණු හෙළි කිරීමට තමන් සූදානම් බවත් හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා මාර්තු 22 වනදා මහනුවරදී ප්‍රකාශ කළේය.
+ඒ අනුව, ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජාතික සංවිධායක ධූරයෙන් ඉවත් කළ දුමින්ද දිසානායක මහතා වෙනුවට මහියංගනය ආසන සංවිධායක කේ.පී ගුණවර්ධන මහතා පත් කළේය.
 
-ඔහුගේ එම ප්‍රකාශය සම්බන්ධයෙන් වහාම විමර්ශනයක් සිදු කරන ලෙස මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා වෙත නියෝග කළ අතර ඒ අනුව මෛත්‍රීපාල සිරිසේන මහතා පසුගිය 25 වනදා අපරාධ පරික්ෂණ දෙපාර්තමේන්තුවට ප්‍රකාශයක් ලබාදී තිබුණි.
+එසේම භාණ්ඩාගාරික ධුරයෙන් ඉවත් කළ ලසන්ත අලගියවන්න මහතා වෙනුවට බස්නාහිර පළාත් සභාවේ හිටපු අමාත්‍ය හෙක්ටර් බෙත්මගේ මහතා පත්කර තිබුණි.
 
-...
+පක්ෂයේ ජ්‍යෙෂ්ඨ උප සභාපති ලෙස කටයුතු කළ මහින්ද අමරවීර මහතාව ද අද එම ධුරයෙන් ඉවත් කෙරුණු අතර ඒ වෙනුවට සරත් ඒකනායක මහතාව පත් කළේය.
 
-[Data](articles/d07522a8.json)
+◼️
+
+[Data](articles/4f5b76a0.json)
 
 ---
 
-### பெண்களுக்கு கல்லடி, கசையடி தண்டனை  மீண்டும் அமல்
+### Amaraweera and others to take legal action against removal from SLFP posts
+
+*2024-03-30 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98306/amaraweera-and-others-to-take-legal-action-against-removal-from-slfp-posts) · `en`
+
+Minister Mahinda Amaraweera says he, together with State Minister Lasantha Alagiyawanna and MP Duminda Dissanayake will take legal action against their removal from the posts they held in the Sri Lanka Freedom Party (SLFP).
+
+The Executive Committee of the SLFP decided to remove Dissanayake, Alagiyawanna and Amaraweera from their respective positions in the party, during a special party meeting held today (30).
+
+Accordingly, Dissanayake was stripped of his post as the National Organizer, Alagiyawanna as the Treasurer and Amaraweera as the Senior Vice President.
+
+Meanwhile, SLFP also appointed a new Senior Vice President, a Treasurer and a National Organizer after trio was stripped of their respective positions.
+
+Thereby, SLFP’s Mahiyanganaya Constituency Organizer K. P. Gunawardena was appointed to the post of National Organizer, former Western Provincial Minister Hector Bethmage as the Treasurer and former Central Province Chief Minister Sarath Ekanayake as the Senior Vice President.
+
+◼️
+
+[Data](articles/2a078964.json)
+
+---
+
+### Justice Minister arrives at Maithri's discussion
+
+*2024-03-30 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195099) · `si`
+
+Justice Minister Dr. Wijedasa Rajapaksa met with Maithripala Sirisena and SLFP members, discussing an Order to the Passover Day. Tiran Alles, Defense Minister, was tasked with an immediate investigation.
+
+🟩
+
+Former President Maithripala Sirisena, the Sri Lanka Freedom Party and Executive Committee members of the SLFP have been summoned to the party headquarters today (30).
+
+The Minister of Justice Dr. Wijedasa Rajapaksa was also present at the meeting this morning.
+
+Former President Maithripala Sirisena stated that he is aware of the Order to the Passover Day and he is ready to reveal the matter.
+
+The Minister of Defense Tiran Alles was ordered to conduct an immediate investigation into his statement.
+
+The Maligakanda Magistrate Magistrate Magistrate Magistrate Magistrate Magistrate Magistrate Magistrate Magistrate Magistrate's Court on April 4 on April 4.
+
+◼️
+
+[Data](articles/d07522a8.json)
+
+[Extended Data](ext_articles/d07522a8.ext.json)
+
+---
+
+### Women
 
 *2024-03-30 13:40:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பெண்களுக்கு-கல்லடி-கசையடி-தண்டனை-மீண்டும்-அமல்/50-335367) · `ta`
 
-ஆப்கானிஸ்தானில் ஆட்சி செய்துவரும் தலிபான்கள், இனி தங்கள் நாட்டில் திருமணத்தை மீறிய உறவில் ஈடுபடும் பெண்களுக்கு கசையடி கொடுத்தல், கல் எறிந்து கொல்லுதல் போன்ற தண்டனைகள் நிறைவேற்றப்படும் என்று அறிவித்துள்ளனர்.
+The Taliban in Afghanistan have lifted punishments for women in marriages, but the situation remains dire, with poverty, hunger, and disease prevalent. Mullah Hipatullah Akundsata has announced the reinstatement of practices like kasadi and kalladi, which are against Sharia law and women's rights, leading to concerns about the future of women's rights in the country.
 
-கடந்த 2021-ஆம் ஆண்டு ஆகஸ்ட் மாதம் ஆப்கானிஸ்தானில் இருந்து அமெரிக்கா மற்றும் நேட்டோ படைகள் வெளியேறின. அதன் பின்னர் தலிபான்கள் ஆட்சியைக் கைப்பற்றினர். இஸ்லாமியர்களின் ஷரியத் சட்டத்தின்படியே ஆட்சி என்று அறிவித்தனர். அதேவேளையில், கடந்த முறையைப் போல் ஆட்சி இருக்காது. பெண் கல்வி, பெண் சுதந்திரம் பேணப்படும், உலக நாடுகளுடன் நட்புறவு ஏற்படுத்தப்படும் என்று உறுதியளித்தனர். ஆனால், தலிபான்களின் ஆட்சி அவ்வாறாக நடைபெறவில்லை. அங்கு தற்போது வறுமையும், பசியும், நோயும் மட்டுமே மிஞ்சியுள்ளது.
+🟩
 
-இந்நிலையில், அரசு தொலைக்காட்சியில் தலிபான் முல்லா ஹிபத்துல்லா அகுந்த்ஸதா வெளியிட்ட அறிவிப்பில், பெண்களுக்கு பொது இடத்தில் வைத்து கசையடி, கல்லடி வழங்கும் நடைமுறை மீண்டும் அமலுக்கு வரும் எனக் கூறியுள்ளார்.
+The Taliban ruled in Afghanistan have announced that they will no longer have punishable punishment for women who are engaged in marriage in their country.
+
+In August 2021, the US and NATO forces were out of Afghanistan. The Taliban then seized the regime. The Islamists declared the rule of the Shariah law. At the same time, no rule as the last time. Female education, female freedom will be maintained and the world will be friendly with the countries of the world. But the rule of the Taliban did not do so. There is currently only poverty, hunger and disease.
+
+In this context, the Taliban Mullah Hipatullah Akundsata on the state television has said that the practice of providing kasadi and kalladi to women will come into effect again.
 
 ...
 
 [Data](articles/14884751.json)
+
+[Extended Data](ext_articles/14884751.ext.json)
 
 ---
 
@@ -70,11 +124,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-03-30 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98305/new-appointments-made-to-fill-slfps-three-senior-positions) · `en`
 
-Sri Lanka Freedom Party (SLFP) has appointed a new Senior Vice President, a Treasurer and a National Organizer after MPs Mahinda Amaraweera, Lasantha Alagiyawanna and Duminda Dissanayake were stripped of their respective party positions on Saturday (30).
+Sri Lanka Freedom Party (SLFP) has appointed a new Senior Vice President, a Treasurer and a National Organizer after Minister Mahinda Amaraweera, State Minister Lasantha Alagiyawanna and MP Duminda Dissanayake were removed from their respective party positions on Saturday (30).
 
-Thereby, SLFP’s Mahiyanganaya Constituency Organizer K. P. Gunawardena was appointed to the post of National Organizer, former Western Provincial Minister Hector Bethmage as the Treasurer and former Central Province Chief Minister Sarath Ekanayake as the Senior Vice President.
+Thereby, SLFP’s Mahiyanganaya Constituency Organizer K. P. Gunawardena was appointed to the post of National Organizer, which was previously held by Dissanayake.
 
-The SLFP’s executive committee meeting was chaired by the party leader, former President Maithripala Sirisena on Saturday morning, during which a crucial decision was taken to strip the three senior members of their party positions.
+Meanwhile, former Western Provincial Minister Hector Bethmage replaced Alagiyawanna as the Treasurer. Former Central Province Chief Minister Sarath Ekanayake was appointed as the Senior Vice President to replace Amaraweera.
+
+SLFP’s Central Committee members, Executive Committee members, Constituency and District Organizers and all the officials of the affiliated organizations of the party had been called to the party headquarters on Saturday morning for a pivotal meeting, chaired by the party leader, former President Maithripala Sirisena.
 
 ◼️
 
@@ -186,7 +242,7 @@ All the Sri Lanka Freedom Party (SLFP) organizers and executive committee member
 
 The Sri Lanka Freedom Party (SLFP) has removed Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera from their respective positions in the party, Ada Derana reporter said.
 
-Accordingly, Dissanayake was stripped of his post as the Executive Committee, Alagiyawanna as the Treasurer and Amaraweera as the Senior Vice President.
+Accordingly, Dissanayake was stripped of his post as the National Organiser, Alagiyawanna as the Treasurer and Amaraweera as the Senior Vice President.
 
 The Chairman of SLFP, former President Maithripala Sirisena summoned all members of the party to Colombo for a pivotal meeting today (30).
 
@@ -241,6 +297,10 @@ Accordingly, the police intervened and made calls on the number on the telephone
 Colombo, March 30 (Daily Mirror)- Ministers Mahinda Amaraweera, Lasantha Alagiyawanna and Duminda Dissanayake were stripped of their positions in the Sri Lanka Freedom Party (SLFP) today.
 
 Dissanayake was the national organizer of the party while Minister Amaraweera held the post of senior Vice President.
+
+The decision was taken at a special meeting convened by party leader Maithripala Sirisena.
+
+The party appointed K.P. Gunawardena as National organiser, Hector Bethmage as Treasurer and Sarath Ekanayake as Senior Vice President.
 
 ◼️
 
@@ -2183,45 +2243,5 @@ Ms. Karunaratne said the Official Poverty Line has gone up during the last four 
 [Data](articles/b6aec70e.json)
 
 [Extended Data](ext_articles/b6aec70e.ext.json)
-
----
-
-### Bill to amend Section 363 and 364 of the Penal Code: Human Rights Commission Minister Vijayadasa
-
-*2024-03-29 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/179984) · `ta`
-
-The Human Rights Commission of Sri Lanka has informed Justice Minister Vijayadasa Rajapaksa about a bill to amend sections 363 and 364 of the Penal Code, proposing to lower the age of consent and qualification for sexual harassment cases. The minister will consult on the issue, with opposition from various parties. The commission recommends maintaining the age of 18 for criminal age and not increasing it to 22, emphasizing the importance of protecting children from sexual violations.
-
-🟩
-
-The Human Rights Commission of Sri Lanka has informed the Minister of Justice Vijayadasa Rajapaksa on the bill to amend section 363 and 364 of the recent controversy.
-
-Justice Minister Vijayadasa Rajapakse has announced that he will hold consultations on the issue, after various parties have expressed their opposition to the Bill to amend Article 363 and 364 of the Penal Code.
-
-The law proposes that a person who is not 18 years of age has been able to reduce the qualification age from 16 to 14.. Similarly, if the person involved in sexual harassment is under the age of 22 (under the age of 18), he also gives the chance to get away from punishment.. According to a letter sent to Justice Minister Vijayadasa Rajapaksa by the Human Rights Commission of Sri Lanka, including their observations and recommendations on the law, said:
-
-...
-
-[Data](articles/f11cf9fa.json)
-
-[Extended Data](ext_articles/f11cf9fa.ext.json)
-
----
-
-### President Ranil advocates for keeping politics and sports separate
-
-*2024-03-29 19:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98293/president-ranil-advocates-for-keeping-politics-and-sports-separate) · `en`
-
-President Ranil Wickremesinghe expressed his aspirations for Sri Lanka to reclaim its position as the champion of cricket, highlighting the government’s commitment to providing all necessary support to achieve this goal.
-
-Speaking at the 125th anniversary celebration of the Sinhalese Sports Club (SSC) at the Shangri-La Hotel Colombo yesterday (28), the President emphasized the importance of maintaining a separation between politics and sports. He suggested that preventing politicians from assuming high positions in sports clubs could contribute to a healthier sporting environment.
-
-During the celebration, a commemorative book documenting the 125-year history of the Sinhalese Sports Club was unveiled, accompanied by the release of a postage stamp and a first-day cover.
-
-...
-
-[Data](articles/9b92c5b9.json)
-
-[Extended Data](ext_articles/9b92c5b9.ext.json)
 
 ---

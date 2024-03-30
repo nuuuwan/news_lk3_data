@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 00:33:20**
+As of **2024-03-31 00:48:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,087 (100.0%) of 16,088 articles have been extended.
+16,088 (100.0%) of 16,088 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -347,6 +347,8 @@ Russia is exultant about the outcome of the Presidential election. The poll was 
 ...
 
 [Data](articles/0ad3ff19.json)
+
+[Extended Data](ext_articles/0ad3ff19.ext.json)
 
 ---
 

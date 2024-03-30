@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 19:33:23**
+As of **2024-03-30 19:50:02**
 
 ## Newspaper Stats
 
-*Scraped **16,072** Articles*
+*Scraped **16,073** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 882
 islandlk | 887
 adalk | 1,342
 tamilmirrorlk | 1,921
-adaderanalk | 1,939
+adaderanalk | 1,940
 virakesarilk | 2,286
 dailymirrorlk | 2,483
 adaderanasinhalalk | 2,593
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,593
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,071 (100.0%) of 16,072 articles have been extended.
+16,072 (100.0%) of 16,073 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### TV Derana picks up top awards at Raigam Tele’es 2023
+
+*2024-03-30 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98313/tv-derana-picks-up-top-awards-at-raigam-telees-2023) · `en`
+
+Derana media network picked up multiple top awards at the Raigam Tele’es 2023 – The Nation’s Tele Awards taking place at the Shangri-La Hotel in Colombo on Saturday (30).
+
+“Kids Academy” program on Ada Derana 24 produced by K. C. Saranga won the Best Education Programme award.
+
+Meanwhile, ‘Surakimu Budhu Sasuna’ a documentary programme on Ada Derana 24, produced by Wasanthi Nanayakkara, picked up the Special Jury Award.
+
+◼️
+
+[Data](articles/72fb760f.json)
+
+---
 
 ### Raigam Tele’es: Ada Derana 24 documentary program wins Special Jury Award
 
@@ -41,6 +57,8 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/b911d1e7.json)
+
+[Extended Data](ext_articles/b911d1e7.ext.json)
 
 ---
 
@@ -2235,27 +2253,5 @@ It was emphasised that the city of Shanghai has handled 49.5 million containers 
 [Data](articles/f2c12daa.json)
 
 [Extended Data](ext_articles/f2c12daa.ext.json)
-
----
-
-### Heat cold rain - Review
-
-*2024-03-29 22:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/179988) · `ta`
-
-"Heat Cold Rain" explores the traditional vs. modern relationship dynamics in Tamil Nadu, focusing on a couple's struggle for a child. Despite initial resistance, they consider IVF, leading to a complex emotional journey. The film, directed by Betha Perumal, delves into themes of love, sacrifice, and the pursuit of a child's privilege.
-
-🟩
-
-The film is a film called 'Heat Cold Rain', which has tried to describe the relationship between children and their parents born through the process of traditional culture and culture in the rural areas of Tamil Nadu.. Has the director's awareness effort for all fans?Or not?We will continue to see.
-
-Betha Perumal (Drav) - Pandi (Ismat Banu). They have no heir five years after their marriage. While the couple's friends of the couple have described the IVF, the child's privilege, despite the fact that Beta Perumal refuses to accept it.
-
-Betha Perumal is sure that the child's privilege is to be held naturally by the grace of the Lord. But Betha Perumal urges her son and daughter -in -law that their family needs a heir and another marriage.
-
-...
-
-[Data](articles/b67ed0f7.json)
-
-[Extended Data](ext_articles/b67ed0f7.ext.json)
 
 ---

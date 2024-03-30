@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 21:03:12**
+As of **2024-03-30 21:18:05**
 
 ## Newspaper Stats
 
-*Scraped **16,077** Articles*
+*Scraped **16,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 882
 islandlk | 887
-adalk | 1,342
+adalk | 1,343
 tamilmirrorlk | 1,921
 adaderanalk | 1,941
 virakesarilk | 2,286
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,596
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,076 (100.0%) of 16,077 articles have been extended.
+16,077 (100.0%) of 16,078 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Dinesh Gunawardena, Sri Lankan Prime Minister said: “We have to abide by the q
 ...
 
 [Data](articles/220269f7.json)
+
+[Extended Data](ext_articles/220269f7.ext.json)
 
 ---
 

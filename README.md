@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 21:52:26**
+As of **2024-03-30 22:03:43**
 
 ## Newspaper Stats
 
-*Scraped **16,081** Articles*
+*Scraped **16,082** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,47 +20,77 @@ tamilmirrorlk | 1,921
 adaderanalk | 1,942
 virakesarilk | 2,286
 dailymirrorlk | 2,483
-adaderanasinhalalk | 2,596
+adaderanasinhalalk | 2,597
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,078 (100.0%) of 16,081 articles have been extended.
+16,081 (100.0%) of 16,082 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### පාස්කු දිනයේ ආරක්ෂාවට 10000ක්
+### හෙට ආරක්ෂාව දැඩි කෙරේ
+
+*2024-03-30 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195115) · `si`
+
+පාස්කු ඉරුදින දේව මෙහෙයන් පැවැත්වෙන හෙට (31) දිනයේ සියලු කිතුනු දේවස්ථාන ආශ්‍රිතව විශේෂ ආරක්ෂක වැඩපිළිවෙළක් ක්‍රියාත්මක කිරීමට පොලීසිය පියවර ගෙන තිබේ.
+
+දේව මෙහෙය අවසන් වී සියලු බැතිමතුන් සිය නිවෙස් වෙත ගමන් කෙරෙන තෙක් හෙට පස්වරුව දක්වාම මෙම ආරක්ෂක වැඩපිළිවෙළ ක්‍රියාත්මක කරන බව පොලිස් මූලස්ථානය සඳහන් කළේය.
+
+ඊයේ දිනට යෙදී තිබූ මහා සිකුරාදා දින දේව මෙහෙයන් ආරම්භයේ සිටම එම ආරක්ෂක වැඩපිළිවෙළ ක්‍රියාත්මක වූ අතර එය හෙට දිනයේ දී තවත් තීව්‍ර කර තිබේ.
+
+◼️
+
+[Data](articles/6d2a8e74.json)
+
+---
+
+### 10000 for the safety of the Easter
 
 *2024-03-30 21:29:24* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-දිනයේ-ආරක්ෂාවට-10000ක්/11-408849) · `si`
 
-හෙටට යෙදී ඇති පාස්කු ඉරිදා යේව යෙයෙෙන් පවත්වනු ලබන සියළුම ‌දේවස්ථාන සඳහා විශේෂ ආරක්ෂක වැඩ සටහනක් ක්‍රියාත්මක කිරීමට පොලිස් මූලස්ථානය කටයුතු කර තිබේ. පාස්කු ඉරිදා දේව මෙහෙය සඳහා මෙවර විශාල බැතිමතුන් පිරිසක් ඒක්වෙනු ඇතැයිද ඒ් අනුව ඔවුන්ගේ ආරක්ෂාව සඳාහා පොලිස්පතිවරයාගේ මග පෙන්වීම අනුව 10000කට ආසන්න පිරිසක් ‌ මෙම ආරක්ෂක වැඩසටහන ‌වෙනුවෙන් සම්බන්ධ කර තිබේ.
+The Inspector General of Police (IGP) has deployed nearly 100,000 personnel, including 6522 police officers, to ensure the safety of Easter services.
 
-ඒ් අනව කිතුණු දේවස්ථාන 1873 ක ආරක්ෂාව වෙනුවෙන් පොලිස් නිලධාරීන් 6522ක්, පොලිස් විශේෂ කාර්ය බලකායේ 320ක් හා ත්‍රිවිධ හමුදාාවේ 2746ක් යොදවා ඇති බව පොලිස් මූලස්ථානය කියයි.
+🟩
+
+Police headquarters have been implementing a special security project for all the temples who have been played tomorrow. Nearly 100,000 people have been involved in the Inspector General of Police, according to the guidance of the Inspector General of Police (IGP) to protect the Easter service.
+
+6522 police officers have been deployed for the security of 1873 people, 320 police officers and 2746 policemen.
 
 ◼️
 
 [Data](articles/199b5a4d.json)
 
+[Extended Data](ext_articles/199b5a4d.ext.json)
+
 ---
 
-### සංවර්ධන ‌ලොතරැයි මණ්ඩලය ඉතිහාසයේ ඉහළම ලාභය ලබයි
+### Development Lottery Board is profit in history
 
 *2024-03-30 21:12:55* · [`adalk`](https://www.ada.lk/breaking_news/සංවර්ධන-‌ලොතරැයි-මණ්ඩලය-ඉතිහාසයේ-ඉහළම-ලාභය-ලබයි/11-408848) · `si`
 
-සංවර්ධන ලොතරැයි මණ්ඩලය සිය වසර 40ක ඉතිහාසයේ වැඩිම ලාභය 2023 වසරේදී වාර්තා කර තිබේ. ඒ අනුව 2022 – 2023 වසර සඳහා 32%ක ලාභ සීමාවක් වාර්තා කරමින් සංවර්ධන ලොතරැයි මණ්ඩලය නව වාර්තාවක් පිහිටුවා තිබෙන අතර එය 2022 වසරේ ලාභ ප්‍රමාණය මෙන් දෙගුණයකි.
+The Development Lottery Board achieved a record profit of 403 years in 2022-220s, contributing 13% to the presidential fund, exceeding 3,622,506,725. The government's contribution increased by 6% to Rs. 5,193,833,721. Ajith Gunaratne Narangala, Chairman, highlighted the unique guidance of President Ranil Wickremesinghe as Minister of Finance, aiming to increase lottery ticket gifts and allocate funds for education and health.
 
-මේ අනුව සංවර්ධන ලොතරැයි මණ්ඩලය විසින් ජනාධිපති අරමුදලට ලබාදුන් දායකත්වය පෙර වසරට සාපේක්ෂව 13%ක ප්‍රතිශතයකින් ඉහළ දමමින් රු. 3,622,506,725/-ක අගයක් සහිතව බිලියන 03ක ඉලක්කය ඉක්මවා තිබේ. ඒ සමඟම රජයට පිරිනැමෙන දායකත්වය 6%කින් ඉහළ දමමින් රු. 5,193,833,721 අගයක් බවට පත්ව ඇත.
+🟩
 
-සංවර්ධන ලොතරැයි මණ්ඩලයේ සභාපති සහ ප්‍රධාන විධායක නිලධාරී අජිත් ගුණරත්න නාරංගල මහතා මේ පිළිබඳව අදහස් දක්වමින් සඳහන් කළේ අභියෝගාත්මක කාලවකවානුව තුළ රටේ ආර්ථිකයේ ඇති වූ අයහපත් බලපෑම් අවම කිරීමට සංවර්ධන ලොතරැයි මණ්ඩලය උපයෝගී කරගත් ක්‍රමෝපායන් නිසා ඉතා කෙටි කාලයක් තුළ ආදායම් තත්ත්වය ඉහළ නංවා ගැනීමට හැකිවූ බවයි.
+Development Lottery Board recorded the highest profit of 403 years. Accordingly, the development Lotteries Board has been established in 2022-220s for the year 2022 and 2023.
 
-මේ සඳහා මුදල් අමාත්‍යවරයා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සුවිශේෂී මඟපෙන්වීමක් ලබා දුන් බවද සභාපතිවරයා පැවසීය.
+Accordingly, the development Lotteries Board has contributed to the presidential fund by 13% over the previous year.. 3,622,506,725 / 0725/725/0725 / year is exceeded. At the same time, the government's contribution increased by 6% by Rs. 5,193,833,721 has become a value.
 
-...
+The Chairman of the Development Lottery Panel and Chief Executive Officer Ajith Gunaratne Narangala said:
+
+President Ranil Wickremesinghe has been given a unique guide as the Minister of Finance.
+
+Steps have been taken to increase the amount of gifts for the developmental lottery ticket and new lottery tickets for new lottery tickets and the new experience of the country.It is significant that% is allocated for education and health in Sri Lanka.
+
+◼️
 
 [Data](articles/023a8d4d.json)
+
+[Extended Data](ext_articles/023a8d4d.ext.json)
 
 ---
 
@@ -156,17 +186,19 @@ Derana media network bagged many top awards at the Raigam Tele’es 2023 awards 
 
 Reaffirming its unparalleled prominence, Sri Lanka’s Premium Entertainment Experience, TV Derana picked up award for the Most Popular Television Channel of the Year.
 
-Meanwhile, Ada Derana, Sri Lanka’s most trusted 24 hour news service, won the runners-up award as the Most Popular News Broadcast of the Year at Raigam Tele’es 2023.
-
 ‘Surakimu Budhu Sasuna’ a documentary programme on Ada Derana 24, produced by Wasanthi Nanayakkara, won the Special Jury Award.
 
 Meanwhile, “Ada Derana Kids Academy” program on Ada Derana 24 produced by K. C. Saranga picked up award for the Best Television Educational Programme.
 
 Derana Dream Star, the Sri Lankan reality television series was awarded as the Best Television Reality Programme of the Year. Dream Star has presented over 11 seasons since the beginning since its launch in 2008.
 
+Child actress Sindagana Cooray also won a Certificate of Jury Merit for her performance in the “Helyan” teledrama aired on TV Derana.
+
 ...
 
 [Data](articles/598895f7.json)
+
+[Extended Data](ext_articles/598895f7.ext.json)
 
 ---
 
@@ -2241,23 +2273,5 @@ Venkatesh Iyer lost 50 runs off 30 balls with 4 sixes and 3 pounds.
 [Data](articles/63c4c234.json)
 
 [Extended Data](ext_articles/63c4c234.ext.json)
-
----
-
-### How LTTE’s ‘Good Friday’ attack crushed Karuna’s  Eastern revolt
-
-*2024-03-30 00:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/How-LTTEs-Good-Friday-attack-crushed-Karunas-Eastern-revolt/172-279869) · `en`
-
-Karuna had other troubles facing him on the military front. Of the 5,700  cadres in the East, around 2,000 were young and inexperienced. The  greater part of them were recruited or conscripted after the ceasefire  and had not seen battle.
-
-The LTTE was split vertically and horizontally as a result and gradually weakened. By 2007 the LTTE ceased  having territorial control in the Eastern province
-
-As stated in the previous articles, Karuna  after the split had concentrated the bulk of his forces in the Koralaipattru division of north Batticaloa. He expected an invasion across the Verugal River, which demarcates the border between the Batticaloa and Trincomalee districts. Karuna set up lines of defence to the south of the river
-
-...
-
-[Data](articles/34100edd.json)
-
-[Extended Data](ext_articles/34100edd.ext.json)
 
 ---

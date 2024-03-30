@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 21:33:46**
+As of **2024-03-30 21:52:26**
 
 ## Newspaper Stats
 
-*Scraped **16,078** Articles*
+*Scraped **16,081** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 882
 islandlk | 887
-adalk | 1,343
+adalk | 1,345
 tamilmirrorlk | 1,921
-adaderanalk | 1,941
+adaderanalk | 1,942
 virakesarilk | 2,286
 dailymirrorlk | 2,483
 adaderanasinhalalk | 2,596
@@ -26,11 +26,43 @@ adaderanasinhalalk | 2,596
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,078 (100.0%) of 16,078 articles have been extended.
+16,078 (100.0%) of 16,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### පාස්කු දිනයේ ආරක්ෂාවට 10000ක්
+
+*2024-03-30 21:29:24* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-දිනයේ-ආරක්ෂාවට-10000ක්/11-408849) · `si`
+
+හෙටට යෙදී ඇති පාස්කු ඉරිදා යේව යෙයෙෙන් පවත්වනු ලබන සියළුම ‌දේවස්ථාන සඳහා විශේෂ ආරක්ෂක වැඩ සටහනක් ක්‍රියාත්මක කිරීමට පොලිස් මූලස්ථානය කටයුතු කර තිබේ. පාස්කු ඉරිදා දේව මෙහෙය සඳහා මෙවර විශාල බැතිමතුන් පිරිසක් ඒක්වෙනු ඇතැයිද ඒ් අනුව ඔවුන්ගේ ආරක්ෂාව සඳාහා පොලිස්පතිවරයාගේ මග පෙන්වීම අනුව 10000කට ආසන්න පිරිසක් ‌ මෙම ආරක්ෂක වැඩසටහන ‌වෙනුවෙන් සම්බන්ධ කර තිබේ.
+
+ඒ් අනව කිතුණු දේවස්ථාන 1873 ක ආරක්ෂාව වෙනුවෙන් පොලිස් නිලධාරීන් 6522ක්, පොලිස් විශේෂ කාර්ය බලකායේ 320ක් හා ත්‍රිවිධ හමුදාාවේ 2746ක් යොදවා ඇති බව පොලිස් මූලස්ථානය කියයි.
+
+◼️
+
+[Data](articles/199b5a4d.json)
+
+---
+
+### සංවර්ධන ‌ලොතරැයි මණ්ඩලය ඉතිහාසයේ ඉහළම ලාභය ලබයි
+
+*2024-03-30 21:12:55* · [`adalk`](https://www.ada.lk/breaking_news/සංවර්ධන-‌ලොතරැයි-මණ්ඩලය-ඉතිහාසයේ-ඉහළම-ලාභය-ලබයි/11-408848) · `si`
+
+සංවර්ධන ලොතරැයි මණ්ඩලය සිය වසර 40ක ඉතිහාසයේ වැඩිම ලාභය 2023 වසරේදී වාර්තා කර තිබේ. ඒ අනුව 2022 – 2023 වසර සඳහා 32%ක ලාභ සීමාවක් වාර්තා කරමින් සංවර්ධන ලොතරැයි මණ්ඩලය නව වාර්තාවක් පිහිටුවා තිබෙන අතර එය 2022 වසරේ ලාභ ප්‍රමාණය මෙන් දෙගුණයකි.
+
+මේ අනුව සංවර්ධන ලොතරැයි මණ්ඩලය විසින් ජනාධිපති අරමුදලට ලබාදුන් දායකත්වය පෙර වසරට සාපේක්ෂව 13%ක ප්‍රතිශතයකින් ඉහළ දමමින් රු. 3,622,506,725/-ක අගයක් සහිතව බිලියන 03ක ඉලක්කය ඉක්මවා තිබේ. ඒ සමඟම රජයට පිරිනැමෙන දායකත්වය 6%කින් ඉහළ දමමින් රු. 5,193,833,721 අගයක් බවට පත්ව ඇත.
+
+සංවර්ධන ලොතරැයි මණ්ඩලයේ සභාපති සහ ප්‍රධාන විධායක නිලධාරී අජිත් ගුණරත්න නාරංගල මහතා මේ පිළිබඳව අදහස් දක්වමින් සඳහන් කළේ අභියෝගාත්මක කාලවකවානුව තුළ රටේ ආර්ථිකයේ ඇති වූ අයහපත් බලපෑම් අවම කිරීමට සංවර්ධන ලොතරැයි මණ්ඩලය උපයෝගී කරගත් ක්‍රමෝපායන් නිසා ඉතා කෙටි කාලයක් තුළ ආදායම් තත්ත්වය ඉහළ නංවා ගැනීමට හැකිවූ බවයි.
+
+මේ සඳහා මුදල් අමාත්‍යවරයා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සුවිශේෂී මඟපෙන්වීමක් ලබා දුන් බවද සභාපතිවරයා පැවසීය.
+
+...
+
+[Data](articles/023a8d4d.json)
+
+---
 
 ### China-Sri Lanka Trade: MOU signed to align export standards
 
@@ -113,6 +145,28 @@ According to NASA reports, the next full solar eclipse is in 2044.
 [Data](articles/11d29573.json)
 
 [Extended Data](ext_articles/11d29573.ext.json)
+
+---
+
+### Raigam Tele’es 2023: TV Derana wins Most Popular Television Channel award
+
+*2024-03-30 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98313/raigam-telees-2023-tv-derana-wins-most-popular-television-channel-award) · `en`
+
+Derana media network bagged many top awards at the Raigam Tele’es 2023 awards ceremony currently taking place at the Shangri-La Hotel in Colombo on Saturday (30).
+
+Reaffirming its unparalleled prominence, Sri Lanka’s Premium Entertainment Experience, TV Derana picked up award for the Most Popular Television Channel of the Year.
+
+Meanwhile, Ada Derana, Sri Lanka’s most trusted 24 hour news service, won the runners-up award as the Most Popular News Broadcast of the Year at Raigam Tele’es 2023.
+
+‘Surakimu Budhu Sasuna’ a documentary programme on Ada Derana 24, produced by Wasanthi Nanayakkara, won the Special Jury Award.
+
+Meanwhile, “Ada Derana Kids Academy” program on Ada Derana 24 produced by K. C. Saranga picked up award for the Best Television Educational Programme.
+
+Derana Dream Star, the Sri Lankan reality television series was awarded as the Best Television Reality Programme of the Year. Dream Star has presented over 11 seasons since the beginning since its launch in 2008.
+
+...
+
+[Data](articles/598895f7.json)
 
 ---
 
@@ -2205,63 +2259,5 @@ As stated in the previous articles, Karuna  after the split had concentrated th
 [Data](articles/34100edd.json)
 
 [Extended Data](ext_articles/34100edd.ext.json)
-
----
-
-### Electoral reforms while elections are  on doorstep
-
-*2024-03-30 00:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Electoral-reforms-while-elections-are-on-doorstep/172-279868) · `en`
-
-The Cabinet on March 18 approved a proposal to reform the electoral system that will see a hybrid system for parliamentary representation where 160 members would be appointed by the First Past-The-Post system while 65 members would be elected under the Proportional Representation (PR) system.
-
-A statement issued by the Government Information Department said that the proposal made by the Minister of Justice, Prison Affairs and Constitutional Reforms to instruct the Legal Draftsman to draft legislation to amend the electoral system was approved by the Cabinet.
-
-Interestingly, the statement claims that “it has been found necessary to change the existing electoral system to achieve the objectives of the Regulations of Election Expenditure Act No. 3 of 2023...” whereas the hybrid or mixed electoral system of First-Past-the-Post system (FPP) and the Proportional Representation (PR) system had been recommended by three Parliamentary Select Committees (PSCs) since 2001.
-
-...
-
-[Data](articles/255d2139.json)
-
-[Extended Data](ext_articles/255d2139.ext.json)
-
----
-
-### Hypocrisy, double standards and Lanka’s burgeoning spa industry
-
-*2024-03-30 00:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Hypocrisy-double-standards-and-Lankas-burgeoning-spa-industry/172-279867) · `en`
-
-Yesterday, Police spokesman Nihal Thalduwa informed the media that in the police divisions of Negombo, Kochchikade and Seeduwa, police raided 53 spas. According to the spokesperson, 145 suspects including 137 women and eight men were taken into custody.
-
-If this statement is correct, it would appear that many men do not frequent these establishments of alleged ill-fame. Only eight men were found in the 53 spas which were raided. It also makes the lords and ladies who run these establishments philanthropists for keeping over a hundred idle women on their payroll!
-
-The police spokesman went on to add that raids were carried out on information  received from police intelligence reports.
-
-...
-
-[Data](articles/77746c9e.json)
-
-[Extended Data](ext_articles/77746c9e.ext.json)
-
----
-
-### 2024-03-29 (Friday)
-
-### Massive setback for Afghan women: Taliban vows to publicly stone them to death for adultery
-
-*2024-03-29 23:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98296/massive-setback-for-afghan-women-taliban-vows-to-publicly-stone-them-to-death-for-adultery) · `en`
-
-The plight of women in Afghanistan is expected to get worse. The Taliban regime has vowed to “start public stoning of women to death”, an act that the group’s Supreme Leader, Hibatullah Akhundzada, claims is “in the name of God”.
-
-Taliban, who took control of the country in 2021, have already been carrying out public floggings and executions. These brutal punishments are doled out even for crimes like thefts and robberies.
-
-Now, Akhundzada, in an audio message, has said that women committing adultery will be stoned to death. In the message, released by the Taliban-run state media, he addresses the West, saying, “We will soon implement the punishment for adultery. We will flog women in public. We will stone them to death in public. These are all against your democracy, but we will continue doing it.”
-
-According to The Telegraph, he compared the West with the Devil and said, “We both say we defend human rights – we do it as God’s representative and you as the Devil’s.”
-
-...
-
-[Data](articles/42ed81a9.json)
-
-[Extended Data](ext_articles/42ed81a9.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 14:03:03**
+As of **2024-03-30 14:18:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,583
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,046 (100.0%) of 16,047 articles have been extended.
+16,047 (100.0%) of 16,047 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -74,23 +74,29 @@ He also said that if such signs are found to the children, they should not be se
 
 ---
 
-### ශ්‍රීලනිපයේ තනතුරුවලට අලුත් මුහුණු
+### New faces for SLFP positions
 
 *2024-03-30 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195097) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජාතික සංවිධායක ධූරයෙන් ඉවත් කළ දුමින්ද දිසානායක මහතා වෙනුවට මහියංගනය ආසන සංවිධායක කේ.පී ගුණවර්ධන මහතා පත්කර තිබේ.
+Duminda Dissanayake replaced by KP Gunawardena as Mahiyanganaya electoral organizer. Hector Bethmage takes over as Treasurer, replacing Lasantha Alagiyawanna. Sarath Ekanayake appointed Senior Vice President, replacing Alagiyawanna. SLFP Executive Council met today.
 
-එසේම භාණ්ඩාගාරික ධුරයෙන් ඉවත් කළ ලසන්ත අලගියවන්න මහතා වෙනුවට බස්නාහිර පළාත් සභාවේ හිටපු අමාත්‍ය හෙක්ටර් බෙත්මගේ මහතා පත්කර ඇත.
+🟩
 
-පක්ෂයේ ජ්‍යෙෂ්ඨ උප සභාපති ලෙස කටයුතු කළ මහින්ද අමරවීර මහතාව ද අද එම ධුරයෙන් ඉවත් කෙරුණු අතර ඒ වෙනුවට සරත් ඒකනායක මහතාව පත් කළේය.
+Duminda Dissanayake, who was removed from the post of National Organizer of the Sri Lanka Freedom Party (SLFP) has been appointed Mahiyanganaya electoral organizer KP Gunawardena.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සියලු ආසන සංවිධායකවරුන් සහ විධායක කමිටු සාමාජිකයින්
+Former Minister Hector Bethmage has been appointed to replace Mr. Lasantha Alagiyawanna who lived from the post of Treasurer.
 
-අද (30) පක්ෂ මූලස්ථානයේදී ශ්‍රීලනිප විධායක සභාව රැස්වී මෙම තීරණ ගෙන තිබේ.
+He was also removed from the post of Senior Vice President of the party today and replaced Sarath Ekanayake.
+
+All the Sri Lanka Freedom Party organizers and the executive committee members
+
+The SLFP Executive Council met at the party headquarters today (30).
 
 ◼️
 
 [Data](articles/d0a5ce63.json)
+
+[Extended Data](ext_articles/d0a5ce63.ext.json)
 
 ---
 

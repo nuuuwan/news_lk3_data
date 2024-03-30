@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 11:17:53**
+As of **2024-03-30 11:33:47**
 
 ## Newspaper Stats
 
-*Scraped **16,025** Articles*
+*Scraped **16,029** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ economynextcom | 881
 islandlk | 887
 adalk | 1,342
 tamilmirrorlk | 1,913
-adaderanalk | 1,928
-virakesarilk | 2,281
-dailymirrorlk | 2,477
-adaderanasinhalalk | 2,579
+adaderanalk | 1,929
+virakesarilk | 2,282
+dailymirrorlk | 2,478
+adaderanasinhalalk | 2,580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,022 (100.0%) of 16,025 articles have been extended.
+16,025 (100.0%) of 16,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### ரணிலுக்கு ஆதரவளிக்க கருணா தீர்மானம்
+
+*2024-03-30 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180009) · `ta`
+
+பொருளாதார நிலையை ஜனாதிபதி மாற்றியமைத்துள்ளார் இலங்கை நாணயம் பலமடைகின்றது என கருணா தெரிவித்துள்ளார்.
+
+இலங்கையின் பொருளாதாரம் மீண்டும் வளர்ச்சிப்பாதைக்கு திரும்புகின்றது என்பதற்கான அறிகுறி இது என கருணா டெய்லிமிரருக்கு தெரிவித்துள்ளார்.தனது கட்சியின் மத்தியகுழு ஜனாதிபதி தேர்தலில் ரணில்விக்கிரமசிங்க போட்டியிட்டால் அவருக்கு ஆதரவளிக்க தீர்மானித்துள்ளது எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/b38f1d1e.json)
+
+---
+
+### බහින්බස්වීමක් දුරදිග ගොස් ජීවිතයක් අහිමි වෙයි
+
+*2024-03-30 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195094) · `si`
+
+අග්බෝපුර 84 ප්‍රදේශයේදී ඊයේ (29) රාත්‍රියේ පොරොවකින් පහර දී කන්තාවක් ඝාතනය කර තිබේ.
+
+මෙලෙස ඝාතනයට ලක්වී ඇත්තේ එම ප්‍රදේශයේ ම පදිංචිව සිටි 44 හැවිරිදි විවාහක කාන්තාවකි.
+
+ඊයේ රාත්‍රියේ සිය නිවසට යාබද නිවසක සිටින තවත් පුද්ගයෙකු බීමතින් පැමිණ මෙම කාන්තාවට සහ ඇයගේ සැමියාට පරුෂ වචනයෙන් බැණවැදී ඇති අතර එය නවත්වන ලෙස පැවසීමට ඇය සිය සැමියා සහ තවත් ඥාති සහෝදරයෙකු සමග අදාළ පුද්ගලයාගේ නිවස අසලට ගොස් තිබේ.
+
+එහිදී ඇතිවු බහින්බස්වීමක් දුරදිග යාමෙන් පසු බීමතින් සිටි පුද්ගලයා මෙම කාන්තාවට සහ ඇයගේ සැමියාට පොරොවකින් පහරදී ඇත.
+
+තුවාලකරුවන් කන්තලේ රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව කාන්තාව මියගොස් ඇති බව පොලීසිය පවසයි.
+
+ඇයගේ සැමියා තවමත් රෝහලේ ප්‍රතිකාර ලබමින් සිටින අතර ඝාතනය සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/6b99bc94.json)
+
+---
+
+### Indian Navy rescues 23 Pakistanis from hijacked Iranian vessel in Arabian Sea operation
+
+*2024-03-30 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98302/indian-navy-rescues-23-pakistanis-from-hijacked-iranian-vessel-in-arabian-sea-operation) · `en`
+
+The Indian Navy on Friday (Mar 29) rescued 23 Pakistani nationals from a hijacked Iranian fishing vessel. The navy launched a 12-hour-long operation against Somali pirates and forced them to surrender even without firing a bullet.
+
+The operation began in the early hours on Friday as Indian Navy warship INS Sumedha caught the hijacked vessel ‘FV A1-Kambar’. The operation was soon joined by another Indian warship, INS Sumedha, eventually leading to one more successful operation against piracy in the Arabian Sea.
+
+The navy detained the pirates and carried out an extensive sanitisation and inspection on board, to make sure the ship was safe to be guided towards a different location.
+
+According to media reports, nine pirates had boarded the Iranian vessel some 90 nautical miles southwest of Socotra Archipelago.
+
+In an official statement, the Indian Navy said, “We remain committed to ensuring maritime security in the region and safety of seafarers, irrespective of nationalities.”
+
+...
+
+[Data](articles/dd63c00a.json)
+
+---
+
+### Immigration nabs Indians violating work visa conditions in N’eliya restaurants
+
+*2024-03-30 11:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immigration-nabs-Indians-violating-work-visa-conditions-in-Neliya-restaurants/108-279876) · `en`
+
+Colombo, March 30 (Daily Mirror) - Three Indian nationals who were engaged in employment at restaurants in Nuwara-eliya by violating their work visa conditions were nabbed by the Immigration and Emigration Department yesterday.
+
+The department’s Investigation Division on information made the arrests from two restaurants in Nuwara-eliya, where the foreigners have violated their work visa conditions.
+
+A senior official of the department told the Daily Mirror the Indian nationals had been granted employment visas to work in a particular restaurant in Nuwara Eliya and they were found working elsewhere.
+
+The officer said that usually these kinds of work permits are not given to the individual but to the place of work and the foreigner is supposed to work only at that particular place of work. If one does not want to work there anymore his work visa will be cancelled, he said.
+
+...
+
+[Data](articles/08864773.json)
+
+---
 
 ### Innocent Passage to enter Arabian Sea: India remains unresponsive to Sri Lanka’s request
 
@@ -47,6 +121,8 @@ The President embarked on a two-day visit to India in July last year, his first 
 ...
 
 [Data](articles/c0c709fe.json)
+
+[Extended Data](ext_articles/c0c709fe.ext.json)
 
 ---
 
@@ -70,37 +146,49 @@ Its chairman Asiri Walisundara mentioned that nearly 04 million imported eggs wo
 
 ---
 
-### ලොකේෂන් කුඩු මල්ලී පොලිස් දැලේ
+### Lacaceeration was arrested
 
 *2024-03-30 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195093) · `si`
 
-මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු ලෙසට සැකකෙරෙන "ලොකේෂන් කුඩු මල්ලී" නමින් හඳුන්වන පුද්ගලයාව අත්අඩංගුවට ගෙන තිබේ.
+"Lacaceeration, a drug dealer, arrested after tip-off. Distributed drugs in several areas. Detained for a week, court allowed interrogation."
 
-බඩල්ගම පොලිස් ස්ථානයේ නිලධාරීන්ට ලැබුණු තොරතුරක් මත ඊයේ (29) සිදුකළ මෙහෙයුමක දී මෙම සැකකරුව අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-පටන් මිනුවන්ගොඩ, නිල්පනාගොඩ, හේන්පිටගෙදර, ගල්කන්ද, දූනගහ, කටුවැල්ලේගම, අලුතෑපොල යන ප්‍රදේශවලට මත්ද්‍රව්‍ය බෙදාහැරීමේ කටයුතු සිදුකළ බවය.
+The man named "Loucue Kudu Malli" has been arrested as a drug dealer.
 
-අත්අඩංගුවට ගත් සැකකරු මිනුවන්ගොඩ අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු සතියක කාලයක් රැඳවුම් නියෝග මත ප්‍රශ්න කිරීම සඳහා බඩල්ගම පොලීසියට අධිකරණයෙන් අවසරදී තිබේ.
+The suspect was arrested following a tip off received by the officials of the Badalgama Police Station yesterday (29).
+
+Drug distribution has been distributed to Nilmanagoda, Henkegama, Galkanda, Dunugaha, Katuwellagama and Alatpola areas.
+
+The suspect was produced before the Minuwangoda court after being produced before the Minuwangoda court for a week, the court is permitted to interrogate on detention orders.
 
 ◼️
 
 [Data](articles/9b2ec15e.json)
 
+[Extended Data](ext_articles/9b2ec15e.ext.json)
+
 ---
 
-### கரையோர மார்க்கத்தில் பல ரயில் சேவைகள் இன்று இரத்து
+### Many train services on the coastal route are canceled today
 
 *2024-03-30 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/180005) · `ta`
 
-இன்று சனிக்கிழமையும்  (30)  நாளை ஞாயிற்றுக்கிழமையும் (31) கரையோர மார்க்கத்தில் பயணிக்கும் ரயில்கள்  தொடர்ந்தும் தாமதமாகச் செல்லும் என ரயில் திணைக்களம் தெரிவித்துள்ளது.
+Due to pipe repair work, many train services on the coastal route are canceled today and will continue to be delayed tomorrow. About 25 services have been canceled, with normal services expected to resume tomorrow night.
 
-நகர அபிவிருத்தி அதிகார சபையினால் மேற்கொள்ளப்படும் குழாய் திருத்தப் பணிகள் காரணமாக வெள்ளவத்தை மற்றும் கொழும்பு கோட்டை ரயில் நிலையங்களுக்கு இடையில் ஒரு வழி ரயில் சேவையே தற்போது இடம்பெறுகிறது.
+🟩
 
-இதன் காரணமாக கரையோர மார்க்கத்தில் சுமார் 25 ரயில் சேவைகள் இரத்து செய்யப்பட்டுள்ளதோடு, ரயில் சேவைகள் நாளை இரவு மீண்டும் வழமைக்கு திரும்பம் என எதிர்பார்க்கப்படுவதாக  ரயில் திணைக்களம் தெரிவித்துள்ளது.
+Trains traveling on the coastal route will continue to be delayed on Saturday (30) tomorrow (30), the Railway Department said.
+
+Due to the pipe repair work carried out by the Urban Development Authority, a one -way train service is currently underway between the Wellawatte and the Colombo Fort Railway Stations.
+
+As a result, about 25 train services have been canceled on the coastal route and the train services are expected to return to normal tomorrow night, the Railway Department said.
 
 ◼️
 
 [Data](articles/080db805.json)
+
+[Extended Data](ext_articles/080db805.ext.json)
 
 ---
 
@@ -2129,105 +2217,5 @@ Speaking to reporters, Ranawaka said Basil Rajapaksa, the ideologue of the rulin
 [Data](articles/b83619d0.json)
 
 [Extended Data](ext_articles/b83619d0.ext.json)
-
----
-
-### Foreigner injured after falling down precipice while climbing Sri Pada
-
-*2024-03-29 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/98290/foreigner-injured-after-falling-down-precipice-while-climbing-sri-pada) · `en`
-
-A foreigner sustained injuries after falling down 100 metres off the side railings along the Ratnapura - Sri Pada road in the Ehelakanuwa area.
-
-The officers of Police Special Task Force (STF) in Maskeliya have rescued the Indian national and rushed him to the hospital.
-
-The 25-year-old has been identified as Bharath Chandradas, a resident of Mumbai in the Indian state of Maharashtra.
-
-The injured person has been traveling from Ratnapura to Sri Pada with another group of pilgrims when the accident occurred at around 4.45 a.m. this morning (29), the police said.
-
-Accordingly, the officers of the Sri Pada Udamaluwa Police Post had taken steps to notify the STF of the incident, after which injured youth was brought to safety.
-
-The group accompanying the injured Indian national has been escorted to Nallathanniya, after the incident was informed to Nallathanniya Police Station.
-
-◼️
-
-[Data](articles/1eefba74.json)
-
-[Extended Data](ext_articles/1eefba74.ext.json)
-
----
-
-### Cinnamon’s Colombo-focused tourism to bring high-end tourists to Sri Lanka
-
-*2024-03-29 16:00:00* · [`economynextcom`](https://economynext.com/cinnamons-colombo-focused-tourism-to-bring-high-end-tourists-to-sri-lanka-156565/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cinnamon Grand Colombo is introducing curated eco excursions of Colombo, which seeks to reposition the city as more than just a transit destination to international travellers, and bring in high-spending tourists to the country.
-
-“The more discerning traveler is looking for these niche-experiences and they are willing to pay an additional amount for this,” Area Vice President and General Manager of Cinnamon Grand Colombo, Kamal Munasinghe told EconomyNext.
-
-Cinnamon Nature Trails’ Colombo edition promises to provide unique insights into Colombo’s ecological wonders and consists of urban eco-tourism ventures such as birdwatching in the Diyawanna wetlands, volunteering at the zoo, looking for rare and valuable flora, exploring religious sites, and street photography, and is currently available for in-house guests of Cinnamon Hotels.
-
-...
-
-[Data](articles/27012b22.json)
-
-[Extended Data](ext_articles/27012b22.ext.json)
-
----
-
-### Two prisoners escaped at the Anuradhapura Open Prison
-
-*2024-03-29 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179973) · `ta`
-
-Two prisoners escaped from Anuradhapura Open Prison, one from Sravastipuri and the other from Kelaniya, after changing into civilian clothes. Prison officials and police are searching for them.
-
-🟩
-
-Two prisoners at the Anuradhapura Open Prison escaped today (29).
-
-The two prisoners have been working at the Prison Cross, which opened for the audience.
-
-It is reported that the two have fled their dresses after weeding their uniforms.
-
-Anuradhapura Police and Prison officials have taken action to arrest the two escaped.
-
-One of the prisoners who fled is from Sravastipuri in Anuradhapura and the other prisoner belonged to Kelaniya.
-
-◼️
-
-[Data](articles/bc911229.json)
-
-[Extended Data](ext_articles/bc911229.ext.json)
-
----
-
-### Sinhalese people should understand that economic growth is only possible by devolution - political activist Rajiv Khan
-
-*2024-03-29 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179972) · `ta`
-
-Rajiv Khan, a political activist, emphasizes that economic growth in Sri Lanka hinges on proper devolution. He criticizes the lack of recovery from economic setbacks, including the 2022 crisis, and highlights issues like inequality and the marginalization of minority communities.
-
-🟩
-
-Political activist Rajkumar Rajeevkan has appealed to the Sinhalese people to understand that economic growth is possible only if the devolution is done properly.
-
-He said this while addressing the March 12 movement for the pure politics of the March 12 to establish a clean political culture in Colombo.
-
-People from the state have long been looking for a need for a pure future.
-
-Although Sri Lanka has suffered economic setbacks for many years, the worst blow in 2022 was the 2022 economic problem, but it was not simply in 2022.
-
-Even though some say that we have reached the recovery later, we have not reached the real recovery.
-
-With the word equality, we can identify the entire problem of Sri Lanka.
-
-Free education in Sri Lanka will be achieved by a rich student through this free education;There is a huge difference between the character and the manner in which the poor student reaches.
-
-The underlying people face so many difficulties and why they have to face such economic crisis.
-
-...
-
-[Data](articles/fa9900f3.json)
-
-[Extended Data](ext_articles/fa9900f3.ext.json)
 
 ---

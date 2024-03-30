@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 17:53:27**
+As of **2024-03-30 18:07:56**
 
 ## Newspaper Stats
 
-*Scraped **16,067** Articles*
+*Scraped **16,068** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 882
 islandlk | 887
 adalk | 1,342
 tamilmirrorlk | 1,920
-adaderanalk | 1,936
+adaderanalk | 1,937
 virakesarilk | 2,286
 dailymirrorlk | 2,483
 adaderanasinhalalk | 2,592
@@ -26,29 +26,61 @@ adaderanasinhalalk | 2,592
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,066 (100.0%) of 16,067 articles have been extended.
+16,067 (100.0%) of 16,068 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### රාගම රෝහලේදී එන්නතක් දුන් පසු රෝගියෙක් මරුට
+### Man arrested as hostage situation in Dutch nightclub ends
+
+*2024-03-30 17:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98310/man-arrested-as-hostage-situation-in-dutch-nightclub-ends) · `en`
+
+A hostage situation at a nightclub in an eastern Dutch town has come to an end after a man was arrested.
+
+Four people had been taken hostage when he entered Café Petticoat, in Ede, early on Saturday morning threatening to blow himself up, local media said.
+
+Armed police evacuated the area, but said there was “no indication of a terrorist motive”.
+
+An initial group of three people were released, and the fourth emerged after some time.
+
+The hostages are all employees, the owner told de Telegraaf newspaper.
+
+Residents in about 150 homes around the area have been evacuated and the town centre has been closed down.
+
+Anti-explosives units and police in protective gear were pictured at the scene.
+
+Trains to and from Ede were cancelled, railway operator NS said on its website.
+
+◼️
+
+[Data](articles/77457956.json)
+
+---
+
+### A patient dies after being given to a vaccine at Ragama Hospital
 
 *2024-03-30 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195110) · `si`
 
-රාගම ශික්ෂණ රෝහලේ දී එන්නතක් ලබාදීමෙන් පසු රෝගියෙකු මිය යාමේ සිද්ධිය සම්බන්ධයෙන් සෞඛ්‍ය අමාත්‍යංශය විමර්ශනයක් ආරම්භ කර තිබේ.
+A patient died at Ragama Hospital after receiving a vaccine, prompting a Health Ministry investigation. Dr. Sampath Ranaweera, the hospital director, confirmed an ongoing probe. The cause of death is under investigation, with no allergic reaction confirmed. The deceased was a 50-year-old admitted on the 22nd.
 
-සිද්ධිය සම්බන්ධයෙන් රෝහල් මට්ටමෙන්ද විමර්ශනයක් ක්‍රියාත්මක බව රාගම ශික්ෂණ රෝහලේ අධ්‍යක්ෂ වෛද්‍ය සම්පත් රණවීර මහතා පැවසීය.
+🟩
 
-කො - ඇමොක්සික්ලේව් නම් එන්නත ලබාදීමෙන් පසු එම රෝගියා මියගොස් තිබේ.
+The Health Ministry has launched an investigation into the death of a patient after the race team has been injected after a vaccine.
 
-කෙසේවෙතත් එන්නත හේතුවෙන් ඇතිවූ ආසාත්මිකතාවයක් එම මරණයට හේතුවී ඇත්ද යන්න පිළිබඳව මෙතෙක් තහවුරු වී නොමැත.
+The Director of the Ragama Teaching Hospital Dr. Sampath Ranaweera said that a hospital level was an investigation into the incident.
 
-මියගොස් ඇත්තේ 50 හැවිරිදි පුද්ගලයෙකු වන අතර ඔහු කන ආශ්‍රිතව හටගත් රෝගී තත්ත්වයක් හේතුවෙන් පසුගිය 22 වනදා රාගම ශික්ෂණ රෝහලට ඇතුළත් කර තිබු බව සඳහන් වෙයි.
+The patient was killed after the Amaxikalev.
+
+However, there is yet to be determined as a vaccine allergic reaction.
+
+The deceased has been identified as a 50 year old and he was admitted to the Ragama Teaching Hospital on the 22nd.
 
 ◼️
 
 [Data](articles/bbb4dca3.json)
+
+[Extended Data](ext_articles/bbb4dca3.ext.json)
 
 ---
 
@@ -2217,29 +2249,5 @@ According to information received by the Udamaluwa Police Station, the Special T
 [Data](articles/23e6952f.json)
 
 [Extended Data](ext_articles/23e6952f.ext.json)
-
----
-
-### In Jaffna
-
-*2024-03-29 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/179987) · `ta`
-
-A man found dead in Jaffna's Kudyakkadal land, reportedly due to excessive alcohol use, was discovered by Iyengan Sivanandarajah. The man had left his family two months ago and lived alone in the Ilavalai-Vasanthapuram area. Autopsy by A. Jayapalasingham revealed the cause of death.
-
-🟩
-
-The body was recovered from the Kudyakkadal land on Friday (29) who lived alone in Vasanthapuram area. The body was recovered by Iyengan Sivanandarajah (47 years old) from the new Colony, Girimalai area.
-
-The man has left them two months ago due to the conflict with his family and lived alone in a land in the Ilavalai - Vasanthapuram area.
-
-He was found dead on Friday (29), a body of a blank land near his hut. According to autopsy on the body of the recovery, he is reported to have died of lungs due to excessive alcohol use.
-
-The death investigation into his body was carried out by A. Jayapalasingham. The body was handed over to relatives after anatomical examination.
-
-◼️
-
-[Data](articles/e0f4352b.json)
-
-[Extended Data](ext_articles/e0f4352b.ext.json)
 
 ---

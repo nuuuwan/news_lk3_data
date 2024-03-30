@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 09:03:04**
+As of **2024-03-30 09:18:21**
 
 ## Newspaper Stats
 
-*Scraped **16,005** Articles*
+*Scraped **16,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,59 @@ tamilmirrorlk | 1,912
 adaderanalk | 1,923
 virakesarilk | 2,276
 dailymirrorlk | 2,475
-adaderanasinhalalk | 2,575
+adaderanasinhalalk | 2,576
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,998 (100.0%) of 16,005 articles have been extended.
+16,005 (100.0%) of 16,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### அக்கரைப்பற்று - கொழும்பு பஸ் விபத்து: பலர் காயம்
+### කඩා වැටුණු පාලමේ රක්ෂණ වන්දිය ඩොලර් බිලියන 3 ඉක්මවයි
+
+*2024-03-30 08:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195090) · `si`
+
+අමෙරිකාවේ ෆ්‍රැන්සිස් ස්කොට් කී පාලම කඩා වැටීමෙන් පසු සුන්බුන් ඉවත් කිරීම සඳහා නැගෙනහිර එක්සත් ජනපද මුහුදු තීරයේ තිබෙන විශාලතම දොඹකරය බැල්ටිමෝර් වෙත ගෙන්වා තිබේ.
+
+විදෙස් වාර්තා සඳහන් කළේ, එරට කාර්යබහුලම වරායේ නැව්ගත කිරීම් අත්හිටුවා ඇති බවය.
+
+සුන්බුන් අතර කිමිඳීමේ අවදානම හේතුවෙන් කම්කරුවන් සිව්දෙනෙකුගේ සිරුරු සෙවීමේ කටයුතු තවදුරටත් නවතා දමා ඇති බව වාර්තා වේ.
+
+පාලම යථාතත්ත්වයට පත්කිරිම සඳහා ෆෙඩරල් හදිසි අරමුදල්වලින් ඩොලර් මිලියන 60ක මූල්‍ය ප්‍රතිපාදන වෙන් කර ඇති අතර පාලම කඩා වැටීමේ රක්ෂණ වන්දිය ඩොලර් බිලියන 3 ඉක්මවිය හැකි බව විදෙස් වාර්තා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/18505193.json)
+
+---
+
+### Akkaraipattu - Colombo bus accident
 
 *2024-03-30 08:39:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அக்கரைப்பற்று-கொழும்பு-பஸ்-விபத்து-பலர்-காயம்/175-335360) · `ta`
 
-கொழும்பில் இருந்து அக்கரைப்பற்று நோக்கி பயணிகளை ஏற்றி சென்ற அதிசொகுசு பஸ் இன்று (30) அதிகாலை, மட்டக்களப்பு ஆரையம்பதி 4 ஆம் கட்டை பகுதியில் விபத்துக்குள்ளாகியுள்ளது
+A bus from Colombo to Akkaraipattu crashed in Batticaloa, injuring many and damaging trade centers. The driver's sleep is suspected as a cause.
 
-இந்த விபத்தில் சிக்கி, பலருக்கு காயம் ஏற்பட்டுள்ளதோடு, சில வர்த்தக நிலையங்கள் பெரும் சேதத்திற்குள்ளாகியுள்ளன.
+🟩
 
-மட்டக்களப்பு காத்தான்குடி பொலிஸ் பிரிவுக்குட்பட்ட ஆரையம்பதி 4 ஆம் கட்டை பகுதியிலே இச்சம்பவம் ஏற்பட்டுள்ளது.
+The bus carrying passengers from Colombo to Akkaraipattu crashed in the early hours of this morning (30)
 
-கொழும்பிலிருந்து கல்முனை நோக்கி பயணித்துக் கொண்டிருந்த சொகுசு பஸ் அதிகாலை 3.30 மணியளவில் 4 ஆம் கட்டை பகுதியில் வேகக்கட்டுப்பாட்டை இழந்த நிலையில் வீதியை விட்டு விலகி அருகிலுள்ள வர்த்தக நிலையங்கள் பலவற்றை உடைத்தெறிந்துள்ளது.
+The crash and many people were injured and some trade centers were severely damaged.
 
-இந்த விபத்துச் சம்பவத்தின் போது சாரதி உட்பட்ட பலர் பலத்த காயமடைந்த நிலையில் மேலதிக சிகிச்சைகளுக்காக காத்தான்குடி மற்றும் ஆரையம்பதி வைத்தியசாலைகளுக்கு அழைத்துச் செல்லப்பட்டுள்ளனர். சாரதியின் தூக்கக் கலக்கமே விபத்துக்கு காரணம் என பொதுமக்கள் தெரிவிக்கின்றனர்.
+The incident took place in the Arayambathi 4th area of the Kattankudy police division in Batticaloa.
+
+The luxury bus traveling from Colombo to Kalmunai has lost a lot of nearby trade centers after losing a speeding area in the 4th morning.
+
+During the accident, many people, including the driver, were taken to Kattankudi and Arayambathi hospitals for further treatment.. The public claims that the driver's sleep was the cause of the accident.
 
 ◼️
 
 [Data](articles/89b962a4.json)
+
+[Extended Data](ext_articles/89b962a4.ext.json)
 
 ---
 
@@ -65,6 +89,8 @@ The report which has been released to the public domain has been compiled by the
 ...
 
 [Data](articles/bb618790.json)
+
+[Extended Data](ext_articles/bb618790.ext.json)
 
 ---
 
@@ -113,6 +139,8 @@ This investment will be managed by a trust overseen by Sidath Wettamuni. The fun
 ...
 
 [Data](articles/859a9e7b.json)
+
+[Extended Data](ext_articles/859a9e7b.ext.json)
 
 ---
 
@@ -240,6 +268,8 @@ NCPA Chairman Channaka Udaya Kumara Amarasinghe told Daily Mirror that the main 
 
 [Data](articles/d13371c0.json)
 
+[Extended Data](ext_articles/d13371c0.ext.json)
+
 ---
 
 ### Train delay still on the coastal road still informed of passengers
@@ -335,6 +365,8 @@ It is a clear sign of our economy getting back on track,” he told Daily Mirror
 ...
 
 [Data](articles/a98b4d61.json)
+
+[Extended Data](ext_articles/a98b4d61.ext.json)
 
 ---
 
@@ -1207,6 +1239,8 @@ Ms. Karunaratne said the Official Poverty Line has gone up during the last four 
 ...
 
 [Data](articles/b6aec70e.json)
+
+[Extended Data](ext_articles/b6aec70e.ext.json)
 
 ---
 
@@ -2209,25 +2243,5 @@ Future Harvest - EXPO 2024 exhibition was hosted at the Bandaranaike Memorial In
 [Data](articles/a2b63624.json)
 
 [Extended Data](ext_articles/a2b63624.ext.json)
-
----
-
-### Underworld's re-seized
-
-*2024-03-29 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195068) · `si`
-
-Underworld's property seized by police, including fishing vessels, motorbikes, and land.
-
-🟩
-
-The property has been taken into custody over Rs.
-
-The police said that two multi-day fishing vessels, three-month-old fishing vessels, three-wheeler, motorbikes and land.
-
-◼️
-
-[Data](articles/acdb1efe.json)
-
-[Extended Data](ext_articles/acdb1efe.ext.json)
 
 ---

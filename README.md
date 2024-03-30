@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 14:49:26**
+As of **2024-03-30 15:02:58**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 2,585
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,049 (100.0%) of 16,051 articles have been extended.
+16,051 (100.0%) of 16,051 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### ඉවත් කිරීමට එරෙහිව අමරවීර, ලසන්ත සහ දුමින්ද නීති මගට
+### Amaraweera, Lasantha and Duminda are against the removal
 
 *2024-03-30 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195100) · `si`
 
-දුමින්ද දිසානායක, ලසන්ත අලගියවන්න සහ තමාව ශ්‍රී ලංකා නිදහස් පක්ෂයේ තනතුරුවලින් ඉවත් කිරීමට අද (30) ගත් තීරණයට එරෙහිව නීති මාර්ගයෙන් කටයුතු කරන බව අමාත්‍ය මහින්ද අමරවීර මහතා පවසයි.
+Amaraweera, Lasantha, and Duminda oppose removal. Mahinda Amaraweera states they will face legal action. The SLFP executive council met, replacing Duminda Dissanayake with KP Gunawardena and Hector Bethmage with Sarath Ekanayake, following their removals.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභාව අද (30) පක්ෂ මූලස්ථානයේදී රැස්වූ අතර එහිදී මෙම තීරණ ගෙන තිබුණි.
+🟩
 
-ඒ අනුව, ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජාතික සංවිධායක ධූරයෙන් ඉවත් කළ දුමින්ද දිසානායක මහතා වෙනුවට මහියංගනය ආසන සංවිධායක කේ.පී ගුණවර්ධන මහතා පත් කළේය.
+Minister Mahinda Amaraweera says that Dumindhantha Dissanayake, Lasantha Alagiyawanna and Hiru Sri Lanka Freedom Party (30) will be taken by law.
 
-එසේම භාණ්ඩාගාරික ධුරයෙන් ඉවත් කළ ලසන්ත අලගියවන්න මහතා වෙනුවට බස්නාහිර පළාත් සභාවේ හිටපු අමාත්‍ය හෙක්ටර් බෙත්මගේ මහතා පත්කර තිබුණි.
+The Sri Lanka Freedom Party (SLFP) executive council met at the party headquarters today (30).
 
-පක්ෂයේ ජ්‍යෙෂ්ඨ උප සභාපති ලෙස කටයුතු කළ මහින්ද අමරවීර මහතාව ද අද එම ධුරයෙන් ඉවත් කෙරුණු අතර ඒ වෙනුවට සරත් ඒකනායක මහතාව පත් කළේය.
+Accordingly, Duminda Dissanayake, who was removed from the post of National Organizer of the Sri Lanka Freedom Party (SLFP), was replaced by Mahiyanganaya electoral organizer KP Gunawardena.
+
+Former Minister Hector Bethmage had been appointed to replace Mr. Lasantha Alagiyawanna who lived from the post of Treasurer.
+
+He was also removed from the post of Senior Vice President of the party today and replaced Sarath Ekanayake.
 
 ◼️
 
 [Data](articles/4f5b76a0.json)
+
+[Extended Data](ext_articles/4f5b76a0.ext.json)
 
 ---
 
@@ -69,6 +75,8 @@ Thereby, SLFP’s Mahiyanganaya Constituency Organizer K. P. Gunawardena was app
 ◼️
 
 [Data](articles/2a078964.json)
+
+[Extended Data](ext_articles/2a078964.ext.json)
 
 ---
 

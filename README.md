@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 15:33:48**
+As of **2024-03-30 15:51:24**
 
 ## Newspaper Stats
 
@@ -26,51 +26,65 @@ adaderanasinhalalk | 2,587
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,053 (100.0%) of 16,055 articles have been extended.
+16,055 (100.0%) of 16,055 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### චීන විමර්ශන කණ්ඩායමක් හදිසියේම පාකිස්තානයට
+### A Chinese Investigation team suddenly to Pakistan
 
 *2024-03-30 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195104) · `si`
 
-චීන ජාතිකයන් පස් දෙනෙකුට මරු කැඳවමින් පාකිස්තානයේදී එල්ලවූ මරාගෙන මැරෙන බෝම්බ ප්‍රහාරය සම්බන්ධයෙන් විමර්ශනය කිරීම සඳහා චීන විමර්ශකයින් පිරිසක් පාකිස්තානයට පැමිණි බව පාකිස්තාන අභ්‍යන්තර කටයුතු අමාත්‍යාංශය පවසා ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+A Chinese investigation team arrived in Pakistan to probe the murder of five Chinese nationals, including a suicide attack on a dam project. China has invested over $65 billion in Pakistan's infrastructure.
 
-පාකිස්තානයේ වයඹදිග ප්‍රදේශයේ වේල්ලක් ඉදිකිරීමේ ව්‍යාපෘතියක සේවය කරමින් සිටි චීන ඉංජිනේරුවන් පිරිසක් ගමන්කරමින් සිටි රථ පෙළකට පසුගිය 26 වනදා මෙලෙස මරාගෙන මැරෙන ප්‍රහාරයක් එල්ල කර තිබුණි.
+🟩
 
-එම සිදුවීම චීනය විසින් ආයෝජනය කර, පාකිස්තානයේ ක්‍රියාත්මක යටිතල පහසුකම් සංවර්ධන ව්‍යාපෘතියක සේවකයින් ඉලක්ක කර සතියක් තුළ එල්ල වූ තුන්වන ප්‍රහාරය බවද වාර්තා වෙයි.
+The Ministry of Investigations have said that five Chinese investigations have come to Pakistan to investigate five Chinese people in Pakistan, killing five Chinese nationals.
 
-කෙසේවෙතත් අදාළ ප්‍රහාරයේ වගකීම මෙතෙක් කිසිඳු පාර්ශ්වයක් භාර ගෙන නොමැති බවද වාර්තා වෙයි.
+A vehicle engineers who were serving in a project in northwestern a dam in northwestern part of the Northwest of Pakistan had attacked a suicide attack on the 26th.
 
-පාකිස්තානයේ යටිතල පහසුකම් සඳහා චීනය ආයෝජනය කර ඇති මුදල අමෙරිකානු ඩොලර් බිලියන 65 කට වඩා වැඩි බවද විදෙස් මාධ්‍ය වාර්තා කළේය.
+It is reported that China has invested in China and the third attack in Pakistan's third assault on a week.
+
+However, no party has taken responsibility for the attack.
+
+Foreign media reports that China has invested more than US $ 65 billion for the infrastructure of Pakistan.
 
 ◼️
 
 [Data](articles/b4165ac0.json)
 
+[Extended Data](ext_articles/b4165ac0.ext.json)
+
 ---
 
-### උපරිම සිල්ලර මිල නියම කිරීමට අදාළව නව නිර්දේශ කිහිපයක්
+### Several new recommendations pertaining to maximum retail price
 
 *2024-03-30 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195103) · `si`
 
-පාරිභෝගිකයා ආරක්ෂා කිරීමේදී පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ දායකත්වය සම්බන්ධයෙන් ජාතික විගණන කාර්යාලය සිදුකළ විගණනයෙන් එම අධිකාරියේ පවතින දුර්වලතා කිහිපයක් හෙළිදරව් කර තිබේ.
+The Auditor General has issued new recommendations for the Consumer Affairs Authority, highlighting a decrease in market raids from 74% to 56% (2018-2022). These include identifying and including new regulations in the issuance of maximum retail price certificates for imported goods, enforcing legal action against unsuitable samples, and ensuring timely legal action against traders and manufacturers.
 
-විගණනයට අදාළ 2018 - 2022 කාලය තුළ ඉලක්කගත වැටලිම් ප්‍රමාණයට වඩා සත්‍ය වැටලීම් ප්‍රමාණය 74% සිට 56%ක් දක්වා පහත බැස ඇති බව එහි සඳහන් වෙයි.
+🟩
 
-ඒ අනුව විගණකාධිපතිවරයා සිවින් නව නිර්දේශ කිහිපයක් නිකුත් කිරීමට පියවර ගෙන ඇත.
+The Auditor of the National Audit Office has revealed some of the weaknesses of the Authority regarding the contribution of the Consumer Affairs Authority in the Consumer Affairs Authority.
 
-ආනයනික භාණ්ඩ සම්බන්ධයෙන් තවදුරටත් උපරිම සිල්ලර මිල සහතික නිකුත් කිරීමට අවශ්‍ය භාණ්ඩ වර්ග හඳුනාගෙන එම භාණ්ඩද ඇතුළත් කර නව විධාන පැනවීම සිදුකළ යුතුය.
+It states that the number of raid declines from 74% to 56% over the audit period of 2018 - 2022.
 
-උපරිම සිල්ලර මිල සහතික ලබාගැනීමට අධිකාරියට තොරතුරු ඉදිරිපත් නොකරන ආනයනකරුවන් සම්බන්ධයෙන් වෙළෙඳපොළ වැටලීම් කිරීම හා ඔවුන්ට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගැනීම විධිමත් කිරීම.
+The Auditor General has issued several new recommendations of Sivin.
 
-ආනයනකරුවන් විසින් උපරිම සිල්ලර මිල සහතික ලබාගැනීමට ඉදිරිපත් කරන මිල ගණන් සඳහා අනුමැතිය ලබාදීමට පෙර අධිකාරිය එම මිල ගැන භෞතිකව පරීක්ෂා කිරීම ද අනිවාර්ය කිරීම.
+The new commands must be identified and included in the issuance of goods required to issue maximum retail price certificates regarding imported goods.
 
-...
+To regulate the maximum retail price certificates, the market raid and regulating legal action against them.
+
+It is also mandatory to physically inspect the price before importers to obtain maximum retail price certificates.
+
+Not delaying legal action against those traders and manufacturers regarding samples that ensure that the sample test is not suitable or absolved.
+
+◼️
 
 [Data](articles/66642845.json)
+
+[Extended Data](ext_articles/66642845.ext.json)
 
 ---
 

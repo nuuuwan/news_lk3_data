@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 16:48:59**
+As of **2024-03-30 17:03:02**
 
 ## Newspaper Stats
 
-*Scraped **16,059** Articles*
+*Scraped **16,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,43 +12,115 @@ colombotelegraphcom | 143
 bbccomsinhala | 170
 dbsjeyarajcom | 199
 newsfirstlk | 363
-dailyftlk | 863
+dailyftlk | 864
 economynextcom | 882
 islandlk | 887
 adalk | 1,342
 tamilmirrorlk | 1,919
-adaderanalk | 1,935
+adaderanalk | 1,936
 virakesarilk | 2,286
-dailymirrorlk | 2,481
-adaderanasinhalalk | 2,589
+dailymirrorlk | 2,483
+adaderanasinhalalk | 2,590
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,058 (100.0%) of 16,059 articles have been extended.
+16,059 (100.0%) of 16,064 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### එකම දුම්රියට තැන් දෙකකදී ජීවිත දෙකක් බිලි
+### Audit report recommends CAA to increase raids against MRP violations
+
+*2024-03-30 16:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98309/audit-report-recommends-caa-to-increase-raids-against-mrp-violations) · `en`
+
+The National Audit Office has made recommendations to the Consumer Affairs Authority (CAA) to increase the number of raids on traders selling beyond the Maximum Retail Price (MRP) as well as on importers and wholesalers.
+
+This was mentioned in a new report published by the audit office, with respect to the contribution of CAA in protecting the consumer. This audit was conducted to evaluate how the CAA has performed to implement the provisions of the Consumer Affairs Act and achieve the objectives mentioned in the legislation.
+
+The audit office has observed that the actual number of raids carried out during the period from 2018 to 2022 was lower than the target number – in the range of 56% to 74%.
+
+It was also observed that it took more than 2 years to file cases for 3,616 raids out of 3,715 raids carried out from 2018 to 31 December 2021, the report revealed.
+
+...
+
+[Data](articles/bf13c7bb.json)
+
+---
+
+### On the Path to Excellence
+
+*2024-03-30 16:40:30* · [`dailyftlk`](https://www.ft.lk/business/On-the-Path-to-Excellence/34-760117) · `en`
+
+Embarking on the journey towards excellence, ACE Apparels Pvt Ltd in Koggala, awarded for the second consecutive year, and Aitken Spence Garments Pvt Ltd in Matugama have been awarded for the esteemed CPM Best Management Practices Company Awards in 2024. Within the dynamic realm of business, where competition abounds and innovation reigns supreme, the companies understand that surpassing expectations necessitates a comprehensive commitment to excellence.
+
+ACE Apparels and Aitken Spence Garments stand at the forefront of industry recognition. Their nominations highlight not only their prowess in the apparel sector but also their innovative management strategies aimed at enhancing both productivity and employee welfare.
+
+...
+
+[Data](articles/ae1f89f5.json)
+
+---
+
+### ශ්‍රී ලංකාව කඩුලු 4ක් බිඳවැටී ලකුණු 314යි
+
+*2024-03-30 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195108) · `si`
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර දෙවැනි සහ අවසන් ටෙස්ට් තරගය අද (30) බංග්ලාදේශයේ චට්ටෝග්‍රෑම් හිදී ආරම්භ වුණි.
+
+කාසියේ වාසිය දිනූ ශ්‍රී ලංකා කණ්ඩායම පළමුවෙන් පන්දුවට පහර දීමට තීරණය කළේය.
+
+ඒ අනුව අද දිනට තරගය නතර කරන විට කඩුලු 04ක් බිඳවැටී ලකුණු 314ක් රැස් කරගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+
+◼️
+
+[Data](articles/b42a33c4.json)
+
+---
+
+### Two lives in two places to the same train
 
 *2024-03-30 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195107) · `si`
 
-මහනුවර සිට කොළඹ කොටුව බලා ධාවනය වු සීඝ්‍රගාමී දුම්රියේ ගැටීමෙන් රාගම ප්‍රදේශයේ ස්ථාන දෙකකදී පුද්ගලයින් දෙදෙනෙකු මියගොස් තිබේ.
+In Ragama, two accidents involving a train from Kandy to Colombo Fort resulted in two deaths. One at Ragama railway crossing and another in Tudugedara. The train, a 24-year-old, collided with a closed gate, and a 50-year-old man in Tudugedara committed suicide.
 
-රාගම දුම්රිය හරස් මාර්ගයේදී සහ රාගම තුඩුවෙගෙදර ප්‍රදේශයේදී මෙම අනතුරු දෙක සිදුවී ඇති බව වාර්තා වෙයි.
+🟩
 
-අද (30) උදෑසන 8:45ට පමණ රාගම දුම්රිය හරස් මාර්ගයේ දුම්රිය ගේට්ටුව වසා තිබියදී ඒ හරහා ගමන් කිරීමට උත්සාහ කළ 24 හැවිරිදි තරුණයෙකු දුම්රියේ ගැටී මියගොස් තිබුණි.
+Two persons were killed in two locations in the Ragama area collided with the train traveling from Kandy to Colombo Fort.
 
-අනතුරින් පසු යළි කොළඹ කොටුව බලා ගමන් ආරම්භ කළ එම දුම්රියට පැන රාගම තුඩුවෙගෙදර ප්‍රදේශයේ දී පුද්ගලයෙකු සියදිවි හානි කරගෙන තිබේ.
+The two accidents occurred at Ragama railway crossing and in Tudugedara in Ragama.
 
-මියගොස් ඇත්තේ අවුරුදු 50ක පමණ වයසැති පුද්ගලයෙකු වන අතර ඔහුගේ අනන්‍යතාව මෙතෙක් තහවුරු වී නොමැත.
+The train, a 24-year-old youth collided with the train while the railway gate was closed today (30).
+
+A person has committed suicide in the Ragama Tudugedara area in Ragama.
+
+The deceased is a 50 year old man and his identity has not yet been established.
 
 ◼️
 
 [Data](articles/a99117ee.json)
+
+[Extended Data](ext_articles/a99117ee.ext.json)
+
+---
+
+### Inflation in March 0.9, non-food inflation - 0.5: Siyambalapitiya
+
+*2024-03-30 16:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Inflation-in-March-0-9-non-food-inflation-0-5-Siyambalapitiya/108-279882) · `en`
+
+Colombo, March 30 (Daily Mirror) - Following the latest Central Bank report, the inflation in March was 0.9, and inflation in the non-food sector was 0.5, Finance State Minister Ranjith Siyambalapitiya said.
+
+This was revealed during a conference held in Ruwanwella this morning to clarify the facts regarding the latest Central Bank report.
+
+The amount of tourism earnings of USD 162 million in February 2023 has increased to USD 346 in February this year.
+
+The country's official reserves also stood at USD 2.2 billion in February 2023, but has grown to USD 4.5 billion by February this year.
+
+◼️
+
+[Data](articles/109338b7.json)
 
 ---
 
@@ -2030,6 +2102,22 @@ Surprisingly, there are no records available documenting the cleaning schedule o
 
 ---
 
+### National Hospital Colombo water tanks untouched for 20 years: Dr. Bellana
+
+*2024-03-29 22:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/National-Hospital-Colombo-water-tanks-untouched-for-20-years-Dr-Bellana/155-279845) · `en`
+
+Colombo, March 29 (Daily Mirror) - The National Hospital Colombo (NHC) Deputy Director Dr. Rukshan Bellana, said today that the hospital's main water tank tower and other water storage tanks have not been cleaned in the past 20 years.
+
+Speaking to the media, he revealed that the hospital currently has approximately 161 water storage tanks, including the main water tank tower.
+
+Surprisingly, there are no records available documenting the cleaning schedule or installation dates for these tanks, said Dr. Bellana adding that according to standard protocols, water storage tanks should be cleaned at least once every three months. However, shockingly, these tanks have not been cleaned for the past 20 years.
+
+...
+
+[Data](articles/dbf872e8.json)
+
+---
+
 ### Indian
 
 *2024-03-29 22:16:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவனொளிபாத-மலையிலிருந்து-விழுந்த-இந்தியர்/175-335356) · `ta`
@@ -2157,105 +2245,5 @@ However, Sri Lanka faced a setback ahead of the second and final Test as Kasun R
 [Data](articles/78643a35.json)
 
 [Extended Data](ext_articles/78643a35.ext.json)
-
----
-
-### Crucifixion reenactment: Filipino villager nailed to cross for 35th time on Good Friday
-
-*2024-03-29 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98294/crucifixion-reenactment-filipino-villager-nailed-to-cross-for-35th-time-on-good-friday) · `en`
-
-A Filipino villager has been nailed to a wooden cross for the 35th time to reenact Jesus Christ’s suffering in a brutal Good Friday tradition he said he would devote to pray for peace in Ukraine, Gaza and the disputed South China Sea.
-
-On Friday, over a hundred people watched on as 10 devotees were nailed to wooden crosses, among them Ruben Enaje, a 63-year-old carpenter and sign painter. The real-life crucifixions have become an annual religious spectacle that draws tourists in three rural communities in Pampanga province, north of Manila.
-
-The gory ritual resumed last year after a three-year pause due to the coronavirus pandemic. It has turned Enaje into a village celebrity for his role as the “Christ” in the Lenten reenactment of the Way of the Cross.
-
-...
-
-[Data](articles/d828b9fc.json)
-
-[Extended Data](ext_articles/d828b9fc.ext.json)
-
----
-
-### Philippines’ Catholic devotees nailed to crosses to re-enact crucifixion
-
-*2024-03-29 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/98294/philippines-catholic-devotees-nailed-to-crosses-to-re-enact-crucifixion) · `en`
-
-Catholic devotees were nailed to crosses in sweltering heat north of the Philippines capital Manila on Good Friday in a re-enactment of Jesus Christ’s crucifixion.
-
-Around 20,000 Filipino and foreign tourists flocked to San Pedro Cutud village in Pampanga province to witness this annual display of devotion, which the Roman Catholic Church in the Philippines frowns upon.
-
-Actors dressed as Roman soldiers whipped devotees carrying crosses and hammered three-inch nails through the hands and feet of three people led by Ruben Enaje, 63, who was crucified for the 35th time.
-
-“While I was walking, all I was thinking about was how Jesus felt while he was carrying his cross up until he was crucified,” Enaje told reporters. “I can’t tell for how long I can do this since my body is also getting old.”
-
-Seven more Filipinos were nailed to crosses in other villages in Pampanga.
-
-...
-
-[Data](articles/e28a2da1.json)
-
-[Extended Data](ext_articles/e28a2da1.ext.json)
-
----
-
-### Single-track operations on coastal line between Colombo Fort and Wellawatta till Sunday
-
-*2024-03-29 21:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Single-track-operations-on-coastal-line-between-Colombo-Fort-and-Wellawatta-till-Sunday/108-279844) · `en`
-
-Colombo, March  29 (Daily Mirror) - The train operations on the coastal line will run on a single track between Colombo Fort and Wellawatta railway stations until Sunday (31), the Railways Department said.
-
-They said the decision was taken due to the development work to be carried out by the Colombo Municipal Council near the Bambalapitiya railway station.
-
-Accordingly, arrangements have been made to cancel several train services on these days, and some trains will be delayed, the department said.
-
-◼️
-
-[Data](articles/398d1465.json)
-
-[Extended Data](ext_articles/398d1465.ext.json)
-
----
-
-### Dhananjaya is a harsh reputation for Bangali media
-
-*2024-03-29 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195083) · `si`
-
-Dhananjaya criticizes Bangladesh's media. Sri Lanka leads in the Test series, with the second match starting tomorrow. Shakub Allaya returns to Bangladesh.
-
-🟩
-
-The second and last Test match between the Sri Lanka Tourism and Bangladesh will commence tomorrow (30).
-
-The Sri Lanka team takes the lead in the first Test win by 328 runs.
-
-Shakub also offered that Shakub Allaya today for the second Test crowd to be brought back to Bangladesh today (29).
-
-Dhananjaya De Silva - "Why do I say? He's not my team. The Bangladesh team should ask. "
-
-◼️
-
-[Data](articles/5d3d4f48.json)
-
-[Extended Data](ext_articles/5d3d4f48.ext.json)
-
----
-
-### Ven. Gnanasara Thera admitted to Prison Hospital
-
-*2024-03-29 21:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ven-Gnanasara-Thera-admitted-to-Prison-Hospital/108-279843) · `en`
-
-Colombo, March 29 (Daily Mirror) - Bodu Bala Sena (BBS) General Secretary Ven. Galagodaaththe Gnanasara Thera who was sentenced to four years of rigorous imprisonment, has been admitted to the Prison Hospital, Prisons Spokesman Gamini Dissanayake said.
-
-The Colombo High Court Judge Aditya Patabendige handed down the sentence on Thursday (March 28), following Ven. Gnanasara Thera's defamatory comments against Islam made in late 2016.
-
-It was reported that Ven. Gnanasara Thera had been undergoing medical treatment prior to his sentencing and hence was referred to the Prison Hospital for treatment.
-
-◼️
-
-[Data](articles/fc8e22bc.json)
-
-[Extended Data](ext_articles/fc8e22bc.ext.json)
 
 ---

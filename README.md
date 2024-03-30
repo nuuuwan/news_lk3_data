@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 02:18:05**
+As of **2024-03-31 02:33:48**
 
 ## Newspaper Stats
 
-*Scraped **16,088** Articles*
+*Scraped **16,089** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 864
 economynextcom | 884
 islandlk | 887
 adalk | 1,345
-tamilmirrorlk | 1,923
+tamilmirrorlk | 1,924
 adaderanalk | 1,943
 virakesarilk | 2,286
 dailymirrorlk | 2,483
@@ -26,9 +26,29 @@ adaderanasinhalalk | 2,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,088 (100.0%) of 16,088 articles have been extended.
+16,088 (100.0%) of 16,089 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-03-31 (Sunday)
+
+### பெண்களுக்கு எதிரான வன்முறைகள் அதிகரிப்பு
+
+*2024-03-31 02:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்களுக்கு-எதிரான-வன்முறைகள்-அதிகரிப்பு/175-335386) · `ta`
+
+சமூக ஊடகங்களில் பெண்களுக்கு எதிரான வன்முறைகள் அதிகரித்துள்ளன என பொலிஸ் கணினி குற்றப்பிரிவு தெரிவித்துள்ளது.
+
+வருடத்தின் இதுவரையான காலப்பகுதியில் சமூக ஊடகங்கள் ஊடாக இடம்பெற்ற குற்றங்கள் தொடர்பில் 1500 முறைப்பாடுகள் பதிவு செய்யப்பட்டுள்ளன என  பொலிஸ் கணினி குற்றப்பிரிவு கூறியுள்ளது.
+
+இவற்றில் பெண்களுக்கு எதிரான வன்முறைச் சம்பவங்களே அதிகளவில் பதிவாகியுள்ளன என பொலிஸார் தெரிவித்துள்ளனர்.
+
+பேஸ்புக் ஊடாக இடம்பெறும் மோசடிகளும் அதிகரித்துள்ளன என பொலிஸ் கணினி குற்றப்பிரிவு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/26ff3577.json)
+
+---
 
 ### 2024-03-30 (Saturday)
 
@@ -2239,21 +2259,5 @@ AK Dissanayake contested the 2019 Presidential elections and finished a poor thi
 [Data](articles/93836f95.json)
 
 [Extended Data](ext_articles/93836f95.ext.json)
-
----
-
-### S.J.V.Chelvanayakam: Respected “Gandhian”Tamil Political  Leader  was a Christian by religion and a Hindu by culture.
-
-*2024-03-30 03:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83821) · `en`
-
-(This article was first written in 1997 for a special volume commemorating the birth centenary of Tamil political leader SJV Chelvanayakam. It is being reposted with slight changes to denote his 126th  birth anniversary on March 31)
-
-On September 6th 1977, Lalith Athulathmudali, then Minister of Trade said in Parliament “Samuel James Velupillai Chelvanayakam was born in Ipoh…. ..Ipoh is known as the cleanest City in Malaysia. Perhaps it was in the fitness of things that Mr. Chelvanayakam’s life was marked by a cleanliness unknown in contemporary politics.” Athulathmudali was speaking on the vote of condolence for SJV Chelvanayakam then.
-
-...
-
-[Data](articles/00854be8.json)
-
-[Extended Data](ext_articles/00854be8.ext.json)
 
 ---

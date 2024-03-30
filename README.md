@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 15:02:58**
+As of **2024-03-30 15:17:58**
 
 ## Newspaper Stats
 
-*Scraped **16,051** Articles*
+*Scraped **16,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 882
 islandlk | 887
 adalk | 1,342
 tamilmirrorlk | 1,918
-adaderanalk | 1,933
+adaderanalk | 1,934
 virakesarilk | 2,286
-dailymirrorlk | 2,480
+dailymirrorlk | 2,481
 adaderanasinhalalk | 2,585
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,051 (100.0%) of 16,051 articles have been extended.
+16,051 (100.0%) of 16,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### Sri Lanka, India discuss economic connectivity projects
+
+*2024-03-30 15:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-India-discuss-economic-connectivity-projects/108-279881) · `en`
+
+March 30 -  Senior Advisor to the President on National Security and Chief of Presidential Staff, Sagala Ratnayaka, led a high-level delegation in discussions with Indian officials in New Delhi on March 28, aimed at assessing bilateral economic connectivity projects between Sri Lanka and India.
+
+The talks, held at the invitation of Indian Foreign Secretary Vinay Kwatra, saw warm exchanges highlighting the positive momentum in Sri Lanka's economic growth.
+
+Foreign Secretary Kwatra welcomed Ratnayaka and commended the strategic vision of President Ranil Wickremesinghe for fostering such progress.
+
+Acknowledging the pivotal role of Indian assistance in stabilizing the Sri Lankan economy, Ratnayaka conveyed gratitude while offering insights into ongoing negotiations with the IMF.
+
+He stressed the importance of sustained economic growth and emphasized enhancing economic integration with India through improved connectivity.
+
+◼️
+
+[Data](articles/de84c615.json)
+
+---
+
+### China reaffirms financial support for Sri Lanka
+
+*2024-03-30 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98307/china-reaffirms-financial-support-for-sri-lanka) · `en`
+
+China has said it would continue to support Sri Lanka, as the crisis-hit island nation’s prime minister on Saturday wrapped up a visit to Beijing to try to finalise a debt restructuring deal.
+
+Prime Minister Dinesh Gunawardena arrived in China on Monday for a visit that included meeting President Xi Jinping and an appearance at the Boao Forum, a high-profile international meeting.
+
+Sri Lanka’s years-long economic crisis was high on the agenda during Gunawardena’s trip, with China accounting for around 10 percent of the South Asian country’s total foreign debt.
+
+China is willing to “continue supporting its financial institutions to actively negotiate with Sri Lanka, maintain friendly communication with other creditors, play a positive role in the International Monetary Fund, assist Sri Lanka in financial relief,” Beijing’s foreign ministry said in the Chinese version of a joint bilateral statement released Friday.
+
+...
+
+[Data](articles/661697f3.json)
+
+---
 
 ### Amaraweera, Lasantha and Duminda are against the removal
 
@@ -2211,45 +2249,5 @@ Accordingly, the information on the Blue Flag program should be displayed and th
 [Data](articles/7123b0a2.json)
 
 [Extended Data](ext_articles/7123b0a2.ext.json)
-
----
-
-### Minimum monthly expenditure per person gone up by 144% compared to 2019:DCS
-
-*2024-03-29 19:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minimum-monthly-expenditure-per-person-gone-up-by-144-compared-to-2019DCS/108-279837) · `en`
-
-Colombo, March 29 (Daily Mirror)- The minimum expenditure required by a person to fulfill the basic needs for a month has gone up by 144 per cent in January, 2024 when compared to 2019, the Official Poverty Line declared by the Department of Census and Statistics (DCS) has revealed.
-
-Additional Director General (Statistics) of the Department Shyamalie Karunaratne said a person to fulfill the basic needs required only Rs. 6966 per month in 2019 whereas a person to fulfill the same needs now require Rs. 17,014.
-
-She said a family of four members need Rs. 68,056 to fulfill the basic needs as per the Official Poverty Line calculated based on statistics of the Household Income and Expenditure survey.
-
-Ms. Karunaratne said the Official Poverty Line has gone up during the last four years due to the drastic increase in inflation.
-
-...
-
-[Data](articles/0bf2a7c5.json)
-
-[Extended Data](ext_articles/0bf2a7c5.ext.json)
-
----
-
-### Minimum monthly expenditure per person gone up by 144% compared to 2019:DCS
-
-*2024-03-29 19:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Minimum-monthly-expenditure-per-person-gone-up-by-144-compared-to-2019DCS/155-279837) · `en`
-
-Colombo, March 29 (Daily Mirror)- The minimum expenditure required by a person to fulfill the basic needs for a month has gone up by 144 per cent in January, 2024 when compared to 2019, the Official Poverty Line declared by the Department of Census and Statistics (DCS) has revealed.
-
-Additional Director General (Statistics) of the Department Shyamalie Karunaratne said a person to fulfill the basic needs required only Rs. 6966 per month in 2019 whereas a person to fulfill the same needs now require Rs. 17,014.
-
-She said a family of four members need Rs. 68,056 to fulfill the basic needs as per the Official Poverty Line calculated based on statistics of the Household Income and Expenditure survey.
-
-Ms. Karunaratne said the Official Poverty Line has gone up during the last four years due to the drastic increase in inflation.
-
-...
-
-[Data](articles/b6aec70e.json)
-
-[Extended Data](ext_articles/b6aec70e.ext.json)
 
 ---

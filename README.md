@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 16:34:02**
+As of **2024-03-30 16:48:59**
 
 ## Newspaper Stats
 
-*Scraped **16,058** Articles*
+*Scraped **16,059** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 1,919
 adaderanalk | 1,935
 virakesarilk | 2,286
 dailymirrorlk | 2,481
-adaderanasinhalalk | 2,588
+adaderanasinhalalk | 2,589
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,058 (100.0%) of 16,058 articles have been extended.
+16,058 (100.0%) of 16,059 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### එකම දුම්රියට තැන් දෙකකදී ජීවිත දෙකක් බිලි
+
+*2024-03-30 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195107) · `si`
+
+මහනුවර සිට කොළඹ කොටුව බලා ධාවනය වු සීඝ්‍රගාමී දුම්රියේ ගැටීමෙන් රාගම ප්‍රදේශයේ ස්ථාන දෙකකදී පුද්ගලයින් දෙදෙනෙකු මියගොස් තිබේ.
+
+රාගම දුම්රිය හරස් මාර්ගයේදී සහ රාගම තුඩුවෙගෙදර ප්‍රදේශයේදී මෙම අනතුරු දෙක සිදුවී ඇති බව වාර්තා වෙයි.
+
+අද (30) උදෑසන 8:45ට පමණ රාගම දුම්රිය හරස් මාර්ගයේ දුම්රිය ගේට්ටුව වසා තිබියදී ඒ හරහා ගමන් කිරීමට උත්සාහ කළ 24 හැවිරිදි තරුණයෙකු දුම්රියේ ගැටී මියගොස් තිබුණි.
+
+අනතුරින් පසු යළි කොළඹ කොටුව බලා ගමන් ආරම්භ කළ එම දුම්රියට පැන රාගම තුඩුවෙගෙදර ප්‍රදේශයේ දී පුද්ගලයෙකු සියදිවි හානි කරගෙන තිබේ.
+
+මියගොස් ඇත්තේ අවුරුදු 50ක පමණ වයසැති පුද්ගලයෙකු වන අතර ඔහුගේ අනන්‍යතාව මෙතෙක් තහවුරු වී නොමැත.
+
+◼️
+
+[Data](articles/a99117ee.json)
+
+---
 
 ### Go to the streets with a strange suit
 
@@ -2237,19 +2257,5 @@ It was reported that Ven. Gnanasara Thera had been undergoing medical treatment 
 [Data](articles/fc8e22bc.json)
 
 [Extended Data](ext_articles/fc8e22bc.ext.json)
-
----
-
-### Rewriting Sri Lanka History Based On Scientific Findings
-
-*2024-03-29 20:39:29* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rewriting-sri-lanka-history-based-on-scientific-findings/) · `en`
-
-Mahawamsa which was first written by Bhikku Mahanama, has documented the history of Sri Lanka since the 3rd century CE. Though the record has been accepted as correct in most instances, there were discrepancies in para-history and protohistory. The concept of origin of Sinhala race as a result of union of a male lion with female human which is not biologically possible, is not acceptable. Also, the narrative regarding Lord Buddha making three unaided flying visits to Sri Lanka which is not feasible, is not tenable. This makes the early part of Mahavamsa text prone to be challenged. As for protohistory, Mahawamsa is largely silent. It does not say about the people who inhabited the land and their civilisation. Modern advances have exposed data contrary to entrenched beliefs.
-
-...
-
-[Data](articles/fb174afb.json)
-
-[Extended Data](ext_articles/fb174afb.ext.json)
 
 ---

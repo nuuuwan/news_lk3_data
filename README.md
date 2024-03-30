@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 22:17:49**
+As of **2024-03-30 22:33:25**
 
 ## Newspaper Stats
 
-*Scraped **16,082** Articles*
+*Scraped **16,083** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 864
 economynextcom | 882
 islandlk | 887
 adalk | 1,345
-tamilmirrorlk | 1,921
+tamilmirrorlk | 1,922
 adaderanalk | 1,942
 virakesarilk | 2,286
 dailymirrorlk | 2,483
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,082 (100.0%) of 16,082 articles have been extended.
+16,082 (100.0%) of 16,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### தேர்தல்கள் ஆணைக்குழுவின் விசேட அறிவிப்பு
+
+*2024-03-30 22:19:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-ஆணைக்குழுவின்-விசேட-அறிவிப்பு/175-335372) · `ta`
+
+அரசியலமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தல் இவ்வருடத்தின் இரண்டாம் பாதியில் நடத்தப்படவுள்ளதாகவும், ஜனாதிபதி தேர்தலை நடத்துவதற்கான அடிப்படை ஏற்பாடுகள் நிறைவடைந்துள்ளதாகவும் தேர்தல்கள் ஆணைக்குழுவின் பணிப்பாளர் நாயகம்  சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
+
+கடந்த வரவு செலவுத் திட்டத்தில் ஜனாதிபதித் தேர்தலுக்காக 1,000 கோடி ரூபா நிதி ஒதுக்கப்பட்டுள்ளதாகவும், தேவையென்றால் கூடுதலான பணத்தை பெற்றுக்கொள்ள முடியும் எனவும் அவர் தெரிவித்துள்ளார்.
+
+ஜனாதிபதி தேர்தலை முதலில் நடத்துவதாக ஜனாதிபதி அறிவித்துள்ள போதிலும், அரசாங்கத்தின் பிரதான பங்காளிக் கட்சியான ஸ்ரீலங்கா பொதுஜன பெரமுனவின் சில தரப்பினர், பொதுத் தேர்தலை நடத்துமாறு ஜனாதிபதியிடம் கோரிக்கை விடுத்துள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/7bece5bb.json)
+
+---
 
 ### The security of tomorrow is intensified
 
@@ -2243,41 +2259,5 @@ Asked what he thinks about the Fernando group, which Kasun was in a state of aff
 [Data](articles/78ca8077.json)
 
 [Extended Data](ext_articles/78ca8077.ext.json)
-
----
-
-### Kohli's action was half a century;KKR won RCB by 7 wickets
-
-*2024-03-30 01:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/179990) · `ta`
-
-KKR won RCB by 7 wickets in IPL 17, with KKR losing 3 wickets for 186 runs. Sunil Narain and Phil Sold scored 85 runs in Power Play. Virat Kohli scored a half-century for RCB.
-
-🟩
-
-Bangalore M. Kolkata Knight Riders (KKR) won by 7 wickets in the 10th match of the 17th Indian Premier League chapter held on Friday (29) at the Chinnaswamy Stadium.
-
-Kolkata Knight Riders lost 3 wickets in 16.5 overs with 186 runs.
-
-Sunil Narain, Phil Sold, Venkatesh Iyer and team captain Shreyas Iyer's actions made the victory of Kolkata Knight Riders.
-
-In the match, Virat Kohli's action on behalf of Royal Challengers Bangalore was a half -century.
-
-Both Sunil Narain and Bill Sold got into action and scored 85 runs without a wicket in Power Play.
-
-Sunil Narain lost the game while both of them shared 86 runs in the first wicket.
-
-Sunil Narain, who faced only 22 balls, scored 47 runs with 5 sixes and 2 pounds.
-
-When the total number was 92 runs, the other batsman, Fil Sold, lost 30 runs off 20 balls.
-
-Following this, Venkatesh Iyer and Shreyas Iyer were bowled out for a stunning and shared 75 runs in 44 balls in the 3rd wicket.
-
-Venkatesh Iyer lost 50 runs off 30 balls with 4 sixes and 3 pounds.
-
-...
-
-[Data](articles/63c4c234.json)
-
-[Extended Data](ext_articles/63c4c234.ext.json)
 
 ---

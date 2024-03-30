@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 08:33:53**
+As of **2024-03-30 08:52:26**
 
 ## Newspaper Stats
 
-*Scraped **15,996** Articles*
+*Scraped **15,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 879
 islandlk | 887
 adalk | 1,342
 tamilmirrorlk | 1,911
-adaderanalk | 1,922
+adaderanalk | 1,923
 virakesarilk | 2,276
 dailymirrorlk | 2,470
-adaderanasinhalalk | 2,574
+adaderanasinhalalk | 2,575
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,994 (100.0%) of 15,996 articles have been extended.
+15,996 (100.0%) of 15,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### ගුල්ලෝ ගැසූ කෝටි 15ක් වටිනා පාන්පිටි සහ පරිප්පු තොගයක් ගබඩාවක
+
+*2024-03-30 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195089) · `si`
+
+මිනිස් පරිභෝජනයට නුසුදුසු රුපියල් කෝටි 15ක් පමණ වටිනා පාන්පිටි ඇතුළු පාරිභෝගික භාණ්ඩ තොගයක් ගනේවල්පොළ ප්‍රදේශයේ ගබඩාවක සඟවා තිබියදී සොයාගත් බව කැකිරාව සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලය පවසයි.
+
+එහි ප්‍රකාශකයෙකු සඳහන් ක‍ළේ, මෙම භාණ්ඩ වෙළෙඳපොළට නිකුත් කිරීමට සූදානම් කර තිබු බවය.
+
+එහි කිලෝ 25 සහ 50 පාන් පිටි ඇසුරුම් 10,000කට අධික ප්‍රමාණයක් තිබී සොයාගත් බව එම ප්‍රකාශකයා වැඩිදුරටත් සඳහන් කළේය.
+
+ඊට අමතරව මිනිස් පරිභෝජනයට නුසුදුසු පරිප්පු තොගයක්ද එහි තිබී සොයාගෙන තිබේ.
+
+කැකිරාව සෞඛ්‍ය වෛද්‍ය නිලධාරී කාර්යාලයට ලද තොරතුරක් මත එහි නිලධාරීන් සිදුකළ ක්ෂණික වැටලීමකදී මෙම භාණ්ඩ තොගය සොයා ගෙන තිබේ.
+
+පාන් පිටි තොගයට  මෙම ස්ථානයේදී විෂ ද්‍රව්‍ය යොදා එහි සිටි ගුල්ලන් මර්දනය කර යළි සකසා කල් ඉකුත්වීමේ දින වෙනස් කර  අලුතින් මුද්‍රණය කර  නව ඇසුරුම්වල නැවත අසුරා යළි බෙදා හැරීමට සූදානම්ව තිබී ඇති බව සෞඛ්‍ය බලධාරීන් සිදුකළ විමර්ශනවලදී අනාවරණය වී ඇත.
+
+...
+
+[Data](articles/f66071d5.json)
+
+---
+
+### Showers or thundershowers expected after 2pm today
+
+*2024-03-30 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98297/showers-or-thundershowers-expected-after-2pm-today) · `en`
+
+Showers or thundershowers are expected in parts of the Western, Southern, Sabaragamuwa, North-central, Uva and North-western and Central provinces after 2.00 p.m., the Department of Meteorology says.
+
+The members of the public are advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+Showers or thundershowers may occur at a few places in the sea areas off the coast extending from Puttalam to Hambantota via Colombo and Galle during the afternoon or night.
+
+Winds will be easterly or variable and wind speed will be 20-30 kmph.
+
+Temporarily strong gusty winds and very rough seas can be expected during thundershowers.
+
+◼️
+
+[Data](articles/86f07164.json)
+
+---
 
 ### Actor Daniel Balaji has passed away
 
@@ -54,19 +96,25 @@ He has also acted in Malayalam, Telugu and Kannada films not only in Tamil. (A)
 
 ---
 
-### වර්ථමානයේ බුදු දහමට විවිධාකාරයෙන් බලපෑම් එල්ල වෙනවා - අස්ගිරි පාර්ශවයේ මහානායක
+### Buddhism is still influenced by Buddhist in the Asgiriya party
 
 *2024-03-30 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195088) · `si`
 
-වර්ථමානය වනවිට බුදු දහමට විවිධාකාරයෙන් බලපෑම් එල්ල වෙමින් පවතින බව අස්ගිරි පාර්ශවයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඥානරතන හිමියෝ පවසති.
+Buddhism faces threats from monks' actions, with the Most Venerable Whimanarathana Thero taking measures against them.
 
-උන්වහන්සේ පවසන්නේ මේ පිළිබඳ රජය දැනුවත් කිරීමත් සමඟ එවැනි පුද්ගලයින්ට එරෙහිව ක්‍රියාමාර්ග රැසක් ගෙන ඇති බවය.
+🟩
 
-ඇතැම් භික්ෂුන් වහන්සේ විසින් සිදුකරන ක්‍රියා හේතුවෙන් බුදුදහම ඉක්මණින් විනාශ වීමේ අවදානමක් මතුව ඇති බවද උන්වහන්සේ වැඩිදුරටත් සඳහන් කළහ.
+The Most Venerable Whimanarathana Thero says that by now, Buddhism is influenced by various ways.
+
+The Thera says he has taken several measures against such persons with the government.
+
+Due to the actions of some monks, Buddhism has been a risk of destroying Buddhism soon.
 
 ◼️
 
 [Data](articles/214fb1b7.json)
+
+[Extended Data](ext_articles/214fb1b7.ext.json)
 
 ---
 
@@ -92,21 +140,27 @@ At the same time, the Deputy General Manager of the Department, NJ Indipola, sai
 
 ---
 
-### ඉන්දිය බිත්තර ආනයනය සීමා කිරීමට පියවර
+### Steps to limit importing Indian eggs
 
 *2024-03-30 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195087) · `si`
 
-උත්සව සමයේ කිසිදු හිඟයකින් තොරව කුකුළු මස් හා බිත්තර සැපයීමේ හැකියාව පවතින බව ශ්‍රී ලංකා සත්ත්ව නිෂ්පාදකයින්ගේ සංගමය පවසයි.
+To limit egg imports, Sri Lanka is releasing 4M imported eggs for the festive season, with the Chairman of the President Ajith Gunasekera suggesting selling frozen chicken at Rs. 1,000. The State Commerce Regional Corporation has taken steps to control egg imports from India.
 
-එහි සභාපති අජිත් ගුණසේකර මහතා සඳහන් ක‍ළේ, ශීත කළ කුකුළු මස් රුපියල් 1,000 වැනි මුදලකට අලෙවි කිරීමේ හැකියාව පවතින බවය.
+🟩
 
-මේ අතර ඉන්දියාවෙන් බිත්තර ආනයනය කිරීම සීමා කිරීමට පියවර ගෙන ඇති බව රාජ්‍ය වාණිජ විවිධ නීතිගත සංස්ථාව පවසයි.
+The Sri Lanka Institute of Animal Producers Says the possibility of supplying chicken and eggs without any shortage of festive season.
 
-එහි සභාපති ආසිරි වලිසුන්දර මහතා සඳහන් කළේ, ආනයනය කළ බිත්තර මිලියන හතරකට ආසන්න ප්‍රමාණයක් උත්සව සමයේ වෙළෙඳපොළට නිකුත් කරන බවය.
+The Chairman of the President Ajith Gunasekera stated that the freezing chicken can be sold for Rs. 1,000.
+
+Meanwhile, the State Commerce Regional Corporation says that steps have been taken to limit the importation of eggs from India.
+
+Chairman of the President Asiri Walisundara said that nearly four million imported eggs will be released to the festive season.
 
 ◼️
 
 [Data](articles/41868780.json)
+
+[Extended Data](ext_articles/41868780.ext.json)
 
 ---
 
@@ -2213,49 +2267,5 @@ This special island-wide operation was launched in December 2023 to crack down o
 [Data](articles/d0d61fa6.json)
 
 [Extended Data](ext_articles/d0d61fa6.ext.json)
-
----
-
-### Rs. 100mn worth of assets owned by underworld figures seized
-
-*2024-03-29 12:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98286/rs-100mn-worth-of-assets-owned-by-underworld-figures-seized) · `en`
-
-Assets worth more than Rs. 100 million – including two multi-day fishing craft, three-wheelers, motorcycles and plots of land – owned by underworld figures have been confiscated.
-
-These assets were impounded by the Illegal Assets and Properties Investigation Division of Sri Lanka Police in Galle, Ambalangoda, and Ahungalla, under the ongoing ‘Yukthiya’ operation.
-
-Police launched the special island-wide operation in December 2023 to crack down on drug peddling and organized crimes in the country.
-
-◼️
-
-[Data](articles/f76645cc.json)
-
-[Extended Data](ext_articles/f76645cc.ext.json)
-
----
-
-### A Gaza A famine
-
-*2024-03-29 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195066) · `si`
-
-The International Court of Hague unanimously orders Israel to allow Gaza to receive basic services and humanitarian aid immediately, following warnings of an impending famine. Israel refuses, citing accusations as the reason.
-
-🟩
-
-The main Court has ordered Israel that the Gaza should be allowed to provide assistance to the Gaza to prevent famine to prevent a gaze.
-
-The order has been issued as a unanimous decision by the International Court of Hague.
-
-The order should be allowed to allow Israel to receive basic services and humanitarian aid gasas without delay.
-
-The order had been issued after the warnings of a famine in Gaza within a few weeks.
-
-But Israel said that he would refuse the accusations that prevent them from supporting the Gaza.
-
-◼️
-
-[Data](articles/b892c648.json)
-
-[Extended Data](ext_articles/b892c648.ext.json)
 
 ---

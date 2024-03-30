@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 17:33:46**
+As of **2024-03-30 17:53:27**
 
 ## Newspaper Stats
 
-*Scraped **16,066** Articles*
+*Scraped **16,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ tamilmirrorlk | 1,920
 adaderanalk | 1,936
 virakesarilk | 2,286
 dailymirrorlk | 2,483
-adaderanasinhalalk | 2,591
+adaderanasinhalalk | 2,592
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,066 (100.0%) of 16,066 articles have been extended.
+16,066 (100.0%) of 16,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### රාගම රෝහලේදී එන්නතක් දුන් පසු රෝගියෙක් මරුට
+
+*2024-03-30 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195110) · `si`
+
+රාගම ශික්ෂණ රෝහලේ දී එන්නතක් ලබාදීමෙන් පසු රෝගියෙකු මිය යාමේ සිද්ධිය සම්බන්ධයෙන් සෞඛ්‍ය අමාත්‍යංශය විමර්ශනයක් ආරම්භ කර තිබේ.
+
+සිද්ධිය සම්බන්ධයෙන් රෝහල් මට්ටමෙන්ද විමර්ශනයක් ක්‍රියාත්මක බව රාගම ශික්ෂණ රෝහලේ අධ්‍යක්ෂ වෛද්‍ය සම්පත් රණවීර මහතා පැවසීය.
+
+කො - ඇමොක්සික්ලේව් නම් එන්නත ලබාදීමෙන් පසු එම රෝගියා මියගොස් තිබේ.
+
+කෙසේවෙතත් එන්නත හේතුවෙන් ඇතිවූ ආසාත්මිකතාවයක් එම මරණයට හේතුවී ඇත්ද යන්න පිළිබඳව මෙතෙක් තහවුරු වී නොමැත.
+
+මියගොස් ඇත්තේ 50 හැවිරිදි පුද්ගලයෙකු වන අතර ඔහු කන ආශ්‍රිතව හටගත් රෝගී තත්ත්වයක් හේතුවෙන් පසුගිය 22 වනදා රාගම ශික්ෂණ රෝහලට ඇතුළත් කර තිබු බව සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/bbb4dca3.json)
+
+---
 
 ### Police landed on the street in fairy tale
 
@@ -2221,33 +2241,5 @@ The death investigation into his body was carried out by A. Jayapalasingham. The
 [Data](articles/e0f4352b.json)
 
 [Extended Data](ext_articles/e0f4352b.ext.json)
-
----
-
-### Inspector General of Justice
-
-*2024-03-29 22:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195084) · `si`
-
-Inspector General of Justice Tennakoon claims public has eradicated drug trafficking and underworld, vowing to take serious measures against police officers involved. He emphasizes the ongoing fight against drug and underworld, stating it won't return once stopped. He also mentions taking strict actions against police officers, including suspending and legal action.
-
-🟩
-
-The operation of justice is ends, the IGP Deshabandu Tennakoon says that the public has eradicated the underworld and drug trafficking.
-
-The IGP told the media this (29) that if stopped the middle of the midst of operations, he said.
-
-The IGP also added that he will take serious measures regarding the police officers with the underworld.
-
-Q. The operation of justice continues. People expect the time when this is over?
-
-"The day of the country is over the day that the country's drug and underworld is over the country's drug and underworld is over.. Until then, this has to do this. Because the reason for the habitat and if it stops, it will not go back to the place where it was. We have a good understanding. "
-
-Q: The voice has been released now the police officers talking to the stress?
-
-...
-
-[Data](articles/766ec02b.json)
-
-[Extended Data](ext_articles/766ec02b.ext.json)
 
 ---

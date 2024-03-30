@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 12:03:15**
+As of **2024-03-30 12:18:00**
 
 ## Newspaper Stats
 
-*Scraped **16,031** Articles*
+*Scraped **16,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 863
 economynextcom | 882
 islandlk | 887
 adalk | 1,342
-tamilmirrorlk | 1,913
-adaderanalk | 1,929
-virakesarilk | 2,282
+tamilmirrorlk | 1,914
+adaderanalk | 1,930
+virakesarilk | 2,283
 dailymirrorlk | 2,479
 adaderanasinhalalk | 2,580
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 2,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,029 (100.0%) of 16,031 articles have been extended.
+16,031 (100.0%) of 16,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### “Location Kudu Malli” arrested
+
+*2024-03-30 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98303/location-kudu-malli-arrested) · `en`
+
+The police have arrested “Location Kudu Malli”, who is said to be a notorious drug trafficker, along with 6,120 milligrams of drugs.
+
+The arrest was made during a raid carried out on Friday (29), based on a tip-off received by the Badalgama Police.
+
+The suspect has confessed during interrogations that he had been trafficking drugs to several areas including Minuwangoda, Nilpanagoda, Henpitagedara, Galkanda, Dunagaha, Katuwellegama and Aluthepola for a while.
+
+Badalgama Police have secured detention orders to detain the suspect for interrogations after he was produced before the Minuwangoda Magistrate’s Court.
+
+◼️
+
+[Data](articles/384aba15.json)
+
+---
+
+### மியான்மாரில் சைபர் குற்றங்களில் ஈடுபடுத்துவதற்காக கடத்தப்பட்ட 8 இலங்கையர்கள் விடுவிப்பு : மேலும் 48 பேர் தடுத்துவைப்பு
+
+*2024-03-30 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180012) · `ta`
+
+மியன்மாரில் சைபர் குற்றங்களில் ஈடுபடுத்துவதற்கென ஆட்கடத்தல் கும்பலால் கடத்தப்பட்ட 8 இலங்கையர்கள் மீட்கப்பட்டுள்ள நிலையில், அவர்களிடம் பொலிஸார் மேற்கொண்ட விசாரணைகள் நிறைவடைந்துள்ளதாக மியன்மாருக்கான இலங்கைத் தூதுவர் ஜனக பண்டார தெரிவித்துள்ளார்.
+
+எனவே அவர்களை விரைவில் நாட்டுக்கு அழைத்து வர நடவடிக்கை எடுக்கப்பட்டு வருவதாக அவர் தெரிவித்துள்ளார்.
+
+மியன்மாரில் தற்போது 48 இலங்கையர்கள் தடுத்துவைக்கப்பட்டுள்ளனர். அவர்களும் விரைவில் மீட்கப்படுவார்கள் என தூதுவர் மேலும் தெரிவித்தார்.
+
+தகவல் தொழில்நுட்பத் துறையில் வேலைபெற்றுத் தருவதாகக் கூறியே இவ்வாறு இலங்கையர்கள் கடத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/4dc35ce0.json)
+
+---
 
 ### China, Sri Lanka ink MoU on conformity assessment cooperation
 
@@ -49,6 +85,8 @@ The prime minister also awarded Du Chao, general manager of Hualan Inspection Co
 ...
 
 [Data](articles/505db202.json)
+
+[Extended Data](ext_articles/505db202.ext.json)
 
 ---
 
@@ -69,6 +107,26 @@ Karuna has told DailyMirr that this is a sign that Sri Lanka's economy is return
 [Data](articles/b38f1d1e.json)
 
 [Extended Data](ext_articles/b38f1d1e.ext.json)
+
+---
+
+### கஞ்சா விற்பனை செய்த பெண் கைது
+
+*2024-03-30 11:18:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/கஞ்சா-விற்பனை-செய்த-பெண்-கைது/75-335362) · `ta`
+
+திருகோணமலை - மொரவெவ  பொலிஸ் பிரிவிற்குட்பட்ட ரொட்டவெவ பகுதியில் கஞ்சா விற்பனையில் ஈடுபட்டு வந்த பெண் ஒருவரை இன்று (29) கைது செய்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+போதைப்பொருள் விற்பனை தொடர்பாக புலன் விசாரணைகளை மேற்கொண்ட புலனாய்வு துறையினர் மொரவெவ பொலிஸாருக்கு வழங்கிய தகவலுக்கு அமைவாக சோதனைகளை மேற்கொண்ட போது குறித்த பெண் கைது செய்யப்பட்டதாகவும் தெரிய வருகின்றது.
+
+இவ்வாறு கைது செய்யப்பட்டவர் அதே பகுதியைச் சேர்ந்த ஜே.சமீரா (38 வயது) எனவும் பொலிஸார் தெரிவித்தனர்.
+
+குறித்த பெண் பல வருடங்களாக கஞ்சா போதைப் பொருள் விற்பனையில் ஈடுபட்டு வந்த நிலையில் பல தடவைகள்  சோதனைக்கு உட்படுத்தப்பட்டிருந்த நிலையில்,  கஞ்சா போதை பொருட்களை பல தடவைகள் மறைத்து வைத்திருந்த நிலையில் பெண் பொலிஸாரின் உதவியுடன் கைது செய்யப்பட்டு திருகோணமலை நீதிமன்றத்தில் வழக்குகள் இடம் பெற்று வருவதாகவும் தெரிய வருகின்றது.
+
+இதே நேரம் தொடர்ந்தும் குறித்த பெண் கஞ்சா போதை பொருள் விற்பனையில் ஈடுபட்டு வருவதாக பொலிஸ் மா அதிபர் திணைக்களத்திற்கு பல கடிதங்கள் அனுப்பி வைக்கப்பட்டதாகவும் பிரதேச மக்கள் குறிப்பிடுகின்றனர்.
+
+...
+
+[Data](articles/7fd85636.json)
 
 ---
 
@@ -1678,6 +1736,8 @@ Sujeewa Rajapakse, the Chairman of People’s Bank said he was pleased with the 
 
 [Data](articles/f1c29eb4.json)
 
+[Extended Data](ext_articles/f1c29eb4.ext.json)
+
 ---
 
 ### Property of banned powder Noky
@@ -2149,83 +2209,5 @@ Addressing the General Debate under the theme “Parliamentary diplomacy: Buildi
 [Data](articles/5a1963de.json)
 
 [Extended Data](ext_articles/5a1963de.ext.json)
-
----
-
-### Intense responses from Russia
-
-*2024-03-29 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195077) · `si`
-
-Russia arrests 143+ in terrorist attack on Moscow, involving IIQ Organization. Four arrested in Crocas town.
-
-🟩
-
-Tjikizan has arrest others regarding the terrorist attack on the Moscow in Moscow, Russia.
-
-The International Media was arrested by the National Security Committee of the National Security Committee.
-
-Those people are also involved in the IIQ Organization.
-
-They were arrested in Vakadu, Vajikistan, Ven.
-
-About 143 people were killed in the attack on Friday evening.
-
-Four Sunday was arrested on the terrorist attack on Crocas town and the terrorists, Russia said that they were shooters.
-
-The Russian authorities who claim to be punished for all attacks have been expanded into other suspects.
-
-◼️
-
-[Data](articles/f6084891.json)
-
-[Extended Data](ext_articles/f6084891.ext.json)
-
----
-
-### Taliban's control against women
-
-*2024-03-29 16:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195075) · `si`
-
-The Taliban, post-2021 takeover, reinstates public adultery punishments, limiting women's rights, education, and jobs. Mullah Hihikulata, the supreme leader, claims the Taliban's rule is not solely Afghanistan's responsibility. The UN reports worsening conditions for women and girls in Afghanistan.
-
-🟩
-
-The Taliban administration of Afghanistan has decided to restore the punishment of committing adultery in publicity.
-
-According to foreign media reports, Taliban's supremacy leader Mullah Hihikulata has issued an official statement.
-
-The Taliban's supreme leader has said that the Taliban is not only due to the administration of Afghanistan.
-
-After the acquisition of Afghanistan in 2021, women were restricted to women, including educational, jobs.
-
-The United Nations has also shown that the conditions of women and girls in Afghanistan are very bad.
-
-◼️
-
-[Data](articles/1527ab39.json)
-
-[Extended Data](ext_articles/1527ab39.ext.json)
-
----
-
-### MI skipper Pandya shoves off Malinga after losing to SRH, netizens slam his behaviour
-
-*2024-03-29 16:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/MI-skipper-Pandya-shoves-off-Malinga-after-losing-to-SRH-netizens-slam-his-behaviour/155-279833) · `en`
-
-Mar. 29 (FPJ) - Hardik Pandya received a hostile reception from the crowd in Ahmedabad and Hyderabad as he was booed during the toss and also subjected to jeers throughout the match.
-
-Mumbai Indians skipper Hardik Pandya has been in the news for all the wrong reasons ever since the start of the team's campaign in the Indian Premier League (IPL) 2024. Pandya faced a backlash from MI fans for replacing Rohit Sharma as a captain.
-
-Does Hardik Pandya kicked Lasith Malinga? His hands, face reaction same story.
-
-Not a good way to treat legend like Lasith Malinga. #HardikPandya #SRHvMI pic.twitter.com/Yg5a5hNRTE
-
-Hardik Pandya received a hostile reception from the crowd in Ahmedabad and Hyderabad as he was booed during the toss and also subjected to jeers throughout the match. To make it worse, the all-rounder didn't have a good start to start to his captaincy debut with Mumbai Indians as the five-time IPL champions lost to two back to back of the ongoing IPL season.
-
-...
-
-[Data](articles/50db6ab9.json)
-
-[Extended Data](ext_articles/50db6ab9.ext.json)
 
 ---

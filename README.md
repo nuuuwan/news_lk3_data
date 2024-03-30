@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 16:18:03**
+As of **2024-03-30 16:34:02**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 2,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,055 (100.0%) of 16,058 articles have been extended.
+16,058 (100.0%) of 16,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### අමුතු ඇඳුමකින් පාරට බැස්ස පොලීසිය
+### Go to the streets with a strange suit
 
 *2024-03-30 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195106) · `si`
 
-ජනතාව සාමාන්‍යයයෙන් දැක නැති ආකාරයේ ඇඳුමකින් සැරසී මාර්ගයට පැමිණි පොලිස් නිලධාරීන් කණ්ඩායමක් රථවාහන පරීක්ෂා කිරීම්වල නිතරවී තිබුණි.
+Today, 240 amateur police officers from Mapakadadadakawewa Police Training School participated in special traffic operations and drug raids near the Mahaweli Bridge on the Kandy main road, from 8 am to 12 noon.
 
-ඒ, අද (30) මහියංගනය මහනුවර ප්‍රධාන මාර්ගයේ මහවැලි පාලම අසලදී ය.
+🟩
 
-උදෑසන 8 සිට දහවල් 12 දක්වා එම විශේෂ රථවාහන සෝදිසිය ක්‍රියාත්මක වුණි.
+A group of police officers who had come to the way the people were not seen by the average group of dress and a group of police officers had frequent traffic tests.
 
-මහියංගනය මාපාකඩවැව පොලිස් පුහුණු පාසලේ පුහුණුව ලබන ආධුනික පොලිස් නිලධාරීන් 240ක් "යුක්තිය" මෙහෙයුමට සමගාමීව මත්ද්‍රව්‍ය වැටලීම් සඳහා රථවාහන සහ මහජනයා පරික්ෂාව සඳහා මෙලෙස එක්වී තිබේ.
+That is the Mahaweli Bridge on the Kandy main road today.
 
-රිදිමාලියද්ද, ඇකිරියන් කුඹුර, ලොග්ගල්ඔය, දඹාන 51 කණුව, වේරගංතොට පාලම අසල, සොරබොර හංදිය යන ස්ථාන 06කදී මෙම පරීක්ෂාවන් සිදුකර ඇත.
+The special traffic was operated from 8 am to 12 noon.
 
-මෙහි අරමුණ වී තිබුණේ අදාළ ආධුනික පොලිස් නිලධාරීන් ට පරීක්ෂා කිරීම් පිළිබඳව ප්‍රායෝගික අත්දැකීම් ලබාදීමය.
+240 amateur policemen trained in Mapakadadadakawewa Police Training School, 240 amateur police officers trained in the Police Training School, 240 amateur police officers have joined the traffic and testing of drug raids.
+
+These inspections have been carried out at 06 sites, near the Weragantota Bridge, Loggal Oya, Paragraphiyadda, Cranali, Dhimbana 51th Post, Weregantota Bridge.
+
+The objective is to provide practical experience on the apprenticeship police officers.
 
 ◼️
 
 [Data](articles/3446a565.json)
+
+[Extended Data](ext_articles/3446a565.ext.json)
 
 ---
 
@@ -66,25 +72,33 @@ Foreign Secretary Kwatra extended a warm welcome to Sagala Ratnayaka, acknowledg
 
 [Data](articles/df135438.json)
 
+[Extended Data](ext_articles/df135438.ext.json)
+
 ---
 
-### யாழ். போதனா வைத்தியசாலையில் ஏற்படுத்தப்பட்ட மாற்றம்
+### Yall. Teaching
 
 *2024-03-30 15:57:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-போதனா-வைத்தியசாலையில்-ஏற்படுத்தப்பட்ட-மாற்றம்/71-335368) · `ta`
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலையின் வெளி நோயாளர் பிரிவு  மாலை ஆறு மணி வரை செயற்படும் என யாழ்ப்பாணம் போதனா வைத்தியசாலையின் பணிப்பாளர்  தங்கமுத்து சத்தியமூர்த்தி தெரிவித்தார்.
+The Director of Jaffna Teaching Hospital announced the External Disease Division will operate until 6 PM, and the hospital will extend its outpatient services to outer districts, especially on Poya days. Despite challenges, they're utilizing available resources to expand activities.
 
-வெள்ளிக்கிழமை  (29) யாழ்ப்பாணம் போதனா வைத்தியசாலை கேட்போர் கூடத்தில் இவ்வாறு தெரிவித்தார். மேலும் தெரிவிக்கையில்,
+🟩
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலையில் வெளி மாவட்டங்களில் இருந்து வெளிநோயாளர் பிரிவில் அதிகளவில்  சிகிச்சை பெறுவதற்கு வருகிறார்கள்.
+The Director of the Jaffna Teaching Hospital, Thangamuthu Sathiyamoorthy, said that the External Disease Division of the Jaffna Teaching Hospital will function till six o'clock in the evening.
 
-அதன் காரணமாக வெளி நோயாளர் பிரிவை போயா தவிர்ந்த  கிழமை நாட்களில் மாலை 6 மணி வரை செயற்படுத்துவதற்கு தீர்மானித்துள்ளோம்.
+He said this at the Jaffna Teaching Hospital Auditorium on Friday (29). In addition,
 
-வைத்தியசாலையின் செயற்பாடுகளை விஸ்தரிப்பதற்கு இட வசதி மற்றும் ஆளணி எமக்குள்ள ஒரு பாரிய சவாலாக விளங்குகிறது. இருந்த போதும் எம்மிடம்  காணப்படுகின்ற வளங்களை உரிய முறையில் பயன்படுத்தி  சேவையாற்றி வருகிறோம். என அவர் மேலும் தெரிவித்தார். R
+The Jaffna Teaching Hospital is coming to the outpatient unit from outer districts.
+
+Due to this, we have decided to implement the Outdone's Division till 6 pm on the day of the Poya.
+
+The hospital is a huge challenge to expand the activities of the hospital. Nevertheless, we are using the resources that we find. He added. Remble
 
 ◼️
 
 [Data](articles/d8375c51.json)
+
+[Extended Data](ext_articles/d8375c51.ext.json)
 
 ---
 

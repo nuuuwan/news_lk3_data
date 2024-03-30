@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 18:07:56**
+As of **2024-03-30 18:20:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,592
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,067 (100.0%) of 16,068 articles have been extended.
+16,068 (100.0%) of 16,068 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,8 @@ Trains to and from Ede were cancelled, railway operator NS said on its website.
 ◼️
 
 [Data](articles/77457956.json)
+
+[Extended Data](ext_articles/77457956.ext.json)
 
 ---
 

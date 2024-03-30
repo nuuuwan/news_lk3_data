@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 17:18:07**
+As of **2024-03-30 17:33:46**
 
 ## Newspaper Stats
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 2,591
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,064 (100.0%) of 16,066 articles have been extended.
+16,066 (100.0%) of 16,066 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### விசித்திர உடையில் வீதிக்கு இறங்கிய பொலிஸார்
+### Police landed on the street in fairy tale
 
 *2024-03-30 17:08:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசித்திர-உடையில்-வீதிக்கு-இறங்கிய-பொலிஸார்/175-335369) · `ta`
 
-மஹியங்கனை - கண்டி பிரதான வீதியில் மகாவலி பாலத்திற்கு அருகில் இன்று (30) சோதனையில் ஈடுபட்ட பொலிஸ் அதிகாரிகளின் உடை அனைவராலும் பேசப்படுகின்றது.
+Police officers in unconventional attire conducted a special traffic test in Mahiyanganaya, Kandy, from 8 am to 12 pm, involving 240 Vocational Training Police Officers. The test aimed to provide practical experience to trainees at the Mahiyanganaya Mabagadawewa Police Training School.
 
-காலை 8.00 மணி முதல் மதியம் 12.00 மணி வரை வழக்கமாக மக்கள் பார்க்காத வகையிலான ஆடைகளை அணிந்து கொண்டு சிறப்பு போக்குவரத்து சோதனை அமுல்படுத்தப்பட்டது.
+🟩
 
-மஹியங்கனை மாபாகடவெவ பொலிஸ் பயிற்சிப் பாடசாலையில் பயிற்சி பெற்று வரும் 240 தொழிற்பயிற்சி பொலிஸ் உத்தியோகத்தர்கள் "யுக்திய" நடவடிக்கையுடன் இணைந்து போதைப்பொருள் சோதனைகளுக்காக போக்குவரத்தையும் பொதுமக்களையும் சோதனை செய்ய இவ்வாறு ஒன்றிணைந்தனர்.
+The dress of police officers who were involved in the raid today (30) near the Mahaweli Bridge on the main road of Mahiyanganaya - Kandy.
 
-ரிதிமாலியத்த, எகிரியன் கும்புர, லொக்கலோயா, தம்பான 51 மைல்கல், வெரகந்தோட்டை பாலத்திற்கு அருகில், சொரபொர சந்தி ஆகிய 06 இடங்களில் இந்த சோதனைகள் இடம்பெற்றன.
+A special traffic test was implemented by wearing clothing that is usually not seen by people from 8.00 am to 12.00 pm.
 
-பயிற்சி பெறும் அதிகாரிகளுக்கு ஆய்வுகளின் நடைமுறை அனுபவத்தை வழங்குவதே இதன் நோக்கமாகும். R
+The 240 Vocational Training Police Officers, who are training at the Mahiyanganaya Mabagadawewa Police Training School, have joined together to test the traffic and the public for drug tests.
+
+The tests were held at six locations - Rithimaliatta, Ekirian Kumbura, Localyao, Tambana 51 Milestone, near the Verakantota Bridge.
+
+The purpose of this is to provide the practical experience of the study to training officers. Remble
 
 ◼️
 
 [Data](articles/1491df54.json)
 
+[Extended Data](ext_articles/1491df54.ext.json)
+
 ---
 
-### කාලගුණයෙන් ජනතාවට හදිසි දැනුම්දීමක්
+### Emergency notice to the people by weather
 
 *2024-03-30 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195109) · `si`
 
-රට පුරා ප්‍රදේශ රැසක හෙට (31) දිනයේ මිනිස් සිරුරට දැනෙන උණුසුම අවධානය යොමු කළ යුතු මට්ටමක පවතින බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+"Emergency notice: High heat levels expected in several areas tomorrow (31)."
+
+🟩
+
+The warming of the human body is at a level of heat at a number of areas tomorrow (31).
 
 ◼️
 
 [Data](articles/851d6061.json)
+
+[Extended Data](ext_articles/851d6061.ext.json)
 
 ---
 

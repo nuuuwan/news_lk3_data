@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 11:03:16**
+As of **2024-03-30 11:17:53**
 
 ## Newspaper Stats
 
-*Scraped **16,022** Articles*
+*Scraped **16,025** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,37 @@ islandlk | 887
 adalk | 1,342
 tamilmirrorlk | 1,913
 adaderanalk | 1,928
-virakesarilk | 2,280
-dailymirrorlk | 2,476
-adaderanasinhalalk | 2,578
+virakesarilk | 2,281
+dailymirrorlk | 2,477
+adaderanasinhalalk | 2,579
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,019 (100.0%) of 16,022 articles have been extended.
+16,022 (100.0%) of 16,025 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### Innocent Passage to enter Arabian Sea: India remains unresponsive to Sri Lanka’s request
+
+*2024-03-30 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Innocent-Passage-to-enter-Arabian-Sea-India-remains-unresponsive-to-Sri-Lankas-request/108-279874) · `en`
+
+Colombo, March 30 (Daily Mirror)- India remains unresponsive to the request by Sri Lanka to allow an innocent passage through the Indian Exclusive Economic Zone (EEZ) for its fishermen to enter the Arabian Sea, a top source said.
+
+Sri Lanka made this request when President Ranil Wickremesinghe visited India last year. The Indian route will help Lankan fishermen cut down the total distance by 400 nautical miles. Currently, they have to take a longer route via Negombo, Dikovita, Beruwala and Matara around the Maldives.
+
+Currently, Sri Lankan fishermen get detained by the Indian Coast Guard when they unlawfully enter Indian waters on their way to the Arabian Sea for fishing activities.
+
+The President embarked on a two-day visit to India in July last year, his first since taking office last year after a tumultuous period that saw the island nation’s economy tank, and protests erupt on its streets leading to ouster of former leaders.
+
+...
+
+[Data](articles/c0c709fe.json)
+
+---
 
 ### Measures taken to limit egg imports from India
 
@@ -48,6 +66,42 @@ Its chairman Asiri Walisundara mentioned that nearly 04 million imported eggs wo
 
 [Data](articles/723a5dc6.json)
 
+[Extended Data](ext_articles/723a5dc6.ext.json)
+
+---
+
+### ලොකේෂන් කුඩු මල්ලී පොලිස් දැලේ
+
+*2024-03-30 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195093) · `si`
+
+මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු ලෙසට සැකකෙරෙන "ලොකේෂන් කුඩු මල්ලී" නමින් හඳුන්වන පුද්ගලයාව අත්අඩංගුවට ගෙන තිබේ.
+
+බඩල්ගම පොලිස් ස්ථානයේ නිලධාරීන්ට ලැබුණු තොරතුරක් මත ඊයේ (29) සිදුකළ මෙහෙයුමක දී මෙම සැකකරුව අත්අඩංගුවට ගෙන ඇත.
+
+පටන් මිනුවන්ගොඩ, නිල්පනාගොඩ, හේන්පිටගෙදර, ගල්කන්ද, දූනගහ, කටුවැල්ලේගම, අලුතෑපොල යන ප්‍රදේශවලට මත්ද්‍රව්‍ය බෙදාහැරීමේ කටයුතු සිදුකළ බවය.
+
+අත්අඩංගුවට ගත් සැකකරු මිනුවන්ගොඩ අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු සතියක කාලයක් රැඳවුම් නියෝග මත ප්‍රශ්න කිරීම සඳහා බඩල්ගම පොලීසියට අධිකරණයෙන් අවසරදී තිබේ.
+
+◼️
+
+[Data](articles/9b2ec15e.json)
+
+---
+
+### கரையோர மார்க்கத்தில் பல ரயில் சேவைகள் இன்று இரத்து
+
+*2024-03-30 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/180005) · `ta`
+
+இன்று சனிக்கிழமையும்  (30)  நாளை ஞாயிற்றுக்கிழமையும் (31) கரையோர மார்க்கத்தில் பயணிக்கும் ரயில்கள்  தொடர்ந்தும் தாமதமாகச் செல்லும் என ரயில் திணைக்களம் தெரிவித்துள்ளது.
+
+நகர அபிவிருத்தி அதிகார சபையினால் மேற்கொள்ளப்படும் குழாய் திருத்தப் பணிகள் காரணமாக வெள்ளவத்தை மற்றும் கொழும்பு கோட்டை ரயில் நிலையங்களுக்கு இடையில் ஒரு வழி ரயில் சேவையே தற்போது இடம்பெறுகிறது.
+
+இதன் காரணமாக கரையோர மார்க்கத்தில் சுமார் 25 ரயில் சேவைகள் இரத்து செய்யப்பட்டுள்ளதோடு, ரயில் சேவைகள் நாளை இரவு மீண்டும் வழமைக்கு திரும்பம் என எதிர்பார்க்கப்படுவதாக  ரயில் திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/080db805.json)
+
 ---
 
 ### Top webinar today on “The FTA Pathway: Exploring Sri Lanka’s Export and FDI Potential”
@@ -63,6 +117,8 @@ The keynotes will be delivered by Foreign Minister Ali Sabry, Indian High Commis
 ...
 
 [Data](articles/b0cfaf1f.json)
+
+[Extended Data](ext_articles/b0cfaf1f.ext.json)
 
 ---
 
@@ -215,6 +271,8 @@ Mr. Wijewardene also stated that some in the SLPP and even in opposition parties
 ...
 
 [Data](articles/9921c565.json)
+
+[Extended Data](ext_articles/9921c565.ext.json)
 
 ---
 
@@ -2171,83 +2229,5 @@ The underlying people face so many difficulties and why they have to face such e
 [Data](articles/fa9900f3.json)
 
 [Extended Data](ext_articles/fa9900f3.ext.json)
-
----
-
-### UN top court orders Israel to open more land crossings for aid into Gaza
-
-*2024-03-29 15:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/98289/un-top-court-orders-israel-to-open-more-land-crossings-for-aid-into-gaza) · `en`
-
-The top United Nations court on Thursday ordered Israel to take measures to improve the humanitarian situation in Gaza, including opening more land crossings to allow food, water, fuel and other supplies into the war-ravaged enclave.
-
-The International Court of Justice issued two new so-called provisional measures in a case brought by South Africa accusing Israel of acts of genocide in its military campaign launched after the Oct. 7 attacks by Hamas. Israel denies it is committing genocide and accused South Africa of trying to ‘undermine Israel’s inherent right and obligation to defend its citizens.’
-
-Thursday’s order came after South Africa sought more provisional measures, including a cease-fire, citing starvation in Gaza. Israel, which had urged the court not to issue new orders, said it places no limits on aid entering Gaza and vowed to ‘promote new initiatives’ to bring in even more assistance.
-
-...
-
-[Data](articles/fc1ea9b7.json)
-
-[Extended Data](ext_articles/fc1ea9b7.ext.json)
-
----
-
-### World chaklet industry at strict risk
-
-*2024-03-29 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195074) · `si`
-
-The global chocolate industry faces severe risks due to a 90% reduction in cocoa supply, primarily from Ivory Coast, Alnaroon, and Nigeria. Temperature changes have affected cocoa production, leading to the closure of 8 cocoa seed cabs. Ivory Coast and Ghana contribute 60% of global cocoa production. Experts predict a 10.4% decrease in global cocoa supply this season. Chocolate manufacturers prioritize cost savings over government prices, affecting cocoa availability. This situation has led to a focus on cocoa in chocolate production, with high-quality cocoa production doubling since last year, impacting global chocolate supply.
-
-🟩
-
-The proportion of chocolate increasing the demand for chocolate is due to the failure of suppliers to continue the supply of cachbo.
-
-About 90 percent of the world's cocoa seed cultivation occurring within less land sizes.
-
-About 75 percent of the world's total cocoa production provides the countries of Ivory Coast, Alnaroon, and Nigeria.
-
-Millions of people in West Africa view cocoa production as the only way to get rid of poverty.
-
-However, the cocoa manufacturing of the world has been consected for three years.
-
-Experts are posted on the fourth year of cocoa for the fourth year of cocoa.
-
-The impact of temperature has increased due to the influence of the world with the impact of the world due to the influence of temperature.
-
-Accordingly, about 8 cocoa seed cab have been closed down.
-
-The Ivory Coast and Ghana, which is restricted to cocoa process, contributes to 60% of Cocoa production.
-
-The International Cocoa is predicted by 10.4 percent to 4.45 million tonnes of Global Cocoa ends in this season.
-
-...
-
-[Data](articles/968dadde.json)
-
-[Extended Data](ext_articles/968dadde.ext.json)
-
----
-
-### The new refinery in Hambantota is negotiating with the government
-
-*2024-03-29 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179970) · `ta`
-
-Sinobek is negotiating with the government for a new refinery in Hambantota, aiming to double the original proposal's efficiency. They plan to sign contracts and start work by June, discussing water supply, electricity, and land allocation.
-
-🟩
-
-Sinobek has explained to the government on the progress of negotiations with shareholders to construct a new refinery in Hambantota.
-
-The matter was held at a meeting held on Thursday (18) between the officials of the Sinobac Foreign Investment Institute and the Minister of Power and Power and Power Kanjana Wijeshekara on Thursday (18).
-
-Officials pointed out that the administration of Sinobek has decided to double the efficiency of the original proposal and investment.
-
-They will sign the contracts for the project and begin work by June. Discussions have also been discussed on water supply, electricity and land allocation.
-
-◼️
-
-[Data](articles/c03ebc11.json)
-
-[Extended Data](ext_articles/c03ebc11.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 03:34:10**
+As of **2024-03-31 03:51:18**
 
 ## Newspaper Stats
 
-*Scraped **16,089** Articles*
+*Scraped **16,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 1,345
 tamilmirrorlk | 1,924
 adaderanalk | 1,943
 virakesarilk | 2,286
-dailymirrorlk | 2,483
+dailymirrorlk | 2,484
 adaderanasinhalalk | 2,597
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,089 (100.0%) of 16,089 articles have been extended.
+16,089 (100.0%) of 16,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### Health Ministry probes fatal incident at Ragama Hospital
+
+*2024-03-31 03:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-Ministry-probes-fatal-incident-at-Ragama-Hospital/108-279883) · `en`
+
+Colombo, March 30 (Daily Mirror) - The Ministry of Health has launched an investigation following the tragic death of a 50-year-old patient at Ragama Teaching Hospital shortly after receiving a vaccine.
+
+The patient, who had been admitted to the hospital for an ear-related medical condition, passed away after reportedly being administered the 'co-amoxiclav' vaccine, an antibiotic typically used to combat bacterial infections.
+
+Dr. Sampath Ranaweera, the hospital's director, confirmed that a thorough internal investigation is also underway at the hospital level to ascertain the circumstances surrounding the incident.
+
+While the cause of death remains uncertain, officials have not ruled out the possibility of an allergic reaction to the vaccine.
+
+The incident has sparked concerns and prompted authorities to delve deeper into the events leading up to the patient's demise.
+
+◼️
+
+[Data](articles/57bf206e.json)
+
+---
 
 ### Increase violence against women
 
@@ -2247,23 +2267,5 @@ Known for its strategic partnerships and prompt undertakings, Dialog Enterprise,
 [Data](articles/4fad1a63.json)
 
 [Extended Data](ext_articles/4fad1a63.ext.json)
-
----
-
-### How FSP Leader Kumar Gunaratnam Fought the Indian Army in 1989 as the Trincomalee  JVP Commander “Gemunu”
-
-*2024-03-30 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83808) · `en`
-
-The Janatha Vimukthi Peramuna (Peoples  Liberation Front) led Jathika Jana Balawegaya ( National People’s Power is a left-leaning, working class-oriented broad front consisting of the JVP and 27 other organisations. These entities comprise small parties, trade unions, rights groups, Women,  student and youth organisations.
-
-The JVP is the pivotal, pre-eminent force in the NPP. The JVP as well as the NPP are led by Anura Kumara Dissanayake MP. A.K. Dissanayake is perceived as a front runner in the forthcoming Presidential race.
-
-AK Dissanayake contested the 2019 Presidential elections and finished a poor third with 418,553 votes (3.16%). At the 2020 Parliamentary polls, the JVP-led NPP contesting under the compass symbol got only three MPs comprising two elected and one appointed from the national list .
-
-...
-
-[Data](articles/93836f95.json)
-
-[Extended Data](ext_articles/93836f95.ext.json)
 
 ---

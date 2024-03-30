@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 13:33:52**
+As of **2024-03-30 13:52:31**
 
 ## Newspaper Stats
 
-*Scraped **16,040** Articles*
+*Scraped **16,046** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ dailyftlk | 863
 economynextcom | 882
 islandlk | 887
 adalk | 1,342
-tamilmirrorlk | 1,916
-adaderanalk | 1,931
-virakesarilk | 2,283
-dailymirrorlk | 2,479
+tamilmirrorlk | 1,917
+adaderanalk | 1,932
+virakesarilk | 2,286
+dailymirrorlk | 2,480
 adaderanasinhalalk | 2,582
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,040 (100.0%) of 16,040 articles have been extended.
+16,040 (100.0%) of 16,046 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### New appointments made to fill SLFP’s three senior positions
+
+*2024-03-30 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98305/new-appointments-made-to-fill-slfps-three-senior-positions) · `en`
+
+Sri Lanka Freedom Party (SLFP) has appointed a new Senior Vice President, a Treasurer and a National Organizer after MPs Mahinda Amaraweera, Lasantha Alagiyawanna and Duminda Dissanayake were stripped of their respective party positions on Saturday (30).
+
+Thereby, SLFP’s Mahiyanganaya Constituency Organizer K. P. Gunawardena was appointed to the post of National Organizer, former Western Provincial Minister Hector Bethmage as the Treasurer and former Central Province Chief Minister Sarath Ekanayake as the Senior Vice President.
+
+The SLFP’s executive committee meeting was chaired by the party leader, former President Maithripala Sirisena on Saturday morning, during which a crucial decision was taken to strip the three senior members of their party positions.
+
+◼️
+
+[Data](articles/62b62dd0.json)
+
+---
+
+### சிறுவர்களிடையே தீவிரமாக பரவும் நோய் - வைத்தியர் எச்சரிக்கை
+
+*2024-03-30 13:29:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களிடையே-தீவிரமாக-பரவும்-நோய்-வைத்தியர்-எச்சரிக்கை/175-335366) · `ta`
+
+சிறுவர்கள் மத்தியில் கை, கால், வாய் தொடர்பான தொற்று நோய்கள் பரவி வருவதாக கொழும்பு லேடி ரிட்ஜ்வே வைத்தியசாலையின் குழந்தைகள் நல வைத்தியர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+
+நோயினால் பீடிக்கப்பட்டுள்ள சிறுவர்களுக்கு காய்ச்சல், தொண்டை வலி, வாய், கை, கால் மற்றும் பிட்டம் முதலான உறுப்புகளில் கொப்புளங்கள் ஏற்படுகின்றன.
+
+இது சின்னம்மை போன்றது. ஆனால், சின்னம்மை ஏற்பட்டால் மார்பு மற்றும் முதுகில் கொப்புளங்கள் தோன்றும். இது தொற்றக்கூடியது.
+
+இதுபோன்ற அறிகுறிகள் பிள்ளைகளுக்கு தென்பட்டால் அவர்களை பாடசாலைக்கு அனுப்ப வேண்டாம் எனவும் அவர் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/91921b1b.json)
+
+---
+
+### சிறுவர்களிடையே பரவும் கை, கால், வாய் தொற்று நோய் - வைத்தியர் தீபால் பெரேரா எச்சரிக்கை!
+
+*2024-03-30 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180020) · `ta`
+
+கை, கால், வாய் தொடர்பான தொற்று நோய்கள் சிறுவர்கள் மத்தியில் பரவி வருவதாக கொழும்பு லேடி ரிட்ஜ்வே வைத்தியசாலையின் குழந்தைகள் நல வைத்தியர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+
+நோயினால் பீடிக்கப்பட்டுள்ள சிறுவர்களுக்கு காய்ச்சல், தொண்டை வலி, வாய், கை, கால் மற்றும் பிட்டம் முதலான உறுப்புகளில் கொப்புளங்கள் ஏற்படுகின்றன.
+
+இது சின்னம்மை போன்றது. ஆனால், சின்னம்மை ஏற்பட்டால் மார்பு மற்றும் முதுகில் கொப்புளங்கள் தோன்றும். இது தொற்றக்கூடியது.
+
+இதுபோன்ற அறிகுறிகள் பிள்ளைகளுக்கு தென்பட்டால் அவர்களை பாடசாலைக்கு அனுப்ப வேண்டாம் எனவும் அவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/4f00b01d.json)
+
+---
 
 ### Duminda, remove Lasantha and Ammenia
 
@@ -58,11 +110,17 @@ All the Sri Lanka Freedom Party (SLFP) organizers and executive committee member
 
 *2024-03-30 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98304/slfp-removes-amaraweera-lasantha-and-duminda-from-party-positions) · `en`
 
-The Sri Lanka Freedom Party (SLFP) has removed Duminda Dissanayake from the party’s National Organiser post, Ada Derana reporter said.
+The Sri Lanka Freedom Party (SLFP) has removed Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera from their respective positions in the party, Ada Derana reporter said.
 
-Meanwhile, the Executive Committee of the SLFP has also removed Lasantha Alagiyawanna as Treasurer and Mahinda Amaraweera as Senior Vice President of the party, a short while ago.
+Accordingly, Dissanayake was stripped of his post as the Executive Committee, Alagiyawanna as the Treasurer and Amaraweera as the Senior Vice President.
 
-◼️
+The Chairman of SLFP, former President Maithripala Sirisena summoned all members of the party to Colombo for a pivotal meeting today (30).
+
+On Monday (25), political sources revealed that the party’s Central Committee members, Executive Committee members, Constituency and District Organizers of the SLFP and all the officials of the affiliated organizations of the party have been called to the party headquarters in order to reach certain crucial decisions.
+
+Against this backdrop, a new alliance led by the SLFP will be formed in the near future and it is reported that this process has reached the final stage.
+
+...
 
 [Data](articles/978a7a26.json)
 
@@ -102,6 +160,20 @@ Accordingly, the police intervened and made calls on the number on the telephone
 
 ---
 
+### Amaraweera, Lasantha, Duminda removed from SLFP positions
+
+*2024-03-30 12:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Amaraweera-Lasantha-Duminda-removed-from-SLFP-positions/108-279880) · `en`
+
+Colombo, March 30 (Daily Mirror)- Ministers Mahinda Amaraweera, Lasantha Alagiyawanna and Duminda Dissanayake were stripped of their positions in the Sri Lanka Freedom Party (SLFP) today.
+
+Dissanayake was the national organizer of the party while Minister Amaraweera held the post of senior Vice President.
+
+◼️
+
+[Data](articles/86a0de9b.json)
+
+---
+
 ### April 8th full solar eclipse;Will Sri Lankans get a chance?
 
 *2024-03-30 12:36:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-8-முழு-சூரிய-கிரகணம்-இலங்கையர்களுக்கு-வாய்ப்பு-கிடைக்குமா/175-335365) · `ta`
@@ -121,6 +193,46 @@ NASA has said that North Americans have the opportunity to observe such a rare s
 [Data](articles/0b36d0fc.json)
 
 [Extended Data](ext_articles/0b36d0fc.ext.json)
+
+---
+
+### சோமாலிய கடற்கொள்ளையர்களிடம் சிக்கிய 23 பாகிஸ்தானியர்கள் இந்திய கடற்படையினரால் மீட்பு
+
+*2024-03-30 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180016) · `ta`
+
+மோமாலிய கடற்கொள்ளையர்களிடம் சிக்கித் தவித்த 23 பாகிஸ்தானியர்களை இந்திய கடற்படையினர் பத்திரமாக மீட்டுள்ளனர்.
+
+அரபிக்கடல் பகுதியில் ஈரான் நாட்டுக் கொடியுடன் சென்ற மீன்பிடிக் கப்பல் ஒன்றை கடற்கொள்ளையர்கள் கடத்தியுள்ளனர்.
+
+இதையடுத்து, இந்திய கடற்படையினர் இரண்டு கப்பல்களில் கடத்தப்ட்டவர்களை மீட்கும் முயற்சியில் களம் இறங்கியுள்ளனர்.
+
+சோமாலிய கடற்கொள்ளையர்களுக்கு இந்திய கடற்படையினர் பதிலடி கொடுத்தனர். சுமார் 12 மணி நேரத்திற்கு பிறகு, கடற்கொள்ளையர்கள் இந்திய கடற்படையினரிடம் சரண் அடைந்துள்ளனர்.
+
+இதையடுத்து கடத்தப்பட்ட கப்பலில் இருந்த 23 பாகிஸ்தானியர்களும் பத்திரமாக மீட்கப்பட்டனர். சோமாலிய கடற்கொள்ளையர்களின் கப்பலுக்குள் நுழைந்த இந்தியக் கடற்படையினர் சோதனைகளை மேற்கொண்டுள்ளனர்.
+
+இதேவேளை, 'கடந்த மார்ச் 28 ஆம் திகதி மாலை ஈரான் நாட்டை சேர்ந்த மீன்பிடிக் கப்பலான 'அல்-கம்பார் 786'ஐ சோமாலிய கடற்கொள்ளையர்கள் கடத்தியுள்ளனர். எமக்கு தகவல் கிடைத்தவுடன், அதிரடி நடவடிக்கை எடுத்து குறித்த கப்பலில் இருந்த 23 பேரையும் பத்திரமாக மீட்டுள்ளோம்' என இந்திய கடற்படை தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3acdf2be.json)
+
+---
+
+### யாழில் குடும்பஸ்தர் சடலமாக மீட்பு
+
+*2024-03-30 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180018) · `ta`
+
+யாழ்ப்பாணம் இளவாலை - வசந்தபுரம் பகுதியில் தனியாக வசித்து வந்து குடும்பஸ்தர் வெற்றுக் காணி ஒன்றில் இருந்து நேற்று வெள்ளிக்கிழமை (29) சடலமாக மீட்கப்பட்டுள்ளார்.
+
+கீரிமலை பகுதியைச் சேர்ந்த ஐயங்கன் சிவானந்தராஜா (வயது 47) என்பவரே சடலமாக மீட்கப்பட்டுள்ளார்.
+
+குறித்த நபர், அவரது குடும்பத்தவர்களுடன் ஏற்பட்ட முரண்பாடு காரணமாக இரண்டு மாதங்களுக்கு முன்னர் அவர்களை பிரிந்து வந்து , இளவாலை - வசந்தபுரம் பகுதியில் உள்ள காணியில் குடிசை ஒன்றை அமைத்து தனியாக வசித்து வந்துள்ளார்.
+
+இந்நிலையில், அவரது குடிசைக்கு அருகாமையில் உள்ள வெற்றுக் காணி ஒன்றிலிருந்து சடலமாக மீட்கப்பட்டார்.
+
+◼️
+
+[Data](articles/2da9095b.json)
 
 ---
 
@@ -2097,129 +2209,5 @@ According to the Constitution, the presidential election should be held in Septe
 [Data](articles/27e37f83.json)
 
 [Extended Data](ext_articles/27e37f83.ext.json)
-
----
-
-### Cocoa prices rise to fresh records: Will we run out of chocolate?
-
-*2024-03-29 18:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98292/cocoa-prices-rise-to-fresh-records-will-we-run-out-of-chocolate) · `en`
-
-Cocoa prices briefly surged to all-time highs on Tuesday, touching over $10,000 (€9,234.3) per ton, before settling back at $9,622 per ton on Wednesday morning, following disappointing harvests in key cocoa-producing countries such as Ghana and Ivory Coast. Cameroon, another cocoa-producing nation, has also been seeing much of the same conditions.
-
-The crop also saw a 19.8% gain in the past week, as well as a 42.4% rise this month. In the past year, cocoa prices have jumped about 231%.
-
-Cocoa is widely used in a number of chocolate products and confectioneries, with by-products such as cocoa nibs, cocoa butter, cocoa pod husks and pulp also being used for soft drinks, alcohol, vinegar, cosmetics, health supplements, fragrances and more.
-
-However, due to chocolate being by far the most common cocoa product, the rising cocoa prices have led to more worries about higher chocolate prices, as well as a chocolate shortage.
-
-...
-
-[Data](articles/14fe72f1.json)
-
-[Extended Data](ext_articles/14fe72f1.ext.json)
-
----
-
-### Special Commodity Levy to be scrapped from next year: Siyambalapitiya
-
-*2024-03-29 18:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-Commodity-Levy-to-be-scrapped-from-next-year-Siyambalapitiya/108-279836) · `en`
-
-Colombo, March 29 (Daily Mirror)- The Special Commodity Levy that was imposed to protect the local famers and producers will be scrapped from January, next year and a new tax system based on seasons will be introduced, State Minister of Finance Ranjith Siyambalapitiya said today.
-
-The Minister said a new tax based on seasons will be introduced to protect the local farmers and producers from next year.
-
-He said the seasonal tax which is connected to the Customs duty will be introduced after identifying the period when the local produce come to the market just as in other developed countries.
-
-The Minister said the decision to scrap the Special Commodity Levy was taken as the benefit of the Levy did not pass to the consumers at most times as the prices of goods were not reduced even when the Levy was reduced just as in the famous case of the sugar fraud.
-
-...
-
-[Data](articles/756f2a8f.json)
-
-[Extended Data](ext_articles/756f2a8f.ext.json)
-
----
-
-### Easter security beefed up...
-
-*2024-03-29 18:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Easter-security-beefed-up/110-279838) · `en`
-
-Security has been beefed up at all churches in view of Good Friday and Easter Sunday. The IGP has instructed the OICs to meet with the priests and boards of trustees of churches to prepare security plans that will be tailored according to the needs of each church while the Holy Masses are in progress today and tomorrow. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/560c380f.json)
-
-[Extended Data](ext_articles/560c380f.ext.json)
-
----
-
-### Gnanasara Thera suddenly admitted to the Prison Hospital
-
-*2024-03-29 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/179981) · `ta`
-
-Gnanasara Thera, imprisoned for 4 years, was admitted to Prison Hospital due to Sukhavana, following a previous admission for illness. Galagoda Ate Gnanasara Thera appeals the 4-year sentence from the Colombo High Court, which has been criticized for damaging Islam's reputation.
-
-🟩
-
-The Secretary General of the Ravana Balaya Organization, Ilkande Sattadissa Thera, said that the 4 -year -old imprisonment was admitted to the Prison Hospital due to Sukhavana.
-
-He added that Gnanasara Thera had previously been admitted to the Prison Hospital due to illness.
-
-Meanwhile, Galagoda Ate Gnanasara Thera has appealed against the sentence given by the Colombo High Court.
-
-The Colombo High Court has sentenced Galagoda Ate Gnanasara Thera to four years rigorous imprisonment.
-
-It is noteworthy that this punishment has been sentenced to the discredit of Islam.
-
-◼️
-
-[Data](articles/ec328f7b.json)
-
-[Extended Data](ext_articles/ec328f7b.ext.json)
-
----
-
-### Special trade tax deletion;When do you know?
-
-*2024-03-29 17:30:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-வர்த்தக-வரி-நீக்கம்-எப்போது-தெரியுமா/175-335343) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya announced the removal of the special trade tax starting January next year, following the simplification of import and export taxes. This new tax aims to protect local manufacturers and consumers.
-
-🟩
-
-Finance Minister Ranjith Siyambalapitiya has said that the Cabinet has accepted the idea of removing the special trade tax from January next year.
-
-The Minister of State made this statement while addressing the media in Ruwanwella area this morning.
-
-He pointed out that the decision was made after the import and export taxes were simplified, and that the new tax would be introduced to protect the local manufacturer and protect consumers.
-
-◼️
-
-[Data](articles/1ba13a23.json)
-
-[Extended Data](ext_articles/1ba13a23.ext.json)
-
----
-
-### Gnanasara Thera suddenly admitted to the hospital
-
-*2024-03-29 17:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஞானசார-தேரர்-திடீரென-வைத்தியசாலையில்-அனுமதி/175-335342) · `ta`
-
-Gnanasara Thera, sentenced to 4 years, admitted to Prison Hospital for Sukavanam.
-
-🟩
-
-It is reported that Galagoda Ate Gnanasara Thera, who was sentenced to 4 years in prison, has been admitted to the Prison Hospital due to Sukavanam.
-
-The Secretary General of the Ravana Balaya Organization, who came to visit Gnanasara Thera, said this.
-
-Gnanasara Thera had previously been suffered from the condition of the disease and was sent to the Prison Hospital for treatment.. Remble
-
-◼️
-
-[Data](articles/58e3d0f1.json)
-
-[Extended Data](ext_articles/58e3d0f1.ext.json)
 
 ---

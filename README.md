@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 08:18:11**
+As of **2024-03-30 08:33:53**
 
 ## Newspaper Stats
 
-*Scraped **15,994** Articles*
+*Scraped **15,996** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,47 +20,93 @@ tamilmirrorlk | 1,911
 adaderanalk | 1,922
 virakesarilk | 2,276
 dailymirrorlk | 2,470
-adaderanasinhalalk | 2,572
+adaderanasinhalalk | 2,574
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,992 (100.0%) of 15,994 articles have been extended.
+15,994 (100.0%) of 15,996 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### நடிகர் டேனியல் பாலாஜி காலமானார்
+### Actor Daniel Balaji has passed away
 
 *2024-03-30 08:07:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகர்-டேனியல்-பாலாஜி-காலமானார்/175-335359) · `ta`
 
-மாரடைப்பு காரணமாக கொட்டிவாக்கத்தில் உள்ள தனியார் வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் அவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார் என தெரிவிக்கப்படுகின்றது.
+Daniel Balaji, a renowned Tamil actor, passed away after a heart attack. He starred in films like Kaka Kaka, Vettiyadu Play, Bhairava, and Pollathavan, and also acted in Malayalam, Telugu, and Kannada films.
 
-48 வயதான டேனியல் பாலாஜி காக்க காக்க, வேட்டையாடு விளையாடு, பைரவா, பொல்லாதவன் உள்ளிட்ட பல தமிழ் திரைப்படங்களில் நடித்துள்ளார்.
+🟩
 
-தமிழ் மட்டுமல்லாது மலையாளம், தெலுங்கு, கன்னடம் ஆகிய மொழி திரைப்படங்களிலும் இவர் நடித்துள்ளார். (a)
+He has been admitted to a private hospital in Kotivakkam due to a heart attack.
+
+48 -year -old Daniel Balaji has acted in many Tamil films including Kaka Kaka, Vettiyadu Play, Bhairava and Pollathavan.
+
+He has also acted in Malayalam, Telugu and Kannada films not only in Tamil. (A)
 
 ◼️
 
 [Data](articles/767b560f.json)
 
+[Extended Data](ext_articles/767b560f.ext.json)
+
 ---
 
-### 25 ரயில் சேவைகள் இரத்து
+### වර්ථමානයේ බුදු දහමට විවිධාකාරයෙන් බලපෑම් එල්ල වෙනවා - අස්ගිරි පාර්ශවයේ මහානායක
+
+*2024-03-30 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195088) · `si`
+
+වර්ථමානය වනවිට බුදු දහමට විවිධාකාරයෙන් බලපෑම් එල්ල වෙමින් පවතින බව අස්ගිරි පාර්ශවයේ මහානායක අතිපූජ්‍ය වරකාගොඩ ශ්‍රී ඥානරතන හිමියෝ පවසති.
+
+උන්වහන්සේ පවසන්නේ මේ පිළිබඳ රජය දැනුවත් කිරීමත් සමඟ එවැනි පුද්ගලයින්ට එරෙහිව ක්‍රියාමාර්ග රැසක් ගෙන ඇති බවය.
+
+ඇතැම් භික්ෂුන් වහන්සේ විසින් සිදුකරන ක්‍රියා හේතුවෙන් බුදුදහම ඉක්මණින් විනාශ වීමේ අවදානමක් මතුව ඇති බවද උන්වහන්සේ වැඩිදුරටත් සඳහන් කළහ.
+
+◼️
+
+[Data](articles/214fb1b7.json)
+
+---
+
+### 25 Rail Services canceled
 
 *2024-03-30 07:52:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/25-ரயில்-சேவைகள்-இரத்து/175-335358) · `ta`
 
-கரையோர மார்க்கத்தில் இன்றைய தினம் 25 ரயில் சேவைகள் இரத்து செய்யப்படுவதாக ரயில்வே  திணைக்களத்தின் பிரதிப் பொது முகாமையாளர் என்.ஜே.இந்திபொல தெரிவித்துள்ளார்.
+25 rail services canceled due to development near Bambalapitiya station. Services from Colombo to Wellawatte will be held on a religion.
 
-பம்பலப்பிட்டி ரயில் நிலையத்திற்கு அருகில் மேற்கொள்ளப்பட்டு வரும் அபிவிருத்திப் பணிகள் காரணமாக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக அவர்  தெரிவித்துள்ளார்.
+🟩
 
-அதேநேரம் கொழும்பில் இருந்து வெள்ளவத்தை வரை ஒரு மார்க்கத்தில் மாத்திரம் தொடருந்து சேவை இடம்பெறுவதாகவும் தொடருந்து திணைக்களத்தின் பிரதிப் பொது முகாமையாளர் என்.ஜே.இந்திபொல தெரிவித்துள்ளார்.  (a)
+Deputy General Manager of the Railway Department
+
+He said that the move was due to the development work being carried out near the Bambalapitiya railway station.
+
+At the same time, the Deputy General Manager of the Department, NJ Indipola, said that the service will be held on a religion from Colombo to Wellawatte.(a)
 
 ◼️
 
 [Data](articles/b956a8e5.json)
+
+[Extended Data](ext_articles/b956a8e5.ext.json)
+
+---
+
+### ඉන්දිය බිත්තර ආනයනය සීමා කිරීමට පියවර
+
+*2024-03-30 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195087) · `si`
+
+උත්සව සමයේ කිසිදු හිඟයකින් තොරව කුකුළු මස් හා බිත්තර සැපයීමේ හැකියාව පවතින බව ශ්‍රී ලංකා සත්ත්ව නිෂ්පාදකයින්ගේ සංගමය පවසයි.
+
+එහි සභාපති අජිත් ගුණසේකර මහතා සඳහන් ක‍ළේ, ශීත කළ කුකුළු මස් රුපියල් 1,000 වැනි මුදලකට අලෙවි කිරීමේ හැකියාව පවතින බවය.
+
+මේ අතර ඉන්දියාවෙන් බිත්තර ආනයනය කිරීම සීමා කිරීමට පියවර ගෙන ඇති බව රාජ්‍ය වාණිජ විවිධ නීතිගත සංස්ථාව පවසයි.
+
+එහි සභාපති ආසිරි වලිසුන්දර මහතා සඳහන් කළේ, ආනයනය කළ බිත්තර මිලියන හතරකට ආසන්න ප්‍රමාණයක් උත්සව සමයේ වෙළෙඳපොළට නිකුත් කරන බවය.
+
+◼️
+
+[Data](articles/41868780.json)
 
 ---
 
@@ -2211,61 +2257,5 @@ But Israel said that he would refuse the accusations that prevent them from supp
 [Data](articles/b892c648.json)
 
 [Extended Data](ext_articles/b892c648.ext.json)
-
----
-
-### Bus accident in South Africa
-
-*2024-03-29 12:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179945) · `ta`
-
-A bus accident in Limbobo, South Africa, killed 45 people, including an 8-year-old girl who survived. The bus, carrying pilgrims from Botswana, lost control on a mountain pass, collapsing in a valley. Some bodies were trapped in the wreckage, and others were caught in a fire. South African President Cyril Ramaposa condoled the victims.
-
-🟩
-
-45 people were killed and one of the victims of a Chennai bus accident in the northern province of South Africa, Limbobo, said the Department of Transport on Thursday (28).
-
-A bus carrying a group of pilgrims from Botswana to Moria in Botswana in South Africa
-
-The bus lost control of the driver on the Mamatlagala mountain pass and collapsed in a nearby valley.
-
-45 people died on the spot. Fortunately, Limbobo's Transport and Social Security Department said that only an 8 -year -old girl survived and is being treated at a nearby hospital.
-
-Some bodies have been caught in a fire, and other bodies have been trapped in the wreckage and scattered on the spot.
-
-South African President Cyril Ramaposa has condoled the victims of a bus accident in Botswana.
-
-◼️
-
-[Data](articles/42d08d44.json)
-
-[Extended Data](ext_articles/42d08d44.ext.json)
-
----
-
-### Facts about the survival Sunday attack will only reveal when the system changes - Gamini Fernando
-
-*2024-03-29 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179961) · `ta`
-
-Gamini Fernando, a Catholic Church spokesman, claims that former President Gotabhaya Rajapaksa is obstructing the truth behind the Survival Sunday attack. He suggests reappointing the Shani Abhayasekera-led Commission and conducting an international investigation. Fernando also warns of a potential political crisis if deceitful politicians remain in power, emphasizing the need for a system change to reveal the truth.
-
-🟩
-
-Former President Gotabhaya Rajapaksa is the main obstacle to the discovery of matters behind the survival Sunday attack, said Catholic Church spokesman Aruttantha Cyril Gamini Fernando.
-
-He noted that Gotabhaya Rajapaksa's first action after the president after the death of a Sunday attack was an act of investigating the truth of the residents of the residents.
-
-Commenting on the former President Maithripala Sirisena's comment on what he knows is that the resurrection is the mastermind.
-
-He said that the Shani Abhayasekera -led Commission should be re -appointed and an international investigation should be held.
-
-If you do this, Maithripalasirisena can appear in its presence and tell the truth of who the sutra is.
-
-When you ask Gotabhaya Rajapaksa as the mastermind, the question is that the blessing is a clear thing.
-
-...
-
-[Data](articles/b367aeb7.json)
-
-[Extended Data](ext_articles/b367aeb7.ext.json)
 
 ---

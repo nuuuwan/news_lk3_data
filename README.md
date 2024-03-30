@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 19:03:17**
+As of **2024-03-30 19:18:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,593
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,070 (100.0%) of 16,071 articles have been extended.
+16,071 (100.0%) of 16,071 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ However, it was not immediately clear whether the cause of death was an allergic
 ◼️
 
 [Data](articles/6bb531f3.json)
+
+[Extended Data](ext_articles/6bb531f3.ext.json)
 
 ---
 

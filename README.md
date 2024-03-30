@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 13:18:14**
+As of **2024-03-30 13:03:20**
 
 ## Newspaper Stats
 
-*Scraped **16,040** Articles*
+*Scraped **16,035** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,93 +16,21 @@ dailyftlk | 863
 economynextcom | 882
 islandlk | 887
 adalk | 1,342
-tamilmirrorlk | 1,916
-adaderanalk | 1,931
+tamilmirrorlk | 1,914
+adaderanalk | 1,930
 virakesarilk | 2,283
 dailymirrorlk | 2,479
-adaderanasinhalalk | 2,582
+adaderanasinhalalk | 2,580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,034 (100.0%) of 16,040 articles have been extended.
+16,034 (100.0%) of 16,035 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
-
-### දුමින්ද, ලසන්ත සහ අමරවීර ඉවත් කරයි
-
-*2024-03-30 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195096) · `si`
-
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජාතික සංවිධායක ධූරයෙන් දුමින්ද දිසානායක මහතාව ඉවත් කර තිබේ.
-
-එසේම භාණ්ඩාගාරික ධුරයෙන් ලසන්ත අලගියවන්න සහ පක්ෂයේ ජ්‍යෙෂ්ඨ උප සභාපති ලෙස කටයුතු කළ මහින්ද අමරවීර යන මහත්වරුන්ව ඉවත් කර තිබේ.
-
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සියලු ආසන සංවිධායකවරුන් සහ විධායක කමිටු සාමාජිකයින් අද (30) පක්ෂ මූලස්ථානය වෙත කැඳවා තිබූ අතර එහි විධායක සභාව විසින් මෙම තීරණ ගෙන ඇති බව වාර්තා වෙයි.
-
-◼️
-
-[Data](articles/a1dcc6ff.json)
-
----
-
-### SLFP removes Amaraweera, Lasantha and Duminda from party positions
-
-*2024-03-30 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98304/slfp-removes-amaraweera-lasantha-and-duminda-from-party-positions) · `en`
-
-The Sri Lanka Freedom Party (SLFP) has removed Duminda Dissanayake from the party’s National Organiser post, Ada Derana reporter said.
-
-Meanwhile, the Executive Committee of the SLFP has also removed Lasantha Alagiyawanna as Treasurer and Mahinda Amaraweera as Senior Vice President of the party, a short while ago.
-
-◼️
-
-[Data](articles/978a7a26.json)
-
----
-
-### මහවැලි ගඟට පැන්න තරුණියක්ව බේරාගනී
-
-*2024-03-30 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195095) · `si`
-
-ගඟට පැන සියදිවි නසා ගැනීමට උත්සාහ දැරූ තරුණියකගේ දිවි බේරාගැනීමට තරුණයන් පිරිසක් සමත්වී තිබුණි.
-
-ඊයේ (29)  රාත්‍රි 7.00ට පමණ මහියංගනය - මහනුවර A26 මාර්ගයේ මහවැලි ගඟ හරහා ඇති වේරගංතොට පාලමෙන් එම තරුණිය ගඟට පැනීමට උත්සාහ කර තිබුණි
-
-පාලමේ කොන්ක්‍රීට් වැටඋඩ නැඟ ගඟට පැනීමට සූදානම් වන බව දැක ඇයව අල්ලා ගැනීමට ඒ අසල සිටි තරුණයන් පිරිසක් ඇය වෙත දිව එනවාත් සමගම එම තරුණිය එකවරම ගඟට පැන ඇත.
-
-පසුව තරුණයන් පිරිස ඇය ගඟෙන් ගොඩට ගෙන ප්‍රතිකාර සඳහා මහියංගණ මූලික රෝහලට ඇතුලත් කළේය.
-
-එම අවස්ථාවේ ඇය කඩිනමින් රෝහල්ගත කිරීම සඳහා මහියංගන පොලීසියට අයත් සුවසැරිය හා හසලක පොලීසියට අයත් සුවසැරිය ගෙන්වා ගැනීමට උත්සාහ දරා තිබුණ ද එම ගිලන් රථ පැමිණීමට විනාඩි 45කට වඩා කාලයක් ගතවන බව පවසා තිබේ.
-
-එබැවින් මාර්ගයේ ගමන් කරමින් තිබූ ත්‍රීරෝද රථයකින් ඇයව ප්‍රතිකාර සඳහා රෝහල වෙත රැගෙන ගොස් ඇත.
-
-තරුණිය ගඟට පැනීමට පලම අසලට පැමිණි පාපැදිය සහ ඇයගේ ජංගම දුරකථනය පාලම මත තිබි හමුවී තිබේ.
-
-ඒ අනුව පොලීසිය මැදිහත්වී එම දුරකථනයේ තිබු අංකවලට ඇමතුම් ලබාදී ඇයගේ දෙමව්පියන් මේ සම්බන්ධයෙන් දැනුම්වත් කර තිබුණි.
-
-...
-
-[Data](articles/9d186ace.json)
-
----
-
-### ஏப்ரல் 8 முழு சூரிய கிரகணம்; இலங்கையர்களுக்கு வாய்ப்பு கிடைக்குமா?
-
-*2024-03-30 12:36:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-8-முழு-சூரிய-கிரகணம்-இலங்கையர்களுக்கு-வாய்ப்பு-கிடைக்குமா/175-335365) · `ta`
-
-எதிர்வரும் ஏப்ரல் 8ஆம் திகதி முழு சூரிய கிரகணம் தோன்றும் என்றும், இந்த சூரிய கிரகணத்தை வட அமெரிக்காவில் மட்டுமே அவதானிக்க முடியும் எனவும் நாசா குறிப்பிட்டுள்ளது.
-
-சூரியனுக்கும் பூமிக்கும் இடையில் சந்திரன் கடந்து செல்லும் போது முழு சூரிய கிரகணம் ஏற்படுகிறது.
-
-இந்த நிலையில் இது போன்ற அரிதான முழு சூரிய கிரகணத்தை அவதானிக்கும் வாய்ப்பு வட அமெரிக்கர்களுக்கு கிடைத்துள்ளதாக நாசா தெரிவித்துள்ளது. R
-
-◼️
-
-[Data](articles/0b36d0fc.json)
-
----
 
 ### “Location Kudu Malli” arrested
 
@@ -1154,7 +1082,7 @@ Known for its strategic partnerships and prompt undertakings, Dialog Enterprise,
 
 *2024-03-30 03:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83821) · `en`
 
-(This article was first written in 1997 for a special volume commemorating the birth centenary of Tamil political leader SJV Chelvanayakam. It is being reposted with slight changes to denote his 126th  birth anniversary on March 31)
+(This article was first written in 1997 for a special volume commemorating the birth centenary of Tamil political leader SJV Chelvanayakam. It is being reposted with slight changes to denote his 125th birth anniversary on March 31)
 
 On September 6th 1977, Lalith Athulathmudali, then Minister of Trade said in Parliament “Samuel James Velupillai Chelvanayakam was born in Ipoh…. ..Ipoh is known as the cleanest City in Malaysia. Perhaps it was in the fitness of things that Mr. Chelvanayakam’s life was marked by a cleanliness unknown in contemporary politics.” Athulathmudali was speaking on the vote of condolence for SJV Chelvanayakam then.
 
@@ -2201,5 +2129,97 @@ Anuradhapura police and the prison officials have initiated investigations to tr
 [Data](articles/8f6ced37.json)
 
 [Extended Data](ext_articles/8f6ced37.ext.json)
+
+---
+
+### Gnanasara Thera to be arrested
+
+*2024-03-29 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195078) · `si`
+
+Ven. Galagodaatte Gnanasara Thera, referred to Prison Hospital for illness, appealed by Colombo High Court. Sadhetissa Thera: "We accept by law, but society's response is unknown."
+
+🟩
+
+Ven. Galagodaatte Gnanasara Thera has admitted to the Prison Hospital due to illness.
+
+Ravana Balaya Organization, General Secretary of the Ravana Balaya, Ven.
+
+Sadhetissa Thera said that Gnanasara Thera had been sick and he was referred to the Prison Hospital for treatment.
+
+Meanwhile, Sadhetissa Thera said that the Colombo High Court appealed to Ven. Galagodaatte Gnanasara Thera.
+
+"He is really not wrong for us. But we don't know how society is. Because we respect the law, we accept anything by law. "
+
+◼️
+
+[Data](articles/160bb8b0.json)
+
+[Extended Data](ext_articles/160bb8b0.ext.json)
+
+---
+
+### Tourist passenger recovery
+
+*2024-03-29 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/179975) · `ta`
+
+An Indian tourist from Maharashtra, Mumbai, fell into a ditch near Ehela Kanuwa on Friday and was rescued by the Maskeliya Police Special Task Force.
+
+🟩
+
+An Indian tourist who fell into a ditch from Ehela Kanuwa on Friday (29) from Ehela Kanuwa has been rescued by the Maskeliya Police Special Task Force.
+
+A 25 -year -old tourist who was traveling from Maharashtra State Mumbai in India was climbing the Shivanoli road from the Ratnapura area at 5.00 am today.
+
+In this case, the Udamaluwa Police Station has received a first aid treatment for a special task force who rushed to the scene and rescued the tourist.
+
+Maskeliya Police Special Task Force Police Officer 76216 Padmasiri, Police Officer 99695 Pradeesh and Police Officer 102687 Ajith have been rescued.
+
+◼️
+
+[Data](articles/b39cfe0a.json)
+
+[Extended Data](ext_articles/b39cfe0a.ext.json)
+
+---
+
+### For Ramadan Festival...
+
+*2024-03-29 16:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/For-Ramadan-Festival/110-279834) · `en`
+
+During this Ramadan festival, along with experiencing the vibrant culture and traditional crafts of Pakistan, the trade fair ’’Ramadan Festival’’ will be held at the Excitation Ground at Baladaksha Mawatha, Colombo, where textiles, home appliances and food items will be available. It will be held from noon to midnight till March 31. Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/940845d7.json)
+
+[Extended Data](ext_articles/940845d7.ext.json)
+
+---
+
+### Solution based on 13th Amendment to Ethnic Problem - Allocation for Free Education - Land Rights of Upcountry People
+
+*2024-03-29 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179977) · `ta`
+
+Professor Arjuna Parakrama discusses the need for a permanent solution to Sri Lanka's ethnic problem, focusing on the 13th Amendment and land rights. He emphasizes the importance of implementing pure politics, abolishing illegal laws, eradicating corruption, and providing relief to economically hard-hit people.
+
+🟩
+
+Professor Arjuna Parakrama presented a number of conditions in Colombo, including the March 12 Movement in Colombo, including that the politicians who are contesting the elections in Sri Lanka should seek a full permanent solution to the national ethnic problem, especially the 13th Amendment - the security forces in the North and East should hand over the lands of civilians in the North East.
+
+He said this while addressing the March 12 movement in Colombo to unite for the pure politics of March 12 to establish a clean political culture.
+
+The question in front of us is whether the house should be made up of superficial corrections or the house to be completely changed.
+
+When we elect people's representatives, they must be able to implement the pure politics.
+
+The 13th Amendment should be implemented in a way that needs a full permanent solution to the national ethnic problem.
+
+To give the nasty to the missing relationships, to honestly explain what happened to the missing.
+
+...
+
+[Data](articles/09d6f8b2.json)
+
+[Extended Data](ext_articles/09d6f8b2.ext.json)
 
 ---

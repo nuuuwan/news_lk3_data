@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 11:33:47**
+As of **2024-03-30 11:52:24**
 
 ## Newspaper Stats
 
@@ -26,45 +26,57 @@ adaderanasinhalalk | 2,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,025 (100.0%) of 16,029 articles have been extended.
+16,029 (100.0%) of 16,029 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### ரணிலுக்கு ஆதரவளிக்க கருணா தீர்மானம்
+### Karuna resolution to support Ranil
 
 *2024-03-30 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180009) · `ta`
 
-பொருளாதார நிலையை ஜனாதிபதி மாற்றியமைத்துள்ளார் இலங்கை நாணயம் பலமடைகின்றது என கருணா தெரிவித்துள்ளார்.
+Karuna supports Ranil, citing the President's economic changes as a sign of Sri Lanka's economic recovery.
 
-இலங்கையின் பொருளாதாரம் மீண்டும் வளர்ச்சிப்பாதைக்கு திரும்புகின்றது என்பதற்கான அறிகுறி இது என கருணா டெய்லிமிரருக்கு தெரிவித்துள்ளார்.தனது கட்சியின் மத்தியகுழு ஜனாதிபதி தேர்தலில் ரணில்விக்கிரமசிங்க போட்டியிட்டால் அவருக்கு ஆதரவளிக்க தீர்மானித்துள்ளது எனவும் அவர் குறிப்பிட்டுள்ளார்.
+🟩
+
+The President has changed the economic status of Sri Lanka, Karuna said.
+
+Karuna has told DailyMirr that this is a sign that Sri Lanka's economy is returning to the road.
 
 ◼️
 
 [Data](articles/b38f1d1e.json)
 
+[Extended Data](ext_articles/b38f1d1e.ext.json)
+
 ---
 
-### බහින්බස්වීමක් දුරදිග ගොස් ජීවිතයක් අහිමි වෙයි
+### An argument is far-reaching life
 
 *2024-03-30 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195094) · `si`
 
-අග්බෝපුර 84 ප්‍රදේශයේදී ඊයේ (29) රාත්‍රියේ පොරොවකින් පහර දී කන්තාවක් ඝාතනය කර තිබේ.
+In Agbowerway, a 44-year-old woman was assaulted in a heated argument. Her neighbor, a woman and her husband, intervened, leading to the woman's husband being arrested for murder. The victims were taken to Kantale hospital.
 
-මෙලෙස ඝාතනයට ලක්වී ඇත්තේ එම ප්‍රදේශයේ ම පදිංචිව සිටි 44 හැවිරිදි විවාහක කාන්තාවකි.
+🟩
 
-ඊයේ රාත්‍රියේ සිය නිවසට යාබද නිවසක සිටින තවත් පුද්ගයෙකු බීමතින් පැමිණ මෙම කාන්තාවට සහ ඇයගේ සැමියාට පරුෂ වචනයෙන් බැණවැදී ඇති අතර එය නවත්වන ලෙස පැවසීමට ඇය සිය සැමියා සහ තවත් ඥාති සහෝදරයෙකු සමග අදාළ පුද්ගලයාගේ නිවස අසලට ගොස් තිබේ.
+At the year 84, the Agbowerway was assaulted at the 84th area yesterday (29).
 
-එහිදී ඇතිවු බහින්බස්වීමක් දුරදිග යාමෙන් පසු බීමතින් සිටි පුද්ගලයා මෙම කාන්තාවට සහ ඇයගේ සැමියාට පොරොවකින් පහරදී ඇත.
+The victim was a 44 year old married woman in the area.
 
-තුවාලකරුවන් කන්තලේ රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව කාන්තාව මියගොස් ඇති බව පොලීසිය පවසයි.
+Another victim in a house adjoining her home last night, a woman and her husband had scolded the woman and her husband and another cousin to stop it.
 
-ඇයගේ සැමියා තවමත් රෝහලේ ප්‍රතිකාර ලබමින් සිටින අතර ඝාතනය සම්බන්ධයෙන් සැකකරුවෙකු අත්අඩංගුවට ගෙන ඇත.
+After a heated argument was far-reaching, the drunken person has been attacked the woman and her husband.
+
+The injured were rushed to the Kantale hospital after being rushed to the police.
+
+Her husband is still receiving treatment at the hospital and has been arrested in connection with the murder.
 
 ◼️
 
 [Data](articles/6b99bc94.json)
+
+[Extended Data](ext_articles/6b99bc94.ext.json)
 
 ---
 
@@ -86,6 +98,8 @@ In an official statement, the Indian Navy said, “We remain committed to ensuri
 
 [Data](articles/dd63c00a.json)
 
+[Extended Data](ext_articles/dd63c00a.ext.json)
+
 ---
 
 ### Immigration nabs Indians violating work visa conditions in N’eliya restaurants
@@ -103,6 +117,8 @@ The officer said that usually these kinds of work permits are not given to the i
 ...
 
 [Data](articles/08864773.json)
+
+[Extended Data](ext_articles/08864773.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 05:18:08**
+As of **2024-03-30 05:37:18**
 
 ## Newspaper Stats
 
-*Scraped **15,981** Articles*
+*Scraped **15,989** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 197
 newsfirstlk | 363
 dailyftlk | 862
 economynextcom | 879
-islandlk | 879
+islandlk | 887
 adalk | 1,342
 tamilmirrorlk | 1,909
 adaderanalk | 1,922
@@ -26,11 +26,107 @@ adaderanasinhalalk | 2,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,981 (100.0%) of 15,981 articles have been extended.
+15,981 (99.9%) of 15,989 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### Shaping Tomorrow, panel discussion emphasises need for strong female influence
+
+*2024-03-30 05:03:00* · [`islandlk`](http://island.lk/shaping-tomorrow-panel-discussion-emphasises-need-for-strong-female-influence/) · `en`
+
+A diverse and esteemed panel came together to delve into a crucial conversation surrounding the significance of impactful female figures in shaping the aspirations and dreams of future generations. The panel discussion served as a platform highlighting the critical need for recognising and celebrating the remarkable achievements of prominent female personalities in the public sphere of Sri Lanka.
+
+...
+
+[Data](articles/730f4526.json)
+
+---
+
+### A Sri Lankan-Australian joint venture celebrates a decade of excellence in -Hospitality Education
+
+*2024-03-30 04:41:00* · [`islandlk`](http://island.lk/a-sri-lankan-australian-joint-venture-celebrates-a-decade-of-excellence-in-hospitality-education/) · `en`
+
+William Angliss Institute, Australia in partnership with the Colombo Academy of Hospitality Management (CAHM) is proud to celebrate a decade of excellence in tourism, hospitality and culinary education. As the largest private hospitality management institute in Sri Lanka, the Colombo Academy of Hospitality Management (CAHM)hosted at the Malabe campus of Sri Lanka Institute of Information Technology (SLIIT) has not only raised the bar for hospitality education but also serves as a testament to the enduring collaboration between Australia and Sri Lanka.
+
+...
+
+[Data](articles/393f57d0.json)
+
+---
+
+### John Keells Properties launches Phase 2 of its latest real estate development, ‘Viman’ Ja-Ela
+
+*2024-03-30 04:41:00* · [`islandlk`](http://island.lk/john-keells-properties-launches-phase-2-of-its-latest-real-estate-development-viman-ja-ela/) · `en`
+
+John Keells Properties proudly announces the launch of Phase 2 of ‘Viman’ Ja-Ela. 90% of Phase 1 of this highly sought after project has been successfully sold to date. Comprising two blocks, the new Phase will feature 2 & 3 bedroomed apartments. Phase 2 provides a limited time opportunity for prospective homeowners as Phase 1 was almost sold out in less than six months since its launch on 19th September 2023. Prospective buyers interested in owning an apartment at Viman can now visit the model apartment in Colombo and have all their queries answered by a professional team.
+
+...
+
+[Data](articles/efe05772.json)
+
+---
+
+### Union Bank hosts engaging customer events celebrating International Women’s Day
+
+*2024-03-30 03:38:00* · [`islandlk`](http://island.lk/union-bank-hosts-engaging-customer-events-celebrating-international-womens-day/) · `en`
+
+In a series of events to mark the International Women’s Day, Union Bank hosted several networking events for the Bank’s customers including inspiring sessions on business success as well as wellness.
+
+A captivating discussion with Ms. Sandra Wanduragala, Founder Seyln Textiles, provided invaluable knowledge on navigating the path to business success and empowering women entrepreneurs to reach greater heights. Union Bank branches in Zone 3, welcomed women entrepreneurs to an engaging event in Matara with Ms. Deshani Gamage, Founder and Managing Director, of Apex Business Academy to an inspiring session on women in business.
+
+...
+
+[Data](articles/3dfa3d71.json)
+
+---
+
+### ‘BIG BOLD BRAVE 2024’ – HARVARD Asia Pacific Regional Conference in Sri Lanka
+
+*2024-03-30 03:36:00* · [`islandlk`](http://island.lk/big-bold-brave-2024-harvard-asia-pacific-regional-conference-in-sri-lanka/) · `en`
+
+The Harvard Club of Sri Lanka proudly announces, ‘BIG BOLD BRAVE 2024,’ a ground-breaking thought leadership conference set to take place from April 3rd to 5th, 2024, at the Galle Face Hotel in Colombo, Sri Lanka. is a collaboration of 15+ Harvard Clubs in the Asia Pacific region, the official Alumni Organisations of the prestigious Harvard University.
+
+Under the far-reaching theme of ‘Big Opportunities | Bold Moves | Brave People,’ the conference will explore critical areas that shape the region’s future, with topics areas including education, human capital development and jobs of the future, technology, digital economy and entrepreneurship, modernizing agriculture and food security, energy infrastructure development, and environmental sustainability and climate change adaptation.
+
+...
+
+[Data](articles/9cb94c42.json)
+
+---
+
+### DFCC Bank spotlights sustainability at 34th anniversary of the Association of Professional Bankers
+
+*2024-03-30 03:36:00* · [`islandlk`](http://island.lk/dfcc-bank-spotlights-sustainability-at-34th-anniversary-of-the-association-of-professional-bankers/) · `en`
+
+The 34th Anniversary Convention of the Association of Professional Bankers was recently held at the Hilton Colombo under the theme “Forward Gear—Road to Economic Sustainability.” Dr P. Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, was the Guest of Honour at the occasion.
+
+DFCC Bank also played a key role at the event, with CEO Thimal Perera in attendance, along with the top brass of other banks. Mr. Anton Arumugam, Senior Vice President of Offshore Banking, Remittances, and Business Development was a key organiser as Vice President of the Association of Professional Bankers. Meanwhile, the technical session on “Green Financing—The Road Ahead for Sri Lankan Banks” was moderated by Nalin Karunatileka, Vice President of Sustainability and Consulting at DFCC Bank.
+
+John Keells Properties launches Phase 2 of its latest real estate development, ‘Viman’ Ja-Ela
+
+Union Bank hosts engaging customer events celebrating International Women’s Day
+
+...
+
+[Data](articles/a6666c27.json)
+
+---
+
+### Dialog Enterprise launches stronger customer cloud propositions with VMware by Broadcom
+
+*2024-03-30 03:34:00* · [`islandlk`](http://island.lk/dialog-enterprise-launches-stronger-customer-cloud-propositions-with-vmware-by-broadcom/) · `en`
+
+In light of the recent conclusion of Broadcom’s acquisition of VMware in the cloud computing and virtualization arena, Dialog Enterprise reaffirms its steadfast commitment to delivering exceptional services to its clientele. Through its prestigious invite-only partnership with Broadcom, Dialog Enterprise will continue to serve its customer base unfailingly as a reliable service provider in the region.
+
+Known for its strategic partnerships and prompt undertakings, Dialog Enterprise, the corporate ICT solutions arm of Dialog Axiata PLC., remains dedicated to empowering local enterprises with cutting-edge solutions. As such, the partnership with Broadcom promises to unlock new avenues for innovation and growth while assuring existing VMware customers and partners that their subscriptions and partnerships will remain unaffected.
+
+...
+
+[Data](articles/4fad1a63.json)
+
+---
 
 ### Thunder Lightning Love - Review
 
@@ -2155,155 +2251,5 @@ Due to this, the Deputy General Manager said that railway traffic from Colombo t
 [Data](articles/689db6d8.json)
 
 [Extended Data](ext_articles/689db6d8.ext.json)
-
----
-
-### Two students are admitted to the hospital
-
-*2024-03-29 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/179955) · `ta`
-
-Two students injured by falling bamboo trees were hit by the mother of the Annual Home Sports Competition organizer at Deniyaya Divisional School. They were admitted to Deniyaya Primary Hospital, with one being transferred to Matara Hospital.
-
-🟩
-
-Two students who have been cut off bamboo trees have been hit by the mother of the mother of the Annual Home Sports Competition at a Deniyaya Divisional School.
-
-The game was due to take place on Thursday (28) yesterday (28th).
-
-In addition, electricity has been hit by the burning of the miraculous power lines that were mounted on a massive dielectric near the bamboo trees.
-
-Students who have been affected by the electrical impact have been admitted to the Deniyaya Primary Hospital and one of them will be transferred to the Matara Hospital.
-
-◼️
-
-[Data](articles/08297ae9.json)
-
-[Extended Data](ext_articles/08297ae9.ext.json)
-
----
-
-### Sri Lanka needs to cultivate entrepreneurial spirit in schools: Minister
-
-*2024-03-29 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-to-cultivate-entreprenurial-spirit-in-schools-minister-156538/) · `en`
-
-ECONOMYNEXT – Fostering an entrepreneurial environment within schools will nurture individuals to become successful entrepreneurs, Small and Medium Enterprises Development State Minister has said.
-
-“Cultivating an entrepreneurial atmosphere within schools greatly aids in fostering future entrepreneurs,” Prasanna Ranaweera said. “This initiative is pivotal in laying the foundation for a robust manufacturing economy within the country.”
-
-Ranaweera said that the Sri Lanka Institute of Textile and Apparel had recently awarded diploma course certificates to nearly 500 students.
-
-“Furthermore, in collaboration with the Industrial Development Board (IDB), we have successfully established school entrepreneurial circles and assessed the students’ potential.” (Colombo/Mar29/2024)
-
-◼️
-
-[Data](articles/9644ede4.json)
-
-[Extended Data](ext_articles/9644ede4.ext.json)
-
----
-
-### Sri Lanka needs to cultivate entrepreneurial spirit in schools: Minister
-
-*2024-03-29 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-to-cultivate-entrepreneurial-spirit-in-schools-minister-156538/) · `en`
-
-ECONOMYNEXT – Fostering an entrepreneurial environment within schools will nurture individuals to become successful entrepreneurs, Small and Medium Enterprises Development State Minister has said.
-
-“Cultivating an entrepreneurial atmosphere within schools greatly aids in fostering future entrepreneurs,” Prasanna Ranaweera said. “This initiative is pivotal in laying the foundation for a robust manufacturing economy within the country.”
-
-Ranaweera said that the Sri Lanka Institute of Textile and Apparel had recently awarded diploma course certificates to nearly 500 students.
-
-“Furthermore, in collaboration with the Industrial Development Board (IDB), we have successfully established school entrepreneurial circles and assessed the students’ potential.” (Colombo/Mar29/2024)
-
-◼️
-
-[Data](articles/fde0a080.json)
-
-[Extended Data](ext_articles/fde0a080.ext.json)
-
----
-
-### Mahabage's shotgun that has led to Hellma
-
-*2024-03-29 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195065) · `si`
-
-In Mahabage, a man fought off a gunman on a motorbike, leading to a chase and the suspect's escape. Police are using CCTV to identify the shooter, who fled after the incident.
-
-🟩
-
-Police Media Spokesperson DIG Thameda says that investigations are being conducted to identify the suspects to shoot at a house in Mahabage, Mahabage, Mahabage, Maturagala.
-
-A man was struggled with a gunman from a motorbike with the gunman and the bridge of the firearm had fallen to the ground and the gunman's head cover was raped.
-
-The upset shooter said that the shooter had fled the center from the area.
-
-Attorney official said, Attorney-Nihal Talduwa said that the suspects would be identified using CCTV scenes in the area.
-
-The police also guess that the person who struggled with the gunman has been peacemakers and shotters have come to find another person.
-
-◼️
-
-[Data](articles/3fe5c4d4.json)
-
-[Extended Data](ext_articles/3fe5c4d4.ext.json)
-
----
-
-### Special Commodity Levy Act to be suspended from Jan. 2025
-
-*2024-03-29 11:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98282/special-commodity-levy-act-to-be-suspended-from-jan-2025) · `en`
-
-The Cabinet of Ministers has accepted the proposal to suspend the Special Commodity Levy Act from 01 January 2025, says Finance State Minister Ranjith Siyambalapitiya.
-
-Speaking to the media in Ruwanwella on Friday morning (29), the lawmaker said the government intends to introduce new legislation aimed at safeguarding both consumers and local manufacturers.
-
-At its meeting held on Monday (25), the Cabinet of Ministers gave the nod to instruct the Legal Draftsman to prepare a Draft Bill to suspend the Special Commodity Levy Act, No. 48 of 2007 as the government has identified the need to suspend the legislation due to the various challenges encountered during its implementation.
-
-Under the Special Commodity Levy Act, a tax is imposed on a total of 64 commodities categorized under 210 HS Codes to facilitate the importation of these goods.
-
-◼️
-
-[Data](articles/4427023c.json)
-
-[Extended Data](ext_articles/4427023c.ext.json)
-
----
-
-### 10 others belonging to crime gangs arrested
-
-*2024-03-29 11:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195064) · `si`
-
-Police arrested 10 members of organized crime and seized five suspected supporters.
-
-🟩
-
-Ten other members of organized crime were arrested, police said.
-
-Police have also seized five persons who were suspected to support the crime with them.
-
-An 186 suspects and several suspects have been arrested in operations from the 19th.
-
-◼️
-
-[Data](articles/0ccc54bf.json)
-
-[Extended Data](ext_articles/0ccc54bf.ext.json)
-
----
-
-### Trains on Coastal Line facing delays until March 31
-
-*2024-03-29 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98281/trains-on-coastal-line-facing-delays-until-march-31) · `en`
-
-The railway operations on the Coastal Line are experiencing delays on Friday (29), Saturday (30) and Sunday (31), the Department of Railways said.
-
-The department attributed the delays to the railway operations being limited to a single track between Wellawatte and Colombo Fort railway stations due to a pipeline maintenance activity carried out by the Urban Development Authority (UDA).
-
-However, the train operations on the Coastal Line will be restored after Sunday night (31), according to the Department of Railways.
-
-◼️
-
-[Data](articles/1dfe17c9.json)
-
-[Extended Data](ext_articles/1dfe17c9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 23:33:40**
+As of **2024-03-30 23:52:34**
 
 ## Newspaper Stats
 
-*Scraped **16,083** Articles*
+*Scraped **16,085** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 170
 dbsjeyarajcom | 199
 newsfirstlk | 363
 dailyftlk | 864
-economynextcom | 882
+economynextcom | 884
 islandlk | 887
 adalk | 1,345
 tamilmirrorlk | 1,922
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,083 (100.0%) of 16,083 articles have been extended.
+16,083 (100.0%) of 16,085 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -157,6 +157,24 @@ Sri Lanka has introduced a crop damaged rebarded bulb in a successful solution.
 [Data](articles/64503536.json)
 
 [Extended Data](ext_articles/64503536.ext.json)
+
+---
+
+### Sri Lanka port development taken new turn with China help: Prime Minister
+
+*2024-03-30 20:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-development-taken-new-turn-with-china-help-prime-minister-156619/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s port development has taken a new turn of an advanced port development with the assistance of China, Prime Minister Dinesh Gunawardena has said.
+
+“Sri Lanka’s port development has taken a new turn of an advanced port development with the assistance of China, which we appreciate,” Gunawardena said addressing the BOAO Forum for Asia Annual Conference 2024 in Hainan in China.
+
+“Sri Lankan, Colombo port will become a hub, a new developed port with financial instruments that could cater to the new demands that are growing among ourselves, among our countries, for development and investment, which is essential,” Gunawardena was quoted as saying at the forum in a statement by the Prime Minister’s Media division.
+
+Explaining Sri Lanka’s expansion of Colombo Port, and Hambantota Port, as well as Colombo Port City, the new Colombo Financial Center, he said it could be a major financial hub ensuring rapid progress of not only Sri Lanka but also other countries in the region.
+
+...
+
+[Data](articles/196c1f7c.json)
 
 ---
 
@@ -341,6 +359,24 @@ Similarly, Mahinda Amaraweera has been removed from the post of Senior Vice Pres
 [Data](articles/90ee4ab9.json)
 
 [Extended Data](ext_articles/90ee4ab9.ext.json)
+
+---
+
+### Sri Lanka and India discuss implementation of connectivity projects
+
+*2024-03-30 17:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-and-india-discuss-implementation-of-connectivity-projects-156616/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe’s Chief of Staff Sagala Ratnyaka, and Indian Foreign Indian Foreign Secretary Vinay Kwatra had dscussed discussed timely implementation of projects, during a visit to New Delhi, a statement said.
+
+Kwatra “emphasized that the current juncture presents an opportune moment for both countries to advance agreed-upon projects, attributing this progress to the strategic vision of President Ranil Wickremesinghe,” the statement said.
+
+Ratnayake had underscored “importance of enhancing economic integration with India through improved connectivity, reflecting on the historical ties that bind the two nations as the closest neighbour.”
+
+“During the discussions, both sides conducted a comprehensive review of all bilateral projects, focusing on their timely implementation,” the statement said.
+
+...
+
+[Data](articles/cf3eef42.json)
 
 ---
 
@@ -2219,51 +2255,5 @@ The young man told four stories.. Choose one of these. All the four stories are 
 [Data](articles/b7097473.json)
 
 [Extended Data](ext_articles/b7097473.ext.json)
-
----
-
-### Super Star Rajinikanth's 'Chairman 171'
-
-*2024-03-30 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/179992) · `ta`
-
-"Super Star Rajinikanth's 'Chairman 171' is directed by Lokesh Kanakaraj, produced by Dr. Maran, and features music by Anirudh. The film's video and title will be released on April 22, coinciding with the end of voting registration in Tamil Nadu for the Indian Lok Sabha elections on April 19."
-
-🟩
-
-Super Star Rajinikanth's upcoming film 'Chairman 171' has officially released the production company that produces update.
-
-Super Star Rajinikanth plays the hero of the story of the director and director Lokesh Kanakaraj directed by Lokesh Kanakaraj. Anirudh composes the film. Producer Dr. Maran produces on behalf of Sun Pictures Company. New information about the film has been released. It has been officially announced that the video for the film and the title of the film will be released on April 22.
-
-The first phase of the Indian Lok Sabha elections takes place on April 19. After the voting registration in Tamil Nadu is over.
-
-◼️
-
-[Data](articles/5231ce1b.json)
-
-[Extended Data](ext_articles/5231ce1b.ext.json)
-
----
-
-### The silence of the toughness, the silence of the set;Reply to Bangladesh Media
-
-*2024-03-30 01:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/179991) · `ta`
-
-Sri Lanka's Tanjaya de Silva said if Bangladesh maintains peace, Sri Lanka will too. Dhananjaya D Silva criticized questions about Shakib al-Hasan. He praised the Sri Lankan fast bowlers and the pitch's suitability for spin. Sri Lanka won the first Test by 328 runs, aiming to win the series. The pitch in Chatogram favors spin, prompting a change in the Sri Lankan team. The final squad includes Nishan Madushka, Timuth Karunaratne, and others, with Shakib Al Hasan in Bangladesh's lineup.
-
-🟩
-
-If they (Bangladesh) adhere to the toughness we will deal with the hardship. Sri Lankan team captain Tanjaya de Silva told the media that if they maintain peace, we too will maintain peace.
-
-Responding to a question raised by a Bangladeshi journalist at a media briefing held on Friday ahead of the 2nd and last Test match between Sri Lanka and Bangladesh, which begins on Saturday in Chatochram, Tanjaya de Silva said this.
-
-Shakib al -Hasan has any plan for the Bangladesh team again?What do you think about him?When Dhananjaya D Silva was asked, 'I can't tell you about the projects now. And I don't need to talk about him because he is not in my team. The Bangladesh team should be bad about him. It is not the appropriate question for me. You are wrongly asking me. '
-
-Asked what he thinks about the Fernando group, which Kasun was in a state of affairs.
-
-...
-
-[Data](articles/78ca8077.json)
-
-[Extended Data](ext_articles/78ca8077.ext.json)
 
 ---

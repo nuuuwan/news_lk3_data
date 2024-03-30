@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 13:03:20**
+As of **2024-03-30 13:33:52**
 
 ## Newspaper Stats
 
-*Scraped **16,035** Articles*
+*Scraped **16,040** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,113 @@ dailyftlk | 863
 economynextcom | 882
 islandlk | 887
 adalk | 1,342
-tamilmirrorlk | 1,914
-adaderanalk | 1,930
+tamilmirrorlk | 1,916
+adaderanalk | 1,931
 virakesarilk | 2,283
 dailymirrorlk | 2,479
-adaderanasinhalalk | 2,580
+adaderanasinhalalk | 2,582
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,034 (100.0%) of 16,035 articles have been extended.
+16,040 (100.0%) of 16,040 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### Duminda, remove Lasantha and Ammenia
+
+*2024-03-30 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195096) · `si`
+
+Duminda Dissanayake removed from SLFP's National Organizer and Treasurer posts. Lasantha Alagiyawanna and Senior Vice President also removed. All SLFP organizers and executive committee members called to party headquarters.
+
+🟩
+
+Duminda Dissanayake has been removed from the post of National Organizer of the SLFP.
+
+He was also removed as Treasurer, Lasantha Alagiyawanna and the Senior Vice President of the party.
+
+All the Sri Lanka Freedom Party (SLFP) organizers and executive committee members have been called to the party headquarters today (30).
+
+◼️
+
+[Data](articles/a1dcc6ff.json)
+
+[Extended Data](ext_articles/a1dcc6ff.ext.json)
+
+---
+
+### SLFP removes Amaraweera, Lasantha and Duminda from party positions
+
+*2024-03-30 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98304/slfp-removes-amaraweera-lasantha-and-duminda-from-party-positions) · `en`
+
+The Sri Lanka Freedom Party (SLFP) has removed Duminda Dissanayake from the party’s National Organiser post, Ada Derana reporter said.
+
+Meanwhile, the Executive Committee of the SLFP has also removed Lasantha Alagiyawanna as Treasurer and Mahinda Amaraweera as Senior Vice President of the party, a short while ago.
+
+◼️
+
+[Data](articles/978a7a26.json)
+
+[Extended Data](ext_articles/978a7a26.ext.json)
+
+---
+
+### Save a young girl to raise Mahaweli River
+
+*2024-03-30 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195095) · `si`
+
+Youths save girl from suicide attempt near Mahaweli River. Girl jumped from Kandyangentota Bridge. Found unconscious, taken to Mahiyangana Base Hospital. Parents notified. Girl has mental illness.
+
+🟩
+
+A group of youths were able to save a girl who attempted to commit suicide by jumping into the river.
+
+The girl had attempted to escape the river by the Kandyangentota Bridge along the Mahaweli River around 7.00 pm yesterday (29) at Mahaweli River.
+
+When a group of young people who were nearing the ruling and the bridge was ready to catch her, the girl had jumped at once.
+
+The youths were later brought back from the river and was admitted to the Mahiyangana Base Hospital for treatment.
+
+At that time she had tried to get the welfare of the Mahiyangana Police and the Hasalaka Police belonging to the Mahiyangana Police and the Hasalaka Police belonging to the Mahiyangana Police and the Hasalaka Police.
+
+Therefore, a three-wheeler on the road was taken to the hospital for treatment.
+
+The sinful and her cell phone was found on the bridge.
+
+Accordingly, the police intervened and made calls on the number on the telephone and had informed her parents in this regard.
+
+...
+
+[Data](articles/9d186ace.json)
+
+[Extended Data](ext_articles/9d186ace.ext.json)
+
+---
+
+### April 8th full solar eclipse;Will Sri Lankans get a chance?
+
+*2024-03-30 12:36:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-8-முழு-சூரிய-கிரகணம்-இலங்கையர்களுக்கு-வாய்ப்பு-கிடைக்குமா/175-335365) · `ta`
+
+April 8th's full solar eclipse will be visible in North America, not Sri Lanka.
+
+🟩
+
+NASA noted that the entire solar eclipse will appear on April 8, and that the solar eclipse can only be observed in North America.
+
+The entire solar eclipse occurs when the moon passes between the sun and the earth.
+
+NASA has said that North Americans have the opportunity to observe such a rare solar eclipse. Remble
+
+◼️
+
+[Data](articles/0b36d0fc.json)
+
+[Extended Data](ext_articles/0b36d0fc.ext.json)
+
+---
 
 ### “Location Kudu Malli” arrested
 
@@ -1078,17 +1170,37 @@ Known for its strategic partnerships and prompt undertakings, Dialog Enterprise,
 
 ---
 
+### How FSP Leader Kumar Gunaratnam Fought the Indian Army in 1989 as the Trincomalee  JVP Commander “Gemunu”
+
+*2024-03-30 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83808) · `en`
+
+The Janatha Vimukthi Peramuna (Peoples  Liberation Front) led Jathika Jana Balawegaya ( National People’s Power is a left-leaning, working class-oriented broad front consisting of the JVP and 27 other organisations. These entities comprise small parties, trade unions, rights groups, Women,  student and youth organisations.
+
+The JVP is the pivotal, pre-eminent force in the NPP. The JVP as well as the NPP are led by Anura Kumara Dissanayake MP. A.K. Dissanayake is perceived as a front runner in the forthcoming Presidential race.
+
+AK Dissanayake contested the 2019 Presidential elections and finished a poor third with 418,553 votes (3.16%). At the 2020 Parliamentary polls, the JVP-led NPP contesting under the compass symbol got only three MPs comprising two elected and one appointed from the national list .
+
+...
+
+[Data](articles/93836f95.json)
+
+[Extended Data](ext_articles/93836f95.ext.json)
+
+---
+
 ### S.J.V.Chelvanayakam: Respected “Gandhian”Tamil Political  Leader  was a Christian by religion and a Hindu by culture.
 
 *2024-03-30 03:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83821) · `en`
 
-(This article was first written in 1997 for a special volume commemorating the birth centenary of Tamil political leader SJV Chelvanayakam. It is being reposted with slight changes to denote his 125th birth anniversary on March 31)
+(This article was first written in 1997 for a special volume commemorating the birth centenary of Tamil political leader SJV Chelvanayakam. It is being reposted with slight changes to denote his 126th  birth anniversary on March 31)
 
 On September 6th 1977, Lalith Athulathmudali, then Minister of Trade said in Parliament “Samuel James Velupillai Chelvanayakam was born in Ipoh…. ..Ipoh is known as the cleanest City in Malaysia. Perhaps it was in the fitness of things that Mr. Chelvanayakam’s life was marked by a cleanliness unknown in contemporary politics.” Athulathmudali was speaking on the vote of condolence for SJV Chelvanayakam then.
 
 ...
 
 [Data](articles/00854be8.json)
+
+[Extended Data](ext_articles/00854be8.ext.json)
 
 ---
 
@@ -2109,117 +2221,5 @@ Gnanasara Thera had previously been suffered from the condition of the disease a
 [Data](articles/58e3d0f1.json)
 
 [Extended Data](ext_articles/58e3d0f1.ext.json)
-
----
-
-### Two prisoners escape from Anuradhapura open prison
-
-*2024-03-29 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-prisoners-escape-from-Anuradhapura-open-prison/108-279835) · `en`
-
-Anuradhapura, march 29 (daily Mirror)- Two inmates detained in the Anuradhapura open prison escaped this afternoon, sources said.
-
-One of them is from Shravastipura and the other from the Kelaniya area. They had been detailed to work in the public canteen at Jayanthi Mawatha in the open prison camp.
-
-However, they had changed their clothes and fled from the prison camp.
-
-Anuradhapura police and the prison officials have initiated investigations to track down the two prison escapees.
-
-◼️
-
-[Data](articles/8f6ced37.json)
-
-[Extended Data](ext_articles/8f6ced37.ext.json)
-
----
-
-### Gnanasara Thera to be arrested
-
-*2024-03-29 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195078) · `si`
-
-Ven. Galagodaatte Gnanasara Thera, referred to Prison Hospital for illness, appealed by Colombo High Court. Sadhetissa Thera: "We accept by law, but society's response is unknown."
-
-🟩
-
-Ven. Galagodaatte Gnanasara Thera has admitted to the Prison Hospital due to illness.
-
-Ravana Balaya Organization, General Secretary of the Ravana Balaya, Ven.
-
-Sadhetissa Thera said that Gnanasara Thera had been sick and he was referred to the Prison Hospital for treatment.
-
-Meanwhile, Sadhetissa Thera said that the Colombo High Court appealed to Ven. Galagodaatte Gnanasara Thera.
-
-"He is really not wrong for us. But we don't know how society is. Because we respect the law, we accept anything by law. "
-
-◼️
-
-[Data](articles/160bb8b0.json)
-
-[Extended Data](ext_articles/160bb8b0.ext.json)
-
----
-
-### Tourist passenger recovery
-
-*2024-03-29 17:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/179975) · `ta`
-
-An Indian tourist from Maharashtra, Mumbai, fell into a ditch near Ehela Kanuwa on Friday and was rescued by the Maskeliya Police Special Task Force.
-
-🟩
-
-An Indian tourist who fell into a ditch from Ehela Kanuwa on Friday (29) from Ehela Kanuwa has been rescued by the Maskeliya Police Special Task Force.
-
-A 25 -year -old tourist who was traveling from Maharashtra State Mumbai in India was climbing the Shivanoli road from the Ratnapura area at 5.00 am today.
-
-In this case, the Udamaluwa Police Station has received a first aid treatment for a special task force who rushed to the scene and rescued the tourist.
-
-Maskeliya Police Special Task Force Police Officer 76216 Padmasiri, Police Officer 99695 Pradeesh and Police Officer 102687 Ajith have been rescued.
-
-◼️
-
-[Data](articles/b39cfe0a.json)
-
-[Extended Data](ext_articles/b39cfe0a.ext.json)
-
----
-
-### For Ramadan Festival...
-
-*2024-03-29 16:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/For-Ramadan-Festival/110-279834) · `en`
-
-During this Ramadan festival, along with experiencing the vibrant culture and traditional crafts of Pakistan, the trade fair ’’Ramadan Festival’’ will be held at the Excitation Ground at Baladaksha Mawatha, Colombo, where textiles, home appliances and food items will be available. It will be held from noon to midnight till March 31. Pix by Kithsiri De Mel
-
-◼️
-
-[Data](articles/940845d7.json)
-
-[Extended Data](ext_articles/940845d7.ext.json)
-
----
-
-### Solution based on 13th Amendment to Ethnic Problem - Allocation for Free Education - Land Rights of Upcountry People
-
-*2024-03-29 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/179977) · `ta`
-
-Professor Arjuna Parakrama discusses the need for a permanent solution to Sri Lanka's ethnic problem, focusing on the 13th Amendment and land rights. He emphasizes the importance of implementing pure politics, abolishing illegal laws, eradicating corruption, and providing relief to economically hard-hit people.
-
-🟩
-
-Professor Arjuna Parakrama presented a number of conditions in Colombo, including the March 12 Movement in Colombo, including that the politicians who are contesting the elections in Sri Lanka should seek a full permanent solution to the national ethnic problem, especially the 13th Amendment - the security forces in the North and East should hand over the lands of civilians in the North East.
-
-He said this while addressing the March 12 movement in Colombo to unite for the pure politics of March 12 to establish a clean political culture.
-
-The question in front of us is whether the house should be made up of superficial corrections or the house to be completely changed.
-
-When we elect people's representatives, they must be able to implement the pure politics.
-
-The 13th Amendment should be implemented in a way that needs a full permanent solution to the national ethnic problem.
-
-To give the nasty to the missing relationships, to honestly explain what happened to the missing.
-
-...
-
-[Data](articles/09d6f8b2.json)
-
-[Extended Data](ext_articles/09d6f8b2.ext.json)
 
 ---

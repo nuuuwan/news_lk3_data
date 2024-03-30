@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 22:33:25**
+As of **2024-03-30 22:50:07**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,082 (100.0%) of 16,083 articles have been extended.
+16,083 (100.0%) of 16,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### தேர்தல்கள் ஆணைக்குழுவின் விசேட அறிவிப்பு
+### Special Notice of Elections Commission
 
 *2024-03-30 22:19:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-ஆணைக்குழுவின்-விசேட-அறிவிப்பு/175-335372) · `ta`
 
-அரசியலமைப்பின் பிரகாரம் ஜனாதிபதித் தேர்தல் இவ்வருடத்தின் இரண்டாம் பாதியில் நடத்தப்படவுள்ளதாகவும், ஜனாதிபதி தேர்தலை நடத்துவதற்கான அடிப்படை ஏற்பாடுகள் நிறைவடைந்துள்ளதாகவும் தேர்தல்கள் ஆணைக்குழுவின் பணிப்பாளர் நாயகம்  சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
+The Elections Commission's Director General Saman Sri Ratnayake announced the presidential election will be held in the second half of this year, with Rs 1,000 crore allocated. Some Sri Lanka PA parties have requested a general election instead.
 
-கடந்த வரவு செலவுத் திட்டத்தில் ஜனாதிபதித் தேர்தலுக்காக 1,000 கோடி ரூபா நிதி ஒதுக்கப்பட்டுள்ளதாகவும், தேவையென்றால் கூடுதலான பணத்தை பெற்றுக்கொள்ள முடியும் எனவும் அவர் தெரிவித்துள்ளார்.
+🟩
 
-ஜனாதிபதி தேர்தலை முதலில் நடத்துவதாக ஜனாதிபதி அறிவித்துள்ள போதிலும், அரசாங்கத்தின் பிரதான பங்காளிக் கட்சியான ஸ்ரீலங்கா பொதுஜன பெரமுனவின் சில தரப்பினர், பொதுத் தேர்தலை நடத்துமாறு ஜனாதிபதியிடம் கோரிக்கை விடுத்துள்ளதாக தெரிவிக்கப்படுகின்றது. R
+The Elections Commission's Director General Saman Sri Ratnayake said that the presidential election will be held in the second half of this year and the basic provisions for the presidential election have been completed.
+
+He said that in the last budget, Rs 1,000 crore has been allocated for the presidential election and that more money can be obtained if needed.
+
+Although the president has announced the presidential election first, it is reported that some parties of the Sri Lanka PA, the main partner of the government, have asked the president to hold the general election.. Remble
 
 ◼️
 
 [Data](articles/7bece5bb.json)
+
+[Extended Data](ext_articles/7bece5bb.ext.json)
 
 ---
 

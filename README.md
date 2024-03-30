@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 12:50:01**
+As of **2024-03-30 13:03:20**
 
 ## Newspaper Stats
 
-*Scraped **16,034** Articles*
+*Scraped **16,035** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 143
 bbccomsinhala | 170
-dbsjeyarajcom | 198
+dbsjeyarajcom | 199
 newsfirstlk | 363
 dailyftlk | 863
 economynextcom | 882
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,580
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,034 (100.0%) of 16,034 articles have been extended.
+16,034 (100.0%) of 16,035 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1075,6 +1075,20 @@ Known for its strategic partnerships and prompt undertakings, Dialog Enterprise,
 [Data](articles/4fad1a63.json)
 
 [Extended Data](ext_articles/4fad1a63.ext.json)
+
+---
+
+### S.J.V.Chelvanayakam: Respected “Gandhian”Tamil Political  Leader  was a Christian by religion and a Hindu by culture.
+
+*2024-03-30 03:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83821) · `en`
+
+(This article was first written in 1997 for a special volume commemorating the birth centenary of Tamil political leader SJV Chelvanayakam. It is being reposted with slight changes to denote his 125th birth anniversary on March 31)
+
+On September 6th 1977, Lalith Athulathmudali, then Minister of Trade said in Parliament “Samuel James Velupillai Chelvanayakam was born in Ipoh…. ..Ipoh is known as the cleanest City in Malaysia. Perhaps it was in the fitness of things that Mr. Chelvanayakam’s life was marked by a cleanliness unknown in contemporary politics.” Athulathmudali was speaking on the vote of condolence for SJV Chelvanayakam then.
+
+...
+
+[Data](articles/00854be8.json)
 
 ---
 
@@ -2207,23 +2221,5 @@ To give the nasty to the missing relationships, to honestly explain what happene
 [Data](articles/09d6f8b2.json)
 
 [Extended Data](ext_articles/09d6f8b2.ext.json)
-
----
-
-### Sri Lankan delegation attends Assembly of Inter-Parliamentary Union in Geneva
-
-*2024-03-29 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/98291/sri-lankan-delegation-attends-assembly-of-inter-parliamentary-union-in-geneva-) · `en`
-
-A delegation of the Parliament of Sri Lanka led by the Speaker Mahinda Yapa Abeywardena attended the 148th Assembly of Inter-Parliamentary Union held in Geneva from 23-27 March.
-
-The delegation comprised MPs Ranjith Madduma Bandara, Ashok Abeysinghe, Sumith Udukumbura, Manjula Dissanayake, as well as Secretary General of Parliament Kushani Rohanadeera.
-
-Addressing the General Debate under the theme “Parliamentary diplomacy: Building bridges for peace and understanding” Abeywardena has pointed out that parliamentary diplomacy acts as a bridge between governments and citizens, ensuring that the concerns and perspectives of the people are taken into account in the formulation of foreign policies.
-
-...
-
-[Data](articles/5a1963de.json)
-
-[Extended Data](ext_articles/5a1963de.ext.json)
 
 ---

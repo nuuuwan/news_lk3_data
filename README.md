@@ -1,52 +1,102 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 09:18:21**
+As of **2024-03-30 09:33:53**
 
 ## Newspaper Stats
 
-*Scraped **16,006** Articles*
+*Scraped **16,009** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 143
 bbccomsinhala | 170
-dbsjeyarajcom | 197
+dbsjeyarajcom | 198
 newsfirstlk | 363
 dailyftlk | 862
 economynextcom | 880
 islandlk | 887
 adalk | 1,342
 tamilmirrorlk | 1,912
-adaderanalk | 1,923
+adaderanalk | 1,924
 virakesarilk | 2,276
 dailymirrorlk | 2,475
-adaderanasinhalalk | 2,576
+adaderanasinhalalk | 2,577
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,005 (100.0%) of 16,006 articles have been extended.
+16,006 (100.0%) of 16,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### කඩා වැටුණු පාලමේ රක්ෂණ වන්දිය ඩොලර් බිලියන 3 ඉක්මවයි
+### Baltimore bridge collapse: Insurance loss could hit $3 billion
+
+*2024-03-30 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98298/baltimore-bridge-collapse-insurance-loss-could-hit-3-billion) · `en`
+
+The collapse of a bridge in the US city of Baltimore will result in the largest single marine insurance loss ever, a British insurance marketplace said.
+
+Six people were presumed dead after a ship crashed into the bridge, and divers have recovered two bodies.
+
+Experts say the damages could cost as much as $3 billion (£2.3 billion).
+
+“I would say it’s certainly going to be one of the largest marine losses in history,” said John Neal, chief executive officer of Lloyd’s of London.
+
+“Of that there is little or no doubt,” Mr Neal told the BBC. “But genuinely the good news is it’s insured.”
+
+Mr Neal said the port and the ship that crashed into the bridge are also insured.
+
+“So from a financial point of view, there is a process that will allow for financial compensation to be made and for the claim to be settled,” he said.
+
+The Maryland Department of Transportation has so far asked the Biden administration for $60m in emergency funds to help clear debris and clean up after the incident.
+
+...
+
+[Data](articles/35c9b756.json)
+
+---
+
+### කාසියේ වාසිය ශ්‍රී ලංකාව ට
+
+*2024-03-30 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195091) · `si`
+
+සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර දෙවන ටෙස්ට් ක්‍රිකට් තරගය අද (30) ආරම්භ වෙයි.
+
+කාසියේ වාසිය දිනූ ශ්‍රී ලංකා කණ්ඩායම පළමුවෙන් පන්දුවට පහර දීමට තීරණය කළේය.
+
+මෙම තරගය සඳහා ශ්‍රී ලංකා කණ්ඩායම ආබාධයකට ලක්වූ කසුන් රාජිත වෙනුවට අසිත ප්‍රනාන්දු කැඳවා තිබේ.
+
+බංග්ලාදේශ කණ්ඩායමේ වෙනස්කම් දෙකක් කර ඇති අතර ඒ අනුව ශකීබ් අල් හසන් ව සහ හසන් මහමූද් ව කණ්ඩායම ට නම්කර තිබේ.
+
+◼️
+
+[Data](articles/ad4b5643.json)
+
+---
+
+### Insurance profit of the collapsed bridge exceeds $ 3 billion
 
 *2024-03-30 08:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195090) · `si`
 
-අමෙරිකාවේ ෆ්‍රැන්සිස් ස්කොට් කී පාලම කඩා වැටීමෙන් පසු සුන්බුන් ඉවත් කිරීම සඳහා නැගෙනහිර එක්සත් ජනපද මුහුදු තීරයේ තිබෙන විශාලතම දොඹකරය බැල්ටිමෝර් වෙත ගෙන්වා තිබේ.
+The collapsed Francis Scott Bridge in America's insurance profit exceeds $3 billion. Debris removal to Baltimore halted shipments at the busiest port. Search for four workers ceased due to wreckage risks. $60 million from federal emergency funds allocated for recovery.
 
-විදෙස් වාර්තා සඳහන් කළේ, එරට කාර්යබහුලම වරායේ නැව්ගත කිරීම් අත්හිටුවා ඇති බවය.
+🟩
 
-සුන්බුන් අතර කිමිඳීමේ අවදානම හේතුවෙන් කම්කරුවන් සිව්දෙනෙකුගේ සිරුරු සෙවීමේ කටයුතු තවදුරටත් නවතා දමා ඇති බව වාර්තා වේ.
+Francis Scott Bridge in America has been brought to Baltimore to remove debris.
 
-පාලම යථාතත්ත්වයට පත්කිරිම සඳහා ෆෙඩරල් හදිසි අරමුදල්වලින් ඩොලර් මිලියන 60ක මූල්‍ය ප්‍රතිපාදන වෙන් කර ඇති අතර පාලම කඩා වැටීමේ රක්ෂණ වන්දිය ඩොලර් බිලියන 3 ඉක්මවිය හැකි බව විදෙස් වාර්තා සඳහන් කළේය.
+Shipments have been suspended at the busiest port of the country.
+
+The search for four workers has been stopped due to the risk of the wreckage, reports say.
+
+The cost of $ 60 million has been allocated from federal emergency funds to recover the bridge.
 
 ◼️
 
 [Data](articles/18505193.json)
+
+[Extended Data](ext_articles/18505193.ext.json)
 
 ---
 
@@ -2203,45 +2253,5 @@ The suggestions and issues raised by the development agencies and stakeholders h
 [Data](articles/4d6c0bc7.json)
 
 [Extended Data](ext_articles/4d6c0bc7.ext.json)
-
----
-
-### Give police information on 119, 118 and 1927
-
-*2024-03-29 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195069) · `si`
-
-The IGP has ordered special police protection for churches in Grinder and Easter, with 2,978 churches and 2,230 temples receiving protection from 6,837 police officers, 464 STF officers, and 2,882 armed forces personnel. For special notices, contact 119, 118, or 1927.
-
-🟩
-
-Today, the Memorial of the phase of the crushing and the crucifixion of Jesus Christ is today (29).
-
-Inspector General of Police (IGP) has instructed the OICs of the OICs to provide special police protection for the churches of the churches in Grinder and Easter.
-
-2,978 Christian churches throughout the country will be held at 2,230 temples and protection to the police, the STF and the Armed Forces.
-
-A total of 6,837 police officers, 464 Police STF officers and 2,882 armed forces personnel have been deployed.
-
-Police Media Spokesman, DIG's Court Attorney Nihal Talduuwa said. If you do a special notice, please contact 119, 118 and 1927. "
-
-◼️
-
-[Data](articles/1793db19.json)
-
-[Extended Data](ext_articles/1793db19.ext.json)
-
----
-
-### Future Harvest Expo 2024
-
-*2024-03-29 13:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Future-Harvest-Expo-2024/110-279827) · `en`
-
-Future Harvest - EXPO 2024 exhibition was hosted at the Bandaranaike Memorial International Conference Hall (BMICH) today. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/a2b63624.json)
-
-[Extended Data](ext_articles/a2b63624.ext.json)
 
 ---

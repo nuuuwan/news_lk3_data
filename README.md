@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 10:33:33**
+As of **2024-03-30 10:51:52**
 
 ## Newspaper Stats
 
-*Scraped **16,016** Articles*
+*Scraped **16,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 881
 islandlk | 887
 adalk | 1,342
 tamilmirrorlk | 1,913
-adaderanalk | 1,925
-virakesarilk | 2,279
+adaderanalk | 1,927
+virakesarilk | 2,280
 dailymirrorlk | 2,475
 adaderanasinhalalk | 2,578
 
@@ -26,11 +26,63 @@ adaderanasinhalalk | 2,578
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,016 (100.0%) of 16,016 articles have been extended.
+16,016 (100.0%) of 16,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### Indian fishermen threaten to boycott Lok Sabha election over arrests Sri Lanka Navy
+
+*2024-03-30 10:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98300/indian-fishermen-threaten-to-boycott-lok-sabha-election-over-arrests-sri-lanka-navy) · `en`
+
+Fisherfolk in Karaikal, India have decided to boycott the upcoming Lok Sabha election if the Union and Puducherry governments do not intervene and seek release of two boat drivers currently in Sri Lankan custody.
+
+The decision was taken in a meeting of fisherfolk panchayat representatives from 11 villages on Wednesday.
+
+K. Sivakumar, a fisher representative from Karaikalmedu, said, “We condemn the Sri Lankan government’s move of imprisoning our fishers and impounding their boats. We request the Union and Puducherry governments to demand release of boat drivers K Muruganantham and R Anburaj. Else, families in 11 fishing villagers will boycott the general election.”
+
+In the past one week, a court in Jaffna, Sri Lanka, has sentenced three boat drivers from Mayiladuthurai, two from Ramanathapuram and one from Karaikal, to six months of imprisonment for allegedly crossing the international maritime boundary line (IMBL).
+
+...
+
+[Data](articles/06435022.json)
+
+---
+
+### முல்லைத்தீவு முள்ளியவளையில் வீட்டு காணிக்குள் பைப்லைன் செய்து சாராய விநியோகம் ;  ஒருவர் கைது
+
+*2024-03-30 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180003) · `ta`
+
+முள்ளியவளையில் வீட்டு காணி ஒன்றில் பைப்லைன் மூலமாக சட்டவிரோத கசிப்பு உற்பத்தி செய்து சாராய விநியோகத்தில் ஈடுபட்ட குடும்பஸ்தர் பொலிஸாரால் கைது செய்யட்டுள்ளார்.
+
+முல்லைத்தீவு மாவட்டத்தின் முள்ளியவளை பொலிஸ் பிரிவிற்குட்பட்ட மாமூலை நீலகண்டபுரம் கிராமத்தில் சட்டவிரோத கசிப்பு உற்பத்தி மற்றும் விற்பனை இடம்பெற்று வருவதாக முள்ளியவளை பொலிசாருக்கு கிடைத்த தகவலின் அடிப்படையில் குறித்த பகுதியில் தேடுதல் நடத்திய பொலிசார்.
+
+வீட்டின் உரிமையாளர் ஒருவர் அவரது காணிக்குள் நீர் பொருத்தும் பைப்லைன் செய்த மாதிரி  கோடா உற்பத்தி செய்து சட்டவிரோத கசிப்பு காச்சி விற்பனையில் ஈடுபட்டு வந்துள்ளமை தெரியவந்துள்ளது.
+
+குறித்த வீட்டிற்குள் சென்ற பொலிஸார் அங்கு நிலத்தில் புதைக்கப்பட்ட சட்டவிரோத மதுபானமான கோடாவினை அதன் மேல் பைப்லைன் செய்து வைத்துள்ளமை கண்டறியப்பட்டுள்ளதுடன், இரு பெரல் கோடா இதன்போது மீட்கப்பட்டுள்ளதுடன், வீட்டின் உரிமையாளரை கைதுசெய்த முள்ளியவளை பொலிஸார் மீட்கப்பட்ட சான்று பொருட்களையும் சந்தேக நபரையும் இன்று சனிக்கிழமை (30) மாவட்ட நீதிமன்றில் முன்னிலைப்படுத்தும் நடவடிக்கையில் பொலிஸார் ஈடுபட்டுள்ளார்கள்.
+
+...
+
+[Data](articles/d3a334cc.json)
+
+---
+
+### Dozens of trains on Coastal Line facing cancellations today
+
+*2024-03-30 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98299/dozens-of-trains-on-coastal-line-facing-cancellations-today) · `en`
+
+The Railway Department says that trains plying on the Coastal Line are continuing to experience further delays today (30) and tomorrow (31).
+
+Trains operation between Wellawatta and Colombo Fort railway stations have been limited to a single track due to pipeline maintenance work carried out by the Urban Development Authority (UDA).
+
+Owing to the situation, at least 25 train journeys on the Coastal Line are facing cancellations today, the department said further, adding that the disrupted train services are expected to be restored after tomorrow night.
+
+◼️
+
+[Data](articles/afd286bf.json)
+
+---
 
 ### At least 25 trains on Coastal Lines facing cancellations today
 
@@ -2199,75 +2251,5 @@ PC 76216 Pathmasiri, PC 99695 Prathish and PC 102687 Ajith of the STF carried ou
 [Data](articles/f3411249.json)
 
 [Extended Data](ext_articles/f3411249.ext.json)
-
----
-
-### The struggle of clothing factory staff in Nuwara Eliya continues as the third day
-
-*2024-03-29 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/179969) · `ta`
-
-Nuwara Eliya garment factory staff protest for annual pay increase, citing insufficient salaries and canceled benefits. Despite Kovit-19, no additional allowances were paid, leading to the current protest.
-
-🟩
-
-Employees working at the private garment factory in Hawa Eliya area on the Nuwara Eliya -Udappusallawa main road have continued to protest and continue the protest from Wednesday (27) to Friday (29).
-
-There are over 900 employees at the garment factory. They are engaged in the protest, urging them to provide additional payments to them annually.
-
-Since the second day, the employees have been protesting, chanting slogans, carrying anti -verses, sitting on the main street.
-
-Following more allowance at the garment factory. Kovit - 19 has not been paid only during the period of infection, and that it is said to be a full additional allowance for all while working early this year but now no additional allowance. The protesters said that there was no salary for employment in the end.
-
-...
-
-[Data](articles/39cfaa50.json)
-
-[Extended Data](ext_articles/39cfaa50.ext.json)
-
----
-
-### Two inmates at A’pura open prison camp escape
-
-*2024-03-29 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/98288/two-inmates-at-apura-open-prison-camp-escape) · `en`
-
-Two inmates held at the open Prison Camp in Anuradhapura have escaped the facility on Friday afternoon (29). According to sources, the duo had been working at the prison canteen open for visitors.
-
-Reportedly, the duo had discarded their prison uniforms and donned civilian clothing to escape.
-
-Anuradhapura police and prison officials have launched a joint operation to apprehend the two escapees.
-
-It is understood that one inmate was originally from Sravasthipura in Anuradhapura and the other, from Kelaniya.
-
-◼️
-
-[Data](articles/a01b4de4.json)
-
-[Extended Data](ext_articles/a01b4de4.ext.json)
-
----
-
-### 2,535 Teachers' Assistant appointments for estate estates
-
-*2024-03-29 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195072) · `si`
-
-The Minister of Education, Susil Premajayantha, announced the recruitment of 2,535 teachers' assistants for estate schools, with the first recruits expected by May. This move aims to address the shortage of teachers in these schools, particularly in the Uva and Central provinces. The Ministry has received permission from the Public Service Commission to recruit these assistants, ensuring they meet the teacher service constitution's qualifications.
-
-🟩
-
-Minister of Education Susil Premajayantha says that the gazette notification is expected to be recruited to the call for 2,535 teachers' support for estate schools within the next few weeks.
-
-The Minister said that the public will be recruited and paid to schools by the coming May.
-
-The Minister said that a large number of teachers in estate schools is still available and the students who are eligible to meet the graduates in the Uva and Central provinces..
-
-The Minister further stated that the Ministry of Education has granted permission from the Public Service Commission to recruit five hundred teacher assistants who have qualified according to the teacher service constitution.
-
-Minister of Education Susil Premajayantha says he is expected to continue through alternative solutions or continuing the education system when it is a challenge.
-
-◼️
-
-[Data](articles/419c7fd5.json)
-
-[Extended Data](ext_articles/419c7fd5.ext.json)
 
 ---

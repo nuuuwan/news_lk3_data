@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 19:18:09**
+As of **2024-03-30 19:33:23**
 
 ## Newspaper Stats
 
-*Scraped **16,071** Articles*
+*Scraped **16,072** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 882
 islandlk | 887
 adalk | 1,342
 tamilmirrorlk | 1,921
-adaderanalk | 1,938
+adaderanalk | 1,939
 virakesarilk | 2,286
 dailymirrorlk | 2,483
 adaderanasinhalalk | 2,593
@@ -26,11 +26,23 @@ adaderanasinhalalk | 2,593
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,071 (100.0%) of 16,071 articles have been extended.
+16,071 (100.0%) of 16,072 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### Raigam Tele’es: Ada Derana 24 documentary program wins Special Jury Award
+
+*2024-03-30 19:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/98312/raigam-telees-ada-derana-24-documentary-program-wins-special-jury-award) · `en`
+
+‘Surakimu Budhu Sasuna’ a documentary programme on Ada Derana 24, produced by Wasanthi Nanayakkara, won Special Jury Award at Raigam Tele’es 2023 awards ceremony currently being held at the Shangri-La Hotel in Colombo.
+
+◼️
+
+[Data](articles/b911d1e7.json)
+
+---
 
 ### Ragama Hospital patient dies after vaccine administration; investigations underway
 
@@ -2245,27 +2257,5 @@ Betha Perumal is sure that the child's privilege is to be held naturally by the 
 [Data](articles/b67ed0f7.json)
 
 [Extended Data](ext_articles/b67ed0f7.ext.json)
-
----
-
-### The prisoners escaped
-
-*2024-03-29 22:32:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கைதிகள்-தப்பி-ஓட்டம்/175-335357) · `ta`
-
-Two prisoners from Anuradhapura Open Prison escaped, reportedly from the snack area. They are from Anuradhapura - Gravastipura and Kelani areas.
-
-🟩
-
-Prisons Media Spokesperson Gamini Dissanayake says two prisoners have fled from the Anuradhapura Open Prison.
-
-Two prisoners who worked at the Open Prison's snack were reported to have escaped.
-
-They belong to the Anuradhapura - Gravastipura and Kelani areas, the media spokesman said.
-
-◼️
-
-[Data](articles/45362e7d.json)
-
-[Extended Data](ext_articles/45362e7d.ext.json)
 
 ---

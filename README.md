@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 05:37:18**
+As of **2024-03-30 06:17:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,570
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,981 (99.9%) of 15,989 articles have been extended.
+15,989 (100.0%) of 15,989 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,6 +42,8 @@ A diverse and esteemed panel came together to delve into a crucial conversation 
 
 [Data](articles/730f4526.json)
 
+[Extended Data](ext_articles/730f4526.ext.json)
+
 ---
 
 ### A Sri Lankan-Australian joint venture celebrates a decade of excellence in -Hospitality Education
@@ -54,6 +56,8 @@ William Angliss Institute, Australia in partnership with the Colombo Academy of 
 
 [Data](articles/393f57d0.json)
 
+[Extended Data](ext_articles/393f57d0.ext.json)
+
 ---
 
 ### John Keells Properties launches Phase 2 of its latest real estate development, ‘Viman’ Ja-Ela
@@ -65,6 +69,8 @@ John Keells Properties proudly announces the launch of Phase 2 of ‘Viman’ Ja
 ...
 
 [Data](articles/efe05772.json)
+
+[Extended Data](ext_articles/efe05772.ext.json)
 
 ---
 
@@ -80,6 +86,8 @@ A captivating discussion with Ms. Sandra Wanduragala, Founder Seyln Textiles, pr
 
 [Data](articles/3dfa3d71.json)
 
+[Extended Data](ext_articles/3dfa3d71.ext.json)
+
 ---
 
 ### ‘BIG BOLD BRAVE 2024’ – HARVARD Asia Pacific Regional Conference in Sri Lanka
@@ -93,6 +101,8 @@ Under the far-reaching theme of ‘Big Opportunities | Bold Moves | Brave People
 ...
 
 [Data](articles/9cb94c42.json)
+
+[Extended Data](ext_articles/9cb94c42.ext.json)
 
 ---
 
@@ -112,6 +122,8 @@ Union Bank hosts engaging customer events celebrating International Women’s Da
 
 [Data](articles/a6666c27.json)
 
+[Extended Data](ext_articles/a6666c27.ext.json)
+
 ---
 
 ### Dialog Enterprise launches stronger customer cloud propositions with VMware by Broadcom
@@ -125,6 +137,8 @@ Known for its strategic partnerships and prompt undertakings, Dialog Enterprise,
 ...
 
 [Data](articles/4fad1a63.json)
+
+[Extended Data](ext_articles/4fad1a63.ext.json)
 
 ---
 

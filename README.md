@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 15:17:58**
+As of **2024-03-30 15:33:48**
 
 ## Newspaper Stats
 
-*Scraped **16,053** Articles*
+*Scraped **16,055** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ tamilmirrorlk | 1,918
 adaderanalk | 1,934
 virakesarilk | 2,286
 dailymirrorlk | 2,481
-adaderanasinhalalk | 2,585
+adaderanasinhalalk | 2,587
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,051 (100.0%) of 16,053 articles have been extended.
+16,053 (100.0%) of 16,055 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### චීන විමර්ශන කණ්ඩායමක් හදිසියේම පාකිස්තානයට
+
+*2024-03-30 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195104) · `si`
+
+චීන ජාතිකයන් පස් දෙනෙකුට මරු කැඳවමින් පාකිස්තානයේදී එල්ලවූ මරාගෙන මැරෙන බෝම්බ ප්‍රහාරය සම්බන්ධයෙන් විමර්ශනය කිරීම සඳහා චීන විමර්ශකයින් පිරිසක් පාකිස්තානයට පැමිණි බව පාකිස්තාන අභ්‍යන්තර කටයුතු අමාත්‍යාංශය පවසා ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+පාකිස්තානයේ වයඹදිග ප්‍රදේශයේ වේල්ලක් ඉදිකිරීමේ ව්‍යාපෘතියක සේවය කරමින් සිටි චීන ඉංජිනේරුවන් පිරිසක් ගමන්කරමින් සිටි රථ පෙළකට පසුගිය 26 වනදා මෙලෙස මරාගෙන මැරෙන ප්‍රහාරයක් එල්ල කර තිබුණි.
+
+එම සිදුවීම චීනය විසින් ආයෝජනය කර, පාකිස්තානයේ ක්‍රියාත්මක යටිතල පහසුකම් සංවර්ධන ව්‍යාපෘතියක සේවකයින් ඉලක්ක කර සතියක් තුළ එල්ල වූ තුන්වන ප්‍රහාරය බවද වාර්තා වෙයි.
+
+කෙසේවෙතත් අදාළ ප්‍රහාරයේ වගකීම මෙතෙක් කිසිඳු පාර්ශ්වයක් භාර ගෙන නොමැති බවද වාර්තා වෙයි.
+
+පාකිස්තානයේ යටිතල පහසුකම් සඳහා චීනය ආයෝජනය කර ඇති මුදල අමෙරිකානු ඩොලර් බිලියන 65 කට වඩා වැඩි බවද විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/b4165ac0.json)
+
+---
+
+### උපරිම සිල්ලර මිල නියම කිරීමට අදාළව නව නිර්දේශ කිහිපයක්
+
+*2024-03-30 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195103) · `si`
+
+පාරිභෝගිකයා ආරක්ෂා කිරීමේදී පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ දායකත්වය සම්බන්ධයෙන් ජාතික විගණන කාර්යාලය සිදුකළ විගණනයෙන් එම අධිකාරියේ පවතින දුර්වලතා කිහිපයක් හෙළිදරව් කර තිබේ.
+
+විගණනයට අදාළ 2018 - 2022 කාලය තුළ ඉලක්කගත වැටලිම් ප්‍රමාණයට වඩා සත්‍ය වැටලීම් ප්‍රමාණය 74% සිට 56%ක් දක්වා පහත බැස ඇති බව එහි සඳහන් වෙයි.
+
+ඒ අනුව විගණකාධිපතිවරයා සිවින් නව නිර්දේශ කිහිපයක් නිකුත් කිරීමට පියවර ගෙන ඇත.
+
+ආනයනික භාණ්ඩ සම්බන්ධයෙන් තවදුරටත් උපරිම සිල්ලර මිල සහතික නිකුත් කිරීමට අවශ්‍ය භාණ්ඩ වර්ග හඳුනාගෙන එම භාණ්ඩද ඇතුළත් කර නව විධාන පැනවීම සිදුකළ යුතුය.
+
+උපරිම සිල්ලර මිල සහතික ලබාගැනීමට අධිකාරියට තොරතුරු ඉදිරිපත් නොකරන ආනයනකරුවන් සම්බන්ධයෙන් වෙළෙඳපොළ වැටලීම් කිරීම හා ඔවුන්ට එරෙහිව නීතිමය ක්‍රියාමාර්ග ගැනීම විධිමත් කිරීම.
+
+ආනයනකරුවන් විසින් උපරිම සිල්ලර මිල සහතික ලබාගැනීමට ඉදිරිපත් කරන මිල ගණන් සඳහා අනුමැතිය ලබාදීමට පෙර අධිකාරිය එම මිල ගැන භෞතිකව පරීක්ෂා කිරීම ද අනිවාර්ය කිරීම.
+
+...
+
+[Data](articles/66642845.json)
+
+---
 
 ### Sri Lanka, India discuss economic connectivity projects
 
@@ -50,6 +92,8 @@ He stressed the importance of sustained economic growth and emphasized enhancing
 
 [Data](articles/de84c615.json)
 
+[Extended Data](ext_articles/de84c615.ext.json)
+
 ---
 
 ### China reaffirms financial support for Sri Lanka
@@ -67,6 +111,8 @@ China is willing to “continue supporting its financial institutions to activel
 ...
 
 [Data](articles/661697f3.json)
+
+[Extended Data](ext_articles/661697f3.ext.json)
 
 ---
 
@@ -2185,69 +2231,5 @@ Sujeewa Rajapakse, the Chairman of People’s Bank said he was pleased with the 
 [Data](articles/f1c29eb4.json)
 
 [Extended Data](ext_articles/f1c29eb4.ext.json)
-
----
-
-### Property of banned powder Noky
-
-*2024-03-29 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195082) · `si`
-
-Kudu Shanthi, alias Sugarmon Loku, suspected in drug trafficking in Ahungalla, faces bans on two vessels and property seizures. IGP Tennakoon monitors the situation.
-
-🟩
-
-Anoma Shanthi alias Kudu Shanthi, Sugarmon Loku, was suspected to have been suspected to be involved in the drug trafficking in Ahungalla area.
-
-Two multi-day engineers launched at the Galle Fisheries Harbor have been banned by the Illegal Asset Division of the Criminal Investigation Department.
-
-The vessels have been suspected to have been involved in drug trafficking in Ahungalla for nearly 30 years.
-
-She has bought the vessels into the name of their relatives.
-
-IGP Deshaband Tennakoon arrived at the Galle Fisheries Harbor to monitor the multi-day vessels.
-
-Meanwhile, three houses, a shop in Ahungalla, who belongs to the suspect, was taken into custody by the Illegal Assets Divisional Secretariat and the IGP also visited the property.
-
-The IGP also inspected a lorry, two motorcycle, backhoes, two wheelers and two three wheelers.
-
-Meanwhile, an illegal asset converting division has also taken over a multi-day fishing vessel to pay Rs.
-
-...
-
-[Data](articles/b9e81f43.json)
-
-[Extended Data](ext_articles/b9e81f43.ext.json)
-
----
-
-### Beach in Sri Lanka without standard
-
-*2024-03-29 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195081) · `si`
-
-Sri Lanka's beaches lack Blue Flag certification, despite 51 countries having it. The Blue Flag program, monitored by 77 countries, aims to improve coastal standards. Sri Lanka's beaches, including those in the Indian Ocean, have not met these standards. The program includes displaying water quality, local ecosystems, and safety measures. Despite criticism, some beaches are adapting to Blue Flag standards.
-
-🟩
-
-Although our country has a beautiful and attractive beaches, it is revealed that no coast will have met any coast.
-
-However, 51 countries, however, have already received the international Blue Flag certificate related to the coastal standard.
-
-Traveling coastal standards is a rule according to the "foundation for environmental education".
-
-The base of 77 countries is a member monitors to Blue Flag certification regarding the standard of coastal roots world.
-
-The Blue Flag certificate has been obtained from 51 countries and 5,038 marina.
-
-The neighboring India's Blue Flag Certified Beachs have 17.
-
-However, no coastal in Sri Lanka surrounded by the Indian Ocean, no beach has ever reached a standard to obtain the Blue Flag certificate.
-
-Accordingly, the information on the Blue Flag program should be displayed and the beach is an integral part of the beach.
-
-...
-
-[Data](articles/7123b0a2.json)
-
-[Extended Data](ext_articles/7123b0a2.ext.json)
 
 ---

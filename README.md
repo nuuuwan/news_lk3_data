@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 20:03:03**
+As of **2024-03-30 20:18:08**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 2,595
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,073 (100.0%) of 16,075 articles have been extended.
+16,075 (100.0%) of 16,075 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### රයිගම් ටෙලීස් - අද දෙරණ සම්මානවලින් පිදුම් ලබයි
+### Raigam Tele'es - Adekara
 
 *2024-03-30 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195113) · `si`
 
-2023 රයිගම් ටෙලීස් සම්මාන උළෙල මේ වනවිට කොළඹ ෂැංග්‍රිලා හෝටලයේදී උත්කර්ෂවත් අයුරින් පැවැත්වෙයි.
+Raigam Tele'es Awards at Shangrila Hotel, Colombo. 'Saurakuduly Buddha Sasana' by Ada Derana won. KIDS Academy's K. Saranga won for 'Haleans' teledrama.
 
-මෙහිදී 'අද දෙරණ' වසන්ති නානායක්කාර විසින් නිෂ්පාදනය කරන ලද "සුරකිමු බුදු සසුන" වාර්තාමය වැඩසටහන ජූරියේ විශේෂ සම්මානය දිනා ගත්තේය.
+🟩
 
-මේ අතර මෙවර රයිගම් ටෙලි සම්මාන උළෙලේ දී වසරේ විශිෂ්ටතම රූපවාහිනී අධ්‍යාපන වැඩසහන ලෙස K.C සාරංග විසින් නිෂ්පාදනය කරන ලද අද දෙරණ Kids Academy සම්මානයට පාත්‍ර විය.
+The Rigam Tele'es Awards will be held at Shangrila Hotel in Colombo.
 
-මෙහිදී ජුරියේ කුසලතා සහතිකයක් දිනාගැනීමට TV දෙරණ ඔස්සේ විකාශනය වූ 'හේල්‍යන්' ටෙලිනාට්‍යයේ පිංකිගේ චරියට රඟ පෑ සිඳගනා කුරේ සමත් වූවාය.
+The 'Saurakuduly Buddha Sasana Manufactured by Ada Derana' Vasanthi Nanayakkara.
+
+Meanwhile, KIDS Academy was awarded by KIDS Academy, manufactured by K. Saranga at the Raigam Tele Awards.
+
+The Cooray, which was broadcasting on TV Adarm to win the Jury's talent certificate, the Coray of the 'Haleans' television teledrama.
 
 ◼️
 
 [Data](articles/4ad32fb7.json)
 
+[Extended Data](ext_articles/4ad32fb7.ext.json)
+
 ---
 
-### අප්‍රේල් 8 වනදා පූර්ණ සූර්ය ග්‍රහණයක්
+### A full solar grip on April 8
 
 *2024-03-30 19:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195112) · `si`
 
-අප්‍රේල් මස 8වන සඳුදා පූර්ණ සූර්ය ග්‍රහණයක් සිදුවීමට නියමිත බව අමෙරිකාවේ නාසා ආයතනය පවසයි.
+A full solar eclipse will occur on April 8th, visible in Mexico, Canada, and some US states. NASA reports the next eclipse in 2044.
 
-මෙක්සිකෝව, කැනඩාව සහ අමෙරිකාවේ ඇතැම් ප්‍රාන්තවල වැසියන්ට එම සූර්ය ග්‍රහණය හොඳින් දැකබලා ගැනීමට අවස්ථාව හිමි වෙයි.
+🟩
 
-නාසා වාර්තා අනුව මීළඟ පූර්ණ සූර්ය ග්‍රහණයක් සිදුවන්නේ 2044 වසරේදීය.
+NASA, USA says it is to take place on Monday, April 8th.
+
+Mexico, Canada and some states in some states in some states will be able to see the eclipse well.
+
+According to NASA reports, the next full solar eclipse is in 2044.
 
 ◼️
 
 [Data](articles/11d29573.json)
+
+[Extended Data](ext_articles/11d29573.ext.json)
 
 ---
 
@@ -77,6 +89,8 @@ Accordingly, ‘Surakimu Budhu Sasuna’ a documentary programme on Ada Derana 2
 Meanwhile, “Ada Derana Kids Academy” program on Ada Derana 24 produced by K. C. Saranga picked up award for the Best Television Educational Programme.
 
 Child actress Sindagana Cooray also won a Certificate of Jury Merit for her performance in the “Helyan” teledrama aired on TV Derana.
+
+Derana Dream Star, the Sri Lankan reality television series was awarded as the Best Television Reality Programme of the Year. Dream Star which was launched in the year 2008 has presented over 11 seasons since the beginning.
 
 ◼️
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 09:33:53**
+As of **2024-03-30 09:52:13**
 
 ## Newspaper Stats
 
-*Scraped **16,009** Articles*
+*Scraped **16,010** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 170
 dbsjeyarajcom | 198
 newsfirstlk | 363
 dailyftlk | 862
-economynextcom | 880
+economynextcom | 881
 islandlk | 887
 adalk | 1,342
 tamilmirrorlk | 1,912
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,577
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,006 (100.0%) of 16,009 articles have been extended.
+16,009 (100.0%) of 16,010 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,23 +56,49 @@ The Maryland Department of Transportation has so far asked the Biden administrat
 
 [Data](articles/35c9b756.json)
 
+[Extended Data](ext_articles/35c9b756.ext.json)
+
 ---
 
-### කාසියේ වාසිය ශ්‍රී ලංකාව ට
+### Sri Lanka to benefit
 
 *2024-03-30 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195091) · `si`
 
-සංචාරක ශ්‍රී ලංකා කණ්ඩායම සහ බංග්ලාදේශ කණ්ඩායම අතර දෙවන ටෙස්ට් ක්‍රිකට් තරගය අද (30) ආරම්භ වෙයි.
+Sri Lanka's second Test vs Bangladesh starts today, with Sri Lanka batting first. Assitu Fernando leads Sri Lanka, and Bangladesh introduces Shake Al Hasant and Hasan Mawda.
 
-කාසියේ වාසිය දිනූ ශ්‍රී ලංකා කණ්ඩායම පළමුවෙන් පන්දුවට පහර දීමට තීරණය කළේය.
+🟩
 
-මෙම තරගය සඳහා ශ්‍රී ලංකා කණ්ඩායම ආබාධයකට ලක්වූ කසුන් රාජිත වෙනුවට අසිත ප්‍රනාන්දු කැඳවා තිබේ.
+The second Test match between the Sri Lanka Tourism and Bangladesh begins today (30).
 
-බංග්ලාදේශ කණ්ඩායමේ වෙනස්කම් දෙකක් කර ඇති අතර ඒ අනුව ශකීබ් අල් හසන් ව සහ හසන් මහමූද් ව කණ්ඩායම ට නම්කර තිබේ.
+Sri Lanka won the toss and decided to bat first.
+
+Sri Lanka has been called by Assitu Fernando instead of a disability.
+
+Two of the changes in the Bangladesh team have been named by Shake Al Hasant and Hasan Mawda.
 
 ◼️
 
 [Data](articles/ad4b5643.json)
+
+[Extended Data](ext_articles/ad4b5643.ext.json)
+
+---
+
+### Sri Lanka seasonal food protectionist tax to replace SCL from Jan 01
+
+*2024-03-30 09:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-seasonal-food-protectionist-tax-to-replace-scl-from-jan-01-156609/) · `en`
+
+ECONOMYNEXT – Sri Lanka will replace a ‘special commodity levy’ with a new protectionist tax from January 01, State Minister Ranjit Siyambalapitiya said, which will give extra profit to farmers and keep food prices high.
+
+“The special commodity levy, which was used to protect domestic farmers and domestic producers, will be removed from January 01,” Minister Siyambalapitiya said.
+
+The special commodity levy was advocated by then trade minister Bandula Gunawardana, as the US fired a commodity boom ahead of the collapse of a US housing bubble in a bid to reduce the tax on tax effect of duties, para-tariffs and make food taxes more transparent, according to some analysts.
+
+However, the tax came under fire due to being slapped at midnight as tax payers and the hungry were sleeping and its alleged manipulation to give profits to some importers.
+
+...
+
+[Data](articles/d9142e6d.json)
 
 ---
 
@@ -1172,7 +1198,7 @@ President Ranil Wickremesinghe praised the SSC players who led the Sri Lankan te
 
 ---
 
-### Sri Lanka’s state-owned People’s Bank posts Rs. 96.8 bln income, Rs. 19.3 bln pre-tax profit
+### Sri Lanka’s People’s Bank posts Rs19.3bn pre-tax profit
 
 *2024-03-29 20:02:00* · [`economynextcom`](https://economynext.com/sri-lankas-state-owned-peoples-bank-posts-rs-96-8-bln-income-rs-19-3-bln-pre-tax-profit-156599/) · `en`
 
@@ -2231,27 +2257,5 @@ In Sri Lanka, despite a hard-won battle for a 25 per cent quota for women at the
 [Data](articles/bdb0f3d4.json)
 
 [Extended Data](ext_articles/bdb0f3d4.ext.json)
-
----
-
-### New Electricity Reforms Bill to be gazetted in 2 weeks
-
-*2024-03-29 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98287/new-electricity-reforms-bill-to-be-gazetted-in-2-weeks) · `en`
-
-The new Bill on electricity sector reforms will be gazetted in the next two weeks, Minister of Power and Energy Kanchana Wijesekera said.
-
-Subsequently, the new bill will be presented to the Parliament during the last week of April, according to the Minister.
-
-Taking to X (formerly Twitter) to announce this, Wijesekera stated that after reviewing, the certification to proceed with the new draft bill was issued by the Attorney General last Monday.
-
-Thus, the Energy Minister highlighted that the stakeholders or any interested individuals will have at least two weeks to review the gazetted Bill and two more weeks from the day of presentation to the Parliament to challenge the Bill’s legality.
-
-The suggestions and issues raised by the development agencies and stakeholders have been incorporated as amendments to the draft Bill that was gazetted in December by the Legal Draftsman’s Department and the inconsistencies in the Sinhala and Tamil translations were also fixed, Wijesekera added.
-
-...
-
-[Data](articles/4d6c0bc7.json)
-
-[Extended Data](ext_articles/4d6c0bc7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 09:52:13**
+As of **2024-03-30 10:03:18**
 
 ## Newspaper Stats
 
-*Scraped **16,010** Articles*
+*Scraped **16,014** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 881
 islandlk | 887
 adalk | 1,342
 tamilmirrorlk | 1,912
-adaderanalk | 1,924
-virakesarilk | 2,276
+adaderanalk | 1,925
+virakesarilk | 2,279
 dailymirrorlk | 2,475
 adaderanasinhalalk | 2,577
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 2,577
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,009 (100.0%) of 16,010 articles have been extended.
+16,010 (100.0%) of 16,014 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### At least 25 trains on Coastal Lines facing cancellations today
+
+*2024-03-30 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98299/at-least-25-trains-on-coastal-lines-facing-cancellations-today) · `en`
+
+The Railway Department says that trains plying on the Coastal Line are continuing to experience further delays today (30) and tomorrow (31).
+
+Trains operation between Wellawatta and Colombo Fort railway stations have been limited to a single track due to pipeline maintenance work carried out by the Urban Development Authority (UDA).
+
+Owing to the situation, at least 25 train journeys on the Coastal Line are facing cancellations today, the department said further, adding that the disrupted train services are expected to be restored after tomorrow night.
+
+◼️
+
+[Data](articles/b80a05fb.json)
+
+---
+
+### மயிலிட்டி துறைமுக பிரச்சினைக்கு தீர்வுகாண அமைச்சர் டக்ளஸ் நேரடி விஜயம் !
+
+*2024-03-30 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180000) · `ta`
+
+மயிலிட்டி துறைமுகத்தில் நிறுத்தி வைக்கப்பட்டிருக்கும் இழுவைப் படகுகளால் துறைமுகத்தில்  கடற்றொழிலாளர்கள் படகுகளை கரைசேர்ப்பது மற்றும் எரிபொருள் நிரப்புவது போன்ற செயற்பாடுகள் பாதிக்கப்பட்டு வருவதாகவும் அதற்கு நிரந்தர தீர்வை பெற்றுத்தருமாறும் அமைச்சர் டக்ளஸ் தேவானந்தாவிடம் குறித்த பகுதி கடற்றொழிலாளர்கள் கோரிக்கை விடுத்துள்ளனர்.
+
+குறித்த துறைமுகத்தில் தொடர்ந்துவரும் இவ்வாறான பிரச்சினைகள் தொடர்பில் அமைச்சரின் பார்வைக்கு கொண்டுவரப்பட்டிருந்த நிலையில் இன்று சனிக்கிழமை (30) மயிலிட்டி இறங்குதுறைப் பகுதிக்கு கள விஜயம் மேற்கொண்ட அமைச்சர் டக்ளஸ் தேவானந்தா  நிலைமைகளை ஆராய்ந்துகொண்டார்.
+
+மேலும், மயிலிட்டி இறங்குதுறை பகுதியில் அதிகளவான நீண்டநாள் தொழில் மேற்கொள்ளும் ரொலர் படகுகளும் மீன்பிடி படகுகளும் தரித்து நிற்பதற்கு அனுமதிக்கப்பட்டுள்ளது.
+
+ஆனாலும் அவை நாளாந்தம் தொழில் நடவடிக்கைகளை மேற்கொளும் படகுகள் எரிபொருள் நிரப்புவதிலும் படகுககளை கரை சேர்ப்பதிலும் பல அசௌகரியங்களை உண்டுபண்ணி வருகின்றன.
+
+...
+
+[Data](articles/05a48fa2.json)
+
+---
 
 ### Baltimore bridge collapse: Insurance loss could hit $3 billion
 
@@ -100,6 +134,8 @@ However, the tax came under fire due to being slapped at midnight as tax payers 
 
 [Data](articles/d9142e6d.json)
 
+[Extended Data](ext_articles/d9142e6d.ext.json)
+
 ---
 
 ### Insurance profit of the collapsed bridge exceeds $ 3 billion
@@ -123,6 +159,42 @@ The cost of $ 60 million has been allocated from federal emergency funds to reco
 [Data](articles/18505193.json)
 
 [Extended Data](ext_articles/18505193.ext.json)
+
+---
+
+### வலிந்து காணாமலாக்கப்படல்கள் தொடர்பில் பொறுப்புக்கூறலை உடன் உறுதிப்படுத்தவேண்டிய நிலையில் இலங்கை - சர்வதேச மன்னிப்புச்சபை வலியுறுத்தல்
+
+*2024-03-30 08:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179999) · `ta`
+
+இலங்கையைப் பொறுத்தமட்டில் வலிந்து காணாமலாக்கப்படல்கள் தொடர்பில் உடனடியாகப் பொறுப்புக்கூறல் நிலைநாட்டப்படவேண்டும் என்பதுடன், இவ்வாறான சம்பவங்கள் மீண்டும் நிகழாதிருப்பதை உறுதிசெய்யவேண்டியது அவசியம் என சர்வதேச மன்னிப்புச்சபை வலியுறுத்தியுள்ளது.
+
+'தெற்காசியப் பிராந்தியத்தில் வலிந்து காணாமலாக்கப்படல் சம்பவங்களின் தடங்கள்' எனும் தலைப்பில் சர்வதேச மன்னிப்புச்சபையினால் வெளியிடப்பட்டிருக்கும் தரவு அறிக்கையில் மேலும் கூறப்பட்டிருப்பதாவது:
+
+இலங்கையின் கறைபடிந்த வலிந்து காணாமலாக்கப்படல் வரலாறு மனித உரிமைகள் வலுவாகப் புறந்தள்ளப்படுவதைக் காண்பிக்கின்றது. அத்தோடு சுமார் 60,000 - 100,000 வலிந்து காணாமலாக்கப்படல் சம்பவங்கள் பதிவாகியிருக்கும் இலங்கை, உலகிலேயே அதிக எண்ணிக்கையான வலிந்து காணாமலாக்கப்படல் சம்பவங்கள் இடம்பெற்ற நாடுகளின் பட்டியலில் இரண்டாவது இடத்தில் உள்ளது.
+
+இலங்கை அரசாங்கமானது பல தசாப்தகாலமாக தீவிரவாதத்தைத் தோற்கடித்து, தேசிய பாதுகாப்பை உறுதிப்படுத்தல்' என்ற போர்வையில் அரச பயங்கரவாதத்தை பிரயோகிப்பதற்கான ஆயுதமாக வலிந்து காணாமலாக்குவதைப் பயன்படுத்திவந்திருக்கின்றது.
+
+...
+
+[Data](articles/19e5a851.json)
+
+---
+
+### நடிகர் டேனியல் பாலாஜி காலமானார் ; கண்கள் தானம் அளிக்கப்பட்டன
+
+*2024-03-30 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/179998) · `ta`
+
+தென்னிந்திய பிரபல வில்லன் நடிகர் டேனியல் பாலாஜி திடீரென மாரடைப்பால் உயிரிழந்த நிலையில், அவரது கண்கள் தானம் அளிக்கப்பட்டுள்ளன.
+
+டேனியல் பாலாஜி தமிழ் சினிமாவில் தனது தனித்துவமான நடிப்பு மூலம் ரசிகர்கள் மனதில் நீங்காத இடம் பிடித்தவர். சிரியலில் அறிமுகமான இவர் அதன் பிறகு பல திரைப்படங்களில் அட்டகாசமான நடிப்பை வெளிப்படுத்தியவர்.
+
+குறிப்பாக காக்க காக்க, வேட்டையாடு விளையாடு, பொல்லாதவன், வடசென்னை உள்ளிட்ட படங்களில் அவரது நடிப்பை இன்றளவும் பலரும் புகழ்ந்து பேசுவார்கள். இது தவிரப் பைரவா, வட சென்னை உள்ளிட்ட பல படங்களில் அவர் நடித்துள்ளார்.
+
+இப்படி தமிழ் சினிமாவில் முக்கிய நடிகராக வலம் வந்த டேனியல் பாலாஜிக்கு நேற்றிரவு திடீரென நெஞ்சு வலி ஏற்பட்டுள்ளது. இதையடுத்து, உடனடியாக அவர் கொட்டிவாக்கத்தில் உள்ள தனியார் வைத்தியசாலைக்குச் சிகிச்சைக்காக அழைத்துச் செல்லப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/4e366a24.json)
 
 ---
 
@@ -2167,95 +2239,5 @@ They were confiscated under Clause 7(01) of the Money Laundering Act.
 [Data](articles/dde04983.json)
 
 [Extended Data](ext_articles/dde04983.ext.json)
-
----
-
-### Police confiscate vehicles, property worth over Rs. 1,100 mn
-
-*2024-03-29 14:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-confiscate-vehicles-property-worth-over-Rs-1-100-mn/108-279829) · `en`
-
-Colombo, March 29 (Daily Mirror)- A fleet of vehicles and property worth over Rs. 1,100 million have been confiscated by the Police Illegal Assets and Property Investigation Unit today.
-
-Police said a freezer truck, two motorbikes, two three-wheelers, a van, a backhoe and three fishing trawlers are among the vehicles that were confiscated.
-
-The vehicles and property had been taken into custody on January 21, 26 and March 27.
-
-They were confiscated under Clause 7(01) of the Money Laundering Act.
-
-◼️
-
-[Data](articles/ed0c582b.json)
-
-[Extended Data](ext_articles/ed0c582b.ext.json)
-
----
-
-### Two prisoners in Anuradhapura prison
-
-*2024-03-29 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195071) · `si`
-
-Two prisoners from Anuradhapura Prison escaped today. One from Sravasthipura, the other from Kelaniya. They changed clothes and are being searched for by prison officers and police.
-
-🟩
-
-Two prisoners served at the cafeteria opened at the Anuradhapura Prison have fled the area today (29).
-
-The suspect is residents of Sravasthipura area in Anuradhapura and the other suspect in the Kelaniya.
-
-It is reported that the two prison clothes were removed and other clothes were pulled.
-
-It is reported that the Anuradhapura Prison officers and the police have launched an operation in search of prisoners.
-
-◼️
-
-[Data](articles/d80d99c0.json)
-
-[Extended Data](ext_articles/d80d99c0.ext.json)
-
----
-
-### The foreigner who was married to Sirippa
-
-*2024-03-29 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195070) · `si`
-
-A foreigner, a 25-year-old from Mumbai, fell into a precipice on the Ratnapura-Sri Pada road, Sri Pada Road, Ratnapura-Sri Pada. The Maskeliya Police Special Task Force rescued and hospitalized the victim. The incident occurred on 29th at 4.45 am.
-
-🟩
-
-In the Ratnapura-Sri Pada, Sri Pada Road, a collaborative person has fallen into the precipice.
-
-Maskeliya Police Special Task Force has taken steps to rescue and hospitalized the foreigner.
-
-The injured were a 25 year old youth, a resident of Maumbai, Jarzhtra, India.
-
-The victim was traveling to the Sri Pada Udamuel along the Ratnapura-Sri Pada road today (29) at around 4.45 am today.
-
-Accordingly, officials of the Police Add Statistic Officers who were immediately implemented by the police office officials, the young man who had taken an induced the precipitate.
-
-Nallathaniya police station and the casual was taken to the Nalluthaniya.
-
-◼️
-
-[Data](articles/3e32d1f1.json)
-
-[Extended Data](ext_articles/3e32d1f1.ext.json)
-
----
-
-### In the political arena, South Asian women face similar hurdles
-
-*2024-03-29 14:00:00* · [`economynextcom`](https://economynext.com/in-the-political-arena-south-asian-women-face-similar-hurdles-156527/) · `en`
-
-ECONOMYNEXT – In South Asia, women face similar hurdles when breaking into the male-dominated political arena, a webinar on Empowering Voices: Exploring the Political Landscape for Women in South Asia heard.
-
-Across the region, more often than not, women are nominated to fill a seat falling vacant by the death of a male family member, as the party leadership made up of men is confident of winning on the ‘sympathy vote,’ or simply to fill a quota, and not for their qualifications and capabilities.
-
-In Sri Lanka, despite a hard-won battle for a 25 per cent quota for women at the Local Government level six years ago, the drive to have more women at decision making levels continues. It is yet to be seen if the new electoral system at the provincial level will yield the results women seek. Representation of women in the Sri Lankan Parliament is a dismal 5.3 per cent (only 12 of the 225 MPs are women), Dr Sudharshani Fernandopulle, MP pointed out.
-
-...
-
-[Data](articles/bdb0f3d4.json)
-
-[Extended Data](ext_articles/bdb0f3d4.ext.json)
 
 ---

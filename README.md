@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 10:51:52**
+As of **2024-03-30 11:03:16**
 
 ## Newspaper Stats
 
-*Scraped **16,019** Articles*
+*Scraped **16,022** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,59 @@ colombotelegraphcom | 143
 bbccomsinhala | 170
 dbsjeyarajcom | 198
 newsfirstlk | 363
-dailyftlk | 862
+dailyftlk | 863
 economynextcom | 881
 islandlk | 887
 adalk | 1,342
 tamilmirrorlk | 1,913
-adaderanalk | 1,927
+adaderanalk | 1,928
 virakesarilk | 2,280
-dailymirrorlk | 2,475
+dailymirrorlk | 2,476
 adaderanasinhalalk | 2,578
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,016 (100.0%) of 16,019 articles have been extended.
+16,019 (100.0%) of 16,022 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### Measures taken to limit egg imports from India
+
+*2024-03-30 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98301/measures-taken-to-limit-egg-imports-from-india) · `en`
+
+Sri Lanka Association of Animal Production says it is possible to supply chicken and eggs without any shortage during the upcoming festive season.
+
+President of the association Ajith Gunasekara expressed that it is also possible to sell frozen chicken at Rs. 1,000.
+
+Meanwhile, steps have been taken to limit the import of eggs from India, according to State Trading Corporation.
+
+Its chairman Asiri Walisundara mentioned that nearly 04 million imported eggs would be released to the market during the upcoming festive season.
+
+◼️
+
+[Data](articles/723a5dc6.json)
+
+---
+
+### Top webinar today on “The FTA Pathway: Exploring Sri Lanka’s Export and FDI Potential”
+
+*2024-03-30 10:37:49* · [`dailyftlk`](https://www.ft.lk/business/Top-webinar-today-on-The-FTA-Pathway-Exploring-Sri-Lanka-s-Export-and-FDI-Potential/34-760114) · `en`
+
+The Daily FT, SLID, ACCA and The International Chamber of Commerce Sri Lanka together with Board of Investment of Sri Lanka, MBA Association of University of Colombo and CIMA will be conducting a webinar on “The FTA Pathway: Exploring Sri Lanka’s Export and FDI Potential.” The webinar will be aired live today 30 March from 4 p.m. onwards.
+
+The webinar will feature experts from both Sri Lanka and abroad who possess in-depth knowledge of the subject matter.
+
+The keynotes will be delivered by Foreign Minister Ali Sabry, Indian High Commissioner Santosh Jha, and World Bank’s former trade economist Dr. Nihal Pitigala.
+
+...
+
+[Data](articles/b0cfaf1f.json)
+
+---
 
 ### Indian fishermen threaten to boycott Lok Sabha election over arrests Sri Lanka Navy
 
@@ -48,23 +82,33 @@ In the past one week, a court in Jaffna, Sri Lanka, has sentenced three boat dri
 
 [Data](articles/06435022.json)
 
+[Extended Data](ext_articles/06435022.ext.json)
+
 ---
 
-### முல்லைத்தீவு முள்ளியவளையில் வீட்டு காணிக்குள் பைப்லைன் செய்து சாராய விநியோகம் ;  ஒருவர் கைது
+### Bible distribution in Mullaitivu MulliyawalaiArrest
 
 *2024-03-30 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180003) · `ta`
 
-முள்ளியவளையில் வீட்டு காணி ஒன்றில் பைப்லைன் மூலமாக சட்டவிரோத கசிப்பு உற்பத்தி செய்து சாராய விநியோகத்தில் ஈடுபட்ட குடும்பஸ்தர் பொலிஸாரால் கைது செய்யட்டுள்ளார்.
+In Mulliyawalai, a family member involved in illegal leakage production was arrested. The police found a water-fitting pipeline in the land, leading to the arrest. The man was released on bail and had been selling the leakage.
 
-முல்லைத்தீவு மாவட்டத்தின் முள்ளியவளை பொலிஸ் பிரிவிற்குட்பட்ட மாமூலை நீலகண்டபுரம் கிராமத்தில் சட்டவிரோத கசிப்பு உற்பத்தி மற்றும் விற்பனை இடம்பெற்று வருவதாக முள்ளியவளை பொலிசாருக்கு கிடைத்த தகவலின் அடிப்படையில் குறித்த பகுதியில் தேடுதல் நடத்திய பொலிசார்.
+🟩
 
-வீட்டின் உரிமையாளர் ஒருவர் அவரது காணிக்குள் நீர் பொருத்தும் பைப்லைன் செய்த மாதிரி  கோடா உற்பத்தி செய்து சட்டவிரோத கசிப்பு காச்சி விற்பனையில் ஈடுபட்டு வந்துள்ளமை தெரியவந்துள்ளது.
+A family member who was involved in alcoholism has been arrested by the police for producing illegal leakage through a pipeline in a home land in Mulliyawalai.
 
-குறித்த வீட்டிற்குள் சென்ற பொலிஸார் அங்கு நிலத்தில் புதைக்கப்பட்ட சட்டவிரோத மதுபானமான கோடாவினை அதன் மேல் பைப்லைன் செய்து வைத்துள்ளமை கண்டறியப்பட்டுள்ளதுடன், இரு பெரல் கோடா இதன்போது மீட்கப்பட்டுள்ளதுடன், வீட்டின் உரிமையாளரை கைதுசெய்த முள்ளியவளை பொலிஸார் மீட்கப்பட்ட சான்று பொருட்களையும் சந்தேக நபரையும் இன்று சனிக்கிழமை (30) மாவட்ட நீதிமன்றில் முன்னிலைப்படுத்தும் நடவடிக்கையில் பொலிஸார் ஈடுபட்டுள்ளார்கள்.
+The police searched the area on the basis of information received by the Mulliyawalai police that illegal leakage production and sale were being carried out in the village of Mamooli, the Mullaitivu police division of the Mullaitivu district.
 
-...
+It has been revealed that the owner of the house has been involved in illegal leakage sales by producing a water -fitting pipeline in his land.
+
+The police who went into the house have been found to have put on top of the land and have been found on top of the land and two peril Koda has been rescued.
+
+Investigations have revealed that the man has already been arrested and released on bail, and has been selling the leakage kachi in the house, which has been buried in the ground, which has been buried in the ground, which has been buried in the ground.
+
+◼️
 
 [Data](articles/d3a334cc.json)
+
+[Extended Data](ext_articles/d3a334cc.ext.json)
 
 ---
 
@@ -81,6 +125,8 @@ Owing to the situation, at least 25 train journeys on the Coastal Line are facin
 ◼️
 
 [Data](articles/afd286bf.json)
+
+[Extended Data](ext_articles/afd286bf.ext.json)
 
 ---
 
@@ -151,6 +197,24 @@ The operations have been carried out about 90 nautical miles away from the India
 [Data](articles/8d88d380.json)
 
 [Extended Data](ext_articles/8d88d380.ext.json)
+
+---
+
+### An early General Election will create political unrest: Ruwan
+
+*2024-03-30 09:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/An-early-General-Election-will-create-political-unrest-Ruwan/108-279877) · `en`
+
+Colombo, March 30 (Daily Mirror) - An early General Election will create political unrest as the ultimate result of it would be a hung Parliament, UNP Deputy Leader Ruwan Wijewardene said yesterday.
+
+Mr. Wijewardene came up with this remark when speaking to journalists after meeting the Mahanayaka Theras of Asgiriya and Malwatta chapters in Kandy.
+
+“No party will get a majority in Parliament at a General Election and this will result in a political crisis.there would be a turnaround of the stability in Sri Lanka that the government has managed to earn, in the event of an early General Election,” Mr. Wijewardene said.
+
+Mr. Wijewardene also stated that some in the SLPP and even in opposition parties including SJB favour an early General Election. President Ranil Wickremesinghe’s idea is to hold a Presidential Election first in accordance with the constitution.
+
+...
+
+[Data](articles/9921c565.json)
 
 ---
 
@@ -2185,71 +2249,5 @@ They will sign the contracts for the project and begin work by June. Discussions
 [Data](articles/c03ebc11.json)
 
 [Extended Data](ext_articles/c03ebc11.ext.json)
-
----
-
-### Sri Lanka’s voters will be overjoyed by NPP govt’s first cabinet decision: ex MP
-
-*2024-03-29 15:20:00* · [`economynextcom`](https://economynext.com/sri-lankas-voters-will-be-overjoyed-by-npp-govts-first-cabinet-decision-ex-mp-156578/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s voters watching the evening news on the first day of a National People’s Power (NPP) government will be overjoyed to the point of dropping their dinner upon hearing the first ever cabinet decision of the new government, a spokesman said.
-
-Former parliamentarian and NPP executive member Samatnha Vidyaratne told a crowd of supporters that the first decision taken at an NPP government’s inaugural cabinet meeting will be to suspend pensions and official residences given to former presidents.
-
-“Once we have formed a government through your vote, you can learn on the evening news about the decisions taken at the first cabinet meeting. If you’re sitting down with your plate of rice, be careful, because you’ll be so overjoyed you might drop your plate,” said Vaidyaratne.
-
-...
-
-[Data](articles/586a8f40.json)
-
-[Extended Data](ext_articles/586a8f40.ext.json)
-
----
-
-### Chinese car that challenges Tesla
-
-*2024-03-29 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195073) · `si`
-
-A Chinese electric car, priced at $29,872 (Yuan 215,900), challenges Tesla's market dominance. Critics argue the global demand for electric cars has decreased, but this model competes on price. Tesla's similar model in China is priced at 245,000 yuc.
-
-🟩
-
-The electronic cars of China in China have begun orders.
-
-The model of the car has been mentioned as $ 29,872 (Yuan 215,900).
-
-Critics say that the demand for electrical cars in the world market was reduced to the market.
-
-It preserves the match for the price of the price in the market.
-
-Tesla has issued a similar electronic car to the Chinese market, which is the price of 245,000 yuc.
-
-◼️
-
-[Data](articles/d24c0e11.json)
-
-[Extended Data](ext_articles/d24c0e11.ext.json)
-
----
-
-### Tourist rescued after falling down Sri Pada precipice
-
-*2024-03-29 15:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-rescued-after-falling-down-Sri-Pada-precipice/108-279832) · `en`
-
-Ratnapura, March 29 (Daily Mirror)- An Indian tourist who fell down a more than 100 metre precipice at the Ehela Kanuwa, Ratnapura-Sri Pada route in the early hours of this morning was rescued by a team from the Maskeliya Police Special Task Force (STF) camp.
-
-Police said the tourist Bharath Chandradas (25) from Mumbai Maharastra had been trekking to Sri Pada along the Ratnapura route with several others when he fell off the protective fence down the precipice at about 5.00 am today.
-
-On information from the Udamaluwa police post, the STF rushed to the scene and rescued the tourist and provided first aid.
-
-Later, he was carried to Nallathanniya and from there admitted to hospital.
-
-PC 76216 Pathmasiri, PC 99695 Prathish and PC 102687 Ajith of the STF carried out the rescue operation.
-
-◼️
-
-[Data](articles/f3411249.json)
-
-[Extended Data](ext_articles/f3411249.ext.json)
 
 ---

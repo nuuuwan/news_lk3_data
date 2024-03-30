@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 11:52:24**
+As of **2024-03-30 12:03:15**
 
 ## Newspaper Stats
 
-*Scraped **16,029** Articles*
+*Scraped **16,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,44 @@ bbccomsinhala | 170
 dbsjeyarajcom | 198
 newsfirstlk | 363
 dailyftlk | 863
-economynextcom | 881
+economynextcom | 882
 islandlk | 887
 adalk | 1,342
 tamilmirrorlk | 1,913
 adaderanalk | 1,929
 virakesarilk | 2,282
-dailymirrorlk | 2,478
+dailymirrorlk | 2,479
 adaderanasinhalalk | 2,580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,029 (100.0%) of 16,029 articles have been extended.
+16,029 (100.0%) of 16,031 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### China, Sri Lanka ink MoU on conformity assessment cooperation
+
+*2024-03-30 11:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/China-Sri-Lanka-ink-MoU-on-conformity-assessment-cooperation/108-279879) · `en`
+
+China, March 30 (China Daily) - The China Quality Certification Center and the Sri Lanka Bureau of Standards signed a Memorandum of Understanding on Friday on mutual recognition of conformity assessment results at a ceremony held in Shanghai.
+
+Dinesh Gunawardena, prime minister of Sri Lanka, hailed the signing of the agreement as a milestone in China-Sri Lanka cooperation, facilitated by the two countries' joint efforts to establish closer ties.
+
+It will help promote mutual recognition of quality certification systems between the two nations, providing more convenient services for bilateral trade and investment, said Gunawardena.
+
+"This will elevate product quality and competitiveness in both nations, fostering economic prosperity while deepening friendship and welfare for our peoples," he added.
+
+The prime minister also awarded Du Chao, general manager of Hualan Inspection Company Sri Lanka, as ambassador for investment promotion.
+
+...
+
+[Data](articles/505db202.json)
+
+---
 
 ### Karuna resolution to support Ranil
 
@@ -1644,6 +1664,22 @@ Sujeewa Rajapakse, the Chairman of People’s Bank said he was pleased with the 
 
 ---
 
+### Sri Lanka’s People’s Bank posts Rs19.3bn pre-tax profit
+
+*2024-03-29 20:02:00* · [`economynextcom`](https://economynext.com/sri-lankas-peoples-bank-posts-rs19-3bn-pre-tax-profit-156599/) · `en`
+
+ECONOMYNEXT – People’s Bank, Sri Lanka’s second largest state bank by assets, posted 96.8 rupees consolidated operating income and 19.3 billion rupees of pre-tax profit for the financial year ended December 31, 2023, the Bank said in a statement.
+
+The net interest income, however, slipped to 67.8 billion rupees during the year from the previous year’s 91 billion rupees, reflecting high interest costs on term deposit funding due to the high interest rate environment prevailed in 2022 and early 2023 as well as significant interest concessions extended to the customers, it said.
+
+Sujeewa Rajapakse, the Chairman of People’s Bank said he was pleased with the Bank’s overall performance on both quantitative and qualitative front considering the added burden shouldered as a State Bank – amid the most challenging set of circumstances over the past four years.
+
+...
+
+[Data](articles/f1c29eb4.json)
+
+---
+
 ### Property of banned powder Noky
 
 *2024-03-29 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195082) · `si`
@@ -2191,47 +2227,5 @@ Hardik Pandya received a hostile reception from the crowd in Ahmedabad and Hyder
 [Data](articles/50db6ab9.json)
 
 [Extended Data](ext_articles/50db6ab9.ext.json)
-
----
-
-### MI skipper Pandya shoves off Malinga after losing to SRH, netizens slam his behaviour
-
-*2024-03-29 16:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MI-skipper-Pandya-shoves-off-Malinga-after-losing-to-SRH-netizens-slam-his-behaviour/108-279833) · `en`
-
-Mar. 29 (FPJ) - Hardik Pandya received a hostile reception from the crowd in Ahmedabad and Hyderabad as he was booed during the toss and also subjected to jeers throughout the match.
-
-Mumbai Indians skipper Hardik Pandya has been in the news for all the wrong reasons ever since the start of the team's campaign in the Indian Premier League (IPL) 2024. Pandya faced a backlash from MI fans for replacing Rohit Sharma as a captain.
-
-Does Hardik Pandya kicked Lasith Malinga? His hands, face reaction same story.
-
-Not a good way to treat legend like Lasith Malinga. #HardikPandya #SRHvMI pic.twitter.com/Yg5a5hNRTE
-
-Hardik Pandya received a hostile reception from the crowd in Ahmedabad and Hyderabad as he was booed during the toss and also subjected to jeers throughout the match. To make it worse, the all-rounder didn't have a good start to start to his captaincy debut with Mumbai Indians as the five-time IPL champions lost to two back to back of the ongoing IPL season.
-
-...
-
-[Data](articles/f634a540.json)
-
-[Extended Data](ext_articles/f634a540.ext.json)
-
----
-
-### Sri Lanka president must priortise debt restructuring, stability over Rajpaksas: Patali
-
-*2024-03-29 16:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-must-priortise-debt-restructuring-stability-over-rajpaksas-patali-156581/) · `en`
-
-ECONOMYNEXT — President Ranil Wickremesinghe must decide between sending the Rajapaksas back to parliament and restructuring debt by June to stabilise the country for the next decade, opposition MP Patali Champika Ranawaka said.
-
-Speaking to reporters, Ranawaka said Basil Rajapaksa, the ideologue of the ruling Sri Lanka Podujana Peramuna (SLPP), is well aware that his party cannot come into power through the presidential due to be held between September 17 and October 17 this year.
-
-“Basil knows the Rajapaksas can’t come into power again through this election, so he’s trying to see if they can somehow hold a general election before that and enter parliament,” said Ranawaka.
-
-“The president must decide what’s important, whether to send five Rajapaksas to parliament or to speak to our creditors and restructure our external debt by June and stabilise the country for the next decade,” he said.
-
-...
-
-[Data](articles/b83619d0.json)
-
-[Extended Data](ext_articles/b83619d0.ext.json)
 
 ---

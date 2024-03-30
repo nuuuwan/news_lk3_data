@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 08:03:09**
+As of **2024-03-30 08:18:11**
 
 ## Newspaper Stats
 
-*Scraped **15,992** Articles*
+*Scraped **15,994** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 862
 economynextcom | 879
 islandlk | 887
 adalk | 1,342
-tamilmirrorlk | 1,909
+tamilmirrorlk | 1,911
 adaderanalk | 1,922
 virakesarilk | 2,276
 dailymirrorlk | 2,470
@@ -26,11 +26,43 @@ adaderanasinhalalk | 2,572
 
 Extensions include translations and NER (Named Entity Recognition).
 
-15,992 (100.0%) of 15,992 articles have been extended.
+15,992 (100.0%) of 15,994 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### நடிகர் டேனியல் பாலாஜி காலமானார்
+
+*2024-03-30 08:07:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகர்-டேனியல்-பாலாஜி-காலமானார்/175-335359) · `ta`
+
+மாரடைப்பு காரணமாக கொட்டிவாக்கத்தில் உள்ள தனியார் வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் அவர் சிகிச்சை பலனின்றி உயிரிழந்துள்ளார் என தெரிவிக்கப்படுகின்றது.
+
+48 வயதான டேனியல் பாலாஜி காக்க காக்க, வேட்டையாடு விளையாடு, பைரவா, பொல்லாதவன் உள்ளிட்ட பல தமிழ் திரைப்படங்களில் நடித்துள்ளார்.
+
+தமிழ் மட்டுமல்லாது மலையாளம், தெலுங்கு, கன்னடம் ஆகிய மொழி திரைப்படங்களிலும் இவர் நடித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/767b560f.json)
+
+---
+
+### 25 ரயில் சேவைகள் இரத்து
+
+*2024-03-30 07:52:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/25-ரயில்-சேவைகள்-இரத்து/175-335358) · `ta`
+
+கரையோர மார்க்கத்தில் இன்றைய தினம் 25 ரயில் சேவைகள் இரத்து செய்யப்படுவதாக ரயில்வே  திணைக்களத்தின் பிரதிப் பொது முகாமையாளர் என்.ஜே.இந்திபொல தெரிவித்துள்ளார்.
+
+பம்பலப்பிட்டி ரயில் நிலையத்திற்கு அருகில் மேற்கொள்ளப்பட்டு வரும் அபிவிருத்திப் பணிகள் காரணமாக இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக அவர்  தெரிவித்துள்ளார்.
+
+அதேநேரம் கொழும்பில் இருந்து வெள்ளவத்தை வரை ஒரு மார்க்கத்தில் மாத்திரம் தொடருந்து சேவை இடம்பெறுவதாகவும் தொடருந்து திணைக்களத்தின் பிரதிப் பொது முகாமையாளர் என்.ஜே.இந்திபொல தெரிவித்துள்ளார்.  (a)
+
+◼️
+
+[Data](articles/b956a8e5.json)
+
+---
 
 ### Train delay still on the coastal road still informed of passengers
 
@@ -2235,45 +2267,5 @@ When you ask Gotabhaya Rajapaksa as the mastermind, the question is that the ble
 [Data](articles/b367aeb7.json)
 
 [Extended Data](ext_articles/b367aeb7.ext.json)
-
----
-
-### Bunker demand surges in Sri Lankan ports as India grapples with supply shortages
-
-*2024-03-29 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98285/bunker-demand-surges-in-sri-lankan-ports-as-india-grapples-with-supply-shortages) · `en`
-
-In the wake of vessel re-routings aimed at avoiding the Red Sea, bunker demand across ports in both India and Sri Lanka has witnessed a significant surge, highlighting a growing challenge for the maritime industry. While India contends with supply shortages, Sri Lankan ports are experiencing a notable increase in activity.
-
-According to S&P Global Commodity Insights, the demand spike, estimated to be over 30 per cent in ports across India and Sri Lanka, has been primarily attributed to longer voyages undertaken by ship owners and charters to circumvent the Red Sea region. Consequently, ports on India’s west coast, particularly Kochi and Mumbai, are grappling with disrupted VLSFO (Very Low Sulfur Fuel Oil) supplies, exacerbating the situation.
-
-...
-
-[Data](articles/094641f5.json)
-
-[Extended Data](ext_articles/094641f5.ext.json)
-
----
-
-### Sri Lanka PA
-
-*2024-03-29 12:09:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிளவை-நோக்கிச்-செல்லும்-ஸ்ரீலங்கா-பொதுஜனபெரமுன/175-335341) · `ta`
-
-Sri Lanka PA's internal conflict over presidential candidate. Rajapaksa faction urges party to support Wickremesinghe. Executive committee meeting highlights tension. MPs, in government, insist on Wickremesinghe's backing if he runs.
-
-🟩
-
-The Sri Lankan PA has been in a state of disrepair due to the firmness of the party and other parties that the party should field a candidate in the presidential election and other parties to support President Ranil Wickremesinghe.
-
-The party in favor of the Rajapaksa family of the Sri Lanka PA has said that the party should stop its own candidate and contest the election.
-
-The comment has been made at the meeting of the party's executive committee - however, the party has not yet been seriously investigated as the election date has not been announced.
-
-Meanwhile, MPs of the PA, who holds cabinet posts in the government, have a firm position that President Ranil Wickremesinghe should support him if he contests the election.. Remble
-
-◼️
-
-[Data](articles/b167a3c0.json)
-
-[Extended Data](ext_articles/b167a3c0.ext.json)
 
 ---

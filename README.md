@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 20:51:20**
+As of **2024-03-30 21:03:12**
 
 ## Newspaper Stats
 
-*Scraped **16,076** Articles*
+*Scraped **16,077** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 882
 islandlk | 887
 adalk | 1,342
 tamilmirrorlk | 1,921
-adaderanalk | 1,940
+adaderanalk | 1,941
 virakesarilk | 2,286
 dailymirrorlk | 2,483
 adaderanasinhalalk | 2,596
@@ -26,25 +26,45 @@ adaderanasinhalalk | 2,596
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,075 (100.0%) of 16,076 articles have been extended.
+16,076 (100.0%) of 16,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
 
-### වගාව රැකදෙන LED බල්බ් එකක්
+### China-Sri Lanka Trade: MOU signed to align export standards
+
+*2024-03-30 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98314/china-sri-lanka-trade-mou-signed-to-align-export-standards) · `en`
+
+Sri Lanka’s Prime Minister Dinesh Gunawardena has called for closer economic cooperation with China. He made the comments during an official visit to Shanghai on Friday. China’s national Quality Certification Center and Sri Lanka’s Bureau of Standards signed an MOU to better align trade standards. China is Sri Lanka’s second-largest trading partner and the country’s second-largest source of imports.
+
+Dinesh Gunawardena, Sri Lankan Prime Minister said: “We have to abide by the quality requirements that are needed. Therefore, China’s advanced quality requirements for Sri Lankan exports into China will also need more cooperation and working together for which so many discussions have been held. We hope this area will be able to pursue faster so that Sri Lankan products could come into China on the approved agreements and approved standards.”
+
+...
+
+[Data](articles/220269f7.json)
+
+---
+
+### A LED bulb protecting cultivation
 
 *2024-03-30 20:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195114) · `si`
 
-වගාවන්ට හානිකරන කෘමි සතුන් හේතුවෙන් සෑම වසරකම මෙරට සැලකිය යුතු අස්වනු ප්‍රමාණයක් අහිමිවී විනාශ වෙයි.
+Sri Lanka's LED bulb solution protects crops from insects, reducing annual losses and environmental damage.
 
-මීට විසඳුමක් ලෙස ගොවීන් විවිධ කෘෂි රසායන ද්‍රව්‍ය භාවිත කිරීම හේතුවෙන් පාරිසරික ගැටලු සහ දැඩි සෞඛ්‍ය ගැටලු මතු කරන බව නොරහසකි.
+🟩
 
-මීට සාර්ථක විසඳුමක් ලබාදෙමින් වගා හානිකරන සලබ විකර්ෂක LED බල්බයක් හඳුන්වා දෙන්නට මෙරට ආයතනයක් සමත් වී තිබේ.
+Due to insects that are harmful to cultivation, the country will lose a considerable number of residues every year.
+
+It is no secret that farmers raise environmental problems and severe health problems as a solution is a solution.
+
+Sri Lanka has introduced a crop damaged rebarded bulb in a successful solution.
 
 ◼️
 
 [Data](articles/64503536.json)
+
+[Extended Data](ext_articles/64503536.ext.json)
 
 ---
 
@@ -107,6 +127,8 @@ Meanwhile, “Ada Derana Kids Academy” program on Ada Derana 24 produced by K.
 Child actress Sindagana Cooray also won a Certificate of Jury Merit for her performance in the “Helyan” teledrama aired on TV Derana.
 
 Derana Dream Star, the Sri Lankan reality television series was awarded as the Best Television Reality Programme of the Year. Dream Star which was launched in the year 2008 has presented over 11 seasons since the beginning.
+
+In the meantime, the Best Teledrama Singer of the Year award was won by Piyumi Bhagya Wanninayaka for the “Sanka Hanga” song in “Rosa Sudui Adariye” teledrama telecasted on TV Derana.
 
 ◼️
 
@@ -2239,25 +2261,5 @@ According to The Telegraph, he compared the West with the Devil and said, “We 
 [Data](articles/42ed81a9.json)
 
 [Extended Data](ext_articles/42ed81a9.ext.json)
-
----
-
-### Another massive setback for Afghan women as Taliban vows to publicly stone them to death
-
-*2024-03-29 23:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98296/another-massive-setback-for-afghan-women-as-taliban-vows-to-publicly-stone-them-to-death) · `en`
-
-The plight of women in Afghanistan is expected to get worse. The Taliban regime has vowed to “start public stoning of women to death”, an act that the group’s Supreme Leader, Hibatullah Akhundzada, claims is “in the name of God”.
-
-Taliban, who took control of the country in 2021, have already been carrying out public floggings and executions. These brutal punishments are doled out even for crimes like thefts and robberies.
-
-Now, Akhundzada, in an audio message, has said that women committing adultery will be stoned to death. In the message, released by the Taliban-run state media, he addresses the West, saying, “We will soon implement the punishment for adultery. We will flog women in public. We will stone them to death in public. These are all against your democracy, but we will continue doing it.”
-
-According to The Telegraph, he compared the West with the Devil and said, “We both say we defend human rights – we do it as God’s representative and you as the Devil’s.”
-
-...
-
-[Data](articles/4984492f.json)
-
-[Extended Data](ext_articles/4984492f.ext.json)
 
 ---

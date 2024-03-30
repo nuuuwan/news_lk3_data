@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 13:52:31**
+As of **2024-03-30 14:03:03**
 
 ## Newspaper Stats
 
-*Scraped **16,046** Articles*
+*Scraped **16,047** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ tamilmirrorlk | 1,917
 adaderanalk | 1,932
 virakesarilk | 2,286
 dailymirrorlk | 2,480
-adaderanasinhalalk | 2,582
+adaderanasinhalalk | 2,583
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,040 (100.0%) of 16,046 articles have been extended.
+16,046 (100.0%) of 16,047 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,41 +46,75 @@ The SLFP’s executive committee meeting was chaired by the party leader, former
 
 [Data](articles/62b62dd0.json)
 
+[Extended Data](ext_articles/62b62dd0.ext.json)
+
 ---
 
-### சிறுவர்களிடையே தீவிரமாக பரவும் நோய் - வைத்தியர் எச்சரிக்கை
+### A serious disease among boys - doctor alert
 
 *2024-03-30 13:29:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களிடையே-தீவிரமாக-பரவும்-நோய்-வைத்தியர்-எச்சரிக்கை/175-335366) · `ta`
 
-சிறுவர்கள் மத்தியில் கை, கால், வாய் தொடர்பான தொற்று நோய்கள் பரவி வருவதாக கொழும்பு லேடி ரிட்ஜ்வே வைத்தியசாலையின் குழந்தைகள் நல வைத்தியர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+A serious disease affecting boys, spreading through infections, causes blisters in organs like fever, sore throat, mouth, arm, leg, and buttocks. Symmetrical cases show blisters in chest and back. It's infectious. If children show these signs, they shouldn't go to school.
 
-நோயினால் பீடிக்கப்பட்டுள்ள சிறுவர்களுக்கு காய்ச்சல், தொண்டை வலி, வாய், கை, கால் மற்றும் பிட்டம் முதலான உறுப்புகளில் கொப்புளங்கள் ஏற்படுகின்றன.
+🟩
 
-இது சின்னம்மை போன்றது. ஆனால், சின்னம்மை ஏற்பட்டால் மார்பு மற்றும் முதுகில் கொப்புளங்கள் தோன்றும். இது தொற்றக்கூடியது.
+Deepal Perera of the Children's Welfare of the Lady Ridgeway Hospital, Colombo, said that infections are spreading infected among children.
 
-இதுபோன்ற அறிகுறிகள் பிள்ளைகளுக்கு தென்பட்டால் அவர்களை பாடசாலைக்கு அனுப்ப வேண்டாம் எனவும் அவர் தெரிவித்தார். R
+Blisters in the organs of the disease, such as fever, sore throat, mouth, arm, leg and buttocks.
+
+It's like chinly. But, in the event of a symmetry, blisters appear in the chest and back. It is infectious.
+
+He also said that if such signs are found to the children, they should not be sent to school.. Remble
 
 ◼️
 
 [Data](articles/91921b1b.json)
 
+[Extended Data](ext_articles/91921b1b.ext.json)
+
 ---
 
-### சிறுவர்களிடையே பரவும் கை, கால், வாய் தொற்று நோய் - வைத்தியர் தீபால் பெரேரா எச்சரிக்கை!
+### ශ්‍රීලනිපයේ තනතුරුවලට අලුත් මුහුණු
+
+*2024-03-30 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195097) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජාතික සංවිධායක ධූරයෙන් ඉවත් කළ දුමින්ද දිසානායක මහතා වෙනුවට මහියංගනය ආසන සංවිධායක කේ.පී ගුණවර්ධන මහතා පත්කර තිබේ.
+
+එසේම භාණ්ඩාගාරික ධුරයෙන් ඉවත් කළ ලසන්ත අලගියවන්න මහතා වෙනුවට බස්නාහිර පළාත් සභාවේ හිටපු අමාත්‍ය හෙක්ටර් බෙත්මගේ මහතා පත්කර ඇත.
+
+පක්ෂයේ ජ්‍යෙෂ්ඨ උප සභාපති ලෙස කටයුතු කළ මහින්ද අමරවීර මහතාව ද අද එම ධුරයෙන් ඉවත් කෙරුණු අතර ඒ වෙනුවට සරත් ඒකනායක මහතාව පත් කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සියලු ආසන සංවිධායකවරුන් සහ විධායක කමිටු සාමාජිකයින්
+
+අද (30) පක්ෂ මූලස්ථානයේදී ශ්‍රීලනිප විධායක සභාව රැස්වී මෙම තීරණ ගෙන තිබේ.
+
+◼️
+
+[Data](articles/d0a5ce63.json)
+
+---
+
+### Hand, foot, mouth infection among boys - doctor Deepal Perera warns!
 
 *2024-03-30 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180020) · `ta`
 
-கை, கால், வாய் தொடர்பான தொற்று நோய்கள் சிறுவர்கள் மத்தியில் பரவி வருவதாக கொழும்பு லேடி ரிட்ஜ்வே வைத்தியசாலையின் குழந்தைகள் நல வைத்தியர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+Dr. Deepal Perera warns of hand, foot, and mouth infections spreading among children, causing symptoms like fever, sore throat, and blisters. It's infectious, similar to chickenpox, but blisters may appear in the chest and back. Children with these symptoms should not attend school.
 
-நோயினால் பீடிக்கப்பட்டுள்ள சிறுவர்களுக்கு காய்ச்சல், தொண்டை வலி, வாய், கை, கால் மற்றும் பிட்டம் முதலான உறுப்புகளில் கொப்புளங்கள் ஏற்படுகின்றன.
+🟩
 
-இது சின்னம்மை போன்றது. ஆனால், சின்னம்மை ஏற்பட்டால் மார்பு மற்றும் முதுகில் கொப்புளங்கள் தோன்றும். இது தொற்றக்கூடியது.
+Hand, foot and mouth -related infections are spreading among children, Child Welfare of the Colombo Lady Ridgeway Hospital Deepal Perera said.
 
-இதுபோன்ற அறிகுறிகள் பிள்ளைகளுக்கு தென்பட்டால் அவர்களை பாடசாலைக்கு அனுப்ப வேண்டாம் எனவும் அவர் தெரிவித்தார்.
+Blisters in the organs of the disease, such as fever, sore throat, mouth, arm, leg and buttocks.
+
+It's like chinly. But, in the event of a symmetry, blisters appear in the chest and back. It is infectious.
+
+He also said that if such symptoms are found to the children, they should not be sent to school.
 
 ◼️
 
 [Data](articles/4f00b01d.json)
+
+[Extended Data](ext_articles/4f00b01d.ext.json)
 
 ---
 
@@ -172,6 +206,8 @@ Dissanayake was the national organizer of the party while Minister Amaraweera he
 
 [Data](articles/86a0de9b.json)
 
+[Extended Data](ext_articles/86a0de9b.ext.json)
+
 ---
 
 ### April 8th full solar eclipse;Will Sri Lankans get a chance?
@@ -196,43 +232,55 @@ NASA has said that North Americans have the opportunity to observe such a rare s
 
 ---
 
-### சோமாலிய கடற்கொள்ளையர்களிடம் சிக்கிய 23 பாகிஸ்தானியர்கள் இந்திய கடற்படையினரால் மீட்பு
+### 23 Pakistanis rescued by Indian navy
 
 *2024-03-30 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180016) · `ta`
 
-மோமாலிய கடற்கொள்ளையர்களிடம் சிக்கித் தவித்த 23 பாகிஸ்தானியர்களை இந்திய கடற்படையினர் பத்திரமாக மீட்டுள்ளனர்.
+Indian Navy rescues 23 Pakistanis from Somali pirates who hijacked an Iranian fishing vessel. After 12 hours, pirates surrender, and the Pakistanis are safely rescued.
 
-அரபிக்கடல் பகுதியில் ஈரான் நாட்டுக் கொடியுடன் சென்ற மீன்பிடிக் கப்பல் ஒன்றை கடற்கொள்ளையர்கள் கடத்தியுள்ளனர்.
+🟩
 
-இதையடுத்து, இந்திய கடற்படையினர் இரண்டு கப்பல்களில் கடத்தப்ட்டவர்களை மீட்கும் முயற்சியில் களம் இறங்கியுள்ளனர்.
+Indian Navy has safely rescued 23 Pakistanis who were trapped by Momali pirates.
 
-சோமாலிய கடற்கொள்ளையர்களுக்கு இந்திய கடற்படையினர் பதிலடி கொடுத்தனர். சுமார் 12 மணி நேரத்திற்கு பிறகு, கடற்கொள்ளையர்கள் இந்திய கடற்படையினரிடம் சரண் அடைந்துள்ளனர்.
+The pirates have abducted a fishing vessel that went with the Iranian flag in the Arabian Sea.
 
-இதையடுத்து கடத்தப்பட்ட கப்பலில் இருந்த 23 பாகிஸ்தானியர்களும் பத்திரமாக மீட்கப்பட்டனர். சோமாலிய கடற்கொள்ளையர்களின் கப்பலுக்குள் நுழைந்த இந்தியக் கடற்படையினர் சோதனைகளை மேற்கொண்டுள்ளனர்.
+Following this, the Indian navy has embarked on an attempt to rescue the smugglers on two ships.
 
-இதேவேளை, 'கடந்த மார்ச் 28 ஆம் திகதி மாலை ஈரான் நாட்டை சேர்ந்த மீன்பிடிக் கப்பலான 'அல்-கம்பார் 786'ஐ சோமாலிய கடற்கொள்ளையர்கள் கடத்தியுள்ளனர். எமக்கு தகவல் கிடைத்தவுடன், அதிரடி நடவடிக்கை எடுத்து குறித்த கப்பலில் இருந்த 23 பேரையும் பத்திரமாக மீட்டுள்ளோம்' என இந்திய கடற்படை தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+Indian Navy retaliates to Somali pirates. After about 12 hours, pirates have surrendered to the Indian navy.
+
+The 23 Pakistanis were then safely rescued on the hijacked ship. The Indian navy has entered the ship of Somali pirates.
+
+Meanwhile, on the evening of March 28, the Somali pirates of Iran, the 'Al-Kambar 786' from the Iranian fishing vessel.. Once we have received the information, we have rescued the 23 people aboard the ship, ”the Indian Navy said.
 
 ◼️
 
 [Data](articles/3acdf2be.json)
 
+[Extended Data](ext_articles/3acdf2be.ext.json)
+
 ---
 
-### யாழில் குடும்பஸ்தர் சடலமாக மீட்பு
+### Family body recovery in Jaffna
 
 *2024-03-30 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180018) · `ta`
 
-யாழ்ப்பாணம் இளவாலை - வசந்தபுரம் பகுதியில் தனியாக வசித்து வந்து குடும்பஸ்தர் வெற்றுக் காணி ஒன்றில் இருந்து நேற்று வெள்ளிக்கிழமை (29) சடலமாக மீட்கப்பட்டுள்ளார்.
+A body was found in Jaffna, identified as Iyengan Sivanandarajah, a 47-year-old from Kirimalai, who had been living alone in Ilavalai-Vasanthapuram since leaving his family two months ago.
 
-கீரிமலை பகுதியைச் சேர்ந்த ஐயங்கன் சிவானந்தராஜா (வயது 47) என்பவரே சடலமாக மீட்கப்பட்டுள்ளார்.
+🟩
 
-குறித்த நபர், அவரது குடும்பத்தவர்களுடன் ஏற்பட்ட முரண்பாடு காரணமாக இரண்டு மாதங்களுக்கு முன்னர் அவர்களை பிரிந்து வந்து , இளவாலை - வசந்தபுரம் பகுதியில் உள்ள காணியில் குடிசை ஒன்றை அமைத்து தனியாக வசித்து வந்துள்ளார்.
+The body was found dead yesterday (29) from a Kudyakkadal landlord who lived alone in the Ilavalai - Vasanthapuram area of Jaffna.
 
-இந்நிலையில், அவரது குடிசைக்கு அருகாமையில் உள்ள வெற்றுக் காணி ஒன்றிலிருந்து சடலமாக மீட்கப்பட்டார்.
+The body was recovered from Iyengan Sivanandarajah (47 years old) from Kirimalai.
+
+The man has left them two months ago due to conflict with his family and lived alone in a land in the Ilavalai - Vasanthapuram area.
+
+In this case, he was recovered from a blank land near his hut.
 
 ◼️
 
 [Data](articles/2da9095b.json)
+
+[Extended Data](ext_articles/2da9095b.ext.json)
 
 ---
 
@@ -574,7 +622,7 @@ Investigations have revealed that the man has already been arrested and released
 
 *2024-03-30 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98299/dozens-of-trains-on-coastal-line-facing-cancellations-today) · `en`
 
-The Railway Department says that trains plying on the Coastal Line are continuing to experience further delays today (30) and tomorrow (31).
+The Railway Department says that trains plying on the Coastal Line are continuing to experience further delays and cancellations today (30) and tomorrow (31).
 
 Trains operation between Wellawatta and Colombo Fort railway stations have been limited to a single track due to pipeline maintenance work carried out by the Urban Development Authority (UDA).
 
@@ -2187,27 +2235,5 @@ The 81-year-old Jackan Sama of South African president from 2009 to 2018, the 81
 [Data](articles/a8025ab5.json)
 
 [Extended Data](ext_articles/a8025ab5.ext.json)
-
----
-
-### If the general election is held, no party will get a majority -UNP Deputy Leader Ruwan Wijewarden
-
-*2024-03-29 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/179983) · `ta`
-
-Ruwan Wijewardena, UNP Deputy Leader, warns that a general election in the current state would lead to economic and political instability, with no party gaining a majority. He advocates for holding the presidential election first, believing Ranil Wickremesinghe will win and can establish a stable government.
-
-🟩
-
-If the general election is held in the country's current state, no party will get a majority. In the event of such a situation, the country will again fall economically and the political stability in the country. UNP Deputy Leader Ruwan Wijewardena said that it is appropriate to hold the presidential election in the beginning.
-
-He was speaking to the media after receiving the blessings of the Malwathu and Asgiri Mahanayaka Thera on Friday (29).
-
-According to the Constitution, the presidential election should be held in September and October. The presidential election will be held accordingly. However, some parties, including the PA, are demanding the general election before the presidential election. But if the general election is held in the country, no party will get enough majority to rule.
-
-...
-
-[Data](articles/27e37f83.json)
-
-[Extended Data](ext_articles/27e37f83.ext.json)
 
 ---

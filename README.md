@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 16:02:58**
+As of **2024-03-30 16:18:03**
 
 ## Newspaper Stats
 
-*Scraped **16,055** Articles*
+*Scraped **16,058** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ dailyftlk | 863
 economynextcom | 882
 islandlk | 887
 adalk | 1,342
-tamilmirrorlk | 1,918
-adaderanalk | 1,934
+tamilmirrorlk | 1,919
+adaderanalk | 1,935
 virakesarilk | 2,286
 dailymirrorlk | 2,481
-adaderanasinhalalk | 2,587
+adaderanasinhalalk | 2,588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,055 (100.0%) of 16,055 articles have been extended.
+16,055 (100.0%) of 16,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### අමුතු ඇඳුමකින් පාරට බැස්ස පොලීසිය
+
+*2024-03-30 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195106) · `si`
+
+ජනතාව සාමාන්‍යයයෙන් දැක නැති ආකාරයේ ඇඳුමකින් සැරසී මාර්ගයට පැමිණි පොලිස් නිලධාරීන් කණ්ඩායමක් රථවාහන පරීක්ෂා කිරීම්වල නිතරවී තිබුණි.
+
+ඒ, අද (30) මහියංගනය මහනුවර ප්‍රධාන මාර්ගයේ මහවැලි පාලම අසලදී ය.
+
+උදෑසන 8 සිට දහවල් 12 දක්වා එම විශේෂ රථවාහන සෝදිසිය ක්‍රියාත්මක වුණි.
+
+මහියංගනය මාපාකඩවැව පොලිස් පුහුණු පාසලේ පුහුණුව ලබන ආධුනික පොලිස් නිලධාරීන් 240ක් "යුක්තිය" මෙහෙයුමට සමගාමීව මත්ද්‍රව්‍ය වැටලීම් සඳහා රථවාහන සහ මහජනයා පරික්ෂාව සඳහා මෙලෙස එක්වී තිබේ.
+
+රිදිමාලියද්ද, ඇකිරියන් කුඹුර, ලොග්ගල්ඔය, දඹාන 51 කණුව, වේරගංතොට පාලම අසල, සොරබොර හංදිය යන ස්ථාන 06කදී මෙම පරීක්ෂාවන් සිදුකර ඇත.
+
+මෙහි අරමුණ වී තිබුණේ අදාළ ආධුනික පොලිස් නිලධාරීන් ට පරීක්ෂා කිරීම් පිළිබඳව ප්‍රායෝගික අත්දැකීම් ලබාදීමය.
+
+◼️
+
+[Data](articles/3446a565.json)
+
+---
+
+### Sri Lanka & India review progress of bilateral projects, emphasize on timely implementation
+
+*2024-03-30 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98308/sri-lanka-india-review-progress-of-bilateral-projects-emphasize-on-timely-implementation) · `en`
+
+In a significant diplomatic development, Senior Advisor to the President on National Security and Chief of Presidential Staff Sagala Ratnayaka, led a high-level delegation in discussions to assess bilateral economic connectivity projects between Sri Lanka and India. These discussions were held in New Delhi on March 28, at the invitation of Indian Foreign Secretary Vinay Kwatra.
+
+Foreign Secretary Kwatra extended a warm welcome to Sagala Ratnayaka, acknowledging the positive momentum in Sri Lanka’s economic growth. He emphasized that the current juncture presents an opportune moment for both countries to advance agreed-upon projects, attributing this progress to the strategic vision of President Ranil Wickremesinghe.
+
+...
+
+[Data](articles/df135438.json)
+
+---
+
+### யாழ். போதனா வைத்தியசாலையில் ஏற்படுத்தப்பட்ட மாற்றம்
+
+*2024-03-30 15:57:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-போதனா-வைத்தியசாலையில்-ஏற்படுத்தப்பட்ட-மாற்றம்/71-335368) · `ta`
+
+யாழ்ப்பாணம் போதனா வைத்தியசாலையின் வெளி நோயாளர் பிரிவு  மாலை ஆறு மணி வரை செயற்படும் என யாழ்ப்பாணம் போதனா வைத்தியசாலையின் பணிப்பாளர்  தங்கமுத்து சத்தியமூர்த்தி தெரிவித்தார்.
+
+வெள்ளிக்கிழமை  (29) யாழ்ப்பாணம் போதனா வைத்தியசாலை கேட்போர் கூடத்தில் இவ்வாறு தெரிவித்தார். மேலும் தெரிவிக்கையில்,
+
+யாழ்ப்பாணம் போதனா வைத்தியசாலையில் வெளி மாவட்டங்களில் இருந்து வெளிநோயாளர் பிரிவில் அதிகளவில்  சிகிச்சை பெறுவதற்கு வருகிறார்கள்.
+
+அதன் காரணமாக வெளி நோயாளர் பிரிவை போயா தவிர்ந்த  கிழமை நாட்களில் மாலை 6 மணி வரை செயற்படுத்துவதற்கு தீர்மானித்துள்ளோம்.
+
+வைத்தியசாலையின் செயற்பாடுகளை விஸ்தரிப்பதற்கு இட வசதி மற்றும் ஆளணி எமக்குள்ள ஒரு பாரிய சவாலாக விளங்குகிறது. இருந்த போதும் எம்மிடம்  காணப்படுகின்ற வளங்களை உரிய முறையில் பயன்படுத்தி  சேவையாற்றி வருகிறோம். என அவர் மேலும் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/d8375c51.json)
+
+---
 
 ### A Chinese Investigation team suddenly to Pakistan
 
@@ -2181,69 +2237,5 @@ Mahawamsa which was first written by Bhikku Mahanama, has documented the history
 [Data](articles/fb174afb.json)
 
 [Extended Data](ext_articles/fb174afb.ext.json)
-
----
-
-### The expectation is to see Sri Lanka cricket again in the world;Politics and sport should be maintained separately -the president
-
-*2024-03-29 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/179985) · `ta`
-
-President Ranil Wickremesinghe emphasized Sri Lanka's cricket's global return and the importance of keeping politics and sports separate. He highlighted the Sinhala Sports Club's role in promoting Sri Lankan identity and sports growth, with a billion rupees allocated for cricket development.
-
-🟩
-
-President Ranil Wickremesinghe has promised that Sri Lanka's cricket will be expected to re -see the world and that the government will gain all cooperation.
-
-In addition, the president stressed the importance of maintaining politics and sports separately, saying that politicians could be able to prevent them from holding high positions in sports clubs.
-
-President Ranil Wickremesinghe said this at the 125th anniversary of the Sinhala Sports Club (SSC) held on Thursday (28) at the Shankreela Hotel in Colombo.
-
-A book and a stamp was published to mark the 125 years of history of the Sinhala Sports Club.
-
-President Ranil Wickremesinghe praised the SSC players who led the Sri Lankan team in the international cricket field and took a photo with them.
-
-"Royal, Sen. All those who have joined the cricket from schools including Thomas and Wesley have come here and have confirmed their identity with the Sinhala Sports Club.
-
-...
-
-[Data](articles/07ebfd33.json)
-
-[Extended Data](ext_articles/07ebfd33.ext.json)
-
----
-
-### Sri Lanka’s People’s Bank posts Rs19.3bn pre-tax profit
-
-*2024-03-29 20:02:00* · [`economynextcom`](https://economynext.com/sri-lankas-state-owned-peoples-bank-posts-rs-96-8-bln-income-rs-19-3-bln-pre-tax-profit-156599/) · `en`
-
-ECONOMYNEXT – People’s Bank, Sri Lanka’s second largest state bank by assets, posted 96.8 rupees consolidated operating income and 19.3 billion rupees of pre-tax profit for the financial year ended December 31, 2023, the Bank said in a statement.
-
-The net interest income, however, slipped to 67.8 billion rupees during the year from the previous year’s 91 billion rupees, reflecting high interest costs on term deposit funding due to the high interest rate environment prevailed in 2022 and early 2023 as well as significant interest concessions extended to the customers, it said.
-
-Sujeewa Rajapakse, the Chairman of People’s Bank said he was pleased with the Bank’s overall performance on both quantitative and qualitative front considering the added burden shouldered as a State Bank – amid the most challenging set of circumstances over the past four years.
-
-...
-
-[Data](articles/6b429555.json)
-
-[Extended Data](ext_articles/6b429555.ext.json)
-
----
-
-### Sri Lanka’s People’s Bank posts Rs19.3bn pre-tax profit
-
-*2024-03-29 20:02:00* · [`economynextcom`](https://economynext.com/sri-lankas-peoples-bank-posts-rs19-3bn-pre-tax-profit-156599/) · `en`
-
-ECONOMYNEXT – People’s Bank, Sri Lanka’s second largest state bank by assets, posted 96.8 rupees consolidated operating income and 19.3 billion rupees of pre-tax profit for the financial year ended December 31, 2023, the Bank said in a statement.
-
-The net interest income, however, slipped to 67.8 billion rupees during the year from the previous year’s 91 billion rupees, reflecting high interest costs on term deposit funding due to the high interest rate environment prevailed in 2022 and early 2023 as well as significant interest concessions extended to the customers, it said.
-
-Sujeewa Rajapakse, the Chairman of People’s Bank said he was pleased with the Bank’s overall performance on both quantitative and qualitative front considering the added burden shouldered as a State Bank – amid the most challenging set of circumstances over the past four years.
-
-...
-
-[Data](articles/f1c29eb4.json)
-
-[Extended Data](ext_articles/f1c29eb4.ext.json)
 
 ---

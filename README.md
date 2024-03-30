@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 23:52:34**
+As of **2024-03-31 00:03:03**
 
 ## Newspaper Stats
 
-*Scraped **16,085** Articles*
+*Scraped **16,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 864
 economynextcom | 884
 islandlk | 887
 adalk | 1,345
-tamilmirrorlk | 1,922
+tamilmirrorlk | 1,923
 adaderanalk | 1,942
 virakesarilk | 2,286
 dailymirrorlk | 2,483
@@ -26,11 +26,33 @@ adaderanasinhalalk | 2,597
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,083 (100.0%) of 16,085 articles have been extended.
+16,085 (100.0%) of 16,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### ஜனாதிபதி தேர்தலில் தமிழர் தரப்பிலிருந்து பொது வேட்பாளர்?
+
+*2024-03-30 23:41:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஜனாதிபதி-தேர்தலில்-தமிழர்-தரப்பிலிருந்து-பொது-வேட்பாளர்/71-335385) · `ta`
+
+மக்கள் ஆணையற்ற ஜனாதிபதியே தற்போது நாட்டில் இருக்கிறார். எனவே  சட்டத்தின் பிரகாரம் ஜனாதிபதி தேர்தல் நடாத்தப்பட வேண்டியது அவசியம்.
+
+அத்தோடு தற்போது உள்ள, மக்கள் ஆணையில்லாத பாராளுமன்றம் வெகு விரைவில் கலைக்கப்பட்டு தேர்தல் நடாத்தப்பட வேண்டும் எனவும் எம்.ஏ.சுமந்திரன் கோரியுள்ளார்.
+
+யாழ்ப்பாணத்தில் இன்று நடாத்திய ஊடகவியலாளர் சந்திப்பின் போதே  எம்.ஏ.சுமந்திரன் இவ்வாறு தெரிவித்தார். இதன் போது அவர் மேலும் தெரிவித்ததாவது..
+
+ஜனாதிபதி சொல்வது ஒன்று செய்வது இன்னொன்றாக இருக்கிறது. எனவே நடத்த வேண்டிய தேர்தல்களை கூட நடத்தாமல் இருக்கிற இந்த ஜனாதிபதி இனியும் தாதமிக்காது ஜனாதிபதித் தேர்தல் மற்றும் பொதுத் தேர்தலை உடனடியாக நடத்த வேண்டுமென்றார்.
+
+ஜனாதிபதி தேர்தலில் தமிழர் தரப்பிலிருந்து பொது வேட்பாளராக ஒருவரை நிறுத்துவதற்கு பேசப்பட்டு வருவது தொடர்பில் கேள்வி எழுப்பிய போது,
+
+தமிழரசுக் கட்சி இதைப்பற்றி இன்னமும் கலந்துரையாடவில்லை எனவும் தேர்தல் அறிவிக்கப்படுகிற போது இது சம்மந்தமாக கலந்துரையாடி முடிவெடுப்போம் என பதிலளித்துள்ளார்.
+
+...
+
+[Data](articles/0e3d7b97.json)
+
+---
 
 ### Special Notice of Elections Commission
 
@@ -175,6 +197,8 @@ Explaining Sri Lanka’s expansion of Colombo Port, and Hambantota Port, as well
 ...
 
 [Data](articles/196c1f7c.json)
+
+[Extended Data](ext_articles/196c1f7c.ext.json)
 
 ---
 
@@ -377,6 +401,8 @@ Ratnayake had underscored “importance of enhancing economic integration with I
 ...
 
 [Data](articles/cf3eef42.json)
+
+[Extended Data](ext_articles/cf3eef42.ext.json)
 
 ---
 
@@ -2233,27 +2259,5 @@ Ritika refuses to accept this. In this case, Ritika -led friends decide to kill 
 [Data](articles/e3f4f465.json)
 
 [Extended Data](ext_articles/e3f4f465.ext.json)
-
----
-
-### Hot Spot - Review
-
-*2024-03-30 01:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/179993) · `ta`
-
-"Hot Spot," directed by Vignesh Karthik, explores four stories within a film, each with its unique narrative and themes, despite facing criticism. The film's narrative style and themes, including marriage, relationships, and societal norms, are presented through a visual language. Despite some creative flaws, the film's unique approach and performances, especially by Kalaiyarasan, are highlighted.
-
-🟩
-
-The film 'Hot Spot', directed by director Vignesh Karthik, who has attracted the attention of the fans, has been awarded the controversy and controversy, which has attracted the attention of the fans with two works 'two' and 'Adiye'.. This is the film, which is the expectation of many who claim to be cultural guards.. Received their support?Or is it for their condemnation?We will continue to see.
-
-A young man to marry a woman who loved ... Meets his father who is a filmmaker. Asks him the opportunity to meet him and run the movie. He also says that if I tell the story in a different style, I will make.
-
-The young man told four stories.. Choose one of these. All the four stories are caught by the producer and gives him the opportunity to run the movie. Will I marry your daughter after that?Asking as. What does the filmmaker's father respond to this?That is the story of the film.
-
-...
-
-[Data](articles/b7097473.json)
-
-[Extended Data](ext_articles/b7097473.ext.json)
 
 ---

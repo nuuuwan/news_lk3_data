@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-30 20:33:31**
+As of **2024-03-30 20:51:20**
 
 ## Newspaper Stats
 
-*Scraped **16,075** Articles*
+*Scraped **16,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 1,921
 adaderanalk | 1,940
 virakesarilk | 2,286
 dailymirrorlk | 2,483
-adaderanasinhalalk | 2,595
+adaderanasinhalalk | 2,596
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,075 (100.0%) of 16,075 articles have been extended.
+16,075 (100.0%) of 16,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-30 (Saturday)
+
+### වගාව රැකදෙන LED බල්බ් එකක්
+
+*2024-03-30 20:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195114) · `si`
+
+වගාවන්ට හානිකරන කෘමි සතුන් හේතුවෙන් සෑම වසරකම මෙරට සැලකිය යුතු අස්වනු ප්‍රමාණයක් අහිමිවී විනාශ වෙයි.
+
+මීට විසඳුමක් ලෙස ගොවීන් විවිධ කෘෂි රසායන ද්‍රව්‍ය භාවිත කිරීම හේතුවෙන් පාරිසරික ගැටලු සහ දැඩි සෞඛ්‍ය ගැටලු මතු කරන බව නොරහසකි.
+
+මීට සාර්ථක විසඳුමක් ලබාදෙමින් වගා හානිකරන සලබ විකර්ෂක LED බල්බයක් හඳුන්වා දෙන්නට මෙරට ආයතනයක් සමත් වී තිබේ.
+
+◼️
+
+[Data](articles/64503536.json)
+
+---
 
 ### Raigam Tele'es - Adekara
 
@@ -2243,27 +2259,5 @@ According to The Telegraph, he compared the West with the Devil and said, “We 
 [Data](articles/4984492f.json)
 
 [Extended Data](ext_articles/4984492f.ext.json)
-
----
-
-### Pain.Door robbers who break homes in the north
-
-*2024-03-29 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/179989) · `ta`
-
-In Jaffna's North, private lands, once military camps, are now owned by absentee landlords. Robbers exploit this, breaking homes, stealing iron, doors, and door conditions. Residents, noticing no action, have alerted security forces and police.
-
-🟩
-
-In the North of Jaffna, Jaffna has recently been handed over to the land owners of private lands that have been set up for a military camp for the past 33 years.
-
-Most land owners live in outer and abroad, and they are unable to settle in the area immediately. The robbers who have taken advantage of it, enter the land and break the houses and stole iron, doors and door conditions.
-
-Residents in the area are concerned that there is no action to control the robbers who have notified the security forces and the police in this regard.
-
-◼️
-
-[Data](articles/f5c757ea.json)
-
-[Extended Data](ext_articles/f5c757ea.ext.json)
 
 ---

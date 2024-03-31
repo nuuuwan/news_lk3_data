@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 21:33:51**
+As of **2024-03-31 21:52:25**
 
 ## Newspaper Stats
 
-*Scraped **16,204** Articles*
+*Scraped **16,205** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 144
+colombotelegraphcom | 145
 bbccomsinhala | 170
 dbsjeyarajcom | 201
 newsfirstlk | 363
@@ -26,53 +26,67 @@ adaderanasinhalalk | 2,626
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,197 (100.0%) of 16,204 articles have been extended.
+16,204 (100.0%) of 16,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### කොටින්ගෙන් පිරුණු විල්පත්තුවෙන් අලුත් වාර්තාවක්
+### New report from Wilpattu filled with Tigers
 
 *2024-03-31 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195145) · `si`
 
-ආසියාවේ වැඩිම කොටි ඝනත්වයක් ඇති වනාන්තරය මෙරට විල්පත්තු ජාතික වනෝද්‍යානය බවට හෙළිවී තිබේ.
+Wilpattu National Park, Asia's highest tiger-dense forest, is home to nearly 313 tigers, including 8 LTTE terrorists disguised as calves. It's the largest national park in Sri Lanka, spanning Mannar, Vavuniya districts, Puttalam, and Anuradhapura.
 
-ඒ සත්ත්වවේදියෙකු ඇතුළු කණ්ඩායමක් 2011 වසරේ සිට සිදුකළ පර්යේෂණයකට අනුවය.
+🟩
 
-මේ වනවිට වනෝද්‍යානයේ කොටියන් 313කට ආසන්න ප්‍රමාණයක් සිටින බවත් පැටවුන් සමග කොටි ධේනුවන් 8ක් පමණ දිවිගෙවන බවත් අනාවරණ වී තිබේ.
+The Wilpattu National Park is the highest tiger dense forest in Asia.
 
-හෙක්ටයාර 131,690ක භූමියක් පුරා පැතිරෙන විල්පත්තුව, මෙරට විශාලතම ජාතික වනෝද්‍යානය ලෙස සැළකෙයි.
+According to a research, including a group of Zoologist in 2011.
 
-මන්නාරම සහ වවුනියා දිස්ත්‍රික්කවලට මායිම් වන විල්පත්තුව පුත්තලම සහ අනුරාධපුරය යන දිස්ත්‍රික්ක පුරා විහිදෙන වනෝද්‍යානයකි.
+It has been revealed that there are nearly 313 terrorists in the pork and that about 8 LTTE terrorists cover up with calves.
 
-විල්පත්තුව ලොව සුපතළ වනෝද්‍යානයක් බවට පත්ව ඇත්තේ එහි සිටින කොටියන් හේතුවෙනි.
+Wilpattu is considered the largest national park in Sri Lanka.
+
+Wilpattu, the Mannar and Vavuniya districts, is a national park in Puttalam, Puttalam and Anuradhapura.
+
+Wilpattu has become a world famous world.
 
 ◼️
 
 [Data](articles/939b3305.json)
 
+[Extended Data](ext_articles/939b3305.ext.json)
+
 ---
 
-### சன்ரைசர்ஸ் ஹைதராபாத்தை வெற்றிகொண்டது குஜராத் டைட்டன்ஸ்
+### Gujarat Titans win Sunrisers Hyderabad
 
 *2024-03-31 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180089) · `ta`
 
-சன்ரைசர்ஸ் ஹைதராபாத்துக்கு எதிராக அஹமதாபாத் நரேந்த்ர மோடி விளையாட்டரங்கில் இன்று (31) நடைபெற்ற இண்டியன் பிறீமியர் லீக் 17ஆவது அத்தியாயத்தின் 12ஆவது போட்டியில் குஜராத் டைட்டன்ஸ் 7 விக்கெட்களால் வெற்றிபெற்றது.
+Gujarat Titans beat Sunrisers Hyderabad by 7 wickets in IPL 12th match. Sunrisers scored 162/8 in 20 overs, with no player reaching 30. Titans lost for 163/168 in 19.3 overs. Key players: Abhishek Sharma 29, Abdul Samad 29, Henryich Glasan 24, Shahbaz Ahmad 22, Travis Head 19, Aiden Magram 17, Mayank Agarwal 16.
 
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய சன்ரைசர்ஸ் ஹைதராபாத் 20 ஓவர்களில் 8 விக்கெட்களை இழந்து 162 ஓட்டங்களைப் பெற்றது.
+🟩
 
-துடுப்பாட்டத்தில் 6 வீரர்கள் இரட்டை இலக்க எண்ணிக்கைகளைப் பெற்ற போதிலும் ஒருவரும் 30 ஓட்டங்களை எட்டவில்லை.
+The Gujarat Titans won by 7 wickets in the 12th chapter of the Indian Premier League held today (31) at the Ahmedabad Narendra Modi Stadium against Sunrisers Hyderabad.
 
-அபிஷேக் ஷர்மா, அப்துல் சமாத் ஆகிய இருவரும் தலா 29 ஓட்டங்களையும் ஹென்ரிச் க்ளாசன் 24 ஓட்டங்களையும் ஷாபாஸ் அஹ்மத் 22 ஓட்டங்களையும் ட்ரவிஸ் ஹெட் 19 ஓட்டங்களையும் ஏய்டன் மாக்ராம் 17 ஓட்டங்களையும் மயான்க் அகர்வால் 16 ஓட்டங்களையும் பெற்றனர்.
+Sunrisers Hyderabad scored 162 runs for the loss of 8 wickets in 20 overs.
 
-163 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய குஜராத் டைட்டன்ஸ் 19.3 ஓவர்களில் 3 விக்கெட்களை இழந்து 168 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+Although 6 players scored double -digit numbers in the bats, no one has reached 30 runs.
 
-ரிதிமான் சஹா 25 ஓட்டங்களையும் அணித் தலைவர் ஷப்மான் கில் 36 ஓட்டங்களையும் சாய் சுதர்சன் 45 ஓட்டங்களையும் பெற்று ஆட்டம் இழந்தனர்.
+Abhishek Sharma and Abdul Samad scored 29 runs, Henryich Glasan 24, Shahbaz Ahmad 22, Travis Head 19, Aiden Magram 17 and Mayank Agarwal 16 runs.
 
-...
+The Gujarat Titans, who were bowled out for 163, were bowled out for 168 in 19.3 overs.
+
+Ritiman Saha lost 25 runs, team captain Shabman Kill 36 and Sai Sudarshan 45 runs.
+
+David Miller did not play with 44 runs and Vijay Shankar 14 runs.
+
+◼️
 
 [Data](articles/47419069.json)
+
+[Extended Data](ext_articles/47419069.ext.json)
 
 ---
 
@@ -106,47 +120,71 @@ Tamil Nadu Fisheries Assistants have already stated that the Sri Lankan Navy con
 
 ---
 
-### கிளிநொச்சி ஆயுர்வேத வைத்தியசாலைகளில் மருந்துக்களுக்கு தட்டுப்பாடு
+### Kilinochchi Ayurvedic Hospitals shortage for pharmaceuticals
 
 *2024-03-31 21:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180078) · `ta`
 
-கிளிநொச்சியில் ஆயுர் வைத்தியசாலைகளில் மருந்துகளுக்கு கடும் தட்டுப்பாடு நிலவுகின்றது என பொது மக்களால் சுட்டிக்காட்டப்பட்டுள்ளது.
+Kilinochchi Ayurvedic Hospitals face a severe pharmaceutical shortage, affecting patient treatments and economic crisis-induced medicine purchases. Over 50% of drugs are scarce for over six months, with no new supplies from Colombo.
 
-ஆயுர்வேத சிகிச்சைகளுக்கு செல்லும் நோயாளிகளுக்கு மருந்து்களை வெளியில் பெற்றுக்கொள்ளுமாறு மருத்துவர்கள் பரிந்துரைப்பதாகவும் பொருளாதார நெருக்கடிக்காரணமாக பெரும்பாலான பொது மக்கள் மருந்து்களை கொள்வனவு செய்ய முடியாத நிலையில் இருப்பதாகவும் சுட்டிக்காட்டப்பட்டுள்ளது.
+🟩
 
-இது தொடர்பில் சம்மந்தப்பட்ட வைத்தியர்களை தொடர்புகொண்டு வினவிய போது கடந்த ஆறு மாதங்களுக்கு மேலாக 50 வீத மான மருந்துக்களுக்கு தட்டுப்பாடு நிலவுகிறது எனவும் கொழும்பிலிருந்து தங்களுக்கு உரிய மருந்து கிடைக்கப்பெறவில்லை என்றும் தெரிவித்த அவர்கள், இதன் காரணமாக மாதாந்தம்தங்களிடம் சிகிச்சைக்காக வருகின்ற பொது மக்கள் பெரிதும் பாதிக்கப்பட்டுள்ளதாகவும் குறிப்பிட்டுள்ளனர்.
+It has been pointed out by the public that there is a severe shortage of medicines in Ayurvedic hospitals in Kilinochchi.
+
+It has been pointed out that doctors are recommended to obtain medications for patients who go to Ayurvedic treatments and that most of the public is unable to buy medicines due to economic crisis.
+
+When contacted by the doctors involved in this regard, they said that over 50 percent of the drugs have been scarce for more than six months and that they have not received the medicine from Colombo, they said.
 
 ◼️
 
 [Data](articles/8d23fcd4.json)
 
+[Extended Data](ext_articles/8d23fcd4.ext.json)
+
 ---
 
-### எதிர்பார்ப்புகளை தகர்த்து கார்த்திக் சுப்புராஜுடன் கரம் கோர்த்த சூர்யா
+### Surya with Karthik Subburaj with Karthik Subburaj
 
 *2024-03-31 20:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/180080) · `ta`
 
-'கங்குவா' எனும் மிகப் பிரம்மாண்டமான பொருட்செலவில் உருவாகும் படத்தை தொடர்ந்து சூர்யா, இயக்குநர் கார்த்திக் சுப்புராஜ் இயக்கத்தில் தயாராகும் பெயரிடப்படாத புதிய படத்தில் நடிக்கிறார். இதற்கான அதிகாரப்பூர்வமான அறிவிப்பு வெளியிடப்பட்டிருக்கிறது.
+Surya stars in a new film with director Karthik Subburaj, following 'Gangua'. Subburaj, known for 'Jigarthanda Double X' and Ram Saran's 'Game Changer', is producing 'Surya 44', expected to start soon, with a first look on April 14.
 
-கடந்த ஆண்டில் வசூல் ரீதியாகவும், விமர்சன ரீதியாகவும் பாரிய வெற்றியைப் பெற்ற 'ஜிகர்தண்டா டபுள் எக்ஸ்' எனும் திரைப்படத்தை இயக்கியவர் கார்த்திக் சுப்புராஜ். விரைவில் வெளியாகவிருக்கும் இயக்குநர் ஷங்கர் இயக்கத்தில் தெலுங்கின் முன்னணி நட்சத்திர நடிகரான ராம் சரண் நடிக்கும் :கேம் சேஞ்சர்' எனும் திரைப்படத்திற்கும் கதை எழுதி இருக்கிறார் இயக்குநர் கார்த்திக் சுப்புராஜ். தயாரிப்பு- விநியோகம்- இயக்கம்-.. என மூன்று தளங்களிலும் திரைத்துறையில் தனக்கென தனித்துவமான இடத்தை பிடித்திருக்கும் கார்த்திக் சுப்புராஜ் இயக்கத்தில் புதிய படத்தில் நடிக்க சூர்யா சம்மதித்திருக்கிறார்.
+🟩
+
+Following the film 'Gangua', Surya, director Karthik Subburaj, is starring in the new film.. An official announcement has been made.
+
+Karthik Subburaj, who directed the film 'Jigarthanda Double X', which was a huge success in the last year.. Director Karthik Subburaj has also written the story of Telugu star actor Ram Saran: Game Changer '. Product- distribution- movement-.. Surya has agreed to act in a new film with Karthik Subburaj, who has a unique place in the film industry.
+
+Surya, who agreed to star in the film 'Surra Kongara' directed by Sudha Kongara, directed by director Vijayamaran's film 'Vadivasal'.. The filmmakers have said that Surya has agreed to act in an unnamed film directed by Karthik Subburaj.
+
+The film is produced by Surya's own film company 2D Entertainment Company as usual. The film, titled 'Surya 44', is observed that the work of the film will begin soon. Look or First Look is expected to be released on April 14, the official title of this.
 
 ...
 
 [Data](articles/d6e88189.json)
 
+[Extended Data](ext_articles/d6e88189.ext.json)
+
 ---
 
-### வைபவ் நடிக்கும் 'சென்னை சிட்டி கேங்ஸ்டர்ஸ்' படத்தின் மோஷன் போஸ்டர் வெளியீடு
+### Motion poster release of Vaibhav starring 'Chennai City Gangsters'
 
 *2024-03-31 20:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180082) · `ta`
 
-சிறிய முதலீட்டு திரைப்படங்களுக்கான நம்பிக்கை நட்சத்திரமாக திகழும் நடிகர் வைபவ் கதையின் நாயகனாக நடித்திருக்கும் 'சென்னை சிட்டி கேங்ஸ்டர்ஸ்: எனும் திரைப்படத்தின் மோஷன் போஸ்டர் வெளியிடப்பட்டிருக்கிறது.
+"Motion poster of 'Chennai City Gangsters' released, featuring Vaibhav and a star-studded cast. Directed by Vikram Rajeswar and Arun Keshav, produced by BBI Universal Productions. The film, a dark horror, has been eagerly anticipated by fans."
 
-இயக்குநர்கள் விக்ரம் ராஜேஸ்வர் மற்றும் அருண் கேசவ் இயக்கத்தில் உருவாகி இருக்கும் 'சென்னை சிட்டி கேங்ஸ்டர்ஸ்' எனும் திரைப்படத்தில் வைபவ், அதுல்யா ரவி, மணிகண்டன் ராஜேஷ், ஆனந்த் ராஜ், நான் கடவுள் ராஜேந்திரன், ஜான் விஜய், ரெடின் கிங்ஸ்லி, சுனில் ரெட்டி, இளவரசு, லிவிங்ஸ்டன், ஷீஹான் ஹுசைனி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். டிஜோ டோனி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு டி. இமான் இசையமைத்திருக்கிறார். வங்கி கொள்ளையை மையப்படுத்தி உருவாகி இருக்கும் இந்த திரைப்படத்தை 'டிமான்டி காலனி 2' எனும் படத்தை தயாரித்த பி டி ஜி யுனிவர்சல் புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் பாபி பாலச்சந்திரன் தயாரித்திருக்கிறார்.
+🟩
 
-...
+The motion poster of the film 'Chennai City Gangsters:' has been released as the hero of the story of actor Vaibhav, who is a hope star for small investment films.
+
+Directors Vikram Rajeswar and Arun Keshav starring Vaibhav, Atulia Ravi, Manikandan Rajesh, Anand Rajesh, Anand Raj, I God Rajendran, John Vijay, Redin Kingsley, Sunil Reddy, Prince, Livingston, Shihan Husini. Tijo Tony's cinematography. Iman has composed music. The film is being produced by BBI Universal Productions, produced by Bobi Balachandran, who produced the film 'Demandi Colony 2'.
+
+The film's motion poster has been released as Look has been released on the title of the film. The film, which is being developed as Dark Hemoor, has been welcomed by the fans.
+
+◼️
 
 [Data](articles/75c3999f.json)
+
+[Extended Data](ext_articles/75c3999f.ext.json)
 
 ---
 
@@ -180,23 +218,31 @@ It was evident that two of her assistants had made arrangements to interview Sir
 
 ---
 
-### இலங்கையின் மேலும் 3 வீரர்கள் அரைச் சதங்கள் குவித்து அசத்தல்; கடைசி 4 விக்கெட்களில் கமிந்து 120 ஓட்டங்கள் பகிர்வு
+### 3 more players in Sri LankaSharing 120 runs in the last 4 wickets
 
 *2024-03-31 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180088) · `ta`
 
-பங்களாதேஷுக்கு எதிராக சட்டோக்ராமில் நடைபெற்றுவரும் 2ஆவது டெஸ்ட் போட்டியின் இரண்டாம் நாளான இன்றைய தினம் மேலும் 3 வீரர்கள் அரைச் சதங்களைப் பெற்றதன் பலனாக இலங்கை அதன் முதல் இன்னிங்ஸில் சகல விக்கெட்களையும் இழந்து 531 ஓட்டங்களைக் குவித்து பலமான நிலையில் இருக்கிறது.
+Sri Lanka scored 531 runs in the 2nd Test against Bangladesh, setting a new record for the highest Test innings not accumulated. Kamindu Mendis shared 120 runs in the last 4 wickets, contributing significantly to the total.
 
-இந்த எண்ணிக்கையானது டெஸ்ட் இன்னிங்ஸ் ஒன்றில் சதம் குவிக்கப்படமலே பெறப்பட்ட அதிகூடிய மொத்த எண்ணிக்கையாகும்.
+🟩
 
-நியூஸிலாந்துக்கு எதிராக 1976இல் நடைபெற்ற டெஸ்ட் போட்டியில் இந்தியா 9 விக்கெட்களை இழந்து பெற்ற 524 ஓட்டங்களே சதம் குவிக்கப்படாமல் பெறப்பட்ட அதிகூடிய முந்தைய மொத்த எண்ணிக்கையாக இருந்தது.
+Today, the second day of the 2nd Test match against Bangladesh against Bangladesh, Sri Lanka has lost all the wickets in its first innings and scored 531 runs in its first innings.
 
-நேற்று சனிக்கிழமை (30) ஆரம்பமான இந்த டெஸ்ட் போட்டியில் நிஷான் மதுஷ்க, திமுத் கருணாரட்ன, குசல் மெண்டிஸ் ஆகியோர் பெற்ற அரைச் சதங்களின் உதவியுடன் முதலாம் நாள் ஆட்ட நேர முடிவில் இலங்கை 4 விக்கெட்களை இழந்து 318 ஓட்டங்களைப் பெற்றிருந்தது.
+This number is the highest number of Test innings, which is not accumulated.
 
-கமிந்து மெண்டிஸ் மிகத் திறமையாகத் துடுப்பெடுத்தாடி கடைசி நால்வருடன் 120 விக்கெட்களைப் பகிர்ந்து துரதிர்ஷ்டவசமாக 92 ஓட்டங்களுடன் ஆட்டம் இழக்காதிருந்தார்.
+In the 1976 Test against New Zealand, India was the highest number of runs that lost 9 wickets.
+
+Sri Lanka scored 318 runs for the loss of 4 wickets at the end of the first -day match with the help of half a century in Nishan Madushka, Timuth Karunaratne and Kusal Mendis.
+
+Kamindu Mendis was very efficient and shared 120 wickets with the last four and unfortunately.
+
+He is 61 (opposite Australia 2022), 102 and 164 (opposite Bangladesh - 1st Test 2024), 92 AE in his first 4 Test innings respectively. (Opposite Bangladesh - 2nd Test 2024) has amassed a total of 419 runs. With this, Mendis has balanced the total number of Javade Myondadin's first 4 innings.
 
 ...
 
 [Data](articles/2ec83a94.json)
+
+[Extended Data](ext_articles/2ec83a94.ext.json)
 
 ---
 
@@ -616,17 +662,23 @@ Police said that the two had been arrested after the voting argument between the
 
 ---
 
-### අද ඉන්ධන මිල අඩුවෙයිද?
+### Will the fuel prices fall today?
 
 *2024-03-31 17:25:16* · [`adalk`](https://www.ada.lk/breaking_news/අද-ඉන්ධන-මිල-අඩුවෙයිද-/11-408866) · `si`
 
-ඉන්ධන මිල සූත්‍රයට අනුව අද දිනයේ ඉන්ධන මිල සංශෝධනය සිදුකිරීමට නියමිතව තිබේ. බොහෝ දෙනෙකු මත පළ කරන්නේ අද දිනයේදී බොහෝ විට ඉන්ධන මිල අඩු කිරිමේ හැකියාවක් පවතින බවයි.
+Fuel prices may decrease today due to the strength of the rupee and global crude oil price reductions.
 
-රුපියල ශක්තිමත් වීම හා ලෝක වෙළඳපොලේ බොරතෙල් මිල අඩුවීම යන කරුණු අනුව මෙසේ ඉන්ධන මිල අඩුවීමක් සිදුවෙනු ඇතැයි වාර්තා වෙයි.
+🟩
+
+Fuel prices are to be revised today. Many express the ability to reduce fuel prices today.
+
+It is reported that a fuel prices will take place in terms of the strength of the rupee and reducing the price of crude oil prices in the world market.
 
 ◼️
 
 [Data](articles/05358f17.json)
+
+[Extended Data](ext_articles/05358f17.ext.json)
 
 ---
 
@@ -949,6 +1001,22 @@ Kusal Mendis scored 93 runs and Dinesh Chandimal scored 59 runs and Dinesh Chand
 [Data](articles/00ba2aa9.json)
 
 [Extended Data](ext_articles/00ba2aa9.ext.json)
+
+---
+
+### Exploring Interfaith Dialogue & Cooperation: Sri Lanka’s Religious Landscape
+
+*2024-03-31 15:23:50* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/exploring-interfaith-dialogue-cooperation-sri-lankas-religious-landscape/) · `en`
+
+The essence of all religious teachings across faiths often emphasizes compassion, empathy, and the interconnectedness of humanity, transcending the boundaries of creed or doctrine.
+
+Divisions fueled by narrow interests, whether individual or political, undermine the very fabric of religious principles. Advocating for unity over discord not only honors the core of spirituality but also fosters peace and stability in diverse societies. There cannot be a different formula  for Sri Lanka at a time the country is ailing, if not down and out already.
+
+Recent news report i.e sentencing of Ven. Galagoda Aththe Gnanasara Thera, General Secretary of the Bodu Bala Sena (BBS), to four years of rigorous imprisonment has reignited this discussion. The verdict stemmed from a statement made by the said monk in 2016, citing the importance of accountability and adherence to the law.
+
+...
+
+[Data](articles/3e12be1c.json)
 
 ---
 
@@ -2283,25 +2351,5 @@ The Mission of the National Cadet Corps is to train and inspire cadets using an 
 [Data](articles/cf984dd2.json)
 
 [Extended Data](ext_articles/cf984dd2.ext.json)
-
----
-
-### Israel's compliance with peace talks
-
-*2024-03-31 02:45:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சமாதான-பேச்சுக்கு-இஸ்ரேல்-இணக்கம்/50-335391) · `ta`
-
-Israel's PM permits peace talks in Doha and Cairo, mediated by Qatar, aiming to declare a ceasefire on Gaza border and release hostages.
-
-🟩
-
-International media has reported that Israeli Prime Minister has given permission to hold this discussion in Doha and Cairo cities.. Qatar mediums in this discussion.
-
-The main purpose of this discussion is to declare a ceasefire on the Gaza border and release hostages. (A)
-
-◼️
-
-[Data](articles/0b5ec2d7.json)
-
-[Extended Data](ext_articles/0b5ec2d7.ext.json)
 
 ---

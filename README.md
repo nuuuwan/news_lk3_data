@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 14:18:04**
+As of **2024-03-31 14:33:29**
 
 ## Newspaper Stats
 
@@ -26,29 +26,63 @@ adaderanasinhalalk | 2,611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,150 (100.0%) of 16,156 articles have been extended.
+16,156 (100.0%) of 16,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### உயிர்த்த ஞாயிறு தாக்குதலிற்கு இந்தியாவே காரணம் என குற்றம்சாட்டிய சிறிசேன- முன்னாள் ஜனாதிபதியின் புதிய சகாவே இந்த குற்றச்சாட்டிற்கு காரணமா என அரசாங்கம் விசாரணை
+### Arrested for illegal liquor production in Mullaitivu
+
+*2024-03-31 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180057) · `ta`
+
+A man in Mullaitivu was arrested for illegal liquor production. Seized were 85 liters and 9 kota barrels. He claimed to have been preparing pastai with state permission and used a water supply system.
+
+🟩
+
+A man in Mullaitivu, Mulliyawala has been arrested. He was arrested on Saturday at his residence by the police.
+
+In addition, illegal liquor has been seized by 85 liters and 9 kota barrels.
+
+The arrested person said that the man was involved in the preparation of the pastai with the permission of the state and that the water supply system was obtained through the supply of water.
+
+The person is buried in the middle of the pipe system and is involved in the manufacture of liquor. As the police removed the water pipe parts, the suspect was found to be the manufacture of illegal liquor.
+
+◼️
+
+[Data](articles/63525640.json)
+
+[Extended Data](ext_articles/63525640.ext.json)
+
+---
+
+### Sirisena-former president's new colleague, who accused India of the lifeblood attack on the Sunday attack, was responsible for the allegation.
 
 *2024-03-31 14:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180066) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திரிபாலசிறிசேன  சிஐடியினரிடம் வாக்குமூலம் வழங்கியவேளை உயிர்த்த ஞாயிறுதாக்குதலின் பின்னணியில் இந்தியாவே உள்ளதாக தெரிவித்துள்ளார் என குறிப்பிட்டுள்ள சண்Nடை டைம்ஸ் மைத்திரிபால சிறிசேனவுடன் சமீபத்தில் இணைந்துகொண்டுள்ள நபர் ஒருவரே இந்த குற்றச்சாட்டின் பின்னணியில் உள்ளரா என  அரசாஙகமட்டத்தில் விசாரணைகள் இடம்பெறுவதாகவும் தெரிவித்துள்ளது
+Sirisena accuses India of the Sunday attack, revealing new information days before the event. He claims to know who is behind the attack and plans to report it in court. Public Security Minister Tran Ales orders an investigation into Sirisena's claims. Sirisena admits India is behind the attack, citing diplomatic discussions. The government investigates allegations of involvement, focusing on national security.
 
-கடந்தகாலங்களில் வெளியான விடயங்களை தலைகீழாக மாற்றும் விதத்தில்  முன்னாள் ஜனாதிபதி மைத்திரிபாலசிறிசேன வரலாற்றை மாற்றியமைக்கும் விதத்தில்  புதிய தகவல்களை வெளியிட்டுள்ளார்.
+🟩
 
-உயிர்த்த ஞாயிறுதினத்திற்கு சில நாட்கள் இருக்கையில் அவர் இந்த புதிய தகவலை வெளியிட்டார்.
+Former President Maithripala Sirisena has said that India has said that India is behind the Sunday attack, saying that a person who has recently joined with Sirisena, who has recently joined the allegation, is investigating whether the government is in the wake of the allegation.
 
-கண்டிக்கு கடந்த வெள்ளிக்கிழமை விஜயம் மேற்கொண்டவேளை தனக்கு உயிர்த்த ஞாயிறுதாக்குதல் குறித்து புதிய விடயங்கள் தெரியவந்துள்ளதை அவர் கோடிட்டுக்காட்டியிருந்தார்.
+Former President Maithripala Sirisena has released new information to change the history of the past.
 
-கண்டியில் தனது நிகழ்வுகளில் கலந்துகொண்ட பின்னர் அவர் ஊடகவியலாளர்களுடன் உரையாடினார் உயிர்த்த ஞாயிறுதாக்குதலின் பின்னணியில் யார் உள்ளது என்பதை தான் அறிந்துகொண்டுள்ளதாக அவர் தெரிவித்தார்.
+He released this new information as he had a few days for the survival Sunday.
+
+When he visited Kandy last Friday, he outlined that new issues were revealed about his life -threatening Sunday.
+
+After attending his events in Kandy, he spoke to journalists and said he was aware of who was behind the Sunday attack.
+
+Maithripala Sirisena said that he would report it in the presence of the court.
+
+It was evident that two of her assistants had made arrangements to interview Sirisena media in Colombo.
 
 ...
 
 [Data](articles/8aa9e2c9.json)
+
+[Extended Data](ext_articles/8aa9e2c9.ext.json)
 
 ---
 
@@ -67,6 +101,8 @@ The latest flare-up occurred last weekend, when China used water cannon to disru
 ...
 
 [Data](articles/80e665c8.json)
+
+[Extended Data](ext_articles/80e665c8.ext.json)
 
 ---
 
@@ -92,53 +128,47 @@ Bangladeshi players lost Prabath Jayasuriya at the time of the lack of safe bowl
 
 ---
 
-### பண்டிகைக் காலங்களில் முட்டையின் விலை  குறையுமென எதிர்பார்ப்பு!
+### Egg prices will decrease during festivals!
 
 *2024-03-31 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180047) · `ta`
 
-தமிழ் -சிங்கள புத்தாண்டு காலத்தில்  உள்நாட்டில்  முட்டை ஒன்றின் விலை 35 ரூபாவை விடவும் குறையும் என விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சு  தெரிவித்துள்ளது.
+During Tamil-Sinhala New Year, egg prices will decrease by over 35 rupees, from 42-48 rupees, with the Ministry of Agriculture ensuring no shortage of poultry meat and eggs.
 
-உள்நாட்டு சந்தையில் கோழி முட்டை ஒன்றின் விலை 42 - 48 ரூபாவாக காணப்படுவதாக அமைச்சு குறிப்பிட்டுள்ளது.
+🟩
 
-அத்துடன், கோழி இறைச்சி மற்றும் முட்டைகளை தட்டுப்பாடு இன்றி சந்தைக்கு வழங்க நடவடிக்கை எடுக்கப்படும் என விவசாய மற்றும் பொருந்தோட்ட கைத்தொழில் அமைச்சு தெரிவித்துள்ளது.
+The Ministry of Agriculture and Plantation Industries said that the price of an egg at home in the Tamil -Sinhala New Year will be reduced by more than 35 rupees.
+
+The ministry said the price of a chicken egg in the domestic market is 42 - 48 rupees.
+
+In addition, the Ministry of Agriculture and Match the Ministry of Agriculture and the Matching Industry said that steps will be taken to provide poultry meat and eggs to the market without shortage.
 
 ◼️
 
 [Data](articles/d1cacc1b.json)
 
+[Extended Data](ext_articles/d1cacc1b.ext.json)
+
 ---
 
-### பொலிஸாரின் சுற்றிவளைப்பில் 803 பேர் கைது!
+### 803 arrested in police raid
 
 *2024-03-31 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180062) · `ta`
 
-போதைப் பொருள் தொடர்பில் நேற்று (30) சனிக்கிழமை  மேற்கொள்ளப்பட்ட  சுற்றிவளைப்பின்போது  803 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளர்.
+803 suspects arrested in drug raid, 40 held for further investigation. Seized with heroin, ice, and cannabis.
 
-இவர்களுள் 40 சந்தேக நபர்கள்  மேலதிக விசாரணைக்காக பொலிஸ் தடுப்பில்  வைக்கப்படவுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இதன் போது சந்தேக நபர்களிடமிருந்து ஹெரோயின், ஐஸ் மற்றும் கஞ்சா போதைப் பொருட்களுடன் கைப்பற்றப்பட்டுள்ளன.
+803 suspects have been arrested in connection with the raid on Saturday (30) in connection with the drug.
+
+40 of them will be kept in police custody for further investigations, police said.
+
+During this time, the suspects were seized with heroin, ice and cannabis.
 
 ◼️
 
 [Data](articles/ff69ccde.json)
 
----
-
-### முல்லைத்தீவில்  சட்டவிரோத மதுபான தயாரிப்பில் ஈடுப்பட்டவர் கைது!
-
-*2024-03-31 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180057) · `ta`
-
-முல்லைத்தீவு,முள்ளியாவளையில் சட்டவிரோத மதுபான தயாரிப்பில் ஈடுபட்ட நபரொருவர் கைது செய்யப்பட்டுள்ளார். பொலிஸாரினால் அவரது வீட்டில் நேற்று சனிக்கிழமை  மேற்கொள்ளப்பட்ட  சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
-
-அத்தோடு சட்டவிரோத மதுபானம் 85 லீற்றர் மற்றும் 9 கோடா  பீப்பாய்களும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
-
-இவ்வாறு கைது செய்யப்பட்ட நபர் அரச அனுமதியுடன்  பசளை தயாரிப்பில் ஈடுபட்டு வருவதாகவும்,   இதற்காக குழாய் நீர் விநியோகம் முறை மூலம் நீர் பெற்றுக் கொண்டுள்ளதாகவும் தெரிவித்துள்ளனர்.
-
-குறித்த நபர் குழாய் அமைப்புக்கு  நடுவில் உபகரணங்களை புதைத்து வைத்து மதுபான தயாரிப்பில் ஈடுபட்டு வந்துள்ளார். பொலிஸார் நீர் குழாயின் பாகங்களை அகற்றி அவதானித்தபோதே சந்தேக நபர் சூட்சுமான முறையில் சட்டவிரோத மதுபானம் தயாரிப்பது கண்டறியப்பட்டுள்ளதாக
-
-◼️
-
-[Data](articles/63525640.json)
+[Extended Data](ext_articles/ff69ccde.ext.json)
 
 ---
 
@@ -1077,6 +1107,8 @@ The incident has sparked concerns and prompted authorities to delve deeper into 
 ◼️
 
 [Data](articles/a4a6f59f.json)
+
+[Extended Data](ext_articles/a4a6f59f.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 20:18:10**
+As of **2024-03-31 20:33:29**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 2,623
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,191 (100.0%) of 16,192 articles have been extended.
+16,192 (100.0%) of 16,192 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### 72 හැවිරිදි පුද්ගලයෙකුගේ මළ සිරුර නිවසේ වහලයේ
+### 72-year-old body body of the house at the roof
 
 *2024-03-31 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195141) · `si`
 
-සිය නිවසේ වහලයේ උළු සකස් කිරීම සඳහා එහි නැග සිටි පුද්ගලයෙකු අවාසනාවන්ත ලෙස මියගොස් ඇත.
+A 72-year-old man from Panadura Pinwatta died after falling from his roof. His son found him and called for help. The incident is under investigation by the Pinwatta Police.
 
-මෙලෙස මියගොස් ඇත්තේ පානදුර පින්වත්ත ප්‍රදේශයේ පදිංචිව සිටි 72 හැවිරිදි වියේ පසුවූ පුද්ගලයෙකි.
+🟩
 
-මියගොස් ඇති පුද්ගලයා දිගු වේලාවක් වහලයෙන් නොබැසීම හේතුවෙන් නිවැසියන් කළ සෝදිසි කිරීමකදී ඔහු වහලය මත මියගොස් සිටියදී සොයාගෙන තිබේ.
+A person who had risen in the roof tiles in his home has misfortunate.
 
-ඔහුගේ පුත්‍රයා වහලයට නැග සෝදිසි කර සිය පියා මියගොස් ඇති බව දැනගැනීමෙන් අනතුරුව මේ පිළිබඳව පොලීසිය දැනුවත් කර තිබේ.
+The deceased has been identified as a 72-year-old resident of Panadura Pinwatta.
 
-නිවැසියන් පවසන්නේ පෙරදින රාත්‍රියේ ඇතිවූ වර්ෂාවත් සමග නිවසේ ස්ථාන කිහිපයක් තෙමීම හේතුවෙන් ඒවා සකස් කිරීමට ඔහු මෙලෙස වහලයට නැග ඇත බවය.
+The victim has found the residents of the roof when the residents have been killed by a long time.
 
-සිද්ධිය සම්බන්ධයෙන් පින්වත්ත පොලීසිය මේ වනවිට පරීක්ෂණයක් ආරම්භ කර තිබේ.
+His son climbed his son and examine his father and was diagnosed with his father.
+
+Residents say that as a result of the time of the morning night, he had risen to the roof to prepare them.
+
+The Pinwatta Police have launched an investigation into the incident.
 
 ◼️
 
 [Data](articles/8b37aee7.json)
+
+[Extended Data](ext_articles/8b37aee7.ext.json)
 
 ---
 

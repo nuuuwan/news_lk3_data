@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 22:50:34**
+As of **2024-03-31 23:03:05**
 
 ## Newspaper Stats
 
-*Scraped **16,212** Articles*
+*Scraped **16,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,363
 tamilmirrorlk | 1,937
 adaderanalk | 1,958
 virakesarilk | 2,303
-dailymirrorlk | 2,495
+dailymirrorlk | 2,497
 adaderanasinhalalk | 2,628
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,212 (100.0%) of 16,212 articles have been extended.
+16,212 (100.0%) of 16,214 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,9 +52,37 @@ However, he took part in other Holy Week events leading up to Easter, and appear
 
 ---
 
+### Correction in fuel prices!
+
+*2024-03-31 22:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180090) · `ta`
+
+Fuel prices reduced from 12 midnight Sunday, 31st. Octane 95 now 440 rupees, diesel 386 rupees, kerosene 245 rupees. Octane 92 and Otto Diesel prices unchanged.
+
+🟩
+
+The amendment has been made from 12 midnight on Sunday, 31st of the fuel prices.
+
+The Ministry of Power and Energy said that the prices of fuel have been reduced as per the amendment.
+
+Accordingly, the price of a liter of Octane 95 petrol was reduced by 7 rupees and the new price was announced at 440 rupees.
+
+The price of a liter of diesel is reduced by 72 rupees and sold to 386 rupees.
+
+In addition, the price of a liter of kerosene has been reduced by 12 rupees and will be sold for 245 rupees.
+
+It has also been announced that the price of the Octane 92 parents and the price of Otto Diesel has not changed.
+
+◼️
+
+[Data](articles/e3ee6a19.json)
+
+[Extended Data](ext_articles/e3ee6a19.ext.json)
+
+---
+
 ### Harsha is about the news that has an impact on Sri Lanka -Indian diplomatic relationship
 
-*2024-03-31 22:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180091) · `ta`
+*2024-03-31 22:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/180091) · `ta`
 
 Dr. Harsha de Silva criticizes an English newspaper's article on Sri Lanka-India relations, accusing it of spreading false information. Maithripala Sirisena's comments on a diplomat's inability to execute programs have sparked controversy. The opposition leader promises justice for victims of the Sunday attacks, despite fines from investigations.
 
@@ -112,31 +140,23 @@ Earlier, India had scored 524 runs for the loss of 9 wickets in 1976/77.
 
 ---
 
-### Correction in fuel prices!
+### Fuel prices revised from tonight
 
-*2024-03-31 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180090) · `ta`
+*2024-03-31 21:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fuel-prices-revised-from-tonight/108-279901) · `en`
 
-Fuel prices reduced from 12 midnight Sunday, 31st. Octane 95 now 440 rupees, diesel 386 rupees, kerosene 245 rupees. Octane 92 and Otto Diesel prices unchanged.
+The Ceylon Petroleum Corporation (CPC) has decided to revise its fuel prices with effect from tonight.
 
-🟩
+Accordingly, a litre of Lanka Petrol 95 Octane Euro 4 (Rs. 447) has been reduced by Rs. 7, and its new retail price will be Rs. 440.
 
-The amendment has been made from 12 midnight on Sunday, 31st of the fuel prices.
+A litre of Lanka Super Diesel 4 Star Euro 4 (Rs. 458) has been reduced by Rs. 72, and its new retail price will be Rs. 386.
 
-The Ministry of Power and Energy said that the prices of fuel have been reduced as per the amendment.
+A litre of Lanka Kerosene (Rs. 257) has been reduced by Rs. 12, and its new retail price will be Rs. 245
 
-Accordingly, the price of a liter of Octane 95 petrol was reduced by 7 rupees and the new price was announced at 440 rupees.
-
-The price of a liter of diesel is reduced by 72 rupees and sold to 386 rupees.
-
-In addition, the price of a liter of kerosene has been reduced by 12 rupees and will be sold for 245 rupees.
-
-It has also been announced that the price of the Octane 92 parents and the price of Otto Diesel has not changed.
+A litre of Lanka Petrol 92 Octane (Rs.371) and a litre of Lanka Auto Diesel (Rs. 363) remain unchanged.
 
 ◼️
 
-[Data](articles/e3ee6a19.json)
-
-[Extended Data](ext_articles/e3ee6a19.ext.json)
+[Data](articles/fb658338.json)
 
 ---
 
@@ -187,6 +207,30 @@ UPDATE: In the meantime, Lanka IOC says that they too will revise retail fuel p
 [Data](articles/7128e535.json)
 
 [Extended Data](ext_articles/7128e535.ext.json)
+
+---
+
+### School students taken into custody for holding alcohol party in abandoned building
+
+*2024-03-31 21:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/School-students-taken-into-custody-for-holding-alcohol-party-in-abandoned-building/108-279899) · `en`
+
+Welimada, March 31 (Daily Mirror)- A group of school students who held an alcohol party in an abandoned building in the Welimada area were taken into custody by the police.
+
+According to the Police, the Welimada Police raided the building based on information received.
+
+Five schoolboys and two schoolgirls who were having a party in the deserted building were taken into custody by the police.
+
+These students were reportedly consuming alcohol, which was being sold at high prices at that time.
+
+Upon further questioning, they told the police that they had gathered in the abandoned building under the guise of attending tuition classes, but instead had organized an alcohol party.
+
+It has been revealed that the group gained entry to the building by breaking the locks.
+
+The Welimada Police are currently conducting further investigations into this incident.
+
+◼️
+
+[Data](articles/d230c746.json)
 
 ---
 
@@ -2345,53 +2389,5 @@ The Decision was led by the Permanent Delegation of Sri Lanka to UNESCO with the
 [Data](articles/59663918.json)
 
 [Extended Data](ext_articles/59663918.ext.json)
-
----
-
-### Easter day message
-
-*2024-03-31 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195119) · `si`
-
-"President Ranil Wickremesinghe emphasizes Sri Lanka's role in history, highlighting the need for unity and reconciliation to overcome current challenges."
-
-🟩
-
-President Ranil Wickremesinghe says that as a country that can be a great triumph of history as a country, as a country that is a great tribulation in history, we must stand up with the blessings of that resurrection.
-
-The President pointed out that we are essential to overcome the challenges before the country today.
-
-President Ranil Wickremesinghe added that our unity and reconciliation as Sri Lankans should be promoted to a conspiracy to do any kind of conspiracy, "President Ranil Wickremesinghe added.
-
-◼️
-
-[Data](articles/8fcd8133.json)
-
-[Extended Data](ext_articles/8fcd8133.ext.json)
-
----
-
-### Protection near the church
-
-*2024-03-31 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195118) · `si`
-
-In 2019, 273 were killed and over 500 injured in attacks on Christians. IGP Tennakoon ordered police to protect all Christian churches, deploying 3,066 officers for security.
-
-🟩
-
-Catholics and other Christian temperatures have passed a period of five years.
-
-At the 21st of 2019, 273 people were killed and over 500 others were injured.
-
-IGP Deshabandu Tennakoon has instructed all police stations to provide special police protection for all the Passover ends of Sunday ends.
-
-Accordingly, 320 police officers and 2,746 police officers have been deployed for security coverage of 1,873 Christian churches across the country.
-
-Police Media Spokesperson DIG's Court Attorney at Law said that the security measures were carried out throughout these days.
-
-◼️
-
-[Data](articles/4a2b6cea.json)
-
-[Extended Data](ext_articles/4a2b6cea.ext.json)
 
 ---

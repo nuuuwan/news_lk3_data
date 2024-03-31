@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 09:18:16**
+As of **2024-03-31 09:33:34**
 
 ## Newspaper Stats
 
-*Scraped **16,112** Articles*
+*Scraped **16,113** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 1,345
 tamilmirrorlk | 1,928
 adaderanalk | 1,943
 virakesarilk | 2,286
-dailymirrorlk | 2,485
+dailymirrorlk | 2,486
 adaderanasinhalalk | 2,602
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,112 (100.0%) of 16,112 articles have been extended.
+16,112 (100.0%) of 16,113 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### Security tightened near churches
+
+*2024-03-31 09:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Security-tightened-near-churches/108-279885) · `en`
+
+Colombo, March 31 (Daily Mirror) - Inspector General of Police Deshabandu Tennakoon has instructed all police stations to deploy special security measures at churches hosting Easter Sunday services.
+
+A total of 6,522 police officers, 320 Police Special Task Force officers, and 2,746 military personnel have been deployed to secure 1,873 Christian churches across the island.
+
+◼️
+
+[Data](articles/18820420.json)
+
+---
 
 ### The argument that ended by murder
 
@@ -2249,35 +2263,5 @@ The report which has been released to the public domain has been compiled by the
 [Data](articles/bb618790.json)
 
 [Extended Data](ext_articles/bb618790.ext.json)
-
----
-
-### A stock of breads and lentils worth Rs. 15 crores worth Rs
-
-*2024-03-30 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195089) · `si`
-
-Health authorities in Kakirawa recovered Rs. 15 crores worth of breads and lentils, including over 25 kilograms of bread flour and inappropriate lentils, from 25,000 papers. The goods were prepared for release but were seized due to expiry date manipulation. A person was taken action against in the Kandy area.
-
-🟩
-
-The office of the Health Medical Officer of Health Kakirawa Health Medical Officer's Office, the Kekirawa Health Medical Officer's Office said.
-
-A spokesman said that these goods were prepared to be released to the market.
-
-The spokesperson added that over 25 kilograms of bread flour were found in the past 25,000 papers.
-
-In addition, there was also a stock of lentils inappropriate for human consumption.
-
-The goods were recovered following information on information received by the Kekirawa Health Medical Officer of Health.
-
-Investigations have revealed that the health authorities have been prepared to repress and re-distribute the expiry date and re-distributing the expiry date and re-distributing the date of expiration date.
-
-The spokesman of the Ministry of Health said that a person was running against the Kandy area and had taken action against another person in the Kandy.
-
-◼️
-
-[Data](articles/f66071d5.json)
-
-[Extended Data](ext_articles/f66071d5.ext.json)
 
 ---

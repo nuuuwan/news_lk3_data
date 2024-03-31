@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 08:33:37**
+As of **2024-03-31 08:51:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,601
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,107 (100.0%) of 16,110 articles have been extended.
+16,110 (100.0%) of 16,110 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The Decision was led by the Permanent Delegation of Sri Lanka to UNESCO with the
 ...
 
 [Data](articles/59663918.json)
+
+[Extended Data](ext_articles/59663918.ext.json)
 
 ---
 
@@ -214,23 +216,33 @@ The Mission of the National Cadet Corps is to train and inspire cadets using an 
 
 ---
 
-### இலங்கை - இந்திய திட்டங்கள் தொடர்பில் மீளாய்வு
+### Review of Sri Lanka - Indian projects
 
 *2024-03-31 02:38:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்திய-திட்டங்கள்-தொடர்பில்-மீளாய்வு/175-335390) · `ta`
 
-இந்திய - இலங்கை இடையிலான இருதரப்புப் பொருளாதார திட்டங்களின் முன்னேற்றத்தை மீளாய்வு செய்வதற்கான சந்திப்பொன்று புதுடில்லியில் நடைபெற்றுள்ளது.
+A meeting in New Delhi reviewed India-Sri Lanka economic projects, with Sri Lanka's Sagala Ratnayake thanking India for support and discussing Sri Lanka's economic progress and need for strengthening. Both countries agreed to quarterly progress reviews.
 
-இந்திய வெளியுறவுச் செயலர் வினய் குவாத்ராவின் அழைப்பின் பேரில் தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க உள்ளிட்ட இலங்கையின் உயர்மட்டக் குழுவின் பங்கேற்புடன் இந்தச் சந்திப்பு நடைபெற்றது.
+🟩
 
-இதன்போது சாகல ரத்நாயக்க உள்ளிட்ட குழுவினருக்கு இந்திய வெளிவிவகாரச் செயலாளர் சிறப்பு வரவேற்பளித்துள்ளார்.
+A meeting was held in New Delhi to review the progress of bilateral economic projects between India and Sri Lanka.
 
-இலங்கையின் பொருளாதார வளர்ச்சி சாதகமான நிலைக்குத் திரும்பி வருவதால், ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் மூலோபாய பொருளாதார வேலைத் திட்டத்தின் கீழ் இணக்கம் காணப்பட்ட திட்டங்களை வெற்றிகரமாக நடைமுறைப்படுத்தும் இயலுமை இரு நாடுகளுக்கும் உள்ளது என இந்திய வெளிவிவகாரச் செயலாளர் இதன்போது தெரிவித்துள்ளார்.
+The meeting was held with the participation of the Sri Lankan high -level committee, including Sagala Ratnayake, a senior adviser to the National Security and President of the President, on the invitation of Indian Foreign Secretary Vinay Quadra.
 
-வீழ்ச்சியடைந்துள்ள இலங்கையின் பொருளாதாரத்தை மீட்டெடுக்க இந்திய அரசாங்கம் வழங்கிய ஆதரவிற்கு சாகல ரத்நாயக்க நன்றி கூறினார்.
+The Indian External Affairs Secretary has welcomed the team including Sagala Ratnayake.
+
+The Indian External Affairs Secretary said that the two countries have the ability to successfully implement the projects that have been agreed under President Ranil Wickremesinghe's strategic economic program as Sri Lanka's economic growth is on a favorable situation.
+
+Sagala Ratnayake thanked the Indian government for the support of the Indian government to restore the collapse of Sri Lanka.
+
+He also explained Sri Lanka's progress in the IMF program with the IMF.
+
+Sagala Ratnayake also pointed out the need to strengthen the economy of Sri Lanka.
 
 ...
 
 [Data](articles/0e661236.json)
+
+[Extended Data](ext_articles/0e661236.ext.json)
 
 ---
 

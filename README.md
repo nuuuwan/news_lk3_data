@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 22:18:00**
+As of **2024-03-31 22:33:21**
 
 ## Newspaper Stats
 
-*Scraped **16,211** Articles*
+*Scraped **16,212** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 885
 islandlk | 900
 adalk | 1,363
 tamilmirrorlk | 1,937
-adaderanalk | 1,957
+adaderanalk | 1,958
 virakesarilk | 2,303
 dailymirrorlk | 2,495
 adaderanasinhalalk | 2,628
@@ -26,51 +26,87 @@ adaderanasinhalalk | 2,628
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,209 (100.0%) of 16,211 articles have been extended.
+16,211 (100.0%) of 16,212 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### இலங்கை - இந்திய இராஜதந்திர உறவில் தாக்கத்தை ஏற்படுத்தும் வகையிலான பத்திரிகை செய்தி தொடர்பில் ஹர்ஷ விசனம்
+### Pope Francis, in Easter address, calls for Gaza ceasefire
+
+*2024-03-31 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98331/pope-francis-in-easter-address-calls-for-gaza-ceasefire) · `en`
+
+Pope Francis called for an immediate ceasefire in Gaza and the release of all Israeli hostages in an Easter Sunday address that marked the most important day on the Christian calendar by deploring the suffering caused by wars.
+
+The pontiff presided over Mass in a packed and flower-bedecked St Peter’s Square, and then delivered his “Urbi et Orbi” (to the city and the world) blessing and message from the central balcony of St. Peter’s Basilica.
+
+Francis, 87, has been in poor health in recent weeks, forcing him on repeated occasions to limit his public speaking and cancel engagements as he did on Good Friday, skipping at short notice a procession at Rome’s Colosseum.
+
+However, he took part in other Holy Week events leading up to Easter, and appeared in relatively good spirits on Sunday. Easter celebrates the day in which the faithful believe Jesus rose from the dead.
+
+...
+
+[Data](articles/25a0e00f.json)
+
+---
+
+### Harsha is about the news that has an impact on Sri Lanka -Indian diplomatic relationship
 
 *2024-03-31 22:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180091) · `ta`
 
-உயிர்த்த ஞாயிறு தாக்குதல்கள் தொடர்பில் ஆங்கில பத்திரையொன்று அடிப்படையற்ற காரணிகளை சுட்டிக்காட்டி பத்தியொன்றை பிரசுரித்துள்ளது. குறித்த பத்தி இலங்கை - இந்தியாவுக்கிடையிலான இராஜதந்திர உறவில் தாக்கத்தை ஏற்படுத்துவதாக அமைந்துள்ளதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் கலாநிதி ஹர்ஷ டி சில்வா விசனம் வெளியிட்டார்.
+Dr. Harsha de Silva criticizes an English newspaper's article on Sri Lanka-India relations, accusing it of spreading false information. Maithripala Sirisena's comments on a diplomat's inability to execute programs have sparked controversy. The opposition leader promises justice for victims of the Sunday attacks, despite fines from investigations.
 
-கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் நேற்று ஞாயிற்றுக்கிழமை இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-உயிர்த்த ஞாயிறு தாக்குதல்கள் மேற்கொள்ளப்பட்டு 5 ஆண்டுகள் நிறைவடையவுள்ள நிலையில் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன சர்ச்சைக்குரிய கருத்துக்களை வெளியிட்டுள்ளார். அது தொடர்பில் பிரபல ஆங்கில பத்திரிகையொன்றின் அரசியல் பத்தியில், மைத்திரி இந்தியாவிலுள்ள பிரபல இராஜதந்திரயொருவர் தொடர்பிலேயே தெரிவித்துள்ளதாக குறிப்பிடப்பட்டுள்ளது.
+An English newspaper has published a paragraph pointing of baseless factors regarding life. United People's Power Member Dr. Harsha de Silva has said that the paragraph is an impact on the diplomatic relationship between Sri Lanka and India.
+
+He further stated at a press conference held at the opposition leader's office in Colombo on Sunday.
+
+Former President Maithripala Sirisena has issued controversial comments as five years after the deaths of the Sunday Sunday.. In the political column of a popular English newspaper, Maithri has stated that a prominent diplomat in India has been reported.
+
+The reason for this is the inability to carry out their programs. If so, what is the opinion of these attacks so far?Who is trying to whitewash?What is this newly released political maneuver?
+
+We see such a news release on the day of Jubilee Sunday. Such news has been revealed as investigations have been carried out so far and have been fined 100 million.
 
 ...
 
 [Data](articles/64fe7f39.json)
 
+[Extended Data](ext_articles/64fe7f39.ext.json)
+
 ---
 
-### කමිඳුගෙන් ක්‍රිකට් වාර්තා ගොඩක්
+### A lot of cricket records from Komun
 
 *2024-03-31 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195147) · `si`
 
-ශ්‍රී ලංකා -බංග්ලාදේශ දෙවැනි ටෙස්ට් තරගයේ දෙවැනි දිනය වූ අද තරගය අවසන් කරන විට බංග්ලාදේශ කණ්ඩායම එක් කඩුල්ලක් දැවී ලකුනු 55 ක් රැස්කර සිටියේය.
+In the 2nd day of the 2nd Test against Sri Lanka, Bangladesh scored 55 runs. Sri Lanka's 1st innings ended at 531 runs, with Kamindu Mendis losing his century. He scored 419 runs, equalling the record set in 1976. Sri Lanka's score was the highest in Test history without a century.
 
-ශ්‍රී ලංකාව පළමු ඉනිමට ලකුණු 531 ක් රැස් කළ අතර එහිදී ටෙස්ට් වාර්තා කිහිපයක්ම අලුත්වීම විශේෂත්වයකි.
+🟩
 
-ශ්‍රී ලංකා ඉනිමේ අවසන් කඩුල්ල ලෙස අසිත ප්‍රනාන්දු දුවද්දී දැවීයාමත් සමඟ පිට පිට තුන්වැනි ශතකය පෙනෙන මානයේ සිටි කමිඳු මෙන්ඩිස්ට සිය ශතකය අහිමිව ගියේය.
+The Bangladesh team scored 55 legs when the second day of the second day of Sri Lanka - 13th Test Competition.
 
-කමිඳු ඔහු ක්‍රිඩාකළ ටෙස්ට් ඉනිම් හතර තුළදී ලකුණු 419ක් රැස්කරගෙන ඇති අතර ඔහු එය ලෝක වාර්තාවක් සම කිරීමක් වෙයි.
+Sri Lanka scored 531 runs in their first innings, where several Test reports were renewed.
 
-ඔහු මෙලෙස සමකළේ 1976 වසරේදී පාකිස්තානයේ ජාවේඩ් මියැන්ඩාඩ් පළමු ටෙස්ට් ඉනිම් 4තුල වාර්තා කරතිබු ලකුණු 419යි.
+The third century with the end of the end of the Sri Lankan innings, Kamindu Mendis lost his centurion.
 
-මීට අමතරව කමිඳු මෙන්ඩිස් පළමු ටෙස්ට් ඉනිම 4 තුළදී අර්ධ ශතක වාර්තා කළ ලොව තුන්වැනි ක්‍රිඩකයා ලෙසටද වාර්තා අතරට එක්වුණි.
+Kammin has scored 419 runs in the four-year-old Test Irum.
 
-ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම සිය පළමු ඉනිම සඳහා සියල්ලන් දැවී ලකුණු 531ක් ලබා ගත්තේය.
+He was diagnosed with 419 runs in the first Test Irum, Pakistan in 1976.
 
-මෙම ලකුණු සංඛ්‍යාව වාර්තා අතරට එක්වුණේ ටෙස්ට් ඉනිමකදී ක්‍රිඩකයෙක් ශතකයක් වාර්තා නොකර කණ්ඩායමක් ටෙස්ට් ඉතිහාසයකදී රැස්කළ ඉහළම ලකුණු සංඛ්‍යාව ලෙසටය.
+In addition, Kamindu Mendis was also present as the third player recorded in the first 4 Test innings.
 
-...
+Accordingly, Sri Lanka scored 531 runs for the loss of all wickets.
+
+The number of marks was accompanied by a group of players in a Test history, not a century in Test innings.
+
+Earlier, India had scored 524 runs for the loss of 9 wickets in 1976/77.
+
+◼️
 
 [Data](articles/da5416bc.json)
+
+[Extended Data](ext_articles/da5416bc.ext.json)
 
 ---
 
@@ -141,6 +177,8 @@ Accordingly, the price of Petrol 95 Octane has been reduced by Rs. 07 to Rs. 440
 Meanwhile the price of Kerosene has been reduced by Rs. 12 to Rs. 245 per litre.
 
 However, the prices of Petrol 92 Octane and Auto Diesel will remain unchanged, the CPC said.
+
+UPDATE: In the meantime, Lanka IOC says that they too will revise retail fuel prices in line with the Ceypetco prices.
 
 ◼️
 
@@ -2353,31 +2391,5 @@ Police Media Spokesperson DIG's Court Attorney at Law said that the security mea
 [Data](articles/4a2b6cea.json)
 
 [Extended Data](ext_articles/4a2b6cea.ext.json)
-
----
-
-### All-playful devotees celebrates Easter Day
-
-*2024-03-31 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195117) · `si`
-
-Devout followers celebrate Easter, recalling Jesus' resurrection, and Passover, marking the end of the Exodus and Jesus' sacrifice, symbolizing salvation.
-
-🟩
-
-The Passover Day is being celebrated with the resurrection of the resurrection of Jesus Christ, recalling the resurrection of Jesus Christ.
-
-The Pasc as the Passover celebrates 3 days after the end of the crossing after 3 days to save all the world's life from sin.
-
-The Easter is the 40-day of the Easter, recalling the suffering and death and resurrection of Jesus.
-
-The Bible says that the Thero has been raised and appeared to his followers today, crucified by the crumbled of Israel in Israel.
-
-The Passover is a religious program that is celebrately celebrated by the Pushals of Sri Lanka.
-
-◼️
-
-[Data](articles/661da84d.json)
-
-[Extended Data](ext_articles/661da84d.ext.json)
 
 ---

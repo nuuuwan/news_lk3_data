@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 14:50:23**
+As of **2024-03-31 15:03:14**
 
 ## Newspaper Stats
 
-*Scraped **16,156** Articles*
+*Scraped **16,158** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 885
 islandlk | 899
-adalk | 1,351
+adalk | 1,352
 tamilmirrorlk | 1,932
 adaderanalk | 1,951
-virakesarilk | 2,293
+virakesarilk | 2,294
 dailymirrorlk | 2,492
 adaderanasinhalalk | 2,611
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,156 (100.0%) of 16,156 articles have been extended.
+16,156 (100.0%) of 16,158 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### வெளிநாட்டில் தயாரிக்கப்பட்ட துப்பாக்கியுடன் ஒருவர் கைது!
+
+*2024-03-31 14:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180064) · `ta`
+
+கம்பஹா ரயில் நிலையத்துக்கு  அருகில் வெளிநாட்டில் தயாரிக்கப்பட்ட  துப்பாக்கி மற்றும் தோட்டாக்களுடன் ஒருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கம்பஹா குற்றப் புலனாய்வு பிரிவினருக்கு கிடைத்த தகவலின் அடிப்படையில் கைது செய்யப்பட்ட  சந்தேக நபரிடமிருந்து துப்பாக்கியுடன் T - 56 வகை துப்பாக்க்கிக்குப் பயன்படுத்தப்படும் 10 தோட்டாக்களுடன் , 2.2 மில்லி மீற்றர் 7 தோட்டாக்களும் கைப்பற்றப்பட்டுள்ளன.
+
+இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபர் உந்துகொட, ருக்கஹவில பிரதேசத்தைச் சேர்ந்த 21 வயதுடையவராவார்.
+
+இது தொடர்பில், சிரேஷ்ட பொலிஸ் அத்தியட்சகர் ஆலோசனையின் கீழ் மேலதிக நடவடிக்கையை பொலிஸார் மேற்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/803b09a7.json)
+
+---
 
 ### Arrested for illegal liquor production in Mullaitivu
 
@@ -241,6 +259,26 @@ The fire had not been harmed by fire and the property was damaged, police said.
 [Data](articles/3e6dd47f.json)
 
 [Extended Data](ext_articles/3e6dd47f.ext.json)
+
+---
+
+### කට තුළ පුපුරා යන අමුතු  ටොෆියක්  පච්චක් එක්ක කුඩු විශේෂයකුත් ඒ ඇතුලේ
+
+*2024-03-31 13:11:44* · [`adalk`](https://www.ada.lk/breaking_news/කට-තුළ-පුපුරා-යන-අමුතු--ටොෆියක්--පච්චක්-එක්ක-කුඩු-විශේෂයකුත්-ඒ-ඇතුලේ/11-408855) · `si`
+
+පාසල් දරුවන් ඉලක්ක කරගත් කට ඇතුළේ පුපුරා යන අමුතු ටොෆියකට පාසල් දරුවන් ඇබ්බැහි වී ඇතැයි මාතලේ දිස්ත්‍රික්කයේ පාසල් පාදක දෙමවිපියෝ අවධාරණය කරති.
+
+මෙම ටොෆි විශේෂය කට තුළ දී පුපුරා යන අයුරින් සකසා ඇති බවත් විනාඩි පහක් වැනි කාලයක් ඒ සදහා ගතවන බවත් දෙමව්පියෝ කියා සිටිති.
+
+විවෘත කරන ලද ටොෆි වර්ග කිහිපයක් ජල බදුනකට දමා පරික්ෂා කිරිම් වල දී දෙමව්පියන් අවධාරණය කර සිටියේ ජලයේ පවා මෙම ටොෆි විශේෂය පුපුරා යන බවත් ඒ තුළ යම් කුඩු වශේෂයක්ද පවතින බව ඔවුහු කියා සිටියහ.
+
+ටොෆිය තුළම ටැටු සහිත ස්ටිකරයක් ද පවතින බව කියා සිටි දෙමවිපියන් අවධනාරණය කර සිටියේ පාසල් අසල පිහිටි කුඩා වෙළදසැල් තුළ මෙම ටොෆි බහුලව දක්නට ලැබෙන බවයි.
+
+යම් මත් විශේෂයක් හෝ වෙනත් කිසියම් අයුරින් ශරිර වලට අහිතකර යම් ද්‍රව්‍යයකින් මෙම ටොෆි විශේෂය නිපදවා ඇති බවට සැක කරන දෙමවිපියන් අවධාරණය කර සිටින්නේ දිවයිනේ විවිධ ප්‍රදේශ වල අලවිය සදහා ඇති මෙම ටොෆි විශේෂය කුඩා දරුවාගේ සිට වැඩිහිටි පාසල් දරුවා දක්වා පමණක් අලවි කරන බවයි.
+
+...
+
+[Data](articles/b619f4b1.json)
 
 ---
 
@@ -2179,47 +2217,5 @@ Not delaying legal action against those traders and manufacturers regarding samp
 [Data](articles/66642845.json)
 
 [Extended Data](ext_articles/66642845.ext.json)
-
----
-
-### Sri Lanka, India discuss economic connectivity projects
-
-*2024-03-30 15:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-India-discuss-economic-connectivity-projects/108-279881) · `en`
-
-March 30 -  Senior Advisor to the President on National Security and Chief of Presidential Staff, Sagala Ratnayaka, led a high-level delegation in discussions with Indian officials in New Delhi on March 28, aimed at assessing bilateral economic connectivity projects between Sri Lanka and India.
-
-The talks, held at the invitation of Indian Foreign Secretary Vinay Kwatra, saw warm exchanges highlighting the positive momentum in Sri Lanka's economic growth.
-
-Foreign Secretary Kwatra welcomed Ratnayaka and commended the strategic vision of President Ranil Wickremesinghe for fostering such progress.
-
-Acknowledging the pivotal role of Indian assistance in stabilizing the Sri Lankan economy, Ratnayaka conveyed gratitude while offering insights into ongoing negotiations with the IMF.
-
-He stressed the importance of sustained economic growth and emphasized enhancing economic integration with India through improved connectivity.
-
-◼️
-
-[Data](articles/de84c615.json)
-
-[Extended Data](ext_articles/de84c615.ext.json)
-
----
-
-### China reaffirms financial support for Sri Lanka
-
-*2024-03-30 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98307/china-reaffirms-financial-support-for-sri-lanka) · `en`
-
-China has said it would continue to support Sri Lanka, as the crisis-hit island nation’s prime minister on Saturday wrapped up a visit to Beijing to try to finalise a debt restructuring deal.
-
-Prime Minister Dinesh Gunawardena arrived in China on Monday for a visit that included meeting President Xi Jinping and an appearance at the Boao Forum, a high-profile international meeting.
-
-Sri Lanka’s years-long economic crisis was high on the agenda during Gunawardena’s trip, with China accounting for around 10 percent of the South Asian country’s total foreign debt.
-
-China is willing to “continue supporting its financial institutions to actively negotiate with Sri Lanka, maintain friendly communication with other creditors, play a positive role in the International Monetary Fund, assist Sri Lanka in financial relief,” Beijing’s foreign ministry said in the Chinese version of a joint bilateral statement released Friday.
-
-...
-
-[Data](articles/661697f3.json)
-
-[Extended Data](ext_articles/661697f3.ext.json)
 
 ---

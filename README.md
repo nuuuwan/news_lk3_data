@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 01:02:56**
+As of **2024-04-01 01:18:18**
 
 ## Newspaper Stats
 
-*Scraped **16,226** Articles*
+*Scraped **16,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 900
 adalk | 1,363
 tamilmirrorlk | 1,938
 adaderanalk | 1,959
-virakesarilk | 2,306
+virakesarilk | 2,307
 dailymirrorlk | 2,500
 adaderanasinhalalk | 2,629
 
@@ -26,25 +26,47 @@ adaderanasinhalalk | 2,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,225 (100.0%) of 16,226 articles have been extended.
+16,226 (100.0%) of 16,227 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### உயிர்த்த ஞாயிறு தாக்குதலுக்கு நீதி கோரி கல்முனையில் எதிர்ப்பு போராட்டம்
+### மலையக இந்து குருமார் சம்மேளனம் அநுரவை சந்தித்தது
+
+*2024-04-01 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180095) · `ta`
+
+மலையக இந்து குருமார் சம்மேளனத்தைச் சேர்ந்த இந்து குருமார்கள் ஞாயிற்றுக்கிழமை (31) தேசிய மக்கள் சக்தியின் தலைவர் தோழர் அநுர குமார திசாநாயக்க அவர்களை மக்கள் விடுதலை முன்னணியின் தலைமையகத்தில் வைத்து சந்தித்தனர்.
+
+இதன்போது மலையக மக்களின் வீடு மற்றும் காணிப் பிரச்சினைகள்,  மலையகத்தில் இந்து சமயத்தையும் கலாச்சாரத்தையும் மேம்படுத்துதல் பற்றிய விடயங்களையும் மலையக இந்து குருமார்கள் தோழர் அநுர குமார திசாநாயக்கவின் கவனத்திற்கு கொண்டுசென்றனர்.
+
+நீண்ட நேரம் இடம்பெற்ற இந்த உரையாடலில் மலையக மக்கள் முகம்கொடுக்கின்ற பிரச்சினைளுக்கு எவ்வாறான அரசியல் தீர்வுகளை பெற்றுக்கொடுப்பது மற்றும் நடப்பு அரசியல், பொருளாதார நிலைமைகள் குறித்தும் தோழர் அநுர குமார  திசாநாயக்க தெளிவுப்படுத்தினார்.
+
+◼️
+
+[Data](articles/a939358f.json)
+
+---
+
+### Opposition protest in Kalmunai demanding justice for a life -threatening Sunday attack
 
 *2024-04-01 00:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/180094) · `ta`
 
-கல்முனை இருதயநாதர் ஆலயத்தின் முன்னால் கல்முனை வாழ் கிறிஸ்தவ மக்கள் உயிர்த்த ஞாயிறு தாக்குதலுக்கு இதுவரை நீதி கிடைக்கவில்லை எனவும் உடனடியாக விசாரணை மேற்கொள்ளப்பட வேண்டும் என கவனயீர்ப்பு போராட்டம் ஒன்றினை  ஞாயிற்றுக்கிழமை(31) ஆராதனையின் பின்னர் மேற்கொண்டனர்.
+Protest in Kalmunai demands justice for Sunday attack, led by Kripairaja, marking five years since suicide bombings.
 
-இக்கவனயீர்ப்பு போராட்டமானது  வணக்கத்திற்குரிய போதகர் கிருபைராஜா   தலைமையில் மாலை   இடம்பெற்றதுடன்   எதிர்ப்பு கோஷங்களை எழுப்பி குறித்த உயிர்த்த ஞாயிறு தாக்குதலுக்கு நீதி வேண்டும் என கோரிக்கை விடுத்தனர்.
+🟩
 
-மேலும் உயிர்த்த ஞாயிறுத் தினத்தன்று இடம்பெற்ற தற்கொலைக் குண்டுத்தாக்குதல்கள் மேற்கொள்ளப்பட்டு 5 வருடங்கள் கடந்துவிட்ட நிலையில் அதனை நினைவுகூர்ந்து நாடளாவிய ரீதியிலுள்ள கிறிஸ்தவ தேவாலயங்களில் விசேட திருபலிகள் இடம்பெற்றமை குறிப்பிடத்தக்கது.
+On Sunday (31), there was a protest in front of the Kalmunai Iridayanathar Temple and that the Christian people living in Kalmunai had no justice for the survival Sunday attack and should be immediately investigated.
+
+The protest was led by worship pastor Kripairaja, and demanded justice for the survival Sunday attack on protest slogans.
+
+Five years have passed since the suicide bombings on Sunday, a specialist in the Christian churches across the country.
 
 ◼️
 
 [Data](articles/e2062cd8.json)
+
+[Extended Data](ext_articles/e2062cd8.ext.json)
 
 ---
 
@@ -2377,27 +2399,5 @@ The deceased is a 66 year old woman who was living in the Uzgalazambuwa area in 
 [Data](articles/c6a23b83.json)
 
 [Extended Data](ext_articles/c6a23b83.ext.json)
-
----
-
-### Sri Lanka awaiting RCEP admission mechanism
-
-*2024-03-31 10:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-awaiting-rcep-admission-mechanism-156624/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s application to join the Regional Comprehensive Economic Partnership Agreement is awaiting the development of a mechanism to admit new members, Senior Economic Advisor to President Ranil Wickremesinghe said.
-
-Sri Lanka has lodged a letter of intent to join the RCEP and also met representatives of member states in Jakarta,  Senior Economic Advisor to President H H R Samaratunga told a forum organized by Pathfinder Institute, a Colombo-based think tank.
-
-“What we were told is that an internal procedure is being worked out,” Samaratunga said.
-
-Sri Lanka stood the chance to be the first member outside of the original founders to gain admission after a procedure is worked out, he said.
-
-Sri Lanka is keen to join the group as it allowed exporters in the country to get inputs from multiple RCEP member countries and make into products which was more flexible than traditional value addition requirements in bilateral trade deals, Samaratunga said.
-
-...
-
-[Data](articles/b66530db.json)
-
-[Extended Data](ext_articles/b66530db.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 11:18:10**
+As of **2024-03-31 11:33:38**
 
 ## Newspaper Stats
 
-*Scraped **16,126** Articles*
+*Scraped **16,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ dailyftlk | 864
 economynextcom | 884
 islandlk | 899
 adalk | 1,349
-tamilmirrorlk | 1,928
+tamilmirrorlk | 1,929
 adaderanalk | 1,947
 virakesarilk | 2,288
 dailymirrorlk | 2,487
-adaderanasinhalalk | 2,604
+adaderanasinhalalk | 2,605
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,125 (100.0%) of 16,126 articles have been extended.
+16,126 (100.0%) of 16,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### துப்பாக்கிச்சூட்டுக்கு இலக்காகியவர் வைத்தியசாலையில் அனுமதி
+
+*2024-03-31 11:12:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டுக்கு-இலக்காகியவர்-வைத்தியசாலையில்-அனுமதி/175-335394) · `ta`
+
+ரன்மினிதென்ன பகுதியில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது பொலிஸாரின் துப்பாக்கிச் சூட்டிற்கு இலக்காகிய நபர் ஒருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+திஸ்ஸமஹாராம, ரன்மினிதென்ன பிரதேசத்தில் வசிக்கும் 30 வயதுடைய நபரே காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இன்று அதிகாலை ரன்மினிதென்ன பிரதேசத்தில் பொலிஸ் அதிகாரிகள் குழுவொன்று சுற்றிவளைப்பை மேற்கொண்டதுடன், சந்தேக நபரை கைது செய்ய முற்பட்ட போது, ​​பொலிஸாரின் துப்பாக்கிச் சூட்டில் அவரது தோள்பட்டையில் காயம் ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/88b85a2c.json)
+
+---
+
+### අගමැති දිවයිනට
+
+*2024-03-31 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195123) · `si`
+
+චීන නිල සංචාරය අවසන් කරමින් අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා දිවයිනට පැමිණ තිබේ.
+
+අග්‍රාමාත්‍යවරයා සහ දුත පිරිස චයිනා ඊස්ටන් ගුවන් සේවයට අයත් යානයකින් ඊයේ (30) රාත්‍රී කටුනායක ගුවන්තොටුපොළ වෙත පැමිණි බව "අද දෙරණ ගුවන් තොටුපොළ" වාර්තාකරු පැවසීය.
+
+චීනයේ පස් දින නිල සංචාරයක් සඳහා දිවයිනෙන් පිටත්ව ගිය අග්‍රාමාත්‍යවරයා සිය සංචාරයේ දී චීන ජනාධිපතිවරයා සමග මෙන්ම එරට අග්‍රාමාත්‍යවරයා සහ චීන රජයේ ඉහළ පෙලේ නියෝජිතයින් කිහිපදෙනෙකු සමග සාකච්ඡා පැවැත්වීය.
+
+සංචාරය අතරතුර චීනය හා ශ්‍රී ලංකාව අතර ගිවිසුම් කිහිපයකට අත්සන් තැබුණු අතර ණය ප්‍රතිව්‍යුහගතකරණය සම්බන්ධයෙන් ද චීන බලධාරීන් සමඟ සාකච්ඡා පැවැත්වීමට කටයුතු කර තිබුණි.
+
+◼️
+
+[Data](articles/b2a8d7af.json)
+
+---
 
 ### Prime Minister’s message for Easter
 
@@ -51,6 +85,8 @@ The said religious teachings help us build the necessary mindset that is require
 ...
 
 [Data](articles/94a25f7b.json)
+
+[Extended Data](ext_articles/94a25f7b.ext.json)
 
 ---
 
@@ -2197,49 +2233,5 @@ In the past one week, a court in Jaffna, Sri Lanka, has sentenced three boat dri
 [Data](articles/06435022.json)
 
 [Extended Data](ext_articles/06435022.ext.json)
-
----
-
-### Bible distribution in Mullaitivu MulliyawalaiArrest
-
-*2024-03-30 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180003) · `ta`
-
-In Mulliyawalai, a family member involved in illegal leakage production was arrested. The police found a water-fitting pipeline in the land, leading to the arrest. The man was released on bail and had been selling the leakage.
-
-🟩
-
-A family member who was involved in alcoholism has been arrested by the police for producing illegal leakage through a pipeline in a home land in Mulliyawalai.
-
-The police searched the area on the basis of information received by the Mulliyawalai police that illegal leakage production and sale were being carried out in the village of Mamooli, the Mullaitivu police division of the Mullaitivu district.
-
-It has been revealed that the owner of the house has been involved in illegal leakage sales by producing a water -fitting pipeline in his land.
-
-The police who went into the house have been found to have put on top of the land and have been found on top of the land and two peril Koda has been rescued.
-
-Investigations have revealed that the man has already been arrested and released on bail, and has been selling the leakage kachi in the house, which has been buried in the ground, which has been buried in the ground, which has been buried in the ground.
-
-◼️
-
-[Data](articles/d3a334cc.json)
-
-[Extended Data](ext_articles/d3a334cc.ext.json)
-
----
-
-### Dozens of trains on Coastal Line facing cancellations today
-
-*2024-03-30 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98299/dozens-of-trains-on-coastal-line-facing-cancellations-today) · `en`
-
-The Railway Department says that trains plying on the Coastal Line are continuing to experience further delays and cancellations today (30) and tomorrow (31).
-
-Trains operation between Wellawatta and Colombo Fort railway stations have been limited to a single track due to pipeline maintenance work carried out by the Urban Development Authority (UDA).
-
-Owing to the situation, at least 25 train journeys on the Coastal Line are facing cancellations today, the department said further, adding that the disrupted train services are expected to be restored after tomorrow night.
-
-◼️
-
-[Data](articles/afd286bf.json)
-
-[Extended Data](ext_articles/afd286bf.ext.json)
 
 ---

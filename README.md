@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 02:18:06**
+As of **2024-04-01 02:33:26**
 
 ## Newspaper Stats
 
-*Scraped **16,233** Articles*
+*Scraped **16,238** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 147
 bbccomsinhala | 170
 dbsjeyarajcom | 201
 newsfirstlk | 363
-dailyftlk | 864
+dailyftlk | 869
 economynextcom | 888
 islandlk | 900
 adalk | 1,363
@@ -26,11 +26,71 @@ adaderanasinhalalk | 2,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,233 (100.0%) of 16,233 articles have been extended.
+16,233 (100.0%) of 16,238 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### CBSL salary hike: Is it the Governor who is responsible?
+
+*2024-04-01 02:22:40* · [`dailyftlk`](https://www.ft.lk/opinion/CBSL-salary-hike-Is-it-the-Governor-who-is-responsible/14-760146) · `en`
+
+CBSL governing board (from left): Dr. P. Nandalal Weerasinghe, Nihal Fonseka, Dr. Ravi Rathnayake, Anushka Wijesinha, Vish Govindasamy, Rajeev Amarasuriya, Manil Jayesinghe
+
+Not only the rule of law but the spirit of the law is vital during a crisis
+
+The last few weeks have seen a massive media interest and public attention on the salary hikes amounting up to 70% at the Central Bank of Sri Lanka (CBSL) at a time of an economic downfall in the country. I welcome the recommendations made by the Committee on Public Finance (COPF) at the Parliament and the acceptance of the recommendations by the CBSL governor and the staff to re-visit and reverse the proposed increase in the national interest.
+
+There is a clear attempt to target the Governor of the Central Bank, Dr. Nandalal Weerasinghe, and make him the scapegoat for the proposed increases. This in my view is politically motivated by many who were responsible for the economic downfall of the country.
+
+...
+
+[Data](articles/f39f04d8.json)
+
+---
+
+### DDR for Sri Lanka and SLR for CBSL:  CB Governor’s rationale is puerile
+
+*2024-04-01 02:19:05* · [`dailyftlk`](https://www.ft.lk/opinion/DDR-for-Sri-Lanka-and-SLR-for-CBSL-CB-Governor-s-rationale-is-puerile/14-760145) · `en`
+
+Governor of the Central Bank, Dr. Nandalal Weerasinghe having made the blunder of unilaterally deciding to grant a phenomenal and unprecedented increase in the emoluments for the Central Bank (CB) staffers has further aggravated the issue by citing that for some employees the take home salary will be negative if the revised salary is not granted.
+
+I would like the CB Governor to elaborate as to how the take home salary will be negative because of the loan given to the staff? It is normal that when an employer grants a loan to an employee, the loan amount is such that it is recovered in instalments over a period of time whilst the employee at the same time gets a reduced amount of take home pay (because of the deduction of the loan).
+
+For the take home pay to be negative, I think that the Governor has made an additional blunder having given a colossal sum as loan which if it is to be recovered, within a short period of time, from the salary will make the take home salary negative!
+
+...
+
+[Data](articles/1dc1793d.json)
+
+---
+
+### Why elections for Presidency all political parties have promised to abolish?
+
+*2024-04-01 02:07:15* · [`dailyftlk`](https://www.ft.lk/columns/Why-elections-for-Presidency-all-political-parties-have-promised-to-abolish/4-760144) · `en`
+
+None in mainstream politics would lead this country on a right path to freedom, democracy and an inclusive society with socio-economic and cultural development. These political leaderships simply have no valid “development program” to back their criticism of the past and the present and their request for political power at the next “presidential” election. A larger crisis therefore is the timidity of the educated urban polity that has access to new information, new knowledge and new social discourses beyond geographical boundaries
+
+President Ranil Wickremesinghe is reported to have told the cabinet of ministers, priority has to be given to the IMF program to ensure economic stability and elections will have to be postponed till the IMF program is concluded. One newspaper report had it, the President had in fact informed the Election Commission too about postponing elections.
+
+...
+
+[Data](articles/2742624a.json)
+
+---
+
+### What is wrong with Sri Lanka?
+
+*2024-04-01 01:56:25* · [`dailyftlk`](https://www.ft.lk/columns/What-is-wrong-with-Sri-Lanka/4-760143) · `en`
+
+It is not the country per se, but the politicians and the people who are wrong. While politicians should take 70% responsibility, the people also should take the rest or 30%. It is true that these wrongs on the part of the politicians or the people are not limited to Sri Lanka. Even in a country like Australia where I now live, there are intermittent corruption, crime, gender abuse, killing, and misguided politics. However, the difference is extremely vast. Sri Lanka’s wrongs are perhaps 50 times higher than a country like Australia.
+
+...
+
+[Data](articles/e5423e40.json)
+
+---
 
 ### I am not responsible for the rejection of Maithri - He must take responsibility for the fall of the SK - State Minister Lasantha Alagavanna
 
@@ -757,6 +817,20 @@ The film's motion poster has been released as Look has been released on the titl
 [Data](articles/75c3999f.json)
 
 [Extended Data](ext_articles/75c3999f.ext.json)
+
+---
+
+### Colombo University Business Economic Summit 2024: Keynote address
+
+*2024-03-31 20:56:32* · [`dailyftlk`](https://www.ft.lk/columns/Colombo-University-Business-Economic-Summit-2024-Keynote-address/4-760120) · `en`
+
+Since India is also planning to become a developed country just one year before Sri Lanka’s target year, it is important that Sri Lanka should ride the bandwagon of India
+
+Sri Lanka should reduce the size of its Government progressively and reallocate its scanty resources for the promotion of the technological base in the economy. For this purpose, it should engage its universities and research institutes to conduct new research and come up with inventions which could be successfully converted to commercial products for sale in the global markets. For this, it is necessary for the country to establish a learning society at all levels, family, schools, universities, and workplaces. It is only a learning society that could create new things that will enable the country to generate wealth and prosperity
+
+...
+
+[Data](articles/8397c9e6.json)
 
 ---
 
@@ -2289,115 +2363,5 @@ The incident has attracted attention and prompted the authorities to deeply inve
 [Data](articles/ef67ee19.json)
 
 [Extended Data](ext_articles/ef67ee19.ext.json)
-
----
-
-### Levy imposed on several items imported from Singapore slashed
-
-*2024-03-31 11:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/98320/levy-imposed-on-several-items-imported-from-singapore-slashed) · `en`
-
-The government has taken steps to reduce the Ports and Airports Development Levy (PAL) imposed on several items imported under the Sri Lanka-Singapore Free Trade Agreement (FTA).
-
-The PAL which prevailed at 10% has now been reduced to 6% with effect from March 29, the Ministry of Finance said.
-
-Thus, the relevant levy imposed on several types of cement, a variety of fruits including apples and infants’ foods other than milk foods approved by the Director General of Health Services, and multiple other items imported under the Sri Lanka-Singapore FTA have been slashed.
-
-Steps have also been taken to revise the taxes levied on medicines, surgical instruments, electrical equipment, bathroom equipment, polythene and plastic, aluminum and wooden items imported under the relevant FTA.
-
-...
-
-[Data](articles/9c66816d.json)
-
-[Extended Data](ext_articles/9c66816d.ext.json)
-
----
-
-### Higher effects to Haiti economy due to violence
-
-*2024-03-31 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195124) · `si`
-
-Violence in Haiti severely impacts its economy, leading to increased poverty and a decline in tourism, affecting the Caribbean's poorest state.
-
-🟩
-
-The economy of the people of the country have been severely affected due to violence in the Haiti.
-
-Accordingly, experts are posted on experts, the Haitian kingdom will become more poverty.
-
-Haitian in the Caribbean region is considered the most poor state of the region.
-
-The main economic centers of Haiti is under armed gangs, including the ports of Haiti.
-
-Tourists have declined due to violence in the country and the tourism industry, including the hotels, have faced a recession.
-
-◼️
-
-[Data](articles/e7c4f5db.json)
-
-[Extended Data](ext_articles/e7c4f5db.ext.json)
-
----
-
-### Global Economic Impacts of Baldimore Harbor Disaster
-
-*2024-03-31 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180052) · `ta`
-
-The Baldimore Harbor disaster led to a ship losing power and crashing into the Francis Key Bridge, causing it to collapse. This incident highlights the critical importance of emergency power systems and the potential for such events to disrupt global economic activities.
-
-🟩
-
-According to initial reports, the ship departed and lost its electricity within a few minutes. Although the emergency efficiency is operated, the power supply is not available to operate the ship. The ship lost control and crashed into the main base of the Francis Key Bridge in a few minutes. Within a few seconds the bridge collapsed.
-
-◼️
-
-[Data](articles/f76f06ed.json)
-
-[Extended Data](ext_articles/f76f06ed.ext.json)
-
----
-
-### “Water tanks have not been cleaned for 20 years”
-
-*2024-03-31 11:26:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்த்-தொட்டிகள்-20-வருடங்களாக-சுத்தப்படுத்தப்படவில்லை/175-335395) · `ta`
-
-Dr. Rukshan Bellana, Deputy Director of the National Hospital, revealed that the hospital's water storage tanks, including the main water tower, haven't been cleaned for 20 years, despite standard protocols suggesting at least quarterly cleaning. This oversight poses a risk to patient and staff health, as well as equipment in surgical rooms and laboratories.
-
-🟩
-
-Deputy Director of the National Hospital (NHC) Dr. Rukshan Bellana said that the hospital's main water tower and other water storage tanks have not been cleaned for the past 20 years.
-
-Commenting on the media, he said that the hospital currently has about 161 water storage tanks, including the main water tower.
-
-Surprisingly, there are no records of documenting these tanks cleaning table or installation dates, according to the standard protocols, Bellana said that water storage tanks should be cleaned at least once in three months.. But it is shocking that these tanks have not been cleaned for the past 20 years.
-
-Dr. Bellana expressed concern over the lack of attention to the hospital's health inspectors. He said that when regular water samples are sent to the Medical Research Institute (MRI) annually to verify the levels of Bitteria, this alone does not guarantee the cleanliness of the water. There can be harmful contaminants in the water, which puts patients and staff the same danger.
-
-...
-
-[Data](articles/e8487019.json)
-
-[Extended Data](ext_articles/e8487019.ext.json)
-
----
-
-### Taxes of imported goods from Singapore is reduced
-
-*2024-03-31 11:14:12* · [`adalk`](https://www.ada.lk/breaking_news/සිංගප්පූරුවෙන්-ආනයනික-භාණ්ඩ-වල-බදු-අඩු-කෙරේ/11-408854) · `si`
-
-The Finance Ministry of Sri Lanka has reduced the tax on imported goods from Singapore under the Free Trade Agreement, effective from March 29th. This includes a 10% reduction on goods like apples, and a 6% reduction on items such as carcasses, motorbike materials, and bicycle materials. The reduction also applies to plastics, aluminum, wooden goods, drugs, surgical equipment, electrical equipment, and bathroom equipment.
-
-🟩
-
-The Finance Ministry has taken steps to reduce the 10 percent of the ports of goods imported under the Free Trade Agreement of the Sri Lanka - Singapore Free Trade Agreement, which is effective from 29th March.
-
-Accordingly, the ports, including apple, including apple, and the port and airport developer for children, carcasses, motorbike materials, automation and bicycle materials, and 6 percent to 6 percent 6 per centIt is reported that has been reduced to date.
-
-Steps have also taken steps to amend the plastics, aluminum and wooden goods, drugs, surgical equipment, electrical equipment, bathroom equipment and bathroom equipment.
-
-◼️
-
-[Data](articles/8668e022.json)
-
-[Extended Data](ext_articles/8668e022.ext.json)
 
 ---

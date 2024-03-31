@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 12:33:41**
+As of **2024-03-31 12:49:26**
 
 ## Newspaper Stats
 
-*Scraped **16,137** Articles*
+*Scraped **16,139** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 144
 bbccomsinhala | 170
-dbsjeyarajcom | 199
+dbsjeyarajcom | 200
 newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 885
@@ -19,40 +19,64 @@ adalk | 1,350
 tamilmirrorlk | 1,931
 adaderanalk | 1,948
 virakesarilk | 2,289
-dailymirrorlk | 2,487
+dailymirrorlk | 2,488
 adaderanasinhalalk | 2,608
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,136 (100.0%) of 16,137 articles have been extended.
+16,137 (100.0%) of 16,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### තිස්සමහාරාමයේදී වෙඩි වැදුණු තරුණයෙකු රෝහල්ගතකරයි
+### Man shot dead at Tissamaharama
 
 *2024-03-31 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195126) · `si`
 
-තිස්සමහාරාම ප්‍රදේශයේ පොලීසිය සිදුකළ වැටලීමක් අතරතුරදී ගිනි අවියක් ක්‍රියාත්මක වීමෙන් පුද්ගලයෙකු තුවාල ලබා තිබේ.
+In Tissamaharama, a 28-year-old was shot and injured during a police raid on a gambling den. The suspects fled, and the victim was taken to Hambantota Hospital. A special investigation is underway.
 
-මෙලෙස තුවාල ලබා ඇත්තේ 28 හැවිරිදි වියේ පසුවන තරුණයෙක් බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති .
+🟩
 
-ඊයේ රාත්‍රී 12ත් 1ත් අතර තිස්සමහාරාම පොලීසියට ලද තොරතුරකට අනුව එම ප්‍රදේශයේ සූදුපොළක් වැටලීම සඳහා තිදෙනෙකුගෙන් සමන්විත පොලිස් කණ්ඩායමක් පිටත්ව ගොස් තිබේ.
+A firearm was injured in a firearm during a raid carried out in the Tissamaharama area.
 
-පොලීසිය එහි ළඟාවීමත් සමඟ එම සූදුපොළේ සිටි පිරිස් පළාගොස් ඇති බව පොලීසිය පවසයි.
+Police Media Spokesperson DIG Deputy Inspector General of Police (UP)
 
-ඔවුන් අත්අඩංගුවට යාමේදී පොලිස් සැරයන්වරයෙකු සහ වෙඩි ප්‍රහාරයට ලක්වූ පුද්ගලයා අතර පොරබැදීමක් සිදුව ඇති බව පොලීසිය පවසයි.
+According to information received by the Tissamaharama police between 12- to 1 pm, three police team has left a team of police to raid a gaming in the area.
 
-එහිදී ගිනි අවිය ක්‍රියාත්මකවීමෙන් තුවාල ලැබූ 28 හැවිරිදි තරුණයා ප්‍රතිකාර සඳහා හම්බන්තොට රෝහලට ඇතුළත් කර තිබේ.
+Police said the police had fled the gambling with their reach.
 
-සිද්ධිය සම්බන්ධයෙන් තිස්සමහාරාම පොලීසිය මේ වනවිට විශේෂ විමර්ශනයක් ආරම්භ කර ඇත.
+Police sergeant and a police sergeant and the victim had been wrestled in their arrest.
+
+The 28-year-old youth who was injured in the firearm has been admitted to the Hambantota Hospital for treatment.
+
+The Tissamaharama police have launched a special investigation into the incident.
 
 ◼️
 
 [Data](articles/91b9e9f6.json)
+
+[Extended Data](ext_articles/91b9e9f6.ext.json)
+
+---
+
+### ‘Eye opening’: PM Modi lashes out at Congress for giving away Katchatheevu island to Sri Lanka
+
+*2024-03-31 11:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Eye-opening-PM-Modi-lashes-out-at-Congress-for-giving-away-Katchatheevu-island-to-Sri-Lanka/108-279889) · `en`
+
+India, March 31 (Mint) - Prime Minister Narendra Modi on Sunday lashed out at the Congress party over a controversial island, Katchatheevu that was given to Sri Lanka by former Indian Prime Minister Indira Gandhi in 1974. The Katchatheevu island debate has taken centre stage in Tamil Nadu politics as the Lok Sabha election nears.
+
+PM Modi on Sunday cited a report in Times of India that said, 'RTI reply shows how Indira Gandhi ceded the island to Sri Lanka'. The PM on the X platfrom wrote, "Eye-opening and startling! New facts reveal how Congress callously gave away Katchatheevu".
+
+PM Narendra Modi added, "Weakening India’s unity, integrity, and interests has been Congress’ way of working for 75 years and counting".
+
+According to the document obtained by Tamil Nadu's Bharatiya Janata Party (BJP) chief K Annamalai via an RTI application, the Indira Gandhi government in 1974 handed over the Katchatheevu island, located in Palk Strait to Sri Lanka.
+
+...
+
+[Data](articles/6ee3ed42.json)
 
 ---
 
@@ -899,6 +923,38 @@ Police Computer Crime Branch said the frauds on Facebook have also increased. (A
 [Data](articles/26ff3577.json)
 
 [Extended Data](ext_articles/26ff3577.ext.json)
+
+---
+
+### S.J.V.Chelvanayakam: Respected “Gandhian”Tamil Political  Leader  was a Christian by religion and a Hindu by culture.
+
+*2024-03-31 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83821) · `en`
+
+(This article was first written in 1997 for a special volume commemorating the birth centenary of Tamil political leader SJV Chelvanayakam. It is being reposted with slight changes to denote his 126th  birth anniversary on March 31)
+
+On September 6th 1977, Lalith Athulathmudali, then Minister of Trade said in Parliament “Samuel James Velupillai Chelvanayakam was born in Ipoh…. ..Ipoh is known as the cleanest City in Malaysia. Perhaps it was in the fitness of things that Mr. Chelvanayakam’s life was marked by a cleanliness unknown in contemporary politics.” Athulathmudali was speaking on the vote of condolence for SJV Chelvanayakam then.
+
+...
+
+[Data](articles/00854be8.json)
+
+[Extended Data](ext_articles/00854be8.ext.json)
+
+---
+
+### “Isso vadai”Cart and “Kottu Rotti”Stand Vendors Forbidden on Galle Face Green from  2024 Independence Day; SLPMCS Cites Sanitation Issues as Reason but Others Suspecct “Gentrification” of vendors and  Plans of moving them to Underground  spaces as real motive
+
+*2024-03-31 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83833) · `en`
+
+When renowned global TV chef and documentarian, Anthony Bourdain, tried street food on Galle Face Green for his episode in Sri Lanka in 2017, the public seaside walkway bustled with “issovadai” carts and “kottu” stands. Today, it’s a starkly different story.
+
+The vendors say the authorities have told them to clear out. Some have returned home, to Slave Island, without work. But many have shifted their carts to the Galle Road border, resisting police and risking turf wars with preexisting roadside sellers.
+
+Galle Face Green goes back to 1859 when it was used for British colonial sporting events. Over the years, it transformed into an iconic space where the public gather to eat street food, fly kites and watch the spectacular sunsets.
+
+...
+
+[Data](articles/a7e9c2c1.json)
 
 ---
 
@@ -2193,75 +2249,5 @@ It is noteworthy that Sri Lankans have been abducted in the field of information
 [Data](articles/4dc35ce0.json)
 
 [Extended Data](ext_articles/4dc35ce0.ext.json)
-
----
-
-### China, Sri Lanka ink MoU on conformity assessment cooperation
-
-*2024-03-30 11:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/China-Sri-Lanka-ink-MoU-on-conformity-assessment-cooperation/108-279879) · `en`
-
-China, March 30 (China Daily) - The China Quality Certification Center and the Sri Lanka Bureau of Standards signed a Memorandum of Understanding on Friday on mutual recognition of conformity assessment results at a ceremony held in Shanghai.
-
-Dinesh Gunawardena, prime minister of Sri Lanka, hailed the signing of the agreement as a milestone in China-Sri Lanka cooperation, facilitated by the two countries' joint efforts to establish closer ties.
-
-It will help promote mutual recognition of quality certification systems between the two nations, providing more convenient services for bilateral trade and investment, said Gunawardena.
-
-"This will elevate product quality and competitiveness in both nations, fostering economic prosperity while deepening friendship and welfare for our peoples," he added.
-
-The prime minister also awarded Du Chao, general manager of Hualan Inspection Company Sri Lanka, as ambassador for investment promotion.
-
-...
-
-[Data](articles/505db202.json)
-
-[Extended Data](ext_articles/505db202.ext.json)
-
----
-
-### Karuna resolution to support Ranil
-
-*2024-03-30 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180009) · `ta`
-
-Karuna supports Ranil, citing the President's economic changes as a sign of Sri Lanka's economic recovery.
-
-🟩
-
-The President has changed the economic status of Sri Lanka, Karuna said.
-
-Karuna has told DailyMirr that this is a sign that Sri Lanka's economy is returning to the road.
-
-◼️
-
-[Data](articles/b38f1d1e.json)
-
-[Extended Data](ext_articles/b38f1d1e.ext.json)
-
----
-
-### Arrest woman for selling cannabis
-
-*2024-03-30 11:18:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/கஞ்சா-விற்பனை-செய்த-பெண்-கைது/75-335362) · `ta`
-
-J. Sameera, 38, arrested in Rotawewa for selling cannabis. Police raid led to arrest. Residents reported her drug sales to police.
-
-🟩
-
-A woman who was involved in ganja selling in the Rotawewa area of the Trincomalee - Morawewa police division has been arrested today (29), police said.
-
-It is also revealed that the woman was arrested during a raid on the investigation by the Morawewa police, which investigated investigations into the sale of drugs.
-
-The arrested was J. Sameera (38 years old) from the same area.
-
-It is reported that the woman has been arrested with the help of the police and has been arrested in Trincomalee with the help of the police.
-
-At the same time, the residents of the area say that several letters have been sent to the Inspector General of Police that the woman is engaged in cannabis drug sales.
-
-At the same time, on the instructions of the Morawewa Police Officer Nagathana, a group of people, including the author of the drug detention unit, Sandrasiri, was seized by 52,160 milligrams of Kerala ganja.
-
-...
-
-[Data](articles/7fd85636.json)
-
-[Extended Data](ext_articles/7fd85636.ext.json)
 
 ---

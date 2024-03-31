@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 12:03:20**
+As of **2024-03-31 12:18:07**
 
 ## Newspaper Stats
 
-*Scraped **16,135** Articles*
+*Scraped **16,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,63 @@ tamilmirrorlk | 1,931
 adaderanalk | 1,948
 virakesarilk | 2,289
 dailymirrorlk | 2,487
-adaderanasinhalalk | 2,606
+adaderanasinhalalk | 2,607
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,132 (100.0%) of 16,135 articles have been extended.
+16,135 (100.0%) of 16,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### வைத்தியசாலையில் தடுப்பூசி ஏற்றியவர் மரணம்
+### ගලහදී ගිනි අවියක් සමග කොටුවූ සැකකරු
+
+*2024-03-31 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195125) · `si`
+
+යුක්තිය මෙහෙයුමට සමගාමීව සිදුකළ විශේෂ වැටලීමකදී ගිනි අවියක් සමග සැකපිට පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+ගම්පොළ පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් විසින් මෙම වැටලීම සිදුකර තිබුණි.
+
+එහිදී සොයාගෙන ඇත්තේවිදෙස් රටක නිෂ්පාදනය කරන ලද බෝර 12 වර්ගයේ ගිනි අවියක් සහ එයට යොදන ජීව උණ්ඩ 5කි.
+
+ගලහ පොලිස් බල ප්‍රදේශයේ පුපුරැස්ස නුවරඑළිය ප්‍රධාන මාර්ගයේ ආයුර්වේද කෑල්ල ප්‍රදේශයේදී කළ වැටලීමකදී සැකකරු සහ ගිනි අවිය සොයාගෙන ඇත.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 32 හැවිරිදි වියේ පසුවූ දෙල්තොට ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+අත්අඩංගුවට ගත් සැකකරු සහ ගිනි අවිය වැඩිදුර විමර්ශන සඳහා ගලහ පොලිස් ස්ථානය වෙත භාරදී තිබේ.
+
+◼️
+
+[Data](articles/6aab8869.json)
+
+---
+
+### Death of the vaccine in the hospital
 
 *2024-03-31 11:39:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலையில்-தடுப்பூசி-ஏற்றியவர்-மரணம்/175-335396) · `ta`
 
-றாகம போதனா வைத்தியசாலையில் 50 வயதுடைய நோயாளி ஒருவர் தடுப்பூசியைப் பெற்றுக்கொண்ட சிறிது நேரத்திலேயே பரிதாபமாக உயிரிழந்ததைத் தொடர்ந்து சுகாதார அமைச்சு விசாரணைகளை ஆரம்பித்துள்ளது.
+A 50-year-old patient died at Ragama Teaching Hospital after receiving a vaccine. The Health Ministry is investigating. The cause of death is unknown, but allergies to the vaccine are not ruled out.
 
-காது தொடர்பான மருத்துவத்திற்காக மருத்துவமனையில் அனுமதிக்கப்பட்டிருந்த நோயாளி, பற்றீரியா தொற்றுகளை எதிர்த்துப் போராட பொதுவாகப் பயன்படுத்தப்படும் அன்டிபயோடிக் 'கோ-அமோக்ஸிக்லாவ்' தடுப்பூசியை செலுத்திய பின்னர் காலமானார்.
+🟩
 
-சம்பவம் தொடர்பான சூழ்நிலைகளை அறிந்து கொள்வதற்காக மருத்துவமனை மட்டத்தில் முழுமையான உள்ளக விசாரணையும் நடைபெற்று வருவதாக மருத்துவமனையின் பணிப்பாளர் வைத்தியர் சம்பத் ரணவீர உறுதிப்படுத்தினார்.
+The Health Ministry has begun investigations following a tragic death of a 50 -year -old patient at the Ragama Teaching Hospital shortly after receiving a vaccine.
 
-இறப்புக்கான காரணம் நிச்சயமற்றதாக இருந்தாலும், தடுப்பூசிக்கு ஒவ்வாமை ஏற்படுவதற்கான சாத்தியக்கூறுகளை அதிகாரிகள் நிராகரிக்கவில்லை.
+The patient, who was hospitalized for ear-related medicine, passed away after the Antibiotic 'Co-amoxiclao' vaccine used to fight bacteria.
 
-இந்த சம்பவம் கவனத்தை ஈர்த்துள்ளதுடன் நோயாளியின் மரணத்திற்கு வழிவகுக்கும் நிகழ்வுகளை ஆழமாக ஆராய அதிகாரிகளைத் தூண்டியுள்ளது.
+Dr. Sampath Ranweera, Director of the Hospital, confirmed that a full internal investigation is underway at the hospital level to learn about the incident.
+
+Although the cause of death is uncertain, authorities have not rejected the possibility of allergies to the vaccine.
+
+The incident has attracted attention and prompted the authorities to deeply investigate the events that lead to the death of the patient.
 
 ◼️
 
 [Data](articles/ef67ee19.json)
+
+[Extended Data](ext_articles/ef67ee19.ext.json)
 
 ---
 
@@ -67,6 +95,8 @@ Steps have also been taken to revise the taxes levied on medicines, surgical ins
 ...
 
 [Data](articles/9c66816d.json)
+
+[Extended Data](ext_articles/9c66816d.ext.json)
 
 ---
 
@@ -96,15 +126,21 @@ Tourists have declined due to violence in the country and the tourism industry, 
 
 ---
 
-### பால்­டிமோர் துறை­முக அனர்த்­தத்தின் உல­க­ளா­விய பொரு­ளா­தார தாக்­கங்கள்
+### Global Economic Impacts of Baldimore Harbor Disaster
 
 *2024-03-31 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180052) · `ta`
 
-ஆரம்­பக்­கட்ட தக­வல்­க­ளின்­படி, கப்பல் புறப்­பட்டு சில நிமி­டங்­களில் அதன் மின்­சக்­தியை இழந்­தது. அவ­ச­ர­கால மின்­பி­றப்­பாக்கி இயக்­கப்­பட்­ட­போ­திலும், கப்­பலை இயக்­கு­வ­தற்­கான மின்சக்­தி கிடைக்­க­வில்லை. கட்­டுப்­பாட்டை இழந்த கப்பல் சில நிமி­டங்­களில் பிரான்சிஸ் கீ பாலத்தின் முக்­கிய அடிப்­ப­குதி மீது மோதி­யது. சில விநா­டி­க­ளுக்குள் பாலம் உடைந்து வீழ்ந்­தது.
+The Baldimore Harbor disaster led to a ship losing power and crashing into the Francis Key Bridge, causing it to collapse. This incident highlights the critical importance of emergency power systems and the potential for such events to disrupt global economic activities.
+
+🟩
+
+According to initial reports, the ship departed and lost its electricity within a few minutes. Although the emergency efficiency is operated, the power supply is not available to operate the ship. The ship lost control and crashed into the main base of the Francis Key Bridge in a few minutes. Within a few seconds the bridge collapsed.
 
 ◼️
 
 [Data](articles/f76f06ed.json)
+
+[Extended Data](ext_articles/f76f06ed.ext.json)
 
 ---
 
@@ -2225,27 +2261,5 @@ Her husband is still receiving treatment at the hospital and has been arrested i
 [Data](articles/6b99bc94.json)
 
 [Extended Data](ext_articles/6b99bc94.ext.json)
-
----
-
-### Indian Navy rescues 23 Pakistanis from hijacked Iranian vessel in Arabian Sea operation
-
-*2024-03-30 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98302/indian-navy-rescues-23-pakistanis-from-hijacked-iranian-vessel-in-arabian-sea-operation) · `en`
-
-The Indian Navy on Friday (Mar 29) rescued 23 Pakistani nationals from a hijacked Iranian fishing vessel. The navy launched a 12-hour-long operation against Somali pirates and forced them to surrender even without firing a bullet.
-
-The operation began in the early hours on Friday as Indian Navy warship INS Sumedha caught the hijacked vessel ‘FV A1-Kambar’. The operation was soon joined by another Indian warship, INS Sumedha, eventually leading to one more successful operation against piracy in the Arabian Sea.
-
-The navy detained the pirates and carried out an extensive sanitisation and inspection on board, to make sure the ship was safe to be guided towards a different location.
-
-According to media reports, nine pirates had boarded the Iranian vessel some 90 nautical miles southwest of Socotra Archipelago.
-
-In an official statement, the Indian Navy said, “We remain committed to ensuring maritime security in the region and safety of seafarers, irrespective of nationalities.”
-
-...
-
-[Data](articles/dd63c00a.json)
-
-[Extended Data](ext_articles/dd63c00a.ext.json)
 
 ---

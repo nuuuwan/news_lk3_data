@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 10:34:24**
+As of **2024-03-31 10:50:57**
 
 ## Newspaper Stats
 
-*Scraped **16,123** Articles*
+*Scraped **16,125** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 884
 islandlk | 899
-adalk | 1,348
+adalk | 1,349
 tamilmirrorlk | 1,928
 adaderanalk | 1,946
 virakesarilk | 2,288
-dailymirrorlk | 2,486
+dailymirrorlk | 2,487
 adaderanasinhalalk | 2,604
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,120 (100.0%) of 16,123 articles have been extended.
+16,123 (100.0%) of 16,125 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### පොහොට්ටුවේ විනය හදන්න සනත් නිශාන්තගේ බිරිදත් එක්කර ගනී
+
+*2024-03-31 10:13:40* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-විනය-හදන්න-සනත්-නිශාන්තගේ-බිරිදත්-එක්කර-ගනී/11-408853) · `si`
+
+හදිසි අනතුරකින් මිය ගිය හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ බිරිඳ  නීතිඥ චමරි පෙරේරා මහත්මියට ශ්‍රි ලංකා පොදු ජන පෙරමුණේ විනය මණ්ඩලයේ සමාජිකවක් ලෙස පත්කර තිබේ.
+
+එම විනය මණ්ඩලයේ ප්‍රධානීන් ලෙස ජනාධිපති නීතිඥ රසීක් ශාරුක් සහ ඩබ්ලිව්. දයාරත්න යන මහත්වරුන් පත්කළ බව ශ්‍රි ලංකා පොදු ජන පෙරමුණේ ප්‍රධාන ලේකම් සාගර කාරියවසම් මහතා සඳහන් කළේය. එම මණ්ඩලයේ සාමාජිකයින් හත්දෙනකු පත්කර ඇති අතර ඒ සඳහා පාර්ලිමේන්තු මන්ත්‍රීවරුන් පත්නොකිරීමට කීරණය කළ බව ඔහු පැවසීය.
+
+◼️
+
+[Data](articles/dd358b21.json)
+
+---
 
 ### President calls for unity and guarding against divisive agendas in Easter message
 
@@ -48,23 +62,47 @@ Furthermore, the Head of the State, who also reminded of the tragic events of th
 
 [Data](articles/ebbf5d5a.json)
 
+[Extended Data](ext_articles/ebbf5d5a.ext.json)
+
 ---
 
-### කිඹුල් ප්‍රහාරයකින් කාන්තාවක් මරුට
+### Woman dies after a crocodile attack
 
 *2024-03-31 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195122) · `si`
 
-මීගලෑව පොලිස් වසමේ කලංකුට්ටිව ඇලේ දිය නාමින් සිටි කාන්තාවක්ව කිඹුලෙකු විසින් ඩැහැගෙන ගොස් තිබේ.
+A 66-year-old woman died after being attacked by a crocodile in Kalkutan, Kankuthi, Meegalawa Police, while visiting Ele in the evening. Residents rescued her from the crocodile, but she passed away upon arrival at Thambuththegama hospital.
 
-ඊයේ (29) සවස් කාලයේදී එම කාන්තාව ඇලේ දියනෑමට ගිය අවස්ථාවේ එම අනතුර සිදුව ඇති බව පොලීසිය සඳහන් කරයි.
+🟩
 
-ප්‍රදේශවාසීන් එක් ව අදාළ කාන්තාව කිඹුලා ගෙන් මුදාගෙන තඹුත්තේගම රෝහලට ඇතුළත් කිරීමේදී මියගොස් තිබේ.
+Kalkutan, Kankuthi in Meegalawa Police, has been thrown into a crocodile.
 
-මෙලෙස මියගොස් ඇත්තේ, ලීකොළවැව, උස්ගලසියඹලංගමුව ප්‍රදේශයේ පදිංචි ව සිටි 66 හැවිරිදි කාන්තාවකි.
+The accident had occurred when the woman went to the Ele in the evening yesterday (29), police said.
+
+Residents of the area have rescued the woman from the Crocothy and has died on admission to the Thambuththegama hospital.
+
+The deceased is a 66 year old woman who was living in the Uzgalazambuwa area in Weligaswewa.
 
 ◼️
 
 [Data](articles/c6a23b83.json)
+
+[Extended Data](ext_articles/c6a23b83.ext.json)
+
+---
+
+### Man hospitalized after police shooting in Ranminithenna
+
+*2024-03-31 10:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-hospitalized-after-police-shooting-in-Ranminithenna/108-279886) · `en`
+
+Tissamaharama, March 31 (Daily Mirror) - An individual was hospitalized after he was shot at by the police during a raid in Ranminithenna.
+
+Police said the 30-year-old resident of Ranminithenna in Tissamaharama,  was injured.
+
+A group of police officers conducted a raid in the Ranminithenna area early this morning and while attempting to arrest the suspect, he was injured in the shoulder by a police shot.
+
+◼️
+
+[Data](articles/d5797e68.json)
 
 ---
 
@@ -180,19 +218,25 @@ Taxes charged for drugs, surgical equipment, electrical equipment, bathroom equi
 
 ---
 
-### චින සංචාරය නිමවා අගමැති යළි දිවයිනට
+### Prime Minister returns to the island
 
 *2024-03-31 09:08:03* · [`adalk`](https://www.ada.lk/breaking_news/චින-සංචාරය-නිමවා-අගමැති-යළි-දිවයිනට/11-408851) · `si`
 
-අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා ඇතුළු ශ්‍රී ලංකා දුත පිරිස සිය පස් දින චීන නිල සංචාරය නිමා කර ඊයේ (30දා) දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා සනාථ කළේය .
+Prime Minister Dinesh Gunawardena visited Sri Lanka, confirming the largest visit, with a delegation including himself, arriving at Katunayake airport. A China-Sri Lanka agreement was signed, and the group left for China on 4/22.
 
-මෙම සංචාරය තුළ දී චීනය හා ශ්‍රී ලංකාව අතර වැදගත් ගිවිසුම් රාශියක් අත්සන් කළ අතර , චීනය විසින්  ශ්‍රී ලංකාවට ලබා දී ඇති  ණය ප්‍රතිව්‍යුහගත කිරීම පිළිබඳව ද සාකච්ඡා පවත්වා තිබුණි.
+🟩
 
-අග්‍රාමාත්‍යවරයා ඇතුළු ශ්‍රී ලංකා දූත පිරිස 30 දා රාත්‍රී 07.00 ට චයිනා ඊස්ටන් ගුවන් සේවයේ එම්.යු. - 231 දරන ගුවන් යානයෙන් චීනයේ සිට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි. මෙම පිරිස ඉකුත් 03/24 දින ශ්‍රී ලංකාවෙන් චීනය බලා පිටත්ව ගොස් තිබුණි .
+Prime Minister Dinesh Gunawardena and the Sri Lankan expulsions have confirmed that the Sri Lankan largest visit arrived at the Katunayake airport yesterday (30).
+
+During the visit, China and Sri Lanka were also signed between China and Sri Lanka.
+
+Sri Lanka delegation including the Prime Minister at China Easton Airlines. The airplane was reached by China from China to Katunayake airport. The group had left for China on 4/22.
 
 ◼️
 
 [Data](articles/6277280d.json)
+
+[Extended Data](ext_articles/6277280d.ext.json)
 
 ---
 
@@ -2185,57 +2229,5 @@ Owing to the situation, at least 25 train journeys on the Coastal Line are facin
 [Data](articles/b80a05fb.json)
 
 [Extended Data](ext_articles/b80a05fb.ext.json)
-
----
-
-### Wife's death in ax attack;Husband injured
-
-*2024-03-30 09:41:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/கோடரி-தாக்குதலில்-மனைவி-மரணம்-கணவன்-படுகாயம்/75-335361) · `ta`
-
-In Trincomalee, a man was killed in an ax attack by a husband and wife, leading to the husband's hospitalization. The deceased wife, Siromala Fernandan, was 44. The husband, Wickremasinghe, 54, was arrested and is under investigation.
-
-🟩
-
-Husband has been admitted to Kantalai Hospital after a man was killed when a man was attacked by a husband and wife in an 85th area of the Trincomalee - Akbopura police division.
-
-The man who was angry with the man and his wife had attacked the husband and wife after the man's house was told not to make noise in the man's house.
-
-The husband was admitted to the Kantalai Hospital after the two injured were admitted to the hospital.
-
-The deceased female, Akbopura -85, is a 44 -year -old Siromala Fernandan (44 years old).
-
-AWM Wickremasinghe, 54, from the same area allegedly assaulted by an ax, has been arrested and is investigating, Akbopura police said.R
-
-◼️
-
-[Data](articles/bd270b4b.json)
-
-[Extended Data](ext_articles/bd270b4b.ext.json)
-
----
-
-### The operation carried out in the Arabian Sea for 12 hours
-
-*2024-03-30 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195092) · `si`
-
-The Indian Navy rescued an Iranian fishing vessel and its 23 Pakistani crew in the Arabian Sea after a 12-hour operation against pirates, 90 nautical miles from Yemen's island.
-
-🟩
-
-The Indian Navy has rescued an Iranian fishing vessel and its staff in the Arabian Sea.
-
-The release was released after the operation with pirates for over 12 hours.
-
-Two Indian naval ships have been carried out in the Arabian Sea for marine security operations.
-
-The staff of 23 Pakistani nationals who were in the ship had secured safely.
-
-The operations have been carried out about 90 nautical miles away from the Indian Ocean Yemen's island, 35 pirates.
-
-◼️
-
-[Data](articles/8d88d380.json)
-
-[Extended Data](ext_articles/8d88d380.ext.json)
 
 ---

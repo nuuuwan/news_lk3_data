@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 15:03:14**
+As of **2024-03-31 15:17:54**
 
 ## Newspaper Stats
 
-*Scraped **16,158** Articles*
+*Scraped **16,159** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 885
 islandlk | 899
-adalk | 1,352
+adalk | 1,353
 tamilmirrorlk | 1,932
 adaderanalk | 1,951
 virakesarilk | 2,294
@@ -26,27 +26,51 @@ adaderanasinhalalk | 2,611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,156 (100.0%) of 16,158 articles have been extended.
+16,158 (100.0%) of 16,159 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### வெளிநாட்டில் தயாரிக்கப்பட்ட துப்பாக்கியுடன் ஒருவர் கைது!
+### ප්‍රේෂර් පම්පය අල්ලා මරුමුවට පත් සිද්ධියට මිතුරන් දෙදෙනා රිමාන්ඩ්
+
+*2024-03-31 14:33:07* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රේෂර්-පම්පය-අල්ලා-මරුමුවට-පත්-සිද්ධියට-මිතුරන්-දෙදෙනා-රිමාන්ඩ්/11-408856) · `si`
+
+මාබිම ප්‍රදේශයේ පුද්ගලික ආයතනයක සේවා  අංශයේ සේවකයෙකුගේ ගුද මාර්ගයට හුලං බටයක් ඇල්ලීමෙන් මරුමුවට පත්වු සිද්ධිය සම්බන්ධව අත් අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටි  එම ආයතනයේම සේවකයින් දෙදෙනෙකු තවදුරටත් ලබන  අප්‍රේල් මස 05 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තැබීමට මහර අංක 02 අධිකරණයේ මහේස්ත්‍රාත් ජනිතා පෙරේරා මහත්මිය නියම කරනු ලැබුවාය.
+
+මෙම  සැකකාර සේවකයින් දෙදෙනා විසින් ඉකුත් 25 වැනිදා දහවල් එම ආයතනය තුලදී මියගිය සේවකයාගේ ගුද මාර්ගයට විහිලුවට  හුලං බටයක් ඇල්ලීමෙන් ඔහු  අසාධ්‍ය තත්ත්වයට පත් වී  රාගම මහා රෝහලට ඇතුළත් කර තිබිණි.
+
+එහිදී ඔහු  නේවාසිකව ප්‍රතිකාර ලබමින් සිටියදී ඉකුත් 28 වැනිදා රාත්‍රීයේ මියගිය ගියේය.
+
+මේ සිද්ධිය සිදුවු අවස්ථාවේම එම සැකකාර සේවකයින් දෙදෙනා අත් අඩංගුවට ගෙන ඉකුත් 28 වැනිදා දක්වා  රක්ෂිත බන්ධනාගාර ගත කර තිබු අතර පසුව එය ලබන අප්‍රේල් මස 05 වැනිදා දක්වා තවදුරටත් දීර්ඝ කළහ.
+
+◼️
+
+[Data](articles/2db8c4f9.json)
+
+---
+
+### One arrested with a firearm made abroad
 
 *2024-03-31 14:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180064) · `ta`
 
-கம்பஹா ரயில் நிலையத்துக்கு  அருகில் வெளிநாட்டில் தயாரிக்கப்பட்ட  துப்பாக்கி மற்றும் தோட்டாக்களுடன் ஒருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A 21-year-old from Rukahawila, Udukoda, was arrested near Gampaha railway station with a firearm and bullets made abroad. The suspect had 10 bullets for the T-56 category, 2.2 mm, and 7 bullets. Police took further action under Senior Superintendent of Police advice.
 
-கம்பஹா குற்றப் புலனாய்வு பிரிவினருக்கு கிடைத்த தகவலின் அடிப்படையில் கைது செய்யப்பட்ட  சந்தேக நபரிடமிருந்து துப்பாக்கியுடன் T - 56 வகை துப்பாக்க்கிக்குப் பயன்படுத்தப்படும் 10 தோட்டாக்களுடன் , 2.2 மில்லி மீற்றர் 7 தோட்டாக்களும் கைப்பற்றப்பட்டுள்ளன.
+🟩
 
-இவ்வாறு கைது செய்யப்பட்ட சந்தேக நபர் உந்துகொட, ருக்கஹவில பிரதேசத்தைச் சேர்ந்த 21 வயதுடையவராவார்.
+One person has been arrested with firearms and bullets made abroad near the Gampaha railway station, police said.
 
-இது தொடர்பில், சிரேஷ்ட பொலிஸ் அத்தியட்சகர் ஆலோசனையின் கீழ் மேலதிக நடவடிக்கையை பொலிஸார் மேற்கொண்டுள்ளனர்.
+Based on information received by the Gampaha Criminal Investigation Division, the suspect was seized from the suspect with a gun with 10 bullets used for the T -56 category, with 2.2 mm and 7 bullets.
+
+The suspect was the 21 -year -old from Rukahawila, Udukoda, who was arrested.
+
+In this regard, the police have taken further action under the advice of the Senior Superintendent of Police.
 
 ◼️
 
 [Data](articles/803b09a7.json)
+
+[Extended Data](ext_articles/803b09a7.ext.json)
 
 ---
 
@@ -262,23 +286,31 @@ The fire had not been harmed by fire and the property was damaged, police said.
 
 ---
 
-### කට තුළ පුපුරා යන අමුතු  ටොෆියක්  පච්චක් එක්ක කුඩු විශේෂයකුත් ඒ ඇතුලේ
+### There is a powder species with a strange toffee tattoo blowing in the mouth
 
 *2024-03-31 13:11:44* · [`adalk`](https://www.ada.lk/breaking_news/කට-තුළ-පුපුරා-යන-අමුතු--ටොෆියක්--පච්චක්-එක්ක-කුඩු-විශේෂයකුත්-ඒ-ඇතුලේ/11-408855) · `si`
 
-පාසල් දරුවන් ඉලක්ක කරගත් කට ඇතුළේ පුපුරා යන අමුතු ටොෆියකට පාසල් දරුවන් ඇබ්බැහි වී ඇතැයි මාතලේ දිස්ත්‍රික්කයේ පාසල් පාදක දෙමවිපියෝ අවධාරණය කරති.
+A powder toffee, blown into children's mouths, is causing addiction in Matale schools. Parents report it bursts in 5 minutes, sometimes in water, and is widely sold in school areas. Authorities suspect it's a drug, affecting children and adults, and call for immediate action.
 
-මෙම ටොෆි විශේෂය කට තුළ දී පුපුරා යන අයුරින් සකසා ඇති බවත් විනාඩි පහක් වැනි කාලයක් ඒ සදහා ගතවන බවත් දෙමව්පියෝ කියා සිටිති.
+🟩
 
-විවෘත කරන ලද ටොෆි වර්ග කිහිපයක් ජල බදුනකට දමා පරික්ෂා කිරිම් වල දී දෙමව්පියන් අවධාරණය කර සිටියේ ජලයේ පවා මෙම ටොෆි විශේෂය පුපුරා යන බවත් ඒ තුළ යම් කුඩු වශේෂයක්ද පවතින බව ඔවුහු කියා සිටියහ.
+School-based Departure in the Matale district emphasizes that school children have become addicted to a blown toffee inside the school children.
 
-ටොෆිය තුළම ටැටු සහිත ස්ටිකරයක් ද පවතින බව කියා සිටි දෙමවිපියන් අවධනාරණය කර සිටියේ පාසල් අසල පිහිටි කුඩා වෙළදසැල් තුළ මෙම ටොෆි බහුලව දක්නට ලැබෙන බවයි.
+Parents say that this toffee species is set in a burst, and it will take for five minutes.
 
-යම් මත් විශේෂයක් හෝ වෙනත් කිසියම් අයුරින් ශරිර වලට අහිතකර යම් ද්‍රව්‍යයකින් මෙම ටොෆි විශේෂය නිපදවා ඇති බවට සැක කරන දෙමවිපියන් අවධාරණය කර සිටින්නේ දිවයිනේ විවිධ ප්‍රදේශ වල අලවිය සදහා ඇති මෙම ටොෆි විශේෂය කුඩා දරුවාගේ සිට වැඩිහිටි පාසල් දරුවා දක්වා පමණක් අලවි කරන බවයි.
+They claimed that some of the opened toffee crashes into a water bowl and stressed that the toffeal was burst in water, even in the water.
 
-...
+The topsies were widely seen in small shops near schools that there was a sticker in toffee.
+
+Departure, which suspected that this toffee species have produced a large number of drugs or any other parts of the country, has been pasted from the small child to the adult school child.
+
+Departure also emphasizes that this toffee species are increasingly for the toffee pasy due to lack of loudness within the mouth and exploded school children.. Parents emphasize the immediate attention to the relevant sectors.
+
+◼️
 
 [Data](articles/b619f4b1.json)
+
+[Extended Data](ext_articles/b619f4b1.ext.json)
 
 ---
 
@@ -2187,35 +2219,5 @@ Foreign media reports that China has invested more than US $ 65 billion for the 
 [Data](articles/b4165ac0.json)
 
 [Extended Data](ext_articles/b4165ac0.ext.json)
-
----
-
-### Several new recommendations pertaining to maximum retail price
-
-*2024-03-30 15:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195103) · `si`
-
-The Auditor General has issued new recommendations for the Consumer Affairs Authority, highlighting a decrease in market raids from 74% to 56% (2018-2022). These include identifying and including new regulations in the issuance of maximum retail price certificates for imported goods, enforcing legal action against unsuitable samples, and ensuring timely legal action against traders and manufacturers.
-
-🟩
-
-The Auditor of the National Audit Office has revealed some of the weaknesses of the Authority regarding the contribution of the Consumer Affairs Authority in the Consumer Affairs Authority.
-
-It states that the number of raid declines from 74% to 56% over the audit period of 2018 - 2022.
-
-The Auditor General has issued several new recommendations of Sivin.
-
-The new commands must be identified and included in the issuance of goods required to issue maximum retail price certificates regarding imported goods.
-
-To regulate the maximum retail price certificates, the market raid and regulating legal action against them.
-
-It is also mandatory to physically inspect the price before importers to obtain maximum retail price certificates.
-
-Not delaying legal action against those traders and manufacturers regarding samples that ensure that the sample test is not suitable or absolved.
-
-◼️
-
-[Data](articles/66642845.json)
-
-[Extended Data](ext_articles/66642845.ext.json)
 
 ---

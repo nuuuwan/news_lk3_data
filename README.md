@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 04:03:06**
+As of **2024-04-01 04:18:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,242 (100.0%) of 16,250 articles have been extended.
+16,250 (100.0%) of 16,250 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,8 @@ Ranasinghe, who has served in three parliaments, said, “These sentiments may d
 
 [Data](articles/95807bee.json)
 
+[Extended Data](ext_articles/95807bee.ext.json)
+
 ---
 
 ### Dilith declares himself as most suitable Pohottuwa presidential candidate
@@ -74,6 +76,8 @@ Speaking at a public gathering in Badulla, Jayaweera referenced a recent stateme
 
 [Data](articles/eedb2585.json)
 
+[Extended Data](ext_articles/eedb2585.ext.json)
+
 ---
 
 ### Manusha says President successfully completes economic recovery ‘suicide mission’
@@ -89,6 +93,8 @@ The Minister made this observation during the inauguration of the Jayagamu Sri L
 ...
 
 [Data](articles/7b4addef.json)
+
+[Extended Data](ext_articles/7b4addef.ext.json)
 
 ---
 
@@ -108,6 +114,8 @@ The prime minister’s post comes after documents obtained by BJP Tamil Nadu chi
 
 [Data](articles/bbb772df.json)
 
+[Extended Data](ext_articles/bbb772df.ext.json)
+
 ---
 
 ### SL exporters explore cutting-edge food technology at Anuga FoodTec Exhibition in Germany
@@ -121,6 +129,8 @@ Anuga FoodTec, which commenced on 19 March 2024, stands as a global leader in sh
 ...
 
 [Data](articles/708af096.json)
+
+[Extended Data](ext_articles/708af096.ext.json)
 
 ---
 
@@ -137,6 +147,8 @@ At its core, ‘Worky’ is a location-based service platform that allows prospe
 ...
 
 [Data](articles/c13f817c.json)
+
+[Extended Data](ext_articles/c13f817c.ext.json)
 
 ---
 
@@ -158,6 +170,8 @@ With this strategic alliance in place, the reach of Supreme Media gets expanded 
 
 [Data](articles/0b4ad506.json)
 
+[Extended Data](ext_articles/0b4ad506.ext.json)
+
 ---
 
 ### EY ASEAN Head visits BOI
@@ -169,6 +183,8 @@ Liew Nam Soon Asean Regional Managing Partner as well as EY Singapore and Brunei
 ◼️
 
 [Data](articles/47c9db21.json)
+
+[Extended Data](ext_articles/47c9db21.ext.json)
 
 ---
 

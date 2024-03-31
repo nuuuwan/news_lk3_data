@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 16:33:49**
+As of **2024-03-31 16:49:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,615
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,168 (100.0%) of 16,170 articles have been extended.
+16,170 (100.0%) of 16,170 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The police suspect that the victim may have died due to a heart attack and the B
 ◼️
 
 [Data](articles/373879d7.json)
+
+[Extended Data](ext_articles/373879d7.ext.json)
 
 ---
 
@@ -1757,6 +1759,8 @@ G.E.B. Milhuissen, who owned a thriving timber firm named Cetrac, in Peliyagoda 
 ...
 
 [Data](articles/7f1fc8b4.json)
+
+[Extended Data](ext_articles/7f1fc8b4.ext.json)
 
 ---
 

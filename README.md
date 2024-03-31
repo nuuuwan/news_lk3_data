@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 05:59:36**
+As of **2024-03-31 06:58:16**
 
 ## Newspaper Stats
 
-*Scraped **16,090** Articles*
+*Scraped **16,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ dailyftlk | 864
 economynextcom | 884
 islandlk | 887
 adalk | 1,345
-tamilmirrorlk | 1,924
+tamilmirrorlk | 1,925
 adaderanalk | 1,943
 virakesarilk | 2,286
 dailymirrorlk | 2,484
-adaderanasinhalalk | 2,597
+adaderanasinhalalk | 2,598
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,090 (100.0%) of 16,090 articles have been extended.
+16,090 (100.0%) of 16,092 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවු වැසි
+
+*2024-03-31 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195116) · `si`
+
+බස්නාහිර, දකුණ, සබරගමුව, වයඹ සහ මධ්‍යම පළාත්වල අද (31) ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, උතුර, උතුරුමැද, ඌව සහ නැගෙනහිර පළාත්වල ස්ථාන ස්වල්පයක ප.ව. 2.00න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+සබරගමුව සහ බස්නාහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි. මී. 75ක පමණ තරමක තද වැසි ඇතිවේ.
+
+මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/923a6a79.json)
+
+---
 
 ### Health Ministry probes fatal incident at Ragama Hospital
 
@@ -51,6 +71,24 @@ The incident has sparked concerns and prompted authorities to delve deeper into 
 [Data](articles/57bf206e.json)
 
 [Extended Data](ext_articles/57bf206e.ext.json)
+
+---
+
+### ஜனாதிபதியின் ஈஸ்டர் தினச் செய்தி
+
+*2024-03-31 02:14:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-ஈஸ்டர்-தினச்-செய்தி/175-335387) · `ta`
+
+இலங்கை கிறிஸ்தவர்களால் மிகுந்த மரியாதையுடனும் பக்தியுடனும் கொண்டாடப்படும் ஈஸ்டர் காலம் ஒரு கொடூரமான தீவிரவாத தாக்குதலைக் கண்டிருந்தது. அந்த மோசமான நினைவுகள் எமது மனங்களில் இருந்து ஒருபோதும் மறையாது என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க விடுத்துள்ள ஈஸ்டர் தினச் செய்தியில் தெரிவித்துள்ளார்.
+
+உலகெங்கிலும் உள்ள கிறிஸ்தவர்கள் இயேசு கிறிஸ்து உயிர்த்தெழுந்ததை நினைவுகூரும் முகமாக ஈஸ்டர் பண்டிகையைக் கொண்டாடுகின்றார்கள்.
+
+இயேசுவின் துன்பம், மரணம் மற்றும் உயிர்த்தெழுதலை நினைவுகூரும் 40 நாள் தவக் காலத்தில் கிறிஸ்தவர்கள் மதக் கடமைகளில் ஈடுபடுகின்றனர்.
+
+வரலாற்றில் மிக மோசமான பொருளாதாரச் சவாலை எதிர்கொண்ட ஒரு நாடு என்ற வகையில், தாங்கிக்கொள்ளும் இயலுமை நிறைந்த தேசமாக ஆசிர்வாதத்துடன் உயிர்த்தெழ ஆரம்பித்திருக்கின்றோம்.
+
+...
+
+[Data](articles/3688467f.json)
 
 ---
 
@@ -2233,41 +2271,5 @@ Under the far-reaching theme of ‘Big Opportunities | Bold Moves | Brave People
 [Data](articles/9cb94c42.json)
 
 [Extended Data](ext_articles/9cb94c42.ext.json)
-
----
-
-### DFCC Bank spotlights sustainability at 34th anniversary of the Association of Professional Bankers
-
-*2024-03-30 03:36:00* · [`islandlk`](http://island.lk/dfcc-bank-spotlights-sustainability-at-34th-anniversary-of-the-association-of-professional-bankers/) · `en`
-
-The 34th Anniversary Convention of the Association of Professional Bankers was recently held at the Hilton Colombo under the theme “Forward Gear—Road to Economic Sustainability.” Dr P. Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, was the Guest of Honour at the occasion.
-
-DFCC Bank also played a key role at the event, with CEO Thimal Perera in attendance, along with the top brass of other banks. Mr. Anton Arumugam, Senior Vice President of Offshore Banking, Remittances, and Business Development was a key organiser as Vice President of the Association of Professional Bankers. Meanwhile, the technical session on “Green Financing—The Road Ahead for Sri Lankan Banks” was moderated by Nalin Karunatileka, Vice President of Sustainability and Consulting at DFCC Bank.
-
-John Keells Properties launches Phase 2 of its latest real estate development, ‘Viman’ Ja-Ela
-
-Union Bank hosts engaging customer events celebrating International Women’s Day
-
-...
-
-[Data](articles/a6666c27.json)
-
-[Extended Data](ext_articles/a6666c27.ext.json)
-
----
-
-### Dialog Enterprise launches stronger customer cloud propositions with VMware by Broadcom
-
-*2024-03-30 03:34:00* · [`islandlk`](http://island.lk/dialog-enterprise-launches-stronger-customer-cloud-propositions-with-vmware-by-broadcom/) · `en`
-
-In light of the recent conclusion of Broadcom’s acquisition of VMware in the cloud computing and virtualization arena, Dialog Enterprise reaffirms its steadfast commitment to delivering exceptional services to its clientele. Through its prestigious invite-only partnership with Broadcom, Dialog Enterprise will continue to serve its customer base unfailingly as a reliable service provider in the region.
-
-Known for its strategic partnerships and prompt undertakings, Dialog Enterprise, the corporate ICT solutions arm of Dialog Axiata PLC., remains dedicated to empowering local enterprises with cutting-edge solutions. As such, the partnership with Broadcom promises to unlock new avenues for innovation and growth while assuring existing VMware customers and partners that their subscriptions and partnerships will remain unaffected.
-
-...
-
-[Data](articles/4fad1a63.json)
-
-[Extended Data](ext_articles/4fad1a63.ext.json)
 
 ---

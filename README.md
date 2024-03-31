@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 09:03:14**
+As of **2024-03-31 09:18:16**
 
 ## Newspaper Stats
 
-*Scraped **16,110** Articles*
+*Scraped **16,112** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,47 @@ dailyftlk | 864
 economynextcom | 884
 islandlk | 899
 adalk | 1,345
-tamilmirrorlk | 1,927
+tamilmirrorlk | 1,928
 adaderanalk | 1,943
 virakesarilk | 2,286
 dailymirrorlk | 2,485
-adaderanasinhalalk | 2,601
+adaderanasinhalalk | 2,602
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,110 (100.0%) of 16,110 articles have been extended.
+16,112 (100.0%) of 16,112 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### The argument that ended by murder
+
+*2024-03-31 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195120) · `si`
+
+A 42-year-old man from Amithirigala, Kudagama, was murdered by his 40-year-old brother with a sharp weapon. The incident occurred after a heated argument. Ruwanwella Police are investigating.
+
+🟩
+
+The younger brother has been killed and the younger brother killed by a sharp arm from a sharp weapon.
+
+Police said that the incident was reported yesterday at the Kudagama area yesterday (30).
+
+The deceased has been identified as a 42 year old resident of Amithirigala area in Kudagama.
+
+His younger brother had arrived in the surrounding house and had taken a heated argument.
+
+Police have arrested 40-year-old suspect, Ruwanwella Police are conducting further investigations.
+
+◼️
+
+[Data](articles/9b00d0dc.json)
+
+[Extended Data](ext_articles/9b00d0dc.ext.json)
+
+---
 
 ### UNESCO adopts landmark decision for International day of Vesak
 
@@ -213,6 +239,26 @@ The Mission of the National Cadet Corps is to train and inspire cadets using an 
 [Data](articles/cf984dd2.json)
 
 [Extended Data](ext_articles/cf984dd2.ext.json)
+
+---
+
+### Israel's compliance with peace talks
+
+*2024-03-31 02:45:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சமாதான-பேச்சுக்கு-இஸ்ரேல்-இணக்கம்/50-335391) · `ta`
+
+Israel's PM permits peace talks in Doha and Cairo, mediated by Qatar, aiming to declare a ceasefire on Gaza border and release hostages.
+
+🟩
+
+International media has reported that Israeli Prime Minister has given permission to hold this discussion in Doha and Cairo cities.. Qatar mediums in this discussion.
+
+The main purpose of this discussion is to declare a ceasefire on the Gaza border and release hostages. (A)
+
+◼️
+
+[Data](articles/0b5ec2d7.json)
+
+[Extended Data](ext_articles/0b5ec2d7.ext.json)
 
 ---
 
@@ -2233,47 +2279,5 @@ The spokesman of the Ministry of Health said that a person was running against t
 [Data](articles/f66071d5.json)
 
 [Extended Data](ext_articles/f66071d5.ext.json)
-
----
-
-### Sri Lanka earmarks Rs1bn for cricket development
-
-*2024-03-30 08:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-earmarks-rs1bn-for-cricket-development-156598/) · `en`
-
-ECONOMYNEXT – Preventing politicians from assuming high positions in sports clubs could contribute to a healthier sporting environment, President Ranil Wickremesinghe has said, pledging one billion rupees for cricket development.
-
-“It is important to maintain a clear distinction between politics and sports,” Wickremesinghe said advocating for the exclusion of politicians from high-ranking positions within sports clubs.
-
-This did not signify a disengagement from sports, he said. “The government has earmarked one billion rupees for cricket development this year, with plans for additional funding in the following year,” Wickremesinghe was speaking at the 125th anniversary celebration of the Sinhalese Sports Club (SSC) at the Shangri-La Hotel Colombo.
-
-This investment will be managed by a trust overseen by Sidath Wettamuni. The funds will be utilized to enhance cricket programs in rural schools, organize cricket matches and foster the growth of cricket at the grassroots level.
-
-...
-
-[Data](articles/859a9e7b.json)
-
-[Extended Data](ext_articles/859a9e7b.ext.json)
-
----
-
-### Showers or thundershowers expected after 2pm today
-
-*2024-03-30 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98297/showers-or-thundershowers-expected-after-2pm-today) · `en`
-
-Showers or thundershowers are expected in parts of the Western, Southern, Sabaragamuwa, North-central, Uva and North-western and Central provinces after 2.00 p.m., the Department of Meteorology says.
-
-The members of the public are advised to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-Showers or thundershowers may occur at a few places in the sea areas off the coast extending from Puttalam to Hambantota via Colombo and Galle during the afternoon or night.
-
-Winds will be easterly or variable and wind speed will be 20-30 kmph.
-
-Temporarily strong gusty winds and very rough seas can be expected during thundershowers.
-
-◼️
-
-[Data](articles/86f07164.json)
-
-[Extended Data](ext_articles/86f07164.ext.json)
 
 ---

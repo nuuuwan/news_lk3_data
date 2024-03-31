@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 23:33:30**
+As of **2024-03-31 23:52:19**
 
 ## Newspaper Stats
 
@@ -26,47 +26,63 @@ adaderanasinhalalk | 2,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,215 (100.0%) of 16,217 articles have been extended.
+16,217 (100.0%) of 16,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### ஜூலைக்குள் கடன் மறுசீரமைப்பின்றேல் பாரிய நெருக்கடிகள் ஏற்படும் - பாட்டலி சம்பிக்க ரணவக்க
+### There will be massive crises without debt restructuring by July - Batali Champika Ranawaka
 
 *2024-03-31 23:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180092) · `ta`
 
-வெளிநாட்டு அரசமுறை கடன்களை எதிர்வரும் ஜூலை மாதத்துக்குக்குள் மறுசீரமைக்காவிடின் தேசிய மற்றும் சர்வதேச மட்டத்தில் பாரிய நெருக்கடிகள் ஏற்படும். பஷிலின் ஆலோசனைக்கு அமைய செயற்படுவதா ? அல்லது நாட்டை ஸ்திரப்படுத்துவதா ?  என்பதை ஜனாதிபதியே தீர்மானித்துக் கொள்ள வேண்டும் என ஐக்கிய குடியரசு முன்னணியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+Batali Champika Ranawaka warns of national and international crises without debt restructuring by July. He criticizes the handling of racial conflicts and the imprisonment of Gnanasara Thera. The country is slightly stable from the economic crisis, and Ranawaka supports government economic recovery efforts.
 
-இரத்தினபுரி நகரில் ஞாயிற்றுக்கிழமை (31) இடம்பெற்ற நிகழ்வில் கலந்துக் கொண்டு உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+🟩
 
-உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் நடத்தப்பட்டு ஐந்து ஆண்டுகள் நிறைவடையவுள்ள நிலையில் இன்னும் உண்மை வெளிவரவில்லை.திட்டமிடப்பட்ட அரசியல் நாடகமாகவே இந்த குண்டுத்தாக்குதலை கருத வேண்டும்.ஐந்து வருடகால சூழ்ச்சியின் ஊடாகவே கோட்டபய ராஜபக்ஷ ஆட்சிக்கு வந்தார்.
+If foreign state loans are not reorganized by the next July, there will be massive crises at the national and international level. Does Bashil's advice?Or stabilizing the country?The president should decide, the UNP leader and parliamentarian Patali Champika Ranawaka said.
+
+He was speaking at a function held on Sunday (31) in Ratnapura.
+
+The truth has not yet been revealed as the life of the Sunday bombing was carried out.
+
+The Supreme Court has sentenced the General Secretary of the Bodu Bala Sena Organization Gnanasara Thera to four years' imprisonment for the commentary to create conflicts and harm the reconciliation.Those who have created conflicts among the ethnicities are free today. Before the Sunday bombing incident, racial conflicts were systematically created.
+
+It must be accepted that the country is slightly stable from the economic crisis.. We will cooperate with the best resolutions of the government for economic recovery.
 
 ...
 
 [Data](articles/c8da2680.json)
 
+[Extended Data](ext_articles/c8da2680.ext.json)
+
 ---
 
-### Derana 60 Plus Season 05 කිරුළ රංජිත් රත්නායකට
+### DERANA 60 PLUS SEASON 05 Ceremony Ranjith Ratnayake
 
 *2024-03-31 23:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195148) · `si`
 
-ගායන හැකියාවෙන් පිරිපුන් මෙරට ජ්‍යේෂ්ඨ පුරවැසියන් වෙනුවෙන් පැවැත්වෙන Derana 60 Plus Season 05 අවසන් මහා තරගයේ කිරුළ හිමි කර ගැනීමට රංජිත් රත්නායක මහතා සමත්විය.
+Ranjith Ratnayake won Drana 60 Plus Season 05, with Sunimal Peiris in second and third place. Ms. Samanmali Geethagege's song was the most popular.
 
-Derana 60 Plus Season 05 අවසන් මහා තරගය අද (31) රාත්‍රියේ අතිඋත්කර්ෂවත් අන්දමින් පැවැත්විය.
+🟩
 
-එහිදී අවසන් මහා තරගයේ දෙවන ස්ථානය සුනිමල් පීරිස් මහතා විසින් ජයග්‍රහණය කළේය.
+Ranjith Ratnayake was able to win the crowd of the Drana 60 plus Season, which will be held for Senior Citizens with singing capacity.
 
-Derana 60 Plus Season 05 අවසන් මහා තරගයේ තෙවන ස්ථානය හිමි කර ගත්තේ ධනවර්ධන ගාල්ලගේ මහතා විසිනි.
+Derana 60 PUS Season 05 The final was held at the end of the night.
 
-මේ අතර අවසන් මහා තරගයේ ජනප්‍රියම ගායන තරුව ලෙස සමන්මලී ගීකියනගේ මහත්මිය තේරී පත්විය.
+Sunimal Peiris won the second place in the final.
 
-වයස අවුරුදු 60ට වැඩි ජ්‍යේෂ්ඨ පුරවැසියන්ගේ ගායන කුසලතා ප්‍රදර්ශනයට වේදිකාවක් නිර්මාණය කරමින් මෙරට මාධ්‍ය ආයතනයක් සංවිධානය කළ පළමු රියැලටි අද්දැකීම Derana 60 Plus තරගාවලියයි.
+Drana 60 Plus Season 05 The third place was placed third in the final.
+
+Meanwhile, Ms. Samanmali Geethagege was elected as the most popular song of the final.
+
+The first Taualty experience of the country's media company organized a stage for the exhibition of senior citizens exhibition at the age of 60, the Drana 60 plus tournament.
 
 ◼️
 
 [Data](articles/2ecab1f4.json)
+
+[Extended Data](ext_articles/2ecab1f4.ext.json)
 
 ---
 

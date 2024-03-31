@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 23:52:19**
+As of **2024-04-01 00:03:09**
 
 ## Newspaper Stats
 
-*Scraped **16,217** Articles*
+*Scraped **16,221** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 170
 dbsjeyarajcom | 201
 newsfirstlk | 363
 dailyftlk | 864
-economynextcom | 885
+economynextcom | 887
 islandlk | 900
 adalk | 1,363
-tamilmirrorlk | 1,937
+tamilmirrorlk | 1,938
 adaderanalk | 1,959
-virakesarilk | 2,304
+virakesarilk | 2,305
 dailymirrorlk | 2,497
 adaderanasinhalalk | 2,629
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 2,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,217 (100.0%) of 16,217 articles have been extended.
+16,217 (100.0%) of 16,221 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### விஷ்மி, காவிஷா துடுப்பாட்டத்தில் அபாரம்; ரி20யில் தென் ஆபிரிக்காவை வீழ்த்தியது இலங்கை
+
+*2024-03-31 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180093) · `ta`
+
+பொச்செவ்ஸ்ட்ரூம் சென்வெஸ் பாக் விளையாட்டரங்கில் சனிக்கிழமை (30) நடைபெற்ற 2ஆவது மகளிர் சர்வதேச ரி20 கிரிக்கெட் போட்டியில் தென் ஆபிரிக்காவை 7 விக்கெட்களால் இலங்கை இலகுவாக வெற்றிகொண்டது.
+
+இதன் மூலம் 3 போட்டிகள் கொண்ட மகளிர் ரி20 சர்வதேச கிரிக்கெட் தொடரை 1 - 1 என இலங்கை சமப்படுத்திக் கொண்டுள்ளது.
+
+18 வயது பருவ மங்கை விஷ்மி குணரத்ன, 23 வயதான காவிஷா ஆகியோர் திறமையாகத் துடுப்பெடுத்தாடி பிரிக்கப்படாத 4ஆவது விக்கெட்டில் பகிர்ந்த 76 ஓட்டங்கள் இலங்கையின் வெற்றியை இலகுவாக்கியது.
+
+அப் போட்டியில் தென் ஆபிரிக்க மகளிர் அணியினால் நிர்ணயிக்கப்பட்ட 138 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய இலங்கை மகளிர் அணி 18.5 ஓவர்களில் 3 விக்கெட்களை இழந்து 138 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+
+அணித் தலைவி சமரி அத்தபத்து (6), ஹர்ஷிதா சமரவிக்ரம (12), ஹாசினி பெரேரா (1) ஆகியோர் குறைந்த ஓட்டங்களுடன் ஆட்டம் இழந்தனர். (62 - 3 விக்.)
+
+...
+
+[Data](articles/702c1923.json)
+
+---
 
 ### There will be massive crises without debt restructuring by July - Batali Champika Ranawaka
 
@@ -171,6 +191,42 @@ We see such a news release on the day of Jubilee Sunday. Such news has been reve
 [Data](articles/64fe7f39.json)
 
 [Extended Data](ext_articles/64fe7f39.ext.json)
+
+---
+
+### Sri Lanka cuts super diesel by Rs72, Octane 05 by Rs7
+
+*2024-03-31 22:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-super-diesel-by-rs72-octane-05-by-rs7-156669/) · `en`
+
+ECONOMYNEXT – Sri Lanka has cut the price of super diesel Euro 4, by 72 rupees a litre to 386 rupees, and petrol Octane 95 Euro 04 by 7 rupees to 440 rupees, state-run Ceylon Petroleum Corporation said.
+
+Kerosene prices was also cut by 12 rupees to 245 rupees a litre
+
+Standard diesel also remains unchanged at 363 rupees a litre, the CPC said.
+
+◼️
+
+[Data](articles/a89e2508.json)
+
+---
+
+### எரிபொருள்களில் விலை குறைப்பு
+
+*2024-03-31 22:00:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்களில்-விலை-குறைப்பு/175-335416) · `ta`
+
+ஞாயிற்றுக்கிழமை (31) நள்ளிரவு முதல் அமுலுக்கு வரும் வகையில் எரிபொருள் விலைகளில் மாற்றம் ஏற்படுத்தப்பட்டுள்ளதாக இலங்கை பெட்ரோலிய கூட்டுதாபனம் அறிவித்துள்ளது.
+
+ஒரு லீட்டர் ஒக்டேன் 95 ரக பெட்ரோலின் விலை 7 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன், அதன் புதிய விலையாக 440 ரூபா நிர்ணயிக்கப்பட்டுள்ளது.
+
+ஒரு லீட்டர் சுப்பர் டீசலின் விலை 72 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன், அதன் புதிய விலையாக 386 ரூபா நிர்ணயிக்கப்பட்டுள்ளது.
+
+ஒரு லீட்டர் மண்ணெண்ணெய்  விலை 12 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன், அதன் புதிய விலையாக 245 ரூபா நிர்ணயிக்கப்பட்டுள்ளது.
+
+ஒக்டேன் 92 ரக பெட்ரோல் மற்றும் ஒட்டோ டீசலின் விலைகளில் மாற்றம் ஏற்படுத்தப்படவில்லை
+
+◼️
+
+[Data](articles/2b85403c.json)
 
 ---
 
@@ -975,6 +1031,30 @@ It is reported that a fuel prices will take place in terms of the strength of th
 [Data](articles/05358f17.json)
 
 [Extended Data](ext_articles/05358f17.ext.json)
+
+---
+
+### Modi slams India Congress for giving up claims on Kachchthivu island to Sri Lanka
+
+*2024-03-31 17:21:00* · [`economynextcom`](https://economynext.com/modi-slams-india-congress-for-giving-up-claims-on-kachchthivu-island-to-sri-lanka-156628/) · `en`
+
+ECONOMYNEXT – India’s Prime Minister Narendra Modi has slammed a decision by India’s Congress party for giving up claims over Kachchathivu island, in the run up to April elections.
+
+“New facts reveal how Congress callously gave away #Katchatheevu,” Modi said in an X.com (twitter) post.
+
+“This has angered every Indian and reaffirmed in people’s minds- we can’t ever trust Congress!
+
+“Weakening India’s unity, integrity and interests has been Congress’ way of working for 75 years and counting.”
+
+He was citing a story on the Time of India which featured documents obtained by an RTI application.
+
+READ MORE: RTI reply shows how Indira Gandhi ceded island to Sri Lanka
+
+The Indian claims were based in part on rights given by the British East India Company to the Raja of Ramnad, according to the report.
+
+...
+
+[Data](articles/18858d97.json)
 
 ---
 
@@ -2303,95 +2383,5 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/99bd24a0.json)
 
 [Extended Data](ext_articles/99bd24a0.ext.json)
-
----
-
-### The mother of two children killed in setting fire
-
-*2024-03-31 09:27:50* · [`adalk`](https://www.ada.lk/sports/සිරුරට-ගිනි-තබාගත්-දෙදරු-මව-මරුට/9-408852) · `si`
-
-A mother of two, identified as Kanakatha Lakshm, was killed in a fire in Panadura North. The victims were residents of Horakuduwa, Panadura. The police are investigating, with postmortem examinations underway at Panadura Base Hospital.
-
-🟩
-
-Panadura North Police say that the victim has been identified as a fireplay with a fireplay with a fireplay with a fireplay with a fireplay.
-
-The deceased have been identified as residents of Horakuduwa, Panadura, Panadura, Panadura, Panadura. The police said that Kanakatha Lakshm was a woman in a woman.
-
-According to the police, the parties have confirmed that the husband and wife have been confirmed since the time.
-
-The police said that the investigators were also carried out by the magisterial inquiry and the Panadura Division officials have been placed at the Panadura Base Hospital for postmortem.
-
-◼️
-
-[Data](articles/971ad029.json)
-
-[Extended Data](ext_articles/971ad029.ext.json)
-
----
-
-### Taxes of many items imported from Singapore will be reduced
-
-*2024-03-31 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195121) · `si`
-
-Singapore's taxes on items imported under the Sri Lanka-Singapore Free Trade Agreement have been reduced. The port and airport development tax on many goods has been lowered from 10% to 6% until March 6th. This includes fruits like apples and cement, affecting motorbike and bicycle parts. Taxes on drugs, surgical equipment, and various goods have also been revised.
-
-🟩
-
-The government has taken steps to reduce the port and airport development tax of many goods imported under the Free Trade Agreement of the Sri Lanka - Singapore Free Trade Agreement.
-
-Steps have been taken to reduce 10 percent of the 10 percent pal tax of 10 percent to 6th March.
-
-Accordingly, a few fruits, including apple, including the cement, apple, which is imported to the Sri Lanka-Singapore Free Trade Agreement, have been reduced to 6 percent.
-
-It is reported that the port and airport development tax has been reduced to 10 percent to 6 per share, motorbike, motorbike and bicycle parts.
-
-Taxes charged for drugs, surgical equipment, electrical equipment, bathroom equipment, bathroom equipment, bathroom equipment, bathroom equipment, plastic, aluminum and wooden goods have been revised.
-
-2377-39 March 28, 2024 - English Character Under Section 03 of PAL BY POORNIMA ON SCRIBD
-
-◼️
-
-[Data](articles/532b750b.json)
-
-[Extended Data](ext_articles/532b750b.ext.json)
-
----
-
-### Prime Minister returns to the island
-
-*2024-03-31 09:08:03* · [`adalk`](https://www.ada.lk/breaking_news/චින-සංචාරය-නිමවා-අගමැති-යළි-දිවයිනට/11-408851) · `si`
-
-Prime Minister Dinesh Gunawardena visited Sri Lanka, confirming the largest visit, with a delegation including himself, arriving at Katunayake airport. A China-Sri Lanka agreement was signed, and the group left for China on 4/22.
-
-🟩
-
-Prime Minister Dinesh Gunawardena and the Sri Lankan expulsions have confirmed that the Sri Lankan largest visit arrived at the Katunayake airport yesterday (30).
-
-During the visit, China and Sri Lanka were also signed between China and Sri Lanka.
-
-Sri Lanka delegation including the Prime Minister at China Easton Airlines. The airplane was reached by China from China to Katunayake airport. The group had left for China on 4/22.
-
-◼️
-
-[Data](articles/6277280d.json)
-
-[Extended Data](ext_articles/6277280d.ext.json)
-
----
-
-### Security tightened near churches
-
-*2024-03-31 09:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Security-tightened-near-churches/108-279885) · `en`
-
-Colombo, March 31 (Daily Mirror) - Inspector General of Police Deshabandu Tennakoon has instructed all police stations to deploy special security measures at churches hosting Easter Sunday services.
-
-A total of 6,522 police officers, 320 Police Special Task Force officers, and 2,746 military personnel have been deployed to secure 1,873 Christian churches across the island.
-
-◼️
-
-[Data](articles/18820420.json)
-
-[Extended Data](ext_articles/18820420.ext.json)
 
 ---

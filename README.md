@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 06:58:16**
+As of **2024-03-31 07:19:48**
 
 ## Newspaper Stats
 
-*Scraped **16,092** Articles*
+*Scraped **16,093** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,61 @@ tamilmirrorlk | 1,925
 adaderanalk | 1,943
 virakesarilk | 2,286
 dailymirrorlk | 2,484
-adaderanasinhalalk | 2,598
+adaderanasinhalalk | 2,599
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,090 (100.0%) of 16,092 articles have been extended.
+16,092 (100.0%) of 16,093 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවු වැසි
+### ලොව පුරා කිතුණු බැතිමතුන් පාස්කු දිනය සමරයි
+
+*2024-03-31 06:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195117) · `si`
+
+ජේසුස් ක්‍රිස්තුස් වහන්සේගේ උත්ථානය සිහිපත් කරමින් ලොව පුරා කිතුණු බැතිමතුන් සමරනු ලබන පාස්කු දිනය අදට යෙදී තිබේ.
+
+ජේසුස් ක්‍රිස්තුස් වහන්සේ සකල ලෝක වර්ගයා පාපයෙන් ගලවා ගැනීම සඳහා කුරුස ගසේ සිය ජීවිතය පූජාකර දින 03කට පසු උත්ථානය ලැබීම පාස්කු මංගල්‍යය ලෙස කිතුණුවන් සමරනු ලබයි.
+
+ජේසුස් වහන්සේගේ දුක් විඳීම, මරණය සහ උත්ථානය සිහිපත් කරමින් කිතුණුවන් විවිධ වත්පිළිවෙත් සිදුකරන අතර ගතකළ දින 40ක චතාරික සමය ද පාස්කු ඉරිදා දිනයෙන් අවසන් වෙයි.
+
+ඊශ්‍රායලයේ ජෙරුසලම් අගනුවර කල්වාරි කන්දේ දී කුරුසියේ ඇණ ගසා මරණයට පත්කළ උන්වහන්සේ අද වැනි දිනක උත්ථාන වී සිය අනුගාමිකයින්ට දර්ශනය වූ බව බයිබලයේ සඳහන්ය.
+
+පාස්කු මංගල්‍යය ශ්‍රී ලාංකික කිතුණු බැතිමතුන් ද ඉතා උත්කර්ෂවත් අයුරින් සමරනු ලබන ආගමික වැඩසටහනකි.
+
+◼️
+
+[Data](articles/661da84d.json)
+
+---
+
+### Showers over 75mm
 
 *2024-03-31 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195116) · `si`
 
-බස්නාහිර, දකුණ, සබරගමුව, වයඹ සහ මධ්‍යම පළාත්වල අද (31) ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers over 75mm expected in Western, Southern, Sabaragamuwa, North Western, and Central provinces today, with thundershowers in North, North Central, Uva, and Eastern provinces. Heavy showers in Sabaragamuwa, Western, Galle, and Matara districts. Public advised to reduce wind and lightning risks.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, උතුර, උතුරුමැද, ඌව සහ නැගෙනහිර පළාත්වල ස්ථාන ස්වල්පයක ප.ව. 2.00න් පමණ පසු වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-සබරගමුව සහ බස්නාහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි. මී. 75ක පමණ තරමක තද වැසි ඇතිවේ.
+Western, Southern, Sabaragamuwa, North Western and Central provinces today. Showers or thundershowers will occur at several places, about 2.00.
 
-මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් කළුතර, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+The department states in a few places in the North, North Central, Uva and Eastern provinces. Showers or thundershowers will occur after about 2.00.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+Some places in the Sabaragamuwa and Western provinces and in Galle and Matara districts. Mee. Heavy showers are about 75 times.
+
+Some locations, in some places in the Central, Sabaragamuwa and Uva provinces and in Kalutara, Galle and Matara districts are expected to be met.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/923a6a79.json)
+
+[Extended Data](ext_articles/923a6a79.ext.json)
 
 ---
 
@@ -74,21 +100,29 @@ The incident has sparked concerns and prompted authorities to delve deeper into 
 
 ---
 
-### ஜனாதிபதியின் ஈஸ்டர் தினச் செய்தி
+### President's Easter Day News
 
 *2024-03-31 02:14:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-ஈஸ்டர்-தினச்-செய்தி/175-335387) · `ta`
 
-இலங்கை கிறிஸ்தவர்களால் மிகுந்த மரியாதையுடனும் பக்தியுடனும் கொண்டாடப்படும் ஈஸ்டர் காலம் ஒரு கொடூரமான தீவிரவாத தாக்குதலைக் கண்டிருந்தது. அந்த மோசமான நினைவுகள் எமது மனங்களில் இருந்து ஒருபோதும் மறையாது என்று ஜனாதிபதி ரணில் விக்கிரமசிங்க விடுத்துள்ள ஈஸ்டர் தினச் செய்தியில் தெரிவித்துள்ளார்.
+Sri Lankan Christians celebrated Easter with devotion, but faced a tragic extremist attack. President Wickremesinghe acknowledged the painful memories, emphasizing unity and resilience in the face of economic challenges. The government pledges to uphold law and security, dedicating efforts to national development.
 
-உலகெங்கிலும் உள்ள கிறிஸ்தவர்கள் இயேசு கிறிஸ்து உயிர்த்தெழுந்ததை நினைவுகூரும் முகமாக ஈஸ்டர் பண்டிகையைக் கொண்டாடுகின்றார்கள்.
+🟩
 
-இயேசுவின் துன்பம், மரணம் மற்றும் உயிர்த்தெழுதலை நினைவுகூரும் 40 நாள் தவக் காலத்தில் கிறிஸ்தவர்கள் மதக் கடமைகளில் ஈடுபடுகின்றனர்.
+Easter time celebrated with great respect and devotion by Sri Lankan Christians saw a terrible extremist attack. President Ranil Wickremesinghe said in an Easter Day message that those bad memories never disappeared from our minds.
 
-வரலாற்றில் மிக மோசமான பொருளாதாரச் சவாலை எதிர்கொண்ட ஒரு நாடு என்ற வகையில், தாங்கிக்கொள்ளும் இயலுமை நிறைந்த தேசமாக ஆசிர்வாதத்துடன் உயிர்த்தெழ ஆரம்பித்திருக்கின்றோம்.
+Christians around the world celebrate Easter festival to commemorate the resurrection of Jesus Christ.
+
+Christians engage in religious obligations over the 40 -day period of recalling Jesus' suffering, death and resurrection.
+
+As a country that has faced the worst economic challenge in history, we have begun to resurrect with blessings as an efficient nation.
+
+It is necessary to work together to win the challenges faced by Sri Lanka as a multi -faceted country. Therefore, we, as Sri Lankans, maintain our unity and harmony and not get caught up with any forces that affect it, and dedicate the country's security, peace and development.
 
 ...
 
 [Data](articles/3688467f.json)
+
+[Extended Data](ext_articles/3688467f.ext.json)
 
 ---
 
@@ -2255,21 +2289,5 @@ A captivating discussion with Ms. Sandra Wanduragala, Founder Seyln Textiles, pr
 [Data](articles/3dfa3d71.json)
 
 [Extended Data](ext_articles/3dfa3d71.ext.json)
-
----
-
-### ‘BIG BOLD BRAVE 2024’ – HARVARD Asia Pacific Regional Conference in Sri Lanka
-
-*2024-03-30 03:36:00* · [`islandlk`](http://island.lk/big-bold-brave-2024-harvard-asia-pacific-regional-conference-in-sri-lanka/) · `en`
-
-The Harvard Club of Sri Lanka proudly announces, ‘BIG BOLD BRAVE 2024,’ a ground-breaking thought leadership conference set to take place from April 3rd to 5th, 2024, at the Galle Face Hotel in Colombo, Sri Lanka. is a collaboration of 15+ Harvard Clubs in the Asia Pacific region, the official Alumni Organisations of the prestigious Harvard University.
-
-Under the far-reaching theme of ‘Big Opportunities | Bold Moves | Brave People,’ the conference will explore critical areas that shape the region’s future, with topics areas including education, human capital development and jobs of the future, technology, digital economy and entrepreneurship, modernizing agriculture and food security, energy infrastructure development, and environmental sustainability and climate change adaptation.
-
-...
-
-[Data](articles/9cb94c42.json)
-
-[Extended Data](ext_articles/9cb94c42.ext.json)
 
 ---

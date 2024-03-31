@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 23:18:14**
+As of **2024-03-31 23:33:30**
 
 ## Newspaper Stats
 
-*Scraped **16,215** Articles*
+*Scraped **16,217** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ islandlk | 900
 adalk | 1,363
 tamilmirrorlk | 1,937
 adaderanalk | 1,959
-virakesarilk | 2,303
+virakesarilk | 2,304
 dailymirrorlk | 2,497
-adaderanasinhalalk | 2,628
+adaderanasinhalalk | 2,629
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,214 (100.0%) of 16,215 articles have been extended.
+16,215 (100.0%) of 16,217 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### ஜூலைக்குள் கடன் மறுசீரமைப்பின்றேல் பாரிய நெருக்கடிகள் ஏற்படும் - பாட்டலி சம்பிக்க ரணவக்க
+
+*2024-03-31 23:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180092) · `ta`
+
+வெளிநாட்டு அரசமுறை கடன்களை எதிர்வரும் ஜூலை மாதத்துக்குக்குள் மறுசீரமைக்காவிடின் தேசிய மற்றும் சர்வதேச மட்டத்தில் பாரிய நெருக்கடிகள் ஏற்படும். பஷிலின் ஆலோசனைக்கு அமைய செயற்படுவதா ? அல்லது நாட்டை ஸ்திரப்படுத்துவதா ?  என்பதை ஜனாதிபதியே தீர்மானித்துக் கொள்ள வேண்டும் என ஐக்கிய குடியரசு முன்னணியின் தலைவரும்,பாராளுமன்ற உறுப்பினருமான பாட்டலி சம்பிக்க ரணவக்க தெரிவித்தார்.
+
+இரத்தினபுரி நகரில் ஞாயிற்றுக்கிழமை (31) இடம்பெற்ற நிகழ்வில் கலந்துக் கொண்டு உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+உயிர்த்த ஞாயிறு குண்டுத்தாக்குதல் நடத்தப்பட்டு ஐந்து ஆண்டுகள் நிறைவடையவுள்ள நிலையில் இன்னும் உண்மை வெளிவரவில்லை.திட்டமிடப்பட்ட அரசியல் நாடகமாகவே இந்த குண்டுத்தாக்குதலை கருத வேண்டும்.ஐந்து வருடகால சூழ்ச்சியின் ஊடாகவே கோட்டபய ராஜபக்ஷ ஆட்சிக்கு வந்தார்.
+
+...
+
+[Data](articles/c8da2680.json)
+
+---
+
+### Derana 60 Plus Season 05 කිරුළ රංජිත් රත්නායකට
+
+*2024-03-31 23:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195148) · `si`
+
+ගායන හැකියාවෙන් පිරිපුන් මෙරට ජ්‍යේෂ්ඨ පුරවැසියන් වෙනුවෙන් පැවැත්වෙන Derana 60 Plus Season 05 අවසන් මහා තරගයේ කිරුළ හිමි කර ගැනීමට රංජිත් රත්නායක මහතා සමත්විය.
+
+Derana 60 Plus Season 05 අවසන් මහා තරගය අද (31) රාත්‍රියේ අතිඋත්කර්ෂවත් අන්දමින් පැවැත්විය.
+
+එහිදී අවසන් මහා තරගයේ දෙවන ස්ථානය සුනිමල් පීරිස් මහතා විසින් ජයග්‍රහණය කළේය.
+
+Derana 60 Plus Season 05 අවසන් මහා තරගයේ තෙවන ස්ථානය හිමි කර ගත්තේ ධනවර්ධන ගාල්ලගේ මහතා විසිනි.
+
+මේ අතර අවසන් මහා තරගයේ ජනප්‍රියම ගායන තරුව ලෙස සමන්මලී ගීකියනගේ මහත්මිය තේරී පත්විය.
+
+වයස අවුරුදු 60ට වැඩි ජ්‍යේෂ්ඨ පුරවැසියන්ගේ ගායන කුසලතා ප්‍රදර්ශනයට වේදිකාවක් නිර්මාණය කරමින් මෙරට මාධ්‍ය ආයතනයක් සංවිධානය කළ පළමු රියැලටි අද්දැකීම Derana 60 Plus තරගාවලියයි.
+
+◼️
+
+[Data](articles/2ecab1f4.json)
+
+---
 
 ### Ranjith Rathnayake wins ‘Derana 60 Plus - Season 5’
 
@@ -41,6 +79,8 @@ Ranjith Rathnayake won the Grand Finale of “Derana 60 Plus - Season 5” which
 ◼️
 
 [Data](articles/f717ac05.json)
+
+[Extended Data](ext_articles/f717ac05.ext.json)
 
 ---
 
@@ -2337,55 +2377,5 @@ A total of 6,522 police officers, 320 Police Special Task Force officers, and 2,
 [Data](articles/18820420.json)
 
 [Extended Data](ext_articles/18820420.ext.json)
-
----
-
-### Mahinda, Duminda and Lasantha lose SLFP
-
-*2024-03-31 08:59:29* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දට--දුමින්දට-හා-ලසන්තට-SLFP-ධුර-අහිමිවෙයි/11-408850) · `si`
-
-Mahinda, Duminda, and Lasantha removed from SLFP. Mahinda Amaraweera, Lasantha Alagiyawanna, and Duminda Dissanayake ousted. Amaravara was senior Vice President, Alagiyawanna treasurer. Decision made at special meeting led by Maithripala Sirisena. Gunawardena appointed Hector Bethmage as National Organizer and Senior Vice President.
-
-🟩
-
-Minister Mahinda Amaraweera, State Minister Lasantha Alagiyawanna and MP Duminda Dissanayake have been removed from the Sri Lanka Freedom Party (SLFP).
-
-Duminda Dissanayake was the national organizer of the party and Amaravara holds senior Vice President. Mr. Lasantha Alagiyawanna were the party treasurer.
-
-This decision was taken at a special meeting that party leader Maithripala Sirisena has been summoned by Mr. Maithripala Sirisena.
-
-KP. Mr. Gunawardena has appointed Hector Bethmage as the National Organizer and Hector Bethmage as Senior Vice President.
-
-◼️
-
-[Data](articles/c9f4452b.json)
-
-[Extended Data](ext_articles/c9f4452b.ext.json)
-
----
-
-### The argument that ended by murder
-
-*2024-03-31 08:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195120) · `si`
-
-A 42-year-old man from Amithirigala, Kudagama, was murdered by his 40-year-old brother with a sharp weapon. The incident occurred after a heated argument. Ruwanwella Police are investigating.
-
-🟩
-
-The younger brother has been killed and the younger brother killed by a sharp arm from a sharp weapon.
-
-Police said that the incident was reported yesterday at the Kudagama area yesterday (30).
-
-The deceased has been identified as a 42 year old resident of Amithirigala area in Kudagama.
-
-His younger brother had arrived in the surrounding house and had taken a heated argument.
-
-Police have arrested 40-year-old suspect, Ruwanwella Police are conducting further investigations.
-
-◼️
-
-[Data](articles/9b00d0dc.json)
-
-[Extended Data](ext_articles/9b00d0dc.ext.json)
 
 ---

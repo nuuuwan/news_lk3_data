@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 18:33:46**
+As of **2024-03-31 18:51:39**
 
 ## Newspaper Stats
 
-*Scraped **16,182** Articles*
+*Scraped **16,183** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 885
 islandlk | 900
-adalk | 1,358
+adalk | 1,359
 tamilmirrorlk | 1,934
 adaderanalk | 1,954
 virakesarilk | 2,296
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,180 (100.0%) of 16,182 articles have been extended.
+16,182 (100.0%) of 16,183 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,37 +52,51 @@ Thus, the members of the public are advised to stay hydrated, take breaks in the
 
 ---
 
-### මිලියන 73කගේ ‌පෞද්ගලික දත්ත එළියට
+### 73 million personal data out
 
 *2024-03-31 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195138) · `si`
 
-ආදායම අනුව සිව්වැනියට ලොව විශාලතම විදුලි සංදේශන සමාගම වන AT&T අමෙරිකානු බහුජාතික විදුලිසංදේශ සමාගමේ හිටපු සහ වර්තමාන පාරිභෝගිකයන් මිලියන 73කගේ ‌පෞද්ගලික දත්ත අන්තර්ජාලය වෙත මුදාහැර තිබේ.
+AT&T's data breach exposed 73 million personal records, including addresses, social security numbers, and passwords, on the Dark Web. The company has reformed customer passwords and revealed non-financial details like email addresses and birth dates. The breach originated from its data system or a third-party supplier.
 
-ඒ අතර පාරිභෝගිකයින්ගේ ලිපිනයන්, සමාජ ආරක්ෂණ අංක සහ මුරපද ඇතුළු තොරතුරු dark web අඩවි ඔස්සේ  ප්‍රකාශයට පත් කර ඇති බව වාර්තා වෙයි.
+🟩
 
-කෙසේ වෙතත් AT&T සමාගම පවසා ඇත්තේ සිය දත්ත සොරකම් කර ඇති බවට සාක්ෂි හඳුනාගෙන නොමැති නමුත් ඒ සම්බන්ධයෙන් විමර්ශනය සඳහා සයිබර් ආරක්ෂණ විශේෂඥයින්ගේ සහාය ලබාගන්නා බවය.
+According to income, the four-largest telecommunications company in the world has been released to the Internet and the current consumers of American multinational electricity telecommunications company.
 
-එමෙන්ම එම සමාගම පවසා ඇත්තේ සිය පාරිභෝගිකයින්ගේ මුරපද නැවත සකස් කිරීමට කටයුතු කර ඇති බවය.
+Meanwhile, it is reported that information has been published on Dark Web sites, including customers' addresses, social security numbers and passwords.
 
-මූල්‍ය තොරතුරු හෙළි වී නොමැති බව AT&T සමාගම පැවසුව ද සම්පූර්ණ නම්, විද්‍යුත් තැපැල් ලිපිනයන් සහ උපන් දිනය වැනි තොරතුරු ද හෙළි වී ඇති බව සඳහන් වෙයි.
+However, AT & T have no idea that the proof of stolenning its data was not identified, but it is learned that cyber security experts seek investigation.
 
-කෙසේ වෙතත් එම සමාගම නිවේදනයක් නිකුත් කරමින් පවසා ඇත්තේ මෙම පිට වූ තොරතුරු සිය දත්ත පද්ධතියෙන්ම රැගෙන ඇත්තේ ද නැතහොත් තෙවන පාර්ශවීය සැපයුම්කරුවෙකු හරහා රැගෙන ඇත්තේද  යන්න අපැහැදිළි බවය.
+The company has said that the passwords of their customers have been reformed.
+
+The Financial Information The Financial Information is not revealed, but the total information such as e-mail addresses and date of birth is also revealed.
+
+However, the company said in a statement, however, it was revealed that these details were taken from its data system or the third-party supplier.
+
+At & T's wireless 5G network covers 290 million customers worldwide, one of the 240 million customers worldwide.
 
 ...
 
 [Data](articles/538f5f17.json)
 
+[Extended Data](ext_articles/538f5f17.ext.json)
+
 ---
 
-### மயூரபதி ஶ்ரீ பத்திரகாளி அம்மன் ஆலயத்தின் வருடாந்த பிரமோற்சவ பெருவிழா
+### Mayurapathi Sri Patrakali Amman Temple Annual Promotion Festival
 
 *2024-03-31 18:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/180084) · `ta`
 
-மயூரபதி ஶ்ரீ பத்திரகாளி அம்மன் ஆலயத்தின் வருடாந்த பிரமோற்சவ பெருவிழா 2024 இல் ஞாயிற்றுக்கிழமை (31) காலை ஆலய பிரதம குரு உதயராகவக் குருக்கள் தலைமையில் இடம்பெற்ற பூஜை வழிபாடுகளைத் தொடர்ந்து தேர்த்திருவிழா இடம்பெற்றது. ஆலய அறங்காவலர் சபைத் தலைவர் திரு. பெரியசாமி சுந்தரலிங்கம், அறங்காவலர் சபை உறுப்பினர்கள் மற்றும் பெருந்திரளான பக்தர்கள் தேர்த் திருவிழாவில் கலந்து கொண்டிருப்பதைப் படங்களில் காணலாம். (படப்பிடிப்பு : ஜே.சுஜீவ குமார்)
+The Mayurapathi Sri Patrakali Amman Temple's annual festival, led by Chief Guru Udayaragawak priests, was held on Sunday, 2024. Periyasamy Sundaralingam, Chairman of the Board of Trustees, and members attended, along with many devotees.
+
+🟩
+
+The annual festival of Mayurapathi Sri Patrakali Amman Temple was held on Sunday, 2024, led by the Chief Guru Udayaragawak priests of the temple.. The Chairman of the Board of Trustees. Periyasamy Sundaralingam, Members of the Board of Trustees and a large number of devotees attended the election festival. (Shooting: J. Sajeewa Kumar)
 
 ◼️
 
 [Data](articles/f08eb8f0.json)
+
+[Extended Data](ext_articles/f08eb8f0.ext.json)
 
 ---
 
@@ -239,6 +253,26 @@ The death was caused by a massage center in the Wewa Road.
 [Data](articles/69982d7f.json)
 
 [Extended Data](ext_articles/69982d7f.ext.json)
+
+---
+
+### ලංකාවේ සංචාරයට ආපු බ්‍රිතාන්‍ය හා ඉන්දීය ජාතිකයන් දෙදෙනෙක් මරුට
+
+*2024-03-31 16:33:39* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සංචාරයට-ආපු-බ්‍රිතාන්‍ය-හා-ඉන්දීය-ජාතිකයන්-දෙදෙනෙක්-මරුට/11-408862) · `si`
+
+මෙරට සංචාරයකට පැමිණ සිටි බ්‍රිතාන්‍ය මෙන්ම ඉන්දියන් ජාතිකයෙකු  හිටි හැටියේ ඊයේ (30) මිය ගොස් ඇතැයි කොල්ලූපිටිය පොලිසිය කියයි.
+
+මෙලෙස මියගොස් ඇත්තේ  බ්‍රිතාන්‍ය ජාතික ඩෙරික් චාල්ස් (66) හා  ඉන්දියන් ජාතික අබින් ජෝසප් (31) යන අයවලුන්ය.
+
+බ්‍රිතාන්‍ය ජාතිකයා ඔහු නැවතී සිටි කොළඹ 3 එඩ්වඩ් පටු මගේ පිහිටි හෝටලයේ නැවතී සිටි කාමරයේ ඇඳ මත මියගොස් සිටියදීත්  ඉන්දියන් ජාතිකයා කොළඹ 3  මුහුදු මාවතේ සි 20 මහල් නිවාස සංකීර්ණයේ රැඳී සිටි මහල් නිවසේ නාන කාමරය තුළ මියගොස් සිටියදී මෘත දේහය හමුවී ඇතැයි පොලිසිය සඳහන් කරයි.
+
+මියගිය දෙදෙනාගේ මළ සිරුරු  පොලිස් මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර ඥාතීන් පැමිණ හඳුනා ගැනීමෙන් අනතුරුව පශ්චාත් මරණ පරීක්ෂණ පැවැත්වීමට නියමිතය
+
+කොල්ලුපිටිය පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක එච් එල් දුෂ්මන්ත මහතාගේ උපදෙස් මත විමර්ශන සිදු කෙරේ
+
+◼️
+
+[Data](articles/51d29d32.json)
 
 ---
 
@@ -2239,21 +2273,5 @@ Explaining Sri Lanka’s expansion of Colombo Port, and Hambantota Port, as well
 [Data](articles/196c1f7c.json)
 
 [Extended Data](ext_articles/196c1f7c.ext.json)
-
----
-
-### A revolution in the ComBank annual report reading experience
-
-*2024-03-30 20:13:00* · [`islandlk`](http://island.lk/a-revolution-in-the-combank-annual-report-reading-experience-2/) · `en`
-
-March 5, 2024, will go down as a red-letter day for the world’s investor relations community. On this day, Commercial Bank of Ceylon PLC, headquartered in Sri Lanka, integrated an AI-powered Annual Report Assistant (AIPARA) to their Annual Report 2023. It is probably the first of its kind.
-
-This innovation addresses a perennial issue and makes reading annual reports a true joy. Gone will be the days when readers had to wade through pages to find information of interest and significance to them. Readers can now simply ask questions from AIPARA and obtain answers.
-
-...
-
-[Data](articles/67bbb1b9.json)
-
-[Extended Data](ext_articles/67bbb1b9.ext.json)
 
 ---

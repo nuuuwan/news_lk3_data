@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 10:03:39**
+As of **2024-03-31 10:17:59**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 2,603
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,117 (100.0%) of 16,120 articles have been extended.
+16,120 (100.0%) of 16,120 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### வசீகரிக்கும் தேயிலை மலைகளுக்கூடாக இலங்கையின் அடையாளமாக The Pekoe Trail
+### The Pekoe Trail is the symbol of Sri Lanka through the fascinating tea mountains
 
 *2024-03-31 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180045) · `ta`
 
-இலங்கையின் பொருளாதாரத்தில் வருமானத்தை ஈட்டும் மிக முக்கியமான துறையாக சுற்றுலாத்துறை காணப்படுகின்றது.  நாட்டில் உயிர்த்த ஞாயிறு தின தாக்குதல், கொவிட் பரவல் மற்றும் பொருளாதார நெருக்கடியின் பின்னர் சுற்றுலாத்துறையை மீளக்கட்டியெழுப்புவதற்கான தேவைப்பாடு காணப்பட்டது. அத்துடன் அத்துறையை நிலைப்படுத்துவதற்கான தேவையும் உணரப்பட்டது. நிலையான பின்னடைவு இல்லாத சுற்றுலாத்துறையை நோக்கி இயற்கையாகவே எவ்வித அபிவிருத்தியும் மேற்கொள்ளாது 300 கிலோமீற்றர் நீளம் கொண்ட இலங்கையின் சுற்றுலாத்துறையின் அடையாளமாக The Pekoe Trail உருவாக்கப்பட்டுள்ளது.
+The Pekoe Trail, a 300km trekking route in Sri Lanka, symbolizes the country's tea mountains and is a key driver of tourism. Developed post-crisis, it offers unique experiences through Asia's best forests, tea plantations, and villages. It's a multi-day walk through central Sri Lanka, passing through 25 cities, 80 villages, and 24 tea plantations, aiming to boost the tourism, tea plantation, and garment industries. Supported by the EU and USAID, it aims to enhance economic growth, employment, and cultural exchange in the central hill country.
 
-உலகளாவிய ரீதியில் மலையேறுதல் என்பது பிரபலமானதொரு பொழுதுபோக்கு அம்சமாக காணப்படுகின்றது. அமெரிக்கா, ஸ்பெயின், சீனா, அவுஸ்திரேலியா, சுவிற்சர்லாந்து உள்ளிட்ட பல நாடுகளில் இந்த மலையேறும் பொழுதுபோக்கு அம்சங்கள் காணப்படுவதுடன் சுற்றுலாத்துறைக்கு பெரும் பங்காற்றுகின்றன.
+🟩
 
-இலங்கையின் ஊவா மற்றும் மத்திய மாகாணங்களை உள்ளடக்கிய பகுதியில் உருவாக்கப்பட்டுள்ள The Pekoe Trail என்னும் மலையேறும் பகுதி மிகவும் வித்தியாசமான புதிய அனுபங்களை கொண்டுள்ளது.
+Tourism is the most important sector to generate income in the economy of Sri Lanka.There was a need to rebuild the tourism sector after the survival Sunday attack, the spread of Kovit and the economic crisis in the country. As well as the need to stabilize the sector. The Pekoe Trail has been developed as a symbol of 300 kilometers long, with no development of the tourism industry.
+
+Globally trekking is a popular entertainment feature. These mountaineering entertainment features in many countries, including the US, Spain, China, Australia and Switzerland, and playing a major role in tourism.
+
+The Pekoe Trail, the area, which includes the Uva and the Central Provinces of Sri Lanka, has very different new experiences.
+
+The Pekoe Trail is a multi -day walk with a distance of 300 kilometers through the center of the central hill country in Sri Lanka.
 
 ...
 
 [Data](articles/59d7b97f.json)
+
+[Extended Data](ext_articles/59d7b97f.ext.json)
 
 ---
 
@@ -61,6 +69,8 @@ As Sri Lankan Prime Minister Dinesh Gunawardena wrapped up his official weeklong
 ...
 
 [Data](articles/0cda10cb.json)
+
+[Extended Data](ext_articles/0cda10cb.ext.json)
 
 ---
 
@@ -81,6 +91,8 @@ General public is kindly requested to take adequate precautions to minimize dama
 ◼️
 
 [Data](articles/99bd24a0.json)
+
+[Extended Data](ext_articles/99bd24a0.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 13:52:43**
+As of **2024-03-31 14:03:17**
 
 ## Newspaper Stats
 
-*Scraped **16,147** Articles*
+*Scraped **16,150** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,78 @@ adalk | 1,351
 tamilmirrorlk | 1,932
 adaderanalk | 1,950
 virakesarilk | 2,289
-dailymirrorlk | 2,489
-adaderanasinhalalk | 2,610
+dailymirrorlk | 2,491
+adaderanasinhalalk | 2,611
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,146 (100.0%) of 16,147 articles have been extended.
+16,147 (100.0%) of 16,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### ඉන්ධන මිල වෙනස්වෙන්නේ මෙහෙමයි
+### ගිළිහී ගිය උඩ පන්දුව
+
+*2024-03-31 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195129) · `si`
+
+ශ්‍රී ලංකාව සහ බංග්ලාදේශ කණ්ඩායම අතර දෙවන ටෙස්ට් තරගයේ දෙවන දිනය අදයි.
+
+මේ වනවිට ශ්‍රී ලංකා කණ්ඩායම කඩුලු 6ක් දැවී ලකුණු 472ක් රැස්කරගෙන සිටියි.
+
+මෙහිදී ශ්‍රී ලංකා ක්‍රීඩක ප්‍රභාත් ජයසූරිය දවාගැනීමට තිබූ අවස්ථාවක් බංග්ලාදේශ ක්‍රීඩකයින් අතින් ගිලිහී ගියේ ආරක්‍ෂිත පන්දු රැකීමක් සිදුනොවීම හේතුවෙන්.
+
+◼️
+
+[Data](articles/c64454f1.json)
+
+---
+
+### Local egg price will be below Rs.35 during festive season
+
+*2024-03-31 13:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Local-egg-price-will-be-below-Rs-35-during-festive-season/108-279891) · `en`
+
+As domestic egg production has exceeded the total daily requirement, the price of an egg is likely to be below Rs. 35 during the coming festive season.
+
+During a discussion held at the Agriculture Ministry last Friday (29) regarding the price of chicken and eggs during the festive season, Minister Mahinda Amaraweera said the current price of an egg in the local market is Rs.42 to Rs.48.
+
+"Some people and groups have issued various statements to the media that the price of a local chicken egg will increase to Rs.100 during April or the Sinhala and Tamil New Year festival season.
+
+"However, due to the long-term policy decisions taken by the Ministry, domestic egg production has now exceeded the total daily requirement, he said.
+
+"On average, the daily requirement of eggs in this country is 6.5 million. According to the Association of Egg Producers, the production of eggs in local poultry farms has already exceeded 7.5 million.
+
+...
+
+[Data](articles/9133185d.json)
+
+---
+
+### Fuel prices change this way
 
 *2024-03-31 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195128) · `si`
 
-ඉන්ධන මිල සූත්‍රයට අනුව අද දිනයේ ඉන්ධන මිල සංශෝධනය සිදුකිරීමට නියමිතව තිබේ.
+Fuel prices will be revised today, with reductions in 40 octane petrol, Super diesel, and kerosene prices, but no changes for Octane 92 petrol and auto diesel. The revision is due to the strength of the US dollar and lower global crude oil prices.
 
-මෙවර මිල සංශෝධනයේ දී ඉන්ධන මිල අඩුවීමක් සිදුවනු ඇති බව විදුලිබල හා බලශක්ති අමාත්‍යංශය සඳහන් කළේය.
+🟩
 
-මෙම මාසය සඳහා වන ඉන්ධන මිල සංශෝධනය පසුගිය 4 වනදා සිදුවූ අතර එහිදී ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක මිල රුපියල් 9කින්, සුපර් ඩීසල් ලීටරයක මිල රුපියල් 10කින් සහ භූමිතෙල් ලීටරයක මිල රුපියල් 5කින් අඩු කරනු ලැබීය.
+Fuel prices are to be revised today.
 
-කෙසේවෙතත් එහිදී ඔක්ටේන් 92 පෙට්‍රල් සහ ඔටෝ ඩීසල් මිලෙහි සංශෝධනයක් සිදු නොවුණි.
+The Ministry of Power and Energy stated that the fuel prices will be reduced in this year's price revision.
 
-මේ වනවිට අමෙරිකානු ඩොලරයට සාපේක්ෂව රුපියල ශක්තිමත්වීම සහ ලෝක වෙළෙඳපොළේ බොරතෙල් මිල අඩුවීම යන කරුණු සැලකිල්ලට ගනිමින් මෙවර මිල සංශෝධනයේ දී ඉන්ධන මිල අඩුවනු ඇති බව වාර්තා වෙයි.
+The fuel revision for the month was 40 octane prices in a liter of 35 petrol, the price of a liter of Super diesel and the price of a liter of a liter of kerosene by Rs.
+
+However, there was no revision of Octane 92 petrol and auto diesel.
+
+It is reported that the fuel prices will be reduced in this year's price revision, taking into strength to the US dollar and reducing the price of crude oil prices in the world market.
 
 ◼️
 
 [Data](articles/031aeb98.json)
+
+[Extended Data](ext_articles/031aeb98.ext.json)
 
 ---
 
@@ -205,6 +247,18 @@ The suspect and the firearm have been handed over to the police station for furt
 [Data](articles/6aab8869.json)
 
 [Extended Data](ext_articles/6aab8869.ext.json)
+
+---
+
+### Easter Sunday celebrated in a clam athomosphere
+
+*2024-03-31 11:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Easter-Sunday-celebrated-in-a-clam-athomosphere/110-279888) · `en`
+
+The Easter Sunday service was held at St. Anthony's Church Kochchikade in a calm atmosphere but under tight security. The church witnessed carnage five years ago when a suicide bomber blew himself up killing scores of people. Pix by Kushan Pathiraja
+
+◼️
+
+[Data](articles/a24fe030.json)
 
 ---
 
@@ -2155,77 +2209,5 @@ He also said that if such signs are found to the children, they should not be se
 [Data](articles/91921b1b.json)
 
 [Extended Data](ext_articles/91921b1b.ext.json)
-
----
-
-### New faces for SLFP positions
-
-*2024-03-30 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195097) · `si`
-
-Duminda Dissanayake replaced by KP Gunawardena as Mahiyanganaya electoral organizer. Hector Bethmage takes over as Treasurer, replacing Lasantha Alagiyawanna. Sarath Ekanayake appointed Senior Vice President, replacing Alagiyawanna. SLFP Executive Council met today.
-
-🟩
-
-Duminda Dissanayake, who was removed from the post of National Organizer of the Sri Lanka Freedom Party (SLFP) has been appointed Mahiyanganaya electoral organizer KP Gunawardena.
-
-Former Minister Hector Bethmage has been appointed to replace Mr. Lasantha Alagiyawanna who lived from the post of Treasurer.
-
-He was also removed from the post of Senior Vice President of the party today and replaced Sarath Ekanayake.
-
-All the Sri Lanka Freedom Party organizers and the executive committee members
-
-The SLFP Executive Council met at the party headquarters today (30).
-
-◼️
-
-[Data](articles/d0a5ce63.json)
-
-[Extended Data](ext_articles/d0a5ce63.ext.json)
-
----
-
-### Hand, foot, mouth infection among boys - doctor Deepal Perera warns!
-
-*2024-03-30 13:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/180020) · `ta`
-
-Dr. Deepal Perera warns of hand, foot, and mouth infections spreading among children, causing symptoms like fever, sore throat, and blisters. It's infectious, similar to chickenpox, but blisters may appear in the chest and back. Children with these symptoms should not attend school.
-
-🟩
-
-Hand, foot and mouth -related infections are spreading among children, Child Welfare of the Colombo Lady Ridgeway Hospital Deepal Perera said.
-
-Blisters in the organs of the disease, such as fever, sore throat, mouth, arm, leg and buttocks.
-
-It's like chinly. But, in the event of a symmetry, blisters appear in the chest and back. It is infectious.
-
-He also said that if such symptoms are found to the children, they should not be sent to school.
-
-◼️
-
-[Data](articles/4f00b01d.json)
-
-[Extended Data](ext_articles/4f00b01d.ext.json)
-
----
-
-### Duminda, remove Lasantha and Ammenia
-
-*2024-03-30 13:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195096) · `si`
-
-Duminda Dissanayake removed from SLFP's National Organizer and Treasurer posts. Lasantha Alagiyawanna and Senior Vice President also removed. All SLFP organizers and executive committee members called to party headquarters.
-
-🟩
-
-Duminda Dissanayake has been removed from the post of National Organizer of the SLFP.
-
-He was also removed as Treasurer, Lasantha Alagiyawanna and the Senior Vice President of the party.
-
-All the Sri Lanka Freedom Party (SLFP) organizers and executive committee members have been called to the party headquarters today (30).
-
-◼️
-
-[Data](articles/a1dcc6ff.json)
-
-[Extended Data](ext_articles/a1dcc6ff.ext.json)
 
 ---

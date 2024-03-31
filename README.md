@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 17:18:07**
+As of **2024-03-31 17:33:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,173 (100.0%) of 16,174 articles have been extended.
+16,174 (100.0%) of 16,174 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ It is predicted that the price of fuel will likely be reduced during this price 
 ◼️
 
 [Data](articles/60e2df6f.json)
+
+[Extended Data](ext_articles/60e2df6f.ext.json)
 
 ---
 

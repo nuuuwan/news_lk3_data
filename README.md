@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 02:03:17**
+As of **2024-04-01 02:18:06**
 
 ## Newspaper Stats
 
@@ -26,77 +26,107 @@ adaderanasinhalalk | 2,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,229 (100.0%) of 16,233 articles have been extended.
+16,233 (100.0%) of 16,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### மைத்திரி நிராகரிக்கப்படுவதற்கு நான் பொறுப்பல்ல சு.க.வின் வீழ்ச்சிக்கான பொறுப்பை அவரே ஏற்க வேண்டும் - இராஜாங்க அமைச்சர் லசந்த அழகியவண்ண
+### I am not responsible for the rejection of Maithri - He must take responsibility for the fall of the SK - State Minister Lasantha Alagavanna
 
 *2024-04-01 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180099) · `ta`
 
-பொதுஜன ஐக்கிய முன்னணியில் அங்கத்துவம் வகிக்கும் கட்சிகள் தலைமைத்துவ சபையில் ஸ்ரீலங்கா சுதந்திர கட்சியின் தலைவர் மைத்திரிபால சிறிசேனவை ஏற்க மறுக்கின்றன. அதனை அடிப்படையாகக் கொண்டு என்னை பதவி நீக்கியமையை ஏற்றுக் கொள்ள முடியாது என இராஜாங்க அமைச்சர் லசந்த அழகியவண்ண தெரிவித்தார்.
+State Minister Lasantha Alagavanna criticizes the rejection of Maithri Sirisena by PA members, emphasizing his own role in the PA's establishment. He defends his decision to step down as treasurer, accusing allegations of improper establishment. Alagavanna highlights the inability of the SLFP to join the leadership council, attributing this to the coalition's members. He aims to unite the party and other parties, criticizing the decision-making process at a special meeting. Alagavanna also addresses the law and the actions of former President Maithripala Sirisena, who voted against the law.
 
-கொழும்பில் சனிக்கிழமை (30) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-சட்டத்துக்கு முரணாக என்னை பொருளாலர் பதவியிலிருந்து நீக்கியுள்ளனர். பொதுஜன ஐக்கிய முன்னணிவை ஸ்தாபிப்பதற்கான நடவடிக்கைகளை முறையாக முன்னெடுக்கவில்லை என்பதே என்மீது முன்வைக்கப்பட்டுள்ள குற்றச்சாட்டாகும். ஆனால் இந்த கூட்டணி ஏற்கனவே ஸ்தாபிக்கப்பட்டு விட்டது.
+Parties that are members of the PA refusing to accept Sri Lanka Freedom Party (SLFP) leader Maithripala Sirisena. Minister of State Lasantha Alagiyavanna said that it cannot be accepted by me.
 
-எனினும் இந்த கூட்டணியில் அங்கத்துவம் வகிக்கும் சகல கட்சிகளும் ஸ்ரீலங்கா சுதந்திர கட்சியின் தலைவர் மைத்திரிபால சிறிசேனவை தலைமைத்துவ சபையில் இணைத்துக் கொள்ள முடியாது எனக் குறிப்பிடுகின்றன. இதற்கு என்னால் எதையும் செய்ய முடியாது.
+He further stated at a press conference held in Colombo on Saturday (30).
+
+I have removed me from the position of treasure. The allegation against me is that it is not properly taken up to establish the PA. But this alliance has already been established.
+
+However, all parties that are members of this coalition indicate that the Sri Lanka Freedom Party (SLFP) leader Maithripala Sirisena cannot be joined by the leadership council.. I can't do anything for this.
+
+I am trying to unite the party, leadership and other parties. In our party, the Political Council Central Executive Committee and the Executive Committee. A special meeting was called. Such a decision cannot be made in any way at a special meeting.
 
 ...
 
 [Data](articles/c9b1d791.json)
 
+[Extended Data](ext_articles/c9b1d791.ext.json)
+
 ---
 
-### ஜூலை, ஆகஸ்டில் ஜனாதிபதி தேர்தல் குறித்து உத்தியோகபூர்வ அறிவிப்பு - சுயாதீன தேர்தல் ஆணைக்குழு
+### Official announcement of presidential election in July and August - Independent Election Commission
 
 *2024-04-01 01:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180098) · `ta`
 
-ஜனாதிபதி  தேர்தல் தொடர்பில் எதிர்வரும் ஜூலை மாத இறுதியில் அல்லது ஆகஸ்ட் மாத தொடக்கத்தில் உத்தியோகபூர்வ அறிவிப்பு வெளியிடப்படும் என்று சுயாதீன தேர்தல் ஆணைக்குழு அறிவித்துள்ளது.
+The Independent Election Commission will announce the presidential election in July or August, with voting from September 17 to October 17. The current election law will be used, and the new voter list for 2024. Voter registration is ongoing, expected to finish by July, with an estimated cost of 10 billion rupees.
 
-செப்டெம்பர் 17ஆம் திகதிக்கும் ஒக்டோபர் 17ஆம் திகதிக்குமிடையில் தேர்தல் இடம்பெறக் கூடும் என்று ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்துள்ளார்.
+🟩
 
-தற்போதைய தேர்தல் சட்டமே தேர்தல் நடைமுறையை நிர்வகிக்கும் என்றும் அவர் குறிப்பிட்டுள்ளார். எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கு 2024ஆம் ஆண்டுக்கான புதிய வாக்காளர் பட்டியல் பயன்படுத்தப்படும் என்றும் அவர் தெரிவித்துள்ளார்.
+The Independent Election Commission has announced that an official announcement will be made at the end of July or early August on the presidential election.
 
-வாக்காளர் பதிவு பணி தற்போது நடைபெற்று வரும் நிலையில், ஜூலை மாதத்துக்குள் முடியும் என எதிர்பார்க்கப்படுகிறது. எதிர்வரும் ஜனாதிபதித் தேர்தலுக்கான மதிப்பிடப்பட்ட செலவு 10 பில்லியன் ரூபாவாகும் என்பது குறிப்பிடத்தக்கது.
+Commission Chairman RMAL Ratnayake said the election would be held between September 17 and October 17.
+
+He added that the current election law would manage the election process. He said the new voter list would be used for 2024 for the upcoming presidential election.
+
+While voter registration work is currently underway, it is expected to be completed by July. The estimated cost of the upcoming presidential election is 10 billion rupees.
 
 ◼️
 
 [Data](articles/10dc75b6.json)
 
+[Extended Data](ext_articles/10dc75b6.ext.json)
+
 ---
 
-### மைத்திரிபால சிறிசேனவின் அண்மைக்கால நடத்தைகள் அவரது மனநிலை சரியாக இல்லை என்பதையே புலப்படுத்துகிறது - பதவி நீக்கம் தொடர்பில் மஹிந்த அமரவீர
+### Maithripala Sirisena's recent behavior reveals that his mood is not correct - Mahinda Amaraweera regarding the dismissal
 
 *2024-04-01 01:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/180097) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவின் அண்மைக்கால நடத்தைகள் அவரது மனநிலை சரியாக இல்லை என்பதையே புலப்படுத்துகிறது. முறையான காரணிகள் எவையும் முன்வைக்கப்படாமலேயே நாம் பதவிகளிலிருந்து நீக்கப்பட்டிருக்கின்றோம். எம்மை ஒருபோதும் ஸ்ரீலங்கா சுதந்திர கட்சியிலிருந்து பிரிக்க முடியாது என்று அமைச்சர் மஹிந்த அமரவீர தெரிவித்தார்.
+Maithripala Sirisena's recent actions suggest a negative mood, despite dismissals without formal reasons. Minister Mahinda Amaraweera criticizes the lack of transparency and the removal from positions, calling it an attempt to separate from the Sri Lanka Freedom Party. He accuses the coalition of legal action and describes the situation as imperialistic, vowing to fight it in court.
 
-கொழும்பில் சனிக்கிழமை (30) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-முறையான காரணமொன்று இன்றியே எம்மை பதவிகளிலிருந்து நீக்கியுள்ளனர். விசேட கலந்துரையாடலொன்றுக்கு வருமாறு அழைப்பு விடுத்து, அவர் மாத்திரம் தனது கருத்துக்களை முன்வைத்து எமக்கு எவ்வித கருத்துக்களையும் முன்வைப்பதற்கு இடமளிக்காது இந்த தீர்மானத்தை எடுத்துள்ளார். ஆனால் சரியான குற்றச்சாட்டுக்கள் கூட எம்மீது முன்வைக்கப்படவில்லை.
+Former President Maithripala Sirisena's recent behavior reveals that his mood is not correct. We have been sacked from positions without any formal factors presented. Minister Mahinda Amaraweera said that we can never be separated from the Sri Lanka Freedom Party.
+
+He further stated at a press conference held in Colombo on Saturday (30).
+
+We have been removed from the positions. He called for a special discussion and would not allow us to present his comments and make any comments to us.. But even the correct allegations are not put forward on us.
+
+Indicate that the coalition has been sued. He is well aware of why the case was filed. However, in his behaviors these days there is a stumbling block. From his comments, it is clear that his mood is not correct.
+
+However, we will definitely go to court against this illegal action. We are not aware that we are so unjust. Party membership is not removed. We have only been removed from the posts. We see this as imperialism.
 
 ...
 
 [Data](articles/8f8cfe9e.json)
 
+[Extended Data](ext_articles/8f8cfe9e.ext.json)
+
 ---
 
-### தண்டனை சட்டக் கோவை திருத்தத்தை மிளப் பெறாவிட்டால் தொடர் ஆர்ப்பாட்டங்கள் - அரசாங்கத்தை எச்சரிக்கும் எதிர்க்கட்சி தலைவர்
+### Opposition leader warns the government
 
 *2024-04-01 01:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180096) · `ta`
 
-பெண்கள் பாலியல் உறவில் ஈடுபடுவதற்கான வயதெல்லையை 16இலிருந்து 14ஆகக் குறைப்பதற்கான தண்டனை சட்டக் கோவை திருத்தத்தை அரசாங்கம் முன்வைத்துள்ளது. இவ்வாரம் பாராளுமன்ற அமர்வின் போது இந்த திருத்தத்தை அரசாங்கம் மீளப்பெறாவிட்டால் பாரிய ஆர்ப்பாட்டங்களுக்கு தயாராவோம் என்று எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச அரசாங்கத்துக்கு எச்சரிக்கை விடுத்தார்.
+Opposition leader Sajith Premadasa warns against reducing the age of consent to 14, threatening demonstrations if the amendment isn't withdrawn. He emphasizes the need for constitutional amendments to protect women and children's rights, aiming to increase women's participation in the workforce and address issues like sexual harassment.
 
-ஐக்கிய மக்கள் சக்தியின் மகளிர் மாநாடு ஞாயிற்றுக்கிழமை (31) பதுளையில் இடம்பெற்ற போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-அரசியலமைப்பில் பெண்கள் மற்றும் சிறுவர்களின் பாதுகாப்பு தெளிவாக உறுதிப்படுத்தப்படவில்லை. எனவே பெண்கள் மற்றும் சிறுவர்களின் உரிமைகளை, அடிப்படை உரிமைகளில் உள்ளடக்குவதற்கான அரசியலமைப்பு திருத்தம் மேற்கொள்ளப்படும் என்று உறுதியளிக்கின்றேன். 'நவீன பெண்கள்' என்பதே எமது இலக்காகும். நவீன பெண்களை நாட்டில் உருவாக்குவதற்காக மக்கள் சக்தி பெண்கள் அபிவிருத்தி வேலைத்திட்டத்தை முன்னெடுப்போம்.
+The government has put forward amendment to the Penal Code to reduce the age of women's sexual relations from 16 to 14. Opposition leader Sajith Premadasa warned the government that if the government does not recover the amendment during the parliamentary session this week, we will be prepared for massive demonstrations.
+
+He further stated that the United People's Power Women's Conference was held in Badulla on Sunday (31).
+
+The safety of girls and boys in the Constitution is not clearly confirmed. So I promise that the constitutional amendment will be made to include the rights of women and children in basic rights. Our goal is to 'modern women'. We will carry out the People's Power Women Development Program to create modern women in the country.
 
 ...
 
 [Data](articles/ad524eff.json)
+
+[Extended Data](ext_articles/ad524eff.ext.json)
 
 ---
 

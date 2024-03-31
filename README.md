@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 00:18:00**
+As of **2024-04-01 00:33:38**
 
 ## Newspaper Stats
 
-*Scraped **16,221** Articles*
+*Scraped **16,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,22 +13,74 @@ bbccomsinhala | 170
 dbsjeyarajcom | 201
 newsfirstlk | 363
 dailyftlk | 864
-economynextcom | 887
+economynextcom | 888
 islandlk | 900
 adalk | 1,363
 tamilmirrorlk | 1,938
 adaderanalk | 1,959
 virakesarilk | 2,305
-dailymirrorlk | 2,497
+dailymirrorlk | 2,500
 adaderanasinhalalk | 2,629
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,221 (100.0%) of 16,221 articles have been extended.
+16,221 (100.0%) of 16,225 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-04-01 (Monday)
+
+### Is the Chinese economy doomed as some forecasts say?
+
+*2024-04-01 00:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Is-the-Chinese-economy-doomed-as-some-forecasts-say/172-279898) · `en`
+
+One should be cautious about making doomsday predictions, and should not  forget the resilience, determination and energy which made it possible  to lift millions of Chinese out of poverty in two decades
+
+While social media is packed with doomsday predictions of the American economy (Europe isn’t doing any better, either), there is an equal or greater number of videos forecasting the decline of China, an economic juggernaut that looked set to overtake the US before the pandemic.
+
+When navigating across this sea of negative analyses of China, from American, European or Indian sources, one must bear in mind that there are those who either dislike or fear China enough to wish it economic doom.
+
+...
+
+[Data](articles/3587b52c.json)
+
+---
+
+### Lanka’s foreign debt and Chinese puzzle - EDITORIAL
+
+*2024-04-01 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Lankas-foreign-debt-and-Chinese-puzzle-EDITORIAL/172-279897) · `en`
+
+In March this year, President Wickremesinghe in an interview said Lanka was committed to repaying its debt within the period 2027-2042. The president said he expected the ongoing debt restructuring negotiations would bring the annual external debt payments down to 4% of GDP.
+
+The country’s foreign reserves, which stood at less than $20 million in April 2022 at the height of the economic crisis, now stand at over $3 billion, Wickremesinghe said.
+
+For long, the International Monetary Fund, the World Bank and Western nations have claimed the delay in rescheduling Lanka’s international debt was China-which holds the largest share of our foreign debt. It was also claimed Sri Lanka was caught in a Chinese debt trap caused by taking loans to an extent they cannot be repaid.
+
+They warned Lanka would ultimately end up with China taking over assets of the country to meet the bill.
+
+...
+
+[Data](articles/94323bef.json)
+
+---
+
+### Anti-privatization statements will depress bid prices: Will JVP be held accountable?
+
+*2024-04-01 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Anti-privatization-statements-will-depress-bid-prices-Will-JVP-be-held-accountable/172-279896) · `en`
+
+Sunil Handunetti, a senior and respected leader of the JVP, has urged the government not to sell (and potential buyers not to buy) state-owned enterprises such as the SriLankan Airlines, SLT and Litro, for which requests for proposals have been called.
+
+He implicitly threatens to expropriate the sold entities. The Ceylon Electricity Board (CEB) is also mentioned, but there is no such process underway for it.
+
+This coincided with the government taking USD 210 million in dollar loans and LKR 41.4 billion in rupee loans off the Airline’s books. This has, understandably, angered many members of the public. They argue that wrong decisions led an airline that once paid dividends to the Treasury to come to this sorry state. They argue that those who made these decisions should be held to account.
+
+...
+
+[Data](articles/2bcba863.json)
+
+---
 
 ### 2024-03-31 (Sunday)
 
@@ -223,6 +275,24 @@ Standard diesel also remains unchanged at 363 rupees a litre, the CPC said.
 [Data](articles/a89e2508.json)
 
 [Extended Data](ext_articles/a89e2508.ext.json)
+
+---
+
+### Sri Lanka cuts super diesel by Rs72, Octane 95 by Rs7
+
+*2024-03-31 22:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-cuts-super-diesel-by-rs72-octane-95-by-rs7-156669/) · `en`
+
+ECONOMYNEXT – Sri Lanka has cut the price of super diesel Euro 4, by 72 rupees a litre to 386 rupees, and petrol Octane 95 Euro 04 by 7 rupees to 440 rupees, state-run Ceylon Petroleum Corporation said.
+
+Kerosene prices was also cut by 12 rupees to 245 rupees a litre
+
+Standard diesel also remains unchanged at 363 rupees a litre, the CPC said.
+
+Sinopec Lanka said it also matched the price cuts. Sinopec is selling, premium and standard petrol and diesel 3 rupees below that if CPC.
+
+◼️
+
+[Data](articles/c19d8c2d.json)
 
 ---
 
@@ -2325,87 +2395,5 @@ The price of a US W.T.I crude oil barrel is $ 83.17. This is more than 2.24 perc
 [Data](articles/24cbe2cf.json)
 
 [Extended Data](ext_articles/24cbe2cf.ext.json)
-
----
-
-### Man hospitalized after police shooting in Ranminithenna
-
-*2024-03-31 10:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-hospitalized-after-police-shooting-in-Ranminithenna/108-279886) · `en`
-
-Tissamaharama, March 31 (Daily Mirror) - An individual was hospitalized after he was shot at by the police during a raid in Ranminithenna.
-
-Police said the 30-year-old resident of Ranminithenna in Tissamaharama,  was injured.
-
-A group of police officers conducted a raid in the Ranminithenna area early this morning and while attempting to arrest the suspect, he was injured in the shoulder by a police shot.
-
-◼️
-
-[Data](articles/d5797e68.json)
-
-[Extended Data](ext_articles/d5797e68.ext.json)
-
----
-
-### The Pekoe Trail is the symbol of Sri Lanka through the fascinating tea mountains
-
-*2024-03-31 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180045) · `ta`
-
-The Pekoe Trail, a 300km trekking route in Sri Lanka, symbolizes the country's tea mountains and is a key driver of tourism. Developed post-crisis, it offers unique experiences through Asia's best forests, tea plantations, and villages. It's a multi-day walk through central Sri Lanka, passing through 25 cities, 80 villages, and 24 tea plantations, aiming to boost the tourism, tea plantation, and garment industries. Supported by the EU and USAID, it aims to enhance economic growth, employment, and cultural exchange in the central hill country.
-
-🟩
-
-Tourism is the most important sector to generate income in the economy of Sri Lanka.There was a need to rebuild the tourism sector after the survival Sunday attack, the spread of Kovit and the economic crisis in the country. As well as the need to stabilize the sector. The Pekoe Trail has been developed as a symbol of 300 kilometers long, with no development of the tourism industry.
-
-Globally trekking is a popular entertainment feature. These mountaineering entertainment features in many countries, including the US, Spain, China, Australia and Switzerland, and playing a major role in tourism.
-
-The Pekoe Trail, the area, which includes the Uva and the Central Provinces of Sri Lanka, has very different new experiences.
-
-The Pekoe Trail is a multi -day walk with a distance of 300 kilometers through the center of the central hill country in Sri Lanka.
-
-...
-
-[Data](articles/59d7b97f.json)
-
-[Extended Data](ext_articles/59d7b97f.ext.json)
-
----
-
-### PM Dinesh wraps China visit, assured of help for easing debt burden
-
-*2024-03-31 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98317/pm-dinesh-wraps-china-visit-assured-of-help-for-easing-debt-burden) · `en`
-
-China will play a “positive role” in easing the financial difficulties of cash-strapped Sri Lanka and its bid to achieve “debt sustainability” while Colombo will accelerate the formulation of a BRI cooperation plan to advance Beijing’s projects in the island nation, a joint statement said on Sunday.
-
-As Sri Lankan Prime Minister Dinesh Gunawardena wrapped up his official weeklong visit to China, the joint statement brought out the highlights of the agreements discussed during his talks with Chinese President Xi Jinping and Premier Li Qiang besides attending the Boao Forum for Asia Annual Conference.
-
-“The Chinese side expresses its readiness to continue supporting its financial institution in actively consulting with Sri Lanka, maintain friendly communication with other creditors, and play a positive role in the International Monetary Fund (IMF) to help Sri Lanka ease its financial difficulties and achieve debt sustainability,” the joint statement said.
-
-...
-
-[Data](articles/0cda10cb.json)
-
-[Extended Data](ext_articles/0cda10cb.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-03-31 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98316/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at several places in Western, Southern, Sabaragamuwa, North-western and Central provinces after 2.00 p.m.
-
-Showers or thundershowers may occur at a few places in Northern, North-central,Uva and Eastern provinces after 2.00 p.m.
-
-Fairly heavy showers about 75mm are likely at some places in Sabaragamuwa and Western provinces and in Galle and Matara districts.
-
-Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces and in Kalutara, Galle and Matara districts during the morning.
-
-General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/99bd24a0.json)
-
-[Extended Data](ext_articles/99bd24a0.ext.json)
 
 ---

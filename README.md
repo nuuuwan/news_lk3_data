@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 08:05:01**
+As of **2024-03-31 08:18:08**
 
 ## Newspaper Stats
 
-*Scraped **16,107** Articles*
+*Scraped **16,108** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ tamilmirrorlk | 1,926
 adaderanalk | 1,943
 virakesarilk | 2,286
 dailymirrorlk | 2,484
-adaderanasinhalalk | 2,600
+adaderanasinhalalk | 2,601
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,096 (99.9%) of 16,107 articles have been extended.
+16,100 (100.0%) of 16,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### ජනපතිගේ පාස්කු දින පණිවුඩය
+
+*2024-03-31 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195119) · `si`
+
+පාස්කු දිනය වෙනුවෙන් පණිවුඩයක් නිකුත් කරමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසන්නේ ඉතිහාසයේ දරුණුතම ආර්ථික අභියෝගය හමුවේ රටක් ලෙස අප සියලුදෙනා මහත් පීඩාවකට පත් වුව ද දරාගත හැකි ජාතියක් ලෙස ඒ උත්ථානයේ ගමනේ ආශිර්වාදයත් සමගින් අප නැවත නැගී සිටිය යුතු බවය.
+
+බහුවාර්ගික සමාජයක් ලෙස ජීවත්වන අප, අද රට ඉදිරියේ ඇති අභියෝග ජය ගැනීම වෙනුවෙන් එකමුතුව කටයුතු කිරිම අත්‍යවශ්‍ය බව ජනාධිපතිවරයා පෙන්වා දෙයි.
+
+ශ්‍රී ලාංකිකයන් ලෙස අපගේ එකමුතුකම සහ සංහිඳියාව ප්‍රවර්ධනය කළ යුතු අතර ඊට කැලලක් ඇතිකරන කිසිදු ආකාරයේ කුමන්ත්‍රණයකට හසු නොවී බුද්ධිමත්ව රටේ ආරක්ෂාව, සාමය සහ සංවර්ධනය වෙනුවෙන් කැපවීම සියලුදෙනාගේ යුතුකම බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/8fcd8133.json)
+
+---
 
 ### Protection near the church
 
@@ -172,21 +188,29 @@ The Mission of the National Cadet Corps is to train and inspire cadets using an 
 
 [Data](articles/cf984dd2.json)
 
+[Extended Data](ext_articles/cf984dd2.ext.json)
+
 ---
 
-### இன்று அதிவிசேட பாதுகாப்பு
+### Today's extreme security
 
 *2024-03-31 02:36:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அதிவிசேட-பாதுகாப்பு/175-335389) · `ta`
 
-நாடலாவிய ரீதியில் இன்று உயிர்த ஞாயிறு ஆராதனைகள் நடைபெறும் அனைத்து கிறிஸ்தவ தேவாலயங்களிலும் விசேட பாதுகாப்பு வேலைத்திட்டத்தை அமுல்படுத்த பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+Police enhanced security at Christian churches on Sunday, with measures in place until devotees leave. This follows the strengthening of security since a large silver ceremony yesterday.
 
-இந்த பாதுகாப்பு ஏற்பாடுகள், இன்று பிற்பகல் ஆராதனை நிறைவடைந்து பக்தர்கள் அனைவரும் அவரவர் வீடுகளுக்கு செல்லும் வரை அமுல்படுத்தப்படும் என பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+🟩
 
-இதேவேளை, நேற்று முன்தினம் பெரிய வெள்ளி ஆராதனை ஆரம்பமானதையடுத்து பாதுகாப்பு ஏற்பாடுகள் மேற்கொள்ளப்பட்ட நிலையில், இன்றும் பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளது. (a)
+Police have taken steps to implement a special security program in all Christian churches that are held on Sunday rituals today.
+
+The security arrangements will be completed this afternoon and will be implemented until all the devotees go to their homes, the police headquarters said.
+
+Meanwhile, security arrangements have been made since the launch of a large silver ceremony yesterday, and the security has been strengthened today.. (A)
 
 ◼️
 
 [Data](articles/7116b7a9.json)
+
+[Extended Data](ext_articles/7116b7a9.ext.json)
 
 ---
 
@@ -310,6 +334,8 @@ As the two Sri Lankans retreated under fire, another wave of Ukrainian drones st
 
 [Data](articles/bb3804fc.json)
 
+[Extended Data](ext_articles/bb3804fc.ext.json)
+
 ---
 
 ### The story of rice and some controversial predictions from the developed world
@@ -321,6 +347,8 @@ Of the cultivated varieties of rice the commonest are Oryza Sativa and O-gaberri
 ...
 
 [Data](articles/1df0b9b9.json)
+
+[Extended Data](ext_articles/1df0b9b9.ext.json)
 
 ---
 
@@ -2231,27 +2259,5 @@ Due to the actions of some monks, Buddhism has been a risk of destroying Buddhis
 [Data](articles/214fb1b7.json)
 
 [Extended Data](ext_articles/214fb1b7.ext.json)
-
----
-
-### 25 Rail Services canceled
-
-*2024-03-30 07:52:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/25-ரயில்-சேவைகள்-இரத்து/175-335358) · `ta`
-
-25 rail services canceled due to development near Bambalapitiya station. Services from Colombo to Wellawatte will be held on a religion.
-
-🟩
-
-Deputy General Manager of the Railway Department
-
-He said that the move was due to the development work being carried out near the Bambalapitiya railway station.
-
-At the same time, the Deputy General Manager of the Department, NJ Indipola, said that the service will be held on a religion from Colombo to Wellawatte.(a)
-
-◼️
-
-[Data](articles/b956a8e5.json)
-
-[Extended Data](ext_articles/b956a8e5.ext.json)
 
 ---

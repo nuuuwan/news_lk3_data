@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 01:18:18**
+As of **2024-04-01 01:33:44**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,226 (100.0%) of 16,227 articles have been extended.
+16,227 (100.0%) of 16,227 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### மலையக இந்து குருமார் சம்மேளனம் அநுரவை சந்தித்தது
+### The hill country Hindu clergymen met Anura
 
 *2024-04-01 01:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180095) · `ta`
 
-மலையக இந்து குருமார் சம்மேளனத்தைச் சேர்ந்த இந்து குருமார்கள் ஞாயிற்றுக்கிழமை (31) தேசிய மக்கள் சக்தியின் தலைவர் தோழர் அநுர குமார திசாநாயக்க அவர்களை மக்கள் விடுதலை முன்னணியின் தலைமையகத்தில் வைத்து சந்தித்தனர்.
+Hill country Hindu clergy met with Anura Kumara Dissanayake, discussing home and land issues, and enhancing Hinduism and culture. Dissanayake addressed political solutions and current conditions affecting the hill country's people.
 
-இதன்போது மலையக மக்களின் வீடு மற்றும் காணிப் பிரச்சினைகள்,  மலையகத்தில் இந்து சமயத்தையும் கலாச்சாரத்தையும் மேம்படுத்துதல் பற்றிய விடயங்களையும் மலையக இந்து குருமார்கள் தோழர் அநுர குமார திசாநாயக்கவின் கவனத்திற்கு கொண்டுசென்றனர்.
+🟩
 
-நீண்ட நேரம் இடம்பெற்ற இந்த உரையாடலில் மலையக மக்கள் முகம்கொடுக்கின்ற பிரச்சினைளுக்கு எவ்வாறான அரசியல் தீர்வுகளை பெற்றுக்கொடுப்பது மற்றும் நடப்பு அரசியல், பொருளாதார நிலைமைகள் குறித்தும் தோழர் அநுர குமார  திசாநாயக்க தெளிவுப்படுத்தினார்.
+The Hindu clergy of the hill country met with the National People's Power President Comrade Anura Kumara Dissanayake on Sunday (31) at the headquarters of the Janatha Vimukthi Peramuna (JVP).
+
+The hill country of the people of the hill country brought to the notice of Comrade Anura Kumara Dissanayake on the issue of the homes and land issues of the hill country, and the improving Hinduism and culture in the hill country.
+
+Comrade Anura Kumara Dissanayake made it clear that the long -standing conversation was on the issue of the people of the hill country and what kind of political solutions and current political and economic conditions.
 
 ◼️
 
 [Data](articles/a939358f.json)
+
+[Extended Data](ext_articles/a939358f.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 13:03:07**
+As of **2024-03-31 13:18:05**
 
 ## Newspaper Stats
 
-*Scraped **16,142** Articles*
+*Scraped **16,144** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,33 @@ dailyftlk | 864
 economynextcom | 885
 islandlk | 899
 adalk | 1,350
-tamilmirrorlk | 1,931
+tamilmirrorlk | 1,932
 adaderanalk | 1,950
 virakesarilk | 2,289
-dailymirrorlk | 2,488
+dailymirrorlk | 2,489
 adaderanasinhalalk | 2,608
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,139 (100.0%) of 16,142 articles have been extended.
+16,142 (100.0%) of 16,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### Devram Vehera Medin maha perahera
+
+*2024-03-31 12:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Devram-Vehera-Medin-maha-perahera/110-279890) · `en`
+
+Medin Maha Perahera of the Pannipitiya Devram Vehera was held last night for the seventeenth time. Inspector General of Police Deshbandu Tennakoon also joined this procession as a guest, which was organized under the guidance of Most Ven. Kolonnawe Siri Sumangala thera.
+
+◼️
+
+[Data](articles/d6804def.json)
+
+---
 
 ### One injured as Police Sergeant’s pistol accidentally fires in raid
 
@@ -47,6 +59,8 @@ The injured 28-year-old has subsequently been admitted to Hambantota Hospital fo
 ◼️
 
 [Data](articles/71705c57.json)
+
+[Extended Data](ext_articles/71705c57.ext.json)
 
 ---
 
@@ -96,6 +110,8 @@ PM Modi dubbed it a “callous” decision and also said that the handover of Ka
 
 [Data](articles/9bbda638.json)
 
+[Extended Data](ext_articles/9bbda638.ext.json)
+
 ---
 
 ### ‘Eye opening’: PM Modi lashes out at Congress for giving away Katchatheevu island to Sri Lanka
@@ -143,6 +159,26 @@ The suspect and the firearm have been handed over to the police station for furt
 [Data](articles/6aab8869.json)
 
 [Extended Data](ext_articles/6aab8869.ext.json)
+
+---
+
+### வைத்தியசாலையில் தடுப்பூசி ஏற்றப்பட்டவர் மரணம்
+
+*2024-03-31 11:39:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலையில்-தடுப்பூசி-ஏற்றப்பட்டவர்-மரணம்/175-335396) · `ta`
+
+றாகம போதனா வைத்தியசாலையில் 50 வயதுடைய நோயாளி ஒருவர் தடுப்பூசியைப் பெற்றுக்கொண்ட சிறிது நேரத்திலேயே பரிதாபமாக உயிரிழந்ததைத் தொடர்ந்து சுகாதார அமைச்சு விசாரணைகளை ஆரம்பித்துள்ளது.
+
+காது தொடர்பான மருத்துவத்திற்காக மருத்துவமனையில் அனுமதிக்கப்பட்டிருந்த நோயாளி, பற்றீரியா தொற்றுகளை எதிர்த்துப் போராட பொதுவாகப் பயன்படுத்தப்படும் அன்டிபயோடிக் 'கோ-அமோக்ஸிக்லாவ்' தடுப்பூசியை செலுத்திய பின்னர் காலமானார்.
+
+சம்பவம் தொடர்பான சூழ்நிலைகளை அறிந்து கொள்வதற்காக மருத்துவமனை மட்டத்தில் முழுமையான உள்ளக விசாரணையும் நடைபெற்று வருவதாக மருத்துவமனையின் பணிப்பாளர் வைத்தியர் சம்பத் ரணவீர உறுதிப்படுத்தினார்.
+
+இறப்புக்கான காரணம் நிச்சயமற்றதாக இருந்தாலும், தடுப்பூசிக்கு ஒவ்வாமை ஏற்படுவதற்கான சாத்தியக்கூறுகளை அதிகாரிகள் நிராகரிக்கவில்லை.
+
+இந்த சம்பவம் கவனத்தை ஈர்த்துள்ளதுடன் நோயாளியின் மரணத்திற்கு வழிவகுக்கும் நிகழ்வுகளை ஆழமாக ஆராய அதிகாரிகளைத் தூண்டியுள்ளது.
+
+◼️
+
+[Data](articles/549c5b3c.json)
 
 ---
 
@@ -798,26 +834,6 @@ The incident has sparked concerns and prompted authorities to delve deeper into 
 
 ---
 
-### 
-
-*2024-03-31 03:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83838) · `en`
-
-After unforgivably allowing a disaster of the magnitude of the 2019 attacks on churches and hotels to occur at the hands of local jihadists, what is the point of parading military men before churches now?
-
-Does the Sri Lankan Government believe that posting hundreds of military officers with guns at the ready in front of churches during the Christian Holy Week, will suffice to mitigate monumental lapses on the part of the State in not (properly) investigating or prosecuting those responsible for the 2019 Easter Sunday attacks?
-
-Is this not part of the many charades in regard to ‘investigating’ gross human rights abuses where the State itself is complicit in the same?
-
-This is irrespective of targeting ethnic or religious minorities (Tamil/Muslim) or for that matter, the (Sinhala) majority itself whose common blood has soaked Sri Lanka’s soil since independence.
-
-That commonality of justice denied has been a damning truth carefully avoided by political demagogues, not only the Rajapaksas.
-
-...
-
-[Data](articles/439c14c2.json)
-
----
-
 ### Memories of WW II and two Easter Sundays
 
 *2024-03-31 03:08:00* · [`islandlk`](http://island.lk/memories-of-ww-ii-and-two-easter-sundays/) · `en`
@@ -997,6 +1013,26 @@ On September 6th 1977, Lalith Athulathmudali, then Minister of Trade said in Par
 [Data](articles/00854be8.json)
 
 [Extended Data](ext_articles/00854be8.ext.json)
+
+---
+
+### After unforgivably allowing a disaster of the magnitude of the 2019 attacks on churches and hotels to occur at the hands of local jihadists, what is the point of parading military men before churches now?
+
+*2024-03-31 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83838) · `en`
+
+Does the Sri Lankan Government believe that posting hundreds of military officers with guns at the ready in front of churches during the Christian Holy Week, will suffice to mitigate monumental lapses on the part of the State in not (properly) investigating or prosecuting those responsible for the 2019 Easter Sunday attacks?
+
+Is this not part of the many charades in regard to ‘investigating’ gross human rights abuses where the State itself is complicit in the same?
+
+This is irrespective of targeting ethnic or religious minorities (Tamil/Muslim) or for that matter, the (Sinhala) majority itself whose common blood has soaked Sri Lanka’s soil since independence.
+
+That commonality of justice denied has been a damning truth carefully avoided by political demagogues, not only the Rajapaksas.
+
+...
+
+[Data](articles/439c14c2.json)
+
+[Extended Data](ext_articles/439c14c2.ext.json)
 
 ---
 
@@ -2191,55 +2227,5 @@ The party appointed K.P. Gunawardena as National organiser, Hector Bethmage as T
 [Data](articles/86a0de9b.json)
 
 [Extended Data](ext_articles/86a0de9b.ext.json)
-
----
-
-### April 8th full solar eclipse;Will Sri Lankans get a chance?
-
-*2024-03-30 12:36:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-8-முழு-சூரிய-கிரகணம்-இலங்கையர்களுக்கு-வாய்ப்பு-கிடைக்குமா/175-335365) · `ta`
-
-April 8th's full solar eclipse will be visible in North America, not Sri Lanka.
-
-🟩
-
-NASA noted that the entire solar eclipse will appear on April 8, and that the solar eclipse can only be observed in North America.
-
-The entire solar eclipse occurs when the moon passes between the sun and the earth.
-
-NASA has said that North Americans have the opportunity to observe such a rare solar eclipse. Remble
-
-◼️
-
-[Data](articles/0b36d0fc.json)
-
-[Extended Data](ext_articles/0b36d0fc.ext.json)
-
----
-
-### 23 Pakistanis rescued by Indian navy
-
-*2024-03-30 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180016) · `ta`
-
-Indian Navy rescues 23 Pakistanis from Somali pirates who hijacked an Iranian fishing vessel. After 12 hours, pirates surrender, and the Pakistanis are safely rescued.
-
-🟩
-
-Indian Navy has safely rescued 23 Pakistanis who were trapped by Momali pirates.
-
-The pirates have abducted a fishing vessel that went with the Iranian flag in the Arabian Sea.
-
-Following this, the Indian navy has embarked on an attempt to rescue the smugglers on two ships.
-
-Indian Navy retaliates to Somali pirates. After about 12 hours, pirates have surrendered to the Indian navy.
-
-The 23 Pakistanis were then safely rescued on the hijacked ship. The Indian navy has entered the ship of Somali pirates.
-
-Meanwhile, on the evening of March 28, the Somali pirates of Iran, the 'Al-Kambar 786' from the Iranian fishing vessel.. Once we have received the information, we have rescued the 23 people aboard the ship, ”the Indian Navy said.
-
-◼️
-
-[Data](articles/3acdf2be.json)
-
-[Extended Data](ext_articles/3acdf2be.ext.json)
 
 ---

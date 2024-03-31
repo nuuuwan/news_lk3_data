@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 17:03:03**
+As of **2024-03-31 17:18:07**
 
 ## Newspaper Stats
 
-*Scraped **16,173** Articles*
+*Scraped **16,174** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 885
 islandlk | 900
 adalk | 1,357
 tamilmirrorlk | 1,934
-adaderanalk | 1,952
+adaderanalk | 1,953
 virakesarilk | 2,294
 dailymirrorlk | 2,493
 adaderanasinhalalk | 2,616
@@ -26,43 +26,75 @@ adaderanasinhalalk | 2,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,170 (100.0%) of 16,173 articles have been extended.
+16,173 (100.0%) of 16,174 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### සම්බාහන මධ්‍යස්ථානයක් තුළදී පුද්ගලයෙකු මරුට
+### Fuel prices likely to reduce tonight?
+
+*2024-03-31 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98325/fuel-prices-likely-to-reduce-tonight) · `en`
+
+A revision of fuel prices is likely to take effect from midnight today (04) based on the fuel pricing formula.
+
+The Ministry of Power and Energy stated that the fuel prices could possibly be reduced during this price revision.
+
+The Ceylon Petroleum Corporation (CPC) amends the fuel prices monthly as per the pricing formula.
+
+The fuel price revision for the month of March took place on March 04, where the price of Petrol 95 Octane was reduced by Rs. 09, while Super Diesel was reduced by Rs. 10. Meanwhile the price of Kerosene was also reduced by Rs. 05 per litre.
+
+It is predicted that the price of fuel will likely be reduced during this price revision in consideration to the rupee’s continuous appreciation against the US dollar and the price of crude oil dropping in the global market.
+
+◼️
+
+[Data](articles/60e2df6f.json)
+
+---
+
+### Man dies in a massage center
 
 *2024-03-31 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195134) · `si`
 
-සම්බාහන මධ්‍යස්ථානයක් තුළදී පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව ඇති බව පොලීසිය පවසයි.
+A 53-year-old man from Maharagama died at a massage center on Wewa Road due to a heart attack.
 
-මෙලෙස මියගොස් ඇත්තේ මහරගම ප්‍රදේශයේ පදිංචි 53 හැවිරිදි වියේ පසුවූ පුද්ගලයෙකි.
+🟩
 
-මරණය සම්බන්ධයෙන් සිදුකළ පරීක්ෂණවලදී අනාවරණය වී ඇත්තේ හෘදයාබාධයක් හේතුවෙන් ඔහු මියගොස් ඇති බවටය.
+One person was killed in a massage center, police said.
 
-මෙම මරණය සිදුව ඇත්තේ වැව පාර ප්‍රදේශයේ පිහිටි සම්බාහන මධ්‍යස්ථානයක් තුළදීය.
+The deceased has been identified as a 53-year-old resident of Maharagama.
+
+Investigations on death revealed that he had died due to a heart attack.
+
+The death was caused by a massage center in the Wewa Road.
 
 ◼️
 
 [Data](articles/69982d7f.json)
 
+[Extended Data](ext_articles/69982d7f.ext.json)
+
 ---
 
-### කමිඳුට අහිමි වූ ශතකය
+### Century lost
 
 *2024-03-31 16:17:19* · [`adalk`](https://www.ada.lk/sports/කමිඳුට-අහිමි-වූ-ශතකය/9-408860) · `si`
 
-අනෙක් අන්තයෙන් ක්‍රිඩා කළ සියලුම පිතිකරුවන් දැවී යාම හේතුවෙන් තවත් ශතකයක් ලබා ගැනීමට තිබූ අවස්ථාව ශ්‍රී ලංකා තුන් ඉරියව් ක්‍රීඩක කමිඳු මෙන්ඩිස්ට අද අහිමිව ගියේය.
+Sri Lanka's Mendis lost a century, scoring 531/92. Half-centuries by Dimuth Karunaratne (57), Dinesh Mendis (96), Chandimal (59), De Silva (70), and Kumindic Mendis (92).
 
-බංග්ලාදේශය සමගින් පැවැත්වෙන දෙවැනි ටෙස්ට් තරගයේ පළමු ඉනිම ක්‍රිඩා කළ ශ්‍රී ලංකා කණ්ඩායම සියලු දෙනා දැවී ලකුණු 531ක් රැස් කළ අතර එහිදී කමි﻿ඳු මෙන්ඩිස් නොදැවී ලකුනු 92ක් රැස්කරගෙන සිටියේය.
+🟩
 
-ශ්‍රී ලංකාව වෙනුවෙන් මෙම තරගයේදී නිෂාන් මධුශංක 57, දිමුත් කරුණාරත්න 86, කුසල් මෙන්ඩිස් 96, දිනේෂ් චන්දිමාල් 59, ධනංජය ද සිල්වා 70 හා කමිඳු මෙන්ඩිස් 92 අර්ධ ශතක රැස්කිරීමට සමත්වූහ.
+Sri Lanka's three-genuine Mendis has lost another century due to the loss of all the batsmen of the other end.
+
+Sri Lanka scored 531 runs for the loss of 92 wooden Mendis.
+
+In this contest, Dimuth Karunaratne 57, Dimuth Karunaratne, 57, Dinesal Mendis 96, Dinesh Chandimal, 59, Dananjaya De Silva, 70 and Kumindic Mendis 92 collected half centuries.
 
 ◼️
 
 [Data](articles/03819994.json)
+
+[Extended Data](ext_articles/03819994.ext.json)
 
 ---
 
@@ -126,19 +158,27 @@ Russia is exultant about the outcome of the Presidential election. The poll was 
 
 ---
 
-### පොලිස් රාජකාරියට බාධා කළ පොලීසියේ දෙදෙනෙක් අල්ලයි
+### Two police arrested over police duties
 
 *2024-03-31 15:57:06* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-රාජකාරියට-බාධා-කළ-පොලීසියේ-දෙදෙනෙක්-අල්ලයි/11-408859) · `si`
 
-කොල්ලුපිටිය ප්‍රසිද්ධ සමාජ ශාලාවක් අසල සැක සහිත ලෙස රැඳී සිටියදී  පරීක්ෂා කිරීමට යාමේදී පොලිස් නිලධාරීන්ගේ රාජකාරියට බාධා කළ  පොලිස් නිලධාරීන් දෙදෙනෙකු අත්අඩංගුවට ගත් බව කොල්ලුපිටිය පොලිසිය කියයි.
+Two police officers arrested by two others in Kollupitiya. The arrested officer is a constable from Battaramulla. The incident occurred during a meeting with two other police officers. The arrested were released on charges after inspection by officials. Further investigations are ongoing.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ මිරිහාන  පොලිසියට අනුක්තව රාජකාරි කරනු ලබන ආධුනික පොලිස් කොස්තාපල්වරයෙක් සහ අපරාධ වාර්තා කොට්ඨාසයට අනුයුක්තව ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති රන්මල් කොඩි තුවක්කු මහතාගේ බත්තරමුල්ල පිහිටි කාර්යාලයේ රියදුරෙකු කටයුතු කරන පොලිස් කොස්තාපල් වරයෙකි.
+🟩
 
-කොල්ලූපිටිය පොලිසියේ ප්‍රජා පොලිස් අංශයේ ස්ථානාධිපති ලෙස කටයුතු කරන උප පොලිස් පරීක්ෂකවරයෙකු තවත් නිලධාරියකු සමග සිවිල් ඇඳුමින් සැරසී පොලිස් හැඳුනුම්පත පෙන්වා එම ස්ථානයේ සැකසහිත ලෙස රැඳී සිටි පුද්ගලයින් දෙදෙනා පරීක්ෂා කිරීමට යාමේදී ඔවුන් දෙදෙනා පොලිස් නිලධාරීන් දෙදෙනා සමග බහින්බස් වී ඇතැයි පොලිසිය කියයි.
+Kollupitiya Police said that two police officers have been arrested by two police officers.
 
-...
+The arrested for his arrest is a police constable at Battaramulla's driver at the Battaramulla in Battaramulla at Battaramulla.
+
+Police say that the two policemen have been in the corresponding with another two police officers when a Deputy Inspector of the Kollupitiya Police.
+
+Subsequently, the argument was then released on charges of cases and arresting state guilty after allowing the visitors to the officials and inspect them into police officers.. Kollupitiya Police are conducting further investigations
+
+◼️
 
 [Data](articles/283654b4.json)
+
+[Extended Data](ext_articles/283654b4.ext.json)
 
 ---
 
@@ -2197,31 +2237,5 @@ Addressing a gathering in Galle, MP Patali Champika Ranawaka said that if a corr
 [Data](articles/881dbdb0.json)
 
 [Extended Data](ext_articles/881dbdb0.ext.json)
-
----
-
-### Change in key positions of the SLFP
-
-*2024-03-30 18:24:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீ-சு-கட்சியின்-முக்கிய-பதவிகளில்-மாற்றம்/175-335370) · `ta`
-
-MPs Duminda Dissanayake, Lasantha Alaiyawanna, and Mahinda Amaraweera have been removed from the Sri Lanka Freedom Party (SLFP). KP Gunawardena and Hector Bethmage have been appointed to replace them.
-
-🟩
-
-It is reported that MPs Duminda Dissanayake, Lasantha Alaiyawanna and Mahinda Amaraweera have been sacked from the Sri Lanka Freedom Party.
-
-The decisions have been taken at the Executive Committee as all the organizers of the Sri Lanka Freedom Party (SLFP) and members of the Sri Lanka Freedom Party (SLFP) have been invited to the party headquarters today.
-
-Accordingly, KP Gunawardena has been appointed for the removal of Duminda Dissanayake from the post of party's national organizer.
-
-In addition, Hector Bethmage has been appointed to the post of Lasantha Alagiyavanna Treasurer.
-
-Similarly, Mahinda Amaraweera has been removed from the post of Senior Vice President Sarath Ekanayake.. Remble
-
-◼️
-
-[Data](articles/90ee4ab9.json)
-
-[Extended Data](ext_articles/90ee4ab9.ext.json)
 
 ---

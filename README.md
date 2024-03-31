@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 14:03:17**
+As of **2024-03-31 14:18:04**
 
 ## Newspaper Stats
 
-*Scraped **16,150** Articles*
+*Scraped **16,156** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,128 @@ economynextcom | 885
 islandlk | 899
 adalk | 1,351
 tamilmirrorlk | 1,932
-adaderanalk | 1,950
-virakesarilk | 2,289
-dailymirrorlk | 2,491
+adaderanalk | 1,951
+virakesarilk | 2,293
+dailymirrorlk | 2,492
 adaderanasinhalalk | 2,611
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,147 (100.0%) of 16,150 articles have been extended.
+16,150 (100.0%) of 16,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### ගිළිහී ගිය උඩ පන්දුව
+### உயிர்த்த ஞாயிறு தாக்குதலிற்கு இந்தியாவே காரணம் என குற்றம்சாட்டிய சிறிசேன- முன்னாள் ஜனாதிபதியின் புதிய சகாவே இந்த குற்றச்சாட்டிற்கு காரணமா என அரசாங்கம் விசாரணை
+
+*2024-03-31 14:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180066) · `ta`
+
+முன்னாள் ஜனாதிபதி மைத்திரிபாலசிறிசேன  சிஐடியினரிடம் வாக்குமூலம் வழங்கியவேளை உயிர்த்த ஞாயிறுதாக்குதலின் பின்னணியில் இந்தியாவே உள்ளதாக தெரிவித்துள்ளார் என குறிப்பிட்டுள்ள சண்Nடை டைம்ஸ் மைத்திரிபால சிறிசேனவுடன் சமீபத்தில் இணைந்துகொண்டுள்ள நபர் ஒருவரே இந்த குற்றச்சாட்டின் பின்னணியில் உள்ளரா என  அரசாஙகமட்டத்தில் விசாரணைகள் இடம்பெறுவதாகவும் தெரிவித்துள்ளது
+
+கடந்தகாலங்களில் வெளியான விடயங்களை தலைகீழாக மாற்றும் விதத்தில்  முன்னாள் ஜனாதிபதி மைத்திரிபாலசிறிசேன வரலாற்றை மாற்றியமைக்கும் விதத்தில்  புதிய தகவல்களை வெளியிட்டுள்ளார்.
+
+உயிர்த்த ஞாயிறுதினத்திற்கு சில நாட்கள் இருக்கையில் அவர் இந்த புதிய தகவலை வெளியிட்டார்.
+
+கண்டிக்கு கடந்த வெள்ளிக்கிழமை விஜயம் மேற்கொண்டவேளை தனக்கு உயிர்த்த ஞாயிறுதாக்குதல் குறித்து புதிய விடயங்கள் தெரியவந்துள்ளதை அவர் கோடிட்டுக்காட்டியிருந்தார்.
+
+கண்டியில் தனது நிகழ்வுகளில் கலந்துகொண்ட பின்னர் அவர் ஊடகவியலாளர்களுடன் உரையாடினார் உயிர்த்த ஞாயிறுதாக்குதலின் பின்னணியில் யார் உள்ளது என்பதை தான் அறிந்துகொண்டுள்ளதாக அவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/8aa9e2c9.json)
+
+---
+
+### Philippines’ Marcos boosts maritime security as China tension rises
+
+*2024-03-31 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98323/philippines-marcos-boosts-maritime-security-as-china-tension-rises) · `en`
+
+Philippine President Ferdinand Marcos Jr has ordered his government to strengthen its coordination on maritime security to confront “a range of serious challenges” to territorial integrity and peace, as a dispute with China escalates.
+
+The order, signed on Monday and made public on Sunday, does not mention China but follows a series of bilateral maritime confrontations and mutual accusations over a disputed area of the South China Sea.
+
+Beijing claims almost all of the South China Sea, a conduit for more than $3 trillion of annual ship-borne commerce. China’s claims overlap those of the Philippines, Vietnam, Indonesia, Malaysia and Brunei. The Permanent Court of Arbitration in 2016 said China’s claims had no legal basis.
+
+The latest flare-up occurred last weekend, when China used water cannon to disrupt a Philippine resupply mission to the Second Thomas Shoal for soldiers guarding a warship intentionally grounded on a reef 25 years ago.
+
+...
+
+[Data](articles/80e665c8.json)
+
+---
+
+### Great teeth
 
 *2024-03-31 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195129) · `si`
 
-ශ්‍රී ලංකාව සහ බංග්ලාදේශ කණ්ඩායම අතර දෙවන ටෙස්ට් තරගයේ දෙවන දිනය අදයි.
+Sri Lanka scored 472/6 in the 2nd Test against Bangladesh, losing Prabath Jayasuriya due to a lack of safe bowlers.
 
-මේ වනවිට ශ්‍රී ලංකා කණ්ඩායම කඩුලු 6ක් දැවී ලකුණු 472ක් රැස්කරගෙන සිටියි.
+🟩
 
-මෙහිදී ශ්‍රී ලංකා ක්‍රීඩක ප්‍රභාත් ජයසූරිය දවාගැනීමට තිබූ අවස්ථාවක් බංග්ලාදේශ ක්‍රීඩකයින් අතින් ගිලිහී ගියේ ආරක්‍ෂිත පන්දු රැකීමක් සිදුනොවීම හේතුවෙන්.
+Today is the second day of the second Test between Sri Lanka and Bangladesh.
+
+The Sri Lankan team scored 472 runs for the loss of 6 wickets.
+
+Bangladeshi players lost Prabath Jayasuriya at the time of the lack of safe bowler.
 
 ◼️
 
 [Data](articles/c64454f1.json)
+
+[Extended Data](ext_articles/c64454f1.ext.json)
+
+---
+
+### பண்டிகைக் காலங்களில் முட்டையின் விலை  குறையுமென எதிர்பார்ப்பு!
+
+*2024-03-31 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180047) · `ta`
+
+தமிழ் -சிங்கள புத்தாண்டு காலத்தில்  உள்நாட்டில்  முட்டை ஒன்றின் விலை 35 ரூபாவை விடவும் குறையும் என விவசாய மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சு  தெரிவித்துள்ளது.
+
+உள்நாட்டு சந்தையில் கோழி முட்டை ஒன்றின் விலை 42 - 48 ரூபாவாக காணப்படுவதாக அமைச்சு குறிப்பிட்டுள்ளது.
+
+அத்துடன், கோழி இறைச்சி மற்றும் முட்டைகளை தட்டுப்பாடு இன்றி சந்தைக்கு வழங்க நடவடிக்கை எடுக்கப்படும் என விவசாய மற்றும் பொருந்தோட்ட கைத்தொழில் அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/d1cacc1b.json)
+
+---
+
+### பொலிஸாரின் சுற்றிவளைப்பில் 803 பேர் கைது!
+
+*2024-03-31 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180062) · `ta`
+
+போதைப் பொருள் தொடர்பில் நேற்று (30) சனிக்கிழமை  மேற்கொள்ளப்பட்ட  சுற்றிவளைப்பின்போது  803 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளர்.
+
+இவர்களுள் 40 சந்தேக நபர்கள்  மேலதிக விசாரணைக்காக பொலிஸ் தடுப்பில்  வைக்கப்படவுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இதன் போது சந்தேக நபர்களிடமிருந்து ஹெரோயின், ஐஸ் மற்றும் கஞ்சா போதைப் பொருட்களுடன் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/ff69ccde.json)
+
+---
+
+### முல்லைத்தீவில்  சட்டவிரோத மதுபான தயாரிப்பில் ஈடுப்பட்டவர் கைது!
+
+*2024-03-31 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/180057) · `ta`
+
+முல்லைத்தீவு,முள்ளியாவளையில் சட்டவிரோத மதுபான தயாரிப்பில் ஈடுபட்ட நபரொருவர் கைது செய்யப்பட்டுள்ளார். பொலிஸாரினால் அவரது வீட்டில் நேற்று சனிக்கிழமை  மேற்கொள்ளப்பட்ட  சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+அத்தோடு சட்டவிரோத மதுபானம் 85 லீற்றர் மற்றும் 9 கோடா  பீப்பாய்களும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+இவ்வாறு கைது செய்யப்பட்ட நபர் அரச அனுமதியுடன்  பசளை தயாரிப்பில் ஈடுபட்டு வருவதாகவும்,   இதற்காக குழாய் நீர் விநியோகம் முறை மூலம் நீர் பெற்றுக் கொண்டுள்ளதாகவும் தெரிவித்துள்ளனர்.
+
+குறித்த நபர் குழாய் அமைப்புக்கு  நடுவில் உபகரணங்களை புதைத்து வைத்து மதுபான தயாரிப்பில் ஈடுபட்டு வந்துள்ளார். பொலிஸார் நீர் குழாயின் பாகங்களை அகற்றி அவதானித்தபோதே சந்தேக நபர் சூட்சுமான முறையில் சட்டவிரோத மதுபானம் தயாரிப்பது கண்டறியப்பட்டுள்ளதாக
+
+◼️
+
+[Data](articles/63525640.json)
 
 ---
 
@@ -65,6 +159,8 @@ During a discussion held at the Agriculture Ministry last Friday (29) regarding 
 ...
 
 [Data](articles/9133185d.json)
+
+[Extended Data](ext_articles/9133185d.ext.json)
 
 ---
 
@@ -259,6 +355,8 @@ The Easter Sunday service was held at St. Anthony's Church Kochchikade in a calm
 ◼️
 
 [Data](articles/a24fe030.json)
+
+[Extended Data](ext_articles/a24fe030.ext.json)
 
 ---
 
@@ -959,6 +1057,26 @@ The incident has sparked concerns and prompted authorities to delve deeper into 
 [Data](articles/57bf206e.json)
 
 [Extended Data](ext_articles/57bf206e.ext.json)
+
+---
+
+### Health Ministry probes fatal incident at Ragama Hospital
+
+*2024-03-31 03:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Health-Ministry-probes-fatal-incident-at-Ragama-Hospital/155-279883) · `en`
+
+Colombo, March 30 (Daily Mirror) - The Ministry of Health has launched an investigation following the tragic death of a 50-year-old patient at Ragama Teaching Hospital shortly after receiving a vaccine.
+
+The patient, who had been admitted to the hospital for an ear-related medical condition, passed away after reportedly being administered the 'co-amoxiclav' vaccine, an antibiotic typically used to combat bacterial infections.
+
+Dr. Sampath Ranaweera, the hospital's director, confirmed that a thorough internal investigation is also underway at the hospital level to ascertain the circumstances surrounding the incident.
+
+While the cause of death remains uncertain, officials have not ruled out the possibility of an allergic reaction to the vaccine.
+
+The incident has sparked concerns and prompted authorities to delve deeper into the events leading up to the patient's demise.
+
+◼️
+
+[Data](articles/a4a6f59f.json)
 
 ---
 
@@ -2069,145 +2187,5 @@ China is willing to “continue supporting its financial institutions to activel
 [Data](articles/661697f3.json)
 
 [Extended Data](ext_articles/661697f3.ext.json)
-
----
-
-### Amaraweera, Lasantha and Duminda are against the removal
-
-*2024-03-30 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195100) · `si`
-
-Amaraweera, Lasantha, and Duminda oppose removal. Mahinda Amaraweera states they will face legal action. The SLFP executive council met, replacing Duminda Dissanayake with KP Gunawardena and Hector Bethmage with Sarath Ekanayake, following their removals.
-
-🟩
-
-Minister Mahinda Amaraweera says that Dumindhantha Dissanayake, Lasantha Alagiyawanna and Hiru Sri Lanka Freedom Party (30) will be taken by law.
-
-The Sri Lanka Freedom Party (SLFP) executive council met at the party headquarters today (30).
-
-Accordingly, Duminda Dissanayake, who was removed from the post of National Organizer of the Sri Lanka Freedom Party (SLFP), was replaced by Mahiyanganaya electoral organizer KP Gunawardena.
-
-Former Minister Hector Bethmage had been appointed to replace Mr. Lasantha Alagiyawanna who lived from the post of Treasurer.
-
-He was also removed from the post of Senior Vice President of the party today and replaced Sarath Ekanayake.
-
-◼️
-
-[Data](articles/4f5b76a0.json)
-
-[Extended Data](ext_articles/4f5b76a0.ext.json)
-
----
-
-### Amaraweera and others to take legal action against removal from SLFP posts
-
-*2024-03-30 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98306/amaraweera-and-others-to-take-legal-action-against-removal-from-slfp-posts) · `en`
-
-Minister Mahinda Amaraweera says he, together with State Minister Lasantha Alagiyawanna and MP Duminda Dissanayake will take legal action against their removal from the posts they held in the Sri Lanka Freedom Party (SLFP).
-
-The Executive Committee of the SLFP decided to remove Dissanayake, Alagiyawanna and Amaraweera from their respective positions in the party, during a special party meeting held today (30).
-
-Accordingly, Dissanayake was stripped of his post as the National Organizer, Alagiyawanna as the Treasurer and Amaraweera as the Senior Vice President.
-
-Meanwhile, SLFP also appointed a new Senior Vice President, a Treasurer and a National Organizer after trio was stripped of their respective positions.
-
-Thereby, SLFP’s Mahiyanganaya Constituency Organizer K. P. Gunawardena was appointed to the post of National Organizer, former Western Provincial Minister Hector Bethmage as the Treasurer and former Central Province Chief Minister Sarath Ekanayake as the Senior Vice President.
-
-◼️
-
-[Data](articles/2a078964.json)
-
-[Extended Data](ext_articles/2a078964.ext.json)
-
----
-
-### Justice Minister arrives at Maithri's discussion
-
-*2024-03-30 14:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195099) · `si`
-
-Justice Minister Dr. Wijedasa Rajapaksa met with Maithripala Sirisena and SLFP members, discussing an Order to the Passover Day. Tiran Alles, Defense Minister, was tasked with an immediate investigation.
-
-🟩
-
-Former President Maithripala Sirisena, the Sri Lanka Freedom Party and Executive Committee members of the SLFP have been summoned to the party headquarters today (30).
-
-The Minister of Justice Dr. Wijedasa Rajapaksa was also present at the meeting this morning.
-
-Former President Maithripala Sirisena stated that he is aware of the Order to the Passover Day and he is ready to reveal the matter.
-
-The Minister of Defense Tiran Alles was ordered to conduct an immediate investigation into his statement.
-
-The Maligakanda Magistrate Magistrate Magistrate Magistrate Magistrate Magistrate Magistrate Magistrate Magistrate Magistrate's Court on April 4 on April 4.
-
-◼️
-
-[Data](articles/d07522a8.json)
-
-[Extended Data](ext_articles/d07522a8.ext.json)
-
----
-
-### Women
-
-*2024-03-30 13:40:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பெண்களுக்கு-கல்லடி-கசையடி-தண்டனை-மீண்டும்-அமல்/50-335367) · `ta`
-
-The Taliban in Afghanistan have lifted punishments for women in marriages, but the situation remains dire, with poverty, hunger, and disease prevalent. Mullah Hipatullah Akundsata has announced the reinstatement of practices like kasadi and kalladi, which are against Sharia law and women's rights, leading to concerns about the future of women's rights in the country.
-
-🟩
-
-The Taliban ruled in Afghanistan have announced that they will no longer have punishable punishment for women who are engaged in marriage in their country.
-
-In August 2021, the US and NATO forces were out of Afghanistan. The Taliban then seized the regime. The Islamists declared the rule of the Shariah law. At the same time, no rule as the last time. Female education, female freedom will be maintained and the world will be friendly with the countries of the world. But the rule of the Taliban did not do so. There is currently only poverty, hunger and disease.
-
-In this context, the Taliban Mullah Hipatullah Akundsata on the state television has said that the practice of providing kasadi and kalladi to women will come into effect again.
-
-...
-
-[Data](articles/14884751.json)
-
-[Extended Data](ext_articles/14884751.ext.json)
-
----
-
-### New appointments made to fill SLFP’s three senior positions
-
-*2024-03-30 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98305/new-appointments-made-to-fill-slfps-three-senior-positions) · `en`
-
-Sri Lanka Freedom Party (SLFP) has appointed a new Senior Vice President, a Treasurer and a National Organizer after Minister Mahinda Amaraweera, State Minister Lasantha Alagiyawanna and MP Duminda Dissanayake were removed from their respective party positions on Saturday (30).
-
-Thereby, SLFP’s Mahiyanganaya Constituency Organizer K. P. Gunawardena was appointed to the post of National Organizer, which was previously held by Dissanayake.
-
-Meanwhile, former Western Provincial Minister Hector Bethmage replaced Alagiyawanna as the Treasurer. Former Central Province Chief Minister Sarath Ekanayake was appointed as the Senior Vice President to replace Amaraweera.
-
-SLFP’s Central Committee members, Executive Committee members, Constituency and District Organizers and all the officials of the affiliated organizations of the party had been called to the party headquarters on Saturday morning for a pivotal meeting, chaired by the party leader, former President Maithripala Sirisena.
-
-◼️
-
-[Data](articles/62b62dd0.json)
-
-[Extended Data](ext_articles/62b62dd0.ext.json)
-
----
-
-### A serious disease among boys - doctor alert
-
-*2024-03-30 13:29:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களிடையே-தீவிரமாக-பரவும்-நோய்-வைத்தியர்-எச்சரிக்கை/175-335366) · `ta`
-
-A serious disease affecting boys, spreading through infections, causes blisters in organs like fever, sore throat, mouth, arm, leg, and buttocks. Symmetrical cases show blisters in chest and back. It's infectious. If children show these signs, they shouldn't go to school.
-
-🟩
-
-Deepal Perera of the Children's Welfare of the Lady Ridgeway Hospital, Colombo, said that infections are spreading infected among children.
-
-Blisters in the organs of the disease, such as fever, sore throat, mouth, arm, leg and buttocks.
-
-It's like chinly. But, in the event of a symmetry, blisters appear in the chest and back. It is infectious.
-
-He also said that if such signs are found to the children, they should not be sent to school.. Remble
-
-◼️
-
-[Data](articles/91921b1b.json)
-
-[Extended Data](ext_articles/91921b1b.ext.json)
 
 ---

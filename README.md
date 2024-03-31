@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 19:33:27**
+As of **2024-03-31 19:50:08**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 2,621
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,185 (100.0%) of 16,189 articles have been extended.
+16,189 (100.0%) of 16,189 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### அதிக வெப்பமான வானிலை குறித்து எச்சரிக்கை
+### Warning over high warm weather
 
 *2024-03-31 19:09:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வெப்பமான-வானிலை-குறித்து-எச்சரிக்கை/175-335415) · `ta`
 
-நாட்டின் பல பகுதிகளில் நாளை (01) அதிக வெப்பமான வானிலை நிலவக்கூடும் என வளிமண்டலவியல் திணைக்களம் இன்று எச்சரிக்கை விடுத்துள்ளது.
+The Department of Meteorology warns of the hottest weather in many parts of the country tomorrow, affecting Western, South, North Western, North Central, and Eastern Provinces. Heat index and human body may be affected in Ratnapura, Moneragala, Mannar, Vavuniya, and Mullaitivu districts.
 
-மேல், தென், வடமேல், வடமத்திய மற்றும் கிழக்கு மாகாணங்களில் இந்த நிலைமை ஏற்படக்கூடும் என அதில் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-இது தவிர இரத்தினபுரி, மொனராகலை, மன்னார், வவுனியா மற்றும் முல்லைத்தீவு மாவட்டங்களில் சில இடங்களில் வெப்பச் சுட்டெண், மனித உடலால் உணரக்கூடிய அவதானம் செலுத்த வேண்டிய மட்டத்தில் இருக்கக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது. R
+The Department of Meteorology today warned that the hottest weather may be in many parts of the country tomorrow (01).
+
+This is likely to occur in the Western, South, North Western, North Central and Eastern Provinces.
+
+In addition to this, the Department of Meteorology has predicted that in some places in Ratnapura, Moneragala, Mannar, Vavuniya and Mullaitivu districts, the heat index and the human body may be able to pay attention to the human body.. Remble
 
 ◼️
 
 [Data](articles/3a629e1a.json)
 
+[Extended Data](ext_articles/3a629e1a.ext.json)
+
 ---
 
-### ஸ்பா சென்றவர் திடீர் மரணம்
+### Sudden death
 
 *2024-03-31 19:07:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்பா-சென்றவர்-திடீர்-மரணம்/175-335414) · `ta`
 
-தெஹிவளை - மஹரகம பிரதான வீதியில் எம்பில்வத்தையில் உள்ள அங்கீகரிக்கப்படாத ஸ்பா ஒன்றின் சேவையை நாடிய 52 வயதுடைய நபர் ஒருவர் திடீர் சுகவீனம் காரணமாக உயிரிழந்துள்ளார்.
+A 52-year-old man died suddenly from an illness after seeking an unauthorized spa service in Embilvatha. Police suspect a heart attack and are investigating further.
 
-குறித்த நபர் மாரடைப்பு காரணமாக உயிரிழந்திருக்கலாம் என பொலிஸார் சந்தேகம் வெளியிட்டுள்ளதுடன் பொரலஸ்கமுவ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+🟩
+
+A 52 -year -old man has died due to sudden illness, seeking an unauthorized spa service in Embilvatha on the Dehiwala - Maharagama main road.
+
+Police have expressed suspicion that the person may have died of a heart attack and Boraleskamuwa police are conducting further investigations.
 
 ◼️
 
 [Data](articles/40e8b5e1.json)
+
+[Extended Data](ext_articles/40e8b5e1.ext.json)
 
 ---
 
@@ -141,6 +153,8 @@ The lowest all-out total in the format was South Africa’s 517 against Australi
 ...
 
 [Data](articles/b028e98f.json)
+
+[Extended Data](ext_articles/b028e98f.ext.json)
 
 ---
 
@@ -344,19 +358,27 @@ It is predicted that the price of fuel will likely be reduced during this price 
 
 ---
 
-### අල්ලස් දුන් බව කී චීන ජාතිකයා නිදොස් කොට නිදහස්
+### The Chinese nationalman who said he was bribed
 
 *2024-03-31 16:51:01* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-දුන්-බව-කී-චීන-ජාතිකයා-නිදොස්-කොට-නිදහස්/11-408864) · `si`
 
-පුපුරණ ද්‍රව්‍ය බලපත්‍රයකට අවශ්‍ය නිර්දේශය ගැනීමට රුපියල් 20,000/-ක අල්ලසක් ශ්‍රී ලංකා මහවැලි අධිකාරියේ කොට්ඨාශ කළමණාකාරවරයකුට දුන් බවට චෝදනා ලැබ සිටි චීන ජාතිකයකු විත්ති වාචක නෙකැඳවාම නිදොස් කර නිදහස් කිරීමට කොළඹ මහාධිකරණ විනිසුරු නාමල් බණ්ඩාර බලල්ලේ මහතා නියම කළේය.
+A Chinese national claimed bribery. Colombo High Court Judge Namal Bandara accused Mahaweli Authority Manager Upul Chandana Kumara of bribery. The judge released the accused, citing insufficient evidence.
 
-මෙම නඩුවේ පැමිණීල්ල විසින් කැඳවන ලද සාක්කිකරුවන් දෙදෙනාගේ ස්ථාවරය අනුව පැමිණිල්ල විසින් විත්තිකරුට එරෙහිව ප්‍රභල හා කාවදින සාක්කි ඉදිරිපත් කර ඇද්ද? නැද්ද? යන්න සම්බන්ධයෙන් අධිකරණයට ස්ථාවරයකට එළැමීට නොහැකි බව විත්තිකරු නිදොස් කර නිදහස් කරමින් විනිසුරුවරයා සඳහන් කළේය.
+🟩
 
-විත්තිකරුවකුට එරෙහි චෝදනාවන් සම්බන්ධයෙන් ඔහුගෙන් විත්ති වාචක කැඳවිය යුතුදැයි තීරණය කිරීම සඳහා පැමිණිල්ල විසින් විත්තිකරුට එරෙහිව ප්‍රභල හා කාවදින සාක්කි ඉදිරිපත් කළ යුතු වුවත් මෙම විත්තිකරුට එරෙහිව ප්‍රභල හා කාවදින සාක්කි ඉදිරිපත් ඉදිරිපත් කර ඇද්ද? නැද්ද? යන්න සම්බන්ධයෙන් අධිකරණයට ස්ථාවරයකට එළැමීට නොහැකි බව සඳහන් කරමින් විත්ති වාචකක නොකැඳවාම නිදොස්කර නිදහස් කරන ලදදේ චොන් දොන් ෂිං නමැත්තෙකි.
+The Colombo High Court Judge Namal Bandara Bandara Balalla has been accused of accusing the Mahaweli Authority Manager to be accused of a bribe of the Mahaweli Authority.
+
+Did the complainant presented the source and styling evictions against the accused by the complaint by the complaint summoned by the complaint?Not?The judge released the accused and releasing the defendant to obey the court that the court could not go into a stand.
+
+Did the complaint must submit the accused against the accused against the accused of the accusations, but have the powerful and stabbed against this accused?Not?The acquitting acquitting acquitting ortek is not a person who has not been released to the court that the court cannot go into a stand.
+
+Upul Chandana Kumara, a divisional manager of the Mahaweli Authority of Sri Lanka, has been prosecuted to the accused of the Mahaweli Authority of the Mahaweli Authority of Sri Lanka to recommend a bribe of Explosive License on July 30, 2018.
 
 ...
 
 [Data](articles/f1015471.json)
+
+[Extended Data](ext_articles/f1015471.ext.json)
 
 ---
 

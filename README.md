@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 12:18:07**
+As of **2024-03-31 12:33:41**
 
 ## Newspaper Stats
 
-*Scraped **16,136** Articles*
+*Scraped **16,137** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,67 @@ tamilmirrorlk | 1,931
 adaderanalk | 1,948
 virakesarilk | 2,289
 dailymirrorlk | 2,487
-adaderanasinhalalk | 2,607
+adaderanasinhalalk | 2,608
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,135 (100.0%) of 16,136 articles have been extended.
+16,136 (100.0%) of 16,137 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### ගලහදී ගිනි අවියක් සමග කොටුවූ සැකකරු
+### තිස්සමහාරාමයේදී වෙඩි වැදුණු තරුණයෙකු රෝහල්ගතකරයි
+
+*2024-03-31 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195126) · `si`
+
+තිස්සමහාරාම ප්‍රදේශයේ පොලීසිය සිදුකළ වැටලීමක් අතරතුරදී ගිනි අවියක් ක්‍රියාත්මක වීමෙන් පුද්ගලයෙකු තුවාල ලබා තිබේ.
+
+මෙලෙස තුවාල ලබා ඇත්තේ 28 හැවිරිදි වියේ පසුවන තරුණයෙක් බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති .
+
+ඊයේ රාත්‍රී 12ත් 1ත් අතර තිස්සමහාරාම පොලීසියට ලද තොරතුරකට අනුව එම ප්‍රදේශයේ සූදුපොළක් වැටලීම සඳහා තිදෙනෙකුගෙන් සමන්විත පොලිස් කණ්ඩායමක් පිටත්ව ගොස් තිබේ.
+
+පොලීසිය එහි ළඟාවීමත් සමඟ එම සූදුපොළේ සිටි පිරිස් පළාගොස් ඇති බව පොලීසිය පවසයි.
+
+ඔවුන් අත්අඩංගුවට යාමේදී පොලිස් සැරයන්වරයෙකු සහ වෙඩි ප්‍රහාරයට ලක්වූ පුද්ගලයා අතර පොරබැදීමක් සිදුව ඇති බව පොලීසිය පවසයි.
+
+එහිදී ගිනි අවිය ක්‍රියාත්මකවීමෙන් තුවාල ලැබූ 28 හැවිරිදි තරුණයා ප්‍රතිකාර සඳහා හම්බන්තොට රෝහලට ඇතුළත් කර තිබේ.
+
+සිද්ධිය සම්බන්ධයෙන් තිස්සමහාරාම පොලීසිය මේ වනවිට විශේෂ විමර්ශනයක් ආරම්භ කර ඇත.
+
+◼️
+
+[Data](articles/91b9e9f6.json)
+
+---
+
+### Suspect trapped with a firearm in the flow
 
 *2024-03-31 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195125) · `si`
 
-යුක්තිය මෙහෙයුමට සමගාමීව සිදුකළ විශේෂ වැටලීමකදී ගිනි අවියක් සමග සැකපිට පුද්ගලයෙකු අත්අඩංගුවට ගෙන තිබේ.
+A 32-year-old from Delthota was arrested with a firearm and bullets in Nuwara Eliya. The Gampola Police Special Task Force recovered the items during a raid.
 
-ගම්පොළ පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් විසින් මෙම වැටලීම සිදුකර තිබුණි.
+🟩
 
-එහිදී සොයාගෙන ඇත්තේවිදෙස් රටක නිෂ්පාදනය කරන ලද බෝර 12 වර්ගයේ ගිනි අවියක් සහ එයට යොදන ජීව උණ්ඩ 5කි.
+A man was arrested on suspicion with a firearm in a special raid in parallel to justice.
 
-ගලහ පොලිස් බල ප්‍රදේශයේ පුපුරැස්ස නුවරඑළිය ප්‍රධාන මාර්ගයේ ආයුර්වේද කෑල්ල ප්‍රදේශයේදී කළ වැටලීමකදී සැකකරු සහ ගිනි අවිය සොයාගෙන ඇත.
+The raid was carried out by the Gampola Police Special Task Force officials.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 32 හැවිරිදි වියේ පසුවූ දෙල්තොට ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The 12-bore firearm produced in a rehabilitation has been recovered and 5 live bullets.
 
-අත්අඩංගුවට ගත් සැකකරු සහ ගිනි අවිය වැඩිදුර විමර්ශන සඳහා ගලහ පොලිස් ස්ථානය වෙත භාරදී තිබේ.
+The suspect and firearm have been found in the Ayurvedic piece of the Ayurvedic piece of the Nuwara Eliya Nuwara Eliya main road area in the policebroad.
+
+The suspect is a 32-year-old resident of Delthota.
+
+The suspect and the firearm have been handed over to the police station for further investigations.
 
 ◼️
 
 [Data](articles/6aab8869.json)
+
+[Extended Data](ext_articles/6aab8869.ext.json)
 
 ---
 
@@ -2233,33 +2263,5 @@ At the same time, on the instructions of the Morawewa Police Officer Nagathana, 
 [Data](articles/7fd85636.json)
 
 [Extended Data](ext_articles/7fd85636.ext.json)
-
----
-
-### An argument is far-reaching life
-
-*2024-03-30 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195094) · `si`
-
-In Agbowerway, a 44-year-old woman was assaulted in a heated argument. Her neighbor, a woman and her husband, intervened, leading to the woman's husband being arrested for murder. The victims were taken to Kantale hospital.
-
-🟩
-
-At the year 84, the Agbowerway was assaulted at the 84th area yesterday (29).
-
-The victim was a 44 year old married woman in the area.
-
-Another victim in a house adjoining her home last night, a woman and her husband had scolded the woman and her husband and another cousin to stop it.
-
-After a heated argument was far-reaching, the drunken person has been attacked the woman and her husband.
-
-The injured were rushed to the Kantale hospital after being rushed to the police.
-
-Her husband is still receiving treatment at the hospital and has been arrested in connection with the murder.
-
-◼️
-
-[Data](articles/6b99bc94.json)
-
-[Extended Data](ext_articles/6b99bc94.ext.json)
 
 ---

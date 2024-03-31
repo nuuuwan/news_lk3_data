@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 07:19:48**
+As of **2024-03-31 07:41:59**
 
 ## Newspaper Stats
 
-*Scraped **16,093** Articles*
+*Scraped **16,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,43 @@ dbsjeyarajcom | 199
 newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 884
-islandlk | 887
+islandlk | 899
 adalk | 1,345
-tamilmirrorlk | 1,925
+tamilmirrorlk | 1,926
 adaderanalk | 1,943
 virakesarilk | 2,286
 dailymirrorlk | 2,484
-adaderanasinhalalk | 2,599
+adaderanasinhalalk | 2,600
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,092 (100.0%) of 16,093 articles have been extended.
+16,092 (99.9%) of 16,107 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### දේවස්ථාන අසල ආරක්ෂාව තරකෙරේ
+
+*2024-03-31 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195118) · `si`
+
+කතෝලික සහ අනෙකුත් ක්‍රිස්තියානි දේවස්ථානවලට පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරය එල්ල කර අදට වසර 05ක කාලයක් ගත වෙයි.
+
+2019 අප්‍රේල් 21 වන දින එල්ල වූ එම ප්‍රහාරයෙන් පුද්ගලයින් 273 දෙනෙකු ජීවිතක්ෂයට පත්වූ අතර තවත් පුද්ගලයින් 500කට අධික පිරිසක් තුවාල ලැබීය.
+
+මෙවර පාස්කු ඉරුදින දේව මෙහෙයන් පවත්වනු ලබන සියලුම දේවස්ථාන සඳහා විශේෂ පොලිස් ආරක්ෂාවක් යෙදවීමට පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා සියලු පොලිස් ස්ථාන වෙත උපදෙස් ලබා දී තිබේ.
+
+ඒ අනුව දිවයින පුරා කිතුණු දේවස්ථාන 1,873ක් ආවරණය වන පරිදි ආරක්ෂව සඳහා පොලිස් නිලධාරීන් 6,522ක් පොලිස් විශේෂ කාර්ය බළකා නිලධාරීන් 320ක් සහ ත්‍රිවිධ හමුදා නිලධාරීන් 2,746ක් යොදවා ඇති බව සඳහන්ය.
+
+මෙම දින කිහිපය පුරාවටම එම ආරක්ෂක වැඩපිළිවෙළ ක්‍රියාත්මක බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/4a2b6cea.json)
+
+---
 
 ### ලොව පුරා කිතුණු බැතිමතුන් පාස්කු දිනය සමරයි
 
@@ -97,6 +117,60 @@ The incident has sparked concerns and prompted authorities to delve deeper into 
 [Data](articles/57bf206e.json)
 
 [Extended Data](ext_articles/57bf206e.ext.json)
+
+---
+
+### Memories of WW II and two Easter Sundays
+
+*2024-03-31 03:08:00* · [`islandlk`](http://island.lk/memories-of-ww-ii-and-two-easter-sundays/) · `en`
+
+My brother boasted he announced to the household and immediate neighbourhood the stunning news on September 1, 1939, by placing a painted placard on the door of our play tent in Katukelle, Kandy, which read War is Declared. I did not know who was warring against whom; however pictures of Winston Churchill and Adolf Hitler were etched in my child’s mind. And then restrictions and change of mode of living were felt with; however, a sense of complete security with widowed Mother managing things well, assisted by Grandfather.
+
+...
+
+[Data](articles/dc8a1379.json)
+
+---
+
+### The story of a Lion
+
+*2024-03-31 03:07:00* · [`islandlk`](http://island.lk/the-story-of-a-lion/) · `en`
+
+SINHABAHU’S wife was his sister, Sinhaseevali. They were born in Vanga Rata ruled by a viceroy who was a vassal of the king of Lata Desa in the large land of Jambudivipa, now called India. Their eventful, sad departure out of their birthland, to found the far away kingdom of Sinhapura is the beginning of a long story. A story that flows on, across a narrow seaway of the Indian ocean, to a small island, named by the first storytellers as Tambarni, today Sri Lanka.
+
+...
+
+[Data](articles/bea4b558.json)
+
+---
+
+### Resurgence of Police Cadet Corps
+
+*2024-03-31 02:51:00* · [`islandlk`](http://island.lk/resurgence-of-police-cadet-corps/) · `en`
+
+The National Cadet Corps (NCC) is an organization sponsored by the Ministry of Defense, operating in schools and normally including Army, Navy, and Air Force sections. The Corp is open to secondary school students and its officers are government teachers and educational administrators who serve as instructors. The Cadets are given basic military training in small arms, parades and leadership training.
+
+The Mission of the National Cadet Corps is to train and inspire cadets using an effective training curriculum so that each cadet shall develop character, courage, sportsmanship, self-reliance, discipline, civil-mindedness, the spirit of adventure, responsibility, and comradeship to be a human resource of well-trained youth, capable of providing leadership in all aspects of life.
+
+...
+
+[Data](articles/cf984dd2.json)
+
+---
+
+### இன்று அதிவிசேட பாதுகாப்பு
+
+*2024-03-31 02:36:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அதிவிசேட-பாதுகாப்பு/175-335389) · `ta`
+
+நாடலாவிய ரீதியில் இன்று உயிர்த ஞாயிறு ஆராதனைகள் நடைபெறும் அனைத்து கிறிஸ்தவ தேவாலயங்களிலும் விசேட பாதுகாப்பு வேலைத்திட்டத்தை அமுல்படுத்த பொலிஸார் நடவடிக்கை எடுத்துள்ளனர்.
+
+இந்த பாதுகாப்பு ஏற்பாடுகள், இன்று பிற்பகல் ஆராதனை நிறைவடைந்து பக்தர்கள் அனைவரும் அவரவர் வீடுகளுக்கு செல்லும் வரை அமுல்படுத்தப்படும் என பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+
+இதேவேளை, நேற்று முன்தினம் பெரிய வெள்ளி ஆராதனை ஆரம்பமானதையடுத்து பாதுகாப்பு ஏற்பாடுகள் மேற்கொள்ளப்பட்ட நிலையில், இன்றும் பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/7116b7a9.json)
 
 ---
 
@@ -202,6 +276,50 @@ And the right to the general candidate or a separate candidate is the right to a
 
 ---
 
+### ‘Waiting for a call from Daddy’: Lankans die in Russia’s Ukraine war
+
+*2024-03-30 23:00:00* · [`islandlk`](http://island.lk/waiting-for-a-call-from-daddy-lankans-die-in-russias-ukraine-war/) · `en`
+
+At least two Sri Lankans have been killed fighting for Russia in Ukraine, and three on the Ukrainian side. But many more are willing to join the war amid desperate economic conditions at home.
+
+(Al Jazeera) Badly wounded from a Ukrainian attack on a Russian bunker in the Donetsk region, Sri Lankan fighter Senaka Bandara* tried to carry his fellow countryman, Nipuna Silva*, to safety.
+
+Senaka*, 36, was bleeding from his legs and hands. Nipuna’s condition was worse – he had sustained injuries to his chest, hands and legs, according to Senaka.
+
+As the two Sri Lankans retreated under fire, another wave of Ukrainian drones struck their bunker in the occupied Donetsk region where the two served with the Russian military.
+
+“While I was carrying [Nipuna], there was another huge drone attack at the last bunker and Nipuna fell to the ground,” Senaka said earlier this month while being treated for his injuries in a hospital in Donetsk in eastern Ukraine.
+
+...
+
+[Data](articles/bb3804fc.json)
+
+---
+
+### The story of rice and some controversial predictions from the developed world
+
+*2024-03-30 22:25:00* · [`islandlk`](http://island.lk/the-story-of-rice-and-some-controversial-predictions-from-the-developed-world/) · `en`
+
+Of the cultivated varieties of rice the commonest are Oryza Sativa and O-gaberrima the former being by far the more popular. Its organized cultivation is considered one of most significant developments in the history of mankind, so much so, that rice is synonymous with agriculture itself. It has been the staple food of the greater portion of the human race for a longer period of time than any other food crop.
+
+...
+
+[Data](articles/1df0b9b9.json)
+
+---
+
+### Mahatma Gandhi (1869-1948): The Greatest Indian since the Buddha
+
+*2024-03-30 22:25:00* · [`islandlk`](http://island.lk/mahatma-gandhi-1869-1948-the-greatest-indian-since-the-buddha/) · `en`
+
+Mohandas Karamchand Gandhi was born in a small harbour-town on the west coast of India, in Kathiawar, called Porbandar, on October 2, 1869. He belonged by birth to the Vaishya, or trading caste. His grandfather and father both held the post of Dewan, or Prime Minister, under the Rajah in the Porbandar State.
+
+...
+
+[Data](articles/66db5491.json)
+
+---
+
 ### Special Notice of Elections Commission
 
 *2024-03-30 22:19:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-ஆணைக்குழுவின்-விசேட-அறிவிப்பு/175-335372) · `ta`
@@ -292,6 +410,18 @@ Steps have been taken to increase the amount of gifts for the developmental lott
 
 ---
 
+### Russian Presidential Election results
+
+*2024-03-30 21:08:00* · [`islandlk`](http://island.lk/russian-presidential-election-results/) · `en`
+
+Russia is exultant about the outcome of the Presidential election. The poll was 77% of the electorate and Putin secured 87% of the votes cast; a landslide on both counts. The voting was not rigged; why upset the show when you have this kind of triumph to your credit? To what extent Russia is democratic is a separate matter that I will discuss later on. Russians are enjoying themselves mocking America and the West: “When has your President ever won 87% of the vote in a poll where 77% of the electorate participated?” Actually, never since 1904 has the turnout at a US election exceeded 66% and, in any case direct comparison in not possible because of the American “Electoral College System”.
+
+...
+
+[Data](articles/4b5d6636.json)
+
+---
+
 ### China-Sri Lanka Trade: MOU signed to align export standards
 
 *2024-03-30 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98314/china-sri-lanka-trade-mou-signed-to-align-export-standards) · `en`
@@ -347,6 +477,20 @@ Explaining Sri Lanka’s expansion of Colombo Port, and Hambantota Port, as well
 [Data](articles/196c1f7c.json)
 
 [Extended Data](ext_articles/196c1f7c.ext.json)
+
+---
+
+### A revolution in the ComBank annual report reading experience
+
+*2024-03-30 20:13:00* · [`islandlk`](http://island.lk/a-revolution-in-the-combank-annual-report-reading-experience-2/) · `en`
+
+March 5, 2024, will go down as a red-letter day for the world’s investor relations community. On this day, Commercial Bank of Ceylon PLC, headquartered in Sri Lanka, integrated an AI-powered Annual Report Assistant (AIPARA) to their Annual Report 2023. It is probably the first of its kind.
+
+This innovation addresses a perennial issue and makes reading annual reports a true joy. Gone will be the days when readers had to wade through pages to find information of interest and significance to them. Readers can now simply ask questions from AIPARA and obtain answers.
+
+...
+
+[Data](articles/67bbb1b9.json)
 
 ---
 
@@ -2093,201 +2237,5 @@ At the same time, the Deputy General Manager of the Department, NJ Indipola, sai
 [Data](articles/b956a8e5.json)
 
 [Extended Data](ext_articles/b956a8e5.ext.json)
-
----
-
-### Steps to limit importing Indian eggs
-
-*2024-03-30 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195087) · `si`
-
-To limit egg imports, Sri Lanka is releasing 4M imported eggs for the festive season, with the Chairman of the President Ajith Gunasekera suggesting selling frozen chicken at Rs. 1,000. The State Commerce Regional Corporation has taken steps to control egg imports from India.
-
-🟩
-
-The Sri Lanka Institute of Animal Producers Says the possibility of supplying chicken and eggs without any shortage of festive season.
-
-The Chairman of the President Ajith Gunasekera stated that the freezing chicken can be sold for Rs. 1,000.
-
-Meanwhile, the State Commerce Regional Corporation says that steps have been taken to limit the importation of eggs from India.
-
-Chairman of the President Asiri Walisundara said that nearly four million imported eggs will be released to the festive season.
-
-◼️
-
-[Data](articles/41868780.json)
-
-[Extended Data](ext_articles/41868780.ext.json)
-
----
-
-### Abolition of corporal punishment problematic in Sri Lanka: NCPA
-
-*2024-03-30 07:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Abolition-of-corporal-punishment-problematic-in-Sri-Lanka-NCPA/108-279870) · `en`
-
-Colombo, March 30 (Daily Mirror)- Abolition of corporal punishment in Sri Lanka is problematic because of the attitude of children, parents and the teachers, said the National Child Protection Authority (NCPA).
-
-NCPA Chairman Channaka Udaya Kumara Amarasinghe told Daily Mirror that the main issue in Sri Lanka is the attitude of children, parents and the teachers with regard to the implementation of the ban.
-
-...
-
-[Data](articles/d13371c0.json)
-
-[Extended Data](ext_articles/d13371c0.ext.json)
-
----
-
-### Train delay still on the coastal road still informed of passengers
-
-*2024-03-30 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195086) · `si`
-
-The Railway Department announced delays on the coastal road due to maintenance work on a pipeline between Wellawatte and Bambalapitiya stations, affecting 25 trains today and tomorrow. The Railways Association criticizes the lack of online reservation processes.
-
-🟩
-
-The Railway Department says that today (30) and tomorrow (31) will be a delay in the railway train.
-
-The department stated that this has led to one of the Wellawatte and Fort.
-
-This situation has arisen due to maintenance work on a pipeline between Wellawatte and Bambalapitiya railway stations.
-
-The Railway Department states that 25 trains will be canceled in the coastal road today.
-
-However, the train will be restored after the next Sunday night, the Department added.
-
-Meanwhile, the Railways Association alleges that the Transport Authorities have not taken measures to formulate the reservation process through online method.
-
-Chairman of the President Sumedha Somaratne said that his union proposals are to be submitted at the discussion on Monday.
-
-◼️
-
-[Data](articles/8f5ec820.json)
-
-[Extended Data](ext_articles/8f5ec820.ext.json)
-
----
-
-### US to support the self -determination of Eelam Tamils: UN reconciliation efforts in Sri Lanka have failed
-
-*2024-03-30 06:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/179996) · `ta`
-
-US Congress members criticize UN's reconciliation efforts in Sri Lanka, calling for support of Eelam Tamils' self-determination. They request the US to support the referendum on Eelam Tamils' rights, follow UN recommendations for war crimes inquiries, and promote independent judicial operations.
-
-🟩
-
-US Congress members have said that the UN's reality and reconciliation efforts in Sri Lanka have failed and appealed to the support of the self -determination of the US Eelam Tamils.
-
-In a letter to US Secretary of State Antony Blinken, US Congress members Donald G. Davis Vilenicles Jebjakshon Jebjakson Samarley Danny K. Davis Susan Willed Rajakrishnamurthy Jamalpoman Kapvaskwas made this request
-
-US Congress members have said that the UN's reality and reconciliation efforts in Sri Lanka have failed and appealed to the support of the self -determination of the US Eelam Tamils.
-
-In a letter to US Secretary of State Antony Blinken, US Congress members Donald G. Davis Vilenicles Jebjakshon Jebjakson Samarley Danny K. Davis Susan Willed Rajakrishnamurthy Jamalpoman Kapvaskwas made this request
-
-...
-
-[Data](articles/0f037068.json)
-
-[Extended Data](ext_articles/0f037068.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-03-30 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195085) · `si`
-
-Showers and thundershowers expected in Western, Southern, Sabaragamuwa, Central, North Central, Uva, and Northwestern provinces. Some areas in Galle, Sabaragamuwa, Uva, and Western provinces may be affected. Prepare for winds and landslides.
-
-🟩
-
-Western, Southern, Sabaragamuwa and Central provinces. Showers or thundershowers will occur at several places, about 2.00.
-
-In the North Central, Uva and Northwestern provinces. Showers and thundershowers will occur at 2.00.
-
-In some places in the Galle, Sabaragamuwa, Uva and Western provinces, are expected to be methaved in the Galle and Matara districts.
-
-The Department of Meteorology has informed the people to take steps to take necessary arbitrary winds and landslides with thunderstorms.
-
-◼️
-
-[Data](articles/ac2eeb14.json)
-
-[Extended Data](ext_articles/ac2eeb14.ext.json)
-
----
-
-### Karuna decides to back Ranil at Presidential Election
-
-*2024-03-30 06:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Karuna-decides-to-back-Ranil-at-Presidential-Election/108-279873) · `en`
-
-Colombo, March 30 (Daily Mirror) - The Tamil United Freedom Front, the political party led by one time LTTE commander turned politician Vinayagamurthi Muralitharan alias Karuna Amman, decided to support President Ranil Wickremesinghe if he contests the presidential election.
-
-Mr. Muralitharan who once served as the Deputy Minister of Rehabilitation in the Mahinda Rajapaksa government, supported Mr. Gotabaya Rajapaksa at the 2019 presidential election.
-
-“The President has turned around the economy.the rupee is appreciating against the US dollar.
-
-It is a clear sign of our economy getting back on track,” he told Daily Mirror. He said the Central Committee of his party met in Batticaloa yesterday and decided to support the President.
-
-...
-
-[Data](articles/a98b4d61.json)
-
-[Extended Data](ext_articles/a98b4d61.ext.json)
-
----
-
-### Shaping Tomorrow, panel discussion emphasises need for strong female influence
-
-*2024-03-30 05:03:00* · [`islandlk`](http://island.lk/shaping-tomorrow-panel-discussion-emphasises-need-for-strong-female-influence/) · `en`
-
-A diverse and esteemed panel came together to delve into a crucial conversation surrounding the significance of impactful female figures in shaping the aspirations and dreams of future generations. The panel discussion served as a platform highlighting the critical need for recognising and celebrating the remarkable achievements of prominent female personalities in the public sphere of Sri Lanka.
-
-...
-
-[Data](articles/730f4526.json)
-
-[Extended Data](ext_articles/730f4526.ext.json)
-
----
-
-### A Sri Lankan-Australian joint venture celebrates a decade of excellence in -Hospitality Education
-
-*2024-03-30 04:41:00* · [`islandlk`](http://island.lk/a-sri-lankan-australian-joint-venture-celebrates-a-decade-of-excellence-in-hospitality-education/) · `en`
-
-William Angliss Institute, Australia in partnership with the Colombo Academy of Hospitality Management (CAHM) is proud to celebrate a decade of excellence in tourism, hospitality and culinary education. As the largest private hospitality management institute in Sri Lanka, the Colombo Academy of Hospitality Management (CAHM)hosted at the Malabe campus of Sri Lanka Institute of Information Technology (SLIIT) has not only raised the bar for hospitality education but also serves as a testament to the enduring collaboration between Australia and Sri Lanka.
-
-...
-
-[Data](articles/393f57d0.json)
-
-[Extended Data](ext_articles/393f57d0.ext.json)
-
----
-
-### John Keells Properties launches Phase 2 of its latest real estate development, ‘Viman’ Ja-Ela
-
-*2024-03-30 04:41:00* · [`islandlk`](http://island.lk/john-keells-properties-launches-phase-2-of-its-latest-real-estate-development-viman-ja-ela/) · `en`
-
-John Keells Properties proudly announces the launch of Phase 2 of ‘Viman’ Ja-Ela. 90% of Phase 1 of this highly sought after project has been successfully sold to date. Comprising two blocks, the new Phase will feature 2 & 3 bedroomed apartments. Phase 2 provides a limited time opportunity for prospective homeowners as Phase 1 was almost sold out in less than six months since its launch on 19th September 2023. Prospective buyers interested in owning an apartment at Viman can now visit the model apartment in Colombo and have all their queries answered by a professional team.
-
-...
-
-[Data](articles/efe05772.json)
-
-[Extended Data](ext_articles/efe05772.ext.json)
-
----
-
-### Union Bank hosts engaging customer events celebrating International Women’s Day
-
-*2024-03-30 03:38:00* · [`islandlk`](http://island.lk/union-bank-hosts-engaging-customer-events-celebrating-international-womens-day/) · `en`
-
-In a series of events to mark the International Women’s Day, Union Bank hosted several networking events for the Bank’s customers including inspiring sessions on business success as well as wellness.
-
-A captivating discussion with Ms. Sandra Wanduragala, Founder Seyln Textiles, provided invaluable knowledge on navigating the path to business success and empowering women entrepreneurs to reach greater heights. Union Bank branches in Zone 3, welcomed women entrepreneurs to an engaging event in Matara with Ms. Deshani Gamage, Founder and Managing Director, of Apex Business Academy to an inspiring session on women in business.
-
-...
-
-[Data](articles/3dfa3d71.json)
-
-[Extended Data](ext_articles/3dfa3d71.ext.json)
 
 ---

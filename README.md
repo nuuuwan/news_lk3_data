@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 16:49:09**
+As of **2024-03-31 17:03:03**
 
 ## Newspaper Stats
 
-*Scraped **16,170** Articles*
+*Scraped **16,173** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 885
 islandlk | 900
-adalk | 1,355
+adalk | 1,357
 tamilmirrorlk | 1,934
 adaderanalk | 1,952
 virakesarilk | 2,294
 dailymirrorlk | 2,493
-adaderanasinhalalk | 2,615
+adaderanasinhalalk | 2,616
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,170 (100.0%) of 16,170 articles have been extended.
+16,170 (100.0%) of 16,173 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### සම්බාහන මධ්‍යස්ථානයක් තුළදී පුද්ගලයෙකු මරුට
+
+*2024-03-31 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195134) · `si`
+
+සම්බාහන මධ්‍යස්ථානයක් තුළදී පුද්ගලයෙකු ජීවිතක්ෂයට පත්ව ඇති බව පොලීසිය පවසයි.
+
+මෙලෙස මියගොස් ඇත්තේ මහරගම ප්‍රදේශයේ පදිංචි 53 හැවිරිදි වියේ පසුවූ පුද්ගලයෙකි.
+
+මරණය සම්බන්ධයෙන් සිදුකළ පරීක්ෂණවලදී අනාවරණය වී ඇත්තේ හෘදයාබාධයක් හේතුවෙන් ඔහු මියගොස් ඇති බවටය.
+
+මෙම මරණය සිදුව ඇත්තේ වැව පාර ප්‍රදේශයේ පිහිටි සම්බාහන මධ්‍යස්ථානයක් තුළදීය.
+
+◼️
+
+[Data](articles/69982d7f.json)
+
+---
+
+### කමිඳුට අහිමි වූ ශතකය
+
+*2024-03-31 16:17:19* · [`adalk`](https://www.ada.lk/sports/කමිඳුට-අහිමි-වූ-ශතකය/9-408860) · `si`
+
+අනෙක් අන්තයෙන් ක්‍රිඩා කළ සියලුම පිතිකරුවන් දැවී යාම හේතුවෙන් තවත් ශතකයක් ලබා ගැනීමට තිබූ අවස්ථාව ශ්‍රී ලංකා තුන් ඉරියව් ක්‍රීඩක කමිඳු මෙන්ඩිස්ට අද අහිමිව ගියේය.
+
+බංග්ලාදේශය සමගින් පැවැත්වෙන දෙවැනි ටෙස්ට් තරගයේ පළමු ඉනිම ක්‍රිඩා කළ ශ්‍රී ලංකා කණ්ඩායම සියලු දෙනා දැවී ලකුණු 531ක් රැස් කළ අතර එහිදී කමි﻿ඳු මෙන්ඩිස් නොදැවී ලකුනු 92ක් රැස්කරගෙන සිටියේය.
+
+ශ්‍රී ලංකාව වෙනුවෙන් මෙම තරගයේදී නිෂාන් මධුශංක 57, දිමුත් කරුණාරත්න 86, කුසල් මෙන්ඩිස් 96, දිනේෂ් චන්දිමාල් 59, ධනංජය ද සිල්වා 70 හා කමිඳු මෙන්ඩිස් 92 අර්ධ ශතක රැස්කිරීමට සමත්වූහ.
+
+◼️
+
+[Data](articles/03819994.json)
+
+---
 
 ### Man dies due to sudden illness at spa
 
@@ -89,6 +123,22 @@ Russia is exultant about the outcome of the Presidential election. The poll was 
 [Data](articles/4b5d6636.json)
 
 [Extended Data](ext_articles/4b5d6636.ext.json)
+
+---
+
+### පොලිස් රාජකාරියට බාධා කළ පොලීසියේ දෙදෙනෙක් අල්ලයි
+
+*2024-03-31 15:57:06* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-රාජකාරියට-බාධා-කළ-පොලීසියේ-දෙදෙනෙක්-අල්ලයි/11-408859) · `si`
+
+කොල්ලුපිටිය ප්‍රසිද්ධ සමාජ ශාලාවක් අසල සැක සහිත ලෙස රැඳී සිටියදී  පරීක්ෂා කිරීමට යාමේදී පොලිස් නිලධාරීන්ගේ රාජකාරියට බාධා කළ  පොලිස් නිලධාරීන් දෙදෙනෙකු අත්අඩංගුවට ගත් බව කොල්ලුපිටිය පොලිසිය කියයි.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ මිරිහාන  පොලිසියට අනුක්තව රාජකාරි කරනු ලබන ආධුනික පොලිස් කොස්තාපල්වරයෙක් සහ අපරාධ වාර්තා කොට්ඨාසයට අනුයුක්තව ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති රන්මල් කොඩි තුවක්කු මහතාගේ බත්තරමුල්ල පිහිටි කාර්යාලයේ රියදුරෙකු කටයුතු කරන පොලිස් කොස්තාපල් වරයෙකි.
+
+කොල්ලූපිටිය පොලිසියේ ප්‍රජා පොලිස් අංශයේ ස්ථානාධිපති ලෙස කටයුතු කරන උප පොලිස් පරීක්ෂකවරයෙකු තවත් නිලධාරියකු සමග සිවිල් ඇඳුමින් සැරසී පොලිස් හැඳුනුම්පත පෙන්වා එම ස්ථානයේ සැකසහිත ලෙස රැඳී සිටි පුද්ගලයින් දෙදෙනා පරීක්ෂා කිරීමට යාමේදී ඔවුන් දෙදෙනා පොලිස් නිලධාරීන් දෙදෙනා සමග බහින්බස් වී ඇතැයි පොලිසිය කියයි.
+
+...
+
+[Data](articles/283654b4.json)
 
 ---
 
@@ -2173,79 +2223,5 @@ Similarly, Mahinda Amaraweera has been removed from the post of Senior Vice Pres
 [Data](articles/90ee4ab9.json)
 
 [Extended Data](ext_articles/90ee4ab9.ext.json)
-
----
-
-### Sri Lanka and India discuss implementation of connectivity projects
-
-*2024-03-30 17:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-and-india-discuss-implementation-of-connectivity-projects-156616/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe’s Chief of Staff Sagala Ratnyaka, and Indian Foreign Indian Foreign Secretary Vinay Kwatra had dscussed discussed timely implementation of projects, during a visit to New Delhi, a statement said.
-
-Kwatra “emphasized that the current juncture presents an opportune moment for both countries to advance agreed-upon projects, attributing this progress to the strategic vision of President Ranil Wickremesinghe,” the statement said.
-
-Ratnayake had underscored “importance of enhancing economic integration with India through improved connectivity, reflecting on the historical ties that bind the two nations as the closest neighbour.”
-
-“During the discussions, both sides conducted a comprehensive review of all bilateral projects, focusing on their timely implementation,” the statement said.
-
-...
-
-[Data](articles/cf3eef42.json)
-
-[Extended Data](ext_articles/cf3eef42.ext.json)
-
----
-
-### Man arrested as hostage situation in Dutch nightclub ends
-
-*2024-03-30 17:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/98310/man-arrested-as-hostage-situation-in-dutch-nightclub-ends) · `en`
-
-A hostage situation at a nightclub in an eastern Dutch town has come to an end after a man was arrested.
-
-Four people had been taken hostage when he entered Café Petticoat, in Ede, early on Saturday morning threatening to blow himself up, local media said.
-
-Armed police evacuated the area, but said there was “no indication of a terrorist motive”.
-
-An initial group of three people were released, and the fourth emerged after some time.
-
-The hostages are all employees, the owner told de Telegraaf newspaper.
-
-Residents in about 150 homes around the area have been evacuated and the town centre has been closed down.
-
-Anti-explosives units and police in protective gear were pictured at the scene.
-
-Trains to and from Ede were cancelled, railway operator NS said on its website.
-
-◼️
-
-[Data](articles/77457956.json)
-
-[Extended Data](ext_articles/77457956.ext.json)
-
----
-
-### A patient dies after being given to a vaccine at Ragama Hospital
-
-*2024-03-30 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195110) · `si`
-
-A patient died at Ragama Hospital after receiving a vaccine, prompting a Health Ministry investigation. Dr. Sampath Ranaweera, the hospital director, confirmed an ongoing probe. The cause of death is under investigation, with no allergic reaction confirmed. The deceased was a 50-year-old admitted on the 22nd.
-
-🟩
-
-The Health Ministry has launched an investigation into the death of a patient after the race team has been injected after a vaccine.
-
-The Director of the Ragama Teaching Hospital Dr. Sampath Ranaweera said that a hospital level was an investigation into the incident.
-
-The patient was killed after the Amaxikalev.
-
-However, there is yet to be determined as a vaccine allergic reaction.
-
-The deceased has been identified as a 50 year old and he was admitted to the Ragama Teaching Hospital on the 22nd.
-
-◼️
-
-[Data](articles/bbb4dca3.json)
-
-[Extended Data](ext_articles/bbb4dca3.ext.json)
 
 ---

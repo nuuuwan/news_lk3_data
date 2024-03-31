@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 19:50:08**
+As of **2024-03-31 20:03:01**
 
 ## Newspaper Stats
 
-*Scraped **16,189** Articles*
+*Scraped **16,191** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 1,360
 tamilmirrorlk | 1,937
 adaderanalk | 1,954
 virakesarilk | 2,296
-dailymirrorlk | 2,494
-adaderanasinhalalk | 2,621
+dailymirrorlk | 2,495
+adaderanasinhalalk | 2,622
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,189 (100.0%) of 16,189 articles have been extended.
+16,189 (100.0%) of 16,191 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### මත්පැන් සාදයක් දැමූ පාසල් සිසු සිසුවියන් පිරිසක් අත්අඩංගුවට
+
+*2024-03-31 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195140) · `si`
+
+වැලිමඩ ප්‍රදේශයේ අත්හැරදමන ලද පාළු ගොඩනැගිල්ලක මත්පැන් සාදයක් පැවැත්වූ පාසල් සිසු සිසුවියන් පිරිසක් පොලීසිය සිය භාරයට ගෙන ඇත.
+
+එහිදී අදාළ පාළු ගොඩනැගිල්ලේ සාදයක් පවත්වමින් සිටි පාසල් සිසුන් පස්දෙනෙකු සහ පාසල් සිසුවියන් දෙදෙනෙකු මෙලෙස පොලිස් භාරයට ගෙන ඇත.
+
+පොලීසිය පවසන්නේ මෙම පාසල් සිසු සිසුවියන් එම අවස්ථාව වනවිටත් අධික මිල ගණන් යටතේ අලෙවි වන මත්පැන් පානය කරමින් සිට ඇති බවය.
+
+ඔවුන්ගෙන් සිදුකළ වැඩිදුර ප්‍රශ්න කිරීම්වලදී පවසා ඇත්තේ තමන් උපකාරක පන්ති වෙත පැමිණෙන බව සඳහන් කරමින් මෙම පාලු ගොඩනැගිල්ල වෙත පැමිණ මත්පැන් සාදයක් සංවිධානය කළ බවය.
+
+එම ගොඩනැගිල්ලේ ඉබි යතුරු කඩා මෙම පිරිස ඒ තුළට පිවිස ඇති බවට තොරතුරු අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/3650ea27.json)
+
+---
+
+### Will launch real ’Yukthiya’ operation under NPP government: Samantha Vidyaratne
+
+*2024-03-31 19:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-launch-real-Yukthiya-operation-under-NPP-government-Samantha-Vidyaratne/108-279894) · `en`
+
+Kegalle, March 31 (Daily Mirror)- Claiming that the 'Yukthiya' operation nets only the minor offenders, NPP politburo member Samantha Vidyaratne said the National People's Power (NPP) will launch the real 'Yukthiya' operation under its government.
+
+Speaking at the Kegalle District Women's Convention, he said drug smuggling is directly linked with politics.
+
+"Drug smuggling is interconnected with politics. The 'Yukthiya' operation only nets minor offenders. The real 'Yukthiya' operation has not been launched. We will launch the real 'Yukthiya' operation under an NPP government. All the drug dealers, fruadsters and criminals must keep that in mind," he said.
+
+He also said that the underworld culture is also nurtured by politicians for their own benefits.
+
+◼️
+
+[Data](articles/f7755f12.json)
+
+---
 
 ### Warning over high warm weather
 
@@ -142,7 +180,7 @@ He has told the police that she has filed a maintenance case against him.
 
 *2024-03-31 18:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-make-highest-Test-total-without-a-hundred/108-279893) · `en`
 
-March 31 (Wisdom) In the second Test of the two-match series against Bangladesh, Sri Lanka amassed 531, the highest ever Test match total without an individual hundred.
+March 31 (Wisden) In the second Test of the two-match series against Bangladesh, Sri Lanka amassed 531, the highest ever Test match total without an individual hundred.
 
 Sri Lanka won the first Test, at Sylhet, by 328 runs as Dhananjaya de Silva and Kamindu Mendis scored two hundreds. En route, they broke a plethora of records, including their first-innings score of 280, now the lowest all-out total to include a double-hundred stand: de Silva and Mendis added 202.
 
@@ -2259,49 +2297,5 @@ Mohandas Karamchand Gandhi was born in a small harbour-town on the west coast of
 [Data](articles/66db5491.json)
 
 [Extended Data](ext_articles/66db5491.ext.json)
-
----
-
-### Special Notice of Elections Commission
-
-*2024-03-30 22:19:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-ஆணைக்குழுவின்-விசேட-அறிவிப்பு/175-335372) · `ta`
-
-The Elections Commission's Director General Saman Sri Ratnayake announced the presidential election will be held in the second half of this year, with Rs 1,000 crore allocated. Some Sri Lanka PA parties have requested a general election instead.
-
-🟩
-
-The Elections Commission's Director General Saman Sri Ratnayake said that the presidential election will be held in the second half of this year and the basic provisions for the presidential election have been completed.
-
-He said that in the last budget, Rs 1,000 crore has been allocated for the presidential election and that more money can be obtained if needed.
-
-Although the president has announced the presidential election first, it is reported that some parties of the Sri Lanka PA, the main partner of the government, have asked the president to hold the general election.. Remble
-
-◼️
-
-[Data](articles/7bece5bb.json)
-
-[Extended Data](ext_articles/7bece5bb.ext.json)
-
----
-
-### The security of tomorrow is intensified
-
-*2024-03-30 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195115) · `si`
-
-Tomorrow, police will intensify security in Christian churches, a special program running from the GCE to Great Friday. Measures will be in place from afternoon until the end of the Minister's service.
-
-🟩
-
-Police have taken measures to implement a special security program in all Christians in all Christian churches tomorrow (31).
-
-The security measures will be implemented tomorrow afternoon until the end of the Minister's service.
-
-The security plan was operating since the inception of the GCE to the Great Friday of the GCE Oya Day yesterday.
-
-◼️
-
-[Data](articles/6d2a8e74.json)
-
-[Extended Data](ext_articles/6d2a8e74.ext.json)
 
 ---

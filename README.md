@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 13:18:05**
+As of **2024-03-31 13:33:54**
 
 ## Newspaper Stats
 
-*Scraped **16,144** Articles*
+*Scraped **16,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 885
 islandlk | 899
-adalk | 1,350
+adalk | 1,351
 tamilmirrorlk | 1,932
 adaderanalk | 1,950
 virakesarilk | 2,289
 dailymirrorlk | 2,489
-adaderanasinhalalk | 2,608
+adaderanasinhalalk | 2,609
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,142 (100.0%) of 16,144 articles have been extended.
+16,144 (100.0%) of 16,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### නුවරඑළියේ හෝටලයක ගින්නක්
+
+*2024-03-31 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195127) · `si`
+
+නුවරඑළිය නගර මධ්‍යයේ පිහිටි හෝටලයක අද දහවල් ගින්නක් හටගෙන තිබේ.
+
+නුවරඑළිය මහ නගරසභාවේ ගිනි නිවීමේ ඒකකය සහ ප්‍රදේශවාසීන් එක්ව කඩිනමින් ගින්න මැඩපැවැත්වීමට කටයුතු කර ඇත.
+
+ගෑස් කාන්දුවක් හේතුවෙන් හෝටලයේ මුළුතැන්ගෙය තුළ ගින්න හටගෙන ඇති බවට පොලීසිය සැකපළ කරයි.
+
+ගින්නෙන් කිසිවෙකුටත් හානියක් සිදුව නොමැති අතර දේපොළ හානි සිදුව ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/3e6dd47f.json)
+
+---
 
 ### Devram Vehera Medin maha perahera
 
@@ -41,6 +59,8 @@ Medin Maha Perahera of the Pannipitiya Devram Vehera was held last night for the
 ◼️
 
 [Data](articles/d6804def.json)
+
+[Extended Data](ext_articles/d6804def.ext.json)
 
 ---
 
@@ -162,23 +182,29 @@ The suspect and the firearm have been handed over to the police station for furt
 
 ---
 
-### வைத்தியசாலையில் தடுப்பூசி ஏற்றப்பட்டவர் மரணம்
+### Death of vaccine in hospital
 
 *2024-03-31 11:39:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலையில்-தடுப்பூசி-ஏற்றப்பட்டவர்-மரணம்/175-335396) · `ta`
 
-றாகம போதனா வைத்தியசாலையில் 50 வயதுடைய நோயாளி ஒருவர் தடுப்பூசியைப் பெற்றுக்கொண்ட சிறிது நேரத்திலேயே பரிதாபமாக உயிரிழந்ததைத் தொடர்ந்து சுகாதார அமைச்சு விசாரணைகளை ஆரம்பித்துள்ளது.
+A 50-year-old patient died at Ragama Teaching Hospital after receiving the Antibiotic 'Co-amoxiclao' vaccine. The Health Ministry is investigating. The cause of death is unknown, but allergies to the vaccine are not ruled out.
 
-காது தொடர்பான மருத்துவத்திற்காக மருத்துவமனையில் அனுமதிக்கப்பட்டிருந்த நோயாளி, பற்றீரியா தொற்றுகளை எதிர்த்துப் போராட பொதுவாகப் பயன்படுத்தப்படும் அன்டிபயோடிக் 'கோ-அமோக்ஸிக்லாவ்' தடுப்பூசியை செலுத்திய பின்னர் காலமானார்.
+🟩
 
-சம்பவம் தொடர்பான சூழ்நிலைகளை அறிந்து கொள்வதற்காக மருத்துவமனை மட்டத்தில் முழுமையான உள்ளக விசாரணையும் நடைபெற்று வருவதாக மருத்துவமனையின் பணிப்பாளர் வைத்தியர் சம்பத் ரணவீர உறுதிப்படுத்தினார்.
+The Health Ministry has begun investigations following a tragic death of a 50 -year -old patient at the Ragama Teaching Hospital shortly after receiving a vaccine.
 
-இறப்புக்கான காரணம் நிச்சயமற்றதாக இருந்தாலும், தடுப்பூசிக்கு ஒவ்வாமை ஏற்படுவதற்கான சாத்தியக்கூறுகளை அதிகாரிகள் நிராகரிக்கவில்லை.
+The patient, who was hospitalized for ear-related medicine, passed away after the Antibiotic 'Co-amoxiclao' vaccine, which is commonly used to fight Patteria infections.
 
-இந்த சம்பவம் கவனத்தை ஈர்த்துள்ளதுடன் நோயாளியின் மரணத்திற்கு வழிவகுக்கும் நிகழ்வுகளை ஆழமாக ஆராய அதிகாரிகளைத் தூண்டியுள்ளது.
+Dr. Sampath Ranweera, Director of the Hospital, confirmed that a full internal investigation is underway at the hospital level to learn about the incident.
+
+Although the cause of death is uncertain, authorities have not rejected the possibility of allergies to the vaccine.
+
+The incident has attracted attention and prompted the authorities to deeply investigate the events that lead to the death of the patient.
 
 ◼️
 
 [Data](articles/549c5b3c.json)
+
+[Extended Data](ext_articles/549c5b3c.ext.json)
 
 ---
 
@@ -293,6 +319,22 @@ Dr. Bellana expressed concern over the lack of attention to the hospital's healt
 [Data](articles/e8487019.json)
 
 [Extended Data](ext_articles/e8487019.ext.json)
+
+---
+
+### සිංගප්පූරුවෙන් ආනයනික භාණ්ඩ වල බදු අඩු කෙරේ
+
+*2024-03-31 11:14:12* · [`adalk`](https://www.ada.lk/breaking_news/සිංගප්පූරුවෙන්-ආනයනික-භාණ්ඩ-වල-බදු-අඩු-කෙරේ/11-408854) · `si`
+
+මාර්තු මස 29 වන දින සිට ක්‍රියාත්මක වන පරිදි ‍ශ්‍රී ලංකා - සිංගප්පූරු නිදහස් වෙළෙඳ ගිවිසුම යටතේ ආනයනය කරනු ලබන භාණ්ඩ රැසක වරාය සහ ගුවන්තොටුපොළ සංවර්ධන බද්ද හෙවත් "පැල්"  සියයට 10ක් වූ  බද්ද සියයට 6 දක්වා අඩු කිරීමට පියවර ගෙන ඇති බව මුදල් අමාත්‍යංශය සඳහන් කළේය.
+
+ඒ අනුව‍  ආනයනය කරනු ලබන සිමෙන්ති, ඇපල් ඇතුළු පලතුරු වර්ග කිහිපයක්, සහ ළදරු කිරි ආහාර  පාසල් උපකරණ, ලිපි ද්‍රව්‍ය, රෙදිපිළි සඳහා වන අමුද්‍රව්‍ය, වාහන අමතර කොටස්, යතුරුපැදි සහ පාපැදි අමතර කොටස් සඳහා ද වරාය සහ ගුවන්තොටුපොළ සංවර්ධන බද්ද ද සියයට 10 සිට සියයට 6 දක්වා අඩුකර ඇති බව වාර්තා වෙයි.
+
+මීට අමතරව  ප්ලාස්ටික්, ඇලුමිනියම් සහ ලී භාණ්ඩ, ඖෂධ වර්ග, ශල්‍ය උපකරණ, විද්‍යුත් උපකරණ, නාන කාමර උපකරණ,  සඳහා අයකරනු ලබන බදු ද සංශෝධනය කිරීමටද පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/8668e022.json)
 
 ---
 
@@ -2175,57 +2217,5 @@ Against this backdrop, a new alliance led by the SLFP will be formed in the near
 [Data](articles/978a7a26.json)
 
 [Extended Data](ext_articles/978a7a26.ext.json)
-
----
-
-### Save a young girl to raise Mahaweli River
-
-*2024-03-30 12:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195095) · `si`
-
-Youths save girl from suicide attempt near Mahaweli River. Girl jumped from Kandyangentota Bridge. Found unconscious, taken to Mahiyangana Base Hospital. Parents notified. Girl has mental illness.
-
-🟩
-
-A group of youths were able to save a girl who attempted to commit suicide by jumping into the river.
-
-The girl had attempted to escape the river by the Kandyangentota Bridge along the Mahaweli River around 7.00 pm yesterday (29) at Mahaweli River.
-
-When a group of young people who were nearing the ruling and the bridge was ready to catch her, the girl had jumped at once.
-
-The youths were later brought back from the river and was admitted to the Mahiyangana Base Hospital for treatment.
-
-At that time she had tried to get the welfare of the Mahiyangana Police and the Hasalaka Police belonging to the Mahiyangana Police and the Hasalaka Police belonging to the Mahiyangana Police and the Hasalaka Police.
-
-Therefore, a three-wheeler on the road was taken to the hospital for treatment.
-
-The sinful and her cell phone was found on the bridge.
-
-Accordingly, the police intervened and made calls on the number on the telephone and had informed her parents in this regard.
-
-...
-
-[Data](articles/9d186ace.json)
-
-[Extended Data](ext_articles/9d186ace.ext.json)
-
----
-
-### Amaraweera, Lasantha, Duminda removed from SLFP positions
-
-*2024-03-30 12:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Amaraweera-Lasantha-Duminda-removed-from-SLFP-positions/108-279880) · `en`
-
-Colombo, March 30 (Daily Mirror)- Ministers Mahinda Amaraweera, Lasantha Alagiyawanna and Duminda Dissanayake were stripped of their positions in the Sri Lanka Freedom Party (SLFP) today.
-
-Dissanayake was the national organizer of the party while Minister Amaraweera held the post of senior Vice President.
-
-The decision was taken at a special meeting convened by party leader Maithripala Sirisena.
-
-The party appointed K.P. Gunawardena as National organiser, Hector Bethmage as Treasurer and Sarath Ekanayake as Senior Vice President.
-
-◼️
-
-[Data](articles/86a0de9b.json)
-
-[Extended Data](ext_articles/86a0de9b.ext.json)
 
 ---

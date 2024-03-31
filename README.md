@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 03:33:28**
+As of **2024-04-01 03:51:06**
 
 ## Newspaper Stats
 
-*Scraped **16,238** Articles*
+*Scraped **16,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 147
 bbccomsinhala | 170
 dbsjeyarajcom | 201
 newsfirstlk | 363
-dailyftlk | 869
+dailyftlk | 873
 economynextcom | 888
 islandlk | 900
 adalk | 1,363
@@ -26,11 +26,71 @@ adaderanasinhalalk | 2,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,238 (100.0%) of 16,238 articles have been extended.
+16,238 (100.0%) of 16,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### Dhaka Chamber of Commerce and Industry discusses economic cooperation with High Commission of Sri Lanka
+
+*2024-04-01 03:34:16* · [`dailyftlk`](https://www.ft.lk/business/Dhaka-Chamber-of-Commerce-and-Industry-discusses-economic-cooperation-with-High-Commission-of-Sri-Lanka/34-760161) · `en`
+
+High Commissioner of Sri Lanka to Bangladesh Dharmapala Weerakkody accompanied by Counsellor/Commerce of the High Commission Srimali Jayarathne held a productive meeting with the newly appointed President of the Dhaka Chamber of Commerce and Industry (DCCI) Ashraf Ahmed on 24 March at the DCCI office in Dhaka.
+
+During the meeting, DCCI President Ashraf Ahmed appreciated the close bilateral economic cooperation between the two countries and emphasised the importance of further expanding mutually beneficial partnership in the bilateral trade and investment sectors particularly in the areas of healthcare and hospitality. The DCCI President further highlighted the investment opportunities available for Sri Lanka in Bangladesh in the field of deep-sea fishing. The DCCI also pledged its continuous support to arrange B2Bs, seminars, and organise other related activities in order to promote bilateral economic relations between the two countries.
+
+...
+
+[Data](articles/39b62372.json)
+
+---
+
+### PRISL holds strategic workshop on future of tyre and rubber products industry
+
+*2024-04-01 03:33:45* · [`dailyftlk`](https://www.ft.lk/business/PRISL-holds-strategic-workshop-on-future-of-tyre-and-rubber-products-industry/34-760160) · `en`
+
+The Plastics and Rubber Institute of Sri Lanka (PRISL) held a highly successful high level strategic workshop titled “Navigating the Future: Sustainability, Innovation and Compliance, in the Tyre and Rubber Products Industry” on 15 and 16 March at the BMICH, Colombo.
+
+The chief resource person was the Indian Rubber Institute Chairman Dr. R. Mukhopadhyay while the local support was provided by Dr. Upul Ratnayaka and Devaki Rodrigo of Dipped Products Ltd., a leading latex glove manufacturer, and Colombo Rubber Traders Association (CRTA) Chairman Manoj Udugampola. The Inauguration ceremony, was graced by some senior officials from the Sri Lanka Export Development Board, and the Ministry of Industries as well Polymer Advisory Council  Chairman and PRISL Past President Kaushal Rajapaksa and  Sri Lanka Association of Manufacturers and Exporters of Rubber Products (SLAMERP) Chairman Pushpika Janadheera, and Director General Dr. Sisira Ranathunga.
+
+...
+
+[Data](articles/609df672.json)
+
+---
+
+### Lawyers trained in mediation advocacy
+
+*2024-04-01 03:31:30* · [`dailyftlk`](https://www.ft.lk/business/Lawyers-trained-in-mediation-advocacy/34-760159) · `en`
+
+A training for lawyers on “Mediation Advocacy” was organised by the International ADR Center (IADRC) on 26 and 27 March.
+
+Resource persons from the Singapore International Mediation Center (SIMC) provided the training for 24 lawyers drawn from among chambers of private practitioners, from leading law firms, corporates and the Attorney General’s department.
+
+Globally, mediation is fast becoming a preferred method of dispute resolution because of the several benefits it offers. It is expeditious (usually completed in a single day or a few months), cost effective, has the potential to find resolutions to satisfy the interests of disputants and to restore fractured relationships. Mediation is used for the resolution of all categories of disputes ranging from Investor-State, Intellectual Property, Family, Trade and Business to Construction and Creditor-Debtor disputes.
+
+...
+
+[Data](articles/09aeeef2.json)
+
+---
+
+### Dr. Pethiyagoda to speak on ‘Cashing in on Climate’ at BALPP 6th Eminence Lecture
+
+*2024-04-01 03:30:18* · [`dailyftlk`](https://www.ft.lk/business/Dr-Pethiyagoda-to-speak-on-Cashing-in-on-Climate-at-BALPP-6th-Eminence-Lecture/34-760158) · `en`
+
+The 6th Eminence Lecture hosted by the Bandaranaike Academy for Leadership and Public Policy (BALLP) on 9 April at 4.30 p.m. at the BMICH is by renowned environmentalist Dr. Rohan Pethiyagoda.
+
+Dr. Pethiyagoda, whose expertise in conservation biology and natural history has garnered international acclaim. Pethiyagoda, the recipient of the Linnean Medal in 2022, which is considered the “Nobel Prize for naturalists”, brings a wealth of knowledge and experience to this discussion on the intersection of climate change and evidence-based policy making.
+
+Dr. Pethiyagoda argues for calm, in the face of climate emergency rhetoric. He advocates that Sri Lanka should study the science and calmly evaluate policy options, putting reality ahead of rhetoric.
+
+...
+
+[Data](articles/1e940b9a.json)
+
+---
 
 ### CBSL salary hike: Is it the Governor who is responsible?
 
@@ -2279,99 +2339,5 @@ According to the document obtained by Tamil Nadu's Bharatiya Janata Party (BJP) 
 [Data](articles/6ee3ed42.json)
 
 [Extended Data](ext_articles/6ee3ed42.ext.json)
-
----
-
-### Suspect trapped with a firearm in the flow
-
-*2024-03-31 11:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195125) · `si`
-
-A 32-year-old from Delthota was arrested with a firearm and bullets in Nuwara Eliya. The Gampola Police Special Task Force recovered the items during a raid.
-
-🟩
-
-A man was arrested on suspicion with a firearm in a special raid in parallel to justice.
-
-The raid was carried out by the Gampola Police Special Task Force officials.
-
-The 12-bore firearm produced in a rehabilitation has been recovered and 5 live bullets.
-
-The suspect and firearm have been found in the Ayurvedic piece of the Ayurvedic piece of the Nuwara Eliya Nuwara Eliya main road area in the policebroad.
-
-The suspect is a 32-year-old resident of Delthota.
-
-The suspect and the firearm have been handed over to the police station for further investigations.
-
-◼️
-
-[Data](articles/6aab8869.json)
-
-[Extended Data](ext_articles/6aab8869.ext.json)
-
----
-
-### Easter Sunday celebrated in a clam athomosphere
-
-*2024-03-31 11:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Easter-Sunday-celebrated-in-a-clam-athomosphere/110-279888) · `en`
-
-The Easter Sunday service was held at St. Anthony's Church Kochchikade in a calm atmosphere but under tight security. The church witnessed carnage five years ago when a suicide bomber blew himself up killing scores of people. Pix by Kushan Pathiraja
-
-◼️
-
-[Data](articles/a24fe030.json)
-
-[Extended Data](ext_articles/a24fe030.ext.json)
-
----
-
-### Death of vaccine in hospital
-
-*2024-03-31 11:39:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலையில்-தடுப்பூசி-ஏற்றப்பட்டவர்-மரணம்/175-335396) · `ta`
-
-A 50-year-old patient died at Ragama Teaching Hospital after receiving the Antibiotic 'Co-amoxiclao' vaccine. The Health Ministry is investigating. The cause of death is unknown, but allergies to the vaccine are not ruled out.
-
-🟩
-
-The Health Ministry has begun investigations following a tragic death of a 50 -year -old patient at the Ragama Teaching Hospital shortly after receiving a vaccine.
-
-The patient, who was hospitalized for ear-related medicine, passed away after the Antibiotic 'Co-amoxiclao' vaccine, which is commonly used to fight Patteria infections.
-
-Dr. Sampath Ranweera, Director of the Hospital, confirmed that a full internal investigation is underway at the hospital level to learn about the incident.
-
-Although the cause of death is uncertain, authorities have not rejected the possibility of allergies to the vaccine.
-
-The incident has attracted attention and prompted the authorities to deeply investigate the events that lead to the death of the patient.
-
-◼️
-
-[Data](articles/549c5b3c.json)
-
-[Extended Data](ext_articles/549c5b3c.ext.json)
-
----
-
-### Death of the vaccine in the hospital
-
-*2024-03-31 11:39:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலையில்-தடுப்பூசி-ஏற்றியவர்-மரணம்/175-335396) · `ta`
-
-A 50-year-old patient died at Ragama Teaching Hospital after receiving a vaccine. The Health Ministry is investigating. The cause of death is unknown, but allergies to the vaccine are not ruled out.
-
-🟩
-
-The Health Ministry has begun investigations following a tragic death of a 50 -year -old patient at the Ragama Teaching Hospital shortly after receiving a vaccine.
-
-The patient, who was hospitalized for ear-related medicine, passed away after the Antibiotic 'Co-amoxiclao' vaccine used to fight bacteria.
-
-Dr. Sampath Ranweera, Director of the Hospital, confirmed that a full internal investigation is underway at the hospital level to learn about the incident.
-
-Although the cause of death is uncertain, authorities have not rejected the possibility of allergies to the vaccine.
-
-The incident has attracted attention and prompted the authorities to deeply investigate the events that lead to the death of the patient.
-
-◼️
-
-[Data](articles/ef67ee19.json)
-
-[Extended Data](ext_articles/ef67ee19.ext.json)
 
 ---

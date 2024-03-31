@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 04:49:55**
+As of **2024-04-01 05:03:59**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 2,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,250 (100.0%) of 16,251 articles have been extended.
+16,251 (100.0%) of 16,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### விபத்தில் ஆசிரியை பலி
+### Teacher killed in accident
 
 *2024-04-01 04:17:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-ஆசிரியை-பலி/175-335429) · `ta`
 
-கார் ஒன்று வீதியை விட்டு விலகி மரத்துடன் மோதி விபத்துக்குள்ளானதில் ஒருவர் பலியாகியுள்ளார். மேலும் மூவர் படுகாயமடைந்துள்ளனர்.
+A teacher from Matara's popular school died in a car crash on Nonagama Road, Embilipitiya, yesterday.
 
-இந்தக் கோர விபத்து எம்பிலிப்பிட்டிய, நோநாகம வீதியில் பெமினியன்வில பகுதியில் நேற்று இடம்பெற்றுள்ளது.
+🟩
 
-மாத்தறை பிரதேசத்தில் உள்ள பிரபல பாடசாலை ஒன்றில் உயர்தர வர்த்தகப் பிரிவுக்குப் பொறுப்பான ஆசிரியையே விபத்தில் உயிரிழந்துள்ளார்.
+One person was killed when a car crashed into a tree with a tree. The three have been injured.
+
+The accident took place yesterday at the Nonagama Road, Nonagama Road, Embilipitiya.
+
+A teacher in charge of a high -quality business unit in a popular school in Matara has died in an accident.
 
 ◼️
 
 [Data](articles/67d181c7.json)
+
+[Extended Data](ext_articles/67d181c7.ext.json)
 
 ---
 

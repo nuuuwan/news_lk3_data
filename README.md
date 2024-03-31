@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 01:33:44**
+As of **2024-04-01 01:52:09**
 
 ## Newspaper Stats
 
-*Scraped **16,227** Articles*
+*Scraped **16,229** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 145
+colombotelegraphcom | 147
 bbccomsinhala | 170
 dbsjeyarajcom | 201
 newsfirstlk | 363
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,227 (100.0%) of 16,227 articles have been extended.
+16,227 (100.0%) of 16,229 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -811,6 +811,32 @@ Expressing his stance regarding the relevant claims, Harsha de Silva stated that
 [Data](articles/25f6fb68.json)
 
 [Extended Data](ext_articles/25f6fb68.ext.json)
+
+---
+
+### Colombo University Business Economic Summit 2024: Keynote Address
+
+*2024-03-31 19:52:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/colombo-university-business-economic-summit-2024-keynote-address/) · `en`
+
+President Ranil Wickremesinghe addressing Parliament in August 2022 pronounced that the target of his Government was to make Sri Lanka a fully developed country by 2048. The choice of the target year had some sentimental reason. It is that Sri Lanka will celebrate the centenary of independence from Britain in 2048.
+
+Since Sri Lanka was a promising rich country in South Asia by the time it gained independence in 1948 prompting some analysts to brand it as Switzerland of Asia, it is ironical to target for prosperity after 100 years of independence. However, without any apparent connection, two weeks before Sri Lanka made this pronouncement, India’s Premier Narendra Modi too announced that India’s goal would be to make it a developed country by 2047 when it would celebrate centenary of independence from Britain. It seems that Sri Lanka is closely following the development path of its neighbour to the North.
+
+...
+
+[Data](articles/0ab064d6.json)
+
+---
+
+### Rise Of Ultranationalism & Elections, Tamil Nationalism & Resurrection Of LTTE Ideology In Sri Lanka
+
+*2024-03-31 19:41:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rise-of-ultranationalism-elections-tamil-nationalism-resurrection-of-ltte-ideology-in-sri-lanka/) · `en`
+
+The Tamil Nationalism propagated in the north of Sri Lanka will significantly influence the Sinhalese Buddhist Nationalism in the south. Four factors will propel Sinhalese Buddhist ultra-nationalism to impact elections. There is a high possibility of an ‘India-Out’ campaign in Sri Lanka, just like in Maldives.
+
+...
+
+[Data](articles/3480f452.json)
 
 ---
 
@@ -2361,49 +2387,5 @@ President's Counsel Raceek Shahjk Shahjuk and W. General Secretary of the Genera
 [Data](articles/dd358b21.json)
 
 [Extended Data](ext_articles/dd358b21.ext.json)
-
----
-
-### President calls for unity and guarding against divisive agendas in Easter message
-
-*2024-03-31 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98318/president-calls-for-unity-and-guarding-against-divisive-agendas-in-easter-message-) · `en`
-
-In his Easter message, President Ranil Wickremesinghe has called on everyone to join hands as Sri Lankans dedicating to the country’s security, peace and development while guarding against divisive agendas.
-
-He stated that in the face of unprecedented economic challenges, the nation has demonstrated resilience.
-
-Furthermore, the Head of the State, who also reminded of the tragic events of the past perpetrated by extremists, assured the government’s steadfast commitment to upholding the rule of law and ensuring national security, preventing such tragedies from recurring.
-
-“As Christians worldwide rejoice in the resurrection of Jesus Christ, we reflect on the profound significance of this event. Easter is preceded by a time of fasting and religious observance during the Lent season, symbolizing the journey of Jesus’ suffering, death and resurrection.
-
-...
-
-[Data](articles/ebbf5d5a.json)
-
-[Extended Data](ext_articles/ebbf5d5a.ext.json)
-
----
-
-### Woman dies after a crocodile attack
-
-*2024-03-31 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195122) · `si`
-
-A 66-year-old woman died after being attacked by a crocodile in Kalkutan, Kankuthi, Meegalawa Police, while visiting Ele in the evening. Residents rescued her from the crocodile, but she passed away upon arrival at Thambuththegama hospital.
-
-🟩
-
-Kalkutan, Kankuthi in Meegalawa Police, has been thrown into a crocodile.
-
-The accident had occurred when the woman went to the Ele in the evening yesterday (29), police said.
-
-Residents of the area have rescued the woman from the Crocothy and has died on admission to the Thambuththegama hospital.
-
-The deceased is a 66 year old woman who was living in the Uzgalazambuwa area in Weligaswewa.
-
-◼️
-
-[Data](articles/c6a23b83.json)
-
-[Extended Data](ext_articles/c6a23b83.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 20:33:29**
+As of **2024-03-31 20:50:24**
 
 ## Newspaper Stats
 
-*Scraped **16,192** Articles*
+*Scraped **16,196** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,60 @@ newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 885
 islandlk | 900
-adalk | 1,360
+adalk | 1,361
 tamilmirrorlk | 1,937
-adaderanalk | 1,954
+adaderanalk | 1,956
 virakesarilk | 2,296
 dailymirrorlk | 2,495
-adaderanasinhalalk | 2,623
+adaderanasinhalalk | 2,624
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,192 (100.0%) of 16,192 articles have been extended.
+16,192 (100.0%) of 16,196 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### මෛත්‍රී, ඉන්දියාව මහමොළකරු කරලා - හර්ෂ
+
+*2024-03-31 20:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195143) · `si`
+
+හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතා පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරයට ඉන්දියාව ඈඳාගනිමින් මතභේදාත්මක ප්‍රකාශයක් ලබාදී ඇතැයි සමගි ජන බලවේග පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා පුවත්පත් වාර්තාවක් උපුටා දක්වමින් අද අනාවරණ කළේය.
+
+මන්ත්‍රීවරයා පෙන්වා දෙන්නේ හිටපු ජනපතිවරයාගේ මේ ප්‍රකාශයෙන් රාජ්‍යතාන්ත්‍රික අර්බුදයක් පවා නිර්මාණය වීමට ඉඩ ඇති බවය.
+
+පාස්කු ප්‍රහාරය සිදුකළේ කවුරුන්දැයි තමා දන්නා බවට හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතා සිදුකළ ප්‍රකාශයෙන් පසුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඒ මහතාගෙන් පැය පහක ප්‍රකාශයක් සටහන් ගත්තේය.
+
+ඒ පිළිබඳව අද ඉංග්‍රීසි 'ජාතික පුවත්පතක' පළවූ වාර්තාවක් උපුටා දක්වමින් පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මෙලෙස සිය ස්ථාවරය ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/5a377281.json)
+
+---
+
+### Four of family from Sri Lanka illegally enter India
+
+*2024-03-31 20:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98328/four-of-family-from-sri-lanka-illegally-enter-india) · `en`
+
+Four people from Sri Lanka arrived near Dhanushkodi in Ramanathapuram district on Friday night, owing to the economic crisis in the island nation, Indian media reported.
+
+According to sources, the four identified as R Murugananthan,45, his wife Rita Mary, 46, and their two children from Mannar district paid money and boarded an illegal ferry from Sri Lanka at around 9.30pm and were dropped off on one of the sand dunes at Arichalmunai at around 10.30pm on Friday.
+
+Indian Coast Guard personnel brought the family to Mandapam in a hovercraft and handed them over to the Mandapam marine police.
+
+During inquiry, officials found out that the family had fled their country due to the economic crisis. Subsequently, they were sent to the Mandapam rehabilitation camp.
+
+With this the total number of Sri Lankan nationals arriving at Rameswaram has touched 298.
+
+◼️
+
+[Data](articles/9a8d9bc0.json)
+
+---
 
 ### 72-year-old body body of the house at the roof
 
@@ -57,6 +95,24 @@ The Pinwatta Police have launched an investigation into the incident.
 [Data](articles/8b37aee7.json)
 
 [Extended Data](ext_articles/8b37aee7.ext.json)
+
+---
+
+### Ex-President Maithripala’s controversial statement sparks diplomatic crisis?
+
+*2024-03-31 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98327/ex-president-maithripalas-controversial-statement-sparks-diplomatic-crisis-) · `en`
+
+Samagi Jana Balavegaya (SJB) Parliamentarian Dr. Harsha de Silva alleges that former President Maithripala Sirisena has provided a controversial statement linking India to the Easter Sunday terror attacks, which will likely cause a critical diplomatic crisis.
+
+Quoting a report published on a national newspaper, de Silva stressed that the ex-president has claimed that India was behind the Easter Sunday massacres and that an Indian diplomat whom he named has not only confessed to him about the attack but also the reason.
+
+The reason was said to be because Sri Lanka has not consider handing over India any projects, according to the lawmaker.
+
+Expressing his stance regarding the relevant claims, Harsha de Silva stated that this is an extremely irresponsible statement.
+
+...
+
+[Data](articles/25f6fb68.json)
 
 ---
 
@@ -407,6 +463,24 @@ Kusal Mendis scored 93 runs and Dinesh Chandimal scored 59 runs and Dinesh Chand
 [Data](articles/cecb064a.json)
 
 [Extended Data](ext_articles/cecb064a.ext.json)
+
+---
+
+### ප්‍රා ලේ කාර්යාලවල මාණ්ඩලික නිලධාරීන්ට දීමනාවක්
+
+*2024-03-31 17:12:47* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රා-ලේ-කාර්යාලවල-මාණ්ඩලික-නිලධාරීන්ට-දීමනාවක්/11-408865) · `si`
+
+ප්‍රාදේශීය ලේකම් කාර්යාලවලට අනුයුක්ත මාණ්ඩලික නිලධාරීන් සඳහා විශේෂ මාසික දිරි දීමනාවක් ලබාදීමට රජය තීරණය කර තිබේ.
+
+ඒ අනුව ප්‍රාදේශීය ලේකම්වරයෙකුට රුපියල් 15,000ක දීමනාවක් ලබාදීමට නියමිත අතර සහකාර ප්‍රාදේශීය ලේකම්, සහකාර අධ්‍යක්ෂ හා ගණකාධිකාරී යන තනතුරු සඳහා රුපියල් 10,000 බැගින් මාසික දීමනාවක් හිමිවනු ඇත.
+
+මාර්තු මාසයේ සිට දෙසැම්බර් මාසය දක්වා මාස 10 ක කාලසීමාවක් සඳහා එම දිරිදීමනාව ලබාදීමට නියමිත බව වාර්තා වෙයි.
+
+ඊට අදාළ චක්‍රලේඛය රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යංශ ලේකම්වරයා විසින් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/bbde3a1c.json)
 
 ---
 
@@ -2239,85 +2313,5 @@ Egypt has already floated the pound and sharply increased the main interest rate
 [Data](articles/f9d86cf8.json)
 
 [Extended Data](ext_articles/f9d86cf8.ext.json)
-
----
-
-### General candidate from Tamil Nadu in the presidential election?
-
-*2024-03-30 23:41:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஜனாதிபதி-தேர்தலில்-தமிழர்-தரப்பிலிருந்து-பொது-வேட்பாளர்/71-335385) · `ta`
-
-MA Sumanthiran demands early dissolution of parliament for presidential election, citing law. TNA yet to decide on a common candidate, emphasizing election announcement first. UNP's Ravi Karunanayake supports Ranil Wickremesinghe, while National People's Power seeks support.
-
-🟩
-
-The people are currently in the country in the country. Therefore, it is necessary to hold the presidential election according to the law.
-
-MA Sumanthiran has also demanded that the existing people's unimaginable parliament be dissolved soon and the election should be held.
-
-MA Sumanthiran said this during a media briefing held in Jaffna today. He added that ..
-
-The president says one thing to do. Therefore, the president, who did not even hold the elections, would no longer be able to hold the presidential and general election immediately.
-
-When questioned about the presidential candidate in the presidential election, a common candidate was spoken of
-
-He replied that the TNA has not yet discussed this and that when the election is announced, it will take a decision.
-
-And the right to the general candidate or a separate candidate is the right to anyone. Anyone can contest the election. No one has the right to say that no one should compete.
-
-...
-
-[Data](articles/0e3d7b97.json)
-
-[Extended Data](ext_articles/0e3d7b97.ext.json)
-
----
-
-### ‘Waiting for a call from Daddy’: Lankans die in Russia’s Ukraine war
-
-*2024-03-30 23:00:00* · [`islandlk`](http://island.lk/waiting-for-a-call-from-daddy-lankans-die-in-russias-ukraine-war/) · `en`
-
-At least two Sri Lankans have been killed fighting for Russia in Ukraine, and three on the Ukrainian side. But many more are willing to join the war amid desperate economic conditions at home.
-
-(Al Jazeera) Badly wounded from a Ukrainian attack on a Russian bunker in the Donetsk region, Sri Lankan fighter Senaka Bandara* tried to carry his fellow countryman, Nipuna Silva*, to safety.
-
-Senaka*, 36, was bleeding from his legs and hands. Nipuna’s condition was worse – he had sustained injuries to his chest, hands and legs, according to Senaka.
-
-As the two Sri Lankans retreated under fire, another wave of Ukrainian drones struck their bunker in the occupied Donetsk region where the two served with the Russian military.
-
-“While I was carrying [Nipuna], there was another huge drone attack at the last bunker and Nipuna fell to the ground,” Senaka said earlier this month while being treated for his injuries in a hospital in Donetsk in eastern Ukraine.
-
-...
-
-[Data](articles/bb3804fc.json)
-
-[Extended Data](ext_articles/bb3804fc.ext.json)
-
----
-
-### Hoteliering
-
-*2024-03-30 22:39:00* · [`islandlk`](http://island.lk/hoteliering/) · `en`
-
-G.E.B. Milhuissen, who owned a thriving timber firm named Cetrac, in Peliyagoda had been a friend and business associate of Jeramius, a client purchasing large quantities for his projects. Geoffrey Bawa, still in the early stages of the architectural career that would make him world-famous, had been another. Together, Milhuissen and Bawa had built the Blue Lagoon Hotel, in Talahena, Negombo in 1965 – the first modern resort hotel to be built in Sri Lanka. Kept reliably filled with guests by a Scandinavian charter-tour operator, Vingresor, the Blue Lagoon had turned out to be a very profitable investment. By 1971 Milhuissen was keen on expanding.
-
-...
-
-[Data](articles/7f1fc8b4.json)
-
-[Extended Data](ext_articles/7f1fc8b4.ext.json)
-
----
-
-### The story of rice and some controversial predictions from the developed world
-
-*2024-03-30 22:25:00* · [`islandlk`](http://island.lk/the-story-of-rice-and-some-controversial-predictions-from-the-developed-world/) · `en`
-
-Of the cultivated varieties of rice the commonest are Oryza Sativa and O-gaberrima the former being by far the more popular. Its organized cultivation is considered one of most significant developments in the history of mankind, so much so, that rice is synonymous with agriculture itself. It has been the staple food of the greater portion of the human race for a longer period of time than any other food crop.
-
-...
-
-[Data](articles/1df0b9b9.json)
-
-[Extended Data](ext_articles/1df0b9b9.ext.json)
 
 ---

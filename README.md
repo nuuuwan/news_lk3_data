@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 09:33:34**
+As of **2024-03-31 09:52:39**
 
 ## Newspaper Stats
 
-*Scraped **16,113** Articles*
+*Scraped **16,117** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 884
 islandlk | 899
-adalk | 1,345
+adalk | 1,347
 tamilmirrorlk | 1,928
 adaderanalk | 1,943
-virakesarilk | 2,286
+virakesarilk | 2,287
 dailymirrorlk | 2,486
-adaderanasinhalalk | 2,602
+adaderanasinhalalk | 2,603
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,112 (100.0%) of 16,113 articles have been extended.
+16,113 (100.0%) of 16,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### உலக சந்தையில் எரிபொருள் விலை உயர்வு!
+
+*2024-03-31 09:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180042) · `ta`
+
+அதன்படி, பிரண்ட் கச்சா எண்ணெய் பீப்பாய்  ஒன்றின் விலை 87 டொலராக காணப்படுகிறது.
+
+அமெரிக்க W.T.I   கச்சா எண்ணெய் பீப்பா ஒன்றின் விலை 83.17 டொலராகும். இது 2.24 சதவீதம் அதிகமாகும்.
+
+◼️
+
+[Data](articles/24cbe2cf.json)
+
+---
+
+### සිංගප්පූරුවෙන් ගෙන්වන භාණ්ඩ රැසක බදු අඩු කෙරේ
+
+*2024-03-31 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195121) · `si`
+
+‍ශ්‍රී ලංකා - සිංගප්පූරු නිදහස් වෙළෙඳ ගිවිසුම යටතේ ආනයනය කරනු ලබන භාණ්ඩ රැසක වරාය සහ ගුවන්තොටුපොළ සංවර්ධන බද්ද හෙවත් "පැල්" අඩු කිරීමට රජය පියවර ගෙන තිබේ.
+
+මාර්තු මස 29 වන දින සිට ක්‍රියාත්මක වන පරිදි සියයට 10ක් වූ පැල් බද්ද සියයට 6 දක්වා අඩු කිරීමට පියවර ගෙන ඇති බව මුදල් අමාත්‍යංශය සඳහන් කළේය.
+
+ඒ අනුව‍ ශ්‍රී ලංකා - සිංගප්පූරු නිදහස් වෙළෙඳ ගිවිසුම යටතේ ආනයනය කරනු ලබන සිමෙන්ති, ඇපල් ඇතුළු පලතුරු වර්ග කිහිපයක්, සහ ළදරු කිරි ආහාර සඳහා අයකළ අදාළ බද්ද සියයට 6 දක්වා අඩු කර තිබේ.
+
+ඊට අමතරව පාසල් උපකරණ, ලිපි ද්‍රව්‍ය, රෙදිපිළි සඳහා වන අමුද්‍රව්‍ය, වාහන අමතර කොටස්, යතුරුපැදි සහ පාපැදි අමතර කොටස් සඳහා ද වරාය සහ ගුවන්තොටුපොළ සංවර්ධන බද්ද ද සියයට 10 සිට සියයට 6 දක්වා අඩුකර ඇති බව වාර්තා වෙයි.
+
+ඖෂධ වර්ග, ශල්‍ය උපකරණ, විද්‍යුත් උපකරණ, නාන කාමර උපකරණ, පොලිතින් හා ප්ලාස්ටික්, ඇලුමිනියම් සහ ලී භාණ්ඩ සඳහා අයකරනු ලබන බදු ද සංශෝධනය කිරීමට පියවර ගෙන තිබේ.
+
+2377-39 March 28, 2024 - English Order Under Section 03 of PAL by poornima on Scribd
+
+◼️
+
+[Data](articles/532b750b.json)
+
+---
 
 ### Security tightened near churches
 
@@ -43,6 +79,26 @@ A total of 6,522 police officers, 320 Police Special Task Force officers, and 2,
 ◼️
 
 [Data](articles/18820420.json)
+
+[Extended Data](ext_articles/18820420.ext.json)
+
+---
+
+### මහින්දට, දුමින්දට හා ලසන්තට SLFP ධුර අහිමිවෙයි
+
+*2024-03-31 08:59:29* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දට--දුමින්දට-හා-ලසන්තට-SLFP-ධුර-අහිමිවෙයි/11-408850) · `si`
+
+අමාත්‍ය මහින්ද අමරවීර, රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න සහ පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක යන මහත්වරු ශ්‍රී ලංකා නිදහස් පක්ෂයේ (ශ්‍රීලනිප) දැරූ ධුර වලින් ඉවත් කිරීමට කටයුතු කර තිබේ.
+
+දුමින්ද දිසානායක පක්‍ෂයේ ජාතික සංවිධායකවරයා වූ අතර අමරවීර ඇමැතිවරයා ජ්‍යෙෂ්ඨ උප සභාපති ධුරය දැරීය. ලසන්ත අලගියවන්න මහතා පක්ෂයේ භාණ්ඩාගාරික ලෙස කටයුතු කළේය.
+
+පක්ෂ නායක මෛත්‍රීපාල සිරිසේන මහතා විසින් කැදවා තිබූ විශේෂ රැස්වීමකදී මෙම තීරණය ගෙන ඇත.
+
+කේ.පී. ගුණවර්ධන මහතා ජාතික සංවිධායක ලෙසත්, භාණ්ඩාගාරික ලෙස හෙක්ටර් බෙත්මගේ මහතාත් , ජ්‍යෙෂ්ඨ උප සභාපති ලෙස සරත් ඒකනායක මහතාත් පත්කර තිබේ.
+
+◼️
+
+[Data](articles/c9f4452b.json)
 
 ---
 
@@ -581,6 +637,22 @@ Russia is exultant about the outcome of the Presidential election. The poll was 
 [Data](articles/4b5d6636.json)
 
 [Extended Data](ext_articles/4b5d6636.ext.json)
+
+---
+
+### ලංකාව පළමු දිනයේදී ඉදිරියෙන්
+
+*2024-03-30 21:02:13* · [`adalk`](https://www.ada.lk/sports/ලංකාව-පළමු-දිනයේදී-ඉදිරියෙන්/9-408847) · `si`
+
+බංග්ලාදේශ කණ්ඩායම හා ශ්‍රී ලංකා කණ්ඩායම අතර පැවැත්වෙන දෙවැනි ටෙස්ට් තරගයේ පළමු දිනයට තරගය නිමා කරන විට ශ්‍රී ලංකා කණ්ඩායම කඩුලු 4ට ලකුණු 314ක් රැස් කරමින් ප්‍රභල ස්ථානයක සිටියි.
+
+ශ්‍රී ලංකා ඉනිමේ ආරම්භක පිතිකරුවන් තිදෙනාම අර්ධ ශතක රැස්කිරිමට සමත්වීම මෙහිදී කැපී පෙනෙන සාධකයක් විය. සීමිත පන්දුවාර නායක කුසල් මෙන්ඩිස් ශතකය අභිමුව දැවි ගියේය.
+
+නිශාන් මධුශංක 57, දිමුත් කරුණාරත්න 86, කුසල් මෙන්ඩිස් 93ක් ශ්‍රි ලංකාව වෙනුවෙන් අර්ධ ශතක රැසකළ අතර දිනේෂ් චන්දිමාල් 34* ධනංජයද සිල්වා 15* නොදැවී පිටියේ රැදී සිටියහ. ඇන්ජලෝ මැතිව්ස් ලකුණු 23කට දැවී ගියේය. බංග්ලාදේශය වෙනුවෙන් හසන් මහමුඩ් කඩුල් දෙකක් දවා ගැනීමට සමත්විය.
+
+◼️
+
+[Data](articles/5b6702cc.json)
 
 ---
 
@@ -2169,99 +2241,5 @@ The cost of $ 60 million has been allocated from federal emergency funds to reco
 [Data](articles/18505193.json)
 
 [Extended Data](ext_articles/18505193.ext.json)
-
----
-
-### Sri Lanka - Amnesty International Request
-
-*2024-03-30 08:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/179999) · `ta`
-
-Amnesty International calls for immediate accountability in Sri Lanka for over 60,000-100,000 missing persons, highlighting a history of human rights abuses and state-sponsored terrorism. Despite government efforts, disappearances continue, with new forms of abduction targeting activists and minorities.
-
-🟩
-
-In the case of Sri Lanka, the Amnesty International has urged the immediate position of accountability for the disappearance of the disappearance and that it is necessary to ensure that such incidents have not happened again.
-
-In the data report published by the Amnesty International, titled 'Transcendental Transcendants in the South Asian region'
-
-History of Sri Lanka's stained and disappearance shows that human rights are strongly ignored. Sri Lanka, which has reported about 60,000 - 100,000 missing incidents, is the second list of countries where the world's largest number of missing incidents.
-
-The Sri Lankan government has been using it for decades of extremism and has been used to make a weapon for the use of state terrorism under the guise of ensuring national security.
-
-...
-
-[Data](articles/19e5a851.json)
-
-[Extended Data](ext_articles/19e5a851.ext.json)
-
----
-
-### Actor Daniel Balaji has passed away;Eyes were donated
-
-*2024-03-30 08:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/179998) · `ta`
-
-Daniel Balaji, a renowned South Indian actor, passed away suddenly from a heart attack. Known for his villainous roles in Tamil cinema, his performances in films like Kakka, Vettayadu, and Palladhavan were highly praised. Despite efforts to save him, he was declared dead at the hospital. His eyes were donated, and his body will be cremated this evening.
-
-🟩
-
-South Indian famous villain Daniel Balaji has died of a heart attack and his eyes have been donated.
-
-Daniel Balaji is a unique place in Tamil cinema with his unique performance. He made his debut in Siri and later made a great performance in many films.
-
-Many people are still praising his performance in films including Kakka, Vettayadu, Palladhavan and Vadasenai.. In addition, he has acted in several films including Bhairava and North Chennai.
-
-Daniel Balaji, who was the leading actor in Tamil cinema, had a sudden chest pain last night. He was immediately taken to a private hospital in Kotivakkam for treatment.
-
-There the doctors took serious efforts to save his life. However, he has passed away without treatment. He is 48 years old. This sudden death of Daniel Balaji has caused tragedy among the filmmakers. Many have expressed their condolences on social media that Daniel Balaji's sudden demise could not be accepted.
-
-...
-
-[Data](articles/4e366a24.json)
-
-[Extended Data](ext_articles/4e366a24.ext.json)
-
----
-
-### Akkaraipattu - Colombo bus accident
-
-*2024-03-30 08:39:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அக்கரைப்பற்று-கொழும்பு-பஸ்-விபத்து-பலர்-காயம்/175-335360) · `ta`
-
-A bus from Colombo to Akkaraipattu crashed in Batticaloa, injuring many and damaging trade centers. The driver's sleep is suspected as a cause.
-
-🟩
-
-The bus carrying passengers from Colombo to Akkaraipattu crashed in the early hours of this morning (30)
-
-The crash and many people were injured and some trade centers were severely damaged.
-
-The incident took place in the Arayambathi 4th area of the Kattankudy police division in Batticaloa.
-
-The luxury bus traveling from Colombo to Kalmunai has lost a lot of nearby trade centers after losing a speeding area in the 4th morning.
-
-During the accident, many people, including the driver, were taken to Kattankudi and Arayambathi hospitals for further treatment.. The public claims that the driver's sleep was the cause of the accident.
-
-◼️
-
-[Data](articles/89b962a4.json)
-
-[Extended Data](ext_articles/89b962a4.ext.json)
-
----
-
-### Singaporean authority accuses Colombo Port of inaction in X-Press Pearl disaster
-
-*2024-03-30 08:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Singaporean-authority-accuses-Colombo-Port-of-inaction-in-X-Press-Pearl-disaster/108-279872) · `en`
-
-Colombo, March 30 (Daily Mirror)- A Singaporean authority has made a serious accusation against Colombo Port over the X- Press Pearl disaster saying that to assist was deemed limited and there was no follow-up after a team of firemen had assessed the situation onboard XP.
-
-The report which has been released to the public domain has been compiled by the Transport Safety Investigation Bureau (TSIB) which is the air, marine and rail accidents and incidents investigation authority in Singapore. It says the tugs sent for firefighting had various limitations which did not offer continuous firefighting support.
-
-“The Master did not receive answer from Colombo Port Control on the several requests made for urgent berthing before the fire went out of control,” the report says.
-
-...
-
-[Data](articles/bb618790.json)
-
-[Extended Data](ext_articles/bb618790.ext.json)
 
 ---

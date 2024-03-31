@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 17:33:52**
+As of **2024-03-31 17:53:37**
 
 ## Newspaper Stats
 
-*Scraped **16,174** Articles*
+*Scraped **16,175** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 900
 adalk | 1,357
 tamilmirrorlk | 1,934
 adaderanalk | 1,953
-virakesarilk | 2,294
+virakesarilk | 2,295
 dailymirrorlk | 2,493
 adaderanasinhalalk | 2,616
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,616
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,174 (100.0%) of 16,174 articles have been extended.
+16,174 (100.0%) of 16,175 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### கொள்ளுப்பிட்டியில் பொலிஸாரின் கடமைக்கு இடையூறு விளைவித்த இரு பொலிஸார் கைது!
+
+*2024-03-31 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180076) · `ta`
+
+கொள்ளுப்பிட்டியில் உள்ள பிரபல விடுதி ஒன்றுக்கு அருகில் சோதனை நடவடிக்கையில் ஈடுபட்டிருந்த பொலிஸாரின் கடமைக்கு இடையூறு விளைவித்த குற்றச்சாட்டில் இரு  பொலிஸார் கைது செய்யப்பட்டுள்ளனர்.
+
+மிரிஹான பொலிஸில் கடமையாற்றும் பொலிஸ் கான்ஸ்டபில் ஒருவரும் சிரேஷ்ட  பிரதிப் பொலிஸ் மா அதிபரின் பத்தரமுல்லை அலுவலகத்தில் கடமையாற்றும் கான்ஸ்டபிளான பொலிஸார் சாரதி ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+கொள்ளுப்பிடி பொலிஸ் நிலையத்தின்  சமூக பிரிவின் பொறுப்பதிகாரியும்  மற்றுமொரு பொலிஸ் அதிகாரி ஒருவருமே இவ்வாறு சோதனை மேற்கொண்ட போது சந்தேக நபர்களால் இடையூறுக்கு உட்படுத்தப்பட்டுள்ளதாக தெரிய வந்துள்ளது.
+
+இதன்போது இவர்களுக்கு இடையில் வாக்கு வாதம் ஏற்பட்டதையடுத்து கான்ஸ்டபில் இருவரும் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/eec9e895.json)
+
+---
 
 ### Fuel prices likely to reduce tonight?
 
@@ -2209,35 +2227,5 @@ However, it was not immediately clear whether the cause of death was an allergic
 [Data](articles/6bb531f3.json)
 
 [Extended Data](ext_articles/6bb531f3.ext.json)
-
----
-
-### The Election Commission is preparing for the election
-
-*2024-03-30 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195111) · `si`
-
-The Election Commission is preparing for the presidential election, with preliminary arrangements made and steps taken to inform Assistant Election Commissioners. The Commission is also purchasing goods. The President has asked for a general election in the Sri Lanka General Assembly party. MP Patali Champika Ranawaka warns of problems if the election is held in June.
-
-🟩
-
-The Elections Commission states that the preliminary arrangements have been prepared for the presidential election.
-
-The presidential election is scheduled to be constituent in the afternoon of this year and is responding to Ada Derana that the Commission is prepared to be prepared for this purpose.
-
-He said that a sum of Rs.
-
-Steps have also been taken to inform all Assistant Election Commissioners regarding the activities of the election.
-
-The Commission states that the Commission is already acting in the process of purchasing goods.
-
-Meanwhile, it is reported that the President has asked the President to hold a general election in the Sri Lanka General Assembly party, the Presidential election.
-
-Addressing a gathering in Galle, MP Patali Champika Ranawaka said that if a correspondence was held in June, there would be problems.
-
-◼️
-
-[Data](articles/881dbdb0.json)
-
-[Extended Data](ext_articles/881dbdb0.ext.json)
 
 ---

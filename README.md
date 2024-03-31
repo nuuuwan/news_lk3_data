@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 21:52:25**
+As of **2024-03-31 22:04:23**
 
 ## Newspaper Stats
 
-*Scraped **16,205** Articles*
+*Scraped **16,209** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,84 @@ newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 885
 islandlk | 900
-adalk | 1,362
+adalk | 1,363
 tamilmirrorlk | 1,937
-adaderanalk | 1,956
-virakesarilk | 2,301
+adaderanalk | 1,957
+virakesarilk | 2,302
 dailymirrorlk | 2,495
-adaderanasinhalalk | 2,626
+adaderanasinhalalk | 2,627
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,204 (100.0%) of 16,205 articles have been extended.
+16,205 (100.0%) of 16,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### எரிபொருள் விலையில் திருத்தம் !
+
+*2024-03-31 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180090) · `ta`
+
+எரிபொருள் விலையில் 31 ஆம் திகதி ஞாயிற்றுக்கிழமை நள்ளிரவு 12 மணி முதல் திருத்தம் மேற்கொள்ளப்பட்டுள்ளது.
+
+இந்த விலை திருத்தத்தின் படி எரிபொருட்களின் விலைகள் குறைக்கப்பட்டுள்ளது என மின்சக்தி மற்றும் எரிசக்தி அமைச்சு தெரிவித்துள்ளது.
+
+இதற்கமைய, ஒக்டேன் 95 ரக பெற்றோல் லீற்றர் ஒன்றின் விலை 7 ரூபாவினால் குறைக்கப்பட்டு புதிய விலை 440 ரூபாவாக அறிவிக்கப்பட்டது.
+
+சுப்பர் டீசல் லீற்றர் ஒன்றின் விலை 72 ரூபாவினால் குறைக்கப்பட்டு, 386 ரூபாவாக விற்பனை செய்யப்படவுள்ளது.
+
+அத்துடன், மண்ணெண்ணெய் லீற்றர் ஒன்றின் விலை 12 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன் 245 ரூபாவுக்கு விற்பனை செய்யப்படவுள்ளது.
+
+அத்துடன், ஒக்டேன் 92 ரக பெற்றோலின் விலை மற்றும் ஒட்டோ டீசலின் விலையில் மாற்றம் இல்லை எனவும் அறிவிக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/e3ee6a19.json)
+
+---
+
+### ඉන්ධන මිලේ සිදුවූ වෙනස
+
+*2024-03-31 21:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195146) · `si`
+
+ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව විසින් අද (31) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ඉන්ධන මිල සංශෝධනය කර තිබේ.
+
+ඒ අනුව 95 ඔක්ටේන් වර්ගයේ පෙට්‍රල් ලීටරයක මිල රුපියල් 07කින් පහත දැමීට තීරණය කර තිබේ.
+
+එසේම ලංකා සුපිරි ඩීසල් ලීටරයක මිල රුපියල් 72කින් පහළ දමා ඇති අතර එහි නව මිල රුපියල් 386කි.
+
+භූමිතෙල් මිල ලීටරයක රුපියල් 12කින් අඩු වී ඇති අතර එහි නව මිල වන්නේ රුපියල් 245කි.
+
+කෙසේ වෙතත් 92 ඔක්ටේන් වර්ගයේ පෙට්‍රල් වල සහ ඔටෝ ඩීසල් වල මිලෙහි වෙනස් සිදු වී නොමැත.
+
+එම මිල ගණන් සංශෝධනය අනුව ලංකා IOC ඉන්ධන මිල ගණන්ද සංශෝධනය කරනු ඇත.
+
+◼️
+
+[Data](articles/ec6e7754.json)
+
+---
+
+### Fuel prices reduced
+
+*2024-03-31 21:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98330/fuel-prices-reduced) · `en`
+
+The Ceylon Petroleum Corporation (Ceypetco) announced that fuel prices will be revised with effect from midnight today (March 31).
+
+Accordingly, the price of Petrol 95 Octane has been reduced by Rs. 07 to Rs. 440 per litre while Super Diesel has been reduced by Rs. 72 to Rs. 386 per litre.
+
+Meanwhile the price of Kerosene has been reduced by Rs. 12 to Rs. 245 per litre.
+
+However, the prices of Petrol 92 Octane and Auto Diesel will remain unchanged, the CPC said.
+
+◼️
+
+[Data](articles/7128e535.json)
+
+---
 
 ### New report from Wilpattu filled with Tigers
 
@@ -662,6 +724,22 @@ Police said that the two had been arrested after the voting argument between the
 
 ---
 
+### මාස තුනට සංචාරකයන් ලක්ෂ 6ක් ඇවිත්
+
+*2024-03-31 17:30:01* · [`adalk`](https://www.ada.lk/breaking_news/මාස-තුනට-සංචාරකයන්-ලක්ෂ-6ක්-ඇවිත්/11-408867) · `si`
+
+2024 වසරේ මේ දක්වා ශ්‍රී ලංකාවට පැමිණ ඇති සමස්ත සංචාරකයින් සංඛ්‍යාව 608,475 ක් දක්වා ඉහළ ගොස් ඇතැයි සංචාරක සංවර්ධන අධිකාරිය පවසයි.
+
+එසේම මාර්තු 01 සිට 27 දක්වා කාලය තුළ දී විදෙස් සංචාරකයින් 181,872 ක් ශ්‍රී ලංකාවට පැමිණ තිබේ.
+
+සමස්තයක් ලෙස  2024 ජනවාරි 01 සිට මාර්තු 27 දක්වා කාලසීමාව තුළ මෙරටට පැමිණ ඇති ඉන්දීය සංචාරකයින් සංඛ්‍යාව 92,644 ක් සහ අතර රුසියානු සංචාරකයින් ප්‍රමාණය 88,301 ක් ලෙසින් වාර්තා වී ඇත.
+
+◼️
+
+[Data](articles/26c039d6.json)
+
+---
+
 ### Will the fuel prices fall today?
 
 *2024-03-31 17:25:16* · [`adalk`](https://www.ada.lk/breaking_news/අද-ඉන්ධන-මිල-අඩුවෙයිද-/11-408866) · `si`
@@ -1017,6 +1095,8 @@ Recent news report i.e sentencing of Ven. Galagoda Aththe Gnanasara Thera, Gener
 ...
 
 [Data](articles/3e12be1c.json)
+
+[Extended Data](ext_articles/3e12be1c.ext.json)
 
 ---
 
@@ -2285,71 +2365,5 @@ The incident has sparked concerns and prompted authorities to delve deeper into 
 [Data](articles/57bf206e.json)
 
 [Extended Data](ext_articles/57bf206e.ext.json)
-
----
-
-### Health Ministry probes fatal incident at Ragama Hospital
-
-*2024-03-31 03:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Health-Ministry-probes-fatal-incident-at-Ragama-Hospital/155-279883) · `en`
-
-Colombo, March 30 (Daily Mirror) - The Ministry of Health has launched an investigation following the tragic death of a 50-year-old patient at Ragama Teaching Hospital shortly after receiving a vaccine.
-
-The patient, who had been admitted to the hospital for an ear-related medical condition, passed away after reportedly being administered the 'co-amoxiclav' vaccine, an antibiotic typically used to combat bacterial infections.
-
-Dr. Sampath Ranaweera, the hospital's director, confirmed that a thorough internal investigation is also underway at the hospital level to ascertain the circumstances surrounding the incident.
-
-While the cause of death remains uncertain, officials have not ruled out the possibility of an allergic reaction to the vaccine.
-
-The incident has sparked concerns and prompted authorities to delve deeper into the events leading up to the patient's demise.
-
-◼️
-
-[Data](articles/a4a6f59f.json)
-
-[Extended Data](ext_articles/a4a6f59f.ext.json)
-
----
-
-### Memories of WW II and two Easter Sundays
-
-*2024-03-31 03:08:00* · [`islandlk`](http://island.lk/memories-of-ww-ii-and-two-easter-sundays/) · `en`
-
-My brother boasted he announced to the household and immediate neighbourhood the stunning news on September 1, 1939, by placing a painted placard on the door of our play tent in Katukelle, Kandy, which read War is Declared. I did not know who was warring against whom; however pictures of Winston Churchill and Adolf Hitler were etched in my child’s mind. And then restrictions and change of mode of living were felt with; however, a sense of complete security with widowed Mother managing things well, assisted by Grandfather.
-
-...
-
-[Data](articles/dc8a1379.json)
-
-[Extended Data](ext_articles/dc8a1379.ext.json)
-
----
-
-### The story of a Lion
-
-*2024-03-31 03:07:00* · [`islandlk`](http://island.lk/the-story-of-a-lion/) · `en`
-
-SINHABAHU’S wife was his sister, Sinhaseevali. They were born in Vanga Rata ruled by a viceroy who was a vassal of the king of Lata Desa in the large land of Jambudivipa, now called India. Their eventful, sad departure out of their birthland, to found the far away kingdom of Sinhapura is the beginning of a long story. A story that flows on, across a narrow seaway of the Indian ocean, to a small island, named by the first storytellers as Tambarni, today Sri Lanka.
-
-...
-
-[Data](articles/bea4b558.json)
-
-[Extended Data](ext_articles/bea4b558.ext.json)
-
----
-
-### Resurgence of Police Cadet Corps
-
-*2024-03-31 02:51:00* · [`islandlk`](http://island.lk/resurgence-of-police-cadet-corps/) · `en`
-
-The National Cadet Corps (NCC) is an organization sponsored by the Ministry of Defense, operating in schools and normally including Army, Navy, and Air Force sections. The Corp is open to secondary school students and its officers are government teachers and educational administrators who serve as instructors. The Cadets are given basic military training in small arms, parades and leadership training.
-
-The Mission of the National Cadet Corps is to train and inspire cadets using an effective training curriculum so that each cadet shall develop character, courage, sportsmanship, self-reliance, discipline, civil-mindedness, the spirit of adventure, responsibility, and comradeship to be a human resource of well-trained youth, capable of providing leadership in all aspects of life.
-
-...
-
-[Data](articles/cf984dd2.json)
-
-[Extended Data](ext_articles/cf984dd2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 18:08:42**
+As of **2024-03-31 18:20:54**
 
 ## Newspaper Stats
 
-*Scraped **16,179** Articles*
+*Scraped **16,180** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 885
 islandlk | 900
 adalk | 1,358
 tamilmirrorlk | 1,934
-adaderanalk | 1,953
+adaderanalk | 1,954
 virakesarilk | 2,295
 dailymirrorlk | 2,493
 adaderanasinhalalk | 2,619
@@ -26,55 +26,85 @@ adaderanasinhalalk | 2,619
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,175 (100.0%) of 16,179 articles have been extended.
+16,179 (100.0%) of 16,180 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### බිහිසුණු අනතුරකින් ගුරු තරුවක් දිවියෙන් සමුගනී
+### Advisory issued for rising temperatures in parts of the island
+
+*2024-03-31 18:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98326/advisory-issued-for-rising-temperatures-in-parts-of-the-island) · `en`
+
+The Department of Meteorology has issued a heat index advisory effective tomorrow (April 01) for 05 provinces and 05 other districts.
+
+Heat index, the temperature felt on the human body is expected to increase up to ‘Caution level’ at some places in Western, Southern, North-Western, North-Central, Eastern provinces and Ratnapura, Monaragala, Mannar, Vavuniya and Mullaitivu districts, it said.
+
+As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity while continuing activity could result in heat cramps.
+
+Thus, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
+
+...
+
+[Data](articles/8940eed5.json)
+
+---
+
+### Teacher star retires from a terrible accident
 
 *2024-03-31 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195137) · `si`
 
-ඇඹිලිපිටිය නෝනගම මාර්ගයේදී සිදුවූ අනතුරකින් පාසල් ගුරුවරියක් අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ.
+A 51-year-old teacher, Samantika Jayasinghe, died in a car accident on Embilipitiya road. The accident occurred while returning from Trincomalee to Matara. The car veered off Banagamwila road, and the driver was suspected to be asleep. The victim's husband and two children were injured and taken to Hambantota hospital.
 
-මෙලෙස මියගොස් ඇත්තේ 51 හැවිරිදි වියේ පසුවූ සමන්තිකා ජයසිංහ නමැති තිදරු මවකි.
+🟩
 
-ඇය මාතර ශාන්ත සර්වේසස් විද්‍යාලයේ උසස් පෙල වාණිජ අංශ ප්‍රධානී ගුරුවරිය ලෙස කටයුතු කර තිබුණි.
+A school teacher has died in an accident on Embilipitiya road.
 
-විදුහල්පතිවරයෙකු වන ඇයගේ සැමියා සහ දරුවන් දෙදෙනෙකු ද අනතුර සිදුවන අවස්ථාවේ මෝටර් රථයේ සිට ඇති බව පොලීසිය පවසයි.
+The victim was a 51-year-old Samantika Jayasinghe, aged after 51.
 
-තුවාල ලැබූ ඔවුන් තිදෙනා අම්බලන්තොට රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා හම්බන්තොට රෝහල වෙත මාරුකර යවා ඇත.
+She served as the Head of the A / L Commerce of the AG of St. Sarventz College, Matara.
 
-ඔවුන් ත්‍රිකුණාමලය ප්‍රදේශයේ සිට හම්බන්තොට මිරිජ්ජවිල ප්‍රදේශයේ පිහිටි නිවස වෙත පැමිණෙමින් සිටියදී මෙම අනතුර සිදුව තිබුණි.
+Police say that a principal, her husband and two children have been in the car at the time of the accident.
 
-ඇඹිලිපිටිය නෝනගම මාර්ගයේ බැමිණියන්විල ප්‍රදේශයේදී ඔවුන් ගමන්කරමින් සිටි මෝටර් රථය මාර්ගයෙන් ඉවතට පැන අසළ තිබූ ගසක වැදීමෙන් අනතුර සිදුව තිබුණි.
+The injured were admitted to the Hambantota hospital for further treatment.
 
-පොලීසිය සැකපළ කරන්නේ රියදුරුට නින්ද යාම හේතුවෙන් මෙම අනතුර සිදුව ඇති බවටය.
+The accident had occurred while they were returning home from Trincomalee in Hambantota.
+
+The accident had occurred when the car had taken away from the Banagamwila road in Nongama road.
+
+The suspension is that the accident had occurred due to sleeping driver.
 
 ◼️
 
 [Data](articles/75472717.json)
 
+[Extended Data](ext_articles/75472717.ext.json)
+
 ---
 
-### හෙට කොළඹ රත්වෙයි
+### Colombo Rathnapura tomorrow
 
 *2024-03-31 17:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195136) · `si`
 
-හෙට (01) දිනයේ දිවයිනේ ප්‍රදේශ කිහිපයකට අධික උණුසුම් කාලගුණ තත්ත්වයක් පවතින බවට කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අනතුරු ඇඟවීමක් නිකුත් කර තිබේ.
+The Meteorological Department warns of warmer weather in Western, Southern-North-Central, and Eastern Provinces tomorrow, affecting Ratnapura, Moneragala, Vavuniya, and Mullaitivu districts. Instructions have been issued for these areas.
 
-එම දෙපාර්තමේන්තුව මේ සම්බන්ධයෙන් ඇම්බර් වර්ණයෙන් යුතු අවවාදාත්මක නිවේදනයක් නිකුත් කර ඇත.
+🟩
 
-එහි දැක්වෙන්නේ බස්නාහිර, දකුණ, වයඹ උතුරු-මැද සහ නැගෙනහිර පළාත්වල මෙම තත්ත්වය ඇතිවිය හැකි බවය.
+The Meteorological Department has issued a warning that there is more warm weather than several parts of the island tomorrow (01).
 
-ඊට අමතරව රත්නපුර, මොණරාගල, මනාරම, වව්නියාව, සහ මුලතිව් දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උණුසුම් දර්ශකය එනෙම් මිනිස් සිරුරට දැනෙන උෂ්ණත්වය අවධානය යොමුකළ යුතු මට්ටමක පවතිනු ඇති බවට කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පුරෝකථනය කර තිබේ.
+The department has issued an anticipated announcement in this regard.
 
-මේ හේතුවෙන් එම ප්‍රදේශවල ජනතාව පිළිපැදිය යුතු උපදෙස් මාලාවක් ද එම දෙපාර්තමේන්තුව නිකුත් කර ඇති අතර ඒවා පහතින්,
+This is likely that this situation can occur in the Western, Southern-North-Central and Eastern Provinces.
+
+In addition, the Meteorological Department foretold the temperature of the warm index in some locations, Ratnapura, Moneragala, Vavuniya, and Mullaitivu districts.
+
+As a result, the Department issued a series of instructions to be followed by the people in these areas.
 
 ◼️
 
 [Data](articles/9cb1234f.json)
+
+[Extended Data](ext_articles/9cb1234f.ext.json)
 
 ---
 
@@ -102,25 +132,31 @@ Police said that the two had been arrested after the voting argument between the
 
 ---
 
-### දිනය නිමාවේ බංග්ලාදේශය 476ක් පසුපසින්
+### 476 Bangladesh following the date
 
 *2024-03-31 17:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195135) · `si`
 
-ශ්‍රී ලංකාවට එරෙහිව දෙවන ටෙස්ට් තරගයේ දෙවන දිනය නිමාවන විට සිය පළමු ඉනිම ක්‍රීඩා කරමින් සිටි බංග්ලාදේශ කණ්ඩායම එක් කඩුල්ලක් දැවී ලකුණු 55ක් රැස්කරගෙන සිටියේය.
+Bangladesh scored 55 runs, losing one wicket, with Lahiru Kumara's 21 runs. Sri Lanka, after losing all first innings wickets, scored 531 runs, with Kusal Mendis (93 runs) and Dinesh Chandimal (59 runs) highlighting.
 
-ළහිරු කුමාර යොමුකළ පන්දුවක් කෙළින්ම මහමුදුල් හසන්ගේ කඩුල්ලේ වැදීමෙන් ඔහුට ලකුණු 21කින් සෑහීමකට පත්වන්නට සිදුවිය.
+🟩
 
-ඒ අනුව දිනය නිමාවන විට බංග්ලාදේශය ශ්‍රී ලංකා කණ්ඩායමට වඩා ලකුණු 476ක් පසුපසින් සිටියේය.
+The Bangladesh team scored 55 runs for the loss of one wicket.
 
-පළමු ඉනිම සඳහා ශ්‍රී ලංකා කණ්ඩායම සියලුදෙනා දැවී ලකුණු 531ක් රැස්කරගත්තේය.
+Lahiru Kumara, a band, was satisfied with 21 runs.
 
-එහිදී අගනා ඉනිමක් ක්‍රීඩා කළ කමිඳු මෙන්ඩිස් නොදැවී ලකුණු 92ක් රැස්කරගත්තේය.
+By the end of the day, Bangladesh was 476 runs more than Sri Lanka.
 
-කුසල් මෙන්ඩිස් ලකුණු 93ක්, දිමුත් කරුණාරත්න ලකුණු 86ක්, ධනංජය ද සිල්වා ලකුණු 70ක්, දිනේෂ් චන්දිමාල් ලකුණු 59ක්, නිශාන් මදුෂ්ක ලකුණු 57ක් බැගින් රැස්කරගත්තේය.
+Sri Lanka scored 531 runs for the loss of all of the first innings.
+
+Kumindu Mendis, who played a premier innings, scored 92 runs.
+
+Kusal Mendis scored 93 runs and Dinesh Chandimal scored 59 runs and Dinesh Chandimal scored 59 runs.
 
 ◼️
 
 [Data](articles/cecb064a.json)
+
+[Extended Data](ext_articles/cecb064a.ext.json)
 
 ---
 
@@ -170,21 +206,27 @@ The death was caused by a massage center in the Wewa Road.
 
 ---
 
-### පොලිස් වැටලීමක දී ගිනි අවියක් ක්‍රියාත්මක වීමෙන් පුද්ගලයෙකුට තුවාල
+### A person was injured by a firearm in a police raid
 
 *2024-03-31 16:26:18* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-වැටලීමක-දී-ගිනි-අවියක්-ක්‍රියාත්මක-වීමෙන්-පුද්ගලයෙකුට-තුවාල/11-408861) · `si`
 
-තිස්සමහාරාම ප්‍රදේශයේ පොලීසිය සිදුකළ වැටලීමක් අතරතුරදී ගිනි අවියක් ක්‍රියාත්මක වීමෙන් පුද්ගලයෙකු තුවාල ලබා ඇති බව තිස්සමහාරාම පොලීසිය පවසයි.
+In Tissamaharama, a 28-year-old man was injured by a firearm during a police raid. The incident occurred between 12 to 1 pm, and the police fled the area. The victim was wronged by a police sergeant in the firearm incident. Further investigations are underway.
 
-මෙලෙස තුවාල ලබා ඇත්තේ 28 හැවිරිදි වියේ පසුවන තරුණයෙක් බව පොලීසිය පවසයි. ඊයේ (30) රාත්‍රී 12ත් 1ත් අතර තිස්සමහාරාම පොලීසියට ලැබුණු තොරතුරකට අනුව එම ප්‍රදේශයේ සූදුපොළක් වැටලීම සඳහා තිදෙනෙකුගෙන් සමන්විත පොලිස් කණ්ඩායමක් පිටත්ව ගොස් ඇති අතර පොලීසිය එහි ළඟාවීමත් සමඟ එම සූදුපොළේ සිටි පිරිස් පළාගොස් ඇති බව පොලීසිය කියයි.
+🟩
 
-ඔවුන් අත්අඩංගුවට යාමේදී පොලිස් සැරයන්වරයෙකු සහ වෙඩි ප්‍රහාරයට ලක්වූ පුද්ගලයා අතර පොරබැදීමක් සිදුව ඇති අතර එහිදී ගිනි අවිය ක්‍රියාත්මකවීමෙන් තුවාල ලැබූ 28 හැවිරිදි තරුණයා ප්‍රතිකාර සඳහා හම්බන්තොට රෝහලට ඇතුළත් කර තිබෙන බව පොලීසිය පවසයි.
+Tissamaharama Police said that a firearm was injured in a firearm during a raid carried out by the police in Tissamaharama.
 
-සිද්ධිය සම්බන්ධ වැඩිදුර විමර්ශන තිස්සමහාරාම පොලීසිය විසින් මේ වනවිට ආරම්භ කර ඇති බව තිස්සමහාරාම පොලීසිය පවසයි.
+Police say that a 28-year-old man is injured. According to information received by the Tissamaharama police between 12 to 1 pm, police said that the police had fled the village with the reach of the area.
+
+The victim has been wronged between the police sergeant and the victim in the firearm.
+
+Tissamaharama Police have commenced further investigations into the incident.
 
 ◼️
 
 [Data](articles/3d4c3857.json)
+
+[Extended Data](ext_articles/3d4c3857.ext.json)
 
 ---
 
@@ -2223,29 +2265,5 @@ According to NASA reports, the next full solar eclipse is in 2044.
 [Data](articles/11d29573.json)
 
 [Extended Data](ext_articles/11d29573.ext.json)
-
----
-
-### Raigam Tele’es 2023: TV Derana wins Most Popular Television Channel award
-
-*2024-03-30 19:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/98313/raigam-telees-2023-tv-derana-wins-most-popular-television-channel-award) · `en`
-
-Derana media network bagged many top awards at the Raigam Tele’es 2023 awards ceremony currently taking place at the Shangri-La Hotel in Colombo on Saturday (30).
-
-Reaffirming its unparalleled prominence, Sri Lanka’s Premium Entertainment Experience, TV Derana picked up award for the Most Popular Television Channel of the Year.
-
-‘Surakimu Budhu Sasuna’ a documentary programme on Ada Derana 24, produced by Wasanthi Nanayakkara, won the Special Jury Award.
-
-Meanwhile, “Ada Derana Kids Academy” program on Ada Derana 24 produced by K. C. Saranga picked up award for the Best Television Educational Programme.
-
-Derana Dream Star, the Sri Lankan reality television series was awarded as the Best Television Reality Programme of the Year. Dream Star has presented over 11 seasons since the beginning since its launch in 2008.
-
-Child actress Sindagana Cooray also won a Certificate of Jury Merit for her performance in the “Helyan” teledrama aired on TV Derana.
-
-...
-
-[Data](articles/598895f7.json)
-
-[Extended Data](ext_articles/598895f7.ext.json)
 
 ---

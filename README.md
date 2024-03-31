@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 10:17:59**
+As of **2024-03-31 10:34:24**
 
 ## Newspaper Stats
 
-*Scraped **16,120** Articles*
+*Scraped **16,123** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 884
 islandlk | 899
-adalk | 1,347
+adalk | 1,348
 tamilmirrorlk | 1,928
-adaderanalk | 1,945
+adaderanalk | 1,946
 virakesarilk | 2,288
 dailymirrorlk | 2,486
-adaderanasinhalalk | 2,603
+adaderanasinhalalk | 2,604
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,120 (100.0%) of 16,120 articles have been extended.
+16,120 (100.0%) of 16,123 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### President calls for unity and guarding against divisive agendas in Easter message
+
+*2024-03-31 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98318/president-calls-for-unity-and-guarding-against-divisive-agendas-in-easter-message-) · `en`
+
+In his Easter message, President Ranil Wickremesinghe has called on everyone to join hands as Sri Lankans dedicating to the country’s security, peace and development while guarding against divisive agendas.
+
+He stated that in the face of unprecedented economic challenges, the nation has demonstrated resilience.
+
+Furthermore, the Head of the State, who also reminded of the tragic events of the past perpetrated by extremists, assured the government’s steadfast commitment to upholding the rule of law and ensuring national security, preventing such tragedies from recurring.
+
+“As Christians worldwide rejoice in the resurrection of Jesus Christ, we reflect on the profound significance of this event. Easter is preceded by a time of fasting and religious observance during the Lent season, symbolizing the journey of Jesus’ suffering, death and resurrection.
+
+...
+
+[Data](articles/ebbf5d5a.json)
+
+---
+
+### කිඹුල් ප්‍රහාරයකින් කාන්තාවක් මරුට
+
+*2024-03-31 10:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195122) · `si`
+
+මීගලෑව පොලිස් වසමේ කලංකුට්ටිව ඇලේ දිය නාමින් සිටි කාන්තාවක්ව කිඹුලෙකු විසින් ඩැහැගෙන ගොස් තිබේ.
+
+ඊයේ (29) සවස් කාලයේදී එම කාන්තාව ඇලේ දියනෑමට ගිය අවස්ථාවේ එම අනතුර සිදුව ඇති බව පොලීසිය සඳහන් කරයි.
+
+ප්‍රදේශවාසීන් එක් ව අදාළ කාන්තාව කිඹුලා ගෙන් මුදාගෙන තඹුත්තේගම රෝහලට ඇතුළත් කිරීමේදී මියගොස් තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ, ලීකොළවැව, උස්ගලසියඹලංගමුව ප්‍රදේශයේ පදිංචි ව සිටි 66 හැවිරිදි කාන්තාවකි.
+
+◼️
+
+[Data](articles/c6a23b83.json)
+
+---
 
 ### The Pekoe Trail is the symbol of Sri Lanka through the fascinating tea mountains
 
@@ -141,6 +177,22 @@ Taxes charged for drugs, surgical equipment, electrical equipment, bathroom equi
 [Data](articles/532b750b.json)
 
 [Extended Data](ext_articles/532b750b.ext.json)
+
+---
+
+### චින සංචාරය නිමවා අගමැති යළි දිවයිනට
+
+*2024-03-31 09:08:03* · [`adalk`](https://www.ada.lk/breaking_news/චින-සංචාරය-නිමවා-අගමැති-යළි-දිවයිනට/11-408851) · `si`
+
+අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා ඇතුළු ශ්‍රී ලංකා දුත පිරිස සිය පස් දින චීන නිල සංචාරය නිමා කර ඊයේ (30දා) දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි බව ගුවන් තොටුපොළ කාර්යය භාර නිලධාරීවරයා සනාථ කළේය .
+
+මෙම සංචාරය තුළ දී චීනය හා ශ්‍රී ලංකාව අතර වැදගත් ගිවිසුම් රාශියක් අත්සන් කළ අතර , චීනය විසින්  ශ්‍රී ලංකාවට ලබා දී ඇති  ණය ප්‍රතිව්‍යුහගත කිරීම පිළිබඳව ද සාකච්ඡා පවත්වා තිබුණි.
+
+අග්‍රාමාත්‍යවරයා ඇතුළු ශ්‍රී ලංකා දූත පිරිස 30 දා රාත්‍රී 07.00 ට චයිනා ඊස්ටන් ගුවන් සේවයේ එම්.යු. - 231 දරන ගුවන් යානයෙන් චීනයේ සිට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි. මෙම පිරිස ඉකුත් 03/24 දින ශ්‍රී ලංකාවෙන් චීනය බලා පිටත්ව ගොස් තිබුණි .
+
+◼️
+
+[Data](articles/6277280d.json)
 
 ---
 
@@ -2185,81 +2237,5 @@ The operations have been carried out about 90 nautical miles away from the India
 [Data](articles/8d88d380.json)
 
 [Extended Data](ext_articles/8d88d380.ext.json)
-
----
-
-### An early General Election will create political unrest: Ruwan
-
-*2024-03-30 09:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/An-early-General-Election-will-create-political-unrest-Ruwan/108-279877) · `en`
-
-Colombo, March 30 (Daily Mirror) - An early General Election will create political unrest as the ultimate result of it would be a hung Parliament, UNP Deputy Leader Ruwan Wijewardene said yesterday.
-
-Mr. Wijewardene came up with this remark when speaking to journalists after meeting the Mahanayaka Theras of Asgiriya and Malwatta chapters in Kandy.
-
-“No party will get a majority in Parliament at a General Election and this will result in a political crisis.there would be a turnaround of the stability in Sri Lanka that the government has managed to earn, in the event of an early General Election,” Mr. Wijewardene said.
-
-Mr. Wijewardene also stated that some in the SLPP and even in opposition parties including SJB favour an early General Election. President Ranil Wickremesinghe’s idea is to hold a Presidential Election first in accordance with the constitution.
-
-...
-
-[Data](articles/9921c565.json)
-
-[Extended Data](ext_articles/9921c565.ext.json)
-
----
-
-### Minister Douglas direct visits to resolve the Port issue
-
-*2024-03-30 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/180000) · `ta`
-
-Minister Douglas Devananda visited Mayiliti to address fishermen's concerns about port issues, including regulation of fishing boats and impacts from Indian drag boats. He's working with authorities to resolve these issues, focusing on long-term solutions.
-
-🟩
-
-The area fishermen have requested Minister Douglas Devananda to provide a permanent solution and provide permanent solutions to the fishermen in the port.
-
-Minister Douglas Devananda, who visited the Mayiliti landing area on Saturday (30), was examining the conditions of the minister on the issue of these issues.
-
-In addition, the long -standing industry, the long -standing industry, and the fishing boats in the Mayiliti landing area are allowed.
-
-However, they are causing many inconveniences in the day -to -day industrial activities and boats refueling and adding boats.
-
-Fishermen have called on Minister Douglas Devananda to regulate the operations of the sector as they continue to regulate these issues.
-
-They also pointed out that the port operations of the port were also affected by the Indian drag boats, which were caught by the Navy on the allegations of illegal Sri Lankan border at the port of Mayiliti.
-
-...
-
-[Data](articles/05a48fa2.json)
-
-[Extended Data](ext_articles/05a48fa2.ext.json)
-
----
-
-### Baltimore bridge collapse: Insurance loss could hit $3 billion
-
-*2024-03-30 09:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/98298/baltimore-bridge-collapse-insurance-loss-could-hit-3-billion) · `en`
-
-The collapse of a bridge in the US city of Baltimore will result in the largest single marine insurance loss ever, a British insurance marketplace said.
-
-Six people were presumed dead after a ship crashed into the bridge, and divers have recovered two bodies.
-
-Experts say the damages could cost as much as $3 billion (£2.3 billion).
-
-“I would say it’s certainly going to be one of the largest marine losses in history,” said John Neal, chief executive officer of Lloyd’s of London.
-
-“Of that there is little or no doubt,” Mr Neal told the BBC. “But genuinely the good news is it’s insured.”
-
-Mr Neal said the port and the ship that crashed into the bridge are also insured.
-
-“So from a financial point of view, there is a process that will allow for financial compensation to be made and for the claim to be settled,” he said.
-
-The Maryland Department of Transportation has so far asked the Biden administration for $60m in emergency funds to help clear debris and clean up after the incident.
-
-...
-
-[Data](articles/35c9b756.json)
-
-[Extended Data](ext_articles/35c9b756.ext.json)
 
 ---

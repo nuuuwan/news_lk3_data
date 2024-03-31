@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 00:33:38**
+As of **2024-04-01 00:49:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,221 (100.0%) of 16,225 articles have been extended.
+16,225 (100.0%) of 16,225 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ When navigating across this sea of negative analyses of China, from American, Eu
 
 [Data](articles/3587b52c.json)
 
+[Extended Data](ext_articles/3587b52c.ext.json)
+
 ---
 
 ### Lanka’s foreign debt and Chinese puzzle - EDITORIAL
@@ -64,6 +66,8 @@ They warned Lanka would ultimately end up with China taking over assets of the c
 
 [Data](articles/94323bef.json)
 
+[Extended Data](ext_articles/94323bef.ext.json)
+
 ---
 
 ### Anti-privatization statements will depress bid prices: Will JVP be held accountable?
@@ -79,6 +83,8 @@ This coincided with the government taking USD 210 million in dollar loans and LK
 ...
 
 [Data](articles/2bcba863.json)
+
+[Extended Data](ext_articles/2bcba863.ext.json)
 
 ---
 
@@ -293,6 +299,8 @@ Sinopec Lanka said it also matched the price cuts. Sinopec is selling, premium a
 ◼️
 
 [Data](articles/c19d8c2d.json)
+
+[Extended Data](ext_articles/c19d8c2d.ext.json)
 
 ---
 

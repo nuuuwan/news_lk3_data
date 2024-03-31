@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 13:33:54**
+As of **2024-03-31 13:52:43**
 
 ## Newspaper Stats
 
-*Scraped **16,146** Articles*
+*Scraped **16,147** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,59 @@ tamilmirrorlk | 1,932
 adaderanalk | 1,950
 virakesarilk | 2,289
 dailymirrorlk | 2,489
-adaderanasinhalalk | 2,609
+adaderanasinhalalk | 2,610
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,144 (100.0%) of 16,146 articles have been extended.
+16,146 (100.0%) of 16,147 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### නුවරඑළියේ හෝටලයක ගින්නක්
+### ඉන්ධන මිල වෙනස්වෙන්නේ මෙහෙමයි
+
+*2024-03-31 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195128) · `si`
+
+ඉන්ධන මිල සූත්‍රයට අනුව අද දිනයේ ඉන්ධන මිල සංශෝධනය සිදුකිරීමට නියමිතව තිබේ.
+
+මෙවර මිල සංශෝධනයේ දී ඉන්ධන මිල අඩුවීමක් සිදුවනු ඇති බව විදුලිබල හා බලශක්ති අමාත්‍යංශය සඳහන් කළේය.
+
+මෙම මාසය සඳහා වන ඉන්ධන මිල සංශෝධනය පසුගිය 4 වනදා සිදුවූ අතර එහිදී ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක මිල රුපියල් 9කින්, සුපර් ඩීසල් ලීටරයක මිල රුපියල් 10කින් සහ භූමිතෙල් ලීටරයක මිල රුපියල් 5කින් අඩු කරනු ලැබීය.
+
+කෙසේවෙතත් එහිදී ඔක්ටේන් 92 පෙට්‍රල් සහ ඔටෝ ඩීසල් මිලෙහි සංශෝධනයක් සිදු නොවුණි.
+
+මේ වනවිට අමෙරිකානු ඩොලරයට සාපේක්ෂව රුපියල ශක්තිමත්වීම සහ ලෝක වෙළෙඳපොළේ බොරතෙල් මිල අඩුවීම යන කරුණු සැලකිල්ලට ගනිමින් මෙවර මිල සංශෝධනයේ දී ඉන්ධන මිල අඩුවනු ඇති බව වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/031aeb98.json)
+
+---
+
+### Fire in Nuwara Eliya
 
 *2024-03-31 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195127) · `si`
 
-නුවරඑළිය නගර මධ්‍යයේ පිහිටි හෝටලයක අද දහවල් ගින්නක් හටගෙන තිබේ.
+A fire in Nuwara Eliya's hotel kitchen, suspected to be due to a gas leak, was quickly extinguished by the Maha Municipal Council and local residents. No injuries were reported, but property damage occurred.
 
-නුවරඑළිය මහ නගරසභාවේ ගිනි නිවීමේ ඒකකය සහ ප්‍රදේශවාසීන් එක්ව කඩිනමින් ගින්න මැඩපැවැත්වීමට කටයුතු කර ඇත.
+🟩
 
-ගෑස් කාන්දුවක් හේතුවෙන් හෝටලයේ මුළුතැන්ගෙය තුළ ගින්න හටගෙන ඇති බවට පොලීසිය සැකපළ කරයි.
+A fire broke out in a hotel in Nuwara Eliya town this afternoon.
 
-ගින්නෙන් කිසිවෙකුටත් හානියක් සිදුව නොමැති අතර දේපොළ හානි සිදුව ඇති බව පොලීසිය පවසයි.
+The Nuwara Eliya Maha Municipal Council Municipal Council and residents of the area have taken measures to crush the fire expeditiously.
+
+Police suspect that the fire has erupted in the kitchen of the hotel due to a gas leak.
+
+The fire had not been harmed by fire and the property was damaged, police said.
 
 ◼️
 
 [Data](articles/3e6dd47f.json)
+
+[Extended Data](ext_articles/3e6dd47f.ext.json)
 
 ---
 
@@ -322,19 +348,25 @@ Dr. Bellana expressed concern over the lack of attention to the hospital's healt
 
 ---
 
-### සිංගප්පූරුවෙන් ආනයනික භාණ්ඩ වල බදු අඩු කෙරේ
+### Taxes of imported goods from Singapore is reduced
 
 *2024-03-31 11:14:12* · [`adalk`](https://www.ada.lk/breaking_news/සිංගප්පූරුවෙන්-ආනයනික-භාණ්ඩ-වල-බදු-අඩු-කෙරේ/11-408854) · `si`
 
-මාර්තු මස 29 වන දින සිට ක්‍රියාත්මක වන පරිදි ‍ශ්‍රී ලංකා - සිංගප්පූරු නිදහස් වෙළෙඳ ගිවිසුම යටතේ ආනයනය කරනු ලබන භාණ්ඩ රැසක වරාය සහ ගුවන්තොටුපොළ සංවර්ධන බද්ද හෙවත් "පැල්"  සියයට 10ක් වූ  බද්ද සියයට 6 දක්වා අඩු කිරීමට පියවර ගෙන ඇති බව මුදල් අමාත්‍යංශය සඳහන් කළේය.
+The Finance Ministry of Sri Lanka has reduced the tax on imported goods from Singapore under the Free Trade Agreement, effective from March 29th. This includes a 10% reduction on goods like apples, and a 6% reduction on items such as carcasses, motorbike materials, and bicycle materials. The reduction also applies to plastics, aluminum, wooden goods, drugs, surgical equipment, electrical equipment, and bathroom equipment.
 
-ඒ අනුව‍  ආනයනය කරනු ලබන සිමෙන්ති, ඇපල් ඇතුළු පලතුරු වර්ග කිහිපයක්, සහ ළදරු කිරි ආහාර  පාසල් උපකරණ, ලිපි ද්‍රව්‍ය, රෙදිපිළි සඳහා වන අමුද්‍රව්‍ය, වාහන අමතර කොටස්, යතුරුපැදි සහ පාපැදි අමතර කොටස් සඳහා ද වරාය සහ ගුවන්තොටුපොළ සංවර්ධන බද්ද ද සියයට 10 සිට සියයට 6 දක්වා අඩුකර ඇති බව වාර්තා වෙයි.
+🟩
 
-මීට අමතරව  ප්ලාස්ටික්, ඇලුමිනියම් සහ ලී භාණ්ඩ, ඖෂධ වර්ග, ශල්‍ය උපකරණ, විද්‍යුත් උපකරණ, නාන කාමර උපකරණ,  සඳහා අයකරනු ලබන බදු ද සංශෝධනය කිරීමටද පියවර ගෙන තිබේ.
+The Finance Ministry has taken steps to reduce the 10 percent of the ports of goods imported under the Free Trade Agreement of the Sri Lanka - Singapore Free Trade Agreement, which is effective from 29th March.
+
+Accordingly, the ports, including apple, including apple, and the port and airport developer for children, carcasses, motorbike materials, automation and bicycle materials, and 6 percent to 6 percent 6 per centIt is reported that has been reduced to date.
+
+Steps have also taken steps to amend the plastics, aluminum and wooden goods, drugs, surgical equipment, electrical equipment, bathroom equipment and bathroom equipment.
 
 ◼️
 
 [Data](articles/8668e022.json)
+
+[Extended Data](ext_articles/8668e022.ext.json)
 
 ---
 
@@ -2195,27 +2227,5 @@ All the Sri Lanka Freedom Party (SLFP) organizers and executive committee member
 [Data](articles/a1dcc6ff.json)
 
 [Extended Data](ext_articles/a1dcc6ff.ext.json)
-
----
-
-### SLFP removes Amaraweera, Lasantha and Duminda from party positions
-
-*2024-03-30 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98304/slfp-removes-amaraweera-lasantha-and-duminda-from-party-positions) · `en`
-
-The Sri Lanka Freedom Party (SLFP) has removed Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera from their respective positions in the party, Ada Derana reporter said.
-
-Accordingly, Dissanayake was stripped of his post as the National Organiser, Alagiyawanna as the Treasurer and Amaraweera as the Senior Vice President.
-
-The Chairman of SLFP, former President Maithripala Sirisena summoned all members of the party to Colombo for a pivotal meeting today (30).
-
-On Monday (25), political sources revealed that the party’s Central Committee members, Executive Committee members, Constituency and District Organizers of the SLFP and all the officials of the affiliated organizations of the party have been called to the party headquarters in order to reach certain crucial decisions.
-
-Against this backdrop, a new alliance led by the SLFP will be formed in the near future and it is reported that this process has reached the final stage.
-
-...
-
-[Data](articles/978a7a26.json)
-
-[Extended Data](ext_articles/978a7a26.ext.json)
 
 ---

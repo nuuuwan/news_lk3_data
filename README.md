@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 18:51:39**
+As of **2024-03-31 19:03:05**
 
 ## Newspaper Stats
 
-*Scraped **16,183** Articles*
+*Scraped **16,184** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ tamilmirrorlk | 1,934
 adaderanalk | 1,954
 virakesarilk | 2,296
 dailymirrorlk | 2,493
-adaderanasinhalalk | 2,620
+adaderanasinhalalk | 2,621
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,182 (100.0%) of 16,183 articles have been extended.
+16,183 (100.0%) of 16,184 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### සැමියා ඝාතනය කරන්න බිරිඳගෙන් සමාජ මාධ්‍යයට කොන්ත්‍රාත්තුවක්
+
+*2024-03-31 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195139) · `si`
+
+තම සැමියා ඝාතනය කරන ඕනෑම පුද්ගලයෙකුට මුදල් ත්‍යාගයක් ලබා දෙන බවට සිය WhatsApp ගිණුමේ පළකළ කාන්තාවකට ඉන්දීය පොලීසිය නඩු පවරා ඇත.
+
+මෙලෙස ඉන්දීය පොලීසිය නීතිමය පියවර ගෙන ඇත්තේ ඉන්දියාවේ අග්‍රා හි බාහ් දිස්ත්‍රික්කයේ ජීවත් වන කාන්තාවකට එරෙහිවය.
+
+මෙම කාන්තාව සිය WhatsApp ගිණුමේ පළකර ඇත්තේ ඉන්දීය රුපියල් 50,000ක ත්‍යාගයක් ලබා දෙන බවය.
+
+තමන් ඝාතනය කරන කෙනෙකුට මුදල් ත්‍යාගයක් ලබාදෙන බවට සිය බිරිඳ WhatsApp ගිණුමේ පළ කර තිබූ පණිවිඩ දුටු එම කාන්තාවගේ සැමියා මේ සම්බන්ධයෙන් පොලීසියට පැමිණිලි කර ඇත.
+
+මීට පෙරද අවස්තා කිහිපයකදී සිය බිරිඳගේ මිතුරන් සහ පවුලේ පිරිස් තමන්ට මරණ තර්ජනය කර ඇති බවද ඔහු පොලීසියට පවසා ඇත.
+
+මෙම පුද්ගලයා අදාළ කන්තාව සමඟ විවාහ වී ඇත්තේ පසුගිය  2022 වසරේ ජූලි 9 වනදාය.
+
+නමුත් ඇති වූ පවුල් ආරවුල් සහ නොගැලපීම් හේතුවෙන් ගැටුම් ඇති වූ බවත් ඉන් පසුව 2022 දෙසැම්බර් මාසයේදී සිය බිරිඳ තමන් අතහැර ඇයගේ දෙමාපියන් වෙත ගොස් ජීවත්වූ බවත් ඔහු පවසා ඇත.
+
+එමෙන් ඔහු චෝදනා කර ඇත්තේ සිය විවාහ ජීවිතයේ ගැටුම් ඇති වූයේ සිය බිරිඳගේ අනියම් සබඳතාවක් තිබීම හේතුවෙන් බවය.
+
+...
+
+[Data](articles/927473cd.json)
+
+---
 
 ### Advisory issued for rising temperatures in parts of the island
 
@@ -256,23 +282,29 @@ The death was caused by a massage center in the Wewa Road.
 
 ---
 
-### ලංකාවේ සංචාරයට ආපු බ්‍රිතාන්‍ය හා ඉන්දීය ජාතිකයන් දෙදෙනෙක් මරුට
+### Two British and Indian nationals killed in Sri Lanka
 
 *2024-03-31 16:33:39* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සංචාරයට-ආපු-බ්‍රිතාන්‍ය-හා-ඉන්දීය-ජාතිකයන්-දෙදෙනෙක්-මරුට/11-408862) · `si`
 
-මෙරට සංචාරයකට පැමිණ සිටි බ්‍රිතාන්‍ය මෙන්ම ඉන්දියන් ජාතිකයෙකු  හිටි හැටියේ ඊයේ (30) මිය ගොස් ඇතැයි කොල්ලූපිටිය පොලිසිය කියයි.
+Two British and Indian nationals, Derek Charles (66) and Abin Joseph (31), were killed in Sri Lanka. The British national was in a Colombo 3 apartment, and the Indian national was in a 5-storey hotel on Colombo 3 sea road. Their bodies are at the police morgue, and post-mortem investigations are ongoing under Kollupitiya police OIC instructions.
 
-මෙලෙස මියගොස් ඇත්තේ  බ්‍රිතාන්‍ය ජාතික ඩෙරික් චාල්ස් (66) හා  ඉන්දියන් ජාතික අබින් ජෝසප් (31) යන අයවලුන්ය.
+🟩
 
-බ්‍රිතාන්‍ය ජාතිකයා ඔහු නැවතී සිටි කොළඹ 3 එඩ්වඩ් පටු මගේ පිහිටි හෝටලයේ නැවතී සිටි කාමරයේ ඇඳ මත මියගොස් සිටියදීත්  ඉන්දියන් ජාතිකයා කොළඹ 3  මුහුදු මාවතේ සි 20 මහල් නිවාස සංකීර්ණයේ රැඳී සිටි මහල් නිවසේ නාන කාමරය තුළ මියගොස් සිටියදී මෘත දේහය හමුවී ඇතැයි පොලිසිය සඳහන් කරයි.
+Kolupitiya Police say that a British and Indian national has died yesterday (30).
 
-මියගිය දෙදෙනාගේ මළ සිරුරු  පොලිස් මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර ඥාතීන් පැමිණ හඳුනා ගැනීමෙන් අනතුරුව පශ්චාත් මරණ පරීක්ෂණ පැවැත්වීමට නියමිතය
+The victim was the British Derek Charles (66) and Indian national Abin Joseph (31).
 
-කොල්ලුපිටිය පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක එච් එල් දුෂ්මන්ත මහතාගේ උපදෙස් මත විමර්ශන සිදු කෙරේ
+The British national stayed on the bed of the lakh, the Indian national stayed on the bed at the Colombo 3 apartment complex, the Indian national stayed on the bed of the 5-storey hotel in the Colombo 3 sea road.
+
+The bodies of the deceased have been placed at the police morgue and the relatives will be conducting further post mortem
+
+Investigations are conducted on the instructions of the Kollupitiya police OIC
 
 ◼️
 
 [Data](articles/51d29d32.json)
+
+[Extended Data](ext_articles/51d29d32.ext.json)
 
 ---
 
@@ -2253,25 +2285,5 @@ Sri Lanka has introduced a crop damaged rebarded bulb in a successful solution.
 [Data](articles/64503536.json)
 
 [Extended Data](ext_articles/64503536.ext.json)
-
----
-
-### Sri Lanka port development taken new turn with China help: Prime Minister
-
-*2024-03-30 20:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-port-development-taken-new-turn-with-china-help-prime-minister-156619/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s port development has taken a new turn of an advanced port development with the assistance of China, Prime Minister Dinesh Gunawardena has said.
-
-“Sri Lanka’s port development has taken a new turn of an advanced port development with the assistance of China, which we appreciate,” Gunawardena said addressing the BOAO Forum for Asia Annual Conference 2024 in Hainan in China.
-
-“Sri Lankan, Colombo port will become a hub, a new developed port with financial instruments that could cater to the new demands that are growing among ourselves, among our countries, for development and investment, which is essential,” Gunawardena was quoted as saying at the forum in a statement by the Prime Minister’s Media division.
-
-Explaining Sri Lanka’s expansion of Colombo Port, and Hambantota Port, as well as Colombo Port City, the new Colombo Financial Center, he said it could be a major financial hub ensuring rapid progress of not only Sri Lanka but also other countries in the region.
-
-...
-
-[Data](articles/196c1f7c.json)
-
-[Extended Data](ext_articles/196c1f7c.ext.json)
 
 ---

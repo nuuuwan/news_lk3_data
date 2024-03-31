@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 11:52:19**
+As of **2024-03-31 12:03:20**
 
 ## Newspaper Stats
 
-*Scraped **16,132** Articles*
+*Scraped **16,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 864
 economynextcom | 885
 islandlk | 899
 adalk | 1,350
-tamilmirrorlk | 1,930
-adaderanalk | 1,947
-virakesarilk | 2,288
+tamilmirrorlk | 1,931
+adaderanalk | 1,948
+virakesarilk | 2,289
 dailymirrorlk | 2,487
 adaderanasinhalalk | 2,606
 
@@ -26,45 +26,109 @@ adaderanasinhalalk | 2,606
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,128 (100.0%) of 16,132 articles have been extended.
+16,132 (100.0%) of 16,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### ප්‍රචණ්ඩ ක්‍රියා නිසා හයිටි ආර්ථිකයට දැඩි බලපෑම්
+### வைத்தியசாலையில் தடுப்பூசி ஏற்றியவர் மரணம்
+
+*2024-03-31 11:39:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலையில்-தடுப்பூசி-ஏற்றியவர்-மரணம்/175-335396) · `ta`
+
+றாகம போதனா வைத்தியசாலையில் 50 வயதுடைய நோயாளி ஒருவர் தடுப்பூசியைப் பெற்றுக்கொண்ட சிறிது நேரத்திலேயே பரிதாபமாக உயிரிழந்ததைத் தொடர்ந்து சுகாதார அமைச்சு விசாரணைகளை ஆரம்பித்துள்ளது.
+
+காது தொடர்பான மருத்துவத்திற்காக மருத்துவமனையில் அனுமதிக்கப்பட்டிருந்த நோயாளி, பற்றீரியா தொற்றுகளை எதிர்த்துப் போராட பொதுவாகப் பயன்படுத்தப்படும் அன்டிபயோடிக் 'கோ-அமோக்ஸிக்லாவ்' தடுப்பூசியை செலுத்திய பின்னர் காலமானார்.
+
+சம்பவம் தொடர்பான சூழ்நிலைகளை அறிந்து கொள்வதற்காக மருத்துவமனை மட்டத்தில் முழுமையான உள்ளக விசாரணையும் நடைபெற்று வருவதாக மருத்துவமனையின் பணிப்பாளர் வைத்தியர் சம்பத் ரணவீர உறுதிப்படுத்தினார்.
+
+இறப்புக்கான காரணம் நிச்சயமற்றதாக இருந்தாலும், தடுப்பூசிக்கு ஒவ்வாமை ஏற்படுவதற்கான சாத்தியக்கூறுகளை அதிகாரிகள் நிராகரிக்கவில்லை.
+
+இந்த சம்பவம் கவனத்தை ஈர்த்துள்ளதுடன் நோயாளியின் மரணத்திற்கு வழிவகுக்கும் நிகழ்வுகளை ஆழமாக ஆராய அதிகாரிகளைத் தூண்டியுள்ளது.
+
+◼️
+
+[Data](articles/ef67ee19.json)
+
+---
+
+### Levy imposed on several items imported from Singapore slashed
+
+*2024-03-31 11:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/98320/levy-imposed-on-several-items-imported-from-singapore-slashed) · `en`
+
+The government has taken steps to reduce the Ports and Airports Development Levy (PAL) imposed on several items imported under the Sri Lanka-Singapore Free Trade Agreement (FTA).
+
+The PAL which prevailed at 10% has now been reduced to 6% with effect from March 29, the Ministry of Finance said.
+
+Thus, the relevant levy imposed on several types of cement, a variety of fruits including apples and infants’ foods other than milk foods approved by the Director General of Health Services, and multiple other items imported under the Sri Lanka-Singapore FTA have been slashed.
+
+Steps have also been taken to revise the taxes levied on medicines, surgical instruments, electrical equipment, bathroom equipment, polythene and plastic, aluminum and wooden items imported under the relevant FTA.
+
+...
+
+[Data](articles/9c66816d.json)
+
+---
+
+### Higher effects to Haiti economy due to violence
 
 *2024-03-31 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195124) · `si`
 
-හයිටි හි ක්‍රියාත්මක අවිගත් කල්ලිවල ප්‍රචණ්ඩ ක්‍රියා හේතුවෙන් එරට ජනතාවගේ ආර්ථිකයට දැඩි බලපෑම් එල්ල වී තිබේ.
+Violence in Haiti severely impacts its economy, leading to increased poverty and a decline in tourism, affecting the Caribbean's poorest state.
 
-ඒ අනුව, විශේෂඥයින් මත පළකරන්නේ, හයිටි රාජ්‍යය තවත් දුගී බවට පත්වනු ඇති බවය.
+🟩
 
-කැරිබියානු කලාපයේ පිහිටි හයිටි සැලකෙන්නේ කලාපයේ වඩාත්ම දුගී රාජ්‍යය ලෙසයි.
+The economy of the people of the country have been severely affected due to violence in the Haiti.
 
-හයිටි හි වරාය, ගුවන්තොටුපොළ ඇතුළු ප්‍රධාන ආර්ථික කේන්ද්‍රස්ථාන අවිගත් කල්ලි යටතේ පවතී.
+Accordingly, experts are posted on experts, the Haitian kingdom will become more poverty.
 
-රට තුළ ක්‍රියාත්මක ප්‍රචණ්ඩ ක්‍රියා හේතුවෙන් සංචාරකයින් ද පහළ ගොස් ඇති අතර හෝටල් ඇතුළු සංචාරක ක්ෂේත්‍රය ද පසුබෑමකට මුහුණ දී තිබේ.
+Haitian in the Caribbean region is considered the most poor state of the region.
+
+The main economic centers of Haiti is under armed gangs, including the ports of Haiti.
+
+Tourists have declined due to violence in the country and the tourism industry, including the hotels, have faced a recession.
 
 ◼️
 
 [Data](articles/e7c4f5db.json)
 
+[Extended Data](ext_articles/e7c4f5db.ext.json)
+
 ---
 
-### ”நீர்த் தொட்டிகள் 20 வருடங்களாக சுத்தப்படுத்தப்படவில்லை”
+### பால்­டிமோர் துறை­முக அனர்த்­தத்தின் உல­க­ளா­விய பொரு­ளா­தார தாக்­கங்கள்
+
+*2024-03-31 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/180052) · `ta`
+
+ஆரம்­பக்­கட்ட தக­வல்­க­ளின்­படி, கப்பல் புறப்­பட்டு சில நிமி­டங்­களில் அதன் மின்­சக்­தியை இழந்­தது. அவ­ச­ர­கால மின்­பி­றப்­பாக்கி இயக்­கப்­பட்­ட­போ­திலும், கப்­பலை இயக்­கு­வ­தற்­கான மின்சக்­தி கிடைக்­க­வில்லை. கட்­டுப்­பாட்டை இழந்த கப்பல் சில நிமி­டங்­களில் பிரான்சிஸ் கீ பாலத்தின் முக்­கிய அடிப்­ப­குதி மீது மோதி­யது. சில விநா­டி­க­ளுக்குள் பாலம் உடைந்து வீழ்ந்­தது.
+
+◼️
+
+[Data](articles/f76f06ed.json)
+
+---
+
+### “Water tanks have not been cleaned for 20 years”
 
 *2024-03-31 11:26:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்த்-தொட்டிகள்-20-வருடங்களாக-சுத்தப்படுத்தப்படவில்லை/175-335395) · `ta`
 
-கடந்த 20 வருடங்களாக வைத்தியசாலையின் பிரதான நீர் தாங்கி கோபுரம் மற்றும் ஏனைய நீர் சேமிப்புத் தொட்டிகள் சுத்தப்படுத்தப்படவில்லை என தேசிய வைத்தியசாலையின் கொழும்பு (NHC) பிரதிப் பணிப்பாளர் வைத்தியர் ருக்ஷான் பெல்லன தெரிவித்துள்ளார்.
+Dr. Rukshan Bellana, Deputy Director of the National Hospital, revealed that the hospital's water storage tanks, including the main water tower, haven't been cleaned for 20 years, despite standard protocols suggesting at least quarterly cleaning. This oversight poses a risk to patient and staff health, as well as equipment in surgical rooms and laboratories.
 
-ஊடகங்களுக்கு கருத்து தெரிவித்த அவர், வைத்தியசாலையில் தற்போது பிரதான நீர் தாங்கி கோபுரம் உட்பட சுமார் 161 நீர் சேமிப்பு தொட்டிகள் உள்ளதாக தெரிவித்தார்.
+🟩
 
-ஆச்சரியப்படும் விதமாக, இந்த தொட்டிகளை சுத்தம் செய்யும் அட்டவணை அல்லது நிறுவல் திகதிகளை ஆவணப்படுத்தும் பதிவுகள் எதுவும் இல்லை, நிலையான நெறிமுறைகளின்படி, தண்ணீர் சேமிப்பு தொட்டிகளை மூன்று மாதங்களுக்கு ஒரு முறையாவது சுத்தம் செய்ய வேண்டும் என்று பெல்லனா கூறினார். ஆனால், கடந்த 20 ஆண்டுகளாக இந்த தொட்டிகள் சுத்தம் செய்யப்படாமல் இருப்பது அதிர்ச்சியளிக்கிறது.
+Deputy Director of the National Hospital (NHC) Dr. Rukshan Bellana said that the hospital's main water tower and other water storage tanks have not been cleaned for the past 20 years.
+
+Commenting on the media, he said that the hospital currently has about 161 water storage tanks, including the main water tower.
+
+Surprisingly, there are no records of documenting these tanks cleaning table or installation dates, according to the standard protocols, Bellana said that water storage tanks should be cleaned at least once in three months.. But it is shocking that these tanks have not been cleaned for the past 20 years.
+
+Dr. Bellana expressed concern over the lack of attention to the hospital's health inspectors. He said that when regular water samples are sent to the Medical Research Institute (MRI) annually to verify the levels of Bitteria, this alone does not guarantee the cleanliness of the water. There can be harmful contaminants in the water, which puts patients and staff the same danger.
 
 ...
 
 [Data](articles/e8487019.json)
+
+[Extended Data](ext_articles/e8487019.ext.json)
 
 ---
 
@@ -220,6 +284,8 @@ Sri Lanka is keen to join the group as it allowed exporters in the country to ge
 
 [Data](articles/b66530db.json)
 
+[Extended Data](ext_articles/b66530db.ext.json)
+
 ---
 
 ### Fuel prices rise in the world market!
@@ -324,21 +390,27 @@ General public is kindly requested to take adequate precautions to minimize dama
 
 ---
 
-### සිරුරට ගිනි තබාගත් දෙදරු මව මරුට
+### The mother of two children killed in setting fire
 
 *2024-03-31 09:27:50* · [`adalk`](https://www.ada.lk/sports/සිරුරට-ගිනි-තබාගත්-දෙදරු-මව-මරුට/9-408852) · `si`
 
-සැමියා සමග රණ්ඩුවී සිරුරට භූමිතෙල් හලාගෙන ගිනි තබාගෙන ඇති දෙදරු මවක ඊයේ (30දා) මියගොස් ඇතැයි පානදුර උතුර පොලිසිය පවසයි.
+A mother of two, identified as Kanakatha Lakshm, was killed in a fire in Panadura North. The victims were residents of Horakuduwa, Panadura. The police are investigating, with postmortem examinations underway at Panadura Base Hospital.
 
-මෙසේ මියගොස් ඇත්තේ පානදුර, හොරේතුඩුව ප්‍රදේශයේ පදිංචි  එස්. කනක ලක්ෂ්ම් නමැති 35 හැව්රිදි කාන්තාවක බව පොලිසිය කීය.
+🟩
 
-සැමියා සහ බිරිඳ අතර කලක පටන් ආරවුල් පැවත ඇති බවට මෙතෙක් කල පක්ෂණවලදී තහවුරු ඇතැයිද පොලිසිය සඳහන් කළේය.
+Panadura North Police say that the victim has been identified as a fireplay with a fireplay with a fireplay with a fireplay with a fireplay.
 
-මහේස්ත්‍රාත් පරීක්ෂණය සහ පානදුර කොට්ඨාස අපරාධ ස්ථාන නිලධාරීන්ගේ පරීක්ෂණයද සිදුකර ඇති බවත්  මෘත දේහය පශ්චාත් මරණ පරීක්ෂණය සඳහා පානදුර මූලික රෝහලේ තැන්පත් කර ඇති බවත් පොලිසිය සඳහන් කරයි.
+The deceased have been identified as residents of Horakuduwa, Panadura, Panadura, Panadura, Panadura. The police said that Kanakatha Lakshm was a woman in a woman.
+
+According to the police, the parties have confirmed that the husband and wife have been confirmed since the time.
+
+The police said that the investigators were also carried out by the magisterial inquiry and the Panadura Division officials have been placed at the Panadura Base Hospital for postmortem.
 
 ◼️
 
 [Data](articles/971ad029.json)
+
+[Extended Data](ext_articles/971ad029.ext.json)
 
 ---
 
@@ -2175,65 +2247,5 @@ In an official statement, the Indian Navy said, “We remain committed to ensuri
 [Data](articles/dd63c00a.json)
 
 [Extended Data](ext_articles/dd63c00a.ext.json)
-
----
-
-### Immigration nabs Indians violating work visa conditions in N’eliya restaurants
-
-*2024-03-30 11:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immigration-nabs-Indians-violating-work-visa-conditions-in-Neliya-restaurants/108-279876) · `en`
-
-Colombo, March 30 (Daily Mirror) - Three Indian nationals who were engaged in employment at restaurants in Nuwara-eliya by violating their work visa conditions were nabbed by the Immigration and Emigration Department yesterday.
-
-The department’s Investigation Division on information made the arrests from two restaurants in Nuwara-eliya, where the foreigners have violated their work visa conditions.
-
-A senior official of the department told the Daily Mirror the Indian nationals had been granted employment visas to work in a particular restaurant in Nuwara Eliya and they were found working elsewhere.
-
-The officer said that usually these kinds of work permits are not given to the individual but to the place of work and the foreigner is supposed to work only at that particular place of work. If one does not want to work there anymore his work visa will be cancelled, he said.
-
-...
-
-[Data](articles/08864773.json)
-
-[Extended Data](ext_articles/08864773.ext.json)
-
----
-
-### Innocent Passage to enter Arabian Sea: India remains unresponsive to Sri Lanka’s request
-
-*2024-03-30 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Innocent-Passage-to-enter-Arabian-Sea-India-remains-unresponsive-to-Sri-Lankas-request/108-279874) · `en`
-
-Colombo, March 30 (Daily Mirror)- India remains unresponsive to the request by Sri Lanka to allow an innocent passage through the Indian Exclusive Economic Zone (EEZ) for its fishermen to enter the Arabian Sea, a top source said.
-
-Sri Lanka made this request when President Ranil Wickremesinghe visited India last year. The Indian route will help Lankan fishermen cut down the total distance by 400 nautical miles. Currently, they have to take a longer route via Negombo, Dikovita, Beruwala and Matara around the Maldives.
-
-Currently, Sri Lankan fishermen get detained by the Indian Coast Guard when they unlawfully enter Indian waters on their way to the Arabian Sea for fishing activities.
-
-The President embarked on a two-day visit to India in July last year, his first since taking office last year after a tumultuous period that saw the island nation’s economy tank, and protests erupt on its streets leading to ouster of former leaders.
-
-...
-
-[Data](articles/c0c709fe.json)
-
-[Extended Data](ext_articles/c0c709fe.ext.json)
-
----
-
-### Measures taken to limit egg imports from India
-
-*2024-03-30 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98301/measures-taken-to-limit-egg-imports-from-india) · `en`
-
-Sri Lanka Association of Animal Production says it is possible to supply chicken and eggs without any shortage during the upcoming festive season.
-
-President of the association Ajith Gunasekara expressed that it is also possible to sell frozen chicken at Rs. 1,000.
-
-Meanwhile, steps have been taken to limit the import of eggs from India, according to State Trading Corporation.
-
-Its chairman Asiri Walisundara mentioned that nearly 04 million imported eggs would be released to the market during the upcoming festive season.
-
-◼️
-
-[Data](articles/723a5dc6.json)
-
-[Extended Data](ext_articles/723a5dc6.ext.json)
 
 ---

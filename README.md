@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 11:03:09**
+As of **2024-03-31 11:18:10**
 
 ## Newspaper Stats
 
-*Scraped **16,125** Articles*
+*Scraped **16,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 884
 islandlk | 899
 adalk | 1,349
 tamilmirrorlk | 1,928
-adaderanalk | 1,946
+adaderanalk | 1,947
 virakesarilk | 2,288
 dailymirrorlk | 2,487
 adaderanasinhalalk | 2,604
@@ -26,11 +26,33 @@ adaderanasinhalalk | 2,604
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,125 (100.0%) of 16,125 articles have been extended.
+16,125 (100.0%) of 16,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### Prime Minister’s message for Easter
+
+*2024-03-31 10:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98319/prime-ministers-message-for-easter) · `en`
+
+In his message to mark Easter Sunday, Prime Minister Dinesh Gunawardena requested for all to join hands to put the society on right track by focusing on human relations and social ethics in the face of current, complex social misapprehensions.
+
+He also called on the public to celebrate this Easter by leading our hearts to a new transformation that is fostered by the said values.
+
+“Let us enlighten our lives through the life of Jesus Christ.
+
+Let us resolve in this Easter day to put society on the right track by focusing on human relations and social ethics in the face of current, complex social misapprehensions.
+
+The life example of Jesus Christ, who sacrificed his life for social justice, mercy, love and humanity in order to achieve righteous goals courageously, is extremely valuable.
+
+The said religious teachings help us build the necessary mindset that is required in any crisis situation.
+
+...
+
+[Data](articles/94a25f7b.json)
+
+---
 
 ### Sanath Nishantha's wife adds to discipline in the pointer
 
@@ -2219,23 +2241,5 @@ Owing to the situation, at least 25 train journeys on the Coastal Line are facin
 [Data](articles/afd286bf.json)
 
 [Extended Data](ext_articles/afd286bf.ext.json)
-
----
-
-### At least 25 trains on Coastal Lines facing cancellations today
-
-*2024-03-30 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/98299/at-least-25-trains-on-coastal-lines-facing-cancellations-today) · `en`
-
-The Railway Department says that trains plying on the Coastal Line are continuing to experience further delays today (30) and tomorrow (31).
-
-Trains operation between Wellawatta and Colombo Fort railway stations have been limited to a single track due to pipeline maintenance work carried out by the Urban Development Authority (UDA).
-
-Owing to the situation, at least 25 train journeys on the Coastal Line are facing cancellations today, the department said further, adding that the disrupted train services are expected to be restored after tomorrow night.
-
-◼️
-
-[Data](articles/b80a05fb.json)
-
-[Extended Data](ext_articles/b80a05fb.ext.json)
 
 ---

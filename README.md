@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 08:18:08**
+As of **2024-03-31 08:33:37**
 
 ## Newspaper Stats
 
-*Scraped **16,108** Articles*
+*Scraped **16,110** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,57 @@ dailyftlk | 864
 economynextcom | 884
 islandlk | 899
 adalk | 1,345
-tamilmirrorlk | 1,926
+tamilmirrorlk | 1,927
 adaderanalk | 1,943
 virakesarilk | 2,286
-dailymirrorlk | 2,484
+dailymirrorlk | 2,485
 adaderanasinhalalk | 2,601
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,100 (100.0%) of 16,108 articles have been extended.
+16,107 (100.0%) of 16,110 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### ජනපතිගේ පාස්කු දින පණිවුඩය
+### UNESCO adopts landmark decision for International day of Vesak
+
+*2024-03-31 08:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNESCO-adopts-landmark-decision-for-International-day-of-Vesak/108-279884) · `en`
+
+Paris, March 31 (Daily Mirror) - The Executive Board of UNESCO at its 219th Session adopted by acclamation a Decision to commemorate the International Day of Vesak at UNESCO in alignment with the Organization's core mandate of promoting global peace, intercultural dialogue, and the preservation of cultural heritage.
+
+The landmark Decision was based on the historic UN General Assembly Resolution 54/115 of 1999 on International Recognition of Vesak at the United Nations which was then spearheaded by Sri Lanka’s illustrious former Foreign Minister Lakshman Kadirgamar, and was adopted on its 25th anniversary year at UNESCO Headquarters in Paris on Tuesday 26 March 2024.
+
+The Decision was led by the Permanent Delegation of Sri Lanka to UNESCO with the co-sponsorship of a cross-regional group of 38 member states of which 16 were members of the Executive Board.
+
+...
+
+[Data](articles/59663918.json)
+
+---
+
+### Easter day message
 
 *2024-03-31 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195119) · `si`
 
-පාස්කු දිනය වෙනුවෙන් පණිවුඩයක් නිකුත් කරමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසන්නේ ඉතිහාසයේ දරුණුතම ආර්ථික අභියෝගය හමුවේ රටක් ලෙස අප සියලුදෙනා මහත් පීඩාවකට පත් වුව ද දරාගත හැකි ජාතියක් ලෙස ඒ උත්ථානයේ ගමනේ ආශිර්වාදයත් සමගින් අප නැවත නැගී සිටිය යුතු බවය.
+"President Ranil Wickremesinghe emphasizes Sri Lanka's role in history, highlighting the need for unity and reconciliation to overcome current challenges."
 
-බහුවාර්ගික සමාජයක් ලෙස ජීවත්වන අප, අද රට ඉදිරියේ ඇති අභියෝග ජය ගැනීම වෙනුවෙන් එකමුතුව කටයුතු කිරිම අත්‍යවශ්‍ය බව ජනාධිපතිවරයා පෙන්වා දෙයි.
+🟩
 
-ශ්‍රී ලාංකිකයන් ලෙස අපගේ එකමුතුකම සහ සංහිඳියාව ප්‍රවර්ධනය කළ යුතු අතර ඊට කැලලක් ඇතිකරන කිසිදු ආකාරයේ කුමන්ත්‍රණයකට හසු නොවී බුද්ධිමත්ව රටේ ආරක්ෂාව, සාමය සහ සංවර්ධනය වෙනුවෙන් කැපවීම සියලුදෙනාගේ යුතුකම බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැඩිදුරටත් සඳහන් කළේය.
+President Ranil Wickremesinghe says that as a country that can be a great triumph of history as a country, as a country that is a great tribulation in history, we must stand up with the blessings of that resurrection.
+
+The President pointed out that we are essential to overcome the challenges before the country today.
+
+President Ranil Wickremesinghe added that our unity and reconciliation as Sri Lankans should be promoted to a conspiracy to do any kind of conspiracy, "President Ranil Wickremesinghe added.
 
 ◼️
 
 [Data](articles/8fcd8133.json)
+
+[Extended Data](ext_articles/8fcd8133.ext.json)
 
 ---
 
@@ -189,6 +211,26 @@ The Mission of the National Cadet Corps is to train and inspire cadets using an 
 [Data](articles/cf984dd2.json)
 
 [Extended Data](ext_articles/cf984dd2.ext.json)
+
+---
+
+### இலங்கை - இந்திய திட்டங்கள் தொடர்பில் மீளாய்வு
+
+*2024-03-31 02:38:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்திய-திட்டங்கள்-தொடர்பில்-மீளாய்வு/175-335390) · `ta`
+
+இந்திய - இலங்கை இடையிலான இருதரப்புப் பொருளாதார திட்டங்களின் முன்னேற்றத்தை மீளாய்வு செய்வதற்கான சந்திப்பொன்று புதுடில்லியில் நடைபெற்றுள்ளது.
+
+இந்திய வெளியுறவுச் செயலர் வினய் குவாத்ராவின் அழைப்பின் பேரில் தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க உள்ளிட்ட இலங்கையின் உயர்மட்டக் குழுவின் பங்கேற்புடன் இந்தச் சந்திப்பு நடைபெற்றது.
+
+இதன்போது சாகல ரத்நாயக்க உள்ளிட்ட குழுவினருக்கு இந்திய வெளிவிவகாரச் செயலாளர் சிறப்பு வரவேற்பளித்துள்ளார்.
+
+இலங்கையின் பொருளாதார வளர்ச்சி சாதகமான நிலைக்குத் திரும்பி வருவதால், ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் மூலோபாய பொருளாதார வேலைத் திட்டத்தின் கீழ் இணக்கம் காணப்பட்ட திட்டங்களை வெற்றிகரமாக நடைமுறைப்படுத்தும் இயலுமை இரு நாடுகளுக்கும் உள்ளது என இந்திய வெளிவிவகாரச் செயலாளர் இதன்போது தெரிவித்துள்ளார்.
+
+வீழ்ச்சியடைந்துள்ள இலங்கையின் பொருளாதாரத்தை மீட்டெடுக்க இந்திய அரசாங்கம் வழங்கிய ஆதரவிற்கு சாகல ரத்நாயக்க நன்றி கூறினார்.
+
+...
+
+[Data](articles/0e661236.json)
 
 ---
 
@@ -362,6 +404,8 @@ Mohandas Karamchand Gandhi was born in a small harbour-town on the west coast of
 
 [Data](articles/66db5491.json)
 
+[Extended Data](ext_articles/66db5491.ext.json)
+
 ---
 
 ### Special Notice of Elections Commission
@@ -464,6 +508,8 @@ Russia is exultant about the outcome of the Presidential election. The poll was 
 
 [Data](articles/4b5d6636.json)
 
+[Extended Data](ext_articles/4b5d6636.ext.json)
+
 ---
 
 ### China-Sri Lanka Trade: MOU signed to align export standards
@@ -535,6 +581,8 @@ This innovation addresses a perennial issue and makes reading annual reports a t
 ...
 
 [Data](articles/67bbb1b9.json)
+
+[Extended Data](ext_articles/67bbb1b9.ext.json)
 
 ---
 
@@ -2215,49 +2263,5 @@ Temporarily strong gusty winds and very rough seas can be expected during thunde
 [Data](articles/86f07164.json)
 
 [Extended Data](ext_articles/86f07164.ext.json)
-
----
-
-### Actor Daniel Balaji has passed away
-
-*2024-03-30 08:07:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகர்-டேனியல்-பாலாஜி-காலமானார்/175-335359) · `ta`
-
-Daniel Balaji, a renowned Tamil actor, passed away after a heart attack. He starred in films like Kaka Kaka, Vettiyadu Play, Bhairava, and Pollathavan, and also acted in Malayalam, Telugu, and Kannada films.
-
-🟩
-
-He has been admitted to a private hospital in Kotivakkam due to a heart attack.
-
-48 -year -old Daniel Balaji has acted in many Tamil films including Kaka Kaka, Vettiyadu Play, Bhairava and Pollathavan.
-
-He has also acted in Malayalam, Telugu and Kannada films not only in Tamil. (A)
-
-◼️
-
-[Data](articles/767b560f.json)
-
-[Extended Data](ext_articles/767b560f.ext.json)
-
----
-
-### Buddhism is still influenced by Buddhist in the Asgiriya party
-
-*2024-03-30 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195088) · `si`
-
-Buddhism faces threats from monks' actions, with the Most Venerable Whimanarathana Thero taking measures against them.
-
-🟩
-
-The Most Venerable Whimanarathana Thero says that by now, Buddhism is influenced by various ways.
-
-The Thera says he has taken several measures against such persons with the government.
-
-Due to the actions of some monks, Buddhism has been a risk of destroying Buddhism soon.
-
-◼️
-
-[Data](articles/214fb1b7.json)
-
-[Extended Data](ext_articles/214fb1b7.ext.json)
 
 ---

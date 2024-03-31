@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 03:51:06**
+As of **2024-04-01 04:03:06**
 
 ## Newspaper Stats
 
-*Scraped **16,242** Articles*
+*Scraped **16,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 147
 bbccomsinhala | 170
 dbsjeyarajcom | 201
 newsfirstlk | 363
-dailyftlk | 873
+dailyftlk | 881
 economynextcom | 888
 islandlk | 900
 adalk | 1,363
@@ -26,11 +26,151 @@ adaderanasinhalalk | 2,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,238 (100.0%) of 16,242 articles have been extended.
+16,242 (100.0%) of 16,250 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### Opposition politicians unite to critique current political culture
+
+*2024-04-01 03:48:56* · [`dailyftlk`](https://www.ft.lk/news/Opposition-politicians-unite-to-critique-current-political-culture/56-760169) · `en`
+
+Former Sports Minister attending event by Piripun SL says public administration is at its weakest since 1970s
+
+NFF leader Wimal Weerawansa likens SL’s situation to a house on fire being robbed
+
+FPC member Prof. Charitha Herath highlights challenge of translating strategic plans into action
+
+MJP leader Dilith Jayaweera emphasises necessity to change political narrative in SL
+
+Former Minister of Sports and estranged Government MP Roshan Ranasinghe
+
+Former Minister of Sports and estranged Government MP Roshan Ranasinghe yesterday maintained that the Parliament elected in 2020 is the most corrupt to date.
+
+Ranasinghe, who has served in three parliaments, said, “These sentiments may discomfort some individuals, but they need to be articulated. Among the three parliaments I have been part of, the one elected in 2020 stands out as the most corrupt.”
+
+...
+
+[Data](articles/95807bee.json)
+
+---
+
+### Dilith declares himself as most suitable Pohottuwa presidential candidate
+
+*2024-04-01 03:45:07* · [`dailyftlk`](https://www.ft.lk/news/Dilith-declares-himself-as-most-suitable-Pohottuwa-presidential-candidate/56-760168) · `en`
+
+Says 6.9 million votes received by SLPP were not cast in favour of a person or a particular family
+
+Asks SLPP leader Mahinda Rajapaksa to ensure his family follows the correct path as party members are not their slaves
+
+Urges party to nominate him as its Presidential candidate as he is most suitable for it
+
+Mawbima Janatha Party Leader Dilith Jayaweera proposed he should be nominated for the presidential candidacy of the Sri Lanka Podujana Peramuna (SLPP) yesterday.
+
+Speaking at a public gathering in Badulla, Jayaweera referenced a recent statement by SLPP Chief Government Whip and Urban Development and Housing Minister Prasanna Ranatunga, who mentioned that the SLPP does not have a suitable candidate for the upcoming Presidential polls.
+
+...
+
+[Data](articles/eedb2585.json)
+
+---
+
+### Manusha says President successfully completes economic recovery ‘suicide mission’
+
+*2024-04-01 03:42:47* · [`dailyftlk`](https://www.ft.lk/news/Manusha-says-President-successfully-completes-economic-recovery-suicide-mission/56-760167) · `en`
+
+Labour and Foreign Employment Minister Manusha Nanayakkara on Friday described addressing the economic crisis was like a ‘suicide mission,’ and President Ranil Wickremesinghe has successfully completed the task of restoring the economy to normalcy.
+
+He noted that an uninformed group believes that bringing down inflation, improving exchange rates, and increasing salaries can be achieved during an election to gain an advantage. He argued this clearly proves that such groups are being misled. He pointed out that recent statistics indicate the President has successfully tackled the economic challenges.
+
+The Minister made this observation during the inauguration of the Jayagamu Sri Lanka program at Gamini Vidyalaya’s Ground in Vavuniya.
+
+...
+
+[Data](articles/7b4addef.json)
+
+---
+
+### Mody claims 1974 handover of Katchatheevu to SL has angered every Indian
+
+*2024-04-01 03:40:49* · [`dailyftlk`](https://www.ft.lk/news/Mody-claims-1974-handover-of-Katchatheevu-to-SL-has-angered-every-Indian/56-760166) · `en`
+
+“New facts reveal how Congress callously gave away Katchatheevu…This has angered every Indian,” Prime Minister Narendra Modi posted on X.
+
+Modi on Sunday (31 March) once again attacked the Congress about its decision to “callously give away” the island of Katchatheevu.
+
+“Eye opening and startling! New facts reveal how Congress callously gave away #Katchatheevu. This has angered every Indian and reaffirmed in people’s minds — we can’t ever trust Congress!” he posted on X.
+
+The prime minister’s post comes after documents obtained by BJP Tamil Nadu chief K. Annamalai seemed to indicate that Congress never attached much importance to the tiny, uninhabited island, The Times of India reported. According to the report, Jawaharlal Nehru once even remarked that he would not hesitate “in giving up claims to the island” altogether.
+
+...
+
+[Data](articles/bbb772df.json)
+
+---
+
+### SL exporters explore cutting-edge food technology at Anuga FoodTec Exhibition in Germany
+
+*2024-04-01 03:40:04* · [`dailyftlk`](https://www.ft.lk/business/SL-exporters-explore-cutting-edge-food-technology-at-Anuga-FoodTec-Exhibition-in-Germany/34-760165) · `en`
+
+A delegation of nine representatives from Sri Lanka, representing key stakeholders from the Ministry of Agriculture, Elpitiya Plantation, Eastern and Allied Agencies and Hettigoda Industries embarked on a visit to the Anuga FoodTec trade fair in Köln, Germany. Organized by the Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka), this initiative aimed to immerse the delegates in the latest advancements in food production, processing, packaging, and storage.
+
+Anuga FoodTec, which commenced on 19 March 2024, stands as a global leader in showcasing innovations across the entire spectrum of food technology, making it the ultimate destination for industry professionals seeking to stay at the forefront of developments in the field.
+
+...
+
+[Data](articles/708af096.json)
+
+---
+
+### ‘Worky’ aims to revolutionise Sri Lanka’s job market
+
+*2024-04-01 03:38:07* · [`dailyftlk`](https://www.ft.lk/business/Worky-aims-to-revolutionise-Sri-Lanka-s-job-market/34-760164) · `en`
+
+In a significant boost to Sri Lanka’s employment landscape, especially during its challenging economic times, a groundbreaking platform named ‘Worky’ was launched on 20 March.
+
+Designed to bridge the gap between job seekers, part-time workers, students, and service seekers, ‘Worky’ is poised to revolutionise the way people find work and hire for services in Sri Lanka.
+
+At its core, ‘Worky’ is a location-based service platform that allows prospective job seekers and part-time workers, including students, to register free of charge. This innovative app enables service seekers to log in and locate the nearest available worker, facilitating immediate bookings for a wide array of services. From traditional roles like plumbers and carpenters to new-age job functions such as dog walking and pet grooming, ‘Worky’ caters to a diverse range of employment opportunities, directly addressing the varied needs of Sri Lankan households.
+
+...
+
+[Data](articles/c13f817c.json)
+
+---
+
+### Supreme and TNL forge historic partnership
+
+*2024-04-01 03:37:09* · [`dailyftlk`](https://www.ft.lk/business/Supreme-and-TNL-forge-historic-partnership/34-760163) · `en`
+
+Aim to broaden Sinhala electronic media experience in Sri Lanka and fulfil a larger mission
+
+Supreme Media recently announced that it has forged a strategic alliance with TNL, a pioneering force in electronic media in Sri Lanka, to significantly broaden its electronic media offering and experience across the nation.
+
+It said this historic partnership promises to create a momentous chapter in Sinhala language television and electronic media in Sri Lanka by expanding its horizons.
+
+Supreme, one of the nation’s fastest-growing channels, has recently embarked on a new brand journey identified by its inspiring slogan “Mage Handa Mage Rata – My Voice My Country.”
+
+With this strategic alliance in place, the reach of Supreme Media gets expanded to more than double across Sri Lanka, allowing it to connect with a broader spectrum of audience to deliver its unique, premium variety of content and fulfil its inspiring brand commitment.
+
+...
+
+[Data](articles/0b4ad506.json)
+
+---
+
+### EY ASEAN Head visits BOI
+
+*2024-04-01 03:36:30* · [`dailyftlk`](https://www.ft.lk/business/EY-ASEAN-Head-visits-BOI/34-760162) · `en`
+
+Liew Nam Soon Asean Regional Managing Partner as well as EY Singapore and Brunei Managing Partner responsible for business performance and client services across assurance, consulting, tax, strategy and transactions services in 14 geographic markets met with the BOI Chairman Dinesh Weerakkody and BOI and Port City Officials last week to discuss the current investment climate and opportunities. He also serves on the EY Global managing partners board. Duminda Hulangamuwa head EY Sri Lanka and Maldives also participated.
+
+◼️
+
+[Data](articles/47c9db21.json)
+
+---
 
 ### Dhaka Chamber of Commerce and Industry discusses economic cooperation with High Commission of Sri Lanka
 
@@ -43,6 +183,8 @@ During the meeting, DCCI President Ashraf Ahmed appreciated the close bilateral 
 ...
 
 [Data](articles/39b62372.json)
+
+[Extended Data](ext_articles/39b62372.ext.json)
 
 ---
 
@@ -57,6 +199,8 @@ The chief resource person was the Indian Rubber Institute Chairman Dr. R. Mukhop
 ...
 
 [Data](articles/609df672.json)
+
+[Extended Data](ext_articles/609df672.ext.json)
 
 ---
 
@@ -74,6 +218,8 @@ Globally, mediation is fast becoming a preferred method of dispute resolution be
 
 [Data](articles/09aeeef2.json)
 
+[Extended Data](ext_articles/09aeeef2.ext.json)
+
 ---
 
 ### Dr. Pethiyagoda to speak on ‘Cashing in on Climate’ at BALPP 6th Eminence Lecture
@@ -89,6 +235,8 @@ Dr. Pethiyagoda argues for calm, in the face of climate emergency rhetoric. He a
 ...
 
 [Data](articles/1e940b9a.json)
+
+[Extended Data](ext_articles/1e940b9a.ext.json)
 
 ---
 
@@ -2155,189 +2303,5 @@ During a discussion held at the Agriculture Ministry last Friday (29) regarding 
 [Data](articles/9133185d.json)
 
 [Extended Data](ext_articles/9133185d.ext.json)
-
----
-
-### Fuel prices change this way
-
-*2024-03-31 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195128) · `si`
-
-Fuel prices will be revised today, with reductions in 40 octane petrol, Super diesel, and kerosene prices, but no changes for Octane 92 petrol and auto diesel. The revision is due to the strength of the US dollar and lower global crude oil prices.
-
-🟩
-
-Fuel prices are to be revised today.
-
-The Ministry of Power and Energy stated that the fuel prices will be reduced in this year's price revision.
-
-The fuel revision for the month was 40 octane prices in a liter of 35 petrol, the price of a liter of Super diesel and the price of a liter of a liter of kerosene by Rs.
-
-However, there was no revision of Octane 92 petrol and auto diesel.
-
-It is reported that the fuel prices will be reduced in this year's price revision, taking into strength to the US dollar and reducing the price of crude oil prices in the world market.
-
-◼️
-
-[Data](articles/031aeb98.json)
-
-[Extended Data](ext_articles/031aeb98.ext.json)
-
----
-
-### Fire in Nuwara Eliya
-
-*2024-03-31 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195127) · `si`
-
-A fire in Nuwara Eliya's hotel kitchen, suspected to be due to a gas leak, was quickly extinguished by the Maha Municipal Council and local residents. No injuries were reported, but property damage occurred.
-
-🟩
-
-A fire broke out in a hotel in Nuwara Eliya town this afternoon.
-
-The Nuwara Eliya Maha Municipal Council Municipal Council and residents of the area have taken measures to crush the fire expeditiously.
-
-Police suspect that the fire has erupted in the kitchen of the hotel due to a gas leak.
-
-The fire had not been harmed by fire and the property was damaged, police said.
-
-◼️
-
-[Data](articles/3e6dd47f.json)
-
-[Extended Data](ext_articles/3e6dd47f.ext.json)
-
----
-
-### There is a powder species with a strange toffee tattoo blowing in the mouth
-
-*2024-03-31 13:11:44* · [`adalk`](https://www.ada.lk/breaking_news/කට-තුළ-පුපුරා-යන-අමුතු--ටොෆියක්--පච්චක්-එක්ක-කුඩු-විශේෂයකුත්-ඒ-ඇතුලේ/11-408855) · `si`
-
-A powder toffee, blown into children's mouths, is causing addiction in Matale schools. Parents report it bursts in 5 minutes, sometimes in water, and is widely sold in school areas. Authorities suspect it's a drug, affecting children and adults, and call for immediate action.
-
-🟩
-
-School-based Departure in the Matale district emphasizes that school children have become addicted to a blown toffee inside the school children.
-
-Parents say that this toffee species is set in a burst, and it will take for five minutes.
-
-They claimed that some of the opened toffee crashes into a water bowl and stressed that the toffeal was burst in water, even in the water.
-
-The topsies were widely seen in small shops near schools that there was a sticker in toffee.
-
-Departure, which suspected that this toffee species have produced a large number of drugs or any other parts of the country, has been pasted from the small child to the adult school child.
-
-Departure also emphasizes that this toffee species are increasingly for the toffee pasy due to lack of loudness within the mouth and exploded school children.. Parents emphasize the immediate attention to the relevant sectors.
-
-◼️
-
-[Data](articles/b619f4b1.json)
-
-[Extended Data](ext_articles/b619f4b1.ext.json)
-
----
-
-### Devram Vehera Medin maha perahera
-
-*2024-03-31 12:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Devram-Vehera-Medin-maha-perahera/110-279890) · `en`
-
-Medin Maha Perahera of the Pannipitiya Devram Vehera was held last night for the seventeenth time. Inspector General of Police Deshbandu Tennakoon also joined this procession as a guest, which was organized under the guidance of Most Ven. Kolonnawe Siri Sumangala thera.
-
-◼️
-
-[Data](articles/d6804def.json)
-
-[Extended Data](ext_articles/d6804def.ext.json)
-
----
-
-### One injured as Police Sergeant’s pistol accidentally fires in raid
-
-*2024-03-31 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98322/one-injured-as-police-sergeants-pistol-accidentally-fires-in-raid-) · `en`
-
-A 28-year-old person has been injured after the service pistol of a police officer accidentally fired during a raid at an illegal gambling den in the Tissamaharama area.
-
-A team of three police officers attached to Tissamaharama Police were dispatched at around 01.00 a.m. early this morning (31) to the location following a tip-off received by police.
-
-Police said that the suspects had attempted to flee in various directions during the raid. While the police officers were trying to arrest the suspects, a scuffle arose between a Police Sergeant and the injured person where the Police Sergeant’s firearm had accidentally fired injuring the suspect.
-
-The injured 28-year-old has subsequently been admitted to Hambantota Hospital for treatment.
-
-◼️
-
-[Data](articles/71705c57.json)
-
-[Extended Data](ext_articles/71705c57.ext.json)
-
----
-
-### Man shot dead at Tissamaharama
-
-*2024-03-31 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195126) · `si`
-
-In Tissamaharama, a 28-year-old was shot and injured during a police raid on a gambling den. The suspects fled, and the victim was taken to Hambantota Hospital. A special investigation is underway.
-
-🟩
-
-A firearm was injured in a firearm during a raid carried out in the Tissamaharama area.
-
-Police Media Spokesperson DIG Deputy Inspector General of Police (UP)
-
-According to information received by the Tissamaharama police between 12- to 1 pm, three police team has left a team of police to raid a gaming in the area.
-
-Police said the police had fled the gambling with their reach.
-
-Police sergeant and a police sergeant and the victim had been wrestled in their arrest.
-
-The 28-year-old youth who was injured in the firearm has been admitted to the Hambantota Hospital for treatment.
-
-The Tissamaharama police have launched a special investigation into the incident.
-
-◼️
-
-[Data](articles/91b9e9f6.json)
-
-[Extended Data](ext_articles/91b9e9f6.ext.json)
-
----
-
-### Political row in India over RTI report on Indira Gandhi’s ceding of Kachchatheevu to Sri Lanka
-
-*2024-03-31 12:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98321/political-row-in-india-over-rti-report-on-indira-gandhis-ceding-of-kachchatheevu-to-sri-lanka) · `en`
-
-Indian Prime Minister Narendra Modi slammed the Congress party on Sunday over the Katchatheevu island controversy, following a Right To Information (RTI) report revealing the decision of the then-Prime Minister, Indira Gandhi’s government, to hand over the strategic island of Katchatheevu to Sri Lanka in 1974.
-
-Describing the revelation as “eye-opening and startling,” PM Modi accused the grand old party of weakening the country’s integrity and interests.
-
-PM Modi dubbed it a “callous” decision and also said that the handover of Katchatheevu by the Congress government has angered every Indian.
-
-“This has angered every Indian and reaffirmed in people’s minds. We can’t ever trust Congress. Weakening India’s unity, integrity, and interests has been Congress’ way of working for 75 years and counting,” PM Modi wrote on X.
-
-This has angered every Indian and reaffirmed in people’s minds- we can’t ever trust Congress!
-
-...
-
-[Data](articles/9bbda638.json)
-
-[Extended Data](ext_articles/9bbda638.ext.json)
-
----
-
-### ‘Eye opening’: PM Modi lashes out at Congress for giving away Katchatheevu island to Sri Lanka
-
-*2024-03-31 11:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Eye-opening-PM-Modi-lashes-out-at-Congress-for-giving-away-Katchatheevu-island-to-Sri-Lanka/108-279889) · `en`
-
-India, March 31 (Mint) - Prime Minister Narendra Modi on Sunday lashed out at the Congress party over a controversial island, Katchatheevu that was given to Sri Lanka by former Indian Prime Minister Indira Gandhi in 1974. The Katchatheevu island debate has taken centre stage in Tamil Nadu politics as the Lok Sabha election nears.
-
-PM Modi on Sunday cited a report in Times of India that said, 'RTI reply shows how Indira Gandhi ceded the island to Sri Lanka'. The PM on the X platfrom wrote, "Eye-opening and startling! New facts reveal how Congress callously gave away Katchatheevu".
-
-PM Narendra Modi added, "Weakening India’s unity, integrity, and interests has been Congress’ way of working for 75 years and counting".
-
-According to the document obtained by Tamil Nadu's Bharatiya Janata Party (BJP) chief K Annamalai via an RTI application, the Indira Gandhi government in 1974 handed over the Katchatheevu island, located in Palk Strait to Sri Lanka.
-
-...
-
-[Data](articles/6ee3ed42.json)
-
-[Extended Data](ext_articles/6ee3ed42.ext.json)
 
 ---

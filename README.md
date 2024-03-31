@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 16:18:14**
+As of **2024-03-31 16:33:49**
 
 ## Newspaper Stats
 
-*Scraped **16,168** Articles*
+*Scraped **16,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,57 +14,101 @@ dbsjeyarajcom | 201
 newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 885
-islandlk | 899
+islandlk | 900
 adalk | 1,355
 tamilmirrorlk | 1,934
 adaderanalk | 1,952
 virakesarilk | 2,294
-dailymirrorlk | 2,492
+dailymirrorlk | 2,493
 adaderanasinhalalk | 2,615
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,165 (100.0%) of 16,168 articles have been extended.
+16,168 (100.0%) of 16,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### மதுபோட்டியில் வென்றவர் மரணம்
+### Man dies due to sudden illness at spa
+
+*2024-03-31 16:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-dies-due-to-sudden-illness-at-spa/108-279892) · `en`
+
+Colombo, March 31 (Daily Mirror) A 52 year old man who sought the services of an unauthorized spa at Embillawatta on the Dehiwala-Maharagama main road died due to a sudden illness.
+
+The police suspect that the victim may have died due to a heart attack and the Boralesgamuwa Police are conducting further investigations.
+
+◼️
+
+[Data](articles/373879d7.json)
+
+---
+
+### The winner of the liquor bar
 
 *2024-03-31 15:59:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மதுபோட்டியில்-வென்றவர்-மரணம்/76-335405) · `ta`
 
-அதிக மது அருந்தியவரைத் தேர்ந்தெடுப்பதற்காக நடத்தப்பட்ட போட்டியின் போது அதிக அளவு மது அருந்திய மூன்று பிள்ளைகளின் தந்தை உயிரிழந்துள்ளார்.
+Ganesan Ramachandran, a father of three from Marliprai, died after winning a drinking competition at the Annual Chariot Festival. He died from pneumonia and feeding in the neck.
 
-ஹட்டன் பொலிஸ் பிரிவிற்குட்பட்ட லெடண்டி தோட்டத்தின் மார்ல்பிராய் பிரிவில் வசிக்கும் கணேசன் ராமசந்திரன் (வயது 38) என்பவதே உயிரிழந்துள்ளார் இவர், மூன்று பிள்ளைகளின் தந்தையாவர்..
+🟩
 
-தோட்ட கோவிலில், மார்ச் 27ஆம் திகதி வருடாந்திர தேர் திருவிழா நடைபெற்றது, இதில் கலந்து கொண்ட இளைஞர்கள் குழுவினர் அதிக அளவில் மது அருந்துபவர்களை தேர்வு செய்யும் போட்டியை நடத்தினர்.
+The father of three children who had been drunk during the competition to choose the most alcoholic drinker has died.
 
-அதே தோட்டத்தில் வசிக்கும் 3 பேர் கலந்து கொண்ட இப்போட்டியில், மூன்று 750 மில்லி மதுபாட்டில்கள் வழங்கப்பட்டு, குறைந்த நேரத்தில் மது பாட்டில் குடிப்பவரை வெற்றியாளராக தேர்வு செய்ய திட்டமிடப்பட்டுள்ளது.
+Ganesan Ramachandran (age 38), who lives in the Marliprai section of the Ledandi estate, belonging to the Hatton Police Division, is the father of three children.
 
-போட்டியில் பங்கேற்று வெற்றியீட்டியதன் பின்னர், இரவு வீட்டுக்கு வந்த தனது தந்தை இரவு உணவு சாப்பிட்டுவிட்டு அதிகாலை (28) தூக்கத்திலேயே உயிரிழந்ததாக பிரேத பரிசோதனையில் தெரிவித்துள்ளார்.
+The Annual Chariot Festival was held on March 27 at the estate temple, where a group of youths participated in the competition to select a large number of alcoholics.
+
+Three people living in the same garden will be provided with three 750ml of breweries and are planned to be the winner of the wine bottle in a short time.
+
+An autopsy revealed that his father, who had come home at night, died in the morning (28) after she won the competition.
+
+The other person who participated in the competition was taken to the Klankan-Dikoya Primary Hospital and transferred to the Nawalapitiya District General Hospital for further treatment.
+
+Ganesan Ramachandran has died due to pneumonia fever and feeding in the neck.
 
 ...
 
 [Data](articles/e11681ab.json)
 
+[Extended Data](ext_articles/e11681ab.ext.json)
+
 ---
 
-### புதிய வரியொன்று அறிமுகப்படுத்தப்பட உள்ளது
+### Russian Presidential Election results
+
+*2024-03-31 15:58:00* · [`islandlk`](http://island.lk/russian-presidential-election-results/) · `en`
+
+Russia is exultant about the outcome of the Presidential election. The poll was 77% of the electorate and Putin secured 87% of the votes cast; a landslide on both counts. The voting was not rigged; why upset the show when you have this kind of triumph to your credit? To what extent Russia is democratic is a separate matter that I will discuss later on. Russians are enjoying themselves mocking America and the West: “When has your President ever won 87% of the vote in a poll where 77% of the electorate participated?” Actually, never since 1904 has the turnout at a US election exceeded 66% and, in any case direct comparison in not possible because of the American “Electoral College System”.
+
+...
+
+[Data](articles/4b5d6636.json)
+
+[Extended Data](ext_articles/4b5d6636.ext.json)
+
+---
+
+### A new line is to be introduced
 
 *2024-03-31 15:54:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-வரியொன்று-அறிமுகப்படுத்தப்பட-உள்ளது/175-335404) · `ta`
 
-விவசாயிகளைப் பாதுகாக்கும் நோக்கில் புதிய வரியொன்று அறிமுகப்படுத்தப்படவுள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+Finance Minister Ranjith Siyambalapitiya announced a new line to protect farmers, with the tax cancellation planned for January, but warned that high-value goods may not be exempted.
 
-விசேட பண்டங்கள் வரி எதிர்வரும் ஜனவரி மாதம் முதல் இரத்து செய்யப்படுவதுடன் இந்த நடவடிக்கை எடுக்கப்படுவதாக இராஜாங்க அமைச்சர் கூறியுள்ளார்.
+🟩
 
-எவ்வாறாயினும், வரி அமுல்படுத்தப்படும் காலத்தில் நாட்டில் காணப்படும் பொருட்களுக்கு அதிக பெறுமதி வழங்கப்படுவதால், மக்களுக்கான நிவாரணம் கிடைக்காமல் போகலாம் எனவும் நிதி இராஜாங்க அமைச்சர் கூறியுள்ளார். R
+Finance Minister Ranjith Siyambalapitiya has said that a new line will be introduced to protect the farmers.
+
+The Minister of State has said that the tax will be canceled from January next year.
+
+However, the Minister of Finance has said that the high value of goods in the country during the implementation of the tax may not be relieved for the people.. Remble
 
 ◼️
 
 [Data](articles/3b613bdd.json)
+
+[Extended Data](ext_articles/3b613bdd.ext.json)
 
 ---
 
@@ -110,21 +154,27 @@ President Ranil Wickremesinghe made this statement while addressing the 20th Rai
 
 ---
 
-### තරෙගට මත්පැන් බී තිදරු පියා ජිවිතක්ෂයට
+### Licensing father BB to be killed
 
 *2024-03-31 15:10:41* · [`adalk`](https://www.ada.lk/breaking_news/තරෙගට-මත්පැන්-බී-තිදරු-පියා-ජිවිතක්ෂයට/11-408858) · `si`
 
-වැඩිම මත්පැන් පානය කිරිමේ පුද්ගලයා තේරිම සදහා පැවැත් වු තරගයක් අතරතුරදි වැඩිම මත්පැන් ප්‍රමාණයක් පානය කල තිදරු පියෙකු ජිවිතක්ෂයට පත් වි ඇත. මෙසේ ජිවිතක්ෂයට පත් වි ඇත්තේ හැටන් පොලිස් වසමට අයත් ලෙදන්ටි වතුයායේ මාල්බ්‍රෝ කොටසේ පදිංචි ගනේෂන් රාමචන්ද්‍රන් නැමති (39) හැවිරිදි තිදරු පියෙකි.
+Three residents of Hatton Police Division died from alcohol poisoning. A post-mortem revealed Newmania fever as the cause of death.
 
-ඉකුත් (27) දින රාත්‍රියේ එම වතුයායේ හින්දු කොවිලේ වාර්ෂික තේරු උත්සවය පවත්වා ඇති අතර, එම උත්සවයට සහභාගි වු තරුණ පිරිසක් එක්ව වැඩිම මත්පැන් ප්‍රමාණය පානය කරන පුද්ගලයා තේරිම තරගයක් පවත්වා ඇත.
+🟩
 
-එම තරගයට එම වතුයායේම පදිංචි පුද්ගලයන් තිදෙනෙකු ඉදිරිපත් වි ඇති අතර , ඒ සදහා මිලිලිටර් 750 මත්පැන් බෝතල් තුනක් ලබා දි ඇති අතර , එහිදි අඩුම කාලයකින් මත්පැන් බෝතලය පානය කරන පුද්ගලයා ජයග්‍රහකයා ලෙස තොරා ගැනිමට සැලසුම් කර ඇත.
+A large number of three drunken person has been killed in a large number of alcohol. The victim was a resident of the Hatton Police Division, a resident of the Hatton Police Division, a residents of the Hatton Police Division.
 
-එම තරගයෙන් ජයග්‍රහණය කල තරගයට ඉදිරිපත් විමට පෙර සිටම අධික ලෙස මත්පැන් පානය කර සිටි බව එම වතුයායේ වතු කම්කරුවන් පැවසිය. රාත්‍රියේ නිවසට පැමිණි තම පියා රාත්‍රි ආහාර ගෙන නින්දට ගිය පසු (28) දින අලුයම නින්දේම ජිවිතක්ෂයට පත් වි ඇති බවයි මියගිය තිදරු පියාගේ වැඩිමහල් දියණිය මරණ පරික්ෂණයේදි පවසා ඇත්තේ.
+The estate was held at the estate last night, and a group of young people who drink the largest alcohol have played the highest number of alcohol.
+
+Three of the people of the estate place have been submitted and three milletars have been submitted and 350 millilitar has been provided with alcohol bottles.
+
+Plantation workers said that he had been drinking heavy alcohol before the matching match. The father of the oldest daughter of the elder daughter of the eldest daughter of the elder daughter of the elder daughter of the elder daughter of the older daughter has been killed when his father had come to her house night.
 
 ...
 
 [Data](articles/b543a469.json)
+
+[Extended Data](ext_articles/b543a469.ext.json)
 
 ---
 
@@ -1698,6 +1748,18 @@ As the two Sri Lankans retreated under fire, another wave of Ukrainian drones st
 
 ---
 
+### Hoteliering
+
+*2024-03-30 22:39:00* · [`islandlk`](http://island.lk/hoteliering/) · `en`
+
+G.E.B. Milhuissen, who owned a thriving timber firm named Cetrac, in Peliyagoda had been a friend and business associate of Jeramius, a client purchasing large quantities for his projects. Geoffrey Bawa, still in the early stages of the architectural career that would make him world-famous, had been another. Together, Milhuissen and Bawa had built the Blue Lagoon Hotel, in Talahena, Negombo in 1965 – the first modern resort hotel to be built in Sri Lanka. Kept reliably filled with guests by a Scandinavian charter-tour operator, Vingresor, the Blue Lagoon had turned out to be a very profitable investment. By 1971 Milhuissen was keen on expanding.
+
+...
+
+[Data](articles/7f1fc8b4.json)
+
+---
+
 ### The story of rice and some controversial predictions from the developed world
 
 *2024-03-30 22:25:00* · [`islandlk`](http://island.lk/the-story-of-rice-and-some-controversial-predictions-from-the-developed-world/) · `en`
@@ -1813,20 +1875,6 @@ Steps have been taken to increase the amount of gifts for the developmental lott
 [Data](articles/023a8d4d.json)
 
 [Extended Data](ext_articles/023a8d4d.ext.json)
-
----
-
-### Russian Presidential Election results
-
-*2024-03-30 21:08:00* · [`islandlk`](http://island.lk/russian-presidential-election-results/) · `en`
-
-Russia is exultant about the outcome of the Presidential election. The poll was 77% of the electorate and Putin secured 87% of the votes cast; a landslide on both counts. The voting was not rigged; why upset the show when you have this kind of triumph to your credit? To what extent Russia is democratic is a separate matter that I will discuss later on. Russians are enjoying themselves mocking America and the West: “When has your President ever won 87% of the vote in a poll where 77% of the electorate participated?” Actually, never since 1904 has the turnout at a US election exceeded 66% and, in any case direct comparison in not possible because of the American “Electoral College System”.
-
-...
-
-[Data](articles/4b5d6636.json)
-
-[Extended Data](ext_articles/4b5d6636.ext.json)
 
 ---
 
@@ -2195,49 +2243,5 @@ The deceased has been identified as a 50 year old and he was admitted to the Rag
 [Data](articles/bbb4dca3.json)
 
 [Extended Data](ext_articles/bbb4dca3.ext.json)
-
----
-
-### Police landed on the street in fairy tale
-
-*2024-03-30 17:08:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசித்திர-உடையில்-வீதிக்கு-இறங்கிய-பொலிஸார்/175-335369) · `ta`
-
-Police officers in unconventional attire conducted a special traffic test in Mahiyanganaya, Kandy, from 8 am to 12 pm, involving 240 Vocational Training Police Officers. The test aimed to provide practical experience to trainees at the Mahiyanganaya Mabagadawewa Police Training School.
-
-🟩
-
-The dress of police officers who were involved in the raid today (30) near the Mahaweli Bridge on the main road of Mahiyanganaya - Kandy.
-
-A special traffic test was implemented by wearing clothing that is usually not seen by people from 8.00 am to 12.00 pm.
-
-The 240 Vocational Training Police Officers, who are training at the Mahiyanganaya Mabagadawewa Police Training School, have joined together to test the traffic and the public for drug tests.
-
-The tests were held at six locations - Rithimaliatta, Ekirian Kumbura, Localyao, Tambana 51 Milestone, near the Verakantota Bridge.
-
-The purpose of this is to provide the practical experience of the study to training officers. Remble
-
-◼️
-
-[Data](articles/1491df54.json)
-
-[Extended Data](ext_articles/1491df54.ext.json)
-
----
-
-### Emergency notice to the people by weather
-
-*2024-03-30 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195109) · `si`
-
-"Emergency notice: High heat levels expected in several areas tomorrow (31)."
-
-🟩
-
-The warming of the human body is at a level of heat at a number of areas tomorrow (31).
-
-◼️
-
-[Data](articles/851d6061.json)
-
-[Extended Data](ext_articles/851d6061.ext.json)
 
 ---

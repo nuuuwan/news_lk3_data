@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 16:03:24**
+As of **2024-03-31 16:18:14**
 
 ## Newspaper Stats
 
-*Scraped **16,164** Articles*
+*Scraped **16,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,80 @@ newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 885
 islandlk | 899
-adalk | 1,354
-tamilmirrorlk | 1,932
+adalk | 1,355
+tamilmirrorlk | 1,934
 adaderanalk | 1,952
 virakesarilk | 2,294
 dailymirrorlk | 2,492
-adaderanasinhalalk | 2,614
+adaderanasinhalalk | 2,615
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,164 (100.0%) of 16,164 articles have been extended.
+16,165 (100.0%) of 16,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### மதுபோட்டியில் வென்றவர் மரணம்
+
+*2024-03-31 15:59:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மதுபோட்டியில்-வென்றவர்-மரணம்/76-335405) · `ta`
+
+அதிக மது அருந்தியவரைத் தேர்ந்தெடுப்பதற்காக நடத்தப்பட்ட போட்டியின் போது அதிக அளவு மது அருந்திய மூன்று பிள்ளைகளின் தந்தை உயிரிழந்துள்ளார்.
+
+ஹட்டன் பொலிஸ் பிரிவிற்குட்பட்ட லெடண்டி தோட்டத்தின் மார்ல்பிராய் பிரிவில் வசிக்கும் கணேசன் ராமசந்திரன் (வயது 38) என்பவதே உயிரிழந்துள்ளார் இவர், மூன்று பிள்ளைகளின் தந்தையாவர்..
+
+தோட்ட கோவிலில், மார்ச் 27ஆம் திகதி வருடாந்திர தேர் திருவிழா நடைபெற்றது, இதில் கலந்து கொண்ட இளைஞர்கள் குழுவினர் அதிக அளவில் மது அருந்துபவர்களை தேர்வு செய்யும் போட்டியை நடத்தினர்.
+
+அதே தோட்டத்தில் வசிக்கும் 3 பேர் கலந்து கொண்ட இப்போட்டியில், மூன்று 750 மில்லி மதுபாட்டில்கள் வழங்கப்பட்டு, குறைந்த நேரத்தில் மது பாட்டில் குடிப்பவரை வெற்றியாளராக தேர்வு செய்ய திட்டமிடப்பட்டுள்ளது.
+
+போட்டியில் பங்கேற்று வெற்றியீட்டியதன் பின்னர், இரவு வீட்டுக்கு வந்த தனது தந்தை இரவு உணவு சாப்பிட்டுவிட்டு அதிகாலை (28) தூக்கத்திலேயே உயிரிழந்ததாக பிரேத பரிசோதனையில் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/e11681ab.json)
+
+---
+
+### புதிய வரியொன்று அறிமுகப்படுத்தப்பட உள்ளது
+
+*2024-03-31 15:54:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-வரியொன்று-அறிமுகப்படுத்தப்பட-உள்ளது/175-335404) · `ta`
+
+விவசாயிகளைப் பாதுகாக்கும் நோக்கில் புதிய வரியொன்று அறிமுகப்படுத்தப்படவுள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+விசேட பண்டங்கள் வரி எதிர்வரும் ஜனவரி மாதம் முதல் இரத்து செய்யப்படுவதுடன் இந்த நடவடிக்கை எடுக்கப்படுவதாக இராஜாங்க அமைச்சர் கூறியுள்ளார்.
+
+எவ்வாறாயினும், வரி அமுல்படுத்தப்படும் காலத்தில் நாட்டில் காணப்படும் பொருட்களுக்கு அதிக பெறுமதி வழங்கப்படுவதால், மக்களுக்கான நிவாரணம் கிடைக்காமல் போகலாம் எனவும் நிதி இராஜாங்க அமைச்சர் கூறியுள்ளார். R
+
+◼️
+
+[Data](articles/3b613bdd.json)
+
+---
+
+### Sri Lanka's strong challenge
+
+*2024-03-31 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195133) · `si`
+
+Sri Lanka's second Test against Bangladesh saw them bowled out for 531. Kumindu Mendis scored 92, Kusal Mendis 93, and Dinesh Chandimal 59.
+
+🟩
+
+The first innings of the second Test against Bangladesh were bowled out for 531 before a few days ago.
+
+Kumindu Mendis, who played a premier innings, scored 92 runs.
+
+Kusal Mendis scored 93 runs and Dinesh Chandimal scored 59 runs and Dinesh Chandimal scored 59 runs.
+
+◼️
+
+[Data](articles/00ba2aa9.json)
+
+[Extended Data](ext_articles/00ba2aa9.ext.json)
+
+---
 
 ### Govt to support production of Sri Lanka’s first AI film – President
 
@@ -49,6 +107,24 @@ President Ranil Wickremesinghe made this statement while addressing the 20th Rai
 [Data](articles/7d0dec05.json)
 
 [Extended Data](ext_articles/7d0dec05.ext.json)
+
+---
+
+### තරෙගට මත්පැන් බී තිදරු පියා ජිවිතක්ෂයට
+
+*2024-03-31 15:10:41* · [`adalk`](https://www.ada.lk/breaking_news/තරෙගට-මත්පැන්-බී-තිදරු-පියා-ජිවිතක්ෂයට/11-408858) · `si`
+
+වැඩිම මත්පැන් පානය කිරිමේ පුද්ගලයා තේරිම සදහා පැවැත් වු තරගයක් අතරතුරදි වැඩිම මත්පැන් ප්‍රමාණයක් පානය කල තිදරු පියෙකු ජිවිතක්ෂයට පත් වි ඇත. මෙසේ ජිවිතක්ෂයට පත් වි ඇත්තේ හැටන් පොලිස් වසමට අයත් ලෙදන්ටි වතුයායේ මාල්බ්‍රෝ කොටසේ පදිංචි ගනේෂන් රාමචන්ද්‍රන් නැමති (39) හැවිරිදි තිදරු පියෙකි.
+
+ඉකුත් (27) දින රාත්‍රියේ එම වතුයායේ හින්දු කොවිලේ වාර්ෂික තේරු උත්සවය පවත්වා ඇති අතර, එම උත්සවයට සහභාගි වු තරුණ පිරිසක් එක්ව වැඩිම මත්පැන් ප්‍රමාණය පානය කරන පුද්ගලයා තේරිම තරගයක් පවත්වා ඇත.
+
+එම තරගයට එම වතුයායේම පදිංචි පුද්ගලයන් තිදෙනෙකු ඉදිරිපත් වි ඇති අතර , ඒ සදහා මිලිලිටර් 750 මත්පැන් බෝතල් තුනක් ලබා දි ඇති අතර , එහිදි අඩුම කාලයකින් මත්පැන් බෝතලය පානය කරන පුද්ගලයා ජයග්‍රහකයා ලෙස තොරා ගැනිමට සැලසුම් කර ඇත.
+
+එම තරගයෙන් ජයග්‍රහණය කල තරගයට ඉදිරිපත් විමට පෙර සිටම අධික ලෙස මත්පැන් පානය කර සිටි බව එම වතුයායේ වතු කම්කරුවන් පැවසිය. රාත්‍රියේ නිවසට පැමිණි තම පියා රාත්‍රි ආහාර ගෙන නින්දට ගිය පසු (28) දින අලුයම නින්දේම ජිවිතක්ෂයට පත් වි ඇති බවයි මියගිය තිදරු පියාගේ වැඩිමහල් දියණිය මරණ පරික්ෂණයේදි පවසා ඇත්තේ.
+
+...
+
+[Data](articles/b543a469.json)
 
 ---
 
@@ -2163,89 +2239,5 @@ The warming of the human body is at a level of heat at a number of areas tomorro
 [Data](articles/851d6061.json)
 
 [Extended Data](ext_articles/851d6061.ext.json)
-
----
-
-### Audit report recommends CAA to increase raids against MRP violations
-
-*2024-03-30 16:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98309/audit-report-recommends-caa-to-increase-raids-against-mrp-violations) · `en`
-
-The National Audit Office has made recommendations to the Consumer Affairs Authority (CAA) to increase the number of raids on traders selling beyond the Maximum Retail Price (MRP) as well as on importers and wholesalers.
-
-This was mentioned in a new report published by the audit office, with respect to the contribution of CAA in protecting the consumer. This audit was conducted to evaluate how the CAA has performed to implement the provisions of the Consumer Affairs Act and achieve the objectives mentioned in the legislation.
-
-The audit office has observed that the actual number of raids carried out during the period from 2018 to 2022 was lower than the target number – in the range of 56% to 74%.
-
-It was also observed that it took more than 2 years to file cases for 3,616 raids out of 3,715 raids carried out from 2018 to 31 December 2021, the report revealed.
-
-...
-
-[Data](articles/bf13c7bb.json)
-
-[Extended Data](ext_articles/bf13c7bb.ext.json)
-
----
-
-### On the Path to Excellence
-
-*2024-03-30 16:40:30* · [`dailyftlk`](https://www.ft.lk/business/On-the-Path-to-Excellence/34-760117) · `en`
-
-Embarking on the journey towards excellence, ACE Apparels Pvt Ltd in Koggala, awarded for the second consecutive year, and Aitken Spence Garments Pvt Ltd in Matugama have been awarded for the esteemed CPM Best Management Practices Company Awards in 2024. Within the dynamic realm of business, where competition abounds and innovation reigns supreme, the companies understand that surpassing expectations necessitates a comprehensive commitment to excellence.
-
-ACE Apparels and Aitken Spence Garments stand at the forefront of industry recognition. Their nominations highlight not only their prowess in the apparel sector but also their innovative management strategies aimed at enhancing both productivity and employee welfare.
-
-...
-
-[Data](articles/ae1f89f5.json)
-
-[Extended Data](ext_articles/ae1f89f5.ext.json)
-
----
-
-### Sri Lanka collapses for 4 runs
-
-*2024-03-30 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195108) · `si`
-
-Sri Lanka collapsed to 4 runs in the second Test against Bangladesh, after winning the toss and scoring 314 runs.
-
-🟩
-
-The second and final Test match between Sri Lanka and Bangladesh began at the Chartogram in Bangladesh today.
-
-Sri Lanka won the toss and decided to bat first.
-
-Sri Lanka scored four wickets in scope and scored 314 runs in the event.
-
-◼️
-
-[Data](articles/b42a33c4.json)
-
-[Extended Data](ext_articles/b42a33c4.ext.json)
-
----
-
-### Two lives in two places to the same train
-
-*2024-03-30 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195107) · `si`
-
-In Ragama, two accidents involving a train from Kandy to Colombo Fort resulted in two deaths. One at Ragama railway crossing and another in Tudugedara. The train, a 24-year-old, collided with a closed gate, and a 50-year-old man in Tudugedara committed suicide.
-
-🟩
-
-Two persons were killed in two locations in the Ragama area collided with the train traveling from Kandy to Colombo Fort.
-
-The two accidents occurred at Ragama railway crossing and in Tudugedara in Ragama.
-
-The train, a 24-year-old youth collided with the train while the railway gate was closed today (30).
-
-A person has committed suicide in the Ragama Tudugedara area in Ragama.
-
-The deceased is a 50 year old man and his identity has not yet been established.
-
-◼️
-
-[Data](articles/a99117ee.json)
-
-[Extended Data](ext_articles/a99117ee.ext.json)
 
 ---

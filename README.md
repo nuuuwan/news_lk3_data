@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 10:50:57**
+As of **2024-03-31 11:03:09**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 2,604
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,123 (100.0%) of 16,125 articles have been extended.
+16,125 (100.0%) of 16,125 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### පොහොට්ටුවේ විනය හදන්න සනත් නිශාන්තගේ බිරිදත් එක්කර ගනී
+### Sanath Nishantha's wife adds to discipline in the pointer
 
 *2024-03-31 10:13:40* · [`adalk`](https://www.ada.lk/breaking_news/පොහොට්ටුවේ-විනය-හදන්න-සනත්-නිශාන්තගේ-බිරිදත්-එක්කර-ගනී/11-408853) · `si`
 
-හදිසි අනතුරකින් මිය ගිය හිටපු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ බිරිඳ  නීතිඥ චමරි පෙරේරා මහත්මියට ශ්‍රි ලංකා පොදු ජන පෙරමුණේ විනය මණ්ඩලයේ සමාජිකවක් ලෙස පත්කර තිබේ.
+Sanath Nishantha, a former State Minister, was appointed to the Sri Lanka Filling Council's disciplinary board, despite his death in an accident. The President's Counsel and the General Secretary of the Public Fived of Sri Lanka (CHOGM) confirmed the appointment, with seven members on the board.
 
-එම විනය මණ්ඩලයේ ප්‍රධානීන් ලෙස ජනාධිපති නීතිඥ රසීක් ශාරුක් සහ ඩබ්ලිව්. දයාරත්න යන මහත්වරුන් පත්කළ බව ශ්‍රි ලංකා පොදු ජන පෙරමුණේ ප්‍රධාන ලේකම් සාගර කාරියවසම් මහතා සඳහන් කළේය. එම මණ්ඩලයේ සාමාජිකයින් හත්දෙනකු පත්කර ඇති අතර ඒ සඳහා පාර්ලිමේන්තු මන්ත්‍රීවරුන් පත්නොකිරීමට කීරණය කළ බව ඔහු පැවසීය.
+🟩
+
+Former State Minister Sanath Nishantha, who died in an accident, has been appointed as a consecutive of the disciplinary board of the Sri Lanka Filling Council.
+
+President's Counsel Raceek Shahjk Shahjuk and W. General Secretary of the General Secretary of the Public Fived of Sri Lanka (CHOGM) stated that Dayaratne was appointed. He said seven members of the board have been appointed to do not appointment.
 
 ◼️
 
 [Data](articles/dd358b21.json)
+
+[Extended Data](ext_articles/dd358b21.ext.json)
 
 ---
 
@@ -90,6 +96,26 @@ The deceased is a 66 year old woman who was living in the Uzgalazambuwa area in 
 
 ---
 
+### Fuel prices rise in the world market!
+
+*2024-03-31 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180042) · `ta`
+
+Global fuel prices increase. Front Crude Oil Barrel now costs $87, while US W.T.I crude oil barrel is $83.17, a 2.24% increase.
+
+🟩
+
+Accordingly, the price of a Front Crude Oil Barrel is $ 87.
+
+The price of a US W.T.I crude oil barrel is $ 83.17. This is more than 2.24 percent.
+
+◼️
+
+[Data](articles/24cbe2cf.json)
+
+[Extended Data](ext_articles/24cbe2cf.ext.json)
+
+---
+
 ### Man hospitalized after police shooting in Ranminithenna
 
 *2024-03-31 10:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-hospitalized-after-police-shooting-in-Ranminithenna/108-279886) · `en`
@@ -103,6 +129,8 @@ A group of police officers conducted a raid in the Ranminithenna area early this
 ◼️
 
 [Data](articles/d5797e68.json)
+
+[Extended Data](ext_articles/d5797e68.ext.json)
 
 ---
 
@@ -167,26 +195,6 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/99bd24a0.json)
 
 [Extended Data](ext_articles/99bd24a0.ext.json)
-
----
-
-### Fuel prices rise in the world market!
-
-*2024-03-31 09:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180042) · `ta`
-
-Global fuel prices increase. Front Crude Oil Barrel now costs $87, while US W.T.I crude oil barrel is $83.17, a 2.24% increase.
-
-🟩
-
-Accordingly, the price of a Front Crude Oil Barrel is $ 87.
-
-The price of a US W.T.I crude oil barrel is $ 83.17. This is more than 2.24 percent.
-
-◼️
-
-[Data](articles/24cbe2cf.json)
-
-[Extended Data](ext_articles/24cbe2cf.ext.json)
 
 ---
 

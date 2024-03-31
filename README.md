@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 15:17:54**
+As of **2024-03-31 15:33:39**
 
 ## Newspaper Stats
 
-*Scraped **16,159** Articles*
+*Scraped **16,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,126 @@ economynextcom | 885
 islandlk | 899
 adalk | 1,353
 tamilmirrorlk | 1,932
-adaderanalk | 1,951
+adaderanalk | 1,952
 virakesarilk | 2,294
 dailymirrorlk | 2,492
-adaderanasinhalalk | 2,611
+adaderanasinhalalk | 2,614
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,158 (100.0%) of 16,159 articles have been extended.
+16,159 (100.0%) of 16,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### ප්‍රේෂර් පම්පය අල්ලා මරුමුවට පත් සිද්ධියට මිතුරන් දෙදෙනා රිමාන්ඩ්
+### Govt to support production of Sri Lanka’s first AI film – President
+
+*2024-03-31 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98324/govt-to-support-production-of-sri-lankas-first-ai-film-president) · `en`
+
+President Ranil Wickremesinghe stated that the outmoded film corporation would be transformed using modern technology, and it would be developed into a film and teledrama industries development company in Sri Lanka.
+
+Also, President Wickremesinghe highlighted the importance of providing foreign training opportunities to artists and production designers. This measure seeks to equip them with the latest technological knowledge, emphasizing the need for the film and teledrama industries to embrace modern advancements for future progress.
+
+He further mentioned that artificial intelligence (AI) technology has integrated into the global film industry, and moving forward, the government will extend support for the production of Sri Lanka’s first AI film.
+
+President Ranil Wickremesinghe made this statement while addressing the 20th Raigam Tele’es Awards ceremony held at the Shangri-La Hotel in Colombo yesterday (30).
+
+...
+
+[Data](articles/7d0dec05.json)
+
+---
+
+### කඩාවැටුණු පාලම ගැන අලුත් ආරංචියක්
+
+*2024-03-31 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195132) · `si`
+
+අමෙරිකාවේ බැල්ටිමෝ හි පැටැප්ස්කෝ ගංගාව ඔස්සේ යාත්‍රා කරමින් පැවති ද ඩාලි බහාලුම් ප්‍රවාහන නෞකාව ගැටී ෆ්‍රැන්සිස් ස්කොට් කී පාලම සම්පූර්ණයෙන්ම කඩා වැටුණේ පසුගිය 26 වැනිදාය.
+
+අනතුරින් පසුව නෞකාවේ සහ කඩා වැටුණු පාලමේ සුන්බුන් ඉවත් කිරීමේ මෙහෙයුම් මේ වනවිට ආරම්භ වී තිබේ.
+
+එය සිදු කෙරෙන්නේ, ටොන් දහසක් එසවිය හැකි අමෙරිකාවේ විශාලතම දොඹකරයක් වන චෙසපීක් වන් තවුසන් (Chesapeake 1000) දොඹකරය යොදා ගනිමිනි.
+
+සුන්බුන් ඉවත් කිරීමේ මෙහෙයුම් සඳහා තවත් පාවෙන දොඹකර 7ක්, ඇදගෙන යාම සඳහා භාවිත කරන යාත්‍රා 10ක්, පාරු 9ක්, මුදා ගැනීමේ යාත්‍රා 8ක් සහ වෙරළාරක්ෂක බෝට්ටු 5ක් ද යොදා ගැනීම බලධාරීන්ගේ සැලසුම වී තිබේ.
+
+ෆ්‍රැන්සිස් ස්කෝට් කී පාලමේ වානේ ටොන් 3,000ත් 4.000ත් අතර ප්‍රමාණයක්මේ වනවිට බාහලුම් නෞකාව මතට වැටී ඇති හෙයින් සුන්බුන් ඉවත් කිරීම අභියෝගයක් බව බලධාරීන් පවසයි.
+
+ඒ අනුව, වානේ, කොටස් වශයෙන් කපා ඉවත් කිරීම ඔවුන්ගේ සැලසුම වි ඇති බවත්පළමු වානේ කොටස කපා ඉවත් කිරීමට දින කිහිපයක් ගතවනු ඇති බවත් සඳහන්ය.
+
+...
+
+[Data](articles/5b28d415.json)
+
+---
+
+### මේක තමයි හොඳම ටෙලිනාට්‍ය - ජනපති
+
+*2024-03-31 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195131) · `si`
+
+ලංකාවේ හොඳම ටෙලිනාට්‍යය පාර්ලිමේන්තු විකාශය බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ ඊයේ (30) රාත්‍රියේ කොළඹ ෂැංග්‍රිලා හෝටලයේ දී පැවති 20 වැනි රයිගම් ටෙලීස් සම්මාන උළෙල අමතමිනි.
+
+යල් පැන ගිය චිත්‍රපට සංස්ථාව නවීන තාක්ෂණය සමඟ පරිවර්තනයකට ලක් කරමින් එය මෙරට චිත්‍රපට සහ ටෙලිනාට්‍ය සංවර්ධන ආයතනයක් ලෙස ගොඩනඟන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ඒ සමඟම කලා ශිල්පීන් සහ නිර්මාණවේදීන් නවීන තාක්ෂණ දැනුමෙන් සවිබල ගැන්වීම සඳහා විදෙස් පුහුණු අවස්ථා සලසා දෙන බවද පැවසූ ජනාධිපතිවරයා නවීන තාක්ෂණය සමඟ ඉදිරියටයාමට චිත්‍රපට සහ ටෙලිනාට්‍ය කලාව ද සූදානම් කළ යුතු බව පෙන්වා දුන්නේය.
+
+කෘත්‍රීම බුද්ධිය හෙවත් AI තාක්ෂණය අද ලෝක චිත්‍රපට කලාවට එක්වී තිබෙන අතර ඒ සමඟ ඉදිරියට යමින් ශ්‍රී ලංකාවේ ද පළමු AI චිත්‍රපටය නිෂ්පාදනය කිරීමට රාජ්‍ය අනුග්‍රහය ලබා දෙන බව ද ජනාධිපතිවරයා ප්‍රකාශ කළේය.
+
+සම්මාන උළෙල ඇමතූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා දැක්වූ අදහස් පහතින්,
+
+...
+
+[Data](articles/08d53e8e.json)
+
+---
+
+### රජයෙන් අලුත් දිරි දීමනාවක්
+
+*2024-03-31 14:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195130) · `si`
+
+ප්‍රාදේශීය ලේකම් කාර්යාලවලට අනුයුක්ත මාණ්ඩලික නිලධාරීන් සඳහා විශේෂ මාසික දිරි දීමනාවක් ලබාදීමට රජය තීරණය කර තිබේ.
+
+මාර්තු මාසයේ සිට දෙසැම්බර් මාසය දක්වා මාස 10 ක කාලසීමාවක් සඳහා එම දිරිදීමනාව ලබාදීමට නියමිත බව වාර්තා වෙයි.
+
+මෙම මස 11 වනදා පැවති කැබිනට් රැස්වීමේ දී ඒ සඳහා අනුමැතිය හිමිව ඇති අතර ඊට අදාළ චක්‍රලේඛය රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යංශ ලේකම්වරයා විසින් නිකුත් කර තිබේ.
+
+ඊට අමතරව සහකාර ප්‍රාදේශීය ලේකම්, සහකාර අධ්‍යක්ෂ හා ගණකාධිකාරී යන තනතුරු සඳහා රුපියල් 10,000 බැගින් මාසික දීමනාවක් හිමිවනු ඇත.
+
+මෙම දීමනා ගෙවීම සඳහා අවශ්‍ය ප්‍රතිපාදන මේ වසරේ විමධ්‍යගත අයවැය වැඩසටහන ක්‍රියාත්මක කිරීම සඳහා දැනට වෙන් කර ඇති ප්‍රතිපාදනවල පරිපාලන වියදම්වලින් සලසා ගත යුතු බව රාජ්‍ය පරිපාලන අමාත්‍යංශය දැනුම් දී ඇත.
+
+රජයේ සංවර්ධන යාන්ත්‍රණයේ ප්‍රාදේශීය කේන්ද්‍රස්ථානය වන ප්‍රාදේශීය ලේකම් කාර්යාල සවිබල ගැන්වීම අරමුණු කරගනමින් එම විශේෂ මාසික දිරි දීමනාව ලබාදීම සිදුවෙයි.
+
+◼️
+
+[Data](articles/38897b97.json)
+
+---
+
+### Two friends remanded for capturing Retir Pump
 
 *2024-03-31 14:33:07* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රේෂර්-පම්පය-අල්ලා-මරුමුවට-පත්-සිද්ධියට-මිතුරන්-දෙදෙනා-රිමාන්ඩ්/11-408856) · `si`
 
-මාබිම ප්‍රදේශයේ පුද්ගලික ආයතනයක සේවා  අංශයේ සේවකයෙකුගේ ගුද මාර්ගයට හුලං බටයක් ඇල්ලීමෙන් මරුමුවට පත්වු සිද්ධිය සම්බන්ධව අත් අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කර සිටි  එම ආයතනයේම සේවකයින් දෙදෙනෙකු තවදුරටත් ලබන  අප්‍රේල් මස 05 වැනිදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තැබීමට මහර අංක 02 අධිකරණයේ මහේස්ත්‍රාත් ජනිතා පෙරේරා මහත්මිය නියම කරනු ලැබුවාය.
+Two friends arrested for capturing a Retir Pump were remanded until April 5. Magistrate Sunga Champara Perera, arrested and in critical condition, died in Ragama Hospital.
 
-මෙම  සැකකාර සේවකයින් දෙදෙනා විසින් ඉකුත් 25 වැනිදා දහවල් එම ආයතනය තුලදී මියගිය සේවකයාගේ ගුද මාර්ගයට විහිලුවට  හුලං බටයක් ඇල්ලීමෙන් ඔහු  අසාධ්‍ය තත්ත්වයට පත් වී  රාගම මහා රෝහලට ඇතුළත් කර තිබිණි.
+🟩
 
-එහිදී ඔහු  නේවාසිකව ප්‍රතිකාර ලබමින් සිටියදී ඉකුත් 28 වැනිදා රාත්‍රීයේ මියගිය ගියේය.
+The Magistrate Sunga Champara Perera, who was arrested by the employees of a private sector in the Mail area, remanded until April 2 to be remanded until April 2.Received.
 
-මේ සිද්ධිය සිදුවු අවස්ථාවේම එම සැකකාර සේවකයින් දෙදෙනා අත් අඩංගුවට ගෙන ඉකුත් 28 වැනිදා දක්වා  රක්ෂිත බන්ධනාගාර ගත කර තිබු අතර පසුව එය ලබන අප්‍රේල් මස 05 වැනිදා දක්වා තවදුරටත් දීර්ඝ කළහ.
+He was in critical condition and was admitted to the Ragama Hospital.
+
+He was receiving treatment at the night and died on the night.
+
+The two suspects were arrested at the time of the incident and remanded until the 28th of this month and further extended it until April 5.
 
 ◼️
 
 [Data](articles/2db8c4f9.json)
+
+[Extended Data](ext_articles/2db8c4f9.ext.json)
 
 ---
 
@@ -2123,101 +2213,5 @@ The country's official reserves also stood at USD 2.2 billion in February 2023, 
 [Data](articles/109338b7.json)
 
 [Extended Data](ext_articles/109338b7.ext.json)
-
----
-
-### Go to the streets with a strange suit
-
-*2024-03-30 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195106) · `si`
-
-Today, 240 amateur police officers from Mapakadadadakawewa Police Training School participated in special traffic operations and drug raids near the Mahaweli Bridge on the Kandy main road, from 8 am to 12 noon.
-
-🟩
-
-A group of police officers who had come to the way the people were not seen by the average group of dress and a group of police officers had frequent traffic tests.
-
-That is the Mahaweli Bridge on the Kandy main road today.
-
-The special traffic was operated from 8 am to 12 noon.
-
-240 amateur policemen trained in Mapakadadadakawewa Police Training School, 240 amateur police officers trained in the Police Training School, 240 amateur police officers have joined the traffic and testing of drug raids.
-
-These inspections have been carried out at 06 sites, near the Weragantota Bridge, Loggal Oya, Paragraphiyadda, Cranali, Dhimbana 51th Post, Weregantota Bridge.
-
-The objective is to provide practical experience on the apprenticeship police officers.
-
-◼️
-
-[Data](articles/3446a565.json)
-
-[Extended Data](ext_articles/3446a565.ext.json)
-
----
-
-### Sri Lanka & India review progress of bilateral projects, emphasize on timely implementation
-
-*2024-03-30 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98308/sri-lanka-india-review-progress-of-bilateral-projects-emphasize-on-timely-implementation) · `en`
-
-In a significant diplomatic development, Senior Advisor to the President on National Security and Chief of Presidential Staff Sagala Ratnayaka, led a high-level delegation in discussions to assess bilateral economic connectivity projects between Sri Lanka and India. These discussions were held in New Delhi on March 28, at the invitation of Indian Foreign Secretary Vinay Kwatra.
-
-Foreign Secretary Kwatra extended a warm welcome to Sagala Ratnayaka, acknowledging the positive momentum in Sri Lanka’s economic growth. He emphasized that the current juncture presents an opportune moment for both countries to advance agreed-upon projects, attributing this progress to the strategic vision of President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/df135438.json)
-
-[Extended Data](ext_articles/df135438.ext.json)
-
----
-
-### Yall. Teaching
-
-*2024-03-30 15:57:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழ்-போதனா-வைத்தியசாலையில்-ஏற்படுத்தப்பட்ட-மாற்றம்/71-335368) · `ta`
-
-The Director of Jaffna Teaching Hospital announced the External Disease Division will operate until 6 PM, and the hospital will extend its outpatient services to outer districts, especially on Poya days. Despite challenges, they're utilizing available resources to expand activities.
-
-🟩
-
-The Director of the Jaffna Teaching Hospital, Thangamuthu Sathiyamoorthy, said that the External Disease Division of the Jaffna Teaching Hospital will function till six o'clock in the evening.
-
-He said this at the Jaffna Teaching Hospital Auditorium on Friday (29). In addition,
-
-The Jaffna Teaching Hospital is coming to the outpatient unit from outer districts.
-
-Due to this, we have decided to implement the Outdone's Division till 6 pm on the day of the Poya.
-
-The hospital is a huge challenge to expand the activities of the hospital. Nevertheless, we are using the resources that we find. He added. Remble
-
-◼️
-
-[Data](articles/d8375c51.json)
-
-[Extended Data](ext_articles/d8375c51.ext.json)
-
----
-
-### A Chinese Investigation team suddenly to Pakistan
-
-*2024-03-30 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195104) · `si`
-
-A Chinese investigation team arrived in Pakistan to probe the murder of five Chinese nationals, including a suicide attack on a dam project. China has invested over $65 billion in Pakistan's infrastructure.
-
-🟩
-
-The Ministry of Investigations have said that five Chinese investigations have come to Pakistan to investigate five Chinese people in Pakistan, killing five Chinese nationals.
-
-A vehicle engineers who were serving in a project in northwestern a dam in northwestern part of the Northwest of Pakistan had attacked a suicide attack on the 26th.
-
-It is reported that China has invested in China and the third attack in Pakistan's third assault on a week.
-
-However, no party has taken responsibility for the attack.
-
-Foreign media reports that China has invested more than US $ 65 billion for the infrastructure of Pakistan.
-
-◼️
-
-[Data](articles/b4165ac0.json)
-
-[Extended Data](ext_articles/b4165ac0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 11:33:38**
+As of **2024-03-31 11:52:19**
 
 ## Newspaper Stats
 
-*Scraped **16,128** Articles*
+*Scraped **16,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,56 +13,104 @@ bbccomsinhala | 170
 dbsjeyarajcom | 199
 newsfirstlk | 363
 dailyftlk | 864
-economynextcom | 884
+economynextcom | 885
 islandlk | 899
-adalk | 1,349
-tamilmirrorlk | 1,929
+adalk | 1,350
+tamilmirrorlk | 1,930
 adaderanalk | 1,947
 virakesarilk | 2,288
 dailymirrorlk | 2,487
-adaderanasinhalalk | 2,605
+adaderanasinhalalk | 2,606
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,126 (100.0%) of 16,128 articles have been extended.
+16,128 (100.0%) of 16,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### துப்பாக்கிச்சூட்டுக்கு இலக்காகியவர் வைத்தியசாலையில் அனுமதி
+### ප්‍රචණ්ඩ ක්‍රියා නිසා හයිටි ආර්ථිකයට දැඩි බලපෑම්
+
+*2024-03-31 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195124) · `si`
+
+හයිටි හි ක්‍රියාත්මක අවිගත් කල්ලිවල ප්‍රචණ්ඩ ක්‍රියා හේතුවෙන් එරට ජනතාවගේ ආර්ථිකයට දැඩි බලපෑම් එල්ල වී තිබේ.
+
+ඒ අනුව, විශේෂඥයින් මත පළකරන්නේ, හයිටි රාජ්‍යය තවත් දුගී බවට පත්වනු ඇති බවය.
+
+කැරිබියානු කලාපයේ පිහිටි හයිටි සැලකෙන්නේ කලාපයේ වඩාත්ම දුගී රාජ්‍යය ලෙසයි.
+
+හයිටි හි වරාය, ගුවන්තොටුපොළ ඇතුළු ප්‍රධාන ආර්ථික කේන්ද්‍රස්ථාන අවිගත් කල්ලි යටතේ පවතී.
+
+රට තුළ ක්‍රියාත්මක ප්‍රචණ්ඩ ක්‍රියා හේතුවෙන් සංචාරකයින් ද පහළ ගොස් ඇති අතර හෝටල් ඇතුළු සංචාරක ක්ෂේත්‍රය ද පසුබෑමකට මුහුණ දී තිබේ.
+
+◼️
+
+[Data](articles/e7c4f5db.json)
+
+---
+
+### ”நீர்த் தொட்டிகள் 20 வருடங்களாக சுத்தப்படுத்தப்படவில்லை”
+
+*2024-03-31 11:26:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீர்த்-தொட்டிகள்-20-வருடங்களாக-சுத்தப்படுத்தப்படவில்லை/175-335395) · `ta`
+
+கடந்த 20 வருடங்களாக வைத்தியசாலையின் பிரதான நீர் தாங்கி கோபுரம் மற்றும் ஏனைய நீர் சேமிப்புத் தொட்டிகள் சுத்தப்படுத்தப்படவில்லை என தேசிய வைத்தியசாலையின் கொழும்பு (NHC) பிரதிப் பணிப்பாளர் வைத்தியர் ருக்ஷான் பெல்லன தெரிவித்துள்ளார்.
+
+ஊடகங்களுக்கு கருத்து தெரிவித்த அவர், வைத்தியசாலையில் தற்போது பிரதான நீர் தாங்கி கோபுரம் உட்பட சுமார் 161 நீர் சேமிப்பு தொட்டிகள் உள்ளதாக தெரிவித்தார்.
+
+ஆச்சரியப்படும் விதமாக, இந்த தொட்டிகளை சுத்தம் செய்யும் அட்டவணை அல்லது நிறுவல் திகதிகளை ஆவணப்படுத்தும் பதிவுகள் எதுவும் இல்லை, நிலையான நெறிமுறைகளின்படி, தண்ணீர் சேமிப்பு தொட்டிகளை மூன்று மாதங்களுக்கு ஒரு முறையாவது சுத்தம் செய்ய வேண்டும் என்று பெல்லனா கூறினார். ஆனால், கடந்த 20 ஆண்டுகளாக இந்த தொட்டிகள் சுத்தம் செய்யப்படாமல் இருப்பது அதிர்ச்சியளிக்கிறது.
+
+...
+
+[Data](articles/e8487019.json)
+
+---
+
+### Admitted to the hospital's hospital
 
 *2024-03-31 11:12:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டுக்கு-இலக்காகியவர்-வைத்தியசாலையில்-அனுமதி/175-335394) · `ta`
 
-ரன்மினிதென்ன பகுதியில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போது பொலிஸாரின் துப்பாக்கிச் சூட்டிற்கு இலக்காகிய நபர் ஒருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+A 30-year-old man from Ranminiidenna, Tissamaharama, was injured during a police raid and admitted to the hospital. He was targeted for arrest and suffered a shoulder injury from police fire.
 
-திஸ்ஸமஹாராம, ரன்மினிதென்ன பிரதேசத்தில் வசிக்கும் 30 வயதுடைய நபரே காயமடைந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இன்று அதிகாலை ரன்மினிதென்ன பிரதேசத்தில் பொலிஸ் அதிகாரிகள் குழுவொன்று சுற்றிவளைப்பை மேற்கொண்டதுடன், சந்தேக நபரை கைது செய்ய முற்பட்ட போது, ​​பொலிஸாரின் துப்பாக்கிச் சூட்டில் அவரது தோள்பட்டையில் காயம் ஏற்பட்டுள்ளது.
+A person who was targeted for a police firing has been admitted to the hospital during the raid carried out.
+
+The 30 -year -old man living in Ranminiidenna area Tissamaharama was injured, police said.
+
+A group of police officers raided the Ranimithenna area this morning and was injured in his shoulder injury when the police firing was attempted to arrest the suspect.
 
 ◼️
 
 [Data](articles/88b85a2c.json)
 
+[Extended Data](ext_articles/88b85a2c.ext.json)
+
 ---
 
-### අගමැති දිවයිනට
+### Prime Minister to visit Sri Lanka
 
 *2024-03-31 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195123) · `si`
 
-චීන නිල සංචාරය අවසන් කරමින් අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා දිවයිනට පැමිණ තිබේ.
+Prime Minister Dinesh Gunawardena visited Sri Lanka after a five-day official visit to China, where agreements were signed, including debt restructuring.
 
-අග්‍රාමාත්‍යවරයා සහ දුත පිරිස චයිනා ඊස්ටන් ගුවන් සේවයට අයත් යානයකින් ඊයේ (30) රාත්‍රී කටුනායක ගුවන්තොටුපොළ වෙත පැමිණි බව "අද දෙරණ ගුවන් තොටුපොළ" වාර්තාකරු පැවසීය.
+🟩
 
-චීනයේ පස් දින නිල සංචාරයක් සඳහා දිවයිනෙන් පිටත්ව ගිය අග්‍රාමාත්‍යවරයා සිය සංචාරයේ දී චීන ජනාධිපතිවරයා සමග මෙන්ම එරට අග්‍රාමාත්‍යවරයා සහ චීන රජයේ ඉහළ පෙලේ නියෝජිතයින් කිහිපදෙනෙකු සමග සාකච්ඡා පැවැත්වීය.
+Prime Minister Dinesh Gunawardena has come to the island by concluding Chinese official visit.
 
-සංචාරය අතරතුර චීනය හා ශ්‍රී ලංකාව අතර ගිවිසුම් කිහිපයකට අත්සන් තැබුණු අතර ණය ප්‍රතිව්‍යුහගතකරණය සම්බන්ධයෙන් ද චීන බලධාරීන් සමඟ සාකච්ඡා පැවැත්වීමට කටයුතු කර තිබුණි.
+The Prime Minister and the Age of China arrived at the Katunayake Airport at Katunayake Airport yesterday (30) by the Chaina Easton Airlines.
+
+The Prime Minister who left the island for a five-day official visit to China, discussed with the Chinese President and several top representatives of the Prime Minister of China.
+
+During the visit, China and Sri Lanka had signed several agreements between China and the Chinese authorities have been held regarding the restructuring of debt.
 
 ◼️
 
 [Data](articles/b2a8d7af.json)
+
+[Extended Data](ext_articles/b2a8d7af.ext.json)
 
 ---
 
@@ -151,6 +199,26 @@ The deceased is a 66 year old woman who was living in the Uzgalazambuwa area in 
 [Data](articles/c6a23b83.json)
 
 [Extended Data](ext_articles/c6a23b83.ext.json)
+
+---
+
+### Sri Lanka awaiting RCEP admission mechanism
+
+*2024-03-31 10:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-awaiting-rcep-admission-mechanism-156624/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s application to join the Regional Comprehensive Economic Partnership Agreement is awaiting the development of a mechanism to admit new members, Senior Economic Advisor to President Ranil Wickremesinghe said.
+
+Sri Lanka has lodged a letter of intent to join the RCEP and also met representatives of member states in Jakarta,  Senior Economic Advisor to President H H R Samaratunga told a forum organized by Pathfinder Institute, a Colombo-based think tank.
+
+“What we were told is that an internal procedure is being worked out,” Samaratunga said.
+
+Sri Lanka stood the chance to be the first member outside of the original founders to gain admission after a procedure is worked out, he said.
+
+Sri Lanka is keen to join the group as it allowed exporters in the country to get inputs from multiple RCEP member countries and make into products which was more flexible than traditional value addition requirements in bilateral trade deals, Samaratunga said.
+
+...
+
+[Data](articles/b66530db.json)
 
 ---
 
@@ -253,6 +321,24 @@ General public is kindly requested to take adequate precautions to minimize dama
 [Data](articles/99bd24a0.json)
 
 [Extended Data](ext_articles/99bd24a0.ext.json)
+
+---
+
+### සිරුරට ගිනි තබාගත් දෙදරු මව මරුට
+
+*2024-03-31 09:27:50* · [`adalk`](https://www.ada.lk/sports/සිරුරට-ගිනි-තබාගත්-දෙදරු-මව-මරුට/9-408852) · `si`
+
+සැමියා සමග රණ්ඩුවී සිරුරට භූමිතෙල් හලාගෙන ගිනි තබාගෙන ඇති දෙදරු මවක ඊයේ (30දා) මියගොස් ඇතැයි පානදුර උතුර පොලිසිය පවසයි.
+
+මෙසේ මියගොස් ඇත්තේ පානදුර, හොරේතුඩුව ප්‍රදේශයේ පදිංචි  එස්. කනක ලක්ෂ්ම් නමැති 35 හැව්රිදි කාන්තාවක බව පොලිසිය කීය.
+
+සැමියා සහ බිරිඳ අතර කලක පටන් ආරවුල් පැවත ඇති බවට මෙතෙක් කල පක්ෂණවලදී තහවුරු ඇතැයිද පොලිසිය සඳහන් කළේය.
+
+මහේස්ත්‍රාත් පරීක්ෂණය සහ පානදුර කොට්ඨාස අපරාධ ස්ථාන නිලධාරීන්ගේ පරීක්ෂණයද සිදුකර ඇති බවත්  මෘත දේහය පශ්චාත් මරණ පරීක්ෂණය සඳහා පානදුර මූලික රෝහලේ තැන්පත් කර ඇති බවත් පොලිසිය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/971ad029.json)
 
 ---
 
@@ -2149,89 +2235,5 @@ Its chairman Asiri Walisundara mentioned that nearly 04 million imported eggs wo
 [Data](articles/723a5dc6.json)
 
 [Extended Data](ext_articles/723a5dc6.ext.json)
-
----
-
-### Lacaceeration was arrested
-
-*2024-03-30 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195093) · `si`
-
-"Lacaceeration, a drug dealer, arrested after tip-off. Distributed drugs in several areas. Detained for a week, court allowed interrogation."
-
-🟩
-
-The man named "Loucue Kudu Malli" has been arrested as a drug dealer.
-
-The suspect was arrested following a tip off received by the officials of the Badalgama Police Station yesterday (29).
-
-Drug distribution has been distributed to Nilmanagoda, Henkegama, Galkanda, Dunugaha, Katuwellagama and Alatpola areas.
-
-The suspect was produced before the Minuwangoda court after being produced before the Minuwangoda court for a week, the court is permitted to interrogate on detention orders.
-
-◼️
-
-[Data](articles/9b2ec15e.json)
-
-[Extended Data](ext_articles/9b2ec15e.ext.json)
-
----
-
-### Many train services on the coastal route are canceled today
-
-*2024-03-30 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/180005) · `ta`
-
-Due to pipe repair work, many train services on the coastal route are canceled today and will continue to be delayed tomorrow. About 25 services have been canceled, with normal services expected to resume tomorrow night.
-
-🟩
-
-Trains traveling on the coastal route will continue to be delayed on Saturday (30) tomorrow (30), the Railway Department said.
-
-Due to the pipe repair work carried out by the Urban Development Authority, a one -way train service is currently underway between the Wellawatte and the Colombo Fort Railway Stations.
-
-As a result, about 25 train services have been canceled on the coastal route and the train services are expected to return to normal tomorrow night, the Railway Department said.
-
-◼️
-
-[Data](articles/080db805.json)
-
-[Extended Data](ext_articles/080db805.ext.json)
-
----
-
-### Top webinar today on “The FTA Pathway: Exploring Sri Lanka’s Export and FDI Potential”
-
-*2024-03-30 10:37:49* · [`dailyftlk`](https://www.ft.lk/business/Top-webinar-today-on-The-FTA-Pathway-Exploring-Sri-Lanka-s-Export-and-FDI-Potential/34-760114) · `en`
-
-The Daily FT, SLID, ACCA and The International Chamber of Commerce Sri Lanka together with Board of Investment of Sri Lanka, MBA Association of University of Colombo and CIMA will be conducting a webinar on “The FTA Pathway: Exploring Sri Lanka’s Export and FDI Potential.” The webinar will be aired live today 30 March from 4 p.m. onwards.
-
-The webinar will feature experts from both Sri Lanka and abroad who possess in-depth knowledge of the subject matter.
-
-The keynotes will be delivered by Foreign Minister Ali Sabry, Indian High Commissioner Santosh Jha, and World Bank’s former trade economist Dr. Nihal Pitigala.
-
-...
-
-[Data](articles/b0cfaf1f.json)
-
-[Extended Data](ext_articles/b0cfaf1f.ext.json)
-
----
-
-### Indian fishermen threaten to boycott Lok Sabha election over arrests Sri Lanka Navy
-
-*2024-03-30 10:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/98300/indian-fishermen-threaten-to-boycott-lok-sabha-election-over-arrests-sri-lanka-navy) · `en`
-
-Fisherfolk in Karaikal, India have decided to boycott the upcoming Lok Sabha election if the Union and Puducherry governments do not intervene and seek release of two boat drivers currently in Sri Lankan custody.
-
-The decision was taken in a meeting of fisherfolk panchayat representatives from 11 villages on Wednesday.
-
-K. Sivakumar, a fisher representative from Karaikalmedu, said, “We condemn the Sri Lankan government’s move of imprisoning our fishers and impounding their boats. We request the Union and Puducherry governments to demand release of boat drivers K Muruganantham and R Anburaj. Else, families in 11 fishing villagers will boycott the general election.”
-
-In the past one week, a court in Jaffna, Sri Lanka, has sentenced three boat drivers from Mayiladuthurai, two from Ramanathapuram and one from Karaikal, to six months of imprisonment for allegedly crossing the international maritime boundary line (IMBL).
-
-...
-
-[Data](articles/06435022.json)
-
-[Extended Data](ext_articles/06435022.ext.json)
 
 ---

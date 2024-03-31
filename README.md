@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 14:33:29**
+As of **2024-03-31 14:50:23**
 
 ## Newspaper Stats
 
@@ -312,13 +312,15 @@ The Tissamaharama police have launched a special investigation into the incident
 
 *2024-03-31 12:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98321/political-row-in-india-over-rti-report-on-indira-gandhis-ceding-of-kachchatheevu-to-sri-lanka) · `en`
 
-Prime Minister Narendra Modi slammed the Congress party on Sunday over the Katchatheevu island controversy, following a Right To Information (RTI) report revealing the decision of the then-Prime Minister, Indira Gandhi’s government, to hand over the strategic island of Katchatheevu to Sri Lanka in 1974.
+Indian Prime Minister Narendra Modi slammed the Congress party on Sunday over the Katchatheevu island controversy, following a Right To Information (RTI) report revealing the decision of the then-Prime Minister, Indira Gandhi’s government, to hand over the strategic island of Katchatheevu to Sri Lanka in 1974.
 
 Describing the revelation as “eye-opening and startling,” PM Modi accused the grand old party of weakening the country’s integrity and interests.
 
 PM Modi dubbed it a “callous” decision and also said that the handover of Katchatheevu by the Congress government has angered every Indian.
 
 “This has angered every Indian and reaffirmed in people’s minds. We can’t ever trust Congress. Weakening India’s unity, integrity, and interests has been Congress’ way of working for 75 years and counting,” PM Modi wrote on X.
+
+This has angered every Indian and reaffirmed in people’s minds- we can’t ever trust Congress!
 
 ...
 

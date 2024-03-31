@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 02:33:26**
+As of **2024-04-01 03:03:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,233 (100.0%) of 16,238 articles have been extended.
+16,238 (100.0%) of 16,238 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ There is a clear attempt to target the Governor of the Central Bank, Dr. Nandala
 
 [Data](articles/f39f04d8.json)
 
+[Extended Data](ext_articles/f39f04d8.ext.json)
+
 ---
 
 ### DDR for Sri Lanka and SLR for CBSL:  CB Governor’s rationale is puerile
@@ -64,6 +66,8 @@ For the take home pay to be negative, I think that the Governor has made an addi
 
 [Data](articles/1dc1793d.json)
 
+[Extended Data](ext_articles/1dc1793d.ext.json)
+
 ---
 
 ### Why elections for Presidency all political parties have promised to abolish?
@@ -78,6 +82,8 @@ President Ranil Wickremesinghe is reported to have told the cabinet of ministers
 
 [Data](articles/2742624a.json)
 
+[Extended Data](ext_articles/2742624a.ext.json)
+
 ---
 
 ### What is wrong with Sri Lanka?
@@ -89,6 +95,8 @@ It is not the country per se, but the politicians and the people who are wrong. 
 ...
 
 [Data](articles/e5423e40.json)
+
+[Extended Data](ext_articles/e5423e40.ext.json)
 
 ---
 
@@ -831,6 +839,8 @@ Sri Lanka should reduce the size of its Government progressively and reallocate 
 ...
 
 [Data](articles/8397c9e6.json)
+
+[Extended Data](ext_articles/8397c9e6.ext.json)
 
 ---
 

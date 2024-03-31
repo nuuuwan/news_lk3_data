@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 04:33:48**
+As of **2024-04-01 04:49:55**
 
 ## Newspaper Stats
 
-*Scraped **16,250** Articles*
+*Scraped **16,251** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 881
 economynextcom | 888
 islandlk | 900
 adalk | 1,363
-tamilmirrorlk | 1,938
+tamilmirrorlk | 1,939
 adaderanalk | 1,959
 virakesarilk | 2,311
 dailymirrorlk | 2,500
@@ -26,11 +26,27 @@ adaderanasinhalalk | 2,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,250 (100.0%) of 16,250 articles have been extended.
+16,250 (100.0%) of 16,251 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### விபத்தில் ஆசிரியை பலி
+
+*2024-04-01 04:17:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-ஆசிரியை-பலி/175-335429) · `ta`
+
+கார் ஒன்று வீதியை விட்டு விலகி மரத்துடன் மோதி விபத்துக்குள்ளானதில் ஒருவர் பலியாகியுள்ளார். மேலும் மூவர் படுகாயமடைந்துள்ளனர்.
+
+இந்தக் கோர விபத்து எம்பிலிப்பிட்டிய, நோநாகம வீதியில் பெமினியன்வில பகுதியில் நேற்று இடம்பெற்றுள்ளது.
+
+மாத்தறை பிரதேசத்தில் உள்ள பிரபல பாடசாலை ஒன்றில் உயர்தர வர்த்தகப் பிரிவுக்குப் பொறுப்பான ஆசிரியையே விபத்தில் உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/67d181c7.json)
+
+---
 
 ### Opposition politicians unite to critique current political culture
 
@@ -2297,27 +2313,5 @@ During this time, the suspects were seized with heroin, ice and cannabis.
 [Data](articles/ff69ccde.json)
 
 [Extended Data](ext_articles/ff69ccde.ext.json)
-
----
-
-### Local egg price will be below Rs.35 during festive season
-
-*2024-03-31 13:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Local-egg-price-will-be-below-Rs-35-during-festive-season/108-279891) · `en`
-
-As domestic egg production has exceeded the total daily requirement, the price of an egg is likely to be below Rs. 35 during the coming festive season.
-
-During a discussion held at the Agriculture Ministry last Friday (29) regarding the price of chicken and eggs during the festive season, Minister Mahinda Amaraweera said the current price of an egg in the local market is Rs.42 to Rs.48.
-
-"Some people and groups have issued various statements to the media that the price of a local chicken egg will increase to Rs.100 during April or the Sinhala and Tamil New Year festival season.
-
-"However, due to the long-term policy decisions taken by the Ministry, domestic egg production has now exceeded the total daily requirement, he said.
-
-"On average, the daily requirement of eggs in this country is 6.5 million. According to the Association of Egg Producers, the production of eggs in local poultry farms has already exceeded 7.5 million.
-
-...
-
-[Data](articles/9133185d.json)
-
-[Extended Data](ext_articles/9133185d.ext.json)
 
 ---

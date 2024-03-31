@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 23:03:05**
+As of **2024-03-31 23:18:14**
 
 ## Newspaper Stats
 
-*Scraped **16,214** Articles*
+*Scraped **16,215** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 885
 islandlk | 900
 adalk | 1,363
 tamilmirrorlk | 1,937
-adaderanalk | 1,958
+adaderanalk | 1,959
 virakesarilk | 2,303
 dailymirrorlk | 2,497
 adaderanasinhalalk | 2,628
@@ -26,11 +26,23 @@ adaderanasinhalalk | 2,628
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,212 (100.0%) of 16,214 articles have been extended.
+16,214 (100.0%) of 16,215 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### Ranjith Rathnayake wins ‘Derana 60 Plus - Season 5’
+
+*2024-03-31 22:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/98332/ranjith-rathnayake-wins-derana-60-plus-season-5) · `en`
+
+Ranjith Rathnayake won the Grand Finale of “Derana 60 Plus - Season 5” which was held in Colombo on Sunday (31).
+
+◼️
+
+[Data](articles/f717ac05.json)
+
+---
 
 ### Pope Francis, in Easter address, calls for Gaza ceasefire
 
@@ -158,6 +170,8 @@ A litre of Lanka Petrol 92 Octane (Rs.371) and a litre of Lanka Auto Diesel (Rs.
 
 [Data](articles/fb658338.json)
 
+[Extended Data](ext_articles/fb658338.ext.json)
+
 ---
 
 ### The change in the fuel price
@@ -231,6 +245,8 @@ The Welimada Police are currently conducting further investigations into this in
 ◼️
 
 [Data](articles/d230c746.json)
+
+[Extended Data](ext_articles/d230c746.ext.json)
 
 ---
 
@@ -2371,23 +2387,5 @@ Police have arrested 40-year-old suspect, Ruwanwella Police are conducting furth
 [Data](articles/9b00d0dc.json)
 
 [Extended Data](ext_articles/9b00d0dc.ext.json)
-
----
-
-### UNESCO adopts landmark decision for International day of Vesak
-
-*2024-03-31 08:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UNESCO-adopts-landmark-decision-for-International-day-of-Vesak/108-279884) · `en`
-
-Paris, March 31 (Daily Mirror) - The Executive Board of UNESCO at its 219th Session adopted by acclamation a Decision to commemorate the International Day of Vesak at UNESCO in alignment with the Organization's core mandate of promoting global peace, intercultural dialogue, and the preservation of cultural heritage.
-
-The landmark Decision was based on the historic UN General Assembly Resolution 54/115 of 1999 on International Recognition of Vesak at the United Nations which was then spearheaded by Sri Lanka’s illustrious former Foreign Minister Lakshman Kadirgamar, and was adopted on its 25th anniversary year at UNESCO Headquarters in Paris on Tuesday 26 March 2024.
-
-The Decision was led by the Permanent Delegation of Sri Lanka to UNESCO with the co-sponsorship of a cross-regional group of 38 member states of which 16 were members of the Executive Board.
-
-...
-
-[Data](articles/59663918.json)
-
-[Extended Data](ext_articles/59663918.ext.json)
 
 ---

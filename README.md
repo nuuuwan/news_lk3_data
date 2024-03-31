@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 15:51:39**
+As of **2024-03-31 16:03:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,614
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,163 (100.0%) of 16,164 articles have been extended.
+16,164 (100.0%) of 16,164 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -112,23 +112,33 @@ President Ranil Wickremesinghe expressed his views to address the awards ceremon
 
 ---
 
-### සැරයන්වරයෙකුට අයත් යතුරුපදියකින් රන්මාල කොල්ල කාල
+### Ranmillas robbed from a keyword that belongs to a sergeant
 
 *2024-03-31 14:52:44* · [`adalk`](https://www.ada.lk/breaking_news/සැරයන්වරයෙකුට-අයත්-යතුරුපදියකින්-රන්මාල-කොල්ල-කාල/11-408857) · `si`
 
-පොලිස් සංස්කෘතික කොට්ඨාසයේ සැරයන්වරයෙකුට අයත් යතුරුපදියකින් රන්මාල කොල්ලකෑමේ යෙදුණු තිදෙනකුගෙන් යුත් කණ්ඩායමේ දෙදෙනෙක් අත්අඩංගුවට ගත් බව අඟුරුවාතොට පොලිසිය කියයි
+Police arrested two members of a three-person gang linked to a Sergeant in the Police Cultural Division, seizing 3775 liters of drugs. The suspects were previously jailed for 16-17 years. A woman in Puttalam was found bound with a motorcycle, and the suspects were quickly identified and arrested.
 
-සැකකරුවන් සමග  අයිස් මත්ද්‍රව්‍ය මිලිගෑම්  3775 , කොල්ලකන රන්මාලය ද පොලිස් භාරයට ගෙන ඇත
+🟩
 
-අත්අඩංගුවට ගත් සැකකරුවන් දෙදෙනා සොරකම් සහ කොල්ලකෑම් රැසකට වසර 16 ක් සහ 17 ක් සිර දඬුවම් ලැබ මීට දින කීපයකට ඉහතදී නිදහස්ව පැමිණි අය බව පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත
+Antimber police say two have been arrested in a group of three-member list of the bush belonging to a Sergeant in the Police Cultural Division
 
-මීට දින කීපයකට ඉහතදී පුත්තලම ප්‍රදේශයේ කාන්තාවක් ලබුගම යාලගල ප්‍රදේශයේ ඥාති නිවසක දානමය පින්කමකට පැමිණ ඇති අතර ඇය අවශ්‍යතාවයක් සඳහා අසල වෙළඳ සැලකට පා ගමනින් යමින් සිටියදී යතුරු පැදියකින් පැමිණ තිබූ පුද්ගලයන් තිදෙනා  ඇයගේ ගෙල බැඳී රන්මාලය කොල්ලකා තිබු බව පොලිසිය කියයි
+Police have also seized the 3775 lit drugs with the suspects
 
-එම අවස්ථාවේදී වහා ක්‍රියාත්මක වූ තීරෝද රථ රියදුරෙකු  කොල්ලකරුවන්ට පලායාමට ඉඩ නොදී තීරෝද රථයෙන් මඟ හරස් කිරීමත් සමගම ප්‍රදේශවාසීන් විසින් එක් කොල්ලකරුවකු ඒ මොහොතේම අල්ලා ගත් අතර සෙසු කොල්ලකරුවන් දෙදෙනා අසල කැලෑවකට වැදි පලා ගොස් තිබිණි
+Police investigations have revealed that the two suspects were released in jail for 16 and 17 years in jail for a few and 17 years in jail for several years and 17 years ago.
 
-...
+A woman in Puttalam has come to a domestic news of a cousin in Puttalam area for a few days ago while she had bound her neck with a motorcycle and bound the Ranmal
+
+The residents of the area took a robber with a robbery immediately after the verdictor of an acquisition immediately.
+
+The police Cultural Division was owned by a police sergeant in the checking number on which the motorbike was placed.
+
+The suspects are to be produced before the Horana Magistrate's Court.
+
+◼️
 
 [Data](articles/425e2738.json)
+
+[Extended Data](ext_articles/425e2738.ext.json)
 
 ---
 

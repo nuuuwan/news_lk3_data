@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 19:17:59**
+As of **2024-03-31 19:33:27**
 
 ## Newspaper Stats
 
-*Scraped **16,185** Articles*
+*Scraped **16,189** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,40 +15,78 @@ newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 885
 islandlk | 900
-adalk | 1,359
-tamilmirrorlk | 1,935
+adalk | 1,360
+tamilmirrorlk | 1,937
 adaderanalk | 1,954
 virakesarilk | 2,296
-dailymirrorlk | 2,493
+dailymirrorlk | 2,494
 adaderanasinhalalk | 2,621
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,184 (100.0%) of 16,185 articles have been extended.
+16,185 (100.0%) of 16,189 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### ஏப்ரலில் முட்டை விலை குறைவடையும்-அமைச்சர்
+### அதிக வெப்பமான வானிலை குறித்து எச்சரிக்கை
+
+*2024-03-31 19:09:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வெப்பமான-வானிலை-குறித்து-எச்சரிக்கை/175-335415) · `ta`
+
+நாட்டின் பல பகுதிகளில் நாளை (01) அதிக வெப்பமான வானிலை நிலவக்கூடும் என வளிமண்டலவியல் திணைக்களம் இன்று எச்சரிக்கை விடுத்துள்ளது.
+
+மேல், தென், வடமேல், வடமத்திய மற்றும் கிழக்கு மாகாணங்களில் இந்த நிலைமை ஏற்படக்கூடும் என அதில் குறிப்பிடப்பட்டுள்ளது.
+
+இது தவிர இரத்தினபுரி, மொனராகலை, மன்னார், வவுனியா மற்றும் முல்லைத்தீவு மாவட்டங்களில் சில இடங்களில் வெப்பச் சுட்டெண், மனித உடலால் உணரக்கூடிய அவதானம் செலுத்த வேண்டிய மட்டத்தில் இருக்கக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது. R
+
+◼️
+
+[Data](articles/3a629e1a.json)
+
+---
+
+### ஸ்பா சென்றவர் திடீர் மரணம்
+
+*2024-03-31 19:07:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்பா-சென்றவர்-திடீர்-மரணம்/175-335414) · `ta`
+
+தெஹிவளை - மஹரகம பிரதான வீதியில் எம்பில்வத்தையில் உள்ள அங்கீகரிக்கப்படாத ஸ்பா ஒன்றின் சேவையை நாடிய 52 வயதுடைய நபர் ஒருவர் திடீர் சுகவீனம் காரணமாக உயிரிழந்துள்ளார்.
+
+குறித்த நபர் மாரடைப்பு காரணமாக உயிரிழந்திருக்கலாம் என பொலிஸார் சந்தேகம் வெளியிட்டுள்ளதுடன் பொரலஸ்கமுவ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/40e8b5e1.json)
+
+---
+
+### Egg prices will decrease in April-Minister
 
 *2024-03-31 19:02:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரலில்-முட்டை-விலை-குறைவடையும்-அமைச்சர்/175-335413) · `ta`
 
-உள்நாட்டு முட்டை உற்பத்தி மொத்த தினசரி தேவையை தாண்டியதால், வரும் பண்டிகை காலத்தில் ஒரு முட்டையின் விலை ரூ. 35ஐ விடக் குறைய வாய்ப்புள்ளது.
+Egg prices will decrease in April due to domestic production exceeding demand. Minister Mahinda Amaraweera expects prices to be less than Rs 35, contradicting reports of a rise to Rs 100 during the festive season.
 
-கடந்த வெள்ளிக்கிழமை (29) விவசாய அமைச்சில், பண்டிகைக் காலத்தில் கோழி மற்றும் முட்டையின் விலை தொடர்பாக நடைபெற்ற கலந்துரையாடலின் போது, ​​அமைச்சர் மஹிந்த அமரவீர, உள்ளூர் சந்தையில் முட்டை ஒன்றின் தற்போதைய விலை ரூ.42 முதல் ரூ.48 ஆக உள்ளதாக தெரிவித்தார்.
+🟩
 
-“ஏப்ரல் அல்லது சிங்கள, தமிழ் புத்தாண்டு பண்டிகை காலங்களில் உள்ளூர் கோழி முட்டையின் விலை ரூ.100 ஆக உயரும் என சிலர் ஊடகங்களுக்கு பல்வேறு அறிக்கைகளை வெளியிட்டுள்ளனர்.
+Domestic egg production exceeds the total daily demand, and the cost of an egg during the coming festive season. 35 more likely to be less than 35.
 
-“இருப்பினும், அமைச்சகம் எடுத்த நீண்ட கால கொள்கை முடிவுகளால், உள்நாட்டு முட்டை உற்பத்தி தற்போது மொத்த தினசரி தேவையை தாண்டியுள்ளது,” என்றார்.
+During a discussion held at the Ministry of Agriculture last Friday (29), Minister Mahinda Amaraweera said that the current price of an egg in the local market was Rs 42 to Rs 48.
 
-"சராசரியாக, இந்த நாட்டில் தினசரி முட்டை தேவை 6.5 மில்லியன். முட்டை உற்பத்தியாளர்கள் சங்கத்தின் கூற்றுப்படி, உள்ளூர் கோழி பண்ணைகளில் முட்டை உற்பத்தி ஏற்கனவே 7.5 மில்லியனைத் தாண்டியுள்ளது.
+“Some people have issued various reports to the media that local poultry eggs will rise to Rs 100 during April or Sinhala and Tamil New Year.
+
+“However, due to the long -standing policy decisions taken by the ministry, domestic egg production has now exceeded the total daily demand,” he said.
+
+"On average, in this country, daily egg requirement is 6.5 million. According to the Egg Manufacturers Association, egg production on local poultry farms has already exceeded 7.5 million.
+
+“Although the number of chickens in this country is 85,000, the number of poultry farms exceeds 135,000.. All poultry farms have completed 100 percent capacity.
 
 ...
 
 [Data](articles/94ed3247.json)
+
+[Extended Data](ext_articles/94ed3247.ext.json)
 
 ---
 
@@ -85,6 +123,24 @@ He has told the police that she has filed a maintenance case against him.
 [Data](articles/927473cd.json)
 
 [Extended Data](ext_articles/927473cd.ext.json)
+
+---
+
+### Sri Lanka make highest Test total without a hundred
+
+*2024-03-31 18:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-make-highest-Test-total-without-a-hundred/108-279893) · `en`
+
+March 31 (Wisdom) In the second Test of the two-match series against Bangladesh, Sri Lanka amassed 531, the highest ever Test match total without an individual hundred.
+
+Sri Lanka won the first Test, at Sylhet, by 328 runs as Dhananjaya de Silva and Kamindu Mendis scored two hundreds. En route, they broke a plethora of records, including their first-innings score of 280, now the lowest all-out total to include a double-hundred stand: de Silva and Mendis added 202.
+
+In the second Test, at Chattogram, Sri Lanka won the toss and opted to bat. They reached 314-4 by stumps on the first day, and were bowled out for 531 on the second as Shakib Al Hasan claimed 3-110 on his return to the Test side.
+
+The lowest all-out total in the format was South Africa’s 517 against Australia at Adelaide in 1997/98. There were only five fifties on that occasion (Brian McMillan top-scored with 87 not out), though the innings featured three other scores of 37 or more.
+
+...
+
+[Data](articles/b028e98f.json)
 
 ---
 
@@ -285,6 +341,22 @@ It is predicted that the price of fuel will likely be reduced during this price 
 [Data](articles/60e2df6f.json)
 
 [Extended Data](ext_articles/60e2df6f.ext.json)
+
+---
+
+### අල්ලස් දුන් බව කී චීන ජාතිකයා නිදොස් කොට නිදහස්
+
+*2024-03-31 16:51:01* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-දුන්-බව-කී-චීන-ජාතිකයා-නිදොස්-කොට-නිදහස්/11-408864) · `si`
+
+පුපුරණ ද්‍රව්‍ය බලපත්‍රයකට අවශ්‍ය නිර්දේශය ගැනීමට රුපියල් 20,000/-ක අල්ලසක් ශ්‍රී ලංකා මහවැලි අධිකාරියේ කොට්ඨාශ කළමණාකාරවරයකුට දුන් බවට චෝදනා ලැබ සිටි චීන ජාතිකයකු විත්ති වාචක නෙකැඳවාම නිදොස් කර නිදහස් කිරීමට කොළඹ මහාධිකරණ විනිසුරු නාමල් බණ්ඩාර බලල්ලේ මහතා නියම කළේය.
+
+මෙම නඩුවේ පැමිණීල්ල විසින් කැඳවන ලද සාක්කිකරුවන් දෙදෙනාගේ ස්ථාවරය අනුව පැමිණිල්ල විසින් විත්තිකරුට එරෙහිව ප්‍රභල හා කාවදින සාක්කි ඉදිරිපත් කර ඇද්ද? නැද්ද? යන්න සම්බන්ධයෙන් අධිකරණයට ස්ථාවරයකට එළැමීට නොහැකි බව විත්තිකරු නිදොස් කර නිදහස් කරමින් විනිසුරුවරයා සඳහන් කළේය.
+
+විත්තිකරුවකුට එරෙහි චෝදනාවන් සම්බන්ධයෙන් ඔහුගෙන් විත්ති වාචක කැඳවිය යුතුදැයි තීරණය කිරීම සඳහා පැමිණිල්ල විසින් විත්තිකරුට එරෙහිව ප්‍රභල හා කාවදින සාක්කි ඉදිරිපත් කළ යුතු වුවත් මෙම විත්තිකරුට එරෙහිව ප්‍රභල හා කාවදින සාක්කි ඉදිරිපත් ඉදිරිපත් කර ඇද්ද? නැද්ද? යන්න සම්බන්ධයෙන් අධිකරණයට ස්ථාවරයකට එළැමීට නොහැකි බව සඳහන් කරමින් විත්ති වාචකක නොකැඳවාම නිදොස්කර නිදහස් කරන ලදදේ චොන් දොන් ෂිං නමැත්තෙකි.
+
+...
+
+[Data](articles/f1015471.json)
 
 ---
 
@@ -2209,89 +2281,5 @@ The security plan was operating since the inception of the GCE to the Great Frid
 [Data](articles/6d2a8e74.json)
 
 [Extended Data](ext_articles/6d2a8e74.ext.json)
-
----
-
-### 10000 for the safety of the Easter
-
-*2024-03-30 21:29:24* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-දිනයේ-ආරක්ෂාවට-10000ක්/11-408849) · `si`
-
-The Inspector General of Police (IGP) has deployed nearly 100,000 personnel, including 6522 police officers, to ensure the safety of Easter services.
-
-🟩
-
-Police headquarters have been implementing a special security project for all the temples who have been played tomorrow. Nearly 100,000 people have been involved in the Inspector General of Police, according to the guidance of the Inspector General of Police (IGP) to protect the Easter service.
-
-6522 police officers have been deployed for the security of 1873 people, 320 police officers and 2746 policemen.
-
-◼️
-
-[Data](articles/199b5a4d.json)
-
-[Extended Data](ext_articles/199b5a4d.ext.json)
-
----
-
-### Development Lottery Board is profit in history
-
-*2024-03-30 21:12:55* · [`adalk`](https://www.ada.lk/breaking_news/සංවර්ධන-‌ලොතරැයි-මණ්ඩලය-ඉතිහාසයේ-ඉහළම-ලාභය-ලබයි/11-408848) · `si`
-
-The Development Lottery Board achieved a record profit of 403 years in 2022-220s, contributing 13% to the presidential fund, exceeding 3,622,506,725. The government's contribution increased by 6% to Rs. 5,193,833,721. Ajith Gunaratne Narangala, Chairman, highlighted the unique guidance of President Ranil Wickremesinghe as Minister of Finance, aiming to increase lottery ticket gifts and allocate funds for education and health.
-
-🟩
-
-Development Lottery Board recorded the highest profit of 403 years. Accordingly, the development Lotteries Board has been established in 2022-220s for the year 2022 and 2023.
-
-Accordingly, the development Lotteries Board has contributed to the presidential fund by 13% over the previous year.. 3,622,506,725 / 0725/725/0725 / year is exceeded. At the same time, the government's contribution increased by 6% by Rs. 5,193,833,721 has become a value.
-
-The Chairman of the Development Lottery Panel and Chief Executive Officer Ajith Gunaratne Narangala said:
-
-President Ranil Wickremesinghe has been given a unique guide as the Minister of Finance.
-
-Steps have been taken to increase the amount of gifts for the developmental lottery ticket and new lottery tickets for new lottery tickets and the new experience of the country.It is significant that% is allocated for education and health in Sri Lanka.
-
-◼️
-
-[Data](articles/023a8d4d.json)
-
-[Extended Data](ext_articles/023a8d4d.ext.json)
-
----
-
-### Sri Lanka's first day
-
-*2024-03-30 21:02:13* · [`adalk`](https://www.ada.lk/sports/ලංකාව-පළමු-දිනයේදී-ඉදිරියෙන්/9-408847) · `si`
-
-Sri Lanka scored 314 in the first day of the 2nd Test against Bangladesh. Kusal Mendis reached 100, with Nishan Madushanka (57) and Dimuth Karunaratne (86) also contributing. Hasan Maamod took two wickets for Bangladesh.
-
-🟩
-
-Sri Lanka scores 314 runs for the first day of the second Test between the Bangladesh team and the second Test match between the Sri Lankan team.
-
-It was a significant factor in Sri Lanka's innings to collect half centuries. Limited and overs overstabed captain Kusal Mendis went to the century.
-
-Nishan Madushanka 57, Dimuth Karunaratne 86, Dinesh Chandimal was remained half centuries for Sri Lanka.. Angelo Mathews burned to 23 runs. Hasan Maamod took two wickets for Bangladesh.
-
-◼️
-
-[Data](articles/5b6702cc.json)
-
-[Extended Data](ext_articles/5b6702cc.ext.json)
-
----
-
-### China-Sri Lanka Trade: MOU signed to align export standards
-
-*2024-03-30 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/98314/china-sri-lanka-trade-mou-signed-to-align-export-standards) · `en`
-
-Sri Lanka’s Prime Minister Dinesh Gunawardena has called for closer economic cooperation with China. He made the comments during an official visit to Shanghai on Friday. China’s national Quality Certification Center and Sri Lanka’s Bureau of Standards signed an MOU to better align trade standards. China is Sri Lanka’s second-largest trading partner and the country’s second-largest source of imports.
-
-Dinesh Gunawardena, Sri Lankan Prime Minister said: “We have to abide by the quality requirements that are needed. Therefore, China’s advanced quality requirements for Sri Lankan exports into China will also need more cooperation and working together for which so many discussions have been held. We hope this area will be able to pursue faster so that Sri Lankan products could come into China on the approved agreements and approved standards.”
-
-...
-
-[Data](articles/220269f7.json)
-
-[Extended Data](ext_articles/220269f7.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 20:50:24**
+As of **2024-03-31 21:03:31**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 2,624
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,192 (100.0%) of 16,196 articles have been extended.
+16,196 (100.0%) of 16,196 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### මෛත්‍රී, ඉන්දියාව මහමොළකරු කරලා - හර්ෂ
+### Maithri commemorates India - Harsha
 
 *2024-03-31 20:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195143) · `si`
 
-හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතා පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාරයට ඉන්දියාව ඈඳාගනිමින් මතභේදාත්මක ප්‍රකාශයක් ලබාදී ඇතැයි සමගි ජන බලවේග පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මහතා පුවත්පත් වාර්තාවක් උපුටා දක්වමින් අද අනාවරණ කළේය.
+MP Dr. Harsha de Silva criticizes former President Maithripala Sirisena's statement on the Easter terrorist attack, fearing it could lead to a diplomatic crisis. The CID has recorded a five-hour statement in response.
 
-මන්ත්‍රීවරයා පෙන්වා දෙන්නේ හිටපු ජනපතිවරයාගේ මේ ප්‍රකාශයෙන් රාජ්‍යතාන්ත්‍රික අර්බුදයක් පවා නිර්මාණය වීමට ඉඩ ඇති බවය.
+🟩
 
-පාස්කු ප්‍රහාරය සිදුකළේ කවුරුන්දැයි තමා දන්නා බවට හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතා සිදුකළ ප්‍රකාශයෙන් පසුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව ඒ මහතාගෙන් පැය පහක ප්‍රකාශයක් සටහන් ගත්තේය.
+MP Dr. Harsha de Silva has quoted a press record that former President Maithripala Sirisena has given an controversial statement to the Easter terrorist attack.
 
-ඒ පිළිබඳව අද ඉංග්‍රීසි 'ජාතික පුවත්පතක' පළවූ වාර්තාවක් උපුටා දක්වමින් පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හර්ෂ ද සිල්වා මෙලෙස සිය ස්ථාවරය ප්‍රකාශ කළේය.
+The MP pointed out that this statement of the former president may create even a diplomatic crisis.
+
+After the statement made by former President Maithripala Sirisena, the Criminal Investigations Department (CID) has recorded a five-hour statement.
+
+Speaking a report published in an English newspaper today, MP Dr. Harsha de Silva expressed his position.
 
 ◼️
 
 [Data](articles/5a377281.json)
+
+[Extended Data](ext_articles/5a377281.ext.json)
 
 ---
 
@@ -67,6 +73,8 @@ With this the total number of Sri Lankan nationals arriving at Rameswaram has to
 ◼️
 
 [Data](articles/9a8d9bc0.json)
+
+[Extended Data](ext_articles/9a8d9bc0.ext.json)
 
 ---
 
@@ -113,6 +121,8 @@ Expressing his stance regarding the relevant claims, Harsha de Silva stated that
 ...
 
 [Data](articles/25f6fb68.json)
+
+[Extended Data](ext_articles/25f6fb68.ext.json)
 
 ---
 
@@ -466,21 +476,27 @@ Kusal Mendis scored 93 runs and Dinesh Chandimal scored 59 runs and Dinesh Chand
 
 ---
 
-### ප්‍රා ලේ කාර්යාලවල මාණ්ඩලික නිලධාරීන්ට දීමනාවක්
+### Allowance to Staff Officers at Divisional Secretariats
 
 *2024-03-31 17:12:47* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රා-ලේ-කාර්යාලවල-මාණ්ඩලික-නිලධාරීන්ට-දීමනාවක්/11-408865) · `si`
 
-ප්‍රාදේශීය ලේකම් කාර්යාලවලට අනුයුක්ත මාණ්ඩලික නිලධාරීන් සඳහා විශේෂ මාසික දිරි දීමනාවක් ලබාදීමට රජය තීරණය කර තිබේ.
+The Government offers a special monthly incentive to staff officers at Divisional Secretariats, from March to December, as per a circular issued by the Secretary to the Ministry of Public Administration, Home Affairs, Provincial Councils, and Local Government.
 
-ඒ අනුව ප්‍රාදේශීය ලේකම්වරයෙකුට රුපියල් 15,000ක දීමනාවක් ලබාදීමට නියමිත අතර සහකාර ප්‍රාදේශීය ලේකම්, සහකාර අධ්‍යක්ෂ හා ගණකාධිකාරී යන තනතුරු සඳහා රුපියල් 10,000 බැගින් මාසික දීමනාවක් හිමිවනු ඇත.
+🟩
 
-මාර්තු මාසයේ සිට දෙසැම්බර් මාසය දක්වා මාස 10 ක කාලසීමාවක් සඳහා එම දිරිදීමනාව ලබාදීමට නියමිත බව වාර්තා වෙයි.
+The Government has decided to provide a special monthly incentive to the staff officers attached to the Divisional Secretariats.
 
-ඊට අදාළ චක්‍රලේඛය රාජ්‍ය පරිපාලන, ස්වදේශ කටයුතු, පළාත් සභා හා පළාත් පාලන අමාත්‍යංශ ලේකම්වරයා විසින් නිකුත් කර තිබේ.
+Accordingly, a Grade of Rs.
+
+It is reported that the incentive is to be granted to 10 months to 10 months from March to December.
+
+The relevant circular has been issued by the Secretary to the Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government.
 
 ◼️
 
 [Data](articles/bbde3a1c.json)
+
+[Extended Data](ext_articles/bbde3a1c.ext.json)
 
 ---
 

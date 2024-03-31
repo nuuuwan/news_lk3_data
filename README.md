@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 12:49:26**
+As of **2024-03-31 13:03:07**
 
 ## Newspaper Stats
 
-*Scraped **16,139** Articles*
+*Scraped **16,142** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 144
 bbccomsinhala | 170
-dbsjeyarajcom | 200
+dbsjeyarajcom | 201
 newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 885
 islandlk | 899
 adalk | 1,350
 tamilmirrorlk | 1,931
-adaderanalk | 1,948
+adaderanalk | 1,950
 virakesarilk | 2,289
 dailymirrorlk | 2,488
 adaderanasinhalalk | 2,608
@@ -26,11 +26,29 @@ adaderanasinhalalk | 2,608
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,137 (100.0%) of 16,139 articles have been extended.
+16,139 (100.0%) of 16,142 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### One injured as Police Sergeant’s pistol accidentally fires in raid
+
+*2024-03-31 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/98322/one-injured-as-police-sergeants-pistol-accidentally-fires-in-raid-) · `en`
+
+A 28-year-old person has been injured after the service pistol of a police officer accidentally fired during a raid at an illegal gambling den in the Tissamaharama area.
+
+A team of three police officers attached to Tissamaharama Police were dispatched at around 01.00 a.m. early this morning (31) to the location following a tip-off received by police.
+
+Police said that the suspects had attempted to flee in various directions during the raid. While the police officers were trying to arrest the suspects, a scuffle arose between a Police Sergeant and the injured person where the Police Sergeant’s firearm had accidentally fired injuring the suspect.
+
+The injured 28-year-old has subsequently been admitted to Hambantota Hospital for treatment.
+
+◼️
+
+[Data](articles/71705c57.json)
+
+---
 
 ### Man shot dead at Tissamaharama
 
@@ -62,6 +80,24 @@ The Tissamaharama police have launched a special investigation into the incident
 
 ---
 
+### Political row in India over RTI report on Indira Gandhi’s ceding of Kachchatheevu to Sri Lanka
+
+*2024-03-31 12:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/98321/political-row-in-india-over-rti-report-on-indira-gandhis-ceding-of-kachchatheevu-to-sri-lanka) · `en`
+
+Prime Minister Narendra Modi slammed the Congress party on Sunday over the Katchatheevu island controversy, following a Right To Information (RTI) report revealing the decision of the then-Prime Minister, Indira Gandhi’s government, to hand over the strategic island of Katchatheevu to Sri Lanka in 1974.
+
+Describing the revelation as “eye-opening and startling,” PM Modi accused the grand old party of weakening the country’s integrity and interests.
+
+PM Modi dubbed it a “callous” decision and also said that the handover of Katchatheevu by the Congress government has angered every Indian.
+
+“This has angered every Indian and reaffirmed in people’s minds. We can’t ever trust Congress. Weakening India’s unity, integrity, and interests has been Congress’ way of working for 75 years and counting,” PM Modi wrote on X.
+
+...
+
+[Data](articles/9bbda638.json)
+
+---
+
 ### ‘Eye opening’: PM Modi lashes out at Congress for giving away Katchatheevu island to Sri Lanka
 
 *2024-03-31 11:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Eye-opening-PM-Modi-lashes-out-at-Congress-for-giving-away-Katchatheevu-island-to-Sri-Lanka/108-279889) · `en`
@@ -77,6 +113,8 @@ According to the document obtained by Tamil Nadu's Bharatiya Janata Party (BJP) 
 ...
 
 [Data](articles/6ee3ed42.json)
+
+[Extended Data](ext_articles/6ee3ed42.ext.json)
 
 ---
 
@@ -760,6 +798,26 @@ The incident has sparked concerns and prompted authorities to delve deeper into 
 
 ---
 
+### 
+
+*2024-03-31 03:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83838) · `en`
+
+After unforgivably allowing a disaster of the magnitude of the 2019 attacks on churches and hotels to occur at the hands of local jihadists, what is the point of parading military men before churches now?
+
+Does the Sri Lankan Government believe that posting hundreds of military officers with guns at the ready in front of churches during the Christian Holy Week, will suffice to mitigate monumental lapses on the part of the State in not (properly) investigating or prosecuting those responsible for the 2019 Easter Sunday attacks?
+
+Is this not part of the many charades in regard to ‘investigating’ gross human rights abuses where the State itself is complicit in the same?
+
+This is irrespective of targeting ethnic or religious minorities (Tamil/Muslim) or for that matter, the (Sinhala) majority itself whose common blood has soaked Sri Lanka’s soil since independence.
+
+That commonality of justice denied has been a damning truth carefully avoided by political demagogues, not only the Rajapaksas.
+
+...
+
+[Data](articles/439c14c2.json)
+
+---
+
 ### Memories of WW II and two Easter Sundays
 
 *2024-03-31 03:08:00* · [`islandlk`](http://island.lk/memories-of-ww-ii-and-two-easter-sundays/) · `en`
@@ -955,6 +1013,8 @@ Galle Face Green goes back to 1859 when it was used for British colonial sportin
 ...
 
 [Data](articles/a7e9c2c1.json)
+
+[Extended Data](ext_articles/a7e9c2c1.ext.json)
 
 ---
 
@@ -2181,73 +2241,5 @@ Meanwhile, on the evening of March 28, the Somali pirates of Iran, the 'Al-Kamba
 [Data](articles/3acdf2be.json)
 
 [Extended Data](ext_articles/3acdf2be.ext.json)
-
----
-
-### Family body recovery in Jaffna
-
-*2024-03-30 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/180018) · `ta`
-
-A body was found in Jaffna, identified as Iyengan Sivanandarajah, a 47-year-old from Kirimalai, who had been living alone in Ilavalai-Vasanthapuram since leaving his family two months ago.
-
-🟩
-
-The body was found dead yesterday (29) from a Kudyakkadal landlord who lived alone in the Ilavalai - Vasanthapuram area of Jaffna.
-
-The body was recovered from Iyengan Sivanandarajah (47 years old) from Kirimalai.
-
-The man has left them two months ago due to conflict with his family and lived alone in a land in the Ilavalai - Vasanthapuram area.
-
-In this case, he was recovered from a blank land near his hut.
-
-◼️
-
-[Data](articles/2da9095b.json)
-
-[Extended Data](ext_articles/2da9095b.ext.json)
-
----
-
-### “Location Kudu Malli” arrested
-
-*2024-03-30 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/98303/location-kudu-malli-arrested) · `en`
-
-The police have arrested “Location Kudu Malli”, who is said to be a notorious drug trafficker, along with 6,120 milligrams of drugs.
-
-The arrest was made during a raid carried out on Friday (29), based on a tip-off received by the Badalgama Police.
-
-The suspect has confessed during interrogations that he had been trafficking drugs to several areas including Minuwangoda, Nilpanagoda, Henpitagedara, Galkanda, Dunagaha, Katuwellegama and Aluthepola for a while.
-
-Badalgama Police have secured detention orders to detain the suspect for interrogations after he was produced before the Minuwangoda Magistrate’s Court.
-
-◼️
-
-[Data](articles/384aba15.json)
-
-[Extended Data](ext_articles/384aba15.ext.json)
-
----
-
-### 8 Sri Lankans abducted for allegedly involved in cyber crimes in Myanmar: 48 more detainees
-
-*2024-03-30 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180012) · `ta`
-
-Eight Sri Lankans rescued from cyber crime involvement in Myanmar; 48 more detainees. Sri Lankan Ambassador Janaka Bandara confirms police investigation complete, steps to bring them home.
-
-🟩
-
-Sri Lankan Ambassador to Myanmar Janaka Bandara has said that the investigation by the police has been completed as eight Sri Lankans have been rescued by the smuggling gang to engage in cyber crimes in Myanmar.
-
-Therefore, steps are being taken to bring them to the country soon, he said.
-
-48 Sri Lankans are currently detained in Myanmar. The Ambassador added that they too will be rescued soon.
-
-It is noteworthy that Sri Lankans have been abducted in the field of information technology.
-
-◼️
-
-[Data](articles/4dc35ce0.json)
-
-[Extended Data](ext_articles/4dc35ce0.ext.json)
 
 ---

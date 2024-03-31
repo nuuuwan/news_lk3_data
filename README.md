@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 09:52:39**
+As of **2024-03-31 10:03:39**
 
 ## Newspaper Stats
 
-*Scraped **16,117** Articles*
+*Scraped **16,120** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 884
 islandlk | 899
 adalk | 1,347
 tamilmirrorlk | 1,928
-adaderanalk | 1,943
-virakesarilk | 2,287
+adaderanalk | 1,945
+virakesarilk | 2,288
 dailymirrorlk | 2,486
 adaderanasinhalalk | 2,603
 
@@ -26,45 +26,109 @@ adaderanasinhalalk | 2,603
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,113 (100.0%) of 16,117 articles have been extended.
+16,117 (100.0%) of 16,120 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### உலக சந்தையில் எரிபொருள் விலை உயர்வு!
+### வசீகரிக்கும் தேயிலை மலைகளுக்கூடாக இலங்கையின் அடையாளமாக The Pekoe Trail
+
+*2024-03-31 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/180045) · `ta`
+
+இலங்கையின் பொருளாதாரத்தில் வருமானத்தை ஈட்டும் மிக முக்கியமான துறையாக சுற்றுலாத்துறை காணப்படுகின்றது.  நாட்டில் உயிர்த்த ஞாயிறு தின தாக்குதல், கொவிட் பரவல் மற்றும் பொருளாதார நெருக்கடியின் பின்னர் சுற்றுலாத்துறையை மீளக்கட்டியெழுப்புவதற்கான தேவைப்பாடு காணப்பட்டது. அத்துடன் அத்துறையை நிலைப்படுத்துவதற்கான தேவையும் உணரப்பட்டது. நிலையான பின்னடைவு இல்லாத சுற்றுலாத்துறையை நோக்கி இயற்கையாகவே எவ்வித அபிவிருத்தியும் மேற்கொள்ளாது 300 கிலோமீற்றர் நீளம் கொண்ட இலங்கையின் சுற்றுலாத்துறையின் அடையாளமாக The Pekoe Trail உருவாக்கப்பட்டுள்ளது.
+
+உலகளாவிய ரீதியில் மலையேறுதல் என்பது பிரபலமானதொரு பொழுதுபோக்கு அம்சமாக காணப்படுகின்றது. அமெரிக்கா, ஸ்பெயின், சீனா, அவுஸ்திரேலியா, சுவிற்சர்லாந்து உள்ளிட்ட பல நாடுகளில் இந்த மலையேறும் பொழுதுபோக்கு அம்சங்கள் காணப்படுவதுடன் சுற்றுலாத்துறைக்கு பெரும் பங்காற்றுகின்றன.
+
+இலங்கையின் ஊவா மற்றும் மத்திய மாகாணங்களை உள்ளடக்கிய பகுதியில் உருவாக்கப்பட்டுள்ள The Pekoe Trail என்னும் மலையேறும் பகுதி மிகவும் வித்தியாசமான புதிய அனுபங்களை கொண்டுள்ளது.
+
+...
+
+[Data](articles/59d7b97f.json)
+
+---
+
+### PM Dinesh wraps China visit, assured of help for easing debt burden
+
+*2024-03-31 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98317/pm-dinesh-wraps-china-visit-assured-of-help-for-easing-debt-burden) · `en`
+
+China will play a “positive role” in easing the financial difficulties of cash-strapped Sri Lanka and its bid to achieve “debt sustainability” while Colombo will accelerate the formulation of a BRI cooperation plan to advance Beijing’s projects in the island nation, a joint statement said on Sunday.
+
+As Sri Lankan Prime Minister Dinesh Gunawardena wrapped up his official weeklong visit to China, the joint statement brought out the highlights of the agreements discussed during his talks with Chinese President Xi Jinping and Premier Li Qiang besides attending the Boao Forum for Asia Annual Conference.
+
+“The Chinese side expresses its readiness to continue supporting its financial institution in actively consulting with Sri Lanka, maintain friendly communication with other creditors, and play a positive role in the International Monetary Fund (IMF) to help Sri Lanka ease its financial difficulties and achieve debt sustainability,” the joint statement said.
+
+...
+
+[Data](articles/0cda10cb.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-03-31 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/98316/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at several places in Western, Southern, Sabaragamuwa, North-western and Central provinces after 2.00 p.m.
+
+Showers or thundershowers may occur at a few places in Northern, North-central,Uva and Eastern provinces after 2.00 p.m.
+
+Fairly heavy showers about 75mm are likely at some places in Sabaragamuwa and Western provinces and in Galle and Matara districts.
+
+Misty conditions can be expected at some places in Central, Sabaragamuwa and Uva provinces and in Kalutara, Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/99bd24a0.json)
+
+---
+
+### Fuel prices rise in the world market!
 
 *2024-03-31 09:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/180042) · `ta`
 
-அதன்படி, பிரண்ட் கச்சா எண்ணெய் பீப்பாய்  ஒன்றின் விலை 87 டொலராக காணப்படுகிறது.
+Global fuel prices increase. Front Crude Oil Barrel now costs $87, while US W.T.I crude oil barrel is $83.17, a 2.24% increase.
 
-அமெரிக்க W.T.I   கச்சா எண்ணெய் பீப்பா ஒன்றின் விலை 83.17 டொலராகும். இது 2.24 சதவீதம் அதிகமாகும்.
+🟩
+
+Accordingly, the price of a Front Crude Oil Barrel is $ 87.
+
+The price of a US W.T.I crude oil barrel is $ 83.17. This is more than 2.24 percent.
 
 ◼️
 
 [Data](articles/24cbe2cf.json)
 
+[Extended Data](ext_articles/24cbe2cf.ext.json)
+
 ---
 
-### සිංගප්පූරුවෙන් ගෙන්වන භාණ්ඩ රැසක බදු අඩු කෙරේ
+### Taxes of many items imported from Singapore will be reduced
 
 *2024-03-31 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195121) · `si`
 
-‍ශ්‍රී ලංකා - සිංගප්පූරු නිදහස් වෙළෙඳ ගිවිසුම යටතේ ආනයනය කරනු ලබන භාණ්ඩ රැසක වරාය සහ ගුවන්තොටුපොළ සංවර්ධන බද්ද හෙවත් "පැල්" අඩු කිරීමට රජය පියවර ගෙන තිබේ.
+Singapore's taxes on items imported under the Sri Lanka-Singapore Free Trade Agreement have been reduced. The port and airport development tax on many goods has been lowered from 10% to 6% until March 6th. This includes fruits like apples and cement, affecting motorbike and bicycle parts. Taxes on drugs, surgical equipment, and various goods have also been revised.
 
-මාර්තු මස 29 වන දින සිට ක්‍රියාත්මක වන පරිදි සියයට 10ක් වූ පැල් බද්ද සියයට 6 දක්වා අඩු කිරීමට පියවර ගෙන ඇති බව මුදල් අමාත්‍යංශය සඳහන් කළේය.
+🟩
 
-ඒ අනුව‍ ශ්‍රී ලංකා - සිංගප්පූරු නිදහස් වෙළෙඳ ගිවිසුම යටතේ ආනයනය කරනු ලබන සිමෙන්ති, ඇපල් ඇතුළු පලතුරු වර්ග කිහිපයක්, සහ ළදරු කිරි ආහාර සඳහා අයකළ අදාළ බද්ද සියයට 6 දක්වා අඩු කර තිබේ.
+The government has taken steps to reduce the port and airport development tax of many goods imported under the Free Trade Agreement of the Sri Lanka - Singapore Free Trade Agreement.
 
-ඊට අමතරව පාසල් උපකරණ, ලිපි ද්‍රව්‍ය, රෙදිපිළි සඳහා වන අමුද්‍රව්‍ය, වාහන අමතර කොටස්, යතුරුපැදි සහ පාපැදි අමතර කොටස් සඳහා ද වරාය සහ ගුවන්තොටුපොළ සංවර්ධන බද්ද ද සියයට 10 සිට සියයට 6 දක්වා අඩුකර ඇති බව වාර්තා වෙයි.
+Steps have been taken to reduce 10 percent of the 10 percent pal tax of 10 percent to 6th March.
 
-ඖෂධ වර්ග, ශල්‍ය උපකරණ, විද්‍යුත් උපකරණ, නාන කාමර උපකරණ, පොලිතින් හා ප්ලාස්ටික්, ඇලුමිනියම් සහ ලී භාණ්ඩ සඳහා අයකරනු ලබන බදු ද සංශෝධනය කිරීමට පියවර ගෙන තිබේ.
+Accordingly, a few fruits, including apple, including the cement, apple, which is imported to the Sri Lanka-Singapore Free Trade Agreement, have been reduced to 6 percent.
 
-2377-39 March 28, 2024 - English Order Under Section 03 of PAL by poornima on Scribd
+It is reported that the port and airport development tax has been reduced to 10 percent to 6 per share, motorbike, motorbike and bicycle parts.
+
+Taxes charged for drugs, surgical equipment, electrical equipment, bathroom equipment, bathroom equipment, bathroom equipment, bathroom equipment, plastic, aluminum and wooden goods have been revised.
+
+2377-39 March 28, 2024 - English Character Under Section 03 of PAL BY POORNIMA ON SCRIBD
 
 ◼️
 
 [Data](articles/532b750b.json)
+
+[Extended Data](ext_articles/532b750b.ext.json)
 
 ---
 
@@ -84,21 +148,27 @@ A total of 6,522 police officers, 320 Police Special Task Force officers, and 2,
 
 ---
 
-### මහින්දට, දුමින්දට හා ලසන්තට SLFP ධුර අහිමිවෙයි
+### Mahinda, Duminda and Lasantha lose SLFP
 
 *2024-03-31 08:59:29* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දට--දුමින්දට-හා-ලසන්තට-SLFP-ධුර-අහිමිවෙයි/11-408850) · `si`
 
-අමාත්‍ය මහින්ද අමරවීර, රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න සහ පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක යන මහත්වරු ශ්‍රී ලංකා නිදහස් පක්ෂයේ (ශ්‍රීලනිප) දැරූ ධුර වලින් ඉවත් කිරීමට කටයුතු කර තිබේ.
+Mahinda, Duminda, and Lasantha removed from SLFP. Mahinda Amaraweera, Lasantha Alagiyawanna, and Duminda Dissanayake ousted. Amaravara was senior Vice President, Alagiyawanna treasurer. Decision made at special meeting led by Maithripala Sirisena. Gunawardena appointed Hector Bethmage as National Organizer and Senior Vice President.
 
-දුමින්ද දිසානායක පක්‍ෂයේ ජාතික සංවිධායකවරයා වූ අතර අමරවීර ඇමැතිවරයා ජ්‍යෙෂ්ඨ උප සභාපති ධුරය දැරීය. ලසන්ත අලගියවන්න මහතා පක්ෂයේ භාණ්ඩාගාරික ලෙස කටයුතු කළේය.
+🟩
 
-පක්ෂ නායක මෛත්‍රීපාල සිරිසේන මහතා විසින් කැදවා තිබූ විශේෂ රැස්වීමකදී මෙම තීරණය ගෙන ඇත.
+Minister Mahinda Amaraweera, State Minister Lasantha Alagiyawanna and MP Duminda Dissanayake have been removed from the Sri Lanka Freedom Party (SLFP).
 
-කේ.පී. ගුණවර්ධන මහතා ජාතික සංවිධායක ලෙසත්, භාණ්ඩාගාරික ලෙස හෙක්ටර් බෙත්මගේ මහතාත් , ජ්‍යෙෂ්ඨ උප සභාපති ලෙස සරත් ඒකනායක මහතාත් පත්කර තිබේ.
+Duminda Dissanayake was the national organizer of the party and Amaravara holds senior Vice President. Mr. Lasantha Alagiyawanna were the party treasurer.
+
+This decision was taken at a special meeting that party leader Maithripala Sirisena has been summoned by Mr. Maithripala Sirisena.
+
+KP. Mr. Gunawardena has appointed Hector Bethmage as the National Organizer and Hector Bethmage as Senior Vice President.
 
 ◼️
 
 [Data](articles/c9f4452b.json)
+
+[Extended Data](ext_articles/c9f4452b.ext.json)
 
 ---
 
@@ -640,19 +710,25 @@ Russia is exultant about the outcome of the Presidential election. The poll was 
 
 ---
 
-### ලංකාව පළමු දිනයේදී ඉදිරියෙන්
+### Sri Lanka's first day
 
 *2024-03-30 21:02:13* · [`adalk`](https://www.ada.lk/sports/ලංකාව-පළමු-දිනයේදී-ඉදිරියෙන්/9-408847) · `si`
 
-බංග්ලාදේශ කණ්ඩායම හා ශ්‍රී ලංකා කණ්ඩායම අතර පැවැත්වෙන දෙවැනි ටෙස්ට් තරගයේ පළමු දිනයට තරගය නිමා කරන විට ශ්‍රී ලංකා කණ්ඩායම කඩුලු 4ට ලකුණු 314ක් රැස් කරමින් ප්‍රභල ස්ථානයක සිටියි.
+Sri Lanka scored 314 in the first day of the 2nd Test against Bangladesh. Kusal Mendis reached 100, with Nishan Madushanka (57) and Dimuth Karunaratne (86) also contributing. Hasan Maamod took two wickets for Bangladesh.
 
-ශ්‍රී ලංකා ඉනිමේ ආරම්භක පිතිකරුවන් තිදෙනාම අර්ධ ශතක රැස්කිරිමට සමත්වීම මෙහිදී කැපී පෙනෙන සාධකයක් විය. සීමිත පන්දුවාර නායක කුසල් මෙන්ඩිස් ශතකය අභිමුව දැවි ගියේය.
+🟩
 
-නිශාන් මධුශංක 57, දිමුත් කරුණාරත්න 86, කුසල් මෙන්ඩිස් 93ක් ශ්‍රි ලංකාව වෙනුවෙන් අර්ධ ශතක රැසකළ අතර දිනේෂ් චන්දිමාල් 34* ධනංජයද සිල්වා 15* නොදැවී පිටියේ රැදී සිටියහ. ඇන්ජලෝ මැතිව්ස් ලකුණු 23කට දැවී ගියේය. බංග්ලාදේශය වෙනුවෙන් හසන් මහමුඩ් කඩුල් දෙකක් දවා ගැනීමට සමත්විය.
+Sri Lanka scores 314 runs for the first day of the second Test between the Bangladesh team and the second Test match between the Sri Lankan team.
+
+It was a significant factor in Sri Lanka's innings to collect half centuries. Limited and overs overstabed captain Kusal Mendis went to the century.
+
+Nishan Madushanka 57, Dimuth Karunaratne 86, Dinesh Chandimal was remained half centuries for Sri Lanka.. Angelo Mathews burned to 23 runs. Hasan Maamod took two wickets for Bangladesh.
 
 ◼️
 
 [Data](articles/5b6702cc.json)
+
+[Extended Data](ext_articles/5b6702cc.ext.json)
 
 ---
 
@@ -2173,73 +2249,5 @@ The Maryland Department of Transportation has so far asked the Biden administrat
 [Data](articles/35c9b756.json)
 
 [Extended Data](ext_articles/35c9b756.ext.json)
-
----
-
-### Sri Lanka to benefit
-
-*2024-03-30 09:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195091) · `si`
-
-Sri Lanka's second Test vs Bangladesh starts today, with Sri Lanka batting first. Assitu Fernando leads Sri Lanka, and Bangladesh introduces Shake Al Hasant and Hasan Mawda.
-
-🟩
-
-The second Test match between the Sri Lanka Tourism and Bangladesh begins today (30).
-
-Sri Lanka won the toss and decided to bat first.
-
-Sri Lanka has been called by Assitu Fernando instead of a disability.
-
-Two of the changes in the Bangladesh team have been named by Shake Al Hasant and Hasan Mawda.
-
-◼️
-
-[Data](articles/ad4b5643.json)
-
-[Extended Data](ext_articles/ad4b5643.ext.json)
-
----
-
-### Sri Lanka seasonal food protectionist tax to replace SCL from Jan 01
-
-*2024-03-30 09:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-seasonal-food-protectionist-tax-to-replace-scl-from-jan-01-156609/) · `en`
-
-ECONOMYNEXT – Sri Lanka will replace a ‘special commodity levy’ with a new protectionist tax from January 01, State Minister Ranjit Siyambalapitiya said, which will give extra profit to farmers and keep food prices high.
-
-“The special commodity levy, which was used to protect domestic farmers and domestic producers, will be removed from January 01,” Minister Siyambalapitiya said.
-
-The special commodity levy was advocated by then trade minister Bandula Gunawardana, as the US fired a commodity boom ahead of the collapse of a US housing bubble in a bid to reduce the tax on tax effect of duties, para-tariffs and make food taxes more transparent, according to some analysts.
-
-However, the tax came under fire due to being slapped at midnight as tax payers and the hungry were sleeping and its alleged manipulation to give profits to some importers.
-
-...
-
-[Data](articles/d9142e6d.json)
-
-[Extended Data](ext_articles/d9142e6d.ext.json)
-
----
-
-### Insurance profit of the collapsed bridge exceeds $ 3 billion
-
-*2024-03-30 08:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195090) · `si`
-
-The collapsed Francis Scott Bridge in America's insurance profit exceeds $3 billion. Debris removal to Baltimore halted shipments at the busiest port. Search for four workers ceased due to wreckage risks. $60 million from federal emergency funds allocated for recovery.
-
-🟩
-
-Francis Scott Bridge in America has been brought to Baltimore to remove debris.
-
-Shipments have been suspended at the busiest port of the country.
-
-The search for four workers has been stopped due to the risk of the wreckage, reports say.
-
-The cost of $ 60 million has been allocated from federal emergency funds to recover the bridge.
-
-◼️
-
-[Data](articles/18505193.json)
-
-[Extended Data](ext_articles/18505193.ext.json)
 
 ---

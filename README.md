@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 21:18:03**
+As of **2024-03-31 21:33:51**
 
 ## Newspaper Stats
 
-*Scraped **16,197** Articles*
+*Scraped **16,204** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,42 +15,188 @@ newsfirstlk | 363
 dailyftlk | 864
 economynextcom | 885
 islandlk | 900
-adalk | 1,361
+adalk | 1,362
 tamilmirrorlk | 1,937
 adaderanalk | 1,956
-virakesarilk | 2,296
+virakesarilk | 2,301
 dailymirrorlk | 2,495
-adaderanasinhalalk | 2,625
+adaderanasinhalalk | 2,626
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,196 (100.0%) of 16,197 articles have been extended.
+16,197 (100.0%) of 16,204 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### මෙය සෑම ඉන්දියානුවෙකුම කෝපයට පත් කරන සිදුවීමක් - මෝදි
+### කොටින්ගෙන් පිරුණු විල්පත්තුවෙන් අලුත් වාර්තාවක්
 
-*2024-03-31 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195144) · `si`
+*2024-03-31 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195145) · `si`
 
-1974 වසරේ කච්චතිවු දූපත ශ්‍රී ලංකාවට ලබාදීමේ දී එවකට පැවති කොංග්‍රස් රජය ඉතා නොසැලකිලිමත් ආකාරයෙන් කටයුතු කර ඇති බව ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි චෝදනා කරයි.
+ආසියාවේ වැඩිම කොටි ඝනත්වයක් ඇති වනාන්තරය මෙරට විල්පත්තු ජාතික වනෝද්‍යානය බවට හෙළිවී තිබේ.
 
-අදාළ ක්‍රියාවලියෙන් කොංග්‍රස් පක්ෂය ඉන්දියාවේ ඒකීයභාවය දුර්වල කර ඇති බව ඉන්දීය අග්‍රාමාත්‍යවරයා පෙන්වාදී ඇත.
+ඒ සත්ත්වවේදියෙකු ඇතුළු කණ්ඩායමක් 2011 වසරේ සිට සිදුකළ පර්යේෂණයකට අනුවය.
 
-ඉන්දිරා ගාන්ධි රජය විසින් 1974 වසරේ දී කච්චතිවු දූපත ශ්‍රී ලංකාවට ලබාදීම සම්බන්ධයෙන් තොරතුරු දැනගැනීමේ පනත යටතේ භාරතීය ජනතා පක්ෂ මන්ත්‍රීවරයෙකු විසින් ලබාගත් කරුණු සැලකිල්ලට ගනිමින් ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මේ බව ප්‍රකාශ කර තිබුණි.
+මේ වනවිට වනෝද්‍යානයේ කොටියන් 313කට ආසන්න ප්‍රමාණයක් සිටින බවත් පැටවුන් සමග කොටි ධේනුවන් 8ක් පමණ දිවිගෙවන බවත් අනාවරණ වී තිබේ.
 
-නව තොරතුරු මගින් කොංග්‍රස් රජය ඉතා නොසැලකිලිමත් ලෙස කච්චතිවු දූපත ශ්‍රී ලංකාවට ලබාදී ඇති බවට කරුණු අනාවරණය වන බවයි සිය ‘එක්ස්‘ ගිණුමේ සටහනක් තබමින්  ඉන්දීය අග්‍රාමාත්‍යවරයා පෙන්වාදී ඇත.
+හෙක්ටයාර 131,690ක භූමියක් පුරා පැතිරෙන විල්පත්තුව, මෙරට විශාලතම ජාතික වනෝද්‍යානය ලෙස සැළකෙයි.
 
-මෙය සෑම ඉන්දියානුවෙකුම කෝපයට පත් කරන සිදුවීමක් බවත් මෙම තත්ත්වය තුළ කිසිදිනෙක කොංග්‍රස් පක්ෂය පිළිබඳ විශ්වාසය තැබිය නොහැකි බවත් නරේන්ද්‍ර මෝදි ප්‍රකාශ කර තිබේ.
+මන්නාරම සහ වවුනියා දිස්ත්‍රික්කවලට මායිම් වන විල්පත්තුව පුත්තලම සහ අනුරාධපුරය යන දිස්ත්‍රික්ක පුරා විහිදෙන වනෝද්‍යානයකි.
 
-කෙසේවෙතත් ඉන්දීය මහ මැතිවරණය ආසන්නවත්ම මෙලෙස කච්චතිවු දූපත පිළිබඳ මාතෘකාව කරළියට පැමිණ ඇති බව දේශපාලන විචාරකයින් පෙන්වාදෙයි.
+විල්පත්තුව ලොව සුපතළ වනෝද්‍යානයක් බවට පත්ව ඇත්තේ එහි සිටින කොටියන් හේතුවෙනි.
+
+◼️
+
+[Data](articles/939b3305.json)
+
+---
+
+### சன்ரைசர்ஸ் ஹைதராபாத்தை வெற்றிகொண்டது குஜராத் டைட்டன்ஸ்
+
+*2024-03-31 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180089) · `ta`
+
+சன்ரைசர்ஸ் ஹைதராபாத்துக்கு எதிராக அஹமதாபாத் நரேந்த்ர மோடி விளையாட்டரங்கில் இன்று (31) நடைபெற்ற இண்டியன் பிறீமியர் லீக் 17ஆவது அத்தியாயத்தின் 12ஆவது போட்டியில் குஜராத் டைட்டன்ஸ் 7 விக்கெட்களால் வெற்றிபெற்றது.
+
+அப் போட்டியில் முதலில் துடுப்பெடுத்தாடிய சன்ரைசர்ஸ் ஹைதராபாத் 20 ஓவர்களில் 8 விக்கெட்களை இழந்து 162 ஓட்டங்களைப் பெற்றது.
+
+துடுப்பாட்டத்தில் 6 வீரர்கள் இரட்டை இலக்க எண்ணிக்கைகளைப் பெற்ற போதிலும் ஒருவரும் 30 ஓட்டங்களை எட்டவில்லை.
+
+அபிஷேக் ஷர்மா, அப்துல் சமாத் ஆகிய இருவரும் தலா 29 ஓட்டங்களையும் ஹென்ரிச் க்ளாசன் 24 ஓட்டங்களையும் ஷாபாஸ் அஹ்மத் 22 ஓட்டங்களையும் ட்ரவிஸ் ஹெட் 19 ஓட்டங்களையும் ஏய்டன் மாக்ராம் 17 ஓட்டங்களையும் மயான்க் அகர்வால் 16 ஓட்டங்களையும் பெற்றனர்.
+
+163 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய குஜராத் டைட்டன்ஸ் 19.3 ஓவர்களில் 3 விக்கெட்களை இழந்து 168 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+
+ரிதிமான் சஹா 25 ஓட்டங்களையும் அணித் தலைவர் ஷப்மான் கில் 36 ஓட்டங்களையும் சாய் சுதர்சன் 45 ஓட்டங்களையும் பெற்று ஆட்டம் இழந்தனர்.
 
 ...
 
+[Data](articles/47419069.json)
+
+---
+
+### This is an event that is angry with every Indian - Modi
+
+*2024-03-31 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195144) · `si`
+
+Narendra Modi accuses Congress of ceding Kachchativu Island to Sri Lanka in 1974, claiming it weakens India's unity. Critics argue the island's status is disputed. Tamil Nadu fishermen report Sri Lankan Navy's boycott of their elections.
+
+🟩
+
+Indian Prime Minister Narendra Madhi alleges that the Government of the Congress has acted in 1974 to provide Kachchativu Island to Sri Lanka.
+
+The Indian Prime Minister has shown that the Congress Party has weakened the unity of the unity of India by the process.
+
+Indian Prime Minister Narendra Modi had stated that in conservation of the Kachchativu Island in 1974 by the Government of Kachchativu.
+
+The Prime Minister of the Indian Prime Minister has shown that the Government of Congress has been given Kachchativu Island to Sri Lanka.
+
+Narendra Modi has stated that every Indian is an angry incident and can never be relied on the Congress Party.
+
+However, political critics show that the title of Kachchativu Island has come to the fleet.
+
+Tamil Nadu Fisheries Assistants have already stated that the Sri Lankan Navy continues to boycott the election of the Indian fishermen.
+
+◼️
+
 [Data](articles/fa5b90f3.json)
+
+[Extended Data](ext_articles/fa5b90f3.ext.json)
+
+---
+
+### கிளிநொச்சி ஆயுர்வேத வைத்தியசாலைகளில் மருந்துக்களுக்கு தட்டுப்பாடு
+
+*2024-03-31 21:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/180078) · `ta`
+
+கிளிநொச்சியில் ஆயுர் வைத்தியசாலைகளில் மருந்துகளுக்கு கடும் தட்டுப்பாடு நிலவுகின்றது என பொது மக்களால் சுட்டிக்காட்டப்பட்டுள்ளது.
+
+ஆயுர்வேத சிகிச்சைகளுக்கு செல்லும் நோயாளிகளுக்கு மருந்து்களை வெளியில் பெற்றுக்கொள்ளுமாறு மருத்துவர்கள் பரிந்துரைப்பதாகவும் பொருளாதார நெருக்கடிக்காரணமாக பெரும்பாலான பொது மக்கள் மருந்து்களை கொள்வனவு செய்ய முடியாத நிலையில் இருப்பதாகவும் சுட்டிக்காட்டப்பட்டுள்ளது.
+
+இது தொடர்பில் சம்மந்தப்பட்ட வைத்தியர்களை தொடர்புகொண்டு வினவிய போது கடந்த ஆறு மாதங்களுக்கு மேலாக 50 வீத மான மருந்துக்களுக்கு தட்டுப்பாடு நிலவுகிறது எனவும் கொழும்பிலிருந்து தங்களுக்கு உரிய மருந்து கிடைக்கப்பெறவில்லை என்றும் தெரிவித்த அவர்கள், இதன் காரணமாக மாதாந்தம்தங்களிடம் சிகிச்சைக்காக வருகின்ற பொது மக்கள் பெரிதும் பாதிக்கப்பட்டுள்ளதாகவும் குறிப்பிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/8d23fcd4.json)
+
+---
+
+### எதிர்பார்ப்புகளை தகர்த்து கார்த்திக் சுப்புராஜுடன் கரம் கோர்த்த சூர்யா
+
+*2024-03-31 20:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/180080) · `ta`
+
+'கங்குவா' எனும் மிகப் பிரம்மாண்டமான பொருட்செலவில் உருவாகும் படத்தை தொடர்ந்து சூர்யா, இயக்குநர் கார்த்திக் சுப்புராஜ் இயக்கத்தில் தயாராகும் பெயரிடப்படாத புதிய படத்தில் நடிக்கிறார். இதற்கான அதிகாரப்பூர்வமான அறிவிப்பு வெளியிடப்பட்டிருக்கிறது.
+
+கடந்த ஆண்டில் வசூல் ரீதியாகவும், விமர்சன ரீதியாகவும் பாரிய வெற்றியைப் பெற்ற 'ஜிகர்தண்டா டபுள் எக்ஸ்' எனும் திரைப்படத்தை இயக்கியவர் கார்த்திக் சுப்புராஜ். விரைவில் வெளியாகவிருக்கும் இயக்குநர் ஷங்கர் இயக்கத்தில் தெலுங்கின் முன்னணி நட்சத்திர நடிகரான ராம் சரண் நடிக்கும் :கேம் சேஞ்சர்' எனும் திரைப்படத்திற்கும் கதை எழுதி இருக்கிறார் இயக்குநர் கார்த்திக் சுப்புராஜ். தயாரிப்பு- விநியோகம்- இயக்கம்-.. என மூன்று தளங்களிலும் திரைத்துறையில் தனக்கென தனித்துவமான இடத்தை பிடித்திருக்கும் கார்த்திக் சுப்புராஜ் இயக்கத்தில் புதிய படத்தில் நடிக்க சூர்யா சம்மதித்திருக்கிறார்.
+
+...
+
+[Data](articles/d6e88189.json)
+
+---
+
+### வைபவ் நடிக்கும் 'சென்னை சிட்டி கேங்ஸ்டர்ஸ்' படத்தின் மோஷன் போஸ்டர் வெளியீடு
+
+*2024-03-31 20:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180082) · `ta`
+
+சிறிய முதலீட்டு திரைப்படங்களுக்கான நம்பிக்கை நட்சத்திரமாக திகழும் நடிகர் வைபவ் கதையின் நாயகனாக நடித்திருக்கும் 'சென்னை சிட்டி கேங்ஸ்டர்ஸ்: எனும் திரைப்படத்தின் மோஷன் போஸ்டர் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர்கள் விக்ரம் ராஜேஸ்வர் மற்றும் அருண் கேசவ் இயக்கத்தில் உருவாகி இருக்கும் 'சென்னை சிட்டி கேங்ஸ்டர்ஸ்' எனும் திரைப்படத்தில் வைபவ், அதுல்யா ரவி, மணிகண்டன் ராஜேஷ், ஆனந்த் ராஜ், நான் கடவுள் ராஜேந்திரன், ஜான் விஜய், ரெடின் கிங்ஸ்லி, சுனில் ரெட்டி, இளவரசு, லிவிங்ஸ்டன், ஷீஹான் ஹுசைனி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். டிஜோ டோனி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு டி. இமான் இசையமைத்திருக்கிறார். வங்கி கொள்ளையை மையப்படுத்தி உருவாகி இருக்கும் இந்த திரைப்படத்தை 'டிமான்டி காலனி 2' எனும் படத்தை தயாரித்த பி டி ஜி யுனிவர்சல் புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் பாபி பாலச்சந்திரன் தயாரித்திருக்கிறார்.
+
+...
+
+[Data](articles/75c3999f.json)
+
+---
+
+### Sirisena-former president's new colleague, who accused India of the lifeblood attack on the Sunday attack, was responsible for the allegation.
+
+*2024-03-31 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/180066) · `ta`
+
+Sirisena accuses India of the Sunday attack, revealing new information days before the event. He claims to know who is behind the attack and plans to report it in court. Public Security Minister Tran Ales orders an investigation into Sirisena's claims. Sirisena admits India is behind the attack, citing diplomatic discussions. The government investigates allegations of involvement, focusing on national security.
+
+🟩
+
+Former President Maithripala Sirisena has said that India has said that India is behind the Sunday attack, saying that a person who has recently joined with Sirisena, who has recently joined the allegation, is investigating whether the government is in the wake of the allegation.
+
+Former President Maithripala Sirisena has released new information to change the history of the past.
+
+He released this new information as he had a few days for the survival Sunday.
+
+When he visited Kandy last Friday, he outlined that new issues were revealed about his life -threatening Sunday.
+
+After attending his events in Kandy, he spoke to journalists and said he was aware of who was behind the Sunday attack.
+
+Maithripala Sirisena said that he would report it in the presence of the court.
+
+It was evident that two of her assistants had made arrangements to interview Sirisena media in Colombo.
+
+...
+
+[Data](articles/8aa9e2c9.json)
+
+[Extended Data](ext_articles/8aa9e2c9.ext.json)
+
+---
+
+### இலங்கையின் மேலும் 3 வீரர்கள் அரைச் சதங்கள் குவித்து அசத்தல்; கடைசி 4 விக்கெட்களில் கமிந்து 120 ஓட்டங்கள் பகிர்வு
+
+*2024-03-31 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180088) · `ta`
+
+பங்களாதேஷுக்கு எதிராக சட்டோக்ராமில் நடைபெற்றுவரும் 2ஆவது டெஸ்ட் போட்டியின் இரண்டாம் நாளான இன்றைய தினம் மேலும் 3 வீரர்கள் அரைச் சதங்களைப் பெற்றதன் பலனாக இலங்கை அதன் முதல் இன்னிங்ஸில் சகல விக்கெட்களையும் இழந்து 531 ஓட்டங்களைக் குவித்து பலமான நிலையில் இருக்கிறது.
+
+இந்த எண்ணிக்கையானது டெஸ்ட் இன்னிங்ஸ் ஒன்றில் சதம் குவிக்கப்படமலே பெறப்பட்ட அதிகூடிய மொத்த எண்ணிக்கையாகும்.
+
+நியூஸிலாந்துக்கு எதிராக 1976இல் நடைபெற்ற டெஸ்ட் போட்டியில் இந்தியா 9 விக்கெட்களை இழந்து பெற்ற 524 ஓட்டங்களே சதம் குவிக்கப்படாமல் பெறப்பட்ட அதிகூடிய முந்தைய மொத்த எண்ணிக்கையாக இருந்தது.
+
+நேற்று சனிக்கிழமை (30) ஆரம்பமான இந்த டெஸ்ட் போட்டியில் நிஷான் மதுஷ்க, திமுத் கருணாரட்ன, குசல் மெண்டிஸ் ஆகியோர் பெற்ற அரைச் சதங்களின் உதவியுடன் முதலாம் நாள் ஆட்ட நேர முடிவில் இலங்கை 4 விக்கெட்களை இழந்து 318 ஓட்டங்களைப் பெற்றிருந்தது.
+
+கமிந்து மெண்டிஸ் மிகத் திறமையாகத் துடுப்பெடுத்தாடி கடைசி நால்வருடன் 120 விக்கெட்களைப் பகிர்ந்து துரதிர்ஷ்டவசமாக 92 ஓட்டங்களுடன் ஆட்டம் இழக்காதிருந்தார்.
+
+...
+
+[Data](articles/2ec83a94.json)
 
 ---
 
@@ -467,6 +613,20 @@ Police said that the two had been arrested after the voting argument between the
 [Data](articles/eec9e895.json)
 
 [Extended Data](ext_articles/eec9e895.ext.json)
+
+---
+
+### අද ඉන්ධන මිල අඩුවෙයිද?
+
+*2024-03-31 17:25:16* · [`adalk`](https://www.ada.lk/breaking_news/අද-ඉන්ධන-මිල-අඩුවෙයිද-/11-408866) · `si`
+
+ඉන්ධන මිල සූත්‍රයට අනුව අද දිනයේ ඉන්ධන මිල සංශෝධනය සිදුකිරීමට නියමිතව තිබේ. බොහෝ දෙනෙකු මත පළ කරන්නේ අද දිනයේදී බොහෝ විට ඉන්ධන මිල අඩු කිරිමේ හැකියාවක් පවතින බවයි.
+
+රුපියල ශක්තිමත් වීම හා ලෝක වෙළඳපොලේ බොරතෙල් මිල අඩුවීම යන කරුණු අනුව මෙසේ ඉන්ධන මිල අඩුවීමක් සිදුවෙනු ඇතැයි වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/05358f17.json)
 
 ---
 
@@ -1023,36 +1183,6 @@ The person is buried in the middle of the pipe system and is involved in the man
 [Data](articles/63525640.json)
 
 [Extended Data](ext_articles/63525640.ext.json)
-
----
-
-### Sirisena-former president's new colleague, who accused India of the lifeblood attack on the Sunday attack, was responsible for the allegation.
-
-*2024-03-31 14:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/180066) · `ta`
-
-Sirisena accuses India of the Sunday attack, revealing new information days before the event. He claims to know who is behind the attack and plans to report it in court. Public Security Minister Tran Ales orders an investigation into Sirisena's claims. Sirisena admits India is behind the attack, citing diplomatic discussions. The government investigates allegations of involvement, focusing on national security.
-
-🟩
-
-Former President Maithripala Sirisena has said that India has said that India is behind the Sunday attack, saying that a person who has recently joined with Sirisena, who has recently joined the allegation, is investigating whether the government is in the wake of the allegation.
-
-Former President Maithripala Sirisena has released new information to change the history of the past.
-
-He released this new information as he had a few days for the survival Sunday.
-
-When he visited Kandy last Friday, he outlined that new issues were revealed about his life -threatening Sunday.
-
-After attending his events in Kandy, he spoke to journalists and said he was aware of who was behind the Sunday attack.
-
-Maithripala Sirisena said that he would report it in the presence of the court.
-
-It was evident that two of her assistants had made arrangements to interview Sirisena media in Colombo.
-
-...
-
-[Data](articles/8aa9e2c9.json)
-
-[Extended Data](ext_articles/8aa9e2c9.ext.json)
 
 ---
 
@@ -2173,161 +2303,5 @@ The main purpose of this discussion is to declare a ceasefire on the Gaza border
 [Data](articles/0b5ec2d7.json)
 
 [Extended Data](ext_articles/0b5ec2d7.ext.json)
-
----
-
-### Review of Sri Lanka - Indian projects
-
-*2024-03-31 02:38:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-இந்திய-திட்டங்கள்-தொடர்பில்-மீளாய்வு/175-335390) · `ta`
-
-A meeting in New Delhi reviewed India-Sri Lanka economic projects, with Sri Lanka's Sagala Ratnayake thanking India for support and discussing Sri Lanka's economic progress and need for strengthening. Both countries agreed to quarterly progress reviews.
-
-🟩
-
-A meeting was held in New Delhi to review the progress of bilateral economic projects between India and Sri Lanka.
-
-The meeting was held with the participation of the Sri Lankan high -level committee, including Sagala Ratnayake, a senior adviser to the National Security and President of the President, on the invitation of Indian Foreign Secretary Vinay Quadra.
-
-The Indian External Affairs Secretary has welcomed the team including Sagala Ratnayake.
-
-The Indian External Affairs Secretary said that the two countries have the ability to successfully implement the projects that have been agreed under President Ranil Wickremesinghe's strategic economic program as Sri Lanka's economic growth is on a favorable situation.
-
-Sagala Ratnayake thanked the Indian government for the support of the Indian government to restore the collapse of Sri Lanka.
-
-He also explained Sri Lanka's progress in the IMF program with the IMF.
-
-Sagala Ratnayake also pointed out the need to strengthen the economy of Sri Lanka.
-
-...
-
-[Data](articles/0e661236.json)
-
-[Extended Data](ext_articles/0e661236.ext.json)
-
----
-
-### Today's extreme security
-
-*2024-03-31 02:36:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-அதிவிசேட-பாதுகாப்பு/175-335389) · `ta`
-
-Police enhanced security at Christian churches on Sunday, with measures in place until devotees leave. This follows the strengthening of security since a large silver ceremony yesterday.
-
-🟩
-
-Police have taken steps to implement a special security program in all Christian churches that are held on Sunday rituals today.
-
-The security arrangements will be completed this afternoon and will be implemented until all the devotees go to their homes, the police headquarters said.
-
-Meanwhile, security arrangements have been made since the launch of a large silver ceremony yesterday, and the security has been strengthened today.. (A)
-
-◼️
-
-[Data](articles/7116b7a9.json)
-
-[Extended Data](ext_articles/7116b7a9.ext.json)
-
----
-
-### President's Easter Day News
-
-*2024-03-31 02:14:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-ஈஸ்டர்-தினச்-செய்தி/175-335387) · `ta`
-
-Sri Lankan Christians celebrated Easter with devotion, but faced a tragic extremist attack. President Wickremesinghe acknowledged the painful memories, emphasizing unity and resilience in the face of economic challenges. The government pledges to uphold law and security, dedicating efforts to national development.
-
-🟩
-
-Easter time celebrated with great respect and devotion by Sri Lankan Christians saw a terrible extremist attack. President Ranil Wickremesinghe said in an Easter Day message that those bad memories never disappeared from our minds.
-
-Christians around the world celebrate Easter festival to commemorate the resurrection of Jesus Christ.
-
-Christians engage in religious obligations over the 40 -day period of recalling Jesus' suffering, death and resurrection.
-
-As a country that has faced the worst economic challenge in history, we have begun to resurrect with blessings as an efficient nation.
-
-It is necessary to work together to win the challenges faced by Sri Lanka as a multi -faceted country. Therefore, we, as Sri Lankans, maintain our unity and harmony and not get caught up with any forces that affect it, and dedicate the country's security, peace and development.
-
-...
-
-[Data](articles/3688467f.json)
-
-[Extended Data](ext_articles/3688467f.ext.json)
-
----
-
-### Increase violence against women
-
-*2024-03-31 02:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்களுக்கு-எதிரான-வன்முறைகள்-அதிகரிப்பு/175-335386) · `ta`
-
-Social media violence against women surged, with 1500 complaints filed this year, including fraud on Facebook.
-
-🟩
-
-Violence against women on social media has increased, police Computer Crime Branch said.
-
-1500 complaints have been lodged over the crimes of social media during the year, according to the police computer crime.
-
-Violence against women has been reported, police said.
-
-Police Computer Crime Branch said the frauds on Facebook have also increased. (A)
-
-◼️
-
-[Data](articles/26ff3577.json)
-
-[Extended Data](ext_articles/26ff3577.ext.json)
-
----
-
-### S.J.V.Chelvanayakam: Respected “Gandhian”Tamil Political  Leader  was a Christian by religion and a Hindu by culture.
-
-*2024-03-31 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83821) · `en`
-
-(This article was first written in 1997 for a special volume commemorating the birth centenary of Tamil political leader SJV Chelvanayakam. It is being reposted with slight changes to denote his 126th  birth anniversary on March 31)
-
-On September 6th 1977, Lalith Athulathmudali, then Minister of Trade said in Parliament “Samuel James Velupillai Chelvanayakam was born in Ipoh…. ..Ipoh is known as the cleanest City in Malaysia. Perhaps it was in the fitness of things that Mr. Chelvanayakam’s life was marked by a cleanliness unknown in contemporary politics.” Athulathmudali was speaking on the vote of condolence for SJV Chelvanayakam then.
-
-...
-
-[Data](articles/00854be8.json)
-
-[Extended Data](ext_articles/00854be8.ext.json)
-
----
-
-### After unforgivably allowing a disaster of the magnitude of the 2019 attacks on churches and hotels to occur at the hands of local jihadists, what is the point of parading military men before churches now?
-
-*2024-03-31 00:54:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83838) · `en`
-
-Does the Sri Lankan Government believe that posting hundreds of military officers with guns at the ready in front of churches during the Christian Holy Week, will suffice to mitigate monumental lapses on the part of the State in not (properly) investigating or prosecuting those responsible for the 2019 Easter Sunday attacks?
-
-Is this not part of the many charades in regard to ‘investigating’ gross human rights abuses where the State itself is complicit in the same?
-
-This is irrespective of targeting ethnic or religious minorities (Tamil/Muslim) or for that matter, the (Sinhala) majority itself whose common blood has soaked Sri Lanka’s soil since independence.
-
-That commonality of justice denied has been a damning truth carefully avoided by political demagogues, not only the Rajapaksas.
-
-...
-
-[Data](articles/439c14c2.json)
-
-[Extended Data](ext_articles/439c14c2.ext.json)
-
----
-
-### “Isso vadai”Cart and “Kottu Rotti”Stand Vendors Forbidden on Galle Face Green from  2024 Independence Day; SLPMCS Cites Sanitation Issues as Reason but Others Suspecct “Gentrification” of vendors and  Plans of moving them to Underground  spaces as real motive
-
-*2024-03-31 00:45:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83833) · `en`
-
-When renowned global TV chef and documentarian, Anthony Bourdain, tried street food on Galle Face Green for his episode in Sri Lanka in 2017, the public seaside walkway bustled with “issovadai” carts and “kottu” stands. Today, it’s a starkly different story.
-
-The vendors say the authorities have told them to clear out. Some have returned home, to Slave Island, without work. But many have shifted their carts to the Galle Road border, resisting police and risking turf wars with preexisting roadside sellers.
-
-Galle Face Green goes back to 1859 when it was used for British colonial sporting events. Over the years, it transformed into an iconic space where the public gather to eat street food, fly kites and watch the spectacular sunsets.
-
-...
-
-[Data](articles/a7e9c2c1.json)
-
-[Extended Data](ext_articles/a7e9c2c1.ext.json)
 
 ---

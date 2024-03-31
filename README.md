@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-03-31 21:03:31**
+As of **2024-03-31 21:18:03**
 
 ## Newspaper Stats
 
-*Scraped **16,196** Articles*
+*Scraped **16,197** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ tamilmirrorlk | 1,937
 adaderanalk | 1,956
 virakesarilk | 2,296
 dailymirrorlk | 2,495
-adaderanasinhalalk | 2,624
+adaderanasinhalalk | 2,625
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,196 (100.0%) of 16,196 articles have been extended.
+16,196 (100.0%) of 16,197 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
+
+### මෙය සෑම ඉන්දියානුවෙකුම කෝපයට පත් කරන සිදුවීමක් - මෝදි
+
+*2024-03-31 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195144) · `si`
+
+1974 වසරේ කච්චතිවු දූපත ශ්‍රී ලංකාවට ලබාදීමේ දී එවකට පැවති කොංග්‍රස් රජය ඉතා නොසැලකිලිමත් ආකාරයෙන් කටයුතු කර ඇති බව ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි චෝදනා කරයි.
+
+අදාළ ක්‍රියාවලියෙන් කොංග්‍රස් පක්ෂය ඉන්දියාවේ ඒකීයභාවය දුර්වල කර ඇති බව ඉන්දීය අග්‍රාමාත්‍යවරයා පෙන්වාදී ඇත.
+
+ඉන්දිරා ගාන්ධි රජය විසින් 1974 වසරේ දී කච්චතිවු දූපත ශ්‍රී ලංකාවට ලබාදීම සම්බන්ධයෙන් තොරතුරු දැනගැනීමේ පනත යටතේ භාරතීය ජනතා පක්ෂ මන්ත්‍රීවරයෙකු විසින් ලබාගත් කරුණු සැලකිල්ලට ගනිමින් ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මේ බව ප්‍රකාශ කර තිබුණි.
+
+නව තොරතුරු මගින් කොංග්‍රස් රජය ඉතා නොසැලකිලිමත් ලෙස කච්චතිවු දූපත ශ්‍රී ලංකාවට ලබාදී ඇති බවට කරුණු අනාවරණය වන බවයි සිය ‘එක්ස්‘ ගිණුමේ සටහනක් තබමින්  ඉන්දීය අග්‍රාමාත්‍යවරයා පෙන්වාදී ඇත.
+
+මෙය සෑම ඉන්දියානුවෙකුම කෝපයට පත් කරන සිදුවීමක් බවත් මෙම තත්ත්වය තුළ කිසිදිනෙක කොංග්‍රස් පක්ෂය පිළිබඳ විශ්වාසය තැබිය නොහැකි බවත් නරේන්ද්‍ර මෝදි ප්‍රකාශ කර තිබේ.
+
+කෙසේවෙතත් ඉන්දීය මහ මැතිවරණය ආසන්නවත්ම මෙලෙස කච්චතිවු දූපත පිළිබඳ මාතෘකාව කරළියට පැමිණ ඇති බව දේශපාලන විචාරකයින් පෙන්වාදෙයි.
+
+...
+
+[Data](articles/fa5b90f3.json)
+
+---
 
 ### Maithri commemorates India - Harsha
 
@@ -2307,27 +2329,5 @@ Galle Face Green goes back to 1859 when it was used for British colonial sportin
 [Data](articles/a7e9c2c1.json)
 
 [Extended Data](ext_articles/a7e9c2c1.ext.json)
-
----
-
-### 2024-03-30 (Saturday)
-
-### IMF confirms increasing Egypt’s bailout loan to $8 billion
-
-*2024-03-30 23:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/98315/imf-confirms-increasing-egypts-bailout-loan-to-8-billion) · `en`
-
-The executive board of the International Monetary Fund confirmed a deal with Egypt to increase its bailout loan from $3 billion to $8 billion, in a move that is meant to shore up the Arab country’s economy which is hit by a staggering shortage of foreign currency and soaring inflation.
-
-In a statement late Friday, the board said its decision would enable Egypt to immediately receive about $820 million as part of the deal which was announced earlier this month.
-
-The deal was achieved after Egypt agreed with the IMF on a reform plan that is centered on floating the local currency, reducing public investment and allowing the private sector to become the engine of growth, the statement said.
-
-Egypt has already floated the pound and sharply increased the main interest rate. Commercial banks are now trading the U.S. currency at more than 47 pounds, up from about 31 pounds. The measures are meant to combat ballooning inflation and attract foreign investment.
-
-...
-
-[Data](articles/f9d86cf8.json)
-
-[Extended Data](ext_articles/f9d86cf8.ext.json)
 
 ---

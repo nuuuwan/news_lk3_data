@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 00:03:09**
+As of **2024-04-01 00:18:00**
 
 ## Newspaper Stats
 
@@ -26,29 +26,43 @@ adaderanasinhalalk | 2,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,217 (100.0%) of 16,221 articles have been extended.
+16,221 (100.0%) of 16,221 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-03-31 (Sunday)
 
-### விஷ்மி, காவிஷா துடுப்பாட்டத்தில் அபாரம்; ரி20யில் தென் ஆபிரிக்காவை வீழ்த்தியது இலங்கை
+### Vishmi, Kavisha cricketSri Lanka beat South Africa in T20
 
 *2024-03-31 23:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/180093) · `ta`
 
-பொச்செவ்ஸ்ட்ரூம் சென்வெஸ் பாக் விளையாட்டரங்கில் சனிக்கிழமை (30) நடைபெற்ற 2ஆவது மகளிர் சர்வதேச ரி20 கிரிக்கெட் போட்டியில் தென் ஆபிரிக்காவை 7 விக்கெட்களால் இலங்கை இலகுவாக வெற்றிகொண்டது.
+Sri Lanka won the 2nd Women's T20 match against South Africa by 7 wickets, balancing the series 1-1. Vishmi Gunaratne and Kavisha scored 76 runs, but South Africa lost to a low score. Sri Lanka's Vishmi lost 57 balls with 9 fours, 65 runs, and Kavisha Dilhari scored 45 off 28 balls. South Africa's Anek Bosh and Maurizan Keb scored 50 and 44 runs respectively.
 
-இதன் மூலம் 3 போட்டிகள் கொண்ட மகளிர் ரி20 சர்வதேச கிரிக்கெட் தொடரை 1 - 1 என இலங்கை சமப்படுத்திக் கொண்டுள்ளது.
+🟩
 
-18 வயது பருவ மங்கை விஷ்மி குணரத்ன, 23 வயதான காவிஷா ஆகியோர் திறமையாகத் துடுப்பெடுத்தாடி பிரிக்கப்படாத 4ஆவது விக்கெட்டில் பகிர்ந்த 76 ஓட்டங்கள் இலங்கையின் வெற்றியை இலகுவாக்கியது.
+Sri Lanka easily won South Africa by 7 wickets in the 2nd Women's International T20 cricket match held on Saturday (30) at the Pochevstrom Senvez Bagh Stadium.
 
-அப் போட்டியில் தென் ஆபிரிக்க மகளிர் அணியினால் நிர்ணயிக்கப்பட்ட 138 ஓட்டங்களை வெற்றி இலக்காகக் கொண்டு பதிலுக்கு துடுப்பெடுத்தாடிய இலங்கை மகளிர் அணி 18.5 ஓவர்களில் 3 விக்கெட்களை இழந்து 138 ஓட்டங்களைப் பெற்று வெற்றியீட்டியது.
+Sri Lanka has balanced the 3 -match women's T20 International Cricket Series 1 - 1.
 
-அணித் தலைவி சமரி அத்தபத்து (6), ஹர்ஷிதா சமரவிக்ரம (12), ஹாசினி பெரேரா (1) ஆகியோர் குறைந்த ஓட்டங்களுடன் ஆட்டம் இழந்தனர். (62 - 3 விக்.)
+18 -year -old Manga Vishmi Gunaratne and 23 -year -old Kavisha have shared 76 runs in the 4th wicket that are not efficient.
 
-...
+In the upcoming match, the Sri Lankan women's team won 138 runs for the loss of 138 runs in the upcoming match.
+
+Team captain Samari Athapathu (6), Harshita Samarawickrama (12) and Hassini Perera (1) lost the game with a low run.. (62 - 3 wig.)
+
+However, Vishmi Gunaratne lost 57 balls with 9 fours, 65 runs, including one six and Kavisha Dilhari, 45 off 28 balls and 45 runs.
+
+South Africa first scored 137 runs for the loss of 8 wickets in 20 overs.
+
+Anek Bosh shone in 50 runs and Maurizan Keb 44 runs.
+
+Achini Kulasuriya took 2 wickets for 26 runs and Inoshi Priyadarshani, Samari Attapattu and Kavisha Tilhari took one wicket each.
+
+◼️
 
 [Data](articles/702c1923.json)
+
+[Extended Data](ext_articles/702c1923.ext.json)
 
 ---
 
@@ -208,25 +222,33 @@ Standard diesel also remains unchanged at 363 rupees a litre, the CPC said.
 
 [Data](articles/a89e2508.json)
 
+[Extended Data](ext_articles/a89e2508.ext.json)
+
 ---
 
-### எரிபொருள்களில் விலை குறைப்பு
+### A reduction in prices in fuels
 
 *2024-03-31 22:00:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்களில்-விலை-குறைப்பு/175-335416) · `ta`
 
-ஞாயிற்றுக்கிழமை (31) நள்ளிரவு முதல் அமுலுக்கு வரும் வகையில் எரிபொருள் விலைகளில் மாற்றம் ஏற்படுத்தப்பட்டுள்ளதாக இலங்கை பெட்ரோலிய கூட்டுதாபனம் அறிவித்துள்ளது.
+The Sri Lankan Petroleum Corporation has reduced fuel prices effective from midnight on Sunday. Octane 95 petrol is now 440 rupees, super diesel 386 rupees, and kerosene 245 rupees. Octane 92 and Otto diesel prices remain unchanged.
 
-ஒரு லீட்டர் ஒக்டேன் 95 ரக பெட்ரோலின் விலை 7 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன், அதன் புதிய விலையாக 440 ரூபா நிர்ணயிக்கப்பட்டுள்ளது.
+🟩
 
-ஒரு லீட்டர் சுப்பர் டீசலின் விலை 72 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன், அதன் புதிய விலையாக 386 ரூபா நிர்ணயிக்கப்பட்டுள்ளது.
+The Sri Lankan Petroleum Corporation has announced that it has been changed in effect from midnight on Sunday (31).
 
-ஒரு லீட்டர் மண்ணெண்ணெய்  விலை 12 ரூபாவினால் குறைக்கப்பட்டுள்ளதுடன், அதன் புதிய விலையாக 245 ரூபா நிர்ணயிக்கப்பட்டுள்ளது.
+The price of a liter of octane 95 petrol has been reduced by 7 rupees and its new price has been fixed at 440 rupees.
 
-ஒக்டேன் 92 ரக பெட்ரோல் மற்றும் ஒட்டோ டீசலின் விலைகளில் மாற்றம் ஏற்படுத்தப்படவில்லை
+The price of a liter of super diesel has been reduced by 72 rupees and its new price has been fixed at 386 rupees.
+
+The price of a liter of kerosene has been reduced by 12 rupees and its new price has been fixed at 245 rupees.
+
+Octane 92 variants of petrol and Otto diesel have not changed
 
 ◼️
 
 [Data](articles/2b85403c.json)
+
+[Extended Data](ext_articles/2b85403c.ext.json)
 
 ---
 
@@ -1055,6 +1077,8 @@ The Indian claims were based in part on rights given by the British East India C
 ...
 
 [Data](articles/18858d97.json)
+
+[Extended Data](ext_articles/18858d97.ext.json)
 
 ---
 

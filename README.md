@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 17:35:15**
+As of **2024-04-01 17:54:16**
 
 ## Newspaper Stats
 
-*Scraped **16,413** Articles*
+*Scraped **16,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,42 +13,110 @@ bbccomsinhala | 173
 dbsjeyarajcom | 201
 newsfirstlk | 363
 dailyftlk | 881
-economynextcom | 893
+economynextcom | 908
 islandlk | 912
 adalk | 1,381
 tamilmirrorlk | 1,960
 adaderanalk | 1,979
 virakesarilk | 2,338
 dailymirrorlk | 2,525
-adaderanasinhalalk | 2,660
+adaderanasinhalalk | 2,661
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,401 (99.9%) of 16,413 articles have been extended.
+16,413 (99.9%) of 16,429 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### மட்டக்களப்பு பட்டிருப்பு தேசிய பாடசாலை ஆசிரியர்கள் கவனயீர்ப்பு போராட்டம்
+### Sri Lanka producers meeting demand, egg at Rs35 for new year: Minister
+
+*2024-04-01 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-producers-meeting-demand-egg-at-rs35-for-new-year-minister-156836/) · `en`
+
+ECONOMYNEXT – Local egg production has exceeded the total daily requirement, Minister of Agriculture and Plantation Industries Mahinda Amaraweera has said.
+
+“Therefore, the price of a local egg is likely to come down to 35 rupees in the coming period,” Amaraweera was quoted in a statement by the Government Information Department.
+
+On average, the daily requirement of eggs in this country is 6.5 million eggs. According to the Egg Producers Association, the production of eggs in local poultry farms has already exceeded 7.5 million, Amaraweera said.
+
+Although the number of mother animals needed annually in this country is 85,000, the number of mother animals in all poultry farms has exceeded 135,000. All poultry farms have completed 100 percent chick capacity, according to the statement.
+
+At present, the price of an egg in the local market varies between 42-48 rupees.
+
+...
+
+[Data](articles/a4e2dcad.json)
+
+---
+
+### ඩිලාන්ගේ සැකය නිසා විදෙස් කාන්තාව බේරෙයි
+
+*2024-04-01 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195181) · `si`
+
+සමාජ මාධ්‍ය ඔස්සේ හමු වූ තම පෙම්වතා බව කියන පුද්ගලයෙකුගේ මුල්‍ය වංචාවකට හසුවීමට ගිය මෙල්බන් හි පදිංචි කාන්තාවක් ඉන් බේරා ගැනීමට ශ්‍රී ලංකික බැංකු නිලධාරියෙකු සමත්වී ඇති බව ඔස්ට්‍රේලියානු මාධ්‍ය වාර්තා සඳහන් කරයි.
+
+අදාළ කාන්තාව තම පෙම්වතා බව කියන විදේශිකයෙකුට මුදල් යැවීම සඳහා "ජාතික ඔස්ට්‍රේලියානු බැංකුවේ" (NAB) මෙල්බර්න් ශාඛාවකට ගොස් තිබුණාය.
+
+එහෙත් එම බැංකුවේ පාරිභෝගික උපදේශක නිලධාරියා ලෙසට සිටි ශ්‍රී ලංකිකයෙකු වන ඩිලාන් පතිරණට මෙම කාන්තාව ලබාදුන් තොරතුරු පිළිබඳ ඇති වූ සැකයක් මත වැඩිදුරටත් සොයා බලා තිබුණි.
+
+වයස අවුරුදු 60ක් පමණ වන කාන්තාවට බැංකුවට ගොස් මුදල් යැවීමට උදව් අවශ්‍ය බව පැවසුව ද එම මුදල් ලබන්නාගේ වාසගම තමන් නොදන්නා බව ඇය ප්‍රකාශ කළාය.
+
+කාන්තාව, පෙම්වතාගේ නම සොයා ගැනීමට ඇයට ලැබුණු කෙටි පණිවුඩ ඩිලාන් ට පෙන්වා ඇති අතර එහිදී මෙය යම් වංචාවක් විය හැකි බවට ඔහුට වැටහී තිබුණි.
+
+කෙසේ වෙතත්, එම කාන්තාව දැඩි ලෙස ප්‍රකාශ කර ඇත්තේ තුර්කියේ සිටින තම පෙම්වතාට වෛද්‍ය ප්‍රතිකාර සඳහා එක්සත් රාජධානියට යාමට ඩොලර් 2000ක් යැවිය යුතු බවයි.
+
+...
+
+[Data](articles/54eff96e.json)
+
+---
+
+### Sri Lanka to extend visa-free pilot project till April 30: tourism minister
+
+*2024-04-01 17:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-extend-visa-free-pilot-project-till-april-30-tourism-minister-156859/) · `en`
+
+ECONOMYNEXT — A pilot project launched to allow visa-free entrance to Sri Lanka for visitors from seven countries has been extended till April 30, Tourism Fernando Harin Fernando said.
+
+“The pilot project of Free Visa to seven countries will be extended until 30th April 2024. A final decision to be taken during the next few weeks of the pilot project,” Fernando tweeted on Monday April 01.
+
+In October 2023, Sri Lanka’s cabinet approved a proposal to offer visa-free entry for nationals from India, China, Russia, Malaysia, Japan, Indonesia and Thailand as a pilot project till March 31, 2024.
+
+Meanwhile, Sri Lanka and Thailand are considering visa free travel to strengthen economic links between the two countries President Ranil Wickremesinghe in February after signing a free trade with the South East Asian nation.
+
+Sri Lanka reported over 600,000 tourist arrivals within the first three months of 2024, with 608,475 tourist arrivals recorded by March 31.
+
+...
+
+[Data](articles/ece32295.json)
+
+---
+
+### Batticaloa National School Teachers' Attention Struggle
 
 *2024-04-01 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/180162) · `ta`
 
-மட்டக்களப்பு மாவட்டத்தின் பட்டிருப்பு கல்வி வலயத்திற்குட்பட்ட பட்டிருப்பு தேசிய பாடசாலையின் ஆசிரியர்கள் இன்று திங்கட்கிழமை (01) பிற்பகல் பாடசாலைக்கு முன்பாக கவனஈர்ப்பு போராட்டம் ஒன்றினை மேற்கொண்டனர்.
+Teachers at Pattupuru National School protested against wrongful teacher transfers, claiming it violates national school autonomy. The protest, led by the Pattaru Zonal Educator, highlighted the struggle for teacher rights and the impact of provincial council administration on national schools.
 
-பட்டிருப்பு வலய கல்விப்பணிப்பாளரினால் ஆசிரியர் இடமாற்றத்தின்போது பிழையான வகையான செயற்பாடுகள் முன்னெடுப்பதாக கூறி இந்த போராட்டம் முன்னெடுக்கப்பட்டது.
+🟩
 
-தேசிய அரசாங்கத்தின் கீழ் தேசிய பாடசாலைகள் இயங்கும் நிலையில் மாகாணசபையின் கீழ் இயங்கும் நிர்வாகங்கள் இடமாற்றங்களை மேற்கொள்ளும் செயற்பாடுகளை கண்டித்தே இந்த ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டது.
+Teachers of the Pattupuru National School, which belongs to the Pattupuru Educational Zone of the Batticaloa District, staged a protest in front of the school on Monday afternoon.
 
-நீதியற்ற முறையில் இடம்பெற்றுவருகின்ற ஆசிரியர் இடமாற்றத்திற்கு எதிராக இன்றைய தினம் பாடசாலை கற்றல் நடவடிக்கைகள் நிறைவடைந்த பின்னர் இந்த கவனயீர்ப்பு போராட்டம் பாடசாலையில் முன்பாக இடம்பெற்றது.
+The struggle was carried out by the Pattaru Zonal Educator, claiming that the teacher was carrying out the wrong activities during the transfer of the teacher.
 
-தாங்கள் தேசிய பாடசாலையின் கீழ் நியமனம்பெற்றுள்ள நிலையில் தங்களுக்கு இடமாற்றங்கள் வழங்கவேண்டுமானால் இன்னுமொரு தேசிய பாடசாலைக்கே இடமாற்றம் வழங்கவேண்டும் என்றும் மாறாக மாகாண பாடசாலைகளுக்கு இடமாற்றம் செய்வதை அனுமதிக்கமுடியாது எனவும் ஆசிரியர்கள் இதன்போது தெரிவித்தனர்.
+The demonstration was carried out in condemning the process of transfers of administrations under the provincial council as national schools are running under the national government.
+
+The protest took place in front of the school after school learning was completed today against the unrighteous teacher transfer.
+
+The teachers said that if they were to be transferred under the national school, they would have to be transferred to another national school and would not be allowed to relocate to provincial schools.
 
 ...
 
 [Data](articles/b719ff9c.json)
+
+[Extended Data](ext_articles/b719ff9c.ext.json)
 
 ---
 
@@ -68,27 +136,37 @@ Earlier, the Tourism Minister had stated that the purpose of exempting tourists 
 
 [Data](articles/1ee87cd4.json)
 
+[Extended Data](ext_articles/1ee87cd4.ext.json)
+
 ---
 
-### 3 மாதங்களில் 6 இலட்சம் சுற்றுலாப் பயணிகள் நாட்டிற்கு வருகை
+### 6 lakh tourists visit the country in 3 months
 
 *2024-04-01 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/180156) · `ta`
 
-இவ் ஆண்டின் முதல் மூன்று மாதங்களில் நாட்டிற்கு 600,000 சுற்றுலாப் பயணிகள் வருகை தந்துள்ளனர்.
+In 2024, Sri Lanka saw 600,000 tourists in 3 months, with 200,000 arriving monthly. Harin Fernando highlighted this as a turning point. Tourists came from India, Russia, Germany, UK, China, and other countries.
 
-அதன்படி, மார்ச் மாதம் 31 ஆம் திகதி நிலவரப்படி  நாட்டிற்கு 608,475 சுற்றுலாப் பயணிகள் வருகை தந்துள்ளதாக சுற்றுலாத் துறை அமைச்சர்  ஹரின் பெர்னாண்டோ தெரிவித்துள்ளார்.
+🟩
 
-இவ் ஆண்டில் முதல் மூன்று மாதங்களில் ஒவ்வொரு மாதமும்  200,000 சுற்றுலாப் பயணிகள் வருகை தந்துள்ளதோடு, இது இலங்கைக்கு ஒரு  திருப்பு முனையாகவுள்ளதாக அமைச்சர் ஹரின் பெர்னாண்டோ தெரிவித்துள்ளார்.
+In the first three months of this year, 600,000 tourists have visited the country.
 
-2018 ஆம் ஆண்டில் நாட்டிற்கு வருகை தந்த சுற்றுலாப்பயணிகளின் எண்ணிகையை அண்மித்துள்ளதாக இலங்கை சுற்றுலா அபிவிருத்தி அதிகாரசபையின் (SLTDA)தரவுகள் சுட்டிகாட்டியுள்ளது.
+According to Tourism Minister Harin Fernando, 608,475 tourists have visited the country as of March 31.
 
-இந்நிலையில், 2024 ஆம் ஆண்டில் ஜனவரி மாதத்தில் 208,253 பேரும், பெப்ரவரி மாதத்தில்  218,350 பேரும், மார்ச் மாதத்தில் 209,181 பேரும் வருகை தந்துள்ளானர்.
+Minister Harin Fernando said that in the first three months of this year, 200,000 tourists arrive every month and this is a turning point for Sri Lanka.
 
-மார்ச் மாதத்தில் இந்தியாவிலிருந்து 28,218 பேரும்,  ரஷ்யாவிலிருந்து 25,112  பேரும், ஜேர்மனியில் இருந்து 16,745 பேரும், ஐக்கிய இராச்சியத்திலிருந்து 16,649  பேரும், சீனாவிலிருந்து 11,220 பேரும் வருகை தந்துள்ளனர்.
+The Sri Lanka Tourism Development Authority (SLTDA) has indicated that the number of tourists who visited the country in 2018 has been the case.
 
-...
+In January 2024, 208,253 people arrived in January, 218,350 in February and 209,181 in March.
+
+In March, 28,218 from India, 25,112 from Russia, 16,745 from Germany, 16,649 from the United Kingdom and 11,220 from China.
+
+During this period, tourists from France, Australia, the US, Poland and Canada were reported.
+
+◼️
 
 [Data](articles/a357c389.json)
+
+[Extended Data](ext_articles/a357c389.ext.json)
 
 ---
 
@@ -110,51 +188,89 @@ The hospitals in which the token strike is in place are as follows;
 
 [Data](articles/f7140d43.json)
 
+[Extended Data](ext_articles/f7140d43.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාව ලකුණු 455ක් ඉදිරියෙන්
+### Sri Lanka scored 455 runs
 
 *2024-04-01 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195180) · `si`
 
-ශ්‍රී ලංකාව සහ බංග්ලාදේශය අතර පැවැත්වෙන දෙවැනි ටෙස්ට් තරගයේ තුන්වැනි දිනය අවසන් වන විට ශ්‍රී ලංකා කණ්ඩායම සිය දෙවැනි ඉනිම සඳහා කඩුලු 6ක් දැවී ලකුණු 106ක් ලබා සිටියේය.
+Sri Lanka leads by 455 runs after 3 days of the 2nd Test, scoring 106 runs and losing 6 wickets.
 
-ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම බංග්ලාදේශයට වඩා ලකුණු 455ක් ඉදිරියෙන් සිටී.
+🟩
+
+By the end of the third day of the second Test between Sri Lanka and Bangladesh, Sri Lanka scored 106 runs for the loss of 6 wickets.
+
+Accordingly, the Sri Lankan team is leading 455 runs than Bangladesh.
 
 ◼️
 
 [Data](articles/4503bc95.json)
 
+[Extended Data](ext_articles/4503bc95.ext.json)
+
 ---
 
-### මහ බැංකුවේ වැටුප් වැඩිවීම සමාලෝචනයට ජනපතිගෙන් කමිටුවක්
+### Sri Lanka rupee closes at 300.00/06 to the US dollar
+
+*2024-04-01 17:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-300-00-06-to-the-us-dollar-156832/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 300.00/06 to the US dollar in the spot forex market on Monday, stronger from 300.40/50 on Thursday, dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed stable at 11.30/40 percent.
+
+A bond maturing on 15.09.2027 closed at 11.90/12.05 percent from 11.90/95 percent.
+
+A bond maturing on 15.12.2028 closed stable at 12.10/20 percent. (Colombo/Apr1/2024)
+
+◼️
+
+[Data](articles/b1ada02c.json)
+
+---
+
+### President to review the increase in salary increase
 
 *2024-04-01 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195179) · `si`
 
-රජයේ මුදල් පිළිබඳ කාරක සභාවේ නිර්දේශ මත පදනම්ව ශ්‍රී ලංකා මහ බැංකුවේ වැටුප් වැඩිවීම සමාලෝචනය කිරීම සඳහා මුදල් ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යවරයා ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ස්වාධීන පාරිශ්‍රමික කමිටුවක් පත් කර තිබේ.
+President Ranil Wickremesinghe appointed an independent remuneration committee, including Dinesh Stewen Weerakkody and others, to review salary increases. The committee, appointed by the Minister of Finance, will consider salary adjustments for the Central Bank of Sri Lanka until 2024-03-16.
 
-දිනේෂ් ස්ටීවන් වීරක්කොඩි, අර්ජුන හේරත්, ආචාර්ය ඉන්ද්‍රජිත් කුමාරස්වාමි, සුධර්මා කරුණාරත්න, ඇන්තනී නිහාල් ෆොන්සේකා, අනුෂ්ක එස්. විජේසිංහ, දුමින්ද හුලංගමුව යන මහත්ම මහත්මීන් මෙම කමිටුවේ සාමාජිකයන් ලෙස පත් කර ඇත.
+🟩
 
-රජයේ මුදල් කාරක සභාව හා ශ්‍රී ලංකා මහ බැංකුව අතර සිදු වූ සියලු ලිපි ගණුදෙනු මත පදනම්ව, ශ්‍රී ලංකා මහ බැංකුවේ ස්වාධීනත්වයට හානියක් නොවන පරිදි ගැටළුවට සාධාරණ විසඳුමක් සහිතව සහ ශ්‍රී ලංකා මහ බැංකුවේ 2024-2026 වැටුප් සංශෝධනය ශීර්ෂය සහිත 2024-03-16 දිනැති ශ්‍රී ලංකා මහ බැංකුවේ ලිපියට විශේෂ අවධානයක් යොමු කරමින් සාකච්ඡාවට තුඩු දී ඇති වැටුප් වැඩි කිරීම සලකා බැලීම සඳහා මුදල් අමාත්‍යවරයා ලෙස ජනාධිපතිවරයා විසින් මෙම කමිටුව පත් කර තිබේ.
+Based on the recommendations of the Committee of the Committee of the Committee, President Ranil Wickremesinghe has appointed an independent remuneration as the Minister of Economic Standing and National Policies.
+
+Dinesh Stewen Weerakkody, Arjuna Herath, Dr. Indrajith Kumaraswamy, Sudhirma Karunaratne, Anthony Nihal Fonseka, Antonny Nihal Fonseka. Mrs. Wijesinghe, Duminda Hulangamuwa have been appointed as members of the committee.
+
+Government Finance Committee and all correspondence between the Central Bank of Sri Lanka with a fair solution to the Central Bank of Sri Lanka with a fair solution to the Central Bank of Sri Lanka with a fair to 2024-03-16.The committee has been appointed as the Minister of Finance to considering the salary minister that has been paid to the respective Bank's letter.
 
 ◼️
 
 [Data](articles/3132ce71.json)
 
+[Extended Data](ext_articles/3132ce71.ext.json)
+
 ---
 
-### கேகாலை, நுவரெலியா, பதுளை, பொலன்னறுவை மாவட்ட அஸ்வெசும பயனாளிகளுக்கு சித்தரைப் புத்தாண்டுக்கு முன்னர் கொடுப்பனவு
+### Benefits of Aswesuma Beneficiaries of Kegalle, Nuwara Eliya, Badulla, Polonnaruwa District
 
 *2024-04-01 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180169) · `ta`
 
-கேகாலை, நுவரெலியா, பதுளை மற்றும் பொலன்னறுவை மாவட்டங்களில் அஸ்வெசும நலன்புரி கொடுப்பனவு திட்டத்தின் கீழ் 2500 ரூபாவைப் பெற்றுக் கொள்வதற்கு தகுதி பெற்ற பயனாளிகள் பல்வேறு நெருக்கடிகளை எதிர்கொண்டிருந்தனர். அவர்களுக்கு சித்திரைப் புத்தாண்டுக்கு முன்னர் குறித்த கொடுப்பனவை வழங்குவதற்கு நடவடிக்கை எடுக்கப்படும் என்று நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டி தெரிவித்தார்.
+Aswesuma beneficiaries in Kegalle, Nuwara Eliya, Badulla, and Polonnaruwa Districts will receive Rs. 2500 each, with payments before New Year. Issues caused by selection process will be resolved within a week.
 
-இந்த மாவட்டங்களில் அஸ்வெசும பயனாளிகள் தெரிவு செய்யப்பட்ட போது, குறைந்த புள்ளிகளைப் பெற்றுக் கொண்ட பெறுமளவானவர்கள் பெயர்பட்டியலில் உள்ளடக்கப்பட்டிருந்தமையால், அந்த மாவட்டங்களுக்கான கோட்டாவை விட உயர் மட்டத்தில் காணப்பட்டமையால் இந்த நெருக்கடி ஏற்பட்டிருந்தது.
+🟩
 
-எவ்வாறிருப்பினும் இம்மாதம் முதல் வாரத்துக்குள் இந்த சிக்கல்கள் அனைத்தும் நிவர்த்தி செய்யப்படும். அதற்கமைய 2500 ரூபா கொடுப்பனவு தடையின்றி வழங்கப்படும். கடந்த வாரம் இடம்பெற்ற அஸ்வெசும நலன்புரி சபைக் கூட்டத்தில் இதற்கான இணக்கப்பாடு எட்டப்பட்டதாக இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டி மேலும் தெரிவித்துள்ளார்.
+Beneficiaries who qualified to receive Rs.. Finance Minister Ranjith Siyambalapitiya said that steps will be taken to make the payments before the New Year.
+
+The crisis was caused by the fact that the beneficiaries in these districts were selected, and the number of people who received the lower points were included in the name of the name of the districts.
+
+However, all these problems will be addressed within the first week of this month. 2500 rupees will be paid free of charge. Minister of State Ranjith Siyambalapitiya added that the consensus was reached at a meeting of the Assuming Welfare Council last week.
 
 ◼️
 
 [Data](articles/b941dba2.json)
+
+[Extended Data](ext_articles/b941dba2.ext.json)
 
 ---
 
@@ -179,6 +295,50 @@ They said that the President should immediately intervene and resolve the proble
 [Data](articles/508a70c6.json)
 
 [Extended Data](ext_articles/508a70c6.ext.json)
+
+---
+
+### Sri Lanka president appoints independent committee to review central bank salary hike
+
+*2024-04-01 16:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-appoints-independent-committee-to-review-central-bank-salary-hike-156829/) · `en`
+
+ECONOMYNEXT — President Ranil Wickremesinghe has appointed an Independent Remuneration Committee that includes former governor Indrajit Coomaraswamy to review a controversial salary increase at the Central Bank of Sri Lanka (CBSL).
+
+An official from the President’s Media Division (PMD) said the committee was formed by Wickremesinghe in his capacity as Minister of Finance, on the recommendation of parliamentary Committee on Public Finances (CoPF).
+
+The committee comprises Dinesh Stephen Weerakoddy, Arjuna Herath, former central bank governor Indrajit Coomaraswamy, Sudharma Karunarathne, Anthony Nihal Fonseka, Anushka S Wijesinha and Duminda Hulangamuwa.
+
+The CoPF on March 20 recommended the suspension of a steep salary hike the for the central staff.
+
+The central bank paid its staff salary hikes of 70 percent or more after the latest currency crisis it triggered by rate cuts, impoverishing a large section of the population.
+
+...
+
+[Data](articles/d37a8d6e.json)
+
+---
+
+### Sri Lanka stocks close up, turnover at 4.1bn
+
+*2024-04-01 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-at-4-1bn-156828/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader All Share Index closed up 0.30 percent, or 34.62 points, at 11,479; while the S&P SL20 Index closed up 0.35 percent, or 11.66 points, at 3,329.
+
+Turnover was at 4.1 billion. 1.5 billion of this came from several large trades in Ambeon Capital Plc. The share closed up at 8.80.
+
+“There was also a lot of interest in the banks sector, due to XD dates. Bank shares started trading low, but saw a significant recovery later in the day,” market participants said.
+
+Sampath Bank Plc saw selling pressure, the share closed down at 77.90, and Commercial Bank of Ceylon Plc closed down at 94.50.
+
+Major contributors to the Index included banks Hatton National Bank Plc (up at 182.00), DFCC Bank Plc (up at 79.80), and National Development Bank Plc (up at 70.60).
+
+Large conglomerates Hayleys Plc (up at 85.10) and Melstacorp Plc (up at 89.00), also were among top positive contributors of the day. (Colombo/Apr1/2024)
+
+◼️
+
+[Data](articles/563dee7c.json)
 
 ---
 
@@ -274,6 +434,8 @@ The CoPF, in its report recommended that an independent committee be appointed b
 
 [Data](articles/1dcbbd98.json)
 
+[Extended Data](ext_articles/1dcbbd98.ext.json)
+
 ---
 
 ### President appoints independent committee to review CBSL salary hikes
@@ -323,6 +485,8 @@ The companies that have defaulted include W.M. Mendis & Company, Wayamba Distill
 ...
 
 [Data](articles/7603773d.json)
+
+[Extended Data](ext_articles/7603773d.ext.json)
 
 ---
 
@@ -422,6 +586,42 @@ The Elections Commission did not follow the provision of the local government el
 
 ---
 
+### Thai Airways resumes daily flights between Bangkok and Colombo
+
+*2024-04-01 15:58:00* · [`economynextcom`](https://economynext.com/thai-airways-resumes-daily-flights-between-bangkok-and-colombo-156824/) · `en`
+
+ECONOMYNEXT – The first Thai Airways flight arrived at the Bandaranaike International Airport this morning after operations resumed between Sri Lanka and Thailand.
+
+Thailand’s Thai Airways resumed daily flights to Colombo from April 01, state-run Airport and Aviation Services, which runs the Indian Ocean island’s airports said.
+
+Thai Ambassador to Sri Lanka Paitoon Mahapannaporn, Minister of Ports, Shipping and Aviation Nimal Siripala de Silva and senior officials of Airports and Aviation Services were present on the occasion.
+
+Sri Lanka has seen an uptick in tourist arrivals, and seeks to boost regional tourism further.
+
+Sri Lanka and Thailand signed a free trade agreement which will allow the two countries to benefit from potential trade and investment that is largely untapped at the moment.
+
+A new bilateral air services agreement was also signed, and Sri Lanka and Thailand are considering visa free travel to strengthen economic links between the two countries. (Colombo/Apr1/2024)
+
+◼️
+
+[Data](articles/d709f3df.json)
+
+---
+
+### Sri Lanka president took on task of stabilising economy, must now restructure debt: Patali
+
+*2024-04-01 15:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-took-on-task-of-stabilising-economy-must-now-restructure-debt-patali-156821/) · `en`
+
+ECONOMYNEXT — Sri Lanka President Ranil Wickremesinghe’s claim that he alone took on the responsibility of stabilising the economy is valid, according to opposition MP Patali Champika Ranawaka who said the president now faces the challenge of restructuring external debt by June.
+
+“[President Wickremesinghe] said ‘I have a bigger responsibility than holding elections. I have the responsibility of restructuring the country’s debt and stabilising the economy’. Now he has a challenge facing him. Domestic debt was restructured last year. He now has the challenge of restructuring external debt before June,” Ranawaka said speaking at an event on Sunday March 31.
+
+...
+
+[Data](articles/f9219cdd.json)
+
+---
+
 ### Laughs gas prices down
 
 *2024-04-01 15:56:41* · [`adalk`](https://www.ada.lk/breaking_news/ලාෆ්ස්-ගෑස්-මිලද-පහළට/11-408884) · `si`
@@ -484,6 +684,26 @@ Chairman of the Parliamentary Committee on Finance Dr. Harsha de Silva ...
 
 ---
 
+### No pressure from China, says Sri Lanka state finmin after official visit
+
+*2024-04-01 15:40:00* · [`economynextcom`](https://economynext.com/no-pressure-from-china-says-sri-lanka-state-finmin-after-official-visit-156797/) · `en`
+
+ECONOMYNEXT – There was no pressure from China during an official visit by Sri Lankan delegation led by Prime Minister Dinesh Gunawardena, State Finance Minister Shehan Semasinghe said after concluding a six-day official visit to the World’s second largest economy.
+
+Prime Minister Dinesh Gunawardena met Chinese President Xi Jinping and Prime Minister Li Qiang in Beijing before participating in BOAO Forum for Asia Annual Conference 2024 in Hainan in China.
+
+“The visit was good. There was no pressure,” Semasinghe told EconomyNext when asked if there were any specific pressure from China after Beijing’s strong protest over Sri Lanka allowing a German research vessel despite a one-year ban on all research ships was in place.
+
+“No project was discussed. We just wanted to conclude the (debt) resolutions. We signed some MOUs, and discussed on the debt restructuring.”
+
+The official visit to China is significant as Sri Lanka needs Beijing’s help to conclude bilateral and commercial debt restructuring.
+
+...
+
+[Data](articles/ef27e8e8.json)
+
+---
+
 ### Recent fuel price revision shows which sections of society affected most
 
 *2024-04-01 15:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Recent-fuel-price-revision-shows-which-sections-of-society-affected-most/108-279967) · `en`
@@ -497,6 +717,8 @@ While criticising the recent fuel price revision, he said the people who use sup
 ...
 
 [Data](articles/33a022df.json)
+
+[Extended Data](ext_articles/33a022df.ext.json)
 
 ---
 
@@ -567,6 +789,8 @@ President Ranil Wickremesinghe handed over the cheque to Palestinian Ambassador 
 ◼️
 
 [Data](articles/b39eef1b.json)
+
+[Extended Data](ext_articles/b39eef1b.ext.json)
 
 ---
 
@@ -696,6 +920,28 @@ In response to the President’s call to allocate funds from ministries and gove
 
 ---
 
+### Sri Lanka optimistic about a positive outcome with bondholders: Minister
+
+*2024-04-01 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-optimistic-about-a-positive-outcome-with-bondholders-minister-156786/) · `en`
+
+ECONOMYNEXT – Sri Lanka is engaging with bondholders and is optimistic about a positive outcome, while efforts were underway to finalize in-principal deals with official creditors, State Minister for Finance Shehan Semasinghe said.
+
+Sri Lanka was expected to meet International Monetary Fund debt restructuring requirements in the second quarter for a review to be passed by the lender’s board, he said.
+
+President Ranil Wickremesinghe has said he expected debt re-structuring to be wrapped up by June–July before any elections are conducted.
+
+Discussions with bondholders and commercial creditors are going on, and advisors are engaging he said.
+
+China has also assured that they will work with other creditors and the IMF to support Sri Lanka’s debt restructuring efforts and economic recovery, he said.
+
+Reforms under an IMF program, and credible economic management and decision-making by President Ranil Wickremesinghe, are bearing fruit, he said.
+
+...
+
+[Data](articles/c4027f02.json)
+
+---
+
 ### A young man drowned in a sea of sheep in Jaffna
 
 *2024-04-01 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180145) · `ta`
@@ -715,6 +961,26 @@ A man who went to sea in the seas of Colombo on Sunday has been found dead on Mo
 [Data](articles/d5348f8f.json)
 
 [Extended Data](ext_articles/d5348f8f.ext.json)
+
+---
+
+### Sharhan Muhseen appointed chairman of Sri Lanka’s Commercial Bank
+
+*2024-04-01 14:45:00* · [`economynextcom`](https://economynext.com/sharhan-muhseen-appointed-chairman-of-sri-lankas-commercial-bank-156784/) · `en`
+
+ECONOMYNEXT – Sharhan Muhseen has been appointed the chairman of Sri Lanka’s Commercial Bank of Ceylon Plc with effect from April 22, the bank said in a stock exchange filing.
+
+Muhseen Mohamed Sharhan Mohamed (Sharhan Muhseen) was appointed chairman of the board with effect from April 22, 2024 at a special board meeting on March 28, the bank said in a stock exchange filing.
+
+He is a senior investment banker with extensive experience in areas of mergers and acquisitions, corporate
+
+He has worked with company boards and senior leadership teams of financial institutions across Asia. He worked in global investment banks Credit Suisse, Bank of America, Merrill Lynch and JPMorgan.
+
+He is credited with leading research reports including reports on banking sector efficiency, currency depreciation and budget deficit in his role as Head of Sri Lanka Banking sector research coverage and lead Economist at Jardine Flemming.
+
+...
+
+[Data](articles/b93d1eaa.json)
 
 ---
 
@@ -827,6 +1093,24 @@ On Thursday, in New York, President Joe Biden and his two Democratic predecessor
 [Data](articles/50d9597c.json)
 
 [Extended Data](ext_articles/50d9597c.ext.json)
+
+---
+
+### Sri Lanka tourist arrivals up by 189-pct in March 2024
+
+*2024-04-01 14:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-arrivals-up-by-189-pct-in-march-2024-156779/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tourist arrivals rose 189 percent to 635,782 persons in January to March 2024 from a year ago, led by India, data from the Sri Lanka Tourist Development Authority showed.
+
+Sri Lanka last got this level of visitors in 2019, before  the coronavirus pandemic, when 344 328 visitors came to the country in March.
+
+India was the largest source market in March at 31,853, followed by Russia at 28,016, the United Kingdom (21,540) and Germany (18,324).
+
+Sri Lanka is targeting 2.3 million visitors in 2024 after getting 1.48 million visitors in 2023. (Colombo/Apr01/2024)
+
+◼️
+
+[Data](articles/9876857c.json)
 
 ---
 
@@ -1074,6 +1358,26 @@ The jeep of a group of people who returned to the death house in Bandarawela are
 
 ---
 
+### Fitch affirms Sri Lanka’s AMW Capital Leasing and Finance at ‘BBB(lka)’
+
+*2024-04-01 13:32:00* · [`economynextcom`](https://economynext.com/fitch-affirms-sri-lankas-amw-capital-leasing-and-finance-at-bbblka-156770/) · `en`
+
+ECONOMYNEXT – Fitch Ratings said it has affirmed AMW Capital Leasing And Finance PLC’s (AMWCL) National Long-Term Rating at ‘BBB(lka)’. The outlook remains negative.
+
+“AMWCL’s rating reflects our expectation that its parent, Associated Motor Ways (Pvt) Limited (AMW), would provide extraordinary support to the finance subsidiary, if required,” Fitch said.
+
+“The Negative Outlook on AMWCL’s rating reflects the pressure stemming from its parent’s credit profile. A prolonged ban on vehicle imports continues to impede AMW’s core business of vehicle importation and sales, weakening its earnings capacity and liquidity position.”
+
+AMW was one of Sri Lanka’s largest vehicle importers prior to the curbs. Sri Lanka has gradually rolled back import restrictions limited vehicle classes, but curbs remain on AMW’s primary segment – passenger cars, Fitch said.
+
+Fitch Affirms AMW Capital Leasing and Finance at ‘BBB(lka)’; Outlook Remains Negative
+
+...
+
+[Data](articles/7be5b63a.json)
+
+---
+
 ### A court ban on the removal of three from the Sri Lanka Freedom Party (SLFP) executive committee
 
 *2024-04-01 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180131) · `ta`
@@ -1151,6 +1455,8 @@ Health workers today held a protest in front of the Health Ministry over several
 ◼️
 
 [Data](articles/0b3b6ec2.json)
+
+[Extended Data](ext_articles/0b3b6ec2.ext.json)
 
 ---
 
@@ -1286,6 +1592,28 @@ The US dollar purchasing price was 295.5750 and the sales price were 305.1018 ba
 
 ---
 
+### Sri Lanka’s Expolanka Holdings Plc changes director board
+
+*2024-04-01 12:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-expolanka-holdings-plc-changes-director-board-156761/) · `en`
+
+ECONOMYNEXT – Expolanka Holdings Plc has announced that Bokuto Yamauchi, in addition to his capacity as the Chairman of the Board, will assume duties as the Group CEO of the Company with effect from today.
+
+“Hanif Yusoof will step down as Group CEO with effect from 31st March 2024 and will serve on the Board as an Executive Director,” the company said in a stock exchange filing.
+
+The Board of Directors of Expolanka Holdings PLC has been re-constituted as follows;
+
+SG Holdings, the parent company of Expolanka Holdings Plc, announced on March 1 it was delisting the company from the Colombo Stock Exchange.
+
+SG Holdings Global Pte Ltd, the company’s majority shareholder, said it will purchase its shares from shareholders at 185.00 rupees a share.
+
+The share last traded around 150.50, before the delisting was announced. Expolanka is the largest listed company on the Colombo Stock Exchange.
+
+...
+
+[Data](articles/fe109239.json)
+
+---
+
 ### Appointment of Members for Review of Bill - Notification to Speaker
 
 *2024-04-01 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/180127) · `ta`
@@ -1307,6 +1635,28 @@ Vidura Vikramanayake, Prasanna Ranavira, Gayantha Karunathilaka, (Prof.). Sujit 
 [Data](articles/513cc45b.json)
 
 [Extended Data](ext_articles/513cc45b.ext.json)
+
+---
+
+### Sri Lanka’s Litro Gas cuts price on rupee appreciation, stock management
+
+*2024-04-01 12:37:00* · [`economynextcom`](https://economynext.com/sri-lankas-litro-gas-cuts-price-on-rupee-appreciation-stock-management-156763/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s Litro Gas has cut prices of liquefied petroleum gas helped by an strengthening rupee and better stock management, an official said.
+
+“We use an on the spot stock management system,” Litro Gas Brand Development Manager, Varaveswaran Ketheeswaran, told EconomyNext on Monday. “We look at the advanced trends and then order stocks. That and the dollar appreciation has caused prices to fall.”
+
+The new price of a 12.5 kilo gas cylinder has been reduced by 135 rupees to 4,115 rupees while a 5 kilo cylinder will be reduced by 55 rupees to 1,652 rupees.
+
+2.3 kilo cylinder will be reduced by 23 rupees to 772 rupees.
+
+Saudi Aramco contract price for propane was raised to 630 dollar a tonne in February 2024 and left unchanged in March.
+
+The butane price was also raised by 10 dollars to 640 dollars and left unchanged in March. (Colombo/Ap1/2024)
+
+◼️
+
+[Data](articles/745dc07c.json)
 
 ---
 
@@ -1511,6 +1861,22 @@ The 2.3 kg cylinder of LP gas will be reduced by Rs. 23 and the new retail price
 [Data](articles/46642a39.json)
 
 [Extended Data](ext_articles/46642a39.ext.json)
+
+---
+
+### Sri Lanka stocks up in mid-day trade, turnover pushed by Taprobane
+
+*2024-04-01 12:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-up-in-mid-day-trade-turnover-pushed-by-taprobane-156755/) · `en`
+
+ECONOMYNEXT – Several large transactions of Taprobane shares, totaling 1.5 billion, pushed the turnover of the Colombo Stock Exchange past 2.3 billion by noon on Monday.
+
+The market had opened down. At noon, the All Share Price Index was up 0.05 percent at 11,450. The S&P SL20 was still down 0.40 percent at 3,304.
+
+Taprobane Holdings, repositioned as Ambeon Capital Plc, saw several transactions amounting to a total of 274,853,407 shares changing hands for 1,513,675,780 rupees.
+
+◼️
+
+[Data](articles/840e4ad5.json)
 
 ---
 
@@ -1857,383 +2223,5 @@ He said that the woman, MP Rohitha Abeygunawardena and the Inspector General of 
 [Data](articles/a1f405a8.json)
 
 [Extended Data](ext_articles/a1f405a8.ext.json)
-
----
-
-### A group of Chinese nationals killed
-
-*2024-04-01 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195162) · `si`
-
-Eight Chinese nationals found dead on Mexico's coast, believed to have died trying to illegally migrate to the US. Seven women, one man, and one survivor.
-
-🟩
-
-International media reports that the bodies of 8 Chinese are found in the coast of the state of Mexico.
-
-It is suspected that the boat is in danger when they try to illegally migrate to the United States.
-
-There were seven women and a man among the deceased.
-
-One more of the boat survived and was unclear to the person who was riding the boat.
-
-The number of people who are trying to illegally migrate to illegally be illegally increased to the United States of Mexico via Mexico.
-
-◼️
-
-[Data](articles/ca55c7db.json)
-
-[Extended Data](ext_articles/ca55c7db.ext.json)
-
----
-
-### Suspect arrested with knives near church on Easter Day
-
-*2024-04-01 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/180107) · `ta`
-
-A 43-year-old man from Kokkadichcholai was arrested near a Negombo church on Easter Day with knives. He was a former LTTE member.
-
-🟩
-
-A person was arrested by police with sharp knives at the entrance of the church on Easter Day on Sunday (31) at the church in Negombo.
-
-Investigations revealed that the arrested person was a former 43 -year -old Kandaswamy Vedanayagam, a 43 -year -old man from Kokkadichcholai, Batticaloa.
-
-In addition, the police seized a knife and a knife in the pocket, hidden in the pants bag when he was arrested.
-
-He was arrested following information received by the police and after a long investigation into him, the police said that he was revealed that he was a former member of the LTTE.
-
-◼️
-
-[Data](articles/7623bda4.json)
-
-[Extended Data](ext_articles/7623bda4.ext.json)
-
----
-
-### An open decision to the death of a mysteriously deceased
-
-*2024-04-01 11:10:34* · [`adalk`](https://www.ada.lk/breaking_news/අභිරහස්-ලෙස-මියගිය-සූපවෙදියාගෙ-මරණයට-විවෘත-තීන්දුවක්/11-408875) · `si`
-
-A chef's mysterious death near Utuwanakanda junction in Talawatugoda leads to a local investigation. The body, found with alcohol near it, was taken to Colombo National Hospital for post-mortem. The deceased, unmarried and from Pannipitiya, had a history of living independently and was a high-educated individual.
-
-🟩
-
-The body of a summer body of a chef was found mysteriously dead near the Utuwanakanda junction near Talawatugoda.
-
-The deceased has been identified as an unmarried chef, a resident of Purawa Gemunu Puratawa Gemunu, Pannipitiya.
-
-The man had informed the 119 emergency caller when the neighbors came to a vegetable shop near the Utuwankanda Junction of Unthawkoda.
-
-Accordingly, the remains were not removed from the site without removal of the Talangama Sudden Mortem Abeywardena called for a local investigation. It is said that a bottle of alcohol near the corpse was found in the body.
-
-Accordingly, the position of the site had ordered the police to take the body to the Colombo National Hospital morgue. The judicial Medical Officer L. The body has been referred to the Government Analyst for further investigations to further investigate the post-death inspection of the body by Mr. Gamage.
-
-...
-
-[Data](articles/2f69ed03.json)
-
-[Extended Data](ext_articles/2f69ed03.ext.json)
-
----
-
-### Sri Lankan saves Melbourne woman from romance scam
-
-*2024-04-01 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/98339/sri-lankan-saves-melbourne-woman-from-romance-scam) · `en`
-
-A Melbourne woman has been saved from sending thousands of dollars to her sick overseas “boyfriend” after being caught up in a romance scam.
-
-The woman, aged in her 60s, went to a NAB branch in Cranbourne, in Melbourne’s southeast in February, wanting to deposit $2,000 into an account to help her boyfriend, whom she met on social media.
-
-She said her boyfriend, who was living in Turkey, was sick and needed the money to fly to the UK for treatment. But his account had apparently been frozen.
-
-“He told her to instead send the money to his friend in Sydney who could then transfer him the money,” NAB Customer Advisor, Dilan Pathirannahalage said in a statement.
-
-However, alarm bells quickly went off for Mr Pathirannahalage when the woman wasn’t able to provide the recipient’s surname.
-
-“The reason she didn’t know who she was transferring the funds to was because she had never met the person on the other end of the line who she thought was her boyfriend, and so didn’t know their friends either.”
-
-...
-
-[Data](articles/a942f920.json)
-
-[Extended Data](ext_articles/a942f920.ext.json)
-
----
-
-### Students arrested for holding alcohol banquet
-
-*2024-04-01 11:04:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மது-விருந்து-நடாத்திய-மாணவ-மாணவிகள்-கைது/175-335440) · `ta`
-
-Police arrested 5 students for a wine party in an abandoned building in Welimada, claiming it was for private classes.
-
-🟩
-
-Police have arrested school students who held a wine party in an abandoned building in the Welimada area.
-
-Police arrested 5 school students and two school students who were having dinner in the old building.
-
-In addition, they told the police that they had gathered in an abandoned building claiming to go to private classes and arranged a wine party.
-
-◼️
-
-[Data](articles/5dca20e6.json)
-
-[Extended Data](ext_articles/5dca20e6.ext.json)
-
----
-
-### Woman to be summoned before Privileges Committee over social media post
-
-*2024-04-01 10:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Woman-to-be-summoned-before-Privileges-Committee-over-social-media-post/108-279930) · `en`
-
-Parliament, April 1 (Dailyb Mirror)- A person is to be summoned before the Commitee on Privileges for a post uploaded on social media criticising an MP.
-
-Accordingly, Lalanthi Perera of Kalutara will be summoned for her post which called MP Rohitha Abeygunawarde and IGP Deshabandu Tennekoon rogues, according to the announcement by Speaker Mahinda Yapa Abeywardena.
-
-◼️
-
-[Data](articles/76478f3e.json)
-
-[Extended Data](ext_articles/76478f3e.ext.json)
-
----
-
-### The fate of the mother, while the son is not at home
-
-*2024-04-01 10:57:34* · [`adalk`](https://www.ada.lk/breaking_news/පුතු-නිවසේ-නැති-අතරේ-මවට-අත්වූ-ඉරණම/11-408874) · `si`
-
-A 52-year-old woman was found murdered in her home, where she lived with her son. The son had left the day before. Dankotuwa Police are investigating.
-
-🟩
-
-Donkeek in the evening of the evening yesterday (31), Dankotuwa Pelley says that it has been murdered in a house in the police station.
-
-The woman and her son had been living in a house belonging to a tile factory in an area. The son of her her son had left his home yesterday morning (31). It has been revealed that the pelipe was revealed that he had seen the body of his mother in a house in the house while looking into the mother in the evening. The deceased woman is a 52 year old woman.
-
-Dankotuwa Police are conducting further investigations to arrest the crime.
-
-◼️
-
-[Data](articles/497ebe79.json)
-
-[Extended Data](ext_articles/497ebe79.ext.json)
-
----
-
-### AI is preparing for election irregularities
-
-*2024-04-01 10:54:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/AI-தேர்தல்-முறைகேடுகளுக்குத்-தயாராகும்-இலங்கை/175-335439) · `ta`
-
-AI's role in election irregularities is growing, with Sri Lanka's Election Commission studying global responses. AI can multiply the spread of fake news, posing a threat to democratic processes. The Commission is exploring measures to prevent future irregularities.
-
-🟩
-
-The official said yesterday that the election irregularities have increased globally as the use of AI (artificial intelligence) has increased and the Sri Lanka Election Commission is creating such possibilities in future elections.
-
-According to global experience, AI can accelerate the production and spread of fake information in contributing to efforts to persuade people to vote in a certain way.
-
-The amount of false information by AI can be enlarged thousands of times. More. These risks are still increased by social media sites.
-
-When asked about Sri Lanka's readiness, the Chairman of the Commission, RMAL Ratnayake, said that he is currently engaged in examining how other countries would respond to such challenges against the democratic election process.
-
-He said the Commission would decide on proceedings, including the law to prevent such irregularities in elections in the future.
-
-◼️
-
-[Data](articles/ceb4b274.json)
-
-[Extended Data](ext_articles/ceb4b274.ext.json)
-
----
-
-### Management and daily operations of expressways handed over to private sector
-
-*2024-04-01 10:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98338/management-and-daily-operations-of-expressways-handed-over-to-private-sector) · `en`
-
-The daily operations and management of the country’s expressways have been officially handed over to the private sector under a formal management agreement, with effect from today (April 01).
-
-Furthermore, all relevant assets will reportedly be transferred to the private sector within six months, following a legal and financial feasibility study jointly carried out by the Road Development Authority (RDA) and the private sector.
-
-Minister of Transport Bandula Gunawardena had submitted the Cabinet paper pertaining to the matter to the Cabinet of Ministers on March 25, 2024.
-
-Accordingly, the expressway network, lands owned by the expressway, and the related staff will be transferred to the relevant private-sector company, enabling them to manage the expressway network in a more commercial manner.
-
-◼️
-
-[Data](articles/7550b1e9.json)
-
-[Extended Data](ext_articles/7550b1e9.ext.json)
-
----
-
-### Minister of Education Special Notice of Teacher Appointments
-
-*2024-04-01 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195161) · `si`
-
-The Minister of Education, Susil Premajayath, announced that 2,400 graduates have been selected from the Teachers' Examination in the Western Province. A special program will be implemented for the remaining examinations, with appointments to be made after the April vacation. The program aims to recruit 2,700 graduates for science, mathematics, and technical subjects, with appointments under the Ministry of Education. Action will also be taken regarding retired and foreign governors and governments.
-
-🟩
-
-Minister of Education Susil Premajayath says that 2,400 graduates have already been selected from the Teachers' Examination in the Western Province.
-
-The Minister was responding to a question raised by the Opposition Leader of the Graduate Teachers in Parliament today (01).
-
-A special program will be implemented these days regarding the rest of the Teachers' Examination and will be given to appointments after the April vacation.
-
-He said that the teacher will have been taken up to the recruitment of 2,700 graduates under science, mathematics, technical subjects.
-
-According to Susil Premjages, they will be appointed to the vacancies under the Ministry of Education.
-
-In addition, action will be taken to grant the new appointments with regard to the retired and governors and governments abroad.
-
-"We too need teachers. Mostly willing to hire graduates. Of these, 15,000 covers the rest of the people.
-
-...
-
-[Data](articles/eb92ca98.json)
-
-[Extended Data](ext_articles/eb92ca98.ext.json)
-
----
-
-### Police apologize to three suspects who were detained after the Passover attack
-
-*2024-04-01 10:47:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c25ld87dw4qo) · `si`
-
-Police apologize to three suspects detained after Passover attack. Horowpathana OIC released by Supreme Court, alleging illegal arrest. Deputy Solicitor General defends police.
-
-🟩
-
-Police apologize to three suspects who were detained after the Passover attack
-
-The Horowpathana OIC of the Horowpathana Police (OIC) has been released by the Supreme Court today (April 1).
-
-Senale Abdethen Irfan, Senul Abden Irfan, Senul Abdethen Kalakaden, Sanulipahathiyaden Karifanur, Sanulipahathiyaden Karipahathuthu, has been called by the Supreme Court today, alleging that they have been illegally arrested.Received.
-
-The Deputy Solicitor General who appeared for the police not interrogation into the incidents and the Deputy Solicitor General he appeared in court.
-
-S. The petitions were summoned before the Supreme Court Judge Turai Raja and Kumuduni Wickremasinghe and Aetala Vengapulu.
-
-Are police arrests legitimate? Easter Sunday attack: What is Sri Lanka's response to Channel 4 report?
-
-At that time, the OIC of Horowpathana Police OIC, Roshan Premaratne, the police sergeant, and the OIC of the police said.
-
-...
-
-[Data](articles/14f84fec.json)
-
-[Extended Data](ext_articles/14f84fec.ext.json)
-
----
-
-### Wimal Weerawansa's release
-
-*2024-04-01 10:46:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமல்-வீரவன்ச-விடுதலை/175-335437) · `ta`
-
-Wimal Weerawansa, a parliamentarian, has been acquitted in a passport case by the Negombo Magistrate's Court.
-
-🟩
-
-Parliamentarian Wimal Weerawansa has been acquitted from a passport case in accordance with the order issued by the Negombo Magistrate's Court. Remble
-
-◼️
-
-[Data](articles/2f0e338e.json)
-
-[Extended Data](ext_articles/2f0e338e.ext.json)
-
----
-
-### Wimal Weerawansa acquitted from passport discrepancy case
-
-*2024-04-01 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98337/wimal-weerawansa-acquitted-from-passport-discrepancy-case) · `en`
-
-National Freedom Front (NFF) leader MP Wimal Weerawansa has been acquitted from the passport case by the Negombo Magistrate’s Court, Ada Derana reporter said.
-
-In 2015, Weerawansa was accused of using an expired passport to fly abroad while the MP was preparing to travel to Europe for a series of lectures, following an invitation from Sri Lankan expatriates in Dubai and Italy.
-
-However, the MP had claimed that upon arriving at the airport he realized that the passport in his possession was one that he had lost and later found after obtaining a new passport.
-
-◼️
-
-[Data](articles/f3612b71.json)
-
-[Extended Data](ext_articles/f3612b71.ext.json)
-
----
-
-### Justice Minister at SLFP's group
-
-*2024-04-01 10:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SLFP-இன்-குழுக்கூட்டத்தில்-நீதியமைச்சர்/175-335436) · `ta`
-
-Justice Minister Vijayadasa Rajapaksa's attendance at SLFP's Central Committee surprised many. He said he would make a political resolution, having been a member since the late Sirimavo Bandaranaike led the party. He was invited to lecture on the current political situation, suggesting SLFP's role in stabilizing the economy.
-
-🟩
-
-Minister Vijayadasa Rajapaksa's attendance at the Central Committee of the Sri Lanka Freedom Party (SLFP) has surprised many.. Responding to journalists asking whether he would join the Sri Lanka Freedom Party, the minister said he would later make a political resolution.
-
-“I was a member of the Sri Lanka Freedom Party (SLFP) since the time when the late Prime Minister Sirimavo Bandaranaike led the party. So I attend the Sri Lanka Freedom Party's central committee meeting is nothing new. ”
-
-Will you resign from the ministry and join the SLFP for a full -time Sri Lanka Freedom Party?Responding to the question, the minister said he would take a political decision.
-
-He said that he has been invited to lect on the current political situation. During my lecture, I explained how the Sri Lanka Freedom Party (SLFP) could play a role in stabilizing the country's economy, ”he said.
-
-◼️
-
-[Data](articles/6877907a.json)
-
-[Extended Data](ext_articles/6877907a.ext.json)
-
----
-
-### Justice Minister who attended SLFP's group
-
-*2024-04-01 10:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SLFP-இன்-குழுக்கூட்டத்தில்-கலந்து-கொண்ட-நீதியமைச்சர்/175-335436) · `ta`
-
-Justice Minister Vijayadasa Rajapaksa attended SLFP's Central Committee, surprising many. He clarified he's a long-time SLFP member and will make a political resolution. He was invited to lecture on the SLFP's role in stabilizing the economy.
-
-🟩
-
-Minister Vijayadasa Rajapaksa's attendance at the Central Committee of the Sri Lanka Freedom Party (SLFP) has surprised many.. Responding to journalists whether he was joining the Sri Lanka Freedom Party, the minister said he would later make a political resolution.
-
-“I was a member of the Sri Lanka Freedom Party (SLFP) since the time when the late Prime Minister Sirimavo Bandaranaike led the party. So I attend the Sri Lanka Freedom Party's central committee meeting is nothing new. ”
-
-Will you resign from the ministry and join the SLFP for a full -time Sri Lanka Freedom Party?Responding to the question, the minister said he would take a political decision.
-
-He said that he has been invited to lect on the current political situation. During my lecture, I explained how the Sri Lanka Freedom Party (SLFP) could play a role in stabilizing the country's economy, ”he said.
-
-◼️
-
-[Data](articles/c1a26e9a.json)
-
-[Extended Data](ext_articles/c1a26e9a.ext.json)
-
----
-
-### The husband who came with his wife, who served with the Middle East, set fire to the house
-
-*2024-04-01 10:39:27* · [`adalk`](https://www.ada.lk/breaking_news/මැදපෙරදිග-සේවයකළ-බිරිඳ-හාම්පුතා-සමඟ-ආවාට--උරණ-වූ-සැමියා-ගෙට-ගිනි-තියලා/11-408873) · `si`
-
-A 40-year-old man, Abdul Said Albella, and his employer were visiting a house in Welippothaaya when it caught fire. The husband, Tissa Hettiarachchi, assaulted his wife, her employer, and the driver, leading to the fire. The Bibila police are investigating the fire and the assault.
-
-🟩
-
-A woman from the Bibila police division in the Welippothaaya Welippothaaya has been working with the wife of Kuwait, and the husband assaulted his wife, employer and the driver to the wife on the house on fire on the homeBibila police are conducting further investigations into the death of husband's father father.
-
-The 40-year-old age to 40-year-old Abdul Said Albella, a 40-year-old Abdul Sed Abella, has arrived at the house with his employer and driver.
-
-Earlier, she had come to the house with an employer on several occasions.
-
-She is inaugurated by Kuwaitman and the Driver Bibile Base Hospital.
-
-The husband Tissa Hettiarachchi, who had been destroyed by the house, was rushed to the Bibila hospital with half the deaths of the house.
-
-The magisterial inquiry into the death of the deceased is Bibila Acting Magistrate Sarath Bandara and the post mortem examination was to be held at the Moneragala district hospital.
-
-...
-
-[Data](articles/7c70629b.json)
-
-[Extended Data](ext_articles/7c70629b.ext.json)
 
 ---

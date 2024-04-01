@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 14:04:07**
+As of **2024-04-01 14:18:14**
 
 ## Newspaper Stats
 
-*Scraped **16,366** Articles*
+*Scraped **16,367** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 1,375
 tamilmirrorlk | 1,957
 adaderanalk | 1,973
 virakesarilk | 2,326
-dailymirrorlk | 2,517
+dailymirrorlk | 2,518
 adaderanasinhalalk | 2,650
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,359 (100.0%) of 16,366 articles have been extended.
+16,366 (100.0%) of 16,367 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,23 +46,49 @@ In a post on ‘X’, Chaturvedi pointed out that the Ministry of External Affai
 
 [Data](articles/106f8724.json)
 
+[Extended Data](ext_articles/106f8724.ext.json)
+
 ---
 
-### ලොකු ලූනුවලින් කෝටි 8,000ක අයුතු ලාභයක් - ප්‍රධාන ආදායම් ආයතන ගැනත් හෙළිදරව්වක්
+### 8,000 million in terms of big onions - an revelation of major revenue agencies
 
 *2024-04-01 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195170) · `si`
 
-2023 වසරේ දී මෙරටට බී ලූනු ආනයනය කළ ව්‍යාපාරිකයින් රුපියල් කෝටි 8,000ක පමණ අයථා ලාභයක් ලබාගෙන ඇති බවට ක්‍රම සහ විධි පිළිබඳ කාරක සභාවේදී අනාවරණ වී තිබේ.
+Sri Lanka's 2023 imported profits revealed: Rs. 8,000 million, with Rs. 1,066 in tax arrears. VAT increase to Rs. 600 per person, totaling Rs. 656 million. Patali Champika Ranawaka criticizes tax evasion, highlighting the impact on the economy.
 
-එම කාරක සභාවේ සභාපති පාඨලී චම්පික රණවක මහතා අද (01) පාර්ලිමේන්තුවේදි ඊට අදාළ වාර්තා ඉදිරිපත් කරමින් මේ පිළිබඳ කරුණු පැහැදිලි කළේය.
+🟩
 
-මේ අතර, ශ්‍රී ලංකා රේගුව, දේශීය ආදයම් දෙපාර්තමේන්තුව සහ සුරාබදු දෙපාර්තමේන්තුව මඟින් රජයට රු.බි. 1,066ක් එකතු කළ යුතු හිඟ බදු පවතින බවද පාඨලී චම්පික රණවක මහතා පැවසීය.
+Businesses have revealed that the imported profits of the Sri Lanka in 2023 in 2023 in the Committee on Palace have received an abuse of Rs. 8,000.
 
-මේ වසරේ ජනවාරී පළමු වැනිදා වැට් බදු වැඩි කිරීම සිදුකළේ රු.බි. 600ක් රජයට එකතු කර ගැනීමේ අරමුණෙන් බවත්, පසුගිය අවුරුදු පහ තුළ ඉහත ආයතන විසින් එකතු කර නොගත් බදු ආදායම් ප්‍රමාණය රු. බි. 656ක් බව ද  පාර්ලිමේන්තුව අමතමින් පාඨලී චම්පික රණවක මහතා පැවසුවේය.
+The Chairman of the Committee Patali Champika Ranawaka made these relevant reports today (01).
+
+Meanwhile, the Government of Sri Lanka Customs, Department of Local Revere Development and Excise Department Rs. The arrears of Rs. 1,066 have been taxed, Patali Champika Ranawaka said.
+
+VAT was increased on January 1st January this year.. 600 is for collecting 600 people to the government and the total tax revenue is Rs.. B. Patali Champika Ranawaka said that 656 and addressing the Parliament.
+
+The 10-50 million people have over Rs.Speaking, Patali Champika Ranawaka added that it is not justified in the country's population without charges with a tax collar's 4,479 tax elections.
 
 ...
 
 [Data](articles/7dee9d7c.json)
+
+[Extended Data](ext_articles/7dee9d7c.ext.json)
+
+---
+
+### No bus fare revision at this time, potential switch to super diesel if price decreases further: Gemunu
+
+*2024-04-01 13:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-bus-fare-revision-at-this-time-potential-switch-to-super-diesel-if-price-decreases-further-Gemunu/108-279962) · `en`
+
+Colombo, April 1 (Daily Mirror) - Since there hasn't been a price revision for Lanka Auto Diesel, it is not possible to consider a bus fare revision right now, but if the prices of Lanka Super Diesel decrease further, they may be able to switch to using it, Lanka Private Bus Owners Association (LPBOA) president Gemunu Wijerathne said.
+
+Addressing the media today, he said private buses are operating while incuring a loss of Rs. 28 and eventhough the Lanka Auto Diesel price was reuced by Rs. 50, they are unable to reduce private bus fares.
+
+"Despite the fuel price revision, the current increase in diesel prices has not exceeded 4%. We couldn't raise bus fares even when the price of Lanka Auto Diesel went up by Rs. 28," he said.
+
+...
+
+[Data](articles/7048f1f2.json)
 
 ---
 
@@ -118,57 +144,77 @@ The book is one law, but the judiciary follows a separate law. There should be a
 
 ---
 
-### தெல்லிப்பழை பாடசாலையொன்றின் கார்த்திகை பூ விவகாரம் - மனித உரிமை ஆணைக்குழுவில் முறையிட நடவடிக்கை
+### Tellipallai school
 
 *2024-04-01 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180133) · `ta`
 
-பாடசாலை மட்ட நிகழ்வுகளில் பொலிஸாரினதும் அரச புலனாய்வாளரினதும் இராணுவத்தினரின் தலையீடுகள் மற்றும் விசாரணை செயற்பாடுகளை இலங்கை ஆசிரியர் சங்கம் வன்மையாக என இலங்கை ஆசிரியர் சங்க உப தலைவர் தீபன் தீலீசன் தெரிவித்துள்ளார்.
+The Sri Lanka Teachers Union criticizes police and state investigators' violent interventions at Tellipallai school events. It highlights threats from police and military in North and East Provincial Schools, violating individual rights. The union demands an end to state suppression of artistic and conceptual expressions, and accuses the Department of Education of supporting military and police interventions in education. It also mentions a complaint to the Human Rights Commission of Sri Lanka.
 
-ஊடகங்களுக்கு இன்று திங்கட்கிழமை (01)   தீபன் திலீசன் அனுப்பி வைத்துள்ள செய்தி குறிப்பிலையே அவ்வாறு குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-பாடசாலைகளில் நடைபெற்றுவரும் இல்ல விளையாட்டு நிகழ்வுகளில் அலங்கரிக்கப்படும் செயற்பாடுகள் தொடர்பாக - குறிப்பாக, வடக்கு கிழக்கு மாகாண பாடசாலைகளில் பொலிஸாரினதும் இராணுவத்தினரதும், அரச புலனாய்வாளர்களினதும் அச்சுறுத்தல் இடம்பெற்றுவருவது தனிமனித சிந்தனை மற்றும் மனச்சாட்சி சுதந்திரங்களை நசுக்கும் அடிப்படை மனித உரிமை மீறல்களாகும்.
+The Sri Lanka Teachers Union Vice President Theelisan said that the interventions and investigations of the police and the state investigators of the police and the state investigators during the school level events were violent.
 
-இலங்கை அரசின் சட்ட வரையறைக்குட்பட்டு கருத்தியல் ரீதியாகவும் - கலை ரீதியாகவும் - குறியீட்டு வடிவங்கள் மூலமாகவும் - சமூகம் சார் பிரக்ஞைகளை வெளிப்படுத்தும் போது, அதனை அரச இயந்திரங்களால் நசுக்கும் செயற்பாடுகள் நடைபெறுவதற்கு அனுமதிக்க முடியாது.
+The press release sent to the media on Monday (01).
+
+The threat of the police, the military and the state investigators in the North and East Provincial Schools, in particular in the North and East Provincial Schools, is the basic violations of individual thinking and conscience of conscience.
+
+When the society expresses the propaganda of the Sri Lankan government, the conceptual and the artistic forms - it is not allowed to be crushed by state machinery.
+
+If the Department of Education is also supportive of this, these will be a process that supports military and police interventions within education.
 
 ...
 
 [Data](articles/0b424192.json)
 
+[Extended Data](ext_articles/0b424192.ext.json)
+
 ---
 
-### 15 பேருடன் சென்று கொண்டிருந்த ஜீப் 75 அடி பள்ளத்தில் வீழ்ந்து 10 பேர்  காயம்!
+### Jeep, who was traveling with 15 people, fell into a 75 -foot ditch and wounded 10 people
 
 *2024-04-01 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180132) · `ta`
 
-பொலெரோ வகை ஜீப் வண்டியொன்று பண்டாரவளையில் இருந்து ரம்புக்கனை நோக்கி பயணித்தபோது  கம்பளை தெல்பிடிய பிரதேசத்தில் வீதியை விட்டு விலகி சுமார் 75 அடி பள்ளத்தில் வீழந்து விபத்துக்குள்ளாகியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A Pollero jeep carrying 15 people crashed into a 75-foot ditch near Gampolai, injuring 10, who were admitted to Gampola hospital. The accident occurred as the jeep was traveling from Bandarawa to Rambukkan.
 
-இதன்போது ஜீப் வண்டியில் 15 பேர் பயணித்ததோடு,10 பேர் காயமடைந்த நிலையில் கம்பளை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-பண்டாரவளை பிரதேசத்தில் இடம்பெற்ற மரண வீட்டில் கலந்து கொண்டு  திரும்பிய குழுவினரின் பயணித்த ஜீப் வண்டியே இன்று அதிகாலை 4 மணியளவில் இவ்வாறு விபத்துக்குள்ளானது.
+Police said that when a Pollero -type jeep was traveling from Bandarawa to Rambukkan, the road had crashed into a 75 -foot ditch in the Gampolai area.
+
+At least 15 people traveled in the jeep and 10 were injured and admitted to the Gampola hospital, police said.
+
+The jeep of a group of people who returned to the death house in Bandarawela area crashed at around 4 am this morning.
 
 ◼️
 
 [Data](articles/f8b090f0.json)
 
+[Extended Data](ext_articles/f8b090f0.ext.json)
+
 ---
 
-### ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழுவிலிருந்து மூவர் நீக்கப்பட்டமைக்கு இடைக்காலத் தடை விதித்த நீதிமன்றம்!
+### A court ban on the removal of three from the Sri Lanka Freedom Party (SLFP) executive committee
 
 *2024-04-01 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180131) · `ta`
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் செயற்குழு பதவிகளில் இருந்து துமிந்த திசாநாயக்க, லசந்த அழகியவண்ண மற்றும் மஹிந்த அமரவீர ஆகியோரை நீக்குவதற்கு கொழும்பு மாவட்ட நீதிமன்றம் இடைக்காலத் தடையுத்தரவு பிறப்பித்துள்ளது.
+The Colombo District Court issued an interim injunction to remove Duminda Dissanayake, Lasantha Alagavanna, and Mahinda Amaraweera from the Sri Lanka Freedom Party (SLFP) Executive Committee. KP Gunawardena replaced Dissanayake, and Mahinda Amaraweera replaced Lasantha Alagavanna.
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் பதவிகளிலிருந்து துமிந்த திசாநாயக்க, லசந்த அழகியவண்ண மற்றும் மஹிந்த அமரவீர ஆகியோர் கடந்த சனிக்கிழமை (30) நீக்கப்பட்டனர்.
+🟩
 
-ஸ்ரீலங்கா சுதந்திரக் கட்சியின் நிறைவேற்று சபைக் கூட்டம் அன்றைய தினம் கட்சித் தலைமையகத்தில் இடம்பெற்றதுடன், இந்தத் தீர்மானங்கள் எடுக்கப்பட்டன.
+The Colombo District Court has issued an interim injunction to remove Duminda Dissanayake, Lasantha Alagavanna and Mahinda Amaraweera from the Sri Lanka Freedom Party Executive Committee.
 
-இதன்படி, ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தேசிய அமைப்பாளர் பதவியில் இருந்து நீக்கப்பட்ட  துமிந்த திஸாநாயக்கவுக்கு பதிலாக மஹியங்கனை தொகுதி அமைப்பாளர் கே.பி.குணவர்தன நியமிக்கப்பட்டுள்ளார்.
+Duminda Dissanayake, Lasantha Alagavanna and Mahinda Amaraweera were removed from the posts of the Sri Lanka Freedom Party (SLFP).
 
-அத்துடன், பொருளாளர் பதவியிலிருந்து நீக்கப்பட்ட லசந்த அழகியவண்ணவுக்கு பதிலாக மேல் மாகாண சபையின் முன்னாள் அமைச்சர் ஹெக்டர் பெத்மகேவும், சிரேஷ்ட உபதலைவராக இருந்த மஹிந்த அமரவீரவுக்கு பதிலாக சரத் ஏக்கநாயக்கவும் நியமிக்கப்பட்டனர்.
+The Sri Lanka Freedom Party (SLFP) executive meeting was held at the party headquarters that day and these decisions were taken.
+
+Accordingly, Mahiyanganaya constituency organizer KP Gunawardena has been appointed to replace Duminda Dissanayake, who was sacked from the National Organizer of the Sri Lanka Freedom Party.
+
+In addition, former Western Provincial Council Minister Hector Bethmage and Sarath Ekanayake were replaced by Senior Vice President Mahinda Amaraweera instead of Lasantha Alagavanna, who was sacked from the post of Treasurer.
 
 ◼️
 
 [Data](articles/12a23d1b.json)
+
+[Extended Data](ext_articles/12a23d1b.ext.json)
 
 ---
 
@@ -189,6 +235,8 @@ Meanwhile, a member of the Election Commission stated that an amount of Rs. 10 b
 ...
 
 [Data](articles/ec71fa15.json)
+
+[Extended Data](ext_articles/ec71fa15.ext.json)
 
 ---
 
@@ -1606,17 +1654,23 @@ The government decided in February to exclusively raise the DAT allowance by Rs 
 
 ---
 
-### පාරටම පැමිණි මුහුදු රළ
+### Sea waves coming to the streets
 
 *2024-04-01 09:40:33* · [`adalk`](https://www.ada.lk/picture_story/පාරටම-පැමිණි-මුහුදු-රළ/10-408872) · `si`
 
-මහ මුහුද රළුවී මුහුදු රල මාර්ගයට පැමිණීම හේතුවෙන් අද (1) ගාල්ල කොළඹ ප්‍රධාන මාර්ගයේ කහව මංසන්ධියේ සිට තෙල්වත්ත මංසන්දිය දක්වා රට වාහන ධාවනයට දැඩි බාධා එල්ලවී තිබේ.
+Sea waves have obstructed the Kahawa Junction on the Galle-Colombo main road, affecting residents since last night.
 
-ඊයේ( 31) රෑ සිට මෙම තත්ත්වය උද්ගත වූ බව ප්‍ර දේශවාසීහු කියති. මුහුදු රල පහරත් සමග මුහුද අයිනේ දමා ඇති ගල් වැටියේ ඇති ගල් විටින් විට  මහ පාරට පැමිණෙමින් තිබෙන අතර එහි පදිංචිකරුවන්  ගල් ඉවත් කරමින් වාහන ධාවනයට මාර්ගය සකසාදීමට දැඩි උත්සහායක නිරතවී සිටිති.
+🟩
+
+The country has been severely obstructed from Kahawa Junction on the Kahawa junction on the Galle-Colombo main road due to the visit of the sea.
+
+The statistries that this situation has been affected by last night (31). The stones in the sea with sea waves are coming from time to time and residents are evacuated to take off the road to vehicle running.
 
 ◼️
 
 [Data](articles/2db3db53.json)
+
+[Extended Data](ext_articles/2db3db53.ext.json)
 
 ---
 
@@ -2253,27 +2307,5 @@ It is reported that the residents of the area rescued the woman and taken to the
 [Data](articles/401b78b8.json)
 
 [Extended Data](ext_articles/401b78b8.ext.json)
-
----
-
-### Teacher killed in accident
-
-*2024-04-01 04:17:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-ஆசிரியை-பலி/175-335429) · `ta`
-
-A teacher from Matara's popular school died in a car crash on Nonagama Road, Embilipitiya, yesterday.
-
-🟩
-
-One person was killed when a car crashed into a tree with a tree. The three have been injured.
-
-The accident took place yesterday at the Nonagama Road, Nonagama Road, Embilipitiya.
-
-A teacher in charge of a high -quality business unit in a popular school in Matara has died in an accident.
-
-◼️
-
-[Data](articles/67d181c7.json)
-
-[Extended Data](ext_articles/67d181c7.ext.json)
 
 ---

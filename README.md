@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 09:33:45**
+As of **2024-04-01 09:52:28**
 
 ## Newspaper Stats
 
-*Scraped **16,277** Articles*
+*Scraped **16,281** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,71 +16,155 @@ dailyftlk | 881
 economynextcom | 888
 islandlk | 911
 adalk | 1,365
-tamilmirrorlk | 1,941
+tamilmirrorlk | 1,942
 adaderanalk | 1,960
-virakesarilk | 2,312
-dailymirrorlk | 2,500
-adaderanasinhalalk | 2,637
+virakesarilk | 2,313
+dailymirrorlk | 2,501
+adaderanasinhalalk | 2,638
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,273 (100.0%) of 16,277 articles have been extended.
+16,277 (100.0%) of 16,281 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### ගින්නකට හසුවී පුද්ගලයෙක් මියයයි
+### வைத்தியசாலை ஊழியர்கள் பணி புறக்கணிப்பு
+
+*2024-04-01 09:35:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலை-ஊழியர்கள்-பணி-புறக்கணிப்பு/175-335433) · `ta`
+
+சம்பள பிரச்சனையை முன்வைத்து அடையாள பணி புறக்கணிப்பில் ஈடுபடுவதற்கு சுகாதார தொழிற்சங்கங்களின் கூட்டமைப்பு தீர்மானித்துள்ளது.
+
+அதன்படி, குறிப்பிட்ட சில வைத்தியசாலைகளில் இன்று (01)  காலை 6.30 முதல் பணிப்புறக்கணிப்பு முன்னெடுக்கப்படும் என, சுகாதார தொழிற்சங்க கூட்டமைப்பின் ஒருங்கிணைப்பாளர் சானக தர்மவிக்ரம தெரிவித்துள்ளார்.
+
+தமது பிரச்சினைக்கு உரிய தீர்வை வழங்க அதிகாரிகள் தவறினால் நாளை (02) முதல் நாடளாவிய ரீதியில் தொடர் வேலை நிறுத்தப் போராட்டத்தில் ஈடுபடவுள்ளதாக அவர் கூறியுள்ளார்.
+
+நாடளாவிய ரீதியில் அனைத்து வைத்தியசாலைகளிலும் 4 மணித்தியால வேலைநிறுத்தப் போராட்டத்தில் ஈடுபட தீர்மானித்திருந்த போதும், ஜனாதிபதி அலுவலகம் இன்றைய தினம் கலந்துரையாடலுக்கு அழைப்பு விடுத்துள்ளது.
+
+இதன் காரணமாக பணி புறக்கணிப்பை 5 வைத்தியசாலைகளுக்கு மட்டுப்படுத்த தீர்மானித்துள்ளதாக அவர் கூறியுள்ளார்.
+
+அநுராதபுரம், இரத்தினபுரி, குருநாகல், பதுளை ஆகிய வைத்தியசாலைகளில் இன்று காலை 6.30 மணி முதல் பணிப்புறக்கணிப்புப் போராட்டம் முன்னெடுக்கப்படும் எனவும் அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/4d7d70e2.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-04-01 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195158) · `si`
+
+අද (01) දින ආයුර්වේද පනත යටතේ නියෝග විවාදයට ගැනීමට නියමිත බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+හෙට (02) දිනයේ දී පරාටේ නීතිය සංශෝධනය කිරීමට අදාළ බැංකු සංශෝධන පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමට නියමිතය.
+
+ඊට අමතරව කොළඹ වරාය නගර ආර්ථික කොමිශන් සභා පනත යටතේ වන නියෝග, එකතු කළ අගය මත බදු පනත යටතේ වන නියමනයන් සහ ආනයන හා අපනයන පාලන පනත යටතේ වන රෙගුලාසි අගහරුවාදා දිනයේ විවාදයට ගැනීමට නියමිත බවයි පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සදහන් කළේ.
+
+මේ අතර හෙට දිනයේ දී රජයේ මුදල් පිළිබඳ කාරක සභාව සහ රජයේ ගිණුම් පිළිබඳ කාරක සභාව ද රැස්වීමට නියමිතව තිබේ.
+
+එදිනට රජයේ ගිණුම් පිළිබඳ කාරක සභාව හමුවට ආගමන හා විගමන දෙපාර්තමේන්තුවේ නිලධාරීන් කැඳවා ඇති බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/cf7d603e.json)
+
+---
+
+### Person dies after fire
 
 *2024-04-01 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195157) · `si`
 
-දෙහිඅත්තකණ්ඩිය පොලිස් වසමේ සේරුපිටිය ප්‍රදේශයේ දී පුද්ගලයෙකු ගින්නකට හසුවී පිළිස්සී මිය ගොස් තිබේ.
+A person died in a fire in Sakupitiya, Dehiattakandiya. The deceased set the fire in paddy fields.
 
-මියගිය පුද්ගලයා ගොවිතැන් කටයුතු සඳහා කුඹුරේ පිදුරුවලට ගිනි තැබීමට යන බව පවසා නිවසින් පිටව ගොස් ඇති අතර, නැවත නිවසට නොපැමිණීම හේතුවෙන් මියගිය පුද්ගලයාගේ මුණුබුරා කුඹුරට ගොස් සොයා බලා ඇත.
+🟩
+
+A person was burned to fire in the Sakupitiya area in Dehiattakandiya police, police said.
+
+The deceased has left the house saying that the deceased was to set fire to the paddy fields.
 
 ◼️
 
 [Data](articles/b11d3326.json)
 
+[Extended Data](ext_articles/b11d3326.ext.json)
+
 ---
 
-### නිවසක් තුළ කාන්තාවක් ඝාතනය කෙරේ
+### கார்த்திகைப் பூ இல்லை காந்தள் பூ : ஆசிரியர்களுக்கு  "சப்றைஸ்" கொடுக்கவே  செய்தோம் - பொலிஸாருக்கு வகுப்பெடுத்த மாணவர்கள்
+
+*2024-04-01 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180103) · `ta`
+
+யாழ்ப்பாணம் தெல்லிப்பழையில் பாடசாலையொன்றில் இடம்பெற்ற இல்ல மெய்வல்லுனர் போட்டியில் கார்த்திகைப் பூ மற்றும் இராணுவ வாகனத்தை ஒத்த அலங்காரங்கள் நேற்று முன்தினம் சனிக்கிழமை காட்சிப்படுத்தப்பட்டது.
+
+குறித்த விடயம் தொடர்பில் தெல்லிப்பழை பொலிஸார் சில  மாணவர்களையும் ஆசிரியர்களையும் நேற்று ஞாயிற்றுக்கிழமை விசாரணைக்காக  பொலிஸ் நிலையம் வருமாறு அழைத்தனர்.
+
+விசாரணைக்காக மூன்று மாணவர்கள் சென்றதாகத் தெரிவிக்கப்படும் நிலையில் பொலிஸார் விசாரணையில்  நீங்கள் இல்ல அலங்காரம் செய்தது கார்த்திகைப் பூவைத் தானே இதற்கான ஆலோசனைகளை ஆசிரியர்கள் தானே வழங்கினார்கள் என கேள்வி எழுப்பினார்.
+
+இதன் போது பதில் வழங்கிய மாணவர்கள்  நீங்கள் கூறுவதைப் போல குறித்த பூ கார்த்திகைப் பூ என நாங்கள் அறிந்திருக்கவில்லை காந்தள் மலர் என அறிந்துள்ளோம் எமது பாடப்புத்தகத்தில் அவ்வாறே உள்ளது.
+
+அது மட்டுமல்லாது வருடத்தில் ஒரு முறை பூக்கும் அரிய மலர் அதனை பாதுகாக்க வேண்டும் என்பதற்காகவே காட்சிப்படுத்தினோம்.
+
+இதன் போது கேள்வி எழுப்பிய பொலிஸார் உங்கள் இல்ல அலங்காரத்திற்கான ஆலோசனையை ஆசிரியர்கள் தானே வழங்கினார்கள் எனக் கேள்வி எழுப்பினார்.
+
+...
+
+[Data](articles/fc2d0c61.json)
+
+---
+
+### Woman murdered in a house
 
 *2024-04-01 09:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195156) · `si`
 
-දංකොටුව කටුකෙන්ද ප්‍රදේශයේ නිවසක් තුළ දී කාන්තාවකගේ ගෙල සිරකර ඝාතනය කර තිබේ.
+A 52-year-old woman from Dankotuwa, Katukon, was found murdered in her home. Her son was seen with her the previous day. The suspect is still at large, and Dankotuwa Police are investigating.
 
-මෙලෙස ඝාතනය කර ඇත්තේ 52 හැවිරිදි කටුකෙන්ද දංකොටුව ප්‍රදේශයේ පදිංචිකාරියකි.
+🟩
 
-මෙම කාන්තාව ඇයගේ පුත්‍රයා සමඟ කටුකෙන්ද ප්‍රදේශයේ උළු කම්හලකට අයත් නිවසක පදිංචිව සිට ඇත.
+Dankotuwa Katukada is a woman's neck prisoned in a house in the area.
 
-ඊයේ (31) දිනයේ උදෑසන ඇයගේ පුත්‍රයා නිවසින් බැහැරව ගොස් ඇති අතර සවස නැවතත් නිවසට පැමිණි මව පිළිබඳ සොයා බැලීමේ දී ඇයව කාමරයක් තුළ ගෙල සිරකර ඝාතනය කර තිබූ අයුරු දැක තිබේ.
+The victim was a 52 year old resident of Dankotuwa, Katukon.
 
-ඝාතනය සම්බන්ධයෙන් තවමත් සැකකරුවෙකු අත්අඩංගුවට ගෙන නොමැති අතර දංකොටුව පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The woman had been with her son and residents of a house belonging to a tile factory in the area.
+
+The son had left his home yesterday morning and was seen in his mother in the morning.
+
+The suspect has not been arrested yet regarding the murder and Dankotuwa Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/893f4ab5.json)
 
+[Extended Data](ext_articles/893f4ab5.ext.json)
+
 ---
 
-### மன்னார் ஈச்சளவக்கை காட்டுப்பகுதியில்  சட்டவிரோத மதுபான உற்பத்தி நிலையம் இளைஞர்களினால் முற்றுகை - இருவர் கைது
+### Illegal Liquor Production Center
 
 *2024-04-01 09:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/180102) · `ta`
 
-மன்னார் - மாந்தை மேற்கு  பிரதேச செயலாளர் பிரிவில் உள்ள காய நகர் கிராம சேவையாளர் பிரிவு ஈச்சளவக்கை கிராமத்தின் காட்டுப்பகுதியில்  சட்டவிரோத கசிப்பு உற்பத்தி  தொடர்ச்சியாக   நடைபெற்று வருகின்றது.
+In Mannar-Manthai West, the Marutham Sports Club, with police support, seized illegal liquor production equipment. The culprits were warned against future illegal activities. Concerns arise over youth addiction to alcohol and the presence of illegal operations in the area.
 
-இந்நிலையில்  பொலிஸ்மா அதிபரின் சிந்தனைக்கு அமைய  ஈச்சளவக்கை கிராமத்தின் மருதம் விளையாட்டு கழகம்  அதிரடியான  முடிவை எடுத்து கழகத்தின் ஆறு பேர் மற்றும் ஊடகவியலாளர் ஒருவருவரும் இணைந்து நேற்று ஞாயிற்றுக்கிழமை (31) மாலை அப்பகுதியில் கசிப்பு உற்பத்தி செய்யும்  குளத்தின் வாய்க்கால் பகுதியில் இறங்கி  தேடுதல் நடவடிக்கையை முன்னெடுத்தனர்.
+🟩
 
-இதன் போது கசிப்பு உற்பத்தியாளர் அங்கிருந்து தப்பி ஓடியுள்ளனர்.  கசிப்பு பரல் இரவாகியும் அவ்விடத்தில் இருந்த நிலையில்   குறித்த குழுவினரால் மீட்கப்பட்ட சட்டவிரோத மதுபானங்கள் அடம்பன் பொலிஸாரிடம் கையளிக்கப்பட்டது.
+The Gay Nagar Grama Niladhari Division in the Mannar - Manthai West Divisional Secretariat Division
 
-மேலும் அவ்விடத்தில்  கசிப்பு உற்பத்தி வேலையில் ஈடுபடும் இருவர்  தாம்  மேலும்  சட்டவிரோத மது உற்பத்தியை முன்னெடுக்க உள்ளதாகவும்  பிடிக்க முடிந்தால் பிடித்து பார்க்கட்டும் , பிடித்து கொடுத்தவர்களுக்கு  தாக்குவதாகவும் எச்சரித்தனர்.
+In the context of the police chief, the Marutham Sports Club of the village of Eichlakkai village took a stunning decision and joined the club and one of the journalists and the journalists in the area yesterday evening (31).
 
-...
+During this time, the leak manufacturer fled.The illegal alcoholic beverages recovered by the group were handed over to the Adampan police.
+
+Moreover, the two men who were involved in the production of leaks were warned that they were going to carry out more illegal alcohol production and if they could catch and attack the holders.
+
+Residents of the area have expressed concern that the youths are addicted to the leaks of the school without the fact that the illegal activities are taking place in the area.
+
+◼️
 
 [Data](articles/cf8f7aa1.json)
+
+[Extended Data](ext_articles/cf8f7aa1.ext.json)
 
 ---
 
@@ -164,23 +248,31 @@ The other injured have been transferred to Kurunegala Hospital for further treat
 
 ---
 
-### මෙරට පළමු AI චිත්‍රපටය නිෂ්පාදනයට රාජ්‍ය අනුග්‍රහය
+### State patronage to producing the first Film of Sri Lanka
 
 *2024-04-01 07:49:20* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-පළමු-AI-චිත්‍රපටය-නිෂ්පාදනයට-රාජ්‍ය-අනුග්‍රහය/11-408869) · `si`
 
-යල් පැන ගිය චිත්‍රපට සංස්ථාව නවීන තාක්ෂණය සමඟ පරිවර්තනයකට ලක් කරමින් එය මෙරට චිත්‍රපට සහ ටෙලිනාට්‍ය සංවර්ධන ආයතනයක් ලෙස ගොඩනඟන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+President Ranil Wickremesinghe highlighted the transformation of Sri Lanka's film corporation with modern technology, emphasizing the importance of foreign training and AI in film production. He announced state patronage for the first AI film of Sri Lanka, acknowledging the role of technology in advancing the industry.
 
-ඒ සමඟම කලා ශිල්පීන් සහ නිර්මාණවේදීන් නවීන තාක්ෂණ දැනුමෙන් සවිබල ගැන්වීම සඳහා විදෙස් පුහුණු අවස්ථා සලසා දෙන බවද පැවසු ජනාධිපතිවරයා නවීන තාක්ෂණය සමඟ ඉදිරියට යාමට චිත්‍රපට සහ ටෙලිනාට්‍ය කලාව ද සූදානම් කළ යුතු බව පෙන්වා දුන්නේය.
+🟩
 
-කෘත්‍රීම බුද්ධිය හෙවත් AI තාක්ෂණය අද ලෝක චිත්‍රපට කලාවට එක්වී තිබෙන අතර ඒ සමඟ ඉදිරියට යමින් ශ්‍රී ලංකාවේ ද පළමු AI චිත්‍රපටය නිෂ්පාදනය කිරීමට රාජ්‍ය අනුග්‍රහය ලබා දෙන බව ද ජනාධිපතිවරයා ප්‍රකාශ කළේය.
+President Ranil Wickremesinghe said that it was transformed with the outdated film corporation with modern technology, "President Ranil Wickremesinghe said.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ කොළඹ ෂැංග්‍රිලා හෝටලයේ දී පැවති 20 වැනි රයිගම් ටෙලීස් සම්මාන උළෙල අමතමිනි.
+The President said that the procedures and designers would provide foreign training opportunities to empower the modern technology and the President should be prepared with the modern technology.
 
-දිවයිනේ කීර්තිමත් ව්‍යවසායකයෙකු වන Kingdom of Raigam සමූහ ව්‍යාපාරයේ අධිපති ආචාර්ය රවී ලියනගේ මහතාගේ සංකල්පයක් මත රයිගම් ටෙලීස් මහලේකම් කාර්යාලය වාර්ෂිකව මෙම සම්මාන උළෙල සංවිධානය කරනු ලබයි.
+The President also stated that the state patronage was given to the first film of the first AI of Sri Lanka in Sri Lanka today, with artist intelligence.
+
+President Ranil Wickremesinghe addressing the 20th Raigam Tele'es Awards at Shangrila Hotel in Colombo.
+
+The awards ceremony is organized annually on a concept of Dr. Ravi Liyanage, a reputed entrepreneur of the island, a reputed entrepreneur of the island.
+
+Seven categories was awarded seven awards, evaluating the excellence of Television, Media Programs and television news programs.
 
 ...
 
 [Data](articles/0b38d2d9.json)
+
+[Extended Data](ext_articles/0b38d2d9.ext.json)
 
 ---
 
@@ -913,6 +1005,24 @@ They warned Lanka would ultimately end up with China taking over assets of the c
 [Data](articles/94323bef.json)
 
 [Extended Data](ext_articles/94323bef.ext.json)
+
+---
+
+### Trade account reflects normalising economy
+
+*2024-04-01 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Trade-account-reflects-normalising-economy/108-279920) · `en`
+
+Both imports & exports up in a sign of synchronised reinvigoration across all sectors
+
+The deficit in the trade account of the Balance of Payment (BoP) widened in February from a year ago on higher imports as the economy normalises. But it narrowed from a month earlier levels significantly due to less spending on fuel imports as the demand had been lower than expected.
+
+Sri Lanka imported goods worth US$ 1,378 million and exported goods valued US$ 1,059 million to record a negative trade balance of US$ 319 million for February, nearly ten times the level of US$ 39 million a year ago as the economy was under pressure due to limited foreign exchange at the time.
+
+However, on a month-on-month basis, the deficit was much lower than the US$ 541 million recorded in January as exports strengthened while imports fell due to aforementioned reasons.
+
+...
+
+[Data](articles/0d2dca66.json)
 
 ---
 
@@ -2169,99 +2279,5 @@ Kusal Mendis scored 93 runs and Dinesh Chandimal scored 59 runs and Dinesh Chand
 [Data](articles/cecb064a.json)
 
 [Extended Data](ext_articles/cecb064a.ext.json)
-
----
-
-### Allowance to Staff Officers at Divisional Secretariats
-
-*2024-03-31 17:12:47* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රා-ලේ-කාර්යාලවල-මාණ්ඩලික-නිලධාරීන්ට-දීමනාවක්/11-408865) · `si`
-
-The Government offers a special monthly incentive to staff officers at Divisional Secretariats, from March to December, as per a circular issued by the Secretary to the Ministry of Public Administration, Home Affairs, Provincial Councils, and Local Government.
-
-🟩
-
-The Government has decided to provide a special monthly incentive to the staff officers attached to the Divisional Secretariats.
-
-Accordingly, a Grade of Rs.
-
-It is reported that the incentive is to be granted to 10 months to 10 months from March to December.
-
-The relevant circular has been issued by the Secretary to the Ministry of Public Administration, Home Affairs, Provincial Councils and Local Government.
-
-◼️
-
-[Data](articles/bbde3a1c.json)
-
-[Extended Data](ext_articles/bbde3a1c.ext.json)
-
----
-
-### Fuel prices likely to reduce tonight?
-
-*2024-03-31 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/98325/fuel-prices-likely-to-reduce-tonight) · `en`
-
-A revision of fuel prices is likely to take effect from midnight today (04) based on the fuel pricing formula.
-
-The Ministry of Power and Energy stated that the fuel prices could possibly be reduced during this price revision.
-
-The Ceylon Petroleum Corporation (CPC) amends the fuel prices monthly as per the pricing formula.
-
-The fuel price revision for the month of March took place on March 04, where the price of Petrol 95 Octane was reduced by Rs. 09, while Super Diesel was reduced by Rs. 10. Meanwhile the price of Kerosene was also reduced by Rs. 05 per litre.
-
-It is predicted that the price of fuel will likely be reduced during this price revision in consideration to the rupee’s continuous appreciation against the US dollar and the price of crude oil dropping in the global market.
-
-◼️
-
-[Data](articles/60e2df6f.json)
-
-[Extended Data](ext_articles/60e2df6f.ext.json)
-
----
-
-### The Chinese nationalman who said he was bribed
-
-*2024-03-31 16:51:01* · [`adalk`](https://www.ada.lk/breaking_news/අල්ලස්-දුන්-බව-කී-චීන-ජාතිකයා-නිදොස්-කොට-නිදහස්/11-408864) · `si`
-
-A Chinese national claimed bribery. Colombo High Court Judge Namal Bandara accused Mahaweli Authority Manager Upul Chandana Kumara of bribery. The judge released the accused, citing insufficient evidence.
-
-🟩
-
-The Colombo High Court Judge Namal Bandara Bandara Balalla has been accused of accusing the Mahaweli Authority Manager to be accused of a bribe of the Mahaweli Authority.
-
-Did the complainant presented the source and styling evictions against the accused by the complaint by the complaint summoned by the complaint?Not?The judge released the accused and releasing the defendant to obey the court that the court could not go into a stand.
-
-Did the complaint must submit the accused against the accused against the accused of the accusations, but have the powerful and stabbed against this accused?Not?The acquitting acquitting acquitting ortek is not a person who has not been released to the court that the court cannot go into a stand.
-
-Upul Chandana Kumara, a divisional manager of the Mahaweli Authority of Sri Lanka, has been prosecuted to the accused of the Mahaweli Authority of the Mahaweli Authority of Sri Lanka to recommend a bribe of Explosive License on July 30, 2018.
-
-...
-
-[Data](articles/f1015471.json)
-
-[Extended Data](ext_articles/f1015471.ext.json)
-
----
-
-### Man dies in a massage center
-
-*2024-03-31 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195134) · `si`
-
-A 53-year-old man from Maharagama died at a massage center on Wewa Road due to a heart attack.
-
-🟩
-
-One person was killed in a massage center, police said.
-
-The deceased has been identified as a 53-year-old resident of Maharagama.
-
-Investigations on death revealed that he had died due to a heart attack.
-
-The death was caused by a massage center in the Wewa Road.
-
-◼️
-
-[Data](articles/69982d7f.json)
-
-[Extended Data](ext_articles/69982d7f.ext.json)
 
 ---

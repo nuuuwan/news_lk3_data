@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 15:18:10**
+As of **2024-04-01 15:33:35**
 
 ## Newspaper Stats
 
-*Scraped **16,378** Articles*
+*Scraped **16,380** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 893
 islandlk | 912
-adalk | 1,375
+adalk | 1,376
 tamilmirrorlk | 1,959
 adaderanalk | 1,974
 virakesarilk | 2,328
 dailymirrorlk | 2,520
-adaderanasinhalalk | 2,653
+adaderanasinhalalk | 2,654
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,374 (100.0%) of 16,378 articles have been extended.
+16,378 (100.0%) of 16,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### ලාෆ්ස් ගෑස් මිලේ ලොකු වෙනසක්
+
+*2024-04-01 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195174) · `si`
+
+අද මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ලාෆ්ස් ගෑස් මිල පහත දැමීමට තීරණය කර තිබේ.
+
+එම සමාගම පවසන්නේ ඒ අනුව කිලෝග්‍රෑම් 12.5ක ලාෆ්ස් ගෑස් සිලින්ඩරයක මිල රුපියල් 625කින් අඩුකරන බවය.
+
+ඒ අනුව කිලෝග්‍රෑම් 12.5ක ලාෆ්ස් ගෑස් සිලින්ඩරයක නව මිල රුපියල් 4,111කි.
+
+එසේම කිලෝග්‍රෑම් 5 ලාෆ්ස් ගෑස් සිලින්ඩරයක මිලද පහළ දැමීමට තීරණය කර ඇති අතර එහි නව මිල වන්නේ රුපියල් 1,652කි.
+
+◼️
+
+[Data](articles/2d16fc56.json)
+
+---
 
 ### Sri Lanka donates USD 1 million to aid children in Gaza
 
@@ -46,55 +64,75 @@ The donation is a part of the Children of Gaza Fund initiated by President Wickr
 
 [Data](articles/db724c80.json)
 
+[Extended Data](ext_articles/db724c80.ext.json)
+
 ---
 
-### யாழில் மட்டி எடுக்க சென்ற இளைஞன் கடலில் மூழ்கி உயிரிழப்பு
+### A young man drowned in a sea of sheep in Jaffna
 
 *2024-04-01 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180145) · `ta`
 
-யாழ்ப்பாணத்தில் மட்டி எடுப்பதற்காக கடலுக்கு சென்ற இளைஞன் , கடலில் மூழ்கி உயிரிழந்துள்ளார்.
+A 19-year-old from Periyakallaru Ooty, Batticaloa, drowned in the sea off Jaffna after seeking shelter.
 
-மட்டக்களப்பு பெரியகல்லாறு ஓடக்கரையைச் சேர்ந்த 19 வயதான ரவீந்திரன் யதுசன் என்பவரே உயிரிழந்தார்.
+🟩
 
-கொழும்புத்துறை கடற்பகுதியில் நேற்று ஞாயிற்றுக்கிழமை மட்டி எடுப்பதற்கு கடலுக்குள் சென்றவர் காணாமல் போன நிலையில் இன்று திங்கட்கிழமை காலை சடலமாக மீட்கப்பட்டுள்ளார்.
+A young man who went to sea to take shelter in Jaffna has drowned in the sea.
+
+The death of 19 -year -old Raveendran Yadusan from Periyakallaru Ooty, Batticaloa, died.
+
+A man who went to sea in the seas of Colombo on Sunday has been found dead on Monday morning.
 
 ◼️
 
 [Data](articles/d5348f8f.json)
 
+[Extended Data](ext_articles/d5348f8f.ext.json)
+
 ---
 
-### வித்யா படுகொலை ;  மரண தண்டனை கைதி மரணம்
+### Vidya assassination;Death sentence prisoner
 
 *2024-04-01 14:40:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வித்யா-படுகொலை-மரண-தண்டனை-கைதி-மரணம்/175-335455) · `ta`
 
-கடந்த  2015 ஆண்டில்  ,யாழ்ப்பாணம், புங்குடுதீவு பகுதியை  சேர்ந்த 18 வயதுடைய  சிவலோகநாதன் வித்யா  என்ற  பாடசாலை மாணவியை  கூட்டு வன்புணர்வு செய்யப்பட்டு படுகொலை செய்யப்பட்ட சம்பவம் தொடர்பில் மரண தண்டனை விதிக்கப்பட்ட  கைதி  ஒருவர்  கண்டி  தேசிய வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் உயிரிழந்துள்ளதாக வைத்தியசாலை வட்டாரங்கள் தெரிவித்துள்ளது .
+A prisoner sentenced to death for the murder of Sivalokanathan Vidya, a schoolgirl from Jaffna, died at Kandy National Hospital in 2015.
 
-புங்குடுதீவு கைட்ஸ் பகுதியைச் சேர்ந்த  புபாலசிங்கம் தவகுமார் செந்தில் (37) என்பவரே இவ்வாறு  உயிரிழந்துள்ளார்.
+🟩
 
-குறித்த  நபர்  சுகயீனம் காரணமாக ஞாயிற்றுக்கிழமை  (31) கண்டி தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டு  சில நிமிடங்களிலேயே உயிரிழந்துள்ளதாகவும், அவர்  நிமோனியா நோயினால் பாதிக்கப்பட்டிருந்ததாகவும் வைத்தியசாலையின்  ஊடக பேச்சாளர்  ஒருவர்  தெரிவித்துள்ளார் .
+According to hospital sources, a prisoner who was sentenced to death at the Kandy National Hospital in 2015, who was sentenced to death in connection with the massacre and murder of a schoolgirl named Sivalokanathan Vidya, a schoolgirl from Punguduthivu, Jaffna.
 
-மேலும்  குறித்த  நபரின்  சடலம்  கண்டி  தேசிய வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன்  இது தொடர்பிலான  மேலதிக  விசாரணைகளை பொலிஸார்  மேற்கொண்டுள்ளமை குறிப்பிடத்தக்கது .
+Bubalasingham Tawakumar Senthil, 37, from Punguduthivu Kaites, died.
+
+A spokesman for the hospital said that the person was admitted to the Kandy National Hospital on Sunday (31) due to illness and died within minutes.
+
+The body of the person has been placed in the funeral room of the Kandy National Hospital and the police are conducting further investigations.
 
 ◼️
 
 [Data](articles/22ff4b18.json)
 
+[Extended Data](ext_articles/22ff4b18.ext.json)
+
 ---
 
-### வரியை நீக்கினால் ஒரு கிலோ கேக் ரூ.400?
+### If the line is removed, a kilo of cake is Rs.400?
 
 *2024-04-01 14:35:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரியை-நீக்கினால்-ஒரு-கிலோ-கேக்-ரூ-400/175-335454) · `ta`
 
-முட்டை ஒன்றின் விலை 35 ரூபாக குறைப்பதன் மூலமும் , பட்டருக்கு விதிக்கப்பட்டுள்ள  வரியை அகற்றுவதன் மூலமும்  ஒரு கிலோ கேக் 400 ரூபாவுக்கு விற்பனை செய்ய முடியும் என அகில இலங்கை பேக்கரி உரிமையாளர்கள் சங்கத்தின் தலைவர் என்.கே.ஜெயவர்தன தெரிவித்துள்ளார்.
+NK Jayawardena, Ceylon Bakery Owners Association President, suggests reducing egg price to 35 rupees and removing butter tax to sell a kilo of cake for 400 rupees.
 
-இதற்கமைய, தரமான கேக் கிலோ ஒன்றின் விலை சுமார் 1000 ரூபா எனவும், 35 ரூபாவிற்கு முட்டை வழங்கினால் ஒரு கிலோ கேக்கின் விலை 100 ரூபாவினால் குறைக்கப்படும்.
+🟩
 
-ஒரு கிலோ வெண்ணெயின் மீது விதிக்கப்பட்டுள்ள 900 ரூபா வரியை நீக்கினால் ஒரு கிலோ கேக்கை 400 ரூபாவிற்கு வழங்க முடியும் எனவும் தெரிவிக்கின்றனர்.
+All Ceylon Bakery Owners Association President NK Jayawardena said that by cutting the price of an egg to 35 rupees and the removal of the tax imposed on Butter can be sold for 400 rupees.
+
+Accordingly, the price of a standard cake is about 1000 rupees and the price of an egg for 35 rupees will be reduced by 100 rupees.
+
+They also say that if you remove the 900 rupees tax imposed on a kilo of butter, you can give a kilo of cake for 400 rupees.
 
 ◼️
 
 [Data](articles/17a695bb.json)
+
+[Extended Data](ext_articles/17a695bb.ext.json)
 
 ---
 
@@ -657,6 +695,18 @@ When such cases were taken up for hearing in the Magistrate's Courts, the little
 [Data](articles/0c4a1c23.json)
 
 [Extended Data](ext_articles/0c4a1c23.ext.json)
+
+---
+
+### විමල්ට ලැබුණු තීන්දුව
+
+*2024-04-01 12:25:44* · [`adalk`](https://www.ada.lk/breaking_news/විමල්ට-ලැබුණු-තීන්දුව/11-408879) · `si`
+
+මීගමුව මහෙස්ත්‍රාත් අධිකරණය විසින් ලබාදුන් නියෝගය අනුව විදේශ ගමන් බලපත්‍ර නඩුවෙන් පාර්ලිමේන්තු මන්ත්‍රී විමල් වීරවංශ මහතා නිදොස් කොට නිදහස් කොට තිබේ.
+
+◼️
+
+[Data](articles/999c887e.json)
 
 ---
 
@@ -2257,53 +2307,5 @@ The other injured have been transferred to Kurunegala Hospital for further treat
 [Data](articles/550108b8.json)
 
 [Extended Data](ext_articles/550108b8.ext.json)
-
----
-
-### Tourist arrivals cross 600,000 mark within three months
-
-*2024-04-01 07:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-arrivals-cross-600-000-mark-within-three-months/108-279917) · `en`
-
-Tourist arrivals to Sri Lanka surged past the 600,000 mark by 27 March, in nearly half the time compared to last year.
-
-Provisional data from the Sri Lanka Tourism Development Authority (SLTDA) revealed that tourist arrivals reached 608,475 in the first 27 days of March. By contrast, in 2023, the country reached the 600,000 mark towards the end of June.
-
-Compared to the arrivals before the Covid pandemic and the Easter Sunday attacks, Sri Lanka successfully crossed the 700,000 mark by the end of March in 2018 and 2019.
-
-As of March 27, 2024, Sri Lanka has welcomed a total of 181,872 international visitors. The weekly arrival average is about 46,000, with a daily average of about 6,700. At the current rate, tourist arrivals to Sri Lanka are projected to just about cross the 200,000 mark in March. Analysis of tourist arrival rates from 2015 shows that from the third month of the year, the influx of international visitors typically experiences a slowdown until the month of July.
-
-...
-
-[Data](articles/dd1b6255.json)
-
-[Extended Data](ext_articles/dd1b6255.ext.json)
-
----
-
-### State patronage to producing the first Film of Sri Lanka
-
-*2024-04-01 07:49:20* · [`adalk`](https://www.ada.lk/breaking_news/මෙරට-පළමු-AI-චිත්‍රපටය-නිෂ්පාදනයට-රාජ්‍ය-අනුග්‍රහය/11-408869) · `si`
-
-President Ranil Wickremesinghe highlighted the transformation of Sri Lanka's film corporation with modern technology, emphasizing the importance of foreign training and AI in film production. He announced state patronage for the first AI film of Sri Lanka, acknowledging the role of technology in advancing the industry.
-
-🟩
-
-President Ranil Wickremesinghe said that it was transformed with the outdated film corporation with modern technology, "President Ranil Wickremesinghe said.
-
-The President said that the procedures and designers would provide foreign training opportunities to empower the modern technology and the President should be prepared with the modern technology.
-
-The President also stated that the state patronage was given to the first film of the first AI of Sri Lanka in Sri Lanka today, with artist intelligence.
-
-President Ranil Wickremesinghe addressing the 20th Raigam Tele'es Awards at Shangrila Hotel in Colombo.
-
-The awards ceremony is organized annually on a concept of Dr. Ravi Liyanage, a reputed entrepreneur of the island, a reputed entrepreneur of the island.
-
-Seven categories was awarded seven awards, evaluating the excellence of Television, Media Programs and television news programs.
-
-...
-
-[Data](articles/0b38d2d9.json)
-
-[Extended Data](ext_articles/0b38d2d9.ext.json)
 
 ---

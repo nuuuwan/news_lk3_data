@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 14:51:45**
+As of **2024-04-01 15:03:12**
 
 ## Newspaper Stats
 
-*Scraped **16,373** Articles*
+*Scraped **16,374** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 147
-bbccomsinhala | 171
+bbccomsinhala | 172
 dbsjeyarajcom | 201
 newsfirstlk | 363
 dailyftlk | 881
@@ -26,59 +26,83 @@ adaderanasinhalalk | 2,653
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,368 (100.0%) of 16,373 articles have been extended.
+16,373 (100.0%) of 16,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### බංග්ලාදේශය පළමු ඉනිම 178න් නවතියි
+### Bangladesh stood at first 178 innings
 
 *2024-04-01 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195173) · `si`
 
-දෙවන ටෙස්ට් තරගයේ සිය පළමු ඉනිම ක්‍රීඩා කළ බංග්ලාදේශයේ මීට සුළු මොහොතකට පෙර ලකුණු 178කට සියලුදෙනා දැවී ගියේය.
+Bangladesh was bowled out for 178 in their first innings in the second Test, with Asapitha Fernando taking 4 wickets, and Lahiru Kumara, Prabath Jayasuriya, and universal Fernando each taking 2 wickets.
 
-එහිදී ශ්‍රී ලංකාව වෙනුවෙන් අගනා පන්දු යැවීමක නිරත වූ අසිත ප්‍රනාන්දු පන්දුවාර 10යි පන්දු 4කදී ලකුණු 34කට කඩුලු 4ක් දවාගත්තේය.
+🟩
 
-ළහිරු කුමාර, ප්‍රභාත් ජයසූරිය සහ විශ්ව ප්‍රනාන්දු කඩුලු 2 බැගින් දවාගැනීමට සමත්විය.
+In their first innings in the second Test, all 178 were bowled out for a few months ago.
+
+Asapitha Fernando took 4 wickets for 34 overs.
+
+Lahiru Kumara, Prabath Jayasuriya and universal Fernando took 2 wickets each.
 
 ◼️
 
 [Data](articles/2592f5a4.json)
 
+[Extended Data](ext_articles/2592f5a4.ext.json)
+
 ---
 
-### පාස්කු ප්‍රහාරය ගැන සැකපිට මාස 6 රඳවාගෙන සිටි තිදෙනාගෙන් පොලිස් නිලධාරීන් සමාව ඉල්ලයි
+### Police apologize to three months he was detained on the Passover attack
 
 *2024-04-01 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195172) · `si`
 
-පාස්කු දින ත්‍රස්ත ප්‍රහාරය සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන රඳවා තබාගැනීම සම්බන්ධයෙන් සැකපිට අත්අඩංගුවට ගෙන මේ වනවිට නිදහස් කර ඇති හොරොව්පතාන ප්‍රදේශයේ පුද්ගලයන් තුන්දනෙකුගෙන් හොරොව්පතාන පොලිස් ස්ථානාධිපතිවරයා ඇතුළු පොලිස් නිලධාරීන් පස්දෙනෙකු අද (01) ශ්‍රේෂ්ඨාධිකරණය හමුවේ  සිංහල ක්‍රමයට ඔවුන්ට  ආචාර කර සමාව ඉල්ලා සිටියේය.
+Police apologize for three months' detention of suspects in Passover attack. Horowpathana OIC released on suspicion of terrorism. Accused, including Senul Abdeen Irfan, accused police of illegal arrests. Deputy Solicitor General stated no interrogation. Petitions summoned before Supreme Court. Roshan Premaratne, Sisira, and Jayatilleke involved. Madhawa Tennakoon, representing Attorney General, appeared. Petitioners arrested following terrorists, but filed to promote judiciary.
 
-තමන්ව නීතිවිරෝධී ලෙස අත්අඩංගුවට ගෙන මාස හයකට වැඩි කාලයක් රඳවා තබා ගැනීම තුළින් සිය මූලික අයිතිවාසිකම් උල්ලංඝනය කර ඇති බවට චෝදනා කරමින් සෙනූල් ආබ්දීන් ඉර්ෆාන්,  සෙනුල් ආබ්දීන් කලීෆාතුල්ලා සහ නූර්ගේ සකරියා යන අය විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් අද ශ්‍රේෂ්ඨාධිකරණය හමුවේ කැඳවූ අවස්ථාවේදී මෙම සමාව ගැනීම සිදුකළේය.
+🟩
 
-සිද්ධිය සම්බන්ධයෙන් අදාළ පුද්ගලයින්ගෙන් යළි ප්‍රශ්න කිරීම් නොකරන බවත් අදාළ පොලිස් නිලධාරීන් වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරල්වරයා අධිකරණය හමුවේ සඳහන් කළේය.
+The Horowpathana OIC of Horowpathana Police, who has been released on suspicion of the terrorists, has been released on suspicion of the terrorist attack.
 
-එස්  තුරෙයි රාජා, කුමුදුනී වික්‍රමසිංහ සහ අචල වෙන්ගප්පුලි යන ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල හමුවේ මෙම පෙත්සම් කැඳවනු ලැබීය.
+This apology was made when Senul Abdeen Irfan, Senul Abdethen, Karifhathiye and Nurh's Sarafan, accused of illegal illegal arrest of illegal arrests.
+
+Deputy Solicitor General, representing the police stated that he would not be interrogated by the incident.
+
+The petitions were summoned before the Supreme Court Bench, the Supreme Court Judge of the Supreme Court Judge of S. Turai Raja and Kumuduni.
+
+The then OIC of Horowpathana Police OIC, Roshan Premaratne, Police OIC of the police, Sisira, Police Constable Jayatilleke and the OIC of the police said.
+
+Deputy Solicitor General, Madhawa Tennakoon, appearing on behalf of the Attorney General was reportedly legalized in the Horowpathana Magistrate Under the Prevention of Terrorism.
+
+He added that in the year 2022, they were acquitted and released.
 
 ...
 
 [Data](articles/e9b08761.json)
 
+[Extended Data](ext_articles/e9b08761.ext.json)
+
 ---
 
-### தெற்கின் கடலோரப் பகுதியில் நிலத்தை நோக்கி வரும் பாரிய அலைகள்!
+### Massive waves coming to the land on the coast of the south!
 
 *2024-04-01 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180140) · `ta`
 
-கடல் சீற்றம் காரணமாக காலி -  கொழும்பு பிரதான வீதியில் கஹவ சந்தியில் இருந்து தெல்வத்தை சந்தி வரையில்  பாரிய கடல் அலைகள் நிலத்தை நோக்கி வருகின்றன.
+Massive sea waves from Kahawa Junction to Telvam on the Galle-Colombo road due to sea rage, causing severe traffic disruption. Residents report the situation occurred yesterday evening.
 
-இதனால் அந்த  வீதியின்  போக்குவரத்துக்கு கடும் இடையூறு ஏற்பட்டுள்ளது. நேற்று (31) மாலை  இந்த நிலை ஏற்பட்டதாக பிரதேச மக்கள் தெரிவித்தனர்.
+🟩
 
-கடல் அலைகளுடன்,   கடற்கரையோரப் பகுதிகளில்  போடப்பட்டுள்ள கடலரிப்பு தடைக்காகப் போடப்பட்டுள்ள   கற்களும் அவ்வப்போது வருவதால் அப்பகுதி மக்கள் வாகனங்கள் செல்வதற்காக கற்களை அகற்றுவதனைக்  காண முடிகிறது.
+Due to sea rage, massive sea waves come to the ground from Kahawa Junction to Telvam on the Galle -Colombo main road.
+
+This has caused severe disruption to the traffic of the road. Residents of the area said the situation occurred yesterday evening.
+
+With sea waves, the stones that have been placed on the coastal areas are occasionally visited by the people of the area to remove the stones for vehicles.
 
 ◼️
 
 [Data](articles/2ca693fc.json)
+
+[Extended Data](ext_articles/2ca693fc.ext.json)
 
 ---
 
@@ -98,6 +122,8 @@ Suitable students between the ages of 12 and 16 have been selected from 108 scho
 
 [Data](articles/04c1e2f0.json)
 
+[Extended Data](ext_articles/04c1e2f0.ext.json)
+
 ---
 
 ### UNDP meets NPP; discusses increasing poverty in Sri Lanka
@@ -115,6 +141,8 @@ NPP members MP Harini Amarasuriya and Politburo member Bimal Ratnayake participa
 ◼️
 
 [Data](articles/f55e49f6.json)
+
+[Extended Data](ext_articles/f55e49f6.ext.json)
 
 ---
 
@@ -2020,6 +2048,22 @@ Those who were expecting more than Rs.
 
 ---
 
+### කච්චතීව් දූපත: ශ්‍රී ලංකාවෙන් ඉන්දියාවට යළි පවරා ගත හැකිද ?
+
+*2024-04-01 09:05:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72dg1djg1wo) · `si`
+
+මේ වන විට ශ්‍රී ලංකාවට අයත්ව තිබෙන කච්චතීව් දූපත ඉන්දියාවේ මැතිවරණය ඉලක්ක කර ගත් ආන්දෝලනාත්මක මාතෘකාවක් බවට පත්ව තිබේ.
+
+ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි මාර්තු 31 වන දා සිය නිල එක්ස් (මීට පෙර ට්විටර්) ගිණුමෙහි සටහනක් තබමින් සඳහන් කර තිබුණේ, "ඉන්දීය ජනතාව ගැන නොසිතා කොංග්‍රස් පක්ෂය කච්චතීව් දූපත ශ්‍රී ලංකාවට පිරිනැමීම සම්බන්ධයෙන් නව කරුණු අනාවරණය වී ඇති," බව ය.
+
+මේ සම්බන්ධයෙන් සෑම ඉන්දියානුවෙකු ම කෝපයට පත්ව සිටින බවත්, කොංග්‍රස් පක්ෂය සම්බන්යෙන් තවදුරටත් විශ්වාසයක් තැබිය නොහැකි බවත් ජනතාවට යළිත් තහවුරු වී ඇති බව ද එහි දැක්වේ.
+
+...
+
+[Data](articles/cc7a886e.json)
+
+---
+
 ### Construction sector activities gather momentum as infrastructure projects return
 
 *2024-04-01 09:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Construction-sector-activities-gather-momentum-as-infrastructure-projects-return/108-279919) · `en`
@@ -2271,29 +2315,5 @@ In his response to media over possibility of becoming a common candidate, he sai
 [Data](articles/99c867eb.json)
 
 [Extended Data](ext_articles/99c867eb.ext.json)
-
----
-
-### Showers or thundershowers at several places today
-
-*2024-04-01 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195149) · `si`
-
-Showers and thundershowers expected in Western, Southern, Sabaragamuwa, Uva, North Western, Central Provinces, and Mannar and Vavuniya districts. Meteorology advises precautions against wind and lightning.
-
-🟩
-
-Western, Southern, Sabaragamuwa and Uva provinces. Showers or thundershowers will occur at several places, about 2.00.
-
-Showers or thundershowers will occur at several places in the North Western and Central Provinces and in the Mannar and Vavuniya districts in the Mannar and Vavuniya districts.
-
-In some places in the Western, Central, Sabaragamuwa and Uva provinces, in some places, are expected to be fired in the Galle and Matara districts.
-
-The Department of Meteorology urges the public to take necessary steps to be taken to reduce temporary winds and lightning accidents due to thunderstorms.
-
-◼️
-
-[Data](articles/e0a84210.json)
-
-[Extended Data](ext_articles/e0a84210.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 01:18:08**
+As of **2024-04-02 01:35:44**
 
 ## Newspaper Stats
 
-*Scraped **16,483** Articles*
+*Scraped **16,487** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ dailyftlk | 887
 economynextcom | 909
 islandlk | 913
 adalk | 1,387
-tamilmirrorlk | 1,963
+tamilmirrorlk | 1,964
 adaderanalk | 1,984
-virakesarilk | 2,350
+virakesarilk | 2,353
 dailymirrorlk | 2,537
 adaderanasinhalalk | 2,668
 
@@ -26,11 +26,85 @@ adaderanasinhalalk | 2,668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,482 (100.0%) of 16,483 articles have been extended.
+16,483 (100.0%) of 16,487 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### வடமாகாண சுகாதார சேவைக்கு பல சிரேஷ்ட பணிப்பாளர்கள் புதிய நியமனம்
+
+*2024-04-02 01:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180195) · `ta`
+
+அண்மையில் நாடு முழுவதும் உள்ள சுகாதார சேவைகள் பணிமனைகள், பெரிய வைத்தியசாலைகள் போன்றவற்றிற்கான சிரேஷ்ட வைத்திய நிர்வாகிகளுக்கான நேர்முகத்தேர்வு நடைபெற்றது.
+
+அதன் விளைவாக இன்று நாடு முழுவதும் உள்ள சிரேஷ்ட வைத்திய நிர்வாகிகளுக்கான வெற்றிடங்களுக்கான நியமனம் சுகாதார அமைச்சு செயலாளர் அவர்களினால் வழங்கி வைக்கப்பட்டது.
+
+அந்த வகையில், வடமாகாணத்தில் வைத்திய நிர்வாகிகளுக்கான வெற்றிடங்களுக்கு பின்வரும் புதிய வைத்தியர்கள் நியமிக்கப்பட்டுள்ளார்கள்.
+
+1.வடமாகாண சுகாதார சேவைகள் பணிப்பாளர்: வீ. பீ. எஸ். டீ. பத்திரண (Dr. V. P. S. D. Pathinrana)
+
+2.பிராந்திய சுகாதார சேவைகள் பணிப்பாளர், வவுனியா: எஸ். சுபாஸ்கரன் (Dr. S. Subaskaran)
+
+3.பிராந்திய சுகாதார சேவைகள் பணிப்பாளர், முல்லைத்தீவு: எம். எஸ். உமாசங்கர் (Dr. M. S. Umashankar)
+
+4.பிராந்திய சுகாதார சேவைகள் பணிப்பாளர், மன்னார்: பீ. கே. விக்கிரமசிங்க (Dr. P. K. Wickramasinghe)
+
+5.பிராந்திய சுகாதார சேவைகள் பணிப்பாளர், கிளிநொச்சி: டீ. வினோதன் (Dr. D. Venoden)
+
+6.பணிப்பாளர், மாவட்ட பொது வைத்தியசாலை, வவுனியா: ஜீ. சுகுணன் (Dr. G. Sukunan)
+
+...
+
+[Data](articles/40d8fb2f.json)
+
+---
+
+### வெள்ளவத்தையில் கொழும்பு கிறேன்வே லயன்ஸ் , வெஸ்ட்டேன் லயன் கழகங்கள் இணைந்து சிரமதான பணி
+
+*2024-04-02 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180194) · `ta`
+
+கொழும்பு கிறேன்வே லயன்ஸ் கழகம், வெஸ்ட்டேன் லயன் கழகம் இணைந்து வெள்ளவத்தை புகையிரத நிலைய  கடற்கரை பகுதியில்  கடந்த ஞாயிற்றுக்கிழமை காலை "சிரமதானம்"  பணியை மேற்கொண்டனர்.
+
+அங்குகூடிய லயன்ஸ் கழக அங்கத்தவர்கள் கடற்கரையில் ஒதுங்கப்பட்ட பிளாஸ்டிக், மற்றும் உக்கக்  கூடிய குப்பைகளை சுத்தம் செய்வதையும் மாநகரசபை சுத்திகரிப்பாளர்கள்  அவர்களுக்கு உதவியாக சுத்தம்செய்யப்பட்ட குப்பைகளை எடுத்துச்செல்வதை  காணலாம். (படப்பிடிப்பு :-  எஸ். எம். சுரேந்திரன்)
+
+◼️
+
+[Data](articles/fcf11725.json)
+
+---
+
+### மூதூர் களப்பு பகுதியில் 3 பிள்ளைகளின் தந்தை சடலமாக மீட்பு
+
+*2024-04-02 01:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180193) · `ta`
+
+மூதூர் பொலிஸ் பிரிவிலுள்ள மூதூர் -பஹ்ரியா நகர் களப்புக் கடலில் உயிரிழந்து மிதந்த நிலையில்  திங்கட்கிழமை (01) சடலம் ஒன்று மீட்கப்பட்டுள்ளதாக மூதூர் பொலிஸார் தெரிவித்தனர்.
+
+இவ்வாறு சடலமாக மீட்கப்பட்டவர் மூதூர் -பஹ்ரியா நகரைச் சேர்ந்த மூன்று பிள்ளைகளின் தந்தையான அப்துல் ஹமீது நப்ரீஸ் (வயது 39)  என தெரியவருகின்றது.
+
+இவ்வாறு சடலமாக மீட்கப்பட்டவரின் கை,கால்கள் கயிறுகளால் கட்டப்பட்டு வைற்றில் மண் மூட்டையும் கட்டப்பட்டுள்ளது. இதனால் இது ஒரு கொலை என சந்தேகம் ஏற்பட்டுள்ளதாக தெரியவருகின்றது.
+
+இதனையடுத்து மூதூர் நீதிவான் நீதிமன்ற நீதிபதி தஸ்னீம் பௌசான் குறித்த இடத்திற்கு வருகை தந்து சடலத்தை பார்வையிட்டு விசாரணைகளை மேற்கொண்ட பின்னர் சடலம் பிரேத பரிசோதனைகளுக்காக திருகோணமலை பொது வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/aa33aa20.json)
+
+---
+
+### கை, கால்கள் கட்டப்பட்ட நிலையில் சடலம் மீட்பு
+
+*2024-04-02 00:58:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கை-கால்கள்-கட்டப்பட்ட-நிலையில்-சடலம்-மீட்பு/175-335485) · `ta`
+
+மூதூர் - பஹ்ரியா நகரைச் சேர்ந்த 2 பிள்ளைகளின் தந்தையான 39 வயதான ஒருவரே சடலமாக மீட்கப்பட்டுள்ளார்.
+
+சடலமாக மீட்கப்பட்டவரின் கை, கால்கள் கயிற்றினால் கட்டப்பட்டு மணல் மூடையொன்றும் வயிற்றில் கட்டப்பட்டிருந்தன என்று பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/d56588e1.json)
+
+---
 
 ### Developing sustainable business: Power of people-centric management
 
@@ -42,11 +116,13 @@ As businesses navigate complex challenges and pursue growth opportunities in a t
 
 [Data](articles/4e3fe37a.json)
 
+[Extended Data](ext_articles/4e3fe37a.ext.json)
+
 ---
 
 ### Mumbai's failure continues to taste Rajasthan 3rd direct victory
 
-*2024-04-02 00:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180192) · `ta`
+*2024-04-02 00:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/180192) · `ta`
 
 Rajasthan Royals won their 3rd direct victory in the 17th IPL chapter, defeating Mumbai Indians by 6 wickets. Yusvendra Sahal and Trent Bolt's bowling, along with Ryan Barak's 50, led to a lighter victory. Mumbai Indians, having lost all three matches in this chapter five times, scored 125 runs in 20 overs.
 
@@ -2153,91 +2229,5 @@ Lahiru Kumara, Prabath Jayasuriya and universal Fernando took 2 wickets each.
 [Data](articles/2592f5a4.json)
 
 [Extended Data](ext_articles/2592f5a4.ext.json)
-
----
-
-### Police apologize to three months he was detained on the Passover attack
-
-*2024-04-01 14:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195172) · `si`
-
-Police apologize for three months' detention of suspects in Passover attack. Horowpathana OIC released on suspicion of terrorism. Accused, including Senul Abdeen Irfan, accused police of illegal arrests. Deputy Solicitor General stated no interrogation. Petitions summoned before Supreme Court. Roshan Premaratne, Sisira, and Jayatilleke involved. Madhawa Tennakoon, representing Attorney General, appeared. Petitioners arrested following terrorists, but filed to promote judiciary.
-
-🟩
-
-The Horowpathana OIC of Horowpathana Police, who has been released on suspicion of the terrorists, has been released on suspicion of the terrorist attack.
-
-This apology was made when Senul Abdeen Irfan, Senul Abdethen, Karifhathiye and Nurh's Sarafan, accused of illegal illegal arrest of illegal arrests.
-
-Deputy Solicitor General, representing the police stated that he would not be interrogated by the incident.
-
-The petitions were summoned before the Supreme Court Bench, the Supreme Court Judge of the Supreme Court Judge of S. Turai Raja and Kumuduni.
-
-The then OIC of Horowpathana Police OIC, Roshan Premaratne, Police OIC of the police, Sisira, Police Constable Jayatilleke and the OIC of the police said.
-
-Deputy Solicitor General, Madhawa Tennakoon, appearing on behalf of the Attorney General was reportedly legalized in the Horowpathana Magistrate Under the Prevention of Terrorism.
-
-He added that in the year 2022, they were acquitted and released.
-
-...
-
-[Data](articles/e9b08761.json)
-
-[Extended Data](ext_articles/e9b08761.ext.json)
-
----
-
-### Electing a President: Three against one in the US, and three against three in Sri Lanka
-
-*2024-04-01 14:25:00* · [`islandlk`](http://island.lk/electing-a-president-three-against-one-in-the-us-and-three-against-three-in-sri-lanka/) · `en`
-
-On Thursday, in New York, President Joe Biden and his two Democratic predecessors, Barrack Obama and Bill Clinton, appeared together in a fund raising event to launch Biden’s reelection campaign against Donald Trump, their common foe and America’s ugly manifestation. The fundraiser reportedly netted in over $25 million boosting Biden’s impressive war chest which is said to be more than $150 million. Trump is handicapped with less than a third of that to spend on elections in addition to his personal financial challenges of having to cough up over half a billion dollars in penalties and damages in civil fraud and personal libel cases. The three amigos and the lone fraudster and felon represent the best and worst of America.
-
-...
-
-[Data](articles/50d9597c.json)
-
-[Extended Data](ext_articles/50d9597c.ext.json)
-
----
-
-### Sri Lanka tourist arrivals up by 189-pct in March 2024
-
-*2024-04-01 14:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-tourist-arrivals-up-by-189-pct-in-march-2024-156779/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tourist arrivals rose 189 percent to 635,782 persons in January to March 2024 from a year ago, led by India, data from the Sri Lanka Tourist Development Authority showed.
-
-Sri Lanka last got this level of visitors in 2019, before  the coronavirus pandemic, when 344 328 visitors came to the country in March.
-
-India was the largest source market in March at 31,853, followed by Russia at 28,016, the United Kingdom (21,540) and Germany (18,324).
-
-Sri Lanka is targeting 2.3 million visitors in 2024 after getting 1.48 million visitors in 2023. (Colombo/Apr01/2024)
-
-◼️
-
-[Data](articles/9876857c.json)
-
-[Extended Data](ext_articles/9876857c.ext.json)
-
----
-
-### Massive waves coming to the land on the coast of the south!
-
-*2024-04-01 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180140) · `ta`
-
-Massive sea waves from Kahawa Junction to Telvam on the Galle-Colombo road due to sea rage, causing severe traffic disruption. Residents report the situation occurred yesterday evening.
-
-🟩
-
-Due to sea rage, massive sea waves come to the ground from Kahawa Junction to Telvam on the Galle -Colombo main road.
-
-This has caused severe disruption to the traffic of the road. Residents of the area said the situation occurred yesterday evening.
-
-With sea waves, the stones that have been placed on the coastal areas are occasionally visited by the people of the area to remove the stones for vehicles.
-
-◼️
-
-[Data](articles/2ca693fc.json)
-
-[Extended Data](ext_articles/2ca693fc.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 01:35:44**
+As of **2024-04-02 01:52:10**
 
 ## Newspaper Stats
 
-*Scraped **16,487** Articles*
+*Scraped **16,490** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 147
 bbccomsinhala | 174
 dbsjeyarajcom | 201
 newsfirstlk | 363
-dailyftlk | 887
+dailyftlk | 889
 economynextcom | 909
 islandlk | 913
 adalk | 1,387
 tamilmirrorlk | 1,964
 adaderanalk | 1,984
-virakesarilk | 2,353
+virakesarilk | 2,354
 dailymirrorlk | 2,537
 adaderanasinhalalk | 2,668
 
@@ -26,83 +26,153 @@ adaderanasinhalalk | 2,668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,483 (100.0%) of 16,487 articles have been extended.
+16,487 (100.0%) of 16,490 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### வடமாகாண சுகாதார சேவைக்கு பல சிரேஷ்ட பணிப்பாளர்கள் புதிய நியமனம்
+### மன்னார் மாவட்ட பொது வைத்தியசாலையின் சுகாதார ஊழியர்கள், தாதியர்கள் உள்ளிட்டோர் கவனயீர்ப்பு போராட்டம்
+
+*2024-04-02 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180196) · `ta`
+
+அனைத்து தாதியர்களும் மூன்று மணித்தியாலங்கள் கடமையிலிருந்து விலகி தொழிற்சங்க நடவடிக்கையில் ஈடுபட தீர்மானித்துள்ள நிலையில் அதற்கு ஆதரவு தெரிவிக்கும் வகையில் மன்னார்  மாவட்ட வைத்தியசாலையில் திங்கட்கிழமை (01) மதியம் போராட்டம் முன்னெடுக்கப்பட்டது.
+
+மன்னார்  மாவட்ட  வைத்தியசாலையில் பணிபுரியும் தாதிய உத்தியோகத்தர்கள் வைத்தியசாலை  வளாகத்தில்  கவனயீர்ப்பு போராட்டம் முன்னெடுக்கப்பட்டது.
+
+குறித்த போராட்டத்தில் ஈடுபட்டவர்கள் தாதியர்களின் எதிர்நோக்கும் சம்பளம் மற்றும் சீருடை கொடுப்பனவு வழங்குதல் உள்ளிட்ட பல பிரச்சினைகளுக்கு தீர்வு காணுமாறு கோரி போராட்டத்தில் ஈடுபட்டனர்.
+
+சுகாதார மற்றும் தாதியர்களின் பிரச்சினைகள் தொடர்பில் ஜனாதிபதி உடனடியாக தலையிட்டு தீர்த்து வைக்க வேண்டும் என்று தெரிவித்த அவர்கள் தமது கோரிக்கைகள் தீர்க்கப்படாவிட்டால் போராட்டங்களைத் தொடர்ந்து முன்னெடுக்க உள்ளதாகத் தெரிவித்தனர்.
+
+...
+
+[Data](articles/1a40437d.json)
+
+---
+
+### China, SL issue joint statement after PM Gunawardena’s visit
+
+*2024-04-02 01:26:53* · [`dailyftlk`](https://www.ft.lk/news/China-SL-issue-joint-statement-after-PM-Gunawardena-s-visit/56-760205) · `en`
+
+At the invitation of Premier of the State Council of the People’s Republic of China Li Qiang, Prime Minister Dinesh Gunawardena paid an official visit to China and attended the Boao Forum for Asia
+
+During the visit, Prime Minister Dinesh Gunawardena called on People’s Republic of China President Xi Jinping, held talks with Premier Li Qiang, and met with National People’s Congress Standing Committee Chairman Zhao Leji. In a cordial and friendly atmosphere, the two sides had in-depth discussions and reached extensive common understandings on bilateral relations and regional and international issues of mutual interest.
+
+...
+
+[Data](articles/6bd2559c.json)
+
+---
+
+### 53rd Anniversary of Independence and National Day of Bangladesh observed in Colombo
+
+*2024-04-02 01:25:44* · [`dailyftlk`](https://www.ft.lk/news/53rd-Anniversary-of-Independence-and-National-Day-of-Bangladesh-observed-in-Colombo/56-760204) · `en`
+
+The Bangladesh High Commission in Colombo observed the 53rd Anniversary of Independence and National Day of Bangladesh with due fervour and festivities on 26 March.
+
+The observance commenced at the chancery in the morning with ceremonial hoisting of the National Flag by High Commissioner Tareq Md Ariful Islam, placing of floral wreath at the portrait of the Father of the Nation Bangabandhu Sheikh Mujibur Rahman and observing one-minute silence as a mark of respect to the martyrs of the glorious War of Liberation. Then messages of the President, Prime Minister and Foreign Minister of Bangladesh were read out; a documentary was screened; and special prayers were offered seeking continued peace, progress and prosperity of the nation and eternal peace for the martyrs of the Liberation War, Father of the Nation and his martyred family members and four national leaders.
+
+...
+
+[Data](articles/3e4a4bf1.json)
+
+---
+
+### Many senior directors of the Northern Province Health Service are new appointment
 
 *2024-04-02 01:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180195) · `ta`
 
-அண்மையில் நாடு முழுவதும் உள்ள சுகாதார சேவைகள் பணிமனைகள், பெரிய வைத்தியசாலைகள் போன்றவற்றிற்கான சிரேஷ்ட வைத்திய நிர்வாகிகளுக்கான நேர்முகத்தேர்வு நடைபெற்றது.
+The Northern Province Health Service has appointed new senior directors, including Dr. Wee Be Pea S. Tea as Director of Northern Health Services, and Dr. S. Subhaskaran in Vavuniya, among others. These appointments are crucial for the health service's development.
 
-அதன் விளைவாக இன்று நாடு முழுவதும் உள்ள சிரேஷ்ட வைத்திய நிர்வாகிகளுக்கான வெற்றிடங்களுக்கான நியமனம் சுகாதார அமைச்சு செயலாளர் அவர்களினால் வழங்கி வைக்கப்பட்டது.
+🟩
 
-அந்த வகையில், வடமாகாணத்தில் வைத்திய நிர்வாகிகளுக்கான வெற்றிடங்களுக்கு பின்வரும் புதிய வைத்தியர்கள் நியமிக்கப்பட்டுள்ளார்கள்.
+Recently, interviews were held for senior medical administrators for health services and large hospitals across the country.
 
-1.வடமாகாண சுகாதார சேவைகள் பணிப்பாளர்: வீ. பீ. எஸ். டீ. பத்திரண (Dr. V. P. S. D. Pathinrana)
+As a result, the appointment of vacancies for senior medical administrators across the country was handed over by the Ministry of Health.
 
-2.பிராந்திய சுகாதார சேவைகள் பணிப்பாளர், வவுனியா: எஸ். சுபாஸ்கரன் (Dr. S. Subaskaran)
+In that respect, the following new doctors have been appointed to the vacancies for medical administrators in the Northern Province.
 
-3.பிராந்திய சுகாதார சேவைகள் பணிப்பாளர், முல்லைத்தீவு: எம். எஸ். உமாசங்கர் (Dr. M. S. Umashankar)
+1. Director of Northern Health Services: Wee. Be pea. S.. Tea. The paragraph (dr. D. B.. Ssh. T. They are)
 
-4.பிராந்திய சுகாதார சேவைகள் பணிப்பாளர், மன்னார்: பீ. கே. விக்கிரமசிங்க (Dr. P. K. Wickramasinghe)
+2. Regional Health Services Director, Vavuniya: S. Subhaskaran (Dr. Ssh. Subashkaran)
 
-5.பிராந்திய சுகாதார சேவைகள் பணிப்பாளர், கிளிநொச்சி: டீ. வினோதன் (Dr. D. Venoden)
+3. Regional Health Services Director, Mullaitivu: M. S.. Umasankar (Dr. On the. Ssh. Umasankar)
 
-6.பணிப்பாளர், மாவட்ட பொது வைத்தியசாலை, வவுனியா: ஜீ. சுகுணன் (Dr. G. Sukunan)
+4. Regional Health Services Director, Mannar: Bee. K. Wickremesinghe (Dr. B.. K. Visakram Singke)
+
+5. Regional Health Services Director, Kilinochchi: Tea. Vinodhan (Dr. T. Vinodhan)
+
+6. Servant, District General Hospital, Vavuniya: J. Sukunan (Dr. K. Sukunan)
 
 ...
 
 [Data](articles/40d8fb2f.json)
 
+[Extended Data](ext_articles/40d8fb2f.ext.json)
+
 ---
 
-### வெள்ளவத்தையில் கொழும்பு கிறேன்வே லயன்ஸ் , வெஸ்ட்டேன் லயன் கழகங்கள் இணைந்து சிரமதான பணி
+### Colombo Lions, Westton Lion Corporations in Wellawatte
 
 *2024-04-02 01:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/180194) · `ta`
 
-கொழும்பு கிறேன்வே லயன்ஸ் கழகம், வெஸ்ட்டேன் லயன் கழகம் இணைந்து வெள்ளவத்தை புகையிரத நிலைய  கடற்கரை பகுதியில்  கடந்த ஞாயிற்றுக்கிழமை காலை "சிரமதானம்"  பணியை மேற்கொண்டனர்.
+Colombo Lions and Westane Lion Corporations cleaned Wellawatte Railway Station with help from Lions Club and Municipal Council members.
 
-அங்குகூடிய லயன்ஸ் கழக அங்கத்தவர்கள் கடற்கரையில் ஒதுங்கப்பட்ட பிளாஸ்டிக், மற்றும் உக்கக்  கூடிய குப்பைகளை சுத்தம் செய்வதையும் மாநகரசபை சுத்திகரிப்பாளர்கள்  அவர்களுக்கு உதவியாக சுத்தம்செய்யப்பட்ட குப்பைகளை எடுத்துச்செல்வதை  காணலாம். (படப்பிடிப்பு :-  எஸ். எம். சுரேந்திரன்)
+🟩
+
+The Colombo Lions Corporation and the Westane Lion Corporation jointly carried out the "Siramanam" work on the Wellawatte Railway Station last Sunday morning.
+
+Members of the Lions Club, the Municipal Council, can be used to clean the plastic and debris on the beach.. (Shooting:-S. M.. Surendran)
 
 ◼️
 
 [Data](articles/fcf11725.json)
 
+[Extended Data](ext_articles/fcf11725.ext.json)
+
 ---
 
-### மூதூர் களப்பு பகுதியில் 3 பிள்ளைகளின் தந்தை சடலமாக மீட்பு
+### Father of 3 children
 
 *2024-04-02 01:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/180193) · `ta`
 
-மூதூர் பொலிஸ் பிரிவிலுள்ள மூதூர் -பஹ்ரியா நகர் களப்புக் கடலில் உயிரிழந்து மிதந்த நிலையில்  திங்கட்கிழமை (01) சடலம் ஒன்று மீட்கப்பட்டுள்ளதாக மூதூர் பொலிஸார் தெரிவித்தனர்.
+A body found in Muttur-Bahriya, tied with ropes, suspected murder. Abdul Hamid Nabris, 39, father of 3, identified. Autopsy at Trincomalee General Hospital.
 
-இவ்வாறு சடலமாக மீட்கப்பட்டவர் மூதூர் -பஹ்ரியா நகரைச் சேர்ந்த மூன்று பிள்ளைகளின் தந்தையான அப்துல் ஹமீது நப்ரீஸ் (வயது 39)  என தெரியவருகின்றது.
+🟩
 
-இவ்வாறு சடலமாக மீட்கப்பட்டவரின் கை,கால்கள் கயிறுகளால் கட்டப்பட்டு வைற்றில் மண் மூட்டையும் கட்டப்பட்டுள்ளது. இதனால் இது ஒரு கொலை என சந்தேகம் ஏற்பட்டுள்ளதாக தெரியவருகின்றது.
+Muttur police said that a body has been recovered on Monday (01) after he died in the Muttur -Bahriya Nagar field in the Muttur police division.
 
-இதனையடுத்து மூதூர் நீதிவான் நீதிமன்ற நீதிபதி தஸ்னீம் பௌசான் குறித்த இடத்திற்கு வருகை தந்து சடலத்தை பார்வையிட்டு விசாரணைகளை மேற்கொண்ட பின்னர் சடலம் பிரேத பரிசோதனைகளுக்காக திருகோணமலை பொது வைத்தியசாலைக்கு அனுப்பி வைக்கப்பட்டுள்ளது.
+Abdul Hamid Nabris (age 39), the father of three children from Muttur -Bahriya, who was recovered.
+
+Thus the body and legs are tied with ropes and a mud bundle in the wittle. This has led to suspicion that this is a murder.
+
+Subsequently, the body has been sent to the Trincomalee General Hospital for autopsy, after the Muttur Magistrate's Court Judge Dasneem Bausan visited the site and investigated the body.
 
 ◼️
 
 [Data](articles/aa33aa20.json)
 
+[Extended Data](ext_articles/aa33aa20.ext.json)
+
 ---
 
-### கை, கால்கள் கட்டப்பட்ட நிலையில் சடலம் மீட்பு
+### Corpse recovery with the hand and legs tied
 
 *2024-04-02 00:58:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கை-கால்கள்-கட்டப்பட்ட-நிலையில்-சடலம்-மீட்பு/175-335485) · `ta`
 
-மூதூர் - பஹ்ரியா நகரைச் சேர்ந்த 2 பிள்ளைகளின் தந்தையான 39 வயதான ஒருவரே சடலமாக மீட்கப்பட்டுள்ளார்.
+A 39-year-old father from Muttur-Bahria city was found dead with his hands and legs tied, and a sandbag in his stomach.
 
-சடலமாக மீட்கப்பட்டவரின் கை, கால்கள் கயிற்றினால் கட்டப்பட்டு மணல் மூடையொன்றும் வயிற்றில் கட்டப்பட்டிருந்தன என்று பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
+
+A 39 -year -old father of 2 children from Muttur - Bahria city has been found dead.
+
+The body of the body and legs was tied with a rope and a sandbag was tied in the stomach, police said.
 
 ◼️
 
 [Data](articles/d56588e1.json)
+
+[Extended Data](ext_articles/d56588e1.ext.json)
 
 ---
 
@@ -2161,73 +2231,5 @@ He is credited with leading research reports including reports on banking sector
 [Data](articles/b93d1eaa.json)
 
 [Extended Data](ext_articles/b93d1eaa.ext.json)
-
----
-
-### Vidya assassination;Death sentence prisoner
-
-*2024-04-01 14:40:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வித்யா-படுகொலை-மரண-தண்டனை-கைதி-மரணம்/175-335455) · `ta`
-
-A prisoner sentenced to death for the murder of Sivalokanathan Vidya, a schoolgirl from Jaffna, died at Kandy National Hospital in 2015.
-
-🟩
-
-According to hospital sources, a prisoner who was sentenced to death at the Kandy National Hospital in 2015, who was sentenced to death in connection with the massacre and murder of a schoolgirl named Sivalokanathan Vidya, a schoolgirl from Punguduthivu, Jaffna.
-
-Bubalasingham Tawakumar Senthil, 37, from Punguduthivu Kaites, died.
-
-A spokesman for the hospital said that the person was admitted to the Kandy National Hospital on Sunday (31) due to illness and died within minutes.
-
-The body of the person has been placed in the funeral room of the Kandy National Hospital and the police are conducting further investigations.
-
-◼️
-
-[Data](articles/22ff4b18.json)
-
-[Extended Data](ext_articles/22ff4b18.ext.json)
-
----
-
-### If the line is removed, a kilo of cake is Rs.400?
-
-*2024-04-01 14:35:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரியை-நீக்கினால்-ஒரு-கிலோ-கேக்-ரூ-400/175-335454) · `ta`
-
-NK Jayawardena, Ceylon Bakery Owners Association President, suggests reducing egg price to 35 rupees and removing butter tax to sell a kilo of cake for 400 rupees.
-
-🟩
-
-All Ceylon Bakery Owners Association President NK Jayawardena said that by cutting the price of an egg to 35 rupees and the removal of the tax imposed on Butter can be sold for 400 rupees.
-
-Accordingly, the price of a standard cake is about 1000 rupees and the price of an egg for 35 rupees will be reduced by 100 rupees.
-
-They also say that if you remove the 900 rupees tax imposed on a kilo of butter, you can give a kilo of cake for 400 rupees.
-
-◼️
-
-[Data](articles/17a695bb.json)
-
-[Extended Data](ext_articles/17a695bb.ext.json)
-
----
-
-### Bangladesh stood at first 178 innings
-
-*2024-04-01 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195173) · `si`
-
-Bangladesh was bowled out for 178 in their first innings in the second Test, with Asapitha Fernando taking 4 wickets, and Lahiru Kumara, Prabath Jayasuriya, and universal Fernando each taking 2 wickets.
-
-🟩
-
-In their first innings in the second Test, all 178 were bowled out for a few months ago.
-
-Asapitha Fernando took 4 wickets for 34 overs.
-
-Lahiru Kumara, Prabath Jayasuriya and universal Fernando took 2 wickets each.
-
-◼️
-
-[Data](articles/2592f5a4.json)
-
-[Extended Data](ext_articles/2592f5a4.ext.json)
 
 ---

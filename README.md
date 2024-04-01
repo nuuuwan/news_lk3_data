@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 10:33:32**
+As of **2024-04-01 10:51:29**
 
 ## Newspaper Stats
 
-*Scraped **16,292** Articles*
+*Scraped **16,299** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,156 @@ economynextcom | 888
 islandlk | 912
 adalk | 1,365
 tamilmirrorlk | 1,943
-adaderanalk | 1,960
+adaderanalk | 1,963
 virakesarilk | 2,314
-dailymirrorlk | 2,508
+dailymirrorlk | 2,512
 adaderanasinhalalk | 2,639
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,291 (100.0%) of 16,292 articles have been extended.
+16,292 (100.0%) of 16,299 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### අස්වැසුම ප්‍රතිලාභ නොලැබුණු අයට විශේෂයි
+### Libyan PM’s residence targeted with RPGs, no casualties reported
+
+*2024-04-01 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/98336/libyan-pms-residence-targeted-with-rpgs-no-casualties-reported) · `en`
+
+The residence of Libyan Prime Minister Abdulhamid al-Dbeibah was targeted with rocket-propelled grenades on Sunday in an attack that left no casualties, a Libyan minister told Reuters.
+
+The minister, who spoke in condition of anonymity, confirmed in a message that the attack only caused some damage. The minister has not disclosed any further details.
+
+Two citizens said they had heard massive explosions near the sea in Tripoli’s luxury Hay Andalus neighbourhood, the home to PM Dbeibah’s residence.
+
+A citizen said that after the massive explosions were heard, heavy security forces with their vehicles were deployed around the area.
+
+Libya has had little peace or stability since a 2011 NATO-backed uprising, and split in 2014 between eastern and western factions, with rival administrations governing each area.
+
+...
+
+[Data](articles/2809fe05.json)
+
+---
+
+### Katchatheevu island row: Modi says ‘new details unmasked DMK’s double standards’
+
+*2024-04-01 10:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/98335/katchatheevu-island-row-modi-says-new-details-unmasked-dmks-double-standards) · `en`
+
+Indian Prime Minister Narendra Modi on Monday said that new details on the Katchatheevu island issue “have unmasked DMK’s (Dravida Munnetra Kazhagam) double standards totally”. His remarks came a day after he attacked the Congress over its decision to hand over the strategic island to Sri Lanka in the 1970s.
+
+In a post on X, the Prime Minister said, “Rhetoric aside, DMK has done NOTHING to safeguard Tamil Nadu’s interests. New details emerging on #Katchatheevu have UNMASKED the DMK’s double standards totally.”
+
+“Congress and DMK are family units. They only care that their own sons and daughters rise. They don’t care for anyone else. Their callousness on Katchatheevu has harmed the interests of our poor fishermen and fisherwomen in particular,” he added.
+
+Katchatheevu island is where fishermen from Tamil Nadu go to fish. But they are detained by the Sri Lankan Navy as soon as they cross the International Maritime Border Line (IMBL) to reach the island.
+
+...
+
+[Data](articles/04e6e919.json)
+
+---
+
+### Wijeyadasa’s presence at SLFP meeting creates stir
+
+*2024-04-01 10:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wijeyadasas-presence-at-SLFP-meeting-creates-stir/108-279928) · `en`
+
+Colombo, April 1 (Daily Mirror)- Presence of Minister Wijeyadasa Rajapakshe at the SLFP central committee meeting over the weekend surprised many. Responding to journalists as to whether he intends joining SLFP, the Minister said he will make a political decision later.
+
+“I have been a member of SLFP from the time late Prime Minister Sirimavo Bandaranaike led the party.therefore my presence at SLFP Central Commitee meeting is nothing new,” he said.
+
+Asked whether he will resign from his ministry and join SLFP full time, the Minister said he will make a political decision later.
+
+He said he was invited to deliver a lecture on current political situation.” I explained how SLFP could play a role in stabilizing the country’s economy during my lecture,” he said.
+
+◼️
+
+[Data](articles/2b8c8ae3.json)
+
+---
+
+### SL braces for AI powered election malpractices in future
+
+*2024-04-01 10:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-braces-for-AI-powered-election-malpractices-in-future/108-279927) · `en`
+
+In the wake of AI (Artificial Intelligence) powered election malpractices mushrooming globally, Sri Lanka’s Election Commission is bracing for such possibilities in the future elections here, an official said yesterday.
+
+According to global experience ,AI can accelerate the production and dif­fusion of disinformation in contributing to organised attempts to
+
+AI can magnify the scale of disinformation by thousands of times. Also , hyper-realistic deep fakes of pictures, audio, or video could influence voters powerfully before they can be possibly fact-checked. The risks are compounded by social media platforms.
+
+Asked about Sri Lanka’s preparation , Commission’s Chairman R.M.A.L. Rathnayake said his office is currently in the process of studying how other countries respond to such challenges to the democratic electoral process.
+
+He said the Commission would decide on measures including legislation to curb impacts of such malpractices on elections in the future.
+
+◼️
+
+[Data](articles/572352d9.json)
+
+---
+
+### Health trade unions strike in selected hospitals
+
+*2024-04-01 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/98334/health-trade-unions-strike-in-selected-hospitals) · `en`
+
+The Health Trade Union Alliance has launched a token strike over the wage issue today (April 01).
+
+The Co-convener of the alliance Chanaka Dharmawickrema stated that the strike will be carried out in a few selected hospitals from 6.30 a.m. today.
+
+Meanwhile, they have decided to launch an indefinite island-wide strike on Tuesday (02), if no solutions are received to their grievances.
+
+“We had decided to carry out a 4-hour strike in all hospitals island-wide, but today the President’s office has called us for a discussion. Therefore, we decided to limit the planned strike to 05 hospitals such as Kandy, Anuradhapura, Ratnapura, Kurunegala and Badulla. If no solution is received today, we will launch a nationwide strike tomorrow”, he added.
+
+◼️
+
+[Data](articles/72e31f95.json)
+
+---
+
+### Man who came first in drinking competition dies within hours
+
+*2024-04-01 10:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-who-came-first-in-drinking-competition-dies-within-hours/108-279926) · `en`
+
+Hatton, April 1 (Daily Mirror)- An individual who came first in a drinking competition in Lethenty estate in Hatton had died within hours of the competition.
+
+The victim Ganeshan Ramachandran (39) was a worker in the estate.
+
+A group of young men had organised the drinking competition after the Ther festival at the Hindu Kovil in the estate. Several young men including Ganesan had joined the competition and they had been provided 750ml.bottles of arrack each. The competitor who finished drinking in minimum time was to be the winner.
+
+However the individual who finished the race first and was declared the winner had died after going to bed.
+
+Another competitor who had seriously fallen ill was admitted to the Dickoya Base Hospital and transferred in critical condition to Nawalapitiya General Hospital.
+
+...
+
+[Data](articles/5b72f0e3.json)
+
+---
+
+### Very special to those who have not received the revenue
 
 *2024-04-01 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195159) · `si`
 
-දිස්ත්‍රික්ක 4ක මෙතෙක් අස්වැසුම ප්‍රතිලාභ නොලැබුණු සියලුදෙනාට සිංහල හින්දු අලුත් අවුරුද්දට පෙර හිඟ මුදලත් සමග ප්‍රතිලාභ ලබාදෙන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+Minister Ranjith Siyambalapitiya announced a revenue benefit for 4 districts, including Kegalle, Nuwara Eliya, Badulla, and Polonnaruwa, with a 2,500 allowance for each district. This initiative aims to compensate for past issues and is set to start from July 2023.
 
-ඒ අනුව කෑගල්ල , නුවරඑළිය , බදුල්ල සහ පොළොන්නරුව යන දිස්ත්‍රික්ක 04 හි අස්වැසුම ප්‍රතිලාභ යටතේ රු. 2,500 දීමනාව මෙලෙස ලබාදීමට නියමිතය.
+🟩
 
-අමාත්‍යවරයා වැඩිදුරටත් පවසා සිටියේ, මෙම දිස්ත්‍රික්කවල අස්වැසුම ප්‍රතිලාභීන් තෝරා ගැනීමේදී අඩු ලකුණු ප්‍රමාණයක් හිමි විශාල පිරිසක්ද ලේඛනවලට ඇතුළත් වීම හේතුවෙන් එම දිස්ත්‍රික්කවලට හිමි කෝටාව ඉහළ මට්ටමක පැවතීම හේතුවෙන් මෙම ගැටලුව උද්ගතව තිබූ බවය.
+Minister of State Ranjith Siyambalapitiya says that all the revenues of 4 districts will be benefited by the Sinhala Hindu New Year.
 
-කෙසේ වෙතත් අප්‍රේල් මස මුල් සතිය තුළ මෙම ගැටලු සියල්ල නිවැරදි කර රු. 2,500ක දීමනාවට හිමිකම් කියන, එහෙත් අස්වැසුම ප්‍රතිලාභ ගෙවීම ආරම්භ කළ 2023 ජූලි මස සිට මේ දක්වා එම ප්‍රතිලාභ නොලැබූ සියලුදෙනාට ද හිමි හිඟ මුදල් සමඟ එම ප්‍රතිලාභ ලබාදීමට අස්වැසුම ප්‍රතිලාභ මණ්ඩලය පසුගිය සතියේ තමා සමඟ පැවති සාකච්ඡාවේදී එකඟතාවය පළ කළ බව අමාත්‍යවරයා සඳහන් කළේය.
+Accordingly, the revenue of the seven districts of Kegalle, Nuwara Eliya, Badulla and Polonnaruwa. 2,500 will be given the allowance.
+
+The Minister further stated that the procedure had been propagated as a large number of people in the districts with a large number of contributions to the regulators in these districts.
+
+However, during early April, corrected all these problems and collect everything and Rs.. The revenue beneficiary has been agreed to the benefit of all of 2023 from July 2023 to the benefit of the 2,500 reward.
 
 ◼️
 
 [Data](articles/d2703fb3.json)
+
+[Extended Data](ext_articles/d2703fb3.ext.json)
 
 ---
 
@@ -87,6 +207,20 @@ US media reported. The waste included mostly corrosives, flammables, miscellaneo
 [Data](articles/054e2e3c.json)
 
 [Extended Data](ext_articles/054e2e3c.ext.json)
+
+---
+
+### Ship was carrying US toxic waste to Sri Lanka: Report
+
+*2024-04-01 09:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Ship-was-carrying-US-toxic-waste-to-Sri-Lanka-Report/155-279925) · `en`
+
+The Singapore cargo ship Dali chartered by Maersk, which crashed into the Baltimore, US bridge on Tuesday 26 March, was carrying 764 tons of hazardous materials to Sri Lanka,
+
+US media reported. The waste included mostly corrosives, flammables, miscellaneous hazardous materials, and Class-9 hazardous materials, including explosives & lithium-ion batteries – in 56 containers. So says the US National Transportation Safety Board, still ‘analyzing the ship’s manifest to determine what was onboard’ in its other 4,644 containers.
+
+...
+
+[Data](articles/b9e73cbc.json)
 
 ---
 
@@ -2089,171 +2223,5 @@ It has been revealed that the people had entered it into the brooks in the build
 [Data](articles/3650ea27.json)
 
 [Extended Data](ext_articles/3650ea27.ext.json)
-
----
-
-### Will launch real ’Yukthiya’ operation under NPP government: Samantha Vidyaratne
-
-*2024-03-31 19:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-launch-real-Yukthiya-operation-under-NPP-government-Samantha-Vidyaratne/108-279894) · `en`
-
-Kegalle, March 31 (Daily Mirror)- Claiming that the 'Yukthiya' operation nets only the minor offenders, NPP politburo member Samantha Vidyaratne said the National People's Power (NPP) will launch the real 'Yukthiya' operation under its government.
-
-Speaking at the Kegalle District Women's Convention, he said drug smuggling is directly linked with politics.
-
-"Drug smuggling is interconnected with politics. The 'Yukthiya' operation only nets minor offenders. The real 'Yukthiya' operation has not been launched. We will launch the real 'Yukthiya' operation under an NPP government. All the drug dealers, fruadsters and criminals must keep that in mind," he said.
-
-He also said that the underworld culture is also nurtured by politicians for their own benefits.
-
-◼️
-
-[Data](articles/f7755f12.json)
-
-[Extended Data](ext_articles/f7755f12.ext.json)
-
----
-
-### Warning over high warm weather
-
-*2024-03-31 19:09:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வெப்பமான-வானிலை-குறித்து-எச்சரிக்கை/175-335415) · `ta`
-
-The Department of Meteorology warns of the hottest weather in many parts of the country tomorrow, affecting Western, South, North Western, North Central, and Eastern Provinces. Heat index and human body may be affected in Ratnapura, Moneragala, Mannar, Vavuniya, and Mullaitivu districts.
-
-🟩
-
-The Department of Meteorology today warned that the hottest weather may be in many parts of the country tomorrow (01).
-
-This is likely to occur in the Western, South, North Western, North Central and Eastern Provinces.
-
-In addition to this, the Department of Meteorology has predicted that in some places in Ratnapura, Moneragala, Mannar, Vavuniya and Mullaitivu districts, the heat index and the human body may be able to pay attention to the human body.. Remble
-
-◼️
-
-[Data](articles/3a629e1a.json)
-
-[Extended Data](ext_articles/3a629e1a.ext.json)
-
----
-
-### Sudden death
-
-*2024-03-31 19:07:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஸ்பா-சென்றவர்-திடீர்-மரணம்/175-335414) · `ta`
-
-A 52-year-old man died suddenly from an illness after seeking an unauthorized spa service in Embilvatha. Police suspect a heart attack and are investigating further.
-
-🟩
-
-A 52 -year -old man has died due to sudden illness, seeking an unauthorized spa service in Embilvatha on the Dehiwala - Maharagama main road.
-
-Police have expressed suspicion that the person may have died of a heart attack and Boraleskamuwa police are conducting further investigations.
-
-◼️
-
-[Data](articles/40e8b5e1.json)
-
-[Extended Data](ext_articles/40e8b5e1.ext.json)
-
----
-
-### Egg prices will decrease in April-Minister
-
-*2024-03-31 19:02:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரலில்-முட்டை-விலை-குறைவடையும்-அமைச்சர்/175-335413) · `ta`
-
-Egg prices will decrease in April due to domestic production exceeding demand. Minister Mahinda Amaraweera expects prices to be less than Rs 35, contradicting reports of a rise to Rs 100 during the festive season.
-
-🟩
-
-Domestic egg production exceeds the total daily demand, and the cost of an egg during the coming festive season. 35 more likely to be less than 35.
-
-During a discussion held at the Ministry of Agriculture last Friday (29), Minister Mahinda Amaraweera said that the current price of an egg in the local market was Rs 42 to Rs 48.
-
-“Some people have issued various reports to the media that local poultry eggs will rise to Rs 100 during April or Sinhala and Tamil New Year.
-
-“However, due to the long -standing policy decisions taken by the ministry, domestic egg production has now exceeded the total daily demand,” he said.
-
-"On average, in this country, daily egg requirement is 6.5 million. According to the Egg Manufacturers Association, egg production on local poultry farms has already exceeded 7.5 million.
-
-“Although the number of chickens in this country is 85,000, the number of poultry farms exceeds 135,000.. All poultry farms have completed 100 percent capacity.
-
-...
-
-[Data](articles/94ed3247.json)
-
-[Extended Data](ext_articles/94ed3247.ext.json)
-
----
-
-### The wife is a contract for social media to kill her husband
-
-*2024-03-31 18:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195139) · `si`
-
-An Indian woman in Bar District, Agri, has been charged for offering a cash prize for her husband's murder, leading to legal action. The husband, married to Kanta since July 9, 2022, accused her of threatening his life and family, and of filing a maintenance case against him.
-
-🟩
-
-The Indian police have filed a woman who has expressed a cash prize to anyone who is killed by his husband.
-
-The Indian police have taken legal action against a woman living in the Bar District in Agri, India.
-
-The woman has posted the woman's WhatsApp account provides a gift of Rs.
-
-The woman's husband has lodged a complaint with the police regarding the message in his wife that he would give a cash prize to a person who was killed.
-
-He has told the police that his wife's friends and family have been threatened to death in several previous cases ago.
-
-The man was married to the Kanta, July 9, 2022.
-
-But he has said that there was conflicts due to family disputes and inconsistencies.
-
-He had accused the conflicts of his marriage due to a casual relationship with his wife.
-
-He has also said that the man was threatened to kill him with a phone call.
-
-He has told the police that she has filed a maintenance case against him.
-
-◼️
-
-[Data](articles/927473cd.json)
-
-[Extended Data](ext_articles/927473cd.ext.json)
-
----
-
-### Sri Lanka make highest Test total without a hundred
-
-*2024-03-31 18:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-make-highest-Test-total-without-a-hundred/108-279893) · `en`
-
-March 31 (Wisden) In the second Test of the two-match series against Bangladesh, Sri Lanka amassed 531, the highest ever Test match total without an individual hundred.
-
-Sri Lanka won the first Test, at Sylhet, by 328 runs as Dhananjaya de Silva and Kamindu Mendis scored two hundreds. En route, they broke a plethora of records, including their first-innings score of 280, now the lowest all-out total to include a double-hundred stand: de Silva and Mendis added 202.
-
-In the second Test, at Chattogram, Sri Lanka won the toss and opted to bat. They reached 314-4 by stumps on the first day, and were bowled out for 531 on the second as Shakib Al Hasan claimed 3-110 on his return to the Test side.
-
-The lowest all-out total in the format was South Africa’s 517 against Australia at Adelaide in 1997/98. There were only five fifties on that occasion (Brian McMillan top-scored with 87 not out), though the innings featured three other scores of 37 or more.
-
-...
-
-[Data](articles/b028e98f.json)
-
-[Extended Data](ext_articles/b028e98f.ext.json)
-
----
-
-### Advisory issued for rising temperatures in parts of the island
-
-*2024-03-31 18:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/98326/advisory-issued-for-rising-temperatures-in-parts-of-the-island) · `en`
-
-The Department of Meteorology has issued a heat index advisory effective tomorrow (April 01) for 05 provinces and 05 other districts.
-
-Heat index, the temperature felt on the human body is expected to increase up to ‘Caution level’ at some places in Western, Southern, North-Western, North-Central, Eastern provinces and Ratnapura, Monaragala, Mannar, Vavuniya and Mullaitivu districts, it said.
-
-As per the advisory, under this level of temperature, fatigue is possible with prolonged exposure and activity while continuing activity could result in heat cramps.
-
-Thus, the members of the public are advised to stay hydrated, take breaks in the shade as often as possible and limit strenuous outdoor activities. They are also requested to check up on the elderly and the sick, never leave children unattended inside vehicles and to wear lightweight and white or light-colored clothing.
-
-...
-
-[Data](articles/8940eed5.json)
-
-[Extended Data](ext_articles/8940eed5.ext.json)
 
 ---

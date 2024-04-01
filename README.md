@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 23:33:52**
+As of **2024-04-01 23:52:35**
 
 ## Newspaper Stats
 
-*Scraped **16,472** Articles*
+*Scraped **16,474** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 174
 dbsjeyarajcom | 201
 newsfirstlk | 363
 dailyftlk | 881
-economynextcom | 908
+economynextcom | 909
 islandlk | 913
 adalk | 1,387
 tamilmirrorlk | 1,963
 adaderanalk | 1,984
-virakesarilk | 2,348
+virakesarilk | 2,349
 dailymirrorlk | 2,535
 adaderanasinhalalk | 2,668
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 2,668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,472 (100.0%) of 16,472 articles have been extended.
+16,472 (100.0%) of 16,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### Sri Lanka exporters protest rupee appreciation, forced conversion rules
+
+*2024-04-01 23:24:00* · [`economynextcom`](https://economynext.com/sri-lanka-exporters-protest-rupee-appreciation-forced-conversion-rules-156862/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s export associations have protested the recent sharp appreciation of the rupee saying, forced forex conversion rules have been forced on them and some costs are not falling in line with the rupee gains, leading to a loss of cost competitiveness.
+
+Sri Lanka’s central bank is operating a de facto pegged exchange rate where the agency’s domestic assets are being reduced against dollar purchases (reversing ‘money printing’), triggering a balance if payments surplus allowing the exchange rate to be appreciated if the agency wishes, analysts have shown.
+
+There is however a widespread belief that suspending debt repayments have helped appreciate the rupee, though the financial account turned into a deficit in the last quarter of 2022, just as monetary stability was restored allowing out payments to be made and reserves to be collected.
+
+...
+
+[Data](articles/20731029.json)
+
+---
+
+### Increased AGIV/ AIDS infection in Sri Lanka
+
+*2024-04-01 23:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/180190) · `ta`
+
+AGIV/AIDS infection rates in Sri Lanka have risen, with 607 new cases in 2022, up from 5,011 total infections. Deaths from AGIV/AIDS-related factors in 2022 were 660,000 globally, with 271 in Sri Lanka. Despite declining deaths in 2023, the number of infections increased by 13%. Sri Lanka aims to end AIDS by 2030, but challenges remain due to insufficient sex education and awareness.
+
+🟩
+
+AGIV and AIDS are identified as important in the world's most challenging infections. The number of people who suffer from this infection all over the world can be seen as a mutant increase. Although modern medical treatment and awareness have increased their self -confidence and quality of life, the increase of infectious people makes the need for more essential programs.
+
+According to the World Health Organization's report, 39 million people live infected by the end of 2022. Of these, 1.5 million are boys.More than 1.3 new infections have been identified in the equal year.53 percent of the total number of infectious women. 630000 deaths due to AGIV / AIDS related factors in 2022. Since 2010, AIDS -related deaths have declined to 55% for women and girls and 47% among men and children.
+
+...
+
+[Data](articles/be6ec271.json)
+
+[Extended Data](ext_articles/be6ec271.ext.json)
+
+---
 
 ### Sri Lanka’s Tamil parties plan to field presidential candidate from community
 
@@ -75,26 +111,6 @@ Subsequently, the culprits were detained at the Kandy Pokambara Prison. At the s
 [Data](articles/17bd08db.json)
 
 [Extended Data](ext_articles/17bd08db.ext.json)
-
----
-
-### Increased AGIV/ AIDS infection in Sri Lanka
-
-*2024-04-01 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180190) · `ta`
-
-AGIV/AIDS infection rates in Sri Lanka have risen, with 607 new cases in 2022, up from 5,011 total infections. Deaths from AGIV/AIDS-related factors in 2022 were 660,000 globally, with 271 in Sri Lanka. Despite declining deaths in 2023, the number of infections increased by 13%. Sri Lanka aims to end AIDS by 2030, but challenges remain due to insufficient sex education and awareness.
-
-🟩
-
-AGIV and AIDS are identified as important in the world's most challenging infections. The number of people who suffer from this infection all over the world can be seen as a mutant increase. Although modern medical treatment and awareness have increased their self -confidence and quality of life, the increase of infectious people makes the need for more essential programs.
-
-According to the World Health Organization's report, 39 million people live infected by the end of 2022. Of these, 1.5 million are boys.More than 1.3 new infections have been identified in the equal year.53 percent of the total number of infectious women. 630000 deaths due to AGIV / AIDS related factors in 2022. Since 2010, AIDS -related deaths have declined to 55% for women and girls and 47% among men and children.
-
-...
-
-[Data](articles/be6ec271.json)
-
-[Extended Data](ext_articles/be6ec271.ext.json)
 
 ---
 
@@ -955,6 +971,26 @@ We are taking action these days on other people who have passed the examination.
 [Data](articles/5e0b01a2.json)
 
 [Extended Data](ext_articles/5e0b01a2.ext.json)
+
+---
+
+### உயிர்த்த ஞாயிறு குண்டுத்தாக்குதலின் பின்னணியில் இந்தியா : மைத்திரியின் கருத்து பாரதூரமானது - நளின் பண்டார
+
+*2024-04-01 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180163) · `ta`
+
+குண்டுத் தாக்குதல் சம்பவத்தின் பின்னணியில் இந்தியா இருப்பதாக மைத்திரிபால சிறிசேன குறிப்பிடுவது உண்மையாயின் குண்டுத்தாக்குதலை நடத்த இந்தியாவுக்கு உதவி செய்தது யார் என்பதை பகிரங்கப்படுத்த வேண்டும்.
+
+மைத்திரிபால சிறிசேனவை எவரோவொருவர் இயக்குகிறார் என்பதை அறிய முடிகிறது என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் நளின் பண்டார தெரிவித்தார்.
+
+பாராளுமன்றத்தில் திங்கட்கிழமை (1) இடம்பெற்ற ஆயுர்வேத சட்ட ஒழுங்கு விதிகள் தொடர்பான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+உயிர்த்த ஞாயிறு குண்டுத் தாக்குதல் சம்பவம் தொடர்பில் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன குறிப்பிட்டுள்ள கருத்துக்கள் பாரதூரமானவை. குண்டுத் தாக்குதல் சம்பவத்தின் பின்னணியில் இந்தியா இருப்பதாக இவர் குறிப்பிட்டுள்ளமை அவதானத்துக்குரியது.
+
+முன்னாள் ஜனாதிபதியின் கருத்துக்கு அமைய  உயிர்த்த ஞாயிறு குண்டுத்தாக்குல் சம்பவத்தின் பின்னணியில் இந்தியா இருப்பதாக இருந்தால். இந்தியாவுக்கு  உதவி செய்தது யார் என்பதையும் பகிரங்கப்படுத்த வேண்டும்.மைத்திரிபால சிறிசேனவை எவரோவொருவர் இயக்குவது தெளிவாக தெரிகிறது.
+
+...
+
+[Data](articles/c4e69500.json)
 
 ---
 
@@ -2221,57 +2257,5 @@ However, the Sri Lanka PA had asked the President of the PA to hold a general el
 [Data](articles/b9cfd62f.json)
 
 [Extended Data](ext_articles/b9cfd62f.ext.json)
-
----
-
-### Judicial Minister's Amendments withdraw
-
-*2024-04-01 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195169) · `si`
-
-Proposed amendments to lower the age of consent from 22 to 16 were withdrawn. The President's Counsel and other professionals met to discuss the case, which led to increased scrutiny in the High Court. The amendment aimed to ease punishment for girls aged 14-16 having children with men under 22, but was rejected by the National Child Protection Authority.
-
-🟩
-
-The proposed amendments have been withdrawn from the age of 22 to 16 years of consent, the proposed amendments have been withdrawn from the age of 22.
-
-"The President's Counsel was collected to the Ministry of Education, which was joining the President's Counsel, other lawyers and several professionals joined.
-
-When the case approached the High Court, they had increased. There is the ability to get married. They have children. Some people tied. Some people love to marry. But because of a punishment, the young man must be sent to jail for 10 years. "
-
-This is a practical question. This has been given three cases of judicial decisions.
-
-The book is one law, but the judiciary follows a separate law. There should be a situation where these two comparisons. Otherwise this is a problem. There is one in the law one is in court. We are withdrawn and we withdraw this. If there is an amendment that may agree in the future, we present. "
-
-...
-
-[Data](articles/00c00483.json)
-
-[Extended Data](ext_articles/00c00483.ext.json)
-
----
-
-### Tellipallai school
-
-*2024-04-01 13:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180133) · `ta`
-
-The Sri Lanka Teachers Union criticizes police and state investigators' violent interventions at Tellipallai school events. It highlights threats from police and military in North and East Provincial Schools, violating individual rights. The union demands an end to state suppression of artistic and conceptual expressions, and accuses the Department of Education of supporting military and police interventions in education. It also mentions a complaint to the Human Rights Commission of Sri Lanka.
-
-🟩
-
-The Sri Lanka Teachers Union Vice President Theelisan said that the interventions and investigations of the police and the state investigators of the police and the state investigators during the school level events were violent.
-
-The press release sent to the media on Monday (01).
-
-The threat of the police, the military and the state investigators in the North and East Provincial Schools, in particular in the North and East Provincial Schools, is the basic violations of individual thinking and conscience of conscience.
-
-When the society expresses the propaganda of the Sri Lankan government, the conceptual and the artistic forms - it is not allowed to be crushed by state machinery.
-
-If the Department of Education is also supportive of this, these will be a process that supports military and police interventions within education.
-
-...
-
-[Data](articles/0b424192.json)
-
-[Extended Data](ext_articles/0b424192.ext.json)
 
 ---

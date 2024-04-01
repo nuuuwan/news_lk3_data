@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 23:52:35**
+As of **2024-04-02 00:05:34**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,472 (100.0%) of 16,474 articles have been extended.
+16,474 (100.0%) of 16,474 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ There is however a widespread belief that suspending debt repayments have helped
 ...
 
 [Data](articles/20731029.json)
+
+[Extended Data](ext_articles/20731029.ext.json)
 
 ---
 
@@ -974,23 +976,35 @@ We are taking action these days on other people who have passed the examination.
 
 ---
 
-### உயிர்த்த ஞாயிறு குண்டுத்தாக்குதலின் பின்னணியில் இந்தியா : மைத்திரியின் கருத்து பாரதூரமானது - நளின் பண்டார
+### India in the context of the lifeblood of life
 
 *2024-04-01 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180163) · `ta`
 
-குண்டுத் தாக்குதல் சம்பவத்தின் பின்னணியில் இந்தியா இருப்பதாக மைத்திரிபால சிறிசேன குறிப்பிடுவது உண்மையாயின் குண்டுத்தாக்குதலை நடத்த இந்தியாவுக்கு உதவி செய்தது யார் என்பதை பகிரங்கப்படுத்த வேண்டும்.
+Maithripala Sirisena claims India orchestrated a bomb attack, sparking debate. Nalin Bandara suggests someone directs him. Ranil Wickremesinghe, former president, criticized for forgetting Scotland Yat affair. Harin Fernando mourns the incident, expressing opposition. Investigations continue, with public interest high.
 
-மைத்திரிபால சிறிசேனவை எவரோவொருவர் இயக்குகிறார் என்பதை அறிய முடிகிறது என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் நளின் பண்டார தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் திங்கட்கிழமை (1) இடம்பெற்ற ஆயுர்வேத சட்ட ஒழுங்கு விதிகள் தொடர்பான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+Maithripala Sirisena's claim that India is behind the bombing should be made public who helped India to carry out a bomb attack.
 
-உயிர்த்த ஞாயிறு குண்டுத் தாக்குதல் சம்பவம் தொடர்பில் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன குறிப்பிட்டுள்ள கருத்துக்கள் பாரதூரமானவை. குண்டுத் தாக்குதல் சம்பவத்தின் பின்னணியில் இந்தியா இருப்பதாக இவர் குறிப்பிட்டுள்ளமை அவதானத்துக்குரியது.
+United People's Power MP Nalin Bandara said that it is known that someone is directing Maithripala Sirisena.
 
-முன்னாள் ஜனாதிபதியின் கருத்துக்கு அமைய  உயிர்த்த ஞாயிறு குண்டுத்தாக்குல் சம்பவத்தின் பின்னணியில் இந்தியா இருப்பதாக இருந்தால். இந்தியாவுக்கு  உதவி செய்தது யார் என்பதையும் பகிரங்கப்படுத்த வேண்டும்.மைத்திரிபால சிறிசேனவை எவரோவொருவர் இயக்குவது தெளிவாக தெரிகிறது.
+He was speaking at a debate on the Ayurvedic law and order rules held in Parliament on Monday (1).
+
+Former President Maithripala Sirisena's comments regarding the lifeblood of a bomb blast. It is noteworthy that India is behind the bombing.
+
+If India is in the wake of the resurrection Sunday bombing of the former president. It is also clear that someone who helped India should be made public.
+
+Ranil Wickremesinghe said before becoming president of Scotland Yat police. He has forgotten the Scotland Yat affair after becoming president with the support of the Sri Lanka PA.
+
+Minister Harin Fernando shed tears in connection with the bombing incident while on the opposition.
+
+He visited the Parliament with a black shawl and expressed his opposition.
 
 ...
 
 [Data](articles/c4e69500.json)
+
+[Extended Data](ext_articles/c4e69500.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 18:33:43**
+As of **2024-04-01 18:51:26**
 
 ## Newspaper Stats
 
-*Scraped **16,436** Articles*
+*Scraped **16,439** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ islandlk | 912
 adalk | 1,383
 tamilmirrorlk | 1,960
 adaderanalk | 1,980
-virakesarilk | 2,341
-dailymirrorlk | 2,525
+virakesarilk | 2,342
+dailymirrorlk | 2,527
 adaderanasinhalalk | 2,662
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,435 (100.0%) of 16,436 articles have been extended.
+16,436 (100.0%) of 16,439 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### The Justice Minister reconstructed the bill to reduce the age of intercourse to 14
+
+*2024-04-01 18:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180144) · `ta`
+
+Justice Minister Wijayadasa Rajapaksa proposed reducing the age of intercourse to 14, sparking political and civil debate. The amendment aims to align with the 1995 Penal Code, which considers consensual intercourse with a 16-year-old as rape. Parliamentary Women's Union leader Sudarshani Fernando expressed concern, urging reconsideration.
+
+🟩
+
+The Minister of Justice, Prison Affairs and Political Reforms Wijayadasa Rajapaksa has renovated the proposed Bill, which was submitted to a second estimate of Section 364 of the Penal Code, to reduce the age of intercourse to 14.
+
+In accordance with the amendment to the 1995 Penal Code, a 16 -year -old woman has intercourse at her own wishes, but it will be considered a rape.. However, the idea was proposed to reduce the age of the age of 14 through the amendment proposed by the Minister of Justice to the Penal Code.
+
+The bill, which was presented by the Justice Minister, has arisen among the political and civil faction of the politics.. Various parties continued to urge the restoration of the bill.
+
+Sudarshani Fernando Point of Parliamentary Women's Union, Sudarshani Fernando Point, stated that he would express her concern for the proposed amendment to Article 364 of the Penal Code and informed the Justice Ministry by letter on the proposed amendment to Article 364.
+
+...
+
+[Data](articles/39a8feed.json)
+
+[Extended Data](ext_articles/39a8feed.ext.json)
+
+---
+
+### Cops tender apologies as per Sinhala tradition
+
+*2024-04-01 18:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Cops-tender-apologies-as-per-Sinhala-tradition/108-279972) · `en`
+
+Colombo, April 1 (Daily Mirror) - Five policemen have tendered an apology as per Sinhala tradition during a Supreme Court hearing involving the arrest of three individuals over Easter Sunday attacks.
+
+Five policemen including the OIC of Horowpothana and Kebithigollewa Police stations bowed and tendered apologies to three petitioners who were arrested on suspicion of being associates of Zahran Hashim.
+
+Five policemen tendered this apology to three petitioners as a part of the settlement reached between the parties into Fundamental Rights petitions filed by the petitioners challenging their illegal arrest and detention.
+
+The Supreme Court's three-judge-bench comprised Justices S. Thurairaja, Kumuduni Wickremasinghe and Achala Wengappuli.
+
+◼️
+
+[Data](articles/85aee503.json)
+
+---
 
 ### Mannar Wind Farm Project: Another folly like the Sinharaja Logging Project on the horizon?
 
@@ -142,6 +184,22 @@ However, former Prime Minister Imran Khan is still imprisoned due to the cases f
 
 ---
 
+### University student killed in train accident
+
+*2024-04-01 17:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/University-student-killed-in-train-accident/108-279971) · `en`
+
+A third-year student of the Law Faculty of the Peradeniya University has been killed after being hit by a train in the Penideniya area, Peradeniya Police said.
+
+The victim was from the Wadduwa area and was in the third year of the Law Faculty of the university.
+
+He had reportedly been walking on the railway tracks while wearing a pair of headphones when he was struck by the Nawalapitiya-Kandy train.
+
+◼️
+
+[Data](articles/dc937bf2.json)
+
+---
+
 ### Imran Khan: Pakistan court suspends jail sentence in graft appeal
 
 *2024-04-01 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/98353/imran-khan-pakistan-court-suspends-jail-sentence-in-graft-appeal) · `en`
@@ -213,6 +271,26 @@ It was noteworthy that the money was given to whom she was given to whom she was
 [Data](articles/54eff96e.json)
 
 [Extended Data](ext_articles/54eff96e.ext.json)
+
+---
+
+### ஏப்ரல் விடுமுறைக்கு பின் ஆசிரியர் வெற்றிடங்களுக்கான நியமனம் - சுசில்
+
+*2024-04-01 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180170) · `ta`
+
+மேல் மாகாணத்தில் நிலவும் ஆசிரியர் வெற்றிடங்களை நிரப்புவதற்காக நடத்தப்பட்ட பரீட்சையில் சித்தியடைந்த அனைவருக்கும் ஏப்ரல் விடுமுறைக்கு பின்னர் நியமனம் வழங்க நடவடிக்கை எடுப்போம் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+
+பாராளுமன்றத்தில் திங்கட்கிழமை (1)  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச விசேட கூற்றொன்றை முன்வைத்து எழுப்பிய கேள்விக்கு பதிலளிக்கையிலேயே இவ்வாறு  தெரிவித்தார்.
+
+மேல்மாகாணத்தில் 5,000க்கும் மேற்பட்ட ஆசிரியர் வெற்றிடங்கள் நிலவும் நிலையில், 2,300 தகுதி வாய்ந்த பரீட்சார்த்திகள் இணைத்துக் கொள்ளப்பட்டுள்ளனர்.
+
+மேலும் 2700 வெற்றிடங்கள் நிலவுகின்றன. மொத்தம் 5453 வெற்றிடங்கள் காணப்படுவதால், எஞ்சிய ஆட்சேர்ப்புகளை விரைவாக மேற்கொள்ள வேண்டும்.
+
+அதேபோன்று நாட்டில் 40ஆயிரம் வேலையற்ற பட்டதாரிகள் இருக்கின்றனர்.தொழில் இல்லாமல் வீதியில் இருக்கும் இந்த பட்டதாரிகள் தொடர்பில் அரசாங்கத்தின் வேலைத்திட்டம் என்ன? இவர்கள் தொடர்பில் விரைவாக நடவடிக்கை எடுக்க வேண்டும் என்றார்.
+
+...
+
+[Data](articles/5e0b01a2.json)
 
 ---
 
@@ -543,30 +621,6 @@ The series will be a series of Pakistan and New Zealand to prepare themselves fo
 [Data](articles/7b7949ac.json)
 
 [Extended Data](ext_articles/7b7949ac.ext.json)
-
----
-
-### The Justice Minister reconstructed the bill to reduce the age of intercourse to 14
-
-*2024-04-01 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/180144) · `ta`
-
-Justice Minister Wijayadasa Rajapaksa proposed reducing the age of intercourse to 14, sparking political and civil debate. The amendment aims to align with the 1995 Penal Code, which considers consensual intercourse with a 16-year-old as rape. Parliamentary Women's Union leader Sudarshani Fernando expressed concern, urging reconsideration.
-
-🟩
-
-The Minister of Justice, Prison Affairs and Political Reforms Wijayadasa Rajapaksa has renovated the proposed Bill, which was submitted to a second estimate of Section 364 of the Penal Code, to reduce the age of intercourse to 14.
-
-In accordance with the amendment to the 1995 Penal Code, a 16 -year -old woman has intercourse at her own wishes, but it will be considered a rape.. However, the idea was proposed to reduce the age of the age of 14 through the amendment proposed by the Minister of Justice to the Penal Code.
-
-The bill, which was presented by the Justice Minister, has arisen among the political and civil faction of the politics.. Various parties continued to urge the restoration of the bill.
-
-Sudarshani Fernando Point of Parliamentary Women's Union, Sudarshani Fernando Point, stated that he would express her concern for the proposed amendment to Article 364 of the Penal Code and informed the Justice Ministry by letter on the proposed amendment to Article 364.
-
-...
-
-[Data](articles/39a8feed.json)
-
-[Extended Data](ext_articles/39a8feed.ext.json)
 
 ---
 
@@ -1442,17 +1496,23 @@ Addressing the media today, he said private buses are operating while incuring a
 
 ---
 
-### ගාලු මුවදොර ජාතික ධජය එසවීම නාවික හමුදාවෙන් ගුවන් හමුදාවට
+### SLAF charges National Flag
 
 *2024-04-01 13:40:58* · [`adalk`](https://www.ada.lk/breaking_news/ගාලු-මුවදොර-ජාතික-ධජය-එසවීම-නාවික-හමුදාවෙන්-ගුවන්-හමුදාවට/11-408880) · `si`
 
-කොළඹ, ගාලු මුවදොර ජාතික ධජය එසවීම හා කොළඹ ජනාධිපති මන්දිරයේ විශේෂ චාරිත්‍ර සම්මාන මුරය සම්බන්ධ රාජකාරීන් ශ්‍රී ලංකා නාවික හමුදාව වෙතින් ශ්‍රී ලංකා ගුවන් හමුදාව වෙත භාර දීම 2024 මාර්තු මස 31 වන දින සහ අද දින (2024 අප්‍රේල් 01) කොළඹ ගාලු මුවදොරදී සහ ගුවන් හමුදා මූලස්ථානයේදී සිදු කෙරිණි.
+SLAF takes Sri Lanka Nil on March 31, 2024. Next 3 months, SLAF will manage Sri Lanka Nil.
 
-ඒ අනුව, ඉදිරි මාස 03 ක කාලසීමාවක් මෙම ගාලු මුවදොර ජාතික ධජය එසවීමේ රාජකාරීන් සහ ජනාධිපති මන්දිරයේ විශේෂ චාරිත්‍ර සම්මාන මුරයේ රාජකාරීන් ශ්‍රී ලංකා‍ ගුවන් හමුදාව විසින් සිදු කරනු ඇත.
+🟩
+
+Sri Lanka Nil to be handed over to Sri Lanka Air Force on March 31, 2024 (April 01, 2024)Was done.
+
+Accordingly, the next three months will be a period of three months on the next three months and the Sri Lanka Air Force by the Sri Lanka Air Force.
 
 ◼️
 
 [Data](articles/677991ed.json)
+
+[Extended Data](ext_articles/677991ed.ext.json)
 
 ---
 
@@ -2167,83 +2227,5 @@ The Ministry of Defense also mentioned that against a background where there is 
 [Data](articles/ffa25ab5.json)
 
 [Extended Data](ext_articles/ffa25ab5.ext.json)
-
----
-
-### A change of dollar
-
-*2024-04-01 11:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195165) · `si`
-
-The Central Bank of Sri Lanka has updated the US dollar's purchasing price to Rs. 295.57 and selling price to Rs. 305.10, effective after June 13.
-
-🟩
-
-The Central Bank of Sri Lanka has issued the latest data regarding the purchasing price and selling price of a US dollar.
-
-Meanwhile, after the next June 13, a dollar has been recorded as Rs.
-
-The dollar's purchase is Rs. 295.57 and the sale price is Rs. 305.10.
-
-◼️
-
-[Data](articles/554939f1.json)
-
-[Extended Data](ext_articles/554939f1.ext.json)
-
----
-
-### Two arrested for selling motorbikes
-
-*2024-04-01 11:47:39* · [`adalk`](https://www.ada.lk/breaking_news/යතුරුපැදි-සොරාගෙන-විකුණා-කුඩු-පානය-කළ--පුද්ගලයින්-දෙදෙනෙක්-අත්අඩංගුවට/11-408876) · `si`
-
-Two motorcycle thieves, including a technician, arrested for stealing and selling bikes. They confessed to six thefts in Hokandara North and five more in Mount Lavinia and Homagama, Boralesgamuwa. Suspects, aged 23 and 26, were drug addicts.
-
-🟩
-
-Boralesgamuwa Police say two persons, including a motorcycle technician, who had stolen the new motorcycles in many areas and sold a motorcycle technician.
-
-Two motorcycle tires used to steal six million motorcycle and two other motorcycle troubles were taken into custody by two other motorcycle tires and two other motorcycle industrial.
-
-Police say he had detected six motorcycle robbery with another person in Hokandara North.
-
-Meanwhile, the two suspects have been able to disclose information from five other motorcycle steals that had been stocked in the Mount Lavinia, Mount Lavinia and Homagama in Maharagama, Boralesgamuwa.
-
-The two suspects have been found in the Internet to sell the keybuilding certificates of the Internet and sold in the Internet.
-
-The two arrested suspects were 23 and 26 years old and heroic drug addicted to drugs.
-
-◼️
-
-[Data](articles/ef59c51a.json)
-
-[Extended Data](ext_articles/ef59c51a.ext.json)
-
----
-
-### Modi Kumbhakarna Sleep: Stalin's leap
-
-*2024-04-01 11:41:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோடி-கும்பகர்ண-தூக்கம்-ஸ்டாலின்-பாய்ச்சல்/175-335447) · `ta`
-
-BJP takes over Kachchativu issue, accusing DMK of double role. Modi questions Stalin on tax refunds, flood relief, and Tamil Nadu projects.
-
-🟩
-
-The Bharatiya Janata Party (BJP) has taken over the Kachchativu issue as the parliamentary election is nearing. Prime Minister Modi has accused the Dravida Munnetra Kazhagam (DMK) of playing a double role in the Kachchativu issue.
-
-Prime Minister Modi posted on Monday (01) on his Twitter page.
-
-DMK on Kachchativu issue. Dual role. DMK to protect the interests of Tamil Nadu. Nothing has done. The role of the DMK, which is completely double -standing, has been dissolved as new details on Kachchativu emerge
-
-In this case, the BJP is a sudden fisherman for the election on the Kachchativu issue.. Chief Minister MK Stalin has accused the stage.
-
-Also, Prime Minister Modi has raised 3 questions for the first -minister MK Stalin. In a post posted on MK Stalin on his Twitter page,
-
-The question of the people of Tamil Nadu for 10 years and the Tamil Nadu people asks those who have been sleeping in a sudden fisherman for the election.
-
-...
-
-[Data](articles/ffcf7220.json)
-
-[Extended Data](ext_articles/ffcf7220.ext.json)
 
 ---

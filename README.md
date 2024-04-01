@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 01:52:10**
+As of **2024-04-02 02:03:12**
 
 ## Newspaper Stats
 
-*Scraped **16,490** Articles*
+*Scraped **16,493** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 147
 bbccomsinhala | 174
 dbsjeyarajcom | 201
 newsfirstlk | 363
-dailyftlk | 889
+dailyftlk | 891
 economynextcom | 909
 islandlk | 913
 adalk | 1,387
 tamilmirrorlk | 1,964
 adaderanalk | 1,984
-virakesarilk | 2,354
+virakesarilk | 2,355
 dailymirrorlk | 2,537
 adaderanasinhalalk | 2,668
 
@@ -26,27 +26,97 @@ adaderanasinhalalk | 2,668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,487 (100.0%) of 16,490 articles have been extended.
+16,490 (100.0%) of 16,493 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
 
-### மன்னார் மாவட்ட பொது வைத்தியசாலையின் சுகாதார ஊழியர்கள், தாதியர்கள் உள்ளிட்டோர் கவனயீர்ப்பு போராட்டம்
+### SJB renews challenge to NPP for debate on economy
+
+*2024-04-02 01:54:11* · [`dailyftlk`](https://www.ft.lk/news/SJB-renews-challenge-to-NPP-for-debate-on-economy/56-760209) · `en`
+
+SJB MP Harsha de Silva says despite various claims by certain political parties debt once restructured cannot be renegotiated once more
+
+Stresses failure to execute restructuring could result in collapse of the country
+
+SJB MP Nalin Bandara says NPP’s proposals for economy and debt restructuring lack practicality
+
+Questions NPP’s competency in implementing their proposals as it lacks a capable team
+
+The main Opposition party, the Samagi Jana Balawegaya (SJB), re-issued its challenge to the National People’s Power (NPP) for a debate on the economy, proposing a showdown between the two parties’ economic councils.
+
+Addressing a press conference over the weekend, SJB MP Harsha de Silva slammed the NPP for its comments critical of the SJB and said the NPP has avoided the party’s invitation extended by SJB MP Nalin Bandara on seven separate occasions.
+
+...
+
+[Data](articles/410cc575.json)
+
+---
+
+### Dismissed SLFP office bearers urge Maithri to reconcile
+
+*2024-04-02 01:53:06* · [`dailyftlk`](https://www.ft.lk/news/Dismissed-SLFP-office-bearers-urge-Maithri-to-reconcile/56-760208) · `en`
+
+Asks Party Chairman Maithripla Sirisena to set all differences aside for party’s sake
+
+SLFP Treasurer Lasantha Alagiyawanna claims Sirisena is being misled by certain party organisers
+
+SLFP National Organiser Duminda Dissanayake says he along with Alagiyawanna and Mahinda Amaraweera moved courts to protect party and not posts
+
+The Colombo District Court issued an order yesterday preventing the Sri Lanka Freedom Party (SLFP) from removing party members Duminda Dissanayake, Lasantha Alagiyawanna, and Mahinda Amaraweera from their positions in the party.
+
+Dissanayake, Alagiy-awanna, and Amaraweera were dismissed from their roles within the party by the SLFP Executive Committee during a meeting held over the weekend.  Accordingly Dissanayake was ousted from his role as National Organiser, while Alagiyawanna and Amaraweera were similarly removed from their positions as Treasurer and Vice President, respectively.
+
+...
+
+[Data](articles/e43805cd.json)
+
+---
+
+### வரிச் சலுகைகள் 2022/23 நிதியாண்டில் LKR 978 பில்லியன் வருவாயை இழக்க வழிவகுக்கும்
+
+*2024-04-02 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/180197) · `ta`
+
+2022/23 நிதியாண்டில் (ஏப்ரல் முதல் மார்ச் வரை), வரிச்சலுகைகள் மொத்தமாக 978 பில்லியன் ரூபாயை வருவாயாக ஈட்டியதாக அரசாங்கம் ஞாயிற்றுக்கிழமை (மார்ச் 31) தெரிவித்துள்ளது.
+
+இது 2022 ஆம் ஆண்டில் அரசாங்கத்தால் சேகரிக்கப்பட்ட மொத்த வரி வருவாயில் 56% ஆகும்.
+
+வெறிற்றே ரிசர்ச் இனால் பராமரிக்கப்படும் இலங்கையின் முதன்மையான பொருளாதார நுண்ணறிவு தளமான PublicFinance.lk ஆல் இது முன்னிலைப்படுத்தப்பட்டது.
+
+இலங்கையின் நிதி அமைச்சினால் 2024 ஆம் ஆண்டு மார்ச் 31 ஆம் திகதி வெளியிடப்பட்ட “வரிச் செலவின அறிக்கை” என்ற ஆவணத்தை மூலமாகக் கொண்டு இவ் ஆய்வு வெளியிடப்பட்டள்ளது.
+
+இலங்கை வழங்கிய பல்வேறு சிறப்பு இலக்கு வரிச் சலுகைகள் காரணமாக இழக்கப்பட்ட மொத்த வருவாய் குறித்த அரசாங்கத்தின் மதிப்பீடுகளை இவ் ஆவணம் தெரிவிக்கிறது. "சர்வதேச சிறந்த நடைமுறைகளிற்கேட்ப இலங்கையின் நிதி அறிக்கைகளில் வெளிப்படைத்தன்மையை மேம்படுத்துவது" என ஆவணம் அதன் நோக்கத்தைக் கூறுகிறது.
+
+...
+
+[Data](articles/1556288b.json)
+
+---
+
+### Health workers and nurses of the Mannar District General Hospital
 
 *2024-04-02 01:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180196) · `ta`
 
-அனைத்து தாதியர்களும் மூன்று மணித்தியாலங்கள் கடமையிலிருந்து விலகி தொழிற்சங்க நடவடிக்கையில் ஈடுபட தீர்மானித்துள்ள நிலையில் அதற்கு ஆதரவு தெரிவிக்கும் வகையில் மன்னார்  மாவட்ட வைத்தியசாலையில் திங்கட்கிழமை (01) மதியம் போராட்டம் முன்னெடுக்கப்பட்டது.
+Nurses at Mannar District Hospital protested for better pay and uniform allowance, demanding Presidential intervention. They threatened continued protests if demands aren't met, echoing similar demands by 72 unions nationwide.
 
-மன்னார்  மாவட்ட  வைத்தியசாலையில் பணிபுரியும் தாதிய உத்தியோகத்தர்கள் வைத்தியசாலை  வளாகத்தில்  கவனயீர்ப்பு போராட்டம் முன்னெடுக்கப்பட்டது.
+🟩
 
-குறித்த போராட்டத்தில் ஈடுபட்டவர்கள் தாதியர்களின் எதிர்நோக்கும் சம்பளம் மற்றும் சீருடை கொடுப்பனவு வழங்குதல் உள்ளிட்ட பல பிரச்சினைகளுக்கு தீர்வு காணுமாறு கோரி போராட்டத்தில் ஈடுபட்டனர்.
+The protest was launched at the Mannar District Hospital on Monday (01) in support of all the nurses who have decided to withdraw from the duty for three hours and engage in trade union action.
 
-சுகாதார மற்றும் தாதியர்களின் பிரச்சினைகள் தொடர்பில் ஜனாதிபதி உடனடியாக தலையிட்டு தீர்த்து வைக்க வேண்டும் என்று தெரிவித்த அவர்கள் தமது கோரிக்கைகள் தீர்க்கப்படாவிட்டால் போராட்டங்களைத் தொடர்ந்து முன்னெடுக்க உள்ளதாகத் தெரிவித்தனர்.
+Nurses working at the Mannar District Hospital
+
+Those involved in the struggle went on a protest demanding a solution to many issues, including the salary and uniform allowance of the nurses.
+
+They said that the President should immediately intervene and resolve the problems of health and nurses, and that if their demands are not resolved, they will continue to carry out protests.
+
+The massive protests launched by 72 unions across the country in the past have been put forward by various demands. The additional allowance provided to doctors in the health sector must be given 35 thousand rupees. The struggle is being carried out in front of a legitimate demand for the supply of 72 union members.
 
 ...
 
 [Data](articles/1a40437d.json)
+
+[Extended Data](ext_articles/1a40437d.ext.json)
 
 ---
 
@@ -62,6 +132,8 @@ During the visit, Prime Minister Dinesh Gunawardena called on People’s Republi
 
 [Data](articles/6bd2559c.json)
 
+[Extended Data](ext_articles/6bd2559c.ext.json)
+
 ---
 
 ### 53rd Anniversary of Independence and National Day of Bangladesh observed in Colombo
@@ -75,6 +147,8 @@ The observance commenced at the chancery in the morning with ceremonial hoisting
 ...
 
 [Data](articles/3e4a4bf1.json)
+
+[Extended Data](ext_articles/3e4a4bf1.ext.json)
 
 ---
 
@@ -2163,73 +2237,5 @@ In response to the President’s call to allocate funds from ministries and gove
 [Data](articles/db724c80.json)
 
 [Extended Data](ext_articles/db724c80.ext.json)
-
----
-
-### Sri Lanka optimistic about a positive outcome with bondholders: Minister
-
-*2024-04-01 15:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-optimistic-about-a-positive-outcome-with-bondholders-minister-156786/) · `en`
-
-ECONOMYNEXT – Sri Lanka is engaging with bondholders and is optimistic about a positive outcome, while efforts were underway to finalize in-principal deals with official creditors, State Minister for Finance Shehan Semasinghe said.
-
-Sri Lanka was expected to meet International Monetary Fund debt restructuring requirements in the second quarter for a review to be passed by the lender’s board, he said.
-
-President Ranil Wickremesinghe has said he expected debt re-structuring to be wrapped up by June–July before any elections are conducted.
-
-Discussions with bondholders and commercial creditors are going on, and advisors are engaging he said.
-
-China has also assured that they will work with other creditors and the IMF to support Sri Lanka’s debt restructuring efforts and economic recovery, he said.
-
-Reforms under an IMF program, and credible economic management and decision-making by President Ranil Wickremesinghe, are bearing fruit, he said.
-
-...
-
-[Data](articles/c4027f02.json)
-
-[Extended Data](ext_articles/c4027f02.ext.json)
-
----
-
-### A young man drowned in a sea of sheep in Jaffna
-
-*2024-04-01 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180145) · `ta`
-
-A 19-year-old from Periyakallaru Ooty, Batticaloa, drowned in the sea off Jaffna after seeking shelter.
-
-🟩
-
-A young man who went to sea to take shelter in Jaffna has drowned in the sea.
-
-The death of 19 -year -old Raveendran Yadusan from Periyakallaru Ooty, Batticaloa, died.
-
-A man who went to sea in the seas of Colombo on Sunday has been found dead on Monday morning.
-
-◼️
-
-[Data](articles/d5348f8f.json)
-
-[Extended Data](ext_articles/d5348f8f.ext.json)
-
----
-
-### Sharhan Muhseen appointed chairman of Sri Lanka’s Commercial Bank
-
-*2024-04-01 14:45:00* · [`economynextcom`](https://economynext.com/sharhan-muhseen-appointed-chairman-of-sri-lankas-commercial-bank-156784/) · `en`
-
-ECONOMYNEXT – Sharhan Muhseen has been appointed the chairman of Sri Lanka’s Commercial Bank of Ceylon Plc with effect from April 22, the bank said in a stock exchange filing.
-
-Muhseen Mohamed Sharhan Mohamed (Sharhan Muhseen) was appointed chairman of the board with effect from April 22, 2024 at a special board meeting on March 28, the bank said in a stock exchange filing.
-
-He is a senior investment banker with extensive experience in areas of mergers and acquisitions, corporate
-
-He has worked with company boards and senior leadership teams of financial institutions across Asia. He worked in global investment banks Credit Suisse, Bank of America, Merrill Lynch and JPMorgan.
-
-He is credited with leading research reports including reports on banking sector efficiency, currency depreciation and budget deficit in his role as Head of Sri Lanka Banking sector research coverage and lead Economist at Jardine Flemming.
-
-...
-
-[Data](articles/b93d1eaa.json)
-
-[Extended Data](ext_articles/b93d1eaa.ext.json)
 
 ---

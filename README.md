@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 16:33:40**
+As of **2024-04-01 16:50:07**
 
 ## Newspaper Stats
 
-*Scraped **16,391** Articles*
+*Scraped **16,394** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 893
 islandlk | 912
-adalk | 1,376
+adalk | 1,379
 tamilmirrorlk | 1,960
 adaderanalk | 1,977
 virakesarilk | 2,331
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,658
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,386 (100.0%) of 16,391 articles have been extended.
+16,391 (100.0%) of 16,394 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ On March 20, the Committee on Public Finance recommended to the Central Bank to 
 
 [Data](articles/30dda84e.json)
 
+[Extended Data](ext_articles/30dda84e.ext.json)
+
 ---
 
 ### President appoints independent committee to review CBSL salary hikes
@@ -54,67 +56,101 @@ On March 20, the Committee on Public Finance recommended to the Central Bank to 
 
 President Ranil Wickremesinghe, in his capacity as the Minister of Finance, Economic Stabilization and National Policies, has appointed an Independent Remuneration Committee to review the salary increase of the Central Bank of Sri Lanka (CBSL).
 
-This appointment of the committee has been made based on the recommendation in the report of the Committee on Public Finance (CoPF) in relation to the CBSL salary revision, the President’s Media Division (PMD) said.
+The relevant Independent Remuneration Committee members include Dinesh Stephen Weerakoddy, Arjuna Herath, Dr Indrajit Coomaraswamy, Sudharma Karunarathne, Anthony Nihal Fonseka, Anushka S. Wijesinha and Duminda Hulangamuwa, the PMD reported.
 
-On March 20, the Committee on Public Finance recommended to the Central Bank to defer the salary increases until a mutually acceptable solution is reached on the matter. This was mentioned in the COPF report on the Central Bank Salary Revision 2024-2026, presented to the parliament by the committee’s chairman Dr. Harsha de Silva.
+This appointment of the committee has been made based on the recommendation in the report of the Committee on Public Finance (CoPF) in relation to the CBSL salary revision, the President’s Media Division (PMD) said.
 
 ...
 
 [Data](articles/5ede28fe.json)
 
+[Extended Data](ext_articles/5ede28fe.ext.json)
+
 ---
 
-### හෙට ප්‍රධාන රෝහල් 10ක වැඩ වර්ජනයක්
+### Tomorrow of 10 major hospitals strike
 
 *2024-04-01 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195178) · `si`
 
-හෙට දිනයේ දිවයිනේ රෝහල් 10ක සංකේත වැඩ වර්ජනයක් ක්‍රියාත්මක කරන බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය පවසයි.
+Tomorrow, 10 major hospitals will strike, affecting 9 on the island, according to UPFA. Ravi Kudash, the Alliance's convener, announced this at a press conference.
 
-එම සන්ධානයේ කැඳවුම්කරු රවී කුමුදේශ් දැන් පැවැත්වෙන මාධ්‍ය හමුවකදී මේ බව සඳහන් කළේය.
+🟩
+
+The Health Trade Union UPFA says that a 9 hospitals in the island will be implemented tomorrow.
+
+The convener of the Alliance Ravi Kudash said this at a press conference.
 
 ◼️
 
 [Data](articles/d3b846d0.json)
 
+[Extended Data](ext_articles/d3b846d0.ext.json)
+
 ---
 
-### ”தனக்கு தெரிந்த அனைத்தையும் அவர் வெளிப்படுத்த வேண்டும்”
+### “He must reveal everything he knows”
 
 *2024-04-01 16:18:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனக்கு-தெரிந்த-அனைத்தையும்-அவர்-வெளிப்படுத்த-வேண்டும்/175-335467) · `ta`
 
-ஈஸ்டர் ஞாயிறு தாக்குதல்கள் தொடர்பில் ஆராயும் ஜனாதிபதி ஆணைக்குழுவின் பரிந்துரையை சட்டமா அதிபர் திணைக்களம் நடைமுறைப்படுத்தியுள்ளதாக நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
+Justice Minister Wijeyadasa Rajapakse announced that the Attorney General's Department is following the Presidential Commission's recommendations to investigate the Easter Sunday attacks, with 41 court cases filed against 79 individuals. Former President Maithripala Sirisena acknowledged knowledge of the attacks, and legal action has begun. Parliamentarian Kavinda Jayawardena requested Speaker Mahinda Yapa Abeywardena to reveal all he knows about the attacks.
 
-“ஈஸ்டர் ஞாயிறு தாக்குதல்கள் குறித்து விசாரணை நடத்திய ஜனாதிபதி ஆணைக்குழு, சட்டமா அதிபர் திணைக்களம் மற்றும் பொலிஸ் போன்ற பல்வேறு நிறுவனங்களுக்கு பரிந்துரைகளை வழங்கியது.
+🟩
 
-சட்டமா அதிபர் திணைக்களத்தினால் இதுவரை 79 பேருக்கு எதிராக 41 நீதிமன்ற வழக்குகள் தாக்கல் செய்யப்பட்டுள்ளன. பொலிஸ் போன்ற ஏனைய நிறுவனங்களும் ஜனாதிபதி ஆணைக்குழுவின் ஏனைய பரிந்துரைகளை அமுல்படுத்துவது இன்றியமையாதது” என அமைச்சர் தெரிவித்தார்.
+Justice Minister Wijeyadasa Rajapakse told Parliament today that the Attorney General's Department has implemented the recommendation of the Presidential Commission to investigate the Easter Sunday attacks.
 
-ஈஸ்டர் ஞாயிறு தாக்குதலுக்கு மூளையாக செயல்பட்டவரை தாம் அறிந்திருப்பதாக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன அண்மையில் தெரிவித்த கருத்து தொடர்பில் சட்டமா அதிபர் திணைக்களம் ஏற்கனவே சட்ட நடவடிக்கையை ஆரம்பித்துள்ளதாக சபைத் தலைவர் சுசில் பிரேமஜயந்த பாராளுமன்றத்தில் தெரிவித்தார்.
+“The Presidential Commission, which investigated the Easter Sunday attacks, made recommendations to various companies such as the Attorney General's Department and the Police.
 
-“எம்.பி. சிறீசேனாவின் கருத்துக்கள் தொடர்பாக அறிக்கை வெளியிடுவது நீதிக்கு உட்பட்டதாகும்,” என்று அவர் கூறினார்.
+So far, 41 court cases have been filed against 79 people by the Attorney General's Department. It is imperative that other institutions like the police are implementing other recommendations of the Presidential Commission, ”the minister said.
+
+Former President Maithripala Sirisena recently said that he was aware of the Easter's Sunday attack, the Attorney General's Department has already begun legal action, said council chairman Susil Premajayantha.
+
+“MP. The report on Sirisena's comments is justice, ”he said.
 
 ...
 
 [Data](articles/7222b7f2.json)
 
+[Extended Data](ext_articles/7222b7f2.ext.json)
+
 ---
 
-### පළාත් පාලන ඡන්දයට මොකද වුණේ ?
+### What happened to the local government election?
 
 *2024-04-01 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195177) · `si`
 
-ඉකුත් වසරේ මාර්තු 09 වනදා පැවැත්වීමට නියමිතව තිබූ පළාත් පාලන ඡන්ද විමසීම කල්දැමීමට එරෙහිව ගොනුකර තිබූ පෙත්සම් හතරක් අද (01) ශ්‍රේෂ්ඨාධිකරණය හමුවේ යළි විභාගයට ගත්තේය.
+Four petitions against local gov't polls on March 9 were returned to the Supreme Court by the United Nations Force, National Zealous Forces, CPA, and PAFFRAL. The Elections Commission failed to follow local gov't election camp provisions, leading to an economic crisis.
 
-සමගි ජන බලවේගය, ජාතික ජන බලවේගය, විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය සහ පැෆ්රල් සංවිධානය විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබුණි.
+🟩
 
-මෙම පෙත්සම් අද අගවිනිසුරු ජයන්ත ජයසූරිය මහතා ප්‍රමුඛ පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ යළි විභාගයට ගත්තේය.
+Four petitions filed against the delegation of the local government polls for March 9 last year have been taken back to the Supreme Court.
 
-එහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් නෙරින් පුල්ලේ මහතා අධිකරණය හමුවේ කරුණු දක්වමින් අදාළ පළාත් පාලන ඡන්ද විමසීම පැවැත්වීම සඳහා දිනය නියම කර තිබූ වකවානුවෙන් රටෙහි විශාල ආර්ථික අර්බුදයක් පැවති බවත් ඒ පිළිබඳ මුදල් අමාත්‍යාංශය විසින් ජනතාව දැනුවත් කර තිබූ බවත් ය.
+These petitions were presented by the United Nations Force, National Zealous Forces, CPA and PAFFRAL.
 
-ඒ පිළිබඳව මැතිවරණ කොමිසම ද දැනුවත් කිරීමට කටයුතු කළ බව කී අතිරේක සොලිසිටර් ජනරාල්වරයා පළාත් පාලන ඡන්ද විමසීම පනතට අනුව පළාත් පාලන ඡන්ද විමසීමක් පැවැත්වීමට බාධා පැමිණෙන අවස්ථාවක ඒ සම්බන්ධයෙන් කටයුතු කළ යුතු ප්‍රතිපාදන දක්වා තිබෙන බවත් පැවසීය.
+These petitions were taken back to the president of Chief Justice Jayantha Jayasuriya, a five-member Supreme Court judge.
 
-...
+Additional Solicitor General, who appeared for the Attorney General, said that the country had a large economic crisis in the country and had a large economic crisis in the country.
+
+Additional Solicitor General said that the Elections Commission was also informed of the local election.
+
+The Elections Commission did not follow the provision of the local government election camps and demanding the necessary money to hold the elections in the event of a poll.
+
+◼️
 
 [Data](articles/bb681f76.json)
+
+[Extended Data](ext_articles/bb681f76.ext.json)
+
+---
+
+### ලාෆ්ස් ගෑස් මිලද පහළට
+
+*2024-04-01 15:56:41* · [`adalk`](https://www.ada.lk/breaking_news/ලාෆ්ස්-ගෑස්-මිලද-පහළට/11-408884) · `si`
+
+අද මධ්‍යම රාත්‍රියේ සිට ලාෆ්ස් ගෑස් මිලද පහත දැමීමට තීරණය කර ඇත.
+
+◼️
+
+[Data](articles/af531131.json)
 
 ---
 
@@ -159,6 +195,24 @@ Chairman of the Parliamentary Committee on Finance Dr. Harsha de Silva ...
 [Data](articles/817a5b04.json)
 
 [Extended Data](ext_articles/817a5b04.ext.json)
+
+---
+
+### බුද්ධි නිලධාරියාට සෙල්ලම් පිස්තෝලයෙන් වැඩ පෙන්නූ රියදුරු අත්අඩංගුවට
+
+*2024-04-01 15:36:44* · [`adalk`](https://www.ada.lk/breaking_news/බුද්ධි-නිලධාරියාට-සෙල්ලම්-පිස්තෝලයෙන්-වැඩ-පෙන්නූ-රියදුරු-අත්අඩංගුවට/11-408883) · `si`
+
+මරදාන ඩින්ස් පාර ප්‍රදේශයේදී බුද්ධි අංශ නිලධාරියකුට සිවිල් ඇඳුමෙන් සැරසී මාර්ගයේ ගමන් කරමින් සිටියදී පිස්තෝල  අවියක් එල්ල කර බිය ගන්වා මෝටර් රථයෙන් පළා ගිය සැකකරු යක්කපිටිය මධ්‍යම අධිවේගී හුවමාරුවේ දී සෙල්ලම් පිස්තෝලයක් සමඟ අත්අඩංගුවට ගත් බව කොළඹ අපරාධ කොට්ඨාසය කියයි.
+
+පොලිස්පති දේශබන්දු  තෙන්නකෝන් මහතාගේ  උපදෙස් සහ නියෝග මත ක්‍රියාත්මක සංවිධානාත්මක අපරාධ මැඩලීම සඳහා  දියත් කරන ලද විශේෂ මෙහෙයුමේ කොළඹ අපරාධ කොට්ඨාසයට අනුයුක්ත උප පොලිස් පරීක්ෂක ලක්මාල් නිලධාරියාගේ කණ්ඩායමට අයත් බුද්ධි අංශ නිලධාරියකු ට සැකකරු මෙලෙස සෙල්ලම් පිස්තෝල අවිය එල්ල කර බිය ගන්වා තිබිණි.
+
+ඒ සම්බන්ධයෙන් ලද තොරතුරු අනුව වහා ක්‍රියාත්මක වූ පොලිසිය එම සැකකරු මෝටර් රථයෙන් මධ්‍යම අධිවේගී ඔස්සේ පලා ගොස් යක්කපිටිය හුවමාරුවෙන් පිටවීමට යාමේදී අත්අඩංගුවට ගත් බව පොලිසිය කියයි.
+
+අත්අඩංගුවට ගත් සැකකරු රියදුරෙකු ලෙස සේවය කරන කෙහෙල් පන්නල අම්බලාව පදිංචි වයස අවුරුදු 22 ක පුද්ගලයෙකි.
+
+...
+
+[Data](articles/08106c0c.json)
 
 ---
 
@@ -227,6 +281,20 @@ The announcement comes shortly after Litro Gas Lanka announced its decision to r
 [Data](articles/e5b19c42.json)
 
 [Extended Data](ext_articles/e5b19c42.ext.json)
+
+---
+
+### අලි තිදෙනෙක් නිසා ගමක් නොසන්සුන්
+
+*2024-04-01 15:19:43* · [`adalk`](https://www.ada.lk/breaking_news/අලි-තිදෙනෙක්-නිසා-ගමක්-නොසන්සුන්/11-408882) · `si`
+
+අම්බලන්තොට රෝටවල  ප්‍රදේශයට අද 01දා අලුයම  පැමිණි වන අලින් තිදෙනෙකු හේතුවෙන් ප්‍රදේශයේ ජනතාව නොසන්සුන් වී තිබේ. මිට පෙර කිසි දිනෙක මෙම ප්‍රදේශයට වන අලින් පැමිණ නොමැති බවයි ප්‍රදේශයේ ජනතාව කියා සිටින්නේ.
+
+කෙසේ නමුත් මේ සම්බන්න්ධයෙන් ක්‍රියාත්මක වූ හම්බන්තොට හා කලමිටිය  වන ජීවී කාර්යාලයන්හි නිලධාරීන් ප්‍රදේශයට ආරක්ෂා යොදා ඇති අතර දහවල් කාලයේදී වන අලින් එළවීම අනතුරු සහිත හෙයින් රාත්‍රී කාලයේදී වන අලින් තිදෙනා ප්‍රදේශයෙන් පලවා හැරීමට කටයුතු කරන බව වන ජීවී නිලධාරින් පවසා සිටියේය.
+
+◼️
+
+[Data](articles/0c738e64.json)
 
 ---
 
@@ -2171,79 +2239,5 @@ The statistries that this situation has been affected by last night (31). The st
 [Data](articles/2db3db53.json)
 
 [Extended Data](ext_articles/2db3db53.ext.json)
-
----
-
-### The remnant of the streets
-
-*2024-04-01 09:40:33* · [`adalk`](https://www.ada.lk/picture_story/පාරටම-පැමිණි-මුදුදු-රළ/10-408872) · `si`
-
-"The streets near Kahawa Junction on the Galle-Colombo road are blocked due to sea waves and stones. Residents have been evacuated to ensure safety."
-
-🟩
-
-The country has been severely obstructed from Kahawa Junction on the Kahawa junction on the Galle-Colombo main road due to the visit of the sea.
-
-The statistries that this situation has been affected by last night (31). The stones in the sea with sea waves are coming from time to time and residents are evacuated to take off the road to vehicle running.
-
-◼️
-
-[Data](articles/ce597bf5.json)
-
-[Extended Data](ext_articles/ce597bf5.ext.json)
-
----
-
-### Hospital employees' work boycott
-
-*2024-04-01 09:35:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலை-ஊழியர்கள்-பணி-புறக்கணிப்பு/175-335433) · `ta`
-
-The Federation of Health Trade Unions is boycotting identity work due to a salary issue, affecting 5 hospitals from 6.30 am today. If no solution is provided, strikes will start from tomorrow. The Presidential Office has called for a discussion.
-
-🟩
-
-The Federation of Health Trade Unions has decided to propose a salary issue and boycott identity work.
-
-Accordingly, some hospitals will be carried out from 6.30 am today, said Sanaka Dharmavickrama, Coordinator of the Health Trade Union Federation.
-
-He said that if the authorities fail to provide a solution to their problem, he would go on a series of strikes from tomorrow (02).
-
-The Presidential Office has called for a discussion today, though all the country's hospitals have decided to go on a 4 -hour strike.
-
-Due to this, he has decided to limit work boycott to 5 hospitals.
-
-He added that the workshop will be launched at the hospitals in Anuradhapura, Ratnapura, Kurunegala and Badulla from 6.30 am today.
-
-◼️
-
-[Data](articles/4d7d70e2.json)
-
-[Extended Data](ext_articles/4d7d70e2.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-04-01 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195158) · `si`
-
-The Parliamentary Council starts with the Ayurvedic Act's orders, a Second Reading Debate on the Paradise Law amendment, and discussions on the Colombo Harbor to the City Economic Project Act, Treen Tax Act, and Import and Export Control Act. Public Finance and Accounts Committees will meet, and the Department of Immigration and Emigration will convene its officers.
-
-🟩
-
-The parliamentary communications department stated that the orders under the Ayurvedic Act today (01).
-
-The Second Reading Debate will be conducting the Second Reading Bill to amend the Paradise Law tomorrow (02).
-
-In addition, the order under the Colombo Harbor to the City Economic Project Act, the Department of Parliament said that the regulations under the Treen Tax Act and Regulations under the Import and Export Control Act stated that regulations under the Import and Export Control Act.
-
-Meanwhile, the Committee on Public Finance and the Committee on Public Accounts are due to meet.
-
-The Department of Immigration and Emigration has summoned the officers of the Department of Immigration and Emigration on that day.
-
-◼️
-
-[Data](articles/cf7d603e.json)
-
-[Extended Data](ext_articles/cf7d603e.ext.json)
 
 ---

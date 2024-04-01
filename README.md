@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 20:18:09**
+As of **2024-04-01 20:33:32**
 
 ## Newspaper Stats
 
-*Scraped **16,449** Articles*
+*Scraped **16,451** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 908
 islandlk | 912
-adalk | 1,384
+adalk | 1,385
 tamilmirrorlk | 1,960
 adaderanalk | 1,981
-virakesarilk | 2,345
+virakesarilk | 2,346
 dailymirrorlk | 2,529
 adaderanasinhalalk | 2,664
 
@@ -26,25 +26,47 @@ adaderanasinhalalk | 2,664
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,448 (100.0%) of 16,449 articles have been extended.
+16,449 (100.0%) of 16,451 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### கஞ்சாவுடன் சிக்கிய கலால் அதிகாரிகள்!  8 பேர் கைது
+### இம்ரான் கானின் 14 ஆண்டு சிறை தண்டனை நிறுத்தி வைக்கப்பட்டுள்ளது
+
+*2024-04-01 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180189) · `ta`
+
+பாகிஸ்தான் முன்னாள் பிரதமர் இம்ரான் கானுக்கு விதிக்கப்பட்ட 14 ஆண்டு சிறை தண்டனையை நிறுத்தி வைத்து இஸ்லாமாபாத் உயர்நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+அவர் தாக்கல் செய்த மேல்முறையீட்டு மனுவை பரிசீலிக்க முடிவு செய்த நீதிமன்றம் இந்த உத்தரவை பிறப்பித்துள்ளது.
+
+இருப்பினும், முன்னாள் பிரதமர் இம்ரான் கான் மீதான வழக்குகள் காரணமாக இன்னும் சிறையில் உள்ளார்.
+
+◼️
+
+[Data](articles/80287e4f.json)
+
+---
+
+### Excise Officers caught with cannabis!8 people arrested
 
 *2024-04-01 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/180188) · `ta`
 
-நீர்கொழும்பு மற்றும் சிலாபம் பகுதிகளில் கேரள கஞ்சாவுடன் நான்கு கலால் அதிகாரிகள் உட்பட 08 சந்தேக நபர்களை பொலிஸார் கைது செய்துள்ளனர்.
+Police arrested 8, including 4 excise officers, for smuggling 45 kg Kerala ganja in Negombo and Chilaw. A van from the Excise Department is now under police custody.
 
-45 கிலோகிராம் கேரள கஞ்சாவுடன் 8 பேர் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவினரால் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இதேவேளை, கைது செய்யப்பட்ட அதிகாரிகள் பயணித்த கலால் திணைக்களத்திற்குச் சொந்தமான வேன் ஒன்றும் பொலிஸ் காவலில் வைக்கப்பட்டுள்ளது.
+Police have arrested eight suspects, including four excise officers, along with Kerala ganja in Negombo and Chilaw areas.
+
+Eight people have been arrested by the police narcotics unit with 45 kilograms of Kerala ganja, police said.
+
+Meanwhile, a van belonging to the Excise Department, which was arrested by the arrested officers, has been placed under police custody.
 
 ◼️
 
 [Data](articles/7481f669.json)
+
+[Extended Data](ext_articles/7481f669.ext.json)
 
 ---
 
@@ -361,6 +383,24 @@ However, former Prime Minister Imran Khan is still imprisoned due to the cases f
 [Data](articles/30712283.json)
 
 [Extended Data](ext_articles/30712283.ext.json)
+
+---
+
+### හෑන්ඩ් ෆ්‍රී කනේ ගහගෙන ගිය පේරේ නීති සිසුවා දුම්රියට බිලි
+
+*2024-04-01 17:46:39* · [`adalk`](https://www.ada.lk/breaking_news/හෑන්ඩ්-ෆ්‍රී-කනේ-ගහගෙන-ගිය-පේරේ-නීති-සිසුවා-දුම්රියට-බිලි/11-408887) · `si`
+
+පේරාදෙණිය විශ්වවිද්‍යාලයේ ශාස්ත්‍ර පීඨයේ නීති අධ්‍යයන අංශයේ තෙවන වසරේ සිසුවෙකු අද (01) පස්වරු 2.20 ට පමණ දුම්රියේ ගැටී එම ස්ථානයේදීම මියගොස් ඇති බව පේරාදෙණිය පොලිසිය පවසයි.
+
+සිසුවා පේරාදෙණිය දුම්රිය ස්ථානය වෙත ගමන් කරමින් සිටිය දී මහනුවර සිට නාවලපිටිය දක්වා ගමන් කරන දුම්රියේ ගැටී තිබෙන බව පේරාදෙණිය පොලීසිය පවසයි.
+
+මෙම සිසුවා හැන්ඩ් ෆ්‍රී උපකරණ පැළඳ ජංගම දුරකතනයෙන් ඇමැතුමක් ලබා ගෙන දුම්රිය මාර්ගයේ ගමන් කර තිබෙන බව පරීක්ෂණ මගින් අනාවරණය වී ඇත.
+
+මියගොස් ඇත්තේ තිසල් කිත්සර නැමැති සිසුවෙකු බව පේරාදෙණිය විශ්වවිද්‍යාලය පවසයි.
+
+◼️
+
+[Data](articles/383162ad.json)
 
 ---
 
@@ -2213,51 +2253,5 @@ MP Wimal Weerawansa has acquired and released from the passport case by the Pass
 [Data](articles/999c887e.json)
 
 [Extended Data](ext_articles/999c887e.ext.json)
-
----
-
-### 2024 hint of elections
-
-*2024-04-01 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195167) · `si`
-
-The National Election Commission has prepared for the presidential election, set for late September or October. The Sri Lanka General Front requests a general election before the presidential one, aiming for August.
-
-🟩
-
-The National Election Commission says the basic functions of the presidential election this year have already been prepared.
-
-Meanwhile, Presidential sources say that the International Monetary Fund loan is informed until the end of the International Monetary Fund, but no election will be held to the Cabinet and the Election Committee.
-
-The presidential election should be held this year and will be held in late September or October.
-
-A member of the Elections Commission has made a sum of Rs.
-
-However, the Sri Lanka General Front had requested the President to hold a general election before the presidential election and the general election should be held before August.
-
-◼️
-
-[Data](articles/2b75fce2.json)
-
-[Extended Data](ext_articles/2b75fce2.ext.json)
-
----
-
-### Court order issued preventing removal of Amaraweera and others from SLFP posts
-
-*2024-04-01 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/98343/court-order-issued-preventing-removal-of-amaraweera-and-others-from-slfp-posts) · `en`
-
-The Colombo District Court has issued an interim injunction order preventing the Sri Lanka Freedom Party’s (SLFP) Executive Committee from removing Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera from their respective positions in the party, Ada Derana reporter said.
-
-The Executive Committee of the SLFP decided to remove Dissanayake, Alagiyawanna and Amaraweera from their respective positions in the party, during a special party meeting held on Tuesday (March 30).
-
-Accordingly, Dissanayake was stripped of his post as the National Organizer, Alagiyawanna was removed as the Treasurer and Amaraweera as the Senior Vice President.
-
-Meanwhile, SLFP also appointed a new Senior Vice President, a Treasurer and a National Organizer after the trio was stripped of their respective positions.
-
-...
-
-[Data](articles/2f3baa1c.json)
-
-[Extended Data](ext_articles/2f3baa1c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 16:18:28**
+As of **2024-04-01 16:33:40**
 
 ## Newspaper Stats
 
-*Scraped **16,386** Articles*
+*Scraped **16,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,51 +16,149 @@ dailyftlk | 881
 economynextcom | 893
 islandlk | 912
 adalk | 1,376
-tamilmirrorlk | 1,959
-adaderanalk | 1,975
+tamilmirrorlk | 1,960
+adaderanalk | 1,977
 virakesarilk | 2,331
 dailymirrorlk | 2,520
-adaderanasinhalalk | 2,656
+adaderanasinhalalk | 2,658
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,384 (100.0%) of 16,386 articles have been extended.
+16,386 (100.0%) of 16,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### லாப் எரிவாயு விலை குறைப்பு
+### President appoints independent committee to review CBSL salary hikes
+
+*2024-04-01 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98349/president-appoints-independent-committee-to-review-cbsl-salary-hikes) · `en`
+
+President Ranil Wickremesinghe, in his capacity as the Minister of Finance, Economic Stabilization and National Policies, has appointed an Independent Remuneration Committee to review the salary increase of the Central Bank of Sri Lanka (CBSL).
+
+This appointment of the committee has been made based on the recommendation in the report of the Committee on Public Finance (CoPF) in relation to the CBSL salary revision, the President’s Media Division (PMD) said.
+
+On March 20, the Committee on Public Finance recommended to the Central Bank to defer the salary increases until a mutually acceptable solution is reached on the matter. This was mentioned in the COPF report on the Central Bank Salary Revision 2024-2026, presented to the parliament by the committee’s chairman Dr. Harsha de Silva.
+
+...
+
+[Data](articles/30dda84e.json)
+
+---
+
+### President appoints independent committee to review CBSL salary hikes
+
+*2024-04-01 16:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98350/president-appoints-independent-committee-to-review-cbsl-salary-hikes) · `en`
+
+President Ranil Wickremesinghe, in his capacity as the Minister of Finance, Economic Stabilization and National Policies, has appointed an Independent Remuneration Committee to review the salary increase of the Central Bank of Sri Lanka (CBSL).
+
+This appointment of the committee has been made based on the recommendation in the report of the Committee on Public Finance (CoPF) in relation to the CBSL salary revision, the President’s Media Division (PMD) said.
+
+On March 20, the Committee on Public Finance recommended to the Central Bank to defer the salary increases until a mutually acceptable solution is reached on the matter. This was mentioned in the COPF report on the Central Bank Salary Revision 2024-2026, presented to the parliament by the committee’s chairman Dr. Harsha de Silva.
+
+...
+
+[Data](articles/5ede28fe.json)
+
+---
+
+### හෙට ප්‍රධාන රෝහල් 10ක වැඩ වර්ජනයක්
+
+*2024-04-01 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195178) · `si`
+
+හෙට දිනයේ දිවයිනේ රෝහල් 10ක සංකේත වැඩ වර්ජනයක් ක්‍රියාත්මක කරන බව සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය පවසයි.
+
+එම සන්ධානයේ කැඳවුම්කරු රවී කුමුදේශ් දැන් පැවැත්වෙන මාධ්‍ය හමුවකදී මේ බව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/d3b846d0.json)
+
+---
+
+### ”தனக்கு தெரிந்த அனைத்தையும் அவர் வெளிப்படுத்த வேண்டும்”
+
+*2024-04-01 16:18:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனக்கு-தெரிந்த-அனைத்தையும்-அவர்-வெளிப்படுத்த-வேண்டும்/175-335467) · `ta`
+
+ஈஸ்டர் ஞாயிறு தாக்குதல்கள் தொடர்பில் ஆராயும் ஜனாதிபதி ஆணைக்குழுவின் பரிந்துரையை சட்டமா அதிபர் திணைக்களம் நடைமுறைப்படுத்தியுள்ளதாக நீதி அமைச்சர் விஜேதாச ராஜபக்ஷ இன்று பாராளுமன்றத்தில் தெரிவித்தார்.
+
+“ஈஸ்டர் ஞாயிறு தாக்குதல்கள் குறித்து விசாரணை நடத்திய ஜனாதிபதி ஆணைக்குழு, சட்டமா அதிபர் திணைக்களம் மற்றும் பொலிஸ் போன்ற பல்வேறு நிறுவனங்களுக்கு பரிந்துரைகளை வழங்கியது.
+
+சட்டமா அதிபர் திணைக்களத்தினால் இதுவரை 79 பேருக்கு எதிராக 41 நீதிமன்ற வழக்குகள் தாக்கல் செய்யப்பட்டுள்ளன. பொலிஸ் போன்ற ஏனைய நிறுவனங்களும் ஜனாதிபதி ஆணைக்குழுவின் ஏனைய பரிந்துரைகளை அமுல்படுத்துவது இன்றியமையாதது” என அமைச்சர் தெரிவித்தார்.
+
+ஈஸ்டர் ஞாயிறு தாக்குதலுக்கு மூளையாக செயல்பட்டவரை தாம் அறிந்திருப்பதாக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன அண்மையில் தெரிவித்த கருத்து தொடர்பில் சட்டமா அதிபர் திணைக்களம் ஏற்கனவே சட்ட நடவடிக்கையை ஆரம்பித்துள்ளதாக சபைத் தலைவர் சுசில் பிரேமஜயந்த பாராளுமன்றத்தில் தெரிவித்தார்.
+
+“எம்.பி. சிறீசேனாவின் கருத்துக்கள் தொடர்பாக அறிக்கை வெளியிடுவது நீதிக்கு உட்பட்டதாகும்,” என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/7222b7f2.json)
+
+---
+
+### පළාත් පාලන ඡන්දයට මොකද වුණේ ?
+
+*2024-04-01 16:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195177) · `si`
+
+ඉකුත් වසරේ මාර්තු 09 වනදා පැවැත්වීමට නියමිතව තිබූ පළාත් පාලන ඡන්ද විමසීම කල්දැමීමට එරෙහිව ගොනුකර තිබූ පෙත්සම් හතරක් අද (01) ශ්‍රේෂ්ඨාධිකරණය හමුවේ යළි විභාගයට ගත්තේය.
+
+සමගි ජන බලවේගය, ජාතික ජන බලවේගය, විකල්ප ප්‍රතිපත්ති කේන්ද්‍රය සහ පැෆ්රල් සංවිධානය විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබුණි.
+
+මෙම පෙත්සම් අද අගවිනිසුරු ජයන්ත ජයසූරිය මහතා ප්‍රමුඛ පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ යළි විභාගයට ගත්තේය.
+
+එහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් නෙරින් පුල්ලේ මහතා අධිකරණය හමුවේ කරුණු දක්වමින් අදාළ පළාත් පාලන ඡන්ද විමසීම පැවැත්වීම සඳහා දිනය නියම කර තිබූ වකවානුවෙන් රටෙහි විශාල ආර්ථික අර්බුදයක් පැවති බවත් ඒ පිළිබඳ මුදල් අමාත්‍යාංශය විසින් ජනතාව දැනුවත් කර තිබූ බවත් ය.
+
+ඒ පිළිබඳව මැතිවරණ කොමිසම ද දැනුවත් කිරීමට කටයුතු කළ බව කී අතිරේක සොලිසිටර් ජනරාල්වරයා පළාත් පාලන ඡන්ද විමසීම පනතට අනුව පළාත් පාලන ඡන්ද විමසීමක් පැවැත්වීමට බාධා පැමිණෙන අවස්ථාවක ඒ සම්බන්ධයෙන් කටයුතු කළ යුතු ප්‍රතිපාදන දක්වා තිබෙන බවත් පැවසීය.
+
+...
+
+[Data](articles/bb681f76.json)
+
+---
+
+### Lap gas price reduction
 
 *2024-04-01 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/180154) · `ta`
 
-லாப் சமையல் எரிவாயுவின் விலைகள் இன்று திங்கட்கிழமை (01) நள்ளிரவு முதல் குறைக்கப்படவுள்ளதாக லாப் நிறுவனம் தெரிவித்துள்ளது.
+Lap gas prices reduced from midnight Monday. 12.5 kg cylinder now 4,115 rupees, 5 kg cylinder now 1,652 rupees.
 
-அதன்படி 12.5 கிலோ கிராம் நிறையுடைய சமையல் எரிவாயு சிலிண்டரின் விலை 625 ரூபாவால் குறைக்கப்படவுள்ளதுடன் அதன் புதிய விலை 4,115 ரூபாவாகும்.
+🟩
 
-5 கிலோ கிராம் நிறையுடைய சமையல் எரிவாயு சிலிண்டரின் விலை 248 ரூபாவால் குறைக்கப்படவுள்ளதுடன் அதன் புதிய விலை 1,652 ரூபாவாகும்.
+Prices of Lap Cooking gas will be reduced from midnight on Monday (01), Lap Company said.
+
+Accordingly, the price of the cooking gas cylinder, which is 12.5 kg, will be reduced by 625 rupees and its new price is 4,115 rupees.
+
+The price of 5 kg of cooking gas cylinder will be reduced by 248 rupees and its new price is 1,652 rupees.
 
 ◼️
 
 [Data](articles/1fe7ce3f.json)
 
+[Extended Data](ext_articles/1fe7ce3f.ext.json)
+
 ---
 
-### විදෙස් ශ්‍රමිකයින් සඳහා ව්ද්‍යුත් වාහන ආනයනයේදී සිදුවන වංචා
+### Cheats in imports of vehicles for foreign workers
 
 *2024-04-01 15:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195176) · `si`
 
-විදෙස් ශ්‍රමිකයන් සඳහා විද්‍යුත් වාහන ආනයනය කිරීමේදී දූෂිත ක්‍රියා බොහොමයක් සිදුව ඇති බව මුදල් පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේ සභාපති, ආචාර්ය හර්ෂ ද සිල්වා මහතා පවසයි.
+Dr. Harsha de Silva, Chairman of the Parliamentary Committee on Finance, revealed corruption in the import of vehicles for foreign workers. A customs investigation found 9 out of 154 vehicles imported illegally, including a BMW from Germany. Despite the evidence, customs officials claimed ignorance, prompting a call for law changes.
 
-සභාපතිවරයා ඒ බව පැවසුවේ රජයේ මුදල් පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේ වාර්තාවක් ඉදිරිපත් කරමිනි.
+🟩
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ මුදල් පිළිබඳ පාර්ලිමේන්තු කාරක සභාවේ සභාපති ආචාර්ය හර්ෂ ද සිල්වා මහතා...
+The Chairman of the Parliamentary Committee on Finance Committee, Dr. Harsha de Silva says that many corrupt practices have occurred when most of the electrical vehicles for foreign workers.
+
+The Chairman made this statement on the Parliamentary Committee report on government currency.
+
+Chairman of the Parliamentary Committee on Finance Dr. Harsha de Silva ...
 
 ...
 
 [Data](articles/817a5b04.json)
+
+[Extended Data](ext_articles/817a5b04.ext.json)
 
 ---
 
@@ -2147,139 +2245,5 @@ The Department of Immigration and Emigration has summoned the officers of the De
 [Data](articles/cf7d603e.json)
 
 [Extended Data](ext_articles/cf7d603e.ext.json)
-
----
-
-### Karthik Flower No Magnetic Flower: We gave teachers "Subrise"
-
-*2024-04-01 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/180103) · `ta`
-
-During a Home Athletics Competition in Tellipala, Jaffna, a Karthik Flower and Military Vehicle display led to police questioning students and teachers about decorations. Students denied knowledge of the flower and its decoration, and the principal clarified that teachers had discussed the competition's decorations.
-
-🟩
-
-The Karthik Poo and Military Vehicle were displayed on Saturday at the Home Athletics Competition held at a school in Tellipala, Jaffna.
-
-Tellipallai police summoned some students and teachers to come to the police station on Sunday.
-
-While the three students were reported to have gone to the investigation, the police questioned that you had decorated the house and questioned that the teachers themselves had given suggestions.
-
-The students who responded at this time are not aware of the flower karthik flower as you say.
-
-Not only that, but once a year, we showed the rare flower to protect it.
-
-The police questioned the question that the teachers themselves were given the advice of your home decoration.
-
-The students who responded at this were not related to the teachers and the magnetic flower decoration.
-
-During this time, the students repeated the same response, even though the police were trying to tie the house decoration and school teachers in various ways
-
-...
-
-[Data](articles/fc2d0c61.json)
-
-[Extended Data](ext_articles/fc2d0c61.ext.json)
-
----
-
-### Person dies after fire
-
-*2024-04-01 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195157) · `si`
-
-A person died in a fire in Sakupitiya, Dehiattakandiya. The deceased set the fire in paddy fields.
-
-🟩
-
-A person was burned to fire in the Sakupitiya area in Dehiattakandiya police, police said.
-
-The deceased has left the house saying that the deceased was to set fire to the paddy fields.
-
-◼️
-
-[Data](articles/b11d3326.json)
-
-[Extended Data](ext_articles/b11d3326.ext.json)
-
----
-
-### Sri Lankan youngest National Chess Shuriya Ocean
-
-*2024-04-01 09:21:49* · [`adalk`](https://www.ada.lk/sports/ලංකාවේ-ළාබාලම-ජාතික-චෙස්-ශූරිය-ඕෂිනි/9-408871) · `si`
-
-Colombo Laked Liyanage won the women's championship in the Sri Lanka National Chess Championships. Gunawardena secured the National Chess title for the second time. The tournament, held from 22 to 31 March, featured intense competition, with notable performances from Liyanage, De Silva, and Gunawardena.
-
-🟩
-
-In the Sri Lanka National Chess Championships, Colombo Laked Liyanage won the women's championship.
-
-When the National Chessz Liyanage received 12 runs in the 13 match rooms, West obtained as the National Chess Chassy Gunawardena.
-
-The second time he was elected as Sri Lanka's national chess champion in Sri Lanka.
-
-It is also another specialty of Sri Lanka's national chess champion as crown.
-
-The first time at the first time in the crown of Sri Lanka as the Sri Lankan Chess Chaza, the Sri Lanka National Chess Chasshop is a Sri Lankan chess champion as Sri Lanka National Chess Chaser.
-
-Sri Lankan National Chess Chasor, the youngest chess player, who exceeds Sri Lankan chess championer in the University of Kelaniya and Hatton National Bank PLC.Especially noticeable.
-
-The Sri Lanka Chess Federation organized by the Sri Lankan Chess Federation was held at the Sports Medical Institution Auditorium from 22 to 31 March.
-
-...
-
-[Data](articles/733928dc.json)
-
-[Extended Data](ext_articles/733928dc.ext.json)
-
----
-
-### Woman murdered in a house
-
-*2024-04-01 09:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195156) · `si`
-
-A 52-year-old woman from Dankotuwa, Katukon, was found murdered in her home. Her son was seen with her the previous day. The suspect is still at large, and Dankotuwa Police are investigating.
-
-🟩
-
-Dankotuwa Katukada is a woman's neck prisoned in a house in the area.
-
-The victim was a 52 year old resident of Dankotuwa, Katukon.
-
-The woman had been with her son and residents of a house belonging to a tile factory in the area.
-
-The son had left his home yesterday morning and was seen in his mother in the morning.
-
-The suspect has not been arrested yet regarding the murder and Dankotuwa Police are conducting further investigations.
-
-◼️
-
-[Data](articles/893f4ab5.json)
-
-[Extended Data](ext_articles/893f4ab5.ext.json)
-
----
-
-### Illegal Liquor Production Center
-
-*2024-04-01 09:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/180102) · `ta`
-
-In Mannar-Manthai West, the Marutham Sports Club, with police support, seized illegal liquor production equipment. The culprits were warned against future illegal activities. Concerns arise over youth addiction to alcohol and the presence of illegal operations in the area.
-
-🟩
-
-The Gay Nagar Grama Niladhari Division in the Mannar - Manthai West Divisional Secretariat Division
-
-In the context of the police chief, the Marutham Sports Club of the village of Eichlakkai village took a stunning decision and joined the club and one of the journalists and the journalists in the area yesterday evening (31).
-
-During this time, the leak manufacturer fled.The illegal alcoholic beverages recovered by the group were handed over to the Adampan police.
-
-Moreover, the two men who were involved in the production of leaks were warned that they were going to carry out more illegal alcohol production and if they could catch and attack the holders.
-
-Residents of the area have expressed concern that the youths are addicted to the leaks of the school without the fact that the illegal activities are taking place in the area.
-
-◼️
-
-[Data](articles/cf8f7aa1.json)
-
-[Extended Data](ext_articles/cf8f7aa1.ext.json)
 
 ---

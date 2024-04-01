@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 15:52:16**
+As of **2024-04-01 16:03:54**
 
 ## Newspaper Stats
 
-*Scraped **16,383** Articles*
+*Scraped **16,384** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,57 @@ tamilmirrorlk | 1,959
 adaderanalk | 1,975
 virakesarilk | 2,330
 dailymirrorlk | 2,520
-adaderanasinhalalk | 2,654
+adaderanasinhalalk | 2,655
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,380 (100.0%) of 16,383 articles have been extended.
+16,383 (100.0%) of 16,384 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### வீட்டு நிர்மாணப் பணியின்போது மண்மேடு சரிந்து வீழ்ந்து ஒருவர் பலி
+### ගාසා ළමුන්ට ශ්‍රී ලංකාවෙන් ඩොලර් මිලියනයක්
+
+*2024-04-01 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195175) · `si`
+
+ගාසා තීරයේ ගැටුම්වලින් විපතට පත්වූ දරුවන් වෙනුවෙන් ශ්‍රී ලංකා රජයෙන් අමෙරිකානු ඩොලර් මිලියනයක පරිත්‍යාගයක් සිදුකර තිබේ.
+
+එම පරිත්‍යාගය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් එක්සත් ජාතීන්ගේ නිල නියෝජිතායතනය හරහා පලස්තීන රජය වෙත භාරදීම අද පෙරවරුවේ ජනාධිපති කාර්යාලයේදී සිදුකෙරිණි.
+
+ඊට අදාළ චෙක්පත ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ශ්‍රී ලංකාවේ සිටින පලස්තීන තානාපති ආචාර්ය සුහයිර් එම්.එච්. සෙයිඩ් (HE. Zuhair M.H. Dar Zaid) මහතා වෙත නිල වශයෙන් භාර දෙනු ලැබීය.
+
+මෙවර ඉෆ්තාර් සැමරුම පැවැත්වීම වෙනුවෙන් අමාත්‍යාංශ සහ රජයේ ආයතන විසින් වෙන් කර තිබූ ප්‍රතිපාදන ද මෙම අරමුදල වෙත ලබාදෙන ලෙස ජනාධිපතිවරයා කළ ඉල්ලීමට අනුව අරමුදල වෙත ලැබුණු ඇමරිකන් ඩොලර් මිලියනයක මුදල මෙලෙස පළමු අදියර යටතේ පලස්තීන රජය වෙත පරිත්‍යාග කිරීම සිදු කෙරිණි.
+
+එසේම “Children of Gaza Fund” අරමුදලට දායක වන ලෙස මෙරට පරිත්‍යාගශිලි ජනතාවගෙන් ජනාධිපති කාර්යාලය සිදු කළ ඉල්ලීම පරිදි රුපියල් මිලියන 20කට අධික මුදලක් මේ වන විට අරමුදල වෙත ලැබී ඇති අතර එම මුදල් ද ඉදිරියේ දී පලස්තීන රජය වෙත නිල වශයෙන් භාර දීමට නියමිතය.
+
+...
+
+[Data](articles/067d5b0c.json)
+
+---
+
+### During the construction of a house
 
 *2024-04-01 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180151) · `ta`
 
-பூஜாபிட்டிய கஹவத்த பிரதேசத்தில்  வீடு ஒன்றை நிர்மாணிப்பதற்காக  அத்திவாரம்  வெட்டி  தூண்களை  அமைத்துக் கொண்டிருந்த இருவர் மீது மண் மேடு சரிந்து வீழ்ந்ததில் ஒருவர் உயிரிழந்துள்ளதுடன் ஒருவர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+In Kahawatta, Poojapitiya, a mud collapse during house construction killed 54-year-old Jagath Wijesuriya and injured another. Both were rescued but one died, the other critically injured and transferred to Kandy National Hospital.
 
-பூஜாபிட்டிய திவானவத்த பகுதியைச் சேர்ந்த ஜகத் விஜேசூரிய என்ற 54 வயதுடைய நான்கு பிள்ளைகளின் தந்தையே  உயிரிழந்துள்ளார்.
+🟩
 
-பிரதேசவாசிகள் இருவரையும் மீட்டு அக்குறணை வைத்தியசாலைக்கு கொண்டு சென்ற போதிலும் ஒருவர் உயிரிழந்துள்ளதுடன், ஆபத்தான நிலையில் இருந்த மற்றைய நபர் கண்டி தேசிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+Police say one person has died and injured when a mud collapsed on two persons who were cutting down the foundation of the foundation for the construction of a house in the Kahawatta area of Poojapitiya.
+
+The father of four children aged 54, Jagath Wijesuriya, a resident of Diwanawatta, Poojapitiya, has died.
+
+Though the two residents were rescued and taken to the Akurana Hospital, one person died and the other person who was in critical condition has been transferred to the Kandy National Hospital.
 
 ◼️
 
 [Data](articles/756f1a9a.json)
+
+[Extended Data](ext_articles/756f1a9a.ext.json)
 
 ---
 
@@ -61,6 +87,8 @@ The announcement comes shortly after Litro Gas Lanka announced its decision to r
 ◼️
 
 [Data](articles/e5b19c42.json)
+
+[Extended Data](ext_articles/e5b19c42.ext.json)
 
 ---
 
@@ -88,19 +116,25 @@ The price of a 5kg of LAUGFS gas cylinder has decided to detect the price of Rs.
 
 ---
 
-### வவுனியா சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்த கைதியொருவர் வைத்தியசாலையில் மரணம்
+### A prisoner who was detained at the Vavuniya Prison dies in hospital
 
 *2024-04-01 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180147) · `ta`
 
-வவுனியா சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்த கைதி ஒருவர் வவுனியா வைத்தியசாலையில் நேற்று ஞாயிற்றுக்கிழமை (31) மாலை மரணமடைந்துள்ளார்.
+A 34-year-old prisoner from Vavuniya Prison died at Vavuniya Hospital after being treated for a heart attack.
 
-குற்றச் செயல் ஒன்று தொடர்பில் வவுனியா சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்த கைதி ஒருவருக்கு உடல் நலக் குறைவு ஏற்பட்டதையடுத்து சிறைச்சாலை உத்தியோகத்தர்களால் வவுனியா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளார்.
+🟩
 
-வைத்தியசாலையில் குறித்த கைதிக்கு சிகிச்சை வழங்கப்பட்ட போதும் அவர் சிகிச்சை பலனின்றி மரணமடைந்துள்ளார். மாரடைப்பு காரணமாகவே குறித்த மரணம் இடம்பெற்றுள்ளதாக வைத்தியர்கள் தெரிவித்துள்ளனர்.  ஜாஎல பகுதியைச் சேர்ந்த 34 வயது இளைஞரே இவ்வாறு மரணமடைந்தவராவார்.
+A prisoner who was detained at the Vavuniya Prison died at the Vavuniya Hospital on Sunday evening.
+
+A prisoner who was detained at the Vavuniya Prison has been taken to the Vavuniya Hospital by the Prison Officers.
+
+Despite being treated for the prisoner at the hospital, he died without treatment. Doctors said the death was caused by a heart attack.The 34 -year -old youth from the Ja Ela area is the deceased.
 
 ◼️
 
 [Data](articles/189d0943.json)
+
+[Extended Data](ext_articles/189d0943.ext.json)
 
 ---
 
@@ -2265,27 +2299,5 @@ The distance from Ramadhattiva Island in South India is close to 24 km from Jaff
 [Data](articles/cc7a886e.json)
 
 [Extended Data](ext_articles/cc7a886e.ext.json)
-
----
-
-### Construction sector activities gather momentum as infrastructure projects return
-
-*2024-04-01 09:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Construction-sector-activities-gather-momentum-as-infrastructure-projects-return/108-279919) · `en`
-
-Sector remains upbeat about future due to higher availability of projects
-
-The construction sector, which picked up at the start of the year, is seen gathering pace as the Purchasing Manager’s Index (PMI) compiled only for the sector showed continued expansion in February.
-
-The widely watched index which provides a close barometer of how vibrant the construction sector activities are, recorded 57.1 index points for February, up from 52.9 index points in January.
-
-The respondents who participated in the monthly survey conducted by the Central Bank had attributed this to the current conducive business environment and the resumption of several temporarily suspended projects.
-
-They in particular singled out the large scale infrastructure projects, particularly the ones which are foreign funded are now coming for bidding at the tenders.
-
-...
-
-[Data](articles/30f86b77.json)
-
-[Extended Data](ext_articles/30f86b77.ext.json)
 
 ---

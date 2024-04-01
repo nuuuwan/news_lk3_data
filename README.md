@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 20:51:01**
+As of **2024-04-01 21:03:13**
 
 ## Newspaper Stats
 
-*Scraped **16,453** Articles*
+*Scraped **16,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,60 @@ adalk | 1,385
 tamilmirrorlk | 1,960
 adaderanalk | 1,981
 virakesarilk | 2,346
-dailymirrorlk | 2,530
+dailymirrorlk | 2,531
 adaderanasinhalalk | 2,665
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,451 (100.0%) of 16,453 articles have been extended.
+16,453 (100.0%) of 16,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### විශ්‍රාමික යුද හමුදා නිලධාරියෙකු අත්අඩංගුවට
+### Tax concessions lead to Rs 978 bn foregone revenue in FY 2022/23
+
+*2024-04-01 20:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tax-concessions-lead-to-Rs-978-bn-foregone-revenue-in-FY-202223/108-279977) · `en`
+
+Colombo, April 01 -  For the fiscal year 2022/23 (April to March), tax concessions resulted in a total of LKR 978 billion in foregone revenue, the government reported yesterday (31 March).
+
+The foregone revenue amounts to 56% of the total tax revenue collected by the government in 2022.
+
+This was highlighted by PublicFinance.lk, Sri Lanka’s premier economic insights platform, maintained by Verité Research.
+
+The source was a document titled “Tax Expenditure Statement” published on March 31, 2024 by the Ministry of Finance of Sri Lanka.
+
+The document reports the government’s estimates of the total revenue foregone due to various special targeted tax concessions provided by the country. The disclosure states its purpose as “to improve transparency in Sri Lanka’s financial reporting, aligned with international best practices”.
+
+...
+
+[Data](articles/f9c15a9b.json)
+
+---
+
+### A retired army officer arrested
 
 *2024-04-01 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195185) · `si`
 
-අලෙවි කිරීම සඳහා සූදානම් කර තිබූ ගජමුතු 4ක් සමග විශ්‍රාමික යුද හමුදා නිලධාරියෙකු බේරුවල පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A 50-year-old retired army officer from Dharga town was arrested by Beruwala Police for planning to sell 4 Gajamunamu for Rs. 4 crores.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 50 හැවිරිදි වියේ පසුවන දර්ගා නගරයේ පදිංචි විශ්‍රාමික යුද හමුදා නිලධාරියෙකි.
+🟩
 
-පොලීසිය පවසන්නේ සැකකරු විසින් ගජමුතු 4 රුපියල් කෝටි දෙකකට ආසන්න මුදලකට අලෙවි කිරීමට සැලසුම් කර ඇති බවය.
+Beruwala Police have arrested four previous gajamuthu, with four instruments.
 
-සැකකාර විශ්‍රාමික යුද හමුදා නිලධාරියා කළුතර මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
+The arrested army officer from a 50-year-old retirement army officer who was 50-year-old Dharga town.
+
+Police state the suspect is planning to sell 4 Gajamunamu 4 crores for nearly Rs.
+
+The suspect was due to be produced before the Kalutara Magistrate's Court.
 
 ◼️
 
 [Data](articles/5a0c46d5.json)
+
+[Extended Data](ext_articles/5a0c46d5.ext.json)
 
 ---
 
@@ -95,6 +121,8 @@ However the woman was adamant she needed to send the money to her "boyfriend" fo
 ...
 
 [Data](articles/8def5b0c.json)
+
+[Extended Data](ext_articles/8def5b0c.ext.json)
 
 ---
 
@@ -2239,29 +2267,5 @@ Vidura Vikramanayake, Prasanna Ranavira, Gayantha Karunathilaka, (Prof.). Sujit 
 [Data](articles/513cc45b.json)
 
 [Extended Data](ext_articles/513cc45b.ext.json)
-
----
-
-### Sri Lanka’s Litro Gas cuts price on rupee appreciation, stock management
-
-*2024-04-01 12:37:00* · [`economynextcom`](https://economynext.com/sri-lankas-litro-gas-cuts-price-on-rupee-appreciation-stock-management-156763/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s Litro Gas has cut prices of liquefied petroleum gas helped by an strengthening rupee and better stock management, an official said.
-
-“We use an on the spot stock management system,” Litro Gas Brand Development Manager, Varaveswaran Ketheeswaran, told EconomyNext on Monday. “We look at the advanced trends and then order stocks. That and the dollar appreciation has caused prices to fall.”
-
-The new price of a 12.5 kilo gas cylinder has been reduced by 135 rupees to 4,115 rupees while a 5 kilo cylinder will be reduced by 55 rupees to 1,652 rupees.
-
-2.3 kilo cylinder will be reduced by 23 rupees to 772 rupees.
-
-Saudi Aramco contract price for propane was raised to 630 dollar a tonne in February 2024 and left unchanged in March.
-
-The butane price was also raised by 10 dollars to 640 dollars and left unchanged in March. (Colombo/Ap1/2024)
-
-◼️
-
-[Data](articles/745dc07c.json)
-
-[Extended Data](ext_articles/745dc07c.ext.json)
 
 ---

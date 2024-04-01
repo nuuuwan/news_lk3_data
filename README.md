@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 14:18:14**
+As of **2024-04-01 14:33:50**
 
 ## Newspaper Stats
 
-*Scraped **16,367** Articles*
+*Scraped **16,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ tamilmirrorlk | 1,957
 adaderanalk | 1,973
 virakesarilk | 2,326
 dailymirrorlk | 2,518
-adaderanasinhalalk | 2,650
+adaderanasinhalalk | 2,651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,366 (100.0%) of 16,367 articles have been extended.
+16,367 (100.0%) of 16,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### මාස 3ට සංචාරකයින් ලක්ෂ 6 ඉක්මවයි
+
+*2024-04-01 14:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195171) · `si`
+
+මාර්තු මසයේ 31 වනදා වන විට මෙම වසර සඳහා  සංචාරකයින්  635,784 මෙරටට පැමිණ ඇති බව සංචාරක අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+
+ඒ අනුව 2024 මුල් මාස 3දී සෑම මසකම සංචාරකයින් ලක්ෂ 2කට වැඩි ප්‍රමාණයක් මෙරටට පැමණ තිබේ.
+
+◼️
+
+[Data](articles/de622097.json)
+
+---
 
 ### Katchatheevu neither acquired nor ceded, lies in Sri Lankan maritime area – UBT leader
 
@@ -89,6 +103,8 @@ Addressing the media today, he said private buses are operating while incuring a
 ...
 
 [Data](articles/7048f1f2.json)
+
+[Extended Data](ext_articles/7048f1f2.ext.json)
 
 ---
 
@@ -2283,29 +2299,5 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 [Data](articles/eed73110.json)
 
 [Extended Data](ext_articles/eed73110.ext.json)
-
----
-
-### Crocodile attack
-
-*2024-04-01 04:44:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலை-தாக்கி-பெண்-பலி/175-335430) · `ta`
-
-A 66-year-old woman from Likolawewa, Siyambalangamuwa, died after being attacked by a crocodile in the Kalanguttiva River. Residents rescued her and took her to Thambuttegama hospital.
-
-🟩
-
-Megaleva police said that a woman who was drowned in the Kalanguttiva River has been attacked by a crocodile.
-
-A 66 -year -old woman from Likolawewa, Siyambalangamuwa area has died.
-
-Police said the incident occurred when the woman was drowned in the river.
-
-It is reported that the residents of the area rescued the woman and taken to the Thambuttegama hospital.. (A)
-
-◼️
-
-[Data](articles/401b78b8.json)
-
-[Extended Data](ext_articles/401b78b8.ext.json)
 
 ---

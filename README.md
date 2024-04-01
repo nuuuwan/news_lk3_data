@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 22:18:10**
+As of **2024-04-01 22:34:16**
 
 ## Newspaper Stats
 
-*Scraped **16,468** Articles*
+*Scraped **16,470** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ dailyftlk | 881
 economynextcom | 908
 islandlk | 913
 adalk | 1,387
-tamilmirrorlk | 1,961
+tamilmirrorlk | 1,963
 adaderanalk | 1,983
 virakesarilk | 2,347
 dailymirrorlk | 2,535
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,460 (100.0%) of 16,468 articles have been extended.
+16,468 (100.0%) of 16,470 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,59 +48,111 @@ Siyambalapitiya further states that the law will be implemented to the letter ag
 
 [Data](articles/8ff2cfd8.json)
 
+[Extended Data](ext_articles/8ff2cfd8.ext.json)
+
 ---
 
-### இலங்கையில் அதிகரிக்கும் ஏஜ்.ஐ.வி/ எயிட்ஸ் நோய்த்தாக்கம்
+### கலால் அதிகாரிகள் தொடர்பில் அதிரடி நடவடிக்கை
+
+*2024-04-01 22:02:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலால்-அதிகாரிகள்-தொடர்பில்-அதிரடி-நடவடிக்கை/175-335484) · `ta`
+
+கேரள கஞ்சாவுடன் பொலிஸாரால் கைது செய்யப்பட்ட கலால் அதிகாரிகளை பணி இடைநீக்கம் செய்ய நடவடிக்கை எடுக்கப்பட்டுள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய அறிக்கை ஒன்றை வௌியிட்டு குறிப்பிட்டுள்ளார்.
+
+இது தொடர்பில் விசேட விசாரணைகளை மேற்கொள்ளுமாறு உரிய அதிகாரிகளுக்கு உத்தரவிட்டுள்ளதாகவும் நிதி இராஜாங்க அமைச்சர் அந்த அறிக்கையில் மேலும் குறிப்பிட்டுள்ளார்.
+
+அத்துடன், விசாரணைகளின் பின்னர், இந்தச் செயலில் ஈடுபட்டுள்ள அனைத்து அதிகாரிகளுக்கும், தரம் பாராமல் சட்டத்தை அமுல்படுத்த நடவடிக்கை எடுக்கப்படும் எனவும் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/67fc895b.json)
+
+---
+
+### Increased AGIV/ AIDS infection in Sri Lanka
 
 *2024-04-01 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/180190) · `ta`
 
-உலகின் சவால் மிக்க தொற்றுநோய்களுள் ஏஜ்.ஐ.வி மற்றும் எயிட்ஸ் பாதிப்பு முக்கியமானதாக இனங்காணப்படுகிறது. உலகம் முழுவதும்  இத் தொற்றினால்  பாதிக்கப்படுபவர்களின் எண்ணிக்கையில்  சடுதியான அதிகரிப்பை காணமுடிகிறது. நவீன மருத்துவ சிகிச்சை முறைகளும், விழிப்புணர்வும் தொற்றுடன் வாழ்பவர்களுக்கு தன்நம்பிக்கையையும் வாழ்க்கைத் தரத்தையும் அதிகரித்திருந்தாலும்,  தொற்றாளர்களின் அதிகரிப்பு இன்னும் அவசியமான திட்டங்களுக்கான  தேவையை உணர்த்துகிறது.
+AGIV/AIDS infection rates in Sri Lanka have risen, with 607 new cases in 2022, up from 5,011 total infections. Deaths from AGIV/AIDS-related factors in 2022 were 660,000 globally, with 271 in Sri Lanka. Despite declining deaths in 2023, the number of infections increased by 13%. Sri Lanka aims to end AIDS by 2030, but challenges remain due to insufficient sex education and awareness.
 
-உலக சுகாதார  ஸ்தாபனத்தின் அறிக்கையின் படி 2022 ஆம்  ஆண்டின் இறுதியில்  39 மில்லியன் பேர் தொற்றுடன் வாழ்கின்றனர். இவர்களில் 1.5 மில்லியன் பேர் சிறுவர்கள்.  மேலும் சம வருடத்தில் 1.3 புதிய தொற்றாளர்கள் இனங்காணப்பட்டுள்ளனர் .  மொத்த தொற்றாளர்களின் எண்ணிக்கையில் 53 வீதமானவர்கள் பெண்கள். 2022 ஆம் ஆண்டில் ஏஜ்.ஐ.வி / எயிட்ஸ் தொடர்பான காரணிகளால் 630000 இறப்புகள் சம்பவித்துள்ளன. 2010 முதல் எய்ட்ஸ் தொடர்பான  இறப்பு  பெண்கள் மற்றும் சிறுமிகளிடம் 55% ஆகவும், ஆண்கள் மற்றும் சிறுவர்களிடையே 47% ஆகவும் குறைந்துள்ளது .
+🟩
+
+AGIV and AIDS are identified as important in the world's most challenging infections. The number of people who suffer from this infection all over the world can be seen as a mutant increase. Although modern medical treatment and awareness have increased their self -confidence and quality of life, the increase of infectious people makes the need for more essential programs.
+
+According to the World Health Organization's report, 39 million people live infected by the end of 2022. Of these, 1.5 million are boys.More than 1.3 new infections have been identified in the equal year.53 percent of the total number of infectious women. 630000 deaths due to AGIV / AIDS related factors in 2022. Since 2010, AIDS -related deaths have declined to 55% for women and girls and 47% among men and children.
 
 ...
 
 [Data](articles/be6ec271.json)
 
+[Extended Data](ext_articles/be6ec271.ext.json)
+
 ---
 
-### ලෝකෙම කතාවෙන මතීෂ පියඹා ඇල්ලූ උඩ පන්දුව
+### The upper ball to fly the game of the world's speech
 
 *2024-04-01 21:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195188) · `si`
 
-IPL තරගාවලියේ ඊයේ පැවති තරගයකදී මතීෂ රැකගත් විශිෂ්ට උඩපන්දුවක් ගැන ලොවපුරා සුවිශේෂී කතාබහක් ඇතිවී තිබේ.
+In yesterday's IPL match, Visual Pathira defended well, with David Warner scoring 52 runs in 35 balls, and Pathirana took 3 wickets in 33 runs.
 
-මතීෂ පතිරණ මෙලෙස විශිෂ්ට ලෙස උඩ පන්දුවක් රැකගනිමින් ක්‍රීඩාගාරයට හරවා යවන්නේ ප්‍රබල ඔස්ට්‍රේලියානු ප්‍රහාරක පිතිකරුවෙකු වන ඩේවිඩ් වෝනර් වීම විශේෂත්වයකි.
+🟩
 
-ඩේවිඩ් වෝනර් දැවී යනවිට පන්දු 35කදී ලකුණු 52ක් රැස්කරගෙන සිටියේය.
+An excellent conversation of the IPL was a significant conversation in the world in a competition held yesterday.
 
-පන්දුවෙන්ද දස්තම් දැක්වූ පතිරණ සුපිරි පන්දු යැවීමක ලකුණු 33කට දවාගත් කඩුලු සංඛ්‍යාව 3කි.
+Visual Pathira is diverted to the stadium, defending a great ball with a great ball.
+
+David Warner scored 52 runs in 35 balls.
+
+Pathirana, a winning Pathirana was 3 wickets in 33 runs.
 
 ◼️
 
 [Data](articles/ef69a927.json)
 
+[Extended Data](ext_articles/ef69a927.ext.json)
+
 ---
 
-### KG සමග කොටුවූ සුරාබදු නිලධාරීන්ගේ වැඩ තහනම්
+### வவுனியா சிறையில் தடுத்து வைக்கப்பட்டிருந்த ஜா-எல நபர் மரணம்
+
+*2024-04-01 21:47:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுனியா-சிறையில்-தடுத்து-வைக்கப்பட்டிருந்த-ஜா-எல-நபர்-மரணம்/175-335471) · `ta`
+
+வவுனியா சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்த கைதி ஒருவர் நேற்று (31) மாலை வவுனியா வைத்தியசாலையில் மரணமடைந்துள்ளார்.
+
+குற்றச் செயல் ஒன்று தொடர்பில் வவுனியா சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்த கைதி ஒருவருக்கு உடல் நலக் குறைவு ஏற்பட்டதையடுத்து சிறைச்சாலை உத்தியோகத்தர்களால் வவுனியா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளார்.
+
+வைத்தியசாலையில் குறித்த கைதிக்கு சிகிச்சை வழங்கப்பட்ட போதும் அவர் சிகிச்சை பலனின்றி மரணமடைந்துள்ளார்.
+
+◼️
+
+[Data](articles/86279658.json)
+
+---
+
+### Work on Excise Officers trapped with kg suspended
 
 *2024-04-01 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195187) · `si`
 
-කේරළ ගංජා සමග පොලීසිය විසින් අත්අඩංගුවට ගත් සුරාබදු නිලධාරීන්ගේ වැඩ තහනම් කිරීමට පියවර ගෙන තිබේ.
+Kerala: Excise Officers arrested with 45kg cannabis. Ranjith Siyambalapitiya orders investigation. Minister of Finance promises legal action.
 
-මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කර ඇත.
+🟩
 
-එම නිවේදනයන් මුදල් රාජ්‍ය අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කර ඇත්තේ මේ සම්බන්ධයෙන් විශේෂ පරීක්ෂණයක් සිදුකිරීම සඳහා අදාළ බලධාරීන්ට නියෝග කළ බවය.
+Steps have been taken to ban the work of the Excise Officers arrested by police with Kerala cannabis.
 
-එසේම පරීක්ෂණවලින් අනතුරුව මෙම ක්‍රියාවට සම්බන්ධ සියලු නිලධාරීන්ට එරෙහිව තරාතිරම නොබලා නීතිය අකුරටම ක්‍රියාත්මක කිරීමට පියවර ගන්නා බවද මුදල් රාජ්‍ය අමාත්‍යවරයා සඳහන් කර තිබේ.
+The Minister of State Ranjith Siyambalapitiya has issued a statement.
 
-කේරළ ගංජා තොගයක් සමග සුරාබදු නිලධාරීන් සිව්දෙනෙකු ඇතුළු සැකකරුවන් 08 දෙනෙකු අත්අඩංගුවට ගනු ලැබුවේ පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය විසින් මීගමුව සහ හලාවත ප්‍රදේශ ආශ්‍රිතව සිදුකළ වැටලීමකදීය.
+The State Minister further stated that the relevant authorities have ordered the authorities to conduct a special investigation into the matter.
 
-මෙහිදී සොයාගෙන ඇති කේරළ ගංජා ප්‍රමාණය කිලෝ 45කට ආසන්න බව පොලීසිය පැවසීය.
+The Minister of Finance said that steps will be taken to implement the lawlessly against all the officials involved in the incident.
+
+Four of Excise Officers and eight suspects were arrested by the Police Narcotics Bureau with a stock of Kerala cannabis.
+
+The number of Kerala cannabis is nearly 45 kilograms.
 
 ◼️
 
 [Data](articles/7ef92b3b.json)
+
+[Extended Data](ext_articles/7ef92b3b.ext.json)
 
 ---
 
@@ -122,21 +174,27 @@ The Finance State Minister further announced that following the distribution of 
 
 ---
 
-### දෙහිවල ගුවන් පාලමේදී මෝටර් රථයක් ගිනිගනී
+### A car offspring in Dehiwala flyover
 
 *2024-04-01 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195186) · `si`
 
-දෙහිවල ගුවන් පාලම මතදී මෝටර් රථයක් එක්වරම ගිනිගැනීමට ලක්වීමෙන් අද රාත්‍රියේ අනතුරක් සිදුවිය.
+A car on Dehiwala flyover caught fire, saving lives by ejecting the driver. Firefighters from Dehiwala-Mount Lavinia Municipal Council are extinguishing the blaze.
 
-එම අවස්ථාවේ මෝටර් රථයේ ගමන්කරමින් සිටි පුද්ගලයා ඉන් පිටතට පැන දිවි බේරාගැනීමට සමත්ව ඇත.
+🟩
 
-දෙහිවල ගල්කිස්ස මහනගර සභාවේ ගිනි නිවීමේ ඒකකයේ රථ දෙකක් පැමිණ ගින්න නිවාදැමීමට කටයුතු කර තිබුණි.
+On the flyover of the Dehiwala flyover, a car was burning tonight.
 
-මෝටර් රථයේ ඇතිවූ විදුලි කාර්මික දෝෂයක් මෙම ගින්නට හේතුවන්නට ඇති බවට සැක පළකරයි.
+At that time, the man who was traveling in the car was dropped out and save lives.
+
+Two vehicles in the Dehiwala-Mount Lavinia Municipal Council have come to resume the fire.
+
+The fire has been caused by the fire.
 
 ◼️
 
 [Data](articles/01948965.json)
+
+[Extended Data](ext_articles/01948965.ext.json)
 
 ---
 
@@ -1204,6 +1262,8 @@ The CoPF, in its report recommended that an independent committee be appointed b
 
 [Data](articles/a2fcb066.json)
 
+[Extended Data](ext_articles/a2fcb066.ext.json)
+
 ---
 
 ### President appoints independent committee to review CBSL salary hikes
@@ -2199,53 +2259,5 @@ Fitch Affirms AMW Capital Leasing and Finance at ‘BBB(lka)’; Outlook Remains
 [Data](articles/7be5b63a.json)
 
 [Extended Data](ext_articles/7be5b63a.ext.json)
-
----
-
-### A court ban on the removal of three from the Sri Lanka Freedom Party (SLFP) executive committee
-
-*2024-04-01 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180131) · `ta`
-
-The Colombo District Court issued an interim injunction to remove Duminda Dissanayake, Lasantha Alagavanna, and Mahinda Amaraweera from the Sri Lanka Freedom Party (SLFP) Executive Committee. KP Gunawardena replaced Dissanayake, and Mahinda Amaraweera replaced Lasantha Alagavanna.
-
-🟩
-
-The Colombo District Court has issued an interim injunction to remove Duminda Dissanayake, Lasantha Alagavanna and Mahinda Amaraweera from the Sri Lanka Freedom Party Executive Committee.
-
-Duminda Dissanayake, Lasantha Alagavanna and Mahinda Amaraweera were removed from the posts of the Sri Lanka Freedom Party (SLFP).
-
-The Sri Lanka Freedom Party (SLFP) executive meeting was held at the party headquarters that day and these decisions were taken.
-
-Accordingly, Mahiyanganaya constituency organizer KP Gunawardena has been appointed to replace Duminda Dissanayake, who was sacked from the National Organizer of the Sri Lanka Freedom Party.
-
-In addition, former Western Provincial Council Minister Hector Bethmage and Sarath Ekanayake were replaced by Senior Vice President Mahinda Amaraweera instead of Lasantha Alagavanna, who was sacked from the post of Treasurer.
-
-◼️
-
-[Data](articles/12a23d1b.json)
-
-[Extended Data](ext_articles/12a23d1b.ext.json)
-
----
-
-### Uncertainty looms over Presidential Election date amidst IMF program and political demands
-
-*2024-04-01 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98345/uncertainty-looms-over-presidential-election-date-amidst-imf-program-and-political-demands) · `en`
-
-The preliminary arrangements required to hold the presidential election have been completed, according to the Election Commission.
-
-Nevertheless, internal sources within the government revealed that President Ranil Wickremesinghe informed the Cabinet of Ministers and the Election Commission that no election will take place before the month of July, as the country’s debt restructuring programme under the International Monetary Fund (IMF) will be in progress until July.
-
-However, the Presidential Election is required to be held within this year, as per the Constitution.
-
-Last week, reports claimed that the presidential election will possibly take place in the period between end-September to early-October this year.
-
-Meanwhile, a member of the Election Commission stated that an amount of Rs. 10 billion has been allocated from the budget for holding the elections this year, and that all Assistant Election Commissioners have been informed regarding the preparation activities to hold the election.
-
-...
-
-[Data](articles/ec71fa15.json)
-
-[Extended Data](ext_articles/ec71fa15.ext.json)
 
 ---

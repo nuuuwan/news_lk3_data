@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 19:33:51**
+As of **2024-04-01 19:50:59**
 
 ## Newspaper Stats
 
-*Scraped **16,446** Articles*
+*Scraped **16,448** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,55 @@ islandlk | 912
 adalk | 1,384
 tamilmirrorlk | 1,960
 adaderanalk | 1,981
-virakesarilk | 2,343
-dailymirrorlk | 2,528
+virakesarilk | 2,344
+dailymirrorlk | 2,529
 adaderanasinhalalk | 2,664
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,442 (100.0%) of 16,446 articles have been extended.
+16,446 (100.0%) of 16,448 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### Visa-free entry extended to visitors from seven countries including India, Russia
+
+*2024-04-01 19:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Visa-free-entry-extended-to-visitors-from-seven-countries-including-India-Russia/108-279975) · `en`
+
+Colombo, April 1 (Daily Mirror) - The pilot project that allows visa-free entry to visitors from seven countries, which includes India, China and Russia has been extended till April 30, 2024, Minister of Tourism Harin Fernando said.
+
+He said that a final decision regarding the matter will be taken during the next few weeks of the pilot project.
+
+In October last year, the Cabinet approved visa-free entry to visitors from India, China, Russia, Malaysia, Japan, Indonesia and Thailand as a pilot project till 31 March 2024.
+
+◼️
+
+[Data](articles/6de6fff6.json)
+
+---
+
+### இரண்டாவது இன்னிங்ஸில் தடுமாற்றத்துக்கு மத்தியில் பலமான நிலையில் இலங்கை
+
+*2024-04-01 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180187) · `ta`
+
+சட்டோக்ராம், ஸஹுர் அஹ்மத் சௌதரி விளையாட்டரங்கில் நடைபெற்றுவரும் பங்களாதேஷுக்கு எதிரான ஐசிசி டெஸ்ட் சம்பியன்ஷிப் தொடரின் இரண்டாவது போட்டியின் 3ஆம் நாள் ஆட்ட நேர முடிவில் 455 ஓட்டங்களால் இலங்கை முன்னிலையில் இருக்கிறது.
+
+முதலாவது இன்னிங்கில் 6 துடுப்பாட்ட வீரர்கள் பெற்ற அரைச் சதங்களின் உதவியுடன் 531 ஓட்டங்களைக் குவித்த இலங்கை, பங்களாதேஷை அதன் முதல் இன்னிங்ஸில் 178 ஓட்டங்களுக்கு கட்டுப்படுத்தியது.
+
+பங்களாதேஷை 3ஆவது தொடர்ச்சியான தடவையாக 190 ஓட்டங்களுக்குள் இலங்கை கட்டுப்படுத்தியமை குறிப்பிடத்தக்க ஓர் அம்சமாகும். முதலாவது போட்டியில் பங்களாதேஷ் 2 இன்னிங்ஸ்களிலும் முறையே 188 ஓட்டங்களையும் 182 ஓட்டங்களையும் பெற்றது.
+
+அசித்த பெர்னாண்டோ, லிஹரு குமார, விஷ்வா பெர்னாண்டோ, ப்ரபாத் ஜயசூரிய ஆகியோர் திறமையாக பந்துவீசி பங்களாதேஷுக்கு நெருக்கடியைக் கொடுத்தனர்.
+
+இரண்டாவது டெஸ்டில் முதல் இன்னிங்ஸ் நிறைவில் 353 ஓட்டங்களால் முன்னிலையில் இருந்த இலங்கை, இரண்டாவது இன்னிங்ஸில் தடுமாற்றத்தை  எதிர்கொண்டது.
+
+...
+
+[Data](articles/9d80f9a3.json)
+
+---
 
 ### Pakistan court suspends Imran Khan’s prison sentence in state gifts case
 
@@ -50,29 +86,37 @@ The case was brought by Pakistan’s anticorruption agency, which accused Khan a
 
 [Data](articles/ac79bf28.json)
 
+[Extended Data](ext_articles/ac79bf28.ext.json)
+
 ---
 
-### කටුනායකට ඉන්ධන රැගෙන ගිය දුම්රිය බිහිසුණු අනතුරකට ලක්වෙයි
+### The train carrying fuel to Katunayake is in a terrible accident
 
 *2024-04-01 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195184) · `si`
 
-රාගම පේරලන්ද පල්ලිය ආසන්නයේ දුම්රිය හරස් මාර්ගයකදී ලොරි රථයක් දුම්රියක ගැටීමෙන් බිහිසුණු අනතුරක් සිදුව තිබේ.
+A train carrying fuel crashed near Peralanda Church, injuring many and causing serious damage to the lorry. The driver and owner also suffered injuries. Police are investigating.
 
-අනතුරින් තුවාල ලැබූ ලොරි රථයේ රියදුරු සහ සහායක ප්‍රතිකාර සඳහා රෝහල්ගතකර තිබේ.
+🟩
 
-එසේම දුම්රිය එන්ජින් රියදුරුද මෙම අනතුර හේතුවෙන් සුළු තුවාල ලබා ඇති බව පොලීසිය පැවසීය.
+The terrible injury was crashing on a train near the Peralanda Church near the Peralandan Church.
 
-ඒ ආසන්නයේ තිබූ එළවළු වෙළෙඳසැලකට අනතුරින් බරපතළ හානි සිදුව ඇති අතර එම අවස්ථාවේ එහි හිමිකරු එය වසාදමා පිටව ගොස් තිබීමෙන් විශාල අනතුරක් වැළකී තිබුණි.
+The injured have been hospitalized for the treatment of the lorry and assistant treatments of the lorry.
 
-කොළොන්නාව සිට කටුනායක ගුවන්තොටුපොළ දක්වා ඉන්ධන ප්‍රවාහනය කරමින් තිබූ දුම්රියක් මෙලෙස අනතුරට ලක්ව ඇත.
+The rank engine driver also suffered minor injuries due to the accident.
 
-අනතුරින් දුම්රිය එන්ජිමට හානි සිදුව ඇති අතර ලොරි රථයට බරපතළ හානි සිදුව ඇති බව පොලීසිය පවසයි.
+The owner was seriously damaged in the accident, while the owner had closed it and had a great risk.
 
-රාගම පොලීසිය අනතුර සම්බන්ධයෙන් මේ වනවිට වැඩිදුර විමර්ශන ආරම්භ කර තිබේ.
+A train transporting fuel from Kolonnawa to Katunayake airport, a train was crashed.
+
+The lorry was damaged in the accident and the lorry was seriously damaged, police said.
+
+The Ragama Police are conducting further investigations into the accident.
 
 ◼️
 
 [Data](articles/86e3f5f9.json)
+
+[Extended Data](ext_articles/86e3f5f9.ext.json)
 
 ---
 
@@ -82,6 +126,8 @@ The case was brought by Pakistan’s anticorruption agency, which accused Khan a
 
 Eight persons including 04 officers of the Excise Department have been arrested by Police Narcotics Bureau (PNB) along with 45 kg of Kerala cannabis from Negombo and Chilaw areas, the police said.
 
+Meanwhile, a van belonging to the Excise Department in which the arrested officers were travelling has also been taken to police custody.
+
 ◼️
 
 [Data](articles/440bfbca.json)
@@ -90,19 +136,25 @@ Eight persons including 04 officers of the Excise Department have been arrested 
 
 ---
 
-### කේරළ ගංජා සමග සුරාබදු නිලධාරීන් පිරිසක් අත්අඩංගුවට
+### Excise persons arrested with Kerala cannabis
 
 *2024-04-01 18:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195183) · `si`
 
-කේරළ ගංජා තොගයක් සමග සුරාබදු නිලධාරීන් සිව්දෙනෙකු ඇතුළු සැකකරුවන් 08 දෙනෙකු පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Police arrest 4 Excise Officers and 8 suspects in Kerala for cannabis possession. Nearly 45 kg of Kerala cannabis found during raids in Negombo and Chilaw.
 
-පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය විසින් මීගමුව සහ හලාවත ප්‍රදේශ ආශ්‍රිතව සිදුකළ වැටලීමකදී මෙම සැකකරුවන් පිරිස අත්අඩංගුවට ගෙන තිබේ.
+🟩
 
-මෙහිදී සොයාගෙන ඇති කේරළ ගංජා ප්‍රමාණය කිලෝ 45කට ආසන්න බව පොලීසිය පවසයි.
+Four of Excise Officers and eight suspects have been arrested by police including Kerala cannabis.
+
+The suspects were arrested following a raid on Negombo and Chilaw areas by the Police Narcotics Bureau.
+
+The number of Kerala cannabis has been found nearly 45 kilograms.
 
 ◼️
 
 [Data](articles/7fefb3d0.json)
+
+[Extended Data](ext_articles/7fefb3d0.ext.json)
 
 ---
 
@@ -322,21 +374,27 @@ Islamabad High Court said that the couple’s graft sentence will remain suspend
 
 ---
 
-### කෝටි 2 කට විකුණන්න සුදානම්වු ගජමුතු 4 සමග යුද හමුදා හිටපු බලලත් නිලධාරීයෙකු අත්අඩංගුවට
+### Army authorities arrested with 4 Gajamuthu to sell for 2 million
 
 *2024-04-01 17:37:34* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-2-කට-විකුණන්න-සුදානම්වු-ගජමුතු-4-සමග-යුද-හමුදා-හිටපු-බලලත්-නිලධාරීයෙකු-අත්අඩංගුවට/11-408886) · `si`
 
-රුපියල් කෝටි දෙකකට අලෙවි කිරීමට සූදානම් කර තිබූ ගජමුතු හතරක් සමඟ විශ්‍රාමික යුද හමුදා බලලත් නිලධාරි වරයෙකු ඊයේ (01) පස්වරුවේ  අත්අඩංගුවට ගත්බව බේරුවල පොලිසිය පවසයි.
+Retired Army troops arrested four Gajamuthu for selling them for 2 million rupees in Thagasgoda. The suspect was arrested in Maradana by Sub Inspector Kasun Pathiranna and his team. Further investigations are being conducted by OIC Chief Inspector Kasuna Pathirana, Chief Inspector Karindara, SSP Kavinda Piyasara, and Assistant Superintendent of Police Duminda Rajapaksa.
 
-මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ, ගර්ගා නගරය තල්ගස්ගොඩ මීගම ප්‍රදේශයේ පදිංචි 50 පුද්ගලයකු බව පොලිසිය කීය.
+🟩
 
-යුද හමුදාවේ හිටපු බලලත් නිලධාරීවරයෙකු ගජමුතු තොගයක් රුපියල් කෝටි දෙකකට අලෙවි කිරීමට සූදානම් කර ඇති බවට ගුවන් හමුදා බුද්ධි නිලධාරීන්ට ලද තොරතුරක් මත උප පොලිස් පරීක්ෂක කසුන් පතිරණ මහතා ඇතුළු පොලිස් කණ්ඩායම බේරුවල මරදාන ප්‍රදේශයේදී සැකකරු අත්අඩංගුවට ගෙන ගජමුතු හතර පොලිස් භාරයට ගෙන තිබේ.
+A retired Army troops arrested four Gests to sell to two million rupees yesterday (01).
 
-ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී කාවින්ද පියසේකර, සහකාර පොලිස් අධිකාරි දුමින්ද රාජපක්ෂ යන මහත්වරුන්ගේ උපදෙස් පරිදි ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ලලිත් පත්ම කුමාර මහතාගේ මෙහෙයවීමෙන් දූෂණ මර්දන අංශ ස්ථානාධිපති උප පොලිස් පරීක්ෂක කසුන් පතිරණ මහතාගේ ප්‍රධානත්වයෙන් පරීක්ෂණ පවත්වති.
+The suspect was a resident of the Meegama area in Thagasgoda, Thagasgoda.
+
+Sub Inspector Kasun Pathiranna and police team have arrested the suspect in the Maradana area in the Maradana area in the Maradana area in Beruwapitiya.
+
+The OIC Chief Inspector Kasuna Pathirana is conducting further investigations to guide the OIC Chief Inspector Karindara, SSP Kavinda Piyasara, Assistant Superintendent of Police Duminda Rajapaksa.
 
 ◼️
 
 [Data](articles/118bf3bc.json)
+
+[Extended Data](ext_articles/118bf3bc.ext.json)
 
 ---
 
@@ -2197,49 +2255,5 @@ At the same time, the price of 2.3 kg of cooking gas cylinder will be reduced by
 [Data](articles/76d55c5a.json)
 
 [Extended Data](ext_articles/76d55c5a.ext.json)
-
----
-
-### Duminda suspended against Lasantha and Mahinda expelled
-
-*2024-04-01 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195166) · `si`
-
-The Colombo District Court issued an interim order suspending Duminda Dissanayake and expelling Lasantha Alagiyawanna and Mahinda Amaraweera from the Sri Lanka Freedom Party. The party's Executive Committee met and made changes, including replacing Mahiyanganaya electoral organizer KP Gunawardena with Duminda Dissanayake and former Minister Hector Bethmana with the Senior Vice President.
-
-🟩
-
-The Colombo District Court has issued an interim order preventing Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera.
-
-Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera have been removed from the Sri Lanka Freedom Party (30) last Saturday.
-
-The Sri Lanka Freedom Party Executive Committee met at the party headquarters at the party headquarters.
-
-Accordingly, Mahiyanganaya electoral organizer KP Gunawardena was replaced by Duminda Dissanayake who was removed from the post of National Organizer of the SLFP.
-
-Former Minister Hector Bethmana, who was removed from the post of Treasurer, was replaced by the Senior Vice President of the party.
-
-◼️
-
-[Data](articles/5cac0f50.json)
-
-[Extended Data](ext_articles/5cac0f50.ext.json)
-
----
-
-### Litro gas prices down
-
-*2024-04-01 12:13:23* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-පහළට/11-408878) · `si`
-
-Litro Gas reduces domestic gas cylinder prices today.
-
-🟩
-
-Today, Litro Gas has decided to reduce the price of a domestic gas cylinder today.
-
-◼️
-
-[Data](articles/82cd4cbe.json)
-
-[Extended Data](ext_articles/82cd4cbe.ext.json)
 
 ---

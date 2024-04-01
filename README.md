@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 21:34:05**
+As of **2024-04-01 21:52:45**
 
 ## Newspaper Stats
 
-*Scraped **16,457** Articles*
+*Scraped **16,459** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ dailyftlk | 881
 economynextcom | 908
 islandlk | 913
 adalk | 1,386
-tamilmirrorlk | 1,960
-adaderanalk | 1,981
+tamilmirrorlk | 1,961
+adaderanalk | 1,982
 virakesarilk | 2,346
 dailymirrorlk | 2,532
 adaderanasinhalalk | 2,665
@@ -26,11 +26,41 @@ adaderanasinhalalk | 2,665
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,455 (100.0%) of 16,457 articles have been extended.
+16,457 (100.0%) of 16,459 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### Obtaining IMF’s third tranche increasingly challenging – State Minister
+
+*2024-04-01 21:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/98357/obtaining-imfs-third-tranche-increasingly-challenging-state-minister) · `en`
+
+Finance State Minister Shehan Semasinghe emphasized the significant progress made under the leadership of President Ranil Wickremesinghe, affirming his capability to tackle the country’s economic crisis effectively.
+
+Stressing the necessity of President Wickremesinghe’s continued leadership, Semasinghe cautioned against the misconception that anyone could manage the country’s affairs, highlighting the unique expertise and suitability of President Wickremesinghe for the task.
+
+The Finance State Minister further announced that following the distribution of relief benefits to 2.4 million “Aswesuma” recipients, plans are underway to conduct a follow-up survey. These statements were made by the State Minister during a press briefing held at the Presidential Media Centre today (01), focusing on the theme “Collective Path to a Stable Country.”
+
+...
+
+[Data](articles/cb131ba8.json)
+
+---
+
+### கலால் திணைக்கள அதிகாரிகள் உட்பட 8 பேர் கைது
+
+*2024-04-01 21:24:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலால்-திணைக்கள-அதிகாரிகள்-உட்பட-8-பேர்-கைது/175-335470) · `ta`
+
+4 கலால் திணைக்கள அதிகாரிகள் உட்பட 8 பேர் பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவினரால் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+நீர்கொழும்பு மற்றும் சிலாபம் பகுதிகளில் இருந்து 45 கிலோகிராம் கேரள கஞ்சாவுடன் இவர்கள் கைத செய்யப்பட்டுள்ளனர். R
+
+◼️
+
+[Data](articles/aa82df24.json)
+
+---
 
 ### Tax concessions lead to Rs 978 bn foregone revenue in FY 2022/23
 
@@ -73,6 +103,8 @@ Meanwhile, State Minister of Finance Ranjith Siyambalapitiya said that the four 
 ...
 
 [Data](articles/2a656b6b.json)
+
+[Extended Data](ext_articles/2a656b6b.ext.json)
 
 ---
 
@@ -378,27 +410,33 @@ The Supreme Court's three-judge-bench comprised Justices S. Thurairaja, Kumuduni
 
 ---
 
-### මහ දවල් හොරණ මහ කොල්ලයක්
+### A robbery spoil
 
 *2024-04-01 18:29:22* · [`adalk`](https://www.ada.lk/breaking_news/මහ-දවල්-හොරණ-මහ-කොල්ලයක්/11-408888) · `si`
 
-හොරණ  සව්ගස් හන්දිය නියෝජිත ආයතනයකට අද (1) පස්වරුවේ තියුණු ආයුධ රැගෙන කඩා වැදුණු පුද්ගලයන් දෙදෙනෙක් රුපියල් ලක්ෂ 39 1/2 ක මුදලක් කොල්ලකා පලා ගොස් ඇතැයි හොරණ මූලස්ථාන පොලිසිය කියයි
+Two robbers, armed with sharp weapons, entered a building, stole money, and fled to Moragahahena. Police investigated using CCTV and found the robbers had covered their motorcycle's number plates.
 
-පස්වරු  2.45 ට පමණ  යතුරුපැදියකින් පැමිණ තිබූ කොල්ලකරුවන් දෙදෙනා දෙමහල් ගොඩනැගිල්ලේ ඉහළ මහලට ඇතුළු වී කාර්යාලයේ මේසය මත තිබූ මුදල් මෙලෙස කොල්ලකා ඇතැයි පොලිසිය කියයි
+🟩
 
-මුදල් අයකැමීවරිය සහ මුදල් එකතු කරන පුද්ගලයා එම අවස්ථාවේ කාර්යාලය තුල සිට ඇති අතර ඔවුන් මුදල් බැංකු ගත කිරීම සඳහා පිළියෙල කරමින් සිටියදී කොල්ලකරුවන් දෙදෙනා ගොඩනැගිල්ල තුළට කඩා වැදි කාර්යාලයේ දොර වසා තිබූ බැවින්  අත
+Two persons who had plundered a sharp weapons to a Sawas Junction representative to a delegation of sharp weapons today
 
-දරා සිටි මන්නයෙන්  වීදුරුවට කඩා බිඳ කාර්යාලයට ඇතුළු වී   ඇති බව පොලිසිය සිදු කරන ලද විමර්ශනවලදී අනාවරණය වී ඇත.
+Two robbers who had come to a motorbike around 2.45 pm have entered the upper floor of the two storied building and the money on the table was labored on the table, police said
 
-කොල්ලය සඳහා කොල්ලකරුවන් පැමිණ ඇත්තේ යතුරුපැදියේ අංක තහඩු වසාගෙන බවට මෙතෙක් කරන ලද විමර්ශනවලදී අනාවරණය වී ඇත.
+The person who collects money and the money was in office and the two robbers were closed in the building while they were preparing for money.
 
-කොල්ලය සිදු කිරීමෙන් අනතුරුව කොල්ලකරුවන් මොරගහහේන  දෙසට පලා ගොස් ඇතැයි පොලිසිය කියයි.
+Investigations have revealed that the police have demonstrated the glass in the glass.
 
-කොල්ලකරුවට ඇත්තඩංගුවට ගැනීම සඳහා සීසීටීවී දර්ශන ඔස්සේ විමර්ශන සිදු කෙරේ.
+Investigations have revealed that the robbers had come to cover the number plates of the motorcycle.
+
+The robber has fled to Moragahahena after the looting.
+
+Investigations are conducted through CCTV footage to make the burglary.
 
 ◼️
 
 [Data](articles/922444f9.json)
+
+[Extended Data](ext_articles/922444f9.ext.json)
 
 ---
 
@@ -1054,9 +1092,9 @@ On March 20, the Committee on Public Finance recommended to the Central Bank to 
 
 President Ranil Wickremesinghe, in his capacity as the Minister of Finance, Economic Stabilization and National Policies, has appointed an Independent Remuneration Committee to review the salary increase of the Central Bank of Sri Lanka (CBSL).
 
-The relevant Independent Remuneration Committee members include Dinesh Stephen Weerakoddy, Arjuna Herath, Dr Indrajit Coomaraswamy, Sudharma Karunarathne, Anthony Nihal Fonseka, Anushka S. Wijesinha and Duminda Hulangamuwa, the PMD reported.
+The Independent Remuneration Committee members include Mr Dinesh Stephen Weerakkody, Mr Arjuna Herath, Dr Indrajit Coomaraswamy, Mrs Sudharma Karunarathne, Mr Anthony Nihal Fonseka, Mr Anushka S Wijesinha and Mr Duminda Hulangamuwa.
 
-This appointment of the committee has been made based on the recommendation in the report of the Committee on Public Finance (CoPF) in relation to the CBSL salary revision, the President’s Media Division (PMD) said.
+Responding to mounting pressures from Members of Parliament and the Committee on Public Finance (CoPF), President Wickremesinghe has established an independent remuneration committee. This committee will review the contentious salary hike based on the recommendations delineated in the CoPF report on CBSL salary revision, the President’s Media Division said.
 
 ...
 
@@ -2219,53 +2257,5 @@ Investigations have revealed that the house was due to the problem with the owne
 [Data](articles/f571b2ec.json)
 
 [Extended Data](ext_articles/f571b2ec.ext.json)
-
----
-
-### Discovered that the toxic waste was transported in the vessel
-
-*2024-04-01 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195168) · `si`
-
-A vessel carrying 56 toxic containers crashed in Baltimore, USA, affecting 984 feet and 746 tons of hazardous materials, including corrosive substances, fire complexes, explosives, and Lithium Iron batteries. The accident led to 14 containers falling into the river, and the US Transport Security Board is investigating the remaining 4,644 containers. Water quality issues have also been reported in the area.
-
-🟩
-
-US media reports that crashed waste to Sri Lanka in Baltimore, USA, was transporting toxidated waste in Sri Lanka.
-
-The Dali Container Transport Board was sailing to Sri Lanka when the accident occurred while the accident occurred in Baltimao.
-
-The US media reports that 56 containers carrying toxins had been in the event of 984 feet.
-
-According to them, 746 tons weighing 746 tonnes, corrosing, fire, complexes and explosives, and Lithium Iron batteries.
-
-The 14 respective containers have been reduced to the river when the accident occurred.
-
-The US Transport Security Board is conducting further investigations into the other 4,644 containers on the ship.
-
-It was also reported that problems have arisen regarding the water quality of the Patpaesco.
-
-◼️
-
-[Data](articles/37e8f99b.json)
-
-[Extended Data](ext_articles/37e8f99b.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-04-01 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/180128) · `ta`
-
-On April 1, the US dollar's purchase price was 295.5750, and the sale price was 305.1018, according to the Central Bank's exchange rate.
-
-🟩
-
-The US dollar purchasing price was 295.5750 and the sales price were 305.1018 based on the Central Bank's currency exchange rate on Monday (April 01).
-
-◼️
-
-[Data](articles/608d6598.json)
-
-[Extended Data](ext_articles/608d6598.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 11:18:07**
+As of **2024-04-01 11:33:49**
 
 ## Newspaper Stats
 
-*Scraped **16,313** Articles*
+*Scraped **16,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,124 @@ newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 888
 islandlk | 912
-adalk | 1,367
-tamilmirrorlk | 1,948
+adalk | 1,368
+tamilmirrorlk | 1,950
 adaderanalk | 1,966
-virakesarilk | 2,316
+virakesarilk | 2,317
 dailymirrorlk | 2,512
-adaderanasinhalalk | 2,641
+adaderanasinhalalk | 2,644
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,307 (100.0%) of 16,313 articles have been extended.
+16,313 (100.0%) of 16,320 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### ලිට්‍රෝ මිලෙත් වෙනසක්
+
+*2024-04-01 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195164) · `si`
+
+අප්‍රේල් මාසය සඳහා ලිට්‍රෝ ගෑස් මිල පහළ දැමීමට එම සමාගම තීරණය කර තිබේ.
+
+මේ මොහොතේ පැවැත්වෙන මාධ්‍ය හමුවකට එක්වෙමින් එම සමාගමේ සභාපති,  මුදිත පීරිස් මහතා මේ බව පැවසීය.
+
+ඒ අනුව කිලෝග්‍රෑම් 12.5ක ලිට්‍රෝ ගෑස් සිලින්ඩරයක් රුපියල් 135කින් පහළ දමා තිබේ.
+
+◼️
+
+[Data](articles/9c042634.json)
+
+---
+
+### குவைட் முதலாளியுடன் மனைவி : ஆத்திரத்தில் கணவன் வீட்டுக்கு தீ
+
+*2024-04-01 11:16:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/குவைட்-முதலாளியுடன்-மனைவி-ஆத்திரத்தில்-கணவன்-வீட்டுக்கு-தீ/76-335442) · `ta`
+
+குவைட்டில் பணிபுரிந்த பெண்ணொருவர் தனது முதலாளி மற்றும் சாரதியுடன் கடந்த சில தினங்களுக்கு முன்னர் வந்துள்ளார். அவ்விருவரும் அந்த பெண்ணின் வீட்டிலேயே தங்கியும் உள்ளனர்.
+
+இதனால்,  மனைவிக்கும் கணவனுக்கும் இடையில்   மனக்கசப்பு ஏற்பட்டது. கடும் சண்டையும் ஏற்பட்டுள்ளது. பொறுமை இழந்த கணவன், மனைவியை தாக்கியுள்ளார்.   சனிக்கிழமை  (30) வீட்டிற்கு தீ வைத்துள்ளார்.
+
+இந்த சம்பவத்தில் குவைட் முதலாளி, அவருடைய சாரதி கடும் தீக்காயங்களுக்கு உள்ளாகினர். சம்பவத்தில் தீக்காயங்களுக்கு உள்ளான  கணவரின் தந்தையின் மரணமடைந்துள்ளார்.
+
+இந்த சம்பவம், பிபில பொலிஸ் பிரிவுக்குட்பட்ட மட்டக்களப்பு வீதி, வெலிபோதாய பிரதேசத்தில் இடம்பெற்றுள்ளது.
+
+சுமார் 40 வயதுடைய இந்தப் பெண், குவைத்தில் பணிபுரிந்து வந்த தனது முதலாளியான 80 வயதான அப்துல் சைட் ஆலபல்லாயன் மற்றும் அவரது சாரதி கே.கே.நாமல் ஆகியோருடன் வீடு திரும்பியுள்ளார்.
+
+...
+
+[Data](articles/244d313e.json)
+
+---
+
+### සිව් වසරකට පසු දිවයිනට ආ අමුත්තා
+
+*2024-04-01 11:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195163) · `si`
+
+වසර 04 කට පසු තායි එයාර්වේස් ගුවන්යානයක් දිවයිනට පැමිණ තිබේ.
+
+◼️
+
+[Data](articles/141e0f30.json)
+
+---
+
+### சமூக ஊடக பதிவு: சிறப்புரிமைக் குழுவுக்கு பெண்ணுக்கு அழைப்பு
+
+*2024-04-01 11:13:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-ஊடக-பதிவு-சிறப்புரிமைக்-குழுவுக்கு-பெண்ணுக்கு-அழைப்பு/175-335441) · `ta`
+
+பாராளுமன்ற உறுப்பினர் ஒருவரை விமர்சித்து சமூக ஊடகங்களில் வெளியான பதிவு தொடர்பில் பெண் ஒருவர் பாராளுமன்ற சிறப்புரிமைகள் குழுவுக்கு அழைக்கப்படவுள்ளார்.
+
+களுத்துறையைச் சேர்ந்த லலந்தி பெரேரா என்ற பெண்ணே இவ்வாறு அழைக்கப்படவுள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன, இன்று (01) அறிவித்துள்ளார்.
+
+குறித்த பெண், பாராளுமன்ற உறுப்பினர் ரோஹித அபேகுணவர்தன மற்றும் பொலிஸ்மா அதிபர் தேசபந்து தென்னகோன் ஆகியோர் தொடர்பில் கருத்து பதிவிட்டுள்ளதாக அவர் குறிப்பிட்டள்ளார்.
+
+◼️
+
+[Data](articles/a1f405a8.json)
+
+---
+
+### චීන ජාතිකයින් පිරිසක් මරුට
+
+*2024-04-01 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195162) · `si`
+
+චීන ජාතිකයින් 8 දෙනෙකුගේ සිරුරු මෙක්සිකෝවේ "Oaxaca" ප්‍රාන්තයේ වෙරළේ තිබී හමුවී ඇති බව ජාත්‍යන්තර මාධ්‍ය වාර්තා කරයි.
+
+ඔවුන් නීතිවිරෝධී ලෙස අමෙරිකාවට සංක්‍රමණය වීමට උත්සාහ කිරීමේදී බෝට්ටුව අනතුරට ලක්වන්නට ඇතැයි සැක කෙරේ.
+
+මියගිය පිරිස අතර කාන්තාවන් 7 දෙනෙක් සහ පිරිමි පුද්ගලයෙක් සිටි බව සඳහන් ය.
+
+එම බෝට්ටුවේ සිටි තවත් එක් අයෙක් දිවි ගලවාගෙන ඇති අතර බෝට්ටුව පැදවූ පුද්ගලයාට කුමක් වූයේද යන්න අපැහැදිලිය.
+
+මෑතක සිට නීතිවිරෝධී ලෙස අමෙරිකාව ට සංක්‍රමණය වීමට උත්සාහ දරන පුද්ගලයින්ගේ ගණන වැඩිවී ඇති අතර එම පුද්ගලයින් බහුලව මෙක්සිකෝව හරහා අමෙරිකාවට යෑමට උත්සාහ ගන්නා බව සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/ca55c7db.json)
+
+---
+
+### ஈஸ்டர் தினத்தன்று தேவாலயத்திற்கு அருகில் கத்திகளுடன் சந்தேக நபரொருவர் கைது
+
+*2024-04-01 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/180107) · `ta`
+
+நீர்கொழும்பு பிரதேசத்தில் உள்ள தேவாலயத்தில் நேற்று ஞாயிற்றுக்கிழமை (31) ஈஸ்டர் தினத்தன்று தேவாலயத்தின் நுழைவாயிலில் கூரிய கத்திகளுடன் நபரொருவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+இவ்வாறு கைது செய்த நபர் மட்டக்களப்பு, கொக்கட்டிச்சோலை பிரதேசத்தைச் சேர்ந்த 43 வயதுடைய கந்தசாமி வேதநாயகம் என்ற முன்னாள் விடுதலை புலி உறுப்பினர் என விசாரணைகளின் போது தெரியவந்துள்ளது.
+
+அத்தோடு, இவரை கைது செய்த போது காற்சட்டைப் பையில் மறைத்து வைக்கப்பட்டிருந்த கத்தி ஒன்றும் பயணப் பையிலிருந்த கத்தியொன்றும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+பொலிஸாருக்கு கிடைத்த தகவலையடுத்து இவர் கைது செய்யப்பட்டதோடு இவரிடம் மேற்கொண்ட நீண்ட விசாரணைகளின்  பின்பு விடுதலை புலியின்  ஆயுத பிரிவைச் சேர்ந்த முன்னாள் உறுப்பினர் என்ற தகவலை வெளிப்படுத்தியதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/7623bda4.json)
+
+---
 
 ### Sri Lankan saves Melbourne woman from romance scam
 
@@ -52,39 +154,55 @@ However, alarm bells quickly went off for Mr Pathirannahalage when the woman was
 
 [Data](articles/a942f920.json)
 
+[Extended Data](ext_articles/a942f920.ext.json)
+
 ---
 
-### மது விருந்து நடாத்திய மாணவ மாணவிகள் கைது
+### Students arrested for holding alcohol banquet
 
 *2024-04-01 11:04:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மது-விருந்து-நடாத்திய-மாணவ-மாணவிகள்-கைது/175-335440) · `ta`
 
-வெலிமடை பகுதியில் கைவிடப்பட்ட கட்டிடத்தில் மது விருந்து நடத்திய பாடசாலை மாணவர்களை பொலிஸார் கைது செய்தனர்.
+Police arrested 5 students for a wine party in an abandoned building in Welimada, claiming it was for private classes.
 
-பழைய கட்டிடத்தில் விருந்து வைத்து கொண்டிருந்த 5 பாடசாலை மாணவர்கள் மற்றும் இரண்டு பாடசாலை மாணவிகளை பொலிஸார் கைது செய்தனர்.
+🟩
 
-மேலும் விசாரணையில், அவர்கள் தனியார் வகுப்புகளுக்கு செல்வதாக கூறி கைவிடப்பட்ட கட்டிடத்தில் கூடி மது விருந்துக்கு ஏற்பாடு செய்ததாக பொலிஸாரிடம் தெரிவித்துள்ளனர்.
+Police have arrested school students who held a wine party in an abandoned building in the Welimada area.
+
+Police arrested 5 school students and two school students who were having dinner in the old building.
+
+In addition, they told the police that they had gathered in an abandoned building claiming to go to private classes and arranged a wine party.
 
 ◼️
 
 [Data](articles/5dca20e6.json)
 
+[Extended Data](ext_articles/5dca20e6.ext.json)
+
 ---
 
-### AI தேர்தல் முறைகேடுகளுக்குத் தயாராகும் இலங்கை
+### AI is preparing for election irregularities
 
 *2024-04-01 10:54:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/AI-தேர்தல்-முறைகேடுகளுக்குத்-தயாராகும்-இலங்கை/175-335439) · `ta`
 
-AI (செயற்கை நுண்ணறிவு) இன் பயன்பாடு அதிகரித்துள்ளதையடுத்து தேர்தல் முறைகேடுகள் உலகளாவிய ரீதியில் அதிகரித்துள்ளதுடன், இலங்கையின் தேர்தல் ஆணைக்குழு எதிர்காலத் தேர்தல்களில் அத்தகைய சாத்தியக்கூறுகளை உருவாக்கி வருவதாக நேற்று அதிகாரி ஒருவர் தெரிவித்தார்.
+AI's role in election irregularities is growing, with Sri Lanka's Election Commission studying global responses. AI can multiply the spread of fake news, posing a threat to democratic processes. The Commission is exploring measures to prevent future irregularities.
 
-உலகளாவிய அனுபவத்தின்படி, ஒரு குறிப்பிட்ட வழியில் வாக்களிக்க மக்களை வற்புறுத்துவதற்கான முயற்சிகளுக்கு பங்களிப்பதில் AI இனால் போலித் தகவல்களின் உற்பத்தி மற்றும் பரவலை துரிதப்படுத்த முடியும்.
+🟩
 
-AI ஆல் தவறான தகவல்களின் அளவை ஆயிரக்கணக்கான மடங்கு பெரிதாக்க முடியும். மேலும் , மிக யதார்த்தமான ஆழமான போலியான படங்கள், ஒலிப்பதிவு அல்லது வீடியோ வாக்காளர்களை உண்மைச் சரிபார்ப்புக்கு முன் சக்திவாய்ந்த முறையில் பாதிக்கலாம். சமூக ஊடக தளங்களால் இவ் அபாயங்கள் இன்னும் கூட்டப்படுகின்றன.
+The official said yesterday that the election irregularities have increased globally as the use of AI (artificial intelligence) has increased and the Sri Lanka Election Commission is creating such possibilities in future elections.
 
-இலங்கையின் தயார்நிலை குறித்து வினவிய போது ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க, ஜனநாயக தேர்தல் நடைமுறைக்கு எதிரான இத்தகைய சவால்களுக்கு ஏனைய நாடுகள் எவ்வாறு பதிலளிப்பது என்பதை ஆராய்வதில் தாம் தற்போது ஈடுபட்டுள்ளதாக தெரிவித்தார்.
+According to global experience, AI can accelerate the production and spread of fake information in contributing to efforts to persuade people to vote in a certain way.
 
-...
+The amount of false information by AI can be enlarged thousands of times. More. These risks are still increased by social media sites.
+
+When asked about Sri Lanka's readiness, the Chairman of the Commission, RMAL Ratnayake, said that he is currently engaged in examining how other countries would respond to such challenges against the democratic election process.
+
+He said the Commission would decide on proceedings, including the law to prevent such irregularities in elections in the future.
+
+◼️
 
 [Data](articles/ceb4b274.json)
+
+[Extended Data](ext_articles/ceb4b274.ext.json)
 
 ---
 
@@ -174,21 +292,27 @@ However, the MP had claimed that upon arriving at the airport he realized that t
 
 ---
 
-### SLFP  இன் குழுக்கூட்டத்தில்  நீதியமைச்சர்
+### Justice Minister at SLFP's group
 
 *2024-04-01 10:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SLFP-இன்-குழுக்கூட்டத்தில்-நீதியமைச்சர்/175-335436) · `ta`
 
-வார இறுதியில் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் மத்திய குழுக் கூட்டத்தில் அமைச்சர் விஜயதாச ராஜபக்ஷ கலந்துகொண்டமை பலரையும் ஆச்சரியத்தில் ஆழ்த்தியுள்ளது. ஶ்ரீலங்கா சுதந்திரக் கட்சியில் இணையவிருக்கிறாரா என வினவிய ஊடகவியலாளர்களுக்கு பதிலளித்த அமைச்சர், தான்  பின்னர் அரசியல் தீர்மானம் ஒன்றை மேற்கொள்வதாக தெரிவித்தார்.
+Justice Minister Vijayadasa Rajapaksa's attendance at SLFP's Central Committee surprised many. He said he would make a political resolution, having been a member since the late Sirimavo Bandaranaike led the party. He was invited to lecture on the current political situation, suggesting SLFP's role in stabilizing the economy.
 
-“மறைந்த பிரதமர் சிறிமாவோ பண்டாரநாயக்க கட்சியை வழிநடத்திய காலத்திலிருந்து நான் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் உறுப்பினராக இருந்தேன். எனவே ஸ்ரீலங்கா சுதந்திரக் கட்சியின் மத்திய குழுக் கூட்டத்தில் நான் கலந்துகொள்வது ஒன்றும் புதிதல்ல,” என்றார்.
+🟩
 
-அமைச்சுப் பதவியை இராஜினாமா செய்து முழுநேர ஸ்ரீலங்கா சுதந்திரக் கட்சியில் இணைவீர்களா? என்ற கேள்விக்கு பதிலளித்த அமைச்சர், பின்னர் அரசியல் தீர்மானம் எடுப்பதாக தெரிவித்தார்.
+Minister Vijayadasa Rajapaksa's attendance at the Central Committee of the Sri Lanka Freedom Party (SLFP) has surprised many.. Responding to journalists asking whether he would join the Sri Lanka Freedom Party, the minister said he would later make a political resolution.
 
-தற்போதைய அரசியல் நிலவரங்கள் குறித்து விரிவுரை ஆற்ற தமக்கு அழைப்பு விடுக்கப்பட்டுள்ளதாக அவர் தெரிவித்துள்ளார். எனது விரிவுரையின் போது நாட்டின் பொருளாதாரத்தை ஸ்திரப்படுத்துவதில் ஸ்ரீலங்கா சுதந்திரக் கட்சி எவ்வாறு பங்கு வகிக்க முடியும் என்பதை நான் விளக்கினேன்,” என்று அவர் கூறினார்.
+“I was a member of the Sri Lanka Freedom Party (SLFP) since the time when the late Prime Minister Sirimavo Bandaranaike led the party. So I attend the Sri Lanka Freedom Party's central committee meeting is nothing new. ”
+
+Will you resign from the ministry and join the SLFP for a full -time Sri Lanka Freedom Party?Responding to the question, the minister said he would take a political decision.
+
+He said that he has been invited to lect on the current political situation. During my lecture, I explained how the Sri Lanka Freedom Party (SLFP) could play a role in stabilizing the country's economy, ”he said.
 
 ◼️
 
 [Data](articles/6877907a.json)
+
+[Extended Data](ext_articles/6877907a.ext.json)
 
 ---
 
@@ -216,21 +340,27 @@ He said that he has been invited to lect on the current political situation. Dur
 
 ---
 
-### தெரிவு செய்யப்பட்ட  வைத்தியசாலைகளில் சுகாதார தொழிற்சங்கங்கள் பணிப்பகிஷ்கரிப்பு
+### Health Trade Unions in Selected Hospitals
 
 *2024-04-01 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/180109) · `ta`
 
-சம்பள பிரச்சினையை முன்வைத்து சுகாதார தொழிற்சங்க கூட்டமைப்பு இன்று திங்கட்கிழமை (01) பணிப்பகிஷ்கரிப்பு போராட்டத்தை ஆரம்பித்துள்ளது.
+The Health Trade Union Federation is holding a workshop on pay issues in selected hospitals today, starting at 6:30 am. If unresolved, they plan a nationwide indefinite workshop tomorrow. Initially, a 4-hour workshop was planned for all hospitals, but due to a Presidential Office invitation, it's limited to 5 hospitals. If no solution is found, they'll proceed with tomorrow's workshop.
 
-இன்று காலை 6.30 மணி முதல் தெரிவு செய்யப்பட்ட சில வைத்தியசாலைகளில் பணிப்பகிஷ்கரிப்பு  போராட்டம் முன்னெடுக்கப்படவுள்ளதாக கூட்டமைப்பின் இணை அழைப்பாளர் சானக்க தர்மவிக்ரம தெரிவித்துள்ளார்.
+🟩
 
-இதேவேளை, தமது முறைப்பாடுகளுக்கு தீர்வு கிடைக்காவிடின், நாளை செவ்வாய்க்கிழமை (02) நாடளாவிய ரீதியில் காலவரையற்ற பணிப்பகிஷ்கரிப்பு  போராட்டத்தை முன்னெடுக்க தீர்மானித்துள்ளனர்.
+The Health Trade Union Federation has launched a workshop on Monday (01) on the issue of pay issue.
 
-நாடளாவிய ரீதியில் அனைத்து வைத்தியசாலைகளிலும் 4 மணிநேர பணிப்பகிஷ்கரிப்பு போராட்டத்தை முன்னெடுக்க தீர்மானித்திருந்தோம், ஆனால் இன்று ஜனாதிபதி அலுவலகம் எங்களை கலந்துரையாடலுக்கு அழைத்துள்ளது. எனவே, திட்டமிட்ட வேலைநிறுத்தத்தை கண்டி, அனுராதபுரம், இரத்தினபுரி, குருநாகல் மற்றும் பதுளை போன்ற 05 வைத்தியசாலைகளுக்கு மட்டுப்படுத்த தீர்மானித்தோம். இன்று தீர்வு கிடைக்காவிட்டால் நாளை நாடாளவிய பணிப்பகிஷ்கரிப்பில் ஈடுபடுவோம் என அவர் மேலும் தெரிவித்தார்.
+The co -invitation of the federation, Chanaka Dharmavikrama said that the work will be carried out in some of the selected hospitals from 6.30 am today.
+
+Meanwhile, if their complaints are not resolved, they have decided to carry out an indefinite workshop nationwide tomorrow (02).
+
+We have decided to carry out a 4 -hour workshop in all hospitals nationwide, but today the Presidential Office has invited us to discuss discussion.. Therefore, we decided to limit the planned strike to 05 hospitals such as Kandy, Anuradhapura, Ratnapura, Kurunegala and Badulla. If there is no solution today, we will engage in tomorrow's workshop, ”he added.
 
 ◼️
 
 [Data](articles/6e605e07.json)
+
+[Extended Data](ext_articles/6e605e07.ext.json)
 
 ---
 
@@ -314,19 +444,25 @@ He said he was invited to deliver a lecture on current political situation.” I
 
 ---
 
-### யாழில் வைத்தியசாலை பணியாளர் மீது தாக்குதல்
+### Attack on hospital employee in Jaffna
 
 *2024-04-01 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/180108) · `ta`
 
-யாழ்ப்பாணம் - குறிகட்டுவான் இறங்குதுறையில் வைத்து, புங்குடுதீவு வைத்தியசாலை பணியாளர் மீது தாக்குதல் மேற்கொள்ளப்பட்டுள்ளது.
+A Punguduthivu Hospital employee was attacked at Jaffna-Indicatuwan landing by two men who fled after the incident.
 
-நயினாதீவில் வசிக்கும் குறித்த பணியாளார் நேற்று ஞாயிற்றுக்கிழமை , நயினாதீவில் இருந்து, படகில் குறிகட்டுவான் இறங்குதுறையில் வந்து இறங்கிய வேளை, அங்கு காத்திருந்த இருவர் அவர் மீது தாக்குதலை நடத்தியுள்ளனர்.
+🟩
 
-கடற்படையினர் , பொதுமக்கள் பார்த்திருக்க இருவரும் பணியாளர் மீது சரமாரியாக தாக்குதலை நடத்தி விட்டு தப்பி சென்றுள்ளனர்.
+The Punguduthivu Hospital employee has been attacked at the Jaffna - Indicatuwan landing.
+
+The two men who were waiting for him were waiting for him when he landed on the boat from Nainadivu on Sunday, Nainadivu.
+
+The Marines and the public have seen the two men who have fled the scene.
 
 ◼️
 
 [Data](articles/100a3edb.json)
+
+[Extended Data](ext_articles/100a3edb.ext.json)
 
 ---
 
@@ -517,6 +653,20 @@ The government decided in February to exclusively raise the DAT allowance by Rs 
 [Data](articles/c17e474d.json)
 
 [Extended Data](ext_articles/c17e474d.ext.json)
+
+---
+
+### පාරටම පැමිණි මුදුදු රළ
+
+*2024-04-01 09:40:33* · [`adalk`](https://www.ada.lk/picture_story/පාරටම-පැමිණි-මුදුදු-රළ/10-408872) · `si`
+
+මහ මුහුද රළුවී මුහුදු රල මාර්ගයට පැමිණීම හේතුවෙන් අද (1) ගාල්ල කොළඹ ප්‍රධාන මාර්ගයේ කහව මංසන්ධියේ සිට තෙල්වත්ත මංසන්දිය දක්වා රට වාහන ධාවනයට දැඩි බාධා එල්ලවී තිබේ.
+
+ඊයේ( 31) රෑ සිට මෙම තත්ත්වය උද්ගත වූ බව ප්‍ර දේශවාසීහු කියති. මුහුදු රල පහරත් සමග මුහුද අයිනේ දමා ඇති ගල් වැටියේ ඇති ගල් විටින් විට  මහ පාරට පැමිණෙමින් තිබෙන අතර එහි පදිංචිකරුවන්  ගල් ඉවත් කරමින් වාහන ධාවනයට මාර්ගය සකසාදීමට දැඩි උත්සහායක නිරතවී සිටිති.
+
+◼️
+
+[Data](articles/ce597bf5.json)
 
 ---
 
@@ -2033,183 +2183,5 @@ Construction material prices have not shown any downward adjustments despite Sri
 [Data](articles/8ee4aad7.json)
 
 [Extended Data](ext_articles/8ee4aad7.ext.json)
-
----
-
-### Fuel prices revised from tonight
-
-*2024-03-31 21:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Fuel-prices-revised-from-tonight/155-279901) · `en`
-
-The Ceylon Petroleum Corporation (CPC) has decided to revise its fuel prices with effect from tonight.
-
-Accordingly, a litre of Lanka Petrol 95 Octane Euro 4 (Rs. 447) has been reduced by Rs. 7, and its new retail price will be Rs. 440.
-
-A litre of Lanka Super Diesel 4 Star Euro 4 (Rs. 458) has been reduced by Rs. 72, and its new retail price will be Rs. 386.
-
-A litre of Lanka Kerosene (Rs. 257) has been reduced by Rs. 12, and its new retail price will be Rs. 245
-
-A litre of Lanka Petrol 92 Octane (Rs.371) and a litre of Lanka Auto Diesel (Rs. 363) remain unchanged.
-
-◼️
-
-[Data](articles/521a6dc1.json)
-
-[Extended Data](ext_articles/521a6dc1.ext.json)
-
----
-
-### Fuel prices revised from tonight
-
-*2024-03-31 21:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fuel-prices-revised-from-tonight/108-279901) · `en`
-
-The Ceylon Petroleum Corporation (CPC) has decided to revise its fuel prices with effect from tonight.
-
-Accordingly, a litre of Lanka Petrol 95 Octane Euro 4 (Rs. 447) has been reduced by Rs. 7, and its new retail price will be Rs. 440.
-
-A litre of Lanka Super Diesel 4 Star Euro 4 (Rs. 458) has been reduced by Rs. 72, and its new retail price will be Rs. 386.
-
-A litre of Lanka Kerosene (Rs. 257) has been reduced by Rs. 12, and its new retail price will be Rs. 245
-
-A litre of Lanka Petrol 92 Octane (Rs.371) and a litre of Lanka Auto Diesel (Rs. 363) remain unchanged.
-
-◼️
-
-[Data](articles/fb658338.json)
-
-[Extended Data](ext_articles/fb658338.ext.json)
-
----
-
-### The change in the fuel price
-
-*2024-03-31 21:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195146) · `si`
-
-Ceylon Petroleum Corporation reduced octane and kerosene prices by Rs. 386 and Rs. 12 per liter, respectively, but 92 and auto diesel prices remained unchanged.
-
-🟩
-
-Fuel prices have been revised from midnight today (31th) by the Ceylon Petroleum Corporation.
-
-Accordingly, the price of a liter of octate has been reduced by Rs.
-
-The price of a liter of Sri Lanka has been reduced by Rs. 386.
-
-Kerosene has been reduced by Rs.12 per liter and its new price is Rs. 245.
-
-However, 92 has not changed in the price of octane type and the auto diesel.
-
-The price of Lanka IOC will also revise the price of fuel.
-
-◼️
-
-[Data](articles/ec6e7754.json)
-
-[Extended Data](ext_articles/ec6e7754.ext.json)
-
----
-
-### Fuel prices reduced
-
-*2024-03-31 21:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/98330/fuel-prices-reduced) · `en`
-
-The Ceylon Petroleum Corporation (Ceypetco) announced that fuel prices will be revised with effect from midnight today (March 31).
-
-Accordingly, the price of Petrol 95 Octane has been reduced by Rs. 07 to Rs. 440 per litre while Super Diesel has been reduced by Rs. 72 to Rs. 386 per litre.
-
-Meanwhile the price of Kerosene has been reduced by Rs. 12 to Rs. 245 per litre.
-
-However, the prices of Petrol 92 Octane and Auto Diesel will remain unchanged, the CPC said.
-
-UPDATE: In the meantime, Lanka IOC says that they too will revise retail fuel prices in line with the Ceypetco prices.
-
-◼️
-
-[Data](articles/7128e535.json)
-
-[Extended Data](ext_articles/7128e535.ext.json)
-
----
-
-### School students taken into custody for holding alcohol party in abandoned building
-
-*2024-03-31 21:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/School-students-taken-into-custody-for-holding-alcohol-party-in-abandoned-building/108-279899) · `en`
-
-Welimada, March 31 (Daily Mirror)- A group of school students who held an alcohol party in an abandoned building in the Welimada area were taken into custody by the police.
-
-According to the Police, the Welimada Police raided the building based on information received.
-
-Five schoolboys and two schoolgirls who were having a party in the deserted building were taken into custody by the police.
-
-These students were reportedly consuming alcohol, which was being sold at high prices at that time.
-
-Upon further questioning, they told the police that they had gathered in the abandoned building under the guise of attending tuition classes, but instead had organized an alcohol party.
-
-It has been revealed that the group gained entry to the building by breaking the locks.
-
-The Welimada Police are currently conducting further investigations into this incident.
-
-◼️
-
-[Data](articles/d230c746.json)
-
-[Extended Data](ext_articles/d230c746.ext.json)
-
----
-
-### New report from Wilpattu filled with Tigers
-
-*2024-03-31 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195145) · `si`
-
-Wilpattu National Park, Asia's highest tiger-dense forest, is home to nearly 313 tigers, including 8 LTTE terrorists disguised as calves. It's the largest national park in Sri Lanka, spanning Mannar, Vavuniya districts, Puttalam, and Anuradhapura.
-
-🟩
-
-The Wilpattu National Park is the highest tiger dense forest in Asia.
-
-According to a research, including a group of Zoologist in 2011.
-
-It has been revealed that there are nearly 313 terrorists in the pork and that about 8 LTTE terrorists cover up with calves.
-
-Wilpattu is considered the largest national park in Sri Lanka.
-
-Wilpattu, the Mannar and Vavuniya districts, is a national park in Puttalam, Puttalam and Anuradhapura.
-
-Wilpattu has become a world famous world.
-
-◼️
-
-[Data](articles/939b3305.json)
-
-[Extended Data](ext_articles/939b3305.ext.json)
-
----
-
-### Gujarat Titans win Sunrisers Hyderabad
-
-*2024-03-31 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180089) · `ta`
-
-Gujarat Titans beat Sunrisers Hyderabad by 7 wickets in IPL 12th match. Sunrisers scored 162/8 in 20 overs, with no player reaching 30. Titans lost for 163/168 in 19.3 overs. Key players: Abhishek Sharma 29, Abdul Samad 29, Henryich Glasan 24, Shahbaz Ahmad 22, Travis Head 19, Aiden Magram 17, Mayank Agarwal 16.
-
-🟩
-
-The Gujarat Titans won by 7 wickets in the 12th chapter of the Indian Premier League held today (31) at the Ahmedabad Narendra Modi Stadium against Sunrisers Hyderabad.
-
-Sunrisers Hyderabad scored 162 runs for the loss of 8 wickets in 20 overs.
-
-Although 6 players scored double -digit numbers in the bats, no one has reached 30 runs.
-
-Abhishek Sharma and Abdul Samad scored 29 runs, Henryich Glasan 24, Shahbaz Ahmad 22, Travis Head 19, Aiden Magram 17 and Mayank Agarwal 16 runs.
-
-The Gujarat Titans, who were bowled out for 163, were bowled out for 168 in 19.3 overs.
-
-Ritiman Saha lost 25 runs, team captain Shabman Kill 36 and Sai Sudarshan 45 runs.
-
-David Miller did not play with 44 runs and Vijay Shankar 14 runs.
-
-◼️
-
-[Data](articles/47419069.json)
-
-[Extended Data](ext_articles/47419069.ext.json)
 
 ---

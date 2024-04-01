@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 23:52:35**
+As of **2024-04-02 00:18:03**
 
 ## Newspaper Stats
 
-*Scraped **16,474** Articles*
+*Scraped **16,476** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,50 @@ adalk | 1,387
 tamilmirrorlk | 1,963
 adaderanalk | 1,984
 virakesarilk | 2,349
-dailymirrorlk | 2,535
+dailymirrorlk | 2,537
 adaderanasinhalalk | 2,668
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,472 (100.0%) of 16,474 articles have been extended.
+16,474 (100.0%) of 16,476 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-04-02 (Tuesday)
+
+### Mushrooming Alliances! Exploring pros and cons of coalition politics
+
+*2024-04-02 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Mushrooming-Alliances-Exploring-pros-and-cons-of-coalition-politics/172-279981) · `en`
+
+A stable government is imperative for garnering the confidence of FDI and engaging with international financial institutions
+
+Pre-electoral alliances and post-election coalitions among political parties have emerged as significant features in contemporary politics.
+
+An examination of this political phenomenon is crucial for understanding election dynamics and the processes of government formation and sustainability. It is heartening to observe a relative increase in studies dedicated to alliances and coalitions over the past decade. However, despite this progress, several aspects of this phenomenon remain largely understudied.
+
+...
+
+[Data](articles/f1aec7be.json)
+
+---
+
+### Modi wants Katchchatheevu-its election time in Tamil Nadu
+
+*2024-04-02 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Modi-wants-Katchchatheevu-its-election-time-in-Tamil-Nadu/172-279980) · `en`
+
+Speaking at Bharatiya Janata Party (BJP) rally in Meerut, Uttar Pradesh,(around 2232 Kms away from Chennai) on Monday, Indian Premier Narendra Modi suddenly found fault with Indira Gandhi for signing an agreement with Sri Lanka relinquishing Indian claims to the island of Katchchatheevu.
+
+Yes, you guessed it. It is election time in India and the BJP has never come to power in Tamil Nadu, the southernmost state in India.
+
+S. Ramanujam, a retired former Senior Administrative Officer of the Indian government at the Indian Council of Agricultural Research reveals that Tamil Nadu was ruled by the Indian National Congress in the 1950s and up to 1966. In 1967 DMK under the leadership of late C.N. Annadurai came to power. Thereafter, only the DMK and AIADMK have ruled Tamil Nadu (TN).
+
+...
+
+[Data](articles/f2d1c539.json)
+
+---
 
 ### 2024-04-01 (Monday)
 
@@ -45,6 +79,8 @@ There is however a widespread belief that suspending debt repayments have helped
 ...
 
 [Data](articles/20731029.json)
+
+[Extended Data](ext_articles/20731029.ext.json)
 
 ---
 
@@ -974,23 +1010,35 @@ We are taking action these days on other people who have passed the examination.
 
 ---
 
-### உயிர்த்த ஞாயிறு குண்டுத்தாக்குதலின் பின்னணியில் இந்தியா : மைத்திரியின் கருத்து பாரதூரமானது - நளின் பண்டார
+### India in the context of the lifeblood of life
 
 *2024-04-01 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/180163) · `ta`
 
-குண்டுத் தாக்குதல் சம்பவத்தின் பின்னணியில் இந்தியா இருப்பதாக மைத்திரிபால சிறிசேன குறிப்பிடுவது உண்மையாயின் குண்டுத்தாக்குதலை நடத்த இந்தியாவுக்கு உதவி செய்தது யார் என்பதை பகிரங்கப்படுத்த வேண்டும்.
+Maithripala Sirisena claims India orchestrated a bomb attack, sparking debate. Nalin Bandara suggests someone directs him. Ranil Wickremesinghe, former president, criticized for forgetting Scotland Yat affair. Harin Fernando mourns the incident, expressing opposition. Investigations continue, with public interest high.
 
-மைத்திரிபால சிறிசேனவை எவரோவொருவர் இயக்குகிறார் என்பதை அறிய முடிகிறது என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் நளின் பண்டார தெரிவித்தார்.
+🟩
 
-பாராளுமன்றத்தில் திங்கட்கிழமை (1) இடம்பெற்ற ஆயுர்வேத சட்ட ஒழுங்கு விதிகள் தொடர்பான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+Maithripala Sirisena's claim that India is behind the bombing should be made public who helped India to carry out a bomb attack.
 
-உயிர்த்த ஞாயிறு குண்டுத் தாக்குதல் சம்பவம் தொடர்பில் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன குறிப்பிட்டுள்ள கருத்துக்கள் பாரதூரமானவை. குண்டுத் தாக்குதல் சம்பவத்தின் பின்னணியில் இந்தியா இருப்பதாக இவர் குறிப்பிட்டுள்ளமை அவதானத்துக்குரியது.
+United People's Power MP Nalin Bandara said that it is known that someone is directing Maithripala Sirisena.
 
-முன்னாள் ஜனாதிபதியின் கருத்துக்கு அமைய  உயிர்த்த ஞாயிறு குண்டுத்தாக்குல் சம்பவத்தின் பின்னணியில் இந்தியா இருப்பதாக இருந்தால். இந்தியாவுக்கு  உதவி செய்தது யார் என்பதையும் பகிரங்கப்படுத்த வேண்டும்.மைத்திரிபால சிறிசேனவை எவரோவொருவர் இயக்குவது தெளிவாக தெரிகிறது.
+He was speaking at a debate on the Ayurvedic law and order rules held in Parliament on Monday (1).
+
+Former President Maithripala Sirisena's comments regarding the lifeblood of a bomb blast. It is noteworthy that India is behind the bombing.
+
+If India is in the wake of the resurrection Sunday bombing of the former president. It is also clear that someone who helped India should be made public.
+
+Ranil Wickremesinghe said before becoming president of Scotland Yat police. He has forgotten the Scotland Yat affair after becoming president with the support of the Sri Lanka PA.
+
+Minister Harin Fernando shed tears in connection with the bombing incident while on the opposition.
+
+He visited the Parliament with a black shawl and expressed his opposition.
 
 ...
 
 [Data](articles/c4e69500.json)
+
+[Extended Data](ext_articles/c4e69500.ext.json)
 
 ---
 
@@ -2211,51 +2259,5 @@ Addressing the media today, he said private buses are operating while incuring a
 [Data](articles/7048f1f2.json)
 
 [Extended Data](ext_articles/7048f1f2.ext.json)
-
----
-
-### SLAF charges National Flag
-
-*2024-04-01 13:40:58* · [`adalk`](https://www.ada.lk/breaking_news/ගාලු-මුවදොර-ජාතික-ධජය-එසවීම-නාවික-හමුදාවෙන්-ගුවන්-හමුදාවට/11-408880) · `si`
-
-SLAF takes Sri Lanka Nil on March 31, 2024. Next 3 months, SLAF will manage Sri Lanka Nil.
-
-🟩
-
-Sri Lanka Nil to be handed over to Sri Lanka Air Force on March 31, 2024 (April 01, 2024)Was done.
-
-Accordingly, the next three months will be a period of three months on the next three months and the Sri Lanka Air Force by the Sri Lanka Air Force.
-
-◼️
-
-[Data](articles/677991ed.json)
-
-[Extended Data](ext_articles/677991ed.ext.json)
-
----
-
-### Information
-
-*2024-04-01 13:35:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-தொடர்பில்-வெளியான-தகவல்/175-335452) · `ta`
-
-The National Elections Commission has finalized arrangements for the presidential election this year, set for late September or early October. President Ranil Wickremesinghe has extended the IMF's Debt Relief Program until July. The Sri Lanka PA requests a general election before the presidential one, preferably before August.
-
-🟩
-
-The National Elections Commission said that arrangements for holding the presidential election this year have already been completed.
-
-Meanwhile, President Ranil Wickremesinghe has informed the Cabinet and the Elections Commission that the International Monetary Fund's Debt Relief Program will be held until the end of July.
-
-According to the Constitution, the presidential election should be held this year and it will be held in late September or early October.
-
-A member of the Election Commission said that the last budget has allocated Rs.
-
-However, the Sri Lanka PA had asked the President of the PA to hold a general election before the presidential election and to hold the general election before August.
-
-◼️
-
-[Data](articles/b9cfd62f.json)
-
-[Extended Data](ext_articles/b9cfd62f.ext.json)
 
 ---

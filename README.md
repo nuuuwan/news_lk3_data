@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 10:18:07**
+As of **2024-04-01 10:33:32**
 
 ## Newspaper Stats
 
-*Scraped **16,291** Articles*
+*Scraped **16,292** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,57 @@ tamilmirrorlk | 1,943
 adaderanalk | 1,960
 virakesarilk | 2,314
 dailymirrorlk | 2,508
-adaderanasinhalalk | 2,638
+adaderanasinhalalk | 2,639
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,287 (100.0%) of 16,291 articles have been extended.
+16,291 (100.0%) of 16,292 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### வீடொன்றில் இருந்து பெண் சடலமாக மீட்பு
+### අස්වැසුම ප්‍රතිලාභ නොලැබුණු අයට විශේෂයි
+
+*2024-04-01 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195159) · `si`
+
+දිස්ත්‍රික්ක 4ක මෙතෙක් අස්වැසුම ප්‍රතිලාභ නොලැබුණු සියලුදෙනාට සිංහල හින්දු අලුත් අවුරුද්දට පෙර හිඟ මුදලත් සමග ප්‍රතිලාභ ලබාදෙන බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+ඒ අනුව කෑගල්ල , නුවරඑළිය , බදුල්ල සහ පොළොන්නරුව යන දිස්ත්‍රික්ක 04 හි අස්වැසුම ප්‍රතිලාභ යටතේ රු. 2,500 දීමනාව මෙලෙස ලබාදීමට නියමිතය.
+
+අමාත්‍යවරයා වැඩිදුරටත් පවසා සිටියේ, මෙම දිස්ත්‍රික්කවල අස්වැසුම ප්‍රතිලාභීන් තෝරා ගැනීමේදී අඩු ලකුණු ප්‍රමාණයක් හිමි විශාල පිරිසක්ද ලේඛනවලට ඇතුළත් වීම හේතුවෙන් එම දිස්ත්‍රික්කවලට හිමි කෝටාව ඉහළ මට්ටමක පැවතීම හේතුවෙන් මෙම ගැටලුව උද්ගතව තිබූ බවය.
+
+කෙසේ වෙතත් අප්‍රේල් මස මුල් සතිය තුළ මෙම ගැටලු සියල්ල නිවැරදි කර රු. 2,500ක දීමනාවට හිමිකම් කියන, එහෙත් අස්වැසුම ප්‍රතිලාභ ගෙවීම ආරම්භ කළ 2023 ජූලි මස සිට මේ දක්වා එම ප්‍රතිලාභ නොලැබූ සියලුදෙනාට ද හිමි හිඟ මුදල් සමඟ එම ප්‍රතිලාභ ලබාදීමට අස්වැසුම ප්‍රතිලාභ මණ්ඩලය පසුගිය සතියේ තමා සමඟ පැවති සාකච්ඡාවේදී එකඟතාවය පළ කළ බව අමාත්‍යවරයා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/d2703fb3.json)
+
+---
+
+### Rescue from a house from home
 
 *2024-04-01 10:01:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீடொன்றில்-இருந்து-பெண்-சடலமாக-மீட்பு/175-335434) · `ta`
 
-கழுத்து நெரிக்கப்பட்டு கொலை செய்யப்பட்ட நிலையில், பெண்ணின் சடலம் தங்கொட்டுவ, கட்டுகெந்த பிரதேசத்தில் உள்ள வீடொன்றில் இருந்து மீட்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A 52-year-old woman from Katukenda Tangotuwa was found dead in her home yesterday. Her son discovered her body in the evening. Thangotuwa police are investigating.
 
-கட்டுகெந்த தங்கொட்டுவ பிரதேசத்தைச் சேர்ந்த 52 வயதுடைய பெண்ணே நேற்று (31) படுகொலை செய்யப்பட்டுள்ளதாக பொலிஸார் கூறினர்.
+🟩
 
-அவரது மகன்  மாலை வீட்டுக்கு வந்து பார்த்தபோது, ​​அறையில் கழுத்து நெரிக்கப்பட்ட நிலையில்  தாய் சடலமாக கிடந்துள்ளார்.
+The body of the woman has been recovered from a house in the Katukenda area of Thangottuwa, police said.
 
-இதுகுறித்து பொலிஸாருக்கு அறிவிக்கப்பட்ட நிலையில், தங்கொட்டுவ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+A 52 -year -old woman from Katukenda Tangotuwa area has been assassinated yesterday (31), police said.
+
+When her son came home in the evening, the mother was lying in the room with her neck.
+
+As the police have been informed, the Thangotuwa police are conducting further investigations.
 
 ◼️
 
 [Data](articles/6dde49b7.json)
+
+[Extended Data](ext_articles/6dde49b7.ext.json)
 
 ---
 
@@ -62,25 +86,33 @@ US media reported. The waste included mostly corrosives, flammables, miscellaneo
 
 [Data](articles/054e2e3c.json)
 
+[Extended Data](ext_articles/054e2e3c.ext.json)
+
 ---
 
-### ஆடம்பர கைக்கடிகாரம் தொடர்பில் பெரு ஜனாதிபதியின் வீட்டில் சோதனை
+### Luxury watch
 
 *2024-04-01 09:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/180104) · `ta`
 
-ஆடம்பர கைக்கடிகாரங்கள் சம்பந்தப்பட்ட ஊழல் குற்றச்சாட்டு விசாரணைகளின் ஒரு பகுதியாக, பெரு ஜனாதிபதி தீனா பொலுவார்த்தேயின் இல்லத்தில் அந்நாட்டு அதிகாரிகள் திடீர் சோதனை நடத்தினர்.
+In a corruption probe, Peru's President Deena Poluardi's residence was raided over luxury watches. Controversy arose due to President Poluardi wearing a Rolex at official events. The court raid involved 40 officers, but President Poluardi was not present. He claimed to have bought the watch legally at age 18.
 
-ஜனாதிபதி பொலுவார்தே, உத்தியோகபூர்வ நிகழ்வுகளில் ஆடம்பர ரோலக்ஸ் கைக்கடிகாரம் அணிந்திருந்தமை தொடர்பில் சர்ச்சை ஏற்பட்டிருந்தது.
+🟩
 
-இந்நிலையில், வழக்குத் தொடுநர்களின் கோரிக்கைக்கு அமைய நீதிமன்றம் அளித்ததையடுத்து நேற்று அதிகாலை ஜனாதிபதி தீனா பொலுவார்த்தேயின் இல்லத்தில் நேற்றுமுன்தினம் சோதனை நடத்தப்பட்டது.
+As part of the corruption investigation involving luxury watches, the country's officials raided the residence of Peru President Deena Poluardi.
 
-பொலிஸார் உட்பட 40 அதிகாரிகள் இச்சோதனையில் பங்குபற்றினர். ஜனாதிபதி பொலுவார்த்தே அப்போது அவ்வீட்டில் இருக்கவில்லை எனத் தெரிவிக்கப்படுகிறது.
+There was controversy over the fact that President Polwarde was wearing a luxury Rolex watch at official events.
 
-ஆடம்பர கைக்கடிகாரத்தை எப்படி தீனா பொலுவாரத்தே (61) வாங்கினார் என முன்னர் கேட்கப்பட்டபோது தான் 18 வயதிலிருந்து உழைத்ததால் அதை வாங்க முடிந்ததாக அவர் பதிலளித்திருந்தார்.
+In the meantime, the court made a raid at the residence of President Deena Poluarde yesterday morning at the request of the prosecutors.
+
+40 officers, including police, participated in the experiment. It is reported that President Poluwarthe was not in the same time.
+
+He responded that he had been able to buy it because he had worked for the age of 18 when he was earlier asked how Dinah Polwarath (61) bought the luxury watch.
 
 ◼️
 
 [Data](articles/7a1b0f7e.json)
+
+[Extended Data](ext_articles/7a1b0f7e.ext.json)
 
 ---
 
@@ -2223,35 +2255,5 @@ Thus, the members of the public are advised to stay hydrated, take breaks in the
 [Data](articles/8940eed5.json)
 
 [Extended Data](ext_articles/8940eed5.ext.json)
-
----
-
-### 73 million personal data out
-
-*2024-03-31 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195138) · `si`
-
-AT&T's data breach exposed 73 million personal records, including addresses, social security numbers, and passwords, on the Dark Web. The company has reformed customer passwords and revealed non-financial details like email addresses and birth dates. The breach originated from its data system or a third-party supplier.
-
-🟩
-
-According to income, the four-largest telecommunications company in the world has been released to the Internet and the current consumers of American multinational electricity telecommunications company.
-
-Meanwhile, it is reported that information has been published on Dark Web sites, including customers' addresses, social security numbers and passwords.
-
-However, AT & T have no idea that the proof of stolenning its data was not identified, but it is learned that cyber security experts seek investigation.
-
-The company has said that the passwords of their customers have been reformed.
-
-The Financial Information The Financial Information is not revealed, but the total information such as e-mail addresses and date of birth is also revealed.
-
-However, the company said in a statement, however, it was revealed that these details were taken from its data system or the third-party supplier.
-
-At & T's wireless 5G network covers 290 million customers worldwide, one of the 240 million customers worldwide.
-
-...
-
-[Data](articles/538f5f17.json)
-
-[Extended Data](ext_articles/538f5f17.ext.json)
 
 ---

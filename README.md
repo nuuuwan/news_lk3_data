@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 15:33:35**
+As of **2024-04-01 15:52:16**
 
 ## Newspaper Stats
 
-*Scraped **16,380** Articles*
+*Scraped **16,383** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 893
 islandlk | 912
 adalk | 1,376
 tamilmirrorlk | 1,959
-adaderanalk | 1,974
-virakesarilk | 2,328
+adaderanalk | 1,975
+virakesarilk | 2,330
 dailymirrorlk | 2,520
 adaderanasinhalalk | 2,654
 
@@ -26,27 +26,81 @@ adaderanasinhalalk | 2,654
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,378 (100.0%) of 16,380 articles have been extended.
+16,380 (100.0%) of 16,383 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### ලාෆ්ස් ගෑස් මිලේ ලොකු වෙනසක්
+### வீட்டு நிர்மாணப் பணியின்போது மண்மேடு சரிந்து வீழ்ந்து ஒருவர் பலி
+
+*2024-04-01 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180151) · `ta`
+
+பூஜாபிட்டிய கஹவத்த பிரதேசத்தில்  வீடு ஒன்றை நிர்மாணிப்பதற்காக  அத்திவாரம்  வெட்டி  தூண்களை  அமைத்துக் கொண்டிருந்த இருவர் மீது மண் மேடு சரிந்து வீழ்ந்ததில் ஒருவர் உயிரிழந்துள்ளதுடன் ஒருவர் காயமடைந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+பூஜாபிட்டிய திவானவத்த பகுதியைச் சேர்ந்த ஜகத் விஜேசூரிய என்ற 54 வயதுடைய நான்கு பிள்ளைகளின் தந்தையே  உயிரிழந்துள்ளார்.
+
+பிரதேசவாசிகள் இருவரையும் மீட்டு அக்குறணை வைத்தியசாலைக்கு கொண்டு சென்ற போதிலும் ஒருவர் உயிரிழந்துள்ளதுடன், ஆபத்தான நிலையில் இருந்த மற்றைய நபர் கண்டி தேசிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/756f1a9a.json)
+
+---
+
+### Laugfs Gas also slashes prices
+
+*2024-04-01 15:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/98348/laugfs-gas-also-slashes-prices-) · `en`
+
+Laugfs Gas PLC, one of the main suppliers of liquefied petroleum (LP) gas in Sri Lanka, has also decided to revise the prices of its domestic LP gas cylinders with effect from midnight today (01).
+
+Accordingly, the price of the 12.5 kg cylinder has been reduced by Rs. 625 to Rs. 4,115 while the price of the 05 kg cylinder has been reduced by Rs. 248 to Rs. 1,652.
+
+The announcement comes shortly after Litro Gas Lanka announced its decision to reduce the prices ahead of the festive season.
+
+◼️
+
+[Data](articles/e5b19c42.json)
+
+---
+
+### LAUGFS GAS Price
 
 *2024-04-01 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195174) · `si`
 
-අද මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ලාෆ්ස් ගෑස් මිල පහත දැමීමට තීරණය කර තිබේ.
+LAUGFS reduces gas prices from midnight. 12.5kg cylinder now Rs. 4,111, down from Rs. 4,736. 5kg cylinder is Rs. 1,652.
 
-එම සමාගම පවසන්නේ ඒ අනුව කිලෝග්‍රෑම් 12.5ක ලාෆ්ස් ගෑස් සිලින්ඩරයක මිල රුපියල් 625කින් අඩුකරන බවය.
+🟩
 
-ඒ අනුව කිලෝග්‍රෑම් 12.5ක ලාෆ්ස් ගෑස් සිලින්ඩරයක නව මිල රුපියල් 4,111කි.
+LAUGFS has decided to reduce the price of gas prices as operated from midnight today.
 
-එසේම කිලෝග්‍රෑම් 5 ලාෆ්ස් ගෑස් සිලින්ඩරයක මිලද පහළ දැමීමට තීරණය කර ඇති අතර එහි නව මිල වන්නේ රුපියල් 1,652කි.
+Accordingly, the price of a 12.5kg LAUGS gas cylinder will be reduced by Rs. 625.
+
+Accordingly, a 12.5kg Laugfs gas cylinder is Rs. 4,111.
+
+The price of a 5kg of LAUGFS gas cylinder has decided to detect the price of Rs. 1,652.
 
 ◼️
 
 [Data](articles/2d16fc56.json)
+
+[Extended Data](ext_articles/2d16fc56.ext.json)
+
+---
+
+### வவுனியா சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்த கைதியொருவர் வைத்தியசாலையில் மரணம்
+
+*2024-04-01 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/180147) · `ta`
+
+வவுனியா சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்த கைதி ஒருவர் வவுனியா வைத்தியசாலையில் நேற்று ஞாயிற்றுக்கிழமை (31) மாலை மரணமடைந்துள்ளார்.
+
+குற்றச் செயல் ஒன்று தொடர்பில் வவுனியா சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்த கைதி ஒருவருக்கு உடல் நலக் குறைவு ஏற்பட்டதையடுத்து சிறைச்சாலை உத்தியோகத்தர்களால் வவுனியா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளார்.
+
+வைத்தியசாலையில் குறித்த கைதிக்கு சிகிச்சை வழங்கப்பட்ட போதும் அவர் சிகிச்சை பலனின்றி மரணமடைந்துள்ளார். மாரடைப்பு காரணமாகவே குறித்த மரணம் இடம்பெற்றுள்ளதாக வைத்தியர்கள் தெரிவித்துள்ளனர்.  ஜாஎல பகுதியைச் சேர்ந்த 34 வயது இளைஞரே இவ்வாறு மரணமடைந்தவராவார்.
+
+◼️
+
+[Data](articles/189d0943.json)
 
 ---
 
@@ -698,15 +752,21 @@ When such cases were taken up for hearing in the Magistrate's Courts, the little
 
 ---
 
-### විමල්ට ලැබුණු තීන්දුව
+### Wimal received
 
 *2024-04-01 12:25:44* · [`adalk`](https://www.ada.lk/breaking_news/විමල්ට-ලැබුණු-තීන්දුව/11-408879) · `si`
 
-මීගමුව මහෙස්ත්‍රාත් අධිකරණය විසින් ලබාදුන් නියෝගය අනුව විදේශ ගමන් බලපත්‍ර නඩුවෙන් පාර්ලිමේන්තු මන්ත්‍රී විමල් වීරවංශ මහතා නිදොස් කොට නිදහස් කොට තිබේ.
+MP Wimal Weerawansa cleared from passport case by Negombo Magistrate's Court.
+
+🟩
+
+MP Wimal Weerawansa has acquired and released from the passport case by the Passport case by the Negombo Magistrate's Court.
 
 ◼️
 
 [Data](articles/999c887e.json)
+
+[Extended Data](ext_articles/999c887e.ext.json)
 
 ---
 
@@ -2227,85 +2287,5 @@ They in particular singled out the large scale infrastructure projects, particul
 [Data](articles/30f86b77.json)
 
 [Extended Data](ext_articles/30f86b77.ext.json)
-
----
-
-### Gaza was attacked by hospital
-
-*2024-04-01 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195155) · `si`
-
-In Gaza, an air strike on a hospital injured seven journalists. Four Islamic Jihad militants were reported dead. Israel denied using the hospital as a base.
-
-🟩
-
-A group of journalists were injured in an air strike on a hospital in Gaza.
-
-Seven journalists were injured in this air attack.
-
-However, four Islamic jihad jihad militants reported dead, "BBC.
-
-The army has said that he had attacked the Islamic Jihad Commanding Center at Deal Al Bananda Allem.
-
-However, Israel's allegations have refused to be used as the camps of the hospital.
-
-◼️
-
-[Data](articles/c6dd0be8.json)
-
-[Extended Data](ext_articles/c6dd0be8.ext.json)
-
----
-
-### Announcement to the Armed Forces to join the Russian army
-
-*2024-04-01 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195154) · `si`
-
-The Russian army is joining Sri Lanka's security forces, but the Sri Lankan Defense Ministry has warned against joining. Two Sri Lankan soldiers who joined the Russian army have died, and two others were not informed. This situation could harm Sri Lanka's reputation without an agreement between the Sri Lankan and Russian armies.
-
-🟩
-
-All three armed forces have been informed to do not join the Russian army, the Defense Ministry said.
-
-It is revealed that the Russian army is joining the security forces of Sri Lanka, the Ministry of Defense said.
-
-As two army soldiers who joined the Russian army have recently died, according to the disagreement of the Aljezara.
-
-However, two army soldiers have not been informed through the embassies.
-
-The Ministry of Defense said that such incidents would be harming the reputation of the country in the absence of any agreement between the Sri Lankan army and the Russian army to serve as Russia.
-
-In this situation, military personnel have been informed not to join the Russian army.
-
-Meanwhile, in December last year, three other former army soldiers in Sri Lanka have been killed while serving in the Ukrainian army.
-
-◼️
-
-[Data](articles/23d8fada.json)
-
-[Extended Data](ext_articles/23d8fada.ext.json)
-
----
-
-### 14-year-old student's survivor
-
-*2024-04-01 07:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195153) · `si`
-
-A 14-year-old student was killed in a motorbike accident near Paragahandeniya, while rushing to Mawathagama hospital. The deceased was identified as a Sinhapura Paragahadeniya school student. Other injured were transferred to Kurunegala Hospital.
-
-🟩
-
-A motorbike was a motorbike with a motorcycle who was traveling to Paragahandeniya from Paragahadeniya Pussapura, Paragahadeniya Pushawapapura area.
-
-The drivers were killed in rushing to the Mawathagama hospital with serious injured motorbikes.
-
-The deceased has been identified as a school student of the Sinhapura Paragahadeniya area in the Sinhapuradeniya.
-
-The other injured have been transferred to Kurunegala Hospital for further treatment.
-
-◼️
-
-[Data](articles/550108b8.json)
-
-[Extended Data](ext_articles/550108b8.ext.json)
 
 ---

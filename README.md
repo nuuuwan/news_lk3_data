@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 01:03:38**
+As of **2024-04-02 01:18:08**
 
 ## Newspaper Stats
 
-*Scraped **16,482** Articles*
+*Scraped **16,483** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 147
 bbccomsinhala | 174
 dbsjeyarajcom | 201
 newsfirstlk | 363
-dailyftlk | 886
+dailyftlk | 887
 economynextcom | 909
 islandlk | 913
 adalk | 1,387
@@ -26,11 +26,23 @@ adaderanasinhalalk | 2,668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,480 (100.0%) of 16,482 articles have been extended.
+16,482 (100.0%) of 16,483 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-02 (Tuesday)
+
+### Developing sustainable business: Power of people-centric management
+
+*2024-04-02 00:38:49* · [`dailyftlk`](https://www.ft.lk/columns/Developing-sustainable-business-Power-of-people-centric-management/4-760194) · `en`
+
+As businesses navigate complex challenges and pursue growth opportunities in a turbulent environment, it is imperative to recognise that the true engine driving success lies in effectively harnessing and optimising human resources. It is people who drive all other resources, thus becoming the central force. Gone are the days when success was solely measured by financial metrics or technological competence. While money, machinery, and markets undoubtedly play crucial roles, they are merely tools in the hands of people. The real value lies in the talent, creativity, and dedication of individuals who comprise the workforce
+
+...
+
+[Data](articles/4e3fe37a.json)
+
+---
 
 ### Mumbai's failure continues to taste Rajasthan 3rd direct victory
 
@@ -160,6 +172,8 @@ A: According to most credible surveys carried out, the main drivers of investmen
 
 [Data](articles/49228494.json)
 
+[Extended Data](ext_articles/49228494.ext.json)
+
 ---
 
 ### Sri Lanka exporters protest rupee appreciation, forced conversion rules
@@ -209,6 +223,8 @@ A distinguishing mark of the accounting profession is its acceptance of the resp
 ...
 
 [Data](articles/37bcbaca.json)
+
+[Extended Data](ext_articles/37bcbaca.ext.json)
 
 ---
 
@@ -2223,25 +2239,5 @@ With sea waves, the stones that have been placed on the coastal areas are occasi
 [Data](articles/2ca693fc.json)
 
 [Extended Data](ext_articles/2ca693fc.ext.json)
-
----
-
-### 500 bicycles donated from Japan to support school attendance in remote areas
-
-*2024-04-01 14:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/500-bicycles-donated-from-Japan-to-support-school-attendance-in-remote-areas/108-279964) · `en`
-
-Colombo, April 1 (Daily Mirror) - In order to encourage the daily school attendance of school children in remote areas, a total of 500 bicycles were given as a grant from the Japanese 'ChildFund' organization to Sri Lanka to provide students with the opportunity to attend school continuously.
-
-These bicycles were officialy handed over today by Education Minister Susil Premajayantha at Water's Edge, Battaramulla.
-
-Japanese Ambassador to Sri Lanka Mizukoshi Hadeaki, representative of the Japanese 'Childfund' Institute Yuko Ishanda and the National Director of the Sri Lankan 'Childfund' Institute Ms. Aditi Gosh participated in the event.
-
-Suitable students between the ages of 12 and 16 have been selected from 108 schools in 12 districts with transportation difficulties such as Moneragala, Puttalam and Mullaitivu to provide this stock of bicycles that have already been received in Sri Lanka.
-
-...
-
-[Data](articles/04c1e2f0.json)
-
-[Extended Data](ext_articles/04c1e2f0.ext.json)
 
 ---

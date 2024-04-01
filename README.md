@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 12:33:39**
+As of **2024-04-01 12:50:02**
 
 ## Newspaper Stats
 
-*Scraped **16,346** Articles*
+*Scraped **16,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 893
 islandlk | 912
-adalk | 1,373
-tamilmirrorlk | 1,954
+adalk | 1,374
+tamilmirrorlk | 1,955
 adaderanalk | 1,970
 virakesarilk | 2,319
 dailymirrorlk | 2,515
@@ -26,29 +26,55 @@ adaderanasinhalalk | 2,647
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,336 (99.9%) of 16,346 articles have been extended.
+16,346 (100.0%) of 16,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### 2024 මැතිවරණ ගැන ඉඟියක්
+### பாலியல் உறவுக்கான வயதைக்  குறைக்கும் சட்டமூலம் வாபஸ்
+
+*2024-04-01 12:32:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலியல்-உறவுக்கான-வயதைக்-குறைக்கும்-சட்டமூலம்-வாபஸ்/175-335449) · `ta`
+
+பாலியல் உறவுக்கான வயது வரம்பை 14 ஆகக் குறைக்கும் தண்டனைச் சட்டம் (திருத்தம்) சட்டமூலத்தை அரசாங்கம் இன்று வாபஸ் பெற்றது.
+
+சட்டமூலத்தை அரசாங்கம் வாபஸ் பெறுவதாக பாராளுமன்றத்தில் தெரிவித்த நீதியமைச்சர் விஜயதாச ராஜபக்ஷ, ஆர்வமுள்ள சகல தரப்பினருக்கும் இணங்கக்கூடிய திருத்தம் எதிர்காலத்தில் பாராளுமன்றத்தில் முன்வைக்கப்படும் என்றும் தெரிவித்தார்.
+
+ஐந்தாண்டுகள் படித்து முடித்த மூத்த ஜனாதிபதி சட்டத்தரணிகள், இதர சட்டத்தரணிகள் மற்றும் தொழில் வல்லுனர்களால் இந்த சட்டமூலம் மீதான பரிந்துரை நீதி அமைச்சகத்திடம் சமர்ப்பிக்கப்பட்டதாக அமைச்சர் கூறினார்.
+
+காதல் உறவின் சம்மதத்தின் பேரில் பாலுறவு கொண்ட காதலர்கள் எதிர்கொள்ள வேண்டிய நடைமுறை சிக்கல் காரணமாக இந்த திருத்தம் முன்மொழியப்பட்டதாக அவர் கூறினார்.
+
+“பொதுவாக 14 முதல் 16 வயதுக்குட்பட்ட சிறுமிகள் 16 முதல் 22 வயதுடைய சிறுவர்களால் பாலியல் பலாத்காரம் செய்யப்பட்ட விஷயங்களில் பலாத்கார வழக்குகள் பதிவு செய்யப்படுகின்றன.
+
+...
+
+[Data](articles/0c4a1c23.json)
+
+---
+
+### 2024 hint of elections
 
 *2024-04-01 12:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195167) · `si`
 
-මෙම වසරේදී ජනාධිපතිවරණය පැවැත්වීම සදහා මුලික කටයුතු මේ වනවිටත් සුදානම් කර අවසන් බව ජාතික මැතිවරණ කොමිසම පවසයි.
+The National Election Commission has prepared for the presidential election, set for late September or October. The Sri Lanka General Front requests a general election before the presidential one, aiming for August.
 
-ඒ අතර රජයේ අභ්‍යන්තර ආරංචි මාර්ග පවසන්නේ ජාත්‍යන්තර මූල්‍ය අරමුදලේ ණය ප්‍රතිව්‍යුහගතකරණ වැඩසටහන ජූලි මාසයේ අග වන තෙක් ක්‍රියාත්මක වන බැවින් ඊට පෙර කිසිදු මැතිවරණයක් නොපැවැත්වෙනු ඇතැයි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා කැබිනට් මණ්ඩලයට සහ මැතිවරණ කොමිසමට දැනුම්දුන් බවයි.
+🟩
 
-මෙම වසරේදී ව්‍යවස්ථානුකූලව ජනාධිපතිවරණය පැවැත්විය යුතු වන අතර එළැඹෙන සැප්තැම්බර් අග හෝ ඔක්තෝබර් මුලදී එය පැවැත්වෙනු ඇතැයි වාර්තා විය.
+The National Election Commission says the basic functions of the presidential election this year have already been prepared.
 
-මැතිවරණ කොමිසමේ සාමාජිකයකු ප්‍රකාශ කළේ ජනාධිපතිවරණය සදහා රුපියල් කෝටි දහසක මුදලක් පසුගිය අයවැයෙන් වෙන්කර ඇති අතර මැතිවරණය පැවැත්වීම සඳහා සිදුකෙරෙන කටයුතු පිළිබඳ සියලු සහකාර මැතිවරණ කොමසාරිස්වරුන් දැනුවත් කර ඇති බවයි.
+Meanwhile, Presidential sources say that the International Monetary Fund loan is informed until the end of the International Monetary Fund, but no election will be held to the Cabinet and the Election Committee.
 
-කෙසේ වෙතත් ජනාධිපතිවරණයට පෙර මහ මැතිවරණයක් පවත්වන ලෙස ශ්‍රී ලංකා පොදුජන පෙරමුණ ජනපතිවරයාගෙන් ඉල්ලා තිබූ අතර එසේ පවත්වන්නේ නම් මහ මැතිවරණය අගෝස්තු මාසයට පෙර පැවැත්විය යුතු වෙයි.
+The presidential election should be held this year and will be held in late September or October.
+
+A member of the Elections Commission has made a sum of Rs.
+
+However, the Sri Lanka General Front had requested the President to hold a general election before the presidential election and the general election should be held before August.
 
 ◼️
 
 [Data](articles/2b75fce2.json)
+
+[Extended Data](ext_articles/2b75fce2.ext.json)
 
 ---
 
@@ -68,55 +94,93 @@ Meanwhile, SLFP also appointed a new Senior Vice President, a Treasurer and a Na
 
 [Data](articles/2f3baa1c.json)
 
+[Extended Data](ext_articles/2f3baa1c.ext.json)
+
 ---
 
-### லிட்ரோ சமையல் எரிவாயுவின் விலை குறைப்பு
+### Litro cooking gas reduction
 
 *2024-04-01 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/180121) · `ta`
 
-லிட்ரோ சமையல் எரிவாயுவின் விலைகள் இன்று திங்கட்கிழமை (01) நள்ளிரவு முதல் குறைக்கப்படவுள்ளதாக லிட்ரோ நிறுவனம் தெரிவித்துள்ளது.
+Litro reduces cooking gas prices from midnight Monday. 12.5 kg cylinder now 4,115 rupees, 5 kg 1,652 rupees, and 2.3 kg 772 rupees.
 
-அதன்படி 12.5 கிலோ கிராம் நிறையுடைய சமையல் எரிவாயு சிலிண்டரின் விலை 135 ரூபாவால் குறைக்கப்படவுள்ளதுடன் அதன் புதிய விலை 4,115 ரூபாவாகும்.
+🟩
 
-5 கிலோ கிராம் நிறையுடைய சமையல் எரிவாயு சிலிண்டரின் விலை 55 ரூபாவால் குறைக்கப்படவுள்ளதுடன் அதன் புதிய விலை 1,652 ரூபாவாகும்.
+The prices of Litro cooking gas will be reduced from midnight on Monday (01), Litro said.
 
-அதேவேளை, 2.3 கிலோ கிராம் நிறையுடைய சமையல் எரிவாயு சிலிண்டரின் விலை 23 ரூபாவால் குறைக்கப்படவுள்ளதுடன் அதன் புதிய விலை 772 ரூபாவாகும்.
+Accordingly, the price of the cooking gas cylinder, which is 12.5 kg, will be reduced by 135 rupees and its new price is 4,115 rupees.
+
+The price of 5 kg of cooking gas cylinder will be reduced by 55 rupees and its new price is 1,652 rupees.
+
+At the same time, the price of 2.3 kg of cooking gas cylinder will be reduced by 23 rupees and its new price is 772 rupees.
 
 ◼️
 
 [Data](articles/76d55c5a.json)
 
+[Extended Data](ext_articles/76d55c5a.ext.json)
+
 ---
 
-### දුමින්ද, ලසන්ත සහ මහින්ද නෙරපීමට එරෙහිව අතුරු තහනමක්
+### Duminda suspended against Lasantha and Mahinda expelled
 
 *2024-04-01 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195166) · `si`
 
-දුමින්ද දිසානායක, ලසන්ත අලගියවන්න සහ මහින්ද අමරවීර යන මහත්වරුන් ශ්‍රී ලංකා නිදහස් පක්ෂයේ කෘත්‍යාධිකාරී මණ්ඩලයේ ධූරවලින් ඉවත් කිරීම වළක්වාලමින් කොළඹ දිසා අධිකරණය අතුරු තහනම් නියෝගයක් නිකුත් කර තිබේ.
+The Colombo District Court issued an interim order suspending Duminda Dissanayake and expelling Lasantha Alagiyawanna and Mahinda Amaraweera from the Sri Lanka Freedom Party. The party's Executive Committee met and made changes, including replacing Mahiyanganaya electoral organizer KP Gunawardena with Duminda Dissanayake and former Minister Hector Bethmana with the Senior Vice President.
 
-දුමින්ද දිසානායක, ලසන්ත අලගියවන්න සහ මහින්ද අමරවීර ශ්‍රී ලංකා නිදහස් පක්ෂයේ තනතුරුවලින් පසුගිය සෙනසුරාදා (30) ඉවත්කර තිබුණි.
+🟩
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ විධායක සභාව එදින පක්ෂ මූලස්ථානයේදී රැස්වූ අතර එහිදී මෙම තීරණ ගෙන තිබුණි.
+The Colombo District Court has issued an interim order preventing Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera.
 
-ඒ අනුව, ශ්‍රී ලංකා නිදහස් පක්ෂයේ ජාතික සංවිධායක ධූරයෙන් ඉවත් කළ දුමින්ද දිසානායක මහතා වෙනුවට මහියංගනය ආසන සංවිධායක කේ.පී ගුණවර්ධන මහතා පත්කළේය.
+Duminda Dissanayake, Lasantha Alagiyawanna and Mahinda Amaraweera have been removed from the Sri Lanka Freedom Party (30) last Saturday.
 
-එසේම භාණ්ඩාගාරික ධුරයෙන් ඉවත් කළ ලසන්ත අලගියවන්න මහතා වෙනුවට බස්නාහිර පළාත් සභාවේ හිටපු අමාත්‍ය හෙක්ටර් බෙත්මගේ මහතා පත්කළ අතර පක්ෂයේ ජ්‍යෙෂ්ඨ උප සභාපති ලෙස කටයුතු කළ මහින්ද අමරවීර මහතා වෙනුවට සරත් ඒකනායක මහතාව පත් කර තිබුණි.
+The Sri Lanka Freedom Party Executive Committee met at the party headquarters at the party headquarters.
+
+Accordingly, Mahiyanganaya electoral organizer KP Gunawardena was replaced by Duminda Dissanayake who was removed from the post of National Organizer of the SLFP.
+
+Former Minister Hector Bethmana, who was removed from the post of Treasurer, was replaced by the Senior Vice President of the party.
 
 ◼️
 
 [Data](articles/5cac0f50.json)
 
+[Extended Data](ext_articles/5cac0f50.ext.json)
+
 ---
 
-### ලිට්‍රෝ ගෑස් මිල පහළට
+### Litro gas prices down
 
 *2024-04-01 12:13:23* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-මිල-පහළට/11-408878) · `si`
 
-අද අප්‍රේල් 01දා මධ්‍යම රාත්‍රිෙය් සිට ගෘහස්ත ගෑස් සිලින්ඩරයක මිල පහළ දැමීමට ලිට්‍රෝ ගෑස් සමාගම තීරණය කර ඇත.
+Litro Gas reduces domestic gas cylinder prices today.
+
+🟩
+
+Today, Litro Gas has decided to reduce the price of a domestic gas cylinder today.
 
 ◼️
 
 [Data](articles/82cd4cbe.json)
+
+[Extended Data](ext_articles/82cd4cbe.ext.json)
+
+---
+
+### ලැන්කෂයර් ප්‍රාන්තයේ ක්‍රිකට් පොඩ්ඩෝ ලංකාවට
+
+*2024-04-01 12:11:11* · [`adalk`](https://www.ada.lk/sports/ලැන්කෂයර්-ප්‍රාන්තයේ-ක්‍රිකට්-පොඩ්ඩෝ-ලංකාවට/9-408877) · `si`
+
+එංගලන්තයේ ලැන්කැෂයර් ප්‍රාන්තයේ වයස අවුරුදු 13 න් සහ 15 න් පහළ ක්‍රිකට් කණ්ඩායමේ  සාමාජිකයන් 14 දෙනෙකුගෙන් යුතු ක්‍රිකට් කණ්ඩායමක් ශ්‍රී ලංකාවේ දින 10 ක තරග සංචාරයක් සදහා 04/01 දින උදෑසන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ.
+
+ඔවුන් කොළඹ පැවැත්වෙන එක් දින සීමිත ඕවර් 50 ක්‍රිකට් තරග 03 කට සහ ගාල්ල සහ කොළඹ පැවැත්වෙන විස්සයි විස්ස ක්‍රිකට් තරග 03 කට සහභාගී වීමට නියමිතය .
+
+මෙම ක්‍රිකට් කණ්ඩායම තුළ දක්ෂ ආරම්භ පිතිකරුවන් , වේග පන්දු යවන්නන් සහ දග පන්දු යවන්නන් රාශියක් සිටින අතර ඔවුන් ශ්‍රී ලංකාවේ ක්‍රිකට් තණ තීරු වල ක්‍රීඩා කර අත්දැකීම් ලබා ගැනීම සදහා මෙසේ ශ්‍රී ලංකාවේ තරග සංචාරයක නිරත වන බව මෙම කණ්ඩායමේ පුහුණුකරු , හිටපු ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක අමල් දළුගොඩ මහතා කටුනායක ගුවන් තොටුපොළේ දී පැවසීය .
+
+ක්‍රිකට් කණ්ඩායමේ නායක ලෙස ලූක් යේට්ස්  (Luke Yates ) කටයුතු කරනු ලබයි . ලැන්කැෂයර් ප්‍රාන්තයේ ක්‍රිකට් කණ්ඩායම 04/01 දින උදෑසන 08.30 ට ඩුබායි සිට එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 650 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+◼️
+
+[Data](articles/c14cf654.json)
 
 ---
 
@@ -135,6 +199,8 @@ The 2.3 kg cylinder of LP gas will be reduced by Rs. 23 and the new retail price
 ◼️
 
 [Data](articles/46642a39.json)
+
+[Extended Data](ext_articles/46642a39.ext.json)
 
 ---
 
@@ -244,21 +310,31 @@ The dollar's purchase is Rs. 295.57 and the sale price is Rs. 305.10.
 
 ---
 
-### යතුරුපැදි සොරාගෙන විකුණා කුඩු පානය කළ  පුද්ගලයින් දෙදෙනෙක් අත්අඩංගුවට
+### Two arrested for selling motorbikes
 
 *2024-04-01 11:47:39* · [`adalk`](https://www.ada.lk/breaking_news/යතුරුපැදි-සොරාගෙන-විකුණා-කුඩු-පානය-කළ--පුද්ගලයින්-දෙදෙනෙක්-අත්අඩංගුවට/11-408876) · `si`
 
-ප්‍රදේශ රැසක මහමග  නතර කර තිබූ  යතුරු පැදි සොරාගෙන  අන්තර්ජාලයේ දැන්වීම් දමා අඩු මුදලට විකුණා හොරයින් මත්කුඩු පානය කළ යතුරුපැදි කාර්මිකයකු ඇතුළු පුද්ගලයන් දෙදෙනකු අත්අඩංගුවට ගත් බව බොරලැස්ගමුව පොලිසිය කියයි.
+Two motorcycle thieves, including a technician, arrested for stealing and selling bikes. They confessed to six thefts in Hokandara North and five more in Mount Lavinia and Homagama, Boralesgamuwa. Suspects, aged 23 and 26, were drug addicts.
 
-එම සැකකරුවන් දෙදෙනා සමග  සොරා ගත් රුපියල් ලක්ෂ 25 ක් පමණ වටිනා යතුරුපැදි හයක් සොරකමට යොදාගත් යතුරුපැදිය ටයර් දෙකක්, දෙකක් වෙනත් යතුරුපැදි පහක අංකත තහඩු 5 ක් සහ, සැකකාර යතුරුපැදි කාර්මිකයකු සන්තකයේ තිබූ හොරයින් මත්කුඩු මිලිගෑම් 12400 ක්  පොලිස් භාරයට ගෙන ඇත.
+🟩
 
-ඔහු කාලයක සිට හෝකන්දර උතුර ප්‍රදේශයේ තවත් පුද්ගලයෙකු සමග එක්ව සිදුකළ  යතුරුපැදි සොරකම් හයක තොරතුරු අනාවරණය කර ගැනීමට හැකිවූ බව පොලිසිය කියයි.
+Boralesgamuwa Police say two persons, including a motorcycle technician, who had stolen the new motorcycles in many areas and sold a motorcycle technician.
 
-ඒ අතර  සැකකරුවන් දෙදෙනා එක්ව ඉකුත් මස 8 වෙනි දින බොරලැස්ගමුව  සෝමරත්න මාවතේ නිවසක් ඉදිරිපිට නතර කර තිබූ යතුරුපැදියක් සොරා ගැනීම සම්බන්ධයෙන්  හා මිරිහාන  මහරගම දෙහිවල ගල්කිස්ස හා හෝමාගම ආදී පොලිස් වසම් සිදු කළ තවත් යතුරු පැදි සොරකම් පහක තොරතුරු අනාවරණය කර ගැනීමට හැකිවූ බව විමර්ශන පවත්වන නිලධාරියකු පැවසීය.
+Two motorcycle tires used to steal six million motorcycle and two other motorcycle troubles were taken into custody by two other motorcycle tires and two other motorcycle industrial.
 
-...
+Police say he had detected six motorcycle robbery with another person in Hokandara North.
+
+Meanwhile, the two suspects have been able to disclose information from five other motorcycle steals that had been stocked in the Mount Lavinia, Mount Lavinia and Homagama in Maharagama, Boralesgamuwa.
+
+The two suspects have been found in the Internet to sell the keybuilding certificates of the Internet and sold in the Internet.
+
+The two arrested suspects were 23 and 26 years old and heroic drug addicted to drugs.
+
+◼️
 
 [Data](articles/ef59c51a.json)
+
+[Extended Data](ext_articles/ef59c51a.ext.json)
 
 ---
 
@@ -524,21 +600,29 @@ He was arrested following information received by the police and after a long in
 
 ---
 
-### අභිරහස් ලෙස මියගිය සූපවෙදියාගෙ මරණයට විවෘත තීන්දුවක්
+### An open decision to the death of a mysteriously deceased
 
 *2024-04-01 11:10:34* · [`adalk`](https://www.ada.lk/breaking_news/අභිරහස්-ලෙස-මියගිය-සූපවෙදියාගෙ-මරණයට-විවෘත-තීන්දුවක්/11-408875) · `si`
 
-තලවතුගොඩ උතුවන්කන්ද හන්දිය ආසන්නයේ මහමග වැටී අභිරහස් ලෙස මියගොස් සිටි සූපවේදියකුගේ මළ සිරුරක් සොයාගත් බව තලංගම පොලිසිය පවසයි.
+A chef's mysterious death near Utuwanakanda junction in Talawatugoda leads to a local investigation. The body, found with alcohol near it, was taken to Colombo National Hospital for post-mortem. The deceased, unmarried and from Pannipitiya, had a history of living independently and was a high-educated individual.
 
-මෙසේ මියගොස් ඇත්තේ පන්නිපිටිය කොට්ටාව ගැමුණු පුර 2  පටුමග  පදිංචි  ශාන් මධුසංක නමැති (35) හැවිරිදි අවිවාහක සූපවේදියකු බව පොලිසිය කියයි.
+🟩
 
-මෙම පුද්ගලයා තලවතුගොඩ උතුවන්කන්ද හන්දිය ආසන්නයේ එළවළු වෙළඳසැලක් අසල මහමග වැටී සිටියදී අසල්වාසීන් විසින් 119 හදිසි ඇමතුම් අංකයට දන්වා ඇති අතර ඒ අනුව පොලිසිය පැමිණ 1990 සුවසැරිය ගිලන් රථයක් ගෙන්වා රෝහල්ගත කිරීමට යාමේදී ඔහු මියගොස් ඇති බවට අනාවරණය වී තිබේ.
+The body of a summer body of a chef was found mysteriously dead near the Utuwanakanda junction near Talawatugoda.
 
-ඒ අනුව මෘත දේහය  එම ස්ථානයෙන් ඉවත් නොකොට තලංගම හදිසි මරණ පරීක්ෂිකා සාම මිනිසුරු ප්‍රේමලතා අබේවර්ධන මහත්මිය ස්ථානීය පරීක්ෂණයක් සඳහා කැඳවන ලදී. එම අවස්ථාවේදී මෘත දේහය අසල  මත්පැන් තිබූ බෝතලයක් සහ වස තිබූ බෝතලයක් තිබී හමු වූ බව පැවසේ.
+The deceased has been identified as an unmarried chef, a resident of Purawa Gemunu Puratawa Gemunu, Pannipitiya.
+
+The man had informed the 119 emergency caller when the neighbors came to a vegetable shop near the Utuwankanda Junction of Unthawkoda.
+
+Accordingly, the remains were not removed from the site without removal of the Talangama Sudden Mortem Abeywardena called for a local investigation. It is said that a bottle of alcohol near the corpse was found in the body.
+
+Accordingly, the position of the site had ordered the police to take the body to the Colombo National Hospital morgue. The judicial Medical Officer L. The body has been referred to the Government Analyst for further investigations to further investigate the post-death inspection of the body by Mr. Gamage.
 
 ...
 
 [Data](articles/2f69ed03.json)
+
+[Extended Data](ext_articles/2f69ed03.ext.json)
 
 ---
 
@@ -604,19 +688,25 @@ Accordingly, Lalanthi Perera of Kalutara will be summoned for her post which cal
 
 ---
 
-### පුතු නිවසේ නැති අතරේ මවට අත්වූ ඉරණම
+### The fate of the mother, while the son is not at home
 
 *2024-04-01 10:57:34* · [`adalk`](https://www.ada.lk/breaking_news/පුතු-නිවසේ-නැති-අතරේ-මවට-අත්වූ-ඉරණම/11-408874) · `si`
 
-ඊයේ (31) වන දින සවස් කාලයේදී දංයකාටුව - කටුකෙන්ද පොලිස්  ප්‍රයේශයේ නිවසක් තුල කාන්තාවක් ඝාතනය කර ඇති බව දංකොටුව පෙලීසිය පවසයි.
+A 52-year-old woman was found murdered in her home, where she lived with her son. The son had left the day before. Dankotuwa Police are investigating.
 
-මෙම කාන්තාව හා ඇගේ පුත්‍රයා කටුකෙන්ද පුදේශයේ උළු කම්හලකට අයත් නිවසක පදිංචිව සිට ඇති අතර ඊයේ (31) දින උදෑසන ඇයයේ පුත්‍රයා නිවසින් බැහැරව ගොස් තිබිණි. සවස් කාලයේ නැවතත් නිවසට පැමිණ මව පිළිබඳ සොයා බැලීමේදී නිව‌සේ කාමරයක් තුල ගෙල සිරකර ඝාතනය කර තිබූ සිය මවයේ සිරුර දැක ඇති බවට පෙලීසිය සිදුකළ විමර්ශනයේදී අනාවරණය වී ඇත. මියගිය කාන්තාව වයස අවුරුදු 52 ක තැනැත්තියකි.
+🟩
 
-අපරාධයට දම්බන්ධ සැකකරුවන් අත්අඩංගුවට ගැනීම සඳහා දං‌කොටුව පොලිසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+Donkeek in the evening of the evening yesterday (31), Dankotuwa Pelley says that it has been murdered in a house in the police station.
+
+The woman and her son had been living in a house belonging to a tile factory in an area. The son of her her son had left his home yesterday morning (31). It has been revealed that the pelipe was revealed that he had seen the body of his mother in a house in the house while looking into the mother in the evening. The deceased woman is a 52 year old woman.
+
+Dankotuwa Police are conducting further investigations to arrest the crime.
 
 ◼️
 
 [Data](articles/497ebe79.json)
+
+[Extended Data](ext_articles/497ebe79.ext.json)
 
 ---
 
@@ -780,21 +870,31 @@ He said that he has been invited to lect on the current political situation. Dur
 
 ---
 
-### මැදපෙරදිග සේවයකළ බිරිඳ හාම්පුතා සමඟ පැමිණෙයි, උරණ වූ ගෙට ගිනි තියලා, සැමියාගේ පියා මරුට
+### The wife of the Middle East will come with an employer, firewood to her father, father
 
 *2024-04-01 10:39:27* · [`adalk`](https://www.ada.lk/breaking_news/මැදපෙරදිග-සේවයකළ-බිරිඳ-හාම්පුතා-සමඟ-පැමිණෙයි--උරණ-වූ-ගෙට-ගිනි-තියලා--සැමියාගේ-පියා-මරුට/11-408873) · `si`
 
-බිබිල පොලිස් වසමට අයත් මඩකලපුව පාර වැලිපොතයාය ප්‍රදේශයේ පදිංචි කාන්තාවක් කුවේට් දේශයේ රැකියාවක නිරතව සිට මීට දින කිහිපයකට පමණ ඉහතදී හාම්පුතා සහ හාම්පුතාගේ රියදුරු සමඟ පැමිණීම නිසා බිරිඳ සහ සැමියා අතර ඇතිවූ විරසකයක් දුරදිගයාමෙන් සැමියා විසින් බිරිඳට, හාම්පුතාට සහ රියදුරුට පහරදී ඉකුත් (30) වෙනිදා නිවසට ගිනිතැබීම නිසා නිවසේ සිටි සැමියාගේ පියා මියයාමේ සිද්ධියක් පිළිබඳව බිබිල පොලීසිය පරීක්ෂණ පවත්වයි.
+A woman from Kuwait, working with the Bibila police, was assaulted by her husband, leading to her father's death. The husband, Tissa Hettiarachchi, was hospitalized. The Bibila police are investigating the fire and the husband's assault.
 
-අවුරුදු 40 පමණ වයසැති මෙම කාන්තාව කුවේට් රාජ්‍යයේ රැකියාවක නිරතව සිට 80 හැවිරිදි අබ්දුල් සේඩ් අලබල්ලයන් නැමති තම හාම්පුතා සහ රියදුරු වන කේ.කේ නාමල් යන අය සමඟ නිවසට පැමිණ ඇත.
+🟩
 
-මීට පෙරද ඇය අවස්ථා කිහිපයකදී හාම්පුතා සමඟ නිවසට පැමිණ තිබේ.ඒ සම්බන්ධයෙන් සැමියා සහ බිරිඳ අතර ආරවුලක් ඇතිවී සැමියා බිරිඳට සහ ඇය සමඟ පැමිණි කුවේට් ජාතිකයාට සහ රියදුරුට පහරදී නිවසට ගිනි තබා ඇත.
+A woman from the Bibila police division in the Welippothaaya Welippothaaya has been working with the wife of Kuwait, and the husband assaulted his wife, employer and the driver to the wife on the house on fire on the homeBibila police are conducting further investigations into the death of husband's father father.
 
-ඇය කුවේට් ජාතිකයා සහ රියදුරු බිබිල මූලික රෝහලේ ප්‍රතිකාරලබමින් පසුවේ.
+The 40-year-old age to 40-year-old Abdul Said Albella, a 40-year-old Abdul Sed Abella, has arrived at the house with his employer and driver.
+
+Earlier, she had come to the house with an employer on several occasions.
+
+She is inaugurated by Kuwaitman and the Driver Bibile Base Hospital.
+
+The husband Tissa Hettiarachchi, who had been destroyed by the house, was rushed to the Bibila hospital with half the deaths of the house.
+
+The magisterial inquiry into the death of the deceased is Bibila Acting Magistrate Sarath Bandara and the post mortem examination was to be held at the Moneragala district hospital.
 
 ...
 
 [Data](articles/f52b707a.json)
+
+[Extended Data](ext_articles/f52b707a.ext.json)
 
 ---
 
@@ -2135,45 +2235,5 @@ After the results of the GCE O / L examination, he described the way he came.
 [Data](articles/91afbc9d.json)
 
 [Extended Data](ext_articles/91afbc9d.ext.json)
-
----
-
-### What is wrong with Sri Lanka?
-
-*2024-04-01 01:56:25* · [`dailyftlk`](https://www.ft.lk/columns/What-is-wrong-with-Sri-Lanka/4-760143) · `en`
-
-It is not the country per se, but the politicians and the people who are wrong. While politicians should take 70% responsibility, the people also should take the rest or 30%. It is true that these wrongs on the part of the politicians or the people are not limited to Sri Lanka. Even in a country like Australia where I now live, there are intermittent corruption, crime, gender abuse, killing, and misguided politics. However, the difference is extremely vast. Sri Lanka’s wrongs are perhaps 50 times higher than a country like Australia.
-
-...
-
-[Data](articles/e5423e40.json)
-
-[Extended Data](ext_articles/e5423e40.ext.json)
-
----
-
-### I am not responsible for the rejection of Maithri - He must take responsibility for the fall of the SK - State Minister Lasantha Alagavanna
-
-*2024-04-01 01:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/180099) · `ta`
-
-State Minister Lasantha Alagavanna criticizes the rejection of Maithri Sirisena by PA members, emphasizing his own role in the PA's establishment. He defends his decision to step down as treasurer, accusing allegations of improper establishment. Alagavanna highlights the inability of the SLFP to join the leadership council, attributing this to the coalition's members. He aims to unite the party and other parties, criticizing the decision-making process at a special meeting. Alagavanna also addresses the law and the actions of former President Maithripala Sirisena, who voted against the law.
-
-🟩
-
-Parties that are members of the PA refusing to accept Sri Lanka Freedom Party (SLFP) leader Maithripala Sirisena. Minister of State Lasantha Alagiyavanna said that it cannot be accepted by me.
-
-He further stated at a press conference held in Colombo on Saturday (30).
-
-I have removed me from the position of treasure. The allegation against me is that it is not properly taken up to establish the PA. But this alliance has already been established.
-
-However, all parties that are members of this coalition indicate that the Sri Lanka Freedom Party (SLFP) leader Maithripala Sirisena cannot be joined by the leadership council.. I can't do anything for this.
-
-I am trying to unite the party, leadership and other parties. In our party, the Political Council Central Executive Committee and the Executive Committee. A special meeting was called. Such a decision cannot be made in any way at a special meeting.
-
-...
-
-[Data](articles/c9b1d791.json)
-
-[Extended Data](ext_articles/c9b1d791.ext.json)
 
 ---

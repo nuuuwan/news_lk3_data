@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 06:58:32**
+As of **2024-04-01 07:21:06**
 
 ## Newspaper Stats
 
-*Scraped **16,263** Articles*
+*Scraped **16,265** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,72 @@ economynextcom | 888
 islandlk | 910
 adalk | 1,363
 tamilmirrorlk | 1,940
-adaderanalk | 1,959
+adaderanalk | 1,960
 virakesarilk | 2,311
 dailymirrorlk | 2,500
-adaderanasinhalalk | 2,630
+adaderanasinhalalk | 2,631
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,251 (99.9%) of 16,263 articles have been extended.
+16,262 (100.0%) of 16,265 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### අද පළාත් කිහිපයකට වැසි හෝ ගිගුරුම් සහිත වැසි
+### රෝහල් කිහිපයක වර්ජනයක්
+
+*2024-04-01 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195151) · `si`
+
+වැටුප් ගැටලුව මුල් කරගනිමින් අද (01) දිනයේ සංකේත වැඩවර්ජනයක නිරත වීමට සෞඛ්‍ය වෘත්තීය සමිති සන්ධානය තීරණය කර තිබේ.
+
+◼️
+
+[Data](articles/f90abe6a.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-04-01 06:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/98333/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at several places in Western, Southern, Sabaragamuwa and Uva provinces after 2.00 p.m. while fairly heavy showers above 50 mm are likely at some places.
+
+Showers or thundershowers may occur at a few places in North-western and Central provinces and in Mannar and Vavuniya districts in the evening or night.
+
+Misty conditions can be expected at some places in Western, Central, Sabaragamuwa and Uva provinces and in Galle and Matara districts during the morning.
+
+General public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/01b2fc31.json)
+
+---
+
+### Showers or thundershowers at several places today
 
 *2024-04-01 06:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195149) · `si`
 
-බස්නාහිර, දකුණ, සබරගමුව සහ ඌව පළාත්වල ප.ව. 2.00 න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers and thundershowers expected in Western, Southern, Sabaragamuwa, Uva, North Western, Central Provinces, and Mannar and Vavuniya districts. Meteorology advises precautions against wind and lightning.
 
-වයඹ සහ මධ්‍යම පළාත්වලත් මන්නාරම සහ වව්නියාව දිස්ත්‍රික්කවලත් සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැක.
+🟩
 
-බස්නාහිර, මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+Western, Southern, Sabaragamuwa and Uva provinces. Showers or thundershowers will occur at several places, about 2.00.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+Showers or thundershowers will occur at several places in the North Western and Central Provinces and in the Mannar and Vavuniya districts in the Mannar and Vavuniya districts.
+
+In some places in the Western, Central, Sabaragamuwa and Uva provinces, in some places, are expected to be fired in the Galle and Matara districts.
+
+The Department of Meteorology urges the public to take necessary steps to be taken to reduce temporary winds and lightning accidents due to thunderstorms.
 
 ◼️
 
 [Data](articles/e0a84210.json)
+
+[Extended Data](ext_articles/e0a84210.ext.json)
 
 ---
 
@@ -61,6 +97,8 @@ Awareness sessions were conducted from 5th to 7th March 2024 in two schools in C
 ...
 
 [Data](articles/347690f0.json)
+
+[Extended Data](ext_articles/347690f0.ext.json)
 
 ---
 
@@ -80,6 +118,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 
 [Data](articles/d57fbe2e.json)
 
+[Extended Data](ext_articles/d57fbe2e.ext.json)
+
 ---
 
 ### Sanasa Life Insurance secures double win at CPM Awards 2024
@@ -91,6 +131,8 @@ Sanasa Life Insurance announced a double win at the CPM Awards on March 13th, 20
 ...
 
 [Data](articles/dd537b97.json)
+
+[Extended Data](ext_articles/dd537b97.ext.json)
 
 ---
 
@@ -112,23 +154,31 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 
 [Data](articles/eed73110.json)
 
+[Extended Data](ext_articles/eed73110.ext.json)
+
 ---
 
-### முதலை தாக்கி பெண் பலி
+### Crocodile attack
 
 *2024-04-01 04:44:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலை-தாக்கி-பெண்-பலி/175-335430) · `ta`
 
-கலங்குட்டிவ ஆற்றில் நீராடச் சென்ற பெண் ஒருவர் முதலை தாக்கி உயிரிழந்துள்ளார் என மெகலேவ பொலிஸார் தெரிவித்தள்ளனர்.
+A 66-year-old woman from Likolawewa, Siyambalangamuwa, died after being attacked by a crocodile in the Kalanguttiva River. Residents rescued her and took her to Thambuttegama hospital.
 
-லிகொலவெவ, சியம்பலங்காமுவ பிரதேசத்தைச் சேர்ந்த 66 வயதுடைய பெண் ஒருவரே இவ்வாறு உயிரிழந்துள்ளார்.
+🟩
 
-குறித்த பெண் ஆற்றில் நீராடச் சென்ற போதே இச்சம்பவம் நேர்ந்துள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+Megaleva police said that a woman who was drowned in the Kalanguttiva River has been attacked by a crocodile.
 
-பிரதேசவாசிகள் முதலையிடமிருந்து பெண்ணை மீட்டு தம்புத்தேகம வைத்தியசாலையில் சேர்த்த போதும் அவர் உயிரிழந்துள்ளார் எனத் தெரிவிக்கப்படுகிறது. (a)
+A 66 -year -old woman from Likolawewa, Siyambalangamuwa area has died.
+
+Police said the incident occurred when the woman was drowned in the river.
+
+It is reported that the residents of the area rescued the woman and taken to the Thambuttegama hospital.. (A)
 
 ◼️
 
 [Data](articles/401b78b8.json)
+
+[Extended Data](ext_articles/401b78b8.ext.json)
 
 ---
 
@@ -898,6 +948,8 @@ As these awards are based on brands that are close to people’s hearts and refl
 
 [Data](articles/45eac071.json)
 
+[Extended Data](ext_articles/45eac071.ext.json)
+
 ---
 
 ### Lanka Harness, Japanese-owned BOI company recognised at CPM Awards 2024
@@ -915,6 +967,8 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/b0e5123d.json)
+
+[Extended Data](ext_articles/b0e5123d.ext.json)
 
 ---
 
@@ -963,6 +1017,8 @@ Construction material prices have not shown any downward adjustments despite Sri
 ...
 
 [Data](articles/8ee4aad7.json)
+
+[Extended Data](ext_articles/8ee4aad7.ext.json)
 
 ---
 
@@ -2189,65 +2245,5 @@ Plantation workers said that he had been drinking heavy alcohol before the match
 [Data](articles/b543a469.json)
 
 [Extended Data](ext_articles/b543a469.ext.json)
-
----
-
-### New news about collapsed bridge
-
-*2024-03-31 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195132) · `si`
-
-The Francis Scott Key Bridge collapsed on the 26th, and debris removal has begun using the Chesapeake 1000 crane and additional vessels. The bridge's closure will last several months, and the construction timeline has been extended.
-
-🟩
-
-Francis Scott Key Bridge collapsed on the 26th of the 26th.
-
-The removal of debris of the ship and the crash bridge have commenced.
-
-It is done using the largest crane in the United States, a largest crane in the United States, the Chesapeake 1000.
-
-The authorities have planned to use seven more floating cranes, 9 fries, 8 coastlever boats and 5 coast protest boats.
-
-Authorities say that the arm is a challenge as the orange ship has fallen on the oint of 3,000 and 4.000 tons of the Francis Squot Key.
-
-Accordingly, steel cuts in stock and their design is due to cut off the steel section.
-
-The port of the United States, a major port of the United States, has been closed down and the port will take several months to open the port again.
-
-Foreign media reports that the construction of the bridge will take several years and the accident will take about two years.
-
-◼️
-
-[Data](articles/5b28d415.json)
-
-[Extended Data](ext_articles/5b28d415.ext.json)
-
----
-
-### This is the best teledrama - President
-
-*2024-03-31 14:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195131) · `si`
-
-President Ranil Wickremesinghe praised the best teledrama of Sri Lanka at the 20th Raigam Tele'es Awards, highlighting the transformation of the film corporation with modern technology and the state's support for Sri Lanka's first AI film.
-
-🟩
-
-President Ranil Wickremesinghe says that the best teledrama is the bake of Sri Lanka.
-
-President Ranil Wickremesinghe addressing the 20th Raigam Tele'es Awards at Shangrila Hotel last night.
-
-President Ranil Wickremesinghe said that it was transformed with the outdated film corporation with modern technology, "President Ranil Wickremesinghe said.
-
-At the same time, the President also provides foreign training opportunities to empower arts and designers with modern technology to empower the modern technology.
-
-The President also stated that the state patronage was given to the first film of the first AI of Sri Lanka in Sri Lanka today, with artist intelligence.
-
-President Ranil Wickremesinghe expressed his views to address the awards ceremony,
-
-...
-
-[Data](articles/08d53e8e.json)
-
-[Extended Data](ext_articles/08d53e8e.ext.json)
 
 ---

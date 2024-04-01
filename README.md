@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 19:50:59**
+As of **2024-04-01 20:03:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,664
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,446 (100.0%) of 16,448 articles have been extended.
+16,448 (100.0%) of 16,448 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,25 +46,37 @@ In October last year, the Cabinet approved visa-free entry to visitors from Indi
 
 [Data](articles/6de6fff6.json)
 
+[Extended Data](ext_articles/6de6fff6.ext.json)
+
 ---
 
-### இரண்டாவது இன்னிங்ஸில் தடுமாற்றத்துக்கு மத்தியில் பலமான நிலையில் இலங்கை
+### Sri Lanka in the midst of stumbling block in the second innings
 
 *2024-04-01 19:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/180187) · `ta`
 
-சட்டோக்ராம், ஸஹுர் அஹ்மத் சௌதரி விளையாட்டரங்கில் நடைபெற்றுவரும் பங்களாதேஷுக்கு எதிரான ஐசிசி டெஸ்ட் சம்பியன்ஷிப் தொடரின் இரண்டாவது போட்டியின் 3ஆம் நாள் ஆட்ட நேர முடிவில் 455 ஓட்டங்களால் இலங்கை முன்னிலையில் இருக்கிறது.
+Sri Lanka trails by 455 runs in the 2nd innings of the ICC Test Championships against Bangladesh. Despite a strong first innings, Sri Lanka faces a crisis in the second innings, losing 102 runs in the 3rd day. Bangladesh's debutant Hasan Mahmud and Khalid Ahmad took 6 wickets each. Sri Lanka's bowlers, including Fernando and Kumara, took 10 wickets.
 
-முதலாவது இன்னிங்கில் 6 துடுப்பாட்ட வீரர்கள் பெற்ற அரைச் சதங்களின் உதவியுடன் 531 ஓட்டங்களைக் குவித்த இலங்கை, பங்களாதேஷை அதன் முதல் இன்னிங்ஸில் 178 ஓட்டங்களுக்கு கட்டுப்படுத்தியது.
+🟩
 
-பங்களாதேஷை 3ஆவது தொடர்ச்சியான தடவையாக 190 ஓட்டங்களுக்குள் இலங்கை கட்டுப்படுத்தியமை குறிப்பிடத்தக்க ஓர் அம்சமாகும். முதலாவது போட்டியில் பங்களாதேஷ் 2 இன்னிங்ஸ்களிலும் முறையே 188 ஓட்டங்களையும் 182 ஓட்டங்களையும் பெற்றது.
+Sri Lanka is due to 455 runs at the end of the 3rd day of the ICC Test Championships against Bangladesh at the Zahur Ahmad Chaudhary Stadium, Sahur Ahmad Chaudhary.
 
-அசித்த பெர்னாண்டோ, லிஹரு குமார, விஷ்வா பெர்னாண்டோ, ப்ரபாத் ஜயசூரிய ஆகியோர் திறமையாக பந்துவீசி பங்களாதேஷுக்கு நெருக்கடியைக் கொடுத்தனர்.
+Sri Lanka scored 531 runs with the help of half a century in the first innings and controlled Bangladesh to 178 runs in its first innings.
 
-இரண்டாவது டெஸ்டில் முதல் இன்னிங்ஸ் நிறைவில் 353 ஓட்டங்களால் முன்னிலையில் இருந்த இலங்கை, இரண்டாவது இன்னிங்ஸில் தடுமாற்றத்தை  எதிர்கொண்டது.
+Sri Lanka's control is a significant feature of 190 runs for the third consecutive year. In the first match, Bangladesh scored 188 runs and 182 runs respectively.
+
+Asitha Fernando, Lihar Kumara, Vishwa Fernando and Prabhat Jayasuriya efficiently bowled and gave a crisis to Bangladesh.
+
+Sri Lanka, which was in the first innings in the first innings in the first innings, faced a stumbling block in the second innings.
+
+Bangladesh's debutant Hasan Mahmud and Khalid Ahmad, who played in his 14th Test match, accurately bowled 6 wickets and Sri Lanka scored 102 runs at the end of the 3rd day in the second innings.
+
+Dimuth Karunaratne (4) and Gusal Mendis (2) were both losing only 15 runs.
 
 ...
 
 [Data](articles/9d80f9a3.json)
+
+[Extended Data](ext_articles/9d80f9a3.ext.json)
 
 ---
 

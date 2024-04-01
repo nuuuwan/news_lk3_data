@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-02 00:18:03**
+As of **2024-04-02 00:33:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,474 (100.0%) of 16,476 articles have been extended.
+16,476 (100.0%) of 16,476 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ An examination of this political phenomenon is crucial for understanding electio
 
 [Data](articles/f1aec7be.json)
 
+[Extended Data](ext_articles/f1aec7be.ext.json)
+
 ---
 
 ### Modi wants Katchchatheevu-its election time in Tamil Nadu
@@ -61,6 +63,8 @@ S. Ramanujam, a retired former Senior Administrative Officer of the Indian gover
 ...
 
 [Data](articles/f2d1c539.json)
+
+[Extended Data](ext_articles/f2d1c539.ext.json)
 
 ---
 

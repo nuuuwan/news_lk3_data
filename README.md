@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 08:51:21**
+As of **2024-04-01 09:03:14**
 
 ## Newspaper Stats
 
-*Scraped **16,272** Articles*
+*Scraped **16,273** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 201
 newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 888
-islandlk | 910
+islandlk | 911
 adalk | 1,364
 tamilmirrorlk | 1,941
 adaderanalk | 1,960
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,635
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,272 (100.0%) of 16,272 articles have been extended.
+16,272 (100.0%) of 16,273 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1117,6 +1117,20 @@ As these awards are based on brands that are close to people’s hearts and refl
 [Data](articles/45eac071.json)
 
 [Extended Data](ext_articles/45eac071.ext.json)
+
+---
+
+### Construction activities expand in February 2024
+
+*2024-03-31 22:00:00* · [`islandlk`](http://island.lk/construction-activities-expand-in-february-2024/) · `en`
+
+Sri Lanka Purchasing Managers’ Index for Construction (PMI – Construction) released by the Central bank of Sri Lanka indicates an expansion in construction activities in February 2024, as reflected by the Total Activity Index, which recorded an index value of 57.1. Many firms attributed the growth in construction activities to the current conducive environment and the resumption of several temporarily suspended projects.
+
+New Orders continued to increase for the second consecutive month, reflecting the improved demand conditions in the industry. The respondents mentioned that large-scale infrastructure projects, particularly foreign-funded ones, are also among the available tender opportunities. However, Employment remained contracted in February, yet at a slower rate than the previous month. Several survey respondents cautioned about the shortage of skilled and experienced construction workers.
+
+...
+
+[Data](articles/5dd7b5e3.json)
 
 ---
 
@@ -2263,35 +2277,5 @@ The police suspect that the victim may have died due to a heart attack and the B
 [Data](articles/373879d7.json)
 
 [Extended Data](ext_articles/373879d7.ext.json)
-
----
-
-### The winner of the liquor bar
-
-*2024-03-31 15:59:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மதுபோட்டியில்-வென்றவர்-மரணம்/76-335405) · `ta`
-
-Ganesan Ramachandran, a father of three from Marliprai, died after winning a drinking competition at the Annual Chariot Festival. He died from pneumonia and feeding in the neck.
-
-🟩
-
-The father of three children who had been drunk during the competition to choose the most alcoholic drinker has died.
-
-Ganesan Ramachandran (age 38), who lives in the Marliprai section of the Ledandi estate, belonging to the Hatton Police Division, is the father of three children.
-
-The Annual Chariot Festival was held on March 27 at the estate temple, where a group of youths participated in the competition to select a large number of alcoholics.
-
-Three people living in the same garden will be provided with three 750ml of breweries and are planned to be the winner of the wine bottle in a short time.
-
-An autopsy revealed that his father, who had come home at night, died in the morning (28) after she won the competition.
-
-The other person who participated in the competition was taken to the Klankan-Dikoya Primary Hospital and transferred to the Nawalapitiya District General Hospital for further treatment.
-
-Ganesan Ramachandran has died due to pneumonia fever and feeding in the neck.
-
-...
-
-[Data](articles/e11681ab.json)
-
-[Extended Data](ext_articles/e11681ab.ext.json)
 
 ---

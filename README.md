@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 12:50:02**
+As of **2024-04-01 13:03:10**
 
 ## Newspaper Stats
 
-*Scraped **16,348** Articles*
+*Scraped **16,349** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,67 @@ tamilmirrorlk | 1,955
 adaderanalk | 1,970
 virakesarilk | 2,319
 dailymirrorlk | 2,515
-adaderanasinhalalk | 2,647
+adaderanasinhalalk | 2,648
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,346 (100.0%) of 16,348 articles have been extended.
+16,348 (100.0%) of 16,349 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### பாலியல் உறவுக்கான வயதைக்  குறைக்கும் சட்டமூலம் வாபஸ்
+### අනතුරට පත් නෞකාවේ විෂ සහිත අපද්‍රව්‍ය ප්‍රවාහනය කළ බවට අනාවරණයක්
+
+*2024-04-01 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195168) · `si`
+
+අමෙරිකාවේ බැල්ටිමෝර්හි පාලමක ගැටී අනතුරට පත් ශ්‍රී ලංකාව බලා යාත්‍රා කරමින් පැවැති නෞකාව තුළ විෂ සහිත අපද්‍රව්‍ය ප්‍රවාහනය කරමින් පැවති බව අමෙරිකානු මාධ්‍ය වාර්තා කරයි.
+
+අමෙරිකාවේ බැල්ටිමෝර්හි ෆ්‍රැන්සිස් ස්කොට් කී පාලමේ ගැටී අනතුරට ලක්වූ ද ඩාලි බහාලුම් ප්‍රවාහන නෞකාව එම අනතුර සිදුවන විට ශ්‍රී ලංකාව බලා යාත්‍රා කරමින් පැවතියේය.
+
+අඩි 984ක් දිගින් යුතු එම නෞකාව තුළ විෂ ද්‍රව්‍ය රැගත් බහාලුම් 56ක් තිබී ඇති බව අමෙරිකානු මාධ්‍ය වාර්තා කරයි.
+
+ඔවුන්ට අනුව ඒ තුළ ටොන් 746ක් බරැති, විඛාදන, ගිනි ගන්නා සුළු, සංකීර්ණ ද්‍රව්‍ය සහ ප්‍රවාහනයේදී සැලකිලිමත්විය යුතු පුපුරන ද්‍රව්‍ය, ලිතියම් අයන් බැටරි ද තිබී ඇතැයි සඳහන් ය.
+
+අනතුර සිදුවූ අවස්ථාවේදී අදාළ බහාලුම්වලින් 14ක් ගංගාවට ඇදවැටී ඇතැයි ද මේ වාර්තාවල වැඩිදුරටත් දැක්වෙයි.
+
+නෞකාව මත ඇති අනෙක් බහාලුම් 4,644 සම්බන්ධයෙන් අමෙරිකානු ප්‍රවාහන ආරක්ෂක මණ්ඩලය විමර්ශන සිදුකරමින් පවතී.
+
+එමෙන්ම වාර්තා වූයේ පැටැප්ස්කෝ ගංගාවේ ජලයේ ගුණාත්මකභාවය සම්බන්ධව ගැටලු මතුව ඇති බවයි.
+
+◼️
+
+[Data](articles/37e8f99b.json)
+
+---
+
+### Withdrawal of age -reducing bill for sexual relationship
 
 *2024-04-01 12:32:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலியல்-உறவுக்கான-வயதைக்-குறைக்கும்-சட்டமூலம்-வாபஸ்/175-335449) · `ta`
 
-பாலியல் உறவுக்கான வயது வரம்பை 14 ஆகக் குறைக்கும் தண்டனைச் சட்டம் (திருத்தம்) சட்டமூலத்தை அரசாங்கம் இன்று வாபஸ் பெற்றது.
+The government withdrew the Penal Code (Amendment) Bill aiming to lower the age limit for sexual relations to 14. Justice Minister Vijayadasa Rajapakse announced the withdrawal, promising future amendment in Parliament. The bill's recommendation was submitted by legal experts and academics. The proposed amendment was to address practical issues faced by teenagers in romantic relationships, particularly concerning rape cases involving minors.
 
-சட்டமூலத்தை அரசாங்கம் வாபஸ் பெறுவதாக பாராளுமன்றத்தில் தெரிவித்த நீதியமைச்சர் விஜயதாச ராஜபக்ஷ, ஆர்வமுள்ள சகல தரப்பினருக்கும் இணங்கக்கூடிய திருத்தம் எதிர்காலத்தில் பாராளுமன்றத்தில் முன்வைக்கப்படும் என்றும் தெரிவித்தார்.
+🟩
 
-ஐந்தாண்டுகள் படித்து முடித்த மூத்த ஜனாதிபதி சட்டத்தரணிகள், இதர சட்டத்தரணிகள் மற்றும் தொழில் வல்லுனர்களால் இந்த சட்டமூலம் மீதான பரிந்துரை நீதி அமைச்சகத்திடம் சமர்ப்பிக்கப்பட்டதாக அமைச்சர் கூறினார்.
+The government today withdrew the Penal Code (Amendment) Bill to reduce the age limit for sexual relations to 14.
 
-காதல் உறவின் சம்மதத்தின் பேரில் பாலுறவு கொண்ட காதலர்கள் எதிர்கொள்ள வேண்டிய நடைமுறை சிக்கல் காரணமாக இந்த திருத்தம் முன்மொழியப்பட்டதாக அவர் கூறினார்.
+Speaking in Parliament, Justice Minister Vijayadasa Rajapakse said that the government would withdraw the bill and that amendment would be made in Parliament in the future.
 
-“பொதுவாக 14 முதல் 16 வயதுக்குட்பட்ட சிறுமிகள் 16 முதல் 22 வயதுடைய சிறுவர்களால் பாலியல் பலாத்காரம் செய்யப்பட்ட விஷயங்களில் பலாத்கார வழக்குகள் பதிவு செய்யப்படுகின்றன.
+The Minister said that the recommendation of the Bill was submitted to the Ministry of Justice by the Senior President's Lawyers, Other Attorneys and Professors who had completed five years of study.
+
+He said that the amendment was proposed due to the practical problems that lovers with sexual relations should face at the consent of the romantic relationship.
+
+“In general, girls between the ages of 14 and 16 are being charged in cases of rape by 16 to 22 -year -olds.
+
+When such cases were taken up for hearing in the Magistrate's Courts, the little girl was mature, and some of them were already married to the young man.
 
 ...
 
 [Data](articles/0c4a1c23.json)
+
+[Extended Data](ext_articles/0c4a1c23.ext.json)
 
 ---
 
@@ -166,21 +198,27 @@ Today, Litro Gas has decided to reduce the price of a domestic gas cylinder toda
 
 ---
 
-### ලැන්කෂයර් ප්‍රාන්තයේ ක්‍රිකට් පොඩ්ඩෝ ලංකාවට
+### Podden in Lancashire to Sri Lanka
 
 *2024-04-01 12:11:11* · [`adalk`](https://www.ada.lk/sports/ලැන්කෂයර්-ප්‍රාන්තයේ-ක්‍රිකට්-පොඩ්ඩෝ-ලංකාවට/9-408877) · `si`
 
-එංගලන්තයේ ලැන්කැෂයර් ප්‍රාන්තයේ වයස අවුරුදු 13 න් සහ 15 න් පහළ ක්‍රිකට් කණ්ඩායමේ  සාමාජිකයන් 14 දෙනෙකුගෙන් යුතු ක්‍රිකට් කණ්ඩායමක් ශ්‍රී ලංකාවේ දින 10 ක තරග සංචාරයක් සදහා 04/01 දින උදෑසන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ.
+A 14-member Lancashire cricket team, aged 19 and 15, arrived in Sri Lanka on 04/01 for three days of Twenty20 matches in Colombo and Galle. The team, led by Luke Yates, includes fast bowlers and spinners.
 
-ඔවුන් කොළඹ පැවැත්වෙන එක් දින සීමිත ඕවර් 50 ක්‍රිකට් තරග 03 කට සහ ගාල්ල සහ කොළඹ පැවැත්වෙන විස්සයි විස්ස ක්‍රිකට් තරග 03 කට සහභාගී වීමට නියමිතය .
+🟩
 
-මෙම ක්‍රිකට් කණ්ඩායම තුළ දක්ෂ ආරම්භ පිතිකරුවන් , වේග පන්දු යවන්නන් සහ දග පන්දු යවන්නන් රාශියක් සිටින අතර ඔවුන් ශ්‍රී ලංකාවේ ක්‍රිකට් තණ තීරු වල ක්‍රීඩා කර අත්දැකීම් ලබා ගැනීම සදහා මෙසේ ශ්‍රී ලංකාවේ තරග සංචාරයක නිරත වන බව මෙම කණ්ඩායමේ පුහුණුකරු , හිටපු ශ්‍රී ලංකා ක්‍රිකට් ක්‍රීඩක අමල් දළුගොඩ මහතා කටුනායක ගුවන් තොටුපොළේ දී පැවසීය .
+A team of 14 members of Lancashire, 19 and 15, arrived at the Katunayake Airport on 04/01.
 
-ක්‍රිකට් කණ්ඩායමේ නායක ලෙස ලූක් යේට්ස්  (Luke Yates ) කටයුතු කරනු ලබයි . ලැන්කැෂයර් ප්‍රාන්තයේ ක්‍රිකට් කණ්ඩායම 04/01 දින උදෑසන 08.30 ට ඩුබායි සිට එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 650 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+They will participate in three days in Colombo and will participate in three Twenty20 cricket matches and Galle and Colombo.
+
+The team's coach, who started in the cricket batsmen, and sparks of the cricketers of the cricket team have a number of fast bowlers and sparmers.He said at the Katunayake airport.
+
+Luke Yates (LUKE YATES) is the leader of the cricket team. Lancashire's state cricket team from Dubai to 8:30 am on 08.30 am, from Dubai to Emirates Airport.
 
 ◼️
 
 [Data](articles/c14cf654.json)
+
+[Extended Data](ext_articles/c14cf654.ext.json)
 
 ---
 
@@ -2203,37 +2241,5 @@ President Ranil Wickremesinghe is reported to have told the cabinet of ministers
 [Data](articles/2742624a.json)
 
 [Extended Data](ext_articles/2742624a.ext.json)
-
----
-
-### How can be a graduate by 19 years of age without the age of 19?
-
-*2024-04-01 02:04:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpekp85x35no) · `si`
-
-Siriwardena, a software manager, achieved his degree at 19 with 8 months of experience, skipping the GCE A/L exam. He pursued a diploma in NIBM, interned, and was hired as an Assistant Software Engineer at 18. He's now studying for a B.Eng. degree, aiming to complete it by December.
-
-🟩
-
-How can be a graduate by 19 years of age without the age of 19?
-
-Siriwela Siriwardena is a software manager of a software manager in Colombo.
-
-His age is still over 19 years with a year and 8 months work experience.
-
-The GCE Ordinary Level Examination was not sent to the A / L examination, which passed the 8 Awards.
-
-"I am a substantial wage that is a software engineer with eight months experience. Friends to go to the GCE Advanced Level Examination. Older people older than me, serving in lower positions, "Champion Siriwardena is happy to look back at the course.
-
-How to Choose a Higher Education or Vocational Training Institute internationally? Is it more time to finish education in Sri Lanka?
-
-As he said, it was time that it was time that it was time that it was a waste of time to spend a few years when he had experienced economic hardship after his father's death.
-
-After the results of the GCE O / L examination, he described the way he came.
-
-...
-
-[Data](articles/91afbc9d.json)
-
-[Extended Data](ext_articles/91afbc9d.ext.json)
 
 ---

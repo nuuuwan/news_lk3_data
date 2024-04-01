@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 10:51:29**
+As of **2024-04-01 11:03:25**
 
 ## Newspaper Stats
 
-*Scraped **16,299** Articles*
+*Scraped **16,307** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,120 @@ newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 888
 islandlk | 912
-adalk | 1,365
-tamilmirrorlk | 1,943
-adaderanalk | 1,963
+adalk | 1,367
+tamilmirrorlk | 1,945
+adaderanalk | 1,965
 virakesarilk | 2,314
 dailymirrorlk | 2,512
-adaderanasinhalalk | 2,639
+adaderanasinhalalk | 2,641
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,292 (100.0%) of 16,299 articles have been extended.
+16,299 (100.0%) of 16,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### Management and daily operations of expressways handed over to private sector
+
+*2024-04-01 10:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/98338/management-and-daily-operations-of-expressways-handed-over-to-private-sector) · `en`
+
+The daily operations and management of the country’s expressways have been officially handed over to the private sector under a formal management agreement, with effect from today (April 01).
+
+Furthermore, all relevant assets will reportedly be transferred to the private sector within six months, following a legal and financial feasibility study jointly carried out by the Road Development Authority (RDA) and the private sector.
+
+Minister of Transport Bandula Gunawardena had submitted the Cabinet paper pertaining to the matter to the Cabinet of Ministers on March 25, 2024.
+
+Accordingly, the expressway network, lands owned by the expressway, and the related staff will be transferred to the relevant private-sector company, enabling them to manage the expressway network in a more commercial manner.
+
+◼️
+
+[Data](articles/7550b1e9.json)
+
+---
+
+### ගුරු පත්වීම් ගැන අධ්‍යාපන ඇමතිගෙන් විශේෂ දැනුම්දීමක්
+
+*2024-04-01 10:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195161) · `si`
+
+බස්නාහිර පළාතේ ගුරු විභාගයෙන් උපාධිධාරීන් 2,400ක පිරිසක් මේ වනවිට තෝරාගෙන අවසන් බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත් මහතා පවසයි.
+
+අද (01) පාර්ලිමේන්තුවේ දී විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා උපාධිධාරී ගුරු පත්වීම් සම්බන්ධයෙන් අසන ලද පැනයකට පිළිතුරු දෙමින් අමාත්‍යවරයා මේ බව කියා සිටියේය.
+
+ගුරු විභාගය සමත් ඉතිරි පිරිස සම්බන්ධයෙන් මේ දිනවල විශේෂ වැඩසටහනක් ක්‍රියාත්මක කරන බවත් අප්‍රේල් නිවාඩුවෙන් පසුව ඔවුන්ට ද පත්වීම් ලබාදීමට බලාපොරොත්තු වන බව අධ්‍යාපන අමාත්‍යවරයා සඳහන් කළේය.
+
+මේ අතර, උපාධිධාරීන් 2,700ක් විද්‍යාව, ගණිතය, තාක්ෂණික විෂය ධාරා යටතේ බඳවා ගැනීමට ගුරු විභාගය පවත්වා අවසන් බව ද පැවසු අමාත්‍යවරයා, මේ සතියේ ඔවුන්ගේ ප්‍රතිඵල ලබාදීමට නියමිත බව ද පැවසීය.
+
+ඒ අනුව ඔවුන්ට අධ්‍යාපන අමාත්‍යාංශය යටතේ ඇති පුරප්පාඩු සඳහා පත්වීම් ලබාදීමට නියමිත බව ද සුසිල් ප්‍රේම්ජයන්ත් මහතා කියා සිටියේය.
+
+ඊට අමතරව විශ්‍රාම ගිය සහ විදේශගත වූ ගුරුවරු වෙනුවෙන් සියලු පළාත් ආවරණය කරමින් පුරප්පාඩු 13,000කට අදාළව නව පත්වීම් ලබාදීමට කටයුතු කරන බව ද අමාත්‍යවරයා පැවසීය.
+
+...
+
+[Data](articles/eb92ca98.json)
+
+---
+
+### விமல் வீரவன்ச விடுதலை
+
+*2024-04-01 10:46:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமல்-வீரவன்ச-விடுதலை/175-335437) · `ta`
+
+நீர்கொழும்பு நீதவான் நீதிமன்றத்தினால் வழங்கப்பட்ட உத்தரவுக்கு அமையவே  பாராளுமன்ற உறுப்பினர் விமல் வீரவன்ச கடவுச்சீட்டு வழக்கில் இருந்து விடுவிக்கப்பட்டுள்ளார். R
+
+◼️
+
+[Data](articles/2f0e338e.json)
+
+---
+
+### Wimal Weerawansa acquitted from passport discrepancy case
+
+*2024-04-01 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/98337/wimal-weerawansa-acquitted-from-passport-discrepancy-case) · `en`
+
+National Freedom Front (NFF) leader MP Wimal Weerawansa has been acquitted from the passport case by the Negombo Magistrate’s Court, Ada Derana reporter said.
+
+In 2015, Weerawansa was accused of using an expired passport to fly abroad while the MP was preparing to travel to Europe for a series of lectures, following an invitation from Sri Lankan expatriates in Dubai and Italy.
+
+However, the MP had claimed that upon arriving at the airport he realized that the passport in his possession was one that he had lost and later found after obtaining a new passport.
+
+◼️
+
+[Data](articles/f3612b71.json)
+
+---
+
+### SLFP  இன் குழுக்கூட்டத்தில் கலந்து கொண்ட நீதியமைச்சர்
+
+*2024-04-01 10:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/SLFP-இன்-குழுக்கூட்டத்தில்-கலந்து-கொண்ட-நீதியமைச்சர்/175-335436) · `ta`
+
+வார இறுதியில் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் மத்திய குழுக் கூட்டத்தில் அமைச்சர் விஜயதாச ராஜபக்ஷ கலந்துகொண்டமை பலரையும் ஆச்சரியத்தில் ஆழ்த்தியுள்ளது. ஶ்ரீலங்கா சுதந்திரக் கட்சியில் இணையவிருக்கிறாரா என வினவிய ஊடகவியலாளர்களுக்கு பதிலளித்த அமைச்சர், தான்  பின்னர் அரசியல் தீர்மானம் ஒன்றை மேற்கொள்வதாக தெரிவித்தார்.
+
+“மறைந்த பிரதமர் சிறிமாவோ பண்டாரநாயக்க கட்சியை வழிநடத்திய காலத்திலிருந்து நான் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் உறுப்பினராக இருந்தேன். எனவே ஸ்ரீலங்கா சுதந்திரக் கட்சியின் மத்திய குழுக் கூட்டத்தில் நான் கலந்துகொள்வது ஒன்றும் புதிதல்ல,” என்றார்.
+
+அமைச்சுப் பதவியை இராஜினாமா செய்து முழுநேர ஸ்ரீலங்கா சுதந்திரக் கட்சியில் இணைவீர்களா? என்ற கேள்விக்கு பதிலளித்த அமைச்சர், பின்னர் அரசியல் தீர்மானம் எடுப்பதாக தெரிவித்தார்.
+
+தற்போதைய அரசியல் நிலவரங்கள் குறித்து விரிவுரை ஆற்ற தமக்கு அழைப்பு விடுக்கப்பட்டுள்ளதாக அவர் தெரிவித்துள்ளார். எனது விரிவுரையின் போது நாட்டின் பொருளாதாரத்தை ஸ்திரப்படுத்துவதில் ஸ்ரீலங்கா சுதந்திரக் கட்சி எவ்வாறு பங்கு வகிக்க முடியும் என்பதை நான் விளக்கினேன்,” என்று அவர் கூறினார்.
+
+◼️
+
+[Data](articles/c1a26e9a.json)
+
+---
+
+### විමල් නිදොස්කොට නිදහස්
+
+*2024-04-01 10:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195160) · `si`
+
+විදේශ ගමන් බලපත්‍ර නඩුවෙන් පාර්ලිමේන්තු මන්ත්‍රී විමල් වීරවංශ මහතා නිදොස් කොට නිදහස් කොට තිබේ.
+
+◼️
+
+[Data](articles/eef5c205.json)
+
+---
 
 ### Libyan PM’s residence targeted with RPGs, no casualties reported
 
@@ -50,6 +148,8 @@ Libya has had little peace or stability since a 2011 NATO-backed uprising, and s
 
 [Data](articles/2809fe05.json)
 
+[Extended Data](ext_articles/2809fe05.ext.json)
+
 ---
 
 ### Katchatheevu island row: Modi says ‘new details unmasked DMK’s double standards’
@@ -68,6 +168,8 @@ Katchatheevu island is where fishermen from Tamil Nadu go to fish. But they are 
 
 [Data](articles/04e6e919.json)
 
+[Extended Data](ext_articles/04e6e919.ext.json)
+
 ---
 
 ### Wijeyadasa’s presence at SLFP meeting creates stir
@@ -85,6 +187,8 @@ He said he was invited to deliver a lecture on current political situation.” I
 ◼️
 
 [Data](articles/2b8c8ae3.json)
+
+[Extended Data](ext_articles/2b8c8ae3.ext.json)
 
 ---
 
@@ -106,6 +210,8 @@ He said the Commission would decide on measures including legislation to curb im
 
 [Data](articles/572352d9.json)
 
+[Extended Data](ext_articles/572352d9.ext.json)
+
 ---
 
 ### Health trade unions strike in selected hospitals
@@ -123,6 +229,8 @@ Meanwhile, they have decided to launch an indefinite island-wide strike on Tuesd
 ◼️
 
 [Data](articles/72e31f95.json)
+
+[Extended Data](ext_articles/72e31f95.ext.json)
 
 ---
 
@@ -143,6 +251,8 @@ Another competitor who had seriously fallen ill was admitted to the Dickoya Base
 ...
 
 [Data](articles/5b72f0e3.json)
+
+[Extended Data](ext_articles/5b72f0e3.ext.json)
 
 ---
 
@@ -221,6 +331,8 @@ US media reported. The waste included mostly corrosives, flammables, miscellaneo
 ...
 
 [Data](articles/b9e73cbc.json)
+
+[Extended Data](ext_articles/b9e73cbc.ext.json)
 
 ---
 
@@ -376,6 +488,26 @@ During this time, the students repeated the same response, even though the polic
 
 ---
 
+### ලංකාවේ ළාබාලම ජාතික චෙස් ශූරිය ඕෂිනි
+
+*2024-04-01 09:21:49* · [`adalk`](https://www.ada.lk/sports/ලංකාවේ-ළාබාලම-ජාතික-චෙස්-ශූරිය-ඕෂිනි/9-408871) · `si`
+
+2024 ශ්‍රී ලංකා ජාතික චෙස් ශූරතාවලියේදී පිරිමි ශූරතාව කොළඹ ලවුපර් චෙස් ක්‍රීඩා රනිදු දිෂාන් ලියනගේ දිනා ගත්තේය.එහි කාන්තා ශූරතාව දිනා කොළඹ විචර්ලි ජාත්‍යන්තර පාසලේ ඔෂිනි දේවින්ද්‍යා ගුණවර්ධන දිනා ගත්තාය.
+
+පැවති තරග වට 13න් ලකුණු 12ක් ලබා ගනිමින් රනිදු දිල්ෂාන් ලියනගේ මෙවර ජාතික චෙස් ශූරයා ලෙස අබිසෙස් ලබා ගනිද්දී තරග වට 13න් ලකුණු 11ක් ලබාගත් ඔෂිනි දේවින්ද්‍යා ගුණවර්ධන ජාතික චෙස් ශූරිය ලෙස අභිසෙස් ලැබුවාය.
+
+රනිදු දිල්ෂාන් ලියනගේ ශ්‍රී ලංකා ජාතික චෙස් ශූරයා ලෙස තේරීපත්වූවේ දෙවැනි වරටය.ඒ ශ්‍රී ලංකා ජාතික චෙස් ශූරයා ලෙස ගිය වසර ඇතුලත්ව පිට පිටම තුන් වතාවක් ජාතික චෙස් ශූරයාවූ කොළඹ නාලන්දා විද්‍යාලයේ ලොකුගේ සුසාල් ද සිල්වා පරාජය කරමින්වීම විශේෂත්වයකි.
+
+එමෙන්ම තවත් ශ්‍රී ලංකා ජාතික චෙස් ශූරයා ලෙස කිරුළු පැළද සිටි මොරටුව විශ්වවිද්‍යාලයේ හර්ෂණ තිලකරත්නයන්ද අභිබවමින් වීම ද මෙහි ඇති තවත් විශේෂත්වයකි.
+
+ඔෂිනි දේවින්ද්‍යා ගුණවර්ධන ශ්‍රී ලංකා ජාතික චෙස් ශූරිය ලෙස කිරුළු පැලදියේ මේ පළමු වරටය.එමෙන්ම මේසා ලාබාල චෙස් ක්‍රීඩිකාවක් ශ්‍රී ලංකා ජාතික චෙස් ශූරිය ලෙස කිරුළු පැළදි පළමු අවස්ථාව මෙයවීමද විශේෂත්වයකි.
+
+...
+
+[Data](articles/733928dc.json)
+
+---
+
 ### Woman murdered in a house
 
 *2024-04-01 09:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195156) · `si`
@@ -425,6 +557,28 @@ Residents of the area have expressed concern that the youths are addicted to the
 [Data](articles/cf8f7aa1.json)
 
 [Extended Data](ext_articles/cf8f7aa1.ext.json)
+
+---
+
+### ජනපතිවරණය කල් දාන්න කිසිම අවස්ථාවක් නෑ
+
+*2024-04-01 09:07:19* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිවරණය-කල්-දාන්න-කිසිම-අවස්ථාවක්-නෑ/11-408870) · `si`
+
+ජනාධිපතිවරණය සැප්තැම්බර් 17දාත් ඔක්තෝමිිබර් 17දාත් අතර පැවැත්විය යුතු බවත් එය කල් දැමීමට අවස්ථවක් නොමැති බවත් පාර්ලිමෙන්තු මන්ත්‍රී පාඨලි චම්පික රණවක මහතා පවසයි.
+
+එක්සත් ජනරජ පෙරමුණේ රත්නපුර  දිස්ත්‍රික් සමුළුව රත්නපුර නගර ශාලාවේ පැවැති අතර එය අමතමින් ඔහු මේ බව පැවැසීය.
+
+"බැසිල් මහත්තයා හදිසියේම මවි රටෙිි සිට ඇවිදින් මහ මැතිවරණයක්  දියවිි කියනවා ජන වරමක් නැතිලු දැන් තමයි තේරෙන්නේ ජනවරම නැහැ කියලා. ජනවරම නැති වුනේ 2022 මැයි 9වන දිනයි. ගෑස් නැතිව තෙල් නැතිව බඩ ගින්නේ මහ පාරට ආපු අහිංසක මිනිසුන්ට ගහලා තමයි ජන වරම නැති කර ගත්තේ.
+
+දැන් ජනවරම  ඉල්ලනවා හමිිබන්තොටින් නැවත එන්න බලනවා ඊළඟ ජනාධිපතිවරනයෙන්  කාටවත් රාජපක්ෂ  පවුලේ අයට නැවත පාර්ලිමේන්තුවට එන්න බැහැ.
+
+දැන් දේශපාලනය  ගැන කලකිරිමක් තිබෙනවා ජිිවන බරින් පවුල් මිරිකිලා  කන වෙිිල සොයා ගන්න බැරි තත්වයට පත්වෙලා.
+
+දේශපාලනයේ හැමෝ⁣ම හොරු නෙවෙයි දැන් මතයක් හදලා තිබෙනවා 225 හොරු කියලා හැමෝම හොරු නොවෙයි දුෂිතයින්  නොවෙයි  මෙිි රට ගොඩ ගන්න කැමති පිරිසක්  ඉන්නවා අන්න ඒ පිරිස සමඟ ඉදිරියට  යන්න අපි කථා කරගෙන යනවා එකමුතු වෙලා ඒ ශක්තිමත් සාකච්ඡාව  අරගෙන යනවා.
+
+...
+
+[Data](articles/ccbb30b2.json)
 
 ---
 
@@ -2045,183 +2199,5 @@ It was evident that two of her assistants had made arrangements to interview Sir
 [Data](articles/8aa9e2c9.json)
 
 [Extended Data](ext_articles/8aa9e2c9.ext.json)
-
----
-
-### 3 more players in Sri LankaSharing 120 runs in the last 4 wickets
-
-*2024-03-31 20:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180088) · `ta`
-
-Sri Lanka scored 531 runs in the 2nd Test against Bangladesh, setting a new record for the highest Test innings not accumulated. Kamindu Mendis shared 120 runs in the last 4 wickets, contributing significantly to the total.
-
-🟩
-
-Today, the second day of the 2nd Test match against Bangladesh against Bangladesh, Sri Lanka has lost all the wickets in its first innings and scored 531 runs in its first innings.
-
-This number is the highest number of Test innings, which is not accumulated.
-
-In the 1976 Test against New Zealand, India was the highest number of runs that lost 9 wickets.
-
-Sri Lanka scored 318 runs for the loss of 4 wickets at the end of the first -day match with the help of half a century in Nishan Madushka, Timuth Karunaratne and Kusal Mendis.
-
-Kamindu Mendis was very efficient and shared 120 wickets with the last four and unfortunately.
-
-He is 61 (opposite Australia 2022), 102 and 164 (opposite Bangladesh - 1st Test 2024), 92 AE in his first 4 Test innings respectively. (Opposite Bangladesh - 2nd Test 2024) has amassed a total of 419 runs. With this, Mendis has balanced the total number of Javade Myondadin's first 4 innings.
-
-...
-
-[Data](articles/2ec83a94.json)
-
-[Extended Data](ext_articles/2ec83a94.ext.json)
-
----
-
-### Maithri commemorates India - Harsha
-
-*2024-03-31 20:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195143) · `si`
-
-MP Dr. Harsha de Silva criticizes former President Maithripala Sirisena's statement on the Easter terrorist attack, fearing it could lead to a diplomatic crisis. The CID has recorded a five-hour statement in response.
-
-🟩
-
-MP Dr. Harsha de Silva has quoted a press record that former President Maithripala Sirisena has given an controversial statement to the Easter terrorist attack.
-
-The MP pointed out that this statement of the former president may create even a diplomatic crisis.
-
-After the statement made by former President Maithripala Sirisena, the Criminal Investigations Department (CID) has recorded a five-hour statement.
-
-Speaking a report published in an English newspaper today, MP Dr. Harsha de Silva expressed his position.
-
-◼️
-
-[Data](articles/5a377281.json)
-
-[Extended Data](ext_articles/5a377281.ext.json)
-
----
-
-### Four of family from Sri Lanka illegally enter India
-
-*2024-03-31 20:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/98328/four-of-family-from-sri-lanka-illegally-enter-india) · `en`
-
-Four people from Sri Lanka arrived near Dhanushkodi in Ramanathapuram district on Friday night, owing to the economic crisis in the island nation, Indian media reported.
-
-According to sources, the four identified as R Murugananthan,45, his wife Rita Mary, 46, and their two children from Mannar district paid money and boarded an illegal ferry from Sri Lanka at around 9.30pm and were dropped off on one of the sand dunes at Arichalmunai at around 10.30pm on Friday.
-
-Indian Coast Guard personnel brought the family to Mandapam in a hovercraft and handed them over to the Mandapam marine police.
-
-During inquiry, officials found out that the family had fled their country due to the economic crisis. Subsequently, they were sent to the Mandapam rehabilitation camp.
-
-With this the total number of Sri Lankan nationals arriving at Rameswaram has touched 298.
-
-◼️
-
-[Data](articles/9a8d9bc0.json)
-
-[Extended Data](ext_articles/9a8d9bc0.ext.json)
-
----
-
-### 72-year-old body body of the house at the roof
-
-*2024-03-31 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195141) · `si`
-
-A 72-year-old man from Panadura Pinwatta died after falling from his roof. His son found him and called for help. The incident is under investigation by the Pinwatta Police.
-
-🟩
-
-A person who had risen in the roof tiles in his home has misfortunate.
-
-The deceased has been identified as a 72-year-old resident of Panadura Pinwatta.
-
-The victim has found the residents of the roof when the residents have been killed by a long time.
-
-His son climbed his son and examine his father and was diagnosed with his father.
-
-Residents say that as a result of the time of the morning night, he had risen to the roof to prepare them.
-
-The Pinwatta Police have launched an investigation into the incident.
-
-◼️
-
-[Data](articles/8b37aee7.json)
-
-[Extended Data](ext_articles/8b37aee7.ext.json)
-
----
-
-### Ex-President Maithripala’s controversial statement sparks diplomatic crisis?
-
-*2024-03-31 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/98327/ex-president-maithripalas-controversial-statement-sparks-diplomatic-crisis-) · `en`
-
-Samagi Jana Balavegaya (SJB) Parliamentarian Dr. Harsha de Silva alleges that former President Maithripala Sirisena has provided a controversial statement linking India to the Easter Sunday terror attacks, which will likely cause a critical diplomatic crisis.
-
-Quoting a report published on a national newspaper, de Silva stressed that the ex-president has claimed that India was behind the Easter Sunday massacres and that an Indian diplomat whom he named has not only confessed to him about the attack but also the reason.
-
-The reason was said to be because Sri Lanka has not consider handing over India any projects, according to the lawmaker.
-
-Expressing his stance regarding the relevant claims, Harsha de Silva stated that this is an extremely irresponsible statement.
-
-...
-
-[Data](articles/25f6fb68.json)
-
-[Extended Data](ext_articles/25f6fb68.ext.json)
-
----
-
-### Colombo University Business Economic Summit 2024: Keynote Address
-
-*2024-03-31 19:52:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/colombo-university-business-economic-summit-2024-keynote-address/) · `en`
-
-President Ranil Wickremesinghe addressing Parliament in August 2022 pronounced that the target of his Government was to make Sri Lanka a fully developed country by 2048. The choice of the target year had some sentimental reason. It is that Sri Lanka will celebrate the centenary of independence from Britain in 2048.
-
-Since Sri Lanka was a promising rich country in South Asia by the time it gained independence in 1948 prompting some analysts to brand it as Switzerland of Asia, it is ironical to target for prosperity after 100 years of independence. However, without any apparent connection, two weeks before Sri Lanka made this pronouncement, India’s Premier Narendra Modi too announced that India’s goal would be to make it a developed country by 2047 when it would celebrate centenary of independence from Britain. It seems that Sri Lanka is closely following the development path of its neighbour to the North.
-
-...
-
-[Data](articles/0ab064d6.json)
-
-[Extended Data](ext_articles/0ab064d6.ext.json)
-
----
-
-### Rise Of Ultranationalism & Elections, Tamil Nationalism & Resurrection Of LTTE Ideology In Sri Lanka
-
-*2024-03-31 19:41:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rise-of-ultranationalism-elections-tamil-nationalism-resurrection-of-ltte-ideology-in-sri-lanka/) · `en`
-
-The Tamil Nationalism propagated in the north of Sri Lanka will significantly influence the Sinhalese Buddhist Nationalism in the south. Four factors will propel Sinhalese Buddhist ultra-nationalism to impact elections. There is a high possibility of an ‘India-Out’ campaign in Sri Lanka, just like in Maldives.
-
-...
-
-[Data](articles/3480f452.json)
-
-[Extended Data](ext_articles/3480f452.ext.json)
-
----
-
-### A group of students arrested for alcohol party
-
-*2024-03-31 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195140) · `si`
-
-Five school students and two girls arrested in Welimada for an alcohol party.
-
-🟩
-
-A group of school students have been taken into custody in a lonely building in Welimada.
-
-Five school children and two schoolgirls were taken into police custody.
-
-Police states that these school students have been drinking alcohol at the same time.
-
-In addition, further interrogations made by saying that he had come to the road to come to the tuition and organized an alcohol party.
-
-It has been revealed that the people had entered it into the brooks in the building.
-
-◼️
-
-[Data](articles/3650ea27.json)
-
-[Extended Data](ext_articles/3650ea27.ext.json)
 
 ---

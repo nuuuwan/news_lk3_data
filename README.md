@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 19:03:14**
+As of **2024-04-01 19:18:00**
 
 ## Newspaper Stats
 
-*Scraped **16,440** Articles*
+*Scraped **16,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 908
 islandlk | 912
 adalk | 1,383
 tamilmirrorlk | 1,960
-adaderanalk | 1,980
-virakesarilk | 2,342
+adaderanalk | 1,981
+virakesarilk | 2,343
 dailymirrorlk | 2,527
 adaderanasinhalalk | 2,662
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 2,662
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,439 (100.0%) of 16,440 articles have been extended.
+16,440 (100.0%) of 16,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### Eight including 4 excise officers arrested with Kerala cannabis
+
+*2024-04-01 19:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98356/eight-including-4-excise-officers-arrested-with-kerala-cannabis) · `en`
+
+Eight persons including 04 officers of the Excise Department have been arrested by Police Narcotics Bureau (PNB) along with 45 kg of Kerala cannabis from Negombo and Chilaw areas, the police said.
+
+◼️
+
+[Data](articles/440bfbca.json)
+
+---
+
+### யாழில் வாள்வெட்டுத் தாக்குதல் : வெட்டிய கையையும் எடுத்துச் சென்ற கும்பல்!
+
+*2024-04-01 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/180183) · `ta`
+
+யாழ்ப்பாணம் - வடமராட்சி தம்பசிட்டி வட்டுவன் பகுதியில் ஞாயிற்றுக்கிழமை (31) வாள் வெட்டு சம்பவம் ஒன்று இடம் பெற்றுள்ளது.
+
+ஞாயிற்றுக்கிழமை (31) வாள்களுடன்  சென்ற குழு ஒன்று பருத்தித்துறை தம்பசிட்டி வட்டுவன் பகுதியில் உள்ள நபர் ஒருவர் மீது வாளால் வெட்டியதுடன் வாளால் வெட்டியபோது கீழே வீழ்ந்த கை துண்டையும் எடுத்துச் சென்றுள்ளதாகவும் பொலிஸார் தகவல்கள் தெரிவிக்கின்றன.
+
+வாள் வெட்டுக்கு இலக்கான நபர் பருத்தித்துறை ஆதார வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்த நிலையில் மேலதிக சிகிச்சைக்காக யாழ்ப்பாணம் போதனா வைத்திய சாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+கையை இழந்தவர் செல்வநாயகம் செந்தூரன் எனும் 30 வயதுடைய இளம் குடும்பஸ்தர் ஆவார்.
+
+◼️
+
+[Data](articles/d884b3e3.json)
+
+---
 
 ### The Justice Minister reconstructed the bill to reduce the age of intercourse to 14
 
@@ -1796,21 +1826,33 @@ Leader of the House Susil Premajayantha informed the Parliament that the Attorne
 
 ---
 
-### බොල්ටිමෝර් සිට කොළඹට එද්දී පාලමක ගැටුණු ඩාලි නැවේ තිබුණේ ‘විෂ අපද්‍රව්‍ය’ ද?
+### Did Dali ship, who clashed in a bridge when he arrived in Colombo from Boltimore, is 'toxic waste'?
 
 *2024-04-01 12:54:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz9ze3y3vq7o) · `si`
 
-බොල්ටිමෝර් සිට කොළඹට එද්දී පාලමක ගැටුණු ඩාලි නැවේ තිබුණේ ‘විෂ අපද්‍රව්‍ය’ ද?
+A ship carrying 764 tonnes of toxic waste from Baltimore to Sri Lanka, including corrosive materials and explosives, clashed on a bridge in Colombo. Sri Lanka's Central Environmental Authority (CEA) asserts it won't allow waste to be landed without permission, despite the ship's arrival on April 22, not March 26 as initially reported.
 
-ශ්‍රී ලංකාවේ කොළඹ වරාය බලා යාත්‍රා කරමින් තිබියදී ඇමෙරිකාවේ බොල්ටිමෝර්හි ෆ්‍රැන්සිස් ස්කොට් කී පාලමෙහි (Francis Scott Key Bridge) ගැටුණු සිංගප්පූරු ධජය සහිත ඩාලි (Dali) නමැති භාණ්ඩ ප්‍රවාහන නෞකාවේ අන්තරායකර ද්‍රව්‍ය (hazardous materials) ටොන් 764ක් තිබූ බව වෙබ් අඩවියක් විසින් අනාවරණය කරනු ලැබ තිබේ.
+🟩
 
-එම වෙබ් අඩවිය වාර්තා කළේ, බහාලුම් 56ක් තුළ විඛාදනයට ලක්වනසුලු, ගිනිගන්නාසුලු, විවිධ අනතුරුදායක ද්‍රව්‍ය සහ පුපුරන ද්‍රව්‍ය මෙන් ම, ලිතියම් බැට්රි ඇතුළු 9 වන පන්තියේ අන්තරායදායක ද්‍රව්‍ය (විදුලි උපකරණ ආදී ද්‍රව්‍ය) තිබූ බව අනාවරණය වී ඇති බව ය.
+Did Dali ship, who clashed in a bridge when he arrived in Colombo from Boltimore, is 'toxic waste'?
 
-අදාළ වෙබ් අඩවිය එම ලිපිය පළ කර ඇත්තේ, "ඇමෙරිකාවේ විෂ සහිත අපද්‍රව්‍ය ශ්‍රී ලංකාවට රැගෙන යමින් තිබූ නෞකාව බොල්ටිමෝර් පාලමේ ගැටෙයි," (Ship Exporting US Toxic Waste to Sri Lanka Crashes Baltimore Bridge) යන සිරස්තලය යටතේ ය.
+A website has revealed that there were 764 tonnes of the Singapore, Dali (Dali), the Francis Scott Key Bridge in Boultimore, the Francis Scott Key Bridge of the Sri Lanka Harbor in Sri Lanka.
+
+The site reported that corrosive, burn, vulnerable materials, various dangerous materials and explosives, as well as explosives, and Lithium Brry.
+
+The website is published under the headline of the ship, which was carrying toxic waste to Sri Lanka in America to Sri Lanka.
+
+The report also stated that 4,700 containers were found in the US National Transport Protection Board (US National Transportation Board).
+
+The ship, which leaving the Boaltimore on March 26, was to arrive at the Port of Colombo on March 26, as indicated in international voyages.
+
+However, the Colombo Harbor Deputy Noterassati Lakshya Lakshya Lakshya service told the BBC Sinhala service.
 
 ...
 
 [Data](articles/15fde174.json)
+
+[Extended Data](ext_articles/15fde174.ext.json)
 
 ---
 
@@ -2203,41 +2245,5 @@ Two female police officers were on duty and arrested the suspect in a bus travel
 [Data](articles/fbdf98a9.json)
 
 [Extended Data](ext_articles/fbdf98a9.ext.json)
-
----
-
-### USD indicative rate reaches Rs. 300 for first time since June 2023
-
-*2024-04-01 12:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/98342/usd-indicative-rate-reaches-rs-300-for-first-time-since-june-2023) · `en`
-
-The indicative rate of the US Dollar has reached the Rs. 300 level today for the first time since June 13, 2023, the Central Bank of Sri Lanka (CBSL) announced.
-
-According to the official exchange rates announced today by the CBSL, the buying rate of the USD is Rs. 295.57 and the selling rate is Rs. 305.10.
-
-◼️
-
-[Data](articles/35c3f794.json)
-
-[Extended Data](ext_articles/35c3f794.ext.json)
-
----
-
-### Government withdraws Bill to reduce consent age for sex to 14 years
-
-*2024-04-01 11:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-withdraws-Bill-to-reduce-consent-age-for-sex-to-14-years/108-279950) · `en`
-
-Parliament, April 1 (Daily Mirror)- The government today withdrew the Penal Code (Amendment) Bill which calls to reduce the consent age for sex to 14 years.
-
-Justice Minister Wijeyadasa Rajapakshe told Parliament that the government was withdrawing the Bill and said that an amendment which could be agreeable to all interested parties will be presented to Parliament in the future.
-
-The Minister said the recommendation on the Bill was presented to the Justice Ministry by senior President's Counsels, other Attorneys and professionals after studying for five years.
-
-He said the amendment was proposed due to a practical issue where the girl and the boy, who had sexual relationships on consent over a romantic relationship, had to face.
-
-...
-
-[Data](articles/32ba30c8.json)
-
-[Extended Data](ext_articles/32ba30c8.ext.json)
 
 ---

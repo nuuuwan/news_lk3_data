@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 07:45:08**
+As of **2024-04-01 07:58:40**
 
 ## Newspaper Stats
 
-*Scraped **16,266** Articles*
+*Scraped **16,267** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 888
 islandlk | 910
-adalk | 1,363
+adalk | 1,364
 tamilmirrorlk | 1,941
 adaderanalk | 1,960
 virakesarilk | 2,311
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,631
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,265 (100.0%) of 16,266 articles have been extended.
+16,265 (100.0%) of 16,267 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1798,6 +1798,22 @@ As a result, the Department issued a series of instructions to be followed by th
 
 ---
 
+### සතොස ප්‍රවාහන අංශයේ අවු.04ක පාඩුව කෝටි විසිහතයි
+
+*2024-03-31 17:35:30* · [`adalk`](https://www.ada.lk/breaking_news/සතොස-ප්‍රවාහන-අංශයේ-අවු-04ක-පාඩුව-කෝටි-විසිහතයි/11-408868) · `si`
+
+සමුපකාර තොග වෙළඳ සංස්ථාවේ ප්‍රවාහන අංශයේ දිගින් දිගටම පාඩු ලබමින් පවතින අතර,ඉකුත් වසර 04 තුළ 2019 ජනවාරි 01වන දිනසිට 2022 දෙසැම්බර් 31 දක්වා කාලසීමාව තුළ රුපියල් විසිහය කෝටි හැත්තෑ තුන්ලක්ෂ දාහතරදහස් නවසිය තිස්දෙකක (267,314,932) පාඩුවක් ලබා ඇති බවත් 2024-03-28 දින ජාතික විගණන කාර්යාලය මගින් නිකුත් කර ඇති නවතම විගණන වාර්තාවක සඳහන් වේ.
+
+2022 වර්ෂය තුළ පමණක් සමුපකාර තොග වෙළඳ සංස්ථාවේ ප්‍රවාහන අංශය ලබා ඇති අලාභය රුපියල් හත් කෝටි පනස්එක් ලක්ෂ හතළිස් තුන්දහස් හත්සිය අසූහතකි. (75,143,787) 2021 වර්ෂයට සාපේක්ෂව 2022 වර්ෂයේ සතොස ප්‍රවාහන අංශය ලබා ඇති අලාභය රුපියල් දෙකෝටි පනස් එක්ලක්ෂ විසිහතරදහස් නවසිය හතළිස් නවයකින් (25,124,949) වැඩි වී ඇත.
+
+සතොස ප්‍රවාහන අංශය 2019 වර්ෂයේදී රුපියල් හය කෝටි අනූහත් ලක්ෂ  හතළිස් දෙදහස් අටසිය හැටතුනක (69,742,863) අලාභයක් සහ 2020 වර්ෂයේදී හත්කෝටි විසිහතර ලක්ෂ නවදහස් හාරසිය හතළිස් හතරක (72,409,444) පාඩුවක් ලබා ඇති බව නිකුත් කරන ලද විගණන වාර්තාවේ සඳහන් වේ.
+
+...
+
+[Data](articles/449d0fef.json)
+
+---
+
 ### Two police arrested for disrupting the duty of the police in Kalupitiya
 
 *2024-03-31 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180076) · `ta`
@@ -2227,25 +2243,5 @@ Recent news report i.e sentencing of Ven. Galagoda Aththe Gnanasara Thera, Gener
 [Data](articles/3e12be1c.json)
 
 [Extended Data](ext_articles/3e12be1c.ext.json)
-
----
-
-### Govt to support production of Sri Lanka’s first AI film – President
-
-*2024-03-31 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98324/govt-to-support-production-of-sri-lankas-first-ai-film-president) · `en`
-
-President Ranil Wickremesinghe stated that the outmoded film corporation would be transformed using modern technology, and it would be developed into a film and teledrama industries development company in Sri Lanka.
-
-Also, President Wickremesinghe highlighted the importance of providing foreign training opportunities to artists and production designers. This measure seeks to equip them with the latest technological knowledge, emphasizing the need for the film and teledrama industries to embrace modern advancements for future progress.
-
-He further mentioned that artificial intelligence (AI) technology has integrated into the global film industry, and moving forward, the government will extend support for the production of Sri Lanka’s first AI film.
-
-President Ranil Wickremesinghe made this statement while addressing the 20th Raigam Tele’es Awards ceremony held at the Shangri-La Hotel in Colombo yesterday (30).
-
-...
-
-[Data](articles/7d0dec05.json)
-
-[Extended Data](ext_articles/7d0dec05.ext.json)
 
 ---

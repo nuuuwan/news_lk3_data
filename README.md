@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 18:10:44**
+As of **2024-04-01 18:22:16**
 
 ## Newspaper Stats
 
-*Scraped **16,433** Articles*
+*Scraped **16,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ islandlk | 912
 adalk | 1,382
 tamilmirrorlk | 1,960
 adaderanalk | 1,980
-virakesarilk | 2,339
+virakesarilk | 2,341
 dailymirrorlk | 2,525
 adaderanasinhalalk | 2,662
 
@@ -26,43 +26,107 @@ adaderanasinhalalk | 2,662
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,428 (100.0%) of 16,433 articles have been extended.
+16,433 (100.0%) of 16,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### காதில்  ஹியர்போன் அணிந்தவாறு நடந்து சென்ற பேராதனை பல்கலை மாணவன் ரயிலால் மோதப்பட்டு உயிரிழப்பு!
+### Mannar Wind Farm Project: Another folly like the Sinharaja Logging Project on the horizon?
+
+*2024-04-01 18:05:00* · [`islandlk`](http://island.lk/mannar-wind-farm-project-another-folly-like-the-sinharaja-logging-project-on-the-horizon/) · `en`
+
+A wind farm consisting of 30 towers generating 100MW (Phase 1- Thambapavani) was established on the southern coast of Mannar Island in 2020, with financial assistance from the Asian Development Bank (ADB). The widespread criticism of this project due to its positioning within one of the main bird migratory corridors in the Asian region (detailed elsewhere in the article) was largely overlooked or ignored due to the economic priorities that prevailed at the time, as it happened with the now infamous Canadian-funded Sinharaja Mechanized Logging Project of the 1970s.
+
+...
+
+[Data](articles/e1e620a8.json)
+
+[Extended Data](ext_articles/e1e620a8.ext.json)
+
+---
+
+### புறக்கோட்டை சந்தையில் சீனாவின் பெரிய வெங்காயம் விற்பனை!
+
+*2024-04-01 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/180179) · `ta`
+
+சீனாவிலிருந்து இறக்குமதி செய்யப்பட்ட  பெரிய வெங்காயத்தை புறக்கோட்டை  மொத்த வியாபார  சந்தையில் முதல் முறையாக வாங்க முடியும் என இறக்குமதியாளர்கள் மற்றும் மொத்த விற்பனையாளர்கள் தெரிவிக்கின்றனர்.
+
+இந்த சீன வெங்காயத்தின்  ஒரு கிலோவின் மொத்த விலை 320 ரூபா எனவும் இந்த  வெங்காயம் நல்ல நிலையில்  காணப்படுவதாகவும் கூறுகின்றனர்.
+
+இந்தியாவும் பாகிஸ்தானும் பெரிய வெங்காய ஏற்றுமதிக்கு தடை விதித்ததையடுத்து,  இலங்கையில்  இறக்குமதியாளர்கள் மற்றும் மொத்த விற்பனையாளர்கள் கடும் நெருக்கடிக்கு உள்ளாகியதாகவும் அவர்கள் கூறுகின்றனர்.
+
+இதனையடுத்தே இறக்குமதியாளர்கள் மற்றும் மொத்த வியாபாரிகள் சீனாவிலிருந்து பெரிய வெங்காயத்தை இறக்குமதி செய்ய ஆரம்பித்ததுடன் திங்கட்கிழமை (01) முதல் புறக்கோட்டை மொத்த விற்பனை சந்தையில் சீன பெரிய வெங்காயம் விற்பனை செய்யப்படுவதாக தெரிவித்தனர்.
+
+இதனால், பண்டிகைக் காலங்களில் வெங்காயத்துக்கு தட்டுப்பாடு ஏற்படாது என்றும், நுகர்வோர் தங்களுக்குத் தேவையான வெங்காயத்தை தட்டுப்படின்றி பெற்றுக்  கொள்ளலாம் என்றும் இறக்குமதியாளர்கள் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/c26a7495.json)
+
+---
+
+### இம்ரான் கான், புஷ்ரா பீபியின் 14 வருட சிறைத்தண்டனை இடைநிறுத்தம்
+
+*2024-04-01 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/180178) · `ta`
+
+பாகிஸ்தானின் முன்னாள் பிரதமர் இம்ரான் கான், அவரின் மனைவி புஷ்ரா பீபி ஆகியோருக்கு தோஷகானா ஊழல் வழக்கில் விதிக்கப்பட்ட 14 வருட சிறைத்தண்டனையை இஸ்லாமாபாத் உயர் நீதிமன்றம் இன்று இடைநிறுத்தியுள்ளது.
+
+எனினும், ஏனைய வழக்குகளில் அளிக்கப்பட்ட தீர்ப்புகள் காரணமாக அவர்கள் இருவரும் சிறையிலிருந்து விடுவிக்கப்பட மாட்டார்கள்.
+
+இம்ரான் கானுக்கும் புஷ்ரா பீபிக்கும்  14 வருட சிறைத்தண்டனை விதித்து இஸ்லாமாபாத் பொறுப்புடைமை நீதிமன்றம் ஜனவரி 31 ஆம்  திகதி தீர்ப்பளித்தது. இவர்கள் தலா 10 வருட காலம் அரச பதவிகளை வகிப்பதற்கு தடை விதிக்கப்பட்டதுடன் இருவருக்கும் தலா 787 மில்லியன் பாகிஸ்தான் ரூபா அபராதமும் விதிக்கப்பட்டது.
+
+இத்தீர்ப்புக்கு எதிரான இம்ரான் கானின் மேன்முறையீட்டு மனுவை இஸ்லாமாபாத்  மேல் நீதிமன்றம் ஏற்றுக்கொண்டுள்ள நிலையில், மேற்படி தண்டனைகள் இடைநிறுத்தப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/1e5cec9a.json)
+
+---
+
+### Peradeniya University student dies in a train
 
 *2024-04-01 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/180177) · `ta`
 
-பேராதனை பல்கலைக்கழகத்தின் கலைப் பீடத்தின் சட்டக் கற்கைகள் பிரிவின் மூன்றாம் வருட மாணவர்  ஒருவர்  பெனிதெனிய பிரதேசத்தில் ரயிலால் மோதப்பட்டு  உயிரிழந்துள்ளதாக பேராதனை பொலிஸார் தெரிவித்தனர்.
+A third-year Peradeniya University student died after being hit by a train in Beniteniya.
 
-பேராதனைப் பல்கலைக்கழகத்தின் சட்டக் கற்கைப் பிரிவில் மூன்றாம் ஆண்டில் கல்வி கற்று வந்த வத்துவ பிரதேசத்தைச் சேர்ந்த சித்சரதா சில்வா என்பவரே உயிாிழந்துள்ளார்.
+🟩
 
-ஹியர்போன் கேட்கும் கருவியை காதில் அணிந்து கொண்டு  ரயில் பாதையில் நடந்து சென்று கொண்டிருந்தபோதே  நாவலப்பிட்டி - கண்டி ரயிலால் மோதப்பட்டு  இந்த மாணவர் உயிரிழந்துள்ளதாக பேராதனை பொலிஸார் தெரிவிக்கின்றனர்.
+A third year student of the Legal Studies Division of the Peradeniya University Faculty of Peradeniya has died by a train in Beniteniya area, Peradeniya Police said.
 
-பேராதனை பொலிஸ் நிலைய பிரதான பொலிஸ் பரிசோதகர் விஜித் விஜேகோன் தலைமையில் மேலதிக விசாரணைகள் இடம்பெற்று வருகின்றன.
+Sidcharata Silva, a resident of Vatu, who was educated in the third year of the Law Studies of the University of Peradeniya, died.
+
+Peradeniya police say that the student has died after being hit by a Nawalapitiya -Kandy train while walking on the railway line wearing a Heyerbone listening tool.
+
+Further investigations are underway under the leadership of Chief Inspector of Police Vijith Wihekoon.
 
 ◼️
 
 [Data](articles/32092b18.json)
 
+[Extended Data](ext_articles/32092b18.ext.json)
+
 ---
 
-### ඉම්රාන් ඛාන්ගේ වසර 14ක සිර දඬුවම අත්හිටුවයි
+### Imran Khan suspends 14 years in imprisonment
 
 *2024-04-01 17:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195182) · `si`
 
-පාකිස්තානයේ හිටපු අග්‍රාමාත්‍ය ඉම්රාන් ඛාන්ට පනවා තිබූ වසර 14ක සිර දඬුවම අත්හිටුවීමට එරට ඉස්ලාමාබාද් මහාධිකරණය නියෝග කර තිබේ.
+Imran Khan's 14-year prison sentence is suspended by Islamabad High Court, but he remains incarcerated due to ongoing cases.
 
-ඔහු විසින් ගොනුකර තිබූ අභියාචනයක් සළකාබැලීමට තීරණය කිරීමත් සමග අධිකරණය මෙම නියෝගය ලබාදී ඇත.
+🟩
 
-කෙසේ වෙතත් මීට පෙර ඔහුට එරෙහිව පවරා ඇති නඩු කටයුතු හේතුවෙන් හිටපු අග්‍රාමාත්‍ය ඉම්රාන් ඛාන් තවදුරටත් බන්ධනාගාරගතව සිටී.
+The High Court Islamabad has ordered the 14-year sentence imposed on former Prime Minister Imran Khan.
+
+The court has issued this order with the decision to settle his appeal.
+
+However, former Prime Minister Imran Khan is still imprisoned due to the cases filed against him.
 
 ◼️
 
 [Data](articles/30712283.json)
+
+[Extended Data](ext_articles/30712283.ext.json)
 
 ---
 
@@ -81,6 +145,8 @@ Islamabad High Court said that the couple’s graft sentence will remain suspend
 ...
 
 [Data](articles/d904123b.json)
+
+[Extended Data](ext_articles/d904123b.ext.json)
 
 ---
 
@@ -1324,19 +1390,25 @@ The 10-50 million people have over Rs.Speaking, Patali Champika Ranawaka added t
 
 ---
 
-### දුෂ්කර ප්‍රදේශවල සිසුන්ගේ පාසල් පැමිණීම දිරිගැන්වීමට ජපානයෙන් පාපැදි
+### Japan bicycles to encourage students' attendance in remote areas
 
 *2024-04-01 13:48:28* · [`adalk`](https://www.ada.lk/breaking_news/දුෂ්කර-ප්‍රදේශවල-සිසුන්ගේ-පාසල්-පැමිණීම-දිරිගැන්වීමට-ජපානයෙන්-පාපැදි/11-408881) · `si`
 
-දුෂ්කර ප්‍රදේශවල පාසල් දරුවන්ගේ දෛනික පාසල් පැමිණීම දිරිමත් කිරීමේ අරමුණින් සිසුන්ට අඛණ්ඩ ව පාසල් පැමිණීමේ අවස්ථාව සලසා දීම සඳහා ජපන්  'චයිල්ෆන්ඩ්'ආයතනය මෙරටට පාපැදි 500ක ප්‍රදානයක් ලබා දී ඇත.
+Japan's 'China' Chailfand grants 500 bicycles to Sri Lankan schools in remote areas, aiming to boost student attendance. The initiative, supported by the Japanese Ambassador and the Sri Lanka Chailfand, benefits students in Moneragala, Puttalam, and Mullaitivu districts.
 
-මෙම පාපැදි නිල වශයෙන් භාර දීම අද දින අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතාගේ ප්‍රධානත්වයෙන් බත්තරමුල්ල .වෝටර්ස් එජ්හි. දී පැවති  අතර එම අවස්ථාවට මෙරට ජපන් තානාපති මිෂුකොෂි හයිදේකි (MIZUKOSHI Hadeaki) මහතා, ජපන් 'චයිල්ඩ්ෆන්ඩ්' ආයතනයේ නියෝජිත යුකෝ ඉෂාණ්ඩා (YUKO ISHANDA) හා ලංකා  'චයිල්ඩ්ෆන්ඩ්' ආයතනයේ ජාතික අධ්‍යක්ෂ ආදිති ගෝෂ් (ADITI GOSH) මහත්මිය යන අය සහභාගි වූහ.
+🟩
 
-මේ වන විටත් මෙරටට ලැබී ඇති මෙම පාපැදි තොගය ලබා දීම සඳහා මොණරාගල, පුත්තලම, මුලතිව් වැනි ප්‍රවාහන දුෂ්කරතා සහිත  දිස්ත්‍රික්ක 12ක පාසල් 108කින්  වයස අවුරුදු 12-16ත් අතර සුදුසු සිසු සිසුවියන් තෝරාගනු ලැබ ඇත. නිවසේ සිට පාසලට අවම වශයෙන් කිලෝමීටර් දෙකහමාරක දුරක් පැමිණිය යුතු වීම මෙම පාපැදි ලබා දීමේ දී සලකා බැලු‍ණු ප්‍රධාන නිර්ණායකයකි. සිසුන්ගේ පවුල්වල ආර්ථික දුෂ්කරතා හා වෙනත් අපහසුතා ද මෙහි දී සැලකිල්ලට බඳුන් කර ඇත.
+The Japanese 'China' Chailfand has been given a grant of 500 bicycles to encourage students to attend school children's daily school children.
+
+Educational Minister Susil Premajayantha today under the patronage of Minister of Education Dr. Susil Premajayantha today under the patronage of Minister of Education Dr. Susil Premajayantha today. In the event, Japanese Ambassador to the Japanese Ambassador, Mizukoshi Hadeaki (Mizukoshi Hadeaki) and National Director of the Japanese Chayildfund (Uki Gosh) and the national director of Lanka Chillfad.
+
+These bicycle consumption has already been selected from 108 schools in 12 districts such as Moneragala, Puttalam and Mullaitivu.. At least two and a half miles [a half kilometers) from home to school is a major criterion of these bicycles. The students' families have also considered economic hardships and other difficulties.
 
 ...
 
 [Data](articles/0c81f88b.json)
+
+[Extended Data](ext_articles/0c81f88b.ext.json)
 
 ---
 
@@ -1984,6 +2056,8 @@ Taprobane Holdings, repositioned as Ambeon Capital Plc, saw several transactions
 
 [Data](articles/840e4ad5.json)
 
+[Extended Data](ext_articles/840e4ad5.ext.json)
+
 ---
 
 ### Student abuse;Suspect arrested for having a romantic relationship
@@ -2171,69 +2245,5 @@ The award ceremony is organized annually, based on the ally of the country's lea
 [Data](articles/5c9b5e66.json)
 
 [Extended Data](ext_articles/5c9b5e66.ext.json)
-
----
-
-### Litro Gas prices reduced
-
-*2024-04-01 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/98340/litro-gas-prices-reduced) · `en`
-
-The price of Litro domestic LP gas cylinders have been slashed with effect from today (April 01), the Chairman of Litro Gas Muditha Peiris announced.
-
-Accordingly, the price of the 12.5 kg cylinder has been reduced by Rs. 135 to Rs. 4,115 while the price of the 05 kg cylinder has been reduced by Rs. 55 to Rs. 1,652.
-
-Meanwhile, the price of the 2.3 kg cylinder has been reduced by Rs. 23 with the new price of Rs. 772.
-
-◼️
-
-[Data](articles/02dc865c.json)
-
-[Extended Data](ext_articles/02dc865c.ext.json)
-
----
-
-### A change of Litro
-
-*2024-04-01 11:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195164) · `si`
-
-Litro gas prices reduced in April. Mr. Muditha Peiris announced a Rs. 135 decrease for a 12.5 kg cylinder at a media briefing.
-
-🟩
-
-The company has decided to reduce the litro gas prices for April.
-
-He was speaking at a media briefing held at the moment, Mr. Muditha Peiris said this.
-
-Accordingly, a 12.5 kilogram litro gas cylinder has been reduced by Rs. 135.
-
-◼️
-
-[Data](articles/9c042634.json)
-
-[Extended Data](ext_articles/9c042634.ext.json)
-
----
-
-### Sri Lanka fuel price formula allows for max profit margin of 4 percent: Minister
-
-*2024-04-01 11:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-fuel-price-formula-allows-for-max-profit-margin-of-4-percent-minister-156749/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s current fuel price formula allows for a maximum profit margin of 4 percent on all products, Power and Energy Minister Kanchana Wijesekera has said.
-
-“If a full 4 percent profit margin is applied, a price increase was due on auto diesel and 92 petrol,” Wijesekera said on his social media page on X (twitter).
-
-Fuel prices are revised on the first of each month. Wijesekera provided a CPC fuel cost break down after the price revision last night:
-
-“1.Refinery cost has an impact on auto diesel, 92 petrol and kerosene. VAT is applicable for refinery products as well from the 1st of January. Refinery gains and losses are calculated on the above products. Refinery does not produce Super Diesel or 95 Petrol.
-
-2. Formula allows for a maximum profit margin of 4% on all products.
-
-3. Auto Diesel and 92 Petrol full profit margins are not applied to maintain prices. If a full 4% profit margin is applied a price increase was due on Auto diesel and 92 Petrol.
-
-...
-
-[Data](articles/72c0845c.json)
-
-[Extended Data](ext_articles/72c0845c.ext.json)
 
 ---

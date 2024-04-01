@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 07:45:08**
+As of **2024-04-01 08:08:58**
 
 ## Newspaper Stats
 
-*Scraped **16,266** Articles*
+*Scraped **16,267** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 363
 dailyftlk | 881
 economynextcom | 888
 islandlk | 910
-adalk | 1,363
+adalk | 1,364
 tamilmirrorlk | 1,941
 adaderanalk | 1,960
 virakesarilk | 2,311
@@ -26,7 +26,7 @@ adaderanasinhalalk | 2,631
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,265 (100.0%) of 16,266 articles have been extended.
+16,267 (100.0%) of 16,267 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -94,21 +94,27 @@ The Department of Meteorology urges the public to take necessary steps to be tak
 
 ---
 
-### ’திரைப்படக் கூட்டுத்தாபனத்தில் மாற்றம் ஏற்படும்’
+### Transition in the movie Corporation
 
 *2024-04-01 04:49:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரைப்படக்-கூட்டுத்தாபனத்தில்-மாற்றம்-ஏற்படும்/175-335431) · `ta`
 
-பழமையான பாரம்பரியத்துடன் காணப்படும் திரைப்படக் கூட்டுத்தாபனம் நவீன தொழில்நுட்பத்துடன் மாற்றத்திற்கு உள்ளாக்கப்பட்டு இலங்கை திரைப்படம் மற்றும் தொலைக்காட்சி நாடக அபிவிருத்தி நிறுவனமாக கட்டியெழுப்பப்படும் என ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்தார்.
+President Ranil Wickremesinghe announced a modernization of the film industry in Sri Lanka, including AI integration and foreign training for artists.
 
-அதேவேளை, கலைஞர்கள் மற்றும் வடிவமைப்பாளர்களை நவீன தொழில்நுட்ப அறிவுடன் வலுவூட்டுவதற்கு வெளிநாட்டு பயிற்சி வாய்ப்புகள் வழங்கப்படும் என தெரிவித்த ஜனாதிபதி, நவீன தொழில்நுட்பத்துடன் முன்னோக்கிச் செல்ல திரைப்படம் மற்றும் தொலைக்காட் நாடகத்துறையை தயார் செய்ய வேண்டும் எனவும் சுட்டிக்காட்டினார்.
+🟩
 
-செயற்கை நுண்ணறிவு (AI) தொழிநுட்பம் இன்று உலகத் திரைப்படத்துறையில் உள்வாங்கப்பட்டிருக்கிறது. எனவே, அதனை முன்னோக்கி கொண்டுச் செல்லும் வகையில் முதலாவது AI திரைப்படத்தை தயாரிப்பதற்கு அரசாங்கம் ஆதரவு வழங்கும் என்றும் ஜனாதிபதி அறிவித்தார்.
+President Ranil Wickremesinghe said that the film Corporation with ancient heritage will be transformed into modern technology and will be built as a Sri Lankan film and television theater development agency.
 
-கொழும்பு ஷங்ரீலா ஹோட்டலில் நடைபெற்ற 20 ஆவது ரைகம் டெலிஸ் விருது வழங்கும் விழாவில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்கிரமசிங்க இதனைத் தெரிவித்தார். (a)
+At the same time, the President said that foreign training opportunities would be given to strengthen artists and designers with modern technology and pointed out that the film and television theater should be prepared to move forward with modern technology.
+
+Artificial Intelligence (AI) technology has been embedded in the world film industry today. The President also announced that the government would support the production of the first AI film to bring it forward.
+
+President Ranil Wickremesinghe made this statement while addressing the 20th Rikam Tellis Awards ceremony held at Shankrela Hotel, Colombo. (A)
 
 ◼️
 
 [Data](articles/df49e3d4.json)
+
+[Extended Data](ext_articles/df49e3d4.ext.json)
 
 ---
 
@@ -1798,6 +1804,30 @@ As a result, the Department issued a series of instructions to be followed by th
 
 ---
 
+### Sevaka transport sector losses losses
+
+*2024-03-31 17:35:30* · [`adalk`](https://www.ada.lk/breaking_news/සතොස-ප්‍රවාහන-අංශයේ-අවු-04ක-පාඩුව-කෝටි-විසිහතයි/11-408868) · `si`
+
+The Co-operative Wholesale Trade Corporation's Transport Division incurred a loss of Rs. 75,143,787 in 2022, up from Rs. 2 million in 2021. An audit report highlighted inefficiencies in management, with no answers provided to the audit's findings.
+
+🟩
+
+The Co-operative Wholesale Trade Corporation has continuous losses to December 1, 2019, a loss of Rs. 31A newly issued audit report issued by the office is stated.
+
+The loss incurred by the Co-operative Wholesale Corporation's Transport Division only during the year 2022 only losses. (75,143,787) The CWE, the CWE Transportation Division has been increased by 2022 compared to 2021, with increased Rs.
+
+The CWE Transport Division is a loss of Rs. 2 million and Rs.
+
+Audit recommended that the objectives should be fulfilled efficiently and effectively. The audit revealed that the management of the Co-operative Wholesale Merchant Trade Corporation had not provided any answer.
+
+◼️
+
+[Data](articles/449d0fef.json)
+
+[Extended Data](ext_articles/449d0fef.ext.json)
+
+---
+
 ### Two police arrested for disrupting the duty of the police in Kalupitiya
 
 *2024-03-31 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/180076) · `ta`
@@ -2227,25 +2257,5 @@ Recent news report i.e sentencing of Ven. Galagoda Aththe Gnanasara Thera, Gener
 [Data](articles/3e12be1c.json)
 
 [Extended Data](ext_articles/3e12be1c.ext.json)
-
----
-
-### Govt to support production of Sri Lanka’s first AI film – President
-
-*2024-03-31 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/98324/govt-to-support-production-of-sri-lankas-first-ai-film-president) · `en`
-
-President Ranil Wickremesinghe stated that the outmoded film corporation would be transformed using modern technology, and it would be developed into a film and teledrama industries development company in Sri Lanka.
-
-Also, President Wickremesinghe highlighted the importance of providing foreign training opportunities to artists and production designers. This measure seeks to equip them with the latest technological knowledge, emphasizing the need for the film and teledrama industries to embrace modern advancements for future progress.
-
-He further mentioned that artificial intelligence (AI) technology has integrated into the global film industry, and moving forward, the government will extend support for the production of Sri Lanka’s first AI film.
-
-President Ranil Wickremesinghe made this statement while addressing the 20th Raigam Tele’es Awards ceremony held at the Shangri-La Hotel in Colombo yesterday (30).
-
-...
-
-[Data](articles/7d0dec05.json)
-
-[Extended Data](ext_articles/7d0dec05.ext.json)
 
 ---

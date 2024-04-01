@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 22:34:16**
+As of **2024-04-01 22:51:56**
 
 ## Newspaper Stats
 
-*Scraped **16,470** Articles*
+*Scraped **16,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 908
 islandlk | 913
 adalk | 1,387
 tamilmirrorlk | 1,963
-adaderanalk | 1,983
-virakesarilk | 2,347
+adaderanalk | 1,984
+virakesarilk | 2,348
 dailymirrorlk | 2,535
 adaderanasinhalalk | 2,668
 
@@ -26,11 +26,69 @@ adaderanasinhalalk | 2,668
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,468 (100.0%) of 16,470 articles have been extended.
+16,470 (100.0%) of 16,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
+
+### Sri Lanka’s Tamil parties plan to field presidential candidate from community
+
+*2024-04-01 22:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/98359/sri-lankas-tamil-parties-plan-to-field-presidential-candidate-from-community) · `en`
+
+Sri Lanka’s Tamil political parties plan to field a candidate from the minority community for the presidential election who would present a credible and acceptable political solution for them, a senior community leader has said.
+
+Sri Lanka is set to hold the next presidential election in the last quarter of 2024. The next president would be elected by mid-November at the latest.
+
+Addressing reporters at his residence in the eastern district of Trincomalee on Sunday, senior Tamil leader R Sampanthan said that Tamils would be well served in the forthcoming presidential election by supporting a candidate who would pledge to resolve all issues concerning the Tamil minority through an acceptable political solution.
+
+...
+
+[Data](articles/3357cba3.json)
+
+---
+
+### புங்குடுதீவு மாணவி கொலை குற்றவாளிகளில் ஒருவர் உயிரிழப்பு
+
+*2024-04-01 22:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/180191) · `ta`
+
+புங்குடுதீவு மாணவி கொலை குற்றவாளியான மரண தண்டனை கைதியொருவர் கண்டி தேசிய வைத்தியசாலையில் உயிரிழந்துள்ளார்.
+
+யாழ்ப்பாணம் - புங்குடுதீவு பகுதியை சேர்ந்த பூபாலசிங்கம் தவக்குமார் (வயது 37) என்பவரே உயிரிழந்துள்ளார்.
+
+மரண தண்டனை கைதியான குறித்த நபர் கண்டி போகம்பரை சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்த நிலையில், சுகவீனம் காரணமாக கண்டி தேசிய வைத்தியசலையில் ஞாயிற்றுக்கிழமை (31) அனுமதிக்கப்பட்டார்.
+
+நிமோனியாவே உயிரிழப்புக்கு காரணம் எனவும் , சடலம் வைத்தியசாலை பிரேத அறையில் வைக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்படுகிறது.
+
+புங்குடுதீவு மாணவி கொலை வழக்கில் 7 பேருக்கு எதிரான குற்றங்கள் நிருபிக்கப்பட்டத்தை அடுத்து ஏழு பேருக்கும் மரண தண்டனை விதித்தும் , 30 வருட கடூழிய சிறைத்தண்டனை விதித்தும் தீர்ப்பாயம் கடந்த 2017ஆம் ஆண்டு செப்டெம்பர் மாதம் 27ஆம் திகதி தீர்ப்பளித்திருந்தது.
+
+அதனை தொடர்ந்து குற்றவாளிகள் கண்டி போகம்பரை சிறைச்சாலையில் தடுத்து வைக்கப்பட்டுள்ளனர். அதேவேளை தமக்கு எதிரான தீர்ப்புக்கு எதிராக குற்றவாளிகள் மேன் முறையீடு செய்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/17bd08db.json)
+
+---
+
+### Increased AGIV/ AIDS infection in Sri Lanka
+
+*2024-04-01 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/180190) · `ta`
+
+AGIV/AIDS infection rates in Sri Lanka have risen, with 607 new cases in 2022, up from 5,011 total infections. Deaths from AGIV/AIDS-related factors in 2022 were 660,000 globally, with 271 in Sri Lanka. Despite declining deaths in 2023, the number of infections increased by 13%. Sri Lanka aims to end AIDS by 2030, but challenges remain due to insufficient sex education and awareness.
+
+🟩
+
+AGIV and AIDS are identified as important in the world's most challenging infections. The number of people who suffer from this infection all over the world can be seen as a mutant increase. Although modern medical treatment and awareness have increased their self -confidence and quality of life, the increase of infectious people makes the need for more essential programs.
+
+According to the World Health Organization's report, 39 million people live infected by the end of 2022. Of these, 1.5 million are boys.More than 1.3 new infections have been identified in the equal year.53 percent of the total number of infectious women. 630000 deaths due to AGIV / AIDS related factors in 2022. Since 2010, AIDS -related deaths have declined to 55% for women and girls and 47% among men and children.
+
+...
+
+[Data](articles/be6ec271.json)
+
+[Extended Data](ext_articles/be6ec271.ext.json)
+
+---
 
 ### Excise officers arrested with cannabis interdicted; all officers of narcotics unit transferred
 
@@ -52,39 +110,25 @@ Siyambalapitiya further states that the law will be implemented to the letter ag
 
 ---
 
-### கலால் அதிகாரிகள் தொடர்பில் அதிரடி நடவடிக்கை
+### Action action in connection with excise officials
 
 *2024-04-01 22:02:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கலால்-அதிகாரிகள்-தொடர்பில்-அதிரடி-நடவடிக்கை/175-335484) · `ta`
 
-கேரள கஞ்சாவுடன் பொலிஸாரால் கைது செய்யப்பட்ட கலால் அதிகாரிகளை பணி இடைநீக்கம் செய்ய நடவடிக்கை எடுக்கப்பட்டுள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய அறிக்கை ஒன்றை வௌியிட்டு குறிப்பிட்டுள்ளார்.
+Finance Minister Ranjith Siyambalapitiya suspends Excise Officers arrested with Kerala Cannabis, orders special inquiries. After inquiry, all involved will face legal action.
 
-இது தொடர்பில் விசேட விசாரணைகளை மேற்கொள்ளுமாறு உரிய அதிகாரிகளுக்கு உத்தரவிட்டுள்ளதாகவும் நிதி இராஜாங்க அமைச்சர் அந்த அறிக்கையில் மேலும் குறிப்பிட்டுள்ளார்.
+🟩
 
-அத்துடன், விசாரணைகளின் பின்னர், இந்தச் செயலில் ஈடுபட்டுள்ள அனைத்து அதிகாரிகளுக்கும், தரம் பாராமல் சட்டத்தை அமுல்படுத்த நடவடிக்கை எடுக்கப்படும் எனவும் குறிப்பிட்டுள்ளார். R
+Finance Minister Ranjith Siyambalapitiya has stated that steps have been taken to suspend the Excise Officers arrested by the police with Kerala Cannabis.
+
+The Minister of Finance further stated in the statement that the authorities have been ordered to conduct special inquiries into the matter.
+
+He also stated that after the inquiry, all the authorities involved in this act will be implemented to implement the law without quality.. Remble
 
 ◼️
 
 [Data](articles/67fc895b.json)
 
----
-
-### Increased AGIV/ AIDS infection in Sri Lanka
-
-*2024-04-01 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/180190) · `ta`
-
-AGIV/AIDS infection rates in Sri Lanka have risen, with 607 new cases in 2022, up from 5,011 total infections. Deaths from AGIV/AIDS-related factors in 2022 were 660,000 globally, with 271 in Sri Lanka. Despite declining deaths in 2023, the number of infections increased by 13%. Sri Lanka aims to end AIDS by 2030, but challenges remain due to insufficient sex education and awareness.
-
-🟩
-
-AGIV and AIDS are identified as important in the world's most challenging infections. The number of people who suffer from this infection all over the world can be seen as a mutant increase. Although modern medical treatment and awareness have increased their self -confidence and quality of life, the increase of infectious people makes the need for more essential programs.
-
-According to the World Health Organization's report, 39 million people live infected by the end of 2022. Of these, 1.5 million are boys.More than 1.3 new infections have been identified in the equal year.53 percent of the total number of infectious women. 630000 deaths due to AGIV / AIDS related factors in 2022. Since 2010, AIDS -related deaths have declined to 55% for women and girls and 47% among men and children.
-
-...
-
-[Data](articles/be6ec271.json)
-
-[Extended Data](ext_articles/be6ec271.ext.json)
+[Extended Data](ext_articles/67fc895b.ext.json)
 
 ---
 
@@ -112,19 +156,25 @@ Pathirana, a winning Pathirana was 3 wickets in 33 runs.
 
 ---
 
-### வவுனியா சிறையில் தடுத்து வைக்கப்பட்டிருந்த ஜா-எல நபர் மரணம்
+### Ja-Ela person who was detained in Vavuniya jail
 
 *2024-04-01 21:47:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வவுனியா-சிறையில்-தடுத்து-வைக்கப்பட்டிருந்த-ஜா-எல-நபர்-மரணம்/175-335471) · `ta`
 
-வவுனியா சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்த கைதி ஒருவர் நேற்று (31) மாலை வவுனியா வைத்தியசாலையில் மரணமடைந்துள்ளார்.
+A prisoner detained in Vavuniya Prison died at Vavuniya Hospital after being treated.
 
-குற்றச் செயல் ஒன்று தொடர்பில் வவுனியா சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்த கைதி ஒருவருக்கு உடல் நலக் குறைவு ஏற்பட்டதையடுத்து சிறைச்சாலை உத்தியோகத்தர்களால் வவுனியா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளார்.
+🟩
 
-வைத்தியசாலையில் குறித்த கைதிக்கு சிகிச்சை வழங்கப்பட்ட போதும் அவர் சிகிச்சை பலனின்றி மரணமடைந்துள்ளார்.
+A prisoner who was detained at the Vavuniya Prison has died at the Vavuniya Hospital yesterday evening.
+
+A prisoner who was detained at the Vavuniya Prison has been taken to the Vavuniya Hospital by the Prison Officers.
+
+Despite being treated at the hospital, he died without treatment.
 
 ◼️
 
 [Data](articles/86279658.json)
+
+[Extended Data](ext_articles/86279658.ext.json)
 
 ---
 
@@ -2215,49 +2265,5 @@ If the Department of Education is also supportive of this, these will be a proce
 [Data](articles/0b424192.json)
 
 [Extended Data](ext_articles/0b424192.ext.json)
-
----
-
-### Jeep, who was traveling with 15 people, fell into a 75 -foot ditch and wounded 10 people
-
-*2024-04-01 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/180132) · `ta`
-
-A Pollero jeep carrying 15 people crashed into a 75-foot ditch near Gampolai, injuring 10, who were admitted to Gampola hospital. The accident occurred as the jeep was traveling from Bandarawa to Rambukkan.
-
-🟩
-
-Police said that when a Pollero -type jeep was traveling from Bandarawa to Rambukkan, the road had crashed into a 75 -foot ditch in the Gampolai area.
-
-At least 15 people traveled in the jeep and 10 were injured and admitted to the Gampola hospital, police said.
-
-The jeep of a group of people who returned to the death house in Bandarawela area crashed at around 4 am this morning.
-
-◼️
-
-[Data](articles/f8b090f0.json)
-
-[Extended Data](ext_articles/f8b090f0.ext.json)
-
----
-
-### Fitch affirms Sri Lanka’s AMW Capital Leasing and Finance at ‘BBB(lka)’
-
-*2024-04-01 13:32:00* · [`economynextcom`](https://economynext.com/fitch-affirms-sri-lankas-amw-capital-leasing-and-finance-at-bbblka-156770/) · `en`
-
-ECONOMYNEXT – Fitch Ratings said it has affirmed AMW Capital Leasing And Finance PLC’s (AMWCL) National Long-Term Rating at ‘BBB(lka)’. The outlook remains negative.
-
-“AMWCL’s rating reflects our expectation that its parent, Associated Motor Ways (Pvt) Limited (AMW), would provide extraordinary support to the finance subsidiary, if required,” Fitch said.
-
-“The Negative Outlook on AMWCL’s rating reflects the pressure stemming from its parent’s credit profile. A prolonged ban on vehicle imports continues to impede AMW’s core business of vehicle importation and sales, weakening its earnings capacity and liquidity position.”
-
-AMW was one of Sri Lanka’s largest vehicle importers prior to the curbs. Sri Lanka has gradually rolled back import restrictions limited vehicle classes, but curbs remain on AMW’s primary segment – passenger cars, Fitch said.
-
-Fitch Affirms AMW Capital Leasing and Finance at ‘BBB(lka)’; Outlook Remains Negative
-
-...
-
-[Data](articles/7be5b63a.json)
-
-[Extended Data](ext_articles/7be5b63a.ext.json)
 
 ---

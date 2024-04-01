@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-04-01 20:33:32**
+As of **2024-04-01 20:51:01**
 
 ## Newspaper Stats
 
-*Scraped **16,451** Articles*
+*Scraped **16,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,82 @@ adalk | 1,385
 tamilmirrorlk | 1,960
 adaderanalk | 1,981
 virakesarilk | 2,346
-dailymirrorlk | 2,529
-adaderanasinhalalk | 2,664
+dailymirrorlk | 2,530
+adaderanasinhalalk | 2,665
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16,449 (100.0%) of 16,451 articles have been extended.
+16,451 (100.0%) of 16,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-04-01 (Monday)
 
-### இம்ரான் கானின் 14 ஆண்டு சிறை தண்டனை நிறுத்தி வைக்கப்பட்டுள்ளது
+### විශ්‍රාමික යුද හමුදා නිලධාරියෙකු අත්අඩංගුවට
 
-*2024-04-01 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/180189) · `ta`
+*2024-04-01 20:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/195185) · `si`
 
-பாகிஸ்தான் முன்னாள் பிரதமர் இம்ரான் கானுக்கு விதிக்கப்பட்ட 14 ஆண்டு சிறை தண்டனையை நிறுத்தி வைத்து இஸ்லாமாபாத் உயர்நீதிமன்றம் உத்தரவிட்டுள்ளது.
+අලෙවි කිරීම සඳහා සූදානම් කර තිබූ ගජමුතු 4ක් සමග විශ්‍රාමික යුද හමුදා නිලධාරියෙකු බේරුවල පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
 
-அவர் தாக்கல் செய்த மேல்முறையீட்டு மனுவை பரிசீலிக்க முடிவு செய்த நீதிமன்றம் இந்த உத்தரவை பிறப்பித்துள்ளது.
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 50 හැවිරිදි වියේ පසුවන දර්ගා නගරයේ පදිංචි විශ්‍රාමික යුද හමුදා නිලධාරියෙකි.
 
-இருப்பினும், முன்னாள் பிரதமர் இம்ரான் கான் மீதான வழக்குகள் காரணமாக இன்னும் சிறையில் உள்ளார்.
+පොලීසිය පවසන්නේ සැකකරු විසින් ගජමුතු 4 රුපියල් කෝටි දෙකකට ආසන්න මුදලකට අලෙවි කිරීමට සැලසුම් කර ඇති බවය.
+
+සැකකාර විශ්‍රාමික යුද හමුදා නිලධාරියා කළුතර මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
+
+◼️
+
+[Data](articles/5a0c46d5.json)
+
+---
+
+### Imran Khan's 14 -year prison suspended
+
+*2024-04-01 20:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/180189) · `ta`
+
+Imran Khan's 14-year prison sentence suspended by Islamabad High Court, but he remains in jail for other cases.
+
+🟩
+
+The Islamabad High Court has ordered the suspension of 14 years in prison sentenced to former Pakistani Prime Minister Imran Khan.
+
+The court has decided to consider the appeal filed by him.
+
+However, former Prime Minister Imran Khan is still in jail due to cases.
 
 ◼️
 
 [Data](articles/80287e4f.json)
+
+[Extended Data](ext_articles/80287e4f.ext.json)
+
+---
+
+### Sri Lankan bank teller saves woman losing $2000 to ’cunning’ romance scam
+
+*2024-04-01 20:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-bank-teller-saves-woman-losing-2000-to-cunning-romance-scam/108-279976) · `en`
+
+Melbourne, April 1 (9News) -  A bank teller from Sri Lanka, working at the Melbourne branch of National Australia Bank,saved a woman who he said was "blinded by her love" from losing thousands of dollars to a "cunning" scammer.
+
+The woman went into the National Australia Bank to transfer the money to a person overseas who she said was her boyfriend.
+
+But the employee, NAB Customer Advisor Dilan Pathirannahalage, was suspicious.
+
+The woman, who was in her 60s, needed help sending the money when she went into the Cranbourne bank.
+
+She said she didn't know the recipient's surname - and Pathirannahalage decided to probe further.
+
+The woman scrolled through her text messages to find the name, and showed the thread to Pathirannahalage, who noticed very affectionate language.
+
+"The messages were very lovey dovey, and looked like they were getting increasingly coercive," he said.
+
+However the woman was adamant she needed to send the money to her "boyfriend" for medical treatment.
+
+...
+
+[Data](articles/8def5b0c.json)
 
 ---
 
@@ -386,21 +436,27 @@ However, former Prime Minister Imran Khan is still imprisoned due to the cases f
 
 ---
 
-### හෑන්ඩ් ෆ්‍රී කනේ ගහගෙන ගිය පේරේ නීති සිසුවා දුම්රියට බිලි
+### Paira Parasena who had been shouting Hand free
 
 *2024-04-01 17:46:39* · [`adalk`](https://www.ada.lk/breaking_news/හෑන්ඩ්-ෆ්‍රී-කනේ-ගහගෙන-ගිය-පේරේ-නීති-සිසුවා-දුම්රියට-බිලි/11-408887) · `si`
 
-පේරාදෙණිය විශ්වවිද්‍යාලයේ ශාස්ත්‍ර පීඨයේ නීති අධ්‍යයන අංශයේ තෙවන වසරේ සිසුවෙකු අද (01) පස්වරු 2.20 ට පමණ දුම්රියේ ගැටී එම ස්ථානයේදීම මියගොස් ඇති බව පේරාදෙණිය පොලිසිය පවසයි.
+A third-year student from the University of Peradeniya, Mr. Tisice Kithara, was hit by a train while traveling from Kandy to Nawalapitiya. He was using a hands-free device.
 
-සිසුවා පේරාදෙණිය දුම්රිය ස්ථානය වෙත ගමන් කරමින් සිටිය දී මහනුවර සිට නාවලපිටිය දක්වා ගමන් කරන දුම්රියේ ගැටී තිබෙන බව පේරාදෙණිය පොලීසිය පවසයි.
+🟩
 
-මෙම සිසුවා හැන්ඩ් ෆ්‍රී උපකරණ පැළඳ ජංගම දුරකතනයෙන් ඇමැතුමක් ලබා ගෙන දුම්රිය මාර්ගයේ ගමන් කර තිබෙන බව පරීක්ෂණ මගින් අනාවරණය වී ඇත.
+A third year student of the Faculty of Arts of the University of Peradeniya has hit the train, along with the train.
 
-මියගොස් ඇත්තේ තිසල් කිත්සර නැමැති සිසුවෙකු බව පේරාදෙණිය විශ්වවිද්‍යාලය පවසයි.
+The Peradeniya Police say that the student traveled from Kandy to Nawalapitiya while the student was traveling to Peradeniya railway station.
+
+Investigations have revealed that the student had taken a call from the mobile phone wearing Hand Free equipment.
+
+The deceased has been identified as Mr. Tisice Kithara, the University of Peradeniya.
 
 ◼️
 
 [Data](articles/383162ad.json)
+
+[Extended Data](ext_articles/383162ad.ext.json)
 
 ---
 
@@ -2207,51 +2263,5 @@ The butane price was also raised by 10 dollars to 640 dollars and left unchanged
 [Data](articles/745dc07c.json)
 
 [Extended Data](ext_articles/745dc07c.ext.json)
-
----
-
-### Withdrawal of age -reducing bill for sexual relationship
-
-*2024-04-01 12:32:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலியல்-உறவுக்கான-வயதைக்-குறைக்கும்-சட்டமூலம்-வாபஸ்/175-335449) · `ta`
-
-The government withdrew the Penal Code (Amendment) Bill aiming to lower the age limit for sexual relations to 14. Justice Minister Vijayadasa Rajapakse announced the withdrawal, promising future amendment in Parliament. The bill's recommendation was submitted by legal experts and academics. The proposed amendment was to address practical issues faced by teenagers in romantic relationships, particularly concerning rape cases involving minors.
-
-🟩
-
-The government today withdrew the Penal Code (Amendment) Bill to reduce the age limit for sexual relations to 14.
-
-Speaking in Parliament, Justice Minister Vijayadasa Rajapakse said that the government would withdraw the bill and that amendment would be made in Parliament in the future.
-
-The Minister said that the recommendation of the Bill was submitted to the Ministry of Justice by the Senior President's Lawyers, Other Attorneys and Professors who had completed five years of study.
-
-He said that the amendment was proposed due to the practical problems that lovers with sexual relations should face at the consent of the romantic relationship.
-
-“In general, girls between the ages of 14 and 16 are being charged in cases of rape by 16 to 22 -year -olds.
-
-When such cases were taken up for hearing in the Magistrate's Courts, the little girl was mature, and some of them were already married to the young man.
-
-...
-
-[Data](articles/0c4a1c23.json)
-
-[Extended Data](ext_articles/0c4a1c23.ext.json)
-
----
-
-### Wimal received
-
-*2024-04-01 12:25:44* · [`adalk`](https://www.ada.lk/breaking_news/විමල්ට-ලැබුණු-තීන්දුව/11-408879) · `si`
-
-MP Wimal Weerawansa cleared from passport case by Negombo Magistrate's Court.
-
-🟩
-
-MP Wimal Weerawansa has acquired and released from the passport case by the Passport case by the Negombo Magistrate's Court.
-
-◼️
-
-[Data](articles/999c887e.json)
-
-[Extended Data](ext_articles/999c887e.ext.json)
 
 ---
